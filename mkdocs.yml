@@ -5,8 +5,14 @@ site_name: CROWN AND MISERY WIKI
 nav:
   - Home: main.md
   - Lore:
-    - Antares: antares-intro.md
-    - Geography: antares-current.md
+    - Antares: antares/antares.md
+    - Geography and Geopolitics: antares/geography.md
+    - Life: antares/life.md
+  - Gameplay:
+    # Character Creations: 
+    - Playing the Game: gameplay/playing-the-game.md
+    - Combat: gameplay/combat.md
+    - Spellcasting: gameplay/spellcasting.md
 
 # Author
 site_author: Eschatologue
