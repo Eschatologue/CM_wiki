@@ -1,47 +1,63 @@
 # Project information
 site_name: CROWN AND MISERY WIKI
-# defeine TOC or order of website-
-nav:
-  - Home: index.md
 
+# TOC and Orders
+nav:
+  - Home: main.md
+  - Lore:
+    - Antares: antares-intro.md
+    - Geography: antares-current.md
+
+# Author
 site_author: Eschatologue
 site_description: >-
   What are thoseee
-
-# Repository
-repo_name: Eschatologue/CM_wiki
-repo_url: https://github.com/eschatologue/cm_wiki
 
 # Configuration
 theme:
   name: material
   features:
+    - navigation.top
     - navigation.tabs
     - navigation.sections
-    - toc.integrate
-    - navigation.top
+    - navigation.tracking
+
+    # toc.integrate
+    - toc.follow
+
   language: en
-  palette: mkdocs serve
-    - scheme: default
+
+# Palette
+  palette:
+    - media: "(prefers-color-scheme)"
       toggle:
-        icon: material/toggle-switch-off-outline 
-        name: Switch to dark mode
-      primary: teal
-      accent: purple 
-    - scheme: slate 
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode    
-      primary: teal
-      accent: lime    
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
+# Font
+  font:
+    text: Roboto
+    code: Roboto Mono
   # logo: PyTorch_logo_icon.svg
-  
-extra:
-  social:
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/eschatologue
 
+# Markdown Extentions
+## I dont know what these do, best to not touch it
 markdown_extensions:
+  - attr_list
+  - md_in_html
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
@@ -54,9 +70,11 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.mark
   
-  
+# Additional Plugins
 plugins:
-  - search
+  - search:
+      separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
 
+# Copyright
 copyright: |
-  &copy; 2022 <a href="https://github.com/eschatologue"  target="_blank" rel="noopener">Eschatologue</a>
+  &copy; 2024 <a href="https://github.com/eschatologue"  target="_blank" rel="noopener">Eschatologue</a>
