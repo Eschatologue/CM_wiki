@@ -79,6 +79,9 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.mark
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
   
 # Additional Plugins
 plugins:

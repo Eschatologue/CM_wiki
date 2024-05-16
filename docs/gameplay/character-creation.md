@@ -1,13 +1,19 @@
 # Character Creations
 This D&D campaign setting uses the same rulings as what you would find in other settings with minor additions and modifications. On a notable note, it uses combinations of 5th Edition ruling and OneD&D ruling.
 
+## Choosing a Class
+*Main Article: [Classes](/CM_wiki/gameplay/classes)*
+Please choose a class from the available options listed, all subclasses is allowed except those from *Unrearthed Arcana* (UA), unless stated inside Bonus Subclasses below
+
+You can only multiclass when your character reach 4th-level.
+
 ## Starting Stats
-In this setting, we uses the Standard Array as follow: `15, 14, 13, 12, 10, and 8`
+In this setting, we uses the Standard Array as follow: `15, 14, 13, 12, 10,` and `8`
 
 Simply assign one number to each ability score (one to Strength, one to Dexterity, one to Constitution, and so on). Then, you'll be able to determine your character's modifier for each score.
 
 ### Ability Scores
-*Main Article: [Ability Score](/docs/gameplay/playing-the-game.md#ability-scores-and-modifiers)*
+*Main Article: [Ability Score](/CM_wiki/gameplay/playing-the-game/#ability-scores-and-modifiers)*
 
 Each of a creature's abilities has a score, a number that defines the magnitude of that ability. An ability score is not just a measure of innate capabilities, but also encompasses a creature's training and competence in activities related to that ability.
 
@@ -28,6 +34,11 @@ Because ability modifiers affect almost every attack roll, ability check, and sa
 | 12-13 | +1 | 28-29 | +9 |
 | 14-15 | +2 | 30 | +10 |
 
-!!! tip "Tip"
+!!! tip "Optimization"
 
-    This setting is leans quite on the optimisation side, make sure you ask arround or search the web relating on how best would you distribute your starting stats for what character idea you have in mind.
+    This DnD setting leans heavily towards optimization, so make sure to ask around or search the web for guidance on how to best distribute and allocate your starting stats for the character idea you have in mind. Properly optimized stats can significantly enhance your gameplay experience and ensure your character is as effective as possible in their chosen role. ~~Meta is the minimum~~
+
+## Starting Level
+For this campaign, you will start at 3rd-level. 
+
+When making your character, make one normally starting the 1st-level, and then treat it as you levelled up twice to 3rd-level. Some class feature grants additional benefits or even subclass choice at 3rd-level, so keep that in mind
