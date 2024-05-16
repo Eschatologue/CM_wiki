@@ -8,25 +8,25 @@ Each class is a part of a Class Group-a set of Classes that have certain feature
 
 <div class="grid cards" markdown>
 
-- :material-google-nearby: **Expert**
+- :material-google-nearby:{ .lg .middle } **Expert**
 
     Polymaths who have certain expertise and elements of other Classes. They take role of either specialists or generalists.
 
     **Classes:** Artificer, Bard, Ranger, Rogue
 
-- :material-cross-celtic: **Priest**
+- :material-cross-celtic:{ .lg .middle } **Priest**
     
     Stewards of nature and divine magics, focusing on utility, healing, buffs, and defense.
 
     **Classes:** Druid, Cleric, Paladin
 
-- :material-axe-battle: **Warrior**
+- :material-axe-battle:{ .lg .middle } **Warrior**
     
     Masters of combar who can deal and endure many wounds.
 
     **Classes:** Barbarian, Fighter, Monk
 
-- :material-weather-hurricane: **Mages**
+- :material-weather-hurricane:{ .lg .middle } **Mages**
     
     Adepts of the arcane, focusing on utility and destructions.
 

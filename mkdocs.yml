@@ -7,7 +7,7 @@ nav:
   - Lore:
     - Antares: antares/antares.md
     - Geography and Geopolitics: antares/geography.md
-    - Life: antares/life.md
+    - Life in Antares: antares/life.md
   - Gameplay:
     - Character Creations: gameplay/character-creation.md
     - Classes: gameplay/classes.md
@@ -21,14 +21,21 @@ site_author: Eschatologue
 site_description: >-
  A wiki made for a personal D&D campaign
 
+# CSS
+extra_css:
+  - css/extra.css
+
 # Configuration
 theme:
   name: material
   features:
+    # Nav
     - navigation.top
     - navigation.tabs
     - navigation.sections
     - navigation.tracking
+  
+    - content.tooltips
 
     # toc.integrate
     - toc.follow
@@ -71,6 +78,7 @@ markdown_extensions:
   - md_in_html
   - admonition
   - footnotes
+  - tables
 
   - pymdownx.highlight:
       anchor_linenums: true
@@ -87,6 +95,8 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: true
   
 # Additional Plugins
 plugins:

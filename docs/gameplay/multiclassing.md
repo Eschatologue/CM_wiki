@@ -1,5 +1,3 @@
-## Multiclassing
-
 Multiclassing allows you to gain levels in multiple classes. Doing so lets you mix the abilities of those classes to realize a character concept that might not be reflected in one of the standard class options.
 
 With this rule, you have the option of gaining a level in a new class whenever you advance in level, instead of gaining a level in your current class. Your levels in all your classes are added together to determine your character level. For example, if you have three levels in wizard and two in fighter, you're a 5th-level character.
@@ -43,7 +41,7 @@ Your proficiency bonus is always based on your total character level, as shown i
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies, as shown in the Multiclassing Proficiencies table.
 
 ##### Multiclassing Proficiencies
-| Class     | Proficiencies Gained                                                                                       |
+| **Class** | **Proficiencies Gained**                                                                                   |
 |-----------|------------------------------------------------------------------------------------------------------------|
 | Artificer | Light armor, medium armor, shields, thieves' tools, tinker's tools                                         |
 | Barbarian | Shields, simple weapons, martial weapons                                                                   |
@@ -94,28 +92,31 @@ For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th
 ***Pact Magic.*** If you have both the Spellcasting class feature and the Pact Magic class feature from the warlock class, you can use the spell slots you gain from the Pact Magic feature to cast spells you know or have prepared from classes with the Spellcasting class feature, and you can use the spell slots you gain from the Spellcasting class feature to cast warlock spells you know.
 
 ##### Multiclass Spellcaster: Spell Slots per Spell Level
-| Lvl. | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1st  |  2  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
-| 2nd  |  3  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
-| 3rd  |  4  |  2  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
-| 4th  |  4  |  3  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
-| 5th  |  4  |  3  |  2  |  —  |  —  |  —  |  —  |  —  |  —  |
-| 6th  |  4  |  3  |  3  |  —  |  —  |  —  |  —  |  —  |  —  |
-| 7th  |  4  |  3  |  3  |  1  |  —  |  —  |  —  |  —  |  —  |
-| 8th  |  4  |  3  |  3  |  2  |  —  |  —  |  —  |  —  |  —  |
-| 9th  |  4  |  3  |  3  |  3  |  1  |  —  |  —  |  —  |  —  |
-| 10th |  4  |  3  |  3  |  3  |  2  |  —  |  —  |  —  |  —  |
-| 11th |  4  |  3  |  3  |  3  |  2  |  1  |  —  |  —  |  —  |
-| 12th |  4  |  3  |  3  |  3  |  2  |  1  |  —  |  —  |  —  |
-| 13th |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  —  |  —  |
-| 14th |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  —  |  —  |
-| 15th |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  —  |
-| 16th |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  —  |
-| 17th |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  1  |
-| 18th |  4  |  3  |  3  |  3  |  3  |  1  |  1  |  1  |  1  |
-| 19th |  4  |  3  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |
-| 20th |  4  |  3  |  3  |  3  |  3  |  2  |  2  |  1  |  1  |
+
+| **Lvl.** | **I** | **II** | **III** | **IV** | **V** | **VI** | **VII** | **VIII** | **IX** |
+|:--------:|:-----:|:------:|:-------:|:------:|:-----:|:------:|:-------:|:--------:|:------:|
+| 1st      | 2     | —      | —       | —      | —     | —      | —       | —        | —      |
+| 2nd      | 3     | —      | —       | —      | —     | —      | —       | —        | —      |
+| 3rd      | 4     | 2      | —       | —      | —     | —      | —       | —        | —      |
+| 4th      | 4     | 3      | —       | —      | —     | —      | —       | —        | —      |
+| 5th      | 4     | 3      | 2       | —      | —     | —      | —       | —        | —      |
+| 6th      | 4     | 3      | 3       | —      | —     | —      | —       | —        | —      |
+| 7th      | 4     | 3      | 3       | 1      | —     | —      | —       | —        | —      |
+| 8th      | 4     | 3      | 3       | 2      | —     | —      | —       | —        | —      |
+| 9th      | 4     | 3      | 3       | 3      | 1     | —      | —       | —        | —      |
+| 10th     | 4     | 3      | 3       | 3      | 2     | —      | —       | —        | —      |
+| 11th     | 4     | 3      | 3       | 3      | 2     | 1      | —       | —        | —      |
+| 12th     | 4     | 3      | 3       | 3      | 2     | 1      | —       | —        | —      |
+| 13th     | 4     | 3      | 3       | 3      | 2     | 1      | 1       | —        | —      |
+| 14th     | 4     | 3      | 3       | 3      | 2     | 1      | 1       | —        | —      |
+| 15th     | 4     | 3      | 3       | 3      | 2     | 1      | 1       | 1        | —      |
+| 16th     | 4     | 3      | 3       | 3      | 2     | 1      | 1       | 1        | —      |
+| 17th     | 4     | 3      | 3       | 3      | 2     | 1      | 1       | 1        | 1      |
+| 18th     | 4     | 3      | 3       | 3      | 3     | 1      | 1       | 1        | 1      |
+| 19th     | 4     | 3      | 3       | 3      | 3     | 2      | 1       | 1        | 1      |
+| 20th     | 4     | 3      | 3       | 3      | 3     | 2      | 2       | 1        | 1      |
+
+
 
 #### Starting Equipment
 

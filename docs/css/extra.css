@@ -1,0 +1,19 @@
+/* Table Size */
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+    padding: 4px 10px;
+}
+
+/* Heading Size */
+h2.doc-heading {
+    font-size: 1.55rem;
+}
+h3.doc-heading {
+    font-size: 1.45rem;
+}
+h4.doc-heading {
+    font-size: 1.35rem;
+}
+h5.doc-heading {
+    font-size: 1.25rem;
+}
