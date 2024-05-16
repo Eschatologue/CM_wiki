@@ -1,14 +1,14 @@
-# Character Creations
+# Create your Character
 This D&D campaign setting uses the same rulings as what you would find in other settings with minor additions and modifications. On a notable note, it uses combinations of 5th Edition ruling and OneD&D ruling.
 
 ## Choosing a Class
 *Main Article: [Classes](/CM_wiki/gameplay/classes)*
 Please choose a class from the available options listed, all subclasses is allowed except those from *Unrearthed Arcana* (UA), unless stated inside Bonus Subclasses below
 
-You can only multiclass when your character reach 4th-level.
+You can also choose to [multiclass](/CM_wiki/gameplay/multiclassing) when the prerequisites are met.
 
 ## Starting Stats
-In this setting, we uses the Standard Array as follow: `15, 14, 13, 12, 10,` and `8`
+In this setting, we uses the Standard Array as follow: `15`, `14`, `13`, `12`, `10`, and `8`
 
 Simply assign one number to each ability score (one to Strength, one to Dexterity, one to Constitution, and so on). Then, you'll be able to determine your character's modifier for each score.
 

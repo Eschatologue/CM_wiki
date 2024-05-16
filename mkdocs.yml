@@ -14,6 +14,7 @@ nav:
     - Playing the Game: gameplay/playing-the-game.md
     - Combat: gameplay/combat.md
     - Spellcasting: gameplay/spellcasting.md
+    - Multiclassing: gameplay/multiclassing.md
 
 # Author
 site_author: Eschatologue
@@ -83,6 +84,9 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   
 # Additional Plugins
 plugins:
