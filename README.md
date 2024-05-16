@@ -1,4 +1,3 @@
-# docsTemplate
-its just a template Repository for documentation
+# Crown and Misery Wki
 
-Click on `Use this template` button on the top right to use this repository as a boiler plate for your next documentation
+A personal D&D campaign Wiki made using [Material for MkDocs](https://github.com/squidfunk/mkdocs-material)
