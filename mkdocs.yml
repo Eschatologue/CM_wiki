@@ -9,7 +9,7 @@ nav:
     - Geography and Geopolitics: antares/geography.md
     - Life: antares/life.md
   - Gameplay:
-    # Character Creations: 
+    - Character Creations: gameplay/character-creation.md
     - Playing the Game: gameplay/playing-the-game.md
     - Combat: gameplay/combat.md
     - Spellcasting: gameplay/spellcasting.md
@@ -30,6 +30,10 @@ theme:
 
     # toc.integrate
     - toc.follow
+
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
 
   language: en
 
