@@ -28,4 +28,5 @@ Because ability modifiers affect almost every attack roll, ability check, and sa
 | 14-15 | +2 | 30 | +10 |
 
 !!! tip "Tip"
+
     This setting is leans quite on the optimisation side, make sure you ask arround or search the web relating on how best would you distribute your starting stats for what character idea you have in mind.
