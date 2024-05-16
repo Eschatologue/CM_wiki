@@ -10,6 +10,7 @@ nav:
     - Life: antares/life.md
   - Gameplay:
     - Character Creations: gameplay/character-creation.md
+    - Classes: gameplay/classes.md
     - Playing the Game: gameplay/playing-the-game.md
     - Combat: gameplay/combat.md
     - Spellcasting: gameplay/spellcasting.md
