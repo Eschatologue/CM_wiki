@@ -58,14 +58,16 @@ As you advance in levels, you might primarily remain a member of your original c
 
 An artificer learned to wield their magic through the mastering of sigils and diagrams or combining technologies and traditional magic, as well as using magical ingredients. Artificers infused objects of the world, be they inanimate or alive, with the power of the arcane, making them both powerful crafters and healers. 
 
-#### Allowed Subclasses
-
 <div class="grid cards" markdown>
 
 - **Alchemist**
 - **Armourer**
 - **Artilerist**
 - **Battlesmith**   
+- **Alchemist**
+- **Armourer**
+- **Artilerist**
+- **Battlesmith** 
 
 </div>
 
