@@ -81,6 +81,7 @@ theme:
 markdown_extensions:
   - attr_list
   - md_in_html
+  - def_list
   - admonition
   - footnotes
   - tables
