@@ -13,8 +13,11 @@ nav:
     - Playing the Game: gameplay/playing-the-game.md
     - Combat: gameplay/combat.md
     - Spellcasting: gameplay/spellcasting.md
-  - Classes: classes/classes.md
-    - Multiclassing: classes/multiclassing.md
+    - Multiclassing: gameplay/multiclassing.md
+  - Chartacter Creation:
+    - Quickstart: character-creation/quickstart.md
+    - Classes: character-creation/classes.md
+
 
 # Author
 site_author: Eschatologue
