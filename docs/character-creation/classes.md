@@ -60,14 +60,10 @@ An artificer learned to wield their magic through the mastering of sigils and di
 
 <div class="grid cards" markdown>
 
-- **Alchemist**
-- **Armourer**
-- **Artilerist**
-- **Battlesmith**   
-- **Alchemist**
-- **Armourer**
-- **Artilerist**
-- **Battlesmith** 
+- :material-beaker:{ .lg middle } **Alchemist**
+- :material-shield-edit:{ .lg middle } **Armourer**
+- :material-fire-circle:{ .lg middle } **Artilerist**
+- :material-hammer:{ .lg middle } **Battlesmith**   
 
 </div>
 
@@ -76,6 +72,20 @@ An artificer learned to wield their magic through the mastering of sigils and di
 *"The strong embrace the wild that hides inside - keen instincts, primal physicality, and most of all, an unbridled, unquenchable rage."*
 
 Barbarians were mighty warriors who relied on their strength and incredible toughness, characterized by a bestial rage empowered either by ancestral totems and nature spirits or an inner passion for violence, and on some occasions, excessive calm and reason. Barbarians were less versatile than fighters but were tougher and capable of dealing heavy damage to their foes much more quickly.
+
+<div class="grid cards" markdown>
+
+- :simple-springsecurity:{ .lg middle } **Ancestral Guardian**
+- :simple-fastify:{ .lg middle } **Battlerager**
+- :fontawesome-brands-wolf-pack-battalion:{ .lg middle } **Beast**
+- :material-axe:{ .lg middle } **Berserker**  
+- :simple-burton:{ .lg middle } **Giant**
+- :simple-thunderstore:{ .lg middle } **Storm Herald**
+- :material-nature:{ .lg middle } **Totem Warrior**
+- :simple-codemagic:{ .lg middle } **Wild Magic**  
+- :material-cross-bolnisi:{ .lg middle } **Zealot** 
+
+</div>
 
 ### :material-guitar-acoustic:{ .lg .middle } Bard
 
