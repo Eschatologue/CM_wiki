@@ -8,7 +8,7 @@ This D&D campaign setting uses the same rulings as what you would find in other 
 [wip]
 
 ## Choosing a Class
-*Main Article: [Classes](/CM_wiki/gameplay/classes)*
+*Main Article: [Classes](/CM_wiki/character-creation/classes)*
 
 Please choose a class from the available options listed, all subclasses is allowed except those from *Unrearthed Arcana* (UA), unless stated inside Bonus Subclasses below
 

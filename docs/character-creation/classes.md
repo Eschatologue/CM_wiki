@@ -52,3 +52,5 @@ As you advance in levels, you might primarily remain a member of your original c
 
 ## Playable Classes
 
+### :material-google-nearby:{ .lg .middle } Artificer
+ Testt
