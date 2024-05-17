@@ -9,14 +9,16 @@ nav:
     - Geography and Geopolitics: antares/geography.md
     - Life in Antares: antares/life.md
   - Gameplay & Basics:
-    - Character Creations: gameplay/character-creation.md
     - Playing the Game: gameplay/playing-the-game.md
     - Combat: gameplay/combat.md
     - Spellcasting: gameplay/spellcasting.md
     - Multiclassing: gameplay/multiclassing.md
   - Chartacter Creation:
     - Quickstart: character-creation/quickstart.md
+#    - Races: character-creation/races.md
     - Classes: character-creation/classes.md
+#    - Feat: character-creation/feat.md
+#    - Skills: character-creation/feat.md
 
 
 # Author

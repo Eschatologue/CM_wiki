@@ -1,8 +1,15 @@
-# Create your Character
+# Creating your Character
 This D&D campaign setting uses the same rulings as what you would find in other settings with minor additions and modifications. On a notable note, it uses combinations of 5th Edition ruling and OneD&D ruling.
+
+## Choose a Race
+[wip]
+
+## Choose a Background
+[wip]
 
 ## Choosing a Class
 *Main Article: [Classes](/CM_wiki/gameplay/classes)*
+
 Please choose a class from the available options listed, all subclasses is allowed except those from *Unrearthed Arcana* (UA), unless stated inside Bonus Subclasses below
 
 You can also choose to [multiclass](/CM_wiki/gameplay/multiclassing) when the prerequisites are met.
@@ -36,7 +43,7 @@ Because ability modifiers affect almost every attack roll, ability check, and sa
 
 !!! tip "Optimization"
 
-    This DnD setting leans heavily towards optimization, so make sure to ask around or search the web for guidance on how to best distribute and allocate your starting stats for the character idea you have in mind. Properly optimized stats can significantly enhance your gameplay experience and ensure your character is as effective as possible in their chosen role. ~~Meta is the minimum~~
+    This DnD setting leans heavily towards optimization, so make sure to ask around or search the web for guidance on how to best distribute and allocate your starting stats for the character idea you have in mind. Properly optimized stats can significantly enhance your gameplay experience and ensure your character is as effective as possible in their chosen role.
 
 ## Starting Level
 For this campaign, you will start at 3rd-level. 
