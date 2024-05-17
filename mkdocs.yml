@@ -3,18 +3,18 @@ site_name: CROWN AND MISERY WIKI
 
 # TOC and Orders
 nav:
-  - Home: main.md
+  - Home: index.md
   - Lore:
     - Antares: antares/antares.md
     - Geography and Geopolitics: antares/geography.md
     - Life in Antares: antares/life.md
-  - Gameplay:
+  - Gameplay & Basics:
     - Character Creations: gameplay/character-creation.md
-    - Classes: gameplay/classes.md
     - Playing the Game: gameplay/playing-the-game.md
     - Combat: gameplay/combat.md
     - Spellcasting: gameplay/spellcasting.md
-    - Multiclassing: gameplay/multiclassing.md
+  - Classes: classes/classes.md
+    - Multiclassing: classes/multiclassing.md
 
 # Author
 site_author: Eschatologue
