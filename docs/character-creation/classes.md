@@ -60,10 +60,10 @@ An artificer learned to wield their magic through the mastering of sigils and di
 
 <div class="grid cards" markdown>
 
-- :material-beaker:{ .lg middle } **Alchemist**
-- :material-shield-edit:{ .lg middle } **Armourer**
-- :material-fire-circle:{ .lg middle } **Artilerist**
-- :material-hammer:{ .lg middle } **Battlesmith**   
+- :material-beaker:{ .lg .middle } **Alchemist**
+- :material-shield-edit:{ .lg .middle } **Armourer**
+- :material-fire-circle:{ .lg .middle } **Artilerist**
+- :material-hammer:{ .lg .middle } **Battlesmith**   
 
 </div>
 
@@ -75,15 +75,14 @@ Barbarians were mighty warriors who relied on their strength and incredible toug
 
 <div class="grid cards" markdown>
 
-- :simple-springsecurity:{ .lg middle } **Ancestral Guardian**
-- :simple-fastify:{ .lg middle } **Battlerager**
-- :fontawesome-brands-wolf-pack-battalion:{ .lg middle } **Beast**
-- :material-axe:{ .lg middle } **Berserker**  
-- :simple-burton:{ .lg middle } **Giant**
-- :simple-thunderstore:{ .lg middle } **Storm Herald**
-- :material-nature:{ .lg middle } **Totem Warrior**
-- :simple-codemagic:{ .lg middle } **Wild Magic**  
-- :material-cross-bolnisi:{ .lg middle } **Zealot** 
+- :simple-springsecurity:{ .lg .middle } **Ancestral Guardian**
+- :fontawesome-brands-wolf-pack-battalion:{ .lg .middle } **Beast**
+- :material-axe:{ .lg .middle } **Berserker**  
+- :simple-burton:{ .lg .middle } **Giant**
+- :simple-thunderstore:{ .lg .middle } **Storm Herald**
+- :material-nature:{ .lg .middle } **Totem Warrior**
+- :simple-codemagic:{ .lg .middle } **Wild Magic**  
+- :material-cross-bolnisi:{ .lg .middle } **Zealot** 
 
 </div>
 
@@ -94,6 +93,15 @@ Barbarians were mighty warriors who relied on their strength and incredible toug
 Bards are versatile arcane spellcasters, capable in combat, art, and magic alike. Bards practiced magic as they would art or song, using their artistic talents to induce magical effects that either bolstered their allies or hindered their enemies, typically through charms and illusions. 
 
 In addition to their magical skills, bards were artistically talented and extraordinarily well-learned, possessing knowledge in a wide range of fields. Bards were among the most versatile of adventurers, capable of learning from practically any trade.
+
+- :octicons-repo-template-16:{ .lg .middle } **Creation**
+- :fontawesome-brands-wolf-pack-battalion:{ .lg .middle } **Eloquence**
+- :fontawesome-solid-wand-sparkles:{ .lg .middle } **Glamour**  
+- :material-book-education:{ .lg .middle } **Lore**
+- :fontawesome-solid-person-burst:{ .lg .middle } **Spirits**
+- :material-sword:{ .lg .middle } **Swords**
+- :material-flag-variant:{ .lg .middle } **Valour**  
+- :material-wall-sconce-round:{ .lg .middle } **Whispers** 
 
 ### :material-cross-celtic:{ .lg .middle } Cleric
 
