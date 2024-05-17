@@ -56,24 +56,24 @@ As you advance in levels, you might primarily remain a member of your original c
 
 Rare kind of arcane spellcaster who treated magic in the same manner as a mason might see a chisel as a tool for the creation of marvels. 
 
-An artificer learned to wield their magic through the mastering of sigils and diagrams or combining technologies and traditional magic, as well as using magical ingredients. Artificers infused objects of the world, be they inanimate or alive, with the power of the arcane, making them both powerful crafters and healers. 
+:   An artificer learned to wield their magic through the mastering of sigils and diagrams or combining technologies and traditional magic, as well as using magical ingredients. Artificers infused objects of the world, be they inanimate or alive, with the power of the arcane, making them both powerful crafters and healers. 
 
 ### :material-axe-battle:{ .lg .middle } Barbarian
 
 The strong embrace the wild that hides inside - keen instincts, primal physicality, and most of all, an unbridled, unquenchable rage.
 
-Barbarians were mighty warriors who relied on their strength and incredible toughness, characterized by a bestial rage empowered either by ancestral totems and nature spirits or an inner passion for violence, and on some occasions, excessive calm and reason. Barbarians were less versatile than fighters but were tougher and capable of dealing heavy damage to their foes much more quickly.
+:   Barbarians were mighty warriors who relied on their strength and incredible toughness, characterized by a bestial rage empowered either by ancestral totems and nature spirits or an inner passion for violence, and on some occasions, excessive calm and reason. Barbarians were less versatile than fighters but were tougher and capable of dealing heavy damage to their foes much more quickly.
 
 ### :material-guitar-acoustic:{ .lg .middle } Bard
 
 You know music is more than a fancy - it is power. Through study and adventure, you have mastered song, speech, and the magic within.
 
-Bards are versatile arcane spellcasters, capable in combat, art, and magic alike. Bards practiced magic as they would art or song, using their artistic talents to induce magical effects that either bolstered their allies or hindered their enemies, typically through charms and illusions. In addition to their magical skills, bards were artistically talented and extraordinarily well-learned, possessing knowledge in a wide range of fields. Bards were among the most versatile of adventurers, capable of learning from practically any trade.
+:   Bards are versatile arcane spellcasters, capable in combat, art, and magic alike. Bards practiced magic as they would art or song, using their artistic talents to induce magical effects that either bolstered their allies or hindered their enemies, typically through charms and illusions. In addition to their magical skills, bards were artistically talented and extraordinarily well-learned, possessing knowledge in a wide range of fields. Bards were among the most versatile of adventurers, capable of learning from practically any trade.
 
-### :material-guitar-acoustic:{ .lg .middle } Cleric
+### :material-cross-celtic:{ .lg .middle } Cleric
 
 Clerics are representatives of the gods they worship, wielding potent divine magic for good or ill.
 
-A cleric was once a divine servant of one or more gods, serving them with martial might and divine magic fueled by their own strength of faith. As agents of a divine authority, clerics were empowered both by ritual training and their god's particular favor. Relatively rare, clerics inspired both reverence and terror, depending on their aims and who they served.
+:   A cleric was once a divine servant of one or more gods, serving them with martial might and divine magic fueled by their own strength of faith. As agents of a divine authority, clerics were empowered both by ritual training and their god's particular favor. Relatively rare, clerics inspired both reverence and terror, depending on their aims and who they served.
 
-Nowadays, the deities of the past have been absorbed and replaced by Spires. While recent clerics are closer to representatives of an Ascent they stride in, some clerics still worship these past gods.
+:   Nowadays, the deities of the past have been absorbed and replaced by Spires. While recent clerics are closer to representatives of an Ascent they stride in, some clerics still worship these past gods.
