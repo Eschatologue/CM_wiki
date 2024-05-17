@@ -58,7 +58,7 @@ As you advance in levels, you might primarily remain a member of your original c
 
 An artificer learned to wield their magic through the mastering of sigils and diagrams or combining technologies and traditional magic, as well as using magical ingredients. Artificers infused objects of the world, be they inanimate or alive, with the power of the arcane, making them both powerful crafters and healers. 
 
-<div class="grid cards" markdown>
+<div class="grid" markdown>
 
 - :material-beaker:{ .lg .middle } **Alchemist**
 - :material-shield-edit:{ .lg .middle } **Armourer**
@@ -73,7 +73,7 @@ An artificer learned to wield their magic through the mastering of sigils and di
 
 Barbarians were mighty warriors who relied on their strength and incredible toughness, characterized by a bestial rage empowered either by ancestral totems and nature spirits or an inner passion for violence, and on some occasions, excessive calm and reason. Barbarians were less versatile than fighters but were tougher and capable of dealing heavy damage to their foes much more quickly.
 
-<div class="grid cards" markdown>
+<div class="grid" markdown>
 
 - :simple-springsecurity:{ .lg .middle } **Ancestral Guardian**
 - :fontawesome-brands-wolf-pack-battalion:{ .lg .middle } **Beast**
@@ -94,14 +94,18 @@ Bards are versatile arcane spellcasters, capable in combat, art, and magic alike
 
 In addition to their magical skills, bards were artistically talented and extraordinarily well-learned, possessing knowledge in a wide range of fields. Bards were among the most versatile of adventurers, capable of learning from practically any trade.
 
+<div class="grid" markdown>
+
 - :octicons-repo-template-16:{ .lg .middle } **Creation**
-- :fontawesome-brands-wolf-pack-battalion:{ .lg .middle } **Eloquence**
+- :simple-discogs:{ .lg .middle } **Eloquence**
 - :fontawesome-solid-wand-sparkles:{ .lg .middle } **Glamour**  
 - :material-book-education:{ .lg .middle } **Lore**
 - :fontawesome-solid-person-burst:{ .lg .middle } **Spirits**
 - :material-sword:{ .lg .middle } **Swords**
 - :material-flag-variant:{ .lg .middle } **Valour**  
 - :material-wall-sconce-round:{ .lg .middle } **Whispers** 
+
+</div>
 
 ### :material-cross-celtic:{ .lg .middle } Cleric
 
