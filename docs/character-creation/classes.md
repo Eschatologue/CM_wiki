@@ -273,7 +273,7 @@ A **paladin** was a holy crusader, sworn to an oath to promote and fight for the
 
 </div>
 
-### :material-shield-cross:{ .lg .middle } Sorcerer
+### :material-fire:{ .lg .middle } Sorcerer
 
 *"Sorcerers are natural spellcasters, drawing on inherent magic from a gift or bloodline."*
 
