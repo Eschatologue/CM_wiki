@@ -35,8 +35,8 @@ Heavier armour interferes with the wearer's ability to move quickly, stealthily,
 
 - **Shields**
     
-| ARMOUR | COST | ARMOUR CLASS (AC) | STRENGTH | STEALTH |
-| --- | --- | --- | --- | --- |
+| **Armour** | **Cost** | **Armour Class (AC)** | **Strength** | **Stealth** |
+| --- | --: | --- | --- | :-: |
 | Buckler* | 50 sp | +1 | - | - |
 | Shield | 100 sp | +2 | - | - |
 | Tower** | 400 sp | +3 | Str 16 | Disadvantage |
@@ -50,7 +50,7 @@ Heavier armour interferes with the wearer's ability to move quickly, stealthily,
 Anyone can put on a suit of armour or strap a shield to an arm. Only those proficient in the armour's use know how to wear it effectively, however. Your class gives you proficiency with certain types of armour. If you wear armour that you lack proficiency with, you have a disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can't cast spells.
 
 ### Armour Class (AC)
-*Main Article: [Armour Class](/docs/quickref/ac.md)*
+*Main Article: [Armour Class](./docs/quickref/ac.md)*
 
 Armour protects its wearer from attacks. The armour (and shield) you wear determines your base Armour Class.
 

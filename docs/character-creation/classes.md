@@ -6,26 +6,26 @@ A character's class in D&D is one of their primary defining features. Each class
 
 Each class is a part of a Class Group-a set of Classes that have certain features and themes in common. 
 
-- :material-google-nearby:{ .lg .middle } **Expert**
+:material-google-nearby:{ .lg .middle } **Expert**
 
     :   Polymaths who have certain expertise and elements of other Classes. They take role of either specialists or generalists.
 
     :   **Classes:** 
         - Artificer^TCE^, Bard^PHB^, Ranger^TCE/PHB^, Rogue^PHB^
 
-- :material-cross-celtic:{ .lg .middle } **Priest**
+:material-cross-celtic:{ .lg .middle } **Priest**
     
     :   Stewards of nature and divine magics, focusing on utility, healing, buffs, and defence.
 
     :   **Classes:** Druid^PHB^, Cleric^PHB^, Paladin^PHB^
 
-- :material-axe-battle:{ .lg .middle } **Warrior**
+:material-axe-battle:{ .lg .middle } **Warrior**
     
     :   Masters of combar who can deal and endure many wounds.
 
     :   **Classes:** Barbarian^TCE/PHB^ Fighter^PHB^, Monk^PHB^
 
-- :material-weather-hurricane:{ .lg .middle } **Mages**
+:material-weather-hurricane:{ .lg .middle } **Mages**
     
     :   Adepts of the arcane, focusing on utility and destructions.
 
