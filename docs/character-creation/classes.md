@@ -8,28 +8,28 @@ Each class is a part of a Class Group-a set of Classes that have certain feature
 
 :material-google-nearby:{ .lg .middle } **Expert**
 
-    :   Polymaths who have certain expertise and elements of other Classes. They take role of either specialists or generalists.
+:   Polymaths who have certain expertise and elements of other Classes. They take role of either specialists or generalists.
 
-    :   **Classes:** 
+:   **Classes:** 
         - Artificer^TCE^, Bard^PHB^, Ranger^TCE/PHB^, Rogue^PHB^
 
 :material-cross-celtic:{ .lg .middle } **Priest**
     
-    :   Stewards of nature and divine magics, focusing on utility, healing, buffs, and defence.
+:   Stewards of nature and divine magics, focusing on utility, healing, buffs, and defence.
 
-    :   **Classes:** Druid^PHB^, Cleric^PHB^, Paladin^PHB^
+:   **Classes:** Druid^PHB^, Cleric^PHB^, Paladin^PHB^
 
 :material-axe-battle:{ .lg .middle } **Warrior**
     
-    :   Masters of combar who can deal and endure many wounds.
+:   Masters of combar who can deal and endure many wounds.
 
-    :   **Classes:** Barbarian^TCE/PHB^ Fighter^PHB^, Monk^PHB^
+:   **Classes:** Barbarian^TCE/PHB^ Fighter^PHB^, Monk^PHB^
 
 :material-weather-hurricane:{ .lg .middle } **Mages**
     
-    :   Adepts of the arcane, focusing on utility and destructions.
+:   Adepts of the arcane, focusing on utility and destructions.
 
-    :   **Classes:** Sorcerer^PHB^, Warlock^PHB^, Wizard^TCE/PHB^
+:   **Classes:** Sorcerer^PHB^, Warlock^PHB^, Wizard^TCE/PHB^
 
 ## Subclasses
 
