@@ -6,13 +6,12 @@ A character's class in D&D is one of their primary defining features. Each class
 
 Each class is a part of a Class Group-a set of Classes that have certain features and themes in common. 
 
-<div class="grid cards" markdown>
-
 - :material-google-nearby:{ .lg .middle } **Expert**
 
     :   Polymaths who have certain expertise and elements of other Classes. They take role of either specialists or generalists.
 
-    :   **Classes:** Artificer^TCE^, Bard^PHB^, Ranger^TCE/PHB^, Rogue^PHB^
+    :   **Classes:** 
+        - Artificer^TCE^, Bard^PHB^, Ranger^TCE/PHB^, Rogue^PHB^
 
 - :material-cross-celtic:{ .lg .middle } **Priest**
     
@@ -31,8 +30,6 @@ Each class is a part of a Class Group-a set of Classes that have certain feature
     :   Adepts of the arcane, focusing on utility and destructions.
 
     :   **Classes:** Sorcerer^PHB^, Warlock^PHB^, Wizard^TCE/PHB^
-
-</div>
 
 ## Subclasses
 
@@ -75,11 +72,7 @@ As you advance in levels, you might primarily remain a member of your original c
 
 :   **Barbarians** were mighty warriors who relied on their strength and incredible toughness, characterized by a bestial rage empowered either by ancestral totems and nature spirits or an inner passion for violence, and on some occasions, excessive calm and reason. Barbarians were less versatile than fighters but were tougher and capable of dealing heavy damage to their foes much more quickly.
 
-<div align="center">
-
 **Primal **Path**
-
-</div>
 
 <div class="grid cards" markdown>
 
@@ -92,7 +85,7 @@ As you advance in levels, you might primarily remain a member of your original c
 - :simple-codemagic:{ .lg .middle } [**Wild Magic**](http://dnd5e.wikidot.com/barbarian:wild-magic)^TCE^
 - :material-cross-bolnisi:{ .lg .middle } [**Zealot**](http://dnd5e.wikidot.com/barbarian:zealot)^XGE^
 
-</div>
+/div>
 
 
 
