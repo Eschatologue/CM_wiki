@@ -10,27 +10,27 @@ Each class is a part of a Class Group-a set of Classes that have certain feature
 
 - :material-google-nearby:{ .lg .middle } **Expert**
 
-    Polymaths who have certain expertise and elements of other Classes. They take role of either specialists or generalists.
+    :   Polymaths who have certain expertise and elements of other Classes. They take role of either specialists or generalists.
 
-    **Classes:** Artificer, Bard, Ranger, Rogue
+    **Classes:** Artificer^TCE^, Bard^PHB^, Ranger^TCE/PHB^, Rogue^PHB^
 
 - :material-cross-celtic:{ .lg .middle } **Priest**
     
-    Stewards of nature and divine magics, focusing on utility, healing, buffs, and defense.
+    :   Stewards of nature and divine magics, focusing on utility, healing, buffs, and defense.
 
-    **Classes:** Druid, Cleric, Paladin
+    **Classes:** Druid^PHB^, Cleric^PHB^, Paladin^PHB^
 
 - :material-axe-battle:{ .lg .middle } **Warrior**
     
-    Masters of combar who can deal and endure many wounds.
+    :   Masters of combar who can deal and endure many wounds.
 
-    **Classes:** Barbarian, Fighter, Monk
+    **Classes:** Barbarian^TCE/PHB^ Fighter^PHB^, Monk^PHB^
 
 - :material-weather-hurricane:{ .lg .middle } **Mages**
     
-    Adepts of the arcane, focusing on utility and destructions.
+    :   Adepts of the arcane, focusing on utility and destructions.
 
-    **Classes:** Sorcerer, Warlock, Wizard
+    **Classes:** Sorcerer^PHB^, Warlock^PHB^, Wizard^TCE/PHB^
 
 </div>
 
@@ -58,7 +58,7 @@ As you advance in levels, you might primarily remain a member of your original c
 
 An **artificer** learned to wield their magic through the mastering of sigils and diagrams or combining technologies and traditional magic, as well as using magical ingredients. Artificers infused objects of the world, be they inanimate or alive, with the power of the arcane, making them both powerful crafters and healers. 
 
-#### Artificer Specialist
+**Artificer Specialist**
 
 <div class="grid cards" markdown>
 
@@ -75,7 +75,7 @@ An **artificer** learned to wield their magic through the mastering of sigils an
 
 **Barbarians** were mighty warriors who relied on their strength and incredible toughness, characterized by a bestial rage empowered either by ancestral totems and nature spirits or an inner passion for violence, and on some occasions, excessive calm and reason. Barbarians were less versatile than fighters but were tougher and capable of dealing heavy damage to their foes much more quickly.
 
-#### Primal Path
+**Primal **Path**
 
 <div class="grid cards" markdown>
 
@@ -98,7 +98,7 @@ An **artificer** learned to wield their magic through the mastering of sigils an
 
 In addition to their magical skills, bards were artistically talented and extraordinarily well-learned, possessing knowledge in a wide range of fields. Bards were among the most versatile of adventurers, capable of learning from practically any trade.
 
-#### Bard College
+**Bard College**
 
 <div class="grid cards" markdown>
 
@@ -121,7 +121,7 @@ A **cleric** was once a divine servant of one or more gods, serving them with ma
 
 Nowadays, the deities of the past have been absorbed and replaced by Spires. While recent clerics are closer to representatives of an Ascent they stride in, some clerics still worship these past gods.
 
-#### Divine Domain
+**Divine Domain**
 
 <div class="grid cards" markdown>
 
@@ -150,7 +150,7 @@ Nowadays, the deities of the past have been absorbed and replaced by Spires. Whi
 
 **Druids** were primal spellcasters of considerable power and versatility, who gained their power through being at one with nature or through a connection to a powerful deity or nature spirit or even cosmic entities. Guardians of the wilderness, druids saw themselves less as masters of the natural order and more as an extension of its will.
 
-#### Druidic Circle
+**Druidic Circle**
 
 <div class="grid cards" markdown>
 
@@ -171,7 +171,7 @@ Nowadays, the deities of the past have been absorbed and replaced by Spires. Whi
 
 **Fighter** was a descriptive term for a warrior skilled with a variety of weapons and trained in the arts of war. A skilled fighter defined the front line of any battle, breaking through enemy ranks and holding the line while their allies maneuvered. All fighters were trained to use virtually any armor or weapon the situation required; a fighter could use an axe, a rapier, or a greatsword with roughly equivalent skill. As well as being combat generalists, most fighter also specialized in a particular skillset, such as archery and even combat magic.
 
-#### Fighter Archetype
+**Fighter Archetype**
 
 <div class="grid cards" markdown>
 
@@ -193,7 +193,7 @@ Nowadays, the deities of the past have been absorbed and replaced by Spires. Whi
 
 **Monks** were spiritual ascetics and practitioners of a mystical energy known as ki, the magical essence which flows through all living things. Monks utilized this energy to augment their own physical abilities, granting them extraordinary speed and strength. Monks could also use their own ki to alter the energy flow in other living creatures, for both defensive and offensive purposes
 
-#### Monastic Tradition
+**Monastic Tradition**
 
 <div class="grid cards" markdown>
 
@@ -215,7 +215,7 @@ Nowadays, the deities of the past have been absorbed and replaced by Spires. Whi
 
 A **paladin** was a holy crusader, sworn to an oath to promote and fight for their beliefs and values. As paragons of their beliefs, paladins were granted the ability to wield divine magic by deities or similar powers. So long as a paladin stayed true to their oath, they retained the ability to wield these powers. The life of a paladin more commonly attracted good persons to it than those with malice in their heart, but evil paladins were not unheard of.
 
-#### Sacred Oath
+**Sacred Oath**
 
 <div class="grid cards" markdown>
 
@@ -236,7 +236,7 @@ A **paladin** was a holy crusader, sworn to an oath to promote and fight for the
 
 **Rangers** were warriors who excelled at exploring the fringes of civilization and hunting down deadly monsters. Hunters, scouts, trappers, and assassins, rangers could be found wherever civilization bordered the wilderness. To aid them in their outback treks, rangers were trained in a number of combat techniques, survival skills, and even magic.
 
-#### Ranger Conclave
+**Ranger Conclave**
 
 <div class="grid cards" markdown>
 
@@ -257,7 +257,7 @@ A **paladin** was a holy crusader, sworn to an oath to promote and fight for the
 
 **Rogues** were versatile masters of stealth, nimble combat, and various skillful tricks. Where other adventurers had the power to defeat their enemies, rogues used their wits and their natural resourcefulness to exploit their foes' vulnerabilities as well as to lead their allies safely through dangerous environments, disarming traps and opening locks along the way.
 
-#### Roguish Archetype 
+**Roguish Archetype**
 
 <div class="grid cards" markdown>
 
@@ -279,7 +279,7 @@ A **paladin** was a holy crusader, sworn to an oath to promote and fight for the
 
 A **sorcerer**, sometimes known as a sorceress if female, was a wielder of arcane magic that tapped into the Weave in ways bound only by their own willpower.[10] Unlike most other arcane spellcasters, particularly the wizards they are often compared with, sorcerers had innate magical ability and were noted for their lack of study in obtaining such power
 
-#### Sorcerous Origin
+**Sorcerous Origin**
 
 <div class="grid cards" markdown>
 
@@ -301,7 +301,7 @@ A **sorcerer**, sometimes known as a sorceress if female, was a wielder of arcan
 
 A warlock was an arcane spellcaster who gained power through pacts with powerful entities, most commonly devils, elder evils, fey, or demons. These pacts allowed warlocks to channel powerful abilities of arcane might that would otherwise be closed to them. Those abilities weren't limited to those striking pacts with magical entities. Some were born with them because they belonged to a powerful magical bloodline and those who mastered that power were also called warlocks
 
-#### Otherworldly Patron
+**Otherworldly Patron**
 
 <div class="grid cards" markdown>
 
@@ -324,7 +324,7 @@ A warlock was an arcane spellcaster who gained power through pacts with powerful
 
 **Wizards** were arcane spellcasters that learned to practice the Art through research and learning. They drew upon the Weave through a broad range of magical spells and abilities learned through years of practice and training. Through the spells they prepared and memorized, powerful wizards could take control over a battlefield, commanding fire and lightning as easily as others wielded sword and shield. They could learn and perform intricate rituals of arcane power that drew in entities from across the multiverse or peer into future potentialities that have not yet come to pass.
 
-#### Arcance Tradition
+**Arcance Tradition**
 
 <div class="grid cards" markdown>
 
