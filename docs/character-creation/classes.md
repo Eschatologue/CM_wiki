@@ -85,9 +85,7 @@ As you advance in levels, you might primarily remain a member of your original c
 - :simple-codemagic:{ .lg .middle } [**Wild Magic**](http://dnd5e.wikidot.com/barbarian:wild-magic)^TCE^
 - :material-cross-bolnisi:{ .lg .middle } [**Zealot**](http://dnd5e.wikidot.com/barbarian:zealot)^XGE^
 
-/div>
-
-
+</div>
 
 ### :material-guitar-acoustic:{ .lg .middle } Bard
 
