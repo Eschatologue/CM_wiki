@@ -52,7 +52,7 @@ As you advance in levels, you might primarily remain a member of your original c
 
 ## Playable Classes
 
-### :material-hammer-wrench:{ .lg .middle } Artificer
+### :material-hammer-wrench:{ .lg .middle } Artificer 
 
 :   *"Rare kind of spellcaster who treated magic in the same manner as a mason might see a chisel as a tool for the creation of marvels."*
 
@@ -75,7 +75,11 @@ As you advance in levels, you might primarily remain a member of your original c
 
 :   **Barbarians** were mighty warriors who relied on their strength and incredible toughness, characterized by a bestial rage empowered either by ancestral totems and nature spirits or an inner passion for violence, and on some occasions, excessive calm and reason. Barbarians were less versatile than fighters but were tougher and capable of dealing heavy damage to their foes much more quickly.
 
+<div align="center">
+
 **Primal **Path**
+
+</div>
 
 <div class="grid cards" markdown>
 
@@ -89,6 +93,8 @@ As you advance in levels, you might primarily remain a member of your original c
 - :material-cross-bolnisi:{ .lg .middle } [**Zealot**](http://dnd5e.wikidot.com/barbarian:zealot)^XGE^
 
 </div>
+
+
 
 ### :material-guitar-acoustic:{ .lg .middle } Bard
 
