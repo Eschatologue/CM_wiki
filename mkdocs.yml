@@ -25,12 +25,12 @@ nav:
     - Firearms: equipment/firearm.md
     - Tools: equipment/tools.md
     - Potion & Consumeables: equipment/potion.md
-  - Quick Refrence:
-    - The Dices and Rolls: quickref/dices-and-rolls.md
-    - Action Type: quickref/actiontypes.md
+  - Quick Reference:
+#    - The Dices and Rolls: quickref/dices-and-rolls.md
+#    - Action Type: quickref/actiontypes.md
     - Condition and Disease: quickref/condition.md
-    - Equipments: quickref/equipments.md
-    - Damage Types: quickref/damagetypes.md
+    - Armour Class: quickref/ac.md
+#    - Damage Types: quickref/damagetypes.md
 
 # Author
 site_author: Eschatologue

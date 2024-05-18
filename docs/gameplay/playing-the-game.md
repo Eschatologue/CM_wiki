@@ -306,7 +306,7 @@ If multiple effects impose the same condition on a creature, each instance of th
     Finishing a long rest reduces a creature’s exhaustion level by 1, provided that the creature has also ingested some food and drink.
     
 - **Deafnened**
-    - A deafened creature can’t hear, automatically fails any ability check that requires hearing and is immune to Thunder damage.
+    - A deafened creature can’t hear, automatically fails any ability check that requires hearing and is resist to Thunder damage.
 - **Frightened**
     - A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
     - The creature can’t willingly move closer to the source of its fear.

@@ -1,5 +1,50 @@
 Fantasy gaming worlds are a vast tapestry made up of many different cultures, each with its technology level. For this reason, adventurers have access to a variety of armour types, ranging from leather armour to chain mail to costly plate armour, with several other kinds of armour in between. The Armour table collects the most commonly available types of armour found in the game and separates them into three categories: light armour, medium armour, and heavy armour. Many warriors supplement their armour with a shield.
 
+## Armour Table
+
+The Armour table shows the cost and other properties of the common types of armour worn in this D&D.
+
+- **Light Armour**
+    
+| ARMOUR | COST | ARMOUR CLASS (AC) | STRENGTH | STEALTH |
+| --- | --- | --- | --- | --- |
+| https://www.notion.so/Armour-af55a26e37ef4866bfee0c6975ae04cb?pvs=21 | 50 sp | 11 + Dex modifier | - | Disadvantage |
+| https://www.notion.so/Armour-af55a26e37ef4866bfee0c6975ae04cb?pvs=21 | 100 sp | 11 + Dex modifier | - | - |
+| https://www.notion.so/Armour-af55a26e37ef4866bfee0c6975ae04cb?pvs=21 | 450 sp | 12 + Dex modifier | - | - |
+
+- **Medium Armour**
+    
+| ARMOUR | COST | ARMOUR CLASS (AC) | STRENGTH | STEALTH |
+| --- | --- | --- | --- | --- |
+| https://www.notion.so/Armour-af55a26e37ef4866bfee0c6975ae04cb?pvs=21 | 100 sp | 12 + Dex modifier (max 2) | - | - |
+| https://www.notion.so/Armour-af55a26e37ef4866bfee0c6975ae04cb?pvs=21 | 500 sp | 13 + Dex modifier (max 2) | - | - |
+| https://www.notion.so/Armour-af55a26e37ef4866bfee0c6975ae04cb?pvs=21 | 500 sp | 14 + Dex modifier (max 2) | - | Disadvantage |
+| https://www.notion.so/Armour-af55a26e37ef4866bfee0c6975ae04cb?pvs=21 | 4,000 sp | 14 + Dex modifier (max 2) | - | - |
+| https://www.notion.so/Armour-af55a26e37ef4866bfee0c6975ae04cb?pvs=21 | 7,500 sp | 15 + Dex modifier (max 2) | - | Disadvantage |
+
+- **Heavy Armour**
+
+Heavier armour interferes with the wearer's ability to move quickly, stealthily, and freely. If the Armour table shows 'STR 13' or 'STR 15' in the Strength column for an armour type, the armour reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
+    
+| ARMOUR | COST | ARMOUR CLASS (AC) | STRENGTH | STEALTH |
+| --- | --- | --- | --- | --- |
+| https://www.notion.so/Armour-af55a26e37ef4866bfee0c6975ae04cb?pvs=21 | 300 sp | 14 | - | Disadvantage |
+| https://www.notion.so/Armour-af55a26e37ef4866bfee0c6975ae04cb?pvs=21 | 750 sp | 16 | Str 13 | Disadvantage |
+| https://www.notion.so/Armour-af55a26e37ef4866bfee0c6975ae04cb?pvs=21 | 2,000 sp | 17 | Str 15 | Disadvantage |
+| https://www.notion.so/Armour-af55a26e37ef4866bfee0c6975ae04cb?pvs=21 | 15,000 sp | 18 | Str 15 | Disadvantage |
+
+- **Shields**
+    
+| ARMOUR | COST | ARMOUR CLASS (AC) | STRENGTH | STEALTH |
+| --- | --- | --- | --- | --- |
+| Buckler* | 50 sp | +1 | - | - |
+| Shield | 100 sp | +2 | - | - |
+| Tower** | 400 sp | +3 | Str 16 | Disadvantage |
+    
+**Buckler**. While holding a Buckler shield. You can use a Bonus Action to gain a +1 bonus to your AC, until the start of your next turn. You can use a weapon with *Versatile* property even if you have a Buckler in the other hand.
+    
+**Tower.** While holding a Tower shield, your speed is reduced by 10 ft.
+
 ## **Armour**
 
 Anyone can put on a suit of armour or strap a shield to an arm. Only those proficient in the armour's use know how to wear it effectively, however. Your class gives you proficiency with certain types of armour. If you wear armour that you lack proficiency with, you have a disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can't cast spells.
@@ -99,47 +144,3 @@ This is the time it takes to take off armour. If you have help, reduce this time
 | Heavy Armour | 10 minutes | 5 minutes |
 | Shields | 1 action | 1 action |
 
-## Armour Table
-
-The Armour table shows the cost and other properties of the common types of armour worn in this D&D.
-
-- **Light Armour**
-    
-| ARMOUR | COST | ARMOUR CLASS (AC) | STRENGTH | STEALTH |
-| --- | --- | --- | --- | --- |
-| https://www.notion.so/Armour-af55a26e37ef4866bfee0c6975ae04cb?pvs=21 | 50 sp | 11 + Dex modifier | - | Disadvantage |
-| https://www.notion.so/Armour-af55a26e37ef4866bfee0c6975ae04cb?pvs=21 | 100 sp | 11 + Dex modifier | - | - |
-| https://www.notion.so/Armour-af55a26e37ef4866bfee0c6975ae04cb?pvs=21 | 450 sp | 12 + Dex modifier | - | - |
-
-- **Medium Armour**
-    
-| ARMOUR | COST | ARMOUR CLASS (AC) | STRENGTH | STEALTH |
-| --- | --- | --- | --- | --- |
-| https://www.notion.so/Armour-af55a26e37ef4866bfee0c6975ae04cb?pvs=21 | 100 sp | 12 + Dex modifier (max 2) | - | - |
-| https://www.notion.so/Armour-af55a26e37ef4866bfee0c6975ae04cb?pvs=21 | 500 sp | 13 + Dex modifier (max 2) | - | - |
-| https://www.notion.so/Armour-af55a26e37ef4866bfee0c6975ae04cb?pvs=21 | 500 sp | 14 + Dex modifier (max 2) | - | Disadvantage |
-| https://www.notion.so/Armour-af55a26e37ef4866bfee0c6975ae04cb?pvs=21 | 4,000 sp | 14 + Dex modifier (max 2) | - | - |
-| https://www.notion.so/Armour-af55a26e37ef4866bfee0c6975ae04cb?pvs=21 | 7,500 sp | 15 + Dex modifier (max 2) | - | Disadvantage |
-
-- **Heavy Armour**
-
-Heavier armour interferes with the wearer's ability to move quickly, stealthily, and freely. If the Armour table shows 'STR 13' or 'STR 15' in the Strength column for an armour type, the armour reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
-    
-| ARMOUR | COST | ARMOUR CLASS (AC) | STRENGTH | STEALTH |
-| --- | --- | --- | --- | --- |
-| https://www.notion.so/Armour-af55a26e37ef4866bfee0c6975ae04cb?pvs=21 | 300 sp | 14 | - | Disadvantage |
-| https://www.notion.so/Armour-af55a26e37ef4866bfee0c6975ae04cb?pvs=21 | 750 sp | 16 | Str 13 | Disadvantage |
-| https://www.notion.so/Armour-af55a26e37ef4866bfee0c6975ae04cb?pvs=21 | 2,000 sp | 17 | Str 15 | Disadvantage |
-| https://www.notion.so/Armour-af55a26e37ef4866bfee0c6975ae04cb?pvs=21 | 15,000 sp | 18 | Str 15 | Disadvantage |
-
-- **Shields**
-    
-| ARMOUR | COST | ARMOUR CLASS (AC) | STRENGTH | STEALTH |
-| --- | --- | --- | --- | --- |
-| Buckler* | 50 sp | +1 | - | - |
-| Shield | 100 sp | +2 | - | - |
-| Tower** | 400 sp | +3 | Str 16 | Disadvantage |
-    
-**Buckler**. While holding a Buckler shield. You can use a Bonus Action to gain a +1 bonus to your AC, until the start of your next turn. You can use a weapon with *Versatile* property even if you have a Buckler in the other hand.
-    
-**Tower.** While holding a Tower shield, your speed is reduced by 10 ft.

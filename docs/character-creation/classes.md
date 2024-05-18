@@ -15,7 +15,7 @@ Each class is a part of a Class Group-a set of Classes that have certain feature
 
 - :material-cross-celtic:{ .lg .middle } **Priest**
     
-    :   Stewards of nature and divine magics, focusing on utility, healing, buffs, and defense.
+    :   Stewards of nature and divine magics, focusing on utility, healing, buffs, and defence.
 
     :   **Classes:** Druid^PHB^, Cleric^PHB^, Paladin^PHB^
 
