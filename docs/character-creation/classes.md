@@ -6,30 +6,54 @@ A character's class in D&D is one of their primary defining features. Each class
 
 Each class is a part of a Class Group-a set of Classes that have certain features and themes in common. 
 
-:material-google-nearby:{ .lg .middle } **Expert**
+=== ":material-google-nearby:{ .lg .middle } **Expert**"
 
-:   Polymaths who have certain expertise and elements of other Classes. They take role of either specialists or generalists.
+    Polymaths who have certain expertise and elements of other Classes. They take role of either specialists or generalists.
 
-:   **Classes:** 
-        - Artificer^TCE^, Bard^PHB^, Ranger^TCE/PHB^, Rogue^PHB^
+    <div class="grid cards" markdown>
 
-:material-cross-celtic:{ .lg .middle } **Priest**
-    
-:   Stewards of nature and divine magics, focusing on utility, healing, buffs, and defence.
+    - :dnd-class-artificer:{ .lg .middle } **[Artificer]**^TCE^
+    - :dnd-class-bard:{ .lg .middle } **[Bard]**^PHB^
+    - :dnd-class-ranger:{ .lg .middle } **[Ranger]**^TCE/PHB^
+    - :dnd-class-rogue:{ .lg .middle } **[Rogue]**^PHB^
+  
+    </div>
 
-:   **Classes:** Druid^PHB^, Cleric^PHB^, Paladin^PHB^
+=== ":material-cross-celtic:{ .lg .middle } **Priest**"
 
-:material-axe-battle:{ .lg .middle } **Warrior**
-    
-:   Masters of combar who can deal and endure many wounds.
+    Stewards of nature and divine magics, focusing on utility, healing, buffs, and defence.
 
-:   **Classes:** Barbarian^TCE/PHB^ Fighter^PHB^, Monk^PHB^
+    <div class="grid cards" markdown>
 
-:material-weather-hurricane:{ .lg .middle } **Mages**
-    
-:   Adepts of the arcane, focusing on utility and destructions.
+    - :dnd-class-druid:{ .lg .middle } **[Druid]**^PHB^
+    - :dnd-class-cleric:{ .lg .middle } **[Cleric]**^PHB^
+    - :dnd-class-paladin:{ .lg .middle } **[Paladin]**^PHB^
+  
+    </div>
 
-:   **Classes:** Sorcerer^PHB^, Warlock^PHB^, Wizard^TCE/PHB^
+=== ":material-axe-battle:{ .lg .middle } **Warrior**"
+
+    Masters of combat who can deal and endure many wounds.
+
+    <div class="grid cards" markdown>
+
+    - :dnd-class-barbarian:{ .lg .middle } **[Barbarian]**^TCE/PHB^
+    - :dnd-class-fighter:{ .lg .middle } **[Fighter]**^PHB^
+    - :dnd-class-monk:{ .lg .middle } **[Monk]**^PHB^
+
+    </div>
+
+=== ":material-weather-hurricane:{ .lg .middle } **Mages**"
+
+    Adepts of the arcane, focusing on utility and destructions.
+
+    <div class="grid cards" markdown>
+
+    - :dnd-class-sorcerer:{ .lg .middle } **[Sorcerer]**^PHB^
+    - :dnd-class-warlock:{ .lg .middle } **[Warlock]**^PHB^
+    - :dnd-class-wizard:{ .lg .middle } **[Wizard]**^PHB^
+
+    </div>
 
 ## Subclasses
 
@@ -39,7 +63,7 @@ Subclasses allow characters to further specialize their character by imparting p
 
 ## Multiclassing
 
-*Main article: [Multiclassing](/CM_wiki/gameplay/multiclassing)*
+*Main article: [Multiclassing](../gameplay/multiclassing.md)*
 
 Multiclassing allows you to gain levels in multiple classes. Doing so lets you mix the abilities of those classes to realize a character concept that might not be reflected in one of the standard class options.
 
@@ -51,11 +75,11 @@ As you advance in levels, you might primarily remain a member of your original c
 
 ### :material-hammer-wrench:{ .lg .middle } Artificer 
 
-:   *"Rare kind of spellcaster who treated magic in the same manner as a mason might see a chisel as a tool for the creation of marvels."*
+> *"Rare kind of spellcaster who treated magic in the same manner as a mason might see a chisel as a tool for the creation of marvels."*
 
-:   An **artificer** learned to wield their magic through the mastering of sigils and diagrams or combining technologies and traditional magic, as well as using magical ingredients. Artificers infused objects of the world, be they inanimate or alive, with the power of the arcane, making them both powerful crafters and healers. 
+An **artificer** learned to wield their magic through the mastering of sigils and diagrams or combining technologies and traditional magic, as well as using magical ingredients. Artificers infused objects of the world, be they inanimate or alive, with the power of the arcane, making them both powerful crafters and healers. 
 
-**Artificer Specialist**
+**Artificer Specialist ^3rd-level^**
 
 <div class="grid cards" markdown>
 
@@ -68,11 +92,13 @@ As you advance in levels, you might primarily remain a member of your original c
 
 ### :material-axe-battle:{ .lg .middle } Barbarian
 
-:   *"The strong embrace the wild that hides inside - keen instincts, primal physicality, and most of all, an unbridled, unquenchable rage."*
+*Main article: [Barbarian]*
 
-:   **Barbarians** were mighty warriors who relied on their strength and incredible toughness, characterized by a bestial rage empowered either by ancestral totems and nature spirits or an inner passion for violence, and on some occasions, excessive calm and reason. Barbarians were less versatile than fighters but were tougher and capable of dealing heavy damage to their foes much more quickly.
+> *"The strong embrace the wild that hides inside - keen instincts, primal physicality, and most of all, an unbridled, unquenchable rage."*
 
-**Primal **Path**
+**Barbarians** were mighty warriors who relied on their strength and incredible toughness, characterized by a bestial rage empowered either by ancestral totems and nature spirits or an inner passion for violence, and on some occasions, excessive calm and reason. Barbarians were less versatile than fighters but were tougher and capable of dealing heavy damage to their foes much more quickly.
+
+**Primal Path ^3rd-level^**
 
 <div class="grid cards" markdown>
 
@@ -89,13 +115,15 @@ As you advance in levels, you might primarily remain a member of your original c
 
 ### :material-guitar-acoustic:{ .lg .middle } Bard
 
-:   *"You know music is more than a fancy - it is power. Through study and adventure, you have mastered song, speech, and the magic within."*
+*Main article: [Bard]*
 
-:   **Bards** are versatile arcane spellcasters, capable in combat, art, and magic alike. Bards practiced magic as they would art or song, using their artistic talents to induce magical effects that either bolstered their allies or hindered their enemies, typically through charms and illusions. 
+> *"You know music is more than a fancy - it is power. Through study and adventure, you have mastered song, speech, and the magic within."*
 
-:   In addition to their magical skills, bards were artistically talented and extraordinarily well-learned, possessing knowledge in a wide range of fields. Bards were among the most versatile of adventurers, capable of learning from practically any trade.
+**Bards** are versatile arcane spellcasters, capable in combat, art, and magic alike. Bards practiced magic as they would art or song, using their artistic talents to induce magical effects that either bolstered their allies or hindered their enemies, typically through charms and illusions. 
 
-**Bard College**
+In addition to their magical skills, bards were artistically talented and extraordinarily well-learned, possessing knowledge in a wide range of fields. Bards were among the most versatile of adventurers, capable of learning from practically any trade.
+
+**Bard College ^3rd-level^**
 
 <div class="grid cards" markdown>
 
@@ -110,15 +138,17 @@ As you advance in levels, you might primarily remain a member of your original c
 
 </div>
 
-### :material-cross-celtic:{ .lg .middle } Cleric
+### :material-mace:{ .lg .middle } Cleric
 
-:   *"Clerics are representatives of the gods they worship, wielding potent divine magic for good or ill."*
+*Main article: [Cleric]*
 
-:   A **cleric** was once a divine servant of one or more gods, serving them with martial might and divine magic fueled by their own strength of faith. As agents of a divine authority, clerics were empowered both by ritual training and their god's particular favor. Relatively rare, clerics inspired both reverence and terror, depending on their aims and who they served. 
+> *"Clerics are representatives of the gods they worship, wielding potent divine magic for good or ill."*
 
-:   Nowadays, the deities of the past have been absorbed and replaced by Spires. While recent clerics are closer to representatives of an Ascent they stride in, some clerics still worship these past gods.
+A **cleric** was once a divine servant of one or more gods, serving them with martial might and divine magic fueled by their own strength of faith. As agents of a divine authority, clerics were empowered both by ritual training and their god's particular favor. Relatively rare, clerics inspired both reverence and terror, depending on their aims and who they served. 
 
-**Divine Domain**
+Nowadays, the deities of the past have been absorbed and replaced by Spires. While recent clerics are closer to representatives of an Ascent they stride in, some clerics still worship these past gods.
+
+**Divine Domain ^1st-level^**
 
 <div class="grid cards" markdown>
 
@@ -143,11 +173,13 @@ As you advance in levels, you might primarily remain a member of your original c
 
 ### :material-leaf:{ .lg .middle } Druid
 
-:   *"Druids channel the elemental forces of nature and share a deep kinship with animals. Mastery of Wild Shape allows them to transform into beasts and otherworldy beings."*
+*Main article: [Druid]*
 
-:   **Druids** were primal spellcasters of considerable power and versatility, who gained their power through being at one with nature or through a connection to a powerful deity or nature spirit or even cosmic entities. Guardians of the wilderness, druids saw themselves less as masters of the natural order and more as an extension of its will.
+> *"Druids channel the elemental forces of nature and share a deep kinship with animals. Mastery of Wild Shape allows them to transform into beasts and otherworldy beings."*
 
-**Druidic Circle**
+**Druids** were primal spellcasters of considerable power and versatility, who gained their power through being at one with nature or through a connection to a powerful deity or nature spirit or even cosmic entities. Guardians of the wilderness, druids saw themselves less as masters of the natural order and more as an extension of its will.
+
+**Druidic Circle ^2nd-level^**
 
 <div class="grid cards" markdown>
 
@@ -164,11 +196,13 @@ As you advance in levels, you might primarily remain a member of your original c
 
 ### :material-sword-cross:{ .lg .middle } Fighter
 
-:   *Fighters have mastered the art of combat, wielding weapons with unmatched skill and wearing armour like a second skin."*
+*Main article: [Fighter]*
 
-:   **Fighter** was a descriptive term for a warrior skilled with a variety of weapons and trained in the arts of war. A skilled fighter defined the front line of any battle, breaking through enemy ranks and holding the line while their allies maneuvered. All fighters were trained to use virtually any armor or weapon the situation required; a fighter could use an axe, a rapier, or a greatsword with roughly equivalent skill. As well as being combat generalists, most fighter also specialized in a particular skillset, such as archery and even combat magic.
+> *"Fighters have mastered the art of combat, wielding weapons with unmatched skill and wearing armour like a second skin."*
 
-**Fighter Archetype**
+**Fighter** was a descriptive term for a warrior skilled with a variety of weapons and trained in the arts of war. A skilled fighter defined the front line of any battle, breaking through enemy ranks and holding the line while their allies maneuvered. All fighters were trained to use virtually any armor or weapon the situation required; a fighter could use an axe, a rapier, or a greatsword with roughly equivalent skill. As well as being combat generalists, most fighter also specialized in a particular skillset, such as archery and even combat magic.
+
+**Fighter Archetype ^3rd-level^**
 
 <div class="grid cards" markdown>
 
@@ -186,11 +220,13 @@ As you advance in levels, you might primarily remain a member of your original c
 
 ### :material-mixed-martial-arts:{ .lg .middle } Monk
 
-:   *Channel your cosmic enlightenment by deftly dodging and efficiently disassembling your foes through stunning strikes and a whirlwind of martial art attacks."*
+*Main article: [Monk]*
 
-:   **Monks** were spiritual ascetics and practitioners of a mystical energy known as ki, the magical essence which flows through all living things. Monks utilized this energy to augment their own physical abilities, granting them extraordinary speed and strength. Monks could also use their own ki to alter the energy flow in other living creatures, for both defensive and offensive purposes
+> *Channel your cosmic enlightenment by deftly dodging and efficiently disassembling your foes through stunning strikes and a whirlwind of martial art attacks."*
 
-**Monastic Tradition**
+**Monks** were spiritual ascetics and practitioners of a mystical energy known as ki, the magical essence which flows through all living things. Monks utilized this energy to augment their own physical abilities, granting them extraordinary speed and strength. Monks could also use their own ki to alter the energy flow in other living creatures, for both defensive and offensive purposes
+
+**Monastic Tradition ^3rd-level^**
 
 <div class="grid cards" markdown>
 
@@ -208,11 +244,13 @@ As you advance in levels, you might primarily remain a member of your original c
 
 ### :material-shield-cross:{ .lg .middle } Paladin
 
-:   *Fuelled by the Oath you swore to uphold justice and righteousness, you are a beacon of hope in dark times."*
+*Main article: [Paladin]*
 
-:   A **paladin** was a holy crusader, sworn to an oath to promote and fight for their beliefs and values. As paragons of their beliefs, paladins were granted the ability to wield divine magic by deities or similar powers. So long as a paladin stayed true to their oath, they retained the ability to wield these powers. The life of a paladin more commonly attracted good persons to it than those with malice in their heart, but evil paladins were not unheard of.
+> *"Fuelled by the Oath you swore to uphold justice and righteousness, you are a beacon of hope in dark times."*
 
-**Sacred Oath**
+A **paladin** was a holy crusader, sworn to an oath to promote and fight for their beliefs and values. As paragons of their beliefs, paladins were granted the ability to wield divine magic by deities or similar powers. So long as a paladin stayed true to their oath, they retained the ability to wield these powers. The life of a paladin more commonly attracted good persons to it than those with malice in their heart, but evil paladins were not unheard of.
+
+**Sacred Oath ^3rd-level^**
 
 <div class="grid cards" markdown>
 
@@ -227,13 +265,15 @@ As you advance in levels, you might primarily remain a member of your original c
 
 </div>
 
-### :material-hand-front-left:{ .lg .middle } Ranger
+### :material-tower-fire:{ .lg .middle } Ranger
 
-:   *"Rangers are unrivalled scouts and trackers, honing a deep connection with nature in order to hunt their favoured prey."*
+*Main article: [Ranger]*
 
-:   **Rangers** were warriors who excelled at exploring the fringes of civilization and hunting down deadly monsters. Hunters, scouts, trappers, and assassins, rangers could be found wherever civilization bordered the wilderness. To aid them in their outback treks, rangers were trained in a number of combat techniques, survival skills, and even magic.
+> *"Rangers are unrivalled scouts and trackers, honing a deep connection with nature in order to hunt their favoured prey."*
 
-**Ranger Conclave**
+**Rangers** were warriors who excelled at exploring the fringes of civilization and hunting down deadly monsters. Hunters, scouts, trappers, and assassins, rangers could be found wherever civilization bordered the wilderness. To aid them in their outback treks, rangers were trained in a number of combat techniques, survival skills, and even magic.
+
+**Ranger Conclave ^3rd-level^**
 
 <div class="grid cards" markdown>
 
@@ -250,11 +290,13 @@ As you advance in levels, you might primarily remain a member of your original c
 
 ### :material-knife-military:{ .lg .middle } Rogue
 
-:   *"With stealth, skill, and uncanny reflexes, a rogue's versatility lets them get the upper hand in almost any situation."*
+*Main article: [Rogue]*
 
-:   **Rogues** were versatile masters of stealth, nimble combat, and various skillful tricks. Where other adventurers had the power to defeat their enemies, rogues used their wits and their natural resourcefulness to exploit their foes' vulnerabilities as well as to lead their allies safely through dangerous environments, disarming traps and opening locks along the way.
+> *"With stealth, skill, and uncanny reflexes, a rogue's versatility lets them get the upper hand in almost any situation."*
 
-**Roguish Archetype**
+**Rogues** were versatile masters of stealth, nimble combat, and various skillful tricks. Where other adventurers had the power to defeat their enemies, rogues used their wits and their natural resourcefulness to exploit their foes' vulnerabilities as well as to lead their allies safely through dangerous environments, disarming traps and opening locks along the way.
+
+**Roguish Archetype ^3rd-level^**
 
 <div class="grid cards" markdown>
 
@@ -272,11 +314,13 @@ As you advance in levels, you might primarily remain a member of your original c
 
 ### :material-fire:{ .lg .middle } Sorcerer
 
-:   *"Sorcerers are natural spellcasters, drawing on inherent magic from a gift or bloodline."*
+*Main article: [Sorcerer]*
 
-:   A **sorcerer**, sometimes known as a sorceress if female, was a wielder of arcane magic that tapped into the Weave in ways bound only by their own willpower.[10] Unlike most other arcane spellcasters, particularly the wizards they are often compared with, sorcerers had innate magical ability and were noted for their lack of study in obtaining such power
+> *"Sorcerers are natural spellcasters, drawing on inherent magic from a gift or bloodline."*
 
-**Sorcerous Origin**
+A **sorcerer**, sometimes known as a sorceress if female, was a wielder of arcane magic that tapped into the Weave in ways bound only by their own willpower.[10] Unlike most other arcane spellcasters, particularly the wizards they are often compared with, sorcerers had innate magical ability and were noted for their lack of study in obtaining such power
+
+**Sorcerous Origin ^1st-level^**
 
 <div class="grid cards" markdown>
 
@@ -294,18 +338,20 @@ As you advance in levels, you might primarily remain a member of your original c
 
 ### :material-eye:{ .lg .middle } Warlock
 
-:   *"Bound by a pact to an all-powerful patron, Warlocks trade their loyalty for supernatural abilities and unique magic."*
+*Main article: [Warlock]*
 
-:   A warlock was an arcane spellcaster who gained power through pacts with powerful entities, most commonly devils, elder evils, fey, or demons. These pacts allowed warlocks to channel powerful abilities of arcane might that would otherwise be closed to them. Those abilities weren't limited to those striking pacts with magical entities. Some were born with them because they belonged to a powerful magical bloodline and those who mastered that power were also called warlocks
+> *"Bound by a pact to an all-powerful patron, Warlocks trade their loyalty for supernatural abilities and unique magic."*
 
-**Otherworldly Patron**
+A warlock was an arcane spellcaster who gained power through pacts with powerful entities, most commonly devils, elder evils, fey, or demons. These pacts allowed warlocks to channel powerful abilities of arcane might that would otherwise be closed to them. Those abilities weren't limited to those striking pacts with magical entities. Some were born with them because they belonged to a powerful magical bloodline and those who mastered that power were also called warlocks
+
+**Otherworldly Patron ^1st-level^**
 
 <div class="grid cards" markdown>
 
 - :material-eye-settings:{ .lg .middle } [**Archfey**](http://dnd5e.wikidot.com/warlock:archfey)^PHB^
 - :material-eye-circle:{ .lg .middle } [**Celestial**](http://dnd5e.wikidot.com/warlock:celestial)^XGE^
 - :material-eye-closed:{ .lg .middle } [**Fathomless**](http://dnd5e.wikidot.com/warlock:fathomless)^TCE^
-- :material-eye-closed:{ .lg .middle } [**Ghost in the Machine**](http://dndhttp://dnd5e.wikidot.com/warlock:ghost-in-the-machine-ua)^UA7^
+- :material-integrated-circuit-chip:{ .lg .middle } [**Ghost in the Machine**](http://dndhttp://dnd5e.wikidot.com/warlock:ghost-in-the-machine-ua)^UA7^
 - :material-eye-remove:{ .lg .middle } [**Fiend**](http://dnd5e.wikidot.com/warlock:fiend)^PHB^
 - :material-eye-circle-outline:{ .lg .middle } [**Genie**](http://dnd5e.wikidot.com/warlock:the-genie)^TCE^
 - :material-eye-plus:{ .lg .middle } [**Great Old One**](http://dnd5e.wikidot.com/warlock:great-old-one)^PHB^
@@ -317,11 +363,13 @@ As you advance in levels, you might primarily remain a member of your original c
 
 ### :material-book:{ .lg .middle } Wizard
 
-:   *"Wizards master the arcane by specialising in individual schools of magic, combining ancient spells with modern research."*
+*Main article: [Wizard]*
 
-:   **Wizards** were arcane spellcasters that learned to practice the Art through research and learning. They drew upon the Weave through a broad range of magical spells and abilities learned through years of practice and training. Through the spells they prepared and memorized, powerful wizards could take control over a battlefield, commanding fire and lightning as easily as others wielded sword and shield. They could learn and perform intricate rituals of arcane power that drew in entities from across the multiverse or peer into future potentialities that have not yet come to pass.
+> *"Wizards master the arcane by specialising in individual schools of magic, combining ancient spells with modern research."*
 
-**Arcance Tradition**
+**Wizards** were arcane spellcasters that learned to practice the Art through research and learning. They drew upon the Weave through a broad range of magical spells and abilities learned through years of practice and training. Through the spells they prepared and memorized, powerful wizards could take control over a battlefield, commanding fire and lightning as easily as others wielded sword and shield. They could learn and perform intricate rituals of arcane power that drew in entities from across the multiverse or peer into future potentialities that have not yet come to pass.
+
+**Arcance Tradition ^2nd-level^**
 
 <div class="grid cards" markdown>
 
@@ -342,3 +390,19 @@ As you advance in levels, you might primarily remain a member of your original c
 - :material-firebase:{ .lg .middle } [**War Magic**](http://dnd5e.wikidot.com/wizard:war-magic)^XGE^
 
 </div>
+
+[artificer]: http://dnd5e.wikidot.com/artificer
+[barbarian]: http://dnd5e.wikidot.com/barbarian
+[bard]: http://dnd5e.wikidot.com/bard
+[cleric]: http://dnd5e.wikidot.com/cleric
+[druid]: http://dnd5e.wikidot.com/druid
+[fighter]: http://dnd5e.wikidot.com/fighter
+[monk]: http://dnd5e.wikidot.com/monk
+[paladin]: http://dnd5e.wikidot.com/paladin
+[ranger]: http://dnd5e.wikidot.com/ranger
+[rogue]: http://dnd5e.wikidot.com/rogue
+[sorcerer]: http://dnd5e.wikidot.com/sorcerer
+[warlock]: http://dnd5e.wikidot.com/warlock
+[wizard]: http://dnd5e.wikidot.com/wizard
+
+

@@ -1,5 +1,3 @@
-# Spellcasting
-
 Magic permeates the worlds of D&D and most often appears in the form of a spell.
 
 This chapter provides the rules for casting spells. Different character classes have distinctive ways of learning and preparing their spells, and monsters use spells in unique ways. Regardless of its source, a spell follows the rules here.
@@ -79,8 +77,6 @@ Some spells can be cast as reactions. These spells take a fraction of a second t
 
 Certain spells (including spells cast as rituals) require more time to cast: minutes or even hours. When you cast a spell with a casting time longer than a single action or reaction, you must spend your action each turn casting the spell, and you must maintain your concentration while you do so (see "Concentration" below). If your concentration is broken, the spell fails, but you don't expend a spell slot. If you want to try casting the spell again, you must start over.
 
-![](img/book/PHB/c101.webp)
-
 ### Range
 
 The target of a spell must be within the spell's range. For a spell like magic missile, the target is a creature. For a spell like fireball, the target is the point in space where the ball of fire erupts.
@@ -149,18 +145,6 @@ If you place an area of effect at a point that you can't see and an obstruction,
 
 If a spell targets a creature of your choice, you can choose yourself, unless the creature must be hostile or specifically a creature other than you. If you are in the area of effect of a spell you cast, you can target yourself.
 
-> ##### The Schools of Magic
->
->- **Abjuration** spells are protective in nature, though some of them have aggressive uses. They create magical barriers, negate harmful effects, harm trespassers, or banish creatures to other planes of existence.
->- **Conjuration** spells involve the transportation of objects and creatures from one location to another. Some spells summon creatures or objects to the caster's side, whereas others allow the caster to teleport to another location. Some conjurations create objects or effects out of nothing.
->- **Divination** spells reveal information, whether in the form of secrets long forgotten, glimpses of the future, the locations of hidden things, the truth behind illusions, or visions of distant people or places.
->- **Enchantment** spells affect the minds of others, influencing or controlling their behavior. Such spells can make enemies see the caster as a friend, force creatures to take a course of action, or even control another creature like a puppet.
->- **Evocation** spells manipulate magical energy to produce a desired effect. Some call up blasts of fire or lightning. Others channel positive energy to heal wounds.
->- **Illusion** spells deceive the senses or minds of others. They cause people to see things that are not there, to miss things that are there, to hear phantom noises, or to remember things that never happened. Some illusions create phantom images that any creature can see, but the most insidious illusions plant an image directly in the mind of a creature.
->- **Necromancy** spells manipulate the energies of life and death. Such spells can grant an extra reserve of life force, drain the life energy from another creature, create the undead, or even bring the dead back to life.
-  Creating the undead through the use of necromancy spells such as *animate dead* is not a good act, and only evil casters use such spells frequently.
->- **Transmutation** spells change the properties of a creature, object, or environment. They might turn an enemy into a harmless creature, bolster the strength of an ally, make an object move at the caster's command, or enhance a creature's innate healing abilities to rapidly recover from injury.
-
 ### Areas of Effect
 
 Spells such as *burning hands* and *cone of cold* cover an area, allowing them to affect multiple creatures at once. A spell's description specifies its area of effect, which typically has one of five different shapes: cone, cube, cylinder, line, or sphere. Every area of effect has a point of origin, a location from which the spell's energy erupts. The rules for each shape specify how you position its point of origin. Typically, a point of origin is a point in space, but some spells have an area whose origin is a creature or an object.
@@ -199,9 +183,9 @@ A sphere's point of origin is included in the sphere's area of effect.
 
 ### Saving Throws
 
- Many spells specify that a target can make a saving throw to avoid some or all of a spell's effects. The spell specifies the ability that the target uses for the save and what happens on a success or failure.
+Many spells specify that a target can make a saving throw to avoid some or all of a spell's effects. The spell specifies the ability that the target uses for the save and what happens on a success or failure.
 
-The DC to resist one of your spells equals 8 + your spellcasting ability modifier + your proficiency bonus + any special modifiers.
+The DC to resist one of your spells equals `8 + your spellcasting ability modifier + your proficiency bonus + any special modifiers`.
 
 ### Attack Rolls
 
@@ -215,17 +199,84 @@ The effects of different spells add together while the durations of those spells
 
 For example, if two clerics cast *bless* on the same target, that character gains the spell's benefit only once; he or she doesn't get to roll two bonus dice.
 
-> ##### The Weave of Magic
->
->The words within the D&D multiverse are magical places. All existence is suffused with magical power, and potential energy lies untapped in every rock, stream, and living creature, the mute and mindless will of existence, permeating every bit of matter and present in every manifestation of energy throughout the multiverse.
->
->Mortals can't directly shape this raw magic. Instead, they make use of a fabric of magic, a kind of interface between the will of a spellcaster and the stuff of raw magic. The spellcasters of the Forgotten Realms call it the Weave and recognize its essence as the goddess Mystra, but casters have varied ways of naming and visualizing this interface.
->
->By any name, without the Weave, raw magic is locked away and inaccessible; the most powerful archmage can't light a candle with magic in an area where the Weave has been torn. But surrounded by the Weave, a spellcaster can shape lightning to blast foes, transport hundreds of miles in the blink of an eye, or even reverse death itself.
->
->All magic depends on the Weave, though different kinds of magic access it in a variety of ways. The spells of wizards, warlocks, sorcerers, and bards are commonly called **arcane magic**. These spells rely on an understanding—learned or intuitive—of the workings of the Weave. The caster plucks directly at the strands of the Weave to create the desired effect. Eldritch knights and arcane tricksters also use arcane magic. The spells of clerics, druids, paladins, and rangers are called **divine magic**. These spellcasters' access to the Weave is mediated by divine power—gods, the divine forces of nature, or the sacred weight of a paladin's oath.
->
->Whenever a magic effect is created, the threads of the Weave intertwine, twist, and fold to make the effect possible.
->
->When characters use divination spells such as *detect magic* or *identify*, they glimpse the Weave. A spell such as *dispel magic* smooths the Weave. Spells such as *antimagic field* rearrange the Weave so that magic flows around, rather than through the area affected by the spell. And in places where the Weave is damaged or torn, magic works in unpredictable ways—or not at all.
->
+## The Weave of Magic
+
+The words within the D&D multiverse are magical places. All existence is suffused with magical power, and potential energy lies untapped in every rock, stream, and living creature, the mute and mindless will of existence, permeating every bit of matter and present in every manifestation of energy throughout the multiverse.
+
+Mortals can't directly shape this raw magic. Instead, they make use of a fabric of magic, a kind of interface between the will of a spellcaster and the stuff of raw magic. The spellcasters of the Forgotten Realms call it the Weave and recognize its essence as the goddess Mystra, but casters have varied ways of naming and visualizing this interface.
+
+By any name, without the Weave, raw magic is locked away and inaccessible; the most powerful archmage can't light a candle with magic in an area where the Weave has been torn. But surrounded by the Weave, a spellcaster can shape lightning to blast foes, transport hundreds of miles in the blink of an eye, or even reverse death itself.
+
+All magic depends on the Weave, though different kinds of magic access it in a variety of ways. The spells of wizards, warlocks, sorcerers, and bards are commonly called **arcane magic**. These spells rely on an understanding—learned or intuitive—of the workings of the Weave. The caster plucks directly at the strands of the Weave to create the desired effect. Eldritch knights and arcane tricksters also use arcane magic. The spells of clerics, druids, paladins, and rangers are called **divine magic**. These spellcasters' access to the Weave is mediated by divine power—gods, the divine forces of nature, or the sacred weight of a paladin's oath.
+
+Whenever a magic effect is created, the threads of the Weave intertwine, twist, and fold to make the effect possible.
+
+When characters use divination spells such as *detect magic* or *identify*, they glimpse the Weave. A spell such as *dispel magic* smooths the Weave. Spells such as *antimagic field* rearrange the Weave so that magic flows around, rather than through the area affected by the spell. And in places where the Weave is damaged or torn, magic works in unpredictable ways—or not at all.
+
+## The Schools of Magic
+
+<div class="grid cards" markdown>
+
+- :dnd-school-abjuration: **Abjuration** 
+
+    ---
+
+    Protective in nature, though some of them have aggressive uses. 
+    
+    They create magical barriers, negate harmful effects, harm trespassers, or banish creatures to other planes of existence.
+
+- **Conjuration** 
+
+    ---
+  
+    Involve the transportation of objects and creatures from one location to another. 
+    
+    Some spells summon creatures or objects to the caster's side, whereas others allow the caster to teleport to another location. Some conjurations create objects or effects out of nothing.
+
+- **Divination** 
+
+    ---
+  
+    These spells reveal information, whether in the form of secrets long forgotten, glimpses of the future, the locations of hidden things, the truth behind illusions, or visions of distant people or places.
+
+- **Enchantment** 
+
+    ---
+  
+    Affect the minds of others, influencing or controlling their behavior. 
+    
+    Such spells can make enemies see the caster as a friend, force creatures to take a course of action, or even control another creature like a puppet.
+
+- **Evocation** 
+  
+    ---
+
+    Manipulate magical energy to produce a desired effect. 
+  
+    Some call up blasts of fire or lightning. Others channel positive energy to heal wounds.
+
+- **Illusion** 
+
+    ---
+  
+    Deceive the senses or minds of others. 
+    
+    They cause people to see things that are not there, to miss things that are there, to hear phantom noises, or to remember things that never happened. Some illusions create phantom images that any creature can see, but the most insidious illusions plant an image directly in the mind of a creature.
+
+- **Necromancy** 
+
+    ---
+  
+    Manipulate the energies of life and death. 
+    
+    Such spells can grant an extra reserve of life force, drain the life energy from another creature, create the undead, or even bring the dead back to life. Creating the undead through the use of necromancy spells such as *animate dead* is not a good act, and only evil casters use such spells frequently.
+
+- **Transmutation** 
+  
+    ---
+
+    Changes the properties of a creature, object, or environment. 
+
+    They might turn an enemy into a harmless creature, bolster the strength of an ally, make an object move at the caster's command, or enhance a creature's innate healing abilities to rapidly recover from injury.
+
+</div>

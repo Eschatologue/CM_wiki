@@ -6,19 +6,19 @@
 
 /* Heading Size */
 h2.doc-heading {
-    font-size: 1.55rem;
+    font-size: 1.5rem;
 }
 h3.doc-heading {
-    font-size: 1.45rem;
+    font-size: 1.4rem;
 }
 h4.doc-heading {
-    font-size: 1.35rem;
+    font-size: 1.3rem;
 }
 h5.doc-heading {
-    font-size: 1.25rem;
+    font-size: 1.2rem;
 }
 
 /* Maximum space for text block */
 .md-grid {
-    max-width: 85%; /* or 100%, if you want to stretch to full-width */
+    max-width: 75%; /* or 100%, if you want to stretch to full-width */
   }

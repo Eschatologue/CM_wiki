@@ -10,7 +10,7 @@ However, British citizens with the proper permits can access firearms and ammuni
 
 List of Firearms that you can possibly find in this world:
 
-- **Basic Firearms**
+=== "**Basic Firearms**"
     
     | **Name** | **Cost** | **Damage**  | **Properties** |
     | --- | --: | --- | --- |
@@ -23,7 +23,7 @@ List of Firearms that you can possibly find in this world:
     | Shotgun, Pump | 6,000 sp | 1d8 piercing | Ammunition, range (50/90), automatic (2), heavy, reload (7), scatter(1d12), two-handed |
     | Submachine Gun | 3,500 sp | 1d6 piercing | Ammunition, range (40/90), automatic (4), reload (30), two-handed |
 
-- **Advanced Firearms**
+=== "**Advanced Firearms**"
     
     | **Name** | **Cost** | **Damage**  | **Properties** |
     | --- | --: | --- | --- |
@@ -31,19 +31,19 @@ List of Firearms that you can possibly find in this world:
     | Rocket Launcher | 12,500 sp | 8d6 fire | Ammunition, range (150/300), explosive, heavy, reload 1, two-handed |
     | Grenade Launcher | 9,000 sp | 1d4-1 bludgeoning | Ammunition, range (120/240), heavy, loading, special |
 
-- **Ammunitions**
+=== "**Ammunitions**"
     
-    | **Name** | **Cost** | **Damage**  | **Properties** |
-    | --- | --: | --- | --- |
+    | **Name** | **Cost** | **Properties** |
+    | --- | --: | --- |
     | Pistol Cartridges (20) | 200 sp | Used by Pistols and SMGs |
     | Rifle Cartridges (20) | 300 sp | Used by Rifles and Machine Gun |
     | Shotgun Cartridges (20) | 150 sp | Used by Shotguns |
     | Rocket Propelled Grenade (1) | 1000 sp | Used by Rocket Launchers |
 
-- **Explosives & Grenades**
+=== "**Explosives & Grenades**"
     
-    | **Name** | **Cost** | **Damage**  | **Properties** |
-    | --- | --: | --- | --- |
+    | **Name** | **Cost** | **Properties** |
+    | --- | --: | --- |
     | Grenade, Cryogenic | 500 sp | see “Special Weapons” |
     | Grenade, Flashbang | 300 sp | see “Special Weapons” |
     | Grenade, Fragmentation | 300 sp | see “Special Weapons” |
@@ -52,55 +52,55 @@ List of Firearms that you can possibly find in this world:
 
 ## Firearms Properties
 
-:material-ammunition:{ .lg .middle } **Ammunition**
+:material-ammunition: **Ammunition**
 
 :   You can use a weapon that has the Ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. The ammunition of a firearm is destroyed upon use.
 
-:material-auto-mode:{ .lg .middle } **Automatic**
+:material-auto-mode: **Automatic**
 
 :   When you make an attack with this weapon on your turn, you can choose to make additional attacks up to the number in the parenthesis. The additional attacks are always made with disadvantage regardless of circumstances unless stated otherwise and expends ammunitions equal to the number of attacks.
 
-:material-bomb:{ .lg .middle } **Explosive**
+:material-bomb: **Explosive**
 
 :   When this weapon’s projectile hits a target, it explodes in a 15-foot diameter sphere. The projectile can target an unoccupied space within its range. Each creature other than the target within the blast radius must make a DC 14 Dexterity saving throw, taking half the damage rolled on a failed save or no damage on a successful one.
 
-:material-weight:{ .lg .middle } **Heavy** 
+:material-weight: **Heavy** 
 
 :   Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon’s size and bulk make it too large for a Small creature to use effectively. Item with this property take 1 additional inventory space.
 
-:material-feather:{ .lg .middle } **Light**
+:material-feather: **Light**
 
 :   A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
 
-:material-sync:{ .lg .middle } **:Loading**
+:material-sync: **Loading**
 
 :   Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.
 
-:material-arrow-expand-up:{ .lg .middle } **Mounted**
+:material-arrow-expand-up: **Mounted**
 
 :   This weapon is normally used while attached to a tripod, vehicle, or other bracing mount. You can mount or unmount this weapon as an action. While it is mounted, it can’t be moved. It can only be used to make an attack while unmounted if held by a Medium or larger creature with a Strength score of at least 15.
 
-:material-redo:{ .lg .middle } **Range**
+:material-redo: **Range**
 
 :   A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's long range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.
 
-:material-reload-alert:{ .lg .middle } **Reload**
+:material-reload-alert: **Reload**
 
 :   This weapon can be used to make a number of attacks before it must be reloaded. If you are proficient with the weapon, reloading it takes a bonus action; otherwise, reloading it takes an action. Some weapons require an action or longer to reload, even if you have proficiency, which is specified in the Reload property. If reloading a weapon requires longer than one action, the weapon can’t be used to make attacks until reloading is finished.
 
-:material-cone:{ .lg .middle } **Scatter**
+:material-cone: **Scatter**
 
 :   If you make an attack against a target that is within half this weapon’s normal range, you deal the damage value listed in parenthesis instead of the weapon’s normal damage dice.
 
-:material-crosshairs-gps:{ .lg .middle } **Sighted**
+:material-crosshairs-gps: **Sighted**
 
 :   This weapon has disadvantage on attack rolls made against targets within 20 feet.
 
-:material-hand-clap:{ .lg .middle } **Two-Handed**
+:material-hand-clap: **Two-Handed**
 
 :   This weapon requires two hands when you attack with it.
 
-:material-spa:{ .lg .middle } **Special**
+:material-spa: **Special**
 
 :   A weapon with the special property has unusual rules governing its use, explained in the weapon's description.
 
