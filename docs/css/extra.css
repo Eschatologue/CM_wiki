@@ -22,3 +22,30 @@ h5.doc-heading {
 .md-grid {
     max-width: 75%; /* or 100%, if you want to stretch to full-width */
   }
+
+
+.xxl {
+    font-size: 1.75rem;
+    margin-top: 0.5em;
+    margin-bottom: -0.65em;
+}
+
+/* Icon Size */
+
+.dropcap {
+    font-size: 3.5rem;
+    line-height: 1;
+    margin: 0.1em 0.1em 0.1em 0;
+    padding: 0.05em;
+}
+.dropcap:before,
+.dropcap:after {
+  content: "";
+  display: block;
+}
+.dropcap:before {
+  margin-top: -0.2em;
+}
+.dropcap:after {
+  margin-bottom: -0.2em;
+}

@@ -73,7 +73,10 @@ As you advance in levels, you might primarily remain a member of your original c
 
 ## Playable Classes
 
-### :material-hammer-wrench:{ .lg .middle } Artificer 
+:dnd-class-artificer:{ .xxl }
+### The Artificer 
+
+*Main article: [Artificer]*
 
 > *"Rare kind of spellcaster who treated magic in the same manner as a mason might see a chisel as a tool for the creation of marvels."*
 
@@ -90,7 +93,8 @@ An **artificer** learned to wield their magic through the mastering of sigils an
 
 </div>
 
-### :material-axe-battle:{ .lg .middle } Barbarian
+:dnd-class-barbarian:{ .xxl }
+### The Barbarian
 
 *Main article: [Barbarian]*
 
@@ -113,7 +117,8 @@ An **artificer** learned to wield their magic through the mastering of sigils an
 
 </div>
 
-### :material-guitar-acoustic:{ .lg .middle } Bard
+:dnd-class-bard:{ .xxl } 
+### The Bard
 
 *Main article: [Bard]*
 
@@ -138,7 +143,8 @@ In addition to their magical skills, bards were artistically talented and extrao
 
 </div>
 
-### :material-mace:{ .lg .middle } Cleric
+:dnd-class-cleric:{ .xxl } 
+### The Cleric
 
 *Main article: [Cleric]*
 
@@ -171,7 +177,16 @@ Nowadays, the deities of the past have been absorbed and replaced by Spires. Whi
  
 </div>
 
-### :material-leaf:{ .lg .middle } Druid
+??? quote "Cleric as Heal-bots"
+
+    In Dungeons & Dragons, clerics possess a vast array of healing spells, but to pigeonhole them solely as healers is a critical error.
+
+    Certain clerics can unleash fireballs akin to a wizard, summon devastating thunderstorms, and even resurrect and control the dead. Those proficient in heavy armor can also serve as formidable front-line tanks.
+
+    As emissaries of their deities, clerics embody the powers and principles of their divine patrons. While healing is often a significant aspect of their role, it is far from their only capability.
+
+:dnd-class-druid:{ .xxl }
+### The Druid
 
 *Main article: [Druid]*
 
@@ -194,7 +209,8 @@ Nowadays, the deities of the past have been absorbed and replaced by Spires. Whi
 
 </div>
 
-### :material-sword-cross:{ .lg .middle } Fighter
+:dnd-class-fighter:{ .xxl } 
+### The Fighter
 
 *Main article: [Fighter]*
 
@@ -218,7 +234,8 @@ Nowadays, the deities of the past have been absorbed and replaced by Spires. Whi
 
 </div>
 
-### :material-mixed-martial-arts:{ .lg .middle } Monk
+:dnd-class-monk:{ .xxl } 
+### The Monk
 
 *Main article: [Monk]*
 
@@ -242,7 +259,8 @@ Nowadays, the deities of the past have been absorbed and replaced by Spires. Whi
 
 </div>
 
-### :material-shield-cross:{ .lg .middle } Paladin
+:dnd-class-paladin:{ .xxl } 
+### The Paladin
 
 *Main article: [Paladin]*
 
@@ -265,7 +283,8 @@ A **paladin** was a holy crusader, sworn to an oath to promote and fight for the
 
 </div>
 
-### :material-tower-fire:{ .lg .middle } Ranger
+:dnd-class-ranger:{ .xxl } 
+### The Ranger
 
 *Main article: [Ranger]*
 
@@ -288,7 +307,8 @@ A **paladin** was a holy crusader, sworn to an oath to promote and fight for the
 
 </div>
 
-### :material-knife-military:{ .lg .middle } Rogue
+:dnd-class-rogue:{ .xxl } 
+### The Rogue
 
 *Main article: [Rogue]*
 
@@ -312,7 +332,8 @@ A **paladin** was a holy crusader, sworn to an oath to promote and fight for the
 
 </div>
 
-### :material-fire:{ .lg .middle } Sorcerer
+:dnd-class-sorcerer:{ .xxl } 
+### The Sorcerer
 
 *Main article: [Sorcerer]*
 
@@ -336,7 +357,8 @@ A **sorcerer**, sometimes known as a sorceress if female, was a wielder of arcan
   
 </div>
 
-### :material-eye:{ .lg .middle } Warlock
+:dnd-class-warlock:{ .xxl } 
+### The Warlock
 
 *Main article: [Warlock]*
 
@@ -361,7 +383,8 @@ A warlock was an arcane spellcaster who gained power through pacts with powerful
 
 </div>
 
-### :material-book:{ .lg .middle } Wizard
+:dnd-class-wizard:{ .xxl } 
+### The Wizard
 
 *Main article: [Wizard]*
 

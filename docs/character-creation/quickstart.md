@@ -41,9 +41,11 @@ Because ability modifiers affect almost every attack roll, ability check, and sa
 | 12-13 | +1 | 28-29 | +9 |
 | 14-15 | +2 | 30 | +10 |
 
-!!! tip "Optimization"
+??? tip "Optimization"
 
-    This DnD setting leans heavily towards optimization, so make sure to ask around or search the web for guidance on how to best distribute and allocate your starting stats for the character idea you have in mind. Properly optimized stats can significantly enhance your gameplay experience and ensure your character is as effective as possible in their chosen role.
+    This DnD setting emphasizes character optimization, so it's crucial to seek advice or research how to best allocate your starting stats for your character concept and for its class. Properly optimized stats can greatly enhance your gameplay experience and ensure your character excels in their chosen role.
+
+    While following the meta isn't mandatory, it's important not to mishandle your ability scores.
 
 ## Starting Level
 For this campaign, you will start at 3rd-level. 

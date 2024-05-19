@@ -217,7 +217,7 @@ When characters use divination spells such as *detect magic* or *identify*, they
 
 <div class="grid cards" markdown>
 
-- :dnd-school-abjuration: **Abjuration** 
+- **Abjuration** 
 
     ---
 
