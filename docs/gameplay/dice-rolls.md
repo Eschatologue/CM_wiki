@@ -18,28 +18,32 @@ The number of dice to be rolled is notated immediately before the `d`. Any appli
     D&D also uses a 100-sided die, commonly referred to as "percentile dice" and is often used to determine loot drops from combat, or for rolling on a "Wild Magic" table for certain sorcerer subclasses, or when the DM requires it.
 
 
-## d20 Rolls
+## :material-dice-d20: d20 Rolls
 
 In D&D, the twenty-sided die (d20) is central to the game's mechanics, determining the success or failure of a wide range of actions. Whenever a creature attempts an action with a chance of failure, it rolls a d20 and adds any applicable modifiers. The result is compared to a target number to see if the attempt succeeds.
 
 These attempts are categorized either as attack rolls – which are rolled against the target's **Armour Class** (**AC**), as ability checks – which are rolled against the check's Difficulty Class (DC), or as saving throws – which are rolled against a save DC:
 
-**:material-dice-d20: d20 Formula:** 
-
-:   `d20` + `Ability score modifier` + `Proficiency bonus (if proficient)` + `Other modifiers (if any)`
+``` title="Formula"
+d20 + Ability score modifier + Proficiency bonus (if proficient) + Other modifiers (if any)
+```
 
 ### Categories of d20 Rolls
 
-#### Attack rolls
+#### Attack Rolls
+
+*See also [Making an Attack]*
+
+[making an attack]: ./combat/making-an-attack.md
   
 When a creature attacks a target, it makes an attack roll against the target's AC to determine whether the attack is a hit or a miss. If the attack is a hit, it generally deals damage, and the attacker rolls for damage. 
 Creatures generally make their attacks with their equipped weapon (including unarmed), but some spells – such as a Warlock's Eldritch Blast – require the caster to make spell attack rolls.
 
-#### Saving throws
+#### Saving Throws
   
 Traps, spells, conditions, and other sources of harm may allow a creature a chance to avoid or reduce their effect, known as a saving throw or save. To attempt a save, a creature rolls a d20 against a target save DC.
 
-#### Ability checks
+#### Ability Checks
   
 An ability check is an attempt to succeed at a specific task, and is rolled against a **Difficulty Class** (**DC**) set by the game for that task. If the final result of the roll equals or exceeds the DC, the attempt is successful.
 

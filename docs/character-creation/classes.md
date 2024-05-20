@@ -1,3 +1,7 @@
+---
+icon: material/sword-cross
+---
+
 # Classes
 
 A character's class in D&D is one of their primary defining features. Each class represents a different calling and offers a unique set of abilities, powers, and skills that influence how the character interacts with the world. Classes determine most of a character's capabilities, both in and out of combat. As a character advances in levels within a class, they gain incredible new powers and abilities, shaping their journey and role in the adventure.
@@ -73,7 +77,7 @@ As you advance in levels, you might primarily remain a member of your original c
 
 ## Playable Classes
 
-:dnd-class-artificer:{ .xxl }
+:dnd-class-artificer:{ .ich1 }
 ### The Artificer 
 
 *Main article: [Artificer]*
@@ -93,7 +97,7 @@ An **artificer** learned to wield their magic through the mastering of sigils an
 
 </div>
 
-:dnd-class-barbarian:{ .xxl }
+:dnd-class-barbarian:{ .ich1 }
 ### The Barbarian
 
 *Main article: [Barbarian]*
@@ -117,7 +121,7 @@ An **artificer** learned to wield their magic through the mastering of sigils an
 
 </div>
 
-:dnd-class-bard:{ .xxl } 
+:dnd-class-bard:{ .ich1 } 
 ### The Bard
 
 *Main article: [Bard]*
@@ -143,7 +147,7 @@ In addition to their magical skills, bards were artistically talented and extrao
 
 </div>
 
-:dnd-class-cleric:{ .xxl } 
+:dnd-class-cleric:{ .ich1 } 
 ### The Cleric
 
 *Main article: [Cleric]*
@@ -185,7 +189,7 @@ Nowadays, the deities of the past have been absorbed and replaced by Spires. Whi
 
     As emissaries of their deities, clerics embody the powers and principles of their divine patrons. While healing is often a significant aspect of their role, it is far from their only capability.
 
-:dnd-class-druid:{ .xxl }
+:dnd-class-druid:{ .ich1 }
 ### The Druid
 
 *Main article: [Druid]*
@@ -209,7 +213,7 @@ Nowadays, the deities of the past have been absorbed and replaced by Spires. Whi
 
 </div>
 
-:dnd-class-fighter:{ .xxl } 
+:dnd-class-fighter:{ .ich1 } 
 ### The Fighter
 
 *Main article: [Fighter]*
@@ -234,7 +238,7 @@ Nowadays, the deities of the past have been absorbed and replaced by Spires. Whi
 
 </div>
 
-:dnd-class-monk:{ .xxl } 
+:dnd-class-monk:{ .ich1 } 
 ### The Monk
 
 *Main article: [Monk]*
@@ -259,7 +263,7 @@ Nowadays, the deities of the past have been absorbed and replaced by Spires. Whi
 
 </div>
 
-:dnd-class-paladin:{ .xxl } 
+:dnd-class-paladin:{ .ich1 } 
 ### The Paladin
 
 *Main article: [Paladin]*
@@ -283,7 +287,7 @@ A **paladin** was a holy crusader, sworn to an oath to promote and fight for the
 
 </div>
 
-:dnd-class-ranger:{ .xxl } 
+:dnd-class-ranger:{ .ich1 } 
 ### The Ranger
 
 *Main article: [Ranger]*
@@ -307,7 +311,7 @@ A **paladin** was a holy crusader, sworn to an oath to promote and fight for the
 
 </div>
 
-:dnd-class-rogue:{ .xxl } 
+:dnd-class-rogue:{ .ich1 } 
 ### The Rogue
 
 *Main article: [Rogue]*
@@ -332,7 +336,7 @@ A **paladin** was a holy crusader, sworn to an oath to promote and fight for the
 
 </div>
 
-:dnd-class-sorcerer:{ .xxl } 
+:dnd-class-sorcerer:{ .ich1 } 
 ### The Sorcerer
 
 *Main article: [Sorcerer]*
@@ -357,7 +361,7 @@ A **sorcerer**, sometimes known as a sorceress if female, was a wielder of arcan
   
 </div>
 
-:dnd-class-warlock:{ .xxl } 
+:dnd-class-warlock:{ .ich1 } 
 ### The Warlock
 
 *Main article: [Warlock]*
@@ -383,7 +387,7 @@ A warlock was an arcane spellcaster who gained power through pacts with powerful
 
 </div>
 
-:dnd-class-wizard:{ .xxl } 
+:dnd-class-wizard:{ .ich1 } 
 ### The Wizard
 
 *Main article: [Wizard]*

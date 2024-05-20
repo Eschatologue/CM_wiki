@@ -1,3 +1,7 @@
+---
+icon: material/magic-staff
+---
+
 Magic permeates the worlds of D&D and most often appears in the form of a spell.
 
 This chapter provides the rules for casting spells. Different character classes have distinctive ways of learning and preparing their spells, and monsters use spells in unique ways. Regardless of its source, a spell follows the rules here.
@@ -6,7 +10,7 @@ This chapter provides the rules for casting spells. Different character classes 
 
 A spell is a discrete magical effect, a single shaping of the magical energies that suffuse the multiverse into a specific, limited expression. In casting a spell, a character carefully plucks at the invisible strands of raw magic suffusing the world, pins them in place in a particular pattern, sets them vibrating in a specific way, and then releases them to unleash the desired effect—in most cases, all in the span of seconds.
 
-Spells can be versatile tools, weapons, or protective wards. They can deal damage or undo it, impose or remove conditions (see *appendix A*), drain life energy away, and restore life to the dead.
+Spells can be versatile tools, weapons, or protective wards. They can deal damage or undo it, impose or remove conditions, drain life energy away, and restore life to the dead.
 
 Uncounted thousands of spells have been created over the course of the multiverse's history, and many of them are long forgotten. Some might yet lie recorded in crumbling spellbooks hidden in ancient ruins or trapped in the minds of dead gods. Or they might someday be reinvented by a character who has amassed enough power and wisdom to do so.
 
@@ -56,10 +60,10 @@ When a character casts any spell, the same basic rules are followed, regardless 
 
 Each spell description in *chapter 11* begins with a block of information, including the spell's name, level, school of magic, casting time, range, components, and duration. The rest of a spell entry describes the spell's effect.
 
-> ##### Casting in Armor
->
->Because of the mental focus and precise gestures required for spellcasting, you must be proficient with the armor you are wearing to cast a spell. You are otherwise too distracted and physically hampered by your armor for spellcasting.
->
+!!! warming "Casting in Armor"
+
+    Because of the mental focus and precise gestures required for spellcasting, you must be proficient with the armor you are wearing to cast a spell. You are otherwise too distracted and physically hampered by your armor for spellcasting.
+
 
 ### Casting Time
 
@@ -83,7 +87,7 @@ The target of a spell must be within the spell's range. For a spell like magic m
 
 Most spells have ranges expressed in feet. Some spells can target only a creature (including you) that you touch. Other spells, such as the shield spell, affect only you. These spells have a range of self.
 
-Spells that create cones or lines of effect that originate from you also have a range of self, indicating that the origin point of the spell's effect must be you (see "Areas of Effect" later in the this chapter).
+Spells that create cones or lines of effect that originate from you also have a range of self, indicating that the origin point of the spell's effect must be you.
 
 Once a spell is cast, its effects aren't limited by its range, unless the spell's description says otherwise.
 
@@ -93,7 +97,7 @@ A spell's components are the physical requirements you must meet in order to cas
 
 #### Verbal (V)
 
-Most spells require the chanting of mystic words. The words themselves aren't the source of the spell's power; rather, the particular combination of sounds, with specific pitch and resonance, sets the threads of magic in motion. Thus, a character who is gagged or in an area of silence, such as one created by the silence spell, can't cast a spell with a verbal component.
+Most spells require the chanting of mystic words. The words themselves aren't the source of the spell's power; rather, the particular combination of sounds, with specific pitch and resonance, sets the threads of magic in motion. Thus, a character who is gagged or in an area of silence, such as one created by the *silence* spell, can't cast a spell with a verbal component.
 
 #### Somatic (S)
 
@@ -215,33 +219,23 @@ When characters use divination spells such as *detect magic* or *identify*, they
 
 ## The Schools of Magic
 
-<div class="grid cards" markdown>
-
 - **Abjuration** 
-
-    ---
 
     Protective in nature, though some of them have aggressive uses. 
     
     They create magical barriers, negate harmful effects, harm trespassers, or banish creatures to other planes of existence.
 
 - **Conjuration** 
-
-    ---
   
     Involve the transportation of objects and creatures from one location to another. 
     
     Some spells summon creatures or objects to the caster's side, whereas others allow the caster to teleport to another location. Some conjurations create objects or effects out of nothing.
 
 - **Divination** 
-
-    ---
   
     These spells reveal information, whether in the form of secrets long forgotten, glimpses of the future, the locations of hidden things, the truth behind illusions, or visions of distant people or places.
 
 - **Enchantment** 
-
-    ---
   
     Affect the minds of others, influencing or controlling their behavior. 
     
@@ -249,15 +243,11 @@ When characters use divination spells such as *detect magic* or *identify*, they
 
 - **Evocation** 
   
-    ---
-
     Manipulate magical energy to produce a desired effect. 
   
     Some call up blasts of fire or lightning. Others channel positive energy to heal wounds.
 
 - **Illusion** 
-
-    ---
   
     Deceive the senses or minds of others. 
     
@@ -265,18 +255,13 @@ When characters use divination spells such as *detect magic* or *identify*, they
 
 - **Necromancy** 
 
-    ---
-  
     Manipulate the energies of life and death. 
     
     Such spells can grant an extra reserve of life force, drain the life energy from another creature, create the undead, or even bring the dead back to life. Creating the undead through the use of necromancy spells such as *animate dead* is not a good act, and only evil casters use such spells frequently.
 
 - **Transmutation** 
-  
-    ---
 
     Changes the properties of a creature, object, or environment. 
 
     They might turn an enemy into a harmless creature, bolster the strength of an ally, make an object move at the caster's command, or enhance a creature's innate healing abilities to rapidly recover from injury.
 
-</div>
