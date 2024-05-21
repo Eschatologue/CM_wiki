@@ -23,7 +23,7 @@ nav:
     - Quickstart: character-creation/quickstart.md
     - Classes: character-creation/classes.md
 #   - Races: character-creation/races.md
-#   - Feat: character-creation/feat.md
+   - Feat: character-creation/feat.md
 #   - Skills: character-creation/feat.md
     - Ability Score: 
       - character-creation/ability-score.md
@@ -58,6 +58,14 @@ site_description: >-
 # CSS
 extra_css:
   - css/extra.css
+  - https://unpkg.com/katex@0/dist/katex.min.css
+
+# JavaScript
+extra_javascript:
+  - javascripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+
 
 # Configuration
 theme:

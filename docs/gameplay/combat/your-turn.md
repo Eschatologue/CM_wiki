@@ -8,7 +8,7 @@ During your turn in, you can perform a variety of actions to interact with the w
 
 *See also: [Actions]*
 
-[actions]: ../resources.md
+[actions]: ../resources.md#action-types
 
 
 On your turn, you can take one action. Common actions include:
