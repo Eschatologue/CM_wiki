@@ -1,47 +1,76 @@
-# Armour
-
 Fantasy gaming worlds are a vast tapestry made up of many different cultures, each with its technology level. For this reason, adventurers have access to a variety of armour types, ranging from leather armour to chain mail to costly plate armour, with several other kinds of armour in between.
 
 ## Understanding Armour Class (AC)
 
 Armour Class (AC) is a measurement of how difficult a creature is to be hit by an attack. In order to successfully hit a creature, the results of an attack roll must have a number equal to or greater than the target's Armour Class. AC can be increased by equipping armour and shields, by selecting certain feats when leveling up, or utilizing certain spells.
 
-Below is tha formulaa
+### Base AC from Armor
 
-$$
-AC = 10+\text{Dexterity Modifier}+\text{Other Bonuses}
-$$
+Each type of armor provides a base AC. The three main categories of armor are light, medium, and heavy, and each has different rules for how they interact with your Dexterity modifier.
 
-## Formula
+#### Light Armor
 
-The default formula that determines AC is:
+- **Padded:** Base AC 11 + Dexterity modifier.
+- **Leather:** Base AC 11 + Dexterity modifier.
+- **Studded Leather:** Base AC 12 + Dexterity modifier.
 
-:   `10 + Dexterity modifier + armour bonus + shield bonus + other bonuses and penalties`
+#### Medium Armor
 
-- The AC bonus from Dexterity modifier may be capped when wearing medium and is ignored entirely when wearing heavy armour.
+- **Hide:** Base AC 12 + Dexterity modifier (maximum of +2).
+- **Chain Shirt:** Base AC 13 + Dexterity modifier (maximum of +2).
+- **Scale Mail:** Base AC 14 + Dexterity modifier (maximum of +2), disadvantage on Stealth checks.
+- **Breastplate:** Base AC 14 + Dexterity modifier (maximum of +2).
+- **Half Plate:** Base AC 15 + Dexterity modifier (maximum of +2), disadvantage on Stealth checks.
 
-- Medium armour caps the Dexterity Modifier to +2, whereas heavy armour ignores the modifier entirely.
+#### Heavy Armor
 
-- Shields will grant the listed AC bonus to whomever equips it, regardless of which hand they are currently using to wield it.
+- **Ring Mail:** Base AC 14, disadvantage on Stealth checks.
+- **Chain Mail:** Base AC 16, disadvantage on Stealth checks, requires Strength 13.
+- **Splint:** Base AC 17, disadvantage on Stealth checks, requires Strength 15.
+- **Plate:** Base AC 18, disadvantage on Stealth checks, requires Strength 15.
 
-### Other formulas
-Unarmoured creatures may use one of the following different formulas if they have certain features.
+#### Using a Shield
 
-- Mage Armour(Spell) or Draconic Resilience(Racial Feature):
+Using a shield adds bonus to your AC equal to the amount stated. This bonus is applied in addition to the base AC provided by your armor.
 
-:   `13 + Dexterity modifier + shield bonus + other bonuses and penalties`
+??? tip "Example Calculations"
 
-- Unarmoured Defence (Barbarian):
+    Here are some examples to illustrate how to calculate AC for different character setups:
 
-:   `10 + Constitution modifier + Dexterity modifier + shield bonus + other bonuses and penalties`
+    **Light Armor Example:**
 
-- Unarmoured Defence (Monk):
+        - A rogue with a Dexterity modifier of +3 wearing studded leather (base AC 12).
+        - AC = 12 (base) + 3 (Dex) = 15.
 
-:   `10 + Wisdom modifier + Dexterity modifier + other bonuses and penalties`
+    **Medium Armor Example:**
+
+        - A ranger with a Dexterity modifier of +3 wearing half plate (base AC 15, max +2 Dex).
+        - AC = 15 (base) + 2 (Dex, max allowed) = 17.
+
+    **Heavy Armor Example:**
+
+        - A paladin wearing plate armor (base AC 18) and using a shield (+2).
+        - AC = 18 (base) + 2 (shield) = 20.
+
+    **Unarmored Defense Example (Barbarian):**
+
+        - A barbarian with a Dexterity modifier of +2 and a Constitution modifier of +3.
+        - AC = 10 + 2 (Dex) + 3 (Con) = 15.
+
+    **Unarmored Defense Example (Monk):**
+
+        - A monk with a Dexterity modifier of +3 and a Wisdom modifier of +2.
+        - AC = 10 + 3 (Dex) + 2 (Wis) = 15.
+
+#### Special Considerations
+
+- **Stealth Disadvantage:** Some armors (e.g., scale mail, splint, plate) impose disadvantage on Dexterity (Stealth) checks.
+- **Strength Requirements:** Some heavy armors require a minimum Strength score to avoid movement , which is -10 ft of movement speed.
+- **Magical Armor:** Magical armors can provide additional bonuses to AC or other special benefits.
 
 ## How much AC do I need?
 
-Short Answer? *all of them*. More AC is always better, regardless of your class. 
+Short Answer? *all of them*. More AC is always better, it is better to not get hit rather than expending hit points.
 
 Long Answer is as follow:  
 
