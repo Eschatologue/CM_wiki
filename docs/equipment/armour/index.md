@@ -39,28 +39,28 @@ Using a shield adds bonus to your AC equal to the amount stated. This bonus is a
 
     **Light Armor Example:**
 
-        - A rogue with a Dexterity modifier of +3 wearing studded leather (base AC 12).
-        - AC = 12 (base) + 3 (Dex) = 15.
+    - A rogue with a Dexterity modifier of +3 wearing studded leather (base AC 12).
+    - AC = 12 (base) + 3 (Dex) = 15.
 
     **Medium Armor Example:**
 
-        - A ranger with a Dexterity modifier of +3 wearing half plate (base AC 15, max +2 Dex).
-        - AC = 15 (base) + 2 (Dex, max allowed) = 17.
+    - A ranger with a Dexterity modifier of +3 wearing half plate (base AC 15, max +2 Dex).
+    - AC = 15 (base) + 2 (Dex, max allowed) = 17.
 
     **Heavy Armor Example:**
 
-        - A paladin wearing plate armor (base AC 18) and using a shield (+2).
-        - AC = 18 (base) + 2 (shield) = 20.
+    - A paladin wearing plate armor (base AC 18) and using a shield (+2).
+    - AC = 18 (base) + 2 (shield) = 20.
 
     **Unarmored Defense Example (Barbarian):**
 
-        - A barbarian with a Dexterity modifier of +2 and a Constitution modifier of +3.
-        - AC = 10 + 2 (Dex) + 3 (Con) = 15.
+    - A barbarian with a Dexterity modifier of +2 and a Constitution modifier of +3.
+    - AC = 10 + 2 (Dex) + 3 (Con) = 15.
 
     **Unarmored Defense Example (Monk):**
 
-        - A monk with a Dexterity modifier of +3 and a Wisdom modifier of +2.
-        - AC = 10 + 3 (Dex) + 2 (Wis) = 15.
+    - A monk with a Dexterity modifier of +3 and a Wisdom modifier of +2.
+    - AC = 10 + 3 (Dex) + 2 (Wis) = 15.
 
 #### Special Considerations
 
