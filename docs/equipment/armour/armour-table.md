@@ -2,6 +2,17 @@
 icon: material/shield-plus
 ---
 
+## Armour Proficiency
+
+Anyone can put on a suit of armour or strap a shield to an arm. Only those *proficient* in the armour's use know how to wear it effectively, however. Your class gives you proficiency with certain types of armour. 
+
+If you wear armour that you lack proficiency with, you gain several affliction: 
+
+- :octicons-triangle-down-24: **Disadvantage** on any :material-dice-d20: **Ability Check**
+- :octicons-triangle-down-24: **Disadvantage** on :material-shield-refresh: **Saving Throw**
+- :octicons-triangle-down-24: **Disadvantage** on :material-dice-d20: **Attack Roll** that involves *Strength* or *Dexterity*
+- You can't cast spells.
+
 ## Armour Table
 
 The Armour table shows the cost and other properties of the common types of armour worn in this D&D.
@@ -38,7 +49,7 @@ The Armour table shows the cost and other properties of the common types of armo
     | Plate | 15,000 sp | 18 | Str 15 | Disadvantage |
 
 
-=== "Shields"
+=== "**SHIELD**"
 
     A shield is made from wood or metal (can be anything really) and is carried in one hand. You can benefit from only one shield at a time.
     
@@ -51,10 +62,6 @@ The Armour table shows the cost and other properties of the common types of armo
     **Buckler**. While holding a Buckler shield. You can use a Bonus Action to gain a +1 bonus to your AC until the start of your next turn. You can use a weapon with *Versatile* property even if you have a Buckler in the other hand.
         
     **Tower.** While holding a Tower shield, your speed is reduced by 10 ft.
-
-## Armour
-
-Anyone can put on a suit of armour or strap a shield to an arm. Only those proficient in the armour's use know how to wear it effectively, however. Your class gives you proficiency with certain types of armour. If you wear armour that you lack proficiency with, you have a disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can't cast spells.
 
 ### Armour Class (AC)
 
