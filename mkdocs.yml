@@ -39,8 +39,8 @@ nav:
       - Armour Types: equipment/armour/armour-table.md
     - Weapons: 
       - equipment/weapon/index.md
-      - Cold Weapons: equipment/weapon-cold.md
-      - Firearms: equipment/weapon-firearm.md
+      - Cold Weapons: equipment/weapon/weapon-cold.md
+      - Firearms: equipment/weapon/weapon-firearm.md
     - Other Equipments: 
       - Artisan Tools: equipment/other-artisan-tools.md
       - Gaming Sets: equipment/other-artisan-tools.md

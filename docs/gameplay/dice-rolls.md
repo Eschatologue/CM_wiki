@@ -1,5 +1,9 @@
 ---
 icon: material/dice-d20
+
+search:
+  boost: 2 
+
 ---
 
 > "*The ~~Arcana~~ Dice is the means by which all is revealed*" 
@@ -24,9 +28,11 @@ In D&D, the twenty-sided die (d20) is central to the game's mechanics, determini
 
 These attempts are categorized either as attack rolls – which are rolled against the target's **Armour Class** (**AC**), as ability checks – which are rolled against the check's Difficulty Class (DC), or as saving throws – which are rolled against a save DC:
 
-``` title="Formula"
-d20 + Ability score modifier + Proficiency bonus (if proficient) + Other modifiers (if any)
-```
+$$
+
+\text{Ability Checks} = d20 + (\text{Ability score modifier} + \text{Proficiency bonus (if proficient)} + \text{Other Modifier (if applicable)})
+
+$$
 
 ### Categories of d20 Rolls
 
