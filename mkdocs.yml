@@ -35,7 +35,8 @@ nav:
       - Charisma: character-creation/as-06.charisma.md
   - Items & Equipment: 
     - Armour: 
-      - equipment.armour/index.md
+      - equipment/armour/index.md
+      - equipment/armour/armour-table.md
     - Weapons: 
       - Cold Weapons: equipment/weapon-cold.md
       - Firearms: equipment/weapon-firearm.md
