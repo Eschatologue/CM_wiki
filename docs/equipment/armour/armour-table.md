@@ -19,7 +19,7 @@ The Armour table shows the cost and other properties of the common types of armo
 
 === "**LIGHT ARMOUR**"
 
-    | :material-text **NAME** | :material-currency-fra: **COST** |  :material-shield: **ARMOUR CLASS(AC)** | :material-arm-flex: **STRENGTH** | :material-eye-off: **STEALTH** |
+    | :material-text: **NAME** | :material-currency-fra: **COST** |  :material-shield: **ARMOUR CLASS(AC)** | :material-arm-flex: **STRENGTH** | :material-eye-off: **STEALTH** |
     | :-- | --: | :-: | :-: | :-: |
     | **Padded** | 50 sp | 11 + Dex modifier | - | Disadvantage |
     | **Leather** | 100 sp | 11 + Dex modifier | - | - |
@@ -27,7 +27,7 @@ The Armour table shows the cost and other properties of the common types of armo
 
 === "**MEDIUM ARMOUR**"
     
-    | :material-text **NAME** | :material-currency-fra: **COST** |  :material-shield: **ARMOUR CLASS(AC)** | :material-arm-flex: **STRENGTH** | :material-eye-off: **STEALTH** |
+    | :material-text: **NAME** | :material-currency-fra: **COST** |  :material-shield: **ARMOUR CLASS(AC)** | :material-arm-flex: **STRENGTH** | :material-eye-off: **STEALTH** |
     | :-- | --: | :-: | :-: | :-: |
     | Hide | 100 sp | 12 + Dex modifier (max 2) | - | - |
     | Chain Shirt | 500 sp | 13 + Dex modifier (max 2) | - | - |
@@ -41,7 +41,7 @@ The Armour table shows the cost and other properties of the common types of armo
 
     If the Armour table shows 'STR 13' or 'STR 15' in the Strength column for an armour type, the armour reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
     
-    | :material-text **NAME** | :material-currency-fra: **COST** |  :material-shield: **ARMOUR CLASS(AC)** | :material-arm-flex: **STRENGTH** | :material-eye-off: **STEALTH** |
+    | :material-text: **NAME** | :material-currency-fra: **COST** |  :material-shield: **ARMOUR CLASS(AC)** | :material-arm-flex: **STRENGTH** | :material-eye-off: **STEALTH** |
     | :-- | --: | :-: | :-: | :-: |
     | Ring Mail | 300 sp | 14 | - | Disadvantage |
     | Chainmail | 750 sp | 16 | Str 13 | Disadvantage |

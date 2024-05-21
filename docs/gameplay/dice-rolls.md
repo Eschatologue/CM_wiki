@@ -2,7 +2,7 @@
 icon: material/dice-d20
 ---
 
-"*The ~~Arcana~~ Dice is the means by which all is revealed*" 
+> "*The ~~Arcana~~ Dice is the means by which all is revealed*" 
 
 Dice rolls are the core mechanics of D&D. In every situation, dice are rolled to determine the outcome of a myriad of situations, such as whether or not a character will succeed at using a particular skill, if an attack will land and how much damage it will do, and even when the DM feels like adding a little unpredictability.
 
@@ -47,7 +47,7 @@ Traps, spells, conditions, and other sources of harm may allow a creature a chan
   
 An ability check is an attempt to succeed at a specific task, and is rolled against a **Difficulty Class** (**DC**) set by the game for that task. If the final result of the roll equals or exceeds the DC, the attempt is successful.
 
-??? info "Dificulty Class (DC)"
+!!! info "Dificulty Class (DC)"
 
     A Difficulty Class (or DC) is a number rolled against when making ability checks or saving throws. It represents how difficult a task is to accomplish. The number is determined by the the task attempted – or in the case of saves – the spell, condition, or action that has to be overcome.
 
