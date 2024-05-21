@@ -32,29 +32,32 @@ Firearms are weapons that use an explosive charge to propel projectiles called "
 
 Many weapons have special properties related to their use, as shown in the Weapons table.
 
-:material-ammunition:{ .lg } ***Ammunition***
+:material-ammunition:{ .lg } **Ammunition**
 
 :   You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition
 
-You need a free hand to draw ammunition and load a one-handed weapon and at the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
+:   Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
 
-### Automatic
+:material-reload-alert:{ .lg } **Automatic**
 
-Once per round, when you the the attack action with this weapon on your turn, you can choose to make additional attacks (make seperate attack rolls) up to the number in the parenthesis. 
+:   Once per round, when you the attack action with this weapon on your turn, you can choose to make additional attacks (make seperate attack rolls) up to the number in the parenthesis. 
 
-The additional attacks are always made with disadvantage regardless of circumstances and expends ammunitions equal to the number of attacks.
+:   The additional attacks are always made with disadvantage regardless of circumstances and expends ammunitions equal to the number of attacks.
 
-### Finesse
+:material-hand-okay:{ .lg } **Finesse**
 
-When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
+:   When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 
-### Heavy 
+:material-weight:{ .lg } **Heavy**
 
-Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon’s size and bulk make it too large for a Small creature to use effectively. Item with this property take 1 additional inventory space.
+:   Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon’s size and bulk make it too large for a Small creature to use effectively. Item with this property take 1 additional inventory space.
 
-### Light
+:fontawesome-solid-feather-pointed:{ .lg } **Light**
 
-A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
+:   A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons(1).
+    { .annotate }
+
+    1. **Two-weapon Fighting**. When you take the Attack action on your turn and attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon, and you don’t add your ability modifier to the extra attack’s damage, unless that modifier is negative.
 
 ### Loading
 
