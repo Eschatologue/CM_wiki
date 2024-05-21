@@ -32,7 +32,7 @@ Firearms are weapons that use an explosive charge to propel projectiles called "
 
 Many weapons have special properties related to their use, as shown in the Weapons table.
 
-`Ammunition`
+:material-ammunition:{ .lg } ***Ammunition***
 
 :   You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition
 
