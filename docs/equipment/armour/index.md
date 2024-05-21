@@ -6,6 +6,8 @@ Fantasy gaming worlds are a vast tapestry made up of many different cultures, ea
 
 Armour Class (AC) is a measurement of how difficult a creature is to be hit by an attack. In order to successfully hit a creature, the results of an attack roll must have a number equal to or greater than the target's Armour Class. AC can be increased by equipping armour and shields, by selecting certain feats when leveling up, or utilizing certain spells.
 
+Below is tha formulaa
+
 $$
 AC = 10+\text{Dexterity Modifier}+\text{Other Bonuses}
 $$
