@@ -1,50 +1,56 @@
+---
+icon: material/shield-plus
+---
+
 ## Armour Table
 
 The Armour table shows the cost and other properties of the common types of armour worn in this D&D.
 
-### Light Armour
+=== "**LIGHT ARMOUR**"
 
-| **Armour** | **Cost** | **Armour Class (AC)** | **Strength** | **Stealth** |
-| --- | --: | :-: | :-: | :-: |
-| **Padded** | 50 sp | 11 + Dex modifier | - | Disadvantage |
-| **Leather** | 100 sp | 11 + Dex modifier | - | - |
-| **Studded Leather** | 450 sp | 12 + Dex modifier | - | - |
+    | :material-text **NAME** | :material-currency-fra: **COST** |  :material-shield: **ARMOUR CLASS(AC)** | :material-arm-flex: **STRENGTH** | :material-eye-off: **STEALTH** |
+    | :-- | --: | :-: | :-: | :-: |
+    | **Padded** | 50 sp | 11 + Dex modifier | - | Disadvantage |
+    | **Leather** | 100 sp | 11 + Dex modifier | - | - |
+    | **Studded Leather** | 450 sp | 12 + Dex modifier | - | - |
 
-### Medium Armour
+=== "**MEDIUM ARMOUR**"
     
-| **Armour** | **Cost** | **Armour Class (AC)** | **Strength** | **Stealth** |
-| --- | --: | :-: | :-: | :-: |
-| Hide | 100 sp | 12 + Dex modifier (max 2) | - | - |
-| Chain Shirt | 500 sp | 13 + Dex modifier (max 2) | - | - |
-| Scale Mail | 500 sp | 14 + Dex modifier (max 2) | - | Disadvantage |
-| Breastplate | 4,000 sp | 14 + Dex modifier (max 2) | - | - |
-| Half Plate | 7,500 sp | 15 + Dex modifier (max 2) | - | Disadvantage |
+    | :material-text **NAME** | :material-currency-fra: **COST** |  :material-shield: **ARMOUR CLASS(AC)** | :material-arm-flex: **STRENGTH** | :material-eye-off: **STEALTH** |
+    | :-- | --: | :-: | :-: | :-: |
+    | Hide | 100 sp | 12 + Dex modifier (max 2) | - | - |
+    | Chain Shirt | 500 sp | 13 + Dex modifier (max 2) | - | - |
+    | Scale Mail | 500 sp | 14 + Dex modifier (max 2) | - | Disadvantage |
+    | Breastplate | 4,000 sp | 14 + Dex modifier (max 2) | - | - |
+    | Half Plate | 7,500 sp | 15 + Dex modifier (max 2) | - | Disadvantage |
 
-### Heavy Armour
+=== "**HEAVY ARMOUR**"
 
-Heavier armour interferes with the wearer's ability to move quickly, stealthily, and freely. 
+    Heavier armour interferes with the wearer's ability to move quickly, stealthily, and freely. 
 
-If the Armour table shows 'STR 13' or 'STR 15' in the Strength column for an armour type, the armour reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
+    If the Armour table shows 'STR 13' or 'STR 15' in the Strength column for an armour type, the armour reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
     
-| **Armour** | **Cost** | **Armour Class (AC)** | **Strength** | **Stealth** |
-| --- | --: | :-: | :-: | :-: |
-| Ring Mail | 300 sp | 14 | - | Disadvantage |
-| Chainmail | 750 sp | 16 | Str 13 | Disadvantage |
-| Splint | 2,000 sp | 17 | Str 15 | Disadvantage |
-| Plate | 15,000 sp | 18 | Str 15 | Disadvantage |
+    | :material-text **NAME** | :material-currency-fra: **COST** |  :material-shield: **ARMOUR CLASS(AC)** | :material-arm-flex: **STRENGTH** | :material-eye-off: **STEALTH** |
+    | :-- | --: | :-: | :-: | :-: |
+    | Ring Mail | 300 sp | 14 | - | Disadvantage |
+    | Chainmail | 750 sp | 16 | Str 13 | Disadvantage |
+    | Splint | 2,000 sp | 17 | Str 15 | Disadvantage |
+    | Plate | 15,000 sp | 18 | Str 15 | Disadvantage |
 
 
-### Shields
+=== "Shields"
+
+    A shield is made from wood or metal (can be anything really) and is carried in one hand. You can benefit from only one shield at a time.
     
-| **Armour** | **Cost** | **Armour Class (AC)** | **Strength** | **Stealth** |
-| --- | --: | :-: | :-: | :-: |
-| Buckler* | 50 sp | +1 | - | - |
-| Shield | 100 sp | +2 | - | - |
-| Tower** | 400 sp | +3 | Str 16 | Disadvantage |
+    | :material-text **NAME** | :material-currency-fra: **COST** |  :material-shield: **ARMOUR CLASS(AC)** | :material-arm-flex: **STRENGTH** | :material-eye-off: **STEALTH** |
+    | :-- | --: | :-: | :-: | :-: |
+    | Buckler* | 50 sp | +1 | - | - |
+    | Shield | 100 sp | +2 | - | - |
+    | Tower** | 400 sp | +3 | Str 16 | Disadvantage |
     
-**Buckler**. While holding a Buckler shield. You can use a Bonus Action to gain a +1 bonus to your AC, until the start of your next turn. You can use a weapon with *Versatile* property even if you have a Buckler in the other hand.
-    
-**Tower.** While holding a Tower shield, your speed is reduced by 10 ft.
+    **Buckler**. While holding a Buckler shield. You can use a Bonus Action to gain a +1 bonus to your AC until the start of your next turn. You can use a weapon with *Versatile* property even if you have a Buckler in the other hand.
+        
+    **Tower.** While holding a Tower shield, your speed is reduced by 10 ft.
 
 ## Armour
 
@@ -52,19 +58,13 @@ Anyone can put on a suit of armour or strap a shield to an arm. Only those profi
 
 ### Armour Class (AC)
 
-*See [Armour Class] for more details*
-
-[armour class]: ../quickref/ac.md#formula
+*See [Armour Class](./index.md#what-is-armour-class-ac) for more details*
 
 Armour protects its wearer from attacks. The armour (and shield) you wear determines your base Armour Class.
 
 ### **Stealth**
 
 If the Armour table shows "Disadvantage" in the Stealth column, the wearer has disadvantage on Dexterity (Stealth) checks.
-
-### **Shields [S]**
-
-A shield is made from wood or metal and is carried in one hand. You can benefit from only one shield at a time.
 
 ## Light Armour
 
@@ -76,7 +76,7 @@ If you wear light armour, you add your Dexterity modifier to the base number fro
 - **Leather.** The breastplate and shoulder protectors of this armour are made of leather that has been stiffened by being boiled in oil. The rest of the armour is made of softer and more flexible materials.
 - **Studded Leather.** Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.
 
-## Medium Armour [M]
+## Medium Armour
 
 Medium armour offers more protection than light armour, but it also impairs movement more. If you wear medium armour, you add your Dexterity modifier, to a maximum of +2, to the base number from your armour type to determine your Armour Class.
 
@@ -87,7 +87,7 @@ Medium armour offers more protection than light armour, but it also impairs move
 
 - **Half⁠ Plate.** Half plate consists of shaped metal plates that cover most of the wearer's body. It does not include leg protection beyond simple greaves that are attached with leather straps.
 
-## Heavy Armour [H]
+## Heavy Armour
 
 Of all the armour categories, heavy armour offers the best protection. These suits of armour cover the entire body and are designed to stop a wide range of attacks. Only proficient warriors can manage their weight and bulk.
 

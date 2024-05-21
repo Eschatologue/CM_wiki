@@ -1,10 +1,14 @@
+# Understanding Armour and Armour Class
+
 Fantasy gaming worlds are a vast tapestry made up of many different cultures, each with its technology level. For this reason, adventurers have access to a variety of armour types, ranging from leather armour to chain mail to costly plate armour, with several other kinds of armour in between.
 
-## Understanding Armour Class (AC)
+## What is Armour Class (AC)?
 
-Armour Class (AC) is a measurement of how difficult a creature is to be hit by an attack. In order to successfully hit a creature, the results of an attack roll must have a number equal to or greater than the target's Armour Class. AC can be increased by equipping armour and shields, by selecting certain feats when leveling up, or utilizing certain spells.
+Armour Class (AC) is a measurement of how difficult a creature is to be hit by an attack. In order to successfully hit a creature, the results of an attack roll must have a number equal to or greater than the target's Armour Class. AC can be increased by equipping armour and shields, by selecting certain feats when leveling up, utilizing certain spells, or when the DM decide that their creatures requires more AC. ~~Damn.. you guys rolled high.....~~
 
 ### Base AC from Armor
+
+*Main Article: [Armour Type](./armour-table.md)*
 
 Each type of armor provides a base AC. The three main categories of armor are light, medium, and heavy, and each has different rules for how they interact with your Dexterity modifier.
 
@@ -33,7 +37,7 @@ Each type of armor provides a base AC. The three main categories of armor are li
 
 Using a shield adds bonus to your AC equal to the amount stated. This bonus is applied in addition to the base AC provided by your armor.
 
-??? tip "Example Calculations"
+??? example "Example Calculations"
 
     Here are some examples to illustrate how to calculate AC for different character setups:
 
@@ -78,9 +82,9 @@ Using a shield adds bonus to your AC equal to the amount stated. This bonus is a
 - **Strength Requirements:** Some heavy armors require a minimum Strength score to avoid movement , which is -10 ft of movement speed.
 - **Magical Armor:** Magical armors can provide additional bonuses to AC or other special benefits.
 
-??? tip "How much AC do I need?"
+??? question "How much AC do I need?"
 
-    **ALL OF THEM**
+    ***ALL OF THEM***
 
     Armour Class becomes more useful the greater it is - the difference in effectiveness between 20 and 19 AC is greater than the difference in effectiveness between 16 and 15.
 
