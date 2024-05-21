@@ -65,7 +65,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 :material-nut:{ .lg .middle} **Mounted**
 
-This weapon is normally used while attached to a tripod, vehicle, or other bracing mount. You can mount or unmount this weapon as an action. While it is mounted, it can’t be moved. It can only be used to make an attack while unmounted if held by a Medium or larger creature with a Strength score of at least 15.
+:   This weapon is normally used while attached to a tripod, vehicle, or other bracing mount. You can mount or unmount this weapon as an action. While it is mounted, it can’t be moved. It can only be used to make an attack while unmounted if held by a Medium or larger creature with a Strength score of at least 15.
 
 :material-sync:{ .lg .middle } **Loading**
 
@@ -92,7 +92,8 @@ This weapon is normally used while attached to a tripod, vehicle, or other braci
 
     1. e.g. If you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the *Finesse*(1) property.
         { .annotate }
-        1. When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
+
+        1. *Finesse* is a weapon property. You choose either your Strength or Dexterity modifier for the attack rolls and damage rolls. You must use the same modifier for both rolls.
 
 :material-hand-clap:{ .lg .middle } **Two-Handed**
 
@@ -106,7 +107,7 @@ This weapon is normally used while attached to a tripod, vehicle, or other braci
 
 :   If you make an attack against a target that is within half this weapon’s normal range, you deal the damage value listed in parenthesis instead of the weapon’s normal damage dice.
 
-:material-crosshairs-gps: **Sighted**
+:material-crosshairs-gps:{ .lg .middle} **Sighted**
 
 :   This weapon has disadvantage on attack rolls made against targets within 20 feet.
 
