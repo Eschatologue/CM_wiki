@@ -23,7 +23,7 @@ A character who refuses to participate in the main quest or constantly separates
 
 ### Setting and Tone
 
-*See more at [Lore](../antares/)*
+*See more at [Lore](../lore/index.md)*
 
 **Your character must plausibly fit into the campaign’s setting and align with the overall tone of the campaign.**
 
@@ -36,11 +36,11 @@ This setting uses a post-apocalyptic dystopian science fantasy world, characters
 [wip]
 
 ## Choosing a Class
-*Main Article: [Classes](/CM_wiki/character-creation/classes)*
+*Main Article: [Classes](../character-creation/classes.md)*
 
 Please choose a class from the available options listed, all subclasses is allowed except those from *Unrearthed Arcana* (UA), unless stated inside Bonus Subclasses below
 
-You can also choose to [multiclass](/CM_wiki/gameplay/multiclassing) when the prerequisites are met.
+You can also choose to [multiclass](../gameplay/multiclassing.md) when the prerequisites are met.
 
 ## Starting Stats
 In this setting, we uses the Standard Array as follow: `15`, `14`, `13`, `12`, `10`, and `8`
@@ -48,7 +48,7 @@ In this setting, we uses the Standard Array as follow: `15`, `14`, `13`, `12`, `
 Simply assign one number to each ability score (one to Strength, one to Dexterity, one to Constitution, and so on). Then, you'll be able to determine your character's modifier for each score.
 
 ### Ability Scores
-*Main Article: [Ability Score](/CM_wiki/gameplay/playing-the-game/#ability-scores-and-modifiers)*
+*Main Article: [Ability Score](../character-creation/ability-scores/index.md)*
 
 Each of a creature's abilities has a score, a number that defines the magnitude of that ability. An ability score is not just a measure of innate capabilities, but also encompasses a creature's training and competence in activities related to that ability.
 

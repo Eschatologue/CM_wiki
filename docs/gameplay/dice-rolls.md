@@ -61,11 +61,11 @@ Rolling a 1 or 20 on a d20 roll is referred to as a natural 1 or natural 20. Whe
 
 ### Advantage and Disadvantage
 
-A number of situations and conditions give creatures :material-arrow-up-bold:**advantage** or :material-arrow-down-bold:**disadvantage** on d20 rolls. 
+A number of situations and conditions give creatures :octicons-triangle-up-24:**Advantage** or :octicons-triangle-down-24:**Disadvantage** on d20 rolls. 
 
-A creature that makes a roll with :material-arrow-up-bold:**advantage** rolls two d20 dice separately, and uses the higher of the two results. If they have :material-arrow-down-bold:**disadvantage**, they choose the lower of the two.
+A creature that makes a roll with :octicons-triangle-up-24:**Advantage** rolls two d20 dice separately, and uses the higher of the two results. If they have :octicons-triangle-down-24:**Disadvantage**, they choose the lower of the two.
 
-When multiple instances of :material-arrow-up-bold:**advantage** or :material-arrow-down-bold:**disadvantage** occcurs, each instance beyond the first adds a `+2` or `-2` modifier to the roll, respectively.^HB^
+When multiple instances of :octicons-triangle-up-24:**Advantage** or :octicons-triangle-down-24:**Disadvantage** occcurs, each instance beyond the first adds a `+2` or `-2` modifier to the roll, respectively.^HB^
 
 ## Ability checks
 Ability checks are dice rolls made to determine whether a creature succeeds or fails at a task. They are rolled against the task's Difficulty Class (DC). Each ability check is made using one of the six abilities in the game, and creatures add an ability's corresponding ability score modifier to the results of ability checks they make.
@@ -97,28 +97,28 @@ Characters add their proficiency bonus to any ability checks they make using ski
 |  |  |  | [Nature] | [Perception] | [Persuasion] |
 |  |  |  | [Religion] | [Survival] |  |
 
-[Athletics]: ../character-creation/as-01.strength.md#athletics
+[Athletics]: ../character-creation/ability-scores/strength.md#athletics
 
-[Acrobatics]: ../character-creation/as-02.dexterity.md#acrobatics
-[Sleight of Hand]: ../character-creation/as-02.dexterity.md#sleight-of-hand
-[Stealth]: ../character-creation/as-02.dexterity.md#stealth
+[Acrobatics]: ../character-creation/ability-scores/dexterity.md#acrobatics
+[Sleight of Hand]: ../character-creation/ability-scores/dexterity.md#sleight-of-hand
+[Stealth]: ../character-creation/ability-scores/dexterity.md#stealth
 
-[Arcana]: ../character-creation/as-04.intelligence.md#arcana
-[History]: ../character-creation/as-04.intelligence.md#history
-[Investigation]: ../character-creation/as-04.intelligence.md#investigation
-[Nature]: ../character-creation/as-04.intelligence.md#nature
-[Religion]: ../character-creation/as-04.intelligence.md#religion
+[Arcana]: ../character-creation/ability-scores/intelligence.md#arcana
+[History]: ../character-creation/ability-scores/intelligence.md#history
+[Investigation]: ../character-creation/ability-scores/intelligence.md#investigation
+[Nature]: ../character-creation/ability-scores/intelligence.md#nature
+[Religion]: ../character-creation/ability-scores/intelligence.md#religion
 
-[Animal Handling]: ../character-creation/as-05.wisdom.md#animal-handling
-[Insight]: ../character-creation/as-05.wisdom.md#insight
-[Medicine]: ../character-creation/as-05.wisdom.md#medicine
-[Perception]: ../character-creation/as-05.wisdom.md#perception
-[Survival]: ../character-creation/as-05.wisdom.md#survival
+[Animal Handling]: ../character-creation/ability-scores/wisdom.md#animal-handling
+[Insight]: ../character-creation/ability-scores/wisdom.md#insight
+[Medicine]: ../character-creation/ability-scores/wisdom.md#medicine
+[Perception]: ../character-creation/ability-scores/wisdom.md#perception
+[Survival]: ../character-creation/ability-scores/wisdom.md#survival
 
-[Deception]: ../character-creation/as-06.charisma.md#deception
-[Intimidation]: ../character-creation/as-06.charisma.md#intimidation
-[Performance]: ../character-creation/as-06.charisma.md#performance
-[Persuasion]: ../character-creation/as-06.charisma.md#persuasion
+[Deception]: ../character-creation/ability-scores/charisma.md#deception
+[Intimidation]: ../character-creation/ability-scores/charisma.md#intimidation
+[Performance]: ../character-creation/ability-scores/charisma.md#performance
+[Persuasion]: ../character-creation/ability-scores/charisma.md#persuasion
 
 All characters gain proficiency in multiple skills depending on their chosen background during character creation, and can choose 2-4 more skills to be proficient in from a list of skills determined by their class.
 
@@ -151,7 +151,7 @@ Here's how to determine a character's total for a passive check:
 
 :   `10 + all modifiers that normally apply to the check`
 
-If the character has advantage on the check, add 5. For disadvantage, subtract 5. The game refers to a passive check total as a score.
+If the character has advantage on the check, add 5. For :octicons-triangle-down-24: **Disadvantage**, subtract 5. The game refers to a passive check total as a score.
 
 For example, if a 1st-level character has a Wisdom of 15 and proficiency in Perception, he or she has a passive Wisdom (Perception) score of 14.
 

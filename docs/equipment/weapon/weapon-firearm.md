@@ -1,153 +1,119 @@
-In Antares, magic is deeply integrated into daily life, and an individual's worth can be determined not only by their wealth but also by their mastery of arcane power, although this varies across different regions. The destruction of the elven empire brought significant changes to the world, including the introduction of firearms by the newly established nation of London.
+---
+icon: material/bomb
+---
 
-While firearms may not possess exceptional killing power, they prove more suitable for the average British citizen due to their lack of magical ability and limited proficiency in most melee combat compared to the native inhabitants of Antares. One notable advantage of firearms is their superior range compared to crossbows and bows. The construction of firearms is complex, requiring a specific industrial standard found only in London. Additionally, firearm users must possess basic shooting skills, including precise aiming, recoil control, and the ability to maintain the weapon with precision, stability, and intelligence.
+## Introduction
 
-London, as the inventor of firearms, maintains tight control over their invention and production to prevent technology leakage and misuse. This tight control contributes to the exorbitant cost and difficulty in obtaining firearms, even through legitimate means. Furthermore, procuring the expensive and rare bullets adds to the impracticality of these weapons. 
+*Detailed Lore: [WIP]*
 
-However, British citizens with the proper permits can access firearms and ammunition either within Albion or at British Embassies located throughout Antares.
+Firearms are uncommon and challenging to use in Antares, often considered impractical and requiring specific prerequisites, unlike on Earth. Other weapons like bows, crossbows, or arcane staves are easier to use and cheaper, while cold steel weapons are much stronger.
+
+*[cold steel]: Melee weapons, usually swords, warhammers, or axes.
+
+Gun weapons, shortened as guns and officially referred to as firearms, are unique mid-range to long-range weapons that use a special explosive charge known as "cordite" to propel projectiles over long distances. These weapons were brought over by the Londoners and are used exclusively by their people.
+
+London, as the inventor of firearms, maintains tight control over their invention and production to prevent technology leakage and misuse. This tight control contributes to the exorbitant cost and difficulty of obtaining firearms, even through legitimate means. Furthermore, procuring the expensive and rare bullets adds to the impracticality of these weapons.
+
+However, British citizens with the proper permits can access firearms and ammunition either within London or at British Embassies located throughout Antares.
+
+### Firearms Categories
+
+Firearms in Antares are divided into three categories: short-arm, long-arm, and heavy firearms. Each category serves a unique purpose and offers distinct advantages in combat. Note that this section is non-exhaustive and represents common examples within each category.
+
+#### Short-Arm
+Short-arm firearms include pistols, revolvers, and other small, easily concealable weapons. These are ideal for close-quarters combat and provide a good balance between firepower and maneuverability.
+
+- **Pistols:** Compact and easy to handle, pistols are perfect for quick-draw situations and can be fired with one hand.
+- **Revolvers:** Known for their reliability and stopping power, revolvers are a popular choice among those who value durability over capacity.
+
+#### Long-Arm
+Long-arm firearms encompass rifles, submachine guns (SMGs), and other longer-range weapons. These are designed for mid to long-range engagements, offering greater accuracy and firepower compared to short-arms.
+
+- **Rifles:** Highly accurate and powerful, rifles are the preferred choice for long-range combat. They come in various types, including bolt-action and semi-automatic.
+- **Submachine Guns (SMGs):** SMGs provide a high rate of fire and are effective in close to mid-range combat, making them versatile for different combat scenarios.
+- **Shotguns:** Shotguns are powerful weapons effective at close to mid-range. They fire a spread of pellets, making them ideal for hitting a single target with devastating force.
+
+#### Heavy Firearms
+Heavy firearms include rocket launchers, flamethrowers, machine guns, and other large, destructive weapons. These are typically used for specialized situations where maximum firepower is needed.
+
+- **Rocket Launchers:** Capable of dealing massive damage, rocket launchers are used to destroy fortified positions or vehicles.
+- **Flamethrowers:** Ideal for clearing out entrenched enemies, flamethrowers spread fire over a wide area, causing continuous damage.
+- **Machine Guns:** Offering a high rate of sustained fire, machine guns are used to suppress enemy forces and provide heavy support during engagements.
 
 ## Firearms Table
 
 List of Firearms that you can possibly find in this world:
 
-=== "**Basic Firearms**"
-    
-    | **Name** | **Cost** | **Damage**  | **Properties** |
-    | --- | --: | --- | --- |
-    | Pistol, Revolver | 3,000 sp | 1d8 piercing | Ammunition, range (60/200), automatic (1), light, reload (7)  |
-    | Pistol, Semi-Auto | 2,500 sp | 1d6 piercing | Ammunition, range (60/200), Ammunition, range (60/200), automatic (2), light, reload (7) |
-    | Rifle, Automatic | 6,500 sp | 1d10 piercing | Ammunition, range (90/270), automatic (3), heavy, reload (12), two-handed |
-    | Rifle, Marksmen | 8,000 sp | 2d8 piercing | Ammunition, range (180/550), reload (8), two-handed, sighted |
-    | Rifle, Semi-Auto | 5,000 sp | 2d6 piercing | Ammunition, range (120/320), automatic (1), heavy, reload (6), two-handed |
-    | Shotgun, Over-under | 4,000 sp | 1d10 piercing | Ammunition, range (30/50), automatic (1), heavy, reload (2), scatter(2d8), two-handed, special |
-    | Shotgun, Pump | 6,000 sp | 1d8 piercing | Ammunition, range (50/90), automatic (2), heavy, reload (7), scatter(1d12), two-handed |
-    | Submachine Gun | 3,500 sp | 1d6 piercing | Ammunition, range (40/90), automatic (4), reload (30), two-handed |
+| :material-text: **NAME** | :material-currency-gbp: **COST** | :material-bullseye-arrow: **DAMAGE** |:material-tag-multiple: **PROPERTIES** |    
+| :-- | --: | :-- | --- |
+| **SHORT-ARMS** | | | |
+| Pistol, Revolver | 3,000 sp | 1d8 piercing | Ammunition (:material-vector-line:range 60/200), Automatic (1), Light, Reload (7)  |
+| Pistol, Semi-Auto | 2,500 sp | 1d6 piercing | Ammunition (:material-vector-line:range 60/200), Automatic (2), Light, Reload (7) |
+| **LONG-ARMS** | | | |
+| Rifle, Automatic | 6,500 sp | 1d10 piercing | Ammunition (:material-vector-line:range 90/270), Automatic (3), Heavy, Reload (12), Two-handed |
+| Rifle, Marksmen | 8,000 sp | 2d8 piercing | Ammunition (:material-vector-line:range 180/550), Reload (8), Sighted, Two-handed |
+| Rifle, Semi-Auto | 5,000 sp | 2d6 piercing | Ammunition (:material-vector-line:range 120/320), Automatic (1), Heavy, Reload (6), Two-handed |
+| Shotgun, Over-under | 4,000 sp | 1d10 piercing | Ammunition (:material-vector-line:range 30/50), Automatic (3), Heavy, Reload (2), Scatter(2d8), Two-handed, Special |
+| Shotgun, Pump | 6,000 sp | 1d8 piercing | Ammunition (:material-vector-line:range 50/90), Automatic (3), Heavy, Reload (7), Scatter(1d12), Two-handed |
+| Submachine Gun | 3,500 sp | 1d6 piercing | Ammunition (:material-vector-line:range 40/90), Automatic (4), Reload (30), Two-handed |
+| **HEAVIES** | | | |
+| Machine Gun | 15,000  sp | 2d8 piercing | Ammunition (:material-vector-line:range 150/600), Automatic (5), Heavy, Mounted, Reload (50), Two-handed |
+| Rocket Launcher | 12,500 sp | 8d6 fire | Ammunition (:material-vector-line:range 150/300), Explosive, Heavy, Reload (1), Two-handed |
+| Grenade Launcher | 9,000 sp | 1d4-1 bludgeoning | Ammunition (:material-vector-line:range 120/240), Heavy, Loading, Special |
+| **AMMUNITION** | | | |
+| Pistol Cartridges (20) | 200 sp | | Used by Pistols and SMGs |
+| Rifle Cartridges (20) | 300 sp | | Used by Rifles and Machine Gun |
+| Shotgun Cartridges (20) | 150 sp | | Used by Shotguns |
+| Rocket Propelled Grenade (1) | 1,000 sp | | Used by Rocket Launchers |
 
-=== "**Advanced Firearms**"
-    
-    | **Name** | **Cost** | **Damage**  | **Properties** |
-    | --- | --: | --- | --- |
-    | Machine Gun | 15,000  sp | 2d8 piercing | Ammunition, range (150/600), automatic (4), heavy, mounted, reload 50, two-handed |
-    | Rocket Launcher | 12,500 sp | 8d6 fire | Ammunition, range (150/300), explosive, heavy, reload 1, two-handed |
-    | Grenade Launcher | 9,000 sp | 1d4-1 bludgeoning | Ammunition, range (120/240), heavy, loading, special |
-
-=== "**Ammunitions**"
-    
-    | **Name** | **Cost** | **Properties** |
-    | --- | --: | --- |
-    | Pistol Cartridges (20) | 200 sp | Used by Pistols and SMGs |
-    | Rifle Cartridges (20) | 300 sp | Used by Rifles and Machine Gun |
-    | Shotgun Cartridges (20) | 150 sp | Used by Shotguns |
-    | Rocket Propelled Grenade (1) | 1000 sp | Used by Rocket Launchers |
-
-=== "**Explosives & Grenades**"
-    
-    | **Name** | **Cost** | **Properties** |
-    | --- | --: | --- |
-    | Grenade, Cryogenic | 500 sp | see “Special Weapons” |
-    | Grenade, Flashbang | 300 sp | see “Special Weapons” |
-    | Grenade, Fragmentation | 300 sp | see “Special Weapons” |
-    | Grenade, Incendiary | 500 sp | see “Special Weapons” |
-    | Grenade, Smoke | 350 sp | see “Special Weapons” |
-
-## Firearms Properties
-
-### Ammunition
-
-You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. 
-
-The ammunition of a firearm is destroyed upon use.
-
-### Automatic
-
-Once per round, when you the the attack action with this weapon on your turn, you can choose to make additional attacks (make seperate attack rolls) up to the number in the parenthesis. 
-
-The additional attacks are always made with disadvantage regardless of circumstances and expends ammunitions equal to the number of attacks.
-
-### Explosive
-
-When this weapon’s projectile hits a target, it explodes in a diameter sphere on the parenthesis. The weapon can target a point within its range. Each creature in the area of effect centered on the point or the target must make a DC 15 Dexterity saving throw. A target takes the weapon's damage on a failed save, or half as much damage on a successful one, your target makes this saving throw at a disadvantage.
-
-### Heavy 
-
-Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon’s size and bulk make it too large for a Small creature to use effectively. Item with this property take 1 additional inventory space.
-
-### Light
-
-A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
-
-### Loading
-
-Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.
-
-### Mounted
-
-This weapon is normally used while attached to a tripod, vehicle, or other bracing mount. You can mount or unmount this weapon as an action. While it is mounted, it can’t be moved. It can only be used to make an attack while unmounted if held by a Medium or larger creature with a Strength score of at least 15.
-
-### Range
-
-This weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's long range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.
-
-### Reload
-
-This weapon can be used to make a number of attacks before it must be reloaded. If you are proficient with the weapon, reloading it takes a bonus action; otherwise, reloading it takes an action. Some weapons require an action or longer to reload, even if you have proficiency, which is specified in the Reload property. If reloading a weapon requires longer than one action, the weapon can't be used to make attacks until reloading is finished.
-
-### Scatter
-
-If you make an attack against a target that is within half this weapon’s normal range, you deal the damage value listed in parenthesis instead of the weapon’s normal damage dice.
-
-### Sighted
-
-This weapon has disadvantage on attack rolls made against targets within 20 feet.
-
-### Two-Handed
-
-This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it.
-
-### Special
-
-A weapon with the special property has unusual rules governing its use, explained in the weapon's description.
-
-## Special Weapons
+### Special Weapons
 
 Weapons with *special*  properties are listed here:
+
+#### Shotgun, Over-under
+
+When you make an automatic attack with this weapon, the subsequent attack roll doesn’t suffer disadvantage.
 
 ### Grenade Launcher
 
 This weapon uses grenades as its ammunitions. When you attack, you can target an unoccupied space within its range. Whenever you hit the target or not, the grenade loaded in this weapon will land or explode as if it were thrown to that point.
 
-### Grenades
+## Grenades
 
-Using an Action, a grenade of any type can be thrown at a point you can see within 60-feet, which it will affect a 15 foot radius sphere centered on the point. Grenade can also be launched using a Grenade Launcher.
+As an Action, a grenade of any type can be thrown at a point you can see within 60-feet, which it will then explode and affect an area centered on the point. Grenade can also be launched using a Grenade Launcher, in which the range follows of what stated in the grenade launcher. 
 
-#### **Grenade, Cryogenic**
+What effect each type of grenade can cause is stated on [Grenade Effects](#grenade-effects).
 
-A grenade loaded with cryogenic compound that freezes and slows down anything inside the blast radius.
+### Grenade Table
 
-##### Details
+| :material-text: **NAME** | :material-currency-gbp: **COST** | :material-bullseye-arrow: **DAMAGE** | :material-vector-square: **AFFECTED AREA** | :material-fire-alert: **EFFECT** |
+|---|--:|---|:---|:---:|
+| **Grenade, Cryogenic** | 250 sp | :material-snowflake: 1d6 Cold | 20 ft. :material-sphere: **sphere** (DC 15 :material-shield-account: **CON Save**) | Control (Slow)  |
+| **Grenade, Fragmentation** | 350 sp | :material-arrow-projectile: 2d6 Piercing + :material-waveform: 1d6 Thunder | 20 ft. :material-sphere: **sphere** (DC 15 :material-shield-half-full: **DEX Save**) | - |
+| **Grenade, Incendiary** | 300 sp | :material-fire: 1d6 Fire | 20 ft. :material-radius-outline: **radius** (DC 15 :material-shield-half-full: **DEX Save**) | Control (DoT) |
+| **Grenade, Flashbang** | 200 sp | :material-waveform: 1d4 Thunder | 20 ft. :material-sphere: **sphere** (DC 15 :material-shield-account: **CON Save**) | Control (Stun) |
+| **Grenade, Smoke** | 250 sp | - |20 ft. :material-sphere: sphere | Control (Obscure) |
 
-**Damage:** 1d6 :material-snowflake: Cold damage
+#### Grenade Effects
 
-**Saving Throw:** DC 15 :material-shield: CON Save.
+**Grenade, Cryogenic.** Creatures that fails the :material-dice-d20: **Saving Throw**, takes the grenade damage and its movement speed is halved for 1 minute, the creature repeat this saving throw at the start of each turn, ending the effect on success. On successful save, it only takes half damage and no additional effects.
 
-As an action, you can throw this grenade at a point you choose within 60-feet, the area which the grenade explode is covered in frost. Each creature in 15-foot diameter sphere must make a DC 15 Dexterity saving throw or take 1d6 cold damage and have their speed reduced by half until the end of your next turn. On a successful save, a creature takes half damage and isn't slowed. This item can be loaded into a Grenade Launcher
+**Grenade, Fragmentation.** Creatures that fails the :material-dice-d20: **Saving Throw**, takes the grenade damage, On successful save, it only takes half damage.
 
-**Grenade, Fragmentation**
+**Grenade, Incendiary.** Creatures that fails the :material-dice-d20: **Saving Throw**, takes the grenade damage or half as much on successful save. The ground in a 20-foot radius centered on the target is ignited in flames. Each creature that enters the affected area, starts its turn or, end its turn on the affected area immediately takes :material-fire: **3d4 Fire** damage.
 
-As an action, you can throw this grenade at a point you choose within 60-feet. Each creature in 10-foot diameter sphere must make a DC 15 Dexterity saving throw or take 2d4 piercing damage and 2d4 thunder damage, or half as much on a success. This item can be loaded into a Grenade Launcher.
+**Grenade, Flashbang.** Creatures that fails the :material-dice-d20: **Saving Throw**, takes the grenade damage and it is Blinded(1) and Deafened(2) for 1 minute. The creature repeats this saving throw at the start of each turn, ending the effect on success. On successful save, it only takes half damage and no additional effects.
+{ .annotate }
 
-**Grenade, Incendiary**
+1. :material-eye-off: **Blinded** is a Condition.
+      - A blinded creature can't see and automatically fails any ability check that requires sight.
+      - Attack rolls against the creature have advantage, and the creature’s attack rolls have disadvantage.
+2. :material-ear-hearing-off: **Deafened** is a Condition.
+      - A deafened creature can’t hear, automatically fails any :material-dice-d20: **Ability Check** that requires hearing and is **resistant**(1) to :material-waveform: Thunder damage.
+        { .annotate }
 
-As an action, you can throw this grenade at a point you choose within 60-feet, the area which the grenade explode is covered in flames. Each creature in 15-foot diameter circle must make a DC 15 Dexterity saving throw or take 1d6 fire damage and the creature also takes 3d4 fire damage when it enters the affected area for the first time on a turn or starts its turn there. A Smoke Grenade will extinguish the fire. This item can be loaded into a Grenade Launcher
+        1. Creature that is resistant or immune to a damage type takes only half or no damage from the damage type respectively.
 
-**Grenade, Flashbang**
+**Grenade, Smoke.** The terrain, creature and objects that is within affected area centered on the point chosen is now filled with smokes and it is heavily obscured. The smoke spreads around corners. The smoke lasts for 1 minute or until a wind of moderate or heavy speed disperses.
 
-As an action, you can throw this grenade at a point you choose within 60-feet. Each creature in 20-foot diameter sphere must make a DC 15 Constitution saving throw. On a failed save, the creature is blinded and deafened until the end of its next turn. On a successful save, the creature suffers no ill effect. This item can be loaded into a Grenade Launcher.
 
-**Grenade, Smoke**
-
-As an action, you can throw this grenade at a point you choose within 60-feet. The terrain, creature and objects that is within 20-foot diameter spehere centered on the point you choose is now filled with smokes and is heavily obscured. The smoke spreads around corners. The smoke lasts for 1 minute or until a wind of moderate or heavy speed disperses it.This item can be loaded into a Grenade Launcher
-
-**Shotgun, Over-under**
-
-When you make an automatic attack with this weapon, the subsequent attack roll doesn’t suffer disadvantage.

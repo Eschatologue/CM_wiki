@@ -5,9 +5,9 @@ site_name: Crown & Misery Wiki
 nav:
   - Home: index.md
   - Lore:
-    - Antares: antares/antares.md
-    - Geography and Geopolitics: antares/geography.md
-    - Life in Antares: antares/life.md
+    - lore/index.md
+    - Geography and Geopolitics: lore/geography.md
+    - Life in Antares: lore/life.md
   - Gameplay:
     - Dice Rolls: gameplay/dice-rolls.md
     - Resources: gameplay/resources.md
@@ -26,13 +26,13 @@ nav:
 #   - Feat: character-creation/feat.md
 #   - Skills: character-creation/feat.md
     - Ability Score: 
-      - character-creation/ability-score.md
-      - Strength: character-creation/as-01.strength.md
-      - Dexterity: character-creation/as-02.dexterity.md
-      - Constitution: character-creation/as-03.constitution.md
-      - Intelligence: character-creation/as-04.intelligence.md
-      - Wisdom: character-creation/as-05.wisdom.md
-      - Charisma: character-creation/as-06.charisma.md
+      - character-creation/ability-scores/index.md
+      - Strength: character-creation/ability-scores/strength.md
+      - Dexterity: character-creation/ability-scores/dexterity.md
+      - Constitution: character-creation/ability-scores/constitution.md
+      - Intelligence: character-creation/ability-scores/intelligence.md
+      - Wisdom: character-creation/ability-scores/wisdom.md
+      - Charisma: character-creation/ability-scores/charisma.md
   - Items & Equipment: 
     - Armour: 
       - equipment/armour/index.md
@@ -40,17 +40,12 @@ nav:
     - Weapons: 
       - equipment/weapon/index.md
       - Cold Weapons: equipment/weapon/weapon-cold.md
-      - Firearms: equipment/weapon/weapon-firearm.md
+      - Firearms & Explosives: equipment/weapon/weapon-firearm.md
     - Other Equipments: 
-      - Artisan Tools: equipment/other-artisan-tools.md
-      - Gaming Sets: equipment/other-artisan-tools.md
-
-    - Potion & Consumeables: equipment/potion.md
-  - Quick Reference:
-#    - Action Type: quickref/actiontypes.md
-    - Condition and Disease: quickref/condition.md
-    - Armour Class: quickref/ac.md
-#    - Damage Types: quickref/damagetypes.md
+      - Tools & Kits: equipment/tools/artisan-tools.md
+      - Other Tools: equipment/tools/other-tools.md
+    - Consumeables: 
+      - Potion: equipment/consumeables/potion.md
 
 # Author
 site_author: Eschatologue
@@ -109,7 +104,7 @@ theme:
     text: Reddit Sans
     code: Roboto Mono
   icon: 
-    annotation: material/star-four-points-circle
+    annotation: material/link-circle
 
 # Markdown Extentions
 markdown_extensions:
@@ -129,10 +124,11 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.critic
   - pymdownx.caret
+  - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
-  - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.emoji:

@@ -1,8 +1,16 @@
 /* Table Size */
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
-    padding: 4px 12px;
+    padding: 4px 13px;
 }
+
+.md-typeset__table table:not([class]) {
+    display: table
+  }
+
+.md-typeset__table {
+    width: 100%;
+  }
 
 /* Heading Size */
 h2.doc-heading {
@@ -12,16 +20,17 @@ h3.doc-heading {
     font-size: 1.4rem;
 }
 h4.doc-heading {
-    font-size: 1.3rem;
+    font-size: 1.35rem;
 }
 h5.doc-heading {
     font-size: 1.2rem;
+    margin-bottom: 200px;
 }
 
 /* Maximum space for text block */
 .md-grid {
-    max-width: 75%; /* or 100%, if you want to stretch to full-width */
-  }
+    max-width: 85%; /* or 100%, if you want to stretch to full-width */
+}
 
 /* Icon Heading */
 .ich1 {
@@ -29,7 +38,6 @@ h5.doc-heading {
     margin-top: 0.4em;
     margin-bottom: -0.25em;
 }
-
 
 /* Admonition: Dice Roll*/
 :root {
