@@ -20,30 +20,13 @@ While your :fontawesome-solid-hand-fist: **Rage** is active, whenever you hit a 
 
 ## 3rd level: Improved Totemic Spirit
 
-Choose one of the animal spirits from the list below or from the original list to gain its benefits. 
+Choose one of the animal spirits from the list below or from the original list to gain its benefits.
 
 === "**Bear**"
 
     The resilient spirit of the Bear increases your ability to take physical hits. 
 
-    - While your :fontawesome-solid-hand-fist: **Rage** is active, you gain resistance to all types of damage except Force and Psychic damage and you have immunity to Fire damage.
-
-
-=== "**Eagle**" 
-    
-    The fierce spirit of the Eagle grants you the ability to move fast as the wind. 
-
-    - While your :fontawesome-solid-hand-fist: **Rage** is active, you can use a :material-square: **Bonus Action** to gain the benefits of the Dash or Disengage action, including the :material-square: **Bonus Action** that you use to enter a :fontawesome-solid-hand-fist: **Rage**.
-    - When you make a successful ranged attack with a thrown weapon using Strength, you can add your :fontawesome-solid-hand-fist: **Rage** Damage bonus to the attack's damage roll.
-
-
-=== "**Elk**" 
-
-    The noble spirit of the Elk makes you extraordinarily swift. 
-
-    - While your :fontawesome-solid-hand-fist: **Rage** is active, your walking speed increases by 15 feet.
-    - While your :fontawesome-solid-hand-fist: **Rage** is active, opportunity attack against you is made with a disadvantage and difficult terrain does not affect you.
-
+  - While your :fontawesome-solid-hand-fist: **Rage** is active, you gain resistance to all types of damage except Force and Psychic damage and you have immunity to Fire damage.
 
 === "**Elephant**"
 
@@ -52,14 +35,12 @@ Choose one of the animal spirits from the list below or from the original list t
     - While your :fontawesome-solid-hand-fist: **Rage** is active, when you are forced to make a Dexterity saving throw, you use your :material-star-four-points: **Reaction** to add your Constitution modifier to the saving throw. You also can not be moved against your will.
     - While your :fontawesome-solid-hand-fist: **Rage** is active, once per turn, when you hit a creature with a melee weapon attack using Strength, you can move it 5 feet to an unoccupied space, provided the target is no more than one size larger than you.
 
-
 === "**Wolf**"
     
     The cunni spirit of the Wolf enhances your ability to fight alongside your pack. 
 
     - While your :fontawesome-solid-hand-fist: **Rage** is active, allied creatures of your choice have advantage on any melee attack roll they make against hostile creatures within 10 feet of you.
     - While your :fontawesome-solid-hand-fist: **Rage** is active, the first creature you hit with an attack on your turn has disadvantage on any attack roll that isn't against you until the start of your next turn.
-
 
 ## 5th level: Flames of Creation
 
