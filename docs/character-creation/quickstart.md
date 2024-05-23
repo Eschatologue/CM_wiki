@@ -5,29 +5,36 @@ icon: material/fast-forward
 # Creating your Character
 This D&D campaign setting uses the same rulings as what you would find in other settings with minor additions and modifications. On a notable note, it uses combinations of 5th Edition ruling and OneD&D ruling.
 
-## Core Principle
 
-When creating your character, you must adhere to three core principles that apply at all times, both during roleplaying and gameplay mechanics.
+??? warning "The Core Principles"
 
-### Team Cooperation 
+    When creating your character, you must adhere to three core principles that apply at all times, both during roleplaying and gameplay mechanics.
 
-**Your character must consistently work with and support the rest of the party.**
+    ---
 
-A rogue who steals from party members or sabotages plans undermines group cohesion. Instead, create a rogue who uses their skills to benefit the party, like scouting ahead, gathering intelligence, or disarming traps to ensure safe passage for the group. Another example is a bard who not only performs to inspire allies but also uses their charm and wit to negotiate and forge alliances that benefit the entire party.
+    **TEAM COOPERATION**
 
-### Plot Engagement
+    **Your character must consistently work with and support the rest of the party.**
 
-**Your character must be consistently willing to engage with the campaign’s plot.**
+    A rogue who steals from party members or sabotages plans undermines group cohesion. Instead, create a rogue who uses their skills to benefit the party, like scouting ahead, gathering intelligence, or disarming traps to ensure safe passage for the group. Another example is a bard who not only performs to inspire allies but also uses their charm and wit to negotiate and forge alliances that benefit the entire party.
 
-A character who refuses to participate in the main quest or constantly separates from the group disrupts the story. Instead, design a character with personal motivations that align with the campaign’s goals, such as a ranger seeking revenge on the antagonist responsible for the apocalypse or a cleric on a mission to restore order and help survivors. These motivations should naturally lead the character to be involved in key events and conflicts of the campaign.
+    ---
 
-### Setting and Tone
+    **PLOT ENGAGEMENT**
 
-*See more at [Lore](../lore/index.md)*
+    **Your character must be consistently willing to engage with the campaign’s plot.**
 
-**Your character must plausibly fit into the campaign’s setting and align with the overall tone of the campaign.**
+    A character who refuses to participate in the main quest or constantly separates from the group disrupts the story. Instead, design a character with personal motivations that align with the campaign’s goals, such as a ranger seeking revenge on the antagonist responsible for the apocalypse or a cleric on a mission to restore order and help survivors. These motivations should naturally lead the character to be involved in key events and conflicts of the campaign.
+    
+    ---
 
-This setting uses a post-apocalyptic dystopian science fantasy world, characters should blend modern and fantasy elements. A traditional medieval knight would be out of place. Instead, create a knight equipped with modernized armor, combining advanced technology with magical enhancements. Similarly, a mage might use arcane spells alongside gadgets, and a ranger could be adept at surviving in both urban ruins and wild wastelands, utilizing a mix of traditional skills and contemporary tools.
+    **SETTING AND TONE**
+
+    *See more at [Lore](../lore/index.md)*
+
+    **Your character must plausibly fit into the campaign’s setting and align with the overall tone of the campaign.**
+
+    This setting uses a post-apocalyptic dystopian science fantasy world, characters should blend modern and fantasy elements. A traditional medieval knight would be out of place. Instead, create a knight equipped with modernized armor, combining advanced technology with magical enhancements. Similarly, a mage might use arcane spells alongside gadgets, and a ranger could be adept at surviving in both urban ruins and wild wastelands, utilizing a mix of traditional skills and contemporary tools.
 
 ## Choose a Race
 [wip]
@@ -58,8 +65,8 @@ Because ability modifiers affect almost every attack roll, ability check, and sa
 
 ### Ability Scores and Modifiers Table
 
-| **Score** | **Modifier** | **Score** | **Modifier** |
-| --- | --- | --- | --- |
+| **SCORE** | **MODIFIER** | **SCORE** | **MODIFIER** |
+| :-: | :-: | :-: | :-: |
 | 1 | -5 | 16-17 | +3 |
 | 2-3 | -4 | 18-19 | +4 |
 | 4-5 | -3 | 20-21 | +5 |

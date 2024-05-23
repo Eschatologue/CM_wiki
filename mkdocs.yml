@@ -22,9 +22,9 @@ nav:
   - Chartacter Creation:
     - Quickstart: character-creation/quickstart.md
     - Classes: character-creation/classes.md
-#   - Races: character-creation/races.md
-#   - Feat: character-creation/feat.md
-#   - Skills: character-creation/feat.md
+    - Feats: 
+      - character-creation/feat/index.md
+      - Starting Feats: character-creation/feat/feat-starting.md
     - Ability Score: 
       - character-creation/ability-scores/index.md
       - Strength: character-creation/ability-scores/strength.md
@@ -101,9 +101,10 @@ theme:
         icon: material/toggle-switch-off
         name: Switch to system preference
   font:
-    text: Reddit Sans
-    code: Roboto Mono
+    text: Roboto Slab
+    code: Source Code Pro
   icon: 
+    logo: fontawesome/solid/dice-d20
     annotation: material/link-circle
 
 # Markdown Extentions

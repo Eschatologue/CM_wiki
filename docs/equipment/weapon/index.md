@@ -37,13 +37,13 @@ Firearms are weapons that use an explosive charge to propel projectiles called "
 
 Many weapons have special properties related to their use, as shown in the Weapons table.
 
-#### :material-ammunition: Ammunition
+#### :material-ammunition:{ .lg } Ammunition
 
 You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition
 
 Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
 
-#### :material-reload-alert: Automatic
+#### :material-reload-alert:{ .lg } Automatic
 
 Once per round, when you the attack action with this weapon on your turn, you can choose to make additional attacks (make seperate attack rolls) up to the number in the parenthesis. 
 
@@ -53,7 +53,7 @@ The additional attacks are always made with disadvantage regardless of circumsta
 
 When this weapon’s projectile hits a target, it explodes in a diameter sphere on the parenthesis. The weapon can target a point within its range. Each creature in the area of effect centered on the point or the target must make a DC 15 Dexterity saving throw. Targets takes the weapon's damage on a failed save, or half as much damage on a successful one, your target makes this saving throw at a disadvantage.
 
-#### :material-hand-okay: Finesse
+#### :material-hand-okay:{ .lg } Finesse
 
 When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 
