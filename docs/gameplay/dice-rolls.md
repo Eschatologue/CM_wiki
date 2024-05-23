@@ -28,9 +28,9 @@ In D&D, the twenty-sided die (d20) is central to the game's mechanics, determini
 
 These attempts are categorized either as attack rolls – which are rolled against the target's **Armour Class** (**AC**), as ability checks – which are rolled against the check's Difficulty Class (DC), or as saving throws – which are rolled against a save DC:
 
-$$
-\text{Ability Checks} = d20 + (\text{Ability score modifier} + \text{Proficiency bonus (if proficient)} + \text{Other Modifier (if applicable)})
-$$
+| **ABILITY CHECK FORMULA** |
+|:---:|
+| :material-dice-d20: d20 + Ability Modifier + Proficiency Bonus (if proficient) + Other Bonuses (if applicable) |
 
 ### Categories of d20 Rolls
 

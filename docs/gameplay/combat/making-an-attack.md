@@ -21,20 +21,20 @@ To make an attack roll, roll a d20 and add the appropriate modifiers. If the tot
 
 When a character makes an attack roll, the two most common modifiers to the roll are an ability modifier and the character's proficiency bonus. When a monster makes an attack roll, it uses whatever modifier is provided in its stat block.
 
-***Ability Modifier.*** The ability modifier used for a melee weapon attack is Strength, and the ability modifier used for a ranged weapon attack is Dexterity. Weapons that have the finesse or thrown property break this rule.
+**Ability Modifier:** The ability modifier used for a melee weapon attack is Strength, and the ability modifier used for a ranged weapon attack is Dexterity. Weapons that have the finesse or thrown property break this rule.
 
 Some spells also require an attack roll. The ability modifier used for a spell attack depends on the spellcasting ability of the spellcaster, as explained in chapter 10.
 
-***Proficiency Bonus.*** You add your proficiency bonus to your attack roll when you attack using a weapon with which you have proficiency, as well as when you attack with a spell.
+**Proficiency Bonus:** You add your proficiency bonus to your attack roll when you attack using a weapon with which you have proficiency(1), as well as when you attack with a spell.
+{ .annotate }
+
+1. You DON'T add your proficiency bonus to your damage roll, unless you have a class feature or ability that permits you to do so.
 
 ### Rolling 1 or 20
 
 Sometimes fate blesses or curses a combatant, causing the novice to hit and the veteran to miss.
 
-If the d20 roll for an attack is a 20, the attack hits regardless of any modifiers or the target's AC. This is called a critical hit(1).
-{ .annotate }
-
-1. Rolling a natural 20 on an attack roll results in a critical hit, dealing double damage.
+If the d20 roll for an attack is a 20, the attack hits regardless of any modifiers or the target's AC. This is called a critical hit which your attack deals double damage.
 
 If the d20 roll for an attack is a 1, the attack misses regardless of any modifiers or the target's AC.
 

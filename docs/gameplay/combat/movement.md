@@ -19,14 +19,18 @@ Movement and positioning are crucial aspects of combat in Dungeons & Dragons (D&
 **Dashing.** Taking the Dash action doubles your movement speed for the turn.(1)
 { .annotate }
    
-1. **Example.** A character with 30 feet movement speed can move up to 12 squares (60 feet) when they Dash.
+1. A character with 30 feet movement speed can move up to 12 squares (60 feet) when they Dash.
+
+!!! tip "Dash using other Actions"
+
+    Some class feature allows you to use Dash as :material-triangle: **Bonus Action** instead of an :material-circle: **Action**, a well known one is the rogue's *cunning action* and monk's *step of the wind*. Without specific class feature, Dash always uses an Action. Spells can also grants you the same benefit.
 
 **Difficult Terrain.** Moving through difficult terrain (e.g., thick underbrush, rubble) costs double the movement cost.
 
 **Climbing, Swimming, Crawling.** These types of movement usually cost extra movement, often double.(1)
 { .annotate }
 
-1. **Example.** A character with 30 feet movement speed can climb or swim up to 15 feet (3 squares) per turn.
+1. A character with 30 feet movement speed can climb or swim up to 15 feet (3 squares) per turn.
 
 ## Positioning
 Characters typically occupy a single 5-foot square on the grid. Larger creatures might occupy multiple squares (e.g., a creature with a Large size occupies a 10x10-foot area, or 4 squares).
