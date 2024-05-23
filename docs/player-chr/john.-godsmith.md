@@ -28,13 +28,13 @@ Choose one of the animal spirits from the list below or from the original list t
 
     - While your :fontawesome-solid-hand-fist: **Rage** is active, you gain resistance to all types of damage except Force and Psychic damage and you have immunity to Fire damage.
 
-=== "**Eagle**" 
+=== "**Eagle**"
     
-    The fierce spirit of the Eagle grants you the ability to move fast as the wind. 
+    test
 
-=== "**Elk**" 
+=== "**Elk**"
 
-    The noble spirit of the Elk makes you extraordinarily swift. 
+    test
 
 === "**Elephant**"
 
@@ -57,11 +57,17 @@ Choose one of the animal spirits from the list below or from the original list t
 
 When an attack dealing Fire damage from *Path of Finality* special class features reduces a creature to 0 hit points, you restore Hit Points equal to half of any excess damage from that attack.
 
-    - While your :fontawesome-solid-hand-fist: **Rage** is active, you can use a :material-square: **Bonus Action** to gain the benefits of the Dash or Disengage action, including the
-    :material-square: **Bonus Action** that you use to enter a :fontawesome-solid-hand-fist: **Rage**.
+---
 
-    - When you make a successful ranged attack with a thrown weapon using Strength, you can add your :fontawesome-solid-hand-fist: **Rage** Damage bonus to the attack's damage roll.
+The fierce spirit of the Eagle grants you the ability to move fast as the wind. 
 
-    - While your :fontawesome-solid-hand-fist: **Rage** is active, your walking speed increases by 15 feet.
+- While your :fontawesome-solid-hand-fist: **Rage** is active, you can use a :material-square: **Bonus Action** to gain the benefits of the Dash or Disengage action, including the
+:material-square: **Bonus Action** that you use to enter a :fontawesome-solid-hand-fist: **Rage**.
 
-    - While your :fontawesome-solid-hand-fist: **Rage** is active, opportunity attack against you is made with a disadvantage and difficult terrain does not affect you.
+- When you make a successful ranged attack with a thrown weapon using Strength, you can add your :fontawesome-solid-hand-fist: **Rage** Damage bonus to the attack's damage roll.
+
+The noble spirit of the Elk makes you extraordinarily swift. 
+
+- While your :fontawesome-solid-hand-fist: **Rage** is active, your walking speed increases by 15 feet.
+
+- While your :fontawesome-solid-hand-fist: **Rage** is active, opportunity attack against you is made with a disadvantage and difficult terrain does not affect you.
