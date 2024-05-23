@@ -22,11 +22,6 @@ While your :fontawesome-solid-hand-fist: **Rage** is active, whenever you hit a 
 
 Choose one of the animal spirits from the list below or from the original list to gain its benefits.
 
-=== "**Bear**"
-    The resilient spirit of the Bear increases your ability to take physical hits. 
-
-    - While your :fontawesome-solid-hand-fist: **Rage** is active, you gain resistance to all types of damage except Force and Psychic damage and you have immunity to Fire damage.
-
 === "**Eagle**" 
     
     The fierce spirit of the Eagle grants you the ability to move fast as the wind. 
