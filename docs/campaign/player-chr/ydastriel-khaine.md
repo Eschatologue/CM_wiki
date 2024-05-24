@@ -1,3 +1,7 @@
+---
+icon: material/star-four-points
+---
+
 > *"Ambitious, arrogant, and seemingly all-knowing, much like the number zero. It's the void from which all other thing begin.”*
 
 # Parable of the Stars
@@ -43,7 +47,7 @@ You have the ability to unleash the power which Spires draws from, enabling you 
 
 | **_LEVEL_** | **_CASTING TIME_** | **_RANGE/AREA_** | **_COMPONENT_** |
 |:---:|:---:|:---:|:---:|
-| Cantrip | 1 Action | 120 ft. | V, S, [M](title="A Star map from Circle of Star Druid, this component can't be replaced by other arcane focus") |
+| Cantrip | 1 Action | 120 ft. | V, S, M:material-information-outline:{ title="A Star map from Circle of Star Druid, this component can't be replaced by other arcane focus" } |
 | **_DURATION_** | **_SCHOOL_** | **_ATTACK/SAVE_** | **_DAMAGE/EFFECT_** |
 | Instantaneous | Conjuration | Ranged | Force |
 
