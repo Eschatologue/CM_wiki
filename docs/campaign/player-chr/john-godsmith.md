@@ -94,10 +94,10 @@ While :fontawesome-solid-hand-fist: **Raging**, when you hit a creature with a c
 
 You gain the aspect of Antares’ primordial path, you can either choose from the list below, or the list from the original *Totem Warrior* totem list of the same level.
 
-- **The Fool:** You gain proficiency in three skills of your choice.
-- **The Magician:** When you make a Intelligence (Arcana) or Intelligence (Insight) check you can add your Constitution modifier to your roll.
-- **The Hierophant:** When you make a Wisdom (History) or a Wisdom (Religion) check you can add your Constitution modifier to your roll.
-- **The Lovers** When you make a Charisma (Performance) or Charisma (Persuasion) check you can add your Constitution modifier to your roll.
-- **The Chariot** When you make a Wisdom (Animal Handling) or Wisdom (Survival) check you can add your Constitution modifier to your roll.
-- **The Hermit** When you make an Intelligence (Investigation) or Wisdom (Perception) check you can add your Constitution modifier to your roll.
+- **The Fool.** You gain proficiency in three skills of your choice.
+- **The Magician.** When you make a Intelligence (Arcana) or Intelligence (Insight) check you can add your Constitution modifier to your roll.
+- **The Hierophant.** When you make a Wisdom (History) or a Wisdom (Religion) check you can add your Constitution modifier to your roll.
+- **The Lovers.** When you make a Charisma (Performance) or Charisma (Persuasion) check you can add your Constitution modifier to your roll.
+- **The Chariot.** When you make a Wisdom (Animal Handling) or Wisdom (Survival) check you can add your Constitution modifier to your roll.
+- **The Hermit.** When you make an Intelligence (Investigation) or Wisdom (Perception) check you can add your Constitution modifier to your roll.
 

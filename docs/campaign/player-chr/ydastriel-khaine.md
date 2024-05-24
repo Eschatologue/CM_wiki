@@ -69,25 +69,25 @@ Upon gaining this class feature, you gain additional Starry Forms tied to specif
 
     *A constellation of an archer appears on you.*
 
-    **Luminous Bow:** When you activate this form, and as a bonus action on your subsequent turns while it lasts, you can make a ranged spell attack, hurling a luminous arrow that targets one creature within 60 feet of you. On a hit, the attack deals radiant damage equal to 1d8 + your Wisdom modifier. (2d8 at 10th-level).
+    **Luminous Bow.** When you activate this form, and as a bonus action on your subsequent turns while it lasts, you can make a ranged spell attack, hurling a luminous arrow that targets one creature within 60 feet of you. On a hit, the attack deals radiant damage equal to 1d8 + your Wisdom modifier. (2d8 at 10th-level).
 
-    **Arrow of Arbiters:** Your Star Map transform into a longbow and you can you use it to cast Cosmic Flare, when you do, it ignores half and three-quarters cover and deals Radiant damage.
+    **Arrow of Arbiters.** Your Star Map transform into a longbow and you can you use it to cast Cosmic Flare, when you do, it ignores half and three-quarters cover and deals Radiant damage.
 
 === "**Chalice**"
 
     *A constellation of a life-giving goblet appears on you.* 
 
-    **Chalice of Life:** Whenever you cast a spell using a spell slot that restores hit points to a creature, you or another creature within 30 feet of you can regain hit points equal to 1d8 + your Wisdom modifier. (2d8 at 10th-level)
+    **Chalice of Life.** Whenever you cast a spell using a spell slot that restores hit points to a creature, you or another creature within 30 feet of you can regain hit points equal to 1d8 + your Wisdom modifier. (2d8 at 10th-level)
 
-    **Rejuvinating Bolt:** When you hit a creature with Cosmic Flare you can choose to restore hit points to that creature instead of damaging it. The restored hit points is equal to your Cosmic Flare damage.
+    **Rejuvinating Bolt.** When you hit a creature with Cosmic Flare you can choose to restore hit points to that creature instead of damaging it. The restored hit points is equal to your Cosmic Flare damage.
 
 === "**Dragon**"
 
     *A constellation of a wise dragon appears on you.* 
 
-    **Wise:** When you make an Intelligence or a Wisdom check or a Constitution saving throw to maintain concentration on a spell, you can treat a roll of 9 or lower on the d20 as a 10. At 10th-level, you have a flying speed of 20 feet and can hover.
+    **Wise.** When you make an Intelligence or a Wisdom check or a Constitution saving throw to maintain concentration on a spell, you can treat a roll of 9 or lower on the d20 as a 10. At 10th-level, you have a flying speed of 20 feet and can hover.
 
-    **Repelling:** When you hit a creature that is no more that one size larger than you with Cosmic Flare, you can push the creature up to 5 feet away from you in a straight line.
+    **Repelling.** When you hit a creature that is no more that one size larger than you with Cosmic Flare, you can push the creature up to 5 feet away from you in a straight line.
 
 ### Spire Resonance Forms
 
