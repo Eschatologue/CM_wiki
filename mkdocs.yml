@@ -48,6 +48,11 @@ nav:
       - Other Tools: equipment/tools/other-tools.md
     - Consumeables: 
       - Potion: equipment/consumeables/potion.md
+  - Current Campaign:
+    - Player's Gimmick:
+      - campaign/player-chr/index.md
+      - John K. Godsmith: campaign/player-chr/john-godsmith.md
+      - Ydastriel Khaine: campaign/player-chr/ydastriel-khaine.md
 
 # Author
 site_author: Eschatologue
@@ -91,7 +96,7 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: red
-      accent: red
+      accent: indigo
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode

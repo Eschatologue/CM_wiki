@@ -1,8 +1,3 @@
----
-search:
-  exclude: true
----
-
 > *"Ambitious, arrogant, and seemingly all-knowing, much like the number zero. It's the void from which all other thing begin.”*
 
 # Parable of the Stars
