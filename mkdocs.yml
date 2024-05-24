@@ -86,28 +86,28 @@ theme:
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
-        icon: material/link
+        icon: material/brightness-auto
         name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: red
       accent: red
       toggle:
-        icon: material/toggle-switch
+        icon: material/brightness-7
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
-      accent: indigo
+      accent: teal
       toggle:
-        icon: material/toggle-switch-off
+        icon: material/brightness-4
         name: Switch to system preference
   font:
     text: Roboto Slab
     code: Source Code Pro
   icon: 
     logo: fontawesome/solid/dice-d20
-    annotation: material/link-circle
+    annotation: material/timeline-question
   favicon: assets/icon.jpg
 
 # Markdown Extentions
