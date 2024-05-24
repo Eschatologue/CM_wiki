@@ -35,7 +35,6 @@ nav:
       - Starting Feats: character-creation/feat/feat-starting.md
       - 4th-Level Feats: character-creation/feat/feat-4th-level.md
       - 8th-Level Feats: character-creation/feat/feat-8th-level.md
-      - Epic Boon: character-creation/feat/feat-20th-level.md
   - Items & Equipment: 
     - Armour: 
       - equipment/armour/index.md
@@ -109,6 +108,7 @@ theme:
   icon: 
     logo: fontawesome/solid/dice-d20
     annotation: material/link-circle
+  favicon: assets/icon.jpg
 
 # Markdown Extentions
 markdown_extensions:
