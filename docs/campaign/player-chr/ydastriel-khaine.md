@@ -14,7 +14,7 @@ Once you gain access to one of these spells, you always have it prepared, and it
 
 ##### Cosmic Weave Spells
 
-| **DRUID LEVEL** | **SPELLS** |
+| :dnd-class-druid: **DRUID LEVEL** | :simple-codemagic: **SPELLS** |
 | :-: | :-: |
 | 2nd | [Gift of Alacrity], [Maginify Gravity]  |
 | 3rd | [Immovable Object], [Vortex Warp] |
@@ -41,9 +41,9 @@ Once you gain access to one of these spells, you always have it prepared, and it
 
 You have the ability to unleash the power which Spires draws from, enabling you to cast a signature Cantrip that is only available to you, called ~~Khaine Kalamity~~ **Cosmic Flare**.
 
-| **_ LEVEL_** | **_CASTING TIME_** | **_RANGE/AREA_** | **_COMPONENT_** |
+| **_LEVEL_** | **_CASTING TIME_** | **_RANGE/AREA_** | **_COMPONENT_** |
 |:---:|:---:|:---:|:---:|
-| Cantrip | 1 Action | 120 ft. | V, S, M* |
+| Cantrip | 1 Action | 120 ft. | V, S, [M]("star map from Circle of Star Druid, this component can't be replaced by other arcane focus") |
 | **_DURATION_** | **_SCHOOL_** | **_ATTACK/SAVE_** | **_DAMAGE/EFFECT_** |
 | Instantaneous | Conjuration | Ranged | Force |
 
@@ -52,8 +52,6 @@ You conjure a projectile made from stellar energy and hurl it torwards a creatur
 You can conjure and launch multiple projectiles at once when you reach higher levels: two projectiles at 5th level, three projectiles at 11th level, and four projectiles at 17th level. You can hurl the projectiles at the same target or at different ones. Make a separate attack roll for each projectiles.
 
 This spell will change appereance and behaviours depending on what Starry Form you are currently on, if a Starry Form grants additional effects when you hit your ally with it, you can ignore rolling for attack against your ally.
-
-*(star map from Circle of Star Druid, this component can't be replaced by other arcane focus)
 
 ## 3rd Level: Spire's Resonance
 
