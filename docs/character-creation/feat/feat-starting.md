@@ -4,7 +4,7 @@ icon: material/cards-playing-spade
 
 # Starting Feats
 
-The feats listed below are available on 1st-level
+The feats listed below are available on 1st-level and usually given for free by racial feature.
 
 ## Feat Descriptions
 
