@@ -90,7 +90,7 @@ The cunni spirit of the Wolf enhances your ability to fight alongside your pack.
 
 While :fontawesome-solid-hand-fist: **Raging**, when you hit a creature with a class feature that deals :material-fire:Fire damage, it ignores any resistance to :material-fire:Fire damage it have, and if the target is immune, it still take half damage.
 
-## 6th level: Aspect of the Primordials^Work in Progress^
+## 6th level: Aspect of the Primordials^WIP^
 
 You gain the aspect of Antares’ primordial path, you can either choose from the list below, or the list from the original *Totem Warrior* totem list of the same level.
 
