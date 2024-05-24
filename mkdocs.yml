@@ -22,10 +22,6 @@ nav:
   - Chartacter Creation:
     - Quickstart: character-creation/quickstart.md
     - Classes: character-creation/classes.md
-    - Feats: 
-      - character-creation/feat/index.md
-      - Starting Feats: character-creation/feat/feat-starting.md
-      - 4th-Level Feats: character-creation/feat/feat-4th-level.md
     - Ability Score: 
       - character-creation/ability-scores/index.md
       - Strength: character-creation/ability-scores/strength.md
@@ -34,6 +30,12 @@ nav:
       - Intelligence: character-creation/ability-scores/intelligence.md
       - Wisdom: character-creation/ability-scores/wisdom.md
       - Charisma: character-creation/ability-scores/charisma.md
+    - Feats: 
+      - character-creation/feat/index.md
+      - Starting Feats: character-creation/feat/feat-starting.md
+      - 4th-Level Feats: character-creation/feat/feat-4th-level.md
+      - 8th-Level Feats: character-creation/feat/feat-8th-level.md
+      - Epic Boon: character-creation/feat/feat-20th-level.md
   - Items & Equipment: 
     - Armour: 
       - equipment/armour/index.md

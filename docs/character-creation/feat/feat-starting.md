@@ -629,7 +629,7 @@ You are trained in the military methods and use of slings in combat. You gain th
     
     The first time you score a critical hit with a sling against a creature on a turn, that creature has disadvantage on attack rolls and ability checks until the start of your next turn.
 
-### Sling Specialist
+### Spear Specialist
 
 **Prerequisites:** Simple weapon proficiency
 

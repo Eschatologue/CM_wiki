@@ -1,5 +1,5 @@
 ---
-icon: material/cards-playing-spade
+icon: material/cards-playing-spade-multiple
 ---
 
 # 4th-level Feats
@@ -137,7 +137,7 @@ You’ve learned to deftly parry attacks, granting you the following benefits:
 ### Dual Wielder
 *4th-level Feat*
 
-**Prerequisites:** Proficiency with any Martial Weapon; Expert or Warrior Group
+**Prerequisites:** :material-lightbulb-on: Proficiency with any Martial Weapon; Expert or Warrior Group
 
 **Repeatable:** No
 
@@ -291,7 +291,7 @@ You're an accomplished wrestler, granting you the following benefits:
 ### Great Weapon Master
 *4th-level Feat*
 
-**Prerequisite:** Proficiency with any Martial Weapon
+**Prerequisite:** :material-lightbulb-on: Proficiency with any Martial Weapon
 
 **Repeatable:** No
 
@@ -386,7 +386,7 @@ You have trained to rapidly recall or discover vital details, granting you the f
     
 - **Investigator**
     
-    You gain proficiency in the Intelligence (Investigation) skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+    You gain :material-lightbulb-on: proficiency in the Intelligence (Investigation) skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
     
 - **Lore Knowledge**
     
@@ -467,7 +467,7 @@ You master the physician’s arts, gaining the following benefits:
     
 - **Doctor**
     
-    You gain proficiency in the Medicine skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+    You gain :material-lightbulb-on: proficiency in the Medicine skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
     
 - **Back On Your Feet**
     
@@ -516,7 +516,7 @@ You become fearsome to others, gaining the following benefits:
     
 - **Downright Scary**
     
-    You gain proficiency in the Intimidation skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+    You gain :material-lightbulb-on: proficiency in the Intimidation skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
     
 - **Boo**
     
@@ -545,7 +545,7 @@ You’re experimenting how to exert your will on your spells to alter how they f
     
     You gain 2 sorcery points to spend on Metamagic (these points are added to any sorcery points you have from another source). You regain all spent sorcery points when you finish a long rest.
 
-### Metamagic Novice
+### Observant
 *4th-level Feat*
 
 **Prerequisite:** Intelligence or Wisdom 13+
@@ -573,7 +573,7 @@ Quick to notice details of your environment, you gain the following benefits:
 ### Mounted Combatant
 *4th-Level Feat*
 
-**Prerequisite:** Proficiency with Any Martial Weapon
+**Prerequisite:** :material-lightbulb-on: Proficiency with Any Martial Weapon
 
 **Repeatable:** No
 
@@ -602,7 +602,7 @@ You have developed a bond with your mounts, granting you the following benefits:
 ### Piercer
 *4th-level Feat*
 
-**Prerequisite:** Proficiency with any weapon that deals piercing damage.
+**Prerequisite:** :material-lightbulb-on: Proficiency with any weapon that deals piercing damage.
 
 **Repeatable:** No
 
@@ -624,7 +624,7 @@ Once per turn, when you hit a creature with a Weapon that deals Piercing damage,
 ### Polearm Master
 *4th-level Feat*
 
-**Prerequisite:** Proficiency with Martial Weapon that has *reach* property.
+**Prerequisite:** :material-lightbulb-on: Proficiency with Martial Weapon that has *reach* property.
 
 **Repeatable:** No
 
@@ -683,7 +683,7 @@ Choose one ability score(1). You gain the following benefits:
     
 - **Grit**
     
-    You gain proficiency in Saving Throws using the chosen ability.
+    You gain :material-lightbulb-on: proficiency in Saving Throws using the chosen ability.
 
 ### Ritual Caster
 *4th-level Feat*
@@ -730,7 +730,7 @@ You have mastered techniques to take advantage of every drop in any enemy’s gu
 ### Sharpshooter
 *4th-level Feat*
 
-**Prerequisite:** Proficiency with any Martial Weapon
+**Prerequisite:** :material-lightbulb-on: Proficiency with any Martial Weapon
 
 **Repeatable:** No
 
@@ -755,7 +755,7 @@ You can make shots that others find impossible, granting you the following benef
 ### Shield Master^HB^
 *4th-level Feat*
 
-**Prerequisite:** Proficiency with shields.
+**Prerequisite:** :material-lightbulb-on: Proficiency with shields.
 
 **Repeatable:** No
 
@@ -793,7 +793,7 @@ You have honed your proficiency with particular skills, granting you the followi
 
 - **Studied**
 
-    You gain proficiency in one skill of your choice.
+    You gain :material-lightbulb-on: proficiency in one skill of your choice.
 
 - **Expert**
 
@@ -827,7 +827,7 @@ You are expert at slinking through shadows. You gain the following benefits:
 ### Slasher
 *4th-level Feat*
 
-**Prerequisite:** Proficiency with any Martial Weapon
+**Prerequisite:** :material-lightbulb-on: Proficiency with any Martial Weapon
 
 **Repeatable:** No
 
@@ -900,7 +900,7 @@ You have learned techniques to enhance your attacks with certain kinds of spells
 ### Sword Dancing
 *4th-level Feat*
 
-**Prerequisite:** Proficiency with any Martial Weapon
+**Prerequisite:** :material-lightbulb-on: Proficiency with any Martial Weapon
 
 **Repeatable:** No
 
@@ -1028,4 +1028,7 @@ You have practiced extensively with a variety of weapons, gaining the following 
 
 - **Weapon Proficiency**
 
-    You gain Martial Weapon Proficiency.
+    You gain Martial Weapon Proficiency(1).
+    { .annotate }
+
+    1. :material-lightbulb-on: **Martial Weapon Proficiency.** Gives you proficiency on all Martial weapons. 
