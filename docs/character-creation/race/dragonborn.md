@@ -20,25 +20,30 @@
 
 ## Sub-race Traits: Draconic Ancestry
 
-You are distantly related to a particular kind of aeginae. Choose one Ancestry from the following options.
+You are distantly related to a particular kind of Aeginae. Choose one Ancestry from the following options:
+
 
 === "**Aerothurge Dragonborn**"
 
     You share traits to an Aeginae who used to rule the skies.
 
-    **:material-shield: Saving Throw:** When a Breath Weapon requires a Saving Throw, the DC is euqal to 8 + your Constitution modifier + your Proficiency Modifier
-
     - **Draconic Ancestry** 
     
         The blood of ancient dragons flow through your veins. You have resistance to Lightning damage.
 
-    - Breath Weapon: Lightning
+    - **Breath Weapon: Lightning**
 
         |**COST**| **DAMAGE** | **AREA**| **SAVE** |
         | :-: | :-: | :-: | :-: |
-        |:material-circle: **Action**|:material-dice-d6:2d6 :material-lightning-bolt: Lightning damage | 15 ft. :material-cone:cone / 30 ft. :material-vector-line:line | :material-shield: DEX Save |
+        |:material-circle: **Action**|:material-dice-d6:2d6 :material-lightning-bolt: Lightning damage | 15 ft. :material-cone:cone or 30 ft. :material-vector-line:line | :material-shield: DEX Save |
 
         Using an :material-circle: **Action**, you unleash a breath of Lightning originating from you. Choose an area of effect and each creature within it must make a Dexterity Saving throw, or take the Breath Weapon damage on a failed save or half as much on succesful save.
+
+        **At Higher Level:** This Breath Weapon damage increases at higher level, to :material-dice-d6:3d6 at 6th-level, :material-dice-d6:4d6 at 11th-level and :material-dice-d6:5d6 at 16th-level
+
+    - **:material-shield: Saving Throw** 
+    
+        When a Breath Weapon requires a Saving Throw, the DC is equal to 8 + your Constitution modifier + your Proficiency Modifier
 
 
 
