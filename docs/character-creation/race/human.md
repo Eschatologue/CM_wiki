@@ -3,7 +3,10 @@
 ## Racial Feature
 
 - **Age.** Humans reach adulthood in their late teens and live less than a century.
+- **Alignment.** Humans tend toward no particular alignment. The best and the worst are found among them.
 - **Creature Type.** You are a :material-human-child:**Humanoid**. You are also considered a human for any prerequisite or effect that requires you to be a human.
+- **Size.** Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is **Medium**.
+- **Speed.** Your base walking speed is 30 feet.
 
 ## Subrace Feature
 
@@ -23,6 +26,10 @@ The most common human lineage found in Antares, can be found from the tallest pe
 - **Tools.** You gain proficiency in one set of Artisan's Tools or one Gaming Set or your choice.
 - **Skills.** You gain proficiency in two skill of your choice.
 
+#### :material-cards-playing-diamond: Feats
+
+- **Human's Flexibility.** You gain one :material-cards-playing-club: **1st-level Feat** of your choice and one :material-cards-playing-club-multiple: **4th-level Feat** of your choice. 
+
 ### Gallian Lineage
 
 Humans with Gallian lineage possess a unique trait: innate talent for magic. However, whether they choose to hone this ability through training is entirely their decision.
@@ -39,6 +46,10 @@ Humans with Gallian lineage possess a unique trait: innate talent for magic. How
 #### :fontawesome-solid-arrows-spin: Additional Features
 
 - **Gallian Magic.** You know one cantrip of your choice from the Sorcerer spell list. You can pick between Intelligence, Wisdom, or Charisma for its spellcasting abilities.
+
+#### :material-cards-playing-diamond: Feats
+
+- **Human's Flexibility.** You gain one :material-cards-playing-club: **1st-level Feat** of your choice and one :material-cards-playing-club-multiple: **4th-level Feat** of your choice. 
 
 ### London Lineage
 
@@ -64,3 +75,7 @@ Highly intelligent and deeply nationalistic, these humans have a mysterious past
     - You have disadvantage on contested Strength ability checks against creatures other than Human of this Lineage.
     - You have disadvantage on Strength Saving Throw against creatures other than Human of this Lineage.
 - **Unyielding.** You can add your Proficiency bonus to Resolve Check.
+
+#### :material-cards-playing-diamond: Feats
+
+- **Human's Flexibility.** You gain one :material-cards-playing-club: **1st-level Feat** of your choice and one :material-cards-playing-club-multiple: **4th-level Feat** of your choice. 
