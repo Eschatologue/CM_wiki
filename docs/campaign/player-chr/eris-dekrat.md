@@ -123,7 +123,7 @@ You gain more experience in casting spell, you can now choose and prepare 2nd-le
 *With a simple raise of your eyebrow(1), you possess the uncanny ability to disrupt and foil a spellcaster's magic.*
 { .annotate }
 
-1. ![sierjise](./../../assets/wiki/the-people-eyebrow.gif)
+1. ![The Rock](./../../assets/wiki/the-people-eyebrow.gif)
 
     Visual representation of Eris sensing a presence of magic being cast.
 

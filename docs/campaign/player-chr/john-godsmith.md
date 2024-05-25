@@ -34,7 +34,7 @@ The resilient spirit of the Bear increases your ability to take physical hits.
 
 - **Relentless Ferocity** 
 
-    While :fontawesome-solid-hand-fist: **Raging**, you can use an :material-circle: **Action** to give restore your Hit Points by :material-hospital-box: 1d12 + your Constitution modifier. This can only be used once per **Rage**.
+    While :fontawesome-solid-hand-fist: **Raging**, you can use an :material-circle: **Action** to  restore your Hit Points by :material-hospital-box: 1d12 + your Constitution modifier. This can only be used once per **Rage**.
 
 ### Totemic Spirit: Vulture
     
@@ -74,7 +74,7 @@ The spirit of the Elephant lends you its resilience.
 
 ### Totemic Spirit: Wolf
     
-The cunni spirit of the Wolf enhances your ability to fight alongside your pack. 
+The cunning spirit of the Wolf enhances your ability to fight alongside your pack. 
 
 - **Spirit of the Wolf** 
 
@@ -92,7 +92,7 @@ While :fontawesome-solid-hand-fist: **Raging**, when you hit a creature with a c
 
 ## 6th level: Aspect of the Primordials^WIP^
 
-You gain the aspect of Antares’ primordial path, you can either choose from the list below, or the list from the original *Totem Warrior* totem list of the same level.
+You gain the aspect of Antares’ primordial Paths, you can either choose from the list below or choose the one from the options of the original Totem Warrior 6th-level feature.
 
 - **The Fool.** You gain proficiency in three skills of your choice.
 - **The Magician.** When you make a Intelligence (Arcana) or Intelligence (Insight) check you can add your Constitution modifier to your roll.

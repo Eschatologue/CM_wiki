@@ -30,6 +30,8 @@ nav:
       - Intelligence: character-creation/ability-scores/intelligence.md
       - Wisdom: character-creation/ability-scores/wisdom.md
       - Charisma: character-creation/ability-scores/charisma.md
+    - Race:
+      - Dragonborn: character-creation/race/dragonborn.md
     - Feats: 
       - character-creation/feat/index.md
       - Starting Feats: character-creation/feat/feat-starting.md
