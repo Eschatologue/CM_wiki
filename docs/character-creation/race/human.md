@@ -2,17 +2,8 @@
 
 ## Racial Feature
 
-| **ABILITY SCORE** | **SIZE** | **BASE SPEED** | **LANGUAGE** | **FEAT** |
-| :-: | :-: | :-: | :-: | :-: |
-| Choose any two unique +1 | Medium | Medium - 30 ft. | Common, +1 your choice | One 1st-level Feat; One 4th-level Feat |
-
-### Age
-
-Humans reach adulthood in their late teens and live less than a century.
-
-### Creature Type
-
-You are a Humanoid. You are also considered an human for any prerequisite or effect that requires you to be a human.
+- **Age.** Humans reach adulthood in their late teens and live less than a century.
+- **Creature Type.** You are a :material-human-child:**Humanoid**. You are also considered a human for any prerequisite or effect that requires you to be a human.
 
 ## Subrace Feature
 
@@ -21,6 +12,10 @@ Choose a subrace from the options below:
 ### Common Lineage
 
 The most common human lineage found in Antares, can be found from the tallest peak of Mykrrheim's mountain ranges to the deepest pit of the Underdark.
+
+#### :fontawesome-solid-square-arrow-up-right: Ability Scores
+
+- **Ability Score Increase.** Two different ability scores of your choice increase by 1.
 
 #### :material-lightbulb-on: Proficiencies
 
@@ -31,6 +26,10 @@ The most common human lineage found in Antares, can be found from the tallest pe
 ### Gallian Lineage
 
 Humans with Gallian lineage possess a unique trait: innate talent for magic. However, whether they choose to hone this ability through training is entirely their decision.
+
+#### :fontawesome-solid-square-arrow-up-right: Ability Scores
+
+- **Ability Score Increase.** Two different ability scores of your choice increase by 1.
 
 #### :material-lightbulb-on: Proficiencies
 
@@ -47,19 +46,21 @@ The Londoners arrived from beyond Antares through the northern gate, bringing wi
 
 Highly intelligent and deeply nationalistic, these humans have a mysterious past, their will tempered by constant warfare and perpetual threats to their existence—a reality that persists even in Antares.
 
-#### :fontawesome-solid-square-arrow-up-right: Ability Score Increase
+#### :fontawesome-solid-square-arrow-up-right: Ability Scores
 
-Your Intelligence score increases by 2. 
+- **Ability Score Increase.** Two different ability scores of your choice increase by 1.
+- **Technological Advantage.** Your Intelligence score increases by 2. 
 
 #### :material-lightbulb-on: Proficiencies
 
-- **Skills.** You gain proficiency in two skill of your choice
+- **Skills.** You gain proficiency in two skill of your choice.
+- **Language.** You learn the English language and one extra language of your choice.
 - **British Ingenuity.** You gain proficiency with one set of Artisan's tools and with Firearms.
 
 #### :fontawesome-solid-arrows-spin: Additional Features
 
+- **Zero Aptidude.** When you choose this race, class such as *Bard*, *Cleric*, *Druid*, *Sorcerer*, and *Wizard* are restricted for you.
 - **Inferior Athleticism** 
     - You have disadvantage on contested Strength ability checks against creatures other than Human of this Lineage.
     - You have disadvantage on Strength Saving Throw against creatures other than Human of this Lineage.
 - **Unyielding.** You can add your Proficiency bonus to Resolve Check.
-- **Zero Aptidude.** When you choose this race, class such as *Bard*, *Cleric*, *Druid*, *Sorcerer*, and *Wizard* are restricted for you.
