@@ -4,7 +4,7 @@
 
 | **ABILITY SCORE** | **SIZE** | **SPEED** | **LANGUAGE** | **FEAT** |
 | :-: | :-: | :-: | :-: | :-: |
-| STR +2; CHA +1 | Medium | 30 ft. | Common; Draconic | 1 Starting Feat |
+| STR +2; CHA +1 | Medium | 30 ft. | Common; Draconic | One 1st-level Feat |
 
 - **Age** 
 

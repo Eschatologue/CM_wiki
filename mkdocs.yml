@@ -32,6 +32,14 @@ nav:
       - Charisma: character-creation/ability-scores/charisma.md
     - Race:
       - Dragonborn: character-creation/race/dragonborn.md
+      - Dwarf: character-creation/race/dwarf.md
+      - Elf: character-creation/race/elf.md
+      - Gnome: character-creation/race/gnome.md
+      - Half-elf: character-creation/race/half-elf.md
+      - Half-orc: character-creation/race/half-orc.md
+      - Halfling: character-creation/race/halfling.md
+      - Human: character-creation/race/human.md
+      - Tiefling: character-creation/race/tiefling.md
     - Feats: 
       - character-creation/feat/index.md
       - Starting Feats: character-creation/feat/feat-starting.md
