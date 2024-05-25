@@ -3,8 +3,8 @@
 ## Main Racial Traits
 
 | **ABILITY SCORE** | **SIZE** | **SPEED** | **LANGUAGE** | **FEAT** |
-| :---: | :---: | :---: | :---: |
-| [STR] +2; [CHA] +1 | Medium | 30 ft. | Common; Draconic | 1 Starting Feat |
+| :-: | :-: | :-: | :-: | :-: |
+| STR +2; CHA +1 | Medium | 30 ft. | Common; Draconic | 1 Starting Feat |
 
 - **Age** 
 
@@ -32,21 +32,15 @@ You are distantly related to a particular kind of aeginae. Choose one Ancestry f
     
         The blood of ancient dragons flow through your veins. You have resistance to Lightning damage.
 
-    - **Breath Weapon: Lightning**
+    ##### Breath Weapon: Lightning
 
-        You have the ability to unleash a breath of lightning originating from you. Choose one of the following Breath Weapon type:
+        |**COST**| **DAMAGE** | **AREA**| **SAVE** |
+        | :-: | :-: | :-: | :-: |
+        |:material-circle: **Action**|:material-dice-d6:2d6 :material-lightning-bolt: Lightning damage | 15 ft. :material-cone:cone / 30 ft. :material-vector-line:line | :material-shield: DEX Save |
 
-        === ":material-cone: Cone"
+        Using an :material-circle: **Action**, you unleash a breath of Lightning originating from you. Choose an area of effect and each creature within it area must make a Dexterity Saving throw, or take the Breath Weapon damage on a failed save or half as much on succesful save.
 
-            |**COST**| **DAMAGE** | **RANGE/AREA**| **SAVE** |
-            | :-: | :-: | :-: | :-: |
-            |:material-circle: **Action**|:material-dice-d6:2d6 :material-lightning-bolt: Lightning damage | Self/15 ft. :material-cone:cone | :material-shield: DEX Save:material-information-outline:{ title="Target still takes half damage on success" } |
 
-        === ":material-vector-line: Line"
-
-            |**COST**| **DAMAGE** | **RANGE/AREA**| **SAVE** |
-            | :-: | :-: | :-: | :-: |
-            |:material-circle: **Action**|:material-dice-d6:2d6 :material-lightning-bolt: Lightning damage | Self/30 ft. :material-vector-line:line | :material-shield: DEX Save:material-information-outline:{ title="Target still takes half damage on success" } |
 
 ---
 
