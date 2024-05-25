@@ -32,13 +32,13 @@ You are distantly related to a particular kind of aeginae. Choose one Ancestry f
     
         The blood of ancient dragons flow through your veins. You have resistance to Lightning damage.
 
-    ##### Breath Weapon: Lightning
+    - Breath Weapon: Lightning
 
         |**COST**| **DAMAGE** | **AREA**| **SAVE** |
         | :-: | :-: | :-: | :-: |
         |:material-circle: **Action**|:material-dice-d6:2d6 :material-lightning-bolt: Lightning damage | 15 ft. :material-cone:cone / 30 ft. :material-vector-line:line | :material-shield: DEX Save |
 
-        Using an :material-circle: **Action**, you unleash a breath of Lightning originating from you. Choose an area of effect and each creature within it area must make a Dexterity Saving throw, or take the Breath Weapon damage on a failed save or half as much on succesful save.
+        Using an :material-circle: **Action**, you unleash a breath of Lightning originating from you. Choose an area of effect and each creature within it must make a Dexterity Saving throw, or take the Breath Weapon damage on a failed save or half as much on succesful save.
 
 
 
