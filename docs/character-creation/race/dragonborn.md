@@ -29,23 +29,25 @@ You are distantly related to a particular kind of Aeginae. Choose one Ancestry f
 
     - **Draconic Ancestry** 
     
-        The blood of ancient dragons flow through your veins. You have resistance to Lightning damage.
+        The blood of ancient dragons flow through your veins. You have resistance to :material-lightning-bolt:Lightning damage.
 
-    - **Breath Weapon: Lightning**
+    - **Breath Weapon: :material-lightning-bolt:Lightning**
 
-        |**COST**| **DAMAGE** | **AREA**| **SAVE** |
+        |**COST**| **DAMAGE** | **RANGE/AoE**| **SAVE** |
         | :-: | :-: | :-: | :-: |
-        |:material-circle: **Action**|:material-dice-d6:2d6 :material-lightning-bolt: Lightning damage | 15 ft. :material-cone:cone or 30 ft. :material-vector-line:line | :material-shield: DEX Save |
+        |:material-circle: **Action**|:material-dice-d6:2d6 :material-lightning-bolt:Lightning damage | Self/15 ft. :material-cone:cone or 30 ft. :material-vector-line:line | :material-shield: DEX Save |
 
-        Using an :material-circle: **Action**, you unleash a breath of Lightning originating from you. Choose an area of effect and each creature within it must make a Dexterity Saving throw, or take the Breath Weapon damage on a failed save or half as much on succesful save.
+        - :material-arrow-up-bold-hexagon-outline: **At Higher Level** 
+            
+            This Breath Weapon damage increases at higher level:
 
-        **At Higher Level:** This Breath Weapon damage increases at higher level, to :material-dice-d6:3d6 at 6th-level, :material-dice-d6:4d6 at 11th-level and :material-dice-d6:5d6 at 16th-level
+                - Character level 6: :material-dice-d6:3d6 :material-lightning-bolt:Lightning damage
+                - Character level 11: :material-dice-d6:4d6 :material-lightning-bolt:Lightning damage
+                - Character level 16: :material-dice-d6:5d6 :material-lightning-bolt:Lightning damage
 
-    - **:material-shield: Saving Throw** 
+    - :material-shield: **Saving Throw** 
     
-        When a Breath Weapon requires a Saving Throw, the DC is equal to 8 + your Constitution modifier + your Proficiency Modifier
-
-
+            When a Breath Weapon requires a Saving Throw, the DC is equal to 8 + your Constitution modifier + your Proficiency Modifier (On Save: Target still takes half damage).
 
 ---
 
