@@ -41,13 +41,13 @@ You are distantly related to a particular kind of Aeginae. Choose one Ancestry f
             
             This Breath Weapon damage increases at higher level:
 
-                - Character level 6: :material-dice-d6:3d6 :material-lightning-bolt:Lightning damage
-                - Character level 11: :material-dice-d6:4d6 :material-lightning-bolt:Lightning damage
-                - Character level 16: :material-dice-d6:5d6 :material-lightning-bolt:Lightning damage
+            - Character level 6: :material-dice-d6:3d6 :material-lightning-bolt:Lightning damage
+            - Character level 11: :material-dice-d6:4d6 :material-lightning-bolt:Lightning damage
+            - Character level 16: :material-dice-d6:5d6 :material-lightning-bolt:Lightning damage
 
     - :material-shield: **Saving Throw** 
     
-            When a Breath Weapon requires a Saving Throw, the DC is equal to 8 + your Constitution modifier + your Proficiency Modifier (On Save: Target still takes half damage).
+        When a Breath Weapon requires a Saving Throw, the DC is equal to 8 + your Constitution modifier + your Proficiency Modifier (On Save: Target still takes half damage).
 
 ---
 
