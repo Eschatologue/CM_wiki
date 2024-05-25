@@ -35,10 +35,10 @@ You are distantly related to a particular kind of Aeginae. Choose one Ancestry f
 
         You can use an :material-circle: **Action** to exhale destructive energy. 
 
-        - :material-bullseye-arrow:**Damage:** :material-dice-d6:2d6 :material-lightning-bolt:Lightning damage (3d6 at 6th-level; 4d6 at 11th-level; 5d6 at 16th-level).
+        - :material-bullseye-arrow:**Damage:** :material-dice-d6:2d6:material-lightning-bolt:Lightning damage (:material-dice-d6:3d6 at 6th-level; :material-dice-d6:4d6 at 11th-level; :material-dice-d6:5d6 at 16th-level).
         - :material-vector-line:**Range:** Self
-        - :material-radius-outline:**Area of Effect:** 15 ft.:material-cone:cone or 30 ft. by 5 ft.:material-vector-line:line
-            - :material-shield:**Saving Throw:** :material-shield:DEX Save (DC 8 + Constitution modifier + Proficiency Modifier) (On Save: Target still takes half damage).
+        - :material-radius-outline:**Area of Effect:** 15 ft.:material-cone:cone or 30 ft. by 5 ft.:material-vector-line:line (choose when you take this action)
+            - :material-shield:DEX Save (DC 8 + Constitution modifier + Proficiency Modifier) (On Save: Target still takes half damage).
 
     
 
