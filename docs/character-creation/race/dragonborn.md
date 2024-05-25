@@ -3,7 +3,7 @@
 ## Main Racial Traits
 
 | **ABILITY SCORE** | **SIZE** | **SPEED** | **LANGUAGE** | **FEAT** |
-| :-: | :-: | :-: | :-: |
+| :---: | :---: | :---: | :---: |
 | [STR] +2; [CHA] +1 | Medium | 30 ft. | Common; Draconic | 1 Starting Feat |
 
 - **Age** 
@@ -24,7 +24,7 @@ You are distantly related to a particular kind of aeginae. Choose one Ancestry f
 
 === "**Aerothurge Dragonborn**"
 
-    You share traits to an Aeginae who use to rule the skies.
+    You share traits to an Aeginae who used to rule the skies.
 
     **:material-shield: Saving Throw:** When a Breath Weapon requires a Saving Throw, the DC is euqal to 8 + your Constitution modifier + your Proficiency Modifier
 
@@ -40,13 +40,13 @@ You are distantly related to a particular kind of aeginae. Choose one Ancestry f
 
             |**COST**| **DAMAGE** | **RANGE/AREA**| **SAVE** |
             | :-: | :-: | :-: | :-: |
-            |:material-circle: **Action**|:material-dice:2d6 :material-lightning-bolt: Lightning damage | Self/15 ft. :material-cone:cone | :material-shield: DEX Save:material-information-outline:{ title="Target still takes half damage on success" } |
+            |:material-circle: **Action**|:material-dice-d6:2d6 :material-lightning-bolt: Lightning damage | Self/15 ft. :material-cone:cone | :material-shield: DEX Save:material-information-outline:{ title="Target still takes half damage on success" } |
 
         === ":material-vector-line: Line"
 
             |**COST**| **DAMAGE** | **RANGE/AREA**| **SAVE** |
             | :-: | :-: | :-: | :-: |
-            |:material-circle: **Action**|:material-dice:2d6 :material-lightning-bolt: Lightning damage | Self/30 ft. :material-vector-line:line | :material-shield: DEX Save:material-information-outline:{ title="Target still takes half damage on success" } |
+            |:material-circle: **Action**|:material-dice-d6:2d6 :material-lightning-bolt: Lightning damage | Self/30 ft. :material-vector-line:line | :material-shield: DEX Save:material-information-outline:{ title="Target still takes half damage on success" } |
 
 ---
 
