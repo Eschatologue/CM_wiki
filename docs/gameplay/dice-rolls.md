@@ -22,17 +22,13 @@ The number of dice to be rolled is notated immediately before the `d`. Any appli
     D&D also uses a 100-sided die, commonly referred to as "percentile dice" and is often used to determine loot drops from combat, or for rolling on a "Wild Magic" table for certain sorcerer subclasses, or when the DM requires it.
 
 
-## :material-dice-d20: d20 Rolls
+## :material-dice-d20: d20 Tests
 
 In D&D, the twenty-sided die (d20) is central to the game's mechanics, determining the success or failure of a wide range of actions. Whenever a creature attempts an action with a chance of failure, it rolls a d20 and adds any applicable modifiers. The result is compared to a target number to see if the attempt succeeds.
 
-These attempts are categorized either as attack rolls – which are rolled against the target's **Armour Class** (**AC**), as ability checks – which are rolled against the check's Difficulty Class (DC), or as saving throws – which are rolled against a save DC:
+The term d20 Test encompasses the three main d20 rolls of the game: attack rolls – which are rolled against the target's **Armour Class** (**AC**), ability checks – which are rolled against the check's Difficulty Class (DC), and saving throws – which are rolled against a save DC
 
-| **ABILITY CHECK FORMULA** |
-|:---:|
-| :material-dice-d20: d20 + Ability Modifier + Proficiency Bonus (if proficient) + Other Bonuses (if applicable) |
-
-### Categories of d20 Rolls
+### List of d20 Tests
 
 #### Attack Rolls
 
@@ -43,13 +39,25 @@ These attempts are categorized either as attack rolls – which are rolled again
 When a creature attacks a target, it makes an attack roll against the target's AC to determine whether the attack is a hit or a miss. If the attack is a hit, it generally deals damage, and the attacker rolls for damage. 
 Creatures generally make their attacks with their equipped weapon (including unarmed), but some spells – such as a Warlock's Eldritch Blast – require the caster to make spell attack rolls.
 
+| :material-dice-d20:**ATTACK ROLLS** |
+|:---:|
+| :material-dice-d20: d20 + Ability Modifier + Proficiency Bonus (if proficient) + Other Bonuses (if applicable) |
+
 #### Saving Throws
   
 Traps, spells, conditions, and other sources of harm may allow a creature a chance to avoid or reduce their effect, known as a saving throw or save. To attempt a save, a creature rolls a d20 against a target save DC.
 
+| :material-dice-d20:**SAVING THROWS** |
+|:---:|
+| :material-dice-d20: d20 + Ability Modifier + Proficiency Bonus (if proficient) + Other Bonuses (if applicable) |
+
 #### Ability Checks
   
 An ability check is an attempt to succeed at a specific task, and is rolled against a **Difficulty Class** (**DC**) set by the game for that task. If the final result of the roll equals or exceeds the DC, the attempt is successful.
+
+| :material-dice-d20:**ABILITY CHECK** |
+|:---:|
+| :material-dice-d20: d20 + Ability Modifier |
 
 !!! info "Dificulty Class (DC)"
 
@@ -61,11 +69,11 @@ Rolling a 1 or 20 on a d20 roll is referred to as a natural 1 or natural 20. Whe
 
 ### Advantage and Disadvantage
 
-A number of situations and conditions give creatures :octicons-triangle-up-24:**Advantage** or :octicons-triangle-down-24:**Disadvantage** on d20 rolls. 
+A number of situations and conditions give creatures :dnd-d20-advantage:**Advantage** or :dnd-d20-disadvantage:**Disadvantage** on d20 rolls. 
 
-A creature that makes a roll with :octicons-triangle-up-24:**Advantage** rolls two d20 dice separately, and uses the higher of the two results. If they have :octicons-triangle-down-24:**Disadvantage**, they choose the lower of the two.
+A creature that makes a roll with :dnd-d20-advantage:**Advantage** rolls two d20 dice separately, and uses the higher of the two results. If they have :dnd-d20-disadvantage:**Disadvantage**, they choose the lower of the two.
 
-When multiple instances of :octicons-triangle-up-24:**Advantage** or :octicons-triangle-down-24:**Disadvantage** occcurs, each instance beyond the first adds a `+2` or `-2` modifier to the roll, respectively.^HB^
+When multiple instances of :dnd-d20-advantage:**Advantage** or :dnd-d20-disadvantage:**Disadvantage** occcurs, each instance beyond the first adds a `+2` or `-2` modifier to the roll, respectively.^HB^
 
 ## Ability checks
 Ability checks are dice rolls made to determine whether a creature succeeds or fails at a task. They are rolled against the task's Difficulty Class (DC). Each ability check is made using one of the six abilities in the game, and creatures add an ability's corresponding ability score modifier to the results of ability checks they make.
@@ -151,7 +159,7 @@ Here's how to determine a character's total for a passive check:
 
 :   `10 + all modifiers that normally apply to the check`
 
-If the character has advantage on the check, add 5. For :octicons-triangle-down-24: **Disadvantage**, subtract 5. The game refers to a passive check total as a score.
+If the character has advantage on the check, add 5. For :dnd-d20-disadvantage:: **Disadvantage**, subtract 5. The game refers to a passive check total as a score.
 
 For example, if a 1st-level character has a Wisdom of 15 and proficiency in Perception, he or she has a passive Wisdom (Perception) score of 14.
 

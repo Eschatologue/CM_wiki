@@ -19,6 +19,8 @@ nav:
       - Making an Attack: gameplay/combat/making-an-attack.md
       - Movement and Positioning: gameplay/combat/movement.md
       - Damage and Healing : gameplay/combat/damage-healing.md
+    - Homebrew Mechanics:
+      - Death's Door and Resove: gameplay/homebrew/resolve.md
   - Chartacter Creation:
     - Quickstart: character-creation/quickstart.md
     - Classes: character-creation/classes.md
@@ -30,16 +32,16 @@ nav:
       - Intelligence: character-creation/ability-scores/intelligence.md
       - Wisdom: character-creation/ability-scores/wisdom.md
       - Charisma: character-creation/ability-scores/charisma.md
-    - Race:
-      - Dragonborn: character-creation/race/dragonborn.md
-      - Dwarf: character-creation/race/dwarf.md
-      - Elf: character-creation/race/elf.md
-      - Gnome: character-creation/race/gnome.md
-      - Half-elf: character-creation/race/half-elf.md
-      - Half-orc: character-creation/race/half-orc.md
-      - Halfling: character-creation/race/halfling.md
-      - Human: character-creation/race/human.md
-      - Tiefling: character-creation/race/tiefling.md
+    # - Race:
+    #   - Dragonborn: character-creation/race/dragonborn.md
+    #   - Dwarf: character-creation/race/dwarf.md
+    #   - Elf: character-creation/race/elf.md
+    #   - Gnome: character-creation/race/gnome.md
+    #   - Half-elf: character-creation/race/half-elf.md
+    #   - Half-orc: character-creation/race/half-orc.md
+    #   - Halfling: character-creation/race/halfling.md
+    #   - Human: character-creation/race/human.md
+    #   - Tiefling: character-creation/race/tiefling.md
     - Feats: 
       - character-creation/feat/index.md
       - Starting Feats: character-creation/feat/feat-starting.md
