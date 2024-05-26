@@ -301,9 +301,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="11.1875"
-     inkscape:cx="16.446927"
-     inkscape:cy="13.541899"
+     inkscape:zoom="7.9107571"
+     inkscape:cx="2.2753827"
+     inkscape:cy="25.724466"
      inkscape:window-width="1360"
      inkscape:window-height="715"
      inkscape:window-x="-8"
@@ -311,11 +311,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1" />
   <path
-     id="path1"
-     transform="matrix(1.3511941,0,0,1.3511941,8.071493,7.1193749)"
-     inkscape:transform-center-y="-2.6888174"
-     d="M 8.3486127,9.1627288 H -2.5337457 a 0.83844648,0.83844648 60 0 1 -0.726116,-1.2576697 l 5.4411793,-9.4243989 a 0.83844648,0.83844648 0 0 1 1.4522318,0 l 5.4411793,9.4243989 a 0.83844648,0.83844648 120 0 1 -0.726116,1.2576697 z"
-     style="fill:#ff6e42;fill-opacity:1;stroke-width:0.888107;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-     inkscape:path-effect="#path-effect16"
-     inkscape:original-d="M 9.8008446,9.1627288 H -3.9859776 L 2.9074335,-2.7770095 Z" />
+     id="rect2"
+     style="fill-opacity:1;stroke:none;stroke-width:1.599;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+     d="M 8.5 3 L 8.5 8.4023438 L 3 8.4023438 L 3 15.402344 L 8.5 15.402344 L 8.5 21 L 15.5 21 L 15.5 15.402344 L 21 15.402344 L 21 8.4023438 L 15.5 8.4023438 L 15.5 3 L 8.5 3 z " />
 </svg>

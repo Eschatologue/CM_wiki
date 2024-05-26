@@ -10,9 +10,12 @@ A special form of action – known as a reaction – can be used as a response t
 
 Taking actions usually requires the acting creature to expend one of three resources:
 
-:   :material-circle: **Action** - :material-triangle: **Bonus Action** - :material-star-four-points: **Reaction**
+|:dnd-rsc-action:{ .xxl .middle }|:dnd-rsc-bonus-action:{ .xxl .middle }|:dnd-rsc-reaction:{ .xxl .middle }|
+|:-:|:-:|:-:|
+|**ACTION**|**BONUS ACTION**|**REACTION**|
 
-### :material-circle: Actions
+
+### :dnd-rsc-action: Actions
 
 An Action is a primary activity that a creature can perform during their turn. This encompasses a wide range of activities such as attacking, casting a spell, or using an item. Typically, creatures can perform one Action per turn.
 
@@ -22,26 +25,26 @@ An Action is a primary activity that a creature can perform during their turn. T
   - **Cast a Spell**: A wizard casts the spell "Fireball," targeting a group of enemies.
   - **Dash**: A paladin uses their action to move double their movement speed to close in upon the enemies.
 
-### :material-triangle: Bonus Actions
+### :dnd-rsc-bonus-action: Bonus Actions
 Some actions, frequently referred to as *bonus actions*, require a Bonus Action to be expended when taken.
 
-A Bonus Action is a secondary action that certain abilities, spells, or class features allow a creature to perform in addition to their main **Action**. Not all characters or actions can use a Bonus Action, and creatures can typically perform only one **Bonus Action** per turn if they have an ability that grants them one.
+A Bonus Action is a secondary action that certain abilities, spells, or class features allow a creature to perform in addition to their main :dnd-rsc-action:**Action**. Not all characters or actions can use a Bonus Action, and creatures can typically perform only one :dnd-rsc-bonus-action:**Bonus Action** per turn if they have an ability that grants them one.
 
 **Example**:
 
-  - **Two-Weapon Fighting**: A ranger attacks with their main weapon using their **Action**, then uses their **Bonus Action** to make an off-hand attack with a second weapon.
-  - **Misty Step**: A warlock uses their **Bonus Action** to cast this spell, teleporting 30 feet to a spot they can see.
+  - **Two-Weapon Fighting**: A ranger attacks with their main weapon using their :dnd-rsc-action:**Action**, then uses their :dnd-rsc-bonus-action:**Bonus Action** to make an off-hand attack with a second weapon.
+  - **Misty Step**: A warlock uses their :dnd-rsc-bonus-action:**Bonus Action** to cast this spell, teleporting 30 feet to a spot they can see.
 
-### :material-star-four-points: Reactions
+### :dnd-rsc-reaction: Reactions
 
-A **Reaction** is an action that creatures can take in response to a specific event, even if it’s not their turn. Creatures can typically take only one **Reaction** per round. Reactions often have specific triggers, such as an enemy's movement or an attack.
+A :dnd-rsc-reaction:**Reaction** is an action that creatures can take in response to a specific event, even if it’s not their turn. Creatures can typically take only one :dnd-rsc-reaction:**Reaction** per round. Reactions often have specific triggers, such as an enemy's movement or an attack.
 
 **Example**:
 
-- **Opportunity Attack**: When an enemy leaves a fighter's reach, the fighter uses their **Reaction** to make a melee attack against the enemy.
-- **Shield**: A wizard casts this spell as a **Reaction** to being hit by an attack, gaining a +5 bonus to their AC potentially causing the attack to miss.
-- **Counterspell**: A sorcerer uses their **Reaction** to counter a spell being cast by an enemy within 60 feet.
-- **Uncanny Dodge**: A rogue uses their **Reaction** to halve the damage from an attack that hits them.
+- **Opportunity Attack**: When an enemy leaves a fighter's reach, the fighter uses their :dnd-rsc-reaction:**Reaction** to make a melee attack against the enemy.
+- **Shield**: A wizard casts this spell as a :dnd-rsc-reaction:**Reaction** to being hit by an attack, gaining a +5 bonus to their AC potentially causing the attack to miss.
+- **Counterspell**: A sorcerer uses their :dnd-rsc-reaction:**Reaction** to counter a spell being cast by an enemy within 60 feet.
+- **Uncanny Dodge**: A rogue uses their :dnd-rsc-reaction:**Reaction** to halve the damage from an attack that hits them.
 
 ## Spell Slots
 
@@ -80,7 +83,7 @@ Higher-level spell slots can be used to cast lower-level spells, often with enha
 
 [Spellcasting]: ../gameplay/spellcasting.md
 
-## Movement
+## :material-arrow-right-bold:Movement
 
 Movement determines how far creatures can travel on their turn during combat or an adventure. Each character has a movement speed, usually measured in feet, indicating the distance they can cover under normal circumstances.
 

@@ -67,7 +67,7 @@ An ability check is an attempt to succeed at a specific task, and is rolled agai
 
 Rolling a 1 or 20 on a d20 roll is referred to as a natural 1 or natural 20. When making an attack roll or ability check, rolling a natural 1 is always an automatic failure, while a natural 20 is always an automatic success, regardless of the final result after modifiers are applied. Saving throws attempted during social encounters, and death saving throws, can also roll natural 1s and 20s.
 
-### Advantage and Disadvantage
+### :dnd-d20-advantage:Advantage and :dnd-d20-disadvantage:Disadvantage
 
 A number of situations and conditions give creatures :dnd-d20-advantage:**Advantage** or :dnd-d20-disadvantage:**Disadvantage** on d20 rolls. 
 
@@ -97,13 +97,17 @@ Ability checks are usually made using a specified skill. Skills are specific are
 
 Characters add their proficiency bonus to any ability checks they make using skills they are proficient in.
 
-| **:material-arm-flex:{ .lg .middle } Strength** | **:material-hand-front-right:{ .lg .middle } Dexterity** | **:material-heart-pulse:{ .lg .middle } Constitution** | **:material-book-cog:{ .lg .middle } Intelligence** | **:fontawesome-solid-scroll:{ .lg .middle } Wisdom** | **:material-handshake:{ .lg .middle } Charisma** |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Athletics] | [Acrobatics] | - | [Arcana] | [Animal Handling] | [Deception] |
-|  | [Sleight of Hand] |  | [History] | [Insight] | [Intimidation] |
-|  | [Stealth] |  | [Investigation] | [Medicine] | [Performance] |
-|  |  |  | [Nature] | [Perception] | [Persuasion] |
-|  |  |  | [Religion] | [Survival] |  |
+| **:material-arm-flex:{ .lg .middle } Strength** | **:material-hand-front-right:{ .lg .middle } Dexterity** | **:material-book-cog:{ .lg .middle } Intelligence** | **:fontawesome-solid-scroll:{ .lg .middle } Wisdom** | **:material-handshake:{ .lg .middle } Charisma** |
+|:---:|:---:|:---:|:---:|:---:|
+| [Athletics] | [Acrobatics] | [Arcana] | [Animal Handling] | [Deception] |
+|  | [Sleight of Hand] | [History] | [Insight] | [Intimidation] |
+|  | [Stealth] | [Investigation] | [Medicine] | [Performance] |
+|  |  | [Nature] | [Perception] | [Persuasion] |
+|  |  | [Religion] | [Survival] |  |
+
+!!! question "Constitution Ability Check?"
+
+    Constitution checks are uncommon, and no skills apply to Constitution checks, because the endurance this ability represents is largely passive rather than involving a specific effort on the part of a character or monster.
 
 [Athletics]: ../character-creation/ability-scores/strength.md#athletics
 
@@ -157,9 +161,12 @@ A passive check is a special kind of ability check that doesn't involve any die 
 
 Here's how to determine a character's total for a passive check:
 
-:   `10 + all modifiers that normally apply to the check`
+| :material-dice-d20: **PASSIVE CHECK** |
+|:--:|
+|10 + all modifiers that normally apply to the check|
 
-If the character has advantage on the check, add 5. For :dnd-d20-disadvantage:: **Disadvantage**, subtract 5. The game refers to a passive check total as a score.
+
+If the character has advantage on the check, add 5. For :dnd-d20-disadvantage   : **Disadvantage**, subtract 5. The game refers to a passive check total as a score.
 
 For example, if a 1st-level character has a Wisdom of 15 and proficiency in Perception, he or she has a passive Wisdom (Perception) score of 14.
 
