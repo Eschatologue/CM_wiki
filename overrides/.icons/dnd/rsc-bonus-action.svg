@@ -301,9 +301,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="7.9107571"
-     inkscape:cx="2.2753827"
-     inkscape:cy="25.724466"
+     inkscape:zoom="11.770382"
+     inkscape:cx="6.1170489"
+     inkscape:cy="20.092807"
      inkscape:window-width="1360"
      inkscape:window-height="715"
      inkscape:window-x="-8"
@@ -311,7 +311,15 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1" />
   <path
-     id="rect2"
-     style="fill-opacity:1;stroke:none;stroke-width:1.599;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-     d="M 8.5 3 L 8.5 8.4023438 L 3 8.4023438 L 3 15.402344 L 8.5 15.402344 L 8.5 21 L 15.5 21 L 15.5 15.402344 L 21 15.402344 L 21 8.4023438 L 15.5 8.4023438 L 15.5 3 L 8.5 3 z " />
+     id="rect5-3"
+     style="fill-opacity:1;stroke:none;stroke-width:4.50001;stroke-dasharray:none;stroke-dashoffset:2.76;stroke-opacity:1;paint-order:stroke markers fill"
+     d="M 9.284884,4.5561007 H 4.671734 L 4.671732,9.284882 2,9.284883 2.000001,2.0000012 9.284884,2 Z" />
+  <path
+     id="rect5-7-4"
+     style="fill-opacity:1;stroke:none;stroke-width:4.50001;stroke-dasharray:none;stroke-dashoffset:2.76;stroke-opacity:1;paint-order:stroke markers fill"
+     d="m 14.7,19.428784 h 4.61315 l 1e-6,-4.728783 2.671733,-1e-6 -1e-6,7.284884 -7.284883,10e-7 z" />
+  <path
+     id="rect9-85"
+     style="fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:2.76;stroke-opacity:1;paint-order:stroke markers fill"
+     d="M 22.613281,1.3867189 14.25,4.2500001 v 3 H 7.2500001 V 14.25 h -3 L 1.3867189,22.613281 9.7500001,19.75 v -3 H 16.75 V 9.7500001 h 3 z" />
 </svg>

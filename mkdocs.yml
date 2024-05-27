@@ -21,6 +21,7 @@ nav:
       - Damage and Healing : gameplay/combat/damage-healing.md
     - Homebrew Mechanics:
       - Death's Door and Resove: gameplay/homebrew/resolve.md
+      - Inventory System: gameplay/homebrew/inventory.md
   - Chartacter Creation:
     - Quickstart: character-creation/quickstart.md
     - Classes: character-creation/classes.md

@@ -301,9 +301,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="7.9107571"
-     inkscape:cx="14.031527"
-     inkscape:cy="15.738064"
+     inkscape:zoom="15.821514"
+     inkscape:cx="14.853193"
+     inkscape:cy="10.270825"
      inkscape:window-width="1360"
      inkscape:window-height="715"
      inkscape:window-x="-8"
@@ -311,7 +311,26 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1" />
   <path
-     style="paint-order:stroke markers fill"
-     d="M 9.883625,3.3885389 2,16.966181 l 2.116375,3.64528 h 15.76725 L 22,16.966181 14.118092,3.3885389 Z m 2.118091,6.0771723 3.649159,6.2853768 H 8.3508411 Z"
-     id="path1" />
+     id="rect5-3"
+     style="fill-opacity:1;stroke:none;stroke-width:4.50001;stroke-dasharray:none;stroke-dashoffset:2.76;stroke-opacity:1;paint-order:stroke markers fill"
+     d="M 10.337209,5.6084247 H 5.7240587 l -1.3e-6,4.7287813 -2.6717322,10e-7 1.1e-6,-7.2848818 7.2848827,-1.2e-6 z" />
+  <path
+     id="rect5-7-4"
+     style="fill-opacity:1;stroke:none;stroke-width:4.50001;stroke-dasharray:none;stroke-dashoffset:2.76;stroke-opacity:1;paint-order:stroke markers fill"
+     d="m 13.662791,18.391575 h 4.61315 l 1e-6,-4.728783 2.671733,-10e-7 -1e-6,7.284884 -7.284883,1e-6 z" />
+  <path
+     id="path7-6"
+     style="fill-opacity:1;stroke:none;stroke-width:4.50003;stroke-dasharray:none;stroke-dashoffset:2.76;stroke-opacity:1;paint-order:stroke markers fill"
+     d="m 0,14.478844 3.5507243,3.07274 -1.5388544,4.436545 4.436545,-1.538854 L 9.5211581,24 10.406976,19.388407 9.1598768,18.141304 H 5.6985403 V 14.67997 L 4.611597,13.593025 Z" />
+  <path
+     id="path7-3-7"
+     style="fill-opacity:1;stroke:none;stroke-width:4.50003;stroke-dasharray:none;stroke-dashoffset:2.76;stroke-opacity:1;paint-order:stroke markers fill"
+     d="M 24,9.521155 20.449276,6.448416 21.988131,2.0118706 17.551586,3.5507242 14.478843,0 l -0.88582,4.6115938 1.247101,1.2471014 h 3.461336 v 3.4613346 l 1.086944,1.0869442 z" />
+  <rect
+     style="fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:2.76;stroke-opacity:1;paint-order:stroke markers fill"
+     id="rect9-85"
+     width="9.5"
+     height="9.5"
+     x="7.25"
+     y="7.249999" />
 </svg>
