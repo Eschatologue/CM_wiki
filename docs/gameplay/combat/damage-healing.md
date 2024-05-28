@@ -46,44 +46,41 @@ Rolling a natural 20 on an attack roll results in a critical hit, dealing double
  
 **Example**: A ranger scoring a critical hit with a short sword (1d6 piercing damage) + 3 (Dexterity modifier). The ranger rolled 3 on the :material-dice-d6: d6, dealing a total of 6 damage and it is doubled to 12 Piercing damage as a result.
 
-### Damage Resistance and Immunity
+### Resistance, Vulnerability, and Immunity
 
-- **Resistance.** Halves the damage of a specific type.
-- **Immunity.** Negates damage of a specific type.
+#### Resistance
 
-**Example:**
+Resistance to a damage type means that the damage from that type is halved. For example, if a creature has resistance to fire damage and takes 12 points of fire damage, it only takes 6 points.
 
-- A creature with fire resistance takes half damage from fire attacks.
-- A creature with poison immunity takes no damage from poison attacks.
+#### Vulnerability
+
+Vulnerability to a damage type means that the damage from that type is doubled. For example, if a creature is vulnerable to cold damage and takes 10 points of cold damage, it takes 20 points instead.
+
+#### Immunity
+
+Immunity to a damage type means that the creature takes no damage from that type. For example, if a creature is immune to poison damage, it takes no damage from poison, regardless of the amount dealt.
 
 ### Types of Damage
 
-=== "Phsyical Damage"
+|**ICON**|**DAMAGE TYPES**|**DESCRIPTION**|
+|:-:|:--|:--|
+|**Physical Damage**|||
+|:dnd-damage-bludgeoning:{ .xxl }| **Bludgeoning** | Damage from blunt force, such as from clubs, hammers, or falling. This type of damage crushes bones and armor. |
+|:dnd-damage-piercing:{ .xxl }| **Piercing**| Damage from pointed weapons, such as arrows, spears, or teeth. This type of damage punctures and penetrates flesh and armor. |
+|:dnd-damage-slashing:{ .xxl }|**Slashing**| Damage from edged weapons, such as swords, axes, or claws. This type of damage cuts and slices through flesh and armor. |
+|**Elemental Damage**|||
+|:dnd-damage-acid:{ .xxl }| **Acid**| Damage from corrosive substances that can eat through materials and flesh. Acid damage can dissolve objects and inflict severe burns. |
+|:dnd-damage-cold:{ .xxl }| **Cold**| Damage from extreme cold, such as ice and freezing temperatures. Cold damage can freeze enemies, slow movements, and cause frostbite. |
+|:dnd-damage-fire:{ .xxl }| **Fire**| Damage from flames and intense heat. Fire damage can ignite objects, cause burns, and spread rapidly. |
+|:dnd-damage-lightning:{ .xxl }| **Lightning**| Damage from electrical energy, such as a lightning bolt. Lightning damage can shock, paralyze, and cause severe burns. |
+|:dnd-damage-poison:{ .xxl }| **Poison** | Damage from toxic substances, which can also inflict various conditions. Poison damage can cause illness, weakness, and death over time. |
+|:dnd-damage-thunder:{ .xxl }| **Thunder** | Damage from sonic energy, often causing concussive force. Thunder damage can deafen, knock back, and crush enemies. |
+|**Other and Magical Damage**|||
+|:dnd-damage-force:{ .xxl }| **Force** | Damage from pure magical energy. Force damage is highly effective against all targets and bypasses many defenses. |
+|:dnd-damage-necrotic:{ .xxl }| **Necrotic** | Damage from deathly energy, draining life force. Necrotic damage can wither flesh, drain vitality, and is particularly effective against living creatures. |
+|:dnd-damage-psychic:{ .xxl }| **Psychic** | Damage from mental energy, affecting the mind. Psychic damage can cause confusion, insanity, and severe mental trauma. |
+|:dnd-damage-radiant:{ .xxl }| **Radiant** | Damage from intense, often holy or celestial, energy that can come from divine sources or powerful light-based effects. Radiant damage can purify and is particularly effective against undead and fiends. |
 
-    <div class="grid cards" markdown>
-
-    - :material-hammer:{ .lg } **Bludgeoning**
-    - :material-arrow-projectile:{ .lg } **Piercing**
-    - :material-knife:{ .lg } **Slashing**
-
-    </div>
-    
-=== "Magical Damage"
-
-    <div class="grid cards" markdown>
-
-    - :material-fire:{ .lg } **Fire**
-    - :material-snowflake:{ .lg } **Cold**
-    - :material-lightning-bolt:{ .lg } **Lightning**
-    - :material-waveform:{ .lg } **Thunder**
-    - :material-chemical-weapon:{ .lg } **Acid**
-    - :material-bottle-tonic-skull:{ .lg } **Poison**
-    - :octicons-north-star-16:{ .lg } **Radiant**
-    - :material-skull:{ .lg } **Necrotic**
-    - :fontawesome-solid-burst:{ .lg } **Force**
-    - :material-eye-settings:{ .lg } **Psychic**
-
-    </div>
 
 ## Healing
 

@@ -67,13 +67,13 @@ An ability check is an attempt to succeed at a specific task, and is rolled agai
 
 Rolling a 1 or 20 on a d20 roll is referred to as a natural 1 or natural 20. When making an attack roll or ability check, rolling a natural 1 is always an automatic failure, while a natural 20 is always an automatic success, regardless of the final result after modifiers are applied. Saving throws attempted during social encounters, and death saving throws, can also roll natural 1s and 20s.
 
-### :dnd-d20-advantage:Advantage and :dnd-d20-disadvantage:Disadvantage
+### :dnd-d20-adv:Advantage and :dnd-d20-disadv:Disadvantage
 
-A number of situations and conditions give creatures :dnd-d20-advantage:**Advantage** or :dnd-d20-disadvantage:**Disadvantage** on d20 rolls. 
+A number of situations and conditions give creatures :dnd-d20-adv:**Advantage** or :dnd-d20-disadv:**Disadvantage** on d20 rolls. 
 
-A creature that makes a roll with :dnd-d20-advantage:**Advantage** rolls two d20 dice separately, and uses the higher of the two results. If they have :dnd-d20-disadvantage:**Disadvantage**, they choose the lower of the two.
+A creature that makes a roll with :dnd-d20-adv:**Advantage** rolls two d20 dice separately, and uses the higher of the two results. If they have :dnd-d20-disadv:**Disadvantage**, they choose the lower of the two.
 
-When multiple instances of :dnd-d20-advantage:**Advantage** or :dnd-d20-disadvantage:**Disadvantage** occcurs, each instance beyond the first adds a `+2` or `-2` modifier to the roll, respectively.^HB^
+When multiple instances of :dnd-d20-adv:**Advantage** or :dnd-d20-disadv:**Disadvantage** occcurs, each instance beyond the first adds a `+2` or `-2` modifier to the roll, respectively.^HB^
 
 ## Ability checks
 Ability checks are dice rolls made to determine whether a creature succeeds or fails at a task. They are rolled against the task's Difficulty Class (DC). Each ability check is made using one of the six abilities in the game, and creatures add an ability's corresponding ability score modifier to the results of ability checks they make.
@@ -166,7 +166,7 @@ Here's how to determine a character's total for a passive check:
 |10 + all modifiers that normally apply to the check|
 
 
-If the character has advantage on the check, add 5. For :dnd-d20-disadvantage   : **Disadvantage**, subtract 5. The game refers to a passive check total as a score.
+If the character has advantage on the check, add 5. For :dnd-d20-disadv: **Disadvantage**, subtract 5. The game refers to a passive check total as a score.
 
 For example, if a 1st-level character has a Wisdom of 15 and proficiency in Perception, he or she has a passive Wisdom (Perception) score of 14.
 
