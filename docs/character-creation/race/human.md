@@ -2,8 +2,6 @@
 
 ## Racial Trait
 
-
-
 ### Age
 Humans reach adulthood in their late teens and live less than a century.
 
@@ -28,13 +26,18 @@ In Antares, though humans may differ in looks, stature, skin color, and other at
 
 The most common human lineage found in Antares, can be found from the tallest peak of Mykrrheim's mountain ranges to the deepest pit of the Underdark.
 
-| **ABILITY SCORES** | **SIZE** | **SPEED** | **LANGUAGE** |
+##### Subrace Traits Table
+| **ABILITY SCORES** | **SIZE** | **BASE SPEED** | **LANGUAGE** |
 |:---:|:---:|:---:|:---:|
 | Choose any two unique +1 | Medium | Standard (30 ft.) | Common; +1 your choice (General) |
 
-#### :material-lightbulb-on: Proficiencies
+#### Civil Militia
+You gain:material-lightbulb-on:Proficiencies on all simple weapons.
 
-- **Language.** You can speak, read, and write Common and Two extra language of your choice.
+
+#### :material-lightbulb-on:{ .lg .middle } Proficiencies
+
+- **Weapons** You gain proficiency in 
 - **Tools.** You gain proficiency in one set of Artisan's Tools or one Gaming Set of your choice.
 - **Skills.** You gain proficiency in two skills of your choice.
 
