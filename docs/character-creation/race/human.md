@@ -14,6 +14,10 @@ Your base :material-arrow-right-bold-box:walking speed is 30 feet.
 ### Creature Type
 You are a :material-human-child:**Humanoid**. You are also considered a human for any prerequisite or effect that requires you to be a human.
 
+### **Human's Flexibility**
+
+You gain one :material-cards-playing-club: **1st-level Feat** of your choice and one :material-cards-playing-club-multiple: **4th-level Feat** of your choice. 
+
 ## Subrace Traits
 
 In Antares, though humans may differ in looks, stature, skin color, and other attributes, they can often be divided into three separate lineages.
@@ -27,22 +31,9 @@ Two different ability scores of your choice increase by 1.
 
 #### :material-lightbulb-on: Proficiencies
 
-- **Language** 
-    
-    You can speak, read, and write Common and Two extra language of your choice.
-    
-- **Tools** 
-
-    You gain proficiency in one set of Artisan's Tools or one Gaming Set of your choice.
-
-- **Skills** 
-
-    You gain proficiency in two skills of your choice.
-
-
-#### :material-cards-playing-diamond: Human's Flexibility
-
-You gain one :material-cards-playing-club: **1st-level Feat** of your choice and one :material-cards-playing-club-multiple: **4th-level Feat** of your choice. 
+- **Language.** You can speak, read, and write Common and Two extra language of your choice.
+- **Tools.** You gain proficiency in one set of Artisan's Tools or one Gaming Set of your choice.
+- **Skills.** You gain proficiency in two skills of your choice.
 
 ### Gallian Lineage
 
@@ -50,25 +41,16 @@ Humans with Gallian lineage possess a unique trait: an innate talent for magic. 
 
 #### :material-arrow-up-bold-box: Ability Scores
 
-Two different ability scores of your choice increase by 1.
+:   Two different ability scores of your choice increase by 1.
 
 #### :material-lightbulb-on: Proficiencies
 
-- **Language** 
-    
-    You can speak, read, and write Common and one extra language of your choice.
+- **Language.** You can speak, read, and write Common and one extra language of your choice.
+- **Skills.** You gain proficiency in one skill of your choice and Intelligence (Arcana)
 
-- **Skills** 
-    
-    You gain proficiency in one skill of your choice and Intelligence (Arcana)
+#### :fontawesome-solid-hand-sparkles: **Gallian Magic.** 
 
-#### :fontawesome-solid-hand-sparkles: Gallian Magic
-
-You know one cantrip of your choice from the Sorcerer spell list. You can pick between Intelligence, Wisdom, or Charisma for its spellcasting abilities.
-
-#### :material-cards-playing-diamond: Human's Flexibility
-
-You gain one :material-cards-playing-club: **1st-level Feat** of your choice and one :material-cards-playing-club-multiple: **4th-level Feat** of your choice. 
+:   You know one cantrip of your choice from the Sorcerer spell list. You can pick between Intelligence, Wisdom, or Charisma for its spellcasting abilities.
 
 ### London Lineage
 
@@ -83,18 +65,18 @@ Highly intelligent and deeply nationalistic, these humans have a mysterious past
 
 #### :material-lightbulb-on: Proficiencies
 
+- **Language.** You can speak, read, and write Common and English, and one extra language of your choice.
 - **Skills.** You gain proficiency in two skills of your choice.
-- **Language.** You learn the English language and one extra language of your choice.
 - **British Ingenuity.** You gain proficiency with one set of Artisan's tools and with Firearms.
 
-#### :fontawesome-solid-arrows-spin: Additional Features
+#### :fontawesome-brands-creative-commons-zero: Zero Aptidude
 
-- **Zero Aptitude.** When you choose this race, classes such as *Bard*, *Cleric*, *Druid*, *Sorcerer*, and *Wizard* are restricted for you.
-- **Inferior Athleticism.** 
-  - You have disadvantage on contested Strength ability checks against creatures other than Humans of this lineage.
-  - You have disadvantage on Strength Saving Throws against creatures other than Humans of this lineage.
-- **Unyielding.** You can add your Proficiency bonus to Resolve Checks.
+:   When you choose this race, classes such as *Bard*, *Cleric*, *Druid*, *Sorcerer*, and *Wizard* are restricted for you.
 
-#### :material-cards-playing-diamond: Feats
+#### Inferior Athleticism** 
+- You have :dnd-d20-disadv:Disadvantage on contested Strength ability checks against creatures other than Humans of this lineage.
+- You have :dnd-d20-disadv:Disadvantage on Strength Saving Throws against creatures other than Humans of this lineage.
 
-- **Human's Flexibility.** You gain one :material-cards-playing-club: **1st-level Feat** of your choice and one :material-cards-playing-club-multiple: **4th-level Feat** of your choice. 
+#### Unyielding 
+
+:   You can add your Proficiency bonus to Resolve Checks.
