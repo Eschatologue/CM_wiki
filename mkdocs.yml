@@ -33,7 +33,7 @@ nav:
       - Intelligence: character-creation/ability-scores/intelligence.md
       - Wisdom: character-creation/ability-scores/wisdom.md
       - Charisma: character-creation/ability-scores/charisma.md
-    # - Race:
+      - Race:
     #   - Dragonborn: character-creation/race/dragonborn.md
     #   - Dwarf: character-creation/race/dwarf.md
     #   - Elf: character-creation/race/elf.md
@@ -41,7 +41,7 @@ nav:
     #   - Half-elf: character-creation/race/half-elf.md
     #   - Half-orc: character-creation/race/half-orc.md
     #   - Halfling: character-creation/race/halfling.md
-    #   - Human: character-creation/race/human.md
+        - Human: character-creation/race/human.md
     #   - Tiefling: character-creation/race/tiefling.md
     - Feats: 
       - character-creation/feat/index.md

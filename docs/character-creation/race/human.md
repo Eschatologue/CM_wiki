@@ -2,6 +2,8 @@
 
 ## Racial Trait
 
+
+
 ### Age
 Humans reach adulthood in their late teens and live less than a century.
 
@@ -82,3 +84,29 @@ Highly intelligent and deeply nationalistic, these humans have a mysterious past
 #### :material-exclamation-thick: Unyielding 
 
 - **Resolve Proficiency.** You can add your Proficiency bonus to Resolve Checks.
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+<tr>
+<th class="tg-c3ow"><span style="font-weight:bold">**RACE**</span></th>
+<th class="tg-0pky" colspan="2"><span style="font-weight:bold">**SUBRACE**</span></th>
+<th class="tg-0pky"></th>
+</tr></thead>
+<tbody>
+<tr>
+<td class="tg-c3ow"></td>
+<td class="tg-0pky"></td>
+<td class="tg-0pky"></td>
+<td class="tg-0pky"></td>
+</tr>
+</tbody>
+</table>
