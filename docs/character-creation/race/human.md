@@ -27,7 +27,8 @@ In Antares, though humans may differ in looks, stature, skin color, and other at
 The most common human lineage found in Antares, can be found from the tallest peak of Mykrrheim's mountain ranges to the deepest pit of the Underdark.
 
 #### :material-arrow-up-bold-box: Ability Scores
-Two different ability scores of your choice increase by 1.
+
+- **Ability Score Increase.** Two different ability scores of your choice increase by 1.
 
 #### :material-lightbulb-on: Proficiencies
 
@@ -41,7 +42,7 @@ Humans with Gallian lineage possess a unique trait: an innate talent for magic. 
 
 #### :material-arrow-up-bold-box: Ability Scores
 
-:   Two different ability scores of your choice increase by 1.
+- **Ability Score Increase.** Two different ability scores of your choice increase by 1.
 
 #### :material-lightbulb-on: Proficiencies
 
@@ -50,7 +51,7 @@ Humans with Gallian lineage possess a unique trait: an innate talent for magic. 
 
 #### :fontawesome-solid-hand-sparkles: **Gallian Magic.** 
 
-:   You know one cantrip of your choice from the Sorcerer spell list. You can pick between Intelligence, Wisdom, or Charisma for its spellcasting abilities.
+- **One Cantrip**. You know one cantrip of your choice from the Sorcerer spell list. You can pick between Intelligence, Wisdom, or Charisma for its spellcasting abilities.
 
 ### London Lineage
 
@@ -69,14 +70,15 @@ Highly intelligent and deeply nationalistic, these humans have a mysterious past
 - **Skills.** You gain proficiency in two skills of your choice.
 - **British Ingenuity.** You gain proficiency with one set of Artisan's tools and with Firearms.
 
-#### :fontawesome-brands-creative-commons-zero: Zero Aptidude
+#### :material-circle-off-outline: Zero Aptidude
 
-:   When you choose this race, classes such as *Bard*, *Cleric*, *Druid*, *Sorcerer*, and *Wizard* are restricted for you.
+- **Class Restriction.** When you choose this race, classes such as *Bard*, *Cleric*, *Druid*, *Sorcerer*, and *Wizard* are restricted for you.
 
-#### Inferior Athleticism** 
-- You have :dnd-d20-disadv:Disadvantage on contested Strength ability checks against creatures other than Humans of this lineage.
-- You have :dnd-d20-disadv:Disadvantage on Strength Saving Throws against creatures other than Humans of this lineage.
+#### :material-arm-flex-outline: Inferior Athleticism
 
-#### Unyielding 
+- **Ability Check Disadvantage.** You have :dnd-d20-disadv:Disadvantage on contested Strength ability checks against creatures other than Humans of this lineage.
+- **Saving Throw Disadvantage.**You have :dnd-d20-disadv:Disadvantage on Strength Saving Throws against creatures other than Humans of this lineage.
 
-:   You can add your Proficiency bonus to Resolve Checks.
+#### :material-exclamation-thick: Unyielding 
+
+- **Resolve Proficiency.** You can add your Proficiency bonus to Resolve Checks.

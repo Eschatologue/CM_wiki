@@ -2,7 +2,6 @@
 icon: material/door-open
 ---
 
-
 !!! homebrew "This is a Homebrew Mechanic!"
 
     You just stumbled into a Hombebrew mechanic! This game material made by me, rather than by an official or third-party publisher.
@@ -26,7 +25,7 @@ A Resolve Check is an Ability Check made to determine whether a creature gains t
 ### Making a Resolve Check
 
 - :material-plus-box-multiple:**Ability Modifier:** The Resolve Check is a pure d20 roll, meaning you don't add any modifier unless you have an ability or a feature that states otherwise.
-- :material-shield-alert:**Difficulty Class:** The Resolve Check has a flat DC of 17. On a successful check, you gain the **Resolute** condition; on a failed check, you gain the **Meltdown** condition.
+- :material-shield-alert:**Difficulty Class:** The Resolve Check has a flat DC of 16. On a successful check, you gain the **Resolute** condition; on a failed check, you gain the **Meltdown** condition.
 
 ### When to Make a Resolve Check
 
