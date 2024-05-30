@@ -1,55 +1,74 @@
 *Adaptable, expansionist, and deeply superstitious, humans stand as the dominant race of Antares. While other races may have laid the groundwork, it is humans who elevated their creations and propelled them to new heights.*
 
-## Racial Feature
+## Racial Trait
 
-- **Age.** Humans reach adulthood in their late teens and live less than a century.
-- **Alignment.** Humans tend toward no particular alignment. The best and the worst are found among them.
-- **Creature Type.** You are a :material-human-child:**Humanoid**. You are also considered a human for any prerequisite or effect that requires you to be a human.
-- **Size.** Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is **Medium**.
-- **Speed.** Your base walking speed is 30 feet.
+### Age
+Humans reach adulthood in their late teens and live less than a century.
 
-## Subrace Feature
+### Size
+Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is :material-size-m:**Medium**.
 
-Choose a subrace from the options below:
+### Speed 
+Your base :material-arrow-right-bold-box:walking speed is 30 feet.
+
+### Creature Type
+You are a :material-human-child:**Humanoid**. You are also considered a human for any prerequisite or effect that requires you to be a human.
+
+## Subrace Traits
+
+In Antares, though humans may differ in looks, stature, skin color, and other attributes, they can often be divided into three separate lineages.
 
 ### Common Lineage
 
 The most common human lineage found in Antares, can be found from the tallest peak of Mykrrheim's mountain ranges to the deepest pit of the Underdark.
 
-#### :fontawesome-solid-square-arrow-up-right: Ability Scores
-
-- **Ability Score Increase.** Two different ability scores of your choice increase by 1.
+#### :material-arrow-up-bold-box: Ability Scores
+Two different ability scores of your choice increase by 1.
 
 #### :material-lightbulb-on: Proficiencies
 
-- **Language.** You learn one extra language of your choice.
-- **Tools.** You gain proficiency in one set of Artisan's Tools or one Gaming Set or your choice.
-- **Skills.** You gain proficiency in two skill of your choice.
+- **Language** 
+    
+    You can speak, read, and write Common and Two extra language of your choice.
+    
+- **Tools** 
 
-#### :material-cards-playing-diamond: Feats
+    You gain proficiency in one set of Artisan's Tools or one Gaming Set of your choice.
 
-- **Human's Flexibility.** You gain one :material-cards-playing-club: **1st-level Feat** of your choice and one :material-cards-playing-club-multiple: **4th-level Feat** of your choice. 
+- **Skills** 
+
+    You gain proficiency in two skills of your choice.
+
+
+#### :material-cards-playing-diamond: Human's Flexibility
+
+You gain one :material-cards-playing-club: **1st-level Feat** of your choice and one :material-cards-playing-club-multiple: **4th-level Feat** of your choice. 
 
 ### Gallian Lineage
 
-Humans with Gallian lineage possess a unique trait: innate talent for magic. However, whether they choose to hone this ability through training is entirely their decision.
+Humans with Gallian lineage possess a unique trait: an innate talent for magic. However, whether they choose to hone this ability through training is entirely their decision.
 
-#### :fontawesome-solid-square-arrow-up-right: Ability Scores
+#### :material-arrow-up-bold-box: Ability Scores
 
-- **Ability Score Increase.** Two different ability scores of your choice increase by 1.
+Two different ability scores of your choice increase by 1.
 
 #### :material-lightbulb-on: Proficiencies
 
-- **Skills.** You gain proficiency in one skill of your choice.
-- **Magic Sense.** You gain proficiency in Intelligence (Arcana).
+- **Language** 
+    
+    You can speak, read, and write Common and one extra language of your choice.
 
-#### :fontawesome-solid-arrows-spin: Additional Features
+- **Skills** 
+    
+    You gain proficiency in one skill of your choice and Intelligence (Arcana)
 
-- **Gallian Magic.** You know one cantrip of your choice from the Sorcerer spell list. You can pick between Intelligence, Wisdom, or Charisma for its spellcasting abilities.
+#### :fontawesome-solid-hand-sparkles: Gallian Magic
 
-#### :material-cards-playing-diamond: Feats
+You know one cantrip of your choice from the Sorcerer spell list. You can pick between Intelligence, Wisdom, or Charisma for its spellcasting abilities.
 
-- **Human's Flexibility.** You gain one :material-cards-playing-club: **1st-level Feat** of your choice and one :material-cards-playing-club-multiple: **4th-level Feat** of your choice. 
+#### :material-cards-playing-diamond: Human's Flexibility
+
+You gain one :material-cards-playing-club: **1st-level Feat** of your choice and one :material-cards-playing-club-multiple: **4th-level Feat** of your choice. 
 
 ### London Lineage
 
@@ -57,24 +76,24 @@ The Londoners arrived from beyond Antares through the northern gate, bringing wi
 
 Highly intelligent and deeply nationalistic, these humans have a mysterious past, their will tempered by constant warfare and perpetual threats to their existence—a reality that persists even in Antares.
 
-#### :fontawesome-solid-square-arrow-up-right: Ability Scores
+#### :material-arrow-up-bold-box: Ability Scores
 
 - **Ability Score Increase.** Two different ability scores of your choice increase by 1.
 - **Technological Advantage.** Your Intelligence score increases by 2. 
 
 #### :material-lightbulb-on: Proficiencies
 
-- **Skills.** You gain proficiency in two skill of your choice.
+- **Skills.** You gain proficiency in two skills of your choice.
 - **Language.** You learn the English language and one extra language of your choice.
 - **British Ingenuity.** You gain proficiency with one set of Artisan's tools and with Firearms.
 
 #### :fontawesome-solid-arrows-spin: Additional Features
 
-- **Zero Aptidude.** When you choose this race, class such as *Bard*, *Cleric*, *Druid*, *Sorcerer*, and *Wizard* are restricted for you.
-- **Inferior Athleticism** 
-    - You have disadvantage on contested Strength ability checks against creatures other than Human of this Lineage.
-    - You have disadvantage on Strength Saving Throw against creatures other than Human of this Lineage.
-- **Unyielding.** You can add your Proficiency bonus to Resolve Check.
+- **Zero Aptitude.** When you choose this race, classes such as *Bard*, *Cleric*, *Druid*, *Sorcerer*, and *Wizard* are restricted for you.
+- **Inferior Athleticism.** 
+  - You have disadvantage on contested Strength ability checks against creatures other than Humans of this lineage.
+  - You have disadvantage on Strength Saving Throws against creatures other than Humans of this lineage.
+- **Unyielding.** You can add your Proficiency bonus to Resolve Checks.
 
 #### :material-cards-playing-diamond: Feats
 
