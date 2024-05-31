@@ -1,18 +1,15 @@
 *Adaptable, expansionist, and deeply superstitious, humans stand as the dominant race of Antares. While other races may have laid the groundwork, it is humans who elevated their creations and propelled them to new heights.*
 
+| **ABILITY SCORES** | **SIZE** | **SPEED** | **LANGUAGE** |
+|:---:|:---:|:---:|:---:|
+| Choose any two unique +1 | Medium | Standard (30 ft.) | Common; +1 your choice (General) |
+
 ## Main Traits
 All members of this race share the same main traits as follow:
 
 - **Age.** Humans reach adulthood in their late teens and live less than a century.
 - **Size.** Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is **Medium**.
 - **Creature Type.** You are a :material-human-child:**Humanoid**. You are also considered a human for any prerequisite or effect that requires you to be a human.
-
-### :material-arrow-up-bold-box: Ability Scores
-
-Two different ability scores of your choice increase by 1.
-
-### :dnd-stat-speed: Base Racial Speed
-You can move 30 ft per turn.
 
 ### :material-arrow-all: Human's Flexibility
 You gain one :material-cards-playing-club: **1st-level Feat** of your choice and one :material-cards-playing-club-multiple: **4th-level Feat** of your choice. 
@@ -24,6 +21,52 @@ In Antares, though humans may differ in looks, stature, skin color, and other at
 ### Common Lineage
 
 The most common human lineage found in Antares, can be found from the tallest peak of Mykrrheim's mountain ranges to the deepest pit of the Underdark.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;margin:0px auto;}
+.tg td{background-color:#fff;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
+border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;
+word-break:normal;}
+.tg th{background-color:#f0f0f0;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
+border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;
+padding:10px 5px;word-break:normal;}
+.tg .tg-wp8o{border-color:#000000;text-align:center;vertical-align:top}
+.tg .tg-1sny{border-color:#000000;font-weight:bold;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;
+vertical-align:top;will-change:transform}
+.tg .tg-mqa1{border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 1028px"><colgroup>
+<col style="width: 121.75px">
+<col style="width: 226.75px">
+<col style="width: 421.75px">
+<col style="width: 257.75px">
+</colgroup>
+<thead>
+<tr>
+<th class="tg-1sny" colspan="4">PROFICIENCIES</th>
+</tr></thead>
+<tbody>
+<tr>
+<td class="tg-mqa1">ARMOUR</td>
+<td class="tg-mqa1">WEAPONS</td>
+<td class="tg-mqa1">TOOLS</td>
+<td class="tg-mqa1">SKILLS</td>
+</tr>
+<tr>
+<td class="tg-wp8o">Shields</td>
+<td class="tg-wp8o">Spear, Glaive, Pike, Halberd</td>
+<td class="tg-wp8o">+1 any Artisan Tools or +1 Gaming sets</td>
+<td class="tg-wp8o">+2 any</td>
+</tr>
+<tr>
+<td class="tg-73oq"></td>
+<td class="tg-73oq"></td>
+<td class="tg-73oq"></td>
+<td class="tg-73oq"></td>
+</tr>
+</tbody>
+</table>
 
 :   #### :material-spear: Civil Militia
 :   You gain :dnd-stat-prof:Proficiency in spears, glaives, pikes, and halberds.
@@ -57,16 +100,16 @@ The Londoners arrived from beyond Antares through the northern gate, bringing wi
 Highly intelligent and deeply nationalistic, these humans have a mysterious past, their will tempered by constant warfare and perpetual threats to their existence—a reality that persists even in Antares.
 
 :   #### :material-arrow-up-bold-box: Technological Superiority
-Your Intelligence score increases by 2. 
+:   Your Intelligence score increases by 2. 
 
 :   #### :dnd-stat-prof: British Ingenuity
-You gain :dnd-stat-prof:Proficiency with one set of Artisan's tools and with Firearms.
+:   You gain :dnd-stat-prof:Proficiency with one set of Artisan's tools and with Firearms.
 
 :   #### :material-translate: Language
-You can speak, read, and write *Common*, *English* and *one* extra language of your choice.
+:   You can speak, read, and write *Common*, *English* and *one* extra language of your choice.
 
 :   #### :material-account-plus: Skilled
-You gain :dnd-stat-prof:Proficiency in two skills of your choice.
+:   You gain :dnd-stat-prof:Proficiency in two skills of your choice.
 
 :   #### :material-circle-off-outline: Zero Aptidude
 :   When you choose this race, classes such as *Bard*, *Cleric*, *Druid*, *Sorcerer*, and *Wizard* are restricted for you.
