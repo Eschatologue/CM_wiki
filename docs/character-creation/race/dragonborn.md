@@ -22,27 +22,25 @@ You gain one :material-cards-playing-club: **1st-level Feat** of your choice and
 ### :dnd-stat-speed: Speed.
 You are considered to have *Standard* Speedm which is 30 ft.
 
-### Sub-race Traits: Draconic Ancestry
+---
 
 You are distantly related to a particular kind of Aeginae. Choose one Ancestry from the following options:
 
-#### Aerothurge Ancestry
+## Aerothurge Ancestry
 
 You share traits to an Aeginae who used to rule the skies.
 
-- **Draconic Ancestry** 
+### Breath Weapon: :material-lightning-bolt:Lightning
+
+You can use an :dnd-rsc-action:**Action** to exhale destructive energy.
+
+| **COST** | **RANGE/AREA** | **ATTACK/SAVE** | **DAMAGE/EFFECT** |
+|:---:|:---:|:---:|:---:|
+| :dnd-rsc-action:**Action** | Self(15 ft.:material-cone:cone or 5 by 30 ft. :material-vector-line:line) | :material-shield: DEX Save | :dnd-damage-lightning: Lightning |
+
+### Damage Resistance
 
 The blood of ancient dragons flow through your veins. You have resistance to :dnd-damage-lightning: Lightning damage.
-
-- **Breath Weapon:** :material-lightning-bolt:Lightning
-
-You can use an :dnd-rsc-action:**Action** to exhale destructive energy. 
-
-- :material-bullseye-arrow:**Damage:** :material-dice-d6:2d6:material-lightning-bolt:Lightning damage (:material-dice-d6:3d6 at 6th-level; :material-dice-d6:4d6 at 11th-level; :material-dice-d6:5d6 at 16th-level).
-- :material-vector-line:**Range:** Self
-- :material-radius-outline:**Area of Effect:** 15 ft.:material-cone:cone or 30 ft. by 5 ft.:material-vector-line:line (choose when you take this action)
-- :material-shield:DEX Save (DC 8 + Constitution modifier + Proficiency Modifier) (On Save: Target still takes half damage).
-
 
 ---
 

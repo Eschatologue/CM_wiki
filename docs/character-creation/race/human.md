@@ -17,7 +17,9 @@ You gain one :material-cards-playing-club: **1st-level Feat** of your choice and
 - **Creature Type.** You are a :material-human-child:**Humanoid**. You are also considered a human for any prerequisite or effect that requires you to be a human.
 
 ### :dnd-stat-speed: Speed.
-You are considered to have *Standard* Speedm which is 30 ft.
+You are considered to have *Standard* Speed; which is 30 ft.
+
+---
 
 ## Common Lineage
 
@@ -34,9 +36,6 @@ You gain :dnd-stat-prof:Proficiency in one set of Artisan's Tools or one Gaming 
 
 ### :material-account-plus: Skill Proficiency
 You gain :dnd-stat-prof:Proficiency in two skills of your choice.
-
-### :material-translate: Languages
-You can speak, read, and write *Common* and *two* extra language of your choice.
 
 ## Gallian Lineage
 
@@ -63,19 +62,17 @@ Your Intelligence score increases by 2.
 ### :dnd-stat-prof: British Ingenuity
 You gain :dnd-stat-prof:Proficiency with one set of Artisan's tools and with Firearms.
 
+### :material-arm-flex-outline: Inferior Athleticism
+You have :dnd-d20-disadv:Disadvantage on contested Strength ability checks & Saving Throws against creatures other than Humans of this lineage.
+
 ### :material-translate: Languages
 You can speak, read, and write *Common*, *English* and *one* extra language of your choice.
 
 ### :material-account-plus: Skilled
 You gain :dnd-stat-prof:Proficiency in two skills of your choice.
 
-### :material-circle-off-outline: Zero Aptidude
-When you choose this race, classes such as *Bard*, *Cleric*, *Druid*, *Sorcerer*, and *Wizard* are restricted for you.
-
-### :material-arm-flex-outline: Inferior Athleticism
-
-- **Ability Check Disadvantage.** You have :dnd-d20-disadv:Disadvantage on contested Strength ability checks against creatures other than Humans of this lineage.
-- **Saving Throw Disadvantage.**You have :dnd-d20-disadv:Disadvantage on Strength Saving Throws against creatures other than Humans of this lineage.
-
 ### :material-exclamation-thick: Unyielding 
 You can add your :dnd-stat-prof:Proficiency bonus to Resolve Checks.
+
+### :material-circle-off-outline: Zero Aptidude
+When you choose this race, classes such as *Bard*, *Cleric*, *Druid*, *Sorcerer*, and *Wizard* are restricted for you.
