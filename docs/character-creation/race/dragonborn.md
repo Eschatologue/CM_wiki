@@ -20,7 +20,24 @@ You are considered to have *Standard* Speed; which is 30 ft.
 
 ---
 
-You are distantly related to a particular kind of Aeginae. Choose one Ancestry from the following options:
+You are distantly related to a particular kind of Aeginae. Each ancestry provides a damage resistance and a Breath Weapon, which shares the same range and area of effects but different element and saving throws, all breath weapon also increases in damage at certain levels.
+
+### Breath Weapon Mechanics
+
+#### Saving Throws
+The saving throw for your Breath Weapon is calculated as:
+``` title="Breath Weapon DC"
+8 + Constitution Modifier + Proficiency Bonus
+```
+#### Breath Weapon Damage
+The damage of your Breath Weapon increases with your character level:
+- **6th-level:** :material-dice-d6: 3d6
+- **11th-level:** :material-dice-d6: 4d6
+- **16th-level:** :material-dice-d6: 5d6
+
+#### Breath Weapon Usage
+- **Usage:** Once per short-rest, as an :dnd-rsc-action:**Action**.
+- **Range:** Self/15 ft.:material-cone:cone or 5 by 30 ft. :material-vector-line:line
 
 ## Aerothurge Ancestry
 
@@ -33,9 +50,7 @@ Once per Short-rest, you can use an :dnd-rsc-action:**Action** to exhale destruc
 ##### Breath Weapon Table
 | **COST** | **RANGE/AoE** | **ATTACK/SAVE** | **DAMAGE/EFFECT** |
 |:---:|:---:|:---:|:---:|
-| :dnd-rsc-action:**Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :material-vector-line:line | :material-shield: DEX Save (Target still take half damage on success) | :material-dice-d6: 2d6 :dnd-damage-lightning:Lightning |
-
-**At Higher Level.** The damage of your Breath Weapon increases at higher character level; :material-dice-d6: 3d6 at 6th-level, :material-dice-d6: 4d6 at 11th-level, and :material-dice-d6: 5d6 at 16th-level
+| :dnd-rsc-action:**Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :material-vector-line:line | :material-shield: DEX Save (half damage on success) | :material-dice-d6: 2d6 :dnd-damage-lightning:Lightning |
 
 ### Damage Resistance
 
@@ -52,9 +67,7 @@ Once per Short-rest, you can use an :dnd-rsc-action:**Action** to exhale destruc
 ##### Breath Weapon Table
 | **COST** | **RANGE/AoE** | **ATTACK/SAVE** | **DAMAGE/EFFECT** |
 |:---:|:---:|:---:|:---:|
-| :dnd-rsc-action:**Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :material-vector-line:line | :material-shield: DEX Save (Target still take half damage on success) | :material-dice-d6: 2d6 :dnd-damage-poison:Poison |
-
-**At Higher Level.** The damage of your Breath Weapon increases at higher character level; :material-dice-d6: 3d6 at 6th-level, :material-dice-d6: 4d6 at 11th-level, and :material-dice-d6: 5d6 at 16th-level
+| :dnd-rsc-action:**Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :material-vector-line:line | :material-shield: CON Save (half damage on success) | :material-dice-d6: 2d6 :dnd-damage-poison:Poison |
 
 ### Damage Resistance
 
@@ -71,9 +84,7 @@ Once per Short-rest, you can use an :dnd-rsc-action:**Action** to exhale destruc
 ##### Breath Weapon Table
 | **COST** | **RANGE/AoE** | **ATTACK/SAVE** | **DAMAGE/EFFECT** |
 |:---:|:---:|:---:|:---:|
-| :dnd-rsc-action:**Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :material-vector-line:line | :material-shield: DEX Save (Target still take half damage on success) | :material-dice-d6: 2d6 :dnd-damage-cold:Cold |
-
-**At Higher Level.** The damage of your Breath Weapon increases at higher character level; :material-dice-d6: 3d6 at 6th-level, :material-dice-d6: 4d6 at 11th-level, and :material-dice-d6: 5d6 at 16th-level
+| :dnd-rsc-action:**Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :material-vector-line:line | :material-shield: CON Save (half damage on success) | :material-dice-d6: 2d6 :dnd-damage-cold:Cold |
 
 ### Damage Resistance
 
@@ -90,9 +101,7 @@ Once per Short-rest, you can use an :dnd-rsc-action:**Action** to exhale destruc
 ##### Breath Weapon Table
 | **COST** | **RANGE/AoE** | **ATTACK/SAVE** | **DAMAGE/EFFECT** |
 |:---:|:---:|:---:|:---:|
-| :dnd-rsc-action:**Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :material-vector-line:line | :material-shield: DEX Save (Target still take half damage on success) | :material-dice-d6: 2d6 :dnd-damage-fore:Fire |
-
-**At Higher Level.** The damage of your Breath Weapon increases at higher character level; :material-dice-d6: 3d6 at 6th-level, :material-dice-d6: 4d6 at 11th-level, and :material-dice-d6: 5d6 at 16th-level
+| :dnd-rsc-action:**Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :material-vector-line:line | :material-shield: DEX Save (half damage on success) | :material-dice-d6: 2d6 :dnd-damage-fore:Fire |
 
 ### Damage Resistance
 
