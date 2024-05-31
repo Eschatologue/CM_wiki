@@ -1,6 +1,6 @@
 *Once a revered race, the elves commanded respect across Antares. Yet, they fell from grace, losing their ancient forest, their ties to the tree of life, their long lifespan, and their homeland. Now relegated to the frozen north, they strive to prevent history from repeating itself.*
 
-## Dwarf Traits
+## Elf Traits
 
 ### :material-arrow-up-bold-box: Ability Score Improvement
 One of your ability score increases by 2, and one of your ability score increases by 1.
@@ -61,7 +61,6 @@ You gain access to the following Spells:
 You can cast each spells granted by this trait of 1st-level or higher without expending a spell slot once per long-rest. Charisma is your spellcasting ability for these spells.
 
 ### :material-sword-cross: Drow Weapon Training 
-
 You have proficiency with rapiers, shortswords, and hand crossbows.
 
 ### :material-translate: Languages
@@ -69,6 +68,7 @@ You learn an additional language; *Undercommon*
 
 ## High Elf
 > Once heirs to the Ancient Forest, high elves are masters of spellcraft and naturally talented wordsmiths. Though your people's misdeeds in the past and the severed connections between your race and the Tree of Life may not have been your fault, it is an original sin that you must carry, whether you want to or not. 
+
 > Outside of your own race, looks of contempt, hatred, and extreme prejudice are the norm for you. The world is not kind to anyone, especially you.
 
 ### :fontawesome-solid-hand-sparkles: Cantrip 
@@ -85,6 +85,7 @@ You learn *one* additional language of your choice.
 
 ## Wood Elf
 > Your kind once tended to the beautiful and lush Ancient Forest. Your once slender hands are now covered in soot and calloused from tending to the Generator, the only thing keeping you and your people from being buried under the snow of the harsh northern waste.
+
 > Centuries of training and natural talent in archery and camouflage in the forest have proven to be suprisingly useful skills in Arctic environment.
 
 ### :dnd-stat-speed: Fleet of Foot 
