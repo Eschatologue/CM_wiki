@@ -9,7 +9,10 @@ Your Strength score increases by 2, and your Charisma score increases by1.
 Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80.
 
 ### :material-cards-playing-club: Feat
-You gain one :material-cards-playing-club: **1st-level Feat** of your choice and one :material-cards-playing-club-multiple: **4th-level Feat** of your choice. 
+You gain one :material-cards-playing-club: **1st-level Feat** of your choice and one :material-cards-playing-club-multiple: **4th-level Feat** of your choice.
+
+### :material-translate: Languages
+You can speak, read, and write *Common* and *Draconic*.
 
 ### :material-move-resize-variant: Size & Type
 - **Creature Size.** Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is **Medium**
@@ -22,22 +25,16 @@ You are considered to have *Standard* Speed; which is 30 ft.
 
 You are distantly related to a particular kind of Aeginae. Each ancestry provides a damage resistance and a Breath Weapon, which shares the same range and area of effects but different element and saving throws, all breath weapon also increases in damage at certain levels.
 
-### Breath Weapon Mechanics
+#### Breath Weapon Mechanics
 
-#### Saving Throws
-The saving throw for your Breath Weapon is calculated as:
-``` title="Breath Weapon DC"
-8 + Constitution Modifier + Proficiency Bonus
-```
-#### Breath Weapon Damage
+##### Saving Throws
+The saving throw for your Breath Weapon is calculated as `8 + Constitution Modifier + Proficiency Bonus`
+
+##### Breath Weapon Damage
 The damage of your Breath Weapon increases with your character level:
 - **6th-level:** :material-dice-d6: 3d6
 - **11th-level:** :material-dice-d6: 4d6
 - **16th-level:** :material-dice-d6: 5d6
-
-#### Breath Weapon Usage
-- **Usage:** Once per short-rest, as an :dnd-rsc-action:**Action**.
-- **Range:** Self/15 ft.:material-cone:cone or 5 by 30 ft. :material-vector-line:line
 
 ## Aerothurge Ancestry
 
