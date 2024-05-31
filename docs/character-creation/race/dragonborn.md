@@ -6,39 +6,45 @@
 | :-: | :-: | :-: | :-: | :-: |
 | STR +2; CHA +1 | Medium | 30 ft. | Common; Draconic | One 1st-level Feat |
 
-- **Age** 
+### :material-arrow-up-bold-box: Ability Score Improvement
+Your Strength score increases by 2, and your Charisma score increases by1.
 
-    Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80.
+### :material-rotate-right: Age
+Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80.
 
-- **Creature Type** 
+### :material-cards-playing-club: Feat
+You gain one :material-cards-playing-club: **1st-level Feat** of your choice and one :material-cards-playing-club-multiple: **4th-level Feat** of your choice. 
 
-    You are a Humanoid. You are also considered an dragonborn for any prerequisite or effect that requires you to be a dragonborn.
+### :material-move-resize-variant: Size & Type
+- **Creature Size.** Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is **Medium**
+- **Creature Type.** You are a :material-human-child:**Humanoid**. You are also considered a dragonborn for any prerequisite or effect that requires you to be a dragonborn
 
-- **Size** 
+### :dnd-stat-speed: Speed.
+You are considered to have *Standard* Speedm which is 30 ft.
 
-    Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds/115 kilogramme. Your size is **Medium*
-
-## Sub-race Traits: Draconic Ancestry
+### Sub-race Traits: Draconic Ancestry
 
 You are distantly related to a particular kind of Aeginae. Choose one Ancestry from the following options:
 
+#### Aerothurge Ancestry
 
-=== "**Aerothurge Dragonborn**"
+You share traits to an Aeginae who used to rule the skies.
 
-    You share traits to an Aeginae who used to rule the skies.
+- **Draconic Ancestry** 
 
-    - **Draconic Ancestry** 
-    
-        The blood of ancient dragons flow through your veins. You have resistance to :material-lightning-bolt:Lightning damage.
+The blood of ancient dragons flow through your veins. You have resistance to :dnd-damage-lightning: Lightning damage.
 
-    - **Breath Weapon:** :material-lightning-bolt:Lightning
+- **Breath Weapon:** :material-lightning-bolt:Lightning
 
-        You can use an :material-circle: **Action** to exhale destructive energy. 
+You can use an :dnd-rsc-action:**Action** to exhale destructive energy. 
 
-        - :material-bullseye-arrow:**Damage:** :material-dice-d6:2d6:material-lightning-bolt:Lightning damage (:material-dice-d6:3d6 at 6th-level; :material-dice-d6:4d6 at 11th-level; :material-dice-d6:5d6 at 16th-level).
-        - :material-vector-line:**Range:** Self
-        - :material-radius-outline:**Area of Effect:** 15 ft.:material-cone:cone or 30 ft. by 5 ft.:material-vector-line:line (choose when you take this action)
-            - :material-shield:DEX Save (DC 8 + Constitution modifier + Proficiency Modifier) (On Save: Target still takes half damage).
+- :material-bullseye-arrow:**Damage:** :material-dice-d6:2d6:material-lightning-bolt:Lightning damage (:material-dice-d6:3d6 at 6th-level; :material-dice-d6:4d6 at 11th-level; :material-dice-d6:5d6 at 16th-level).
+- :material-vector-line:**Range:** Self
+- :material-radius-outline:**Area of Effect:** 15 ft.:material-cone:cone or 30 ft. by 5 ft.:material-vector-line:line (choose when you take this action)
+- :material-shield:DEX Save (DC 8 + Constitution modifier + Proficiency Modifier) (On Save: Target still takes half damage).
+
+
+---
 
 === "**Earthborne Dragonborn**"
 
