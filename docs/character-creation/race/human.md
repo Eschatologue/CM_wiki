@@ -22,51 +22,10 @@ In Antares, though humans may differ in looks, stature, skin color, and other at
 
 The most common human lineage found in Antares, can be found from the tallest peak of Mykrrheim's mountain ranges to the deepest pit of the Underdark.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;margin:0px auto;}
-.tg td{background-color:#fff;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
-border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;
-word-break:normal;}
-.tg th{background-color:#f0f0f0;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
-border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;
-padding:10px 5px;word-break:normal;}
-.tg .tg-wp8o{border-color:#000000;text-align:center;vertical-align:top}
-.tg .tg-1sny{border-color:#000000;font-weight:bold;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;
-vertical-align:top;will-change:transform}
-.tg .tg-mqa1{border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 1028px"><colgroup>
-<col style="width: 121.75px">
-<col style="width: 226.75px">
-<col style="width: 421.75px">
-<col style="width: 257.75px">
-</colgroup>
-<thead>
-<tr>
-<th class="tg-1sny" colspan="4">PROFICIENCIES</th>
-</tr></thead>
-<tbody>
-<tr>
-<td class="tg-mqa1">ARMOUR</td>
-<td class="tg-mqa1">WEAPONS</td>
-<td class="tg-mqa1">TOOLS</td>
-<td class="tg-mqa1">SKILLS</td>
-</tr>
-<tr>
-<td class="tg-wp8o">Shields</td>
-<td class="tg-wp8o">Spear, Glaive, Pike, Halberd</td>
-<td class="tg-wp8o">+1 any Artisan Tools or +1 Gaming sets</td>
-<td class="tg-wp8o">+2 any</td>
-</tr>
-<tr>
-<td class="tg-73oq"></td>
-<td class="tg-73oq"></td>
-<td class="tg-73oq"></td>
-<td class="tg-73oq"></td>
-</tr>
-</tbody>
-</table>
+##### Proficiencies
+| :material-shield-plus: **ARMOUR** | :material-axe: **WEAPONS** | :material-wrench: **TOOLS** | :material-account-plus: **SKILLS** |:material-translate: **LANGUAGE** |
+|:---:|:---:|:---:|:---:|:---:|
+| Shields | Spear, Glaive, Pike, Halberd | +1 any Artisan Tools or +1 Gaming sets | +2 any | Common, +2 any (General)|
 
 :   #### :material-spear: Civil Militia
 :   You gain :dnd-stat-prof:Proficiency in spears, glaives, pikes, and halberds.
