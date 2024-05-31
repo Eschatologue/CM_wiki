@@ -1,15 +1,15 @@
 *A proud race, prioritizing clan loyalty and individual prowess above all else. Their ancestors endured servitude under the Aeginaes, acting as their executors, leading to their fear and ostracization by other races. Determined to maintain self-sufficiency, they refuse to be indebted to anyone, including once the Gods, and now, the Spires.*
 
-## Main Racial Traits
+## Dragonborn Traits
 
 ### :material-arrow-up-bold-box: Ability Score Improvement
-Your Strength score increases by 2, and your Charisma score increases by1.
+Your Strength score increases by 2, and your Charisma or Constitution score increases by 1 (your choice).
 
 ### :material-rotate-right: Age
 Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80.
 
 ### :material-cards-playing-club: Feat
-You gain one :material-cards-playing-club: **1st-level Feat** of your choice and one :material-cards-playing-club-multiple: **4th-level Feat** of your choice.
+You gain one :material-cards-playing-club: **1st-level Feat** of your choice.
 
 ### :material-translate: Languages
 You can speak, read, and write *Common* and *Draconic*.
@@ -98,7 +98,7 @@ Once per Short-rest, you can use an :dnd-rsc-action:**Action** to exhale destruc
 ##### Breath Weapon Table
 | **COST** | **RANGE/AoE** | **ATTACK/SAVE** | **DAMAGE/EFFECT** |
 |:---:|:---:|:---:|:---:|
-| :dnd-rsc-action:**Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :material-vector-line:line | :material-shield: DEX Save (half damage on success) | :material-dice-d6: 2d6 :dnd-damage-fore:Fire |
+| :dnd-rsc-action:**Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :material-vector-line:line | :material-shield: DEX Save (half damage on success) | :material-dice-d6: 2d6 :dnd-damage-fire:Fire |
 
 ### Damage Resistance
 

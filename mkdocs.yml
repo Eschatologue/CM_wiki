@@ -36,7 +36,7 @@ nav:
     - Race:
       - Human: character-creation/race/human.md
       - Dragonborn: character-creation/race/dragonborn.md
-    #   - Dwarf: character-creation/race/dwarf.md
+      - Dwarf: character-creation/race/dwarf.md
     #   - Elf: character-creation/race/elf.md
     #   - Gnome: character-creation/race/gnome.md
     #   - Half-elf: character-creation/race/half-elf.md
