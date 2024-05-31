@@ -41,13 +41,14 @@ You gain :dnd-stat-prof:**Proficiency** in Intelligence (History). You can add d
 ---
 
 ## Hill Dwarves
-Also called 'Gold Dwarves', known for their confidence and intuition. They has a keen interest in family values, ancient dwarven ritual, and fine craftsmanship. They are responsible of uniting all the fractured Dwarven clans under the single federation during the age of strife, though they rarely take credits of this.
+> Also called 'Gold Dwarves', known for their confidence and intuition. They has a keen interest in family values, ancient dwarven ritual, and fine craftsmanship. 
+> They are responsible of uniting all the fractured Dwarven clans under the single federation during the age of strife, though they rarely take credits of this.
 
 ### :material-arm-flex: Dwarven Toughness
 Your :material-heart-pulse:**Hit Point** maximum increases by 1, and it increases by 1 every time you gain a level.
 
 ## Mountain Dwarves
-Also known as 'Shield Dwarves', they are strong and hardy, accustomed to a difficult life in rugged terrain and probably on the tall side (for a dwarf). They have a very strong martial tradition, resulting in a majority of Mykrrheim's Fjallavörður are coming of dwarves from this subrace. 
+> Also known as 'Shield Dwarves', they are strong and hardy, accustomed to a difficult life in rugged terrain and probably on the tall side (for a dwarf). They have a very strong martial tradition, resulting in a majority of Mykrrheim's Fjallavörðurs originating from this subrace. 
 
 ### :material-shield-plus: Dwarven Armour Training
 You have proficiency with [Light Armour](../../equipment/armour/index.md#light-armor) and [Medium Armour](../../equipment/armour/index.md#medium-armor).
