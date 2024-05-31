@@ -3,7 +3,7 @@
 ## Dwarf Traits
 
 ### :material-arrow-up-bold-box: Ability Score Improvement
-Your Constitution score increases by 2.
+One of your ability score increases by 2, and one of your ability score increases by 1.
 
 ### :material-rotate-right: Age
 Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live about 350 years.
@@ -18,8 +18,8 @@ You can speak, read, and write *Common* and *Dwarvish*.
 - **Creature Size.** Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is **Medium**
 - **Creature Type.** You are a :material-human-child:**Humanoid**. You are also considered a dwarf for any prerequisite or effect that requires you to be a dwarf.
 
-### :dnd-stat-speed: Speed.
-You are considered to have *Slow* Speed; which is 25 ft. Your speed is not reduced by wearing heavy armor.
+### :dnd-stat-speed: Speed
+You are considered to have *Slow* speed; which is 25 ft. Your speed is not reduced by wearing [Heavy Armour](../../equipment/armour/index.md#heavy-armor).
 
 ### :material-eye: Darkvision
 Accustomed to life underground, you have superior vision in dark and dim conditions. 
@@ -27,7 +27,7 @@ Accustomed to life underground, you have superior vision in dark and dim conditi
 You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
 ### :material-shield-plus: Dwarven Resilience
-You have :dnd-d20-adv:**Advantage** on Saving Throws against :dnd-damage-poison:**Poison**, and you have resistance against :dnd-damage-poison:**Poison** damage.
+You have :dnd-d20-adv:**Advantage** on Saving Throws against :dnd-damage-poison:**Poison**, and you have [Resistance](../../gameplay/combat/damage-healing.md#resistance) against :dnd-damage-poison:**Poison** damage.
 
 ### :material-hammer: Dwarven Combat Training
 You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.
@@ -43,18 +43,12 @@ You gain :dnd-stat-prof:**Proficiency** in Intelligence (History). You can add d
 ## Hill Dwarves
 Also called 'Gold Dwarves', known for their confidence and intuition. They has a keen interest in family values, ancient dwarven ritual, and fine craftsmanship. They are responsible of uniting all the fractured Dwarven clans under the single federation during the age of strife, though they rarely take credits of this.
 
-### :material-arrow-up-bold-box: Ability Score Improvement
-Your Strength score increases by 2.
-
 ### :material-arm-flex: Dwarven Toughness
 Your :material-heart-pulse:**Hit Point** maximum increases by 1, and it increases by 1 every time you gain a level.
 
 ## Mountain Dwarves
 Also known as 'Shield Dwarves', they are strong and hardy, accustomed to a difficult life in rugged terrain and probably on the tall side (for a dwarf). They have a very strong martial tradition, resulting in a majority of Mykrrheim's Fjallavörður are coming of dwarves from this subrace. 
 
-### :material-arrow-up-bold-box: Ability Score Improvement
-Your Wisdom score increases by 1.
-
 ### :material-shield-plus: Dwarven Armour Training
-You have proficiency with Light Armour and Medium Armour.
+You have proficiency with [Light Armour](../../equipment/armour/index.md#light-armor) and [Medium Armour](../../equipment/armour/index.md#medium-armor).
 

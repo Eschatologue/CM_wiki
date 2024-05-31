@@ -3,7 +3,7 @@
 ## Dragonborn Traits
 
 ### :material-arrow-up-bold-box: Ability Score Improvement
-Your Strength score increases by 2, and your Charisma or Constitution score increases by 1 (your choice).
+One of your ability score increases by 2, and one of your ability score increases by 1.
 
 ### :material-rotate-right: Age
 Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80.
