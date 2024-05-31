@@ -34,9 +34,12 @@ You share traits to an Aeginae who used to rule the skies.
 
 You can use an :dnd-rsc-action:**Action** to exhale destructive energy.
 
-| **COST** | **RANGE/AREA** | **ATTACK/SAVE** | **DAMAGE/EFFECT** |
+##### Breath Weapon Table
+| **COST** | **RANGE/AoE** | **ATTACK/SAVE** | **DAMAGE/EFFECT** |
 |:---:|:---:|:---:|:---:|
-| :dnd-rsc-action:**Action** | Self(15 ft.:material-cone:cone or 5 by 30 ft. :material-vector-line:line) | :material-shield: DEX Save | :dnd-damage-lightning: Lightning |
+| :dnd-rsc-action:**Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :material-vector-line:line | :material-shield: DEX Save (Target still take half damage on success) | :material-dice-d6: 2d6 :dnd-damage-lightning:Lightning |
+
+**At Higher Level.** The damage of your Breath Weapon increases at higher character level; :material-dice-d6: 3d6 at 6th-level, :material-dice-d6: 4d6 at 11th-level, and :material-dice-d6: 5d6 at 16th-level
 
 ### Damage Resistance
 
