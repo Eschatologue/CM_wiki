@@ -25,6 +25,7 @@ nav:
   - Chartacter Creation:
     - Quickstart: character-creation/quickstart.md
     - Classes: character-creation/classes.md
+    - Race: character-creation/race/race.md
     - Ability Score: 
       - character-creation/ability-scores/index.md
       - Strength: character-creation/ability-scores/strength.md
@@ -33,16 +34,6 @@ nav:
       - Intelligence: character-creation/ability-scores/intelligence.md
       - Wisdom: character-creation/ability-scores/wisdom.md
       - Charisma: character-creation/ability-scores/charisma.md
-    - Race:
-      - Human: character-creation/race/human.md
-      - Dragonborn: character-creation/race/dragonborn.md
-      - Dwarf: character-creation/race/dwarf.md
-      - Elf: character-creation/race/elf.md
-    #   - Gnome: character-creation/race/gnome.md
-    #   - Half-elf: character-creation/race/half-elf.md
-    #   - Half-orc: character-creation/race/half-orc.md
-    #   - Halfling: character-creation/race/halfling.md
-    #   - Tiefling: character-creation/race/tiefling.md
     - Feats: 
       - character-creation/feat/index.md
       - Starting Feats: character-creation/feat/feat-starting.md
@@ -94,7 +85,6 @@ theme:
     - navigation.sections
     - navigation.tracking
     - navigation.indexes
-    - navigation.path
     - toc.follow
     - content.tooltips
     - admonition

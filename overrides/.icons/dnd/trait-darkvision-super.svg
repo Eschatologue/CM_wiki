@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="trait-darkvision-super.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="11.1875"
+     inkscape:cx="0"
+     inkscape:cy="12.022346"
+     inkscape:window-width="1360"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path1"
+     d="M 10.400391 4.609375 C 6.4506962 5.1450227 3.1237586 7.6339166 1.4140625 11.072266 L 7.5429688 9.7832031 A 5 5 0 0 1 9.7832031 7.5429688 L 10.400391 4.609375 z M 13.599609 4.609375 L 14.210938 7.5175781 A 5 5 0 0 1 16.482422 9.7890625 L 22.585938 11.072266 C 20.876242 7.6339166 17.549304 5.1450227 13.599609 4.609375 z M 1.4140625 12.927734 C 3.1237586 16.366084 6.4506962 18.854977 10.400391 19.390625 L 9.7832031 16.457031 A 5 5 0 0 1 7.5429688 14.216797 L 1.4140625 12.927734 z M 22.585938 12.927734 L 16.457031 14.216797 A 5 5 0 0 1 14.216797 16.457031 L 13.599609 19.390625 C 17.549304 18.854977 20.876242 16.366084 22.585938 12.927734 z " />
+  <path
+     sodipodi:type="star"
+     style="stroke-width:0.672902;paint-order:stroke markers fill"
+     id="path2-2-0"
+     inkscape:flatsided="false"
+     sodipodi:sides="4"
+     sodipodi:cx="10.234637"
+     sodipodi:cy="9.8770952"
+     sodipodi:r1="6.729023"
+     sodipodi:r2="1.6524801"
+     sodipodi:arg1="0"
+     sodipodi:arg2="0.78539816"
+     inkscape:rounded="-3.469447e-18"
+     inkscape:randomized="0"
+     d="M 16.96366,9.8770952 11.403117,11.045575 10.234637,16.606118 9.0661574,11.045575 3.5056143,9.8770952 9.0661574,8.7086153 10.234637,3.1480722 l 1.16848,5.5605431 z"
+     transform="matrix(1.4860998,0,0,1.4860998,-3.2096924,-2.6783492)" />
+</svg>
