@@ -7,7 +7,8 @@ All members of this race share the same main traits as follow:
 - **Size.** Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is **Medium**.
 - **Creature Type.** You are a :material-human-child:**Humanoid**. You are also considered a human for any prerequisite or effect that requires you to be a human.
 
-### :material-arrow-up-bold-box: Ability Scores
+:   ### :material-arrow-up-bold-box: Ability Scores
+
 Two different ability scores of your choice increase by 1.
 
 ### :dnd-stat-speed: Base Racial Speed
@@ -24,9 +25,7 @@ In Antares, though humans may differ in looks, stature, skin color, and other at
 
 The most common human lineage found in Antares, can be found from the tallest peak of Mykrrheim's mountain ranges to the deepest pit of the Underdark.
 
-
-
-#### :material-spear: Civil Mitia
+#### :material-spear: Civil Militia
 You gain :dnd-stat-prof:Proficiency in spears, glaives, pikes, and halberds.
 
 #### :dnd-stat-prof: Common Creativity
