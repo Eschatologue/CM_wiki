@@ -4,45 +4,41 @@ icon: material/account-box
 
 There are 9 playable races in Crown & Misery, each with unique subraces that further define a character's strengths and abilities. For more details, refer to the descriptions of each race on this page, as some races have been mechanically altered.
 
-Note that Crown & Misery uses slightly modified rules from the standard PHB and TCE. Most races receive a +2 and a +1 bonus to different ability scores (no single ability score can receive a +3). Humans are an exception, as they receive two feats at 1st level instead of the usual one.
+##### Race Table
+|  | **RACE SELECTIONS** |  |
+|:---:|:---:|:---:|
+| [Dragonborn] | [Dwarf] | [Elf] |
+| [Gnome] | [Half-elf] | [Half-orc] |
+| [Halfling] | [Human] | [Tiefling] |
 
-## Race Overview
+[dragonborn]: dragonborn.md
+[Dwarf]: dwarf.md
+[Half-elf]: half-elf.md
+[elf]: elf.md
+[Gnome]: gnome.md
+[half-orc]: half-orc.md
+[halfling]: halfling.md
+[human]: human.md
+[Tiefling]: tiefling.md
 
-### Dragonborn
+## Race Changes in Crown & Misery
 
-- Proud and honorable beings with a powerful draconic ancestry. Known for their strong sense of self-worth and dedication to their clans.
-- They possess a breath weapon and have resistance to a specific type of elemental damage.
+Crown & Misery introduces changes to the original races from the PHB and TCE to better fit the world settings. This is not an exhaustive list.
 
-### Dwarf
-- Sturdy and resilient, dwarves are renowned for their enduring physical and mental toughness. They have a rich tradition of craftsmanship, particularly in stone and metalwork.
-- Known for their strong constitution, resistance to poison, and proficiency with axes and hammers.
+### Lore
+Some races' lore has been slightly altered in Crown & Misery. For example, while elves traditionally live in forests, in this world, they "used to." Feel free to ask the DM for more details regarding the lore behind the races for reference when creating your backgrounds.
 
-### Elf
-- Graceful and perceptive, elves are deeply connected to nature and magic. They are often seen as wise and mysterious, with a long lifespan allowing them to accumulate vast knowledge.
-- They have superior senses, proficiency with certain weapons, and an inherent resistance to being charmed.
+### Ability Scores
+Crown & Misery follows a method similar to Baldur's Gate 3 for handling Ability Scores. Instead of each race having predetermined Ability Scores, all races (except humans) receive a +2 to any ability score and a +1 to any other score for flexibility. Races with innate spellcasting still have restrictions on their spellcasting ability, usually Charisma.
 
-### Gnome
-- Curious and inventive, gnomes have a natural talent for tinkering and illusion. They are lively and enthusiastic, often seen as the creators of clever devices and magical items.
-- Small in size, they possess darkvision, intelligence-based abilities, and a strong affinity for illusions and enchantments.
+### Free Feats
+Following OneD&D's new rulings, each race is granted a free 1st-level feat. Restrictions such as minimum ability scores and racial prerequisites still apply. Humans receive two feats: one 1st-level feat and one 4th-level feat, providing them with greater flexibility.
 
-### Half-Elf
-- Versatile and charismatic, half-elves blend the best traits of elves and humans. They are adaptable and often find themselves acting as mediators between the two races.
-- They gain skill versatility, resistance to charm, and a balance of elven grace and human ambition.
+### Innate Expertise
+Some races allow you to apply double your proficiency bonus on checks in highly specific situations. These have been slightly altered, either by simplifying the situations or by granting the associated proficiencies directly.
 
-### Half-Orc
-- Fierce and powerful, half-orcs are natural warriors with a strong inclination for combat. They possess a rugged endurance and a determination that drives them to succeed.
-- They benefit from strength and constitution bonuses, relentless endurance, and savage attacks.
+### Dragonborn's Breath Weapon
+In the PHB, Dragonborn have a myriad of ancestry options. In Crown & Misery, this has been restricted to a few, but now Dragonborn can choose the area of effect for their breath weapon (cone or line) at will, instead of having these options restricted to specific ancestries.
 
-### Halfling
-- Lucky and brave, halflings are known for their cheerful demeanor and quick reflexes. They live simple lives, often filled with adventure and close-knit community bonds.
-- Small in size, they have a lucky trait, are nimble, and excel at moving stealthily.
-
-### Human
-- Highly adaptable and ambitious, humans are the most versatile of all races. Their ability to learn and grow makes them capable in any role.
-- Humans receive both a 1st-level feat and a 4th-level feat at level 1. This makes humans exceptionally powerful and flexible, allowing for a wide range of character customization from the very start.
-
-### Tiefling
-- Mysterious and charismatic, tieflings bear the mark of a fiendish heritage. They are often misunderstood but possess a natural charm and strong will.
-- They have darkvision, resistance to fire, and innate spellcasting abilities, often related to their infernal ancestry.
-
-
+### Sunlight Sensitivity
+Sunlight Sensitivity has been removed. The night is lethal in Antares, and it would be an inconvenience in most situations. However, feel free to roleplay your Drow character wearing sunglasses and using sunscreen at all times.

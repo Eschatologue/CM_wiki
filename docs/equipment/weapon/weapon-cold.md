@@ -1,5 +1,5 @@
 ---
-icon: material/sword
+icon: dnd/weapon-pike
 ---
 
 [Cold weapons](https://en.wikipedia.org/wiki/Cold_weapon) encompasses all non-firearm melee and ranged weapons. They are the most common types of weapons you can find while adventuring, whether they are sold, given, wielded, or issued to most adventurers or armies within Antares.

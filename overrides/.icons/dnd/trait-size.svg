@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="trait-size.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.569357,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.62948731,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.569357,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.94776536,0,1 @ F,0,0,1,0,0.94776536,0,1 @ F,0,0,1,0,0.94776536,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.5042305,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.0803073,0,1 @ F,0,0,1,0,1.0803073,0,1 @ F,0,0,1,0,1.0803073,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.5042305,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,1.1666202,0,1 @ F,0,1,1,0,1.1666202,0,1 @ F,0,1,1,0,1.1666202,0,1 @ F,0,1,1,0,1.1666202,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="11.1875"
+     inkscape:cx="20.379888"
+     inkscape:cy="14.793296"
+     inkscape:window-width="1360"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path1"
+     style="stroke-width:1"
+     d="M 6.7539062 0.75 A 1.5042305 1.5042305 0 0 0 5.25 2.2539062 L 5.25 12 L 1.8300781 12 A 1.0803073 1.0803073 0 0 0 0.75 13.080078 L 0.75 22.169922 A 1.0803073 1.0803073 0 0 0 1.8300781 23.25 L 10.919922 23.25 A 1.0803073 1.0803073 0 0 0 12 22.169922 L 12 18.75 L 21.746094 18.75 A 1.5042305 1.5042305 0 0 0 23.25 17.246094 L 23.25 0.75 L 6.7539062 0.75 z M 8.4472656 3 L 20.052734 3 A 0.94776536 0.94776536 0 0 1 21 3.9472656 L 21 15.552734 A 0.94776536 0.94776536 0 0 1 20.052734 16.5 L 12 16.5 L 12 14.611328 L 16.5 10.109375 L 16.5 13.125 L 18.75 13.125 L 18.75 5.8789062 A 0.62948731 0.62948731 0 0 0 18.121094 5.25 L 10.875 5.25 L 10.875 7.5 L 13.890625 7.5 L 9.3886719 12 L 7.5 12 L 7.5 3.9472656 A 0.94776536 0.94776536 0 0 1 8.4472656 3 z M 4.1660156 14.25 L 8.5839844 14.25 A 1.1666202 1.1666202 0 0 1 9.75 15.416016 L 9.75 19.833984 A 1.1666202 1.1666202 0 0 1 8.5839844 21 L 4.1660156 21 A 1.1666202 1.1666202 0 0 1 3 19.833984 L 3 15.416016 A 1.1666202 1.1666202 0 0 1 4.1660156 14.25 z " />
+</svg>

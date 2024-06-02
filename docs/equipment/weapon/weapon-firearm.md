@@ -1,5 +1,5 @@
 ---
-icon: material/bomb
+icon: dnd/weapon-rifle
 ---
 
 ## Introduction
