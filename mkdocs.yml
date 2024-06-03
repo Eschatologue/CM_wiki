@@ -26,6 +26,7 @@ nav:
     - Quickstart: character-creation/quickstart.md
     - Classes: character-creation/classes.md
     - Race: character-creation/race/race.md
+    - Languages: character-creation/languages.md
     - Ability Score: 
       - character-creation/ability-scores/index.md
       - Strength: character-creation/ability-scores/strength.md
