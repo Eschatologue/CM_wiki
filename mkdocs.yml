@@ -8,6 +8,10 @@ nav:
     - lore/index.md
     - Geography and Geopolitics: lore/geography.md
     - Life in Antares: lore/life.md
+    - The Warp:
+      - lore/warp/index.md
+      - Warp Storm: lore/warp/warp-storm.md
+      - Warp Entities: lore/warp/warp-entities.md
   - Gameplay:
     - Dice Rolls: gameplay/dice-rolls.md
     - Resources: gameplay/resources.md
