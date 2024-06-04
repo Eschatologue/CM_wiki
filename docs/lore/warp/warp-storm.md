@@ -11,9 +11,11 @@ Despite the potential for inaccuracies, the initial disaster caused by a Warp St
 
 Inaccuracies in storm prediction do happen from time to time, leading to false alarms that can cause the populace to riot. For example, in Gallia, an entire institution was beheaded for such a mistake, a decision from which the nation never recovered.
 
-## [WIP] Warp Maelstorm
-Not to be confused by regular Warp Storms, Warp Maelstorms are basically Warp Storms at a scale far more significant than regular Storms, they happen only once in several centuries though the damage they do can be felt for much longer and their significance are even marked in Antares calendar system as 'AT' or 'Après la Tempête' or After the Storm to mark years after such catasthrope. 
+## Warp Maelstorm
 
-To say the Maelstorm was a tragedy would be an understatement, as it is a literal extinction event that fractured the continent and almost caused an actual extinction. There is much debate on how many Warp Maelstorm occurs accross antares history, but the current research theorized there is already a first one that erased Antares precursors civlisation and the second one which where the current story takes place.
+Not to be confused with regular Warp Storms, Warp Maelstorms are cataclysmic events on a far grander scale. They occur only once every several centuries, yet their devastating effects linger for much longer, with their significance even marked in the Antares calendar system as 'AT' or 'Après la Tempête,' meaning 'After the Storm,' to denote years following such catastrophes.
+
+To call the Maelstorm a tragedy is a gross understatement. It is a literal extinction event that fractured the continent and nearly caused the annihilation of all life. There is considerable debate about the number of Warp Maelstorms throughout Antares' history, but current research theorizes that there has been at least one previous Maelstorm that erased Antares' precursor civilization and a second one, marking the era in which the current story takes place.
+
 
 

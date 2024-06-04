@@ -3,7 +3,7 @@
 Celestial is a language of mysterious origin, notorious for its more-than-lethal effects on those who attempt to interpret its meaning. Unlike Primordial, which merely confounds its readers due to its complex writing system, Celestial poses a direct threat to both mind and body.
 
 ## Details
-> "We once encountered this volatile language in the Heavens. These blasted letters slaughtered many of our people. We escaped here to this cursed continent to flee their influence, and here we are—out of the frying pan into the bloody fire!" - A London Scholar
+> *"We once encountered this volatile language back in the Heavens. These blasted gibberish slaughtered many of our people. We escaped here to this cursed continent to flee their influence, and here we are—out of the frying pan into the bloody fire!"* - A London General
 
 Celestial has a unique form of writing, it consists of complex sigils and pictograms. These symbols are infamous for their dangerous effects on both body and mind. Due to their high flammability, Celestial is often written on steel plates for study, though it can also be chiseled into stone tablets or other flame-retardant materials. 
 
@@ -15,7 +15,7 @@ Little knowledge exists and many rumors surround Celestial. Few dare to study it
 
 ## Studying Celestial
 
-> "What does 'Out of all, one must pay the price' mean? What price?? I'm not paying taxes to whoever wrote these things! Oh [redacted]! The paper! It's burning!!!" - An Elven Scholar
+> *"What does 'Out of all, one must pay the price' mean? What price?? I'm not paying taxes to whoever wrote these things! Oh [elven curse words]!! The paper!! It's burning!!!" - An Elven Scholar*
 
 In every part of the world, there are those who are clever, foolish, or perhaps both, willing to study Celestial! Each nation calls them by different names: Scholars of Correspondence in London, Psykers in Mykrrheim and Valinor, Blemished Ones in Gallia, and Heretics in Soterrano. Despite their different titles, these scholars share a common fate: they tend to randomly combust after studying the language.
 
@@ -25,14 +25,16 @@ Nonetheless, unsurprisingly, studying Celestial can be difficult even for those 
 
 One notable invention by London scholars is a device called the "Tinted Glass." Made from classified materials and etched with Celestial sigils, this glass allows for the reading of Celestial with significantly reduced side effects. However, prolonged exposure and speaking the language still carry the same perilous effects.
 
-## [WIP] Spellings and Grammar
+## Spellings and Grammar
 
-Celestial is still a language, it still abide the same rules; it has spelling, grammar, and a structure. But the rules are shaky at best, it is a jumbled mess and hard to understand, likely it will drive ones mad before they understand it.
+> *"What do you MEAN they are different when rotated????. Our Snobby aristocrats has more rules than whatever these things are!" -- Gallian's Blemished Ones*
 
-Certain sigils or 'letter' in celestial are quite well known and often appears within a many ruins, while some is only seen once and never again, and some sigils are sily scribbles and poor imitation of the language. There is a surefire method however to determine how long or how significant or the importance of a sigil is based on how much they sear the surface they written on or how fast it is to make the interpreter go lose its mind. 
+Celestial is still a language, following its own set of rules for spelling, grammar, and structure. However, these rules are shaky at best, forming a jumbled mess that is hard to understand and likely to drive one mad before comprehension is achieved.
 
-Sigils aren't like letters in Common language, or Dwarvish, where many letters forms a coherent sentence, instead they has simmilar style of which of a Tianming writing sysytem, where each character or one character has their own meaning, sometimes a word, sometimes an entire sentence. Even more confusing are though the sigil is the same, they can have different meaning depending on the orientation of the sigil.
+Certain sigils or 'letters' in Celestial are well known and often appear within many ruins, while others are seen only once and never again. Some sigils are merely scribbles and poor imitations of the language. A surefire method to determine the significance or importance of a sigil is based on how much they sear the surface they are written on or how quickly they drive the interpreter insane.
 
-Furthermore sentences of Celestial sigils can somtimes be hard to define; just because they are newr to one another can sometimes means they are unrelated to one another, and a sentence can span multiple miles long abd be spaced apart. However, only a maximum of four sigils can be written safetly on a single surface, five sigils immediately burst into flames and destroy the surface, six spontenausly explodes, and seven if somehow possible cause an even bigger explosion.
+Sigils in Celestial are not like letters in Common or Dwarvish, where many letters form a coherent sentence. Instead, they resemble the Tianming writing system, where each character has its own meaning—sometimes a word, sometimes an entire sentence. Even more confusing is that the same sigil can have different meanings depending on its orientation.
+
+Furthermore, sentences composed of Celestial sigils can be hard to define. Just because they are near one another does not always mean they are related. A single sentence can span multiple miles and be spaced far apart. However, only a maximum of four sigils can be written safely on a single surface; five sigils will immediately burst into flames and destroy the surface, six sigils will spontaneously explode, and seven sigils, if somehow possible, will cause an even bigger explosion.
 
 

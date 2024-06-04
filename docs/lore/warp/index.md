@@ -1,8 +1,8 @@
 # The Warp
 
-> "We thought these tea addicts were the invaders, but at the very least they can be reasoned with! These fancy rock creatures will just straight up cleave your beards!" -- A Dwarven Mountain Ranger
+> *"We thought these tea addicts were the invaders, but at the very least they can be reasoned with! These fancy rock creatures will just straight up cleave your beards!"* -- A Dwarven Mountain Ranger
 
-The Warp is an malevolent force that occurs in Antares, producing a myriad of dangerous phenomena and entities. It is both a natural occurrence and an otherworldly influence, manifesting in ways that defy logic and reason. Though it can be categorized as a faction, its ultimate purpose remains shrouded in mystery. Judging by the devastation it has wrought, it appears intent on driving the inhabitants of Antares to extinction.
+The Warp is a malevolent force that occurs in Antares, producing a myriad of dangerous phenomena and entities. It is both a natural occurrence and an otherworldly influence, manifesting in ways that defy logic and reason. Though it can be categorized as a faction, its ultimate purpose remains shrouded in mystery. Judging by the devastation it has wrought, it appears intent on driving the inhabitants of Antares to extinction.
 
 The Warp is the source of many crises faced by all nations in Antares. It is a violent, unyielding force that cannot be negotiated with, its influence stretching across the wilderness. Some even call it the manifestation of the Nine Hells, though even those infernal realms have been consumed by The Warp at some point in history. It is an all-consuming entity, a sentient living black hole, preying upon all life within the continent.
 
