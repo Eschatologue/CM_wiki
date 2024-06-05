@@ -7,28 +7,19 @@
 .md-typeset__table table:not([class]) {
     display: table
   }
-
 /* Table Width */
 .md-typeset__table {
     width: 100%;
-  }
-
-/* Heading Size */
-h2.doc-heading {
-    font-size: 1.5rem;
-}
-h3.doc-heading {
-    font-size: 1.4rem;
-}
-h4.doc-heading {
-    font-size: 1.35rem;
-}
-h5.doc-heading {
-    font-size: 1.2rem;
-    margin-bottom: 200px;
 }
 
-/* Maximum space for text block */
+/* Changes for h4, used as a title beginning for complex parts */
+.md-typeset h4 {
+    font-size: 0.88rem;
+    margin-bottom: -0.80em;
+    font-weight: normal;
+}
+
+/* Space for text block */
 .md-grid {
     max-width: 85%; /* or 100%, if you want to stretch to full-width */
 }
@@ -40,9 +31,22 @@ h5.doc-heading {
     margin-bottom: -0.25em;
 }
 
+/* Code Blocks*/
+/** Inline Blocks */
+.md-typeset code {
+    padding: 0.25em;
+    padding-left: 0.4em; 
+    padding-right: 0.4em;
+    font-weight: normal;
+}
+
 /* Tool Tips */
 [role=tooltip]>.md-tooltip2__inner {
-    font-size: 0.75rem;
+    padding: 0.45em;
+    padding-left: 1.25em; 
+    padding-right: 1.25em;
+    max-width: 35rem;
+    font-size: 0.7rem;
     font-weight: normal;
 }
 /* Admonition: Dice Roll*/
@@ -66,7 +70,6 @@ h5.doc-heading {
   }
 
 /* Admonition: Homebrew*/
-
 :root {
     --md-admonition-icon--homebrew: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 3h18v2c-1.1 0-2 .9-2 2v12c0 1.1-.9 2-2 2H7c-1.1 0-2-.9-2-2V7c0-1.1-.9-2-2-2V3m4 6v1h3V9H7m0 2v1h3v-1H7m3 5v-1H7v1h3m2-2v-1H7v1h5m0-6V7H7v1h5m9 5V7h2v6h-2m0 4v-2h2v2h-2Z"/></svg>')
   }

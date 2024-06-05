@@ -26,16 +26,13 @@
 :dnd-stat-lang:{ .lg .middle } **Languages**  
 &ensp;&ensp;&ensp; You can speak, read, and write *Common* and *Elvish*.
 
-:material-cards-playing-club:{ .lg .middle } **Feat**  
-&ensp;&ensp;&ensp; You gain one :material-cards-playing-club: *1st-level Feat* of your choice.
-
 ### Additional Traits
 
 :dnd-trait-darkvision:{ .lg .middle } **Darkvision**  
 &ensp;&ensp;&ensp; You can see in the dark up to 60 ft.
 
 :simple-paloaltonetworks:{ .lg .middle } **Fey Ancestry**  
-&ensp;&ensp;&ensp; You have :dnd-d20-adv:**Advantage** on :material-dice-d20:**Saving Throws** against being Charmed and magic can't put you to Sleep and you can easily identify whenever an elf is wood elf, high elf, or a drow just by looking at it. Except when they hide themselves through magical means.
+&ensp;&ensp;&ensp; You have :d20-adv:**Advantage** on :material-dice-d20:**Saving Throws** against being Charmed and magic can't put you to Sleep and you can easily identify whenever an elf is wood elf, high elf, or a drow just by looking at it. Except when they hide themselves through magical means.
 
 :material-wrench:{ .lg .middle } **Keen Sense**  
 &ensp;&ensp;&ensp; You have :dnd-stat-prof:**Proficiency** in the Wisdom (Perception) skill.

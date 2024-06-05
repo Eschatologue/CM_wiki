@@ -12,8 +12,6 @@
 :   You are considered to have *Standard* speed; which is 30 ft.
 #### :material-translate: Languages
 :   You can speak, read, and write *Common* and *Draconic*.
-#### :material-cards-playing-club: Feat
-:   You gain one :material-cards-playing-club: **1st-level Feat** of your choice.
 #### :dnd-damage-fire: Breath Weapon 
 
 You are distantly related to a particular kind of Aeginae. Each ancestry provides a damage resistance and a Breath Weapon, which shares the same range and area of effects but different element and saving throws, all breath weapon also increases in damage at certain levels.

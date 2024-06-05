@@ -28,7 +28,7 @@
 ### Additional Traits
 
 :material-arrow-all:{ .lg .middle } **Human's Flexibility**  
-&ensp;&ensp;&ensp; You gain one :material-cards-playing-club:  **1st-level Feat** of your choice and one :material-cards-playing-club-multiple:  **4th-level Feat** of your choice. 
+&ensp;&ensp;&ensp; You gain one :material-cards-playing-club-multiple: **4th-level Feat** of your choice. 
 
 ---
 
@@ -95,4 +95,4 @@
 &ensp;&ensp;&ensp; You can add your :dnd-stat-prof:Proficiency bonus to Resolve Checks.
 
 :material-arm-flex-outline:{ .lg .middle } **Inferior Athleticism**  
-&ensp;&ensp;&ensp; You have :dnd-d20-disadv:Disadvantage on contested Strength **Ability Checks** & :dnd-d20-save:**Saving Throws** against creatures other than Humans of this lineage.
+&ensp;&ensp;&ensp; You have :d20-disadv:Disadvantage on contested Strength **Ability Checks** & :d20-save:**Saving Throws** against creatures other than Humans of this lineage.

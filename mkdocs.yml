@@ -11,7 +11,7 @@ nav:
     - The Warp:
       - lore/warp/index.md
       - Warp Storm: lore/warp/warp-storm.md
-      - Warp Entities: lore/warp/warp-entities.md
+    - Pantheon: lore/pantheon.md
   - Gameplay:
     - Dice Rolls: gameplay/dice-rolls.md
     - Resources: gameplay/resources.md
@@ -117,7 +117,8 @@ theme:
         name: Switch to system preference
   font:
     code: Fira Code
-    text: Frank Ruhl Libre
+    text: Roboto Slab
+ #   text: Frank Ruhl Libre
   icon: 
     logo: fontawesome/solid/dice-d20
     annotation: material/timeline-question

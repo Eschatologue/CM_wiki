@@ -25,19 +25,16 @@
 :dnd-stat-lang:{ .lg .middle } **Languages**  
 &ensp;&ensp;&ensp; You can speak, read, and write *Common* and *Halfling*.
 
-:material-cards-playing-club:{ .lg .middle } **Feat**  
-&ensp;&ensp;&ensp; You gain one :material-cards-playing-club: **1st-level Feat** of your choice.
-
 ### Additional Traits
 
 **Brave**  
-&ensp;&ensp;&ensp; You have advantage on :dnd-d20-save: **Saving Throws** against being frightened.
+&ensp;&ensp;&ensp; You have advantage on :d20-save: **Saving Throws** against being frightened.
 
 **Halfling Nimbleness**  
 &ensp;&ensp;&ensp;  You can move through the space of any creature that is of a size larger than yours.
 
 **Lucky**  
-&ensp;&ensp;&ensp;  When you roll a 1 on an :material-target: **Attack Roll**, :dnd-dice-d20: **Ability Check**, or :dnd-d20-save: **Saving Throws**, you can reroll the die and must use the new roll.
+&ensp;&ensp;&ensp;  When you roll a 1 on an :material-target: **Attack Roll**, :dnd-dice-d20: **Ability Check**, or :d20-save: **Saving Throws**, you can reroll the die and must use the new roll.
 
 ---
 
@@ -53,13 +50,13 @@
 ### Lightfoot
 
 **Naturally Stealthy**  
-&ensp;&ensp;&ensp; Your nimble nature makes you skilled at concealment. You have :dnd-d20-adv:**Advantage** on :dnd-action-hide:Dexterity (Stealth) Checks.
+&ensp;&ensp;&ensp; Your nimble nature makes you skilled at concealment. You have :d20-adv:**Advantage** on :dnd-action-hide:Dexterity (Stealth) Checks.
 
 ---
 
 ### Strongheart
 
 **Resilience**  
-&ensp;&ensp;&ensp; You have :dnd-d20-adv:**Advantage** on :dnd-d20-save: **Saving Throws** against :dnd-damage-poison:**Poison**, and you have [Resistance](../../gameplay/combat/damage-healing.md#resistance) against :dnd-damage-poison:**Poison** damage.
+&ensp;&ensp;&ensp; You have :d20-adv:**Advantage** on :d20-save: **Saving Throws** against :dnd-damage-poison:**Poison**, and you have [Resistance](../../gameplay/combat/damage-healing.md#resistance) against :dnd-damage-poison:**Poison** damage.
 
 ---

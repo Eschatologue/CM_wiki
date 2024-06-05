@@ -42,7 +42,7 @@ The fierce spirit of the Vulture grants you the ability to move fast as the wind
 
 - **Spirit of the Vulture** 
 
-    While :fontawesome-solid-hand-fist:**Raging**, you can use a :dnd-rsc-bonus-action:**Bonus Action** to take the *Dash* action and opportunity attack against you has :dnd-d20-disadv:**Disadvantage**.
+    While :fontawesome-solid-hand-fist:**Raging**, you can use a :dnd-rsc-bonus-action:**Bonus Action** to take the *Dash* action and opportunity attack against you has :d20-disadv:**Disadvantage**.
 
 - **Precision Throw** 
     
@@ -58,7 +58,7 @@ The noble spirit of the Elk makes you extraordinarily swift.
 
 - **Mighty Charge** 
 
-    While :fontawesome-solid-hand-fist:**Raging**, you gain :dnd-d20-adv:**Advantage** on an attack made using Strength after moving at least 10 feet in a straight line, on hit your target must succeed a Strength :material-shield:Saving Throw, or it is knocked prone or is pushed 10 ft. (your choice). The DC is equals to 10 or half the damage you dealt on the attack, whichever is higher.
+    While :fontawesome-solid-hand-fist:**Raging**, you gain :d20-adv:**Advantage** on an attack made using Strength after moving at least 10 feet in a straight line, on hit your target must succeed a Strength :material-shield:Saving Throw, or it is knocked prone or is pushed 10 ft. (your choice). The DC is equals to 10 or half the damage you dealt on the attack, whichever is higher.
 
 ### Totemic Spirit: Elephant
 

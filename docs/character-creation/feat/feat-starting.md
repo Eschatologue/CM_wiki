@@ -2,18 +2,11 @@
 icon: material/cards-playing-spade
 ---
 
-# Starting Feats
-
-The feats listed below are available on 1st-level and usually given for free by racial feature.
-
-## Feat Descriptions
-
-### Acrobat
+#### Acrobat
 
 *1st-level Feat*
 
-**Prerequisites:** Dexterity 13+ or Dexterity (Acrobatics) proficiency
-
+**Prerequisites:** Dexterity 13+ or Dexterity (Acrobatics) proficiency  
 **Repeatable:** No
 
 You become more nimble, gaining the following benefits:
@@ -26,12 +19,13 @@ You become more nimble, gaining the following benefits:
 
     As a part of your movement on your turn, you can make a contested Dexterity (Acrobatics) check against a creature. If you succeed, you can move through the space of that creature so without expending any movement of your own until the end of your turn. The creature can willingly fail this check. You cannot end your turn in that creature’s space.
 
-### Actor
+---
+
+#### Actor
 
 *1st-level Feat*
 
-**Prerequisites:** Charisma 13+ or Charisma (Perfomance) proficiency
-
+**Prerequisites:** Charisma 13+ or Charisma (Perfomance) proficiency  
 **Repeatable:** No
 
 You've learned how to act, performs, and copy others personality:
@@ -48,12 +42,13 @@ You've learned how to act, performs, and copy others personality:
 
     You can mimic the sounds of other creatures, including speech. To mimic a sound or a way of speaking, you must listen to it for at least 1 minute. Any time thereafter, you can make a DC 15 Charisma Check (Performance) to perform the mimicry; on a success, you perform it convincingly for up to 1 hour.
 
-### Advanced Alchemy
+---
+
+#### Advanced Alchemy
 
 *1st-level Feat*
 
-**Prerequisites:** Intelligence 13+
-
+**Prerequisites:** Intelligence 13+  
 **Repeatable:** No
 
 You have studied the secrets of alchemy and are an expert in its practice, gaining the following benefits:
@@ -72,12 +67,13 @@ You have studied the secrets of alchemy and are an expert in its practice, gaini
 
     If the potion is drunk no more than 1 hour after the short rest ends, the creature drinking the potion can forgo the potion’s die roll and regains the maximum number of hit points that the potion can restore.
 
-### Alert
+---
+
+#### Alert
 
 *1st-level Feat*
 
-**Prerequisites:** None
-
+**Prerequisites:** None  
 **Repeatable:** No
 
 Always on the lookout for danger, you gain the following benefits:
@@ -90,12 +86,13 @@ Always on the lookout for danger, you gain the following benefits:
 
     Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat. You can’t make this swap if you or the ally is Incapacitated.
 
-### Arcanist
+---
+
+#### Arcanist
 
 *1st-level Feat*
 
-**Prerequisites:** Spellcasting/Pact Magic feature or Intelligence (Arcana) proficiency
-
+**Prerequisites:** Spellcasting/Pact Magic feature or Intelligence (Arcana) proficiency  
 **Repeatable:** No
 
 You study the arcane arts, gaining the following benefits:
@@ -108,12 +105,13 @@ You study the arcane arts, gaining the following benefits:
 
     You learn the *prestidigitation* cantrip, *identify*, and *detect magic* spells. You can cast *identify* or *detect magic* once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
 
-### Armor Training
+---
+
+#### Armor Training
 
 *1st-level Feat*
 
-**Prerequisites:** Proficiency with any Martial Weapon or Light Armor proficiency
-
+**Prerequisites:** Proficiency with any Martial Weapon or Light Armor proficiency  
 **Repeatable:** Yes, if you are already proficient with medium armor when you select this feat, you gain Proficiency with heavy armor.
 
 You have trained to master the use of armor. 
@@ -122,13 +120,13 @@ You have trained to master the use of armor.
 
     You gain Proficiency with light armor. If you are already proficient with light armor when you select this talent, you gain Proficiency with medium armor and shields. 
 
-### Artificer Initiate
+---
+
+#### Artificer Initiate
 
 *1st-level Feat*
 
-**Prerequisites:** None
-
-**Repeatable:** No
+**Prerequisites:** None  **Repeatable:** No
 
 You've learned some of an artificer's inventiveness.
 
@@ -144,12 +142,13 @@ You've learned some of an artificer's inventiveness.
 
     You gain proficiency with one type of artisan's tools of your choice, and you can use that type of tool as a spellcasting focus for any spell you cast that uses Intelligence as its spellcasting ability.
 
-### Athlete
+---
+
+#### Athlete
 
 *1st-level Feat*
 
-**Prerequisites:** Strength, Dexterity, or Constitution 13+
-
+**Prerequisites:** Strength, Dexterity, or Constitution 13+  
 **Repeatable:** No
 
 - **Toned Body** 
@@ -164,12 +163,13 @@ You've learned some of an artificer's inventiveness.
 
     When you are Prone, you can right yourself with only 5 feet of movement.
 
-### Brew Master
+---
+
+#### Brew Master
 
 *1st-level Feat*
 
-**Prerequisites:** None
-
+**Prerequisites:** None  
 **Repeatable:** No
 
 The bar is your home, the countertop is your canvas, cocktails are your art
@@ -190,12 +190,13 @@ The bar is your home, the countertop is your canvas, cocktails are your art
     
     As part of a long rest, you can distill a beverage to yield a container of pure alcohol, which can be used for medicinal purposes (advantage on medicine checks) or as fuel for a fire (alchemist’s fire).
 
-### Burglar
+---
+
+#### Burglar
 
 *1st-level Feat*
 
-**Prerequisites:** None
-
+**Prerequisites:** None  
 **Repeatable:** No
 
 You pride yourself on your quickness and your close study of certain clandestine activities. You gain the following benefits:
@@ -212,12 +213,13 @@ You pride yourself on your quickness and your close study of certain clandestine
     
     Choose one of the following actions: Dash, Disengage, Hide or Use an Object. You can use the chosen action as a bonus action on each of your turns.
 
-### Carpenter
+---
+
+#### Carpenter
 
 *1st-level Feat*
 
-**Prerequisites:** None
-
+**Prerequisites:** None  
 **Repeatable:** No
 
 Your knowledge of wooden structures is widely applicable throughout your adventures. You gain the following benefits:
@@ -234,12 +236,13 @@ Your knowledge of wooden structures is widely applicable throughout your adventu
     
     With 1 minute of work and raw materials, you can create a wooden barrier no more than 10 feet in any dimension. The barrier has AC 10 and HP 25, is immune to poison and psychic damage, and is vulnerable to fire damage. The barrier collapses 8 hours after being assembled.
 
-### Chef
+---
+
+#### Chef
 
 *1st-level Feat*
 
-**Prerequisites:** None
-
+**Prerequisites:** None  
 **Repeatable:** No
 
 Time spent mastering the culinary arts has paid off, granting you the following benefits:
@@ -258,12 +261,13 @@ Time spent mastering the culinary arts has paid off, granting you the following 
 
 ~~We need to cook Bartrum~~
 
-### Crafter
+---
+
+#### Crafter
 
 *1st-level Feat*
 
-**Prerequisites:** None
-
+**Prerequisites:** None  
 **Repeatable:** No
 
 You are adept at crafting things and bargaining with merchants, granting you the following benefits:
@@ -280,12 +284,13 @@ You are adept at crafting things and bargaining with merchants, granting you the
     
     When you craft an item using a tool with which you have Tool Proficiency, the required crafting time is reduced by 20 percent
 
-### Edritch Adept
+---
+
+#### Edritch Adept
 
 *1st-level Feat*
 
-**Prerequisites:** Spellcasting/Pact Magic feature; Mage Group
-
+**Prerequisites:** Spellcasting/Pact Magic feature; Mage Group  
 **Repeatable:** Yes, choose a different invocations each time.
 
 You have studied occult lore and perhaps, forbidden knowledge.
@@ -300,12 +305,13 @@ Your spellcasting ability for the invocation is Intelligence, Wisdom, or Charism
     
     Whenever you gain a level, you can replace the invocation with another one from the warlock class.
 
-### Fighting Intiate
+---
+
+#### Fighting Intiate
 
 *1st-level Feat*
 
-**Prerequisites:** Proficiency with any Martial Weapon; Warrior Group
-
+**Prerequisites:** Proficiency with any Martial Weapon; Warrior Group  
 **Repeatable:** Yes, choose a different fighting style each time.
 
 Your martial training has helped you develop a particular style of fighting.
@@ -316,11 +322,12 @@ Your martial training has helped you develop a particular style of fighting.
     
     Whenever you reach a level that grants the Ability Score Improvement feature, you can replace this feat’s fighting style with another one from the fighter class that you don’t have.
 
-### Gambler
+---
+
+#### Gambler
 *1st-level Feat*
 
-**Prerequisites:** None
-
+**Prerequisites:** None  
 **Repeatable:** No
 
 Spending countless hours winning and losing coin in alestained taverns has forged you into a consummate gambler and chance-seeking addict. You gain the following benefits and features:
@@ -341,11 +348,12 @@ Spending countless hours winning and losing coin in alestained taverns has forge
     
     On recieving spoils won from gambling, roll a d100. On a 25 or below, a common magic item of the DM’s choice is included in the reward. On a 10 or below, this item is instead of the uncommon rarity.
 
-### Healer
+---
+
+#### Healer
 *1st-level Feat*
 
-**Prerequisites:** None
-
+**Prerequisites:** None  
 **Repeatable:** No
 
 You have the training and intuition to administer first aid and other care effectively, granting you the following benefits:
@@ -358,11 +366,12 @@ You have the training and intuition to administer first aid and other care effec
     
     Whenever you roll a die to determine the number of Hit Points you restore with a spell or with this feat’s Battle Medic benefit, you can reroll the die if it rolls a 1, and you must use the new roll.
 
-### Herbalist
+---
+
+#### Herbalist
 *1st-level Feat*
 
-**Prerequisites:** None
-
+**Prerequisites:** None    
 **Repeatable:** No
 
 You excel at the identification and use of herbs and other natural substances for medicinal purposes. You gain the following benefits:
@@ -379,11 +388,12 @@ You excel at the identification and use of herbs and other natural substances fo
     
     As part of a short rest, you can use your herbalism kit to administer an herbal remedy that helps a creature recover from their ailments. The creature gains advantage on saving throws against poison and disease for the next hour.
 
-### Historian
+---
+
+#### Historian
 *1st-level Feat*
 
-**Prerequisites:** Intelligence 13+ or Intelligence (History) proficiency
-
+**Prerequisites:** Intelligence 13+ or Intelligence (History) proficiency  
 **Repeatable:** No
 
 Your study of history rewards you with the following benefits:
@@ -396,11 +406,12 @@ Your study of history rewards you with the following benefits:
     
     When you take the Help action to aid another creature’s ability check, you can make a DC 15 Intelligence (History) check. On a success, that creature’s check gains a bonus equal to your proficiency bonus, as you share pertinent advice and historical examples. To receive this bonus, the creature must be able to understand what you’re saying.
 
-### Linguist
+---
+
+#### Linguist
 *1st-level Feat*
 
-**Prerequisites:** Intelligence or Wisdom 13+
-
+**Prerequisites:** Intelligence or Wisdom 13+  
 **Repeatable:** No
 
 You have studied languages and codes, gaining the following benefits:
@@ -417,11 +428,12 @@ You have studied languages and codes, gaining the following benefits:
     
     If you spend 1 minute analyzing a language you do not know, you can discern small bits of information such as intent, direction, and emotion.
 
-### Lucky
+---
+
+#### Lucky
 *1st-level Feat*
 
 **Prerequisites:** None
-
 **Repeatable:** No
 
 You have inexplicable luck that can kick in at just the right moment, granting you the following benefits:
@@ -438,11 +450,12 @@ You have inexplicable luck that can kick in at just the right moment, granting y
     
     When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to impose Disadvantage on that roll.
 
-### Magic Initiate
+---
+
+#### Magic Initiate
 *1st-level Feat*
 
-**Prerequisites:** None
-
+**Prerequisites:** None  
 **Repeatable:** Yes
 
 You must choose a different Spell list each time you pick this feat. Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. 
@@ -459,11 +472,12 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these Spells 
     
 Whenever you gain a new level, you can replace one of the Spells you chose for this Feat with a different Spell of the same level from the chosen Spell list.
 
-### Mariner
+---
+
+#### Mariner
 *1st-level Feat*
 
-**Prerequisites:** None
-
+**Prerequisites:** None  
 **Repeatable:** No
 
 You have spent time at sea and learned to use the tools of a mariner in combat. You gain the following benefits:
@@ -488,11 +502,12 @@ You have spent time at sea and learned to use the tools of a mariner in combat. 
     
     Tridents count as having the reach property for you. There is no penalty for throwing a trident underwater for you.
 
-### Marksman
+---
+
+#### Marksman
 *1st-level Feat*
 
-**Prerequisites:** None
-
+**Prerequisites:** None  
 **Repeatable:** No
 
 You are an expert at hitting your mark with ranged weapons, gaining the following benefits:
@@ -509,11 +524,12 @@ You are an expert at hitting your mark with ranged weapons, gaining the followin
     
     If you haven’t moved since the start of your turn, you can use a bonus action to steady your aim. Until the end of your next turn, you have advantage on the next ranged weapon attack roll you make. This effect ends early if you move or take damage.
 
-### Martial Adept
+---
+
+#### Martial Adept
 *1st-level Feat*
 
-**Prerequisites:** Proficiency with any Martial Weapon
-
+**Prerequisites:** Proficiency with any Martial Weapon  
 **Repeatable:** No
 
 You have martial training that allows you to perform special combat Manoeuvres. You gain the following benefits:
@@ -530,11 +546,12 @@ You have martial training that allows you to perform special combat Manoeuvres. 
     
 You regain your expended superiority dice when you finish a short or long rest.
 
-### Miner
+---
+
+#### Miner
 *1st-level Feat*
 
-**Prerequisites:** None
-
+**Prerequisites:** None  
 **Repeatable:** No
 
 You’ve spent a great deal of time underground and have learned how to survive and fight in a mine. You gain the following benefits:
@@ -551,11 +568,12 @@ You’ve spent a great deal of time underground and have learned how to survive 
     
     When you hit a creature with a warpick on your turn and are also wielding a light hammer or warhammer, you can immediately use a bonus action to hammer the pick into the creature. If you do, the creature takes additional piercing damage equal to 1d8 + your Strength modifier.
 
-### Musician
+---
+
+#### Musician
 *1st-level Feat*
 
-**Prerequisites:** None
-
+**Prerequisites:** None  
 **Repeatable:** No
 
 You are a practiced musician, granting you the following benefits:
@@ -568,11 +586,12 @@ You are a practiced musician, granting you the following benefits:
     
     As you finish a Short Rest or a Long Rest, you can play a song on a Musical Instrument with which you have Tool Proficiency and give Inspiration to allies who hear the song. The number of allies you can affect in this way equals your Proficiency Bonus.
 
-### Naturalist
+---
+
+#### Naturalist
 *1st-level Feat*
 
-**Prerequisites:** Intelligence or Wisdom 13+, or Nature proficiency
-
+**Prerequisites:** Intelligence or Wisdom 13+, or Nature proficiency  
 **Repeatable:** No
 
 - **Green-thumb**
@@ -585,10 +604,13 @@ You are a practiced musician, granting you the following benefits:
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these Spells (choose when you select this Feat).
 
-### Savage Attacker
+---
 
-**Prerequisites:** Strength 13+; Warrior Group
+#### Savage Attacker
 
+*1st-level Feat*
+
+**Prerequisites:** Strength 13+; Warrior Group  
 **Repeatable:** No
 
 You have trained to deal particularly damaging strikes. 
@@ -597,10 +619,13 @@ You have trained to deal particularly damaging strikes.
     
     When making melee weapon attacks, you roll your damage dice twice and use the highest result. You can use this benefit only once per turn.
 
-### Skilled
+---
 
-**Prerequisites:** None
+#### Skilled
 
+*1st-level Feat*
+
+**Prerequisites:** None  
 **Repeatable:** Yes, choose different skill each time.
 
 You have exceptionally broad learning. 
@@ -609,10 +634,13 @@ You have exceptionally broad learning.
     
     Choose three Skills in which you lack Proficiency. You gain Proficiency in those Skills.
 
-### Sling Specialist
+---
 
-**Prerequisites:** Simple weapon proficiency
+#### Sling Specialist
 
+*1st-level Feat*
+
+**Prerequisites:** Simple weapon proficiency  
 **Repeatable:** None
 
 You are trained in the military methods and use of slings in combat. You gain the following benefits:
@@ -629,10 +657,13 @@ You are trained in the military methods and use of slings in combat. You gain th
     
     The first time you score a critical hit with a sling against a creature on a turn, that creature has disadvantage on attack rolls and ability checks until the start of your next turn.
 
-### Spear Specialist
+---
 
-**Prerequisites:** Simple weapon proficiency
+#### Spear Specialist
 
+*1st-level Feat*
+
+**Prerequisites:** Simple weapon proficiency  
 **Repeatable:** None
 
 You have trained to become a deadly warrior with pole weapons, capable of making lunging attacks and long-distance throws. You gain the following benefits:
@@ -649,10 +680,13 @@ You have trained to become a deadly warrior with pole weapons, capable of making
     
     You can make a ranged attack with a javelin or spear up to its long range without disadvantage, even underwater.
 
-### Spell and Blades^HB^
+---
 
-**Prerequisites:** Warrior or Expert Group
+#### Spell and Blades^HB^
 
+*1st-level Feat*
+
+**Prerequisites:** Warrior or Expert Group  
 **Repeatable:** Yes, you must choose a different Spell list each time you pick this feat. 
 
 You learn how to wield both spells and weapons effectively. Choose between Paladin or Ranger.
@@ -669,11 +703,13 @@ You learn how to wield both spells and weapons effectively. Choose between Palad
     
 Whenever you gain a new level, you can replace one of the Spells you chose for this Feat with a different Spell of the same level from the chosen Spell list.
 
-### Staff Specialist
+---
+
+#### Staff Specialist
+
 *1st-level Feat*
 
-**Prerequisites:** Club, Greatclub or Quarterstaves proficiency
-
+**Prerequisites:** Club, Greatclub or Quarterstaves proficiency  
 **Repeatable:** No
 
 While you are wielding a club, greatclub, or quarterstaff and no other weapons, you gain the following benefits:
@@ -690,11 +726,12 @@ While you are wielding a club, greatclub, or quarterstaff and no other weapons, 
     
     When you score a critical hit on a creature, its movement speed is 0 until the end of its next turn.
 
-### Tavern Brawler
+---
+
+#### Tavern Brawler
 *1st-level Feat*
 
-**Prerequisites:** None
-
+**Prerequisites:** None  
 **Repeatable:** No
 
 Accustomed to brawling, you gain the following benefits:
@@ -715,11 +752,12 @@ Accustomed to brawling, you gain the following benefits:
     
     You can wield furniture as a Weapon, using the rules of the Greatclub for Small or Medium furniture and the rules of the Club for Tiny furniture
 
-### Theologian
+---
+
+#### Theologian
 *1st-level Feat*
 
-**Prerequisites:** Wisdom or Intelligence 13+, or Religion profiency
-
+**Prerequisites:** Wisdom or Intelligence 13+, or Religion profiency  
 **Repeatable:** No
 
 Your extensive study of religion rewards you with the following benefits:
@@ -734,11 +772,12 @@ Your extensive study of religion rewards you with the following benefits:
     
     If you already know *thaumaturgy*, you gain another cantrip from the Divine spell list.
 
-### Thrown Arms Master
+---
+
+#### Thrown Arms Master
 *1st-level Feat*
 
-**Prerequisites:** None
-
+**Prerequisites:** None  
 **Repeatable:** No
 
 You’ve honed your ability to lob weaponry into the fray, including weapons not meant for ranged combat. You gain the following benefits:
@@ -755,11 +794,12 @@ You’ve honed your ability to lob weaponry into the fray, including weapons not
     
     When you miss with a thrown weapon attack using a light weapon, the weapon immediately flies back into your grasp.
 
-### Titan Hunter
+---
+
+#### Titan Hunter
 *1st-level Feat*
 
-**Prerequisites:** Expert or Warrior Group
-
+**Prerequisites:** Expert or Warrior Group  
 **Repeatable:** No
 
 You can spot the weaknesses in a foe’s defenses. You gain the following benefit:
@@ -768,11 +808,12 @@ You can spot the weaknesses in a foe’s defenses. You gain the following benefi
     
     As an action, you analyze the defenses of one Large or larger creature you can see. Your next Weapon Attack on the following turn against that creature is made with advantage, and the number you need to roll a Critical Hit while attacking the creature reduced by 3. This effect can stack.
 
-### Tough
+---
+
+#### Tough
 *1st-level Feat*
 
-**Prerequisites:** None
-
+**Prerequisites:** None  
 **Repeatable:** No
 
 You are more resilient than others.
@@ -781,11 +822,12 @@ You are more resilient than others.
     
     Your Hit Point Maximum increases by an amount equal to twice your character level when you gain this Feat. Whenever you gain a level thereafter, your Hit Point Maximum increases by an additional 2 Hit Points.
 
-### Whip Master
+---
+
+#### Whip Master
 *1st-level Feat*
 
-**Prerequisites:** None
-
+**Prerequisites:** None  
 **Repeatable:** No
 
 You have extensive training with whip like weapons and have learned a handful of tricks useful in combat. You gain the following benefits:

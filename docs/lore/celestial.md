@@ -1,6 +1,6 @@
 # The Celestial Language
 
-Celestial is a language of mysterious origin, notorious for its more-than-lethal effects on those who attempt to interpret its meaning. Unlike Primordial, which merely confounds its readers due to its complex writing system, Celestial poses a direct threat to both mind and body.
+Celestial is a language of mysterious origin, notorious for its more-than-lethal effects on those who attempt to interpret its meaning. Unlike other confusing language, which merely confounds its readers due to its complex writing system, Celestial poses a direct threat to both mind and body.
 
 ## Details
 > *"We once encountered this volatile language back in the Heavens. These blasted gibberish slaughtered many of our people. We escaped here to this cursed continent to flee their influence, and here we are—out of the frying pan into the bloody fire!"* - A London General

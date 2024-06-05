@@ -103,8 +103,8 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 *"Anger is power - unleash it!"*
 
 - Once per turn when you roll damage for a weapon attack or spell attack, you can choose one of the die and make it roll the maximum amount possible.
-- When you force a creature to make a saving throw or a contested ability check, it make the saving throw or the ability check at a:dnd-d20-disadv:**Disadvantage**.
-- You have :dnd-d20-adv:**Advantage** on Strength checks and Strength saving throws.
+- When you force a creature to make a saving throw or a contested ability check, it make the saving throw or the ability check at a:d20-disadv:**Disadvantage**.
+- You have :d20-adv:**Advantage** on Strength checks and Strength saving throws.
 
 ### Stalwart
 
@@ -112,7 +112,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 
 - You reduce all damage received by a number equal to twice of your proficiency bonus (minimum of 1 damage).
 - You can’t be moved or being *prone* against your will.
-- You have :dnd-d20-adv:**Advantage** on Strength checks, Strength saving throws and Constitution saving throws.
+- You have :d20-adv:**Advantage** on Strength checks, Strength saving throws and Constitution saving throws.
 
 ### Vigorous
 
@@ -128,7 +128,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 
 *“Frustration and fury, more destructive than a hundred cannons”*
 
-- You have :dnd-d20-adv:**Advantage** on attack made using Strength and :dnd-d20-disadv:**Disadvantage** on attack made using Dexterity.
+- You have :d20-adv:**Advantage** on attack made using Strength and :d20-disadv:**Disadvantage** on attack made using Dexterity.
 - On each of your turn, you must make an attack to any creature that is within your reach.
 - All creatures, including your ally can provoke opportunity attack from you, and you must use your :dnd-rsc-reaction:**Reaction** when available to make an attack.
 
@@ -137,7 +137,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 *“Fear and frailty finally claim their due”*
 
 - You receive the *frightened* condition against the last creature that damage you.
-- You are overcome with shaking, and have:dnd-d20-disadv:**Disadvantage** on Dexterity saving throw.
+- You are overcome with shaking, and have:d20-disadv:**Disadvantage** on Dexterity saving throw.
 - You are vulnerable to Psychic damage.
 - You gain +10ft. of walking speed.
 
@@ -145,7 +145,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 
 *“There can be no hope in this hell, no hope at all.”*
 
-- You have :dnd-d20-disadv:**Disadvantage** on all attack rolls and ability checks.
+- You have :d20-disadv:**Disadvantage** on all attack rolls and ability checks.
 - Whenever you regain hit point, the amount total is halved. This does not affect the progress in which **Meltdown** can be ended early.
 - You are resistant to Psychic damage.
 - Your speed is halved.
@@ -155,7 +155,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 *“Reeling, gasping, taken over the edge into madness!”*
 
 - You begins babbling and is incapable of normal speech. Spells that has the Verbal (V) component can’t be cast.
-- You have :dnd-d20-disadv:**Disadvantage** on Intelligence and Wisdom saving throws.
+- You have :d20-disadv:**Disadvantage** on Intelligence and Wisdom saving throws.
 - You can't take :dnd-rsc-reaction:**Reaction** and must roll a :material-dice-d10:d10 at the start of each of your turns to determine a behavior for that turn.
     
     | :material-dice-d10:**d10** | **BEHAVIOUR** |
@@ -171,5 +171,5 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 
 - Your Armour Class is reduced by 2.
 - Any damage you received is reduced by 2.
-- You have :dnd-d20-disadv:**Disadvantage** on Strength, Dexterity, and Constitution saving throw.
+- You have :d20-disadv:**Disadvantage** on Strength, Dexterity, and Constitution saving throw.
 - You can't willingly move away from a hostile creature.

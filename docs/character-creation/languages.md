@@ -1,7 +1,5 @@
 ---
-
-icon. dnd/stat-lang
-
+icon: dnd/stat-lang
 ---
 
 ## Languages in Crown & Misery
@@ -15,7 +13,7 @@ Standard languages are the most common languages spoken in Antares. When a Backg
 
 ##### Standard Languages Table
 | **Language** | **Typical Speakers** | **Script** | **Real Life Counterpart** |
-| .-- | --- | --- | --- |
+| :-- | --- | --- | --- |
 | Common | Humans | Common | French |
 | English | Humans (Londoners) | Common | English |
 | Dwarvish | Dwarves | Dwarvish | Norse / Icelandic |
@@ -31,7 +29,7 @@ Exotic languages are rare and typically not accessible to your character unless 
 
 ##### Exotic Languages Table
 | **Language** | **Typical Speakers** | **Script** |
-| .-- | --- | --- |
+| :-- | --- | --- |
 | Abyssal | Demons | Infernal |
 | Draconic | Dragons, dragonborn | Draconic |
 | Deep Speech | Aboleths, cloakers | - |

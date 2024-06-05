@@ -31,9 +31,6 @@ Some races' lore has been slightly altered in Crown & Misery. For example, while
 ### Ability Scores
 Crown & Misery follows a method similar to Baldur's Gate 3 for handling Ability Scores. Instead of each race having predetermined Ability Scores, all races (except humans) receive a +2 to any ability score and a +1 to any other score for flexibility. Races with innate spellcasting still have restrictions on their spellcasting ability, usually Charisma.
 
-### Free Feats
-Following OneD&D's new rulings, each race is granted a free 1st-level feat. Restrictions such as minimum ability scores and racial prerequisites still apply. Humans receive two feats: one 1st-level feat and one 4th-level feat, providing them with greater flexibility.
-
 ### Innate Expertise
 Some races allow you to apply double your proficiency bonus on checks in highly specific situations. These have been slightly altered, either by simplifying the situations or by granting the associated proficiencies directly.
 

@@ -25,9 +25,6 @@
 :dnd-stat-lang:{ .lg .middle } **Languages**  
 &ensp;&ensp;&ensp; You can speak, read, and write *Common* and *Orc*.
 
-:material-cards-playing-club:{ .lg .middle } **Feat**  
-&ensp;&ensp;&ensp; You gain one :material-cards-playing-club: **1st-level Feat** of your choice.
-
 ### Additional Traits
 
 :dnd-trait-darkvision:{ .lg .middle } **Darkvision**  
@@ -58,7 +55,7 @@
 *Rare derivatives of orcs known as oni can only be found aboard the Karokorum, Kamikaze flagship. Though often referred to as half-demons or tieflings, these beings are more closely related to orcs than demons. Half-orcs descended from these derivatives possess humanity's ambition and oni's wisdom.*
 
 **Mental Resilience**  
-&ensp;&ensp;&ensp; You have :dnd-d20-adv:**Advantage** on :dnd-d20-save:**Saving Throws** against being charmed or frightened.
+&ensp;&ensp;&ensp; You have :d20-adv:**Advantage** on :d20-save:**Saving Throws** against being charmed or frightened.
 
 **Oni's Presence**  
 &ensp;&ensp;&ensp; You have proficiency in the Wisdom (Insight) skill. Additionally, you can use your Wisdom modifier instead of your Charisma modifier for any Charisma (Intimidation) checks.

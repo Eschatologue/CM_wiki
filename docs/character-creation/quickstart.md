@@ -5,48 +5,61 @@ icon: material/fast-forward
 # Creating your Character
 This D&D campaign setting uses the same rulings as what you would find in other settings with minor additions and modifications. On a notable note, it uses combinations of 5th Edition ruling and OneD&D ruling.
 
-
 ## 1. Understanding The Core Principles
 
 When creating your character, you must adhere to three core principles that apply at all times, both during roleplaying and gameplay mechanics.
 
-### TEAM COOPERATION
+### Team Cooperation
 
 **Your character must consistently work with and support the rest of the party.**
 
 A rogue who steals from party members or sabotages plans undermines group cohesion. Instead, create a rogue who uses their skills to benefit the party, like scouting ahead, gathering intelligence, or disarming traps to ensure safe passage for the group. Another example is a bard who not only performs to inspire allies but also uses their charm and wit to negotiate and forge alliances that benefit the entire party.
 
-### PLOT ENGAGEMENT
+### Plot Engagement
 
 **Your character must be consistently willing to engage with the campaign’s plot.**
 
 A character who refuses to participate in the main quest or constantly separates from the group disrupts the story. Instead, design a character with personal motivations that align with the campaign’s goals, such as a ranger seeking revenge on the antagonist responsible for the apocalypse or a cleric on a mission to restore order and help survivors. These motivations should naturally lead the character to be involved in key events and conflicts of the campaign.
 
-### SETTING AND TONE
+### Setting and Tone
 
 *See more at [Lore](../lore/index.md)*
 
 **Your character must plausibly fit into the campaign’s setting and align with the overall tone of the campaign.**
 
-This setting uses a post-apocalyptic dystopian science fantasy world, characters should blend modern and fantasy elements. A traditional medieval knight would be out of place. Instead, create a knight equipped with modernized armor, combining advanced technology with magical enhancements. Similarly, a mage might use arcane spells alongside gadgets, and a ranger could be adept at surviving in both urban ruins and wild wastelands, utilizing a mix of traditional skills and contemporary tools.
+This setting uses a post-apocalyptic dystopian science fantasy world, characters should blend modern and fantasy elements. A traditional medieval knight would be out of place. Instead, create a knight equipped armour combining modern technology enchanted with ancient runes. Similarly, a mage might use arcane spells alongside gadgets, and a ranger could be adept at surviving in both urban ruins and wild wastelands, utilizing a mix of traditional skills and contemporary tools.
 
+## 2. Choose a Race
+This D&D uses standard races available to PHB with some additions and changes, refer to [this](../character-creation/race/race.md) for more details. There is 9 available race available for choosing.
 
+## 3. Choose a Background
+You can choose a pre-written background available on [WikiDot](http://dnd5e.wikidot.com/#toc3), only the Common Background though. If you're unsure about which background to choose, this D&D campaign uses the optional Custom Background^PHB.p126^ rule. Finding a background that fits your character and the setting can be challenging, and the DM prefers to recycle existing backgrounds with added twists rather than create new ones from scratch. The details are as follows:
 
-## Choose a Race
-[wip]
+### Custom Background
+**Skill Proficiencies:** Two of your choice.  
+**Languages and Tool Proficiencies:** Two languages or two tool proficiencies or one language and one tool proficiency.
+**Equipment:** The equipment package from any [background]:material-information-outline:{ title="Only from Common Background!" }.
 
-## Choose a Background
-[wip]
+#### Feature: Choose a feature
+Choose a feature from any [background]:material-information-outline:{ title="Only from Common Background!" }.
 
-## Choosing a Class
+#### Feat
+Choose a starting [Feat].
+
+Even if you choose a pre-written background, the option of a starting feat is still available to you.
+
+[background]: http://dnd5e.wikidot.com/#toc3
+[feat]: feat/feat-starting.md
+
+## 4. Choosing a Class
 *Main Article: [Classes](../character-creation/classes.md)*
 
-Please choose a class from the available options listed, all subclasses is allowed except those from *Unrearthed Arcana* (UA), unless stated inside Bonus Subclasses below
+Please choose a class from the available options listed.
 
 You can also choose to [multiclass](../gameplay/multiclassing.md) when the prerequisites are met.
 
-## Starting Stats
-In this setting, we uses the Standard Array as follow: `15`, `14`, `13`, `12`, `10`, and `8`
+## 5. Starting Ability Scores
+In this setting, we uses the Standard Array as follow: `15, 14, 13, 12, 10, 8`
 
 Simply assign one number to each ability score (one to Strength, one to Dexterity, one to Constitution, and so on). Then, you'll be able to determine your character's modifier for each score.
 
@@ -78,7 +91,7 @@ Because ability modifiers affect almost every attack roll, ability check, and sa
 
     While following the meta isn't mandatory, it's important not to mishandle your ability scores.
 
-## Starting Level
+## 6. Starting Level
 For this campaign, you will start at 3rd-level. 
 
 When making your character, make one normally starting the 1st-level, and then treat it as you levelled up twice to 3rd-level. Some class feature grants additional benefits or even subclass choice at 3rd-level, so keep that in mind

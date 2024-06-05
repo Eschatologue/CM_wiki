@@ -25,9 +25,6 @@
 :dnd-stat-lang:{ .lg .middle } **Languages**  
 &ensp;&ensp;&ensp; You can speak, read, and write *Common* and *Primordial*.
 
-:material-cards-playing-club:{ .lg .middle } **Feat**  
-&ensp;&ensp;&ensp; You gain one :material-cards-playing-club: *1st-level Feat* of your choice.
-
 ### Additional Traits
 
 :dnd-trait-darkvision:{ .lg .middle } **Darkvision**  

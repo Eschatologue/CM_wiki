@@ -25,16 +25,13 @@
 :dnd-stat-lang:{ .lg .middle } **Languages**  
 &ensp;&ensp;&ensp; You can speak, read, and write *Common* and *Gnomish*.
 
-:material-cards-playing-club:{ .lg .middle } **Feat**  
-&ensp;&ensp;&ensp; You gain one :material-cards-playing-club: **1st-level Feat** of your choice.
-
 ### Additional Traits
 
 :dnd-trait-darkvision:{ .lg .middle } **Darkvision**  
 &ensp;&ensp;&ensp; You can see in the dark up to 60 ft.
 
-:dnd-d20-save:{ .lg .middle } **Gnome Cunning**  
-&ensp;&ensp;&ensp; You have :dnd-d20-adv:**Advantage** on all on all Intelligence, Wisdom, and Charisma :dnd-d20-save:**Saving Throws** against magic.
+:d20-save:{ .lg .middle } **Gnome Cunning**  
+&ensp;&ensp;&ensp; You have :d20-adv:**Advantage** on all on all Intelligence, Wisdom, and Charisma :d20-save:**Saving Throws** against magic.
 
 ---
 

@@ -25,16 +25,13 @@
 :dnd-stat-lang:{ .lg .middle } **Languages**  
 &ensp;&ensp;&ensp; You can speak, read, and write *Common* and *Dwarvish*.
 
-:material-cards-playing-club:{ .lg .middle } **Feat**  
-&ensp;&ensp;&ensp; You gain one :material-cards-playing-club: **1st-level Feat** of your choice.
-
 ### Additional Traits
 
 :dnd-trait-darkvision:{ .lg .middle } **Darkvision**  
 &ensp;&ensp;&ensp; You can see in the dark up to 60 ft.
 
 :material-shield-plus:{ .lg .middle } **Dwarven Resilience**  
-&ensp;&ensp;&ensp; You have :dnd-d20-adv:**Advantage** on Saving Throws against :dnd-damage-poison:**Poison**, and you have [Resistance](../../gameplay/combat/damage-healing.md#resistance) against :dnd-damage-poison:**Poison** damage.
+&ensp;&ensp;&ensp; You have :d20-adv:**Advantage** on Saving Throws against :dnd-damage-poison:**Poison**, and you have [Resistance](../../gameplay/combat/damage-healing.md#resistance) against :dnd-damage-poison:**Poison** damage.
 
 :material-hammer:{ .lg .middle } **Dwarven Combat Training**  
 &ensp;&ensp;&ensp; You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.

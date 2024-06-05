@@ -2,17 +2,10 @@
 icon: material/cards-playing
 ---
 
-# 8th-level Feats
-
-The feats listed below are available on 8th-level and above.
-
-## Feat Descriptions
-
-### Adrenaline Rush
+#### Adrenaline Rush
 *8th-level Feat*
 
-**Prerequisites:** Warrior Group
-
+**Prerequisites:** Warrior Group  
 **Repeatable:** No
 
 You learn how to push yourself beyond your normal limits.
@@ -21,11 +14,12 @@ You learn how to push yourself beyond your normal limits.
     
      **On your turn, you can expend one of your Hit Die and gain one additional action. You can use this feature once and gain expended use on a long rest.
 
-### Artifice Conflux
+---
+
+#### Artifice Conflux
 *8th-level Feat*
 
-**Prerequisites:** Expert Group or [Artificer Initiate](feat-starting.md#artificer-initiate) Feat
-
+**Prerequisites:** Expert Group or [Artificer Initiate](feat-starting.md#artificer-initiate) Feat  
 **Repeatable:** No
 
 Through your repeated exposure to the natural flow of arcane magic throughout your world and beyond, you’ve adapted to attune with additional enchantments, though the process can be physically taxing. You gain the following benefits:
@@ -42,11 +36,12 @@ Through your repeated exposure to the natural flow of arcane magic throughout yo
     
     You can ritual cast the *identify* spell, ignoring all the spells' component. Intelligence is the spellcasting ability for this spell.
 
-### Dual-Focused
+---
+
+#### Dual-Focused
 *8th-level Feat*
 
-**Prerequisites:** Mage or Priest Group
-
+**Prerequisites:** Mage or Priest Group  
 **Repeatable:** No
 
 Countless hours have been spent training your mind to maintain focus on concurrent incantations, taxing as the process may be.
@@ -61,11 +56,12 @@ Countless hours have been spent training your mind to maintain focus on concurre
     
     Any time you would be forced to make a Constitution saving throw to maintain concentration due to taking damage, the DC equals 10 + both spells’ levels combined, or half the damage you take, whichever number is higher. On a failure, you lose concentration on both spells
 
-### Great Weapon Expert
+---
+
+#### Great Weapon Expert
 *8th-level Feat*
 
-**Prerequisites:** Warrior Group or [Great Weapon Master](feat-4th-level.md#great-weapon-master) feat
-
+**Prerequisites:** Warrior Group or [Great Weapon Master](feat-4th-level.md#great-weapon-master) feat  
 **Repeatable:** No
 
 You have mastered the usage of heavy weapons, using their weight and size for maximum lethality.
@@ -78,11 +74,12 @@ You have mastered the usage of heavy weapons, using their weight and size for ma
     
     When you throw a weapon with a *heavy* property, its damage die becomes the weapon damage die instead of d4.
 
-### Magically Imbibed
+---
+
+#### Magically Imbibed
 *8th-level Feat*
 
-**Prerequisites:** Mage or Priest Group
-
+**Prerequisites:** Mage or Priest Group  
 **Repeatable:** No
 
 Your faith grants you great insight into magic, giving you a special privilege with it as if magic itself favors you.
@@ -101,11 +98,12 @@ Your faith grants you great insight into magic, giving you a special privilege w
     
     You can regain a total number of spell slot levels equal to your proficiency bonus this way until you cannot regain further spell slots until you complete a long rest.
 
-### Shield Prodigy
+---
+
+#### Shield Prodigy
 *8th-level Feat*
 
-**Prerequisites:** Warrior Group or [Shield Master](feat-4th-level.md#shield-masterhb) feat
-
+**Prerequisites:** Warrior Group or [Shield Master](feat-4th-level.md#shield-masterhb) feat  
 **Repeatable:** No
 
 After fine tuning your equipment, you can do things others can’t with shields.
@@ -124,11 +122,12 @@ After fine tuning your equipment, you can do things others can’t with shields.
     
     You can use a bonus action to protect a creature within 5 feet of you. Until the start of your next turn, any attack roll made against that creature has disadvantage if you can see the attacker. This benefit ends early if you are incapacitated or your speed drops to 0.
 
-### Spell Driver
+---
+
+#### Spell Driver
 *8th-level Feat*
 
-**Prerequisites:** Priest or Mage Group, or Spellcasting/Pact Magic feature
-
+**Prerequisites:** Priest or Mage Group, or Spellcasting/Pact Magic feature  
 **Repeatable:** No
 
 Through intense focus, training, and dedication, you’ve harnessed the techniques of rapid spellcasting.
@@ -137,10 +136,11 @@ Through intense focus, training, and dedication, you’ve harnessed the techniqu
     
     You are no longer limited to only one non-cantrip spell per turn. However, should you cast two or more spells in a single turn, only one of them can be of 3rd level or higher.
     
-### Theurgy
+---
 
-**Prerequisites:** Intelligence (Religion) expertise or Priest Group
+#### Theurgy
 
+**Prerequisites:** Intelligence (Religion) expertise or Priest Group  
 **Repeatable:** Yes, pick a different channel divinity option each time
 
 You learn how to channel divine power given by the divine.
