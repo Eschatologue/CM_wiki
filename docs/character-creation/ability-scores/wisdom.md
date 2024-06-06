@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/scroll-solid
+icon: ability/wis
 ---
 
 Wisdom reflects how attuned you are to the world around you and represents perceptiveness and intuition.

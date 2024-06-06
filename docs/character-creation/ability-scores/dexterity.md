@@ -1,5 +1,5 @@
 ---
-icon: material/hand-front-right
+icon: ability/dex
 ---
 
 Dexterity is an ability score and a key ability of Rogues, Rangers, Monks, and other wielders of *finesse* weapons.

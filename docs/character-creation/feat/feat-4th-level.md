@@ -142,7 +142,7 @@ You’ve learned to deftly parry attacks, granting you the following benefits:
 
 You master the ability to use two weapons at the same time You gain the following benefits:
 
-- **Half-feat**
+- **Ability Score Increase**
     
     You increase your Strength or Dexterity score by 1, to a maximum of 20.
 
@@ -194,7 +194,7 @@ Hardy and resilient, you gain the following benefits:
 
 You’ve learned to cannibalize the power of your spells to reinvigorate your allies.
 
-- **Half-feat**
+- **Ability Score Increase**
     
     Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
     
@@ -235,7 +235,7 @@ In your spellcasting, you can harness a particular form of energy with deadly ma
 
 Your exposure to the Feywild’s magic has changed you, granting you the following benefits:
 
-- **Half-feat**
+- **Ability Score Increase**
     
     Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
     
@@ -257,7 +257,7 @@ Your exposure to the Feywild’s magic has changed you, granting you the followi
 
 You’ve developed the ability to instantly recall an unprepared spell in moments of sudden necessity. You gain the following benefits:
 
-- **Half-feat**
+- **Ability Score Increase**
     
     You increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
     
@@ -277,7 +277,7 @@ You’ve developed the ability to instantly recall an unprepared spell in moment
 
 You're an accomplished wrestler, granting you the following benefits:
 
-- **Half-feat**
+- **Ability Score Increase**
     
      You increase your Strength or Dexterity by 1, to a maximum of 20.
     
@@ -303,7 +303,7 @@ You're an accomplished wrestler, granting you the following benefits:
 
 You’ve learned to use the weight of a weapon to your advantage, letting its momentum empower your strikes. You gain the following benefits:
 
-- **Half-feat**
+- **Ability Score Increase**
     
      You increase your Strength by 1, to a maximum of 20.
     
@@ -332,7 +332,7 @@ Choose one of the following abiliry below, you can change your choice when you g
 
 You have a quick hand and keen eye when employing firearms, granting you the following benefits:
 
-- **Half-feat**
+- **Ability Score Increase**
     
     Increase your Dexterity score by 1, to a maximum of 20.
     
@@ -354,7 +354,7 @@ You have a quick hand and keen eye when employing firearms, granting you the fol
 
 You can use your armor to deflect strikes that would kill others. You gain the following benefits:
 
-- **Half-feat**
+- **Ability Score Increase**
     
     You increase your Strength or Constitution score by 1, to a maximum of 20.
     
@@ -372,7 +372,7 @@ You can use your armor to deflect strikes that would kill others. You gain the f
 
 You inspire your companions, shoring up their resolve to fight.
 
-- **Half-feat**
+- **Ability Score Increase**
     
     You increase your Wisdom or Charisma score by 1, to a maximum of 20.
     
@@ -390,7 +390,7 @@ You inspire your companions, shoring up their resolve to fight.
 
 You have trained to rapidly recall or discover vital details, granting you the following benefits:
 
-- **Half-feat**
+- **Ability Score Increase**
     
     Increase your Intelligence score by 1, to a maximum of 20.
     
@@ -422,7 +422,7 @@ You have trained to rapidly recall or discover vital details, granting you the f
 
 You have practiced techniques useful in melee combat against spellcasters, gaining the following benefits:
 
-- **Half-feat**
+- **Ability Score Increase**
     
     You increase your Strength or Dexerity score by 1, to a maximum of 20.
     
@@ -448,7 +448,7 @@ You have practiced techniques useful in melee combat against spellcasters, gaini
 
 You are a master of the forge that can wield the right tools with ease. You gain the following benefits:
 
-- **Half-feat**
+- **Ability Score Increase**
     
     Increase your Strength or Wisdom score by 1, to a maximum of 20.
     
@@ -474,7 +474,7 @@ You are a master of the forge that can wield the right tools with ease. You gain
 
 You master the physician’s arts, gaining the following benefits:
 
-- **Half-feat**
+- **Ability Score Increase**
     
     Increase your Wisdom score by 1, to a maximum of 20.
     
@@ -503,7 +503,7 @@ You master the physician’s arts, gaining the following benefits:
 
 You have practiced moving in medium armor to gain the following benefits:
 
-- **Half-feat**
+- **Ability Score Increase**
     
     You increase your Strength or Dexerity score by 1, to a maximum of 20.
     
@@ -525,7 +525,7 @@ You have practiced moving in medium armor to gain the following benefits:
 
 You become fearsome to others, gaining the following benefits:
 
-- **Half-feat**
+- **Ability Score Increase**
     
     Increase your Strength or Charisma score by 1, to a maximum of 20.
     
@@ -547,7 +547,7 @@ You become fearsome to others, gaining the following benefits:
 
 You’re experimenting how to exert your will on your spells to alter how they function:
 
-- **Half-feat**
+- **Ability Score Increase**
     
     You increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
     
@@ -571,7 +571,7 @@ You’re experimenting how to exert your will on your spells to alter how they f
 
 Quick to notice details of your environment, you gain the following benefits:
 
-- **Half-feat**
+- **Ability Score Increase**
     
     Increase your Intelligence or Wisdom by 1, to a maximum of 20.
     
@@ -650,7 +650,7 @@ Once per turn, when you hit a creature with a Weapon that deals Piercing damage,
 
 Keeping foes just out of range is your specialty. You gain the following benefits:
 
-- **Half-feat**
+- **Ability Score Increase**
     
     You increase your Strength by 1, to a maximum of 20.
     
@@ -674,7 +674,7 @@ Keeping foes just out of range is your specialty. You gain the following benefit
 
 Your body has the ability to recover quickly from terrible injuries, and is unusually receptive to healing magic. You gain the following benefits:
 
-- **Half-feat**
+- **Ability Score Increase**
     
     Increase your Constitution score by 1, to a maximum of 20.
     
@@ -694,18 +694,15 @@ Your body has the ability to recover quickly from terrible injuries, and is unus
 **Prerequisite:** Constitution 13+  
 **Repeatable:** No
 
-Choose one ability score(1). You gain the following benefits:
-{ .annotate }
+You have developed the resilience to better withstand certain dangers, granting you the following benefits:
 
-1. Strength, Dexterity, Constitution, Intelligence, Wisdom, or Charisma.
+- **Ability Score Increase**
 
-- **Half-feat**
-    
-    Increase the chosen ability score by 1, to a maximum of 20.
-    
-- **Grit**
-    
-    You gain :material-lightbulb-on: proficiency in Saving Throws using the chosen ability.
+    Choose one ability in which you lack Saving Throw Proficiency. Increase the chosen Ability Score by 1, to a maximum of 20.
+
+- **Saving Throw Proficiency**
+  
+    You gain Saving Throw Proficiency with the chosen ability.
 
 ---
 
@@ -717,13 +714,13 @@ Choose one ability score(1). You gain the following benefits:
 
 You have studied ritual magic, granting you the following benefits:
 
-- **Half-feat**
+- **Ability Score Increase**
     
     Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
     
 - **Ritual Spells**
     
-    When you choose this feat, you acquire a ritual book holding two 1st-level spells of your choice that have the Ritual tag from the Arcane, Divine, and Primal Spell Lists. You always have those two Spells prepared, and you can cast them with any Spell Slots you have. The Spells’ Spellcasting Ability is the ability increased by this Feat.
+    When you choose this feat, you acquire a ritual book holding two 1st-level spells of your choice that have the Ritual tag from the Wizard Spell Lists. You always have those two Spells prepared, and you can cast them with any Spell Slots you have. The Spells’ Spellcasting Ability is the ability increased by this Feat.
     
 - **Learned Caster**
     
@@ -739,7 +736,7 @@ You have studied ritual magic, granting you the following benefits:
 
 You have mastered techniques to take advantage of every drop in any enemy’s guard, gaining the following benefits:
 
-- **Half-feat**
+- **Ability Score Increase**
     
     Increase your Strength or Dexterity by 1, to a maximum of 20.
     
@@ -761,7 +758,7 @@ You have mastered techniques to take advantage of every drop in any enemy’s gu
 
 You can make shots that others find impossible, granting you the following benefits:
 
-- **Half-feat**
+- **Ability Score Increase**
     
     Increase your Dexterity by 1, to a maximum of 20.
     
@@ -772,10 +769,6 @@ You can make shots that others find impossible, granting you the following benef
 - **Enhanced Accuracy**
     
     Being within 5 feet of an enemy and attacking at Long Range doesn’t impose Disadvantage on your ranged Attack Rolls with Weapons.
-    
-- **All In**
-    
-    Before you make a ranged attack with ranged weapons that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.
 
 ---
 
@@ -787,13 +780,13 @@ You can make shots that others find impossible, granting you the following benef
 
 You’ve trained to use shields not just for protection, but also for offense, granting you the following benefits:
 
-- **Half-feat**
+- **Ability Score Increase**
     
     Increase your Strength or Dexterity by 1, to a maximum of 20.
     
 - **Shield Bash**
     
-    After making an attack with a melee weapon, you can use a **Bonus Action** to make a melee attack with a shield you currently holding; this attack uses the same ability modifier as the primary attack. 
+    After making an attack with a melee weapon, you can use a :dnd-rsc-bonus-action: **Bonus Action** to make a melee attack with a shield you currently holding; this attack uses the same ability modifier as the primary attack. 
     
     On hit you can do one of the following effect:
 
@@ -814,7 +807,7 @@ You’ve trained to use shields not just for protection, but also for offense, g
 
 You have honed your proficiency with particular skills, granting you the following benefits:
 
-- **Half-feat**
+- **Ability Score Increase**
 
     You increase one ability score of your choice by 1, to a maximum of 20.
 
@@ -836,7 +829,7 @@ You have honed your proficiency with particular skills, granting you the followi
 
 You are expert at slinking through shadows. You gain the following benefits:
 
-- **Half-feat**
+- **Ability Score Increase**
     
     Increase your Dexterity by 1, to a maximum of 20.
     
@@ -862,7 +855,7 @@ You are expert at slinking through shadows. You gain the following benefits:
 
 You’ve learned where to cut to have the greatest results, granting you the following benefits:
 
-- **Half-feat**
+- **Ability Score Increase**
     
     Increase your Strength or Dexterity by 1, to a maximum of 20.
     
@@ -888,7 +881,7 @@ You’ve learned where to cut to have the greatest results, granting you the fol
 
 You possess exceptional speed and stamina, granting you the following benefits:
 
-- **Half-feat**
+- **Ability Score Increase**
     
     Increase your Dexterity by 1, to a maximum of 20.
     
@@ -910,7 +903,7 @@ You possess exceptional speed and stamina, granting you the following benefits:
 
 You have learned techniques to enhance your attacks with certain kinds of spells, gaining the following benefits:
 
-- **Half-feat**
+- **Ability Score Increase**
     
     You increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
     
@@ -938,7 +931,7 @@ You have learned techniques to enhance your attacks with certain kinds of spells
 
 One-handed weapons and blades are an extension of your arm, graceful as the wind.
 
-- **Half-feat**
+- **Ability Score Increase**
     
     You increase your Dexterity by 1, up to a maximum of 20.
     
@@ -958,7 +951,7 @@ One-handed weapons and blades are an extension of your arm, graceful as the wind
 **Prerequisite:** Intelligence, Wisdom, or Charisma 13+  
 **Repeatable:** No
 
-- **Half-feat**
+- **Ability Score Increase**
     
     You increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
     
@@ -1037,7 +1030,7 @@ You have been touched by the Warp, giving you benefits as follow:
 
 You have practiced casting spells in the midst of combat, learning techniques that grant you the following benefits:
 
-- **Half-feat**
+- **Ability Score Increase**
     
     You increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
     

@@ -1,5 +1,5 @@
 ---
-icon: material/heart-pulse
+icon: ability/cons
 ---
 
 Constitution measures health, stamina, and vital force.

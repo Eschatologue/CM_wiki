@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="wis.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="-63.993163"
+     inkscape:cy="15.379572"
+     inkscape:window-width="1360"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.-->
+  <path
+     id="path1"
+     style="stroke-width:0.999996"
+     d="M 15.658178,2.0416306 5.272283,2.0538755 c 0.3823107,0.5325628 0.6123965,1.192254 0.6131242,1.9082023 l 0.00783,6.4307442 h 0.00196 l 0.00196,2.089839 h -0.00392 l 0.00588,5.661341 c 0.00141,1.404056 1.0970181,2.544398 2.4446617,2.54291 1.3476439,-0.0016 2.4421741,-1.14498 2.4407461,-2.549032 v -0.210209 c -0.0012,-1.288705 1.00205,-2.337458 2.23898,-2.338823 l 6.311457,-0.0061 -0.0039,-2.889856 h 0.0039 l -0.0039,-3.3979878 -0.0039,-3.4388462 C 19.324961,3.7479585 17.68155,2.0393968 15.658178,2.0416306 Z M 2.8295802,2.0559165 C 1.817893,2.0570334 0.99892969,2.9141664 1.0000018,3.9682007 l 0.00196,1.908202 c 7.199e-4,0.7040165 0.546604,1.2722007 1.2223347,1.2714547 l 2.4426977,-0.00204 -0.00196,-3.1816978 C 4.6639628,2.9100938 3.8412674,2.0547995 2.8295802,2.0559165 Z m 19.5592518,14.7962225 -9.363366,0.01021 c -0.561202,5.97e-4 -1.019206,0.474619 -1.01861,1.063287 v 0.210209 c 0.0021,2.10807 -1.63774,3.820294 -3.6611162,3.822527 l 10.3839362,-0.01021 c 2.36315,-0.0026 4.272827,-1.997209 4.270321,-4.459275 -3.68e-4,-0.350019 -0.275205,-0.637118 -0.611165,-0.636748 z" />
+</svg>

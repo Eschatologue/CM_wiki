@@ -1,5 +1,5 @@
 ---
-icon: material/handshake
+icon: ability/cha
 ---
 
 Charisma measures your ability to interact effectively with others and forcing your will upon reality. It includes such factors as confidence and eloquence, and it can represent a charming or commanding personality.
