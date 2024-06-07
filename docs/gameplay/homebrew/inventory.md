@@ -51,26 +51,30 @@ A mysterious item conjured by the will of the DM and blessed by the God of DM’
 
 ## Item Size Categories
 
-An item's "Bulk" does not necessarily represent its weight. It might be light but cumbersome or small but very heavy. Regardless, refer to the rules below for item categorization.
+An item's "Bulk" does not necessarily represent its weight. It might be light but cumbersome or small but very heavy. Refer to the rules below for item categorization.
 
 ### Stackable
 
-Can fit **ten per slot** of the same item type. This includes small items such as arrows, bolts, and rations. Items such as ball bearings can even stack up to 1000 before taking an inventory slot.
+Small items that can be stacked together without taking up multiple inventory slots. You can fit** up to 10** of the same item type per slot. Certain items, like ball bearings, can stack up to 1000 before taking up an inventory slot.
+*Examples includes; Arrows, bolts, rations, ball bearings.*
 
 ### Light
 
-Equipment with the *light* property does not take an inventory slot until a **stack of three** is completed. For example, two shortswords do not take an inventory slot, but two shortswords and a dagger will take 1 inventory slot.
+Items that are easy to carry and do not take up much space individually. Equipment with the *light* property does not take an inventory slot until you have a stack of three. For example, two shortswords do not take an inventory slot, but two shortswords and a dagger will take 1 inventory slot.  
+*Examples includes; Daggers, potions, small tools.*
 
 ### Medium
-Takes up **one slots**. Normally most items you would fine would fall into this category. 
+
+Standard-sized items that require some space in your inventory. These items take up **one inventory slot** each.  
+*Examples includes; Longswords, shields, spellbooks.*
 
 ### Heavy or Two-handed
 
-Takes up **two slots** per item. These are items with the *heavy* or *two-handed* property. A greatsword will take two inventory slots due to the *heavy* property, and so will a halberd due to its *heavy* and *two-handed* properties.
+Large or cumbersome items that require significant space to carry. Items with the *heavy* or *two-handed* property take up **two inventory slots** each.  
+*Examples includes; Greatswords, halberds, mauls.*
 
-### Heavy Armour
+### Heavy Armor
 
-Takes up **three slots**, including heavy armour and tower shields when they are not in the Equipped or Worn slots.
-
-
-
+Bulky protective gear that takes up considerable space when not worn. These items take up **three inventory slots** each when they are not in the Equipped or Worn slots.  
+*Examples includes; Plate armor, chainmail, tower shields.*
+ 
