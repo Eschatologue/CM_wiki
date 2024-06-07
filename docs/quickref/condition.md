@@ -25,7 +25,7 @@ If multiple effects impose the same condition on a creature, each instance of th
 - The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect.
 
 #### Incapacitated
-- An incapacitated creature can’t take :dnd-rsc-action: **Action** or :dnd-rsc-reaction: **Reaction**.
+- An incapacitated creature can’t take :rsc-action: **Action** or :rsc-reaction: **Reaction**.
 
 #### Invisible
 - An invisible creature cannot be seen without magic or special senses. It is heavily obscured when attempting to hide. The creature's location can be detected by noise or tracks.

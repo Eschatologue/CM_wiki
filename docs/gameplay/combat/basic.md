@@ -2,7 +2,7 @@
 icon: material/list-box
 ---
 
-The clatter of a sword striking against a shield. The terrible rending sound as monstrous claws tear through armor. A brilliant flash of light as a ball of flame blossoms from a wizard's spell. The sharp tang of blood in the air, cutting through the stench of vile monsters.
+The clatter of a sword striking against a shield. The terrible rending sound as monstrous claws tear through armour. A brilliant flash of light as a ball of flame blossoms from a wizard's spell. The sharp tang of blood in the air, cutting through the stench of vile monsters.
 
 Roars of fury, shouts of triumph, cries of pain. Combat in D&D can be chaotic, deadly, and thrilling.
 
@@ -44,7 +44,7 @@ The *surprised* condition represents a state where a creature is caught off guar
 
     1. **:material-calculator-variant:{ .lg } 10 + Wisdom (Perception) modifier**
 
-**No Actions or Reactions.** A surprised creature cannot **move**, use :dnd-rsc-action:**Actions**, :dnd-rsc-bonus-action:**Bonus Actions**, or :dnd-rsc-reaction:**Reactions** on its first turn in combat.
+**No Actions or Reactions.** A surprised creature cannot **move**, use :rsc-action:**Actions**, :rsc-bonus-action:**Bonus Actions**, or :rsc-reaction:**Reactions** on its first turn in combat.
 
 ### Initiative
 
@@ -100,7 +100,7 @@ Once during your move, you can mount a creature that is within 5 feet of you or 
 
 If an effect moves your mount against its will while you're on it, you must succeed on a DC 10 Dexterity saving throw or fall off the mount, landing prone in a space within 5 feet of it. If you're knocked prone while mounted, you must make the same saving throw.
 
-If your mount is knocked prone, you can use your :dnd-rsc-reaction:Reaction to dismount it as it falls and land on your feet. Otherwise, you are dismounted and fall prone in a space within 5 feet it.
+If your mount is knocked prone, you can use your :rsc-reaction:Reaction to dismount it as it falls and land on your feet. Otherwise, you are dismounted and fall prone in a space within 5 feet it.
 
 ### Controlling a Mount
 

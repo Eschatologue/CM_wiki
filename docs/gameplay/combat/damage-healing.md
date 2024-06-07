@@ -65,9 +65,9 @@ Immunity to a damage type means that the creature takes no damage from that type
 |**ICON**|**DAMAGE TYPES**|**DESCRIPTION**|
 |:-:|:--|:--|
 |**Physical Damage**|||
-|:dnd-damage-bludgeoning:{ .xxl }| **Bludgeoning** | Damage from blunt force, such as from clubs, hammers, or falling. This type of damage crushes bones and armor. |
-|:dnd-damage-piercing:{ .xxl }| **Piercing**| Damage from pointed weapons, such as arrows, spears, or teeth. This type of damage punctures and penetrates flesh and armor. |
-|:dnd-damage-slashing:{ .xxl }|**Slashing**| Damage from edged weapons, such as swords, axes, or claws. This type of damage cuts and slices through flesh and armor. |
+|:dnd-damage-bludgeoning:{ .xxl }| **Bludgeoning** | Damage from blunt force, such as from clubs, hammers, or falling. This type of damage crushes bones and armour. |
+|:dnd-damage-piercing:{ .xxl }| **Piercing**| Damage from pointed weapons, such as arrows, spears, or teeth. This type of damage punctures and penetrates flesh and armour. |
+|:dnd-damage-slashing:{ .xxl }|**Slashing**| Damage from edged weapons, such as swords, axes, or claws. This type of damage cuts and slices through flesh and armour. |
 |**Elemental Damage**|||
 |:dnd-damage-acid:{ .xxl }| **Acid**| Damage from corrosive substances that can eat through materials and flesh. Acid damage can dissolve objects and inflict severe burns. |
 |:dnd-damage-cold:{ .xxl }| **Cold**| Damage from extreme cold, such as ice and freezing temperatures. Cold damage can freeze enemies, slow movements, and cause frostbite. |

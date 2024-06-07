@@ -16,7 +16,7 @@ Proficiency with a gaming set applies to one type of game, such as Three-Dragon 
 
 ***Sleight of Hand.*** Sleight of Hand is a useful skill for cheating at a game, as it allows you to swap pieces, palm cards, or alter a die roll. Alternatively, engrossing a target in a game by manipulating the components with dexterous movements is a great distraction for a pickpocketing attempt.
 
-| :material-text: **NAME** | :material-currency-fra: **COST** |
+| :material-text: **NAME** | :rsc-silver: **COST** |
 | --- | --: |
 | Catch a player cheating | 15 |
 | Gain insight into an opponent's personality | 15 |
@@ -31,14 +31,14 @@ Proficiency with a musical instrument indicates you are familiar with the techni
 
 ***Compose a Tune.*** As part of a long rest, you can compose a new tune and lyrics for your instrument. You might use this ability to impress a noble or spread scandalous rumors with a catchy tune.
 
-| :material-text: **NAME** | :material-currency-fra: **COST** |
+| :material-text: **NAME** | :rsc-silver: **COST** |
 | --- | --: |
 | Identify a tune | 10 |
 | Improvise a tune | 20 |
 
 ## Gaming Sets & Musical Instrument Table
 
-| :material-text: **NAME** | :material-currency-fra: **COST** |
+| :material-text: **NAME** | :rsc-silver: **COST** |
 | --- | --: |
 | ***GAMING SETS*** | |
 | Dice set | 1 sp |

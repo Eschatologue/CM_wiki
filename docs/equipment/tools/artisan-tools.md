@@ -15,12 +15,12 @@ Below are some common tools in D&D and examples of what characters can do with t
 - **Thieves' Tools:** Used for picking locks and disabling traps. Characters proficient with thieves' tools can add their proficiency bonus to Dexterity checks for these tasks.
 - **Healer's Kit:** Contains supplies to stabilize a dying creature. Proficiency with a healer's Kit allows a character to add their proficiency bonus to Medicine checks when stabilizing or treating wounds.
 - **Alchemist's Supplies:** Used to create potions and alchemical substances. Characters proficient with alchemist's Supplies can add their proficiency bonus to Intelligence checks to identify potions and concoct alchemical mixtures.
-- **Smith's Tools:** Used for forging and repairing metal items. Proficiency with smith's Tools allows a character to add their proficiency bonus to Strength checks when working with metal, crafting weapons, or repairing armor.
+- **Smith's Tools:** Used for forging and repairing metal items. Proficiency with smith's Tools allows a character to add their proficiency bonus to Strength checks when working with metal, crafting weapons, or repairing armour.
 - **Musical Instruments:** Various instruments that can be played to entertain, inspire, or distract. Characters proficient with a musical instrument can add their proficiency bonus to Charisma (Performance) checks when playing the instrument.
 
 ## Tool's Table
   
-| :material-text: **NAME** | :material-currency-fra: **COST** |
+| :material-text: **NAME** | :rsc-silver: **COST** |
 | --- | --: |
 | **== ARTISAN'S TOOLS ========** | |
 | Alchemist's supplies | 500 sp |
@@ -55,7 +55,7 @@ When a character uses a tool, the DM may call for an ability check to determine 
 - **Picking a Lock (Thieves' Tools):** If you have proficiency in both Sleight of Hand and thieves' tools, you have advantage on Dexterity checks to pick locks.
 - **Stabilizing a Creature (Healer's Kit):** If you have proficiency in both Medicine and the healer's Kit, you have advantage on Wisdom (Medicine) checks to stabilize a dying creature.
 - **Creating a Potion (Alchemist's Supplies):** If you have proficiency in both Arcana and alchemist's Supplies, you have advantage on Intelligence checks to create potions.
-- **Repairing Armor (Smith's Tools):** If you have proficiency in both Athletics and smith's Tools, you have advantage on Strength checks to repair armor.
+- **Repairing Armour (Smith's Tools):** If you have proficiency in both Athletics and smith's Tools, you have advantage on Strength checks to repair armour.
 - **Performing Music (Musical Instrument):** If you have proficiency in both Performance and a musical instrument, you have advantage on Charisma (Performance) checks when playing the instrument.
 
 ### Benefits of Tool Proficiencies
@@ -255,7 +255,7 @@ Training with jeweler's Tools includes the basic techniques needed to beautify g
 
 ### Leatherworker's Tools
 
-Knowledge of leatherworking extends to lore concerning animal hides and their properties. It also confers knowledge of leather armor and similar goods.
+Knowledge of leatherworking extends to lore concerning animal hides and their properties. It also confers knowledge of leather armour and similar goods.
 
 ***Components.*** Leatherworker's Tools include a knife, a small mallet, an edger, a hole punch, thread, and leather scraps.
 
@@ -333,14 +333,14 @@ Smith's Tools allow you to work metal, beating it to alter its shape, repair dam
 
 ***Arcana and History.*** Your expertise lends you additional insight when examining metal objects, such as weapons.
 
-***Investigation.*** You can spot clues and make deductions that others might overlook when an investigation involves armor, weapons, or other metalwork.
+***Investigation.*** You can spot clues and make deductions that others might overlook when an investigation involves armour, weapons, or other metalwork.
 
 ***Repair.*** With access to your tools and an open flame hot enough to make metal pliable, you can restore 10 hit points to a damaged metal object for each hour of work.
 
 | **ACTIVITY** | **DC** |
 | --- | :-: |
 | Sharpen a dull blade | 10 |
-| Repair a suit of armor | 15 |
+| Repair a suit of armour | 15 |
 | Sunder a nonmagical metal object | 15 |
 
 ### Tinker's Tools

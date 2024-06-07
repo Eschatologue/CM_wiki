@@ -130,7 +130,7 @@ You’ve learned to deftly parry attacks, granting you the following benefits:
     
 - **Parry**
     
-    If you are holding a Finesse Weapon and another creature hits you with a Melee Attack, you can use your Reaction to add your Proficiency Bonus to your Armor Class for that attack, potentially causing the attack to miss you.
+    If you are holding a Finesse Weapon and another creature hits you with a Melee Attack, you can use your Reaction to add your Proficiency Bonus to your Armour Class for that attack, potentially causing the attack to miss you.
 
 ---
 
@@ -346,13 +346,13 @@ You have a quick hand and keen eye when employing firearms, granting you the fol
 
 ---
 
-#### Heavy Armor Master
+#### Heavy Armour Master
 *4th-level Feat*
 
-**Prerequisite:** Strength 13+; Heavy armor proficiency  
+**Prerequisite:** Strength 13+; Heavy armour proficiency  
 **Repeatable:** No
 
-You can use your armor to deflect strikes that would kill others. You gain the following benefits:
+You can use your armour to deflect strikes that would kill others. You gain the following benefits:
 
 - **Ability Score Increase**
     
@@ -360,7 +360,7 @@ You can use your armor to deflect strikes that would kill others. You gain the f
     
 - **Damage Reduction**
     
-    When you’re hit by an attack while you’re wearing Heavy Armor, any Bludgeoning, Piercing, or Slashing Damage dealt to you by that attack is reduced by an amount equal to your Proficiency Bonus.
+    When you’re hit by an attack while you’re wearing Heavy Armour, any Bludgeoning, Piercing, or Slashing Damage dealt to you by that attack is reduced by an amount equal to your Proficiency Bonus.
 
 ---
 
@@ -456,13 +456,13 @@ You are a master of the forge that can wield the right tools with ease. You gain
     
     You gain proficiency with smith’s and leatherworker’s tools. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.
     
-- **Armor Upgrades**
+- **Armour Upgrades**
     
-    As part of a long rest, you can use leather pieces to augment a set of medium or heavy armor. For 8 hours, the armor doesn’t cause its wearer to suffer disadvantage on Dexterity (Stealth) checks.
+    As part of a long rest, you can use leather pieces to augment a set of medium or heavy armour. For 8 hours, the armour doesn’t cause its wearer to suffer disadvantage on Dexterity (Stealth) checks.
     
 - **Find Fragility**
     
-    Your smithing experience lets you identify weak points in a target’s armor. When you roll a 20 on a weapon attack against a target that is wearing armor, it suffers a -2 penalty to AC until the start of your next turn. This ability can’t reduce a creature’s AC multiple times simultaneously.
+    Your smithing experience lets you identify weak points in a target’s armour. When you roll a 20 on a weapon attack against a target that is wearing armour, it suffers a -2 penalty to AC until the start of your next turn. This ability can’t reduce a creature’s AC multiple times simultaneously.
 
 ---
 
@@ -495,13 +495,13 @@ You master the physician’s arts, gaining the following benefits:
 
 ---
 
-#### Medium Armor Master
+#### Medium Armour Master
 *4th-level Feat*
 
-**Prerequisite:** Medium Armor proficiency  
+**Prerequisite:** Medium Armour proficiency  
 **Repeatable:** No
 
-You have practiced moving in medium armor to gain the following benefits:
+You have practiced moving in medium armour to gain the following benefits:
 
 - **Ability Score Increase**
     
@@ -509,11 +509,11 @@ You have practiced moving in medium armor to gain the following benefits:
     
 - **Dexterous Wearer**
     
-    While you are wearing Medium Armor, you can add up to 3, rather than 2, to your AC if you have a Dexterity score of 16 or higher.
+    While you are wearing Medium Armour, you can add up to 3, rather than 2, to your AC if you have a Dexterity score of 16 or higher.
     
 - **Custom Fit**
     
-    Wearing medium armor doesn’t impose disadvantage on your Dexterity (Stealth) checks.
+    Wearing medium armour doesn’t impose disadvantage on your Dexterity (Stealth) checks.
 
 ---
 
@@ -786,7 +786,7 @@ You’ve trained to use shields not just for protection, but also for offense, g
     
 - **Shield Bash**
     
-    After making an attack with a melee weapon, you can use a :dnd-rsc-bonus-action: **Bonus Action** to make a melee attack with a shield you currently holding; this attack uses the same ability modifier as the primary attack. 
+    After making an attack with a melee weapon, you can use a :rsc-bonus-action: **Bonus Action** to make a melee attack with a shield you currently holding; this attack uses the same ability modifier as the primary attack. 
     
     On hit you can do one of the following effect:
 
@@ -887,7 +887,7 @@ You possess exceptional speed and stamina, granting you the following benefits:
     
 - **Fast**
     
-    Your speed increases by 10 feet while you aren’t wearing heavy armor.
+    Your speed increases by 10 feet while you aren’t wearing heavy armour.
     
 - **Focused Sprint**
     

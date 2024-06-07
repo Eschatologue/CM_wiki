@@ -1,7 +1,7 @@
 # London
 The new beating heart of the British Empire, a thriving nation nestled within what was once a verdant forest claimed by the elves. London stands as a beacon of prosperity and military might, earning its place as one of Antares' most influential and formidable nations.
 
-Despite the absence of traditional arcane technology that has dominated Antares' history, London has swiftly risen to prominence through its groundbreaking technological advancements. As a dominant force, London's military leverages these innovations, incorporating firearms, artillery, dreadnoughts, airships, and power armor into its elite and specialized branches.
+Despite the absence of traditional arcane technology that has dominated Antares' history, London has swiftly risen to prominence through its groundbreaking technological advancements. As a dominant force, London's military leverages these innovations, incorporating firearms, artillery, dreadnoughts, airships, and power armour into its elite and specialized branches.
 
 In present times, London continues to exert a lasting influence across Antares. However, the priorities of its parliament have shifted from solely projecting power to encompassing the improvement of its citizens' livelihoods while also suppressing the ever-growing elven rebellion within its borders.
 

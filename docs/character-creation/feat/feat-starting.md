@@ -107,18 +107,18 @@ You study the arcane arts, gaining the following benefits:
 
 ---
 
-#### Armor Training
+#### Armour Training
 
 *1st-level Feat*
 
-**Prerequisites:** Proficiency with any Martial Weapon or Light Armor proficiency  
-**Repeatable:** Yes, if you are already proficient with medium armor when you select this feat, you gain Proficiency with heavy armor.
+**Prerequisites:** Proficiency with any Martial Weapon or Light Armour proficiency  
+**Repeatable:** Yes, if you are already proficient with medium armour when you select this feat, you gain Proficiency with heavy armour.
 
-You have trained to master the use of armor. 
+You have trained to master the use of armour. 
 
 - **Armour Proficiency** 
 
-    You gain Proficiency with light armor. If you are already proficient with light armor when you select this talent, you gain Proficiency with medium armor and shields. 
+    You gain Proficiency with light armour. If you are already proficient with light armour when you select this talent, you gain Proficiency with medium armour and shields. 
 
 ---
 

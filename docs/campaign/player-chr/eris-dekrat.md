@@ -17,9 +17,9 @@ You gain proficiency in Intelligence (Arcana) if you don’t already have it. Mo
 
 *You calm yourself down and enter a state of heightened focus, allowing you to sense the weaves of magic that permeate this world.*
 
-Using your :material-circle: **Action**, you can focus your mind and awaken your senses to see the presence of magic within 60 feet of you for 10 minutes, that is not behind full cover.
+Using your :rsc-action: **Action**, you can focus your mind and awaken your senses to see the presence of magic within 60 feet of you for 10 minutes, that is not behind full cover.
 
-When you sense magic in this way, using your :material-circle: **Action**, you can focus your mind to one object or one creature to learn the following:
+When you sense magic in this way, using your :rsc-action: **Action**, you can focus your mind to one object or one creature to learn the following:
 
 - If you focus on an object, you instantly learn the school (or schools) of magic that was used to enchant it, if any.
 - If you focus on a creature, you learn its spellcasting ability, if any, and the level of the highest level spell it can cast.
@@ -111,7 +111,7 @@ If your attack misses, the spell fails and has no effect. On a hit, the spell ta
 - :material-radius-outline: **Area of Effects.** If the spell targets an area greater than 10 ft. :material-cube-outline: cube, it takes effect as a 15 ft. :material-cone: cone originating from you, which must include your target, or it is contained to only affect the target of your attack (your choice). Using a ranged weapon, your spell is contained to only affect the target of your attack.
 - :simple-codemagic: **Cantrip.** The cantrip does not deal damage. Instead, your weapon attack and your Sneak Attack (if applicable) deals the damage type dealt by the cantrip, and applies the cantrip additional effects on hit, except for damage.
 - :material-focus-field: **Concentration**. If the spell requires your concentration, you must concentrate on it as soon as it takes effect on hit.
-- :material-shield: **Saving Throws**. If the spell requires a saving throw when cast, the target makes the first saving throw at a :octicons-triangle-down-24:**Disadvantage** on hit. If you score a critical hit on the attack, the target automatically fails its saving throw. Other target (if any) make this save as normal.
+- :material-shield: **Saving Throws**. If the spell requires a saving throw when cast, the target makes the first saving throw at a :d20-disadv:**Disadvantage** on hit. If you score a critical hit on the attack, the target automatically fails its saving throw. Other target (if any) make this save as normal.
 - :fontawesome-solid-crosshairs: **Spell Attacks**. If the spell requires a spell attack roll, it instantly take effect when you hit with a weapon attack.
 
 ## 5th-level: Expanded Spell List

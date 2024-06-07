@@ -23,7 +23,7 @@ Movement and positioning are crucial aspects of combat in Dungeons & Dragons (D&
 
 !!! tip "Dash using other Actions"
 
-    Some class feature allows you to use Dash as :material-triangle: **Bonus Action** instead of an :material-circle: **Action**, a well known one is the rogue's *cunning action* and monk's *step of the wind*. Without specific class feature, Dash always uses an Action. Spells can also grants you the same benefit.
+    Some class feature allows you to use Dash as :rsc-bonus-action: **Bonus Action** instead of an :rsc-action: **Action**, a well known one is the rogue's *cunning action* and monk's *step of the wind*. Without specific class feature, Dash always uses an Action. Spells can also grants you the same benefit.
 
 **Difficult Terrain.** Moving through difficult terrain (e.g., thick underbrush, rubble) costs double the movement cost.
 

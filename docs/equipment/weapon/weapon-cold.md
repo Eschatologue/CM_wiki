@@ -34,7 +34,7 @@ Martial weapons require more training to use effectively but offer greater damag
 
 === ":material-knife:{ .lg .middle } SIMPLE WEAPONS"
 
-    | :material-text: **NAME** | :material-currency-fra: **COST** | :material-bullseye-arrow: **DAMAGE** |:material-tag-multiple: **PROPERTIES** |    
+    | :material-text: **NAME** | :rsc-silver: **COST** | :material-bullseye-arrow: **DAMAGE** |:material-tag-multiple: **PROPERTIES** |    
     | :-- | --: | :-- | --- |
     | **MELEE WEAPONS** | | | |
     | Club | 1 sp | 1d4 bludgeoning | Light |
@@ -58,7 +58,7 @@ Martial weapons require more training to use effectively but offer greater damag
 
 === ":material-sword-cross:{ .lg .middle } MARTIAL WEAPONS"
 
-    | :material-text: **NAME** | :material-currency-fra: **COST** | :material-bullseye-arrow: **DAMAGE** |:material-tag-multiple: **PROPERTIES** |    
+    | :material-text: **NAME** | :rsc-silver: **COST** | :material-bullseye-arrow: **DAMAGE** |:material-tag-multiple: **PROPERTIES** |    
     | :-- | --: | :-- | --- |
     | **MELEE WEAPONS** | | | |
     | Battleaxe | 100 sp | 1d8 slashing | Thrown (40/80)^NEW^, versatile (1d10) |
@@ -100,11 +100,11 @@ Weapons with special rules are described here.
 
 A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. 
 
-A creature can use its :material-circle: **Action** to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing a total of 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an :material-circle: **Action**, :material-triangle: **Bonus Action**, or :material-star-four-points: **Reaction** to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
+A creature can use its :rsc-action: **Action** to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing a total of 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an :rsc-action: **Action**, :rsc-bonus-action: **Bonus Action**, or :material-star-four-points: **Reaction** to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 
 #### Lance
 
-You have :octicons-triangle-down-24:**Disadvantage** when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
+You have :d20-disadv:**Disadvantage** when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
 
 [Net]:weapon-cold.md#net
 [Lance]:weapon-cold.md#lance

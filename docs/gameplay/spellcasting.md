@@ -60,9 +60,9 @@ When a character casts any spell, the same basic rules are followed, regardless 
 
 Each spell description in *chapter 11* begins with a block of information, including the spell's name, level, school of magic, casting time, range, components, and duration. The rest of a spell entry describes the spell's effect.
 
-!!! warming "Casting in Armor"
+!!! warming "Casting in Armour"
 
-    Because of the mental focus and precise gestures required for spellcasting, you must be proficient with the armor you are wearing to cast a spell. You are otherwise too distracted and physically hampered by your armor for spellcasting.
+    Because of the mental focus and precise gestures required for spellcasting, you must be proficient with the armour you are wearing to cast a spell. You are otherwise too distracted and physically hampered by your armour for spellcasting.
 
 
 ### Casting Time

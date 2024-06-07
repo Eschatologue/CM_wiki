@@ -103,10 +103,10 @@ When a character casts any spell, the same basic rules are followed, regardless 
 
 Each spell description in *chapter 11* begins with a block of information, including the spell's name, level, school of magic, casting time, range, components, and duration. The rest of a spell entry describes the spell's effect.
 
-> Casting in Armor
+> Casting in Armour
 > 
 > 
-> Because of the mental focus and precise gestures required for spellcasting, you must be proficient with the armor you are wearing to cast a spell. You are otherwise too distracted and physically hampered by your armor for spellcasting.
+> Because of the mental focus and precise gestures required for spellcasting, you must be proficient with the armour you are wearing to cast a spell. You are otherwise too distracted and physically hampered by your armour for spellcasting.
 > 
 
 ### Casting Time
@@ -455,7 +455,7 @@ Ability checks, attack rolls, and saving throws are the three main kinds of d20 
 
 **3. Compare the total to a target number.** If the total equals or exceeds the target number, the ability check, attack roll, or saving throw is a success. Otherwise, it's a failure. The DM is usually the one who determines target numbers and tells players whether their ability checks, attack rolls, and saving throws succeed or fail.
 
-The target number for an ability check or a saving throw is called a **Difficulty Class** (DC). The target number for an attack roll is called an **Armor Class** (AC).
+The target number for an ability check or a saving throw is called a **Difficulty Class** (DC). The target number for an attack roll is called an **Armour Class** (AC).
 
 This simple rule governs the resolution of most tasks in D&D play. Chapter 7 provides more detailed rules for using the d20 in the game.
 
@@ -481,7 +481,7 @@ A character's interaction with objects in an environment is often simple to reso
 
 For example, a character might decide to pull a lever, which might, in turn, raise a portcullis, cause a room to flood with water, or open a secret door in a nearby wall. If the lever is rusted in position, though, a character might need to force it. In such a situation, the DM might call for a Strength check to see whether the character can wrench the lever into place. The DM sets the DC for any such check based on the difficulty of the task.
 
-Characters can also damage objects with their weapons and spells. Objects are immune to poison and psychic damage, but otherwise they can be affected by physical and magical attacks much like creatures can. The DM determines an object's Armor Class and hit points, and might decide that certain objects have resistance or immunity to certain kinds of attacks. (It's hard to cut a rope with a club, for example.) Objects always fail Strength and Dexterity saving throws, and they are immune to effects that require other saves.
+Characters can also damage objects with their weapons and spells. Objects are immune to poison and psychic damage, but otherwise they can be affected by physical and magical attacks much like creatures can. The DM determines an object's Armour Class and hit points, and might decide that certain objects have resistance or immunity to certain kinds of attacks. (It's hard to cut a rope with a club, for example.) Objects always fail Strength and Dexterity saving throws, and they are immune to effects that require other saves.
 
 When an object drops to 0 hit points, it breaks.
 
@@ -575,11 +575,11 @@ A creature that is naturally sleeping, as opposed to being in a magically or che
 
 Whispers don't disturb sleep, unless a sleeper's passive Wisdom (Perception) score is 20 or higher and the whispers are within 10 feet of the sleeper. Speech at a normal volume awakens a sleeper if the environment is otherwise silent (no wind, birdsong, crickets, street sounds, or the like) and the sleeper has a passive Wisdom (Perception) score of 15 or higher.
 
-### Sleeping in Armor
+### Sleeping in Armour
 
-Sleeping in light armor has no adverse effect on the wearer, but sleeping in medium or heavy armor makes it difficult to recover fully during a long rest.
+Sleeping in light armour has no adverse effect on the wearer, but sleeping in medium or heavy armour makes it difficult to recover fully during a long rest.
 
-When you finish a long rest during which you slept in medium or heavy armor, you regain only one quarter of your spent Hit Dice (minimum of one die). If you have any levels of exhaustion, the rest doesn't reduce your exhaustion level.
+When you finish a long rest during which you slept in medium or heavy armour, you regain only one quarter of your spent Hit Dice (minimum of one die). If you have any levels of exhaustion, the rest doesn't reduce your exhaustion level.
 
 ### Going without a Long Rest
 
@@ -665,9 +665,9 @@ A Dexterity check can model any attempt to move nimbly, quickly, or quietly, or 
 
 You add your Dexterity modifier to your attack roll and your damage roll when attacking with a ranged weapon, such as a sling or a longbow. You can also add your Dexterity modifier to your attack roll and your damage roll when attacking with a melee weapon that has the finesse property, such as a dagger or a rapier.
 
-#### Armor Class
+#### Armour Class
 
-Depending on the armor you wear, you might add some or all of your Dexterity modifier to your Armor Class, as described in chapter 5.
+Depending on the armour you wear, you might add some or all of your Dexterity modifier to your Armour Class, as described in chapter 5.
 
 #### Initiative
 

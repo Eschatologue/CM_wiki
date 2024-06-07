@@ -43,7 +43,7 @@ The construction of these fortifications varies among nations. Some nations craf
 
 Pioneered by the people of London, Dreadnoughts have become essential for transportation, communication, and trade between the nations and citadel cities of Antares. These colossal locomotives are vital for the survival and prosperity of many cities. Not all nations can manufacture them; some acquire designs or steal Dreadnoughts, though this is rare.
 
-Constructed from reinforced wood or metal plating and powered by various engines, Dreadnoughts are heavily armored and surprisingly swift. Resembling moving fortresses, they balance protection, mobility, and firepower, with some tailored for warfare and others for transportation.
+Constructed from reinforced wood or metal plating and powered by various engines, Dreadnoughts are heavily armoured and surprisingly swift. Resembling moving fortresses, they balance protection, mobility, and firepower, with some tailored for warfare and others for transportation.
 
 Only two nations in Antares can reliably produce their own Dreadnoughts. London leads with the largest fleet, while Mykrrheim has adapted London's designs for their dwarven stature. Other nations modify purchased Dreadnoughts to suit their needs: Gallian models feature siege-class arcane weaponry, Soterrani models are equipped for underground exploration, and Valinorian models have increased insulation for harsh weather.
 

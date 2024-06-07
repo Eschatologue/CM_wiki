@@ -8,60 +8,60 @@ Anyone can put on a suit of armour or strap a shield to an arm. Only those *prof
 
 If you wear armour that you lack proficiency with, you gain several affliction: 
 
-- :octicons-triangle-down-24: **Disadvantage** on any :material-dice-d20: **Ability Check**
-- :octicons-triangle-down-24: **Disadvantage** on :material-shield-refresh: **Saving Throw**
-- :octicons-triangle-down-24: **Disadvantage** on :material-dice-d20: **Attack Roll** that involves *Strength* or *Dexterity*
+- :d20-disadv:**Disadvantage** on any :d20-check:**Ability Check**
+- :d20-disadv:**Disadvantage** on :d20-save:**Saving Throw**
+- :d20-disadv:**Disadvantage** on :d20-attack:**Attack Roll** that involves *Strength* or *Dexterity*
 - You can't cast spells.
 
 ## Armour Table
 
 The Armour table shows the cost and other properties of the common types of armour worn in this D&D.
 
-=== "**LIGHT ARMOUR**"
+#### Light Armour
 
-    | :material-text: **NAME** | :material-currency-fra: **COST** |  :material-shield: **ARMOUR CLASS(AC)** | :material-arm-flex: **STRENGTH** | :material-eye-off: **STEALTH** |
-    | :-- | --: | :-: | :-: | :-: |
-    | **Padded** | 50 sp | 11 + Dex modifier | - | Disadvantage |
-    | **Leather** | 100 sp | 11 + Dex modifier | - | - |
-    | **Studded Leather** | 450 sp | 12 + Dex modifier | - | - |
+| :material-text: **NAME** | :rsc-silver: **COST** |  :material-shield: **ARMOUR CLASS(AC)** | :material-arm-flex: **STRENGTH** | :material-eye-off: **STEALTH** |
+| :-- | --: | :-: | :-: | :-: |
+| Padded | 50 sp | 11 + Dex modifier | - | Disadvantage |
+| Leather | 100 sp | 11 + Dex modifier | - | - |
+| Studded Leather | 450 sp | 12 + Dex modifier | - | - |
 
-=== "**MEDIUM ARMOUR**"
-    
-    | :material-text: **NAME** | :material-currency-fra: **COST** |  :material-shield: **ARMOUR CLASS(AC)** | :material-arm-flex: **STRENGTH** | :material-eye-off: **STEALTH** |
-    | :-- | --: | :-: | :-: | :-: |
-    | Hide | 100 sp | 12 + Dex modifier (max 2) | - | - |
-    | Chain Shirt | 500 sp | 13 + Dex modifier (max 2) | - | - |
-    | Scale Mail | 500 sp | 14 + Dex modifier (max 2) | - | Disadvantage |
-    | Breastplate | 4,000 sp | 14 + Dex modifier (max 2) | - | - |
-    | Half Plate | 7,500 sp | 15 + Dex modifier (max 2) | - | Disadvantage |
+#### Medium Armour
 
-=== "**HEAVY ARMOUR**"
+| :material-text: **NAME** | :rsc-silver: **COST** |  :material-shield: **ARMOUR CLASS(AC)** | :material-arm-flex: **STRENGTH** | :material-eye-off: **STEALTH** |
+| :-- | --: | :-: | :-: | :-: |
+| Hide | 100 sp | 12 + Dex modifier (max 2) | - | - |
+| Chain Shirt | 500 sp | 13 + Dex modifier (max 2) | - | - |
+| Scale Mail | 500 sp | 14 + Dex modifier (max 2) | - | Disadvantage |
+| Breastplate | 4,000 sp | 14 + Dex modifier (max 2) | - | - |
+| Half Plate | 7,500 sp | 15 + Dex modifier (max 2) | - | Disadvantage |
 
-    Heavier armour interferes with the wearer's ability to move quickly, stealthily, and freely. 
+#### Heavy Armour
 
-    If the Armour table shows 'STR 13' or 'STR 15' in the Strength column for an armour type, the armour reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
-    
-    | :material-text: **NAME** | :material-currency-fra: **COST** |  :material-shield: **ARMOUR CLASS(AC)** | :material-arm-flex: **STRENGTH** | :material-eye-off: **STEALTH** |
-    | :-- | --: | :-: | :-: | :-: |
-    | Ring Mail | 300 sp | 14 | - | Disadvantage |
-    | Chainmail | 750 sp | 16 | Str 13 | Disadvantage |
-    | Splint | 2,000 sp | 17 | Str 15 | Disadvantage |
-    | Plate | 15,000 sp | 18 | Str 15 | Disadvantage |
+Heavier armour interferes with the wearer's ability to move quickly, stealthily, and freely. 
+
+If the Armour table shows 'STR 13' or 'STR 15' in the Strength column for an armour type, the armour reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
+
+| :material-text: **NAME** | :rsc-silver: **COST** |  :material-shield: **ARMOUR CLASS(AC)** | :material-arm-flex: **STRENGTH** | :material-eye-off: **STEALTH** |
+| :-- | --: | :-: | :-: | :-: |
+| Ring Mail | 300 sp | 14 | - | Disadvantage |
+| Chainmail | 750 sp | 16 | Str 13 | Disadvantage |
+| Splint | 2,000 sp | 17 | Str 15 | Disadvantage |
+| Plate | 15,000 sp | 18 | Str 15 | Disadvantage |
 
 
-=== "**SHIELD**"
+#### Shield
 
-    A shield is made from wood or metal (can be anything really) and is carried in one hand. You can benefit from only one shield at a time.
-    
-    | :material-text **NAME** | :material-currency-fra: **COST** |  :material-shield: **ARMOUR CLASS(AC)** | :material-arm-flex: **STRENGTH** | :material-eye-off: **STEALTH** |
-    | :-- | --: | :-: | :-: | :-: |
-    | Buckler* | 50 sp | +1 | - | - |
-    | Shield | 100 sp | +2 | - | - |
-    | Tower** | 400 sp | +3 | Str 16 | Disadvantage |
-    
-    **Buckler**. While holding a Buckler shield. You can use a Bonus Action to gain a +1 bonus to your AC until the start of your next turn. You can use a weapon with *Versatile* property even if you have a Buckler in the other hand.
-        
-    **Tower.** While holding a Tower shield, your speed is reduced by 10 ft.
+A shield is made from wood or metal (can be anything really) and is carried in one hand. You can benefit from only one shield at a time.
+
+| :material-text: **NAME** | :rsc-silver: **COST** |  :material-shield: **ARMOUR CLASS(AC)** | :material-arm-flex: **STRENGTH** | :material-eye-off: **STEALTH** |
+| :-- | --: | :-: | :-: | :-: |
+| Buckler* | 50 sp | +1 | - | - |
+| Shield | 100 sp | +2 | - | - |
+| Tower** | 400 sp | +3 | Str 16 | Disadvantage |
+
+**Buckler**. While holding a Buckler shield. You can use a Bonus Action to gain a +1 bonus to your AC until the start of your next turn. You can use a weapon with *Versatile* property even if you have a Buckler in the other hand.
+
+**Tower.** While holding a Tower shield, your speed is reduced by 10 ft.
 
 ### Armour Class (AC)
 

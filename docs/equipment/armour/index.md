@@ -6,19 +6,19 @@ Fantasy gaming worlds are a vast tapestry made up of many different cultures, ea
 
 Armour Class (AC) is a measurement of how difficult a creature is to be hit by an attack. In order to successfully hit a creature, the results of an attack roll must have a number equal to or greater than the target's Armour Class. AC can be increased by equipping armour and shields, by selecting certain feats when leveling up, utilizing certain spells, or when the DM decide that their creatures requires more AC. ~~Damn.. you guys rolled high.....~~
 
-### Base AC from Armor
+### Base AC from Armour
 
 *Main Article: [Armour Type](./armour-table.md)*
 
-Each type of armor provides a base AC. The three main categories of armor are light, medium, and heavy, and each has different rules for how they interact with your Dexterity modifier.
+Each type of armour provides a base AC. The three main categories of armour are light, medium, and heavy, and each has different rules for how they interact with your Dexterity modifier.
 
-#### Light Armor
+#### Light Armour
 
 - **Padded:** Base AC 11 + Dexterity modifier.
 - **Leather:** Base AC 11 + Dexterity modifier.
 - **Studded Leather:** Base AC 12 + Dexterity modifier.
 
-#### Medium Armor
+#### Medium Armour
 
 - **Hide:** Base AC 12 + Dexterity modifier (maximum of +2).
 - **Chain Shirt:** Base AC 13 + Dexterity modifier (maximum of +2).
@@ -26,7 +26,7 @@ Each type of armor provides a base AC. The three main categories of armor are li
 - **Breastplate:** Base AC 14 + Dexterity modifier (maximum of +2).
 - **Half Plate:** Base AC 15 + Dexterity modifier (maximum of +2), disadvantage on Stealth checks.
 
-#### Heavy Armor
+#### Heavy Armour
 
 - **Ring Mail:** Base AC 14, disadvantage on Stealth checks.
 - **Chain Mail:** Base AC 16, disadvantage on Stealth checks, requires Strength 13.
@@ -35,40 +35,40 @@ Each type of armor provides a base AC. The three main categories of armor are li
 
 #### Using a Shield
 
-Using a shield adds bonus to your AC equal to the amount stated. This bonus is applied in addition to the base AC provided by your armor.
+Using a shield adds bonus to your AC equal to the amount stated. This bonus is applied in addition to the base AC provided by your armour.
 
 ??? example "Example Calculations"
 
     Here are some examples to illustrate how to calculate AC for different character setups:
 
-    **Light Armor Example:**
+    **Light Armour Example:**
 
     A rogue with a Dexterity modifier of +3 wearing studded leather (base AC 12).
 
     ```
     AC = 12 (base) + 3 (Dex) = 15.
     ```
-    **Medium Armor Example:**
+    **Medium Armour Example:**
 
     A ranger with a Dexterity modifier of +3 wearing half plate (base AC 15, max +2 Dex).
     ```
     AC = 15 (base) + 2 (Dex, max allowed) = 17.
     ```
 
-    **Heavy Armor Example:**
+    **Heavy Armour Example:**
 
-    A paladin wearing plate armor (base AC 18) and using a shield (+2).
+    A paladin wearing plate armour (base AC 18) and using a shield (+2).
     ```
     AC = 18 (base) + 2 (shield) = 20.
     ```
 
-    **Unarmored Defense Example (Barbarian):**
+    **Unarmoured Defense Example (Barbarian):**
 
     A barbarian with a Dexterity modifier of +2 and a Constitution modifier of +3.
     ```
     AC = 10 + 2 (Dex) + 3 (Con) = 15.
     ```
-    **Unarmored Defense Example (Monk):**
+    **Unarmoured Defense Example (Monk):**
 
     A monk with a Dexterity modifier of +3 and a Wisdom modifier of +2.
 
@@ -78,9 +78,9 @@ Using a shield adds bonus to your AC equal to the amount stated. This bonus is a
 
 #### Special Considerations
 
-- **Stealth Disadvantage:** Some armors (e.g., scale mail, splint, plate) impose disadvantage on Dexterity (Stealth) checks.
-- **Strength Requirements:** Some heavy armors require a minimum Strength score to avoid movement , which is -10 ft of movement speed.
-- **Magical Armor:** Magical armors can provide additional bonuses to AC or other special benefits.
+- **Stealth Disadvantage:** Some armours (e.g., scale mail, splint, plate) impose disadvantage on Dexterity (Stealth) checks.
+- **Strength Requirements:** Some heavy armours require a minimum Strength score to avoid movement , which is -10 ft of movement speed.
+- **Magical Armour:** Magical armours can provide additional bonuses to AC or other special benefits.
 
 ??? question "How much AC do I need?"
 

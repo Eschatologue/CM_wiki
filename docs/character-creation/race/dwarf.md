@@ -20,7 +20,7 @@
 &ensp;&ensp;&ensp; Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is **Medium**
 
 :dnd-stat-speed:{ .lg .middle } **Speed**  
-&ensp;&ensp;&ensp; You are considered to have *Slow* speed; which is 25 ft. Your speed is not reduced by wearing [Heavy Armour](../../equipment/armour/index.md#heavy-armor).
+&ensp;&ensp;&ensp; You are considered to have *Slow* speed; which is 25 ft. Your speed is not reduced by wearing [Heavy Armour](../../equipment/armour/index.md#heavy-armour).
 
 :dnd-stat-lang:{ .lg .middle } **Languages**  
 &ensp;&ensp;&ensp; You can speak, read, and write *Common* and *Dwarvish*.
@@ -57,5 +57,5 @@
 *Also known as 'Shield Dwarves', they are strong and hardy, accustomed to a difficult life in rugged terrain and probably on the tall side (for a dwarf). They have a very strong martial tradition, resulting in a majority of Mykrrheim's Fjallavörðurs originating from this particulars subrace of dwarves.*
 
 :material-shield-plus:{ .lg .middle } **Dwarven Armour Training**  
-&ensp;&ensp;&ensp; You have proficiency with [Light Armour](../../equipment/armour/index.md#light-armor) and [Medium Armour](../../equipment/armour/index.md#medium-armor).
+&ensp;&ensp;&ensp; You have proficiency with [Light Armour](../../equipment/armour/index.md#light-armour) and [Medium Armour](../../equipment/armour/index.md#medium-armour).
 

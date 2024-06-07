@@ -15,7 +15,7 @@ If there's ever any question whether something you're doing counts as an attack,
 
 When you make an attack, your attack roll determines whether the attack hits or misses. 
 
-To make an attack roll, roll a d20 and add the appropriate modifiers. If the total of the roll plus modifiers equals or exceeds the target's Armor Class (AC), the attack hits. The AC of a character is determined at character creation, whereas the AC of a monster is in its stat block.
+To make an attack roll, roll a d20 and add the appropriate modifiers. If the total of the roll plus modifiers equals or exceeds the target's Armour Class (AC), the attack hits. The AC of a character is determined at character creation, whereas the AC of a monster is in its stat block.
 
 ### Modifiers to the Roll
 
@@ -82,7 +82,7 @@ You can avoid provoking an opportunity attack by taking the Disengage action. Yo
 
 ### Two-Weapon Fighting
 
-When you take the Attack action and attack with a *light* melee weapon that you're holding in one hand, you can use a :material-triangle: **bonus action** to attack with a different *light* melee weapon that you're holding in the other hand. You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative.
+When you take the Attack action and attack with a *light* melee weapon that you're holding in one hand, you can use a :rsc-bonus-action: **bonus action** to attack with a different *light* melee weapon that you're holding in the other hand. You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative.
 
 If either weapon has the thrown property, you can throw the weapon, instead of making a melee attack with it.
 

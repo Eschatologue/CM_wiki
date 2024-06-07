@@ -6,10 +6,10 @@ In this D&D, potions come in various types, from basic healing potions to those 
 
 ## Drinking or Consuming
 
-In Crown & Misery, where combat can be exceptionally lethal, rules regarding potion consumption differ slightly from standard PHB rulings, in which you can choose between spending your either :dnd-rsc-action:**Action** or your :dnd-rsc-bonus-action:**Bonus Action** to consume the potion.
+In Crown & Misery, where combat can be exceptionally lethal, rules regarding potion consumption differ slightly from standard PHB rulings, in which you can choose between spending your either :rsc-action:**Action** or your :rsc-bonus-action:**Bonus Action** to consume the potion.
 
-- :dnd-rsc-action:**Action:** Grants you the full maximum benefit of the potion. If the potion requires you to roll dice for its effect, you gain the maximum possible roll for those dice instead.
-- :dnd-rsc-bonus-action:**Bonus Action:**  Requires you to roll the dice associated with the potion or elixir's description to receive its benefits.
+- :rsc-action:**Action:** Grants you the full maximum benefit of the potion. If the potion requires you to roll dice for its effect, you gain the maximum possible roll for those dice instead.
+- :rsc-bonus-action:**Bonus Action:**  Requires you to roll the dice associated with the potion or elixir's description to receive its benefits.
 
 ## Inventory Slots
 
@@ -27,7 +27,7 @@ In Crown & Misery, where combat can be exceptionally lethal, rules regarding pot
 
 You regain hit points when you drink this potion. The number of hit points restored is as shown in the Potions of Healing table. Whatever its potency and size, the potion's red liquid glimmers when agitated.
     
-| :material-text: **NAME**  | :material-currency-fra: **COST** | :material-hospital-box: **HP REGAINED** |
+| :material-text: **NAME**  | :rsc-silver: **COST** | :material-hospital-box: **HP REGAINED** |
 | --- | -: | :-- |
 | Healing Potion [S], Small | 250 sp | :material-hospital-box: 2d4 + 2 hp | 
 | Healing Potion [M], Medium | 400 sp | :material-hospital-box: 4d4 + 4 hp | 

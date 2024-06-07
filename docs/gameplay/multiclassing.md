@@ -47,23 +47,23 @@ When you gain a level in a class other than your first, you gain only some of th
 ##### Multiclassing Proficiencies
 | **Class** | **Proficiencies Gained**                                                                                   |
 |-----------|------------------------------------------------------------------------------------------------------------|
-| Artificer | Light armor, medium armor, shields, thieves' tools, tinker's tools                                         |
+| Artificer | Light armour, medium armour, shields, thieves' tools, tinker's tools                                         |
 | Barbarian | Shields, simple weapons, martial weapons                                                                   |
-| Bard      | Light armor, one skill of your choice, one musical instrument of your choice                               |
-| Cleric    | Light armor, medium armor, shields                                                                         |
-| Druid     | Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)               |
-| Fighter   | Light armor, medium armor, shields, simple weapons, martial weapons                                        |
+| Bard      | Light armour, one skill of your choice, one musical instrument of your choice                               |
+| Cleric    | Light armour, medium armour, shields                                                                         |
+| Druid     | Light armour, medium armour, shields (druids will not wear armour or use shields made of metal)               |
+| Fighter   | Light armour, medium armour, shields, simple weapons, martial weapons                                        |
 | Monk      | Simple weapons, shortswords                                                                                |
-| Paladin   | Light armor, medium armor, shields, simple weapons, martial weapons                                        |
-| Ranger    | Light armor, medium armor, shields, simple weapons, martial weapons, one skill from the class's skill list |
-| Rogue     | Light armor, one skill from the class's skill list, *thieves' tools*                                       |
+| Paladin   | Light armour, medium armour, shields, simple weapons, martial weapons                                        |
+| Ranger    | Light armour, medium armour, shields, simple weapons, martial weapons, one skill from the class's skill list |
+| Rogue     | Light armour, one skill from the class's skill list, *thieves' tools*                                       |
 | Sorcerer  | —                                                                                                          |
-| Warlock   | Light armor, simple weapons                                                                                |
+| Warlock   | Light armour, simple weapons                                                                                |
 | Wizard    | —                                                                                                          |
 
 ### Class Features
 
-When you gain a new level in a class, you get its features for that level. You don't, however, receive the class's starting equipment, and a few features have additional rules when you're multiclassing: Channel Divinity, Extra Attack, Unarmored Defense, and Spellcasting.
+When you gain a new level in a class, you get its features for that level. You don't, however, receive the class's starting equipment, and a few features have additional rules when you're multiclassing: Channel Divinity, Extra Attack, Unarmoured Defense, and Spellcasting.
 
 #### Channel Divinity
 
@@ -73,9 +73,9 @@ If you already have the Channel Divinity feature and gain a level in a class tha
 
 If you gain the Extra Attack class feature from more than one class, the features don't add together. You can't make more than two attacks with this feature unless it says you do (as the fighter's version of Extra Attack does). Similarly, the warlock's eldritch invocation Thirsting Blade doesn't give you additional attacks if you also have Extra Attack.
 
-#### Unarmored Defense
+#### Unarmoured Defense
 
-If you already have the Unarmored Defense feature, you can't gain it again from another class.
+If you already have the Unarmoured Defense feature, you can't gain it again from another class.
 
 #### Spellcasting
 

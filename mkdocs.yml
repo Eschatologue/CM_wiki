@@ -21,11 +21,12 @@ nav:
       - Combat Basic: gameplay/combat/basic.md
       - Your Turn: gameplay/combat/your-turn.md
       - Making an Attack: gameplay/combat/making-an-attack.md
-      - Movement and Positioning: gameplay/combat/movement.md
+      - Movement: gameplay/combat/movement.md
       - Damage and Healing : gameplay/combat/damage-healing.md
     - Homebrew Mechanics:
       - Death's Door and Resove: gameplay/homebrew/resolve.md
       - Inventory System: gameplay/homebrew/inventory.md
+      - Fishing and Angling: gameplay/homebrew/fishing.md
   - Chartacter Creation:
     - Quickstart: character-creation/quickstart.md
     - Classes: character-creation/classes.md
@@ -55,6 +56,7 @@ nav:
     - Other Equipments: 
       - Tools & Kits: equipment/tools/artisan-tools.md
       - Other Tools: equipment/tools/other-tools.md
+      - Backpack: equipment/tools/backpack.md
     - Consumeables: 
       - Potion: equipment/consumeables/potion.md
   - Current Campaign:
@@ -99,24 +101,24 @@ theme:
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
-        icon: material/brightness-auto
+        icon: material/auto-mode
         name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: red
       accent: indigo
       toggle:
-        icon: material/brightness-7
+        icon: material/eye
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
       accent: teal
       toggle:
-        icon: material/brightness-4
+        icon: material/eye-outline
         name: Switch to system preference
   font:
-    code: Source Code Pro
+    code: Roboto Mono
     text: Roboto Slab
  #   text: Frank Ruhl Libre
   icon: 
