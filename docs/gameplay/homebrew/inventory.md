@@ -4,7 +4,7 @@ icon: material/view-grid-plus
 
 !!! homebrew "This is a Homebrew Mechanic!"
 
-    You just stumbled into a Hombebrew mechanic! This game material made by me, rather than by an official or third-party publisher.
+    You just stumbled into a Hombebrew mechanic! This ruling is designed by Tyler Legg & Jacob Vickers, and it is slightly modified to fit more into the Crown & Misery caampaign.
 
 
 # Inventory Slots
@@ -39,11 +39,26 @@ Items such as crossbow bolt cases or quivers can store up to 20 bolts or arrows.
 
 ### Backpacks
 
-At the start of the game, depending on the starting gear chosen from your class, you receive a Backpack. This Backpack takes 1 inventory slot but adds up to `+8` inventory slots for your character. You can only carry and use one backpack at a time, and you can't put a backpack inside another backpack. This isn't Minecraft, and you don't have shulker boxes.
+At the start of the game, depending on the starting gear chosen from your class, you receive a Backpack. 
 
-Taking an item from a backpack requires an :dnd-rsc-action: **Action**, representing the time it takes to search for and retrieve an item. As such, you can't use an item that is inside your backpack until you have used an :dnd-rsc-action: **Action** to pull it out.
+This Backpack takes 1 inventory slot but adds up to `+8` inventory slots for your character. You can only carry and use one backpack at a time, and you can't put a backpack inside another backpack. *This isn't Minecraft, and you don't have shulker boxes.*
+
+**Retreiving Item.** Taking an item from a backpack requires an :dnd-rsc-action:**Action**, representing the time it takes to search for and retrieve an item. As such, you can't use an item that is inside your backpack until you have used an :dnd-rsc-action:**Action** to pull it out.
 
 Larger backpacks exist in this D&D that you can find.
+
+Sure, here's the updated table with the Bag of Holding and the prices included:
+
+| **BACKPACK NAME** | **SLOTS ADDED** | **COST** |
+|:--|:-:|--:|
+| Starting Backpack | +8 | 200 SP |
+| Adventurer's Backpack | +12 | 400 SP |
+| Explorer's Backpack | +16 | 800 SP |
+| Ranger's Backpack | +20 | 1600 SP|
+| Hero's Backpack | +24 | 3200 SP |
+| Bag of Holding | +40 | - |
+
+This table includes the updated backpack tiers and their corresponding costs in silver.
 
 ### The Mysterious Black Chest
 
@@ -55,26 +70,41 @@ An item's "Bulk" does not necessarily represent its weight. It might be light bu
 
 ### Stackable
 
-Small items that can be stacked together without taking up multiple inventory slots. You can fit** up to 10** of the same item type per slot. Certain items, like ball bearings, can stack up to 1000 before taking up an inventory slot.
-*Examples includes; Arrows, bolts, rations, ball bearings.*
+Small items that can be stacked together without taking up multiple inventory slots. 
+
+You can fit **up to 10** of the same item type per slot. Certain items, like ball bearings, can stack up to 1000 before taking up an inventory slot.
+
+*Examples are Arrows, bolts, rations, ball bearings.*
 
 ### Light
 
-Items that are easy to carry and do not take up much space individually. Equipment with the *light* property does not take an inventory slot until you have a stack of three. For example, two shortswords do not take an inventory slot, but two shortswords and a dagger will take 1 inventory slot.  
-*Examples includes; Daggers, potions, small tools.*
+Items that are easy to carry and do not take up much space individually. 
+
+Equipment with the *light* property does not take an inventory slot until you have a stack of three. For example, two shortswords do not take an inventory slot, but two shortswords and a dagger will take 1 inventory slot.  
+
+*Examples are Daggers, potions, small tools.*
 
 ### Medium
 
-Standard-sized items that require some space in your inventory. These items take up **one inventory slot** each.  
-*Examples includes; Longswords, shields, spellbooks.*
+Standard-sized items that require some space in your inventory. 
+
+These items take up **one inventory slot** each.
+
+*Examples are Longswords, shields, spellbooks.*
 
 ### Heavy or Two-handed
 
-Large or cumbersome items that require significant space to carry. Items with the *heavy* or *two-handed* property take up **two inventory slots** each.  
-*Examples includes; Greatswords, halberds, mauls.*
+Large or cumbersome items that require significant space to carry. 
+
+Items with the *heavy* or *two-handed* property take up **two inventory slots** each.  
+
+*Examples are Greatswords, halberds, mauls.*
 
 ### Heavy Armor
 
-Bulky protective gear that takes up considerable space when not worn. These items take up **three inventory slots** each when they are not in the Equipped or Worn slots.  
-*Examples includes; Plate armor, chainmail, tower shields.*
+Bulky protective gear that takes up considerable space when not worn. 
+
+These items take up **three inventory slots** each when they are not in the Equipped or Worn slots.
+
+*Examples are Plate armor, chainmail, tower shields.*
  
