@@ -39,9 +39,11 @@ The term d20 Test encompasses the three main d20 rolls of the game: attack rolls
 When a creature attacks a target, it makes an attack roll against the target's AC to determine whether the attack is a hit or a miss. If the attack is a hit, it generally deals damage, and the attacker rolls for damage. 
 Creatures generally make their attacks with their equipped weapon (including unarmed), but some spells – such as a Warlock's Eldritch Blast – require the caster to make spell attack rolls.
 
-| :material-dice-d20:**ATTACK ROLLS** |
-|:---:|
-| :material-dice-d20: d20 + Ability Modifier + Proficiency Bonus (if proficient) + Other Bonuses (if applicable) |
+<p style="text-align: center;">
+
+<code>d20 + Ability Modifier + Proficiency Bonus (if proficient) + Other Bonuses (if applicable)</code>
+
+</p>
 
 #### :d20-save:{ .lg } Saving Throws
   
