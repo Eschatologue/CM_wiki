@@ -116,7 +116,7 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
   font:
-    code: Fira Code
+    code: Source Code Pro
     text: Roboto Slab
  #   text: Frank Ruhl Libre
   icon: 
