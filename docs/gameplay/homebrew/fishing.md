@@ -22,7 +22,7 @@ This newly designed fishing mechanic is completely different from what you might
 
 For every 1 hour you spend fishing, roll :material-dice-d6: 5d6. The process varies slightly depending on your skills:
 
-- **Proficiency in Wisdom (Survival) or Intelligence (Arcana):** You can reroll a number of times equal to your Wisdom (Survival) or Intelligence (Arcana) modifier. If you have both proficiencies, use the highest modifier.
+- **Proficiency in Wisdom (Survival) or Intelligence (Arcana):** You can reroll a number of times up to to your Wisdom (Survival) or Intelligence (Arcana) modifier. If you have both proficiencies, use the highest modifier.
 - **No Proficiency:** You can reroll a number of dice equal to your Wisdom or Intelligence modifier, using the highest modifier.
 
 You can reroll the same die more than once. After rerolling, keep each final die result.
@@ -40,3 +40,78 @@ Before summing your results, check if you rolled a special result. Multiply your
 | Straight | ×3 | Five sequential numbers. | `5 4 3 2 1`  |
 | Four-of-a-kind | ×4 | Four dice of the same number. | `2 2 2 2 4`  |
 | Five-of-a-kind | ×5 | Five dice of the same number. | `6 6 6 6 6`  |
+
+<html> 
+
+<head> 
+<title>HTML Calculator</title> 
+
+<!-- For styling -->
+<style> 
+table { 
+border: 1px solid black; 
+margin-left: auto; 
+margin-right: auto; 
+} 
+
+input[type="button"] { 
+width: 100%; 
+padding: 20px 40px; 
+background-color: green; 
+color: white; 
+font-size: 24px; 
+font-weight: bold; 
+border: none; 
+border-radius: 5px; 
+} 
+
+input[type="text"] { 
+padding: 20px 30px; 
+font-size: 24px; 
+font-weight: bold; 
+border: none; 
+border-radius: 5px; 
+border: 2px solid black; 
+} 
+</style> 
+</head> 
+
+<body> 
+
+<!-- Create table -->
+<table id="calcu"> 
+<tr> 
+<td colspan="3"> 
+<input type="text" id="result"> 
+</td> 
+<td><input type="button" value="c"></td> 
+</tr> 
+
+<tr> 
+<td><input type="button" value="1"></td> 
+<td><input type="button" value="2"></td> 
+<td><input type="button" value="3"></td> 
+<td><input type="button" value="/"></td> 
+</tr> 
+<tr> 
+<td><input type="button" value="4"></td> 
+<td><input type="button" value="5"></td> 
+<td><input type="button" value="6"></td> 
+<td><input type="button" value="*"></td> 
+</tr> 
+<tr> 
+<td><input type="button" value="7"></td> 
+<td><input type="button" value="8"></td> 
+<td><input type="button" value="9"></td> 
+<td><input type="button" value="-"></td> 
+</tr> 
+<tr> 
+<td><input type="button" value="0"></td> 
+<td><input type="button" value="."></td> 
+<td><input type="button" value="="></td> 
+<td><input type="button" value="+"></td> 
+</tr> 
+</table> 
+</body> 
+
+</html>  
