@@ -43,8 +43,32 @@ Before summing your results, check if you rolled a special result. Multiply your
 
 !!! tip "Dice Maiden"
 
-    It is understandable that this can be complicated when using Dice Maiden in Discord; rerolling dice in particular can be difficult to track. An alternate solution is to use the dice roll provided by [Google](https://g.co/kgs/yktfMZF).  
-    ^^Please don't fumble your rolls^^
+    It is understandable that this can be complicated when using Dice Maiden in Discord; rerolling dice in particular can be difficult to track. An alternate solution is to use the dice roll provided by [Google](https://g.co/kgs/yktfMZF). You can easily click the dice you wish to reroll with this.
+    ~~Please don't fumble your rolls~~
 
+### Example: Fishing with Antagoni
 
+Let's walk through a fishing example with our beloved special character, the legendary fishermen: Antagoni.
+
+#### Step 1: Prepare to Fish
+Antagoni decides to go fishing. He spends some time preparing his gear, attaching the bait and tackle, and finding a good spot. Fishing will take at least 1 hour.
+
+#### Step 2: Roll the Dice
+Antagoni is ready to fish for 1 hour. He rolls 5d6 to determine his catch. His rolls are: `4, 6, 6, 6, 2`.
+
+#### Step 3: Check for Proficiency and Reroll
+Antagoni has proficiency in Wisdom (Survival) with a Wisdom modifier of +2. This allows him to reroll up to 2 dice.
+
+He chooses to reroll the dice showing 4 and 2. His new rolls are 6 and 3. Now his dice results are: `6, 6, 6, 6, 3`.
+
+#### Step 4: Calculate Special Results
+Antagoni checks if he has a special result. He rolled a Four-of-a-kind (four 6s), which has a multiplier of ×3.
+
+#### Step 5: Calculate Final Result
+Antagoni sums his dice results: `6 + 6 + 6 + 6 + 3 = 27`.
+
+He then multiplies the sum by the Four-of-a-kind multiplier (×3): `27 × 3 = 81`.
+
+#### Step 6: Determine the Catch
+Antagoni consults the fishing table to determine what he caught based on the final result of 81, for this example purposel; A magical longsword. The specifics of the catch would depend on the campaign's fishing table, which the DM would provide.
 
