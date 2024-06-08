@@ -36,82 +36,9 @@ Before summing your results, check if you rolled a special result. Multiply your
 | **Special Result** | **Multiplier** | **Description** | **Example** |
 |---|:-:|---|:-:|
 | Full House | ×2 | Three dice of one number and two of another. | `3 3 3 5 5`  |
-| Three-of-a-kind | ×2 | Three dice of the same number. | `5 5 5 2 4`  |
-| Straight | ×3 | Five sequential numbers. | `5 4 3 2 1`  |
-| Four-of-a-kind | ×4 | Four dice of the same number. | `2 2 2 2 4`  |
-| Five-of-a-kind | ×5 | Five dice of the same number. | `6 6 6 6 6`  |
+| Three-of-a-kind | ×3 | Three dice of the same number. | `5 5 5 2 4`  |
+| Straight | ×4 | Five sequential numbers. | `5 4 3 2 1`  |
+| Four-of-a-kind | ×5 | Four dice of the same number. | `2 2 2 2 4`  |
+| Five-of-a-kind | ×6 | Five dice of the same number. | `6 6 6 6 6`  |
 
-<html> 
-
-<head> 
-<title>HTML Calculator</title> 
-
-<!-- For styling -->
-<style> 
-table { 
-border: 1px solid black; 
-margin-left: auto; 
-margin-right: auto; 
-} 
-
-input[type="button"] { 
-width: 100%; 
-padding: 20px 40px; 
-background-color: green; 
-color: white; 
-font-size: 24px; 
-font-weight: bold; 
-border: none; 
-border-radius: 5px; 
-} 
-
-input[type="text"] { 
-padding: 20px 30px; 
-font-size: 24px; 
-font-weight: bold; 
-border: none; 
-border-radius: 5px; 
-border: 2px solid black; 
-} 
-</style> 
-</head> 
-
-<body> 
-
-<!-- Create table -->
-<table id="calcu"> 
-<tr> 
-<td colspan="3"> 
-<input type="text" id="result"> 
-</td> 
-<td><input type="button" value="c"></td> 
-</tr> 
-
-<tr> 
-<td><input type="button" value="1"></td> 
-<td><input type="button" value="2"></td> 
-<td><input type="button" value="3"></td> 
-<td><input type="button" value="/"></td> 
-</tr> 
-<tr> 
-<td><input type="button" value="4"></td> 
-<td><input type="button" value="5"></td> 
-<td><input type="button" value="6"></td> 
-<td><input type="button" value="*"></td> 
-</tr> 
-<tr> 
-<td><input type="button" value="7"></td> 
-<td><input type="button" value="8"></td> 
-<td><input type="button" value="9"></td> 
-<td><input type="button" value="-"></td> 
-</tr> 
-<tr> 
-<td><input type="button" value="0"></td> 
-<td><input type="button" value="."></td> 
-<td><input type="button" value="="></td> 
-<td><input type="button" value="+"></td> 
-</tr> 
-</table> 
-</body> 
-
-</html>  
+It is understandable that this can be complicated when using Dice Maiden in Discord; rerolling dice in particular can be difficult to track. An alternate solution is to use the dice roll provided by Google, such as [this](https://g.co/kgs/XzkvCdM). I trust you to not fumble your roll.
