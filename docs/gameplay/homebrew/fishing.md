@@ -24,5 +24,5 @@ This newly designed fishing mechanic is completely different from what you might
 
 ##### Special Result Table
 |**Special Result**|**Multiplier**|**Description**|**Example**|
-|---|:-:||---|:-:|
+|---|:-:|---|:-:|
 |Two Pair| ×2 | Two Dice of the same number and two dice of the same number | `4 4 6 8 8` |
