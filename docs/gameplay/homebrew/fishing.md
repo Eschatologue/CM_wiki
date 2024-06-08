@@ -41,4 +41,10 @@ Before summing your results, check if you rolled a special result. Multiply your
 | Four-of-a-kind | ×5 | Four dice of the same number. | `2 2 2 2 4`  |
 | Five-of-a-kind | ×6 | Five dice of the same number. | `6 6 6 6 6`  |
 
-It is understandable that this can be complicated when using Dice Maiden in Discord; rerolling dice in particular can be difficult to track. An alternate solution is to use the dice roll provided by Google, such as [this](https://g.co/kgs/XzkvCdM). I trust you to not fumble your roll.
+!!! tip "Dice Maiden"
+
+    It is understandable that this can be complicated when using Dice Maiden in Discord; rerolling dice in particular can be difficult to track. An alternate solution is to use the dice roll provided by [Google](https://g.co/kgs/yktfMZF).  
+    ^^Please don't fumble your rolls^^
+
+
+
