@@ -35,15 +35,15 @@ Before summing your results, check if you rolled a special result. Multiply your
 
 | **Special Result** | **Multiplier** | **Description** | **Example** |
 |---|:-:|---|:-:|
-| Full House | ×2 | Three dice of one number and two of another. | `3 3 3 5 5`  |
-| Three-of-a-kind | ×3 | Three dice of the same number. | `5 5 5 2 4`  |
-| Straight | ×4 | Five sequential numbers. | `5 4 3 2 1`  |
-| Four-of-a-kind | ×5 | Four dice of the same number. | `2 2 2 2 4`  |
-| Five-of-a-kind | ×6 | Five dice of the same number. | `6 6 6 6 6`  |
+| Full House | ×2 | Three dice of one number and two of another. | `3 3 3 5 5` |
+| Three-of-a-kind | ×2 | Three dice of the same number. | `5 5 5 2 4` |
+| Straight | ×3 | Five sequential numbers. | `5 4 3 2 1` |
+| Four-of-a-kind | ×4 | Four dice of the same number. | `2 2 2 2 4` |
+| Five-of-a-kind | ×5 | Five dice of the same number. | `6 6 6 6 6` |
 
 !!! tip "Dice Maiden"
 
-    It is understandable that this can be complicated when using Dice Maiden in Discord; rerolling dice in particular can be difficult to track. An alternate solution is to use the dice roll provided by [Google](https://g.co/kgs/yktfMZF). You can easily click the dice you wish to reroll with this.
+    It is understandable that this can be complicated when using Dice Maiden in Discord; rerolling dice in particular can be difficult to track. An alternate solution is to use the dice roll provided by [Google](https://g.co/kgs/yktfMZF). You can easily click the dice you wish to reroll with this.  
     ~~Please don't fumble your rolls~~
 
 ### Example: Fishing with Antagoni
@@ -57,18 +57,26 @@ Antagoni decides to go fishing. He spends some time preparing his gear, attachin
 Antagoni is ready to fish for 1 hour. He rolls 5d6 to determine his catch. His rolls are: `4, 6, 6, 6, 2`.
 
 #### Step 3: Check for Proficiency and Reroll
-Antagoni has proficiency in Wisdom (Survival) with a Wisdom modifier of +2. This allows him to reroll up to 2 dice.
+Antagoni has proficiency in Wisdom (Survival) with a Wisdom score modifier of +2, this means he has +4 on Wisdom (Survival) skil. This allows him to reroll up to 4 dice, but he choose to only reroll 2 for now.
 
-He chooses to reroll the dice showing 4 and 2. His new rolls are 6 and 3. Now his dice results are: `6, 6, 6, 6, 3`.
+He chooses to reroll the 2 dice showing 4 and 2. His new rolls are 6 and 3. Now his dice results are: `6, 6, 6, 6, 3`.
 
 #### Step 4: Calculate Special Results
-Antagoni checks if he has a special result. He rolled a Four-of-a-kind (four 6s), which has a multiplier of ×3.
+Antagoni checks if he has a special result. He rolled a Four-of-a-kind (four 6s), which has a multiplier of ×4.
 
 #### Step 5: Calculate Final Result
 Antagoni sums his dice results: `6 + 6 + 6 + 6 + 3 = 27`.
 
-He then multiplies the sum by the Four-of-a-kind multiplier (×3): `27 × 3 = 81`.
+He then multiplies the sum by the Four-of-a-kind multiplier (×5): `27 × 4 = 108`.
 
 #### Step 6: Determine the Catch
-Antagoni consults the fishing table to determine what he caught based on the final result of 81, for this example purposel; A magical longsword. The specifics of the catch would depend on the campaign's fishing table, which the DM would provide.
+Antagoni consults the fishing table to determine what he caught based on the final result of 108, for this example purpose; A magical longsword. The specifics of the catch would depend on the fishing table.
 
+## Fishing Loot
+
+Below is the Fishing table for each different biome you can fish within Antares. Refer to the table after calculating your final result:
+
+#### Fishing Table
+|**Score**|**Freshwater**|**Sell Price**|
+|:-:|:--|--:|
+|5-19| Junk (roll on the Junk table)| - |
