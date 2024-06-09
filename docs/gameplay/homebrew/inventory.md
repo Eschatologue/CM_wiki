@@ -56,43 +56,58 @@ A mysterious item conjured by the will of the DM and powered by the DM’s Conve
 
 An item's "Bulk" does not necessarily represent its weight. It might be light but cumbersome or small but very heavy. Refer to the rules below for item categorization.
 
-### Stackable
+<div class="grid cards" markdown>
 
-Small items that can be stacked together without taking up multiple inventory slots. 
+- :material-database:{ .lg .middle } **Stackable**
+  
+    ---
 
-You can fit **up to ten** of the same item type per slot. Certain items, like ball bearings, can stack up to 1000 before taking up an inventory slot.
+    Small items that can be stacked together without taking up multiple inventory slots. 
 
-*Examples are Arrows, Bolts, Rations, ball bearings.*
+    You can fit **up to ten** of the same item type per slot. Certain items, like ball bearings, can stack up to 1000 before taking up an inventory slot.
 
-### Light
+    *Examples are Arrows, Bolts, Rations, ball bearings.*
 
-Items that are easy to carry and do not take up much space individually. 
+- :material-gauge-empty:{ .lg .middle } **Light**
 
-Equipment with the *light* property **does not take an inventory slot** until you have a **stack of three**. For example, two shortswords do not take an inventory slot, but two shortswords with a dagger will take 1 inventory slot.
+    ---
 
-*Examples are Daggers, potions, small tools.*
+    Items that are easy to carry and do not take up much space individually. 
 
-### Medium
+    Equipment with the *light* property **does not take an inventory slot** until you have a **stack of three**. For example, two shortswords do not take an inventory slot, but two shortswords with a dagger will take 1 inventory slot.
 
-Standard-sized items that require some space in your inventory, this category ecompass most item you will come across.
+    *Examples are Daggers, potions, small tools.*
 
-These items take up **one inventory slot** each.
+- :material-gauge-low:{ .lg .middle } **Medium**
 
-*Examples are longswords, shields, spellbooks.*
+    ---
 
-### Heavy or Two-handed
+    Standard-sized items that require some space in your inventory, this category ecompass most item you will come across.
 
-Large or cumbersome items that require significant space to carry. 
+    These items take up **one inventory slot** each.
 
-Items with the *heavy* or *two-handed* property take up **two inventory slots** each.  
+    *Examples are longswords, shields, spellbooks.*
 
-*Examples are greatswords, halberds, mauls.*
+- :material-gauge-full:{ .lg .middle } **Heavy or Two-handed**
 
-### Heavy Armour
+    ---
 
-Bulky protective gear that takes up considerable space when not worn. 
+    Large or cumbersome items that require significant space to carry. 
 
-These items take up **three inventory slots** each when they are not in the Equipped or Worn slots.
+    Items with the *heavy* or *two-handed* property take up **two inventory slots** each.  
 
-*Examples are plate armour, chainmail, tower shields.*
- 
+    *Examples are greatswords, halberds, mauls.*
+
+- :fontawesome-brands-shirtsinbulk:{ .lg .middle } **Heavy Armour**
+
+    ---
+
+    Bulky protective gear that takes up considerable space when not worn. 
+
+    These items take up **three inventory slots** each when they are not in the Equipped or Worn slots.
+
+    *Examples are plate armour, chainmail, tower shields.*
+    
+
+</div>
+

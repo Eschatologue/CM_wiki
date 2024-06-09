@@ -4,11 +4,11 @@ icon: material/door-open
 
 !!! homebrew "This is a Homebrew Mechanic!"
 
-    You just stumbled into a Hombebrew mechanic! This game material made by me, rather than by an official or third-party publisher.
+    You just stumbled into a Hombebrew mechanic! This game material made by me, adn is heavily inspired by Darkest Dungeon 1 and Darkest Dungeon 2.
 
 # Resolve and Death's Door
 
-The Resolve and Death's Door mechanic is introduced in Crown and Misery to add more unpredictability to combat. In simple terms, even if you're reduced to 0 HP, you're still in the game! This mechanic replaces the usual Death Saving Throws in regular D&D, allowing players to remain conscious at 0 HP with varying degrees of virtue and affliction.
+The Resolve and Death's Door mechanic is introduced in Crown & Misery to add more unpredictability to combat. In simple terms, even if you're reduced to 0 HP, you're still in the game! This mechanic replaces the usual Death Saving Throws in regular D&D, allowing players to remain conscious at 0 HP with varying degrees of virtue and affliction.
 
 ## Death's Door
 

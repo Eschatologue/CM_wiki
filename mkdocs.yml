@@ -99,27 +99,12 @@ theme:
     - pymdownx.superfences
   language: en
   palette:
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/auto-mode
-        name: Switch to light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: red
-      accent: indigo
-      toggle:
-        icon: material/eye
-        name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: black
-      accent: teal
-      toggle:
-        icon: material/eye-outline
-        name: Switch to system preference
+    scheme: slate
+    primary: black
+    accent: teal
   font:
     code: Roboto Mono
-    text: Roboto Slab
+    text: Roboto Condensed
  #   text: Frank Ruhl Libre
   icon: 
     logo: fontawesome/solid/dice-d20

@@ -6,6 +6,8 @@ icon: fontawesome/solid/fish-fins
 
     You just stumbled into a Homebrew mechanic! This minigame is orginally designed by Saffy Penrose, and its system is used as a base for this D&D Fishing mechanic.
 
+# Fishing and Angling
+
 In the days before the devastation caused by the warp storms and the emergence of horrendous aberrations in the Antares wilderness, fishing was a cherished pastime. Commoners, adventurers, and even nobility took delight in casting their lines into the serene waters. However, as most civilizations withdrew behind the protective walls of citadel cities, the art of fishing slowly slipped into obscurity.
 
 Antares' natural rivers and waters, now severely tainted by the Warp, saw most of its fish population undergo mutations, giving them grotesque features akin to the aberrations roaming the land. While many former fishermen and anglers turned to fish farming to preserve the dwindling population of untainted fish, a few individuals remained steadfast in their love for the excitement and adrenaline that only fishing could provide. 
@@ -33,7 +35,7 @@ Before summing your results, check if you rolled a special result. Multiply your
 
 #### Special Result Table
 
-| **Special Result** | **Multiplier** | **Description** | **Example** |
+| Special Result | Multiplier | Description | Example |
 |---|:-:|---|:-:|
 | Full House | ×2 | Three dice of one number and two of another. | `3 3 3 5 5` |
 | Three-of-a-kind | ×2 | Three dice of the same number. | `5 5 5 2 4` |
@@ -50,24 +52,24 @@ Before summing your results, check if you rolled a special result. Multiply your
 
 Let's walk through a fishing example with our beloved special character, the legendary fishermen: Antagoni.
 
-**Step 1: Prepare to Fish.**  
+1. **Prepare to Fish**  
 Antagoni decides to go fishing. He spends some time preparing his gear, attaching the bait and tackle, and finding a good spot. Fishing will take at least 1 hour.
 
-**Step 2: Roll the Dice**  
+2. **Roll the Dice**  
 Antagoni is ready to fish for 1 hour. He rolls 5d6 to determine his catch. His rolls are: `4, 6, 6, 6, 2`.
 
-**Step 3: Check for Proficiency and Reroll**  
+3. **Check for Proficiency and Reroll**  
 Antagoni has proficiency in Wisdom (Survival) with a Wisdom score modifier of +2, this means he has +4 on Wisdom (Survival) skil. This allows him to reroll up to 4 dice, but he choose to only reroll 2 for now. He chooses to reroll the 2 dice showing 4 and 2. His new rolls are 6 and 3. Now his dice results are: `6, 6, 6, 6, 3`.
 
-**Step 4: Calculate Special Results**  
+4. **Calculate Special Results**  
 Antagoni checks if he has a special result. He rolled a Four-of-a-kind (four 6s), which has a multiplier of ×4.
 
-**Step 5: Calculate Final Result**  
+5. **Calculate Final Result**  
 Antagoni sums his dice results: `6 + 6 + 6 + 6 + 3 = 27`.
 
-He then multiplies the sum by the Four-of-a-kind multiplier (×5): `27 × 4 = 108`.
+He then multiplies the sum by the Four-of-a-kind multiplier (×4): `27 × 4 = 108`.
 
-**Step 6: Determine the Catch**  
+**Determine the Catch**  
 Antagoni consults the fishing table to determine what he caught based on the final result of 108, for this example purpose; A magical longsword. The specifics of the catch would depend on the fishing table.
 
 ## Fishing Loot
@@ -76,7 +78,7 @@ Below is the Fishing table for each different biome you can fish within Antares.
 
 === "FRESHWATER"
 
-    |:material-calculator-variant: **OVERALL SCORE** | :material-database-alert: **LOOT** | :rsc-silver: **PRICE** |:material-calculator-variant: **OVERALL SCORE** | :material-database-alert: **LOOT** | :rsc-silver: **PRICE** |
+    | score | loot | price | score |  loot | price |
     |:---:|:---|---:|:---:|:---|---:|
     | 5-19 | Junk (Roll on Junk Table) |  | 67-69 | 1d4 Fiddler Crab | 310 SP |
     | 20-21 | 2d6 Fanged Strangler | 40 SP | 70-73 | 1d4 Barbed Eel | 420 SP |
@@ -100,7 +102,7 @@ Below is the Fishing table for each different biome you can fish within Antares.
 
 === "SALTWATER"
 
-    |:material-calculator-variant: **OVERALL SCORE** | :material-database-alert: **LOOT** | :rsc-silver: **PRICE** |:material-calculator-variant: **OVERALL SCORE** | :material-database-alert: **LOOT** | :rsc-silver: **PRICE** |
+    | score | loot | price | score |  loot | price |
     |:---:|:---|---:|:---:|:---|---:|
     | 5-19 | Junk (Roll on Junk Table) |  | 67-69 | 2d4 Glaring Sunfish | 210 SP |
     | 20-21 | 2d6 Fanged Strangler | 40 SP | 70-73 | 1d4 Barbed Eel | 420 SP |
@@ -124,7 +126,7 @@ Below is the Fishing table for each different biome you can fish within Antares.
 
 === "ABYSSAL"
 
-    |:material-calculator-variant: **OVERALL SCORE** | :material-database-alert: **LOOT** | :rsc-silver: **PRICE** |:material-calculator-variant: **OVERALL SCORE** | :material-database-alert: **LOOT** | :rsc-silver: **PRICE** |
+    | score | loot | price | score |  loot | price |
     |:---:|:---|---:|:---:|:---|---:|
     | 5-19 | Junk (Roll on Junk Table) |  | 104-107 | Loosejaw | 1,950 SP |
     | 20-21 | 2d6 Fanged Strangler | 40 SP | 108-111 | Volcano Snail | 2,030 SP |
@@ -148,7 +150,7 @@ Below is the Fishing table for each different biome you can fish within Antares.
 
 === "TUNDRA"
 
-    |:material-calculator-variant: **OVERALL SCORE** | :material-database-alert: **LOOT** | :rsc-silver: **PRICE** |:material-calculator-variant: **OVERALL SCORE** | :material-database-alert: **LOOT** | :rsc-silver: **PRICE** |
+    | score | loot | price | score |  loot | price |
     |:---:|:---|---:|:---:|:---|---:|
     | 5-19 | Junk (Roll on Junk Table) |  | 96-101 | King's Wreath | 1,520 SP |
     | 20-21 | 2d6 Fanged Strangler | 40 SP | 102-107 | Pale Grasper | 1,610 SP |

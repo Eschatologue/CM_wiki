@@ -44,31 +44,40 @@ Heavy firearms include rocket launchers, flamethrowers, machine guns, and other 
 
 List of Firearms that you can possibly find in this world:
 
-| :material-text: **NAME** | :material-currency-gbp: **COST** | :material-bullseye-arrow: **DAMAGE** |:material-tag-multiple: **PROPERTIES** |    
+##### Short arms
+| name | cost | damage | properties |    
 | :-- | --: | :-- | --- |
-| **SHORT-ARMS** | | | |
 | Pistol, Revolver | 3,000 sp | 1d8 piercing | Ammunition (:material-vector-line:range 60/200), Automatic (1), Light, Reload (7)  |
 | Pistol, Semi-Auto | 2,500 sp | 1d6 piercing | Ammunition (:material-vector-line:range 60/200), Automatic (2), Light, Reload (7) |
-| **LONG-ARMS** | | | |
+
+##### Long arms
+| name | cost | damage | properties |    
+| :-- | --: | :-- | --- |
 | Rifle, Automatic | 6,500 sp | 1d10 piercing | Ammunition (:material-vector-line:range 90/270), Automatic (3), Heavy, Reload (12), Two-handed |
 | Rifle, Marksmen | 8,000 sp | 2d8 piercing | Ammunition (:material-vector-line:range 180/550), Reload (8), Sighted, Two-handed |
 | Rifle, Semi-Auto | 5,000 sp | 2d6 piercing | Ammunition (:material-vector-line:range 120/320), Automatic (1), Heavy, Reload (6), Two-handed |
 | Shotgun, Over-under | 4,000 sp | 1d10 piercing | Ammunition (:material-vector-line:range 30/50), Automatic (3), Heavy, Reload (2), Scatter(2d8), Two-handed, Special |
 | Shotgun, Pump | 6,000 sp | 1d8 piercing | Ammunition (:material-vector-line:range 50/90), Automatic (3), Heavy, Reload (7), Scatter(1d12), Two-handed |
 | Submachine Gun | 3,500 sp | 1d6 piercing | Ammunition (:material-vector-line:range 40/90), Automatic (4), Reload (30), Two-handed |
-| **HEAVIES** | | | |
+
+##### Heavy Weapons
+| name | cost | damage | properties |    
+| :-- | --: | :-- | --- |
 | Machine Gun | 15,000  sp | 2d8 piercing | Ammunition (:material-vector-line:range 150/600), Automatic (5), Heavy, Mounted, Reload (50), Two-handed |
 | Rocket Launcher | 12,500 sp | 8d6 fire | Ammunition (:material-vector-line:range 150/300), Explosive, Heavy, Reload (1), Two-handed |
 | Grenade Launcher | 9,000 sp | 1d4-1 bludgeoning | Ammunition (:material-vector-line:range 120/240), Heavy, Loading, Special |
-| **AMMUNITION** | | | |
-| Pistol Cartridges (20) | 200 sp | | Used by Pistols and SMGs |
-| Rifle Cartridges (20) | 300 sp | | Used by Rifles and Machine Gun |
-| Shotgun Cartridges (20) | 150 sp | | Used by Shotguns |
-| Rocket Propelled Grenade (1) | 1,000 sp | | Used by Rocket Launchers |
+
+##### Ammunitions
+| name | cost | properties |    
+| :-- | --: | --- |
+| Pistol Cartridges (20) | 200 sp | Used by Pistols and SMGs |
+| Rifle Cartridges (20) | 300 sp | Used by Rifles and Machine Gun |
+| Shotgun Cartridges (20) | 150 sp | Used by Shotguns |
+| Rocket Propelled Grenade (1) | 1,000 sp | Used by Rocket Launchers |
 
 ### Special Weapons
 
-Weapons with *special*  properties are listed here:
+Weapons with *special* properties are listed here:
 
 #### Shotgun, Over-under
 
@@ -96,13 +105,13 @@ What effect each type of grenade can cause is stated on [Grenade Effects](#grena
 
 #### Grenade Effects
 
-**Grenade, Cryogenic.** Creatures that fails the :material-dice-d20: **Saving Throw**, takes the grenade damage and its movement speed is halved for 1 minute, the creature repeat this saving throw at the start of each turn, ending the effect on success. On successful save, it only takes half damage and no additional effects.
+**Grenade, Cryogenic.** Creatures that fails the :d20-save:**Saving Throw**, takes the grenade damage and its movement speed is halved for 1 minute, the creature repeat this saving throw at the start of each turn, ending the effect on success. On successful save, it only takes half damage and no additional effects.
 
-**Grenade, Fragmentation.** Creatures that fails the :material-dice-d20: **Saving Throw**, takes the grenade damage, On successful save, it only takes half damage.
+**Grenade, Fragmentation.** Creatures that fails the :d20-save:**Saving Throw**, takes the grenade damage, On successful save, it only takes half damage.
 
-**Grenade, Incendiary.** Creatures that fails the :material-dice-d20: **Saving Throw**, takes the grenade damage or half as much on successful save. The ground in a 20-foot radius centered on the target is ignited in flames. Each creature that enters the affected area, starts its turn or, end its turn on the affected area immediately takes :material-fire: **3d4 Fire** damage.
+**Grenade, Incendiary.** Creatures that fails the :d20-save:**Saving Throw**, takes the grenade damage or half as much on successful save. The ground in a 20-foot radius centered on the target is ignited in flames. Each creature that enters the affected area, starts its turn or, end its turn on the affected area immediately takes :material-fire: **3d4 Fire** damage.
 
-**Grenade, Flashbang.** Creatures that fails the :material-dice-d20: **Saving Throw**, takes the grenade damage and it is Blinded(1) and Deafened(2) for 1 minute. The creature repeats this saving throw at the start of each turn, ending the effect on success. On successful save, it only takes half damage and no additional effects.
+**Grenade, Flashbang.** Creatures that fails the :d20-save:**Saving Throw**, takes the grenade damage and it is Blinded(1) and Deafened(2) for 1 minute. The creature repeats this saving throw at the start of each turn, ending the effect on success. On successful save, it only takes half damage and no additional effects.
 { .annotate }
 
 1. :material-eye-off: **Blinded** is a Condition.
