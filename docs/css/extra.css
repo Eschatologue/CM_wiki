@@ -3,6 +3,7 @@
 .md-typeset {
     text-align: justify;
     text-justify: inter-word;
+    font-size: medium;
 }
 
 /* Headers */
@@ -56,7 +57,7 @@ table tr:last-child td:last-child {
 /* Table Header Styling */
 .md-typeset table:not([class]) th {
     font-weight: bold !important;
-    text-transform: capitalize !important;
+    text-transform: uppercase !important;
     color: rgba(255, 255, 255, 0.6);
 }
 
@@ -70,7 +71,7 @@ table tr:last-child td:last-child {
 .md-typeset h1 {
     margin-bottom: -0.15em;
 }
-
+ 
 /* H4 - Title beginning for complex parts */
 .md-typeset h4 {
     font-size: 0.88rem;
@@ -93,13 +94,14 @@ table tr:last-child td:last-child {
     padding-right: 0.4em;
     font-weight: normal;
     font-size: 0.625rem;
+    border-radius: 4px;
 }
 
 /* Tool Tips */
 [role=tooltip]>.md-tooltip2__inner {
     padding: 0.45em;
-    padding-left: 1.25em;
-    padding-right: 1.25em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
     max-width: 35rem;
     font-size: 0.7rem;
     font-weight: normal;

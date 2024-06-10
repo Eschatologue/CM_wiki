@@ -24,6 +24,7 @@ nav:
       - Movement: gameplay/combat/movement.md
       - Damage and Healing : gameplay/combat/damage-healing.md
     - Homebrew Mechanics:
+      - Affiliation: gameplay/homebrew/affiliation.md
       - Death's Door and Resove: gameplay/homebrew/resolve.md
       - Inventory System: gameplay/homebrew/inventory.md
       - Fishing and Angling: gameplay/homebrew/fishing.md
@@ -104,7 +105,7 @@ theme:
     accent: teal
   font:
     code: Roboto Mono
-    text: Roboto Condensed
+    text: Roboto Slab
  #   text: Frank Ruhl Libre
   icon: 
     logo: fontawesome/solid/dice-d20

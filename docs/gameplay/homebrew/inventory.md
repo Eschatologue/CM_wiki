@@ -40,13 +40,11 @@ Items such as crossbow bolt cases or quivers can store up to 20 bolts or arrows.
 
 ### Backpacks
 
-At the start of the game, depending on the starting gear chosen from your class, you receive a Backpack. 
+At the start of the game, depending on the starting gear chosen from your class, you receive a Backpack.
 
-This Backpack takes 1 inventory slot but adds up to +8 inventory slots for your character.
+This Backpack takes 1 inventory slot but adds up to +8 inventory slots for your character. For a list of Backpacks and their mechanics, go to [here](../../equipment/tools/backpack.md).
 
-For a list of Backpacks and its mechanic, go to [here](../../equipment/tools/backpack.md).
-
-**Retreiving Item.** Taking an item from a backpack requires an :rsc-action:**Action**, representing the time it takes to search for and retrieve an item. As such, you can't use an item that is inside your backpack until you have used an :rsc-action:**Action** to pull it out.
+**Retrieving Item.** Taking an item from a backpack requires an :rsc-action:**Action**, representing the time it takes to search for and retrieve an item. As such, you can't use an item that is inside your backpack until you have used an :rsc-action:**Action** to pull it out. Proficiency in Dexterity (Sleight of Hand) allows you to retrieve an item from your backpack as an :rsc-bonus-action:**Bonus Action** instead. If you have expertise in Dexterity (Sleight of Hand), it does not consume any type of Action.
 
 ### The Mysterious Black Chest
 

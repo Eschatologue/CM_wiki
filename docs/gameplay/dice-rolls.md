@@ -97,7 +97,7 @@ Ability checks are usually made using a specified skill. Skills are specific are
 
 Characters add their proficiency bonus to any ability checks they make using skills they are proficient in.
 
-| **:material-arm-flex:{ .lg .middle } Strength** | **:material-hand-front-right:{ .lg .middle } Dexterity** | **:material-book-cog:{ .lg .middle } Intelligence** | **:fontawesome-solid-scroll:{ .lg .middle } Wisdom** | **:material-handshake:{ .lg .middle } Charisma** |
+| **:ability-str:{ .lg  } Strength** | **:ability-dex:{ .lg  } Dexterity** | **:ability-int:{ .lg  } Intelligence** | **:ability-wis:{ .lg  } Wisdom** | **:ability-cha:{ .lg  } Charisma** |
 |:---:|:---:|:---:|:---:|:---:|
 | [Athletics] | [Acrobatics] | [Arcana] | [Animal Handling] | [Deception] |
 |  | [Sleight of Hand] | [History] | [Insight] | [Intimidation] |
@@ -166,7 +166,7 @@ Here's how to determine a character's total for a passive check:
 |10 + all modifiers that normally apply to the check|
 
 
-If the character has advantage on the check, add 5. For :d20-disadv: **Disadvantage**, subtract 5. The game refers to a passive check total as a score.
+If the character has :d20-adv:**Advantage** on the check, add 5. For :d20-disadv:**Disadvantage**, subtract 5. The game refers to a passive check total as a score.
 
 For example, if a 1st-level character has a Wisdom of 15 and proficiency in Perception, he or she has a passive Wisdom (Perception) score of 14.
 

@@ -33,23 +33,33 @@ This setting uses a post-apocalyptic dystopian science fantasy world, characters
 This D&D uses standard races available to PHB with some additions and changes, refer to [this](../character-creation/race/race.md) for more details. There is 9 available race available for choosing.
 
 ## 3. Choose a Background
-You can choose a pre-written background available on [WikiDot](http://dnd5e.wikidot.com/#toc3), only the Common Background though. If you're unsure about which background to choose, this D&D campaign uses the optional Custom Background^PHB.p126^ rule. Finding a background that fits your character and the setting can be challenging, and the DM prefers to recycle existing backgrounds with added twists rather than create new ones from scratch. The details are as follows:
+You can choose a pre-written background available on [WikiDot](http://dnd5e.wikidot.com/#toc3), only the Common Background though. 
 
-### Custom Background
-**Skill Proficiencies:** Two of your choice.  
-**Languages and Tool Proficiencies:** Two languages or two tool proficiencies or one language and one tool proficiency.
-**Equipment:** The equipment package from any [background]:material-information-outline:{ title="Only from Common Background!" }.
+If you're unsure about which background to choose, this D&D campaign uses the optional Custom Background^PHB^ rule. Finding a background that fits your character and the setting can be challenging, and the DM prefers to recycle existing backgrounds with added twists rather than create new ones from scratch. The details are as follows:
 
-#### Feature: Choose a feature
-Choose a feature from any [background]:material-information-outline:{ title="Only from Common Background!" }.
+!!! homebrew "Custom Background"
 
-#### Feat
-Choose a starting [Feat].
+    #### Skill Proficiencies
+    Two of your choice.  
 
-Even if you choose a pre-written background, the option of a starting feat is still available to you.
+    #### Languages and Tool Proficiencies
+    Two languages or two tool proficiencies or one language and one tool proficiency.  
+    
+    #### Equipment
+    The equipment package from any [background]:material-information-outline:{ title="Only from Common Background!" }.
+
+    #### Feature: Choose a feature
+    Choose a feature from any [background]:material-information-outline:{ title="Only from Common Background!" }.
+
+    #### Feat
+    Choose a starting [Feat]. Even if you choose a pre-written background, the option of a starting feat is still available to you.
+
+    #### Affiliation
+    You have 5 point to spend between 4 [Affiliation]; Academe, Bohemia, Establishment, Villainny
 
 [background]: http://dnd5e.wikidot.com/#toc3
 [feat]: feat/feat-starting.md
+[Affiliation]: ../../docs/gameplay/homebrew/affiliation.md
 
 ## 4. Choosing a Class
 *Main Article: [Classes](../character-creation/classes.md)*

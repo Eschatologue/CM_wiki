@@ -41,6 +41,8 @@ Exotic languages are rare and typically not accessible to your character unless 
 
 ## Relating Celestial Language
 
+*Main Article: [Celestial](../lore/celestial.md)*
+
 Celestial is known by many names, including god-tongue, correspondence, and Aesirian, but it is often academically referred to as "celestial." It is the oldest of the alphabets, maddening, and often inflammatory.
 
 Since the opening of the northern gate, understanding the celestial tongue has shifted from a reckless indulgence to an urgent necessity. The risks, however – madness and combustion – are substantial.
