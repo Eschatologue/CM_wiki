@@ -54,7 +54,8 @@ nav:
       - equipment/weapon/index.md
       - Cold Weapons: equipment/weapon/weapon-cold.md
       - Firearms & Explosives: equipment/weapon/weapon-firearm.md
-    - Other Equipments: 
+    - Equipments: 
+      - Adventuring Gear: equipment/tools/adventuring-gear.md
       - Tools & Kits: equipment/tools/artisan-tools.md
       - Other Tools: equipment/tools/other-tools.md
       - Backpack: equipment/tools/backpack.md
@@ -105,8 +106,7 @@ theme:
     accent: teal
   font:
     code: Roboto Mono
-    text: Roboto Slab
- #   text: Frank Ruhl Libre
+    text: Roboto Condensed
   icon: 
     logo: fontawesome/solid/dice-d20
     annotation: material/timeline-question

@@ -59,7 +59,7 @@ If you're unsure about which background to choose, this D&D campaign uses the op
 
 [background]: http://dnd5e.wikidot.com/#toc3
 [feat]: feat/feat-starting.md
-[Affiliation]: ../../docs/gameplay/homebrew/affiliation.md
+[Affiliation]: ../gameplay/homebrew/affiliation.md
 
 ## 4. Choosing a Class
 *Main Article: [Classes](../character-creation/classes.md)*

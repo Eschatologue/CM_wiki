@@ -11,7 +11,7 @@ Your class grants proficiency in certain weapons, reflecting both the class's fo
 
 Your race, class, and feats can grant you proficiency with certain weapons or categories of weapons. 
 
-Proficiency with a weapon allows you to add your proficiency bonus to the attack roll for any attack you make with that weapon. If you make an attack roll using a weapon with which you lack proficiency, you do not add your proficiency bonus to the attack roll.
+Proficiency with a weapon allows you to add your proficiency bonus to the :d20-attack:**Attack Roll** for any attack you make with that weapon. If you make an :d20-attack:**Attack Roll** using a weapon with which you lack proficiency, you do not add your proficiency bonus to the :d20-attack:**Attack Roll**.
 
 ## Weapon Categories
 
@@ -45,13 +45,13 @@ Drawing the ammunition from a quiver, case, or other container is part of the at
 
 #### :material-reload-alert:{ .lg } Automatic
 
-Once per round, when you the attack action with this weapon on your turn, you can choose to make additional attacks (make seperate attack rolls) up to the number in the parenthesis. 
+Once per round, when you the attack action with this weapon on your turn, you can choose to make additional attacks (make seperate :d20-attack:**Attack Roll**s) up to the number in the parenthesis. 
 
-The additional attacks are always made with disadvantage regardless of circumstances and expends ammunitions equal to the number of attacks.
+The additional attacks are always made with :d20-disadv:**Disadvantage** regardless of circumstances and expends ammunitions equal to the number of attacks.
 
 #### :material-bomb:{ .lg } Explosive
 
-When this weapon’s projectile hits a target, it explodes in a diameter sphere on the parenthesis. The weapon can target a point within its range. Each creature in the area of effect centered on the point or the target must make a DC 15 Dexterity saving throw. Targets takes the weapon's damage on a failed save, or half as much damage on a successful one, your target makes this saving throw at a disadvantage.
+When this weapon’s projectile hits a target, it explodes in a diameter sphere on the parenthesis. The weapon can target a point within its range. Each creature in the area of effect centered on the point or the target must make a DC 15 Dexterity saving throw. Targets takes the weapon's damage on a failed save, or half as much damage on a successful one, your target makes this saving throw at a :d20-disadv:**Disadvantage**.
 
 #### :material-hand-okay:{ .lg } Finesse
 
@@ -59,7 +59,7 @@ When making an attack with a finesse weapon, you use your choice of your Strengt
 
 #### :material-weight:{ .lg } Heavy
 
-Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon’s size and bulk make it too large for a Small creature to use effectively. Item with this property take 1 additional inventory space.
+A Heavy weapon is unwieldy compared to other weapons. You have :d20-disadv:**Disadvantage** on your :d20-attack:**Attack Roll**s with a Heavy weapon if it’s a Melee weapon and your Strength score isn’t at least 13, and if it’s a Ranged weapon and your Dexterity score isn’t at least 13
 
 #### :material-feather:{ .lg } Light
 
@@ -78,7 +78,7 @@ Because of the time required to load this weapon, you can fire only one piece of
 
 #### :material-vector-line:{ .lg } Range
 
-This weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's long range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.
+This weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's long range. When attacking a target beyond normal range, you have :d20-disadv:**Disadvantage** on the :d20-attack:**Attack Roll**. You can't attack a target beyond the weapon's long range.
 
 #### :material-spear:{ .lg } Reach
 
@@ -92,13 +92,13 @@ Some weapons require an action or longer to reload, even if you have proficiency
 
 #### :material-arrow-u-right-top:{ .lg } Thrown
 
-You can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier(1) for that attack roll and damage roll that you would use for a melee attack with the weapon. 
+You can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier(1) for that :d20-attack:**Attack Roll** and damage roll that you would use for a melee attack with the weapon. 
 { .annotate }
 
 1. e.g. If you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the *Finesse*(1) property.
     { .annotate }
 
-    1. *Finesse* is a weapon property. You choose either your Strength or Dexterity modifier for the attack rolls and damage rolls. You must use the same modifier for both rolls.
+    1. *Finesse* is a weapon property. You choose either your Strength or Dexterity modifier for the :d20-attack:**Attack Roll**s and damage rolls. You must use the same modifier for both rolls.
 
 #### :material-hand-clap:{ .lg } Two-Handed
 
@@ -114,6 +114,6 @@ If you make an attack against a target that is within half this weapon’s norma
 
 #### :material-crosshairs-gps:{ .lg } Sighted
 
-This weapon has disadvantage on attack rolls made against targets within 20 feet.
+This weapon has :d20-disadv:**Disadvantage** on :d20-attack:**Attack Roll**s made against targets within 20 feet.
 
 

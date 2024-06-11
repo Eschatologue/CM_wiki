@@ -2,8 +2,12 @@
 /* Default Text */
 .md-typeset {
     text-align: justify;
-    text-justify: inter-word;
-    font-size: medium;
+    text-justify: auto;
+    font-weight: 350;
+}
+
+.md-typeset strong {
+    font-weight: 515;
 }
 
 /* Headers */
@@ -11,10 +15,16 @@
     text-align: left;
 }
 
+/* Main Theme*/
+[data-md-color-scheme=slate] {
+    --md-hue: 220;
+}
+
 /* Table Styles */
 /* Table Size and Appearance */
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
+    font-size: 0.95em;
     padding-left: 12px;
     padding-right: 12px;
     border-bottom: rgba(255, 255, 255, 0.12);
@@ -36,17 +46,17 @@ table th:first-child {
 table th:last-child {
     border-radius: 0 3px 0 0 !important;
 }
-table tr:last-child td:first-child {
-    border-radius: 0 0 0 3px !important;
-}
 table tr:last-child td:last-child {
     border-radius: 0 0 3px 0 !important;
+}
+table tr:last-child td:first-child {
+    border-radius: 0 0 0 3px !important;
 }
 
 /* Table Display and Border Color */
 .md-typeset__table table:not([class]) {
     display: table;
-    border-color: #10101000;
+    border-color: #00000000; /* Transparent Colour, couldn't figure out how to remove the border, so transparent it is*/
 }
 
 /* Table Font Size */
@@ -79,6 +89,11 @@ table tr:last-child td:last-child {
     font-weight: normal;
 }
 
+/* H5 - Title beginning reserved for tables */
+.md-typeset h4 {
+    font-weight: 400;
+}
+
 /* Icon Heading */
 .ich1 {
     font-size: 4.5rem;
@@ -105,6 +120,7 @@ table tr:last-child td:last-child {
     max-width: 35rem;
     font-size: 0.7rem;
     font-weight: normal;
+    border-radius: 4px;
 }
 
 /* Grid Layout */

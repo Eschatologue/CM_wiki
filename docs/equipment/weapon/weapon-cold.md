@@ -32,65 +32,73 @@ Martial weapons require more training to use effectively but offer greater damag
 
 ## Cold Weapon Table
 
-=== ":material-knife:{ .lg .middle } SIMPLE WEAPONS"
+##### Simple Weapons: Melee
+| name | cost | damage | properties |    
+| :-- | --: | :-- | --- |
+| Club | 1 sp | 1d4 bludgeoning | Light |
+| Dagger | 20 sp | 1d4 piercing | Finesse, light, thrown (20/60) |
+| Greatclub | 2 sp | 1d8 bludgeoning | Two-handed |
+| Handaxe | 50 sp | 1d6 slashing | Light, thrown (20/60) |
+| Javelin | 5 sp | 1d6 piercing | Thrown (30/120) |
+| Light hammer | 20 sp | 1d4 bludgeoning | Light, thrown (20/60) |
+| Mace | 50 sp | 1d6 bludgeoning | Thrown (20/60)^NEW^ |
+| Flachion^NEW^ | 100 sp | 1d6 slashing | Finesse, versatile (1d8) |
+| Quarterstaff | 2 sp | 1d6 bludgeoning | Versatile (1d8) |
+| Sickle | 10 sp | 1d4 slashing | Light |
+| Spear | 10 sp | 1d6 piercing | Thrown (20/60), versatile (1d8) |
+| War Scythe^NEW^ | 50 sp | 1d8 slashing | Reach, two-handed |
 
-    | :material-text: **NAME** | :rsc-silver: **COST** | :material-bullseye-arrow: **DAMAGE** |:material-tag-multiple: **PROPERTIES** |    
-    | :-- | --: | :-- | --- |
-    | **MELEE WEAPONS** | | | |
-    | Club | 1 sp | 1d4 bludgeoning | Light |
-    | Dagger | 20 sp | 1d4 piercing | Finesse, light, thrown (20/60) |
-    | Greatclub | 2 sp | 1d8 bludgeoning | Two-handed |
-    | Handaxe | 50 sp | 1d6 slashing | Light, thrown (20/60) |
-    | Javelin | 5 sp | 1d6 piercing | Thrown (30/120) |
-    | Light hammer | 20 sp | 1d4 bludgeoning | Light, thrown (20/60) |
-    | Mace | 50 sp | 1d6 bludgeoning | Thrown (20/60)^NEW^ |
-    | Flachion^NEW^ | 100 sp | 1d6 slashing | Finesse, versatile (1d8) |
-    | Quarterstaff | 2 sp | 1d6 bludgeoning | Versatile (1d8) |
-    | Sickle | 10 sp | 1d4 slashing | Light |
-    | Spear | 10 sp | 1d6 piercing | Thrown (20/60), versatile (1d8) |
-    | War Scythe^NEW^ | 50 sp | 1d8 slashing | Reach, two-handed |
-    | **RANGED WEAPONS** | | | |
-    | Blowgun^NEW^ | 100 sp | 1 piercing | Ammunition (:material-vector-line:range 25/100), loading |
-    | Crossbow, light | 250 sp | 1d8 piercing | Ammunition (:material-vector-line:range 80/320), loading, two-handed |
-    | Dart | 1 sp | 1d4 piercing | Finesse, thrown (20/60) |
-    | Shortbow | 250 sp | 1d6 piercing | Ammunition (:material-vector-line:range 80/320), two-handed |
-    | Sling | 10 sp | 1d4 piercing | Ammunition (:material-vector-line:range 30/120) |
+##### Simple Weapons: Ranged
+| name | cost | damage | properties |    
+| :-- | --: | :-- | --- |
+| Blowgun^NEW^ | 100 sp | 1 piercing | Ammunition (:material-vector-line:range 25/100), loading |
+| Crossbow, light | 250 sp | 1d8 piercing | Ammunition (:material-vector-line:range 80/320), loading, two-handed |
+| Dart | 1 sp | 1d4 piercing | Finesse, thrown (20/60) |
+| Shortbow | 250 sp | 1d6 piercing | Ammunition (:material-vector-line:range 80/320), two-handed |
+| Sling | 10 sp | 1d4 piercing | Ammunition (:material-vector-line:range 30/120) |
 
-=== ":material-sword-cross:{ .lg .middle } MARTIAL WEAPONS"
+##### Martial Weapons: Melee
+| name | cost | damage | properties |    
+| :-- | --: | :-- | --- |
+| Battleaxe | 100 sp | 1d8 slashing | Thrown (40/80)^NEW^, versatile (1d10) |
+| Estoc^NEW^ | 300 sp | 1d8 piercing | Finesse, versatile (1d10) |
+| Flail | 100 sp | 1d8 bludgeoning | - |
+| Glaive | 200 sp | 1d10 slashing | Heavy, reach, two-handed |
+| Greataxe | 300 sp | 1d12 slashing | Heavy, two-handed |
+| Greatsword | 500 sp | 2d6 slashing | Heavy, two-handed |
+| Halberd | 200 sp | 1d10 slashing | Heavy, reach, two-handed |
+| [Lance] | 100 sp | 1d12 piercing | Reach, special |
+| Longsword | 150 sp | 1d8 slashing | Versatile (1d10) |
+| Maul | 100 sp | 2d6 bludgeoning | Heavy, two-handed |
+| Morningstar | 150 sp | 1d8 piercing | - |
+| Pike | 50 sp | 1d10 piercing | Heavy, reach, two-handed |
+| Rapier | 250 sp | 1d8 piercing | Finesse |
+| Sabre^NEW^ | 150 sp | 1d8 slashing | Finesse |
+| Scimitar | 250 sp | 1d6 slashing | Finesse, light |
+| Shortsword | 100 sp | 1d6 piercing | Finesse, light |
+| Trident | 50 sp | 1d6 piercing | Thrown (20/60), versatile (1d8) |
+| War pick | 50 sp | 1d8 piercing | - |
+| Warhammer | 150 sp | 1d8 bludgeoning | Thrown (40/80)^NEW^, versatile (1d10) |
+| Whip | 20 sp | 1d4 slashing | Finesse, reach |
 
-    | :material-text: **NAME** | :rsc-silver: **COST** | :material-bullseye-arrow: **DAMAGE** |:material-tag-multiple: **PROPERTIES** |    
-    | :-- | --: | :-- | --- |
-    | **MELEE WEAPONS** | | | |
-    | Battleaxe | 100 sp | 1d8 slashing | Thrown (40/80)^NEW^, versatile (1d10) |
-    | Estoc^NEW^ | 300 sp | 1d8 piercing | Finesse, versatile (1d10) |
-    | Flail | 100 sp | 1d8 bludgeoning | - |
-    | Glaive | 200 sp | 1d10 slashing | Heavy, reach, two-handed |
-    | Greataxe | 300 sp | 1d12 slashing | Heavy, two-handed |
-    | Greatsword | 500 sp | 2d6 slashing | Heavy, two-handed |
-    | Halberd | 200 sp | 1d10 slashing | Heavy, reach, two-handed |
-    | [Lance] | 100 sp | 1d12 piercing | Reach, special |
-    | Longsword | 150 sp | 1d8 slashing | Versatile (1d10) |
-    | Maul | 100 sp | 2d6 bludgeoning | Heavy, two-handed |
-    | Morningstar | 150 sp | 1d8 piercing | - |
-    | Pike | 50 sp | 1d10 piercing | Heavy, reach, two-handed |
-    | Rapier | 250 sp | 1d8 piercing | Finesse |
-    | Sabre^NEW^ | 150 sp | 1d8 slashing | Finesse |
-    | Scimitar | 250 sp | 1d6 slashing | Finesse, light |
-    | Shortsword | 100 sp | 1d6 piercing | Finesse, light |
-    | Trident | 50 sp | 1d6 piercing | Thrown (20/60), versatile (1d8) |
-    | War pick | 50 sp | 1d8 piercing | - |
-    | Warhammer | 150 sp | 1d8 bludgeoning | Thrown (40/80)^NEW^, versatile (1d10) |
-    | Whip | 20 sp | 1d4 slashing | Finesse, reach |
-    | **RANGED WEAPONS** | | | |
-    | Arbalest^NEW^ | 950 sp | 2d6 piercing | Ammunition (:material-vector-line:range 180/360), heavy, loading, mounted, two-handed, sighted |
-    | Crossbow, hand | 750 sp | 1d6 piercing | Ammunition (:material-vector-line:range 30/120), light, loading |
-    | Crossbow, heavy | 500 sp | 1d10 piercing | Ammunition (:material-vector-line:range 100/400), heavy, loading, two-handed |
-    | Crossbow, repeating^NEW^ | 850 sp | 1d8 piercing | Ammunition (:material-vector-line:range 90/360), automatic (1), heavy, reload (6), two-handed |
-    | Compound Bow^NEW^ | 850 sp | 1d10 piercing | Ammunition (:material-vector-line:range 100/600), heavy, two-handed |
-    | Longbow | 500 sp | 1d8 piercing | Ammunition (:material-vector-line:range 150/600), heavy, two-handed |
-    | [Net] | 10 sp | - | Special, thrown (5/15) |
+##### Martial Weapons: Ranged
+| name | cost | damage | properties |    
+| :-- | --: | :-- | --- |
+| Arbalest^NEW^ | 950 sp | 2d6 piercing | Ammunition (:material-vector-line:range 180/360), heavy, loading, mounted, two-handed, sighted |
+| Crossbow, hand | 750 sp | 1d6 piercing | Ammunition (:material-vector-line:range 30/120), light, loading |
+| Crossbow, heavy | 500 sp | 1d10 piercing | Ammunition (:material-vector-line:range 100/400), heavy, loading, two-handed |
+| Crossbow, repeating^NEW^ | 850 sp | 1d8 piercing | Ammunition (:material-vector-line:range 90/360), automatic (1), heavy, reload (6), two-handed |
+| Compound Bow^NEW^ | 850 sp | 1d10 piercing | Ammunition (:material-vector-line:range 100/600), heavy, two-handed |
+| Longbow | 500 sp | 1d8 piercing | Ammunition (:material-vector-line:range 150/600), heavy, two-handed |
+| [Net] | 10 sp | - | Special, thrown (5/15) |
 
-
+##### Ammunition
+| ammunition | cost |   
+| :-- | --: |
+| Arrows (20) | 10 sp |
+| Blowgun needles (50) | 10 sp |
+| Crossbow bolts (20) | 10 sp |
+| Sling bullets (50) | 10 sp |
 
 ### Special Weapons
 

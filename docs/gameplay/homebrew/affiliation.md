@@ -2,6 +2,10 @@
 icon: material/account-network-outline
 ---
 
+!!! homebrew "This is a Homebrew Mechanic!"
+
+    You just stumbled into a Homebrew mechanic! This one is made by me, taking heavy inspiration from [Sunless Skies](https://store.steampowered.com/app/596970/Sunless_Skies_Sovereign_Edition/).
+
 In this campaign, Affiliation represents the character's ties to one of four distinct factions or societal groups: *Academe, Bohemia, Establishment*, or *Villainy*. These affiliations should reflect your character's background, origin, and connections within the world. Affiliation influences your character's interactions, opportunities, and resources available to you throughout the campaign. Whether you are scholars delving into ancient mysteries, artists seeking inspiration, nobles navigating political intrigue, or outlaws operating in the shadows, your affiliation shapes your identity and impacts in the campaign.
 
 ## Assigning Affiliation Points
