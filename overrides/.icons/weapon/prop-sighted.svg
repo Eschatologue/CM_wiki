@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="prop-sighted.svg"
+   width="24"
+   height="24"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.9665339"
+     inkscape:cx="-35.057749"
+     inkscape:cy="42.979451"
+     inkscape:window-width="1360"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#3f3fff"
+       empopacity="0.25098039"
+       color="#3f3fff"
+       opacity="0.1254902"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.-->
+  <path
+     d="m 20.801317,3.1999729 c 0.608484,0.6084841 0.608483,1.5916842 -1e-6,2.2001681 l -0.357527,0.3575273 c 2.743334,3.6990324 2.739896,8.7903587 0,12.4859537 l 0.357528,0.357527 c 0.608484,0.608484 0.608484,1.591684 0,2.200168 -0.608484,0.608484 -1.591684,0.608484 -2.200168,0 l -0.357527,-0.357528 c -3.699034,2.743334 -8.7903591,2.739897 -12.4859537,0 l -0.3575274,0.357528 c -0.6084839,0.608484 -1.5916838,0.608484 -2.2001678,0 -0.608484,-0.608484 -0.608484,-1.591684 0,-2.200168 l 0.3575272,-0.357527 c -2.7433342,-3.699034 -2.7433342,-8.7869213 0,-12.4859539 L 3.199973,5.4001407 c -0.6084832,-0.6084832 -0.608484,-1.5916838 0,-2.2001678 0.6084841,-0.6084841 1.5916846,-0.6084833 2.2001679,0 l 0.3575273,0.3575272 c 3.6990327,-2.74333394 8.7869198,-2.74333434 12.4859528,2e-7 l 0.357528,-0.3575272 c 0.608484,-0.6084839 1.591684,-0.6084842 2.200168,-2e-7 z M 5.792046,7.9922138 c -1.5744945,2.4339362 -1.5710575,5.5863642 1e-7,8.0168612 L 6.500225,15.300897 c 0.608484,-0.608484 1.5916838,-0.608484 2.2001678,0 0.6084841,0.608483 0.6084841,1.591683 0,2.200167 l -0.7081788,0.70818 c 2.433936,1.574495 5.586364,1.571057 8.016861,0 l -0.708179,-0.70818 c -0.608483,-0.608484 -0.608483,-1.591684 0,-2.200167 0.608484,-0.608484 1.591684,-0.608484 2.200168,0 l 0.70818,0.708178 c 1.574495,-2.433935 1.574495,-5.582925 0,-8.0168611 l -0.70818,0.7081789 c -0.608484,0.6084839 -1.591684,0.6084839 -2.200168,0 -0.608483,-0.6084842 -0.608483,-1.591684 0,-2.200168 L 16.009075,5.7920459 C 13.57514,4.2175507 10.42615,4.2175512 7.9922139,5.7920458 l 0.7081788,0.7081789 c 0.6084842,0.6084841 0.6084842,1.5916839 0,2.2001679 -0.608484,0.6084841 -1.5916838,0.6084841 -2.2001678,0 z m 7.308683,2.9083472 a 1.5557539,1.5557539 0 1 1 -2.200168,2.200168 1.5557539,1.5557539 0 1 1 2.200168,-2.200168 z"
+     id="path1"
+     style="stroke-width:0.999999" />
+</svg>

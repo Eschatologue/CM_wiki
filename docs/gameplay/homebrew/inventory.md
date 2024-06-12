@@ -24,12 +24,10 @@ You have an amount of inventory slots equal to your :ability-str:**Strength** sc
 
 Extra inventories are additional slots that do not count against your main inventory slots.
 
-### Equipped
-
+**Equipped**  
 You have 4 extra inventory slots on your person that can hold usable items, such as weapons, shields, and quivers. Items in these extra slots do not take up inventory slots.
 
-### Worn
-
+**Worn**  
 Any item worn on the person, such as armour, clothing, or simple accessories like necklaces or rings, does not take up slots.
 
 ## Inventory Items
@@ -40,11 +38,12 @@ Items such as crossbow bolt cases or quivers can store up to 20 bolts or arrows.
 
 ### Backpacks
 
-At the start of the game, depending on the starting gear chosen from your class, you receive a Backpack.
+At the start of the game, depending on the starting gear chosen from your class, you receive a Backpack. For a list of Backpacks and their mechanics, go to [here](../../equipment/tools/backpack.md).
 
-This Backpack takes 1 inventory slot but adds up to +8 inventory slots for your character. For a list of Backpacks and their mechanics, go to [here](../../equipment/tools/backpack.md).
+**Retrieving Item**  
+Taking an item from a backpack requires an :rsc-action:**Action**, representing the time it takes to search for and retrieve an item. As such, you can't use an item that is inside your backpack until you have used an :rsc-action:**Action** to pull it out. 
 
-**Retrieving Item.** Taking an item from a backpack requires an :rsc-action:**Action**, representing the time it takes to search for and retrieve an item. As such, you can't use an item that is inside your backpack until you have used an :rsc-action:**Action** to pull it out. Proficiency in Dexterity (Sleight of Hand) allows you to retrieve an item from your backpack as an :rsc-bonus-action:**Bonus Action** instead. If you have expertise in Dexterity (Sleight of Hand), it does not consume any type of Action.
+Proficiency in Dexterity (Sleight of Hand) allows you to retrieve an item from your backpack as an :rsc-bonus-action:**Bonus Action** instead. If you have expertise in Dexterity (Sleight of Hand), it does not consume any type of Action.
 
 ### The Mysterious Black Chest
 
@@ -54,58 +53,10 @@ A mysterious item conjured by the will of the DM and powered by the DM’s Conve
 
 An item's "Bulk" does not necessarily represent its weight. It might be light but cumbersome or small but very heavy. Refer to the rules below for item categorization.
 
-<div class="grid cards" markdown>
-
-- :material-database:{ .lg .middle } **Stackable**
-  
-    ---
-
-    Small items that can be stacked together without taking up multiple inventory slots. 
-
-    You can fit **up to ten** of the same item type per slot. Certain items, like ball bearings, can stack up to 1000 before taking up an inventory slot.
-
-    *Examples are Arrows, Bolts, Rations, ball bearings.*
-
-- :material-gauge-empty:{ .lg .middle } **Light**
-
-    ---
-
-    Items that are easy to carry and do not take up much space individually. 
-
-    Equipment with the *light* property **does not take an inventory slot** until you have a **stack of three**. For example, two shortswords do not take an inventory slot, but two shortswords with a dagger will take 1 inventory slot.
-
-    *Examples are Daggers, potions, small tools.*
-
-- :material-gauge-low:{ .lg .middle } **Medium**
-
-    ---
-
-    Standard-sized items that require some space in your inventory, this category ecompass most item you will come across.
-
-    These items take up **one inventory slot** each.
-
-    *Examples are longswords, shields, spellbooks.*
-
-- :material-gauge-full:{ .lg .middle } **Heavy or Two-handed**
-
-    ---
-
-    Large or cumbersome items that require significant space to carry. 
-
-    Items with the *heavy* or *two-handed* property take up **two inventory slots** each.  
-
-    *Examples are greatswords, halberds, mauls.*
-
-- :fontawesome-brands-shirtsinbulk:{ .lg .middle } **Heavy Armour**
-
-    ---
-
-    Bulky protective gear that takes up considerable space when not worn. 
-
-    These items take up **three inventory slots** each when they are not in the Equipped or Worn slots.
-
-    *Examples are plate armour, chainmail, tower shields.*
-    
-
-</div>
-
+| Category | Description | Item per Slot | Example |
+|---|---|:-:|---|
+| **Stackable** | Small items that can be stacked together without taking up multiple inventory slots. Certain items, like ball bearings, can stack up to 1000 before taking up an inventory slot if put into a pouch.| Up to 10 | Arrows, Bolts, Rations, Ball bearings |
+| **Light** | Items that are easy to carry and do not take up much space individually. Equipment with the :weapon-prop-light: *light* property does not take an inventory slot until you have a **stack of three**.| Up to 3 | Daggers, Potions, Small tools |
+| **Medium** | Standard-sized items that require some space in your inventory. These items take up one inventory slot each. | Up to 1 per slot | Longswords, Shields, Spellbooks |
+| **Heavy** | Large or cumbersome items that require significant space to carry, usually consist of items with the :weapon-prop-heavy: *Heavy* or :weapon-prop-two-handed: *Two-handed* property.| Takes 2 Slot | Greatswords, Halberds, Mauls |
+| **Great**  | Bulky protective gear that takes up considerable space when not worn. These items take up **three inventory slots** each when they are not in the Equipped or Worn slots. | Takes 3 Slot | Medium Armour, Heavy Armour, Tower shields |

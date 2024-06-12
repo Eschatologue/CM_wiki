@@ -208,6 +208,7 @@ Below is the Fishing table for each different biome you can fish within Antares.
     | 70-74 | 1d4 Imperious Lobster | 980 SP | 148-149 | Coelacanth | 6,420 SP |
     | 75-79 | Rapt Shark | 2,560 SP | 150 | Legendary Item from DM |  SP |
 
+**Iventory Spaces:** Any fish regardless of size or sell price can be stored up to 5 into a single inventory slot.
 
 ### Junk Table
 
