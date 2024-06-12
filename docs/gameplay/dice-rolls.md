@@ -67,7 +67,7 @@ An :d20-check: **ability check** is an attempt to succeed at a specific task, an
 
 Rolling a 1 or 20 on a d20 roll is referred to as a natural 1 or natural 20. When making an attack roll or ability check, rolling a natural 1 is always an automatic failure, while a natural 20 is always an automatic success, regardless of the final result after modifiers are applied. Saving throws attempted during social encounters, and death saving throws, can also roll natural 1s and 20s.
 
-### :d20-adv:Advantage and :d20-disadv:Disadvantage
+### :d20-adv: Advantage & :d20-disadv: Disadvantage
 
 A number of situations and conditions give creatures :d20-adv:**Advantage** or :d20-disadv:**Disadvantage** on d20 rolls. 
 
