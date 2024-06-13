@@ -39,9 +39,10 @@ Many weapons have special properties related to their use, as shown in the Weapo
 ### :weapon-prop-ammunition:{ .lg } Ammunition
 You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
 ### :weapon-prop-automatic:{ .lg } Automatic
-Once per round, when you the attack action with this weapon on your turn, you can choose to make additional attacks (make seperate :d20-attack:**Attack Roll**s) up to the number in the parenthesis. The additional attacks are always made with :d20-disadv:**Disadvantage** regardless of circumstances and expends ammunitions equal to the number of attacks.
+Once per round, when you make an attack with this weapon on your turn, you can choose to make additional attacks (make seperate :d20-attack:**Attack Rolls**) up to the number in the parenthesis. The additional attacks are always made with :d20-disadv:**Disadvantage** regardless of circumstances and expends ammunitions equal to the number of attacks.
 ### :weapon-prop-explosive:{ .lg } Explosive
-When this weapon’s projectile hits a target, it explodes in a diameter sphere on the parenthesis. The weapon can target a point within its range. Each creature in the area of effect centered on the point or the target must make a DC 15 Dexterity saving throw. Targets takes the weapon's damage on a failed save, or half as much damage on a successful one, your target makes this saving throw at a :d20-disadv:**Disadvantage**.
+When this weapon’s projectile hits a target, it explodes in a diameter sphere on the parenthesis. The weapon can target a point within its range. Each creature in the area of effect centered on the point or the target must make a DC 15 Dexterity saving throw. Targets takes the weapon's damage on a failed save, or half as much damage on a successful one. 
+Your initial target makes this saving throw at a :d20-disadv:**Disadvantage**.
 ### :weapon-prop-finesse:{ .lg } Finesse
 When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 ### :weapon-prop-heavy:{ .lg } Heavy
@@ -57,7 +58,7 @@ This weapon that can be used to make a ranged attack has a range shown in parent
 ### :weapon-prop-reach:{ .lg } Reach
 This weapon adds 5 feet to your reach when you attack with it. This property also determines your reach for opportunity attacks with a reach weapon.
 ### :weapon-prop-reload:{ .lg } Reload
-This weapon can be used to make a number of attacks before it must be reloaded. If you are proficient with the weapon, reloading it takes a :rsc-bonus-action:**Bonus Action**; otherwise, reloading it takes an :rsc-action:**Action**. Some weapons require an action or longer to reload, even if you have proficiency, which is specified in the Reload property. If reloading a weapon requires longer than one action, the weapon can't be used to make attacks until reloading is finished.
+This weapon can be used to make a number of attacks before it must be reloaded. If you are proficient with the weapon, reloading it takes a :rsc-bonus-action:**Bonus Action**; otherwise, reloading it takes an :rsc-action:**Action**. Some weapons require an :rsc-action:**Action** or longer to reload, even if you have proficiency, which is specified in the Reload property. If reloading a weapon requires longer than one action, the weapon can't be used to make attacks until reloading is finished.
 ### :weapon-prop-scatter:{ .lg } Scatter
 If you make an attack against a target that is within half this weapon’s normal range, you deal the damage value listed in parenthesis instead of the weapon’s normal damage dice.
 ### :weapon-prop-sighted:{ .lg } Sighted

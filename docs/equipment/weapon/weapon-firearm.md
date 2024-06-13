@@ -62,7 +62,7 @@ List of Firearms that you can possibly find in this world:
 | name | cost | damage | properties |    
 | :-- | --: | :-- | --- |
 | Machine Gun | 15,000  sp | 2d8 piercing | Ammunition (:material-vector-line:range 150/600), Automatic (5), Heavy, Mounted, Reload (50), Two-handed |
-| Rocket Launcher | 12,500 sp | 8d6 fire | Ammunition (:material-vector-line:range 150/300), Explosive, Heavy, Reload (1), Two-handed |
+| Rocket Launcher | 12,500 sp | 8d6 fire | Ammunition (:material-vector-line:range 150/300), Explosive(15 ft), Heavy, Reload (1), Two-handed |
 | Grenade Launcher | 9,000 sp | 1d4-1 bludgeoning | Ammunition (:material-vector-line:range 120/240), Heavy, Loading, Special |
 
 ##### Ammunitions

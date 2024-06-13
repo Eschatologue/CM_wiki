@@ -24,7 +24,6 @@
 /* Table Size and Appearance */
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
-    font-size: 0.95em;
     padding-left: 12px;
     padding-right: 12px;
     border-bottom: rgba(255, 255, 255, 0.12);
