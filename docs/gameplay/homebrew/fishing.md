@@ -72,7 +72,7 @@ Antagoni decides to go fishing. He spends some time preparing his gear, attachin
 Antagoni is ready to fish for 1 hour. He rolls 5d6 to determine his catch. His rolls are: `4, 6, 6, 6, 2`.
 
 3. **Check for Proficiency and Reroll**  
-Antagoni has proficiency in Wisdom (Survival) with a Wisdom score modifier of +2, this means he has +4 on Wisdom (Survival) skil. This allows him to reroll up to 4 dice, but he choose to only reroll 2 for now. He chooses to reroll the 2 dice showing 4 and 2. His new rolls are 6 and 3. Now his dice results are: `6, 6, 6, 6, 3`.
+Antagoni has proficiency in Wisdom (Survival) with a Wisdom score modifier of +2, skil. This allows him to reroll up to 2 dice. He chooses to reroll the 2 dice showing 4 and 2. His new rolls are 6 and 3. Now his dice results are: `6, 6, 6, 6, 3`.
 
 4. **Calculate Special Results**  
 Antagoni checks if he has a special result. He rolled a Four-of-a-kind (four 6s), which has a multiplier of ×4.
@@ -87,7 +87,7 @@ Antagoni consults the fishing table to determine what he caught based on the fin
 
 ## Fishing Equipment
 
-A great fishermen is not just that is luckly, but those who both lucky and came prepared. This part right here defines some fishing equipment that you can come across in the world. These equipemt can help you get better result when pulling something from the depths
+A great fishermen is not just that is lucky, but those who both lucky and came prepared. This part right here defines some fishing equipment that you can come across in the world. These equipemnt can help you get better result when pulling something from the depths.
 
 ### Fishing Rods
 
@@ -109,7 +109,7 @@ A great fishermen is not just that is luckly, but those who both lucky and came 
 
 Also Read: [Fishing Supplies](../../equipment/tools/artisan-tools.md#fishing-supplies)
 
-Fishing Supplies are categorized as an Artisan Tool. They include a special compartment or clip for your fishing rod, a tackle box with simple line, hooks, bait, bobbers, and lures. Regardless of their appearance, you need these Artisan Tools and your fishing rod to start fishing.
+Fishing Supplies are categorized as an Artisan Tool. They include a special compartment or clip for your fishing rod, a tackle box with simple line, hooks, bait, bobbers, and lures. Regardless of their appearance, you need this artisan tool and your fishing rod to start fishing.
 
 Fishing Supplies cost 50 SP and can be found in most cities during your adventure.
 
