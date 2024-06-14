@@ -12,9 +12,21 @@ In the days before the devastation caused by the warp storms and the emergence o
 
 Antares' natural rivers and waters, now severely tainted by the Warp, saw most of its fish population undergo mutations, giving them grotesque features akin to the aberrations roaming the land. While many former fishermen and anglers turned to fish farming to preserve the dwindling population of untainted fish, a few individuals remained steadfast in their love for the excitement and adrenaline that only fishing could provide. 
 
+### Update from Previous Version
+
+- **Different Baits:** Baits are no longer required to fish. Instead, having [Fishing Supplies] is now necessary as they contain your fishing equipment, including your baits. Specially made baits do exist, but they act more similarly to magical or special ammunition for ranged weapons.
+
+- **D20 Wisdom (Survival) Checks:** You can fish wherever you see water without needing to make a Survival check. However, if you attempt to fish in an obscure place, such as a well, a puddle in a cave, or someone’s drinking water, the DM will require a Wisdom check. Proficiency with [Fishing Supplies] allows you to add your proficiency bonus to this check.
+
+- **Aberrant and Untainted Fish:** These categorizations no longer exist. Instead, each fish has been adjusted in price to reflect its rarity.
+
 ## It's Fishin' Time
 
 This newly designed fishing mechanic is completely different from what you might remember in the previous version. Forget the old rules and refer to this version from now on.
+
+### Equipment
+
+To fish you need two things; A Fishing Rod and a Fishing supplies. A Fishing Rod is required to reel in your fish while Fishing supplies contains various items to such as bait, hook, lines etc to help said fishing.
 
 **Time:** Fishing takes time. From preparing your gear, attaching the bait and tackles, luring the rod, and of course, waiting. Each fishing attempt will take at least **1 hour**.
 
@@ -29,8 +41,6 @@ For every 1 hour you spend fishing, roll :material-dice-d6: 5d6. The process var
 - **Proficiency in both [Fishing Supplies] and either Wisdom (Survival) or Intelligence (Arcana):** You can reroll a number of dice equal to your Wisdom or Intelligence modifier plus your proficiency bonus.
 
 You can reroll the same die more than once. After rerolling, keep each final die result.
-
-[Fishing Supplies]: #fishing-supplies
 
 ### Calculating Final Result
 
@@ -89,15 +99,27 @@ A great fishermen is not just that is luckly, but those who both lucky and came 
 | Adept Angler's Rod | +6 | 4 slot | 2,800 SP |
 | Master Angler's Rod | +8 | 6 slot | 5,600 SP |
 
-**Score Bonus:** Each fishing rod provides a score bonus to determine what loot you pull from the depths. This score bonus is added after any additional multiplier.
+**Overall Score Bonus:** Each fishing rod provides a score bonus to determine what loot you pull from the depths. This score bonus is added after any additional multiplier.
 
-**Mod. Slot:** Each fishing rod can be modified and tinkered to the fisherman’s desire. To equip a modification, you must have a slot available. Some modifications can take multiple slots.
+**Mod. Slot:** Each fishing rod can be modified and tinkered to the fisherman’s desire. To equip a [modification], you must have a slot available. Some [modification]s can take multiple slots.
+
+[modification]: #fishing-rods-modification
 
 ### Fishing Supplies
+
+Also Read: [Fishing Supplies](../../equipment/tools/artisan-tools.md#fishing-supplies)
 
 Fishing Supplies are categorized as an Artisan Tool. They include a special compartment or clip for your fishing rod, a tackle box with simple line, hooks, bait, bobbers, and lures. Regardless of their appearance, you need these Artisan Tools and your fishing rod to start fishing.
 
 Fishing Supplies cost 50 SP and can be found in most cities during your adventure.
+
+### Fishing Rod Modifications
+
+!!! warning "Work in Progress"
+
+Fishing rod modifications are augmentations that enhance your fishing rod to yield better results. These modifications work similarly to the Artificer Infusion mechanic, being tied to whichever fishing rod you modify. To modify your fishing rod, you must be proficient with [Fishing Supplies].
+
+You can change your fishing rod modifications as part of a short rest or before a long rest.
 
 ## Fishing Loot
 
@@ -222,3 +244,6 @@ Below is the Fishing table for each different biome you can fish within Antares.
 | 6 | A pouch containing 2d4 * 10 SP |
 | 7 | A Net |
 | 8 | Re-attempt fishing |
+
+
+[Fishing Supplies]: #fishing-supplies

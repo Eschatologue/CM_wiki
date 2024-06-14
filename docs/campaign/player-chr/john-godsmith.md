@@ -8,6 +8,10 @@ icon: material/fire
 
 # Path of the Finality
 
+## Bonus Proficiency
+
+**The Joy of Fishing.** You gain Proficiency with [Fishing Supplies](../../equipment/tools/artisan-tools.md#fishing-supplies) if you don't already have it.
+
 ## 1st Level: Cold Rage
 
 You've witnessed the ravages of unbridled anger, the toll it takes on the innocent and the cherished. But you are different; even the mightiest of flames can be tamed.

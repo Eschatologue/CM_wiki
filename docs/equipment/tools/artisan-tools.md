@@ -219,11 +219,13 @@ Adventuring is a hard life. With a cook along on the journey, your meals will be
 
 ### Fishing Supplies
 
-Someone who is proficient in Fishing Supplies can reroll a number of dice equal to their Wisdom or Intelligence modifier, using the highest modifier.
+Someone who is proficient in Fishing Supplies can reroll a number of dice equal to their Wisdom modifier, using the highest modifier.
 
-**Components:** The tools include a special compartment or clip for your fishing rod, a tackle box with simple line, hooks, bait, bobbers, and lures.
+**Components:** The tools include a special compartment or clip for your fishing rod, a tackle box with simple line, hooks, baits, bobbers, and lures.
 
 **Arcana, Survival:** Your knowledge with Fishing Supplies allows you to determine whenever a body of water is sufficient for a fishing attempt.
+
+*"No John, you can't fish in a toilet"*
 
 *Also read: [Fishing](../../gameplay/homebrew/fishing.md)*
 
