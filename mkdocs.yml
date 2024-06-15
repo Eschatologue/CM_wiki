@@ -3,6 +3,7 @@ site_name: Crown & Misery Wiki
 
 # TOC and Orders
 nav:
+  - Home: index.md
   - Lore:
     - lore/index.md
     - Geography and Geopolitics: lore/geography.md
@@ -46,6 +47,7 @@ nav:
       - Starting Feats: character-creation/feat/feat-starting.md
       - 4th-Level Feats: character-creation/feat/feat-4th-level.md
       - 8th-Level Feats: character-creation/feat/feat-8th-level.md
+      - Fighting Style: character-creation/feat/feat-fighting-style.md
   - Items & Equipment: 
     - Armour: 
       - equipment/armour/index.md
