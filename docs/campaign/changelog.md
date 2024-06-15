@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0 <small>June 6, 2024</small>
+## 1.0 <small>15 June 2024</small>
 The start of this new wiki.
 
 - **[Inventory](../gameplay/homebrew/inventory.md):** Changes to how inventory works. This differs from the system in Prison & Wyvern, so be sure to read through it. It shouldn't affect your current character too much.
