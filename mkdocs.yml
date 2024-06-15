@@ -3,7 +3,6 @@ site_name: Crown & Misery Wiki
 
 # TOC and Orders
 nav:
-  - Home: index.md
   - Lore:
     - lore/index.md
     - Geography and Geopolitics: lore/geography.md
