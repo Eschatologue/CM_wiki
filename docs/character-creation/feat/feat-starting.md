@@ -287,7 +287,6 @@ You are adept at crafting things and bargaining with merchants, granting you the
 ---
 
 #### Edritch Adept
-
 *1st-level Feat*
 
 **Prerequisites:** Spellcasting/Pact Magic feature; Mage Group  
@@ -304,23 +303,6 @@ Your spellcasting ability for the invocation is Intelligence, Wisdom, or Charism
     If the invocation has a prerequisite of any kind, you can choose that invocation only if you’re a warlock who meets the prerequisite. 
     
     Whenever you gain a level, you can replace the invocation with another one from the warlock class.
-
----
-
-#### Fighting Intiate
-
-*1st-level Feat*
-
-**Prerequisites:** Proficiency with any Martial Weapon; Warrior Group  
-**Repeatable:** Yes, choose a different fighting style each time.
-
-Your martial training has helped you develop a particular style of fighting.
-
-- **Martial Training**
-    
-    You learn one Fighting Style option of your choice from the fighter class. If you already have a style, the one you choose must be different.
-    
-    Whenever you reach a level that grants the Ability Score Improvement feature, you can replace this feat’s fighting style with another one from the fighter class that you don’t have.
 
 ---
 

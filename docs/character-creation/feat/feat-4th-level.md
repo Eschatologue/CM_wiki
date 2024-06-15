@@ -112,7 +112,7 @@ Thanks to extensive practice with the crossbow, you gain the following benefits:
     
 - **Dual Wielding**
     
-    When you use the Attack action and attack with a one-handed weapon with the light property, you can use a bonus action to attack with a hand crossbow you are holding.
+    When you make the extra attack of the Light weapon property, you can add your Ability Modifier to the damage of the extra attack if that attack is with a crossbow that has the Light property.
     
 ---
 
@@ -249,6 +249,29 @@ Your exposure to the Feywild’s magic has changed you, granting you the followi
 
 ---
 
+#### Fighting Intiate
+
+*4th-level Feat*
+
+**Prerequisites:** Proficiency with at least one Martial Weapon; Warrior Group  
+**Repeatable:** Yes, choose a different fighting style each time.
+
+Your martial training has helped you develop a particular style of fighting.
+
+- **Ability Score Increase**
+    
+    You increase your Strength or Dexterity score by 1, to a maximum of 20.
+
+- **Martial Training**
+    
+    You learn one Fighting Style option of your choice from the [Fighting Style Feats](feat-fighting-style.md), the one you choose must be different from one that you already have.
+    
+    Whenever you reach a level that grants the Ability Score Improvement feature, you can replace this feat’s fighting style with another one that you don’t have.
+
+    This feat lacks whatever prerequisites that the Feats from [Fighting Style Feats](feat-fighting-style.md) has.
+
+---
+
 #### Flash Recall
 *4th-level Feat*
 
@@ -312,7 +335,7 @@ You’ve learned to use the weight of a weapon to your advantage, letting its mo
     Immediately after you score a Critical Hit with a Melee Weapon or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a Bonus Action.
     
 
-Choose one of the following abiliry below, you can change your choice when you gain a level that grants ability score improvement or a feat choice.
+Choose one of the following ability below, you can change it when you gain a level that grants Ability Score Improvement or a Feat choice.
 
 - **Heavy Weapon Mastery**
     
@@ -336,9 +359,9 @@ You have a quick hand and keen eye when employing firearms, granting you the fol
     
     Increase your Dexterity score by 1, to a maximum of 20.
     
-- **Piercing**
+- **Dual Wielding**
     
-    When you roll a 1 or 2 on a damage die for an attack made with firearms, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2.
+    When you make the extra attack of the Light weapon property, you can add your Ability Modifier to the damage of the extra attack if that attack is with a firearm that has the Light property.
     
 - **Quickshot**
     
@@ -428,9 +451,9 @@ You have practiced techniques useful in melee combat against spellcasters, gaini
     
 - **Somatic Attack**
     
-    When a creature within 5 feet of you casts a spell, you can use your reaction to make a melee weapon attack against that creature.
+    When a creature within 5 feet of you casts a spell, it provokes an :rsc-reaction:**Opportunity Attack** from you.
     
-- **Caster Hunter**
+- **Concentration Breaker**
     
      When you damage a creature that is concentrating, it has Disadvantage on the Saving Throw it makes to maintain Concentration.
     
@@ -742,11 +765,11 @@ You have mastered techniques to take advantage of every drop in any enemy’s gu
     
 - **Guardian**
     
-    Creature within your melee weapon reach provokes Opportunity Attack from you when it takes the Disengage action or make an attack against target other than you.
+    Creature within your melee weapon reach provokes :rsc-reaction:**Opportunity Attack** from you when it takes the Disengage action or make an attack against target other than you.
     
 - **Halt**
     
-    When you hit a creature with an Opportunity Attack, the creature’s Speed becomes 0 for the rest of the turn.
+    When you hit a creature with an :rsc-reaction:**Opportunity Attack**, the creature’s Speed becomes 0 for the rest of the turn.
 
 ---
 
@@ -987,7 +1010,7 @@ You awaken the ability to mentally connect with others, granting you the followi
     
 - **Deliver Message**
     
-    You can cast the sending spell, requiring no spell slot or components, and you must finish a long rest before you can cast it this way again. Your spellcasting ability for the spell is the ability increased by this feat. If you have spell slots of 3rd level or higher, you can cast this spell with them.
+    You can cast the *sending* spell, requiring no spell slot or components, and you must finish a long rest before you can cast it this way again. Your spellcasting ability for the spell is the ability increased by this feat. If you have spell slots of 3rd level or higher, you can cast this spell with them.
 
 ---
 
@@ -1040,7 +1063,7 @@ You have practiced casting spells in the midst of combat, learning techniques th
     
 - **Reactive Spell**
     
-    When a creature provokes an Opportunity Attack from you by moving out of your Reach, you can use your Reaction to cast a Spell at the creature, rather than making an Opportunity Attack. The Spell must have a casting time of one Action and must target only that creature.
+    When a creature provokes an :rsc-reaction:**Opportunity Attack** from you by moving out of your Reach, you can use your Reaction to cast a Spell at the creature, rather than making an Opportunity Attack. The Spell must have a casting time of one Action and must target only that creature.
 
 ---
 
