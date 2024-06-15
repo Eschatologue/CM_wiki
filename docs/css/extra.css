@@ -104,6 +104,11 @@ table tr:last-child td:first-child {
     font-weight: 400;
 }
 
+/* Remove Margin */
+.noMargin {
+    margin-bottom: -0.80em;
+}
+
 /* Icon Heading */
 .ich1 {
     font-size: 4.5rem;

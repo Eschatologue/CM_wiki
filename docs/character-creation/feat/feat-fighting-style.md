@@ -4,7 +4,7 @@ icon: material/sword-cross
 
 If you want to pick these feats for your character that lacks the prerequisites, please see the [Fighting Initiate](feat-4th-level.md#fighting-intiate) Feat
 
-#### Fighting Style: Archery
+### Fighting Style: Archery { .noMargin }
 *1st-level Feat*
 
 **Prerequisites:** Warrior Group or Cleric Class, Paladin Class, or Ranger Class  
@@ -112,6 +112,8 @@ You learn one manoeuvre of your choice from among those available to the Battle 
 
 - You gain one superiority die, which is a :material-dice-d6:d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your manoeuvres.  
 A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest
+
+---
 
 #### Fighting Style: Thrown-Weapon Fighting
 *1st-Level Feat*
