@@ -106,7 +106,7 @@ table tr:last-child td:first-child {
 
 /* Remove Margin */
 .noMargin {
-    margin-bottom: -0.80em;
+    margin-bottom: -12px;
 }
 
 /* Icon Heading */
