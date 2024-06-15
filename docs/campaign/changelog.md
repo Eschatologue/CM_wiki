@@ -15,8 +15,7 @@ The start of this new wiki.
     - **Human, London Lineage:** London Lineage humans now have proficiency in [Resolve Check](../gameplay/homebrew/resolve.md#resolve-check).
     - **Elf, Wood Elf:** Reworded the [Mask of the Wild](../character-creation/race/elf.md#wood-elf) description.
 - **[Feat](../character-creation/feat/feat-4th-level.md):**
-    - **Fighting Initiate:** This feat has been slightly altered. It is now considered a 4th-level feat, and you choose from the new [list] instead of the Fighter class fighting style list. The Fighter's 1st-level class feature will also pick from this [list] instead of the original one.
-        - If your character previously picked this feat, please refer to this [list].
+    - **Fighting Initiate:** This feat has been slightly altered. It is now considered a 4th-level feat, and you choose from the new [list] instead of the Fighter class fighting style list. The Fighter's 1st-level class feature will also pick from this [list] instead of the original one. If your character previously picked this feat, please refer to this [list].
     - **[Crossbow Expert](../character-creation/feat/feat-4th-level.md#crossbow-expert)** (4th-level): Changes to the feat description due to light weapon property changes.
     - **[Gunner](../character-creation/feat/feat-4th-level.md#gunner)** (4th-level): Now allows you to dual-wield firearms with the light property.
 
