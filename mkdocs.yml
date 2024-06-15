@@ -68,6 +68,7 @@ nav:
       - campaign/player-chr/index.md
       - John K. Godsmith: campaign/player-chr/john-godsmith.md
       - Ydastriel Khaine: campaign/player-chr/ydastriel-khaine.md
+    - Changelog: campaign/changelog.md
 
 # Author
 site_author: Eschatologue
