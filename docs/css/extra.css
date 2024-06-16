@@ -92,12 +92,19 @@ table tr:last-child td:first-child {
     margin: 0 0px 6px 0;
     flex: 20 0 20px;
 }
+
 /* H4 - Title beginning for complex parts */
 .md-typeset h4 {
-    font-size: 0.88rem;
+    /* font-size: 0.88rem;*/
     margin-bottom: -0.80em;
     font-weight: normal;
 }
+
+/* Title Case Test */
+.md-typeset h4 span::first-letter {
+    font-size: 2em; /* Adjust the size as needed */
+}
+
 
 /* H5 - Title beginning reserved for tables */
 .md-typeset h4 {

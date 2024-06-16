@@ -93,5 +93,5 @@ You can use the poison in this vial to coat one slashing or piercing weapon or u
 #### Tinderbox
 This small container holds flint, fire steel, an tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch — or anything else with abundant, exposed fuel — takes an :rsc-action:**Action**. Lighting any other fire takes 1 minutes.
 
-#### Torch (10)
+#### Torch
 A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.

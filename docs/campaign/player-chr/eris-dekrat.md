@@ -1,6 +1,5 @@
 ---
-search:
-  exclude: true
+icon: dnd/stat-spellcasting
 ---
 
 >*"A man born into nobility, with a legacy of great achievements, yet devoid of the qualifications, for he carries the weight of his lineage.”*

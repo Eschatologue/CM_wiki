@@ -3,7 +3,6 @@ site_name: Crown & Misery Wiki
 
 # TOC and Orders
 nav:
-  - Home: index.md
   - Lore:
     - lore/index.md
     - Geography and Geopolitics: lore/geography.md
@@ -63,11 +62,23 @@ nav:
       - Backpack: equipment/tools/backpack.md
     - Consumeables: 
       - Potion: equipment/consumeables/potion.md
+  - Spells:
+    - Cantrip: spells/cantrip.md
+    - 1st-level Spell: spells/1st-level.md
+    - 2nd-level Spell: spells/2nd-level.md
+    - 3rd-level Spell: spells/3rd-level.md
+    - 4th-level Spell: spells/4th-level.md
+    - 5th-level Spell: spells/5th-level.md
+    - 6th-level Spell: spells/6th-level.md
+    - 7th-level Spell: spells/7th-level.md
+    - 8th-level Spell: spells/8th-level.md
+    - 9th-level Spell: spells/9th-level.md
   - Current Campaign:
     - Player's Gimmick:
       - campaign/player-chr/index.md
       - John K. Godsmith: campaign/player-chr/john-godsmith.md
       - Ydastriel Khaine: campaign/player-chr/ydastriel-khaine.md
+#     - Eris Decrat: campaign/player-chr/eris-dekrat.md
     - Changelog: campaign/changelog.md
 
 # Author
