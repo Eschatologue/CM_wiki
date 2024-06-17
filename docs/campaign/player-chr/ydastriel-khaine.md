@@ -18,7 +18,7 @@ Once you gain access to one of these spells, you always have it prepared, and it
 
 ##### Cosmic Weave Spells
 
-| :dnd-class-druid: **DRUID LEVEL** | :simple-codemagic: **SPELLS** |
+| druid level | spells |
 | :-: | :-: |
 | 2nd | [Gift of Alacrity], [Maginify Gravity]  |
 | 3rd | [Immovable Object], [Vortex Warp] |
@@ -26,20 +26,20 @@ Once you gain access to one of these spells, you always have it prepared, and it
 | 7th | [Gravity Sinkhole], [Greater Invisibility] |
 | 9th | [Temporal Shunt], [Circle of Power] |
 
-[gift of alacrity]: http://dnd5e.wikidot.com/spell:gift-of-alacrity
-[maginify gravity]: http://dnd5e.wikidot.com/spell:magnify-gravity
+[gift of alacrity]: ../../spells/1st-level.md#gift-of-alacrity
+[maginify gravity]: ../../spells/1st-level.md#magnify-gravity
 
-[immovable object]: http://dnd5e.wikidot.com/spell:immovable-object
-[vortex warp]: http://dnd5e.wikidot.com/spell:vortex-warp
+[immovable object]: ../../spells/2nd-level.md#immovable-object
+[vortex warp]: ../../spells/2nd-level.md#vortex-warp
 
-[nondetection]: http://dnd5e.wikidot.com/spell:nondetection
-[tongues]: http://dnd5e.wikidot.com/spell:tongues
+[nondetection]: ../../spells/3rd-level.md#nondetection
+[tongues]: ../../spells/3rd-level.md#tongues
 
-[gravity sinkhole]: http://dnd5e.wikidot.com/spell:gravity-sinkhole
-[greater invisibility]: http://dnd5e.wikidot.com/spell:greater-invisibility
+[gravity sinkhole]: ../../spells/4th-level.md#gravity-sinkhole
+[greater invisibility]: ../../spells/4th-level.md#greater-invisibility
 
-[temporal shunt]: http://dnd5e.wikidot.com/spell:temporal-shunt
-[circle of power]: http://dnd5e.wikidot.com/spell:circle-of-power
+[temporal shunt]: ../../spells/5th-level.md#temporal-shunt
+[circle of power]: ../../spells/5th-level.md#circle-of-power
 
 ## 2nd Level: Cosmic Flare
 

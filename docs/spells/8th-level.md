@@ -356,3 +356,36 @@ At the start of each of your turns after the wall appears, the wall, along with 
 
 A creature caught in the wall can move by swimming. Because of the force of the wave, though, the creature must make a successful Strength (Athletics) check against your spell save DC in order to move at all. If it fails the check, it can't move. A creature that moves out of the area falls to the ground.
 
+### Reality Break
+*8th-level conjuration*
+  
+**Casting Time:** :rsc-action: **Action**    
+**Range:** 60 feet  
+**Components:** V, S, M (a crystal prism)  
+**Duration:** Concentration, up to 1 minute
+
+You shatter the barriers between realities and timelines, thrusting a creature into turmoil and madness. The target must succeed on a Wisdom saving throw, or it can't take reactions until the spell ends. The affected target must also roll a d10 at the start of each of its turns; the number rolled determines what happens to the target, as shown on the Reality Break Effects table.
+
+At the end of each of its turns, the affected target can repeat the Wisdom saving throw, ending the spell on itself on a success.
+
+#### Reality Break Effects
+|  d10 | Effect                                                                                                                                                                                                                         |
+|:----:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  1-2 | **Vision of the Far Realm.** The target takes 6d12 psychic damage, and it is stunned until the end of the turn.                                                                                                                |
+|  3-5 | **Rending Rift.** The target must make a Dexterity saving throw, taking 8d12 force damage on a failed save, or half as much damage on a successful one.                                                                        |
+|  6-8 | **Wormhole.** The target is teleported, along with everything it is wearing and carrying, up to 30 feet to an unoccupied space of your choice that you can see. The target also takes 10d12 force damage and is knocked prone. |
+| 9-10 | **Chill of the Dark Void.** The target takes 10d12 cold damage, and it is blinded until the end of the turn.                                                                                                                   |
+
+### Dark Star
+*8th-level evocation*
+  
+**Casting Time:** :rsc-action: **Action**  
+**Range:** 150 feet  
+**Components:** V, S, M (a shard of onyx and a drop of the caster's blood, both of which the spell consumes)  
+**Duration:** Concentration, up to 1 minute
+
+This spell creates a sphere centered on a point you choose within range. The sphere can have a radius of up to 40 feet. The area within this sphere is filled with magical darkness and crushing gravitational force.
+
+For the duration, the spell's area is difficult terrain. A creature with darkvision can't see through the magical darkness, and nonmagical light can't illuminate it. No sound can be created within or pass through the area. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible there.
+
+Any creature that enters the spell's area for the first time on a turn or starts its turn there must make a Constitution saving throw. The creature takes 8d10 force damage on a failed save, or half as much damage on a successful one. A creature reduced to 0 hit points by this damage is disintegrated. A disintegrated creature and everything it is wearing and carrying, except magic items, are reduced to a pile of fine gray dust.

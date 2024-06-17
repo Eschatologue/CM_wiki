@@ -1,5 +1,23 @@
 # Changelog
 
+## 1.1 <small>17 June 2024</small>
+
+### Feat Changes
+- **[Titan Hunter](../character-creation/feat/feat-starting.md#titan-hunter).** Reworded the feat description.
+- **[Armour Training](../character-creation/feat/feat-starting.md#armour-training).** Removed the prerequisites.
+- **[Dual Wielder](../character-creation/feat/feat-4th-level.md#dual-wielder).** 
+    - Changed the feat description due to [1.0](#10-15-june-2024) Fighting style changes.
+    - Removed +1 AC bonus due to being a half-feat.
+    - Reworded the feat due to changes to fighting styles
+- **[Ability Score Improvement](../character-creation/feat/feat-4th-level.md#ability-score-improvement).** 
+    - Increased the maximum limit for this feat from 20 to 22 when you reach 19th-level.
+
+### Wiki Changes
+- Imported all Spells from cantrip to 9th-level
+
+### Spell Changes
+- Added new homebrew spell: [Shackles of Pain](../spells/3rd-level.md#shackles-of-painhb)
+
 ## 1.0 <small>15 June 2024</small>
 The start of this new wiki.
 

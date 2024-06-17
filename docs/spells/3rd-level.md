@@ -638,6 +638,20 @@ If you cast this spell over 8 hours, you enrich the land. All plants in a half-m
 
 For the duration, the willing creature you touch has resistance to one damage type of your choice: acid, cold, fire, lightning, or thunder.
 
+### Pulse Wave
+*3rd-level evocation*
+
+**Casting Time:** :rsc-action: **Action**  
+**Range:** Self (30-foot cone)  
+**Components:** V, S  
+**Duration:** Instantaneous  
+
+You create intense pressure, unleash it in a 30-foot cone, and decide whether the pressure pulls or pushes creatures and objects. Each creature in that cone must make a Constitution saving throw. A creature takes 6d6 force damage on a failed save, or half as much damage on a successful one. And every creature that fails the save is either pulled 15 feet toward you or pushed 15 feet away from you, depending on the choice you made for the spell.
+
+In addition, unsecured objects that are completely within the cone are likewise pulled or pushed 15 feet.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 and the distance pulled or pushed increases by 5 feet for each slot level above 3rd.
+
 ### Remove Curse
 *3rd-level abjuration*
   
@@ -669,6 +683,18 @@ You touch a creature that has died within the last minute. That creature returns
 You send a short message of twenty-five words or less to a creature with which you are familiar. The creature hears the message in its mind, recognizes you as the sender if it knows you, and can answer in a like manner immediately. The spell enables creatures with Intelligence scores of at least 1 to understand the meaning of your message.
 
 You can send the message across any distance and even to other planes of existence, but if the target is on a different plane than you, there is a 5 percent chance that the message doesn't arrive.
+
+### Shackles of Pain^HB^
+*3rd-level necromancy*
+  
+**Casting Time:** :rsc-action: **Action**  
+**Range:** 60 feet  
+**Components:** S, M (a rusty chain)  
+**Duration:** Concentration, up to 1 minute
+
+You conjure spectral chains to wrap around the target creature's soul, binding it to yours. The creature must make a Constitution saving throw, or be shackled for the spell's duration. For the spell's duration, each time you take damage, the shackled creature takes half amount of the damage you receive.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, you may target an additional creature for every 2 levels above 3rd.
 
 ### Sleet Storm
 *3rd-level conjuration*

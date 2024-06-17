@@ -16,7 +16,14 @@ You gain proficiency in Intelligence (Arcana) if you don’t already have it. Mo
 
 *You calm yourself down and enter a state of heightened focus, allowing you to sense the weaves of magic that permeate this world.*
 
-Using your :rsc-action: **Action**, you can focus your mind and awaken your senses to see the presence of magic within 60 feet of you for 10 minutes, that is not behind full cover.
+As an :rsc-action: **Action**, you can focus your mind and awaken your senses to see the presence of magic(1) within 60 feet of you for 10 minutes, that is not behind full cover.
+{ .annotate }
+
+{ .annotate }
+
+1. ![The Rock](./../../assets/wiki/the-people-eyebrow.gif)
+
+    Visual representation of Eris sensing a presence of magic being cast.
 
 When you sense magic in this way, using your :rsc-action: **Action**, you can focus your mind to one object or one creature to learn the following:
 
@@ -107,24 +114,19 @@ To be channeled using a Dekrat's Special:material-trademark: in this way, the sp
 
 If your attack misses, the spell fails and has no effect. On a hit, the spell takes effect immediately in addition of the normal effects and damage from your weapon attack, under the rules below:
 
-- :material-radius-outline: **Area of Effects.** If the spell targets an area greater than 10 ft. :material-cube-outline: cube, it takes effect as a 15 ft. :material-cone: cone originating from you, which must include your target, or it is contained to only affect the target of your attack (your choice). Using a ranged weapon, your spell is contained to only affect the target of your attack.
-- :simple-codemagic: **Cantrip.** The cantrip does not deal damage. Instead, your weapon attack and your Sneak Attack (if applicable) deals the damage type dealt by the cantrip, and applies the cantrip additional effects on hit, except for damage.
-- :material-focus-field: **Concentration**. If the spell requires your concentration, you must concentrate on it as soon as it takes effect on hit.
-- :material-shield: **Saving Throws**. If the spell requires a saving throw when cast, the target makes the first saving throw at a :d20-disadv:**Disadvantage** on hit. If you score a critical hit on the attack, the target automatically fails its saving throw. Other target (if any) make this save as normal.
-- :fontawesome-solid-crosshairs: **Spell Attacks**. If the spell requires a spell attack roll, it instantly take effect when you hit with a weapon attack.
+- :material-radius-outline: ***Area of Effects.*** If the spell targets an area greater than 10 ft. :material-cube-outline: cube, it takes effect as a 15 ft. :material-cone: cone originating from you, which must include your target, or it is contained to only affect the target of your attack (your choice). Using a ranged weapon, your spell is contained to only affect the target of your attack.
+- :simple-codemagic: ***Cantrip.*** The cantrip does not deal damage. Instead, your weapon attack and your Sneak Attack (if applicable) deals the damage type dealt by the cantrip, and applies the cantrip additional effects on hit, except for damage.
+- :material-focus-field: ***Concentration***. If the spell requires your concentration, you must concentrate on it as soon as it takes effect on hit.
+- :material-shield: ***Saving Throws***. If the spell requires a saving throw when cast, the target makes the first saving throw at a :d20-disadv:**Disadvantage** on hit. If you score a critical hit on the attack, the target automatically fails its saving throw. Other target (if any) make this save as normal.
+- :fontawesome-solid-crosshairs: ***Spell Attacks***. If the spell requires a spell attack roll, it instantly take effect when you hit with a weapon attack.
 
 ## 5th-level: Expanded Spell List
 
-You gain more experience in casting spell, you can now choose and prepare 2nd-level spells from a list at the end of this page.
+You gain more experience in casting spells, you can now choose and prepare 2nd-level spells from a list at the end of this page.
 
 ## 6th-level: The People’s Eyebrow
 
-*With a simple raise of your eyebrow(1), you possess the uncanny ability to disrupt and foil a spellcaster's magic.*
-{ .annotate }
-
-1. ![The Rock](./../../assets/wiki/the-people-eyebrow.gif)
-
-    Visual representation of Eris sensing a presence of magic being cast.
+*With a simple raise of your eyebrow, you possess the uncanny ability to disrupt and foil a spellcaster's magic.*
 
 When you see a creature casting a spell or teleporting within 60 feet of you, you can use a :material-star-four-points: **Reaction** to expend a spell slot to try magically foils it.
 
@@ -210,68 +212,68 @@ Spells marked with ^DS^ means that the spell fufill the prerequisites to be chan
       - [Slow]^DS^
       - [Tidal Wave]^DS^
 
-[Acid Splash]: http://dnd5e.wikidot.com/spell:acid-splash
-[Booming Blade]: http://dnd5e.wikidot.com/spell:booming-blade
-[Blade Ward]: http://dnd5e.wikidot.com/spell:blade-ward
-[Chill Touch]: http://dnd5e.wikidot.com/spell:chill-touch
-[Dancing Lights]: http://dnd5e.wikidot.com/spell:dancing-lights
-[Fire Bolt]: http://dnd5e.wikidot.com/spell:fire-bolt
-[Friends]: http://dnd5e.wikidot.com/spell:frostbite
-[Green-Flame Blade]: http://dnd5e.wikidot.com/spell:green-flame-blade
-[Light]: http://dnd5e.wikidot.com/spell:light
-[Mage Hand]: http://dnd5e.wikidot.com/spell:mage-hand
-[Minor Illusion]: http://dnd5e.wikidot.com/spell:minor-illusion
-[Poison Spray]: http://dnd5e.wikidot.com/spell:poison-spray
-[Prestidigitation]: http://dnd5e.wikidot.com/spell:prestidigitation
-[Ray of Frost]: http://dnd5e.wikidot.com/spell:ray-of-frost
-[Shocking Grasp]: http://dnd5e.wikidot.com/spell:shocking-grasp
-[Vicious Mockery]: http://dnd5e.wikidot.com/spell:vicious-mockery
+[Acid Splash]: ../../spells/cantrip.md#acid-splash
+[Booming Blade]:../../spells/cantrip.md#booming-blade
+[Blade Ward]: ../../spells/cantrip.md#blade-ward
+[Chill Touch]: ../../spells/cantrip.md#chill-touch
+[Dancing Lights]: ../../spells/cantrip.md#dancing-lights
+[Fire Bolt]: ../../spells/cantrip.md#fire-bolt
+[Friends]: ../../spells/cantrip.md#frostbite
+[Green-Flame Blade]: ../../spells/cantrip.md#green-flame-blade
+[Light]: ../../spells/cantrip.md#light
+[Mage Hand]: ../../spells/cantrip.md#mage-hand
+[Minor Illusion]: ../../spells/cantrip.md#minor-illusion
+[Poison Spray]: ../../spells/cantrip.md#poison-spray
+[Prestidigitation]: ../../spells/cantrip.md#prestidigitation
+[Ray of Frost]: ../../spells/cantrip.md#ray-of-frost
+[Shocking Grasp]: ../../spells/cantrip.md#shocking-grasp
+[Vicious Mockery]: ../../spells/cantrip.md#vicious-mockery
 
-[Absorb Elements]: http://dnd5e.wikidot.com/spell:absorb-elements
-[Armor of Agathys]: http://dnd5e.wikidot.com/spell:armor-of-agathys
-[Bane]: http://dnd5e.wikidot.com/spell:bane
-[Burning Hands]: http://dnd5e.wikidot.com/spell:burning-hands
-[Chromatic Orb]: http://dnd5e.wikidot.com/spell:chromatic-orb
-[Color Spray]: http://dnd5e.wikidot.com/spell:color-spray
-[Detect Evil and Good]: http://dnd5e.wikidot.com/spell:detect-evil-and-good
-[Earth Tremor]: http://dnd5e.wikidot.com/spell:earth-tremor
-[Faerie Fire]: http://dnd5e.wikidot.com/spell:faerie-fire
-[Gift of Alacrity]: http://dnd5e.wikidot.com/spell:gift-of-alacrity
-[Grease]: http://dnd5e.wikidot.com/spell:grease
-[Hunter's Mark]: http://dnd5e.wikidot.com/spell:hunters-mark
-[Ice Knife]: http://dnd5e.wikidot.com/spell:ice-knife
-[Shield]: http://dnd5e.wikidot.com/spell:shield
-[Thunderwave]: http://dnd5e.wikidot.com/spell:thunderwave
-[Zephyr Strike]: http://dnd5e.wikidot.com/spell:zephyr-strike
+[Absorb Elements]: ../../spells/1st-level.md#absorb-elements
+[Armor of Agathys]: ../../spells/1st-level.md#armor-of-agathys
+[Bane]: ../../spells/1st-level.md#bane
+[Burning Hands]: ../../spells/1st-level.md#burning-hands
+[Chromatic Orb]: ../../spells/1st-level.md#chromatic-orb
+[Color Spray]: ../../spells/1st-level.md#color-spray
+[Detect Evil and Good]: ../../spells/1st-level.md#detect-evil-and-good
+[Earth Tremor]: ../../spells/1st-level.md#earth-tremor
+[Faerie Fire]: ../../spells/1st-level.md#faerie-fire
+[Gift of Alacrity]: ../../spells/1st-level.md#gift-of-alacrity
+[Grease]: ../../spells/1st-level.md#grease
+[Hunter's Mark]: ../../spells/1st-level.md#hunters-mark
+[Ice Knife]: ../../spells/1st-level.md#ice-knife
+[Shield]: ../../spells/1st-level.md#shield
+[Thunderwave]: ../../spells/1st-level.md#thunderwave
+[Zephyr Strike]: ../../spells/1st-level.md#zephyr-strike
 
-[Aganazzar's Scorcher]: http://dnd5e.wikidot.com/spell:aganazzars-scorcher
-[Blur]: http://dnd5e.wikidot.com/spell:blur
-[Blindness/Deafness]: http://dnd5e.wikidot.com/spell:blindness-deafness 
-[Darkvision]: http://dnd5e.wikidot.com/spell:darkvision
-[Enhance Ability]: http://dnd5e.wikidot.com/spell:enhance-ability
-[Enlarge/Reduce]: http://dnd5e.wikidot.com/spell:enlarge-reduce
-[Gust of Wind]: http://dnd5e.wikidot.com/spell:gust-of-wind 
-[Hold Person]: http://dnd5e.wikidot.com/spell:hold-person 
-[Magic Weapon]: http://dnd5e.wikidot.com/spell:magic-weapon
-[Mirror Image]: http://dnd5e.wikidot.com/spell:mirror-image
-[Misty Step]: http://dnd5e.wikidot.com/spell:misty-step
-[Pass Without Trace]: http://dnd5e.wikidot.com/spell:pass-without-trace
-[Ray of Enfeeblement]: http://dnd5e.wikidot.com/spell:ray-of-enfeeblement 
-[Shatter]: http://dnd5e.wikidot.com/spell:shatter 
-[Silence]: http://dnd5e.wikidot.com/spell:silence
-[Zone of Truth]: http://dnd5e.wikidot.com/spell:zone-of-truth
+[Aganazzar's Scorcher]: ../../spells/2nd-level.md#aganazzars-scorcher
+[Blur]: ../../spells/2nd-level.md#blur
+[Blindness/Deafness]: ../../spells/2nd-level.md#blindness-deafness 
+[Darkvision]: ../../spells/2nd-level.md#darkvision
+[Enhance Ability]: ../../spells/2nd-level.md#enhance-ability
+[Enlarge/Reduce]: ../../spells/2nd-level.md#enlarge-reduce
+[Gust of Wind]: ../../spells/2nd-level.md#gust-of-wind 
+[Hold Person]: ../../spells/2nd-level.md#hold-person 
+[Magic Weapon]: ../../spells/2nd-level.md#magic-weapon
+[Mirror Image]: ../../spells/2nd-level.md#mirror-image
+[Misty Step]: ../../spells/2nd-level.md#misty-step
+[Pass Without Trace]: ../../spells/2nd-level.md#pass-without-trace
+[Ray of Enfeeblement]: ../../spells/2nd-level.md#ray-of-enfeeblement 
+[Shatter]: ../../spells/2nd-level.md#shatter 
+[Silence]: ../../spells/2nd-level.md#silence
+[Zone of Truth]: ../../spells/2nd-level.md#zone-of-truth
 
-[Ashardalon's Stride]: http://dnd5e.wikidot.com/spell:ashardalons-stride
-[Counterspell]: http://dnd5e.wikidot.com/spell:counterspell
-[Dispel Magic]: http://dnd5e.wikidot.com/spell:dispel-magic
-[Erupting Earth]: http://dnd5e.wikidot.com/spell:erupting-earth
-[Fireball]: http://dnd5e.wikidot.com/spell:fireball
-[Haste]: http://dnd5e.wikidot.com/spell:haste
-[Lightning Bolt]: http://dnd5e.wikidot.com/spell:lightning-bolt
-[Magic Circle]: http://dnd5e.wikidot.com/spell:magic-circle
-[Nondetection]: http://dnd5e.wikidot.com/spell:nondetection
-[Pulse Wave]: http://dnd5e.wikidot.com/spell:pulse-wave
-[Slow]: http://dnd5e.wikidot.com/spell:slow
-[Tidal Wave]: http://dnd5e.wikidot.com/spell:tidal-wave
+[Ashardalon's Stride]: ../../spells/3rd-level.md#ashardalons-stride
+[Counterspell]: ../../spells/3rd-level.md#counterspell
+[Dispel Magic]: ../../spells/3rd-level.md#dispel-magic
+[Erupting Earth]: ../../spells/3rd-level.md#erupting-earth
+[Fireball]: ../../spells/3rd-level.md#fireball
+[Haste]: ../../spells/3rd-level.md#haste
+[Lightning Bolt]: ../../spells/3rd-level.md#lightning-bolt
+[Magic Circle]: ../../spells/3rd-level.md#magic-circle
+[Nondetection]: ../../spells/3rd-level.md#nondetection
+[Pulse Wave]: ../../spells/3rd-level.md#pulse-wave
+[Slow]: ../../spells/3rd-level.md#slow
+[Tidal Wave]: ../../spells/3rd-level.md#tidal-wave
 
 *[DS]: This spell is compatible with Dekrat's Special
