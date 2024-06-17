@@ -127,7 +127,7 @@ When you make the extra attack of the :weapon-prop-light:*[Light]* weapon proper
 **Prerequisites:** Warrior Group, Paladin Class, or Ranger Class  
 **Repeatable:** No
 
-Your unarmed strikes can deal Bludgeoning damage equal to `1d6 + your Strength modifier` on a hit. If you aren't wielding any weapons or a shield when you make the :d20-attack:**Attack Roll**, the :material-dice-d6:d6 becomes a :material-dice-d9:d8.
+Your unarmed strikes can deal Bludgeoning damage equal to `1d6 + your Strength modifier` on a hit. If you aren't wielding any weapons or a shield when you make the :d20-attack:**Attack Roll**, the :material-dice-d6:d6 becomes a :material-dice-d8:d8.
 
 At the start of each of your turns, you can deal 1d4 Bludgeoning damage to one creature grappled by you
 
@@ -137,7 +137,7 @@ At the start of each of your turns, you can deal 1d4 Bludgeoning damage to one c
 **Prerequisites:** Warrior Group, Paladin Class, or Ranger Class  
 **Repeatable:** No
 
-While wielding a single :weapon-prop-versatile:*[Versatile]* weapon and no shield, you gain a +1 bonus to your :d20-attack:**Attack Roll**s with that weapon. While doing so, you can also use your :rsc-bonus-action:**Bonus Action** to make a single grapple or shove attack, or take the Use an Object Action
+While wielding a single :weapon-prop-versatile:*[Versatile]* weapon and no shield, you gain a +1 bonus to your :d20-attack:**Attack Roll** and Damage Roll with that weapon. While doing so, you can also use your :rsc-bonus-action:**Bonus Action** to make a single grapple or shove attack, or take the Use an Object Action.
 
 [Light]: ../../equipment/weapon/index.md#light
 [Thrown]: ../../equipment/weapon/index.md#thrown

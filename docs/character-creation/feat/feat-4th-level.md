@@ -131,7 +131,7 @@ You’ve learned to deftly parry attacks, granting you the following benefits:
 ### Dual Wielder
 *4th-level Feat*
 
-**Prerequisites:** Expert or Warrior Group, or Two-Weapon Fighing feat
+**Prerequisites:** Expert group, Warrior Group, or Two-Weapon Figthing style
 **Repeatable:** No
 
 You master the ability to use two weapons at the same time You gain the following benefits:
@@ -233,7 +233,7 @@ Your exposure to the Feywild’s magic has changed you, granting you the followi
 
 *4th-level Feat*
 
-**Prerequisites:** Proficiency with at least one Martial Weapon; Warrior Group  
+**Prerequisites:** Warrior Group or Proficiency with at least one Martial Weapon
 **Repeatable:** Yes, choose a different fighting style each time.
 
 Your martial training has helped you develop a particular style of fighting.
@@ -296,7 +296,7 @@ You're an accomplished wrestler, granting you the following benefits:
 ### Great Weapon Master
 *4th-level Feat*
 
-**Prerequisite:** :material-lightbulb-on: Proficiency with any Martial Weapon  
+**Prerequisite:** Warrior Group or Proficiency with at least one Martial Weapon with :weapon-prop-heavy: *[heavy]* property
 **Repeatable:** No
 
 You’ve learned to use the weight of a weapon to your advantage, letting its momentum empower your strikes. You gain the following benefits:
@@ -305,26 +305,26 @@ You’ve learned to use the weight of a weapon to your advantage, letting its mo
     
      You increase your Strength by 1, to a maximum of 20.
     
-- **Cleave**
+- **Momentum**
     
-    Immediately after you score a Critical Hit with a Melee Weapon or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a Bonus Action.
+    Immediately after you score a Critical Hit with a Melee Weapon with :weapon-prop-heavy: *[heavy]* or :weapon-prop-versatile: *[versatile]* property  or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a :rsc-bonus-action:**Bonus Action**.
     
 
 Choose one of the following ability below, you can change it when you gain a level that grants Ability Score Improvement or a Feat choice.
 
-- **Heavy Weapon Mastery**
+- **Heavy Impact**
     
-    Once per turn, when you hit a creature with a weapon with the *heavy* or *versatile* property that you are proficient with as part of the Attack Action on your turn, you can cause the weapon to deal extra damage to the target. The extra damage equals your Proficiency Bonus.
+    Once per turn, when you hit a creature with a weapon with the :weapon-prop-heavy: *[heavy]* or :weapon-prop-versatile: *[versatile]* property, you can cause the weapon to deal extra damage to the target. The extra damage equals your Proficiency Bonus.
     
 - **All In**
     
-    Before you make a melee attack with a *heavy* or *versatile* weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.
+    Before you make a melee attack with a :weapon-prop-heavy: *[heavy]* or :weapon-prop-versatile: *[versatile]* weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.
 
 
 ### Gunner
 *4th-level Feat*
 
-**Prerequisite:** Dexterity 13+; Proficient with at least one firearm.  
+**Prerequisite:** Dexterity 13+ or Proficieny with at least one firearm.  
 **Repeatable:** No
 
 You have a quick hand and keen eye when employing firearms, granting you the following benefits:
@@ -335,7 +335,7 @@ You have a quick hand and keen eye when employing firearms, granting you the fol
     
 - **Dual Wielding**
     
-    When you make the extra attack of the Light weapon property, you can add your Ability Modifier to the damage of the extra attack if that attack is with a firearm that has the Light property.
+    When you make the extra attack of the :weapon-prop-light: *[Light]* weapon property, you can add your Ability Modifier to the damage of the extra attack if that attack is with a firearm that has the :weapon-prop-light: *[Light]* property.
     
 - **Quickshot**
     
@@ -345,7 +345,7 @@ You have a quick hand and keen eye when employing firearms, granting you the fol
 ### Heavy Armour Master
 *4th-level Feat*
 
-**Prerequisite:** Strength 13+; Heavy armour proficiency  
+**Prerequisite:** Strength 13+ or a Heavy armour proficiency  
 **Repeatable:** No
 
 You can use your armour to deflect strikes that would kill others. You gain the following benefits:
@@ -403,7 +403,6 @@ You have trained to rapidly recall or discover vital details, granting you the f
     You always know the number of hours left before the next sunrise or sunset.
 
 ~~KEEEEEEN MIIIIND~~
-
 
 ### Mage Slayer
 *4th-level Feat*
@@ -528,7 +527,7 @@ You become fearsome to others, gaining the following benefits:
 ### Metamagic Novice
 *4th-level Feat*
 
-**Prerequisite:** Spellcasting/Pact Magic feature; Expert, Priest or Mage Group  
+**Prerequisite:** Spellcasting/Pact Magic featur; Expert, Priest or Mage Group  
 **Repeatable:** No
 
 You’re experimenting how to exert your will on your spells to alter how they function:
@@ -834,15 +833,11 @@ You’ve learned where to cut to have the greatest results, granting you the fol
     
 - **Cull**
     
-    Once per turn when you hit a creature with an attack that deals slashing damage, you can reduce the walking speed of the target by half until the start of your next turn.
-    
-- **Momentum**
-    
-    When you make a melee weapon attack that deal slashing damage and miss, you can use your bonus action to immediately repeat your attack against another target within the reach of your weapon. You cannot move to hit the second target.
+    When you hit a creature with a weapon that deals slashing damage, you can reduce the walking speed of the target by 10 ft. until the start of your next turn. When you hit the same target multiple times, the target's movement speed can't exceed below 10 ft.
     
 - **Bleed**
     
-    When you score a critical hit that deals slashing damage to a creature, you grievously wound it. Until the start of your next turn, the target has disadvantage on all attack rolls.
+    When you hit a creature with a weapon that deals slashing damage, that creature has :d20-disadv:**Disadvantage** on its next attack roll before the start of your next turn.
 
 
 ### Speedster
@@ -1027,3 +1022,8 @@ You have practiced extensively with a variety of weapons, gaining the following 
     { .annotate }
 
     1. :material-lightbulb-on: **Martial Weapon Proficiency.** Gives you proficiency on all Martial weapons. 
+
+
+[heavy]: ../../equipment/weapon/index.md#heavy
+[light]: ../../equipment/weapon/index.md#light
+[versatile]: ../../equipment/weapon/index.md#versatile

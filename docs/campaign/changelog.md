@@ -11,6 +11,11 @@
     - Reworded the feat due to changes to fighting styles
 - **[Ability Score Improvement](../character-creation/feat/feat-4th-level.md#ability-score-improvement).** 
     - Increased the maximum limit for this feat from 20 to 22 when you reach 19th-level.
+- **[Slasher](../character-creation/feat/feat-4th-level.md#slasher)**
+    - **Cull.** This feature reduces target movement speed by 10 feet instead of halfing it. This feature is now not limited to once per turn.
+    - **Bleed.** Vritical hit requirement is removed, instead the effect only last until the start of your next turn.
+- **[Great Weapon Expert](../character-creation/feat/feat-8th-level.md#great-weapon-expert)**
+    - added **Ringing Blows** and **Excessive Force** to compensate for the lack of ASI increase
 
 ### Wiki Changes
 - Imported all Spells from cantrip to 9th-level

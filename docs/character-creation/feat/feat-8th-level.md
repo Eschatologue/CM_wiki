@@ -12,7 +12,7 @@ You learn how to push yourself beyond your normal limits.
 
 - **What a Rush!**
     
-     **On your turn, you can expend one of your Hit Die and gain one additional action. You can use this feature once and gain expended use on a long rest.
+    **On your turn, you can expend one of your Hit Die and gain one additional action. You can use this feature once per long rest.
 
 ### Artifice Conflux
 *8th-level Feat*
@@ -68,8 +68,16 @@ You have mastered the usage of heavy weapons, using their weight and size for ma
     
     When you throw a weapon with a :weapon-prop-heavy: *[heavy]* property, its damage die becomes the weapon damage die instead of d4.
 
-[heavy](../../equipment/weapon/index.md#heavy)
-[versatile](../../equipment/weapon/index.md#versatile)
+- **Ringing Blows**
+    
+    When you miss a melee attack with a :weapon-prop-heavy: *[heavy]* weapon, you can deal damage to that creature equal to your Ability Modifier used to make the attack roll. This damage can't be increased in any way, other than increasing the Ability Modifier.
+
+- **Excessive Force**
+    
+    When you hit a ranged attack with a :weapon-prop-heavy: *[heavy]* weapon, you can push the creature up to 10 feet straight away from yourself if it is Large or smaller sized. If you score a critical hit, the creature is becomes prone.
+
+[heavy]: ../../equipment/weapon/index.md#heavy
+[versatile]: ../../equipment/weapon/index.md#versatile
 
 ### Magically Imbibed
 *8th-level Feat*
