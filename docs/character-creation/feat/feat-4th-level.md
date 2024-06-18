@@ -21,7 +21,7 @@ icon: material/cards-playing-spade-multiple
 
 You've learned how the how to weave magic and mobility
 
-- ***Ability Score Increase**
+- **Ability Score Increase**
     
     Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
     
@@ -46,7 +46,7 @@ You've learned how the how to weave magic and mobility
 
 You are skilled at casting spells with a weapon in hand.
 
-- ***Ability Score Increase**
+- **Ability Score Increase**
     
     Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
     
@@ -67,7 +67,7 @@ You are skilled at casting spells with a weapon in hand.
 
 You have learned to channel your magic through a deck of cards. 
 
-- ***Ability Score Increase**
+- **Ability Score Increase**
     
     Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
     
@@ -94,7 +94,7 @@ You have learned to channel your magic through a deck of cards.
 
 Thanks to extensive practice with the crossbow, you gain the following benefits:
 
-- ***Ability Score Increase**
+- **Ability Score Increase**
     
     Increase your Dexterity by 1, to a maximum of 20.
     
@@ -119,7 +119,7 @@ Thanks to extensive practice with the crossbow, you gain the following benefits:
 
 You’ve learned to deftly parry attacks, granting you the following benefits:
 
-- ***Ability Score Increase**
+- **Ability Score Increase**
     
     Increase your Dexterity by 1, to a maximum of 20.
     
@@ -131,7 +131,7 @@ You’ve learned to deftly parry attacks, granting you the following benefits:
 ### Dual Wielder
 *4th-level Feat*
 
-**Prerequisites:** Expert group, Warrior Group, or Two-Weapon Figthing style
+**Prerequisites:** Expert group, Warrior Group, or Two-Weapon Figthing style  
 **Repeatable:** No
 
 You master the ability to use two weapons at the same time You gain the following benefits:
@@ -157,7 +157,7 @@ You master the ability to use two weapons at the same time You gain the followin
 
 Hardy and resilient, you gain the following benefits:
 
-- ***Ability Score Increase**
+- **Ability Score Increase**
     
     Increase your Constitution by 1, to a maximum of 20.
     
@@ -203,7 +203,7 @@ You’ve learned to cannibalize the power of your spells to reinvigorate your al
 
 In your spellcasting, you can harness a particular form of energy with deadly mastery, granting you the following benefits:
 
-- ***Ability Score Increase**
+- **Ability Score Increase**
     
     Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
     
@@ -233,7 +233,7 @@ Your exposure to the Feywild’s magic has changed you, granting you the followi
 
 *4th-level Feat*
 
-**Prerequisites:** Warrior Group or Proficiency with at least one Martial Weapon
+**Prerequisites:** Warrior Group or Proficiency with at least one Martial Weapon  
 **Repeatable:** Yes, choose a different fighting style each time.
 
 Your martial training has helped you develop a particular style of fighting.
@@ -293,10 +293,10 @@ You're an accomplished wrestler, granting you the following benefits:
     When you hit a creature with an Unarmed Strike as part of the Attack Action on your turn, you can deal damage to the target and also grapple it. You can use this benefit only once per turn.
 
 
-### Great Weapon Master
+### Great Weapon Adept
 *4th-level Feat*
 
-**Prerequisite:** Warrior Group or Proficiency with at least one Martial Weapon with :weapon-prop-heavy: *[heavy]* property
+**Prerequisite:** Warrior Group or Proficiency with at least one Martial Weapon with :weapon-prop-heavy: *[heavy]* property  
 **Repeatable:** No
 
 You’ve learned to use the weight of a weapon to your advantage, letting its momentum empower your strikes. You gain the following benefits:
@@ -609,7 +609,7 @@ You have developed a bond with your mounts, granting you the following benefits:
 
 You have achieved a penetrating precision in combat, granting you the following benefits:
 
-- ***Ability Score Increase**
+- **Ability Score Increase**
     
     Increase your Strength or Dexterity by 1, to a maximum of 20.
 
@@ -936,7 +936,7 @@ One-handed weapons and blades are an extension of your arm, graceful as the wind
 
 You awaken the ability to mentally connect with others, granting you the following benefits:
 
-- ***Ability Score Increase**
+- **Ability Score Increase**
     
     You increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
     
@@ -961,7 +961,7 @@ You awaken the ability to mentally connect with others, granting you the followi
 
 You have been touched by the Warp, giving you benefits as follow:
 
-- ***Ability Score Increase**
+- **Ability Score Increase**
     
     Increase your Constitution by 1, to a maximum of 20.
     
