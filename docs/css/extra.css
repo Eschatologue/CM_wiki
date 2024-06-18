@@ -15,10 +15,33 @@
     text-align: left;
 }
 
-/* Main Theme*/
+/* Main Theme Colour */
 [data-md-color-scheme=slate] {
     --md-hue: 220;
 }
+
+.definition-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+.definition-item {
+    display: flex;
+    gap: 1em;
+    align-items: flex-start;
+}
+
+.md-typeset dt {
+    font-weight: bold;
+    margin-right: 1em;
+    min-width: 150px; /* Adjust this value as needed */
+}
+
+.md-typeset dd {
+    margin: 0;
+}
+
 
 /* Table Styles */
 /* Table Size and Appearance */
@@ -100,20 +123,9 @@ table tr:last-child td:first-child {
     font-weight: normal;
 }
 
-/* Title Case Test */
-.md-typeset h4 span::first-letter {
-    font-size: 2em; /* Adjust the size as needed */
-}
-
-
 /* H5 - Title beginning reserved for tables */
-.md-typeset h4 {
+.md-typeset h5 {
     font-weight: 400;
-}
-
-/* Remove Margin */
-.noMargin {
-    margin-bottom: -12px;
 }
 
 /* Icon Heading */
@@ -200,6 +212,6 @@ table tr:last-child td:first-child {
 }
 
 /* Icon Spacing */
- .lg {
+.lg {
     padding-right: 0.35em;
- }
+}

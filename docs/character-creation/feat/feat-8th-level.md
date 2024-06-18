@@ -10,9 +10,9 @@ icon: material/cards-playing
 
 You learn how to push yourself beyond your normal limits.
 
-- **What a Rush!**
+**What a Rush!**
     
-    **On your turn, you can expend one of your Hit Die and gain one additional action. You can use this feature once per long rest.
+:   On your turn, you can expend one of your Hit Die and gain one additional action. You can use this feature once per long rest.
 
 ### Artifice Conflux
 *8th-level Feat*
