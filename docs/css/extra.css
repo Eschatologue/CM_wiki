@@ -20,11 +20,6 @@
     --md-hue: 220;
 }
 
-.md-typeset dl {
-    margin-top: 12px;
-}
-
-
 /* Table Styles */
 /* Table Size and Appearance */
 .md-typeset table:not([class]) th,
