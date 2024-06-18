@@ -20,20 +20,8 @@
     --md-hue: 220;
 }
 
-.md-typeset dt {
-    display: flex;
-    flex-direction: column;
-    gap: 1em;
-    font-weight: bold;
-    margin-right: 1em;
-    min-width: 36px; /* Adjust this value as needed */
-}
-
 .md-typeset dl {
-    display: flex;
-    gap: 1em;
-    align-items: flex-start;
-    margin-top: -24px;
+    margin-top: 12px;
 }
 
 
