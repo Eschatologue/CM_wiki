@@ -1,0 +1,54 @@
+/* Table Styles */
+/* Table Size and Appearance */
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+    padding-left: 12px;
+    padding-right: 12px;
+    border-bottom: rgba(255, 255, 255, 0.12);
+    background-color: rgba(255, 255, 255, 0.025);
+}
+.md-typeset table:not([class]) th {
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.md-typeset table:not([class]) td {
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+/* Table Header and Cell Rounding */
+table th:first-child {
+    border-radius: 3px 0 0 0 !important;
+}
+table th:last-child {
+    border-radius: 0 3px 0 0 !important;
+}
+table tr:last-child td:last-child {
+    border-radius: 0 0 3px 0 !important;
+}
+table tr:last-child td:first-child {
+    border-radius: 0 0 0 3px !important;
+}
+
+/* Table Display and Border Color */
+.md-typeset__table table:not([class]) {
+    display: table;
+    border-color: #00000000; /* Transparent Colour, couldn't figure out how to remove the border, so transparent it is*/
+}
+
+/* Table Font Size */
+.md-typeset table:not([class]) {
+    font-size: 8pt;
+}
+
+/* Table Header Styling */
+.md-typeset table:not([class]) th {
+    font-weight: bold !important;
+    text-transform: uppercase !important;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+/* Table Width */
+.md-typeset__table {
+    width: 100%;
+}
