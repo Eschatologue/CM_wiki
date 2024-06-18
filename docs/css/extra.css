@@ -20,23 +20,6 @@
     --md-hue: 220;
 }
 
-.md-typeset dl {
-    display: flex;
-    flex-direction: column;
-    gap: 1em;
-}
-.md-typeset dt {
-    margin-right: 1em;
-    min-width: 150px; /* Adjust this value as needed */
-}
-.md-typeset dd {
-    display: flex;
-    gap: 1em;
-    align-items: flex-start;
-    margin: 0;
-}
-
-
 /* Table Styles */
 /* Table Size and Appearance */
 .md-typeset table:not([class]) th,
