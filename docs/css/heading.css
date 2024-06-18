@@ -6,13 +6,13 @@
 
 /* H2 */
 .md-typeset h2::before {
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    width: 60px;
-    height: 2px;
-    content: "";
-    background-color: #c50000;
+    background-color: rgba(255, 255, 255, 0.24);
+    border-radius: 0.25rem;
+    content: '';
+    display: block;
+    height: 0.25rem;
+    width: 42px;
+    margin-bottom: 12px;
     /*
     margin-top: 4px;
     border-bottom: 2px solid rgba(255, 255, 255, 0.12);
