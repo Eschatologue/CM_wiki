@@ -1,8 +1,6 @@
 ---
-icon: dnd/weapon-rifle
+icon: weapon/rifle
 ---
-
-*Detailed Lore: [WIP]*
 
 Firearms are uncommon and challenging to use in Antares, often considered impractical and requiring specific prerequisites, unlike on Earth. Other weapons like bows, crossbows, or arcane staves are easier to use and cheaper, while cold steel weapons are much stronger.
 

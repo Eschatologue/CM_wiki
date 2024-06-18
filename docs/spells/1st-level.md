@@ -1,3 +1,7 @@
+---
+icon: material/roman-numeral-1
+---
+
 # 1st-level Spells
 
 ### Absorb Elements

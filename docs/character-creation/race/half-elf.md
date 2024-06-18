@@ -27,7 +27,7 @@ Half-elves are more or less the same size as humans, ranging from 5 to 6 feet ta
 
 ### Additional Traits
 
-:dnd-weapon-spear:{ .lg .middle } **Civil Militia**  
+:weapon-spear:{ .lg .middle } **Civil Militia**  
 &ensp;&ensp;&ensp; You gain :dnd-stat-prof:Proficiency in spears, glaives, pikes, and halberds.
 
 :dnd-trait-darkvision:{ .lg .middle } **Darkvision**  
@@ -90,7 +90,7 @@ Half-elves are more or less the same size as humans, ranging from 5 to 6 feet ta
 &ensp;&ensp;&ensp; You learn an additional language; *English* 
 
 :dnd-stat-prof:{ .lg .middle } **British Ingenuity**  
-&ensp;&ensp;&ensp; You gain :dnd-stat-prof:Proficiency with :dnd-weapon-rifle:**Firearms**.
+&ensp;&ensp;&ensp; You gain :dnd-stat-prof:Proficiency with :weapon-rifle:**Firearms**.
 
 :dnd-stat-prof:{ .lg .middle } **Technological Literacy**  
 &ensp;&ensp;&ensp; You gain :dnd-stat-prof:**Proficiency** in Intelligence (History). You can add double of your :dnd-stat-prof:**Proficiency** bonus to checks related to technologies.

@@ -47,7 +47,7 @@
 :dnd-stat-prof:{ .lg .middle } **Tools Proficiency**  
 &ensp;&ensp;&ensp; You gain :dnd-stat-prof:Proficiency in one set of Artisan's Tools or one Gaming Set of your choice.
 
-:dnd-weapon-spear:{ .lg .middle } **Civil Militia**  
+:weapon-spear:{ .lg .middle } **Civil Militia**  
 &ensp;&ensp;&ensp; You gain :dnd-stat-prof:Proficiency in spears, glaives, pikes, and halberds.
 
 ---
@@ -86,7 +86,7 @@
 &ensp;&ensp;&ensp; You gain :dnd-stat-prof:Proficiency in *one* skill of your choice.
 
 :dnd-stat-prof:{ .lg .middle } **British Ingenuity**  
-&ensp;&ensp;&ensp; You gain :dnd-stat-prof:Proficiency with :dnd-weapon-pistol:**Firearms** and *one* artisan's tools of your choice: Cartographer's Tools, Smith's Tools or Tinker's Tools.
+&ensp;&ensp;&ensp; You gain :dnd-stat-prof:Proficiency with :weapon-pistol:**Firearms** and *one* artisan's tools of your choice: Cartographer's Tools, Smith's Tools or Tinker's Tools.
 
 :dnd-stat-prof:{ .lg .middle } **Technological Literacy**  
 &ensp;&ensp;&ensp; You gain :dnd-stat-prof:**Proficiency** in Intelligence (History). You can add double of your :dnd-stat-prof:**Proficiency Bonus** to checks related to technologies, whenever it is yours or from other nations.
