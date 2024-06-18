@@ -20,12 +20,12 @@
     --md-hue: 220;
 }
 
-.md-typeset dt {
-    margin-bottom: 8px;
+.md-typeset dd {
+    margin-bottom: 6px;
 }
 
-.md-typeset dl {
-    margin-top: 12px;
+.md-typeset dt {
+    margin-top: 6px;
 }
 
 
