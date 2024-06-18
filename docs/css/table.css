@@ -38,7 +38,7 @@ table tr:last-child td:first-child {
 
 /* Table Font Size */
 .md-typeset table:not([class]) {
-    font-size: 8pt;
+    font-size: 9pt;
 }
 
 /* Table Header Styling */

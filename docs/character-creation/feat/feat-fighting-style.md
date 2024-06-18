@@ -24,7 +24,7 @@ You have blindsight with a range of 10 feet. Within that range, you can effectiv
 **Prerequisites:** Warrior Group, Ranger Class, or [Fighting Initiate] feat; Proficiency with Firearms  
 **Repeatable:** No
 
-When you make extra attacks of the :weapon-prop-light: *[Automatic]* weapon property, the number of attacks you make equal to half of your ability modifier(rounded up) used to make the extra attacks does not suffer :d20-disadv:**Disadvantage**.
+When you make extra attacks of the :weapon-prop-automatic: **[Automatic]** weapon property, the number of attacks you make equal to half of your ability modifier(rounded up) used to make the extra attacks does not suffer :d20-disadv:**Disadvantage**.
 
 ### Fighting Style: Gallian Swordplay
 *1st-level Feat - Homebrew*
@@ -58,7 +58,7 @@ When you are wielding a Melee Weapon in one hand and no other Weapons, you gain 
 
 When you hit an melee attack with a [cold weapon] using two hands, and you roll a 1 or 2 on a damage die, you can reroll the dice, and you must use the new roll. 
 
-The Weapon must have the :weapon-prop-two-handed: *[Two-Handed]* or :weapon-prop-versatile: *[Versatile]* property to gain this benefit.
+The Weapon must have the :weapon-prop-two-handed: **[Two-Handed]** or :weapon-prop-versatile: **[Versatile]** property to gain this benefit.
 
 ### Fighting Style: Heavy Weapon Fighting
 *1st-level Feat - Homebrew*  
@@ -68,7 +68,7 @@ The Weapon must have the :weapon-prop-two-handed: *[Two-Handed]* or :weapon-prop
 
 When you hit an attack with a [cold weapon] using two hands, you treat a ^^total^^ roll of 5 or lower on the weapon's damage dice as a 6.
 
-The Weapon must have the :weapon-prop-heavy: *[Heavy]* property to gain this benefit.
+The Weapon must have the :weapon-prop-heavy: **[Heavy]** property to gain this benefit.
 
 ### Fighting Style: Interception
 *1st-level Feat*
@@ -106,7 +106,7 @@ When a creature within 5 feet of you makes an attack against a creature that you
 
 You can use your Strength modifier, in place of Dexterity for attack and damage rolls with longbows, shortbows, and compound bow. When you do so, you gain +1 to damage rolls with those weapons.
 
-Moreover, you also use your Strength instead of your Dexterity to fufill the :weapon-prop-heavy: *[Heavy]* weapon property requirement for those weapons.
+Moreover, you also use your Strength instead of your Dexterity to fufill the :weapon-prop-heavy: **[Heavy]** weapon property requirement for those weapons.
 
 ### Fighting Style: Superior Technique
 *1st-level Feat*
@@ -125,7 +125,7 @@ A superiority die is expended when you use it. You regain your expended superior
 **Prerequisites:** Warrior Group, Paladin Class, Ranger Class, or [Fighting Initiate] feat  
 **Repeatable:** No
 
-You can draw a weapon that has the :weapon-prop-thrown: *[Thrown]* property as part of the attack you make with the weapon.
+You can draw a weapon that has the :weapon-prop-thrown: **[Thrown]** property as part of the attack you make with the weapon.
 
 In addition, when you hit with a ranged attack using a thrown weapon, you gain a +2 bonus to the damage roll
 
@@ -135,7 +135,7 @@ In addition, when you hit with a ranged attack using a thrown weapon, you gain a
 **Prerequisites:** Warrior Group, Paladin Class, Ranger Class, or [Fighting Initiate] feat  
 **Repeatable:** No
 
-When you make the extra attack of the :weapon-prop-light: *[Light]* weapon property, you make the extra weapon attack as part of the Attack action instead of a :rsc-bonus-action:**Bonus Action** and can add your Ability Modifier to the damage of the extra attack.
+When you make the extra attack of the :weapon-prop-light: **[Light]** weapon property, you make the extra weapon attack as part of the Attack action instead of a :rsc-bonus-action:**Bonus Action** and can add your Ability Modifier to the damage of the extra attack.
 
 When you do, you cannot also make a :rsc-bonus-action:**Bonus Action** attack
 
@@ -155,7 +155,7 @@ At the start of each of your turns, you can deal 1d4 Bludgeoning damage to one c
 **Prerequisites:** Warrior Group, Paladin Class, Ranger Class, or [Fighting Initiate] feat  
 **Repeatable:** No
 
-While wielding a single :weapon-prop-versatile: *[Versatile]* weapon and no shield, you gain a +1 bonus to your :d20-attack:**Attack Roll** and Damage Roll with that weapon. While doing so, you can also use your :rsc-bonus-action:**Bonus Action** to make a single grapple or shove attack, or take the Use an Object Action.
+While wielding a single :weapon-prop-versatile: **[Versatile]** weapon and no shield, you gain a +1 bonus to your :d20-attack:**Attack Roll** and Damage Roll with that weapon. While doing so, you can also use your :rsc-bonus-action:**Bonus Action** to make a single grapple or shove attack, or take the Use an Object Action.
 
 [automatic]: ../../equipment/weapon/index.md#automatic
 [Light]: ../../equipment/weapon/index.md#light
@@ -166,4 +166,4 @@ While wielding a single :weapon-prop-versatile: *[Versatile]* weapon and no shie
 
 [Fighting Initiate]: feat-4th-level.md#fighting-intiate
 
-*[cold weapon]: Non-firearms weapon, such as longswords, daggers, or crossbows.
+**[cold weapon]: ../../equipment/weapon/weapon-cold.md#cold-weapon-table "Non-firearms weapon, such as longswords, daggers, or crossbows."
