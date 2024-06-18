@@ -20,25 +20,19 @@
     --md-hue: 220;
 }
 
-.definition-list {
+.md-typeset dt {
     display: flex;
     flex-direction: column;
     gap: 1em;
-}
-
-.definition-item {
-    display: flex;
-    gap: 1em;
-    align-items: flex-start;
-}
-
-.md-typeset dt {
     font-weight: bold;
     margin-right: 1em;
     min-width: 150px; /* Adjust this value as needed */
 }
 
-.md-typeset dd {
+.md-typeset dl {
+    display: flex;
+    gap: 1em;
+    align-items: flex-start;
     margin: 0;
 }
 
