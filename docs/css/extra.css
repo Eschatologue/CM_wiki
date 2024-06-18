@@ -15,14 +15,14 @@
     text-align: left;
 }
 
-/* This doesnt work when put into a seperate css file for some reason*/
+/* This doesnt work when put into a seperate css file for some reason */
 .md-typeset h2::before {
-    background-color: rgba(255, 255, 255, 0.12);
-    border-radius: 0.125rem;
+    background-color: rgba(255, 255, 255, 0.24);
+    border-radius: 0.075rem;
     content: " ";
     display: block;
     height: 0.25rem;
-    width: 30px;
+    width: 120px;
     margin-top: 1.25rem;
     margin-bottom: 0.5rem;
 }
