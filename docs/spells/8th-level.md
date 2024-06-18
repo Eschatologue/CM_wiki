@@ -1,3 +1,7 @@
+---
+icon: material/roman-numeral-8
+---
+
 ### Abi-Dalzim's Horrid Wilting
 *8th-level necromancy*
   

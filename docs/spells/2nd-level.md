@@ -1,3 +1,7 @@
+---
+icon: material/roman-numeral-2
+---
+
 # 2nd-level Spells
 
 ### Aganazzar's Scorcher

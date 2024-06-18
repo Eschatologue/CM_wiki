@@ -1,3 +1,7 @@
+---
+icon: material/roman-numeral-7
+---
+
 ### Conjure Celestial
 *7th-level conjuration*
   

@@ -1,3 +1,7 @@
+---
+icon: material/roman-numeral-5
+---
+
 ### Animate Objects
 *5th-level transmutation*
   

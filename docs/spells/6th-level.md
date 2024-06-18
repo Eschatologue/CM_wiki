@@ -1,3 +1,7 @@
+---
+icon: material/roman-numeral-6
+---
+
 ### Arcane Gate
 *6th-level conjuration*
   

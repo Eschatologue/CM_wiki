@@ -1,4 +1,6 @@
-# Cantrip 
+---
+icon: material/numeric-0
+---
 
 ### Acid Splash
 *Conjuration cantrip*

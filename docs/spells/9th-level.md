@@ -1,3 +1,7 @@
+---
+icon: material/roman-numeral-9
+---
+
 ### Astral Projection
 *9th-level necromancy*
   

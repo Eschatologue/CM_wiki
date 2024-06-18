@@ -1,3 +1,7 @@
+---
+icon: material/roman-numeral-3
+---
+
 ### Animate Dead
 *3rd-level necromancy*
   

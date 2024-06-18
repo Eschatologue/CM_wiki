@@ -1,3 +1,7 @@
+---
+icon: material/roman-numeral-4
+---
+
 ### Arcane Eye
 *4th-level divination*
   
