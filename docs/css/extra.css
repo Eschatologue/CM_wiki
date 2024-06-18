@@ -15,19 +15,8 @@
     text-align: left;
 }
 
-.md-typeset h2::before {
-    background-color: #242424;
-    border-radius: 0.25rem;
-    content: " ";
-    display: block;
-    height: 0.25rem;
-    width: 42px;
-    margin-bottom: 0.5rem;
-    /*
-    margin-top: 4px;
-    border-bottom: 2px solid rgba(255, 255, 255, 0.12);
-    */
-}
+/* This doesnt work when put into a seperate css file for some reason*/
+
 
 /* Main Theme Colour */
 [data-md-color-scheme=slate] {
