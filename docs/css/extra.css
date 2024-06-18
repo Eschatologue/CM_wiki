@@ -16,7 +16,16 @@
 }
 
 /* This doesnt work when put into a seperate css file for some reason*/
-
+.md-typeset h2::before {
+    background-color: rgba(255, 255, 255, 0.12);
+    border-radius: 0.125rem;
+    content: " ";
+    display: block;
+    height: 0.25rem;
+    width: 30px;
+    margin-top: 1.25rem;
+    margin-bottom: 0.5rem;
+}
 
 /* Main Theme Colour */
 [data-md-color-scheme=slate] {
