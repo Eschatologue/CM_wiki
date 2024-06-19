@@ -70,7 +70,7 @@ The starting equipment you get from your class includes a collection of useful a
 
 [Acid]: adventuring-gear-desc.md#acid-vial
 [Alchemist's Fire]: adventuring-gear-desc.md#alchemist-fire-flask
-[Antitoxin]: adventuring-gear-desc.md#anti-toxin-vial
+[Antitoxin]: adventuring-gear-desc.md#anti-toxin
 [Ball Bearings]: adventuring-gear-desc.md#ball-bearings-bag-of-1000
 [Caltrops]: adventuring-gear-desc.md#caltrops-bag-of-20
 [Climber's Kit]: adventuring-gear-desc.md#climbers-kit

@@ -90,8 +90,6 @@ site_description: >-
 extra_css:
   - css/extra.css
   - css/admonition.css
-  - css/heading.css
-  - css/table.css
   - https://unpkg.com/katex@0/dist/katex.min.css
 
 # JavaScript
