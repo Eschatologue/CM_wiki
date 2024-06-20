@@ -101,7 +101,7 @@ Once per turn when you make an attack, you can simultaneously cast a spell, and 
 To be channeled using a Dekrat's Special:material-trademark: in this way, the spell must met the following requirements:
 
 - The Sorcerer spell must have a casting time of an :rsc-action:**Action**.
-- The Sorcerer spell must require a single spell attack roll or force its target to make a saving throw.
+- The Sorcerer spell must require only a single spell attack roll or force its target to make a saving throw.
 
 If your attack misses, the spell fails and has no effect. On a hit, the spell takes effect immediately in addition of the normal effects and damage from your weapon attack, under the rules below:
 
