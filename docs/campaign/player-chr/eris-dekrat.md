@@ -50,76 +50,84 @@ The weave of magic courses through you, yet you've never bothered to learn how t
 
 | ROGUE LEVEL | CANTRIPS KNOWN | SPELLS KNOWN | SPELL SLOTS | SLOT LEVEL |
 | :-: | :-: |  :-: | :-: |:-: |
-| 3rd | 3 | 4 | 2 | :material-roman-numeral-1: |
-| 4th | 3 | 4 | 2 | I |
-| 5th | 3 | 5 | 2 | II |
-| 6th | 3 | 5 | 2 | II |
-| 7th | 4 | 6 | 3 | III |
-| 8th | 4 | 6 | 3 | III |
-| 9th | 4 | 7 | 3 | IV |
-| 10th | 4 | 7 | 3 | IV |
-| 11th | 5 | 8 | 4 | V |
-| 12th | 5 | 8 | 4 | V |
-| 13th | 5 | 9 | 4 | V |
-| 14th | 5 | 9 | 4 | V |
-| 15th | 6 | 10 | 5 | V |
-| 16th | 6 | 10 | 5 | V |
-| 17th | 6 | 11 | 5 | V |
-| 18th | 6 | 11 | 5 | V |
+| 3rd | 3 | 4 | 3 | I |
+| 4th | 3 | 4 | 3 | I |
+| 5th | 3 | 5 | 3 | II |
+| 6th | 3 | 5 | 3 | II |
+| 7th | 4 | 6 | 4 | III |
+| 8th | 4 | 6 | 4 | III |
+| 9th | 4 | 7 | 4 | IV |
+| 10th | 4 | 7 | 4 | IV |
+| 11th | 5 | 8 | 5 | V |
+| 12th | 5 | 8 | 5 | V |
+| 13th | 5 | 9 | 5 | V |
+| 14th | 5 | 9 | 5 | V |
+| 15th | 6 | 10 | 6 | V |
+| 16th | 6 | 10 | 6 | V |
+| 17th | 6 | 11 | 6 | V |
+| 18th | 6 | 11 | 6 | V |
 | 19th | 6 | 12 | 6 | V |
 | 20th | 6 | 12 | 6 | V |
 
 ### Cantrip
 
-You learn three cantrip of your choice from a list at the end of this page, these cantrips counts as Sorcerer spells for you. You can change one cantrip of your choice when you finish a long rest.
+You learn three cantrip of your choice from this feature's [spell list], these cantrips counts as Sorcerer spells for you. You can change one cantrip of your choice when you finish a long rest.
 
 ### Spell Slots
 
-The table above shows how many spell slots you have to cast a Sorcerer spells of 1st through 5th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.
+The table above shows how many spell slots you have to cast a Sorcerer spells of 1st through 5th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you a long rest.
 
 ### Spellcasting Focus
 
-You brandish your weapon when you cast spells; any melee weapon that has the *finesse* property or a ranged weapon that lacked the heavy and two-handed property(1) is a spellcasting focus for your spells learned from this feature, provided you are proficient with the weapon. They can also be used to perform the somatic components of the spell learned from this feature. Any other arcane focuses is restricted for spells learned from this feature.
-{ .annotate }
-
-1. This is limited to only a **Hand Crossbow**, or a **Short-Arm(1)**, which you have to be proficient.
-    { .annotate }
-
-    1. :material-ammunition: **Short-Arm** is a Firearm category, consists of Pistol, Revolver and Pistol, Semi-auto. 
+You brandish your weapon when you cast spells; any melee weapon that has the :weapon-prop-finesse: **Finesse** property or a ranged weapon that lacked the :weapon-prop-heavy: **Heavy** and :weapon-prop-two-handed: **Two-Handed** property is a spellcasting focus for your sorcerer spells from this feature, provided you are proficient with the weapon. They can also be used to perform the spell's somatic components. Any other arcane focuses is restricted for these spells.
 
 ### Spellcasting Ability
 
 Charisma is your spellcasting ability for your spells, since your magic is innate. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a spell you cast and when making an attack roll with one.
 
-- :material-shield: **Spell Save DC** = 8 + your proficiency bonus + your Charisma modifier.
-- :fontawesome-solid-crosshairs: **Spell Attack Modifier** = your proficiency bonus + your Charisma modifier.
+- :d20-save: **Spell Save DC** = 8 + your proficiency bonus + your Charisma modifier.
+- :d20-attack: **Spell Attack Modifier** = your proficiency bonus + your Charisma modifier.
 
 ### Spells Known
 
-You know three 1st-level spells of your choice from the a list at the end of this page, these spells counts as Sorcerer spells for you and you can change your list of prepared spells when you finish a long rest.
+You know three 1st-level spells of your choice from this feature's [spell list], these spells counts as Sorcerer spells for you and you can change your list of prepared spells when you finish a long rest.
 
 ## 3rd-level: Dekrat's Special:material-trademark:
 
-You've learned how to break the normal rule and convention of casting spells, bend it to your will, and force it through your weapon strike. Does this count as Metamagic?
+*You've learned how to break the normal rules and conventions of casting spells, bending them to your will and channeling them through your weapon strikes*
 
-Once per turn when you make an attack, you can cast a spell, expending spell slot as required, and make a weapon attack with a *finesse* or a ranged weapon that lack the two-handed property which you are proficient. 
+Once per turn when you make an attack, you can simultaneously cast a spell, and make a weapon attack with a :weapon-prop-finesse: **Finesse** or a ranged weapon that lack the :weapon-prop-two-handed: **Two-Handed** property which you are proficient. 
 
 To be channeled using a Dekrat's Special:material-trademark: in this way, the spell must met the following requirements:
 
-- The Sorcerer spell must have a casting time of 1 action.
+- The Sorcerer spell must have a casting time of an :rsc-action:**Action**.
 - The Sorcerer spell must require a single spell attack roll or force its target to make a saving throw.
 
 If your attack misses, the spell fails and has no effect. On a hit, the spell takes effect immediately in addition of the normal effects and damage from your weapon attack, under the rules below:
 
-- :material-radius-outline: ***Area of Effects.*** If the spell targets an area greater than 10 ft. :material-cube-outline: cube, it takes effect as a 15 ft. :material-cone: cone originating from you, which must include your target, or it is contained to only affect the target of your attack (your choice). Using a ranged weapon, your spell is contained to only affect the target of your attack.
-- :simple-codemagic: ***Cantrip.*** The cantrip does not deal damage. Instead, your weapon attack and your Sneak Attack (if applicable) deals the damage type dealt by the cantrip, and applies the cantrip additional effects on hit, except for damage.
-- :material-focus-field: ***Concentration***. If the spell requires your concentration, you must concentrate on it as soon as it takes effect on hit.
-- :material-shield: ***Saving Throws***. If the spell requires a saving throw when cast, the target makes the first saving throw at a :d20-disadv:**Disadvantage** on hit. If you score a critical hit on the attack, the target automatically fails its saving throw. Other target (if any) make this save as normal.
-- :fontawesome-solid-crosshairs: ***Spell Attacks***. If the spell requires a spell attack roll, it instantly take effect when you hit with a weapon attack.
+- :material-radius-outline: **Area of Effects**
+
+      If the spell targets an area greater than a 10 ft. cube, it takes effect as a 15 ft. cone originating from you, which must include your target. Alternatively, it can be contained to only affect the target of your attack (your choice). Using a ranged weapon, your spell is contained to only affect the target of your attack.
+
+- :simple-codemagic: **Cantrip**
+
+      The cantrip *does not deal damage*. Instead, your weapon attack and your Sneak Attack (if applicable) deals the damage type dealt by the cantrip, and applies the cantrip additional effects on hit, except for damage.
+
+- :material-focus-field: **Concentration**
+
+      If the spell requires your concentration, you must concentrate on it as soon as it takes effect on hit.
+
+- :material-shield: **Saving Throws**
+
+      If the spell requires a saving throw when cast, the target makes the first saving throw at a :d20-disadv:**Disadvantage** on hit. If you score a critical hit on the attack, the target automatically fails its saving throw. Other target (if any) make this save as normal.
+
+- :fontawesome-solid-crosshairs: **Spell Attacks** 
+
+      If the spell requires a spell attack roll, it instantly take effect when you hit with a weapon attack.
 
 ## 5th-level: Expanded Spell List
 
-You gain more experience in casting spells, you can now choose and prepare 2nd-level spells from a list at the end of this page.
+You gain more experience in casting spells, you can now choose and prepare 2nd-level spells from this feature's [spell list].
 
 ## 6th-level: The People’s Eyebrow
 
@@ -131,13 +139,13 @@ If the spell was cast at a level equal to the level of the spell slot you expend
 
 ## 7th-level: Expanded Spell List
 
-You gain more experience in casting spell, you can now choose and prepare 3rd-level spells from a list at the end of this page.
+You gain more experience in casting spell, you can now choose and prepare 3rd-level spells from this feature's [spell list].
 
 ## Eris' Spell List
 
 Spells marked with ^DS^ means that the spell fufill the prerequisites to be channeled through ^^Dekrat's Special^^
 
-=== ":material-circle-expand:{ .xl .middle } **Cantrips (Level 0)**"
+=== ":material-numeric-0:{ .xl .middle } **Cantrips (Level 0)**"
 
       - [Acid Splash]^DS^
       - [Booming Blade]
@@ -146,6 +154,7 @@ Spells marked with ^DS^ means that the spell fufill the prerequisites to be chan
       - [Dancing Lights]
       - [Fire Bolt]^DS^
       - [Friends]
+      - [Frostbite]^DS^
       - [Green-Flame Blade]
       - [Light]
       - [Mage Hand]
@@ -182,15 +191,16 @@ Spells marked with ^DS^ means that the spell fufill the prerequisites to be chan
       - [Blindness/Deafness]^DS^
       - [Darkvision]
       - [Enhance Ability]
-      - [Enlarge/Reduce] ^DS^
-      - [Gust of Wind] ^DS^
+      - [Enlarge/Reduce]^DS^
+      - [Eschatologue's Steel Wind Strike]
+      - [Gust of Wind]^DS^
       - [Hold Person]^DS^
       - [Magic Weapon]
       - [Mirror Image]
       - [Misty Step]
       - [Pass Without Trace]
-      - [Ray of Enfeeblement] ^DS^
-      - [Shatter]^DS^*
+      - [Ray of Enfeeblement]^DS^
+      - [Shatter]^DS^
       - [Silence]
       - [Zone of Truth]
 
@@ -215,7 +225,8 @@ Spells marked with ^DS^ means that the spell fufill the prerequisites to be chan
 [Chill Touch]: ../../spells/cantrip.md#chill-touch
 [Dancing Lights]: ../../spells/cantrip.md#dancing-lights
 [Fire Bolt]: ../../spells/cantrip.md#fire-bolt
-[Friends]: ../../spells/cantrip.md#frostbite
+[Friends]: ../../spells/cantrip.md#friends
+[Frostbite]: ../../spells/cantrip.md#frostbite
 [Green-Flame Blade]: ../../spells/cantrip.md#green-flame-blade
 [Light]: ../../spells/cantrip.md#light
 [Mage Hand]: ../../spells/cantrip.md#mage-hand
@@ -249,6 +260,7 @@ Spells marked with ^DS^ means that the spell fufill the prerequisites to be chan
 [Darkvision]: ../../spells/2nd-level.md#darkvision
 [Enhance Ability]: ../../spells/2nd-level.md#enhance-ability
 [Enlarge/Reduce]: ../../spells/2nd-level.md#enlarge-reduce
+[Eschatologue's Steel Wind Strike]: ../../spells/2nd-level.md#eschatologues-steel-wind-strike
 [Gust of Wind]: ../../spells/2nd-level.md#gust-of-wind 
 [Hold Person]: ../../spells/2nd-level.md#hold-person 
 [Magic Weapon]: ../../spells/2nd-level.md#magic-weapon
@@ -274,3 +286,5 @@ Spells marked with ^DS^ means that the spell fufill the prerequisites to be chan
 [Tidal Wave]: ../../spells/3rd-level.md#tidal-wave
 
 *[DS]: This spell is compatible with Dekrat's Special
+
+[spell list]: #eris-spell-list

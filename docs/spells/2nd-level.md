@@ -1013,6 +1013,20 @@ You spray a 15-foot cone of spectral cards. Each creature in that area must make
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d10 for each slot level above 2nd.
 
+### Eschatologue's Steel Wind Strike
+*2nd-level conjuration*
+
+**Casting Time:** :rsc-action: **Action**  
+**Range:** 30 feet  
+**Components:** S, M (a melee weapon worth at least 1 SP)  
+**Duration:** Instantaneous
+
+You sheathes the weapon used in the spellcasting, vanish, then appear to strike at multiple location in an instant. Choose up to ^^2^^ creatures you can see within range. Make a melee weapon attack against each target using the weapon used in casting. On a hit, targets take normal damage of an attack with that weapon plus an additional ^^1d10^^ force damage.
+
+You can then teleport to an unoccupied space you can see within 5 feet of one of the targets you hit or missed.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the number of targets increases by ^^1^^, and the damage increases by ^^1d10^^, for each slot above 2nd.
+
 ### Suggestion
 *2nd-level enchantment*
   

@@ -60,10 +60,10 @@ This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level 
 
 You choose nonmagical flame that you can see within range and that fits within a 5-foot cube. You affect it in one of the following ways:
   
-You instantaneously expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location.  
-You instantaneously extinguish the flames within the cube.  
-You double or halve the area of bright light and dim light cast by the flame, change its color, or both. The change lasts for 1 hour.  
-You cause simple shapes—such as the vague form of a creature, an inanimate object, or a location—to appear within the flames and animate as you like. The shapes last for 1 hour.
+- You instantaneously expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location.  
+- You instantaneously extinguish the flames within the cube.  
+- You double or halve the area of bright light and dim light cast by the flame, change its color, or both. The change lasts for 1 hour.  
+- You cause simple shapes—such as the vague form of a creature, an inanimate object, or a location—to appear within the flames and animate as you like. The shapes last for 1 hour.
 
 If you cast this spell multiple times, you can have up to three non-instantaneous effects created by it active at a time, and you can dismiss such an effect as an action.
 
@@ -103,10 +103,10 @@ As a bonus action on your turn, you can move the lights up to 60 feet to a new s
 
 Whispering to the spirits of nature, you create one of the following effects within range:
   
-You create a tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round.  
-You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.  
-You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.  
-You instantly light or snuff out a candle, a torch, or a small campfire.
+- You create a tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round.  
+- You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.  
+- You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.  
+- You instantly light or snuff out a candle, a torch, or a small campfire.
 
 ### Eldritch Blast
 *Evocation cantrip*
