@@ -67,7 +67,7 @@ An :d20-check: **ability check** is an attempt to succeed at a specific task, an
 
 Rolling a 1 or 20 on a d20 roll is referred to as a natural 1 or natural 20. When making an attack roll or ability check, rolling a natural 1 is always an automatic failure, while a natural 20 is always an automatic success, regardless of the final result after modifiers are applied. Saving throws attempted during social encounters, and death saving throws, can also roll natural 1s and 20s.
 
-### :d20-adv: Advantage & :d20-disadv: Disadvantage
+### Advantage & Disadvantage
 
 A number of situations and conditions give creatures :d20-adv:**Advantage** or :d20-disadv:**Disadvantage** on d20 rolls. 
 
@@ -82,7 +82,7 @@ For every ability check, the DM decides which of the six abilities is relevant t
 
 The Typical Difficulty Classes table shows the most common DCs.
 
-| **Task Difficulty** | **DC** |
+| Task Difficulty | DC |
 | --- | :-: |
 | Very easy | 5 | 
 | Easy | 10 |
@@ -105,7 +105,7 @@ Characters add their proficiency bonus to any ability checks they make using ski
 |  |  | [Nature] | [Perception] | [Persuasion] |
 |  |  | [Religion] | [Survival] |  |
 
-!!! question "Constitution Ability Check?"
+??? question "Constitution Ability Check?"
 
     Constitution checks are uncommon, and no skills apply to Constitution checks, because the endurance this ability represents is largely passive rather than involving a specific effort on the part of a character or monster.
 
@@ -161,7 +161,7 @@ A passive check is a special kind of ability check that doesn't involve any die 
 
 Here's how to determine a character's total for a passive check:
 
-| :material-dice-d20: **PASSIVE CHECK** |
+| PASSIVE CHECK |
 |:--:|
 |10 + all modifiers that normally apply to the check|
 

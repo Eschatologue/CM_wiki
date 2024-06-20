@@ -40,13 +40,13 @@ Heavy firearms include rocket launchers, flamethrowers, machine guns, and other 
 
 List of Firearms that you can possibly find in this world:
 
-##### Firearms: Short arms
+##### Firearms: Short-arms
 | name | cost | damage | properties |    
 | :-- | --: | :-- | --- |
 | Pistol, Revolver | 3,000 sp | 1d8 piercing | Ammunition (:material-vector-line:range 60/200), Automatic (1), Light, Reload (7)  |
 | Pistol, Semi-Auto | 2,500 sp | 1d6 piercing | Ammunition (:material-vector-line:range 60/200), Automatic (2), Light, Reload (7) |
 
-##### Firearms: Long arms
+##### Firearms: Long-arms
 | name | cost | damage | properties |    
 | :-- | --: | :-- | --- |
 | Rifle, Automatic | 6,500 sp | 1d10 piercing | Ammunition (:material-vector-line:range 90/270), Automatic (3), Heavy, Reload (12), Two-handed |
