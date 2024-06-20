@@ -10,22 +10,20 @@ icon: dnd/stat-spellcasting
 
 ## 1st-level: Bonus Proficiencies
 
-You gain proficiency in Intelligence (Arcana) if you don’t already have it. Moreover, you can add your Charisma modifier to an Intelligence (Arcana) check to recall lore about spells, magic items, or magic symbolism related to your nation.
+You gain proficiency in Intelligence (Arcana) if you don’t already have it. Moreover, you can add your Charisma modifier to an Intelligence (Arcana) check to recall lore about spells, magic items, or magic symbolism related to your nation. 
 
 ## 1st-level: Clairvoyance
 
 *You calm yourself down and enter a state of heightened focus, allowing you to sense the weaves of magic that permeate this world.*
 
-As an :rsc-action: **Action**, you can focus your mind and awaken your senses to see the presence of magic(1) within 60 feet of you for 10 minutes, that is not behind full cover.
-{ .annotate }
-
+As an :rsc-action:**Action**, you can focus your mind and awaken your senses to see the presence of magic(1) within 60 feet of you for 10 minutes, that is not behind full cover.
 { .annotate }
 
 1. ![The Rock](./../../assets/wiki/the-people-eyebrow.gif)
 
     Visual representation of Eris sensing a presence of magic being cast.
 
-When you sense magic in this way, using your :rsc-action: **Action**, you can focus your mind to one object or one creature to learn the following:
+When you sense magic in this way, as an :rsc-action:**Action**, you can focus your mind to one object or one creature to learn the following:
 
 - If you focus on an object, you instantly learn the school (or schools) of magic that was used to enchant it, if any.
 - If you focus on a creature, you learn its spellcasting ability, if any, and the level of the highest level spell it can cast.
@@ -36,14 +34,13 @@ You can use this feature a number of times equal to half your rogue level (round
 
 ## 3rd-level: Spellbreaker’s Mark
 
-When you hit a creature with an attack roll, you can expend one use of your ^^Clairvoyance^^ and place a Spellbreaker’s Mark on the target, designating it as your :fontawesome-solid-location-crosshairs: **Mark**. This Mark is only visible to you and you gain the following benefits against your :fontawesome-solid-location-crosshairs: **Mark**:
+When you hit a creature with an attack roll, you can expend one use of your ^^Clairvoyance^^ and place a Spellbreaker’s Mark on the target, designating it as your :fontawesome-solid-location-crosshairs:**Mark**. This Mark is only visible to you and you gain the following benefits against your :fontawesome-solid-location-crosshairs:**Mark**:
 
-- You learn its spellcasting ability, if any, and the level of the highest level spell it can cast.
-- The number you need to roll a Critical Hit while attacking your :fontawesome-solid-location-crosshairs: **Mark** is reduced by 1. This effect can stack.
-- When you damage your :fontawesome-solid-location-crosshairs: **Mark,** it has disadvantage on any saving throw it makes to maintain concentration on any spells.
-- If your :fontawesome-solid-location-crosshairs: **Mark** attempts to cast a spell while it is within your reach, you can make an opportunity attack against it.
+- You learn your :fontawesome-solid-location-crosshairs:**Mark** spellcasting ability, if any, and the level of the highest level spell it can cast.
+- Your :fontawesome-solid-location-crosshairs:**Mark** has :d20-disadv:**Disadvantage** on :d20-save: Constitution **Saving Throw* to maintain concentration on any spells.
+- Your :fontawesome-solid-location-crosshairs:**Mark** provokes opportunity attack when it attempts to cast a spell while it is within your reach.
 
-The :fontawesome-solid-location-crosshairs: **Mark** lasts for 1 hour and you can move the **Mark** using a :material-star-four-points: **Reaction**. If your :fontawesome-solid-location-crosshairs: **Mark** is reduced to 0 hit point, you can move the :fontawesome-solid-location-crosshairs: **Mark** to a new creature that you can see (no action required).
+The :fontawesome-solid-location-crosshairs:**Mark** lasts for 1 hour and you can move the **Mark** using a :material-star-four-points: **Reaction**. If your :fontawesome-solid-location-crosshairs:**Mark** is reduced to 0 hit point, you can move the :fontawesome-solid-location-crosshairs:**Mark** to a new creature that you can see (no action required).
 
 ## 3rd-level: Spellcasting
 
@@ -51,9 +48,9 @@ The weave of magic courses through you, yet you've never bothered to learn how t
 
 ##### Spellcasting Table
 
-| **ROGUE LEVEL** | **CANTRIPS KNOWN** | **SPELLS KNOWN** | **SPELL SLOTS** | **SLOT LEVEL** |
+| ROGUE LEVEL | CANTRIPS KNOWN | SPELLS KNOWN | SPELL SLOTS | SLOT LEVEL |
 | :-: | :-: |  :-: | :-: |:-: |
-| 3rd | 3 | 4 | 2 | I |
+| 3rd | 3 | 4 | 2 | :material-roman-numeral-1: |
 | 4th | 3 | 4 | 2 | I |
 | 5th | 3 | 5 | 2 | II |
 | 6th | 3 | 5 | 2 | II |
