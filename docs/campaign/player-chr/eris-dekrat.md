@@ -50,24 +50,24 @@ The weave of magic courses through you, yet you've never bothered to learn how t
 
 | ROGUE LEVEL | CANTRIPS KNOWN | SPELLS KNOWN | SPELL SLOTS | SLOT LEVEL |
 | :-: | :-: |  :-: | :-: |:-: |
-| 3rd | 3 | 4 | 3 | I |
-| 4th | 3 | 4 | 3 | I |
-| 5th | 3 | 5 | 3 | II |
-| 6th | 3 | 5 | 3 | II |
-| 7th | 4 | 6 | 4 | III |
-| 8th | 4 | 6 | 4 | III |
-| 9th | 4 | 7 | 4 | IV |
-| 10th | 4 | 7 | 4 | IV |
-| 11th | 5 | 8 | 5 | V |
-| 12th | 5 | 8 | 5 | V |
-| 13th | 5 | 9 | 5 | V |
-| 14th | 5 | 9 | 5 | V |
-| 15th | 6 | 10 | 6 | V |
-| 16th | 6 | 10 | 6 | V |
-| 17th | 6 | 11 | 6 | V |
-| 18th | 6 | 11 | 6 | V |
-| 19th | 6 | 12 | 6 | V |
-| 20th | 6 | 12 | 6 | V |
+| 3rd | 3 | 3 | 3 | I |
+| 4th | 3 | 3 | 3 | I |
+| 5th | 3 | 3 | 4 | II |
+| 6th | 3 | 4 | 4 | II |
+| 7th | 4 | 4 | 6 | III |
+| 8th | 4 | 4 | 6 | III |
+| 9th | 4 | 5 | 6 | IV |
+| 10th | 4 | 5 | 7 | IV |
+| 11th | 5 | 5 | 7 | V |
+| 12th | 5 | 6 | 7 | V |
+| 13th | 5 | 6 | 9 | V |
+| 14th | 5 | 6 | 9 | V |
+| 15th | 6 | 7 | 9 | V |
+| 16th | 6 | 7 | 9 | V |
+| 17th | 6 | 7 | 10 | V |
+| 18th | 6 | 8 | 10 | V |
+| 19th | 6 | 8 | 10 | V |
+| 20th | 6 | 8 | 12 | V |
 
 ### Cantrip
 
@@ -75,7 +75,7 @@ You learn three cantrip of your choice from this feature's [spell list], these c
 
 ### Spell Slots
 
-The table above shows how many spell slots you have to cast a Sorcerer spells of 1st through 5th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you a long rest.
+The table above shows how many spell slots you have to cast a Sorcerer spells of 1st through 5th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or a long rest.
 
 ### Spellcasting Focus
 
@@ -105,25 +105,15 @@ To be channeled using a Dekrat's Special:material-trademark: in this way, the sp
 
 If your attack misses, the spell fails and has no effect. On a hit, the spell takes effect immediately in addition of the normal effects and damage from your weapon attack, under the rules below:
 
-- :material-radius-outline: **Area of Effects**
+- :material-radius-outline: **Area of Effects.** If the spell targets an area greater than a 10 ft. cube, it takes effect as a 15 ft. cone originating from you, which must include your target. Alternatively, it can be contained to only affect the target of your attack (your choice). Using a ranged weapon, your spell is contained to only affect the target of your attack.
 
-      If the spell targets an area greater than a 10 ft. cube, it takes effect as a 15 ft. cone originating from you, which must include your target. Alternatively, it can be contained to only affect the target of your attack (your choice). Using a ranged weapon, your spell is contained to only affect the target of your attack.
+- :material-numeric-0: **Cantrip.** The cantrip ^^does not deal damage^^. Instead, your weapon attack and your Sneak Attack (if applicable) deals the damage type dealt by the cantrip, and applies the cantrip additional effects on hit, except for damage.
 
-- :simple-codemagic: **Cantrip**
+- :material-focus-field: **Concentration.** If the spell requires your concentration, you must concentrate on it as soon as it takes effect on hit.
 
-      The cantrip *does not deal damage*. Instead, your weapon attack and your Sneak Attack (if applicable) deals the damage type dealt by the cantrip, and applies the cantrip additional effects on hit, except for damage.
+- :d20-save: **Saving Throws.** If the spell requires a saving throw when cast, the target makes the first saving throw at a :d20-disadv:**Disadvantage** on hit. If you score a critical hit on the attack, the target automatically fails its saving throw. Other target (if any) make this save as normal.
 
-- :material-focus-field: **Concentration**
-
-      If the spell requires your concentration, you must concentrate on it as soon as it takes effect on hit.
-
-- :material-shield: **Saving Throws**
-
-      If the spell requires a saving throw when cast, the target makes the first saving throw at a :d20-disadv:**Disadvantage** on hit. If you score a critical hit on the attack, the target automatically fails its saving throw. Other target (if any) make this save as normal.
-
-- :fontawesome-solid-crosshairs: **Spell Attacks** 
-
-      If the spell requires a spell attack roll, it instantly take effect when you hit with a weapon attack.
+- :fontawesome-solid-crosshairs: **Spell Attacks.** If the spell requires a spell attack roll, it instantly take effect when you hit with a weapon attack.
 
 ## 5th-level: Expanded Spell List
 
@@ -207,7 +197,6 @@ Spells marked with ^DS^ means that the spell fufill the prerequisites to be chan
 === ":material-roman-numeral-3:{ .xl .middle } **3rd-level Spell**"
 
       - [Ashardalon's Stride]
-      - [Counterspell]
       - [Dispel Magic]
       - [Erupting Earth]^DS^
       - [Fireball]^DS^
