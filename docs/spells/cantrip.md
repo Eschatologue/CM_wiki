@@ -67,6 +67,20 @@ You choose nonmagical flame that you can see within range and that fits within a
 
 If you cast this spell multiple times, you can have up to three non-instantaneous effects created by it active at a time, and you can dismiss such an effect as an action.
 
+### Cosmic Flare
+*Conjuration Cantrip*
+
+**Casting Time:** :rsc-action: **Action**  
+**Range:** 120 feet  
+**Components:** V, S
+**Duration:** Instantaneous  
+
+You conjure a projectile made from stellar energy and hurl it torwards a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes force damage equal to 1d8 + your Wisdom modifier.
+
+You can conjure and hurl multiple projectiles at once when you reach higher levels: two projectiles at 5th level, three projectiles at 11th level, and four projectiles at 17th level. You can hurl the projectiles at the same target or at different ones. Make a separate attack roll for each projectiles.
+
+For you, this spell will change appereance and behaviours depending on what Starry Form you are currently on, if a Starry Form grants additional effects when you hit your ally with it, you can ignore rolling for attack against your ally.
+
 ### Create Bonfire
 *Conjuration cantrip*
   

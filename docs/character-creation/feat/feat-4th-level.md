@@ -282,7 +282,7 @@ You're an accomplished wrestler, granting you the following benefits:
     
     When you hit a creature with an Unarmed Strike as part of the Attack Action on your turn, you can deal damage to the target and also grapple it. You can use this benefit only once per turn.
 
-### Great Weapon Adept
+### Great Weapon Master
 *4th-level Feat*
 
 **Prerequisite:** Warrior Group or Proficiency with at least one Martial Weapon with :weapon-prop-heavy: *[heavy]* property  

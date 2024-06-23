@@ -43,19 +43,9 @@ Once you gain access to one of these spells, you always have it prepared, and it
 
 ## 2nd Level: Cosmic Flare
 
-You have the ability to unleash the power which Spires draws from, enabling you to cast a signature Cantrip that is only available to you, called ~~Khaine Kalamity~~ **Cosmic Flare**.
+You have the ability to unleash the power which Spires draws from. You learn the *[Cosmic Flare](../../spells/cantrip.md#cosmic-flare)* cantrip, it counts as druid cantrip for you and it doesn't count against the number of druid cantrips you know.
 
-| **_LEVEL_** | **_CASTING TIME_** | **_RANGE/AREA_** | **_COMPONENT_** |
-|:---:|:---:|:---:|:---:|
-| Cantrip | 1 Action | 120 ft. | V, S, M:material-information-outline:{ title="A Star map from Circle of Star Druid, this component can't be replaced by other arcane focus" } |
-| **_DURATION_** | **_SCHOOL_** | **_ATTACK/SAVE_** | **_DAMAGE/EFFECT_** |
-| Instantaneous | Conjuration | Ranged | Force |
-
-You conjure a projectile made from stellar energy and hurl it torwards a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes force damage equal to 1d8 + your Wisdom modifier.
-
-You can conjure and launch multiple projectiles at once when you reach higher levels: two projectiles at 5th level, three projectiles at 11th level, and four projectiles at 17th level. You can hurl the projectiles at the same target or at different ones. Make a separate attack roll for each projectiles.
-
-This spell will change appereance and behaviours depending on what Starry Form you are currently on, if a Starry Form grants additional effects when you hit your ally with it, you can ignore rolling for attack against your ally.
+While holding your Star Map, you can add your spellcasting modifier to the cantrip's damage roll.
 
 ## 3rd Level: Spire's Resonance
 
@@ -79,7 +69,7 @@ Upon gaining this class feature, you gain additional Starry Forms tied to specif
 
     **Chalice of Life.** Whenever you cast a spell using a spell slot that restores hit points to a creature, you or another creature within 30 feet of you can regain hit points equal to 1d8 + your Wisdom modifier. (2d8 at 10th-level)
 
-    **Rejuvinating Bolt.** When you hit a creature with Cosmic Flare you can choose to restore hit points to that creature instead of damaging it. The restored hit points is equal to your Cosmic Flare damage.
+    **Rejuvinating Bolt.** When you hit a creature with Cosmic Flare you can choose to restore hit points to that creature instead of damaging it. The restored hit points is equal to your half of your Cosmic Flare damage.
 
 === "**Dragon**"
 
@@ -95,12 +85,31 @@ Upon gaining this class feature, you gain additional Starry Forms tied to specif
 
     *One of your eyes ignites with a searing white blaze while a small, flaming white sphere materializes and orbits you, leaving behind a delicate trail of white. Your being pulsates with an overwhelming intent for destruction.*
 
-    **Destructive Flare:** Your Cosmic Flare now crackles with instabilities, pulsating with radiant white glows. When you hit a target with your *Cosmic Flare*, each creature within 5 feet of your target takes Force damage equal to your Wisdom modifier.(1)
-    { .annotate }
-    
-    1. This feature does not benefit from ***Helium Flash***, your initial target still take the extra :material-dice-d8: d8 damage, but the surrounding targets only takes damage from only your Wisdom modifier.
+    **Destructive Flare:** Your Cosmic Flare now crackles with instabilities, pulsating with radiant white glows. When you hit a target with your *Cosmic Flare*, each creature within 5 feet of your target takes Force damage equal to your Wisdom modifier.
 
-    **Helium Flash:** When you cast a druid spell, roll a :material-dice-d8: d8, and you gain a bonus to one of the spell's damage rolls equal to the number rolled.(1)
-    { .annotate }
+    **Helium Flash:** When you cast a druid spell, roll a :material-dice-d8: d8, and you gain a bonus to one of the spell's damage rolls equal to the number rolled.
+
+=== "**[Locked] Perseverance**"
+
+    *A radiant halo manifests on your back while one of your eyes emits a dazzling amber light. Portions of your skin are adorned with steel, fortifying your resolve and strengthening your presence.*
     
-    1. This extra :material-dice-d8: d8 only affect ONE of the spell's damage roll. e.g, If you cast *Cosmic Flare* at 5th-level, you only add one :material-dice-d8: d8 to one of the projectiles.
+    **Immolation:** Your Cosmic Flare now deals :damage-fire: **Fire** damage and its damage die increases to a :die-d10: d10
+
+    **Engine of Tenacity:** Your walking speed increases by 10 feet. In addition, if you aren't incapacitated, the walking speed of any ally who starts their turn within 5 feet of you increases by 10 feet until the end of that turn.
+
+=== "**[Locked] Judgement**"
+
+    *Shining armour of crimson plates form all over you, transforming you into the executor of justice. Those who obstruct Judgement shall be stricken down with impunity.*
+
+    **Lance of Judgement:** When entering this form, you star map transforms into an armament of justice. Regardless of its appearance, it counts as a simple melee weapon with which you are proficient and deals :die-d8: 1d8 :damage-force: **Force** damage on a hit and has the :weapon-prop-reach:**[Reach]**, :weapon-prop-thrown:**[Thrown]**(range 20/60) and :weapon-prop-versatile:**[Versatile]**(:die-d10: 1d10) properties.  
+    When you attack with this weapon, you can add your Wisdom modifier, instead of Strength or Dexterity, to the attack and damage rolls.
+
+    **Leviathan Queller:** Armour constructed from cosmic energies materialise on you, enpowering you to mete out judgement upon the guilty. So long as you are not wearing medium or heavy armour or wielding a shield, you have the following benefits:
+
+    - Your walking speed increases by 10 feet.
+    - You gain a bonus to your Armour Class equal to your Wisdom modifier (minimum of 1).
+    - When you make a :d20-save: Constitution **Saving Throw** to maintain your concentration, you gain a bonus to your roll equal to your Wisdom modifier (minimum of 1).
+
+[Reach]: ../../equipment/weapon/index.md#reach
+[Thrown]: ../../equipment/weapon/index.md#thrown
+[Versatile]: ../../equipment/weapon/index.md#versatile
