@@ -125,7 +125,7 @@ You gain more experience in casting spells, you can now choose and prepare 2nd-l
 
 When you see a creature casting a spell or teleporting within 60 feet of you, you can use a :material-star-four-points: **Reaction** to expend a spell slot to try magically foils it.
 
-If the spell was cast at a level equal to the level of the spell slot you expended or lower, the spell fails and has no effect. If it was cast at a level higher than the slot you expended, make a :material-dice-d20:Charisma **Ability Check** against DC of 10 + the level of the spell, the spell fails and has no effect when you succeed the check.
+If the spell was cast at a level equal to the level of the spell slot you expended or lower, the spell fails and has no effect. If it was cast at a level higher than the slot you expended, make a :die-d20:Charisma **Ability Check** against DC of 10 + the level of the spell, the spell fails and has no effect when you succeed the check.
 
 ## 7th-level: Expanded Spell List
 

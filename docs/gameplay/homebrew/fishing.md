@@ -34,7 +34,7 @@ To fish you need two things; A Fishing Rod and a Fishing supplies. A Fishing Rod
 
 ### Rolling Dice
 
-For every 1 hour you spend fishing, roll :material-dice-d6: 5d6. The process varies slightly depending on your skills:
+For every 1 hour you spend fishing, roll :die-d6: 5d6. The process varies slightly depending on your skills:
 
 - **Proficiency in [Fishing Supplies]:** You can reroll a number of dice up to your Wisdom modifier.
 - **Proficiency in Wisdom (Survival) or Intelligence (Arcana):** You can reroll a number of dice up to your Wisdom or Intelligence modifier.

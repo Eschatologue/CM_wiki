@@ -50,7 +50,7 @@ While this condition is in effect, you gain several benefits:
 
 Immediately after you receive this condition, you roll a d10 and gain a virtue depending on the result:
 
-| :material-dice-d10:**d10** | **VIRTUE** | **QUOTE** |
+| :die-d10:**d10** | **VIRTUE** | **QUOTE** |
 | :-: | --- | --- |
 | 1-2 | Courageous | "A moment of valour shines brightest against a backdrop of despair" |
 | 3-4 | Focused | "A moment of clarity in the eye of the storm" |
@@ -69,7 +69,7 @@ The Meltdown condition lasts for 10 minutes but can end early under the followin
 
 Immediately after you receive this condition, you roll a d10 and gain an affliction depending on the result:
 
-| :material-dice-d10:**d10** | **AFFLICTION** | **QUOTE** |
+| :die-d10:**d10** | **AFFLICTION** | **QUOTE** |
 | :-: | --- | --- |
 | 1-2 | Abusive | “Frustration and fury, more destructive than a hundred cannons” |
 | 3-4 | Fearful | “Fear and frailty finally claim their due” |
@@ -156,9 +156,9 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 
 - You begins babbling and is incapable of normal speech. Spells that has the Verbal (V) component can’t be cast.
 - You have :d20-disadv:**Disadvantage** on Intelligence and Wisdom saving throws.
-- You can't take :rsc-reaction:**Reaction** and must roll a :material-dice-d10:d10 at the start of each of your turns to determine a behavior for that turn.
+- You can't take :rsc-reaction:**Reaction** and must roll a :die-d10:d10 at the start of each of your turns to determine a behavior for that turn.
     
-    | :material-dice-d10:**d10** | **BEHAVIOUR** |
+    | :die-d10:**d10** | **BEHAVIOUR** |
     | :-: | --- |
     | 1 | You uses all your movement to move in a random direction. To determine the direction, roll a d8 and assign a direction to each die face. You cant take an action this turn. |
     | 2-6 | You don't move or take actions this turn. |

@@ -87,28 +87,49 @@ Upon gaining this class feature, you gain additional Starry Forms tied to specif
 
     **Destructive Flare:** Your Cosmic Flare now crackles with instabilities, pulsating with radiant white glows. When you hit a target with your *Cosmic Flare*, each creature within 5 feet of your target takes Force damage equal to your Wisdom modifier.
 
-    **Helium Flash:** When you cast a druid spell, roll a :material-dice-d8: d8, and you gain a bonus to one of the spell's damage rolls equal to the number rolled.
+    **Helium Flash:** When you cast a druid spell, roll a :die-d8: d8, and you gain a bonus to one of the spell's damage rolls equal to the number rolled.
 
 === "**[Locked] Perseverance**"
 
     *A radiant halo manifests on your back while one of your eyes emits a dazzling amber light. Portions of your skin are adorned with steel, fortifying your resolve and strengthening your presence.*
     
-    **Immolation:** Your Cosmic Flare now deals :damage-fire: **Fire** damage and its damage die increases to a :die-d10: d10
+    **Immolation:** Your Cosmic Flare now deals :damage-fire: **Fire** damage and its damage die becomes a :die-d10: d10.
 
-    **Engine of Tenacity:** Your walking speed increases by 10 feet. In addition, if you aren't incapacitated, the walking speed of any ally who starts their turn within 5 feet of you increases by 10 feet until the end of that turn.
+    **Aura of Tenacity:** If you aren't incapacitated, any ally who starts their turn within 5 feet of you gains Temporary Hit Points equal to your Druid level until the start of your next turn.
 
 === "**[Locked] Judgement**"
 
     *Shining armour of crimson plates form all over you, transforming you into the executor of justice. Those who obstruct Judgement shall be stricken down with impunity.*
 
-    **Lance of Judgement:** When entering this form, you star map transforms into an armament of justice. Regardless of its appearance, it counts as a simple melee weapon with which you are proficient and deals :die-d8: 1d8 :damage-force: **Force** damage on a hit and has the :weapon-prop-reach:**[Reach]**, :weapon-prop-thrown:**[Thrown]**(range 20/60) and :weapon-prop-versatile:**[Versatile]**(:die-d10: 1d10) properties.  
-    When you attack with this weapon, you can add your Wisdom modifier, instead of Strength or Dexterity, to the attack and damage rolls.
+    **Lance of Judgement:** When entering this form, you star map transforms into an armament of justice. Regardless of its appearance, it counts as a simple melee weapon with which you are proficient.
+    
+    | weapon | damage | properties |
+    |---|:-:|---|
+    | Lance of Judgement | :die-d8: 1d8 :damage-force: **Force** | :weapon-prop-reach: **[Reach]**, :weapon-prop-thrown: **[Thrown]**(:weapon-prop-range: Range 20/60), :weapon-prop-versatile: **[Versatile]**(:die-d10: 1d10) |
+     
+    When you attack with this weapon, you can use your Wisdom modifier, instead of Strength or Dexterity, to the attack and damage rolls. When you reach 6th level in this class, you can attack twice instead of once when you take the :d20-attack:**Attack** Action using this weapon.
 
     **Leviathan Queller:** Armour constructed from cosmic energies materialise on you, enpowering you to mete out judgement upon the guilty. So long as you are not wearing medium or heavy armour or wielding a shield, you have the following benefits:
 
     - Your walking speed increases by 10 feet.
     - You gain a bonus to your Armour Class equal to your Wisdom modifier (minimum of 1).
     - When you make a :d20-save: Constitution **Saving Throw** to maintain your concentration, you gain a bonus to your roll equal to your Wisdom modifier (minimum of 1).
+
+=== "**[Locked] Enlightenment**"
+
+    *Radiant laurel wreath materializes, hovering above your head, while your eyes shimmer with a vibrant yellow hue, signaling the unveiling of truth.*
+
+    **Signum Ignorantiae:** Your Cosmic Flare now deals :damage-psychic: **Psychic** damage and its damage die becomes a :die-d6: d6. On a hit, the creature is :material-crosshairs-gps: **Marked** by you.
+
+    **Bastio Veritatis:** When a :material-crosshairs-gps: **Marked** creature that you can see is hit by an attack from your ally, you can use your :rsc-reaction:**Reaction** to cast *Guiding Bolt* against it. When you do, add your spellcasting modifier to the spells damage roll and its damage type becomes :damage-psychic: **Psychic** damage. 
+
+=== "**[Locked] Prosperity**"
+
+    *A figure of the Avatar of Wealth appears behind you, your fingertips shimmers with gold and silver. You see the worth and values of all objects within your vision*
+
+    **Abundance of Wealth:** When a friendly creature you can see is targeted by a spell or an effect that restores hit points or grants temporary hit points, it adds your Wisdom modifier (minimum of +1) to the total hit points or the number of temporary hit points it gains.
+
+    **Investment Liquidation:** When you or a friendly creature you can see takes damage, you can use your :rsc-reaction:**Reaction** to destroy a total of 1,000 silver on your person or your targetted creature. For every 1,000 silver you destroy, reduce the damage by 1d10.
 
 [Reach]: ../../equipment/weapon/index.md#reach
 [Thrown]: ../../equipment/weapon/index.md#thrown

@@ -13,7 +13,7 @@ Dice rolls are the core mechanics of D&D. In every situation, dice are rolled to
 ## Dice Notation
 D&D uses the d20 system—a role-playing game system published in 2000 by Wizards of the Coast, originally developed for the 3rd edition of Dungeons & Dragons. Though the name is d20, it often includes other dice notations as well—usually notated with a `d` followed by the number of sides on that specific die.
 
-:material-dice-d4:{ .lg .middle } `d4` - :material-dice-d6:{ .lg .middle } `d6` - :material-dice-d8:{ .lg .middle } `d8` - :material-dice-d10:{ .lg .middle } `d10` - :material-dice-d12:{ .lg .middle } `d12` - :material-dice-d20:{ .lg .middle } `d20`
+:die-d4:{ .lg .middle } `d4` - :die-d6:{ .lg .middle } `d6` - :die-d8:{ .lg .middle } `d8` - :die-d10:{ .lg .middle } `d10` - :die-d12:{ .lg .middle } `d12` - :die-d20:{ .lg .middle } `d20`
 
 The number of dice to be rolled is notated immediately before the `d`. Any applicable modifiers for the roll are given as an addition (if it is a bonus) or subtraction (if it is a penalty) after the dice notation. When a single twenty-sided die (d20) is rolled with no modifiers, it is notated as `1d20`. When two six-sided dice (d6) are rolled with a modifier of +3, the roll is notated as `2d6+3`.
 
@@ -39,25 +39,25 @@ The term d20 Test encompasses the three main d20 rolls of the game: attack rolls
 When a creature attacks a target, it makes an attack roll against the target's AC to determine whether the attack is a hit or a miss. If the attack is a hit, it generally deals damage, and the attacker rolls for damage. 
 Creatures generally make their attacks with their equipped weapon (including unarmed), but some spells – such as a Warlock's Eldritch Blast – require the caster to make spell attack rolls.
 
-| :material-dice-d20:**ATTACK ROLLS** |
+| :die-d20:**ATTACK ROLLS** |
 |:---:|
-| :material-dice-d20: d20 + Ability Modifier + Proficiency Bonus (if proficient) + Other Bonuses (if applicable) |
+| :die-d20: d20 + Ability Modifier + Proficiency Bonus (if proficient) + Other Bonuses (if applicable) |
 
 #### :d20-save:{ .lg } Saving Throws
   
 Traps, spells, conditions, and other sources of harm may allow a creature a chance to avoid or reduce their effect, known as a saving throw or save. To attempt a save, a creature rolls a d20 against a target save DC.
 
-| :material-dice-d20:**SAVING THROWS** |
+| :die-d20:**SAVING THROWS** |
 |:---:|
-| :material-dice-d20: d20 + Ability Modifier + Proficiency Bonus (if proficient) + Other Bonuses (if applicable) |
+| :die-d20: d20 + Ability Modifier + Proficiency Bonus (if proficient) + Other Bonuses (if applicable) |
 
 #### :d20-check:{ .lg } Ability Checks
   
 An :d20-check: **ability check** is an attempt to succeed at a specific task, and is rolled against a **Difficulty Class** (**DC**) set by the game for that task. If the final result of the roll equals or exceeds the DC, the attempt is successful.
 
-| :material-dice-d20:**ABILITY CHECK** |
+| :die-d20:**ABILITY CHECK** |
 |:---:|
-| :material-dice-d20: d20 + Ability Modifier |
+| :die-d20: d20 + Ability Modifier |
 
 !!! info "Dificulty Class (DC)"
 

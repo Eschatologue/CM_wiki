@@ -22,7 +22,7 @@ When you use your :fontawesome-solid-hand-fist:**Rage**, instead of flying into 
 
 You have the ability to channel the lethal repercussion of speaking Celestial to your advantage, allowing you to use the curse put on by the heavens to smite your foes!
 
-Whenever you activate your :fontawesome-solid-hand-fist:**Rage**, or once as a :rsc-bonus-action:**Bonus Action** while **raging** you can roll a :material-dice-d12:d12, expending Hit Points equal to the result and enhance your attacks with Primordial Flare for the **Rage** duration. Whenever you hit a creature with a weapon attack that benefits from your :fontawesome-solid-hand-fist:**Rage** damage, the weapon's damage type changes to :material-fire:**Fire** damage and it deals extra :material-fire:**Fire** damage equal to :material-dice-d8:1d8 + your Constitution Modifier.
+Whenever you activate your :fontawesome-solid-hand-fist:**Rage**, or once as a :rsc-bonus-action:**Bonus Action** while **raging** you can roll a :die-d12:d12, expending Hit Points equal to the result and enhance your attacks with Primordial Flare for the **Rage** duration. Whenever you hit a creature with a weapon attack that benefits from your :fontawesome-solid-hand-fist:**Rage** damage, the weapon's damage type changes to :material-fire:**Fire** damage and it deals extra :material-fire:**Fire** damage equal to :die-d8:1d8 + your Constitution Modifier.
 
 ## 3rd level: Improved Totemic Spirit
 

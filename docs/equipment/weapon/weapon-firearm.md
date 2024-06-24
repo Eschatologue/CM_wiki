@@ -114,7 +114,7 @@ What effect each type of grenade can cause is stated on [Grenade Effects](#grena
       - A blinded creature can't see and automatically fails any ability check that requires sight.
       - Attack rolls against the creature have advantage, and the creature’s attack rolls have disadvantage.
 2. :material-ear-hearing-off: **Deafened** is a Condition.
-      - A deafened creature can’t hear, automatically fails any :material-dice-d20: **Ability Check** that requires hearing and is **resistant**(1) to :material-waveform: Thunder damage.
+      - A deafened creature can’t hear, automatically fails any :die-d20: **Ability Check** that requires hearing and is **resistant**(1) to :material-waveform: Thunder damage.
         { .annotate }
 
         1. Creature that is resistant or immune to a damage type takes only half or no damage from the damage type respectively.

@@ -479,7 +479,7 @@ You have martial training that allows you to perform special combat Manoeuvres. 
     
 - **Superiority Die**
     
-    You gain two superiority die, which are :material-dice-d6:d6s (this die is added to any superiority dice you have from another source). This die is used to fuel your manoeuvres. A superiority die is expended when you use it.
+    You gain two superiority die, which are :die-d6:d6s (this die is added to any superiority dice you have from another source). This die is used to fuel your manoeuvres. A superiority die is expended when you use it.
     
 You regain your expended superiority dice when you finish a short or long rest.
 
@@ -593,7 +593,7 @@ You have trained to become a deadly warrior with pole weapons, capable of making
 
 - **Spear Warrior**
     
-    When you use a javelin or spear, its damage die increases from a :material-dice-d6: d6 to a :material-dice-d8: d8, and from a :material-dice-d8: d8 to a :material-dice-d10: d10 when wielded with two hands (this feature has no effect if another feature has already improved the weapon’s die.)
+    When you use a javelin or spear, its damage die increases from a :die-d6: d6 to a :die-d8: d8, and from a :die-d8: d8 to a :die-d10: d10 when wielded with two hands (this feature has no effect if another feature has already improved the weapon’s die.)
     
 - **Quick Reach**
     

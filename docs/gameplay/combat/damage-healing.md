@@ -34,7 +34,7 @@ Proficiency bonuses are only added to damage rolls unless the attack being used 
 
 **Example:**
 
-- **Damaging with Weapons.** A successful attack with a Dagger does a base of 1d4 Piercing damage. This means a single four-sided die :material-dice-d4: is rolled to determine the damage, for a total of 1 to 4 piercing damage. 
+- **Damaging with Weapons.** A successful attack with a Dagger does a base of 1d4 Piercing damage. This means a single four-sided die :die-d4: is rolled to determine the damage, for a total of 1 to 4 piercing damage. 
   
     Most weapons use a single damage die, but some two-handed weapons use two: a successful attack with Greatswords does 2d6 Slashing damage, rolling two six-sided dice "material-dice-d6: for a total of 2 to 12 slashing damage. 
 
@@ -44,7 +44,7 @@ Proficiency bonuses are only added to damage rolls unless the attack being used 
 
 Rolling a natural 20 on an attack roll results in a critical hit, dealing double damage.
  
-**Example**: A ranger scoring a critical hit with a short sword (1d6 piercing damage) + 3 (Dexterity modifier). The ranger rolled 3 on the :material-dice-d6: d6, dealing a total of 6 damage and it is doubled to 12 Piercing damage as a result.
+**Example**: A ranger scoring a critical hit with a short sword (1d6 piercing damage) + 3 (Dexterity modifier). The ranger rolled 3 on the :die-d6: d6, dealing a total of 6 damage and it is doubled to 12 Piercing damage as a result.
 
 ### Resistance, Vulnerability, and Immunity
 

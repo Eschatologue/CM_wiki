@@ -16,7 +16,7 @@ On your turn, you can take one action. Common actions include:
 - **Attack:** Make a melee or ranged attack.(1)
     { .annotate } 
 
-    1. **:material-dice-d20:{ .lg } d20 + Ability score modifier + Proficiency bonus (if proficient) + Other modifiers (if any)**
+    1. **:die-d20:{ .lg } d20 + Ability score modifier + Proficiency bonus (if proficient) + Other modifiers (if any)**
    
 - **Cast a Spell:** Use a spell slot to cast a prepared spell.
 - **Dash:** Double your movement for the turn.

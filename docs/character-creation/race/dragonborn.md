@@ -22,9 +22,9 @@ You are distantly related to a particular kind of Aeginae. Each ancestry provide
 ##### Breath Weapon Damage
 The damage of your Breath Weapon increases with your character level:
 
-- **6th-level:** :material-dice-d6: 3d6
-- **11th-level:** :material-dice-d6: 4d6
-- **16th-level:** :material-dice-d6: 5d6
+- **6th-level:** :die-d6: 3d6
+- **11th-level:** :die-d6: 4d6
+- **16th-level:** :die-d6: 5d6
 
 ## Aerothurge Ancestry
 *You share traits to an Aeginae who used to rule the skies.*
@@ -34,7 +34,7 @@ The damage of your Breath Weapon increases with your character level:
 ##### Breath Weapon Table
 | **COST** | **RANGE/AoE** | **ATTACK/SAVE** | **DAMAGE/EFFECT** |
 |:---:|:---:|:---:|:---:|
-| :rsc-action:**Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :material-vector-line:line | :material-shield: DEX Save (half damage on success) | :material-dice-d6: 2d6 :damage-lightning:Lightning |
+| :rsc-action:**Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :material-vector-line:line | :material-shield: DEX Save (half damage on success) | :die-d6: 2d6 :damage-lightning:Lightning |
 
 #### Damage Resistance
 :   The blood of ancient dragons flow through your veins. You have resistance to :damage-lightning: Lightning damage.
@@ -49,7 +49,7 @@ The damage of your Breath Weapon increases with your character level:
 ##### Breath Weapon Table
 | **COST** | **RANGE/AoE** | **ATTACK/SAVE** | **DAMAGE/EFFECT** |
 |:---:|:---:|:---:|:---:|
-| :rsc-action:**Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :material-vector-line:line | :material-shield: CON Save (half damage on success) | :material-dice-d6: 2d6 :damage-poison:Poison |
+| :rsc-action:**Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :material-vector-line:line | :material-shield: CON Save (half damage on success) | :die-d6: 2d6 :damage-poison:Poison |
 
 #### Damage Resistance
 :   The blood of ancient dragons flow through your veins. You have resistance to :damage-poison: Poison damage.
@@ -64,7 +64,7 @@ The damage of your Breath Weapon increases with your character level:
 ##### Breath Weapon Table
 | **COST** | **RANGE/AoE** | **ATTACK/SAVE** | **DAMAGE/EFFECT** |
 |:---:|:---:|:---:|:---:|
-| :rsc-action:**Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :material-vector-line:line | :material-shield: CON Save (half damage on success) | :material-dice-d6: 2d6 :damage-cold:Cold |
+| :rsc-action:**Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :material-vector-line:line | :material-shield: CON Save (half damage on success) | :die-d6: 2d6 :damage-cold:Cold |
 
 #### Damage Resistance
 :   The blood of ancient dragons flow through your veins. You have resistance to :damage-cold:Cold damage.
@@ -79,7 +79,7 @@ The damage of your Breath Weapon increases with your character level:
 ##### Breath Weapon Table
 | **COST** | **RANGE/AoE** | **ATTACK/SAVE** | **DAMAGE/EFFECT** |
 |:---:|:---:|:---:|:---:|
-| :rsc-action:**Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :material-vector-line:line | :material-shield: DEX Save (half damage on success) | :material-dice-d6: 2d6 :damage-fire:Fire |
+| :rsc-action:**Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :material-vector-line:line | :material-shield: DEX Save (half damage on success) | :die-d6: 2d6 :damage-fire:Fire |
 
 #### Damage Resistance
 :   The blood of ancient dragons flow through your veins. You have resistance to :damage-fire:Fire damage.

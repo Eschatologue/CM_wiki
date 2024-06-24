@@ -55,7 +55,7 @@ Initiative determines the order in which characters and creatures act during com
 1. **Initiative Roll:** At the start of combat, each participant makes a *Dexterity check*(1). This determines their place in the initiative order.
    { .annotate }
 
-      1. **:material-dice-d20:{ .lg } d20 + Dexterity Modifier**
+      1. **:die-d20:{ .lg } d20 + Dexterity Modifier**
   
 2. **DM Rolls for NPCs:** The Dungeon Master (DM) rolls initiative for all non-player characters (NPCs) and monsters involved in the combat.
 

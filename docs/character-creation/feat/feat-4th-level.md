@@ -31,7 +31,7 @@ You've learned how the how to weave magic and mobility
     
     When you use an Action to Dash, you can use a Bonus Action to cast a cantrip with a range of touch if you move at least 1o feet in a straight line. 
     
-    When you hit your cantrip you can either add a :material-dice-d8: 1d8 bonus to the spell’s damage roll or push the target 10 feet away from you, provided the target you want to push is no more than one Size larger than you. 
+    When you hit your cantrip you can either add a :die-d8: 1d8 bonus to the spell’s damage roll or push the target 10 feet away from you, provided the target you want to push is no more than one Size larger than you. 
 
     You can use this benefit only once on each of your turns.
 
@@ -617,7 +617,7 @@ Keeping foes just out of range is your specialty. You gain the following benefit
     
     After making an attack with a Glaive, Halberd, Pike, Quarterstaff or Spear, you can use a **Bonus Action** to make a melee attack with the opposite end of the weapon; this attack uses the same ability modifier as the primary attack. 
     
-    The weapon's damage die for this attack is a :material-dice-d4: d4, and the attack deals bludgeoning damage.
+    The weapon's damage die for this attack is a :die-d4: d4, and the attack deals bludgeoning damage.
     
 - **Reactive Strike**
     
@@ -737,7 +737,7 @@ You’ve trained to use shields not just for protection, but also for offense, g
     
     On hit you can do one of the following effect:
 
-    - **Bash.** You deals damage to the target. The damage die for this attack is a :material-dice-d4: d4 + the shield's AC, and the attack deals bludgeoning damage.
+    - **Bash.** You deals damage to the target. The damage die for this attack is a :die-d4: d4 + the shield's AC, and the attack deals bludgeoning damage.
     - **Shove** You knock the target Prone or push it 5 feet away.
     
 - **Interpose Shield**

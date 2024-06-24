@@ -116,7 +116,7 @@ Moreover, you also use your Strength instead of your Dexterity to fufill the :we
 
 You learn one manoeuvre of your choice from among those available to the Battle Master archetype. If a manoeuvre you use requires your target to make a saving throw to resist the manoeuvre's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
 
-- You gain one superiority die, which is a :material-dice-d6:d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your manoeuvres.  
+- You gain one superiority die, which is a :die-d6:d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your manoeuvres.  
 A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest
 
 ### Fighting Style: Thrown-Weapon Fighting
@@ -145,7 +145,7 @@ When you do, you cannot also make a :rsc-bonus-action:**Bonus Action** attack
 **Prerequisites:** Warrior Group, *Fighting Style* Feature, or [Fighting Initiate] feat  
 **Repeatable:** No
 
-Your unarmed strikes can deal Bludgeoning damage equal to 1d6 + your Strength modifier on a hit. If you aren't wielding any weapons or a shield when you make the :d20-attack:**Attack Roll**, the :material-dice-d6:d6 becomes a :material-dice-d8:d8.
+Your unarmed strikes can deal Bludgeoning damage equal to 1d6 + your Strength modifier on a hit. If you aren't wielding any weapons or a shield when you make the :d20-attack:**Attack Roll**, the :die-d6:d6 becomes a :die-d8:d8.
 
 At the start of each of your turns, you can deal 1d4 Bludgeoning damage to one creature grappled by you.
 
