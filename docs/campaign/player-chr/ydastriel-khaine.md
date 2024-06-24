@@ -10,7 +10,7 @@ icon: material/star-four-points
 
 *You, child of the star are chosen with the purpose to reveal the secrets behind the Spires and their influences upon this world, will you bring this forsaken world salvation it needs or the destruction it deserves?*
 
-## 2nd Level: Cosmic Weave
+## Cosmic Weave <span style="float:right;"> <small> Level 2 </small> </span>
 
 Your connection with the cosmic energies grants you access to some spells when you reach a certain level in this class, as shown on your class Spells table.
 
@@ -41,13 +41,13 @@ Once you gain access to one of these spells, you always have it prepared, and it
 [temporal shunt]: ../../spells/5th-level.md#temporal-shunt
 [circle of power]: ../../spells/5th-level.md#circle-of-power
 
-## 2nd Level: Cosmic Flare
+## Cosmic Flare <span style="float:right;"> <small> Level 2 </small> </span>
 
 You have the ability to unleash the power which Spires draws from. You learn the *[Cosmic Flare](../../spells/cantrip.md#cosmic-flare)* cantrip, it counts as druid cantrip for you and it doesn't count against the number of druid cantrips you know.
 
 While holding your Star Map, you can add your spellcasting modifier to the cantrip's damage roll.
 
-## 3rd Level: Spire's Resonance
+## Spire's Resonance <span style="float:right;"> <small> Level 3 </small> </span>
 
 Your growing understanding of the Spires and their role in Antares has granted you the ability to draw powers from the ascents they represent.
 

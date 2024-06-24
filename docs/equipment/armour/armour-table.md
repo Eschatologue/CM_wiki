@@ -19,11 +19,13 @@ If you wear armour that you lack proficiency with, you gain several affliction:
 
 Armour protects its wearer from attacks. The armour (and shield) you wear determines your base Armour Class.
 
-### **Stealth**
+### Stealth
 
 If the Armour table shows "Disadvantage" in the Stealth column, the wearer has disadvantage on Dexterity (Stealth) checks.
 
-## Light Armour
+## Armour Types
+
+### Light Armour
 
 Made from supple and thin materials, light armour favours agile adventurers since it offers some protection without sacrificing mobility. 
 
@@ -39,7 +41,7 @@ If you wear light armour, you add your Dexterity modifier to the base number fro
 - **Leather.** The breastplate and shoulder protectors of this armour are made of leather that has been stiffened by being boiled in oil. The rest of the armour is made of softer and more flexible materials.
 - **Studded Leather.** Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.
 
-## Medium Armour
+### Medium Armour
 
 Medium armour offers more protection than light armour, but it also impairs movement more. If you wear medium armour, you add your Dexterity modifier, to a maximum of +2, to the base number from your armour type to determine your Armour Class.
 
@@ -57,7 +59,7 @@ Medium armour offers more protection than light armour, but it also impairs move
 - **Breastp⁠late.** This armour consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armour protects the wearer's vital organs while leaving the wearer relatively unencumbered.
 - **Half⁠ Plate.** Half plate consists of shaped metal plates that cover most of the wearer's body. It does not include leg protection beyond simple greaves that are attached with leather straps.
 
-## Heavy Armour
+### Heavy Armour
 
 Of all the armour categories, heavy armour offers the best protection. These suits of armour cover the entire body and are designed to stop a wide range of attacks. Only proficient warriors can manage their weight and bulk.
 
@@ -77,7 +79,7 @@ If the Armour table shows 'STR 13' or 'STR 15' in the Strength column for an arm
 - **Splint.** This armour is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible chain mail protects the joints.
 - **Plate.** Plate armour consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armour. Buckles and straps distribute the weight over the body.
 
-## Shield
+### Shield
 
 A shield is made from wood or metal (can be anything really) and is carried in one hand. You can benefit from only one shield at a time.
 
@@ -98,7 +100,7 @@ The time it takes to don or doff armour depends on the armour's category.
 
 - **Doff.** This is the time it takes to take off armour. If you have help, reduce this time by half.
 
-- **Donning and Doffing Armour**
+#### Donning and Doffing Armour
 
 | Category | Don | Doff |
 | --- | --- | --- |

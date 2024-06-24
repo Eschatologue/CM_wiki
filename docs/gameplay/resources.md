@@ -12,11 +12,7 @@ Taking actions usually requires the acting creature to expend one of three resou
 
 |:rsc-action:{ .xxl .middle }|:rsc-bonus-action:{ .xxl .middle }|:rsc-reaction:{ .xxl .middle }|
 |:-:|:-:|:-:|
-|**[ACTION]**|**[BONUS ACTION]**|**[REACTION]**|
-
-[ACTION]: #action
-[BONUS ACTION]: #bonus-action
-[REACTION]: reaction
+|**ACTION**|**BONUS ACTION**|**REACTION**|
 
 ### Actions
 
@@ -26,7 +22,7 @@ An Action is a primary activity that a creature can perform during their turn. T
 
   - **Attack**: A fighter swings their sword at an enemy, making a melee attack.
   - **Cast a Spell**: A wizard casts the spell "Fireball," targeting a group of enemies.
-  - **Dash**: A paladin uses their action to move double their movement speed to close in upon the enemies.
+  - **Dash**: A paladies their action to move double their movement speed to close in upon the enemies.
 
 ### Bonus Actions
 Some actions, frequently referred to as *bonus actions*, require a Bonus Action to be expended when taken.
@@ -51,11 +47,15 @@ A :rsc-reaction:**Reaction** is an action that creatures can take in response to
 
 ## Spell Slots
 
+|:rsc-spell-slot:{ .xxl .middle }|
+|:-:|
+|**SPELL SLOT**|
+
 Spell slots are a resource used by spellcasting characters to cast their spells. They represent the number and power level of spells that a character can cast in a day. Spell slots are specific to each spellcasting class, and the number and levels of spell slots available increase as a character gains levels in that particular class.
 
 ### Basic Concept
 
-Spell slots determine how many spells of different levels a character can cast before needing to rest. Each spellcasting class has a table that shows how many spell slots of each level the character has at each class level. For example, a 5th-level wizard might have four 1st-level spell slots, three 2nd-level spell slots, and two 3rd-level spell slots, while a 5th-level cleric might have a different arrangement of spell slots.
+:rsc-spell-slot: **Spell Slots** determine how many spells of different levels a character can cast before needing to rest. Each spellcasting class has a table that shows how many spell slots of each level the character has at each class level. For example, a 5th-level wizard might have four 1st-level spell slots, three 2nd-level spell slots, and two 3rd-level spell slots, while a 5th-level cleric might have a different arrangement of spell slots.
 
 ### Using Spell Slots
 
@@ -86,7 +86,7 @@ Higher-level spell slots can be used to cast lower-level spells, often with enha
 
 [Spellcasting]: ../gameplay/spellcasting.md
 
-## :material-arrow-right-bold:Movement
+## Movement
 
 Movement determines how far creatures can travel on their turn during combat or an adventure. Each character has a movement speed, usually measured in feet, indicating the distance they can cover under normal circumstances.
 
