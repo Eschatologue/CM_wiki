@@ -105,7 +105,7 @@ Upon gaining this class feature, you gain additional Starry Forms tied to specif
     
     | weapon | damage | properties |
     |---|:-:|---|
-    | Lance of Judgement | :die-d8: 1d8 :damage-force: **Force** | :weapon-prop-reach: **[Reach]**, :weapon-prop-thrown: **[Thrown]**(:weapon-prop-range: Range 20/60), :weapon-prop-versatile: **[Versatile]**(:die-d10: 1d10) |
+    | Lance of Judgement | :die-d8: 1d8 :damage-force: **Force** | :weapon-prop-reach: **[Reach]**, :weapon-prop-thrown: **[Thrown]**(:weapon-prop-ranged: Range 20/60), :weapon-prop-versatile: **[Versatile]**(:die-d10: 1d10) |
      
     When you attack with this weapon, you can use your Wisdom modifier, instead of Strength or Dexterity, to the attack and damage rolls. When you reach 6th level in this class, you can attack twice instead of once when you take the :d20-attack:**Attack** Action using this weapon.
 
@@ -121,15 +121,24 @@ Upon gaining this class feature, you gain additional Starry Forms tied to specif
 
     **Signum Ignorantiae:** Your Cosmic Flare now deals :damage-psychic: **Psychic** damage and its damage die becomes a :die-d6: d6. On a hit, the creature is :material-crosshairs-gps: **Marked** by you.
 
-    **Bastio Veritatis:** When a :material-crosshairs-gps: **Marked** creature that you can see is hit by an attack from your ally, you can use your :rsc-reaction:**Reaction** to cast *Guiding Bolt* against it. When you do, add your spellcasting modifier to the spells damage roll and its damage type becomes :damage-psychic: **Psychic** damage. 
+    **Bastio Veritatis:** When a :material-crosshairs-gps: **Marked** creature that you can see is hit by an attack from your ally, you can use your :rsc-reaction:**Reaction** to cast *Guiding Bolt* against it. When you do, add your spellcasting modifier to the spells damage roll and its damage type becomes :damage-psychic: **Psychic** damage.
 
 === "**[Locked] Prosperity**"
 
-    *A figure of the Avatar of Wealth appears behind you, your fingertips shimmers with gold and silver. You see the worth and values of all objects within your vision*
+    *A figure of the Avatar of Wealth appears behind you, your fingertips shimmering with gold and silver. You perceive the worth and value of all objects within your vision.*
 
-    **Abundance of Wealth:** When a friendly creature you can see is targeted by a spell or an effect that restores hit points or grants temporary hit points, it adds your Wisdom modifier (minimum of +1) to the total hit points or the number of temporary hit points it gains.
+    **Investment Liquidation:** You have the ability to use your :rsc-reaction:**Reaction** to destroy an amount of SP on your person to enhance an attack, increases healing, or damage reduction:
 
-    **Investment Liquidation:** When you or a friendly creature you can see takes damage, you can use your :rsc-reaction:**Reaction** to destroy a total of 1,000 silver on your person or your targetted creature. For every 1,000 silver you destroy, reduce the damage by 1d10.
+    - **Efficiency Investment:** When you or a friendly creature you can see hits with an attack, you can increase the damage dealt by :die-d10:1d10 for every 1,000 SP you destroy.
+    - **Health Insurance:** When you or a friendly creature you can see is targeted by a spell or effect that restores hit points or grants temporary hit points, you can increase the total hit points or the number of temporary hit points gained by :die-d10:1d10 for every 1,000 SP you destroy.
+    - **Damage Reimbursement:** When you or a friendly creature you can see takes damage, you can reduce the damage received by :die-d10:1d10 for every 1,000 SP you destroy.
+
+=== "**[Locked] Equillibrium**"
+
+    *Multiple flat, semi-transparent blue tablets materialize, displaying cryptic combinations of numbers, letters, and figures, hovering before you. One of your eyes radiates a blue hue, granting you the power to decipher the scripts that foretell fortunes.*
+
+    **Restore Balance:** When a creature you see within 60 feet has :d20-adv:**Advantage** or :d20-disadv:**Disadvantage** on a :die-d20: D20 Check, you can use your :rsc-reaction:**Reaction** to nullify one instance of its :d20-adv:**Advantage** and :d20-disadv:**Disadvantage**. 
+
 
 [Reach]: ../../equipment/weapon/index.md#reach
 [Thrown]: ../../equipment/weapon/index.md#thrown

@@ -80,7 +80,8 @@ nav:
       - Ydastriel Khaine: campaign/player-chr/ydastriel-khaine.md
 #     - Eris Decrat: campaign/player-chr/eris-dekrat.md
     - Changelog: campaign/changelog.md
-
+  - DM Related: 
+    - Tools: dm/tools.md
 # Author
 site_author: Eschatologue
 site_description: >-
