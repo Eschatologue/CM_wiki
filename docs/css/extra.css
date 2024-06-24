@@ -13,8 +13,6 @@
 
 /* Headers Alignment */
 .md-typeset h1, h2, h3, h4, h5, h6 {
-    font-variant: small-caps !important;
-    text-transform: uppercase;
     text-align: left;
 }
 
@@ -23,6 +21,11 @@
 /* H1 - Main Heading */
 .md-typeset h1 {
     margin-bottom: -0.15em;
+    font-variant: small-caps;
+}
+
+.md-typeset h2 {
+    font-variant: small-caps;
 }
 
 /* H3 - Tertiary Heading with line after */
