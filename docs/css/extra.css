@@ -59,6 +59,10 @@
     --md-hue: 220;
 }
 
+[data-md-color-scheme="slate"][data-md-color-primary="black"] {
+--md-typeset-a-color: teal; /* or any other hex value */
+}
+
 /* Icon Heading */
 .ich1 {
     font-size: 4.5rem;
