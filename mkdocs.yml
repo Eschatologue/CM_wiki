@@ -118,7 +118,7 @@ theme:
   language: en
   palette:
     scheme: slate
-    primary: black
+    primary: teal
     accent: teal
   font:
     code: Roboto Mono

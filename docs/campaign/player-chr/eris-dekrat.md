@@ -8,11 +8,11 @@ icon: dnd/stat-spellcasting
 
 *"Sortilege," a Gallian word used for sorcerers, are unlike wizards or others; they're given the power to weave magic as their birthright. You too are this so-called "Sortilege," but your power doesn't stem from weaving spells, but from binding and severing them—a Spellbreaker.*
 
-## 1st-level: Bonus Proficiencies
+## Bonus Proficiencies - Level 1
 
 You gain proficiency in Intelligence (Arcana) if you don’t already have it. Moreover, you can add your Charisma modifier to an Intelligence (Arcana) check to recall lore about spells, magic items, or magic symbolism related to your nation. 
 
-## 1st-level: Clairvoyance
+## Clairvoyance - Level 1
 
 *You calm yourself down and enter a state of heightened focus, allowing you to sense the weaves of magic that permeate this world.*
 
@@ -32,17 +32,17 @@ If the object or creature is hidden from divination magic, such as a *nondetecti
 
 You can use this feature a number of times equal to half your rogue level (rounded up), when you have no uses remaining, you can expend a spell slot and regain usage equal to the level of spell slot expended.
 
-## 3rd-level: Spellbreaker’s Mark
+## Spellbreaker’s Mark - Level 3
 
 When you hit a creature with an attack roll, you can expend one use of your ^^Clairvoyance^^ and place a Spellbreaker’s Mark on the target, designating it as your :fontawesome-solid-location-crosshairs:**Mark**. This Mark is only visible to you and you gain the following benefits against your :fontawesome-solid-location-crosshairs:**Mark**:
 
 - You learn your :fontawesome-solid-location-crosshairs:**Mark** spellcasting ability, if any, and the level of the highest level spell it can cast.
-- Your :fontawesome-solid-location-crosshairs:**Mark** has :d20-disadv:**Disadvantage** on :d20-save: Constitution **Saving Throw* to maintain concentration on any spells.
+- Your :fontawesome-solid-location-crosshairs:**Mark** has :d20-disadv:**Disadvantage** on :d20-save: Constitution **Saving Throw** to maintain concentration on any spells.
 - Your :fontawesome-solid-location-crosshairs:**Mark** provokes opportunity attack when it attempts to cast a spell while it is within your reach.
 
 The :fontawesome-solid-location-crosshairs:**Mark** lasts for 1 hour and you can move the **Mark** using a :material-star-four-points: **Reaction**. If your :fontawesome-solid-location-crosshairs:**Mark** is reduced to 0 hit point, you can move the :fontawesome-solid-location-crosshairs:**Mark** to a new creature that you can see (no action required).
 
-## 3rd-level: Spellcasting
+## Spellcasting - Level 3
 
 The weave of magic courses through you, yet you've never bothered to learn how to cast spells or study them. With the cost of teachers being quite high nowadays, you've forged your own path instead of adhering to your nation's tradition. While it may be seen as an insult to the old ways, your methods are just as, if not more, effective.
 
@@ -52,22 +52,22 @@ The weave of magic courses through you, yet you've never bothered to learn how t
 | :-: | :-: |  :-: | :-: |:-: |
 | 3rd | 3 | 3 | 3 | I |
 | 4th | 3 | 3 | 3 | I |
-| 5th | 3 | 3 | 4 | II |
+| 5th | 3 | 3 | 3 | II |
 | 6th | 3 | 4 | 4 | II |
-| 7th | 4 | 4 | 6 | III |
-| 8th | 4 | 4 | 6 | III |
-| 9th | 4 | 5 | 6 | IV |
-| 10th | 4 | 5 | 7 | IV |
-| 11th | 5 | 5 | 7 | V |
-| 12th | 5 | 6 | 7 | V |
-| 13th | 5 | 6 | 9 | V |
-| 14th | 5 | 6 | 9 | V |
-| 15th | 6 | 7 | 9 | V |
-| 16th | 6 | 7 | 9 | V |
-| 17th | 6 | 7 | 10 | V |
-| 18th | 6 | 8 | 10 | V |
-| 19th | 6 | 8 | 10 | V |
-| 20th | 6 | 8 | 12 | V |
+| 7th | 4 | 4 | 4 | III |
+| 8th | 4 | 4 | 4 | III |
+| 9th | 4 | 5 | 5 | IV |
+| 10th | 4 | 5 | 5 | IV |
+| 11th | 5 | 5 | 5 | V |
+| 12th | 5 | 6 | 6 | V |
+| 13th | 5 | 6 | 6 | V |
+| 14th | 5 | 6 | 6 | V |
+| 15th | 6 | 7 | 6 | V |
+| 16th | 6 | 7 | 6 | V |
+| 17th | 6 | 7 | 6 | V |
+| 18th | 6 | 8 | 6 | V |
+| 19th | 6 | 8 | 6 | V |
+| 20th | 6 | 8 | 6 | V |
 
 ### Cantrip
 
@@ -92,44 +92,36 @@ Charisma is your spellcasting ability for your spells, since your magic is innat
 
 You know three 1st-level spells of your choice from this feature's [spell list], these spells counts as Sorcerer spells for you and you can change your list of prepared spells when you finish a long rest.
 
-## 3rd-level: Dekrat's Special:material-trademark:
+## Dekrat's Special:material-trademark: - Level 3
 
 *You've learned how to break the normal rules and conventions of casting spells, bending them to your will and channeling them through your weapon strikes*
 
-Once per turn when you make an attack, you can simultaneously cast a spell, and make a weapon attack with a :weapon-prop-finesse: **Finesse** or a ranged weapon that lack the :weapon-prop-two-handed: **Two-Handed** property which you are proficient. 
+Once per turn when you make an attack that triggers Sneak Attack, you can simultaneously cast a spell to be channeled through it.
 
 To be channeled using a Dekrat's Special:material-trademark: in this way, the spell must met the following requirements:
 
 - The Sorcerer spell must have a casting time of an :rsc-action:**Action**.
-- The Sorcerer spell must require only a single spell attack roll or force its target to make a saving throw.
+- The Sorcerer spell must require only a single spell :d20-attack:**Attack Roll** or force its target to make a :d20-save:**Saving Throw**.
 
 If your attack misses, the spell fails and has no effect. On a hit, the spell takes effect immediately in addition of the normal effects and damage from your weapon attack, under the rules below:
 
 - :material-radius-outline: **Area of Effects.** If the spell targets an area greater than a 10 ft. cube, it takes effect as a 15 ft. cone originating from you, which must include your target. Alternatively, it can be contained to only affect the target of your attack (your choice). Using a ranged weapon, your spell is contained to only affect the target of your attack.
 
-- :material-numeric-0: **Cantrip.** The cantrip ^^does not deal damage^^. Instead, your weapon attack and your Sneak Attack (if applicable) deals the damage type dealt by the cantrip, and applies the cantrip additional effects on hit, except for damage.
+- :material-numeric-0: **Cantrip.** The cantrip ^^does not deal damage^^. Instead, your weapon attack deals the damage type dealt by the cantrip, and applies the cantrip additional effects on hit, except for damage.
 
 - :material-focus-field: **Concentration.** If the spell requires your concentration, you must concentrate on it as soon as it takes effect on hit.
 
-- :d20-save: **Saving Throws.** If the spell requires a saving throw when cast, the target makes the first saving throw at a :d20-disadv:**Disadvantage** on hit. If you score a critical hit on the attack, the target automatically fails its saving throw. Other target (if any) make this save as normal.
+- :d20-save: **Saving Throws.** If the spell requires a :d20-save:**Saving Throw** when cast, the target makes the first :d20-save:**Saving Throw** at a :d20-disadv:**Disadvantage** on hit. If you score a critical hit on the attack, the target automatically fails its :d20-save:**Saving Throw**. Other target (if any) make this **Save** as normal.
 
 - :fontawesome-solid-crosshairs: **Spell Attacks.** If the spell requires a spell attack roll, it instantly take effect when you hit with a weapon attack.
 
-## 5th-level: Expanded Spell List
-
-You gain more experience in casting spells, you can now choose and prepare 2nd-level spells from this feature's [spell list].
-
-## 6th-level: The People’s Eyebrow
+## The People’s Eyebrow - Level 6
 
 *With a simple raise of your eyebrow, you possess the uncanny ability to disrupt and foil a spellcaster's magic.*
 
 When you see a creature casting a spell or teleporting within 60 feet of you, you can use a :material-star-four-points: **Reaction** to expend a spell slot to try magically foils it.
 
 If the spell was cast at a level equal to the level of the spell slot you expended or lower, the spell fails and has no effect. If it was cast at a level higher than the slot you expended, make a :die-d20:Charisma **Ability Check** against DC of 10 + the level of the spell, the spell fails and has no effect when you succeed the check.
-
-## 7th-level: Expanded Spell List
-
-You gain more experience in casting spell, you can now choose and prepare 3rd-level spells from this feature's [spell list].
 
 ## Eris' Spell List
 
