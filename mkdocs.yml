@@ -10,6 +10,7 @@ nav:
     - The Warp:
       - lore/warp/index.md
       - Warp Storm: lore/warp/warp-storm.md
+      - Warp Entities: lore/warp/warp-entities.md
     - Pantheon: lore/pantheon.md
     - The Celestial Language: lore/celestial.md
   - Gameplay:
@@ -122,7 +123,7 @@ theme:
     accent: teal
   font:
     code: Roboto Mono
-    text: Roboto Condensed
+    text: Roboto Slab
   icon: 
     logo: fontawesome/solid/dice-d20
     annotation: material/timeline-question

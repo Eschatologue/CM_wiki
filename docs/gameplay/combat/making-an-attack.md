@@ -1,5 +1,5 @@
 ---
-icon: material/star-three-points
+icon: d20/attack
 ---
 
 Whether you're striking with a melee weapon, firing a weapon at range, or making an attack roll as part of a spell, an attack has a simple structure.

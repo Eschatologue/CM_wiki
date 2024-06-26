@@ -2,7 +2,8 @@
 icon: material/fast-forward
 ---
 
-# Creating your Character
+# Creating Your Character
+
 This D&D campaign setting uses the same rulings as what you would find in other settings with minor additions and modifications. On a notable note, it uses combinations of 5th Edition ruling and OneD&D ruling.
 
 ## Understanding The Core Principles
@@ -32,10 +33,12 @@ This setting uses a post-apocalyptic dystopian science fantasy world, characters
 ## Step-by-Step Guide
 
 ### Choose a Race
+
 This D&D uses standard races available to PHB with some additions and changes, refer to [this](../character-creation/race/race.md) for more details. There is 9 available race available for choosing.
 
 ### Choose a Background
-You can choose a pre-written background available on [WikiDot](http://dnd5e.wikidot.com/#toc3), only the Common Background though. 
+
+You can choose a pre-written background available on [WikiDot](http://dnd5e.wikidot.com/#toc3), only the Common Background though.
 
 If you're unsure about which background to choose, this D&D campaign uses the optional Custom Background^PHB^ rule. Finding a background that fits your character and the setting can be challenging, and the DM prefers to recycle existing backgrounds with added twists rather than create new ones from scratch. The details are as follows:
 
@@ -64,6 +67,7 @@ If you're unsure about which background to choose, this D&D campaign uses the op
 [Affiliation]: ../gameplay/homebrew/affiliation.md
 
 ### Choosing a Class
+
 *Main Article: [Classes](../character-creation/classes.md)*
 
 Please choose a class from the available options listed.
@@ -71,11 +75,13 @@ Please choose a class from the available options listed.
 You can also choose to [multiclass](../gameplay/multiclassing.md) when the prerequisites are met.
 
 ### Starting Ability Scores
+
 In this setting, we uses the Standard Array as follow: `15, 14, 13, 12, 10, 8`
 
 Simply assign one number to each ability score (one to Strength, one to Dexterity, one to Constitution, and so on). Then, you'll be able to determine your character's modifier for each score.
 
 #### Ability Scores
+
 *Main Article: [Ability Score](../character-creation/ability-scores/index.md)*
 
 Each of a creature's abilities has a score, a number that defines the magnitude of that ability. An ability score is not just a measure of innate capabilities, but also encompasses a creature's training and competence in activities related to that ability.
@@ -104,6 +110,7 @@ Because ability modifiers affect almost every attack roll, ability check, and sa
     While following the meta isn't mandatory, it's important not to mishandle your ability scores.
 
 ### Starting Level
-For this campaign, you will start at 3rd-level. 
+
+For this campaign, you will start at 3rd-level.
 
 When making your character, make one normally starting the 1st-level, and then treat it as you levelled up twice to 3rd-level. Some class feature grants additional benefits or even subclass choice at 3rd-level, so keep that in mind

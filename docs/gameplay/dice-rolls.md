@@ -1,16 +1,19 @@
 ---
-icon: material/dice-d20
+icon: die/d20
 
 search:
   boost: 2 
 
 ---
 
-> "*The ~~Arcana~~ Dice is the means by which all is revealed*" 
+# Dice Rolls
+
+<p style="text-align: center;"> "The ~~Arcana~~ Dice is the means by which all is revealed" </p>
 
 Dice rolls are the core mechanics of D&D. In every situation, dice are rolled to determine the outcome of a myriad of situations, such as whether or not a character will succeed at using a particular skill, if an attack will land and how much damage it will do, and even when the DM feels like adding a little unpredictability.
 
 ## Dice Notation
+
 D&D uses the d20 system—a role-playing game system published in 2000 by Wizards of the Coast, originally developed for the 3rd edition of Dungeons & Dragons. Though the name is d20, it often includes other dice notations as well—usually notated with a `d` followed by the number of sides on that specific die.
 
 :die-d4:{ .lg .middle } `d4` - :die-d6:{ .lg .middle } `d6` - :die-d8:{ .lg .middle } `d8` - :die-d10:{ .lg .middle } `d10` - :die-d12:{ .lg .middle } `d12` - :die-d20:{ .lg .middle } `d20`
@@ -21,47 +24,45 @@ The number of dice to be rolled is notated immediately before the `d`. Any appli
 
     D&D also uses a 100-sided die, commonly referred to as "percentile dice" and is often used to determine loot drops from combat, or for rolling on a "Wild Magic" table for certain sorcerer subclasses, or when the DM requires it.
 
+## D20 Tests
 
-## :d20-dice:{ .lg } D20 Tests
+In D&D, the twenty-sided die (:die-d20: d20) is central to the game's mechanics, determining the success or failure of a wide range of actions. Whenever a creature attempts an action with a chance of failure, it rolls a d20 and adds any applicable modifiers. The result is compared to a target number to see if the attempt succeeds.
 
-In D&D, the twenty-sided die (d20) is central to the game's mechanics, determining the success or failure of a wide range of actions. Whenever a creature attempts an action with a chance of failure, it rolls a d20 and adds any applicable modifiers. The result is compared to a target number to see if the attempt succeeds.
-
-The term d20 Test encompasses the three main d20 rolls of the game: attack rolls – which are rolled against the target's **Armour Class** (**AC**), ability checks – which are rolled against the check's Difficulty Class (DC), and saving throws – which are rolled against a save DC
+The term d20 Test encompasses the three main d20 rolls of the game: :d20-attack:**Attack Roll**s – which are rolled against the target's **Armour Class** (**AC**), :d20-check:**Ability Check** – which are rolled against the check's Difficulty Class (DC), and :d20-save:**Saving Throws** – which are rolled against a save DC
 
 ### List of d20 Tests
 
 #### :d20-attack:{ .lg } Attack Rolls
 
+When a creature attacks a target, it makes an :d20-attack:**Attack Roll** against the target's AC to determine whether the attack is a hit or a miss. If the attack is a hit, it generally deals damage, and the attacker rolls for damage.
+
+Creatures generally make their attacks with their equipped weapon (including unarmed), but some spells – such as a Warlock's [Eldritch Blast](../spells/cantrip.md#eldritch-blast) – require the caster to make spell attack rolls.
+
+!!! quote ""
+
+    <p style="text-align: center;"> D20 + Ability Modifier + Proficiency Bonus (if proficient) + Other Bonuses (if applicable) </p>
+
 *See also [Making an Attack]*
 
 [making an attack]: ./combat/making-an-attack.md
-  
-When a creature attacks a target, it makes an attack roll against the target's AC to determine whether the attack is a hit or a miss. If the attack is a hit, it generally deals damage, and the attacker rolls for damage. 
-Creatures generally make their attacks with their equipped weapon (including unarmed), but some spells – such as a Warlock's Eldritch Blast – require the caster to make spell attack rolls.
-
-| :die-d20:**ATTACK ROLLS** |
-|:---:|
-| :die-d20: d20 + Ability Modifier + Proficiency Bonus (if proficient) + Other Bonuses (if applicable) |
-
-#### :d20-save:{ .lg } Saving Throws
-  
-Traps, spells, conditions, and other sources of harm may allow a creature a chance to avoid or reduce their effect, known as a saving throw or save. To attempt a save, a creature rolls a d20 against a target save DC.
-
-| :die-d20:**SAVING THROWS** |
-|:---:|
-| :die-d20: d20 + Ability Modifier + Proficiency Bonus (if proficient) + Other Bonuses (if applicable) |
 
 #### :d20-check:{ .lg } Ability Checks
   
-An :d20-check: **ability check** is an attempt to succeed at a specific task, and is rolled against a **Difficulty Class** (**DC**) set by the game for that task. If the final result of the roll equals or exceeds the DC, the attempt is successful.
+An :d20-check:**Ability Check** is an attempt to succeed at a specific task, and is rolled against a **Difficulty Class** (**DC**) set by the DM for that task. If the final result of the roll equals or exceeds the DC, the attempt is successful.
 
-| :die-d20:**ABILITY CHECK** |
-|:---:|
-| :die-d20: d20 + Ability Modifier |
+!!! quote ""
 
-!!! info "Dificulty Class (DC)"
+    <p style="text-align: center;"> D20 + Ability Modifier </p>
 
-    A Difficulty Class (or DC) is a number rolled against when making ability checks or saving throws. It represents how difficult a task is to accomplish. The number is determined by the the task attempted – or in the case of saves – the spell, condition, or action that has to be overcome.
+For every :d20-check:**Ability Check**, the DM decides which of the six abilities is relevant to the task at hand and the difficulty of the task, represented by a [Difficulty Class]. The more difficult a task, the higher its DC.
+
+#### :d20-save:{ .lg } Saving Throws
+  
+Traps, spells, conditions, and other sources of harm may allow a creature a chance to avoid or reduce their effect, known as a saving throw or save. To attempt a save, a creature rolls a d20 against a target Save [DC].
+
+!!! quote ""
+
+    <p style="text-align: center;"> D20 + Ability Modifier + Proficiency Bonus (if proficient) + Other Bonuses (if applicable) </p>
 
 ### Natural 1s and 20s
 
@@ -69,22 +70,19 @@ Rolling a 1 or 20 on a d20 roll is referred to as a natural 1 or natural 20. Whe
 
 ### Advantage & Disadvantage
 
-A number of situations and conditions give creatures :d20-adv:**Advantage** or :d20-disadv:**Disadvantage** on d20 rolls. 
+A number of situations and conditions give creatures :d20-adv:**Advantage** or :d20-disadv:**Disadvantage** on d20 rolls.
 
 A creature that makes a roll with :d20-adv:**Advantage** rolls two d20 dice separately, and uses the higher of the two results. If they have :d20-disadv:**Disadvantage**, they choose the lower of the two.
 
 When multiple instances of :d20-adv:**Advantage** or :d20-disadv:**Disadvantage** occcurs, each instance beyond the first adds a `+2` or `-2` modifier to the roll, respectively.^HB^
 
-## Ability checks
-Ability checks are dice rolls made to determine whether a creature succeeds or fails at a task. They are rolled against the task's Difficulty Class (DC). Each ability check is made using one of the six abilities in the game, and creatures add an ability's corresponding ability score modifier to the results of ability checks they make.
+### Difficulty Class
 
-For every ability check, the DM decides which of the six abilities is relevant to the task at hand and the difficulty of the task, represented by a Difficulty Class. The more difficult a task, the higher its DC. 
-
-The Typical Difficulty Classes table shows the most common DCs.
+A Difficulty Class (or DC) is a number rolled against when making ability checks or saving throws. It represents how difficult a task is to accomplish. The number is determined by the the task attempted – or in the case of saves – the spell, condition, or action that has to be overcome.
 
 | Task Difficulty | DC |
 | --- | :-: |
-| Very easy | 5 | 
+| Very easy | 5 |
 | Easy | 10 |
 | Medium | 15 |
 | Hard | 20 |
@@ -97,15 +95,16 @@ Ability checks are usually made using a specified skill. Skills are specific are
 
 Characters add their proficiency bonus to any ability checks they make using skills they are proficient in.
 
-| **:ability-str:{ .lg  } Strength** | **:ability-dex:{ .lg  } Dexterity** | **:ability-int:{ .lg  } Intelligence** | **:ability-wis:{ .lg  } Wisdom** | **:ability-cha:{ .lg  } Charisma** |
+| | | ABILITIES |  | |
 |:---:|:---:|:---:|:---:|:---:|
+| **:ability-str:{ .lg  } Strength** | **:ability-dex:{ .lg  } Dexterity** | **:ability-int:{ .lg  } Intelligence** | **:ability-wis:{ .lg  } Wisdom** | **:ability-cha:{ .lg  } Charisma** |
 | [Athletics] | [Acrobatics] | [Arcana] | [Animal Handling] | [Deception] |
 |  | [Sleight of Hand] | [History] | [Insight] | [Intimidation] |
 |  | [Stealth] | [Investigation] | [Medicine] | [Performance] |
 |  |  | [Nature] | [Perception] | [Persuasion] |
 |  |  | [Religion] | [Survival] |  |
 
-??? question "Constitution Ability Check?"
+??? question "Constitution Ability Checks"
 
     Constitution checks are uncommon, and no skills apply to Constitution checks, because the endurance this ability represents is largely passive rather than involving a specific effort on the part of a character or monster.
 
@@ -161,12 +160,11 @@ A passive check is a special kind of ability check that doesn't involve any die 
 
 Here's how to determine a character's total for a passive check:
 
-| PASSIVE CHECK |
-|:--:|
-|10 + all modifiers that normally apply to the check|
+!!! quote ""
 
+    <p style="text-align: center;"> 10 + Ability Modifier + Proficiency Bonus (if proficient) + Other Bonuses (if applicable) </p>
 
-If the character has :d20-adv:**Advantage** on the check, add 5. For :d20-disadv:**Disadvantage**, subtract 5. The game refers to a passive check total as a score.
+If the character has :d20-adv:**Advantage** on the check, add 5. For :d20-disadv:**Disadvantage**, subtract 5. The game refers to a passive check total as a score. Only one instance would apply.
 
 For example, if a 1st-level character has a Wisdom of 15 and proficiency in Perception, he or she has a passive Wisdom (Perception) score of 14.
 
@@ -185,3 +183,6 @@ When a number of individuals are trying to accomplish something as a group, the 
 To make a group ability check, everyone in the group makes the ability check. If at least half the group succeeds, the whole group succeeds. Otherwise, the group fails.
 
 Group checks don't come up very often, and they're most useful when all the characters succeed or fail as a group. For example, when adventurers are navigating a swamp, the DM might call for a group Wisdom (Survival) check to see if the characters can avoid the quicksand, sinkholes, and other natural hazards of the environment. If at least half the group succeeds, the successful characters are able to guide their companions out of danger. Otherwise, the group stumbles into one of these hazards.
+
+[Difficulty Class]: #difficulty-class
+[DC]: #difficulty-class
