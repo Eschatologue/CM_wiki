@@ -1,6 +1,6 @@
 # London
 
-The **Renewed Empire of Albion**, officially called **Albion** and commonly known as **London**, is a country located in the northwest of Antares. It is the new beating heart of the British Empire, nestled within what was once a verdant forest claimed by the elves. London stands as a beacon of prosperity and military might, earning its place as one of Antares' most influential and formidable nations.
+The **British Empire**, officially called **Albion** and commonly known as **London**, is a country located in the northwest of Antares. It is the new beating heart of the British Empire, nestled within what was once a verdant forest claimed by the elves. London stands as a beacon of prosperity and military might, earning its place as one of Antares' most influential and formidable nations.
 
 ## Background
 
@@ -26,9 +26,9 @@ In a desperate final move, the British breached one of the most sacred and prote
 
 ### Society
 
-The culture and society of London can often be seen as eclectic to other nations and visitors. While most nations have adapted an inflated and optimistic view of their own greatness, London is the stark opposite, organized around a pessimistic outlook on the world and its people. 
+The culture and society of London can often be seen as eclectic to other nations and visitors. While most nations have adapted an inflated and optimistic view of their own greatness, London is the stark opposite, organised around a pessimistic outlook on the world and its people. 
 
-London is a byproduct of perpetual warfare that constantly threatens its existence. Some historians from London have said that the nation has not experienced any period of peace for the past two centuries, not even including the time before London arrived in Antares.
+London is a byproduct of perpetual warfare that constantly threatens its existence. Some historians from London have said that the nation has not experienced any period of peace for the past two centuries, not even including the time after London arrived in Antares.
 
 As a consequence, instead of trusting in everyone's better nature, it relies more on the sword of the state to keep everyone in line. Citizen participation in the functioning of the state is mandatory, and children are even raised from a young age to view their responsibilities to the social whole as more important than their individual desires.
 
