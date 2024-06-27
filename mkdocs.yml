@@ -4,9 +4,10 @@ site_name: Crown & Misery Wiki
 # TOC and Orders
 nav:
   - Lore:
-    - lore/index.md
-    - Geography and Geopolitics: lore/geography.md
-    - Life in Antares: lore/life.md
+    - Antares: 
+      - lore/antares/index.md
+      - Nation:
+        - London: lore/antares/nation/london.md
     - The Warp:
       - lore/warp/index.md
       - Warp Storm: lore/warp/warp-storm.md

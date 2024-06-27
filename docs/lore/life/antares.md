@@ -1,3 +1,5 @@
+# Life in Antares
+
 ## Biology
 
 Antares is predominantly inhabited by various races, usually humanoids referred to as *Ordinaire* or Ordinary. This group includes a combination of various humanoids such as Elves, Dwarves, Halflings, Gnomes, and the most common one—Humans. However, humans hailing from London are categorized differently. Gallian scholars refer to these subgroups of humans as *Envahisseurs* or "Invaders." 
