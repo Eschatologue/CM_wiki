@@ -34,7 +34,7 @@ For the first time in centuries, the dwarven lords worked together to retake Myr
 
 *Main Article: [Dwarvish-London War](https://example.com)*
 
-The Dwarvish-London War, also called **The Great War**, was a decade-long conflict that nearly pushed erased Myrkheimr off the map. Although short compared to other wars fought by the dwarves, it is notable for the complete breakdown of political relations between Myrkheimr and the newly established London.
+The Dwarvish-London War, also called **The Great War**, was a decade-long conflict that nearly erased Myrkheimr off the map. Although short compared to other wars fought by the dwarves, it is notable for the complete breakdown of political relations between Myrkheimr and the newly established London.
 
 At that time, Myrkheimr was arguably the strongest surviving nation-state in Antares before contact and communication were established with London. Myrkheimr had been undergoing a series of reforms that resulted in an expansionist policy, further fueled by the population's desire to reestablish Myrkheimr as the sole superpower, usurping the position previously held by the now-fallen Elven Empire.
 
