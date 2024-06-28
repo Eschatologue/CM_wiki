@@ -14,7 +14,7 @@ Antares is dominated by vast arid deserts and lush plains. These fertile regions
 
 ### Mountain Ranges
 
-A major mountain range spans the continent from north to south, passing through the dwarven nation of Mykrrheim. This natural barrier is a defining feature of Antares and plays a crucial role in the continent's geography.
+A major mountain range spans the continent from north to south, passing through the dwarven nation of Myrkheimr. This natural barrier is a defining feature of Antares and plays a crucial role in the continent's geography.
 
 ### The Underdark
 

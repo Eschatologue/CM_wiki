@@ -54,7 +54,7 @@
 ---
 
 ## Mountain Dwarves
-*Also known as 'Shield Dwarves', they are strong and hardy, accustomed to a difficult life in rugged terrain and probably on the tall side (for a dwarf). They have a very strong martial tradition, resulting in a majority of Mykrrheim's Fjallavörðurs originating from this particulars subrace of dwarves.*
+*Also known as 'Shield Dwarves', they are strong and hardy, accustomed to a difficult life in rugged terrain and probably on the tall side (for a dwarf). They have a very strong martial tradition, resulting in a majority of Myrkheimr's Fjallavörðurs originating from this particulars subrace of dwarves.*
 
 :material-shield-plus:{ .lg .middle } **Dwarven Armour Training**  
 &ensp;&ensp;&ensp; You have proficiency with [Light Armour](../../equipment/armour/index.md#light-armour) and [Medium Armour](../../equipment/armour/index.md#medium-armour).

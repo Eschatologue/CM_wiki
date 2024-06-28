@@ -9,7 +9,7 @@ Celestial has a unique form of writing, it consists of complex sigils and pictog
 
 Some vagrants, capable of writing Celestial either by copying artifacts they stole or through insanity driven by studying these sigils, sometimes commit accidental (or intentional) arson by etching the language onto walls. Such individuals are swiftly dealt with by special law enforcement units dedicated to this crime, present in every nation.
 
-Celestial inscriptions can be found etched on many ruins across the surface and underground sections of Antares. These writings appear on ancient artifacts, tablets, and sometimes books. The stone pillars of the Northern Gate bear such inscriptions, and the ruins beneath the Mykrrheim mountains and the Underdark often feature these writings as well.
+Celestial inscriptions can be found etched on many ruins across the surface and underground sections of Antares. These writings appear on ancient artifacts, tablets, and sometimes books. The stone pillars of the Northern Gate bear such inscriptions, and the ruins beneath the Myrkheimr mountains and the Underdark often feature these writings as well.
 
 Little knowledge exists and many rumors surround Celestial. Few dare to study it, often giving it no more than a passing glance. Approaching, reading, and especially comprehending Celestial typically results in severe injuries, ranging from varying degrees of burn wounds and nightmares to insanity and, most often, death.
 
@@ -17,7 +17,7 @@ Little knowledge exists and many rumors surround Celestial. Few dare to study it
 
 > *"What does 'Out of all, one must pay the price' mean? What price?? I'm not paying taxes to whoever wrote these things! Oh [elven curse words]!! The paper!! It's burning!!!" - An Elven Scholar*
 
-In every part of the world, there are those who are clever, foolish, or perhaps both, willing to study Celestial! Each nation calls them by different names: Scholars of Correspondence in London, Psykers in Mykrrheim and Valinor, Blemished Ones in Gallia, and Heretics in Soterrano. Despite their different titles, these scholars share a common fate: they tend to randomly combust after studying the language.
+In every part of the world, there are those who are clever, foolish, or perhaps both, willing to study Celestial! Each nation calls them by different names: Scholars of Correspondence in London, Psykers in Myrkheimr and Valinor, Blemished Ones in Gallia, and Heretics in Soterrano. Despite their different titles, these scholars share a common fate: they tend to randomly combust after studying the language.
 
 Driven by an insatiable curiosity, they will frantically study anything even remotely resembling Celestial. Scholars of various fields often place bets on which of these foolhardy individuals will explode first.
 
