@@ -6,7 +6,7 @@ nav:
   - Lore:
     - Antares: 
       - lore/antares/index.md
-      - Nation:
+      - Nation-states:
         - London: lore/antares/nation/london.md
         - Mykrrheim: lore/antares/nation/mykrrheim.md
     - The Warp:

@@ -2,12 +2,6 @@
 
 In the present era, Antares is home to merely **six** surviving nations, leaving vast stretches of uncharted and unexplored territories beyond their borders. This charted expanse encompasses diverse landmasses, each characterized by distinct biomes and ecological patterns.
 
-<figure markdown="span">
-
-  ![Image title](https://raw.githubusercontent.com/Eschatologue/CM_wiki/main/assets/antares-map.png)
-
-</figure>
-
 ## Overview
 
 Antares is a continent of contrasts, featuring expansive deserts, fertile plains, towering mountain ranges, and dense rainforests. The geography of Antares profoundly shapes its geopolitical landscape, dictating the survival and prosperity of its six remaining nations. The dangerous wildlife that inhabits these untamed lands makes much of the fertile regions uninhabitable, forcing populations to reside within the fortified Citadel cities.

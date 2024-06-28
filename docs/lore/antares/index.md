@@ -4,11 +4,17 @@ The Crown and Misery campaign takes place in the post-apocalyptic, dystopian sci
 
 ## Etymology
 
-The word "Antares" originated from the brightest star in the constellation of Scorpius. It has the Bayer designation α Scorpii, which is Latinised to **Alpha Scorpii**. Often referred to as "the heart of the scorpion". Its traditional name however, derives from the Ancient Greek Ἀντάρης, meaning "rival to Ares".
+The word "Antares" originated from the brightest star in the constellation of Scorpius. It has the Bayer designation α **Scorpii**, which is Latinised to **Alpha Scorpii**. Its traditional name however, derives from the Ancient Greek **Ἀντάρης**, meaning **"rival to Ares"**.
 
 ## Geography
 
 Antares is a continent of contrasts, featuring expansive deserts, fertile plains, towering mountain ranges, and dense rainforests. The geography of Antares profoundly shapes its geopolitical landscape, dictating the survival and prosperity of its six remaining nations. The dangerous wildlife that inhabits these untamed lands makes much of the fertile regions uninhabitable, forcing populations to reside within the fortified Citadel cities.
+
+<figure markdown="span">
+
+  ![Image title](https://raw.githubusercontent.com/Eschatologue/CM_wiki/main/assets/antares-map.png)
+
+</figure>
 
 ### Deserts and Plains
 

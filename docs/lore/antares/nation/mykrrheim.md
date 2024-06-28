@@ -10,7 +10,7 @@ Once infamous for its inhabitants' quirky language, specialized products, and co
 
 Mykrrheim was once a land inhabited by fragmented dwarven clans, plagued by constant conflicts and power struggles. Each clan had its own 'mountain' territory, with wars fought underground or through swift maneuvers across jagged peaks and ravine edges. Over time, this combat style was refined, forming the unique capabilities of the dwarves.
 
-During this period, the Midgard mountain ranges (now renamed to Mykrrheim mountains) were locked in a state of constant civil wars and social upheavals. This era was characterized by the overthrow of superior powers by subordinate ones, with traditional master-servant relationships breaking down. Vassals eliminated lords, internal clan conflicts over leadership were rampant, and frequent rebellions and puppet leaderships by branch families against the lord's family were common. Local rebellions against said lords rose to power, continuing the cycle for centuries.
+During this period, the Mykrrheim mountains were locked in a state of constant civil wars and social upheavals. This era was characterized by the overthrow of superior powers by subordinate ones, with traditional master-servant relationships breaking down. Vassals eliminated lords, internal clan conflicts over leadership were rampant, and frequent rebellions and puppet leaderships by branch families against the lord's family were common. Local rebellions against said lords rose to power, continuing the cycle for centuries.
 
 ### The First Maelstrom
 
@@ -28,16 +28,18 @@ Eventually, the cultural erosion became evident. Dwarven leadership attempted to
 
 For the first time in centuries, the dwarven lords worked together to retake Mykrrheim from the elves. Using the elves' own lessons in dirty politics, leveraging their manpower and funding, these three houses seized key positions and rapidly scaled up to open rebellion. Known as "The Forest Culling," this period of history was marked by the mass expulsion and extermination of elves within Mykrrheim. The brutality of this event is still debated, but it is argued that without it, the dwarves might have been too late to reclaim control.
 
-## Modern Mykrrheim
+## Pre-modern Mykrrheim
 
-### Economic Powerhouse
+### The Dwarvish-London War
 
-Mykrrheim has rapidly emerged as a thriving economic powerhouse. The nation has established itself as a relentless supplier of raw materials, catering to the needs of various countries across Antares. The dwarves' expertise in minerals and mining has led to the perfection of resource extraction and refinement.
+*Main Article: [Dwarvish-London War](https://example.com)*
 
-### Technological Advancements
+The Dwarvish-London War, also called **The Great War**, was a decade-long conflict that nearly pushed erased Mykrrheim off the map. Although short compared to other wars fought by the dwarves, it is notable for the complete breakdown of political relations between Mykrrheim and the newly established London.
 
-Technological advancements, bolstered through close partnerships with London, have further enhanced Mykrrheim's capabilities. The nation incorporates advanced machinery and innovative techniques, maintaining its competitive edge in the global market.
+At that time, Mykrrheim was arguably the strongest surviving nation-state in Antares before contact and communication were established with London. Mykrrheim had been undergoing a series of reforms that resulted in an expansionist policy, further fueled by the population's desire to reestablish Mykrrheim as the sole superpower, usurping the position previously held by the now-fallen Elven Empire.
 
-### Cultural Revival
+This period was marked by political maneuvering and constant skirmishes with the isolated remnants of the old Elven Empire. The critical error occurred when Mykrrheim attempted to make the newly established London a vassal state, not realizing it was a different political entity at that time. This attempt was made mockingly, in the style of the high elves. By the time Mykrrheim realized its blunder, it was too late.
 
-Despite past conflicts, Mykrrheim has experienced a cultural revival. The unity forged through hardship has strengthened the nation's identity. The dwarves continue to honor their traditions while embracing modernity, creating a unique blend of old and new that defines contemporary Mykrrheim.
+The ensuing war cost Mykrrheim dearly. Although the conflict was short compared to the cultural erosion experienced before The Forest Culling, it saw multiple strongholds (now called Citadel Cities) fall into London's hands. During this period, Mykrrheim was also shocked by the technologically superior implements of London's war machine, including steel birds (airplanes), iron elephants (tanks), steel leviathans (dreadnoughts), and firearms. Despite having a numerically superior army, Mykrrheim was outplayed, outmaneuvered, and outgunned by London's forces.
+
+The war ended when Nidavellir (Mykrrheim's capital) officially surrendered. Though Mykrrheim retained its sovereignty, London's presence became pervasive in Mykrrheim. This brought much-needed London technology to the nation, but questions remain about whether this marks another period of cultural erosion.
