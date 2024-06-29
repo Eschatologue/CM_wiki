@@ -31,6 +31,7 @@ nav:
       - Death's Door and Resove: gameplay/homebrew/resolve.md
       - Inventory System: gameplay/homebrew/inventory.md
       - Fishing and Angling: gameplay/homebrew/fishing.md
+    - DM Related: dm/tools.md
   - Chartacter Creation:
     - Quickstart: character-creation/quickstart.md
     - Classes: character-creation/classes.md
