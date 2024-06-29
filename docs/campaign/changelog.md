@@ -18,7 +18,8 @@
     - added **Ringing Blows** and **Excessive Force** to compensate for the lack of ASI increase
 
 ### Wiki Changes
-- Imported all Spells from cantrip to 9th-level
+- Imported all Spells from cantrip to 9th-level.
+- Added more Lore.
 
 ### Spell Changes
 - Added new homebrew spell: [Shackles of Pain](../spells/3rd-level.md#shackles-of-painhb)

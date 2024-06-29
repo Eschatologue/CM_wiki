@@ -6,7 +6,7 @@
 .md-typeset {
     text-justify: auto;
     font-weight: 300;
-    font-size: 12px;
+    font-size: 13px;
 }
 
 .md-typeset strong {
@@ -53,7 +53,7 @@
 
 /* H5 - Title beginning reserved for tables */
 .md-typeset h5 {
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 400;
     text-transform: none;
     margin-bottom: 2px;

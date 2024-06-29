@@ -6,9 +6,9 @@ nav:
   - Lore:
     - Antares: 
       - lore/antares/index.md
-      - Nation:
+      - Nation-states:
         - London: lore/antares/nation/london.md
-        - Mykrrheim: lore/antares/nation/mykrrheim.md
+        - Myrkheimr: lore/antares/nation/myrkheimr.md
     - The Warp:
       - lore/warp/index.md
       - Warp Storm: lore/warp/warp-storm.md
@@ -31,6 +31,7 @@ nav:
       - Death's Door and Resove: gameplay/homebrew/resolve.md
       - Inventory System: gameplay/homebrew/inventory.md
       - Fishing and Angling: gameplay/homebrew/fishing.md
+    - DM Related: dm/tools.md
   - Chartacter Creation:
     - Quickstart: character-creation/quickstart.md
     - Classes: character-creation/classes.md
@@ -83,8 +84,6 @@ nav:
       - Ydastriel Khaine: campaign/player-chr/ydastriel-khaine.md
       - Eris Decrat: campaign/player-chr/eris-dekrat.md
     - Changelog: campaign/changelog.md
-  - DM Related: 
-    - Tools: dm/tools.md
 # Author
 site_author: Eschatologue
 site_description: >-

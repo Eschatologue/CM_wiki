@@ -30,17 +30,7 @@ When you sense magic in this way, as an :rsc-action:**Action**, you can focus yo
 
 If the object or creature is hidden from divination magic, such as a *nondetection* spell, it appears as if it is mundane or it cannot cast spells.
 
-You can use this feature a number of times equal to half your rogue level (rounded up), when you have no uses remaining, you can expend a spell slot and regain usage equal to the level of spell slot expended.
-
-## Spellbreaker’s Mark - Level 3
-
-When you hit a creature with an attack roll, you can expend one use of your ^^Clairvoyance^^ and place a Spellbreaker’s Mark on the target, designating it as your :fontawesome-solid-location-crosshairs:**Mark**. This Mark is only visible to you and you gain the following benefits against your :fontawesome-solid-location-crosshairs:**Mark**:
-
-- You learn your :fontawesome-solid-location-crosshairs:**Mark** spellcasting ability, if any, and the level of the highest level spell it can cast.
-- Your :fontawesome-solid-location-crosshairs:**Mark** has :d20-disadv:**Disadvantage** on :d20-save: Constitution **Saving Throw** to maintain concentration on any spells.
-- Your :fontawesome-solid-location-crosshairs:**Mark** provokes opportunity attack when it attempts to cast a spell while it is within your reach.
-
-The :fontawesome-solid-location-crosshairs:**Mark** lasts for 1 hour and you can move the **Mark** using a :material-star-four-points: **Reaction**. If your :fontawesome-solid-location-crosshairs:**Mark** is reduced to 0 hit point, you can move the :fontawesome-solid-location-crosshairs:**Mark** to a new creature that you can see (no action required).
+You can use this feature a number of times equal to your proficiency bonus before needing a long rest.
 
 ## Spellcasting - Level 3
 
@@ -53,21 +43,21 @@ The weave of magic courses through you, yet you've never bothered to learn how t
 | 3rd | 3 | 3 | 3 | I |
 | 4th | 3 | 3 | 3 | I |
 | 5th | 3 | 3 | 3 | II |
-| 6th | 3 | 4 | 4 | II |
+| 6th | 3 | 3 | 3 | II |
 | 7th | 4 | 4 | 4 | III |
 | 8th | 4 | 4 | 4 | III |
-| 9th | 4 | 5 | 5 | IV |
-| 10th | 4 | 5 | 5 | IV |
-| 11th | 5 | 5 | 5 | V |
-| 12th | 5 | 6 | 6 | V |
-| 13th | 5 | 6 | 6 | V |
-| 14th | 5 | 6 | 6 | V |
-| 15th | 6 | 7 | 6 | V |
-| 16th | 6 | 7 | 6 | V |
-| 17th | 6 | 7 | 6 | V |
-| 18th | 6 | 8 | 6 | V |
-| 19th | 6 | 8 | 6 | V |
-| 20th | 6 | 8 | 6 | V |
+| 9th | 4 | 4 | 4 | IV |
+| 10th | 4 | 4 | 4 | IV |
+| 11th | 4 | 4 | 5 | V |
+| 12th | 4 | 5 | 5 | V |
+| 13th | 5 | 5 | 5 | V |
+| 14th | 5 | 5 | 5 | V |
+| 15th | 6 | 5 | 6 | V |
+| 16th | 6 | 6 | 6 | V |
+| 17th | 6 | 6 | 6 | V |
+| 18th | 6 | 6 | 6 | V |
+| 19th | 6 | 6 | 6 | V |
+| 20th | 6 | 6 | 6 | V |
 
 ### Cantrip
 
@@ -96,9 +86,9 @@ You know three 1st-level spells of your choice from this feature's [spell list],
 
 *You've learned how to break the normal rules and conventions of casting spells, bending them to your will and channeling them through your weapon strikes*
 
-Once per turn when you make an attack that triggers Sneak Attack, you can simultaneously cast a spell to be channeled through it.
+Once per turn when you make an attack that adds your Sneak Attack damage, you can simultaneously cast a spell to be channeled through it.
 
-To be channeled using a Dekrat's Special:material-trademark: in this way, the spell must met the following requirements:
+To be channeled this way, the spell must met the following requirements:
 
 - The Sorcerer spell must have a casting time of an :rsc-action:**Action**.
 - The Sorcerer spell must require only a single spell :d20-attack:**Attack Roll** or force its target to make a :d20-save:**Saving Throw**.
@@ -115,13 +105,27 @@ If your attack misses, the spell fails and has no effect. On a hit, the spell ta
 
 - :fontawesome-solid-crosshairs: **Spell Attacks.** If the spell requires a spell attack roll, it instantly take effect when you hit with a weapon attack.
 
-## The People’s Eyebrow - Level 6
+## Spellbreaker’s Mark - Level 3
+
+You learn the [Hunter's Mark] spell, and you can cast it at will, without expending a spell slot. For you this spell does not require concentration.
+
+Moroever, you gain additional benefits against creature affected by this spell:
+
+- You learn the creature's spellcasting ability (Intelligence, Wisdom, or Charisma), if any, and the level of the highest level spell it can cast.
+- The creature has :d20-disadv:**Disadvantage** on :d20-save: Constitution **Saving Throw** to maintain concentration on any spells.
+- You gain an additional way to use your Sneak Attack: You can add your Sneak Attack damage the damage roll on your weapon attack against creature affected by this spell as long as you don't have :d20-disadv: **Disadvantage** on the attack. 
+
+## The People’s Eyebrow - Level 5
 
 *With a simple raise of your eyebrow, you possess the uncanny ability to disrupt and foil a spellcaster's magic.*
 
 When you see a creature casting a spell or teleporting within 60 feet of you, you can use a :material-star-four-points: **Reaction** to expend a spell slot to try magically foils it.
 
 If the spell was cast at a level equal to the level of the spell slot you expended or lower, the spell fails and has no effect. If it was cast at a level higher than the slot you expended, make a :die-d20:Charisma **Ability Check** against DC of 10 + the level of the spell, the spell fails and has no effect when you succeed the check.
+
+## Resurgence - Level 7
+
+When you hit a creature affected by [Hunter's Mark], you can choose to immediately end the spell and regain one of your expended spell slot. You can do this a number of times equal to half of your Proficiency Bonus (round down) before requiring a long rest.
 
 ## Eris' Spell List
 
@@ -160,7 +164,6 @@ Spells marked with ^DS^ means that the spell fufill the prerequisites to be chan
       - [Faerie Fire]^DS^
       - [Gift of Alacrity]
       - [Grease]^DS^
-      - [Hunter's Mark]
       - [Ice Knife]^DS^
       - [Shield]
       - [Thunderwave]^DS^

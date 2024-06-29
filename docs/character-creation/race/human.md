@@ -36,7 +36,7 @@
 
 ### Common Lineage
 
-*The most common human lineage found in Antares, can be found from the tallest peak of Mykrrheim's mountain ranges to the deepest pit of the Underdark.*
+*The most common human lineage found in Antares, can be found from the tallest peak of Myrkheimr's mountain ranges to the deepest pit of the Underdark.*
 
 :dnd-stat-lang:{ .lg .middle } **Languages**  
 &ensp;&ensp;&ensp; You learn *one* additional language of your choice.

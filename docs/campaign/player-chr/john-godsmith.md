@@ -12,21 +12,21 @@ icon: material/fire
 
 **The Joy of Fishing.** You gain Proficiency with [Fishing Supplies](../../equipment/tools/artisan-tools.md#fishing-supplies) if you don't already have it.
 
-## 1st Level: Cold Rage
+## Cold Rage <span style="float:right;"> <small> Level 1 </small> </span>
 
 You've witnessed the ravages of unbridled anger, the toll it takes on the innocent and the cherished. But you are different; even the mightiest of flames can be tamed.
 
 When you use your :fontawesome-solid-hand-fist:**Rage**, instead of flying into a primal ferocity, you instead fall into a chilling silence, your eyes void of all emotion as you prepare to cut through everything with ruthless precision.
 
-## 3rd level: Primordial Conflagration
+## Primordial Conflagration <span style="float:right;"> <small> Level 3 </small> </span>
 
 You have the ability to channel the lethal repercussion of speaking Celestial to your advantage, allowing you to use the curse put on by the heavens to smite your foes!
 
-Whenever you activate your :fontawesome-solid-hand-fist:**Rage**, or once as a :rsc-bonus-action:**Bonus Action** while **raging** you can roll a :die-d12:d12, expending Hit Points equal to the result and enhance your attacks with Primordial Flare for the **Rage** duration. Whenever you hit a creature with a weapon attack that benefits from your :fontawesome-solid-hand-fist:**Rage** damage, the weapon's damage type changes to :material-fire:**Fire** damage and it deals extra :material-fire:**Fire** damage equal to :die-d8:1d8 + your Constitution Modifier.
+Whenever you activate your :fontawesome-solid-hand-fist:**Rage**, or once as a :rsc-bonus-action:**Bonus Action** while **raging** you can roll a :die-d12:d12, expending Hit Points equal to the result and enhance your attacks with Primordial Flare for the **Rage** duration. Whenever you hit a creature with a weapon attack that benefits from your :fontawesome-solid-hand-fist:**Rage** damage, it deals extra :material-fire:**Fire** damage equal to :die-d8:1d8 + your Constitution Modifier.
 
-## 3rd level: Improved Totemic Spirit
+## Improved Totemic Spirit <span style="float:right;"> <small> Level 3 </small> </span>
 
-Choose one of the animal spirits from the list below or from the original list to gain its benefits.
+Choose one of the animal spirits from the list below or from the original list to gain its benefits. You can change your choice when you gain a level in Barbarian class.
 
 ### Totemic Spirit: Bear
     
@@ -88,13 +88,13 @@ The cunning spirit of the Wolf enhances your ability to fight alongside your pac
 
     While :fontawesome-solid-hand-fist:**Raging**, the first creature you hit with an attack on your turn has disadvantage on any attack roll that isn't against you until the start of your next turn.
 
-## 5th level: Flames of Creation
+## Flames of Creation <span style="float:right;"> <small> Level 5 </small> </span>
 
 *In the beginning there was a Fire of Creation. In the end the same flames will rend the world asunder and brought upon new beginning.*
 
 While :fontawesome-solid-hand-fist:**Raging**, when you hit a creature with a class feature that deals :material-fire:Fire damage, it ignores any resistance to :material-fire:Fire damage it have, and if the target is immune, it still take half damage.
 
-## 6th level: Aspect of the Primordials^WIP^
+## Aspect of the Primordials <span style="float:right;"> <small> Level 6 </small> </span>
 
 You gain the aspect of Antares’ primordial Paths, you can either choose from the list below or choose the one from the options of the original Totem Warrior 6th-level feature.
 
@@ -105,3 +105,10 @@ You gain the aspect of Antares’ primordial Paths, you can either choose from t
 - **The Chariot.** When you make a Wisdom (Animal Handling) or Wisdom (Survival) check you can add your Constitution modifier to your roll.
 - **The Hermit.** When you make an Intelligence (Investigation) or Wisdom (Perception) check you can add your Constitution modifier to your roll.
 
+## Turbulent Flames <span style="float:right;"> <small> Level 9 </small> </span>
+
+When you use Reckless Attack while ^^Primordial Conflagaration^^ is active, you can forgo the :d20-adv: **Advantage** on the next :d20-attack: **Attack Roll** you make on your turn using Strength. If the attack hits, the target takes additional :die-d8: 1d8 **Fire** damage and you can cause an additional effect of your choice. You have the following effect options:
+
+- **Meteor Drive.** The target is pushed 15 ft. straight away from you. You can then Move up to half your Speed straight torward the target without provoking opportunity Attack.
+- **Marking Flame.** The target can't become invisible while you are :fontawesome-solid-hand-fist:**Raging**, and its Speed is reduced by 15 ft. until the start of your next turn.
+- **John Jotunnheim.** 

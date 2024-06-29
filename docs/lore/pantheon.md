@@ -33,4 +33,4 @@ Aeginae are leviathans that once lives in Antares. They are the progenitors of a
 | Raijin | The Thunder and Lightning | Tempest and the Storm | Deceased, killed by Karakorum, The Kamikaze |
 | Thabat | The Eternal Guardian | Permanence and Stability | Deceased, caught in a Warp Storm |
 | Xanthous | The Moon | The Night and the Moon | Unknown |
-| Tartarus | The Abyssal Warden | Darkness, Imprisonment, and Abyss | Deceased, killed by Mykrrheim's *Guddomsjeger* |
+| Tartarus | The Abyssal Warden | Darkness, Imprisonment, and Abyss | Deceased, killed by Myrkheimr's *Guddomsjeger* |
