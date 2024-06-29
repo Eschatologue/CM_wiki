@@ -81,7 +81,7 @@ nav:
       - campaign/player-chr/index.md
       - John K. Godsmith: campaign/player-chr/john-godsmith.md
       - Ydastriel Khaine: campaign/player-chr/ydastriel-khaine.md
-#     - Eris Decrat: campaign/player-chr/eris-dekrat.md
+      - Eris Decrat: campaign/player-chr/eris-dekrat.md
     - Changelog: campaign/changelog.md
   - DM Related: 
     - Tools: dm/tools.md
