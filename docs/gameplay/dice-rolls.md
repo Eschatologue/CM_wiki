@@ -8,9 +8,9 @@ search:
 
 # Dice Rolls
 
-<p style="text-align: center;"> "The ~~Arcana~~ Dice is the means by which all is revealed" </p>
-
 Dice rolls are the core mechanics of D&D. In every situation, dice are rolled to determine the outcome of a myriad of situations, such as whether or not a character will succeed at using a particular skill, if an attack will land and how much damage it will do, and even when the DM feels like adding a little unpredictability.
+
+> "The ~~Arcana~~ Dice is the means by which all is revealed"
 
 ## Dice Notation
 
