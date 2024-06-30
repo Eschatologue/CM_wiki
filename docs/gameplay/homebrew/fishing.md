@@ -44,14 +44,14 @@ You can reroll the same die more than once. After rerolling, keep each final die
 
 ### Calculating Final Result
 
-Before summing your results, check if you rolled a special result. Multiply your sum by the corresponding modifier in the special result table. Sum all the dice you rolled, then multiply the total by the appropriate multiplier from the table. The final result is rounded up. You can only benefit from one special result.
+Before summing your results, check if you rolled a special result. Multiply your sum by the corresponding modifier in the special result table. Sum all the dice you rolled, then multiply the total by the appropriate multiplier from the table. The final result is ^^rounded up^^. You can only benefit from one special result.
 
 #### Special Result Table
 
 | Special Result | Multiplier | Description | Example |
 |---|:-:|---|:-:|
-| Full House | ×2 | Three dice of one number and two of another. | `3 3 3 5 5` |
 | Three-of-a-kind | ×2 | Three dice of the same number. | `5 5 5 2 4` |
+| Full House | ×2.5 | Three dice of one number and two of another. | `3 3 3 5 5` |
 | Straight | ×3 | Five sequential numbers. | `5 4 3 2 1` |
 | Four-of-a-kind | ×4 | Four dice of the same number. | `2 2 2 2 4` |
 | Five-of-a-kind | ×5 | Five dice of the same number. | `6 6 6 6 6` |

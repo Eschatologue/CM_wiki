@@ -8,7 +8,7 @@
 :   Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80
 #### :material-move-resize-variant: Size
 - **Creature Size.** Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is **Medium**
-#### :dnd-stat-speed: Speed
+#### :rsc-movement: Speed
 :   You are considered to have *Standard* speed; which is 30 ft.
 #### :material-translate: Languages
 :   You can speak, read, and write *Common* and *Draconic*.
@@ -34,7 +34,7 @@ The damage of your Breath Weapon increases with your character level:
 ##### Breath Weapon Table
 | **COST** | **RANGE/AoE** | **ATTACK/SAVE** | **DAMAGE/EFFECT** |
 |:---:|:---:|:---:|:---:|
-| :rsc-action:**Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :material-vector-line:line | :material-shield: DEX Save (half damage on success) | :die-d6: 2d6 :damage-lightning:Lightning |
+| :rsc-action:**Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :weapon-prop-ranged:line | :material-shield: DEX Save (half damage on success) | :die-d6: 2d6 :damage-lightning:Lightning |
 
 #### Damage Resistance
 :   The blood of ancient dragons flow through your veins. You have resistance to :damage-lightning: Lightning damage.
@@ -49,7 +49,7 @@ The damage of your Breath Weapon increases with your character level:
 ##### Breath Weapon Table
 | **COST** | **RANGE/AoE** | **ATTACK/SAVE** | **DAMAGE/EFFECT** |
 |:---:|:---:|:---:|:---:|
-| :rsc-action:**Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :material-vector-line:line | :material-shield: CON Save (half damage on success) | :die-d6: 2d6 :damage-poison:Poison |
+| :rsc-action:**Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :weapon-prop-ranged:line | :material-shield: CON Save (half damage on success) | :die-d6: 2d6 :damage-poison:Poison |
 
 #### Damage Resistance
 :   The blood of ancient dragons flow through your veins. You have resistance to :damage-poison: Poison damage.
@@ -64,7 +64,7 @@ The damage of your Breath Weapon increases with your character level:
 ##### Breath Weapon Table
 | **COST** | **RANGE/AoE** | **ATTACK/SAVE** | **DAMAGE/EFFECT** |
 |:---:|:---:|:---:|:---:|
-| :rsc-action:**Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :material-vector-line:line | :material-shield: CON Save (half damage on success) | :die-d6: 2d6 :damage-cold:Cold |
+| :rsc-action:**Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :weapon-prop-ranged:line | :material-shield: CON Save (half damage on success) | :die-d6: 2d6 :damage-cold:Cold |
 
 #### Damage Resistance
 :   The blood of ancient dragons flow through your veins. You have resistance to :damage-cold:Cold damage.
@@ -79,7 +79,7 @@ The damage of your Breath Weapon increases with your character level:
 ##### Breath Weapon Table
 | **COST** | **RANGE/AoE** | **ATTACK/SAVE** | **DAMAGE/EFFECT** |
 |:---:|:---:|:---:|:---:|
-| :rsc-action:**Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :material-vector-line:line | :material-shield: DEX Save (half damage on success) | :die-d6: 2d6 :damage-fire:Fire |
+| :rsc-action:**Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :weapon-prop-ranged:line | :material-shield: DEX Save (half damage on success) | :die-d6: 2d6 :damage-fire:Fire |
 
 #### Damage Resistance
 :   The blood of ancient dragons flow through your veins. You have resistance to :damage-fire:Fire damage.

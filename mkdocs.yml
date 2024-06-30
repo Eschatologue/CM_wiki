@@ -93,13 +93,14 @@ site_description: >-
 extra_css:
   - css/extra.css
   - css/admonition.css
-  - https://unpkg.com/katex@0/dist/katex.min.css
+
+# - https://unpkg.com/katex@0/dist/katex.min.css
 
 # JavaScript
-extra_javascript:
-  - javascripts/katex.js
-  - https://unpkg.com/katex@0/dist/katex.min.js
-  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+# 3xtra_javascript:
+#  - javascripts/katex.js
+#  - https://unpkg.com/katex@0/dist/katex.min.js
+#  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
 
 
 # Configuration
@@ -142,11 +143,11 @@ markdown_extensions:
   - toc:
       permalink: true
       toc_depth: 4
-
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
   - pymdownx.highlight:
       anchor_linenums: true
-  - pymdownx.arithmatex:
-      generic: true
   - pymdownx.inlinehilite
   - pymdownx.snippets:
       auto_append:

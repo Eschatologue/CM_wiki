@@ -19,7 +19,7 @@
 :dnd-trait-size:{ .lg .middle }  **Size**  
 &ensp;&ensp;&ensp; Tieflings are about the same size and build as humans. Your size is **Medium**.
 
-:dnd-stat-speed:{ .lg .middle } **Speed**  
+:rsc-movement:{ .lg .middle } **Speed**  
 &ensp;&ensp;&ensp; You are considered to have *Standard* speed; which is 30 ft.
 
 :dnd-stat-lang:{ .lg .middle } **Languages**  

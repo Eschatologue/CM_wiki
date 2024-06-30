@@ -19,7 +19,7 @@
 :material-move-resize-variant:{ .lg .middle } **Size**  
 &ensp;&ensp;&ensp; Half-orcs are somewhat larger and bulkier than humans, and they range from 5 to well over 6 feet tall. Your size is **Medium**.
 
-:dnd-stat-speed:{ .lg .middle } **Speed**  
+:rsc-movement:{ .lg .middle } **Speed**  
 &ensp;&ensp;&ensp; You are considered to have *Standard* speed; which is 30 ft.
 
 :dnd-stat-lang:{ .lg .middle } **Languages**  

@@ -1,5 +1,5 @@
 ---
-icon: material/run-fast
+icon: rsc/movement
 ---
 
 # Movement and Positioning (Grid-Based)

@@ -43,25 +43,25 @@ List of Firearms that you can possibly find in this world:
 ##### Firearms: Short-arms
 | name | cost | damage | properties |    
 | :-- | --: | :-- | --- |
-| Pistol, Revolver | 3,000 sp | 1d8 piercing | Ammunition (:material-vector-line:range 60/200), Automatic (1), Light, Reload (7)  |
-| Pistol, Semi-Auto | 2,500 sp | 1d6 piercing | Ammunition (:material-vector-line:range 60/200), Automatic (2), Light, Reload (7) |
+| Pistol, Revolver | 3,000 sp | 1d8 piercing | Ammunition (:weapon-prop-ranged:range 60/200), Automatic (1), Light, Reload (7)  |
+| Pistol, Semi-Auto | 2,500 sp | 1d6 piercing | Ammunition (:weapon-prop-ranged:range 60/200), Automatic (2), Light, Reload (7) |
 
 ##### Firearms: Long-arms
 | name | cost | damage | properties |    
 | :-- | --: | :-- | --- |
-| Rifle, Automatic | 6,500 sp | 1d10 piercing | Ammunition (:material-vector-line:range 90/270), Automatic (3), Heavy, Reload (12), Two-handed |
-| Rifle, Marksmen | 8,000 sp | 2d8 piercing | Ammunition (:material-vector-line:range 180/550), Reload (8), Sighted, Two-handed |
-| Rifle, Semi-Auto | 5,000 sp | 2d6 piercing | Ammunition (:material-vector-line:range 120/320), Automatic (1), Heavy, Reload (6), Two-handed |
-| Shotgun, Over-under | 4,000 sp | 1d10 piercing | Ammunition (:material-vector-line:range 30/50), Automatic (3), Heavy, Reload (2), Scatter(2d8), Two-handed, Special |
-| Shotgun, Pump | 6,000 sp | 1d8 piercing | Ammunition (:material-vector-line:range 50/90), Automatic (3), Heavy, Reload (7), Scatter(1d12), Two-handed |
-| Submachine Gun | 3,500 sp | 1d6 piercing | Ammunition (:material-vector-line:range 40/90), Automatic (4), Reload (30), Two-handed |
+| Rifle, Automatic | 6,500 sp | 1d10 piercing | Ammunition (:weapon-prop-ranged:range 90/270), Automatic (3), Heavy, Reload (12), Two-handed |
+| Rifle, Marksmen | 8,000 sp | 2d8 piercing | Ammunition (:weapon-prop-ranged:range 180/550), Reload (8), Sighted, Two-handed |
+| Rifle, Semi-Auto | 5,000 sp | 2d6 piercing | Ammunition (:weapon-prop-ranged:range 120/320), Automatic (1), Heavy, Reload (6), Two-handed |
+| Shotgun, Over-under | 4,000 sp | 1d10 piercing | Ammunition (:weapon-prop-ranged:range 30/50), Automatic (3), Heavy, Reload (2), Scatter(2d8), Two-handed, Special |
+| Shotgun, Pump | 6,000 sp | 1d8 piercing | Ammunition (:weapon-prop-ranged:range 50/90), Automatic (3), Heavy, Reload (7), Scatter(1d12), Two-handed |
+| Submachine Gun | 3,500 sp | 1d6 piercing | Ammunition (:weapon-prop-ranged:range 40/90), Automatic (4), Reload (30), Two-handed |
 
 ##### Firearms: Heavy Weapons
 | name | cost | damage | properties |    
 | :-- | --: | :-- | --- |
-| Machine Gun | 15,000  sp | 2d8 piercing | Ammunition (:material-vector-line:range 150/600), Automatic (5), Heavy, Mounted, Reload (50), Two-handed |
-| Rocket Launcher | 12,500 sp | 8d6 fire | Ammunition (:material-vector-line:range 150/300), Explosive(15 ft), Heavy, Reload (1), Two-handed |
-| Grenade Launcher | 9,000 sp | 1d4-1 bludgeoning | Ammunition (:material-vector-line:range 120/240), Heavy, Loading, Special |
+| Machine Gun | 15,000  sp | 2d8 piercing | Ammunition (:weapon-prop-ranged:range 150/600), Automatic (5), Heavy, Mounted, Reload (50), Two-handed |
+| Rocket Launcher | 12,500 sp | 8d6 fire | Ammunition (:weapon-prop-ranged:range 150/300), Explosive(15 ft), Heavy, Reload (1), Two-handed |
+| Grenade Launcher | 9,000 sp | 1d4-1 bludgeoning | Ammunition (:weapon-prop-ranged:range 120/240), Heavy, Loading, Special |
 
 ##### Ammunitions
 | name | cost | properties |    

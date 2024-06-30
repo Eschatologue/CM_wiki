@@ -69,8 +69,8 @@ The starting equipment you get from your class includes a collection of useful a
 | [Holy Water] (flask) | 250 SP |
 
 [Acid]: adventuring-gear-desc.md#acid-vial
-[Alchemist's Fire]: adventuring-gear-desc.md#alchemist-fire-flask
-[Antitoxin]: adventuring-gear-desc.md#anti-toxin
+[Alchemist's Fire]: adventuring-gear-desc.md#alchemists-fire-flask
+[Antitoxin]: adventuring-gear-desc.md#antitoxin
 [Ball Bearings]: adventuring-gear-desc.md#ball-bearings-bag-of-1000
 [Caltrops]: adventuring-gear-desc.md#caltrops-bag-of-20
 [Climber's Kit]: adventuring-gear-desc.md#climbers-kit

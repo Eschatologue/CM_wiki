@@ -6,31 +6,13 @@ icon: weapon/pike
 
 You can expect weapons from this category to be available at most shops or with merchants you come across during your adventure.
 
-## Weapon Category
+## Cold Weapon Table
 
-Weapons in D&D are categorized into simple and martial weapons, each serving different roles and offering distinct advantages in combat. Note that this list is non-exhaustive and represents common examples within each category.
+Weapons in D&D are categorized into simple and martial weapons, each serving different roles and offering distinct advantages in combat. 
 
-#### Simple Weapons
+### Simple Weapons
 
 Simple weapons are easy to use and require minimal training, making them accessible to most characters. They are commonly found and typically less expensive than martial weapons.
-
-- **Daggers:** Small, simple, and can be thrown or used in melee combat.
-- **Handaxes:** Can be used for both melee and thrown attacks, making them versatile.
-- **Light Crossbows:** Easy to use ranged weapons that deal consistent damage.
-- **Quarterstaffs:** Versatile melee weapons that can be used with one or two hands.
-- **Spears:** Can be used for both melee and ranged attacks.
-
-#### Martial Weapons
-
-Martial weapons require more training to use effectively but offer greater damage and versatility. These are often preferred by trained warriors and adventurers.
-
-- **Longswords:** Versatile swords that can be used with one or two hands.
-- **Greatswords:** Heavy two-handed swords that deal significant slashing damage.
-- **Rapiers:** Finesse weapons that deal piercing damage with precision.
-- **Battleaxes:** Versatile melee weapons that deal significant damage, can also be thrown.
-- **Longbows:** Powerful ranged weapons with long range and high damage.
-
-## Cold Weapon Table
 
 ##### Simple Weapons: Melee
 | name | cost | damage | properties |    
@@ -42,7 +24,7 @@ Martial weapons require more training to use effectively but offer greater damag
 | Javelin | 5 sp | 1d6 piercing | Thrown (30/120) |
 | Light hammer | 20 sp | 1d4 bludgeoning | Light, thrown (20/60) |
 | Mace | 50 sp | 1d6 bludgeoning | Thrown (20/60)^NEW^ |
-| Flachion^NEW^ | 100 sp | 1d6 slashing | Finesse, versatile (1d8) |
+| Falchion^NEW^ | 100 sp | 1d6 slashing | Finesse, versatile (1d8) |
 | Quarterstaff | 2 sp | 1d6 bludgeoning | Versatile (1d8) |
 | Sickle | 10 sp | 1d4 slashing | Light |
 | Spear | 10 sp | 1d6 piercing | Thrown (20/60), versatile (1d8) |
@@ -51,11 +33,15 @@ Martial weapons require more training to use effectively but offer greater damag
 ##### Simple Weapons: Ranged
 | name | cost | damage | properties |    
 | :-- | --: | :-- | --- |
-| Blowgun^NEW^ | 100 sp | 1 piercing | Ammunition (:material-vector-line:range 25/100), loading |
-| Crossbow, light | 250 sp | 1d8 piercing | Ammunition (:material-vector-line:range 80/320), loading, two-handed |
+| Blowgun^NEW^ | 100 sp | 1 piercing | Ammunition (:weapon-prop-ranged:range 25/100), loading |
+| Crossbow, light | 250 sp | 1d8 piercing | Ammunition (:weapon-prop-ranged:range 80/320), loading, two-handed |
 | Dart | 1 sp | 1d4 piercing | Finesse, thrown (20/60) |
-| Shortbow | 250 sp | 1d6 piercing | Ammunition (:material-vector-line:range 80/320), two-handed |
-| Sling | 10 sp | 1d4 piercing | Ammunition (:material-vector-line:range 30/120) |
+| Shortbow | 250 sp | 1d6 piercing | Ammunition (:weapon-prop-ranged:range 80/320), two-handed |
+| Sling | 10 sp | 1d4 piercing | Ammunition (:weapon-prop-ranged:range 30/120) |
+
+### Martial Weapons
+
+Martial weapons require more training to use effectively but offer greater damage and versatility. These are often preferred by trained warriors and adventurers.
 
 ##### Martial Weapons: Melee
 | name | cost | damage | properties |    
@@ -84,12 +70,12 @@ Martial weapons require more training to use effectively but offer greater damag
 ##### Martial Weapons: Ranged
 | name | cost | damage | properties |    
 | :-- | --: | :-- | --- |
-| Arbalest^NEW^ | 950 sp | 2d6 piercing | Ammunition (:material-vector-line:range 180/360), heavy, loading, mounted, two-handed, sighted |
-| Crossbow, hand | 750 sp | 1d6 piercing | Ammunition (:material-vector-line:range 30/120), light, loading |
-| Crossbow, heavy | 500 sp | 1d10 piercing | Ammunition (:material-vector-line:range 100/400), heavy, loading, two-handed |
-| Crossbow, repeating^NEW^ | 850 sp | 1d8 piercing | Ammunition (:material-vector-line:range 90/360), automatic (1), heavy, reload (6), two-handed |
-| Compound Bow^NEW^ | 850 sp | 1d10 piercing | Ammunition (:material-vector-line:range 100/600), heavy, two-handed |
-| Longbow | 500 sp | 1d8 piercing | Ammunition (:material-vector-line:range 150/600), heavy, two-handed |
+| Arbalest^NEW^ | 950 sp | 2d6 piercing | Ammunition (:weapon-prop-ranged:range 180/360), heavy, loading, mounted, two-handed, sighted |
+| Crossbow, hand | 750 sp | 1d6 piercing | Ammunition (:weapon-prop-ranged:range 30/120), light, loading |
+| Crossbow, heavy | 500 sp | 1d10 piercing | Ammunition (:weapon-prop-ranged:range 100/400), heavy, loading, two-handed |
+| Crossbow, repeating^NEW^ | 850 sp | 1d8 piercing | Ammunition (:weapon-prop-ranged:range 90/360), automatic (2), heavy, reload (6), two-handed |
+| Compound Bow^NEW^ | 850 sp | 1d10 piercing | Ammunition (:weapon-prop-ranged:range 100/600), heavy, two-handed |
+| Longbow | 500 sp | 1d8 piercing | Ammunition (:weapon-prop-ranged:range 150/600), heavy, two-handed |
 | [Net] | 10 sp | - | Special, thrown (5/15) |
 
 ##### Ammunition

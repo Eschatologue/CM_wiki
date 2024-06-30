@@ -8,11 +8,11 @@ icon: dnd/stat-spellcasting
 
 *"Sortilege," a Gallian word used for sorcerers, are unlike wizards or others; they're given the power to weave magic as their birthright. You too are this so-called "Sortilege," but your power doesn't stem from weaving spells, but from binding and severing them—a Spellbreaker.*
 
-## Bonus Proficiencies - Level 1
+## Bonus Proficiencies <span style="float:right;"> <small> Level 1 </small> </span>
 
 You gain proficiency in Intelligence (Arcana) if you don’t already have it. Moreover, you can add your Charisma modifier to an Intelligence (Arcana) check to recall lore about spells, magic items, or magic symbolism related to your nation. 
 
-## Clairvoyance - Level 1
+## Clairvoyance <span style="float:right;"> <small> Level 1 </small> </span>
 
 *You calm yourself down and enter a state of heightened focus, allowing you to sense the weaves of magic that permeate this world.*
 
@@ -32,7 +32,7 @@ If the object or creature is hidden from divination magic, such as a *nondetecti
 
 You can use this feature a number of times equal to your proficiency bonus before needing a long rest.
 
-## Spellcasting - Level 3
+## Spellcasting <span style="float:right;"> <small> Level 3 </small> </span>
 
 The weave of magic courses through you, yet you've never bothered to learn how to cast spells or study them. With the cost of teachers being quite high nowadays, you've forged your own path instead of adhering to your nation's tradition. While it may be seen as an insult to the old ways, your methods are just as, if not more, effective.
 
@@ -82,7 +82,7 @@ Charisma is your spellcasting ability for your spells, since your magic is innat
 
 You know three 1st-level spells of your choice from this feature's [spell list], these spells counts as Sorcerer spells for you and you can change your list of prepared spells when you finish a long rest.
 
-## Dekrat's Special:material-trademark: - Level 3
+## Dekrat's Special:material-trademark: <span style="float:right;"> <small> Level 3 </small> </span>
 
 *You've learned how to break the normal rules and conventions of casting spells, bending them to your will and channeling them through your weapon strikes*
 
@@ -105,7 +105,7 @@ If your attack misses, the spell fails and has no effect. On a hit, the spell ta
 
 - :fontawesome-solid-crosshairs: **Spell Attacks.** If the spell requires a spell attack roll, it instantly take effect when you hit with a weapon attack.
 
-## Spellbreaker’s Mark - Level 3
+## Spellbreaker’s Mark <small> <span style="float:right;"> Level 3  </span> </small>
 
 You learn the [Hunter's Mark] spell, and you can cast it at will, without expending a spell slot. For you this spell does not require concentration.
 
@@ -115,17 +115,19 @@ Moroever, you gain additional benefits against creature affected by this spell:
 - The creature has :d20-disadv:**Disadvantage** on :d20-save: Constitution **Saving Throw** to maintain concentration on any spells.
 - You gain an additional way to use your Sneak Attack: You can add your Sneak Attack damage the damage roll on your weapon attack against creature affected by this spell as long as you don't have :d20-disadv: **Disadvantage** on the attack. 
 
-## The People’s Eyebrow - Level 5
+## The People’s Eyebrow <span style="float:right;"> <small> Level 4 </small> </span>
 
 *With a simple raise of your eyebrow, you possess the uncanny ability to disrupt and foil a spellcaster's magic.*
 
-When you see a creature casting a spell or teleporting within 60 feet of you, you can use a :material-star-four-points: **Reaction** to expend a spell slot to try magically foils it.
+When you see a creature casting a spell or teleporting within 60 feet of you, you can use a :rsc-reaction: **Reaction** to expend a spell slot to try magically foils it.
 
 If the spell was cast at a level equal to the level of the spell slot you expended or lower, the spell fails and has no effect. If it was cast at a level higher than the slot you expended, make a :die-d20:Charisma **Ability Check** against DC of 10 + the level of the spell, the spell fails and has no effect when you succeed the check.
 
-## Resurgence - Level 7
+## Resurgence <span style="float:right;"> <small> Level 7 </small> </span>
 
 When you hit a creature affected by [Hunter's Mark], you can choose to immediately end the spell and regain one of your expended spell slot. You can do this a number of times equal to half of your Proficiency Bonus (round down) before requiring a long rest.
+
+---
 
 ## Eris' Spell List
 
@@ -240,10 +242,10 @@ Spells marked with ^DS^ means that the spell fufill the prerequisites to be chan
 
 [Aganazzar's Scorcher]: ../../spells/2nd-level.md#aganazzars-scorcher
 [Blur]: ../../spells/2nd-level.md#blur
-[Blindness/Deafness]: ../../spells/2nd-level.md#blindness-deafness 
+[Blindness/Deafness]: ../../spells/2nd-level.md#blindnessdeafness 
 [Darkvision]: ../../spells/2nd-level.md#darkvision
 [Enhance Ability]: ../../spells/2nd-level.md#enhance-ability
-[Enlarge/Reduce]: ../../spells/2nd-level.md#enlarge-reduce
+[Enlarge/Reduce]: ../../spells/2nd-level.md#enlargereduce
 [Eschatologue's Steel Wind Strike]: ../../spells/2nd-level.md#eschatologues-steel-wind-strike
 [Gust of Wind]: ../../spells/2nd-level.md#gust-of-wind 
 [Hold Person]: ../../spells/2nd-level.md#hold-person 

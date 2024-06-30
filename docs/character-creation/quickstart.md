@@ -24,11 +24,11 @@ A character who refuses to participate in the main quest or constantly separates
 
 ### Setting and Tone
 
-*See more at [Lore](../lore/index.md)*
-
 **Your character must plausibly fit into the campaign’s setting and align with the overall tone of the campaign.**
-
+ 
 This setting uses a post-apocalyptic dystopian science fantasy world, characters should blend modern and fantasy elements. A traditional medieval knight would be out of place. Instead, create a knight equipped armour combining modern technology enchanted with ancient runes. Similarly, a mage might use arcane spells alongside gadgets, and a ranger could be adept at surviving in both urban ruins and wild wastelands, utilizing a mix of traditional skills and contemporary tools.
+
+*See more at [Lore](../lore/antares/index.md)*
 
 ## Step-by-Step Guide
 

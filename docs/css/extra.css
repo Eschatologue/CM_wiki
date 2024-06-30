@@ -6,7 +6,7 @@
 .md-typeset {
     text-justify: auto;
     font-weight: 300;
-    font-size: 13px;
+    font-size: 0.75rem;
 }
 
 .md-typeset strong {
@@ -15,9 +15,7 @@
 
 /* Headers Alignment */
 .md-typeset h1, h2, h3, h4, h5, h6 {
-    font-family: 'Roboto Slab';
-    font-variant: small-caps !important;
-    text-align: left;
+    font-variant: small-caps;
 }
 
 /* Headings */
@@ -46,14 +44,14 @@
 
 /* H4 - Title beginning for complex parts */
 .md-typeset h4 {
-    font-size: 0.88rem;
+    font-size: 0.80rem;
     margin-bottom: -0.75em;
     font-weight: normal;
 }
 
 /* H5 - Title beginning reserved for tables */
 .md-typeset h5 {
-    font-size: 14px;
+    font-size: 0.75rem;
     font-weight: 400;
     text-transform: none;
     margin-bottom: 2px;
@@ -127,14 +125,20 @@
 /* Table Size and Appearance */
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
-    font-family: 'Roboto Condensed';
-    font-size: 12px;
+/*    font-family: 'Roboto Condensed'; */
+    font-size: 0.65rem;
     padding-left: 10px;
     padding-right: 10px;
     border-bottom: rgba(255, 255, 255, 0.12);
     background-color: rgba(255, 255, 255, 0.025);
 }
 .md-typeset table:not([class]) th {
+    /* Table Header Styling */
+    font-weight: bold !important;
+    text-transform: uppercase !important;
+    color: rgba(255, 255, 255, 0.6);
+
+    /* Padding */
     padding-top: 7px;
     padding-bottom: 7px;
 }
@@ -161,13 +165,6 @@ table tr:last-child td:first-child {
 .md-typeset__table table:not([class]) {
     display: table;
     border-color: #00000000; /* Transparent Colour */
-}
-
-/* Table Header Styling */
-.md-typeset table:not([class]) th {
-    font-weight: bold !important;
-    text-transform: uppercase !important;
-    color: rgba(255, 255, 255, 0.6);
 }
 
 /* Table Width */

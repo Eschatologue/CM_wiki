@@ -19,7 +19,7 @@
 :dnd-trait-size:{ .lg .middle } **Size**  
 &ensp;&ensp;&ensp; Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is **Medium**
 
-:dnd-stat-speed:{ .lg .middle } **Speed**  
+:rsc-movement:{ .lg .middle } **Speed**  
 &ensp;&ensp;&ensp; You are considered to have *Slow* speed; which is 25 ft. Your speed is not reduced by wearing [Heavy Armour](../../equipment/armour/index.md#heavy-armour).
 
 :dnd-stat-lang:{ .lg .middle } **Languages**  
