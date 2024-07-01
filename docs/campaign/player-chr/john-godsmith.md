@@ -105,21 +105,36 @@ You gain the aspect of Antares’ primordial Paths, you can either choose from t
 - **The Chariot.** When you make a Wisdom (Animal Handling) or Wisdom (Survival) check you can add your Constitution modifier to your roll.
 - **The Hermit.** When you make an Intelligence (Investigation) or Wisdom (Perception) check you can add your Constitution modifier to your roll.
 
-## John's Technique <span style="float:right;"> <small> Level 9 </small> </span>
+## John's Originals <span style="float:right;"> <small> Level 9 </small> </span>
 
-When you use Reckless Attack while ^^Primordial Conflagaration^^ is active, you can forgo the :d20-adv: **Advantage** on the next :d20-attack: **Attack Roll** you make on your turn using Strength. If the attack hits, the target takes additional :die-d8: 1d8 **Fire** damage and you can cause an additional effect of your choice. 
+When you use Reckless Attack while ^^Primordial Conflagaration^^ is active, you can forgo the :d20-adv: **Advantage** on the next :d20-attack: **Attack Roll** you make on your turn using Strength. If the attack hits, the target takes additional :damage-fire: 1d8 **Fire** damage and you can cause an additional effect of your choice. 
 
-:d20-save:**Saving Throw.** When an effect requires the target to make a :d20-save:**Saving Throw**, it is calculated as follow:
+When an effect requires the target to make a :d20-save:**Saving Throw**, the DC is calculated as follow:
 
-!!! quote ""
-
-    <p style="text-align: center;"> 8 + Strength Modifier + Proficiency Bonus (if proficient) </p>
+:   :d20-save: **Saving Throw:** 8 + Strength Modifier + Proficiency Bonus
 
 **Technique.** When you gain this feature, you learn 2 techniques from the list below. What technique you learn affects what effects you can apply when you forgo the :d20-adv: **Advantage** gained from Reckless Attack. You can change your learned techniques when you finish a long rest. Your choice is as follow:
 
-- **John's Jackhammer.** You can use a :rsc-bonus-action: **Bonus Action** to make another attack against the same target.
-- **John's Jaunt.** The target must succeed a :d20-save: ^^Strength^^ **Saving Throw** (your choice), or it drops an object of your choice that it is holding. The object lands at its feet.
-- **John's Jawbreaker.** The target must succeed a :d20-save: ^^Constitution^^ **Saving Throw** (your choice), or it becomes Silenced for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the condition on itself on a success
-- **John's Jettison.** The target must succeed a :d20-save: ^^Strength^^ **Saving Throw**, or it is pushed 10 ft and becomes Prone.
-- **John's Jotunnheim.** The target is pushed 15 ft. straight away from you. You can then Move up to half your Speed straight torward the target without provoking opportunity Attack.
-- **John's Judgement.** The target can't become invisible while you are :fontawesome-solid-hand-fist:**Raging**, and its Speed is reduced by 15 ft. until the start of your next turn.
+- **John's Jackhammer** 
+
+    You can make another attack as part of the same Action against the same target.
+
+- **John's Jaunt** 
+
+    The target must succeed a :d20-save: Strength **Saving Throw** (your choice), or it drops an object of your choice that it is holding. The object lands at its feet.
+
+- **John's Jawbreaker** 
+
+    The target must succeed a :d20-save: Constitution **Saving Throw**, or it becomes **Stunned** until the end of your next turn.
+
+- **John's Jettison** 
+
+    The target must succeed a :d20-save: Strength **Saving Throw**, or it is pushed 15 ft and becomes **Prone**.
+
+- **John's Judgement** 
+
+    The target can't become invisible while you are :fontawesome-solid-hand-fist:**Raging**, and its :rsc-movement:**Speed** is reduced by 15 ft. until the start of your next turn.
+
+- **John's Juggernaught** 
+
+    The target is pushed 15 ft. straight away from you. You can then Move up to half your :rsc-movement:**Speed** straight torward the target without provoking Opportunity Attack.    
