@@ -2,6 +2,8 @@
 icon: material/list-box
 ---
 
+# Combat Basic
+
 The clatter of a sword striking against a shield. The terrible rending sound as monstrous claws tear through armour. A brilliant flash of light as a ball of flame blossoms from a wizard's spell. The sharp tang of blood in the air, cutting through the stench of vile monsters.
 
 Roars of fury, shouts of triumph, cries of pain. Combat in D&D can be chaotic, deadly, and thrilling.
@@ -10,54 +12,17 @@ This chapter provides the rules you need for your characters and monsters to eng
 
 The Dungeon Master controls all the monsters and nonplayer characters involved in combat, and each other player controls an adventurer. "You" can also mean the character or monster that you control.
 
-## Combat Step by Step
-
-1. **Determine surprise**. The DM determines whether anyone involved in the combat encounter is surprised.
-
-2. **Establish positions**. The DM decides where all the characters and monsters are located. Given the adventurers' marching order or their stated positions in the room or other location, the DM figures out where the adversaries are—how far away and in what direction.
-
-3. **Roll initiative**. Everyone involved in the combat encounter rolls initiative, determining the order of combatants' turns.
-
-5. **Take turns**. Each participant in the battle takes a turn in initiative order.
-
-6. **Begin the next round**. When everyone involved in the combat has had a turn, the round ends. Repeat step 4 until the fighting stops.
-
 ## The Order of Combat
 
 A typical combat encounter is a clash between two sides, a flurry of weapon swings, feints, parries, footwork, and spellcasting. The game organizes the chaos of combat into a cycle of rounds and turns. A round represents about 6 seconds in the game world. 
 
 During a round, each participant in a battle takes a turn. The order of turns is determined at the beginning of a combat encounter, when everyone rolls initiative. Once everyone has taken a turn, the fight continues to the next round if neither side has defeated the other.
 
-### Surprise
-
-> A band of adventurers sneaks up on a bandit camp, springing from the trees to attack them. A gelatinous cube glides down a dungeon passage, unnoticed by the adventurers until the cube engulfs one of them. In these situations, one side of the battle gains surprise over the other.
-
-The *surprised* condition represents a state where a creature is caught off guard at the beginning of combat.
-
-#### Determining Surprise
-
-1. **Surprised?** At the start of combat, the Dungeon Master (DM) determines if any participants are surprised. This usually happens when one group of creatures sneaks up on another.
-2. **Stealth vs. Perception.** The DM compares the Stealth checks of the potential ambushers against the Passive Perception scores of the creatures that might be surprised.
-   
-:   If a creature's *Passive Perception*(1) is lower than the Stealth check of any of the ambushers, that creature is surprised.
-    { .annotate }
-
-    1. **:material-calculator-variant:{ .lg } 10 + Wisdom (Perception) modifier**
-
-**No Actions or Reactions.** A surprised creature cannot **move**, use :rsc-action:**Actions**, :rsc-bonus-action:**Bonus Actions**, or :rsc-reaction:**Reactions** on its first turn in combat.
-
 ### Initiative
 
-Initiative determines the order in which characters and creatures act during combat in Dungeons & Dragons. Here's how it works:
+> *"Roll for Initiative!"*
 
-#### Rolling for Initiative
-
-1. **Initiative Roll:** At the start of combat, each participant makes a *Dexterity check*(1). This determines their place in the initiative order.
-   { .annotate }
-
-      1. **:die-d20:{ .lg } d20 + Dexterity Modifier**
-  
-2. **DM Rolls for NPCs:** The Dungeon Master (DM) rolls initiative for all non-player characters (NPCs) and monsters involved in the combat.
+Initiative determines the order in which characters and creatures act during combat in Dungeons & Dragons. Intitiative is made with a :ability-dex:**Dexterity** :d20-check:**Ability Check**
 
 #### Establishing the Order
 
