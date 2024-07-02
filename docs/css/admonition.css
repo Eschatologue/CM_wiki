@@ -7,15 +7,15 @@
 
 .md-typeset .admonition.homebrew,
 .md-typeset details.homebrew {
-    border-color: hsl(45, 100, 57);
+    border-color: rgb(255, 182, 36);
 }
 .md-typeset .homebrew > .admonition-title,
 .md-typeset .homebrew > summary {
-    background-color: hsl(45, 100, 57, 0.1);
+    background-color: rgb(255, 182, 36, 0.1);
 }
 .md-typeset .homebrew > .admonition-title::before,
 .md-typeset .homebrew > summary::before {
-    background-color: hsl(45, 100, 57);
+    background-color: rgb(255, 182, 36);
     -webkit-mask-image: var(--md-admonition-icon--homebrew);
     mask-image: var(--md-admonition-icon--homebrew);
 }
