@@ -107,13 +107,13 @@ If your attack misses, the spell fails and has no effect. On a hit, the spell ta
 
 ## Spellbreaker’s Mark <small> <span style="float:right;"> Level 3  </span> </small>
 
-You learn the [Hunter's Mark] spell, and you can cast it at will, without expending a spell slot. For you this spell does not require concentration.
+You learn the [Hunter's Mark] spell, and you can cast it at will as if you cast it at 1st-level. For you this spell does not require concentration, but the spell's duration remains.
 
-Moroever, you gain additional benefits against creature affected by this spell:
+Moroever, you gain additional benefits against your Quarry:
 
-- You learn the creature's spellcasting ability (Intelligence, Wisdom, or Charisma), if any, and the level of the highest level spell it can cast.
-- The creature has :d20-disadv:**Disadvantage** on :d20-save: Constitution **Saving Throw** to maintain concentration on any spells.
-- You gain an additional way to use your Sneak Attack: You can add your Sneak Attack damage the damage roll on your weapon attack against creature affected by this spell as long as you don't have :d20-disadv: **Disadvantage** on the attack. 
+- You learn your Quarry spellcasting ability (Intelligence, Wisdom, or Charisma), if any, and the level of the highest level spell it can cast.
+- Your Quarry has :d20-disadv:**Disadvantage** on :d20-save: Constitution **Saving Throw** to maintain concentration on any spells.
+- You gain an additional way to use your Sneak Attack: You can add your Sneak Attack damage the damage roll on your weapon attack against your Quarry as long as you don't have :d20-disadv: **Disadvantage** on the attack. 
 
 ## The People’s Eyebrow <span style="float:right;"> <small> Level 4 </small> </span>
 
@@ -272,5 +272,6 @@ Spells marked with ^DS^ means that the spell fufill the prerequisites to be chan
 [Tidal Wave]: ../../spells/3rd-level.md#tidal-wave
 
 *[DS]: This spell is compatible with Dekrat's Special
+*[Quarry]: Creatures affected by Hunter's Mark
 
 [spell list]: #eris-spell-list

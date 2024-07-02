@@ -34,7 +34,7 @@ The term d20 Test encompasses the three main d20 rolls of the game: :d20-attack:
 
 #### :d20-attack:{ .lg } Attack Rolls
 
-When a creature attacks a target, it makes an :d20-attack:**Attack Roll** against the target's AC to determine whether the attack is a hit or a miss. If the attack is a hit, it generally deals damage, and the attacker rolls for damage.
+When a creature attacks a target, it makes an :d20-attack: **Attack Roll** against the target's AC to determine whether the attack is a hit or a miss. If the attack is a hit, it generally deals damage, and the attacker rolls for damage.
 
 Creatures generally make their attacks with their equipped weapon (including unarmed), but some spells – such as a Warlock's [Eldritch Blast](../spells/cantrip.md#eldritch-blast) – require the caster to make spell attack rolls.
 
@@ -91,7 +91,7 @@ A Difficulty Class (or DC) is a number rolled against when making ability checks
 
 ### Skill
 
-Ability checks are usually made using a specified skill. Skills are specific areas of expertise, each associated with an ability, that characters can be proficient in.
+Ability Checks are usually made using a specified skill. Skills are specific areas of expertise, each associated with an ability, that characters can be proficient in.
 
 Characters add their proficiency bonus to any ability checks they make using skills they are proficient in.
 

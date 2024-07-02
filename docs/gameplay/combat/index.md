@@ -18,7 +18,7 @@ During a round, each participant in a battle takes a turn. The order of turns is
 
 > *"Roll for Initiative!"*
 
-Initiative determines the order in which characters and creatures act during combat in Dungeons & Dragons. Intitiative is made with a :ability-dex:**Dexterity** :d20-check:**Ability Check**
+Initiative determines the order in which characters and creatures act during combat in Dungeons & Dragons. Intitiative is made with a :d20-check: Dexterity **Ability Check**
 
 #### Establishing the Order
 
