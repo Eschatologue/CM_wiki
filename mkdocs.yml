@@ -26,6 +26,10 @@ nav:
       - Making an Attack: gameplay/combat/making-an-attack.md
       - Movement: gameplay/combat/movement.md
       - Damage and Healing : gameplay/combat/damage-healing.md
+      - Condition: gameplay/combat/condition.md
+    - Other Options & Features:
+      - Metamagic: gameplay/option/metamagic.md
+      - Eldrtich Invocations: gameplay/option/eldritch-invocations.md
     - Homebrew Mechanics:
       - Affiliation: gameplay/homebrew/affiliation.md
       - Death's Door and Resove: gameplay/homebrew/resolve.md

@@ -1,3 +1,7 @@
+---
+icon: damage/necrotic
+---
+
 # Condition
 
 Conditions affect a creature's abilities and can be caused by spells, class features, monster attacks, or other effects. Most conditions, like being blinded, hinder the creature, while a few, like being invisible, provide :d20-adv: **Advantage**s. 
