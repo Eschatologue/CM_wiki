@@ -61,11 +61,11 @@ Heavy weapon is unwieldy compared to other weapons. You have :d20-disadv:**Disad
 
 ### :weapon-prop-light:{ .lg .pad-r } Light
 
-When you take the :d20-attack:**Attack** Action on your turn and attack with a Light weapon, you can make one extra attack as a :rsc-bonus-action:**Bonus Action** later on the same turn. That extra attack must be made with a different Light weapon, and you don’t add your ability modifier to the extra attack’s damage, unless that modifier is negative.
+When you take the :d20-attack:**Attack** Action on your turn and attack with a Light weapon, you can make one extra attack as a :rsc-bonus-action: **Bonus Action** later on the same turn. That extra attack must be made with a different Light weapon, and you don’t add your ability modifier to the extra attack’s damage, unless that modifier is negative.
 
 ### :weapon-prop-loading:{ .lg .pad-r } Loading
 
-Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, :rsc-bonus-action:**Bonus Action**, or reaction to fire it, regardless of the number of attacks you can normally make.
+Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, :rsc-bonus-action: **Bonus Action**, or reaction to fire it, regardless of the number of attacks you can normally make.
 
 ### :weapon-prop-mounted:{ .lg .pad-r } Mounted
 
@@ -81,7 +81,7 @@ This weapon adds 5 feet to your reach when you attack with it. This property als
 
 ### :weapon-prop-reload:{ .lg .pad-r } Reload
 
-This weapon can be used to make a number of attacks before it must be reloaded. If you are proficient with the weapon, reloading it takes a :rsc-bonus-action:**Bonus Action**; otherwise, reloading it takes an :rsc-action:**Action**. Some weapons require an :rsc-action:**Action** or longer to reload, even if you have proficiency, which is specified in the Reload property. If reloading a weapon requires longer than one action, the weapon can't be used to make attacks until reloading is finished.
+This weapon can be used to make a number of attacks before it must be reloaded. If you are proficient with the weapon, reloading it takes a :rsc-bonus-action: **Bonus Action**; otherwise, reloading it takes an :rsc-action: **Action**. Some weapons require an :rsc-action: **Action** or longer to reload, even if you have proficiency, which is specified in the Reload property. If reloading a weapon requires longer than one action, the weapon can't be used to make attacks until reloading is finished.
 
 ### :weapon-prop-scatter:{ .lg .pad-r } Scatter
 

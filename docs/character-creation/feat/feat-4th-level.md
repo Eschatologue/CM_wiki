@@ -135,7 +135,7 @@ You master the ability to use two weapons at the same time You gain the followin
     
 - **Enhanced Dual Wielding**
     
-    You treat all weapons that lacks the :weapon-prop-heavy: *Heavy* or the :weapon-prop-two-handed: *Two-Handed* property as if they have the :weapon-prop-light: *light* property for the purpose of making one extra attack as a :rsc-bonus-action:**Bonus Action** using one hand. 
+    You treat all weapons that lacks the :weapon-prop-heavy: *Heavy* or the :weapon-prop-two-handed: *Two-Handed* property as if they have the :weapon-prop-light: *light* property for the purpose of making one extra attack as a :rsc-bonus-action: **Bonus Action** using one hand. 
 
 - **Quick Draw** 
 
@@ -296,7 +296,7 @@ You’ve learned to use the weight of a weapon to your advantage, letting its mo
     
 - **Momentum**
     
-    Immediately after you score a Critical Hit with a Melee Weapon with :weapon-prop-heavy: *[heavy]* or :weapon-prop-versatile: *[versatile]* property  or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a :rsc-bonus-action:**Bonus Action**.
+    Immediately after you score a Critical Hit with a Melee Weapon with :weapon-prop-heavy: *[heavy]* or :weapon-prop-versatile: *[versatile]* property  or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a :rsc-bonus-action: **Bonus Action**.
     
 
 Choose one of the following ability below, you can change it when you gain a level that grants Ability Score Improvement or a Feat choice.

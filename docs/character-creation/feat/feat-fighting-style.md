@@ -76,9 +76,9 @@ The Weapon must have the :weapon-prop-heavy: **[Heavy]** property to gain this b
 **Prerequisites:** Warrior Group, *Fighting Style* Feature, or [Fighting Initiate] feat  
 **Repeatable:** No
 
-When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your :rsc-reaction:**Reaction** to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). 
+When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your :rsc-reaction: **Reaction** to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). 
 
-You must be wielding a shield or a simple or martial weapon to do this as a :rsc-reaction:**Reaction**.
+You must be wielding a shield or a simple or martial weapon to do this as a :rsc-reaction: **Reaction**.
 
 ### Fighting Style: Protection
 *1st-level Feat- Homebrew*
@@ -86,9 +86,9 @@ You must be wielding a shield or a simple or martial weapon to do this as a :rsc
 **Prerequisites:** Warrior Group, *Fighting Style* Feature, or [Fighting Initiate] feat  
 **Repeatable:** No
 
-Immediately after a creature you can see makes an :d20-attack:**Attack Roll** and hits a target other than you that is within 5 feet of you, you can use your :rsc-reaction:**Reaction** to interpose your Shield and impose a penalty equal to the shield's AC on the :d20-attack:**Attack Roll**, potentially turning it into a miss. 
+Immediately after a creature you can see makes an :d20-attack:**Attack Roll** and hits a target other than you that is within 5 feet of you, you can use your :rsc-reaction: **Reaction** to interpose your Shield and impose a penalty equal to the shield's AC on the :d20-attack:**Attack Roll**, potentially turning it into a miss. 
 
-You must be wielding a Shield to do this as a :rsc-reaction:**Reaction**.
+You must be wielding a Shield to do this as a :rsc-reaction: **Reaction**.
 
 ### Fighting Style: Standard Bearer
 *1st-level Feat - Homebrew*
@@ -96,7 +96,7 @@ You must be wielding a Shield to do this as a :rsc-reaction:**Reaction**.
 **Prerequisites:** Warrior Group, *Fighting Style* Feature, or [Fighting Initiate] feat  
 **Repeatable:** No
 
-When a creature within 5 feet of you makes an attack against a creature that you can see, you can grant it :d20-adv:**Advantage** on its :d20-attack:**Attack Roll** as a :rsc-reaction:**Reaction**. You must be carrying a banner, flag, or standard in your hand to use this :rsc-reaction:**Reaction**.
+When a creature within 5 feet of you makes an attack against a creature that you can see, you can grant it :d20-adv:**Advantage** on its :d20-attack:**Attack Roll** as a :rsc-reaction: **Reaction**. You must be carrying a banner, flag, or standard in your hand to use this :rsc-reaction: **Reaction**.
 
 ### Fighting Style: Strongbow
 *1st-level Feat - Homebrew*
@@ -135,9 +135,9 @@ In addition, when you hit with a ranged attack using a thrown weapon, you gain a
 **Prerequisites:** Warrior Group, *Fighting Style* Feature, or [Fighting Initiate] feat  
 **Repeatable:** No
 
-When you make the extra attack of the :weapon-prop-light: **[Light]** weapon property, you make the extra weapon attack as part of the Attack action instead of a :rsc-bonus-action:**Bonus Action** and can add your Ability Modifier to the damage of the extra attack.
+When you make the extra attack of the :weapon-prop-light: **[Light]** weapon property, you make the extra weapon attack as part of the Attack action instead of a :rsc-bonus-action: **Bonus Action** and can add your Ability Modifier to the damage of the extra attack.
 
-When you do, you cannot also make a :rsc-bonus-action:**Bonus Action** attack
+When you do, you cannot also make a :rsc-bonus-action: **Bonus Action** attack
 
 ### Fighting Style: Unarmed Fighting
 *1st-level Feat*
@@ -155,7 +155,7 @@ At the start of each of your turns, you can deal 1d4 Bludgeoning damage to one c
 **Prerequisites:** Warrior Group, *Fighting Style* Feature, or [Fighting Initiate] feat  
 **Repeatable:** No
 
-While wielding a single :weapon-prop-versatile: **[Versatile]** weapon and no shield, you gain a +1 bonus to your :d20-attack:**Attack Roll** and Damage Roll with that weapon. While doing so, you can also use your :rsc-bonus-action:**Bonus Action** to make a single grapple or shove attack, or take the Use an Object Action.
+While wielding a single :weapon-prop-versatile: **[Versatile]** weapon and no shield, you gain a +1 bonus to your :d20-attack:**Attack Roll** and Damage Roll with that weapon. While doing so, you can also use your :rsc-bonus-action: **Bonus Action** to make a single grapple or shove attack, or take the Use an Object Action.
 
 [automatic]: ../../equipment/weapon/index.md#automatic
 [Light]: ../../equipment/weapon/index.md#light

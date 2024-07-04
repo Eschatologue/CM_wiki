@@ -27,23 +27,23 @@ An Action is a primary activity that a creature can perform during their turn. T
 ### Bonus Actions
 Some actions, frequently referred to as *bonus actions*, require a Bonus Action to be expended when taken.
 
-A Bonus Action is a secondary action that certain abilities, spells, or class features allow a creature to perform in addition to their main :rsc-action:**Action**. Not all characters or actions can use a Bonus Action, and creatures can typically perform only one :rsc-bonus-action:**Bonus Action** per turn if they have an ability that grants them one.
+A Bonus Action is a secondary action that certain abilities, spells, or class features allow a creature to perform in addition to their main :rsc-action: **Action**. Not all characters or actions can use a Bonus Action, and creatures can typically perform only one :rsc-bonus-action: **Bonus Action** per turn if they have an ability that grants them one.
 
 **Example**:
 
-  - **Two-Weapon Fighting**: A ranger attacks with their main weapon using their :rsc-action:**Action**, then uses their :rsc-bonus-action:**Bonus Action** to make an off-hand attack with a second weapon.
-  - **Misty Step**: A warlock uses their :rsc-bonus-action:**Bonus Action** to cast this spell, teleporting 30 feet to a spot they can see.
+  - **Two-Weapon Fighting**: A ranger attacks with their main weapon using their :rsc-action: **Action**, then uses their :rsc-bonus-action: **Bonus Action** to make an off-hand attack with a second weapon.
+  - **Misty Step**: A warlock uses their :rsc-bonus-action: **Bonus Action** to cast this spell, teleporting 30 feet to a spot they can see.
 
 ### Reactions
 
-A :rsc-reaction:**Reaction** is an action that creatures can take in response to a specific event, even if it’s not their turn. Creatures can typically take only one :rsc-reaction:**Reaction** per round. Reactions often have specific triggers, such as an enemy's movement or an attack.
+A :rsc-reaction: **Reaction** is an action that creatures can take in response to a specific event, even if it’s not their turn. Creatures can typically take only one :rsc-reaction: **Reaction** per round. Reactions often have specific triggers, such as an enemy's movement or an attack.
 
 **Example**:
 
-- **Opportunity Attack**: When an enemy leaves a fighter's reach, the fighter uses their :rsc-reaction:**Reaction** to make a melee attack against the enemy.
-- **Shield**: A wizard casts this spell as a :rsc-reaction:**Reaction** to being hit by an attack, gaining a +5 bonus to their AC potentially causing the attack to miss.
-- **Counterspell**: A sorcerer uses their :rsc-reaction:**Reaction** to counter a spell being cast by an enemy within 60 feet.
-- **Uncanny Dodge**: A rogue uses their :rsc-reaction:**Reaction** to halve the damage from an attack that hits them.
+- **Opportunity Attack**: When an enemy leaves a fighter's reach, the fighter uses their :rsc-reaction: **Reaction** to make a melee attack against the enemy.
+- **Shield**: A wizard casts this spell as a :rsc-reaction: **Reaction** to being hit by an attack, gaining a +5 bonus to their AC potentially causing the attack to miss.
+- **Counterspell**: A sorcerer uses their :rsc-reaction: **Reaction** to counter a spell being cast by an enemy within 60 feet.
+- **Uncanny Dodge**: A rogue uses their :rsc-reaction: **Reaction** to halve the damage from an attack that hits them.
 
 ## Spell Slots
 

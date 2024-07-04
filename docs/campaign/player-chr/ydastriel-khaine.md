@@ -121,13 +121,13 @@ Upon gaining this class feature, you gain additional Starry Forms tied to specif
 
     **Signum Ignorantiae:** Your Cosmic Flare now deals :damage-psychic: **Psychic** damage and its damage die becomes a :die-d6: d6. On a hit, the creature is :material-crosshairs-gps: **Marked** by you.
 
-    **Bastio Veritatis:** When a :material-crosshairs-gps: **Marked** creature that you can see is hit by an attack from your ally, you can use your :rsc-reaction:**Reaction** to cast *Guiding Bolt* against it. When you do, add your spellcasting modifier to the spells damage roll and its damage type becomes :damage-psychic: **Psychic** damage.
+    **Bastio Veritatis:** When a :material-crosshairs-gps: **Marked** creature that you can see is hit by an attack from your ally, you can use your :rsc-reaction: **Reaction** to cast *Guiding Bolt* against it. When you do, add your spellcasting modifier to the spells damage roll and its damage type becomes :damage-psychic: **Psychic** damage.
 
 === "**[Locked] Prosperity**"
 
     *A figure of the Avatar of Wealth appears behind you, your fingertips shimmering with gold and silver. You perceive the worth and value of all objects within your vision.*
 
-    **Investment Liquidation:** You have the ability to use your :rsc-reaction:**Reaction** to destroy an amount of SP on your person to enhance an attack, increases healing, or damage reduction:
+    **Investment Liquidation:** You have the ability to use your :rsc-reaction: **Reaction** to destroy an amount of SP on your person to enhance an attack, increases healing, or damage reduction:
 
     - **Efficiency Investment:** When you or a friendly creature you can see hits with an attack, you can increase the damage dealt by :die-d10:1d10 for every 1,000 SP you destroy.
     - **Health Insurance:** When you or a friendly creature you can see is targeted by a spell or effect that restores hit points or grants temporary hit points, you can increase the total hit points or the number of temporary hit points gained by :die-d10:1d10 for every 1,000 SP you destroy.
@@ -137,7 +137,7 @@ Upon gaining this class feature, you gain additional Starry Forms tied to specif
 
     *Multiple flat, semi-transparent blue tablets materialize, displaying cryptic combinations of numbers, letters, and figures, hovering before you. One of your eyes radiates a blue hue, granting you the power to decipher the scripts that foretell fortunes.*
 
-    **Restore Balance:** When a creature you see within 60 feet has :d20-adv:**Advantage** or :d20-disadv:**Disadvantage** on a :die-d20: D20 Check, you can use your :rsc-reaction:**Reaction** to nullify one instance of its :d20-adv:**Advantage** and :d20-disadv:**Disadvantage**. 
+    **Restore Balance:** When a creature you see within 60 feet has :d20-adv:**Advantage** or :d20-disadv:**Disadvantage** on a :die-d20: D20 Check, you can use your :rsc-reaction: **Reaction** to nullify one instance of its :d20-adv:**Advantage** and :d20-disadv:**Disadvantage**. 
 
 
 [Reach]: ../../equipment/weapon/index.md#reach

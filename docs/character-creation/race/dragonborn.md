@@ -29,12 +29,12 @@ The damage of your Breath Weapon increases with your character level:
 ## Aerothurge Ancestry
 *You share traits to an Aeginae who used to rule the skies.*
 #### Breath Weapon: :damage-lightning:Lightning
-:   Once per Short-rest, you can use an :rsc-action:**Action** to exhale destructive energy.
+:   Once per Short-rest, you can use an :rsc-action: **Action** to exhale destructive energy.
 
 ##### Breath Weapon Table
 | **COST** | **RANGE/AoE** | **ATTACK/SAVE** | **DAMAGE/EFFECT** |
 |:---:|:---:|:---:|:---:|
-| :rsc-action:**Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :weapon-prop-ranged:line | :material-shield: DEX Save (half damage on success) | :die-d6: 2d6 :damage-lightning:Lightning |
+| :rsc-action: **Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :weapon-prop-ranged:line | :material-shield: DEX Save (half damage on success) | :die-d6: 2d6 :damage-lightning:Lightning |
 
 #### Damage Resistance
 :   The blood of ancient dragons flow through your veins. You have resistance to :damage-lightning: Lightning damage.
@@ -44,12 +44,12 @@ The damage of your Breath Weapon increases with your character level:
 ## Earthborne Ancestry
 *You share traits to an Aeginae who used to rule the beneath the earth.*
 #### Breath Weapon: :damage-poison:Poison
-:   Once per Short-rest, you can use an :rsc-action:**Action** to exhale destructive energy.
+:   Once per Short-rest, you can use an :rsc-action: **Action** to exhale destructive energy.
 
 ##### Breath Weapon Table
 | **COST** | **RANGE/AoE** | **ATTACK/SAVE** | **DAMAGE/EFFECT** |
 |:---:|:---:|:---:|:---:|
-| :rsc-action:**Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :weapon-prop-ranged:line | :material-shield: CON Save (half damage on success) | :die-d6: 2d6 :damage-poison:Poison |
+| :rsc-action: **Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :weapon-prop-ranged:line | :material-shield: CON Save (half damage on success) | :die-d6: 2d6 :damage-poison:Poison |
 
 #### Damage Resistance
 :   The blood of ancient dragons flow through your veins. You have resistance to :damage-poison: Poison damage.
@@ -59,12 +59,12 @@ The damage of your Breath Weapon increases with your character level:
 ## Cryogenic Ancestry
 *You share traits to an Aeginae who used to rule the frozen tundra.*
 #### Breath Weapon: :damage-cold:Cold
-:   Once per Short-rest, you can use an :rsc-action:**Action** to exhale destructive energy.
+:   Once per Short-rest, you can use an :rsc-action: **Action** to exhale destructive energy.
 
 ##### Breath Weapon Table
 | **COST** | **RANGE/AoE** | **ATTACK/SAVE** | **DAMAGE/EFFECT** |
 |:---:|:---:|:---:|:---:|
-| :rsc-action:**Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :weapon-prop-ranged:line | :material-shield: CON Save (half damage on success) | :die-d6: 2d6 :damage-cold:Cold |
+| :rsc-action: **Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :weapon-prop-ranged:line | :material-shield: CON Save (half damage on success) | :die-d6: 2d6 :damage-cold:Cold |
 
 #### Damage Resistance
 :   The blood of ancient dragons flow through your veins. You have resistance to :damage-cold:Cold damage.
@@ -74,12 +74,12 @@ The damage of your Breath Weapon increases with your character level:
 ## Pyrokinetic Ancestry
 *You share traits to an Aeginae who used to rule over flames.*
 #### Breath Weapon: :damage-fire:Fire
-:   Once per Short-rest, you can use an :rsc-action:**Action** to exhale destructive energy.
+:   Once per Short-rest, you can use an :rsc-action: **Action** to exhale destructive energy.
 
 ##### Breath Weapon Table
 | **COST** | **RANGE/AoE** | **ATTACK/SAVE** | **DAMAGE/EFFECT** |
 |:---:|:---:|:---:|:---:|
-| :rsc-action:**Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :weapon-prop-ranged:line | :material-shield: DEX Save (half damage on success) | :die-d6: 2d6 :damage-fire:Fire |
+| :rsc-action: **Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :weapon-prop-ranged:line | :material-shield: DEX Save (half damage on success) | :die-d6: 2d6 :damage-fire:Fire |
 
 #### Damage Resistance
 :   The blood of ancient dragons flow through your veins. You have resistance to :damage-fire:Fire damage.

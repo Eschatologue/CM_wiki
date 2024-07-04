@@ -6,7 +6,7 @@ In this D&D, potions come in various types, from basic healing potions to those 
 
 ## Drinking or Consuming
 
-In Crown & Misery, where combat can be exceptionally lethal, rules regarding potion consumption differ slightly from standard PHB rulings, in which you can choose between spending your either :rsc-action:**Action** or your :rsc-bonus-action:**Bonus Action** to consume the potion.
+In Crown & Misery, where combat can be exceptionally lethal, rules regarding potion consumption differ slightly from standard PHB rulings, in which you can choose between spending your either :rsc-action: **Action** or your :rsc-bonus-action: **Bonus Action** to consume the potion.
 
 - :rsc-action:**Action:** Grants you the full maximum benefit of the potion. If the potion requires you to roll dice for its effect, you gain the maximum possible roll for those dice instead.
 - :rsc-bonus-action:**Bonus Action:**  Requires you to roll the dice associated with the potion or elixir's description to receive its benefits.

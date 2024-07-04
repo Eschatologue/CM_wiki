@@ -22,7 +22,7 @@ When you use your :fontawesome-solid-hand-fist:**Rage**, instead of flying into 
 
 You have the ability to channel the lethal repercussion of speaking Celestial to your advantage, allowing you to use the curse put on by the heavens to smite your foes!
 
-Whenever you activate your :fontawesome-solid-hand-fist:**Rage**, or once as a :rsc-bonus-action:**Bonus Action** while **raging** you can roll a :die-d12:d12, expending Hit Points equal to the result and enhance your attacks with Primordial Flare for the **Rage** duration. Whenever you hit a creature with a weapon attack that benefits from your :fontawesome-solid-hand-fist:**Rage** damage, it deals extra :material-fire:**Fire** damage equal to :die-d8:1d8 + your Constitution Modifier.
+Whenever you activate your :fontawesome-solid-hand-fist:**Rage**, or once as a :rsc-bonus-action: **Bonus Action** while **raging** you can roll a :die-d12:d12, expending Hit Points equal to the result and enhance your attacks with Primordial Flare for the **Rage** duration. Whenever you hit a creature with a weapon attack that benefits from your :fontawesome-solid-hand-fist:**Rage** damage, it deals extra :material-fire:**Fire** damage equal to :die-d8:1d8 + your Constitution Modifier.
 
 ## Improved Totemic Spirit <span style="float:right;"> <small> Level 3 </small> </span>
 
@@ -38,7 +38,7 @@ The resilient spirit of the Bear increases your ability to take physical hits.
 
 - **Relentless Ferocity** 
 
-    While :fontawesome-solid-hand-fist:**Raging**, you can use an :rsc-action:**Action** to  restore your Hit Points by :material-hospital-box: 1d12 + your Constitution modifier. This can only be used once per **Rage**.
+    While :fontawesome-solid-hand-fist:**Raging**, you can use an :rsc-action: **Action** to  restore your Hit Points by :material-hospital-box: 1d12 + your Constitution modifier. This can only be used once per **Rage**.
 
 ### Totemic Spirit: Vulture
     
@@ -46,7 +46,7 @@ The fierce spirit of the Vulture grants you the ability to move fast as the wind
 
 - **Spirit of the Vulture** 
 
-    While :fontawesome-solid-hand-fist:**Raging**, you can use a :rsc-bonus-action:**Bonus Action** to take the *Dash* action and opportunity attack against you has :d20-disadv:**Disadvantage**.
+    While :fontawesome-solid-hand-fist:**Raging**, you can use a :rsc-bonus-action: **Bonus Action** to take the *Dash* action and opportunity attack against you has :d20-disadv:**Disadvantage**.
 
 - **Precision Throw** 
     

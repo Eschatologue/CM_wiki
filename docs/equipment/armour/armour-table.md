@@ -89,7 +89,7 @@ A shield is made from wood or metal (can be anything really) and is carried in o
 | Shield | 100 sp | +2 | - | - |
 | Tower** | 400 sp | +3 | Str 16 | :d20-disadv:**Disadvantage** |
 
-- **Buckler**. While holding a Buckler shield. You can use a :rsc-bonus-action:**Bonus Action** to gain a +1 bonus to your AC until the start of your next turn. You can use a weapon with *Versatile* property even if you have a Buckler in the other hand.
+- **Buckler**. While holding a Buckler shield. You can use a :rsc-bonus-action: **Bonus Action** to gain a +1 bonus to your AC until the start of your next turn. You can use a weapon with *Versatile* property even if you have a Buckler in the other hand.
 - **Tower.** While holding a Tower shield, your speed is reduced by 10 ft.
 
 ## Getting Into and Out of Armour

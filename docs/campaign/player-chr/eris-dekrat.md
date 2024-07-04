@@ -16,14 +16,14 @@ You gain proficiency in Intelligence (Arcana) if you don’t already have it. Mo
 
 *You calm yourself down and enter a state of heightened focus, allowing you to sense the weaves of magic that permeate this world.*
 
-As an :rsc-action:**Action**, you can focus your mind and awaken your senses to see the presence of magic(1) within 60 feet of you for 10 minutes, that is not behind full cover.
+As an :rsc-action: **Action**, you can focus your mind and awaken your senses to see the presence of magic(1) within 60 feet of you for 10 minutes, that is not behind full cover.
 { .annotate }
 
 1. ![The Rock](./../../assets/wiki/the-people-eyebrow.gif)
 
     Visual representation of Eris sensing a presence of magic being cast.
 
-When you sense magic in this way, as an :rsc-action:**Action**, you can focus your mind to one object or one creature to learn the following:
+When you sense magic in this way, as an :rsc-action: **Action**, you can focus your mind to one object or one creature to learn the following:
 
 - If you focus on an object, you instantly learn the school (or schools) of magic that was used to enchant it, if any.
 - If you focus on a creature, you learn its spellcasting ability, if any, and the level of the highest level spell it can cast.
@@ -90,7 +90,7 @@ Once per turn when you make an attack that adds your Sneak Attack damage, you ca
 
 To be channeled this way, the spell must met the following requirements:
 
-- The Sorcerer spell must have a casting time of an :rsc-action:**Action**.
+- The Sorcerer spell must have a casting time of an :rsc-action: **Action**.
 - The Sorcerer spell must require only a single spell :d20-attack:**Attack Roll** or force its target to make a :d20-save:**Saving Throw**.
 
 If your attack misses, the spell fails and has no effect. On a hit, the spell takes effect immediately in addition of the normal effects and damage from your weapon attack, under the rules below:

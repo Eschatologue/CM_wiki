@@ -4,6 +4,8 @@ icon: material/eye-settings
 
 # Eldritch Invocations
 
+All of the Eldritch Invocations below follows the most updated one from OneD&D instead of the 2014 PHB.
+
 ### Agonising Blast
 
 **Prerequisite:** At Least One Warlock Cantrip
@@ -60,7 +62,7 @@ You can cast *[False Life](../../spells/1st-level.md#false-life)* on yourself wi
 
 **Prerequisite:** Level 5+ Warlock
 
-You can use a :rsc-bonus-action:**Bonus Action** to touch a willing creature and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use a :rsc-bonus-action:**Bonus Action** on subsequent turns to maintain this connection, extending the duration until the end of your next turn. The connection ends if you don’t maintain it in this way.While perceiving through the other creature’s senses, you benefit from any special senses possessed by that creature, and you can cast spells as if you were in your space or the other creature’s space if the two of you are within 60 feet of each other.
+You can use a :rsc-bonus-action: **Bonus Action** to touch a willing creature and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use a :rsc-bonus-action: **Bonus Action** on subsequent turns to maintain this connection, extending the duration until the end of your next turn. The connection ends if you don’t maintain it in this way.While perceiving through the other creature’s senses, you benefit from any special senses possessed by that creature, and you can cast spells as if you were in your space or the other creature’s space if the two of you are within 60 feet of each other.
 
 ### Gift of the Depths
 
@@ -86,11 +88,11 @@ When you cast Find Familiar, you infuse the summoned familiar with a measure of 
 
 **Aerial or Aquatic.** The familiar gains either a Fly Speed or a Swim Speed (your choice) of 40 feet.
 
-**Quick Attack.** As a :rsc-bonus-action:**Bonus Action**, you can command the familiar to take the Attack action.
+**Quick Attack.** As a :rsc-bonus-action: **Bonus Action**, you can command the familiar to take the Attack action.
 
 **Necrotic or Radiant Damage.** Whenever the familiar deals Bludgeoning, Piercing, or Slashing damage, you can make it deal Necrotic or Radiant damage instead.Your Save DC. If the familiar forces a creature to make a saving throw, it uses your spell save DC.
 
-**Resistance.** When the familiar takes damage, you can use your :rsc-reaction:**Reaction** to grant it Resistance against that damage.
+**Resistance.** When the familiar takes damage, you can use your :rsc-reaction: **Reaction** to grant it Resistance against that damage.
 
 ### Lessons of the First Ones
 
@@ -115,6 +117,7 @@ You can cast Disguise Self without expending a spell slot.
 ### Master of Myriad Forms
 
 **Prerequisite:** Level 5+ Warlock
+
 You can cast Alter Self without expending a spell slot.
 
 ### Misty Visions
@@ -139,11 +142,11 @@ You can cast Jump on yourself without expending a spell slot.
 
 **Prerequisite:** None
 
-As a :rsc-bonus-action:**Bonus Action**, you can trace arcane sigils in the air to conjure a pact weapon in your hand—a Simple or Martial melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch. Until the bond ends, you have proficiency with the weapon, and you can use it as a spellcasting focus.
+As a :rsc-bonus-action: **Bonus Action**, you can trace arcane sigils in the air to conjure a pact weapon in your hand—a Simple or Martial melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch. Until the bond ends, you have proficiency with the weapon, and you can use it as a spellcasting focus.
 
 Whenever you attack with the bonded weapon, you can use your Charisma modifier for the attack and damage rolls, instead of using Strength or Dexterity, and you can cause the weapon to deal Necrotic, Psychic, or Radiantdamage or its normal damage type.
 
-Your bond with the weapon ends if you use this feature’s :rsc-bonus-action:**Bonus Action** again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
+Your bond with the weapon ends if you use this feature’s :rsc-bonus-action: **Bonus Action** again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
 
 ### Pact of the Chain
 
@@ -153,7 +156,7 @@ You learn the Find Familiar spell and can cast it as an action without expending
 
 When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: imp, pseudodragon, quasit, skeleton, slaad tadpole, or sprite.
 
-Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its :rsc-reaction:**Reaction**.
+Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its :rsc-reaction: **Reaction**.
 
 ### Pact of the Tome
 

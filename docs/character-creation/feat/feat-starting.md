@@ -194,7 +194,7 @@ You pride yourself on your quickness and your close study of certain clandestine
     
 - **Rougish Initiate**
     
-    Choose one of the following actions: Dash, Disengage, Hide or Use an Object. You can use the chosen action as a :rsc-bonus-action:**Bonus Action** on each of your turns.
+    Choose one of the following actions: Dash, Disengage, Hide or Use an Object. You can use the chosen action as a :rsc-bonus-action: **Bonus Action** on each of your turns.
 
 ### Carpenter
 
@@ -236,7 +236,7 @@ Time spent mastering the culinary arts has paid off, granting you the following 
     
 - **Snack Master**
     
-    With one hour of work or when you finish a long rest, you can cook a number of treats equal to your proficiency bonus. These special treats last 8 hours after being made. A creature can use a :rsc-bonus-action:**Bonus Action** to eat one of those treats to gain temporary hit points equal to your proficiency bonus.
+    With one hour of work or when you finish a long rest, you can cook a number of treats equal to your proficiency bonus. These special treats last 8 hours after being made. A creature can use a :rsc-bonus-action: **Bonus Action** to eat one of those treats to gain temporary hit points equal to your proficiency bonus.
 
 ~~We need to cook Bartrum~~
 
@@ -429,7 +429,7 @@ You have spent time at sea and learned to use the tools of a mariner in combat. 
     
 - **Net Ready**
     
-    When a creature provokes an opportunity attack from you, you can use your :rsc-reaction:**Reaction** to make a ranged weapon attack against that creature with a net.
+    When a creature provokes an opportunity attack from you, you can use your :rsc-reaction: **Reaction** to make a ranged weapon attack against that creature with a net.
     
 - **Combat Net**
     
@@ -461,7 +461,7 @@ You are an expert at hitting your mark with ranged weapons, gaining the followin
     
 - **Steady Aim**
     
-    If you haven’t moved since the start of your turn, you can use a :rsc-bonus-action:**Bonus Action** to steady your aim. Until the end of your next turn, you have :d20-adv:**Advantage** on the next ranged weapon attack roll you make. This effect ends early if you move or take damage.
+    If you haven’t moved since the start of your turn, you can use a :rsc-bonus-action: **Bonus Action** to steady your aim. Until the end of your next turn, you have :d20-adv:**Advantage** on the next ranged weapon attack roll you make. This effect ends early if you move or take damage.
 
 ### Martial Adept
 *1st-level Feat*
@@ -501,7 +501,7 @@ You’ve spent a great deal of time underground and have learned how to survive 
     
 - **Hammer the Gap**
     
-    When you hit a creature with a warpick on your turn and are also wielding a light hammer or warhammer, you can immediately use a :rsc-bonus-action:**Bonus Action** to hammer the pick into the creature. If you do, the creature takes additional piercing damage equal to 1d8 + your Strength modifier.
+    When you hit a creature with a warpick on your turn and are also wielding a light hammer or warhammer, you can immediately use a :rsc-bonus-action: **Bonus Action** to hammer the pick into the creature. If you do, the creature takes additional piercing damage equal to 1d8 + your Strength modifier.
 
 ### Musician
 *1st-level Feat*
@@ -572,7 +572,7 @@ You are trained in the military methods and use of slings in combat. You gain th
 
 - **Quick Reflexes**
     
-    If you end your turn without moving, before your next turn when a creature within 30 feet of you moves, you can use your :rsc-reaction:**Reaction** to make a ranged weapon attack with a sling against that creature.
+    If you end your turn without moving, before your next turn when a creature within 30 feet of you moves, you can use your :rsc-reaction: **Reaction** to make a ranged weapon attack with a sling against that creature.
     
 - **Pea-shots**
     
@@ -635,11 +635,11 @@ While you are wielding a club, greatclub, or quarterstaff and no other weapons, 
 
 - **Ready Stance**
     
-    As a :rsc-bonus-action:**Bonus Action** on your turn, you can take a defensive stance, gaining a +2 bonus to AC until the start of your next turn.
+    As a :rsc-bonus-action: **Bonus Action** on your turn, you can take a defensive stance, gaining a +2 bonus to AC until the start of your next turn.
     
 - **Topple**
     
-    As a :rsc-bonus-action:**Bonus Action** on your turn, you can make a melee weapon attack against a creature no more than one size larger than you. On a hit, you deal no damage but instead push the creature 5 feet or knock it prone.
+    As a :rsc-bonus-action: **Bonus Action** on your turn, you can make a melee weapon attack against a creature no more than one size larger than you. On a hit, you deal no damage but instead push the creature 5 feet or knock it prone.
     
 - **Stunning Critical**
     
@@ -753,4 +753,4 @@ You have extensive training with whip like weapons and have learned a handful of
     
 - **Quicklash**
     
-    When you take the :d20-attack:**Attack Action** and attack with a one-handed weapon, you can use a :rsc-bonus-action:**Bonus Action** to attack with a whip or weighted chain you are holding.
+    When you take the :d20-attack:**Attack Action** and attack with a one-handed weapon, you can use a :rsc-bonus-action: **Bonus Action** to attack with a whip or weighted chain you are holding.
