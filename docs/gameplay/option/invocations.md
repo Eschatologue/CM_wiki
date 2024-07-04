@@ -74,7 +74,7 @@ You can also cast *[Water Breathing](../../spells/3rd-level.md#water-breathing)*
 
 ### Gift of the Protectors
 
-**Prerequisite:** Level 9+ Warlock Pact of the Tome
+**Prerequisite:** Level 9+ Warlock, [Pact of the Tome](#pact-of-the-tome)
 
 A new page appears in your Book of Shadows when you conjure it. With your permission, a creature can use its action to write its name on that page, which can contain a number of names equal to your Proficiency Bonus.
 
@@ -82,7 +82,7 @@ When any creature whose name is on the page is reduced to 0 Hit Points but not k
 
 ### Investment of the Chain Master
 
-**Prerequisite:** Level 5+ Warlock, Pact of the Chain
+**Prerequisite:** Level 5+ Warlock, [Pact of the Chain](#pact-of-the-chain)
 
 When you cast Find Familiar, you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits:
 
@@ -90,7 +90,7 @@ When you cast Find Familiar, you infuse the summoned familiar with a measure of 
 
 **Quick Attack.** As a :rsc-bonus-action: **Bonus Action**, you can command the familiar to take the Attack action.
 
-**Necrotic or Radiant Damage.** Whenever the familiar deals Bludgeoning, Piercing, or Slashing damage, you can make it deal Necrotic or Radiant damage instead.Your Save DC. If the familiar forces a creature to make a saving throw, it uses your spell save DC.
+**Necrotic or Radiant Damage.** Whenever the familiar deals :damage-bludgeoning: **Bludgeoning**, :damage-piercing: **Piercing**, or :damage-slashing: **Slashing** damage, you can make it deal Ne:damage-necrotic: **Necrotic** or :damage-radiant: **Radiant** damage instead. Your Save DC. If the familiar forces a creature to make a saving throw, it uses your spell save DC.
 
 **Resistance.** When the familiar takes damage, you can use your :rsc-reaction: **Reaction** to grant it Resistance against that damage.
 
@@ -104,9 +104,9 @@ You have received knowledge from an elder entity, allowing you to gain one start
 
 ### Lifedrinker
 
-**Prerequisite:** Level 9+ Warlock, Pact of the Blade
+**Prerequisite:** Level 9+ Warlock, [Pact of the Blade](#pact-of-the-blade)
 
-Whenever you hit a creature with your pact weapon, the creature takes 1d6 extra Necrotic, Psychic, or Radiant damage (your choice), and you can expend one of your Hit Dice to roll it and regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1).
+Whenever you hit a creature with your pact weapon, the creature takes 1d6 extra :damage-necrotic: **Necrotic**, :damage-psychic: **Psychic**, or :damage-radiant: **Radiant** damage (your choice), and you can expend one of your Hit Dice to roll it and regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1).
 
 ### Mask of Many Faces
 
@@ -144,7 +144,7 @@ You can cast Jump on yourself without expending a spell slot.
 
 As a :rsc-bonus-action: **Bonus Action**, you can trace arcane sigils in the air to conjure a pact weapon in your hand—a Simple or Martial melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch. Until the bond ends, you have proficiency with the weapon, and you can use it as a spellcasting focus.
 
-Whenever you attack with the bonded weapon, you can use your Charisma modifier for the attack and damage rolls, instead of using Strength or Dexterity, and you can cause the weapon to deal Necrotic, Psychic, or Radiantdamage or its normal damage type.
+Whenever you attack with the bonded weapon, you can use your spellcasting ability modifier for the attack and damage rolls, instead of using Strength or Dexterity, and you can cause the weapon to deal :damage-necrotic: **Necrotic**, :damage-psychic: **Psychic**, or :damage-radiant: **Radiant** damage or its normal damage type.
 
 Your bond with the weapon ends if you use this feature’s :rsc-bonus-action: **Bonus Action** again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
 
@@ -152,7 +152,7 @@ Your bond with the weapon ends if you use this feature’s :rsc-bonus-action: **
 
 **Prerequisite:** Level 2+ Warlock
 
-You learn the Find Familiar spell and can cast it as an action without expending a spell slot.
+You learn the Find Familiar spell and can cast it as an :rsc-action: **Action** without expending a spell slot.
 
 When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: imp, pseudodragon, quasit, skeleton, slaad tadpole, or sprite.
 
