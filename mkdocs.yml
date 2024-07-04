@@ -29,7 +29,7 @@ nav:
       - Condition: gameplay/combat/condition.md
     - Other Options & Features:
       - Metamagic: gameplay/option/metamagic.md
-      - Eldrtich Invocations: gameplay/option/eldritch-invocations.md
+      - Eldrtich Invocations: gameplay/option/invocations.md
     - Homebrew Mechanics:
       - Affiliation: gameplay/homebrew/affiliation.md
       - Death's Door and Resove: gameplay/homebrew/resolve.md
