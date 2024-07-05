@@ -16,7 +16,7 @@ Antares' natural rivers and waters, now severely tainted by the Warp, saw most o
 
 - **Different Baits:** Baits are no longer required to fish. Instead, having [Fishing Supplies] is now necessary as they contain your fishing equipment, including your baits. Specially made baits do exist, but they act more similarly to magical or special ammunition for ranged weapons.
 
-- **D20 Wisdom (Survival) Checks:** You can fish wherever you see water without needing to make a Survival check. However, if you attempt to fish in an obscure place, such as a well, a puddle in a cave, or someone’s drinking water, the DM will require a Wisdom check. Proficiency with [Fishing Supplies] allows you to add your proficiency bonus to this check.
+- **D20 Wisdom (Survival) Checks:** You can fish wherever you see water without needing to make a Survival check. However, if you attempt to fish in an obscure place, such as a well, a puddle in a cave, or someone’s drinking water, the DM will require a Wisdom check. Proficiency with [Fishing Supplies] allows you to add your Proficiency Bonus to this check.
 
 - **Aberrant and Untainted Fish:** These categorizations no longer exist. Instead, each fish has been adjusted in price to reflect its rarity.
 
@@ -38,7 +38,7 @@ For every 1 hour you spend fishing, roll :die-d6: 5d6. The process varies slight
 
 - **Proficiency in [Fishing Supplies]:** You can reroll a number of dice up to your Wisdom modifier.
 - **Proficiency in Wisdom (Survival) or Intelligence (Arcana):** You can reroll a number of dice up to your Wisdom or Intelligence modifier.
-- **Proficiency in both [Fishing Supplies] and either Wisdom (Survival) or Intelligence (Arcana):** You can reroll a number of dice equal to your Wisdom or Intelligence modifier plus your proficiency bonus.
+- **Proficiency in both [Fishing Supplies] and either Wisdom (Survival) or Intelligence (Arcana):** You can reroll a number of dice equal to your Wisdom or Intelligence modifier plus your Proficiency Bonus.
 
 You can reroll the same die more than once. After rerolling, keep each final die result.
 
@@ -72,7 +72,7 @@ Antagoni decides to go fishing. He spends some time preparing his gear, attachin
 Antagoni is ready to fish for 1 hour. He rolls 5d6 to determine his catch. His rolls are: `4, 6, 6, 6, 2`.
 
 3. **Check for Proficiency and Reroll**  
-Antagoni has proficiency in Wisdom (Survival) with a Wisdom score modifier of +2, skil. This allows him to reroll up to 2 dice. He chooses to reroll the 2 dice showing 4 and 2. His new rolls are 6 and 3. Now his dice results are: `6, 6, 6, 6, 3`.
+Antagoni has Proficiency in Wisdom (Survival) with a Wisdom score modifier of +2, skil. This allows him to reroll up to 2 dice. He chooses to reroll the 2 dice showing 4 and 2. His new rolls are 6 and 3. Now his dice results are: `6, 6, 6, 6, 3`.
 
 4. **Calculate Special Results**  
 Antagoni checks if he has a special result. He rolled a Four-of-a-kind (four 6s), which has a multiplier of ×4.

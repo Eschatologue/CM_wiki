@@ -50,13 +50,13 @@
 ### Lightfoot
 
 **Naturally Stealthy**  
-&ensp;&ensp;&ensp; Your nimble nature makes you skilled at concealment. You have :d20-adv:**Advantage** on :dnd-action-hide:Dexterity (Stealth) Checks.
+&ensp;&ensp;&ensp; Your nimble nature makes you skilled at concealment. You have :d20-adv: **Advantage** on :dnd-action-hide:Dexterity (Stealth) Checks.
 
 ---
 
 ### Strongheart
 
 **Resilience**  
-&ensp;&ensp;&ensp; You have :d20-adv:**Advantage** on :d20-save: **Saving Throws** against :damage-poison:**Poison**, and you have [Resistance](../../gameplay/combat/damage-healing.md#resistance) against :damage-poison:**Poison** damage.
+&ensp;&ensp;&ensp; You have :d20-adv: **Advantage** on :d20-save: **Saving Throws** against :damage-poison:**Poison**, and you have [Resistance](../../gameplay/combat/damage-healing.md#resistance) against :damage-poison:**Poison** damage.
 
 ---

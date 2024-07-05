@@ -31,13 +31,13 @@
 &ensp;&ensp;&ensp; You can see in the dark up to 60 ft.
 
 :material-shield-plus:{ .lg .middle } **Dwarven Resilience**  
-&ensp;&ensp;&ensp; You have :d20-adv:**Advantage** on Saving Throws against :damage-poison:**Poison**, and you have [Resistance](../../gameplay/combat/damage-healing.md#resistance) against :damage-poison:**Poison** damage.
+&ensp;&ensp;&ensp; You have :d20-adv: **Advantage** on Saving Throws against :damage-poison:**Poison**, and you have [Resistance](../../gameplay/combat/damage-healing.md#resistance) against :damage-poison:**Poison** damage.
 
 :material-hammer:{ .lg .middle } **Dwarven Combat Training**  
-&ensp;&ensp;&ensp; You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.
+&ensp;&ensp;&ensp; You have Proficiency with the battleaxe, handaxe, light hammer, and warhammer.
 
 :material-wrench:{ .lg .middle } **Tool Proficiency**  
-&ensp;&ensp;&ensp; You gain proficiency with the artisan's tools of your choice: Smith's Tools, Brewer's Supplies, or Mason's Tools.
+&ensp;&ensp;&ensp; You gain Proficiency with the artisan's tools of your choice: Smith's Tools, Brewer's Supplies, or Mason's Tools.
 
 :dnd-stat-prof:{ .lg .middle } **Stonecunning**  
 &ensp;&ensp;&ensp; You gain :dnd-stat-prof:**Proficiency** in Intelligence (History). You can add double of your :dnd-stat-prof:**Proficiency** bonus to checks related to the origin of stonework.
@@ -57,5 +57,5 @@
 *Also known as 'Shield Dwarves', they are strong and hardy, accustomed to a difficult life in rugged terrain and probably on the tall side (for a dwarf). They have a very strong martial tradition, resulting in a majority of Myrkheimr's Fjallavörðurs originating from this particulars subrace of dwarves.*
 
 :material-shield-plus:{ .lg .middle } **Dwarven Armour Training**  
-&ensp;&ensp;&ensp; You have proficiency with [Light Armour](../../equipment/armour/index.md#light-armour) and [Medium Armour](../../equipment/armour/index.md#medium-armour).
+&ensp;&ensp;&ensp; You have Proficiency with [Light Armour](../../equipment/armour/index.md#light-armour) and [Medium Armour](../../equipment/armour/index.md#medium-armour).
 

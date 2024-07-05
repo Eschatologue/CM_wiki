@@ -48,7 +48,7 @@ Measures your ability to recall lore about deities, rites and prayers, religious
 
 ### Spellcasting Ability
 
-Artificers and wizards use Intelligence as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
+Artificers and wizards use Intelligence as their spellcasting ability, which helps determine the Saving Throw DCs of spells they cast.
 
 ### Intelligence Save
 

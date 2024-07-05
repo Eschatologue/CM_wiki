@@ -4,13 +4,13 @@ icon: material/shield-plus
 
 ## Armour Proficiency
 
-Anyone can put on a suit of armour or strap a shield to an arm. Only those *proficient* in the armour's use know how to wear it effectively, however. Your class gives you proficiency with certain types of armour. 
+Anyone can put on a suit of armour or strap a shield to an arm. Only those *proficient* in the armour's use know how to wear it effectively, however. Your class gives you Proficiency with certain types of armour. 
 
-If you wear armour that you lack proficiency with, you gain several affliction: 
+If you wear armour that you lack Proficiency with, you gain several affliction: 
 
-- :d20-disadv:**Disadvantage** on any :d20-check:**Ability Check**
-- :d20-disadv:**Disadvantage** on :d20-save:**Saving Throw**
-- :d20-disadv:**Disadvantage** on :d20-attack:**Attack Roll** that involves *Strength* or *Dexterity*
+- :d20-disadv: **Disadvantage** on any :d20-check:**Ability Check**
+- :d20-disadv: **Disadvantage** on :d20-save:**Saving Throw**
+- :d20-disadv: **Disadvantage** on :d20-attack:**Attack Roll** that involves *Strength* or *Dexterity*
 - You can't cast spells.
 
 ### Armour Class (AC)
@@ -31,7 +31,7 @@ Made from supple and thin materials, light armour favours agile adventurers sinc
 
 | :material-text: **NAME** | :rsc-silver: **COST** |  :material-shield: **ARMOUR CLASS(AC)** | :material-arm-flex: **STRENGTH** | :material-eye-off: **STEALTH** |
 | :-- | --: | :-: | :-: | :-: |
-| Padded | 50 sp | 11 + Dex modifier | - | :d20-disadv:**Disadvantage** |
+| Padded | 50 sp | 11 + Dex modifier | - | :d20-disadv: **Disadvantage** |
 | Leather | 100 sp | 11 + Dex modifier | - | - |
 | Studded Leather | 450 sp | 12 + Dex modifier | - | - |
 
@@ -49,9 +49,9 @@ Medium armour offers more protection than light armour, but it also impairs move
 | :-- | --: | :-: | :-: | :-: |
 | Hide | 100 sp | 12 + Dex modifier (max 2) | - | - |
 | Chain Shirt | 500 sp | 13 + Dex modifier (max 2) | - | - |
-| Scale Mail | 500 sp | 14 + Dex modifier (max 2) | - | :d20-disadv:**Disadvantage** |
+| Scale Mail | 500 sp | 14 + Dex modifier (max 2) | - | :d20-disadv: **Disadvantage** |
 | Breastplate | 4,000 sp | 14 + Dex modifier (max 2) | - | - |
-| Half Plate | 7,500 sp | 15 + Dex modifier (max 2) | - | :d20-disadv:**Disadvantage** |
+| Half Plate | 7,500 sp | 15 + Dex modifier (max 2) | - | :d20-disadv: **Disadvantage** |
 
 - **Hid⁠e.** This crude armour consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folks who lack access to the tools and materials needed to create better armour.
 - **Chain⁠ Shirt.** Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armour offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.
@@ -69,10 +69,10 @@ If the Armour table shows 'STR 13' or 'STR 15' in the Strength column for an arm
 
 | :material-text: **NAME** | :rsc-silver: **COST** |  :material-shield: **ARMOUR CLASS(AC)** | :material-arm-flex: **STRENGTH** | :material-eye-off: **STEALTH** |
 | :-- | --: | :-: | :-: | :-: |
-| Ring Mail | 300 sp | 14 | - | :d20-disadv:**Disadvantage** |
-| Chainmail | 750 sp | 16 | Str 13 | :d20-disadv:**Disadvantage** |
-| Splint | 2,000 sp | 17 | Str 15 | :d20-disadv:**Disadvantage** |
-| Plate | 15,000 sp | 18 | Str 15 | :d20-disadv:**Disadvantage** |
+| Ring Mail | 300 sp | 14 | - | :d20-disadv: **Disadvantage** |
+| Chainmail | 750 sp | 16 | Str 13 | :d20-disadv: **Disadvantage** |
+| Splint | 2,000 sp | 17 | Str 15 | :d20-disadv: **Disadvantage** |
+| Plate | 15,000 sp | 18 | Str 15 | :d20-disadv: **Disadvantage** |
 
 - **Ring⁠ Mail.** This armour is leather armour with heavy rings sewn into it. The rings help reinforce the armour against blows from swords and axes. Ring mail is inferior to chain mail, and it's usually worn only by those who can't afford better armour.
 - **Chain⁠ Mail.** Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and cushion the impact of blows. The suit includes gauntlets.
@@ -87,7 +87,7 @@ A shield is made from wood or metal (can be anything really) and is carried in o
 | :-- | --: | :-: | :-: | :-: |
 | Buckler* | 50 sp | +1 | - | - |
 | Shield | 100 sp | +2 | - | - |
-| Tower** | 400 sp | +3 | Str 16 | :d20-disadv:**Disadvantage** |
+| Tower** | 400 sp | +3 | Str 16 | :d20-disadv: **Disadvantage** |
 
 - **Buckler**. While holding a Buckler shield. You can use a :rsc-bonus-action: **Bonus Action** to gain a +1 bonus to your AC until the start of your next turn. You can use a weapon with *Versatile* property even if you have a Buckler in the other hand.
 - **Tower.** While holding a Tower shield, your speed is reduced by 10 ft.

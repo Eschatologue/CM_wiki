@@ -40,7 +40,7 @@ When you cast a spell that has a duration of 1 minute or longer, you can spend 1
 
 **Cost:** *3 Sorcery Point(s)*
 
-When you cast a spell that forces a creature to make a :d20-save:**Saving Throw** to resist its effects, you can spend 3 Sorcery Point(s) to give one target of the spell :d20-disadv:**Disadvantage** on its first :d20-save:**Saving Throw** made against the spell.
+When you cast a spell that forces a creature to make a :d20-save:**Saving Throw** to resist its effects, you can spend 3 Sorcery Point(s) to give one target of the spell :d20-disadv: **Disadvantage** on its first :d20-save:**Saving Throw** made against the spell.
 
 ### Quickened Spell
 

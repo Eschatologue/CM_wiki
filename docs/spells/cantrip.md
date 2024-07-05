@@ -10,7 +10,7 @@ icon: material/numeric-0
 **Components:** V, S  
 **Duration:** Instantaneous
 
-You hurl a bubble of acid. Choose one creature you can see within range, or choose two creatures you can see within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage.
+You hurl a bubble of acid. Choose one creature you can see within range, or choose two creatures you can see within range that are within 5 feet of each other. A target must succeed on a Dexterity Saving Throw or take 1d6 acid damage.
 
 This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
@@ -87,7 +87,7 @@ You can conjure and hurl multiple projectiles at once when you reach higher leve
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-You create a bonfire on ground that you can see within range. Until the spell ends, the magic bonfire fills a 5-foot cube. Any creature in the bonfire's space when you cast the spell must succeed on a Dexterity saving throw or take 1d8 fire damage. A creature must also make the saving throw when it moves into the bonfire's space for the first time on a turn or ends its turn there.
+You create a bonfire on ground that you can see within range. Until the spell ends, the magic bonfire fills a 5-foot cube. Any creature in the bonfire's space when you cast the spell must succeed on a Dexterity Saving Throw or take 1d8 fire damage. A creature must also make the Saving Throw when it moves into the bonfire's space for the first time on a turn or ends its turn there.
 
 The bonfire ignites flammable objects in its area that aren't being worn or carried.
 
@@ -176,7 +176,7 @@ For the duration, you have advantage on all Charisma checks directed at one crea
 **Components:** V, S  
 **Duration:** Instantaneous
 
-You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution Saving Throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
 
 The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
@@ -212,7 +212,7 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 You seize the air and compel it to create one of the following effects at a point you can see within range:
   
-One Medium or smaller creature that you choose must succeed on a Strength saving throw or be pushed up to 5 feet away from you.  
+One Medium or smaller creature that you choose must succeed on a Strength Saving Throw or be pushed up to 5 feet away from you.  
 You create a small blast of air capable of moving one object that is neither held nor carried and that weighs no more than 5 pounds. The object is pushed up to 10 feet away from you. It isn't pushed with enough force to cause damage.  
 You create a harmless sensory effect using air, such as causing leaves to rustle, wind to slam shutters closed, or your clothing to ripple in a breeze.
 
@@ -224,7 +224,7 @@ You create a harmless sensory effect using air, such as causing leaves to rustle
 **Components:** V, S, M (a living flea)  
 **Duration:** Instantaneous
 
-You cause a cloud of mites, fleas, and other parasites to appear momentarily on one creature you can see within range. The target must succeed on a Constitution saving throw, or it takes 1d6 poison damage and moves 5 feet in a random direction if it can move and its speed is at least 5 feet. Roll a d4 for the direction: 1, north; 2, south; 3, east; or 4, west. This movement doesn't provoke opportunity attacks, and if the direction rolled is blocked, the target doesn't move.
+You cause a cloud of mites, fleas, and other parasites to appear momentarily on one creature you can see within range. The target must succeed on a Constitution Saving Throw, or it takes 1d6 poison damage and moves 5 feet in a random direction if it can move and its speed is at least 5 feet. Roll a d4 for the direction: 1, north; 2, south; 3, east; or 4, west. This movement doesn't provoke opportunity attacks, and if the direction rolled is blocked, the target doesn't move.
 
 The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
@@ -238,7 +238,7 @@ The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (
 
 You touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action.
 
-If you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity saving throw to avoid the spell.
+If you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity Saving Throw to avoid the spell.
 
 ### Lightning Lure
 *Evocation cantrip*
@@ -248,7 +248,7 @@ If you target an object held or worn by a hostile creature, that creature must s
 **Components:** V  
 **Duration:** Instantaneous
 
-You create a lash of lightning energy that strikes at one creature of your choice that you can see within 15 feet of you. The target must succeed on a Strength saving throw or be pulled up to 10 feet in a straight line toward you and then take 1d8 lightning damage if it is within 5 feet of you.
+You create a lash of lightning energy that strikes at one creature of your choice that you can see within 15 feet of you. The target must succeed on a Strength Saving Throw or be pulled up to 10 feet in a straight line toward you and then take 1d8 lightning damage if it is within 5 feet of you.
 
 This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
@@ -310,7 +310,7 @@ You can cast this spell through solid objects if you are familiar with the targe
 **Components:** V  
 **Duration:** 1 round
 
-You drive a disorienting spike of psychic energy into the mind of one creature you can see within range. The target must succeed on an Intelligence saving throw or take 1d6 psychic damage and subtract 1d4 from the next saving throw it makes before the end of your next turn.
+You drive a disorienting spike of psychic energy into the mind of one creature you can see within range. The target must succeed on an Intelligence Saving Throw or take 1d6 psychic damage and subtract 1d4 from the next Saving Throw it makes before the end of your next turn.
 
 This spell's damage increases by 1d6 when you reach certain levels: 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
@@ -354,7 +354,7 @@ If you cast this spell multiple times, you can have no more than two of its non-
 **Components:** V, S  
 **Duration:** Instantaneous
 
-You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage.
+You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution Saving Throw or take 1d12 poison damage.
 
 This spell's damage increases by 1d12 when you reach 5th level (2d12), 11th level (3d12), and 17th level (4d12).
 
@@ -423,7 +423,7 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 **Components:** V, S, M (a miniature cloak)  
 **Duration:** Concentration, up to 1 minute
 
-You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice. It can roll the die before or after making the saving throw. The spell then ends.
+You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one Saving Throw of its choice. It can roll the die before or after making the Saving Throw. The spell then ends.
 
 ### Sacred Flame
 *Evocation cantrip*
@@ -433,7 +433,7 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 **Components:** V, S  
 **Duration:** Instantaneous
 
-Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 radiant damage. The target gains no benefit from cover for this saving throw.
+Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity Saving Throw or take 1d8 radiant damage. The target gains no benefit from cover for this Saving Throw.
 
 The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
@@ -494,7 +494,7 @@ You touch a living creature that has 0 hit points. The creature becomes stable. 
 **Components:** V  
 **Duration:** Instantaneous
 
-You create a momentary circle of spectral blades that sweep around you. All other creatures within 5 feet of you must succeed on a Dexterity saving throw or take 1d6 force damage.
+You create a momentary circle of spectral blades that sweep around you. All other creatures within 5 feet of you must succeed on a Dexterity Saving Throw or take 1d6 force damage.
 
 This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
@@ -537,7 +537,7 @@ This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level 
 **Components:** S  
 **Duration:** Instantaneous
 
-You create a burst of thunderous sound that can be heard up to 100 feet away. Each creature within range, other than you, must make a Constitution saving throw or take 1d6 thunder damage.
+You create a burst of thunderous sound that can be heard up to 100 feet away. Each creature within range, other than you, must make a Constitution Saving Throw or take 1d6 thunder damage.
 
 The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
@@ -549,7 +549,7 @@ The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (
 **Components:** V, S  
 **Duration:** Instantaneous
 
-You point at one creature you can see within range, and the sound of a dolorous bell fills the air around it for a moment. The target must succeed on a Wisdom saving throw or take 1d8 necrotic damage. If the target is missing any of its hit points, it instead takes 1d12 necrotic damage.
+You point at one creature you can see within range, and the sound of a dolorous bell fills the air around it for a moment. The target must succeed on a Wisdom Saving Throw or take 1d8 necrotic damage. If the target is missing any of its hit points, it instead takes 1d12 necrotic damage.
 
 The spell's damage increases by one die when you reach 5th level (2d8 or 2d12), 11th level (3d8 or 3d12), and 17th level (4d8 or 4d12).
 
@@ -571,7 +571,7 @@ You extend your hand and point a finger at a target in range. Your magic grants 
 **Components:** V  
 **Duration:** Instantaneous
 
-You unleash a string of insults laced with subtle enchantments at a creature you can see within range. If the target can hear you (though it need not understand you), it must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn.
+You unleash a string of insults laced with subtle enchantments at a creature you can see within range. If the target can hear you (though it need not understand you), it must succeed on a Wisdom Saving Throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn.
 
 This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
 
@@ -583,6 +583,6 @@ This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level 
 **Components:** V, M (a holy symbol)  
 **Duration:** Instantaneous
 
-You utter a divine word, and burning radiance erupts from you. Each creature of your choice that you can see within range must succeed on a Constitution saving throw or take 1d6 radiant damage.
+You utter a divine word, and burning radiance erupts from you. Each creature of your choice that you can see within range must succeed on a Constitution Saving Throw or take 1d6 radiant damage.
 
 The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).

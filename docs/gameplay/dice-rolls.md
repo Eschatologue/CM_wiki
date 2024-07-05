@@ -58,7 +58,7 @@ For every :d20-check:**Ability Check**, the DM decides which of the six abilitie
 
 #### :d20-save:{ .lg } Saving Throws
   
-Traps, spells, conditions, and other sources of harm may allow a creature a chance to avoid or reduce their effect, known as a saving throw or save. To attempt a save, a creature rolls a d20 against a target Save [DC].
+Traps, spells, conditions, and other sources of harm may allow a creature a chance to avoid or reduce their effect, known as a Saving Throw or save. To attempt a save, a creature rolls a d20 against a target Save [DC].
 
 !!! quote ""
 
@@ -66,19 +66,19 @@ Traps, spells, conditions, and other sources of harm may allow a creature a chan
 
 ### Natural 1s and 20s
 
-Rolling a 1 or 20 on a d20 roll is referred to as a natural 1 or natural 20. When making an attack roll or ability check, rolling a natural 1 is always an automatic failure, while a natural 20 is always an automatic success, regardless of the final result after modifiers are applied. Saving throws attempted during social encounters, and death saving throws, can also roll natural 1s and 20s.
+Rolling a 1 or 20 on a d20 roll is referred to as a natural 1 or natural 20. When making an attack roll or ability check, rolling a natural 1 is always an automatic failure, while a natural 20 is always an automatic success, regardless of the final result after modifiers are applied. Saving throws attempted during social encounters, and death Saving Throws, can also roll natural 1s and 20s.
 
 ### Advantage & Disadvantage
 
-A number of situations and conditions give creatures :d20-adv:**Advantage** or :d20-disadv:**Disadvantage** on d20 rolls.
+A number of situations and conditions give creatures :d20-adv: **Advantage** or :d20-disadv: **Disadvantage** on d20 rolls.
 
-A creature that makes a roll with :d20-adv:**Advantage** rolls two d20 dice separately, and uses the higher of the two results. If they have :d20-disadv:**Disadvantage**, they choose the lower of the two.
+A creature that makes a roll with :d20-adv: **Advantage** rolls two d20 dice separately, and uses the higher of the two results. If they have :d20-disadv: **Disadvantage**, they choose the lower of the two.
 
-When multiple instances of :d20-adv:**Advantage** or :d20-disadv:**Disadvantage** occcurs, each instance beyond the first adds a `+2` or `-2` modifier to the roll, respectively.^HB^
+When multiple instances of :d20-adv: **Advantage** or :d20-disadv: **Disadvantage** occcurs, each instance beyond the first adds a `+2` or `-2` modifier to the roll, respectively.^HB^
 
 ### Difficulty Class
 
-A Difficulty Class (or DC) is a number rolled against when making ability checks or saving throws. It represents how difficult a task is to accomplish. The number is determined by the the task attempted – or in the case of saves – the spell, condition, or action that has to be overcome.
+A Difficulty Class (or DC) is a number rolled against when making ability checks or Saving Throws. It represents how difficult a task is to accomplish. The number is determined by the the task attempted – or in the case of saves – the spell, condition, or action that has to be overcome.
 
 | Task Difficulty | DC |
 | --- | :-: |
@@ -93,7 +93,7 @@ A Difficulty Class (or DC) is a number rolled against when making ability checks
 
 Ability Checks are usually made using a specified skill. Skills are specific areas of expertise, each associated with an ability, that characters can be proficient in.
 
-Characters add their proficiency bonus to any ability checks they make using skills they are proficient in.
+Characters add their Proficiency Bonus to any ability checks they make using skills they are proficient in.
 
 | | | ABILITIES |  | |
 |:---:|:---:|:---:|:---:|:---:|
@@ -131,17 +131,17 @@ Characters add their proficiency bonus to any ability checks they make using ski
 [Performance]: ../character-creation/ability-scores/charisma.md#performance
 [Persuasion]: ../character-creation/ability-scores/charisma.md#persuasion
 
-All characters gain proficiency in multiple skills depending on their chosen background during character creation, and can choose 2-4 more skills to be proficient in from a list of skills determined by their class.
+All characters gain Proficiency in multiple skills depending on their chosen background during character creation, and can choose 2-4 more skills to be proficient in from a list of skills determined by their class.
 
-Additionally, some races, subclasses, and feats also give proficiency in specific skills, and bards receive the class feature Jack of All Trades at level 2, allowing them to add half their proficiency bonus (rounded down) to ability checks they make using skills they are not proficient in.
+Additionally, some races, subclasses, and feats also give Proficiency in specific skills, and bards receive the class feature Jack of All Trades at level 2, allowing them to add half their Proficiency Bonus (rounded down) to ability checks they make using skills they are not proficient in.
 
-Proficiency does not stack – there's no benefit to having multiple sources of proficiency for a skill.
+Proficiency does not stack – there's no benefit to having multiple sources of Proficiency for a skill.
 
 #### Expertise
 
-Characters can also have expertise in a skill, which allows them to add double their proficiency bonus when making a corresponding ability check. While it is possible to have proficiency and expertise in a skill at the same time, they do not stack. Some sources of expertise do, however, require the character to already be proficient in a skill.
+Characters can also have expertise in a skill, which allows them to add double their Proficiency Bonus when making a corresponding ability check. While it is possible to have Proficiency and expertise in a skill at the same time, they do not stack. Some sources of expertise do, however, require the character to already be proficient in a skill.
 
-Sources of expertise that require prior proficiency in the respective skill include:
+Sources of expertise that require prior Proficiency in the respective skill include:
 
 - Rogues gain expertise in any two skills they are proficient in at both level 1 and level 6.
 - Bards gain expertise in any two skills they are proficient in at both level 3 and level 10.
@@ -164,9 +164,9 @@ Here's how to determine a character's total for a passive check:
 
     <p style="text-align: center;"> 10 + Ability Modifier + Proficiency Bonus (if proficient) + Other Bonuses (if applicable) </p>
 
-If the character has :d20-adv:**Advantage** on the check, add 5. For :d20-disadv:**Disadvantage**, subtract 5. The game refers to a passive check total as a score. Only one instance would apply.
+If the character has :d20-adv: **Advantage** on the check, add 5. For :d20-disadv: **Disadvantage**, subtract 5. The game refers to a passive check total as a score. Only one instance would apply.
 
-For example, if a 1st-level character has a Wisdom of 15 and proficiency in Perception, he or she has a passive Wisdom (Perception) score of 14.
+For example, if a 1st-level character has a Wisdom of 15 and Proficiency in Perception, he or she has a passive Wisdom (Perception) score of 14.
 
 The rules on hiding in the "Dexterity" also rely on passive checks.
 
@@ -174,7 +174,7 @@ The rules on hiding in the "Dexterity" also rely on passive checks.
 
 Sometimes two or more characters team up to attempt a task. The character who's leading the effort—or the one with the highest ability modifier—can make an ability check with advantage, reflecting the help provided by the other characters. In combat, this requires the Help action (see chapter 9).
 
-A character can only provide help if the task is one that he or she could attempt alone. For example, trying to open a lock requires proficiency with thieves' tools, so a character who lacks that proficiency can't help another character in that task. Moreover, a character can help only when two or more individuals working together would actually be productive. Some tasks, such as threading a needle, are no easier with help.
+A character can only provide help if the task is one that he or she could attempt alone. For example, trying to open a lock requires Proficiency with thieves' tools, so a character who lacks that Proficiency can't help another character in that task. Moreover, a character can help only when two or more individuals working together would actually be productive. Some tasks, such as threading a needle, are no easier with help.
 
 ### Group Checks
 

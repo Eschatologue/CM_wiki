@@ -6,14 +6,14 @@ icon: material/cards-playing-spade
 
 *1st-level Feat*
 
-**Prerequisites:** Dexterity 13+ or Dexterity (Acrobatics) proficiency  
+**Prerequisites:** Dexterity 13+ or Dexterity (Acrobatics) Proficiency  
 **Repeatable:** No
 
 You become more nimble, gaining the following benefits:
 
 - **Trained Acrobat** 
 
-    You gain proficiency in the Acrobatics skill. If you are already proficient in the skill, you add gain Expertise in Acrobatics skill.
+    You gain Proficiency in the Acrobatics skill. If you are already proficient in the skill, you add gain Expertise in Acrobatics skill.
 
 - **Vault** 
 
@@ -23,18 +23,18 @@ You become more nimble, gaining the following benefits:
 
 *1st-level Feat*
 
-**Prerequisites:** Charisma 13+ or Charisma (Perfomance) proficiency  
+**Prerequisites:** Charisma 13+ or Charisma (Perfomance) Proficiency  
 **Repeatable:** No
 
 You've learned how to act, performs, and copy others personality:
 
 - **Disguise Expert** 
 
-    You gain proficiency with Disguise kits. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.
+    You gain Proficiency with Disguise kits. If you are already proficient with them, you add double your Proficiency Bonus to checks you make with them.
 
 - **Smooth Talker** 
 
-    While you’re disguised as a fictional person or a real person other than yourself, you have :d20-adv:**Advantage** on Charisma (Performance) checks to convince others that you are that person.
+    While you’re disguised as a fictional person or a real person other than yourself, you have :d20-adv: **Advantage** on Charisma (Performance) checks to convince others that you are that person.
 
 - **Mimicry** 
 
@@ -51,7 +51,7 @@ You have studied the secrets of alchemy and are an expert in its practice, gaini
 
 - **Chemistry Expert** 
 
-    You gain proficiency with alchemist’s supplies. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.
+    You gain Proficiency with alchemist’s supplies. If you are already proficient with them, you add double your Proficiency Bonus to checks you make with them.
 
 - **Chemical Connoisseur** 
 
@@ -84,14 +84,14 @@ Always on the lookout for danger, you gain the following benefits:
 
 *1st-level Feat*
 
-**Prerequisites:** Spellcasting/Pact Magic feature or Intelligence (Arcana) proficiency  
+**Prerequisites:** Spellcasting/Pact Magic feature or Intelligence (Arcana) Proficiency  
 **Repeatable:** No
 
 You study the arcane arts, gaining the following benefits:
 
 - **Arcane Sense** 
 
-    You gain proficiency in the Arcana skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+    You gain Proficiency in the Arcana skill. If you are already proficient in the skill, you add double your Proficiency Bonus to checks you make with it.
 
 - **Magical Trickster** 
 
@@ -129,7 +129,7 @@ You've learned some of an artificer's inventiveness.
 
 - **Attifice Magic** 
 
-    You gain proficiency with one type of artisan's tools of your choice, and you can use that type of tool as a spellcasting focus for any spell you cast that uses Intelligence as its spellcasting ability.
+    You gain Proficiency with one type of artisan's tools of your choice, and you can use that type of tool as a spellcasting focus for any spell you cast that uses Intelligence as its spellcasting ability.
 
 ### Athlete
 
@@ -140,7 +140,7 @@ You've learned some of an artificer's inventiveness.
 
 - **Toned Body** 
 
-    You gain proficiency in the Athletics skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+    You gain Proficiency in the Athletics skill. If you are already proficient in the skill, you add double your Proficiency Bonus to checks you make with it.
 
 - **Climb Speed** 
 
@@ -161,7 +161,7 @@ The bar is your home, the countertop is your canvas, cocktails are your art
 
 - **Barkeep**
     
-    You gain proficiency with brewer’s supplies. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.
+    You gain Proficiency with brewer’s supplies. If you are already proficient with them, you add double your Proficiency Bonus to checks you make with them.
     
 - **Water boy**
     
@@ -169,11 +169,11 @@ The bar is your home, the countertop is your canvas, cocktails are your art
     
 - **Mixologist**
     
-    You can customize your alcoholic beverages in such a way that they impose :d20-adv:**Advantage** or dis:d20-adv:**Advantage** (your choice) on saving throws against their effects.
+    You can customize your alcoholic beverages in such a way that they impose :d20-adv: **Advantage** or :d20-disadv: **Disdvantage** (your choice) on Saving Throws against their effects.
     
 - **Lite Chemist**
     
-    As part of a long rest, you can distill a beverage to yield a container of pure alcohol, which can be used for medicinal purposes (:d20-adv:**Advantage** on medicine checks) or as fuel for a fire (alchemist’s fire).
+    As part of a long rest, you can distill a beverage to yield a container of pure alcohol, which can be used for medicinal purposes (:d20-adv: **Advantage** on medicine checks) or as fuel for a fire (alchemist’s fire).
 
 ### Burglar
 
@@ -186,7 +186,7 @@ You pride yourself on your quickness and your close study of certain clandestine
 
 - **Lockpicker**
     
-    You gain proficiency with thieves’ tools.
+    You gain Proficiency with thieves’ tools.
     
 - **Plan B**
     
@@ -207,7 +207,7 @@ Your knowledge of wooden structures is widely applicable throughout your adventu
 
 - **Wood Expert**
     
-    You gain proficiency with carpenter’s tools. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.
+    You gain Proficiency with carpenter’s tools. If you are already proficient with them, you add double your Proficiency Bonus to checks you make with them.
     
 - **Hodor**
     
@@ -228,15 +228,15 @@ Time spent mastering the culinary arts has paid off, granting you the following 
 
 - **Cooking Set**
     
-    You gain proficiency with Cook’s Utensils. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.
+    You gain Proficiency with Cook’s Utensils. If you are already proficient with them, you add double your Proficiency Bonus to checks you make with them.
     
 - **Treat-maker**
     
-    As part of a short rest, you can cook special food. You can prepare enough of this food for a number of creatures equal to your proficiency bonus. At the end of the short rest, any creature who eats the food and spends one or more Hit Dice to regain hit points regains an extra 1d8 hit points.
+    As part of a short rest, you can cook special food. You can prepare enough of this food for a number of creatures equal to your Proficiency Bonus. At the end of the short rest, any creature who eats the food and spends one or more Hit Dice to regain hit points regains an extra 1d8 hit points.
     
 - **Snack Master**
     
-    With one hour of work or when you finish a long rest, you can cook a number of treats equal to your proficiency bonus. These special treats last 8 hours after being made. A creature can use a :rsc-bonus-action: **Bonus Action** to eat one of those treats to gain temporary hit points equal to your proficiency bonus.
+    With one hour of work or when you finish a long rest, you can cook a number of treats equal to your Proficiency Bonus. These special treats last 8 hours after being made. A creature can use a :rsc-bonus-action: **Bonus Action** to eat one of those treats to gain temporary hit points equal to your Proficiency Bonus.
 
 ~~We need to cook Bartrum~~
 
@@ -289,11 +289,11 @@ Spending countless hours winning and losing coin in alestained taverns has forge
 
 - **Rehearsed**
     
-    You gain proficiency with two types of gaming sets of your choice.
+    You gain Proficiency with two types of gaming sets of your choice.
     
 - **No Poker Face**
     
-    You have :d20-adv:**Advantage** on Charisma (Deception) checks to bluff opponents in games of chance, and Charisma (Persuasion) checks to convince others to join you for a game.
+    You have :d20-adv: **Advantage** on Charisma (Deception) checks to bluff opponents in games of chance, and Charisma (Persuasion) checks to convince others to join you for a game.
     
 - **Reputation**
     
@@ -329,7 +329,7 @@ You excel at the identification and use of herbs and other natural substances fo
 
 - **Homeopathy Expert**
     
-    You gain proficiency with herbalism kits. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.
+    You gain Proficiency with herbalism kits. If you are already proficient with them, you add double your Proficiency Bonus to checks you make with them.
     
 - **Treatment Finder**
     
@@ -337,23 +337,23 @@ You excel at the identification and use of herbs and other natural substances fo
     
 - **Preventative Measures**
     
-    As part of a short rest, you can use your herbalism kit to administer an herbal remedy that helps a creature recover from their ailments. The creature gains :d20-adv:**Advantage** on saving throws against poison and disease for the next hour.
+    As part of a short rest, you can use your herbalism kit to administer an herbal remedy that helps a creature recover from their ailments. The creature gains :d20-adv: **Advantage** on Saving Throws against poison and disease for the next hour.
 
 ### Historian
 *1st-level Feat*
 
-**Prerequisites:** Intelligence 13+ or Intelligence (History) proficiency  
+**Prerequisites:** Intelligence 13+ or Intelligence (History) Proficiency  
 **Repeatable:** No
 
 Your study of history rewards you with the following benefits:
 
 - **History Buff**
     
-    You gain proficiency in the History skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+    You gain Proficiency in the History skill. If you are already proficient in the skill, you add double your Proficiency Bonus to checks you make with it.
     
 - **An Example for Every Situation**
     
-    When you take the Help action to aid another creature’s ability check, you can make a DC 15 Intelligence (History) check. On a success, that creature’s check gains a bonus equal to your proficiency bonus, as you share pertinent advice and historical examples. To receive this bonus, the creature must be able to understand what you’re saying.
+    When you take the Help action to aid another creature’s ability check, you can make a DC 15 Intelligence (History) check. On a success, that creature’s check gains a bonus equal to your Proficiency Bonus, as you share pertinent advice and historical examples. To receive this bonus, the creature must be able to understand what you’re saying.
 
 ### Linguist
 *1st-level Feat*
@@ -369,7 +369,7 @@ You have studied languages and codes, gaining the following benefits:
     
 - **Cipher-builder**
     
-    You can create written ciphers. Others can’t decipher a code you create unless you teach them, they succeed on an Intelligence check (DC equal to your Intelligence score + your proficiency bonus), or they use magic to decipher it.
+    You can create written ciphers. Others can’t decipher a code you create unless you teach them, they succeed on an Intelligence check (DC equal to your Intelligence score + your Proficiency Bonus), or they use magic to decipher it.
     
 - **Analyze and Empathize**
     
@@ -391,9 +391,9 @@ You have inexplicable luck that can kick in at just the right moment, granting y
     
     Immediately after you roll a d20, you can spend 1 Luck Point to give yourself Advantage on the roll.
     
-- **Dis:d20-adv:**Advantage****
+- **:d20-disadv: **Disdvantage****
     
-    When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to impose Dis:d20-adv:**Advantage** on that roll.
+    When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to impose :d20-disadv: **Disdvantage** on that roll.
 
 ### Magic Initiate
 *1st-level Feat*
@@ -433,7 +433,7 @@ You have spent time at sea and learned to use the tools of a mariner in combat. 
     
 - **Combat Net**
     
-    When you make a ranged attack with a net, you do not have dis:d20-adv:**Advantage** due to being within 5 feet of hostile creatures.
+    When you make a ranged attack with a net, you do not have :d20-disadv: **Disdvantage** due to being within 5 feet of hostile creatures.
     
 - **Trident Master**
     
@@ -453,15 +453,15 @@ You are an expert at hitting your mark with ranged weapons, gaining the followin
 
 - **Prone Crawl**
     
-    Being prone doesn’t impose dis:d20-adv:**Advantage** on your ranged weapon attacks.
+    Being prone doesn’t impose :d20-disadv: **Disdvantage** on your ranged weapon attacks.
     
 - **Sniper**
     
-    Attacking a prone target doesn’t impose dis:d20-adv:**Advantage** on your ranged weapon attack rolls if the target is within your weapon’s normal range.
+    Attacking a prone target doesn’t impose :d20-disadv: **Disdvantage** on your ranged weapon attack rolls if the target is within your weapon’s normal range.
     
 - **Steady Aim**
     
-    If you haven’t moved since the start of your turn, you can use a :rsc-bonus-action: **Bonus Action** to steady your aim. Until the end of your next turn, you have :d20-adv:**Advantage** on the next ranged weapon attack roll you make. This effect ends early if you move or take damage.
+    If you haven’t moved since the start of your turn, you can use a :rsc-bonus-action: **Bonus Action** to steady your aim. Until the end of your next turn, you have :d20-adv: **Advantage** on the next ranged weapon attack roll you make. This effect ends early if you move or take damage.
 
 ### Martial Adept
 *1st-level Feat*
@@ -475,7 +475,7 @@ You have martial training that allows you to perform special combat Manoeuvres. 
     
     You learn two manoeuvres of your choice from among those available to the Battle Master archetype in the fighter class. 
     
-    If a maneuver you use requires your target to make a saving throw to resist the manoeuvre’s effects, the saving throw DC equals **8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)**.
+    If a maneuver you use requires your target to make a Saving Throw to resist the manoeuvre’s effects, the Saving Throw DC equals **8 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice)**.
     
 - **Superiority Die**
     
@@ -522,12 +522,12 @@ You are a practiced musician, granting you the following benefits:
 ### Naturalist
 *1st-level Feat*
 
-**Prerequisites:** Intelligence or Wisdom 13+, or Nature proficiency  
+**Prerequisites:** Intelligence or Wisdom 13+, or Nature Proficiency  
 **Repeatable:** No
 
 - **Green-thumb**
     
-    You gain proficiency in the Nature skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+    You gain Proficiency in the Nature skill. If you are already proficient in the skill, you add double your Proficiency Bonus to checks you make with it.
     
 - **Druidcasting**
     
@@ -565,7 +565,7 @@ You have exceptionally broad learning.
 
 *1st-level Feat*
 
-**Prerequisites:** Simple weapon proficiency  
+**Prerequisites:** Simple weapon Proficiency  
 **Repeatable:** None
 
 You are trained in the military methods and use of slings in combat. You gain the following benefits:
@@ -576,17 +576,17 @@ You are trained in the military methods and use of slings in combat. You gain th
     
 - **Pea-shots**
     
-    Once per turn when you make a ranged weapon attack without dis:d20-adv:**Advantage** using a sling, you can make an additional ranged weapon attack with a sling against a different creature.
+    Once per turn when you make a ranged weapon attack without :d20-disadv: **Disdvantage** using a sling, you can make an additional ranged weapon attack with a sling against a different creature.
     
 - **Pea-critical**
     
-    The first time you score a critical hit with a sling against a creature on a turn, that creature has dis:d20-adv:**Advantage** on attack rolls and ability checks until the start of your next turn.
+    The first time you score a Critical Hit with a sling against a creature on a turn, that creature has :d20-disadv: **Disdvantage** on attack rolls and ability checks until the start of your next turn.
 
 ### Spear Specialist
 
 *1st-level Feat*
 
-**Prerequisites:** Simple weapon proficiency  
+**Prerequisites:** Simple weapon Proficiency  
 **Repeatable:** None
 
 You have trained to become a deadly warrior with pole weapons, capable of making lunging attacks and long-distance throws. You gain the following benefits:
@@ -601,7 +601,7 @@ You have trained to become a deadly warrior with pole weapons, capable of making
     
 - **Spear Master**
     
-    You can make a ranged attack with a javelin or spear up to its long range without dis:d20-adv:**Advantage**, even underwater.
+    You can make a ranged attack with a javelin or spear up to its long range without :d20-disadv: **Disdvantage**, even underwater.
 
 ### Spell and Blades^HB^
 
@@ -614,7 +614,7 @@ You learn how to wield both spells and weapons effectively. Choose between Palad
 
 - **Weapon Training**
     
-    You gain proficiency with two martial weapon of your choice that lacks the heavy, reach and, two-handed properties.
+    You gain Proficiency with two martial weapon of your choice that lacks the heavy, reach and, two-handed properties.
     
 - **1st-Level Spell**
     
@@ -628,7 +628,7 @@ Whenever you gain a new level, you can replace one of the Spells you chose for t
 
 *1st-level Feat*
 
-**Prerequisites:** Club, Greatclub or Quarterstaves proficiency  
+**Prerequisites:** Club, Greatclub or Quarterstaves Proficiency  
 **Repeatable:** No
 
 While you are wielding a club, greatclub, or quarterstaff and no other weapons, you gain the following benefits:
@@ -643,7 +643,7 @@ While you are wielding a club, greatclub, or quarterstaff and no other weapons, 
     
 - **Stunning Critical**
     
-    When you score a critical hit on a creature, its movement speed is 0 until the end of its next turn.
+    When you score a Critical Hit on a creature, its movement speed is 0 until the end of its next turn.
 
 ### Tavern Brawler
 *1st-level Feat*
@@ -663,7 +663,7 @@ Accustomed to brawling, you gain the following benefits:
     
 - **Shove**
     
-    When you hit a creature with an Unarmed Strike as part of the :d20-attack:**Attack Action** on your turn, you can deal damage to the target and also push it 5 feet away. You can use this benefit only once per turn.
+    When you hit a creature with an Unarmed Strike as part of the :d20-attack: **Attack Action** on your turn, you can deal damage to the target and also push it 5 feet away. You can use this benefit only once per turn.
     
 - **Furniture as Weapons**
     
@@ -679,7 +679,7 @@ Your extensive study of religion rewards you with the following benefits:
 
 - **Priest**
     
-    You gain proficiency in the Religion skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+    You gain Proficiency in the Religion skill. If you are already proficient in the skill, you add double your Proficiency Bonus to checks you make with it.
     
 - **Holy Casting**
     
@@ -697,15 +697,15 @@ You’ve honed your ability to lob weaponry into the fray, including weapons not
 
 - **Wrist trick**
     
-    Simple and martial melee weapons without the thrown property can be treated as if they have the thrown property. One-handed weapons have a range of 20/60, while two-handed weapons have a range of 15/30.
+    Simple and martial melee weapons without the :weapon-prop-thrown: **Thrown** property can be treated as if they have the :weapon-prop-thrown: **Thrown** property. One-handed weapons have a range of 20/60, while two-handed weapons have a range of 15/30.
     
 - **Extended aim**
     
-    Weapons that naturally have the thrown property increase their range by +20/+40.
+    Weapons that naturally have the :weapon-prop-thrown: **Thrown** property increase their range by +20/+40.
     
 - **Boomerang**
     
-    When you miss with a thrown weapon attack using a light weapon, the weapon immediately flies back into your grasp.
+    When you miss with a :weapon-prop-thrown: **Thrown** weapon attack using a :weapon-prop-light: **Light** weapon, the weapon immediately flies back into your grasp.
 
 ### Titan Hunter
 *1st-level Feat*
@@ -717,11 +717,11 @@ You can spot the weaknesses in a foe’s defenses. You gain the following benefi
 
 - **True-Striker**
     
-    As an action, you analyze the defenses of one Large or larger creature you can see. Your next Weapon Attack on the following turn against that creature is made with :d20-adv:**Advantage**.
+    As an action, you analyze the defenses of one Large or larger creature you can see. Your next Weapon Attack on the following turn against that creature is made with :d20-adv: **Advantage**.
 
 - **Improved Critical**
       
-    The number you need to roll for critical hit on the attack against large creature with an :d20-adv:**Advantage** granted by this feat is reduced by 3. This effect can stack.
+    The number you need to roll for Critical Hit on the attack against large creature with an :d20-adv: **Advantage** granted by this feat is reduced by 3. This effect can stack.
 
 ### Tough
 *1st-level Feat*
@@ -745,12 +745,12 @@ You have extensive training with whip like weapons and have learned a handful of
 
 - **Whip Trained**
     
-    You gain proficiency in Whips if you weren’t proficient in them already.
+    You gain Proficiency in Whips if you weren’t proficient in them already.
     
 - **Lash and Trip**
     
-    Once per turn when you deal damage with a whip or weighted chain to a creature that is no more than one size larger than you, you can force that creature to make a Strength saving throw (DC 8 + your proficiency bonus + your choice of your Strength or Dexterity modifier). On a failure, you choose whether the creature drops one object of your choice that it’s holding, falls prone, or has its movement speed reduced to 0 until the start of your next turn.
+    Once per turn when you deal damage with a whip or weighted chain to a creature that is no more than one size larger than you, you can force that creature to make a Strength Saving Throw (DC 8 + your Proficiency Bonus + your choice of your Strength or Dexterity modifier). On a failure, you choose whether the creature drops one object of your choice that it’s holding, falls prone, or has its movement speed reduced to 0 until the start of your next turn.
     
 - **Quicklash**
     
-    When you take the :d20-attack:**Attack Action** and attack with a one-handed weapon, you can use a :rsc-bonus-action: **Bonus Action** to attack with a whip or weighted chain you are holding.
+    When you take the :d20-attack: **Attack Action** and attack with a one-handed weapon, you can use a :rsc-bonus-action: **Bonus Action** to attack with a whip or weighted chain you are holding.

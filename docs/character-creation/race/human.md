@@ -92,7 +92,7 @@
 &ensp;&ensp;&ensp; You gain :dnd-stat-prof:**Proficiency** in Intelligence (History). You can add double of your :dnd-stat-prof:**Proficiency Bonus** to checks related to technologies, whenever it is yours or from other nations.
 
 :material-exclamation-thick:{ .lg .middle } **Unyielding**  
-&ensp;&ensp;&ensp; You can add your :dnd-stat-prof:Proficiency bonus to Resolve Checks.
+&ensp;&ensp;&ensp; You can add your :dnd-stat-prof:Proficiency Bonus to Resolve Checks.
 
 :material-arm-flex-outline:{ .lg .middle } **Inferior Athleticism**  
 &ensp;&ensp;&ensp; You have :d20-disadv:Disadvantage on contested Strength **Ability Checks** & :d20-save:**Saving Throws** against creatures other than Humans of this lineage.

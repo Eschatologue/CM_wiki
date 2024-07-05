@@ -15,5 +15,6 @@
 
 *[Attack Roll]: D20 + Ability Modifier + Proficiency Bonus (if applicable)
 *[Critical Hit]: Total damage roll result is doubled
+*[Proficiency Bonus]: Additional bonus that is applied to most D20 Tests (and Saving Throw DCs) that scales with your total character level. 
 
 *[Concentration Check]: Constitution Saving Throw to maintain spell's concentration

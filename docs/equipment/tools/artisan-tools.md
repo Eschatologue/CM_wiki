@@ -2,26 +2,26 @@
 icon: material/tools
 ---
 
-In D&D, tools are specialized items that characters can use to perform specific tasks, create items, or gain advantages in certain situations. Tool proficiencies represent a character's training and familiarity with using these tools effectively.
+In D&D, tools are specialized items that characters can use to perform specific tasks, create items, or gain advantages in certain situations. Tool Proficiencies represent a character's training and familiarity with using these tools effectively.
 
 ## Tool Proficiencies
 
-Tool proficiencies allow characters to add their proficiency bonus to ability checks related to using a specific set of tools. Proficiencies can be gained through character backgrounds, classes, or feats. When a character is proficient with a tool, they are more skilled and efficient in using it for its intended purpose.
+Tool Proficiencies allow characters to add their Proficiency Bonus to ability checks related to using a specific set of tools. Proficiencies can be gained through character backgrounds, classes, or feats. When a character is proficient with a tool, they are more skilled and efficient in using it for its intended purpose.
 
 ## Common Tools and Their Uses
 
 Below are some common tools in D&D and examples of what characters can do with them. Note that this list is non-exhaustive and represents popular tools within the game.
 
 - **Thieves' Tools**  
-Used for picking locks and disabling traps. Characters proficient with thieves' tools can add their proficiency bonus to Dexterity checks for these tasks.
+Used for picking locks and disabling traps. Characters proficient with thieves' tools can add their Proficiency Bonus to Dexterity checks for these tasks.
 - **Healer's Kit**  
-Contains supplies to stabilize a dying creature. Proficiency with a healer's Kit allows a character to add their proficiency bonus to Medicine checks when stabilizing or treating wounds.
+Contains supplies to stabilize a dying creature. Proficiency with a healer's Kit allows a character to add their Proficiency Bonus to Medicine checks when stabilizing or treating wounds.
 - **Alchemist's Supplies**  
-Used to create potions and alchemical substances. Characters proficient with alchemist's Supplies can add their proficiency bonus to Intelligence checks to identify potions and concoct alchemical mixtures.
+Used to create potions and alchemical substances. Characters proficient with alchemist's Supplies can add their Proficiency Bonus to Intelligence checks to identify potions and concoct alchemical mixtures.
 - **Smith's Tools**  
-Used for forging and repairing metal items. Proficiency with smith's Tools allows a character to add their proficiency bonus to Strength checks when working with metal, crafting weapons, or repairing armour.
+Used for forging and repairing metal items. Proficiency with smith's Tools allows a character to add their Proficiency Bonus to Strength checks when working with metal, crafting weapons, or repairing armour.
 - **Musical Instruments**  
-Various instruments that can be played to entertain, inspire, or distract. Characters proficient with a musical instrument can add their proficiency bonus to Charisma (Performance) checks when playing the instrument.
+Various instruments that can be played to entertain, inspire, or distract. Characters proficient with a musical instrument can add their Proficiency Bonus to Charisma (Performance) checks when playing the instrument.
 
 ## Tool's Table
   
@@ -56,25 +56,25 @@ Various instruments that can be played to entertain, inspire, or distract. Chara
 
 ## Using Tools
 
-When a character uses a tool, the DM may call for an ability check to determine the success of the action. The ability associated with the check depends on the specific task and tool being used. If a character has both the relevant skill proficiency and the tool proficiency, they can make the check with advantage. Here are some examples:
+When a character uses a tool, the DM may call for an ability check to determine the success of the action. The ability associated with the check depends on the specific task and tool being used. If a character has both the relevant skill Proficiency and the tool Proficiency, they can make the check with advantage. Here are some examples:
 
 - **Picking a Lock (Thieves' Tools)**  
-If you have proficiency in both Sleight of Hand and thieves' tools, you have advantage on Dexterity checks to pick locks.
+If you have Proficiency in both Sleight of Hand and thieves' tools, you have advantage on Dexterity checks to pick locks.
 - **Stabilizing a Creature (Healer's Kit)**  
-If you have proficiency in both Medicine and the healer's Kit, you have advantage on Wisdom (Medicine) checks to stabilize a dying creature.
+If you have Proficiency in both Medicine and the healer's Kit, you have advantage on Wisdom (Medicine) checks to stabilize a dying creature.
 - **Creating a Potion (Alchemist's Supplies)**  
-If you have proficiency in both Arcana and alchemist's Supplies, you have advantage on Intelligence checks to create potions.
+If you have Proficiency in both Arcana and alchemist's Supplies, you have advantage on Intelligence checks to create potions.
 - **Repairing Armour (Smith's Tools)**  
-If you have proficiency in both Athletics and smith's Tools, you have advantage on Strength checks to repair armour.
+If you have Proficiency in both Athletics and smith's Tools, you have advantage on Strength checks to repair armour.
 - **Performing Music (Musical Instrument)**  
-If you have proficiency in both Performance and a musical instrument, you have advantage on Charisma (Performance) checks when playing the instrument.
+If you have Proficiency in both Performance and a musical instrument, you have advantage on Charisma (Performance) checks when playing the instrument.
 
 ### Benefits of Tool Proficiencies
 
-Tool proficiencies provide characters with several benefits:
+Tool Proficiencies provide characters with several benefits:
 
 - **Increased Success Rates**  
-Adding proficiency bonuses to checks related to tool use increases the chances of success.
+Adding Proficiency Bonuses to checks related to tool use increases the chances of success.
 - **Expanded Skill Set**  
 Tools allow characters to perform tasks that might be impossible otherwise, such as crafting items, disarming traps, or treating injuries.
 
@@ -82,7 +82,7 @@ Tools allow characters to perform tasks that might be impossible otherwise, such
 
 These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. 
 
-Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.
+Proficiency with a set of artisan’s tools lets you add your Proficiency Bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate Proficiency.
 
 ### Alchemist Supplies
 
@@ -95,10 +95,10 @@ Alchemist's Supplies include two glass beakers, a metal frame to hold a beaker i
 Proficiency with alchemist's Supplies allows you to unlock more information on Arcana checks involving potions and similar materials.
 
 **Investigation**  
-When you inspect an area for clues, proficiency with alchemist's Supplies grants additional insight into any chemicals or other substances that might have been used in the area.
+When you inspect an area for clues, Proficiency with alchemist's Supplies grants additional insight into any chemicals or other substances that might have been used in the area.
 
 **Alchemical Crafting**  
-You can use this tool proficiency to create alchemical items. A character can s pend money to collect raw materials, which weigh 1 pound for every 500 SP spent. The DM can allow a character to make a check using the indicated skill with advantage. As part of a long rest, you can use alchemist's Supplies to make one dose of acid, alchemist's fire, antitoxin, oil, perfume, or soap. Subtract half the value of the created item from the total SP worth of raw materials you are carrying.
+You can use this tool Proficiency to create alchemical items. A character can s pend money to collect raw materials, which weigh 1 pound for every 500 SP spent. The DM can allow a character to make a check using the indicated skill with advantage. As part of a long rest, you can use alchemist's Supplies to make one dose of acid, alchemist's fire, antitoxin, oil, perfume, or soap. Subtract half the value of the created item from the total SP worth of raw materials you are carrying.
 
 | **ACTIVITY** | **DC** |
 | --- | :-: |
@@ -119,10 +119,10 @@ Brewer's Supplies include a large glass jug, a quantity of hops, a siphon, and s
 Proficiency with brewer's Supplies gives you additional insight on Intelligence (History) checks concerning events that involve alcohol as a significant element.
 
 **Medicine**  
-This tool proficiency grants additional insight when you treat anyone suffering from alcohol poisoning or when you can use alcohol to dull pain.
+This tool Proficiency grants additional insight when you treat anyone suffering from alcohol poisoning or when you can use alcohol to dull pain.
 
 **Persuasion**  
-A stiff drink can help soften the hardest heart. Your proficiency with brewer's Supplies can help you ply someone with drink, giving them just enough alcohol to mellow their mood.
+A stiff drink can help soften the hardest heart. Your Proficiency with brewer's Supplies can help you ply someone with drink, giving them just enough alcohol to mellow their mood.
 
 **Potable Water**  
 Your knowledge of brewing enables you to purify water that would otherwise be undrinkable. As part of a long rest, you can purify up to 6 gallons of water, or 1 gallon as part of a short rest.
@@ -141,7 +141,7 @@ Skill at carpentry enables a character to construct wooden structures. A carpent
 Carpenter's Tools include a saw, a hammer, nails, a hatchet, a square, a ruler, an adze, a plane, and a chisel.
 
 **History**  
-This tool proficiency aids you in identifying the use and the origin of wooden buildings and other large wooden objects.
+This tool Proficiency aids you in identifying the use and the origin of wooden buildings and other large wooden objects.
 
 **Investigation**  
 You gain additional insight when inspecting areas within wooden structures, because you know tricks of construction that can conceal areas from discovery.
@@ -173,13 +173,13 @@ Calligraphy treats writing as a delicate, beautiful art. Calligraphers produce t
 Calligrapher's Supplies include ink, a dozen sheets of parchment, and three quills.
 
 **Arcana**  
-Although calligraphy is of little help in deciphering the content of magical writings, proficiency with these supplies can aid in identifying who wrote a script of a magical nature.
+Although calligraphy is of little help in deciphering the content of magical writings, Proficiency with these supplies can aid in identifying who wrote a script of a magical nature.
 
 **History**  
-This tool proficiency can augment the benefit of successful checks made to analyze or investigate ancient writings, scrolls, or other texts, including runes etched in stone or messages in frescoes or other displays.
+This tool Proficiency can augment the benefit of successful checks made to analyze or investigate ancient writings, scrolls, or other texts, including runes etched in stone or messages in frescoes or other displays.
 
 **Decipher Treasure Map**  
-This tool proficiency grants you expertise in examining maps. You can make an Intelligence check to determine a map's age, whether a map includes any hidden messages, or similar facts.
+This tool Proficiency grants you expertise in examining maps. You can make an Intelligence check to determine a map's age, whether a map includes any hidden messages, or similar facts.
 
 | **ACTIVITY** | **DC** |
 | --- | :-: |
@@ -229,10 +229,10 @@ Your knowledge of shoes aids you in identifying the magical properties of enchan
 Footwear holds a surprising number of secrets. You can learn where someone has recently visited by examining the wear and the dirt that has accumulated on their shoes. Your experience in repairing shoes makes it easier for you to identify where damage might come from.
 
 **Maintain Shoes**  
-As part of a long rest, you can repair your companions' shoes. For the next 24 hours, up to six creatures of your choice who wear shoes you worked on can travel up to 10 hours a day without making saving throws to avoid exhaustion.
+As part of a long rest, you can repair your companions' shoes. For the next 24 hours, up to six creatures of your choice who wear shoes you worked on can travel up to 10 hours a day without making Saving Throws to avoid exhaustion.
 
 **Craft Hidden Compartment**  
-With 8 hours of work, you can add a hidden compartment to a pair of shoes. The compartment can hold an object up to 3 inches long and 1 inch wide and deep. You make an Intelligence check using your tool proficiency to determine the Intelligence (Investigation) check DC needed to find the compartment.
+With 8 hours of work, you can add a hidden compartment to a pair of shoes. The compartment can hold an object up to 3 inches long and 1 inch wide and deep. You make an Intelligence check using your tool Proficiency to determine the Intelligence (Investigation) check DC needed to find the compartment.
 
 | **ACTIVITY** | **DC** |
 | --- | :-: |
@@ -312,7 +312,7 @@ Jeweler's Tools consist of a small saw and hammer, files, pliers, and tweezers.
 Proficiency with jeweler's Tools grants you knowledge about the reputed mystical uses of gems. This insight proves handy when you make Arcana checks related to gems or gem-encrusted items.
 
 **Investigation**  
-When you inspect jeweled objects, your proficiency with jeweler's Tools aids you in picking out clues they might hold.
+When you inspect jeweled objects, your Proficiency with jeweler's Tools aids you in picking out clues they might hold.
 
 **Identify Gems**  
 You can identify gems and determine their value at a glance.
@@ -555,10 +555,10 @@ A well-crafted forgery, such as papers proclaiming you to be a noble or a writ t
 A forgery kit combined with your knowledge of history improves your ability to create fake historical documents or to tell if an old document is authentic.
 
 **Investigation**  
-When you examine objects, proficiency with a forgery kit is useful for determining how an object was made and whether it is genuine.
+When you examine objects, Proficiency with a forgery kit is useful for determining how an object was made and whether it is genuine.
 
 **Other Tools**  
-Knowledge of other tools makes your forgeries that much more believable. For example, you could combine proficiency with a forgery kit and proficiency with cartographer's Tools to make a fake map.
+Knowledge of other tools makes your forgeries that much more believable. For example, you could combine Proficiency with a forgery kit and Proficiency with cartographer's Tools to make a fake map.
 
 **Quick Fake**  
 As part of a short rest, you can produce a forged document no more than one page in length. As part of a long rest, you can produce a document that is up to four pages long. Your Intelligence check using a forgery kit determines the DC for someone else's Intelligence (Investigation) check to spot the fake.
@@ -579,7 +579,7 @@ An herbalism kit includes pouches to store herbs, clippers and leather gloves fo
 Your knowledge of the nature and uses of herbs can add insight to your magical studies that deal with plants and your attempts to identify potions.
 
 **Investigation**  
-When you inspect an area overgrown with plants, your proficiency can help you pick out details and clues that others might miss.
+When you inspect an area overgrown with plants, your Proficiency can help you pick out details and clues that others might miss.
 
 **Medicine**  
 Your mastery of herbalism improves your ability to treat illnesses and wounds by augmenting your methods of care with medicinal plants.
@@ -633,7 +633,7 @@ When you treat the victim of a poison, your knowledge grants you added insight i
 Working with poisons enables you to acquire lore about which plants and animals are poisonous.
 
 **Handle Poison**  
-Your proficiency allows you to handle and apply a poison without risk of exposing yourself to its effects.
+Your Proficiency allows you to handle and apply a poison without risk of exposing yourself to its effects.
 
 | **ACTIVITY** | **DC** |
 | --- | :-: |

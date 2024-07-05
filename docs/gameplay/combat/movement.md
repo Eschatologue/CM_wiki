@@ -44,10 +44,10 @@ Characters are considered adjacent if they are in squares next to each other (in
 
 ### Cover 
 
-Positioning behind obstacles or other characters can provide cover, granting bonuses to AC and Dexterity saving throws.
+Positioning behind obstacles or other characters can provide cover, granting bonuses to AC and Dexterity Saving Throws.
    
-- **Half Cover.** +2 bonus to AC and Dexterity saving throws.
-- **Three-Quarters Cover.** +5 bonus to AC and Dexterity saving throws.
+- **Half Cover.** +2 bonus to AC and Dexterity Saving Throws.
+- **Three-Quarters Cover.** +5 bonus to AC and Dexterity Saving Throws.
 - **Total Cover.** Cannot be targeted directly by attacks or spells.
 
 ## Space
@@ -60,4 +60,4 @@ If four Large creatures crowd around a Medium or smaller one, there's little roo
 
 ### Squeezing into a Smaller Space
 
-A creature can squeeze through a space that is large enough for a creature one size smaller than it. Thus, a Large creature can squeeze through a passage that's only 5 feet wide. While squeezing through a space, a creature must spend 1 extra foot for every foot it moves there, and it has disadvantage on attack rolls and Dexterity saving throws. Attack rolls against the creature have advantage while it's in the smaller space.
+A creature can squeeze through a space that is large enough for a creature one size smaller than it. Thus, a Large creature can squeeze through a passage that's only 5 feet wide. While squeezing through a space, a creature must spend 1 extra foot for every foot it moves there, and it has disadvantage on attack rolls and Dexterity Saving Throws. Attack rolls against the creature have advantage while it's in the smaller space.

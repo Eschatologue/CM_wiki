@@ -34,7 +34,7 @@
 &ensp;&ensp;&ensp; You gain :dnd-stat-prof:**Proficiency** in the Charisma (Intimidation) skill.
 
 :dnd-trait-savage-attack:{ .lg .middle } **Savage Attack**  
-&ensp;&ensp;&ensp; When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.
+&ensp;&ensp;&ensp; When you score a Critical Hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the Critical Hit.
 
 ---
 
@@ -55,7 +55,7 @@
 *Rare derivatives of orcs known as oni can only be found aboard the Karokorum, Kamikaze flagship. Though often referred to as half-demons or tieflings, these beings are more closely related to orcs than demons. Half-orcs descended from these derivatives possess humanity's ambition and oni's wisdom.*
 
 **Mental Resilience**  
-&ensp;&ensp;&ensp; You have :d20-adv:**Advantage** on :d20-save:**Saving Throws** against being charmed or frightened.
+&ensp;&ensp;&ensp; You have :d20-adv: **Advantage** on :d20-save:**Saving Throws** against being charmed or frightened.
 
 **Oni's Presence**  
-&ensp;&ensp;&ensp; You have proficiency in the Wisdom (Insight) skill. Additionally, you can use your Wisdom modifier instead of your Charisma modifier for any Charisma (Intimidation) checks.
+&ensp;&ensp;&ensp; You have Proficiency in the Wisdom (Insight) skill. Additionally, you can use your Wisdom modifier instead of your Charisma modifier for any Charisma (Intimidation) checks.

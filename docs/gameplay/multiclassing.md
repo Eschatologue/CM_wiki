@@ -40,11 +40,11 @@ You add together the Hit Dice granted by all your classes to form your pool of H
 
 ## Proficiency Bonus
 
-Your proficiency bonus is always based on your total character level, as shown in the Character Advancement table in chapter 1, not your level in a particular class. For example, if you are a fighter 3/rogue 2, you have the proficiency bonus of a 5th-level character, which is +3.
+Your Proficiency Bonus is always based on your total character level, as shown in the Character Advancement table in chapter 1, not your level in a particular class. For example, if you are a fighter 3/rogue 2, you have the Proficiency Bonus of a 5th-level character, which is +3.
 
 ## Proficiencies
 
-When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies, as shown in the Multiclassing Proficiencies table.
+When you gain a level in a class other than your first, you gain only some of that class's starting Proficiencies, as shown in the Multiclassing Proficiencies table.
 
 ##### Multiclassing Proficiencies
 | **Class** | **Proficiencies Gained** |

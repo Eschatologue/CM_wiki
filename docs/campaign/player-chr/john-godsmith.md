@@ -46,7 +46,7 @@ The fierce spirit of the Vulture grants you the ability to move fast as the wind
 
 - **Spirit of the Vulture** 
 
-    While :fontawesome-solid-hand-fist:**Raging**, you can use a :rsc-bonus-action: **Bonus Action** to take the *Dash* action and opportunity attack against you has :d20-disadv:**Disadvantage**.
+    While :fontawesome-solid-hand-fist:**Raging**, you can use a :rsc-bonus-action: **Bonus Action** to take the *Dash* action and opportunity attack against you has :d20-disadv: **Disadvantage**.
 
 - **Precision Throw** 
     
@@ -62,7 +62,7 @@ The noble spirit of the Elk makes you extraordinarily swift.
 
 - **Mighty Charge** 
 
-    While :fontawesome-solid-hand-fist:**Raging**, you gain :d20-adv:**Advantage** on an attack made using Strength after moving at least 10 feet in a straight line, on hit your target must succeed a Strength :material-shield:Saving Throw, or it is knocked prone or is pushed 10 ft. (your choice). The DC is equals to 10 or half the damage you dealt on the attack, whichever is higher.
+    While :fontawesome-solid-hand-fist:**Raging**, you gain :d20-adv: **Advantage** on an attack made using Strength after moving at least 10 feet in a straight line, on hit your target must succeed a Strength :material-shield:Saving Throw, or it is knocked prone or is pushed 10 ft. (your choice). The DC is equals to 10 or half the damage you dealt on the attack, whichever is higher.
 
 ### Totemic Spirit: Elephant
 
@@ -98,7 +98,7 @@ While :fontawesome-solid-hand-fist:**Raging**, when you hit a creature with a cl
 
 You gain the aspect of Antares’ primordial Paths, you can either choose from the list below or choose the one from the options of the original Totem Warrior 6th-level feature.
 
-- **The Fool.** You gain proficiency in three skills of your choice.
+- **The Fool.** You gain Proficiency in three skills of your choice.
 - **The Magician.** When you make a Intelligence (Arcana) or Intelligence (Insight) check you can add your Constitution modifier to your roll.
 - **The Hierophant.** When you make a Wisdom (History) or a Wisdom (Religion) check you can add your Constitution modifier to your roll.
 - **The Lovers.** When you make a Charisma (Performance) or Charisma (Persuasion) check you can add your Constitution modifier to your roll.

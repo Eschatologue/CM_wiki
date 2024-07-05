@@ -43,7 +43,7 @@ Typically, you use persuasion when acting in good faith, to foster friendships, 
 
 ### Spellcasting Ability
 
-Bards, paladins, sorcerers, and warlocks use Charisma as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
+Bards, paladins, sorcerers, and warlocks use Charisma as their spellcasting ability, which helps determine the Saving Throw DCs of spells they cast.
 
 ### Charisma saves
 

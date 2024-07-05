@@ -48,7 +48,7 @@ If you're unsure about which background to choose, this D&D campaign uses the op
     Two of your choice.  
 
     #### Languages and Tool Proficiencies
-    Two languages or two tool proficiencies or one language and one tool proficiency.  
+    Two languages or two tool Proficiencies or one language and one tool Proficiency.  
     
     #### Equipment
     The equipment package from any [background]:material-information-outline:{ title="Only from Common Background!" }.
@@ -88,7 +88,7 @@ Each of a creature's abilities has a score, a number that defines the magnitude 
 
 A score of 10 or 11 is the normal human average, but adventurers and many monsters are a cut above average in most abilities. A score of 18 is the highest that a person usually reaches. Adventurers can have scores as high as 20, and monsters and divine beings can have scores as high as 30.
 
-Because ability modifiers affect almost every attack roll, ability check, and saving throw, ability modifiers come up in play more often than their associated scores.
+Because ability modifiers affect almost every attack roll, ability check, and Saving Throw, ability modifiers come up in play more often than their associated scores.
 
 #### Ability Scores and Modifiers Table
 

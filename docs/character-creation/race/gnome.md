@@ -31,7 +31,7 @@
 &ensp;&ensp;&ensp; You can see in the dark up to 60 ft.
 
 :d20-save:{ .lg .middle } **Gnome Cunning**  
-&ensp;&ensp;&ensp; You have :d20-adv:**Advantage** on all on all Intelligence, Wisdom, and Charisma :d20-save:**Saving Throws** against magic.
+&ensp;&ensp;&ensp; You have :d20-adv: **Advantage** on all on all Intelligence, Wisdom, and Charisma :d20-save:**Saving Throws** against magic.
 
 ---
 

@@ -128,10 +128,10 @@ If a spell must be maintained with concentration, that fact appears in its Durat
 Normal activity, such as moving and attacking, doesn't interfere with concentration. The following factors can break concentration:
 
 - **Casting another spell that requires concentration.** You lose concentration on a spell if you cast another spell that requires concentration. You can't concentrate on two spells at once.
-- **Taking damage.** Whenever you take damage while you are concentrating on a spell, you must make a Constitution saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon's breath, you make a separate saving throw for each source of damage.
+- **Taking damage.** Whenever you take damage while you are concentrating on a spell, you must make a Constitution Saving Throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon's breath, you make a separate Saving Throw for each source of damage.
 - **Being incapacitated or killed.** You lose concentration on a spell if you are incapacitated or if you die.
 
-The DM might also decide that certain environmental phenomena, such as a wave crashing over you while you're on a storm-tossed ship, require you to succeed on a DC 10 Constitution saving throw to maintain concentration on a spell.
+The DM might also decide that certain environmental phenomena, such as a wave crashing over you while you're on a storm-tossed ship, require you to succeed on a DC 10 Constitution Saving Throw to maintain concentration on a spell.
 
 ### Targets
 
@@ -187,13 +187,13 @@ A sphere's point of origin is included in the sphere's area of effect.
 
 ### Saving Throws
 
-Many spells specify that a target can make a saving throw to avoid some or all of a spell's effects. The spell specifies the ability that the target uses for the save and what happens on a success or failure.
+Many spells specify that a target can make a Saving Throw to avoid some or all of a spell's effects. The spell specifies the ability that the target uses for the save and what happens on a success or failure.
 
-The DC to resist one of your spells equals `8 + your spellcasting ability modifier + your proficiency bonus + any special modifiers`.
+The DC to resist one of your spells equals `8 + your spellcasting ability modifier + your Proficiency Bonus + any special modifiers`.
 
 ### Attack Rolls
 
-Some spells require the caster to make an attack roll to determine whether the spell effect hits the intended target. Your attack bonus with a spell attack equals your spellcasting ability modifier + your proficiency bonus.
+Some spells require the caster to make an attack roll to determine whether the spell effect hits the intended target. Your attack bonus with a spell attack equals your spellcasting ability modifier + your Proficiency Bonus.
 
 Most spells that require attack rolls involve ranged attacks. Remember that you have disadvantage on a ranged attack roll if you are within 5 feet of a hostile creature that can see you and that isn't incapacitated.
 

@@ -26,7 +26,7 @@ Any creature or object entering the portal exits from the other portal as if the
 
 You create a vertical wall of whirling, razor-sharp blades made of magical energy. The wall appears within range and lasts for the duration. You can make a straight wall up to 100 feet long, 20 feet high, and 5 feet thick, or a ringed wall up to 60 feet in diameter, 20 feet high, and 5 feet thick. The wall provides three-quarters cover to creatures behind it, and its space is difficult terrain.
 
-When a creature enters the wall's area for the first time on a turn or starts its turn there, the creature must make a Dexterity saving throw. On a failed save, the creature takes 6d10 slashing damage. On a successful save, the creature takes half as much damage.
+When a creature enters the wall's area for the first time on a turn or starts its turn there, the creature must make a Dexterity Saving Throw. On a failed save, the creature takes 6d10 slashing damage. On a successful save, the creature takes half as much damage.
 
 ### Bones of the Earth
 *6th-level transmutation*
@@ -38,7 +38,7 @@ When a creature enters the wall's area for the first time on a turn or starts it
 
 You cause up to six pillars of stone to burst from places on the ground that you can see within range. Each pillar is a cylinder that has a diameter of 5 feet and a height of up to 30 feet. The ground where a pillar appears must be wide enough for its diameter, and you can target the ground under a creature if that creature is Medium or smaller. Each pillar has AC 5 and 30 hit points. When reduced to 0 hit points, a pillar crumbles into rubble, which creates an area of difficult terrain with a 10-foot radius that lasts until the rubble is cleared. Each 5-foot-diameter portion of the area requires at least 1 minute to clear by hand.
 
-If a pillar is created under a creature, that creature must succeed on a Dexterity saving throw or be lifted by the pillar. A creature can choose to fail the save.
+If a pillar is created under a creature, that creature must succeed on a Dexterity Saving Throw or be lifted by the pillar. A creature can choose to fail the save.
 
 If a pillar is prevented from reaching its full height because of a ceiling or other obstacle, a creature on the pillar takes 6d6 bludgeoning damage and is restrained, pinched between the pillar and the obstacle. The restrained creature can use an action to make a Strength or Dexterity check (the creature's choice) against the spell's save DC. On a success, the creature is no longer restrained and must either move off the pillar or fall off it.
 
@@ -54,7 +54,7 @@ If a pillar is prevented from reaching its full height because of a ceiling or o
 
 You create a bolt of lightning that arcs toward a target of your choice that you can see within range. Three bolts then leap from that target to as many as three other targets, each of which must be within 30 feet of the first target. A target can be a creature or an object and can be targeted by only one of the bolts.
 
-A target must make a Dexterity saving throw. The target takes 10d8 lightning damage on a failed save, or half as much damage on a successful one.
+A target must make a Dexterity Saving Throw. The target takes 10d8 lightning damage on a failed save, or half as much damage on a successful one.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, one additional bolt leaps from the first target to another target for each slot level above 6th.
 
@@ -66,7 +66,7 @@ A target must make a Dexterity saving throw. The target takes 10d8 lightning dam
 **Components:** V, S, M (the powder of a crushed black pearl worth at least 500 gp)  
 **Duration:** Instantaneous
 
-A sphere of negative energy ripples out in a 60-foot-radius sphere from a point within range. Each creature in that area must make a Constitution saving throw. A target takes 8d6 necrotic damage on a failed save, or half as much damage on a successful one.
+A sphere of negative energy ripples out in a 60-foot-radius sphere from a point within range. Each creature in that area must make a Constitution Saving Throw. A target takes 8d6 necrotic damage on a failed save, or half as much damage on a successful one.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, the damage increases by 2d6 for each slot level above 6th.
 
@@ -142,7 +142,7 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 A thin green ray springs from your pointing finger to a target that you can see within range. The target can be a creature, an object, or a creation of magical force, such as the wall created by *wall of force*.
 
-A creature targeted by this spell must make a Dexterity saving throw. On a failed save, the target takes 10d6 + 40 force damage. The target is disintegrated if this damage leaves it with 0 hit points.
+A creature targeted by this spell must make a Dexterity Saving Throw. On a failed save, the target takes 10d6 + 40 force damage. The target is disintegrated if this damage leaves it with 0 hit points.
 
 A disintegrated creature and everything it is wearing and carrying, except magic items, are reduced to a pile of fine gray dust. The creature can be restored to life only by means of a *true resurrection* or a *wish* spell.
 
@@ -202,13 +202,13 @@ To a creature immune to this effect, the winds are a fragrant, gentle breeze, an
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-For the spell's duration, your eyes become an inky void imbued with dread power. One creature of your choice within 60 feet of you that you can see must succeed on a Wisdom saving throw or be affected by one of the following effects of your choice for the duration. On each of your turns until the spell ends, you can use your action to target another creature but can't target a creature again if it has succeeded on a saving throw against this casting of eyebite.
+For the spell's duration, your eyes become an inky void imbued with dread power. One creature of your choice within 60 feet of you that you can see must succeed on a Wisdom Saving Throw or be affected by one of the following effects of your choice for the duration. On each of your turns until the spell ends, you can use your action to target another creature but can't target a creature again if it has succeeded on a Saving Throw against this casting of eyebite.
 
 ***Asleep.*** The target falls unconscious. It wakes up if it takes any damage or if another creature uses its action to shake the sleeper awake.
 
 ***Panicked.*** The target is frightened of you. On each of its turns, the frightened creature must take the Dash action and move away from you by the safest and shortest available route, unless there is nowhere to move. If the target moves to a place at least 60 feet away from you where it can no longer see you, this effect ends.
 
-***Sickened.*** The target has disadvantage on attack rolls and ability checks. At the end of each of its turns, it can make another Wisdom saving throw. If it succeeds, the effect ends.
+***Sickened.*** The target has disadvantage on attack rolls and ability checks. At the end of each of its turns, it can make another Wisdom Saving Throw. If it succeeds, the effect ends.
 
 ### Find the Path
 *6th-level divination*
@@ -234,7 +234,7 @@ You create a field of silvery light that surrounds a creature of your choice wit
   
 **Cover.** The creature has half cover.  
 **Damage Resistance.** The creature has resistance to acid, cold, fire, lightning, and poison damage.  
-**Evasion.** If the creature is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the creature instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
+**Evasion.** If the creature is subjected to an effect that allows it to make a Dexterity Saving Throw to take only half damage, the creature instead takes no damage if it succeeds on the Saving Throw, and only half damage if it fails.
 
 As a bonus action on subsequent turns, you can move the field to another creature within 60 feet of the field.
 
@@ -246,9 +246,9 @@ As a bonus action on subsequent turns, you can move the field to another creatur
 **Components:** V, S, M (a pinch of lime, water, and earth)  
 **Duration:** Concentration, up to 1 minute
 
-You attempt to turn one creature that you can see within range into stone. If the target's body is made of flesh, the creature must make a Constitution saving throw. On a failed save, it is restrained as its flesh begins to harden. On a successful save, the creature isn't affected.
+You attempt to turn one creature that you can see within range into stone. If the target's body is made of flesh, the creature must make a Constitution Saving Throw. On a failed save, it is restrained as its flesh begins to harden. On a successful save, the creature isn't affected.
 
-A creature restrained by this spell must make another Constitution saving throw at the end of each of its turns. If it successfully saves against this spell three times, the spell ends. If it fails its saves three times, it is turned to stone and subjected to the petrified condition for the duration. The successes and failures don't need to be consecutive; keep track of both until the target collects three of a kind.
+A creature restrained by this spell must make another Constitution Saving Throw at the end of each of its turns. If it successfully saves against this spell three times, the spell ends. If it fails its saves three times, it is turned to stone and subjected to the petrified condition for the duration. The successes and failures don't need to be consecutive; keep track of both until the target collects three of a kind.
 
 If the creature is physically broken while petrified, it suffers from similar deformities if it reverts to its original state.
 
@@ -324,7 +324,7 @@ You can create a permanently guarded and warded structure by casting this spell 
 **Components:** V, S  
 **Duration:** Instantaneous
 
-You unleash a virulent disease on a creature that you can see within range. The target must make a Constitution saving throw. On a failed save, it takes 14d6 necrotic damage, or half as much damage on a successful save. The damage can't reduce the target's hit points below 1. If the target fails the saving throw, its hit point maximum is reduced for 1 hour by an amount equal to the necrotic damage it took. Any effect that removes a disease allows a creature's hit point maximum to return to normal before that time passes.
+You unleash a virulent disease on a creature that you can see within range. The target must make a Constitution Saving Throw. On a failed save, it takes 14d6 necrotic damage, or half as much damage on a successful save. The damage can't reduce the target's hit points below 1. If the target fails the Saving Throw, its hit point maximum is reduced for 1 hour by an amount equal to the necrotic damage it took. Any effect that removes a disease allows a creature's hit point maximum to return to normal before that time passes.
 
 ### Heal
 *6th-level evocation*
@@ -348,7 +348,7 @@ Choose a creature that you can see within range. A surge of positive energy wash
 
 You bring forth a great feast, including magnificent food and drink. The feast takes 1 hour to consume and disappears at the end of that time, and the beneficial effects don't set in until this hour is over. Up to twelve creatures can partake of the feast.
 
-A creature that partakes of the feast gains several benefits. The creature is cured of all diseases and poison, becomes immune to poison and being frightened, and makes all Wisdom saving throws with advantage. Its hit point maximum also increases by 2d10, and it gains the same number of hit points. These benefits last for 24 hours.
+A creature that partakes of the feast gains several benefits. The creature is cured of all diseases and poison, becomes immune to poison and being frightened, and makes all Wisdom Saving Throws with advantage. Its hit point maximum also increases by 2d10, and it gains the same number of hit points. These benefits last for 24 hours.
 
 ### Investiture of Flame
 *6th-level transmutation*
@@ -362,7 +362,7 @@ Flames race across your body, shedding bright light in a 30-foot radius and dim 
   
 You are immune to fire damage and have resistance to cold damage.  
 Any creature that moves within 5 feet of you for the first time on a turn or ends its turn there takes 1d10 fire damage.  
-You can use your action to create a line of fire 15 feet long and 5 feet wide extending from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 4d8 fire damage on a failed save, or half as much damage on a successful one.
+You can use your action to create a line of fire 15 feet long and 5 feet wide extending from you in a direction you choose. Each creature in the line must make a Dexterity Saving Throw. A creature takes 4d8 fire damage on a failed save, or half as much damage on a successful one.
 
 ### Investiture of Ice
 *6th-level transmutation*
@@ -377,7 +377,7 @@ Until the spell ends, ice rimes your body, and you gain the following benefits:
 You are immune to cold damage and have resistance to fire damage.  
 You can move across difficult terrain created by ice or snow without spending extra movement.  
 The ground in a 10-foot radius around you is icy and is difficult terrain for creatures other than you. The radius moves with you.  
-You can use your action to create a 15-foot cone of freezing wind extending from your outstretched hand in a direction you choose. Each creature in the cone must make a Constitution saving throw. A creature takes 4d6 cold damage on a failed save, or half as much damage on a successful one. A creature that fails its save against this effect has its speed halved until the start of your next turn.
+You can use your action to create a 15-foot cone of freezing wind extending from your outstretched hand in a direction you choose. Each creature in the cone must make a Constitution Saving Throw. A creature takes 4d6 cold damage on a failed save, or half as much damage on a successful one. A creature that fails its save against this effect has its speed halved until the start of your next turn.
 
 ### Investiture of Stone
 *6th-level transmutation*
@@ -390,7 +390,7 @@ You can use your action to create a 15-foot cone of freezing wind extending from
 Until the spell ends, bits of rock spread across your body, and you gain the following benefits:
   
 You have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.  
-You can use your action to create a small earthquake on the ground in a 15-foot radius centered on you. Other creatures on that ground must succeed on a Dexterity saving throw or be knocked prone.  
+You can use your action to create a small earthquake on the ground in a 15-foot radius centered on you. Other creatures on that ground must succeed on a Dexterity Saving Throw or be knocked prone.  
 You can move across difficult terrain made of earth or stone without spending extra movement. You can move through solid earth or stone as if it was air and without destabilizing it, but you can't end your movement there. If you do so, you are ejected to the nearest unoccupied space, this spell ends, and you are stunned until the end of your next turn.
 
 ### Investiture of Wind
@@ -405,7 +405,7 @@ Until the spell ends, wind whirls around you, and you gain the following benefit
   
 Ranged weapon attacks made against you have disadvantage on the attack roll.  
 You gain a flying speed of 60 feet. If you are still flying when the spell ends, you fall, unless you can somehow prevent it.  
-You can use your action to create a 15-foot cube of swirling wind centered on a point you can see within 60 feet of you. Each creature in that area must make a Constitution saving throw. A creature takes 2d10 bludgeoning damage on a failed save, or half as much damage on a successful one. If a Large or smaller creature fails the save, that creature is also pushed up to 10 feet away from the center of the cube.
+You can use your action to create a 15-foot cube of swirling wind centered on a point you can see within 60 feet of you. Each creature in that area must make a Constitution Saving Throw. A creature takes 2d10 bludgeoning damage on a failed save, or half as much damage on a successful one. If a Large or smaller creature fails the save, that creature is also pushed up to 10 feet away from the center of the cube.
 
 ### Magic Jar
 *6th-level necromancy*
@@ -417,13 +417,13 @@ You can use your action to create a 15-foot cube of swirling wind centered on a 
 
 Your body falls into a catatonic state as your soul leaves it and enters the container you used for the spell's material component. While your soul inhabits the container, you are aware of your surroundings as if you were in the container's space. You can't move or use reactions. The only action you can take is to project your soul up to 100 feet out of the container, either returning to your living body (and ending the spell) or attempting to possess a humanoid's body.
 
-You can attempt to possess any humanoid within 100 feet of you that you can see (creatures warded by a *protection from evil and good* or *magic circle* spell can't be possessed). The target must make a Charisma saving throw. On a failure, your soul moves into the target's body, and the target's soul becomes trapped in the container. On a success, the target resists your efforts to possess it, and you can't attempt to possess it again for 24 hours.
+You can attempt to possess any humanoid within 100 feet of you that you can see (creatures warded by a *protection from evil and good* or *magic circle* spell can't be possessed). The target must make a Charisma Saving Throw. On a failure, your soul moves into the target's body, and the target's soul becomes trapped in the container. On a success, the target resists your efforts to possess it, and you can't attempt to possess it again for 24 hours.
 
 Once you possess a creature's body, you control it. Your game statistics are replaced by the statistics of the creature, though you retain your alignment and your Intelligence, Wisdom, and Charisma scores. You retain the benefit of your own class features. If the target has any class levels, you can't use any of its class features.
 
 Meanwhile, the possessed creature's soul can perceive from the container using its own senses, but it can't move or take actions at all.
 
-While possessing a body, you can use your action to return from the host body to the container if it is within 100 feet of you, returning the host creature's soul to its body. If the host body dies while you're in it, the creature dies, and you must make a Charisma saving throw against your own spellcasting DC. On a success, you return to the container if it is within 100 feet of you. Otherwise, you die.
+While possessing a body, you can use your action to return from the host body to the container if it is within 100 feet of you, returning the host creature's soul to its body. If the host body dies while you're in it, the creature dies, and you must make a Charisma Saving Throw against your own spellcasting DC. On a success, you return to the container if it is within 100 feet of you. Otherwise, you die.
 
 If the container is destroyed or the spell ends, your soul immediately returns to your body. If your body is more than 100 feet away from you or if your body is dead when you attempt to return to it, you die. If another creature's soul is in the container when it is destroyed, the creature's soul returns to its body if the body is alive and within 100 feet. Otherwise, that creature dies.
 
@@ -439,7 +439,7 @@ When the spell ends, the container is destroyed.
 
 You suggest a course of activity (limited to a sentence or two) and magically influence up to twelve creatures of your choice that you can see within range and that can hear and understand you. Creatures that can't be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act automatically negates the effect of the spell.
 
-Each target must make a Wisdom saving throw. On a failed save, it pursues the course of action you described to the best of its ability. The suggested course of action can continue for the entire duration. If the suggested activity can be completed in a shorter time, the spell ends when the subject finishes what it was asked to do.
+Each target must make a Wisdom Saving Throw. On a failed save, it pursues the course of action you described to the best of its ability. The suggested course of action can continue for the entire duration. If the suggested activity can be completed in a shorter time, the spell ends when the subject finishes what it was asked to do.
 
 You can also specify conditions that will trigger a special activity during the duration. For example, you might suggest that a group of soldiers give all their money to the first beggar they meet. If the condition isn't met before the spell ends, the activity isn't performed.
 
@@ -455,7 +455,7 @@ If you or any of your companions damage a creature affected by this spell, the s
 **Components:** S  
 **Duration:** Concentration, up to 1 minute
 
-You attempt to bind a creature within an illusory cell that only it perceives. One creature you can see within range must make an Intelligence saving throw. The target succeeds automatically if it is immune to being charmed. On a successful save, the target takes 5d10 psychic damage, and the spell ends. On a failed save, the target takes 5d10 psychic damage, and you make the area immediately around the target's space appear dangerous to it in some way. You might cause the target to perceive itself as being surrounded by fire, floating razors, or hideous maws filled with dripping teeth. Whatever form the illusion takes, the target can't see or hear anything beyond it and is restrained for the spell's duration. If the target is moved out of the illusion, makes a melee attack through it, or reaches any part of its body through it, the target takes 10d10 psychic damage, and the spell ends.
+You attempt to bind a creature within an illusory cell that only it perceives. One creature you can see within range must make an Intelligence Saving Throw. The target succeeds automatically if it is immune to being charmed. On a successful save, the target takes 5d10 psychic damage, and the spell ends. On a failed save, the target takes 5d10 psychic damage, and you make the area immediately around the target's space appear dangerous to it in some way. You might cause the target to perceive itself as being surrounded by fire, floating razors, or hideous maws filled with dripping teeth. Whatever form the illusion takes, the target can't see or hear anything beyond it and is restrained for the spell's duration. If the target is moved out of the illusion, makes a melee attack through it, or reaches any part of its body through it, the target takes 10d10 psychic damage, and the spell ends.
 
 ### Move Earth
 *6th-level transmutation*
@@ -483,7 +483,7 @@ Similarly, this spell doesn't directly affect plant growth. The moved earth carr
 **Components:** V, S, M (a small crystal sphere)  
 **Duration:** Instantaneous
 
-A frigid globe of cold energy streaks from your fingertips to a point of your choice within range, where it explodes in a 60-foot-radius sphere. Each creature within the area must make a Constitution saving throw. On a failed save, a creature takes 10d6 cold damage. On a successful save, it takes half as much damage.
+A frigid globe of cold energy streaks from your fingertips to a point of your choice within range, where it explodes in a 60-foot-radius sphere. Each creature within the area must make a Constitution Saving Throw. On a failed save, a creature takes 10d6 cold damage. On a successful save, it takes half as much damage.
 
 If the globe strikes a body of water or a liquid that is principally water (not including water-based creatures), it freezes the liquid to a depth of 6 inches over an area 30 feet square. This ice lasts for 1 minute. Creatures that were swimming on the surface of frozen water are trapped in the ice. A trapped creature can use an action to make a Strength check against your spell save DC to break free.
 
@@ -501,7 +501,7 @@ You can refrain from firing the globe after completing the spell, if you wish. A
 
 Choose one creature that you can see within range. The target begins a comic dance in place: shuffling, tapping its feet, and capering for the duration. Creatures that can't be charmed are immune to this spell.
 
-A dancing creature must use all its movement to dance without leaving its space and has disadvantage on Dexterity saving throws and attack rolls. While the target is affected by this spell, other creatures have advantage on attack rolls against it. As an action, a dancing creature makes a Wisdom saving throw to regain control of itself. On a successful save, the spell ends.
+A dancing creature must use all its movement to dance without leaving its space and has disadvantage on Dexterity Saving Throws and attack rolls. While the target is affected by this spell, other creatures have advantage on attack rolls against it. As an action, a dancing creature makes a Wisdom Saving Throw to regain control of itself. On a successful save, the spell ends.
 
 ### Planar Ally
 *6th-level conjuration*
@@ -559,7 +559,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 **Components:** V  
 **Duration:** Instantaneous
 
-The air quivers around up to five creatures of your choice that you can see within range. An unwilling creature must succeed on a Wisdom saving throw to resist this spell. You teleport each affected target to an unoccupied space that you can see within 120 feet of you. That space must be on the ground or on a floor.
+The air quivers around up to five creatures of your choice that you can see within range. An unwilling creature must succeed on a Wisdom Saving Throw to resist this spell. You teleport each affected target to an unoccupied space that you can see within 120 feet of you. That space must be on the ground or on a floor.
 
 ### Soul Cage
 *6th-level necromancy*
@@ -575,7 +575,7 @@ This spell snatches the soul of a humanoid as it dies and traps it inside the ti
 
 ***Query Soul.*** You ask the soul a question (no action required) and receive a brief telepathic answer, which you can understand regardless of the language used. The soul knows only what it knew in life, but it must answer you truthfully and to the best of its ability. The answer is no more than a sentence or two and might be cryptic.
 
-***Borrow Experience.*** You can use a bonus action to bolster yourself with the soul's life experience, making your next attack roll, ability check, or saving throw with advantage. If you don't use this benefit before the start of your next turn, it is lost.
+***Borrow Experience.*** You can use a bonus action to bolster yourself with the soul's life experience, making your next attack roll, ability check, or Saving Throw with advantage. If you don't use this benefit before the start of your next turn, it is lost.
 
 ***Eyes of the Dead.*** You can use an action to name a place the humanoid saw in life, which creates an invisible sensor somewhere in that place if it is on the plane of existence you're currently on. The sensor remains for as long as you concentrate, up to 10 minutes (as if you were concentrating on a spell). You receive visual and auditory information from the sensor as if you were in its space using your senses.
 
@@ -603,7 +603,7 @@ The creature is an ally to you and your companions. In combat, the creature shar
 **Components:** V, S, M (a magnifying glass)  
 **Duration:** Concentration, up to 1 minute
 
-A beam of brilliant light flashes out from your hand in a 5-foot-wide, 60-foot-long line. Each creature in the line must make a Constitution saving throw. On a failed save, a creature takes 6d8 radiant damage and is blinded until your next turn. On a successful save, it takes half as much damage and isn't blinded by this spell. Undead and oozes have disadvantage on this saving throw.
+A beam of brilliant light flashes out from your hand in a 5-foot-wide, 60-foot-long line. Each creature in the line must make a Constitution Saving Throw. On a failed save, a creature takes 6d8 radiant damage and is blinded until your next turn. On a successful save, it takes half as much damage and isn't blinded by this spell. Undead and oozes have disadvantage on this Saving Throw.
 
 You can create a new line of radiance as your action on any turn until the spell ends.
 
@@ -639,11 +639,11 @@ You endow yourself with endurance and martial prowess fueled by magic. Until the
 You gain 50 temporary hit points. If any of these remain when the spell ends, they are lost.  
 You have advantage on attack rolls that you make with simple and martial weapons.  
 When you hit a target with a weapon attack, that target takes an extra 2d12 force damage.  
-You have proficiency with all armor, shields, simple weapons, and martial weapons.  
-You have proficiency in Strength and Constitution saving throws.  
+You have Proficiency with all armor, shields, simple weapons, and martial weapons.  
+You have Proficiency in Strength and Constitution Saving Throws.  
 You can attack twice, instead of once, when you take the Attack action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that gives you extra attacks.
 
-Immediately after the spell ends, you must succeed on a DC 15 Constitution saving throw or suffer one level of exhaustion.
+Immediately after the spell ends, you must succeed on a DC 15 Constitution Saving Throw or suffer one level of exhaustion.
 
 ### Transport via Plants
 *6th-level conjuration*
@@ -675,9 +675,9 @@ This spell gives the willing creature you touch the ability to see things as the
 
 You create a wall of ice on a solid surface within range. You can form it into a hemispherical dome or a sphere with a radius of up to 10 feet, or you can shape a flat surface made up of ten 10-foot-square panels. Each panel must be contiguous with another panel. In any form, the wall is 1 foot thick and lasts for the duration.
 
-If the wall cuts through a creature's space when it appears, the creature within its area is pushed to one side of the wall and must make a Dexterity saving throw. On a failed save, the creature takes 10d6 cold damage, or half as much damage on a successful save.
+If the wall cuts through a creature's space when it appears, the creature within its area is pushed to one side of the wall and must make a Dexterity Saving Throw. On a failed save, the creature takes 10d6 cold damage, or half as much damage on a successful save.
 
-The wall is an object that can be damaged and thus breached. It has AC 12 and 30 hit points per 10-foot section, and it is vulnerable to fire damage. Reducing a 10-foot section of wall to 0 hit points destroys it and leaves behind a sheet of frigid air in the space the wall occupied. A creature moving through the sheet of frigid air for the first time on a turn must make a Constitution saving throw. That creature takes 5d6 cold damage on a failed save, or half as much damage on a successful one.
+The wall is an object that can be damaged and thus breached. It has AC 12 and 30 hit points per 10-foot section, and it is vulnerable to fire damage. Reducing a 10-foot section of wall to 0 hit points destroys it and leaves behind a sheet of frigid air in the space the wall occupied. A creature moving through the sheet of frigid air for the first time on a turn must make a Constitution Saving Throw. That creature takes 5d6 cold damage on a failed save, or half as much damage on a successful one.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, the damage the wall deals when it appears increases by 2d6, and the damage from passing through the sheet of frigid air increases by 1d6, for each slot level above 6th.
 
@@ -691,9 +691,9 @@ The wall is an object that can be damaged and thus breached. It has AC 12 and 30
 
 You create a wall of tough, pliable, tangled brush bristling with needle-sharp thorns. The wall appears within range on a solid surface and lasts for the duration. You choose to make the wall up to 60 feet long, 10 feet high, and 5 feet thick or a circle that has a 20-foot diameter and is up to 20 feet high and 5 feet thick. The wall blocks line of sight.
 
-When the wall appears, each creature within its area must make a Dexterity saving throw. On a failed save, a creature takes 7d8 piercing damage, or half as much damage on a successful save.
+When the wall appears, each creature within its area must make a Dexterity Saving Throw. On a failed save, a creature takes 7d8 piercing damage, or half as much damage on a successful save.
 
-A creature can move through the wall, albeit slowly and painfully. For every 1 foot a creature moves through the wall, it must spend 4 feet of movement. Furthermore, the first time a creature enters the wall on a turn or ends its turn there, the creature must make a Dexterity saving throw. It takes 7d8 slashing damage on a failed save, or half as much damage on a successful one.
+A creature can move through the wall, albeit slowly and painfully. For every 1 foot a creature moves through the wall, it must spend 4 feet of movement. Furthermore, the first time a creature enters the wall on a turn or ends its turn there, the creature must make a Dexterity Saving Throw. It takes 7d8 slashing damage on a failed save, or half as much damage on a successful one.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, both types of damage increase by 1d8 for each slot level above 6th.
 
@@ -729,9 +729,9 @@ You must designate a sanctuary by casting this spell within a location, such as 
 **Components:** V, S, M (a fistful of iron filings)  
 **Duration:** Instantaneous
 
-You manifest a ravine of gravitational energy in a line originating from you that is 100 feet long and 5 feet wide. Each creature in that line must make a Constitution saving throw, taking 8d8 force damage on a failed save, or half as much damage on a successful one.
+You manifest a ravine of gravitational energy in a line originating from you that is 100 feet long and 5 feet wide. Each creature in that line must make a Constitution Saving Throw, taking 8d8 force damage on a failed save, or half as much damage on a successful one.
 
-Each creature within 10 feet of the line but not in it must succeed on a Constitution saving throw or take 8d8 force damage and be pulled toward the line until the creature is in its area.
+Each creature within 10 feet of the line but not in it must succeed on a Constitution Saving Throw or take 8d8 force damage and be pulled toward the line until the creature is in its area.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, the damage increases by 1d8 for each slot level above 6th.
 

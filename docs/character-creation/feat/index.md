@@ -29,7 +29,7 @@ Many feats require a minimum score in one or more ability scores. This ensures t
 - Prerequisite: Dexterity 13+, Wisdom 13+
 
 ### Skill Proficiency Requirements
-Some feats require proficiency in specific skills. This shows that only characters who have trained in these skills can access the feat.
+Some feats require Proficiency in specific skills. This shows that only characters who have trained in these skills can access the feat.
 
 **Example:**  
 - Prerequisite: Proficiency in Religion

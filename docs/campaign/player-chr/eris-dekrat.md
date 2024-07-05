@@ -10,7 +10,7 @@ icon: dnd/stat-spellcasting
 
 ## Bonus Proficiencies <span style="float:right;"> <small> Level 1 </small> </span>
 
-You gain proficiency in Intelligence (Arcana) if you don’t already have it. Moreover, you can add your Charisma modifier to an Intelligence (Arcana) check to recall lore about spells, magic items, or magic symbolism related to your nation. 
+You gain Proficiency in Intelligence (Arcana) if you don’t already have it. Moreover, you can add your Charisma modifier to an Intelligence (Arcana) check to recall lore about spells, magic items, or magic symbolism related to your nation. 
 
 ## Clairvoyance <span style="float:right;"> <small> Level 1 </small> </span>
 
@@ -30,7 +30,7 @@ When you sense magic in this way, as an :rsc-action: **Action**, you can focus y
 
 If the object or creature is hidden from divination magic, such as a *nondetection* spell, it appears as if it is mundane or it cannot cast spells.
 
-You can use this feature a number of times equal to your proficiency bonus before needing a long rest.
+You can use this feature a number of times equal to your Proficiency Bonus before needing a long rest.
 
 ## Spellcasting <span style="float:right;"> <small> Level 3 </small> </span>
 
@@ -73,10 +73,10 @@ You brandish your weapon when you cast spells; any melee weapon that has the :we
 
 ### Spellcasting Ability
 
-Charisma is your spellcasting ability for your spells, since your magic is innate. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a spell you cast and when making an attack roll with one.
+Charisma is your spellcasting ability for your spells, since your magic is innate. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the Saving Throw DC for a spell you cast and when making an attack roll with one.
 
-- :d20-save: **Spell Save DC** = 8 + your proficiency bonus + your Charisma modifier.
-- :d20-attack: **Spell Attack Modifier** = your proficiency bonus + your Charisma modifier.
+- :d20-save: **Spell Save DC** = 8 + your Proficiency Bonus + your Charisma modifier.
+- :d20-attack: **Spell Attack Modifier** = your Proficiency Bonus + your Charisma modifier.
 
 ### Spells Known
 
@@ -101,7 +101,7 @@ If your attack misses, the spell fails and has no effect. On a hit, the spell ta
 
 - :material-focus-field: **Concentration.** If the spell requires your concentration, you must concentrate on it as soon as it takes effect on hit.
 
-- :d20-save: **Saving Throws.** If the spell requires a :d20-save:**Saving Throw** when cast, the target makes the first :d20-save:**Saving Throw** at a :d20-disadv:**Disadvantage** on hit. If you score a Critical Hit on the attack, the target automatically fails its :d20-save:**Saving Throw**. Other target (if any) make this **Save** as normal.
+- :d20-save: **Saving Throws.** If the spell requires a :d20-save:**Saving Throw** when cast, the target makes the first :d20-save:**Saving Throw** at a :d20-disadv: **Disadvantage** on hit. If you score a Critical Hit on the attack, the target automatically fails its :d20-save:**Saving Throw**. Other target (if any) make this **Save** as normal.
 
 - :fontawesome-solid-crosshairs: **Spell Attacks.** If the spell requires a spell attack roll, it instantly take effect when you hit with a weapon attack.
 
@@ -112,7 +112,7 @@ You learn the [Hunter's Mark] spell, and you can cast it at will as if you cast 
 Moroever, you gain additional benefits against your Quarry:
 
 - You learn your Quarry spellcasting ability (Intelligence, Wisdom, or Charisma), if any, and the level of the highest level spell it can cast.
-- Your Quarry has :d20-disadv:**Disadvantage** on :d20-save: Constitution **Saving Throw** to maintain concentration on any spells.
+- Your Quarry has :d20-disadv: **Disadvantage** on Concentration Checks against you.
 - You gain an additional way to use your Sneak Attack: You can add your Sneak Attack damage the damage roll on your weapon attack against your Quarry as long as you don't have :d20-disadv: **Disadvantage** on the attack. 
 
 ## The People’s Eyebrow <span style="float:right;"> <small> Level 4 </small> </span>

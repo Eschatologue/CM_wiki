@@ -24,7 +24,7 @@ Through your repeated exposure to the natural flow of arcane magic throughout yo
 
 - **Experienced**
     
-    You have advantage on Intelligence (Arcana) checks when investigating the nature of a magical object or device.
+    You have :d20-adv: **Advantage** on Intelligence (Arcana) checks when investigating the nature of a magical object or device.
     
 - **Robust**
     
@@ -48,9 +48,9 @@ Countless hours have been spent training your mind to maintain focus on concurre
     
 - **Burden**
     
-    At the end of each turn where you have two spells you are concentrating on, you must make a Constitution saving throw (DC equals 10 + the number of complete rounds you’ve been concentrating on two spells). On a failure, you lose concentration for both spells. You can drop concentration on one of your spells during your turn as a free action to avoid this saving throw.
+    At the end of each turn where you have two spells you are concentrating on, you must make a Constitution :d20-save: **Saving Throw** (DC equals 10 + the number of complete rounds you’ve been concentrating on two spells). On a failure, you lose concentration for both spells. You can drop concentration on one of your spells during your turn as a free action to avoid this :d20-save: **Saving Throw**.
     
-    Any time you would be forced to make a Constitution saving throw to maintain concentration due to taking damage, the DC equals 10 + both spells’ levels combined, or half the damage you take, whichever number is higher. On a failure, you lose concentration on both spells
+    Any time you would be forced to make a C due to taking damage, the DC equals 10 + both spells’ levels combined, or half the damage you take, whichever number is higher. On a failure, you lose concentration on both spells
 
 ### Great Weapon Expert
 *8th-level Feat*
@@ -74,7 +74,7 @@ You have mastered the usage of heavy weapons, using their weight and size for ma
 
 - **Excessive Force**
     
-    When you hit a ranged attack with a :weapon-prop-heavy: *[heavy]* weapon, you can push the creature up to 10 feet straight away from yourself if it is Large or smaller sized. If you score a critical hit, the creature is becomes prone.
+    When you hit a ranged attack with a :weapon-prop-heavy: *[heavy]* weapon, you can push the creature up to 10 feet straight away from yourself if it is Large or smaller sized. If you score a Critical Hit, the creature is becomes prone.
 
 [heavy]: ../../equipment/weapon/index.md#heavy
 [versatile]: ../../equipment/weapon/index.md#versatile
@@ -89,17 +89,17 @@ Your faith grants you great insight into magic, giving you a special privilege w
 
 - **Encrpyted Spells**
     
-    When someone attempts to dispel or *counterspell* your magic, if they are required to make a roll for it to succeed, your DC is increased by your spellcasting modifier.
+    When someone attempts to dispel or *counterspell* your magic, if they are required to make a check for it to succeed, your DC is increased by your spellcasting modifier.
     
 - **Magic Resistance**
     
-    When you make a saving throw against a spell or other magical effect, you can gain advantage on the roll. Once you use this trait, you can’t use it again until you finish a short or long rest.
+    When you make a :d20-save: **Saving Throw** against a spell or other magical effect, you can gain :d20-adv: **Advantage** on the check. Once you use this trait, you can’t use it again until you finish a short or long rest.
     
 - **Arcane Absorbtion**
     
-    When you expend a spell slot, roll a d20. On a 20, you regain a spell slot of a level lower than expended spell slot, up to a maximum level equal to your proficiency bonus, and a minimum level of 1
+    When you expend a spell slot, roll a d20. On a 20, you regain a spell slot of a level lower than expended spell slot, up to a maximum level equal to your Proficiency Bonus, and a minimum level of 1
     
-    You can regain a total number of spell slot levels equal to your proficiency bonus this way until you cannot regain further spell slots until you complete a long rest.
+    You can regain a total number of spell slot levels equal to your Proficiency Bonus this way until you cannot regain further spell slots until you complete a long rest.
 
 ### Shield Prodigy
 *8th-level Feat*
@@ -117,11 +117,11 @@ After fine tuning your equipment, you can do things others can’t with shields.
     
 - **Deflection**
     
-    You can use your Reaction to deflect the incoming damage when you are hit by an Attack or fail a saving throw from a projectile. When you do so, the damage you take is reduced by your Proficiency Bonus + half your level.
+    You can use your Reaction to deflect the incoming damage when you are hit by an Attack or fail a :d20-save: **Saving Throw** from a projectile. When you do so, the damage you take is reduced by your Proficiency Bonus + half your level.
     
 - **Interpose**
     
-    You can use a bonus action to protect a creature within 5 feet of you. Until the start of your next turn, any attack roll made against that creature has disadvantage if you can see the attacker. This benefit ends early if you are incapacitated or your speed drops to 0.
+    You can use a bonus action to protect a creature within 5 feet of you. Until the start of your next turn, any attack roll made against that creature has :d20-disadv: **disadvantage** if you can see the attacker. This benefit ends early if you are incapacitated or your speed drops to 0.
 
 ### Spell Driver
 *8th-level Feat*

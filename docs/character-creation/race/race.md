@@ -32,7 +32,7 @@ Some races' lore has been slightly altered in Crown & Misery. For example, while
 Crown & Misery follows a method similar to Baldur's Gate 3 for handling Ability Scores. Instead of each race having predetermined Ability Scores, all races (except humans) receive a +2 to any ability score and a +1 to any other score for flexibility. Races with innate spellcasting still have restrictions on their spellcasting ability, usually Charisma.
 
 ### Innate Expertise
-Some races allow you to apply double your proficiency bonus on checks in highly specific situations. These have been slightly altered, either by simplifying the situations or by granting the associated proficiencies directly.
+Some races allow you to apply double your Proficiency Bonus on checks in highly specific situations. These have been slightly altered, either by simplifying the situations or by granting the associated Proficiencies directly.
 
 ### Dragonborn's Breath Weapon
 In the PHB, Dragonborn have a myriad of ancestry options. In Crown & Misery, this has been restricted to a few, but now Dragonborn can choose the area of effect for their breath weapon (cone or line) at will, instead of having these options restricted to specific ancestries.

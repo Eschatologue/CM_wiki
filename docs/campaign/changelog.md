@@ -36,7 +36,7 @@ The start of this new wiki.
     - **Ability Score:** All races with innate ability score features, such as Dwarves with +2 STR and +2 CON or Elves with +2 DEX and +1 WIS, have had these features removed. Instead, all races (except for humans) have a +2 and a +1 that they can assign to any ability score.
     - **Starting Feat:** Racial starting feats have been moved to [Background](../character-creation/quickstart.md#3-choose-a-background).
     - **Dragonborn:** Dragonborn can now choose the area of effect of their breath weapon instead of being restricted to either a cone or line. Their damage type and resistances are still restricted by their subrace.
-    - **Human, London Lineage:** London Lineage humans now have proficiency in [Resolve Check](../gameplay/homebrew/resolve.md#resolve-check).
+    - **Human, London Lineage:** London Lineage humans now have Proficiency in [Resolve Check](../gameplay/homebrew/resolve.md#resolve-check).
     - **Elf, Wood Elf:** Reworded the [Mask of the Wild](../character-creation/race/elf.md#wood-elf) description.
 - **[Feat](../character-creation/feat/feat-4th-level.md):**
     - **Fighting Initiate:** This feat has been slightly altered. It is now considered a 4th-level feat, and you choose from the new [list] instead of the Fighter class fighting style list. The Fighter's 1st-level class feature will also pick from this [list] instead of the original one. If your character previously picked this feat, please refer to this [list].

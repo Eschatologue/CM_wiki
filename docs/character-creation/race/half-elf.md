@@ -34,7 +34,7 @@ Half-elves are more or less the same size as humans, ranging from 5 to 6 feet ta
 &ensp;&ensp;&ensp; You can see in the dark up to 60 ft.
 
 :simple-paloaltonetworks:{ .lg .middle } **Fey Ancestry**  
-&ensp;&ensp;&ensp; You have :d20-adv:**Advantage** on :die-d20:**Saving Throws** against being Charmed and magic can't put you to Sleep. 
+&ensp;&ensp;&ensp; You have :d20-adv: **Advantage** on :die-d20:**Saving Throws** against being Charmed and magic can't put you to Sleep. 
 
 ---
 
@@ -66,7 +66,7 @@ Half-elves are more or less the same size as humans, ranging from 5 to 6 feet ta
 &ensp;&ensp;&ensp; You know one cantrip of your choice from the Wizard spell list. Intelligence is your spellcasting ability for it.
 
 :material-sword-cross:{ .lg .middle } **Elf Weapon Training**  
-&ensp;&ensp;&ensp; You have proficiency with the longsword, shortsword, shortbow, and longbow.
+&ensp;&ensp;&ensp; You have Proficiency with the longsword, shortsword, shortbow, and longbow.
 
 ---
 

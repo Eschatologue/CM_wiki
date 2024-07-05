@@ -30,7 +30,7 @@ If you are returned to your body prematurely, your companions remain in their as
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-You create a blade-shaped planar rift about 3 feet long in an unoccupied space you can see within range. The blade lasts for the duration. When you cast this spell, you can make up to two melee spell attacks with the blade, each one against a creature, loose object, or structure within 5 feet of the blade. On a hit, the target takes  4d12 force damage. This attack scores a critical hit if the number on the  d20 is 18 or higher. On a critical hit, the blade deals an extra  8d12 force damage (for a total of  12d12 force damage).
+You create a blade-shaped planar rift about 3 feet long in an unoccupied space you can see within range. The blade lasts for the duration. When you cast this spell, you can make up to two melee spell attacks with the blade, each one against a creature, loose object, or structure within 5 feet of the blade. On a hit, the target takes  4d12 force damage. This attack scores a Critical Hit if the number on the  d20 is 18 or higher. On a Critical Hit, the blade deals an extra  8d12 force damage (for a total of  12d12 force damage).
 
 As a bonus action on your turn, you can move the blade up to 30 feet to an unoccupied space you can see and then make up to two melee spell attacks with it again.
 
@@ -44,7 +44,7 @@ The blade can harmlessly pass through any barrier, including a  wall of force.
 **Components:** V, S, M (a hummingbird feather)  
 **Duration:** 8 hours
 
-You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target can't be surprised and has advantage on attack rolls, ability checks, and saving throws. Additionally, other creatures have disadvantage on attack rolls against the target for the duration.
+You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target can't be surprised and has advantage on attack rolls, ability checks, and Saving Throws. Additionally, other creatures have disadvantage on attack rolls against the target for the duration.
 
 This spell immediately ends if you cast it again before its duration ends.
 
@@ -72,7 +72,7 @@ When you cast this spell, you can speak the name of a specific creature (a pseud
 **Components:** V, S, M (a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gp per Hit Die of the target)  
 **Duration:** Until dispelled
 
-You create a magical restraint to hold a creature that you can see within range. The target must succeed on a Wisdom saving throw or be bound by the spell; if it succeeds, it is immune to this spell if you cast it again. While affected by this spell, the creature doesn't need to breathe, eat, or drink, and it doesn't age. Divination spells can't locate or perceive the target.
+You create a magical restraint to hold a creature that you can see within range. The target must succeed on a Wisdom Saving Throw or be bound by the spell; if it succeeds, it is immune to this spell if you cast it again. While affected by this spell, the creature doesn't need to breathe, eat, or drink, and it doesn't age. Divination spells can't locate or perceive the target.
 
 When you cast the spell, you choose one of the following forms of imprisonment.
 
@@ -130,7 +130,7 @@ A flood of healing energy flows from you into injured creatures around you. You 
 **Components:** V, S, M (a caterpillar cocoon)  
 **Duration:** Concentration, up to 1 hour
 
-You transform up to ten creatures of your choice that you can see within range. An unwilling target must succeed on a Wisdom saving throw to resist the transformation. An unwilling shapechanger automatically succeeds on the save.
+You transform up to ten creatures of your choice that you can see within range. An unwilling target must succeed on a Wisdom Saving Throw to resist the transformation. An unwilling shapechanger automatically succeeds on the save.
 
 Each target assumes a beast form of your choice, and you can choose the same form or different ones for each target. The new form can be any beast you have seen whose challenge rating is equal to or less than the target's (or half the target's level, if the target doesn't have a challenge rating). The target's game statistics, including mental ability scores, are replaced by the statistics of the chosen beast, but the target retains its hit points, alignment, and personality.
 
@@ -148,7 +148,7 @@ The target's gear melds into the new form. The target can't activate, use, wield
 **Components:** V, S  
 **Duration:** Instantaneous
 
-Blazing orbs of fire plummet to the ground at four different points you can see within range. Each creature in a 40-foot-radius sphere centered on each point you choose must make a Dexterity saving throw. The sphere spreads around corners. A creature takes  20d6 fire damage and  20d6 bludgeoning damage on a failed save, or half as much damage on a successful one. A creature in the area of more than one fiery burst is affected only once.
+Blazing orbs of fire plummet to the ground at four different points you can see within range. Each creature in a 40-foot-radius sphere centered on each point you choose must make a Dexterity Saving Throw. The sphere spreads around corners. A creature takes  20d6 fire damage and  20d6 bludgeoning damage on a failed save, or half as much damage on a successful one. A creature in the area of more than one fiery burst is affected only once.
 
 The spell damages objects in the area and ignites flammable objects that aren't being worn or carried.
 
@@ -182,9 +182,9 @@ You utter a word of power that can compel one creature you can see within range 
 
 A shimmering, multicolored plane of light forms a vertical opaque wall—up to 90 feet long, 30 feet high, and 1 inch thick—centered on a point you can see within range. Alternatively, you can shape the wall into a sphere up to 30 feet in diameter centered on a point you choose within range. The wall remains in place for the duration. If you position the wall so that it passes through a space occupied by a creature, the spell fails, and your action and the spell slot are wasted.
 
-The wall sheds bright light out to a range of 100 feet and dim light for an additional 100 feet. You and creatures you designate at the time you cast the spell can pass through and remain near the wall without harm. If another creature that can see the wall moves to within 20 feet of it or starts its turn there, the creature must succeed on a Constitution saving throw or become  blinded for 1 minute.
+The wall sheds bright light out to a range of 100 feet and dim light for an additional 100 feet. You and creatures you designate at the time you cast the spell can pass through and remain near the wall without harm. If another creature that can see the wall moves to within 20 feet of it or starts its turn there, the creature must succeed on a Constitution Saving Throw or become  blinded for 1 minute.
 
-The wall consists of seven layers, each with a different color. When a creature attempts to reach into or pass through the wall, it does so one layer at a time through all the wall's layers. As it passes or reaches through each layer, the creature must make a Dexterity saving throw or be affected by that layer's properties as described below.
+The wall consists of seven layers, each with a different color. When a creature attempts to reach into or pass through the wall, it does so one layer at a time through all the wall's layers. As it passes or reaches through each layer, the creature must make a Dexterity Saving Throw or be affected by that layer's properties as described below.
 
 The wall can be destroyed, also one layer at a time, in order from red to violet, by means specific to each layer. Once a layer is destroyed, it remains so for the duration of the spell. An  antimagic field has no effect on a prismatic wall.
 
@@ -198,11 +198,11 @@ The wall can be destroyed, also one layer at a time, in order from red to violet
 
 ***Blue.*** The creature takes  10d6 cold damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 25 fire damage to it.
 
-***Indigo.*** On a failed save, the creature is  restrained. It must then make a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the  petrified condition. The successes and failures don't need to be consecutive; keep track of both until the creature collects three of a kind.
+***Indigo.*** On a failed save, the creature is  restrained. It must then make a Constitution Saving Throw at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the  petrified condition. The successes and failures don't need to be consecutive; keep track of both until the creature collects three of a kind.
 
 While this layer is in place, spells can't be cast through the wall. The layer is destroyed by bright light shed by a  daylight spell or a similar spell of equal or higher level.
 
-***Violet.*** On a failed save, the creature is  blinded. It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of the DM's choosing and is no longer  blinded. (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.) This layer is destroyed by a  dispel magic spell or a similar spell of equal or higher level that can end spells and magical effects.
+***Violet.*** On a failed save, the creature is  blinded. It must then make a Wisdom Saving Throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of the DM's choosing and is no longer  blinded. (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.) This layer is destroyed by a  dispel magic spell or a similar spell of equal or higher level that can end spells and magical effects.
 
 ### Psychic Scream
 *9th-level enchantment*
@@ -214,9 +214,9 @@ While this layer is in place, spells can't be cast through the wall. The layer i
 
 You unleash the power of your mind to blast the intellect of up to ten creatures of your choice that you can see within range. Creatures that have an Intelligence score of 2 or lower are unaffected.
 
-Each target must make an Intelligence saving throw. On a failed save, a target takes  14d6 psychic damage and is  stunned. On a successful save, a target takes half as much damage and isn't  stunned. If a target is killed by this damage, its head explodes, assuming it has one.
+Each target must make an Intelligence Saving Throw. On a failed save, a target takes  14d6 psychic damage and is  stunned. On a successful save, a target takes half as much damage and isn't  stunned. If a target is killed by this damage, its head explodes, assuming it has one.
 
-A  stunned target can make an Intelligence saving throw at the end of each of its turns. On a successful save, the stunning effect ends.
+A  stunned target can make an Intelligence Saving Throw at the end of each of its turns. On a successful save, the stunning effect ends.
 
 ### Shapechange
 *9th-level transmutation*
@@ -228,7 +228,7 @@ A  stunned target can make an Intelligence saving throw at the end of each of it
 
 You assume the form of a different creature for the duration. The new form can be of any creature with a challenge rating equal to your level or lower. The creature can't be a construct or an undead, and you must have seen the sort of creature at least once. You transform into an average example of that creature, one without any class levels or the Spellcasting trait.
 
-Your game statistics are replaced by the statistics of the chosen creature, though you retain your alignment and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus listed in its statistics is higher than yours, use the creature's bonus in place of yours. You can't use any legendary actions or lair actions of the new form.
+Your game statistics are replaced by the statistics of the chosen creature, though you retain your alignment and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and Saving Throw Proficiencies, in addition to gaining those of the creature. If the creature has the same Proficiency as you and the bonus listed in its statistics is higher than yours, use the creature's bonus in place of yours. You can't use any legendary actions or lair actions of the new form.
 
 You assume the hit points and Hit Dice of the new form. When you revert to your normal form, you return to the number of hit points you had before you transformed. If you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked  unconscious.
 
@@ -246,13 +246,13 @@ During this spell's duration, you can use your action to assume a different form
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-A churning storm cloud forms, centered on a point you can see and spreading to a radius of 360 feet. Lightning flashes in the area, thunder booms, and strong winds roar. Each creature under the cloud (no more than 5,000 feet beneath the cloud) when it appears must make a Constitution saving throw. On a failed save, a creature takes  2d6 thunder damage and becomes  deafened for 5 minutes.
+A churning storm cloud forms, centered on a point you can see and spreading to a radius of 360 feet. Lightning flashes in the area, thunder booms, and strong winds roar. Each creature under the cloud (no more than 5,000 feet beneath the cloud) when it appears must make a Constitution Saving Throw. On a failed save, a creature takes  2d6 thunder damage and becomes  deafened for 5 minutes.
 
 Each round you maintain  concentration on this spell, the storm produces different effects on your turn.
 
 ***Round 2.*** Acidic rain falls from the cloud. Each creature and object under the cloud takes  1d6 acid damage.
 
-***Round 3.*** You call six bolts of lightning from the cloud to strike six creatures or objects of your choice beneath the cloud. A given creature or object can't be struck by more than one bolt. A struck creature must make a Dexterity saving throw. The creature takes  10d6 lightning damage on a failed save, or half as much damage on a successful one.
+***Round 3.*** You call six bolts of lightning from the cloud to strike six creatures or objects of your choice beneath the cloud. A given creature or object can't be struck by more than one bolt. A struck creature must make a Dexterity Saving Throw. The creature takes  10d6 lightning damage on a failed save, or half as much damage on a successful one.
 
 ***Round 4.*** Hailstones rain down from the cloud. Each creature under the cloud takes  2d6 bludgeoning damage.
 
@@ -280,7 +280,7 @@ This spell ends if one of the actions you use during this period, or any effects
 
 Choose one creature or nonmagical object that you can see within range. You transform the creature into a different creature, the creature into a nonmagical object, or the object into a creature (the object must be neither worn nor carried by another creature). The transformation lasts for the duration, or until the target drops to 0 hit points or dies. If you concentrate on this spell for the full duration, the transformation lasts until it is dispelled.
 
-This spell has no effect on a shapechanger or a creature with 0 hit points. An unwilling creature can make a Wisdom saving throw, and if it succeeds, it isn't affected by this spell.
+This spell has no effect on a shapechanger or a creature with 0 hit points. An unwilling creature can make a Wisdom Saving Throw, and if it succeeds, it isn't affected by this spell.
 
 ***Creature into Creature.*** If you turn a creature into another kind of creature, the new form can be any kind you choose whose challenge rating is equal to or less than the target's (or its level, if the target doesn't have a challenge rating). The target's game statistics, including mental ability scores, are replaced by the statistics of the new form. It retains its alignment and personality.
 
@@ -318,7 +318,7 @@ The spell can even provide a new body if the original no longer exists, in which
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-Drawing on the deepest fears of a group of creatures, you create illusory creatures in their minds, visible only to them. Each creature in a 30-foot-radius sphere centered on a point of your choice within range must make a Wisdom saving throw. On a failed save, a creature becomes  frightened for the duration. The illusion calls on the creature's deepest fears, manifesting its worst nightmares as an implacable threat. At the end of each of the  frightened creature's turns, it must succeed on a Wisdom saving throw or take  4d10 psychic damage. On a successful save, the spell ends for that creature.
+Drawing on the deepest fears of a group of creatures, you create illusory creatures in their minds, visible only to them. Each creature in a 30-foot-radius sphere centered on a point of your choice within range must make a Wisdom Saving Throw. On a failed save, a creature becomes  frightened for the duration. The illusion calls on the creature's deepest fears, manifesting its worst nightmares as an implacable threat. At the end of each of the  frightened creature's turns, it must succeed on a Wisdom Saving Throw or take  4d10 psychic damage. On a successful save, the spell ends for that creature.
 
 ### Wish
 *9th-level conjuration*
@@ -336,7 +336,7 @@ You create one object of up to 25,000 gp in value that isn't a magic item. The o
 You allow up to twenty creatures that you can see to regain all hit points, and you end all effects on them described in the  greater restoration spell.  
 You grant up to ten creatures that you can see resistance to a damage type you choose.  
 You grant up to ten creatures you can see immunity to a single spell or other magical effect for 8 hours. For instance, you could make yourself and all your companions immune to a lich's life drain attack.  
-You undo a single recent event by forcing a reroll of any roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. For example, a  wish spell could undo an opponent's successful save, a foe's critical hit, or a friend's failed save. You can force the reroll to be made with advantage or disadvantage, and you can choose whether to use the reroll or the original roll.
+You undo a single recent event by forcing a reroll of any roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. For example, a  wish spell could undo an opponent's successful save, a foe's Critical Hit, or a friend's failed save. You can force the reroll to be made with advantage or disadvantage, and you can choose whether to use the reroll or the original roll.
 
 You might be able to achieve something beyond the scope of the above examples. State your wish to the DM as precisely as possible. The DM has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. This spell might simply fail, the effect you desire might only be partly achieved, or you might suffer some unforeseen consequence as a result of how you worded the wish. For example, wishing that a villain were dead might propel you forward in time to a period when that villain is no longer alive, effectively removing you from the game. Similarly, wishing for a legendary magic item or artifact might instantly transport you to the presence of the item's current owner.
 
@@ -350,7 +350,7 @@ The stress of casting this spell to produce any effect other than duplicating an
 **Components:** V, S, M (an hourglass filled with diamond dust worth at least 5,000 gp, which the spell consumes)  
 **Duration:** Instantaneous
 
-You target a creature you can see within range, putting its physical form through the devastation of rapid aging. The target must make a Constitution saving throw, taking 10d12 necrotic damage on a failed save, or half as much damage on a successful one. If the save fails, the target also ages to the point where it has only 30 days left before it dies of old age. In this aged state, the target has disadvantage on attack rolls, ability checks, and saving throws, and its walking speed is halved. Only the *wish* spell or the *greater restoration* cast with a 9th-level spell slot can end these effects and restore the target to its previous age.
+You target a creature you can see within range, putting its physical form through the devastation of rapid aging. The target must make a Constitution Saving Throw, taking 10d12 necrotic damage on a failed save, or half as much damage on a successful one. If the save fails, the target also ages to the point where it has only 30 days left before it dies of old age. In this aged state, the target has disadvantage on attack rolls, ability checks, and Saving Throws, and its walking speed is halved. Only the *wish* spell or the *greater restoration* cast with a 9th-level spell slot can end these effects and restore the target to its previous age.
 
 ### Ravenous Void
 *9th-level evocation*
@@ -364,4 +364,4 @@ You create a 20-foot-radius sphere of destructive gravitational force centered o
 
 When the sphere appears and at the start of each of your turns until the spell ends, unsecured objects within 100 feet of the sphere are pulled toward the sphere's center, ending in an unoccupied space as close to the center as possible.
 
-A creature that starts its turn within 100 feet of the sphere must succeed on a Strength saving throw or be pulled straight toward the sphere's center, ending in an unoccupied space as close to the center as possible. A creature that enters the sphere for the first time on a turn or starts its turn there takes 5d10 force damage and is restrained until it is no longer in the sphere. If the sphere is in the air, the restrained creature hovers inside the sphere. A creature can use its action to make a Strength check against your spell save DC, ending this restrained condition on itself or another creature in the sphere that it can reach. A creature reduced to 0 hit points by this spell is annihilated, along with any nonmagical items it is wearing or carrying.
+A creature that starts its turn within 100 feet of the sphere must succeed on a Strength Saving Throw or be pulled straight toward the sphere's center, ending in an unoccupied space as close to the center as possible. A creature that enters the sphere for the first time on a turn or starts its turn there takes 5d10 force damage and is restrained until it is no longer in the sphere. If the sphere is in the air, the restrained creature hovers inside the sphere. A creature can use its action to make a Strength check against your spell save DC, ending this restrained condition on itself or another creature in the sphere that it can reach. A creature reduced to 0 hit points by this spell is annihilated, along with any nonmagical items it is wearing or carrying.

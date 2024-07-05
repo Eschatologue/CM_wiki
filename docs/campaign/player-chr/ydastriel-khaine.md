@@ -41,9 +41,9 @@ Once you gain access to one of these spells, you always have it prepared, and it
 [temporal shunt]: ../../spells/5th-level.md#temporal-shunt
 [circle of power]: ../../spells/5th-level.md#circle-of-power
 
-## Cosmic Flare <span style="float:right;"> <small> Level 2 </small> </span>
+## Bonus Cantrip <span style="float:right;"> <small> Level 2 </small> </span>
 
-You have the ability to unleash the power which Spires draws from. You learn the *[Cosmic Flare](../../spells/cantrip.md#cosmic-flare)* cantrip, it counts as druid cantrip for you and it doesn't count against the number of druid cantrips you know.
+You have the ability to unleash the power which Spires draws from. You learn the *[Cosmic Flare]* cantrip, it counts as druid cantrip for you and it doesn't count against the number of druid cantrips you know.
 
 While holding your Star Map, you can add your spellcasting modifier to the cantrip's damage roll.
 
@@ -69,13 +69,13 @@ Upon gaining this class feature, you gain additional Starry Forms tied to specif
 
     **Chalice of Life.** Whenever you cast a spell using a spell slot that restores hit points to a creature, you or another creature within 30 feet of you can regain hit points equal to 1d8 + your Wisdom modifier. (2d8 at 10th-level)
 
-    **Rejuvinating Bolt.** When you hit a creature with Cosmic Flare you can choose to restore hit points to that creature instead of damaging it. The restored hit points is equal to your half of your Cosmic Flare damage.
+    **Rejuvinating Bolt.** When you hit a creature with [Cosmic Flare] you can choose to restore hit points to that creature instead of damaging it. The restored hit points is equal to your half of your spell's damage.
 
 === "**Dragon**"
 
     *A constellation of a wise dragon appears on you.* 
 
-    **Wise.** When you make an Intelligence or a Wisdom check or a Constitution saving throw to maintain concentration on a spell, you can treat a roll of 9 or lower on the d20 as a 10. At 10th-level, you have a flying speed of 20 feet and can hover.
+    **Wise.** When you make an Intelligence or a Wisdom check or a Concentration Check, you can treat a roll of 9 or lower on the d20 as a 10. At 10th-level, you have a flying speed of 20 feet and can hover.
 
     **Repelling.** When you hit a creature that is no more that one size larger than you with Cosmic Flare, you can push the creature up to 5 feet away from you in a straight line.
 
@@ -85,7 +85,7 @@ Upon gaining this class feature, you gain additional Starry Forms tied to specif
 
     *One of your eyes ignites with a searing white blaze while a small, flaming white sphere materializes and orbits you, leaving behind a delicate trail of white. Your being pulsates with an overwhelming intent for destruction.*
 
-    **Destructive Flare:** Your Cosmic Flare now crackles with instabilities, pulsating with radiant white glows. When you hit a target with your *Cosmic Flare*, each creature within 5 feet of your target takes Force damage equal to your Wisdom modifier.
+    **Destructive Flare:** Your [Cosmic Flare] now crackles with instabilities, pulsating with radiant white glows. When you hit a target with your *Cosmic Flare*, each creature within 5 feet of your target takes Force damage equal to your Wisdom modifier.
 
     **Helium Flash:** When you cast a druid spell, roll a :die-d8: d8, and you gain a bonus to one of the spell's damage rolls equal to the number rolled.
 
@@ -93,7 +93,7 @@ Upon gaining this class feature, you gain additional Starry Forms tied to specif
 
     *A radiant halo manifests on your back while one of your eyes emits a dazzling amber light. Portions of your skin are adorned with steel, fortifying your resolve and strengthening your presence.*
     
-    **Immolation:** Your Cosmic Flare now deals :damage-fire: **Fire** damage and its damage die becomes a :die-d10: d10.
+    **Immolation:** Your [Cosmic Flare] now deals :damage-fire: **Fire** damage and its damage die becomes a :die-d10: d10.
 
     **Aura of Tenacity:** If you aren't incapacitated, any ally who starts their turn within 5 feet of you gains Temporary Hit Points equal to your Druid level until the start of your next turn.
 
@@ -101,25 +101,19 @@ Upon gaining this class feature, you gain additional Starry Forms tied to specif
 
     *Shining armour of crimson plates form all over you, transforming you into the executor of justice. Those who obstruct Judgement shall be stricken down with impunity.*
 
-    **Lance of Judgement:** When entering this form, you star map transforms into an armament of justice. Regardless of its appearance, it counts as a simple melee weapon with which you are proficient.
-    
-    | weapon | damage | properties |
-    |---|:-:|---|
-    | Lance of Judgement | :die-d8: 1d8 :damage-force: **Force** | :weapon-prop-reach: **[Reach]**, :weapon-prop-thrown: **[Thrown]**(:weapon-prop-ranged: Range 20/60), :weapon-prop-versatile: **[Versatile]**(:die-d10: 1d10) |
-     
-    When you attack with this weapon, you can use your Wisdom modifier, instead of Strength or Dexterity, to the attack and damage rolls. When you reach 6th level in this class, you can attack twice instead of once when you take the :d20-attack:**Attack** Action using this weapon.
+    **Smite of Conviction:** You gain the abilty to make melee spell attack with the range of 5 ft. with [Cosmic Flare]. Make separate Attack for each projectile, dealing :damage--radiant: 1d10 **Radiant** + your Wisdom Modifier damage on hit. 
 
     **Leviathan Queller:** Armour constructed from cosmic energies materialise on you, enpowering you to mete out judgement upon the guilty. So long as you are not wearing medium or heavy armour or wielding a shield, you have the following benefits:
 
-    - Your walking speed increases by 10 feet.
+    - Your Walking Speed increases by 10 feet.
     - You gain a bonus to your Armour Class equal to your Wisdom modifier (minimum of 1).
-    - When you make a :d20-save: Constitution **Saving Throw** to maintain your concentration, you gain a bonus to your roll equal to your Wisdom modifier (minimum of 1).
+    - You gain a bonus to Concentration Check equal to your Wisdom modifier (minimum of 1).
 
 === "**[Locked] Enlightenment**"
 
     *Radiant laurel wreath materializes, hovering above your head, while your eyes shimmer with a vibrant yellow hue, signaling the unveiling of truth.*
 
-    **Signum Ignorantiae:** Your Cosmic Flare now deals :damage-psychic: **Psychic** damage and its damage die becomes a :die-d6: d6. On a hit, the creature is :material-crosshairs-gps: **Marked** by you.
+    **Signum Ignorantiae:** Your [Cosmic Flare] now deals :damage-psychic: **Psychic** damage and its damage die becomes a :die-d6: d6. On a hit, the creature is :material-crosshairs-gps: **Marked** by you.
 
     **Bastio Veritatis:** When a :material-crosshairs-gps: **Marked** creature that you can see is hit by an attack from your ally, you can use your :rsc-reaction: **Reaction** to cast *Guiding Bolt* against it. When you do, add your spellcasting modifier to the spells damage roll and its damage type becomes :damage-psychic: **Psychic** damage.
 
@@ -137,9 +131,10 @@ Upon gaining this class feature, you gain additional Starry Forms tied to specif
 
     *Multiple flat, semi-transparent blue tablets materialize, displaying cryptic combinations of numbers, letters, and figures, hovering before you. One of your eyes radiates a blue hue, granting you the power to decipher the scripts that foretell fortunes.*
 
-    **Restore Balance:** When a creature you see within 60 feet has :d20-adv:**Advantage** or :d20-disadv:**Disadvantage** on a :die-d20: D20 Check, you can use your :rsc-reaction: **Reaction** to nullify one instance of its :d20-adv:**Advantage** and :d20-disadv:**Disadvantage**. 
+    **Restore Balance:** When a creature you see within 60 feet has :d20-adv: **Advantage** or :d20-disadv: **Disadvantage** on a :die-d20: D20 Check, you can use your :rsc-reaction: **Reaction** to nullify one instance of its :d20-adv: **Advantage** and :d20-disadv: **Disadvantage**. 
 
 
+[Cosmic Flare]: ../../spells/cantrip.md#cosmic-flare
 [Reach]: ../../equipment/weapon/index.md#reach
 [Thrown]: ../../equipment/weapon/index.md#thrown
 [Versatile]: ../../equipment/weapon/index.md#versatile

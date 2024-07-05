@@ -90,7 +90,7 @@ When you cast Find Familiar, you infuse the summoned familiar with a measure of 
 
 **Quick Attack.** As a :rsc-bonus-action: **Bonus Action**, you can command the familiar to take the Attack action.
 
-**Necrotic or Radiant Damage.** Whenever the familiar deals :damage-bludgeoning: **Bludgeoning**, :damage-piercing: **Piercing**, or :damage-slashing: **Slashing** damage, you can make it deal Ne:damage-necrotic: **Necrotic** or :damage-radiant: **Radiant** damage instead. Your Save DC. If the familiar forces a creature to make a saving throw, it uses your spell save DC.
+**Necrotic or Radiant Damage.** Whenever the familiar deals :damage-bludgeoning: **Bludgeoning**, :damage-piercing: **Piercing**, or :damage-slashing: **Slashing** damage, you can make it deal Ne:damage-necrotic: **Necrotic** or :damage-radiant: **Radiant** damage instead. Your Save DC. If the familiar forces a creature to make a Saving Throw, it uses your spell save DC.
 
 **Resistance.** When the familiar takes damage, you can use your :rsc-reaction: **Reaction** to grant it Resistance against that damage.
 
@@ -142,7 +142,7 @@ You can cast Jump on yourself without expending a spell slot.
 
 **Prerequisite:** None
 
-As a :rsc-bonus-action: **Bonus Action**, you can trace arcane sigils in the air to conjure a pact weapon in your hand—a Simple or Martial melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch. Until the bond ends, you have proficiency with the weapon, and you can use it as a spellcasting focus.
+As a :rsc-bonus-action: **Bonus Action**, you can trace arcane sigils in the air to conjure a pact weapon in your hand—a Simple or Martial melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch. Until the bond ends, you have Proficiency with the weapon, and you can use it as a spellcasting focus.
 
 Whenever you attack with the bonded weapon, you can use your spellcasting ability modifier for the attack and damage rolls, instead of using Strength or Dexterity, and you can cause the weapon to deal :damage-necrotic: **Necrotic**, :damage-psychic: **Psychic**, or :damage-radiant: **Radiant** damage or its normal damage type.
 

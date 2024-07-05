@@ -30,7 +30,7 @@ Which ability score modifier is added to a damage roll depends on the attack:
 
 - **Spell Attacks.** Ability score modifiers are not normally added to damage rolls dealt by spells or spell attacks, unless specifically stated otherwise in the spell's description, or if enabled by some feature.
 
-Proficiency bonuses are only added to damage rolls unless the attack being used explicitly says so.
+Proficiency Bonuses are only added to damage rolls unless the attack being used explicitly says so.
 
 **Example:**
 
@@ -42,9 +42,9 @@ Proficiency bonuses are only added to damage rolls unless the attack being used 
 
 ### Critical Hits
 
-Rolling a natural 20 on an attack roll results in a critical hit, dealing double damage.
+Rolling a natural 20 on an attack roll results in a Critical Hit, dealing double damage.
  
-**Example**: A ranger scoring a critical hit with a short sword (1d6 piercing damage) + 3 (Dexterity modifier). The ranger rolled 3 on the :die-d6: d6, dealing a total of 6 damage and it is doubled to 12 Piercing damage as a result.
+**Example**: A ranger scoring a Critical Hit with a short sword (1d6 piercing damage) + 3 (Dexterity modifier). The ranger rolled 3 on the :die-d6: d6, dealing a total of 6 damage and it is doubled to 12 Piercing damage as a result.
 
 ### Resistance, Vulnerability, and Immunity
 

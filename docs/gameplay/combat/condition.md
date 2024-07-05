@@ -42,13 +42,13 @@ If multiple effects impose the same condition on a creature, each instance of th
 - The creature drops whatever it’s holding and falls prone.
 - The creature automatically fails Strength and Dexterity :d20-save: **Saving Throw**s.
 - Attack rolls against the creature have :d20-adv: **Advantage**.
-- Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
+- Any attack that hits the creature is a Critical Hit if the attacker is within 5 feet of the creature.
 
 ### Paralyzed
 - A paralyzed creature is incapacitated and can’t move or speak.
 - The creature automatically fails Strength and Dexterity :d20-save: **Saving Throw**s.
 - Attack rolls against the creature have :d20-adv: **Advantage**.
-- Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
+- Any attack that hits the creature is a Critical Hit if the attacker is within 5 feet of the creature.
 
 ### Petrified
 - A petrified creature turns into solid object, along with its nonmagical belongings. It becomes incapacitated, unable to move, speak, or be aware of its surroundings.

@@ -14,7 +14,7 @@ The Resolve and Death's Door mechanic is introduced in Crown & Misery to add mor
 
 When reduced to 0 hit points but not killed outright, you remain conscious but are considered to be at *Death’s Door*. You must immediately make a Resolve Check unless you are already under the effects of either **Resolute** or **Meltdown**.
 
-- :material-bullseye-arrow:**Damage and Failures.** Each instance of damage from a single source counts as one 'Death Saving Throw Failure', with critical hits counting as two failures. Upon accumulating three failures or if the damage equals or exceeds your hit point maximum, you **die** instantly.
+- :material-bullseye-arrow:**Damage and Failures.** Each instance of damage from a single source counts as one 'Death Saving Throw Failure', with Critical Hits counting as two failures. Upon accumulating three failures or if the damage equals or exceeds your hit point maximum, you **die** instantly.
 - :material-heart-pulse:**Stabilization.** While at Death’s Door, anyone (including yourself) may attempt to stabilize you with a DC 10 Wisdom (Medicine) check. A successful check grants one 'Death Saving Throw Success', with critical successes granting two. Upon gaining three 'Death Saving Throw Successes', you regain 1 hit point.
 - :material-plus-thick:**Healing.** Direct healing removes you from Death's Door and allows you to heal for the expected amount.
 
@@ -87,14 +87,14 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 
 *"A moment of valour shines brightest agaisnt a backdrop of despair"*
 
-- Whenever you or an ally within 30 ft. of you makes an attack roll or a saving throw, it can roll a d4 and add the number rolled to the attack roll or saving throw.
+- Whenever you or an ally within 30 ft. of you makes an attack roll or a Saving Throw, it can roll a d4 and add the number rolled to the attack roll or Saving Throw.
 - Conditions such as *charmed* or *frightened* that affects an ally that can see you within 30 ft. of you are supressed. When the creature is beyond 30ft. of you or can’t see you, any suppressed effect immediately resumes, provided that its duration has not expired in the meantime.
 
 ### Focused
 
 *"A moment of clarity in the eye of the storm"*
 
-- Your attack scores a critical hit on a roll of 19 and 20.
+- Your attack scores a Critical Hit on a roll of 19 and 20.
 - Once per turn, when you miss an attack, you can choose to reroll the d20. You must use the new roll.
 - Taking damage can’t break your concentration on a spell. Any spells that you are concentrating on before gaining this virtue immediately resumes.
 
@@ -103,23 +103,23 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 *"Anger is power - unleash it!"*
 
 - Once per turn when you roll damage for a weapon attack or spell attack, you can choose one of the die and make it roll the maximum amount possible.
-- When you force a creature to make a saving throw or a contested ability check, it make the saving throw or the ability check at a:d20-disadv:**Disadvantage**.
-- You have :d20-adv:**Advantage** on Strength checks and Strength saving throws.
+- When you force a creature to make a Saving Throw or a contested ability check, it make the Saving Throw or the ability check at a:d20-disadv: **Disadvantage**.
+- You have :d20-adv: **Advantage** on Strength checks and Strength Saving Throws.
 
 ### Stalwart
 
 *"Many fall in the face of chaos; But not this one, not today"*
 
-- You reduce all damage received by a number equal to twice of your proficiency bonus (minimum of 1 damage).
+- You reduce all damage received by a number equal to twice of your Proficiency Bonus (minimum of 1 damage).
 - You can’t be moved or being *prone* against your will.
-- You have :d20-adv:**Advantage** on Strength checks, Strength saving throws and Constitution saving throws.
+- You have :d20-adv: **Advantage** on Strength checks, Strength Saving Throws and Constitution Saving Throws.
 
 ### Vigorous
 
 *"Adversity can foster hope, and resillience"*
 
 - You immediately restore hit points equal to 1d10 + your Character level.
-- Your gain +1 bonus to your AC and +2 to any saving throw you make.
+- Your gain +1 bonus to your AC and +2 to any Saving Throw you make.
 - You gain bonus of 10 ft. movement speed.
 
 ## Affliction
@@ -128,7 +128,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 
 *“Frustration and fury, more destructive than a hundred cannons”*
 
-- You have :d20-adv:**Advantage** on attack made using Strength and :d20-disadv:**Disadvantage** on attack made using Dexterity.
+- You have :d20-adv: **Advantage** on attack made using Strength and :d20-disadv: **Disadvantage** on attack made using Dexterity.
 - On each of your turn, you must make an attack to any creature that is within your reach.
 - All creatures, including your ally can provoke opportunity attack from you, and you must use your :rsc-reaction: **Reaction** when available to make an attack.
 
@@ -137,7 +137,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 *“Fear and frailty finally claim their due”*
 
 - You receive the *frightened* condition against the last creature that damage you.
-- You are overcome with shaking, and have:d20-disadv:**Disadvantage** on Dexterity saving throw.
+- You are overcome with shaking, and have:d20-disadv: **Disadvantage** on Dexterity Saving Throw.
 - You are vulnerable to Psychic damage.
 - You gain +10ft. of walking speed.
 
@@ -145,7 +145,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 
 *“There can be no hope in this hell, no hope at all.”*
 
-- You have :d20-disadv:**Disadvantage** on all attack rolls and ability checks.
+- You have :d20-disadv: **Disadvantage** on all attack rolls and ability checks.
 - Whenever you regain hit point, the amount total is halved. This does not affect the progress in which **Meltdown** can be ended early.
 - You are resistant to Psychic damage.
 - Your speed is halved.
@@ -155,7 +155,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 *“Reeling, gasping, taken over the edge into madness!”*
 
 - You begins babbling and is incapable of normal speech. Spells that has the Verbal (V) component can’t be cast.
-- You have :d20-disadv:**Disadvantage** on Intelligence and Wisdom saving throws.
+- You have :d20-disadv: **Disadvantage** on Intelligence and Wisdom Saving Throws.
 - You can't take :rsc-reaction: **Reaction** and must roll a :die-d10:d10 at the start of each of your turns to determine a behavior for that turn.
     
     | :die-d10:**d10** | **BEHAVIOUR** |
@@ -171,5 +171,5 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 
 - Your Armour Class is reduced by 2.
 - Any damage you received is reduced by 2.
-- You have :d20-disadv:**Disadvantage** on Strength, Dexterity, and Constitution saving throw.
+- You have :d20-disadv: **Disadvantage** on Strength, Dexterity, and Constitution Saving Throw.
 - You can't willingly move away from a hostile creature.

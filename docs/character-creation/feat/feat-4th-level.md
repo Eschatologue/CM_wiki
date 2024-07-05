@@ -84,7 +84,7 @@ You have learned to channel your magic through a deck of cards.
 ### Crossbow Expert
 *4th-level Feat*
 
-**Prerequisites:** Crossbows proficiency  
+**Prerequisites:** Crossbows Proficiency  
 **Repeatable:** No
 
 Thanks to extensive practice with the crossbow, you gain the following benefits:
@@ -99,7 +99,7 @@ Thanks to extensive practice with the crossbow, you gain the following benefits:
     
 - **Attack in Melee**
     
-    Being within 5 feet of an enemy doesn’t impose Disadvantage on your Attack Rolls with crossbows.
+    Being within 5 feet of an enemy doesn’t impose :d20-disadv: **Disdvantage** on your Attack Rolls with crossbows.
     
 - **Dual Wielding**
     
@@ -155,7 +155,7 @@ Hardy and resilient, you gain the following benefits:
     
 - **Defy Death**
     
-    Increases the maximum Death saving throw failures you can have at Death's Door from 3 to 5.
+    Increases the maximum Death :d20-save: **Saving Throw** failures you can have at Death's Door from 3 to 5.
     
 - **Speedy Recovery**
     
@@ -272,7 +272,7 @@ You're an accomplished wrestler, granting you the following benefits:
     
 - **Attack Advantage**
     
-    You have Advantage on Attack Rolls against a creature Grappled by you.
+    You have :d20-adv: **Advantage** on Attack Rolls against a creature Grappled by you.
     
 - **Fast Wrestler**
     
@@ -332,7 +332,7 @@ You have a quick hand and keen eye when employing firearms, granting you the fol
 ### Heavy Armour Master
 *4th-level Feat*
 
-**Prerequisite:** Strength 13+ or a Heavy armour proficiency  
+**Prerequisite:** Strength 13+ or a Heavy armour Proficiency  
 **Repeatable:** No
 
 You can use your armour to deflect strikes that would kill others. You gain the following benefits:
@@ -375,11 +375,11 @@ You have trained to rapidly recall or discover vital details, granting you the f
     
 - **Investigator**
     
-    You gain :material-lightbulb-on: proficiency in the Intelligence (Investigation) skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+    You gain :material-lightbulb-on: Proficiency in the Intelligence (Investigation) skill. If you are already proficient in the skill, you add double your Proficiency Bonus to checks you make with it.
     
 - **Lore Knowledge**
     
-    You add half your proficiency bonus (rounded down) to to any Intelligence-based skill check that you are not proficient in.
+    You add half your Proficiency Bonus (rounded down) to to any Intelligence-based skill check that you are not proficient in.
     
 - **Northward**
     
@@ -409,11 +409,11 @@ You have practiced techniques useful in melee combat against spellcasters, gaini
     
 - **Concentration Breaker**
     
-     When you damage a creature that is concentrating, it has Disadvantage on the Saving Throw it makes to maintain Concentration.
+     When you damage a creature that is concentrating, it has :d20-disadv: **Disdvantage** on Concentration Checks
     
 - **Guarded Mind.**
     
-    If you fail an Intelligence, a Wisdom, or a Charisma Saving Throw, you can cause yourself to succeed instead. Once you use this benefit, you can’t use it again until you finish a Long Rest.
+    If you fail an Intelligence, a Wisdom, or a Charisma :d20-save: **Saving Throw**, you can cause yourself to succeed instead. Once you use this benefit, you can’t use it again until you finish a Long Rest.
 
 ### Master Blacksmith
 *4th-level Feat*
@@ -429,11 +429,11 @@ You are a master of the forge that can wield the right tools with ease. You gain
     
 - **Master of the Forge**
     
-    You gain proficiency with smith’s and leatherworker’s tools. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.
+    You gain Proficiency with smith’s and leatherworker’s tools. If you are already proficient with them, you add double your Proficiency Bonus to checks you make with them.
     
 - **Armour Upgrades**
     
-    As part of a long rest, you can use leather pieces to augment a set of medium or heavy armour. For 8 hours, the armour doesn’t cause its wearer to suffer disadvantage on Dexterity (Stealth) checks.
+    As part of a long rest, you can use leather pieces to augment a set of medium or heavy armour. For 8 hours, the armour doesn’t cause its wearer to suffer :d20-disadv: **Disdvantage** on Dexterity (Stealth) checks.
     
 - **Find Fragility**
     
@@ -453,11 +453,11 @@ You master the physician’s arts, gaining the following benefits:
     
 - **Doctor**
     
-    You gain :material-lightbulb-on: proficiency in the Medicine skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+    You gain :material-lightbulb-on: Proficiency in the Medicine skill. If you are already proficient in the skill, you add double your Proficiency Bonus to checks you make with it.
     
 - **Back On Your Feet**
     
-    When you successfully stabilize a creature, it regains a number of hit points equal to your Wisdom modifier + proficiency bonus.(1)
+    When you successfully stabilize a creature, it regains a number of hit points equal to your Wisdom modifier + Proficiency Bonus.(1)
     { .annotate }
 
     1. This immediately brings the creature out of Death's Door.
@@ -469,7 +469,7 @@ You master the physician’s arts, gaining the following benefits:
 ### Medium Armour Master
 *4th-level Feat*
 
-**Prerequisite:** Medium Armour proficiency  
+**Prerequisite:** Medium Armour Proficiency  
 **Repeatable:** No
 
 You have practiced moving in medium armour to gain the following benefits:
@@ -484,7 +484,7 @@ You have practiced moving in medium armour to gain the following benefits:
     
 - **Custom Fit**
     
-    Wearing medium armour doesn’t impose disadvantage on your Dexterity (Stealth) checks.
+    Wearing medium armour doesn’t impose :d20-disadv: **Disdvantage** on your Dexterity (Stealth) checks.
 
 ### Menacing
 *4th-level Feat*
@@ -500,7 +500,7 @@ You become fearsome to others, gaining the following benefits:
     
 - **Downright Scary**
     
-    You gain :material-lightbulb-on: proficiency in the Intimidation skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+    You gain :material-lightbulb-on: Proficiency in the Intimidation skill. If you are already proficient in the skill, you add double your Proficiency Bonus to checks you make with it.
     
 - **Boo**
     
@@ -566,15 +566,15 @@ You have developed a bond with your mounts, granting you the following benefits:
 
 - **Mount Handler**
 
-    You have Advantage on Wisdom Checks (Animal Handling) made to handle or train horses and other Beasts employed as mounts.
+    You have :d20-adv: **Advantage** on Wisdom Checks (Animal Handling) made to handle or train horses and other Beasts employed as mounts.
 
 - **Mounted Strike** 
 
-    While mounted, you have Advantage on Attack Rolls against any creature that is within 5 feet of your mount and at least one Size smaller than it.
+    While mounted, you have :d20-adv: **Advantage** on Attack Rolls against any creature that is within 5 feet of your mount and at least one Size smaller than it.
     
 - **Leap Aside**
 
-    If your mount is subjected to an effect that allows it to make a Dexterity Saving Throw to take only half damage, it instead takes no damage if it succeeds on the Saving Throw, and only half damage if it fails. For your mount to gain this benefit, you must be riding it, and neither of you can be Incapacitated.
+    If your mount is subjected to an effect that allows it to make a Dexterity :d20-save: **Saving Throw** to take only half damage, it instead takes no damage if it succeeds on the :d20-save: **Saving Throw**, and only half damage if it fails. For your mount to gain this benefit, you must be riding it, and neither of you can be Incapacitated.
 
 - **Veer** 
 
@@ -594,12 +594,12 @@ You have achieved a penetrating precision in combat, granting you the following 
 
 - **Plunge**
     
-    When you score a critical hit that deals piercing damage to a creature, you can roll one additional damage die when determining the extra piercing damage the target takes.
+    When you score a Critical Hit that deals piercing damage to a creature, you can roll one additional damage die when determining the extra piercing damage the target takes.
     
 Once per turn, when you hit a creature with a Weapon that deals Piercing damage, you can do one of the following effect:
 
 - **Twist the Blade.** The target takes additional Piercing damage equals to your Proficiency Bonus.
-- **Gap the Wound.** The target has disadvantage on all Constitution saving throws until the start of your next turn.
+- **Gap the Wound.** The target has :d20-disadv: **Disdvantage** on all Constitution :d20-save: **Saving Throw**s until the start of your next turn.
 
 ### Polearm Master
 *4th-level Feat*
@@ -637,7 +637,7 @@ Your body has the ability to recover quickly from terrible injuries, and is unus
     
 - **From the Brink**
     
-    Once per long-rest, when you would be reduced to 0 Hit Points or below, make a Constitution Saving Throw. The DC equals 10 or half the damage you take, whichever number is higher. On a successful save, you are reduced to 1 Hit Points instead.
+    Once per long-rest, when you would be reduced to 0 Hit Points or below, make a Constitution :d20-save: **Saving Throw**. The DC equals 10 or half the damage you take, whichever number is higher. On a successful save, you are reduced to 1 Hit Points instead.
     
 - **Fast Healing**
     
@@ -653,11 +653,11 @@ You have developed the resilience to better withstand certain dangers, granting 
 
 - **Ability Score Increase**
 
-    Choose one ability in which you lack Saving Throw Proficiency. Increase the chosen Ability Score by 1, to a maximum of 20.
+    Choose one ability in which you lack :d20-save: **Saving Throw** Proficiency. Increase the chosen Ability Score by 1, to a maximum of 20.
 
 - **Saving Throw Proficiency**
   
-    You gain Saving Throw Proficiency with the chosen ability.
+    You gain :d20-save: **Saving Throw** Proficiency with the chosen ability.
 
 ### Ritual Caster
 *4th-level Feat*
@@ -685,7 +685,7 @@ You have studied ritual magic, granting you the following benefits:
 **Prerequisite:** Proficiency with any Martial Weapon  
 **Repeatable:** No
 
-You have mastered techniques to take advantage of every drop in any enemy’s guard, gaining the following benefits:
+You have mastered techniques to take :d20-adv: **Advantage** of every drop in any enemy’s guard, gaining the following benefits:
 
 - **Ability Score Increase**
     
@@ -717,7 +717,7 @@ You can make shots that others find impossible, granting you the following benef
     
 - **Enhanced Accuracy**
     
-    Being within 5 feet of an enemy and attacking at Long Range doesn’t impose Disadvantage on your ranged Attack Rolls with Weapons.
+    Being within 5 feet of an enemy and attacking at Long Range doesn’t impose :d20-disadv: **Disdvantage** on your ranged Attack Rolls with Weapons.
 
 ### Shield Master^HB^
 *4th-level Feat*
@@ -742,7 +742,7 @@ You’ve trained to use shields not just for protection, but also for offense, g
     
 - **Interpose Shield**
     
-    If you are subjected to an effect that allows you to make a Dexterity Saving Throw to take only half damage, you can use your Reaction to take no damage if you succeed on the Saving Throw and are wielding a Shield, interposing your shield between yourself and the source of the effect.
+    If you are subjected to an effect that allows you to make a Dexterity :d20-save: **Saving Throw** to take only half damage, you can use your Reaction to take no damage if you succeed on the :d20-save: **Saving Throw** and are wielding a Shield, interposing your shield between yourself and the source of the effect.
 
 ### Skill Expert
 *4th-level Feat*
@@ -750,7 +750,7 @@ You’ve trained to use shields not just for protection, but also for offense, g
 **Prerequisite:** None  
 **Repeatable:** No
 
-You have honed your proficiency with particular skills, granting you the following benefits:
+You have honed your Proficiency with particular skills, granting you the following benefits:
 
 - **Ability Score Increase**
 
@@ -758,11 +758,11 @@ You have honed your proficiency with particular skills, granting you the followi
 
 - **Studied**
 
-    You gain :material-lightbulb-on: proficiency in one skill of your choice.
+    You gain :material-lightbulb-on: Proficiency in one skill of your choice.
 
 - **Expert**
 
-    Choose one skill in which you have proficiency. You gain expertise with that skill, which means your proficiency bonus is doubled for any ability check you make with it. The skill you choose must be one that isn’t already benefiting from a feature, such as Expertise, that doubles your proficiency bonus.
+    Choose one skill in which you have Proficiency. You gain expertise with that skill, which means your Proficiency Bonus is doubled for any ability check you make with it. The skill you choose must be one that isn’t already benefiting from a feature, such as Expertise, that doubles your Proficiency Bonus.
 
 ### Skulker
 *4th-level Feat*
@@ -782,7 +782,7 @@ You are expert at slinking through shadows. You gain the following benefits:
     
 - **Fog of War**
     
-    Exploiting the distractions of battle, you have Advantage on any Dexterity Check (Stealth) you make as part of the Hide Action during combat.
+    Exploiting the distractions of battle, you have :d20-adv: **Advantage** on any Dexterity Check (Stealth) you make as part of the Hide Action during combat.
     
 - **Sniper**
     
@@ -806,7 +806,7 @@ You’ve learned where to cut to have the greatest results, granting you the fol
     
 - **Bleed**
     
-    When you hit a creature with a weapon that deals slashing damage, that creature has :d20-disadv:**Disadvantage** on its next attack roll before the start of your next turn.
+    When you hit a creature with a weapon that deals slashing damage, that creature has :d20-disadv: **Disadvantage** on its next attack roll before the start of your next turn.
 
 ### Speedster
 *4th-level Feat*
@@ -826,7 +826,7 @@ You possess exceptional speed and stamina, granting you the following benefits:
     
 - **Focused Sprint**
     
-    When you take the Dash Action (or as a bonus action) on your turn, Difficult Terrain doesn’t cost you extra movement for the rest of that turn, and attacks of opportunity have disadvantage against you.
+    When you take the Dash Action (or as a bonus action) on your turn, Difficult Terrain doesn’t cost you extra movement for the rest of that turn, and attacks of opportunity have :d20-disadv: **Disdvantage** against you.
 
 ### Spell Sniper
 *4th-level Feat*
@@ -852,7 +852,7 @@ You have learned techniques to enhance your attacks with certain kinds of spells
     
 - **Improved Critical**
     
-    When you cast make a ranged spell attack, the number you need to roll to score a critical hit is reduced by 1. This effect can Stack.
+    When you cast make a ranged spell attack, the number you need to roll to score a Critical Hit is reduced by 1. This effect can Stack.
 
 ### Sword Dancing
 *4th-level Feat*
@@ -872,7 +872,7 @@ One-handed weapons and blades are an extension of your arm, graceful as the wind
 
 - **Fleuret**
     
-    The first creature you hit on your turn has disadvantage on attack roll against you until the start of your next turn.
+    The first creature you hit on your turn has :d20-disadv: **Disdvantage** on attack roll against you until the start of your next turn.
 
 ### Telekinetic
 *4th-level Feat*
@@ -890,7 +890,7 @@ One-handed weapons and blades are an extension of your arm, graceful as the wind
     
 - **Limited Telekinesis**
     
-    As a bonus action, you can try to telekinetically shove one creature you can see within 30 feet of you. When you do so, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + the ability modifier of the score increased by this feat) or be moved 5 feet toward you or away from you. A creature can willingly fail this save.
+    As a bonus action, you can try to telekinetically shove one creature you can see within 30 feet of you. When you do so, the target must succeed on a Strength :d20-save: **Saving Throw** (DC 8 + your Proficiency Bonus + the ability modifier of the score increased by this feat) or be moved 5 feet toward you or away from you. A creature can willingly fail this save.
 
 ### Telekinetic
 *4th-level Feat*
@@ -930,7 +930,7 @@ You have been touched by the Warp, giving you benefits as follow:
     
 - **Attunement of the Warp**
     
-    You have advantage on Dexterity (Stealth) check against Abberations.
+    You have :d20-adv: **Advantage** on Dexterity (Stealth) check against Abberations.
     
 - **Bonus Cantrip**
     
@@ -959,7 +959,7 @@ You have practiced casting spells in the midst of combat, learning techniques th
     
 - **Stoic**
     
-    You have advantage on Constitution saving throws that you make to maintain your concentration on a spell when you take damage.
+    You have :d20-adv: **Advantage** on Constitution :d20-save: **Saving Throw**s that you make to maintain your concentration on a spell when you take damage.
     
 - **Reactive Spell**
     
@@ -982,7 +982,7 @@ You have practiced extensively with a variety of weapons, gaining the following 
     You gain Martial Weapon Proficiency(1).
     { .annotate }
 
-    1. :material-lightbulb-on: **Martial Weapon Proficiency.** Gives you proficiency on all Martial weapons. 
+    1. :material-lightbulb-on: **Martial Weapon Proficiency.** Gives you Proficiency on all Martial weapons. 
 
 
 [heavy]: ../../equipment/weapon/index.md#heavy

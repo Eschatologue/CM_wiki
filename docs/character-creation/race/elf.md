@@ -32,7 +32,7 @@
 &ensp;&ensp;&ensp; You can see in the dark up to 60 ft.
 
 :simple-paloaltonetworks:{ .lg .middle } **Fey Ancestry**  
-&ensp;&ensp;&ensp; You have :d20-adv:**Advantage** on :die-d20:**Saving Throws** against being Charmed and magic can't put you to Sleep and you can easily identify whenever an elf is wood elf, high elf, or a drow just by looking at it. Except when they hide themselves through magical means.
+&ensp;&ensp;&ensp; You have :d20-adv: **Advantage** on :die-d20:**Saving Throws** against being Charmed and magic can't put you to Sleep and you can easily identify whenever an elf is wood elf, high elf, or a drow just by looking at it. Except when they hide themselves through magical means.
 
 :material-wrench:{ .lg .middle } **Keen Sense**  
 &ensp;&ensp;&ensp; You have :dnd-stat-prof:**Proficiency** in the Wisdom (Perception) skill.
@@ -57,7 +57,7 @@
 |5th-level| II | *Darkness* | Once per Long-rest |
 
 :material-sword-cross:{ .lg .middle } **Drow Weapon Training**  
-&ensp;&ensp;&ensp; You have proficiency with rapiers, shortswords, and hand crossbows.
+&ensp;&ensp;&ensp; You have Proficiency with rapiers, shortswords, and hand crossbows.
 
 :dnd-trait-darkvision-super:{ .lg .middle } **Superior Darkvision**  
 &ensp;&ensp;&ensp; Your darkvision has a range of 120 ft., instead of 60 ft.
@@ -76,7 +76,7 @@
 &ensp;&ensp;&ensp; You know one cantrip of your choice from the Wizard spell list. Intelligence is your spellcasting ability for it.
 
 :material-sword-cross:{ .lg .middle } **Elf Weapon Training**  
-&ensp;&ensp;&ensp; You have proficiency with the longsword, shortsword, shortbow, and longbow.
+&ensp;&ensp;&ensp; You have Proficiency with the longsword, shortsword, shortbow, and longbow.
 
 :material-chat-plus:{ .lg .middle } **Expert Wordsmith**  
 &ensp;&ensp;&ensp; You can add your Intelligence modifier to Charisma (Persuasion) and Charisma (Intimidation) check.
@@ -95,7 +95,7 @@
 &ensp;&ensp;&ensp; Your Movement Speed is increased 5 ft. and are considered to have *Fast* speed; which is 35 ft. in total.
 
 :material-sword-cross:{ .lg .middle } **Elf Weapon Training**  
-&ensp;&ensp;&ensp; You have proficiency with the longsword, shortsword, shortbow, and longbow.
+&ensp;&ensp;&ensp; You have Proficiency with the longsword, shortsword, shortbow, and longbow.
 
 :dnd-stat-expert:{ .lg .middle } **Mask of the Wild**  
 &ensp;&ensp;&ensp; You gain :dnd-stat-prof:**Proficiency** in Dexterity (Stealth) and you can attempt to :dnd-action-hide:**Hide** even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.

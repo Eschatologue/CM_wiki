@@ -98,7 +98,7 @@ A creature can use its :rsc-action: **Action** to make a DC 10 Strength check, f
 
 #### Lance
 
-You have :d20-disadv:**Disadvantage** when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
+You have :d20-disadv: **Disadvantage** when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
 
 [Net]:weapon-cold.md#net
 [Lance]:weapon-cold.md#lance

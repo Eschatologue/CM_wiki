@@ -24,7 +24,7 @@ You have blindsight with a range of 10 feet. Within that range, you can effectiv
 **Prerequisites:** Warrior Group, Ranger Class, or [Fighting Initiate] feat; Proficiency with Firearms  
 **Repeatable:** No
 
-When you make extra attacks of the :weapon-prop-automatic: **[Automatic]** weapon property, the number of attacks you make equal to half of your ability modifier(rounded up) used to make the extra attacks does not suffer :d20-disadv:**Disadvantage**.
+When you make extra attacks of the :weapon-prop-automatic: **[Automatic]** weapon property, the number of attacks you make equal to half of your ability modifier(rounded up) used to make the extra attacks does not suffer :d20-disadv: **Disadvantage**.
 
 ### Fighting Style: Gallian Swordplay
 *1st-level Feat - Homebrew*
@@ -76,7 +76,7 @@ The Weapon must have the :weapon-prop-heavy: **[Heavy]** property to gain this b
 **Prerequisites:** Warrior Group, *Fighting Style* Feature, or [Fighting Initiate] feat  
 **Repeatable:** No
 
-When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your :rsc-reaction: **Reaction** to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). 
+When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your :rsc-reaction: **Reaction** to reduce the damage the target takes by 1d10 + your Proficiency Bonus (to a minimum of 0 damage). 
 
 You must be wielding a shield or a simple or martial weapon to do this as a :rsc-reaction: **Reaction**.
 
@@ -96,7 +96,7 @@ You must be wielding a Shield to do this as a :rsc-reaction: **Reaction**.
 **Prerequisites:** Warrior Group, *Fighting Style* Feature, or [Fighting Initiate] feat  
 **Repeatable:** No
 
-When a creature within 5 feet of you makes an attack against a creature that you can see, you can grant it :d20-adv:**Advantage** on its :d20-attack:**Attack Roll** as a :rsc-reaction: **Reaction**. You must be carrying a banner, flag, or standard in your hand to use this :rsc-reaction: **Reaction**.
+When a creature within 5 feet of you makes an attack against a creature that you can see, you can grant it :d20-adv: **Advantage** on its :d20-attack:**Attack Roll** as a :rsc-reaction: **Reaction**. You must be carrying a banner, flag, or standard in your hand to use this :rsc-reaction: **Reaction**.
 
 ### Fighting Style: Strongbow
 *1st-level Feat - Homebrew*
@@ -114,7 +114,7 @@ Moreover, you also use your Strength instead of your Dexterity to fufill the :we
 **Prerequisites:** Warrior Group, or [Fighting Initiate] feat  
 **Repeatable:** No
 
-You learn one manoeuvre of your choice from among those available to the Battle Master archetype. If a manoeuvre you use requires your target to make a saving throw to resist the manoeuvre's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
+You learn one manoeuvre of your choice from among those available to the Battle Master archetype. If a manoeuvre you use requires your target to make a Saving Throw to resist the manoeuvre's effects, the Saving Throw DC equals 8 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice).
 
 - You gain one superiority die, which is a :die-d6:d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your manoeuvres.  
 A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest
