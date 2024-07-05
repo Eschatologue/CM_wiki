@@ -915,7 +915,7 @@ You weave together threads of shadow to create a sword of solidified gloom in yo
 
 If you drop the weapon or throw it, it dissipates at the end of the turn. Thereafter, while the spell persists, you can use a :rsc-bonus-action: **Bonus Action** to cause the sword to reappear in your hand.
 
-***At Higher Levels.*** When you cast this spell using a 3rdor 4th-level spell slot, the damage increases to 3d8. When you cast it using a 5thor 6th-level spell slot, the damage increases to 4d8. When you cast it using a :rsc-spell-slot: **Spell Slot** of 7th level or higher, the damage increases to 5d8.
+***At Higher Levels.*** When you cast this spell using a 3rdor 4th-level :rsc-spell-slot: **Spell Slot**, the damage increases to 3d8. When you cast it using a 5thor 6th-level :rsc-spell-slot: **Spell Slot**, the damage increases to 4d8. When you cast it using a :rsc-spell-slot: **Spell Slot** of 7th level or higher, the damage increases to 5d8.
 
 ### Shatter
 *2nd-level evocation*

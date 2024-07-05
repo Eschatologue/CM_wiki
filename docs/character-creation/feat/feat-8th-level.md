@@ -97,9 +97,9 @@ Your faith grants you great insight into magic, giving you a special privilege w
     
 - **Arcane Absorbtion**
     
-    When you expend a spell slot, roll a d20. On a 20, you regain a :rsc-spell-slot: **Spell Slot** of a level lower than expended spell slot, up to a maximum level equal to your Proficiency Bonus, and a minimum level of 1
+    When you expend a :rsc-spell-slot: **Spell Slot**, roll a d20. On a 20, you regain a :rsc-spell-slot: **Spell Slot** of a level lower than expended :rsc-spell-slot: **Spell Slot**, up to a maximum level equal to your Proficiency Bonus, and a minimum level of 1
     
-    You can regain a total number of :rsc-spell-slot: **Spell Slot** levels equal to your Proficiency Bonus this way until you cannot regain further spell slots until you complete a long rest.
+    You can regain a total number of :rsc-spell-slot: **Spell Slot** levels equal to your Proficiency Bonus this way until you cannot regain further :rsc-spell-slot: **Spell Slot**s until you complete a long rest.
 
 ### Shield Prodigy
 *8th-level Feat*

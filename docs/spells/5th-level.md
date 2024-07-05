@@ -352,7 +352,7 @@ You can use your :rsc-action: **Action** to take total and precise control of th
 
 Each time the target takes damage, it makes a new Wisdom Saving Throw against the spell. If the Saving Throw succeeds, the spell ends.
 
-***At Higher Levels.*** When you cast this spell using a 6th-level spell slot, the duration is concentration, up to 10 minutes. When you use a 7th-level spell slot, the duration is concentration, up to 1 hour. When you use a :rsc-spell-slot: **Spell Slot** of 8th level or higher, the duration is concentration, up to 8 hours.
+***At Higher Levels.*** When you cast this spell using a 6th-level :rsc-spell-slot: **Spell Slot**, the duration is concentration, up to 10 minutes. When you use a 7th-level :rsc-spell-slot: **Spell Slot**, the duration is concentration, up to 1 hour. When you use a :rsc-spell-slot: **Spell Slot** of 8th level or higher, the duration is concentration, up to 8 hours.
 
 ### Dream
 *5th-level illusion*
@@ -645,7 +645,7 @@ With this spell, you attempt to bind a celestial, an elemental, a fey, or a fien
 
 A bound creature must follow your instructions to the best of its ability. You might command the creature to accompany you on an adventure, to guard a location, or to deliver a message. The creature obeys the letter of your instructions, but if the creature is hostile to you, it strives to twist your words to achieve its own objectives. If the creature carries out your instructions completely before the spell ends, it travels to you to report this fact if you are on the same plane of existence. If you are on a different plane of existence, it returns to the place where you bound it and remains there until the spell ends.
 
-***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of a higher level, the duration increases to 10 days with a 6th-level slot, to 30 days with a 7th-level slot, to 180 days with an 8th-level slot, and to a year and a day with a 9th-level spell slot.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of a higher level, the duration increases to 10 days with a 6th-level slot, to 30 days with a 7th-level slot, to 180 days with an 8th-level slot, and to a year and a day with a 9th-level :rsc-spell-slot: **Spell Slot**.
 
 ### Raise Dead
 *5th-level necromancy*

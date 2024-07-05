@@ -96,7 +96,7 @@ The DM has the fey creature's statistics.
 **Components:** V, S, M (a statuette of yourself carved from ivory and decorated with gems worth at least 1,500 gp)  
 **Duration:** 10 days
 
-Choose a spell of 5th level or lower that you can cast, that has a casting time of :rsc-action: **Action**, and that can target you. You cast that spell—called the contingent spell—as part of casting contingency, expending spell slots for both, but the contingent spell doesn't come into effect. Instead, it takes effect when a certain circumstance occurs. You describe that circumstance when you cast the two spells. For example, a contingency cast with *water breathing* might stipulate that *water breathing* comes into effect when you are engulfed in water or a similar liquid.
+Choose a spell of 5th level or lower that you can cast, that has a casting time of :rsc-action: **Action**, and that can target you. You cast that spell—called the contingent spell—as part of casting contingency, expending :rsc-spell-slot: **Spell Slot**s for both, but the contingent spell doesn't come into effect. Instead, it takes effect when a certain circumstance occurs. You describe that circumstance when you cast the two spells. For example, a contingency cast with *water breathing* might stipulate that *water breathing* comes into effect when you are engulfed in water or a similar liquid.
 
 The contingent spell takes effect immediately after the circumstance is met for the first time, whether or not you want it to, and then contingency ends.
 
@@ -130,7 +130,7 @@ As a :rsc-bonus-action: **Bonus Action** on each of your turns, you can mentally
 
 The creature is under your control for 24 hours, after which it stops obeying any command you have given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature before the current 24-hour period ends. This use of the spell reasserts your control over up to three creatures you have animated with this spell, rather than animating new ones.
 
-***At Higher Levels.*** When you cast this spell using a 7th-level spell slot, you can animate or reassert control over four **ghouls**. When you cast this spell using an 8th-level spell slot, you can animate or reassert control over five **ghouls** or two **ghasts** or **wights**. When you cast this spell using a 9th-level spell slot, you can animate or reassert control over six **ghouls**, three **ghasts** or **wights**, or two **mummies**.
+***At Higher Levels.*** When you cast this spell using a 7th-level :rsc-spell-slot: **Spell Slot**, you can animate or reassert control over four **ghouls**. When you cast this spell using an 8th-level :rsc-spell-slot: **Spell Slot**, you can animate or reassert control over five **ghouls** or two **ghasts** or **wights**. When you cast this spell using a 9th-level :rsc-spell-slot: **Spell Slot**, you can animate or reassert control over six **ghouls**, three **ghasts** or **wights**, or two **mummies**.
 
 ### Disintegrate
 *6th-level transmutation*
@@ -280,7 +280,7 @@ The spell's area can't overlap with the area of another forbiddance spell. If yo
 
 An immobile, faintly shimmering barrier springs into existence in a 10-foot radius around you and remains for the duration.
 
-Any spell of 5th level or lower cast from outside the barrier can't affect creatures or objects within it, even if the spell is cast using a higher level spell slot. Such a spell can target creatures and objects within the barrier, but the spell has no effect on them. Similarly, the area within the barrier is excluded from the areas affected by such spells.
+Any spell of 5th level or lower cast from outside the barrier can't affect creatures or objects within it, even if the spell is cast using a higher level :rsc-spell-slot: **Spell Slot**. Such a spell can target creatures and objects within the barrier, but the spell has no effect on them. Similarly, the area within the barrier is excluded from the areas affected by such spells.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 7th level or higher, the barrier blocks spells of one level higher for each slot level above 6th.
 
@@ -445,7 +445,7 @@ You can also specify conditions that will trigger a special activity during the 
 
 If you or any of your companions damage a creature affected by this spell, the spell ends for that creature.
 
-***At Higher Levels.*** When you cast this spell using a 7th-level spell slot, the duration is 10 days. When you use an 8th-level spell slot, the duration is 30 days. When you use a 9th-level spell slot, the duration is a year and a day.
+***At Higher Levels.*** When you cast this spell using a 7th-level :rsc-spell-slot: **Spell Slot**, the duration is 10 days. When you use an 8th-level :rsc-spell-slot: **Spell Slot**, the duration is 30 days. When you use a 9th-level :rsc-spell-slot: **Spell Slot**, the duration is a year and a day.
 
 ### Mental Prison
 *6th-level illusion*

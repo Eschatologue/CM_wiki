@@ -158,7 +158,7 @@ You can use your :rsc-action: **Action** to take total and precise control of th
 
 Each time the target takes damage, it makes a new Wisdom Saving Throw against the spell. If the Saving Throw succeeds, the spell ends.
 
-***At Higher Levels.*** When you cast this spell with a 9th-level spell slot, the duration is concentration, up to 8 hours.
+***At Higher Levels.*** When you cast this spell with a 9th-level :rsc-spell-slot: **Spell Slot**, the duration is concentration, up to 8 hours.
 
 ### Earthquake
 *8th-level evocation*

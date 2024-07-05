@@ -18,13 +18,13 @@ Whenever you gain a Warlock level, you can change which of your damaging Warlock
 
 **Prerequisite:** None
 
-You can cast *[Mage Armour](../../spells/1st-level.md#mage-armour)* on yourself without expending a spell slot.
+You can cast *[Mage Armour](../../spells/1st-level.md#mage-armour)* on yourself without expending a :rsc-spell-slot: **Spell Slot**.
 
 ### Ascendant Step
 
 **Prerequisite:** Level 5+ Warlock
 
-You can cast *[Levitate](../../spells/2nd-level.md#levitate)* on yourself without expending a spell slot.
+You can cast *[Levitate](../../spells/2nd-level.md#levitate)* on yourself without expending a :rsc-spell-slot: **Spell Slot**.
 
 ### Devil's Sight
 
@@ -42,7 +42,7 @@ You have :d20-adv: **Advantage** on Concentration Check.
 
 **Prerequisite:** Level 5+ Warlock, Pact of the Blade
 
-Once per turn when you hit a creature with your pact weapon, you can expend a Warlock :rsc-spell-slot: **Spell Slot** to deal an extra 1d8 force damage to the target, plus another 1d8 per level of the spell slot, and you can give the target the Prone condition if it is Huge or smaller.
+Once per turn when you hit a creature with your pact weapon, you can expend a Warlock :rsc-spell-slot: **Spell Slot** to deal an extra 1d8 force damage to the target, plus another 1d8 per level of the :rsc-spell-slot: **Spell Slot**, and you can give the target the Prone condition if it is Huge or smaller.
 
 ### Eldritch Spear
 
@@ -56,7 +56,7 @@ Whenever you gain a Warlock level, you can change which of your damaging Warlock
 
 **Prerequisite:** None
 
-You can cast *[False Life](../../spells/1st-level.md#false-life)* on yourself without expending a spell slot. When you cast the spell with this feature, you don't roll the die for the Temporary Hit Points; you automatically get the highest number on the die.
+You can cast *[False Life](../../spells/1st-level.md#false-life)* on yourself without expending a :rsc-spell-slot: **Spell Slot**. When you cast the spell with this feature, you don't roll the die for the Temporary Hit Points; you automatically get the highest number on the die.
 
 ### Gaze of Two Minds
 
@@ -70,7 +70,7 @@ You can use a :rsc-bonus-action: **Bonus Action** to touch a willing creature an
 
 You can breathe underwater, and you gain a Swim Speed equal to your Speed.
 
-You can also cast *[Water Breathing](../../spells/3rd-level.md#water-breathing)* once without expending a spell slot. You regain the ability to do so when you finish a Long Rest.
+You can also cast *[Water Breathing](../../spells/3rd-level.md#water-breathing)* once without expending a :rsc-spell-slot: **Spell Slot**. You regain the ability to do so when you finish a Long Rest.
 
 ### Gift of the Protectors
 
@@ -114,31 +114,31 @@ Whenever you hit a creature with your pact weapon, the creature takes 1d6 extra 
 
 **Prerequisite:** None
 
-You can cast Disguise Self without expending a spell slot.
+You can cast Disguise Self without expending a :rsc-spell-slot: **Spell Slot**.
 
 ### Master of Myriad Forms
 
 **Prerequisite:** Level 5+ Warlock
 
-You can cast Alter Self without expending a spell slot.
+You can cast Alter Self without expending a :rsc-spell-slot: **Spell Slot**.
 
 ### Misty Visions
 
 **Prerequisite:** None
 
-You can cast Silent Image without expending a spell slot.
+You can cast Silent Image without expending a :rsc-spell-slot: **Spell Slot**.
 
 ### One with Shadows
 
 **Prerequisite:** Level 5+ Warlock
 
-While you’re in an area of Dim Light or Darkness, you can cast Invisibility on yourself without expending a spell slot.
+While you’re in an area of Dim Light or Darkness, you can cast Invisibility on yourself without expending a :rsc-spell-slot: **Spell Slot**.
 
 ### Otherworldy Leap
 
 **Prerequisite:** Level 2+ Warlock
 
-You can cast Jump on yourself without expending a spell slot.
+You can cast Jump on yourself without expending a :rsc-spell-slot: **Spell Slot**.
 
 ### Pact of the Blade
 
@@ -154,7 +154,7 @@ Your bond with the weapon ends if you use this feature’s :rsc-bonus-action: **
 
 **Prerequisite:** Level 2+ Warlock
 
-You learn the Find Familiar spell and can cast it as an :rsc-action: **Action** without expending a spell slot.
+You learn the Find Familiar spell and can cast it as an :rsc-action: **Action** without expending a :rsc-spell-slot: **Spell Slot**.
 
 When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: imp, pseudodragon, quasit, skeleton, slaad tadpole, or sprite.
 
@@ -168,7 +168,7 @@ Stitching together strands of shadow, you conjure forth a book in your hand at t
 
 **Cantrips and Rituals**. When the book appears, choose three cantrips, and choose two level 1spells that have the Ritual tag. The spells can be from any class’s spell list, and they must be spells you don’t already have prepared. While the book is on your person, you have the chosen spells prepared, and they function as Warlock spells for you.
 
-**Spell Slot.** You gain a level 1 spell slot. Once you expend it, you can’t gain another slot from this feature until you finish a Long Rest.
+**Spell Slot.** You gain a level 1 :rsc-spell-slot: **Spell Slot**. Once you expend it, you can’t gain another slot from this feature until you finish a Long Rest.
 
 **Spellcasting Focus.** You can use the book as a Spellcasting Focus.
 
@@ -192,13 +192,13 @@ When you reach level 11 in this class, this Extra Attack confers two extra attac
 
 **Prerequisite:** Level 9+ Warlock
 
-You can cast Arcane Eye without expending a spell slot.
+You can cast Arcane Eye without expending a :rsc-spell-slot: **Spell Slot**.
 
 ### Whispers of the Grave
 
 **Prerequisite:** Level 7+ Warlock
 
-You can cast Speak with Dead without expending a spell slot.
+You can cast Speak with Dead without expending a :rsc-spell-slot: **Spell Slot**.
 
 ### Witch Sight
 

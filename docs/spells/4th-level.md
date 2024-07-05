@@ -137,7 +137,7 @@ The summoned creatures are friendly to you and your companions. Roll initiative 
 
 The DM has the creatures' statistics.
 
-***At Higher Levels.*** When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot.
+***At Higher Levels.*** When you cast this spell using certain higher-level :rsc-spell-slot: **Spell Slot**s, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot.
 
 ### Conjure Woodland Beings
 *4th-level conjuration*
@@ -160,7 +160,7 @@ The summoned creatures are friendly to you and your companions. Roll initiative 
 
 The DM has the creatures' statistics.
 
-***At Higher Levels.*** When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot.
+***At Higher Levels.*** When you cast this spell using certain higher-level :rsc-spell-slot: **Spell Slot**s, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot.
 
 ### Control Water
 *4th-level transmutation*
@@ -246,7 +246,7 @@ You can use your :rsc-action: **Action** to take total and precise control of th
 
 Each time the target takes damage, it makes a new Wisdom Saving Throw against the spell. If the Saving Throw succeeds, the spell ends.
 
-***At Higher Levels.*** When you cast this spell with a 5th-level spell slot, the duration is concentration, up to 10 minutes. When you use a 6th-level spell slot, the duration is concentration, up to 1 hour. When you use a :rsc-spell-slot: **Spell Slot** of 7th level or higher, the duration is concentration, up to 8 hours.
+***At Higher Levels.*** When you cast this spell with a 5th-level :rsc-spell-slot: **Spell Slot**, the duration is concentration, up to 10 minutes. When you use a 6th-level :rsc-spell-slot: **Spell Slot**, the duration is concentration, up to 1 hour. When you use a :rsc-spell-slot: **Spell Slot** of 7th level or higher, the duration is concentration, up to 8 hours.
 
 ### Elemental Bane
 *4th-level transmutation*

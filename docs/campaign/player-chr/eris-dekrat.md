@@ -65,7 +65,7 @@ You learn three cantrip of your choice from this feature's [spell list], these c
 
 ### Spell Slots
 
-The table above shows how many spell slots you have to cast a Sorcerer spells of 1st through 5th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or a long rest.
+The table above shows how many :rsc-spell-slot: **Spell Slot**s you have to cast a Sorcerer spells of 1st through 5th level. The table also shows what the level of those slots is; all of your :rsc-spell-slot: **Spell Slot**s are the same level. To cast one of your spells of 1st level or higher, you must expend a :rsc-spell-slot: **Spell Slot**. You regain all expended :rsc-spell-slot: **Spell Slot**s when you finish a short or a long rest.
 
 ### Spellcasting Focus
 
@@ -125,7 +125,7 @@ If the spell was cast at a level equal to the level of the :rsc-spell-slot: **Sp
 
 ## Resurgence <span style="float:right;"> <small> Level 7 </small> </span>
 
-When you hit a creature affected by [Hunter's Mark], you can choose to immediately end the spell and regain one of your expended spell slot. You can do this a number of times equal to half of your Proficiency Bonus (round down) before requiring a long rest.
+When you hit a creature affected by [Hunter's Mark], you can choose to immediately end the spell and regain one of your expended :rsc-spell-slot: **Spell Slot**. You can do this a number of times equal to half of your Proficiency Bonus (round down) before requiring a long rest.
 
 ---
 

@@ -16,7 +16,7 @@ The celestial is friendly to you and your companions for the duration. Roll init
 
 The DM has **the celestial**'s statistics.
 
-***At Higher Levels.*** When you cast this spell using a 9th-level spell slot, you summon a celestial of challenge rating 5 or lower.
+***At Higher Levels.*** When you cast this spell using a 9th-level :rsc-spell-slot: **Spell Slot**, you summon a celestial of challenge rating 5 or lower.
 
 ### Create Magen
 *7th-level transmutation*
@@ -353,7 +353,7 @@ You can set a condition for the spell to end early. The condition can be anythin
 
 You shape an illusory duplicate of one beast or humanoid that is within range for the entire casting time of the spell. The duplicate is a creature, partially real and formed from ice or snow, and it can take actions and otherwise be affected as a normal creature. It appears to be the same as the original, but it has half the creature's Hit Point maximum and is formed without any equipment. Otherwise, the illusion uses all the statistics of the creature it duplicates, except that it is a construct.
 
-The simulacrum is friendly to you and creatures you designate. It obeys your spoken commands, moving and acting in accordance with your wishes and acting on your turn in combat. The simulacrum lacks the ability to learn or become more powerful, so it never increases its level or other abilities, nor can it regain expended spell slots.
+The simulacrum is friendly to you and creatures you designate. It obeys your spoken commands, moving and acting in accordance with your wishes and acting on your turn in combat. The simulacrum lacks the ability to learn or become more powerful, so it never increases its level or other abilities, nor can it regain expended :rsc-spell-slot: **Spell Slot**s.
 
 If the simulacrum is damaged, you can repair it in an alchemical laboratory, using rare herbs and minerals worth 100 gp per Hit Point it regains. The simulacrum lasts until it drops to 0 Hit Points, at which point it reverts to snow and melts instantly.
 

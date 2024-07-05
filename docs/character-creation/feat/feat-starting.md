@@ -95,7 +95,7 @@ You study the arcane arts, gaining the following benefits:
 
 - **Magical Trickster** 
 
-    You learn the *prestidigitation* cantrip, *identify*, and *detect magic* spells. You can cast *identify* or *detect magic* once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
+    You learn the *prestidigitation* cantrip, *identify*, and *detect magic* spells. You can cast *identify* or *detect magic* once without expending a :rsc-spell-slot: **Spell Slot**, and you regain the ability to do so when you finish a long rest.
 
 ### Armour Training
 
@@ -123,7 +123,7 @@ You've learned some of an artificer's inventiveness.
 
     You learn one cantrip of your choice from the artificer spell list, and you learn one 1st-level spell of your choice from that list. 
 
-    You can cast this feat's 1st-level spell without a spell slot, and you must finish a long rest before you can cast it in this way again. You can also cast the spell using any spell slots you have. 
+    You can cast this feat's 1st-level spell without a :rsc-spell-slot: **Spell Slot**, and you must finish a long rest before you can cast it in this way again. You can also cast the spell using any :rsc-spell-slot: **Spell Slot**s you have. 
 
     Intelligence is your spellcasting ability for these spells. 
 
@@ -531,7 +531,7 @@ You are a practiced musician, granting you the following benefits:
     
 - **Druidcasting**
     
-    You learn the *druidcraft*, *speak with animals*, and the *detect poison and disease* spells. You can cast *speak with animals* or *detect poison and disease* once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
+    You learn the *druidcraft*, *speak with animals*, and the *detect poison and disease* spells. You can cast *speak with animals* or *detect poison and disease* once without expending a :rsc-spell-slot: **Spell Slot**, and you regain the ability to do so when you finish a long rest.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these Spells (choose when you select this Feat).
 
@@ -683,7 +683,7 @@ Your extensive study of religion rewards you with the following benefits:
     
 - **Holy Casting**
     
-    You learn the *thaumaturgy*, *protection from evil and good*, and *detect evil and good* spells. You can cast protection from evil and good or detect evil and good once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
+    You learn the *thaumaturgy*, *protection from evil and good*, and *detect evil and good* spells. You can cast protection from evil and good or detect evil and good once without expending a :rsc-spell-slot: **Spell Slot**, and you regain the ability to do so when you finish a long rest.
     
     If you already know *thaumaturgy*, you gain another cantrip from the Cleric spell list.
 

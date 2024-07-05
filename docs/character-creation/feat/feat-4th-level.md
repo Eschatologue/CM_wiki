@@ -77,7 +77,7 @@ You have learned to channel your magic through a deck of cards.
     
 - **Hidden Ace**
     
-    When you finish a long rest, you can choose two spell from your class's spell list and imbue those spell into cards. The chosen spell must have a casting time of 1 action, and it must be a level for which you have spell slots. The card remains imbued with this spell for 8 hours. 
+    When you finish a long rest, you can choose two spell from your class's spell list and imbue those spell into cards. The chosen spell must have a casting time of 1 action, and it must be a level for which you have :rsc-spell-slot: **Spell Slot**s. The card remains imbued with this spell for 8 hours. 
     
     While the card is imbued with the spell, you can use a :rsc-bonus-action: **Bonus Action** to flourish the card and cast the spell within. The card then immediately loses its magic.
     
@@ -215,9 +215,9 @@ Your exposure to the Feywild’s magic has changed you, granting you the followi
     
 - **Fey Magic**
     
-    You learn the misty step spell and two other 1st-level spells of your choice from the divination or enchantment school of magic. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can’t cast that spell in this way again until you finish a long rest.
+    You learn the misty step spell and two other 1st-level spells of your choice from the divination or enchantment school of magic. You can cast each of these spells without expending a :rsc-spell-slot: **Spell Slot**. Once you cast either of these spells in this way, you can’t cast that spell in this way again until you finish a long rest.
     
-    You can also cast these spells using spell slots you have of the appropriate level. The spells’ spellcasting ability is the ability increased by this feat.
+    You can also cast these spells using :rsc-spell-slot: **Spell Slot**s you have of the appropriate level. The spells’ spellcasting ability is the ability increased by this feat.
 
 ### Fighting Intiate
 
@@ -254,7 +254,7 @@ You’ve developed the ability to instantly recall an unprepared spell in moment
     
 - **Compartmentalize**
     
-    As an :rsc-action: **Action**, you can instantly prepare a spell from your available class spell list (or spellbook, if you prepare spells from one) that you did not have prepared. This spell choice must be of a level for which you have spell slots. You then lose preparation of a different spell of your choice of equal or higher spell level. 
+    As an :rsc-action: **Action**, you can instantly prepare a spell from your available class spell list (or spellbook, if you prepare spells from one) that you did not have prepared. This spell choice must be of a level for which you have :rsc-spell-slot: **Spell Slot**s. You then lose preparation of a different spell of your choice of equal or higher spell level. 
     
     If you are multiclassed, you can only Flash Recall spells from a class that prepares spells. Once you use this ability, you must finish a short or long rest before you can use it again.
 
@@ -910,11 +910,11 @@ You awaken the ability to mentally connect with others, granting you the followi
     
 - **Read Mind**
     
-    You can cast the detect thoughts spell, requiring no :rsc-spell-slot: **Spell Slot** or components, and you must finish a long rest before you can cast it this way again. Your spellcasting ability for the spell is the ability increased by this feat. If you have spell slots of 2nd level or higher, you can cast this spell with them.
+    You can cast the detect thoughts spell, requiring no :rsc-spell-slot: **Spell Slot** or components, and you must finish a long rest before you can cast it this way again. Your spellcasting ability for the spell is the ability increased by this feat. If you have :rsc-spell-slot: **Spell Slot**s of 2nd level or higher, you can cast this spell with them.
     
 - **Deliver Message**
     
-    You can cast the *sending* spell, requiring no :rsc-spell-slot: **Spell Slot** or components, and you must finish a long rest before you can cast it this way again. Your spellcasting ability for the spell is the ability increased by this feat. If you have spell slots of 3rd level or higher, you can cast this spell with them.
+    You can cast the *sending* spell, requiring no :rsc-spell-slot: **Spell Slot** or components, and you must finish a long rest before you can cast it this way again. Your spellcasting ability for the spell is the ability increased by this feat. If you have :rsc-spell-slot: **Spell Slot**s of 3rd level or higher, you can cast this spell with them.
 
 ### Void Touched^HB^
 *4th-level Feat*

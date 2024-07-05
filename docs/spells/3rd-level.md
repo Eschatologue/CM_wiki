@@ -81,7 +81,7 @@ While the target is cursed, your attacks and spells deal an extra 1d8 necrotic d
 
 A *remove curse* spell ends this effect. At the DM's option, you may choose an alternative curse effect, but it should be no more powerful than those described above. The DM has final say on such a curse's effect.
 
-***At Higher Levels.*** If you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, the duration is concentration, up to 10 minutes. If you use a :rsc-spell-slot: **Spell Slot** of 5th level or higher, the duration is 8 hours. If you use a :rsc-spell-slot: **Spell Slot** of 7th level or higher, the duration is 24 hours. If you use a 9th level spell slot, the spell lasts until it is dispelled. Using a :rsc-spell-slot: **Spell Slot** of 5th level or higher grants a duration that doesn't require concentration.
+***At Higher Levels.*** If you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, the duration is concentration, up to 10 minutes. If you use a :rsc-spell-slot: **Spell Slot** of 5th level or higher, the duration is 8 hours. If you use a :rsc-spell-slot: **Spell Slot** of 7th level or higher, the duration is 24 hours. If you use a 9th level :rsc-spell-slot: **Spell Slot**, the spell lasts until it is dispelled. Using a :rsc-spell-slot: **Spell Slot** of 5th level or higher grants a duration that doesn't require concentration.
 
 ### Blinding Smite
 *3rd-level evocation*
@@ -170,7 +170,7 @@ The summoned creatures are friendly to you and your companions. Roll initiative 
 
 The DM has the creatures' statistics.
 
-***At Higher Levels.*** When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 5th-level slot, three times as many with a 7th-level slot, and four times as many with a 9th-level slot.
+***At Higher Levels.*** When you cast this spell using certain higher-level :rsc-spell-slot: **Spell Slot**s, you choose one of the summoning options above, and more creatures appear: twice as many with a 5th-level slot, three times as many with a 7th-level slot, and four times as many with a 9th-level slot.
 
 ### Conjure Barrage
 *3rd-level conjuration*
