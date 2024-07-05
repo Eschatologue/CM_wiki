@@ -42,7 +42,7 @@ You have :d20-adv: **Advantage** on Concentration Check.
 
 **Prerequisite:** Level 5+ Warlock, Pact of the Blade
 
-Once per turn when you hit a creature with your pact weapon, you can expend a Warlock spell slot to deal an extra 1d8 force damage to the target, plus another 1d8 per level of the spell slot, and you can give the target the Prone condition if it is Huge or smaller.
+Once per turn when you hit a creature with your pact weapon, you can expend a Warlock :rsc-spell-slot: **Spell Slot** to deal an extra 1d8 force damage to the target, plus another 1d8 per level of the spell slot, and you can give the target the Prone condition if it is Huge or smaller.
 
 ### Eldritch Spear
 

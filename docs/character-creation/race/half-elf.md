@@ -54,7 +54,7 @@ Half-elves are more or less the same size as humans, ranging from 5 to 6 feet ta
 |3rd-level| I | *Faerie Fire* | Once per Long-rest |
 |5th-level| II | *Darkness* | Once per Long-rest |
 
-&ensp;&ensp;&ensp; You can cast each spells granted by this trait of 1st-level or higher without expending a spell slot once per long-rest. Charisma is your spellcasting ability for these spells.
+&ensp;&ensp;&ensp; You can cast each spells granted by this trait of 1st-level or higher without expending a :rsc-spell-slot: **Spell Slot** once per long-rest. Charisma is your spellcasting ability for these spells.
 
 ---
 

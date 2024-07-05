@@ -50,7 +50,7 @@ If the target is native to the plane of existence you're on, you banish the targ
 
 If the target is native to a different plane of existence than the one you're on, the target is banished with a faint popping noise, returning to its home plane. If the spell ends before 1 minute has passed, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied. Otherwise, the target doesn't return.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 5th level or higher, you can target one additional creature for each slot level above 4th.
 
 ### Blight
 *4th-level necromancy*
@@ -66,7 +66,7 @@ If you target a plant creature or a magical plant, it makes the Saving Throw wit
 
 If you target a nonmagical plant that isn't a creature, such as a tree or shrub, it doesn't make a Saving Throw, it simply withers and dies.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 5th level or higher, the damage increases by 1d8 for each slot level above 4th.
 
 ### Charm Monster
 *4th-level enchantment*
@@ -78,7 +78,7 @@ If you target a nonmagical plant that isn't a creature, such as a tree or shrub,
 
 You attempt to charm a creature you can see within range. It must make a Wisdom Saving Throw, and it does so with advantage if you or your companions are fighting it. If it fails the Saving Throw, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature is friendly to you. When the spell ends, the creature knows it was charmed by you.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th. The creatures must be within 30 feet of each other when you target them.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 5th level or higher, you can target one additional creature for each slot level above 4th. The creatures must be within 30 feet of each other when you target them.
 
 ### Compulsion
 *4th-level enchantment*
@@ -114,7 +114,7 @@ An affected target can't take reactions and must roll a d10 at the start of each
 
 At the end of each of its turns, an affected target can make a Wisdom Saving Throw. If it succeeds, this effect ends for that target.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the radius of the sphere increases by 5 feet for each slot level above 4th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 5th level or higher, the radius of the sphere increases by 5 feet for each slot level above 4th.
 
 ### Conjure Minor Elementals
 *4th-level conjuration*
@@ -246,7 +246,7 @@ You can use your :rsc-action: **Action** to take total and precise control of th
 
 Each time the target takes damage, it makes a new Wisdom Saving Throw against the spell. If the Saving Throw succeeds, the spell ends.
 
-***At Higher Levels.*** When you cast this spell with a 5th-level spell slot, the duration is concentration, up to 10 minutes. When you use a 6th-level spell slot, the duration is concentration, up to 1 hour. When you use a spell slot of 7th level or higher, the duration is concentration, up to 8 hours.
+***At Higher Levels.*** When you cast this spell with a 5th-level spell slot, the duration is concentration, up to 10 minutes. When you use a 6th-level spell slot, the duration is concentration, up to 1 hour. When you use a :rsc-spell-slot: **Spell Slot** of 7th level or higher, the duration is concentration, up to 8 hours.
 
 ### Elemental Bane
 *4th-level transmutation*
@@ -258,7 +258,7 @@ Each time the target takes damage, it makes a new Wisdom Saving Throw against th
 
 Choose one creature you can see within range, and choose one of the following damage types: acid, cold, fire, lightning, or thunder. The target must succeed on a Constitution Saving Throw or be affected by the spell for its duration. The first time each turn the affected target takes damage of the chosen type, the target takes an extra 2d6 damage of that type. Moreover, the target loses any resistance to that damage type until the spell ends.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th. The creatures must be within 30 feet of each other when you target them.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 5th level or higher, you can target one additional creature for each slot level above 4th. The creatures must be within 30 feet of each other when you target them.
 
 ### Evard's Black Tentacles
 *4th-level conjuration*
@@ -347,7 +347,7 @@ The target can also spend 5 feet of movement to automatically escape from nonmag
 
 You fortify the fabric of the planes in a 30-foot cube you can see within range. Within that area, portals close and can't be opened for the duration. Spells and other effects that allow planar travel or open portals, such as *gate* or *plane shift*, fail if used to enter or leave the area. The cube is stationary.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, the spell lasts until dispelled.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, the spell lasts until dispelled.
 
 ### Giant Insect
 *4th-level transmutation*
@@ -387,7 +387,7 @@ Until the spell ends, you can direct the vine to lash out at the same creature o
 
 A 20-foot-radius sphere of crushing force forms at a point you can see within range and tugs at the creatures there. Each creature in the sphere must make a Constitution Saving Throw. On a failed save, the creature takes 5d10 force damage and is pulled in a straight line toward the center of the sphere, ending in an unoccupied space as close to the center as possible (even if that space is in the air). On a successful save, the creature takes half as much damage and isn't pulled.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d10 for each slot level above 4th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 5th level or higher, the damage increases by 1d10 for each slot level above 4th.
 
 ### Greater Invisibility
 *4th-level illusion*
@@ -459,7 +459,7 @@ A hail of rock-hard ice pounds to the ground in a 20-foot-radius, 40-foot-high c
 
 Hailstones turn the storm's area of effect into difficult terrain until the end of your next turn.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the bludgeoning damage increases by 1d8 for each slot level above 4th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 5th level or higher, the bludgeoning damage increases by 1d8 for each slot level above 4th.
 
 ### Leomund's Secret Chest
 *4th-level conjuration*
@@ -524,7 +524,7 @@ Planar travel is blocked within the warded area.
 
 Casting this spell on the same spot every day for a year makes this effect permanent.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, you can increase the size of the cube by 100 feet for each slot level beyond 4th. Thus you could protect a cube that can be up to 200 feet on one side by using a spell slot of 5th level.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 5th level or higher, you can increase the size of the cube by 100 feet for each slot level beyond 4th. Thus you could protect a cube that can be up to 200 feet on one side by using a :rsc-spell-slot: **Spell Slot** of 5th level.
 
 ### Otiluke's Resilient Sphere
 *4th-level evocation*
@@ -552,7 +552,7 @@ A *disintegrate* spell targeting the globe destroys it without harming anything 
 
 You tap into the nightmares of a creature you can see within range and create an illusory manifestation of its deepest fears, visible only to that creature. The target must make a Wisdom Saving Throw. On a failed save, the target becomes frightened for the duration. At the end of each of the target's turns before the spell ends, the target must succeed on a Wisdom Saving Throw or take 4d10 psychic damage. On a successful save, the spell ends.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d10 for each slot level above 4th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 5th level or higher, the damage increases by 1d10 for each slot level above 4th.
 
 ### Polymorph
 *4th-level transmutation*
@@ -584,7 +584,7 @@ You unleash a shimmering lance of psychic power from your forehead at a creature
 
 The target must make an Intelligence Saving Throw. On a failed save, the target takes 7d6 psychic damage and is incapacitated until the start of your next turn. On a successful save, the creature takes half as much damage and isn't incapacitated.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d6 for each slot level above 4th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 5th level or higher, the damage increases by 1d6 for each slot level above 4th.
 
 ### Shadow of Moil
 *4th-level necromancy*
@@ -622,7 +622,7 @@ You call forth a spirit that embodies death. The spirit manifests in an unoccupi
 
 The spirit is an ally to you and your companions. In combat, the spirit shares your initiative count and takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue the spirit any commands, it takes the Dodge action and uses its movement to avoid danger.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, use the higher level wherever the spell's level appears in the reaper spirit stat block.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 5th level or higher, use the higher level wherever the spell's level appears in the reaper spirit stat block.
 
 ### Staggering Smite
 *4th-level evocation*
@@ -668,7 +668,7 @@ Until the spell ends, you can use a :rsc-bonus-action: **Bonus Action** on each 
 
 Creatures within 30 feet of the sphere have disadvantage on Wisdom (Perception) checks made to listen.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the damage for each of its effects increases by 1d6 for each slot level above 4th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 5th level or higher, the damage for each of its effects increases by 1d6 for each slot level above 4th.
 
 ### Summon Aberration
 *4th-level conjuration*
@@ -682,7 +682,7 @@ You call forth an aberrant spirit. It manifests in an unoccupied space that you 
 
 The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, use the higher level wherever the spell's level appears in the stat block.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 5th level or higher, use the higher level wherever the spell's level appears in the stat block.
 
 ### Summon Construct
 *4th-level conjuration*
@@ -696,7 +696,7 @@ You call forth the spirit of a construct. It manifests in an unoccupied space th
 
 The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, use the higher level wherever the spell's level appears in the stat block.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, use the higher level wherever the spell's level appears in the stat block.
 
 ### Summon Elemental
 *4th-level conjuration*
@@ -710,7 +710,7 @@ You call forth an elemental spirit. It manifests in an unoccupied space that you
 
 The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, use the higher level wherever the spell's level appears in the stat block.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 5th level or higher, use the higher level wherever the spell's level appears in the stat block.
 
 ### Summon Greater Demon
 *4th-level conjuration*
@@ -728,7 +728,7 @@ At the end of each of the demon's turns, it makes a Charisma Saving Throw. The d
 
 As part of casting the spell, you can form a circle on the ground with the blood used as a material component. The circle is large enough to encompass your space. While the spell lasts, the summoned demon can't cross the circle or harm it, and it can't target anyone within it. Using the material component in this manner consumes it when the spell ends.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the challenge rating increases by 1 for each slot level above 4th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 5th level or higher, the challenge rating increases by 1 for each slot level above 4th.
 
 ### Vitriolic Sphere
 *4th-level evocation*
@@ -740,7 +740,7 @@ As part of casting the spell, you can form a circle on the ground with the blood
 
 You point at a location within range, and a glowing 1-foot-diameter ball of emerald acid streaks there and explodes in a 20-foot-radius sphere. Each creature in that area must make a Dexterity Saving Throw. On a failed save, a creature takes 10d4 acid damage and another 5d4 acid damage at the end of its next turn. On a successful save, a creature takes half the initial damage and no damage at the end of its next turn.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the initial damage increases by 2d4 for each slot level above 4th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 5th level or higher, the initial damage increases by 2d4 for each slot level above 4th.
 
 ### Wall of Fire
 *4th-level evocation*
@@ -756,7 +756,7 @@ When the wall appears, each creature within its area must make a Dexterity Savin
 
 One side of the wall, selected by you when you cast this spell, deals 5d8 fire damage to each creature that ends its turn within 10 feet of that side or inside the wall. A creature takes the same damage when it enters the wall for the first time on a turn or ends its turn there. The other side of the wall deals no damage.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 5th level or higher, the damage increases by 1d8 for each slot level above 4th.
 
 ### Watery Sphere
 *4th-level conjuration*

@@ -44,7 +44,7 @@ Seven star-like motes of light appear and orbit your head until the spell ends. 
 
 If you have four or more motes remaining, they shed bright light in a 30-foot radius and dim light for an additional 30 feet. If you have one to three motes remaining, they shed dim light in a 30-foot radius.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 8th level or higher, the number of motes created increases by two for each slot level above 7th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 8th level or higher, the number of motes created increases by two for each slot level above 7th.
 
 ### Delayed Blast Fireball
 *7th-level evocation*
@@ -62,7 +62,7 @@ If the glowing bead is touched before the interval has expired, the creature tou
 
 The fire damages objects in the area and ignites flammable objects that aren't being worn or carried.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 8th level or higher, the base damage increases by 1d6 for each slot level above 7th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 8th level or higher, the base damage increases by 1d6 for each slot level above 7th.
 
 ### Divine Word
 *7th-level evocation*
@@ -127,7 +127,7 @@ When the spell ends, you immediately return to the plane you originated from in 
 
 This spell has no effect if you cast it while you are on the Ethereal Plane or a plane that doesn't border it, such as one of the Outer Planes.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 8th level or higher, you can target up to three willing creatures (including you) for each slot level above 7th. The creatures must be within 10 feet of you when you cast the spell.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 8th level or higher, you can target up to three willing creatures (including you) for each slot level above 7th. The creatures must be within 10 feet of you when you cast the spell.
 
 ### Finger of Death
 *7th-level necromancy*

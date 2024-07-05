@@ -27,7 +27,7 @@ An animated object is a construct with AC, Hit Points, attacks, Strength, and De
 
 If you command an object to attack, it can make a single melee attack against a creature within 5 feet of it. It makes a slam attack with an attack bonus and bludgeoning damage determined by its size. The DM might rule that a specific object inflicts slashing or piercing damage based on its form.
 
-***At Higher Levels.*** If you cast this spell using a spell slot of 6th level or higher, you can animate two additional objects for each slot level above 5th.
+***At Higher Levels.*** If you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, you can animate two additional objects for each slot level above 5th.
 
 ### Antilife Shell
 *5th-level abjuration*
@@ -87,7 +87,7 @@ When you cast the spell and as a :rsc-bonus-action: **Bonus Action** on your sub
 
 ***Interposing Hand.*** The hand interposes itself between you and a creature you choose until you give the hand a different command. The hand moves to stay between you and the target, providing you with half cover against the target. The target can't move through the hand's space if its Strength score is less than or equal to the hand's Strength score. If its Strength score is higher than the hand's Strength score, the target can move toward you through the hand's space, but that space is difficult terrain for the target.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, the damage from the clenched fist option increases by 2d8 and the damage from the grasping hand increases by 2d6 for each slot level above 5th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, the damage from the clenched fist option increases by 2d8 and the damage from the grasping hand increases by 2d6 for each slot level above 5th.
 
 ### Circle of Power
 *5th-level abjuration*
@@ -113,7 +113,7 @@ When a creature enters the spell's area for the first time on a turn or starts i
 
 The fog moves 10 feet away from you at the start of each of your turns, rolling along the surface of the ground. The vapors, being heavier than air, sink to the lowest level of the land, even pouring down openings.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
 
 ### Commune
 *5th-level divination (ritual)*
@@ -161,7 +161,7 @@ A blast of cold air erupts from your hands. Each creature in a 60-foot cone must
 
 A creature killed by this spell becomes a frozen statue until it thaws.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
 
 ### Conjure Elemental
 *5th-level conjuration*
@@ -179,7 +179,7 @@ If your concentration is broken, the elemental doesn't disappear. Instead, you l
 
 The DM has the elemental's statistics.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, the challenge rating increases by 1 for each slot level above 5th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, the challenge rating increases by 1 for each slot level above 5th.
 
 ### Conjure Volley
 *5th-level conjuration*
@@ -278,7 +278,7 @@ The duration depends on the object's material. If the object is composed of mult
 
 Using any material created by this spell as another spell's material component causes that spell to fail.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, the cube increases by 5 feet for each slot level above 5th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, the cube increases by 5 feet for each slot level above 5th.
 
 ### Danse Macabre
 *5th-level necromancy*
@@ -294,7 +294,7 @@ You can use a :rsc-bonus-action: **Bonus Action** to mentally command the creatu
 
 The creatures are under your control until the spell ends, after which they become inanimate once more.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, you animate up to two additional corpses for each slot level above 5th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, you animate up to two additional corpses for each slot level above 5th.
 
 ### Dawn
 *5th-level evocation*
@@ -352,7 +352,7 @@ You can use your :rsc-action: **Action** to take total and precise control of th
 
 Each time the target takes damage, it makes a new Wisdom Saving Throw against the spell. If the Saving Throw succeeds, the spell ends.
 
-***At Higher Levels.*** When you cast this spell using a 6th-level spell slot, the duration is concentration, up to 10 minutes. When you use a 7th-level spell slot, the duration is concentration, up to 1 hour. When you use a spell slot of 8th level or higher, the duration is concentration, up to 8 hours.
+***At Higher Levels.*** When you cast this spell using a 6th-level spell slot, the duration is concentration, up to 10 minutes. When you use a 7th-level spell slot, the duration is concentration, up to 1 hour. When you use a :rsc-spell-slot: **Spell Slot** of 8th level or higher, the duration is concentration, up to 8 hours.
 
 ### Dream
 *5th-level illusion*
@@ -382,7 +382,7 @@ A tendril of inky darkness reaches out from you, touching a creature you can see
 
 Whenever the spell deals damage to a target, you regain Hit Points equal to half the amount of necrotic damage the target takes.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
 
 ### Far Step
 *5th-level conjuration*
@@ -404,7 +404,7 @@ You teleport up to 60 feet to an unoccupied space you can see. On each of your t
 
 A vertical column of divine fire roars down from the heavens in a location you specify. Each creature in a 10-foot-radius, 40-foot-high cylinder centered on a point within range must make a Dexterity Saving Throw. A creature takes 4d6 fire damage and 4d6 radiant damage on a failed save, or half as much damage on a successful one.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, the fire damage or the radiant damage (your choice) increases by 1d6 for each slot level above 5th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, the fire damage or the radiant damage (your choice) increases by 1d6 for each slot level above 5th.
 
 ### Geas
 *5th-level enchantment*
@@ -420,7 +420,7 @@ You can issue any command you choose, short of an activity that would result in 
 
 You can end the spell early by using an :rsc-action: **Action** to dismiss it. A *remove curse*, *greater restoration*, or *wish* spell also ends it.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 7th or 8th level, the duration is 1 year. When you cast this spell using a spell slot of 9th level, the spell lasts until it is ended by one of the spells mentioned above.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 7th or 8th level, the duration is 1 year. When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 9th level, the spell lasts until it is ended by one of the spells mentioned above.
 
 ### Greater Restoration
 *5th-level abjuration*
@@ -481,7 +481,7 @@ Second, you can bind an extra effect to the area. Choose the effect from the fol
 
 Choose a creature that you can see within range. The target must succeed on a Wisdom Saving Throw or be paralyzed for the duration. This spell has no effect on undead. At the end of each of its turns, the target can make another Wisdom Saving Throw. On a success, the spell ends on the target.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th. The creatures must be within 30 feet of each other when you target them.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, you can target one additional creature for each slot level above 5th. The creatures must be within 30 feet of each other when you target them.
 
 ### Holy Weapon
 *5th-level evocation*
@@ -525,7 +525,7 @@ If your concentration ends before the spell reaches its full duration, the devil
 
 If you possess an individual devil's talisman, you can summon that devil if it is of the appropriate challenge rating plus 1, and it obeys all your commands, with no Charisma checks required.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, the challenge rating increases by 1 for each slot level above 5th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, the challenge rating increases by 1 for each slot level above 5th.
 
 ### Insect Plague
 *5th-level conjuration*
@@ -539,7 +539,7 @@ Swarming, biting locusts fill a 20-foot-radius sphere centered on a point you ch
 
 When the area appears, each creature in it must make a Constitution Saving Throw. A creature takes 4d10 piercing damage on a failed save, or half as much damage on a successful one. A creature must also make this Saving Throw when it enters the spell's area for the first time on a turn or ends its turn there.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d10 for each slot level above 5th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, the damage increases by 1d10 for each slot level above 5th.
 
 ### Legend Lore
 *5th-level divination*
@@ -573,7 +573,7 @@ A swirling mass of 5-foot-deep water appears in a 30-foot radius centered on a p
 
 A wave of healing energy washes out from a point of your choice within range. Choose up to six creatures in a 30-foot-radius sphere centered on that point. Each target regains Hit Points equal to 3d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, the healing increases by 1d8 for each slot level above 5th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, the healing increases by 1d8 for each slot level above 5th.
 
 ### Mislead
 *5th-level illusion*
@@ -607,7 +607,7 @@ A modified memory doesn't necessarily affect how a creature behaves, particularl
 
 A *remove curse* or *greater restoration* spell cast on the target restores the creature's true memory.
 
-***At Higher Levels.*** If you cast this spell using a spell slot of 6th level or higher, you can alter the target's memories of an event that took place up to 7 days ago (6th level), 30 days ago (7th level), 1 year ago (8th level), or any time in the creature's past (9th level).
+***At Higher Levels.*** If you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, you can alter the target's memories of an event that took place up to 7 days ago (6th level), 30 days ago (7th level), 1 year ago (8th level), or any time in the creature's past (9th level).
 
 ### Negative Energy Flood
 *5th-level necromancy*
@@ -645,7 +645,7 @@ With this spell, you attempt to bind a celestial, an elemental, a fey, or a fien
 
 A bound creature must follow your instructions to the best of its ability. You might command the creature to accompany you on an adventure, to guard a location, or to deliver a message. The creature obeys the letter of your instructions, but if the creature is hostile to you, it strives to twist your words to achieve its own objectives. If the creature carries out your instructions completely before the spell ends, it travels to you to report this fact if you are on the same plane of existence. If you are on a different plane of existence, it returns to the place where you bound it and remains there until the spell ends.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of a higher level, the duration increases to 10 days with a 6th-level slot, to 30 days with a 7th-level slot, to 180 days with an 8th-level slot, and to a year and a day with a 9th-level spell slot.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of a higher level, the duration increases to 10 days with a 6th-level slot, to 30 days with a 7th-level slot, to 180 days with an 8th-level slot, and to a year and a day with a 9th-level spell slot.
 
 ### Raise Dead
 *5th-level necromancy*
@@ -715,7 +715,7 @@ The reincarnated creature recalls its former life and experiences. It retains th
 **Components:** V, S  
 **Duration:** 1 round  
 
-You target the triggering creature, which must succeed on a Wisdom Saving Throw or vanish, being thrown to another point in time and causing the attack to miss or the spell to be wasted. At the start of its next turn, the target reappears where it was or in the closest unoccupied space. The target doesn't remember you casting the spell or being affected by it.***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th. All targets must be within 30 feet of each other.
+You target the triggering creature, which must succeed on a Wisdom Saving Throw or vanish, being thrown to another point in time and causing the attack to miss or the spell to be wasted. At the start of its next turn, the target reappears where it was or in the closest unoccupied space. The target doesn't remember you casting the spell or being affected by it.***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, you can target one additional creature for each slot level above 5th. All targets must be within 30 feet of each other.
 
 ### Scrying
 *5th-level divination*
@@ -799,7 +799,7 @@ You call forth a celestial spirit. It manifests in an angelic form in an unoccup
 
 The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, use the higher level wherever the spell's level appears in the stat block.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, use the higher level wherever the spell's level appears in the stat block.
 
 ### Summon Draconic Spirit
 *5th-level conjuration*
@@ -813,7 +813,7 @@ You call forth a **draconic spirit**. It manifests in an unoccupied space that y
 
 The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, use the higher level wherever the spell's level appears in the stat block.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, use the higher level wherever the spell's level appears in the stat block.
 
 ### Swift Quiver
 *5th-level transmutation*
@@ -931,7 +931,7 @@ A creature that ends its turn in the wall's area takes 4d8 radiant damage.
 
 Until the spell ends, you can use an :rsc-action: **Action** to launch a beam of radiance from the wall at one creature you can see within 60 feet of it. Make a ranged spell attack. On a hit, the target takes 4d8 radiant damage. Whether you hit or miss, reduce the length of the wall by 10 feet. If the wall's length drops to 0 feet, the spell ends.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
 
 ### Wall of Stone
 *5th-level evocation*

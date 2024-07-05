@@ -59,11 +59,11 @@ Spell slots are a resource used by spellcasting characters to cast their spells.
 
 ### Using Spell Slots
 
-To cast a spell, a character must expend a spell slot of the spell's level or higher. Each spellcasting class's spell slots are unique to that class. For instance, a character cannot use a druid spell slot to cast a wizard spell when multiclassing. To cast a spell, the character must use a spell slot available to the class from which the spell originates.
+To cast a spell, a character must expend a :rsc-spell-slot: **Spell Slot** of the spell's level or higher. Each spellcasting class's spell slots are unique to that class. For instance, a character cannot use a druid :rsc-spell-slot: **Spell Slot** to cast a wizard spell when multiclassing. To cast a spell, the character must use a :rsc-spell-slot: **Spell Slot** available to the class from which the spell originates.
 
 !!! tip "Pact Magic Spell Slots"
 
-    This restriction does not apply to Warlock spell slots. A warlock spell slot can be used to cast a spell from any class even if that spell does not belong to the warlock class, provided that the character know and can cast the spell. Does not work in reverse however, you can't cast a warlock spell using a wizard spell slot.
+    This restriction does not apply to Warlock spell slots. A warlock :rsc-spell-slot: **Spell Slot** can be used to cast a spell from any class even if that spell does not belong to the warlock class, provided that the character know and can cast the spell. Does not work in reverse however, you can't cast a warlock spell using a wizard spell slot.
 
 ### Recovery of Spell Slots
 
@@ -72,7 +72,7 @@ Most spellcasters regain all their spell slots after completing a long rest (typ
 **Examples:**
 
 - **A Level 3 Wizard:** A 3rd-level wizard might have four 1st-level spell slots and two 2nd-level spell slots. They can cast six spells before needing to rest, using only the spell slots available to them as a wizard class.
-- **Using a Higher-Level Slot:** A cleric might cast "Cure Wounds," which is a 1st-level spell, using a 3rd-level spell slot to heal for more Hit Points. Instead of the base healing amount, the spell heals additional Hit Points per each level above the 1st, using only the cleric's spell slots.
+- **Using a Higher-Level Slot:** A cleric might cast "Cure Wounds," which is a 1st-level spell, using a 3rd-level :rsc-spell-slot: **Spell Slot** to heal for more Hit Points. Instead of the base healing amount, the spell heals additional Hit Points per each level above the 1st, using only the cleric's spell slots.
 
 ### Spell Slot Table
 
@@ -80,7 +80,7 @@ Each spellcasting class has a table that shows the number of spell slots availab
 
 ### Flexible Casting
 
-Higher-level spell slots can be used to cast lower-level spells, often with enhanced effects. For example, casting the spell "Magic Missile" using a 2nd-level spell slot instead of a 1st-level slot grants additional missiles.
+Higher-level spell slots can be used to cast lower-level spells, often with enhanced effects. For example, casting the spell "Magic Missile" using a 2nd-level :rsc-spell-slot: **Spell Slot** instead of a 1st-level slot grants additional missiles.
 
 *See [Spellcasting] for the rules of casting spells*
 

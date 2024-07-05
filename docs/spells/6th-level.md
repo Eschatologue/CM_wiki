@@ -42,7 +42,7 @@ If a pillar is created under a creature, that creature must succeed on a Dexteri
 
 If a pillar is prevented from reaching its full height because of a ceiling or other obstacle, a creature on the pillar takes 6d6 bludgeoning damage and is restrained, pinched between the pillar and the obstacle. The restrained creature can use an :rsc-action: **Action** to make a Strength or Dexterity check (the creature's choice) against the spell's save DC. On a success, the creature is no longer restrained and must either move off the pillar or fall off it.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, you can create two additional pillars for each slot level above 6th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 7th level or higher, you can create two additional pillars for each slot level above 6th.
 
 ### Chain Lightning
 *6th-level evocation*
@@ -56,7 +56,7 @@ You create a bolt of lightning that arcs toward a target of your choice that you
 
 A target must make a Dexterity Saving Throw. The target takes 10d8 lightning damage on a failed save, or half as much damage on a successful one.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, one additional bolt leaps from the first target to another target for each slot level above 6th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 7th level or higher, one additional bolt leaps from the first target to another target for each slot level above 6th.
 
 ### Circle of Death
 *6th-level necromancy*
@@ -68,7 +68,7 @@ A target must make a Dexterity Saving Throw. The target takes 10d8 lightning dam
 
 A sphere of negative energy ripples out in a 60-foot-radius sphere from a point within range. Each creature in that area must make a Constitution Saving Throw. A target takes 8d6 necrotic damage on a failed save, or half as much damage on a successful one.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, the damage increases by 2d6 for each slot level above 6th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 7th level or higher, the damage increases by 2d6 for each slot level above 6th.
 
 ### Conjure Fey
 *6th-level conjuration*
@@ -86,7 +86,7 @@ If your concentration is broken, the fey creature doesn't disappear. Instead, yo
 
 The DM has the fey creature's statistics.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, the challenge rating increases by 1 for each slot level above 6th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 7th level or higher, the challenge rating increases by 1 for each slot level above 6th.
 
 ### Contingency
 *6th-level evocation*
@@ -148,7 +148,7 @@ A disintegrated creature and everything it is wearing and carrying, except magic
 
 This spell automatically disintegrates a Large or smaller nonmagical object or a creation of magical force. If the target is a Huge or larger object or creation of force, this spell disintegrates a 10-foot-cube portion of it. A magic item is unaffected by this spell.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, the damage increases by 3d6 for each slot level above 6th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 7th level or higher, the damage increases by 3d6 for each slot level above 6th.
 
 ### Drawmij's Instant Summons
 *6th-level conjuration (ritual)*
@@ -282,7 +282,7 @@ An immobile, faintly shimmering barrier springs into existence in a 10-foot radi
 
 Any spell of 5th level or lower cast from outside the barrier can't affect creatures or objects within it, even if the spell is cast using a higher level spell slot. Such a spell can target creatures and objects within the barrier, but the spell has no effect on them. Similarly, the area within the barrier is excluded from the areas affected by such spells.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, the barrier blocks spells of one level higher for each slot level above 6th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 7th level or higher, the barrier blocks spells of one level higher for each slot level above 6th.
 
 ### Guards and Wards
 *6th-level abjuration*
@@ -336,7 +336,7 @@ You unleash a virulent disease on a creature that you can see within range. The 
 
 Choose a creature that you can see within range. A surge of positive energy washes through the creature, causing it to regain 70 Hit Points. This spell also ends blindness, deafness, and any diseases affecting the target. This spell has no effect on constructs or undead.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, the amount of healing increases by 10 for each slot level above 6th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 7th level or higher, the amount of healing increases by 10 for each slot level above 6th.
 
 ### Heroes' Feast
 *6th-level conjuration*
@@ -489,7 +489,7 @@ If the globe strikes a body of water or a liquid that is principally water (not 
 
 You can refrain from firing the globe after completing the spell, if you wish. A small globe about the size of a sling stone, cool to the touch, appears in your hand. At any time, you or a creature you give the globe to can throw the globe (to a range of 40 feet) or hurl it with a sling (to the sling's normal range). It shatters on impact, with the same effect as the normal casting of the spell. You can also set the globe down without shattering it. After 1 minute, if the globe hasn't already shattered, it explodes.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, the damage increases by 1d6 for each slot level above 6th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 7th level or higher, the damage increases by 1d6 for each slot level above 6th.
 
 ### Otto's Irresistible Dance
 *6th-level enchantment*
@@ -593,7 +593,7 @@ You call forth a fiendish spirit. It manifests in an unoccupied space that you c
 
 The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, use the higher level wherever the spell's level appears in the stat block.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 7th level or higher, use the higher level wherever the spell's level appears in the stat block.
 
 ### Sunbeam
 *6th-level evocation*
@@ -679,7 +679,7 @@ If the wall cuts through a creature's space when it appears, the creature within
 
 The wall is an object that can be damaged and thus breached. It has AC 12 and 30 Hit Points per 10-foot section, and it is vulnerable to fire damage. Reducing a 10-foot section of wall to 0 Hit Points destroys it and leaves behind a sheet of frigid air in the space the wall occupied. A creature moving through the sheet of frigid air for the first time on a turn must make a Constitution Saving Throw. That creature takes 5d6 cold damage on a failed save, or half as much damage on a successful one.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, the damage the wall deals when it appears increases by 2d6, and the damage from passing through the sheet of frigid air increases by 1d6, for each slot level above 6th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 7th level or higher, the damage the wall deals when it appears increases by 2d6, and the damage from passing through the sheet of frigid air increases by 1d6, for each slot level above 6th.
 
 ### Wall of Thorns
 *6th-level conjuration*
@@ -695,7 +695,7 @@ When the wall appears, each creature within its area must make a Dexterity Savin
 
 A creature can move through the wall, albeit slowly and painfully. For every 1 foot a creature moves through the wall, it must spend 4 feet of movement. Furthermore, the first time a creature enters the wall on a turn or ends its turn there, the creature must make a Dexterity Saving Throw. It takes 7d8 slashing damage on a failed save, or half as much damage on a successful one.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, both types of damage increase by 1d8 for each slot level above 6th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 7th level or higher, both types of damage increase by 1d8 for each slot level above 6th.
 
 ### Wind Walk
 *6th-level transmutation*
@@ -733,5 +733,5 @@ You manifest a ravine of gravitational energy in a line originating from you tha
 
 Each creature within 10 feet of the line but not in it must succeed on a Constitution Saving Throw or take 8d8 force damage and be pulled toward the line until the creature is in its area.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, the damage increases by 1d8 for each slot level above 6th.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 7th level or higher, the damage increases by 1d8 for each slot level above 6th.
 

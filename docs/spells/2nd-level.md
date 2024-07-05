@@ -14,7 +14,7 @@ icon: material/roman-numeral-2
 
 A line of roaring flame 30 feet long and 5 feet wide emanates from you in a direction you choose. Each creature in the line must make a Dexterity Saving Throw. A creature takes 3d8 fire damage on a failed save, or half as much damage on a successful one.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
 
 ### Aid
 *2nd-level abjuration*
@@ -26,7 +26,7 @@ A line of roaring flame 30 feet long and 5 feet wide emanates from you in a dire
 
 Your spell bolsters your allies with toughness and resolve. Choose up to three creatures within range. Each target's Hit Point maximum and current Hit Points increase by 5 for the duration.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, a target's Hit Points increase by an additional 5 for each slot level above 2nd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, a target's Hit Points increase by an additional 5 for each slot level above 2nd.
 
 ### Air Bubble
 *2nd-level conjuration*
@@ -38,7 +38,7 @@ Your spell bolsters your allies with toughness and resolve. Choose up to three c
 
 You create a spectral globe around the head of a willing creature you can see within range. The globe is filled with fresh air that lasts until the spell ends. If the creature has more than one head, the globe of air appears around only one of its heads (which is all the creature needs to avoid suffocation, assuming that all its heads share the same respiratory system).
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, you can create two additional globes of fresh air for each slot level above 2nd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, you can create two additional globes of fresh air for each slot level above 2nd.
 
 ### Alter Self
 *2nd-level transmutation*
@@ -68,7 +68,7 @@ By means of this spell, you use an animal to deliver a message. Choose a Tiny be
 
 When the messenger arrives, it delivers your message to the creature that you described, replicating the sound of your voice. The messenger speaks only to a creature matching the description you gave. If the messenger doesn't reach its destination before the spell ends, the message is lost, and the beast makes its way back to where you cast this spell.
 
-***At Higher Levels.*** If you cast this spell using a spell slot of 3rd level or higher, the duration of the spell increases by 48 hours for each slot level above 2nd.
+***At Higher Levels.*** If you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, the duration of the spell increases by 48 hours for each slot level above 2nd.
 
 ### Arcane Lock
 *2nd-level abjuration*
@@ -131,7 +131,7 @@ You touch a willing beast. For the duration of the spell, you can use your :rsc-
 
 You can blind or deafen a foe. Choose one creature that you can see within range to make a Constitution Saving Throw. If it fails, the target is either blinded or deafened (your choice) for the duration. At the end of each of its turns, the target can make a Constitution Saving Throw. On a success, the spell ends.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
 ### Blur
 *2nd-level illusion*
@@ -163,7 +163,7 @@ You draw on knowledge from spirits of the past. Choose one skill in which you la
 
 The next time you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance as you strike. The attack deals an extra 2d6 radiant damage to the target, which becomes visible if it's invisible, and the target sheds dim light in a 5-foot radius and can't become invisible until the spell ends.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the extra damage increases by 1d6 for each slot level above 2nd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, the extra damage increases by 1d6 for each slot level above 2nd.
 
 ### Calm Emotions
 *2nd-level enchantment*
@@ -189,7 +189,7 @@ Alternatively, you can make a target indifferent about creatures of your choice 
 
 You fill the air with spinning daggers in a cube 5 feet on each side, centered on a point you choose within range. A creature takes 4d4 slashing damage when it enters the spell's area for the first time on a turn or starts its turn there.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 2d4 for each slot level above 2nd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, the damage increases by 2d4 for each slot level above 2nd.
 
 ### Continual Flame
 *2nd-level evocation*
@@ -213,7 +213,7 @@ You plant four pieces of nonmagical ammunition—*arrows* or *crossbow bolts*—
 
 When you cast this spell, you can designate any creatures you choose, and the spell ignores them.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the amount of ammunition that can be affected increases by two for each slot level above 2nd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, the amount of ammunition that can be affected increases by two for each slot level above 2nd.
 
 ### Crown of Madness
 *2nd-level enchantment*
@@ -281,7 +281,7 @@ Once you detect the presence of a creature in this way, you can read its thought
 
 You touch one willing creature and imbue it with the power to spew magical energy from its mouth, provided it has one. Choose acid, cold, fire, lightning, or poison. Until the spell ends, the creature can use an :rsc-action: **Action** to exhale energy of the chosen type in a 15-foot cone. Each creature in that area must make a Dexterity Saving Throw, taking 3d6 damage of the chosen type on a failed save, or half as much damage on a successful one.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
 
 ### Dust Devil
 *2nd-level conjuration*
@@ -297,7 +297,7 @@ Any creature that ends its turn within 5 feet of the dust devil must make a Stre
 
 As a :rsc-bonus-action: **Bonus Action**, you can move the dust devil up to 30 feet in any direction. If the dust devil moves over sand, dust, loose dirt, or light gravel, it sucks up the material and forms a 10-foot-radius cloud of debris around itself that lasts until the start of your next turn. The cloud heavily obscures its area.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
 
 ### Earthbind
 *2nd-level transmutation*
@@ -331,7 +331,7 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 
 ***Owl's Wisdom.*** The target has advantage on Wisdom checks.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
 ### Enlarge/Reduce
 *2nd-level transmutation*
@@ -403,7 +403,7 @@ You can use your :rsc-action: **Action** to make a melee spell attack with the f
 
 The flaming blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for every two slot levels above 2nd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, the damage increases by 1d6 for every two slot levels above 2nd.
 
 ### Flaming Sphere
 *2nd-level conjuration*
@@ -419,7 +419,7 @@ As a :rsc-bonus-action: **Bonus Action**, you can move the sphere up to 30 feet.
 
 When you move the sphere, you can direct it over barriers up to 5 feet tall and jump it across pits up to 10 feet wide. The sphere ignites flammable objects not being worn or carried, and it sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
 
 ### Fortune's Favor
 *2nd-level divination*
@@ -431,7 +431,7 @@ When you move the sphere, you can direct it over barriers up to 5 feet tall and 
 
 You impart latent luck to yourself or one willing creature you can see within range. When the chosen creature makes an attack roll, an ability check, or a Saving Throw before the spell ends, it can dismiss this spell on itself to roll an additional d20 and choose which of the d20s to use. Alternatively, when an attack roll is made against the chosen creature, it can dismiss this spell on itself to roll a d20 and choose which of the d20s to use, the one it rolled or the one the attacker rolled.
 
-If the original d20 roll has advantage or disadvantage, the creature rolls the additional d20 after advantage or disadvantage has been applied to the original roll.***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
+If the original d20 roll has advantage or disadvantage, the creature rolls the additional d20 after advantage or disadvantage has been applied to the original roll.***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
 ### Gentle Repose
 *2nd-level necromancy (ritual)*
@@ -487,7 +487,7 @@ Until the spell ends, whenever you or a creature you can see moves into the spir
 
 As a :rsc-bonus-action: **Bonus Action** on your turn, you can move the spirit up to 30 feet to a space you can see.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the healing increases by 1d6 for each slot level above 2nd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, the healing increases by 1d6 for each slot level above 2nd.
 
 ### Heat Metal
 *2nd-level transmutation*
@@ -501,7 +501,7 @@ Choose a manufactured metal object, such as a metal weapon or a suit of heavy or
 
 If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution Saving Throw or drop the object if it can. If it doesn't drop the object, it has disadvantage on attack rolls and ability checks until the start of your next turn.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
 
 ### Hold Person
 *2nd-level enchantment*
@@ -513,7 +513,7 @@ If a creature is holding or wearing the object and takes the damage from it, the
 
 Choose a humanoid that you can see within range. The target must succeed on a Wisdom Saving Throw or be paralyzed for the duration. At the end of each of its turns, the target can make another Wisdom Saving Throw. On a success, the spell ends on the target.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional humanoid for each slot level above 2nd. The humanoids must be within 30 feet of each other when you target them.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, you can target one additional humanoid for each slot level above 2nd. The humanoids must be within 30 feet of each other when you target them.
 
 ### Immovable Object
 *2nd-level transmutation*
@@ -525,7 +525,7 @@ Choose a humanoid that you can see within range. The target must succeed on a Wi
 
 You touch an object that weighs no more than 10 pounds and cause it to become magically fixed in place. You and the creatures you designate when you cast this spell can move the object normally. You can also set a password that, when spoken within 5 feet of the object, suppresses this spell for 1 minute.
 
-If the object is fixed in the air, it can hold up to 4,000 pounds of weight. More weight causes the object to fall. Otherwise, a creature can use an :rsc-action: **Action** to make a Strength check against your spell save DC. On a success, the creature can move the object up to 10 feet.***At Higher Levels.*** If you cast this spell using a spell slot of 4th or 5th level, the DC to move the object increases by 5, it can carry up to 8,000 pounds of weight, and the duration increases to 24 hours. If you cast this spell using a spell slot of 6th level or higher, the DC to move the object increases by 10, it can carry up to 20,000 pounds of weight, and the effect is permanent until dispelled.
+If the object is fixed in the air, it can hold up to 4,000 pounds of weight. More weight causes the object to fall. Otherwise, a creature can use an :rsc-action: **Action** to make a Strength check against your spell save DC. On a success, the creature can move the object up to 10 feet.***At Higher Levels.*** If you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th or 5th level, the DC to move the object increases by 5, it can carry up to 8,000 pounds of weight, and the duration increases to 24 hours. If you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, the DC to move the object increases by 10, it can carry up to 20,000 pounds of weight, and the effect is permanent until dispelled.
 
 ### Invisibility
 *2nd-level illusion*
@@ -537,7 +537,7 @@ If the object is fixed in the air, it can hold up to 4,000 pounds of weight. Mor
 
 A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person. The spell ends for a target that attacks or casts a spell.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
 ### Jim's Glowing Coin
 *2nd-level enchantment*
@@ -651,7 +651,7 @@ The triggering circumstance can be as general or as detailed as you like, though
 
 You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, the bonus increases to +2. When you use a :rsc-spell-slot: **Spell Slot** of 6th level or higher, the bonus increases to +3.
 
 ### Maximilian's Earthen Grasp
 *2nd-level transmutation*
@@ -679,7 +679,7 @@ As an :rsc-action: **Action**, you can cause the hand to reach for a different c
 
 A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 4d4 acid damage immediately and 2d4 acid damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much of the initial damage and no damage at the end of its next turn.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage (both initial and later) increases by 1d4 for each slot level above 2nd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, the damage (both initial and later) increases by 1d4 for each slot level above 2nd.
 
 ### Mind Spike
 *2nd-level divination*
@@ -691,7 +691,7 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 
 You reach into the mind of one creature you can see within range. The target must make a Wisdom Saving Throw, taking 3d8 psychic damage on a failed save, or half as much damage on a successful one. On a failed save, you also always know the target's location until the spell ends, but only while the two of you are on the same plane of existence. While you have this knowledge, the target can't become hidden from you, and if it's invisible, it gains no benefit from that condition against you.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
 
 ### Mirror Image
 *2nd-level illusion*
@@ -737,7 +737,7 @@ A shapechanger makes its Saving Throw with disadvantage. If it fails, it also in
 
 On each of your turns after you cast this spell, you can use an :rsc-action: **Action** to move the beam up to 60 feet in any direction.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d10 for each slot level above 2nd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, the damage increases by 1d10 for each slot level above 2nd.
 
 ### Nathair's Mischief
 *2nd-level illusion*
@@ -811,7 +811,7 @@ An affected target is so convinced of the phantasm's reality that it can even ta
 
 Up to six creatures of your choice that you can see within range each regain Hit Points equal to 2d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the healing increases by 1d8 for each slot level above 2nd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, the healing increases by 1d8 for each slot level above 2nd.
 
 ### Protection from Poison
 *2nd-level abjuration*
@@ -861,7 +861,7 @@ At the end of each of the target's turns, it can make a Constitution Saving Thro
 
 A burst of cold energy emanates from you in a 30-foot cone. Each creature in that area must make a Constitution Saving Throw. On a failed save, a creature takes 3d8 cold damage and is hindered by ice formations for 1 minute, or until it or another creature within reach of it uses an :rsc-action: **Action** to break away the ice. A creature hindered by ice has its speed reduced to 0. On a successful save, a creature takes half as much damage and isn't hindered by ice.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, increase the cold damage by 1d8 for each slot level above 2nd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, increase the cold damage by 1d8 for each slot level above 2nd.
 
 ### Rope Trick
 *2nd-level transmutation*
@@ -891,7 +891,7 @@ You create three rays of fire and hurl them at targets within range. You can hur
 
 Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire damage.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, you create one additional ray for each slot level above 2nd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, you create one additional ray for each slot level above 2nd.
 
 ### See Invisibility
 *2nd-level divination*
@@ -915,7 +915,7 @@ You weave together threads of shadow to create a sword of solidified gloom in yo
 
 If you drop the weapon or throw it, it dissipates at the end of the turn. Thereafter, while the spell persists, you can use a :rsc-bonus-action: **Bonus Action** to cause the sword to reappear in your hand.
 
-***At Higher Levels.*** When you cast this spell using a 3rdor 4th-level spell slot, the damage increases to 3d8. When you cast it using a 5thor 6th-level spell slot, the damage increases to 4d8. When you cast it using a spell slot of 7th level or higher, the damage increases to 5d8.
+***At Higher Levels.*** When you cast this spell using a 3rdor 4th-level spell slot, the damage increases to 3d8. When you cast it using a 5thor 6th-level spell slot, the damage increases to 4d8. When you cast it using a :rsc-spell-slot: **Spell Slot** of 7th level or higher, the damage increases to 5d8.
 
 ### Shatter
 *2nd-level evocation*
@@ -929,7 +929,7 @@ A sudden loud ringing noise, painfully intense, erupts from a point of your choi
 
 A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
 
 ### Silence
 *2nd-level illusion (ritual)*
@@ -961,7 +961,7 @@ You cause up to ten words to form in a part of the sky you can see. The words ap
 
 A flurry of magic snowballs erupts from a point you choose within range. Each creature in a 5-foot-radius sphere centered on that point must make a Dexterity Saving Throw. A creature takes 3d6 cold damage on a failed save, or half as much damage on a successful one.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
 
 ### Spider Climb
 *2nd-level transmutation*
@@ -999,7 +999,7 @@ As a :rsc-bonus-action: **Bonus Action** on your turn, you can move the weapon u
 
 The weapon can take whatever form you choose. Clerics of deities who are associated with a particular weapon (as St. Cuthbert is known for his mace and Thor for his hammer) make this spell's effect resemble that weapon.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for every two slot levels above 2nd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, the damage increases by 1d8 for every two slot levels above 2nd.
 
 ### Spray of Cards
 *2nd-level conjuration*
@@ -1011,7 +1011,7 @@ The weapon can take whatever form you choose. Clerics of deities who are associa
 
 You spray a 15-foot cone of spectral cards. Each creature in that area must make a Dexterity Saving Throw. On a failed save, a creature takes 2d10 force damage and has the blinded condition until the end of its next turn. On a successful save, a creature takes half as much damage only.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d10 for each slot level above 2nd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, the damage increases by 1d10 for each slot level above 2nd.
 
 ### Eschatologue's Steel Wind Strike
 *2nd-level conjuration*
@@ -1025,7 +1025,7 @@ You sheathes the weapon used in the spellcasting, vanish, then appear to strike 
 
 You can then teleport to an unoccupied space you can see within 5 feet of one of the targets you hit or missed.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the number of targets increases by ^^1^^, and the damage increases by ^^1d10^^, for each slot above 2nd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, the number of targets increases by ^^1^^, and the damage increases by ^^1d10^^, for each slot above 2nd.
 
 ### Suggestion
 *2nd-level enchantment*
@@ -1055,7 +1055,7 @@ You call forth a bestial spirit. It manifests in an unoccupied space that you ca
 
 The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, use the higher level wherever the spell's level appears in the stat block.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, use the higher level wherever the spell's level appears in the stat block.
 
 ### Tasha's Mind Whip
 *2nd-level enchantment*
@@ -1067,7 +1067,7 @@ The creature is an ally to you and your companions. In combat, the creature shar
 
 You psychically lash out at one creature you can see within range. The target must make an Intelligence Saving Throw. On a failed save, the target takes 3d6 psychic damage, and it can't take a :rsc-reaction: **Reaction** until the end of its next turn. Moreover, on its next turn, it must choose whether it gets a move, an :rsc-action: **Action**, or a :rsc-bonus-action: **Bonus Action**; it gets only one of the three. On a successful save, the target takes half as much damage and suffers none of the spell's other effects.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd. The creatures must be within 30 feet of each other when you target them.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, you can target one additional creature for each slot level above 2nd. The creatures must be within 30 feet of each other when you target them.
 
 ### Vortex Warp
 *2nd-level conjuration*
@@ -1079,7 +1079,7 @@ You psychically lash out at one creature you can see within range. The target mu
 
 You magically twist space around another creature you can see within range. The target must succeed on a Constitution Saving Throw (the target can choose to fail), or the target is teleported to an unoccupied space of your choice that you can see within range. The chosen space must be on a surface or in a liquid that can support the target without the target having to squeeze.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the range of the spell increases by 30 feet for each slot level above 2nd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, the range of the spell increases by 30 feet for each slot level above 2nd.
 
 ### Warding Bond
 *2nd-level abjuration*
@@ -1155,7 +1155,7 @@ You invoke both death and life upon a 10-foot-radius sphere centered on a point 
 
 In addition, one creature of your choice in that area can spend and roll one of its unspent Hit Dice and regain a number of Hit Points equal to the roll plus your spellcasting ability modifier.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot above the 2nd, and the number of Hit Dice that can be spent and added to the healing roll increases by one for each slot above 2nd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, the damage increases by 1d6 for each slot above the 2nd, and the number of Hit Dice that can be spent and added to the healing roll increases by one for each slot above 2nd.
 
 ### Wristpocket
 *2nd-level conjuration (ritual)*

@@ -180,7 +180,7 @@ You utter a word of power that can compel one creature you can see within range 
 **Components:** V, S  
 **Duration:** 10 minutes
 
-A shimmering, multicolored plane of light forms a vertical opaque wall—up to 90 feet long, 30 feet high, and 1 inch thick—centered on a point you can see within range. Alternatively, you can shape the wall into a sphere up to 30 feet in diameter centered on a point you choose within range. The wall remains in place for the duration. If you position the wall so that it passes through a space occupied by a creature, the spell fails, and your :rsc-action: **Action** and the spell slot are wasted.
+A shimmering, multicolored plane of light forms a vertical opaque wall—up to 90 feet long, 30 feet high, and 1 inch thick—centered on a point you can see within range. Alternatively, you can shape the wall into a sphere up to 30 feet in diameter centered on a point you choose within range. The wall remains in place for the duration. If you position the wall so that it passes through a space occupied by a creature, the spell fails, and your :rsc-action: **Action** and the :rsc-spell-slot: **Spell Slot** are wasted.
 
 The wall sheds bright light out to a range of 100 feet and dim light for an additional 100 feet. You and creatures you designate at the time you cast the spell can pass through and remain near the wall without harm. If another creature that can see the wall moves to within 20 feet of it or starts its turn there, the creature must succeed on a Constitution Saving Throw or become  blinded for 1 minute.
 
@@ -350,7 +350,7 @@ The stress of casting this spell to produce any effect other than duplicating an
 **Components:** V, S, M (an hourglass filled with diamond dust worth at least 5,000 gp, which the spell consumes)  
 **Duration:** Instantaneous
 
-You target a creature you can see within range, putting its physical form through the devastation of rapid aging. The target must make a Constitution Saving Throw, taking 10d12 necrotic damage on a failed save, or half as much damage on a successful one. If the save fails, the target also ages to the point where it has only 30 days left before it dies of old age. In this aged state, the target has disadvantage on attack rolls, ability checks, and Saving Throws, and its walking speed is halved. Only the *wish* spell or the *greater restoration* cast with a 9th-level spell slot can end these effects and restore the target to its previous age.
+You target a creature you can see within range, putting its physical form through the devastation of rapid aging. The target must make a Constitution Saving Throw, taking 10d12 necrotic damage on a failed save, or half as much damage on a successful one. If the save fails, the target also ages to the point where it has only 30 days left before it dies of old age. In this aged state, the target has disadvantage on attack rolls, ability checks, and Saving Throws, and its walking speed is halved. Only the *wish* spell or the *greater restoration* cast with a 9th-level :rsc-spell-slot: **Spell Slot** can end these effects and restore the target to its previous age.
 
 ### Ravenous Void
 *9th-level evocation*

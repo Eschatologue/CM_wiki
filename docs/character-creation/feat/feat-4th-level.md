@@ -179,7 +179,7 @@ You’ve learned to cannibalize the power of your spells to reinvigorate your al
     
 - **Weave to Life**
     
-    As a :rsc-bonus-action: **Bonus Action**, you can expend a spell slot of 1st level or higher to heal yourself or an ally within 30 feet. The number of Hit Points healed equals the level of the expended slot. In addition, the target gains temporary Hit Points equal to your spellcasting ability modifier. You must finish a long rest before you can use Weave to Life again
+    As a :rsc-bonus-action: **Bonus Action**, you can expend a :rsc-spell-slot: **Spell Slot** of 1st level or higher to heal yourself or an ally within 30 feet. The number of Hit Points healed equals the level of the expended slot. In addition, the target gains temporary Hit Points equal to your spellcasting ability modifier. You must finish a long rest before you can use Weave to Life again
     
 - **Soothing Magic**
     
@@ -910,11 +910,11 @@ You awaken the ability to mentally connect with others, granting you the followi
     
 - **Read Mind**
     
-    You can cast the detect thoughts spell, requiring no spell slot or components, and you must finish a long rest before you can cast it this way again. Your spellcasting ability for the spell is the ability increased by this feat. If you have spell slots of 2nd level or higher, you can cast this spell with them.
+    You can cast the detect thoughts spell, requiring no :rsc-spell-slot: **Spell Slot** or components, and you must finish a long rest before you can cast it this way again. Your spellcasting ability for the spell is the ability increased by this feat. If you have spell slots of 2nd level or higher, you can cast this spell with them.
     
 - **Deliver Message**
     
-    You can cast the *sending* spell, requiring no spell slot or components, and you must finish a long rest before you can cast it this way again. Your spellcasting ability for the spell is the ability increased by this feat. If you have spell slots of 3rd level or higher, you can cast this spell with them.
+    You can cast the *sending* spell, requiring no :rsc-spell-slot: **Spell Slot** or components, and you must finish a long rest before you can cast it this way again. Your spellcasting ability for the spell is the ability increased by this feat. If you have spell slots of 3rd level or higher, you can cast this spell with them.
 
 ### Void Touched^HB^
 *4th-level Feat*

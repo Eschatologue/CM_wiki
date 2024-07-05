@@ -13,7 +13,7 @@ At the start of your turn, you gain the following resources that you can expend:
 On your turn, you can take one :rsc-action:**Actions**. Common :rsc-action:**Actions** include:
 
 - **Attack:** Make a melee or ranged attack.
-- **Cast a Spell:** Use a spell slot to cast a prepared spell.
+- **Cast a Spell:** Use a :rsc-spell-slot: **Spell Slot** to cast a prepared spell.
 - **Dash:** Double your movement for the turn.
 - **Disengage:** Move without provoking opportunity attacks.
 - **Dodge:** Focus on defense to gain advantage on Dexterity Saving Throws and cause attack rolls against you to have disadvantage.

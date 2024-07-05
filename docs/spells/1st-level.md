@@ -14,7 +14,7 @@ icon: material/roman-numeral-1
 
 The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage of the triggering type, and the spell ends.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st.
 
 ### Alarm
 *1st-level abjuration (ritual)*
@@ -40,7 +40,7 @@ An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet
 
 This spell lets you convince a beast that you mean it no harm. Choose a beast that you can see within range. It must see and hear you. If the beast's Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a Wisdom Saving Throw or be charmed by you for the spell's duration. If you or one of your companions harms the target, the spell ends.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional beast for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, you can affect one additional beast for each slot level above 1st.
 
 ### Armor of Agathys
 *1st-level abjuration*
@@ -52,7 +52,7 @@ This spell lets you convince a beast that you mean it no harm. Choose a beast th
 
 A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear. You gain 5 temporary Hit Points for the duration. If a creature hits you with a melee attack while you have these Hit Points, the creature takes 5 cold damage.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, both the temporary Hit Points and the cold damage increase by 5 for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, both the temporary Hit Points and the cold damage increase by 5 for each slot level above 1st.
 
 ### Arms of Hadar
 *1st-level conjuration*
@@ -64,7 +64,7 @@ A protective magical force surrounds you, manifesting as a spectral frost that c
 
 You invoke the power of Hadar, the Dark Hunger. Tendrils of dark energy erupt from you and batter all creatures within 10 feet of you. Each creature in that area must make a Strength Saving Throw. On a failed save, a target takes 2d6 necrotic damage and can't take reactions until its next turn. On a successful save, the creature takes half damage, but suffers no other effect.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
 ### Bane
 *1st-level enchantment*
@@ -76,7 +76,7 @@ You invoke the power of Hadar, the Dark Hunger. Tendrils of dark energy erupt fr
 
 Up to three creatures of your choice that you can see within range must make Charisma Saving Throws. Whenever a target that fails this Saving Throw makes an attack roll or a Saving Throw before the spell ends, the target must roll a d4 and subtract the number rolled from the attack roll or Saving Throw.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
 ### Beast Bond
 *1st-level divination*
@@ -98,7 +98,7 @@ You establish a telepathic link with one beast you touch that is friendly to you
 
 You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or a Saving Throw before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or Saving Throw.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
 ### Burning Hands
 *1st-level evocation*
@@ -112,7 +112,7 @@ As you hold your hands with thumbs touching and fingers spread, a thin sheet of 
 
 The fire ignites any flammable objects in the area that aren't being worn or carried.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
 ### Catapult
 *1st-level transmutation*
@@ -124,7 +124,7 @@ The fire ignites any flammable objects in the area that aren't being worn or car
 
 Choose one object weighing 1 to 5 pounds within range that isn't being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, that creature must make a Dexterity Saving Throw. On a failed save, the object strikes the target and stops moving. When the object strikes something, the object and what it strikes each take 3d8 bludgeoning damage.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the maximum weight of objects that you can target with this spell increases by 5 pounds, and the damage increases by 1d8, for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the maximum weight of objects that you can target with this spell increases by 5 pounds, and the damage increases by 1d8, for each slot level above 1st.
 
 ### Cause Fear
 *1st-level necromancy*
@@ -136,7 +136,7 @@ Choose one object weighing 1 to 5 pounds within range that isn't being worn or c
 
 You awaken the sense of mortality in one creature you can see within range. A construct or an undead is immune to this effect. The target must succeed on a Wisdom Saving Throw or become frightened of you until the spell ends. The frightened target can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
 
 ### Ceremony
 *1st-level abjuration (ritual)*
@@ -186,7 +186,7 @@ If you roll the same number on both d8s, the chaotic energy leaps from the targe
 
 A creature can be targeted only once by each casting of this spell.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
 
 ### Charm Person
 *1st-level enchantment*
@@ -198,7 +198,7 @@ A creature can be targeted only once by each casting of this spell.
 
 You attempt to charm a humanoid you can see within range. It must make a Wisdom Saving Throw, and does so with advantage if you or your companions are fighting it. If it fails the Saving Throw, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
 
 ### Chromatic Orb
 *1st-level evocation*
@@ -210,7 +210,7 @@ You attempt to charm a humanoid you can see within range. It must make a Wisdom 
 
 You hurl a 4-inch-diameter sphere of energy at a creature that you can see within range. You choose acid, cold, fire, lightning, poison, or thunder for the type of orb you create, and then make a ranged spell attack against the target. If the attack hits, the creature takes 3d8 damage of the type you chose.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
 
 ### Color Spray
 *1st-level illusion*
@@ -224,7 +224,7 @@ A dazzling array of flashing, colored light springs from your hand. Roll 6d10; t
 
 Starting with the creature that has the lowest current Hit Points, each creature affected by this spell is blinded until the end of your next turn. Subtract each creature's Hit Points from the total before moving on to the creature with the next lowest Hit Points. A creature's Hit Points must be equal to or less than the remaining total for that creature to be affected.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d10 for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, roll an additional 2d10 for each slot level above 1st.
 
 ### Command
 *1st-level enchantment*
@@ -248,7 +248,7 @@ Some typical commands and their effects follow. You might issue a command other 
 
 ***Halt.*** The target doesn't move and takes no actions. A flying creature stays aloft, provided that it is able to do so. If it must move to stay aloft, it flies the minimum distance needed to remain in the air.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, you can affect one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
 
 ### Compelled Duel
 *1st-level enchantment*
@@ -288,7 +288,7 @@ You either create or destroy water.
 
 ***Destroy Water.*** You destroy up to 10 gallons of water in an open container within range. Alternatively, you destroy fog in a 30-foot cube within range.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, you create or destroy 10 additional gallons of water, or the size of the cube increases by 5 feet, for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, you create or destroy 10 additional gallons of water, or the size of the cube increases by 5 feet, for each slot level above 1st.
 
 ### Cure Wounds
 *1st-level evocation*
@@ -300,7 +300,7 @@ You either create or destroy water.
 
 A creature you touch regains a number of Hit Points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
 
 ### Detect Evil and Good
 *1st-level divination*
@@ -362,7 +362,7 @@ To discern that you are disguised, a creature can use its action to inspect your
 
 You whisper a discordant melody that only one creature of your choice within range can hear, wracking it with terrible pain. The target must make a Wisdom Saving Throw. On a failed save, it takes 3d6 psychic damage and must immediately use its reaction, if available, to move as far as its speed allows away from you. The creature doesn't move into obviously dangerous ground, such as a fire or a pit. On a successful save, the target takes half as much damage and doesn't have to move away. A deafened creature automatically succeeds on the save.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
 ### Distort Value
 *1st-level illusion*
@@ -376,7 +376,7 @@ Do you need to squeeze a few more gold pieces out of a merchant as you try to se
 
 You cast this spell on an object no more than 1 foot on a side, doubling the object's perceived value by adding illusory flourishes or polish to it, or reducing its perceived value by half with the help of illusory scratches, dents, and other unsightly features. Anyone examining the object can ascertain its true value with a successful Intelligence (Investigation) check against your spell save DC.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the maximum size of the object increases by 1 foot for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the maximum size of the object increases by 1 foot for each slot level above 1st.
 
 ### Divine Favor
 *1st-level evocation*
@@ -398,7 +398,7 @@ Your prayer empowers you with divine radiance. Until the spell ends, your weapon
 
 You cause a tremor in the ground within range. Each creature other than you in that area must make a Dexterity Saving Throw. On a failed save, a creature takes 1d6 bludgeoning damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared, with each 5-foot-diameter portion requiring at least 1 minute to clear by hand.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
 ### Ensnaring Strike
 *1st-level conjuration*
@@ -412,7 +412,7 @@ The next time you hit a creature with a weapon attack before this spell ends, a 
 
 While restrained by this spell, the target takes 1d6 piercing damage at the start of each of its turns. A creature restrained by the vines or one that can touch the creature can use its action to make a Strength check against your spell save DC. On a success, the target is freed.
 
-***At Higher Levels.*** If you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+***At Higher Levels.*** If you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
 ### Entangle
 *1st-level conjuration*
@@ -460,7 +460,7 @@ Any attack roll against an affected creature or object has advantage if the atta
 
 Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary Hit Points for the duration.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary Hit Points for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, you gain 5 additional temporary Hit Points for each slot level above 1st.
 
 ### Feather Fall
 *1st-level transmutation*
@@ -504,7 +504,7 @@ Finally, when you cast a spell with a range of touch, your familiar can deliver 
 
 You create a 20-foot-radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the radius of the fog increases by 20 feet for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the radius of the fog increases by 20 feet for each slot level above 1st.
 
 ### Frost Fingers
 *1st-level evocation*
@@ -518,7 +518,7 @@ Freezing cold blasts from your fingertips in a 15-foot cone. Each creature in th
 
 The cold freezes nonmagical liquids in the area that aren't being worn or carried.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
 
 ### Gift of Alacrity
 *1st-level divination*
@@ -564,7 +564,7 @@ When the grease appears, each creature standing in its area must succeed on a De
 
 A flash of light streaks toward a creature of your choice within range. Make a ranged spell attack against the target. On a hit, the target takes 4d6 radiant damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
 ### Hail of Thorns
 *1st-level conjuration*
@@ -576,7 +576,7 @@ A flash of light streaks toward a creature of your choice within range. Make a r
 
 The next time you hit a creature with a ranged weapon attack before the spell ends, this spell creates a rain of thorns that sprouts from your ranged weapon or ammunition. In addition to the normal effect of the attack, the target of the attack and each creature within 5 feet of it must make a Dexterity Saving Throw. A creature takes 1d10 piercing damage on a failed save, or half as much damage on a successful one.
 
-***At Higher Levels.*** If you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st (to a maximum of 6d10).
+***At Higher Levels.*** If you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st (to a maximum of 6d10).
 
 ### Healing Word
 *1st-level evocation*
@@ -588,7 +588,7 @@ The next time you hit a creature with a ranged weapon attack before the spell en
 
 A creature of your choice that you can see within range regains Hit Points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st.
 
 ### Hellish Rebuke
 *1st-level evocation*
@@ -600,7 +600,7 @@ A creature of your choice that you can see within range regains Hit Points equal
 
 You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity Saving Throw. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
 
 ### Heroism
 *1st-level enchantment*
@@ -612,7 +612,7 @@ You point your finger, and the creature that damaged you is momentarily surround
 
 A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to being frightened and gains temporary Hit Points equal to your spellcasting ability modifier at the start of each of its turns. When the spell ends, the target loses any remaining temporary Hit Points from this spell.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
 ### Hex
 *1st-level enchantment*
@@ -628,7 +628,7 @@ If the target drops to 0 Hit Points before this spell ends, you can use a :rsc-b
 
 A *remove curse* cast on the target ends this spell early.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours. When you use a :rsc-spell-slot: **Spell Slot** of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours.
 
 ### Hunter's Mark
 *1st-level divination*
@@ -640,7 +640,7 @@ A *remove curse* cast on the target ends this spell early.
 
 You choose a creature you can see within range and mystically mark it as your ^^Quarry^^. Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it. If the target drops to 0 Hit Points before this spell ends, you can use a :rsc-bonus-action: **Bonus Action** on a subsequent turn of yours to mark a new creature.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours. When you use a :rsc-spell-slot: **Spell Slot** of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours.
 
 ### Ice Knife
 *1st-level conjuration*
@@ -652,7 +652,7 @@ You choose a creature you can see within range and mystically mark it as your ^^
 
 You create a shard of ice and fling it at one creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 piercing damage. Hit or miss, the shard then explodes. The target and each creature within 5 feet of it must succeed on a Dexterity Saving Throw or take 2d6 cold damage.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the cold damage increases by 1d6 for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the cold damage increases by 1d6 for each slot level above 1st.
 
 ### Identify
 *1st-level divination (ritual)*
@@ -692,7 +692,7 @@ A creature with truesight can read the hidden message.
 
 Make a melee spell attack against a creature you can reach. On a hit, the target takes 3d10 necrotic damage.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
 
 ### Jim's Magic Missile
 *1st-level evocation*
@@ -708,7 +708,7 @@ You create three twisting, whistling, hypoallergenic, gluten-free darts of magic
 
 If the attack roll scores a Critical Hit, the target of that missile takes 5d4 force damage instead of you rolling damage twice for a Critical Hit. If the attack roll for any missile is a 1, all missiles miss their targets and blow up in your face, dealing 1 force damage per missile to you.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart, and the royalty component increases by 1 gp, for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the spell creates one more dart, and the royalty component increases by 1 gp, for each slot level above 1st.
 
 ### Jump
 *1st-level transmutation*
@@ -730,7 +730,7 @@ You touch a creature. The creature's *jump distance* is tripled until the spell 
 
 You touch a creature. The target's speed increases by 10 feet until the spell ends.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
 ### Mage Armour
 *1st-level abjuration*
@@ -752,7 +752,7 @@ You touch a willing creature who isn't wearing armor, and a protective magical f
 
 You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the spell creates one more dart for each slot level above 1st.
 
 ### Magnify Gravity
 *1st-level transmutation*
@@ -766,7 +766,7 @@ The gravity in a 10-foot-radius sphere centered on a point you can see within ra
 
 Until the start of your next turn, any object that isn't being worn or carried in the sphere requires a successful Strength check against your spell save DC to pick up or move.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
 
 ### Protection from Evil and Good
 *1st-level abjuration*
@@ -800,7 +800,7 @@ All nonmagical food and drink within a 5-foot-radius sphere centered on a point 
 
 A ray of sickening greenish energy lashes out toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution Saving Throw. On a failed save, it is also poisoned until the end of your next turn.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
 
 ### Sanctuary
 *1st-level abjuration*
@@ -824,7 +824,7 @@ If the warded creature makes an attack, casts a spell that affects an enemy, or 
 
 The next time you hit a creature with a melee weapon attack during the spell's duration, your weapon flares with white-hot intensity, and the attack deals an extra 1d6 fire damage to the target and causes the target to ignite in flames. At the start of each of its turns until the spell ends, the target must make a Constitution Saving Throw. On a failed save, it takes 1d6 fire damage. On a successful save, the spell ends. If the target or a creature within 5 feet of it uses an :rsc-action: **Action** to put out the flames, or if some other effect douses the flames (such as the target being submerged in water), the spell ends.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the initial extra damage dealt by the attack increases by 1d6 for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the initial extra damage dealt by the attack increases by 1d6 for each slot level above 1st.
 
 ### Shield
 *1st-level abjuration*
@@ -886,7 +886,7 @@ Starting with the creature that has the lowest current Hit Points, each creature
 
 Undead and creatures immune to being charmed aren't affected by this spell.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d8 for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, roll an additional 2d8 for each slot level above 1st.
 
 ### Snare
 *1st-level abjuration*
@@ -926,7 +926,7 @@ You gain the ability to comprehend and verbally communicate with beasts for the 
 
 A stream of acid emanates from you in a line 30 feet long and 5 feet wide in a direction you choose. Each creature in the line must succeed on a Dexterity Saving Throw or be covered in acid for the spell's duration or until a creature uses its action to scrape or wash the acid off itself or another creature. A creature covered in the acid takes 2d4 acid damage at start of each of its turns.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 2d4 for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 2d4 for each slot level above 1st.
 
 ### Tasha's Hideous Laughter
 *1st-level enchantment*
@@ -976,7 +976,7 @@ A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube 
 
 In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
 
 ### Unseen Servant
 *1st-level conjuration (ritual)*
@@ -1002,7 +1002,7 @@ If you command the servant to perform a task that would move it more than 60 fee
 
 A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target. Make a ranged spell attack against that creature. On a hit, the target takes 1d12 lightning damage, and on each of your turns for the duration, you can use your :rsc-action: **Action** to deal 1d12 lightning damage to the target automatically. The spell ends if you use your :rsc-action: **Action** to do anything else. The spell also ends if the target is ever outside the spell's range or if it has total cover from you.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the initial damage increases by 1d12 for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the initial damage increases by 1d12 for each slot level above 1st.
 
 ### Wrathful Smite
 *1st-level evocation*

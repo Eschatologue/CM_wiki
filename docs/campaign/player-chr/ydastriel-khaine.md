@@ -67,7 +67,7 @@ Upon gaining this class feature, you gain additional Starry Forms tied to specif
 
     *A constellation of a life-giving goblet appears on you.* 
 
-    **Chalice of Life.** Whenever you cast a spell using a spell slot that restores Hit Points to a creature, you or another creature within 30 feet of you can regain Hit Points equal to 1d8 + your Wisdom modifier. (2d8 at 10th-level)
+    **Chalice of Life.** Whenever you cast a spell using a :rsc-spell-slot: **Spell Slot** that restores Hit Points to a creature, you or another creature within 30 feet of you can regain Hit Points equal to 1d8 + your Wisdom modifier. (2d8 at 10th-level)
 
     **Rejuvinating Bolt.** When you hit a creature with [Cosmic Flare] you can choose to restore Hit Points to that creature instead of damaging it. The restored Hit Points is equal to your half of your spell's damage.
 

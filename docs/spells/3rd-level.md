@@ -16,7 +16,7 @@ On each of your turns, you can use a :rsc-bonus-action: **Bonus Action** to ment
 
 The creature is under your control for 24 hours, after which it stops obeying any command you've given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature again before the current 24-hour period ends. This use of the spell reasserts your control over up to four creatures you have animated with this spell, rather than animating a new one.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, you animate or reassert control over two additional undead creatures for each slot level above 3rd. Each of the creatures must come from a different corpse or pile of bones.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, you animate or reassert control over two additional undead creatures for each slot level above 3rd. Each of the creatures must come from a different corpse or pile of bones.
 
 ### Antagonize
 *3rd-level enchantment*
@@ -28,7 +28,7 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 You whisper magical words that antagonize one creature of your choice within range. The target must make a Wisdom Saving Throw. On a failed save, the target takes 4d4 psychic damage and must immediately use its :rsc-reaction: **Reaction** to make a melee attack against another creature of your choice that you can see. If the target can't make this attack (for example, because there is no one within its reach or because its :rsc-reaction: **Reaction** is unavailable), the target instead has disadvantage on the next attack roll it makes before the start of your next turn. On a successful save, the target takes half as much damage only.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d4 for each slot level above 3rd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, the damage increases by 1d4 for each slot level above 3rd.
 
 ### Ashardalon's Stride
 *3rd-level transmutation*
@@ -42,7 +42,7 @@ The billowing flames of a dragon blast from your feet, granting you explosive sp
 
 When you move within 5 feet of a creature or an object that isn't being worn or carried, it takes 1d6 fire damage from your trail of heat. A creature or object can take this damage only once during a turn.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, increase your speed by 5 feet for each spell slot level above 3rd. The spell deals an additional 1d6 fire damage for each slot level above 3rd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, increase your speed by 5 feet for each :rsc-spell-slot: **Spell Slot** level above 3rd. The spell deals an additional 1d6 fire damage for each slot level above 3rd.
 
 ### Aura of Vitality
 *3rd-level evocation*
@@ -81,7 +81,7 @@ While the target is cursed, your attacks and spells deal an extra 1d8 necrotic d
 
 A *remove curse* spell ends this effect. At the DM's option, you may choose an alternative curse effect, but it should be no more powerful than those described above. The DM has final say on such a curse's effect.
 
-***At Higher Levels.*** If you cast this spell using a spell slot of 4th level or higher, the duration is concentration, up to 10 minutes. If you use a spell slot of 5th level or higher, the duration is 8 hours. If you use a spell slot of 7th level or higher, the duration is 24 hours. If you use a 9th level spell slot, the spell lasts until it is dispelled. Using a spell slot of 5th level or higher grants a duration that doesn't require concentration.
+***At Higher Levels.*** If you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, the duration is concentration, up to 10 minutes. If you use a :rsc-spell-slot: **Spell Slot** of 5th level or higher, the duration is 8 hours. If you use a :rsc-spell-slot: **Spell Slot** of 7th level or higher, the duration is 24 hours. If you use a 9th level spell slot, the spell lasts until it is dispelled. Using a :rsc-spell-slot: **Spell Slot** of 5th level or higher grants a duration that doesn't require concentration.
 
 ### Blinding Smite
 *3rd-level evocation*
@@ -121,7 +121,7 @@ When you cast the spell, choose a point you can see under the cloud. A bolt of l
 
 If you are outdoors in stormy conditions when you cast this spell, the spell gives you control over the existing storm instead of creating a new one. Under such conditions, the spell's damage increases by 1d10.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th or higher level, the damage increases by 1d10 for each slot level above 3rd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th or higher level, the damage increases by 1d10 for each slot level above 3rd.
 
 ### Catnap
 *3rd-level enchantment*
@@ -133,7 +133,7 @@ If you are outdoors in stormy conditions when you cast this spell, the spell giv
 
 You make a calming gesture, and up to three willing creatures of your choice that you can see within range fall unconscious for the spell's duration. The spell ends on a target early if it takes damage or someone uses an :rsc-action: **Action** to shake or slap it awake. If a target remains unconscious for the full duration, that target gains the benefit of a short rest, and it can't be affected by this spell again until it finishes a long rest.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, you can target one additional willing creature for each slot level above 3rd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, you can target one additional willing creature for each slot level above 3rd.
 
 ### Clairvoyance
 *3rd-level divination*
@@ -192,7 +192,7 @@ You throw a nonmagical weapon or fire a piece of nonmagical ammunition into the 
 
 You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a success, the creature's spell fails and has no effect.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the interrupted spell has no effect if its level is less than or equal to the level of the spell slot you used.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, the interrupted spell has no effect if its level is less than or equal to the level of the :rsc-spell-slot: **Spell Slot** you used.
 
 ### Create Food and Water
 *3rd-level conjuration*
@@ -238,7 +238,7 @@ If any of this spell's area overlaps with an area of darkness created by a spell
 
 Choose one creature, object, or magical effect within range. Any spell of 3rd level or lower on the target ends. For each spell of 4th level or higher on the target, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a successful check, the spell ends.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, you automatically end the effects of a spell on the target if the spell's level is equal to or less than the level of the spell slot you used.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, you automatically end the effects of a spell on the target if the spell's level is equal to or less than the level of the :rsc-spell-slot: **Spell Slot** you used.
 
 ### Elemental Weapon
 *3rd-level transmutation*
@@ -250,7 +250,7 @@ Choose one creature, object, or magical effect within range. Any spell of 3rd le
 
 A nonmagical weapon you touch becomes a magic weapon. Choose one of the following damage types: acid, cold, fire, lightning, or thunder. For the duration, the weapon has a +1 bonus to attack rolls and deals an extra 1d4 damage of the chosen type when it hits.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 5th or 6th level, the bonus to attack rolls increases to +2 and the extra damage increases to 2d4. When you use a spell slot of 7th level or higher, the bonus increases to +3 and the extra damage increases to 3d4.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 5th or 6th level, the bonus to attack rolls increases to +2 and the extra damage increases to 2d4. When you use a :rsc-spell-slot: **Spell Slot** of 7th level or higher, the bonus increases to +3 and the extra damage increases to 3d4.
 
 ### Enemies Abound
 *3rd-level enchantment*
@@ -274,7 +274,7 @@ Whenever the affected creature chooses another creature as a target, it must cho
 
 Choose a point you can see on the ground within range. A fountain of churned earth and stone erupts in a 20-foot cube centered on that point. Each creature in that area must make a Dexterity Saving Throw. A creature takes 3d12 bludgeoning damage on a failed save, or half as much damage on a successful one. Additionally, the ground in that area becomes difficult terrain until cleared. Each 5-foot-square portion of the area requires at least 1 minute to clear by hand.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d12 for each slot level above 3rd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, the damage increases by 1d12 for each slot level above 3rd.
 
 ### Fast Friends
 *3rd-level enchantment*
@@ -290,7 +290,7 @@ You can set the creature new tasks when a previous task is completed, or if you 
 
 When the spell ends, the creature knows it was charmed by you.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, you can target one additional creature for each slot level above 3rd.
 
 ### Fear
 *3rd-level illusion*
@@ -328,7 +328,7 @@ A bright streak flashes from your pointing finger to a point you choose within r
 
 The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 
 ### Flame Arrows
 *3rd-level transmutation*
@@ -340,7 +340,7 @@ The fire spreads around corners. It ignites flammable objects in the area that a
 
 You touch a quiver containing arrows or bolts. When a target is hit by a ranged weapon attack using a piece of ammunition drawn from the quiver, the target takes an extra 1d6 fire damage. The spell's magic ends on a piece of ammunition when it hits or misses, and the spell ends when twelve pieces of ammunition have been drawn from the quiver.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the number of pieces of ammunition you can affect with this spell increases by two for each slot level above 3rd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, the number of pieces of ammunition you can affect with this spell increases by two for each slot level above 3rd.
 
 ### Fly
 *3rd-level transmutation*
@@ -352,7 +352,7 @@ You touch a quiver containing arrows or bolts. When a target is hit by a ranged 
 
 You touch a willing creature. The target gains a flying speed of 60 feet for the duration. When the spell ends, the target falls if it is still aloft, unless it can stop the fall.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, you can target one additional creature for each slot level above 3rd.
 
 ### Gaseous Form
 *3rd-level transmutation*
@@ -390,7 +390,7 @@ When you inscribe the glyph, choose explosive runes or a spell glyph.
 
 ***Spell Glyph.*** You can store a prepared spell of 3rd level or lower in the glyph by casting it as part of creating the glyph. The spell must target a single creature or an area. The spell being stored has no immediate effect when cast in this way. When the glyph is triggered, the stored spell is cast. If the spell has a target, it targets the creature that triggered the glyph. If the spell affects an area, the area is centered on that creature. If the spell summons hostile creatures or creates harmful objects or traps, they appear as close as possible to the intruder and attack it. If the spell requires concentration, it lasts until the end of its full duration.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage of an explosive runes glyph increases by 1d8 for each slot level above 3rd. If you create a spell glyph, you can store any spell of up to the same level as the slot you use for the glyph of warding.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, the damage of an explosive runes glyph increases by 1d8 for each slot level above 3rd. If you create a spell glyph, you can store any spell of up to the same level as the slot you use for the glyph of warding.
 
 ### Haste
 *3rd-level transmutation*
@@ -450,7 +450,7 @@ At the end of each of its turns, an affected target can make a Wisdom Saving Thr
 
 For the duration, you or one willing creature you can see within range has resistance to psychic damage, as well as advantage on Intelligence, Wisdom, and Charisma Saving Throws.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd. The creatures must be within 30 feet of each other when you target them.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, you can target one additional creature for each slot level above 3rd. The creatures must be within 30 feet of each other when you target them.
 
 ### Leomund's Tiny Hut
 *3rd-level evocation (ritual)*
@@ -476,7 +476,7 @@ Until the spell ends, you can command the interior to become dimly lit or dark. 
 
 You sacrifice some of your health to mend another creature's injuries. You take 4d8 necrotic damage, which can't be reduced in any way, and one creature of your choice that you can see within range regains a number of Hit Points equal to twice the necrotic damage you take.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
 
 ### Lightning Arrow
 *3rd-level transmutation*
@@ -492,7 +492,7 @@ Whether you hit or miss, each creature within 10 feet of the target must make a 
 
 The piece of ammunition or weapon then returns to its normal form.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage for both effects of the spell increases by 1d8 for each slot level above 3rd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, the damage for both effects of the spell increases by 1d8 for each slot level above 3rd.
 
 ### Lightning Bolt
 *3rd-level evocation*
@@ -506,7 +506,7 @@ A stroke of lightning forming a line 100 feet long and 5 feet wide blasts out fr
 
 The lightning ignites flammable objects in the area that aren't being worn or carried.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 
 ### Magic Circle
 *3rd-level abjuration*
@@ -526,7 +526,7 @@ Targets within the cylinder can't be charmed, frightened, or possessed by the cr
 
 When you cast this spell, you can elect to cause its magic to operate in the reverse direction, preventing a creature of the specified type from leaving the cylinder and protecting targets outside it.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the duration increases by 1 hour for each slot level above 3rd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, the duration increases by 1 hour for each slot level above 3rd.
 
 ### Major Image
 *3rd-level illusion*
@@ -542,7 +542,7 @@ As long as you are within range of the illusion, you can use your :rsc-action: *
 
 Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and its other sensory qualities become faint to the creature.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, the spell lasts until dispelled, without requiring your concentration.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, the spell lasts until dispelled, without requiring your concentration.
 
 ### Mass Healing Word
 *3rd-level evocation*
@@ -554,7 +554,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 As you call out words of restoration, up to six creatures of your choice that you can see within range regain Hit Points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the healing increases by 1d4 for each slot level above 3rd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, the healing increases by 1d4 for each slot level above 3rd.
 
 ### Meld into Stone
 *3rd-level transmutation (ritual)*
@@ -580,7 +580,7 @@ Minor physical damage to the stone doesn't harm you, but its partial destruction
 
 You create six tiny meteors in your space. They float in the air and orbit you for the spell's duration. When you cast the spell—and as a :rsc-bonus-action: **Bonus Action** on each of your turns thereafter—you can expend one or two of the meteors, sending them streaking toward a point or points you choose within 120 feet of you. Once a meteor reaches its destination or impacts against a solid surface, the meteor explodes. Each creature within 5 feet of the point where the meteor explodes must make a Dexterity Saving Throw. A creature takes 2d6 fire damage on a failed save, or half as much damage on a successful one.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the number of meteors created increases by two for each slot level above 3rd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, the number of meteors created increases by two for each slot level above 3rd.
 
 ### Motivational Speech
 *3rd-level enchantment*
@@ -592,7 +592,7 @@ You create six tiny meteors in your space. They float in the air and orbit you f
 
 *I once heard a motivational speech by Jim and it was the worst ninety seconds of my life. What does Omin see in him, anyway?*— Walnut DankgrassYou address allies, staff, or innocent bystanders to exhort and inspire them to greatness, whether they have anything to get excited about or not. Choose up to five creatures within range that can hear you. For the duration, each affected creature gains 5 temporary Hit Points and has advantage on Wisdom Saving Throws. If an affected creature is hit by an attack, it has advantage on the next attack roll it makes. Once an affected creature loses the temporary Hit Points granted by this spell, the spell ends for that creature.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the temporary Hit Points increase by 5 for each slot level above 3rd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, the temporary Hit Points increase by 5 for each slot level above 3rd.
 
 ### Nondetection
 *3rd-level abjuration*
@@ -654,7 +654,7 @@ You create intense pressure, unleash it in a 30-foot cone, and decide whether th
 
 In addition, unsecured objects that are completely within the cone are likewise pulled or pushed 15 feet.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 and the distance pulled or pushed increases by 5 feet for each slot level above 3rd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, the damage increases by 1d6 and the distance pulled or pushed increases by 5 feet for each slot level above 3rd.
 
 ### Remove Curse
 *3rd-level abjuration*
@@ -698,7 +698,7 @@ You can send the message across any distance and even to other planes of existen
 
 You conjure spectral chains to wrap around the target creature's soul, binding it to yours. The creature must make a Constitution Saving Throw, or be shackled for the spell's duration. For the spell's duration, each time you take damage, the shackled creature takes half amount of the damage you receive.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, you may target an additional creature for every 2 levels above 3rd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 5th level or higher, you may target an additional creature for every 2 levels above 3rd.
 
 ### Sleet Storm
 *3rd-level conjuration*
@@ -772,7 +772,7 @@ You call forth spirits to protect you. They flit around you to a distance of 15 
 
 When you cast this spell, you can designate any number of creatures you can see to be unaffected by it. An affected creature's speed is halved in the area, and when the creature enters the area for the first time on a turn or starts its turn there, it must make a Wisdom Saving Throw. On a failed save, the creature takes 3d8 radiant damage (if you are good or neutral) or 3d8 necrotic damage (if you are evil). On a successful save, the creature takes half as much damage.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
 
 ### Spirit Shroud
 *3rd-level necromancy*
@@ -788,7 +788,7 @@ Until the spell ends, any attack you make deals 1d8 extra damage when you hit a 
 
 In addition, any creature of your choice that you can see that starts its turn within 10 feet of you has its speed reduced by 10 feet until the start of your next turn.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for every two slot levels above 3rd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, the damage increases by 1d8 for every two slot levels above 3rd.
 
 ### Stinking Cloud
 *3rd-level conjuration*
@@ -816,7 +816,7 @@ You call forth a fey spirit. It manifests in an unoccupied space that you can se
 
 The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, use the higher level wherever the spell's level appears in the stat block.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, use the higher level wherever the spell's level appears in the stat block.
 
 ### Summon Lesser Demons
 *3rd-level conjuration*
@@ -840,7 +840,7 @@ The demons are hostile to all creatures, including you. Roll initiative for the 
 
 As part of casting the spell, you can form a circle on the ground with the blood used as a material component. The circle is large enough to encompass your space. While the spell lasts, the summoned demons can't cross the circle or harm it, and they can't target anyone within it. Using the material component in this manner consumes it when the spell ends.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 6th or 7th level, you summon twice as many demons. If you cast it using a spell slot of 8th or 9th level, you summon three times as many demons.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th or 7th level, you summon twice as many demons. If you cast it using a :rsc-spell-slot: **Spell Slot** of 8th or 9th level, you summon three times as many demons.
 
 ### Summon Shadowspawn
 *3rd-level conjuration*
@@ -854,7 +854,7 @@ You call forth a shadowy spirit. It manifests in an unoccupied space that you ca
 
 The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, use the higher level wherever the spell's level appears in the stat block.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, use the higher level wherever the spell's level appears in the stat block.
 
 ### Summon Undead
 *3rd-level necromancy*
@@ -868,7 +868,7 @@ You call forth an undead spirit. It manifests in an unoccupied space that you ca
 
 The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, use the higher level wherever the spell's level appears in the stat block.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, use the higher level wherever the spell's level appears in the stat block.
 
 ### Thunder Step
 *3rd-level conjuration*
@@ -882,7 +882,7 @@ You teleport yourself to an unoccupied space you can see within range. Immediate
 
 You can bring along objects as long as their weight doesn't exceed what you can carry. You can also teleport one willing creature of your size or smaller who is carrying gear up to its carrying capacity. The creature must be within 5 feet of you when you cast this spell, and there must be an unoccupied space within 5 feet of your destination space for the creature to appear in; otherwise, the creature is left behind.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d10 for each slot level above 3rd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, the damage increases by 1d10 for each slot level above 3rd.
 
 ### Tidal Wave
 *3rd-level conjuration*
@@ -908,7 +908,7 @@ As a :rsc-bonus-action: **Bonus Action**, you can mentally command the creature 
 
 When the creature drops to 0 Hit Points, it reverts to its original form, and any remaining damage carries over to that form.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, you can animate two additional objects for each slot level above 3rd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, you can animate two additional objects for each slot level above 3rd.
 
 ### Tongues
 *3rd-level divination*
@@ -930,7 +930,7 @@ This spell grants the creature you touch the ability to understand any spoken la
 
 The touch of your shadow-wreathed hand can siphon life force from others to heal your wounds. Make a melee spell attack against a creature within your reach. On a hit, the target takes 3d6 necrotic damage, and you regain Hit Points equal to half the amount of necrotic damage dealt. Until the spell ends, you can make the attack again on each of your turns as an :rsc-action: **Action**.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
+***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 
 ### Wall of Sand
 *3rd-level evocation*

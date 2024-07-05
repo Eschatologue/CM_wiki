@@ -119,9 +119,9 @@ Moroever, you gain additional benefits against your Quarry:
 
 *With a simple raise of your eyebrow, you possess the uncanny ability to disrupt and foil a spellcaster's magic.*
 
-When you see a creature casting a spell or teleporting within 60 feet of you, you can use a :rsc-reaction: **Reaction** to expend a spell slot to try magically foils it.
+When you see a creature casting a spell or teleporting within 60 feet of you, you can use a :rsc-reaction: **Reaction** to expend a :rsc-spell-slot: **Spell Slot** to try magically foils it.
 
-If the spell was cast at a level equal to the level of the spell slot you expended or lower, the spell fails and has no effect. If it was cast at a level higher than the slot you expended, make a :die-d20:Charisma **Ability Check** against DC of 10 + the level of the spell, the spell fails and has no effect when you succeed the check.
+If the spell was cast at a level equal to the level of the :rsc-spell-slot: **Spell Slot** you expended or lower, the spell fails and has no effect. If it was cast at a level higher than the slot you expended, make a :die-d20:Charisma **Ability Check** against DC of 10 + the level of the spell, the spell fails and has no effect when you succeed the check.
 
 ## Resurgence <span style="float:right;"> <small> Level 7 </small> </span>
 
