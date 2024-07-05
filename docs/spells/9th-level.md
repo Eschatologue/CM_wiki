@@ -16,7 +16,7 @@ Your astral body resembles your mortal form in almost every way, replicating you
 
 Your astral form can freely travel through the Astral Plane and can pass through portals there leading to any other plane. If you enter a new plane or return to the plane you were on when casting this spell, your body and possessions are transported along the silver cord, allowing you to re-enter your body as you enter the new plane. Your astral form is a separate incarnation. Any damage or other effects that apply to it have no effect on your physical body, nor do they persist when you return to it.
 
-The spell ends for you and your companions when you use your action to dismiss it. When the spell ends, the affected creature returns to its physical body, and it awakens.
+The spell ends for you and your companions when you use your :rsc-action: **Action** to dismiss it. When the spell ends, the affected creature returns to its physical body, and it awakens.
 
 The spell might also end early for you or one of your companions. A successful  dispel magic spell used against an astral or physical body ends the spell for that creature. If a creature's original body or its astral form drops to 0 hit points, the spell ends for that creature. If the spell ends and the silver cord is intact, the cord pulls the creature's astral form back to its body, ending its state of suspended animation.
 
@@ -32,7 +32,7 @@ If you are returned to your body prematurely, your companions remain in their as
 
 You create a blade-shaped planar rift about 3 feet long in an unoccupied space you can see within range. The blade lasts for the duration. When you cast this spell, you can make up to two melee spell attacks with the blade, each one against a creature, loose object, or structure within 5 feet of the blade. On a hit, the target takes  4d12 force damage. This attack scores a Critical Hit if the number on the  d20 is 18 or higher. On a Critical Hit, the blade deals an extra  8d12 force damage (for a total of  12d12 force damage).
 
-As a bonus action on your turn, you can move the blade up to 30 feet to an unoccupied space you can see and then make up to two melee spell attacks with it again.
+As a :rsc-bonus-action: **Bonus Action** on your turn, you can move the blade up to 30 feet to an unoccupied space you can see and then make up to two melee spell attacks with it again.
 
 The blade can harmlessly pass through any barrier, including a  wall of force.
 
@@ -160,7 +160,7 @@ The spell damages objects in the area and ignites flammable objects that aren't 
 **Components:** V, S  
 **Duration:** Instantaneous
 
-A wave of healing energy washes over the creature you touch. The target regains all its hit points. If the creature is  charmed,  frightened,  paralyzed, or  stunned, the condition ends. If the creature is  prone, it can use its reaction to stand up. This spell has no effect on undead or constructs.
+A wave of healing energy washes over the creature you touch. The target regains all its hit points. If the creature is  charmed,  frightened,  paralyzed, or  stunned, the condition ends. If the creature is  prone, it can use its :rsc-reaction: **Reaction** to stand up. This spell has no effect on undead or constructs.
 
 ### Power Word Kill
 *9th-level enchantment*
@@ -180,7 +180,7 @@ You utter a word of power that can compel one creature you can see within range 
 **Components:** V, S  
 **Duration:** 10 minutes
 
-A shimmering, multicolored plane of light forms a vertical opaque wall—up to 90 feet long, 30 feet high, and 1 inch thick—centered on a point you can see within range. Alternatively, you can shape the wall into a sphere up to 30 feet in diameter centered on a point you choose within range. The wall remains in place for the duration. If you position the wall so that it passes through a space occupied by a creature, the spell fails, and your action and the spell slot are wasted.
+A shimmering, multicolored plane of light forms a vertical opaque wall—up to 90 feet long, 30 feet high, and 1 inch thick—centered on a point you can see within range. Alternatively, you can shape the wall into a sphere up to 30 feet in diameter centered on a point you choose within range. The wall remains in place for the duration. If you position the wall so that it passes through a space occupied by a creature, the spell fails, and your :rsc-action: **Action** and the spell slot are wasted.
 
 The wall sheds bright light out to a range of 100 feet and dim light for an additional 100 feet. You and creatures you designate at the time you cast the spell can pass through and remain near the wall without harm. If another creature that can see the wall moves to within 20 feet of it or starts its turn there, the creature must succeed on a Constitution Saving Throw or become  blinded for 1 minute.
 
@@ -236,7 +236,7 @@ You retain the benefit of any features from your class, race, or other source an
 
 When you transform, you choose whether your equipment falls to the ground, merges into the new form, or is worn by it. Worn equipment functions as normal. The DM determines whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change shape or size to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge into your new form. Equipment that merges has no effect in that state.
 
-During this spell's duration, you can use your action to assume a different form following the same restrictions and rules for the original form, with one exception: if your new form has more hit points than your current one, your hit points remain at their current value.
+During this spell's duration, you can use your :rsc-action: **Action** to assume a different form following the same restrictions and rules for the original form, with one exception: if your new form has more hit points than your current one, your hit points remain at their current value.
 
 ### Storm of Vengeance
 *9th-level conjuration*

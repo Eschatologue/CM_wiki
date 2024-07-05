@@ -27,9 +27,6 @@ nav:
       - Movement: gameplay/combat/movement.md
       - Damage and Healing : gameplay/combat/damage-healing.md
       - Condition: gameplay/combat/condition.md
-    - Other Options & Features:
-      - Metamagic: gameplay/option/metamagic.md
-      - Eldrtich Invocations: gameplay/option/invocations.md
     - Homebrew Mechanics:
       - Affiliation: gameplay/homebrew/affiliation.md
       - Death's Door and Resove: gameplay/homebrew/resolve.md
@@ -55,6 +52,9 @@ nav:
       - 4th-Level Feats: character-creation/feat/feat-4th-level.md
       - 8th-Level Feats: character-creation/feat/feat-8th-level.md
       - Fighting Style: character-creation/feat/feat-fighting-style.md
+    - Other Options & Features:
+      - Metamagic: character-creation/option/metamagic.md
+      - Eldrtich Invocations: gameplay/option/invocations.md
   - Items & Equipment: 
     - Armour: 
       - equipment/armour/index.md

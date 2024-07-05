@@ -90,7 +90,9 @@ When you cast Find Familiar, you infuse the summoned familiar with a measure of 
 
 **Quick Attack.** As a :rsc-bonus-action: **Bonus Action**, you can command the familiar to take the Attack action.
 
-**Necrotic or Radiant Damage.** Whenever the familiar deals :damage-bludgeoning: **Bludgeoning**, :damage-piercing: **Piercing**, or :damage-slashing: **Slashing** damage, you can make it deal Ne:damage-necrotic: **Necrotic** or :damage-radiant: **Radiant** damage instead. Your Save DC. If the familiar forces a creature to make a Saving Throw, it uses your spell save DC.
+**Necrotic or Radiant Damage.** Whenever the familiar deals :damage-bludgeoning: **Bludgeoning**, :damage-piercing: **Piercing**, or :damage-slashing: **Slashing** damage, you can make it deal :damage-necrotic: **Necrotic** or :damage-radiant: **Radiant** damage instead. 
+
+**Your Save DC.** If the familiar forces a creature to make a Saving Throw, it uses your spell save DC.
 
 **Resistance.** When the familiar takes damage, you can use your :rsc-reaction: **Reaction** to grant it Resistance against that damage.
 

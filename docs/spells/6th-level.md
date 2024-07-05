@@ -14,7 +14,7 @@ You create linked teleportation portals that remain open for the duration. Choos
 
 The portals are two-dimensional glowing rings filled with mist, hovering inches from the ground and perpendicular to it at the points you choose. A ring is visible only from one side (your choice), which is the side that functions as a portal.
 
-Any creature or object entering the portal exits from the other portal as if the two were adjacent to each other; passing through a portal from the nonportal side has no effect. The mist that fills each portal is opaque and blocks vision through it. On your turn, you can rotate the rings as a bonus action so that the active side faces in a different direction.
+Any creature or object entering the portal exits from the other portal as if the two were adjacent to each other; passing through a portal from the nonportal side has no effect. The mist that fills each portal is opaque and blocks vision through it. On your turn, you can rotate the rings as a :rsc-bonus-action: **Bonus Action** so that the active side faces in a different direction.
 
 ### Blade Barrier
 *6th-level evocation*
@@ -40,7 +40,7 @@ You cause up to six pillars of stone to burst from places on the ground that you
 
 If a pillar is created under a creature, that creature must succeed on a Dexterity Saving Throw or be lifted by the pillar. A creature can choose to fail the save.
 
-If a pillar is prevented from reaching its full height because of a ceiling or other obstacle, a creature on the pillar takes 6d6 bludgeoning damage and is restrained, pinched between the pillar and the obstacle. The restrained creature can use an action to make a Strength or Dexterity check (the creature's choice) against the spell's save DC. On a success, the creature is no longer restrained and must either move off the pillar or fall off it.
+If a pillar is prevented from reaching its full height because of a ceiling or other obstacle, a creature on the pillar takes 6d6 bludgeoning damage and is restrained, pinched between the pillar and the obstacle. The restrained creature can use an :rsc-action: **Action** to make a Strength or Dexterity check (the creature's choice) against the spell's save DC. On a success, the creature is no longer restrained and must either move off the pillar or fall off it.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, you can create two additional pillars for each slot level above 6th.
 
@@ -126,7 +126,7 @@ You can have only one homunculus at a time. If you cast this spell while your ho
 
 You can cast this spell only at night. Choose up to three corpses of Medium or Small humanoids within range. Each corpse becomes a **ghoul** under your control. (The DM has game statistics for these creatures.)
 
-As a bonus action on each of your turns, you can mentally command any creature you animated with this spell if the creature is within 120 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.
+As a :rsc-bonus-action: **Bonus Action** on each of your turns, you can mentally command any creature you animated with this spell if the creature is within 120 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.
 
 The creature is under your control for 24 hours, after which it stops obeying any command you have given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature before the current 24-hour period ends. This use of the spell reasserts your control over up to three creatures you have animated with this spell, rather than animating new ones.
 
@@ -160,7 +160,7 @@ This spell automatically disintegrates a Large or smaller nonmagical object or a
 
 You touch an object weighing 10 pounds or less whose longest dimension is 6 feet or less. The spell leaves an invisible mark on its surface and invisibly inscribes the name of the item on the sapphire you use as the material component. Each time you cast this spell, you must use a different sapphire.
 
-At any time thereafter, you can use your action to speak the item's name and crush the sapphire. The item instantly appears in your hand regardless of physical or planar distances, and the spell ends.
+At any time thereafter, you can use your :rsc-action: **Action** to speak the item's name and crush the sapphire. The item instantly appears in your hand regardless of physical or planar distances, and the spell ends.
 
 If another creature is holding or carrying the item, crushing the sapphire doesn't transport the item to you, but instead you learn who the creature possessing the object is and roughly where that creature is located at that moment.
 
@@ -202,7 +202,7 @@ To a creature immune to this effect, the winds are a fragrant, gentle breeze, an
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-For the spell's duration, your eyes become an inky void imbued with dread power. One creature of your choice within 60 feet of you that you can see must succeed on a Wisdom Saving Throw or be affected by one of the following effects of your choice for the duration. On each of your turns until the spell ends, you can use your action to target another creature but can't target a creature again if it has succeeded on a Saving Throw against this casting of eyebite.
+For the spell's duration, your eyes become an inky void imbued with dread power. One creature of your choice within 60 feet of you that you can see must succeed on a Wisdom Saving Throw or be affected by one of the following effects of your choice for the duration. On each of your turns until the spell ends, you can use your :rsc-action: **Action** to target another creature but can't target a creature again if it has succeeded on a Saving Throw against this casting of eyebite.
 
 ***Asleep.*** The target falls unconscious. It wakes up if it takes any damage or if another creature uses its action to shake the sleeper awake.
 
@@ -236,7 +236,7 @@ You create a field of silvery light that surrounds a creature of your choice wit
 **Damage Resistance.** The creature has resistance to acid, cold, fire, lightning, and poison damage.  
 **Evasion.** If the creature is subjected to an effect that allows it to make a Dexterity Saving Throw to take only half damage, the creature instead takes no damage if it succeeds on the Saving Throw, and only half damage if it fails.
 
-As a bonus action on subsequent turns, you can move the field to another creature within 60 feet of the field.
+As a :rsc-bonus-action: **Bonus Action** on subsequent turns, you can move the field to another creature within 60 feet of the field.
 
 ### Flesh to Stone
 *6th-level transmutation*
@@ -362,7 +362,7 @@ Flames race across your body, shedding bright light in a 30-foot radius and dim 
   
 You are immune to fire damage and have resistance to cold damage.  
 Any creature that moves within 5 feet of you for the first time on a turn or ends its turn there takes 1d10 fire damage.  
-You can use your action to create a line of fire 15 feet long and 5 feet wide extending from you in a direction you choose. Each creature in the line must make a Dexterity Saving Throw. A creature takes 4d8 fire damage on a failed save, or half as much damage on a successful one.
+You can use your :rsc-action: **Action** to create a line of fire 15 feet long and 5 feet wide extending from you in a direction you choose. Each creature in the line must make a Dexterity Saving Throw. A creature takes 4d8 fire damage on a failed save, or half as much damage on a successful one.
 
 ### Investiture of Ice
 *6th-level transmutation*
@@ -377,7 +377,7 @@ Until the spell ends, ice rimes your body, and you gain the following benefits:
 You are immune to cold damage and have resistance to fire damage.  
 You can move across difficult terrain created by ice or snow without spending extra movement.  
 The ground in a 10-foot radius around you is icy and is difficult terrain for creatures other than you. The radius moves with you.  
-You can use your action to create a 15-foot cone of freezing wind extending from your outstretched hand in a direction you choose. Each creature in the cone must make a Constitution Saving Throw. A creature takes 4d6 cold damage on a failed save, or half as much damage on a successful one. A creature that fails its save against this effect has its speed halved until the start of your next turn.
+You can use your :rsc-action: **Action** to create a 15-foot cone of freezing wind extending from your outstretched hand in a direction you choose. Each creature in the cone must make a Constitution Saving Throw. A creature takes 4d6 cold damage on a failed save, or half as much damage on a successful one. A creature that fails its save against this effect has its speed halved until the start of your next turn.
 
 ### Investiture of Stone
 *6th-level transmutation*
@@ -390,7 +390,7 @@ You can use your action to create a 15-foot cone of freezing wind extending from
 Until the spell ends, bits of rock spread across your body, and you gain the following benefits:
   
 You have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.  
-You can use your action to create a small earthquake on the ground in a 15-foot radius centered on you. Other creatures on that ground must succeed on a Dexterity Saving Throw or be knocked prone.  
+You can use your :rsc-action: **Action** to create a small earthquake on the ground in a 15-foot radius centered on you. Other creatures on that ground must succeed on a Dexterity Saving Throw or be knocked prone.  
 You can move across difficult terrain made of earth or stone without spending extra movement. You can move through solid earth or stone as if it was air and without destabilizing it, but you can't end your movement there. If you do so, you are ejected to the nearest unoccupied space, this spell ends, and you are stunned until the end of your next turn.
 
 ### Investiture of Wind
@@ -405,7 +405,7 @@ Until the spell ends, wind whirls around you, and you gain the following benefit
   
 Ranged weapon attacks made against you have disadvantage on the attack roll.  
 You gain a flying speed of 60 feet. If you are still flying when the spell ends, you fall, unless you can somehow prevent it.  
-You can use your action to create a 15-foot cube of swirling wind centered on a point you can see within 60 feet of you. Each creature in that area must make a Constitution Saving Throw. A creature takes 2d10 bludgeoning damage on a failed save, or half as much damage on a successful one. If a Large or smaller creature fails the save, that creature is also pushed up to 10 feet away from the center of the cube.
+You can use your :rsc-action: **Action** to create a 15-foot cube of swirling wind centered on a point you can see within 60 feet of you. Each creature in that area must make a Constitution Saving Throw. A creature takes 2d10 bludgeoning damage on a failed save, or half as much damage on a successful one. If a Large or smaller creature fails the save, that creature is also pushed up to 10 feet away from the center of the cube.
 
 ### Magic Jar
 *6th-level necromancy*
@@ -423,7 +423,7 @@ Once you possess a creature's body, you control it. Your game statistics are rep
 
 Meanwhile, the possessed creature's soul can perceive from the container using its own senses, but it can't move or take actions at all.
 
-While possessing a body, you can use your action to return from the host body to the container if it is within 100 feet of you, returning the host creature's soul to its body. If the host body dies while you're in it, the creature dies, and you must make a Charisma Saving Throw against your own spellcasting DC. On a success, you return to the container if it is within 100 feet of you. Otherwise, you die.
+While possessing a body, you can use your :rsc-action: **Action** to return from the host body to the container if it is within 100 feet of you, returning the host creature's soul to its body. If the host body dies while you're in it, the creature dies, and you must make a Charisma Saving Throw against your own spellcasting DC. On a success, you return to the container if it is within 100 feet of you. Otherwise, you die.
 
 If the container is destroyed or the spell ends, your soul immediately returns to your body. If your body is more than 100 feet away from you or if your body is dead when you attempt to return to it, you die. If another creature's soul is in the container when it is destroyed, the creature's soul returns to its body if the body is alive and within 100 feet. Otherwise, that creature dies.
 
@@ -485,7 +485,7 @@ Similarly, this spell doesn't directly affect plant growth. The moved earth carr
 
 A frigid globe of cold energy streaks from your fingertips to a point of your choice within range, where it explodes in a 60-foot-radius sphere. Each creature within the area must make a Constitution Saving Throw. On a failed save, a creature takes 10d6 cold damage. On a successful save, it takes half as much damage.
 
-If the globe strikes a body of water or a liquid that is principally water (not including water-based creatures), it freezes the liquid to a depth of 6 inches over an area 30 feet square. This ice lasts for 1 minute. Creatures that were swimming on the surface of frozen water are trapped in the ice. A trapped creature can use an action to make a Strength check against your spell save DC to break free.
+If the globe strikes a body of water or a liquid that is principally water (not including water-based creatures), it freezes the liquid to a depth of 6 inches over an area 30 feet square. This ice lasts for 1 minute. Creatures that were swimming on the surface of frozen water are trapped in the ice. A trapped creature can use an :rsc-action: **Action** to make a Strength check against your spell save DC to break free.
 
 You can refrain from firing the globe after completing the spell, if you wish. A small globe about the size of a sling stone, cool to the touch, appears in your hand. At any time, you or a creature you give the globe to can throw the globe (to a range of 40 feet) or hurl it with a sling (to the sling's normal range). It shatters on impact, with the same effect as the normal casting of the spell. You can also set the globe down without shattering it. After 1 minute, if the globe hasn't already shattered, it explodes.
 
@@ -501,7 +501,7 @@ You can refrain from firing the globe after completing the spell, if you wish. A
 
 Choose one creature that you can see within range. The target begins a comic dance in place: shuffling, tapping its feet, and capering for the duration. Creatures that can't be charmed are immune to this spell.
 
-A dancing creature must use all its movement to dance without leaving its space and has disadvantage on Dexterity Saving Throws and attack rolls. While the target is affected by this spell, other creatures have advantage on attack rolls against it. As an action, a dancing creature makes a Wisdom Saving Throw to regain control of itself. On a successful save, the spell ends.
+A dancing creature must use all its movement to dance without leaving its space and has disadvantage on Dexterity Saving Throws and attack rolls. While the target is affected by this spell, other creatures have advantage on attack rolls against it. As an :rsc-action: **Action**, a dancing creature makes a Wisdom Saving Throw to regain control of itself. On a successful save, the spell ends.
 
 ### Planar Ally
 *6th-level conjuration*
@@ -533,7 +533,7 @@ A creature enlisted to join your group counts as a member of it, receiving a ful
 
 You have resistance to acid, cold, fire, lightning, and thunder damage for the spell's duration.
 
-When you take damage of one of those types, you can use your reaction to gain immunity to that type of damage, including against the triggering damage. If you do so, the resistances end, and you have the immunity until the end of your next turn, at which time the spell ends.
+When you take damage of one of those types, you can use your :rsc-reaction: **Reaction** to gain immunity to that type of damage, including against the triggering damage. If you do so, the resistances end, and you have the immunity until the end of your next turn, at which time the spell ends.
 
 ### Programmed Illusion
 *6th-level illusion*
@@ -571,13 +571,13 @@ The air quivers around up to five creatures of your choice that you can see with
 
 This spell snatches the soul of a humanoid as it dies and traps it inside the tiny cage you use for the material component. A stolen soul remains inside the cage until the spell ends or until you destroy the cage, which ends the spell. While you have a soul inside the cage, you can exploit it in any of the ways described below. You can use a trapped soul up to six times. Once you exploit a soul for the sixth time, it is released, and the spell ends. While a soul is trapped, the dead humanoid it came from can't be revived.
 
-***Steal Life.*** You can use a bonus action to drain vigor from the soul and regain 2d8 hit points.
+***Steal Life.*** You can use a :rsc-bonus-action: **Bonus Action** to drain vigor from the soul and regain 2d8 hit points.
 
 ***Query Soul.*** You ask the soul a question (no action required) and receive a brief telepathic answer, which you can understand regardless of the language used. The soul knows only what it knew in life, but it must answer you truthfully and to the best of its ability. The answer is no more than a sentence or two and might be cryptic.
 
-***Borrow Experience.*** You can use a bonus action to bolster yourself with the soul's life experience, making your next attack roll, ability check, or Saving Throw with advantage. If you don't use this benefit before the start of your next turn, it is lost.
+***Borrow Experience.*** You can use a :rsc-bonus-action: **Bonus Action** to bolster yourself with the soul's life experience, making your next attack roll, ability check, or Saving Throw with advantage. If you don't use this benefit before the start of your next turn, it is lost.
 
-***Eyes of the Dead.*** You can use an action to name a place the humanoid saw in life, which creates an invisible sensor somewhere in that place if it is on the plane of existence you're currently on. The sensor remains for as long as you concentrate, up to 10 minutes (as if you were concentrating on a spell). You receive visual and auditory information from the sensor as if you were in its space using your senses.
+***Eyes of the Dead.*** You can use an :rsc-action: **Action** to name a place the humanoid saw in life, which creates an invisible sensor somewhere in that place if it is on the plane of existence you're currently on. The sensor remains for as long as you concentrate, up to 10 minutes (as if you were concentrating on a spell). You receive visual and auditory information from the sensor as if you were in its space using your senses.
 
 A creature that can see the sensor (such as one using *see invisibility* or truesight) sees a translucent image of the tormented humanoid whose soul you caged.
 
@@ -605,7 +605,7 @@ The creature is an ally to you and your companions. In combat, the creature shar
 
 A beam of brilliant light flashes out from your hand in a 5-foot-wide, 60-foot-long line. Each creature in the line must make a Constitution Saving Throw. On a failed save, a creature takes 6d8 radiant damage and is blinded until your next turn. On a successful save, it takes half as much damage and isn't blinded by this spell. Undead and oozes have disadvantage on this Saving Throw.
 
-You can create a new line of radiance as your action on any turn until the spell ends.
+You can create a new line of radiance as your :rsc-action: **Action** on any turn until the spell ends.
 
 For the duration, a mote of brilliant radiance shines in your hand. It sheds bright light in a 30-foot radius and dim light for an additional 30 feet. This light is sunlight.
 

@@ -48,11 +48,11 @@ You create a spectral globe around the head of a willing creature you can see wi
 **Components:** V, S  
 **Duration:** Concentration, up to 1 hour
 
-You assume a different form. When you cast the spell, choose one of the following options, the effects of which last for the duration of the spell. While the spell lasts, you can end one option as an action to gain the benefits of a different one.
+You assume a different form. When you cast the spell, choose one of the following options, the effects of which last for the duration of the spell. While the spell lasts, you can end one option as an :rsc-action: **Action** to gain the benefits of a different one.
 
 ***Aquatic Adaptation.*** You adapt your body to an aquatic environment, sprouting gills and growing webbing between your fingers. You can breathe underwater and gain a swimming speed equal to your walking speed.
 
-***Change Appearance.*** You transform your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another race, though none of your statistics change. You also can't appear as a creature of a different size than you, and your basic shape stays the same; if you're bipedal, you can't use this spell to become quadrupedal, for instance. At any time for the duration of the spell, you can use your action to change your appearance in this way again.
+***Change Appearance.*** You transform your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another race, though none of your statistics change. You also can't appear as a creature of a different size than you, and your basic shape stays the same; if you're bipedal, you can't use this spell to become quadrupedal, for instance. At any time for the duration of the spell, you can use your :rsc-action: **Action** to change your appearance in this way again.
 
 ***Natural Weapons.*** You grow claws, fangs, spines, horns, or a different natural weapon of your choice. Your unarmed strikes deal 1d6 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with your unarmed strikes. Finally, the natural weapon is magic and you have a +1 bonus to the attack and damage rolls you make using it.
 
@@ -119,7 +119,7 @@ You touch a willing creature. Until the spell ends, the target's skin has a roug
 **Components:** S  
 **Duration:** Concentration, up to 1 hour
 
-You touch a willing beast. For the duration of the spell, you can use your action to see through the beast's eyes and hear what it hears, and continue to do so until you use your action to return to your normal senses. While perceiving through the beast's senses, you gain the benefits of any special senses possessed by that creature, though you are blinded and deafened to your own surroundings.
+You touch a willing beast. For the duration of the spell, you can use your :rsc-action: **Action** to see through the beast's eyes and hear what it hears, and continue to do so until you use your :rsc-action: **Action** to return to your normal senses. While perceiving through the beast's senses, you gain the benefits of any special senses possessed by that creature, though you are blinded and deafened to your own surroundings.
 
 ### Blindness/Deafness
 *2nd-level necromancy*
@@ -227,7 +227,7 @@ One humanoid of your choice that you can see within range must succeed on a Wisd
 
 The charmed target must use its action before moving on each of its turns to make a melee attack against a creature other than itself that you mentally choose. The target can act normally on its turn if you choose no creature or if none are within its reach.
 
-On your subsequent turns, you must use your action to maintain control over the target, or the spell ends. Also, the target can make a Wisdom Saving Throw at the end of each of its turns. On a success, the spell ends.
+On your subsequent turns, you must use your :rsc-action: **Action** to maintain control over the target, or the spell ends. Also, the target can make a Wisdom Saving Throw at the end of each of its turns. On a success, the spell ends.
 
 ### Darkness
 *2nd-level evocation*
@@ -261,13 +261,13 @@ You touch a willing creature to grant it the ability to see in the dark. For the
 **Components:** V, S, M (a copper piece)  
 **Duration:** Concentration, up to 1 minute
 
-For the duration, you can read the thoughts of certain creatures. When you cast the spell and as your action on each turn until the spell ends, you can focus your mind on any one creature that you can see within 30 feet of you. If the creature you choose has an Intelligence of 3 or lower or doesn't speak any language, the creature is unaffected.
+For the duration, you can read the thoughts of certain creatures. When you cast the spell and as your :rsc-action: **Action** on each turn until the spell ends, you can focus your mind on any one creature that you can see within 30 feet of you. If the creature you choose has an Intelligence of 3 or lower or doesn't speak any language, the creature is unaffected.
 
-You initially learn the surface thoughts of the creature—what is most on its mind in that moment. As an action, you can either shift your attention to another creature's thoughts or attempt to probe deeper into the same creature's mind. If you probe deeper, the target must make a Wisdom Saving Throw. If it fails, you gain insight into its reasoning (if any), its emotional state, and something that looms large in its mind (such as something it worries over, loves, or hates). If it succeeds, the spell ends. Either way, the target knows that you are probing into its mind, and unless you shift your attention to another creature's thoughts, the creature can use its action on its turn to make an Intelligence check contested by your Intelligence check; if it succeeds, the spell ends.
+You initially learn the surface thoughts of the creature—what is most on its mind in that moment. As an :rsc-action: **Action**, you can either shift your attention to another creature's thoughts or attempt to probe deeper into the same creature's mind. If you probe deeper, the target must make a Wisdom Saving Throw. If it fails, you gain insight into its reasoning (if any), its emotional state, and something that looms large in its mind (such as something it worries over, loves, or hates). If it succeeds, the spell ends. Either way, the target knows that you are probing into its mind, and unless you shift your attention to another creature's thoughts, the creature can use its action on its turn to make an Intelligence check contested by your Intelligence check; if it succeeds, the spell ends.
 
 Questions verbally directed at the target creature naturally shape the course of its thoughts, so this spell is particularly effective as part of an interrogation.
 
-You can also use this spell to detect the presence of thinking creatures you can't see. When you cast the spell or as your action during the duration, you can search for thoughts within 30 feet of you. The spell can penetrate barriers, but 2 feet of rock, 2 inches of any metal other than lead, or a thin sheet of lead blocks you. You can't detect a creature with an Intelligence of 3 or lower or one that doesn't speak any language.
+You can also use this spell to detect the presence of thinking creatures you can't see. When you cast the spell or as your :rsc-action: **Action** during the duration, you can search for thoughts within 30 feet of you. The spell can penetrate barriers, but 2 feet of rock, 2 inches of any metal other than lead, or a thin sheet of lead blocks you. You can't detect a creature with an Intelligence of 3 or lower or one that doesn't speak any language.
 
 Once you detect the presence of a creature in this way, you can read its thoughts for the rest of the duration as described above, even if you can't see it, but it must still be within range.
 
@@ -279,7 +279,7 @@ Once you detect the presence of a creature in this way, you can read its thought
 **Components:** V, S, M (a hot pepper)  
 **Duration:** Concentration, up to 1 minute
 
-You touch one willing creature and imbue it with the power to spew magical energy from its mouth, provided it has one. Choose acid, cold, fire, lightning, or poison. Until the spell ends, the creature can use an action to exhale energy of the chosen type in a 15-foot cone. Each creature in that area must make a Dexterity Saving Throw, taking 3d6 damage of the chosen type on a failed save, or half as much damage on a successful one.
+You touch one willing creature and imbue it with the power to spew magical energy from its mouth, provided it has one. Choose acid, cold, fire, lightning, or poison. Until the spell ends, the creature can use an :rsc-action: **Action** to exhale energy of the chosen type in a 15-foot cone. Each creature in that area must make a Dexterity Saving Throw, taking 3d6 damage of the chosen type on a failed save, or half as much damage on a successful one.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
 
@@ -295,7 +295,7 @@ Choose an unoccupied 5-foot cube of air that you can see within range. An elemen
 
 Any creature that ends its turn within 5 feet of the dust devil must make a Strength Saving Throw. On a failed save, the creature takes 1d8 bludgeoning damage and is pushed 10 feet away from the dust devil. On a successful save, the creature takes half as much damage and isn't pushed.
 
-As a bonus action, you can move the dust devil up to 30 feet in any direction. If the dust devil moves over sand, dust, loose dirt, or light gravel, it sucks up the material and forms a 10-foot-radius cloud of debris around itself that lasts until the start of your next turn. The cloud heavily obscures its area.
+As a :rsc-bonus-action: **Bonus Action**, you can move the dust devil up to 30 feet in any direction. If the dust devil moves over sand, dust, loose dirt, or light gravel, it sucks up the material and forms a 10-foot-radius cloud of debris around itself that lasts until the start of your next turn. The cloud heavily obscures its area.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
 
@@ -371,11 +371,11 @@ You summon a spirit that assumes the form of an unusually intelligent, strong, a
 
 Your steed serves you as a mount, both in combat and out, and you have an instinctive bond with it that allows you to fight as a seamless unit. While mounted on your steed, you can make any spell you cast that targets only you also target your steed.
 
-When the steed drops to 0 hit points, it disappears, leaving behind no physical form. You can also dismiss your steed at any time as an action, causing it to disappear. In either case, casting this spell again summons the same steed, restored to its hit point maximum.
+When the steed drops to 0 hit points, it disappears, leaving behind no physical form. You can also dismiss your steed at any time as an :rsc-action: **Action**, causing it to disappear. In either case, casting this spell again summons the same steed, restored to its hit point maximum.
 
 While your steed is within 1 mile of you, you can communicate with each other telepathically.
 
-You can't have more than one steed bonded by this spell at a time. As an action, you can release the steed from its bond at any time, causing it to disappear.
+You can't have more than one steed bonded by this spell at a time. As an :rsc-action: **Action**, you can release the steed from its bond at any time, causing it to disappear.
 
 ### Find Traps
 *2nd-level divination*
@@ -397,9 +397,9 @@ This spell merely reveals that a trap is present. You don't learn the location o
 **Components:** V, S, M (leaf of sumac)  
 **Duration:** Concentration, up to 10 minutes
 
-You evoke a fiery blade in your free hand. The blade is similar in size and shape to a scimitar, and it lasts for the duration. If you let go of the blade, it disappears, but you can evoke the blade again as a bonus action.
+You evoke a fiery blade in your free hand. The blade is similar in size and shape to a scimitar, and it lasts for the duration. If you let go of the blade, it disappears, but you can evoke the blade again as a :rsc-bonus-action: **Bonus Action**.
 
-You can use your action to make a melee spell attack with the fiery blade. On a hit, the target takes 3d6 fire damage.
+You can use your :rsc-action: **Action** to make a melee spell attack with the fiery blade. On a hit, the target takes 3d6 fire damage.
 
 The flaming blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 
@@ -415,7 +415,7 @@ The flaming blade sheds bright light in a 10-foot radius and dim light for an ad
 
 A 5-foot-diameter sphere of fire appears in an unoccupied space of your choice within range and lasts for the duration. Any creature that ends its turn within 5 feet of the sphere must make a Dexterity Saving Throw. The creature takes 2d6 fire damage on a failed save, or half as much damage on a successful one.
 
-As a bonus action, you can move the sphere up to 30 feet. If you ram the sphere into a creature, that creature must make the Saving Throw against the sphere's damage, and the sphere stops moving this turn.
+As a :rsc-bonus-action: **Bonus Action**, you can move the sphere up to 30 feet. If you ram the sphere into a creature, that creature must make the Saving Throw against the sphere's damage, and the sphere stops moving this turn.
 
 When you move the sphere, you can direct it over barriers up to 5 feet tall and jump it across pits up to 10 feet wide. The sphere ignites flammable objects not being worn or carried, and it sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
 
@@ -471,7 +471,7 @@ Any creature in the line must spend 2 feet of movement for every 1 foot it moves
 
 The gust disperses gas or vapor, and it extinguishes candles, torches, and similar unprotected flames in the area. It causes protected flames, such as those of lanterns, to dance wildly and has a 50 percent chance to extinguish them.
 
-As a bonus action on each of your turns before the spell ends, you can change the direction in which the line blasts from you.
+As a :rsc-bonus-action: **Bonus Action** on each of your turns before the spell ends, you can change the direction in which the line blasts from you.
 
 ### Healing Spirit
 *2nd-level conjuration*
@@ -485,7 +485,7 @@ You call forth a nature spirit to soothe the wounded. The intangible spirit appe
 
 Until the spell ends, whenever you or a creature you can see moves into the spirit's space for the first time on a turn or starts its turn there, you can cause the spirit to restore 1d6 hit points to that creature (no action required). The spirit can't heal constructs or undead. The spirit can heal a number of times equal to 1 + your spellcasting ability modifier (minimum of twice). After healing that number of times, the spirit disappears.
 
-As a bonus action on your turn, you can move the spirit up to 30 feet to a space you can see.
+As a :rsc-bonus-action: **Bonus Action** on your turn, you can move the spirit up to 30 feet to a space you can see.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the healing increases by 1d6 for each slot level above 2nd.
 
@@ -497,7 +497,7 @@ As a bonus action on your turn, you can move the spirit up to 30 feet to a space
 **Components:** V, S, M (a piece of iron and a flame)  
 **Duration:** Concentration, up to 1 minute
 
-Choose a manufactured metal object, such as a metal weapon or a suit of heavy or medium metal armor, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes 2d8 fire damage when you cast the spell. Until the spell ends, you can use a bonus action on each of your subsequent turns to cause this damage again.
+Choose a manufactured metal object, such as a metal weapon or a suit of heavy or medium metal armor, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes 2d8 fire damage when you cast the spell. Until the spell ends, you can use a :rsc-bonus-action: **Bonus Action** on each of your subsequent turns to cause this damage again.
 
 If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution Saving Throw or drop the object if it can. If it doesn't drop the object, it has disadvantage on attack rolls and ability checks until the start of your next turn.
 
@@ -525,7 +525,7 @@ Choose a humanoid that you can see within range. The target must succeed on a Wi
 
 You touch an object that weighs no more than 10 pounds and cause it to become magically fixed in place. You and the creatures you designate when you cast this spell can move the object normally. You can also set a password that, when spoken within 5 feet of the object, suppresses this spell for 1 minute.
 
-If the object is fixed in the air, it can hold up to 4,000 pounds of weight. More weight causes the object to fall. Otherwise, a creature can use an action to make a Strength check against your spell save DC. On a success, the creature can move the object up to 10 feet.***At Higher Levels.*** If you cast this spell using a spell slot of 4th or 5th level, the DC to move the object increases by 5, it can carry up to 8,000 pounds of weight, and the duration increases to 24 hours. If you cast this spell using a spell slot of 6th level or higher, the DC to move the object increases by 10, it can carry up to 20,000 pounds of weight, and the effect is permanent until dispelled.
+If the object is fixed in the air, it can hold up to 4,000 pounds of weight. More weight causes the object to fall. Otherwise, a creature can use an :rsc-action: **Action** to make a Strength check against your spell save DC. On a success, the creature can move the object up to 10 feet.***At Higher Levels.*** If you cast this spell using a spell slot of 4th or 5th level, the DC to move the object increases by 5, it can carry up to 8,000 pounds of weight, and the duration increases to 24 hours. If you cast this spell using a spell slot of 6th level or higher, the DC to move the object increases by 10, it can carry up to 20,000 pounds of weight, and the effect is permanent until dispelled.
 
 ### Invisibility
 *2nd-level illusion*
@@ -599,7 +599,7 @@ You touch a creature and can end either one disease or one condition afflicting 
 
 One creature or loose object of your choice that you can see within range rises vertically, up to 20 feet, and remains suspended there for the duration. The spell can levitate a target that weighs up to 500 pounds. An unwilling creature that succeeds on a Constitution Saving Throw is unaffected.
 
-The target can move only by pushing or pulling against a fixed object or surface within reach (such as a wall or a ceiling), which allows it to move as if it were climbing. You can change the target's altitude by up to 20 feet in either direction on your turn. If you are the target, you can move up or down as part of your move. Otherwise, you can use your action to move the target, which must remain within the spell's range.
+The target can move only by pushing or pulling against a fixed object or surface within reach (such as a wall or a ceiling), which allows it to move as if it were climbing. You can change the target's altitude by up to 20 feet in either direction on your turn. If you are the target, you can move up or down as part of your move. Otherwise, you can use your :rsc-action: **Action** to move the target, which must remain within the spell's range.
 
 When the spell ends, the target floats gently to the ground if it is still aloft.
 
@@ -663,11 +663,11 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 
 You choose a 5-foot-square unoccupied space on the ground that you can see within range. A Medium hand made from compacted soil rises there and reaches for one creature you can see within 5 feet of it. The target must make a Strength Saving Throw. On a failed save, the target takes 2d6 bludgeoning damage and is restrained for the spell's duration.
 
-As an action, you can cause the hand to crush the restrained target, which must make a Strength Saving Throw. The target takes 2d6 bludgeoning damage on a failed save, or half as much damage on a successful one.
+As an :rsc-action: **Action**, you can cause the hand to crush the restrained target, which must make a Strength Saving Throw. The target takes 2d6 bludgeoning damage on a failed save, or half as much damage on a successful one.
 
 To break out, the restrained target can use its action to make a Strength check against your spell save DC. On a success, the target escapes and is no longer restrained by the hand.
 
-As an action, you can cause the hand to reach for a different creature or to move to a different unoccupied space within range. The hand releases a restrained target if you do either.
+As an :rsc-action: **Action**, you can cause the hand to reach for a different creature or to move to a different unoccupied space within range. The hand releases a restrained target if you do either.
 
 ### Melf's Acid Arrow
 *2nd-level evocation*
@@ -701,7 +701,7 @@ You reach into the mind of one creature you can see within range. The target mus
 **Components:** V, S  
 **Duration:** 1 minute
 
-Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it's impossible to track which image is real. You can use your action to dismiss the illusory duplicates.
+Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your :rsc-action: **Action**s, shifting position so it's impossible to track which image is real. You can use your :rsc-action: **Action** to dismiss the illusory duplicates.
 
 Each time a creature targets you with an attack during the spell's duration, roll a d20 to determine whether the attack instead targets one of your duplicates.
 
@@ -735,7 +735,7 @@ When a creature enters the spell's area for the first time on a turn or starts i
 
 A shapechanger makes its Saving Throw with disadvantage. If it fails, it also instantly reverts to its original form and can't assume a different form until it leaves the spell's light.
 
-On each of your turns after you cast this spell, you can use an action to move the beam up to 60 feet in any direction.
+On each of your turns after you cast this spell, you can use an :rsc-action: **Action** to move the beam up to 60 feet in any direction.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d10 for each slot level above 2nd.
 
@@ -859,7 +859,7 @@ At the end of each of the target's turns, it can make a Constitution Saving Thro
 **Components:** S, M (a vial of meltwater)  
 **Duration:** Instantaneous
 
-A burst of cold energy emanates from you in a 30-foot cone. Each creature in that area must make a Constitution Saving Throw. On a failed save, a creature takes 3d8 cold damage and is hindered by ice formations for 1 minute, or until it or another creature within reach of it uses an action to break away the ice. A creature hindered by ice has its speed reduced to 0. On a successful save, a creature takes half as much damage and isn't hindered by ice.
+A burst of cold energy emanates from you in a 30-foot cone. Each creature in that area must make a Constitution Saving Throw. On a failed save, a creature takes 3d8 cold damage and is hindered by ice formations for 1 minute, or until it or another creature within reach of it uses an :rsc-action: **Action** to break away the ice. A creature hindered by ice has its speed reduced to 0. On a successful save, a creature takes half as much damage and isn't hindered by ice.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, increase the cold damage by 1d8 for each slot level above 2nd.
 
@@ -913,7 +913,7 @@ For the duration, you see invisible creatures and objects as if they were visibl
 
 You weave together threads of shadow to create a sword of solidified gloom in your hand. This magic sword lasts until the spell ends. It counts as a simple melee weapon with which you are proficient. It deals 2d8 psychic damage on a hit and has the finesse, light, and thrown properties (range 20/60). In addition, when you use the sword to attack a target that is in dim light or darkness, you make the attack roll with advantage.
 
-If you drop the weapon or throw it, it dissipates at the end of the turn. Thereafter, while the spell persists, you can use a bonus action to cause the sword to reappear in your hand.
+If you drop the weapon or throw it, it dissipates at the end of the turn. Thereafter, while the spell persists, you can use a :rsc-bonus-action: **Bonus Action** to cause the sword to reappear in your hand.
 
 ***At Higher Levels.*** When you cast this spell using a 3rdor 4th-level spell slot, the damage increases to 3d8. When you cast it using a 5thor 6th-level spell slot, the damage increases to 4d8. When you cast it using a spell slot of 7th level or higher, the damage increases to 5d8.
 
@@ -995,7 +995,7 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 
 You create a floating, spectral weapon within range that lasts for the duration or until you cast this spell again. When you cast the spell, you can make a melee spell attack against a creature within 5 feet of the weapon. On a hit, the target takes force damage equal to 1d8 + your spellcasting ability modifier.
 
-As a bonus action on your turn, you can move the weapon up to 20 feet and repeat the attack against a creature within 5 feet of it.
+As a :rsc-bonus-action: **Bonus Action** on your turn, you can move the weapon up to 20 feet and repeat the attack against a creature within 5 feet of it.
 
 The weapon can take whatever form you choose. Clerics of deities who are associated with a particular weapon (as St. Cuthbert is known for his mace and Thor for his hammer) make this spell's effect resemble that weapon.
 
@@ -1065,7 +1065,7 @@ The creature is an ally to you and your companions. In combat, the creature shar
 **Components:** V  
 **Duration:** 1 round
 
-You psychically lash out at one creature you can see within range. The target must make an Intelligence Saving Throw. On a failed save, the target takes 3d6 psychic damage, and it can't take a reaction until the end of its next turn. Moreover, on its next turn, it must choose whether it gets a move, an action, or a bonus action; it gets only one of the three. On a successful save, the target takes half as much damage and suffers none of the spell's other effects.
+You psychically lash out at one creature you can see within range. The target must make an Intelligence Saving Throw. On a failed save, the target takes 3d6 psychic damage, and it can't take a :rsc-reaction: **Reaction** until the end of its next turn. Moreover, on its next turn, it must choose whether it gets a move, an :rsc-action: **Action**, or a :rsc-bonus-action: **Bonus Action**; it gets only one of the three. On a successful save, the target takes half as much damage and suffers none of the spell's other effects.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd. The creatures must be within 30 feet of each other when you target them.
 
@@ -1091,7 +1091,7 @@ You magically twist space around another creature you can see within range. The 
 
 This spell wards a willing creature you touch and creates a mystic connection between you and the target until the spell ends. While the target is within 60 feet of you, it gains a +1 bonus to AC and Saving Throws, and it has resistance to all damage. Also, each time it takes damage, you take the same amount of damage.
 
-The spell ends if you drop to 0 hit points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures. You can also dismiss the spell as an action.
+The spell ends if you drop to 0 hit points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures. You can also dismiss the spell as an :rsc-action: **Action**.
 
 ### Warding Wind
 *2nd-level evocation*
@@ -1121,7 +1121,7 @@ The attack rolls of ranged weapon attacks have disadvantage if the attacks pass 
 
 For the duration, you sense the presence of portals, even inactive ones, within 30 feet of yourself.
 
-If you detect a portal in this way, you can use your action to study it. Make a DC 15 ability check using your spellcasting ability. On a successful check, you learn the destination plane of the portal and what portal key it requires, then the spell ends. On a failed check, you learn nothing and can't study that portal again using this spell until you cast it again.
+If you detect a portal in this way, you can use your :rsc-action: **Action** to study it. Make a DC 15 ability check using your spellcasting ability. On a successful check, you learn the destination plane of the portal and what portal key it requires, then the spell ends. On a failed check, you learn nothing and can't study that portal again using this spell until you cast it again.
 
 The spell can penetrate most barriers but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 

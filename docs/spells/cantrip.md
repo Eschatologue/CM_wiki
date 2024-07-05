@@ -65,7 +65,7 @@ You choose nonmagical flame that you can see within range and that fits within a
 - You double or halve the area of bright light and dim light cast by the flame, change its color, or both. The change lasts for 1 hour.  
 - You cause simple shapes—such as the vague form of a creature, an inanimate object, or a location—to appear within the flames and animate as you like. The shapes last for 1 hour.
 
-If you cast this spell multiple times, you can have up to three non-instantaneous effects created by it active at a time, and you can dismiss such an effect as an action.
+If you cast this spell multiple times, you can have up to three non-instantaneous effects created by it active at a time, and you can dismiss such an effect as an :rsc-action: **Action**.
 
 ### Cosmic Flare
 *Conjuration Cantrip*
@@ -103,7 +103,7 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 
 You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 10-foot radius.
 
-As a bonus action on your turn, you can move the lights up to 60 feet to a new spot within range. A light must be within 20 feet of another light created by this spell, and a light winks out if it exceeds the spell's range.
+As a :rsc-bonus-action: **Bonus Action** on your turn, you can move the lights up to 60 feet to a new spot within range. A light must be within 20 feet of another light created by this spell, and a light winks out if it exceeds the spell's range.
 
 ### Druidcraft
 *Transmutation cantrip*
@@ -236,7 +236,7 @@ The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (
 **Components:** V, M (a firefly or phosphorescent moss)  
 **Duration:** 1 hour
 
-You touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action.
+You touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an :rsc-action: **Action**.
 
 If you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity Saving Throw to avoid the spell.
 
@@ -260,9 +260,9 @@ This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level 
 **Components:** V, S  
 **Duration:** 1 minute
 
-A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.
+A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an :rsc-action: **Action**. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.
 
-You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.
+You can use your :rsc-action: **Action** to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.
 
 The hand can't attack, activate magic items, or carry more than 10 pounds.
 
@@ -322,7 +322,7 @@ This spell's damage increases by 1d6 when you reach certain levels: 5th level (2
 **Components:** S, M (a bit of fleece)  
 **Duration:** 1 minute
 
-You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again.
+You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an :rsc-action: **Action** or cast this spell again.
 
 If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else's voice, a lion's roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.
 
@@ -344,7 +344,7 @@ If you target an area of loose earth, you can instantaneously excavate it, move 
 You cause shapes, colors, or both to appear on the dirt or stone, spelling out words, creating images, or shaping patterns. The changes last for 1 hour.  
 If the dirt or stone you target is on the ground, you cause it to become difficult terrain. Alternatively, you can cause the ground to become normal terrain if it is already difficult terrain. This change lasts for 1 hour.
 
-If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
+If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an :rsc-action: **Action**.
 
 ### Poison Spray
 *Conjuration cantrip*
@@ -375,7 +375,7 @@ You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
 You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.  
 You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.
 
-If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
+If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an :rsc-action: **Action**.
 
 ### Primal Savagery
 *Transmutation cantrip*
@@ -397,9 +397,9 @@ The spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level
 **Components:** V, S  
 **Duration:** 10 minutes
 
-A flickering flame appears in your hand. The flame remains there for the duration and harms neither you nor your equipment. The flame sheds bright light in a 10-foot radius and dim light for an additional 10 feet. The spell ends if you dismiss it as an action or if you cast it again.
+A flickering flame appears in your hand. The flame remains there for the duration and harms neither you nor your equipment. The flame sheds bright light in a 10-foot radius and dim light for an additional 10 feet. The spell ends if you dismiss it as an :rsc-action: **Action** or if you cast it again.
 
-You can also attack with the flame, although doing so ends the spell. When you cast this spell, or as an action on a later turn, you can hurl the flame at a creature within 30 feet of you. Make a ranged spell attack. On a hit, the target takes 1d8 fire damage.
+You can also attack with the flame, although doing so ends the spell. When you cast this spell, or as an :rsc-action: **Action** on a later turn, you can hurl the flame at a creature within 30 feet of you. Make a ranged spell attack. On a hit, the target takes 1d8 fire damage.
 
 This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
@@ -452,7 +452,7 @@ You cause the water to form into simple shapes and animate at your direction. Th
 You change the water's color or opacity. The water must be changed in the same way throughout. This change lasts for 1 hour.  
 You freeze the water, provided that there are no creatures in it. The water unfreezes in 1 hour.
 
-If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
+If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an :rsc-action: **Action**.
 
 ### Shillelagh
 *Transmutation cantrip*
@@ -515,7 +515,7 @@ You create an instantaneous sound that originates from a point of your choice wi
 You instantaneously cause an unlocked door or window to fly open or slam shut.  
 You alter the appearance of your eyes for 1 minute.
 
-If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.
+If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an :rsc-action: **Action**.
 
 ### Thorn Whip
 *Transmutation cantrip*

@@ -12,7 +12,7 @@ icon: material/roman-numeral-3
 
 This spell creates an undead servant. Choose a pile of bones or a corpse of a Medium or Small humanoid within range. Your spell imbues the target with a foul mimicry of life, raising it as an undead creature. The target becomes a **skeleton** if you chose bones or a **zombie** if you chose a corpse (the DM has the creature's game statistics).
 
-On each of your turns, you can use a bonus action to mentally command any creature you made with this spell if the creature is within 60 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.
+On each of your turns, you can use a :rsc-bonus-action: **Bonus Action** to mentally command any creature you made with this spell if the creature is within 60 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.
 
 The creature is under your control for 24 hours, after which it stops obeying any command you've given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature again before the current 24-hour period ends. This use of the spell reasserts your control over up to four creatures you have animated with this spell, rather than animating a new one.
 
@@ -26,7 +26,7 @@ The creature is under your control for 24 hours, after which it stops obeying an
 **Components:** V, S, M (a playing card depicting a rogue)  
 **Duration:** Instantaneous
 
-You whisper magical words that antagonize one creature of your choice within range. The target must make a Wisdom Saving Throw. On a failed save, the target takes 4d4 psychic damage and must immediately use its reaction to make a melee attack against another creature of your choice that you can see. If the target can't make this attack (for example, because there is no one within its reach or because its reaction is unavailable), the target instead has disadvantage on the next attack roll it makes before the start of your next turn. On a successful save, the target takes half as much damage only.
+You whisper magical words that antagonize one creature of your choice within range. The target must make a Wisdom Saving Throw. On a failed save, the target takes 4d4 psychic damage and must immediately use its :rsc-reaction: **Reaction** to make a melee attack against another creature of your choice that you can see. If the target can't make this attack (for example, because there is no one within its reach or because its :rsc-reaction: **Reaction** is unavailable), the target instead has disadvantage on the next attack roll it makes before the start of your next turn. On a successful save, the target takes half as much damage only.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d4 for each slot level above 3rd.
 
@@ -52,7 +52,7 @@ When you move within 5 feet of a creature or an object that isn't being worn or 
 **Components:** V  
 **Duration:** Concentration, up to 1 minute
 
-Healing energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. You can use a bonus action to cause one creature in the aura (including you) to regain 2d6 hit points.
+Healing energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. You can use a :rsc-bonus-action: **Bonus Action** to cause one creature in the aura (including you) to regain 2d6 hit points.
 
 ### Beacon of Hope
 *3rd-level abjuration*
@@ -103,7 +103,7 @@ A creature blinded by this spell makes another Constitution Saving Throw at the 
 **Components:** V, S  
 **Duration:** 1 minute
 
-Roll a d20 at the end of each of your turns for the duration of the spell. On a roll of 11 or higher, you vanish from your current plane of existence and appear in the Ethereal Plane (the spell fails and the casting is wasted if you were already on that plane). At the start of your next turn, and when the spell ends if you are on the Ethereal Plane, you return to an unoccupied space of your choice that you can see within 10 feet of the space you vanished from. If no unoccupied space is available within that range, you appear in the nearest unoccupied space (chosen at random if more than one space is equally near). You can dismiss this spell as an action.
+Roll a d20 at the end of each of your turns for the duration of the spell. On a roll of 11 or higher, you vanish from your current plane of existence and appear in the Ethereal Plane (the spell fails and the casting is wasted if you were already on that plane). At the start of your next turn, and when the spell ends if you are on the Ethereal Plane, you return to an unoccupied space of your choice that you can see within 10 feet of the space you vanished from. If no unoccupied space is available within that range, you appear in the nearest unoccupied space (chosen at random if more than one space is equally near). You can dismiss this spell as an :rsc-action: **Action**.
 
 While on the Ethereal Plane, you can see and hear the plane you originated from, which is cast in shades of gray, and you can't see anything there more than 60 feet away. You can only affect and be affected by other creatures on the Ethereal Plane. Creatures that aren't there can't perceive you or interact with you, unless they have the ability to do so.
 
@@ -117,7 +117,7 @@ While on the Ethereal Plane, you can see and hear the plane you originated from,
 
 A storm cloud appears in the shape of a cylinder that is 10 feet tall with a 60-foot radius, centered on a point you can see within range directly above you. The spell fails if you can't see a point in the air where the storm cloud could appear (for example, if you are in a room that can't accommodate the cloud).
 
-When you cast the spell, choose a point you can see under the cloud. A bolt of lightning flashes down from the cloud to that point. Each creature within 5 feet of that point must make a Dexterity Saving Throw. A creature takes 3d10 lightning damage on a failed save, or half as much damage on a successful one. On each of your turns until the spell ends, you can use your action to call down lightning in this way again, targeting the same point or a different one.
+When you cast the spell, choose a point you can see under the cloud. A bolt of lightning flashes down from the cloud to that point. Each creature within 5 feet of that point must make a Dexterity Saving Throw. A creature takes 3d10 lightning damage on a failed save, or half as much damage on a successful one. On each of your turns until the spell ends, you can use your :rsc-action: **Action** to call down lightning in this way again, targeting the same point or a different one.
 
 If you are outdoors in stormy conditions when you cast this spell, the spell gives you control over the existing storm instead of creating a new one. Under such conditions, the spell's damage increases by 1d10.
 
@@ -131,7 +131,7 @@ If you are outdoors in stormy conditions when you cast this spell, the spell giv
 **Components:** S, M (a pinch of sand)  
 **Duration:** 10 minutes
 
-You make a calming gesture, and up to three willing creatures of your choice that you can see within range fall unconscious for the spell's duration. The spell ends on a target early if it takes damage or someone uses an action to shake or slap it awake. If a target remains unconscious for the full duration, that target gains the benefit of a short rest, and it can't be affected by this spell again until it finishes a long rest.
+You make a calming gesture, and up to three willing creatures of your choice that you can see within range fall unconscious for the spell's duration. The spell ends on a target early if it takes damage or someone uses an :rsc-action: **Action** to shake or slap it awake. If a target remains unconscious for the full duration, that target gains the benefit of a short rest, and it can't be affected by this spell again until it finishes a long rest.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, you can target one additional willing creature for each slot level above 3rd.
 
@@ -145,7 +145,7 @@ You make a calming gesture, and up to three willing creatures of your choice tha
 
 You create an invisible sensor within range in a location familiar to you (a place you have visited or seen before) or in an obvious location that is unfamiliar to you (such as behind a door, around a corner, or in a grove of trees). The sensor remains in place for the duration, and it can't be attacked or otherwise interacted with.
 
-When you cast the spell, you choose seeing or hearing. You can use the chosen sense through the sensor as if you were in its space. As your action, you can switch between seeing and hearing.
+When you cast the spell, you choose seeing or hearing. You can use the chosen sense through the sensor as if you were in its space. As your :rsc-action: **Action**, you can switch between seeing and hearing.
 
 A creature that can see the sensor (such as a creature benefiting from *see invisibility* or truesight) sees a luminous, intangible orb about the size of your fist.
 
@@ -314,7 +314,7 @@ While frightened by this spell, a creature must take the Dash action and move aw
 
 You touch a willing creature and put it into a cataleptic state that is indistinguishable from death.
 
-For the spell's duration, or until you use an action to touch the target and dismiss the spell, the target appears dead to all outward inspection and to spells used to determine the target's status. The target is blinded and incapacitated, and its speed drops to 0. The target has resistance to all damage except psychic damage. If the target is diseased or poisoned when you cast the spell, or becomes diseased or poisoned while under the spell's effect, the disease and poison have no effect until the spell ends.
+For the spell's duration, or until you use an :rsc-action: **Action** to touch the target and dismiss the spell, the target appears dead to all outward inspection and to spells used to determine the target's status. The target is blinded and incapacitated, and its speed drops to 0. The target has resistance to all damage except psychic damage. If the target is diseased or poisoned when you cast the spell, or becomes diseased or poisoned while under the spell's effect, the disease and poison have no effect until the spell ends.
 
 ### Fireball
 *3rd-level evocation*
@@ -426,7 +426,7 @@ The void creates a warp in the fabric of space, and the area is difficult terrai
 
 You create a twisting pattern of colors that weaves through the air inside a 30-foot cube within range. The pattern appears for a moment and vanishes. Each creature in the area who sees the pattern must make a Wisdom Saving Throw. On a failed save, the creature becomes charmed for the duration. While charmed by this spell, the creature is incapacitated and has a speed of 0.
 
-The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor.
+The spell ends for an affected creature if it takes any damage or if someone else uses an :rsc-action: **Action** to shake the creature out of its stupor.
 
 ### Incite Greed
 *3rd-level enchantment*
@@ -538,7 +538,7 @@ When you cast this spell, you can elect to cause its magic to operate in the rev
 
 You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 20-foot cube. The image appears at a spot that you can see within range and lasts for the duration. It seems completely real, including sounds, smells, and temperature appropriate to the thing depicted. You can't create sufficient heat or cold to cause damage, a sound loud enough to deal thunder damage or deafen a creature, or a smell that might sicken a creature (like a **troglodyte's** stench).
 
-As long as you are within range of the illusion, you can use your action to cause the image to move to any other spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking. Similarly, you can cause the illusion to make different sounds at different times, even making it carry on a conversation, for example.
+As long as you are within range of the illusion, you can use your :rsc-action: **Action** to cause the image to move to any other spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking. Similarly, you can cause the illusion to make different sounds at different times, even making it carry on a conversation, for example.
 
 Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and its other sensory qualities become faint to the creature.
 
@@ -578,7 +578,7 @@ Minor physical damage to the stone doesn't harm you, but its partial destruction
 **Components:** V, S, M (niter, sulfur, and pine tar formed into a bead)  
 **Duration:** Concentration, up to 10 minutes
 
-You create six tiny meteors in your space. They float in the air and orbit you for the spell's duration. When you cast the spell—and as a bonus action on each of your turns thereafter—you can expend one or two of the meteors, sending them streaking toward a point or points you choose within 120 feet of you. Once a meteor reaches its destination or impacts against a solid surface, the meteor explodes. Each creature within 5 feet of the point where the meteor explodes must make a Dexterity Saving Throw. A creature takes 2d6 fire damage on a failed save, or half as much damage on a successful one.
+You create six tiny meteors in your space. They float in the air and orbit you for the spell's duration. When you cast the spell—and as a :rsc-bonus-action: **Bonus Action** on each of your turns thereafter—you can expend one or two of the meteors, sending them streaking toward a point or points you choose within 120 feet of you. Once a meteor reaches its destination or impacts against a solid surface, the meteor explodes. Each creature within 5 feet of the point where the meteor explodes must make a Dexterity Saving Throw. A creature takes 2d6 fire damage on a failed save, or half as much damage on a successful one.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the number of meteors created increases by two for each slot level above 3rd.
 
@@ -614,7 +614,7 @@ For the duration, you hide a target that you touch from divination magic. The ta
 
 A Large quasi-real, horselike creature appears on the ground in an unoccupied space of your choice within range. You decide the creature's appearance, but it is equipped with a saddle, bit, and bridle. Any of the equipment created by the spell vanishes in a puff of smoke if it is carried more than 10 feet away from the steed.
 
-For the duration, you or a creature you choose can ride the steed. The creature uses the statistics for a **riding horse**, except it has a speed of 100 feet and can travel 10 miles in an hour, or 13 miles at a fast pace. When the spell ends, the steed gradually fades, giving the rider 1 minute to dismount. The spell ends if you use an action to dismiss it or if the steed takes any damage.
+For the duration, you or a creature you choose can ride the steed. The creature uses the statistics for a **riding horse**, except it has a speed of 100 feet and can travel 10 miles in an hour, or 13 miles at a fast pace. When the spell ends, the steed gradually fades, giving the rider 1 minute to dismount. The spell ends if you use an :rsc-action: **Action** to dismiss it or if the steed takes any damage.
 
 ### Plant Growth
 *3rd-level transmutation*
@@ -724,7 +724,7 @@ If a creature starts its turn in the spell's area and is concentrating on a spel
 
 You alter time around up to six creatures of your choice in a 40-foot cube within range. Each target must succeed on a Wisdom Saving Throw or be affected by this spell for the duration.
 
-An affected target's speed is halved, it takes a −2 penalty to AC and Dexterity Saving Throws, and it can't use reactions. On its turn, it can use either an action or a bonus action, not both. Regardless of the creature's abilities or magic items, it can't make more than one melee or ranged attack during its turn.
+An affected target's speed is halved, it takes a −2 penalty to AC and Dexterity Saving Throws, and it can't use reactions. On its turn, it can use either an :rsc-action: **Action** or a :rsc-bonus-action: **Bonus Action**, not both. Regardless of the creature's abilities or magic items, it can't make more than one melee or ranged attack during its turn.
 
 If the creature attempts to cast a spell with a casting time of :rsc-action: **Action**, roll a d20. On an 11 or higher, the spell doesn't take effect until the creature's next turn, and the creature must use its action on that turn to complete the spell. If it can't, the spell is wasted.
 
@@ -904,7 +904,7 @@ You conjure up a wave of water that crashes down on an area within range. The ar
 
 You touch one Tiny, nonmagical object that isn't attached to another object or a surface and isn't being carried by another creature. The target animates and sprouts little arms and legs, becoming a creature under your control until the spell ends or the creature drops to 0 hit points. See the **stat block** for its statistics.
 
-As a bonus action, you can mentally command the creature if it is within 120 feet of you. (If you control multiple creatures with this spell, you can command any or all of them at the same time, issuing the same command to each one.) You decide what action the creature will take and where it will move during its next turn, or you can issue a simple, general command, such as to fetch a key, stand watch, or stack some books. If you issue no commands, the servant does nothing other than defend itself against hostile creatures. Once given an order, the servant continues to follow that order until its task is complete.
+As a :rsc-bonus-action: **Bonus Action**, you can mentally command the creature if it is within 120 feet of you. (If you control multiple creatures with this spell, you can command any or all of them at the same time, issuing the same command to each one.) You decide what action the creature will take and where it will move during its next turn, or you can issue a simple, general command, such as to fetch a key, stand watch, or stack some books. If you issue no commands, the servant does nothing other than defend itself against hostile creatures. Once given an order, the servant continues to follow that order until its task is complete.
 
 When the creature drops to 0 hit points, it reverts to its original form, and any remaining damage carries over to that form.
 
@@ -928,7 +928,7 @@ This spell grants the creature you touch the ability to understand any spoken la
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-The touch of your shadow-wreathed hand can siphon life force from others to heal your wounds. Make a melee spell attack against a creature within your reach. On a hit, the target takes 3d6 necrotic damage, and you regain hit points equal to half the amount of necrotic damage dealt. Until the spell ends, you can make the attack again on each of your turns as an action.
+The touch of your shadow-wreathed hand can siphon life force from others to heal your wounds. Make a melee spell attack against a creature within your reach. On a hit, the target takes 3d6 necrotic damage, and you regain hit points equal to half the amount of necrotic damage dealt. Until the spell ends, you can make the attack again on each of your turns as an :rsc-action: **Action**.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 

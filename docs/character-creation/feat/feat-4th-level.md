@@ -79,7 +79,7 @@ You have learned to channel your magic through a deck of cards.
     
     When you finish a long rest, you can choose two spell from your class's spell list and imbue those spell into cards. The chosen spell must have a casting time of 1 action, and it must be a level for which you have spell slots. The card remains imbued with this spell for 8 hours. 
     
-    While the card is imbued with the spell, you can use a bonus action to flourish the card and cast the spell within. The card then immediately loses its magic.
+    While the card is imbued with the spell, you can use a :rsc-bonus-action: **Bonus Action** to flourish the card and cast the spell within. The card then immediately loses its magic.
     
 ### Crossbow Expert
 *4th-level Feat*
@@ -119,7 +119,7 @@ You’ve learned to deftly parry attacks, granting you the following benefits:
     
 - **Parry**
     
-    If you are holding a Finesse Weapon and another creature hits you with a Melee Attack, you can use your Reaction to add your Proficiency Bonus to your Armour Class for that attack, potentially causing the attack to miss you.
+    If you are holding a Finesse Weapon and another creature hits you with a Melee Attack, you can use your :rsc-reaction: **Reaction** to add your Proficiency Bonus to your Armour Class for that attack, potentially causing the attack to miss you.
 
 ### Dual Wielder
 *4th-level Feat*
@@ -179,7 +179,7 @@ You’ve learned to cannibalize the power of your spells to reinvigorate your al
     
 - **Weave to Life**
     
-    As a bonus action, you can expend a spell slot of 1st level or higher to heal yourself or an ally within 30 feet. The number of hit points healed equals the level of the expended slot. In addition, the target gains temporary hit points equal to your spellcasting ability modifier. You must finish a long rest before you can use Weave to Life again
+    As a :rsc-bonus-action: **Bonus Action**, you can expend a spell slot of 1st level or higher to heal yourself or an ally within 30 feet. The number of hit points healed equals the level of the expended slot. In addition, the target gains temporary hit points equal to your spellcasting ability modifier. You must finish a long rest before you can use Weave to Life again
     
 - **Soothing Magic**
     
@@ -254,7 +254,7 @@ You’ve developed the ability to instantly recall an unprepared spell in moment
     
 - **Compartmentalize**
     
-    As an action, you can instantly prepare a spell from your available class spell list (or spellbook, if you prepare spells from one) that you did not have prepared. This spell choice must be of a level for which you have spell slots. You then lose preparation of a different spell of your choice of equal or higher spell level. 
+    As an :rsc-action: **Action**, you can instantly prepare a spell from your available class spell list (or spellbook, if you prepare spells from one) that you did not have prepared. This spell choice must be of a level for which you have spell slots. You then lose preparation of a different spell of your choice of equal or higher spell level. 
     
     If you are multiclassed, you can only Flash Recall spells from a class that prepares spells. Once you use this ability, you must finish a short or long rest before you can use it again.
 
@@ -327,7 +327,7 @@ You have a quick hand and keen eye when employing firearms, granting you the fol
     
 - **Quickshot**
     
-    Immediately after initiative is rolled, you can use your reaction to make a single weapon attack with your firearm.
+    Immediately after initiative is rolled, you can use your :rsc-reaction: **Reaction** to make a single weapon attack with your firearm.
 
 ### Heavy Armour Master
 *4th-level Feat*
@@ -578,7 +578,7 @@ You have developed a bond with your mounts, granting you the following benefits:
 
 - **Veer** 
 
-    While mounted, you can use your Reaction to force an attack that hits your mount to hit you instead.
+    While mounted, you can use your :rsc-reaction: **Reaction** to force an attack that hits your mount to hit you instead.
 
 ### Piercer
 *4th-level Feat*
@@ -621,7 +621,7 @@ Keeping foes just out of range is your specialty. You gain the following benefit
     
 - **Reactive Strike**
     
-    While you are holding a Glaive, Halberd, Pike, Quarterstaff or Spear, you can use your Reaction to make one Melee Attack against a creature that enters the Reach you have with that Weapon.
+    While you are holding a Glaive, Halberd, Pike, Quarterstaff or Spear, you can use your :rsc-reaction: **Reaction** to make one Melee Attack against a creature that enters the Reach you have with that Weapon.
 
 ### Remarkable Recovery
 *4th-level Feat*
@@ -742,7 +742,7 @@ You’ve trained to use shields not just for protection, but also for offense, g
     
 - **Interpose Shield**
     
-    If you are subjected to an effect that allows you to make a Dexterity :d20-save: **Saving Throw** to take only half damage, you can use your Reaction to take no damage if you succeed on the :d20-save: **Saving Throw** and are wielding a Shield, interposing your shield between yourself and the source of the effect.
+    If you are subjected to an effect that allows you to make a Dexterity :d20-save: **Saving Throw** to take only half damage, you can use your :rsc-reaction: **Reaction** to take no damage if you succeed on the :d20-save: **Saving Throw** and are wielding a Shield, interposing your shield between yourself and the source of the effect.
 
 ### Skill Expert
 *4th-level Feat*
@@ -826,7 +826,7 @@ You possess exceptional speed and stamina, granting you the following benefits:
     
 - **Focused Sprint**
     
-    When you take the Dash Action (or as a bonus action) on your turn, Difficult Terrain doesn’t cost you extra movement for the rest of that turn, and attacks of opportunity have :d20-disadv: **Disdvantage** against you.
+    When you take the Dash Action (or as a :rsc-bonus-action: **Bonus Action**) on your turn, Difficult Terrain doesn’t cost you extra movement for the rest of that turn, and attacks of opportunity have :d20-disadv: **Disdvantage** against you.
 
 ### Spell Sniper
 *4th-level Feat*
@@ -890,7 +890,7 @@ One-handed weapons and blades are an extension of your arm, graceful as the wind
     
 - **Limited Telekinesis**
     
-    As a bonus action, you can try to telekinetically shove one creature you can see within 30 feet of you. When you do so, the target must succeed on a Strength :d20-save: **Saving Throw** (DC 8 + your Proficiency Bonus + the ability modifier of the score increased by this feat) or be moved 5 feet toward you or away from you. A creature can willingly fail this save.
+    As a :rsc-bonus-action: **Bonus Action**, you can try to telekinetically shove one creature you can see within 30 feet of you. When you do so, the target must succeed on a Strength :d20-save: **Saving Throw** (DC 8 + your Proficiency Bonus + the ability modifier of the score increased by this feat) or be moved 5 feet toward you or away from you. A creature can willingly fail this save.
 
 ### Telekinetic
 *4th-level Feat*
@@ -963,7 +963,7 @@ You have practiced casting spells in the midst of combat, learning techniques th
     
 - **Reactive Spell**
     
-    When a creature provokes an :rsc-reaction:**Opportunity Attack** from you by moving out of your Reach, you can use your Reaction to cast a Spell at the creature, rather than making an Opportunity Attack. The Spell must have a casting time of one Action and must target only that creature.
+    When a creature provokes an :rsc-reaction:**Opportunity Attack** from you by moving out of your Reach, you can use your :rsc-reaction: **Reaction** to cast a Spell at the creature, rather than making an Opportunity Attack. The Spell must have a casting time of one Action and must target only that creature.
 
 ### Weapon Training
 *4th-level Feat*

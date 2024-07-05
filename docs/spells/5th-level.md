@@ -12,7 +12,7 @@ icon: material/roman-numeral-5
 
 Objects come to life at your command. Choose up to ten nonmagical objects within range that are not being worn or carried. Medium targets count as two objects, Large targets count as four objects, Huge targets count as eight objects. You can't animate any object larger than Huge. Each target animates and becomes a creature under your control until the spell ends or until reduced to 0 hit points.
 
-As a bonus action, you can mentally command any creature you made with this spell if the creature is within 500 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.
+As a :rsc-bonus-action: **Bonus Action**, you can mentally command any creature you made with this spell if the creature is within 500 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.
 
 #### Animated Object Statistics
 | Size       |  HP |  AC | Attack                     | Str | Dex |
@@ -77,13 +77,13 @@ You create a Large hand of shimmering, translucent force in an unoccupied space 
 
 The hand is an object that has AC 20 and hit points equal to your hit point maximum. If it drops to 0 hit points, the spell ends. It has a Strength of 26 (+8) and a Dexterity of 10 (+0). The hand doesn't fill its space.
 
-When you cast the spell and as a bonus action on your subsequent turns, you can move the hand up to 60 feet and then cause one of the following effects with it.
+When you cast the spell and as a :rsc-bonus-action: **Bonus Action** on your subsequent turns, you can move the hand up to 60 feet and then cause one of the following effects with it.
 
 ***Clenched Fist.*** The hand strikes one creature or object within 5 feet of it. Make a melee spell attack for the hand using your game statistics. On a hit, the target takes 4d8 force damage.
 
 ***Forceful Hand.*** The hand attempts to push a creature within 5 feet of it in a direction you choose. Make a check with the hand's Strength contested by the Strength (Athletics) check of the target. If the target is Medium or smaller, you have advantage on the check. If you succeed, the hand pushes the target up to 5 feet plus a number of feet equal to five times your spellcasting ability modifier. The hand moves with the target to remain within 5 feet of it.
 
-***Grasping Hand.*** The hand attempts to grapple a Huge or smaller creature within 5 feet of it. You use the hand's Strength score to resolve the grapple. If the target is Medium or smaller, you have advantage on the check. While the hand is grappling the target, you can use a bonus action to have the hand crush it. When you do so, the target takes bludgeoning damage equal to 2d6 + your spellcasting ability modifier.
+***Grasping Hand.*** The hand attempts to grapple a Huge or smaller creature within 5 feet of it. You use the hand's Strength score to resolve the grapple. If the target is Medium or smaller, you have advantage on the check. While the hand is grappling the target, you can use a :rsc-bonus-action: **Bonus Action** to have the hand crush it. When you do so, the target takes bludgeoning damage equal to 2d6 + your spellcasting ability modifier.
 
 ***Interposing Hand.*** The hand interposes itself between you and a creature you choose until you give the hand a different command. The hand moves to stay between you and the target, providing you with half cover against the target. The target can't move through the hand's space if its Strength score is less than or equal to the hand's Strength score. If its Strength score is higher than the hand's Strength score, the target can move toward you through the hand's space, but that space is difficult terrain for the target.
 
@@ -237,7 +237,7 @@ Since this spell induces a natural disease in its target, any effect that remove
 **Components:** V, S  
 **Duration:** Concentration, up to 1 hour
 
-You take control of the air in a 100-foot cube that you can see within range. Choose one of the following effects when you cast the spell. The effect lasts for the spell's duration, unless you use your action on a later turn to switch to a different effect. You can also use your action to temporarily halt the effect or to restart one you've halted.
+You take control of the air in a 100-foot cube that you can see within range. Choose one of the following effects when you cast the spell. The effect lasts for the spell's duration, unless you use your :rsc-action: **Action** on a later turn to switch to a different effect. You can also use your :rsc-action: **Action** to temporarily halt the effect or to restart one you've halted.
 
 ***Gusts.*** A wind picks up within the cube, continually blowing in a horizontal direction you designate. You choose the intensity of the wind: calm, moderate, or strong. If the wind is moderate or strong, ranged weapon attacks that pass through it or that are made against targets within the cube have disadvantage on their attack rolls. If the wind is strong, any creature moving against the wind must spend 1 extra foot of movement for each foot moved.
 
@@ -290,7 +290,7 @@ Using any material created by this spell as another spell's material component c
 
 Threads of dark power leap from your fingers to pierce up to five Small or Medium corpses you can see within range. Each corpse immediately stands up and becomes undead. You decide whether it is a **zombie** or a **skeleton** (the statistics for **zombies** and **skeletons** are in the Monster Manual), and it gains a bonus to its attack and damage rolls equal to your spellcasting ability modifier.
 
-You can use a bonus action to mentally command the creatures you make with this spell, issuing the same command to all of them. To receive the command, a creature must be within 60 feet of you. You decide what action the creatures will take and where they will move during their next turn, or you can issue a general command, such as to guard a chamber or passageway against your foes. If you issue no commands, the creatures do nothing except defend themselves against hostile creatures. Once given an order, the creatures continue to follow it until their task is complete.
+You can use a :rsc-bonus-action: **Bonus Action** to mentally command the creatures you make with this spell, issuing the same command to all of them. To receive the command, a creature must be within 60 feet of you. You decide what action the creatures will take and where they will move during their next turn, or you can issue a general command, such as to guard a chamber or passageway against your foes. If you issue no commands, the creatures do nothing except defend themselves against hostile creatures. Once given an order, the creatures continue to follow it until their task is complete.
 
 The creatures are under your control until the spell ends, after which they become inanimate once more.
 
@@ -308,7 +308,7 @@ The light of dawn shines down on a location you specify within range. Until the 
 
 When the cylinder appears, each creature in it must make a Constitution Saving Throw, taking 4d10 radiant damage on a failed save, or half as much damage on a successful one. A creature must also make this Saving Throw whenever it ends its turn in the cylinder.
 
-If you're within 60 feet of the cylinder, you can move it up to 60 feet as a bonus action on your turn.
+If you're within 60 feet of the cylinder, you can move it up to 60 feet as a :rsc-bonus-action: **Bonus Action** on your turn.
 
 ### Destructive Wave
 *5th-level evocation*
@@ -332,9 +332,9 @@ Shimmering energy surrounds and protects you from fey, undead, and creatures ori
 
 You can end the spell early by using either of the following special functions.
 
-***Break Enchantment.*** As your action, you touch a creature you can reach that is charmed, frightened, or possessed by a celestial, an elemental, a fey, a fiend, or an undead. The creature you touch is no longer charmed, frightened, or possessed by such creatures.
+***Break Enchantment.*** As your :rsc-action: **Action**, you touch a creature you can reach that is charmed, frightened, or possessed by a celestial, an elemental, a fey, a fiend, or an undead. The creature you touch is no longer charmed, frightened, or possessed by such creatures.
 
-***Dismissal.*** As your action, make a melee spell attack against a celestial, an elemental, a fey, a fiend, or an undead you can reach. On a hit, you attempt to drive the creature back to its home plane. The creature must succeed on a Charisma Saving Throw or be sent back to its home plane (if it isn't there already). If they aren't on their home plane, undead are sent to the Shadowfell, and fey are sent to the Feywild.
+***Dismissal.*** As your :rsc-action: **Action**, make a melee spell attack against a celestial, an elemental, a fey, a fiend, or an undead you can reach. On a hit, you attempt to drive the creature back to its home plane. The creature must succeed on a Charisma Saving Throw or be sent back to its home plane (if it isn't there already). If they aren't on their home plane, undead are sent to the Shadowfell, and fey are sent to the Feywild.
 
 ### Dominate Person
 *5th-level enchantment*
@@ -348,7 +348,7 @@ You attempt to beguile a humanoid that you can see within range. It must succeed
 
 While the target is charmed, you have a telepathic link with it as long as the two of you are on the same plane of existence. You can use this telepathic link to issue commands to the creature while you are conscious (no action required), which it does its best to obey. You can specify a simple and general course of action, such as "Attack that creature," "Run over there," or "Fetch that object." If the creature completes the order and doesn't receive further direction from you, it defends and preserves itself to the best of its ability.
 
-You can use your action to take total and precise control of the target. Until the end of your next turn, the creature takes only the actions you choose, and doesn't do anything that you don't allow it to do. During this time you can also cause the creature to use a reaction, but this requires you to use your own reaction as well.
+You can use your :rsc-action: **Action** to take total and precise control of the target. Until the end of your next turn, the creature takes only the actions you choose, and doesn't do anything that you don't allow it to do. During this time you can also cause the creature to use a reaction, but this requires you to use your own :rsc-reaction: **Reaction** as well.
 
 Each time the target takes damage, it makes a new Wisdom Saving Throw against the spell. If the Saving Throw succeeds, the spell ends.
 
@@ -378,7 +378,7 @@ If you have a body part, lock of hair, clipping from a nail, or similar portion 
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-A tendril of inky darkness reaches out from you, touching a creature you can see within range to drain life from it. The target must make a Dexterity Saving Throw. On a successful save, the target takes 2d8 necrotic damage, and the spell ends. On a failed save, the target takes 4d8 necrotic damage, and until the spell ends, you can use your action on each of your turns to automatically deal 4d8 necrotic damage to the target. The spell ends if you use your action to do anything else, if the target is ever outside the spell's range, or if the target has total cover from you.
+A tendril of inky darkness reaches out from you, touching a creature you can see within range to drain life from it. The target must make a Dexterity Saving Throw. On a successful save, the target takes 2d8 necrotic damage, and the spell ends. On a failed save, the target takes 4d8 necrotic damage, and until the spell ends, you can use your :rsc-action: **Action** on each of your turns to automatically deal 4d8 necrotic damage to the target. The spell ends if you use your :rsc-action: **Action** to do anything else, if the target is ever outside the spell's range, or if the target has total cover from you.
 
 Whenever the spell deals damage to a target, you regain hit points equal to half the amount of necrotic damage the target takes.
 
@@ -392,7 +392,7 @@ Whenever the spell deals damage to a target, you regain hit points equal to half
 **Components:** V  
 **Duration:** Concentration, up to 1 minute
 
-You teleport up to 60 feet to an unoccupied space you can see. On each of your turns before the spell ends, you can use a bonus action to teleport in this way again.
+You teleport up to 60 feet to an unoccupied space you can see. On each of your turns before the spell ends, you can use a :rsc-bonus-action: **Bonus Action** to teleport in this way again.
 
 ### Flame Strike
 *5th-level evocation*
@@ -418,7 +418,7 @@ You place a magical command on a creature that you can see within range, forcing
 
 You can issue any command you choose, short of an activity that would result in certain death. Should you issue a suicidal command, the spell ends.
 
-You can end the spell early by using an action to dismiss it. A *remove curse*, *greater restoration*, or *wish* spell also ends it.
+You can end the spell early by using an :rsc-action: **Action** to dismiss it. A *remove curse*, *greater restoration*, or *wish* spell also ends it.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 7th or 8th level, the duration is 1 year. When you cast this spell using a spell slot of 9th level, the spell lasts until it is ended by one of the spells mentioned above.
 
@@ -493,7 +493,7 @@ Choose a creature that you can see within range. The target must succeed on a Wi
 
 You imbue a weapon you touch with holy power. Until the spell ends, the weapon emits bright light in a 30-foot radius and dim light for an additional 30 feet. In addition, weapon attacks made with it deal an extra 2d8 radiant damage on a hit. If the weapon isn't already a magic weapon, it becomes one for the duration.
 
-As a bonus action on your turn, you can dismiss this spell and cause the weapon to emit a burst of radiance. Each creature of your choice that you can see within 30 feet of the weapon must make a Constitution Saving Throw. On a failed save, a creature takes 4d8 radiant damage, and it is blinded for 1 minute. On a successful save, a creature takes half as much damage and isn't blinded. At the end of each of its turns, a blinded creature can make a Constitution Saving Throw, ending the effect on itself on a success.
+As a :rsc-bonus-action: **Bonus Action** on your turn, you can dismiss this spell and cause the weapon to emit a burst of radiance. Each creature of your choice that you can see within 30 feet of the weapon must make a Constitution Saving Throw. On a failed save, a creature takes 4d8 radiant damage, and it is blinded for 1 minute. On a successful save, a creature takes half as much damage and isn't blinded. At the end of each of its turns, a blinded creature can make a Constitution Saving Throw, ending the effect on itself on a success.
 
 ### Immolation
 *5th-level evocation*
@@ -585,9 +585,9 @@ A wave of healing energy washes out from a point of your choice within range. Ch
 
 You become invisible at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends if you attack or cast a spell.
 
-You can use your action to move your illusory double up to twice your speed and make it gesture, speak, and behave in whatever way you choose.
+You can use your :rsc-action: **Action** to move your illusory double up to twice your speed and make it gesture, speak, and behave in whatever way you choose.
 
-You can see through its eyes and hear through its ears as if you were located where it is. On each of your turns as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are blinded and deafened in regard to your own surroundings.
+You can see through its eyes and hear through its ears as if you were located where it is. On each of your turns as a :rsc-bonus-action: **Bonus Action**, you can switch from using its senses to using your own, or back again. While you are using its senses, you are blinded and deafened in regard to your own surroundings.
 
 ### Modify Memory
 *5th-level enchantment*
@@ -757,7 +757,7 @@ Instead of targeting a creature, you can choose a location you have seen before 
 
 This spell allows you to change the appearance of any number of creatures that you can see within range. You give each target you choose a new, illusory appearance. An unwilling target can make a Charisma Saving Throw, and if it succeeds, it is unaffected by this spell.
 
-The spell disguises physical appearance as well as clothing, armor, weapons, and equipment. You can make each creature seem 1 foot shorter or taller and appear thin, fat, or in between. You can't change a target's body type, so you must choose a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you. The spell lasts for the duration, unless you use your action to dismiss it sooner.
+The spell disguises physical appearance as well as clothing, armor, weapons, and equipment. You can make each creature seem 1 foot shorter or taller and appear thin, fat, or in between. You can't change a target's body type, so you must choose a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you. The spell lasts for the duration, unless you use your :rsc-action: **Action** to dismiss it sooner.
 
 The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to a creature's outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel the creature's head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.
 
@@ -825,7 +825,7 @@ The creature is an ally to you and your companions. In combat, the creature shar
 
 You transmute your quiver so it produces an endless supply of nonmagical ammunition, which seems to leap into your hand when you reach for it.
 
-On each of your turns until the spell ends, you can use a bonus action to make two attacks with a weapon that uses ammunition from the quiver. Each time you make such a ranged attack, your quiver magically replaces the piece of ammunition you used with a similar piece of nonmagical ammunition. Any pieces of ammunition created by this spell disintegrate when the spell ends. If the quiver leaves your possession, the spell ends.
+On each of your turns until the spell ends, you can use a :rsc-bonus-action: **Bonus Action** to make two attacks with a weapon that uses ammunition from the quiver. Each time you make such a ranged attack, your quiver magically replaces the piece of ammunition you used with a similar piece of nonmagical ammunition. Any pieces of ammunition created by this spell disintegrate when the spell ends. If the quiver leaves your possession, the spell ends.
 
 ### Synaptic Static
 *5th-level enchantment*
@@ -847,11 +847,11 @@ After a failed save, a target has muddled thoughts for 1 minute. During that tim
 **Components:** V, S  
 **Duration:** Concentration, up to 10 minutes
 
-You gain the ability to move or manipulate creatures or objects by thought. When you cast the spell, and as your action each round for the duration, you can exert your will on one creature or object that you can see within range, causing the appropriate effect below. You can affect the same target round after round, or choose a new one at any time. If you switch targets, the prior target is no longer affected by the spell.
+You gain the ability to move or manipulate creatures or objects by thought. When you cast the spell, and as your :rsc-action: **Action** each round for the duration, you can exert your will on one creature or object that you can see within range, causing the appropriate effect below. You can affect the same target round after round, or choose a new one at any time. If you switch targets, the prior target is no longer affected by the spell.
 
 ***Creature.*** You can try to move a Huge or smaller creature. Make an ability check with your spellcasting ability contested by the creature's Strength check. If you win the contest, you move the creature up to 30 feet in any direction, including upward but not beyond the range of this spell. Until the end of your next turn, the creature is restrained in your telekinetic grip. A creature lifted upward is suspended in mid-air.
 
-On subsequent rounds, you can use your action to attempt to maintain your telekinetic grip on the creature by repeating the contest.
+On subsequent rounds, you can use your :rsc-action: **Action** to attempt to maintain your telekinetic grip on the creature by repeating the contest.
 
 ***Object.*** You can try to move an object that weighs up to 1,000 pounds. If the object isn't being worn or carried, you automatically move it up to 30 feet in any direction, but not beyond the range of this spell.
 
@@ -885,11 +885,11 @@ You choose an area of stone or mud that you can see that fits within a 40-foot c
 
 ***Transmute Rock to Mud.*** Nonmagical rock of any sort in the area becomes an equal volume of thick, flowing mud that remains for the spell's duration.
 
-The ground in the spell's area becomes muddy enough that creatures can sink into it. Each foot that a creature moves through the mud costs 4 feet of movement, and any creature on the ground when you cast the spell must make a Strength Saving Throw. A creature must also make the Saving Throw when it moves into the area for the first time on a turn or ends its turn there. On a failed save, a creature sinks into the mud and is restrained, though it can use an action to end the restrained condition on itself by pulling itself free of the mud.
+The ground in the spell's area becomes muddy enough that creatures can sink into it. Each foot that a creature moves through the mud costs 4 feet of movement, and any creature on the ground when you cast the spell must make a Strength Saving Throw. A creature must also make the Saving Throw when it moves into the area for the first time on a turn or ends its turn there. On a failed save, a creature sinks into the mud and is restrained, though it can use an :rsc-action: **Action** to end the restrained condition on itself by pulling itself free of the mud.
 
 If you cast the spell on a ceiling, the mud falls. Any creature under the mud when it falls must make a Dexterity Saving Throw. A creature takes 4d8 bludgeoning damage on a failed save, or half as much damage on a successful one.
 
-***Transmute Mud to Rock.*** Nonmagical mud or quicksand in the area no more than 10 feet deep transforms into soft stone for the spell's duration. Any creature in the mud when it transforms must make a Dexterity Saving Throw. On a successful save, a creature is shunted safely to the surface in an unoccupied space. On a failed save, a creature becomes restrained by the rock. A restrained creature, or another creature within reach, can use an action to try to break the rock by succeeding on a DC 20 Strength check or by dealing damage to it. The rock has AC 15 and 25 hit points, and it is immune to poison and psychic damage.
+***Transmute Mud to Rock.*** Nonmagical mud or quicksand in the area no more than 10 feet deep transforms into soft stone for the spell's duration. Any creature in the mud when it transforms must make a Dexterity Saving Throw. On a successful save, a creature is shunted safely to the surface in an unoccupied space. On a failed save, a creature becomes restrained by the rock. A restrained creature, or another creature within reach, can use an :rsc-action: **Action** to try to break the rock by succeeding on a DC 20 Strength check or by dealing damage to it. The rock has AC 15 and 25 hit points, and it is immune to poison and psychic damage.
 
 ### Tree Stride
 *5th-level conjuration*
@@ -929,7 +929,7 @@ When the wall appears, each creature in its area must make a Constitution Saving
 
 A creature that ends its turn in the wall's area takes 4d8 radiant damage.
 
-Until the spell ends, you can use an action to launch a beam of radiance from the wall at one creature you can see within 60 feet of it. Make a ranged spell attack. On a hit, the target takes 4d8 radiant damage. Whether you hit or miss, reduce the length of the wall by 10 feet. If the wall's length drops to 0 feet, the spell ends.
+Until the spell ends, you can use an :rsc-action: **Action** to launch a beam of radiance from the wall at one creature you can see within 60 feet of it. Make a ranged spell attack. On a hit, the target takes 4d8 radiant damage. Whether you hit or miss, reduce the length of the wall by 10 feet. If the wall's length drops to 0 feet, the spell ends.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
 
@@ -943,7 +943,7 @@ Until the spell ends, you can use an action to launch a beam of radiance from th
 
 A nonmagical wall of solid stone springs into existence at a point you choose within range. The wall is 6 inches thick and is composed of ten 10-foot-by-10-foot panels. Each panel must be contiguous with at least one other panel. Alternatively, you can create 10-foot-by-20-foot panels that are only 3 inches thick.
 
-If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (your choice). If a creature would be surrounded on all sides by the wall (or the wall and another solid surface), that creature can make a Dexterity Saving Throw. On a success, it can use its reaction to move up to its speed so that it is no longer enclosed by the wall.
+If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (your choice). If a creature would be surrounded on all sides by the wall (or the wall and another solid surface), that creature can make a Dexterity Saving Throw. On a success, it can use its :rsc-reaction: **Reaction** to move up to its speed so that it is no longer enclosed by the wall.
 
 The wall can have any shape you desire, though it can't occupy the same space as a creature or object. The wall doesn't need to be vertical or rest on any firm foundation. It must, however, merge with and be solidly supported by existing stone. Thus, you can use this spell to bridge a chasm or create a ramp.
 
@@ -967,6 +967,6 @@ You call out to the spirits of nature to rouse them against your enemies. Choose
 
 ***Trees.*** At the start of each of your turns, each of your enemies within 10 feet of any tree in the cube must succeed on a Dexterity Saving Throw or take 4d6 slashing damage from whipping branches.
 
-***Roots and Vines.*** At the end of each of your turns, one creature of your choice that is on the ground in the cube must succeed on a Strength Saving Throw or become restrained until the spell ends. A restrained creature can use an action to make a Strength (Athletics) check against your spell save DC, ending the effect on itself on a success.
+***Roots and Vines.*** At the end of each of your turns, one creature of your choice that is on the ground in the cube must succeed on a Strength Saving Throw or become restrained until the spell ends. A restrained creature can use an :rsc-action: **Action** to make a Strength (Athletics) check against your spell save DC, ending the effect on itself on a success.
 
-***Rocks.*** As a bonus action on your turn, you can cause a loose rock in the cube to launch at a creature you can see in the cube. Make a ranged spell attack against the target. On a hit, the target takes 3d8 nonmagical bludgeoning damage, and it must succeed on a Strength Saving Throw or fall prone.
+***Rocks.*** As a :rsc-bonus-action: **Bonus Action** on your turn, you can cause a loose rock in the cube to launch at a creature you can see in the cube. Make a ranged spell attack against the target. On a hit, the target takes 3d8 nonmagical bludgeoning damage, and it must succeed on a Strength Saving Throw or fall prone.

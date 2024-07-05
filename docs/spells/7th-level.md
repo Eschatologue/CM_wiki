@@ -40,7 +40,7 @@ Any magen you create with this spell obeys your commands without question.
 **Components:** V, S  
 **Duration:** 1 hour
 
-Seven star-like motes of light appear and orbit your head until the spell ends. You can use a bonus action to send one of the motes streaking toward one creature or object within 120 feet of you. When you do so, make a ranged spell attack. On a hit, the target takes 4d12 radiant damage. Whether you hit or miss, the mote is expended. The spell ends early if you expend the last mote.
+Seven star-like motes of light appear and orbit your head until the spell ends. You can use a :rsc-bonus-action: **Bonus Action** to send one of the motes streaking toward one creature or object within 120 feet of you. When you do so, make a ranged spell attack. On a hit, the target takes 4d12 radiant damage. Whether you hit or miss, the mote is expended. The spell ends early if you expend the last mote.
 
 If you have four or more motes remaining, they shed bright light in a 30-foot radius and dim light for an additional 30 feet. If you have one to three motes remaining, they shed dim light in a 30-foot radius.
 
@@ -92,7 +92,7 @@ Regardless of its current hit points, a celestial, an elemental, a fey, or a fie
 With a roar, you draw on the magic of dragons to transform yourself, taking on draconic features. You gain the following benefits until the spell ends:
   
 **Blindsight.** You have blindsight with a range of 30 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see an invisible creature, unless the creature successfully hides from you.  
-**Breath Weapon.** When you cast this spell, and as a bonus action on subsequent turns for the duration, you can exhale shimmering energy in a 60-foot cone. Each creature in that area must make a Dexterity Saving Throw, taking 6d8 force damage on a failed save, or half as much damage on a successful one.  
+**Breath Weapon.** When you cast this spell, and as a :rsc-bonus-action: **Bonus Action** on subsequent turns for the duration, you can exhale shimmering energy in a 60-foot cone. Each creature in that area must make a Dexterity Saving Throw, taking 6d8 force damage on a failed save, or half as much damage on a successful one.  
 **Wings.** Incorporeal wings sprout from your back, giving you a flying speed of 60 feet.
 
 ### Dream of the Blue Veil
@@ -117,7 +117,7 @@ The spell ends early on a creature if that creature takes any damage, and the cr
 **Components:** V, S  
 **Duration:** Up to 8 hours
 
-You step into the border regions of the Ethereal Plane, in the area where it overlaps with your current plane. You remain in the Border Ethereal for the duration or until you use your action to dismiss the spell. During this time, you can move in any direction. If you move up or down, every foot of movement costs an extra foot. You can see and hear the plane you originated from, but everything there looks gray, and you can't see anything more than 60 feet away.
+You step into the border regions of the Ethereal Plane, in the area where it overlaps with your current plane. You remain in the Border Ethereal for the duration or until you use your :rsc-action: **Action** to dismiss the spell. During this time, you can move in any direction. If you move up or down, every foot of movement costs an extra foot. You can see and hear the plane you originated from, but everything there looks gray, and you can't see anything more than 60 feet away.
 
 While on the Ethereal Plane, you can only affect and be affected by other creatures on that plane. Creatures that aren't on the Ethereal Plane can't perceive you and can't interact with you, unless a special ability or magic has given them the ability to do so.
 
@@ -213,7 +213,7 @@ You can create any floor plan you like, but the space can't exceed 50 cubes, eac
 
 You create a sword-shaped plane of force that hovers within range. It lasts for the duration.
 
-When the sword appears, you make a melee spell attack against a target of your choice within 5 feet of the sword. On a hit, the target takes 3d10 force damage. Until the spell ends, you can use a bonus action on each of your turns to move the sword up to 20 feet to a spot you can see and repeat this attack against the same target or a different one.
+When the sword appears, you make a melee spell attack against a target of your choice within 5 feet of the sword. On a hit, the target takes 3d10 force damage. Until the spell ends, you can use a :rsc-bonus-action: **Bonus Action** on each of your turns to move the sword up to 20 feet to a spot you can see and repeat this attack against the same target or a different one.
 
 ### Plane Shift
 *7th-level conjuration*
@@ -279,9 +279,9 @@ Eight multicolored rays of light flash from your hand. Each ray is a different c
 
 You create an illusory copy of yourself that lasts for the duration. The copy can appear at any location within range that you have seen before, regardless of intervening obstacles. The illusion looks and sounds like you but is intangible. If the illusion takes any damage, it disappears, and the spell ends.
 
-You can use your action to move this illusion up to twice your speed, and make it gesture, speak, and behave in whatever way you choose. It mimics your mannerisms perfectly.
+You can use your :rsc-action: **Action** to move this illusion up to twice your speed, and make it gesture, speak, and behave in whatever way you choose. It mimics your mannerisms perfectly.
 
-You can see through its eyes and hear through its ears as if you were in its space. On your turn as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are blinded and deafened in regard to your own surroundings.
+You can see through its eyes and hear through its ears as if you were in its space. On your turn as a :rsc-bonus-action: **Bonus Action**, you can switch from using its senses to using your own, or back again. While you are using its senses, you are blinded and deafened in regard to your own surroundings.
 
 Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.
 
@@ -389,7 +389,7 @@ When you inscribe the glyph, choose one of the options below for its effect. Onc
 
 ***Pain.*** Each target must make a Constitution Saving Throw and becomes incapacitated with excruciating pain for 1 minute on a failed save.
 
-***Sleep.*** Each target must make a Wisdom Saving Throw and falls unconscious for 10 minutes on a failed save. A creature awakens if it takes damage or if someone uses an action to shake or slap it awake.
+***Sleep.*** Each target must make a Wisdom Saving Throw and falls unconscious for 10 minutes on a failed save. A creature awakens if it takes damage or if someone uses an :rsc-action: **Action** to shake or slap it awake.
 
 ***Stunning.*** Each target must make a Wisdom Saving Throw and becomes stunned for 1 minute on a failed save.
 
@@ -462,11 +462,11 @@ Casting this spell on the same spot every day for a year makes this effect perma
 **Components:** V, M (a piece of straw)  
 **Duration:** Concentration, up to 1 minute
 
-A whirlwind howls down to a point that you can see on the ground within range. The whirlwind is a 10-foot-radius, 30-foot-high cylinder centered on that point. Until the spell ends, you can use your action to move the whirlwind up to 30 feet in any direction along the ground. The whirlwind sucks up any Medium or smaller objects that aren't secured to anything and that aren't worn or carried by anyone.
+A whirlwind howls down to a point that you can see on the ground within range. The whirlwind is a 10-foot-radius, 30-foot-high cylinder centered on that point. Until the spell ends, you can use your :rsc-action: **Action** to move the whirlwind up to 30 feet in any direction along the ground. The whirlwind sucks up any Medium or smaller objects that aren't secured to anything and that aren't worn or carried by anyone.
 
 A creature must make a Dexterity Saving Throw the first time on a turn that it enters the whirlwind or that the whirlwind enters its space, including when the whirlwind first appears. A creature takes 10d6 bludgeoning damage on a failed save, or half as much damage on a successful one. In addition, a Large or smaller creature that fails the save must succeed on a Strength Saving Throw or become restrained in the whirlwind until the spell ends. When a creature starts its turn restrained by the whirlwind, the creature is pulled 5 feet higher inside it, unless the creature is at the top. A restrained creature moves with the whirlwind and falls when the spell ends, unless the creature has some means to stay aloft.
 
-A restrained creature can use an action to make a Strength or Dexterity check against your spell save DC. If successful, the creature is no longer restrained by the whirlwind and is hurled 3d6 × 10 feet away from it in a random direction.
+A restrained creature can use an :rsc-action: **Action** to make a Strength or Dexterity check against your spell save DC. If successful, the creature is no longer restrained by the whirlwind and is hurled 3d6 × 10 feet away from it in a random direction.
 
 ### Tether Essence
 *7th-level necromancy*

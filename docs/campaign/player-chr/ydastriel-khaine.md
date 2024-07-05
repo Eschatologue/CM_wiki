@@ -59,9 +59,9 @@ Upon gaining this class feature, you gain additional Starry Forms tied to specif
 
     *A constellation of an archer appears on you.*
 
-    **Luminous Bow.** When you activate this form, and as a bonus action on your subsequent turns while it lasts, you can make a ranged spell attack, hurling a luminous arrow that targets one creature within 60 feet of you. On a hit, the attack deals radiant damage equal to 1d8 + your Wisdom modifier. (2d8 at 10th-level).
+    **Luminous Bow.** When you activate this form, and as a :rsc-bonus-action: **Bonus Action** on your subsequent turns while it lasts, you can make a ranged spell attack, hurling a luminous arrow that targets one creature within 60 feet of you. On a hit, the attack deals radiant damage equal to 1d8 + your Wisdom modifier. (2d8 at 10th-level).
 
-    **Arrow of Arbiters.** Your Star Map transform into a longbow and you can you use it to cast Cosmic Flare, when you do, it ignores half and three-quarters cover and deals Radiant damage.
+    **Arrow of Arbiters.** Your Star Map transform into a longbow and you can you use it to cast [Cosmic Flare], when you do, it ignores half and three-quarters cover and deals Radiant damage.
 
 === "**Chalice**"
 
@@ -85,7 +85,7 @@ Upon gaining this class feature, you gain additional Starry Forms tied to specif
 
     *One of your eyes ignites with a searing white blaze while a small, flaming white sphere materializes and orbits you, leaving behind a delicate trail of white. Your being pulsates with an overwhelming intent for destruction.*
 
-    **Destructive Flare:** Your [Cosmic Flare] now crackles with instabilities, pulsating with radiant white glows. When you hit a target with your *Cosmic Flare*, each creature within 5 feet of your target takes Force damage equal to your Wisdom modifier.
+    **Destructive Flare:** Your [Cosmic Flare] now crackles with instabilities, pulsating with radiant white glows. When you hit a target with the spell, each creature within 5 feet of your target takes Force damage equal to your Wisdom modifier.
 
     **Helium Flash:** When you cast a druid spell, roll a :die-d8: d8, and you gain a bonus to one of the spell's damage rolls equal to the number rolled.
 
@@ -101,7 +101,7 @@ Upon gaining this class feature, you gain additional Starry Forms tied to specif
 
     *Shining armour of crimson plates form all over you, transforming you into the executor of justice. Those who obstruct Judgement shall be stricken down with impunity.*
 
-    **Smite of Conviction:** You gain the abilty to make melee spell attack with the range of 5 ft. with [Cosmic Flare]. Make separate Attack for each projectile, dealing :damage--radiant: 1d10 **Radiant** + your Wisdom Modifier damage on hit. 
+    **Smite of Conviction:** You gain the abilty to make melee spell attack with the range of 5 ft. with [Cosmic Flare]. Make separate Attack for each projectile, dealing :damage-radiant: **Radiant** damage equal to 1d10 + your Wisdom Modifier damage on hit. 
 
     **Leviathan Queller:** Armour constructed from cosmic energies materialise on you, enpowering you to mete out judgement upon the guilty. So long as you are not wearing medium or heavy armour or wielding a shield, you have the following benefits:
 
@@ -131,7 +131,7 @@ Upon gaining this class feature, you gain additional Starry Forms tied to specif
 
     *Multiple flat, semi-transparent blue tablets materialize, displaying cryptic combinations of numbers, letters, and figures, hovering before you. One of your eyes radiates a blue hue, granting you the power to decipher the scripts that foretell fortunes.*
 
-    **Restore Balance:** When a creature you see within 60 feet has :d20-adv: **Advantage** or :d20-disadv: **Disadvantage** on a :die-d20: D20 Check, you can use your :rsc-reaction: **Reaction** to nullify one instance of its :d20-adv: **Advantage** and :d20-disadv: **Disadvantage**. 
+    **Restore Balance:** When a creature you see within 60 feet has :d20-adv: **Advantage** or :d20-disadv: **Disadvantage** on a D20 Test, you can use your :rsc-reaction: **Reaction** to nullify one instance of its :d20-adv: **Advantage** and :d20-disadv: **Disadvantage**. 
 
 
 [Cosmic Flare]: ../../spells/cantrip.md#cosmic-flare

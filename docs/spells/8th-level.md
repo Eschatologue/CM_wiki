@@ -22,7 +22,7 @@ Nonmagical plants in the area that aren't creatures, such as trees and shrubs, w
 **Components:** V, S  
 **Duration:** Concentration, up to 24 hours
 
-Your magic turns others into beasts. Choose any number of willing creatures that you can see within range. You transform each target into the form of a Large or smaller beast with a challenge rating of 4 or lower. On subsequent turns, you can use your action to transform affected creatures into new forms.
+Your magic turns others into beasts. Choose any number of willing creatures that you can see within range. You transform each target into the form of a Large or smaller beast with a challenge rating of 4 or lower. On subsequent turns, you can use your :rsc-action: **Action** to transform affected creatures into new forms.
 
 The transformation lasts for the duration for each target, or until the target drops to 0 hit points or dies. You can choose a different form for each target. A target's game statistics are replaced by the statistics of the chosen beast, though the target retains its alignment and Intelligence, Wisdom, and Charisma scores. The target assumes the hit points of its new form, and when it reverts to its normal form, it returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form. As long as the excess damage doesn't reduce the creature's normal form to 0 hit points, it isn't knocked unconscious. The creature is limited in the actions it can perform by the nature of its new form, and it can't speak or cast spells.
 
@@ -154,7 +154,7 @@ You attempt to beguile a creature that you can see within range. It must succeed
 
 While the creature is charmed, you have a telepathic link with it as long as the two of you are on the same plane of existence. You can use this telepathic link to issue commands to the creature while you are conscious (no action required), which it does its best to obey. You can specify a simple and general course of action, such as "Attack that creature," "Run over there," or "Fetch that object." If the creature completes the order and doesn't receive further direction from you, it defends and preserves itself to the best of its ability.
 
-You can use your action to take total and precise control of the target. Until the end of your next turn, the creature takes only the actions you choose, and doesn't do anything that you don't allow it to do. During this time, you can also cause the creature to use a reaction, but this requires you to use your own reaction as well.
+You can use your :rsc-action: **Action** to take total and precise control of the target. Until the end of your next turn, the creature takes only the actions you choose, and doesn't do anything that you don't allow it to do. During this time, you can also cause the creature to use a reaction, but this requires you to use your own :rsc-reaction: **Reaction** as well.
 
 Each time the target takes damage, it makes a new Wisdom Saving Throw against the spell. If the Saving Throw succeeds, the spell ends.
 
@@ -180,7 +180,7 @@ This spell can have additional effects depending on the terrain in the area, as 
 
 A fissure that opens beneath a structure causes it to automatically collapse (see below).
 
-***Structures.*** The tremor deals 50 bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the start of each of your turns until the spell ends. If a structure drops to 0 hit points, it collapses and potentially damages nearby creatures. A creature within half the distance of a structure's height must make a Dexterity Saving Throw. On a failed save, the creature takes 5d6 bludgeoning damage, is knocked prone, and is buried in the rubble, requiring a DC 20 Strength (Athletics) check as an action to escape. The DM can adjust the DC higher or lower, depending on the nature of the rubble. On a successful save, the creature takes half as much damage and doesn't fall prone or become buried.
+***Structures.*** The tremor deals 50 bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the start of each of your turns until the spell ends. If a structure drops to 0 hit points, it collapses and potentially damages nearby creatures. A creature within half the distance of a structure's height must make a Dexterity Saving Throw. On a failed save, the creature takes 5d6 bludgeoning damage, is knocked prone, and is buried in the rubble, requiring a DC 20 Strength (Athletics) check as an :rsc-action: **Action** to escape. The DM can adjust the DC higher or lower, depending on the nature of the rubble. On a successful save, the creature takes half as much damage and doesn't fall prone or become buried.
 
 ### Feeblemind
 *8th-level enchantment*
@@ -230,9 +230,9 @@ By gathering threads of shadow material from the Shadowfell, you create a Huge s
 
 When the illusion appears, any of your enemies that can see it must succeed on a Wisdom Saving Throw or become frightened of it for 1 minute. If a frightened creature ends its turn in a location where it doesn't have line of sight to the illusion, it can repeat the Saving Throw, ending the effect on itself on a success.
 
-As a bonus action on your turn, you can move the illusion up to 60 feet. At any point during its movement, you can cause it to exhale a blast of energy in a 60-foot cone originating from its space. When you create the dragon, choose a damage type: acid, cold, fire, lightning, necrotic, or poison. Each creature in the cone must make an Intelligence Saving Throw, taking 7d6 damage of the chosen damage type on a failed save, or half as much damage on a successful one.
+As a :rsc-bonus-action: **Bonus Action** on your turn, you can move the illusion up to 60 feet. At any point during its movement, you can cause it to exhale a blast of energy in a 60-foot cone originating from its space. When you create the dragon, choose a damage type: acid, cold, fire, lightning, necrotic, or poison. Each creature in the cone must make an Intelligence Saving Throw, taking 7d6 damage of the chosen damage type on a failed save, or half as much damage on a successful one.
 
-The illusion is tangible because of the shadow stuff used to create it, but attacks miss it automatically, it succeeds on all Saving Throws, and it is immune to all damage and conditions. A creature that uses an action to examine the dragon can determine that it is an illusion by succeeding on an Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through it and has advantage on Saving Throws against its breath.
+The illusion is tangible because of the shadow stuff used to create it, but attacks miss it automatically, it succeeds on all Saving Throws, and it is immune to all damage and conditions. A creature that uses an :rsc-action: **Action** to examine the dragon can determine that it is an illusion by succeeding on an Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through it and has advantage on Saving Throws against its breath.
 
 ### Incendiary Cloud
 *8th-level conjuration*

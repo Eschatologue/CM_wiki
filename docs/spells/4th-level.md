@@ -14,7 +14,7 @@ You create an invisible, magical eye within range that hovers in the air for the
 
 You mentally receive visual information from the eye, which has normal vision and darkvision out to 30 feet. The eye can look in every direction.
 
-As an action, you can move the eye up to 30 feet in any direction. There is no limit to how far away from you the eye can move, but it can't enter another plane of existence. A solid barrier blocks the eye's movement, but the eye can pass through an opening as small as 1 inch in diameter.
+As an :rsc-action: **Action**, you can move the eye up to 30 feet in any direction. There is no limit to how far away from you the eye can move, but it can't enter another plane of existence. A solid barrier blocks the eye's movement, but the eye can pass through an opening as small as 1 inch in diameter.
 
 ### Aura of Life
 *4th-level abjuration*
@@ -88,7 +88,7 @@ You attempt to charm a creature you can see within range. It must make a Wisdom 
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-Creatures of your choice that you can see within range and that can hear you must make a Wisdom Saving Throw. A target automatically succeeds on this Saving Throw if it can't be charmed. On a failed save, a target is affected by this spell. Until the spell ends, you can use a bonus action on each of your turns to designate a direction that is horizontal to you. Each affected target must use as much of its movement as possible to move in that direction on its next turn. It can take its action before it moves. After moving in this way, it can make another Wisdom Saving Throw to try to end the effect.
+Creatures of your choice that you can see within range and that can hear you must make a Wisdom Saving Throw. A target automatically succeeds on this Saving Throw if it can't be charmed. On a failed save, a target is affected by this spell. Until the spell ends, you can use a :rsc-bonus-action: **Bonus Action** on each of your turns to designate a direction that is horizontal to you. Each affected target must use as much of its movement as possible to move in that direction on its next turn. It can take its action before it moves. After moving in this way, it can make another Wisdom Saving Throw to try to end the effect.
 
 A target isn't compelled to move into an obviously deadly hazard, such as a fire or pit, but it will provoke opportunity attacks to move in the designated direction.
 
@@ -107,7 +107,7 @@ An affected target can't take reactions and must roll a d10 at the start of each
 #### Confusion Behavior
 |  d10 | Behavior                                                                                                                                                                                        |
 |:-:|-|
-|   1  | The creature uses all its movement to move in a random direction. To determine the direction, roll a d8 and assign a direction to each die face. The creature doesn't take an action this turn. |
+|   1  | The creature uses all its movement to move in a random direction. To determine the direction, roll a d8 and assign a direction to each die face. The creature doesn't take an :rsc-action: **Action** this turn. |
 |  2-6 | The creature doesn't move or take actions this turn.                                                                                                                                            |
 |  7-8 | The creature uses its action to make a melee attack against a randomly determined creature within its reach. If there is no creature within its reach, the creature does nothing this turn.     |
 | 9-10 | The creature can act and move normally.                                                                                                                                                         |
@@ -170,7 +170,7 @@ The DM has the creatures' statistics.
 **Components:** V, S, M (a drop of water and a pinch of dust)  
 **Duration:** Concentration, up to 10 minutes
 
-Until the spell ends, you control any freestanding water inside an area you choose that is a cube up to 100 feet on a side. You can choose from any of the following effects when you cast this spell. As an action on your turn, you can repeat the same effect or choose a different one.
+Until the spell ends, you control any freestanding water inside an area you choose that is a cube up to 100 feet on a side. You can choose from any of the following effects when you cast this spell. As an :rsc-action: **Action** on your turn, you can repeat the same effect or choose a different one.
 
 ***Flood.*** You cause the water level of all standing water in the area to rise by as much as 20 feet. If the area includes a shore, the flooding water spills over onto dry land.
 
@@ -242,7 +242,7 @@ You attempt to beguile a beast that you can see within range. It must succeed on
 
 While the beast is charmed, you have a telepathic link with it as long as the two of you are on the same plane of existence. You can use this telepathic link to issue commands to the creature while you are conscious (no action required), which it does its best to obey. You can specify a simple and general course of action, such as "Attack that creature," "Run over there," or "Fetch that object." If the creature completes the order and doesn't receive further direction from you, it defends and preserves itself to the best of its ability.
 
-You can use your action to take total and precise control of the target. Until the end of your next turn, the creature takes only the actions you choose, and doesn't do anything that you don't allow it to do. During this time, you can also cause the creature to use a reaction, but this requires you to use your own reaction as well.
+You can use your :rsc-action: **Action** to take total and precise control of the target. Until the end of your next turn, the creature takes only the actions you choose, and doesn't do anything that you don't allow it to do. During this time, you can also cause the creature to use a reaction, but this requires you to use your own :rsc-reaction: **Reaction** as well.
 
 Each time the target takes damage, it makes a new Wisdom Saving Throw against the spell. If the Saving Throw succeeds, the spell ends.
 
@@ -300,9 +300,9 @@ You summon a spirit that assumes the form of a loyal, majestic mount. Appearing 
 
 You control the mount in combat. While the mount is within 1 mile of you, you can communicate with it telepathically. While mounted on it, you can make any spell you cast that targets only you also target the mount.
 
-The mount disappears temporarily when it drops to 0 hit points or when you dismiss it as an action. Casting this spell again re-summons the bonded mount, with all its hit points restored and any conditions removed.
+The mount disappears temporarily when it drops to 0 hit points or when you dismiss it as an :rsc-action: **Action**. Casting this spell again re-summons the bonded mount, with all its hit points restored and any conditions removed.
 
-You can't have more than one mount bonded by this spell or *find steed* at the same time. As an action, you can release a mount from its bond, causing it to disappear permanently.
+You can't have more than one mount bonded by this spell or *find steed* at the same time. As an :rsc-action: **Action**, you can release a mount from its bond, causing it to disappear permanently.
 
 Whenever the mount disappears, it leaves behind any objects it was wearing or carrying.
 
@@ -319,7 +319,7 @@ Whenever the mount disappears, it leaves behind any objects it was wearing or ca
 **Components:** V, S, M (a bit of phosphorus or a firefly)  
 **Duration:** 10 minutes
 
-Thin and wispy flames wreathe your body for the duration, shedding bright light in a 10-foot radius and dim light for an additional 10 feet. You can end the spell early by using an action to dismiss it.
+Thin and wispy flames wreathe your body for the duration, shedding bright light in a 10-foot radius and dim light for an additional 10 feet. You can end the spell early by using an :rsc-action: **Action** to dismiss it.
 
 The flames provide you with a warm shield or a chill shield, as you choose. The warm shield grants you resistance to cold damage, and the chill shield grants you resistance to fire damage.
 
@@ -361,7 +361,7 @@ You transform up to ten centipedes, three spiders, five wasps, or one scorpion w
 
 Each creature obeys your verbal commands, and in combat, they act on your turn each round. The DM has the statistics for these creatures and resolves their actions and movement.
 
-A creature remains in its giant size for the duration, until it drops to 0 hit points, or until you use an action to dismiss the effect on it.
+A creature remains in its giant size for the duration, until it drops to 0 hit points, or until you use an :rsc-action: **Action** to dismiss the effect on it.
 
 The DM might allow you to choose different targets. For example, if you transform a bee, its giant version might have the same statistics as a **giant wasp**.
 
@@ -375,7 +375,7 @@ The DM might allow you to choose different targets. For example, if you transfor
 
 You conjure a vine that sprouts from the ground in an unoccupied space of your choice that you can see within range. When you cast this spell, you can direct the vine to lash out at a creature within 30 feet of it that you can see. That creature must succeed on a Dexterity Saving Throw or be pulled 20 feet directly toward the vine.
 
-Until the spell ends, you can direct the vine to lash out at the same creature or another one as a bonus action on each of your turns.
+Until the spell ends, you can direct the vine to lash out at the same creature or another one as a :rsc-bonus-action: **Bonus Action** on each of your turns.
 
 ### Gravity Sinkhole
 *4th-level evocation*
@@ -471,9 +471,9 @@ Hailstones turn the storm's area of effect into difficult terrain until the end 
 
 You hide a chest, and all its contents, on the Ethereal Plane. You must touch the chest and the miniature replica that serves as a material component for the spell. The chest can contain up to 12 cubic feet of nonliving material (3 feet by 2 feet by 2 feet).
 
-While the chest remains on the Ethereal Plane, you can use an action and touch the replica to recall the chest. It appears in an unoccupied space on the ground within 5 feet of you. You can send the chest back to the Ethereal Plane by using an action and touching both the chest and the replica.
+While the chest remains on the Ethereal Plane, you can use an :rsc-action: **Action** and touch the replica to recall the chest. It appears in an unoccupied space on the ground within 5 feet of you. You can send the chest back to the Ethereal Plane by using an :rsc-action: **Action** and touching both the chest and the replica.
 
-After 60 days, there is a cumulative 5 percent chance per day that the spell's effect ends. This effect ends if you cast this spell again, if the smaller replica chest is destroyed, or if you choose to end the spell as an action. If the spell ends and the larger chest is on the Ethereal Plane, it is irretrievably lost.
+After 60 days, there is a cumulative 5 percent chance per day that the spell's effect ends. This effect ends if you cast this spell again, if the smaller replica chest is destroyed, or if you choose to end the spell as an :rsc-action: **Action**. If the spell ends and the larger chest is on the Ethereal Plane, it is irretrievably lost.
 
 ### Locate Creature
 *4th-level divination*
@@ -497,7 +497,7 @@ This spell can't locate a creature if running water at least 10 feet wide blocks
 **Components:** V, S, M (a tiny silver whistle, a piece of bone, and a thread)  
 **Duration:** 8 hours
 
-You conjure a phantom watchdog in an unoccupied space that you can see within range, where it remains for the duration, until you dismiss it as an action, or until you move more than 100 feet away from it.
+You conjure a phantom watchdog in an unoccupied space that you can see within range, where it remains for the duration, until you dismiss it as an :rsc-action: **Action**, or until you move more than 100 feet away from it.
 
 The hound is invisible to all creatures except you and can't be harmed. When a Small or larger creature comes within 30 feet of it without first speaking the password that you specify when you cast this spell, the hound starts barking loudly. The hound sees invisible creatures and can see into the Ethereal Plane. It ignores illusions.
 
@@ -511,7 +511,7 @@ At the start of each of your turns, the hound attempts to bite one creature with
 **Components:** V, S, M (a thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth, and powdered chrysolite)  
 **Duration:** 24 hours
 
-You make an area within range magically secure. The area is a cube that can be as small as 5 feet to as large as 100 feet on each side. The spell lasts for the duration or until you use an action to dismiss it.
+You make an area within range magically secure. The area is a cube that can be as small as 5 feet to as large as 100 feet on each side. The spell lasts for the duration or until you use an :rsc-action: **Action** to dismiss it.
 
 When you cast the spell, you decide what sort of security the spell provides, choosing any or all of the following properties:
   
@@ -664,7 +664,7 @@ This spell turns the flesh of a willing creature you touch as hard as stone. Unt
 
 A 20-foot-radius sphere of whirling air springs into existence, centered on a point you choose within range. The sphere remains for the spell's duration. Each creature in the sphere when it appears or that ends its turn there must succeed on a Strength Saving Throw or take 2d6 bludgeoning damage. The sphere's space is difficult terrain.
 
-Until the spell ends, you can use a bonus action on each of your turns to cause a bolt of lightning to leap from the center of the sphere toward one creature you choose within 60 feet of the center. Make a ranged spell attack. You have advantage on the attack roll if the target is in the sphere. On a hit, the target takes 4d6 lightning damage.
+Until the spell ends, you can use a :rsc-bonus-action: **Bonus Action** on each of your turns to cause a bolt of lightning to leap from the center of the sphere toward one creature you choose within 60 feet of the center. Make a ranged spell attack. You have advantage on the attack roll if the target is in the sphere. On a hit, the target takes 4d6 lightning damage.
 
 Creatures within 30 feet of the sphere have disadvantage on Wisdom (Perception) checks made to listen.
 
@@ -772,7 +772,7 @@ Any creature in the sphere's space must make a Strength Saving Throw. On a succe
 
 The sphere can restrain as many as four Medium or smaller creatures or one Large creature. If the sphere restrains a creature that causes it to exceed this capacity, a random creature that was already restrained by the sphere falls out of it and lands prone in a space within 5 feet of it.
 
-As an action, you can move the sphere up to 30 feet in a straight line. If it moves over a pit, a cliff, or other drop-off, it safely descends until it is hovering 10 feet above the ground. Any creature restrained by the sphere moves with it. You can ram the sphere into creatures, forcing them to make the Saving Throw.
+As an :rsc-action: **Action**, you can move the sphere up to 30 feet in a straight line. If it moves over a pit, a cliff, or other drop-off, it safely descends until it is hovering 10 feet above the ground. Any creature restrained by the sphere moves with it. You can ram the sphere into creatures, forcing them to make the Saving Throw.
 
 When the spell ends, the sphere falls to the ground and extinguishes all normal flames within 30 feet of it. Any creature restrained by the sphere is knocked prone in the space where it falls. The water then vanishes.
 

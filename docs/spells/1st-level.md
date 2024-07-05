@@ -322,7 +322,7 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 **Components:** V, S  
 **Duration:** Concentration, up to 10 minutes
 
-For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its *school of magic*, if any.
+For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your :rsc-action: **Action** to see a faint aura around any visible creature or object in the area that bears magic, and you learn its *school of magic*, if any.
 
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
@@ -346,7 +346,7 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 **Components:** V, S  
 **Duration:** 1 hour
 
-You make yourself—including your clothing, armor, weapons, and other belongings on your person—look different until the spell ends or until you use your action to dismiss it. You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can't change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.
+You make yourself—including your clothing, armor, weapons, and other belongings on your person—look different until the spell ends or until you use your :rsc-action: **Action** to dismiss it. You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can't change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.
 
 The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.
 
@@ -436,7 +436,7 @@ When the spell ends, the conjured plants wilt away.
 **Components:** V, S  
 **Duration:** Concentration, up to 10 minutes
 
-This spell allows you to move at an incredible pace. When you cast this spell, and then as a bonus action on each of your turns until the spell ends, you can take the Dash action.
+This spell allows you to move at an incredible pace. When you cast this spell, and then as a :rsc-bonus-action: **Bonus Action** on each of your turns until the spell ends, you can take the Dash action.
 
 ### Faerie Fire
 *1st-level evocation*
@@ -486,13 +486,13 @@ You gain the service of a familiar, a spirit that takes an animal form you choos
 
 Your familiar acts independently of you, but it always obeys your commands. In combat, it rolls its own initiative and acts on its own turn. A familiar can't attack, but it can take other actions as normal.
 
-When the familiar drops to 0 hit points, it disappears, leaving behind no physical form. It reappears after you cast this spell again. As an action, you can temporarily dismiss the familiar to a pocket dimension. Alternatively, you can dismiss it forever. As an action while it is temporarily dismissed, you can cause it to reappear in any unoccupied space within 30 feet of you. Whenever the familiar drops to 0 hit points or disappears into the pocket dimension, it leaves behind in its space anything it was wearing or carrying.
+When the familiar drops to 0 hit points, it disappears, leaving behind no physical form. It reappears after you cast this spell again. As an :rsc-action: **Action**, you can temporarily dismiss the familiar to a pocket dimension. Alternatively, you can dismiss it forever. As an :rsc-action: **Action** while it is temporarily dismissed, you can cause it to reappear in any unoccupied space within 30 feet of you. Whenever the familiar drops to 0 hit points or disappears into the pocket dimension, it leaves behind in its space anything it was wearing or carrying.
 
-While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as an action, you can see through your familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the familiar has. During this time, you are deaf and blind with regard to your own senses.
+While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as an :rsc-action: **Action**, you can see through your familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the familiar has. During this time, you are deaf and blind with regard to your own senses.
 
 You can't have more than one familiar at a time. If you cast this spell while you already have a familiar, you instead cause it to adopt a new form. Choose one of the forms from the above list. Your familiar transforms into the chosen creature.
 
-Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell. Your familiar must be within 100 feet of you, and it must use its reaction to deliver the spell when you cast it. If the spell requires an attack roll, you use your attack modifier for the roll.
+Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell. Your familiar must be within 100 feet of you, and it must use its :rsc-reaction: **Reaction** to deliver the spell when you cast it. If the spell requires an attack roll, you use your attack modifier for the roll.
 
 ### Fog Cloud
 *1st-level conjuration*
@@ -624,7 +624,7 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 
 You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra 1d6 necrotic damage to the target whenever you hit it with an attack. Also, choose one ability when you cast the spell. The target has disadvantage on ability checks made with the chosen ability.
 
-If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to curse a new creature.
+If the target drops to 0 hit points before this spell ends, you can use a :rsc-bonus-action: **Bonus Action** on a subsequent turn of yours to curse a new creature.
 
 A *remove curse* cast on the target ends this spell early.
 
@@ -638,7 +638,7 @@ A *remove curse* cast on the target ends this spell early.
 **Components:** V  
 **Duration:** Concentration, up to 1 hour
 
-You choose a creature you can see within range and mystically mark it as your ^^Quarry^^. Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it. If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to mark a new creature.
+You choose a creature you can see within range and mystically mark it as your ^^Quarry^^. Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it. If the target drops to 0 hit points before this spell ends, you can use a :rsc-bonus-action: **Bonus Action** on a subsequent turn of yours to mark a new creature.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours.
 
@@ -740,7 +740,7 @@ You touch a creature. The target's speed increases by 10 feet until the spell en
 **Components:** V, S, M (a piece of cured leather)  
 **Duration:** 8 hours
 
-You touch a willing creature who isn't wearing armor, and a protective magical force surrounds it until the spell ends. The target's base AC becomes 13 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an action.
+You touch a willing creature who isn't wearing armor, and a protective magical force surrounds it until the spell ends. The target's base AC becomes 13 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an :rsc-action: **Action**.
 
 ### Magic Missile
 *1st-level evocation*
@@ -822,7 +822,7 @@ If the warded creature makes an attack, casts a spell that affects an enemy, or 
 **Components:** V  
 **Duration:** Concentration, up to 1 minute
 
-The next time you hit a creature with a melee weapon attack during the spell's duration, your weapon flares with white-hot intensity, and the attack deals an extra 1d6 fire damage to the target and causes the target to ignite in flames. At the start of each of its turns until the spell ends, the target must make a Constitution Saving Throw. On a failed save, it takes 1d6 fire damage. On a successful save, the spell ends. If the target or a creature within 5 feet of it uses an action to put out the flames, or if some other effect douses the flames (such as the target being submerged in water), the spell ends.
+The next time you hit a creature with a melee weapon attack during the spell's duration, your weapon flares with white-hot intensity, and the attack deals an extra 1d6 fire damage to the target and causes the target to ignite in flames. At the start of each of its turns until the spell ends, the target must make a Constitution Saving Throw. On a failed save, it takes 1d6 fire damage. On a successful save, the spell ends. If the target or a creature within 5 feet of it uses an :rsc-action: **Action** to put out the flames, or if some other effect douses the flames (such as the target being submerged in water), the spell ends.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the initial extra damage dealt by the attack increases by 1d6 for each slot level above 1st.
 
@@ -856,7 +856,7 @@ A shimmering field appears and surrounds a creature of your choice within range,
 
 You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot cube. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn't accompanied by sound, smell, or other sensory effects.
 
-You can use your action to cause the image to move to any spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking.
+You can use your :rsc-action: **Action** to cause the image to move to any spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking.
 
 Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image.
 
@@ -882,7 +882,7 @@ You can then choose a different creature you can see within range (you can choos
 
 This spell sends creatures into a magical slumber. Roll 5d8; the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring unconscious creatures).
 
-Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. Subtract each creature's hit points from the total before moving on to the creature with the next lowest hit points. A creature's hit points must be equal to or less than the remaining total for that creature to be affected.
+Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until the spell ends, the sleeper takes damage, or someone uses an :rsc-action: **Action** to shake or slap the sleeper awake. Subtract each creature's hit points from the total before moving on to the creature with the next lowest hit points. A creature's hit points must be equal to or less than the remaining total for that creature to be affected.
 
 Undead and creatures immune to being charmed aren't affected by this spell.
 
@@ -902,7 +902,7 @@ This trap is nearly invisible, requiring a successful Intelligence (Investigatio
 
 The trap triggers when a Small, Medium, or Large creature moves onto the ground or the floor in the spell's radius. That creature must succeed on a Dexterity Saving Throw or be magically hoisted into the air, leaving it hanging upside down 3 feet above the ground or the floor. The creature is restrained there until the spell ends.
 
-A restrained creature can make a Dexterity Saving Throw at the end of each of its turns, ending the effect on itself on a success. Alternatively, the creature or someone else who can reach it can use an action to make an Intelligence (Arcana) check against your spell save DC. On a success, the restrained effect ends.
+A restrained creature can make a Dexterity Saving Throw at the end of each of its turns, ending the effect on itself on a success. Alternatively, the creature or someone else who can reach it can use an :rsc-action: **Action** to make an Intelligence (Arcana) check against your spell save DC. On a success, the restrained effect ends.
 
 After the trap is triggered, the spell ends when no creature is restrained by it.
 
@@ -988,7 +988,7 @@ In addition, unsecured objects that are completely within the area of effect are
 
 This spell creates an invisible, mindless, shapeless, Medium force that performs simple tasks at your command until the spell ends. The servant springs into existence in an unoccupied space on the ground within range. It has AC 10, 1 hit point, and a Strength of 2, and it can't attack. If it drops to 0 hit points, the spell ends.
 
-Once on each of your turns as a bonus action, you can mentally command the servant to move up to 15 feet and interact with an object. The servant can perform simple tasks that a human servant could do, such as fetching things, cleaning, mending, folding clothes, lighting fires, serving food, and pouring wine. Once you give the command, the servant performs the task to the best of its ability until it completes the task, then waits for your next command.
+Once on each of your turns as a :rsc-bonus-action: **Bonus Action**, you can mentally command the servant to move up to 15 feet and interact with an object. The servant can perform simple tasks that a human servant could do, such as fetching things, cleaning, mending, folding clothes, lighting fires, serving food, and pouring wine. Once you give the command, the servant performs the task to the best of its ability until it completes the task, then waits for your next command.
 
 If you command the servant to perform a task that would move it more than 60 feet away from you, the spell ends.
 
@@ -1000,7 +1000,7 @@ If you command the servant to perform a task that would move it more than 60 fee
 **Components:** V, S, M (a twig from a tree that has been struck by lightning)  
 **Duration:** Concentration, up to 1 minute
 
-A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target. Make a ranged spell attack against that creature. On a hit, the target takes 1d12 lightning damage, and on each of your turns for the duration, you can use your action to deal 1d12 lightning damage to the target automatically. The spell ends if you use your action to do anything else. The spell also ends if the target is ever outside the spell's range or if it has total cover from you.
+A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target. Make a ranged spell attack against that creature. On a hit, the target takes 1d12 lightning damage, and on each of your turns for the duration, you can use your :rsc-action: **Action** to deal 1d12 lightning damage to the target automatically. The spell ends if you use your :rsc-action: **Action** to do anything else. The spell also ends if the target is ever outside the spell's range or if it has total cover from you.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the initial damage increases by 1d12 for each slot level above 1st.
 
@@ -1012,7 +1012,7 @@ A beam of crackling, blue energy lances out toward a creature within range, form
 **Components:** V  
 **Duration:** Concentration, up to 1 minute
 
-The next time you hit with a melee weapon attack during this spell's duration, your attack deals an extra 1d6 psychic damage. Additionally, if the target is a creature, it must make a Wisdom Saving Throw or be frightened of you until the spell ends. As an action, the creature can make a Wisdom check against your spell save DC to steel its resolve and end this spell.
+The next time you hit with a melee weapon attack during this spell's duration, your attack deals an extra 1d6 psychic damage. Additionally, if the target is a creature, it must make a Wisdom Saving Throw or be frightened of you until the spell ends. As an :rsc-action: **Action**, the creature can make a Wisdom check against your spell save DC to steel its resolve and end this spell.
 
 ### Zephyr Strike
 *1st-level transmutation*

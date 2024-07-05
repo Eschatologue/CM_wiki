@@ -6,7 +6,7 @@ icon: material/shape
 
 Actions are the acts taken by creatures on their turns. Actions are generally taken in order to deal damage or inflict harmful conditions, but they can also be taken to heal or aid allies.
 
-A special form of action – known as a reaction – can be used as a response to certain triggers, including on the turns of other creatures.
+A special form of action – known as a :rsc-reaction: **Reaction** – can be used as a response to certain triggers, including on the turns of other creatures.
 
 Taking actions usually requires the acting creature to expend one of three resources:
 
@@ -25,7 +25,7 @@ An Action is a primary activity that a creature can perform during their turn. T
   - **Dash**: A paladies their action to move double their movement speed to close in upon the enemies.
 
 ### Bonus Actions
-Some actions, frequently referred to as *bonus actions*, require a Bonus Action to be expended when taken.
+Some actions, frequently referred to as *:rsc-bonus-action: **Bonus Action**s*, require a Bonus Action to be expended when taken.
 
 A Bonus Action is a secondary action that certain abilities, spells, or class features allow a creature to perform in addition to their main :rsc-action: **Action**. Not all characters or actions can use a Bonus Action, and creatures can typically perform only one :rsc-bonus-action: **Bonus Action** per turn if they have an ability that grants them one.
 
@@ -36,7 +36,7 @@ A Bonus Action is a secondary action that certain abilities, spells, or class fe
 
 ### Reactions
 
-A :rsc-reaction: **Reaction** is an action that creatures can take in response to a specific event, even if it’s not their turn. Creatures can typically take only one :rsc-reaction: **Reaction** per round. Reactions often have specific triggers, such as an enemy's movement or an attack.
+A :rsc-reaction: **Reaction** is an :rsc-action: **Action** that creatures can take in response to a specific event, even if it’s not their turn. Creatures can typically take only one :rsc-reaction: **Reaction** per round. Reactions often have specific triggers, such as an enemy's movement or an attack.
 
 **Example**:
 
@@ -92,7 +92,7 @@ Movement determines how far creatures can travel on their turn during combat or 
 
 ### Basic Movement
 
-Each character’s movement speed is listed in their race description. For example, most humans have a movement speed of 30 feet, while dwarves typically have a movement speed of 25 feet. On their turn, creatures can move a distance up to their movement speed. This movement can be broken up before and after taking an action, bonus action, or reaction.
+Each character’s movement speed is listed in their race description. For example, most humans have a movement speed of 30 feet, while dwarves typically have a movement speed of 25 feet. On their turn, creatures can move a distance up to their movement speed. This movement can be broken up before and after taking an :rsc-action: **Action**, :rsc-bonus-action: **Bonus Action**, or reaction.
 
 ### Difficult Terrain
 
@@ -126,7 +126,7 @@ Characters can combine movement with actions in any order. For example, creature
 
 ### Opportunity Attacks
 
-Moving out of an enemy’s reach typically provokes an opportunity attack, allowing the enemy to use their reaction to make a melee attack. This makes careful planning of movement crucial during combat to avoid unnecessary damage.
+Moving out of an enemy’s reach typically provokes an opportunity attack, allowing the enemy to use their :rsc-reaction: **Reaction** to make a melee attack. This makes careful planning of movement crucial during combat to avoid unnecessary damage.
 
 ## Hit Dice
 

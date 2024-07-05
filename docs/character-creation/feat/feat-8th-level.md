@@ -117,11 +117,11 @@ After fine tuning your equipment, you can do things others can’t with shields.
     
 - **Deflection**
     
-    You can use your Reaction to deflect the incoming damage when you are hit by an Attack or fail a :d20-save: **Saving Throw** from a projectile. When you do so, the damage you take is reduced by your Proficiency Bonus + half your level.
+    You can use your :rsc-reaction: **Reaction** to deflect the incoming damage when you are hit by an Attack or fail a :d20-save: **Saving Throw** from a projectile. When you do so, the damage you take is reduced by your Proficiency Bonus + half your level.
     
 - **Interpose**
     
-    You can use a bonus action to protect a creature within 5 feet of you. Until the start of your next turn, any attack roll made against that creature has :d20-disadv: **disadvantage** if you can see the attacker. This benefit ends early if you are incapacitated or your speed drops to 0.
+    You can use a :rsc-bonus-action: **Bonus Action** to protect a creature within 5 feet of you. Until the start of your next turn, any attack roll made against that creature has :d20-disadv: **disadvantage** if you can see the attacker. This benefit ends early if you are incapacitated or your speed drops to 0.
 
 ### Spell Driver
 *8th-level Feat*

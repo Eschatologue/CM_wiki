@@ -55,7 +55,7 @@ You have studied the secrets of alchemy and are an expert in its practice, gaini
 
 - **Chemical Connoisseur** 
 
-    As an action, you can identify one potion within 5 feet of you, as if you had tasted it. You must see the liquid for this benefit to work.
+    As an :rsc-action: **Action**, you can identify one potion within 5 feet of you, as if you had tasted it. You must see the liquid for this benefit to work.
 
 - **Alchemical Genius** 
 
@@ -211,7 +211,7 @@ Your knowledge of wooden structures is widely applicable throughout your adventu
     
 - **Hodor**
     
-    You can temporarily fortify a door or window using your action. The DC needed to open it increases by 5, but the fortification falls apart after 1 minute.
+    You can temporarily fortify a door or window using your :rsc-action: **Action**. The DC needed to open it increases by 5, but the fortification falls apart after 1 minute.
     
 - **Roman Ethic**
     
@@ -717,7 +717,7 @@ You can spot the weaknesses in a foe’s defenses. You gain the following benefi
 
 - **True-Striker**
     
-    As an action, you analyze the defenses of one Large or larger creature you can see. Your next Weapon Attack on the following turn against that creature is made with :d20-adv: **Advantage**.
+    As an :rsc-action: **Action**, you analyze the defenses of one Large or larger creature you can see. Your next Weapon Attack on the following turn against that creature is made with :d20-adv: **Advantage**.
 
 - **Improved Critical**
       

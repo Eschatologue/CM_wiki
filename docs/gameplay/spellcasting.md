@@ -67,11 +67,11 @@ Each spell description in *chapter 11* begins with a block of information, inclu
 
 ### Casting Time
 
-Most spells require a single action to cast, but some spells require a bonus action, a reaction, or much more time to cast.
+Most spells require a single action to cast, but some spells require a :rsc-bonus-action: **Bonus Action**, a reaction, or much more time to cast.
 
 #### Bonus Action
 
-A spell cast with a bonus action is especially swift. You must use a bonus action on your turn to cast the spell, provided that you haven't already taken a bonus action this turn. You can't cast another spell during the same turn, except for a cantrip with a casting time of 1 action.
+A spell cast with a :rsc-bonus-action: **Bonus Action** is especially swift. You must use a :rsc-bonus-action: **Bonus Action** on your turn to cast the spell, provided that you haven't already taken a :rsc-bonus-action: **Bonus Action** this turn. You can't cast another spell during the same turn, except for a cantrip with a casting time of 1 action.
 
 #### Reactions
 
@@ -79,7 +79,7 @@ Some spells can be cast as reactions. These spells take a fraction of a second t
 
 #### Longer Casting Times
 
-Certain spells (including spells cast as rituals) require more time to cast: minutes or even hours. When you cast a spell with a casting time longer than a single action or reaction, you must spend your action each turn casting the spell, and you must maintain your concentration while you do so (see "Concentration" below). If your concentration is broken, the spell fails, but you don't expend a spell slot. If you want to try casting the spell again, you must start over.
+Certain spells (including spells cast as rituals) require more time to cast: minutes or even hours. When you cast a spell with a casting time longer than a single action or reaction, you must spend your :rsc-action: **Action** each turn casting the spell, and you must maintain your concentration while you do so (see "Concentration" below). If your concentration is broken, the spell fails, but you don't expend a spell slot. If you want to try casting the spell again, you must start over.
 
 ### Range
 

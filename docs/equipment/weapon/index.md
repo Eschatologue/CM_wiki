@@ -65,11 +65,11 @@ When you take the :d20-attack:**Attack** Action on your turn and attack with a L
 
 ### :weapon-prop-loading:{ .lg .pad-r } Loading
 
-Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, :rsc-bonus-action: **Bonus Action**, or reaction to fire it, regardless of the number of attacks you can normally make.
+Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an :rsc-action: **Action**, :rsc-bonus-action: **Bonus Action**, or :rsc-reaction: **Reaction** to fire it, regardless of the number of attacks you can normally make.
 
 ### :weapon-prop-mounted:{ .lg .pad-r } Mounted
 
-This weapon is normally used while attached to a tripod, vehicle, or other bracing mount. You can mount or unmount this weapon as an action. While it is mounted, it can’t be moved. It can only be used to make an attack while unmounted if held by a creature with a Strength score of at least 15.
+This weapon is normally used while attached to a tripod, vehicle, or other bracing mount. You can mount or unmount this weapon as an :rsc-action: **Action**. While it is mounted, it can’t be moved. It can only be used to make an attack while unmounted if held by a creature with a Strength score of at least 15.
 
 ### :weapon-prop-ranged:{ .lg .pad-r } Ranged
 

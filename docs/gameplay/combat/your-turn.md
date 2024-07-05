@@ -31,15 +31,15 @@ On your turn, you can take one :rsc-action:**Actions**. Common :rsc-action:**Act
 
 Some abilities, spells, and class features allow you to take an additional action on your turn called a :rsc-bonus-action: **Bonus Action**. You can only take one :rsc-bonus-action: **Bonus Action** per turn. Examples include:
 
-- **Rogue's Cunning Action:** Allows rogues to Dash, Disengage, or Hide as a bonus action.
-- **Certain Spells:** Some spells, like "Healing Word," can be cast as a bonus action.
+- **Rogue's Cunning Action:** Allows rogues to Dash, Disengage, or Hide as a :rsc-bonus-action: **Bonus Action**.
+- **Certain Spells:** Some spells, like "Healing Word," can be cast as a :rsc-bonus-action: **Bonus Action**.
 
 ### :rsc-reaction:{ .lg .pad-r } Reaction
 
 :rsc-reaction: **Reaction**s are special actions you can take in response to certain triggers, even when it’s not your turn. You can take one :rsc-reaction: **Reaction** per round. Common reactions include:
 
 - **Opportunity Attack:** When an enemy moves out of your reach.
-- **Casting a Reaction Spell:** Some spells, like "Shield" or "Counterspell," can be cast as a reaction.
+- **Casting a :rsc-reaction: **Reaction** Spell:** Some spells, like "Shield" or "Counterspell," can be cast as a reaction.
 
 ## Movement
 
@@ -68,4 +68,4 @@ During your turn, you can interact with one object or feature of the environment
 - Hand an item to another character
 - and so on
 
-If you want to interact with more than one object, you may need to use your action.
+If you want to interact with more than one object, you may need to use your :rsc-action: **Action**.

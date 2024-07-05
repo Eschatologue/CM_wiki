@@ -46,7 +46,7 @@ When you cast a spell that forces a creature to make a :d20-save:**Saving Throw*
 
 **Cost:** *2 Sorcery Point(s)*
 
-When you cast a spell that has a casting time of 1 action, you can spend 2 Sorcery Point(s) to change the casting time to 1 bonus action for this casting.
+When you cast a spell that has a casting time of 1 action, you can spend 2 Sorcery Point(s) to change the casting time to 1 :rsc-bonus-action: **Bonus Action** for this casting.
 
 ### Seeking Spell
 
