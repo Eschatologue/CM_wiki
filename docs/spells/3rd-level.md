@@ -52,7 +52,7 @@ When you move within 5 feet of a creature or an object that isn't being worn or 
 **Components:** V  
 **Duration:** Concentration, up to 1 minute
 
-Healing energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. You can use a :rsc-bonus-action: **Bonus Action** to cause one creature in the aura (including you) to regain 2d6 hit points.
+Healing energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. You can use a :rsc-bonus-action: **Bonus Action** to cause one creature in the aura (including you) to regain 2d6 Hit Points.
 
 ### Beacon of Hope
 *3rd-level abjuration*
@@ -62,7 +62,7 @@ Healing energy radiates from you in an aura with a 30-foot radius. Until the spe
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has advantage on Wisdom Saving Throws and death Saving Throws, and regains the maximum number of hit points possible from any healing.
+This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has advantage on Wisdom Saving Throws and death Saving Throws, and regains the maximum number of Hit Points possible from any healing.
 
 ### Bestow Curse
 *3rd-level necromancy*
@@ -164,7 +164,7 @@ Two beasts of challenge rating 1 or lower
 Four beasts of challenge rating 1/2 or lower  
 Eight beasts of challenge rating 1/4 or lower
 
-Each beast is also considered fey, and it disappears when it drops to 0 hit points or when the spell ends.
+Each beast is also considered fey, and it disappears when it drops to 0 Hit Points or when the spell ends.
 
 The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which has its own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions.
 
@@ -362,7 +362,7 @@ You touch a willing creature. The target gains a flying speed of 60 feet for the
 **Components:** V, S, M (a bit of gauze and a wisp of smoke)  
 **Duration:** Concentration, up to 1 hour
 
-You transform a willing creature you touch, along with everything it's wearing and carrying, into a misty cloud for the duration. The spell ends if the creature drops to 0 hit points. An incorporeal creature isn't affected.
+You transform a willing creature you touch, along with everything it's wearing and carrying, into a misty cloud for the duration. The spell ends if the creature drops to 0 Hit Points. An incorporeal creature isn't affected.
 
 While in this form, the target's only method of movement is a flying speed of 10 feet. The target can enter and occupy the space of another creature. The target has resistance to nonmagical damage, and it has advantage on Strength, Dexterity, and Constitution Saving Throws. The target can pass through small holes, narrow openings, and even mere cracks, though it treats liquids as though they were solid surfaces. The target can't fall and remains hovering in the air even when stunned or otherwise incapacitated.
 
@@ -474,7 +474,7 @@ Until the spell ends, you can command the interior to become dimly lit or dark. 
 **Components:** V, S  
 **Duration:** Instantaneous
 
-You sacrifice some of your health to mend another creature's injuries. You take 4d8 necrotic damage, which can't be reduced in any way, and one creature of your choice that you can see within range regains a number of hit points equal to twice the necrotic damage you take.
+You sacrifice some of your health to mend another creature's injuries. You take 4d8 necrotic damage, which can't be reduced in any way, and one creature of your choice that you can see within range regains a number of Hit Points equal to twice the necrotic damage you take.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
 
@@ -552,7 +552,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 **Components:** V  
 **Duration:** Instantaneous
 
-As you call out words of restoration, up to six creatures of your choice that you can see within range regain hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+As you call out words of restoration, up to six creatures of your choice that you can see within range regain Hit Points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the healing increases by 1d4 for each slot level above 3rd.
 
@@ -590,9 +590,9 @@ You create six tiny meteors in your space. They float in the air and orbit you f
 **Components:** V  
 **Duration:** 1 hour
 
-*I once heard a motivational speech by Jim and it was the worst ninety seconds of my life. What does Omin see in him, anyway?*— Walnut DankgrassYou address allies, staff, or innocent bystanders to exhort and inspire them to greatness, whether they have anything to get excited about or not. Choose up to five creatures within range that can hear you. For the duration, each affected creature gains 5 temporary hit points and has advantage on Wisdom Saving Throws. If an affected creature is hit by an attack, it has advantage on the next attack roll it makes. Once an affected creature loses the temporary hit points granted by this spell, the spell ends for that creature.
+*I once heard a motivational speech by Jim and it was the worst ninety seconds of my life. What does Omin see in him, anyway?*— Walnut DankgrassYou address allies, staff, or innocent bystanders to exhort and inspire them to greatness, whether they have anything to get excited about or not. Choose up to five creatures within range that can hear you. For the duration, each affected creature gains 5 temporary Hit Points and has advantage on Wisdom Saving Throws. If an affected creature is hit by an attack, it has advantage on the next attack roll it makes. Once an affected creature loses the temporary Hit Points granted by this spell, the spell ends for that creature.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the temporary hit points increase by 5 for each slot level above 3rd.
+***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the temporary Hit Points increase by 5 for each slot level above 3rd.
 
 ### Nondetection
 *3rd-level abjuration*
@@ -674,7 +674,7 @@ At your touch, all curses affecting one creature or object end. If the object is
 **Components:** V, S, M (diamonds worth 300 gp, which the spell consumes)  
 **Duration:** Instantaneous
 
-You touch a creature that has died within the last minute. That creature returns to life with 1 hit point. This spell can't return to life a creature that has died of old age, nor can it restore any missing body parts.
+You touch a creature that has died within the last minute. That creature returns to life with 1 Hit Point. This spell can't return to life a creature that has died of old age, nor can it restore any missing body parts.
 
 ### Sending
 *3rd-level evocation*
@@ -784,7 +784,7 @@ When you cast this spell, you can designate any number of creatures you can see 
 
 You call forth spirits of the dead, which flit around you for the spell's duration. The spirits are intangible and invulnerable.
 
-Until the spell ends, any attack you make deals 1d8 extra damage when you hit a creature within 10 feet of you. This damage is radiant, necrotic, or cold (your choice when you cast the spell). Any creature that takes this damage can't regain hit points until the start of your next turn.
+Until the spell ends, any attack you make deals 1d8 extra damage when you hit a creature within 10 feet of you. This damage is radiant, necrotic, or cold (your choice when you cast the spell). Any creature that takes this damage can't regain Hit Points until the start of your next turn.
 
 In addition, any creature of your choice that you can see that starts its turn within 10 feet of you has its speed reduced by 10 feet until the start of your next turn.
 
@@ -812,7 +812,7 @@ A moderate wind (at least 10 miles per hour) disperses the cloud after 4 rounds.
 **Components:** V, S, M (a gilded flower worth at least 300 gp)  
 **Duration:** Concentration, up to 1 hour
 
-You call forth a fey spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the **Fey Spirit** stat block. When you cast the spell, choose a mood: Fuming, Mirthful, or Tricksy. The creature resembles a fey creature of your choice marked by the chosen mood, which determines one of the traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.
+You call forth a fey spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the **Fey Spirit** stat block. When you cast the spell, choose a mood: Fuming, Mirthful, or Tricksy. The creature resembles a fey creature of your choice marked by the chosen mood, which determines one of the traits in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
 
 The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
 
@@ -834,7 +834,7 @@ You utter foul words, summoning demons from the chaos of the Abyss. Roll on the 
 | 3-4 | Four demons of challenge rating 1/2 or lower  |
 | 5-6 | Eight demons of challenge rating 1/4 or lower |
 
-The DM chooses the demons, such as **manes** or **dretches**, and you choose the unoccupied spaces you can see within range where they appear. A summoned demon disappears when it drops to 0 hit points or when the spell ends.
+The DM chooses the demons, such as **manes** or **dretches**, and you choose the unoccupied spaces you can see within range where they appear. A summoned demon disappears when it drops to 0 Hit Points or when the spell ends.
 
 The demons are hostile to all creatures, including you. Roll initiative for the summoned demons as a group, which has its own turns. The demons pursue and attack the nearest non-demons to the best of their ability.
 
@@ -850,7 +850,7 @@ As part of casting the spell, you can form a circle on the ground with the blood
 **Components:** V, S, M (tears inside a gem worth at least 300 gp)  
 **Duration:** Concentration, up to 1 hour
 
-You call forth a shadowy spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the **Shadow Spirit** stat block. When you cast the spell, choose an emotion: Fury, Despair, or Fear. The creature resembles a misshapen biped marked by the chosen emotion, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.
+You call forth a shadowy spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the **Shadow Spirit** stat block. When you cast the spell, choose an emotion: Fury, Despair, or Fear. The creature resembles a misshapen biped marked by the chosen emotion, which determines certain traits in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
 
 The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
 
@@ -864,7 +864,7 @@ The creature is an ally to you and your companions. In combat, the creature shar
 **Components:** V, S, M (a gilded skull worth at least 300 gp)  
 **Duration:** Concentration, up to 1 hour
 
-You call forth an undead spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the **Undead Spirit** stat block. When you cast the spell, choose the creature's form: Ghostly, Putrid, or Skeletal. The spirit resembles an undead creature with the chosen form, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.
+You call forth an undead spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the **Undead Spirit** stat block. When you cast the spell, choose the creature's form: Ghostly, Putrid, or Skeletal. The spirit resembles an undead creature with the chosen form, which determines certain traits in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
 
 The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
 
@@ -902,11 +902,11 @@ You conjure up a wave of water that crashes down on an area within range. The ar
 **Components:** V, S  
 **Duration:** 8 hours
 
-You touch one Tiny, nonmagical object that isn't attached to another object or a surface and isn't being carried by another creature. The target animates and sprouts little arms and legs, becoming a creature under your control until the spell ends or the creature drops to 0 hit points. See the **stat block** for its statistics.
+You touch one Tiny, nonmagical object that isn't attached to another object or a surface and isn't being carried by another creature. The target animates and sprouts little arms and legs, becoming a creature under your control until the spell ends or the creature drops to 0 Hit Points. See the **stat block** for its statistics.
 
 As a :rsc-bonus-action: **Bonus Action**, you can mentally command the creature if it is within 120 feet of you. (If you control multiple creatures with this spell, you can command any or all of them at the same time, issuing the same command to each one.) You decide what action the creature will take and where it will move during its next turn, or you can issue a simple, general command, such as to fetch a key, stand watch, or stack some books. If you issue no commands, the servant does nothing other than defend itself against hostile creatures. Once given an order, the servant continues to follow that order until its task is complete.
 
-When the creature drops to 0 hit points, it reverts to its original form, and any remaining damage carries over to that form.
+When the creature drops to 0 Hit Points, it reverts to its original form, and any remaining damage carries over to that form.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, you can animate two additional objects for each slot level above 3rd.
 
@@ -928,7 +928,7 @@ This spell grants the creature you touch the ability to understand any spoken la
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-The touch of your shadow-wreathed hand can siphon life force from others to heal your wounds. Make a melee spell attack against a creature within your reach. On a hit, the target takes 3d6 necrotic damage, and you regain hit points equal to half the amount of necrotic damage dealt. Until the spell ends, you can make the attack again on each of your turns as an :rsc-action: **Action**.
+The touch of your shadow-wreathed hand can siphon life force from others to heal your wounds. Make a melee spell attack against a creature within your reach. On a hit, the target takes 3d6 necrotic damage, and you regain Hit Points equal to half the amount of necrotic damage dealt. Until the spell ends, you can make the attack again on each of your turns as an :rsc-action: **Action**.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 
@@ -952,7 +952,7 @@ You create a wall of swirling sand on the ground at a point you can see within r
 
 You create a wall of water on the ground at a point you can see within range. You can make the wall up to 30 feet long, 10 feet high, and 1 foot thick, or you can make a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick. The wall vanishes when the spell ends. The wall's space is difficult terrain.
 
-Any ranged weapon attack that enters the wall's space has disadvantage on the attack roll, and fire damage is halved if the fire effect passes through the wall to reach its target. Spells that deal cold damage that pass through the wall cause the area of the wall they pass through to freeze solid (at least a 5-foot-square section is frozen). Each 5-foot-square frozen section has AC 5 and 15 hit points. Reducing a frozen section to 0 hit points destroys it. When a section is destroyed, the wall's water doesn't fill it.
+Any ranged weapon attack that enters the wall's space has disadvantage on the attack roll, and fire damage is halved if the fire effect passes through the wall to reach its target. Spells that deal cold damage that pass through the wall cause the area of the wall they pass through to freeze solid (at least a 5-foot-square section is frozen). Each 5-foot-square frozen section has AC 5 and 15 Hit Points. Reducing a frozen section to 0 Hit Points destroys it. When a section is destroyed, the wall's water doesn't fill it.
 
 ### Water Breathing
 *3rd-level transmutation (ritual)*

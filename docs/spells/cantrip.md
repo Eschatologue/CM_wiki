@@ -44,7 +44,7 @@ This spell's damage increases when you reach certain levels. At 5th level, the m
 **Components:** V, S  
 **Duration:** 1 round
 
-You create a ghostly, skeletal hand in the space of a creature within range. Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit, the target takes 1d8 necrotic damage, and it can't regain hit points until the start of your next turn. Until then, the hand clings to the target.
+You create a ghostly, skeletal hand in the space of a creature within range. Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit, the target takes 1d8 necrotic damage, and it can't regain Hit Points until the start of your next turn. Until then, the hand clings to the target.
 
 If you hit an undead target, it also has disadvantage on attack rolls against you until the end of your next turn.
 
@@ -484,7 +484,7 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 **Components:** V, S  
 **Duration:** Instantaneous
 
-You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs.
+You touch a living creature that has 0 Hit Points. The creature becomes stable. This spell has no effect on undead or constructs.
 
 ### Sword Burst
 *Conjuration cantrip*
@@ -549,7 +549,7 @@ The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (
 **Components:** V, S  
 **Duration:** Instantaneous
 
-You point at one creature you can see within range, and the sound of a dolorous bell fills the air around it for a moment. The target must succeed on a Wisdom Saving Throw or take 1d8 necrotic damage. If the target is missing any of its hit points, it instead takes 1d12 necrotic damage.
+You point at one creature you can see within range, and the sound of a dolorous bell fills the air around it for a moment. The target must succeed on a Wisdom Saving Throw or take 1d8 necrotic damage. If the target is missing any of its Hit Points, it instead takes 1d12 necrotic damage.
 
 The spell's damage increases by one die when you reach 5th level (2d8 or 2d12), 11th level (3d8 or 3d12), and 17th level (4d8 or 4d12).
 

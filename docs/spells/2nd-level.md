@@ -24,9 +24,9 @@ A line of roaring flame 30 feet long and 5 feet wide emanates from you in a dire
 **Components:** V, S, M (a tiny strip of white cloth)  
 **Duration:** 8 hours
 
-Your spell bolsters your allies with toughness and resolve. Choose up to three creatures within range. Each target's hit point maximum and current hit points increase by 5 for the duration.
+Your spell bolsters your allies with toughness and resolve. Choose up to three creatures within range. Each target's Hit Point maximum and current Hit Points increase by 5 for the duration.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, a target's hit points increase by an additional 5 for each slot level above 2nd.
+***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, a target's Hit Points increase by an additional 5 for each slot level above 2nd.
 
 ### Air Bubble
 *2nd-level conjuration*
@@ -319,7 +319,7 @@ Choose one creature you can see within range. Yellow strips of magical energy lo
 
 You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects; the target gains that effect until the spell ends.
 
-***Bear's Endurance.*** The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the spell ends.
+***Bear's Endurance.*** The target has advantage on Constitution checks. It also gains 2d6 temporary Hit Points, which are lost when the spell ends.
 
 ***Bull's Strength.*** The target has advantage on Strength checks, and his or her carrying capacity doubles.
 
@@ -371,7 +371,7 @@ You summon a spirit that assumes the form of an unusually intelligent, strong, a
 
 Your steed serves you as a mount, both in combat and out, and you have an instinctive bond with it that allows you to fight as a seamless unit. While mounted on your steed, you can make any spell you cast that targets only you also target your steed.
 
-When the steed drops to 0 hit points, it disappears, leaving behind no physical form. You can also dismiss your steed at any time as an :rsc-action: **Action**, causing it to disappear. In either case, casting this spell again summons the same steed, restored to its hit point maximum.
+When the steed drops to 0 Hit Points, it disappears, leaving behind no physical form. You can also dismiss your steed at any time as an :rsc-action: **Action**, causing it to disappear. In either case, casting this spell again summons the same steed, restored to its Hit Point maximum.
 
 While your steed is within 1 mile of you, you can communicate with each other telepathically.
 
@@ -483,7 +483,7 @@ As a :rsc-bonus-action: **Bonus Action** on each of your turns before the spell 
 
 You call forth a nature spirit to soothe the wounded. The intangible spirit appears in a space that is a 5-foot cube you can see within range. The spirit looks like a transparent beast or fey (your choice).
 
-Until the spell ends, whenever you or a creature you can see moves into the spirit's space for the first time on a turn or starts its turn there, you can cause the spirit to restore 1d6 hit points to that creature (no action required). The spirit can't heal constructs or undead. The spirit can heal a number of times equal to 1 + your spellcasting ability modifier (minimum of twice). After healing that number of times, the spirit disappears.
+Until the spell ends, whenever you or a creature you can see moves into the spirit's space for the first time on a turn or starts its turn there, you can cause the spirit to restore 1d6 Hit Points to that creature (no action required). The spirit can't heal constructs or undead. The spirit can heal a number of times equal to 1 + your spellcasting ability modifier (minimum of twice). After healing that number of times, the spirit disappears.
 
 As a :rsc-bonus-action: **Bonus Action** on your turn, you can move the spirit up to 30 feet to a space you can see.
 
@@ -809,7 +809,7 @@ An affected target is so convinced of the phantasm's reality that it can even ta
 **Components:** V  
 **Duration:** Instantaneous
 
-Up to six creatures of your choice that you can see within range each regain hit points equal to 2d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+Up to six creatures of your choice that you can see within range each regain Hit Points equal to 2d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the healing increases by 1d8 for each slot level above 2nd.
 
@@ -1051,7 +1051,7 @@ If you or any of your companions damage the target, the spell ends.
 **Components:** V, S, M (a feather, tuft of fur, and fish tail inside a gilded acorn worth at least 200 gp)  
 **Duration:** Concentration, up to 1 hour
 
-You call forth a bestial spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the **Bestial Spirit** stat block. When you cast the spell, choose an environment: Air, Land, or Water. The creature resembles an animal of your choice that is native to the chosen environment, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.
+You call forth a bestial spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the **Bestial Spirit** stat block. When you cast the spell, choose an environment: Air, Land, or Water. The creature resembles an animal of your choice that is native to the chosen environment, which determines certain traits in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
 
 The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
 
@@ -1091,7 +1091,7 @@ You magically twist space around another creature you can see within range. The 
 
 This spell wards a willing creature you touch and creates a mystic connection between you and the target until the spell ends. While the target is within 60 feet of you, it gains a +1 bonus to AC and Saving Throws, and it has resistance to all damage. Also, each time it takes damage, you take the same amount of damage.
 
-The spell ends if you drop to 0 hit points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures. You can also dismiss the spell as an :rsc-action: **Action**.
+The spell ends if you drop to 0 Hit Points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures. You can also dismiss the spell as an :rsc-action: **Action**.
 
 ### Warding Wind
 *2nd-level evocation*
@@ -1153,7 +1153,7 @@ The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 
 
 You invoke both death and life upon a 10-foot-radius sphere centered on a point within range. Each creature of your choice in that area must make a Constitution Saving Throw, taking 2d6 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical vegetation in that area withers.
 
-In addition, one creature of your choice in that area can spend and roll one of its unspent Hit Dice and regain a number of hit points equal to the roll plus your spellcasting ability modifier.
+In addition, one creature of your choice in that area can spend and roll one of its unspent Hit Dice and regain a number of Hit Points equal to the roll plus your spellcasting ability modifier.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot above the 2nd, and the number of Hit Dice that can be spent and added to the healing roll increases by one for each slot above 2nd.
 

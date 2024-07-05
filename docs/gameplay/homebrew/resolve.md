@@ -12,10 +12,10 @@ The Resolve and Death's Door mechanic is introduced in Crown & Misery to add mor
 
 ## Death's Door
 
-When reduced to 0 hit points but not killed outright, you remain conscious but are considered to be at *Death’s Door*. You must immediately make a Resolve Check unless you are already under the effects of either **Resolute** or **Meltdown**.
+When reduced to 0 Hit Points but not killed outright, you remain conscious but are considered to be at *Death’s Door*. You must immediately make a Resolve Check unless you are already under the effects of either **Resolute** or **Meltdown**.
 
-- :material-bullseye-arrow:**Damage and Failures.** Each instance of damage from a single source counts as one 'Death Saving Throw Failure', with Critical Hits counting as two failures. Upon accumulating three failures or if the damage equals or exceeds your hit point maximum, you **die** instantly.
-- :material-heart-pulse:**Stabilization.** While at Death’s Door, anyone (including yourself) may attempt to stabilize you with a DC 10 Wisdom (Medicine) check. A successful check grants one 'Death Saving Throw Success', with critical successes granting two. Upon gaining three 'Death Saving Throw Successes', you regain 1 hit point.
+- :material-bullseye-arrow:**Damage and Failures.** Each instance of damage from a single source counts as one 'Death Saving Throw Failure', with Critical Hits counting as two failures. Upon accumulating three failures or if the damage equals or exceeds your Hit Point maximum, you **die** instantly.
+- :material-heart-pulse:**Stabilization.** While at Death’s Door, anyone (including yourself) may attempt to stabilize you with a DC 10 Wisdom (Medicine) check. A successful check grants one 'Death Saving Throw Success', with critical successes granting two. Upon gaining three 'Death Saving Throw Successes', you regain 1 Hit Point.
 - :material-plus-thick:**Healing.** Direct healing removes you from Death's Door and allows you to heal for the expected amount.
 
 ## Resolve Check
@@ -32,7 +32,7 @@ A Resolve Check is an Ability Check made to determine whether a creature gains t
 A Resolve Check is made under two conditions:
 
 1. :material-door-open:**Death's Door:** As mentioned above, when you are reduced to 0 Hit Points but not killed outright, you must immediately make a Resolve Check, ending the Death's Door state on a successful one.
-2. :material-bullseye-arrow:**Massive Damage:** When you take damage from a single source equal to or greater than half your hit point maximum, you must make a Saving Throw using Intelligence, Wisdom, or Charisma (whichever has the highest ability modifier). The DC of this save is equal to 8 or half the damage you take, whichever number is higher (to a maximum of 18). On a failed save, you must make a Resolve Check.
+2. :material-bullseye-arrow:**Massive Damage:** When you take damage from a single source equal to or greater than half your Hit Point maximum, you must make a Saving Throw using Intelligence, Wisdom, or Charisma (whichever has the highest ability modifier). The DC of this save is equal to 8 or half the damage you take, whichever number is higher (to a maximum of 18). On a failed save, you must make a Resolve Check.
 
 ## Conditions: Resolute and Meltdown
 
@@ -45,7 +45,7 @@ The Resolute condition lasts for 10 minutes but can end early under the followin
 
 While this condition is in effect, you gain several benefits:
 
-- **Recovery:** You restore hit points up to half of your lost hit points, and whenever you are at *Death’s Door*, *Death’s Door* ends immediately.
+- **Recovery:** You restore Hit Points up to half of your lost Hit Points, and whenever you are at *Death’s Door*, *Death’s Door* ends immediately.
 - **Suppressed Conditions:** Conditions such as *paralyzed*, *frightened,* and *charmed* on you are suppressed for the duration. When the duration ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.
 
 Immediately after you receive this condition, you roll a d10 and gain a virtue depending on the result:
@@ -62,7 +62,7 @@ Immediately after you receive this condition, you roll a d10 and gain a virtue d
 
 The Meltdown condition lasts for 10 minutes but can end early under the following conditions:
 
-- **Recovery.** You regain at least half of your hit point maximum.
+- **Recovery.** You regain at least half of your Hit Point maximum.
 - **Being Calmed.** Spell such as *Calm Emotions* is cast on you, requiring the caster to make an Ability Check using its spellcasting ability. The DC is equal to the highest ability score you have between Intelligence, Wisdom, or Charisma. On success, **Meltdown** ends.
 - **Resting.** You finish a short or long rest.
 - **Healed.** The spell *Greater Restoration* spell is cast on you.
@@ -77,7 +77,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 | 7-8 | Irrational | “Reeling, gasping, taken over the edge into madness!” |
 | 9-10 | Masochistic | “Those who covet injury find it in no short supply” |
 
-> Taking additional damage in the **Meltdown** condition does not deduct from the total count of restored hit points. This means that if a creature has the **Meltdown** condition and then receives healing, any subsequent damage taken doesn't undo the progress made towards ending the condition.
+> Taking additional damage in the **Meltdown** condition does not deduct from the total count of restored Hit Points. This means that if a creature has the **Meltdown** condition and then receives healing, any subsequent damage taken doesn't undo the progress made towards ending the condition.
 
 ## Virtues and Affliction
 
@@ -118,7 +118,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 
 *"Adversity can foster hope, and resillience"*
 
-- You immediately restore hit points equal to 1d10 + your Character level.
+- You immediately restore Hit Points equal to 1d10 + your Character level.
 - Your gain +1 bonus to your AC and +2 to any Saving Throw you make.
 - You gain bonus of 10 ft. movement speed.
 
@@ -146,7 +146,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 *“There can be no hope in this hell, no hope at all.”*
 
 - You have :d20-disadv: **Disadvantage** on all attack rolls and ability checks.
-- Whenever you regain hit point, the amount total is halved. This does not affect the progress in which **Meltdown** can be ended early.
+- Whenever you regain Hit Point, the amount total is halved. This does not affect the progress in which **Meltdown** can be ended early.
 - You are resistant to Psychic damage.
 - Your speed is halved.
 

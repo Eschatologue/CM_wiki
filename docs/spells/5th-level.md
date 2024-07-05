@@ -10,7 +10,7 @@ icon: material/roman-numeral-5
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-Objects come to life at your command. Choose up to ten nonmagical objects within range that are not being worn or carried. Medium targets count as two objects, Large targets count as four objects, Huge targets count as eight objects. You can't animate any object larger than Huge. Each target animates and becomes a creature under your control until the spell ends or until reduced to 0 hit points.
+Objects come to life at your command. Choose up to ten nonmagical objects within range that are not being worn or carried. Medium targets count as two objects, Large targets count as four objects, Huge targets count as eight objects. You can't animate any object larger than Huge. Each target animates and becomes a creature under your control until the spell ends or until reduced to 0 Hit Points.
 
 As a :rsc-bonus-action: **Bonus Action**, you can mentally command any creature you made with this spell if the creature is within 500 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.
 
@@ -23,7 +23,7 @@ As a :rsc-bonus-action: **Bonus Action**, you can mentally command any creature 
 | **Large**  |  50 |  10 | +6 to hit, 2d10 + 2 damage |  14 |  10 |
 | **Huge**   |  80 |  10 | +8 to hit, 2d12 + 4 damage |  18 |  6  |
 
-An animated object is a construct with AC, hit points, attacks, Strength, and Dexterity determined by its size. Its Constitution is 10 and its Intelligence and Wisdom are 3, and its Charisma is 1. Its speed is 30 feet; if the object lacks legs or other appendages it can use for locomotion, it instead has a flying speed of 30 feet and can hover. If the object is securely attached to a surface or a larger object, such as a chain bolted to a wall, its speed is 0. It has blindsight with a radius of 30 feet and is blind beyond that distance. When the animated object drops to 0 hit points, it reverts to its original object form, and any remaining damage carries over to its original object form.
+An animated object is a construct with AC, Hit Points, attacks, Strength, and Dexterity determined by its size. Its Constitution is 10 and its Intelligence and Wisdom are 3, and its Charisma is 1. Its speed is 30 feet; if the object lacks legs or other appendages it can use for locomotion, it instead has a flying speed of 30 feet and can hover. If the object is securely attached to a surface or a larger object, such as a chain bolted to a wall, its speed is 0. It has blindsight with a radius of 30 feet and is blind beyond that distance. When the animated object drops to 0 Hit Points, it reverts to its original object form, and any remaining damage carries over to its original object form.
 
 If you command an object to attack, it can make a single melee attack against a creature within 5 feet of it. It makes a slam attack with an attack bonus and bludgeoning damage determined by its size. The DM might rule that a specific object inflicts slashing or piercing damage based on its form.
 
@@ -63,7 +63,7 @@ The awakened beast or plant is charmed by you for 30 days or until you or your c
 **Components:** V  
 **Duration:** Concentration, up to 1 minute
 
-The next time you hit a creature with a weapon attack before this spell ends, your weapon crackles with force, and the attack deals an extra 5d10 force damage to the target. Additionally, if this attack reduces the target to 50 hit points or fewer, you banish it. If the target is native to a different plane of existence than the one you're on, the target disappears, returning to its home plane. If the target is native to the plane you're on, the creature vanishes into a harmless demiplane. While there, the target is incapacitated. It remains there until the spell ends, at which point the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
+The next time you hit a creature with a weapon attack before this spell ends, your weapon crackles with force, and the attack deals an extra 5d10 force damage to the target. Additionally, if this attack reduces the target to 50 Hit Points or fewer, you banish it. If the target is native to a different plane of existence than the one you're on, the target disappears, returning to its home plane. If the target is native to the plane you're on, the creature vanishes into a harmless demiplane. While there, the target is incapacitated. It remains there until the spell ends, at which point the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
 
 ### Bigby's Hand
 *5th-level evocation*
@@ -75,7 +75,7 @@ The next time you hit a creature with a weapon attack before this spell ends, yo
 
 You create a Large hand of shimmering, translucent force in an unoccupied space that you can see within range. The hand lasts for the spell's duration, and it moves at your command, mimicking the movements of your own hand.
 
-The hand is an object that has AC 20 and hit points equal to your hit point maximum. If it drops to 0 hit points, the spell ends. It has a Strength of 26 (+8) and a Dexterity of 10 (+0). The hand doesn't fill its space.
+The hand is an object that has AC 20 and Hit Points equal to your Hit Point maximum. If it drops to 0 Hit Points, the spell ends. It has a Strength of 26 (+8) and a Dexterity of 10 (+0). The hand doesn't fill its space.
 
 When you cast the spell and as a :rsc-bonus-action: **Bonus Action** on your subsequent turns, you can move the hand up to 60 feet and then cause one of the following effects with it.
 
@@ -171,7 +171,7 @@ A creature killed by this spell becomes a frozen statue until it thaws.
 **Components:** V, S, M (burning incense for air, soft clay for earth, sulfur and phosphorus for fire, or water and sand for water)  
 **Duration:** Concentration, up to 1 hour
 
-You call forth an elemental servant. Choose an area of air, earth, fire, or water that fills a 10-foot cube within range. An elemental of challenge rating 5 or lower appropriate to the area you chose appears in an unoccupied space within 10 feet of it. For example, a **fire elemental** emerges from a bonfire, and an **earth elemental** rises up from the ground. The elemental disappears when it drops to 0 hit points or when the spell ends.
+You call forth an elemental servant. Choose an area of air, earth, fire, or water that fills a 10-foot cube within range. An elemental of challenge rating 5 or lower appropriate to the area you chose appears in an unoccupied space within 10 feet of it. For example, a **fire elemental** emerges from a bonfire, and an **earth elemental** rises up from the ground. The elemental disappears when it drops to 0 Hit Points or when the spell ends.
 
 The elemental is friendly to you and your companions for the duration. Roll initiative for the elemental, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don't issue any commands to the elemental, it defends itself from hostile creatures but otherwise takes no actions.
 
@@ -380,7 +380,7 @@ If you have a body part, lock of hair, clipping from a nail, or similar portion 
 
 A tendril of inky darkness reaches out from you, touching a creature you can see within range to drain life from it. The target must make a Dexterity Saving Throw. On a successful save, the target takes 2d8 necrotic damage, and the spell ends. On a failed save, the target takes 4d8 necrotic damage, and until the spell ends, you can use your :rsc-action: **Action** on each of your turns to automatically deal 4d8 necrotic damage to the target. The spell ends if you use your :rsc-action: **Action** to do anything else, if the target is ever outside the spell's range, or if the target has total cover from you.
 
-Whenever the spell deals damage to a target, you regain hit points equal to half the amount of necrotic damage the target takes.
+Whenever the spell deals damage to a target, you regain Hit Points equal to half the amount of necrotic damage the target takes.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
 
@@ -435,7 +435,7 @@ You imbue a creature you touch with positive energy to undo a debilitating effec
 One effect that charmed or petrified the target  
 One curse, including the target's attunement to a cursed magic item  
 Any reduction to one of the target's ability scores  
-One effect reducing the target's hit point maximum
+One effect reducing the target's Hit Point maximum
 
 ### Hallow
 *5th-level evocation*
@@ -515,7 +515,7 @@ If damage from this spell kills a target, the target is turned to ash.
 **Components:** V, S, M (a ruby worth at least 999 gp)  
 **Duration:** Concentration, up to 1 hour
 
-Uttering a dark incantation, you summon a devil from the Nine Hells. You choose the devil's type, which must be one of challenge rating 6 or lower, such as a **barbed devil** or a **bearded devil**. The devil appears in an unoccupied space that you can see within range. The devil disappears when it drops to 0 hit points or when the spell ends.
+Uttering a dark incantation, you summon a devil from the Nine Hells. You choose the devil's type, which must be one of challenge rating 6 or lower, such as a **barbed devil** or a **bearded devil**. The devil appears in an unoccupied space that you can see within range. The devil disappears when it drops to 0 Hit Points or when the spell ends.
 
 The devil is unfriendly toward you and your companions. Roll initiative for the devil, which has its own turns. It is under the Dungeon Master's control and acts according to its nature on each of its turns, which might result in its attacking you if it thinks it can prevail, or trying to tempt you to undertake an evil act in exchange for limited service. The DM has the creature's statistics.
 
@@ -571,7 +571,7 @@ A swirling mass of 5-foot-deep water appears in a 30-foot radius centered on a p
 **Components:** V, S  
 **Duration:** Instantaneous
 
-A wave of healing energy washes out from a point of your choice within range. Choose up to six creatures in a 30-foot-radius sphere centered on that point. Each target regains hit points equal to 3d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+A wave of healing energy washes out from a point of your choice within range. Choose up to six creatures in a 30-foot-radius sphere centered on that point. Each target regains Hit Points equal to 3d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, the healing increases by 1d8 for each slot level above 5th.
 
@@ -619,7 +619,7 @@ A *remove curse* or *greater restoration* spell cast on the target restores the 
 
 You send ribbons of negative energy at one creature you can see within range. Unless the target is undead, it must make a Constitution Saving Throw, taking 5d12 necrotic damage on a failed save, or half as much damage on a successful one. A target killed by this damage rises up as a **zombie** at the start of your next turn. The zombie pursues whatever creature it can see that is closest to it. Statistics for the **zombie** are in the Monster Manual.
 
-If you target an undead with this spell, the target doesn't make a Saving Throw. Instead, roll 5d12. The target gains half the total as temporary hit points.
+If you target an undead with this spell, the target doesn't make a Saving Throw. Instead, roll 5d12. The target gains half the total as temporary Hit Points.
 
 ### Passwall
 *5th-level transmutation*
@@ -655,7 +655,7 @@ A bound creature must follow your instructions to the best of its ability. You m
 **Components:** V, S, M (a diamond worth at least 500 gp, which the spell consumes)  
 **Duration:** Instantaneous
 
-You return a dead creature you touch to life, provided that it has been dead no longer than 10 days. If the creature's soul is both willing and at liberty to rejoin the body, the creature returns to life with 1 hit point.
+You return a dead creature you touch to life, provided that it has been dead no longer than 10 days. If the creature's soul is both willing and at liberty to rejoin the body, the creature returns to life with 1 Hit Point.
 
 This spell also neutralizes any poisons and cures nonmagical diseases that affected the creature at the time it died. This spell doesn't, however, remove magical diseases, curses, or similar effects; if these aren't first removed prior to casting the spell, they take effect when the creature returns to life. The spell can't return an undead creature to life.
 
@@ -795,7 +795,7 @@ You can then teleport to an unoccupied space you can see within 5 feet of one of
 **Components:** V, S, M (a golden reliquary worth at least 500 gp)  
 **Duration:** Concentration, up to 1 hour
 
-You call forth a celestial spirit. It manifests in an angelic form in an unoccupied space that you can see within range. This corporeal form uses the **Celestial Spirit** stat block. When you cast the spell, choose Avenger or Defender. Your choice determines the creature's attack in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.
+You call forth a celestial spirit. It manifests in an angelic form in an unoccupied space that you can see within range. This corporeal form uses the **Celestial Spirit** stat block. When you cast the spell, choose Avenger or Defender. Your choice determines the creature's attack in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
 
 The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
 
@@ -809,7 +809,7 @@ The creature is an ally to you and your companions. In combat, the creature shar
 **Components:** V, S, M (an object with the image of a dragon engraved on it, worth at least 500 gp)  
 **Duration:** Concentration, up to 1 hour
 
-You call forth a **draconic spirit**. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Draconic Spirit stat block. When you cast this spell, choose a family of dragon: chromatic, gem, or metallic. The creature resembles a dragon of the chosen family, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.
+You call forth a **draconic spirit**. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Draconic Spirit stat block. When you cast this spell, choose a family of dragon: chromatic, gem, or metallic. The creature resembles a dragon of the chosen family, which determines certain traits in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
 
 The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
 
@@ -889,7 +889,7 @@ The ground in the spell's area becomes muddy enough that creatures can sink into
 
 If you cast the spell on a ceiling, the mud falls. Any creature under the mud when it falls must make a Dexterity Saving Throw. A creature takes 4d8 bludgeoning damage on a failed save, or half as much damage on a successful one.
 
-***Transmute Mud to Rock.*** Nonmagical mud or quicksand in the area no more than 10 feet deep transforms into soft stone for the spell's duration. Any creature in the mud when it transforms must make a Dexterity Saving Throw. On a successful save, a creature is shunted safely to the surface in an unoccupied space. On a failed save, a creature becomes restrained by the rock. A restrained creature, or another creature within reach, can use an :rsc-action: **Action** to try to break the rock by succeeding on a DC 20 Strength check or by dealing damage to it. The rock has AC 15 and 25 hit points, and it is immune to poison and psychic damage.
+***Transmute Mud to Rock.*** Nonmagical mud or quicksand in the area no more than 10 feet deep transforms into soft stone for the spell's duration. Any creature in the mud when it transforms must make a Dexterity Saving Throw. On a successful save, a creature is shunted safely to the surface in an unoccupied space. On a failed save, a creature becomes restrained by the rock. A restrained creature, or another creature within reach, can use an :rsc-action: **Action** to try to break the rock by succeeding on a DC 20 Strength check or by dealing damage to it. The rock has AC 15 and 25 Hit Points, and it is immune to poison and psychic damage.
 
 ### Tree Stride
 *5th-level conjuration*
@@ -949,7 +949,7 @@ The wall can have any shape you desire, though it can't occupy the same space as
 
 If you create a span greater than 20 feet in length, you must halve the size of each panel to create supports. You can crudely shape the wall to create crenellations, battlements, and so on.
 
-The wall is an object made of stone that can be damaged and thus breached. Each panel has AC 15 and 30 hit points per inch of thickness. Reducing a panel to 0 hit points destroys it and might cause connected panels to collapse at the DM's discretion.
+The wall is an object made of stone that can be damaged and thus breached. Each panel has AC 15 and 30 Hit Points per inch of thickness. Reducing a panel to 0 Hit Points destroys it and might cause connected panels to collapse at the DM's discretion.
 
 If you maintain your concentration on this spell for its whole duration, the wall becomes permanent and can't be dispelled. Otherwise, the wall disappears when the spell ends.
 

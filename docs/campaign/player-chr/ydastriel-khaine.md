@@ -67,9 +67,9 @@ Upon gaining this class feature, you gain additional Starry Forms tied to specif
 
     *A constellation of a life-giving goblet appears on you.* 
 
-    **Chalice of Life.** Whenever you cast a spell using a spell slot that restores hit points to a creature, you or another creature within 30 feet of you can regain hit points equal to 1d8 + your Wisdom modifier. (2d8 at 10th-level)
+    **Chalice of Life.** Whenever you cast a spell using a spell slot that restores Hit Points to a creature, you or another creature within 30 feet of you can regain Hit Points equal to 1d8 + your Wisdom modifier. (2d8 at 10th-level)
 
-    **Rejuvinating Bolt.** When you hit a creature with [Cosmic Flare] you can choose to restore hit points to that creature instead of damaging it. The restored hit points is equal to your half of your spell's damage.
+    **Rejuvinating Bolt.** When you hit a creature with [Cosmic Flare] you can choose to restore Hit Points to that creature instead of damaging it. The restored Hit Points is equal to your half of your spell's damage.
 
 === "**Dragon**"
 
@@ -124,7 +124,7 @@ Upon gaining this class feature, you gain additional Starry Forms tied to specif
     **Investment Liquidation:** You have the ability to use your :rsc-reaction: **Reaction** to destroy an amount of SP on your person to enhance an attack, increases healing, or damage reduction:
 
     - **Efficiency Investment:** When you or a friendly creature you can see hits with an attack, you can increase the damage dealt by :die-d10:1d10 for every 1,000 SP you destroy.
-    - **Health Insurance:** When you or a friendly creature you can see is targeted by a spell or effect that restores hit points or grants temporary hit points, you can increase the total hit points or the number of temporary hit points gained by :die-d10:1d10 for every 1,000 SP you destroy.
+    - **Health Insurance:** When you or a friendly creature you can see is targeted by a spell or effect that restores Hit Points or grants temporary Hit Points, you can increase the total Hit Points or the number of temporary Hit Points gained by :die-d10:1d10 for every 1,000 SP you destroy.
     - **Damage Reimbursement:** When you or a friendly creature you can see takes damage, you can reduce the damage received by :die-d10:1d10 for every 1,000 SP you destroy.
 
 === "**[Locked] Equillibrium**"

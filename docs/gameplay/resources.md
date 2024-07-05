@@ -72,7 +72,7 @@ Most spellcasters regain all their spell slots after completing a long rest (typ
 **Examples:**
 
 - **A Level 3 Wizard:** A 3rd-level wizard might have four 1st-level spell slots and two 2nd-level spell slots. They can cast six spells before needing to rest, using only the spell slots available to them as a wizard class.
-- **Using a Higher-Level Slot:** A cleric might cast "Cure Wounds," which is a 1st-level spell, using a 3rd-level spell slot to heal for more hit points. Instead of the base healing amount, the spell heals additional hit points per each level above the 1st, using only the cleric's spell slots.
+- **Using a Higher-Level Slot:** A cleric might cast "Cure Wounds," which is a 1st-level spell, using a 3rd-level spell slot to heal for more Hit Points. Instead of the base healing amount, the spell heals additional Hit Points per each level above the 1st, using only the cleric's spell slots.
 
 ### Spell Slot Table
 
@@ -130,7 +130,7 @@ Moving out of an enemy’s reach typically provokes an opportunity attack, allow
 
 ## Hit Dice
 
-Hit Dice are an essential mechanic in D&D that represent a character's ability to recover health during short rests and determine their overall hit points.
+Hit Dice are an essential mechanic in D&D that represent a character's ability to recover health during short rests and determine their overall Hit Points.
 
 ### Determining Hit Dice
 
@@ -140,10 +140,10 @@ Each class in D&D has a specific type of Hit Die. For example, a Fighter uses a 
 
 ### Using Hit Dice
 
-Hit Dice are primarily used to recover hit points during a short rest:
+Hit Dice are primarily used to recover Hit Points during a short rest:
 
-- **Short Rest Recovery:** During a short rest (typically 1 hour), a character can spend one or more of their Hit Dice to regain hit points. The player rolls the Hit Die, adds the character's Constitution modifier to the result, and regains that many hit points. Multiple Hit Dice can be rolled if desired.
-    - **Example:** A 4th-level Fighter (d10 Hit Dice) with a +2 Constitution modifier can spend one of their Hit Dice during a short rest. They roll a d10, get a 6, add their +2 modifier for a total of 8 hit points recovered. They have three remaining Hit Dice for that day.
+- **Short Rest Recovery:** During a short rest (typically 1 hour), a character can spend one or more of their Hit Dice to regain Hit Points. The player rolls the Hit Die, adds the character's Constitution modifier to the result, and regains that many Hit Points. Multiple Hit Dice can be rolled if desired.
+    - **Example:** A 4th-level Fighter (d10 Hit Dice) with a +2 Constitution modifier can spend one of their Hit Dice during a short rest. They roll a d10, get a 6, add their +2 modifier for a total of 8 Hit Points recovered. They have three remaining Hit Dice for that day.
 - **Regaining Hit Dice:** After a long rest (typically 8 hours), a character regains spent Hit Dice up to a number equal to half their total Hit Dice (minimum of one die). For example, if a character has eight Hit Dice, they regain four after a long rest.
 
 ??? info "Other Uses of Hit Dice"
@@ -152,9 +152,9 @@ Hit Dice are primarily used to recover hit points during a short rest:
 
 ### Hit Dice and Hit Points
 
-Hit Dice also play a role in determining a character's maximum hit points:
+Hit Dice also play a role in determining a character's maximum Hit Points:
 
-- **Leveling Up:** When a character gains a level, they roll the Hit Die associated with their class, add their Constitution modifier, and increase their maximum hit points by that amount.
-    - **Example:** When a 2nd-level Wizard (d6 Hit Dice) levels up to 3rd level and has a +1 Constitution modifier, they roll a d6, get a 4, add their +1 modifier, and increase their maximum hit points by 5.
+- **Leveling Up:** When a character gains a level, they roll the Hit Die associated with their class, add their Constitution modifier, and increase their maximum Hit Points by that amount.
+    - **Example:** When a 2nd-level Wizard (d6 Hit Dice) levels up to 3rd level and has a +1 Constitution modifier, they roll a d6, get a 4, add their +1 modifier, and increase their maximum Hit Points by 5.
 
 Understanding and effectively using Hit Dice can significantly impact a character's survivability and overall performance in a campaign. Use them wisely during rests to maintain your health and be prepared for the challenges ahead.

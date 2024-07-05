@@ -12,7 +12,7 @@ Constitution checks are uncommon, and no skills apply to Constitution checks, be
 
 ### Hit Points
 
-Creatures add their Constitution modifier to the amount of hit points they gain on level up. This increase is applied retroactively.
+Creatures add their Constitution modifier to the amount of Hit Points they gain on level up. This increase is applied retroactively.
 
 ### Concentration Check
 

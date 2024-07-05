@@ -18,9 +18,9 @@ Your astral form can freely travel through the Astral Plane and can pass through
 
 The spell ends for you and your companions when you use your :rsc-action: **Action** to dismiss it. When the spell ends, the affected creature returns to its physical body, and it awakens.
 
-The spell might also end early for you or one of your companions. A successful  dispel magic spell used against an astral or physical body ends the spell for that creature. If a creature's original body or its astral form drops to 0 hit points, the spell ends for that creature. If the spell ends and the silver cord is intact, the cord pulls the creature's astral form back to its body, ending its state of suspended animation.
+The spell might also end early for you or one of your companions. A successful  dispel magic spell used against an astral or physical body ends the spell for that creature. If a creature's original body or its astral form drops to 0 Hit Points, the spell ends for that creature. If the spell ends and the silver cord is intact, the cord pulls the creature's astral form back to its body, ending its state of suspended animation.
 
-If you are returned to your body prematurely, your companions remain in their astral forms and must find their own way back to their bodies, usually by dropping to 0 hit points.
+If you are returned to your body prematurely, your companions remain in their astral forms and must find their own way back to their bodies, usually by dropping to 0 Hit Points.
 
 ### Blade of Disaster
 *9th-level conjuration*
@@ -96,7 +96,7 @@ The special component for this version of the spell is a large, transparent gems
 
 The special component for this version of the spell consists of rare soporific herbs.
 
-***Ending the Spell.*** During the casting of the spell, in any of its versions, you can specify a condition that will cause the spell to end and release the target. The condition can be as specific or as elaborate as you choose, but the DM must agree that the condition is reasonable and has a likelihood of coming to pass. The conditions can be based on a creature's name, identity, or deity but otherwise must be based on observable actions or qualities and not based on intangibles such as level, class, or hit points.
+***Ending the Spell.*** During the casting of the spell, in any of its versions, you can specify a condition that will cause the spell to end and release the target. The condition can be as specific or as elaborate as you choose, but the DM must agree that the condition is reasonable and has a likelihood of coming to pass. The conditions can be based on a creature's name, identity, or deity but otherwise must be based on observable actions or qualities and not based on intangibles such as level, class, or Hit Points.
 
 A  dispel magic spell can end the spell only if it is cast as a 9th-level spell, targeting either the prison or the special component used to create it.
 
@@ -120,7 +120,7 @@ You are immune to all damage until the spell ends.
 **Components:** V, S  
 **Duration:** Instantaneous
 
-A flood of healing energy flows from you into injured creatures around you. You restore up to 700 hit points, divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell are also cured of all diseases and any effect making them  blinded or  deafened. This spell has no effect on undead or constructs.
+A flood of healing energy flows from you into injured creatures around you. You restore up to 700 Hit Points, divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell are also cured of all diseases and any effect making them  blinded or  deafened. This spell has no effect on undead or constructs.
 
 ### Mass Polymorph
 *9th-level transmutation*
@@ -132,9 +132,9 @@ A flood of healing energy flows from you into injured creatures around you. You 
 
 You transform up to ten creatures of your choice that you can see within range. An unwilling target must succeed on a Wisdom Saving Throw to resist the transformation. An unwilling shapechanger automatically succeeds on the save.
 
-Each target assumes a beast form of your choice, and you can choose the same form or different ones for each target. The new form can be any beast you have seen whose challenge rating is equal to or less than the target's (or half the target's level, if the target doesn't have a challenge rating). The target's game statistics, including mental ability scores, are replaced by the statistics of the chosen beast, but the target retains its hit points, alignment, and personality.
+Each target assumes a beast form of your choice, and you can choose the same form or different ones for each target. The new form can be any beast you have seen whose challenge rating is equal to or less than the target's (or half the target's level, if the target doesn't have a challenge rating). The target's game statistics, including mental ability scores, are replaced by the statistics of the chosen beast, but the target retains its Hit Points, alignment, and personality.
 
-Each target gains a number of temporary hit points equal to the hit points of its new form. These temporary hit points can't be replaced by temporary hit points from another source. A target reverts to its normal form when it has no more temporary hit points or it dies. If the spell ends before then, the creature loses all its temporary hit points and reverts to its normal form.
+Each target gains a number of temporary Hit Points equal to the Hit Points of its new form. These temporary Hit Points can't be replaced by temporary Hit Points from another source. A target reverts to its normal form when it has no more temporary Hit Points or it dies. If the spell ends before then, the creature loses all its temporary Hit Points and reverts to its normal form.
 
 The creature is limited in the actions it can perform by the nature of its new form. It can't speak, cast spells, or do anything else that requires hands or speech.
 
@@ -160,7 +160,7 @@ The spell damages objects in the area and ignites flammable objects that aren't 
 **Components:** V, S  
 **Duration:** Instantaneous
 
-A wave of healing energy washes over the creature you touch. The target regains all its hit points. If the creature is  charmed,  frightened,  paralyzed, or  stunned, the condition ends. If the creature is  prone, it can use its :rsc-reaction: **Reaction** to stand up. This spell has no effect on undead or constructs.
+A wave of healing energy washes over the creature you touch. The target regains all its Hit Points. If the creature is  charmed,  frightened,  paralyzed, or  stunned, the condition ends. If the creature is  prone, it can use its :rsc-reaction: **Reaction** to stand up. This spell has no effect on undead or constructs.
 
 ### Power Word Kill
 *9th-level enchantment*
@@ -170,7 +170,7 @@ A wave of healing energy washes over the creature you touch. The target regains 
 **Components:** V  
 **Duration:** Instantaneous
 
-You utter a word of power that can compel one creature you can see within range to die instantly. If the creature you choose has 100 hit points or fewer, it dies. Otherwise, the spell has no effect.
+You utter a word of power that can compel one creature you can see within range to die instantly. If the creature you choose has 100 Hit Points or fewer, it dies. Otherwise, the spell has no effect.
 
 ### Prismatic Wall
 *9th-level abjuration*
@@ -230,13 +230,13 @@ You assume the form of a different creature for the duration. The new form can b
 
 Your game statistics are replaced by the statistics of the chosen creature, though you retain your alignment and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and Saving Throw Proficiencies, in addition to gaining those of the creature. If the creature has the same Proficiency as you and the bonus listed in its statistics is higher than yours, use the creature's bonus in place of yours. You can't use any legendary actions or lair actions of the new form.
 
-You assume the hit points and Hit Dice of the new form. When you revert to your normal form, you return to the number of hit points you had before you transformed. If you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked  unconscious.
+You assume the Hit Points and Hit Dice of the new form. When you revert to your normal form, you return to the number of Hit Points you had before you transformed. If you revert as a result of dropping to 0 Hit Points, any excess damage carries over to your normal form. As long as the excess damage doesn't reduce your normal form to 0 Hit Points, you aren't knocked  unconscious.
 
 You retain the benefit of any features from your class, race, or other source and can use them, provided that your new form is physically capable of doing so. You can't use any special senses you have (for example,  darkvision) unless your new form also has that sense. You can only speak if the creature can normally speak.
 
 When you transform, you choose whether your equipment falls to the ground, merges into the new form, or is worn by it. Worn equipment functions as normal. The DM determines whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change shape or size to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge into your new form. Equipment that merges has no effect in that state.
 
-During this spell's duration, you can use your :rsc-action: **Action** to assume a different form following the same restrictions and rules for the original form, with one exception: if your new form has more hit points than your current one, your hit points remain at their current value.
+During this spell's duration, you can use your :rsc-action: **Action** to assume a different form following the same restrictions and rules for the original form, with one exception: if your new form has more Hit Points than your current one, your Hit Points remain at their current value.
 
 ### Storm of Vengeance
 *9th-level conjuration*
@@ -278,13 +278,13 @@ This spell ends if one of the actions you use during this period, or any effects
 **Components:** V, S, M (a drop of mercury, a dollop of gum arabic, and a wisp of smoke)  
 **Duration:** Concentration, up to 1 hour
 
-Choose one creature or nonmagical object that you can see within range. You transform the creature into a different creature, the creature into a nonmagical object, or the object into a creature (the object must be neither worn nor carried by another creature). The transformation lasts for the duration, or until the target drops to 0 hit points or dies. If you concentrate on this spell for the full duration, the transformation lasts until it is dispelled.
+Choose one creature or nonmagical object that you can see within range. You transform the creature into a different creature, the creature into a nonmagical object, or the object into a creature (the object must be neither worn nor carried by another creature). The transformation lasts for the duration, or until the target drops to 0 Hit Points or dies. If you concentrate on this spell for the full duration, the transformation lasts until it is dispelled.
 
-This spell has no effect on a shapechanger or a creature with 0 hit points. An unwilling creature can make a Wisdom Saving Throw, and if it succeeds, it isn't affected by this spell.
+This spell has no effect on a shapechanger or a creature with 0 Hit Points. An unwilling creature can make a Wisdom Saving Throw, and if it succeeds, it isn't affected by this spell.
 
 ***Creature into Creature.*** If you turn a creature into another kind of creature, the new form can be any kind you choose whose challenge rating is equal to or less than the target's (or its level, if the target doesn't have a challenge rating). The target's game statistics, including mental ability scores, are replaced by the statistics of the new form. It retains its alignment and personality.
 
-The target assumes the hit points of its new form, and when it reverts to its normal form, the creature returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form. As long as the excess damage doesn't reduce the creature's normal form to 0 hit points, it isn't knocked  unconscious.
+The target assumes the Hit Points of its new form, and when it reverts to its normal form, the creature returns to the number of Hit Points it had before it transformed. If it reverts as a result of dropping to 0 Hit Points, any excess damage carries over to its normal form. As long as the excess damage doesn't reduce the creature's normal form to 0 Hit Points, it isn't knocked  unconscious.
 
 The creature is limited in the actions it can perform by the nature of its new form, and it can't speak, cast spells, or take any other action that requires hands or speech unless its new form is capable of such actions.
 
@@ -304,7 +304,7 @@ If the spell becomes permanent, you no longer control the creature. It might rem
 **Components:** V, S, M (a sprinkle of holy water and diamonds worth at least 25,000 gp, which the spell consumes)  
 **Duration:** Instantaneous
 
-You touch a creature that has been dead for no longer than 200 years and that died for any reason except old age. If the creature's soul is free and willing, the creature is restored to life with all its hit points.
+You touch a creature that has been dead for no longer than 200 years and that died for any reason except old age. If the creature's soul is free and willing, the creature is restored to life with all its Hit Points.
 
 This spell closes all wounds, neutralizes any poison, cures all diseases, and lifts any curses affecting the creature when it died. The spell replaces damaged or missing organs and limbs. If the creature was undead, it is restored to its non-undead form.
 
@@ -333,7 +333,7 @@ Wish is the mightiest spell a mortal creature can cast. By simply speaking aloud
 The basic use of this spell is to duplicate any other spell of 8th level or lower. You don't need to meet any requirements in that spell, including costly components. The spell simply takes effect. Alternatively, you can create one of the following effects of your choice:
   
 You create one object of up to 25,000 gp in value that isn't a magic item. The object can be no more than 300 feet in any dimension, and it appears in an unoccupied space you can see on the ground.  
-You allow up to twenty creatures that you can see to regain all hit points, and you end all effects on them described in the  greater restoration spell.  
+You allow up to twenty creatures that you can see to regain all Hit Points, and you end all effects on them described in the  greater restoration spell.  
 You grant up to ten creatures that you can see resistance to a damage type you choose.  
 You grant up to ten creatures you can see immunity to a single spell or other magical effect for 8 hours. For instance, you could make yourself and all your companions immune to a lich's life drain attack.  
 You undo a single recent event by forcing a reroll of any roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. For example, a  wish spell could undo an opponent's successful save, a foe's Critical Hit, or a friend's failed save. You can force the reroll to be made with advantage or disadvantage, and you can choose whether to use the reroll or the original roll.
@@ -364,4 +364,4 @@ You create a 20-foot-radius sphere of destructive gravitational force centered o
 
 When the sphere appears and at the start of each of your turns until the spell ends, unsecured objects within 100 feet of the sphere are pulled toward the sphere's center, ending in an unoccupied space as close to the center as possible.
 
-A creature that starts its turn within 100 feet of the sphere must succeed on a Strength Saving Throw or be pulled straight toward the sphere's center, ending in an unoccupied space as close to the center as possible. A creature that enters the sphere for the first time on a turn or starts its turn there takes 5d10 force damage and is restrained until it is no longer in the sphere. If the sphere is in the air, the restrained creature hovers inside the sphere. A creature can use its action to make a Strength check against your spell save DC, ending this restrained condition on itself or another creature in the sphere that it can reach. A creature reduced to 0 hit points by this spell is annihilated, along with any nonmagical items it is wearing or carrying.
+A creature that starts its turn within 100 feet of the sphere must succeed on a Strength Saving Throw or be pulled straight toward the sphere's center, ending in an unoccupied space as close to the center as possible. A creature that enters the sphere for the first time on a turn or starts its turn there takes 5d10 force damage and is restrained until it is no longer in the sphere. If the sphere is in the air, the restrained creature hovers inside the sphere. A creature can use its action to make a Strength check against your spell save DC, ending this restrained condition on itself or another creature in the sphere that it can reach. A creature reduced to 0 Hit Points by this spell is annihilated, along with any nonmagical items it is wearing or carrying.

@@ -50,9 +50,9 @@ This spell lets you convince a beast that you mean it no harm. Choose a beast th
 **Components:** V, S, M (a cup of water)  
 **Duration:** 1 hour
 
-A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear. You gain 5 temporary hit points for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage.
+A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear. You gain 5 temporary Hit Points for the duration. If a creature hits you with a melee attack while you have these Hit Points, the creature takes 5 cold damage.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, both the temporary hit points and the cold damage increase by 5 for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, both the temporary Hit Points and the cold damage increase by 5 for each slot level above 1st.
 
 ### Arms of Hadar
 *1st-level conjuration*
@@ -220,9 +220,9 @@ You hurl a 4-inch-diameter sphere of energy at a creature that you can see withi
 **Components:** V, S, M (a pinch of powder or sand that is colored red, yellow, and blue)  
 **Duration:** 1 round
 
-A dazzling array of flashing, colored light springs from your hand. Roll 6d10; the total is how many hit points of creatures this spell can effect. Creatures in a 15-foot cone originating from you are affected in ascending order of their current hit points (ignoring unconscious creatures and creatures that can't see).
+A dazzling array of flashing, colored light springs from your hand. Roll 6d10; the total is how many Hit Points of creatures this spell can effect. Creatures in a 15-foot cone originating from you are affected in ascending order of their current Hit Points (ignoring unconscious creatures and creatures that can't see).
 
-Starting with the creature that has the lowest current hit points, each creature affected by this spell is blinded until the end of your next turn. Subtract each creature's hit points from the total before moving on to the creature with the next lowest hit points. A creature's hit points must be equal to or less than the remaining total for that creature to be affected.
+Starting with the creature that has the lowest current Hit Points, each creature affected by this spell is blinded until the end of your next turn. Subtract each creature's Hit Points from the total before moving on to the creature with the next lowest Hit Points. A creature's Hit Points must be equal to or less than the remaining total for that creature to be affected.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d10 for each slot level above 1st.
 
@@ -298,7 +298,7 @@ You either create or destroy water.
 **Components:** V, S  
 **Duration:** Instantaneous
 
-A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+A creature you touch regains a number of Hit Points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
 
@@ -458,9 +458,9 @@ Any attack roll against an affected creature or object has advantage if the atta
 **Components:** V, S, M (a small amount of alcohol or distilled spirits)  
 **Duration:** 1 hour
 
-Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.
+Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary Hit Points for the duration.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary Hit Points for each slot level above 1st.
 
 ### Feather Fall
 *1st-level transmutation*
@@ -486,7 +486,7 @@ You gain the service of a familiar, a spirit that takes an animal form you choos
 
 Your familiar acts independently of you, but it always obeys your commands. In combat, it rolls its own initiative and acts on its own turn. A familiar can't attack, but it can take other actions as normal.
 
-When the familiar drops to 0 hit points, it disappears, leaving behind no physical form. It reappears after you cast this spell again. As an :rsc-action: **Action**, you can temporarily dismiss the familiar to a pocket dimension. Alternatively, you can dismiss it forever. As an :rsc-action: **Action** while it is temporarily dismissed, you can cause it to reappear in any unoccupied space within 30 feet of you. Whenever the familiar drops to 0 hit points or disappears into the pocket dimension, it leaves behind in its space anything it was wearing or carrying.
+When the familiar drops to 0 Hit Points, it disappears, leaving behind no physical form. It reappears after you cast this spell again. As an :rsc-action: **Action**, you can temporarily dismiss the familiar to a pocket dimension. Alternatively, you can dismiss it forever. As an :rsc-action: **Action** while it is temporarily dismissed, you can cause it to reappear in any unoccupied space within 30 feet of you. Whenever the familiar drops to 0 Hit Points or disappears into the pocket dimension, it leaves behind in its space anything it was wearing or carrying.
 
 While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as an :rsc-action: **Action**, you can see through your familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the familiar has. During this time, you are deaf and blind with regard to your own senses.
 
@@ -538,7 +538,7 @@ You touch a willing creature. For the duration, the target can add 1d8 to its in
 **Components:** V, S, M (a sprig of mistletoe)  
 **Duration:** Instantaneous
 
-Up to ten berries appear in your hand and are infused with magic for the duration. A creature can use its action to eat one berry. Eating a berry restores 1 hit point, and the berry provides enough nourishment to sustain a creature for one day.
+Up to ten berries appear in your hand and are infused with magic for the duration. A creature can use its action to eat one berry. Eating a berry restores 1 Hit Point, and the berry provides enough nourishment to sustain a creature for one day.
 
 The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.
 
@@ -586,7 +586,7 @@ The next time you hit a creature with a ranged weapon attack before the spell en
 **Components:** V  
 **Duration:** Instantaneous
 
-A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+A creature of your choice that you can see within range regains Hit Points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st.
 
@@ -610,7 +610,7 @@ You point your finger, and the creature that damaged you is momentarily surround
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to being frightened and gains temporary hit points equal to your spellcasting ability modifier at the start of each of its turns. When the spell ends, the target loses any remaining temporary hit points from this spell.
+A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to being frightened and gains temporary Hit Points equal to your spellcasting ability modifier at the start of each of its turns. When the spell ends, the target loses any remaining temporary Hit Points from this spell.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
@@ -624,7 +624,7 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 
 You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra 1d6 necrotic damage to the target whenever you hit it with an attack. Also, choose one ability when you cast the spell. The target has disadvantage on ability checks made with the chosen ability.
 
-If the target drops to 0 hit points before this spell ends, you can use a :rsc-bonus-action: **Bonus Action** on a subsequent turn of yours to curse a new creature.
+If the target drops to 0 Hit Points before this spell ends, you can use a :rsc-bonus-action: **Bonus Action** on a subsequent turn of yours to curse a new creature.
 
 A *remove curse* cast on the target ends this spell early.
 
@@ -638,7 +638,7 @@ A *remove curse* cast on the target ends this spell early.
 **Components:** V  
 **Duration:** Concentration, up to 1 hour
 
-You choose a creature you can see within range and mystically mark it as your ^^Quarry^^. Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it. If the target drops to 0 hit points before this spell ends, you can use a :rsc-bonus-action: **Bonus Action** on a subsequent turn of yours to mark a new creature.
+You choose a creature you can see within range and mystically mark it as your ^^Quarry^^. Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it. If the target drops to 0 Hit Points before this spell ends, you can use a :rsc-bonus-action: **Bonus Action** on a subsequent turn of yours to mark a new creature.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours.
 
@@ -880,9 +880,9 @@ You can then choose a different creature you can see within range (you can choos
 **Components:** V, S, M (a pinch of fine sand, rose petals, or a cricket)  
 **Duration:** 1 minute
 
-This spell sends creatures into a magical slumber. Roll 5d8; the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring unconscious creatures).
+This spell sends creatures into a magical slumber. Roll 5d8; the total is how many Hit Points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current Hit Points (ignoring unconscious creatures).
 
-Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until the spell ends, the sleeper takes damage, or someone uses an :rsc-action: **Action** to shake or slap the sleeper awake. Subtract each creature's hit points from the total before moving on to the creature with the next lowest hit points. A creature's hit points must be equal to or less than the remaining total for that creature to be affected.
+Starting with the creature that has the lowest current Hit Points, each creature affected by this spell falls unconscious until the spell ends, the sleeper takes damage, or someone uses an :rsc-action: **Action** to shake or slap the sleeper awake. Subtract each creature's Hit Points from the total before moving on to the creature with the next lowest Hit Points. A creature's Hit Points must be equal to or less than the remaining total for that creature to be affected.
 
 Undead and creatures immune to being charmed aren't affected by this spell.
 
@@ -986,7 +986,7 @@ In addition, unsecured objects that are completely within the area of effect are
 **Components:** V, S, M (a piece of string and a bit of wood)  
 **Duration:** 1 hour
 
-This spell creates an invisible, mindless, shapeless, Medium force that performs simple tasks at your command until the spell ends. The servant springs into existence in an unoccupied space on the ground within range. It has AC 10, 1 hit point, and a Strength of 2, and it can't attack. If it drops to 0 hit points, the spell ends.
+This spell creates an invisible, mindless, shapeless, Medium force that performs simple tasks at your command until the spell ends. The servant springs into existence in an unoccupied space on the ground within range. It has AC 10, 1 Hit Point, and a Strength of 2, and it can't attack. If it drops to 0 Hit Points, the spell ends.
 
 Once on each of your turns as a :rsc-bonus-action: **Bonus Action**, you can mentally command the servant to move up to 15 feet and interact with an object. The servant can perform simple tasks that a human servant could do, such as fetching things, cleaning, mending, folding clothes, lighting fires, serving food, and pouring wine. Once you give the command, the servant performs the task to the best of its ability until it completes the task, then waits for your next command.
 

@@ -163,7 +163,7 @@ Hardy and resilient, you gain the following benefits:
     
 - **Up and Ready**
     
-    When you would roll Hit Dice on a Short Rest to regain hit points, you instead forego the rolls to regain the maximum amount of health from the Hit Die.
+    When you would roll Hit Dice on a Short Rest to regain Hit Points, you instead forego the rolls to regain the maximum amount of health from the Hit Die.
 
 ### Eldritch Lifeline
 *4th-level Feat*
@@ -179,11 +179,11 @@ You’ve learned to cannibalize the power of your spells to reinvigorate your al
     
 - **Weave to Life**
     
-    As a :rsc-bonus-action: **Bonus Action**, you can expend a spell slot of 1st level or higher to heal yourself or an ally within 30 feet. The number of hit points healed equals the level of the expended slot. In addition, the target gains temporary hit points equal to your spellcasting ability modifier. You must finish a long rest before you can use Weave to Life again
+    As a :rsc-bonus-action: **Bonus Action**, you can expend a spell slot of 1st level or higher to heal yourself or an ally within 30 feet. The number of Hit Points healed equals the level of the expended slot. In addition, the target gains temporary Hit Points equal to your spellcasting ability modifier. You must finish a long rest before you can use Weave to Life again
     
 - **Soothing Magic**
     
-    If you target one or more allies with a spell that allows them to regain hit points or with Weave to Life, those allies are immune to being frightened for a number of rounds equal to the level of the healing spell. In addition, one ally who healed hit points (your choice) gains inspiration. You must complete a short or long rest before you can grant inspiration again.
+    If you target one or more allies with a spell that allows them to regain Hit Points or with Weave to Life, those allies are immune to being frightened for a number of rounds equal to the level of the healing spell. In addition, one ally who healed Hit Points (your choice) gains inspiration. You must complete a short or long rest before you can grant inspiration again.
 
 ### Elemental Adept
 *4th-level Feat*
@@ -457,7 +457,7 @@ You master the physician’s arts, gaining the following benefits:
     
 - **Back On Your Feet**
     
-    When you successfully stabilize a creature, it regains a number of hit points equal to your Wisdom modifier + Proficiency Bonus.(1)
+    When you successfully stabilize a creature, it regains a number of Hit Points equal to your Wisdom modifier + Proficiency Bonus.(1)
     { .annotate }
 
     1. This immediately brings the creature out of Death's Door.
@@ -641,7 +641,7 @@ Your body has the ability to recover quickly from terrible injuries, and is unus
     
 - **Fast Healing**
     
-    Whenever you regain hit points as a result of a spell, potion, or class feature (but not this feat), you regain additional hit points equal to your Constitution modifier (minimum of 1).
+    Whenever you regain Hit Points as a result of a spell, potion, or class feature (but not this feat), you regain additional Hit Points equal to your Constitution modifier (minimum of 1).
 
 ### Resilient
 *4th-level Feat*
@@ -942,7 +942,7 @@ You have been touched by the Warp, giving you benefits as follow:
     
     - When you cast the 1st-level spell, you can expend one of your Hit Dice and roll it.
 
-        - If you roll an even number, you gain a number of temporary hit points equal to the number rolled.
+        - If you roll an even number, you gain a number of temporary Hit Points equal to the number rolled.
         - If you roll an odd number, one random creature within 30 feet of you (excluding you) takes force damage equal to the number rolled.
 
 ### War Caster^HB^

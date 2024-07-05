@@ -256,7 +256,7 @@ When administering treatment, you can transform medicine that is bitter or sour 
 When foraging for food, you can make do with ingredients you scavenge that others would be unable to transform into nourishing meals.
 
 **Prepare Meals**  
-As part of a short rest, you can prepare a tasty meal that helps your companions regain their strength. You and up to five creatures of your choice regain 1 extra hit point per Hit Die spent during a short rest, provided you have access to your cook's Utentils and sufficient food.
+As part of a short rest, you can prepare a tasty meal that helps your companions regain their strength. You and up to five creatures of your choice regain 1 extra Hit Point per Hit Die spent during a short rest, provided you have access to your cook's Utentils and sufficient food.
 
 | **ACTIVITY** | **DC** |
 | --- | :-: |
@@ -425,7 +425,7 @@ Your expertise lends you additional insight when examining metal objects, such a
 You can spot clues and make deductions that others might overlook when an investigation involves armour, weapons, or other metalwork.
 
 **Repair**  
-With access to your tools and an open flame hot enough to make metal pliable, you can restore 10 hit points to a damaged metal object for each hour of work.
+With access to your tools and an open flame hot enough to make metal pliable, you can restore 10 Hit Points to a damaged metal object for each hour of work.
 
 | **ACTIVITY** | **DC** |
 | --- | :-: |
@@ -447,7 +447,7 @@ You can determine the age and origin of objects, even if you have only a few pie
 When you inspect a damaged object, you gain knowledge of how it was damaged and how long ago.
 
 **Repair**  
-You can restore 10 hit points to a damaged object for each hour of work. For any object, you need access to the raw materials required to repair it. For metal objects, you need access to an open flame hot enough to make the metal pliable.
+You can restore 10 Hit Points to a damaged object for each hour of work. For any object, you need access to the raw materials required to repair it. For metal objects, you need access to an open flame hot enough to make the metal pliable.
 
 | **ACTIVITY** | **DC** |
 | --- | :-: |

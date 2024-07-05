@@ -24,7 +24,7 @@ As an :rsc-action: **Action**, you can move the eye up to 30 feet in any directi
 **Components:** V  
 **Duration:** Concentration, up to 10 minutes
 
-Life-preserving energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. Each nonhostile creature in the aura (including you) has resistance to necrotic damage, and its hit point maximum can't be reduced. In addition, a nonhostile, living creature regains 1 hit point when it starts its turn in the aura with 0 hit points.
+Life-preserving energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. Each nonhostile creature in the aura (including you) has resistance to necrotic damage, and its Hit Point maximum can't be reduced. In addition, a nonhostile, living creature regains 1 Hit Point when it starts its turn in the aura with 0 Hit Points.
 
 ### Aura of Purity
 *4th-level abjuration*
@@ -131,7 +131,7 @@ Two elementals of challenge rating 1 or lower
 Four elementals of challenge rating 1/2 or lower  
 Eight elementals of challenge rating 1/4 or lower.
 
-An elemental summoned by this spell disappears when it drops to 0 hit points or when the spell ends.
+An elemental summoned by this spell disappears when it drops to 0 Hit Points or when the spell ends.
 
 The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which has its own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions.
 
@@ -154,7 +154,7 @@ Two fey creatures of challenge rating 1 or lower
 Four fey creatures of challenge rating 1/2 or lower  
 Eight fey creatures of challenge rating 1/4 or lower
 
-A summoned creature disappears when it drops to 0 hit points or when the spell ends.
+A summoned creature disappears when it drops to 0 Hit Points or when the spell ends.
 
 The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which have their own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions.
 
@@ -198,7 +198,7 @@ The first time each turn that an object enters the vortex, the object takes 2d8 
 
 You touch a creature and grant it a measure of protection from death.
 
-The first time the target would drop to 0 hit points as a result of taking damage, the target instead drops to 1 hit point, and the spell ends.
+The first time the target would drop to 0 Hit Points as a result of taking damage, the target instead drops to 1 Hit Point, and the spell ends.
 
 If the spell is still in effect when the target is subjected to an effect that would kill it instantaneously without dealing damage, that effect is instead negated against the target, and the spell ends.
 
@@ -300,7 +300,7 @@ You summon a spirit that assumes the form of a loyal, majestic mount. Appearing 
 
 You control the mount in combat. While the mount is within 1 mile of you, you can communicate with it telepathically. While mounted on it, you can make any spell you cast that targets only you also target the mount.
 
-The mount disappears temporarily when it drops to 0 hit points or when you dismiss it as an :rsc-action: **Action**. Casting this spell again re-summons the bonded mount, with all its hit points restored and any conditions removed.
+The mount disappears temporarily when it drops to 0 Hit Points or when you dismiss it as an :rsc-action: **Action**. Casting this spell again re-summons the bonded mount, with all its Hit Points restored and any conditions removed.
 
 You can't have more than one mount bonded by this spell or *find steed* at the same time. As an :rsc-action: **Action**, you can release a mount from its bond, causing it to disappear permanently.
 
@@ -361,7 +361,7 @@ You transform up to ten centipedes, three spiders, five wasps, or one scorpion w
 
 Each creature obeys your verbal commands, and in combat, they act on your turn each round. The DM has the statistics for these creatures and resolves their actions and movement.
 
-A creature remains in its giant size for the duration, until it drops to 0 hit points, or until you use an :rsc-action: **Action** to dismiss the effect on it.
+A creature remains in its giant size for the duration, until it drops to 0 Hit Points, or until you use an :rsc-action: **Action** to dismiss the effect on it.
 
 The DM might allow you to choose different targets. For example, if you transform a bee, its giant version might have the same statistics as a **giant wasp**.
 
@@ -430,7 +430,7 @@ Your melee weapon attacks deal an extra 1d6 force damage on a hit.
 
 ***Great Tree.*** Your skin appears barky, leaves sprout from your hair, and you gain the following benefits:
   
-You gain 10 temporary hit points.  
+You gain 10 temporary Hit Points.  
 You make Constitution Saving Throws with advantage.  
 You make Dexterity- and Wisdom-based attack rolls with advantage.  
 While you are on the ground, the ground within 15 feet of you is difficult terrain for your enemies.
@@ -562,11 +562,11 @@ You tap into the nightmares of a creature you can see within range and create an
 **Components:** V, S, M (a caterpillar cocoon)  
 **Duration:** Concentration, up to 1 hour
 
-This spell transforms a creature that you can see within range into a new form. An unwilling creature must make a Wisdom Saving Throw to avoid the effect. The spell has no effect on a shapechanger or a creature with 0 hit points.
+This spell transforms a creature that you can see within range into a new form. An unwilling creature must make a Wisdom Saving Throw to avoid the effect. The spell has no effect on a shapechanger or a creature with 0 Hit Points.
 
-The transformation lasts for the duration, or until the target drops to 0 hit points or dies. The new form can be any beast whose challenge rating is equal to or less than the target's (or the target's level, if it doesn't have a challenge rating). The target's game statistics, including mental ability scores, are replaced by the statistics of the chosen beast. It retains its alignment and personality.
+The transformation lasts for the duration, or until the target drops to 0 Hit Points or dies. The new form can be any beast whose challenge rating is equal to or less than the target's (or the target's level, if it doesn't have a challenge rating). The target's game statistics, including mental ability scores, are replaced by the statistics of the chosen beast. It retains its alignment and personality.
 
-The target assumes the hit points of its new form. When it reverts to its normal form, the creature returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form. As long as the excess damage doesn't reduce the creature's normal form to 0 hit points, it isn't knocked unconscious.
+The target assumes the Hit Points of its new form. When it reverts to its normal form, the creature returns to the number of Hit Points it had before it transformed. If it reverts as a result of dropping to 0 Hit Points, any excess damage carries over to its normal form. As long as the excess damage doesn't reduce the creature's normal form to 0 Hit Points, it isn't knocked unconscious.
 
 The creature is limited in the actions it can perform by the nature of its new form, and it can't speak, cast spells, or take any other action that requires hands or speech.
 
@@ -618,7 +618,7 @@ When a creature moves into the spell's area for the first time on a turn or star
 **Components:** V, S, M (a gilded playing card worth at least 400 gp and depicting an avatar of death)  
 **Duration:** Concentration, up to 1 hour
 
-You call forth a spirit that embodies death. The spirit manifests in an unoccupied space you can see within range and uses the **reaper spirit** stat block. The spirit disappears when it is reduced to 0 hit points or when the spell ends.
+You call forth a spirit that embodies death. The spirit manifests in an unoccupied space you can see within range and uses the **reaper spirit** stat block. The spirit disappears when it is reduced to 0 Hit Points or when the spell ends.
 
 The spirit is an ally to you and your companions. In combat, the spirit shares your initiative count and takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue the spirit any commands, it takes the Dodge action and uses its movement to avoid danger.
 
@@ -678,7 +678,7 @@ Creatures within 30 feet of the sphere have disadvantage on Wisdom (Perception) 
 **Components:** V, S, M (a pickled tentacle and an eyeball in a platinum-inlaid vial worth at least 400 gp)  
 **Duration:** Concentration, up to 1 hour
 
-You call forth an aberrant spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the **Aberrant Spirit** stat block. When you cast the spell, choose Beholderkin, Slaad, or Star Spawn. The creature resembles an aberration of that kind, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.
+You call forth an aberrant spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the **Aberrant Spirit** stat block. When you cast the spell, choose Beholderkin, Slaad, or Star Spawn. The creature resembles an aberration of that kind, which determines certain traits in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
 
 The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
 
@@ -692,7 +692,7 @@ The creature is an ally to you and your companions. In combat, the creature shar
 **Components:** V, S, M (an ornate stone and metal lockbox worth at least 400 gp)  
 **Duration:** Concentration, up to 1 hour
 
-You call forth the spirit of a construct. It manifests in an unoccupied space that you can see within range. This corporeal form uses the **Construct Spirit** stat block. When you cast the spell, choose a material: Clay, Metal, or Stone. The creature resembles a golem or a modron (your choice) made of the chosen material, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.
+You call forth the spirit of a construct. It manifests in an unoccupied space that you can see within range. This corporeal form uses the **Construct Spirit** stat block. When you cast the spell, choose a material: Clay, Metal, or Stone. The creature resembles a golem or a modron (your choice) made of the chosen material, which determines certain traits in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
 
 The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
 
@@ -706,7 +706,7 @@ The creature is an ally to you and your companions. In combat, the creature shar
 **Components:** V, S, M (air, a pebble, ash, and water inside a gold-inlaid vial worth at least 400 gp)  
 **Duration:** Concentration, up to 1 hour
 
-You call forth an elemental spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the **Elemental Spirit** stat block. When you cast the spell, choose an element: Air, Earth, Fire, or Water. The creature resembles a bipedal form wreathed in the chosen element, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.
+You call forth an elemental spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the **Elemental Spirit** stat block. When you cast the spell, choose an element: Air, Earth, Fire, or Water. The creature resembles a bipedal form wreathed in the chosen element, which determines certain traits in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
 
 The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
 
@@ -720,11 +720,11 @@ The creature is an ally to you and your companions. In combat, the creature shar
 **Components:** V, S, M (a vial of blood from a humanoid killed within the past 24 hours)  
 **Duration:** Concentration, up to 1 hour
 
-You utter foul words, summoning one demon from the chaos of the Abyss. You choose the demon's type, which must be one of challenge rating 5 or lower, such as a **shadow demon** or a **barlgura**. The demon appears in an unoccupied space you can see within range, and the demon disappears when it drops to 0 hit points or when the spell ends.
+You utter foul words, summoning one demon from the chaos of the Abyss. You choose the demon's type, which must be one of challenge rating 5 or lower, such as a **shadow demon** or a **barlgura**. The demon appears in an unoccupied space you can see within range, and the demon disappears when it drops to 0 Hit Points or when the spell ends.
 
 Roll initiative for the demon, which has its own turns. When you summon it and on each of your turns thereafter, you can issue a verbal command to it (requiring no action on your part), telling it what it must do on its next turn. If you issue no command, it spends its turn attacking any creature within reach that has attacked it.
 
-At the end of each of the demon's turns, it makes a Charisma Saving Throw. The demon has disadvantage on this Saving Throw if you say its true name. On a failed save, the demon continues to obey you. On a successful save, your control of the demon ends for the rest of the duration, and the demon spends its turns pursuing and attacking the nearest non-demons to the best of its ability. If you stop concentrating on the spell before it reaches its full duration, an uncontrolled demon doesn't disappear for 1d6 rounds if it still has hit points.
+At the end of each of the demon's turns, it makes a Charisma Saving Throw. The demon has disadvantage on this Saving Throw if you say its true name. On a failed save, the demon continues to obey you. On a successful save, your control of the demon ends for the rest of the duration, and the demon spends its turns pursuing and attacking the nearest non-demons to the best of its ability. If you stop concentrating on the spell before it reaches its full duration, an uncontrolled demon doesn't disappear for 1d6 rounds if it still has Hit Points.
 
 As part of casting the spell, you can form a circle on the ground with the blood used as a material component. The circle is large enough to encompass your space. While the spell lasts, the summoned demon can't cross the circle or harm it, and it can't target anyone within it. Using the material component in this manner consumes it when the spell ends.
 

@@ -61,7 +61,7 @@ You have studied the secrets of alchemy and are an expert in its practice, gaini
 
     Over the course of any short rest, you can temporarily improve the potency of one potion of healing of any rarity. To use this benefit, you must have alchemist’s supplies with you, and the potion must be within reach.
 
-    If the potion is drunk no more than 1 hour after the short rest ends, the creature drinking the potion can forgo the potion’s die roll and regains the maximum number of hit points that the potion can restore.
+    If the potion is drunk no more than 1 hour after the short rest ends, the creature drinking the potion can forgo the potion’s die roll and regains the maximum number of Hit Points that the potion can restore.
 
 ### Alert
 
@@ -232,11 +232,11 @@ Time spent mastering the culinary arts has paid off, granting you the following 
     
 - **Treat-maker**
     
-    As part of a short rest, you can cook special food. You can prepare enough of this food for a number of creatures equal to your Proficiency Bonus. At the end of the short rest, any creature who eats the food and spends one or more Hit Dice to regain hit points regains an extra 1d8 hit points.
+    As part of a short rest, you can cook special food. You can prepare enough of this food for a number of creatures equal to your Proficiency Bonus. At the end of the short rest, any creature who eats the food and spends one or more Hit Dice to regain Hit Points regains an extra 1d8 Hit Points.
     
 - **Snack Master**
     
-    With one hour of work or when you finish a long rest, you can cook a number of treats equal to your Proficiency Bonus. These special treats last 8 hours after being made. A creature can use a :rsc-bonus-action: **Bonus Action** to eat one of those treats to gain temporary hit points equal to your Proficiency Bonus.
+    With one hour of work or when you finish a long rest, you can cook a number of treats equal to your Proficiency Bonus. These special treats last 8 hours after being made. A creature can use a :rsc-bonus-action: **Bonus Action** to eat one of those treats to gain temporary Hit Points equal to your Proficiency Bonus.
 
 ~~We need to cook Bartrum~~
 

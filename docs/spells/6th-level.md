@@ -36,7 +36,7 @@ When a creature enters the wall's area for the first time on a turn or starts it
 **Components:** V, S  
 **Duration:** Instantaneous
 
-You cause up to six pillars of stone to burst from places on the ground that you can see within range. Each pillar is a cylinder that has a diameter of 5 feet and a height of up to 30 feet. The ground where a pillar appears must be wide enough for its diameter, and you can target the ground under a creature if that creature is Medium or smaller. Each pillar has AC 5 and 30 hit points. When reduced to 0 hit points, a pillar crumbles into rubble, which creates an area of difficult terrain with a 10-foot radius that lasts until the rubble is cleared. Each 5-foot-diameter portion of the area requires at least 1 minute to clear by hand.
+You cause up to six pillars of stone to burst from places on the ground that you can see within range. Each pillar is a cylinder that has a diameter of 5 feet and a height of up to 30 feet. The ground where a pillar appears must be wide enough for its diameter, and you can target the ground under a creature if that creature is Medium or smaller. Each pillar has AC 5 and 30 Hit Points. When reduced to 0 Hit Points, a pillar crumbles into rubble, which creates an area of difficult terrain with a 10-foot radius that lasts until the rubble is cleared. Each 5-foot-diameter portion of the area requires at least 1 minute to clear by hand.
 
 If a pillar is created under a creature, that creature must succeed on a Dexterity Saving Throw or be lifted by the pillar. A creature can choose to fail the save.
 
@@ -78,7 +78,7 @@ A sphere of negative energy ripples out in a 60-foot-radius sphere from a point 
 **Components:** V, S  
 **Duration:** Concentration, up to 1 hour
 
-You summon a fey creature of challenge rating 6 or lower, or a fey spirit that takes the form of a beast of challenge rating 6 or lower. It appears in an unoccupied space that you can see within range. The fey creature disappears when it drops to 0 hit points or when the spell ends.
+You summon a fey creature of challenge rating 6 or lower, or a fey spirit that takes the form of a beast of challenge rating 6 or lower. It appears in an unoccupied space that you can see within range. The fey creature disappears when it drops to 0 Hit Points or when the spell ends.
 
 The fey creature is friendly to you and your companions for the duration. Roll initiative for the creature, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you), as long as they don't violate its alignment. If you don't issue any commands to the fey creature, it defends itself from hostile creatures but otherwise takes no actions.
 
@@ -112,7 +112,7 @@ The contingent spell takes effect only on you, even if it can normally target ot
 
 While speaking an intricate incantation, you cut yourself with a jewel-encrusted dagger, taking 2d4 piercing damage that can't be reduced in any way. You then drip your blood on the spell's other components and touch them, transforming them into a special construct called a **homunculus**.
 
-The statistics of the **homunculus** are in the Monster Manual. It is your faithful companion, and it dies if you die. Whenever you finish a long rest, you can spend up to half your Hit Dice if the homunculus is on the same plane of existence as you. When you do so, roll each die and add your Constitution modifier to it. Your hit point maximum is reduced by the total, and the homunculus's hit point maximum and current hit points are both increased by it. This process can reduce you to no lower than 1 hit point, and the change to your and the homunculus's hit points ends when you finish your next long rest. The reduction to your hit point maximum can't be removed by any means before then, except by the homunculus's death.
+The statistics of the **homunculus** are in the Monster Manual. It is your faithful companion, and it dies if you die. Whenever you finish a long rest, you can spend up to half your Hit Dice if the homunculus is on the same plane of existence as you. When you do so, roll each die and add your Constitution modifier to it. Your Hit Point maximum is reduced by the total, and the homunculus's Hit Point maximum and current Hit Points are both increased by it. This process can reduce you to no lower than 1 Hit Point, and the change to your and the homunculus's Hit Points ends when you finish your next long rest. The reduction to your Hit Point maximum can't be removed by any means before then, except by the homunculus's death.
 
 You can have only one homunculus at a time. If you cast this spell while your homunculus lives, the spell fails.
 
@@ -142,7 +142,7 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 A thin green ray springs from your pointing finger to a target that you can see within range. The target can be a creature, an object, or a creation of magical force, such as the wall created by *wall of force*.
 
-A creature targeted by this spell must make a Dexterity Saving Throw. On a failed save, the target takes 10d6 + 40 force damage. The target is disintegrated if this damage leaves it with 0 hit points.
+A creature targeted by this spell must make a Dexterity Saving Throw. On a failed save, the target takes 10d6 + 40 force damage. The target is disintegrated if this damage leaves it with 0 Hit Points.
 
 A disintegrated creature and everything it is wearing and carrying, except magic items, are reduced to a pile of fine gray dust. The creature can be restored to life only by means of a *true resurrection* or a *wish* spell.
 
@@ -324,7 +324,7 @@ You can create a permanently guarded and warded structure by casting this spell 
 **Components:** V, S  
 **Duration:** Instantaneous
 
-You unleash a virulent disease on a creature that you can see within range. The target must make a Constitution Saving Throw. On a failed save, it takes 14d6 necrotic damage, or half as much damage on a successful save. The damage can't reduce the target's hit points below 1. If the target fails the Saving Throw, its hit point maximum is reduced for 1 hour by an amount equal to the necrotic damage it took. Any effect that removes a disease allows a creature's hit point maximum to return to normal before that time passes.
+You unleash a virulent disease on a creature that you can see within range. The target must make a Constitution Saving Throw. On a failed save, it takes 14d6 necrotic damage, or half as much damage on a successful save. The damage can't reduce the target's Hit Points below 1. If the target fails the Saving Throw, its Hit Point maximum is reduced for 1 hour by an amount equal to the necrotic damage it took. Any effect that removes a disease allows a creature's Hit Point maximum to return to normal before that time passes.
 
 ### Heal
 *6th-level evocation*
@@ -334,7 +334,7 @@ You unleash a virulent disease on a creature that you can see within range. The 
 **Components:** V, S  
 **Duration:** Instantaneous
 
-Choose a creature that you can see within range. A surge of positive energy washes through the creature, causing it to regain 70 hit points. This spell also ends blindness, deafness, and any diseases affecting the target. This spell has no effect on constructs or undead.
+Choose a creature that you can see within range. A surge of positive energy washes through the creature, causing it to regain 70 Hit Points. This spell also ends blindness, deafness, and any diseases affecting the target. This spell has no effect on constructs or undead.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, the amount of healing increases by 10 for each slot level above 6th.
 
@@ -348,7 +348,7 @@ Choose a creature that you can see within range. A surge of positive energy wash
 
 You bring forth a great feast, including magnificent food and drink. The feast takes 1 hour to consume and disappears at the end of that time, and the beneficial effects don't set in until this hour is over. Up to twelve creatures can partake of the feast.
 
-A creature that partakes of the feast gains several benefits. The creature is cured of all diseases and poison, becomes immune to poison and being frightened, and makes all Wisdom Saving Throws with advantage. Its hit point maximum also increases by 2d10, and it gains the same number of hit points. These benefits last for 24 hours.
+A creature that partakes of the feast gains several benefits. The creature is cured of all diseases and poison, becomes immune to poison and being frightened, and makes all Wisdom Saving Throws with advantage. Its Hit Point maximum also increases by 2d10, and it gains the same number of Hit Points. These benefits last for 24 hours.
 
 ### Investiture of Flame
 *6th-level transmutation*
@@ -571,7 +571,7 @@ The air quivers around up to five creatures of your choice that you can see with
 
 This spell snatches the soul of a humanoid as it dies and traps it inside the tiny cage you use for the material component. A stolen soul remains inside the cage until the spell ends or until you destroy the cage, which ends the spell. While you have a soul inside the cage, you can exploit it in any of the ways described below. You can use a trapped soul up to six times. Once you exploit a soul for the sixth time, it is released, and the spell ends. While a soul is trapped, the dead humanoid it came from can't be revived.
 
-***Steal Life.*** You can use a :rsc-bonus-action: **Bonus Action** to drain vigor from the soul and regain 2d8 hit points.
+***Steal Life.*** You can use a :rsc-bonus-action: **Bonus Action** to drain vigor from the soul and regain 2d8 Hit Points.
 
 ***Query Soul.*** You ask the soul a question (no action required) and receive a brief telepathic answer, which you can understand regardless of the language used. The soul knows only what it knew in life, but it must answer you truthfully and to the best of its ability. The answer is no more than a sentence or two and might be cryptic.
 
@@ -589,7 +589,7 @@ A creature that can see the sensor (such as one using *see invisibility* or true
 **Components:** V, S, M (humanoid blood inside a ruby vial worth at least 600 gp)  
 **Duration:** Concentration, up to 1 hour
 
-You call forth a fiendish spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the **Fiendish Spirit** stat block. When you cast the spell, choose Demon, Devil, or Yugoloth. The creature resembles a fiend of the chosen type, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.
+You call forth a fiendish spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the **Fiendish Spirit** stat block. When you cast the spell, choose Demon, Devil, or Yugoloth. The creature resembles a fiend of the chosen type, which determines certain traits in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
 
 The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
 
@@ -636,7 +636,7 @@ You can attack twice, instead of once, when you take the Attack action on your t
 
 You endow yourself with endurance and martial prowess fueled by magic. Until the spell ends, you can't cast spells, and you gain the following benefits:
   
-You gain 50 temporary hit points. If any of these remain when the spell ends, they are lost.  
+You gain 50 temporary Hit Points. If any of these remain when the spell ends, they are lost.  
 You have advantage on attack rolls that you make with simple and martial weapons.  
 When you hit a target with a weapon attack, that target takes an extra 2d12 force damage.  
 You have Proficiency with all armor, shields, simple weapons, and martial weapons.  
@@ -677,7 +677,7 @@ You create a wall of ice on a solid surface within range. You can form it into a
 
 If the wall cuts through a creature's space when it appears, the creature within its area is pushed to one side of the wall and must make a Dexterity Saving Throw. On a failed save, the creature takes 10d6 cold damage, or half as much damage on a successful save.
 
-The wall is an object that can be damaged and thus breached. It has AC 12 and 30 hit points per 10-foot section, and it is vulnerable to fire damage. Reducing a 10-foot section of wall to 0 hit points destroys it and leaves behind a sheet of frigid air in the space the wall occupied. A creature moving through the sheet of frigid air for the first time on a turn must make a Constitution Saving Throw. That creature takes 5d6 cold damage on a failed save, or half as much damage on a successful one.
+The wall is an object that can be damaged and thus breached. It has AC 12 and 30 Hit Points per 10-foot section, and it is vulnerable to fire damage. Reducing a 10-foot section of wall to 0 Hit Points destroys it and leaves behind a sheet of frigid air in the space the wall occupied. A creature moving through the sheet of frigid air for the first time on a turn must make a Constitution Saving Throw. That creature takes 5d6 cold damage on a failed save, or half as much damage on a successful one.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, the damage the wall deals when it appears increases by 2d6, and the damage from passing through the sheet of frigid air increases by 1d6, for each slot level above 6th.
 

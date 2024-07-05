@@ -10,7 +10,7 @@ icon: material/roman-numeral-7
 **Components:** V, S  
 **Duration:** Concentration, up to 1 hour
 
-You summon a celestial of challenge rating 4 or lower, which appears in an unoccupied space that you can see within range. The celestial disappears when it drops to 0 hit points or when the spell ends.
+You summon a celestial of challenge rating 4 or lower, which appears in an unoccupied space that you can see within range. The celestial disappears when it drops to 0 Hit Points or when the spell ends.
 
 The celestial is friendly to you and your companions for the duration. Roll initiative for the celestial, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you), as long as they don't violate its alignment. If you don't issue any commands to the celestial, it defends itself from hostile creatures but otherwise takes no actions.
 
@@ -28,7 +28,7 @@ The DM has **the celestial**'s statistics.
 
 While casting the spell, you place a vial of quicksilver in the chest of a life-sized human doll stuffed with ash or dust. You then stitch up the doll and drip your blood on it. At the end of the casting, you tap the doll with a crystal rod, transforming it into a magen clothed in whatever the doll was wearing. The type of magen is chosen by you during the casting of the spell. See *appendix C* for different kinds of magen and their statistics.
 
-When the magen appears, your hit point maximum decreases by an amount equal to the magen's challenge rating (minimum reduction of 1). Only a *wish* spell can undo this reduction to your hit point maximum.
+When the magen appears, your Hit Point maximum decreases by an amount equal to the magen's challenge rating (minimum reduction of 1). Only a *wish* spell can undo this reduction to your Hit Point maximum.
 
 Any magen you create with this spell obeys your commands without question.
 
@@ -72,14 +72,14 @@ The fire damages objects in the area and ignites flammable objects that aren't b
 **Components:** V  
 **Duration:** Instantaneous
 
-You utter a divine word, imbued with the power that shaped the world at the dawn of creation. Choose any number of creatures you can see within range. Each creature that can hear you must make a Charisma Saving Throw. On a failed save, a creature suffers an effect based on its current hit points:
+You utter a divine word, imbued with the power that shaped the world at the dawn of creation. Choose any number of creatures you can see within range. Each creature that can hear you must make a Charisma Saving Throw. On a failed save, a creature suffers an effect based on its current Hit Points:
   
-50 hit points or fewer: deafened for 1 minute  
-40 hit points or fewer: deafened and blinded for 10 minutes  
-30 hit points or fewer: blinded, deafened, and stunned for 1 hour  
-20 hit points or fewer: killed instantly
+50 Hit Points or fewer: deafened for 1 minute  
+40 Hit Points or fewer: deafened and blinded for 10 minutes  
+30 Hit Points or fewer: blinded, deafened, and stunned for 1 hour  
+20 Hit Points or fewer: killed instantly
 
-Regardless of its current hit points, a celestial, an elemental, a fey, or a fiend that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to your current plane for 24 hours by any means short of a *wish* spell.
+Regardless of its current Hit Points, a celestial, an elemental, a fey, or a fiend that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to your current plane for 24 hours by any means short of a *wish* spell.
 
 ### Draconic Transformation
 *7th-level transmutation*
@@ -237,7 +237,7 @@ You can use this spell to banish an unwilling creature to another plane. Choose 
 **Components:** V  
 **Duration:** Instantaneous
 
-You speak a word of power that causes waves of intense pain to assail one creature you can see within range. If the target has 100 hit points or fewer, it is subject to crippling pain. Otherwise, the spell has no effect on it. A target is also unaffected if it is immune to being charmed.
+You speak a word of power that causes waves of intense pain to assail one creature you can see within range. If the target has 100 Hit Points or fewer, it is subject to crippling pain. Otherwise, the spell has no effect on it. A target is also unaffected if it is immune to being charmed.
 
 While the target is affected by crippling pain, any speed it has can be no higher than 10 feet. The target also has disadvantage on attack rolls, ability checks, and Saving Throws, other than Constitution Saving Throws. Finally, if the target tries to cast a spell, it must first succeed on a Constitution Saving Throw, or the casting fails and the spell is wasted.
 
@@ -293,7 +293,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 **Components:** V, S, M (a prayer wheel and holy water)  
 **Duration:** 1 hour
 
-You touch a creature and stimulate its natural healing ability. The target regains 4d8 + 15 hit points. For the duration of the spell, the target regains 1 hit point at the start of each of its turns (10 hit points each minute).
+You touch a creature and stimulate its natural healing ability. The target regains 4d8 + 15 Hit Points. For the duration of the spell, the target regains 1 Hit Point at the start of each of its turns (10 Hit Points each minute).
 
 The target's severed body members (fingers, legs, tails, and so on), if any, are restored after 2 minutes. If you have the severed part and hold it to the stump, the spell instantaneously causes the limb to knit to the stump.
 
@@ -305,7 +305,7 @@ The target's severed body members (fingers, legs, tails, and so on), if any, are
 **Components:** V, S, M (a diamond worth at least 1,000 gp, which the spell consumes)  
 **Duration:** Instantaneous
 
-You touch a dead creature that has been dead for no more than a century, that didn't die of old age, and that isn't undead. If its soul is free and willing, the target returns to life with all its hit points.
+You touch a dead creature that has been dead for no more than a century, that didn't die of old age, and that isn't undead. If its soul is free and willing, the target returns to life with all its Hit Points.
 
 This spell neutralizes any poisons and cures normal diseases afflicting the creature when it died. It doesn't, however, remove magical diseases, curses, and the like; if such effects aren't removed prior to casting the spell, they afflict the target on its return to life.
 
@@ -351,11 +351,11 @@ You can set a condition for the spell to end early. The condition can be anythin
 **Components:** V, S, M (snow or ice in quantities sufficient to make a life-size copy of the duplicated creature; some hair, fingernail clippings, or other piece of that creature's body placed inside the snow or ice; and powdered ruby worth 1,500 gp, sprinkled over the duplicate and consumed by the spell)  
 **Duration:** Until dispelled
 
-You shape an illusory duplicate of one beast or humanoid that is within range for the entire casting time of the spell. The duplicate is a creature, partially real and formed from ice or snow, and it can take actions and otherwise be affected as a normal creature. It appears to be the same as the original, but it has half the creature's hit point maximum and is formed without any equipment. Otherwise, the illusion uses all the statistics of the creature it duplicates, except that it is a construct.
+You shape an illusory duplicate of one beast or humanoid that is within range for the entire casting time of the spell. The duplicate is a creature, partially real and formed from ice or snow, and it can take actions and otherwise be affected as a normal creature. It appears to be the same as the original, but it has half the creature's Hit Point maximum and is formed without any equipment. Otherwise, the illusion uses all the statistics of the creature it duplicates, except that it is a construct.
 
 The simulacrum is friendly to you and creatures you designate. It obeys your spoken commands, moving and acting in accordance with your wishes and acting on your turn in combat. The simulacrum lacks the ability to learn or become more powerful, so it never increases its level or other abilities, nor can it regain expended spell slots.
 
-If the simulacrum is damaged, you can repair it in an alchemical laboratory, using rare herbs and minerals worth 100 gp per hit point it regains. The simulacrum lasts until it drops to 0 hit points, at which point it reverts to snow and melts instantly.
+If the simulacrum is damaged, you can repair it in an alchemical laboratory, using rare herbs and minerals worth 100 gp per Hit Point it regains. The simulacrum lasts until it drops to 0 Hit Points, at which point it reverts to snow and melts instantly.
 
 If you cast this spell again, any currently active duplicates you created with this spell are instantly destroyed.
 
@@ -448,7 +448,7 @@ The temple opposes types of creatures you choose when you cast this spell. Choos
 
 In addition, the sensors created by divination spells can't appear inside the temple, and creatures within can't be targeted by divination spells.
 
-Finally, whenever any creature in the temple regains hit points from a spell of 1st level or higher, the creature regains additional hit points equal to your Wisdom modifier (minimum 1 hit point).
+Finally, whenever any creature in the temple regains Hit Points from a spell of 1st level or higher, the creature regains additional Hit Points equal to your Wisdom modifier (minimum 1 Hit Point).
 
 The temple is made from opaque magical force that extends into the Ethereal Plane, thus blocking ethereal travel into the temple's interior. Nothing can physically pass through the temple's exterior. It can't be dispelled by *dispel magic*, and *antimagic field* has no effect on it. A *disintegrate* spell destroys the temple instantly.
 
@@ -476,4 +476,4 @@ A restrained creature can use an :rsc-action: **Action** to make a Strength or D
 **Components:** V, S, M (a spool of platinum cord worth at least 250 gp, which the spell consumes)  
 **Duration:** Concentration, up to 1 hour
 
-Two creatures you can see within range must make a Constitution Saving Throw, with disadvantage if they are within 30 feet of each other. Either creature can willingly fail the save. If either save succeeds, the spell has no effect. If both saves fail, the creatures are magically linked for the duration, regardless of the distance between them. When damage is dealt to one of them, the same damage is dealt to the other one. If hit points are restored to one of them, the same number of hit points are restored to the other one. If either of the tethered creatures is reduced to 0 hit points, the spell ends on both. If the spell ends on one creature, it ends on both.
+Two creatures you can see within range must make a Constitution Saving Throw, with disadvantage if they are within 30 feet of each other. Either creature can willingly fail the save. If either save succeeds, the spell has no effect. If both saves fail, the creatures are magically linked for the duration, regardless of the distance between them. When damage is dealt to one of them, the same damage is dealt to the other one. If Hit Points are restored to one of them, the same number of Hit Points are restored to the other one. If either of the tethered creatures is reduced to 0 Hit Points, the spell ends on both. If the spell ends on one creature, it ends on both.

@@ -12,7 +12,7 @@ A book might contain poetry, historical accounts, information pertaining to a pa
 For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for another 5 feet.
 
 #### Chain (10 ft) 
-A chain has 10 hit points. It can be burst with a successful DC 20 Strength check.
+A chain has 10 Hit Points. It can be burst with a successful DC 20 Strength check.
 
 #### Lock
 A key is provided with the lock. Without the key, a creature proficient with thieves' tools can pick this lock with a successful DC 15 Dexterity check. Your DM may decide that better locks are available for higher prices.
@@ -21,7 +21,7 @@ A key is provided with the lock. Without the key, a creature proficient with thi
 This lens allows a closer look at small objects. It is also useful as a substitute or flint and steel when starting fires. Lighting a fire with a magnifying glass requires light as bright as sunlight to focus, tinder to ignite, and about 5 minutes for the fire to ignite. A magnifying glass grants advantage on any ability check made to appraise or inSPect an item that is small or highly detailed.
 
 #### Manacles
-These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with thieves’ tools can pick the manacles’ lock with a successful DC 15 Dexterity check. Manacles have 15 hit points.
+These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with thieves’ tools can pick the manacles’ lock with a successful DC 15 Dexterity check. Manacles have 15 Hit Points.
 
 #### Mess Kit
 This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.
@@ -33,7 +33,7 @@ You can use a portable ram to break down doors. When doing so, you gain a +4 bon
 Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.
 
 #### Rope
-Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.
+Rope, whether made of hemp or silk, has 2 Hit Points and can be burst with a DC 17 Strength check.
 
 #### Spellbook
 Essential for wizards, a spellbook is a leather-bound tome with 100 blank vellum pages suitable for recording spells.	
@@ -56,7 +56,7 @@ A creature that drinks this vial of liquid gains advantage on :d20-save:**Saving
 As an :rsc-action: **Action**, you can spill these tiny balls from their pouch to cover a level area 10 feet square. A creature moving across the covered area must succeed on a DC 10 Dexterity :d20-save:**Saving Throw** or fall prone. A creature moving through the area at half speed doesn't need to make the :d20-save:**Saving Throw**.
 
 #### Caltrops (bag of 20)
-As an :rsc-action: **Action**, you can spread a single bag of caltrops to cover a 5-foot-square area. Any creature that enters the area must succeed on a DC 15 Dexterity :d20-save:**Saving Throw** or stop moving and take 1 piercing damage. Until the creature regains at least 1 hit point, its walking speed is reduced by 10 feet. A creature moving through the area at half speed doesn't need to make the :d20-save:**Saving Throw**.
+As an :rsc-action: **Action**, you can spread a single bag of caltrops to cover a 5-foot-square area. Any creature that enters the area must succeed on a DC 15 Dexterity :d20-save:**Saving Throw** or stop moving and take 1 piercing damage. Until the creature regains at least 1 Hit Point, its walking speed is reduced by 10 feet. A creature moving through the area at half speed doesn't need to make the :d20-save:**Saving Throw**.
 
 #### Climber's Kit
 A climber's kit includes special pitons, boot tips, gloves, and a harness. You can use the climber's kit as an :rsc-action: **Action** to anchor yourself; when you do, you can't fall more than 25 feet from the point where you anchored yourself, and you can't climb more than 25 feet away from that point without undoing the anchor.
@@ -65,7 +65,7 @@ A climber's kit includes special pitons, boot tips, gloves, and a harness. You c
 Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied.
 
 #### Healer's Kit
-This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an :rsc-action: **Action**, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check.
+This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an :rsc-action: **Action**, you can expend one use of the kit to stabilize a creature that has 0 Hit Points, without needing to make a Wisdom (Medicine) check.
 
 #### Holy Water (flask)
 As an :rsc-action: **Action**, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage.

@@ -4,7 +4,7 @@ icon: material/hammer
 
 ## Damage
 
-Damage is a number that represents how deadly a threat is. When a creature takes damage, they subtract that amount of damage from their current amount of hit points.
+Damage is a number that represents how deadly a threat is. When a creature takes damage, they subtract that amount of damage from their current amount of Hit Points.
 
 Damage is dealt with attacks and other harmful actions, as well as by a variety of conditions.
 
@@ -84,9 +84,9 @@ Immunity to a damage type means that the creature takes no damage from that type
 
 ## Healing
 
-Healing is the process of restoring lost hit points to a creature.
+Healing is the process of restoring lost Hit Points to a creature.
 
-Healing can never restore more hit points than a creature's hit point maximum, and cannot restore temporary hit points. Player characters are generally only able to heal their party members and allies, not hostile or neutral creatures.
+Healing can never restore more Hit Points than a creature's Hit Point maximum, and cannot restore temporary Hit Points. Player characters are generally only able to heal their party members and allies, not hostile or neutral creatures.
 
 ### Healing Spells and Abilities
 

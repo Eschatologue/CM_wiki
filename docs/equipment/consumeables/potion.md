@@ -25,7 +25,7 @@ In Crown & Misery, where combat can be exceptionally lethal, rules regarding pot
 
 ### Healing Potion
 
-You regain hit points when you drink this potion. The number of hit points restored is as shown in the Potions of Healing table. Whatever its potency and size, the potion's red liquid glimmers when agitated.
+You regain Hit Points when you drink this potion. The number of Hit Points restored is as shown in the Potions of Healing table. Whatever its potency and size, the potion's red liquid glimmers when agitated.
     
 | :material-text: **NAME**  | :rsc-silver: **COST** | :material-hospital-box: **HP REGAINED** |
 | --- | -: | :-- |

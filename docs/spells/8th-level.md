@@ -24,7 +24,7 @@ Nonmagical plants in the area that aren't creatures, such as trees and shrubs, w
 
 Your magic turns others into beasts. Choose any number of willing creatures that you can see within range. You transform each target into the form of a Large or smaller beast with a challenge rating of 4 or lower. On subsequent turns, you can use your :rsc-action: **Action** to transform affected creatures into new forms.
 
-The transformation lasts for the duration for each target, or until the target drops to 0 hit points or dies. You can choose a different form for each target. A target's game statistics are replaced by the statistics of the chosen beast, though the target retains its alignment and Intelligence, Wisdom, and Charisma scores. The target assumes the hit points of its new form, and when it reverts to its normal form, it returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form. As long as the excess damage doesn't reduce the creature's normal form to 0 hit points, it isn't knocked unconscious. The creature is limited in the actions it can perform by the nature of its new form, and it can't speak or cast spells.
+The transformation lasts for the duration for each target, or until the target drops to 0 Hit Points or dies. You can choose a different form for each target. A target's game statistics are replaced by the statistics of the chosen beast, though the target retains its alignment and Intelligence, Wisdom, and Charisma scores. The target assumes the Hit Points of its new form, and when it reverts to its normal form, it returns to the number of Hit Points it had before it transformed. If it reverts as a result of dropping to 0 Hit Points, any excess damage carries over to its normal form. As long as the excess damage doesn't reduce the creature's normal form to 0 Hit Points, it isn't knocked unconscious. The creature is limited in the actions it can perform by the nature of its new form, and it can't speak or cast spells.
 
 The target's gear melds into the new form. The target can't activate, wield, or otherwise benefit from any of its equipment.
 
@@ -180,7 +180,7 @@ This spell can have additional effects depending on the terrain in the area, as 
 
 A fissure that opens beneath a structure causes it to automatically collapse (see below).
 
-***Structures.*** The tremor deals 50 bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the start of each of your turns until the spell ends. If a structure drops to 0 hit points, it collapses and potentially damages nearby creatures. A creature within half the distance of a structure's height must make a Dexterity Saving Throw. On a failed save, the creature takes 5d6 bludgeoning damage, is knocked prone, and is buried in the rubble, requiring a DC 20 Strength (Athletics) check as an :rsc-action: **Action** to escape. The DM can adjust the DC higher or lower, depending on the nature of the rubble. On a successful save, the creature takes half as much damage and doesn't fall prone or become buried.
+***Structures.*** The tremor deals 50 bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the start of each of your turns until the spell ends. If a structure drops to 0 Hit Points, it collapses and potentially damages nearby creatures. A creature within half the distance of a structure's height must make a Dexterity Saving Throw. On a failed save, the creature takes 5d6 bludgeoning damage, is knocked prone, and is buried in the rubble, requiring a DC 20 Strength (Athletics) check as an :rsc-action: **Action** to escape. The DM can adjust the DC higher or lower, depending on the nature of the rubble. On a successful save, the creature takes half as much damage and doesn't fall prone or become buried.
 
 ### Feeblemind
 *8th-level enchantment*
@@ -290,7 +290,7 @@ A small keep stands inside the enclosed area. The keep has a square base that is
 
 A staff of one hundred invisible servants obeys any command given to them by creatures you designate when you cast the spell. Each servant functions as if created by the unseen servant spell.
 
-The walls, turrets, and keep are all made of stone that can be damaged. Each 10-foot-by-10-foot section of stone has AC 15 and 30 hit points per inch of thickness. It is immune to poison and psychic damage. Reducing a section of stone to 0 hit points destroys it and might cause connected sections to buckle and collapse at the DM's discretion.
+The walls, turrets, and keep are all made of stone that can be damaged. Each 10-foot-by-10-foot section of stone has AC 15 and 30 Hit Points per inch of thickness. It is immune to poison and psychic damage. Reducing a section of stone to 0 Hit Points destroys it and might cause connected sections to buckle and collapse at the DM's discretion.
 
 After 7 days or when you cast this spell somewhere else, the fortress harmlessly crumbles and sinks back into the ground, leaving any creatures that were inside it safely on the ground.
 
@@ -314,7 +314,7 @@ Until the spell ends, one willing creature you touch is immune to psychic damage
 **Components:** V  
 **Duration:** Instantaneous
 
-You speak a word of power that can overwhelm the mind of one creature you can see within range, leaving it dumbfounded. If the target has 150 hit points or fewer, it is stunned. Otherwise, the spell has no effect.
+You speak a word of power that can overwhelm the mind of one creature you can see within range, leaving it dumbfounded. If the target has 150 Hit Points or fewer, it is stunned. Otherwise, the spell has no effect.
 
 The stunned target must make a Constitution Saving Throw at the end of each of its turns. On a successful save, this stunning effect ends.
 
@@ -392,4 +392,4 @@ This spell creates a sphere centered on a point you choose within range. The sph
 
 For the duration, the spell's area is difficult terrain. A creature with darkvision can't see through the magical darkness, and nonmagical light can't illuminate it. No sound can be created within or pass through the area. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible there.
 
-Any creature that enters the spell's area for the first time on a turn or starts its turn there must make a Constitution Saving Throw. The creature takes 8d10 force damage on a failed save, or half as much damage on a successful one. A creature reduced to 0 hit points by this damage is disintegrated. A disintegrated creature and everything it is wearing and carrying, except magic items, are reduced to a pile of fine gray dust.
+Any creature that enters the spell's area for the first time on a turn or starts its turn there must make a Constitution Saving Throw. The creature takes 8d10 force damage on a failed save, or half as much damage on a successful one. A creature reduced to 0 Hit Points by this damage is disintegrated. A disintegrated creature and everything it is wearing and carrying, except magic items, are reduced to a pile of fine gray dust.
