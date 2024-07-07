@@ -1,6 +1,30 @@
 # Changelog
 
-## 1.1 <small>17 June 2024</small>
+## 1.2 <small> 07 July 2024</small>
+
+### OneD&D Imports
+
+- **Eldritch Invocations.** Ported and slightly adjusted the new Warlock's Eldritch Invocations. Indirectly buffing the [Eldrtich Adept](../character-creation/feat/feat-starting.md#edritch-adept) feat.
+- **Sorcerer's Metamagic.** Ported OneD&D Sorcerer's Metamagic, though it is untouched even in the new version.
+- **Unarmed Strike.** Unarmed Strike now uses the new OneD&D rulings, in which included Grappling and Shoving.
+
+### Lore
+
+- **Warp Corruptions.** More lore entry added relating to exposures to the Warp.
+- **Warp Maelstorm.** Added a small entry related to Warp Maelstorms.
+- **Warp Entities.** Added lore, telling signs of presence of the Warp.
+
+### Wiki
+
+Minor readproofing in the wiki for consistency.
+
+### Gimmicl
+
+- **Eris.** First initial release of Eris gimmick
+- **John.** Added **John's Signature** feature at 9th level.
+- **Khaine.** Judgement starry form no longer summons a weapon, but instead enables melee spell attacks with cosmic flare.
+
+## 1.1 <small> 17 June 2024</small>
 
 ### Feat Changes
 - **[Titan Hunter](../character-creation/feat/feat-starting.md#titan-hunter).** Reworded the feat description.

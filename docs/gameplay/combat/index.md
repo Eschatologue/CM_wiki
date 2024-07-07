@@ -14,6 +14,14 @@ A typical combat encounter is a clash between two sides, a flurry of weapon swin
 
 During a round, each participant in a battle takes a turn. The order of turns is determined at the beginning of a combat encounter, when everyone rolls initiative. Once everyone has taken a turn, the fight continues to the next round if neither side has defeated the other.
 
+## Your Turn
+
+During your turn, you can do the following on any order:
+
+- Move up to your :rsc-movement: **Speed**
+- Take one :rsc-action: **Action**
+- Take one :rsc-bonus-action: **Bonus Action** (If you have a class feature that uses it)
+
 ### Initiative
 
 > *"Roll for Initiative!"*
@@ -32,55 +40,128 @@ Initiative determines the order in which characters and creatures act during com
 3. **Order of Actions:** Participants act in the order established by the initiative rolls, from highest to lowest.
 4. **Repeating Order:** After everyone has taken their turn, a new round begins, starting again from the top of the initiative order.
 
-## Creature Size
+### :rsc-action:{ .lg .pad-r } Action
 
-Each creature takes up a different amount of space.
+Activities below takes an :rsc-action: **Action**, these are also considered *common actions*, which includes:
 
-The Size Categories table shows how much space a creature of a particular size controls in combat. Objects sometimes use the same size categories.
+<div class="grid cards" markdown>
 
-### Size Categories
+- :material-sword:{ .lg .middle } **Attack**
 
-| Size       | Space                  |
-|------------|------------------------|
-| Tiny       | 2½ by 2½ ft.           |
-| Small      | 5 by 5 ft.             |
-| Medium     | 5 by 5 ft.             |
-| Large      | 10 by 10 ft.           |
-| Huge       | 15 by 15 ft.           |
-| Gargantuan | 20 by 20 ft. or larger |
+    A melee or a ranged attack against your target's [Armour Class](../../equipment/armour/index.md#what-is-armour-class-ac). 
 
-## Mounted Combat
+- :dnd-stat-spellcasting:{ .lg .middle } **Cast a Spell**
 
-A knight charging into battle on a warhorse, a wizard casting spells from the back of a griffon, or a cleric soaring through the sky on a pegasus all enjoy the benefits of speed and mobility that a mount can provide.
+    Unless otherwise stated in its description, a cantrip or a spell of 1st level or higher, takes an :rsc-action: **Action** to cast.
 
-A willing creature that is at least one size larger than you and that has an appropriate anatomy can serve as a mount, using the following rules.
+- :action-dash:{ .lg .middle } **Dash**  
 
-### Mounting and Dismounting
+    Your movement speed is doubled for the rest of the turn.
 
-Once during your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend 15 feet of movement to mount a horse. Therefore, you can't mount it if you don't have 15 feet of movement left or if your speed is 0.
+- :action-disengage:{ .lg .middle } **Disengage**  
 
-If an effect moves your mount against its will while you're on it, you must succeed on a DC 10 Dexterity Saving Throw or fall off the mount, landing prone in a space within 5 feet of it. If you're knocked prone while mounted, you must make the same Saving Throw.
+    Your movement doesn't provoke Opportunity Attacks for the rest of the turn.
 
-If your mount is knocked prone, you can use your :rsc-reaction:Reaction to dismount it as it falls and land on your feet. Otherwise, you are dismounted and fall prone in a space within 5 feet it.
+- :action-dodge:{ .lg .middle } **Dodge**  
 
-### Controlling a Mount
+    :d20-attack: **Attack Roll** against you has :d20-disadv: **Disadvantage** & you have :d20-adv: **Advantage** on Dexterity :d20-save: **Saving Throw** for the rest of the turn.
 
-While you're mounted, you have two options. You can either control the mount or allow it to act independently. Intelligent creatures, such as dragons, act independently.
+- :action-help:{ .lg .middle } **Help**  
 
-You can control a mount only if it has been trained to accept a rider. Domesticated horses, donkeys, and similar creatures are assumed to have such training.
+    Give an ally within 5 ft. :d20-adv: **Advantage** on their next D20 Test.
 
-The initiative of a controlled mount changes to match yours when you mount it. It moves as you direct it, and it has only three action options: Dash, Disengage, and Dodge. A controlled mount can move and act even on the turn that you mount it.
+- :action-hide:{ .lg .middle } **Hide**  
 
-An independent mount retains its place in the initiative order. Bearing a rider puts no restrictions on the actions the mount can take, and it moves and acts as it wishes. It might flee from combat, rush to attack and devour a badly injured foe, or otherwise act against your wishes.
+    Make a Stealth check to hide, contested against enemies' Passive Perception.
 
-In either case, if the mount provokes an opportunity attack while you're on it, the attacker can target you or the mount.
+- :action-ready:{ .lg .middle } **Hide**  
 
-## Underwater Combat
+    Choose a **common action** and a trigger. If the trigger occurs, take your **common actions** as :rsc-reaction: **Reaction**
 
-When adventurers pursue sahuagin back to their undersea homes, fight off sharks in an ancient shipwreck, or find themselves in a flooded dungeon room, they must fight in a challenging environment. Underwater the following rules apply.
+</div>
 
-When making a **melee weapon attack**, a creature that doesn't have a swimming speed (either natural or granted by magic) has disadvantage on the attack roll unless the weapon is a dagger, javelin, shortsword, spear, or trident.
+### :rsc-bonus-action:{ .lg .pad-r } Bonus Action
 
-A **ranged weapon attack** automatically misses a target beyond the weapon's normal range. Even against a target within normal range, the attack roll has disadvantage unless the weapon is a crossbow, a net, or a weapon that is thrown like a javelin (including a spear, trident, or dart).
+Some abilities, spells, and class features allow you to take an additional action on your turn called a :rsc-bonus-action: **Bonus Action**. You can only take one :rsc-bonus-action: **Bonus Action** per turn. Examples include:
 
-Creatures and objects that are fully immersed in water have resistance to fire damage.
+- **Rogue's Cunning Action:** Allows rogues to :action-dash: **Dash**, :action-disengage: **Disengage**, or :action-hide: **Hide** using :rsc-bonus-action: **Bonus Action**.
+- **Certain Spells:** Some spells, like *[Healing Word](../../spells/1st-level.md#healing-word)*, can be cast using :rsc-bonus-action: **Bonus Action**.
+
+### :rsc-reaction:{ .lg .pad-r } Reaction
+
+:rsc-reaction: **Reaction**s are special actions you can take in response to certain triggers, even when it’s not your turn. You can take one :rsc-reaction: **Reaction** per round. Common reactions include:
+
+- **Opportunity Attack:** When an enemy moves out of your reach.
+- **Casting a Spell:** Some spells, like *[Shield](../../spells/1st-level.md#shield)* or *[Counterspell](../../spells/3rd-level.md#counterspell)*, can be cast using :rsc-reaction: **Reaction**.
+
+### Dealing Damage
+
+*Main Article: [Damage](damage-healing.md#damage)*
+
+Roll damage **based in the description of the attack** being used. Damage can often involve multiple dice.
+
+Damage is assigned a damage type based on the weapon or effect inflicting the damage, this includes:
+
+- **Physical Damage.** :damage-bludgeoning: Bludgeoning - :damage-piercing: Piercing - :damage-slashing: Slashing
+- **Elemental Damage.** :damage-acid: Acid - :damage-cold: Cold - :damage-fire: Fire - :damage-lightning: Lightning - :damage-poison: Poison - :damage-thunder: Thunder
+- **Magical Damage.** :damage-force: Force - :damage-necrotic: Necrotic - :damage-psychic: Psychic - :damage-radiant: Radiant
+
+**Vulnerability.** Takes double damage of the corresponding damage type.
+
+**Resistance.** Takes half damage of the corresponding damage type. 
+
+**Immunity.** Takes no damage of the corresponding damage type.
+
+### Moving in Combat
+
+*Main Article: [Movement](movement.md)*
+
+On your turn, you can move up to your :rsc-movement: **Speed**.
+
+|Special Movement|Description|Cost|
+|---|---|--:|
+| Stand up | Ending the Prone condition on yourself | Half of your total movement |
+| Drop Prone | Give yourself the Prone condition | none |
+| Difficult Terrain | Special terrains that difficult to cross | Movement cost is doubled |
+| Climb, Crawl, Swim | Count as Difficult Terrain | Movevement cost is doubled |
+
+#### Breaking Movement
+
+You can break up your Movement on Your Turn, using some of your speed before and after your :rsc-action: **Action**. For example, if you have a speed of 30 feet, you can move 10 feet, take your :rsc-action: **Action**, and then move 20 feet.
+
+#### Moving Between Attacks
+
+If you take an :rsc-action: **Action** that includes more than one weapon Attack, you can break up your Movement even further by moving between those attacks. For example, a Fighter who can make two attacks with the Extra Attack feature and who has a speed of 25 feet could move 10 feet, make an Attack, move 15 feet, and then Attack again.
+
+### Casting Spells
+
+#### Cantrips
+
+Cantrips are spell that does not require the use of :rsc-spell-slot: **Spell Slot** to be cast.
+
+#### Spells
+
+A spell with a level requires :rsc-spell-slot: **Spell Slot** of appropriate level to be cast.
+
+#### Spell Save DC
+
+Many spells requires a :d20-save: **Saving Throw** for its effect. The DC is equal to 8 + Spellcasting Modifier + Proficiency Bonus.
+
+#### Concentration Check
+
+Some spell requires Concentration to maintain its effect. When you take damage while Concentrating on a spell, you must make a [Concentration Check](../../character-creation/ability-scores/constitution.md#concentration-check).
+
+### Interacting with Objects
+
+During your turn, you can interact with one object or feature of the environment for free. Examples include:
+
+- Drawing or sheathing a sword.
+- Opening a door.
+- Picking up a small item.
+- Withdraw a potion from your backpack
+- Pick up a dropped axe
+- Take a bauble from a table
+- Hand an item to another character
+- and so on
+
+If you want to interact with more than one object, you may need to use your :rsc-action: **Action**.

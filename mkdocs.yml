@@ -22,7 +22,6 @@ nav:
     - Multiclassing: gameplay/multiclassing.md
     - Combat: 
       - gameplay/combat/index.md
-      - Your Turn: gameplay/combat/your-turn.md
       - Making an Attack: gameplay/combat/making-an-attack.md
       - Movement: gameplay/combat/movement.md
       - Damage and Healing : gameplay/combat/damage-healing.md

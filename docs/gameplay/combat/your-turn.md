@@ -1,5 +1,7 @@
 ---
 icon: material/contacts
+search:
+  exclude: true
 ---
 
 During your turn, you can perform a variety of actions to interact with the world and engage in combat.

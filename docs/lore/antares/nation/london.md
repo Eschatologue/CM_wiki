@@ -1,6 +1,6 @@
 # London
 
-The **British Empire**, officially called **Albion** and commonly known as **London**, is a country located in the northwest of Antares. It is the new beating heart of the British Empire, nestled within what was once a verdant forest claimed by the elves. London stands as a beacon of prosperity and military might, earning its place as one of Antares' most influential and formidable nations.
+The **Great Britain**, officially called **Albion** and commonly known as **London**, is a country located in the northwest of Antares. It is the new beating heart of the British Empire, nestled within what was once a verdant forest claimed by the elves. London stands as a beacon of prosperity and military might, earning its place as one of Antares' most influential and formidable nations.
 
 ## Background
 

@@ -105,7 +105,7 @@ You gain the aspect of Antares’ primordial Paths, you can either choose from t
 - **The Chariot.** When you make a Wisdom (Animal Handling) or Wisdom (Survival) check you can add your Constitution modifier to your roll.
 - **The Hermit.** When you make an Intelligence (Investigation) or Wisdom (Perception) check you can add your Constitution modifier to your roll.
 
-## John's Originals <span style="float:right;"> <small> Level 9 </small> </span>
+## John's Signatures <span style="float:right;"> <small> Level 9 </small> </span>
 
 When you use Reckless Attack while ^^Primordial Conflagaration^^ is active, you can forgo the :d20-adv: **Advantage** on the next :d20-attack: **Attack Roll** you make on your turn using Strength. If the attack hits, the target takes additional :damage-fire: 1d8 **Fire** damage and you can cause an additional effect of your choice. 
 
