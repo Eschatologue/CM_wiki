@@ -57,6 +57,6 @@
 ### Strongheart
 
 **Resilience**  
-&ensp;&ensp;&ensp; You have :d20-adv: **Advantage** on :d20-save: **Saving Throws** against :damage-poison:**Poison**, and you have [Resistance](../../gameplay/combat/damage-healing.md#resistance) against :damage-poison:**Poison** damage.
+&ensp;&ensp;&ensp; You have :d20-adv: **Advantage** on :d20-save: **Saving Throws** against :dmg-poison:**Poison**, and you have [Resistance](../../gameplay/combat/damage-healing.md#resistance) against :dmg-poison:**Poison** damage.
 
 ---

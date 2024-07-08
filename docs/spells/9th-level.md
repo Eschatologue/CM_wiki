@@ -1,5 +1,5 @@
 ---
-icon: material/roman-numeral-9
+icon: spell/level-9
 ---
 
 ### Astral Projection

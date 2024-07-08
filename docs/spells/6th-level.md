@@ -1,5 +1,5 @@
 ---
-icon: material/roman-numeral-6
+icon: spell/level-6
 ---
 
 ### Arcane Gate

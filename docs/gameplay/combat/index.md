@@ -102,9 +102,9 @@ Roll damage **based in the description of the attack** being used. Damage can of
 
 Damage is assigned a damage type based on the weapon or effect inflicting the damage, this includes:
 
-- **Physical Damage.** :damage-bludgeoning: Bludgeoning - :damage-piercing: Piercing - :damage-slashing: Slashing
-- **Elemental Damage.** :damage-acid: Acid - :damage-cold: Cold - :damage-fire: Fire - :damage-lightning: Lightning - :damage-poison: Poison - :damage-thunder: Thunder
-- **Magical Damage.** :damage-force: Force - :damage-necrotic: Necrotic - :damage-psychic: Psychic - :damage-radiant: Radiant
+- **Physical Damage.** :dmg-bludgeoning: Bludgeoning - :dmg-piercing: Piercing - :dmg-slashing: Slashing
+- **Elemental Damage.** :dmg-acid: Acid - :dmg-cold: Cold - :dmg-fire: Fire - :dmg-lightning: Lightning - :dmg-poison: Poison - :dmg-thunder: Thunder
+- **Magical Damage.** :dmg-force: Force - :dmg-necrotic: Necrotic - :dmg-psychic: Psychic - :dmg-radiant: Radiant
 
 **Vulnerability.** Takes double damage of the corresponding damage type.
 

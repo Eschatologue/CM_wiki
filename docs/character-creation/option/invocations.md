@@ -90,7 +90,7 @@ When you cast Find Familiar, you infuse the summoned familiar with a measure of 
 
 **Quick Attack.** As a :rsc-bonus-action: **Bonus Action**, you can command the familiar to take the Attack action.
 
-**Necrotic or Radiant Damage.** Whenever the familiar deals :damage-bludgeoning: **Bludgeoning**, :damage-piercing: **Piercing**, or :damage-slashing: **Slashing** damage, you can make it deal :damage-necrotic: **Necrotic** or :damage-radiant: **Radiant** damage instead. 
+**Necrotic or Radiant Damage.** Whenever the familiar deals :dmg-bludgeoning: **Bludgeoning**, :dmg-piercing: **Piercing**, or :dmg-slashing: **Slashing** damage, you can make it deal :dmg-necrotic: **Necrotic** or :dmg-radiant: **Radiant** damage instead. 
 
 **Your Save DC.** If the familiar forces a creature to make a Saving Throw, it uses your spell save DC.
 
@@ -108,7 +108,7 @@ You have received knowledge from an elder entity, allowing you to gain one start
 
 **Prerequisite:** Level 9+ Warlock, [Pact of the Blade](#pact-of-the-blade)
 
-Whenever you hit a creature with your pact weapon, the creature takes 1d6 extra :damage-necrotic: **Necrotic**, :damage-psychic: **Psychic**, or :damage-radiant: **Radiant** damage (your choice), and you can expend one of your Hit Dice to roll it and regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1).
+Whenever you hit a creature with your pact weapon, the creature takes 1d6 extra :dmg-necrotic: **Necrotic**, :dmg-psychic: **Psychic**, or :dmg-radiant: **Radiant** damage (your choice), and you can expend one of your Hit Dice to roll it and regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1).
 
 ### Mask of Many Faces
 
@@ -146,7 +146,7 @@ You can cast Jump on yourself without expending a :rsc-spell-slot: **Spell Slot*
 
 As a :rsc-bonus-action: **Bonus Action**, you can trace arcane sigils in the air to conjure a pact weapon in your hand—a Simple or Martial melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch. Until the bond ends, you have Proficiency with the weapon, and you can use it as a spellcasting focus.
 
-Whenever you attack with the bonded weapon, you can use your spellcasting ability modifier for the attack and damage rolls, instead of using Strength or Dexterity, and you can cause the weapon to deal :damage-necrotic: **Necrotic**, :damage-psychic: **Psychic**, or :damage-radiant: **Radiant** damage or its normal damage type.
+Whenever you attack with the bonded weapon, you can use your spellcasting ability modifier for the attack and damage rolls, instead of using Strength or Dexterity, and you can cause the weapon to deal :dmg-necrotic: **Necrotic**, :dmg-psychic: **Psychic**, or :dmg-radiant: **Radiant** damage or its normal damage type.
 
 Your bond with the weapon ends if you use this feature’s :rsc-bonus-action: **Bonus Action** again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
 

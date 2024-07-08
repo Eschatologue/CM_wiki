@@ -14,7 +14,7 @@ Taking actions usually requires the acting creature to expend one of three resou
 |:-:|:-:|:-:|
 |**ACTION**|**BONUS ACTION**|**REACTION**|
 
-### Actions
+### :rsc-action:{ .lg .pad-r } Action
 
 An Action is a primary activity that a creature can perform during their turn. This encompasses a wide range of activities such as attacking, casting a spell, or using an item. Typically, creatures can perform one Action per turn.
 
@@ -24,7 +24,8 @@ An Action is a primary activity that a creature can perform during their turn. T
   - **Cast a Spell**: A wizard casts the spell "Fireball," targeting a group of enemies.
   - **Dash**: A paladies their action to move double their movement speed to close in upon the enemies.
 
-### Bonus Actions
+### :rsc-bonus-action:{ .lg .pad-r } Bonus Action
+
 Some actions, frequently referred to as *:rsc-bonus-action: **Bonus Action**s*, require a Bonus Action to be expended when taken.
 
 A Bonus Action is a secondary action that certain abilities, spells, or class features allow a creature to perform in addition to their main :rsc-action: **Action**. Not all characters or actions can use a Bonus Action, and creatures can typically perform only one :rsc-bonus-action: **Bonus Action** per turn if they have an ability that grants them one.
@@ -34,7 +35,7 @@ A Bonus Action is a secondary action that certain abilities, spells, or class fe
   - **Two-Weapon Fighting**: A ranger attacks with their main weapon using their :rsc-action: **Action**, then uses their :rsc-bonus-action: **Bonus Action** to make an off-hand attack with a second weapon.
   - **Misty Step**: A warlock uses their :rsc-bonus-action: **Bonus Action** to cast this spell, teleporting 30 feet to a spot they can see.
 
-### Reactions
+### :rsc-reaction:{ .lg .pad-r } Reaction
 
 A :rsc-reaction: **Reaction** is an :rsc-action: **Action** that creatures can take in response to a specific event, even if it’s not their turn. Creatures can typically take only one :rsc-reaction: **Reaction** per round. Reactions often have specific triggers, such as an enemy's movement or an attack.
 
@@ -45,7 +46,7 @@ A :rsc-reaction: **Reaction** is an :rsc-action: **Action** that creatures can t
 - **Counterspell**: A sorcerer uses their :rsc-reaction: **Reaction** to counter a spell being cast by an enemy within 60 feet.
 - **Uncanny Dodge**: A rogue uses their :rsc-reaction: **Reaction** to halve the damage from an attack that hits them.
 
-## Spell Slots
+## :rsc-spell-slot: Spell Slots
 
 |:rsc-spell-slot:{ .xxl .middle }|
 |:-:|

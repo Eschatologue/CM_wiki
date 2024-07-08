@@ -91,17 +91,17 @@ Once per turn when you make an attack that adds your Sneak Attack damage, you ca
 To be channeled this way, the spell must met the following requirements:
 
 - The Sorcerer spell must have a casting time of an :rsc-action: **Action**.
-- The Sorcerer spell must require only a single spell :d20-attack:**Attack Roll** or force its target to make a :d20-save:**Saving Throw**.
+- The Sorcerer spell must require only a single spell :d20-attack:**Attack Roll** or force its target to make a :d20-save: **Saving Throw**.
 
 If your attack misses, the spell fails and has no effect. On a hit, the spell takes effect immediately in addition of the normal effects and damage from your weapon attack, under the rules below:
 
-- :material-radius-outline: **Area of Effects.** If the spell targets an area greater than a 10 ft. cube, it takes effect as a 15 ft. cone originating from you, which must include your target. Alternatively, it can be contained to only affect the target of your attack (your choice). Using a ranged weapon, your spell is contained to only affect the target of your attack.
+- :spell-aoe: **Area of Effects.** If the spell targets an area greater than a 10 ft. cube, it takes effect as a 15 ft. cone originating from you, which must include your target. Alternatively, it can be contained to only affect the target of your attack (your choice). Using a ranged weapon, your spell is contained to only affect the target of your attack.
 
-- :material-numeric-0: **Cantrip.** The cantrip ^^does not deal damage^^. Instead, your weapon attack deals the damage type dealt by the cantrip, and applies the cantrip additional effects on hit, except for damage.
+- :spell-level-0: **Cantrip.** The cantrip ^^does not deal damage^^. Instead, your weapon attack deals the damage type dealt by the cantrip, and applies the cantrip additional effects on hit, except for damage.
 
-- :material-focus-field: **Concentration.** If the spell requires your concentration, you must concentrate on it as soon as it takes effect on hit.
+- :spell-concentration: **Concentration.** If the spell requires your concentration, you must concentrate on it as soon as it takes effect on hit.
 
-- :d20-save: **Saving Throws.** If the spell requires a :d20-save:**Saving Throw** when cast, the target makes the first :d20-save:**Saving Throw** at a :d20-disadv: **Disadvantage** on hit. If you score a Critical Hit on the attack, the target automatically fails its :d20-save:**Saving Throw**. Other target (if any) make this **Save** as normal.
+- :d20-save: **Saving Throws.** If the spell requires a :d20-save: **Saving Throw** when cast, the target makes the first :d20-save: **Saving Throw** at a :d20-disadv: **Disadvantage** on hit. If you score a Critical Hit on the attack, the target automatically fails its :d20-save: **Saving Throw**. Other target (if any) make this **Save** as normal.
 
 - :fontawesome-solid-crosshairs: **Spell Attacks.** If the spell requires a spell attack roll, it instantly take effect when you hit with a weapon attack.
 
@@ -133,7 +133,7 @@ When you hit a creature affected by [Hunter's Mark], you can choose to immediate
 
 Spells marked with ^DS^ means that the spell fufill the prerequisites to be channeled through ^^Dekrat's Special^^
 
-=== ":material-numeric-0:{ .xl .middle } **Cantrips (Level 0)**"
+=== ":spell-level-0:{ .xl .middle } **Cantrips (Level 0)**"
 
       - [Acid Splash]^DS^
       - [Booming Blade]
@@ -153,7 +153,7 @@ Spells marked with ^DS^ means that the spell fufill the prerequisites to be chan
       - [Shocking Grasp]^DS^
       - [Vicious Mockery]^DS^
 
-=== ":material-roman-numeral-1:{ .xl .middle } **1st-level Spell**"
+=== ":spell-level-1:{ .xl .middle } **1st-level Spell**"
 
       - [Absorb Elements]
       - [Armor of Agathys]
@@ -171,7 +171,7 @@ Spells marked with ^DS^ means that the spell fufill the prerequisites to be chan
       - [Thunderwave]^DS^
       - [Zephyr Strike]
    
-=== ":material-roman-numeral-2:{ .xl .middle } **2nd-level Spell**"
+=== ":spell-level-2:{ .xl .middle } **2nd-level Spell**"
 
       - [Aganazzar's Scorcher]
       - [Blur]
@@ -191,7 +191,7 @@ Spells marked with ^DS^ means that the spell fufill the prerequisites to be chan
       - [Silence]
       - [Zone of Truth]
 
-=== ":material-roman-numeral-3:{ .xl .middle } **3rd-level Spell**"
+=== ":spell-level-3:{ .xl .middle } **3rd-level Spell**"
 
       - [Ashardalon's Stride]
       - [Dispel Magic]

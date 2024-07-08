@@ -1,5 +1,5 @@
 ---
-icon: material/roman-numeral-1
+icon: spell/level-1
 ---
 
 # 1st-level Spells

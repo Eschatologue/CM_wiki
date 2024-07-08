@@ -101,13 +101,13 @@ What effect each type of grenade can cause is stated on [Grenade Effects](#grena
 
 #### Grenade Effects
 
-**Grenade, Cryogenic.** Creatures that fails the :d20-save:**Saving Throw**, takes the grenade damage and its movement speed is halved for 1 minute, the creature repeat this Saving Throw at the start of each turn, ending the effect on success. On successful save, it only takes half damage and no additional effects.
+**Grenade, Cryogenic.** Creatures that fails the :d20-save: **Saving Throw**, takes the grenade damage and its movement speed is halved for 1 minute, the creature repeat this Saving Throw at the start of each turn, ending the effect on success. On successful save, it only takes half damage and no additional effects.
 
-**Grenade, Fragmentation.** Creatures that fails the :d20-save:**Saving Throw**, takes the grenade damage, On successful save, it only takes half damage.
+**Grenade, Fragmentation.** Creatures that fails the :d20-save: **Saving Throw**, takes the grenade damage, On successful save, it only takes half damage.
 
-**Grenade, Incendiary.** Creatures that fails the :d20-save:**Saving Throw**, takes the grenade damage or half as much on successful save. The ground in a 20-foot radius centered on the target is ignited in flames. Each creature that enters the affected area, starts its turn or, end its turn on the affected area immediately takes :material-fire: **3d4 Fire** damage.
+**Grenade, Incendiary.** Creatures that fails the :d20-save: **Saving Throw**, takes the grenade damage or half as much on successful save. The ground in a 20-foot radius centered on the target is ignited in flames. Each creature that enters the affected area, starts its turn or, end its turn on the affected area immediately takes :material-fire: **3d4 Fire** damage.
 
-**Grenade, Flashbang.** Creatures that fails the :d20-save:**Saving Throw**, takes the grenade damage and it is Blinded(1) and Deafened(2) for 1 minute. The creature repeats this Saving Throw at the start of each turn, ending the effect on success. On successful save, it only takes half damage and no additional effects.
+**Grenade, Flashbang.** Creatures that fails the :d20-save: **Saving Throw**, takes the grenade damage and it is Blinded(1) and Deafened(2) for 1 minute. The creature repeats this Saving Throw at the start of each turn, ending the effect on success. On successful save, it only takes half damage and no additional effects.
 { .annotate }
 
 1. :material-eye-off: **Blinded** is a Condition.

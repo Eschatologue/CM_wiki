@@ -1,5 +1,5 @@
 ---
-icon: material/roman-numeral-8
+icon: spell/level-8
 ---
 
 ### Abi-Dalzim's Horrid Wilting

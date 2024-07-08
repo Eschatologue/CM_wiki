@@ -6,13 +6,13 @@ icon: dnd/stat-spellcasting
 
 **Cost:** *3 Sorcery Point(s)*
 
-When you cast a damaging spell that affect an Area of Effect and force the creatures to :d20-save:**Saving Throw**s, you can spend 3 Sorcery Point(s) to create an additional Area of Effect within 30 ft. of the original. The new area deals half the original spell's damage and cause the same secondary effecs(if any)
+When you cast a damaging spell that affect an Area of Effect and force the creatures to :d20-save: **Saving Throw**s, you can spend 3 Sorcery Point(s) to create an additional Area of Effect within 30 ft. of the original. The new area deals half the original spell's damage and cause the same secondary effecs(if any)
 
 ### Careful Spell
 
 **Cost:** *1 Sorcery Point(s)*
 
-When you cast a spell that forces other creatures to make a :d20-save:**Saving Throw**, you can protect some of those creatures from the spell's full force. To do so, you spend 1 Sorcery Point(s) and choose a number of those creatures up to your spellcasting ability modifier (minimum of one creature). A chosen creature automatically succeeds on its :d20-save:**Saving Throw** against the spell.
+When you cast a spell that forces other creatures to make a :d20-save: **Saving Throw**, you can protect some of those creatures from the spell's full force. To do so, you spend 1 Sorcery Point(s) and choose a number of those creatures up to your spellcasting ability modifier (minimum of one creature). A chosen creature automatically succeeds on its :d20-save: **Saving Throw** against the spell.
 
 ### Distant Spell
 
@@ -40,7 +40,7 @@ When you cast a spell that has a duration of 1 minute or longer, you can spend 1
 
 **Cost:** *3 Sorcery Point(s)*
 
-When you cast a spell that forces a creature to make a :d20-save:**Saving Throw** to resist its effects, you can spend 3 Sorcery Point(s) to give one target of the spell :d20-disadv: **Disadvantage** on its first :d20-save:**Saving Throw** made against the spell.
+When you cast a spell that forces a creature to make a :d20-save: **Saving Throw** to resist its effects, you can spend 3 Sorcery Point(s) to give one target of the spell :d20-disadv: **Disadvantage** on its first :d20-save: **Saving Throw** made against the spell.
 
 ### Quickened Spell
 
@@ -66,7 +66,7 @@ When you cast a spell, you can spend 1 Sorcery Point(s) to cast it without any s
 
 **Cost:** *1 Sorcery Point(s)*
 
-When you cast a spell that deals a type of damage from the following list, you can spend 1 Sorcery Point(s) to change that damage type to one of the other listed types: :damage-acid:**Acid**, :damage-cold: **Cold**, :damage-fire: **Fire**, :damage-lightning: **Lightning**, :damage-poison: **Poison**, :damage-thunder: **Thunder**.
+When you cast a spell that deals a type of damage from the following list, you can spend 1 Sorcery Point(s) to change that damage type to one of the other listed types: :dmg-acid:**Acid**, :dmg-cold: **Cold**, :dmg-fire: **Fire**, :dmg-lightning: **Lightning**, :dmg-poison: **Poison**, :dmg-thunder: **Thunder**.
 
 ### Twinned Spell
 

@@ -1,5 +1,5 @@
 ---
-icon: damage/necrotic
+icon: dmg/necrotic
 ---
 
 # Condition

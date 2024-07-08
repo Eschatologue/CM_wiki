@@ -1,5 +1,5 @@
 ---
-icon: material/roman-numeral-5
+icon: spell/level-5
 ---
 
 ### Animate Objects

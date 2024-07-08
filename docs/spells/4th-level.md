@@ -1,5 +1,5 @@
 ---
-icon: material/roman-numeral-4
+icon: spell/level-4
 ---
 
 ### Arcane Eye

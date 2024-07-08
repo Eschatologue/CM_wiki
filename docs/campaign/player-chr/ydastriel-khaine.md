@@ -93,7 +93,7 @@ Upon gaining this class feature, you gain additional Starry Forms tied to specif
 
     *A radiant halo manifests on your back while one of your eyes emits a dazzling amber light. Portions of your skin are adorned with steel, fortifying your resolve and strengthening your presence.*
     
-    **Immolation:** Your [Cosmic Flare] now deals :damage-fire: **Fire** damage and its damage die becomes a :die-d10: d10.
+    **Immolation:** Your [Cosmic Flare] now deals :dmg-fire: **Fire** damage and its damage die becomes a :die-d10: d10.
 
     **Aura of Tenacity:** If you aren't incapacitated, any ally who starts their turn within 5 feet of you gains Temporary Hit Points equal to your Druid level until the start of your next turn.
 
@@ -101,7 +101,7 @@ Upon gaining this class feature, you gain additional Starry Forms tied to specif
 
     *Shining armour of crimson plates form all over you, transforming you into the executor of justice. Those who obstruct Judgement shall be stricken down with impunity.*
 
-    **Smite of Conviction:** You gain the abilty to make melee spell attack with the range of 5 ft. with [Cosmic Flare]. Make separate Attack for each projectile, dealing :damage-radiant: **Radiant** damage equal to 1d10 + your Wisdom Modifier damage on hit. 
+    **Smite of Conviction:** You gain the abilty to make melee spell attack with the range of 5 ft. with [Cosmic Flare]. Make separate Attack for each projectile, dealing :dmg-radiant: **Radiant** damage equal to 1d10 + your Wisdom Modifier damage on hit. 
 
     **Leviathan Queller:** Armour constructed from cosmic energies materialise on you, enpowering you to mete out judgement upon the guilty. So long as you are not wearing medium or heavy armour or wielding a shield, you have the following benefits:
 
@@ -113,9 +113,9 @@ Upon gaining this class feature, you gain additional Starry Forms tied to specif
 
     *Radiant laurel wreath materializes, hovering above your head, while your eyes shimmer with a vibrant yellow hue, signaling the unveiling of truth.*
 
-    **Signum Ignorantiae:** Your [Cosmic Flare] now deals :damage-psychic: **Psychic** damage and its damage die becomes a :die-d6: d6. On a hit, the creature is :material-crosshairs-gps: **Marked** by you.
+    **Signum Ignorantiae:** Your [Cosmic Flare] now deals :dmg-psychic: **Psychic** damage and its damage die becomes a :die-d6: d6. On a hit, the creature is :material-crosshairs-gps: **Marked** by you.
 
-    **Bastio Veritatis:** When a :material-crosshairs-gps: **Marked** creature that you can see is hit by an attack from your ally, you can use your :rsc-reaction: **Reaction** to cast *Guiding Bolt* against it. When you do, add your spellcasting modifier to the spells damage roll and its damage type becomes :damage-psychic: **Psychic** damage.
+    **Bastio Veritatis:** When a :material-crosshairs-gps: **Marked** creature that you can see is hit by an attack from your ally, you can use your :rsc-reaction: **Reaction** to cast *Guiding Bolt* against it. When you do, add your spellcasting modifier to the spells damage roll and its damage type becomes :dmg-psychic: **Psychic** damage.
 
 === "**[Locked] Prosperity**"
 

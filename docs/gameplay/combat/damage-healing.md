@@ -64,25 +64,25 @@ Immunity to a damage type means that the creature takes no damage from that type
 
 |symbol|physical damage|description|
 |:-:|:--|:--|
-|:damage-bludgeoning:{ .xxl }| **Bludgeoning** | Damage from blunt force, such as from clubs, hammers, or falling. This type of damage crushes bones and armour. |
-|:damage-piercing:{ .xxl }| **Piercing**| Damage from pointed weapons, such as arrows, spears, or teeth. This type of damage punctures and penetrates flesh and armour. |
-|:damage-slashing:{ .xxl }|**Slashing**| Damage from edged weapons, such as swords, axes, or claws. This type of damage cuts and slices through flesh and armour. |
+|:dmg-bludgeoning:{ .xxl }| **Bludgeoning** | Damage from blunt force, such as from clubs, hammers, or falling. This type of damage crushes bones and armour. |
+|:dmg-piercing:{ .xxl }| **Piercing**| Damage from pointed weapons, such as arrows, spears, or teeth. This type of damage punctures and penetrates flesh and armour. |
+|:dmg-slashing:{ .xxl }|**Slashing**| Damage from edged weapons, such as swords, axes, or claws. This type of damage cuts and slices through flesh and armour. |
 
 |symbol|elemental damage|description|
 |:-:|:--|:--|
-|:damage-acid:{ .xxl }| **Acid**| Damage from corrosive substances that can eat through materials and flesh. Acid damage can dissolve objects and inflict severe burns. |
-|:damage-cold:{ .xxl }| **Cold**| Damage from extreme cold, such as ice and freezing temperatures. Cold damage can freeze enemies, slow movements, and cause frostbite. |
-|:damage-fire:{ .xxl }| **Fire**| Damage from flames and intense heat. Fire damage can ignite objects, cause burns, and spread rapidly. |
-|:damage-lightning:{ .xxl }| **Lightning**| Damage from electrical energy, such as a lightning bolt. Lightning damage can shock, paralyze, and cause severe burns. |
-|:damage-poison:{ .xxl }| **Poison** | Damage from toxic substances, which can also inflict various conditions. Poison damage can cause illness, weakness, and death over time. |
-|:damage-thunder:{ .xxl }| **Thunder** | Damage from sonic energy, often causing concussive force. Thunder damage can deafen, knock back, and crush enemies. |
+|:dmg-acid:{ .xxl }| **Acid**| Damage from corrosive substances that can eat through materials and flesh. Acid damage can dissolve objects and inflict severe burns. |
+|:dmg-cold:{ .xxl }| **Cold**| Damage from extreme cold, such as ice and freezing temperatures. Cold damage can freeze enemies, slow movements, and cause frostbite. |
+|:dmg-fire:{ .xxl }| **Fire**| Damage from flames and intense heat. Fire damage can ignite objects, cause burns, and spread rapidly. |
+|:dmg-lightning:{ .xxl }| **Lightning**| Damage from electrical energy, such as a lightning bolt. Lightning damage can shock, paralyze, and cause severe burns. |
+|:dmg-poison:{ .xxl }| **Poison** | Damage from toxic substances, which can also inflict various conditions. Poison damage can cause illness, weakness, and death over time. |
+|:dmg-thunder:{ .xxl }| **Thunder** | Damage from sonic energy, often causing concussive force. Thunder damage can deafen, knock back, and crush enemies. |
 
 |symbol|magica/other damage|description|
 |:-:|:--|:--|
-|:damage-force:{ .xxl }| **Force** | Damage from pure magical energy. Force damage is highly effective against all targets and bypasses many defenses. |
-|:damage-necrotic:{ .xxl }| **Necrotic** | Damage from deathly energy, draining life force. Necrotic damage can wither flesh, drain vitality, and is particularly effective against living creatures. |
-|:damage-psychic:{ .xxl }| **Psychic** | Damage from mental energy, affecting the mind. Psychic damage can cause confusion, insanity, and severe mental trauma. |
-|:damage-radiant:{ .xxl }| **Radiant** | Damage from intense, often holy or celestial, energy that can come from divine sources or powerful light-based effects. Radiant damage can purify and is particularly effective against undead and fiends. |
+|:dmg-force:{ .xxl }| **Force** | Damage from pure magical energy. Force damage is highly effective against all targets and bypasses many defenses. |
+|:dmg-necrotic:{ .xxl }| **Necrotic** | Damage from deathly energy, draining life force. Necrotic damage can wither flesh, drain vitality, and is particularly effective against living creatures. |
+|:dmg-psychic:{ .xxl }| **Psychic** | Damage from mental energy, affecting the mind. Psychic damage can cause confusion, insanity, and severe mental trauma. |
+|:dmg-radiant:{ .xxl }| **Radiant** | Damage from intense, often holy or celestial, energy that can come from divine sources or powerful light-based effects. Radiant damage can purify and is particularly effective against undead and fiends. |
 
 
 ## Healing

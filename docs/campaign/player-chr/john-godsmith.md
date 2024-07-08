@@ -22,7 +22,7 @@ When you use your :fontawesome-solid-hand-fist:**Rage**, instead of flying into 
 
 You have the ability to channel the lethal repercussion of speaking Celestial to your advantage, allowing you to use the curse put on by the heavens to smite your foes!
 
-Whenever you activate your :fontawesome-solid-hand-fist:**Rage**, or once as a :rsc-bonus-action: **Bonus Action** while **raging** you can roll a :die-d12:d12, expending Hit Points equal to the result and enhance your attacks with Primordial Flare for the **Rage** duration. Whenever you hit a creature with a weapon attack that benefits from your :fontawesome-solid-hand-fist:**Rage** damage, it deals extra :material-fire:**Fire** damage equal to :die-d8:1d8 + your Constitution Modifier.
+Whenever you activate your :fontawesome-solid-hand-fist:**Rage**, or once as a :rsc-bonus-action: **Bonus Action** while **raging** you can roll a :die-d12:d12, expending Hit Points equal to the result and enhance your attacks with Primordial Flare for the **Rage** duration. Whenever you hit a creature with a weapon attack that benefits from your :fontawesome-solid-hand-fist:**Rage** damage, it deals extra :material-fire: **Fire** damage equal to :die-d8:1d8 + your Constitution Modifier.
 
 ## Improved Totemic Spirit <span style="float:right;"> <small> Level 3 </small> </span>
 
@@ -107,9 +107,9 @@ You gain the aspect of Antares’ primordial Paths, you can either choose from t
 
 ## John's Signatures <span style="float:right;"> <small> Level 9 </small> </span>
 
-When you use Reckless Attack while ^^Primordial Conflagaration^^ is active, you can forgo the :d20-adv: **Advantage** on the next :d20-attack: **Attack Roll** you make on your turn using Strength. If the attack hits, the target takes additional :damage-fire: 1d8 **Fire** damage and you can cause an additional effect of your choice. 
+When you use Reckless Attack while ^^Primordial Conflagaration^^ is active, you can forgo the :d20-adv: **Advantage** on the next :d20-attack: **Attack Roll** you make on your turn using Strength. If the attack hits, the target takes additional :dmg-fire: 1d8 **Fire** damage and you can cause an additional effect of your choice. 
 
-When an effect requires the target to make a :d20-save:**Saving Throw**, the DC is calculated as follow:
+When an effect requires the target to make a :d20-save: **Saving Throw**, the DC is calculated as follow:
 
 :   :d20-save: **Saving Throw:** 8 + Strength Modifier + Proficiency Bonus
 

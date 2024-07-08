@@ -1,5 +1,5 @@
 ---
-icon: material/roman-numeral-3
+icon: spell/level-3
 ---
 
 ### Animate Dead

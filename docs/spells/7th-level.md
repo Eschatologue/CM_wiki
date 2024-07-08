@@ -1,5 +1,5 @@
 ---
-icon: material/roman-numeral-7
+icon: spell/level-7
 ---
 
 ### Conjure Celestial

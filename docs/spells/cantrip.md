@@ -1,5 +1,5 @@
 ---
-icon: material/numeric-0
+icon: spell/level-0
 ---
 
 ### Acid Splash
