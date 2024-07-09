@@ -110,6 +110,20 @@ You have trained to master the use of armour.
 
     You gain Proficiency with light armour. If you are already proficient with light armour when you select this talent, you gain Proficiency with medium armour and shields. 
 
+### Artifice Adept
+*1st-level Feat*
+
+**Prerequisites:** Expert or Mage Group.  
+**Repeatable:** Yes, choose a different Infusion each time.
+
+You have studied how to perform minor augmentation to your equipment.
+
+- **Infusions**
+
+    You learn one Artificer Infusion option of your choice from the Artificer class that does not have a level prerequisite.
+    
+    Whenever you gain a level, you can replace the Infusion with another one from the Artificer class.
+
 ### Artificer Initiate
 
 *1st-level Feat*
@@ -127,9 +141,9 @@ You've learned some of an artificer's inventiveness.
 
     Intelligence is your spellcasting ability for these spells. 
 
-- **Attifice Magic** 
+- **Artifice Magic** 
 
-    You gain Proficiency with one type of artisan's tools of your choice, and you can use that type of tool as a spellcasting focus for any spell you cast that uses Intelligence as its spellcasting ability.
+    You gain Proficiency with one type of Artisan's Tools of your choice, and you can use that type of tool as a spellcasting focus for any spell you cast that uses Intelligence as its spellcasting ability.
 
 ### Athlete
 
@@ -148,7 +162,7 @@ You've learned some of an artificer's inventiveness.
 
 - **Hop Up** 
 
-    When you are Prone, you can right yourself with only 5 feet of movement.
+    When you have the Prone condition, you can end it with only 5 feet of movement.
 
 ### Brew Master
 
@@ -157,7 +171,7 @@ You've learned some of an artificer's inventiveness.
 **Prerequisites:** None  
 **Repeatable:** No
 
-The bar is your home, the countertop is your canvas, cocktails are your art
+The bar is your home, the countertop is your canvas, cocktails are your art.
 
 - **Barkeep**
     
@@ -169,7 +183,7 @@ The bar is your home, the countertop is your canvas, cocktails are your art
     
 - **Mixologist**
     
-    You can customize your alcoholic beverages in such a way that they impose :d20-adv: **Advantage** or :d20-disadv: **Disdvantage** (your choice) on Saving Throws against their effects.
+    You can customize your alcoholic beverages in such a way that they impose :d20-adv: **Advantage** or :d20-disadv: **Disadvantage** (your choice) on Saving Throws against their effects.
     
 - **Lite Chemist**
     
@@ -194,7 +208,7 @@ You pride yourself on your quickness and your close study of certain clandestine
     
 - **Rougish Initiate**
     
-    Choose one of the following actions: Dash, Disengage, Hide or Use an Object. You can use the chosen action as a :rsc-bonus-action: **Bonus Action** on each of your turns.
+    Choose one of the following actions: Dash, Disengage, Hide or Use an Object. You can use the chosen action as a :rsc-bonus-action: **Bonus Action**.
 
 ### Carpenter
 
@@ -269,15 +283,13 @@ You are adept at crafting things and bargaining with merchants, granting you the
 
 You have studied occult lore and perhaps, forbidden knowledge.
 
-Your spellcasting ability for the invocation is Intelligence, Wisdom, or Charisma (choose when you select this feat).
-
 - **Occultist**
 
-    You learn one Eldritch Invocation option of your choice from the warlock class.  
+    You learn one Eldritch Invocation option of your choice from the Warlock class.  
 
-    If the invocation has a prerequisite of any kind, you can choose that invocation only if you’re a warlock who meets the prerequisite. 
+    If the invocation has a prerequisite of any kind, you can choose that invocation only if you’re a Warlock who meets the prerequisite. 
     
-    Whenever you gain a level, you can replace the invocation with another one from the warlock class.
+    Whenever you gain a level, you can replace the invocation with another one from the Warlock class.
 
 ### Gambler
 *1st-level Feat*
@@ -353,7 +365,7 @@ Your study of history rewards you with the following benefits:
     
 - **An Example for Every Situation**
     
-    When you take the Help action to aid another creature’s ability check, you can make a DC 15 Intelligence (History) check. On a success, that creature’s check gains a bonus equal to your Proficiency Bonus, as you share pertinent advice and historical examples. To receive this bonus, the creature must be able to understand what you’re saying.
+    When you take the Help action to aid another creature’s :d20-check: **Ability Check**, you can make a DC 15 Intelligence (History) check. On a success, that creature’s check gains a bonus equal to your Proficiency Bonus, as you share pertinent advice and historical examples. To receive this bonus, the creature must be able to understand what you’re saying.
 
 ### Linguist
 *1st-level Feat*
@@ -391,9 +403,9 @@ You have inexplicable luck that can kick in at just the right moment, granting y
     
     Immediately after you roll a d20, you can spend 1 Luck Point to give yourself Advantage on the roll.
     
-- **:d20-disadv: **Disdvantage****
+- **:d20-disadv: **Disadvantage****
     
-    When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to impose :d20-disadv: **Disdvantage** on that roll.
+    When a creature rolls a d20 for an :d20-attack: **Attack Roll** against you, you can spend 1 Luck Point to impose :d20-disadv: **Disadvantage** on that roll.
 
 ### Magic Initiate
 *1st-level Feat*
@@ -401,7 +413,7 @@ You have inexplicable luck that can kick in at just the right moment, granting y
 **Prerequisites:** None  
 **Repeatable:** Yes
 
-You must choose a different Spell list each time you pick this feat. Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. 
+You must choose a different Spell list each time you pick this feat. Choose a class: bard, cleric, druid, sorcerer, Warlock, or wizard. 
 
 - **Two Cantrips**
     
@@ -433,7 +445,7 @@ You have spent time at sea and learned to use the tools of a mariner in combat. 
     
 - **Combat Net**
     
-    When you make a ranged attack with a net, you do not have :d20-disadv: **Disdvantage** due to being within 5 feet of hostile creatures.
+    When you make a ranged attack with a net, you do not have :d20-disadv: **Disadvantage** due to being within 5 feet of hostile creatures.
     
 - **Trident Master**
     
@@ -453,15 +465,15 @@ You are an expert at hitting your mark with ranged weapons, gaining the followin
 
 - **Prone Crawl**
     
-    Being prone doesn’t impose :d20-disadv: **Disdvantage** on your ranged weapon attacks.
+    Being prone doesn’t impose :d20-disadv: **Disadvantage** on your ranged weapon attacks.
     
 - **Sniper**
     
-    Attacking a prone target doesn’t impose :d20-disadv: **Disdvantage** on your ranged weapon attack rolls if the target is within your weapon’s normal range.
+    Attacking a prone target doesn’t impose :d20-disadv: **Disadvantage** on your ranged weapon :d20-attack: **Attack Roll**s if the target is within your weapon’s normal range.
     
 - **Steady Aim**
     
-    If you haven’t moved since the start of your turn, you can use a :rsc-bonus-action: **Bonus Action** to steady your aim. Until the end of your next turn, you have :d20-adv: **Advantage** on the next ranged weapon attack roll you make. This effect ends early if you move or take damage.
+    If you haven’t moved since the start of your turn, you can use a :rsc-bonus-action: **Bonus Action** to steady your aim. Until the end of your next turn, you have :d20-adv: **Advantage** on the next ranged weapon :d20-attack: **Attack Roll** you make. This effect ends early if you move or take damage.
 
 ### Martial Adept
 *1st-level Feat*
@@ -576,11 +588,11 @@ You are trained in the military methods and use of slings in combat. You gain th
     
 - **Pea-shots**
     
-    Once per turn when you make a ranged weapon attack without :d20-disadv: **Disdvantage** using a sling, you can make an additional ranged weapon attack with a sling against a different creature.
+    Once per turn when you make a ranged weapon attack without :d20-disadv: **Disadvantage** using a sling, you can make an additional ranged weapon attack with a sling against a different creature.
     
 - **Pea-critical**
     
-    The first time you score a Critical Hit with a sling against a creature on a turn, that creature has :d20-disadv: **Disdvantage** on attack rolls and ability checks until the start of your next turn.
+    The first time you score a Critical Hit with a sling against a creature on a turn, that creature has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Roll**s and :d20-check: **Ability Check**s until the start of your next turn.
 
 ### Spear Specialist
 
@@ -601,7 +613,7 @@ You have trained to become a deadly warrior with pole weapons, capable of making
     
 - **Spear Master**
     
-    You can make a ranged attack with a javelin or spear up to its long range without :d20-disadv: **Disdvantage**, even underwater.
+    You can make a ranged attack with a javelin or spear up to its long range without :d20-disadv: **Disadvantage**, even underwater.
 
 ### Spell and Blades^HB^
 
@@ -708,6 +720,7 @@ You’ve honed your ability to lob weaponry into the fray, including weapons not
     When you miss with a :weapon-prop-thrown: **Thrown** weapon attack using a :weapon-prop-light: **Light** weapon, the weapon immediately flies back into your grasp.
 
 ### Titan Hunter
+
 *1st-level Feat*
 
 **Prerequisites:** Expert or Warrior Group  
@@ -724,6 +737,7 @@ You can spot the weaknesses in a foe’s defenses. You gain the following benefi
     The number you need to roll for Critical Hit on the attack against large creature with an :d20-adv: **Advantage** granted by this feat is reduced by 3. This effect can stack.
 
 ### Tough
+
 *1st-level Feat*
 
 **Prerequisites:** None  
@@ -736,6 +750,7 @@ You are more resilient than others.
     Your Hit Point Maximum increases by an amount equal to twice your character level when you gain this Feat. Whenever you gain a level thereafter, your Hit Point Maximum increases by an additional 2 Hit Points.
 
 ### Whip Master
+
 *1st-level Feat*
 
 **Prerequisites:** None  

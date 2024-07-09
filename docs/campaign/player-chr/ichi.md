@@ -1,6 +1,8 @@
 ---
 search:
   exclude: true
+hide:
+  - toc
 ---
 
 ## Flow State <span style="float:right;"> <small> Level 3 </small> </span>

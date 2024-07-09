@@ -74,7 +74,7 @@ Activities below takes an :rsc-action: **Action**, these are also considered *co
 
     Make a Stealth check to hide, contested against enemies' Passive Perception.
 
-- :action-ready:{ .lg .middle } **Hide**  
+- :action-ready:{ .lg .middle } **Ready**  
 
     Choose a **common action** and a trigger. If the trigger occurs, take your **common actions** as :rsc-reaction: **Reaction**
 

@@ -12,7 +12,7 @@ nav:
     - The Warp:
       - lore/warp/index.md
       - Warp Storm: lore/warp/warp-storm.md
-      - Warp Entities: lore/warp/warp-entities.md
+      - Entities: lore/warp/warp-entities.md
     - Pantheon: lore/pantheon.md
     - The Celestial Language: lore/celestial.md
   - Gameplay:

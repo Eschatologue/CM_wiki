@@ -70,7 +70,7 @@ You have mastered the usage of heavy weapons, using their weight and size for ma
 
 - **Ringing Blows**
     
-    When you miss a melee attack with a :weapon-prop-heavy: *[heavy]* weapon, you can deal damage to that creature equal to your Ability Modifier used to make the attack roll. This damage can't be increased in any way, other than increasing the Ability Modifier.
+    When you miss a melee attack with a :weapon-prop-heavy: *[heavy]* weapon, you can deal damage to that creature equal to your Ability Modifier used to make the :d20-attack: **Attack Roll**. This damage can't be increased in any way, other than increasing the Ability Modifier.
 
 - **Excessive Force**
     
@@ -121,7 +121,7 @@ After fine tuning your equipment, you can do things others can’t with shields.
     
 - **Interpose**
     
-    You can use a :rsc-bonus-action: **Bonus Action** to protect a creature within 5 feet of you. Until the start of your next turn, any attack roll made against that creature has :d20-disadv: **disadvantage** if you can see the attacker. This benefit ends early if you are incapacitated or your speed drops to 0.
+    You can use a :rsc-bonus-action: **Bonus Action** to protect a creature within 5 feet of you. Until the start of your next turn, any :d20-attack: **Attack Roll** made against that creature has :d20-disadv: **disadvantage** if you can see the attacker. This benefit ends early if you are incapacitated or your speed drops to 0.
 
 ### Spell Driver
 *8th-level Feat*

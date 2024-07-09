@@ -1,5 +1,7 @@
 ---
 icon: material/fire
+hide:
+  - toc
 ---
 
 > *You stand as the last remnant of a lineage that has long  perished—a relic from an old world, the descendants of those erased from history. As this world approaches its end, your story is just beginning. Questions beg answers, and loose ends yearn to be tied. Your name, your family, and your tribe all converge at a singular point in history—a history the Spires played a part in erasing. What secrets lie beyond the stars? What mysteries rest beneath this continent? And what awaits at the journey's end?*

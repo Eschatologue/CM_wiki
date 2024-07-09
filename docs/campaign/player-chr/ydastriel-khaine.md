@@ -1,5 +1,7 @@
 ---
 icon: material/star-four-points
+hide:
+  - toc
 ---
 
 > *"Ambitious, arrogant, and seemingly all-knowing, much like the number zero. It's the void from which all other thing begin.”*

@@ -32,7 +32,7 @@ When you make extra attacks of the :weapon-prop-automatic: **[Automatic]** weapo
 **Prerequisites:** Warrior Group, *Fighting Style* Feature, or [Fighting Initiate] feat  
 **Repeatable:** No
 
-While wielding a *finesse* weapon and no other weapon, you gain a +2 bonus to your :d20-attack:**Attack Roll**s and an +1 to your Armour Class so long you are not wearing Heavy Armour or wielding Shields
+While wielding a :weapon-prop-finesse: **Finesse** weapon and no other weapon, you gain a +2 bonus to your :d20-attack:**Attack Roll**s and an +1 to your Armour Class so long you are not wearing Heavy Armour or wielding Shields
 
 ### Fighting Style: Defense
 *1st-level Feat*
@@ -166,4 +166,4 @@ While wielding a single :weapon-prop-versatile: **[Versatile]** weapon and no sh
 
 [Fighting Initiate]: feat-4th-level.md#fighting-intiate
 
-**[cold weapon]: ../../equipment/weapon/weapon-cold.md#cold-weapon-table "Non-firearms weapon, such as longswords, daggers, or crossbows."
+*[cold weapon]: ../../equipment/weapon/weapon-cold.md#cold-weapon-table "Non-firearms weapon, such as longswords, daggers, or crossbows."

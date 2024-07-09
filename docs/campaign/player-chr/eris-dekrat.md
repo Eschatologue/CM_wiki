@@ -1,8 +1,17 @@
 ---
 icon: dnd/stat-spellcasting
+hide:
+  - toc
 ---
 
 >*"A man born into nobility, with a legacy of great achievements, yet devoid of the qualifications, for he carries the weight of his lineage.”*
+
+| rogue level | gimmick feature |
+|:-:|:-:|
+| 1st | [Bonus Proficiencies](#bonus-proficiencies---level-1), [Clairvoyance](#clairvoyance---level-1) |
+| 3rd | [Spellcasting](#spellcasting---level-3), [Dekrat Special](#dekrats-special---level-3), [Spellbreaker's Mark](#spellbreakers-mark---level-3) |
+| 4th | [The People's Eyebrow](#the-peoples-eyebrow---level-4) |
+| 7th | [Resurgence](#resurgence---level-7) |
 
 # Sorcerous Origin: Spellbreaker
 
@@ -38,7 +47,7 @@ The weave of magic courses through you, yet you've never bothered to learn how t
 
 ##### Spellcasting Table
 
-| ROGUE LEVEL | CANTRIPS KNOWN | SPELLS KNOWN | SPELL SLOTS | SLOT LEVEL |
+| rogue level | cantrips known | spells known | spell slots | slot level |
 | :-: | :-: |  :-: | :-: |:-: |
 | 3rd | 3 | 3 | 3 | I |
 | 4th | 3 | 3 | 3 | I |
@@ -73,7 +82,7 @@ You brandish your weapon when you cast spells; any melee weapon that has the :we
 
 ### Spellcasting Ability
 
-Charisma is your spellcasting ability for your spells, since your magic is innate. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the Saving Throw DC for a spell you cast and when making an attack roll with one.
+**Charisma** is your spellcasting ability for your spells, since your magic is innate. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the Saving Throw DC for a spell you cast and when making an attack roll with one.
 
 - :d20-save: **Spell Save DC** = 8 + your Proficiency Bonus + your Charisma modifier.
 - :d20-attack: **Spell Attack Modifier** = your Proficiency Bonus + your Charisma modifier.

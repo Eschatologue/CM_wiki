@@ -2,6 +2,7 @@
 icon: material/cards-playing-spade-multiple
 ---
 ### Ability Scores Improvement
+
 *4th-level Feat*
 
 **Prerequisites:** None  
@@ -12,6 +13,7 @@ icon: material/cards-playing-spade-multiple
     You increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. You can't increase an ability score above 20 using this feat. When you reach 18th character level, that maximum increases to 22.
 
 ### Arcane Charger
+
 *4th-level Feat*
 
 **Prerequisites:** The ability to cast a spell  
@@ -36,6 +38,7 @@ You've learned how the how to weave magic and mobility
     You can use this benefit only once on each of your turns.
 
 ### Battlecaster
+
 *4th-level Feat*
 
 **Prerequisites:** The ability to cast a spell  
@@ -56,6 +59,7 @@ You are skilled at casting spells with a weapon in hand.
     When wielding a magical weapon that you’re proficient with and that provides a bonus to hit and damage, you can also add that weapon’s bonus to damage rolls for spells you cast.
 
 ### Cartomancy
+
 *4th-level Feat*
 
 **Prerequisites:** The ability to cast a spell  
@@ -82,6 +86,7 @@ You have learned to channel your magic through a deck of cards.
     While the card is imbued with the spell, you can use a :rsc-bonus-action: **Bonus Action** to flourish the card and cast the spell within. The card then immediately loses its magic.
     
 ### Crossbow Expert
+
 *4th-level Feat*
 
 **Prerequisites:** Crossbows Proficiency  
@@ -106,6 +111,7 @@ Thanks to extensive practice with the crossbow, you gain the following benefits:
     When you make the extra attack of the Light weapon property, you can add your Ability Modifier to the damage of the extra attack if that attack is with a crossbow that has the Light property.
     
 ### Defensive Duelist
+
 *4th-level Feat*
 
 **Prerequisites:** Dexterity 13+  
@@ -122,6 +128,7 @@ You’ve learned to deftly parry attacks, granting you the following benefits:
     If you are holding a Finesse Weapon and another creature hits you with a Melee Attack, you can use your :rsc-reaction: **Reaction** to add your Proficiency Bonus to your Armour Class for that attack, potentially causing the attack to miss you.
 
 ### Dual Wielder
+
 *4th-level Feat*
 
 **Prerequisites:** Proficiency with any Martial weapon  
@@ -142,6 +149,7 @@ You master the ability to use two weapons at the same time You gain the followin
     You can draw or stow two Weapons that lack the :weapon-prop-two-handed: *Two-Handed* property when you would normally be able to draw or stow only one.
 
 ### Durable
+
 *4th-level Feat*
 
 **Prerequisites:** Constitution 13+  
@@ -166,6 +174,7 @@ Hardy and resilient, you gain the following benefits:
     When you would roll Hit Dice on a Short Rest to regain Hit Points, you instead forego the rolls to regain the maximum amount of health from the Hit Die.
 
 ### Eldritch Lifeline
+
 *4th-level Feat*
 
 **Prerequisites:** Spellcasting/Pact Magic feature; Mage Group  
@@ -186,6 +195,7 @@ You’ve learned to cannibalize the power of your spells to reinvigorate your al
     If you target one or more allies with a spell that allows them to regain Hit Points or with Weave to Life, those allies are immune to being frightened for a number of rounds equal to the level of the healing spell. In addition, one ally who healed Hit Points (your choice) gains inspiration. You must complete a short or long rest before you can grant inspiration again.
 
 ### Elemental Adept
+
 *4th-level Feat*
 
 **Prerequisites:** Spellcasting/Pact Magic feature  
@@ -202,6 +212,7 @@ In your spellcasting, you can harness a particular form of energy with deadly ma
     Choose one of the following Damage Types: Acid, Cold, Fire, Lightning, or Thunder. Spells you cast ignore Resistance to damage of the chosen type. In addition, when you roll damage for a Spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2. 
 
 ### Fey Touched
+
 *4th-level Feat*
 
 **Prerequisites:** The ability to cast a spell  
@@ -241,6 +252,7 @@ Your martial training has helped you develop a particular style of fighting.
     This feat lacks whatever prerequisites that the Feats from [Fighting Style Feats](feat-fighting-style.md) has.
 
 ### Flash Recall
+
 *4th-level Feat*
 
 **Prerequisites:** Spellcasting/Pact Magic feature  
@@ -259,6 +271,7 @@ You’ve developed the ability to instantly recall an unprepared spell in moment
     If you are multiclassed, you can only Flash Recall spells from a class that prepares spells. Once you use this ability, you must finish a short or long rest before you can use it again.
 
 ### Grappler
+
 *4th-level Feat*
 
 **Prerequisite:** Strength or Dexterity 13+  
@@ -283,9 +296,10 @@ You're an accomplished wrestler, granting you the following benefits:
     When you hit a creature with an Unarmed Strike as part of the Attack Action on your turn, you can deal damage to the target and also grapple it. You can use this benefit only once per turn.
 
 ### Great Weapon Master
-*4th-level Feat*
 
-**Prerequisite:** Warrior Group or Proficiency with at least one Martial Weapon with :weapon-prop-heavy: *[heavy]* property  
+*4th-level Feat - Homebrew*
+
+**Prerequisite:** Warrior Group or Proficiency with at least one Martial Weapon with :weapon-prop-heavy: **[Heavy]** property  
 **Repeatable:** No
 
 You’ve learned to use the weight of a weapon to your advantage, letting its momentum empower your strikes. You gain the following benefits:
@@ -296,20 +310,18 @@ You’ve learned to use the weight of a weapon to your advantage, letting its mo
     
 - **Momentum**
     
-    Immediately after you score a Critical Hit with a Melee Weapon with :weapon-prop-heavy: *[heavy]* or :weapon-prop-versatile: *[versatile]* property  or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a :rsc-bonus-action: **Bonus Action**.
-    
-
-Choose one of the following ability below, you can change it when you gain a level that grants Ability Score Improvement or a Feat choice.
+    Immediately after you score a Critical Hit with a Melee Weapon with :weapon-prop-heavy: ***[Heavy]** or :weapon-prop-versatile: **[Versatile]** property  or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a :rsc-bonus-action: **Bonus Action**.
 
 - **Heavy Impact**
     
-    Once per turn, when you hit a creature with a weapon with the :weapon-prop-heavy: *[heavy]* or :weapon-prop-versatile: *[versatile]* property, you can cause the weapon to deal extra damage to the target. The extra damage equals your Proficiency Bonus.
+    Once per turn, when you hit a creature with a weapon with the :weapon-prop-heavy: **[Heavy]** or :weapon-prop-versatile: **[Versatile]** property, you can cause the weapon to deal extra damage to the target. The extra damage equals your Proficiency Bonus. This extra damage is not added when you use **All In**.
     
 - **All In**
     
-    Before you make a melee attack with a :weapon-prop-heavy: *[heavy]* or :weapon-prop-versatile: *[versatile]* weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.
+    Before you make a melee attack with a :weapon-prop-heavy: **[Heavy]** or :weapon-prop-versatile: **[Versatile]** weapon, you can choose to make a special melee attack; You receive a -5 penalty to the :d20-attack: **Attack Roll**. If the attack hits, you add +10 to the attack's damage. This special melee attack can't be used with **Heavy Impact**.
 
 ### Gunner
+
 *4th-level Feat*
 
 **Prerequisite:** Dexterity 13+ or Proficieny with at least one firearm.  
@@ -323,13 +335,14 @@ You have a quick hand and keen eye when employing firearms, granting you the fol
     
 - **Dual Wielding**
     
-    When you make the extra attack of the :weapon-prop-light: *[Light]* weapon property, you can add your Ability Modifier to the damage of the extra attack if that attack is with a firearm that has the :weapon-prop-light: *[Light]* property.
+    When you make the extra attack of the :weapon-prop-light: **[Light]** weapon property, you can add your Ability Modifier to the damage of the extra attack if that attack is with a firearm that has the :weapon-prop-light: **[Light]** property.
     
 - **Quickshot**
     
     Immediately after initiative is rolled, you can use your :rsc-reaction: **Reaction** to make a single weapon attack with your firearm.
 
 ### Heavy Armour Master
+
 *4th-level Feat*
 
 **Prerequisite:** Strength 13+ or a Heavy armour Proficiency  
@@ -346,6 +359,7 @@ You can use your armour to deflect strikes that would kill others. You gain the 
     When you’re hit by an attack while you’re wearing Heavy Armour, any Bludgeoning, Piercing, or Slashing Damage dealt to you by that attack is reduced by an amount equal to your Proficiency Bonus.
 
 ### Inspiring Leader
+
 *4th-level Feat*
 
 **Prerequisite:** Wisdom or Charisma 13+  
@@ -362,6 +376,7 @@ You inspire your companions, shoring up their resolve to fight.
     At the end of a Short Rest or a Long Rest, you can give an inspiring performance; A speech, a song, or a dance. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who witness the performance. The chosen creatures each gain Temporary Hit Points equal to your level + the modifier of the ability score increased by this feat.
 
 ### Keen Mind
+
 *4th-level Feat*
 
 **Prerequisite:** Intelligence 13+  
@@ -392,6 +407,7 @@ You have trained to rapidly recall or discover vital details, granting you the f
 ~~KEEEEEEN MIIIIND~~
 
 ### Mage Slayer
+
 *4th-level Feat*
 
 **Prerequisite:** None  
@@ -416,6 +432,7 @@ You have practiced techniques useful in melee combat against spellcasters, gaini
     If you fail an Intelligence, a Wisdom, or a Charisma :d20-save: **Saving Throw**, you can cause yourself to succeed instead. Once you use this benefit, you can’t use it again until you finish a Long Rest.
 
 ### Master Blacksmith
+
 *4th-level Feat*
 
 **Prerequisite:** Stength or Wisdom 13+  
@@ -440,6 +457,7 @@ You are a master of the forge that can wield the right tools with ease. You gain
     Your smithing experience lets you identify weak points in a target’s armour. When you roll a 20 on a weapon attack against a target that is wearing armour, it suffers a -2 penalty to AC until the start of your next turn. This ability can’t reduce a creature’s AC multiple times simultaneously.
 
 ### Medic
+
 *4th-level Feat*
 
 **Prerequisite:** Wisdom 13+ or Wisdom (Medicine) Proficiency  
@@ -467,6 +485,7 @@ You master the physician’s arts, gaining the following benefits:
     During a short rest, you can clean and bind the wounds of injured creatures. You can forego rolling Hit Die to maximize the amount of healing for a number of Hit Dice equal to your Wisdom Modifier.
 
 ### Medium Armour Master
+
 *4th-level Feat*
 
 **Prerequisite:** Medium Armour Proficiency  
@@ -487,6 +506,7 @@ You have practiced moving in medium armour to gain the following benefits:
     Wearing medium armour doesn’t impose :d20-disadv: **Disdvantage** on your Dexterity (Stealth) checks.
 
 ### Menacing
+
 *4th-level Feat*
 
 **Prerequisite:** Charisma 13+ or Intimidation Proficiency  
@@ -507,6 +527,7 @@ You become fearsome to others, gaining the following benefits:
     When you take the Attack action on your turn, you can replace one attack with an attempt to demoralize one humanoid you can see within 30 feet of you that can see and hear you. Make a Charisma (Intimidation) check contested by the target’s Wisdom (Insight) check. If your check succeeds, the target is frightened until the end of your next turn. If your check fails, the target can’t be frightened by you in this way for 1 hour.
 
 ### Metamagic Novice
+
 *4th-level Feat*
 
 **Prerequisite:** Spellcasting/Pact Magic featur; Expert, Priest or Mage Group  
@@ -529,6 +550,7 @@ You’re experimenting how to exert your will on your spells to alter how they f
     You gain 2 sorcery points to spend on Metamagic (these points are added to any sorcery points you have from another source). You regain all spent sorcery points when you finish a long rest.
 
 ### Observant
+
 *4th-level Feat*
 
 **Prerequisite:** Intelligence or Wisdom 13+  
@@ -553,6 +575,7 @@ Quick to notice details of your environment, you gain the following benefits:
     You take no penalties to your perception while moving quickly or peering into dim light.
 
 ### Mounted Combatant
+
 *4th-Level Feat*
 
 **Prerequisite:** :material-lightbulb-on: Proficiency with Any Martial Weapon  
@@ -581,6 +604,7 @@ You have developed a bond with your mounts, granting you the following benefits:
     While mounted, you can use your :rsc-reaction: **Reaction** to force an attack that hits your mount to hit you instead.
 
 ### Piercer
+
 *4th-level Feat*
 
 **Prerequisite:** :material-lightbulb-on: Proficiency with any weapon that deals piercing damage.  
@@ -599,12 +623,13 @@ You have achieved a penetrating precision in combat, granting you the following 
 Once per turn, when you hit a creature with a Weapon that deals Piercing damage, you can do one of the following effect:
 
 - **Twist the Blade.** The target takes additional Piercing damage equals to your Proficiency Bonus.
-- **Gap the Wound.** The target has :d20-disadv: **Disdvantage** on all Constitution :d20-save: **Saving Throw**s until the start of your next turn.
+- **Gap the Wound.** The target has :d20-disadv: **Disdvantage** on Constitution :d20-save: **Saving Throw**s until the start of your next turn.
 
 ### Polearm Master
+
 *4th-level Feat*
 
-**Prerequisite:** :material-lightbulb-on: Proficiency with Martial Weapon that has *reach* property.  
+**Prerequisite:** :material-lightbulb-on: Proficiency with Martial Weapon that has :weapon-prop-reach: **Reach** property.  
 **Repeatable:** No
 
 Keeping foes just out of range is your specialty. You gain the following benefits:
@@ -624,6 +649,7 @@ Keeping foes just out of range is your specialty. You gain the following benefit
     While you are holding a Glaive, Halberd, Pike, Quarterstaff or Spear, you can use your :rsc-reaction: **Reaction** to make one Melee Attack against a creature that enters the Reach you have with that Weapon.
 
 ### Remarkable Recovery
+
 *4th-level Feat*
 
 **Prerequisite:** Constitution 13+  
@@ -644,6 +670,7 @@ Your body has the ability to recover quickly from terrible injuries, and is unus
     Whenever you regain Hit Points as a result of a spell, potion, or class feature (but not this feat), you regain additional Hit Points equal to your Constitution modifier (minimum of 1).
 
 ### Resilient
+
 *4th-level Feat*
 
 **Prerequisite:** Constitution 13+  
@@ -660,6 +687,7 @@ You have developed the resilience to better withstand certain dangers, granting 
     You gain :d20-save: **Saving Throw** Proficiency with the chosen ability.
 
 ### Ritual Caster
+
 *4th-level Feat*
 
 **Prerequisite:** Intelligence, Wisdom, or Charisma 13+  
@@ -680,6 +708,7 @@ You have studied ritual magic, granting you the following benefits:
     If you come across a spell in written form, you might be able to add it to your ritual book. The spell must be on the Spell List you chose, the Spell’s level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 500 sp per level.
 
 ### Sentinel
+
 *4th-level Feat*
 
 **Prerequisite:** Proficiency with any Martial Weapon  
@@ -693,13 +722,14 @@ You have mastered techniques to take :d20-adv: **Advantage** of every drop in an
     
 - **Guardian**
     
-    Creature within your melee weapon reach provokes :rsc-reaction:**Opportunity Attack** from you when it takes the Disengage action or make an attack against target other than you.
+    Creature within your melee weapon reach provokes :rsc-reaction: **Opportunity Attack** from you when it takes the Disengage action or make an attack against target other than you.
     
 - **Halt**
     
-    When you hit a creature with an :rsc-reaction:**Opportunity Attack**, the creature’s Speed becomes 0 for the rest of the turn.
+    When you hit a creature with an :rsc-reaction: **Opportunity Attack**, the creature’s Speed becomes 0 for the rest of the turn.
 
 ### Sharpshooter
+
 *4th-level Feat*
 
 **Prerequisite:** :material-lightbulb-on: Proficiency with any Martial Weapon  
@@ -719,8 +749,9 @@ You can make shots that others find impossible, granting you the following benef
     
     Being within 5 feet of an enemy and attacking at Long Range doesn’t impose :d20-disadv: **Disdvantage** on your ranged Attack Rolls with Weapons.
 
-### Shield Master^HB^
-*4th-level Feat*
+### Shield Master
+
+*4th-level Feat - Homebrew*
 
 **Prerequisite:** :material-lightbulb-on: Proficiency with shields.  
 **Repeatable:** No
@@ -745,6 +776,7 @@ You’ve trained to use shields not just for protection, but also for offense, g
     If you are subjected to an effect that allows you to make a Dexterity :d20-save: **Saving Throw** to take only half damage, you can use your :rsc-reaction: **Reaction** to take no damage if you succeed on the :d20-save: **Saving Throw** and are wielding a Shield, interposing your shield between yourself and the source of the effect.
 
 ### Skill Expert
+
 *4th-level Feat*
 
 **Prerequisite:** None  
@@ -765,6 +797,7 @@ You have honed your Proficiency with particular skills, granting you the followi
     Choose one skill in which you have Proficiency. You gain expertise with that skill, which means your Proficiency Bonus is doubled for any ability check you make with it. The skill you choose must be one that isn’t already benefiting from a feature, such as Expertise, that doubles your Proficiency Bonus.
 
 ### Skulker
+
 *4th-level Feat*
 
 **Prerequisite:** Dexterity 13+  
@@ -789,6 +822,7 @@ You are expert at slinking through shadows. You gain the following benefits:
     If you make an Attack Roll while Hidden and the roll misses, making the Attack Roll doesn’t end the Hidden Condition on you.
 
 ### Slasher
+
 *4th-level Feat*
 
 **Prerequisite:** :material-lightbulb-on: Proficiency with any Martial Weapon  
@@ -806,9 +840,10 @@ You’ve learned where to cut to have the greatest results, granting you the fol
     
 - **Bleed**
     
-    When you hit a creature with a weapon that deals slashing damage, that creature has :d20-disadv: **Disadvantage** on its next attack roll before the start of your next turn.
+    When you hit a creature with a weapon that deals slashing damage, that creature has :d20-disadv: **Disadvantage** on its next :d20-attack: **Attack Roll** before the start of your next turn.
 
 ### Speedster
+
 *4th-level Feat*
 
 **Prerequisite:** Dexterity or Constitution 13+  
@@ -829,6 +864,7 @@ You possess exceptional speed and stamina, granting you the following benefits:
     When you take the Dash Action (or as a :rsc-bonus-action: **Bonus Action**) on your turn, Difficult Terrain doesn’t cost you extra movement for the rest of that turn, and attacks of opportunity have :d20-disadv: **Disdvantage** against you.
 
 ### Spell Sniper
+
 *4th-level Feat*
 
 **Prerequisite:** The ability to cast a spell  
@@ -842,7 +878,7 @@ You have learned techniques to enhance your attacks with certain kinds of spells
     
 - **Attack Cantrip**
     
-    You learn one cantrip that requires an attack roll. Choose the cantrip from the bard, cleric, druid, sorcerer, warlock, or wizard spell list.
+    You learn one cantrip that requires an :d20-attack: **Attack Roll**. Choose the cantrip from the Bard, Cleric, druid, Druid, Warlock, or Wizard spell list.
     
     The spells' spellcasting ability is the ability increased by this feat.
     
@@ -855,6 +891,7 @@ You have learned techniques to enhance your attacks with certain kinds of spells
     When you cast make a ranged spell attack, the number you need to roll to score a Critical Hit is reduced by 1. This effect can Stack.
 
 ### Sword Dancing
+
 *4th-level Feat*
 
 **Prerequisite:** :material-lightbulb-on: Proficiency with any Martial Weapon  
@@ -872,13 +909,16 @@ One-handed weapons and blades are an extension of your arm, graceful as the wind
 
 - **Fleuret**
     
-    The first creature you hit on your turn has :d20-disadv: **Disdvantage** on attack roll against you until the start of your next turn.
+    The first creature you hit on your turn has :d20-disadv: **Disdvantage** on :d20-attack: **Attack Roll** against you until the start of your next turn.
 
 ### Telekinetic
+
 *4th-level Feat*
 
 **Prerequisite:** Intelligence, Wisdom, or Charisma 13+  
 **Repeatable:** No
+
+You awaken the ability to mentally connect with others, granting you the following benefits:
 
 - **Ability Score Increase**
     
@@ -892,32 +932,9 @@ One-handed weapons and blades are an extension of your arm, graceful as the wind
     
     As a :rsc-bonus-action: **Bonus Action**, you can try to telekinetically shove one creature you can see within 30 feet of you. When you do so, the target must succeed on a Strength :d20-save: **Saving Throw** (DC 8 + your Proficiency Bonus + the ability modifier of the score increased by this feat) or be moved 5 feet toward you or away from you. A creature can willingly fail this save.
 
-### Telekinetic
-*4th-level Feat*
+### Void Touched
 
-**Prerequisite:** Intelligence, Wisdom, or Charisma 13+  
-**Repeatable:** No
-
-You awaken the ability to mentally connect with others, granting you the following benefits:
-
-- **Ability Score Increase**
-    
-    You increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
-    
-- **Telepathy**
-    
-    You can speak telepathically to any creature you can see within 60 feet of you. Your telepathic utterances are in a language you know, and the creature understands you only if it knows that language. Your communication doesn’t give the creature the ability to respond to you telepathically.
-    
-- **Read Mind**
-    
-    You can cast the detect thoughts spell, requiring no :rsc-spell-slot: **Spell Slot** or components, and you must finish a long rest before you can cast it this way again. Your spellcasting ability for the spell is the ability increased by this feat. If you have :rsc-spell-slot: **Spell Slot**s of 2nd level or higher, you can cast this spell with them.
-    
-- **Deliver Message**
-    
-    You can cast the *sending* spell, requiring no :rsc-spell-slot: **Spell Slot** or components, and you must finish a long rest before you can cast it this way again. Your spellcasting ability for the spell is the ability increased by this feat. If you have :rsc-spell-slot: **Spell Slot**s of 3rd level or higher, you can cast this spell with them.
-
-### Void Touched^HB^
-*4th-level Feat*
+*4th-level Feat - Homebrew*
 
 **Prerequisite:** None  
 **Repeatable:** No
@@ -930,22 +947,23 @@ You have been touched by the Warp, giving you benefits as follow:
     
 - **Attunement of the Warp**
     
-    You have :d20-adv: **Advantage** on Dexterity (Stealth) check against Abberations.
+    Abberation-type creatures has :d20-disadv: **Disadvantage** on their Passive Perception to know your location.
     
 - **Bonus Cantrip**
     
-    You learn a cantrip of your choice from either the warlock spell list. Constitution is your spellcasting ability.
+    You learn a cantrip of your choice from either the Warlock spell list. Constitution is your spellcasting ability.
     
 - **1st-level spell**
     
-    You learn a 1st-level spell from either the warlock spell list. Once you cast it, you must finish a short or long rest before you can cast it again. Constitution is your spellcasting ability.
+    You learn a 1st-level spell from either the Warlock spell list. Once you cast it, you must finish a short or long rest before you can cast it again. Constitution is your spellcasting ability.
     
     - When you cast the 1st-level spell, you can expend one of your Hit Dice and roll it.
 
         - If you roll an even number, you gain a number of temporary Hit Points equal to the number rolled.
         - If you roll an odd number, one random creature within 30 feet of you (excluding you) takes force damage equal to the number rolled.
 
-### War Caster^HB^
+### War Caster
+
 *4th-level Feat*
 
 **Prerequisite:** Spellcasting/Pact Magic feature  
@@ -959,13 +977,14 @@ You have practiced casting spells in the midst of combat, learning techniques th
     
 - **Stoic**
     
-    You have :d20-adv: **Advantage** on Constitution :d20-save: **Saving Throw**s that you make to maintain your concentration on a spell when you take damage.
+    You have :d20-adv: **Advantage** on Concentration Check.
     
 - **Reactive Spell**
     
-    When a creature provokes an :rsc-reaction:**Opportunity Attack** from you by moving out of your Reach, you can use your :rsc-reaction: **Reaction** to cast a Spell at the creature, rather than making an Opportunity Attack. The Spell must have a casting time of one Action and must target only that creature.
+    When a creature provokes an :rsc-reaction: **Opportunity Attack** from you by moving out of your Reach, you can use your :rsc-reaction: **Reaction** to cast a Spell at the creature, rather than making an Opportunity Attack. The Spell must have a casting time of one Action and must target only that creature.
 
 ### Weapon Training
+
 *4th-level Feat*
 
 **Prerequisite:** None  
@@ -979,11 +998,7 @@ You have practiced extensively with a variety of weapons, gaining the following 
 
 - **Weapon Proficiency**
 
-    You gain Martial Weapon Proficiency(1).
-    { .annotate }
-
-    1. :material-lightbulb-on: **Martial Weapon Proficiency.** Gives you Proficiency on all Martial weapons. 
-
+    You gain Proficiency with all Martial Weapons. 
 
 [heavy]: ../../equipment/weapon/index.md#heavy
 [light]: ../../equipment/weapon/index.md#light

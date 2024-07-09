@@ -1,4 +1,4 @@
-# Warp Entities
+# Entities
 
 Warp Entities is a collective term for the various extradimensional beings that roam the wilderness of Antares, as well as those influenced by these entities. Commonly referred to as aberrations, demons, or wraiths, the specific names vary across different nations and languages.
 
@@ -28,3 +28,22 @@ While this list isn't exhaustive, observing two or more of these phenomena in cl
 
 Warp Entities prey upon anyone they encounter. Common methods include direct physical confrontation and supernatural tactics such as mind control and hallucinations. They cannot be reasoned with or controlled, hunting everything and everyone not connected to the Warp without any apparent benefit to themselves.
 
+## Classifications
+
+Warp Entities are classified into six different category, representing their threat level and the amount of corruption they cause. It's name is based on noble gases.
+
+### Helium [He]
+
+Helium [He] category is by far the weakest Warp Entities, they are abundant and can be found everywhere from the wilderness down to the most corrupted location. Though their threat can ramp up significantly due to their number. Entities such as Warp Centipedes and Husks belong in this category.
+
+### Neon [Ne]
+
+Neon [Ne] category entities can be found alongside Helium [He] category entities, they're stronger than the previous category and possess better intelligence and can be seen using very basic tactic against their prey instead of pure instinct, though they are some that only has pure strength. Entities such as Warptreaders, Blasters, and Lumberjacks belong in this category. 
+
+### Argon [Ar]
+
+Argon [Ar] category entities are usually entities belonging in Helium [He] or Neon [Ne] category that experiences mutations that increases their threat or Entities that is persumably much stronger than Neon [Ne] category. These entities are few in number but each of them requires fully-trained soldiers and well crafted strategy to engage and take down. For adventurers and raiders however, creature in this categories will fetch a good amount of Silvers if some sacrifices are willing to be made. 
+
+### Krypton [Kr]
+### Xenon [Xe]
+### Radon [Rn] 

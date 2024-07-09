@@ -4,7 +4,7 @@ icon: material/door-open
 
 !!! homebrew "This is a Homebrew Mechanic!"
 
-    You just stumbled into a Hombebrew mechanic! This game material made by me, adn is heavily inspired by Darkest Dungeon 1 and Darkest Dungeon 2.
+    You just stumbled into a Homebrew mechanic! This game material made by me, adn is heavily inspired by Darkest Dungeon 1 and Darkest Dungeon 2.
 
 # Resolve and Death's Door
 

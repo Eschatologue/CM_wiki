@@ -4,7 +4,7 @@ icon: material/view-grid-plus
 
 !!! homebrew "This is a Homebrew Mechanic!"
 
-    You just stumbled into a Hombbrew mechanic! This ruling is orginally designed by Tyler Legg & Jacob Vickers, and it is slightly modified to fit more into the Crown & Misery campaign.
+    You just stumbled into a Homebrew mechanic! This ruling is orginally designed by Tyler Legg & Jacob Vickers, and it is slightly modified to fit more into the Crown & Misery campaign.
 
     **Source:** [Dungeon Master's Guild](https://www.dmsguild.com/product/240175/Inventory-Slots--5e-Rule-Variant?src=newest_community&filters=45469_0_0_0_0_0_0_0) | [Reddit](https://www.reddit.com/r/DnDBehindTheScreen/comments/8dq0d3/inventory_slots_5e_inventoryencumbrance_variant/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
