@@ -6,7 +6,7 @@ In D&D, tools are specialized items that characters can use to perform specific 
 
 ## Tool Proficiencies
 
-Tool Proficiencies allow characters to add their Proficiency Bonus to ability checks related to using a specific set of tools. Proficiencies can be gained through character backgrounds, classes, or feats. When a character is proficient with a tool, they are more skilled and efficient in using it for its intended purpose.
+Tool Proficiencies allow characters to add their Proficiency Bonus to :d20-check: **Ability Checks** related to using a specific set of tools. Proficiencies can be gained through character backgrounds, classes, or feats. When a character is proficient with a tool, they are more skilled and efficient in using it for its intended purpose.
 
 ## Common Tools and Their Uses
 
@@ -56,18 +56,18 @@ Various instruments that can be played to entertain, inspire, or distract. Chara
 
 ## Using Tools
 
-When a character uses a tool, the DM may call for an ability check to determine the success of the action. The ability associated with the check depends on the specific task and tool being used. If a character has both the relevant skill Proficiency and the tool Proficiency, they can make the check with advantage. Here are some examples:
+When a character uses a tool, the DM may call for an :d20-check: **Ability Check** to determine the success of the action. The ability associated with the check depends on the specific task and tool being used. If a character has both the relevant skill Proficiency and the tool Proficiency, they can make the check with advantage. Here are some examples:
 
 - **Picking a Lock (Thieves' Tools)**  
-If you have Proficiency in both Sleight of Hand and thieves' tools, you have advantage on Dexterity checks to pick locks.
+If you have Proficiency in both Sleight of Hand and thieves' tools, you have :d20-adv: **Advantage** on Dexterity checks to pick locks.
 - **Stabilizing a Creature (Healer's Kit)**  
-If you have Proficiency in both Medicine and the healer's Kit, you have advantage on Wisdom (Medicine) checks to stabilize a dying creature.
+If you have Proficiency in both Medicine and the healer's Kit, you have :d20-adv: **Advantage** on Wisdom (Medicine) checks to stabilize a dying creature.
 - **Creating a Potion (Alchemist's Supplies)**  
-If you have Proficiency in both Arcana and alchemist's Supplies, you have advantage on Intelligence checks to create potions.
+If you have Proficiency in both Arcana and alchemist's Supplies, you have :d20-adv: **Advantage** on Intelligence checks to create potions.
 - **Repairing Armour (Smith's Tools)**  
-If you have Proficiency in both Athletics and smith's Tools, you have advantage on Strength checks to repair armour.
+If you have Proficiency in both Athletics and smith's Tools, you have :d20-adv: **Advantage** on Strength checks to repair armour.
 - **Performing Music (Musical Instrument)**  
-If you have Proficiency in both Performance and a musical instrument, you have advantage on Charisma (Performance) checks when playing the instrument.
+If you have Proficiency in both Performance and a musical instrument, you have :d20-adv: **Advantage** on Charisma (Performance) checks when playing the instrument.
 
 ### Benefits of Tool Proficiencies
 
@@ -82,7 +82,7 @@ Tools allow characters to perform tasks that might be impossible otherwise, such
 
 These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. 
 
-Proficiency with a set of artisan’s tools lets you add your Proficiency Bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate Proficiency.
+Proficiency with a set of artisan’s tools lets you add your Proficiency Bonus to any :d20-check: **Ability Checks** you make using the tools in your craft. Each type of artisan’s tools requires a separate Proficiency.
 
 ### Alchemist Supplies
 
@@ -229,7 +229,7 @@ Your knowledge of shoes aids you in identifying the magical properties of enchan
 Footwear holds a surprising number of secrets. You can learn where someone has recently visited by examining the wear and the dirt that has accumulated on their shoes. Your experience in repairing shoes makes it easier for you to identify where damage might come from.
 
 **Maintain Shoes**  
-As part of a long rest, you can repair your companions' shoes. For the next 24 hours, up to six creatures of your choice who wear shoes you worked on can travel up to 10 hours a day without making Saving Throws to avoid exhaustion.
+As part of a long rest, you can repair your companions' shoes. For the next 24 hours, up to six creatures of your choice who wear shoes you worked on can travel up to 10 hours a day without making :d20-save: **Saving Throws** to avoid exhaustion.
 
 **Craft Hidden Compartment**  
 With 8 hours of work, you can add a hidden compartment to a pair of shoes. The compartment can hold an object up to 3 inches long and 1 inch wide and deep. You make an Intelligence check using your tool Proficiency to determine the Intelligence (Investigation) check DC needed to find the compartment.

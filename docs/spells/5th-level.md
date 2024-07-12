@@ -3,7 +3,7 @@ icon: spell/level-5
 ---
 
 ### Animate Objects
-*5th-level transmutation*
+*5th-level Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 120 feet  
@@ -30,7 +30,7 @@ If you command an object to attack, it can make a single melee attack against a 
 ***At Higher Levels.*** If you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, you can animate two additional objects for each slot level above 5th.
 
 ### Antilife Shell
-*5th-level abjuration*
+*5th-level Abjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self (10-foot radius)  
@@ -44,7 +44,7 @@ The barrier prevents an affected creature from passing or reaching through. An a
 If you move so that an affected creature is forced to pass through the barrier, the spell ends.
 
 ### Awaken
-*5th-level transmutation*
+*5th-level Transmutation*
   
 **Casting Time:** 8 hours  
 **Range:** Touch  
@@ -56,7 +56,7 @@ After spending the casting time tracing magical pathways within a precious gemst
 The awakened beast or plant is charmed by you for 30 days or until you or your companions do anything harmful to it. When the charmed condition ends, the awakened creature chooses whether to remain friendly to you, based on how you treated it while it was charmed.
 
 ### Banishing Smite
-*5th-level abjuration*
+*5th-level Abjuration*
   
 **Casting Time:** :rsc-bonus-action: **Bonus Action**  
 **Range:** Self  
@@ -66,7 +66,7 @@ The awakened beast or plant is charmed by you for 30 days or until you or your c
 The next time you hit a creature with a weapon attack before this spell ends, your weapon crackles with force, and the attack deals an extra 5d10 force damage to the target. Additionally, if this attack reduces the target to 50 Hit Points or fewer, you banish it. If the target is native to a different plane of existence than the one you're on, the target disappears, returning to its home plane. If the target is native to the plane you're on, the creature vanishes into a harmless demiplane. While there, the target is incapacitated. It remains there until the spell ends, at which point the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
 
 ### Bigby's Hand
-*5th-level evocation*
+*5th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 120 feet  
@@ -81,26 +81,26 @@ When you cast the spell and as a :rsc-bonus-action: **Bonus Action** on your sub
 
 ***Clenched Fist.*** The hand strikes one creature or object within 5 feet of it. Make a melee spell attack for the hand using your game statistics. On a hit, the target takes 4d8 force damage.
 
-***Forceful Hand.*** The hand attempts to push a creature within 5 feet of it in a direction you choose. Make a check with the hand's Strength contested by the Strength (Athletics) check of the target. If the target is Medium or smaller, you have advantage on the check. If you succeed, the hand pushes the target up to 5 feet plus a number of feet equal to five times your spellcasting ability modifier. The hand moves with the target to remain within 5 feet of it.
+***Forceful Hand.*** The hand attempts to push a creature within 5 feet of it in a direction you choose. Make a check with the hand's Strength contested by the Strength (Athletics) check of the target. If the target is Medium or smaller, you have :d20-adv: **Advantage** on the check. If you succeed, the hand pushes the target up to 5 feet plus a number of feet equal to five times your spellcasting ability modifier. The hand moves with the target to remain within 5 feet of it.
 
-***Grasping Hand.*** The hand attempts to grapple a Huge or smaller creature within 5 feet of it. You use the hand's Strength score to resolve the grapple. If the target is Medium or smaller, you have advantage on the check. While the hand is grappling the target, you can use a :rsc-bonus-action: **Bonus Action** to have the hand crush it. When you do so, the target takes bludgeoning damage equal to 2d6 + your spellcasting ability modifier.
+***Grasping Hand.*** The hand attempts to grapple a Huge or smaller creature within 5 feet of it. You use the hand's Strength score to resolve the grapple. If the target is Medium or smaller, you have :d20-adv: **Advantage** on the check. While the hand is grappling the target, you can use a :rsc-bonus-action: **Bonus Action** to have the hand crush it. When you do so, the target takes bludgeoning damage equal to 2d6 + your spellcasting ability modifier.
 
 ***Interposing Hand.*** The hand interposes itself between you and a creature you choose until you give the hand a different command. The hand moves to stay between you and the target, providing you with half cover against the target. The target can't move through the hand's space if its Strength score is less than or equal to the hand's Strength score. If its Strength score is higher than the hand's Strength score, the target can move toward you through the hand's space, but that space is difficult terrain for the target.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, the damage from the clenched fist option increases by 2d8 and the damage from the grasping hand increases by 2d6 for each slot level above 5th.
 
 ### Circle of Power
-*5th-level abjuration*
+*5th-level Abjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self (30-foot radius)  
 **Components:** V  
 **Duration:** Concentration, up to 10 minutes
 
-Divine energy radiates from you, distorting and diffusing magical energy within 30 feet of you. Until the spell ends, the sphere moves with you, centered on you. For the duration, each friendly creature in the area (including you) has advantage on Saving Throws against spells and other magical effects. Additionally, when an affected creature succeeds on a Saving Throw made against a spell or magical effect that allows it to make a Saving Throw to take only half damage, it instead takes no damage if it succeeds on the Saving Throw.
+Divine energy radiates from you, distorting and diffusing magical energy within 30 feet of you. Until the spell ends, the sphere moves with you, centered on you. For the duration, each friendly creature in the area (including you) has :d20-adv: **Advantage** on :d20-save: **Saving Throws** against spells and other magical effects. Additionally, when an affected creature succeeds on a :d20-save: **Saving Throw** made against a spell or magical effect that allows it to make a :d20-save: **Saving Throw** to take only half damage, it instead takes no damage if it succeeds on the Saving Throw.
 
 ### Cloudkill
-*5th-level conjuration*
+*5th-level Conjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 120 feet  
@@ -116,7 +116,7 @@ The fog moves 10 feet away from you at the start of each of your turns, rolling 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
 
 ### Commune
-*5th-level divination (ritual)*
+*5th-level Divination (ritual)*
   
 **Casting Time:** 1 minute  
 **Range:** Self  
@@ -130,7 +130,7 @@ Divine beings aren't necessarily omniscient, so you might receive "unclear" as a
 If you cast the spell two or more times before finishing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get no answer. The DM makes this roll in secret.
 
 ### Commune with Nature
-*5th-level divination (ritual)*
+*5th-level Divination (ritual)*
   
 **Casting Time:** 1 minute  
 **Range:** Self  
@@ -150,7 +150,7 @@ buildings
 For example, you could determine the location of powerful undead in the area, the location of major sources of safe drinking water, and the location of any nearby towns.
 
 ### Cone of Cold
-*5th-level evocation*
+*5th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self (60-foot cone)  
@@ -164,7 +164,7 @@ A creature killed by this spell becomes a frozen statue until it thaws.
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
 
 ### Conjure Elemental
-*5th-level conjuration*
+*5th-level Conjuration*
   
 **Casting Time:** 1 minute  
 **Range:** 90 feet  
@@ -182,7 +182,7 @@ The DM has the elemental's statistics.
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, the challenge rating increases by 1 for each slot level above 5th.
 
 ### Conjure Volley
-*5th-level conjuration*
+*5th-level Conjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 150 feet  
@@ -192,7 +192,7 @@ The DM has the elemental's statistics.
 You fire a piece of nonmagical ammunition from a ranged weapon or throw a nonmagical weapon into the air and choose a point within range. Hundreds of duplicates of the ammunition or weapon fall in a volley from above and then disappear. Each creature in a 40-foot-radius, 20-foot-high cylinder centered on that point must make a Dexterity Saving Throw. A creature takes 8d8 damage on a failed save, or half as much damage on a successful one. The damage type is the same as that of the ammunition or weapon.
 
 ### Contact Other Plane
-*5th-level divination (ritual)*
+*5th-level Divination (ritual)*
   
 **Casting Time:** 1 minute  
 **Range:** Self  
@@ -204,7 +204,7 @@ You mentally contact a demigod, the spirit of a long-dead sage, or some other my
 On a successful save, you can ask the entity up to five questions. You must ask your questions before the spell ends. The DM answers each question with one word, such as "yes," "no," "maybe," "never," "irrelevant," or "unclear" (if the entity doesn't know the answer to the question). If a one-word answer would be misleading, the DM might instead offer a short phrase as an answer.
 
 ### Contagion
-*5th-level necromancy*
+*5th-level Necromancy*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Touch  
@@ -217,20 +217,20 @@ At the end of each of the poisoned target's turns, the target must make a Consti
 
 Since this spell induces a natural disease in its target, any effect that removes a disease or otherwise ameliorates a disease's effects apply to it.
 
-***Blinding Sickness.*** Pain grips the creature's mind, and its eyes turn milky white. The creature has disadvantage on Wisdom checks and Wisdom Saving Throws and is blinded.
+***Blinding Sickness.*** Pain grips the creature's mind, and its eyes turn milky white. The creature has :d20-disadv: **Disadvantage** on Wisdom checks and Wisdom :d20-save: **Saving Throws** and is blinded.
 
-***Filth Fever.*** A raging fever sweeps through the creature's body. The creature has disadvantage on Strength checks, Strength Saving Throws, and attack rolls that use Strength.
+***Filth Fever.*** A raging fever sweeps through the creature's body. The creature has :d20-disadv: **Disadvantage** on Strength checks, Strength Saving Throws, and :d20-attack: **Attack Rolls** that use Strength.
 
-***Flesh Rot.*** The creature's flesh decays. The creature has disadvantage on Charisma checks and vulnerability to all damage.
+***Flesh Rot.*** The creature's flesh decays. The creature has :d20-disadv: **Disadvantage** on Charisma checks and vulnerability to all damage.
 
-***Mindfire.*** The creature's mind becomes feverish. The creature has disadvantage on Intelligence checks and Intelligence Saving Throws, and the creature behaves as if under the effects of the *confusion* spell during combat.
+***Mindfire.*** The creature's mind becomes feverish. The creature has :d20-disadv: **Disadvantage** on Intelligence checks and Intelligence Saving Throws, and the creature behaves as if under the effects of the *confusion* spell during combat.
 
-***Seizure.*** The creature is overcome with shaking. The creature has disadvantage on Dexterity checks, Dexterity Saving Throws, and attack rolls that use Dexterity.
+***Seizure.*** The creature is overcome with shaking. The creature has :d20-disadv: **Disadvantage** on Dexterity checks, Dexterity Saving Throws, and :d20-attack: **Attack Rolls** that use Dexterity.
 
-***Slimy Doom.*** The creature begins to bleed uncontrollably. The creature has disadvantage on Constitution checks and Constitution Saving Throws. In addition, whenever the creature takes damage, it is stunned until the end of its next turn.
+***Slimy Doom.*** The creature begins to bleed uncontrollably. The creature has :d20-disadv: **Disadvantage** on Constitution checks and Constitution Saving Throws. In addition, whenever the creature takes damage, it is stunned until the end of its next turn.
 
 ### Control Winds
-*5th-level transmutation*
+*5th-level Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 300 feet  
@@ -239,14 +239,14 @@ Since this spell induces a natural disease in its target, any effect that remove
 
 You take control of the air in a 100-foot cube that you can see within range. Choose one of the following effects when you cast the spell. The effect lasts for the spell's duration, unless you use your :rsc-action: **Action** on a later turn to switch to a different effect. You can also use your :rsc-action: **Action** to temporarily halt the effect or to restart one you've halted.
 
-***Gusts.*** A wind picks up within the cube, continually blowing in a horizontal direction you designate. You choose the intensity of the wind: calm, moderate, or strong. If the wind is moderate or strong, ranged weapon attacks that pass through it or that are made against targets within the cube have disadvantage on their attack rolls. If the wind is strong, any creature moving against the wind must spend 1 extra foot of movement for each foot moved.
+***Gusts.*** A wind picks up within the cube, continually blowing in a horizontal direction you designate. You choose the intensity of the wind: calm, moderate, or strong. If the wind is moderate or strong, ranged weapon attacks that pass through it or that are made against targets within the cube have :d20-disadv: **Disadvantage** on their attack rolls. If the wind is strong, any creature moving against the wind must spend 1 extra foot of movement for each foot moved.
 
-***Downdraft.*** You cause a sustained blast of strong wind to blow downward from the top of the cube. Ranged weapon attacks that pass through the cube or that are made against targets within it have disadvantage on their attack rolls. A creature must make a Strength Saving Throw if it flies into the cube for the first time on a turn or starts its turn there flying. On a failed save, the creature is knocked prone.
+***Downdraft.*** You cause a sustained blast of strong wind to blow downward from the top of the cube. Ranged weapon attacks that pass through the cube or that are made against targets within it have :d20-disadv: **Disadvantage** on their attack rolls. A creature must make a Strength :d20-save: **Saving Throw** if it flies into the cube for the first time on a turn or starts its turn there flying. On a failed save, the creature is knocked prone.
 
 ***Updraft.*** You cause a sustained updraft within the cube, rising upward from the cube's bottom side. Creatures that end a fall within the cube take only half damage from the fall. When a creature in the cube makes a vertical jump, the creature can jump up to 10 feet higher than normal.
 
 ### Create Spelljamming Helm
-*5th-level transmutation*
+*5th-level Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Touch  
@@ -256,7 +256,7 @@ You take control of the air in a 100-foot cube that you can see within range. Ch
 Holding the rod used in the casting of the spell, you touch a Large or smaller chair that is unoccupied. The rod disappears, and the chair is transformed into a *spelljamming helm*.
 
 ### Creation
-*5th-level illusion*
+*5th-level Illusion*
   
 **Casting Time:** 1 minute  
 **Range:** 30 feet  
@@ -281,7 +281,7 @@ Using any material created by this spell as another spell's material component c
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, the cube increases by 5 feet for each slot level above 5th.
 
 ### Danse Macabre
-*5th-level necromancy*
+*5th-level Necromancy*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -297,7 +297,7 @@ The creatures are under your control until the spell ends, after which they beco
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, you animate up to two additional corpses for each slot level above 5th.
 
 ### Dawn
-*5th-level evocation*
+*5th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -306,56 +306,56 @@ The creatures are under your control until the spell ends, after which they beco
 
 The light of dawn shines down on a location you specify within range. Until the spell ends, a 30-foot-radius, 40-foot-high cylinder of bright light glimmers there. This light is sunlight.
 
-When the cylinder appears, each creature in it must make a Constitution Saving Throw, taking 4d10 radiant damage on a failed save, or half as much damage on a successful one. A creature must also make this Saving Throw whenever it ends its turn in the cylinder.
+When the cylinder appears, each creature in it must make a Constitution Saving Throw, taking 4d10 radiant damage on a failed save, or half as much damage on a successful one. A creature must also make this :d20-save: **Saving Throw** whenever it ends its turn in the cylinder.
 
 If you're within 60 feet of the cylinder, you can move it up to 60 feet as a :rsc-bonus-action: **Bonus Action** on your turn.
 
 ### Destructive Wave
-*5th-level evocation*
+*5th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self (30-foot radius)  
 **Components:** V  
 **Duration:** Instantaneous
 
-You strike the ground, creating a burst of divine energy that ripples outward from you. Each creature you choose within 30 feet of you must succeed on a Constitution Saving Throw or take 5d6 thunder damage, as well as 5d6 radiant or necrotic damage (your choice), and be knocked prone. A creature that succeeds on its Saving Throw takes half as much damage and isn't knocked prone.
+You strike the ground, creating a burst of divine energy that ripples outward from you. Each creature you choose within 30 feet of you must succeed on a Constitution :d20-save: **Saving Throw** or take 5d6 thunder damage, as well as 5d6 radiant or necrotic damage (your choice), and be knocked prone. A creature that succeeds on its :d20-save: **Saving Throw** takes half as much damage and isn't knocked prone.
 
 ### Dispel Evil and Good
-*5th-level abjuration*
+*5th-level Abjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self  
 **Components:** V, S, M (holy water or powdered silver and iron)  
 **Duration:** Concentration, up to 1 minute
 
-Shimmering energy surrounds and protects you from fey, undead, and creatures originating from beyond the Material Plane. For the duration, celestials, elementals, fey, fiends, and undead have disadvantage on attack rolls against you.
+Shimmering energy surrounds and protects you from fey, undead, and creatures originating from beyond the Material Plane. For the duration, celestials, elementals, fey, fiends, and undead have :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** against you.
 
 You can end the spell early by using either of the following special functions.
 
 ***Break Enchantment.*** As your :rsc-action: **Action**, you touch a creature you can reach that is charmed, frightened, or possessed by a celestial, an elemental, a fey, a fiend, or an undead. The creature you touch is no longer charmed, frightened, or possessed by such creatures.
 
-***Dismissal.*** As your :rsc-action: **Action**, make a melee spell attack against a celestial, an elemental, a fey, a fiend, or an undead you can reach. On a hit, you attempt to drive the creature back to its home plane. The creature must succeed on a Charisma Saving Throw or be sent back to its home plane (if it isn't there already). If they aren't on their home plane, undead are sent to the Shadowfell, and fey are sent to the Feywild.
+***Dismissal.*** As your :rsc-action: **Action**, make a melee spell attack against a celestial, an elemental, a fey, a fiend, or an undead you can reach. On a hit, you attempt to drive the creature back to its home plane. The creature must succeed on a Charisma :d20-save: **Saving Throw** or be sent back to its home plane (if it isn't there already). If they aren't on their home plane, undead are sent to the Shadowfell, and fey are sent to the Feywild.
 
 ### Dominate Person
-*5th-level enchantment*
+*5th-level Enchantment*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-You attempt to beguile a humanoid that you can see within range. It must succeed on a Wisdom Saving Throw or be charmed by you for the duration. If you or creatures that are friendly to you are fighting it, it has advantage on the Saving Throw.
+You attempt to beguile a humanoid that you can see within range. It must succeed on a Wisdom :d20-save: **Saving Throw** or be charmed by you for the duration. If you or creatures that are friendly to you are fighting it, it has :d20-adv: **Advantage** on the Saving Throw.
 
 While the target is charmed, you have a telepathic link with it as long as the two of you are on the same plane of existence. You can use this telepathic link to issue commands to the creature while you are conscious (no action required), which it does its best to obey. You can specify a simple and general course of action, such as "Attack that creature," "Run over there," or "Fetch that object." If the creature completes the order and doesn't receive further direction from you, it defends and preserves itself to the best of its ability.
 
 You can use your :rsc-action: **Action** to take total and precise control of the target. Until the end of your next turn, the creature takes only the actions you choose, and doesn't do anything that you don't allow it to do. During this time you can also cause the creature to use a reaction, but this requires you to use your own :rsc-reaction: **Reaction** as well.
 
-Each time the target takes damage, it makes a new Wisdom Saving Throw against the spell. If the Saving Throw succeeds, the spell ends.
+Each time the target takes damage, it makes a new Wisdom :d20-save: **Saving Throw** against the spell. If the :d20-save: **Saving Throw** succeeds, the spell ends.
 
 ***At Higher Levels.*** When you cast this spell using a 6th-level :rsc-spell-slot: **Spell Slot**, the duration is concentration, up to 10 minutes. When you use a 7th-level :rsc-spell-slot: **Spell Slot**, the duration is concentration, up to 1 hour. When you use a :rsc-spell-slot: **Spell Slot** of 8th level or higher, the duration is concentration, up to 8 hours.
 
 ### Dream
-*5th-level illusion*
+*5th-level Illusion*
   
 **Casting Time:** 1 minute  
 **Range:** Special  
@@ -368,10 +368,10 @@ If the target is asleep, the messenger appears in the target's dreams and can co
 
 You can make the messenger appear monstrous and terrifying to the target. If you do, the messenger can deliver a message of no more than ten words and then the target must make a Wisdom Saving Throw. On a failed save, echoes of the phantasmal monstrosity spawn a nightmare that lasts the duration of the target's sleep and prevents the target from gaining any benefit from that rest. In addition, when the target wakes up, it takes 3d6 psychic damage.
 
-If you have a body part, lock of hair, clipping from a nail, or similar portion of the target's body, the target makes its Saving Throw with disadvantage.
+If you have a body part, lock of hair, clipping from a nail, or similar portion of the target's body, the target makes its :d20-save: **Saving Throw** with disadvantage.
 
 ### Enervation
-*5th-level necromancy*
+*5th-level Necromancy*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -385,7 +385,7 @@ Whenever the spell deals damage to a target, you regain Hit Points equal to half
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
 
 ### Far Step
-*5th-level conjuration*
+*5th-level Conjuration*
   
 **Casting Time:** :rsc-bonus-action: **Bonus Action**  
 **Range:** Self  
@@ -395,7 +395,7 @@ Whenever the spell deals damage to a target, you regain Hit Points equal to half
 You teleport up to 60 feet to an unoccupied space you can see. On each of your turns before the spell ends, you can use a :rsc-bonus-action: **Bonus Action** to teleport in this way again.
 
 ### Flame Strike
-*5th-level evocation*
+*5th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -407,14 +407,14 @@ A vertical column of divine fire roars down from the heavens in a location you s
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, the fire damage or the radiant damage (your choice) increases by 1d6 for each slot level above 5th.
 
 ### Geas
-*5th-level enchantment*
+*5th-level Enchantment*
   
 **Casting Time:** 1 minute  
 **Range:** 60 feet  
 **Components:** V  
 **Duration:** 30 days
 
-You place a magical command on a creature that you can see within range, forcing it to carry out some service or refrain from some action or course of activity as you decide. If the creature can understand you, it must succeed on a Wisdom Saving Throw or become charmed by you for the duration. While the creature is charmed by you, it takes 5d10 psychic damage each time it acts in a manner directly counter to your instructions, but no more than once each day. A creature that can't understand you is unaffected by the spell.
+You place a magical command on a creature that you can see within range, forcing it to carry out some service or refrain from some action or course of activity as you decide. If the creature can understand you, it must succeed on a Wisdom :d20-save: **Saving Throw** or become charmed by you for the duration. While the creature is charmed by you, it takes 5d10 psychic damage each time it acts in a manner directly counter to your instructions, but no more than once each day. A creature that can't understand you is unaffected by the spell.
 
 You can issue any command you choose, short of an activity that would result in certain death. Should you issue a suicidal command, the spell ends.
 
@@ -423,7 +423,7 @@ You can end the spell early by using an :rsc-action: **Action** to dismiss it. A
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 7th or 8th level, the duration is 1 year. When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 9th level, the spell lasts until it is ended by one of the spells mentioned above.
 
 ### Greater Restoration
-*5th-level abjuration*
+*5th-level Abjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Touch  
@@ -438,7 +438,7 @@ Any reduction to one of the target's ability scores
 One effect reducing the target's Hit Point maximum
 
 ### Hallow
-*5th-level evocation*
+*5th-level Evocation*
   
 **Casting Time:** 24 hours  
 **Range:** Touch  
@@ -472,19 +472,19 @@ Second, you can bind an extra effect to the area. Choose the effect from the fol
 ***Tongues.*** Affected creatures can communicate with any other creature in the area, even if they don't share a common language.
 
 ### Hold Monster
-*5th-level enchantment*
+*5th-level Enchantment*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 90 feet  
 **Components:** V, S, M (a small, straight piece of iron)  
 **Duration:** Concentration, up to 1 minute
 
-Choose a creature that you can see within range. The target must succeed on a Wisdom Saving Throw or be paralyzed for the duration. This spell has no effect on undead. At the end of each of its turns, the target can make another Wisdom Saving Throw. On a success, the spell ends on the target.
+Choose a creature that you can see within range. The target must succeed on a Wisdom :d20-save: **Saving Throw** or be paralyzed for the duration. This spell has no effect on undead. At the end of each of its turns, the target can make another Wisdom Saving Throw. On a success, the spell ends on the target.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, you can target one additional creature for each slot level above 5th. The creatures must be within 30 feet of each other when you target them.
 
 ### Holy Weapon
-*5th-level evocation*
+*5th-level Evocation*
   
 **Casting Time:** :rsc-bonus-action: **Bonus Action**  
 **Range:** Touch  
@@ -496,7 +496,7 @@ You imbue a weapon you touch with holy power. Until the spell ends, the weapon e
 As a :rsc-bonus-action: **Bonus Action** on your turn, you can dismiss this spell and cause the weapon to emit a burst of radiance. Each creature of your choice that you can see within 30 feet of the weapon must make a Constitution Saving Throw. On a failed save, a creature takes 4d8 radiant damage, and it is blinded for 1 minute. On a successful save, a creature takes half as much damage and isn't blinded. At the end of each of its turns, a blinded creature can make a Constitution Saving Throw, ending the effect on itself on a success.
 
 ### Immolation
-*5th-level evocation*
+*5th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 90 feet  
@@ -508,7 +508,7 @@ Flames wreathe one creature you can see within range. The target must make a Dex
 If damage from this spell kills a target, the target is turned to ash.
 
 ### Infernal Calling
-*5th-level conjuration*
+*5th-level Conjuration*
   
 **Casting Time:** 1 minute  
 **Range:** 90 feet  
@@ -519,7 +519,7 @@ Uttering a dark incantation, you summon a devil from the Nine Hells. You choose 
 
 The devil is unfriendly toward you and your companions. Roll initiative for the devil, which has its own turns. It is under the Dungeon Master's control and acts according to its nature on each of its turns, which might result in its attacking you if it thinks it can prevail, or trying to tempt you to undertake an evil act in exchange for limited service. The DM has the creature's statistics.
 
-On each of your turns, you can try to issue a verbal command to the devil (no action required by you). It obeys the command if the likely outcome is in accordance with its desires, especially if the result would draw you toward evil. Otherwise, you must make a Charisma (Deception, Intimidation, or Persuasion) check contested by its Wisdom (Insight) check. You make the check with advantage if you say the devil's true name. If your check fails, the devil becomes immune to your verbal commands for the duration of the spell, though it can still carry out your commands if it chooses. If your check succeeds, the devil carries out your command—such as "attack my enemies," "explore the room ahead," or "bear this message to the queen"—until it completes the activity, at which point it returns to you to report having done so.
+On each of your turns, you can try to issue a verbal command to the devil (no action required by you). It obeys the command if the likely outcome is in accordance with its desires, especially if the result would draw you toward evil. Otherwise, you must make a Charisma (Deception, Intimidation, or Persuasion) check contested by its Wisdom (Insight) check. You make the check with :d20-adv: **Advantage** if you say the devil's true name. If your check fails, the devil becomes immune to your verbal commands for the duration of the spell, though it can still carry out your commands if it chooses. If your check succeeds, the devil carries out your command—such as "attack my enemies," "explore the room ahead," or "bear this message to the queen"—until it completes the activity, at which point it returns to you to report having done so.
 
 If your concentration ends before the spell reaches its full duration, the devil doesn't disappear if it has become immune to your verbal commands. Instead, it acts in whatever manner it chooses for 3d6 minutes, and then it disappears.
 
@@ -528,7 +528,7 @@ If you possess an individual devil's talisman, you can summon that devil if it i
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, the challenge rating increases by 1 for each slot level above 5th.
 
 ### Insect Plague
-*5th-level conjuration*
+*5th-level Conjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 300 feet  
@@ -537,12 +537,12 @@ If you possess an individual devil's talisman, you can summon that devil if it i
 
 Swarming, biting locusts fill a 20-foot-radius sphere centered on a point you choose within range. The sphere spreads around corners. The sphere remains for the duration, and its area is lightly obscured. The sphere's area is difficult terrain.
 
-When the area appears, each creature in it must make a Constitution Saving Throw. A creature takes 4d10 piercing damage on a failed save, or half as much damage on a successful one. A creature must also make this Saving Throw when it enters the spell's area for the first time on a turn or ends its turn there.
+When the area appears, each creature in it must make a Constitution Saving Throw. A creature takes 4d10 piercing damage on a failed save, or half as much damage on a successful one. A creature must also make this :d20-save: **Saving Throw** when it enters the spell's area for the first time on a turn or ends its turn there.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, the damage increases by 1d10 for each slot level above 5th.
 
 ### Legend Lore
-*5th-level divination*
+*5th-level Divination*
   
 **Casting Time:** 10 minutes  
 **Range:** Self  
@@ -554,17 +554,17 @@ Name or describe a person, place, or object. The spell brings to your mind a bri
 The information you learn is accurate but might be couched in figurative language. For example, if you have a mysterious magic axe on hand, the spell might yield this information: "Woe to the evildoer whose hand touches the axe, for even the haft slices the hand of the evil ones. Only a true Child of Stone, lover and beloved of Moradin, may awaken the true powers of the axe, and only with the sacred word Rudnogg on the lips."
 
 ### Maelstrom
-*5th-level evocation*
+*5th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 120 feet  
 **Components:** V, S, M (paper or leaf in the shape of a funnel)  
 **Duration:** Concentration, up to 1 minute
 
-A swirling mass of 5-foot-deep water appears in a 30-foot radius centered on a point you can see within range. The point must be on the ground or in a body of water. Until the spell ends, that area is difficult terrain, and any creature that starts its turn there must succeed on a Strength Saving Throw or take 6d6 bludgeoning damage and be pulled 10 feet toward the center.
+A swirling mass of 5-foot-deep water appears in a 30-foot radius centered on a point you can see within range. The point must be on the ground or in a body of water. Until the spell ends, that area is difficult terrain, and any creature that starts its turn there must succeed on a Strength :d20-save: **Saving Throw** or take 6d6 bludgeoning damage and be pulled 10 feet toward the center.
 
 ### Mass Cure Wounds
-*5th-level evocation*
+*5th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -576,7 +576,7 @@ A wave of healing energy washes out from a point of your choice within range. Ch
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, the healing increases by 1d8 for each slot level above 5th.
 
 ### Mislead
-*5th-level illusion*
+*5th-level Illusion*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self  
@@ -590,14 +590,14 @@ You can use your :rsc-action: **Action** to move your illusory double up to twic
 You can see through its eyes and hear through its ears as if you were located where it is. On each of your turns as a :rsc-bonus-action: **Bonus Action**, you can switch from using its senses to using your own, or back again. While you are using its senses, you are blinded and deafened in regard to your own surroundings.
 
 ### Modify Memory
-*5th-level enchantment*
+*5th-level Enchantment*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 30 feet  
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-You attempt to reshape another creature's memories. One creature that you can see must make a Wisdom Saving Throw. If you are fighting the creature, it has advantage on the Saving Throw. On a failed save, the target becomes charmed by you for the duration. The charmed target is incapacitated and unaware of its surroundings, though it can still hear you. If it takes any damage or is targeted by another spell, this spell ends, and none of the target's memories are modified.
+You attempt to reshape another creature's memories. One creature that you can see must make a Wisdom Saving Throw. If you are fighting the creature, it has :d20-adv: **Advantage** on the Saving Throw. On a failed save, the target becomes charmed by you for the duration. The charmed target is incapacitated and unaware of its surroundings, though it can still hear you. If it takes any damage or is targeted by another spell, this spell ends, and none of the target's memories are modified.
 
 While this charm lasts, you can affect the target's memory of an event that it experienced within the last 24 hours and that lasted no more than 10 minutes. You can permanently eliminate all memory of the event, allow the target to recall the event with perfect clarity and exacting detail, change its memory of the details of the event, or create a memory of some other event.
 
@@ -610,7 +610,7 @@ A *remove curse* or *greater restoration* spell cast on the target restores the 
 ***At Higher Levels.*** If you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, you can alter the target's memories of an event that took place up to 7 days ago (6th level), 30 days ago (7th level), 1 year ago (8th level), or any time in the creature's past (9th level).
 
 ### Negative Energy Flood
-*5th-level necromancy*
+*5th-level Necromancy*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -622,7 +622,7 @@ You send ribbons of negative energy at one creature you can see within range. Un
 If you target an undead with this spell, the target doesn't make a Saving Throw. Instead, roll 5d12. The target gains half the total as temporary Hit Points.
 
 ### Passwall
-*5th-level transmutation*
+*5th-level Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 30 feet  
@@ -634,7 +634,7 @@ A passage appears at a point of your choice that you can see on a wooden, plaste
 When the opening disappears, any creatures or objects still in the passage created by the spell are safely ejected to an unoccupied space nearest to the surface on which you cast the spell.
 
 ### Planar Binding
-*5th-level abjuration*
+*5th-level Abjuration*
   
 **Casting Time:** 1 hour  
 **Range:** 60 feet  
@@ -648,7 +648,7 @@ A bound creature must follow your instructions to the best of its ability. You m
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of a higher level, the duration increases to 10 days with a 6th-level slot, to 30 days with a 7th-level slot, to 180 days with an 8th-level slot, and to a year and a day with a 9th-level :rsc-spell-slot: **Spell Slot**.
 
 ### Raise Dead
-*5th-level necromancy*
+*5th-level Necromancy*
   
 **Casting Time:** 1 hour  
 **Range:** Touch  
@@ -664,7 +664,7 @@ This spell closes all mortal wounds, but it doesn't restore missing body parts. 
 Coming back from the dead is an ordeal. The target takes a −4 penalty to all attack rolls, Saving Throws, and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.
 
 ### Rary's Telepathic Bond
-*5th-level divination (ritual)*
+*5th-level Divination (ritual)*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 30 feet  
@@ -676,7 +676,7 @@ You forge a telepathic link among up to eight willing creatures of your choice w
 Until the spell ends, the targets can communicate telepathically through the bond whether or not they have a common language. The communication is possible over any distance, though it can't extend to other planes of existence.
 
 ### Reincarnate
-*5th-level transmutation*
+*5th-level Transmutation*
   
 **Casting Time:** 1 hour  
 **Range:** Touch  
@@ -708,24 +708,24 @@ The magic fashions a new body for the creature to inhabit, which likely causes t
 The reincarnated creature recalls its former life and experiences. It retains the capabilities it had in its original form, except it exchanges its original race for the new one and changes its racial traits accordingly.
 
 ### Temporal Shunt
-*5th-level transmutation*
+*5th-level Transmutation*
 
-**Casting Time:** :rsc-reaction: **Reaction**, taken when a creature you can see makes an attack roll or starts to cast a spell  
+**Casting Time:** :rsc-reaction: **Reaction**, taken when a creature you can see makes an :d20-attack: **Attack Roll** or starts to cast a spell  
 **Range:** 120 feet  
 **Components:** V, S  
 **Duration:** 1 round  
 
-You target the triggering creature, which must succeed on a Wisdom Saving Throw or vanish, being thrown to another point in time and causing the attack to miss or the spell to be wasted. At the start of its next turn, the target reappears where it was or in the closest unoccupied space. The target doesn't remember you casting the spell or being affected by it.***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, you can target one additional creature for each slot level above 5th. All targets must be within 30 feet of each other.
+You target the triggering creature, which must succeed on a Wisdom :d20-save: **Saving Throw** or vanish, being thrown to another point in time and causing the attack to miss or the spell to be wasted. At the start of its next turn, the target reappears where it was or in the closest unoccupied space. The target doesn't remember you casting the spell or being affected by it.***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, you can target one additional creature for each slot level above 5th. All targets must be within 30 feet of each other.
 
 ### Scrying
-*5th-level divination*
+*5th-level Divination*
   
 **Casting Time:** 10 minutes  
 **Range:** Self  
 **Components:** V, S, M (a focus worth at least 1,000 gp, such as a crystal ball, a silver mirror, or a font filled with holy water)  
 **Duration:** Concentration, up to 10 minutes
 
-You can see and hear a particular creature you choose that is on the same plane of existence as you. The target must make a Wisdom Saving Throw, which is modified by how well you know the target and the sort of physical connection you have to it. If a target knows you're casting this spell, it can fail the Saving Throw voluntarily if it wants to be observed.
+You can see and hear a particular creature you choose that is on the same plane of existence as you. The target must make a Wisdom Saving Throw, which is modified by how well you know the target and the sort of physical connection you have to it. If a target knows you're casting this spell, it can fail the :d20-save: **Saving Throw** voluntarily if it wants to be observed.
 
 #### Knowledge of Target
 | Knowledge                                 | Save Modifier |
@@ -748,7 +748,7 @@ On a failed save, the spell creates an invisible sensor within 10 feet of the ta
 Instead of targeting a creature, you can choose a location you have seen before as the target of this spell. When you do, the sensor appears at that location and doesn't move.
 
 ### Seeming
-*5th-level illusion*
+*5th-level Illusion*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 30 feet  
@@ -757,26 +757,26 @@ Instead of targeting a creature, you can choose a location you have seen before 
 
 This spell allows you to change the appearance of any number of creatures that you can see within range. You give each target you choose a new, illusory appearance. An unwilling target can make a Charisma Saving Throw, and if it succeeds, it is unaffected by this spell.
 
-The spell disguises physical appearance as well as clothing, armor, weapons, and equipment. You can make each creature seem 1 foot shorter or taller and appear thin, fat, or in between. You can't change a target's body type, so you must choose a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you. The spell lasts for the duration, unless you use your :rsc-action: **Action** to dismiss it sooner.
+The spell disguises physical appearance as well as clothing, armor, weapons, and equipment. You can make each creature seem 1 foot shorter or taller and appear thin, fat, or in between. You can't change a target's body type, so you must choose a form that has the same basic arrangement of limbs. Otherwise, the extent of the Illusion is up to you. The spell lasts for the duration, unless you use your :rsc-action: **Action** to dismiss it sooner.
 
 The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to a creature's outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel the creature's head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.
 
 A creature can use its action to inspect a target and make an Intelligence (Investigation) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
 
 ### Skill Empowerment
-*5th-level transmutation*
+*5th-level Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Touch  
 **Components:** V, S  
 **Duration:** Concentration, up to 1 hour
 
-Your magic deepens a creature's understanding of its own talent. You touch one willing creature and give it expertise in one skill of your choice; until the spell ends, the creature doubles its Proficiency Bonus for ability checks it makes that use the chosen skill.
+Your magic deepens a creature's understanding of its own talent. You touch one willing creature and give it expertise in one skill of your choice; until the spell ends, the creature doubles its Proficiency Bonus for :d20-check: **Ability Checks** it makes that use the chosen skill.
 
 You must choose a skill in which the target is proficient and that isn't already benefiting from an effect, such as Expertise, that doubles its Proficiency Bonus.
 
 ### Steel Wind Strike
-*5th-level conjuration*
+*5th-level Conjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 30 feet  
@@ -788,7 +788,7 @@ You flourish the weapon used in the casting and then vanish to strike like the w
 You can then teleport to an unoccupied space you can see within 5 feet of one of the targets you hit or missed.
 
 ### Summon Celestial
-*5th-level conjuration*
+*5th-level Conjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 90 feet  
@@ -802,7 +802,7 @@ The creature is an ally to you and your companions. In combat, the creature shar
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, use the higher level wherever the spell's level appears in the stat block.
 
 ### Summon Draconic Spirit
-*5th-level conjuration*
+*5th-level Conjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -816,7 +816,7 @@ The creature is an ally to you and your companions. In combat, the creature shar
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, use the higher level wherever the spell's level appears in the stat block.
 
 ### Swift Quiver
-*5th-level transmutation*
+*5th-level Transmutation*
   
 **Casting Time:** :rsc-bonus-action: **Bonus Action**  
 **Range:** Touch  
@@ -828,7 +828,7 @@ You transmute your quiver so it produces an endless supply of nonmagical ammunit
 On each of your turns until the spell ends, you can use a :rsc-bonus-action: **Bonus Action** to make two attacks with a weapon that uses ammunition from the quiver. Each time you make such a ranged attack, your quiver magically replaces the piece of ammunition you used with a similar piece of nonmagical ammunition. Any pieces of ammunition created by this spell disintegrate when the spell ends. If the quiver leaves your possession, the spell ends.
 
 ### Synaptic Static
-*5th-level enchantment*
+*5th-level Enchantment*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 120 feet  
@@ -837,10 +837,10 @@ On each of your turns until the spell ends, you can use a :rsc-bonus-action: **B
 
 You choose a point within range and cause psychic energy to explode there. Each creature in a 20-foot-radius sphere centered on that point must make an Intelligence Saving Throw. A creature with an Intelligence score of 2 or lower can't be affected by this spell. A target takes 8d6 psychic damage on a failed save, or half as much damage on a successful one.
 
-After a failed save, a target has muddled thoughts for 1 minute. During that time, it rolls a d6 and subtracts the number rolled from all its attack rolls and ability checks, as well as its Constitution Saving Throws to maintain concentration. The target can make an Intelligence Saving Throw at the end of each of its turns, ending the effect on itself on a success.
+After a failed save, a target has muddled thoughts for 1 minute. During that time, it rolls a d6 and subtracts the number rolled from all its :d20-attack: **Attack Rolls** and ability checks, as well as its Constitution :d20-save: **Saving Throws** to maintain concentration. The target can make an Intelligence :d20-save: **Saving Throw** at the end of each of its turns, ending the effect on itself on a success.
 
 ### Telekinesis
-*5th-level transmutation*
+*5th-level Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -849,18 +849,18 @@ After a failed save, a target has muddled thoughts for 1 minute. During that tim
 
 You gain the ability to move or manipulate creatures or objects by thought. When you cast the spell, and as your :rsc-action: **Action** each round for the duration, you can exert your will on one creature or object that you can see within range, causing the appropriate effect below. You can affect the same target round after round, or choose a new one at any time. If you switch targets, the prior target is no longer affected by the spell.
 
-***Creature.*** You can try to move a Huge or smaller creature. Make an ability check with your spellcasting ability contested by the creature's Strength check. If you win the contest, you move the creature up to 30 feet in any direction, including upward but not beyond the range of this spell. Until the end of your next turn, the creature is restrained in your telekinetic grip. A creature lifted upward is suspended in mid-air.
+***Creature.*** You can try to move a Huge or smaller creature. Make an :d20-check: **Ability Check** with your spellcasting ability contested by the creature's Strength check. If you win the contest, you move the creature up to 30 feet in any direction, including upward but not beyond the range of this spell. Until the end of your next turn, the creature is restrained in your telekinetic grip. A creature lifted upward is suspended in mid-air.
 
 On subsequent rounds, you can use your :rsc-action: **Action** to attempt to maintain your telekinetic grip on the creature by repeating the contest.
 
 ***Object.*** You can try to move an object that weighs up to 1,000 pounds. If the object isn't being worn or carried, you automatically move it up to 30 feet in any direction, but not beyond the range of this spell.
 
-If the object is worn or carried by a creature, you must make an ability check with your spellcasting ability contested by that creature's Strength check. If you succeed, you pull the object away from that creature and can move it up to 30 feet in any direction but not beyond the range of this spell.
+If the object is worn or carried by a creature, you must make an :d20-check: **Ability Check** with your spellcasting ability contested by that creature's Strength check. If you succeed, you pull the object away from that creature and can move it up to 30 feet in any direction but not beyond the range of this spell.
 
 You can exert fine control on objects with your telekinetic grip, such as manipulating a simple tool, opening a door or a container, stowing or retrieving an item from an open container, or pouring the contents from a vial.
 
 ### Teleportation Circle
-*5th-level conjuration*
+*5th-level Conjuration*
   
 **Casting Time:** 1 minute  
 **Range:** 10 feet  
@@ -874,7 +874,7 @@ Many major temples, guilds, and other important places have permanent teleportat
 You can create a permanent teleportation circle by casting this spell in the same location every day for one year. You need not use the circle to teleport when you cast the spell in this way.
 
 ### Transmute Rock
-*5th-level transmutation*
+*5th-level Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 120 feet  
@@ -885,14 +885,14 @@ You choose an area of stone or mud that you can see that fits within a 40-foot c
 
 ***Transmute Rock to Mud.*** Nonmagical rock of any sort in the area becomes an equal volume of thick, flowing mud that remains for the spell's duration.
 
-The ground in the spell's area becomes muddy enough that creatures can sink into it. Each foot that a creature moves through the mud costs 4 feet of movement, and any creature on the ground when you cast the spell must make a Strength Saving Throw. A creature must also make the Saving Throw when it moves into the area for the first time on a turn or ends its turn there. On a failed save, a creature sinks into the mud and is restrained, though it can use an :rsc-action: **Action** to end the restrained condition on itself by pulling itself free of the mud.
+The ground in the spell's area becomes muddy enough that creatures can sink into it. Each foot that a creature moves through the mud costs 4 feet of movement, and any creature on the ground when you cast the spell must make a Strength Saving Throw. A creature must also make the :d20-save: **Saving Throw** when it moves into the area for the first time on a turn or ends its turn there. On a failed save, a creature sinks into the mud and is restrained, though it can use an :rsc-action: **Action** to end the restrained condition on itself by pulling itself free of the mud.
 
 If you cast the spell on a ceiling, the mud falls. Any creature under the mud when it falls must make a Dexterity Saving Throw. A creature takes 4d8 bludgeoning damage on a failed save, or half as much damage on a successful one.
 
 ***Transmute Mud to Rock.*** Nonmagical mud or quicksand in the area no more than 10 feet deep transforms into soft stone for the spell's duration. Any creature in the mud when it transforms must make a Dexterity Saving Throw. On a successful save, a creature is shunted safely to the surface in an unoccupied space. On a failed save, a creature becomes restrained by the rock. A restrained creature, or another creature within reach, can use an :rsc-action: **Action** to try to break the rock by succeeding on a DC 20 Strength check or by dealing damage to it. The rock has AC 15 and 25 Hit Points, and it is immune to poison and psychic damage.
 
 ### Tree Stride
-*5th-level conjuration*
+*5th-level Conjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self  
@@ -904,7 +904,7 @@ You gain the ability to enter a tree and move from inside it to inside another t
 You can use this transportation ability once per round for the duration. You must end each turn outside a tree.
 
 ### Wall of Force
-*5th-level evocation*
+*5th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 120 feet  
@@ -916,7 +916,7 @@ An invisible wall of force springs into existence at a point you choose within r
 Nothing can physically pass through the wall. It is immune to all damage and can't be dispelled by *dispel magic*. A *disintegrate* spell destroys the wall instantly, however. The wall also extends into the Ethereal Plane, blocking ethereal travel through the wall.
 
 ### Wall of Light
-*5th-level evocation*
+*5th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 120 feet  
@@ -925,7 +925,7 @@ Nothing can physically pass through the wall. It is immune to all damage and can
 
 A shimmering wall of bright light appears at a point you choose within range. The wall appears in any orientation you choose: horizontally, vertically, or diagonally. It can be free floating, or it can rest on a solid surface. The wall can be up to 60 feet long, 10 feet high, and 5 feet thick. The wall blocks line of sight, but creatures and objects can pass through it. It emits bright light out to 120 feet and dim light for an additional 120 feet.
 
-When the wall appears, each creature in its area must make a Constitution Saving Throw. On a failed save, a creature takes 4d8 radiant damage, and it is blinded for 1 minute. On a successful save, it takes half as much damage and isn't blinded. A blinded creature can make a Constitution Saving Throw at the end of each of its turns, ending the effect on itself on a success.
+When the wall appears, each creature in its area must make a Constitution Saving Throw. On a failed save, a creature takes 4d8 radiant damage, and it is blinded for 1 minute. On a successful save, it takes half as much damage and isn't blinded. A blinded creature can make a Constitution :d20-save: **Saving Throw** at the end of each of its turns, ending the effect on itself on a success.
 
 A creature that ends its turn in the wall's area takes 4d8 radiant damage.
 
@@ -934,7 +934,7 @@ Until the spell ends, you can use an :rsc-action: **Action** to launch a beam of
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
 
 ### Wall of Stone
-*5th-level evocation*
+*5th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 120 feet  
@@ -954,7 +954,7 @@ The wall is an object made of stone that can be damaged and thus breached. Each 
 If you maintain your concentration on this spell for its whole duration, the wall becomes permanent and can't be dispelled. Otherwise, the wall disappears when the spell ends.
 
 ### Wrath of Nature
-*5th-level evocation*
+*5th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 120 feet  
@@ -965,8 +965,8 @@ You call out to the spirits of nature to rouse them against your enemies. Choose
 
 ***Grasses and Undergrowth.*** Any area of ground in the cube that is covered by grass or undergrowth is difficult terrain for your enemies.
 
-***Trees.*** At the start of each of your turns, each of your enemies within 10 feet of any tree in the cube must succeed on a Dexterity Saving Throw or take 4d6 slashing damage from whipping branches.
+***Trees.*** At the start of each of your turns, each of your enemies within 10 feet of any tree in the cube must succeed on a Dexterity :d20-save: **Saving Throw** or take 4d6 slashing damage from whipping branches.
 
-***Roots and Vines.*** At the end of each of your turns, one creature of your choice that is on the ground in the cube must succeed on a Strength Saving Throw or become restrained until the spell ends. A restrained creature can use an :rsc-action: **Action** to make a Strength (Athletics) check against your spell save DC, ending the effect on itself on a success.
+***Roots and Vines.*** At the end of each of your turns, one creature of your choice that is on the ground in the cube must succeed on a Strength :d20-save: **Saving Throw** or become restrained until the spell ends. A restrained creature can use an :rsc-action: **Action** to make a Strength (Athletics) check against your spell save DC, ending the effect on itself on a success.
 
-***Rocks.*** As a :rsc-bonus-action: **Bonus Action** on your turn, you can cause a loose rock in the cube to launch at a creature you can see in the cube. Make a ranged spell attack against the target. On a hit, the target takes 3d8 nonmagical bludgeoning damage, and it must succeed on a Strength Saving Throw or fall prone.
+***Rocks.*** As a :rsc-bonus-action: **Bonus Action** on your turn, you can cause a loose rock in the cube to launch at a creature you can see in the cube. Make a ranged spell attack against the target. On a hit, the target takes 3d8 nonmagical bludgeoning damage, and it must succeed on a Strength :d20-save: **Saving Throw** or fall prone.

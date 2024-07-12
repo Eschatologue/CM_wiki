@@ -3,7 +3,7 @@ icon: spell/level-6
 ---
 
 ### Arcane Gate
-*6th-level conjuration*
+*6th-level Conjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 500 feet  
@@ -17,7 +17,7 @@ The portals are two-dimensional glowing rings filled with mist, hovering inches 
 Any creature or object entering the portal exits from the other portal as if the two were adjacent to each other; passing through a portal from the nonportal side has no effect. The mist that fills each portal is opaque and blocks vision through it. On your turn, you can rotate the rings as a :rsc-bonus-action: **Bonus Action** so that the active side faces in a different direction.
 
 ### Blade Barrier
-*6th-level evocation*
+*6th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 90 feet  
@@ -29,7 +29,7 @@ You create a vertical wall of whirling, razor-sharp blades made of magical energ
 When a creature enters the wall's area for the first time on a turn or starts its turn there, the creature must make a Dexterity Saving Throw. On a failed save, the creature takes 6d10 slashing damage. On a successful save, the creature takes half as much damage.
 
 ### Bones of the Earth
-*6th-level transmutation*
+*6th-level Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 120 feet  
@@ -38,14 +38,14 @@ When a creature enters the wall's area for the first time on a turn or starts it
 
 You cause up to six pillars of stone to burst from places on the ground that you can see within range. Each pillar is a cylinder that has a diameter of 5 feet and a height of up to 30 feet. The ground where a pillar appears must be wide enough for its diameter, and you can target the ground under a creature if that creature is Medium or smaller. Each pillar has AC 5 and 30 Hit Points. When reduced to 0 Hit Points, a pillar crumbles into rubble, which creates an area of difficult terrain with a 10-foot radius that lasts until the rubble is cleared. Each 5-foot-diameter portion of the area requires at least 1 minute to clear by hand.
 
-If a pillar is created under a creature, that creature must succeed on a Dexterity Saving Throw or be lifted by the pillar. A creature can choose to fail the save.
+If a pillar is created under a creature, that creature must succeed on a Dexterity :d20-save: **Saving Throw** or be lifted by the pillar. A creature can choose to fail the save.
 
 If a pillar is prevented from reaching its full height because of a ceiling or other obstacle, a creature on the pillar takes 6d6 bludgeoning damage and is restrained, pinched between the pillar and the obstacle. The restrained creature can use an :rsc-action: **Action** to make a Strength or Dexterity check (the creature's choice) against the spell's save DC. On a success, the creature is no longer restrained and must either move off the pillar or fall off it.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 7th level or higher, you can create two additional pillars for each slot level above 6th.
 
 ### Chain Lightning
-*6th-level evocation*
+*6th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 150 feet  
@@ -59,7 +59,7 @@ A target must make a Dexterity Saving Throw. The target takes 10d8 lightning dam
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 7th level or higher, one additional bolt leaps from the first target to another target for each slot level above 6th.
 
 ### Circle of Death
-*6th-level necromancy*
+*6th-level Necromancy*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 150 feet  
@@ -71,7 +71,7 @@ A sphere of negative energy ripples out in a 60-foot-radius sphere from a point 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 7th level or higher, the damage increases by 2d6 for each slot level above 6th.
 
 ### Conjure Fey
-*6th-level conjuration*
+*6th-level Conjuration*
   
 **Casting Time:** 1 minute  
 **Range:** 90 feet  
@@ -89,7 +89,7 @@ The DM has the fey creature's statistics.
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 7th level or higher, the challenge rating increases by 1 for each slot level above 6th.
 
 ### Contingency
-*6th-level evocation*
+*6th-level Evocation*
   
 **Casting Time:** 10 minutes  
 **Range:** Self  
@@ -103,7 +103,7 @@ The contingent spell takes effect immediately after the circumstance is met for 
 The contingent spell takes effect only on you, even if it can normally target others. You can use only one contingency spell at a time. If you cast this spell again, the effect of another contingency spell on you ends. Also, contingency ends on you if its material component is ever not on your person.
 
 ### Create Homunculus
-*6th-level transmutation*
+*6th-level Transmutation*
   
 **Casting Time:** 1 hour  
 **Range:** Touch  
@@ -117,7 +117,7 @@ The statistics of the **homunculus** are in the Monster Manual. It is your faith
 You can have only one homunculus at a time. If you cast this spell while your homunculus lives, the spell fails.
 
 ### Create Undead
-*6th-level necromancy*
+*6th-level Necromancy*
   
 **Casting Time:** 1 minute  
 **Range:** 10 feet  
@@ -133,7 +133,7 @@ The creature is under your control for 24 hours, after which it stops obeying an
 ***At Higher Levels.*** When you cast this spell using a 7th-level :rsc-spell-slot: **Spell Slot**, you can animate or reassert control over four **ghouls**. When you cast this spell using an 8th-level :rsc-spell-slot: **Spell Slot**, you can animate or reassert control over five **ghouls** or two **ghasts** or **wights**. When you cast this spell using a 9th-level :rsc-spell-slot: **Spell Slot**, you can animate or reassert control over six **ghouls**, three **ghasts** or **wights**, or two **mummies**.
 
 ### Disintegrate
-*6th-level transmutation*
+*6th-level Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -151,7 +151,7 @@ This spell automatically disintegrates a Large or smaller nonmagical object or a
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 7th level or higher, the damage increases by 3d6 for each slot level above 6th.
 
 ### Drawmij's Instant Summons
-*6th-level conjuration (ritual)*
+*6th-level Conjuration (ritual)*
   
 **Casting Time:** 1 minute  
 **Range:** Touch  
@@ -167,7 +167,7 @@ If another creature is holding or carrying the item, crushing the sapphire doesn
 *Dispel magic* or a similar effect successfully applied to the sapphire ends this spell's effect.
 
 ### Druid Grove
-*6th-level abjuration*
+*6th-level Abjuration*
   
 **Casting Time:** 10 minutes  
 **Range:** Touch  
@@ -195,23 +195,23 @@ A constant *gust of wind* in two locations of your choice
 To a creature immune to this effect, the winds are a fragrant, gentle breeze, and the area of *spike growth* is harmless.
 
 ### Eyebite
-*6th-level necromancy*
+*6th-level Necromancy*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self  
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-For the spell's duration, your eyes become an inky void imbued with dread power. One creature of your choice within 60 feet of you that you can see must succeed on a Wisdom Saving Throw or be affected by one of the following effects of your choice for the duration. On each of your turns until the spell ends, you can use your :rsc-action: **Action** to target another creature but can't target a creature again if it has succeeded on a Saving Throw against this casting of eyebite.
+For the spell's duration, your eyes become an inky void imbued with dread power. One creature of your choice within 60 feet of you that you can see must succeed on a Wisdom :d20-save: **Saving Throw** or be affected by one of the following effects of your choice for the duration. On each of your turns until the spell ends, you can use your :rsc-action: **Action** to target another creature but can't target a creature again if it has succeeded on a :d20-save: **Saving Throw** against this casting of eyebite.
 
 ***Asleep.*** The target falls unconscious. It wakes up if it takes any damage or if another creature uses its action to shake the sleeper awake.
 
 ***Panicked.*** The target is frightened of you. On each of its turns, the frightened creature must take the Dash action and move away from you by the safest and shortest available route, unless there is nowhere to move. If the target moves to a place at least 60 feet away from you where it can no longer see you, this effect ends.
 
-***Sickened.*** The target has disadvantage on attack rolls and ability checks. At the end of each of its turns, it can make another Wisdom Saving Throw. If it succeeds, the effect ends.
+***Sickened.*** The target has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** and ability checks. At the end of each of its turns, it can make another Wisdom Saving Throw. If it succeeds, the effect ends.
 
 ### Find the Path
-*6th-level divination*
+*6th-level Divination*
   
 **Casting Time:** 1 minute  
 **Range:** Self  
@@ -223,7 +223,7 @@ This spell allows you to find the shortest, most direct physical route to a spec
 For the duration, as long as you are on the same plane of existence as the destination, you know how far it is and in what direction it lies. While you are traveling there, whenever you are presented with a choice of paths along the way, you automatically determine which path is the shortest and most direct route (but not necessarily the safest route) to the destination.
 
 ### Fizban's Platinum Shield
-*6th-level abjuration*
+*6th-level Abjuration*
   
 **Casting Time:** :rsc-bonus-action: **Bonus Action**  
 **Range:** 60 feet  
@@ -234,12 +234,12 @@ You create a field of silvery light that surrounds a creature of your choice wit
   
 **Cover.** The creature has half cover.  
 **Damage Resistance.** The creature has resistance to acid, cold, fire, lightning, and poison damage.  
-**Evasion.** If the creature is subjected to an effect that allows it to make a Dexterity Saving Throw to take only half damage, the creature instead takes no damage if it succeeds on the Saving Throw, and only half damage if it fails.
+**Evasion.** If the creature is subjected to an effect that allows it to make a Dexterity :d20-save: **Saving Throw** to take only half damage, the creature instead takes no damage if it succeeds on the Saving Throw, and only half damage if it fails.
 
 As a :rsc-bonus-action: **Bonus Action** on subsequent turns, you can move the field to another creature within 60 feet of the field.
 
 ### Flesh to Stone
-*6th-level transmutation*
+*6th-level Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -248,14 +248,14 @@ As a :rsc-bonus-action: **Bonus Action** on subsequent turns, you can move the f
 
 You attempt to turn one creature that you can see within range into stone. If the target's body is made of flesh, the creature must make a Constitution Saving Throw. On a failed save, it is restrained as its flesh begins to harden. On a successful save, the creature isn't affected.
 
-A creature restrained by this spell must make another Constitution Saving Throw at the end of each of its turns. If it successfully saves against this spell three times, the spell ends. If it fails its saves three times, it is turned to stone and subjected to the petrified condition for the duration. The successes and failures don't need to be consecutive; keep track of both until the target collects three of a kind.
+A creature restrained by this spell must make another Constitution :d20-save: **Saving Throw** at the end of each of its turns. If it successfully saves against this spell three times, the spell ends. If it fails its saves three times, it is turned to stone and subjected to the petrified condition for the duration. The successes and failures don't need to be consecutive; keep track of both until the target collects three of a kind.
 
 If the creature is physically broken while petrified, it suffers from similar deformities if it reverts to its original state.
 
 If you maintain your concentration on this spell for the entire possible duration, the creature is turned to stone until the effect is removed.
 
 ### Forbiddance
-*6th-level abjuration (ritual)*
+*6th-level Abjuration (ritual)*
   
 **Casting Time:** 10 minutes  
 **Range:** Touch  
@@ -271,7 +271,7 @@ When you cast this spell, you can designate a password. A creature that speaks t
 The spell's area can't overlap with the area of another forbiddance spell. If you cast forbiddance every day for 30 days in the same location, the spell lasts until it is dispelled, and the material components are consumed on the last casting.
 
 ### Globe of Invulnerability
-*6th-level abjuration*
+*6th-level Abjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self (10-foot radius)  
@@ -285,7 +285,7 @@ Any spell of 5th level or lower cast from outside the barrier can't affect creat
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 7th level or higher, the barrier blocks spells of one level higher for each slot level above 6th.
 
 ### Guards and Wards
-*6th-level abjuration*
+*6th-level Abjuration*
   
 **Casting Time:** 10 minutes  
 **Range:** Touch  
@@ -300,7 +300,7 @@ Guards and wards creates the following effects within the warded area.
 
 ***Corridors.*** Fog fills all the warded corridors, making them heavily obscured. In addition, at each intersection or branching passage offering a choice of direction, there is a 50 percent chance that a creature other than you will believe it is going in the opposite direction from the one it chooses.
 
-***Doors.*** All doors in the warded area are magically locked, as if sealed by an *arcane lock* spell. In addition, you can cover up to ten doors with an illusion (equivalent to the illusory object function of the *minor illusion* spell) to make them appear as plain sections of wall.
+***Doors.*** All doors in the warded area are magically locked, as if sealed by an *arcane lock* spell. In addition, you can cover up to ten doors with an Illusion (equivalent to the illusory object function of the *minor Illusion* spell) to make them appear as plain sections of wall.
 
 ***Stairs.*** Webs fill all stairs in the warded area from top to bottom, as the *web* spell. These strands regrow in 10 minutes if they are burned or torn away while guards and wards lasts.
 
@@ -317,7 +317,7 @@ The whole warded area radiates magic. A *dispel magic* cast on a specific effect
 You can create a permanently guarded and warded structure by casting this spell there every day for one year.
 
 ### Harm
-*6th-level necromancy*
+*6th-level Necromancy*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -327,7 +327,7 @@ You can create a permanently guarded and warded structure by casting this spell 
 You unleash a virulent disease on a creature that you can see within range. The target must make a Constitution Saving Throw. On a failed save, it takes 14d6 necrotic damage, or half as much damage on a successful save. The damage can't reduce the target's Hit Points below 1. If the target fails the Saving Throw, its Hit Point maximum is reduced for 1 hour by an amount equal to the necrotic damage it took. Any effect that removes a disease allows a creature's Hit Point maximum to return to normal before that time passes.
 
 ### Heal
-*6th-level evocation*
+*6th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -339,7 +339,7 @@ Choose a creature that you can see within range. A surge of positive energy wash
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 7th level or higher, the amount of healing increases by 10 for each slot level above 6th.
 
 ### Heroes' Feast
-*6th-level conjuration*
+*6th-level Conjuration*
   
 **Casting Time:** 10 minutes  
 **Range:** 30 feet  
@@ -348,10 +348,10 @@ Choose a creature that you can see within range. A surge of positive energy wash
 
 You bring forth a great feast, including magnificent food and drink. The feast takes 1 hour to consume and disappears at the end of that time, and the beneficial effects don't set in until this hour is over. Up to twelve creatures can partake of the feast.
 
-A creature that partakes of the feast gains several benefits. The creature is cured of all diseases and poison, becomes immune to poison and being frightened, and makes all Wisdom Saving Throws with advantage. Its Hit Point maximum also increases by 2d10, and it gains the same number of Hit Points. These benefits last for 24 hours.
+A creature that partakes of the feast gains several benefits. The creature is cured of all diseases and poison, becomes immune to poison and being frightened, and makes all Wisdom :d20-save: **Saving Throws** with advantage. Its Hit Point maximum also increases by 2d10, and it gains the same number of Hit Points. These benefits last for 24 hours.
 
 ### Investiture of Flame
-*6th-level transmutation*
+*6th-level Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self  
@@ -365,7 +365,7 @@ Any creature that moves within 5 feet of you for the first time on a turn or end
 You can use your :rsc-action: **Action** to create a line of fire 15 feet long and 5 feet wide extending from you in a direction you choose. Each creature in the line must make a Dexterity Saving Throw. A creature takes 4d8 fire damage on a failed save, or half as much damage on a successful one.
 
 ### Investiture of Ice
-*6th-level transmutation*
+*6th-level Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self  
@@ -380,7 +380,7 @@ The ground in a 10-foot radius around you is icy and is difficult terrain for cr
 You can use your :rsc-action: **Action** to create a 15-foot cone of freezing wind extending from your outstretched hand in a direction you choose. Each creature in the cone must make a Constitution Saving Throw. A creature takes 4d6 cold damage on a failed save, or half as much damage on a successful one. A creature that fails its save against this effect has its speed halved until the start of your next turn.
 
 ### Investiture of Stone
-*6th-level transmutation*
+*6th-level Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self  
@@ -390,11 +390,11 @@ You can use your :rsc-action: **Action** to create a 15-foot cone of freezing wi
 Until the spell ends, bits of rock spread across your body, and you gain the following benefits:
   
 You have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.  
-You can use your :rsc-action: **Action** to create a small earthquake on the ground in a 15-foot radius centered on you. Other creatures on that ground must succeed on a Dexterity Saving Throw or be knocked prone.  
+You can use your :rsc-action: **Action** to create a small earthquake on the ground in a 15-foot radius centered on you. Other creatures on that ground must succeed on a Dexterity :d20-save: **Saving Throw** or be knocked prone.  
 You can move across difficult terrain made of earth or stone without spending extra movement. You can move through solid earth or stone as if it was air and without destabilizing it, but you can't end your movement there. If you do so, you are ejected to the nearest unoccupied space, this spell ends, and you are stunned until the end of your next turn.
 
 ### Investiture of Wind
-*6th-level transmutation*
+*6th-level Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self  
@@ -403,12 +403,12 @@ You can move across difficult terrain made of earth or stone without spending ex
 
 Until the spell ends, wind whirls around you, and you gain the following benefits:
   
-Ranged weapon attacks made against you have disadvantage on the attack roll.  
+Ranged weapon attacks made against you have :d20-disadv: **Disadvantage** on the attack roll.  
 You gain a flying speed of 60 feet. If you are still flying when the spell ends, you fall, unless you can somehow prevent it.  
 You can use your :rsc-action: **Action** to create a 15-foot cube of swirling wind centered on a point you can see within 60 feet of you. Each creature in that area must make a Constitution Saving Throw. A creature takes 2d10 bludgeoning damage on a failed save, or half as much damage on a successful one. If a Large or smaller creature fails the save, that creature is also pushed up to 10 feet away from the center of the cube.
 
 ### Magic Jar
-*6th-level necromancy*
+*6th-level Necromancy*
   
 **Casting Time:** 1 minute  
 **Range:** Self  
@@ -423,14 +423,14 @@ Once you possess a creature's body, you control it. Your game statistics are rep
 
 Meanwhile, the possessed creature's soul can perceive from the container using its own senses, but it can't move or take actions at all.
 
-While possessing a body, you can use your :rsc-action: **Action** to return from the host body to the container if it is within 100 feet of you, returning the host creature's soul to its body. If the host body dies while you're in it, the creature dies, and you must make a Charisma Saving Throw against your own spellcasting DC. On a success, you return to the container if it is within 100 feet of you. Otherwise, you die.
+While possessing a body, you can use your :rsc-action: **Action** to return from the host body to the container if it is within 100 feet of you, returning the host creature's soul to its body. If the host body dies while you're in it, the creature dies, and you must make a Charisma :d20-save: **Saving Throw** against your own spellcasting DC. On a success, you return to the container if it is within 100 feet of you. Otherwise, you die.
 
 If the container is destroyed or the spell ends, your soul immediately returns to your body. If your body is more than 100 feet away from you or if your body is dead when you attempt to return to it, you die. If another creature's soul is in the container when it is destroyed, the creature's soul returns to its body if the body is alive and within 100 feet. Otherwise, that creature dies.
 
 When the spell ends, the container is destroyed.
 
 ### Mass Suggestion
-*6th-level enchantment*
+*6th-level Enchantment*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -448,17 +448,17 @@ If you or any of your companions damage a creature affected by this spell, the s
 ***At Higher Levels.*** When you cast this spell using a 7th-level :rsc-spell-slot: **Spell Slot**, the duration is 10 days. When you use an 8th-level :rsc-spell-slot: **Spell Slot**, the duration is 30 days. When you use a 9th-level :rsc-spell-slot: **Spell Slot**, the duration is a year and a day.
 
 ### Mental Prison
-*6th-level illusion*
+*6th-level Illusion*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
 **Components:** S  
 **Duration:** Concentration, up to 1 minute
 
-You attempt to bind a creature within an illusory cell that only it perceives. One creature you can see within range must make an Intelligence Saving Throw. The target succeeds automatically if it is immune to being charmed. On a successful save, the target takes 5d10 psychic damage, and the spell ends. On a failed save, the target takes 5d10 psychic damage, and you make the area immediately around the target's space appear dangerous to it in some way. You might cause the target to perceive itself as being surrounded by fire, floating razors, or hideous maws filled with dripping teeth. Whatever form the illusion takes, the target can't see or hear anything beyond it and is restrained for the spell's duration. If the target is moved out of the illusion, makes a melee attack through it, or reaches any part of its body through it, the target takes 10d10 psychic damage, and the spell ends.
+You attempt to bind a creature within an illusory cell that only it perceives. One creature you can see within range must make an Intelligence Saving Throw. The target succeeds automatically if it is immune to being charmed. On a successful save, the target takes 5d10 psychic damage, and the spell ends. On a failed save, the target takes 5d10 psychic damage, and you make the area immediately around the target's space appear dangerous to it in some way. You might cause the target to perceive itself as being surrounded by fire, floating razors, or hideous maws filled with dripping teeth. Whatever form the Illusion takes, the target can't see or hear anything beyond it and is restrained for the spell's duration. If the target is moved out of the Illusion, makes a melee attack through it, or reaches any part of its body through it, the target takes 10d10 psychic damage, and the spell ends.
 
 ### Move Earth
-*6th-level transmutation*
+*6th-level Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 120 feet  
@@ -476,7 +476,7 @@ This spell can't manipulate natural stone or stone construction. Rocks and struc
 Similarly, this spell doesn't directly affect plant growth. The moved earth carries any plants along with it.
 
 ### Otiluke's Freezing Sphere
-*6th-level evocation*
+*6th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 300 feet  
@@ -492,7 +492,7 @@ You can refrain from firing the globe after completing the spell, if you wish. A
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 7th level or higher, the damage increases by 1d6 for each slot level above 6th.
 
 ### Otto's Irresistible Dance
-*6th-level enchantment*
+*6th-level Enchantment*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 30 feet  
@@ -501,10 +501,10 @@ You can refrain from firing the globe after completing the spell, if you wish. A
 
 Choose one creature that you can see within range. The target begins a comic dance in place: shuffling, tapping its feet, and capering for the duration. Creatures that can't be charmed are immune to this spell.
 
-A dancing creature must use all its movement to dance without leaving its space and has disadvantage on Dexterity Saving Throws and attack rolls. While the target is affected by this spell, other creatures have advantage on attack rolls against it. As an :rsc-action: **Action**, a dancing creature makes a Wisdom Saving Throw to regain control of itself. On a successful save, the spell ends.
+A dancing creature must use all its movement to dance without leaving its space and has :d20-disadv: **Disadvantage** on Dexterity :d20-save: **Saving Throws** and attack rolls. While the target is affected by this spell, other creatures have :d20-adv: **Advantage** on :d20-attack: **Attack Rolls** against it. As an :rsc-action: **Action**, a dancing creature makes a Wisdom :d20-save: **Saving Throw** to regain control of itself. On a successful save, the spell ends.
 
 ### Planar Ally
-*6th-level conjuration*
+*6th-level Conjuration*
   
 **Casting Time:** 10 minutes  
 **Range:** 60 feet  
@@ -524,7 +524,7 @@ After the creature completes the task, or when the agreed-upon duration of servi
 A creature enlisted to join your group counts as a member of it, receiving a full share of experience points awarded.
 
 ### Primordial Ward
-*6th-level abjuration*
+*6th-level Abjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self  
@@ -536,33 +536,33 @@ You have resistance to acid, cold, fire, lightning, and thunder damage for the s
 When you take damage of one of those types, you can use your :rsc-reaction: **Reaction** to gain immunity to that type of damage, including against the triggering damage. If you do so, the resistances end, and you have the immunity until the end of your next turn, at which time the spell ends.
 
 ### Programmed Illusion
-*6th-level illusion*
+*6th-level Illusion*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 120 feet  
 **Components:** V, S, M (a bit of fleece and jade dust worth at least 25 gp)  
 **Duration:** Until dispelled
 
-You create an illusion of an object, a creature, or some other visible phenomenon within range that activates when a specific condition occurs. The illusion is imperceptible until then. It must be no larger than a 30-foot cube, and you decide when you cast the spell how the illusion behaves and what sounds it makes. This scripted performance can last up to 5 minutes.
+You create an Illusion of an object, a creature, or some other visible phenomenon within range that activates when a specific condition occurs. The Illusion is imperceptible until then. It must be no larger than a 30-foot cube, and you decide when you cast the spell how the Illusion behaves and what sounds it makes. This scripted performance can last up to 5 minutes.
 
-When the condition you specify occurs, the illusion springs into existence and performs in the manner you described. Once the illusion finishes performing, it disappears and remains dormant for 10 minutes. After this time, the illusion can be activated again.
+When the condition you specify occurs, the Illusion springs into existence and performs in the manner you described. Once the Illusion finishes performing, it disappears and remains dormant for 10 minutes. After this time, the Illusion can be activated again.
 
-The triggering condition can be as general or as detailed as you like, though it must be based on visual or audible conditions that occur within 30 feet of the area. For example, you could create an illusion of yourself to appear and warn off others who attempt to open a trapped door, or you could set the illusion to trigger only when a creature says the correct word or phrase.
+The triggering condition can be as general or as detailed as you like, though it must be based on visual or audible conditions that occur within 30 feet of the area. For example, you could create an Illusion of yourself to appear and warn off others who attempt to open a trapped door, or you could set the Illusion to trigger only when a creature says the correct word or phrase.
 
-Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.
+Physical interaction with the image reveals it to be an Illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an Illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the Illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.
 
 ### Scatter
-*6th-level conjuration*
+*6th-level Conjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 30 feet  
 **Components:** V  
 **Duration:** Instantaneous
 
-The air quivers around up to five creatures of your choice that you can see within range. An unwilling creature must succeed on a Wisdom Saving Throw to resist this spell. You teleport each affected target to an unoccupied space that you can see within 120 feet of you. That space must be on the ground or on a floor.
+The air quivers around up to five creatures of your choice that you can see within range. An unwilling creature must succeed on a Wisdom :d20-save: **Saving Throw** to resist this spell. You teleport each affected target to an unoccupied space that you can see within 120 feet of you. That space must be on the ground or on a floor.
 
 ### Soul Cage
-*6th-level necromancy*
+*6th-level Necromancy*
   
 **Casting Time:** :rsc-reaction: **Reaction**, which you take when a humanoid you can see within 60 feet of you dies  
 **Range:** 60 feet  
@@ -575,14 +575,14 @@ This spell snatches the soul of a humanoid as it dies and traps it inside the ti
 
 ***Query Soul.*** You ask the soul a question (no action required) and receive a brief telepathic answer, which you can understand regardless of the language used. The soul knows only what it knew in life, but it must answer you truthfully and to the best of its ability. The answer is no more than a sentence or two and might be cryptic.
 
-***Borrow Experience.*** You can use a :rsc-bonus-action: **Bonus Action** to bolster yourself with the soul's life experience, making your next attack roll, ability check, or Saving Throw with advantage. If you don't use this benefit before the start of your next turn, it is lost.
+***Borrow Experience.*** You can use a :rsc-bonus-action: **Bonus Action** to bolster yourself with the soul's life experience, making your next attack roll, ability check, or :d20-save: **Saving Throw** with advantage. If you don't use this benefit before the start of your next turn, it is lost.
 
 ***Eyes of the Dead.*** You can use an :rsc-action: **Action** to name a place the humanoid saw in life, which creates an invisible sensor somewhere in that place if it is on the plane of existence you're currently on. The sensor remains for as long as you concentrate, up to 10 minutes (as if you were concentrating on a spell). You receive visual and auditory information from the sensor as if you were in its space using your senses.
 
 A creature that can see the sensor (such as one using *see invisibility* or truesight) sees a translucent image of the tormented humanoid whose soul you caged.
 
 ### Summon Fiend
-*6th-level conjuration*
+*6th-level Conjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 90 feet  
@@ -596,21 +596,21 @@ The creature is an ally to you and your companions. In combat, the creature shar
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 7th level or higher, use the higher level wherever the spell's level appears in the stat block.
 
 ### Sunbeam
-*6th-level evocation*
+*6th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self (60-foot line)  
 **Components:** V, S, M (a magnifying glass)  
 **Duration:** Concentration, up to 1 minute
 
-A beam of brilliant light flashes out from your hand in a 5-foot-wide, 60-foot-long line. Each creature in the line must make a Constitution Saving Throw. On a failed save, a creature takes 6d8 radiant damage and is blinded until your next turn. On a successful save, it takes half as much damage and isn't blinded by this spell. Undead and oozes have disadvantage on this Saving Throw.
+A beam of brilliant light flashes out from your hand in a 5-foot-wide, 60-foot-long line. Each creature in the line must make a Constitution Saving Throw. On a failed save, a creature takes 6d8 radiant damage and is blinded until your next turn. On a successful save, it takes half as much damage and isn't blinded by this spell. Undead and oozes have :d20-disadv: **Disadvantage** on this Saving Throw.
 
 You can create a new line of radiance as your :rsc-action: **Action** on any turn until the spell ends.
 
 For the duration, a mote of brilliant radiance shines in your hand. It sheds bright light in a 30-foot radius and dim light for an additional 30 feet. This light is sunlight.
 
 ### Tasha's Otherworldly Guise
-*6th-level transmutation*
+*6th-level Transmutation*
   
 **Casting Time:** :rsc-bonus-action: **Bonus Action**  
 **Range:** Self  
@@ -627,7 +627,7 @@ All your weapon attacks are magical, and when you make a weapon attack, you can 
 You can attack twice, instead of once, when you take the Attack action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that lets you attack more than once when you take the Attack action on your turn.
 
 ### Tenser's Transformation
-*6th-level transmutation*
+*6th-level Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self  
@@ -637,16 +637,16 @@ You can attack twice, instead of once, when you take the Attack action on your t
 You endow yourself with endurance and martial prowess fueled by magic. Until the spell ends, you can't cast spells, and you gain the following benefits:
   
 You gain 50 temporary Hit Points. If any of these remain when the spell ends, they are lost.  
-You have advantage on attack rolls that you make with simple and martial weapons.  
+You have :d20-adv: **Advantage** on :d20-attack: **Attack Rolls** that you make with simple and martial weapons.  
 When you hit a target with a weapon attack, that target takes an extra 2d12 force damage.  
 You have Proficiency with all armor, shields, simple weapons, and martial weapons.  
 You have Proficiency in Strength and Constitution Saving Throws.  
 You can attack twice, instead of once, when you take the Attack action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that gives you extra attacks.
 
-Immediately after the spell ends, you must succeed on a DC 15 Constitution Saving Throw or suffer one level of exhaustion.
+Immediately after the spell ends, you must succeed on a DC 15 Constitution :d20-save: **Saving Throw** or suffer one level of exhaustion.
 
 ### Transport via Plants
-*6th-level conjuration*
+*6th-level Conjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 10 feet  
@@ -656,7 +656,7 @@ Immediately after the spell ends, you must succeed on a DC 15 Constitution Savin
 This spell creates a magical link between a Large or larger inanimate plant within range and another plant, at any distance, on the same plane of existence. You must have seen or touched the destination plant at least once before. For the duration, any creature can step into the target plant and exit from the destination plant by using 5 feet of movement.
 
 ### True Seeing
-*6th-level divination*
+*6th-level Divination*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Touch  
@@ -666,7 +666,7 @@ This spell creates a magical link between a Large or larger inanimate plant with
 This spell gives the willing creature you touch the ability to see things as they actually are. For the duration, the creature has truesight, notices secret doors hidden by magic, and can see into the Ethereal Plane, all out to a range of 120 feet.
 
 ### Wall of Ice
-*6th-level evocation*
+*6th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 120 feet  
@@ -682,7 +682,7 @@ The wall is an object that can be damaged and thus breached. It has AC 12 and 30
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 7th level or higher, the damage the wall deals when it appears increases by 2d6, and the damage from passing through the sheet of frigid air increases by 1d6, for each slot level above 6th.
 
 ### Wall of Thorns
-*6th-level conjuration*
+*6th-level Conjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 120 feet  
@@ -698,7 +698,7 @@ A creature can move through the wall, albeit slowly and painfully. For every 1 f
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 7th level or higher, both types of damage increase by 1d8 for each slot level above 6th.
 
 ### Wind Walk
-*6th-level transmutation*
+*6th-level Transmutation*
   
 **Casting Time:** 1 minute  
 **Range:** 30 feet  
@@ -710,7 +710,7 @@ You and up to ten willing creatures you can see within range assume a gaseous fo
 If a creature is in cloud form and flying when the effect ends, the creature descends 60 feet per round for 1 minute until it lands, which it does safely. If it can't land after 1 minute, the creature falls the remaining distance.
 
 ### Word of Recall
-*6th-level conjuration*
+*6th-level Conjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 5 feet  
@@ -722,7 +722,7 @@ You and up to five willing creatures within 5 feet of you instantly teleport to 
 You must designate a sanctuary by casting this spell within a location, such as a temple, dedicated to or strongly linked to your deity. If you attempt to cast the spell in this manner in an area that isn't dedicated to your deity, the spell has no effect.
 
 ### Gravity Fissure
-*6th-level evocation*
+*6th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**    
 **Range:** Self (100-foot line)  
@@ -731,7 +731,7 @@ You must designate a sanctuary by casting this spell within a location, such as 
 
 You manifest a ravine of gravitational energy in a line originating from you that is 100 feet long and 5 feet wide. Each creature in that line must make a Constitution Saving Throw, taking 8d8 force damage on a failed save, or half as much damage on a successful one.
 
-Each creature within 10 feet of the line but not in it must succeed on a Constitution Saving Throw or take 8d8 force damage and be pulled toward the line until the creature is in its area.
+Each creature within 10 feet of the line but not in it must succeed on a Constitution :d20-save: **Saving Throw** or take 8d8 force damage and be pulled toward the line until the creature is in its area.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 7th level or higher, the damage increases by 1d8 for each slot level above 6th.
 

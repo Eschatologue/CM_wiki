@@ -37,7 +37,7 @@ When you sense magic in this way, as an :rsc-action: **Action**, you can focus y
 - If you focus on an object, you instantly learn the school (or schools) of magic that was used to enchant it, if any.
 - If you focus on a creature, you learn its spellcasting ability, if any, and the level of the highest level spell it can cast.
 
-If the object or creature is hidden from divination magic, such as a *nondetection* spell, it appears as if it is mundane or it cannot cast spells.
+If the object or creature is hidden from Divination magic, such as a *nondetection* spell, it appears as if it is mundane or it cannot cast spells.
 
 You can use this feature a number of times equal to your Proficiency Bonus before needing a long rest.
 
@@ -82,7 +82,7 @@ You brandish your weapon when you cast spells; any melee weapon that has the :we
 
 ### Spellcasting Ability
 
-**Charisma** is your spellcasting ability for your spells, since your magic is innate. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the Saving Throw DC for a spell you cast and when making an attack roll with one.
+**Charisma** is your spellcasting ability for your spells, since your magic is innate. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the :d20-save: **Saving Throw** DC for a spell you cast and when making an :d20-attack: **Attack Roll** with one.
 
 - :d20-save: **Spell Save DC** = 8 + your Proficiency Bonus + your Charisma modifier.
 - :d20-attack: **Spell Attack Modifier** = your Proficiency Bonus + your Charisma modifier.
@@ -176,6 +176,8 @@ Spells marked with ^DS^ means that the spell fufill the prerequisites to be chan
       - [Gift of Alacrity]
       - [Grease]^DS^
       - [Ice Knife]^DS^
+      - [Jump]
+      - [Longstrider]
       - [Shield]
       - [Thunderwave]^DS^
       - [Zephyr Strike]
@@ -188,7 +190,7 @@ Spells marked with ^DS^ means that the spell fufill the prerequisites to be chan
       - [Darkvision]
       - [Enhance Ability]
       - [Enlarge/Reduce]^DS^
-      - [Eschatologue's Steel Wind Strike]
+      - [Esch's Steel Wind Strike]
       - [Gust of Wind]^DS^
       - [Hold Person]^DS^
       - [Magic Weapon]
@@ -198,6 +200,7 @@ Spells marked with ^DS^ means that the spell fufill the prerequisites to be chan
       - [Ray of Enfeeblement]^DS^
       - [Shatter]^DS^
       - [Silence]
+      - [Spray of Cards]
       - [Zone of Truth]
 
 === ":spell-level-3:{ .xl .middle } **3rd-level Spell**"
@@ -225,7 +228,7 @@ Spells marked with ^DS^ means that the spell fufill the prerequisites to be chan
 [Green-Flame Blade]: ../../spells/cantrip.md#green-flame-blade
 [Light]: ../../spells/cantrip.md#light
 [Mage Hand]: ../../spells/cantrip.md#mage-hand
-[Minor Illusion]: ../../spells/cantrip.md#minor-illusion
+[Minor Illusion]: ../../spells/cantrip.md#minor-Illusion
 [Poison Spray]: ../../spells/cantrip.md#poison-spray
 [Prestidigitation]: ../../spells/cantrip.md#prestidigitation
 [Ray of Frost]: ../../spells/cantrip.md#ray-of-frost
@@ -245,6 +248,8 @@ Spells marked with ^DS^ means that the spell fufill the prerequisites to be chan
 [Grease]: ../../spells/1st-level.md#grease
 [Hunter's Mark]: ../../spells/1st-level.md#hunters-mark
 [Ice Knife]: ../../spells/1st-level.md#ice-knife
+[Jump]: ../../spells/1st-level.md#jump
+[Longstrider]: ../../spells/1st-level.md#longstrider
 [Shield]: ../../spells/1st-level.md#shield
 [Thunderwave]: ../../spells/1st-level.md#thunderwave
 [Zephyr Strike]: ../../spells/1st-level.md#zephyr-strike
@@ -255,7 +260,7 @@ Spells marked with ^DS^ means that the spell fufill the prerequisites to be chan
 [Darkvision]: ../../spells/2nd-level.md#darkvision
 [Enhance Ability]: ../../spells/2nd-level.md#enhance-ability
 [Enlarge/Reduce]: ../../spells/2nd-level.md#enlargereduce
-[Eschatologue's Steel Wind Strike]: ../../spells/2nd-level.md#eschatologues-steel-wind-strike
+[Esch's Steel Wind Strike]: ../../spells/2nd-level.md#eschatologues-steel-wind-strike
 [Gust of Wind]: ../../spells/2nd-level.md#gust-of-wind 
 [Hold Person]: ../../spells/2nd-level.md#hold-person 
 [Magic Weapon]: ../../spells/2nd-level.md#magic-weapon
@@ -265,6 +270,7 @@ Spells marked with ^DS^ means that the spell fufill the prerequisites to be chan
 [Ray of Enfeeblement]: ../../spells/2nd-level.md#ray-of-enfeeblement 
 [Shatter]: ../../spells/2nd-level.md#shatter 
 [Silence]: ../../spells/2nd-level.md#silence
+[Spray of Cards]: ../../spells/2nd-level.md#spray-of-cards
 [Zone of Truth]: ../../spells/2nd-level.md#zone-of-truth
 
 [Ashardalon's Stride]: ../../spells/3rd-level.md#ashardalons-stride

@@ -21,7 +21,7 @@ Armour protects its wearer from attacks. The armour (and shield) you wear determ
 
 ### Stealth
 
-If the Armour table shows "Disadvantage" in the Stealth column, the wearer has disadvantage on Dexterity (Stealth) checks.
+If the Armour table shows "Disadvantage" in the Stealth column, the wearer has :d20-disadv: **Disadvantage** on Dexterity (Stealth) checks.
 
 ## Armour Types
 

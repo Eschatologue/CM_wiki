@@ -64,7 +64,7 @@ At your DM's discretion, you may make other objects with effects similar in powe
 ### Deep Gnome
 
 :dnd-action-hide:{ .lg .middle } **Stone Camouflage**  
-&ensp;&ensp;&ensp; You have advantage on Dexterity (Stealth) checks to hide in rocky terrain.
+&ensp;&ensp;&ensp; You have :d20-adv: **Advantage** on Dexterity (Stealth) checks to hide in rocky terrain.
 
 :dnd-trait-darkvision-super:{ .lg .middle } **Superior Darkvision**  
 &ensp;&ensp;&ensp; Your darkvision has a range of 120 ft., instead of 60 ft.

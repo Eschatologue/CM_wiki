@@ -58,7 +58,7 @@ For every :d20-check:**Ability Check**, the DM decides which of the six abilitie
 
 #### :d20-save:{ .lg } Saving Throws
   
-Traps, spells, conditions, and other sources of harm may allow a creature a chance to avoid or reduce their effect, known as a Saving Throw or save. To attempt a save, a creature rolls a d20 against a target Save [DC].
+Traps, spells, conditions, and other sources of harm may allow a creature a chance to avoid or reduce their effect, known as a :d20-save: **Saving Throw** or save. To attempt a save, a creature rolls a d20 against a target Save [DC].
 
 !!! quote ""
 
@@ -66,9 +66,9 @@ Traps, spells, conditions, and other sources of harm may allow a creature a chan
 
 ### Natural 1s and 20s
 
-Rolling a 1 or 20 on a d20 roll is referred to as a natural 1 or natural 20. When making an attack roll or ability check, rolling a natural 1 is always an automatic failure, while a natural 20 is always an automatic success, regardless of the final result after modifiers are applied. Saving throws attempted during social encounters, and death Saving Throws, can also roll natural 1s and 20s.
+Rolling a 1 or 20 on a d20 roll is referred to as a natural 1 or natural 20. When making an :d20-attack: **Attack Roll** or ability check, rolling a natural 1 is always an automatic failure, while a natural 20 is always an automatic success, regardless of the final result after modifiers are applied. :d20-save: **Saving Throws** attempted during social encounters, and death Saving Throws, can also roll natural 1s and 20s.
 
-### Advantage & Disadvantage
+### :d20-adv: **Advantage** & Disadvantage
 
 A number of situations and conditions give creatures :d20-adv: **Advantage** or :d20-disadv: **Disadvantage** on d20 rolls.
 
@@ -78,7 +78,7 @@ When multiple instances of :d20-adv: **Advantage** or :d20-disadv: **Disadvantag
 
 ### Difficulty Class
 
-A Difficulty Class (or DC) is a number rolled against when making ability checks or Saving Throws. It represents how difficult a task is to accomplish. The number is determined by the the task attempted – or in the case of saves – the spell, condition, or action that has to be overcome.
+A Difficulty Class (or DC) is a number rolled against when making :d20-check: **Ability Checks** or Saving Throws. It represents how difficult a task is to accomplish. The number is determined by the the task attempted – or in the case of saves – the spell, condition, or action that has to be overcome.
 
 | Task Difficulty | DC |
 | --- | :-: |
@@ -93,7 +93,7 @@ A Difficulty Class (or DC) is a number rolled against when making ability checks
 
 Ability Checks are usually made using a specified skill. Skills are specific areas of expertise, each associated with an ability, that characters can be proficient in.
 
-Characters add their Proficiency Bonus to any ability checks they make using skills they are proficient in.
+Characters add their Proficiency Bonus to any :d20-check: **Ability Checks** they make using skills they are proficient in.
 
 | | | ABILITIES |  | |
 |:---:|:---:|:---:|:---:|:---:|
@@ -133,7 +133,7 @@ Characters add their Proficiency Bonus to any ability checks they make using ski
 
 All characters gain Proficiency in multiple skills depending on their chosen background during character creation, and can choose 2-4 more skills to be proficient in from a list of skills determined by their class.
 
-Additionally, some races, subclasses, and feats also give Proficiency in specific skills, and bards receive the class feature Jack of All Trades at level 2, allowing them to add half their Proficiency Bonus (rounded down) to ability checks they make using skills they are not proficient in.
+Additionally, some races, subclasses, and feats also give Proficiency in specific skills, and bards receive the class feature Jack of All Trades at level 2, allowing them to add half their Proficiency Bonus (rounded down) to :d20-check: **Ability Checks** they make using skills they are not proficient in.
 
 Proficiency does not stack – there's no benefit to having multiple sources of Proficiency for a skill.
 
@@ -150,13 +150,13 @@ Sources of expertise that require prior Proficiency in the respective skill incl
 
 Sometimes one character's or monster's efforts are directly opposed to another's. This can occur when both of them are trying to do the same thing and only one can succeed, such as attempting to snatch up a magic ring that has fallen to the floor. This situation also applies when one of them is trying to prevent the other one from accomplishing a goal—for example, when a monster tries to force open a door that an adventurer is holding closed. In situations like these, the outcome is determined by a special form of ability check, called a contest.
 
-Both participants in a contest make ability checks appropriate to their efforts. They apply all appropriate bonuses and penalties, but instead of comparing the total to a DC, they compare the totals of their two checks. The participant with the higher check total wins the contest. That character or monster either succeeds at the action or prevents the other one from succeeding.
+Both participants in a contest make :d20-check: **Ability Checks** appropriate to their efforts. They apply all appropriate bonuses and penalties, but instead of comparing the total to a DC, they compare the totals of their two checks. The participant with the higher check total wins the contest. That character or monster either succeeds at the action or prevents the other one from succeeding.
 
 If the contest results in a tie, the situation remains the same as it was before the contest. Thus, one contestant might win the contest by default. If two characters tie in a contest to snatch a ring off the floor, neither character grabs it. In a contest between a monster trying to open a door and an adventurer trying to keep the door closed, a tie means that the door remains shut.
 
 ### Passive Checks
 
-A passive check is a special kind of ability check that doesn't involve any die rolls. Such a check can represent the average result for a task done repeatedly, such as searching for secret doors over and over again, or can be used when the DM wants to secretly determine whether the characters succeed at something without rolling dice, such as noticing a hidden monster.
+A passive check is a special kind of :d20-check: **Ability Check** that doesn't involve any die rolls. Such a check can represent the average result for a task done repeatedly, such as searching for secret doors over and over again, or can be used when the DM wants to secretly determine whether the characters succeed at something without rolling dice, such as noticing a hidden monster.
 
 Here's how to determine a character's total for a passive check:
 
@@ -172,7 +172,7 @@ The rules on hiding in the "Dexterity" also rely on passive checks.
 
 ### Working Together
 
-Sometimes two or more characters team up to attempt a task. The character who's leading the effort—or the one with the highest ability modifier—can make an ability check with advantage, reflecting the help provided by the other characters. In combat, this requires the Help action (see chapter 9).
+Sometimes two or more characters team up to attempt a task. The character who's leading the effort—or the one with the highest ability modifier—can make an :d20-check: **Ability Check** with advantage, reflecting the help provided by the other characters. In combat, this requires the Help action (see chapter 9).
 
 A character can only provide help if the task is one that he or she could attempt alone. For example, trying to open a lock requires Proficiency with thieves' tools, so a character who lacks that Proficiency can't help another character in that task. Moreover, a character can help only when two or more individuals working together would actually be productive. Some tasks, such as threading a needle, are no easier with help.
 

@@ -20,7 +20,7 @@ You learn how to push yourself beyond your normal limits.
 **Prerequisites:** Expert Group or [Artificer Initiate](feat-starting.md#artificer-initiate) Feat  
 **Repeatable:** No
 
-Through your repeated exposure to the natural flow of arcane magic throughout your world and beyond, you’ve adapted to attune with additional enchantments, though the process can be physically taxing. You gain the following benefits:
+Through your repeated exposure to the natural flow of arcane magic throughout your world and beyond, you’ve adapted to attune with additional Enchantments, though the process can be physically taxing. You gain the following benefits:
 
 - **Experienced**
     

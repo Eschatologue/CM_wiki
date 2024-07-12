@@ -17,7 +17,7 @@
 You are distantly related to a particular kind of Aeginae. Each ancestry provides a damage resistance and a Breath Weapon, which shares the same range and area of effects but different element and Saving Throws, all breath weapon also increases in damage at certain levels.
 
 ##### Saving Throws
-:   The Saving Throw for your Breath Weapon is calculated as `8 + Constitution Modifier + Proficiency Bonus`
+:   The :d20-save: **Saving Throw** for your Breath Weapon is calculated as `8 + Constitution Modifier + Proficiency Bonus`
 
 ##### Breath Weapon Damage
 The damage of your Breath Weapon increases with your character level:

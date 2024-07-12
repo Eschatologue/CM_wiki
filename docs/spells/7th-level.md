@@ -3,7 +3,7 @@ icon: spell/level-7
 ---
 
 ### Conjure Celestial
-*7th-level conjuration*
+*7th-level Conjuration*
   
 **Casting Time:** 1 minute  
 **Range:** 90 feet  
@@ -19,7 +19,7 @@ The DM has **the celestial**'s statistics.
 ***At Higher Levels.*** When you cast this spell using a 9th-level :rsc-spell-slot: **Spell Slot**, you summon a celestial of challenge rating 5 or lower.
 
 ### Create Magen
-*7th-level transmutation*
+*7th-level Transmutation*
   
 **Casting Time:** 1 hour  
 **Range:** Touch  
@@ -33,7 +33,7 @@ When the magen appears, your Hit Point maximum decreases by an amount equal to t
 Any magen you create with this spell obeys your commands without question.
 
 ### Crown of Stars
-*7th-level evocation*
+*7th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self  
@@ -47,7 +47,7 @@ If you have four or more motes remaining, they shed bright light in a 30-foot ra
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 8th level or higher, the number of motes created increases by two for each slot level above 7th.
 
 ### Delayed Blast Fireball
-*7th-level evocation*
+*7th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 150 feet  
@@ -65,7 +65,7 @@ The fire damages objects in the area and ignites flammable objects that aren't b
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 8th level or higher, the base damage increases by 1d6 for each slot level above 7th.
 
 ### Divine Word
-*7th-level evocation*
+*7th-level Evocation*
   
 **Casting Time:** :rsc-bonus-action: **Bonus Action**  
 **Range:** 30 feet  
@@ -82,7 +82,7 @@ You utter a divine word, imbued with the power that shaped the world at the dawn
 Regardless of its current Hit Points, a celestial, an elemental, a fey, or a fiend that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to your current plane for 24 hours by any means short of a *wish* spell.
 
 ### Draconic Transformation
-*7th-level transmutation*
+*7th-level Transmutation*
   
 **Casting Time:** :rsc-bonus-action: **Bonus Action**  
 **Range:** Self  
@@ -96,7 +96,7 @@ With a roar, you draw on the magic of dragons to transform yourself, taking on d
 **Wings.** Incorporeal wings sprout from your back, giving you a flying speed of 60 feet.
 
 ### Dream of the Blue Veil
-*7th-level conjuration*
+*7th-level Conjuration*
   
 **Casting Time:** 10 minutes  
 **Range:** 20 feet  
@@ -110,7 +110,7 @@ To cast this spell, you must have a magic item that originated on the world you 
 The spell ends early on a creature if that creature takes any damage, and the creature isn't transported. If you take any damage, the spell ends for you and all the other creatures, with none of you being transported.
 
 ### Etherealness
-*7th-level transmutation*
+*7th-level Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self  
@@ -130,7 +130,7 @@ This spell has no effect if you cast it while you are on the Ethereal Plane or a
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 8th level or higher, you can target up to three willing creatures (including you) for each slot level above 7th. The creatures must be within 10 feet of you when you cast the spell.
 
 ### Finger of Death
-*7th-level necromancy*
+*7th-level Necromancy*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -142,7 +142,7 @@ You send negative energy coursing through a creature that you can see within ran
 A humanoid killed by this spell rises at the start of your next turn as a **zombie** that is permanently under your command, following your verbal orders to the best of its ability.
 
 ### Fire Storm
-*7th-level evocation*
+*7th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 150 feet  
@@ -154,7 +154,7 @@ A storm made up of sheets of roaring flame appears in a location you choose with
 The fire damages objects in the area and ignites flammable objects that aren't being worn or carried. If you choose, plant life in the area is unaffected by this spell.
 
 ### Forcecage
-*7th-level evocation*
+*7th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 100 feet  
@@ -174,7 +174,7 @@ A creature inside the cage can't leave it by nonmagical means. If the creature t
 This spell can't be dispelled by *dispel magic*.
 
 ### Mirage Arcane
-*7th-level illusion*
+*7th-level Illusion*
   
 **Casting Time:** 10 minutes  
 **Range:** Sight  
@@ -185,12 +185,12 @@ You make terrain in an area up to 1 mile square look, sound, smell, and even fee
 
 Similarly, you can alter the appearance of structures, or add them where none are present. The spell doesn't disguise, conceal, or add creatures.
 
-The illusion includes audible, visual, tactile, and olfactory elements, so it can turn clear ground into difficult terrain (or vice versa) or otherwise impede movement through the area. Any piece of the illusory terrain (such as a rock or stick) that is removed from the spell's area disappears immediately.
+The Illusion includes audible, visual, tactile, and olfactory elements, so it can turn clear ground into difficult terrain (or vice versa) or otherwise impede movement through the area. Any piece of the illusory terrain (such as a rock or stick) that is removed from the spell's area disappears immediately.
 
-Creatures with truesight can see through the illusion to the terrain's true form; however, all other elements of the illusion remain, so while the creature is aware of the illusion's presence, the creature can still physically interact with the illusion.
+Creatures with truesight can see through the Illusion to the terrain's true form; however, all other elements of the Illusion remain, so while the creature is aware of the Illusion's presence, the creature can still physically interact with the Illusion.
 
 ### Mordenkainen's Magnificent Mansion
-*7th-level conjuration*
+*7th-level Conjuration*
   
 **Casting Time:** 1 minute  
 **Range:** 300 feet  
@@ -204,7 +204,7 @@ Beyond the portal is a magnificent foyer with numerous chambers beyond. The atmo
 You can create any floor plan you like, but the space can't exceed 50 cubes, each cube being 10 feet on each side. The place is furnished and decorated as you choose. It contains sufficient food to serve a nine course banquet for up to 100 people. A staff of 100 near-transparent servants attends all who enter. You decide the visual appearance of these servants and their attire. They are completely obedient to your orders. Each servant can perform any task a normal human servant could perform, but they can't attack or take any action that would directly harm another creature. Thus the servants can fetch things, clean, mend, fold clothes, light fires, serve food, pour wine, and so on. The servants can go anywhere in the mansion but can't leave it. Furnishings and other objects created by this spell dissipate into smoke if removed from the mansion. When the spell ends, any creatures or objects left inside the extradimensional space are expelled into the open spaces nearest to the entrance.
 
 ### Mordenkainen's Sword
-*7th-level evocation*
+*7th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -216,7 +216,7 @@ You create a sword-shaped plane of force that hovers within range. It lasts for 
 When the sword appears, you make a melee spell attack against a target of your choice within 5 feet of the sword. On a hit, the target takes 3d10 force damage. Until the spell ends, you can use a :rsc-bonus-action: **Bonus Action** on each of your turns to move the sword up to 20 feet to a spot you can see and repeat this attack against the same target or a different one.
 
 ### Plane Shift
-*7th-level conjuration*
+*7th-level Conjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Touch  
@@ -230,7 +230,7 @@ Alternatively, if you know the sigil sequence of a teleportation circle on anoth
 You can use this spell to banish an unwilling creature to another plane. Choose a creature within your reach and make a melee spell attack against it. On a hit, the creature must make a Charisma Saving Throw. If the creature fails this save, it is transported to a random location on the plane of existence you specify. A creature so transported must find its own way back to your current plane of existence.
 
 ### Power Word Pain
-*7th-level enchantment*
+*7th-level Enchantment*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -239,12 +239,12 @@ You can use this spell to banish an unwilling creature to another plane. Choose 
 
 You speak a word of power that causes waves of intense pain to assail one creature you can see within range. If the target has 100 Hit Points or fewer, it is subject to crippling pain. Otherwise, the spell has no effect on it. A target is also unaffected if it is immune to being charmed.
 
-While the target is affected by crippling pain, any speed it has can be no higher than 10 feet. The target also has disadvantage on attack rolls, ability checks, and Saving Throws, other than Constitution Saving Throws. Finally, if the target tries to cast a spell, it must first succeed on a Constitution Saving Throw, or the casting fails and the spell is wasted.
+While the target is affected by crippling pain, any speed it has can be no higher than 10 feet. The target also has :d20-disadv: **Disadvantage** on attack rolls, ability checks, and Saving Throws, other than Constitution Saving Throws. Finally, if the target tries to cast a spell, it must first succeed on a Constitution Saving Throw, or the casting fails and the spell is wasted.
 
-A target suffering this pain can make a Constitution Saving Throw at the end of each of its turns. On a successful save, the pain ends.
+A target suffering this pain can make a Constitution :d20-save: **Saving Throw** at the end of each of its turns. On a successful save, the pain ends.
 
 ### Prismatic Spray
-*7th-level evocation*
+*7th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self (60-foot cone)  
@@ -263,30 +263,30 @@ Eight multicolored rays of light flash from your hand. Each ray is a different c
 
 ***5-Blue.*** The target takes 10d6 cold damage on a failed save, or half as much damage on a successful one.
 
-***6-Indigo.*** On a failed save, the target is restrained. It must then make a Constitution Saving Throw at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the petrified condition. The successes and failures don't need to be consecutive, keep track of both until the target collects three of a kind.
+***6-Indigo.*** On a failed save, the target is restrained. It must then make a Constitution :d20-save: **Saving Throw** at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the petrified condition. The successes and failures don't need to be consecutive, keep track of both until the target collects three of a kind.
 
-***7-Violet.*** On a failed save, the target is blinded. It must then make a Wisdom Saving Throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of existence of the DM's choosing and is no longer blinded. (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.)
+***7-Violet.*** On a failed save, the target is blinded. It must then make a Wisdom :d20-save: **Saving Throw** at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of existence of the DM's choosing and is no longer blinded. (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.)
 
 ***8-Special.*** The target is struck by two rays. Roll twice more, rerolling any 8.
 
 ### Project Image
-*7th-level illusion*
+*7th-level Illusion*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 500 miles  
 **Components:** V, S, M (a small replica of you made from materials worth at least 5 gp)  
 **Duration:** Concentration, up to 1 day
 
-You create an illusory copy of yourself that lasts for the duration. The copy can appear at any location within range that you have seen before, regardless of intervening obstacles. The illusion looks and sounds like you but is intangible. If the illusion takes any damage, it disappears, and the spell ends.
+You create an illusory copy of yourself that lasts for the duration. The copy can appear at any location within range that you have seen before, regardless of intervening obstacles. The Illusion looks and sounds like you but is intangible. If the Illusion takes any damage, it disappears, and the spell ends.
 
-You can use your :rsc-action: **Action** to move this illusion up to twice your speed, and make it gesture, speak, and behave in whatever way you choose. It mimics your mannerisms perfectly.
+You can use your :rsc-action: **Action** to move this Illusion up to twice your speed, and make it gesture, speak, and behave in whatever way you choose. It mimics your mannerisms perfectly.
 
 You can see through its eyes and hear through its ears as if you were in its space. On your turn as a :rsc-bonus-action: **Bonus Action**, you can switch from using its senses to using your own, or back again. While you are using its senses, you are blinded and deafened in regard to your own surroundings.
 
-Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.
+Physical interaction with the image reveals it to be an Illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an Illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the Illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.
 
 ### Regenerate
-*7th-level transmutation*
+*7th-level Transmutation*
   
 **Casting Time:** 1 minute  
 **Range:** Touch  
@@ -298,7 +298,7 @@ You touch a creature and stimulate its natural healing ability. The target regai
 The target's severed body members (fingers, legs, tails, and so on), if any, are restored after 2 minutes. If you have the severed part and hold it to the stump, the spell instantaneously causes the limb to knit to the stump.
 
 ### Resurrection
-*7th-level necromancy*
+*7th-level Necromancy*
   
 **Casting Time:** 1 hour  
 **Range:** Touch  
@@ -313,45 +313,45 @@ This spell closes all mortal wounds and restores any missing body parts.
 
 Coming back from the dead is an ordeal. The target takes a −4 penalty to all attack rolls, Saving Throws, and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.
 
-Casting this spell to restore life to a creature that has been dead for one year or longer taxes you greatly. Until you finish a long rest, you can't cast spells again, and you have disadvantage on all attack rolls, ability checks, and Saving Throws.
+Casting this spell to restore life to a creature that has been dead for one year or longer taxes you greatly. Until you finish a long rest, you can't cast spells again, and you have :d20-disadv: **Disadvantage** on all attack rolls, ability checks, and Saving Throws.
 
 ### Reverse Gravity
-*7th-level transmutation*
+*7th-level Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 100 feet  
 **Components:** V, S, M (a lodestone and iron filings)  
 **Duration:** Concentration, up to 1 minute
 
-This spell reverses gravity in a 50-foot-radius, 100-foot-high cylinder centered on a point within range. All creatures and objects that aren't somehow anchored to the ground in the area fall upward and reach the top of the area when you cast this spell. A creature can make a Dexterity Saving Throw to grab onto a fixed object it can reach, thus avoiding the fall.
+This spell reverses gravity in a 50-foot-radius, 100-foot-high cylinder centered on a point within range. All creatures and objects that aren't somehow anchored to the ground in the area fall upward and reach the top of the area when you cast this spell. A creature can make a Dexterity :d20-save: **Saving Throw** to grab onto a fixed object it can reach, thus avoiding the fall.
 
 If some solid object (such as a ceiling) is encountered in this fall, falling objects and creatures strike it just as they would during a normal downward fall. If an object or creature reaches the top of the area without striking anything, it remains there, oscillating slightly, for the duration.
 
 At the end of the duration, affected objects and creatures fall back down.
 
 ### Sequester
-*7th-level transmutation*
+*7th-level Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Touch  
 **Components:** V, S, M (a powder composed of diamond, emerald, ruby, and sapphire dust worth at least 5,000 gp, which the spell consumes)  
 **Duration:** Until dispelled
 
-By means of this spell, a willing creature or an object can be hidden away, safe from detection for the duration. When you cast the spell and touch the target, it becomes invisible and can't be targeted by divination spells or perceived through scrying sensors created by divination spells.
+By means of this spell, a willing creature or an object can be hidden away, safe from detection for the duration. When you cast the spell and touch the target, it becomes invisible and can't be targeted by Divination spells or perceived through scrying sensors created by Divination spells.
 
 If the target is a creature, it falls into a state of suspended animation. Time ceases to flow for it, and it doesn't grow older.
 
 You can set a condition for the spell to end early. The condition can be anything you choose, but it must occur or be visible within 1 mile of the target. Examples include "after 1,000 years" or "when the **tarrasque** awakens." This spell also ends if the target takes any damage.
 
 ### Simulacrum
-*7th-level illusion*
+*7th-level Illusion*
   
 **Casting Time:** 12 hours  
 **Range:** Touch  
 **Components:** V, S, M (snow or ice in quantities sufficient to make a life-size copy of the duplicated creature; some hair, fingernail clippings, or other piece of that creature's body placed inside the snow or ice; and powdered ruby worth 1,500 gp, sprinkled over the duplicate and consumed by the spell)  
 **Duration:** Until dispelled
 
-You shape an illusory duplicate of one beast or humanoid that is within range for the entire casting time of the spell. The duplicate is a creature, partially real and formed from ice or snow, and it can take actions and otherwise be affected as a normal creature. It appears to be the same as the original, but it has half the creature's Hit Point maximum and is formed without any equipment. Otherwise, the illusion uses all the statistics of the creature it duplicates, except that it is a construct.
+You shape an illusory duplicate of one beast or humanoid that is within range for the entire casting time of the spell. The duplicate is a creature, partially real and formed from ice or snow, and it can take actions and otherwise be affected as a normal creature. It appears to be the same as the original, but it has half the creature's Hit Point maximum and is formed without any equipment. Otherwise, the Illusion uses all the statistics of the creature it duplicates, except that it is a construct.
 
 The simulacrum is friendly to you and creatures you designate. It obeys your spoken commands, moving and acting in accordance with your wishes and acting on your turn in combat. The simulacrum lacks the ability to learn or become more powerful, so it never increases its level or other abilities, nor can it regain expended :rsc-spell-slot: **Spell Slot**s.
 
@@ -360,7 +360,7 @@ If the simulacrum is damaged, you can repair it in an alchemical laboratory, usi
 If you cast this spell again, any currently active duplicates you created with this spell are instantly destroyed.
 
 ### Symbol
-*7th-level abjuration*
+*7th-level Abjuration*
   
 **Casting Time:** 1 minute  
 **Range:** Touch  
@@ -379,22 +379,22 @@ When you inscribe the glyph, choose one of the options below for its effect. Onc
 
 ***Death.*** Each target must make a Constitution Saving Throw, taking 10d10 necrotic damage on a failed save, or half as much damage on a successful save.
 
-***Discord.*** Each target must make a Constitution Saving Throw. On a failed save, a target bickers and argues with other creatures for 1 minute. During this time, it is incapable of meaningful communication and has disadvantage on attack rolls and ability checks.
+***Discord.*** Each target must make a Constitution Saving Throw. On a failed save, a target bickers and argues with other creatures for 1 minute. During this time, it is incapable of meaningful communication and has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** and ability checks.
 
-***Fear.*** Each target must make a Wisdom Saving Throw and becomes frightened for 1 minute on a failed save. While frightened, the target drops whatever it is holding and must move at least 30 feet away from the glyph on each of its turns, if able.
+***Fear.*** Each target must make a Wisdom :d20-save: **Saving Throw** and becomes frightened for 1 minute on a failed save. While frightened, the target drops whatever it is holding and must move at least 30 feet away from the glyph on each of its turns, if able.
 
 ***Hopelessness.*** Each target must make a Charisma Saving Throw. On a failed save, the target is overwhelmed with despair for 1 minute. During this time, it can't attack or target any creature with harmful abilities, spells, or other magical effects.
 
 ***Insanity.*** Each target must make an Intelligence Saving Throw. On a failed save, the target is driven insane for 1 minute. An insane creature can't take actions, can't understand what other creatures say, can't read, and speaks only in gibberish. The DM controls its movement, which is erratic.
 
-***Pain.*** Each target must make a Constitution Saving Throw and becomes incapacitated with excruciating pain for 1 minute on a failed save.
+***Pain.*** Each target must make a Constitution :d20-save: **Saving Throw** and becomes incapacitated with excruciating pain for 1 minute on a failed save.
 
-***Sleep.*** Each target must make a Wisdom Saving Throw and falls unconscious for 10 minutes on a failed save. A creature awakens if it takes damage or if someone uses an :rsc-action: **Action** to shake or slap it awake.
+***Sleep.*** Each target must make a Wisdom :d20-save: **Saving Throw** and falls unconscious for 10 minutes on a failed save. A creature awakens if it takes damage or if someone uses an :rsc-action: **Action** to shake or slap it awake.
 
-***Stunning.*** Each target must make a Wisdom Saving Throw and becomes stunned for 1 minute on a failed save.
+***Stunning.*** Each target must make a Wisdom :d20-save: **Saving Throw** and becomes stunned for 1 minute on a failed save.
 
 ### Teleport
-*7th-level conjuration*
+*7th-level Conjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 10 feet  
@@ -420,7 +420,7 @@ The destination you choose must be known to you, and it must be on the same plan
 
 "Very familiar" is a place you have been very often, a place you have carefully studied, or a place you can see when you cast the spell. "Seen casually" is someplace you have seen more than once but with which you aren't very familiar. "Viewed once" is a place you have seen once, possibly using magic. "Description" is a place whose location and appearance you know through someone else's description, perhaps from a map.
 
-"False destination" is a place that doesn't exist. Perhaps you tried to scry an enemy's sanctum but instead viewed an illusion, or you are attempting to teleport to a familiar location that no longer exists.
+"False destination" is a place that doesn't exist. Perhaps you tried to scry an enemy's sanctum but instead viewed an Illusion, or you are attempting to teleport to a familiar location that no longer exists.
 
 ***On Target.*** You and your group (or the target object) appear where you want to.
 
@@ -431,7 +431,7 @@ The destination you choose must be known to you, and it must be on the same plan
 ***Mishap.*** The spell's unpredictable magic results in a difficult journey. Each teleporting creature (or the target object) takes 3d10 force damage, and the DM rerolls on the table to see where you wind up (multiple mishaps can occur, dealing damage each time).
 
 ### Temple of the Gods
-*7th-level conjuration*
+*7th-level Conjuration*
   
 **Casting Time:** 1 hour  
 **Range:** 120 feet  
@@ -444,9 +444,9 @@ You make all decisions about the temple's appearance. The interior is enclosed b
 
 The temple's interior is an open space with an idol or altar at one end. You decide whether the temple is illuminated and whether that illumination is bright light or dim light. The smell of burning incense fills the air within, and the temperature is mild.
 
-The temple opposes types of creatures you choose when you cast this spell. Choose one or more of the following: celestials, elementals, fey, fiends, or undead. If a creature of the chosen type attempts to enter the temple, that creature must make a Charisma Saving Throw. On a failed save, it can't enter the temple for 24 hours. Even if the creature can enter the temple, the magic there hinders it; whenever it makes an attack roll, an ability check, or a Saving Throw inside the temple, it must roll a d4 and subtract the number rolled from the d20 roll.
+The temple opposes types of creatures you choose when you cast this spell. Choose one or more of the following: celestials, elementals, fey, fiends, or undead. If a creature of the chosen type attempts to enter the temple, that creature must make a Charisma Saving Throw. On a failed save, it can't enter the temple for 24 hours. Even if the creature can enter the temple, the magic there hinders it; whenever it makes an attack roll, an ability check, or a :d20-save: **Saving Throw** inside the temple, it must roll a d4 and subtract the number rolled from the d20 roll.
 
-In addition, the sensors created by divination spells can't appear inside the temple, and creatures within can't be targeted by divination spells.
+In addition, the sensors created by Divination spells can't appear inside the temple, and creatures within can't be targeted by Divination spells.
 
 Finally, whenever any creature in the temple regains Hit Points from a spell of 1st level or higher, the creature regains additional Hit Points equal to your Wisdom modifier (minimum 1 Hit Point).
 
@@ -455,7 +455,7 @@ The temple is made from opaque magical force that extends into the Ethereal Plan
 Casting this spell on the same spot every day for a year makes this effect permanent.
 
 ### Whirlwind
-*7th-level evocation*
+*7th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 300 feet  
@@ -464,16 +464,16 @@ Casting this spell on the same spot every day for a year makes this effect perma
 
 A whirlwind howls down to a point that you can see on the ground within range. The whirlwind is a 10-foot-radius, 30-foot-high cylinder centered on that point. Until the spell ends, you can use your :rsc-action: **Action** to move the whirlwind up to 30 feet in any direction along the ground. The whirlwind sucks up any Medium or smaller objects that aren't secured to anything and that aren't worn or carried by anyone.
 
-A creature must make a Dexterity Saving Throw the first time on a turn that it enters the whirlwind or that the whirlwind enters its space, including when the whirlwind first appears. A creature takes 10d6 bludgeoning damage on a failed save, or half as much damage on a successful one. In addition, a Large or smaller creature that fails the save must succeed on a Strength Saving Throw or become restrained in the whirlwind until the spell ends. When a creature starts its turn restrained by the whirlwind, the creature is pulled 5 feet higher inside it, unless the creature is at the top. A restrained creature moves with the whirlwind and falls when the spell ends, unless the creature has some means to stay aloft.
+A creature must make a Dexterity :d20-save: **Saving Throw** the first time on a turn that it enters the whirlwind or that the whirlwind enters its space, including when the whirlwind first appears. A creature takes 10d6 bludgeoning damage on a failed save, or half as much damage on a successful one. In addition, a Large or smaller creature that fails the save must succeed on a Strength :d20-save: **Saving Throw** or become restrained in the whirlwind until the spell ends. When a creature starts its turn restrained by the whirlwind, the creature is pulled 5 feet higher inside it, unless the creature is at the top. A restrained creature moves with the whirlwind and falls when the spell ends, unless the creature has some means to stay aloft.
 
 A restrained creature can use an :rsc-action: **Action** to make a Strength or Dexterity check against your spell save DC. If successful, the creature is no longer restrained by the whirlwind and is hurled 3d6 × 10 feet away from it in a random direction.
 
 ### Tether Essence
-*7th-level necromancy*
+*7th-level Necromancy*
   
 **Casting Time:** :rsc-action: **Action**    
 **Range:** 60 feet  
 **Components:** V, S, M (a spool of platinum cord worth at least 250 gp, which the spell consumes)  
 **Duration:** Concentration, up to 1 hour
 
-Two creatures you can see within range must make a Constitution Saving Throw, with disadvantage if they are within 30 feet of each other. Either creature can willingly fail the save. If either save succeeds, the spell has no effect. If both saves fail, the creatures are magically linked for the duration, regardless of the distance between them. When damage is dealt to one of them, the same damage is dealt to the other one. If Hit Points are restored to one of them, the same number of Hit Points are restored to the other one. If either of the tethered creatures is reduced to 0 Hit Points, the spell ends on both. If the spell ends on one creature, it ends on both.
+Two creatures you can see within range must make a Constitution Saving Throw, with :d20-disadv: **Disadvantage** if they are within 30 feet of each other. Either creature can willingly fail the save. If either save succeeds, the spell has no effect. If both saves fail, the creatures are magically linked for the duration, regardless of the distance between them. When damage is dealt to one of them, the same damage is dealt to the other one. If Hit Points are restored to one of them, the same number of Hit Points are restored to the other one. If either of the tethered creatures is reduced to 0 Hit Points, the spell ends on both. If the spell ends on one creature, it ends on both.

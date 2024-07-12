@@ -183,7 +183,7 @@ The bar is your home, the countertop is your canvas, cocktails are your art.
     
 - **Mixologist**
     
-    You can customize your alcoholic beverages in such a way that they impose :d20-adv: **Advantage** or :d20-disadv: **Disadvantage** (your choice) on Saving Throws against their effects.
+    You can customize your alcoholic beverages in such a way that they impose :d20-adv: **Advantage** or :d20-disadv: **Disadvantage** (your choice) on :d20-save: **Saving Throws** against their effects.
     
 - **Lite Chemist**
     
@@ -349,7 +349,7 @@ You excel at the identification and use of herbs and other natural substances fo
     
 - **Preventative Measures**
     
-    As part of a short rest, you can use your herbalism kit to administer an herbal remedy that helps a creature recover from their ailments. The creature gains :d20-adv: **Advantage** on Saving Throws against poison and disease for the next hour.
+    As part of a short rest, you can use your herbalism kit to administer an herbal remedy that helps a creature recover from their ailments. The creature gains :d20-adv: **Advantage** on :d20-save: **Saving Throws** against poison and disease for the next hour.
 
 ### Historian
 *1st-level Feat*
@@ -401,7 +401,7 @@ You have inexplicable luck that can kick in at just the right moment, granting y
     
 - **Advantage**
     
-    Immediately after you roll a d20, you can spend 1 Luck Point to give yourself Advantage on the roll.
+    Immediately after you roll a d20, you can spend 1 Luck Point to give yourself :d20-adv: **Advantage** on the roll.
     
 - **:d20-disadv: **Disadvantage****
     
@@ -487,7 +487,7 @@ You have martial training that allows you to perform special combat Manoeuvres. 
     
     You learn two manoeuvres of your choice from among those available to the Battle Master archetype in the fighter class. 
     
-    If a maneuver you use requires your target to make a Saving Throw to resist the manoeuvre’s effects, the Saving Throw DC equals **8 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice)**.
+    If a maneuver you use requires your target to make a :d20-save: **Saving Throw** to resist the manoeuvre’s effects, the :d20-save: **Saving Throw** DC equals **8 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice)**.
     
 - **Superiority Die**
     
@@ -764,7 +764,7 @@ You have extensive training with whip like weapons and have learned a handful of
     
 - **Lash and Trip**
     
-    Once per turn when you deal damage with a whip or weighted chain to a creature that is no more than one size larger than you, you can force that creature to make a Strength Saving Throw (DC 8 + your Proficiency Bonus + your choice of your Strength or Dexterity modifier). On a failure, you choose whether the creature drops one object of your choice that it’s holding, falls prone, or has its movement speed reduced to 0 until the start of your next turn.
+    Once per turn when you deal damage with a whip or weighted chain to a creature that is no more than one size larger than you, you can force that creature to make a Strength :d20-save: **Saving Throw** (DC 8 + your Proficiency Bonus + your choice of your Strength or Dexterity modifier). On a failure, you choose whether the creature drops one object of your choice that it’s holding, falls prone, or has its movement speed reduced to 0 until the start of your next turn.
     
 - **Quicklash**
     

@@ -4,7 +4,7 @@ icon: ability/str
 
 Strength is an ability score and the primary ability of Barbarian, Fighter, Paladin.
 
-Strength affects your Athletics skill and attack rolls so you become better at melee combat. It also determines how far you can jump, how much you can carry and how far you can shove (possibly based on Athletics).
+Strength affects your Athletics skill and :d20-attack: **Attack Rolls** so you become better at melee combat. It also determines how far you can jump, how much you can carry and how far you can shove (possibly based on Athletics).
 
 ## Strength Checks
 
@@ -20,9 +20,9 @@ Your Strength (Athletics) check covers difficult situations you encounter while 
 
 ## Uses of Strength
 
-### Attack Rolls and Damage
+### :d20-attack: **Attack Rolls** and Damage
 
-You add your Strength modifier to your attack roll and your damage roll when attacking with a melee weapon such as a mace, a battleaxe, or a javelin. You use melee weapons to make melee attacks in hand-to-hand combat, and some of them can be thrown to make a ranged attack.
+You add your Strength modifier to your :d20-attack: **Attack Roll** and your damage roll when attacking with a melee weapon such as a mace, a battleaxe, or a javelin. You use melee weapons to make melee attacks in hand-to-hand combat, and some of them can be thrown to make a ranged attack.
 
 ### Carrying Capacity
 

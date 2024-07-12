@@ -28,7 +28,7 @@
 ### Additional Traits
 
 **Brave**  
-&ensp;&ensp;&ensp; You have advantage on :d20-save: **Saving Throws** against being frightened.
+&ensp;&ensp;&ensp; You have :d20-adv: **Advantage** on :d20-save: **Saving Throws** against being frightened.
 
 **Halfling Nimbleness**  
 &ensp;&ensp;&ensp;  You can move through the space of any creature that is of a size larger than yours.

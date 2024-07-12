@@ -49,7 +49,7 @@ When you take the :d20-attack:**Attack** Action on your turn and attack with an 
 
 When this weapon’s projectile hits a target, it explodes in a diameter sphere on the parenthesis. The weapon can target a point within its range. Each creature in the area of effect centered on the point or the target must make a DC 15 Dexterity Saving Throw. Targets takes the weapon's damage on a failed save, or half as much damage on a successful one. 
 
-Your initial target makes this Saving Throw at a :d20-disadv: **Disadvantage**.
+Your initial target makes this :d20-save: **Saving Throw** at a :d20-disadv: **Disadvantage**.
 
 ### :weapon-prop-finesse:{ .lg .pad-r } Finesse
 

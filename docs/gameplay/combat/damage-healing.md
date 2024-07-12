@@ -38,11 +38,11 @@ Proficiency Bonuses are only added to damage rolls unless the attack being used 
   
     Most weapons use a single damage die, but some two-handed weapons use two: a successful attack with Greatswords does 2d6 Slashing damage, rolling two six-sided dice "material-dice-d6: for a total of 2 to 12 slashing damage. 
 
-- **Damaging with Spells.** Damaging spells typically roll more dice: for example, being caught in a Fireball will cause 8d6 Fire damage, though a successful Saving Throw can reduce it to half.
+- **Damaging with Spells.** Damaging spells typically roll more dice: for example, being caught in a Fireball will cause 8d6 Fire damage, though a successful :d20-save: **Saving Throw** can reduce it to half.
 
 ### Critical Hits
 
-Rolling a natural 20 on an attack roll results in a Critical Hit, dealing double damage.
+Rolling a natural 20 on an :d20-attack: **Attack Roll** results in a Critical Hit, dealing double damage.
  
 **Example**: A ranger scoring a Critical Hit with a short sword (1d6 piercing damage) + 3 (Dexterity modifier). The ranger rolled 3 on the :die-d6: d6, dealing a total of 6 damage and it is doubled to 12 Piercing damage as a result.
 

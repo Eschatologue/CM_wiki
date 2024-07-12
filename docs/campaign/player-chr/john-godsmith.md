@@ -72,7 +72,7 @@ The spirit of the Elephant lends you its resilience.
 
 - **Spirit of the Elephant** 
 
-    While :fontawesome-solid-hand-fist:**Raging**, you can add your Constitution modifier to Strength and Dexterity Saving Throw against effect that you can see.
+    While :fontawesome-solid-hand-fist:**Raging**, you can add your Constitution modifier to Strength and Dexterity :d20-save: **Saving Throw** against effect that you can see.
 
 - **Moving Fortress** 
 
@@ -84,11 +84,11 @@ The cunning spirit of the Wolf enhances your ability to fight alongside your pac
 
 - **Spirit of the Wolf** 
 
-    While :fontawesome-solid-hand-fist:**Raging**, allied creatures of your choice have advantage on any melee attack roll they make against hostile creatures within 10 feet of you.
+    While :fontawesome-solid-hand-fist:**Raging**, allied creatures of your choice have :d20-adv: **Advantage** on any melee :d20-attack: **Attack Roll** they make against hostile creatures within 10 feet of you.
 
 - **Pack Leader**
 
-    While :fontawesome-solid-hand-fist:**Raging**, the first creature you hit with an attack on your turn has disadvantage on any attack roll that isn't against you until the start of your next turn.
+    While :fontawesome-solid-hand-fist:**Raging**, the first creature you hit with an attack on your turn has :d20-disadv: **Disadvantage** on any :d20-attack: **Attack Roll** that isn't against you until the start of your next turn.
 
 ## Flames of Creation <span style="float:right;"> <small> Level 5 </small> </span>
 

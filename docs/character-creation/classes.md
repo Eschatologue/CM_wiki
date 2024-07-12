@@ -128,7 +128,7 @@ An **artificer** learned to wield their magic through the mastering of sigils an
 
 > *"You know music is more than a fancy - it is power. Through study and adventure, you have mastered song, speech, and the magic within."*
 
-**Bards** are versatile arcane spellcasters, capable in combat, art, and magic alike. Bards practiced magic as they would art or song, using their artistic talents to induce magical effects that either bolstered their allies or hindered their enemies, typically through charms and illusions. 
+**Bards** are versatile arcane spellcasters, capable in combat, art, and magic alike. Bards practiced magic as they would art or song, using their artistic talents to induce magical effects that either bolstered their allies or hindered their enemies, typically through charms and Illusions. 
 
 In addition to their magical skills, bards were artistically talented and extraordinarily well-learned, possessing knowledge in a wide range of fields. Bards were among the most versatile of adventurers, capable of learning from practically any trade.
 
@@ -400,20 +400,20 @@ A warlock was an arcane spellcaster who gained power through pacts with powerful
 
 <div class="grid cards" markdown>
 
-- :material-shield:{ .lg .middle } [**Abjuration**](http://dnd5e.wikidot.com/wizard:abjuration)^PHB^
+- :material-shield:{ .lg .middle } [**Abjuration**](http://dnd5e.wikidot.com/wizard:Abjuration)^PHB^
 - :material-music-note:{ .lg .middle } [**Bladesinging**](http://dnd5e.wikidot.com/wizard:bladesinging)^EGW^
 - :material-timer:{ .lg .middle } [**Chronurgy**](http://dnd5e.wikidot.com/wizard:chronurgy)^EGW^
-- :material-octagram-outline:{ .lg .middle } [**Conjuration**](http://dnd5e.wikidot.com/wizard:conjuration)^PHB^
-- :material-eye:{ .lg .middle } [**Divination**](http://dnd5e.wikidot.com/wizard:divination)PHB^^
-- :fontawesome-solid-wand-magic-sparkles:{ .lg .middle } [**Enchantment**](http://dnd5e.wikidot.com/wizard:enchantment)^PHB^
-- :material-fire:{ .lg .middle } [**Evocation**](http://dnd5e.wikidot.com/wizard:evocation)^PHB^
+- :material-octagram-outline:{ .lg .middle } [**Conjuration**](http://dnd5e.wikidot.com/wizard:Conjuration)^PHB^
+- :material-eye:{ .lg .middle } [**Divination**](http://dnd5e.wikidot.com/wizard:Divination)PHB^^
+- :fontawesome-solid-wand-magic-sparkles:{ .lg .middle } [**Enchantment**](http://dnd5e.wikidot.com/wizard:Enchantment)^PHB^
+- :material-fire:{ .lg .middle } [**Evocation**](http://dnd5e.wikidot.com/wizard:Evocation)^PHB^
 - :material-download-multiple-outline:{ .lg .middle } [**Graviturgy**](http://dnd5e.wikidot.com/wizard:graviturgy)^EGW^
-- :material-eye-off:{ .lg .middle } [**Illusion**](http://dnd5e.wikidot.com/wizard:illusion)^PHB^
-- :material-skull:{ .lg .middle } [**Necromancy**](http://dnd5e.wikidot.com/wizard:necromancy)^PHB^
+- :material-eye-off:{ .lg .middle } [**Illusion**](http://dnd5e.wikidot.com/wizard:Illusion)^PHB^
+- :material-skull:{ .lg .middle } [**Necromancy**](http://dnd5e.wikidot.com/wizard:Necromancy)^PHB^
 - :material-note-edit:{ .lg .middle } [**Order of Scribes**](http://dnd5e.wikidot.com/wizard:order-of-scribes)^TCE^
 - :material-wrench:{ .lg .middle } [**Technomancy**](http://dnd5e.wikidot.com/wizard:technomancy-ua)^UA7^
 - :material-crosshairs:{ .lg .middle } [**Theurgy**](http://dnd5e.wikidot.com/wizard:theurgy-ua)^UA33^
-- :material-rotate-orbit:{ .lg .middle } [**Transmutation**](http://dnd5e.wikidot.com/wizard:transmutation)^PHB^
+- :material-rotate-orbit:{ .lg .middle } [**Transmutation**](http://dnd5e.wikidot.com/wizard:Transmutation)^PHB^
 - :material-firebase:{ .lg .middle } [**War Magic**](http://dnd5e.wikidot.com/wizard:war-magic)^XGE^
 
 </div>

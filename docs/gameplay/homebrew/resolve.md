@@ -8,19 +8,19 @@ icon: material/door-open
 
 # Resolve and Death's Door
 
-The Resolve and Death's Door mechanic is introduced in Crown & Misery to add more unpredictability to combat. In simple terms, even if you're reduced to 0 HP, you're still in the game! This mechanic replaces the usual Death Saving Throws in regular D&D, allowing players to remain conscious at 0 HP with varying degrees of virtue and affliction.
+The Resolve and Death's Door mechanic is introduced in Crown & Misery to add more unpredictability to combat. In simple terms, even if you're reduced to 0 HP, you're still in the game! This mechanic replaces the usual Death :d20-save: **Saving Throws** in regular D&D, allowing players to remain conscious at 0 HP with varying degrees of virtue and affliction.
 
 ## Death's Door
 
 When reduced to 0 Hit Points but not killed outright, you remain conscious but are considered to be at *Death’s Door*. You must immediately make a Resolve Check unless you are already under the effects of either **Resolute** or **Meltdown**.
 
-- :material-bullseye-arrow:**Damage and Failures.** Each instance of damage from a single source counts as one 'Death Saving Throw Failure', with Critical Hits counting as two failures. Upon accumulating three failures or if the damage equals or exceeds your Hit Point maximum, you **die** instantly.
-- :material-heart-pulse:**Stabilization.** While at Death’s Door, anyone (including yourself) may attempt to stabilize you with a DC 10 Wisdom (Medicine) check. A successful check grants one 'Death Saving Throw Success', with critical successes granting two. Upon gaining three 'Death Saving Throw Successes', you regain 1 Hit Point.
+- :material-bullseye-arrow:**Damage and Failures.** Each instance of damage from a single source counts as one 'Death :d20-save: **Saving Throw** Failure', with Critical Hits counting as two failures. Upon accumulating three failures or if the damage equals or exceeds your Hit Point maximum, you **die** instantly.
+- :material-heart-pulse:**Stabilization.** While at Death’s Door, anyone (including yourself) may attempt to stabilize you with a DC 10 Wisdom (Medicine) check. A successful check grants one 'Death :d20-save: **Saving Throw** Success', with critical successes granting two. Upon gaining three 'Death :d20-save: **Saving Throw** Successes', you regain 1 Hit Point.
 - :material-plus-thick:**Healing.** Direct healing removes you from Death's Door and allows you to heal for the expected amount.
 
 ## Resolve Check
 
-A Resolve Check is an Ability Check made to determine whether a creature gains the **Resolute** or **Meltdown** condition.
+A Resolve Check is an :d20-check: **Ability Check** made to determine whether a creature gains the **Resolute** or **Meltdown** condition.
 
 ### Making a Resolve Check
 
@@ -32,7 +32,7 @@ A Resolve Check is an Ability Check made to determine whether a creature gains t
 A Resolve Check is made under two conditions:
 
 1. :material-door-open:**Death's Door:** As mentioned above, when you are reduced to 0 Hit Points but not killed outright, you must immediately make a Resolve Check, ending the Death's Door state on a successful one.
-2. :material-bullseye-arrow:**Massive Damage:** When you take damage from a single source equal to or greater than half your Hit Point maximum, you must make a Saving Throw using Intelligence, Wisdom, or Charisma (whichever has the highest ability modifier). The DC of this save is equal to 8 or half the damage you take, whichever number is higher (to a maximum of 18). On a failed save, you must make a Resolve Check.
+2. :material-bullseye-arrow:**Massive Damage:** When you take damage from a single source equal to or greater than half your Hit Point maximum, you must make a :d20-save: **Saving Throw** using Intelligence, Wisdom, or Charisma (whichever has the highest ability modifier). The DC of this save is equal to 8 or half the damage you take, whichever number is higher (to a maximum of 18). On a failed save, you must make a Resolve Check.
 
 ## Conditions: Resolute and Meltdown
 
@@ -41,7 +41,7 @@ A Resolve Check is made under two conditions:
 The Resolute condition lasts for 10 minutes but can end early under the following conditions:
 
 - **Unconcious.** You have the Unconscious condition.
-- **Being Calmed.** Spell such as *Calm Emotions* is cast on you, requiring the caster to make an Ability Check using its spellcasting ability. The DC is equal to the highest ability score you have between Intelligence, Wisdom, or Charisma. On success, **Resolute** ends.
+- **Being Calmed.** Spell such as *Calm Emotions* is cast on you, requiring the caster to make an :d20-check: **Ability Check** using its spellcasting ability. The DC is equal to the highest ability score you have between Intelligence, Wisdom, or Charisma. On success, **Resolute** ends.
 
 While this condition is in effect, you gain several benefits:
 
@@ -63,7 +63,7 @@ Immediately after you receive this condition, you roll a d10 and gain a virtue d
 The Meltdown condition lasts for 10 minutes but can end early under the following conditions:
 
 - **Recovery.** You regain at least half of your Hit Point maximum.
-- **Being Calmed.** Spell such as *Calm Emotions* is cast on you, requiring the caster to make an Ability Check using its spellcasting ability. The DC is equal to the highest ability score you have between Intelligence, Wisdom, or Charisma. On success, **Meltdown** ends.
+- **Being Calmed.** Spell such as *Calm Emotions* is cast on you, requiring the caster to make an :d20-check: **Ability Check** using its spellcasting ability. The DC is equal to the highest ability score you have between Intelligence, Wisdom, or Charisma. On success, **Meltdown** ends.
 - **Resting.** You finish a short or long rest.
 - **Healed.** The spell *Greater Restoration* spell is cast on you.
 
@@ -87,7 +87,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 
 *"A moment of valour shines brightest agaisnt a backdrop of despair"*
 
-- Whenever you or an ally within 30 ft. of you makes an attack roll or a Saving Throw, it can roll a d4 and add the number rolled to the attack roll or Saving Throw.
+- Whenever you or an ally within 30 ft. of you makes an :d20-attack: **Attack Roll** or a Saving Throw, it can roll a d4 and add the number rolled to the :d20-attack: **Attack Roll** or Saving Throw.
 - Conditions such as *charmed* or *frightened* that affects an ally that can see you within 30 ft. of you are supressed. When the creature is beyond 30ft. of you or can’t see you, any suppressed effect immediately resumes, provided that its duration has not expired in the meantime.
 
 ### Focused
@@ -103,7 +103,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 *"Anger is power - unleash it!"*
 
 - Once per turn when you roll damage for a weapon attack or spell attack, you can choose one of the die and make it roll the maximum amount possible.
-- When you force a creature to make a Saving Throw or a contested ability check, it make the Saving Throw or the ability check at a:d20-disadv: **Disadvantage**.
+- When you force a creature to make a :d20-save: **Saving Throw** or a contested ability check, it make the :d20-save: **Saving Throw** or the :d20-check: **Ability Check** at a:d20-disadv: **Disadvantage**.
 - You have :d20-adv: **Advantage** on Strength checks and Strength Saving Throws.
 
 ### Stalwart
@@ -112,14 +112,14 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 
 - You reduce all damage received by a number equal to twice of your Proficiency Bonus (minimum of 1 damage).
 - You can’t be moved or being *prone* against your will.
-- You have :d20-adv: **Advantage** on Strength checks, Strength Saving Throws and Constitution Saving Throws.
+- You have :d20-adv: **Advantage** on Strength checks, Strength :d20-save: **Saving Throws** and Constitution Saving Throws.
 
 ### Vigorous
 
 *"Adversity can foster hope, and resillience"*
 
 - You immediately restore Hit Points equal to 1d10 + your Character level.
-- Your gain +1 bonus to your AC and +2 to any Saving Throw you make.
+- Your gain +1 bonus to your AC and +2 to any :d20-save: **Saving Throw** you make.
 - You gain bonus of 10 ft. movement speed.
 
 ## Affliction
@@ -145,7 +145,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 
 *“There can be no hope in this hell, no hope at all.”*
 
-- You have :d20-disadv: **Disadvantage** on all attack rolls and ability checks.
+- You have :d20-disadv: **Disadvantage** on all :d20-attack: **Attack Rolls** and ability checks.
 - Whenever you regain Hit Point, the amount total is halved. This does not affect the progress in which **Meltdown** can be ended early.
 - You are resistant to Psychic damage.
 - Your speed is halved.

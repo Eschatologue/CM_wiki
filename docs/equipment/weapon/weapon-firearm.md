@@ -77,7 +77,7 @@ Weapons with *special* properties are listed here:
 
 #### Shotgun, Over-under
 
-When you make an automatic attack with this weapon, the subsequent attack roll doesn’t suffer disadvantage.
+When you make an automatic attack with this weapon, the subsequent :d20-attack: **Attack Roll** doesn’t suffer disadvantage.
 
 ### Grenade Launcher
 
@@ -101,18 +101,18 @@ What effect each type of grenade can cause is stated on [Grenade Effects](#grena
 
 #### Grenade Effects
 
-**Grenade, Cryogenic.** Creatures that fails the :d20-save: **Saving Throw**, takes the grenade damage and its movement speed is halved for 1 minute, the creature repeat this Saving Throw at the start of each turn, ending the effect on success. On successful save, it only takes half damage and no additional effects.
+**Grenade, Cryogenic.** Creatures that fails the :d20-save: **Saving Throw**, takes the grenade damage and its movement speed is halved for 1 minute, the creature repeat this :d20-save: **Saving Throw** at the start of each turn, ending the effect on success. On successful save, it only takes half damage and no additional effects.
 
 **Grenade, Fragmentation.** Creatures that fails the :d20-save: **Saving Throw**, takes the grenade damage, On successful save, it only takes half damage.
 
 **Grenade, Incendiary.** Creatures that fails the :d20-save: **Saving Throw**, takes the grenade damage or half as much on successful save. The ground in a 20-foot radius centered on the target is ignited in flames. Each creature that enters the affected area, starts its turn or, end its turn on the affected area immediately takes :material-fire: **3d4 Fire** damage.
 
-**Grenade, Flashbang.** Creatures that fails the :d20-save: **Saving Throw**, takes the grenade damage and it is Blinded(1) and Deafened(2) for 1 minute. The creature repeats this Saving Throw at the start of each turn, ending the effect on success. On successful save, it only takes half damage and no additional effects.
+**Grenade, Flashbang.** Creatures that fails the :d20-save: **Saving Throw**, takes the grenade damage and it is Blinded(1) and Deafened(2) for 1 minute. The creature repeats this :d20-save: **Saving Throw** at the start of each turn, ending the effect on success. On successful save, it only takes half damage and no additional effects.
 { .annotate }
 
 1. :material-eye-off: **Blinded** is a Condition.
       - A blinded creature can't see and automatically fails any ability check that requires sight.
-      - Attack rolls against the creature have advantage, and the creature’s attack rolls have disadvantage.
+      - Attack rolls against the creature have advantage, and the creature’s :d20-attack: **Attack Rolls** have disadvantage.
 2. :material-ear-hearing-off: **Deafened** is a Condition.
       - A deafened creature can’t hear, automatically fails any :die-d20: **Ability Check** that requires hearing and is **resistant**(1) to :material-waveform: Thunder damage.
         { .annotate }

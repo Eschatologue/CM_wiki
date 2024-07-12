@@ -18,8 +18,8 @@ On your turn, you can take one :rsc-action:**Actions**. Common :rsc-action:**Act
 - **Cast a Spell:** Use a :rsc-spell-slot: **Spell Slot** to cast a prepared spell.
 - **Dash:** Double your movement for the turn.
 - **Disengage:** Move without provoking opportunity attacks.
-- **Dodge:** Focus on defense to gain advantage on Dexterity Saving Throws and cause attack rolls against you to have disadvantage.
-- **Help:** Assist an ally, granting them advantage on their next ability check or  attack roll.
+- **Dodge:** Focus on defense to gain :d20-adv: **Advantage** on Dexterity :d20-save: **Saving Throws** and cause :d20-attack: **Attack Rolls** against you to have disadvantage.
+- **Help:** Assist an ally, granting them :d20-adv: **Advantage** on their next :d20-check: **Ability Check** or  attack roll.
 - **Hide:** Attempt to become unseen by making a Dexterity (Stealth) check.
 - **Ready:** Prepare a specified action to occur in response to a trigger.
 - **Search:** Look for something using an ability check.

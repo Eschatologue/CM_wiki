@@ -3,7 +3,7 @@ icon: spell/level-9
 ---
 
 ### Astral Projection
-*9th-level necromancy*
+*9th-level Necromancy*
   
 **Casting Time:** 1 hour  
 **Range:** 10 feet  
@@ -23,7 +23,7 @@ The spell might also end early for you or one of your companions. A successful  
 If you are returned to your body prematurely, your companions remain in their astral forms and must find their own way back to their bodies, usually by dropping to 0 Hit Points.
 
 ### Blade of Disaster
-*9th-level conjuration*
+*9th-level Conjuration*
   
 **Casting Time:** :rsc-bonus-action: **Bonus Action**  
 **Range:** 60 feet  
@@ -37,19 +37,19 @@ As a :rsc-bonus-action: **Bonus Action** on your turn, you can move the blade up
 The blade can harmlessly pass through any barrier, including a  wall of force.
 
 ### Foresight
-*9th-level divination*
+*9th-level Divination*
   
 **Casting Time:** 1 minute  
 **Range:** Touch  
 **Components:** V, S, M (a hummingbird feather)  
 **Duration:** 8 hours
 
-You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target can't be surprised and has advantage on attack rolls, ability checks, and Saving Throws. Additionally, other creatures have disadvantage on attack rolls against the target for the duration.
+You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target can't be surprised and has :d20-adv: **Advantage** on attack rolls, ability checks, and Saving Throws. Additionally, other creatures have :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** against the target for the duration.
 
 This spell immediately ends if you cast it again before its duration ends.
 
 ### Gate
-*9th-level conjuration*
+*9th-level Conjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -65,14 +65,14 @@ Deities and other planar rulers can prevent portals created by this spell from o
 When you cast this spell, you can speak the name of a specific creature (a pseudonym, title, or nickname doesn't work). If that creature is on a plane other than the one you are on, the portal opens in the named creature's immediate vicinity and draws the creature through it to the nearest unoccupied space on your side of the portal. You gain no special power over the creature, and it is free to act as the DM deems appropriate. It might leave, attack you, or help you.
 
 ### Imprisonment
-*9th-level abjuration*
+*9th-level Abjuration*
   
 **Casting Time:** 1 minute  
 **Range:** 30 feet  
 **Components:** V, S, M (a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gp per Hit Die of the target)  
 **Duration:** Until dispelled
 
-You create a magical restraint to hold a creature that you can see within range. The target must succeed on a Wisdom Saving Throw or be bound by the spell; if it succeeds, it is immune to this spell if you cast it again. While affected by this spell, the creature doesn't need to breathe, eat, or drink, and it doesn't age. Divination spells can't locate or perceive the target.
+You create a magical restraint to hold a creature that you can see within range. The target must succeed on a Wisdom :d20-save: **Saving Throw** or be bound by the spell; if it succeeds, it is immune to this spell if you cast it again. While affected by this spell, the creature doesn't need to breathe, eat, or drink, and it doesn't age. Divination spells can't locate or perceive the target.
 
 When you cast the spell, you choose one of the following forms of imprisonment.
 
@@ -103,7 +103,7 @@ A  dispel magic spell can end the spell only if it is cast as a 9th-level spell,
 You can use a particular special component to create only one prison at a time. If you cast the spell again using the same component, the target of the first casting is immediately freed from its binding.
 
 ### Invulnerability
-*9th-level abjuration*
+*9th-level Abjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self  
@@ -113,7 +113,7 @@ You can use a particular special component to create only one prison at a time. 
 You are immune to all damage until the spell ends.
 
 ### Mass Heal
-*9th-level evocation*
+*9th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -123,14 +123,14 @@ You are immune to all damage until the spell ends.
 A flood of healing energy flows from you into injured creatures around you. You restore up to 700 Hit Points, divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell are also cured of all diseases and any effect making them  blinded or  deafened. This spell has no effect on undead or constructs.
 
 ### Mass Polymorph
-*9th-level transmutation*
+*9th-level Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 120 feet  
 **Components:** V, S, M (a caterpillar cocoon)  
 **Duration:** Concentration, up to 1 hour
 
-You transform up to ten creatures of your choice that you can see within range. An unwilling target must succeed on a Wisdom Saving Throw to resist the transformation. An unwilling shapechanger automatically succeeds on the save.
+You transform up to ten creatures of your choice that you can see within range. An unwilling target must succeed on a Wisdom :d20-save: **Saving Throw** to resist the transformation. An unwilling shapechanger automatically succeeds on the save.
 
 Each target assumes a beast form of your choice, and you can choose the same form or different ones for each target. The new form can be any beast you have seen whose challenge rating is equal to or less than the target's (or half the target's level, if the target doesn't have a challenge rating). The target's game statistics, including mental ability scores, are replaced by the statistics of the chosen beast, but the target retains its Hit Points, alignment, and personality.
 
@@ -141,7 +141,7 @@ The creature is limited in the actions it can perform by the nature of its new f
 The target's gear melds into the new form. The target can't activate, use, wield, or otherwise benefit from any of its equipment.
 
 ### Meteor Swarm
-*9th-level evocation*
+*9th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 1 mile  
@@ -153,7 +153,7 @@ Blazing orbs of fire plummet to the ground at four different points you can see 
 The spell damages objects in the area and ignites flammable objects that aren't being worn or carried.
 
 ### Power Word Heal
-*9th-level evocation*
+*9th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Touch  
@@ -163,7 +163,7 @@ The spell damages objects in the area and ignites flammable objects that aren't 
 A wave of healing energy washes over the creature you touch. The target regains all its Hit Points. If the creature is  charmed,  frightened,  paralyzed, or  stunned, the condition ends. If the creature is  prone, it can use its :rsc-reaction: **Reaction** to stand up. This spell has no effect on undead or constructs.
 
 ### Power Word Kill
-*9th-level enchantment*
+*9th-level Enchantment*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -173,7 +173,7 @@ A wave of healing energy washes over the creature you touch. The target regains 
 You utter a word of power that can compel one creature you can see within range to die instantly. If the creature you choose has 100 Hit Points or fewer, it dies. Otherwise, the spell has no effect.
 
 ### Prismatic Wall
-*9th-level abjuration*
+*9th-level Abjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -182,9 +182,9 @@ You utter a word of power that can compel one creature you can see within range 
 
 A shimmering, multicolored plane of light forms a vertical opaque wall—up to 90 feet long, 30 feet high, and 1 inch thick—centered on a point you can see within range. Alternatively, you can shape the wall into a sphere up to 30 feet in diameter centered on a point you choose within range. The wall remains in place for the duration. If you position the wall so that it passes through a space occupied by a creature, the spell fails, and your :rsc-action: **Action** and the :rsc-spell-slot: **Spell Slot** are wasted.
 
-The wall sheds bright light out to a range of 100 feet and dim light for an additional 100 feet. You and creatures you designate at the time you cast the spell can pass through and remain near the wall without harm. If another creature that can see the wall moves to within 20 feet of it or starts its turn there, the creature must succeed on a Constitution Saving Throw or become  blinded for 1 minute.
+The wall sheds bright light out to a range of 100 feet and dim light for an additional 100 feet. You and creatures you designate at the time you cast the spell can pass through and remain near the wall without harm. If another creature that can see the wall moves to within 20 feet of it or starts its turn there, the creature must succeed on a Constitution :d20-save: **Saving Throw** or become  blinded for 1 minute.
 
-The wall consists of seven layers, each with a different color. When a creature attempts to reach into or pass through the wall, it does so one layer at a time through all the wall's layers. As it passes or reaches through each layer, the creature must make a Dexterity Saving Throw or be affected by that layer's properties as described below.
+The wall consists of seven layers, each with a different color. When a creature attempts to reach into or pass through the wall, it does so one layer at a time through all the wall's layers. As it passes or reaches through each layer, the creature must make a Dexterity :d20-save: **Saving Throw** or be affected by that layer's properties as described below.
 
 The wall can be destroyed, also one layer at a time, in order from red to violet, by means specific to each layer. Once a layer is destroyed, it remains so for the duration of the spell. An  antimagic field has no effect on a prismatic wall.
 
@@ -198,14 +198,14 @@ The wall can be destroyed, also one layer at a time, in order from red to violet
 
 ***Blue.*** The creature takes  10d6 cold damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 25 fire damage to it.
 
-***Indigo.*** On a failed save, the creature is  restrained. It must then make a Constitution Saving Throw at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the  petrified condition. The successes and failures don't need to be consecutive; keep track of both until the creature collects three of a kind.
+***Indigo.*** On a failed save, the creature is  restrained. It must then make a Constitution :d20-save: **Saving Throw** at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the  petrified condition. The successes and failures don't need to be consecutive; keep track of both until the creature collects three of a kind.
 
 While this layer is in place, spells can't be cast through the wall. The layer is destroyed by bright light shed by a  daylight spell or a similar spell of equal or higher level.
 
-***Violet.*** On a failed save, the creature is  blinded. It must then make a Wisdom Saving Throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of the DM's choosing and is no longer  blinded. (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.) This layer is destroyed by a  dispel magic spell or a similar spell of equal or higher level that can end spells and magical effects.
+***Violet.*** On a failed save, the creature is  blinded. It must then make a Wisdom :d20-save: **Saving Throw** at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of the DM's choosing and is no longer  blinded. (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.) This layer is destroyed by a  dispel magic spell or a similar spell of equal or higher level that can end spells and magical effects.
 
 ### Psychic Scream
-*9th-level enchantment*
+*9th-level Enchantment*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 90 feet  
@@ -216,10 +216,10 @@ You unleash the power of your mind to blast the intellect of up to ten creatures
 
 Each target must make an Intelligence Saving Throw. On a failed save, a target takes  14d6 psychic damage and is  stunned. On a successful save, a target takes half as much damage and isn't  stunned. If a target is killed by this damage, its head explodes, assuming it has one.
 
-A  stunned target can make an Intelligence Saving Throw at the end of each of its turns. On a successful save, the stunning effect ends.
+A  stunned target can make an Intelligence :d20-save: **Saving Throw** at the end of each of its turns. On a successful save, the stunning effect ends.
 
 ### Shapechange
-*9th-level transmutation*
+*9th-level Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self  
@@ -228,7 +228,7 @@ A  stunned target can make an Intelligence Saving Throw at the end of each of it
 
 You assume the form of a different creature for the duration. The new form can be of any creature with a challenge rating equal to your level or lower. The creature can't be a construct or an undead, and you must have seen the sort of creature at least once. You transform into an average example of that creature, one without any class levels or the Spellcasting trait.
 
-Your game statistics are replaced by the statistics of the chosen creature, though you retain your alignment and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and Saving Throw Proficiencies, in addition to gaining those of the creature. If the creature has the same Proficiency as you and the bonus listed in its statistics is higher than yours, use the creature's bonus in place of yours. You can't use any legendary actions or lair actions of the new form.
+Your game statistics are replaced by the statistics of the chosen creature, though you retain your alignment and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and :d20-save: **Saving Throw** Proficiencies, in addition to gaining those of the creature. If the creature has the same Proficiency as you and the bonus listed in its statistics is higher than yours, use the creature's bonus in place of yours. You can't use any legendary actions or lair actions of the new form.
 
 You assume the Hit Points and Hit Dice of the new form. When you revert to your normal form, you return to the number of Hit Points you had before you transformed. If you revert as a result of dropping to 0 Hit Points, any excess damage carries over to your normal form. As long as the excess damage doesn't reduce your normal form to 0 Hit Points, you aren't knocked  unconscious.
 
@@ -239,7 +239,7 @@ When you transform, you choose whether your equipment falls to the ground, merge
 During this spell's duration, you can use your :rsc-action: **Action** to assume a different form following the same restrictions and rules for the original form, with one exception: if your new form has more Hit Points than your current one, your Hit Points remain at their current value.
 
 ### Storm of Vengeance
-*9th-level conjuration*
+*9th-level Conjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Sight  
@@ -259,7 +259,7 @@ Each round you maintain  concentration on this spell, the storm produces differe
 ***Round 5–10.*** Gusts and freezing rain assail the area under the cloud. The area becomes @quickref difficult terrain||3 and is @quickref Vision and Light|PHB|2||heavily obscured. Each creature there takes  1d6 cold damage. Ranged weapon attacks in the area are impossible. The wind and rain count as a severe distraction for the purposes of maintaining  concentration on spells. Finally, gusts of strong wind (ranging from 20 to 50 miles per hour) automatically disperse fog, mists, and similar phenomena in the area, whether mundane or magical.
 
 ### Time Stop
-*9th-level transmutation*
+*9th-level Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self  
@@ -271,7 +271,7 @@ You briefly stop the flow of time for everyone but yourself. No time passes for 
 This spell ends if one of the actions you use during this period, or any effects that you create during this period, affects a creature other than you or an object being worn or carried by someone other than you. In addition, the spell ends if you move to a place more than 1,000 feet from the location where you cast it.
 
 ### True Polymorph
-*9th-level transmutation*
+*9th-level Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 30 feet  
@@ -297,7 +297,7 @@ If the spell becomes permanent, you no longer control the creature. It might rem
 ***Creature into Object.*** If you turn a creature into an object, it transforms along with whatever it is wearing and carrying into that form, as long as the object's size is no larger than the creature's size. The creature's statistics become those of the object, and the creature has no memory of time spent in this form, after the spell ends and it returns to its normal form.
 
 ### True Resurrection
-*9th-level necromancy*
+*9th-level Necromancy*
   
 **Casting Time:** 1 hour  
 **Range:** Touch  
@@ -311,17 +311,17 @@ This spell closes all wounds, neutralizes any poison, cures all diseases, and li
 The spell can even provide a new body if the original no longer exists, in which case you must speak the creature's name. The creature then appears in an unoccupied space you choose within 10 feet of you.
 
 ### Weird
-*9th-level illusion*
+*9th-level Illusion*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 120 feet  
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-Drawing on the deepest fears of a group of creatures, you create illusory creatures in their minds, visible only to them. Each creature in a 30-foot-radius sphere centered on a point of your choice within range must make a Wisdom Saving Throw. On a failed save, a creature becomes  frightened for the duration. The illusion calls on the creature's deepest fears, manifesting its worst nightmares as an implacable threat. At the end of each of the  frightened creature's turns, it must succeed on a Wisdom Saving Throw or take  4d10 psychic damage. On a successful save, the spell ends for that creature.
+Drawing on the deepest fears of a group of creatures, you create illusory creatures in their minds, visible only to them. Each creature in a 30-foot-radius sphere centered on a point of your choice within range must make a Wisdom Saving Throw. On a failed save, a creature becomes  frightened for the duration. The Illusion calls on the creature's deepest fears, manifesting its worst nightmares as an implacable threat. At the end of each of the  frightened creature's turns, it must succeed on a Wisdom :d20-save: **Saving Throw** or take  4d10 psychic damage. On a successful save, the spell ends for that creature.
 
 ### Wish
-*9th-level conjuration*
+*9th-level Conjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self  
@@ -336,24 +336,24 @@ You create one object of up to 25,000 gp in value that isn't a magic item. The o
 You allow up to twenty creatures that you can see to regain all Hit Points, and you end all effects on them described in the  greater restoration spell.  
 You grant up to ten creatures that you can see resistance to a damage type you choose.  
 You grant up to ten creatures you can see immunity to a single spell or other magical effect for 8 hours. For instance, you could make yourself and all your companions immune to a lich's life drain attack.  
-You undo a single recent event by forcing a reroll of any roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. For example, a  wish spell could undo an opponent's successful save, a foe's Critical Hit, or a friend's failed save. You can force the reroll to be made with advantage or disadvantage, and you can choose whether to use the reroll or the original roll.
+You undo a single recent event by forcing a reroll of any roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. For example, a  wish spell could undo an opponent's successful save, a foe's Critical Hit, or a friend's failed save. You can force the reroll to be made with :d20-adv: **Advantage** or disadvantage, and you can choose whether to use the reroll or the original roll.
 
 You might be able to achieve something beyond the scope of the above examples. State your wish to the DM as precisely as possible. The DM has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. This spell might simply fail, the effect you desire might only be partly achieved, or you might suffer some unforeseen consequence as a result of how you worded the wish. For example, wishing that a villain were dead might propel you forward in time to a period when that villain is no longer alive, effectively removing you from the game. Similarly, wishing for a legendary magic item or artifact might instantly transport you to the presence of the item's current owner.
 
 The stress of casting this spell to produce any effect other than duplicating another spell weakens you. After enduring that stress, each time you cast a spell until you finish a long rest, you take  1d10 necrotic damage per level of that spell. This damage can't be reduced or prevented in any way. In addition, your Strength drops to 3, if it isn't 3 or lower already, for  2d4 days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. Finally, there is a @chance 33|||Unable to cast again!|Able to cast again chance that you are unable to cast wish ever again if you suffer this stress.
 
 ### Time Ravage
-*9th-level necromancy*
+*9th-level Necromancy*
   
 **Casting Time:** :rsc-action: **Action**    
 **Range:** 90 feet  
 **Components:** V, S, M (an hourglass filled with diamond dust worth at least 5,000 gp, which the spell consumes)  
 **Duration:** Instantaneous
 
-You target a creature you can see within range, putting its physical form through the devastation of rapid aging. The target must make a Constitution Saving Throw, taking 10d12 necrotic damage on a failed save, or half as much damage on a successful one. If the save fails, the target also ages to the point where it has only 30 days left before it dies of old age. In this aged state, the target has disadvantage on attack rolls, ability checks, and Saving Throws, and its walking speed is halved. Only the *wish* spell or the *greater restoration* cast with a 9th-level :rsc-spell-slot: **Spell Slot** can end these effects and restore the target to its previous age.
+You target a creature you can see within range, putting its physical form through the devastation of rapid aging. The target must make a Constitution Saving Throw, taking 10d12 necrotic damage on a failed save, or half as much damage on a successful one. If the save fails, the target also ages to the point where it has only 30 days left before it dies of old age. In this aged state, the target has :d20-disadv: **Disadvantage** on attack rolls, ability checks, and Saving Throws, and its walking speed is halved. Only the *wish* spell or the *greater restoration* cast with a 9th-level :rsc-spell-slot: **Spell Slot** can end these effects and restore the target to its previous age.
 
 ### Ravenous Void
-*9th-level evocation*
+*9th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**    
 **Range:** 1000 feet  
@@ -364,4 +364,4 @@ You create a 20-foot-radius sphere of destructive gravitational force centered o
 
 When the sphere appears and at the start of each of your turns until the spell ends, unsecured objects within 100 feet of the sphere are pulled toward the sphere's center, ending in an unoccupied space as close to the center as possible.
 
-A creature that starts its turn within 100 feet of the sphere must succeed on a Strength Saving Throw or be pulled straight toward the sphere's center, ending in an unoccupied space as close to the center as possible. A creature that enters the sphere for the first time on a turn or starts its turn there takes 5d10 force damage and is restrained until it is no longer in the sphere. If the sphere is in the air, the restrained creature hovers inside the sphere. A creature can use its action to make a Strength check against your spell save DC, ending this restrained condition on itself or another creature in the sphere that it can reach. A creature reduced to 0 Hit Points by this spell is annihilated, along with any nonmagical items it is wearing or carrying.
+A creature that starts its turn within 100 feet of the sphere must succeed on a Strength :d20-save: **Saving Throw** or be pulled straight toward the sphere's center, ending in an unoccupied space as close to the center as possible. A creature that enters the sphere for the first time on a turn or starts its turn there takes 5d10 force damage and is restrained until it is no longer in the sphere. If the sphere is in the air, the restrained creature hovers inside the sphere. A creature can use its action to make a Strength check against your spell save DC, ending this restrained condition on itself or another creature in the sphere that it can reach. A creature reduced to 0 Hit Points by this spell is annihilated, along with any nonmagical items it is wearing or carrying.

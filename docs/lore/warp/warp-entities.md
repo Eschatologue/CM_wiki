@@ -24,26 +24,30 @@ Due to their extradimensional nature, Warp Entities cause abnormal spatial malfo
 
 While this list isn't exhaustive, observing two or more of these phenomena in close proximity often indicates the presence of Warp Entities. These signs help experienced adventurers contain and possibly eliminate these entities.
 
-### Confrontation
-
-Warp Entities prey upon anyone they encounter. Common methods include direct physical confrontation and supernatural tactics such as mind control and hallucinations. They cannot be reasoned with or controlled, hunting everything and everyone not connected to the Warp without any apparent benefit to themselves.
-
 ## Classifications
 
-Warp Entities are classified into six different category, representing their threat level and the amount of corruption they cause. It's name is based on noble gases.
+Warp Entities are classified into six categories based on their threat level and the amount of corruption they cause. Named after noble gases, the threat scales exponentially with each category.
+
+Warp Entities prey on anyone they encounter through direct physical confrontation or supernatural tactics such as mind control and hallucinations. They cannot be reasoned with or controlled, hunting indiscriminately without any apparent benefit to themselves.
 
 ### Helium [He]
 
-Helium [He] category is by far the weakest Warp Entities, they are abundant and can be found everywhere from the wilderness down to the most corrupted location. Though their threat can ramp up significantly due to their number. Entities such as Warp Centipedes and Husks belong in this category.
+Helium [He] category entities are the weakest, yet they are abundant and found everywhere from the wilderness to the most corrupted locations. Their threat can escalate significantly due to their sheer numbers. Entities such as Warp Centipedes and Husks belong to this category.
 
 ### Neon [Ne]
 
-Neon [Ne] category entities can be found alongside Helium [He] category entities, they're stronger than the previous category and possess better intelligence and can be seen using very basic tactic against their prey instead of pure instinct, though they are some that only has pure strength. Entities such as Warptreaders, Blasters, and Lumberjacks belong in this category. 
+Neon [Ne] category entities are stronger and more intelligent than Helium [He] entities. They use basic tactics against their prey rather than relying purely on instinct. Some Neon entities also possess brute strength. Examples include Warptreaders, Blasters, and Lumberjacks.
 
 ### Argon [Ar]
 
-Argon [Ar] category entities are usually entities belonging in Helium [He] or Neon [Ne] category that experiences mutations that increases their threat or Entities that is persumably much stronger than Neon [Ne] category. These entities are few in number but each of them requires fully-trained soldiers and well crafted strategy to engage and take down. For adventurers and raiders however, creature in this categories will fetch a good amount of Silvers if some sacrifices are willing to be made. 
+Argon [Ar] category entities are usually mutated Helium [He] or Neon [Ne] entities with increased threat levels, or inherently stronger entities. These are fewer in number but require fully trained soldiers and well-crafted strategies to engage and defeat. For adventurers and raiders, creatures in this category can fetch a good amount of silver, though some sacrifices may be necessary. 
 
 ### Krypton [Kr]
+
+Krypton [Kr] category entities are exponentially more dangerous than Argon [Ar]. Their presence alone can cause severe Warp Corruption and they are often the source of such corruption. Fortunately, they rarely appear without significant cause and are usually seen in small quantities during Warp Storms. These entities possess powerful psionic and space manipulation abilities and may be amalgamations of several lesser entities fused into one.
+
+While dangerous, Krypton [Kr] entities rarely attack lesser creatures directly, preferring to use lesser entities to do their bidding. They are priority targets during a Warp Storm, as eliminating them significantly reduces the storm's severity.
+
 ### Xenon [Xe]
-### Radon [Rn] 
+
+### Radon [Rn]

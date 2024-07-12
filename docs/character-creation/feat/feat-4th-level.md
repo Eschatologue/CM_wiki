@@ -77,7 +77,7 @@ You have learned to channel your magic through a deck of cards.
     
 - **Card Tricks**
     
-    You learn the *Thaumaturgy* and *Guidance* cantrip. When you cast those cantrips through card deck and you can use it to create illusions that duplicate the effects of stage magic or use it to reveal a divination to a target. You can conceal the verbal and somatic components of the spell as ordinary conversation or card handling.
+    You learn the *Thaumaturgy* and *Guidance* cantrip. When you cast those cantrips through card deck and you can use it to create Illusions that duplicate the effects of stage magic or use it to reveal a Divination to a target. You can conceal the verbal and somatic components of the spell as ordinary conversation or card handling.
     
 - **Hidden Ace**
     
@@ -104,7 +104,7 @@ Thanks to extensive practice with the crossbow, you gain the following benefits:
     
 - **Attack in Melee**
     
-    Being within 5 feet of an enemy doesn’t impose :d20-disadv: **Disdvantage** on your Attack Rolls with crossbows.
+    Being within 5 feet of an enemy doesn’t impose :d20-disadv: **Disdvantage** on your :d20-attack: **Attack Rolls** with crossbows.
     
 - **Dual Wielding**
     
@@ -226,7 +226,7 @@ Your exposure to the Feywild’s magic has changed you, granting you the followi
     
 - **Fey Magic**
     
-    You learn the misty step spell and two other 1st-level spells of your choice from the divination or enchantment school of magic. You can cast each of these spells without expending a :rsc-spell-slot: **Spell Slot**. Once you cast either of these spells in this way, you can’t cast that spell in this way again until you finish a long rest.
+    You learn the misty step spell and two other 1st-level spells of your choice from the Divination or Enchantment school of magic. You can cast each of these spells without expending a :rsc-spell-slot: **Spell Slot**. Once you cast either of these spells in this way, you can’t cast that spell in this way again until you finish a long rest.
     
     You can also cast these spells using :rsc-spell-slot: **Spell Slot**s you have of the appropriate level. The spells’ spellcasting ability is the ability increased by this feat.
 
@@ -285,7 +285,7 @@ You're an accomplished wrestler, granting you the following benefits:
     
 - **Attack Advantage**
     
-    You have :d20-adv: **Advantage** on Attack Rolls against a creature Grappled by you.
+    You have :d20-adv: **Advantage** on :d20-attack: **Attack Rolls** against a creature Grappled by you.
     
 - **Fast Wrestler**
     
@@ -593,7 +593,7 @@ You have developed a bond with your mounts, granting you the following benefits:
 
 - **Mounted Strike** 
 
-    While mounted, you have :d20-adv: **Advantage** on Attack Rolls against any creature that is within 5 feet of your mount and at least one Size smaller than it.
+    While mounted, you have :d20-adv: **Advantage** on :d20-attack: **Attack Rolls** against any creature that is within 5 feet of your mount and at least one Size smaller than it.
     
 - **Leap Aside**
 
@@ -747,7 +747,7 @@ You can make shots that others find impossible, granting you the following benef
     
 - **Enhanced Accuracy**
     
-    Being within 5 feet of an enemy and attacking at Long Range doesn’t impose :d20-disadv: **Disdvantage** on your ranged Attack Rolls with Weapons.
+    Being within 5 feet of an enemy and attacking at Long Range doesn’t impose :d20-disadv: **Disdvantage** on your ranged :d20-attack: **Attack Rolls** with Weapons.
 
 ### Shield Master
 
@@ -794,7 +794,7 @@ You have honed your Proficiency with particular skills, granting you the followi
 
 - **Expert**
 
-    Choose one skill in which you have Proficiency. You gain expertise with that skill, which means your Proficiency Bonus is doubled for any ability check you make with it. The skill you choose must be one that isn’t already benefiting from a feature, such as Expertise, that doubles your Proficiency Bonus.
+    Choose one skill in which you have Proficiency. You gain expertise with that skill, which means your Proficiency Bonus is doubled for any :d20-check: **Ability Check** you make with it. The skill you choose must be one that isn’t already benefiting from a feature, such as Expertise, that doubles your Proficiency Bonus.
 
 ### Skulker
 
@@ -819,7 +819,7 @@ You are expert at slinking through shadows. You gain the following benefits:
     
 - **Sniper**
     
-    If you make an Attack Roll while Hidden and the roll misses, making the Attack Roll doesn’t end the Hidden Condition on you.
+    If you make an :d20-attack: **Attack Roll** while Hidden and the roll misses, making the :d20-attack: **Attack Roll** doesn’t end the Hidden Condition on you.
 
 ### Slasher
 
@@ -884,7 +884,7 @@ You have learned techniques to enhance your attacks with certain kinds of spells
     
 - **Bypass Cover**
     
-    Your Attack Rolls for Spells ignore Half Cover and Three-Quarters Cover.
+    Your :d20-attack: **Attack Rolls** for Spells ignore Half Cover and Three-Quarters Cover.
     
 - **Improved Critical**
     

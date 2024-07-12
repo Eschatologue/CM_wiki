@@ -3,19 +3,19 @@ icon: spell/level-8
 ---
 
 ### Abi-Dalzim's Horrid Wilting
-*8th-level necromancy*
+*8th-level Necromancy*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 150 feet  
 **Components:** V, S, M (a bit of sponge)  
 **Duration:** Instantaneous
 
-You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each creature in that area must make a Constitution Saving Throw. Constructs and undead aren't affected, and plants and water elementals make this Saving Throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one.
+You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each creature in that area must make a Constitution Saving Throw. Constructs and undead aren't affected, and plants and water elementals make this :d20-save: **Saving Throw** with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one.
 
 Nonmagical plants in the area that aren't creatures, such as trees and shrubs, wither and die instantly.
 
 ### Animal Shapes
-*8th-level transmutation*
+*8th-level Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 30 feet  
@@ -29,7 +29,7 @@ The transformation lasts for the duration for each target, or until the target d
 The target's gear melds into the new form. The target can't activate, wield, or otherwise benefit from any of its equipment.
 
 ### Antimagic Field
-*8th-level abjuration*
+*8th-level Abjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self (10-foot radius)  
@@ -57,7 +57,7 @@ A magic weapon's properties and powers are suppressed if it is used against a ta
 ***Dispel Magic.*** Spells and magical effects such as *dispel magic* have no effect on the sphere. Likewise, the spheres created by different *antimagic field* spells don't nullify each other.
 
 ### Antipathy/Sympathy
-*8th-level enchantment*
+*8th-level Enchantment*
   
 **Casting Time:** 1 hour  
 **Range:** 60 feet  
@@ -66,18 +66,18 @@ A magic weapon's properties and powers are suppressed if it is used against a ta
 
 This spell attracts or repels creatures of your choice. You target something within range, either a Huge or smaller object or creature or an area that is no larger than a 200-foot cube. Then specify a kind of intelligent creature, such as red dragons, goblins, or vampires. You invest the target with an aura that either attracts or repels the specified creatures for the duration. Choose antipathy or sympathy as the aura's effect.
 
-***Antipathy.*** The enchantment causes creatures of the kind you designated to feel an intense urge to leave the area and avoid the target. When such a creature can see the target or comes within 60 feet of it, the creature must succeed on a Wisdom Saving Throw or become frightened. The creature remains frightened while it can see the target or is within 60 feet of it. While frightened by the target, the creature must use its movement to move to the nearest safe spot from which it can't see the target. If the creature moves more than 60 feet from the target and can't see it, the creature is no longer frightened, but the creature becomes frightened again if it regains sight of the target or moves within 60 feet of it.
+***Antipathy.*** The Enchantment causes creatures of the kind you designated to feel an intense urge to leave the area and avoid the target. When such a creature can see the target or comes within 60 feet of it, the creature must succeed on a Wisdom :d20-save: **Saving Throw** or become frightened. The creature remains frightened while it can see the target or is within 60 feet of it. While frightened by the target, the creature must use its movement to move to the nearest safe spot from which it can't see the target. If the creature moves more than 60 feet from the target and can't see it, the creature is no longer frightened, but the creature becomes frightened again if it regains sight of the target or moves within 60 feet of it.
 
-***Sympathy.*** The enchantment causes the specified creatures to feel an intense urge to approach the target while within 60 feet of it or able to see it. When such a creature can see the target or comes within 60 feet of it, the creature must succeed on a Wisdom Saving Throw or use its movement on each of its turns to enter the area or move within reach of the target. When the creature has done so, it can't willingly move away from the target.
+***Sympathy.*** The Enchantment causes the specified creatures to feel an intense urge to approach the target while within 60 feet of it or able to see it. When such a creature can see the target or comes within 60 feet of it, the creature must succeed on a Wisdom :d20-save: **Saving Throw** or use its movement on each of its turns to enter the area or move within reach of the target. When the creature has done so, it can't willingly move away from the target.
 
-If the target damages or otherwise harms an affected creature, the affected creature can make a Wisdom Saving Throw to end the effect, as described below.
+If the target damages or otherwise harms an affected creature, the affected creature can make a Wisdom :d20-save: **Saving Throw** to end the effect, as described below.
 
-***Ending the Effect.*** If an affected creature ends its turn while not within 60 feet of the target or able to see it, the creature makes a Wisdom Saving Throw. On a successful save, the creature is no longer affected by the target and recognizes the feeling of repugnance or attraction as magical. In addition, a creature affected by the spell is allowed another Wisdom Saving Throw every 24 hours while the spell persists.
+***Ending the Effect.*** If an affected creature ends its turn while not within 60 feet of the target or able to see it, the creature makes a Wisdom Saving Throw. On a successful save, the creature is no longer affected by the target and recognizes the feeling of repugnance or attraction as magical. In addition, a creature affected by the spell is allowed another Wisdom :d20-save: **Saving Throw** every 24 hours while the spell persists.
 
 A creature that successfully saves against this effect is immune to it for 1 minute, after which time it can be affected again.
 
 ### Clone
-*8th-level necromancy*
+*8th-level Necromancy*
   
 **Casting Time:** 1 hour  
 **Range:** Touch  
@@ -89,7 +89,7 @@ This spell grows an inert duplicate of a living creature as a safeguard against 
 At any time after the clone matures, if the original creature dies, its soul transfers to the clone, provided that the soul is free and willing to return. The clone is physically identical to the original and has the same personality, memories, and abilities, but none of the original's equipment. The original creature's physical remains, if they still exist, become inert and can't thereafter be restored to life, since the creature's soul is elsewhere.
 
 ### Control Weather
-*8th-level transmutation*
+*8th-level Transmutation*
   
 **Casting Time:** 10 minutes  
 **Range:** Self (5-mile radius)  
@@ -131,7 +131,7 @@ When you change the weather conditions, find a current condition on the followin
 |   5   | Storm         |
 
 ### Demiplane
-*8th-level conjuration*
+*8th-level Conjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -143,25 +143,25 @@ You create a shadowy door on a flat solid surface that you can see within range.
 Each time you cast this spell, you can create a new demiplane, or have the shadowy door connect to a demiplane you created with a previous casting of this spell. Additionally, if you know the nature and contents of a demiplane created by a casting of this spell by another creature, you can have the shadowy door connect to its demiplane instead.
 
 ### Dominate Monster
-*8th-level enchantment*
+*8th-level Enchantment*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
 **Components:** V, S  
 **Duration:** Concentration, up to 1 hour
 
-You attempt to beguile a creature that you can see within range. It must succeed on a Wisdom Saving Throw or be charmed by you for the duration. If you or creatures that are friendly to you are fighting it, it has advantage on the Saving Throw.
+You attempt to beguile a creature that you can see within range. It must succeed on a Wisdom :d20-save: **Saving Throw** or be charmed by you for the duration. If you or creatures that are friendly to you are fighting it, it has :d20-adv: **Advantage** on the Saving Throw.
 
 While the creature is charmed, you have a telepathic link with it as long as the two of you are on the same plane of existence. You can use this telepathic link to issue commands to the creature while you are conscious (no action required), which it does its best to obey. You can specify a simple and general course of action, such as "Attack that creature," "Run over there," or "Fetch that object." If the creature completes the order and doesn't receive further direction from you, it defends and preserves itself to the best of its ability.
 
 You can use your :rsc-action: **Action** to take total and precise control of the target. Until the end of your next turn, the creature takes only the actions you choose, and doesn't do anything that you don't allow it to do. During this time, you can also cause the creature to use a reaction, but this requires you to use your own :rsc-reaction: **Reaction** as well.
 
-Each time the target takes damage, it makes a new Wisdom Saving Throw against the spell. If the Saving Throw succeeds, the spell ends.
+Each time the target takes damage, it makes a new Wisdom :d20-save: **Saving Throw** against the spell. If the :d20-save: **Saving Throw** succeeds, the spell ends.
 
 ***At Higher Levels.*** When you cast this spell with a 9th-level :rsc-spell-slot: **Spell Slot**, the duration is concentration, up to 8 hours.
 
 ### Earthquake
-*8th-level evocation*
+*8th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 500 feet  
@@ -176,14 +176,14 @@ When you cast this spell and at the end of each turn you spend concentrating on 
 
 This spell can have additional effects depending on the terrain in the area, as determined by the DM.
 
-***Fissures.*** Fissures open throughout the spell's area at the start of your next turn after you cast the spell. A total of 1d6 such fissures open in locations chosen by the DM. Each is 1d10 × 10 feet deep, 10 feet wide, and extends from one edge of the spell's area to the opposite side. A creature standing on a spot where a fissure opens must succeed on a Dexterity Saving Throw or fall in. A creature that successfully saves moves with the fissure's edge as it opens.
+***Fissures.*** Fissures open throughout the spell's area at the start of your next turn after you cast the spell. A total of 1d6 such fissures open in locations chosen by the DM. Each is 1d10 × 10 feet deep, 10 feet wide, and extends from one edge of the spell's area to the opposite side. A creature standing on a spot where a fissure opens must succeed on a Dexterity :d20-save: **Saving Throw** or fall in. A creature that successfully saves moves with the fissure's edge as it opens.
 
 A fissure that opens beneath a structure causes it to automatically collapse (see below).
 
 ***Structures.*** The tremor deals 50 bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the start of each of your turns until the spell ends. If a structure drops to 0 Hit Points, it collapses and potentially damages nearby creatures. A creature within half the distance of a structure's height must make a Dexterity Saving Throw. On a failed save, the creature takes 5d6 bludgeoning damage, is knocked prone, and is buried in the rubble, requiring a DC 20 Strength (Athletics) check as an :rsc-action: **Action** to escape. The DM can adjust the DC higher or lower, depending on the nature of the rubble. On a successful save, the creature takes half as much damage and doesn't fall prone or become buried.
 
 ### Feeblemind
-*8th-level enchantment*
+*8th-level Enchantment*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 150 feet  
@@ -194,12 +194,12 @@ You blast the mind of a creature that you can see within range, attempting to sh
 
 On a failed save, the creature's Intelligence and Charisma scores become 1. The creature can't cast spells, activate magic items, understand language, or communicate in any intelligible way. The creature can, however, identify its friends, follow them, and even protect them.
 
-At the end of every 30 days, the creature can repeat its Saving Throw against this spell. If it succeeds on its Saving Throw, the spell ends.
+At the end of every 30 days, the creature can repeat its :d20-save: **Saving Throw** against this spell. If it succeeds on its Saving Throw, the spell ends.
 
 The spell can also be ended by *greater restoration*, *heal*, or *wish*.
 
 ### Glibness
-*8th-level transmutation*
+*8th-level Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self  
@@ -209,33 +209,33 @@ The spell can also be ended by *greater restoration*, *heal*, or *wish*.
 Until the spell ends, when you make a Charisma check, you can replace the number you roll with a 15. Additionally, no matter what you say, magic that would determine if you are telling the truth indicates that you are being truthful.
 
 ### Holy Aura
-*8th-level abjuration*
+*8th-level Abjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self  
 **Components:** V, S, M (a tiny reliquary worth at least 1,000 gp containing a sacred relic, such as a scrap of cloth from a saint's robe or a piece of parchment from a religious text)  
 **Duration:** Concentration, up to 1 minute
 
-Divine light washes out from you and coalesces in a soft radiance in a 30-foot radius around you. Creatures of your choice in that radius when you cast this spell shed dim light in a 5-foot radius and have advantage on all Saving Throws, and other creatures have disadvantage on attack rolls against them until the spell ends. In addition, when a fiend or an undead hits an affected creature with a melee attack, the aura flashes with brilliant light. The attacker must succeed on a Constitution Saving Throw or be blinded until the spell ends.
+Divine light washes out from you and coalesces in a soft radiance in a 30-foot radius around you. Creatures of your choice in that radius when you cast this spell shed dim light in a 5-foot radius and have :d20-adv: **Advantage** on all Saving Throws, and other creatures have :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** against them until the spell ends. In addition, when a fiend or an undead hits an affected creature with a melee attack, the aura flashes with brilliant light. The attacker must succeed on a Constitution :d20-save: **Saving Throw** or be blinded until the spell ends.
 
 ### Illusory Dragon
-*8th-level illusion*
+*8th-level Illusion*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 120 feet  
 **Components:** S  
 **Duration:** Concentration, up to 1 minute
 
-By gathering threads of shadow material from the Shadowfell, you create a Huge shadowy dragon in an unoccupied space that you can see within range. The illusion lasts for the spell's duration and occupies its space, as if it were a creature.
+By gathering threads of shadow material from the Shadowfell, you create a Huge shadowy dragon in an unoccupied space that you can see within range. The Illusion lasts for the spell's duration and occupies its space, as if it were a creature.
 
-When the illusion appears, any of your enemies that can see it must succeed on a Wisdom Saving Throw or become frightened of it for 1 minute. If a frightened creature ends its turn in a location where it doesn't have line of sight to the illusion, it can repeat the Saving Throw, ending the effect on itself on a success.
+When the Illusion appears, any of your enemies that can see it must succeed on a Wisdom :d20-save: **Saving Throw** or become frightened of it for 1 minute. If a frightened creature ends its turn in a location where it doesn't have line of sight to the Illusion, it can repeat the Saving Throw, ending the effect on itself on a success.
 
-As a :rsc-bonus-action: **Bonus Action** on your turn, you can move the illusion up to 60 feet. At any point during its movement, you can cause it to exhale a blast of energy in a 60-foot cone originating from its space. When you create the dragon, choose a damage type: acid, cold, fire, lightning, necrotic, or poison. Each creature in the cone must make an Intelligence Saving Throw, taking 7d6 damage of the chosen damage type on a failed save, or half as much damage on a successful one.
+As a :rsc-bonus-action: **Bonus Action** on your turn, you can move the Illusion up to 60 feet. At any point during its movement, you can cause it to exhale a blast of energy in a 60-foot cone originating from its space. When you create the dragon, choose a damage type: acid, cold, fire, lightning, necrotic, or poison. Each creature in the cone must make an Intelligence Saving Throw, taking 7d6 damage of the chosen damage type on a failed save, or half as much damage on a successful one.
 
-The illusion is tangible because of the shadow stuff used to create it, but attacks miss it automatically, it succeeds on all Saving Throws, and it is immune to all damage and conditions. A creature that uses an :rsc-action: **Action** to examine the dragon can determine that it is an illusion by succeeding on an Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through it and has advantage on Saving Throws against its breath.
+The Illusion is tangible because of the shadow stuff used to create it, but attacks miss it automatically, it succeeds on all Saving Throws, and it is immune to all damage and conditions. A creature that uses an :rsc-action: **Action** to examine the dragon can determine that it is an Illusion by succeeding on an Intelligence (Investigation) check against your spell save DC. If a creature discerns the Illusion for what it is, the creature can see through it and has :d20-adv: **Advantage** on :d20-save: **Saving Throws** against its breath.
 
 ### Incendiary Cloud
-*8th-level conjuration*
+*8th-level Conjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 150 feet  
@@ -244,12 +244,12 @@ The illusion is tangible because of the shadow stuff used to create it, but atta
 
 A swirling cloud of smoke shot through with white-hot embers appears in a 20-foot-radius sphere centered on a point within range. The cloud spreads around corners and is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 
-When the cloud appears, each creature in it must make a Dexterity Saving Throw. A creature takes 10d8 fire damage on a failed save, or half as much damage on a successful one. A creature must also make this Saving Throw when it enters the spell's area for the first time on a turn or ends its turn there.
+When the cloud appears, each creature in it must make a Dexterity Saving Throw. A creature takes 10d8 fire damage on a failed save, or half as much damage on a successful one. A creature must also make this :d20-save: **Saving Throw** when it enters the spell's area for the first time on a turn or ends its turn there.
 
 The cloud moves 10 feet directly away from you in a direction that you choose at the start of each of your turns.
 
 ### Maddening Darkness
-*8th-level evocation*
+*8th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 150 feet  
@@ -261,7 +261,7 @@ Magical darkness spreads from a point you choose within range to fill a 60-foot-
 Shrieks, gibbering, and mad laughter can be heard within the sphere. Whenever a creature starts its turn in the sphere, it must make a Wisdom Saving Throw, taking 8d8 psychic damage on a failed save, or half as much damage on a successful one.
 
 ### Maze
-*8th-level conjuration*
+*8th-level Conjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -275,7 +275,7 @@ The target can use its action to attempt to escape. When it does so, it makes a 
 When the spell ends, the target reappears in the space it left or, if that space is occupied, in the nearest unoccupied space.
 
 ### Mighty Fortress
-*8th-level conjuration*
+*8th-level Conjuration*
   
 **Casting Time:** 1 minute  
 **Range:** 1 mile  
@@ -297,17 +297,17 @@ After 7 days or when you cast this spell somewhere else, the fortress harmlessly
 Casting this spell on the same spot once every 7 days for a year makes the fortress permanent.
 
 ### Mind Blank
-*8th-level abjuration*
+*8th-level Abjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Touch  
 **Components:** V, S  
 **Duration:** 24 hours
 
-Until the spell ends, one willing creature you touch is immune to psychic damage, any effect that would sense its emotions or read its thoughts, divination spells, and the charmed condition. The spell even foils *wish* spells and spells or effects of similar power used to affect the target's mind or to gain information about the target.
+Until the spell ends, one willing creature you touch is immune to psychic damage, any effect that would sense its emotions or read its thoughts, Divination spells, and the charmed condition. The spell even foils *wish* spells and spells or effects of similar power used to affect the target's mind or to gain information about the target.
 
 ### Power Word Stun
-*8th-level enchantment*
+*8th-level Enchantment*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -316,24 +316,24 @@ Until the spell ends, one willing creature you touch is immune to psychic damage
 
 You speak a word of power that can overwhelm the mind of one creature you can see within range, leaving it dumbfounded. If the target has 150 Hit Points or fewer, it is stunned. Otherwise, the spell has no effect.
 
-The stunned target must make a Constitution Saving Throw at the end of each of its turns. On a successful save, this stunning effect ends.
+The stunned target must make a Constitution :d20-save: **Saving Throw** at the end of each of its turns. On a successful save, this stunning effect ends.
 
 ### Sunburst
-*8th-level evocation*
+*8th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 150 feet  
 **Components:** V, S, M (fire and a piece of sunstone)  
 **Duration:** Instantaneous
 
-Brilliant sunlight flashes in a 60-foot radius centered on a point you choose within range. Each creature in that light must make a Constitution Saving Throw. On a failed save, a creature takes 12d6 radiant damage and is blinded for 1 minute. On a successful save, it takes half as much damage and isn't blinded by this spell. Undead and oozes have disadvantage on this Saving Throw.
+Brilliant sunlight flashes in a 60-foot radius centered on a point you choose within range. Each creature in that light must make a Constitution Saving Throw. On a failed save, a creature takes 12d6 radiant damage and is blinded for 1 minute. On a successful save, it takes half as much damage and isn't blinded by this spell. Undead and oozes have :d20-disadv: **Disadvantage** on this Saving Throw.
 
-A creature blinded by this spell makes another Constitution Saving Throw at the end of each of its turns. On a successful save, it is no longer blinded.
+A creature blinded by this spell makes another Constitution :d20-save: **Saving Throw** at the end of each of its turns. On a successful save, it is no longer blinded.
 
 This spell dispels any darkness in its area that was created by a spell.
 
 ### Telepathy
-*8th-level evocation*
+*8th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Unlimited  
@@ -345,7 +345,7 @@ You create a telepathic link between yourself and a willing creature with which 
 Until the spell ends, you and the target can instantaneously share words, images, sounds, and other sensory messages with one another through the link, and the target recognizes you as the creature it is communicating with. The spell enables a creature with an Intelligence score of at least 1 to understand the meaning of your words and take in the scope of any sensory messages you send to it.
 
 ### Tsunami
-*8th-level conjuration*
+*8th-level Conjuration*
   
 **Casting Time:** 1 minute  
 **Range:** Sight  
@@ -356,12 +356,12 @@ A wall of water springs into existence at a point you choose within range. You c
 
 When the wall appears, each creature within its area must make a Strength Saving Throw. On a failed save, a creature takes 6d10 bludgeoning damage, or half as much damage on a successful save.
 
-At the start of each of your turns after the wall appears, the wall, along with any creatures in it, moves 50 feet away from you. Any Huge or smaller creature inside the wall or whose space the wall enters when it moves must succeed on a Strength Saving Throw or take 5d10 bludgeoning damage. A creature can take this damage only once per round. At the end of the turn, the wall's height is reduced by 50 feet, and the damage creatures take from the spell on subsequent rounds is reduced by 1d10. When the wall reaches 0 feet in height, the spell ends.
+At the start of each of your turns after the wall appears, the wall, along with any creatures in it, moves 50 feet away from you. Any Huge or smaller creature inside the wall or whose space the wall enters when it moves must succeed on a Strength :d20-save: **Saving Throw** or take 5d10 bludgeoning damage. A creature can take this damage only once per round. At the end of the turn, the wall's height is reduced by 50 feet, and the damage creatures take from the spell on subsequent rounds is reduced by 1d10. When the wall reaches 0 feet in height, the spell ends.
 
 A creature caught in the wall can move by swimming. Because of the force of the wave, though, the creature must make a successful Strength (Athletics) check against your spell save DC in order to move at all. If it fails the check, it can't move. A creature that moves out of the area falls to the ground.
 
 ### Reality Break
-*8th-level conjuration*
+*8th-level Conjuration*
   
 **Casting Time:** :rsc-action: **Action**    
 **Range:** 60 feet  
@@ -381,7 +381,7 @@ At the end of each of its turns, the affected target can repeat the Wisdom Savin
 | 9-10 | **Chill of the Dark Void.** The target takes 10d12 cold damage, and it is blinded until the end of the turn.                                                                                                                   |
 
 ### Dark Star
-*8th-level evocation*
+*8th-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 150 feet  

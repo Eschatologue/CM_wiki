@@ -4,7 +4,7 @@ Fantasy gaming worlds are a vast tapestry made up of many different cultures, ea
 
 ## What is Armour Class (AC)?
 
-Armour Class (AC) is a measurement of how difficult a creature is to be hit by an attack. In order to successfully hit a creature, the results of an attack roll must have a number equal to or greater than the target's Armour Class. AC can be increased by equipping armour and shields, by selecting certain feats when leveling up, utilizing certain spells, or when the DM decide that their creatures requires more AC. ~~Damn.. you guys rolled high.....~~
+Armour Class (AC) is a measurement of how difficult a creature is to be hit by an attack. In order to successfully hit a creature, the results of an :d20-attack: **Attack Roll** must have a number equal to or greater than the target's Armour Class. AC can be increased by equipping armour and shields, by selecting certain feats when leveling up, utilizing certain spells, or when the DM decide that their creatures requires more AC. ~~Damn.. you guys rolled high.....~~
 
 ### Base AC from Armour
 
@@ -22,16 +22,16 @@ Each type of armour provides a base AC. The three main categories of armour are 
 
 - **Hide:** Base AC 12 + Dexterity modifier (maximum of +2).
 - **Chain Shirt:** Base AC 13 + Dexterity modifier (maximum of +2).
-- **Scale Mail:** Base AC 14 + Dexterity modifier (maximum of +2), disadvantage on Stealth checks.
+- **Scale Mail:** Base AC 14 + Dexterity modifier (maximum of +2), :d20-disadv: **Disadvantage** on Stealth checks.
 - **Breastplate:** Base AC 14 + Dexterity modifier (maximum of +2).
-- **Half Plate:** Base AC 15 + Dexterity modifier (maximum of +2), disadvantage on Stealth checks.
+- **Half Plate:** Base AC 15 + Dexterity modifier (maximum of +2), :d20-disadv: **Disadvantage** on Stealth checks.
 
 #### Heavy Armour
 
-- **Ring Mail:** Base AC 14, disadvantage on Stealth checks.
-- **Chain Mail:** Base AC 16, disadvantage on Stealth checks, requires Strength 13.
-- **Splint:** Base AC 17, disadvantage on Stealth checks, requires Strength 15.
-- **Plate:** Base AC 18, disadvantage on Stealth checks, requires Strength 15.
+- **Ring Mail:** Base AC 14, :d20-disadv: **Disadvantage** on Stealth checks.
+- **Chain Mail:** Base AC 16, :d20-disadv: **Disadvantage** on Stealth checks, requires Strength 13.
+- **Splint:** Base AC 17, :d20-disadv: **Disadvantage** on Stealth checks, requires Strength 15.
+- **Plate:** Base AC 18, :d20-disadv: **Disadvantage** on Stealth checks, requires Strength 15.
 
 #### Using a Shield
 
@@ -78,7 +78,7 @@ Using a shield adds bonus to your AC equal to the amount stated. This bonus is a
 
 #### Special Considerations
 
-- **Stealth Disadvantage:** Some armours (e.g., scale mail, splint, plate) impose disadvantage on Dexterity (Stealth) checks.
+- **Stealth Disadvantage:** Some armours (e.g., scale mail, splint, plate) impose :d20-disadv: **Disadvantage** on Dexterity (Stealth) checks.
 - **Strength Requirements:** Some heavy armours require a minimum Strength score to avoid movement , which is -10 ft of movement speed.
 - **Magical Armour:** Magical armours can provide additional bonuses to AC or other special benefits.
 

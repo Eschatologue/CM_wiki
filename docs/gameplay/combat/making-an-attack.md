@@ -6,7 +6,7 @@ icon: d20/attack
 
 ## Making an Attack
 
-Whether you're striking with a melee weapon, firing a ranged weapon, or making an attack roll as part of a spell, an attack follows a simple structure:
+Whether you're striking with a melee weapon, firing a ranged weapon, or making an :d20-attack: **Attack Roll** as part of a spell, an attack follows a simple structure:
 
 1. **Choose a target.** Select a creature, object, or location within your attack's range.
 2. **Determine modifiers.** The DM decides if the target has cover and whether you have :d20-adv: **Advantage** or :d20-disadv: **Disadvantage**. Spells, abilities, and other effects can also modify your attack roll.
@@ -21,7 +21,7 @@ To make an attack roll, roll a d20 and add the appropriate modifiers. If the tot
 
 ### Modifiers to the Roll
 
-- **Ability Modifier:** For melee attacks, use Strength. For ranged attacks, use Dexterity. Weapons with the :weapon-prop-finesse: **Finesse** or :weapon-prop-thrown: **Thrown** property use different rules. Spells requiring an attack roll use the caster's spellcasting ability.
+- **Ability Modifier:** For melee attacks, use Strength. For ranged attacks, use Dexterity. Weapons with the :weapon-prop-finesse: **Finesse** or :weapon-prop-thrown: **Thrown** property use different rules. Spells requiring an :d20-attack: **Attack Roll** use the caster's spellcasting ability.
 - **Proficiency Bonus:** Add this when attacking with a weapon you're proficient with or when casting a spell attack. You don't add Proficiency Bonus to damage rolls inless stated otherwise.
 
 ### Rolling 1 or 20

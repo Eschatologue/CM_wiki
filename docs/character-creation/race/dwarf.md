@@ -31,7 +31,7 @@
 &ensp;&ensp;&ensp; You can see in the dark up to 60 ft.
 
 :material-shield-plus:{ .lg .middle } **Dwarven Resilience**  
-&ensp;&ensp;&ensp; You have :d20-adv: **Advantage** on Saving Throws against :dmg-poison:**Poison**, and you have [Resistance](../../gameplay/combat/damage-healing.md#resistance) against :dmg-poison:**Poison** damage.
+&ensp;&ensp;&ensp; You have :d20-adv: **Advantage** on :d20-save: **Saving Throws** against :dmg-poison:**Poison**, and you have [Resistance](../../gameplay/combat/damage-healing.md#resistance) against :dmg-poison:**Poison** damage.
 
 :material-hammer:{ .lg .middle } **Dwarven Combat Training**  
 &ensp;&ensp;&ensp; You have Proficiency with the battleaxe, handaxe, light hammer, and warhammer.
