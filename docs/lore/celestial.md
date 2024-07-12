@@ -15,7 +15,7 @@ Little knowledge exists and many rumors surround Celestial. Few dare to study it
 
 ## Studying Celestial
 
-> *"What does 'Out of all, one must pay the price' mean? What price?? I'm not paying taxes to whoever wrote these things! Oh [elven curse words]!! The paper!! It's burning!!!" - An Elven Scholar*
+> *"What does 'Out of all, one must pay the price' mean? What price?? I'm not paying taxes to whoever wrote these things! Oh [elven profanity]!! The paper!! It's burning!!!" - An Elven Scholar*
 
 In every part of the world, there are those who are clever, foolish, or perhaps both, willing to study Celestial! Each nation calls them by different names: Scholars of Correspondence in London, Psykers in Myrkheimr and Valinor, Blemished Ones in Gallia, and Heretics in Soterrano. Despite their different titles, these scholars share a common fate: they tend to randomly combust after studying the language.
 
@@ -27,7 +27,7 @@ One notable invention by London scholars is a device called the "Tinted Glass." 
 
 ## Spellings and Grammar
 
-> *"What do you MEAN they are different when rotated????. Our Snobby aristocrats has more rules than whatever these things are!" -- Gallian's Blemished Ones*
+> *"What do you MEAN they are different when rotated?. Even our snobby aristocrats has more rules than whatever these things are!" -- Gallian's Blemished Ones*
 
 Celestial is still a language, following its own set of rules for spelling, grammar, and structure. However, these rules are shaky at best, forming a jumbled mess that is hard to understand and likely to drive one mad before comprehension is achieved.
 
