@@ -62,7 +62,7 @@ A protective magical force surrounds you, manifesting as a spectral frost that c
 **Components:** V, S  
 **Duration:** Instantaneous
 
-You invoke the power of Hadar, the Dark Hunger. Tendrils of dark energy erupt from you and batter all creatures within 10 feet of you. Each creature in that area must make a Strength Saving Throw. On a failed save, a target takes 2d6 necrotic damage and can't take reactions until its next turn. On a successful save, the creature takes half damage, but suffers no other effect.
+You invoke the power of Hadar, the Dark Hunger. Tendrils of dark energy erupt from you and batter all creatures within 10 feet of you. Each creature in that area must make a Strength :d20-save: **Saving Throw**. On a failed save, a target takes 2d6 necrotic damage and can't take reactions until its next turn. On a successful save, the creature takes half damage, but suffers no other effect.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
@@ -74,7 +74,7 @@ You invoke the power of Hadar, the Dark Hunger. Tendrils of dark energy erupt fr
 **Components:** V, S, M (a drop of blood)  
 **Duration:** Concentration, up to 1 minute
 
-Up to three creatures of your choice that you can see within range must make Charisma Saving Throws. Whenever a target that fails this :d20-save: **Saving Throw** makes an :d20-attack: **Attack Roll** or a :d20-save: **Saving Throw** before the spell ends, the target must roll a d4 and subtract the number rolled from the :d20-attack: **Attack Roll** or Saving Throw.
+Up to three creatures of your choice that you can see within range must make Charisma :d20-save: **Saving Throw**s. Whenever a target that fails this :d20-save: **Saving Throw** makes an :d20-attack: **Attack Roll** or a :d20-save: **Saving Throw** before the spell ends, the target must roll a d4 and subtract the number rolled from the :d20-attack: **Attack Roll** or :d20-save: **Saving Throw**.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
@@ -96,7 +96,7 @@ You establish a telepathic link with one beast you touch that is friendly to you
 **Components:** V, S, M (a sprinkling of holy water)  
 **Duration:** Concentration, up to 1 minute
 
-You bless up to three creatures of your choice within range. Whenever a target makes an :d20-attack: **Attack Roll** or a :d20-save: **Saving Throw** before the spell ends, the target can roll a d4 and add the number rolled to the :d20-attack: **Attack Roll** or Saving Throw.
+You bless up to three creatures of your choice within range. Whenever a target makes an :d20-attack: **Attack Roll** or a :d20-save: **Saving Throw** before the spell ends, the target can roll a d4 and add the number rolled to the :d20-attack: **Attack Roll** or :d20-save: **Saving Throw**.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
@@ -108,7 +108,7 @@ You bless up to three creatures of your choice within range. Whenever a target m
 **Components:** V, S  
 **Duration:** Instantaneous
 
-As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity Saving Throw. A creature takes 3d6 fire damage on a failed save, or half as much damage on a successful one.
+As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity :d20-save: **Saving Throw**. A creature takes 3d6 fire damage on a failed save, or half as much damage on a successful one.
 
 The fire ignites any flammable objects in the area that aren't being worn or carried.
 
@@ -122,7 +122,7 @@ The fire ignites any flammable objects in the area that aren't being worn or car
 **Components:** S  
 **Duration:** Instantaneous
 
-Choose one object weighing 1 to 5 pounds within range that isn't being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, that creature must make a Dexterity Saving Throw. On a failed save, the object strikes the target and stops moving. When the object strikes something, the object and what it strikes each take 3d8 bludgeoning damage.
+Choose one object weighing 1 to 5 pounds within range that isn't being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, that creature must make a Dexterity :d20-save: **Saving Throw**. On a failed save, the object strikes the target and stops moving. When the object strikes something, the object and what it strikes each take 3d8 bludgeoning damage.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the maximum weight of objects that you can target with this spell increases by 5 pounds, and the damage increases by 1d8, for each slot level above 1st.
 
@@ -152,9 +152,9 @@ You perform a special religious ceremony that is infused with magic. When you ca
 
 ***Bless Water.*** You touch one *vial* of water and cause it to become *holy water*.
 
-***Coming of Age.*** You touch one humanoid who is a young adult. For the next 24 hours, whenever the target makes an ability check, it can roll a d4 and add the number rolled to the ability check. A creature can benefit from this rite only once.
+***Coming of Age.*** You touch one humanoid who is a young adult. For the next 24 hours, whenever the target makes an :d20-check: **Ability Check**, it can roll a d4 and add the number rolled to the :d20-check: **Ability Check**. A creature can benefit from this rite only once.
 
-***Dedication.*** You touch one humanoid who wishes to be dedicated to your god's service. For the next 24 hours, whenever the target makes a Saving Throw, it can roll a d4 and add the number rolled to the save. A creature can benefit from this rite only once.
+***Dedication.*** You touch one humanoid who wishes to be dedicated to your god's service. For the next 24 hours, whenever the target makes a :d20-save: **Saving Throw**, it can roll a d4 and add the number rolled to the save. A creature can benefit from this rite only once.
 
 ***Funeral Rite.*** You touch one corpse, and for the next 7 days, the target can't become undead by any means short of a *wish* spell.
 
@@ -196,7 +196,7 @@ A creature can be targeted only once by each casting of this spell.
 **Components:** V, S  
 **Duration:** 1 hour
 
-You attempt to charm a humanoid you can see within range. It must make a Wisdom Saving Throw, and does so with :d20-adv: **Advantage** if you or your companions are fighting it. If it fails the Saving Throw, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you.
+You attempt to charm a humanoid you can see within range. It must make a Wisdom :d20-save: **Saving Throw**, and does so with :d20-adv: **Advantage** if you or your companions are fighting it. If it fails the :d20-save: **Saving Throw**, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
 
@@ -258,7 +258,7 @@ Some typical commands and their effects follow. You might issue a command other 
 **Components:** V  
 **Duration:** Concentration, up to 1 minute
 
-You attempt to compel a creature into a duel. One creature that you can see within range must make a Wisdom Saving Throw. On a failed save, the creature is drawn to you, compelled by your divine demand. For the duration, it has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** against creatures other than you, and must make a Wisdom :d20-save: **Saving Throw** each time it attempts to move to a space that is more than 30 feet away from you; if it succeeds on this Saving Throw, this spell doesn't restrict the target's movement for that turn.
+You attempt to compel a creature into a duel. One creature that you can see within range must make a Wisdom :d20-save: **Saving Throw**. On a failed save, the creature is drawn to you, compelled by your divine demand. For the duration, it has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** against creatures other than you, and must make a Wisdom :d20-save: **Saving Throw** each time it attempts to move to a space that is more than 30 feet away from you; if it succeeds on this :d20-save: **Saving Throw**, this spell doesn't restrict the target's movement for that turn.
 
 The spell ends if you attack any other creature, if you cast a spell that targets a hostile creature other than the target, if a creature friendly to you damages the target or casts a harmful spell on it, or if you end your turn more than 30 feet away from the target.
 
@@ -360,7 +360,7 @@ To discern that you are disguised, a creature can use its action to inspect your
 **Components:** V  
 **Duration:** Instantaneous
 
-You whisper a discordant melody that only one creature of your choice within range can hear, wracking it with terrible pain. The target must make a Wisdom Saving Throw. On a failed save, it takes 3d6 psychic damage and must immediately use its reaction, if available, to move as far as its speed allows away from you. The creature doesn't move into obviously dangerous ground, such as a fire or a pit. On a successful save, the target takes half as much damage and doesn't have to move away. A deafened creature automatically succeeds on the save.
+You whisper a discordant melody that only one creature of your choice within range can hear, wracking it with terrible pain. The target must make a Wisdom :d20-save: **Saving Throw**. On a failed save, it takes 3d6 psychic damage and must immediately use its reaction, if available, to move as far as its speed allows away from you. The creature doesn't move into obviously dangerous ground, such as a fire or a pit. On a successful save, the target takes half as much damage and doesn't have to move away. A deafened creature automatically succeeds on the save.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
@@ -396,7 +396,7 @@ Your prayer empowers you with divine radiance. Until the spell ends, your weapon
 **Components:** V, S  
 **Duration:** Instantaneous
 
-You cause a tremor in the ground within range. Each creature other than you in that area must make a Dexterity Saving Throw. On a failed save, a creature takes 1d6 bludgeoning damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared, with each 5-foot-diameter portion requiring at least 1 minute to clear by hand.
+You cause a tremor in the ground within range. Each creature other than you in that area must make a Dexterity :d20-save: **Saving Throw**. On a failed save, a creature takes 1d6 bludgeoning damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared, with each 5-foot-diameter portion requiring at least 1 minute to clear by hand.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
@@ -408,7 +408,7 @@ You cause a tremor in the ground within range. Each creature other than you in t
 **Components:** V  
 **Duration:** Concentration, up to 1 minute
 
-The next time you hit a creature with a weapon attack before this spell ends, a writhing mass of thorny vines appears at the point of impact, and the target must succeed on a Strength :d20-save: **Saving Throw** or be restrained by the magical vines until the spell ends. A Large or larger creature has :d20-adv: **Advantage** on this Saving Throw. If the target succeeds on the save, the vines shrivel away.
+The next time you hit a creature with a weapon attack before this spell ends, a writhing mass of thorny vines appears at the point of impact, and the target must succeed on a Strength :d20-save: **Saving Throw** or be restrained by the magical vines until the spell ends. A Large or larger creature has :d20-adv: **Advantage** on this :d20-save: **Saving Throw**. If the target succeeds on the save, the vines shrivel away.
 
 While restrained by this spell, the target takes 1d6 piercing damage at the start of each of its turns. A creature restrained by the vines or one that can touch the creature can use its action to make a Strength check against your spell save DC. On a success, the target is freed.
 
@@ -446,7 +446,7 @@ This spell allows you to move at an incredible pace. When you cast this spell, a
 **Components:** V  
 **Duration:** Concentration, up to 1 minute
 
-Each object in a 20-foot cube within range is outlined in blue, green, or violet light (your choice). Any creature in the area when the spell is cast is also outlined in light if it fails a Dexterity Saving Throw. For the duration, objects and affected creatures shed dim light in a 10-foot radius.
+Each object in a 20-foot cube within range is outlined in blue, green, or violet light (your choice). Any creature in the area when the spell is cast is also outlined in light if it fails a Dexterity :d20-save: **Saving Throw**. For the duration, objects and affected creatures shed dim light in a 10-foot radius.
 
 Any :d20-attack: **Attack Roll** against an affected creature or object has :d20-adv: **Advantage** if the attacker can see it, and the affected creature or object can't benefit from being invisible.
 
@@ -492,7 +492,7 @@ While your familiar is within 100 feet of you, you can communicate with it telep
 
 You can't have more than one familiar at a time. If you cast this spell while you already have a familiar, you instead cause it to adopt a new form. Choose one of the forms from the above list. Your familiar transforms into the chosen creature.
 
-Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell. Your familiar must be within 100 feet of you, and it must use its :rsc-reaction: **Reaction** to deliver the spell when you cast it. If the spell requires an attack roll, you use your attack modifier for the roll.
+Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell. Your familiar must be within 100 feet of you, and it must use its :rsc-reaction: **Reaction** to deliver the spell when you cast it. If the spell requires an :d20-attack: **Attack Roll**, you use your attack modifier for the roll.
 
 ### Fog Cloud
 *1st-level Conjuration*
@@ -514,7 +514,7 @@ You create a 20-foot-radius sphere of fog centered on a point within range. The 
 **Components:** V, S  
 **Duration:** Instantaneous
 
-Freezing cold blasts from your fingertips in a 15-foot cone. Each creature in that area must make a Constitution Saving Throw, taking 2d8 cold damage on a failed save, or half as much damage on a successful one.
+Freezing cold blasts from your fingertips in a 15-foot cone. Each creature in that area must make a Constitution :d20-save: **Saving Throw**, taking 2d8 cold damage on a failed save, or half as much damage on a successful one.
 
 The cold freezes nonmagical liquids in the area that aren't being worn or carried.
 
@@ -574,7 +574,7 @@ A flash of light streaks toward a creature of your choice within range. Make a r
 **Components:** V  
 **Duration:** Concentration, up to 1 minute
 
-The next time you hit a creature with a ranged weapon attack before the spell ends, this spell creates a rain of thorns that sprouts from your ranged weapon or ammunition. In addition to the normal effect of the attack, the target of the attack and each creature within 5 feet of it must make a Dexterity Saving Throw. A creature takes 1d10 piercing damage on a failed save, or half as much damage on a successful one.
+The next time you hit a creature with a ranged weapon attack before the spell ends, this spell creates a rain of thorns that sprouts from your ranged weapon or ammunition. In addition to the normal effect of the attack, the target of the attack and each creature within 5 feet of it must make a Dexterity :d20-save: **Saving Throw**. A creature takes 1d10 piercing damage on a failed save, or half as much damage on a successful one.
 
 ***At Higher Levels.*** If you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st (to a maximum of 6d10).
 
@@ -598,7 +598,7 @@ A creature of your choice that you can see within range regains Hit Points equal
 **Components:** V, S  
 **Duration:** Instantaneous
 
-You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity Saving Throw. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.
+You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity :d20-save: **Saving Throw**. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
 
@@ -764,7 +764,7 @@ You create three glowing darts of magical force. Each dart hits a creature of yo
 **Components:** V, S  
 **Duration:** 1 round  
 
-The gravity in a 10-foot-radius sphere centered on a point you can see within range increases for a moment. Each creature in the sphere on the turn when you cast the spell must make a Constitution Saving Throw. On a failed save, a creature takes 2d8 force damage, and its speed is halved until the end of its next turn. On a successful save, a creature takes half as much damage and suffers no reduction to its speed.
+The gravity in a 10-foot-radius sphere centered on a point you can see within range increases for a moment. Each creature in the sphere on the turn when you cast the spell must make a Constitution :d20-save: **Saving Throw**. On a failed save, a creature takes 2d8 force damage, and its speed is halved until the end of its next turn. On a successful save, a creature takes half as much damage and suffers no reduction to its speed.
 
 Until the start of your next turn, any object that isn't being worn or carried in the sphere requires a successful Strength check against your spell save DC to pick up or move.
 
@@ -800,7 +800,7 @@ All nonmagical food and drink within a 5-foot-radius sphere centered on a point 
 **Components:** V, S  
 **Duration:** Instantaneous
 
-A ray of sickening greenish energy lashes out toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution Saving Throw. On a failed save, it is also poisoned until the end of your next turn.
+A ray of sickening greenish energy lashes out toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution :d20-save: **Saving Throw**. On a failed save, it is also poisoned until the end of your next turn.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
 
@@ -812,7 +812,7 @@ A ray of sickening greenish energy lashes out toward a creature within range. Ma
 **Components:** V, S, M (a small silver mirror)  
 **Duration:** 1 minute
 
-You ward a creature within range against attack. Until the spell ends, any creature who targets the warded creature with an attack or a harmful spell must first make a Wisdom Saving Throw. On a failed save, the creature must choose a new target or lose the attack or spell. This spell doesn't protect the warded creature from area effects, such as the explosion of a *fireball*.
+You ward a creature within range against attack. Until the spell ends, any creature who targets the warded creature with an attack or a harmful spell must first make a Wisdom :d20-save: **Saving Throw**. On a failed save, the creature must choose a new target or lose the attack or spell. This spell doesn't protect the warded creature from area effects, such as the explosion of a *fireball*.
 
 If the warded creature makes an attack, casts a spell that affects an enemy, or deals damage to another creature, this spell ends.
 
@@ -824,7 +824,7 @@ If the warded creature makes an attack, casts a spell that affects an enemy, or 
 **Components:** V  
 **Duration:** Concentration, up to 1 minute
 
-The next time you hit a creature with a melee weapon attack during the spell's duration, your weapon flares with white-hot intensity, and the attack deals an extra 1d6 fire damage to the target and causes the target to ignite in flames. At the start of each of its turns until the spell ends, the target must make a Constitution Saving Throw. On a failed save, it takes 1d6 fire damage. On a successful save, the spell ends. If the target or a creature within 5 feet of it uses an :rsc-action: **Action** to put out the flames, or if some other effect douses the flames (such as the target being submerged in water), the spell ends.
+The next time you hit a creature with a melee weapon attack during the spell's duration, your weapon flares with white-hot intensity, and the attack deals an extra 1d6 fire damage to the target and causes the target to ignite in flames. At the start of each of its turns until the spell ends, the target must make a Constitution :d20-save: **Saving Throw**. On a failed save, it takes 1d6 fire damage. On a successful save, the spell ends. If the target or a creature within 5 feet of it uses an :rsc-action: **Action** to put out the flames, or if some other effect douses the flames (such as the target being submerged in water), the spell ends.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the initial extra damage dealt by the attack increases by 1d6 for each slot level above 1st.
 
@@ -865,14 +865,14 @@ Physical interaction with the image reveals it to be an Illusion, because things
 ### Silvery Barbs
 *1st-level Enchantment*
   
-**Casting Time:** :rsc-reaction: **Reaction**, which you take when a creature you can see within 60 feet of yourself succeeds on an attack roll, an ability check, or a :d20-save: **Saving Throw**  
+**Casting Time:** :rsc-reaction: **Reaction**, which you take when a creature you can see within 60 feet of yourself succeeds on an :d20-attack: **Attack Roll**, an :d20-check: **Ability Check**, or a :d20-save: **Saving Throw**  
 **Range:** 60 feet  
 **Components:** V  
 **Duration:** Instantaneous
 
 You magically distract the triggering creature and turn its momentary uncertainty into encouragement for another creature. The triggering creature must reroll the d20 and use the lower roll.
 
-You can then choose a different creature you can see within range (you can choose yourself). The chosen creature has :d20-adv: **Advantage** on the next attack roll, ability check, or :d20-save: **Saving Throw** it makes within 1 minute. A creature can be empowered by only one use of this spell at a time.
+You can then choose a different creature you can see within range (you can choose yourself). The chosen creature has :d20-adv: **Advantage** on the next :d20-attack: **Attack Roll**, :d20-check: **Ability Check**, or :d20-save: **Saving Throw** it makes within 1 minute. A creature can be empowered by only one use of this spell at a time.
 
 ### Sleep
 *1st-level Enchantment*
@@ -940,7 +940,7 @@ A stream of acid emanates from you in a line 30 feet long and 5 feet wide in a d
 
 A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom :d20-save: **Saving Throw** or fall prone, becoming incapacitated and unable to stand up for the duration. A creature with an Intelligence score of 4 or less isn't affected.
 
-At the end of each of its turns, and each time it takes damage, the target can make another Wisdom Saving Throw. The target has :d20-adv: **Advantage** on the :d20-save: **Saving Throw** if it's triggered by damage. On a success, the spell ends.
+At the end of each of its turns, and each time it takes damage, the target can make another Wisdom :d20-save: **Saving Throw**. The target has :d20-adv: **Advantage** on the :d20-save: **Saving Throw** if it's triggered by damage. On a success, the spell ends.
 
 ### Tenser's Floating Disk
 *1st-level Conjuration (ritual)*
@@ -974,7 +974,7 @@ The first time you hit with a melee weapon attack during this spell's duration, 
 **Components:** V, S  
 **Duration:** Instantaneous
 
-A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a Constitution Saving Throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed.
+A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a Constitution :d20-save: **Saving Throw**. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed.
 
 In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.
 

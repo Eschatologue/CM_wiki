@@ -112,7 +112,7 @@ If your attack misses, the spell fails and has no effect. On a hit, the spell ta
 
 - :d20-save: **Saving Throws.** If the spell requires a :d20-save: **Saving Throw** when cast, the target makes the first :d20-save: **Saving Throw** at a :d20-disadv: **Disadvantage** on hit. If you score a Critical Hit on the attack, the target automatically fails its :d20-save: **Saving Throw**. Other target (if any) make this **Save** as normal.
 
-- :fontawesome-solid-crosshairs: **Spell Attacks.** If the spell requires a spell attack roll, it instantly take effect when you hit with a weapon attack.
+- :fontawesome-solid-crosshairs: **Spell Attacks.** If the spell requires a spell :d20-attack: **Attack Roll**, it instantly take effect when you hit with a weapon attack.
 
 ## Spellbreaker’s Mark <small> <span style="float:right;"> Level 3  </span> </small>
 

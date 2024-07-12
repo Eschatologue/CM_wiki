@@ -9,15 +9,15 @@ icon: d20/attack
 Whether you're striking with a melee weapon, firing a ranged weapon, or making an :d20-attack: **Attack Roll** as part of a spell, an attack follows a simple structure:
 
 1. **Choose a target.** Select a creature, object, or location within your attack's range.
-2. **Determine modifiers.** The DM decides if the target has cover and whether you have :d20-adv: **Advantage** or :d20-disadv: **Disadvantage**. Spells, abilities, and other effects can also modify your attack roll.
-3. **Resolve the attack.** Make the attack roll. On a hit, you roll damage unless specified otherwise. Some attacks have additional effects.
+2. **Determine modifiers.** The DM decides if the target has cover and whether you have :d20-adv: **Advantage** or :d20-disadv: **Disadvantage**. Spells, abilities, and other effects can also modify your :d20-attack: **Attack Roll**.
+3. **Resolve the attack.** Make the :d20-attack: **Attack Roll**. On a hit, you roll damage unless specified otherwise. Some attacks have additional effects.
 
-If you're making an attack roll, you're making an attack.
+If you're making an :d20-attack: **Attack Roll**, you're making an attack.
 
-## Attack Rolls
+## :d20-attack: **Attack Roll**s
 *Main article: [Dice Rolls](../dice-rolls.md#attack-rolls)*
 
-To make an attack roll, roll a d20 and add the appropriate modifiers. If the total equals or exceeds the target's Armor Class (AC), the attack hits. 
+To make an :d20-attack: **Attack Roll**, roll a d20 and add the appropriate modifiers. If the total equals or exceeds the target's Armor Class (AC), the attack hits. 
 
 ### Modifiers to the Roll
 

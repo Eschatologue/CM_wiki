@@ -111,8 +111,8 @@ What effect each type of grenade can cause is stated on [Grenade Effects](#grena
 { .annotate }
 
 1. :material-eye-off: **Blinded** is a Condition.
-      - A blinded creature can't see and automatically fails any ability check that requires sight.
-      - Attack rolls against the creature have advantage, and the creature’s :d20-attack: **Attack Rolls** have disadvantage.
+      - A blinded creature can't see and automatically fails any :d20-check: **Ability Check** that requires sight.
+      - :d20-attack: **Attack Roll**s against the creature have advantage, and the creature’s :d20-attack: **Attack Rolls** have disadvantage.
 2. :material-ear-hearing-off: **Deafened** is a Condition.
       - A deafened creature can’t hear, automatically fails any :die-d20: **Ability Check** that requires hearing and is **resistant**(1) to :material-waveform: Thunder damage.
         { .annotate }

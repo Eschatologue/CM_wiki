@@ -26,7 +26,7 @@ The creature is under your control for 24 hours, after which it stops obeying an
 **Components:** V, S, M (a playing card depicting a rogue)  
 **Duration:** Instantaneous
 
-You whisper magical words that antagonize one creature of your choice within range. The target must make a Wisdom Saving Throw. On a failed save, the target takes 4d4 psychic damage and must immediately use its :rsc-reaction: **Reaction** to make a melee attack against another creature of your choice that you can see. If the target can't make this attack (for example, because there is no one within its reach or because its :rsc-reaction: **Reaction** is unavailable), the target instead has :d20-disadv: **Disadvantage** on the next :d20-attack: **Attack Roll** it makes before the start of your next turn. On a successful save, the target takes half as much damage only.
+You whisper magical words that antagonize one creature of your choice within range. The target must make a Wisdom :d20-save: **Saving Throw**. On a failed save, the target takes 4d4 psychic damage and must immediately use its :rsc-reaction: **Reaction** to make a melee attack against another creature of your choice that you can see. If the target can't make this attack (for example, because there is no one within its reach or because its :rsc-reaction: **Reaction** is unavailable), the target instead has :d20-disadv: **Disadvantage** on the next :d20-attack: **Attack Roll** it makes before the start of your next turn. On a successful save, the target takes half as much damage only.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, the damage increases by 1d4 for each slot level above 3rd.
 
@@ -62,7 +62,7 @@ Healing energy radiates from you in an aura with a 30-foot radius. Until the spe
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has :d20-adv: **Advantage** on Wisdom :d20-save: **Saving Throws** and death Saving Throws, and regains the maximum number of Hit Points possible from any healing.
+This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has :d20-adv: **Advantage** on Wisdom :d20-save: **Saving Throws** and death :d20-save: **Saving Throw**s, and regains the maximum number of Hit Points possible from any healing.
 
 ### Bestow Curse
 *3rd-level Necromancy*
@@ -117,7 +117,7 @@ While on the Ethereal Plane, you can see and hear the plane you originated from,
 
 A storm cloud appears in the shape of a cylinder that is 10 feet tall with a 60-foot radius, centered on a point you can see within range directly above you. The spell fails if you can't see a point in the air where the storm cloud could appear (for example, if you are in a room that can't accommodate the cloud).
 
-When you cast the spell, choose a point you can see under the cloud. A bolt of lightning flashes down from the cloud to that point. Each creature within 5 feet of that point must make a Dexterity Saving Throw. A creature takes 3d10 lightning damage on a failed save, or half as much damage on a successful one. On each of your turns until the spell ends, you can use your :rsc-action: **Action** to call down lightning in this way again, targeting the same point or a different one.
+When you cast the spell, choose a point you can see under the cloud. A bolt of lightning flashes down from the cloud to that point. Each creature within 5 feet of that point must make a Dexterity :d20-save: **Saving Throw**. A creature takes 3d10 lightning damage on a failed save, or half as much damage on a successful one. On each of your turns until the spell ends, you can use your :rsc-action: **Action** to call down lightning in this way again, targeting the same point or a different one.
 
 If you are outdoors in stormy conditions when you cast this spell, the spell gives you control over the existing storm instead of creating a new one. Under such conditions, the spell's damage increases by 1d10.
 
@@ -180,7 +180,7 @@ The DM has the creatures' statistics.
 **Components:** V, S, M (one piece of ammunition or a thrown weapon)  
 **Duration:** Instantaneous
 
-You throw a nonmagical weapon or fire a piece of nonmagical ammunition into the air to create a cone of identical weapons that shoot forward and then disappear. Each creature in a 60-foot cone must succeed on a Dexterity Saving Throw. A creature takes 3d8 damage on a failed save, or half as much damage on a successful one. The damage type is the same as that of the weapon or ammunition used as a component.
+You throw a nonmagical weapon or fire a piece of nonmagical ammunition into the air to create a cone of identical weapons that shoot forward and then disappear. Each creature in a 60-foot cone must succeed on a Dexterity :d20-save: **Saving Throw**. A creature takes 3d8 damage on a failed save, or half as much damage on a successful one. The damage type is the same as that of the weapon or ammunition used as a component.
 
 ### Counterspell
 *3rd-level Abjuration*
@@ -260,7 +260,7 @@ A nonmagical weapon you touch becomes a magic weapon. Choose one of the followin
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-You reach into the mind of one creature you can see and force it to make an Intelligence Saving Throw. A creature automatically succeeds if it is immune to being frightened. On a failed save, the target loses the ability to distinguish friend from foe, regarding all creatures it can see as enemies until the spell ends. Each time the target takes damage, it can repeat the Saving Throw, ending the effect on itself on a success.
+You reach into the mind of one creature you can see and force it to make an Intelligence :d20-save: **Saving Throw**. A creature automatically succeeds if it is immune to being frightened. On a failed save, the target loses the ability to distinguish friend from foe, regarding all creatures it can see as enemies until the spell ends. Each time the target takes damage, it can repeat the :d20-save: **Saving Throw**, ending the effect on itself on a success.
 
 Whenever the affected creature chooses another creature as a target, it must choose the target at random from among the creatures it can see within range of the attack, spell, or other ability it's using. If an enemy provokes an opportunity attack from the affected creature, the creature must make that attack if it is able to.
 
@@ -272,7 +272,7 @@ Whenever the affected creature chooses another creature as a target, it must cho
 **Components:** V, S, M (a piece of obsidian)  
 **Duration:** Instantaneous
 
-Choose a point you can see on the ground within range. A fountain of churned earth and stone erupts in a 20-foot cube centered on that point. Each creature in that area must make a Dexterity Saving Throw. A creature takes 3d12 bludgeoning damage on a failed save, or half as much damage on a successful one. Additionally, the ground in that area becomes difficult terrain until cleared. Each 5-foot-square portion of the area requires at least 1 minute to clear by hand.
+Choose a point you can see on the ground within range. A fountain of churned earth and stone erupts in a 20-foot cube centered on that point. Each creature in that area must make a Dexterity :d20-save: **Saving Throw**. A creature takes 3d12 bludgeoning damage on a failed save, or half as much damage on a successful one. Additionally, the ground in that area becomes difficult terrain until cleared. Each 5-foot-square portion of the area requires at least 1 minute to clear by hand.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, the damage increases by 1d12 for each slot level above 3rd.
 
@@ -302,7 +302,7 @@ When the spell ends, the creature knows it was charmed by you.
 
 You project a phantasmal image of a creature's worst fears. Each creature in a 30-foot cone must succeed on a Wisdom :d20-save: **Saving Throw** or drop whatever it is holding and become frightened for the duration.
 
-While frightened by this spell, a creature must take the Dash action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If the creature ends its turn in a location where it doesn't have line of sight to you, the creature can make a Wisdom Saving Throw. On a successful save, the spell ends for that creature.
+While frightened by this spell, a creature must take the Dash action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If the creature ends its turn in a location where it doesn't have line of sight to you, the creature can make a Wisdom :d20-save: **Saving Throw**. On a successful save, the spell ends for that creature.
 
 ### Feign Death
 *3rd-level Necromancy (ritual)*
@@ -324,7 +324,7 @@ For the spell's duration, or until you use an :rsc-action: **Action** to touch t
 **Components:** V, S, M (a tiny ball of bat guano and sulfur)  
 **Duration:** Instantaneous
 
-A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot-radius sphere centered on that point must make a Dexterity Saving Throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one.
+A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot-radius sphere centered on that point must make a Dexterity :d20-save: **Saving Throw**. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one.
 
 The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.
 
@@ -364,7 +364,7 @@ You touch a willing creature. The target gains a flying speed of 60 feet for the
 
 You transform a willing creature you touch, along with everything it's wearing and carrying, into a misty cloud for the duration. The spell ends if the creature drops to 0 Hit Points. An incorporeal creature isn't affected.
 
-While in this form, the target's only method of movement is a flying speed of 10 feet. The target can enter and occupy the space of another creature. The target has resistance to nonmagical damage, and it has :d20-adv: **Advantage** on Strength, Dexterity, and Constitution Saving Throws. The target can pass through small holes, narrow openings, and even mere cracks, though it treats liquids as though they were solid surfaces. The target can't fall and remains hovering in the air even when stunned or otherwise incapacitated.
+While in this form, the target's only method of movement is a flying speed of 10 feet. The target can enter and occupy the space of another creature. The target has resistance to nonmagical damage, and it has :d20-adv: **Advantage** on Strength, Dexterity, and Constitution :d20-save: **Saving Throw**s. The target can pass through small holes, narrow openings, and even mere cracks, though it treats liquids as though they were solid surfaces. The target can't fall and remains hovering in the air even when stunned or otherwise incapacitated.
 
 While in the form of a misty cloud, the target can't talk or manipulate objects, and any objects it was carrying or holding can't be dropped, used, or otherwise interacted with. The target can't attack or cast spells.
 
@@ -386,7 +386,7 @@ You can further refine the trigger so the spell activates only under certain cir
 
 When you inscribe the glyph, choose explosive runes or a spell glyph.
 
-***Explosive Runes.*** When triggered, the glyph erupts with magical energy in a 20-foot-radius sphere centered on the glyph. The sphere spreads around corners. Each creature in the area must make a Dexterity Saving Throw. A creature takes 5d8 acid, cold, fire, lightning, or thunder damage on a failed :d20-save: **Saving Throw** (your choice when you create the glyph), or half as much damage on a successful one.
+***Explosive Runes.*** When triggered, the glyph erupts with magical energy in a 20-foot-radius sphere centered on the glyph. The sphere spreads around corners. Each creature in the area must make a Dexterity :d20-save: **Saving Throw**. A creature takes 5d8 acid, cold, fire, lightning, or thunder damage on a failed :d20-save: **Saving Throw** (your choice when you create the glyph), or half as much damage on a successful one.
 
 ***Spell Glyph.*** You can store a prepared spell of 3rd level or lower in the glyph by casting it as part of creating the glyph. The spell must target a single creature or an area. The spell being stored has no immediate effect when cast in this way. When the glyph is triggered, the stored spell is cast. If the spell has a target, it targets the creature that triggered the glyph. If the spell affects an area, the area is centered on that creature. If the spell summons hostile creatures or creates harmful objects or traps, they appear as close as possible to the intruder and attack it. If the spell requires concentration, it lasts until the end of its full duration.
 
@@ -400,7 +400,7 @@ When you inscribe the glyph, choose explosive runes or a spell glyph.
 **Components:** V, S, M (a shaving of licorice root)  
 **Duration:** Concentration, up to 1 minute
 
-Choose a willing creature that you can see within range. Until the spell ends, the target's speed is doubled, it gains a +2 bonus to AC, it has :d20-adv: **Advantage** on Dexterity Saving Throws, and it gains an additional action on each of its turns. That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action.
+Choose a willing creature that you can see within range. Until the spell ends, the target's speed is doubled, it gains a +2 bonus to AC, it has :d20-adv: **Advantage** on Dexterity :d20-save: **Saving Throw**s, and it gains an additional action on each of its turns. That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action.
 
 When the spell ends, the target can't move or take actions until after its next turn, as a wave of lethargy sweeps over it.
 
@@ -424,7 +424,7 @@ The void creates a warp in the fabric of space, and the area is difficult terrai
 **Components:** S, M (a glowing stick of incense or a crystal vial filled with phosphorescent material)  
 **Duration:** Concentration, up to 1 minute
 
-You create a twisting pattern of colors that weaves through the air inside a 30-foot cube within range. The pattern appears for a moment and vanishes. Each creature in the area who sees the pattern must make a Wisdom Saving Throw. On a failed save, the creature becomes charmed for the duration. While charmed by this spell, the creature is incapacitated and has a speed of 0.
+You create a twisting pattern of colors that weaves through the air inside a 30-foot cube within range. The pattern appears for a moment and vanishes. Each creature in the area who sees the pattern must make a Wisdom :d20-save: **Saving Throw**. On a failed save, the creature becomes charmed for the duration. While charmed by this spell, the creature is incapacitated and has a speed of 0.
 
 The spell ends for an affected creature if it takes any damage or if someone else uses an :rsc-action: **Action** to shake the creature out of its stupor.
 
@@ -438,7 +438,7 @@ The spell ends for an affected creature if it takes any damage or if someone els
 
 When you cast this spell, you present the gem used as the material component and choose any number of creatures within range that can see you. Each target must succeed on a Wisdom :d20-save: **Saving Throw** or be charmed by you until the spell ends, or until you or your companions do anything harmful to it. While charmed in this way, a creature can do nothing but use its movement to approach you in a safe manner. While an affected creature is within 5 feet of you, it cannot move, but simply stares greedily at the gem you present.
 
-At the end of each of its turns, an affected target can make a Wisdom Saving Throw. If it succeeds, this effect ends for that target.
+At the end of each of its turns, an affected target can make a Wisdom :d20-save: **Saving Throw**. If it succeeds, this effect ends for that target.
 
 ### Intellect Fortress
 *3rd-level Abjuration*
@@ -448,7 +448,7 @@ At the end of each of its turns, an affected target can make a Wisdom Saving Thr
 **Components:** V  
 **Duration:** Concentration, up to 1 hour
 
-For the duration, you or one willing creature you can see within range has resistance to psychic damage, as well as :d20-adv: **Advantage** on Intelligence, Wisdom, and Charisma Saving Throws.
+For the duration, you or one willing creature you can see within range has resistance to psychic damage, as well as :d20-adv: **Advantage** on Intelligence, Wisdom, and Charisma :d20-save: **Saving Throw**s.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, you can target one additional creature for each slot level above 3rd. The creatures must be within 30 feet of each other when you target them.
 
@@ -488,7 +488,7 @@ You sacrifice some of your health to mend another creature's injuries. You take 
 
 The next time you make a ranged weapon attack during the spell's duration, the weapon's ammunition, or the weapon itself if it's a thrown weapon, transforms into a bolt of lightning. Make the :d20-attack: **Attack Roll** as normal. The target takes 4d8 lightning damage on a hit, or half as much damage on a miss, instead of the weapon's normal damage.
 
-Whether you hit or miss, each creature within 10 feet of the target must make a Dexterity Saving Throw. Each of these creatures takes 2d8 lightning damage on a failed save, or half as much damage on a successful one.
+Whether you hit or miss, each creature within 10 feet of the target must make a Dexterity :d20-save: **Saving Throw**. Each of these creatures takes 2d8 lightning damage on a failed save, or half as much damage on a successful one.
 
 The piece of ammunition or weapon then returns to its normal form.
 
@@ -502,7 +502,7 @@ The piece of ammunition or weapon then returns to its normal form.
 **Components:** V, S, M (a bit of fur and a rod of amber, crystal, or glass)  
 **Duration:** Instantaneous
 
-A stroke of lightning forming a line 100 feet long and 5 feet wide blasts out from you in a direction you choose. Each creature in the line must make a Dexterity Saving Throw. A creature takes 8d6 lightning damage on a failed save, or half as much damage on a successful one.
+A stroke of lightning forming a line 100 feet long and 5 feet wide blasts out from you in a direction you choose. Each creature in the line must make a Dexterity :d20-save: **Saving Throw**. A creature takes 8d6 lightning damage on a failed save, or half as much damage on a successful one.
 
 The lightning ignites flammable objects in the area that aren't being worn or carried.
 
@@ -520,7 +520,7 @@ You create a 10-foot-radius, 20-foot-tall cylinder of magical energy centered on
 
 Choose one or more of the following types of creatures: celestials, elementals, fey, fiends, or undead. The circle affects a creature of the chosen type in the following ways:
   
-The creature can't willingly enter the cylinder by nonmagical means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma Saving Throw.  
+The creature can't willingly enter the cylinder by nonmagical means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma :d20-save: **Saving Throw**.  
 The creature has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** against targets within the cylinder.  
 Targets within the cylinder can't be charmed, frightened, or possessed by the creature.
 
@@ -578,7 +578,7 @@ Minor physical damage to the stone doesn't harm you, but its partial destruction
 **Components:** V, S, M (niter, sulfur, and pine tar formed into a bead)  
 **Duration:** Concentration, up to 10 minutes
 
-You create six tiny meteors in your space. They float in the air and orbit you for the spell's duration. When you cast the spell—and as a :rsc-bonus-action: **Bonus Action** on each of your turns thereafter—you can expend one or two of the meteors, sending them streaking toward a point or points you choose within 120 feet of you. Once a meteor reaches its destination or impacts against a solid surface, the meteor explodes. Each creature within 5 feet of the point where the meteor explodes must make a Dexterity Saving Throw. A creature takes 2d6 fire damage on a failed save, or half as much damage on a successful one.
+You create six tiny meteors in your space. They float in the air and orbit you for the spell's duration. When you cast the spell—and as a :rsc-bonus-action: **Bonus Action** on each of your turns thereafter—you can expend one or two of the meteors, sending them streaking toward a point or points you choose within 120 feet of you. Once a meteor reaches its destination or impacts against a solid surface, the meteor explodes. Each creature within 5 feet of the point where the meteor explodes must make a Dexterity :d20-save: **Saving Throw**. A creature takes 2d6 fire damage on a failed save, or half as much damage on a successful one.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, the number of meteors created increases by two for each slot level above 3rd.
 
@@ -590,7 +590,7 @@ You create six tiny meteors in your space. They float in the air and orbit you f
 **Components:** V  
 **Duration:** 1 hour
 
-*I once heard a motivational speech by Jim and it was the worst ninety seconds of my life. What does Omin see in him, anyway?*— Walnut DankgrassYou address allies, staff, or innocent bystanders to exhort and inspire them to greatness, whether they have anything to get excited about or not. Choose up to five creatures within range that can hear you. For the duration, each affected creature gains 5 temporary Hit Points and has :d20-adv: **Advantage** on Wisdom Saving Throws. If an affected creature is hit by an attack, it has :d20-adv: **Advantage** on the next :d20-attack: **Attack Roll** it makes. Once an affected creature loses the temporary Hit Points granted by this spell, the spell ends for that creature.
+*I once heard a motivational speech by Jim and it was the worst ninety seconds of my life. What does Omin see in him, anyway?*— Walnut DankgrassYou address allies, staff, or innocent bystanders to exhort and inspire them to greatness, whether they have anything to get excited about or not. Choose up to five creatures within range that can hear you. For the duration, each affected creature gains 5 temporary Hit Points and has :d20-adv: **Advantage** on Wisdom :d20-save: **Saving Throw**s. If an affected creature is hit by an attack, it has :d20-adv: **Advantage** on the next :d20-attack: **Attack Roll** it makes. Once an affected creature loses the temporary Hit Points granted by this spell, the spell ends for that creature.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, the temporary Hit Points increase by 5 for each slot level above 3rd.
 
@@ -650,7 +650,7 @@ For the duration, the willing creature you touch has resistance to one damage ty
 **Components:** V, S  
 **Duration:** Instantaneous  
 
-You create intense pressure, unleash it in a 30-foot cone, and decide whether the pressure pulls or pushes creatures and objects. Each creature in that cone must make a Constitution Saving Throw. A creature takes 6d6 force damage on a failed save, or half as much damage on a successful one. And every creature that fails the save is either pulled 15 feet toward you or pushed 15 feet away from you, depending on the choice you made for the spell.
+You create intense pressure, unleash it in a 30-foot cone, and decide whether the pressure pulls or pushes creatures and objects. Each creature in that cone must make a Constitution :d20-save: **Saving Throw**. A creature takes 6d6 force damage on a failed save, or half as much damage on a successful one. And every creature that fails the save is either pulled 15 feet toward you or pushed 15 feet away from you, depending on the choice you made for the spell.
 
 In addition, unsecured objects that are completely within the cone are likewise pulled or pushed 15 feet.
 
@@ -696,7 +696,7 @@ You can send the message across any distance and even to other planes of existen
 **Components:** S, M (a rusty chain)  
 **Duration:** Concentration, up to 1 minute
 
-You conjure spectral chains to wrap around the target creature's soul, binding it to yours. The creature must make a Constitution Saving Throw, or be shackled for the spell's duration. For the spell's duration, each time you take damage, the shackled creature takes half amount of the damage you receive.
+You conjure spectral chains to wrap around the target creature's soul, binding it to yours. The creature must make a Constitution :d20-save: **Saving Throw**, or be shackled for the spell's duration. For the spell's duration, each time you take damage, the shackled creature takes half amount of the damage you receive.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 5th level or higher, you may target an additional creature for every 2 levels above 3rd.
 
@@ -710,7 +710,7 @@ You conjure spectral chains to wrap around the target creature's soul, binding i
 
 Until the spell ends, freezing rain and sleet fall in a 20-foot-tall cylinder with a 40-foot radius centered on a point you choose within range. The area is heavily obscured, and exposed flames in the area are doused.
 
-The ground in the area is covered with slick ice, making it difficult terrain. When a creature enters the spell's area for the first time on a turn or starts its turn there, it must make a Dexterity Saving Throw. On a failed save, it falls prone.
+The ground in the area is covered with slick ice, making it difficult terrain. When a creature enters the spell's area for the first time on a turn or starts its turn there, it must make a Dexterity :d20-save: **Saving Throw**. On a failed save, it falls prone.
 
 If a creature starts its turn in the spell's area and is concentrating on a spell, the creature must make a successful Constitution :d20-save: **Saving Throw** against your spell save DC or lose concentration.
 
@@ -724,7 +724,7 @@ If a creature starts its turn in the spell's area and is concentrating on a spel
 
 You alter time around up to six creatures of your choice in a 40-foot cube within range. Each target must succeed on a Wisdom :d20-save: **Saving Throw** or be affected by this spell for the duration.
 
-An affected target's speed is halved, it takes a −2 penalty to AC and Dexterity Saving Throws, and it can't use reactions. On its turn, it can use either an :rsc-action: **Action** or a :rsc-bonus-action: **Bonus Action**, not both. Regardless of the creature's abilities or magic items, it can't make more than one melee or ranged attack during its turn.
+An affected target's speed is halved, it takes a −2 penalty to AC and Dexterity :d20-save: **Saving Throw**s, and it can't use reactions. On its turn, it can use either an :rsc-action: **Action** or a :rsc-bonus-action: **Bonus Action**, not both. Regardless of the creature's abilities or magic items, it can't make more than one melee or ranged attack during its turn.
 
 If the creature attempts to cast a spell with a casting time of :rsc-action: **Action**, roll a d20. On an 11 or higher, the spell doesn't take effect until the creature's next turn, and the creature must use its action on that turn to complete the spell. If it can't, the spell is wasted.
 
@@ -770,7 +770,7 @@ This spell can cause the plants created by the *entangle* spell to release a res
 
 You call forth spirits to protect you. They flit around you to a distance of 15 feet for the duration. If you are good or neutral, their spectral form appears angelic or fey (your choice). If you are evil, they appear fiendish.
 
-When you cast this spell, you can designate any number of creatures you can see to be unaffected by it. An affected creature's speed is halved in the area, and when the creature enters the area for the first time on a turn or starts its turn there, it must make a Wisdom Saving Throw. On a failed save, the creature takes 3d8 radiant damage (if you are good or neutral) or 3d8 necrotic damage (if you are evil). On a successful save, the creature takes half as much damage.
+When you cast this spell, you can designate any number of creatures you can see to be unaffected by it. An affected creature's speed is halved in the area, and when the creature enters the area for the first time on a turn or starts its turn there, it must make a Wisdom :d20-save: **Saving Throw**. On a failed save, the creature takes 3d8 radiant damage (if you are good or neutral) or 3d8 necrotic damage (if you are evil). On a successful save, the creature takes half as much damage.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
 
@@ -800,7 +800,7 @@ In addition, any creature of your choice that you can see that starts its turn w
 
 You create a 20-foot-radius sphere of yellow, nauseating gas centered on a point within range. The cloud spreads around corners, and its area is heavily obscured. The cloud lingers in the air for the duration.
 
-Each creature that is completely within the cloud at the start of its turn must make a Constitution :d20-save: **Saving Throw** against poison. On a failed save, the creature spends its action that turn retching and reeling. Creatures that don't need to breathe or are immune to poison automatically succeed on this Saving Throw.
+Each creature that is completely within the cloud at the start of its turn must make a Constitution :d20-save: **Saving Throw** against poison. On a failed save, the creature spends its action that turn retching and reeling. Creatures that don't need to breathe or are immune to poison automatically succeed on this :d20-save: **Saving Throw**.
 
 A moderate wind (at least 10 miles per hour) disperses the cloud after 4 rounds. A strong wind (at least 20 miles per hour) disperses it after 1 round.
 
@@ -878,7 +878,7 @@ The creature is an ally to you and your companions. In combat, the creature shar
 **Components:** V  
 **Duration:** Instantaneous
 
-You teleport yourself to an unoccupied space you can see within range. Immediately after you disappear, a thunderous boom sounds, and each creature within 10 feet of the space you left must make a Constitution Saving Throw, taking 3d10 thunder damage on a failed save, or half as much damage on a successful one. The thunder can be heard from up to 300 feet away.
+You teleport yourself to an unoccupied space you can see within range. Immediately after you disappear, a thunderous boom sounds, and each creature within 10 feet of the space you left must make a Constitution :d20-save: **Saving Throw**, taking 3d10 thunder damage on a failed save, or half as much damage on a successful one. The thunder can be heard from up to 300 feet away.
 
 You can bring along objects as long as their weight doesn't exceed what you can carry. You can also teleport one willing creature of your size or smaller who is carrying gear up to its carrying capacity. The creature must be within 5 feet of you when you cast this spell, and there must be an unoccupied space within 5 feet of your destination space for the creature to appear in; otherwise, the creature is left behind.
 
@@ -892,7 +892,7 @@ You can bring along objects as long as their weight doesn't exceed what you can 
 **Components:** V, S, M (a drop of water)  
 **Duration:** Instantaneous
 
-You conjure up a wave of water that crashes down on an area within range. The area can be up to 30 feet long, up to 10 feet wide, and up to 10 feet tall. Each creature in that area must make a Dexterity Saving Throw. On a failed save, a creature takes 4d8 bludgeoning damage and is knocked prone. On a successful save, a creature takes half as much damage and isn't knocked prone. The water then spreads out across the ground in all directions, extinguishing unprotected flames in its area and within 30 feet of it, and then it vanishes.
+You conjure up a wave of water that crashes down on an area within range. The area can be up to 30 feet long, up to 10 feet wide, and up to 10 feet tall. Each creature in that area must make a Dexterity :d20-save: **Saving Throw**. On a failed save, a creature takes 4d8 bludgeoning damage and is knocked prone. On a successful save, a creature takes half as much damage and isn't knocked prone. The water then spreads out across the ground in all directions, extinguishing unprotected flames in its area and within 30 feet of it, and then it vanishes.
 
 ### Tiny Servant
 *3rd-level Transmutation*
@@ -952,7 +952,7 @@ You create a wall of swirling sand on the ground at a point you can see within r
 
 You create a wall of water on the ground at a point you can see within range. You can make the wall up to 30 feet long, 10 feet high, and 1 foot thick, or you can make a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick. The wall vanishes when the spell ends. The wall's space is difficult terrain.
 
-Any ranged weapon attack that enters the wall's space has :d20-disadv: **Disadvantage** on the attack roll, and fire damage is halved if the fire effect passes through the wall to reach its target. Spells that deal cold damage that pass through the wall cause the area of the wall they pass through to freeze solid (at least a 5-foot-square section is frozen). Each 5-foot-square frozen section has AC 5 and 15 Hit Points. Reducing a frozen section to 0 Hit Points destroys it. When a section is destroyed, the wall's water doesn't fill it.
+Any ranged weapon attack that enters the wall's space has :d20-disadv: **Disadvantage** on the :d20-attack: **Attack Roll**, and fire damage is halved if the fire effect passes through the wall to reach its target. Spells that deal cold damage that pass through the wall cause the area of the wall they pass through to freeze solid (at least a 5-foot-square section is frozen). Each 5-foot-square frozen section has AC 5 and 15 Hit Points. Reducing a frozen section to 0 Hit Points destroys it. When a section is destroyed, the wall's water doesn't fill it.
 
 ### Water Breathing
 *3rd-level Transmutation (ritual)*
@@ -986,6 +986,6 @@ If you target a creature submerged in a liquid, the spell carries the target to 
 
 A wall of strong wind rises from the ground at a point you choose within range. You can make the wall up to 50 feet long, 15 feet high, and 1 foot thick. You can shape the wall in any way you choose so long as it makes one continuous path along the ground. The wall lasts for the duration.
 
-When the wall appears, each creature within its area must make a Strength Saving Throw. A creature takes 3d8 bludgeoning damage on a failed save, or half as much damage on a successful one.
+When the wall appears, each creature within its area must make a Strength :d20-save: **Saving Throw**. A creature takes 3d8 bludgeoning damage on a failed save, or half as much damage on a successful one.
 
 The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flying creatures or objects can't pass through the wall. Loose, lightweight materials brought into the wall fly upward. Arrows, bolts, and other ordinary projectiles launched at targets behind the wall are deflected upward and automatically miss. (Boulders hurled by giants or siege engines, and similar projectiles, are unaffected.) Creatures in gaseous form can't pass through it.

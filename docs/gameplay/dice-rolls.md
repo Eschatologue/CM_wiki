@@ -32,11 +32,11 @@ The term d20 Test encompasses the three main d20 rolls of the game: :d20-attack:
 
 ### List of d20 Tests
 
-#### :d20-attack:{ .lg } Attack Rolls
+#### :d20-attack:{ .lg } :d20-attack: **Attack Roll**s
 
 When a creature attacks a target, it makes an :d20-attack: **Attack Roll** against the target's AC to determine whether the attack is a hit or a miss. If the attack is a hit, it generally deals damage, and the attacker rolls for damage.
 
-Creatures generally make their attacks with their equipped weapon (including unarmed), but some spells – such as a Warlock's [Eldritch Blast](../spells/cantrip.md#eldritch-blast) – require the caster to make spell attack rolls.
+Creatures generally make their attacks with their equipped weapon (including unarmed), but some spells – such as a Warlock's [Eldritch Blast](../spells/cantrip.md#eldritch-blast) – require the caster to make spell :d20-attack: **Attack Roll**s.
 
 !!! quote ""
 
@@ -46,7 +46,7 @@ Creatures generally make their attacks with their equipped weapon (including una
 
 [making an attack]: ./combat/making-an-attack.md
 
-#### :d20-check:{ .lg } Ability Checks
+#### :d20-check:{ .lg } :d20-check: **Ability Check**s
   
 An :d20-check:**Ability Check** is an attempt to succeed at a specific task, and is rolled against a **Difficulty Class** (**DC**) set by the DM for that task. If the final result of the roll equals or exceeds the DC, the attempt is successful.
 
@@ -56,7 +56,7 @@ An :d20-check:**Ability Check** is an attempt to succeed at a specific task, and
 
 For every :d20-check:**Ability Check**, the DM decides which of the six abilities is relevant to the task at hand and the difficulty of the task, represented by a [Difficulty Class]. The more difficult a task, the higher its DC.
 
-#### :d20-save:{ .lg } Saving Throws
+#### :d20-save:{ .lg } :d20-save: **Saving Throw**s
   
 Traps, spells, conditions, and other sources of harm may allow a creature a chance to avoid or reduce their effect, known as a :d20-save: **Saving Throw** or save. To attempt a save, a creature rolls a d20 against a target Save [DC].
 
@@ -66,7 +66,7 @@ Traps, spells, conditions, and other sources of harm may allow a creature a chan
 
 ### Natural 1s and 20s
 
-Rolling a 1 or 20 on a d20 roll is referred to as a natural 1 or natural 20. When making an :d20-attack: **Attack Roll** or ability check, rolling a natural 1 is always an automatic failure, while a natural 20 is always an automatic success, regardless of the final result after modifiers are applied. :d20-save: **Saving Throws** attempted during social encounters, and death Saving Throws, can also roll natural 1s and 20s.
+Rolling a 1 or 20 on a d20 roll is referred to as a natural 1 or natural 20. When making an :d20-attack: **Attack Roll** or :d20-check: **Ability Check**, rolling a natural 1 is always an automatic failure, while a natural 20 is always an automatic success, regardless of the final result after modifiers are applied. :d20-save: **Saving Throws** attempted during social encounters, and death :d20-save: **Saving Throw**s, can also roll natural 1s and 20s.
 
 ### :d20-adv: **Advantage** & Disadvantage
 
@@ -78,7 +78,7 @@ When multiple instances of :d20-adv: **Advantage** or :d20-disadv: **Disadvantag
 
 ### Difficulty Class
 
-A Difficulty Class (or DC) is a number rolled against when making :d20-check: **Ability Checks** or Saving Throws. It represents how difficult a task is to accomplish. The number is determined by the the task attempted – or in the case of saves – the spell, condition, or action that has to be overcome.
+A Difficulty Class (or DC) is a number rolled against when making :d20-check: **Ability Checks** or :d20-save: **Saving Throw**s. It represents how difficult a task is to accomplish. The number is determined by the the task attempted – or in the case of saves – the spell, condition, or action that has to be overcome.
 
 | Task Difficulty | DC |
 | --- | :-: |
@@ -104,7 +104,7 @@ Characters add their Proficiency Bonus to any :d20-check: **Ability Checks** the
 |  |  | [Nature] | [Perception] | [Persuasion] |
 |  |  | [Religion] | [Survival] |  |
 
-??? question "Constitution Ability Checks"
+??? question "Constitution :d20-check: **Ability Check**s"
 
     Constitution checks are uncommon, and no skills apply to Constitution checks, because the endurance this ability represents is largely passive rather than involving a specific effort on the part of a character or monster.
 
@@ -139,7 +139,7 @@ Proficiency does not stack – there's no benefit to having multiple sources of 
 
 #### Expertise
 
-Characters can also have expertise in a skill, which allows them to add double their Proficiency Bonus when making a corresponding ability check. While it is possible to have Proficiency and expertise in a skill at the same time, they do not stack. Some sources of expertise do, however, require the character to already be proficient in a skill.
+Characters can also have expertise in a skill, which allows them to add double their Proficiency Bonus when making a corresponding :d20-check: **Ability Check**. While it is possible to have Proficiency and expertise in a skill at the same time, they do not stack. Some sources of expertise do, however, require the character to already be proficient in a skill.
 
 Sources of expertise that require prior Proficiency in the respective skill include:
 
@@ -148,7 +148,7 @@ Sources of expertise that require prior Proficiency in the respective skill incl
 
 ### Contests
 
-Sometimes one character's or monster's efforts are directly opposed to another's. This can occur when both of them are trying to do the same thing and only one can succeed, such as attempting to snatch up a magic ring that has fallen to the floor. This situation also applies when one of them is trying to prevent the other one from accomplishing a goal—for example, when a monster tries to force open a door that an adventurer is holding closed. In situations like these, the outcome is determined by a special form of ability check, called a contest.
+Sometimes one character's or monster's efforts are directly opposed to another's. This can occur when both of them are trying to do the same thing and only one can succeed, such as attempting to snatch up a magic ring that has fallen to the floor. This situation also applies when one of them is trying to prevent the other one from accomplishing a goal—for example, when a monster tries to force open a door that an adventurer is holding closed. In situations like these, the outcome is determined by a special form of :d20-check: **Ability Check**, called a contest.
 
 Both participants in a contest make :d20-check: **Ability Checks** appropriate to their efforts. They apply all appropriate bonuses and penalties, but instead of comparing the total to a DC, they compare the totals of their two checks. The participant with the higher check total wins the contest. That character or monster either succeeds at the action or prevents the other one from succeeding.
 
@@ -178,9 +178,9 @@ A character can only provide help if the task is one that he or she could attemp
 
 ### Group Checks
 
-When a number of individuals are trying to accomplish something as a group, the DM might ask for a group ability check. In such a situation, the characters who are skilled at a particular task help cover those who aren't.
+When a number of individuals are trying to accomplish something as a group, the DM might ask for a group :d20-check: **Ability Check**. In such a situation, the characters who are skilled at a particular task help cover those who aren't.
 
-To make a group ability check, everyone in the group makes the ability check. If at least half the group succeeds, the whole group succeeds. Otherwise, the group fails.
+To make a group :d20-check: **Ability Check**, everyone in the group makes the :d20-check: **Ability Check**. If at least half the group succeeds, the whole group succeeds. Otherwise, the group fails.
 
 Group checks don't come up very often, and they're most useful when all the characters succeed or fail as a group. For example, when adventurers are navigating a swamp, the DM might call for a group Wisdom (Survival) check to see if the characters can avoid the quicksand, sinkholes, and other natural hazards of the environment. If at least half the group succeeds, the successful characters are able to guide their companions out of danger. Otherwise, the group stumbles into one of these hazards.
 

@@ -34,7 +34,7 @@ Creatures also add their Dexterity modifier to their Armour Class (AC) – makin
 
 ### Initiative
 
-Creatures add their Dexterity modifier when rolling for initiative, used to determine the turn order during combat. Initiative counts as ability check.
+Creatures add their Dexterity modifier when rolling for initiative, used to determine the turn order during combat. Initiative counts as :d20-check: **Ability Check**.
 
 ### Hiding
  

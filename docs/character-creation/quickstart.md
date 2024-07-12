@@ -88,7 +88,7 @@ Each of a creature's abilities has a score, a number that defines the magnitude 
 
 A score of 10 or 11 is the normal human average, but adventurers and many monsters are a cut above average in most abilities. A score of 18 is the highest that a person usually reaches. Adventurers can have scores as high as 20, and monsters and divine beings can have scores as high as 30.
 
-Because ability modifiers affect almost every attack roll, ability check, and Saving Throw, ability modifiers come up in play more often than their associated scores.
+Because ability modifiers affect almost every :d20-attack: **Attack Roll**, :d20-check: **Ability Check**, and :d20-save: **Saving Throw**, ability modifiers come up in play more often than their associated scores.
 
 #### Ability Scores and Modifiers Table
 

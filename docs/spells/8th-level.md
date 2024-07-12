@@ -10,7 +10,7 @@ icon: spell/level-8
 **Components:** V, S, M (a bit of sponge)  
 **Duration:** Instantaneous
 
-You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each creature in that area must make a Constitution Saving Throw. Constructs and undead aren't affected, and plants and water elementals make this :d20-save: **Saving Throw** with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one.
+You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each creature in that area must make a Constitution :d20-save: **Saving Throw**. Constructs and undead aren't affected, and plants and water elementals make this :d20-save: **Saving Throw** with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one.
 
 Nonmagical plants in the area that aren't creatures, such as trees and shrubs, wither and die instantly.
 
@@ -72,7 +72,7 @@ This spell attracts or repels creatures of your choice. You target something wit
 
 If the target damages or otherwise harms an affected creature, the affected creature can make a Wisdom :d20-save: **Saving Throw** to end the effect, as described below.
 
-***Ending the Effect.*** If an affected creature ends its turn while not within 60 feet of the target or able to see it, the creature makes a Wisdom Saving Throw. On a successful save, the creature is no longer affected by the target and recognizes the feeling of repugnance or attraction as magical. In addition, a creature affected by the spell is allowed another Wisdom :d20-save: **Saving Throw** every 24 hours while the spell persists.
+***Ending the Effect.*** If an affected creature ends its turn while not within 60 feet of the target or able to see it, the creature makes a Wisdom :d20-save: **Saving Throw**. On a successful save, the creature is no longer affected by the target and recognizes the feeling of repugnance or attraction as magical. In addition, a creature affected by the spell is allowed another Wisdom :d20-save: **Saving Throw** every 24 hours while the spell persists.
 
 A creature that successfully saves against this effect is immune to it for 1 minute, after which time it can be affected again.
 
@@ -150,7 +150,7 @@ Each time you cast this spell, you can create a new demiplane, or have the shado
 **Components:** V, S  
 **Duration:** Concentration, up to 1 hour
 
-You attempt to beguile a creature that you can see within range. It must succeed on a Wisdom :d20-save: **Saving Throw** or be charmed by you for the duration. If you or creatures that are friendly to you are fighting it, it has :d20-adv: **Advantage** on the Saving Throw.
+You attempt to beguile a creature that you can see within range. It must succeed on a Wisdom :d20-save: **Saving Throw** or be charmed by you for the duration. If you or creatures that are friendly to you are fighting it, it has :d20-adv: **Advantage** on the :d20-save: **Saving Throw**.
 
 While the creature is charmed, you have a telepathic link with it as long as the two of you are on the same plane of existence. You can use this telepathic link to issue commands to the creature while you are conscious (no action required), which it does its best to obey. You can specify a simple and general course of action, such as "Attack that creature," "Run over there," or "Fetch that object." If the creature completes the order and doesn't receive further direction from you, it defends and preserves itself to the best of its ability.
 
@@ -170,9 +170,9 @@ Each time the target takes damage, it makes a new Wisdom :d20-save: **Saving Thr
 
 You create a seismic disturbance at a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100-foot-radius circle centered on that point and shakes creatures and structures in contact with the ground in that area.
 
-The ground in the area becomes difficult terrain. Each creature on the ground that is concentrating must make a Constitution Saving Throw. On a failed save, the creature's concentration is broken.
+The ground in the area becomes difficult terrain. Each creature on the ground that is concentrating must make a Constitution :d20-save: **Saving Throw**. On a failed save, the creature's concentration is broken.
 
-When you cast this spell and at the end of each turn you spend concentrating on it, each creature on the ground in the area must make a Dexterity Saving Throw. On a failed save, the creature is knocked prone.
+When you cast this spell and at the end of each turn you spend concentrating on it, each creature on the ground in the area must make a Dexterity :d20-save: **Saving Throw**. On a failed save, the creature is knocked prone.
 
 This spell can have additional effects depending on the terrain in the area, as determined by the DM.
 
@@ -180,7 +180,7 @@ This spell can have additional effects depending on the terrain in the area, as 
 
 A fissure that opens beneath a structure causes it to automatically collapse (see below).
 
-***Structures.*** The tremor deals 50 bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the start of each of your turns until the spell ends. If a structure drops to 0 Hit Points, it collapses and potentially damages nearby creatures. A creature within half the distance of a structure's height must make a Dexterity Saving Throw. On a failed save, the creature takes 5d6 bludgeoning damage, is knocked prone, and is buried in the rubble, requiring a DC 20 Strength (Athletics) check as an :rsc-action: **Action** to escape. The DM can adjust the DC higher or lower, depending on the nature of the rubble. On a successful save, the creature takes half as much damage and doesn't fall prone or become buried.
+***Structures.*** The tremor deals 50 bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the start of each of your turns until the spell ends. If a structure drops to 0 Hit Points, it collapses and potentially damages nearby creatures. A creature within half the distance of a structure's height must make a Dexterity :d20-save: **Saving Throw**. On a failed save, the creature takes 5d6 bludgeoning damage, is knocked prone, and is buried in the rubble, requiring a DC 20 Strength (Athletics) check as an :rsc-action: **Action** to escape. The DM can adjust the DC higher or lower, depending on the nature of the rubble. On a successful save, the creature takes half as much damage and doesn't fall prone or become buried.
 
 ### Feeblemind
 *8th-level Enchantment*
@@ -190,11 +190,11 @@ A fissure that opens beneath a structure causes it to automatically collapse (se
 **Components:** V, S, M (a handful of clay, crystal, glass, or mineral spheres)  
 **Duration:** Instantaneous
 
-You blast the mind of a creature that you can see within range, attempting to shatter its intellect and personality. The target takes 4d6 psychic damage and must make an Intelligence Saving Throw.
+You blast the mind of a creature that you can see within range, attempting to shatter its intellect and personality. The target takes 4d6 psychic damage and must make an Intelligence :d20-save: **Saving Throw**.
 
 On a failed save, the creature's Intelligence and Charisma scores become 1. The creature can't cast spells, activate magic items, understand language, or communicate in any intelligible way. The creature can, however, identify its friends, follow them, and even protect them.
 
-At the end of every 30 days, the creature can repeat its :d20-save: **Saving Throw** against this spell. If it succeeds on its Saving Throw, the spell ends.
+At the end of every 30 days, the creature can repeat its :d20-save: **Saving Throw** against this spell. If it succeeds on its :d20-save: **Saving Throw**, the spell ends.
 
 The spell can also be ended by *greater restoration*, *heal*, or *wish*.
 
@@ -216,7 +216,7 @@ Until the spell ends, when you make a Charisma check, you can replace the number
 **Components:** V, S, M (a tiny reliquary worth at least 1,000 gp containing a sacred relic, such as a scrap of cloth from a saint's robe or a piece of parchment from a religious text)  
 **Duration:** Concentration, up to 1 minute
 
-Divine light washes out from you and coalesces in a soft radiance in a 30-foot radius around you. Creatures of your choice in that radius when you cast this spell shed dim light in a 5-foot radius and have :d20-adv: **Advantage** on all Saving Throws, and other creatures have :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** against them until the spell ends. In addition, when a fiend or an undead hits an affected creature with a melee attack, the aura flashes with brilliant light. The attacker must succeed on a Constitution :d20-save: **Saving Throw** or be blinded until the spell ends.
+Divine light washes out from you and coalesces in a soft radiance in a 30-foot radius around you. Creatures of your choice in that radius when you cast this spell shed dim light in a 5-foot radius and have :d20-adv: **Advantage** on all :d20-save: **Saving Throw**s, and other creatures have :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** against them until the spell ends. In addition, when a fiend or an undead hits an affected creature with a melee attack, the aura flashes with brilliant light. The attacker must succeed on a Constitution :d20-save: **Saving Throw** or be blinded until the spell ends.
 
 ### Illusory Dragon
 *8th-level Illusion*
@@ -228,11 +228,11 @@ Divine light washes out from you and coalesces in a soft radiance in a 30-foot r
 
 By gathering threads of shadow material from the Shadowfell, you create a Huge shadowy dragon in an unoccupied space that you can see within range. The Illusion lasts for the spell's duration and occupies its space, as if it were a creature.
 
-When the Illusion appears, any of your enemies that can see it must succeed on a Wisdom :d20-save: **Saving Throw** or become frightened of it for 1 minute. If a frightened creature ends its turn in a location where it doesn't have line of sight to the Illusion, it can repeat the Saving Throw, ending the effect on itself on a success.
+When the Illusion appears, any of your enemies that can see it must succeed on a Wisdom :d20-save: **Saving Throw** or become frightened of it for 1 minute. If a frightened creature ends its turn in a location where it doesn't have line of sight to the Illusion, it can repeat the :d20-save: **Saving Throw**, ending the effect on itself on a success.
 
-As a :rsc-bonus-action: **Bonus Action** on your turn, you can move the Illusion up to 60 feet. At any point during its movement, you can cause it to exhale a blast of energy in a 60-foot cone originating from its space. When you create the dragon, choose a damage type: acid, cold, fire, lightning, necrotic, or poison. Each creature in the cone must make an Intelligence Saving Throw, taking 7d6 damage of the chosen damage type on a failed save, or half as much damage on a successful one.
+As a :rsc-bonus-action: **Bonus Action** on your turn, you can move the Illusion up to 60 feet. At any point during its movement, you can cause it to exhale a blast of energy in a 60-foot cone originating from its space. When you create the dragon, choose a damage type: acid, cold, fire, lightning, necrotic, or poison. Each creature in the cone must make an Intelligence :d20-save: **Saving Throw**, taking 7d6 damage of the chosen damage type on a failed save, or half as much damage on a successful one.
 
-The Illusion is tangible because of the shadow stuff used to create it, but attacks miss it automatically, it succeeds on all Saving Throws, and it is immune to all damage and conditions. A creature that uses an :rsc-action: **Action** to examine the dragon can determine that it is an Illusion by succeeding on an Intelligence (Investigation) check against your spell save DC. If a creature discerns the Illusion for what it is, the creature can see through it and has :d20-adv: **Advantage** on :d20-save: **Saving Throws** against its breath.
+The Illusion is tangible because of the shadow stuff used to create it, but attacks miss it automatically, it succeeds on all :d20-save: **Saving Throw**s, and it is immune to all damage and conditions. A creature that uses an :rsc-action: **Action** to examine the dragon can determine that it is an Illusion by succeeding on an Intelligence (Investigation) check against your spell save DC. If a creature discerns the Illusion for what it is, the creature can see through it and has :d20-adv: **Advantage** on :d20-save: **Saving Throws** against its breath.
 
 ### Incendiary Cloud
 *8th-level Conjuration*
@@ -244,7 +244,7 @@ The Illusion is tangible because of the shadow stuff used to create it, but atta
 
 A swirling cloud of smoke shot through with white-hot embers appears in a 20-foot-radius sphere centered on a point within range. The cloud spreads around corners and is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 
-When the cloud appears, each creature in it must make a Dexterity Saving Throw. A creature takes 10d8 fire damage on a failed save, or half as much damage on a successful one. A creature must also make this :d20-save: **Saving Throw** when it enters the spell's area for the first time on a turn or ends its turn there.
+When the cloud appears, each creature in it must make a Dexterity :d20-save: **Saving Throw**. A creature takes 10d8 fire damage on a failed save, or half as much damage on a successful one. A creature must also make this :d20-save: **Saving Throw** when it enters the spell's area for the first time on a turn or ends its turn there.
 
 The cloud moves 10 feet directly away from you in a direction that you choose at the start of each of your turns.
 
@@ -258,7 +258,7 @@ The cloud moves 10 feet directly away from you in a direction that you choose at
 
 Magical darkness spreads from a point you choose within range to fill a 60-foot-radius sphere until the spell ends. The darkness spreads around corners. A creature with darkvision can't see through this darkness. Non-magical light, as well as light created by spells of 8th level or lower, can't illuminate the area.
 
-Shrieks, gibbering, and mad laughter can be heard within the sphere. Whenever a creature starts its turn in the sphere, it must make a Wisdom Saving Throw, taking 8d8 psychic damage on a failed save, or half as much damage on a successful one.
+Shrieks, gibbering, and mad laughter can be heard within the sphere. Whenever a creature starts its turn in the sphere, it must make a Wisdom :d20-save: **Saving Throw**, taking 8d8 psychic damage on a failed save, or half as much damage on a successful one.
 
 ### Maze
 *8th-level Conjuration*
@@ -326,7 +326,7 @@ The stunned target must make a Constitution :d20-save: **Saving Throw** at the e
 **Components:** V, S, M (fire and a piece of sunstone)  
 **Duration:** Instantaneous
 
-Brilliant sunlight flashes in a 60-foot radius centered on a point you choose within range. Each creature in that light must make a Constitution Saving Throw. On a failed save, a creature takes 12d6 radiant damage and is blinded for 1 minute. On a successful save, it takes half as much damage and isn't blinded by this spell. Undead and oozes have :d20-disadv: **Disadvantage** on this Saving Throw.
+Brilliant sunlight flashes in a 60-foot radius centered on a point you choose within range. Each creature in that light must make a Constitution :d20-save: **Saving Throw**. On a failed save, a creature takes 12d6 radiant damage and is blinded for 1 minute. On a successful save, it takes half as much damage and isn't blinded by this spell. Undead and oozes have :d20-disadv: **Disadvantage** on this :d20-save: **Saving Throw**.
 
 A creature blinded by this spell makes another Constitution :d20-save: **Saving Throw** at the end of each of its turns. On a successful save, it is no longer blinded.
 
@@ -354,7 +354,7 @@ Until the spell ends, you and the target can instantaneously share words, images
 
 A wall of water springs into existence at a point you choose within range. You can make the wall up to 300 feet long, 300 feet high, and 50 feet thick. The wall lasts for the duration.
 
-When the wall appears, each creature within its area must make a Strength Saving Throw. On a failed save, a creature takes 6d10 bludgeoning damage, or half as much damage on a successful save.
+When the wall appears, each creature within its area must make a Strength :d20-save: **Saving Throw**. On a failed save, a creature takes 6d10 bludgeoning damage, or half as much damage on a successful save.
 
 At the start of each of your turns after the wall appears, the wall, along with any creatures in it, moves 50 feet away from you. Any Huge or smaller creature inside the wall or whose space the wall enters when it moves must succeed on a Strength :d20-save: **Saving Throw** or take 5d10 bludgeoning damage. A creature can take this damage only once per round. At the end of the turn, the wall's height is reduced by 50 feet, and the damage creatures take from the spell on subsequent rounds is reduced by 1d10. When the wall reaches 0 feet in height, the spell ends.
 
@@ -368,15 +368,15 @@ A creature caught in the wall can move by swimming. Because of the force of the 
 **Components:** V, S, M (a crystal prism)  
 **Duration:** Concentration, up to 1 minute
 
-You shatter the barriers between realities and timelines, thrusting a creature into turmoil and madness. The target must succeed on a Wisdom Saving Throw, or it can't take reactions until the spell ends. The affected target must also roll a d10 at the start of each of its turns; the number rolled determines what happens to the target, as shown on the Reality Break Effects table.
+You shatter the barriers between realities and timelines, thrusting a creature into turmoil and madness. The target must succeed on a Wisdom :d20-save: **Saving Throw**, or it can't take reactions until the spell ends. The affected target must also roll a d10 at the start of each of its turns; the number rolled determines what happens to the target, as shown on the Reality Break Effects table.
 
-At the end of each of its turns, the affected target can repeat the Wisdom Saving Throw, ending the spell on itself on a success.
+At the end of each of its turns, the affected target can repeat the Wisdom :d20-save: **Saving Throw**, ending the spell on itself on a success.
 
 #### Reality Break Effects
 |  d10 | Effect                                                                                                                                                                                                                         |
 |:----:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  1-2 | **Vision of the Far Realm.** The target takes 6d12 psychic damage, and it is stunned until the end of the turn.                                                                                                                |
-|  3-5 | **Rending Rift.** The target must make a Dexterity Saving Throw, taking 8d12 force damage on a failed save, or half as much damage on a successful one.                                                                        |
+|  3-5 | **Rending Rift.** The target must make a Dexterity :d20-save: **Saving Throw**, taking 8d12 force damage on a failed save, or half as much damage on a successful one.                                                                        |
 |  6-8 | **Wormhole.** The target is teleported, along with everything it is wearing and carrying, up to 30 feet to an unoccupied space of your choice that you can see. The target also takes 10d12 force damage and is knocked prone. |
 | 9-10 | **Chill of the Dark Void.** The target takes 10d12 cold damage, and it is blinded until the end of the turn.                                                                                                                   |
 
@@ -392,4 +392,4 @@ This spell creates a sphere centered on a point you choose within range. The sph
 
 For the duration, the spell's area is difficult terrain. A creature with darkvision can't see through the magical darkness, and nonmagical light can't illuminate it. No sound can be created within or pass through the area. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible there.
 
-Any creature that enters the spell's area for the first time on a turn or starts its turn there must make a Constitution Saving Throw. The creature takes 8d10 force damage on a failed save, or half as much damage on a successful one. A creature reduced to 0 Hit Points by this damage is disintegrated. A disintegrated creature and everything it is wearing and carrying, except magic items, are reduced to a pile of fine gray dust.
+Any creature that enters the spell's area for the first time on a turn or starts its turn there must make a Constitution :d20-save: **Saving Throw**. The creature takes 8d10 force damage on a failed save, or half as much damage on a successful one. A creature reduced to 0 Hit Points by this damage is disintegrated. A disintegrated creature and everything it is wearing and carrying, except magic items, are reduced to a pile of fine gray dust.

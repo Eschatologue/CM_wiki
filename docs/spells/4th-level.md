@@ -60,11 +60,11 @@ If the target is native to a different plane of existence than the one you're on
 **Components:** V, S  
 **Duration:** Instantaneous
 
-Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Constitution Saving Throw. The target takes 8d8 necrotic damage on a failed save, or half as much damage on a successful one. This spell has no effect on undead or constructs.
+Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Constitution :d20-save: **Saving Throw**. The target takes 8d8 necrotic damage on a failed save, or half as much damage on a successful one. This spell has no effect on undead or constructs.
 
 If you target a plant creature or a magical plant, it makes the :d20-save: **Saving Throw** with disadvantage, and the spell deals maximum damage to it.
 
-If you target a nonmagical plant that isn't a creature, such as a tree or shrub, it doesn't make a Saving Throw, it simply withers and dies.
+If you target a nonmagical plant that isn't a creature, such as a tree or shrub, it doesn't make a :d20-save: **Saving Throw**, it simply withers and dies.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 5th level or higher, the damage increases by 1d8 for each slot level above 4th.
 
@@ -76,7 +76,7 @@ If you target a nonmagical plant that isn't a creature, such as a tree or shrub,
 **Components:** V, S  
 **Duration:** 1 hour
 
-You attempt to charm a creature you can see within range. It must make a Wisdom Saving Throw, and it does so with :d20-adv: **Advantage** if you or your companions are fighting it. If it fails the Saving Throw, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature is friendly to you. When the spell ends, the creature knows it was charmed by you.
+You attempt to charm a creature you can see within range. It must make a Wisdom :d20-save: **Saving Throw**, and it does so with :d20-adv: **Advantage** if you or your companions are fighting it. If it fails the :d20-save: **Saving Throw**, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature is friendly to you. When the spell ends, the creature knows it was charmed by you.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 5th level or higher, you can target one additional creature for each slot level above 4th. The creatures must be within 30 feet of each other when you target them.
 
@@ -88,7 +88,7 @@ You attempt to charm a creature you can see within range. It must make a Wisdom 
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-Creatures of your choice that you can see within range and that can hear you must make a Wisdom Saving Throw. A target automatically succeeds on this :d20-save: **Saving Throw** if it can't be charmed. On a failed save, a target is affected by this spell. Until the spell ends, you can use a :rsc-bonus-action: **Bonus Action** on each of your turns to designate a direction that is horizontal to you. Each affected target must use as much of its movement as possible to move in that direction on its next turn. It can take its action before it moves. After moving in this way, it can make another Wisdom :d20-save: **Saving Throw** to try to end the effect.
+Creatures of your choice that you can see within range and that can hear you must make a Wisdom :d20-save: **Saving Throw**. A target automatically succeeds on this :d20-save: **Saving Throw** if it can't be charmed. On a failed save, a target is affected by this spell. Until the spell ends, you can use a :rsc-bonus-action: **Bonus Action** on each of your turns to designate a direction that is horizontal to you. Each affected target must use as much of its movement as possible to move in that direction on its next turn. It can take its action before it moves. After moving in this way, it can make another Wisdom :d20-save: **Saving Throw** to try to end the effect.
 
 A target isn't compelled to move into an obviously deadly hazard, such as a fire or pit, but it will provoke opportunity attacks to move in the designated direction.
 
@@ -112,7 +112,7 @@ An affected target can't take reactions and must roll a d10 at the start of each
 |  7-8 | The creature uses its action to make a melee attack against a randomly determined creature within its reach. If there is no creature within its reach, the creature does nothing this turn.     |
 | 9-10 | The creature can act and move normally.                                                                                                                                                         |
 
-At the end of each of its turns, an affected target can make a Wisdom Saving Throw. If it succeeds, this effect ends for that target.
+At the end of each of its turns, an affected target can make a Wisdom :d20-save: **Saving Throw**. If it succeeds, this effect ends for that target.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 5th level or higher, the radius of the sphere increases by 5 feet for each slot level above 4th.
 
@@ -184,7 +184,7 @@ The water level remains elevated until the spell ends or you choose a different 
 
 ***Whirlpool.*** This effect requires a body of water at least 50 feet square and 25 feet deep. You cause a whirlpool to form in the center of the area. The whirlpool forms a vortex that is 5 feet wide at the base, up to 50 feet wide at the top, and 25 feet tall. Any creature or object in the water and within 25 feet of the vortex is pulled 10 feet toward it. A creature can swim away from the vortex by making a Strength (Athletics) check against your spell save DC.
 
-When a creature enters the vortex for the first time on a turn or starts its turn there, it must make a Strength Saving Throw. On a failed save, the creature takes 2d8 bludgeoning damage and is caught in the vortex until the spell ends. On a successful save, the creature takes half damage, and isn't caught in the vortex. A creature caught in the vortex can use its action to try to swim away from the vortex as described above, but has :d20-disadv: **Disadvantage** on the Strength (Athletics) check to do so.
+When a creature enters the vortex for the first time on a turn or starts its turn there, it must make a Strength :d20-save: **Saving Throw**. On a failed save, the creature takes 2d8 bludgeoning damage and is caught in the vortex until the spell ends. On a successful save, the creature takes half damage, and isn't caught in the vortex. A creature caught in the vortex can use its action to try to swim away from the vortex as described above, but has :d20-disadv: **Disadvantage** on the Strength (Athletics) check to do so.
 
 The first time each turn that an object enters the vortex, the object takes 2d8 bludgeoning damage; this damage occurs each round it remains in the vortex.
 
@@ -238,7 +238,7 @@ If you cast the spell two or more times before finishing your next long rest, th
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-You attempt to beguile a beast that you can see within range. It must succeed on a Wisdom :d20-save: **Saving Throw** or be charmed by you for the duration. If you or creatures that are friendly to you are fighting it, it has :d20-adv: **Advantage** on the Saving Throw.
+You attempt to beguile a beast that you can see within range. It must succeed on a Wisdom :d20-save: **Saving Throw** or be charmed by you for the duration. If you or creatures that are friendly to you are fighting it, it has :d20-adv: **Advantage** on the :d20-save: **Saving Throw**.
 
 While the beast is charmed, you have a telepathic link with it as long as the two of you are on the same plane of existence. You can use this telepathic link to issue commands to the creature while you are conscious (no action required), which it does its best to obey. You can specify a simple and general course of action, such as "Attack that creature," "Run over there," or "Fetch that object." If the creature completes the order and doesn't receive further direction from you, it defends and preserves itself to the best of its ability.
 
@@ -385,7 +385,7 @@ Until the spell ends, you can direct the vine to lash out at the same creature o
 **Components:** V, S, M (a black marble)  
 **Duration:** Instantaneous  
 
-A 20-foot-radius sphere of crushing force forms at a point you can see within range and tugs at the creatures there. Each creature in the sphere must make a Constitution Saving Throw. On a failed save, the creature takes 5d10 force damage and is pulled in a straight line toward the center of the sphere, ending in an unoccupied space as close to the center as possible (even if that space is in the air). On a successful save, the creature takes half as much damage and isn't pulled.
+A 20-foot-radius sphere of crushing force forms at a point you can see within range and tugs at the creatures there. Each creature in the sphere must make a Constitution :d20-save: **Saving Throw**. On a failed save, the creature takes 5d10 force damage and is pulled in a straight line toward the center of the sphere, ending in an unoccupied space as close to the center as possible (even if that space is in the air). On a successful save, the creature takes half as much damage and isn't pulled.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 5th level or higher, the damage increases by 1d10 for each slot level above 4th.
 
@@ -409,7 +409,7 @@ You or a creature you touch becomes invisible until the spell ends. Anything the
 
 A Large spectral guardian appears and hovers for the duration in an unoccupied space of your choice that you can see within range. The guardian occupies that space and is indistinct except for a gleaming sword and shield emblazoned with the symbol of your deity.
 
-Any creature hostile to you that moves to a space within 10 feet of the guardian for the first time on a turn must succeed on a Dexterity Saving Throw. The creature takes 20 radiant damage on a failed save, or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage.
+Any creature hostile to you that moves to a space within 10 feet of the guardian for the first time on a turn must succeed on a Dexterity :d20-save: **Saving Throw**. The creature takes 20 radiant damage on a failed save, or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage.
 
 ### Guardian of Nature
 *4th-level Transmutation*
@@ -455,7 +455,7 @@ The tactile characteristics of the terrain are unchanged, so creatures entering 
 **Components:** V, S, M (a pinch of dust and a few drops of water)  
 **Duration:** Instantaneous
 
-A hail of rock-hard ice pounds to the ground in a 20-foot-radius, 40-foot-high cylinder centered on a point within range. Each creature in the cylinder must make a Dexterity Saving Throw. A creature takes 2d8 bludgeoning damage and 4d6 cold damage on a failed save, or half as much damage on a successful one.
+A hail of rock-hard ice pounds to the ground in a 20-foot-radius, 40-foot-high cylinder centered on a point within range. Each creature in the cylinder must make a Dexterity :d20-save: **Saving Throw**. A creature takes 2d8 bludgeoning damage and 4d6 cold damage on a failed save, or half as much damage on a successful one.
 
 Hailstones turn the storm's area of effect into difficult terrain until the end of your next turn.
 
@@ -534,7 +534,7 @@ Casting this spell on the same spot every day for a year makes this effect perma
 **Components:** V, S, M (a hemispherical piece of clear crystal and a matching hemispherical piece of gum arabic)  
 **Duration:** Concentration, up to 1 minute
 
-A sphere of shimmering force encloses a creature or object of Large size or smaller within range. An unwilling creature must make a Dexterity Saving Throw. On a failed save, the creature is enclosed for the duration.
+A sphere of shimmering force encloses a creature or object of Large size or smaller within range. An unwilling creature must make a Dexterity :d20-save: **Saving Throw**. On a failed save, the creature is enclosed for the duration.
 
 Nothing—not physical objects, energy, or other spell effects—can pass through the barrier, in or out, though a creature in the sphere can breathe there. The sphere is immune to all damage, and a creature or object inside can't be damaged by attacks or effects originating from outside, nor can a creature inside the sphere damage anything outside it.
 
@@ -550,7 +550,7 @@ A *disintegrate* spell targeting the globe destroys it without harming anything 
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-You tap into the nightmares of a creature you can see within range and create an illusory manifestation of its deepest fears, visible only to that creature. The target must make a Wisdom Saving Throw. On a failed save, the target becomes frightened for the duration. At the end of each of the target's turns before the spell ends, the target must succeed on a Wisdom :d20-save: **Saving Throw** or take 4d10 psychic damage. On a successful save, the spell ends.
+You tap into the nightmares of a creature you can see within range and create an illusory manifestation of its deepest fears, visible only to that creature. The target must make a Wisdom :d20-save: **Saving Throw**. On a failed save, the target becomes frightened for the duration. At the end of each of the target's turns before the spell ends, the target must succeed on a Wisdom :d20-save: **Saving Throw** or take 4d10 psychic damage. On a successful save, the spell ends.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 5th level or higher, the damage increases by 1d10 for each slot level above 4th.
 
@@ -582,7 +582,7 @@ The target's gear melds into the new form. The creature can't activate, use, wie
 
 You unleash a shimmering lance of psychic power from your forehead at a creature that you can see within range. Alternatively, you can utter a creature's name. If the named target is within range, it becomes the spell's target even if you can't see it. If the named target isn't within range, the lance dissipates without effect.
 
-The target must make an Intelligence Saving Throw. On a failed save, the target takes 7d6 psychic damage and is incapacitated until the start of your next turn. On a successful save, the creature takes half as much damage and isn't incapacitated.
+The target must make an Intelligence :d20-save: **Saving Throw**. On a failed save, the target takes 7d6 psychic damage and is incapacitated until the start of your next turn. On a successful save, the creature takes half as much damage and isn't incapacitated.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 5th level or higher, the damage increases by 1d6 for each slot level above 4th.
 
@@ -632,7 +632,7 @@ The spirit is an ally to you and your companions. In combat, the spirit shares y
 **Components:** V  
 **Duration:** Concentration, up to 1 minute
 
-The next time you hit a creature with a melee weapon attack during this spell's duration, your weapon pierces both body and mind, and the attack deals an extra 4d6 psychic damage to the target. The target must make a Wisdom Saving Throw. On a failed save, it has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** and ability checks, and can't take reactions, until the end of its next turn.
+The next time you hit a creature with a melee weapon attack during this spell's duration, your weapon pierces both body and mind, and the attack deals an extra 4d6 psychic damage to the target. The target must make a Wisdom :d20-save: **Saving Throw**. On a failed save, it has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** and :d20-check: **Ability Check**s, and can't take reactions, until the end of its next turn.
 
 ### Stone Shape
 *4th-level Transmutation*
@@ -724,7 +724,7 @@ You utter foul words, summoning one demon from the chaos of the Abyss. You choos
 
 Roll initiative for the demon, which has its own turns. When you summon it and on each of your turns thereafter, you can issue a verbal command to it (requiring no action on your part), telling it what it must do on its next turn. If you issue no command, it spends its turn attacking any creature within reach that has attacked it.
 
-At the end of each of the demon's turns, it makes a Charisma Saving Throw. The demon has :d20-disadv: **Disadvantage** on this :d20-save: **Saving Throw** if you say its true name. On a failed save, the demon continues to obey you. On a successful save, your control of the demon ends for the rest of the duration, and the demon spends its turns pursuing and attacking the nearest non-demons to the best of its ability. If you stop concentrating on the spell before it reaches its full duration, an uncontrolled demon doesn't disappear for 1d6 rounds if it still has Hit Points.
+At the end of each of the demon's turns, it makes a Charisma :d20-save: **Saving Throw**. The demon has :d20-disadv: **Disadvantage** on this :d20-save: **Saving Throw** if you say its true name. On a failed save, the demon continues to obey you. On a successful save, your control of the demon ends for the rest of the duration, and the demon spends its turns pursuing and attacking the nearest non-demons to the best of its ability. If you stop concentrating on the spell before it reaches its full duration, an uncontrolled demon doesn't disappear for 1d6 rounds if it still has Hit Points.
 
 As part of casting the spell, you can form a circle on the ground with the blood used as a material component. The circle is large enough to encompass your space. While the spell lasts, the summoned demon can't cross the circle or harm it, and it can't target anyone within it. Using the material component in this manner consumes it when the spell ends.
 
@@ -738,7 +738,7 @@ As part of casting the spell, you can form a circle on the ground with the blood
 **Components:** V, S, M (a drop of giant slug bile)  
 **Duration:** Instantaneous
 
-You point at a location within range, and a glowing 1-foot-diameter ball of emerald acid streaks there and explodes in a 20-foot-radius sphere. Each creature in that area must make a Dexterity Saving Throw. On a failed save, a creature takes 10d4 acid damage and another 5d4 acid damage at the end of its next turn. On a successful save, a creature takes half the initial damage and no damage at the end of its next turn.
+You point at a location within range, and a glowing 1-foot-diameter ball of emerald acid streaks there and explodes in a 20-foot-radius sphere. Each creature in that area must make a Dexterity :d20-save: **Saving Throw**. On a failed save, a creature takes 10d4 acid damage and another 5d4 acid damage at the end of its next turn. On a successful save, a creature takes half the initial damage and no damage at the end of its next turn.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 5th level or higher, the initial damage increases by 2d4 for each slot level above 4th.
 
@@ -752,7 +752,7 @@ You point at a location within range, and a glowing 1-foot-diameter ball of emer
 
 You create a wall of fire on a solid surface within range. You can make the wall up to 60 feet long, 20 feet high, and 1 foot thick, or a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick. The wall is opaque and lasts for the duration.
 
-When the wall appears, each creature within its area must make a Dexterity Saving Throw. On a failed save, a creature takes 5d8 fire damage, or half as much damage on a successful save.
+When the wall appears, each creature within its area must make a Dexterity :d20-save: **Saving Throw**. On a failed save, a creature takes 5d8 fire damage, or half as much damage on a successful save.
 
 One side of the wall, selected by you when you cast this spell, deals 5d8 fire damage to each creature that ends its turn within 10 feet of that side or inside the wall. A creature takes the same damage when it enters the wall for the first time on a turn or ends its turn there. The other side of the wall deals no damage.
 
@@ -768,11 +768,11 @@ One side of the wall, selected by you when you cast this spell, deals 5d8 fire d
 
 You conjure up a sphere of water with a 5-foot radius at a point you can see within range. The sphere can hover but no more than 10 feet off the ground. The sphere remains for the spell's duration.
 
-Any creature in the sphere's space must make a Strength Saving Throw. On a successful save, a creature is ejected from that space to the nearest unoccupied space of the creature's choice outside the sphere. A Huge or larger creature succeeds on the :d20-save: **Saving Throw** automatically, and a Large or smaller creature can choose to fail it. On a failed save, a creature is restrained by the sphere and is engulfed by the water. At the end of each of its turns, a restrained target can repeat the Saving Throw, ending the effect on itself on a success.
+Any creature in the sphere's space must make a Strength :d20-save: **Saving Throw**. On a successful save, a creature is ejected from that space to the nearest unoccupied space of the creature's choice outside the sphere. A Huge or larger creature succeeds on the :d20-save: **Saving Throw** automatically, and a Large or smaller creature can choose to fail it. On a failed save, a creature is restrained by the sphere and is engulfed by the water. At the end of each of its turns, a restrained target can repeat the :d20-save: **Saving Throw**, ending the effect on itself on a success.
 
 The sphere can restrain as many as four Medium or smaller creatures or one Large creature. If the sphere restrains a creature that causes it to exceed this capacity, a random creature that was already restrained by the sphere falls out of it and lands prone in a space within 5 feet of it.
 
-As an :rsc-action: **Action**, you can move the sphere up to 30 feet in a straight line. If it moves over a pit, a cliff, or other drop-off, it safely descends until it is hovering 10 feet above the ground. Any creature restrained by the sphere moves with it. You can ram the sphere into creatures, forcing them to make the Saving Throw.
+As an :rsc-action: **Action**, you can move the sphere up to 30 feet in a straight line. If it moves over a pit, a cliff, or other drop-off, it safely descends until it is hovering 10 feet above the ground. Any creature restrained by the sphere moves with it. You can ram the sphere into creatures, forcing them to make the :d20-save: **Saving Throw**.
 
 When the spell ends, the sphere falls to the ground and extinguishes all normal flames within 30 feet of it. Any creature restrained by the sphere is knocked prone in the space where it falls. The water then vanishes.
 

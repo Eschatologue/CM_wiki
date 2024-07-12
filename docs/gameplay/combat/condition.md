@@ -11,8 +11,8 @@ Conditions either last until they are countered or for a specified duration. If 
 If multiple effects impose the same condition on a creature, each instance of the condition has its own duration, but the condition's effects don't get worse. A creature either has a condition or doesn't.
 
 ### Blinded
-- A blinded creature can't see and automatically fails any ability check that requires sight.
-- Attack rolls against the creature have advantage, and the creature’s :d20-attack: **Attack Rolls** have disadvantage.
+- A blinded creature can't see and automatically fails any :d20-check: **Ability Check** that requires sight.
+- :d20-attack: **Attack Roll**s against the creature have advantage, and the creature’s :d20-attack: **Attack Rolls** have disadvantage.
 
 ### Charmed
 - A charmed creature can’t attack the charmer or target the charmer with harmful abilities or magical effects.
@@ -22,7 +22,7 @@ If multiple effects impose the same condition on a creature, each instance of th
 - A deafened creature can’t hear, automatically fails any ability check that requires hearing and is resist to Thunder damage.
 
 ### Frightened
-- A frightened creature has :d20-disadv: **Disdvantage** on ability checks and attack rolls while the source of its fear is within line of sight.
+- A frightened creature has :d20-disadv: **Disdvantage** on :d20-check: **Ability Check**s and attack rolls while the source of its fear is within line of sight.
 - The creature can’t willingly move closer to the source of its fear.
 
 ### Grappled
@@ -41,13 +41,13 @@ If multiple effects impose the same condition on a creature, each instance of th
 - An unconscious creature is  incapacitated, can’t move or speak, and is unaware of its surroundings
 - The creature drops whatever it’s holding and falls prone.
 - The creature automatically fails Strength and Dexterity :d20-save: **Saving Throw**s.
-- Attack rolls against the creature have :d20-adv: **Advantage**.
+- :d20-attack: **Attack Roll**s against the creature have :d20-adv: **Advantage**.
 - Any attack that hits the creature is a Critical Hit if the attacker is within 5 feet of the creature.
 
 ### Paralyzed
 - A paralyzed creature is incapacitated and can’t move or speak.
 - The creature automatically fails Strength and Dexterity :d20-save: **Saving Throw**s.
-- Attack rolls against the creature have :d20-adv: **Advantage**.
+- :d20-attack: **Attack Roll**s against the creature have :d20-adv: **Advantage**.
 - Any attack that hits the creature is a Critical Hit if the attacker is within 5 feet of the creature.
 
 ### Petrified
@@ -57,7 +57,7 @@ If multiple effects impose the same condition on a creature, each instance of th
 - The creature gains resistance to all damage and becomes immune to poison and disease, although any existing poison or disease remains suspended rather than neutralized.
 
 ### Poisoned
-- A poisoned creature has :d20-disadv: **Disdvantage** on attack rolls and ability checks.
+- A poisoned creature has :d20-disadv: **Disdvantage** on :d20-attack: **Attack Roll**s and ability checks.
 
 ### Prone
 - A prone creature’s only movement option is to crawl, unless it stands up and thereby ends the condition.
@@ -66,7 +66,7 @@ If multiple effects impose the same condition on a creature, each instance of th
 
 ### Restrained
 - A restrained creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.
-- :d20-attack: Attack rolls against the creature have advantage, and the creature’s :d20-attack: **Attack Rolls** have disadvantage.
+- :d20-attack: :d20-attack: **Attack Roll**s against the creature have advantage, and the creature’s :d20-attack: **Attack Rolls** have disadvantage.
 - The creature has disadvantage on Dexterity :d20-save: **Saving Throw**s.
 
 ### Silenced
@@ -75,7 +75,7 @@ If multiple effects impose the same condition on a creature, each instance of th
 ### Stunned
 - A stunned creature is incapacitated can’t move, and can speak only falteringly.
 - The creature automatically fails Strength and Dexterity :d20-save: **Saving Throw**s.
-- Attack rolls against the creature have :d20-adv: **Advantage**.
+- :d20-attack: **Attack Roll**s against the creature have :d20-adv: **Advantage**.
 
 ### Exhaustion
 

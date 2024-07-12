@@ -44,7 +44,7 @@ The blade can harmlessly pass through any barrier, including a  wall of force.
 **Components:** V, S, M (a hummingbird feather)  
 **Duration:** 8 hours
 
-You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target can't be surprised and has :d20-adv: **Advantage** on attack rolls, ability checks, and Saving Throws. Additionally, other creatures have :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** against the target for the duration.
+You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target can't be surprised and has :d20-adv: **Advantage** on :d20-attack: **Attack Roll**s, :d20-check: **Ability Check**s, and :d20-save: **Saving Throw**s. Additionally, other creatures have :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** against the target for the duration.
 
 This spell immediately ends if you cast it again before its duration ends.
 
@@ -148,7 +148,7 @@ The target's gear melds into the new form. The target can't activate, use, wield
 **Components:** V, S  
 **Duration:** Instantaneous
 
-Blazing orbs of fire plummet to the ground at four different points you can see within range. Each creature in a 40-foot-radius sphere centered on each point you choose must make a Dexterity Saving Throw. The sphere spreads around corners. A creature takes  20d6 fire damage and  20d6 bludgeoning damage on a failed save, or half as much damage on a successful one. A creature in the area of more than one fiery burst is affected only once.
+Blazing orbs of fire plummet to the ground at four different points you can see within range. Each creature in a 40-foot-radius sphere centered on each point you choose must make a Dexterity :d20-save: **Saving Throw**. The sphere spreads around corners. A creature takes  20d6 fire damage and  20d6 bludgeoning damage on a failed save, or half as much damage on a successful one. A creature in the area of more than one fiery burst is affected only once.
 
 The spell damages objects in the area and ignites flammable objects that aren't being worn or carried.
 
@@ -214,7 +214,7 @@ While this layer is in place, spells can't be cast through the wall. The layer i
 
 You unleash the power of your mind to blast the intellect of up to ten creatures of your choice that you can see within range. Creatures that have an Intelligence score of 2 or lower are unaffected.
 
-Each target must make an Intelligence Saving Throw. On a failed save, a target takes  14d6 psychic damage and is  stunned. On a successful save, a target takes half as much damage and isn't  stunned. If a target is killed by this damage, its head explodes, assuming it has one.
+Each target must make an Intelligence :d20-save: **Saving Throw**. On a failed save, a target takes  14d6 psychic damage and is  stunned. On a successful save, a target takes half as much damage and isn't  stunned. If a target is killed by this damage, its head explodes, assuming it has one.
 
 A  stunned target can make an Intelligence :d20-save: **Saving Throw** at the end of each of its turns. On a successful save, the stunning effect ends.
 
@@ -246,13 +246,13 @@ During this spell's duration, you can use your :rsc-action: **Action** to assume
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-A churning storm cloud forms, centered on a point you can see and spreading to a radius of 360 feet. Lightning flashes in the area, thunder booms, and strong winds roar. Each creature under the cloud (no more than 5,000 feet beneath the cloud) when it appears must make a Constitution Saving Throw. On a failed save, a creature takes  2d6 thunder damage and becomes  deafened for 5 minutes.
+A churning storm cloud forms, centered on a point you can see and spreading to a radius of 360 feet. Lightning flashes in the area, thunder booms, and strong winds roar. Each creature under the cloud (no more than 5,000 feet beneath the cloud) when it appears must make a Constitution :d20-save: **Saving Throw**. On a failed save, a creature takes  2d6 thunder damage and becomes  deafened for 5 minutes.
 
 Each round you maintain  concentration on this spell, the storm produces different effects on your turn.
 
 ***Round 2.*** Acidic rain falls from the cloud. Each creature and object under the cloud takes  1d6 acid damage.
 
-***Round 3.*** You call six bolts of lightning from the cloud to strike six creatures or objects of your choice beneath the cloud. A given creature or object can't be struck by more than one bolt. A struck creature must make a Dexterity Saving Throw. The creature takes  10d6 lightning damage on a failed save, or half as much damage on a successful one.
+***Round 3.*** You call six bolts of lightning from the cloud to strike six creatures or objects of your choice beneath the cloud. A given creature or object can't be struck by more than one bolt. A struck creature must make a Dexterity :d20-save: **Saving Throw**. The creature takes  10d6 lightning damage on a failed save, or half as much damage on a successful one.
 
 ***Round 4.*** Hailstones rain down from the cloud. Each creature under the cloud takes  2d6 bludgeoning damage.
 
@@ -280,7 +280,7 @@ This spell ends if one of the actions you use during this period, or any effects
 
 Choose one creature or nonmagical object that you can see within range. You transform the creature into a different creature, the creature into a nonmagical object, or the object into a creature (the object must be neither worn nor carried by another creature). The transformation lasts for the duration, or until the target drops to 0 Hit Points or dies. If you concentrate on this spell for the full duration, the transformation lasts until it is dispelled.
 
-This spell has no effect on a shapechanger or a creature with 0 Hit Points. An unwilling creature can make a Wisdom Saving Throw, and if it succeeds, it isn't affected by this spell.
+This spell has no effect on a shapechanger or a creature with 0 Hit Points. An unwilling creature can make a Wisdom :d20-save: **Saving Throw**, and if it succeeds, it isn't affected by this spell.
 
 ***Creature into Creature.*** If you turn a creature into another kind of creature, the new form can be any kind you choose whose challenge rating is equal to or less than the target's (or its level, if the target doesn't have a challenge rating). The target's game statistics, including mental ability scores, are replaced by the statistics of the new form. It retains its alignment and personality.
 
@@ -318,7 +318,7 @@ The spell can even provide a new body if the original no longer exists, in which
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-Drawing on the deepest fears of a group of creatures, you create illusory creatures in their minds, visible only to them. Each creature in a 30-foot-radius sphere centered on a point of your choice within range must make a Wisdom Saving Throw. On a failed save, a creature becomes  frightened for the duration. The Illusion calls on the creature's deepest fears, manifesting its worst nightmares as an implacable threat. At the end of each of the  frightened creature's turns, it must succeed on a Wisdom :d20-save: **Saving Throw** or take  4d10 psychic damage. On a successful save, the spell ends for that creature.
+Drawing on the deepest fears of a group of creatures, you create illusory creatures in their minds, visible only to them. Each creature in a 30-foot-radius sphere centered on a point of your choice within range must make a Wisdom :d20-save: **Saving Throw**. On a failed save, a creature becomes  frightened for the duration. The Illusion calls on the creature's deepest fears, manifesting its worst nightmares as an implacable threat. At the end of each of the  frightened creature's turns, it must succeed on a Wisdom :d20-save: **Saving Throw** or take  4d10 psychic damage. On a successful save, the spell ends for that creature.
 
 ### Wish
 *9th-level Conjuration*
@@ -350,7 +350,7 @@ The stress of casting this spell to produce any effect other than duplicating an
 **Components:** V, S, M (an hourglass filled with diamond dust worth at least 5,000 gp, which the spell consumes)  
 **Duration:** Instantaneous
 
-You target a creature you can see within range, putting its physical form through the devastation of rapid aging. The target must make a Constitution Saving Throw, taking 10d12 necrotic damage on a failed save, or half as much damage on a successful one. If the save fails, the target also ages to the point where it has only 30 days left before it dies of old age. In this aged state, the target has :d20-disadv: **Disadvantage** on attack rolls, ability checks, and Saving Throws, and its walking speed is halved. Only the *wish* spell or the *greater restoration* cast with a 9th-level :rsc-spell-slot: **Spell Slot** can end these effects and restore the target to its previous age.
+You target a creature you can see within range, putting its physical form through the devastation of rapid aging. The target must make a Constitution :d20-save: **Saving Throw**, taking 10d12 necrotic damage on a failed save, or half as much damage on a successful one. If the save fails, the target also ages to the point where it has only 30 days left before it dies of old age. In this aged state, the target has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Roll**s, :d20-check: **Ability Check**s, and :d20-save: **Saving Throw**s, and its walking speed is halved. Only the *wish* spell or the *greater restoration* cast with a 9th-level :rsc-spell-slot: **Spell Slot** can end these effects and restore the target to its previous age.
 
 ### Ravenous Void
 *9th-level Evocation*

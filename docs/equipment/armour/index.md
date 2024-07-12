@@ -88,7 +88,7 @@ Using a shield adds bonus to your AC equal to the amount stated. This bonus is a
 
     Armour Class becomes more useful the greater it is - the difference in effectiveness between 20 and 19 AC is greater than the difference in effectiveness between 16 and 15.
 
-    To illustrate this, if a defender has 15 AC and 10 HP, and the attacker has +5 (50% chance to hit) to attack rolls, and deals 2 damage per attack, the defender would on average survive for 10 turns.
+    To illustrate this, if a defender has 15 AC and 10 HP, and the attacker has +5 (50% chance to hit) to :d20-attack: **Attack Roll**s, and deals 2 damage per attack, the defender would on average survive for 10 turns.
 
     If the defender's AC was increased to 16 (45% chance to be hit), they would instead survive for an average of 11.1 rounds (an 11% increase in effectiveness).
 

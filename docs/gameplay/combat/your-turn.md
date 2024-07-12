@@ -19,10 +19,10 @@ On your turn, you can take one :rsc-action:**Actions**. Common :rsc-action:**Act
 - **Dash:** Double your movement for the turn.
 - **Disengage:** Move without provoking opportunity attacks.
 - **Dodge:** Focus on defense to gain :d20-adv: **Advantage** on Dexterity :d20-save: **Saving Throws** and cause :d20-attack: **Attack Rolls** against you to have disadvantage.
-- **Help:** Assist an ally, granting them :d20-adv: **Advantage** on their next :d20-check: **Ability Check** or  attack roll.
+- **Help:** Assist an ally, granting them :d20-adv: **Advantage** on their next :d20-check: **Ability Check** or  :d20-attack: **Attack Roll**.
 - **Hide:** Attempt to become unseen by making a Dexterity (Stealth) check.
 - **Ready:** Prepare a specified action to occur in response to a trigger.
-- **Search:** Look for something using an ability check.
+- **Search:** Look for something using an :d20-check: **Ability Check**.
 - **Use an Object:** Interact with an item or environment feature.
 
 *See also: [Actions]*

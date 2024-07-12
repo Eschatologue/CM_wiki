@@ -12,7 +12,7 @@ icon: spell/level-2
 **Components:** V, S, M (a red dragon's scale)  
 **Duration:** Instantaneous
 
-A line of roaring flame 30 feet long and 5 feet wide emanates from you in a direction you choose. Each creature in the line must make a Dexterity Saving Throw. A creature takes 3d8 fire damage on a failed save, or half as much damage on a successful one.
+A line of roaring flame 30 feet long and 5 feet wide emanates from you in a direction you choose. Each creature in the line must make a Dexterity :d20-save: **Saving Throw**. A creature takes 3d8 fire damage on a failed save, or half as much damage on a successful one.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
 
@@ -129,7 +129,7 @@ You touch a willing beast. For the duration of the spell, you can use your :rsc-
 **Components:** V  
 **Duration:** 1 minute
 
-You can blind or deafen a foe. Choose one creature that you can see within range to make a Constitution Saving Throw. If it fails, the target is either blinded or deafened (your choice) for the duration. At the end of each of its turns, the target can make a Constitution Saving Throw. On a success, the spell ends.
+You can blind or deafen a foe. Choose one creature that you can see within range to make a Constitution :d20-save: **Saving Throw**. If it fails, the target is either blinded or deafened (your choice) for the duration. At the end of each of its turns, the target can make a Constitution :d20-save: **Saving Throw**. On a success, the spell ends.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
@@ -173,7 +173,7 @@ The next time you hit a creature with a weapon attack before this spell ends, th
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-You attempt to suppress strong emotions in a group of people. Each humanoid in a 20-foot-radius sphere centered on a point you choose within range must make a Charisma Saving Throw; a creature can choose to fail this :d20-save: **Saving Throw** if it wishes. If a creature fails its Saving Throw, choose one of the following two effects.
+You attempt to suppress strong emotions in a group of people. Each humanoid in a 20-foot-radius sphere centered on a point you choose within range must make a Charisma :d20-save: **Saving Throw**; a creature can choose to fail this :d20-save: **Saving Throw** if it wishes. If a creature fails its :d20-save: **Saving Throw**, choose one of the following two effects.
 
 You can suppress any effect causing a target to be charmed or frightened. When this spell ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.
 
@@ -263,7 +263,7 @@ You touch a willing creature to grant it the ability to see in the dark. For the
 
 For the duration, you can read the thoughts of certain creatures. When you cast the spell and as your :rsc-action: **Action** on each turn until the spell ends, you can focus your mind on any one creature that you can see within 30 feet of you. If the creature you choose has an Intelligence of 3 or lower or doesn't speak any language, the creature is unaffected.
 
-You initially learn the surface thoughts of the creature—what is most on its mind in that moment. As an :rsc-action: **Action**, you can either shift your attention to another creature's thoughts or attempt to probe deeper into the same creature's mind. If you probe deeper, the target must make a Wisdom Saving Throw. If it fails, you gain insight into its reasoning (if any), its emotional state, and something that looms large in its mind (such as something it worries over, loves, or hates). If it succeeds, the spell ends. Either way, the target knows that you are probing into its mind, and unless you shift your attention to another creature's thoughts, the creature can use its action on its turn to make an Intelligence check contested by your Intelligence check; if it succeeds, the spell ends.
+You initially learn the surface thoughts of the creature—what is most on its mind in that moment. As an :rsc-action: **Action**, you can either shift your attention to another creature's thoughts or attempt to probe deeper into the same creature's mind. If you probe deeper, the target must make a Wisdom :d20-save: **Saving Throw**. If it fails, you gain insight into its reasoning (if any), its emotional state, and something that looms large in its mind (such as something it worries over, loves, or hates). If it succeeds, the spell ends. Either way, the target knows that you are probing into its mind, and unless you shift your attention to another creature's thoughts, the creature can use its action on its turn to make an Intelligence check contested by your Intelligence check; if it succeeds, the spell ends.
 
 Questions verbally directed at the target creature naturally shape the course of its thoughts, so this spell is particularly effective as part of an interrogation.
 
@@ -279,7 +279,7 @@ Once you detect the presence of a creature in this way, you can read its thought
 **Components:** V, S, M (a hot pepper)  
 **Duration:** Concentration, up to 1 minute
 
-You touch one willing creature and imbue it with the power to spew magical energy from its mouth, provided it has one. Choose acid, cold, fire, lightning, or poison. Until the spell ends, the creature can use an :rsc-action: **Action** to exhale energy of the chosen type in a 15-foot cone. Each creature in that area must make a Dexterity Saving Throw, taking 3d6 damage of the chosen type on a failed save, or half as much damage on a successful one.
+You touch one willing creature and imbue it with the power to spew magical energy from its mouth, provided it has one. Choose acid, cold, fire, lightning, or poison. Until the spell ends, the creature can use an :rsc-action: **Action** to exhale energy of the chosen type in a 15-foot cone. Each creature in that area must make a Dexterity :d20-save: **Saving Throw**, taking 3d6 damage of the chosen type on a failed save, or half as much damage on a successful one.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
 
@@ -293,7 +293,7 @@ You touch one willing creature and imbue it with the power to spew magical energ
 
 Choose an unoccupied 5-foot cube of air that you can see within range. An elemental force that resembles a dust devil appears in the cube and lasts for the spell's duration.
 
-Any creature that ends its turn within 5 feet of the dust devil must make a Strength Saving Throw. On a failed save, the creature takes 1d8 bludgeoning damage and is pushed 10 feet away from the dust devil. On a successful save, the creature takes half as much damage and isn't pushed.
+Any creature that ends its turn within 5 feet of the dust devil must make a Strength :d20-save: **Saving Throw**. On a failed save, the creature takes 1d8 bludgeoning damage and is pushed 10 feet away from the dust devil. On a successful save, the creature takes half as much damage and isn't pushed.
 
 As a :rsc-bonus-action: **Bonus Action**, you can move the dust devil up to 30 feet in any direction. If the dust devil moves over sand, dust, loose dirt, or light gravel, it sucks up the material and forms a 10-foot-radius cloud of debris around itself that lasts until the start of your next turn. The cloud heavily obscures its area.
 
@@ -307,7 +307,7 @@ As a :rsc-bonus-action: **Bonus Action**, you can move the dust devil up to 30 f
 **Components:** V  
 **Duration:** Concentration, up to 1 minute
 
-Choose one creature you can see within range. Yellow strips of magical energy loop around the creature. The target must succeed on a Strength Saving Throw, or its flying speed (if any) is reduced to 0 feet for the spell's duration. An airborne creature affected by this spell safely descends at 60 feet per round until it reaches the ground or the spell ends.
+Choose one creature you can see within range. Yellow strips of magical energy loop around the creature. The target must succeed on a Strength :d20-save: **Saving Throw**, or its flying speed (if any) is reduced to 0 feet for the spell's duration. An airborne creature affected by this spell safely descends at 60 feet per round until it reaches the ground or the spell ends.
 
 ### Enhance Ability
 *2nd-level Transmutation*
@@ -341,13 +341,13 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 **Components:** V, S, M (a pinch of powdered iron)  
 **Duration:** Concentration, up to 1 minute
 
-You cause a creature or an object you can see within range to grow larger or smaller for the duration. Choose either a creature or an object that is neither worn nor carried. If the target is unwilling, it can make a Constitution Saving Throw. On a success, the spell has no effect.
+You cause a creature or an object you can see within range to grow larger or smaller for the duration. Choose either a creature or an object that is neither worn nor carried. If the target is unwilling, it can make a Constitution :d20-save: **Saving Throw**. On a success, the spell has no effect.
 
 If the target is a creature, everything it is wearing and carrying changes size with it. Any item dropped by an affected creature returns to normal size at once.
 
-***Enlarge.*** The target's size doubles in all dimensions, and its weight is multiplied by eight. This growth increases its size by one category—from Medium to Large, for example. If there isn't enough room for the target to double its size, the creature or object attains the maximum possible size in the space available. Until the spell ends, the target also has :d20-adv: **Advantage** on Strength checks and Strength Saving Throws. The target's weapons also grow to match its new size. While these weapons are enlarged, the target's attacks with them deal 1d4 extra damage.
+***Enlarge.*** The target's size doubles in all dimensions, and its weight is multiplied by eight. This growth increases its size by one category—from Medium to Large, for example. If there isn't enough room for the target to double its size, the creature or object attains the maximum possible size in the space available. Until the spell ends, the target also has :d20-adv: **Advantage** on Strength checks and Strength :d20-save: **Saving Throw**s. The target's weapons also grow to match its new size. While these weapons are enlarged, the target's attacks with them deal 1d4 extra damage.
 
-***Reduce.*** The target's size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category—from Medium to Small, for example. Until the spell ends, the target also has :d20-disadv: **Disadvantage** on Strength checks and Strength Saving Throws. The target's weapons also shrink to match its new size. While these weapons are reduced, the target's attacks with them deal 1d4 less damage (this can't reduce the damage below 1).
+***Reduce.*** The target's size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category—from Medium to Small, for example. Until the spell ends, the target also has :d20-disadv: **Disadvantage** on Strength checks and Strength :d20-save: **Saving Throw**s. The target's weapons also shrink to match its new size. While these weapons are reduced, the target's attacks with them deal 1d4 less damage (this can't reduce the damage below 1).
 
 ### Enthrall
 *2nd-level Enchantment*
@@ -357,7 +357,7 @@ If the target is a creature, everything it is wearing and carrying changes size 
 **Components:** V, S  
 **Duration:** 1 minute
 
-You weave a distracting string of words, causing creatures of your choice that you can see within range and that can hear you to make a Wisdom Saving Throw. Any creature that can't be charmed succeeds on this :d20-save: **Saving Throw** automatically, and if you or your companions are fighting a creature, it has :d20-adv: **Advantage** on the save. On a failed save, the target has :d20-disadv: **Disadvantage** on Wisdom (Perception) checks made to perceive any creature other than you until the spell ends or until the target can no longer hear you. The spell ends if you are incapacitated or can no longer speak.
+You weave a distracting string of words, causing creatures of your choice that you can see within range and that can hear you to make a Wisdom :d20-save: **Saving Throw**. Any creature that can't be charmed succeeds on this :d20-save: **Saving Throw** automatically, and if you or your companions are fighting a creature, it has :d20-adv: **Advantage** on the save. On a failed save, the target has :d20-disadv: **Disadvantage** on Wisdom (Perception) checks made to perceive any creature other than you until the spell ends or until the target can no longer hear you. The spell ends if you are incapacitated or can no longer speak.
 
 ### Esch's Steel Wind Strike
 *2nd-level Conjuration - Homebrew*
@@ -427,7 +427,7 @@ The flaming blade sheds bright light in a 10-foot radius and dim light for an ad
 **Components:** V, S, M (a bit of tallow, a pinch of brimstone, and a dusting of powdered iron)  
 **Duration:** Concentration, up to 1 minute
 
-A 5-foot-diameter sphere of fire appears in an unoccupied space of your choice within range and lasts for the duration. Any creature that ends its turn within 5 feet of the sphere must make a Dexterity Saving Throw. The creature takes 2d6 fire damage on a failed save, or half as much damage on a successful one.
+A 5-foot-diameter sphere of fire appears in an unoccupied space of your choice within range and lasts for the duration. Any creature that ends its turn within 5 feet of the sphere must make a Dexterity :d20-save: **Saving Throw**. The creature takes 2d6 fire damage on a failed save, or half as much damage on a successful one.
 
 As a :rsc-bonus-action: **Bonus Action**, you can move the sphere up to 30 feet. If you ram the sphere into a creature, that creature must make the :d20-save: **Saving Throw** against the sphere's damage, and the sphere stops moving this turn.
 
@@ -443,7 +443,7 @@ When you move the sphere, you can direct it over barriers up to 5 feet tall and 
 **Components:** V, S, M (a white pearl worth at least 100 gp, which the spell consumes)  
 **Duration:** 1 hour  
 
-You impart latent luck to yourself or one willing creature you can see within range. When the chosen creature makes an attack roll, an ability check, or a :d20-save: **Saving Throw** before the spell ends, it can dismiss this spell on itself to roll an additional d20 and choose which of the d20s to use. Alternatively, when an :d20-attack: **Attack Roll** is made against the chosen creature, it can dismiss this spell on itself to roll a d20 and choose which of the d20s to use, the one it rolled or the one the attacker rolled.
+You impart latent luck to yourself or one willing creature you can see within range. When the chosen creature makes an :d20-attack: **Attack Roll**, an :d20-check: **Ability Check**, or a :d20-save: **Saving Throw** before the spell ends, it can dismiss this spell on itself to roll an additional d20 and choose which of the d20s to use. Alternatively, when an :d20-attack: **Attack Roll** is made against the chosen creature, it can dismiss this spell on itself to roll a d20 and choose which of the d20s to use, the one it rolled or the one the attacker rolled.
 
 If the original d20 roll has :d20-adv: **Advantage** or disadvantage, the creature rolls the additional d20 after :d20-adv: **Advantage** or :d20-disadv: **Disadvantage** has been applied to the original roll.***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
@@ -525,7 +525,7 @@ If a creature is holding or wearing the object and takes the damage from it, the
 **Components:** V, S, M (a small, straight piece of iron)  
 **Duration:** Concentration, up to 1 minute
 
-Choose a humanoid that you can see within range. The target must succeed on a Wisdom :d20-save: **Saving Throw** or be paralyzed for the duration. At the end of each of its turns, the target can make another Wisdom Saving Throw. On a success, the spell ends on the target.
+Choose a humanoid that you can see within range. The target must succeed on a Wisdom :d20-save: **Saving Throw** or be paralyzed for the duration. At the end of each of its turns, the target can make another Wisdom :d20-save: **Saving Throw**. On a success, the spell ends on the target.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, you can target one additional humanoid for each slot level above 2nd. The humanoids must be within 30 feet of each other when you target them.
 
@@ -675,9 +675,9 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 **Components:** V, S, M (a miniature hand sculpted from clay)  
 **Duration:** Concentration, up to 1 minute
 
-You choose a 5-foot-square unoccupied space on the ground that you can see within range. A Medium hand made from compacted soil rises there and reaches for one creature you can see within 5 feet of it. The target must make a Strength Saving Throw. On a failed save, the target takes 2d6 bludgeoning damage and is restrained for the spell's duration.
+You choose a 5-foot-square unoccupied space on the ground that you can see within range. A Medium hand made from compacted soil rises there and reaches for one creature you can see within 5 feet of it. The target must make a Strength :d20-save: **Saving Throw**. On a failed save, the target takes 2d6 bludgeoning damage and is restrained for the spell's duration.
 
-As an :rsc-action: **Action**, you can cause the hand to crush the restrained target, which must make a Strength Saving Throw. The target takes 2d6 bludgeoning damage on a failed save, or half as much damage on a successful one.
+As an :rsc-action: **Action**, you can cause the hand to crush the restrained target, which must make a Strength :d20-save: **Saving Throw**. The target takes 2d6 bludgeoning damage on a failed save, or half as much damage on a successful one.
 
 To break out, the restrained target can use its action to make a Strength check against your spell save DC. On a success, the target escapes and is no longer restrained by the hand.
 
@@ -703,7 +703,7 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 **Components:** S  
 **Duration:** Concentration, up to 1 hour
 
-You reach into the mind of one creature you can see within range. The target must make a Wisdom Saving Throw, taking 3d8 psychic damage on a failed save, or half as much damage on a successful one. On a failed save, you also always know the target's location until the spell ends, but only while the two of you are on the same plane of existence. While you have this knowledge, the target can't become hidden from you, and if it's invisible, it gains no benefit from that condition against you.
+You reach into the mind of one creature you can see within range. The target must make a Wisdom :d20-save: **Saving Throw**, taking 3d8 psychic damage on a failed save, or half as much damage on a successful one. On a failed save, you also always know the target's location until the spell ends, but only while the two of you are on the same plane of existence. While you have this knowledge, the target can't become hidden from you, and if it's invisible, it gains no benefit from that condition against you.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
 
@@ -745,7 +745,7 @@ Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied 
 
 A silvery beam of pale light shines down in a 5-foot-radius, 40-foot-high cylinder centered on a point within range. Until the spell ends, dim light fills the cylinder.
 
-When a creature enters the spell's area for the first time on a turn or starts its turn there, it is engulfed in ghostly flames that cause searing pain, and it must make a Constitution Saving Throw. It takes 2d10 radiant damage on a failed save, or half as much damage on a successful one.
+When a creature enters the spell's area for the first time on a turn or starts its turn there, it is engulfed in ghostly flames that cause searing pain, and it must make a Constitution :d20-save: **Saving Throw**. It takes 2d10 radiant damage on a failed save, or half as much damage on a successful one.
 
 A shapechanger makes its :d20-save: **Saving Throw** with disadvantage. If it fails, it also instantly reverts to its original form and can't assume a different form until it leaves the spell's light.
 
@@ -805,7 +805,7 @@ A veil of shadows and silence radiates from you, masking you and your companions
 **Components:** V, S, M (a bit of fleece)  
 **Duration:** Concentration, up to 1 minute
 
-You craft an Illusion that takes root in the mind of a creature that you can see within range. The target must make an Intelligence Saving Throw. On a failed save, you create a phantasmal object, creature, or other visible phenomenon of your choice that is no larger than a 10-foot cube and that is perceivable only to the target for the duration. This spell has no effect on undead or constructs.
+You craft an Illusion that takes root in the mind of a creature that you can see within range. The target must make an Intelligence :d20-save: **Saving Throw**. On a failed save, you create a phantasmal object, creature, or other visible phenomenon of your choice that is no larger than a 10-foot cube and that is perceivable only to the target for the duration. This spell has no effect on undead or constructs.
 
 The phantasm includes sound, temperature, and other stimuli, also evident only to the creature.
 
@@ -873,7 +873,7 @@ At the end of each of the target's turns, it can make a Constitution :d20-save: 
 **Components:** S, M (a vial of meltwater)  
 **Duration:** Instantaneous
 
-A burst of cold energy emanates from you in a 30-foot cone. Each creature in that area must make a Constitution Saving Throw. On a failed save, a creature takes 3d8 cold damage and is hindered by ice formations for 1 minute, or until it or another creature within reach of it uses an :rsc-action: **Action** to break away the ice. A creature hindered by ice has its speed reduced to 0. On a successful save, a creature takes half as much damage and isn't hindered by ice.
+A burst of cold energy emanates from you in a 30-foot cone. Each creature in that area must make a Constitution :d20-save: **Saving Throw**. On a failed save, a creature takes 3d8 cold damage and is hindered by ice formations for 1 minute, or until it or another creature within reach of it uses an :rsc-action: **Action** to break away the ice. A creature hindered by ice has its speed reduced to 0. On a successful save, a creature takes half as much damage and isn't hindered by ice.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, increase the cold damage by 1d8 for each slot level above 2nd.
 
@@ -939,7 +939,7 @@ If you drop the weapon or throw it, it dissipates at the end of the turn. Therea
 **Components:** V, S, M (a chip of mica)  
 **Duration:** Instantaneous
 
-A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range. Each creature in a 10-foot-radius sphere centered on that point must make a Constitution Saving Throw. A creature takes 3d8 thunder damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone, crystal, or metal has :d20-disadv: **Disadvantage** on this Saving Throw.
+A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range. Each creature in a 10-foot-radius sphere centered on that point must make a Constitution :d20-save: **Saving Throw**. A creature takes 3d8 thunder damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone, crystal, or metal has :d20-disadv: **Disadvantage** on this :d20-save: **Saving Throw**.
 
 A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area.
 
@@ -973,7 +973,7 @@ You cause up to ten words to form in a part of the sky you can see. The words ap
 **Components:** V, S, M (a piece of ice or a small white rock chip)  
 **Duration:** Instantaneous
 
-A flurry of magic snowballs erupts from a point you choose within range. Each creature in a 5-foot-radius sphere centered on that point must make a Dexterity Saving Throw. A creature takes 3d6 cold damage on a failed save, or half as much damage on a successful one.
+A flurry of magic snowballs erupts from a point you choose within range. Each creature in a 5-foot-radius sphere centered on that point must make a Dexterity :d20-save: **Saving Throw**. A creature takes 3d6 cold damage on a failed save, or half as much damage on a successful one.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
 
@@ -1023,7 +1023,7 @@ The weapon can take whatever form you choose. Clerics of deities who are associa
 **Components:** V, S, M (a deck of cards)  
 **Duration:** Instantaneous
 
-You spray a 15-foot cone of spectral cards. Each creature in that area must make a Dexterity Saving Throw. On a failed save, a creature takes 2d10 force damage and has the blinded condition until the end of its next turn. On a successful save, a creature takes half as much damage only.
+You spray a 15-foot cone of spectral cards. Each creature in that area must make a Dexterity :d20-save: **Saving Throw**. On a failed save, a creature takes 2d10 force damage and has the blinded condition until the end of its next turn. On a successful save, a creature takes half as much damage only.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, the damage increases by 1d10 for each slot level above 2nd.
 
@@ -1037,7 +1037,7 @@ You spray a 15-foot cone of spectral cards. Each creature in that area must make
 
 You suggest a course of activity (limited to a sentence or two) and magically influence a creature you can see within range that can hear and understand you. Creatures that can't be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act ends the spell.
 
-The target must make a Wisdom Saving Throw. On a failed save, it pursues the course of action you described to the best of its ability. The suggested course of action can continue for the entire duration. If the suggested activity can be completed in a shorter time, the spell ends when the subject finishes what it was asked to do.
+The target must make a Wisdom :d20-save: **Saving Throw**. On a failed save, it pursues the course of action you described to the best of its ability. The suggested course of action can continue for the entire duration. If the suggested activity can be completed in a shorter time, the spell ends when the subject finishes what it was asked to do.
 
 You can also specify conditions that will trigger a special activity during the duration. For example, you might suggest that a knight give her warhorse to the first beggar she meets. If the condition isn't met before the spell expires, the activity isn't performed.
 
@@ -1065,7 +1065,7 @@ The creature is an ally to you and your companions. In combat, the creature shar
 **Components:** V  
 **Duration:** 1 round
 
-You psychically lash out at one creature you can see within range. The target must make an Intelligence Saving Throw. On a failed save, the target takes 3d6 psychic damage, and it can't take a :rsc-reaction: **Reaction** until the end of its next turn. Moreover, on its next turn, it must choose whether it gets a move, an :rsc-action: **Action**, or a :rsc-bonus-action: **Bonus Action**; it gets only one of the three. On a successful save, the target takes half as much damage and suffers none of the spell's other effects.
+You psychically lash out at one creature you can see within range. The target must make an Intelligence :d20-save: **Saving Throw**. On a failed save, the target takes 3d6 psychic damage, and it can't take a :rsc-reaction: **Reaction** until the end of its next turn. Moreover, on its next turn, it must choose whether it gets a move, an :rsc-action: **Action**, or a :rsc-bonus-action: **Bonus Action**; it gets only one of the three. On a successful save, the target takes half as much damage and suffers none of the spell's other effects.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd level or higher, you can target one additional creature for each slot level above 2nd. The creatures must be within 30 feet of each other when you target them.
 
@@ -1089,7 +1089,7 @@ You magically twist space around another creature you can see within range. The 
 **Components:** V, S, M (a pair of platinum rings worth at least 50 gp each, which you and the target must wear for the duration)  
 **Duration:** 1 hour
 
-This spell wards a willing creature you touch and creates a mystic connection between you and the target until the spell ends. While the target is within 60 feet of you, it gains a +1 bonus to AC and Saving Throws, and it has resistance to all damage. Also, each time it takes damage, you take the same amount of damage.
+This spell wards a willing creature you touch and creates a mystic connection between you and the target until the spell ends. While the target is within 60 feet of you, it gains a +1 bonus to AC and :d20-save: **Saving Throw**s, and it has resistance to all damage. Also, each time it takes damage, you take the same amount of damage.
 
 The spell ends if you drop to 0 Hit Points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures. You can also dismiss the spell as an :rsc-action: **Action**.
 
@@ -1137,7 +1137,7 @@ You conjure a mass of thick, sticky webbing at a point of your choice within ran
 
 If the webs aren't anchored between two solid masses (such as walls or trees) or layered across a floor, wall, or ceiling, the conjured web collapses on itself, and the spell ends at the start of your next turn. Webs layered over a flat surface have a depth of 5 feet.
 
-Each creature that starts its turn in the webs or that enters them during its turn must make a Dexterity Saving Throw. On a failed save, the creature is restrained as long as it remains in the webs or until it breaks free.
+Each creature that starts its turn in the webs or that enters them during its turn must make a Dexterity :d20-save: **Saving Throw**. On a failed save, the creature is restrained as long as it remains in the webs or until it breaks free.
 
 A creature restrained by the webs can use its action to make a Strength check against your spell save DC. If it succeeds, it is no longer restrained.
 
@@ -1151,7 +1151,7 @@ The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 
 **Components:** V, S, M (a withered vine twisted into a loop)  
 **Duration:** Instantaneous
 
-You invoke both death and life upon a 10-foot-radius sphere centered on a point within range. Each creature of your choice in that area must make a Constitution Saving Throw, taking 2d6 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical vegetation in that area withers.
+You invoke both death and life upon a 10-foot-radius sphere centered on a point within range. Each creature of your choice in that area must make a Constitution :d20-save: **Saving Throw**, taking 2d6 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical vegetation in that area withers.
 
 In addition, one creature of your choice in that area can spend and roll one of its unspent Hit Dice and regain a number of Hit Points equal to the roll plus your spellcasting ability modifier.
 
@@ -1177,6 +1177,6 @@ Until the spell ends, you can use your :rsc-action: **Action** to summon the obj
 **Components:** V, S  
 **Duration:** 10 minutes
 
-You create a magical zone that guards against deception in a 15-foot-radius sphere centered on a point of your choice within range. Until the spell ends, a creature that enters the spell's area for the first time on a turn or starts its turn there must make a Charisma Saving Throw. On a failed save, a creature can't speak a deliberate lie while in the radius. You know whether each creature succeeds or fails on its Saving Throw.
+You create a magical zone that guards against deception in a 15-foot-radius sphere centered on a point of your choice within range. Until the spell ends, a creature that enters the spell's area for the first time on a turn or starts its turn there must make a Charisma :d20-save: **Saving Throw**. On a failed save, a creature can't speak a deliberate lie while in the radius. You know whether each creature succeeds or fails on its :d20-save: **Saving Throw**.
 
 An affected creature is aware of the spell and can thus avoid answering questions to which it would normally respond with a lie. Such creatures can be evasive in its answers as long as it remains within the boundaries of the truth.

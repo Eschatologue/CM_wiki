@@ -176,7 +176,7 @@ For the duration, you have :d20-adv: **Advantage** on all Charisma checks direct
 **Components:** V, S  
 **Duration:** Instantaneous
 
-You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution Saving Throw. On a failed save, the target takes 1d6 cold damage, and it has :d20-disadv: **Disadvantage** on the next weapon :d20-attack: **Attack Roll** it makes before the end of its next turn.
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution :d20-save: **Saving Throw**. On a failed save, the target takes 1d6 cold damage, and it has :d20-disadv: **Disadvantage** on the next weapon :d20-attack: **Attack Roll** it makes before the end of its next turn.
 
 The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
@@ -200,7 +200,7 @@ This spell's damage increases when you reach certain levels. At 5th level, the m
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one :d20-check: **Ability Check** of its choice. It can roll the die before or after making the ability check. The spell then ends.
+You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one :d20-check: **Ability Check** of its choice. It can roll the die before or after making the :d20-check: **Ability Check**. The spell then ends.
 
 ### Gust
 *Transmutation cantrip*
@@ -224,7 +224,7 @@ You create a harmless sensory effect using air, such as causing leaves to rustle
 **Components:** V, S, M (a living flea)  
 **Duration:** Instantaneous
 
-You cause a cloud of mites, fleas, and other parasites to appear momentarily on one creature you can see within range. The target must succeed on a Constitution Saving Throw, or it takes 1d6 poison damage and moves 5 feet in a random direction if it can move and its speed is at least 5 feet. Roll a d4 for the direction: 1, north; 2, south; 3, east; or 4, west. This movement doesn't provoke opportunity attacks, and if the direction rolled is blocked, the target doesn't move.
+You cause a cloud of mites, fleas, and other parasites to appear momentarily on one creature you can see within range. The target must succeed on a Constitution :d20-save: **Saving Throw**, or it takes 1d6 poison damage and moves 5 feet in a random direction if it can move and its speed is at least 5 feet. Roll a d4 for the direction: 1, north; 2, south; 3, east; or 4, west. This movement doesn't provoke opportunity attacks, and if the direction rolled is blocked, the target doesn't move.
 
 The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
@@ -274,7 +274,7 @@ The hand can't attack, activate magic items, or carry more than 10 pounds.
 **Components:** V, S  
 **Duration:** 1 minute
 
-You touch one to three pebbles and imbue them with magic. You or someone else can make a ranged spell attack with one of the pebbles by throwing it or hurling it with a *sling*. If thrown, a pebble has a range of 60 feet. If someone else attacks with a pebble, that attacker adds your spellcasting ability modifier, not the attacker's, to the attack roll. On a hit, the target takes bludgeoning damage equal to 1d6 + your spellcasting ability modifier. Whether the attack hits or misses, the spell then ends on the stone.
+You touch one to three pebbles and imbue them with magic. You or someone else can make a ranged spell attack with one of the pebbles by throwing it or hurling it with a *sling*. If thrown, a pebble has a range of 60 feet. If someone else attacks with a pebble, that attacker adds your spellcasting ability modifier, not the attacker's, to the :d20-attack: **Attack Roll**. On a hit, the target takes bludgeoning damage equal to 1d6 + your spellcasting ability modifier. Whether the attack hits or misses, the spell then ends on the stone.
 
 If you cast this spell again, the spell ends on any pebbles still affected by your previous casting.
 
@@ -423,7 +423,7 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 **Components:** V, S, M (a miniature cloak)  
 **Duration:** Concentration, up to 1 minute
 
-You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one :d20-save: **Saving Throw** of its choice. It can roll the die before or after making the Saving Throw. The spell then ends.
+You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one :d20-save: **Saving Throw** of its choice. It can roll the die before or after making the :d20-save: **Saving Throw**. The spell then ends.
 
 ### Sacred Flame
 *Evocation cantrip*
@@ -433,7 +433,7 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 **Components:** V, S  
 **Duration:** Instantaneous
 
-Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity :d20-save: **Saving Throw** or take 1d8 radiant damage. The target gains no benefit from cover for this Saving Throw.
+Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity :d20-save: **Saving Throw** or take 1d8 radiant damage. The target gains no benefit from cover for this :d20-save: **Saving Throw**.
 
 The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 

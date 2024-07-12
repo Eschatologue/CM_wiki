@@ -14,9 +14,9 @@
 :   You can speak, read, and write *Common* and *Draconic*.
 #### :dmg-fire: Breath Weapon 
 
-You are distantly related to a particular kind of Aeginae. Each ancestry provides a damage resistance and a Breath Weapon, which shares the same range and area of effects but different element and Saving Throws, all breath weapon also increases in damage at certain levels.
+You are distantly related to a particular kind of Aeginae. Each ancestry provides a damage resistance and a Breath Weapon, which shares the same range and area of effects but different element and :d20-save: **Saving Throw**s, all breath weapon also increases in damage at certain levels.
 
-##### Saving Throws
+##### :d20-save: **Saving Throw**s
 :   The :d20-save: **Saving Throw** for your Breath Weapon is calculated as `8 + Constitution Modifier + Proficiency Bonus`
 
 ##### Breath Weapon Damage

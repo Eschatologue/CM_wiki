@@ -92,7 +92,7 @@ When you cast Find Familiar, you infuse the summoned familiar with a measure of 
 
 **Necrotic or Radiant Damage.** Whenever the familiar deals :dmg-bludgeoning: **Bludgeoning**, :dmg-piercing: **Piercing**, or :dmg-slashing: **Slashing** damage, you can make it deal :dmg-necrotic: **Necrotic** or :dmg-radiant: **Radiant** damage instead. 
 
-**Your Save DC.** If the familiar forces a creature to make a Saving Throw, it uses your spell save DC.
+**Your Save DC.** If the familiar forces a creature to make a :d20-save: **Saving Throw**, it uses your spell save DC.
 
 **Resistance.** When the familiar takes damage, you can use your :rsc-reaction: **Reaction** to grant it Resistance against that damage.
 
