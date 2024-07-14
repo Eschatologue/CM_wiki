@@ -46,7 +46,7 @@ A :rsc-reaction: **Reaction** is an :rsc-action: **Action** that creatures can t
 - **Counterspell**: A sorcerer uses their :rsc-reaction: **Reaction** to counter a spell being cast by an enemy within 60 feet.
 - **Uncanny Dodge**: A rogue uses their :rsc-reaction: **Reaction** to halve the damage from an attack that hits them.
 
-## :rsc-spell-slot: Spell Slots
+## Spell Slots
 
 |:rsc-spell-slot:{ .xxl .middle }|
 |:-:|
@@ -89,11 +89,15 @@ Higher-level :rsc-spell-slot: **Spell Slot**s can be used to cast lower-level sp
 
 ## Movement
 
+|:rsc-speed:{ .xxl .middle }|
+|:-:|
+| **MOVEMENT** |
+
 Movement determines how far creatures can travel on their turn during combat or an adventure. Each character has a movement speed, usually measured in feet, indicating the distance they can cover under normal circumstances.
 
 ### Basic Movement
 
-Each character’s movement speed is listed in their race description. For example, most humans have a movement speed of 30 feet, while dwarves typically have a movement speed of 25 feet. On their turn, creatures can move a distance up to their movement speed. This movement can be broken up before and after taking an :rsc-action: **Action**, :rsc-bonus-action: **Bonus Action**, or reaction.
+Each character’s movement speed is listed in their race description. For example, most humans have a movement speed of 30 feet, while dwarves typically have a :rsc-speed: **Speed** of 25 feet. On their turn, creatures can move a distance up to their movement speed. This movement can be broken up before and after taking an :rsc-action: **Action**, :rsc-bonus-action: **Bonus Action**, or :rsc-reaction: **Reaction**.
 
 ### Difficult Terrain
 
@@ -109,7 +113,7 @@ Characters can also have alternative movement types such as climbing, swimming, 
 - **Difficult Terrain:** A dwarf cleric with a movement speed of 25 feet moves through a swamp, which is difficult terrain. Each foot of movement costs 2 feet, so they can only move 12 feet (rounded down) in one turn.
 - **Climbing and Swimming:** An elf ranger has a base movement speed of 35 feet. If they start climbing a tree (assuming no special climbing speed), they move at half speed, so they can climb 17 feet in one turn. If the ranger has a spell or ability granting them a climbing speed of 30 feet, they can climb up to 30 feet in one turn.
 
-### Dash Action
+### Dash
 
 Creatures can take the Dash action to double their movement speed for the turn. For example, a rogue with a movement speed of 30 feet uses Dash and can move 60 feet.
 
@@ -130,6 +134,10 @@ Characters can combine movement with actions in any order. For example, creature
 Moving out of an enemy’s reach typically provokes an opportunity attack, allowing the enemy to use their :rsc-reaction: **Reaction** to make a melee attack. This makes careful planning of movement crucial during combat to avoid unnecessary damage.
 
 ## Hit Dice
+
+|:rsc-hitdie:{ .xxl .middle }|
+|:-:|
+|**HIT DICE**|
 
 Hit Dice are an essential mechanic in D&D that represent a character's ability to recover health during short rests and determine their overall Hit Points.
 

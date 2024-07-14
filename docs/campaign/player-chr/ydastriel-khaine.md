@@ -4,7 +4,16 @@ hide:
   - toc
 ---
 
-> *"Ambitious, arrogant, and seemingly all-knowing, much like the number zero. It's the void from which all other thing begin.”*
+<p style="text-align: center;">
+
+<i> "Ambitious, arrogant, and seemingly all-knowing, much like the number zero. It's the void from which all other thing begin.” </i>
+
+</p>
+
+| druid level | gimmick feature |
+|:-:|:-:|
+| 2nd | [Cosmic Weave], [Bonus Cantrip] |
+| 3rd | [Spire's Resonance] |
 
 # Parable of the Stars
 
@@ -103,7 +112,7 @@ Upon gaining this class feature, you gain additional Starry Forms tied to specif
 
     *Shining armour of crimson plates form all over you, transforming you into the executor of justice. Those who obstruct Judgement shall be stricken down with impunity.*
 
-    **Smite of Conviction:** You gain the abilty to make melee spell attack with the range of 5 ft. with [Cosmic Flare]. Make separate Attack for each projectile, dealing :dmg-radiant: **Radiant** damage equal to 1d10 + your Wisdom Modifier damage on hit. 
+    **Fist of Conviction:** You gain the abilty to make melee spell attack with the range of 5 ft. with [Cosmic Flare]. Make separate Attack for each projectile, dealing :dmg-radiant: **Radiant** damage equal to 1d10 + your Wisdom Modifier damage on hit. 
 
     **Leviathan Queller:** Armour constructed from cosmic energies materialise on you, enpowering you to mete out judgement upon the guilty. So long as you are not wearing medium or heavy armour or wielding a shield, you have the following benefits:
 
@@ -137,6 +146,7 @@ Upon gaining this class feature, you gain additional Starry Forms tied to specif
 
 
 [Cosmic Flare]: ../../spells/cantrip.md#cosmic-flare
-[Reach]: ../../equipment/weapon/index.md#reach
-[Thrown]: ../../equipment/weapon/index.md#thrown
-[Versatile]: ../../equipment/weapon/index.md#versatile
+
+[Cosmic Weave]: #cosmic-weave-level-2
+[Bonus Cantrip]: #bonus-cantrip-level-2
+[Spire's Resonance]: #spires-resonance-level-3

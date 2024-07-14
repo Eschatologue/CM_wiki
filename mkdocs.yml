@@ -154,6 +154,7 @@ markdown_extensions:
   - pymdownx.snippets:
       auto_append:
         - includes/abbreviations.md
+        - includes/spells.md
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.critic

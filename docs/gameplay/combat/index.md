@@ -18,7 +18,7 @@ During a round, each participant in a battle takes a turn. The order of turns is
 
 During your turn, you can do the following on any order:
 
-- Move up to your :rsc-movement: **Speed**
+- Move up to your :rsc-speed: **Speed**
 - Take one :rsc-action: **Action**
 - Take one :rsc-bonus-action: **Bonus Action** (If you have a class feature that uses it)
 
@@ -116,7 +116,7 @@ Damage is assigned a damage type based on the weapon or effect inflicting the da
 
 *Main Article: [Movement](movement.md)*
 
-On your turn, you can move up to your :rsc-movement: **Speed**.
+On your turn, you can move up to your :rsc-speed: **Speed**.
 
 |Special Movement|Description|Cost|
 |---|---|--:|

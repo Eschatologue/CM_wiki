@@ -4,14 +4,18 @@ hide:
   - toc
 ---
 
->*"A man born into nobility, with a legacy of great achievements, yet devoid of the qualifications, for he carries the weight of his lineage.”*
+<p style="text-align: center;">
+
+<i> "A man born into nobility, with a legacy of great achievements, yet devoid of the qualifications, for he carries the weight of his lineage.” </i>
+
+</p>
 
 | rogue level | gimmick feature |
 |:-:|:-:|
-| 1st | [Bonus Proficiencies](#bonus-proficiencies---level-1), [Clairvoyance](#clairvoyance---level-1) |
-| 3rd | [Spellcasting](#spellcasting---level-3), [Dekrat Special](#dekrats-special---level-3), [Spellbreaker's Mark](#spellbreakers-mark---level-3) |
-| 4th | [The People's Eyebrow](#the-peoples-eyebrow---level-4) |
-| 7th | [Resurgence](#resurgence---level-7) |
+| 1st | [Bonus Proficiencies](#bonus-proficiencies-level-1), [Clairvoyance](#clairvoyance-level-1) |
+| 3rd | [Spellcasting](#spellcasting-level-3), [Dekrat Special](#dekrats-special-level-3), [Spellbreaker's Mark](#spellbreakers-mark-level-3) |
+| 4th | [The People's Eyebrow](#the-peoples-eyebrow-level-4) |
+| 7th | [Resurgence](#resurgence-level-7) |
 
 # Sorcerous Origin: Spellbreaker
 
@@ -104,7 +108,7 @@ To be channeled this way, the spell must met the following requirements:
 
 If your attack misses, the spell fails and has no effect. On a hit, the spell takes effect immediately in addition of the normal effects and damage from your weapon attack, under the rules below:
 
-- :spell-aoe: **Area of Effects.** If the spell targets an area greater than a 10 ft. cube, it takes effect as a 15 ft. cone originating from you, which must include your target. Alternatively, it can be contained to only affect the target of your attack (your choice). Using a ranged weapon, your spell is contained to only affect the target of your attack.
+- :aoe-rad: **Area of Effects.** If the spell targets an area greater than a 10 ft. :aoe-cube: cube, it takes effect as a 15 ft. :aoe-cone: cone originating from you, which must include your target. Alternatively, it can be contained to only affect the target of your attack (your choice). Using a ranged weapon, your spell is contained to only affect the target of your attack.
 
 - :spell-level-0: **Cantrip.** The cantrip ^^does not deal damage^^. Instead, your weapon attack deals the damage type dealt by the cantrip, and applies the cantrip additional effects on hit, except for damage.
 
@@ -216,75 +220,6 @@ Spells marked with ^DS^ means that the spell fufill the prerequisites to be chan
       - [Pulse Wave]^DS^
       - [Slow]^DS^
       - [Tidal Wave]^DS^
-
-[Acid Splash]: ../../spells/cantrip.md#acid-splash
-[Booming Blade]:../../spells/cantrip.md#booming-blade
-[Blade Ward]: ../../spells/cantrip.md#blade-ward
-[Chill Touch]: ../../spells/cantrip.md#chill-touch
-[Dancing Lights]: ../../spells/cantrip.md#dancing-lights
-[Fire Bolt]: ../../spells/cantrip.md#fire-bolt
-[Friends]: ../../spells/cantrip.md#friends
-[Frostbite]: ../../spells/cantrip.md#frostbite
-[Green-Flame Blade]: ../../spells/cantrip.md#green-flame-blade
-[Light]: ../../spells/cantrip.md#light
-[Mage Hand]: ../../spells/cantrip.md#mage-hand
-[Minor Illusion]: ../../spells/cantrip.md#minor-Illusion
-[Poison Spray]: ../../spells/cantrip.md#poison-spray
-[Prestidigitation]: ../../spells/cantrip.md#prestidigitation
-[Ray of Frost]: ../../spells/cantrip.md#ray-of-frost
-[Shocking Grasp]: ../../spells/cantrip.md#shocking-grasp
-[Vicious Mockery]: ../../spells/cantrip.md#vicious-mockery
-
-[Absorb Elements]: ../../spells/1st-level.md#absorb-elements
-[Armor of Agathys]: ../../spells/1st-level.md#armor-of-agathys
-[Bane]: ../../spells/1st-level.md#bane
-[Burning Hands]: ../../spells/1st-level.md#burning-hands
-[Chromatic Orb]: ../../spells/1st-level.md#chromatic-orb
-[Color Spray]: ../../spells/1st-level.md#color-spray
-[Detect Evil and Good]: ../../spells/1st-level.md#detect-evil-and-good
-[Earth Tremor]: ../../spells/1st-level.md#earth-tremor
-[Faerie Fire]: ../../spells/1st-level.md#faerie-fire
-[Gift of Alacrity]: ../../spells/1st-level.md#gift-of-alacrity
-[Grease]: ../../spells/1st-level.md#grease
-[Hunter's Mark]: ../../spells/1st-level.md#hunters-mark
-[Ice Knife]: ../../spells/1st-level.md#ice-knife
-[Jump]: ../../spells/1st-level.md#jump
-[Longstrider]: ../../spells/1st-level.md#longstrider
-[Shield]: ../../spells/1st-level.md#shield
-[Thunderwave]: ../../spells/1st-level.md#thunderwave
-[Zephyr Strike]: ../../spells/1st-level.md#zephyr-strike
-
-[Aganazzar's Scorcher]: ../../spells/2nd-level.md#aganazzars-scorcher
-[Blur]: ../../spells/2nd-level.md#blur
-[Blindness/Deafness]: ../../spells/2nd-level.md#blindnessdeafness 
-[Darkvision]: ../../spells/2nd-level.md#darkvision
-[Enhance Ability]: ../../spells/2nd-level.md#enhance-ability
-[Enlarge/Reduce]: ../../spells/2nd-level.md#enlargereduce
-[Esch's Steel Wind Strike]: ../../spells/2nd-level.md#eschatologues-steel-wind-strike
-[Gust of Wind]: ../../spells/2nd-level.md#gust-of-wind 
-[Hold Person]: ../../spells/2nd-level.md#hold-person 
-[Magic Weapon]: ../../spells/2nd-level.md#magic-weapon
-[Mirror Image]: ../../spells/2nd-level.md#mirror-image
-[Misty Step]: ../../spells/2nd-level.md#misty-step
-[Pass Without Trace]: ../../spells/2nd-level.md#pass-without-trace
-[Ray of Enfeeblement]: ../../spells/2nd-level.md#ray-of-enfeeblement 
-[Shatter]: ../../spells/2nd-level.md#shatter 
-[Silence]: ../../spells/2nd-level.md#silence
-[Spray of Cards]: ../../spells/2nd-level.md#spray-of-cards
-[Zone of Truth]: ../../spells/2nd-level.md#zone-of-truth
-
-[Ashardalon's Stride]: ../../spells/3rd-level.md#ashardalons-stride
-[Counterspell]: ../../spells/3rd-level.md#counterspell
-[Dispel Magic]: ../../spells/3rd-level.md#dispel-magic
-[Erupting Earth]: ../../spells/3rd-level.md#erupting-earth
-[Fireball]: ../../spells/3rd-level.md#fireball
-[Haste]: ../../spells/3rd-level.md#haste
-[Lightning Bolt]: ../../spells/3rd-level.md#lightning-bolt
-[Magic Circle]: ../../spells/3rd-level.md#magic-circle
-[Nondetection]: ../../spells/3rd-level.md#nondetection
-[Pulse Wave]: ../../spells/3rd-level.md#pulse-wave
-[Slow]: ../../spells/3rd-level.md#slow
-[Tidal Wave]: ../../spells/3rd-level.md#tidal-wave
 
 *[DS]: This spell is compatible with Dekrat's Special
 *[Quarry]: Creatures affected by Hunter's Mark

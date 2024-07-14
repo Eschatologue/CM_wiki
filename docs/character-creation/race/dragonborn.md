@@ -8,7 +8,7 @@
 :   Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80
 #### :material-move-resize-variant: Size
 - **Creature Size.** Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is **Medium**
-#### :rsc-movement: Speed
+#### :rsc-speed: Speed
 :   You are considered to have *Standard* speed; which is 30 ft.
 #### :material-translate: Languages
 :   You can speak, read, and write *Common* and *Draconic*.

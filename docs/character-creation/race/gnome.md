@@ -19,7 +19,7 @@
 :material-move-resize-variant:{ .lg .middle } **Size**  
 &ensp;&ensp;&ensp; Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is **Small**
 
-:rsc-movement:{ .lg .middle } **Speed**  
+:rsc-speed:{ .lg .middle } **Speed**  
 &ensp;&ensp;&ensp; You are considered to have *Slow* speed; which is 25 ft.
 
 :dnd-stat-lang:{ .lg .middle } **Languages**  

@@ -47,7 +47,7 @@ Some abilities, spells, and class features allow you to take an additional actio
 
 *Main article: [Movement](movement.md)*
 
-You can move up to your :rsc-movement: **Movement** speed on your turn. You can break up your movement before and after actions.
+You can move up to your :rsc-speed: **Movement** speed on your turn. You can break up your movement before and after actions.
 
 - **Movement Speed:** Determined by your race, class, and any conditions affecting you.
 - **Difficult Terrain:** Moving through difficult terrain (e.g., thick underbrush, rubble) costs double the movement.

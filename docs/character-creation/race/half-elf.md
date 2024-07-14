@@ -19,7 +19,7 @@
 :material-move-resize-variant:{ .lg .middle } **Size**  
 Half-elves are more or less the same size as humans, ranging from 5 to 6 feet tall. Your size is **Medium**.
 
-:rsc-movement:{ .lg .middle } **Speed**  
+:rsc-speed:{ .lg .middle } **Speed**  
 &ensp;&ensp;&ensp; You are considered to have *Standard* Speed; which is 30 ft.
 
 :dnd-stat-lang:{ .lg .middle } **Languages**  
@@ -74,7 +74,7 @@ Half-elves are more or less the same size as humans, ranging from 5 to 6 feet ta
 
 *Inheriting the nimble grace and stealthy nature of their wood elf parents, these half-elves move with a quickened stride and possess an acute awareness of their surroundings, making them adept at navigating both natural and urban environments unseen.*
 
-:rsc-movement:{ .lg .middle } **Fleet of Foot**  
+:rsc-speed:{ .lg .middle } **Fleet of Foot**  
 &ensp;&ensp;&ensp; Your Movement Speed is increased 5 ft. and are considered to have *Fast* speed; which is 35 ft. in total.
 
 :dnd-stat-expert:{ .lg .middle } **Mask of the Wild**  

@@ -32,7 +32,7 @@ The term d20 Test encompasses the three main d20 rolls of the game: :d20-attack:
 
 ### List of d20 Tests
 
-#### :d20-attack:{ .lg } :d20-attack: **Attack Roll**s
+#### :d20-attack:{ .lg } **Attack Roll**s
 
 When a creature attacks a target, it makes an :d20-attack: **Attack Roll** against the target's AC to determine whether the attack is a hit or a miss. If the attack is a hit, it generally deals damage, and the attacker rolls for damage.
 
@@ -46,7 +46,7 @@ Creatures generally make their attacks with their equipped weapon (including una
 
 [making an attack]: ./combat/making-an-attack.md
 
-#### :d20-check:{ .lg } :d20-check: **Ability Check**s
+#### :d20-check:{ .lg } **Ability Check**s
   
 An :d20-check:**Ability Check** is an attempt to succeed at a specific task, and is rolled against a **Difficulty Class** (**DC**) set by the DM for that task. If the final result of the roll equals or exceeds the DC, the attempt is successful.
 
@@ -56,7 +56,7 @@ An :d20-check:**Ability Check** is an attempt to succeed at a specific task, and
 
 For every :d20-check:**Ability Check**, the DM decides which of the six abilities is relevant to the task at hand and the difficulty of the task, represented by a [Difficulty Class]. The more difficult a task, the higher its DC.
 
-#### :d20-save:{ .lg } :d20-save: **Saving Throw**s
+#### :d20-save:{ .lg } **Saving Throw**
   
 Traps, spells, conditions, and other sources of harm may allow a creature a chance to avoid or reduce their effect, known as a :d20-save: **Saving Throw** or save. To attempt a save, a creature rolls a d20 against a target Save [DC].
 

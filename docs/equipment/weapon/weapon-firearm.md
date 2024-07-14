@@ -41,47 +41,48 @@ Heavy firearms include rocket launchers, flamethrowers, machine guns, and other 
 List of Firearms that you can possibly find in this world:
 
 ##### Firearms: Short-arms
-| name | cost | damage | properties |    
-| :-- | --: | :-- | --- |
-| Pistol, Revolver | 3,000 sp | 1d8 piercing | Ammunition (:weapon-prop-ranged:range 60/200), Automatic (1), Light, Reload (7)  |
-| Pistol, Semi-Auto | 2,500 sp | 1d6 piercing | Ammunition (:weapon-prop-ranged:range 60/200), Automatic (2), Light, Reload (7) |
+
+| name | damage | properties | cost |
+|---|---|---|--:|
+| Pistol, Revolver | 1d8 piercing | Ammunition (:weapon-prop-ranged: Range 60/200), Automatic (1), Light, Reload (7) | 3,000 sp |
+| Pistol, Semi-Auto | 1d6 piercing | Ammunition (:weapon-prop-ranged: Range 60/200), Automatic (2), Light, Reload (7) | 2,500 sp |
 
 ##### Firearms: Long-arms
-| name | cost | damage | properties |    
-| :-- | --: | :-- | --- |
-| Rifle, Automatic | 6,500 sp | 1d10 piercing | Ammunition (:weapon-prop-ranged:range 90/270), Automatic (3), Heavy, Reload (12), Two-handed |
-| Rifle, Marksmen | 8,000 sp | 2d8 piercing | Ammunition (:weapon-prop-ranged:range 180/550), Reload (8), Sighted, Two-handed |
-| Rifle, Semi-Auto | 5,000 sp | 2d6 piercing | Ammunition (:weapon-prop-ranged:range 120/320), Automatic (1), Heavy, Reload (6), Two-handed |
-| Shotgun, Over-under | 4,000 sp | 1d10 piercing | Ammunition (:weapon-prop-ranged:range 30/50), Automatic (3), Heavy, Reload (2), Scatter(2d8), Two-handed, Special |
-| Shotgun, Pump | 6,000 sp | 1d8 piercing | Ammunition (:weapon-prop-ranged:range 50/90), Automatic (3), Heavy, Reload (7), Scatter(1d12), Two-handed |
-| Submachine Gun | 3,500 sp | 1d6 piercing | Ammunition (:weapon-prop-ranged:range 40/90), Automatic (4), Reload (30), Two-handed |
+
+| name | damage | properties | cost |
+|---|---|---|--:|
+| Rifle, Automatic | 1d10 piercing | Ammunition (:weapon-prop-ranged: Range 90/270), Automatic (3), Heavy, Reload (12), Two-handed | 6,500 sp |
+| Rifle, Marksmen | 2d8 piercing | Ammunition (:weapon-prop-ranged: Range 180/550), Reload (8), Sighted, Two-handed | 8,000 sp |
+| Rifle, Semi-Auto | 2d6 piercing | Ammunition (:weapon-prop-ranged: Range 120/320), Automatic (1), Heavy, Reload (6), Two-handed | 5,000 sp |
+| Shotgun, Over-under | 1d10 piercing | Ammunition (:weapon-prop-ranged: Range 30/50), Automatic (3), Heavy, Reload (2), Scatter(2d8), Two-handed, Special | 4,000 sp |
+| Shotgun, Pump | 1d8 piercing | Ammunition (:weapon-prop-ranged: Range 50/90), Automatic (3), Heavy, Reload (7), Scatter(1d12), Two-handed | 6,000 sp |
+| Submachine Gun | 1d6 piercing | Ammunition (:weapon-prop-ranged: Range 40/90), Automatic (4), Reload (30), Two-handed | 3,500 sp |
 
 ##### Firearms: Heavy Weapons
-| name | cost | damage | properties |    
-| :-- | --: | :-- | --- |
-| Machine Gun | 15,000  sp | 2d8 piercing | Ammunition (:weapon-prop-ranged:range 150/600), Automatic (5), Heavy, Mounted, Reload (50), Two-handed |
-| Rocket Launcher | 12,500 sp | 8d6 fire | Ammunition (:weapon-prop-ranged:range 150/300), Explosive(15 ft), Heavy, Reload (1), Two-handed |
-| Grenade Launcher | 9,000 sp | 1d4-1 bludgeoning | Ammunition (:weapon-prop-ranged:range 120/240), Heavy, Loading, Special |
+
+| name | properties | cost |
+|---|---|--:|
+| Pistol Cartridges (20) | Used by Pistols and SMGs | 200 sp |
+| Rifle Cartridges (20) | Used by Rifles and Machine Gun | 300 sp |
+| Shotgun Cartridges (20) | Used by Shotguns | 150 sp |
+| Rocket Propelled Grenade (1) | Used by Rocket Launchers | 1,000 sp |
 
 ##### Ammunitions
-| name | cost | properties |    
-| :-- | --: | --- |
-| Pistol Cartridges (20) | 200 sp | Used by Pistols and SMGs |
-| Rifle Cartridges (20) | 300 sp | Used by Rifles and Machine Gun |
-| Shotgun Cartridges (20) | 150 sp | Used by Shotguns |
-| Rocket Propelled Grenade (1) | 1,000 sp | Used by Rocket Launchers |
+
+| name | properties | cost |
+|---|---|--:|
+| Pistol Cartridges (20) | Used by Pistols and SMGs | 200 sp |
+| Rifle Cartridges (20) | Used by Rifles and Machine Gun | 300 sp |
+| Shotgun Cartridges (20) | Used by Shotguns | 150 sp |
+| Rocket Propelled Grenade (1) | Used by Rocket Launchers | 1,000 sp |
 
 ### Special Weapons
 
 Weapons with *special* properties are listed here:
 
-#### Shotgun, Over-under
+**Shotgun, Over-under.** When you make an :weapon-prop-automatic: Automatic attack with this weapon, the subsequent :d20-attack: **Attack Roll** doesn’t suffer :d20-disadv: **Disadvantage**.
 
-When you make an automatic attack with this weapon, the subsequent :d20-attack: **Attack Roll** doesn’t suffer disadvantage.
-
-### Grenade Launcher
-
-This weapon uses grenades as its ammunitions. When you attack, you can target an unoccupied space within its range. Whenever you hit the target or not, the grenade loaded in this weapon will land or explode as if it were thrown to that point.
+**Grenade Launcher.** This weapon uses grenades as its ammunitions. When you attack, you can target an unoccupied space within its range. Whenever you hit the target or not, the grenade loaded in this weapon will land or explode as if it were thrown to that point.
 
 ## Grenades
 
@@ -91,13 +92,13 @@ What effect each type of grenade can cause is stated on [Grenade Effects](#grena
 
 ### Grenade Table
 
-| :material-text: **NAME** | :material-currency-gbp: **COST** | :material-bullseye-arrow: **DAMAGE** | :material-vector-square: **AFFECTED AREA** | :material-fire-alert: **EFFECT** |
-|---|--:|---|:---|:---:|
-| **Grenade, Cryogenic** | 250 sp | :material-snowflake: 1d6 Cold | 20 ft. :material-sphere: **sphere** (DC 15 :material-shield-account: **CON Save**) | Control (Slow)  |
-| **Grenade, Fragmentation** | 350 sp | :material-arrow-projectile: 2d6 Piercing + :material-waveform: 1d6 Thunder | 20 ft. :material-sphere: **sphere** (DC 15 :material-shield-half-full: **DEX Save**) | - |
-| **Grenade, Incendiary** | 300 sp | :material-fire: 1d6 Fire | 20 ft. :material-radius-outline: **radius** (DC 15 :material-shield-half-full: **DEX Save**) | Control (DoT) |
-| **Grenade, Flashbang** | 200 sp | :material-waveform: 1d4 Thunder | 20 ft. :material-sphere: **sphere** (DC 15 :material-shield-account: **CON Save**) | Control (Stun) |
-| **Grenade, Smoke** | 250 sp | - |20 ft. :material-sphere: sphere | Control (Obscure) |
+|  name | damage | area | cost |
+|---|---|:---|--:|
+| **Grenade, Cryogenic** | :dmg-cold: 1d6 Cold | 20 ft. :material-sphere: **sphere** (DC 15 :material-shield-account: **CON Save**) | 250 sp |
+| **Grenade, Fragmentation** | :dmg-piercing: 2d6 Piercing + :dmg-thunder: 1d6 Thunder | 20 ft. :material-sphere: **sphere** (DC 15 :material-shield-half-full: **DEX Save**) | 350 sp |
+| **Grenade, Incendiary** | :dmg-fire: 1d6 Fire | 20 ft. :material-radius-outline: **radius** (DC 15 :material-shield-half-full: **DEX Save**) | 300 sp |
+| **Grenade, Flashbang** | :dmg-thunder: 1d4 Thunder | 20 ft. :material-sphere: **sphere** (DC 15 :material-shield-account: **CON Save**) | 200 sp |
+| **Grenade, Smoke** | - | 20 ft. :material-sphere: sphere | 250 sp |
 
 #### Grenade Effects
 
@@ -108,17 +109,7 @@ What effect each type of grenade can cause is stated on [Grenade Effects](#grena
 **Grenade, Incendiary.** Creatures that fails the :d20-save: **Saving Throw**, takes the grenade damage or half as much on successful save. The ground in a 20-foot radius centered on the target is ignited in flames. Each creature that enters the affected area, starts its turn or, end its turn on the affected area immediately takes :material-fire: **3d4 Fire** damage.
 
 **Grenade, Flashbang.** Creatures that fails the :d20-save: **Saving Throw**, takes the grenade damage and it is Blinded(1) and Deafened(2) for 1 minute. The creature repeats this :d20-save: **Saving Throw** at the start of each turn, ending the effect on success. On successful save, it only takes half damage and no additional effects.
-{ .annotate }
 
-1. :material-eye-off: **Blinded** is a Condition.
-      - A blinded creature can't see and automatically fails any :d20-check: **Ability Check** that requires sight.
-      - :d20-attack: **Attack Roll**s against the creature have advantage, and the creature’s :d20-attack: **Attack Rolls** have disadvantage.
-2. :material-ear-hearing-off: **Deafened** is a Condition.
-      - A deafened creature can’t hear, automatically fails any :die-d20: **Ability Check** that requires hearing and is **resistant**(1) to :material-waveform: Thunder damage.
-        { .annotate }
-
-        1. Creature that is resistant or immune to a damage type takes only half or no damage from the damage type respectively.
-
-**Grenade, Smoke.** The terrain, creature and objects that is within affected area centered on the point chosen is now filled with smokes and it is heavily obscured. The smoke spreads around corners. The smoke lasts for 1 minute or until a wind of moderate or heavy speed disperses.
+**Grenade, Smoke.** The terrain, creature and objects that is within affected area centered on the point chosen is filled with smokes and it is heavily obscured. The smoke spreads around corners. The smoke lasts for 1 minute or until a wind of moderate or heavy speed disperses.
 
 

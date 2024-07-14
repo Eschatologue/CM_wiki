@@ -6,7 +6,7 @@ Fantasy gaming worlds are a vast tapestry made up of many different cultures, ea
 
 Armour Class (AC) is a measurement of how difficult a creature is to be hit by an attack. In order to successfully hit a creature, the results of an :d20-attack: **Attack Roll** must have a number equal to or greater than the target's Armour Class. AC can be increased by equipping armour and shields, by selecting certain feats when leveling up, utilizing certain spells, or when the DM decide that their creatures requires more AC. ~~Damn.. you guys rolled high.....~~
 
-### Base AC from Armour
+### Base Armour Class from Armour
 
 *Main Article: [Armour Type](./armour-table.md)*
 

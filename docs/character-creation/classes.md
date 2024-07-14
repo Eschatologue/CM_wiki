@@ -16,10 +16,10 @@ Each class is a part of a Class Group-a set of Classes that have certain feature
 
     <div class="grid cards" markdown>
 
-    - :dnd-class-artificer:{ .lg .middle } **[Artificer]**^TCE^
-    - :dnd-class-bard:{ .lg .middle } **[Bard]**^PHB^
-    - :dnd-class-ranger:{ .lg .middle } **[Ranger]**^TCE/PHB^
-    - :dnd-class-rogue:{ .lg .middle } **[Rogue]**^PHB^
+    - :class-artificer:{ .lg .middle } **[Artificer]**^TCE^
+    - :class-bard:{ .lg .middle } **[Bard]**^PHB^
+    - :class-ranger:{ .lg .middle } **[Ranger]**^TCE/PHB^
+    - :class-rogue:{ .lg .middle } **[Rogue]**^PHB^
   
     </div>
 
@@ -29,9 +29,9 @@ Each class is a part of a Class Group-a set of Classes that have certain feature
 
     <div class="grid cards" markdown>
 
-    - :dnd-class-druid:{ .lg .middle } **[Druid]**^PHB^
-    - :dnd-class-cleric:{ .lg .middle } **[Cleric]**^PHB^
-    - :dnd-class-paladin:{ .lg .middle } **[Paladin]**^PHB^
+    - :class-druid:{ .lg .middle } **[Druid]**^PHB^
+    - :class-cleric:{ .lg .middle } **[Cleric]**^PHB^
+    - :class-paladin:{ .lg .middle } **[Paladin]**^PHB^
   
     </div>
 
@@ -41,9 +41,9 @@ Each class is a part of a Class Group-a set of Classes that have certain feature
 
     <div class="grid cards" markdown>
 
-    - :dnd-class-barbarian:{ .lg .middle } **[Barbarian]**^TCE/PHB^
-    - :dnd-class-fighter:{ .lg .middle } **[Fighter]**^PHB^
-    - :dnd-class-monk:{ .lg .middle } **[Monk]**^PHB^
+    - :class-barbarian:{ .lg .middle } **[Barbarian]**^TCE/PHB^
+    - :class-fighter:{ .lg .middle } **[Fighter]**^PHB^
+    - :class-monk:{ .lg .middle } **[Monk]**^PHB^
 
     </div>
 
@@ -53,9 +53,9 @@ Each class is a part of a Class Group-a set of Classes that have certain feature
 
     <div class="grid cards" markdown>
 
-    - :dnd-class-sorcerer:{ .lg .middle } **[Sorcerer]**^PHB^
-    - :dnd-class-warlock:{ .lg .middle } **[Warlock]**^PHB^
-    - :dnd-class-wizard:{ .lg .middle } **[Wizard]**^PHB^
+    - :class-sorcerer:{ .lg .middle } **[Sorcerer]**^PHB^
+    - :class-warlock:{ .lg .middle } **[Warlock]**^PHB^
+    - :class-wizard:{ .lg .middle } **[Wizard]**^PHB^
 
     </div>
 
@@ -77,7 +77,7 @@ As you advance in levels, you might primarily remain a member of your original c
 
 ## Playable Classes
 
-:dnd-class-artificer:{ .ich1 }
+:class-artificer:{ .ich1 }
 ### The Artificer 
 
 *Main article: [Artificer]*
@@ -97,7 +97,7 @@ An **artificer** learned to wield their magic through the mastering of sigils an
 
 </div>
 
-:dnd-class-barbarian:{ .ich1 }
+:class-barbarian:{ .ich1 }
 ### The Barbarian
 
 *Main article: [Barbarian]*
@@ -121,7 +121,7 @@ An **artificer** learned to wield their magic through the mastering of sigils an
 
 </div>
 
-:dnd-class-bard:{ .ich1 } 
+:class-bard:{ .ich1 } 
 ### The Bard
 
 *Main article: [Bard]*
@@ -147,7 +147,7 @@ In addition to their magical skills, bards were artistically talented and extrao
 
 </div>
 
-:dnd-class-cleric:{ .ich1 } 
+:class-cleric:{ .ich1 } 
 ### The Cleric
 
 *Main article: [Cleric]*
@@ -189,7 +189,7 @@ Nowadays, the deities of the past have been absorbed and replaced by Spires. Whi
 
     As emissaries of their deities, clerics embody the powers and principles of their divine patrons. While healing is often a significant aspect of their role, it is far from their only capability.
 
-:dnd-class-druid:{ .ich1 }
+:class-druid:{ .ich1 }
 ### The Druid
 
 *Main article: [Druid]*
@@ -213,7 +213,7 @@ Nowadays, the deities of the past have been absorbed and replaced by Spires. Whi
 
 </div>
 
-:dnd-class-fighter:{ .ich1 } 
+:class-fighter:{ .ich1 } 
 ### The Fighter
 
 *Main article: [Fighter]*
@@ -238,7 +238,7 @@ Nowadays, the deities of the past have been absorbed and replaced by Spires. Whi
 
 </div>
 
-:dnd-class-monk:{ .ich1 } 
+:class-monk:{ .ich1 } 
 ### The Monk
 
 *Main article: [Monk]*
@@ -263,7 +263,7 @@ Nowadays, the deities of the past have been absorbed and replaced by Spires. Whi
 
 </div>
 
-:dnd-class-paladin:{ .ich1 } 
+:class-paladin:{ .ich1 } 
 ### The Paladin
 
 *Main article: [Paladin]*
@@ -287,7 +287,7 @@ A **paladin** was a holy crusader, sworn to an oath to promote and fight for the
 
 </div>
 
-:dnd-class-ranger:{ .ich1 } 
+:class-ranger:{ .ich1 } 
 ### The Ranger
 
 *Main article: [Ranger]*
@@ -311,7 +311,7 @@ A **paladin** was a holy crusader, sworn to an oath to promote and fight for the
 
 </div>
 
-:dnd-class-rogue:{ .ich1 } 
+:class-rogue:{ .ich1 } 
 ### The Rogue
 
 *Main article: [Rogue]*
@@ -336,7 +336,7 @@ A **paladin** was a holy crusader, sworn to an oath to promote and fight for the
 
 </div>
 
-:dnd-class-sorcerer:{ .ich1 } 
+:class-sorcerer:{ .ich1 } 
 ### The Sorcerer
 
 *Main article: [Sorcerer]*
@@ -361,7 +361,7 @@ A **sorcerer**, sometimes known as a sorceress if female, was a wielder of arcan
   
 </div>
 
-:dnd-class-warlock:{ .ich1 } 
+:class-warlock:{ .ich1 } 
 ### The Warlock
 
 *Main article: [Warlock]*
@@ -387,7 +387,7 @@ A warlock was an arcane spellcaster who gained power through pacts with powerful
 
 </div>
 
-:dnd-class-wizard:{ .ich1 } 
+:class-wizard:{ .ich1 } 
 ### The Wizard
 
 *Main article: [Wizard]*

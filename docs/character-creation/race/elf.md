@@ -20,7 +20,7 @@
 :dnd-trait-size:{ .lg .middle }  **Size**  
 &ensp;&ensp;&ensp; Elves range from under 5 to over 6 feet tall and have slender builds. Your size is **Medium**
 
-:rsc-movement:{ .lg .middle } **Speed**  
+:rsc-speed:{ .lg .middle } **Speed**  
 &ensp;&ensp;&ensp; You are considered to have *Standard* speed; which is 30 ft.
 
 :dnd-stat-lang:{ .lg .middle } **Languages**  
@@ -91,7 +91,7 @@
 
 *Centuries of training and natural talent in archery and camouflage in the forest have proven to be suprisingly useful skills in Arctic environment.*
 
-:rsc-movement:{ .lg .middle } **Fleet of Foot**  
+:rsc-speed:{ .lg .middle } **Fleet of Foot**  
 &ensp;&ensp;&ensp; Your Movement Speed is increased 5 ft. and are considered to have *Fast* speed; which is 35 ft. in total.
 
 :material-sword-cross:{ .lg .middle } **Elf Weapon Training**  

@@ -72,7 +72,7 @@
 /* Icon Heading */
 .ich1 {
     font-size: 4.5rem;
-    margin-top: 0.4em;
+    margin-top: 0.25em;
     margin-bottom: -0.25em;
 }
 
@@ -129,9 +129,9 @@
 /* Table Size and Appearance */
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
-    font-size: 0.65rem;
-    padding-left: 10px;
-    padding-right: 10px;
+    font-size: 0.6rem;
+    padding-left: 8px;
+    padding-right: 8px;
     border-bottom: rgba(255, 255, 255, 0.12);
     background-color: rgba(255, 255, 255, 0.025);
 }

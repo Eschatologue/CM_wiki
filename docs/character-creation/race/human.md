@@ -19,7 +19,7 @@
 :material-move-resize-variant:{ .lg .middle } **Size**  
 &ensp;&ensp;&ensp; Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is **Medium**.
 
-:rsc-movement:{ .lg .middle } **Speed**  
+:rsc-speed:{ .lg .middle } **Speed**  
 &ensp;&ensp;&ensp; You are considered to have *Standard* Speed; which is 30 ft.
 
 :dnd-stat-lang:{ .lg .middle } **Languages**  
