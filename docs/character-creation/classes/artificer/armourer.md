@@ -4,6 +4,8 @@ hide:
   - toc
 ---
 
+[Class](../index.md) > [The Artificer](../artificer/index.md) > Armourer
+
 # Artificer: Armourer
 
 ***An artificer who specializes as an Armourer modifies armour to function almost like a second skin. The armour is enhanced to hone the artificer's magic, unleash potent attacks, and generate a formidable defense. The artificer bonds with this armour, becoming one with it even as they experiment with it and refine its magical capabilities.***

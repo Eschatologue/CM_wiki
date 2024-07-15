@@ -267,6 +267,7 @@
 [Conjure Volley]: /CM_wiki/spells/5th-level/#conjure-volley
 [Contagion]: /CM_wiki/spells/5th-level/#contagion
 [Control Winds]: /CM_wiki/spells/5th-level/#control-winds
+[Commune with Nature]: /CM_wiki/spells/5th-level/#commune-with-nature
 [Creation]: /CM_wiki/spells/5th-level/#creation
 [Danse Macabre]: /CM_wiki/spells/5th-level/#danse-macabre
 [Destructive Wave]: /CM_wiki/spells/5th-level/#destructive-wave

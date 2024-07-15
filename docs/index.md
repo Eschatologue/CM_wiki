@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Welcome!
 Welcome to the new wiki page for Crown and Misery, the world's most casual, family-friendly D&D campaign, created by a fan of challenging and morally ambiguous stories. Set in a super-continent named Antares, a beautiful and ethereal land laden with war, death, and destruction, this campaign is brought to you by the DM's coffee-induced, self-hatred-fueled writing extravaganza.
 

@@ -1,9 +1,11 @@
 ---
-Icon: class/artificer
+icon: class/artificer
 hide:
   - navigation
   - toc
 ---
+
+[Class](../index.md) > The Artificer
 
 # The Artificer
 
@@ -13,33 +15,33 @@ hide:
 
 #### Artificer Table
 
-| Level | PB | Features | Infusions Known | Infused Items | Cantrips Known | Prepared Spells | I | II | III | IV | V |
-|:-:|:-:|:---------------|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 1st | +2 | [Magical Tinkering], [Spellcasting] | - | - | 2 | 2 | 2 | - | - | - | - |
-| 2nd | +2 | [Infuse Item] | 4 | 2 | 2 | 3 | 2 | - | - | - | - |
-| 3rd | +2 | [Artificer Specialist], [The Right Tool for the Job] | 4 | 2 | 2 | 4 | 3 | - | - | - | - |
-| 4th | +2 | [Ability Score Improvement] | 4 | 2 | 2 | 5 | 3 | - | - | - | - |
-| 5th | +3 | [Artificer Specialist] feature | 4 | 2 | 2 | 6 | 4 | 2 | - | - | - |
-| 6th | +3 | [Tool Expertise] | 6 | 3 | 2 | 6 | 4 | 2 | - | - | - |
-| 7th | +3 | [Flash of Genius] | 6 | 3 | 2 | 7 | 4 | 3 | - | - | - |
-| 8th | +3 | [Ability Score Improvement] | 6 | 3 | 2 | 7 | 4 | 3 | - | - | - |
-| 9th | +4 | [Artificer Specialist] feature | 6 | 3 | 2 | 9 | 4 | 3 | 2 | - | - |
-| 10th | +4 | [Magic Item Adept] | 8 | 4 | 3 | 9 | 4 | 3 | 2 | - | - |
-| 11th | +4 | [Spell-Storing Item] | 8 | 4 | 3 | 10 | 4 | 3 | 3 | - | - |
-| 12th | +4 | [Ability Score Improvement] | 8 | 4 | 3 | 10 | 4 | 3 | 3 | - | - |
-| 13th | +5 | - | 8 | 4 | 3 | 11 | 4 | 3 | 3 | 1 | - |
-| 14th | +5 | [Magic Item Savant] | 10 | 5 | 4 | 11 | 4 | 3 | 3 | 1 | - |
-| 15th | +5 | [Artificer Specialist] feature | 10 | 5 | 4 | 12 | 4 | 3 | 3 | 2 | - |
-| 16th | +5 | [Ability Score Improvement] | 10 | 5 | 4 | 12 | 4 | 3 | 3 | 2 | - |
-| 17th | +6 | - | 10 | 5 | 4 | 14 | 4 | 3 | 3 | 3 | 1 |
-| 18th | +6 | [Magic Item Master] | 12 | 6 | 4 | 14 | 4 | 3 | 3 | 3 | 1 |
-| 19th | +6 | [Ability Score Improvement] | 12 | 6 | 4 | 15 | 4 | 3 | 3 | 3 | 2 |
-| 20th | +6 | [Soul of Artifice] | 12 | 6 | 4 | 15 | 4 | 3 | 3 | 3 | 2 |
+| Level |  PB   | Features                                             | Infusions Known | Infused Items | Cantrips Known | Prepared Spells |   I   |  II   |  III  |  IV   |   V   |
+| :---: | :---: | :--------------------------------------------------- | :-------------: | :-----------: | :------------: | :-------------: | :---: | :---: | :---: | :---: | :---: |
+|  1st  |  +2   | [Magical Tinkering], [Spellcasting]                  |        -        |       -       |       2        |        2        |   2   |   -   |   -   |   -   |   -   |
+|  2nd  |  +2   | [Infuse Item]                                        |        4        |       2       |       2        |        3        |   2   |   -   |   -   |   -   |   -   |
+|  3rd  |  +2   | [Artificer Specialist], [The Right Tool for the Job] |        4        |       2       |       2        |        4        |   3   |   -   |   -   |   -   |   -   |
+|  4th  |  +2   | [Ability Score Improvement]                          |        4        |       2       |       2        |        5        |   3   |   -   |   -   |   -   |   -   |
+|  5th  |  +3   | [Artificer Specialist] feature                       |        4        |       2       |       2        |        6        |   4   |   2   |   -   |   -   |   -   |
+|  6th  |  +3   | [Tool Expertise]                                     |        6        |       3       |       2        |        6        |   4   |   2   |   -   |   -   |   -   |
+|  7th  |  +3   | [Flash of Genius]                                    |        6        |       3       |       2        |        7        |   4   |   3   |   -   |   -   |   -   |
+|  8th  |  +3   | [Ability Score Improvement]                          |        6        |       3       |       2        |        7        |   4   |   3   |   -   |   -   |   -   |
+|  9th  |  +4   | [Artificer Specialist] feature                       |        6        |       3       |       2        |        9        |   4   |   3   |   2   |   -   |   -   |
+| 10th  |  +4   | [Magic Item Adept]                                   |        8        |       4       |       3        |        9        |   4   |   3   |   2   |   -   |   -   |
+| 11th  |  +4   | [Spell-Storing Item]                                 |        8        |       4       |       3        |       10        |   4   |   3   |   3   |   -   |   -   |
+| 12th  |  +4   | [Ability Score Improvement]                          |        8        |       4       |       3        |       10        |   4   |   3   |   3   |   -   |   -   |
+| 13th  |  +5   | -                                                    |        8        |       4       |       3        |       11        |   4   |   3   |   3   |   1   |   -   |
+| 14th  |  +5   | [Magic Item Savant]                                  |       10        |       5       |       4        |       11        |   4   |   3   |   3   |   1   |   -   |
+| 15th  |  +5   | [Artificer Specialist] feature                       |       10        |       5       |       4        |       12        |   4   |   3   |   3   |   2   |   -   |
+| 16th  |  +5   | [Ability Score Improvement]                          |       10        |       5       |       4        |       12        |   4   |   3   |   3   |   2   |   -   |
+| 17th  |  +6   | -                                                    |       10        |       5       |       4        |       14        |   4   |   3   |   3   |   3   |   1   |
+| 18th  |  +6   | [Magic Item Master]                                  |       12        |       6       |       4        |       14        |   4   |   3   |   3   |   3   |   1   |
+| 19th  |  +6   | [Ability Score Improvement]                          |       12        |       6       |       4        |       15        |   4   |   3   |   3   |   3   |   2   |
+| 20th  |  +6   | [Soul of Artifice]                                   |       12        |       6       |       4        |       15        |   4   |   3   |   3   |   3   |   2   |
 
 ### Hit Points
 
 - **Hit Dice:** 1d8 per artificer level  
-- **Hit Points at 1st Level:** 8 + your Constitution modifier  
+- **Hit Points at Level 1:** 8 + your Constitution modifier  
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per artificer level after 1st
 
 ### Proficiencies
@@ -131,10 +133,10 @@ If an infusion ends on an item that contains other things, like a bag of holding
 
 At **3rd level**, you choose the type of specialist you are. Your choice grants you features at **5th level** and again at **9th** and **15th level**.
 
-| Specialty | Source |
-|---|---|
-| [Alchemist](../artificer/alchemist.md) | Tasha's Cauldron of Everything |
-| [Armourer](../artificer/armourer.md) | Tasha's Cauldron of Everything |
+|                 Specialty                 | Source                         |
+| :---------------------------------------: | ------------------------------ |
+|  [Alchemist](../artificer/alchemist.md)   | Tasha's Cauldron of Everything |
+|   [Armourer](../artificer/armourer.md)    | Tasha's Cauldron of Everything |
 | [Artillerist](../artificer/artilerist.md) | Tasha's Cauldron of Everything |
 
 ## The Right Tool for the Job
@@ -190,7 +192,7 @@ If you're reduced to 0 hit points but not killed out-right, you can use your rea
 [Spellcasting]: #spellcasting
 [Infuse Item]: #infuse-item
 [Ability Score Improvement]: #ability-score-improvement
-[Artificer Specialist]: #Artificer-Specialist
+[Artificer Specialist]: #artificer-specialist
 [The Right Tool for the Job]: #the-right-tool-for-the-job
 [Tool Expertise]: #tool-expertise
 [Flash of Genius]: #flash-of-genius
