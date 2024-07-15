@@ -36,8 +36,22 @@ nav:
     - Quickstart: character-creation/quickstart.md
     - Classes: 
       - character-creation/classes/index.md
-      - Artificer: character-creation/classes/artificer/index.md
-      - Barbarian:  character-creation/classes/barbarian/index.md
+      - Artificer: 
+        - character-creation/classes/artificer/index.md
+        - Alchemist: character-creation/classes/artificer/alchemist.md
+        - Armourer: character-creation/classes/artificer/armourer.md
+        - Artilerist: character-creation/classes/artificer/artilerist.md
+        - Battlesmith: character-creation/classes/artificer/battlesmith.md
+      - Barbarian:  
+        - character-creation/classes/barbarian/index.md
+        - Berserker: character-creation/classes/barbarian/berserker.md
+        - Wild Heart: character-creation/classes/barbarian/wild-heart.md
+        - World Tree: character-creation/classes/barbarian/world-tree.md
+        - Zealot: character-creation/classes/barbarian/zealot.md
+      - Cleric:
+        - character-creation/classes/cleric/index.md
+        - Life: character-creation/classes/cleric/life.md
+        - Trickery: character-creation/classes/cleric/trickery.md
     - Race: character-creation/race/race.md
     - Languages: character-creation/languages.md
     - Ability Score: 

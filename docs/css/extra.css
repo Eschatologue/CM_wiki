@@ -106,7 +106,7 @@
 
 /* Space for text block */
 .md-grid {
-    max-width: 88%; /* or 100%, if you want to stretch to full-width */
+    max-width: 90%; /* or 100%, if you want to stretch to full-width */
 }
 
 /* Color Classes */
@@ -132,43 +132,46 @@
 /* Table Size and Appearance */
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
-    font-size: 0.6rem;
+    font-size: 0.5rem;
     padding-left: 8px;
     padding-right: 8px;
     border-bottom: rgba(255, 255, 255, 0.12);
     background-color: rgba(255, 255, 255, 0.025);
+    min-width: 8px;
 }
 
 /* Table Header Styling */
 .md-typeset table:not([class]) th {
     font-weight: bold !important;
     text-transform: uppercase !important;
+    vertical-align: bottom;
     color: rgba(255, 255, 255, 0.6);
-    padding-top: 7px;
-    padding-bottom: 7px;
+    padding-top: 6px;
+    padding-bottom: 6px;
 }
 
 /* Table Cell Padding */
 .md-typeset table:not([class]) td {
-    padding-top: 5px;
-    padding-bottom: 5px;
+    white-space: nowrap;
+    padding-top: 4px;
+    padding-bottom: 4px;
 }
 
 /* Table Header and Cell Rounding */
 table th:first-child {
-    border-radius: 3px 0 0 0 !important;
+    border-radius: 4px 0 0 0 !important;
 }
 
 table th:last-child {
-    border-radius: 0 3px 0 0 !important;
+    border-radius: 0 4px 0 0 !important;
 }
 
 table tr:last-child td:last-child {
-    border-radius: 0 0 3px 0 !important;
+    border-radius: 0 0 4px 0 !important;
 }
 
 table tr:last-child td:first-child {
-    border-radius: 0 0 0 3px !important;
+    border-radius: 0 0 0 4px !important;
 }
 
 /* Table Display and Border Colour */

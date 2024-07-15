@@ -1,7 +1,5 @@
 ---
-hide:
-  - navigation
-  - toc
+
 ---
 
 # Welcome!

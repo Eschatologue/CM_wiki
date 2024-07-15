@@ -1,11 +1,6 @@
 ---
 icon: class/barbarian
-hide:
-  - navigation
-  - toc
 ---
-
-[Class](../index.md) > The Barbarian
 
 !!! danger "Experimental Material"
 
@@ -39,6 +34,8 @@ hide:
 |  18   |     +6      | Indomitable Might                       |   6   |     +4      |       4        |
 |  19   |     +6      | Ability Score Improvement               |   6   |     +4      |       4        |
 |  20   |     +6      | Primal Champion                         |   6   |     +4      |       4        |
+
+## Creating a Barbarian
 
 ### Hit Points
 

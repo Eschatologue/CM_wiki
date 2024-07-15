@@ -1,11 +1,3 @@
----
-hide:
-  - navigation
-  - toc
----
-
-[Class](../index.md) > [The Barbarian](../barbarian/index.md) > Berserker
-
 # Barbarian: Berserker
 
 ***For Barbarians who walk the Path of the Berserker, their Rage is primarily directed toward violence. Their path is one of untrammeled fury, and they thrill in the chaos of battle as they allow their Rage to seize and empower them.***
