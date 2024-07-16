@@ -2,6 +2,8 @@
 icon: class/artificer
 ---
 
+:class-artificer:{ .xxxxl }
+
 # The Artificer
 
 ***Masters of invention, artificers use ingenuity and magic to unlock extraordinary capabilities in objects. They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions. You can find everything you need to play one of these inventors in the next few sections.***
@@ -12,26 +14,26 @@ icon: class/artificer
 
 | Level |  PB   | Features                                         | Infusions Known | Infused Items | Cantrips Known | Prepared Spells |   I   |  II   |  III  |  IV   |   V   |
 | :---: | :---: | :----------------------------------------------- | :-------------: | :-----------: | :------------: | :-------------: | :---: | :---: | :---: | :---: | :---: |
-|  1st  |  +2   | [Magical Tinkering], [Spellcasting]              |        -        |       -       |       2        |        2        |   2   |   -   |   -   |   -   |   -   |
-|  2nd  |  +2   | [Infuse Item]                                    |        4        |       2       |       2        |        3        |   2   |   -   |   -   |   -   |   -   |
-|  3rd  |  +2   | [Subclass Feature], [The Right Tool for the Job] |        4        |       2       |       2        |        4        |   3   |   -   |   -   |   -   |   -   |
-|  4th  |  +2   | [Ability Score Improvement]                      |        4        |       2       |       2        |        5        |   3   |   -   |   -   |   -   |   -   |
-|  5th  |  +3   | [Subclass Feature]                               |        4        |       2       |       2        |        6        |   4   |   2   |   -   |   -   |   -   |
-|  6th  |  +3   | [Tool Expertise]                                 |        6        |       3       |       2        |        6        |   4   |   2   |   -   |   -   |   -   |
-|  7th  |  +3   | [Flash of Genius]                                |        6        |       3       |       2        |        7        |   4   |   3   |   -   |   -   |   -   |
-|  8th  |  +3   | [Ability Score Improvement]                      |        6        |       3       |       2        |        7        |   4   |   3   |   -   |   -   |   -   |
-|  9th  |  +4   | [Subclass Feature]                               |        6        |       3       |       2        |        9        |   4   |   3   |   2   |   -   |   -   |
-| 10th  |  +4   | [Magic Item Adept]                               |        8        |       4       |       3        |        9        |   4   |   3   |   2   |   -   |   -   |
-| 11th  |  +4   | [Spell-Storing Item]                             |        8        |       4       |       3        |       10        |   4   |   3   |   3   |   -   |   -   |
-| 12th  |  +4   | [Ability Score Improvement]                      |        8        |       4       |       3        |       10        |   4   |   3   |   3   |   -   |   -   |
-| 13th  |  +5   | -                                                |        8        |       4       |       3        |       11        |   4   |   3   |   3   |   1   |   -   |
-| 14th  |  +5   | [Magic Item Savant]                              |       10        |       5       |       4        |       11        |   4   |   3   |   3   |   1   |   -   |
-| 15th  |  +5   | [Subclass Feature]                               |       10        |       5       |       4        |       12        |   4   |   3   |   3   |   2   |   -   |
-| 16th  |  +5   | [Ability Score Improvement]                      |       10        |       5       |       4        |       12        |   4   |   3   |   3   |   2   |   -   |
-| 17th  |  +6   | -                                                |       10        |       5       |       4        |       14        |   4   |   3   |   3   |   3   |   1   |
-| 18th  |  +6   | [Magic Item Master]                              |       12        |       6       |       4        |       14        |   4   |   3   |   3   |   3   |   1   |
-| 19th  |  +6   | [Ability Score Improvement]                      |       12        |       6       |       4        |       15        |   4   |   3   |   3   |   3   |   2   |
-| 20th  |  +6   | [Soul of Artifice]                               |       12        |       6       |       4        |       15        |   4   |   3   |   3   |   3   |   2   |
+|  1  |  +2   | [Magical Tinkering], [Spellcasting]              |        -        |       -       |       2        |        2        |   2   |   -   |   -   |   -   |   -   |
+|  2  |  +2   | [Infuse Item]                                    |        4        |       2       |       2        |        3        |   2   |   -   |   -   |   -   |   -   |
+|  3  |  +2   | [Subclass Feature], [The Right Tool for the Job] |        4        |       2       |       2        |        4        |   3   |   -   |   -   |   -   |   -   |
+|  4  |  +2   | [Ability Score Improvement]                      |        4        |       2       |       2        |        5        |   3   |   -   |   -   |   -   |   -   |
+|  5  |  +3   | [Subclass Feature]                               |        4        |       2       |       2        |        6        |   4   |   2   |   -   |   -   |   -   |
+|  6  |  +3   | [Tool Expertise]                                 |        6        |       3       |       2        |        6        |   4   |   2   |   -   |   -   |   -   |
+|  7  |  +3   | [Flash of Genius]                                |        6        |       3       |       2        |        7        |   4   |   3   |   -   |   -   |   -   |
+|  8 |  +3   | [Ability Score Improvement]                      |        6        |       3       |       2        |        7        |   4   |   3   |   -   |   -   |   -   |
+|  9 |  +4   | [Subclass Feature]                               |        6        |       3       |       2        |        9        |   4   |   3   |   2   |   -   |   -   |
+| 10 |  +4   | [Magic Item Adept]                               |        8        |       4       |       3        |        9        |   4   |   3   |   2   |   -   |   -   |
+| 11 |  +4   | [Spell-Storing Item]                             |        8        |       4       |       3        |       10        |   4   |   3   |   3   |   -   |   -   |
+| 12 |  +4   | [Ability Score Improvement]                      |        8        |       4       |       3        |       10        |   4   |   3   |   3   |   -   |   -   |
+| 13 |  +5   | -                                                |        8        |       4       |       3        |       11        |   4   |   3   |   3   |   1   |   -   |
+| 14 |  +5   | [Magic Item Savant]                              |       10        |       5       |       4        |       11        |   4   |   3   |   3   |   1   |   -   |
+| 15 |  +5   | [Subclass Feature]                               |       10        |       5       |       4        |       12        |   4   |   3   |   3   |   2   |   -   |
+| 16 |  +5   | [Ability Score Improvement]                      |       10        |       5       |       4        |       12        |   4   |   3   |   3   |   2   |   -   |
+| 17 |  +6   | -                                                |       10        |       5       |       4        |       14        |   4   |   3   |   3   |   3   |   1   |
+| 18 |  +6   | [Magic Item Master]                              |       12        |       6       |       4        |       14        |   4   |   3   |   3   |   3   |   1   |
+| 19 |  +6   | [Ability Score Improvement]                      |       12        |       6       |       4        |       15        |   4   |   3   |   3   |   3   |   2   |
+| 20 |  +6   | [Soul of Artifice]                               |       12        |       6       |       4        |       15        |   4   |   3   |   3   |   3   |   2   |
 
 ## Creating an Artificer
 

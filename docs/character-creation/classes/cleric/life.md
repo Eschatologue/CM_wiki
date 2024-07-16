@@ -21,7 +21,7 @@ Your healing spells are empowered by life itself. When a spell you cast with a s
 
 ## Level 3: Preserve Life
 
-As part of casting a prepared Abjuration spell from the Divine spell list, you can expend uses of Channel Divinity to create a spell slot to use for the casting. You must expend a number of Channel Divinity uses equal to the spell’s level. For example, you can expend one use of Channel Divinity to create a 1st-level spell slot for a casting of Shield of Faith if you have that spell prepared.
+As part of casting a prepared Abjuration spell from the Cleric spell list, you can expend uses of Channel Divinity to create a spell slot to use for the casting. You must expend a number of Channel Divinity uses equal to the spell’s level. For example, you can expend one use of Channel Divinity to create a 1st-level spell slot for a casting of Shield of Faith if you have that spell prepared.
 
 ## Level 6: Blessed Healer
 

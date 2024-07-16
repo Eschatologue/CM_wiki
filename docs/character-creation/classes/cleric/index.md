@@ -80,11 +80,11 @@ You have learned to cast spells through prayer, meditation, and devotion. See th
 
 ### Cantrips 
 
-You know three cantrips of your choice from the Divine spell list. Rather than choosing, you may start with Guidance, Sacred Flame, and Thaumaturgy.
+You know three cantrips of your choice from the Cleric spell list. Rather than choosing, you may start with Guidance, Sacred Flame, and Thaumaturgy.
 
-Whenever you gain a Cleric level, you can replace one of your cantrips with another cantrip of your choice from the Divine spell list.
+Whenever you gain a Cleric level, you can replace one of your cantrips with another cantrip of your choice from the Cleric spell list.
 
-When you reach 4th and 10th level in this class, you learn another cantrip of your choice from the Divine spell list, as shown in the Cantrips column of the Cleric table.
+When you reach 4th and 10th level in this class, you learn another cantrip of your choice from the Cleric spell list, as shown in the Cantrips column of the Cleric table.
 
 ### Spell Slots 
 
@@ -92,11 +92,11 @@ The Cleric table shows how many spell slots you have to cast your spells of 1st 
 
 ### Prepared Spells of 1st+ Level
 
-You prepare the list of spells of 1st level and higher that are available for you to cast with this feature. To start, choose four 1st-level spells from the Divine spell list. Rather than choosing, you may start with Bless, Cure Wounds, Guiding Bolt, and Shield of Faith.
+You prepare the list of spells of 1st level and higher that are available for you to cast with this feature. To start, choose four 1st-level spells from the Cleric spell list. Rather than choosing, you may start with Bless, Cure Wounds, Guiding Bolt, and Shield of Faith.
 
 The number of spells on your list also increases as you gain Cleric levels, as shown in the Prepared Spells column of the Cleric table.
 
-Whenever that number increases, choose additional spells from the Divine spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. 
+Whenever that number increases, choose additional spells from the Cleric spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. 
 
 For example, if you’re a 3rd-level Cleric, your list of prepared spells can include six spells of 1st or 2nd level, in any combination.
 
@@ -134,7 +134,13 @@ As a Magic action, you present your Holy Symbol and speak a prayer censuring Und
 
 ## Level 3: Ckeric Subclass
 
-You gain a Cleric subclass of your choice: Life Domain, Light Domain, Trickery Domain, or War Domain. Subclasses are detailed after this class’s description.
+You gain a Cleric subclass of your choice: 
+
+- [Life Domain](life.md)
+- [Light Domain](light.md)
+- [Trickery Domain](trickery.md)
+- [War Domain]
+
 A subclass is a specialization that grants you special abilities at certain Cleric levels. For the rest of your career, you gain each of your subclass’s features that are of your Cleric level and lower.
 
 ## Level 4: Ability Score Improvement

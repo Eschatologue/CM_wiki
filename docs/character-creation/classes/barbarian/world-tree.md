@@ -4,7 +4,11 @@
 
 ## Level 3: Vitality of the Tree
 
-Your Rage taps into the lifeforce of the World Tree. You gain the following benefits: Vitality Surge. When you activate your Rage, you gain a number of Temporary Hit Points equal to your Barbarian level. Life-Giving Force. At the start of each of your turns while your Rage is active, you can choose another creature within 10 feet of yourself to gain Temporary Hit Points. To determine the number of Temporary Hit Points, roll a number of d6s equal to your Rage Damage bonus, and add them together. If any of these Temporary Hit Points remain when your Rage ends, they vanish. 
+Your Rage taps into the lifeforce of the World Tree. You gain the following benefits: 
+
+**Vitality Surge.** When you activate your Rage, you gain a number of Temporary Hit Points equal to your Barbarian level. 
+
+**Life-Giving Force.** At the start of each of your turns while your Rage is active, you can choose another creature within 10 feet of yourself to gain Temporary Hit Points. To determine the number of Temporary Hit Points, roll a number of d6s equal to your Rage Damage bonus, and add them together. If any of these Temporary Hit Points remain when your Rage ends, they vanish. 
 
 ## Level 6: Branches of the Tree
 

@@ -19,6 +19,7 @@ If you fail a saving throw while your Rage is active, you can reroll it, and you
 ## Level 10: Zealous Presence
 
 As a Bonus Action, you unleash a battle cry infused with divine energy. Up to ten other creatures of your choice within 60 feet of you gain Advantage on attack rolls and saving throws until the start of your next turn.
+
 Once you use this feature, you can’t use it again until you finish a Long Rest. If you’ve run out of uses of this feature, you can expend a use of your Rage to activate Zealous Presence instead of Rage.
 
 ## Level 14: Rage Beyond Death

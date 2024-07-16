@@ -10,17 +10,21 @@ You can cast the Beast Sense and [Speak with Animals] spells, but only as Ritual
 
 Your Rage taps into the primal power of animals. You gain one of the following options of your choice. Whenever you gain a Barbarian level, you can change your choice.
 
-- **Bear**. When you activate your Rage, choose two damage types, other than Force or Psychic. You have Resistance to the chosen types until the Rage ends.
-- **Eagle.** When you activate your Rage and as a Bonus Action while it’s active, you can take both the Disengage and the Dash action.
-- **Wolf.** While your Rage is active, your allies have Advantage on melee attack rolls against any enemy of yours within 10 feet of you.
+**Bear.** When you activate your Rage, choose two damage types, other than Force or Psychic. You have Resistance to the chosen types until the Rage ends.
+
+**Eagle.** When you activate your Rage and as a Bonus Action while it’s active, you can take both the Disengage and the Dash action.
+
+**Wolf.** While your Rage is active, your allies have Advantage on melee attack rolls against any enemy of yours within 10 feet of you.
 
 ## Level 6: Aspect of the Wilds
 
 You gain one of the following options of your choice. Whenever you gain a Barbarian level, you can change your choice.
 
-- **Elephant.** You gain proficiency in the Athletics or Insight skill. If you already have proficiency in the skill, you gain Expertise in it instead.
-- **Owl**. You gain proficiency in the Investigation or Perception skill. If you already have proficiency in the skill, you gain Expertise in it instead.
-- **Spider.** You gain proficiency in the Stealth or Survival skill. If you already have proficiency in the skill, you gain Expertise in it instead.
+**Elephant.** You gain proficiency in the Athletics or Insight skill. If you already have proficiency in the skill, you gain Expertise in it instead.
+
+**Owl**. You gain proficiency in the Investigation or Perception skill. If you already have proficiency in the skill, you gain Expertise in it instead.
+
+**Spider.** You gain proficiency in the Stealth or Survival skill. If you already have proficiency in the skill, you gain Expertise in it instead.
 
 ## Level 10: Nature Speaker
 
@@ -30,6 +34,8 @@ You can cast the [Commune with Nature] spell, but only as a Ritual. Wisdom is yo
 
 You gain one of the following options of your choice. Whenever you gain a Barbarian level, you can change your choice.
 
-- **Lion.** While your Rage is active, any of your enemies within 5 feet of you have Disadvantage on attack rolls against targets other than you or another Barbarian with this feature.
-- **Falcon.** While your Rage is active, you have a Fly Speed equal to your Speed, provided you aren’t wearing any armor.
-- **Ram.** While your Rage is active, when you hit a Large or smaller creature with a melee attack, it must succeed on a Strength saving throw (DC equal to 8 + your Proficiency Bonus + your Strength modifier) or have the Prone condition.
+**Lion.** While your Rage is active, any of your enemies within 5 feet of you have Disadvantage on attack rolls against targets other than you or another Barbarian with this feature.
+
+**Falcon.** While your Rage is active, you have a Fly Speed equal to your Speed, provided you aren’t wearing any armor.
+
+**Ram.** While your Rage is active, when you hit a Large or smaller creature with a melee attack, it must succeed on a Strength saving throw (DC equal to 8 + your Proficiency Bonus + your Strength modifier) or have the Prone condition.

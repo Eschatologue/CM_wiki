@@ -51,7 +51,11 @@ nav:
       - Cleric:
         - character-creation/classes/cleric/index.md
         - Life: character-creation/classes/cleric/life.md
+        - Light: character-creation/classes/cleric/light.md
         - Trickery: character-creation/classes/cleric/trickery.md
+        - War: character-creation/classes/cleric/war.md
+      - Fighter:
+        - character-creation/classes/fighter/index.md
     - Race: character-creation/race/race.md
     - Languages: character-creation/languages.md
     - Ability Score: 
