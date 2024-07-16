@@ -10,11 +10,11 @@ icon: class/fighter
 
 # The Fighter
 
-Fighters rule many battlefields. Questing knights, royal champions, elite soldiers, and hardened mercenaries—as Fighters, they all share an unparalleled prowess with weapons and armor. And they are well acquainted with death, both meting it out and staring it defiantly in the face.
+***Fighters rule many battlefields. Questing knights, royal champions, elite soldiers, and hardened mercenaries—as Fighters, they all share an unparalleled prowess with weapons and armor. And they are well acquainted with death, both meting it out and staring it defiantly in the face.***
 
-Fighters learn the basics of all combat styles. Every Fighter can swing an axe, fence with a rapier, wield a longsword or a greatsword, and use a bow. Fighters master various weapon techniques, allowing them to get the best use from a wide variety of weapons, and a well equipped Fighter always has the right tool at hand for any combat situation. Likewise, a Fighter is adept with shields and every form of armor. Beyond that basic degree of familiarity, each Fighter specializes in certain styles of combat. Some concentrate on archery, some on fighting with two weapons at once, and some on augmenting their martial skills with magic. This combination of broad general ability and extensive specialization makes Fighters superior combatants everywhere.
+***Fighters learn the basics of all combat styles. Every Fighter can swing an axe, fence with a rapier, wield a longsword or a greatsword, and use a bow. Fighters master various weapon techniques, allowing them to get the best use from a wide variety of weapons, and a well equipped Fighter always has the right tool at hand for any combat situation. Likewise, a Fighter is adept with shields and every form of armor. Beyond that basic degree of familiarity, each Fighter specializes in certain styles of combat. Some concentrate on archery, some on fighting with two weapons at once, and some on augmenting their martial skills with magic. This combination of broad general ability and extensive specialization makes Fighters superior combatants everywhere.***
 
-The dungeon delving, monster slaying, and other dangerous work common among adventurers is second nature for a Fighter. There are great risks but also great rewards: gold, magic weaponry, and glory.
+***The dungeon delving, monster slaying, and other dangerous work common among adventurers is second nature for a Fighter. There are great risks but also great rewards: gold, magic weaponry, and glory.***
 
 | Level | Prof. Bonus | Class Features | Second Wind | Weapon Mastery |
 |:-:|:-:|---|:-:|:-:|
@@ -65,12 +65,12 @@ As a level 1 character, you start with the following equipment
 - Chain Mail
 - Crossbow Bolts (20)
 - Dungeoneer’s Pack
-- (a) Greatsword or (b) Longsword, Shield, and 250 sP
+- (a) Greatsword or (b) Longsword, Shield, and 250 SP
 - Light Crossbow
 - Quiver
-- 110 sP
+- 110 SP
 
-or you can forgo it and spend 1750 sP on equipment of your choice.
+or you can forgo it and spend 1750 SP on equipment of your choice.
 
 ## Level 1: Fightinh Style
 

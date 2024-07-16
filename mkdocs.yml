@@ -34,6 +34,8 @@ nav:
     - DM Related: dm/tools.md
   - Chartacter Creation:
     - Quickstart: character-creation/quickstart.md
+    - Race: character-creation/race/race.md
+    - Languages: character-creation/languages.md
     - Classes: 
       - character-creation/classes/index.md
       - Artificer: 
@@ -56,8 +58,6 @@ nav:
         - War: character-creation/classes/cleric/war.md
       - Fighter:
         - character-creation/classes/fighter/index.md
-    - Race: character-creation/race/race.md
-    - Languages: character-creation/languages.md
     - Ability Score: 
       - character-creation/ability-scores/index.md
       - Strength: character-creation/ability-scores/strength.md
