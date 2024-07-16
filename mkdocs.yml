@@ -58,6 +58,10 @@ nav:
         - War: character-creation/classes/cleric/war.md
       - Fighter:
         - character-creation/classes/fighter/index.md
+        - Battlemaster: character-creation/classes/fighter/battlemaster.md
+        - Brawler: character-creation/classes/fighter/brawler.md
+        - Champion: character-creation/classes/fighter/champion.md
+        - Eldritch Knight: character-creation/classes/fighter/eldritch-knight.md
     - Ability Score: 
       - character-creation/ability-scores/index.md
       - Strength: character-creation/ability-scores/strength.md

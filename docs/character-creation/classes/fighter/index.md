@@ -110,10 +110,10 @@ Rather than regaining Hit Points, you roll 1d10 and add the number rolled to the
 
 You gain a Fighter subclass of your choice: 
 
-- Battle Master
-- Brawler
-- Champion
-- Eldritch Knight
+- [Battle Master](battlemaster.md)
+- [Brawler](brawler.md)
+- [Champion](champion.md)
+- [Eldritch Knight](eldritch-knight.md)
 
 A subclass is a specialization that grants you special features at certain Fighter levels. For the rest of your career, you gain each of your subclass’s features that are of your Fighter level and lower.
 
