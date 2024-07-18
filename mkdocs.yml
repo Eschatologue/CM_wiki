@@ -62,6 +62,11 @@ nav:
         - Brawler: character-creation/classes/fighter/brawler.md
         - Champion: character-creation/classes/fighter/champion.md
         - Eldritch Knight: character-creation/classes/fighter/eldritch-knight.md
+      - Monk:
+        - character-creation/classes/monk/index.md
+        - Elements: character-creation/classes/monk/element.md
+        - Hand: character-creation/classes/monk/hand.md
+        - Shadow: character-creation/classes/monk/shadow.md
     - Ability Score: 
       - character-creation/ability-scores/index.md
       - Strength: character-creation/ability-scores/strength.md

@@ -4,7 +4,9 @@ icon: class/fighter
 
 !!! danger "Experimental Material"
 
-    This class is an experimental material from Unearthed Arcana that may subject to change on the upcoming 2024 Player's Handbook. 
+    This class is an experimental material from Unearthed Arcana that may subject to change on the upcoming 2024 Player's Handbook.  
+
+    Unless stated otherwise, this material is not used for the current campaign.
 
 :class-fighter:{ .xxxxl }
 
@@ -72,7 +74,7 @@ As a level 1 character, you start with the following equipment
 
 or you can forgo it and spend 1750 SP on equipment of your choice.
 
-## Level 1: Fightinh Style
+## Level 1: Fighting Style
 
 You have honed your martial prowess and gain a [Fighting Style] feat of your choice (those feats have this feature as a prerequisite).
 
