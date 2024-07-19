@@ -21,7 +21,7 @@ Many Monks find that a structured life of ascetic withdrawal from the mundane wo
 Monks generally view their adventures as personal tests of their physical and mental development. They are driven by a desire to accomplish a greater mission than merely slaying monsters and plundering treasure; they strive to hone themselves into living weapons.
 
 | Level |  Prof. Bonus | Class Features | Martial Arts | Discipline Points | Unarmored Movement |
-|:-:|:-:|---|:-:||:-:|:-:|
+|:-:|:-:|---|:-:|:-:|:-:|
 | 1 | +2 | Martial Arts, Unarmored Defense | 1d6 | — | — |
 | 2 | +2 | Monk’s Discipline, Unarmored Movement, Uncanny Metabolism | 1d6 | 2 | +10 ft. |
 | 3 |  +2 | Deflect Attacks, Monk Subclass | 1d6 | 3 | +10 ft. |
