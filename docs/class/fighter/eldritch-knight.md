@@ -6,34 +6,6 @@ Eldritch Knights combine the martial mastery common to all Fighters with a caref
 
 You have learned to cast spells. See the Player’s Handbook for rules on spellcasting. The information below details how you use those rules as an Eldritch Knight.
 
-### Cantrips
-
-You know two cantrips of your choice from the Wizard spell list. Whenever you gain a Fighter level, you can replace one of this feature’s cantrips with another cantrip of your choice from the Wizard spell list.
-
-When you reach level 10 in this class, you learn another Wizard cantrip of your choice.
-
-### Spell Slots
-
-The Eldritch Knight Spellcasting table shows how many spell slots you have to cast your spells of level 1 and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a Long Rest.
-
-### Prepared Spells of Level 1+
-
-You prepare a list of spells of level 1 and higher that are available for you to cast with this feature. To start, choose three level 1 spells from the Wizard spell list, two of which must be from the Abjuration and Evocation schools of magic.
-
-The number of spells on your list increases as you gain Fighter levels, as shown in the Prepared Spells column of the Eldritch Knight Spellcasting table. Whenever that number increases, choose additional spells from the Wizard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 7 Fighter, your list of prepared spells can include six Wizard spells of levels 1 and 2, in any combination.
-
-### Changing your Prepared Spells
-
-Whenever you gain a level in this class, you can replace one of the spells you know with another spell of your choice from the Wizard spell list. The new spell must be of a level for which you have spell slots.
-
-### Spellcasting Ability
-
-Intelligence is your spellcasting ability for your Eldritch Knight spells.
-
-### Spellcasting Focus
-
-You can use an Arcane Focus as a Spellcasting Focus for the spells you prepare for this subclass.
-
 | Fighter level | Spells Prepared | I | II | III | IV |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 3 | 3 | 2 | — | — | — |
@@ -54,6 +26,34 @@ You can use an Arcane Focus as a Spellcasting Focus for the spells you prepare f
 | 18 | 11 | 4 | 3 | 3 | — |
 | 19 | 12 | 4 | 3 | 3 | 1 |
 | 20 | 13 | 4 | 3 | 3 | 1 |
+
+### Cantrips
+
+You know two cantrips of your choice from the Wizard spell list. Whenever you gain a Fighter level, you can replace one of this feature’s cantrips with another cantrip of your choice from the Wizard spell list.
+
+When you reach level 10 in this class, you learn another Wizard cantrip of your choice.
+
+### Spell Slots
+
+The Eldritch Knight Spellcasting table shows how many spell slots you have to cast your spells of level 1 and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a Long Rest.
+
+### Prepared Spells of Level 1+
+
+You prepare a list of spells of level 1 and higher that are available for you to cast with this feature. To start, choose three level 1 spells from the Wizard spell list.
+
+The number of spells on your list increases as you gain Fighter levels, as shown in the Prepared Spells column of the Eldritch Knight Spellcasting table. Whenever that number increases, choose additional spells from the Wizard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 7 Fighter, your list of prepared spells can include six Wizard spells of levels 1 and 2, in any combination.
+
+### Changing your Prepared Spells
+
+Whenever you gain a level in this class, you can replace one of the spells you know with another spell of your choice from the Wizard spell list. The new spell must be of a level for which you have spell slots.
+
+### Spellcasting Ability
+
+Intelligence is your spellcasting ability for your Eldritch Knight spells.
+
+### Spellcasting Focus
+
+You can use an Arcane Focus as a Spellcasting Focus for the spells you prepare for this subclass.
 
 ## Level 3: War Bond
 

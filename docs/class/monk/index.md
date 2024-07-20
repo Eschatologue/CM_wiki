@@ -47,7 +47,7 @@ Monks generally view their adventures as personal tests of their physical and me
 
 ### Hit Point
 
-- **Hit Dice:** 1d8 per Fighter level
+- **Hit Dice:** 1d8 per Monk level
 - **Hit Points at Level 1:** 8 + your Constitution modifier
 - **Hit Points per later Level:** 1d8 (or 5) + your Constitution modifier
 

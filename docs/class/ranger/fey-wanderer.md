@@ -12,14 +12,13 @@ The extra damage increases to 1d6 when you reach 11th level in this class.
 
 You learn an additional spell when you reach certain levels in this class, as shown in the Fey Wanderer Spells table. Each spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
 
-Fey Wanderer Spells
 | Ranger Level | Spells |
 |:---:|:---|
-| 3rd | Charm Person |
-| 5th | Misty Step |
-| 9th | Summon Fey |
-| 13th | Dimension Door |
-| 17th | Mislead |
+| 3 | Charm Person |
+| 5 | Misty Step |
+| 9 | Summon Fey |
+| 13 | Dimension Door |
+| 17 | Mislead |
 
 You also possess a preternatural blessing from a fey ally or a place of fey power. Choose your blessing from the Feywild Gifts table or determine it randomly.
 

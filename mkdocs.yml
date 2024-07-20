@@ -74,6 +74,13 @@ nav:
         - Fey Wanderer: class/ranger/fey-wanderer.md
         - Gloom Stalker: class/ranger/gloom-stalker.md
         - Hunter: class/ranger/hunter.md
+      - Rogue: 
+        - class/rogue/index.md
+        - Arcane Trickster: class/rogue/arcane-trickster.md
+        - Assassin: class/rogue/assassin.md
+        - Soulknife: class/rogue/soulknife.md
+        - Swashbuckler: class/rogue/swashbuckler.md
+        - Thief: class/rogue/thief.md
     - Mage Group:
       - Sorcerer:
         - class/sorcerer/index.md
@@ -107,6 +114,7 @@ nav:
         - Brawler: class/fighter/brawler.md
         - Champion: class/fighter/champion.md
         - Eldritch Knight: class/fighter/eldritch-knight.md
+        - Psi Warrior: class/fighter/psi-warrior.md
       - Monk:
         - class/monk/index.md
         - Elements: class/monk/element.md
