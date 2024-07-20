@@ -70,6 +70,7 @@ nav:
         - Valour: class/bard/valour.md
       - Ranger: 
         - class/ranger/index.md
+        - Beast Master: class/ranger/beast-master.md
     - Mage Group:
       - Sorcerer:
         - class/sorcerer/index.md

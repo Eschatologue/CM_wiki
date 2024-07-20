@@ -76,7 +76,7 @@ As a Level 1 character, you start with the following equipment
 
 Or you can forgo it and spend 1500 SP on equipment of your choice.
 
-## Deft Explorer <small> <span style="float:right;"> - Level 1  </span> </small>
+## Level 1: Deft Explorer
 
 You are an unsurpassed explorer. Choose one of your proficiencies in a skill that appears on the Ranger skill list. You gain Expertise in that skill.
 
@@ -126,7 +126,12 @@ You have honed your martial prowess. You gain one of the following Fighting Styl
 
 ## Level 3: Ranger Subclass
 
-You gain a Ranger subclass of your choice: Beast Master, Fey Wanderer, Gloom Stalker, or Hunter. Subclasses are detailed after this class’s description (for this playtest, use Fey Wanderer from Tasha’s Cauldron of Everything).
+You gain a Ranger subclass of your choice: 
+
+- Beast Master
+- Fey Wanderer
+- Gloom Stalker
+- Hunter
 
 A subclass is a specialization that grants you special abilities at certain Ranger levels. For the rest of your career, you gain each of your subclass’s features that are of your Ranger level and lower.
 
