@@ -55,47 +55,45 @@ nav:
       - Eldritch Invocations: character-creation/option/invocations.md
   - Classes: 
     - character-creation/classes/index.md
-    - Artificer: 
-      - character-creation/classes/artificer/index.md
-      - Artificer Specialist: 
+    - Expert Group:
+      - Artificer: 
+        - character-creation/classes/artificer/index.md
         - Alchemist: character-creation/classes/artificer/alchemist.md
         - Armourer: character-creation/classes/artificer/armourer.md
         - Artilerist: character-creation/classes/artificer/artilerist.md
         - Battlesmith: character-creation/classes/artificer/battlesmith.md
-    - Barbarian:  
-      - character-creation/classes/barbarian/index.md
-      - Primal Path: 
-        - Berserker: character-creation/classes/barbarian/berserker.md
-        - Wild Heart: character-creation/classes/barbarian/wild-heart.md
-        - World Tree: character-creation/classes/barbarian/world-tree.md
-        - Zealot: character-creation/classes/barbarian/zealot.md
-    - Cleric:
-      - character-creation/classes/cleric/index.md
-      - Divine Domain:
-        - Life: character-creation/classes/cleric/life.md
-        - Light: character-creation/classes/cleric/light.md
-        - Trickery: character-creation/classes/cleric/trickery.md
-        - War: character-creation/classes/cleric/war.md
-    - Fighter:
-      - character-creation/classes/fighter/index.md
-      - Fighter's Archetype: 
-        - Battlemaster: character-creation/classes/fighter/battlemaster.md
-        - Brawler: character-creation/classes/fighter/brawler.md
-        - Champion: character-creation/classes/fighter/champion.md
-        - Eldritch Knight: character-creation/classes/fighter/eldritch-knight.md
-    - Monk:
-      - character-creation/classes/monk/index.md
-      - Monastic Tradition:  
-        - Elements: character-creation/classes/monk/element.md
-        - Hand: character-creation/classes/monk/hand.md
-        - Shadow: character-creation/classes/monk/shadow.md
-    - Sorcerer:
-      - character-creation/classes/sorcerer/index.md
-      - Sorcerous Bloodline: 
+    - Mage Group:
+      - Sorcerer:
+        - character-creation/classes/sorcerer/index.md
         - Abberant Mind: character-creation/classes/sorcerer/abberant.md
         - Clockwork Soul: character-creation/classes/sorcerer/clockwork.md
         - Draconic Bloodline: character-creation/classes/sorcerer/draconic.md
         - Wild Magic: character-creation/classes/sorcerer/wild-magic.md
+    - Priest Group:
+      - Cleric:
+        - character-creation/classes/cleric/index.md
+        - Life: character-creation/classes/cleric/life.md
+        - Light: character-creation/classes/cleric/light.md
+        - Trickery: character-creation/classes/cleric/trickery.md
+        - War: character-creation/classes/cleric/war.md
+    - Warrior Group:
+      - Barbarian:  
+        - character-creation/classes/barbarian/index.md
+        - Berserker: character-creation/classes/barbarian/berserker.md
+        - Wild Heart: character-creation/classes/barbarian/wild-heart.md
+        - World Tree: character-creation/classes/barbarian/world-tree.md
+        - Zealot: character-creation/classes/barbarian/zealot.md
+      - Fighter:
+        - character-creation/classes/fighter/index.md
+        - Battlemaster: character-creation/classes/fighter/battlemaster.md
+        - Brawler: character-creation/classes/fighter/brawler.md
+        - Champion: character-creation/classes/fighter/champion.md
+        - Eldritch Knight: character-creation/classes/fighter/eldritch-knight.md
+      - Monk:
+        - character-creation/classes/monk/index.md
+        - Elements: character-creation/classes/monk/element.md
+        - Hand: character-creation/classes/monk/hand.md
+        - Shadow: character-creation/classes/monk/shadow.md
   - Items & Equipment: 
     - Armour: 
       - equipment/armour/index.md
