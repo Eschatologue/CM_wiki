@@ -127,7 +127,7 @@ You gain the Ability Score Improvement feat or another feat of your choice for w
 
 You can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-## Level 5: Tacatical Shift
+## Level 5: Tactical Shift
 
 Whenever you activate your Second Wind with a Bonus Action, you can move up to half your Speed without provoking Opportunity Attacks.
 

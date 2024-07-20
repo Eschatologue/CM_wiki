@@ -82,6 +82,12 @@ nav:
         - Light: class/cleric/light.md
         - Trickery: class/cleric/trickery.md
         - War: class/cleric/war.md
+      - Paladin:
+        - class/paladin/index.md
+        - Devotion: class/paladin/devotion.md
+        - Glory: class/paladin/glory.md
+        - The Ancient: class/paladin/ancient.md
+        - Vengeance: class/paladin/vengeance.md
     - Warrior Group:
       - Barbarian:  
         - class/barbarian/index.md

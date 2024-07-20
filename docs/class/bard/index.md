@@ -1,3 +1,7 @@
+---
+icon: class/bard
+---
+
 !!! danger "Experimental Material"
 
     This class is an experimental material from Unearthed Arcana that may subject to change on the upcoming 2024 Player's Handbook. 
@@ -7,6 +11,17 @@
 :class-bard:{ .xxxxl }
 
 # Bard
+
+Invoking magic through music, dance, and verse, Bards are expert at inspiring others, soothing hurts, disheartening foes, and creating illusions.
+Bards believe that the creators of the multiverse spoke and signed it into existence and that remnants of those Words of Creation still resound and glimmer on every plane of existence. The magic of Bards is an attempt to harness those words—which transcend any language—and direct them to create new wonders.
+ 
+Because the Words of Creation resonate throughout the cosmos, different Bards choose different approaches to their magic. Some Bards practice their arts in temples or monasteries, drawing on the power of the Outer Planes to channel divine magic. Others listen to bird song and the music of the wind, associate with Druid circles, and wield primal magic. Still others immerse themselves in the study of magical lore, collecting scraps of mystic knowledge wherever their journeys take them as they master the secrets of arcane magic. Ultimately, though, these various paths converge as the most accomplished Bards learn to access almost the entire breadth of magical potential.
+
+Anything can inspire a new song or tale, so Bards are fascinated by almost everything. They have a wide-ranging knowledge of many subjects and develop an aptitude to do almost anything well. Bards become masters of many things, including performing music, working magic, and making jests.
+
+Not every singer or poet in a tavern or jester in a royal court is a Bard. Harnessing the Words of Creation requires hard work and some measure of natural talent that most troubadours and jongleurs lack. A Bard’s life is spent wandering across the land gathering lore, telling stories, and living on the gratitude of audiences, much like any other entertainer. But Bards’ depth of knowledge and mastery of magic sets them apart.
+
+#### Bard Table
 
 | Bard Level | Prof. Bonus | Class Feature | Bardic Die | Bardic Inspiration | Prepared Spells | I | II | III | IV | V | VI | VII | VIII | IX |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -65,10 +80,11 @@ Or you can forgo it and spend 1000 SP on equipment of your choice.
 ## Level 1: Bardic Inspiration
 
 You can supernaturally inspire others through words, music, or dance. This inspiration is represented by your Bardic Inspiration die, which is a d6.
-Using Bardic Inspiration. As a Bonus Action, you can inspire another creature within 60 feet
- 
-of yourself who can see or hear you. That creature gains one of your Bardic Inspiration dice. A creature can have only one Bardic Inspiration die at a time.
+
+Using Bardic Inspiration. As a Bonus Action, you can inspire another creature within 60 feet of yourself who can see or hear you. That creature gains one of your Bardic Inspiration dice. A creature can have only one Bardic Inspiration die at a time.
+
 Once within the next hour when the creature fails a d20 Test, the creature can roll that die and add the number rolled to the d20, potentially turning the failure into a success. A Bardic Inspiration die is expended when it’s rolled.
+
 Number of Uses. You can confer a Bardic Inspiration die a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 At Higher Levels. Your Bardic Inspiration die changes when you reach certain Bard levels, as shown in the Bardic Die column of the Bard table. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.
 
@@ -81,6 +97,7 @@ You have learned to cast spells through your bardic arts. See the Player’s Han
 You know two cantrips of your choice from your Bard spell list.
 
 Whenever you gain a Bard level, you can replace one of your cantrips with another cantrip of your choice from your Bard spell list.
+
 When you reach 4th and 10th level in this class, you learn another cantrip of your choice from your Bard spell list, as shown in the Cantrips column of the Bard table.
 
 ### Spell Slots
@@ -137,10 +154,6 @@ You now also regain all your expended uses of Bardic Inspiration when you finish
 
 In addition, if you have no uses of Bardic Inspiration left, you can give yourself one use by expending a spell slot (no action required). You can do so only once per turn.
 
-## Level 6: Subclass Feature
-
-You gain a feature from your Bard subclass.
-
 ## Level 7: Countercharm
 
 You can use musical notes or words of power to disrupt mind-influencing effects. If you or a creature within 30 feet of you fails a saving throw against an effect that applies the Charmed or Frightened condition, you can use your Reaction to cause the save to be rerolled, and the new roll has Advantage.
@@ -156,10 +169,6 @@ You have collected magical knowledge from a wide spectrum of disciplines. As a r
 ## Level 12: Ability Score Improvement
 
 You gain the Ability Score Improvement feat or another feat of your choice for which you qualify.
-
-## Level 14: Subclass Feature
-
-You gain a feature from your Bard subclass.
 
 ## Level 18: Superior Inspiration
 
