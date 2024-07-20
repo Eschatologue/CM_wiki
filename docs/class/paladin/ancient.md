@@ -19,7 +19,7 @@ Though the exact words and strictures of the Oath of Ancients vary, Paladins of 
 The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of the Ancients Spells table, you thereafter always have the listed spells prepared.
 
 | Paladin Level | Spells |
-|:---:|:---:|
+|:---:|:---|
 | 3 | Ensnaring Strike, Speak with Animal |
 | 5 | Misty Step, Moonbeam |
 | 9 | Plant Growth, Protection from Energy |

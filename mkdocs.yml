@@ -71,6 +71,9 @@ nav:
       - Ranger: 
         - class/ranger/index.md
         - Beast Master: class/ranger/beast-master.md
+        - Fey Wanderer: class/ranger/fey-wanderer.md
+        - Gloom Stalker: class/ranger/gloom-stalker.md
+        - Hunter: class/ranger/hunter.md
     - Mage Group:
       - Sorcerer:
         - class/sorcerer/index.md

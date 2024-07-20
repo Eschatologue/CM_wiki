@@ -132,7 +132,7 @@
 /* Table Size and Appearance */
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
-    font-size: 0.9rem;
+    font-size: 0.6rem;
     padding-left: 8px;
     padding-right: 8px;
     border-bottom: rgba(255, 255, 255, 0.12);

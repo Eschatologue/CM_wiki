@@ -19,7 +19,7 @@ Though the exact words and strictures of the Oath of Vengeance vary, Paladins of
 The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of Vengeance Spells table, you thereafter always have the listed spells prepared.
 
 | Paladin Level | Spells |
-|:---:|:---:|
+|:---:|:---|
 | 3rd | Bane, Compelled Duel |
 | 5th | Hold Person, Misty Step |
 | 9th | Haste, Protection from Energy |

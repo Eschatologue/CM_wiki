@@ -151,9 +151,9 @@ Your Speed increases by 10 feet while you aren’t wearing Heavy Armor.
 
 You also have a Climb Speed and a Swim Speed equal to your Speed.
  
-## Level 9: Conjure Barrage
+## Level 9: EXpertise
 
-Channeling nature’s might, you can cause your weapon to multiply and strike at creatures before you; you always have the Conjure Barrage spell prepared.
+You gain Expertise in two of your skill proficiencies of your choice.
 
 ## Level 9: Deft Explorer Improvement
 
@@ -172,11 +172,12 @@ Primal forces now help fuel you on your journeys, granting you the following ben
 ## Level 14: Nature’S Veil
 
 You invoke spirits of nature to magically hide yourself from view. As a Bonus Action, you can give yourself the Invisible condition until the end of your next turn.
+
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
  
-## Level 17: Conjure Volley
+## Level 17: Precise Hunter
 
-Propelled by primal spirits, your weapon can strike a group of targets far away; you always have the Conjure Volley spell prepared.
+Propelled by primal spirits, you always have Advantage against creature affected by Hunter's Mark spell
 
 ## Level 18: Feral Senses
 

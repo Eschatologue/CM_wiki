@@ -19,7 +19,7 @@ Though the exact words and strictures of the Oath of Devotion vary, Paladins of 
 ## Level 3: Oath Spells
 
 | Paladin Level | Spells |
-|:---:|:---:|
+|:---:|:---|
 | 3 | Protection from Evil and Good, Shield of Faith
 | 5th | Aid, Zone of Truth |
 | 9th | Beacon of Hope, Dispel Magic |

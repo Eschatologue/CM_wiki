@@ -18,9 +18,8 @@ Though the exact words and strictures of the Oath of Glory vary, Paladins of thi
 
 The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of Glory Spells table, you thereafter always have the listed spells prepared.
 
-OATH OF GLORY SPELLS
 | Paladin Level | Spells |
-|:---:|:---:|
+|:---:|:---|
 | 3rd | Guiding Bolt, Heroism |
 | 5th | Enhance Ability, Magic Weapon |
 | 9th | Haste, Protection from Energy |
