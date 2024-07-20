@@ -68,13 +68,15 @@ nav:
         - Glamour: class/bard/glamour.md
         - Lore: class/bard/lore.md
         - Valour: class/bard/valour.md
+      - Ranger: 
+        - class/ranger/index.md
     - Mage Group:
       - Sorcerer:
         - class/sorcerer/index.md
-        - Abberant Mind: class/sorcerer/abberant.md
+        - Abberant Mind: class/sorcerer/aberrant.md
         - Clockwork Soul: class/sorcerer/clockwork.md
         - Draconic Bloodline: class/sorcerer/draconic.md
-        - Wild Magic: class/sorcerer/wild-magic.md
+        - Wild Magic: class/sorcerer/wild.md
     - Priest Group:
       - Cleric:
         - class/cleric/index.md

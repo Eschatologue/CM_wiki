@@ -52,7 +52,7 @@ icon: class/fighter
 ### Proficiencies
 
 - **Saving Throws:** Strength, Constitution
-- **Skills (Choose 2):** Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, 
+- **Skills (Choose 2):** Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation
 - **Weapons:** Simple Weapons, Martial Weapons
 - **Tools:** None
 
