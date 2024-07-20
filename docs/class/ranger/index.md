@@ -76,7 +76,7 @@ As a Level 1 character, you start with the following equipment
 
 Or you can forgo it and spend 1500 SP on equipment of your choice.
 
-## Level 1: Deft Explorer
+## Deft Explorer — Level 1 
 
 You are an unsurpassed explorer. Choose one of your proficiencies in a skill that appears on the Ranger skill list. You gain Expertise in that skill.
 
