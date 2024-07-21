@@ -95,7 +95,11 @@ nav:
         - Fiend: class/warlock/fiend.md
         - Great Old One: class/warlock/great-old-one.md
       - Wizard:
-        - class/wizard/index.md    
+        - class/wizard/index.md
+        - Abjurer: class/wizard/abjurer.md
+        - Diviner: class/wizard/diviner.md
+        - Evoker: class/wizard/evoker.md
+        - Illusionist: class/wizard/illusionist.md
     - Priest Group:
       - Cleric:
         - class/cleric/index.md
