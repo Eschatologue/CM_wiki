@@ -18,9 +18,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 # Level 3: War Priest
 
-Your training with weapons allows you to use the Mastery property of one kind of Simple or Martial weapon with which you have proficiency.
-
-Whenever you finish a Long Rest, you can change the kind of weapon you chose to another eligible kind.
+Your training with weapons allows you to use the Mastery property of one kind of Simple or Martial weapon with which you have proficiency. Whenever you finish a Long Rest, you can change the kind of weapon you chose to another eligible kind.
 
 In addition, you can make one weapon attack as a Bonus Action. You can use this Bonus Action a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a Short Rest or Long Rest.
 

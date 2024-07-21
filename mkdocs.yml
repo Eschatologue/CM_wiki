@@ -19,7 +19,6 @@ nav:
     - Dice Rolls: gameplay/dice-rolls.md
     - Resources: gameplay/resources.md
     - Spellcasting: gameplay/spellcasting.md
-    - Multiclassing: gameplay/multiclassing.md
     - Combat: 
       - gameplay/combat/index.md
       - Making an Attack: gameplay/combat/making-an-attack.md
@@ -35,6 +34,7 @@ nav:
   - Chartacter Creation:
     - Quickstart: character-creation/quickstart.md
     - Race: character-creation/race/race.md
+    - Multiclassing: gameplay/multiclassing.md
     - Languages: character-creation/languages.md
     - Ability Score: 
       - character-creation/ability-scores/index.md
@@ -53,7 +53,7 @@ nav:
     - Other Options & Features:
       - Metamagic: character-creation/option/metamagic.md
       - Eldritch Invocations: character-creation/option/invocations.md
-  - Classes: 
+  - Class: 
     - class/index.md
     - Expert Group:
       - Artificer: 
@@ -87,6 +87,7 @@ nav:
         - Abberant Mind: class/sorcerer/aberrant.md
         - Clockwork Soul: class/sorcerer/clockwork.md
         - Draconic Bloodline: class/sorcerer/draconic.md
+        - Stone Sorcery: class/sorcerer/stone.md
         - Wild Magic: class/sorcerer/wild.md
       - Warlock:
         - class/warlock/index.md
@@ -199,7 +200,6 @@ theme:
     - navigation.sections
     - navigation.tracking
     - navigation.indexes
-    - navigation.prune
     - toc.follow
     - content.tooltips
     - admonition

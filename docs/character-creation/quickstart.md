@@ -68,11 +68,11 @@ If you're unsure about which background to choose, this D&D campaign uses the op
 
 ### Choosing a Class
 
-*Main Article: [Classes](../character-creation/classes.md)*
+*Main Article: [Classes](../class/index.md)*
 
 Please choose a class from the available options listed.
 
-You can also choose to [multiclass](../gameplay/multiclassing.md) when the prerequisites are met.
+You can also choose to [multiclass](../character-creation/multiclassing.md) when the prerequisites are met.
 
 ### Starting Ability Scores
 
@@ -92,7 +92,7 @@ Because ability modifiers affect almost every :d20-attack: **Attack Roll**, :d20
 
 #### Ability Scores and Modifiers Table
 
-| **SCORE** | **MODIFIER** | **SCORE** | **MODIFIER** |
+| SCORE | MODIFIER | SCORE | MODIFIER |
 | :-: | :-: | :-: | :-: |
 | 1 | -5 | 16-17 | +3 |
 | 2-3 | -4 | 18-19 | +4 |

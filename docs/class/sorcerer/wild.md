@@ -1,4 +1,4 @@
-# Wild Sorcery
+# Sorcerous Origin: Wild Magic
 
 Your innate magic stems from the forces of chaos that underlie the order of creation. You or an ancestor might have endured exposure to raw magic, perhaps through a planar portal leading to Limbo or the Elemental Planes. Perhaps you were blessed by a fey being or marked by a demon. Or your magic could be a fluke with no apparent cause. However it came to be, this magic churns within you, waiting for any outlet.
 

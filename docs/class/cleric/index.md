@@ -141,7 +141,7 @@ You gain a Cleric subclass of your choice:
 - [Life Domain](life.md)
 - [Light Domain](light.md)
 - [Trickery Domain](trickery.md)
-- [War Domain]
+- [War Domain](war.md)
 
 A subclass is a specialization that grants you special abilities at certain Cleric levels. For the rest of your career, you gain each of your subclass’s features that are of your Cleric level and lower.
 
