@@ -6,7 +6,7 @@ Druids of the Circle of the Sea draw on the tempestuous natural forces of the wo
 
 Your connection to this circle ensures that you always have certain spells ready. When you reach a Druid level specified in the Circle of the Sea Spells table, you thereafter always have the listed spells prepared.
 
-| Druid Level | Prepared Spells |
+| Druid Level | Spells Prepared |
 |:-:|---|
 | 3 | Fog Cloud, Gust of Wind, Ray of Frost, Shatter, Thunderwave |
 | 5	| Sleet Storm, Lightning Bolt | 

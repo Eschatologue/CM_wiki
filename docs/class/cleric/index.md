@@ -14,7 +14,7 @@ icon: class/cleric
 
 ***Clerics are intermediaries between the mortal world and the distant planes of the gods. As varied as the gods they serve, clerics strive to embody the handiwork of their deities. No ordinary priest, a cleric is imbued with divine magic.***
 
-| Level | Prof. Bonus | Class Features              | Channel Divinity | Cantrips | Prepared Spells |   I   |  II   |  III  |  IV   |   V   |  VI   |  VII  | VIII  |  IX   |
+| Level | Prof. Bonus | Class Features              | Channel Divinity | Cantrips | Spells Prepared |   I   |  II   |  III  |  IV   |   V   |  VI   |  VII  | VIII  |  IX   |
 | :---: | :---------: | :-------------------------- | :--------------: | :------: | :-------------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |  1st  |     +2      | Divine Order, Spellcasting  |        —         |    3     |        4        |   2   |   —   |   —   |   —   |   —   |   —   |   —   |   —   |   —   |
 |  2nd  |     +2      | Channel Divinity            |        2         |    3     |        5        |   3   |   —   |   —   |   —   |   —   |   —   |   —   |   —   |   —   |
@@ -147,7 +147,7 @@ A subclass is a specialization that grants you special abilities at certain Cler
 
 ## Level 4: Ability Score Improvement
 
-You gain the [Ability Score Improvement](../../feat/feat-4th-level.md#ability-scores-improvement) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](../../character-creation/feat/feat-4th-level.md#ability-scores-improvement) feat or another feat of your choice for which you qualify.
 
 As shown on the Cleric table, you gain this feature again at levels 8, 12, 16, and 19.
 

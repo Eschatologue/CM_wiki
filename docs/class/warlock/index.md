@@ -76,56 +76,85 @@ As a level 1 character, you start with the following equipment
  
 Or you can forgo it and spend 1000 SP on equipment of your choice.
 
-LEVEL 1: ELDRITCH INVOCATIONS
+## Eldritch Invocations – Level 1
 
-In your study of occult lore, you have unearthed Eldritch Invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Blade or Pact of the Tome. Invocations are described in the “Eldritch Invocation Options” section later in this class’s description.
-If an invocation has a prerequisite, you must meet it to learn that invocation, and you can learn the invocation at the same time that you meet its prerequisite. For example, if an invocation requires you to be a Warlock of level
- 
-5 or higher, you can select the invocation once you reach level 5 in this class.
+In your study of occult lore, you have unearthed [Eldritch Invocations](../../character-creation/option/invocations.md), fragments of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Blade or Pact of the Tome. 
+
+If an invocation has a prerequisite, you must meet it to learn that invocation, and you can learn the invocation at the same time that you meet its prerequisite. For example, if an invocation requires you to be a Warlock of level 5 or higher, you can select the invocation once you reach level 5 in this class.
+
 When you gain certain Warlock levels, you gain more invocations of your choice, as shown in the Invocations column of the Warlock table.
+
 You can’t pick the same invocation more than once unless an invocation’s description says otherwise.
 
-LEVEL 1: PACT MAGIC
+## Pact Magic – Level 1
 
 Through occult ceremony, you have formed a pact with a mysterious entity to gain magical powers. The entity is a voice in the shadows—its identity unclear—but its boon to you is concrete: the ability to cast spells. See the Player’s Handbook for rules on spellcasting. The information below details how you use those rules as a Warlock.
-Cantrips. You know two cantrips of your choice from the Warlock spell list (see the “Warlock Spell List” sidebar). Rather than choosing, you may start with Eldritch Blast and Prestidigitation. Whenever you gain a Warlock level, you can replace one of your cantrips from this feature with another Warlock cantrip of your choice.
+
+### Cantrips
+
+You know two cantrips of your choice from the Warlock spell list (see the “Warlock Spell List” sidebar). Rather than choosing, you may start with Eldritch Blast and Prestidigitation. Whenever you gain a Warlock level, you can replace one of your cantrips from this feature with another Warlock cantrip of your choice.
+
 When you reach levels 4 and 10 in this class, you learn another Warlock cantrip of your choice, as shown in the Cantrips column of the Warlock table.
 
-Spell Slots. The Warlock table shows how many spell slots you have to cast your Warlock spells of levels 1–5. The table also shows the level of those slots, all of which are the same level. To cast one of those spells, you must expend a spell slot. You regain all expended Pact Magic spell slots when you finish a Short Rest or Long Rest.
+### Spell Slots
+
+The Warlock table shows how many spell slots you have to cast your Warlock spells of levels 1–5. The table also shows the level of those slots, all of which are the same level. To cast one of those spells, you must expend a spell slot. You regain all expended Pact Magic spell slots when you finish a Short Rest or Long Rest.
+
 For example, when you’re a level 5 Warlock, you have two level 3 spell slots. To cast the level 1 spell Witch Bolt, you must spend one of those slots, and you cast it as a level 3 spell.
-Prepared Spells of Level 1+. You prepare the list of spells of level 1 and higher that are available for you to cast with this feature. To start, choose two level 1 spells from the Warlock spell list. Rather than choosing, you may start with Charm Person and Hex.
+
+### Prepared Spells of Level 1+. 
+
+You prepare the list of spells of level 1 and higher that are available for you to cast with this feature. To start, choose two level 1 spells from the Warlock spell list. Rather than choosing, you may start with Charm Person and Hex.
+
 The number of spells on your list increases as you gain Warlock levels, as shown in the Prepared Spells column of the Warlock table.
 Whenever that number increases, choose additional spells from the Warlock spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level no higher than what’s shown in the table’s Slot Level column for your level. When you reach level 6, for example, you learn a new Warlock spell, which can be of level 1–3.
-If another Warlock feature gives spells that you always have prepared, those spells don’t count against the number of spells on the list you prepare with this feature, but those spells otherwise follow the rules in this feature.
-Changing Your Prepared Spells. Whenever you gain a Warlock level, you can replace one spell on your list with another Warlock spell of an eligible level.
-Spellcasting Ability. Charisma is the spellcasting ability for the spells you cast with your Warlock features.
-Spellcasting Focus. You can use an Arcane Focus as a Spellcasting Focus for the spells you cast with your Warlock features.
 
-LEVEL 2: MAGICAL CUNNING
+If another Warlock feature gives spells that you always have prepared, those spells don’t count against the number of spells on the list you prepare with this feature, but those spells otherwise follow the rules in this feature.
+
+### Changing Your Prepared Spells
+
+Whenever you gain a Warlock level, you can replace one spell on your list with another Warlock spell of an eligible level.
+
+### Spellcasting Ability
+
+Charisma is the spellcasting ability for the spells you cast with your Warlock features.
+
+### Spellcasting Focus
+
+You can use an Arcane Focus as a Spellcasting Focus for the spells you cast with your Warlock features.
+
+##  Magical Cunning – Level 2
 
 If all your Pact Magic spell slots are expended, you can perform an esoteric rite for 1 minute, at the end of which you regain half of those spell slots (round up). Once you use this feature, you can’t do so again until you finish a Long Rest.
 
-LEVEL 3: WARLOCK SUBCLASS
+## Warlock Subclass – Level 3
 
-You gain a Warlock subclass of your choice: Archfey Patron, Celestial Patron, Fiend Patron, or Great Old One Patron. Subclasses are detailed after this class’s description.
+You gain a Warlock subclass of your choice: Archfey Patron, Celestial Patron, Fiend Patron, or Great Old One Patron. 
+
 A subclass is a specialization that grants you special features at certain Warlock levels. For the rest of your career, you gain each of your subclass’s features that are of your Warlock level and lower.
  
-LEVEL 4: ABILITY SCORE IMPROVEMENT
-You gain the Ability Score Improvement feat or another feat of your choice for which you qualify.
+## Ability Score Improvement
+
+You gain the [Ability Score Improvement](../../character-creation/feat/feat-4th-level.md#ability-scores-improvement) feat or another feat of your choice for which you qualify.
+
 As shown on the Warlock table, you gain this feature again at levels 8, 12, 16, and 19.
 
-LEVEL 9: CONTACT PATRON
+## Contact Patron – Level 9
 
 In the past, you usually contacted your patron through intermediaries. Now you can communicate directly; you always have the Contact Other Plane spell prepared. With this feature, you can cast the spell without expending a spell slot to contact your patron, and you automatically succeed on the spell’s saving throw.
+
 Once you cast the spell with this feature, you can’t do so again until you finish a Long Rest.
 
-LEVEL 11: MYSTIC ARCANUM
+## Mystic Arcanum – Level 11
 
 Your patron bestows on you a magical secret called an arcanum. Choose one level 6 spell from the Warlock spell list as this arcanum.
+
 You can cast your arcanum spell once without expending a spell slot, and you must finish a Long Rest before you can do so again.
+
 As shown on the Warlock table, you gain another Warlock spell of your choice that can be cast in this way when you reach levels 13 (level 7 spell), 15 (level 8 spell), and 17 (level 9 spell). You regain all uses of your Mystic Arcanum when you finish a Long Rest.
+
 Whenever you gain a Warlock level, you can replace one of your arcanum spells with another Warlock spell of the same level.
 
-LEVEL 20: ELDRITCH MASTER
+## Eldritch Master – Level 20
 
 When you use your Magical Cunning feature, you regain all your expended Pact Magic spell slots.

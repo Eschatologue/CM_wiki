@@ -10,7 +10,7 @@ Changeable as the moon, a Druid of this circle might prowl as a great cat one ni
 
 Your connection to this circle ensures that you always have certain spells ready. When you reach a Druid level specified in the Circle of the Moon Spells table, you thereafter always have the listed spells prepared.
 
-| Druid Level | Prepared Spells |
+| Druid Level | Spells Prepared |
 |:---:|:---|
 | 3 | Cure Wounds, Moonbeam, Starry Wisp |
 | 5 | Vampiric Touch |

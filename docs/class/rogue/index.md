@@ -120,7 +120,7 @@ As a Bonus Action, you give yourself Advantage on your next attack roll on the c
 
 ## Ability Score Improvement – Level 4
 
-You gain the [Ability Score Improvement](../../feat/feat-4th-level.md#ability-scores-improvement) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](../../character-creation/feat/feat-4th-level.md#ability-scores-improvement) feat or another feat of your choice for which you qualify.
 
 As shown on the Rogue table, you gain this feature again at levels 8, 12, 16, and 19.
  

@@ -18,7 +18,7 @@ Sorcerers don’t learn magic; the raw, roiling chaos of magic is part of them. 
 
 Sorcerers are rare. Some family lines produce exactly one Sorcerer in every generation, but most of the time, the talents of sorcery appear as a fluke. People who have this magical power soon discover that the power doesn’t like to stay quiet. A Sorcerer’s magic wants to be wielded, and it tends to spill out in unpredictable ways if it isn’t.
 
-| Level | Prof. Bonus | Class Features | Sorcery Points | Cantrips | Prepared Spells | I | II | III | IV | V | VI | VII | VIII | IX |
+| Level | Prof. Bonus | Class Features | Sorcery Points | Cantrips | Spells Prepared | I | II | III | IV | V | VI | VII | VIII | IX |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | +2 | Innate Sorcery, Spellcasting | — | 4 | 2 | 2 | — | — | — | — | — | — | — | — |
 | 2 | +2 | Font of Magic, Metamagic | 2 | 4 | 4 | 3 | — | — | — | — | — | — | — | — |
@@ -70,7 +70,7 @@ As a level 1 character, you start with the following equipment:
 
 Or you can forgo it and spend 500 SP on equipment of your choice.
 
-LEVEL 1: SPELLCASTING
+## Level 1: Spellcasting
 
 Drawing from your innate magic, you can cast spells. See the Player’s Handbook for rules on spellcasting. The information below details how you use those rules as a Sorcerer.
 

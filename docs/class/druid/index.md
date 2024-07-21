@@ -1,3 +1,7 @@
+---
+icon: class/druid
+---
+
 !!! danger "Experimental Material"
 
     This class is an experimental material from Unearthed Arcana that may subject to change on the upcoming 2024 Player's Handbook.  
@@ -23,7 +27,7 @@ Druids are also concerned with the delicate ecological balance that sustains pla
 Druids are often found guarding sacred sites or watching over regions of unspoiled nature. But when a significant danger arises, threatening nature’s balance or the lands they protect, Druids take a more active role as adventurers who combat the threat.
 
 #### Druid Table
-| Level | Proficiency Bonus | Features | Wild Shape | Cantrips Known | Prepared Spells | I | II | III | IV | V | VI | VII | VIII | IX |
+| Level | Prof. Bonus | Features | Wild Shape | Cantrips Known | Spells Prepared | I | II | III | IV | V | VI | VII | VIII | IX |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1st | +2 | Druidic, Primal Order Spellcasting | – | 2 | 4 | 2 | - | - | - | - | - | - | - | - |
 | 2nd | +2 | Wild Companion, Wild Shape | 2 | 2 | 5 | 3 | - | - | - | - | - | - | - | - |
@@ -181,7 +185,7 @@ A subclass is a specialization that grants you special abilities at certain Drui
 
 ## Ability Score Improvement – Level 4
 
-You gain the [Ability Score Improvement](../../feat/feat-4th-level.md#ability-scores-improvement) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](../../character-creation/feat/feat-4th-level.md#ability-scores-improvement) feat or another feat of your choice for which you qualify.
 
 As shown on the Druid table, you gain this feature again at levels 8, 12, 16, and 19.
 

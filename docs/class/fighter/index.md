@@ -121,7 +121,7 @@ A subclass is a specialization that grants you special features at certain Fight
 
 ## Level 4: Ability Score Improvement
 
-You gain the [Ability Score Improvement](../../feat/feat-4th-level.md#ability-scores-improvement) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](../../character-creation/feat/feat-4th-level.md#ability-scores-improvement) feat or another feat of your choice for which you qualify.
 
 As shown on the Fighter table, you gain this feature again at levels 6, 8, 12, 14, 16, and 19.
 

@@ -8,7 +8,7 @@ Gods of the War Domain watch over warriors and reward them for their great deeds
 
 Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Life Domain Spells table, you thereafter always have the listed spells prepared.
 
-| Cleric Level | Prepared Spells |
+| Cleric Level | Spells Prepared |
 | :-: | --- |
 | 3 | [Divine Favor], [Magic Weapon], [Shield of Faith], [Spiritual Weapon] |
 | 5 | [Crusader’s Mantle], [Spirit Guardians] |

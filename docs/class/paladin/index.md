@@ -128,7 +128,7 @@ In addition, you can cast one of your prepared spells from this feature without 
 #### Smite Spells
 
 | Palading Level | Spells |
-|:---:|:---:|
+|:---:|:---|
 | 2 | Divine Smite, Thunderous Smite |
 | 5 | Shining Smite |
 | 9 | Blinding Smite |
@@ -166,7 +166,7 @@ A subclass is a specialization that grants you special abilities at certain Pala
 
 ## Level 4: Ability Score Improvement
 
-You gain the [Ability Score Improvement](../../feat/feat-4th-level.md#ability-scores-improvement) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](../../character-creation/feat/feat-4th-level.md#ability-scores-improvement) feat or another feat of your choice for which you qualify.
 
 As shown on the Bard table, you gain this feature again at levels 8, 12, 16, and 19.
 

@@ -11,7 +11,7 @@ Religious orders that operate in secret, especially those that seek to undermine
 
 Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Trickery Domain Spells table, you thereafter always have the listed spells prepared.
 
-| Cleric Level | Prepared Spells |
+| Cleric Level | Spells Prepared |
 | :---: | --- |
 | 3 | [Charm Person], [Disguise Self], [Invisibility], [Pass without Trace] |
 | 5 | [Hypnotic Pattern], [Nondetection] |

@@ -23,7 +23,7 @@ Not every singer or poet in a tavern or jester in a royal court is a Bard. Harne
 
 #### Bard Table
 
-| Bard Level | Prof. Bonus | Class Feature | Bardic Die | Bardic Inspiration | Prepared Spells | I | II | III | IV | V | VI | VII | VIII | IX |
+| Bard Level | Prof. Bonus | Class Feature | Bardic Die | Bardic Inspiration | Spells Prepared | I | II | III | IV | V | VI | VII | VIII | IX |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | +2 | Bardic Inspiration, Spellcasting | d6 | 2 | 4 | 2 | — | — | — | — | — | — | — | — |
 | 2 | +2 | Expertise, Jack of All Trades | d6 | 2 | 5 | 3 | — | — | — | — | — | — | — | — |
@@ -144,7 +144,7 @@ A subclass is a specialization that grants you special abilities at certain Bard
 
 ## Level 4: Ability Score Improvement
 
-You gain the [Ability Score Improvement](../../feat/feat-4th-level.md#ability-scores-improvement) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](../../character-creation/feat/feat-4th-level.md#ability-scores-improvement) feat or another feat of your choice for which you qualify.
 
 As shown on the Bard table, you gain this feature again at levels 8, 12, 16, and 19.
  

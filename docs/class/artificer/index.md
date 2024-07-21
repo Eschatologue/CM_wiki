@@ -12,28 +12,28 @@ icon: class/artificer
 
 #### Artificer Table
 
-| Level |  PB   | Features                                         | Infusions Known | Infused Items | Cantrips Known | Prepared Spells |   I   |  II   |  III  |  IV   |   V   |
-| :---: | :---: | :----------------------------------------------- | :-------------: | :-----------: | :------------: | :-------------: | :---: | :---: | :---: | :---: | :---: |
-|  1  |  +2   | [Magical Tinkering], [Spellcasting]              |        -        |       -       |       2        |        2        |   2   |   -   |   -   |   -   |   -   |
-|  2  |  +2   | [Infuse Item]                                    |        4        |       2       |       2        |        3        |   2   |   -   |   -   |   -   |   -   |
-|  3  |  +2   | [Subclass Feature], [The Right Tool for the Job] |        4        |       2       |       2        |        4        |   3   |   -   |   -   |   -   |   -   |
-|  4  |  +2   | [Ability Score Improvement]                      |        4        |       2       |       2        |        5        |   3   |   -   |   -   |   -   |   -   |
-|  5  |  +3   | [Subclass Feature]                               |        4        |       2       |       2        |        6        |   4   |   2   |   -   |   -   |   -   |
-|  6  |  +3   | [Tool Expertise]                                 |        6        |       3       |       2        |        6        |   4   |   2   |   -   |   -   |   -   |
-|  7  |  +3   | [Flash of Genius]                                |        6        |       3       |       2        |        7        |   4   |   3   |   -   |   -   |   -   |
-|  8 |  +3   | [Ability Score Improvement]                      |        6        |       3       |       2        |        7        |   4   |   3   |   -   |   -   |   -   |
-|  9 |  +4   | [Subclass Feature]                               |        6        |       3       |       2        |        9        |   4   |   3   |   2   |   -   |   -   |
-| 10 |  +4   | [Magic Item Adept]                               |        8        |       4       |       3        |        9        |   4   |   3   |   2   |   -   |   -   |
-| 11 |  +4   | [Spell-Storing Item]                             |        8        |       4       |       3        |       10        |   4   |   3   |   3   |   -   |   -   |
-| 12 |  +4   | [Ability Score Improvement]                      |        8        |       4       |       3        |       10        |   4   |   3   |   3   |   -   |   -   |
-| 13 |  +5   | -                                                |        8        |       4       |       3        |       11        |   4   |   3   |   3   |   1   |   -   |
-| 14 |  +5   | [Magic Item Savant]                              |       10        |       5       |       4        |       11        |   4   |   3   |   3   |   1   |   -   |
-| 15 |  +5   | [Subclass Feature]                               |       10        |       5       |       4        |       12        |   4   |   3   |   3   |   2   |   -   |
-| 16 |  +5   | [Ability Score Improvement]                      |       10        |       5       |       4        |       12        |   4   |   3   |   3   |   2   |   -   |
-| 17 |  +6   | -                                                |       10        |       5       |       4        |       14        |   4   |   3   |   3   |   3   |   1   |
-| 18 |  +6   | [Magic Item Master]                              |       12        |       6       |       4        |       14        |   4   |   3   |   3   |   3   |   1   |
-| 19 |  +6   | [Ability Score Improvement]                      |       12        |       6       |       4        |       15        |   4   |   3   |   3   |   3   |   2   |
-| 20 |  +6   | [Soul of Artifice]                               |       12        |       6       |       4        |       15        |   4   |   3   |   3   |   3   |   2   |
+| Level | PB | Features | Infusions Known | Infused Items | Cantrips Known | Spells Prepared | I | II | III | IV | V |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | +2 | [Magical Tinkering], [Spellcasting] | - | - | 2 | 2 | 2 | - | - | - | - |
+| 2 | +2 | [Infuse Item] | 4 | 2 | 2 | 3 | 2 | - | - | - | - |
+| 3 | +2 | [Subclass Feature], [The Right Tool for the Job] | 4 | 2 | 2 | 4 | 3 | - | - | - | - |
+| 4 | +2 | [Ability Score Improvement] | 4 | 2 | 2 | 5 | 3 | - | - | - | - |
+| 5 | +3 | [Subclass Feature] | 4 | 2 | 2 | 6 | 4 | 2 | - | - | - |
+| 6 | +3 | [Tool Expertise] | 6 | 3 | 2 | 6 | 4 | 2 | - | - | - |
+| 7 | +3 | [Flash of Genius] | 6 | 3 | 2 | 7 | 4 | 3 | - | - | - |
+| 8 | +3 | [Ability Score Improvement] | 6 | 3 | 2 | 7 | 4 | 3 | - | - | - |
+| 9 | +4 | [Subclass Feature] | 6 | 3 | 2 | 9 | 4 | 3 | 2 | - | - |
+| 10 | +4 | [Magic Item Adept] | 8 | 4 | 3 | 9 | 4 | 3 | 2 | - | - |
+| 11 | +4 | [Spell-Storing Item] | 8 | 4 | 3 | 10 | 4 | 3 | 3 | - | - |
+| 12 | +4 | [Ability Score Improvement] | 8 | 4 | 3 | 10 | 4 | 3 | 3 | - | - |
+| 13 | +5 | - | 8 | 4 | 3 | 11 | 4 | 3 | 3 | 1 | - |
+| 14 | +5 | [Magic Item Savant] | 10 | 5 | 4 | 11 | 4 | 3 | 3 | 1 | - |
+| 15 | +5 | [Subclass Feature] | 10 | 5 | 4 | 12 | 4 | 3 | 3 | 2 | - |
+| 16 | +5 | [Ability Score Improvement] | 10 | 5 | 4 | 12 | 4 | 3 | 3 | 2 | - |
+| 17 | +6 | - | 10 | 5 | 4 | 14 | 4 | 3 | 3 | 3 | 1 |
+| 18 | +6 | [Magic Item Master] | 12 | 6 | 4 | 14 | 4 | 3 | 3 | 3 | 1 |
+| 19 | +6 | [Ability Score Improvement] | 12 | 6 | 4 | 15 | 4 | 3 | 3 | 3 | 2 |
+| 20 | +6 | [Soul of Artifice] | 12 | 6 | 4 | 15 | 4 | 3 | 3 | 3 | 2 |
 
 ## Creating an Artificer
 
@@ -143,7 +143,7 @@ At **3rd level**, you've learned how to produce exactly the tool you need: with 
 
 ## Ability Score Improvement 
 
-When you reach **4th level**, **8th**, **12th**, **16th**, and **19th level**, you gain	the	[Ability Score Improvement](../../feat/feat-4th-level.md#ability-scores-improvement) feat or another feat of your choice for which you qualify.
+When you reach **4th level**, **8th**, **12th**, **16th**, and **19th level**, you gain	the	[Ability Score Improvement](../../character-creation/feat/feat-4th-level.md#ability-scores-improvement) feat or another feat of your choice for which you qualify.
 
 ## Tool Expertise
 

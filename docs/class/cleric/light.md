@@ -8,7 +8,7 @@ The Light Domain is associated with gods of truth, vigilance, beauty, insight, a
 
 Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Light Domain Spells table, you thereafter always have the listed spells prepared. 
 
-| Cleric Level | Prepared Spells |
+| Cleric Level | Spells Prepared |
 |:-:|---|
 | 3 | [Burning Hands], [Faerie Fire], [Moonbeam], [See Invisibility] |
 | 5 | [Daylight], [Fireball] |

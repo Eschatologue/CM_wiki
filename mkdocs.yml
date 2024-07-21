@@ -88,6 +88,14 @@ nav:
         - Clockwork Soul: class/sorcerer/clockwork.md
         - Draconic Bloodline: class/sorcerer/draconic.md
         - Wild Magic: class/sorcerer/wild.md
+      - Warlock:
+        - class/warlock/index.md
+        - Archfey: class/warlock/archfey.md
+        - Celestial: class/warlock/celestial.md
+        - Fiend: class/warlock/fiend.md
+        - Great Old One: class/warlock/great-old-one.md
+      - Wizard:
+        - class/wizard/index.md    
     - Priest Group:
       - Cleric:
         - class/cleric/index.md
