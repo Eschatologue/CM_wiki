@@ -10,6 +10,10 @@
     font-size: 0.65rem;
 }
 
+.md-sidebar--secondary {
+    font-size: 0.5rem;
+}
+
 .md-typeset strong {
     font-weight: 600;
 }

@@ -37,7 +37,6 @@ Your fey qualities give you a supernatural charm. As a result, whenever you make
 
 In addition, you gain proficiency in one of the following skills of your choice: Deception, Performance, or Persuasion.
 
-
 ## Beguiling Twist – Level 7
 
 The magic of the Feywild guards your mind. You have advantage on saving throws against being charmed or frightened.

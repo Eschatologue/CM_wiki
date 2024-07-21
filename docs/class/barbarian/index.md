@@ -48,10 +48,10 @@ icon: class/barbarian
 
 ### Proficiencies
 
-**Saving Throws:** Strength, Constitution
-**Skills (Choose 2)**: Animal Handling, Athletics, Intimidation, Nature, Perception, Survival
-**Weapons:** Simple Weapons, Martial Weapons
-**Tools**: None
+- **Saving Throws:** Strength, Constitution
+- **Skills (Choose 2)**: Animal Handling, Athletics, Intimidation, Nature, Perception, Survival
+- **Weapons:** Simple Weapons, Martial Weapons
+- **Tools**: None
 
 ### Armour Training
 

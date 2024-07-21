@@ -199,6 +199,7 @@ theme:
     - navigation.sections
     - navigation.tracking
     - navigation.indexes
+    - navigation.prune
     - toc.follow
     - content.tooltips
     - admonition
