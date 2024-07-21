@@ -29,7 +29,7 @@ Druids are often found guarding sacred sites or watching over regions of unspoil
 #### Druid Table
 | Level | Prof. Bonus | Features | Wild Shape | Cantrips Known | Spells Prepared | I | II | III | IV | V | VI | VII | VIII | IX |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1st | +2 | Druidic, Primal Order Spellcasting | – | 2 | 4 | 2 | - | - | - | - | - | - | - | - |
+| 1st | +2 | Druidic, Primal Order, Spellcasting | – | 2 | 4 | 2 | - | - | - | - | - | - | - | - |
 | 2nd | +2 | Wild Companion, Wild Shape | 2 | 2 | 5 | 3 | - | - | - | - | - | - | - | - |
 | 3rd | +2 | Druid Subclass | 2 | 2 | 6 | 4 | 2 | - | - | - | - | - | - | - |
 | 4th | +2 | Ability Score Improvement | 2 | 3 | 7 | 4 | 3 | - | - | - | - | - | - | - |
