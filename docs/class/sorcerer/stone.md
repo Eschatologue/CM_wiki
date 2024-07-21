@@ -17,7 +17,7 @@ Your affinity for metal gives you the option to learn some non-sorcerer spells t
 | Spell Level | Spell |
 |:-:|---|
 | I | Compelled Duel, Searing Smite, Thunderous Smite, Wrathful Smite |
-| II | Branding Smite, Magic Weapon, Blinding Smite, Elemental Weapon |
+| II | Branding Smite, Blinding Smite, Elemental Weapon, Magic Weapon |
 | IV | Staggering Smite |
 
 ## Level 3: Stone's Durability
