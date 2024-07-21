@@ -7,7 +7,7 @@
 .md-typeset {
     text-justify: auto;
     font-weight: 300;
-    font-size: 0.75rem;
+    font-size: 0.65rem;
 }
 
 .md-typeset strong {
@@ -132,7 +132,7 @@
 /* Table Size and Appearance */
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
-    font-size: 0.6rem;
+    font-size: 0.55rem;
     padding-left: 8px;
     padding-right: 8px;
     border-bottom: rgba(255, 255, 255, 0.12);
