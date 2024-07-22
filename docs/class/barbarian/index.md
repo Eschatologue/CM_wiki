@@ -67,7 +67,7 @@ As a level 1 character, you start with the following equipment:
 
 Or you can forgo it and spend 750 SP on equipment of your choice.
 
-## Rage – Level 1
+## Level 1: Rage
 
 You can imbue yourself with a primal power that is called your Rage, a force that grants you extraordinary might and resilience. You can enter it as a Bonus Action, provided you aren’t wearing Heavy Armor.
 While active, your Rage has the following effects:
