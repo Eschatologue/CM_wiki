@@ -8,13 +8,6 @@ icon: dnd/stat-spellcasting
 
 </p>
 
-| rogue level | gimmick feature |
-|:-:|:-:|
-| 1st | [Bonus Proficiencies](#bonus-proficiencies-level-1), [Clairvoyance](#clairvoyance-level-1) |
-| 3rd | [Spellcasting](#spellcasting-level-3), [Dekrat Special](#dekrats-special-level-3), [Spellbreaker's Mark](#spellbreakers-mark-level-3) |
-| 4th | [The People's Eyebrow](#the-peoples-eyebrow-level-4) |
-| 7th | [Resurgence](#resurgence-level-7) |
-
 # Sorcerous Origin: Spellbreaker
 
 *"Sortilege," a Gallian word used for sorcerers, are unlike wizards or others; they're given the power to weave magic as their birthright. You too are this so-called "Sortilege," but your power doesn't stem from weaving spells, but from binding and severing them—a Spellbreaker.*
@@ -140,21 +133,11 @@ Moroever, you gain additional benefits against your Quarry:
 
 When you see a creature casting a spell or teleporting within 60 feet of you, you can use a :rsc-reaction: **Reaction** to expend a :rsc-spell-slot: **Spell Slot** to try magically foils it.
 
-If the spell was cast at a level equal to the level of the :rsc-spell-slot: **Spell Slot** you expended or lower, the spell fails and has no effect. If it was cast at a level higher than the slot you expended, make a :die-d20:Charisma **Ability Check** against DC of 10 + the level of the spell, the spell fails and has no effect when you succeed the check.
+If the spell was cast at a level equal to the level of the :rsc-spell-slot: **Spell Slot** you expended or lower, the spell fails and has no effect. If it was cast at a level higher than the slot you expended, make a :ability-cha: Charisma :d20-check: **Ability Check** against DC of 10 + the level of the spell, the spell fails and has no effect when you succeed the check.
 
-## Level 13: Flourish of Weaves
+## Level 9: The People's Smite
 
-*You bent the laws of spellcasting even further, possibly causing a mage to lose their mind when they see you use magic.*
-
-When you deal Sneak Attack damage and channel a spell using Dekrat's Special, you can forego some of the dice to channel a spell of equivalent level without expending a spell slot. You remove the die before rolling, and the effect of the spell occurs immediately after the attack’s damage is dealt, under the rules of Dekrat's Special. Refer to the table's below to see how many Sneak Attack dice you must forego to cast spells, a spell cannot be upcasted using this method.
-
-| Die Cost | Spell Level |
-|:-:|:-:|
-| 2d6 | I |
-| 4d6 | II |
-| 6d6 | III |
-| 8d6 | IV |
-| 10d6 | V | 
+When you hit a creature or object that is under the effects of a spell (e.g [Haste] or [Stoneskin]) , or attack a spell directly (e.g [Unseen Servant] or [Leomunds Tiny Hut]), with a weapon attack, you can expend a spell slot and attempt to dispel the spell. If the spell you hit was cast at a level equal to the level of spell slot you expended or lower, the spell ends. If the spell was cast at a level higher than the spell slot you expend and your :d20-attack: **Attack Roll** exceeds 12 + twice the level of the spell, the spell ends.
 
 ---
 
