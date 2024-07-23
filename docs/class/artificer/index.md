@@ -13,7 +13,7 @@ icon: class/artificer
 #### Artificer Table
 
 | Level | PB | Features | Infusions Known | Infused Items | Cantrips Known | Spells Prepared | I | II | III | IV | V |
-|---|---|---|---|---|---|---|---|---|---|---|---|
+|:-:|:-:|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 1 | +2 | [Magical Tinkering], [Spellcasting] | - | - | 2 | 2 | 2 | - | - | - | - |
 | 2 | +2 | [Infuse Item] | 4 | 2 | 2 | 3 | 2 | - | - | - | - |
 | 3 | +2 | [Subclass Feature], [The Right Tool for the Job] | 4 | 2 | 2 | 4 | 3 | - | - | - | - |

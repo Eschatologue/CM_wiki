@@ -34,7 +34,7 @@
 /* H2 - Secondary Heading with border bottom */
 .md-typeset h2 {
     border-bottom: 1.25px solid rgba(255, 255, 255, 0.12);
-    margin-bottom: 2px;
+    margin-bottom: 12px;
 }
 
 /* H3 - Tertiary Heading with line after */

@@ -1,7 +1,5 @@
 ---
 icon: material/fire
-hide:
-  - toc
 ---
 
 | barbarian level | gimmick feature |
@@ -28,17 +26,17 @@ hide:
 
 **The Joy of Fishing.** You gain Proficiency with [Fishing Supplies](../../equipment/tools/artisan-tools.md#fishing-supplies) if you don't already have it.
 
-## Cold Rage <span style="float:right;"> <small> Level 1 </small> </span>
+## Level 1: Cold Rage
 
 You've witnessed the ravages of unbridled anger, the toll it takes on the innocent and the cherished. But you are different; even the mightiest of flames can be tamed.
 
 When you use your :fontawesome-solid-hand-fist: **Rage**, instead of flying into a primal ferocity, you instead fall into a chilling silence, your eyes void of all emotion as you prepare to cut through everything with ruthless precision.
 
-## Primordial Conflagration <span style="float:right;"> <small> Level 3 </small> </span>
+## Level 3: Primordial Conflagration 
 
-You have the ability to channel the lethal repercussion of speaking Celestial to your advantage, allowing you to use the curse put on by the heavens to smite your foes!
+You have the ability to channel the lethal repercussion of speaking Celestial to your advantage, allowing you to use the curse put on by the heavens to smite your foes.
 
-Whenever you activate your :fontawesome-solid-hand-fist: **Rage**, or once as a :rsc-bonus-action: **Bonus Action** while **raging** you can roll a :die-d12:d12, expending Hit Points equal to the result and enhance your attacks with Primordial Flare for the **Rage** duration. Whenever you hit a creature with a weapon attack that benefits from your :fontawesome-solid-hand-fist: **Rage** damage, it deals extra :material-fire: **Fire** damage equal to :die-d8:1d8 + your Constitution Modifier.
+Whenever you :fontawesome-solid-hand-fist: **Rage**, or once as a :rsc-bonus-action: **Bonus Action** while **raging** you can roll a :die-d12:d12, expending Hit Points equal to the result and enhance your attacks with Primordial Flare for the **Rage** duration. Whenever you hit a creature with a weapon attack that benefits from your :fontawesome-solid-hand-fist: **Rage** damage, it deals extra :material-fire: **Fire** damage equal to :die-d8:1d8 + your Constitution Modifier.
 
 ## Improved Totemic Spirit <span style="float:right;"> <small> Level 3 </small> </span>
 
