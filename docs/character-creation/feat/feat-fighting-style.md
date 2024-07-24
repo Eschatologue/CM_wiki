@@ -139,7 +139,8 @@ When you hit an attack with a Cold Weapon using two hands, you treat a ^^total^^
 The Weapon must have the :weapon-prop-heavy: **[Heavy]** property to gain this benefit.
 
 ### Marksman
-*Level 1 Feat*
+
+*Fighting Style - Homebrew*  
 
 **Prerequisites:** Warrior Group, *Fighting Style* Feature, or [Fighting Initiate] feat  
 **Repeatable:** No
@@ -173,15 +174,15 @@ You gain Proficiency with Shields and it can be used as a Martial Melee Weapon t
 *Fighting Style - Homebrew*
 
 **Prerequisites:** Warrior Group, *Fighting Style* Feature, or [Fighting Initiate] feat  
-**Repeatable:** None
+**Repeatable:** No.
 
 You specialise one weapon rather than many. Choose one weapon that you are Proficient with to be your Signature Weapon. When you make an attack with that type of weapon, its damage die increases by one size as shown on the table below.
 
-| Orginal Damage Die | Signature Damage Die | Orginal Damage Die | Signature Damage Die |
-|:-:|:-:|:-:|:-:| 
-| 1 | 1d4 | 2d4 / 1d8 | 1d10 |
-| 1d4 | 1d6 | 1d10 | 1d12 |
-| 1d6 | 1d8 | 2d6 / 1d12 | 2d6 + 1 / 1d12 + 1 |
+| Orginal Damage Die | | Signature Damage Die | Orginal Damage Die | | Signature Damage Die |
+|:-:|:-:|:-:|:-:|:-:|:-:| 
+| 1 | >>> | 1d4 | 2d4 / 1d8 | >>> | 1d10 |
+| 1d4 | >>> | 1d6 | 1d10 | >>> | 1d12 |
+| 1d6 | >>> | 1d8 | 2d6 / 1d12 | >>> | 2d6 + 1 / 1d12 + 1 |
 
 You can change your Signature Weapon when you gain a level in a class that has this feat.
 
