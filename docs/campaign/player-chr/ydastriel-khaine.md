@@ -1,7 +1,5 @@
 ---
 icon: material/star-four-points
-hide:
-  - toc
 ---
 
 <p style="text-align: center;">
@@ -10,18 +8,13 @@ hide:
 
 </p>
 
-| druid level | gimmick feature |
-|:-:|:-:|
-| 2nd | [Cosmic Weave], [Bonus Cantrip] |
-| 3rd | [Spire's Resonance] |
-
 # Parable of the Stars
 
 *Seven Spires with seven Ascent, each represents a concept and in some ways a purpose, and those who follows a specific Ascent can draw powers from it. The spires are beings of higher power, some can say they even trancends the concept of God that we once has.* 
 
 *You, child of the star are chosen with the purpose to reveal the secrets behind the Spires and their influences upon this world, will you bring this forsaken world salvation it needs or the destruction it deserves?*
 
-## Cosmic Weave <span style="float:right;"> <small> Level 2 </small> </span>
+## Level 2: Cosmic Weave
 
 Your connection with the cosmic energies grants you access to some spells when you reach a certain level in this class, as shown on your class Spells table.
 
@@ -52,13 +45,13 @@ Once you gain access to one of these spells, you always have it prepared, and it
 [temporal shunt]: ../../spells/5th-level.md#temporal-shunt
 [circle of power]: ../../spells/5th-level.md#circle-of-power
 
-## Bonus Cantrip <span style="float:right;"> <small> Level 2 </small> </span>
+## Level 2: Bonus Cantrip
 
 You have the ability to unleash the power which Spires draws from. You learn the *[Cosmic Flare]* cantrip, it counts as druid cantrip for you and it doesn't count against the number of druid cantrips you know.
 
 While holding your Star Map, you can add your spellcasting modifier to the cantrip's damage roll.
 
-## Spire's Resonance <span style="float:right;"> <small> Level 3 </small> </span>
+## Level 3: Spire's Resonance
 
 Your growing understanding of the Spires and their role in Antares has granted you the ability to draw powers from the ascents they represent.
 
@@ -146,7 +139,3 @@ Upon gaining this class feature, you gain additional Starry Forms tied to specif
 
 
 [Cosmic Flare]: ../../spells/cantrip.md#cosmic-flare
-
-[Cosmic Weave]: #cosmic-weave-level-2
-[Bonus Cantrip]: #bonus-cantrip-level-2
-[Spire's Resonance]: #spires-resonance-level-3
