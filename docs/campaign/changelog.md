@@ -5,10 +5,18 @@
 Feat Fixing update, this update streamlines all the available feats, removed and combined some redundant ones, with additions of new ones.
 
 - **Removed Feats**
-    - **Starting**. Spear Specialist, Sling Specialist, Staff Specialist.
+    - **Starting.** Sling Specialist, Staff Specialist.
+
+- **Altered Feats**
+    - **4th-level.** Shield Master
 
 - **New Feats**
-    - **Fighting Style.** Signature Weapon
+    - **Fighting Style.** Signature Weapon, Shield Warrior
+
+- **Moved Feats**
+    - *Keen Mind* is now a Level 1 Feat.
+    - *Marksman* is now a Fighting Style
+
 
 ## 1.2 | 07 July 2024
 

@@ -46,7 +46,7 @@ Martial weapons require more training to use effectively but offer greater damag
 ##### Martial Weapons: Melee
 | name | damage | properties | cost |
 | :-- | :-- | --- | --: |
-| Battleaxe | 1d8 :dmg-slashing: Slashing | Versatile (1d10) | 100 sp |
+| Battleaxe | 1d8 :dmg-slashing: Slashing | Thrown (30/90)^NEW^, Versatile (1d10) | 100 sp |
 | Estoc^NEW^ | 1d8 :dmg-piercing: Piercing | Finesse, Versatile (1d10) | 300 sp |
 | Flail | 1d8 :dmg-bludgeoning: Bludgeoning | - | 100 sp |
 | Glaive | 1d10 :dmg-slashing: Slashing | Heavy, Reach, Two-handed | 200 sp | 
@@ -64,7 +64,7 @@ Martial weapons require more training to use effectively but offer greater damag
 | Shortsword | 1d6 :dmg-piercing: Piercing | Finesse, Light |  100 sp |
 | Trident | 1d6 :dmg-piercing: Piercing | Thrown (20/60), Versatile (1d8) | 50 sp |
 | War pick | 1d8 :dmg-piercing: Piercing | - | 50 sp |
-| Warhammer | 1d8 :dmg-bludgeoning: Bludgeoning | Versatile (1d10) | 150 sp |
+| Warhammer | 1d8 :dmg-bludgeoning: Bludgeoning | Thrown (30/90)^NEW^, Versatile (1d10) | 150 sp |
 | Whip | 1d4 :dmg-slashing: Slashing | Finesse, Reach | 20 sp |
 
 ##### Martial Weapons: Ranged

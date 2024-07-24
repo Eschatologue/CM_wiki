@@ -4,7 +4,7 @@ icon: material/cards-playing-spade
 
 ### Acrobat
 
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** Dexterity 13+ or Dexterity (Acrobatics) Proficiency  
 **Repeatable:** No
@@ -21,7 +21,7 @@ You become more nimble, gaining the following benefits:
 
 ### Actor
 
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** Charisma 13+ or Charisma (Perfomance) Proficiency  
 **Repeatable:** No
@@ -42,7 +42,7 @@ You've learned how to act, performs, and copy others personality:
 
 ### Advanced Alchemy
 
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** Intelligence 13+  
 **Repeatable:** No
@@ -51,7 +51,7 @@ You have studied the secrets of alchemy and are an expert in its practice, gaini
 
 - **Chemistry Expert** 
 
-    You gain Proficiency with alchemist’s supplies. If you are already proficient with them, you add double your Proficiency Bonus to checks you make with them.
+    You gain Proficiency with Alchemist’s Supplies. If you are already proficient with them, you add double your Proficiency Bonus to checks you make with them.
 
 - **Chemical Connoisseur** 
 
@@ -59,13 +59,13 @@ You have studied the secrets of alchemy and are an expert in its practice, gaini
 
 - **Alchemical Genius** 
 
-    Over the course of any short rest, you can temporarily improve the potency of one potion of healing of any rarity. To use this benefit, you must have alchemist’s supplies with you, and the potion must be within reach.
+    Over the course of any short rest, you can temporarily improve the potency of one potion of healing of any rarity. To use this benefit, you must have Alchemist’s Supplies with you, and the potion must be within reach.
 
     If the potion is drunk no more than 1 hour after the short rest ends, the creature drinking the potion can forgo the potion’s die roll and regains the maximum number of Hit Points that the potion can restore.
 
 ### Alert
 
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** None  
 **Repeatable:** No
@@ -82,7 +82,7 @@ Always on the lookout for danger, you gain the following benefits:
 
 ### Arcanist
 
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** Spellcasting/Pact Magic feature or Intelligence (Arcana) Proficiency  
 **Repeatable:** No
@@ -91,7 +91,7 @@ You study the arcane arts, gaining the following benefits:
 
 - **Arcane Sense** 
 
-    You gain Proficiency in the Arcana skill. If you are already proficient in the skill, you add double your Proficiency Bonus to checks you make with it.
+    You gain Proficiency in the Intelligence (Arcana) skill. If you are already proficient in the skill, you add double your Proficiency Bonus to checks you make with it.
 
 - **Magical Trickster** 
 
@@ -99,22 +99,22 @@ You study the arcane arts, gaining the following benefits:
 
 ### Armour Training
 
-*1st-level Feat*
+*Level 1 Feat*
 
-**Prerequisites:** None
-**Repeatable:** Yes, if you are already proficient with medium armour when you select this feat, you gain Proficiency with heavy armour.
+**Prerequisites:** None  
+**Repeatable:** Yes, if you are already proficient with Medium Armour when you select this feat, you gain Proficiency with Heavy Armour.
 
 You have trained to master the use of armour. 
 
 - **Armour Proficiency** 
 
-    You gain Proficiency with light armour. If you are already proficient with light armour when you select this talent, you gain Proficiency with medium armour and shields. 
+    You gain Armour Training with Light Armour. If you are already Armour Training with Light Armour when you select this feat, you gain Armour Training with Medium Armour and Shields. 
 
 ### Artifice Adept
-*1st-level Feat*
+*Level 1 Feat*
 
-**Prerequisites:** Expert or Mage Group.  
-**Repeatable:** Yes, choose a different Infusion each time.
+**Prerequisites:** Expert or Mage Group  
+**Repeatable:** Yes, choose a different Infusion each time
 
 You have studied how to perform minor augmentation to your equipment.
 
@@ -126,7 +126,7 @@ You have studied how to perform minor augmentation to your equipment.
 
 ### Artificer Initiate
 
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** None  
 **Repeatable:** No
@@ -147,7 +147,7 @@ You've learned some of an artificer's inventiveness.
 
 ### Athlete
 
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** Strength, Dexterity, or Constitution 13+  
 **Repeatable:** No
@@ -166,7 +166,7 @@ You've learned some of an artificer's inventiveness.
 
 ### Brew Master
 
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** None  
 **Repeatable:** No
@@ -191,7 +191,7 @@ The bar is your home, the countertop is your canvas, cocktails are your art.
 
 ### Burglar
 
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** None  
 **Repeatable:** No
@@ -212,7 +212,7 @@ You pride yourself on your quickness and your close study of certain clandestine
 
 ### Carpenter
 
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** None  
 **Repeatable:** No
@@ -233,7 +233,7 @@ Your knowledge of wooden structures is widely applicable throughout your adventu
 
 ### Chef
 
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** None  
 **Repeatable:** No
@@ -256,7 +256,7 @@ Time spent mastering the culinary arts has paid off, granting you the following 
 
 ### Crafter
 
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** None  
 **Repeatable:** No
@@ -276,7 +276,7 @@ You are adept at crafting things and bargaining with merchants, granting you the
     When you craft an item using a tool with which you have Tool Proficiency, the required crafting time is reduced by 20 percent
 
 ### Edritch Adept
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** Spellcasting/Pact Magic feature; Mage Group  
 **Repeatable:** Yes, choose a different invocations each time.
@@ -292,7 +292,7 @@ You have studied occult lore and perhaps, forbidden knowledge.
     Whenever you gain a level, you can replace the invocation with another one from the Warlock class.
 
 ### Gambler
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** None  
 **Repeatable:** No
@@ -316,7 +316,7 @@ Spending countless hours winning and losing coin in alestained taverns has forge
     On recieving spoils won from gambling, roll a d100. On a 25 or below, a common magic item of the DM’s choice is included in the reward. On a 10 or below, this item is instead of the uncommon rarity.
 
 ### Healer
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** None  
 **Repeatable:** No
@@ -332,7 +332,7 @@ You have the training and intuition to administer first aid and other care effec
     Whenever you roll a die to determine the number of Hit Points you restore with a spell or with this feat’s Battle Medic benefit, you can reroll the die if it rolls a 1, and you must use the new roll.
 
 ### Herbalist
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** None    
 **Repeatable:** No
@@ -352,7 +352,7 @@ You excel at the identification and use of herbs and other natural substances fo
     As part of a short rest, you can use your herbalism kit to administer an herbal remedy that helps a creature recover from their ailments. The creature gains :d20-adv: **Advantage** on :d20-save: **Saving Throws** against poison and disease for the next hour.
 
 ### Historian
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** Intelligence 13+ or Intelligence (History) Proficiency  
 **Repeatable:** No
@@ -367,8 +367,33 @@ Your study of history rewards you with the following benefits:
     
     When you take the Help action to aid another creature’s :d20-check: **Ability Check**, you can make a DC 15 Intelligence (History) check. On a success, that creature’s check gains a bonus equal to your Proficiency Bonus, as you share pertinent advice and historical examples. To receive this bonus, the creature must be able to understand what you’re saying.
 
+### Keen Mind
+
+*Level 1 Feat*
+
+**Prerequisite:** Intelligence 13+  
+**Repeatable:** No
+
+You have can to rapidly recall or discover vital details, granting you the following benefits:
+    
+- **Investigator**
+    
+    You gain :material-lightbulb-on: Proficiency in the Intelligence (Investigation) skill. If you are already proficient in the skill, you add double your Proficiency Bonus to checks you make with it.
+    
+- **Lore Knowledge**
+    
+    You add half your Proficiency Bonus (rounded down) to to any Intelligence-based skill check that you are not proficient in.
+    
+- **Northward**
+    
+    You always know which way is north.
+    
+- **Internal Clock**
+    
+    You always know the number of hours left before the next sunrise or sunset.
+
 ### Linguist
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** Intelligence or Wisdom 13+  
 **Repeatable:** No
@@ -388,7 +413,7 @@ You have studied languages and codes, gaining the following benefits:
     If you spend 1 minute analyzing a language you do not know, you can discern small bits of information such as intent, direction, and emotion.
 
 ### Lucky
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** None
 **Repeatable:** No
@@ -408,10 +433,10 @@ You have inexplicable luck that can kick in at just the right moment, granting y
     When a creature rolls a d20 for an :d20-attack: **Attack Roll** against you, you can spend 1 Luck Point to impose :d20-disadv: **Disadvantage** on that roll.
 
 ### Magic Initiate
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** None  
-**Repeatable:** Yes
+**Repeatable:** Yes, choose a different Spell list each time.
 
 You must choose a different Spell list each time you pick this feat. Choose a class: bard, cleric, druid, sorcerer, Warlock, or wizard. 
 
@@ -428,7 +453,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these Spells 
 Whenever you gain a new level, you can replace one of the Spells you chose for this Feat with a different Spell of the same level from the chosen Spell list.
 
 ### Mariner
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** None  
 **Repeatable:** No
@@ -446,37 +471,9 @@ You have spent time at sea and learned to use the tools of a mariner in combat. 
 - **Combat Net**
     
     When you make a ranged attack with a net, you do not have :d20-disadv: **Disadvantage** due to being within 5 feet of hostile creatures.
-    
-- **Trident Master**
-    
-    When you wield a trident with one hand, its damage die changes to 1d8 from 1d6. When you wield a trident with two hands, its damage die changes to 1d10 from 1d8.
-    
-- **Long Trident**
-    
-    Tridents count as having the reach property for you. There is no penalty for throwing a trident underwater for you.
-
-### Marksman
-*1st-level Feat*
-
-**Prerequisites:** None  
-**Repeatable:** No
-
-You are an expert at hitting your mark with ranged weapons, gaining the following benefits:
-
-- **Prone Crawl**
-    
-    Being prone doesn’t impose :d20-disadv: **Disadvantage** on your ranged weapon attacks.
-    
-- **Sniper**
-    
-    Attacking a prone target doesn’t impose :d20-disadv: **Disadvantage** on your ranged weapon :d20-attack: **Attack Roll**s if the target is within your weapon’s normal range.
-    
-- **Steady Aim**
-    
-    If you haven’t moved since the start of your turn, you can use a :rsc-bonus-action: **Bonus Action** to steady your aim. Until the end of your next turn, you have :d20-adv: **Advantage** on the next ranged weapon :d20-attack: **Attack Roll** you make. This effect ends early if you move or take damage.
 
 ### Miner
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** None  
 **Repeatable:** No
@@ -496,7 +493,7 @@ You’ve spent a great deal of time underground and have learned how to survive 
     When you hit a creature with a warpick on your turn and are also wielding a light hammer or warhammer, you can immediately use a :rsc-bonus-action: **Bonus Action** to hammer the pick into the creature. If you do, the creature takes additional piercing damage equal to 1d8 + your Strength modifier.
 
 ### Musician
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** None  
 **Repeatable:** No
@@ -512,7 +509,7 @@ You are a practiced musician, granting you the following benefits:
     As you finish a Short Rest or a Long Rest, you can play a song on a Musical Instrument with which you have Tool Proficiency and give Inspiration to allies who hear the song. The number of allies you can affect in this way equals your Proficiency Bonus.
 
 ### Naturalist
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** Intelligence or Wisdom 13+, or Nature Proficiency  
 **Repeatable:** No
@@ -527,9 +524,30 @@ You are a practiced musician, granting you the following benefits:
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these Spells (choose when you select this Feat).
 
+### Observant
+
+*Level 4 Feat*
+
+**Prerequisite:** Intelligence or Wisdom 13+  
+**Repeatable:** No
+
+Quick to notice details of your environment, you gain the following benefits:
+
+- **Keen Observer**
+    
+    Choose one of the following Skills: Insight or Perception. If you lack Proficiency with the chosen Skill, you gain Proficiency in it, and if you have Proficiency in it, you gain Expertise in it.
+    
+- **Lip Reader**
+    
+    If you can see a creature’s mouth while it is speaking a language you understand, you can interpret what it’s saying by reading its lips.
+    
+- **Keen**
+    
+    You take no penalties to your perception while moving quickly or peering into dim light.
+
 ### Savage Attacker
 
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** Strength 13+; Warrior Group  
 **Repeatable:** No
@@ -542,7 +560,7 @@ You have trained to deal particularly damaging strikes.
 
 ### Skilled
 
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** None  
 **Repeatable:** Yes, choose different skill each time.
@@ -553,9 +571,30 @@ You have exceptionally broad learning.
     
     Choose three Skills in which you lack Proficiency. You gain Proficiency in those Skills.
 
+### Spear Specialist
+
+*Level 1 Feat*
+
+**Prerequisites:** Simple Weapon Proficiency  
+**Repeatable:** None
+
+You have trained to become a deadly warrior with pole weapons, capable of making lunging attacks and long-distance throws. You gain the following benefits:
+
+- **Spear Warrior**
+    
+    When you use a Javelin, Spear, or Trident, its damage die increases from a :die-d6: d6 to a :die-d8: d8, and from a :die-d8: d8 to a :die-d10: d10 when wielded with Two-hands.
+    
+- **Quick Reach**
+    
+    When you wield a Javelin, Spear, or Trident it is considered a to have the :weapon-prop-reach: **Reach** property for you.
+    
+- **Spear Master**
+    
+    You can make a ranged attack with a Javelin, Spear, or Trident up to its long range without :d20-disadv: **Disadvantage**, even underwater.
+
 ### Spell and Blades^HB^
 
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** Warrior or Expert Group  
 **Repeatable:** Yes, you must choose a different Spell list each time you pick this feat. 
@@ -575,7 +614,7 @@ You learn how to wield both spells and weapons effectively. Choose between Palad
 Whenever you gain a new level, you can replace one of the Spells you chose for this Feat with a different Spell of the same level from the chosen Spell list.
 
 ### Tavern Brawler
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** None  
 **Repeatable:** No
@@ -599,7 +638,7 @@ Accustomed to brawling, you gain the following benefits:
     You can wield furniture as a Weapon, using the rules of the Greatclub for Small or Medium furniture and the rules of the Club for Tiny furniture
 
 ### Theologian
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** Wisdom or Intelligence 13+, or Religion profiency  
 **Repeatable:** No
@@ -617,7 +656,7 @@ Your extensive study of religion rewards you with the following benefits:
     If you already know *thaumaturgy*, you gain another cantrip from the Cleric spell list.
 
 ### Thrown Arms Master
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** None  
 **Repeatable:** No
@@ -626,7 +665,7 @@ You’ve honed your ability to lob weaponry into the fray, including weapons not
 
 - **Wrist trick**
     
-    Simple and martial melee weapons without the :weapon-prop-thrown: **Thrown** property can be treated as if they have the :weapon-prop-thrown: **Thrown** property. One-handed weapons have a range of 20/60, while Two-handed weapons have a range of 15/30.
+    Simple and Martial melee weapons without the :weapon-prop-thrown: **Thrown** property can be treated as if they have the :weapon-prop-thrown: **Thrown** property. One-handed weapons have a range of 20/60, while Two-handed weapons have a range of 15/30.
     
 - **Extended aim**
     
@@ -638,7 +677,7 @@ You’ve honed your ability to lob weaponry into the fray, including weapons not
 
 ### Titan Hunter
 
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** Expert or Warrior Group  
 **Repeatable:** No
@@ -655,7 +694,7 @@ You can spot the weaknesses in a foe’s defenses. You gain the following benefi
 
 ### Tough
 
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** None  
 **Repeatable:** No
@@ -668,7 +707,7 @@ You are more resilient than others.
 
 ### Whip Master
 
-*1st-level Feat*
+*Level 1 Feat*
 
 **Prerequisites:** None  
 **Repeatable:** No

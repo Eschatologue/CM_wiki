@@ -138,6 +138,16 @@ When you hit an attack with a Cold Weapon using two hands, you treat a ^^total^^
 
 The Weapon must have the :weapon-prop-heavy: **[Heavy]** property to gain this benefit.
 
+### Marksman
+*Level 1 Feat*
+
+**Prerequisites:** Warrior Group, *Fighting Style* Feature, or [Fighting Initiate] feat  
+**Repeatable:** No
+
+Being Prone doesn’t impose :d20-disadv: **Disadvantage** on your ranged weapon attacks and attacking a Prone target doesn’t impose :d20-disadv: **Disadvantage** on your ranged weapon :d20-attack: **Attack Rolld** if the target is within your weapon’s normal range.
+    
+Moreover, if you haven’t moved since the start of your turn, you can use a :rsc-bonus-action: **Bonus Action** to steady your aim. Until the end of your next turn, you have :d20-adv: **Advantage** on the next ranged weapon :d20-attack: **Attack Roll** you make. This effect ends early if you move or take damage.
+
 ### Protection
 
 *Fighting Style - Homebrew*
@@ -149,31 +159,29 @@ Immediately after a creature you can see makes an :d20-attack: **Attack Roll** a
 
 You must be wielding a Shield to do this as a :rsc-reaction: **Reaction**.
 
+### Shield Warrior
+
+*Fighting Style - Homebrew*
+
+**Prerequisites:** Warrior Group, *Fighting Style* Feature, or [Fighting Initiate] feat  
+**Repeatable:** None
+
+You gain Proficiency with Shields and it can be used as a Martial Melee Weapon that deal :dmg-bludgeoning: **Bludgeoning** damage equal to 2d4 + your Strength modifier. If you are wielding a shield and no other weapon, you gain a +1 bonus to Shield :d20-attack: **Attack Rolls** and your AC. 
+
 ### Signature Weapon
 
 *Fighting Style - Homebrew*
 
-**Prerequisites:** Warrior Group, *Fighting Style* Feature, or [Fighting Initiate] feat
+**Prerequisites:** Warrior Group, *Fighting Style* Feature, or [Fighting Initiate] feat  
 **Repeatable:** None
 
 You specialise one weapon rather than many. Choose one weapon that you are Proficient with to be your Signature Weapon. When you make an attack with that type of weapon, its damage die increases by one size as shown on the table below.
 
-| Orginal Damage Die | Signature Damage Die |
-|:-:|:-:| 
-| 1 | 1d4 |
-| 1d4 | 1d6 |
-| 1d6 | 1d8 |
-| 2d4 / 1d8 | 1d10 |
-| 1d10 | 1d12 |
-| 2d6 / 1d12 | 2d6 + 1 |
-
-Moreover, a number of weapon gain an additional property when you choose them as your Signature Weapon as shown on the table below, if two of the same property occurs, this table overrides the original property.
-
-| Weapon | Additional Property |
-|---|---|
-| Spear, Javelin, Trident, Quarterstaff | :weapon-prop-reach: **[Reach]** |
-| Handaxe, Mace | :weapon-prop-light: **[Light]**, :weapon-prop-thrown: **[Thrown]** (30/90) |
-| Battleaxe, Flail, Warhammer, War Pick | :weapon-prop-thrown: **[Thrown]** (30/90) |
+| Orginal Damage Die | Signature Damage Die | Orginal Damage Die | Signature Damage Die |
+|:-:|:-:|:-:|:-:| 
+| 1 | 1d4 | 2d4 / 1d8 | 1d10 |
+| 1d4 | 1d6 | 1d10 | 1d12 |
+| 1d6 | 1d8 | 2d6 / 1d12 | 2d6 + 1 / 1d12 + 1 |
 
 You can change your Signature Weapon when you gain a level in a class that has this feat.
 

@@ -3,7 +3,7 @@ icon: material/cards-playing-spade-multiple
 ---
 ### Ability Scores Improvement
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisites:** None  
 **Repeatable:** No
@@ -14,7 +14,7 @@ icon: material/cards-playing-spade-multiple
 
 ### Arcane Charger
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisites:** The ability to cast a spell  
 **Repeatable:** No
@@ -39,7 +39,7 @@ You've learned how the how to weave magic and mobility
 
 ### Battlecaster
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisites:** The ability to cast a spell  
 **Repeatable:** No
@@ -60,7 +60,7 @@ You are skilled at casting spells with a weapon in hand.
 
 ### Cartomancy
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisites:** The ability to cast a spell  
 **Repeatable:** No
@@ -87,7 +87,7 @@ You have learned to channel your magic through a deck of cards.
     
 ### Crossbow Expert
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisites:** Crossbows Proficiency  
 **Repeatable:** No
@@ -112,7 +112,7 @@ Thanks to extensive practice with the crossbow, you gain the following benefits:
     
 ### Defensive Duelist
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisites:** Dexterity 13+  
 **Repeatable:** No
@@ -129,7 +129,7 @@ You’ve learned to deftly parry attacks, granting you the following benefits:
 
 ### Dual Wielder
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisites:** Proficiency with any Martial weapon  
 **Repeatable:** No
@@ -150,7 +150,7 @@ You master the ability to use two weapons at the same time You gain the followin
 
 ### Durable
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisites:** Constitution 13+  
 **Repeatable:** No
@@ -175,7 +175,7 @@ Hardy and resilient, you gain the following benefits:
 
 ### Eldritch Lifeline
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisites:** Spellcasting/Pact Magic feature; Mage Group  
 **Repeatable:** No
@@ -196,7 +196,7 @@ You’ve learned to cannibalize the power of your spells to reinvigorate your al
 
 ### Elemental Adept
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisites:** Spellcasting/Pact Magic feature  
 **Repeatable:** Yes. Choose a different Damage Type each time.
@@ -213,7 +213,7 @@ In your spellcasting, you can harness a particular form of energy with deadly ma
 
 ### Fey Touched
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisites:** The ability to cast a spell  
 **Repeatable:** No
@@ -232,7 +232,7 @@ Your exposure to the Feywild’s magic has changed you, granting you the followi
 
 ### Fighting Intiate
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisites:** Warrior Group or Proficiency with at least one Martial Weapon  
 **Repeatable:** Yes, choose a different fighting style each time.
@@ -253,7 +253,7 @@ Your martial training has helped you develop a particular style of fighting.
 
 ### Flash Recall
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisites:** Spellcasting/Pact Magic feature  
 **Repeatable:** No
@@ -272,7 +272,7 @@ You’ve developed the ability to instantly recall an unprepared spell in moment
 
 ### Grappler
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisite:** Strength or Dexterity 13+  
 **Repeatable:** No
@@ -297,7 +297,7 @@ You're an accomplished wrestler, granting you the following benefits:
 
 ### Great Weapon Master
 
-*4th-level Feat - Homebrew*
+*Level 4 Feat - Homebrew*
 
 **Prerequisite:** Warrior Group or Proficiency with at least one Martial Weapon with :weapon-prop-heavy: **[Heavy]** property  
 **Repeatable:** No
@@ -322,7 +322,7 @@ You’ve learned to use the weight of a weapon to your advantage, letting its mo
 
 ### Gunner
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisite:** Dexterity 13+ or Proficieny with at least one firearm.  
 **Repeatable:** No
@@ -343,7 +343,7 @@ You have a quick hand and keen eye when employing firearms, granting you the fol
 
 ### Heavy Armour Master
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisite:** Strength 13+ or a Heavy armour Proficiency  
 **Repeatable:** No
@@ -360,7 +360,7 @@ You can use your armour to deflect strikes that would kill others. You gain the 
 
 ### Inspiring Leader
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisite:** Wisdom or Charisma 13+  
 **Repeatable:** No
@@ -375,40 +375,9 @@ You inspire your companions, shoring up their resolve to fight.
     
     At the end of a Short Rest or a Long Rest, you can give an inspiring performance; A speech, a song, or a dance. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who witness the performance. The chosen creatures each gain Temporary Hit Points equal to your level + the modifier of the ability score increased by this feat.
 
-### Keen Mind
-
-*4th-level Feat*
-
-**Prerequisite:** Intelligence 13+  
-**Repeatable:** No
-
-You have trained to rapidly recall or discover vital details, granting you the following benefits:
-
-- **Ability Score Increase**
-    
-    Increase your Intelligence score by 1, to a maximum of 20.
-    
-- **Investigator**
-    
-    You gain :material-lightbulb-on: Proficiency in the Intelligence (Investigation) skill. If you are already proficient in the skill, you add double your Proficiency Bonus to checks you make with it.
-    
-- **Lore Knowledge**
-    
-    You add half your Proficiency Bonus (rounded down) to to any Intelligence-based skill check that you are not proficient in.
-    
-- **Northward**
-    
-    You always know which way is north.
-    
-- **Internal Clock**
-    
-    You always know the number of hours left before the next sunrise or sunset.
-
-~~KEEEEEEN MIIIIND~~
-
 ### Mage Slayer
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisite:** None  
 **Repeatable:** No
@@ -433,7 +402,7 @@ You have practiced techniques useful in melee combat against spellcasters, gaini
 
 ### Master Blacksmith
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisite:** Stength or Wisdom 13+  
 **Repeatable:** No
@@ -458,7 +427,7 @@ You are a master of the forge that can wield the right tools with ease. You gain
 
 ### Medic
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisite:** Wisdom 13+ or Wisdom (Medicine) Proficiency  
 **Repeatable:** No
@@ -475,10 +444,7 @@ You master the physician’s arts, gaining the following benefits:
     
 - **Back On Your Feet**
     
-    When you successfully stabilize a creature, it regains a number of Hit Points equal to your Wisdom modifier + Proficiency Bonus.(1)
-    { .annotate }
-
-    1. This immediately brings the creature out of Death's Door.
+    When you successfully stabilize a creature, it regains a number of Hit Points equal to your Wisdom modifier + Proficiency Bonus.
     
 - **Doctor’s Orders**
     
@@ -486,7 +452,7 @@ You master the physician’s arts, gaining the following benefits:
 
 ### Medium Armour Master
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisite:** Medium Armour Proficiency  
 **Repeatable:** No
@@ -507,7 +473,7 @@ You have practiced moving in medium armour to gain the following benefits:
 
 ### Menacing
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisite:** Charisma 13+ or Intimidation Proficiency  
 **Repeatable:** No
@@ -528,7 +494,7 @@ You become fearsome to others, gaining the following benefits:
 
 ### Metamagic Novice
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisite:** Spellcasting/Pact Magic featur; Expert, Priest or Mage Group  
 **Repeatable:** No
@@ -549,34 +515,9 @@ You’re experimenting how to exert your will on your spells to alter how they f
     
     You gain 2 sorcery points to spend on Metamagic (these points are added to any sorcery points you have from another source). You regain all spent sorcery points when you finish a long rest.
 
-### Observant
-
-*4th-level Feat*
-
-**Prerequisite:** Intelligence or Wisdom 13+  
-**Repeatable:** No
-
-Quick to notice details of your environment, you gain the following benefits:
-
-- **Ability Score Increase**
-    
-    Increase your Intelligence or Wisdom by 1, to a maximum of 20.
-    
-- **Keen Observer**
-    
-    Choose one of the following Skills: Insight or Perception. If you lack Proficiency with the chosen Skill, you gain Proficiency in it, and if you have Proficiency in it, you gain Expertise in it.
-    
-- **Lip Reader**
-    
-    If you can see a creature’s mouth while it is speaking a language you understand, you can interpret what it’s saying by reading its lips.
-    
-- **Keen**
-    
-    You take no penalties to your perception while moving quickly or peering into dim light.
-
 ### Mounted Combatant
 
-*4th-Level Feat*
+*Level 4 Feat*
 
 **Prerequisite:** :material-lightbulb-on: Proficiency with Any Martial Weapon  
 **Repeatable:** No
@@ -597,7 +538,7 @@ You have developed a bond with your mounts, granting you the following benefits:
     
 - **Leap Aside**
 
-    If your mount is subjected to an effect that allows it to make a Dexterity :d20-save: **Saving Throw** to take only half damage, it instead takes no damage if it succeeds on the :d20-save: **Saving Throw**, and only half damage if it fails. For your mount to gain this benefit, you must be riding it, and neither of you can be Incapacitated.
+    If your mount is subjected to an effect that allows it to make a Dexterity :d20-save: **Saving Throw** to take only half damage, it instead takes no damage if it succeeds on the :d20-save: **Saving Throw**, and only half damage if it fails. For your mount to gain this benefit, you must be riding it, and neither of you has the Incapacitated condition.
 
 - **Veer** 
 
@@ -605,9 +546,9 @@ You have developed a bond with your mounts, granting you the following benefits:
 
 ### Piercer
 
-*4th-level Feat*
+*Level 4 Feat*
 
-**Prerequisite:** :material-lightbulb-on: Proficiency with any weapon that deals piercing damage.  
+**Prerequisite:** :material-lightbulb-on: Proficiency with any weapon that deals piercing damage  
 **Repeatable:** No
 
 You have achieved a penetrating precision in combat, granting you the following benefits:
@@ -627,7 +568,7 @@ Once per turn, when you hit a creature with a Weapon that deals Piercing damage,
 
 ### Polearm Master
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisite:** :material-lightbulb-on: Proficiency with Martial Weapon that has :weapon-prop-reach: **Reach** property.  
 **Repeatable:** No
@@ -650,7 +591,7 @@ Keeping foes just out of range is your specialty. You gain the following benefit
 
 ### Remarkable Recovery
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisite:** Constitution 13+  
 **Repeatable:** No
@@ -671,7 +612,7 @@ Your body has the ability to recover quickly from terrible injuries, and is unus
 
 ### Resilient
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisite:** Constitution 13+  
 **Repeatable:** No
@@ -688,7 +629,7 @@ You have developed the resilience to better withstand certain dangers, granting 
 
 ### Ritual Caster
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisite:** Intelligence, Wisdom, or Charisma 13+  
 **Repeatable:** No
@@ -709,7 +650,7 @@ You have studied ritual magic, granting you the following benefits:
 
 ### Sentinel
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisite:** Proficiency with any Martial Weapon  
 **Repeatable:** No
@@ -730,7 +671,7 @@ You have mastered techniques to take :d20-adv: **Advantage** of every drop in an
 
 ### Sharpshooter
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisite:** :material-lightbulb-on: Proficiency with any Martial Weapon  
 **Repeatable:** No
@@ -751,7 +692,7 @@ You can make shots that others find impossible, granting you the following benef
 
 ### Shield Master
 
-*4th-level Feat - Homebrew*
+*Level 4 Feat - Homebrew*
 
 **Prerequisite:** :material-lightbulb-on: Proficiency with shields.  
 **Repeatable:** No
@@ -762,22 +703,13 @@ You’ve trained to use shields not just for protection, but also for offense, g
     
     Increase your Strength or Dexterity by 1, to a maximum of 20.
     
-- **Shield Bash**
-    
-    After making an attack with a melee weapon, you can use a :rsc-bonus-action: **Bonus Action** to make a melee attack with a shield you currently holding; this attack uses the same ability modifier as the primary attack. 
-    
-    On hit you can do one of the following effect:
-
-    - **Bash.** You deals damage to the target. The damage die for this attack is a :die-d4: d4 + the shield's AC, and the attack deals bludgeoning damage.
-    - **Shove** You knock the target Prone or push it 5 feet away.
-    
 - **Interpose Shield**
     
     If you are subjected to an effect that allows you to make a Dexterity :d20-save: **Saving Throw** to take only half damage, you can use your :rsc-reaction: **Reaction** to take no damage if you succeed on the :d20-save: **Saving Throw** and are wielding a Shield, interposing your shield between yourself and the source of the effect.
 
 ### Skill Expert
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisite:** None  
 **Repeatable:** No
@@ -798,7 +730,7 @@ You have honed your Proficiency with particular skills, granting you the followi
 
 ### Skulker
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisite:** Dexterity 13+  
 **Repeatable:** No
@@ -823,7 +755,7 @@ You are expert at slinking through shadows. You gain the following benefits:
 
 ### Slasher
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisite:** :material-lightbulb-on: Proficiency with any Martial Weapon  
 **Repeatable:** No
@@ -844,7 +776,7 @@ You’ve learned where to cut to have the greatest results, granting you the fol
 
 ### Speedster
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisite:** Dexterity or Constitution 13+  
 **Repeatable:** No
@@ -865,7 +797,7 @@ You possess exceptional speed and stamina, granting you the following benefits:
 
 ### Spell Sniper
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisite:** The ability to cast a spell  
 **Repeatable:** No
@@ -892,7 +824,7 @@ You have learned techniques to enhance your attacks with certain kinds of spells
 
 ### Sword Dancing
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisite:** :material-lightbulb-on: Proficiency with any Martial Weapon  
 **Repeatable:** No
@@ -913,7 +845,7 @@ One-handed weapons and blades are an extension of your arm, graceful as the wind
 
 ### Telekinetic
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisite:** Intelligence, Wisdom, or Charisma 13+  
 **Repeatable:** No
@@ -934,7 +866,7 @@ You awaken the ability to mentally connect with others, granting you the followi
 
 ### Void Touched
 
-*4th-level Feat - Homebrew*
+*Level 4 Feat - Homebrew*
 
 **Prerequisite:** None  
 **Repeatable:** No
@@ -964,7 +896,7 @@ You have been touched by the Warp, giving you benefits as follow:
 
 ### War Caster
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisite:** Spellcasting/Pact Magic feature  
 **Repeatable:** No
@@ -985,7 +917,7 @@ You have practiced casting spells in the midst of combat, learning techniques th
 
 ### Weapon Training
 
-*4th-level Feat*
+*Level 4 Feat*
 
 **Prerequisite:** None  
 **Repeatable:** No
@@ -998,7 +930,7 @@ You have practiced extensively with a variety of weapons, gaining the following 
 
 - **Weapon Proficiency**
 
-    You gain Proficiency with all Martial Weapons. 
+    You gain Proficiency with Martial Weapons. 
 
 [heavy]: ../../equipment/weapon/index.md#heavy
 [light]: ../../equipment/weapon/index.md#light

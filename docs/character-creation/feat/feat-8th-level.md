@@ -3,7 +3,7 @@ icon: material/cards-playing
 ---
 
 ### Adrenaline Rush
-*8th-level Feat*
+*Level 8 Feat*
 
 **Prerequisites:** Warrior Group  
 **Repeatable:** No
@@ -15,7 +15,7 @@ You learn how to push yourself beyond your normal limits.
     On your turn, you can expend one of your Hit Die and gain one additional action. You can use this feature once per long rest.
 
 ### Artifice Conflux
-*8th-level Feat*
+*Level 8 Feat*
 
 **Prerequisites:** Expert Group or [Artificer Initiate](feat-starting.md#artificer-initiate) Feat  
 **Repeatable:** No
@@ -35,7 +35,7 @@ Through your repeated exposure to the natural flow of arcane magic throughout yo
     You can ritual cast the *identify* spell, ignoring all the spells' component. Intelligence is the spellcasting ability for this spell.
 
 ### Dual-Focused
-*8th-level Feat*
+*Level 8 Feat*
 
 **Prerequisites:** Mage or Priest Group  
 **Repeatable:** No
@@ -53,7 +53,7 @@ Countless hours have been spent training your mind to maintain focus on concurre
     Any time you would be forced to make a C due to taking damage, the DC equals 10 + both spells’ levels combined, or half the damage you take, whichever number is higher. On a failure, you lose concentration on both spells
 
 ### Great Weapon Expert
-*8th-level Feat*
+*Level 8 Feat*
 
 **Prerequisites:** Warrior Group or [Great Weapon Master](feat-4th-level.md#great-weapon-master) feat  
 **Repeatable:** No
@@ -80,7 +80,7 @@ You have mastered the usage of heavy weapons, using their weight and size for ma
 [versatile]: ../../equipment/weapon/index.md#versatile
 
 ### Magically Imbibed
-*8th-level Feat*
+*Level 8 Feat*
 
 **Prerequisites:** Mage or Priest Group  
 **Repeatable:** No
@@ -102,7 +102,7 @@ Your faith grants you great insight into magic, giving you a special privilege w
     You can regain a total number of :rsc-spell-slot: **Spell Slot** levels equal to your Proficiency Bonus this way until you cannot regain further :rsc-spell-slot: **Spell Slot**s until you complete a long rest.
 
 ### Shield Prodigy
-*8th-level Feat*
+*Level 8 Feat*
 
 **Prerequisites:** Warrior Group or [Shield Master](feat-4th-level.md#shield-masterhb) feat  
 **Repeatable:** No
@@ -111,7 +111,7 @@ After fine tuning your equipment, you can do things others can’t with shields.
 
 - **Sunder**
     
-    As part of the attack action, you instead throw your shield as a ranged attack that you are proficient in using your Dexterity or Strength modifiers (you decide when you select this feat) and aim for one target within 30 feet with your shield. On hit, the target takes 1d8 bludgeoning damage and goes prone.
+    As part of the attack action, you instead throw your shield as a ranged attack that you are proficient in using your Dexterity or Strength modifiers (you decide when you select this feat) and aim for one target within 30 feet with your shield. On hit, the target takes 1d8 :dmg-bludgeoning: Bludgeoning damage and has the Prone condition.
     
     Hit or miss, at the end of the attack your shield harmlessly bounces back to you.
     
@@ -121,10 +121,10 @@ After fine tuning your equipment, you can do things others can’t with shields.
     
 - **Interpose**
     
-    You can use a :rsc-bonus-action: **Bonus Action** to protect a creature within 5 feet of you. Until the start of your next turn, any :d20-attack: **Attack Roll** made against that creature has :d20-disadv: **disadvantage** if you can see the attacker. This benefit ends early if you are incapacitated or your speed drops to 0.
+    You can use a :rsc-bonus-action: **Bonus Action** to protect a creature within 5 feet of you. Until the start of your next turn, any :d20-attack: **Attack Roll** made against that creature has :d20-disadv: **disadvantage** if you can see the attacker. This benefit ends early if you are incapacitated or your speed is 0.
 
 ### Spell Driver
-*8th-level Feat*
+*Level 8 Feat*
 
 **Prerequisites:** Priest or Mage Group, or Spellcasting/Pact Magic feature  
 **Repeatable:** No
