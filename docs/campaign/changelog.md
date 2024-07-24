@@ -15,6 +15,7 @@ Feat Fixing update, this update streamlines all the available feats, removed and
 
 - **Moved Feats**
     - *Keen Mind* is now a Level 1 Feat.
+    - *Observant* is now a Level 1 Feat.
     - *Marksman* is now a Fighting Style
 
 

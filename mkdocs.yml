@@ -14,7 +14,6 @@ nav:
       - Warp Storm: lore/warp/warp-storm.md
       - Entities: lore/warp/warp-entities.md
     - Pantheon: lore/pantheon.md
-    - The Celestial Language: lore/celestial.md
   - Gameplay:
     - Dice Rolls: gameplay/dice-rolls.md
     - Resources: gameplay/resources.md
@@ -34,7 +33,7 @@ nav:
   - Chartacter Creation:
     - Quickstart: character-creation/quickstart.md
     - Race: character-creation/race/race.md
-    - Multiclassing: gameplay/multiclassing.md
+    - Multiclassing: character-creation/multiclassing.md
     - Languages: character-creation/languages.md
     - Ability Score: 
       - character-creation/ability-scores/index.md

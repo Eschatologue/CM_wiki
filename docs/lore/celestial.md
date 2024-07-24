@@ -1,3 +1,8 @@
+---
+hide:
+    - navigation
+---
+
 # The Celestial Language
 
 Celestial is a language of mysterious origin, notorious for its more-than-lethal effects on those who attempt to interpret its meaning. Unlike other confusing language, which merely confounds its readers due to its complex writing system, Celestial poses a direct threat to both mind and body.
