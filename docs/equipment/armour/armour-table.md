@@ -10,7 +10,7 @@ If you wear armour that you lack Proficiency with, you gain several affliction:
 
 - :d20-disadv: **Disadvantage** on any :d20-check:**Ability Check**
 - :d20-disadv: **Disadvantage** on :d20-save: **Saving Throw**
-- :d20-disadv: **Disadvantage** on :d20-attack:**Attack Roll** that involves *Strength* or *Dexterity*
+- :d20-disadv: **Disadvantage** on :d20-attack: **Attack Roll** that involves *Strength* or *Dexterity*
 - You can't cast spells.
 
 ### Armour Class (AC)

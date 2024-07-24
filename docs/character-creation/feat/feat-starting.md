@@ -475,26 +475,6 @@ You are an expert at hitting your mark with ranged weapons, gaining the followin
     
     If you haven’t moved since the start of your turn, you can use a :rsc-bonus-action: **Bonus Action** to steady your aim. Until the end of your next turn, you have :d20-adv: **Advantage** on the next ranged weapon :d20-attack: **Attack Roll** you make. This effect ends early if you move or take damage.
 
-### Martial Adept
-*1st-level Feat*
-
-**Prerequisites:** Proficiency with any Martial Weapon  
-**Repeatable:** No
-
-You have martial training that allows you to perform special combat Manoeuvres. You gain the following benefits:
-
-- **Manoeuvres**
-    
-    You learn two manoeuvres of your choice from among those available to the Battle Master archetype in the fighter class. 
-    
-    If a maneuver you use requires your target to make a :d20-save: **Saving Throw** to resist the manoeuvre’s effects, the :d20-save: **Saving Throw** DC equals **8 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice)**.
-    
-- **Superiority Die**
-    
-    You gain two superiority die, which are :die-d6:d6s (this die is added to any superiority dice you have from another source). This die is used to fuel your manoeuvres. A superiority die is expended when you use it.
-    
-You regain your expended superiority dice when you finish a short or long rest.
-
 ### Miner
 *1st-level Feat*
 
@@ -573,48 +553,6 @@ You have exceptionally broad learning.
     
     Choose three Skills in which you lack Proficiency. You gain Proficiency in those Skills.
 
-### Sling Specialist
-
-*1st-level Feat*
-
-**Prerequisites:** Simple weapon Proficiency  
-**Repeatable:** None
-
-You are trained in the military methods and use of slings in combat. You gain the following benefits:
-
-- **Quick Reflexes**
-    
-    If you end your turn without moving, before your next turn when a creature within 30 feet of you moves, you can use your :rsc-reaction: **Reaction** to make a ranged weapon attack with a sling against that creature.
-    
-- **Pea-shots**
-    
-    Once per turn when you make a ranged weapon attack without :d20-disadv: **Disadvantage** using a sling, you can make an additional ranged weapon attack with a sling against a different creature.
-    
-- **Pea-critical**
-    
-    The first time you score a Critical Hit with a sling against a creature on a turn, that creature has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Roll**s and :d20-check: **Ability Check**s until the start of your next turn.
-
-### Spear Specialist
-
-*1st-level Feat*
-
-**Prerequisites:** Simple weapon Proficiency  
-**Repeatable:** None
-
-You have trained to become a deadly warrior with pole weapons, capable of making lunging attacks and long-distance throws. You gain the following benefits:
-
-- **Spear Warrior**
-    
-    When you use a javelin or spear, its damage die increases from a :die-d6: d6 to a :die-d8: d8, and from a :die-d8: d8 to a :die-d10: d10 when wielded with two hands (this feature has no effect if another feature has already improved the weapon’s die.)
-    
-- **Quick Reach**
-    
-    When you wield a javelin or a spear, it is considered a Reach weapon for you.
-    
-- **Spear Master**
-    
-    You can make a ranged attack with a javelin or spear up to its long range without :d20-disadv: **Disadvantage**, even underwater.
-
 ### Spell and Blades^HB^
 
 *1st-level Feat*
@@ -626,7 +564,7 @@ You learn how to wield both spells and weapons effectively. Choose between Palad
 
 - **Weapon Training**
     
-    You gain Proficiency with two martial weapon of your choice that lacks the heavy, reach and, two-handed properties.
+    You gain Proficiency with two martial weapon of your choice that lacks the Heavy, Reach and, Two-handed properties.
     
 - **1st-Level Spell**
     
@@ -635,27 +573,6 @@ You learn how to wield both spells and weapons effectively. Choose between Palad
     Intelligence, Wisdom, or Charisma is your spellcasting ability for these Spells (choose when you select this Feat).
     
 Whenever you gain a new level, you can replace one of the Spells you chose for this Feat with a different Spell of the same level from the chosen Spell list.
-
-### Staff Specialist
-
-*1st-level Feat*
-
-**Prerequisites:** Club, Greatclub or Quarterstaves Proficiency  
-**Repeatable:** No
-
-While you are wielding a club, greatclub, or quarterstaff and no other weapons, you gain the following benefits:
-
-- **Ready Stance**
-    
-    As a :rsc-bonus-action: **Bonus Action** on your turn, you can take a defensive stance, gaining a +2 bonus to AC until the start of your next turn.
-    
-- **Topple**
-    
-    As a :rsc-bonus-action: **Bonus Action** on your turn, you can make a melee weapon attack against a creature no more than one size larger than you. On a hit, you deal no damage but instead push the creature 5 feet or knock it prone.
-    
-- **Stunning Critical**
-    
-    When you score a Critical Hit on a creature, its movement speed is 0 until the end of its next turn.
 
 ### Tavern Brawler
 *1st-level Feat*
@@ -709,7 +626,7 @@ You’ve honed your ability to lob weaponry into the fray, including weapons not
 
 - **Wrist trick**
     
-    Simple and martial melee weapons without the :weapon-prop-thrown: **Thrown** property can be treated as if they have the :weapon-prop-thrown: **Thrown** property. One-handed weapons have a range of 20/60, while two-handed weapons have a range of 15/30.
+    Simple and martial melee weapons without the :weapon-prop-thrown: **Thrown** property can be treated as if they have the :weapon-prop-thrown: **Thrown** property. One-handed weapons have a range of 20/60, while Two-handed weapons have a range of 15/30.
     
 - **Extended aim**
     

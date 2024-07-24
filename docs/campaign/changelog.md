@@ -1,54 +1,54 @@
 # Changelog
 
-## 1.2 <small> 07 July 2024</small>
+## 1.3 | 24 July 2024
 
-### OneD&D Imports
+Feat Fixing update, this update streamlines all the available feats, removed and combined some redundant ones, with additions of new ones.
+
+- **Removed Feats**
+    - **Starting**. Spear Specialist, Sling Specialist, Staff Specialist.
+
+- **New Feats**
+    - **Fighting Style.** Signature Weapon
+
+## 1.2 | 07 July 2024
 
 - **Eldritch Invocations.** Ported and slightly adjusted the new Warlock's Eldritch Invocations. Indirectly buffing the [Eldrtich Adept](../character-creation/feat/feat-starting.md#edritch-adept) feat.
 - **Sorcerer's Metamagic.** Ported OneD&D Sorcerer's Metamagic, though it is untouched even in the new version.
 - **Unarmed Strike.** Unarmed Strike now uses the new OneD&D rulings, in which included Grappling and Shoving.
-
-### Lore
-
 - **Warp Corruptions.** More lore entry added relating to exposures to the Warp.
 - **Warp Maelstorm.** Added a small entry related to Warp Maelstorms.
 - **Warp Entities.** Added lore, telling signs of presence of the Warp.
+- **Wiki.** Minor readproofing in the wiki for consistency.
+- Gimmick
+    - **Eris.** First initial release of Eris gimmick
+    - **John.** Added **John's Signature** feature at 9th level.
+    - **Khaine.** Judgement starry form no longer summons a weapon, but instead enables melee spell attacks with cosmic flare.
 
-### Wiki
+## 1.1 | 17 June 2024
 
-Minor readproofing in the wiki for consistency.
+- Feat Changes
+    - **[Titan Hunter](../character-creation/feat/feat-starting.md#titan-hunter).** Reworded the feat description.
+    - **[Armour Training](../character-creation/feat/feat-starting.md#armour-training).** Removed the prerequisites.
+    - **[Dual Wielder](../character-creation/feat/feat-4th-level.md#dual-wielder).** 
+        - Changed the feat description due to [1.0](#10-15-june-2024) Fighting style changes.
+        - Removed +1 AC bonus due to being a half-feat.
+        - Reworded the feat due to changes to fighting styles
+    - **[Ability Score Improvement](../character-creation/feat/feat-4th-level.md#ability-score-improvement).** 
+        - Increased the maximum limit for this feat from 20 to 22 when you reach 19th-level.
+    - **[Slasher](../character-creation/feat/feat-4th-level.md#slasher)**
+        - **Cull.** This feature reduces target movement speed by 10 feet instead of halfing it. This feature is now not limited to once per turn.
+        - **Bleed.** Vritical hit requirement is removed, instead the effect only last until the start of your next turn.
+    - **[Great Weapon Expert](../character-creation/feat/feat-8th-level.md#great-weapon-expert)**
+        - added **Ringing Blows** and **Excessive Force** to compensate for the lack of ASI increase
 
-### Gimmicl
+- Wiki Changes
+    - Imported all Spells from cantrip to 9th-level.
+    - Added more Lore.
 
-- **Eris.** First initial release of Eris gimmick
-- **John.** Added **John's Signature** feature at 9th level.
-- **Khaine.** Judgement starry form no longer summons a weapon, but instead enables melee spell attacks with cosmic flare.
+- Spell Changes
+    - Added new homebrew spell: [Shackles of Pain](../spells/3rd-level.md#shackles-of-painhb)
 
-## 1.1 <small> 17 June 2024</small>
-
-### Feat Changes
-- **[Titan Hunter](../character-creation/feat/feat-starting.md#titan-hunter).** Reworded the feat description.
-- **[Armour Training](../character-creation/feat/feat-starting.md#armour-training).** Removed the prerequisites.
-- **[Dual Wielder](../character-creation/feat/feat-4th-level.md#dual-wielder).** 
-    - Changed the feat description due to [1.0](#10-15-june-2024) Fighting style changes.
-    - Removed +1 AC bonus due to being a half-feat.
-    - Reworded the feat due to changes to fighting styles
-- **[Ability Score Improvement](../character-creation/feat/feat-4th-level.md#ability-score-improvement).** 
-    - Increased the maximum limit for this feat from 20 to 22 when you reach 19th-level.
-- **[Slasher](../character-creation/feat/feat-4th-level.md#slasher)**
-    - **Cull.** This feature reduces target movement speed by 10 feet instead of halfing it. This feature is now not limited to once per turn.
-    - **Bleed.** Vritical hit requirement is removed, instead the effect only last until the start of your next turn.
-- **[Great Weapon Expert](../character-creation/feat/feat-8th-level.md#great-weapon-expert)**
-    - added **Ringing Blows** and **Excessive Force** to compensate for the lack of ASI increase
-
-### Wiki Changes
-- Imported all Spells from cantrip to 9th-level.
-- Added more Lore.
-
-### Spell Changes
-- Added new homebrew spell: [Shackles of Pain](../spells/3rd-level.md#shackles-of-painhb)
-
-## 1.0 <small>15 June 2024</small>
+## 1.0 |15 June 2024
 The start of this new wiki.
 
 - **[Inventory](../gameplay/homebrew/inventory.md):** Changes to how inventory works. This differs from the system in Prison & Wyvern, so be sure to read through it. It shouldn't affect your current character too much.

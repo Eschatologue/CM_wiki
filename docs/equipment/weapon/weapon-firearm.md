@@ -44,19 +44,19 @@ List of Firearms that you can possibly find in this world:
 
 | name | damage | properties | cost |
 |---|---|---|--:|
-| Pistol, Revolver | 1d8 piercing | Ammunition (:weapon-prop-ranged: Range 60/200), Automatic (1), Light, Reload (7) | 3,000 sp |
-| Pistol, Semi-Auto | 1d6 piercing | Ammunition (:weapon-prop-ranged: Range 60/200), Automatic (2), Light, Reload (7) | 2,500 sp |
+| Pistol, Revolver | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 60/200), Automatic (1), Light, Reload (7) | 3,000 sp |
+| Pistol, Semi-Auto | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 60/200), Automatic (2), Light, Reload (7) | 2,500 sp |
 
 ##### Firearms: Long-arms
 
 | name | damage | properties | cost |
 |---|---|---|--:|
-| Rifle, Automatic | 1d10 piercing | Ammunition (:weapon-prop-ranged: Range 90/270), Automatic (3), Heavy, Reload (12), Two-handed | 6,500 sp |
-| Rifle, Marksmen | 2d8 piercing | Ammunition (:weapon-prop-ranged: Range 180/550), Reload (8), Sighted, Two-handed | 8,000 sp |
-| Rifle, Semi-Auto | 2d6 piercing | Ammunition (:weapon-prop-ranged: Range 120/320), Automatic (1), Heavy, Reload (6), Two-handed | 5,000 sp |
-| Shotgun, Over-under | 1d10 piercing | Ammunition (:weapon-prop-ranged: Range 30/50), Automatic (3), Heavy, Reload (2), Scatter(2d8), Two-handed, Special | 4,000 sp |
-| Shotgun, Pump | 1d8 piercing | Ammunition (:weapon-prop-ranged: Range 50/90), Automatic (3), Heavy, Reload (7), Scatter(1d12), Two-handed | 6,000 sp |
-| Submachine Gun | 1d6 piercing | Ammunition (:weapon-prop-ranged: Range 40/90), Automatic (4), Reload (30), Two-handed | 3,500 sp |
+| Rifle, Automatic | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 90/270), Automatic (3), Heavy, Reload (12), Two-handed | 6,500 sp |
+| Rifle, Marksmen | 2d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 180/550), Reload (8), Sighted, Two-handed | 8,000 sp |
+| Rifle, Semi-Auto | 2d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 120/320), Automatic (1), Heavy, Reload (6), Two-handed | 5,000 sp |
+| Shotgun, Over-under | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 30/50), Automatic (3), Heavy, Reload (2), Scatter(2d8), Two-handed, Special | 4,000 sp |
+| Shotgun, Pump | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 50/90), Automatic (3), Heavy, Reload (7), Scatter(1d12), Two-handed | 6,000 sp |
+| Submachine Gun | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 40/90), Automatic (4), Reload (30), Two-handed | 3,500 sp |
 
 ##### Firearms: Heavy Weapons
 
@@ -95,7 +95,7 @@ What effect each type of grenade can cause is stated on [Grenade Effects](#grena
 |  name | damage | area | cost |
 |---|---|:---|--:|
 | **Grenade, Cryogenic** | :dmg-cold: 1d6 Cold | 20 ft. :material-sphere: **sphere** (DC 15 :material-shield-account: **CON Save**) | 250 sp |
-| **Grenade, Fragmentation** | :dmg-piercing: 2d6 Piercing + :dmg-thunder: 1d6 Thunder | 20 ft. :material-sphere: **sphere** (DC 15 :material-shield-half-full: **DEX Save**) | 350 sp |
+| **Grenade, Fragmentation** | :dmg-:dmg-piercing: Piercing: 2d6 :dmg-piercing: Piercing + :dmg-thunder: 1d6 Thunder | 20 ft. :material-sphere: **sphere** (DC 15 :material-shield-half-full: **DEX Save**) | 350 sp |
 | **Grenade, Incendiary** | :dmg-fire: 1d6 Fire | 20 ft. :material-radius-outline: **radius** (DC 15 :material-shield-half-full: **DEX Save**) | 300 sp |
 | **Grenade, Flashbang** | :dmg-thunder: 1d4 Thunder | 20 ft. :material-sphere: **sphere** (DC 15 :material-shield-account: **CON Save**) | 200 sp |
 | **Grenade, Smoke** | - | 20 ft. :material-sphere: sphere | 250 sp |
