@@ -102,10 +102,10 @@ Characters can regain HP through spells (e.g., Cure Wounds, Healing Word), class
 
 #### Short Rest
 
-During a short rest (at least 1 hour), characters can spend Hit Dice to regain HP. Roll the Hit Dice and add the character's Constitution modifier for each die rolled.
+During a Short Rest (at least 1 hour), characters can spend Hit Dice to regain HP. Roll the Hit Dice and add the character's Constitution modifier for each die rolled.
 
 **Example:** A level 5 wizard can roll up to 5d6 (wizard Hit Die) and add their Constitution modifier to each roll to regain HP.
 
 #### Long Rest
 
-During a long rest (at least 8 hours), characters regain all lost HP and up to half of their maximum Hit Dice.
+During a Long Rest (at least 8 hours), characters regain all lost HP and up to half of their maximum Hit Dice.

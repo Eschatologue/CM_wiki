@@ -28,11 +28,11 @@ In addition, consult the Manifestations of Order table and choose or randomly de
 
 Your connection to the plane of absolute order allows you to equalize chaotic moments. When a creature you can see within 60 feet of you is about to roll a d20 with Advantage or Disadvantage, you can use your reaction to prevent the roll from being affected by advantage and disadvantage.
 
-You can use this feature a number of times equal to your Charisma modifier, and you regain all expended uses when you finish a long rest.
+You can use this feature a number of times equal to your Charisma modifier, and you regain all expended uses when you finish a Long Rest.
 
 ## Level 6: Bastion of Law
 
-You can tap into the grand equation of existence to imbue a creature with a shimmering shield of order. As an action, you can expend 1 to 5 sorcery points to create a magical ward around yourself or another creature you can see within 30 feet of you. The ward lasts until you finish a long rest or until you use this feature again.
+You can tap into the grand equation of existence to imbue a creature with a shimmering shield of order. As an action, you can expend 1 to 5 sorcery points to create a magical ward around yourself or another creature you can see within 30 feet of you. The ward lasts until you finish a Long Rest or until you use this feature again.
 
 The ward is represented by a number of d8s equal to the number of sorcery points spent to create it. When the warded creature takes damage, it can expend a number of those dice, roll them, and reduce the damage taken by the total rolled on those dice.
 
@@ -40,7 +40,7 @@ The ward is represented by a number of d8s equal to the number of sorcery points
 
 You gain the ability to align your consciousness to the endless calculations of Mechanus. As a bonus action, you can enter this state for 1 minute. For the duration, attack rolls against you can't benefit from advantage, and whenever you make an attack roll, an ability check, or a saving throw, you can treat a roll of 9 or lower on the d20 as a 10.
 
-Once you use this bonus action, you can't use it again until you finish a long rest, unless you spend 5 sorcery points to use it again.
+Once you use this bonus action, you can't use it again until you finish a Long Rest, unless you spend 5 sorcery points to use it again.
 
 ## Level 18: Clockwork Cavalcade
 
@@ -50,4 +50,4 @@ You gain the ability to summon spirits of order to expunge disorder around you. 
 - Any damaged objects entirely in the cube are repaired instantly.
 - Every spell of 6th level or lower ends on creatures and objects of your choice in the cube.
 
-Once you use this action, you can’t use it again until you finish a long rest, unless you spend 7 sorcery points to use it again.
+Once you use this action, you can’t use it again until you finish a Long Rest, unless you spend 7 sorcery points to use it again.

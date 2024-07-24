@@ -64,7 +64,7 @@ The Meltdown condition lasts for 10 minutes but can end early under the followin
 
 - **Recovery.** You regain at least half of your Hit Point maximum.
 - **Being Calmed.** Spell such as *Calm Emotions* is cast on you, requiring the caster to make an :d20-check: **Ability Check** using its spellcasting ability. The DC is equal to the highest ability score you have between Intelligence, Wisdom, or Charisma. On success, **Meltdown** ends.
-- **Resting.** You finish a short or long rest.
+- **Resting.** You finish a Short Rest or Long Rest.
 - **Healed.** The spell *Greater Restoration* spell is cast on you.
 
 Immediately after you receive this condition, you roll a d10 and gain an affliction depending on the result:
@@ -104,7 +104,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 
 - Once per turn when you roll damage for a weapon attack or spell attack, you can choose one of the die and make it roll the maximum amount possible.
 - When you force a creature to make a :d20-save: **Saving Throw** or a contested :d20-check: **Ability Check**, it make the :d20-save: **Saving Throw** or the :d20-check: **Ability Check** at a:d20-disadv: **Disadvantage**.
-- You have :d20-adv: **Advantage** on Strength checks and Strength :d20-save: **Saving Throw**s.
+- You have :d20-adv: **Advantage** on Strength checks and Strength :d20-save: **Saving Throws**.
 
 ### Stalwart
 
@@ -112,7 +112,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 
 - You reduce all damage received by a number equal to twice of your Proficiency Bonus (minimum of 1 damage).
 - You can’t be moved or being *prone* against your will.
-- You have :d20-adv: **Advantage** on Strength checks, Strength :d20-save: **Saving Throws** and Constitution :d20-save: **Saving Throw**s.
+- You have :d20-adv: **Advantage** on Strength checks, Strength :d20-save: **Saving Throws** and Constitution :d20-save: **Saving Throws**.
 
 ### Vigorous
 
@@ -145,7 +145,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 
 *“There can be no hope in this hell, no hope at all.”*
 
-- You have :d20-disadv: **Disadvantage** on all :d20-attack: **Attack Rolls** and :d20-check: **Ability Check**s.
+- You have :d20-disadv: **Disadvantage** on all :d20-attack: **Attack Rolls** and :d20-check: **Ability Checks**.
 - Whenever you regain Hit Point, the amount total is halved. This does not affect the progress in which **Meltdown** can be ended early.
 - You are resistant to Psychic damage.
 - Your speed is halved.
@@ -155,7 +155,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 *“Reeling, gasping, taken over the edge into madness!”*
 
 - You begins babbling and is incapable of normal speech. Spells that has the Verbal (V) component can’t be cast.
-- You have :d20-disadv: **Disadvantage** on Intelligence and Wisdom :d20-save: **Saving Throw**s.
+- You have :d20-disadv: **Disadvantage** on Intelligence and Wisdom :d20-save: **Saving Throws**.
 - You can't take :rsc-reaction: **Reaction** and must roll a :die-d10:d10 at the start of each of your turns to determine a behavior for that turn.
     
     | :die-d10:**d10** | **BEHAVIOUR** |

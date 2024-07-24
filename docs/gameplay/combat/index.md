@@ -89,7 +89,7 @@ Some abilities, spells, and class features allow you to take an additional actio
 
 ### :rsc-reaction:{ .lg .pad-r } Reaction
 
-:rsc-reaction: **Reaction**s are special actions you can take in response to certain triggers, even when it’s not your turn. You can take one :rsc-reaction: **Reaction** per round. Common reactions include:
+:rsc-reaction: **Reactions** are special actions you can take in response to certain triggers, even when it’s not your turn. You can take one :rsc-reaction: **Reaction** per round. Common reactions include:
 
 - **Opportunity Attack:** When an enemy moves out of your reach.
 - **Casting a Spell:** Some spells, like *[Shield](../../spells/1st-level.md#shield)* or *[Counterspell](../../spells/3rd-level.md#counterspell)*, can be cast using :rsc-reaction: **Reaction**.

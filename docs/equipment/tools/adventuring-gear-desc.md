@@ -50,7 +50,7 @@ As an :rsc-action: **Action**, you can splash the contents of this vial onto a c
 This sticky, adhesive fluid ignites when exposed to air. As an :rsc-action: **Action**, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its :rsc-action: **Action** to make a DC 10 Dexterity check to extinguish the flames.
 
 #### Antitoxin 
-A creature that drinks this vial of liquid gains :d20-adv: **Advantage** on :d20-save: **Saving Throw**s against poison for 1 hour. It confers no benefits to undead or constructs.
+A creature that drinks this vial of liquid gains :d20-adv: **Advantage** on :d20-save: **Saving Throws** against poison for 1 hour. It confers no benefits to undead or constructs.
 
 #### Ball Bearings (bag of 1,000)
 As an :rsc-action: **Action**, you can spill these tiny balls from their pouch to cover a level area 10 feet square. A creature moving across the covered area must succeed on a DC 10 Dexterity :d20-save: **Saving Throw** or fall prone. A creature moving through the area at half speed doesn't need to make the :d20-save: **Saving Throw**.

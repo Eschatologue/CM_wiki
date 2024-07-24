@@ -37,14 +37,14 @@ You can customize your Arcane Armour. When you do so, choose one of the followin
 
 Each model includes a special weapon. When you attack with that weapon, you can add your Intelligence modifier, instead of Strength or Dexterity, to the attack and damage rolls.
 
-You can change the armour's model whenever you finish a short or long rest, provided you have smith's tools in hand.
+You can change the armour's model whenever you finish a Short Rest or Long Rest, provided you have smith's tools in hand.
 
 ### Guardian
 
 You design your armour to be in the front line of conflict. It has the following features:
 
 - **Thunder Gauntlets.** Each of the armour's gauntlets counts as a simple melee weapon while you aren't holding anything in it, and it deals 1d8 thunder damage on a hit. A creature hit by the gauntlet has disadvantage on attack rolls against targets other than you until the start of your next turn, as the armour magically emits a distracting pulse when the creature attacks someone else.
-- **Defensive Field.** As a bonus action, you can gain temporary hit points equal to your level in this class, replacing any temporary hit points you already have. You lose these temporary hit points if you doff the armour. You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+- **Defensive Field.** As a bonus action, you can gain temporary hit points equal to your level in this class, replacing any temporary hit points you already have. You lose these temporary hit points if you doff the armour. You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
 
 ### Infiltrator
 
@@ -70,6 +70,6 @@ our Arcane Armour gains additional benefits based on its model, as shown below.
 
 **Guardian.** When a Huge or smaller creature you can see ends its turn within 30 feet of you, you can use your reaction to magically force it to make a Strength saving throw against your spell save DC. On a failed save, you pull the creature up to 25 feet directly to an unoccupied space. If you pull the target to a space within 5 feet of you, you can make a melee weapon attack against it as part of this reaction.
 
-You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a long rest.
+You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a Long Rest.
 
 **Infiltrator.** Any creature that takes lightning damage from your Lightning Launcher glimmers with magical light until the start of your next turn. The glimmering creature sheds dim light in a 5-foot radius, and it has disadvantage on attack rolls against you, as the light jolts it if it attacks you. In addition, the next attack roll against it has advantage, and if that attack hits, the target takes an extra 1d6 lightning damage.

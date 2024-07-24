@@ -36,7 +36,7 @@ Your expertise aids you in recalling lore related to your instrument.
 Your ability to put on a good show is improved when you incorporate an instrument into your act.
 
 **Compose a Tune**  
-As part of a long rest, you can compose a new tune and lyrics for your instrument. You might use this ability to impress a noble or spread scandalous rumors with a catchy tune.
+As part of a Long Rest, you can compose a new tune and lyrics for your instrument. You might use this ability to impress a noble or spread scandalous rumors with a catchy tune.
 
 | activity | DC |
 | --- | :-: |

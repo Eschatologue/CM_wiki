@@ -14,7 +14,7 @@
 :   You can speak, read, and write *Common* and *Draconic*.
 #### :dmg-fire: Breath Weapon 
 
-You are distantly related to a particular kind of Aeginae. Each ancestry provides a damage resistance and a Breath Weapon, which shares the same range and area of effects but different element and :d20-save: **Saving Throw**s, all breath weapon also increases in damage at certain levels.
+You are distantly related to a particular kind of Aeginae. Each ancestry provides a damage resistance and a Breath Weapon, which shares the same range and area of effects but different element and :d20-save: **Saving Throws**, all breath weapon also increases in damage at certain levels.
 
 ##### :d20-save: **Saving Throw**s
 :   The :d20-save: **Saving Throw** for your Breath Weapon is calculated as `8 + Constitution Modifier + Proficiency Bonus`
@@ -29,7 +29,7 @@ The damage of your Breath Weapon increases with your character level:
 ## Aerothurge Ancestry
 *You share traits to an Aeginae who used to rule the skies.*
 #### Breath Weapon: :dmg-lightning:Lightning
-:   Once per Short-rest, you can use an :rsc-action: **Action** to exhale destructive energy.
+:   Once per Short Rest, you can use an :rsc-action: **Action** to exhale destructive energy.
 
 ##### Breath Weapon Table
 | **COST** | **RANGE/AoE** | **ATTACK/SAVE** | **DAMAGE/EFFECT** |
@@ -44,7 +44,7 @@ The damage of your Breath Weapon increases with your character level:
 ## Earthborne Ancestry
 *You share traits to an Aeginae who used to rule the beneath the earth.*
 #### Breath Weapon: :dmg-poison:Poison
-:   Once per Short-rest, you can use an :rsc-action: **Action** to exhale destructive energy.
+:   Once per Short Rest, you can use an :rsc-action: **Action** to exhale destructive energy.
 
 ##### Breath Weapon Table
 | **COST** | **RANGE/AoE** | **ATTACK/SAVE** | **DAMAGE/EFFECT** |
@@ -59,7 +59,7 @@ The damage of your Breath Weapon increases with your character level:
 ## Cryogenic Ancestry
 *You share traits to an Aeginae who used to rule the frozen tundra.*
 #### Breath Weapon: :dmg-cold:Cold
-:   Once per Short-rest, you can use an :rsc-action: **Action** to exhale destructive energy.
+:   Once per Short Rest, you can use an :rsc-action: **Action** to exhale destructive energy.
 
 ##### Breath Weapon Table
 | **COST** | **RANGE/AoE** | **ATTACK/SAVE** | **DAMAGE/EFFECT** |
@@ -74,7 +74,7 @@ The damage of your Breath Weapon increases with your character level:
 ## Pyrokinetic Ancestry
 *You share traits to an Aeginae who used to rule over flames.*
 #### Breath Weapon: :dmg-fire:Fire
-:   Once per Short-rest, you can use an :rsc-action: **Action** to exhale destructive energy.
+:   Once per Short Rest, you can use an :rsc-action: **Action** to exhale destructive energy.
 
 ##### Breath Weapon Table
 | **COST** | **RANGE/AoE** | **ATTACK/SAVE** | **DAMAGE/EFFECT** |

@@ -44,10 +44,10 @@ Characters are considered adjacent if they are in squares next to each other (in
 
 ### Cover 
 
-Positioning behind obstacles or other characters can provide cover, granting bonuses to AC and Dexterity :d20-save: **Saving Throw**s.
+Positioning behind obstacles or other characters can provide cover, granting bonuses to AC and Dexterity :d20-save: **Saving Throws**.
    
-- **Half Cover.** +2 bonus to AC and Dexterity :d20-save: **Saving Throw**s.
-- **Three-Quarters Cover.** +5 bonus to AC and Dexterity :d20-save: **Saving Throw**s.
+- **Half Cover.** +2 bonus to AC and Dexterity :d20-save: **Saving Throws**.
+- **Three-Quarters Cover.** +5 bonus to AC and Dexterity :d20-save: **Saving Throws**.
 - **Total Cover.** Cannot be targeted directly by attacks or spells.
 
 ## Space
@@ -60,4 +60,4 @@ If four Large creatures crowd around a Medium or smaller one, there's little roo
 
 ### Squeezing into a Smaller Space
 
-A creature can squeeze through a space that is large enough for a creature one size smaller than it. Thus, a Large creature can squeeze through a passage that's only 5 feet wide. While squeezing through a space, a creature must spend 1 extra foot for every foot it moves there, and it has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** and Dexterity :d20-save: **Saving Throw**s. :d20-attack: **Attack Rolls** against the creature have :d20-adv: **Advantage** while it's in the smaller space.
+A creature can squeeze through a space that is large enough for a creature one size smaller than it. Thus, a Large creature can squeeze through a passage that's only 5 feet wide. While squeezing through a space, a creature must spend 1 extra foot for every foot it moves there, and it has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** and Dexterity :d20-save: **Saving Throws**. :d20-attack: **Attack Rolls** against the creature have :d20-adv: **Advantage** while it's in the smaller space.

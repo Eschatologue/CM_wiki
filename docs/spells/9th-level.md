@@ -44,7 +44,7 @@ The blade can harmlessly pass through any barrier, including a  wall of force.
 **Components:** V, S, M (a hummingbird feather)  
 **Duration:** 8 hours
 
-You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target can't be surprised and has :d20-adv: **Advantage** on :d20-attack: **Attack Roll**s, :d20-check: **Ability Check**s, and :d20-save: **Saving Throw**s. Additionally, other creatures have :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** against the target for the duration.
+You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target can't be surprised and has :d20-adv: **Advantage** on :d20-attack: **Attack Rolls**, :d20-check: **Ability Checks**, and :d20-save: **Saving Throws**. Additionally, other creatures have :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** against the target for the duration.
 
 This spell immediately ends if you cast it again before its duration ends.
 
@@ -340,7 +340,7 @@ You undo a single recent event by forcing a reroll of any roll made within the l
 
 You might be able to achieve something beyond the scope of the above examples. State your wish to the DM as precisely as possible. The DM has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. This spell might simply fail, the effect you desire might only be partly achieved, or you might suffer some unforeseen consequence as a result of how you worded the wish. For example, wishing that a villain were dead might propel you forward in time to a period when that villain is no longer alive, effectively removing you from the game. Similarly, wishing for a legendary magic item or artifact might instantly transport you to the presence of the item's current owner.
 
-The stress of casting this spell to produce any effect other than duplicating another spell weakens you. After enduring that stress, each time you cast a spell until you finish a long rest, you take  1d10 necrotic damage per level of that spell. This damage can't be reduced or prevented in any way. In addition, your Strength drops to 3, if it isn't 3 or lower already, for  2d4 days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. Finally, there is a @chance 33|||Unable to cast again!|Able to cast again chance that you are unable to cast wish ever again if you suffer this stress.
+The stress of casting this spell to produce any effect other than duplicating another spell weakens you. After enduring that stress, each time you cast a spell until you finish a Long Rest, you take  1d10 necrotic damage per level of that spell. This damage can't be reduced or prevented in any way. In addition, your Strength drops to 3, if it isn't 3 or lower already, for  2d4 days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. Finally, there is a @chance 33|||Unable to cast again!|Able to cast again chance that you are unable to cast wish ever again if you suffer this stress.
 
 ### Time Ravage
 *9th-level Necromancy*
@@ -350,7 +350,7 @@ The stress of casting this spell to produce any effect other than duplicating an
 **Components:** V, S, M (an hourglass filled with diamond dust worth at least 5,000 gp, which the spell consumes)  
 **Duration:** Instantaneous
 
-You target a creature you can see within range, putting its physical form through the devastation of rapid aging. The target must make a Constitution :d20-save: **Saving Throw**, taking 10d12 necrotic damage on a failed save, or half as much damage on a successful one. If the save fails, the target also ages to the point where it has only 30 days left before it dies of old age. In this aged state, the target has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Roll**s, :d20-check: **Ability Check**s, and :d20-save: **Saving Throw**s, and its walking speed is halved. Only the *wish* spell or the *greater restoration* cast with a 9th-level :rsc-spell-slot: **Spell Slot** can end these effects and restore the target to its previous age.
+You target a creature you can see within range, putting its physical form through the devastation of rapid aging. The target must make a Constitution :d20-save: **Saving Throw**, taking 10d12 necrotic damage on a failed save, or half as much damage on a successful one. If the save fails, the target also ages to the point where it has only 30 days left before it dies of old age. In this aged state, the target has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls**, :d20-check: **Ability Checks**, and :d20-save: **Saving Throws**, and its walking speed is halved. Only the *wish* spell or the *greater restoration* cast with a 9th-level :rsc-spell-slot: **Spell Slot** can end these effects and restore the target to its previous age.
 
 ### Ravenous Void
 *9th-level Evocation*

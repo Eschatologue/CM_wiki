@@ -59,9 +59,9 @@ You have studied the secrets of alchemy and are an expert in its practice, gaini
 
 - **Alchemical Genius** 
 
-    Over the course of any short rest, you can temporarily improve the potency of one potion of healing of any rarity. To use this benefit, you must have Alchemist’s Supplies with you, and the potion must be within reach.
+    Over the course of any Short Rest, you can temporarily improve the potency of one potion of healing of any rarity. To use this benefit, you must have Alchemist’s Supplies with you, and the potion must be within reach.
 
-    If the potion is drunk no more than 1 hour after the short rest ends, the creature drinking the potion can forgo the potion’s die roll and regains the maximum number of Hit Points that the potion can restore.
+    If the potion is drunk no more than 1 hour after the Short Rest ends, the creature drinking the potion can forgo the potion’s die roll and regains the maximum number of Hit Points that the potion can restore.
 
 ### Alert
 
@@ -95,7 +95,7 @@ You study the arcane arts, gaining the following benefits:
 
 - **Magical Trickster** 
 
-    You learn the *prestidigitation* cantrip, *identify*, and *detect magic* spells. You can cast *identify* or *detect magic* once without expending a :rsc-spell-slot: **Spell Slot**, and you regain the ability to do so when you finish a long rest.
+    You learn the *prestidigitation* cantrip, *identify*, and *detect magic* spells. You can cast *identify* or *detect magic* once without expending a :rsc-spell-slot: **Spell Slot**, and you regain the ability to do so when you finish a Long Rest.
 
 ### Armour Training
 
@@ -137,7 +137,7 @@ You've learned some of an artificer's inventiveness.
 
     You learn one cantrip of your choice from the artificer spell list, and you learn one 1st-level spell of your choice from that list. 
 
-    You can cast this feat's 1st-level spell without a :rsc-spell-slot: **Spell Slot**, and you must finish a long rest before you can cast it in this way again. You can also cast the spell using any :rsc-spell-slot: **Spell Slot**s you have. 
+    You can cast this feat's 1st-level spell without a :rsc-spell-slot: **Spell Slot**, and you must finish a Long Rest before you can cast it in this way again. You can also cast the spell using any :rsc-spell-slot: **Spell Slots** you have. 
 
     Intelligence is your spellcasting ability for these spells. 
 
@@ -179,7 +179,7 @@ The bar is your home, the countertop is your canvas, cocktails are your art.
     
 - **Water boy**
     
-    You can purify twice as much water during a short or long rest.
+    You can purify twice as much water during a Short Rest or Long Rest.
     
 - **Mixologist**
     
@@ -187,7 +187,7 @@ The bar is your home, the countertop is your canvas, cocktails are your art.
     
 - **Lite Chemist**
     
-    As part of a long rest, you can distill a beverage to yield a container of pure alcohol, which can be used for medicinal purposes (:d20-adv: **Advantage** on medicine checks) or as fuel for a fire (alchemist’s fire).
+    As part of a Long Rest, you can distill a beverage to yield a container of pure alcohol, which can be used for medicinal purposes (:d20-adv: **Advantage** on medicine checks) or as fuel for a fire (alchemist’s fire).
 
 ### Burglar
 
@@ -204,7 +204,7 @@ You pride yourself on your quickness and your close study of certain clandestine
     
 - **Plan B**
     
-    As part of a short rest, you can use scavenged or acquired materials to build a temporary set of thieves’ tools for when you lack access to a permanent one. This temporary set ceases to function after 1 hour.
+    As part of a Short Rest, you can use scavenged or acquired materials to build a temporary set of thieves’ tools for when you lack access to a permanent one. This temporary set ceases to function after 1 hour.
     
 - **Rougish Initiate**
     
@@ -246,11 +246,11 @@ Time spent mastering the culinary arts has paid off, granting you the following 
     
 - **Treat-maker**
     
-    As part of a short rest, you can cook special food. You can prepare enough of this food for a number of creatures equal to your Proficiency Bonus. At the end of the short rest, any creature who eats the food and spends one or more Hit Dice to regain Hit Points regains an extra 1d8 Hit Points.
+    As part of a Short Rest, you can cook special food. You can prepare enough of this food for a number of creatures equal to your Proficiency Bonus. At the end of the Short Rest, any creature who eats the food and spends one or more Hit Dice to regain Hit Points regains an extra 1d8 Hit Points.
     
 - **Snack Master**
     
-    With one hour of work or when you finish a long rest, you can cook a number of treats equal to your Proficiency Bonus. These special treats last 8 hours after being made. A creature can use a :rsc-bonus-action: **Bonus Action** to eat one of those treats to gain temporary Hit Points equal to your Proficiency Bonus.
+    With one hour of work or when you finish a Long Rest, you can cook a number of treats equal to your Proficiency Bonus. These special treats last 8 hours after being made. A creature can use a :rsc-bonus-action: **Bonus Action** to eat one of those treats to gain temporary Hit Points equal to your Proficiency Bonus.
 
 ~~We need to cook Bartrum~~
 
@@ -349,7 +349,7 @@ You excel at the identification and use of herbs and other natural substances fo
     
 - **Preventative Measures**
     
-    As part of a short rest, you can use your herbalism kit to administer an herbal remedy that helps a creature recover from their ailments. The creature gains :d20-adv: **Advantage** on :d20-save: **Saving Throws** against poison and disease for the next hour.
+    As part of a Short Rest, you can use your herbalism kit to administer an herbal remedy that helps a creature recover from their ailments. The creature gains :d20-adv: **Advantage** on :d20-save: **Saving Throws** against poison and disease for the next hour.
 
 ### Historian
 *Level 1 Feat*
@@ -520,7 +520,7 @@ You are a practiced musician, granting you the following benefits:
     
 - **Druidcasting**
     
-    You learn the *druidcraft*, *speak with animals*, and the *detect poison and disease* spells. You can cast *speak with animals* or *detect poison and disease* once without expending a :rsc-spell-slot: **Spell Slot**, and you regain the ability to do so when you finish a long rest.
+    You learn the *druidcraft*, *speak with animals*, and the *detect poison and disease* spells. You can cast *speak with animals* or *detect poison and disease* once without expending a :rsc-spell-slot: **Spell Slot**, and you regain the ability to do so when you finish a Long Rest.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these Spells (choose when you select this Feat).
 
@@ -651,7 +651,7 @@ Your extensive study of religion rewards you with the following benefits:
     
 - **Holy Casting**
     
-    You learn the *thaumaturgy*, *protection from evil and good*, and *detect evil and good* spells. You can cast protection from evil and good or detect evil and good once without expending a :rsc-spell-slot: **Spell Slot**, and you regain the ability to do so when you finish a long rest.
+    You learn the *thaumaturgy*, *protection from evil and good*, and *detect evil and good* spells. You can cast protection from evil and good or detect evil and good once without expending a :rsc-spell-slot: **Spell Slot**, and you regain the ability to do so when you finish a Long Rest.
     
     If you already know *thaumaturgy*, you gain another cantrip from the Cleric spell list.
 

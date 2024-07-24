@@ -28,7 +28,7 @@ The number of dice to be rolled is notated immediately before the `d`. Any appli
 
 In D&D, the twenty-sided die (:die-d20: d20) is central to the game's mechanics, determining the success or failure of a wide range of actions. Whenever a creature attempts an action with a chance of failure, it rolls a d20 and adds any applicable modifiers. The result is compared to a target number to see if the attempt succeeds.
 
-The term d20 Test encompasses the three main d20 rolls of the game: :d20-attack: **Attack Roll**s – which are rolled against the target's **Armour Class** (**AC**), :d20-check:**Ability Check** – which are rolled against the check's Difficulty Class (DC), and :d20-save:**Saving Throws** – which are rolled against a save DC
+The term d20 Test encompasses the three main d20 rolls of the game: :d20-attack: **Attack Rolls** – which are rolled against the target's **Armour Class** (**AC**), :d20-check:**Ability Check** – which are rolled against the check's Difficulty Class (DC), and :d20-save:**Saving Throws** – which are rolled against a save DC
 
 ### List of d20 Tests
 
@@ -36,7 +36,7 @@ The term d20 Test encompasses the three main d20 rolls of the game: :d20-attack:
 
 When a creature attacks a target, it makes an :d20-attack: **Attack Roll** against the target's AC to determine whether the attack is a hit or a miss. If the attack is a hit, it generally deals damage, and the attacker rolls for damage.
 
-Creatures generally make their attacks with their equipped weapon (including unarmed), but some spells – such as a Warlock's [Eldritch Blast](../spells/cantrip.md#eldritch-blast) – require the caster to make spell :d20-attack: **Attack Roll**s.
+Creatures generally make their attacks with their equipped weapon (including unarmed), but some spells – such as a Warlock's [Eldritch Blast](../spells/cantrip.md#eldritch-blast) – require the caster to make spell :d20-attack: **Attack Rolls**.
 
 !!! quote ""
 
@@ -66,7 +66,7 @@ Traps, spells, conditions, and other sources of harm may allow a creature a chan
 
 ### Natural 1s and 20s
 
-Rolling a 1 or 20 on a d20 roll is referred to as a natural 1 or natural 20. When making an :d20-attack: **Attack Roll** or :d20-check: **Ability Check**, rolling a natural 1 is always an automatic failure, while a natural 20 is always an automatic success, regardless of the final result after modifiers are applied. :d20-save: **Saving Throws** attempted during social encounters, and death :d20-save: **Saving Throw**s, can also roll natural 1s and 20s.
+Rolling a 1 or 20 on a d20 roll is referred to as a natural 1 or natural 20. When making an :d20-attack: **Attack Roll** or :d20-check: **Ability Check**, rolling a natural 1 is always an automatic failure, while a natural 20 is always an automatic success, regardless of the final result after modifiers are applied. :d20-save: **Saving Throws** attempted during social encounters, and death :d20-save: **Saving Throws**, can also roll natural 1s and 20s.
 
 ### :d20-adv: **Advantage** & Disadvantage
 
@@ -78,7 +78,7 @@ When multiple instances of :d20-adv: **Advantage** or :d20-disadv: **Disadvantag
 
 ### Difficulty Class
 
-A Difficulty Class (or DC) is a number rolled against when making :d20-check: **Ability Checks** or :d20-save: **Saving Throw**s. It represents how difficult a task is to accomplish. The number is determined by the the task attempted – or in the case of saves – the spell, condition, or action that has to be overcome.
+A Difficulty Class (or DC) is a number rolled against when making :d20-check: **Ability Checks** or :d20-save: **Saving Throws**. It represents how difficult a task is to accomplish. The number is determined by the the task attempted – or in the case of saves – the spell, condition, or action that has to be overcome.
 
 | Task Difficulty | DC |
 | --- | :-: |

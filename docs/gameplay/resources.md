@@ -52,36 +52,36 @@ A :rsc-reaction: **Reaction** is an :rsc-action: **Action** that creatures can t
 |:-:|
 |**SPELL SLOT**|
 
-Spell slots are a resource used by spellcasting characters to cast their spells. They represent the number and power level of spells that a character can cast in a day. Spell slots are specific to each spellcasting class, and the number and levels of :rsc-spell-slot: **Spell Slot**s available increase as a character gains levels in that particular class.
+Spell slots are a resource used by spellcasting characters to cast their spells. They represent the number and power level of spells that a character can cast in a day. Spell slots are specific to each spellcasting class, and the number and levels of :rsc-spell-slot: **Spell Slots** available increase as a character gains levels in that particular class.
 
 ### Basic Concept
 
-:rsc-spell-slot: **Spell Slots** determine how many spells of different levels a character can cast before needing to rest. Each spellcasting class has a table that shows how many :rsc-spell-slot: **Spell Slot**s of each level the character has at each class level. For example, a 5th-level wizard might have four 1st-level :rsc-spell-slot: **Spell Slot**s, three 2nd-level :rsc-spell-slot: **Spell Slot**s, and two 3rd-level :rsc-spell-slot: **Spell Slot**s, while a 5th-level cleric might have a different arrangement of :rsc-spell-slot: **Spell Slot**s.
+:rsc-spell-slot: **Spell Slots** determine how many spells of different levels a character can cast before needing to rest. Each spellcasting class has a table that shows how many :rsc-spell-slot: **Spell Slots** of each level the character has at each class level. For example, a 5th-level wizard might have four 1st-level :rsc-spell-slot: **Spell Slots**, three 2nd-level :rsc-spell-slot: **Spell Slots**, and two 3rd-level :rsc-spell-slot: **Spell Slots**, while a 5th-level cleric might have a different arrangement of :rsc-spell-slot: **Spell Slots**.
 
 ### Using Spell Slots
 
-To cast a spell, a character must expend a :rsc-spell-slot: **Spell Slot** of the spell's level or higher. Each spellcasting class's :rsc-spell-slot: **Spell Slot**s are unique to that class. For instance, a character cannot use a druid :rsc-spell-slot: **Spell Slot** to cast a wizard spell when multiclassing. To cast a spell, the character must use a :rsc-spell-slot: **Spell Slot** available to the class from which the spell originates.
+To cast a spell, a character must expend a :rsc-spell-slot: **Spell Slot** of the spell's level or higher. Each spellcasting class's :rsc-spell-slot: **Spell Slots** are unique to that class. For instance, a character cannot use a druid :rsc-spell-slot: **Spell Slot** to cast a wizard spell when multiclassing. To cast a spell, the character must use a :rsc-spell-slot: **Spell Slot** available to the class from which the spell originates.
 
 !!! tip "Pact Magic Spell Slots"
 
-    This restriction does not apply to Warlock :rsc-spell-slot: **Spell Slot**s. A warlock :rsc-spell-slot: **Spell Slot** can be used to cast a spell from any class even if that spell does not belong to the warlock class, provided that the character know and can cast the spell. Does not work in reverse however, you can't cast a warlock spell using a wizard :rsc-spell-slot: **Spell Slot**.
+    This restriction does not apply to Warlock :rsc-spell-slot: **Spell Slots**. A warlock :rsc-spell-slot: **Spell Slot** can be used to cast a spell from any class even if that spell does not belong to the warlock class, provided that the character know and can cast the spell. Does not work in reverse however, you can't cast a warlock spell using a wizard :rsc-spell-slot: **Spell Slot**.
 
 ### Recovery of Spell Slots
 
-Most spellcasters regain all their :rsc-spell-slot: **Spell Slot**s after completing a long rest (typically 8 hours of rest). Some classes, like the Warlock, have features that allow them to recover :rsc-spell-slot: **Spell Slot**s more frequently, such as during a short rest (about 1 hour).
+Most spellcasters regain all their :rsc-spell-slot: **Spell Slots** after completing a Long Rest (typically 8 hours of rest). Some classes, like the Warlock, have features that allow them to recover :rsc-spell-slot: **Spell Slots** more frequently, such as during a Short Rest (about 1 hour).
 
 **Examples:**
 
-- **A Level 3 Wizard:** A 3rd-level wizard might have four 1st-level :rsc-spell-slot: **Spell Slot**s and two 2nd-level :rsc-spell-slot: **Spell Slot**s. They can cast six spells before needing to rest, using only the :rsc-spell-slot: **Spell Slot**s available to them as a wizard class.
-- **Using a Higher-Level Slot:** A cleric might cast "Cure Wounds," which is a 1st-level spell, using a 3rd-level :rsc-spell-slot: **Spell Slot** to heal for more Hit Points. Instead of the base healing amount, the spell heals additional Hit Points per each level above the 1st, using only the cleric's :rsc-spell-slot: **Spell Slot**s.
+- **A Level 3 Wizard:** A 3rd-level wizard might have four 1st-level :rsc-spell-slot: **Spell Slots** and two 2nd-level :rsc-spell-slot: **Spell Slots**. They can cast six spells before needing to rest, using only the :rsc-spell-slot: **Spell Slots** available to them as a wizard class.
+- **Using a Higher-Level Slot:** A cleric might cast "Cure Wounds," which is a 1st-level spell, using a 3rd-level :rsc-spell-slot: **Spell Slot** to heal for more Hit Points. Instead of the base healing amount, the spell heals additional Hit Points per each level above the 1st, using only the cleric's :rsc-spell-slot: **Spell Slots**.
 
 ### Spell Slot Table
 
-Each spellcasting class has a table that shows the number of :rsc-spell-slot: **Spell Slot**s available at each level. This table is crucial for players to track how many spells they can cast before needing to rest. The table varies from class to class, reflecting the different spellcasting abilities of wizards, clerics, sorcerers, and other spellcasters.
+Each spellcasting class has a table that shows the number of :rsc-spell-slot: **Spell Slots** available at each level. This table is crucial for players to track how many spells they can cast before needing to rest. The table varies from class to class, reflecting the different spellcasting abilities of wizards, clerics, sorcerers, and other spellcasters.
 
 ### Flexible Casting
 
-Higher-level :rsc-spell-slot: **Spell Slot**s can be used to cast lower-level spells, often with enhanced effects. For example, casting the spell "Magic Missile" using a 2nd-level :rsc-spell-slot: **Spell Slot** instead of a 1st-level slot grants additional missiles.
+Higher-level :rsc-spell-slot: **Spell Slots** can be used to cast lower-level spells, often with enhanced effects. For example, casting the spell "Magic Missile" using a 2nd-level :rsc-spell-slot: **Spell Slot** instead of a 1st-level slot grants additional missiles.
 
 *See [Spellcasting] for the rules of casting spells*
 
@@ -139,7 +139,7 @@ Moving out of an enemy’s reach typically provokes an opportunity attack, allow
 |:-:|
 |**HIT DICE**|
 
-Hit Dice are an essential mechanic in D&D that represent a character's ability to recover health during short rests and determine their overall Hit Points.
+Hit Dice are an essential mechanic in D&D that represent a character's ability to recover health during Short Rests and determine their overall Hit Points.
 
 ### Determining Hit Dice
 
@@ -149,11 +149,11 @@ Each class in D&D has a specific type of Hit Die. For example, a Fighter uses a 
 
 ### Using Hit Dice
 
-Hit Dice are primarily used to recover Hit Points during a short rest:
+Hit Dice are primarily used to recover Hit Points during a Short Rest:
 
-- **Short Rest Recovery:** During a short rest (typically 1 hour), a character can spend one or more of their Hit Dice to regain Hit Points. The player rolls the Hit Die, adds the character's Constitution modifier to the result, and regains that many Hit Points. Multiple Hit Dice can be rolled if desired.
-    - **Example:** A 4th-level Fighter (d10 Hit Dice) with a +2 Constitution modifier can spend one of their Hit Dice during a short rest. They roll a d10, get a 6, add their +2 modifier for a total of 8 Hit Points recovered. They have three remaining Hit Dice for that day.
-- **Regaining Hit Dice:** After a long rest (typically 8 hours), a character regains spent Hit Dice up to a number equal to half their total Hit Dice (minimum of one die). For example, if a character has eight Hit Dice, they regain four after a long rest.
+- **Short Rest Recovery:** During a Short Rest (typically 1 hour), a character can spend one or more of their Hit Dice to regain Hit Points. The player rolls the Hit Die, adds the character's Constitution modifier to the result, and regains that many Hit Points. Multiple Hit Dice can be rolled if desired.
+    - **Example:** A 4th-level Fighter (d10 Hit Dice) with a +2 Constitution modifier can spend one of their Hit Dice during a Short Rest. They roll a d10, get a 6, add their +2 modifier for a total of 8 Hit Points recovered. They have three remaining Hit Dice for that day.
+- **Regaining Hit Dice:** After a Long Rest (typically 8 hours), a character regains spent Hit Dice up to a number equal to half their total Hit Dice (minimum of one die). For example, if a character has eight Hit Dice, they regain four after a Long Rest.
 
 ??? info "Other Uses of Hit Dice"
 

@@ -74,7 +74,7 @@ You invoke the power of Hadar, the Dark Hunger. Tendrils of dark energy erupt fr
 **Components:** V, S, M (a drop of blood)  
 **Duration:** Concentration, up to 1 minute
 
-Up to three creatures of your choice that you can see within range must make Charisma :d20-save: **Saving Throw**s. Whenever a target that fails this :d20-save: **Saving Throw** makes an :d20-attack: **Attack Roll** or a :d20-save: **Saving Throw** before the spell ends, the target must roll a d4 and subtract the number rolled from the :d20-attack: **Attack Roll** or :d20-save: **Saving Throw**.
+Up to three creatures of your choice that you can see within range must make Charisma :d20-save: **Saving Throws**. Whenever a target that fails this :d20-save: **Saving Throw** makes an :d20-attack: **Attack Roll** or a :d20-save: **Saving Throw** before the spell ends, the target must roll a d4 and subtract the number rolled from the :d20-attack: **Attack Roll** or :d20-save: **Saving Throw**.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 

@@ -12,8 +12,8 @@ While holding this map, you have these benefits:
 
 - You know the Guidance cantrip.
 - You have the Guiding Bolt spell prepared. It counts as a druid spell for you, and it doesn't count against the number of spells you can have prepared.
-- You can cast Guiding Bolt without expending a spell slot. You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
-If you lose the map, you can perform a 1-hour ceremony to magically create a replacement. This ceremony can be performed during a short or long rest, and it destroys the previous map.
+- You can cast Guiding Bolt without expending a spell slot. You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
+If you lose the map, you can perform a 1-hour ceremony to magically create a replacement. This ceremony can be performed during a Short Rest or Long Rest, and it destroys the previous map.
 
 | d6 | Map Form |
 |:-:|---|
@@ -40,13 +40,13 @@ Whenever you assume your starry form, choose which of the following constellatio
 
 ## Level 6: Cosmic Omen
 
-You learn to use your star map to divine the will of the cosmos. Whenever you finish a long rest, you can consult your Star Map for omens. When you do so, roll a die. Until you finish your next long rest, you gain access to a special reaction based on whether you rolled an even or an odd number on the die:
+You learn to use your star map to divine the will of the cosmos. Whenever you finish a Long Rest, you can consult your Star Map for omens. When you do so, roll a die. Until you finish your next Long Rest, you gain access to a special reaction based on whether you rolled an even or an odd number on the die:
 
 **Weal (even).** Whenever a creature you can see within 30 feet of you is about to make an attack roll, a saving throw, or an ability check, you can use your reaction to roll a d6 and add the number rolled to the total.
 
 **Woe (odd).** Whenever a creature you can see within 30 feet of you is about to make an attack roll, a saving throw, or an ability check, you can use your reaction to roll a d6 and subtract the number rolled from the total.
 
-You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
 
 ## Level 10: Twinkling Constellations
 
@@ -58,4 +58,4 @@ Moreover, at the start of each of your turns while in your Starry Form, you can 
 
 Your connection to the cosmos allows you to conjure brilliant starlight. As an action, you conjure a burst of light in a 30-foot-radius sphere centered on a point you can see within 120 feet of you. You can immediately teleport each willing creature in the sphere to an unoccupied space within 30 feet of it. Each creature remaining in the sphere must succeed on a Constitution saving throw against your spell save DC or take 4d10 radiant damage and be blinded until the end of your next turn.
 
-Once you have used this action, you can’t use it again until you finish a long rest or until you expend a spell slot of 5th level or higher to use it again.
+Once you have used this action, you can’t use it again until you finish a Long Rest or until you expend a spell slot of 5th level or higher to use it again.

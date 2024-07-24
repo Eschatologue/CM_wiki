@@ -24,7 +24,7 @@ You also possess a preternatural blessing from a fey ally or a place of fey powe
 
 | d6 | Gift |
 |:---:|:---|
-| 1 | Illusory butterflies flutter around you while you take a short or long rest. |
+| 1 | Illusory butterflies flutter around you while you take a Short Rest or Long Rest. |
 | 2 | Fresh, seasonal flowers sprout from your hair each dawn. |
 | 3 | You faintly smell of cinnamon, lavender, nutmeg, or another comforting herb or spice. |
 | 4 | Your shadow dances while no one is looking directly at it. |
@@ -46,6 +46,6 @@ In addition, whenever you or a creature you can see within 120 feet of you succe
 
 ## Misty Wanderer – Level 15
 
-You can slip in and out of the Feywild to move in a blink of an eye: you can cast misty step without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.
+You can slip in and out of the Feywild to move in a blink of an eye: you can cast misty step without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
 In addition, whenever you cast misty step, you can bring along one willing creature you can see within 5 feet of you. That creature teleports to an unoccupied space of your choice within 5 feet of your destination space.

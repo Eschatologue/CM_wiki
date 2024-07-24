@@ -96,7 +96,7 @@ The DM has the fey creature's statistics.
 **Components:** V, S, M (a statuette of yourself carved from ivory and decorated with gems worth at least 1,500 gp)  
 **Duration:** 10 days
 
-Choose a spell of 5th level or lower that you can cast, that has a casting time of :rsc-action: **Action**, and that can target you. You cast that spell—called the contingent spell—as part of casting contingency, expending :rsc-spell-slot: **Spell Slot**s for both, but the contingent spell doesn't come into effect. Instead, it takes effect when a certain circumstance occurs. You describe that circumstance when you cast the two spells. For example, a contingency cast with *water breathing* might stipulate that *water breathing* comes into effect when you are engulfed in water or a similar liquid.
+Choose a spell of 5th level or lower that you can cast, that has a casting time of :rsc-action: **Action**, and that can target you. You cast that spell—called the contingent spell—as part of casting contingency, expending :rsc-spell-slot: **Spell Slots** for both, but the contingent spell doesn't come into effect. Instead, it takes effect when a certain circumstance occurs. You describe that circumstance when you cast the two spells. For example, a contingency cast with *water breathing* might stipulate that *water breathing* comes into effect when you are engulfed in water or a similar liquid.
 
 The contingent spell takes effect immediately after the circumstance is met for the first time, whether or not you want it to, and then contingency ends.
 
@@ -112,7 +112,7 @@ The contingent spell takes effect only on you, even if it can normally target ot
 
 While speaking an intricate incantation, you cut yourself with a jewel-encrusted dagger, taking 2d4 piercing damage that can't be reduced in any way. You then drip your blood on the spell's other components and touch them, transforming them into a special construct called a **homunculus**.
 
-The statistics of the **homunculus** are in the Monster Manual. It is your faithful companion, and it dies if you die. Whenever you finish a long rest, you can spend up to half your Hit Dice if the homunculus is on the same plane of existence as you. When you do so, roll each die and add your Constitution modifier to it. Your Hit Point maximum is reduced by the total, and the homunculus's Hit Point maximum and current Hit Points are both increased by it. This process can reduce you to no lower than 1 Hit Point, and the change to your and the homunculus's Hit Points ends when you finish your next long rest. The reduction to your Hit Point maximum can't be removed by any means before then, except by the homunculus's death.
+The statistics of the **homunculus** are in the Monster Manual. It is your faithful companion, and it dies if you die. Whenever you finish a Long Rest, you can spend up to half your Hit Dice if the homunculus is on the same plane of existence as you. When you do so, roll each die and add your Constitution modifier to it. Your Hit Point maximum is reduced by the total, and the homunculus's Hit Point maximum and current Hit Points are both increased by it. This process can reduce you to no lower than 1 Hit Point, and the change to your and the homunculus's Hit Points ends when you finish your next Long Rest. The reduction to your Hit Point maximum can't be removed by any means before then, except by the homunculus's death.
 
 You can have only one homunculus at a time. If you cast this spell while your homunculus lives, the spell fails.
 
@@ -208,7 +208,7 @@ For the spell's duration, your eyes become an inky void imbued with dread power.
 
 ***Panicked.*** The target is frightened of you. On each of its turns, the frightened creature must take the Dash action and move away from you by the safest and shortest available route, unless there is nowhere to move. If the target moves to a place at least 60 feet away from you where it can no longer see you, this effect ends.
 
-***Sickened.*** The target has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** and :d20-check: **Ability Check**s. At the end of each of its turns, it can make another Wisdom :d20-save: **Saving Throw**. If it succeeds, the effect ends.
+***Sickened.*** The target has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** and :d20-check: **Ability Checks**. At the end of each of its turns, it can make another Wisdom :d20-save: **Saving Throw**. If it succeeds, the effect ends.
 
 ### Find the Path
 *6th-level Divination*
@@ -501,7 +501,7 @@ You can refrain from firing the globe after completing the spell, if you wish. A
 
 Choose one creature that you can see within range. The target begins a comic dance in place: shuffling, tapping its feet, and capering for the duration. Creatures that can't be charmed are immune to this spell.
 
-A dancing creature must use all its movement to dance without leaving its space and has :d20-disadv: **Disadvantage** on Dexterity :d20-save: **Saving Throws** and :d20-attack: **Attack Roll**s. While the target is affected by this spell, other creatures have :d20-adv: **Advantage** on :d20-attack: **Attack Rolls** against it. As an :rsc-action: **Action**, a dancing creature makes a Wisdom :d20-save: **Saving Throw** to regain control of itself. On a successful save, the spell ends.
+A dancing creature must use all its movement to dance without leaving its space and has :d20-disadv: **Disadvantage** on Dexterity :d20-save: **Saving Throws** and :d20-attack: **Attack Rolls**. While the target is affected by this spell, other creatures have :d20-adv: **Advantage** on :d20-attack: **Attack Rolls** against it. As an :rsc-action: **Action**, a dancing creature makes a Wisdom :d20-save: **Saving Throw** to regain control of itself. On a successful save, the spell ends.
 
 ### Planar Ally
 *6th-level Conjuration*
@@ -640,7 +640,7 @@ You gain 50 temporary Hit Points. If any of these remain when the spell ends, th
 You have :d20-adv: **Advantage** on :d20-attack: **Attack Rolls** that you make with simple and martial weapons.  
 When you hit a target with a weapon attack, that target takes an extra 2d12 force damage.  
 You have Proficiency with all armor, shields, simple weapons, and martial weapons.  
-You have Proficiency in Strength and Constitution :d20-save: **Saving Throw**s.  
+You have Proficiency in Strength and Constitution :d20-save: **Saving Throws**.  
 You can attack twice, instead of once, when you take the Attack action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that gives you extra attacks.
 
 Immediately after the spell ends, you must succeed on a DC 15 Constitution :d20-save: **Saving Throw** or suffer one level of exhaustion.

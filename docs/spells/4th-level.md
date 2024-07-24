@@ -137,7 +137,7 @@ The summoned creatures are friendly to you and your companions. Roll initiative 
 
 The DM has the creatures' statistics.
 
-***At Higher Levels.*** When you cast this spell using certain higher-level :rsc-spell-slot: **Spell Slot**s, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot.
+***At Higher Levels.*** When you cast this spell using certain higher-level :rsc-spell-slot: **Spell Slots**, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot.
 
 ### Conjure Woodland Beings
 *4th-level Conjuration*
@@ -160,7 +160,7 @@ The summoned creatures are friendly to you and your companions. Roll initiative 
 
 The DM has the creatures' statistics.
 
-***At Higher Levels.*** When you cast this spell using certain higher-level :rsc-spell-slot: **Spell Slot**s, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot.
+***At Higher Levels.*** When you cast this spell using certain higher-level :rsc-spell-slot: **Spell Slots**, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot.
 
 ### Control Water
 *4th-level Transmutation*
@@ -228,7 +228,7 @@ Your magic and an offering put you in contact with a god or a god's servants. Yo
 
 The spell doesn't take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.
 
-If you cast the spell two or more times before finishing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The DM makes this roll in secret.
+If you cast the spell two or more times before finishing your next Long Rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The DM makes this roll in secret.
 
 ### Dominate Beast
 *4th-level Enchantment*
@@ -632,7 +632,7 @@ The spirit is an ally to you and your companions. In combat, the spirit shares y
 **Components:** V  
 **Duration:** Concentration, up to 1 minute
 
-The next time you hit a creature with a melee weapon attack during this spell's duration, your weapon pierces both body and mind, and the attack deals an extra 4d6 psychic damage to the target. The target must make a Wisdom :d20-save: **Saving Throw**. On a failed save, it has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** and :d20-check: **Ability Check**s, and can't take reactions, until the end of its next turn.
+The next time you hit a creature with a melee weapon attack during this spell's duration, your weapon pierces both body and mind, and the attack deals an extra 4d6 psychic damage to the target. The target must make a Wisdom :d20-save: **Saving Throw**. On a failed save, it has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** and :d20-check: **Ability Checks**, and can't take reactions, until the end of its next turn.
 
 ### Stone Shape
 *4th-level Transmutation*

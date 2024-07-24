@@ -216,7 +216,7 @@ Until the spell ends, when you make a Charisma check, you can replace the number
 **Components:** V, S, M (a tiny reliquary worth at least 1,000 gp containing a sacred relic, such as a scrap of cloth from a saint's robe or a piece of parchment from a religious text)  
 **Duration:** Concentration, up to 1 minute
 
-Divine light washes out from you and coalesces in a soft radiance in a 30-foot radius around you. Creatures of your choice in that radius when you cast this spell shed dim light in a 5-foot radius and have :d20-adv: **Advantage** on all :d20-save: **Saving Throw**s, and other creatures have :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** against them until the spell ends. In addition, when a fiend or an undead hits an affected creature with a melee attack, the aura flashes with brilliant light. The attacker must succeed on a Constitution :d20-save: **Saving Throw** or be blinded until the spell ends.
+Divine light washes out from you and coalesces in a soft radiance in a 30-foot radius around you. Creatures of your choice in that radius when you cast this spell shed dim light in a 5-foot radius and have :d20-adv: **Advantage** on all :d20-save: **Saving Throws**, and other creatures have :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** against them until the spell ends. In addition, when a fiend or an undead hits an affected creature with a melee attack, the aura flashes with brilliant light. The attacker must succeed on a Constitution :d20-save: **Saving Throw** or be blinded until the spell ends.
 
 ### Illusory Dragon
 *8th-level Illusion*
@@ -232,7 +232,7 @@ When the Illusion appears, any of your enemies that can see it must succeed on a
 
 As a :rsc-bonus-action: **Bonus Action** on your turn, you can move the Illusion up to 60 feet. At any point during its movement, you can cause it to exhale a blast of energy in a 60-foot cone originating from its space. When you create the dragon, choose a damage type: acid, cold, fire, lightning, necrotic, or poison. Each creature in the cone must make an Intelligence :d20-save: **Saving Throw**, taking 7d6 damage of the chosen damage type on a failed save, or half as much damage on a successful one.
 
-The Illusion is tangible because of the shadow stuff used to create it, but attacks miss it automatically, it succeeds on all :d20-save: **Saving Throw**s, and it is immune to all damage and conditions. A creature that uses an :rsc-action: **Action** to examine the dragon can determine that it is an Illusion by succeeding on an Intelligence (Investigation) check against your spell save DC. If a creature discerns the Illusion for what it is, the creature can see through it and has :d20-adv: **Advantage** on :d20-save: **Saving Throws** against its breath.
+The Illusion is tangible because of the shadow stuff used to create it, but attacks miss it automatically, it succeeds on all :d20-save: **Saving Throws**, and it is immune to all damage and conditions. A creature that uses an :rsc-action: **Action** to examine the dragon can determine that it is an Illusion by succeeding on an Intelligence (Investigation) check against your spell save DC. If a creature discerns the Illusion for what it is, the creature can see through it and has :d20-adv: **Advantage** on :d20-save: **Saving Throws** against its breath.
 
 ### Incendiary Cloud
 *8th-level Conjuration*

@@ -62,7 +62,7 @@ Healing energy radiates from you in an aura with a 30-foot radius. Until the spe
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has :d20-adv: **Advantage** on Wisdom :d20-save: **Saving Throws** and death :d20-save: **Saving Throw**s, and regains the maximum number of Hit Points possible from any healing.
+This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has :d20-adv: **Advantage** on Wisdom :d20-save: **Saving Throws** and death :d20-save: **Saving Throws**, and regains the maximum number of Hit Points possible from any healing.
 
 ### Bestow Curse
 *3rd-level Necromancy*
@@ -131,7 +131,7 @@ If you are outdoors in stormy conditions when you cast this spell, the spell giv
 **Components:** S, M (a pinch of sand)  
 **Duration:** 10 minutes
 
-You make a calming gesture, and up to three willing creatures of your choice that you can see within range fall unconscious for the spell's duration. The spell ends on a target early if it takes damage or someone uses an :rsc-action: **Action** to shake or slap it awake. If a target remains unconscious for the full duration, that target gains the benefit of a short rest, and it can't be affected by this spell again until it finishes a long rest.
+You make a calming gesture, and up to three willing creatures of your choice that you can see within range fall unconscious for the spell's duration. The spell ends on a target early if it takes damage or someone uses an :rsc-action: **Action** to shake or slap it awake. If a target remains unconscious for the full duration, that target gains the benefit of a Short Rest, and it can't be affected by this spell again until it finishes a Long Rest.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, you can target one additional willing creature for each slot level above 3rd.
 
@@ -170,7 +170,7 @@ The summoned creatures are friendly to you and your companions. Roll initiative 
 
 The DM has the creatures' statistics.
 
-***At Higher Levels.*** When you cast this spell using certain higher-level :rsc-spell-slot: **Spell Slot**s, you choose one of the summoning options above, and more creatures appear: twice as many with a 5th-level slot, three times as many with a 7th-level slot, and four times as many with a 9th-level slot.
+***At Higher Levels.*** When you cast this spell using certain higher-level :rsc-spell-slot: **Spell Slots**, you choose one of the summoning options above, and more creatures appear: twice as many with a 5th-level slot, three times as many with a 7th-level slot, and four times as many with a 9th-level slot.
 
 ### Conjure Barrage
 *3rd-level Conjuration*
@@ -364,7 +364,7 @@ You touch a willing creature. The target gains a flying speed of 60 feet for the
 
 You transform a willing creature you touch, along with everything it's wearing and carrying, into a misty cloud for the duration. The spell ends if the creature drops to 0 Hit Points. An incorporeal creature isn't affected.
 
-While in this form, the target's only method of movement is a flying speed of 10 feet. The target can enter and occupy the space of another creature. The target has resistance to nonmagical damage, and it has :d20-adv: **Advantage** on Strength, Dexterity, and Constitution :d20-save: **Saving Throw**s. The target can pass through small holes, narrow openings, and even mere cracks, though it treats liquids as though they were solid surfaces. The target can't fall and remains hovering in the air even when stunned or otherwise incapacitated.
+While in this form, the target's only method of movement is a flying speed of 10 feet. The target can enter and occupy the space of another creature. The target has resistance to nonmagical damage, and it has :d20-adv: **Advantage** on Strength, Dexterity, and Constitution :d20-save: **Saving Throws**. The target can pass through small holes, narrow openings, and even mere cracks, though it treats liquids as though they were solid surfaces. The target can't fall and remains hovering in the air even when stunned or otherwise incapacitated.
 
 While in the form of a misty cloud, the target can't talk or manipulate objects, and any objects it was carrying or holding can't be dropped, used, or otherwise interacted with. The target can't attack or cast spells.
 
@@ -400,7 +400,7 @@ When you inscribe the glyph, choose explosive runes or a spell glyph.
 **Components:** V, S, M (a shaving of licorice root)  
 **Duration:** Concentration, up to 1 minute
 
-Choose a willing creature that you can see within range. Until the spell ends, the target's speed is doubled, it gains a +2 bonus to AC, it has :d20-adv: **Advantage** on Dexterity :d20-save: **Saving Throw**s, and it gains an additional action on each of its turns. That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action.
+Choose a willing creature that you can see within range. Until the spell ends, the target's speed is doubled, it gains a +2 bonus to AC, it has :d20-adv: **Advantage** on Dexterity :d20-save: **Saving Throws**, and it gains an additional action on each of its turns. That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action.
 
 When the spell ends, the target can't move or take actions until after its next turn, as a wave of lethargy sweeps over it.
 
@@ -448,7 +448,7 @@ At the end of each of its turns, an affected target can make a Wisdom :d20-save:
 **Components:** V  
 **Duration:** Concentration, up to 1 hour
 
-For the duration, you or one willing creature you can see within range has resistance to psychic damage, as well as :d20-adv: **Advantage** on Intelligence, Wisdom, and Charisma :d20-save: **Saving Throw**s.
+For the duration, you or one willing creature you can see within range has resistance to psychic damage, as well as :d20-adv: **Advantage** on Intelligence, Wisdom, and Charisma :d20-save: **Saving Throws**.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, you can target one additional creature for each slot level above 3rd. The creatures must be within 30 feet of each other when you target them.
 
@@ -590,7 +590,7 @@ You create six tiny meteors in your space. They float in the air and orbit you f
 **Components:** V  
 **Duration:** 1 hour
 
-*I once heard a motivational speech by Jim and it was the worst ninety seconds of my life. What does Omin see in him, anyway?*— Walnut DankgrassYou address allies, staff, or innocent bystanders to exhort and inspire them to greatness, whether they have anything to get excited about or not. Choose up to five creatures within range that can hear you. For the duration, each affected creature gains 5 temporary Hit Points and has :d20-adv: **Advantage** on Wisdom :d20-save: **Saving Throw**s. If an affected creature is hit by an attack, it has :d20-adv: **Advantage** on the next :d20-attack: **Attack Roll** it makes. Once an affected creature loses the temporary Hit Points granted by this spell, the spell ends for that creature.
+*I once heard a motivational speech by Jim and it was the worst ninety seconds of my life. What does Omin see in him, anyway?*— Walnut DankgrassYou address allies, staff, or innocent bystanders to exhort and inspire them to greatness, whether they have anything to get excited about or not. Choose up to five creatures within range that can hear you. For the duration, each affected creature gains 5 temporary Hit Points and has :d20-adv: **Advantage** on Wisdom :d20-save: **Saving Throws**. If an affected creature is hit by an attack, it has :d20-adv: **Advantage** on the next :d20-attack: **Attack Roll** it makes. Once an affected creature loses the temporary Hit Points granted by this spell, the spell ends for that creature.
 
 ***At Higher Levels.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 4th level or higher, the temporary Hit Points increase by 5 for each slot level above 3rd.
 
@@ -724,7 +724,7 @@ If a creature starts its turn in the spell's area and is concentrating on a spel
 
 You alter time around up to six creatures of your choice in a 40-foot cube within range. Each target must succeed on a Wisdom :d20-save: **Saving Throw** or be affected by this spell for the duration.
 
-An affected target's speed is halved, it takes a −2 penalty to AC and Dexterity :d20-save: **Saving Throw**s, and it can't use reactions. On its turn, it can use either an :rsc-action: **Action** or a :rsc-bonus-action: **Bonus Action**, not both. Regardless of the creature's abilities or magic items, it can't make more than one melee or ranged attack during its turn.
+An affected target's speed is halved, it takes a −2 penalty to AC and Dexterity :d20-save: **Saving Throws**, and it can't use reactions. On its turn, it can use either an :rsc-action: **Action** or a :rsc-bonus-action: **Bonus Action**, not both. Regardless of the creature's abilities or magic items, it can't make more than one melee or ranged attack during its turn.
 
 If the creature attempts to cast a spell with a casting time of :rsc-action: **Action**, roll a d20. On an 11 or higher, the spell doesn't take effect until the creature's next turn, and the creature must use its action on that turn to complete the spell. If it can't, the spell is wasted.
 

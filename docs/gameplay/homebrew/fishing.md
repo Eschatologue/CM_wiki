@@ -119,7 +119,7 @@ Fishing Supplies cost 50 SP and can be found in most cities during your adventur
 
 Fishing rod modifications are augmentations that enhance your fishing rod to yield better results. These modifications work similarly to the Artificer Infusion mechanic, being tied to whichever fishing rod you modify. To modify your fishing rod, you must be proficient with [Fishing Supplies].
 
-You can change your fishing rod modifications as part of a short rest or before a long rest.
+You can change your fishing rod modifications as part of a Short Rest or before a Long Rest.
 
 ## Fishing Loot
 

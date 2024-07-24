@@ -81,7 +81,7 @@ You have learned to channel your magic through a deck of cards.
     
 - **Hidden Ace**
     
-    When you finish a long rest, you can choose two spell from your class's spell list and imbue those spell into cards. The chosen spell must have a casting time of 1 action, and it must be a level for which you have :rsc-spell-slot: **Spell Slot**s. The card remains imbued with this spell for 8 hours. 
+    When you finish a Long Rest, you can choose two spell from your class's spell list and imbue those spell into cards. The chosen spell must have a casting time of 1 action, and it must be a level for which you have :rsc-spell-slot: **Spell Slots**. The card remains imbued with this spell for 8 hours. 
     
     While the card is imbued with the spell, you can use a :rsc-bonus-action: **Bonus Action** to flourish the card and cast the spell within. The card then immediately loses its magic.
     
@@ -188,11 +188,11 @@ You’ve learned to cannibalize the power of your spells to reinvigorate your al
     
 - **Weave to Life**
     
-    As a :rsc-bonus-action: **Bonus Action**, you can expend a :rsc-spell-slot: **Spell Slot** of 1st level or higher to heal yourself or an ally within 30 feet. The number of Hit Points healed equals the level of the expended slot. In addition, the target gains temporary Hit Points equal to your spellcasting ability modifier. You must finish a long rest before you can use Weave to Life again
+    As a :rsc-bonus-action: **Bonus Action**, you can expend a :rsc-spell-slot: **Spell Slot** of 1st level or higher to heal yourself or an ally within 30 feet. The number of Hit Points healed equals the level of the expended slot. In addition, the target gains temporary Hit Points equal to your spellcasting ability modifier. You must finish a Long Rest before you can use Weave to Life again
     
 - **Soothing Magic**
     
-    If you target one or more allies with a spell that allows them to regain Hit Points or with Weave to Life, those allies are immune to being frightened for a number of rounds equal to the level of the healing spell. In addition, one ally who healed Hit Points (your choice) gains inspiration. You must complete a short or long rest before you can grant inspiration again.
+    If you target one or more allies with a spell that allows them to regain Hit Points or with Weave to Life, those allies are immune to being frightened for a number of rounds equal to the level of the healing spell. In addition, one ally who healed Hit Points (your choice) gains inspiration. You must complete a Short Rest or Long Rest before you can grant inspiration again.
 
 ### Elemental Adept
 
@@ -226,9 +226,9 @@ Your exposure to the Feywild’s magic has changed you, granting you the followi
     
 - **Fey Magic**
     
-    You learn the misty step spell and two other 1st-level spells of your choice from the Divination or Enchantment school of magic. You can cast each of these spells without expending a :rsc-spell-slot: **Spell Slot**. Once you cast either of these spells in this way, you can’t cast that spell in this way again until you finish a long rest.
+    You learn the misty step spell and two other 1st-level spells of your choice from the Divination or Enchantment school of magic. You can cast each of these spells without expending a :rsc-spell-slot: **Spell Slot**. Once you cast either of these spells in this way, you can’t cast that spell in this way again until you finish a Long Rest.
     
-    You can also cast these spells using :rsc-spell-slot: **Spell Slot**s you have of the appropriate level. The spells’ spellcasting ability is the ability increased by this feat.
+    You can also cast these spells using :rsc-spell-slot: **Spell Slots** you have of the appropriate level. The spells’ spellcasting ability is the ability increased by this feat.
 
 ### Fighting Intiate
 
@@ -266,9 +266,9 @@ You’ve developed the ability to instantly recall an unprepared spell in moment
     
 - **Compartmentalize**
     
-    As an :rsc-action: **Action**, you can instantly prepare a spell from your available class spell list (or spellbook, if you prepare spells from one) that you did not have prepared. This spell choice must be of a level for which you have :rsc-spell-slot: **Spell Slot**s. You then lose preparation of a different spell of your choice of equal or higher spell level. 
+    As an :rsc-action: **Action**, you can instantly prepare a spell from your available class spell list (or spellbook, if you prepare spells from one) that you did not have prepared. This spell choice must be of a level for which you have :rsc-spell-slot: **Spell Slots**. You then lose preparation of a different spell of your choice of equal or higher spell level. 
     
-    If you are multiclassed, you can only Flash Recall spells from a class that prepares spells. Once you use this ability, you must finish a short or long rest before you can use it again.
+    If you are multiclassed, you can only Flash Recall spells from a class that prepares spells. Once you use this ability, you must finish a Short Rest or Long Rest before you can use it again.
 
 ### Grappler
 
@@ -419,7 +419,7 @@ You are a master of the forge that can wield the right tools with ease. You gain
     
 - **Armour Upgrades**
     
-    As part of a long rest, you can use leather pieces to augment a set of medium or heavy armour. For 8 hours, the armour doesn’t cause its wearer to suffer :d20-disadv: **Disdvantage** on Dexterity (Stealth) checks.
+    As part of a Long Rest, you can use leather pieces to augment a set of medium or heavy armour. For 8 hours, the armour doesn’t cause its wearer to suffer :d20-disadv: **Disdvantage** on Dexterity (Stealth) checks.
     
 - **Find Fragility**
     
@@ -448,7 +448,7 @@ You master the physician’s arts, gaining the following benefits:
     
 - **Doctor’s Orders**
     
-    During a short rest, you can clean and bind the wounds of injured creatures. You can forego rolling Hit Die to maximize the amount of healing for a number of Hit Dice equal to your Wisdom Modifier.
+    During a Short Rest, you can clean and bind the wounds of injured creatures. You can forego rolling Hit Die to maximize the amount of healing for a number of Hit Dice equal to your Wisdom Modifier.
 
 ### Medium Armour Master
 
@@ -513,7 +513,7 @@ You’re experimenting how to exert your will on your spells to alter how they f
     
 - **Novice Pool**
     
-    You gain 2 sorcery points to spend on Metamagic (these points are added to any sorcery points you have from another source). You regain all spent sorcery points when you finish a long rest.
+    You gain 2 sorcery points to spend on Metamagic (these points are added to any sorcery points you have from another source). You regain all spent sorcery points when you finish a Long Rest.
 
 ### Mounted Combatant
 
@@ -564,7 +564,7 @@ You have achieved a penetrating precision in combat, granting you the following 
 Once per turn, when you hit a creature with a Weapon that deals Piercing damage, you can do one of the following effect:
 
 - **Twist the Blade.** The target takes additional Piercing damage equals to your Proficiency Bonus.
-- **Gap the Wound.** The target has :d20-disadv: **Disdvantage** on Constitution :d20-save: **Saving Throw**s until the start of your next turn.
+- **Gap the Wound.** The target has :d20-disadv: **Disdvantage** on Constitution :d20-save: **Saving Throws** until the start of your next turn.
 
 ### Polearm Master
 
@@ -887,7 +887,7 @@ You have been touched by the Warp, giving you benefits as follow:
     
 - **1st-level spell**
     
-    You learn a 1st-level spell from either the Warlock spell list. Once you cast it, you must finish a short or long rest before you can cast it again. Constitution is your spellcasting ability.
+    You learn a 1st-level spell from either the Warlock spell list. Once you cast it, you must finish a Short Rest or Long Rest before you can cast it again. Constitution is your spellcasting ability.
     
     - When you cast the 1st-level spell, you can expend one of your Hit Dice and roll it.
 

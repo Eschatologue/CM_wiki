@@ -92,15 +92,15 @@ Each spell you know and prepare is associated with one of your classes, and you 
 If a cantrip of yours increases in power at higher levels, the increase is based on your character level, not your level in a particular class.
 
 #### Spells Slots
-You determine your available :rsc-spell-slot: **Spell Slot**s by adding together all your levels in the bard, cleric, druid, sorcerer, and wizard classes, half your levels (rounded down) in the paladin and ranger classes, and a third of your fighter or rogue levels (rounded down) if you have the Eldritch Knight or the Arcane Trickster feature. Use this total to determine your :rsc-spell-slot: **Spell Slot**s by consulting the Multiclass Spellcaster table.
+You determine your available :rsc-spell-slot: **Spell Slots** by adding together all your levels in the bard, cleric, druid, sorcerer, and wizard classes, half your levels (rounded down) in the paladin and ranger classes, and a third of your fighter or rogue levels (rounded down) if you have the Eldritch Knight or the Arcane Trickster feature. Use this total to determine your :rsc-spell-slot: **Spell Slots** by consulting the Multiclass Spellcaster table.
 
-If you have more than one spellcasting class, this table might give you :rsc-spell-slot: **Spell Slot**s of a level that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-level spells. If a lower-level spell that you cast, like *burning hands*, has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don't have any spells of that higher level.
+If you have more than one spellcasting class, this table might give you :rsc-spell-slot: **Spell Slots** of a level that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-level spells. If a lower-level spell that you cast, like *burning hands*, has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don't have any spells of that higher level.
 
-For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th-level character when determining your :rsc-spell-slot: **Spell Slot**s: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don't know any 3rd-level spells, nor do you know any 2nd-level ranger spells. You can use the :rsc-spell-slot: **Spell Slot**s of those levels to cast the spells you do know—and potentially enhance their effects.
+For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th-level character when determining your :rsc-spell-slot: **Spell Slot**s: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don't know any 3rd-level spells, nor do you know any 2nd-level ranger spells. You can use the :rsc-spell-slot: **Spell Slots** of those levels to cast the spells you do know—and potentially enhance their effects.
 
 #### Pact Magic
 
-If you have both the Spellcasting class feature and the Pact Magic class feature from the warlock class, you can use the :rsc-spell-slot: **Spell Slot**s you gain from the Pact Magic feature to cast spells you know or have prepared from classes with the Spellcasting class feature, and you can use the :rsc-spell-slot: **Spell Slot**s you gain from the Spellcasting class feature to cast warlock spells you know.
+If you have both the Spellcasting class feature and the Pact Magic class feature from the warlock class, you can use the :rsc-spell-slot: **Spell Slots** you gain from the Pact Magic feature to cast spells you know or have prepared from classes with the Spellcasting class feature, and you can use the :rsc-spell-slot: **Spell Slots** you gain from the Spellcasting class feature to cast warlock spells you know.
 
 ##### Multiclass Spellcaster: Spell Slots per Spell Level
 

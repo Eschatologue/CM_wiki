@@ -98,7 +98,7 @@ Proficiency with alchemist's Supplies allows you to unlock more information on A
 When you inspect an area for clues, Proficiency with alchemist's Supplies grants additional insight into any chemicals or other substances that might have been used in the area.
 
 **Alchemical Crafting**  
-You can use this tool Proficiency to create alchemical items. A character can s pend money to collect raw materials, which weigh 1 pound for every 500 SP spent. The DM can allow a character to make a check using the indicated skill with advantage. As part of a long rest, you can use alchemist's Supplies to make one dose of acid, alchemist's fire, antitoxin, oil, perfume, or soap. Subtract half the value of the created item from the total SP worth of raw materials you are carrying.
+You can use this tool Proficiency to create alchemical items. A character can s pend money to collect raw materials, which weigh 1 pound for every 500 SP spent. The DM can allow a character to make a check using the indicated skill with advantage. As part of a Long Rest, you can use alchemist's Supplies to make one dose of acid, alchemist's fire, antitoxin, oil, perfume, or soap. Subtract half the value of the created item from the total SP worth of raw materials you are carrying.
 
 | **ACTIVITY** | **DC** |
 | --- | :-: |
@@ -125,7 +125,7 @@ This tool Proficiency grants additional insight when you treat anyone suffering 
 A stiff drink can help soften the hardest heart. Your Proficiency with brewer's Supplies can help you ply someone with drink, giving them just enough alcohol to mellow their mood.
 
 **Potable Water**  
-Your knowledge of brewing enables you to purify water that would otherwise be undrinkable. As part of a long rest, you can purify up to 6 gallons of water, or 1 gallon as part of a short rest.
+Your knowledge of brewing enables you to purify water that would otherwise be undrinkable. As part of a Long Rest, you can purify up to 6 gallons of water, or 1 gallon as part of a Short Rest.
 
 | **ACTIVITY** | **DC** |
 | --- | :-: |
@@ -156,7 +156,7 @@ You can quickly assess the weak spots in a wooden floor, making it easier to avo
 With 1 minute of work and raw materials, you can make a door or window harder to force open. Increase the DC needed to open it by 5.
 
 **Temporary Shelter**  
-As part of a long rest, you can construct a lean-to or a similar shelter to keep your group dry and in the shade for the duration of the rest. Because it was fashioned quickly from whatever wood was available , the shelter collapses 1d3 days after being assembled.
+As part of a Long Rest, you can construct a lean-to or a similar shelter to keep your group dry and in the shade for the duration of the rest. Because it was fashioned quickly from whatever wood was available , the shelter collapses 1d3 days after being assembled.
 
 | **ACTIVITY** | **DC** |
 | --- | :-: |
@@ -229,7 +229,7 @@ Your knowledge of shoes aids you in identifying the magical properties of enchan
 Footwear holds a surprising number of secrets. You can learn where someone has recently visited by examining the wear and the dirt that has accumulated on their shoes. Your experience in repairing shoes makes it easier for you to identify where damage might come from.
 
 **Maintain Shoes**  
-As part of a long rest, you can repair your companions' shoes. For the next 24 hours, up to six creatures of your choice who wear shoes you worked on can travel up to 10 hours a day without making :d20-save: **Saving Throws** to avoid exhaustion.
+As part of a Long Rest, you can repair your companions' shoes. For the next 24 hours, up to six creatures of your choice who wear shoes you worked on can travel up to 10 hours a day without making :d20-save: **Saving Throws** to avoid exhaustion.
 
 **Craft Hidden Compartment**  
 With 8 hours of work, you can add a hidden compartment to a pair of shoes. The compartment can hold an object up to 3 inches long and 1 inch wide and deep. You make an Intelligence check using your tool Proficiency to determine the Intelligence (Investigation) check DC needed to find the compartment.
@@ -256,7 +256,7 @@ When administering treatment, you can transform medicine that is bitter or sour 
 When foraging for food, you can make do with ingredients you scavenge that others would be unable to transform into nourishing meals.
 
 **Prepare Meals**  
-As part of a short rest, you can prepare a tasty meal that helps your companions regain their strength. You and up to five creatures of your choice regain 1 extra Hit Point per Hit Die spent during a short rest, provided you have access to your cook's Utentils and sufficient food.
+As part of a Short Rest, you can prepare a tasty meal that helps your companions regain their strength. You and up to five creatures of your choice regain 1 extra Hit Point per Hit Die spent during a Short Rest, provided you have access to your cook's Utentils and sufficient food.
 
 | **ACTIVITY** | **DC** |
 | --- | :-: |
@@ -381,7 +381,7 @@ Your expertise aids you in uncovering lore of any sort that is attached to a wor
 When you inspect a painting or a similar work of visual art, your knowledge of the practices behind creating it can grant you additional insight.
 
 **Painting and Drawing**  
-As part of a short or long rest, you can produce a simple work of art. Although your work might lack precision, you can capture an image or a scene, or make a quick copy of a piece of art you saw.
+As part of a Short Rest or Long Rest, you can produce a simple work of art. Although your work might lack precision, you can capture an image or a scene, or make a quick copy of a piece of art you saw.
 
 | **ACTIVITY** | **DC** |
 | --- | :-: |
@@ -469,10 +469,10 @@ Your expertise lends you additional insight when examining cloth objects, includ
 Using your knowledge of the process of creating cloth objects, you can spot clues and make deductions that others would overlook when you examine tapestries, upholstery, clothing, and other woven items.
 
 **Repair**  
-As part of a short rest, you can repair a single damaged cloth object.
+As part of a Short Rest, you can repair a single damaged cloth object.
 
 **Craft Clothing**  
-Assuming you have access to sufficient cloth and thread, you can create an outfit for a creature as part of a long rest.
+Assuming you have access to sufficient cloth and thread, you can create an outfit for a creature as part of a Long Rest.
 
 | **ACTIVITY** | **DC** |
 | --- | :-: |
@@ -494,10 +494,10 @@ Your expertise lends you additional insight when you examine wooden objects, suc
 Your knowledge of wooden objects gives you some added insight when you examine trees.
 
 **Repair**  
-As part of a short rest, you can repair a single damaged wooden object.
+As part of a Short Rest, you can repair a single damaged wooden object.
 
 **Craft Arrows**  
-As part of a short rest, you can craft up to five arrows. As part of a long rest, you can craft up to twenty. You must have enough wood on hand to produce them.
+As part of a Short Rest, you can craft up to five arrows. As part of a Long Rest, you can craft up to twenty. You must have enough wood on hand to produce them.
 
 | **ACTIVITY** | **DC** |
 | --- | :-: |
@@ -528,7 +528,7 @@ A cunning disguise can enhance an audience's enjoyment of a performance, provide
 Folk tend to trust a person in uniform. If you disguise yourself as an authority figure, your efforts to persuade others are often more effective.
 
 **Create Disguise**  
-As part of a long rest, you can create a disguise. It takes you 1 minute to don such a disguise once you have created it. You can carry only one such disguise on you at a time without drawing undue attention, unless you have a [Bag of Holding](http://dnd5e.wikidot.com/wondrous-items:bag-of-holding) or a similar method to keep them hidden. Each disguise weighs 1 pound.
+As part of a Long Rest, you can create a disguise. It takes you 1 minute to don such a disguise once you have created it. You can carry only one such disguise on you at a time without drawing undue attention, unless you have a [Bag of Holding](http://dnd5e.wikidot.com/wondrous-items:bag-of-holding) or a similar method to keep them hidden. Each disguise weighs 1 pound.
 
 - At other times, it takes 10 minutes to craft a disguise that involves moderate changes to your appearance, and 30 minutes for one that requires more extensive changes.
 
@@ -561,7 +561,7 @@ When you examine objects, Proficiency with a forgery kit is useful for determini
 Knowledge of other tools makes your forgeries that much more believable. For example, you could combine Proficiency with a forgery kit and Proficiency with cartographer's Tools to make a fake map.
 
 **Quick Fake**  
-As part of a short rest, you can produce a forged document no more than one page in length. As part of a long rest, you can produce a document that is up to four pages long. Your Intelligence check using a forgery kit determines the DC for someone else's Intelligence (Investigation) check to spot the fake.
+As part of a Short Rest, you can produce a forged document no more than one page in length. As part of a Long Rest, you can produce a document that is up to four pages long. Your Intelligence check using a forgery kit determines the DC for someone else's Intelligence (Investigation) check to spot the fake.
 
 | **ACTIVITY** | **DC** |
 | --- | :-: |
@@ -654,7 +654,7 @@ Your knowledge of traps grants you insight when answering questions about locati
 You gain additional insight when looking for traps, because you have learned a variety of common signs that betray their presence.
 
 **Set a Trap**  
-Just as you can disable traps, you can also set them. As part of a short rest, you can create a trap using items you have on hand. The total of your check becomes the DC for someone else's attempt to discover or disable the trap. The trap deals damage appropriate to the materials used in crafting it (such as poison or a weapon) or damage equal to half the total of your check, whichever the DM deems appropriate.
+Just as you can disable traps, you can also set them. As part of a Short Rest, you can create a trap using items you have on hand. The total of your check becomes the DC for someone else's attempt to discover or disable the trap. The trap deals damage appropriate to the materials used in crafting it (such as poison or a weapon) or damage equal to half the total of your check, whichever the DM deems appropriate.
 
 | **ACTIVITY** | **DC** |
 | --- | :-: |

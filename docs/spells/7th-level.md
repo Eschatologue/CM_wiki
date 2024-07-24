@@ -239,7 +239,7 @@ You can use this spell to banish an unwilling creature to another plane. Choose 
 
 You speak a word of power that causes waves of intense pain to assail one creature you can see within range. If the target has 100 Hit Points or fewer, it is subject to crippling pain. Otherwise, the spell has no effect on it. A target is also unaffected if it is immune to being charmed.
 
-While the target is affected by crippling pain, any speed it has can be no higher than 10 feet. The target also has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Roll**s, :d20-check: **Ability Check**s, and :d20-save: **Saving Throw**s, other than Constitution :d20-save: **Saving Throw**s. Finally, if the target tries to cast a spell, it must first succeed on a Constitution :d20-save: **Saving Throw**, or the casting fails and the spell is wasted.
+While the target is affected by crippling pain, any speed it has can be no higher than 10 feet. The target also has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls**, :d20-check: **Ability Checks**, and :d20-save: **Saving Throws**, other than Constitution :d20-save: **Saving Throws**. Finally, if the target tries to cast a spell, it must first succeed on a Constitution :d20-save: **Saving Throw**, or the casting fails and the spell is wasted.
 
 A target suffering this pain can make a Constitution :d20-save: **Saving Throw** at the end of each of its turns. On a successful save, the pain ends.
 
@@ -311,9 +311,9 @@ This spell neutralizes any poisons and cures normal diseases afflicting the crea
 
 This spell closes all mortal wounds and restores any missing body parts.
 
-Coming back from the dead is an ordeal. The target takes a −4 penalty to all :d20-attack: **Attack Roll**s, :d20-save: **Saving Throw**s, and :d20-check: **Ability Check**s. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.
+Coming back from the dead is an ordeal. The target takes a −4 penalty to all :d20-attack: **Attack Rolls**, :d20-save: **Saving Throws**, and :d20-check: **Ability Checks**. Every time the target finishes a Long Rest, the penalty is reduced by 1 until it disappears.
 
-Casting this spell to restore life to a creature that has been dead for one year or longer taxes you greatly. Until you finish a long rest, you can't cast spells again, and you have :d20-disadv: **Disadvantage** on all :d20-attack: **Attack Roll**s, :d20-check: **Ability Check**s, and :d20-save: **Saving Throw**s.
+Casting this spell to restore life to a creature that has been dead for one year or longer taxes you greatly. Until you finish a Long Rest, you can't cast spells again, and you have :d20-disadv: **Disadvantage** on all :d20-attack: **Attack Rolls**, :d20-check: **Ability Checks**, and :d20-save: **Saving Throws**.
 
 ### Reverse Gravity
 *7th-level Transmutation*
@@ -353,7 +353,7 @@ You can set a condition for the spell to end early. The condition can be anythin
 
 You shape an illusory duplicate of one beast or humanoid that is within range for the entire casting time of the spell. The duplicate is a creature, partially real and formed from ice or snow, and it can take actions and otherwise be affected as a normal creature. It appears to be the same as the original, but it has half the creature's Hit Point maximum and is formed without any equipment. Otherwise, the Illusion uses all the statistics of the creature it duplicates, except that it is a construct.
 
-The simulacrum is friendly to you and creatures you designate. It obeys your spoken commands, moving and acting in accordance with your wishes and acting on your turn in combat. The simulacrum lacks the ability to learn or become more powerful, so it never increases its level or other abilities, nor can it regain expended :rsc-spell-slot: **Spell Slot**s.
+The simulacrum is friendly to you and creatures you designate. It obeys your spoken commands, moving and acting in accordance with your wishes and acting on your turn in combat. The simulacrum lacks the ability to learn or become more powerful, so it never increases its level or other abilities, nor can it regain expended :rsc-spell-slot: **Spell Slots**.
 
 If the simulacrum is damaged, you can repair it in an alchemical laboratory, using rare herbs and minerals worth 100 gp per Hit Point it regains. The simulacrum lasts until it drops to 0 Hit Points, at which point it reverts to snow and melts instantly.
 
@@ -379,7 +379,7 @@ When you inscribe the glyph, choose one of the options below for its effect. Onc
 
 ***Death.*** Each target must make a Constitution :d20-save: **Saving Throw**, taking 10d10 necrotic damage on a failed save, or half as much damage on a successful save.
 
-***Discord.*** Each target must make a Constitution :d20-save: **Saving Throw**. On a failed save, a target bickers and argues with other creatures for 1 minute. During this time, it is incapable of meaningful communication and has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** and :d20-check: **Ability Check**s.
+***Discord.*** Each target must make a Constitution :d20-save: **Saving Throw**. On a failed save, a target bickers and argues with other creatures for 1 minute. During this time, it is incapable of meaningful communication and has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** and :d20-check: **Ability Checks**.
 
 ***Fear.*** Each target must make a Wisdom :d20-save: **Saving Throw** and becomes frightened for 1 minute on a failed save. While frightened, the target drops whatever it is holding and must move at least 30 feet away from the glyph on each of its turns, if able.
 

@@ -11,7 +11,7 @@ icon: material/sword-cross
 **Prerequisites:** Warrior Group, *Fighting Style* Feature, or [Fighting Initiate] feat  
 **Repeatable:** No
 
-You gain a +2 bonus to :d20-attack: **Attack Roll**s you make with Ranged Weapons.
+You gain a +2 bonus to :d20-attack: **Attack Rolls** you make with Ranged Weapons.
 
 ### Blind Fighting
 
@@ -69,10 +69,12 @@ You must be wielding a shield or a simple or martial weapon to do this as a :rsc
 **Prerequisites:** Warrior Group, *Fighting Style* Feature, or [Fighting Initiate] feat   
 **Repeatable:** No
 
-You learn one manoeuvre of your choice from among those available to the Battle Master archetype. If a manoeuvre you use requires your target to make a :d20-save: **Saving Throw** to resist the manoeuvre's effects, the :d20-save: **Saving Throw** DC equals 8 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice).
+You learn two [manoeuvre](../option/manoeuvre.md) of your choice from among those available to the Battlemaster archetype. 
 
-- You gain one superiority die, which is a :die-d6:d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your manoeuvres.  
-A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest
+If a manoeuvre you use requires your target to make a :d20-save: **Saving Throw** to resist the manoeuvre's effects, the DC equals 8 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice).
+
+- You gain two superiority die, which is a :die-d6:d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your manoeuvres.  
+A superiority die is expended when you use it. You regain your expended superiority dice when you finish a Short Rest or Long Rest
 
 ### Thrown-Weapon Fighting
 
@@ -125,7 +127,7 @@ When you make extra attacks of the :weapon-prop-automatic: **[Automatic]** weapo
 **Prerequisites:** Warrior Group, *Fighting Style* Feature, or [Fighting Initiate] feat  
 **Repeatable:** No
 
-While wielding a :weapon-prop-finesse: **Finesse** weapon and no other weapon, you gain a +2 bonus to your :d20-attack: **Attack Roll**s and an +1 to your Armour Class so long you are not wearing Heavy Armour or wielding Shields.
+While wielding a :weapon-prop-finesse: **Finesse** weapon and no other weapon, you gain a +2 bonus to your :d20-attack: **Attack Rolls** and an +1 to your Armour Class so long you are not wearing Heavy Armour or wielding Shields.
 
 ### Heavy Weapon Fighting
 
@@ -182,7 +184,7 @@ You specialise one weapon rather than many. Choose one weapon that you are Profi
 |:-:|:-:|:-:|:-:|:-:|:-:| 
 | 1 | >>> | 1d4 | 2d4 / 1d8 | >>> | 1d10 |
 | 1d4 | >>> | 1d6 | 1d10 | >>> | 1d12 |
-| 1d6 | >>> | 1d8 | 2d6 / 1d12 | >>> | 2d6 + 1 / 1d12 + 1 |
+| 1d6 | >>> | 1d8 | 2d6 / 1d12 | >>> | 2d6 / 1d12 + 1 |
 
 You can change your Signature Weapon when you gain a level in a class that has this feat.
 

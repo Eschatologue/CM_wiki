@@ -12,7 +12,7 @@ You learn how to push yourself beyond your normal limits.
 
 - **What a Rush!**
 
-    On your turn, you can expend one of your Hit Die and gain one additional action. You can use this feature once per long rest.
+    On your turn, you can expend one of your Hit Die and gain one additional action. You can use this feature once per Long Rest.
 
 ### Artifice Conflux
 *Level 8 Feat*
@@ -93,13 +93,13 @@ Your faith grants you great insight into magic, giving you a special privilege w
     
 - **Magic Resistance**
     
-    When you make a :d20-save: **Saving Throw** against a spell or other magical effect, you can gain :d20-adv: **Advantage** on the check. Once you use this trait, you can’t use it again until you finish a short or long rest.
+    When you make a :d20-save: **Saving Throw** against a spell or other magical effect, you can gain :d20-adv: **Advantage** on the check. Once you use this trait, you can’t use it again until you finish a Short Rest or Long Rest.
     
 - **Arcane Absorbtion**
     
     When you expend a :rsc-spell-slot: **Spell Slot**, roll a d20. On a 20, you regain a :rsc-spell-slot: **Spell Slot** of a level lower than expended :rsc-spell-slot: **Spell Slot**, up to a maximum level equal to your Proficiency Bonus, and a minimum level of 1
     
-    You can regain a total number of :rsc-spell-slot: **Spell Slot** levels equal to your Proficiency Bonus this way until you cannot regain further :rsc-spell-slot: **Spell Slot**s until you complete a long rest.
+    You can regain a total number of :rsc-spell-slot: **Spell Slot** levels equal to your Proficiency Bonus this way until you cannot regain further :rsc-spell-slot: **Spell Slots** until you complete a Long Rest.
 
 ### Shield Prodigy
 *Level 8 Feat*
@@ -148,4 +148,4 @@ You learn how to channel divine power given by the divine.
     
 - **Channel Divinity**
     
-    Choose a cleric domain, you gain a channel divinity feature granted by that domain. You can use this feature twice and regain expended uses when you finish a short or long rest. If a channel divinity option uses Wisdom of its effect, you can use either your Intelligence or Charisma for it.
+    Choose a cleric domain, you gain a channel divinity feature granted by that domain. You can use this feature twice and regain expended uses when you finish a Short Rest or Long Rest. If a channel divinity option uses Wisdom of its effect, you can use either your Intelligence or Charisma for it.

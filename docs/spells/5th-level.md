@@ -127,7 +127,7 @@ You contact your deity or a divine proxy and ask up to three questions that can 
 
 Divine beings aren't necessarily omniscient, so you might receive "unclear" as an answer if a question pertains to information that lies beyond the deity's knowledge. In a case where a one-word answer could be misleading or contrary to the deity's interests, the DM might offer a short phrase as an answer instead.
 
-If you cast the spell two or more times before finishing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get no answer. The DM makes this roll in secret.
+If you cast the spell two or more times before finishing your next Long Rest, there is a cumulative 25 percent chance for each casting after the first that you get no answer. The DM makes this roll in secret.
 
 ### Commune with Nature
 *5th-level Divination (ritual)*
@@ -199,7 +199,7 @@ You fire a piece of nonmagical ammunition from a ranged weapon or throw a nonmag
 **Components:** V  
 **Duration:** 1 minute
 
-You mentally contact a demigod, the spirit of a long-dead sage, or some other mysterious entity from another plane. Contacting this extraplanar intelligence can strain or even break your mind. When you cast this spell, make a DC 15 Intelligence :d20-save: **Saving Throw**. On a failure, you take 6d6 psychic damage and are insane until you finish a long rest. While insane, you can't take actions, can't understand what other creatures say, can't read, and speak only in gibberish. A *greater restoration* spell cast on you ends this effect.
+You mentally contact a demigod, the spirit of a long-dead sage, or some other mysterious entity from another plane. Contacting this extraplanar intelligence can strain or even break your mind. When you cast this spell, make a DC 15 Intelligence :d20-save: **Saving Throw**. On a failure, you take 6d6 psychic damage and are insane until you finish a Long Rest. While insane, you can't take actions, can't understand what other creatures say, can't read, and speak only in gibberish. A *greater restoration* spell cast on you ends this effect.
 
 On a successful save, you can ask the entity up to five questions. You must ask your questions before the spell ends. The DM answers each question with one word, such as "yes," "no," "maybe," "never," "irrelevant," or "unclear" (if the entity doesn't know the answer to the question). If a one-word answer would be misleading, the DM might instead offer a short phrase as an answer.
 
@@ -219,15 +219,15 @@ Since this spell induces a natural disease in its target, any effect that remove
 
 ***Blinding Sickness.*** Pain grips the creature's mind, and its eyes turn milky white. The creature has :d20-disadv: **Disadvantage** on Wisdom checks and Wisdom :d20-save: **Saving Throws** and is blinded.
 
-***Filth Fever.*** A raging fever sweeps through the creature's body. The creature has :d20-disadv: **Disadvantage** on Strength checks, Strength :d20-save: **Saving Throw**s, and :d20-attack: **Attack Rolls** that use Strength.
+***Filth Fever.*** A raging fever sweeps through the creature's body. The creature has :d20-disadv: **Disadvantage** on Strength checks, Strength :d20-save: **Saving Throws**, and :d20-attack: **Attack Rolls** that use Strength.
 
 ***Flesh Rot.*** The creature's flesh decays. The creature has :d20-disadv: **Disadvantage** on Charisma checks and vulnerability to all damage.
 
-***Mindfire.*** The creature's mind becomes feverish. The creature has :d20-disadv: **Disadvantage** on Intelligence checks and Intelligence :d20-save: **Saving Throw**s, and the creature behaves as if under the effects of the *confusion* spell during combat.
+***Mindfire.*** The creature's mind becomes feverish. The creature has :d20-disadv: **Disadvantage** on Intelligence checks and Intelligence :d20-save: **Saving Throws**, and the creature behaves as if under the effects of the *confusion* spell during combat.
 
-***Seizure.*** The creature is overcome with shaking. The creature has :d20-disadv: **Disadvantage** on Dexterity checks, Dexterity :d20-save: **Saving Throw**s, and :d20-attack: **Attack Rolls** that use Dexterity.
+***Seizure.*** The creature is overcome with shaking. The creature has :d20-disadv: **Disadvantage** on Dexterity checks, Dexterity :d20-save: **Saving Throws**, and :d20-attack: **Attack Rolls** that use Dexterity.
 
-***Slimy Doom.*** The creature begins to bleed uncontrollably. The creature has :d20-disadv: **Disadvantage** on Constitution checks and Constitution :d20-save: **Saving Throw**s. In addition, whenever the creature takes damage, it is stunned until the end of its next turn.
+***Slimy Doom.*** The creature begins to bleed uncontrollably. The creature has :d20-disadv: **Disadvantage** on Constitution checks and Constitution :d20-save: **Saving Throws**. In addition, whenever the creature takes damage, it is stunned until the end of its next turn.
 
 ### Control Winds
 *5th-level Transmutation*
@@ -239,9 +239,9 @@ Since this spell induces a natural disease in its target, any effect that remove
 
 You take control of the air in a 100-foot cube that you can see within range. Choose one of the following effects when you cast the spell. The effect lasts for the spell's duration, unless you use your :rsc-action: **Action** on a later turn to switch to a different effect. You can also use your :rsc-action: **Action** to temporarily halt the effect or to restart one you've halted.
 
-***Gusts.*** A wind picks up within the cube, continually blowing in a horizontal direction you designate. You choose the intensity of the wind: calm, moderate, or strong. If the wind is moderate or strong, ranged weapon attacks that pass through it or that are made against targets within the cube have :d20-disadv: **Disadvantage** on their :d20-attack: **Attack Roll**s. If the wind is strong, any creature moving against the wind must spend 1 extra foot of movement for each foot moved.
+***Gusts.*** A wind picks up within the cube, continually blowing in a horizontal direction you designate. You choose the intensity of the wind: calm, moderate, or strong. If the wind is moderate or strong, ranged weapon attacks that pass through it or that are made against targets within the cube have :d20-disadv: **Disadvantage** on their :d20-attack: **Attack Rolls**. If the wind is strong, any creature moving against the wind must spend 1 extra foot of movement for each foot moved.
 
-***Downdraft.*** You cause a sustained blast of strong wind to blow downward from the top of the cube. Ranged weapon attacks that pass through the cube or that are made against targets within it have :d20-disadv: **Disadvantage** on their :d20-attack: **Attack Roll**s. A creature must make a Strength :d20-save: **Saving Throw** if it flies into the cube for the first time on a turn or starts its turn there flying. On a failed save, the creature is knocked prone.
+***Downdraft.*** You cause a sustained blast of strong wind to blow downward from the top of the cube. Ranged weapon attacks that pass through the cube or that are made against targets within it have :d20-disadv: **Disadvantage** on their :d20-attack: **Attack Rolls**. A creature must make a Strength :d20-save: **Saving Throw** if it flies into the cube for the first time on a turn or starts its turn there flying. On a failed save, the creature is knocked prone.
 
 ***Updraft.*** You cause a sustained updraft within the cube, rising upward from the cube's bottom side. Creatures that end a fall within the cube take only half damage from the fall. When a creature in the cube makes a vertical jump, the creature can jump up to 10 feet higher than normal.
 
@@ -661,7 +661,7 @@ This spell also neutralizes any poisons and cures nonmagical diseases that affec
 
 This spell closes all mortal wounds, but it doesn't restore missing body parts. If the creature is lacking body parts or organs integral for its survival—its head, for instance—the spell automatically fails.
 
-Coming back from the dead is an ordeal. The target takes a −4 penalty to all :d20-attack: **Attack Roll**s, :d20-save: **Saving Throw**s, and :d20-check: **Ability Check**s. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.
+Coming back from the dead is an ordeal. The target takes a −4 penalty to all :d20-attack: **Attack Rolls**, :d20-save: **Saving Throws**, and :d20-check: **Ability Checks**. Every time the target finishes a Long Rest, the penalty is reduced by 1 until it disappears.
 
 ### Rary's Telepathic Bond
 *5th-level Divination (ritual)*
@@ -837,7 +837,7 @@ On each of your turns until the spell ends, you can use a :rsc-bonus-action: **B
 
 You choose a point within range and cause psychic energy to explode there. Each creature in a 20-foot-radius sphere centered on that point must make an Intelligence :d20-save: **Saving Throw**. A creature with an Intelligence score of 2 or lower can't be affected by this spell. A target takes 8d6 psychic damage on a failed save, or half as much damage on a successful one.
 
-After a failed save, a target has muddled thoughts for 1 minute. During that time, it rolls a d6 and subtracts the number rolled from all its :d20-attack: **Attack Rolls** and :d20-check: **Ability Check**s, as well as its Constitution :d20-save: **Saving Throws** to maintain concentration. The target can make an Intelligence :d20-save: **Saving Throw** at the end of each of its turns, ending the effect on itself on a success.
+After a failed save, a target has muddled thoughts for 1 minute. During that time, it rolls a d6 and subtracts the number rolled from all its :d20-attack: **Attack Rolls** and :d20-check: **Ability Checks**, as well as its Constitution :d20-save: **Saving Throws** to maintain concentration. The target can make an Intelligence :d20-save: **Saving Throw** at the end of each of its turns, ending the effect on itself on a success.
 
 ### Telekinesis
 *5th-level Transmutation*

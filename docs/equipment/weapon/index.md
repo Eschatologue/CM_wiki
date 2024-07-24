@@ -57,7 +57,7 @@ When making an attack with a finesse weapon, you use your choice of your Strengt
 
 ### :weapon-prop-heavy:{ .lg .pad-r } Heavy
 
-Heavy weapon is unwieldy compared to other weapons. You have :d20-disadv: **Disadvantage** on your :d20-attack: **Attack Roll**s with a Heavy weapon if it’s a Melee weapon and your Strength score isn’t at least 13, and if it’s a Ranged weapon and your Dexterity score isn’t at least 13.
+Heavy weapon is unwieldy compared to other weapons. You have :d20-disadv: **Disadvantage** on your :d20-attack: **Attack Rolls** with a Heavy weapon if it’s a Melee weapon and your Strength score isn’t at least 13, and if it’s a Ranged weapon and your Dexterity score isn’t at least 13.
 
 ### :weapon-prop-light:{ .lg .pad-r } Light
 
@@ -89,7 +89,7 @@ If you make an attack against a target that is within half this weapon’s norma
 
 ### :weapon-prop-sighted:{ .lg .pad-r } Sighted
 
-This weapon has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Roll**s made against targets within 20 feet.
+This weapon has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** made against targets within 20 feet.
 
 ### :weapon-prop-thrown:{ .lg .pad-r } Thrown
 

@@ -99,7 +99,7 @@ Nothing, for results that aren't especially good or bad
 
 The spell doesn't take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.
 
-If you cast the spell two or more times before completing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The DM makes this roll in secret.
+If you cast the spell two or more times before completing your next Long Rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The DM makes this roll in secret.
 
 ### Barkskin
 *2nd-level Transmutation*
@@ -345,9 +345,9 @@ You cause a creature or an object you can see within range to grow larger or sma
 
 If the target is a creature, everything it is wearing and carrying changes size with it. Any item dropped by an affected creature returns to normal size at once.
 
-***Enlarge.*** The target's size doubles in all dimensions, and its weight is multiplied by eight. This growth increases its size by one category—from Medium to Large, for example. If there isn't enough room for the target to double its size, the creature or object attains the maximum possible size in the space available. Until the spell ends, the target also has :d20-adv: **Advantage** on Strength checks and Strength :d20-save: **Saving Throw**s. The target's weapons also grow to match its new size. While these weapons are enlarged, the target's attacks with them deal 1d4 extra damage.
+***Enlarge.*** The target's size doubles in all dimensions, and its weight is multiplied by eight. This growth increases its size by one category—from Medium to Large, for example. If there isn't enough room for the target to double its size, the creature or object attains the maximum possible size in the space available. Until the spell ends, the target also has :d20-adv: **Advantage** on Strength checks and Strength :d20-save: **Saving Throws**. The target's weapons also grow to match its new size. While these weapons are enlarged, the target's attacks with them deal 1d4 extra damage.
 
-***Reduce.*** The target's size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category—from Medium to Small, for example. Until the spell ends, the target also has :d20-disadv: **Disadvantage** on Strength checks and Strength :d20-save: **Saving Throw**s. The target's weapons also shrink to match its new size. While these weapons are reduced, the target's attacks with them deal 1d4 less damage (this can't reduce the damage below 1).
+***Reduce.*** The target's size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category—from Medium to Small, for example. Until the spell ends, the target also has :d20-disadv: **Disadvantage** on Strength checks and Strength :d20-save: **Saving Throws**. The target's weapons also shrink to match its new size. While these weapons are reduced, the target's attacks with them deal 1d4 less damage (this can't reduce the damage below 1).
 
 ### Enthrall
 *2nd-level Enchantment*
@@ -717,7 +717,7 @@ You reach into the mind of one creature you can see within range. The target mus
 **Components:** V, S  
 **Duration:** 1 minute
 
-Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your :rsc-action: **Action**s, shifting position so it's impossible to track which image is real. You can use your :rsc-action: **Action** to dismiss the illusory duplicates.
+Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your :rsc-action: **Actions**, shifting position so it's impossible to track which image is real. You can use your :rsc-action: **Action** to dismiss the illusory duplicates.
 
 Each time a creature targets you with an attack during the spell's duration, roll a d20 to determine whether the attack instead targets one of your duplicates.
 
@@ -1091,7 +1091,7 @@ You magically twist space around another creature you can see within range. The 
 **Components:** V, S, M (a pair of platinum rings worth at least 50 gp each, which you and the target must wear for the duration)  
 **Duration:** 1 hour
 
-This spell wards a willing creature you touch and creates a mystic connection between you and the target until the spell ends. While the target is within 60 feet of you, it gains a +1 bonus to AC and :d20-save: **Saving Throw**s, and it has resistance to all damage. Also, each time it takes damage, you take the same amount of damage.
+This spell wards a willing creature you touch and creates a mystic connection between you and the target until the spell ends. While the target is within 60 feet of you, it gains a +1 bonus to AC and :d20-save: **Saving Throws**, and it has resistance to all damage. Also, each time it takes damage, you take the same amount of damage.
 
 The spell ends if you drop to 0 Hit Points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures. You can also dismiss the spell as an :rsc-action: **Action**.
 

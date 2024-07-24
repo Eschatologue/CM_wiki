@@ -6,7 +6,7 @@ Most assassins strike with physical weapons, and many burglars and spies use thi
 
 You harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy dice, which are each a d6. You have a number of these dice equal to twice your proficiency bonus, and they fuel various psionic powers you have, which are detailed below.
 
-Some of your powers expend the Psionic Energy die they use, as specified in a power's description, and you can't use a power if it requires you to use a die when your dice are all expended. You regain all your expended Psionic Energy dice when you finish a long rest. In addition, as a bonus action, you can regain one expended Psionic Energy die, but you can't do so again until you finish a short or long rest.
+Some of your powers expend the Psionic Energy die they use, as specified in a power's description, and you can't use a power if it requires you to use a die when your dice are all expended. You regain all your expended Psionic Energy dice when you finish a Long Rest. In addition, as a bonus action, you can regain one expended Psionic Energy die, but you can't do so again until you finish a Short Rest or Long Rest.
 
 When you reach certain levels in this class, the size of your Psionic Energy dice increases: at level 5 (:die-d8: d8), level 11 (:die-d10: d10), and level 17 (:die-d12: d12).
 
@@ -16,7 +16,7 @@ The powers below use your Psionic Energy dice.
 
 **Psychic Whispers.** You can establish telepathic communication between yourself and others — perfect for quiet infiltration. As an action, choose one or more creatures you can see, up to a number of creatures equal to your proficiency bonus, and then roll one Psionic Energy die. For a number of hours equal to the number rolled, the chosen creatures can speak telepathically with you, and you can speak telepathically with them. To send or receive a message (no action required), you and the other creature must be within 1 mile of each other. A creature can't use this telepathy if it can't speak any languages, and a creature can end the telepathic connection at any time (no action required). You and the creature don't need to speak a common language to understand each other.
 
-The first time you use this power after each long rest, you don't expend the Psionic Energy die. All other times you use the power, you expend the die.
+The first time you use this power after each Long Rest, you don't expend the Psionic Energy die. All other times you use the power, you expend the die.
 
 ## Psychic Blades – Level 3
 
@@ -38,10 +38,10 @@ Your Psychic Blades are now an expression of your psi-suffused soul, giving you 
 
 You can weave a veil of psychic static to mask yourself. As an action, you can magically become invisible, along with anything you are wearing or carrying, for 1 hour or until you dismiss this effect (no action required). This invisibility ends early immediately after you deal damage to a creature, or you force a creature to make a saving throw.
 
-Once you use this feature, you can't do so again until you finish a long rest, unless you expend a Psionic Energy die to use this feature again.
+Once you use this feature, you can't do so again until you finish a Long Rest, unless you expend a Psionic Energy die to use this feature again.
 
 ## Rend Mind – Level 17
 
 You can sweep your Psychic Blade directly through a creature's mind. When you use your Psychic Blades to deal Sneak Attack damage to a creature, you can force that target to make a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Dexterity modifier). If the save fails, the target is stunned for 1 minute. The stunned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-Once you use this feature, you can't do so again until you finish a long rest, unless you expend three Psionic Energy dice to use it again.
+Once you use this feature, you can't do so again until you finish a Long Rest, unless you expend three Psionic Energy dice to use it again.
