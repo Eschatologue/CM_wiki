@@ -97,5 +97,5 @@ When an effect requires the target to make a :d20-save: **Saving Throw**, the DC
 - **John's Jawbreaker.** The target must succeed a :d20-save: Constitution **Saving Throw**, or it becomes **Stunned** until the end of your next turn.
 - **John's Kinetic Jaunt.** Choose an unoccupied space you can see within 30 feet, you teleport to that space.
 - **John's Jettison.** The target must succeed a :d20-save: Strength **Saving Throw**, or it is pushed 15 ft and becomes **Prone**.
-- **John's Judgement.** You cause a 15 ft. :aoe-cone: cone explosion that must include your target. Each creature, excluding the target within the affected area must succeed a :d20-save: Dexterity **Saving Throw** or it takes :aoe-fire: **Fire** damage equals to your total weapon damage on that hit, or half as much on a successful save.
+- **John's Judgement.** You cause a 15 ft. :aoe-cone: cone explosion originating from the target and away from you. Each creature, excluding the target within the affected area must succeed a :d20-save: Dexterity **Saving Throw** or it takes :aoe-fire: **Fire** damage equals to your total weapon damage on that hit, or half as much on a successful save.
 - **John's Juggernaught.** The target is pushed 15 ft. straight away from you. You can then Move up to half your :rsc-speed: **Speed** straight torward the target without provoking Opportunity Attack.    
