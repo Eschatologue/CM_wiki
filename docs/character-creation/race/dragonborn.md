@@ -24,9 +24,9 @@ Young dragonborn grow quickly. They walk hours after hatching, attain the size a
 
 Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is **Medium**.
 
-#### :rsc-speed: Speed
+#### :rsc-speed: Base Racial Speed
 
-You are considered to have *Standard* speed; which is 30 ft.
+You are considered to have ^^Standard^^ speed; which is **30 ft.**
 
 #### :material-translate: Languages
 

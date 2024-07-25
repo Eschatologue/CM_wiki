@@ -34,9 +34,10 @@ nav:
     - Quickstart: character-creation/quickstart.md
     - Multiclassing: character-creation/multiclassing.md
     - Languages: character-creation/languages.md
-    - Race: 
-      - character-creation/race/index.md
+    - Race:
       - Dragonborn: character-creation/race/dragonborn.md
+      - Dwarf: character-creation/race/dwarf.md
+      - Elf: character-creation/race/elf.md
     - Ability Score: 
       - character-creation/ability-scores/index.md
       - Strength: character-creation/ability-scores/strength.md
@@ -231,7 +232,7 @@ markdown_extensions:
   - tables
   - toc:
       permalink: true
-      toc_depth: 4
+      toc_depth: 3
       slugify: !!python/object/apply:pymdownx.slugs.slugify
         kwds:
           case: lower
