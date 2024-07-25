@@ -1,28 +1,32 @@
 *A proud race, prioritizing clan loyalty and individual prowess above all else. Their ancestors endured servitude under the Aeginaes, acting as their executors, leading to their fear and ostracization by other races. Determined to maintain self-sufficiency, they refuse to be indebted to anyone, including once the Gods, and now, the Spires.*
 
-## Dragonborn Traits
+# Dragonborn
 
-#### :material-arrow-up-bold-box:{ .lg .middle } Ability Score Improvement
+## Main Traits
+
+#### :material-rotate-right: Ability Score Improvement
 
 One of your ability score increases by 2, and one of your ability score increases by 1.
 
-#### :material-rotate-right:{ .lg .middle } Age
+#### :material-rotate-right: Age
 
 Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80
 
-#### :material-move-resize-variant:{ .lg .middle } Size
+#### :material-move-resize-variant: Size
 
 Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is **Medium**.
 
-#### :rsc-speed:{ .lg .middle } Speed
+#### :rsc-speed: Speed
 
 You are considered to have *Standard* speed; which is 30 ft.
 
-#### :material-translate:{ .lg .middle } Languages
+#### :material-translate: Languages
 
 You can speak, read, and write *Common* and *Draconic*.
 
-#### :dmg-fire:{ .lg .middle } Breath Weapon 
+## Additional Traits
+
+#### :dmg-fire: Breath Weapon 
 
 You are distantly related to a particular kind of Aeginae. Each ancestry provides a damage resistance and a Breath Weapon, which shares the same range and area of effects but different element and :d20-save: **Saving Throws**, all breath weapon also increases in damage at certain levels.
 
