@@ -10,30 +10,38 @@
 
 ### Main Traits
 
-:material-arrow-up-bold-box:{ .lg .middle } **Ability Score Improvement**  
+:material-arrow-up-bold-box:{ .lg .middle } **Ability Score Improvement**
+
 &ensp;&ensp;&ensp; One of your ability score increases by 2, and one of your ability score increases by 1.
 
-:material-rotate-right:{ .lg .middle } **Age**  
+:material-rotate-right:{ .lg .middle } **Age**
+
 &ensp;&ensp;&ensp; Half-elves age at much the same rate as humans, reaching adulthood at the age of 20. They live much longer than humans, however, often exceeding 180 years.
 
-:material-move-resize-variant:{ .lg .middle } **Size**  
+:material-move-resize-variant:{ .lg .middle } **Size**
+
 Half-elves are more or less the same size as humans, ranging from 5 to 6 feet tall. Your size is **Medium**.
 
-:rsc-speed:{ .lg .middle } **Speed**  
+:rsc-speed:{ .lg .middle } **Speed**
+
 &ensp;&ensp;&ensp; You are considered to have *Standard* Speed; which is 30 ft.
 
-:dnd-stat-lang:{ .lg .middle } **Languages**  
+:dnd-stat-lang:{ .lg .middle } **Languages**
+
 &ensp;&ensp;&ensp; You can speak, read, and write *Common*, *Elvish* and *one* extra language of your choice.
 
 ### Additional Traits
 
-:weapon-spear:{ .lg .middle } **Civil Militia**  
+:weapon-spear:{ .lg .middle } **Civil Militia**
+
 &ensp;&ensp;&ensp; You gain :dnd-stat-prof:Proficiency in spears, glaives, pikes, and halberds.
 
-:dnd-trait-darkvision:{ .lg .middle } **Darkvision**  
+:dnd-trait-darkvision:{ .lg .middle } **Darkvision**
+
 &ensp;&ensp;&ensp; You can see in the dark up to 60 ft.
 
-:simple-paloaltonetworks:{ .lg .middle } **Fey Ancestry**  
+:simple-paloaltonetworks:{ .lg .middle } **Fey Ancestry**
+
 &ensp;&ensp;&ensp; You have :d20-adv: **Advantage** on :die-d20:**Saving Throws** against being Charmed and magic can't put you to Sleep. 
 
 ---
