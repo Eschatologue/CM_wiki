@@ -32,7 +32,8 @@ nav:
     - DM Related: dm/tools.md
   - Chartacter Creation:
     - Quickstart: character-creation/quickstart.md
-    - Race: character-creation/race/race.md
+    - Race: 
+      - character-creation/race/index.md
     - Multiclassing: character-creation/multiclassing.md
     - Languages: character-creation/languages.md
     - Ability Score: 
