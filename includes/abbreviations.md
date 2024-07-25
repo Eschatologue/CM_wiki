@@ -1,4 +1,8 @@
 *[Darkvision]: Ability to see in dim light as if it were bright light and in darkness as if it were dim light, within a specified range. Can't see Colours.
+*[Blindsight]: Ability to perceive its surroundings without relying on sight, within a specific radius.
+
+*[Lightly Obscured]: Creatures have disadvantage on Wisdom (Perception) checks that rely on sight.
+*[Heavily Obscured]: Vision is blocked; creatures are effectively blinded.
 
 *[D20 Test]: Ability Checks, Attack Rolls, and Saving Throws. All is rolled with a D20.
 
