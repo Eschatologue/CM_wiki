@@ -1,4 +1,12 @@
-*A proud race, prioritizing clan loyalty and individual prowess above all else. Their ancestors endured servitude under the Aeginaes, acting as their executors, leading to their fear and ostracization by other races. Determined to maintain self-sufficiency, they refuse to be indebted to anyone, including once the Gods, and now, the Spires.*
+<p style="text-align: center;">
+
+<i>
+
+"A proud race, prioritizing clan loyalty and individual prowess above all else. Their ancestors endured servitude under the Aeginaes, acting as their executors, leading to their fear and ostracization by other races. Determined to maintain self-sufficiency, they refuse to be indebted to anyone, including once the Gods, and now, the Spires."
+
+</i>
+
+</p>
 
 # Dragonborn
 
@@ -30,70 +38,62 @@ You can speak, read, and write *Common* and *Draconic*.
 
 You are distantly related to a particular kind of Aeginae. Each ancestry provides a damage resistance and a Breath Weapon, which shares the same range and area of effects but different element and :d20-save: **Saving Throws**, all breath weapon also increases in damage at certain levels.
 
-##### :d20-save: **Saving Throw**s
-:   The :d20-save: **Saving Throw** for your Breath Weapon is calculated as `8 + Constitution Modifier + Proficiency Bonus`
+When you take the :d20-attack: **Attack** Action on your turn, you can replace one of your attacks with an exhalation of destructive energy determined by your Ancestry, under the rules below:
 
-##### Breath Weapon Damage
-The damage of your Breath Weapon increases with your character level:
+&ensp;&ensp;&ensp; **Breath Weapon Damage.** Breath Weapon damage is 2d6 with its damage type is determined based on your Dragonborn Ancestry. The damage increases by 1d6 when you reach character Level 6 (3d6), Level 11 (4d6), and Level 16 (5d6). 
 
-- **6th-level:** :die-d6: 3d6
-- **11th-level:** :die-d6: 4d6
-- **16th-level:** :die-d6: 5d6
+&ensp;&ensp;&ensp; **Area of Effect.** A Breath Weapon attack targets an area of a **15 ft. :material-cone: Cone** or a **5 by 30 ft. :weapon-prop-ranged: Line** (your choice), originating from you. 
 
-## Aerothurge Ancestry
+&ensp;&ensp;&ensp; **Saving Throw.** When a Breath Weapon requires a :d20-save: **Saving Throw**, the DC is equals 8 + your Constitution Modifier + your Proficiency Bonus.
+
+&ensp;&ensp;&ensp; **Usage.** You can use your Breath Weapon a number of times equal to your Proficiency Bonus, and you regain one use on a Short Rest and all expended use when you finish a Long Rest.
+
+## Dragonborn Ancestry
+
+### Aerothurge Ancestry
+
 *You share traits to an Aeginae who used to rule the skies.*
-#### Breath Weapon: :dmg-lightning:Lightning
-:   Once per Short Rest, you can use an :rsc-action: **Action** to exhale destructive energy.
 
-##### Breath Weapon Table
-| **COST** | **RANGE/AoE** | **ATTACK/SAVE** | **DAMAGE/EFFECT** |
-|:---:|:---:|:---:|:---:|
-| :rsc-action: **Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :weapon-prop-ranged:line | :material-shield: DEX Save (half damage on success) | :die-d6: 2d6 :dmg-lightning:Lightning |
+#### Breath Weapon: :dmg-lightning: Lightning
+
+Your Breath Weapon deals :dmg-lightning: **Lightning** damage, and it requires your targets to make a :ability-dex: Dexterity :d20-save: **Saving Throw**.
 
 #### Damage Resistance
-:   The blood of ancient dragons flow through your veins. You have resistance to :dmg-lightning: Lightning damage.
 
----
+The blood of ancient dragons flow through your veins. You have resistance to :dmg-lightning: **Lightning** damage.
 
-## Earthborne Ancestry
-*You share traits to an Aeginae who used to rule the beneath the earth.*
-#### Breath Weapon: :dmg-poison:Poison
-:   Once per Short Rest, you can use an :rsc-action: **Action** to exhale destructive energy.
+### Earthborne Ancestry
 
-##### Breath Weapon Table
-| **COST** | **RANGE/AoE** | **ATTACK/SAVE** | **DAMAGE/EFFECT** |
-|:---:|:---:|:---:|:---:|
-| :rsc-action: **Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :weapon-prop-ranged:line | :material-shield: CON Save (half damage on success) | :die-d6: 2d6 :dmg-poison:Poison |
+*You share traits to an Aeginae who ruled beneath the earth.*
+
+#### Breath Weapon: :dmg-poison: Poison
+
+Your Breath Weapon deals :dmg-poison: **Poison** damage, and it requires your targets to make a :ability-cons: Constitution :d20-save: **Saving Throw**.
 
 #### Damage Resistance
-:   The blood of ancient dragons flow through your veins. You have resistance to :dmg-poison: Poison damage.
 
----
+The blood of ancient dragons flow through your veins. You have resistance to :dmg-poison: **Poison** damage.
 
-## Cryogenic Ancestry
-*You share traits to an Aeginae who used to rule the frozen tundra.*
-#### Breath Weapon: :dmg-cold:Cold
-:   Once per Short Rest, you can use an :rsc-action: **Action** to exhale destructive energy.
+### Cryogenic Ancestry
 
-##### Breath Weapon Table
-| **COST** | **RANGE/AoE** | **ATTACK/SAVE** | **DAMAGE/EFFECT** |
-|:---:|:---:|:---:|:---:|
-| :rsc-action: **Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :weapon-prop-ranged:line | :material-shield: CON Save (half damage on success) | :die-d6: 2d6 :dmg-cold:Cold |
+*You share traits to an Aeginae who ruled the frozen tundra.*
+
+#### Breath Weapon: :dmg-cold: Cold
+
+Your Breath Weapon deals :dmg-cold: **Cold** damage, and it requires your targets to make a :ability-cons: Constitution :d20-save: **Saving Throw**.
 
 #### Damage Resistance
-:   The blood of ancient dragons flow through your veins. You have resistance to :dmg-cold:Cold damage.
 
----
+The blood of ancient dragons flow through your veins. You have resistance to :dmg-cold: **Cold** damage.
 
-## Pyrokinetic Ancestry
+### Pyrokinetic Ancestry
+
 *You share traits to an Aeginae who used to rule over flames.*
-#### Breath Weapon: :dmg-fire:Fire
-:   Once per Short Rest, you can use an :rsc-action: **Action** to exhale destructive energy.
 
-##### Breath Weapon Table
-| **COST** | **RANGE/AoE** | **ATTACK/SAVE** | **DAMAGE/EFFECT** |
-|:---:|:---:|:---:|:---:|
-| :rsc-action: **Action** | Self/15 ft.:material-cone:cone or 5 by 30 ft. :weapon-prop-ranged:line | :material-shield: DEX Save (half damage on success) | :die-d6: 2d6 :dmg-fire:Fire |
+#### Breath Weapon: :dmg-fire: Fire
+
+Your Breath Weapon deals :dmg-fire: **Fire** damage, and it requires your targets to make a :ability-dex: Dexterity :d20-save: **Saving Throw**.
 
 #### Damage Resistance
-:   The blood of ancient dragons flow through your veins. You have resistance to :dmg-fire:Fire damage.
+
+The blood of ancient dragons flow through your veins. You have resistance to :dmg-fire: **Fire** damage.
