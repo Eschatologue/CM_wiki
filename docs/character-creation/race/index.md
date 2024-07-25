@@ -1,7 +1,3 @@
----
-icon: material/account-box
----
-
 There are 9 playable races in Crown & Misery, each with unique subraces that further define a character's strengths and abilities. For more details, refer to the descriptions of each race on this page, as some races have been mechanically altered.
 
 ##### Race Table
