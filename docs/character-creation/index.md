@@ -1,7 +1,3 @@
----
-icon: material/fast-forward
----
-
 # Creating Your Character
 
 This D&D campaign setting uses the same rulings as what you would find in other settings with minor additions and modifications. On a notable note, it uses combinations of 5th Edition ruling and OneD&D ruling.
