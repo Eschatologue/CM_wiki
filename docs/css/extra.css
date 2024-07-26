@@ -157,7 +157,7 @@
 
 /* Table Cell Padding */
 .md-typeset table:not([class]) td {
-    white-space: nowrap;
+    white-space: wrap;
     padding-top: 6px;
     padding-bottom: 6px;
 }
