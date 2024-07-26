@@ -34,37 +34,11 @@ This setting uses a post-apocalyptic dystopian science fantasy world, characters
 
 ### Choose a Race
 
-This D&D uses standard races available to PHB with some additions and changes, refer to [this](../character-creation/race/race.md) for more details. There is 9 available race available for choosing.
+Crown & Misery uses Common races available in 2014 PHB, with a lot of alterations. They are **9** available races for you to choose from.
 
 ### Choose a Background
 
-You can choose a pre-written background available on [WikiDot](http://dnd5e.wikidot.com/#toc3), only the Common Background though.
-
-If you're unsure about which background to choose, this D&D campaign uses the optional Custom Background^PHB^ rule. Finding a background that fits your character and the setting can be challenging, and the DM prefers to recycle existing backgrounds with added twists rather than create new ones from scratch. The details are as follows:
-
-!!! homebrew "Custom Background"
-
-    #### Skill Proficiencies
-    Two of your choice.  
-
-    #### Languages and Tool Proficiencies
-    Two languages or two tool Proficiencies or one language and one tool Proficiency.  
-    
-    #### Equipment
-    The equipment package from any [background]:material-information-outline:{ title="Only from Common Background!" }.
-
-    #### Feature: Choose a feature
-    Choose a feature from any [background]:material-information-outline:{ title="Only from Common Background!" }.
-
-    #### Feat
-    Choose a starting [Feat]. Even if you choose a pre-written background, the option of a starting feat is still available to you.
-
-    #### Affiliation
-    You have 5 point to spend between 4 [Affiliation]; Academe, Bohemia, Establishment, Villainny
-
-[background]: http://dnd5e.wikidot.com/#toc3
-[feat]: feat/feat-starting.md
-[Affiliation]: ../gameplay/homebrew/affiliation.md
+A Background represents your character's past and what push them to pursue the adventuring way of life. See the article [here](background.md) for more details.
 
 ### Choosing a Class
 
@@ -72,7 +46,7 @@ If you're unsure about which background to choose, this D&D campaign uses the op
 
 Please choose a class from the available options listed.
 
-You can also choose to [multiclass](../character-creation/multiclassing.md) when the prerequisites are met.
+You can also choose to [Multiclass](../character-creation/multiclassing.md) when the prerequisites are met.
 
 ### Starting Ability Scores
 
@@ -111,6 +85,6 @@ Because ability modifiers affect almost every :d20-attack: **Attack Roll**, :d20
 
 ### Starting Level
 
-For this campaign, you will start at 3rd-level.
+For this campaign, you will start at Level 3
 
-When making your character, make one normally starting the 1st-level, and then treat it as you levelled up twice to 3rd-level. Some class feature grants additional benefits or even subclass choice at 3rd-level, so keep that in mind
+When making your character, make one normally starting at Level 1, and then treat it as you levelled up twice to Level 3. Some class feature grants additional benefits or even subclass choice at 3rd-level, so keep that in mind

@@ -25,15 +25,15 @@ nav:
       - Damage and Healing : gameplay/combat/damage-healing.md
       - Condition: gameplay/combat/condition.md
     - Homebrew Mechanics:
-      - Affiliation: gameplay/homebrew/affiliation.md
       - Death's Door and Resove: gameplay/homebrew/resolve.md
       - Inventory System: gameplay/homebrew/inventory.md
       - Fishing and Angling: gameplay/homebrew/fishing.md
     - DM Related: dm/tools.md
   - Chartacter Creation:
-    - Quickstart: character-creation/quickstart.md
-    - Multiclassing: character-creation/multiclassing.md
+    - character-creation/index.md
+    - Background: character-creation/background.md
     - Languages: character-creation/languages.md
+    - Multiclassing: character-creation/multiclassing.md
     - Race:
       - Dragonborn: character-creation/race/dragonborn.md
       - Dwarf: character-creation/race/dwarf.md
