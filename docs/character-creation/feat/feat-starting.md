@@ -428,7 +428,7 @@ You have inexplicable luck that can kick in at just the right moment, granting y
     
     Immediately after you roll a d20, you can spend 1 Luck Point to give yourself :d20-adv: **Advantage** on the roll.
     
-- **:d20-disadv: **Disadvantage****
+- **Disadvantage**
     
     When a creature rolls a d20 for an :d20-attack: **Attack Roll** against you, you can spend 1 Luck Point to impose :d20-disadv: **Disadvantage** on that roll.
 
@@ -592,9 +592,9 @@ You have trained to become a deadly warrior with pole weapons, capable of making
     
     You can make a ranged attack with a Javelin, Spear, or Trident up to its long range without :d20-disadv: **Disadvantage**, even underwater.
 
-### Spell and Blades^HB^
+### Spell and Blades
 
-*Level 1 Feat*
+*Level 1 Feat - Homebrew*
 
 **Prerequisites:** Warrior or Expert Group  
 **Repeatable:** Yes, you must choose a different Spell list each time you pick this feat. 
@@ -603,7 +603,7 @@ You learn how to wield both spells and weapons effectively. Choose between Palad
 
 - **Weapon Training**
     
-    You gain Proficiency with two martial weapon of your choice that lacks the Heavy, Reach and, Two-handed properties.
+    You gain Proficiency with Martial Weapons that lacks the :weapon-prop-heavy: **Heavy**, :weapon-prop-reach: **Reach** and, :weapon-prop-two-handed: **Two-handed** properties.
     
 - **1st-Level Spell**
     
@@ -614,6 +614,7 @@ You learn how to wield both spells and weapons effectively. Choose between Palad
 Whenever you gain a new level, you can replace one of the Spells you chose for this Feat with a different Spell of the same level from the chosen Spell list.
 
 ### Tavern Brawler
+
 *Level 1 Feat*
 
 **Prerequisites:** None  
@@ -656,6 +657,7 @@ Your extensive study of religion rewards you with the following benefits:
     If you already know *thaumaturgy*, you gain another cantrip from the Cleric spell list.
 
 ### Thrown Arms Master
+
 *Level 1 Feat*
 
 **Prerequisites:** None  

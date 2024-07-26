@@ -131,7 +131,7 @@ You’ve learned to deftly parry attacks, granting you the following benefits:
 
 *Level 4 Feat*
 
-**Prerequisites:** Proficiency with any Martial weapon  
+**Prerequisites:** Proficiency with any Martial Weapon  
 **Repeatable:** No
 
 You master the ability to use two weapons at the same time You gain the following benefits:
@@ -142,11 +142,11 @@ You master the ability to use two weapons at the same time You gain the followin
     
 - **Enhanced Dual Wielding**
     
-    You treat all weapons that lacks the :weapon-prop-heavy: *Heavy* or the :weapon-prop-two-handed: *Two-Handed* property as if they have the :weapon-prop-light: *light* property for the purpose of making one extra attack as a :rsc-bonus-action: **Bonus Action** using one hand. 
+    You treat all weapons that lacks the :weapon-prop-heavy: **Heavy** or the :weapon-prop-two-handed: **Two-Handed** property as if they have the :weapon-prop-light: **Light** property for the purpose of making one extra attack as a :rsc-bonus-action: **Bonus Action** using one hand. 
 
 - **Quick Draw** 
 
-    You can draw or stow two Weapons that lack the :weapon-prop-two-handed: *Two-Handed* property when you would normally be able to draw or stow only one.
+    You can draw or stow two Weapons that lack the :weapon-prop-two-handed: **Two-Hande*d* property when you would normally be able to draw or stow only one.
 
 ### Durable
 
@@ -299,7 +299,7 @@ You're an accomplished wrestler, granting you the following benefits:
 
 *Level 4 Feat - Homebrew*
 
-**Prerequisite:** Warrior Group or Proficiency with at least one Martial Weapon with :weapon-prop-heavy: **[Heavy]** property  
+**Prerequisite:** Warrior Group or Proficiency with at least one Martial Weapon with :weapon-prop-heavy: **Heavy** property  
 **Repeatable:** No
 
 You’ve learned to use the weight of a weapon to your advantage, letting its momentum empower your strikes. You gain the following benefits:
@@ -310,15 +310,11 @@ You’ve learned to use the weight of a weapon to your advantage, letting its mo
     
 - **Momentum**
     
-    Immediately after you score a Critical Hit with a Melee Weapon with :weapon-prop-heavy: ***[Heavy]** or :weapon-prop-versatile: **[Versatile]** property  or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a :rsc-bonus-action: **Bonus Action**.
+    Immediately after you score a Critical Hit with a Melee Weapon with :weapon-prop-heavy: ***Heavy** or :weapon-prop-versatile: **Versatile** property or reduce a creature to 0 Hit Points with one, you can make one extra attack with the same weapon as a :rsc-bonus-action: **Bonus Action**.
 
 - **Heavy Impact**
     
-    Once per turn, when you hit a creature with a weapon with the :weapon-prop-heavy: **[Heavy]** or :weapon-prop-versatile: **[Versatile]** property, you can cause the weapon to deal extra damage to the target. The extra damage equals your Proficiency Bonus. This extra damage is not added when you use **All In**.
-    
-- **All In**
-    
-    Before you make a melee attack with a :weapon-prop-heavy: **[Heavy]** or :weapon-prop-versatile: **[Versatile]** weapon, you can choose to make a special melee attack; You receive a -5 penalty to the :d20-attack: **Attack Roll**. If the attack hits, you add +10 to the attack's damage. This special melee attack can't be used with **Heavy Impact**.
+    Once per turn, when you hit a creature with a weapon with the :weapon-prop-heavy: **Heavy** or :weapon-prop-versatile: **Versatile** property, you can cause the weapon to deal extra damage to the target. The extra damage equals your Proficiency Bonus.
 
 ### Gunner
 
@@ -335,7 +331,7 @@ You have a quick hand and keen eye when employing firearms, granting you the fol
     
 - **Dual Wielding**
     
-    When you make the extra attack of the :weapon-prop-light: **[Light]** weapon property, you can add your Ability Modifier to the damage of the extra attack if that attack is with a firearm that has the :weapon-prop-light: **[Light]** property.
+    When you make the extra attack of the :weapon-prop-light: **Light** weapon property, you can add your Ability Modifier to the damage of the extra attack if that attack is with a firearm that has the :weapon-prop-light: **Light** property.
     
 - **Quickshot**
     
@@ -390,7 +386,7 @@ You have practiced techniques useful in melee combat against spellcasters, gaini
     
 - **Somatic Attack**
     
-    When a creature within 5 feet of you casts a spell, it provokes an :rsc-reaction:**Opportunity Attack** from you.
+    When a creature within 5 feet of you casts a spell, it provokes an :rsc-reaction: **Opportunity Attack** from you.
     
 - **Concentration Breaker**
     

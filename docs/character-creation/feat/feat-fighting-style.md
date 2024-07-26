@@ -34,7 +34,6 @@ When you are wielding a Melee Weapon in one hand and no other Weapons, you gain 
 
 *Fighting Style Feat*
 
-
 When you hit an melee attack with a Cold Weapon using two hands, and you roll a 1 or 2 on a damage die, you can reroll the dice, and you must use the new roll. 
 
 The Weapon must have the :weapon-prop-two-handed: **Two-Handed** or :weapon-prop-versatile: **Versatile** property to gain this benefit.
@@ -88,7 +87,7 @@ At the start of each of your turns, you can deal 1d4 Bludgeoning damage to one c
 
 *Fighting Style Feat - Homebrew*
 
-When you make extra attacks of the :weapon-prop-automatic: **Automatic** weapon property, the number of attacks you make equal to half of your ability modifier(rounded up) used to make the extra attacks does not suffer :d20-disadv: **Disadvantage**.
+When you make extra attacks of the :weapon-prop-automatic: **Automatic** weapon property, the number of attacks you make equal to half of your ability modifier(rounded up) used to make the extra attacks does not suffer :d20-disadv: **Disadvantage** but they can't benefit from :d20-adv: **Advantage** either.
 
 ### Gallian Swordplay
 
@@ -154,7 +153,7 @@ Moreover, you also use your Strength instead of your Dexterity to fufill the :we
 
 ### Versatile Fighting
 
-*Fighting Style Feat - Homebrew
+*Fighting Style Feat - Homebrew*
 
 While wielding a single :weapon-prop-versatile: **Versatile** weapon and no shield, you gain a +1 bonus to your :d20-attack: **Attack Roll** and Damage Roll with that weapon. While doing so, you can also use your :rsc-bonus-action: **Bonus Action** to make a single grapple or shove attack, or take the Use an Object Action.
 
