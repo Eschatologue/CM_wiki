@@ -133,7 +133,7 @@ When you make the extra attack of the Light property, you can make it as part of
 
 ### Push
 
-**Prerequisite:** :weapon-prop-heavy: Heavy, Two-Handed, or Versatile Property
+**Prerequisite:** :weapon-prop-heavy: Heavy, :weapon-prop-two-handed: Two-Handed, or :weapon-prop-versatile: Versatile Property
 
 If you hit a creature with this weapon, you can push the creature up to 10 feet straight away from yourself if it is Large or smaller.
  
