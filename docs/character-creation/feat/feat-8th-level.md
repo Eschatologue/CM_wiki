@@ -3,6 +3,7 @@ icon: material/cards-playing
 ---
 
 ### Adrenaline Rush
+
 *Level 8 Feat*
 
 **Prerequisites:** Warrior Group  
@@ -15,6 +16,7 @@ You learn how to push yourself beyond your normal limits.
     On your turn, you can expend one of your Hit Die and gain one additional action. You can use this feature once per Long Rest.
 
 ### Artifice Conflux
+
 *Level 8 Feat*
 
 **Prerequisites:** Expert Group or [Artificer Initiate](feat-starting.md#artificer-initiate) Feat  
@@ -35,6 +37,7 @@ Through your repeated exposure to the natural flow of arcane magic throughout yo
     You can ritual cast the *identify* spell, ignoring all the spells' component. Intelligence is the spellcasting ability for this spell.
 
 ### Dual-Focused
+
 *Level 8 Feat*
 
 **Prerequisites:** Mage or Priest Group  
@@ -53,6 +56,7 @@ Countless hours have been spent training your mind to maintain focus on concurre
     Any time you would be forced to make a C due to taking damage, the DC equals 10 + both spells’ levels combined, or half the damage you take, whichever number is higher. On a failure, you lose concentration on both spells
 
 ### Great Weapon Expert
+
 *Level 8 Feat*
 
 **Prerequisites:** Warrior Group or [Great Weapon Master](feat-4th-level.md#great-weapon-master) feat  
@@ -62,24 +66,25 @@ You have mastered the usage of heavy weapons, using their weight and size for ma
 
 - **Improved Critical**
     
-    The number you need to roll for a Critical Hit while attacking with :weapon-prop-heavy: *[heavy]* or :weapon-prop-versatile: *[versatile]* weapon is reduced by 1. This effect can stack.
+    The number you need to roll for a Critical Hit while attacking with :weapon-prop-heavy: **Heavy** or :weapon-prop-versatile: **Versatile** weapon is reduced by 1. This effect can stack.
     
 - **Heavyweight Throwing**
     
-    When you throw a weapon with a :weapon-prop-heavy: *[heavy]* property, its damage die becomes the weapon damage die instead of d4.
+    When you throw a weapon with a :weapon-prop-heavy: **Heavy** property, its damage die becomes the weapon damage die instead of d4.
 
 - **Ringing Blows**
     
-    When you miss a melee attack with a :weapon-prop-heavy: *[heavy]* weapon, you can deal damage to that creature equal to your Ability Modifier used to make the :d20-attack: **Attack Roll**. This damage can't be increased in any way, other than increasing the Ability Modifier.
+    When you miss a melee attack with a :weapon-prop-heavy: **Heavy** weapon, you can deal damage to that creature equal to your Ability Modifier used to make the :d20-attack: **Attack Roll**. This damage can't be increased in any way, other than increasing the Ability Modifier.
 
 - **Excessive Force**
     
-    When you hit a ranged attack with a :weapon-prop-heavy: *[heavy]* weapon, you can push the creature up to 10 feet straight away from yourself if it is Large or smaller sized. If you score a Critical Hit, the creature is becomes prone.
+    When you hit a ranged attack with a :weapon-prop-heavy: **Heavy** weapon, you can push the creature up to 10 feet straight away from yourself if it is Large or smaller sized. If you score a Critical Hit, the creature is becomes prone.
 
 [heavy]: ../../equipment/weapon/index.md#heavy
 [versatile]: ../../equipment/weapon/index.md#versatile
 
 ### Magically Imbibed
+
 *Level 8 Feat*
 
 **Prerequisites:** Mage or Priest Group  
@@ -102,6 +107,7 @@ Your faith grants you great insight into magic, giving you a special privilege w
     You can regain a total number of :rsc-spell-slot: **Spell Slot** levels equal to your Proficiency Bonus this way until you cannot regain further :rsc-spell-slot: **Spell Slots** until you complete a Long Rest.
 
 ### Shield Prodigy
+
 *Level 8 Feat*
 
 **Prerequisites:** Warrior Group or [Shield Master](feat-4th-level.md#shield-masterhb) feat  
@@ -124,6 +130,7 @@ After fine tuning your equipment, you can do things others can’t with shields.
     You can use a :rsc-bonus-action: **Bonus Action** to protect a creature within 5 feet of you. Until the start of your next turn, any :d20-attack: **Attack Roll** made against that creature has :d20-disadv: **disadvantage** if you can see the attacker. This benefit ends early if you are incapacitated or your speed is 0.
 
 ### Spell Driver
+
 *Level 8 Feat*
 
 **Prerequisites:** Priest or Mage Group, or Spellcasting/Pact Magic feature  
@@ -136,6 +143,8 @@ Through intense focus, training, and dedication, you’ve harnessed the techniqu
     You are no longer limited to only one non-cantrip spell per turn. However, should you cast two or more spells in a single turn, only one of them can be of 3rd level or higher.
     
 ### Theurgy
+
+*Level 8 Feat*
 
 **Prerequisites:** Intelligence (Religion) expertise or Priest Group  
 **Repeatable:** Yes, pick a different channel divinity option each time

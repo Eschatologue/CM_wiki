@@ -125,7 +125,7 @@ You’ve learned to deftly parry attacks, granting you the following benefits:
     
 - **Parry**
     
-    If you are holding a Finesse Weapon and another creature hits you with a Melee Attack, you can use your :rsc-reaction: **Reaction** to add your Proficiency Bonus to your Armour Class for that attack, potentially causing the attack to miss you.
+    If you are holding a weapon with :weapon-prop-finesse: **Finesse** property and a creature hits you with a Melee Attack, you can use your :rsc-reaction: **Reaction** to add your Proficiency Bonus to your Armour Class for that attack, potentially causing the attack to miss you.
 
 ### Dual Wielder
 
@@ -209,7 +209,7 @@ In your spellcasting, you can harness a particular form of energy with deadly ma
     
 - **Energy Mastery**
     
-    Choose one of the following Damage Types: Acid, Cold, Fire, Lightning, or Thunder. Spells you cast ignore Resistance to damage of the chosen type. In addition, when you roll damage for a Spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2. 
+    Choose one of the following Damage Types: :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-lightning: Lightning, or :dmg-thunder: Thunder. Spells you cast ignore Resistance to damage of the chosen type. In addition, when you roll damage for a Spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2. 
 
 ### Fey Touched
 
@@ -245,9 +245,7 @@ Your martial training has helped you develop a particular style of fighting.
 
 - **Martial Training**
     
-    You learn one Fighting Style option of your choice from the [Fighting Style Feats](feat-fighting-style.md), the one you choose must be different from one that you already have.
-    
-    Whenever you reach a level that grants the Ability Score Improvement feature, you can replace this feat’s fighting style with another one that you don’t have.
+    You learn one Fighting Style option of your choice from the [Fighting Style Feats](feat-fighting-style.md), the one you choose must be different from one that you already have. Whenever you reach a level that grants the Ability Score Improvement feature, you can replace this feat’s fighting style with another one which you don’t have.
 
     This feat lacks whatever prerequisites that the Feats from [Fighting Style Feats](feat-fighting-style.md) has.
 
@@ -352,7 +350,7 @@ You can use your armour to deflect strikes that would kill others. You gain the 
     
 - **Damage Reduction**
     
-    When you’re hit by an attack while you’re wearing Heavy Armour, any Bludgeoning, Piercing, or Slashing Damage dealt to you by that attack is reduced by an amount equal to your Proficiency Bonus.
+    When you’re hit by an attack while you’re wearing Heavy Armour, any :dmg-bludgeoning: Bludgeoning, :dmg-piercing: Piercing, or :dmg-slashing: Slashing Damage dealt to you by that attack is reduced by an amount equal to your Proficiency Bonus.
 
 ### Inspiring Leader
 
@@ -390,9 +388,9 @@ You have practiced techniques useful in melee combat against spellcasters, gaini
     
 - **Concentration Breaker**
     
-     When you damage a creature that is concentrating, it has :d20-disadv: **Disdvantage** on Concentration Checks
+     When you damage a creature that is concentrating, it has :d20-disadv: **Disdvantage** on Concentration Checks.
     
-- **Guarded Mind.**
+- **Guarded Mind**
     
     If you fail an Intelligence, a Wisdom, or a Charisma :d20-save: **Saving Throw**, you can cause yourself to succeed instead. Once you use this benefit, you can’t use it again until you finish a Long Rest.
 
@@ -400,7 +398,7 @@ You have practiced techniques useful in melee combat against spellcasters, gaini
 
 *Level 4 Feat*
 
-**Prerequisite:** Stength or Wisdom 13+  
+**Prerequisite:** Stength or Wisdom 13+ or Proficiency with Smith's Tool, Tinker's Tool, or Leatherworker's Tool  
 **Repeatable:** No
 
 You are a master of the forge that can wield the right tools with ease. You gain the following benefits:
@@ -411,15 +409,15 @@ You are a master of the forge that can wield the right tools with ease. You gain
     
 - **Master of the Forge**
     
-    You gain Proficiency with smith’s and leatherworker’s tools. If you are already proficient with them, you add double your Proficiency Bonus to checks you make with them.
+    You gain Proficiency with Smith’s Tool, Tinker's Tool or a Leatherworker’s Tools (Choose one). If you are already proficient with them, you add double your Proficiency Bonus to checks you make with them.
     
 - **Armour Upgrades**
     
-    As part of a Long Rest, you can use leather pieces to augment a set of medium or heavy armour. For 8 hours, the armour doesn’t cause its wearer to suffer :d20-disadv: **Disdvantage** on Dexterity (Stealth) checks.
+    As part of a Long Rest, you can use a Smith's Tool, Tinker's Tool or a Leatherworker's Tool and leather pieces to augment a set of Medium or Heavy Armour. For 8 hours, the armour doesn’t cause its wearer to suffer :d20-disadv: **Disdvantage** on Dexterity (Stealth) checks. 
     
 - **Find Fragility**
     
-    Your smithing experience lets you identify weak points in a target’s armour. When you roll a 20 on a weapon attack against a target that is wearing armour, it suffers a -2 penalty to AC until the start of your next turn. This ability can’t reduce a creature’s AC multiple times simultaneously.
+    Your smithing experience lets you identify weak points in a target’s armour. When you roll a Critical Hit on a weapon attack against a target that is wearing armour, it suffers a -2 penalty to AC until the start of your next turn. This ability can’t reduce a creature’s AC multiple times simultaneously.
 
 ### Medic
 
@@ -544,7 +542,7 @@ You have developed a bond with your mounts, granting you the following benefits:
 
 *Level 4 Feat*
 
-**Prerequisite:** :material-lightbulb-on: Proficiency with any weapon that deals piercing damage  
+**Prerequisite:** :material-lightbulb-on: Proficiency with any weapon that deals :dmg-piercing: Piercing damage  
 **Repeatable:** No
 
 You have achieved a penetrating precision in combat, granting you the following benefits:
@@ -555,12 +553,12 @@ You have achieved a penetrating precision in combat, granting you the following 
 
 - **Plunge**
     
-    When you score a Critical Hit that deals piercing damage to a creature, you can roll one additional damage die when determining the extra piercing damage the target takes.
-    
-Once per turn, when you hit a creature with a Weapon that deals Piercing damage, you can do one of the following effect:
+    When you score a Critical Hit that deals :dmg-piercing: Piercing damage to a creature, you can roll one additional damage die when determining the extra :dmg-piercing: Piercing damage the target takes.
 
-- **Twist the Blade.** The target takes additional Piercing damage equals to your Proficiency Bonus.
-- **Gap the Wound.** The target has :d20-disadv: **Disdvantage** on Constitution :d20-save: **Saving Throws** until the start of your next turn.
+- **Twist the Blade.** 
+
+    Once per turn, when you hit a creature with an attack that deals :dmg-piercing: Piercing damage, you can reroll one of the attack's damage dice, and you must use the new roll.
+
 
 ### Polearm Master
 
@@ -579,7 +577,7 @@ Keeping foes just out of range is your specialty. You gain the following benefit
     
     After making an attack with a Glaive, Halberd, Pike, Quarterstaff or Spear, you can use a **Bonus Action** to make a melee attack with the opposite end of the weapon; this attack uses the same ability modifier as the primary attack. 
     
-    The weapon's damage die for this attack is a :die-d4: d4, and the attack deals bludgeoning damage.
+    The weapon's damage die for this attack is a :die-d4: d4, and the attack deals :dmg-bludgeoning: Bludgeoning damage.
     
 - **Reactive Strike**
     
@@ -764,11 +762,11 @@ You’ve learned where to cut to have the greatest results, granting you the fol
     
 - **Cull**
     
-    When you hit a creature with a weapon that deals slashing damage, you can reduce the walking speed of the target by 10 ft. until the start of your next turn. When you hit the same target multiple times, the target's movement speed can't exceed below 10 ft.
+    When you hit a creature with a weapon that deals :dmg-slashing: Slashing damage, you can reduce the walking speed of the target by 10 ft. until the start of your next turn. When you hit the same target multiple times, the target's movement speed can't exceed below 10 ft.
     
 - **Bleed**
     
-    When you hit a creature with a weapon that deals slashing damage, that creature has :d20-disadv: **Disadvantage** on its next :d20-attack: **Attack Roll** before the start of your next turn.
+    When you hit a creature with a weapon that deals :dmg-slashing: Slashing damage, that creature has :d20-disadv: **Disadvantage** on its next :d20-attack: **Attack Roll** before the start of your next turn.
 
 ### Speedster
 
@@ -816,13 +814,13 @@ You have learned techniques to enhance your attacks with certain kinds of spells
     
 - **Improved Critical**
     
-    When you cast make a ranged spell attack, the number you need to roll to score a Critical Hit is reduced by 1. This effect can Stack.
+    The number you need to roll a Critical Hit while attacking with a Spell is reduced by 1. This effect can stack.
 
 ### Sword Dancing
 
 *Level 4 Feat*
 
-**Prerequisite:** :material-lightbulb-on: Proficiency with any Martial Weapon  
+**Prerequisite:** :material-lightbulb-on: Proficiency with a Martial Weapon that has the :weapon-prop-finesse: **Finesse** property  
 **Repeatable:** No
 
 One-handed weapons and blades are an extension of your arm, graceful as the wind.
@@ -833,7 +831,7 @@ One-handed weapons and blades are an extension of your arm, graceful as the wind
     
 - **Dynamic Swordplay**
     
-    When you take the Attack action and attack with weapon that has the *finesse* property, you can choose to deal either slashing or piercing damage.
+    When you take the Attack action and attack with weapon that has the :weapon-prop-finesse: **Finesse** property, you can choose to deal either :dmg-slashing: Slashing or :dmg-piercing: Piercing damage.
 
 - **Fleuret**
     
