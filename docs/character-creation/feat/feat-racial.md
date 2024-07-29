@@ -60,5 +60,5 @@ You have the blood of dwarf heroes flowing through your veins. You gain the foll
 
 - **Heal**
     
-    Whenever you take the Dodge action in combat, you can spend one Hit Die to heal yourself. Roll the die, add your Constitution modifier, and regain a number of hit points equal to the total (minimum of 1).
+    Whenever you take the Dodge action in combat, you can spend one Hit Die to heal yourself. Roll the die, add your Constitution modifier, and regain a number of Hit Points equal to the total (minimum of 1).
 

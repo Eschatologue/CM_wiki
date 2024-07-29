@@ -10,7 +10,7 @@ icon: material/cards-playing-spade-multiple
 
 - **Two and One**
 
-    You increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. You can't increase an ability score above 20 using this feat. When you reach 18th character level, that maximum increases to 22.
+    You increase one Ability Score of your choice by 2, or you can increase two Ability Scores of your choice by 1. You can't increase an Ability Score above 20 using this feat. When you reach 18th character level, that maximum increases to 22.
 
 ### Arcane Charger
 
@@ -367,7 +367,7 @@ You inspire your companions, shoring up their resolve to fight.
     
 - **Encouraging Performance**
     
-    At the end of a Short Rest or a Long Rest, you can give an inspiring performance; A speech, a song, or a dance. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who witness the performance. The chosen creatures each gain Temporary Hit Points equal to your level + the modifier of the ability score increased by this feat.
+    At the end of a Short Rest or a Long Rest, you can give an inspiring performance; A speech, a song, or a dance. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who witness the performance. The chosen creatures each gain Temporary Hit Points equal to your level + the modifier of the Ability Score increased by this feat.
 
 ### Mage Slayer
 
@@ -434,7 +434,7 @@ You master the physician’s arts, gaining the following benefits:
     
 - **Doctor**
     
-    You gain :material-lightbulb-on: Proficiency in the Medicine skill. If you are already proficient in the skill, you add double your Proficiency Bonus to checks you make with it.
+    You gain :trait-prof: Proficiency in the Medicine skill. If you are already proficient in the skill, you add double your Proficiency Bonus to checks you make with it.
     
 - **Back On Your Feet**
     
@@ -480,7 +480,7 @@ You become fearsome to others, gaining the following benefits:
     
 - **Downright Scary**
     
-    You gain :material-lightbulb-on: Proficiency in the Intimidation skill. If you are already proficient in the skill, you add double your Proficiency Bonus to checks you make with it.
+    You gain :trait-prof: Proficiency in the Intimidation skill. If you are already proficient in the skill, you add double your Proficiency Bonus to checks you make with it.
     
 - **Boo**
     
@@ -513,7 +513,7 @@ You’re experimenting how to exert your will on your spells to alter how they f
 
 *Level 4 Feat*
 
-**Prerequisite:** :material-lightbulb-on: Proficiency with Any Martial Weapon  
+**Prerequisite:** :trait-prof: Proficiency with Any Martial Weapon  
 **Repeatable:** No
 
 You have developed a bond with your mounts, granting you the following benefits:
@@ -542,7 +542,7 @@ You have developed a bond with your mounts, granting you the following benefits:
 
 *Level 4 Feat*
 
-**Prerequisite:** :material-lightbulb-on: Proficiency with any weapon that deals :dmg-piercing: Piercing damage  
+**Prerequisite:** :trait-prof: Proficiency with any weapon that deals :dmg-piercing: Piercing damage  
 **Repeatable:** No
 
 You have achieved a penetrating precision in combat, granting you the following benefits:
@@ -564,7 +564,7 @@ You have achieved a penetrating precision in combat, granting you the following 
 
 *Level 4 Feat*
 
-**Prerequisite:** :material-lightbulb-on: Proficiency with Martial Weapon that has :weapon-prop-reach: **Reach** property.  
+**Prerequisite:** :trait-prof: Proficiency with Martial Weapon that has :weapon-prop-reach: **Reach** property.  
 **Repeatable:** No
 
 Keeping foes just out of range is your specialty. You gain the following benefits:
@@ -667,7 +667,7 @@ You have mastered techniques to take :d20-adv: **Advantage** of every drop in an
 
 *Level 4 Feat*
 
-**Prerequisite:** :material-lightbulb-on: Proficiency with any Martial Weapon  
+**Prerequisite:** :trait-prof: Proficiency with any Martial Weapon  
 **Repeatable:** No
 
 You can make shots that others find impossible, granting you the following benefits:
@@ -688,7 +688,7 @@ You can make shots that others find impossible, granting you the following benef
 
 *Level 4 Feat - Homebrew*
 
-**Prerequisite:** :material-lightbulb-on: Proficiency with shields.  
+**Prerequisite:** :trait-prof: Proficiency with shields.  
 **Repeatable:** No
 
 You’ve trained to use shields not just for protection, but also for offense, granting you the following benefits:
@@ -712,11 +712,11 @@ You have honed your Proficiency with particular skills, granting you the followi
 
 - **Ability Score Increase**
 
-    You increase one ability score of your choice by 1, to a maximum of 20.
+    You increase one Ability Score of your choice by 1, to a maximum of 20.
 
 - **Studied**
 
-    You gain :material-lightbulb-on: Proficiency in one skill of your choice.
+    You gain :trait-prof: Proficiency in one skill of your choice.
 
 - **Expert**
 
@@ -751,7 +751,7 @@ You are expert at slinking through shadows. You gain the following benefits:
 
 *Level 4 Feat*
 
-**Prerequisite:** :material-lightbulb-on: Proficiency with any Martial Weapon  
+**Prerequisite:** :trait-prof: Proficiency with any Martial Weapon  
 **Repeatable:** No
 
 You’ve learned where to cut to have the greatest results, granting you the following benefits:
@@ -820,7 +820,7 @@ You have learned techniques to enhance your attacks with certain kinds of spells
 
 *Level 4 Feat*
 
-**Prerequisite:** :material-lightbulb-on: Proficiency with a Martial Weapon that has the :weapon-prop-finesse: **Finesse** property  
+**Prerequisite:** :trait-prof: Proficiency with a Martial Weapon that has the :weapon-prop-finesse: **Finesse** property  
 **Repeatable:** No
 
 One-handed weapons and blades are an extension of your arm, graceful as the wind.

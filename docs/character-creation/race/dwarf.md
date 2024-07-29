@@ -12,15 +12,15 @@
 
 ## Main Traits
 
-#### :material-rotate-right: Ability Score Improvement
+#### :material-arrow-up-bold-box: Ability Score Improvement
 
-One of your ability score increases by 2, and one of your ability score increases by 1.
+One of your Ability Score increases by 2, and one of your Ability Score increases by 1.
 
 #### :material-rotate-right: Age
 
 Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live about 350 years.
 
-#### :material-move-resize-variant: Size
+#### :trait-size: Size
 
 Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is **Medium**
 
@@ -28,13 +28,13 @@ Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size 
 
 You are considered to have ^^Slow^^ Speed; which is **25 ft.** Your speed is not reduced by wearing [Heavy Armour](../../equipment/armour/index.md#heavy-armour).
 
-#### :material-translate: Languages
+#### :trait-language: Languages
 
 You can speak, read, and write *Common* and *Dwarvish*.
 
 ## Additional Traits
 
-#### :dnd-trait-darkvision: Darkvision
+#### :trait-darkvision: Darkvision
 
 You can see in the dark up to 60 ft.
 
@@ -50,9 +50,9 @@ You have Proficiency with the Battleaxe, Handaxe, Light Hammer, and Warhammer.
 
 You gain Proficiency with the artisan's tools of your choice: Smith's Tools, Brewer's Supplies, or Mason's Tools.
 
-#### :dnd-stat-prof: Stonecunning 
+#### :trait-prof: Stonecunning 
 Y
-You gain :dnd-stat-prof: **Proficiency** in Intelligence (History). You can add double of your :dnd-stat-prof: **Proficiency** bonus to checks related to the origin of stonework.
+You gain :trait-prof: **Proficiency** in Intelligence (History). You can add double of your :trait-prof: **Proficiency** bonus to checks related to the origin of stonework.
 
 ## Dwarf Subrace
 

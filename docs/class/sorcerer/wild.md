@@ -18,7 +18,7 @@ If the magical effect is a spell, it is too wild to be affected by your Metamagi
 | 09-10 | You cast magic missile as a 5th-level spell. |
 | 11-12 | Roll a d10. Your height changes by a number of inches equal to the roll. If the roll is odd, you shrink. If the roll is even, you grow. |
 | 13-14 | You cast confusion centered on yourself. |
-| 15-16 | For the next minute, you regain 5 hit points at the start of each of your turns. |
+| 15-16 | For the next minute, you regain 5 Hit Points at the start of each of your turns. |
 | 17-18 | You grow a long beard made of feathers that remains until you sneeze, at which point the feathers explode out from your face. |
 | 19-20 | You cast grease centered on yourself. |
 | 21-22 | Creatures have disadvantage on saving throws against the next spell you cast in the next minute that involves a saving throw. |
@@ -30,8 +30,8 @@ If the magical effect is a spell, it is too wild to be affected by your Metamagi
 | 33-34 | Maximize the damage of the next damaging spell you cast within the next minute. |
 | 35-36 | Roll a d10. Your age changes by a number of years equal to the roll. If the roll is odd, you get younger (minimum 1 year old). If the roll is even, you get older. |
 | 37-38 | 1d6 flumphs controlled by the DM appear in unoccupied spaces within 60 feet of you and are frightened of you. They vanish after 1 minute. |
-| 39-40 | You regain 2d10 hit points. |
-| 41-42 | You turn into a potted plant until the start of your next turn. While a plant, you are incapacitated and have vulnerability to all damage. If you drop to 0 hit points, your pot breaks, and your form reverts. |
+| 39-40 | You regain 2d10 Hit Points. |
+| 41-42 | You turn into a potted plant until the start of your next turn. While a plant, you are incapacitated and have vulnerability to all damage. If you drop to 0 Hit Points, your pot breaks, and your form reverts. |
 | 43-44 | For the next minute, you can teleport up to 20 feet as a bonus action on each of your turns. |
 | 45-46 | You cast levitate on yourself. |
 | 47-48 | A unicorn controlled by the DM appears in a space within 5 feet of you, then disappears 1 minute later. |
@@ -52,7 +52,7 @@ If the magical effect is a spell, it is too wild to be affected by your Metamagi
 | 77-78 | You cast polymorph on yourself. If you fail the saving throw, you turn into a sheep for the spell's duration. |
 | 79-80 | Illusory butterflies and flower petals flutter in the air within 10 feet of you for the next minute. |
 | 81-82 | You can take one additional action immediately. |
-| 83-84 | Each creature within 30 feet of you takes 1d10 necrotic damage. You regain hit points equal to the sum of the necrotic damage dealt. |
+| 83-84 | Each creature within 30 feet of you takes 1d10 necrotic damage. You regain Hit Points equal to the sum of the necrotic damage dealt. |
 | 85-86 | You cast mirror image. |
 | 87-88 | You cast fly on a random creature within 60 feet of you. |
 | 89-90 | You become invisible for the next minute. During that time, other creatures can't hear you. The invisibility ends if you attack or cast a spell. |

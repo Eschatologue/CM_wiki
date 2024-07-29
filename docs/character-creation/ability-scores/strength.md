@@ -2,7 +2,7 @@
 icon: ability/str
 ---
 
-Strength is an ability score and the primary ability of Barbarian, Fighter, Paladin.
+Strength is an Ability Score and the primary ability of Barbarian, Fighter, Paladin.
 
 Strength affects your Athletics skill and :d20-attack: **Attack Rolls** so you become better at melee combat. It also determines how far you can jump, how much you can carry and how far you can shove (possibly based on Athletics).
 

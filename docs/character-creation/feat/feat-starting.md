@@ -378,7 +378,7 @@ You have can to rapidly recall or discover vital details, granting you the follo
     
 - **Investigator**
     
-    You gain :material-lightbulb-on: Proficiency in the Intelligence (Investigation) skill. If you are already proficient in the skill, you add double your Proficiency Bonus to checks you make with it.
+    You gain :trait-prof: Proficiency in the Intelligence (Investigation) skill. If you are already proficient in the skill, you add double your Proficiency Bonus to checks you make with it.
     
 - **Lore Knowledge**
     

@@ -31,13 +31,20 @@ nav:
     - DM Related: dm/tools.md
   - Chartacter Creation:
     - character-creation/index.md
-    - Background: character-creation/background.md
     - Languages: character-creation/languages.md
     - Multiclassing: character-creation/multiclassing.md
-    - Race:
-      - Dragonborn: character-creation/race/dragonborn.md
-      - Dwarf: character-creation/race/dwarf.md
-      - Elf: character-creation/race/elf.md
+    - Origin:
+      - Background: character-creation/background.md
+      - Race:
+        - Dragonborn: character-creation/race/dragonborn.md
+        - Dwarf: character-creation/race/dwarf.md
+        - Elf: character-creation/race/elf.md
+        - Gnome: character-creation/race/gnome.md
+        - Half Elf: character-creation/race/half-elf.md
+        - Half Orc: character-creation/race/half-orc.md
+        - Halfling: character-creation/race/halfling.md
+        - Human: character-creation/race/human.md
+        - Tiefling: character-creation/race/tiefling.md
     - Ability Score: 
       - character-creation/ability-scores/index.md
       - Strength: character-creation/ability-scores/strength.md

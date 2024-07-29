@@ -32,7 +32,7 @@ When you reach certain levels in this class, you can make more elixirs at the en
 
 | d6 | Name | Effect |
 |:-:|---|---|
-| 1 | Healing | The drinker regains a number of hit points equal to 2d4 + your Intelligence Modifier |
+| 1 | Healing | The drinker regains a number of Hit Points equal to 2d4 + your Intelligence Modifier |
 | 2 | Swiftness | The drinker's walking speed increases by 10 feet for 1 hour. |
 | 3 | Resilience | The drinker gains a +1 bonus to AC for 10 minutes. |
 | 4 | Boldness |  The drinker can roll a d4 and add the number rolled to every attack roll and saving throw they make for the next minute. |
@@ -41,13 +41,13 @@ When you reach certain levels in this class, you can make more elixirs at the en
 
 ## Level 5: Alchemical Savant
 
-You've developed masterful command of magical chemicals, enhancing the healing and damage you create through them. Whenever you cast a spell using your alchemist's supplies as the spellcasting focus, you gain a bonus to one roll of the spell. That roll must restore hit points or be a damage roll that deals acid, fire, necrotic, or poison damage, and the bonus equals your Intelligence modifier (minimum of +1).
+You've developed masterful command of magical chemicals, enhancing the healing and damage you create through them. Whenever you cast a spell using your alchemist's supplies as the spellcasting focus, you gain a bonus to one roll of the spell. That roll must restore Hit Points or be a damage roll that deals acid, fire, necrotic, or poison damage, and the bonus equals your Intelligence modifier (minimum of +1).
 
 ## Level 9: Restorative Reagents
 
 You can incorporate restorative reagents into some of your works:
 
-- Whenever a creature drinks an experimental elixir you created, the creature gains temporary hit points equal to 2d6 + your Intelligence modifier (minimum of 1 temporary hit point).
+- Whenever a creature drinks an experimental elixir you created, the creature gains temporary Hit Points equal to 2d6 + your Intelligence modifier (minimum of 1 temporary Hit Point).
 - You can cast [Lesser Restoration] without expending a spell slot and without preparing the spell, provided you use alchemist's supplies as the spellcasting focus. You can do so a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
 ## Level 15: Chemical Mastery

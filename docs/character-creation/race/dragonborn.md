@@ -12,15 +12,15 @@
 
 ## Main Traits
 
-#### :material-rotate-right: Ability Score Improvement
+#### :material-arrow-up-bold-box: Ability Score Improvement
 
-One of your ability score increases by 2, and one of your ability score increases by 1.
+One of your Ability Score increases by 2, and one of your Ability Score increases by 1.
 
 #### :material-rotate-right: Age
 
 Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80
 
-#### :material-move-resize-variant: Size
+#### :trait-size: Size
 
 Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is **Medium**.
 
@@ -28,7 +28,7 @@ Dragonborn are taller and heavier than humans, standing well over 6 feet tall an
 
 You are considered to have ^^Standard^^ speed; which is **30 ft.**
 
-#### :material-translate: Languages
+#### :trait-language: Languages
 
 You can speak, read, and write *Common* and *Draconic*.
 

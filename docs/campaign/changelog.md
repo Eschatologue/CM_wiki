@@ -66,7 +66,7 @@ The start of this new wiki.
     - **Heavy:** Weapons with the heavy property no longer prevent Small-sized races from using them properly. Instead, they require the user to have a Strength score of 13 (for melee weapons) or a Dexterity score of 13 (for ranged weapons).
     - **Light:** Light weapons and two-weapon fighting are now included in the same description. A weapon with the light property can be used for two-weapon fighting, regardless of whether it is a melee weapon or a ranged weapon.
 - **[Race](../character-creation/race/race.md):** Small changes to races, mostly for convenience. These changes shouldn't affect your current character too much.
-    - **Ability Score:** All races with innate ability score features, such as Dwarves with +2 STR and +2 CON or Elves with +2 DEX and +1 WIS, have had these features removed. Instead, all races (except for humans) have a +2 and a +1 that they can assign to any ability score.
+    - **Ability Score:** All races with innate Ability Score features, such as Dwarves with +2 STR and +2 CON or Elves with +2 DEX and +1 WIS, have had these features removed. Instead, all races (except for humans) have a +2 and a +1 that they can assign to any Ability Score.
     - **Starting Feat:** Racial starting feats have been moved to [Background](../character-creation/index.md#3-choose-a-background).
     - **Dragonborn:** Dragonborn can now choose the area of effect of their breath weapon instead of being restricted to either a cone or line. Their damage type and resistances are still restricted by their subrace.
     - **Human, London Lineage:** London Lineage humans now have Proficiency in [Resolve Check](../gameplay/homebrew/resolve.md#resolve-check).

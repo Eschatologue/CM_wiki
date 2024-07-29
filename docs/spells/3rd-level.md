@@ -74,7 +74,7 @@ This spell bestows hope and vitality. Choose any number of creatures within rang
 
 You touch a creature, and that creature must succeed on a Wisdom :d20-save: **Saving Throw** or become cursed for the duration of the spell. When you cast this spell, choose the nature of the curse from the following options:
   
-Choose one ability score. While cursed, the target has :d20-disadv: **Disadvantage** on :d20-check: **Ability Checks** and :d20-save: **Saving Throws** made with that ability score.  
+Choose one Ability Score. While cursed, the target has :d20-disadv: **Disadvantage** on :d20-check: **Ability Checks** and :d20-save: **Saving Throws** made with that Ability Score.  
 While cursed, the target has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** against you.  
 While cursed, the target must make a Wisdom :d20-save: **Saving Throw** at the start of each of its turns. If it fails, it wastes its action that turn doing nothing.  
 While the target is cursed, your attacks and spells deal an extra 1d8 necrotic damage to the target.

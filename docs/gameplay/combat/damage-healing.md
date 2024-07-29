@@ -16,7 +16,7 @@ The base damage dealt by a weapon, spell, class action, or condition is usually 
 
 Modifiers added to damage rolls are only added per source, even if multiple dice are rolled.
 
-Which ability score modifier is added to a damage roll depends on the attack:
+Which Ability Score modifier is added to a damage roll depends on the attack:
 
 - **Weapon Attacks.** When making weapon attacks, roll the damage dice associated with the weapon and add any relevant modifiers.(1)
   { .annotate }

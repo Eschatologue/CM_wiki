@@ -12,7 +12,7 @@ As you advance in levels, you might primarily remain a member of your original c
 
 ## Prerequisites
 
-To qualify for a new class, you must meet the ability score prerequisites for both your current class and your new one, as shown in the Multiclassing Prerequisites table. For example, a barbarian who decides to multiclass into the druid class must have both Strength and Wisdom scores of 13 or higher. Without the full training that a beginning character receives, you must be a quick study in your new class. having a natural aptitude that is reflected by higher-than-average ability scores.
+To qualify for a new class, you must meet the Ability Score prerequisites for both your current class and your new one, as shown in the Multiclassing Prerequisites table. For example, a barbarian who decides to multiclass into the druid class must have both Strength and Wisdom scores of 13 or higher. Without the full training that a beginning character receives, you must be a quick study in your new class. having a natural aptitude that is reflected by higher-than-average Ability Scores.
 
 ##### Multiclassing Prerequisites
 

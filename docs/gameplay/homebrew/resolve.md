@@ -41,7 +41,7 @@ A Resolve Check is made under two conditions:
 The Resolute condition lasts for 10 minutes but can end early under the following conditions:
 
 - **Unconcious.** You have the Unconscious condition.
-- **Being Calmed.** Spell such as *Calm Emotions* is cast on you, requiring the caster to make an :d20-check: **Ability Check** using its spellcasting ability. The DC is equal to the highest ability score you have between Intelligence, Wisdom, or Charisma. On success, **Resolute** ends.
+- **Being Calmed.** Spell such as *Calm Emotions* is cast on you, requiring the caster to make an :d20-check: **Ability Check** using its spellcasting ability. The DC is equal to the highest Ability Score you have between Intelligence, Wisdom, or Charisma. On success, **Resolute** ends.
 
 While this condition is in effect, you gain several benefits:
 
@@ -63,7 +63,7 @@ Immediately after you receive this condition, you roll a d10 and gain a virtue d
 The Meltdown condition lasts for 10 minutes but can end early under the following conditions:
 
 - **Recovery.** You regain at least half of your Hit Point maximum.
-- **Being Calmed.** Spell such as *Calm Emotions* is cast on you, requiring the caster to make an :d20-check: **Ability Check** using its spellcasting ability. The DC is equal to the highest ability score you have between Intelligence, Wisdom, or Charisma. On success, **Meltdown** ends.
+- **Being Calmed.** Spell such as *Calm Emotions* is cast on you, requiring the caster to make an :d20-check: **Ability Check** using its spellcasting ability. The DC is equal to the highest Ability Score you have between Intelligence, Wisdom, or Charisma. On success, **Meltdown** ends.
 - **Resting.** You finish a Short Rest or Long Rest.
 - **Healed.** The spell *Greater Restoration* spell is cast on you.
 

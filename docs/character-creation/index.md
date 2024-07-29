@@ -48,13 +48,13 @@ You can also choose to [Multiclass](../character-creation/multiclassing.md) when
 
 In this setting, we uses the Standard Array as follow: `15, 14, 13, 12, 10, 8`
 
-Simply assign one number to each ability score (one to Strength, one to Dexterity, one to Constitution, and so on). Then, you'll be able to determine your character's modifier for each score.
+Simply assign one number to each Ability Score (one to Strength, one to Dexterity, one to Constitution, and so on). Then, you'll be able to determine your character's modifier for each score.
 
 #### Ability Scores
 
 *Main Article: [Ability Score](../character-creation/ability-scores/index.md)*
 
-Each of a creature's abilities has a score, a number that defines the magnitude of that ability. An ability score is not just a measure of innate capabilities, but also encompasses a creature's training and competence in activities related to that ability.
+Each of a creature's abilities has a score, a number that defines the magnitude of that ability. An Ability Score is not just a measure of innate capabilities, but also encompasses a creature's training and competence in activities related to that ability.
 
 A score of 10 or 11 is the normal human average, but adventurers and many monsters are a cut above average in most abilities. A score of 18 is the highest that a person usually reaches. Adventurers can have scores as high as 20, and monsters and divine beings can have scores as high as 30.
 
@@ -77,7 +77,7 @@ Because ability modifiers affect almost every :d20-attack: **Attack Roll**, :d20
 
     This DnD setting emphasizes character optimization, so it's crucial to seek advice or research how to best allocate your starting stats for your character concept and for its class. Properly optimized stats can greatly enhance your gameplay experience and ensure your character excels in their chosen role.
 
-    While following the meta isn't mandatory, it's important not to mishandle your ability scores.
+    While following the meta isn't mandatory, it's important not to mishandle your Ability Scores.
 
 ### Starting Level
 

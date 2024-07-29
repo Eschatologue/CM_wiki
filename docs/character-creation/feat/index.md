@@ -22,7 +22,7 @@ Some feats can only be taken by characters of certain classes. For example, a fe
 - Prerequisite: Cleric class
 
 ### Ability Score Requirements
-Many feats require a minimum score in one or more ability scores. This ensures that only characters with a particular aptitude can benefit from the feat.
+Many feats require a minimum score in one or more Ability Scores. This ensures that only characters with a particular aptitude can benefit from the feat.
 
 **Example:**  
 - Prerequisite: Strength 13+

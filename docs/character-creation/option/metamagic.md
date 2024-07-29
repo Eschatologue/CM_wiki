@@ -88,9 +88,9 @@ When you cast a damaging spell that affect an Area of Effect and force the creat
 
 **Cost:** *3 Sorcery Point(s)*
 
-When you cast a spell that forces a Intelligence or a Charisma :d20-save: **Saving Throw**, you can spend 3 Sorcery Point(s) and change the spell's :d20-save: **Saving Throw** to target the other ability score instead.
+When you cast a spell that forces a Intelligence or a Charisma :d20-save: **Saving Throw**, you can spend 3 Sorcery Point(s) and change the spell's :d20-save: **Saving Throw** to target the other Ability Score instead.
 
-This Metamagic only changes the initial :d20-save: **Saving Throw**. Any subsequent :d20-save: **Saving Throws** target the original ability score.
+This Metamagic only changes the initial :d20-save: **Saving Throw**. Any subsequent :d20-save: **Saving Throws** target the original Ability Score.
 
 ### Imbued Spell
 
@@ -104,9 +104,9 @@ If the spell requires Concentration, the creature you cast the spell on must Con
 
 **Cost:** *2 Sorcery Point(s)*
 
-When you cast a spell that forces a Strength or a Dexterity :d20-save: **Saving Throw**, you can spend 2 Sorcery Point(s) and change the spell's :d20-save: **Saving Throw** to target the other ability score instead.
+When you cast a spell that forces a Strength or a Dexterity :d20-save: **Saving Throw**, you can spend 2 Sorcery Point(s) and change the spell's :d20-save: **Saving Throw** to target the other Ability Score instead.
 
-This Metamagic only changes the initial :d20-save: **Saving Throw**. Any subsequent :d20-save: **Saving Throws** target the original ability score.
+This Metamagic only changes the initial :d20-save: **Saving Throw**. Any subsequent :d20-save: **Saving Throws** target the original Ability Score.
 
 ### Magical Guidance
 
@@ -130,9 +130,9 @@ When you cast a spell has only one target, and requires you to make a ranged spe
 
 **Cost:** *2 Sorcery Point(s)*
 
-When you cast a spell that forces a Constitution or a Wisdom :d20-save: **Saving Throw**, you can spend 2 Sorcery Point(s) and change the spell's :d20-save: **Saving Throw** to target the other ability score instead.
+When you cast a spell that forces a Constitution or a Wisdom :d20-save: **Saving Throw**, you can spend 2 Sorcery Point(s) and change the spell's :d20-save: **Saving Throw** to target the other Ability Score instead.
 
-This Metamagic only changes the initial :d20-save: **Saving Throw**. Any subsequent :d20-save: **Saving Throws** target the original ability score.
+This Metamagic only changes the initial :d20-save: **Saving Throw**. Any subsequent :d20-save: **Saving Throws** target the original Ability Score.
 
 ### Penetrating Spell
 

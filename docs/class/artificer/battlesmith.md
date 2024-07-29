@@ -31,7 +31,7 @@ Your tinkering has borne you a faithful companion, a steel defender. It's friend
 
 In combat, the defender shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the defender can take any action of its choice, not just Dodge.
 
-If the [Mending] spell is cast on it, it regains 2d6 hit points. If it has died within the last hour, you can use your smith's tools as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The steel defender returns to life after 1 minute with all its hit points restored.
+If the [Mending] spell is cast on it, it regains 2d6 Hit Points. If it has died within the last hour, you can use your smith's tools as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The steel defender returns to life after 1 minute with all its Hit Points restored.
 
 At the end of a Long Rest, you can create a new steel defender if you have smith's tools with you. If you already have a defender from this feature, the first one immediately perishes. The defender also perishes if you die.
 
@@ -60,7 +60,7 @@ At the end of a Long Rest, you can create a new steel defender if you have smith
 ### Actions
 
 - **Force-Empowered Rend.** *Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target you can see. Hit: 1d8 + PB force damage. 
-- **Repair (3/Day).** The magical mechanisms inside the defender restore 2d8 + PB hit points to itself or to one construct or object within 5 feet of it. 
+- **Repair (3/Day).** The magical mechanisms inside the defender restore 2d8 + PB Hit Points to itself or to one construct or object within 5 feet of it. 
 
 ### Reactions
 
@@ -75,7 +75,7 @@ Starting at 5th level, you can attack twice, rather than once, whenever you take
 You've learn new ways to channel arcane energy to harm or heal. When either you hit a target with a magic weapon attack or your steel defender hits a target, you can channel magical energy through the strike to create one of the following effects:
 
 - The target takes an extra 2d6 force damage.
-- Choose one creature or object you can see within 30 feet of the target. Healing energy flows into the chosen recipient, restoring 2d6 hit points to it.
+- Choose one creature or object you can see within 30 feet of the target. Healing energy flows into the chosen recipient, restoring 2d6 Hit Points to it.
 - You can use this energy a number of times equal to your Intelligence modifier (minimum of once), but you can do so no more than once on a turn. You regain all expended uses when you finish a Long Rest.
 
 ## Level 15: Improved Defender

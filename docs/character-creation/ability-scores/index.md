@@ -12,11 +12,11 @@ The six abilities each represent an aspect of a creature's capabilities:
 - Charisma (CHA), influence and force of character
 
 ### Ability score modifiers
-Each ability has an ability score modifier, which is derived from its ability score. The ability score modifiers are being added to any :d20-check: **Ability Checks**, :d20-save: **Saving Throws** and :d20-attack: **Attack Rolls** a creature makes associated with that ability, as well as to the **Difficulty Class (DC)** of any spells that they cast.
+Each ability has an Ability Score modifier, which is derived from its Ability Score. The Ability Score modifiers are being added to any :d20-check: **Ability Checks**, :d20-save: **Saving Throws** and :d20-attack: **Attack Rolls** a creature makes associated with that ability, as well as to the **Difficulty Class (DC)** of any spells that they cast.
 
-Creatures also add an ability score modifier to initiative rolls and some damage rolls they make, and some features allow creatures to add additional or alternative ability score modifiers to specific rolls.
+Creatures also add an Ability Score modifier to initiative rolls and some damage rolls they make, and some features allow creatures to add additional or alternative Ability Score modifiers to specific rolls.
 
-An ability's modifier is decreased by 1 for every odd score below 10, and is increased by 1 for every even score above 10. Alternatively, it can be calculated by subtracting 10 from the ability score, then dividing by 2 and rounding down.
+An ability's modifier is decreased by 1 for every odd score below 10, and is increased by 1 for every even score above 10. Alternatively, it can be calculated by subtracting 10 from the Ability Score, then dividing by 2 and rounding down.
 
 **Ability Score Modifier Chart**
 

@@ -132,7 +132,7 @@ A flood of healing energy flows from you into injured creatures around you. You 
 
 You transform up to ten creatures of your choice that you can see within range. An unwilling target must succeed on a Wisdom :d20-save: **Saving Throw** to resist the transformation. An unwilling shapechanger automatically succeeds on the save.
 
-Each target assumes a beast form of your choice, and you can choose the same form or different ones for each target. The new form can be any beast you have seen whose challenge rating is equal to or less than the target's (or half the target's level, if the target doesn't have a challenge rating). The target's game statistics, including mental ability scores, are replaced by the statistics of the chosen beast, but the target retains its Hit Points, alignment, and personality.
+Each target assumes a beast form of your choice, and you can choose the same form or different ones for each target. The new form can be any beast you have seen whose challenge rating is equal to or less than the target's (or half the target's level, if the target doesn't have a challenge rating). The target's game statistics, including mental Ability Scores, are replaced by the statistics of the chosen beast, but the target retains its Hit Points, alignment, and personality.
 
 Each target gains a number of temporary Hit Points equal to the Hit Points of its new form. These temporary Hit Points can't be replaced by temporary Hit Points from another source. A target reverts to its normal form when it has no more temporary Hit Points or it dies. If the spell ends before then, the creature loses all its temporary Hit Points and reverts to its normal form.
 
@@ -282,7 +282,7 @@ Choose one creature or nonmagical object that you can see within range. You tran
 
 This spell has no effect on a shapechanger or a creature with 0 Hit Points. An unwilling creature can make a Wisdom :d20-save: **Saving Throw**, and if it succeeds, it isn't affected by this spell.
 
-***Creature into Creature.*** If you turn a creature into another kind of creature, the new form can be any kind you choose whose challenge rating is equal to or less than the target's (or its level, if the target doesn't have a challenge rating). The target's game statistics, including mental ability scores, are replaced by the statistics of the new form. It retains its alignment and personality.
+***Creature into Creature.*** If you turn a creature into another kind of creature, the new form can be any kind you choose whose challenge rating is equal to or less than the target's (or its level, if the target doesn't have a challenge rating). The target's game statistics, including mental Ability Scores, are replaced by the statistics of the new form. It retains its alignment and personality.
 
 The target assumes the Hit Points of its new form, and when it reverts to its normal form, the creature returns to the number of Hit Points it had before it transformed. If it reverts as a result of dropping to 0 Hit Points, any excess damage carries over to its normal form. As long as the excess damage doesn't reduce the creature's normal form to 0 Hit Points, it isn't knocked  unconscious.
 

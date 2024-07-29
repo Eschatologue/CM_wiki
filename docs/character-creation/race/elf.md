@@ -8,15 +8,15 @@
 
 ## Main Traits
 
-#### :material-rotate-right: Ability Score Improvement
+#### :material-arrow-up-bold-box: Ability Score Improvement
 
-One of your ability score increases by 2, and one of your ability score increases by 1.
+One of your Ability Score increases by 2, and one of your Ability Score increases by 1.
 
 #### :material-rotate-right: Age
 
 Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 75 and can live to be 350 years old.
 
-#### :material-move-resize-variant: Size
+#### :trait-size: Size
 
 Elves range from under 5 to over 6 feet tall and have slender builds. Your size is **Medium**
 
@@ -24,16 +24,15 @@ Elves range from under 5 to over 6 feet tall and have slender builds. Your size 
 
 You are considered to have ^^Standard^^ speed; which is 30 ft.
 
-#### :material-translate: Languages
+#### :trait-language: Languages
 
 You can speak, read, and write *Common* and *Elvish*.
 
 ## Additional Traits
 
-#### :dnd-trait-darkvision: Darkvision
+#### :trait-darkvision: Darkvision
 
 You can see in the dark up to 60 ft.
-
 
 #### :simple-paloaltonetworks: Fey Ancestry
 
@@ -41,7 +40,7 @@ You have :d20-adv: Advantage** on :d20-save: Saving Throws** against being Charm
 
 #### :material-wrench: Keen Sense
 
-You have :dnd-stat-prof: **Proficiency** in the Wisdom (Perception) skill.
+You have :trait-prof: **Proficiency** in the Wisdom (Perception) skill.
 
 #### :material-sleep-off: Trance
 
@@ -69,13 +68,13 @@ You gain access to the following Spells:
 
 #### :material-sword-cross: Drow Weapon Training
 
-You have :dnd-stat-prof: **Proficiency** with Rapiers, Shortswords, and Hand Crossbows.
+You have :trait-prof: **Proficiency** with Rapiers, Shortswords, and Hand Crossbows.
 
-#### :dnd-trait-darkvision-super: Superior Darkvision
+#### :trait-darkvision-super: Superior Darkvision
 
 Your darkvision has a range of 120 ft., instead of 60 ft.
 
-#### :dnd-stat-lang: Languages
+#### :trait-language: Languages
 
 You learn an additional language: *Undercommon*
 
@@ -91,13 +90,13 @@ You know one cantrip of your choice from the Wizard spell list. Intelligence is 
 
 #### :material-sword-cross: Elf Weapon Training
 
-You have :dnd-stat-prof: **Proficiency** with the Longsword, Shortsword, Shortbow, and Longbow.
+You have :trait-prof: **Proficiency** with the Longsword, Shortsword, Shortbow, and Longbow.
 
 #### :material-chat-plus: Expert Wordsmith
 
 You can add your Intelligence modifier to Charisma (Persuasion) and Charisma (Intimidation) check.
 
-#### :dnd-stat-lang: Languages
+#### :trait-language: Languages
 
 You learn *one* additional language of your choice.
 
@@ -113,8 +112,8 @@ Your Movement Speed is increased 5 ft. and are considered to have ^^Fast^^ speed
 
 #### :material-sword-cross: Elf Weapon Training
 
-You have :dnd-stat-prof: **Proficiency** with the Longsword, Shortsword, Shortbow, and Longbow.
+You have :trait-prof: **Proficiency** with the Longsword, Shortsword, Shortbow, and Longbow.
 
 #### :dnd-stat-expert: Mask of the Wild
 
-You gain :dnd-stat-prof: **Proficiency** in Dexterity (Stealth) and you can attempt to :dnd-action-hide: **Hide** even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
+You gain :trait-prof: **Proficiency** in Dexterity (Stealth) and you can attempt to :dnd-action-hide: **Hide** even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.

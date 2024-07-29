@@ -434,7 +434,7 @@ You imbue a creature you touch with positive energy to undo a debilitating effec
   
 One effect that charmed or petrified the target  
 One curse, including the target's attunement to a cursed magic item  
-Any reduction to one of the target's ability scores  
+Any reduction to one of the target's Ability Scores  
 One effect reducing the target's Hit Point maximum
 
 ### Hallow

@@ -44,7 +44,7 @@ You can change the armour's model whenever you finish a Short Rest or Long Rest,
 You design your armour to be in the front line of conflict. It has the following features:
 
 - **Thunder Gauntlets.** Each of the armour's gauntlets counts as a simple melee weapon while you aren't holding anything in it, and it deals 1d8 thunder damage on a hit. A creature hit by the gauntlet has disadvantage on attack rolls against targets other than you until the start of your next turn, as the armour magically emits a distracting pulse when the creature attacks someone else.
-- **Defensive Field.** As a bonus action, you can gain temporary hit points equal to your level in this class, replacing any temporary hit points you already have. You lose these temporary hit points if you doff the armour. You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
+- **Defensive Field.** As a bonus action, you can gain temporary Hit Points equal to your level in this class, replacing any temporary Hit Points you already have. You lose these temporary Hit Points if you doff the armour. You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
 
 ### Infiltrator
 
