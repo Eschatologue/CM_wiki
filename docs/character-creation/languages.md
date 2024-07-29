@@ -1,5 +1,5 @@
 ---
-icon: dnd/stat-lang
+icon: trait/language
 ---
 
 ## Languages in Crown & Misery
