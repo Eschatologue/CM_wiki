@@ -1,6 +1,10 @@
 <p style="text-align: center;">
 
+<i>
+
 "Once a revered race, the elves commanded respect across Antares. Yet, they fell from grace, losing their ancient forest, their ties to the tree of life, their long lifespan, and their homeland. Now relegated to the frozen north, they strive to prevent history from repeating itself."
+
+</i>
 
 </p>
 

@@ -1,6 +1,10 @@
 <p style="text-align: center;">
 
+<i>
+
 "Half-Elves walk a delicate line, inheriting the blessings of both their human and elven lineage while grappling with a sense of not truly belonging. They blend the inquisitiveness, ingenuity, and drive of humans with the heightened senses, appreciation for nature, and artistic inclinations of elves."
+
+</i>
 
 </p>
 

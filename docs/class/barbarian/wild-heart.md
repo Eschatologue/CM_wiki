@@ -2,11 +2,11 @@
 
 ***Barbarians who follow the Path of the Wild Heart view themselves as kin to the animal inhabitants of the natural world. They learn magical means to connect and communicate with animals, and their Rage heightens their connection to animals as it fills them with supernatural might.***
 
-## Animal Speaker – Level 3
+## Level 3: Animal Speaker
 
 You can cast the Beast Sense and [Speak with Animals] spells, but only as Rituals. Wisdom is your spellcasting ability for them.
 
-## Rage of the Wilds – Level 3
+## Level 3: Rage of the Wilds
 
 Your Rage taps into the primal power of animals. You gain one of the following options of your choice. Whenever you gain a Barbarian level, you can change your choice.
 
@@ -16,7 +16,7 @@ Your Rage taps into the primal power of animals. You gain one of the following o
 
 **Wolf.** While your Rage is active, your allies have Advantage on melee attack rolls against any enemy of yours within 10 feet of you.
 
-## Aspect of the Wilds – Level 6
+## Level 6: Aspect of the Wilds
 
 You gain one of the following options of your choice. Whenever you gain a Barbarian level, you can change your choice.
 
@@ -26,11 +26,11 @@ You gain one of the following options of your choice. Whenever you gain a Barbar
 
 **Spider.** You gain proficiency in the Stealth or Survival skill. If you already have proficiency in the skill, you gain Expertise in it instead.
 
-## Nature Speaker – Level 10
+## Level 10: Nature Speaker 
 
 You can cast the [Commune with Nature] spell, but only as a Ritual. Wisdom is your spellcasting ability for it.
 
-## Power of the Wilds – Level 14
+## Level 14: Power of the Wilds  
 
 You gain one of the following options of your choice. Whenever you gain a Barbarian level, you can change your choice.
 

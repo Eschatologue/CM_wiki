@@ -22,7 +22,7 @@ Wizards’ lives are seldom mundane. The closest a Wizard is likely to come to a
 
 But the lure of knowledge and power calls even the most unadventurous Wizards from the safety of their libraries and laboratories and into crumbling ruins and lost cities. Most Wizards believe that their counterparts in ancient civilizations knew secrets of magic that have been lost to the ages, and discovering those secrets could unlock the path to a power greater than any magic available in the present age.
 
-| Wizard ## Level | Prof. Bonus | Class Feature | Cantrips | Spells Prepared | I | II | III | IV | V | VI | VII | VIII | IX |
+| Wizard ## : Level | Prof. Bonus | Class Feature | Cantrips | Spells Prepared | I | II | III | IV | V | VI | VII | VIII | IX |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | +2 | Arcane Recovery, Spellcasting | 3 | 4 | 2 | — | — | — | — | — | — | — | — |
 | 2 | +2 | Scholar | 3 | 5 | 3 | — | — | — | — | — | — | — | — |
@@ -45,7 +45,7 @@ But the lure of knowledge and power calls even the most unadventurous Wizards fr
 | 19 | +6 | Ability Score Improvement | 5 | 24 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20 | +6 | Signature Spells | 5 | 25 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
-## Creating a Wizard
+## : Creating a Wizard
 
 ### Hit Points
 
@@ -61,9 +61,11 @@ But the lure of knowledge and power calls even the most unadventurous Wizards fr
 - **Tools:** None
 
 ### Armor Training
+
 None
 
 ### Starting Equipment
+
 As a level 1 character, you start with the following equipment:
 
 - Arcane Focus (Quarterstaff) 
@@ -74,7 +76,7 @@ As a level 1 character, you start with the following equipment:
 
 Or you can forgo it and spend 550 SP on equipment of your choice.
 
-## Arcane Recovery – Level 1
+## Level 1: Arcane Recovery
 
 You have learned to regain some of your magical energy by studying your spellbook. When you finish a Short Rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your Wizard level (rounded up), and none of the slots can be level 6 or higher.
 
@@ -82,7 +84,7 @@ For example, if you’re a level 4 Wizard, you can recover up to two levels wort
 
 Once you use this feature, you can’t do so again until you finish a Long Rest.
 
-## Spellcasting – Level 1
+## Level 1: Spellcasting
 
 As a student of arcane magic, you have learned to cast spells. See the Player’s Handbook for rules on spellcasting. The information below details how you use those rules as a Wizard.
 
@@ -102,7 +104,7 @@ Whenever you gain a Wizard level after 1, add two Wizard spells of your choice t
 
 The Wizard table shows how many spell slots you have to cast your spells of level 1 and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a Long Rest.
 
-### Prepared Spells of ## Level 1+
+### Prepared Spells of Level 1+
 
 You prepare the list of spells of level 1 and higher that are available for you to cast with this feature. To do so, choose four spells from your spellbook. The chosen spells must be of a level for which you have spell slots.
 
@@ -137,33 +139,33 @@ You can use an Arcane Focus or your spellbook as a Spellcasting Focus for the sp
     If you lose your spellbook, you can use the same procedure to transcribe the Wizard spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep a backup spellbook.
 
 
-## Scholar – Level 2
+## Level 2: Scholar
 
 While studying magic, you also specialized in an academic field of study. Choose one of the following skills in which you have proficiency: Arcana, History, Nature, or Religion. You have Expertise in the chosen skill.
 
-## Wizard Subclass – Level 3
+## Level 3: Wizard Subclass
 
 You gain a Wizard subclass of your choice: Abjurer, Diviner, Evoker, or Illusionist.
 Subclasses are detailed after this class’s description.
 A subclass is a specialization that grants you special features at certain Wizard levels. For the rest of your career, you gain each of your subclass’s features that are of your Wizard level and lower.
 
-## Ability Score Improvement – Level 4
+## Level 4: Ability Score Improvement
 
 You gain the Ability Score Improvement feat or another feat of your choice for which you qualify.
  
 As shown on the Wizard table, you gain this feature again at levels 8, 12, 16, and 19.
 
-## Memorize Spell – Level 5
+## Level 5: Memorize Spell
 
 Studying your spellbook for 1 minute, you can expend mental and magical effort to memorize a spell. Choose one spell of level 1 or higher from your spellbook that you don’t have prepared.
 You now have that spell prepared until you use this feature to prepare a different spell.
 
-## Spell Mastery – Level 18
+## Level 18: Spell Mastery
 
 You have achieved such mastery over certain spells that you can cast them at will. Choose a level 1 and a level 2 spell that are in your spellbook and that have a casting time of an action. You always have those spells prepared, and you can cast them at their lowest level without expending a spell slot. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 Whenever you finish a Long Rest, you can study your spellbook and exchange one of those spells for another eligible spell of the same level from that book.
 
-## Signature Spells – Level 20
+## Level 20: Signature Spells
 
 You gain mastery over two powerful spells and can cast them with little effort. Choose two level 3 spells in your spellbook as your signature spells. You always have these spells prepared, and you can cast each of them once at level 3 without expending a spell slot. When you do so, you can’t do so again until you finish a Short Rest or Long Rest.
 If you want to cast either spell at a higher level, you must expend a spell slot as normal

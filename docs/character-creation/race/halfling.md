@@ -1,6 +1,10 @@
 <p style="text-align: center;">
 
+<i>
+
 "Halflings are naturally joyful and sociable, enjoying the comforts of home but possessing a natural luck and dexterity that makes them excellent adventurers. Despite losing their nation to Warp Storms, they quickly integrated with other societies, causing the least trouble among all races."
+
+</i>
 
 </p>
 

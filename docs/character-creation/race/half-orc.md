@@ -1,6 +1,10 @@
 <p style="text-align: center;">
 
+<i>
+
 "Half-Orcs are creatures of intense emotion, more inclined to act than contemplate. Whether the rage burning in their bodies compels them to fight or the love filling their hearts inspires acts of incredible kindness, their emotions drive them to action."
+
+</i>
 
 </p>
 

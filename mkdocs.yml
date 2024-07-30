@@ -36,6 +36,7 @@ nav:
     - Origin:
       - Background: character-creation/background.md
       - Race:
+        - character-creation/race/index.md
         - Dragonborn: character-creation/race/dragonborn.md
         - Dwarf: character-creation/race/dwarf.md
         - Elf: character-creation/race/elf.md

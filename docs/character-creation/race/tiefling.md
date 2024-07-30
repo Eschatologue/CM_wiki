@@ -1,6 +1,10 @@
 <p style="text-align: center;">
 
+<i>
+
 "Tieflings are descended from long-lost human bloodlines. They bear the burden of an ancient sin, manifesting in their infernal appearance and nature. Though they are not responsible for this curse, they and their descendants are forever held accountable for it."
+
+</i>
 
 </p>
 
@@ -12,11 +16,11 @@
 
 One of your Ability Score increases by 2, and one of your Ability Score increases by 1.
 
-####:material-rotate-right: **Age**   
+#### :material-rotate-right: **Age**   
 
 Tieflings mature at the same rate as humans but live a few years longer.
 
-#### :dnd-trait-size:  **Size**  
+#### :trait-size: Size
 
 Tieflings are about the same size and build as humans. Your size is **Medium**.
 

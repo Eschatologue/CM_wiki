@@ -1,6 +1,10 @@
 <p style="text-align: center;">
 
+<i>
+
 "Adaptable, expansionist, and deeply superstitious, humans stand as the dominant race of Antares. While other races may have laid the groundwork, it is humans who elevated their creations and propelled them to new heights."
+
+</i>
 
 </p>
 

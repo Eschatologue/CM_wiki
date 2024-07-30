@@ -2,7 +2,7 @@
 
 Some Rogues enhance their fine-honed skills of stealth and agility with Arcane spells, learning magical tricks to aid them in their trade. Some Arcane Tricksters use their talents as pickpockets and burglars, while others are pranksters, mischief-makers, or adventurers.
 
-## Spellcasting – Level 3
+## Level 3: Spellcasting
 
 You have learned to cast spells. See the Player’s Handbook for rules on spellcasting. The information below details how you use those rules as an Arcane Trickster.
 
@@ -55,19 +55,19 @@ Intelligence is your spellcasting ability for your Arcane Trickster spells.
 
 You can use an Arcane Focus as a Spellcasting Focus for the spells you prepare for this subclass.
 
-## Mage Hand Legerdemain – Level 3
+## Level 3: Mage Hand Legerdemain
 
 When you cast Mage Hand, you can make the spectral hand invisible. You can control the hand as a Bonus Action, instead of an action, and through it, you can use Thieves’ Tools and make Dexterity (Sleight of Hand) checks.
 
-## Magical Ambush – Level 9
+## Level 9: Magical Ambush
 
 If you have the Invisible condition when you cast a spell on a creature, it has Disadvantage on any saving throw it makes against the spell on the same turn.
 
-## Versatile Trickster – Level 13
+## Level 13: Versatile Trickster
 
 You gain the ability to distract targets with your Mage Hand. When you use the Disarm or Trip options of your Cunning Strike, you can also target that option at a creature within 5 feet of the spectral hand.
 
-## Spell Thief – Level 17
+## Level 17: Spell Thief
 
 You gain the ability to magically steal the knowledge of how to cast a spell from another spellcaster.
 

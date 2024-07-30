@@ -1,6 +1,10 @@
 <p style="text-align: center;">
 
+<i>
+
 "Small in stature yet immense in intellect, gnomes embody the spirit of exploration in Antares. Their boundless energy and cunning lead them to discover both the brightest and darkest corners of the world. With their long lifespans, they trailblazes into the unknown, forging connections across the fragmented remnants of the world."
+
+</i>
 
 </p>
 
