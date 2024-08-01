@@ -104,7 +104,7 @@ Thanks to extensive practice with the crossbow, you gain the following benefits:
     
 - **Attack in Melee**
     
-    Being within 5 feet of an enemy doesn’t impose :d20-disadv: **Disdvantage** on your :d20-attack: **Attack Rolls** with crossbows.
+    Being within 5 feet of an enemy doesn’t impose :d20-disadv: **Disadvantage** on your :d20-attack: **Attack Rolls** with crossbows.
     
 - **Dual Wielding**
     
@@ -297,7 +297,7 @@ You're an accomplished wrestler, granting you the following benefits:
 
 *Level 4 Feat - Homebrew*
 
-**Prerequisite:** Warrior Group or Proficiency with at least one Martial Weapon with :weapon-prop-heavy: **Heavy** property  
+**Prerequisite:** Warrior Group, or Proficiency with one Martial Weapon with :weapon-prop-heavy: **Heavy** or :weapon-prop-versatile: **Versatile** property  
 **Repeatable:** No
 
 You’ve learned to use the weight of a weapon to your advantage, letting its momentum empower your strikes. You gain the following benefits:
@@ -318,7 +318,7 @@ You’ve learned to use the weight of a weapon to your advantage, letting its mo
 
 *Level 4 Feat*
 
-**Prerequisite:** Dexterity 13+ or Proficieny with at least one firearm.  
+**Prerequisite:** Dexterity 13+ or Proficieny with at least one Firearm.  
 **Repeatable:** No
 
 You have a quick hand and keen eye when employing firearms, granting you the following benefits:
@@ -388,7 +388,7 @@ You have practiced techniques useful in melee combat against spellcasters, gaini
     
 - **Concentration Breaker**
     
-     When you damage a creature that is concentrating, it has :d20-disadv: **Disdvantage** on Concentration Checks.
+     When you damage a creature that is concentrating, it has :d20-disadv: **Disadvantage** on Concentration Checks.
     
 - **Guarded Mind**
     
@@ -413,7 +413,7 @@ You are a master of the forge that can wield the right tools with ease. You gain
     
 - **Armour Upgrades**
     
-    As part of a Long Rest, you can use a Smith's Tool, Tinker's Tool or a Leatherworker's Tool and leather pieces to augment a set of Medium or Heavy Armour. For 8 hours, the armour doesn’t cause its wearer to suffer :d20-disadv: **Disdvantage** on Dexterity (Stealth) checks. 
+    As part of a Long Rest, you can use a Smith's Tool, Tinker's Tool or a Leatherworker's Tool and leather pieces to augment a set of Medium or Heavy Armour. For 8 hours, the armour doesn’t cause its wearer to suffer :d20-disadv: **Disadvantage** on Dexterity (Stealth) checks. 
     
 - **Find Fragility**
     
@@ -463,7 +463,7 @@ You have practiced moving in medium armour to gain the following benefits:
     
 - **Custom Fit**
     
-    Wearing medium armour doesn’t impose :d20-disadv: **Disdvantage** on your Dexterity (Stealth) checks.
+    Wearing medium armour doesn’t impose :d20-disadv: **Disadvantage** on your Dexterity (Stealth) checks.
 
 ### Menacing
 
@@ -484,7 +484,7 @@ You become fearsome to others, gaining the following benefits:
     
 - **Boo**
     
-    When you take the Attack action on your turn, you can replace one attack with an attempt to demoralize one humanoid you can see within 30 feet of you that can see and hear you. Make a Charisma (Intimidation) check contested by the target’s Wisdom (Insight) check. If your check succeeds, the target is frightened until the end of your next turn. If your check fails, the target can’t be frightened by you in this way for 1 hour.
+    When you take the Attack action on your turn, you can replace one attack with an attempt to demoralize one Humanoid you can see within 30 feet of you that can see and hear you. Make a Charisma (Intimidation) check contested by the target’s Wisdom (Insight) check. If your check succeeds, the target has the Frightened until the end of your next turn. If your check fails, the target can’t be Frightened by you in this way for 1 hour.
 
 ### Metamagic Novice
 
@@ -537,6 +537,25 @@ You have developed a bond with your mounts, granting you the following benefits:
 - **Veer** 
 
     While mounted, you can use your :rsc-reaction: **Reaction** to force an attack that hits your mount to hit you instead.
+
+### Overwhelming Strength
+
+**Prerequisite:** None  
+**Repeatable:** No
+
+Your sheer physical might dwarfs that of nearly all other mortal creatures, giving you the following benefits:
+
+- **Ability Score Increase**
+    
+    Increase your Strength, by 1, to a maximum of 20.
+
+- **Might is Power**
+
+    Whenever you make a Strength-based D20 Test, you can treat a roll of 7 or lower on the d20 as an 8.
+
+- **Moving Mountain**
+
+    Your inventory slots is increased by a number equal to half your Strength Score (round down). Moreover, creatures with the same size as you and smaller has :d20-disadv: **Disadvantage** on the :d20-save: **Saving Throw** of escaping your Grapple.
 
 ### Piercer
 
@@ -667,7 +686,7 @@ You have mastered techniques to take :d20-adv: **Advantage** of every drop in an
 
 *Level 4 Feat*
 
-**Prerequisite:** :trait-prof: Proficiency with any Martial Weapon  
+**Prerequisite:** :trait-prof: Proficiency with any Ranged Martial Weapon  
 **Repeatable:** No
 
 You can make shots that others find impossible, granting you the following benefits:
@@ -682,7 +701,7 @@ You can make shots that others find impossible, granting you the following benef
     
 - **Enhanced Accuracy**
     
-    Being within 5 feet of an enemy and attacking at Long Range doesn’t impose :d20-disadv: **Disdvantage** on your ranged :d20-attack: **Attack Rolls** with Weapons.
+    Being within 5 feet of an enemy and attacking at Long Range doesn’t impose :d20-disadv: **Disadvantage** on your ranged :d20-attack: **Attack Rolls** with Weapons.
 
 ### Shield Master
 
@@ -787,7 +806,7 @@ You possess exceptional speed and stamina, granting you the following benefits:
     
 - **Focused Sprint**
     
-    When you take the Dash Action (or as a :rsc-bonus-action: **Bonus Action**) on your turn, Difficult Terrain doesn’t cost you extra movement for the rest of that turn, and attacks of opportunity have :d20-disadv: **Disdvantage** against you.
+    When you take the Dash Action (or as a :rsc-bonus-action: **Bonus Action**) on your turn, Difficult Terrain doesn’t cost you extra movement for the rest of that turn, and attacks of opportunity have :d20-disadv: **Disadvantage** against you.
 
 ### Spell Sniper
 
@@ -804,9 +823,7 @@ You have learned techniques to enhance your attacks with certain kinds of spells
     
 - **Attack Cantrip**
     
-    You learn one cantrip that requires an :d20-attack: **Attack Roll**. Choose the cantrip from the Bard, Cleric, druid, Druid, Warlock, or Wizard spell list.
-    
-    The spells' spellcasting ability is the ability increased by this feat.
+    You learn one cantrip that requires an :d20-attack: **Attack Roll**. Choose the cantrip from the Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard spell list. The spells' spellcasting ability is the ability increased by this feat.
     
 - **Bypass Cover**
     
@@ -835,7 +852,7 @@ One-handed weapons and blades are an extension of your arm, graceful as the wind
 
 - **Fleuret**
     
-    The first creature you hit on your turn has :d20-disadv: **Disdvantage** on :d20-attack: **Attack Roll** against you until the start of your next turn.
+    The first creature you hit on your turn has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Roll** against you until the start of your next turn.
 
 ### Telekinetic
 
@@ -852,7 +869,7 @@ You awaken the ability to mentally connect with others, granting you the followi
     
 - **Psionic Talent**
     
-    You learn the *mage hand* cantrip. You can cast it without verbal or somatic components, and you can make the spectral hand invisible. If you already know this spell, its range increases by 30 feet when you cast it. Its spellcasting ability is the ability increased by this feat.
+    You learn the [Mage Hand] cantrip. You can cast it without verbal or somatic components, and you can make the spectral hand invisible. If you already know this spell, its range increases by 30 feet when you cast it. Its spellcasting ability is the ability increased by this feat.
     
 - **Limited Telekinesis**
     
@@ -886,7 +903,7 @@ You have been touched by the Warp, giving you benefits as follow:
     - When you cast the 1st-level spell, you can expend one of your Hit Dice and roll it.
 
         - If you roll an even number, you gain a number of temporary Hit Points equal to the number rolled.
-        - If you roll an odd number, one random creature within 30 feet of you (excluding you) takes force damage equal to the number rolled.
+        - If you roll an odd number, one random creature within 30 feet of you (excluding you) takes :dmd-force: Force damage equal to the number rolled.
 
 ### War Caster
 

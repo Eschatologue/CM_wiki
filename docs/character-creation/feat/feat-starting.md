@@ -341,7 +341,7 @@ You excel at the identification and use of herbs and other natural substances fo
 
 - **Homeopathy Expert**
     
-    You gain Proficiency with herbalism kits. If you are already proficient with them, you add double your Proficiency Bonus to checks you make with them.
+    You gain Proficiency with Herbalism Kits. If you are already proficient with them, you add double your Proficiency Bonus to checks you make with them.
     
 - **Treatment Finder**
     
@@ -349,7 +349,7 @@ You excel at the identification and use of herbs and other natural substances fo
     
 - **Preventative Measures**
     
-    As part of a Short Rest, you can use your herbalism kit to administer an herbal remedy that helps a creature recover from their ailments. The creature gains :d20-adv: **Advantage** on :d20-save: **Saving Throws** against poison and disease for the next hour.
+    As part of a Short Rest, you can use your Herbalism Kit to administer an herbal remedy that helps a creature recover from their ailments. The creature gains :d20-adv: **Advantage** on :d20-save: **Saving Throws** against poison and disease for the next hour.
 
 ### Historian
 *Level 1 Feat*
@@ -433,6 +433,7 @@ You have inexplicable luck that can kick in at just the right moment, granting y
     When a creature rolls a d20 for an :d20-attack: **Attack Roll** against you, you can spend 1 Luck Point to impose :d20-disadv: **Disadvantage** on that roll.
 
 ### Magic Initiate
+
 *Level 1 Feat*
 
 **Prerequisites:** None  
@@ -453,6 +454,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these Spells 
 Whenever you gain a new level, you can replace one of the Spells you chose for this Feat with a different Spell of the same level from the chosen Spell list.
 
 ### Mariner
+
 *Level 1 Feat*
 
 **Prerequisites:** None  
@@ -473,6 +475,7 @@ You have spent time at sea and learned to use the tools of a mariner in combat. 
     When you make a ranged attack with a net, you do not have :d20-disadv: **Disadvantage** due to being within 5 feet of hostile creatures.
 
 ### Miner
+
 *Level 1 Feat*
 
 **Prerequisites:** None  
@@ -493,6 +496,7 @@ You’ve spent a great deal of time underground and have learned how to survive 
     When you hit a creature with a warpick on your turn and are also wielding a light hammer or warhammer, you can immediately use a :rsc-bonus-action: **Bonus Action** to hammer the pick into the creature. If you do, the creature takes additional piercing damage equal to 1d8 + your Strength modifier.
 
 ### Musician
+
 *Level 1 Feat*
 
 **Prerequisites:** None  
@@ -509,6 +513,7 @@ You are a practiced musician, granting you the following benefits:
     As you finish a Short Rest or a Long Rest, you can play a song on a Musical Instrument with which you have Tool Proficiency and give Inspiration to allies who hear the song. The number of allies you can affect in this way equals your Proficiency Bonus.
 
 ### Naturalist
+
 *Level 1 Feat*
 
 **Prerequisites:** Intelligence or Wisdom 13+, or Nature Proficiency  
@@ -556,7 +561,7 @@ You have trained to deal particularly damaging strikes.
 
 - **Crusher.**
     
-    When making melee weapon attacks, you roll your damage dice twice and use the highest result. You can use this benefit only once per turn.
+    When making a weapon attack using Strength, you roll your damage dice twice and use the highest result. You can use this benefit only once per turn.
 
 ### Skilled
 
@@ -599,14 +604,14 @@ You have trained to become a deadly warrior with pole weapons, capable of making
 **Prerequisites:** Warrior or Expert Group  
 **Repeatable:** Yes, you must choose a different Spell list each time you pick this feat. 
 
-You learn how to wield both spells and weapons effectively. Choose between Paladin or Ranger.
+You learn how to wield both spells and weapons effectively. Choose between a Paladin or a Ranger spell list.
 
 - **Weapon Training**
     
     You gain Proficiency with Martial Weapons that lacks the :weapon-prop-heavy: **Heavy**, :weapon-prop-reach: **Reach** and, :weapon-prop-two-handed: **Two-handed** properties.
     
 - **1st-Level Spell**
-    
+     
     Choose two 1st-level Spell from the class’ spell list. You always have that Spell prepared. You can cast it once without a Spell Slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the Spell using any Spell Slots you have.
     
     Intelligence, Wisdom, or Charisma is your spellcasting ability for these Spells (choose when you select this Feat).

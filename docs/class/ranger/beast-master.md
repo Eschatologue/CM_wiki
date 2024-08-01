@@ -32,7 +32,7 @@ In addition, the first time each turn it hits a creature under the effect of you
 
 When you cast a spell targeting yourself, you can also affect your Primal Companion beast with the spell if the beast is within 30 feet of you.
 
-## Beast of the Land
+### Beast of the Land
 *Medium Beast, unaligned*
 
 - **Armor Class** 13 + PB (natural armor)
@@ -52,10 +52,10 @@ When you cast a spell targeting yourself, you can also affect your Primal Compan
 
 ***Primal Bond.*** You can add your proficiency bonus to any ability check or saving throw that the beast makes.  
 
-### Actions
+#### Actions
 ***Maul.*** *Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target. *Hit:* 1d8 + 2 + PB slashing damage.
 
-## Beast of the Sky
+### Beast of the Sky
 *Small Beast, neutral*
 
 - **Armor Class** 13 + PB (natural armor)
@@ -75,10 +75,10 @@ When you cast a spell targeting yourself, you can also affect your Primal Compan
 
 ***Primal Bond.*** You can add your proficiency bonus to any ability check or saving throw that the beast makes.  
 
-### Actions
+#### Actions
 ***Shred.*** *Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target. *Hit:* 1d4 + 3 + PB slashing damage
 
-## Beast of the Sea
+### Beast of the Sea
 *Medium Beast, unaligned*
 
 - **Armor Class** 13 + PB (natural armor)
@@ -98,6 +98,7 @@ When you cast a spell targeting yourself, you can also affect your Primal Compan
 
 ***Primal Bond.*** You can add your proficiency bonus to any ability check or saving throw that the beast makes.  
 
-### Actions
+#### Actions
+
 ***Binding Strike.*** *Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target. *Hit:* 1d6 + 2 + PB piercing damage or 1d6 + 2 + PB bludgeoning damage (your choice), and the target is grappled (escape DC equal to your spellcasting save DC). Until this grapple ends, the beast can't use this attack on another target.
 

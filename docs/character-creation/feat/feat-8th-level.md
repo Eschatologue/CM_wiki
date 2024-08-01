@@ -70,11 +70,11 @@ You have mastered the usage of heavy weapons, using their weight and size for ma
     
 - **Heavyweight Throwing**
     
-    When you throw a weapon with a :weapon-prop-heavy: **Heavy** property, its damage die becomes the weapon damage die instead of d4.
+    When you throw a weapon with a :weapon-prop-heavy: **Heavy** property, its damage die becomes the weapon damage die.
 
 - **Ringing Blows**
     
-    When you miss a melee attack with a :weapon-prop-heavy: **Heavy** weapon, you can deal damage to that creature equal to your Ability Modifier used to make the :d20-attack: **Attack Roll**. This damage can't be increased in any way, other than increasing the Ability Modifier.
+    When you miss a melee attack with a :weapon-prop-heavy: **Heavy** weapon, you can deal damage to that creature equal to your Ability Modifier used to make the :d20-attack: **Attack Roll**.
 
 - **Excessive Force**
     

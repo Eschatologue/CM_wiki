@@ -62,3 +62,25 @@ You have the blood of dwarf heroes flowing through your veins. You gain the foll
     
     Whenever you take the Dodge action in combat, you can spend one Hit Die to heal yourself. Roll the die, add your Constitution modifier, and regain a number of Hit Points equal to the total (minimum of 1).
 
+### Squat Nimbleness
+
+**Prerequisite:** Dwarf or a race with Small size  
+**Repeatable:** No
+
+You are uncommonly nimble for your race. You gain the following benefits:
+
+- **Ability Score Increase**
+
+    Increase your Strength or Dexterity by 1, to a maximum of 20.
+
+- **Improved Speed**
+
+    Increase your walking speed by 5 feet.
+
+- **Skill Proficiency**
+
+    You gain proficiency in the Acrobatics or Athletics skill (your choice).
+
+- **Grapple Escape Advantage**
+
+    You have :d20-adv: **Advantage** on a :d20-save: ***Saving Throw* you make to escape from being Grappled.

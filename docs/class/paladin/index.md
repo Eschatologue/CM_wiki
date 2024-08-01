@@ -117,6 +117,7 @@ You can use a Holy Symbol as a Spellcasting Focus for the spells you prepare for
 ## Level 1: Weapon Mastery
 
 Your training with weapons allows you to use the Mastery property of two kinds of weapons of your choice with which you have proficiency, such as Longswords and Javelins.
+
 Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For example, you could switch to using the Mastery properties of Halberds and Flails.
 
 ## Level 2: Paladin’S Smite

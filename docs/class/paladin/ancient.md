@@ -26,7 +26,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 | 13 | Ice Storm, Stoneskin |
 | 17 | Commune with Nature, Tree Stride |
 
-## Level 3: Nature’S Wrath
+## Level 3: Nature’s Wrath
 
 As an action, you can expend one use of your Channel Divinity to conjure grasping spectral vines around nearby creatures. Each creature of your choice that you can see within 15 feet of you must succeed on a Strength saving throw or have the Restrained condition for 1 minute. A Restrained creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success.
 

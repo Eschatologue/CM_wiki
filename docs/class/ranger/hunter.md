@@ -12,7 +12,7 @@ You gain one of the following feature options of your choice.
 
 **Retaliator.** Immediately after a creature within 5 feet of you attacks you, you can use your Reaction to make one attack with a weapon against that creature, whether or not it hit you.
 
-## Level 3: Hunter’S Lore
+## Level 3: Hunter’s Lore
 
 You can call on the forces of nature to reveal certain strengths and weaknesses of your prey. While a creature is marked by your Hunter’s Mark, you know whether that creature has any damage or condition immunities, damage resistances, or damage vulnerabilities, and if the creature has any, you know what they are.
 
