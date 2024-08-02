@@ -34,6 +34,34 @@ A Resolve Check is made under two conditions:
 1. :material-door-open: **Death's Door:** As mentioned above, when you are reduced to 0 Hit Points but not killed outright, you must immediately make a Resolve Check, ending the Death's Door state on a successful one.
 2. :material-bullseye-arrow: **Massive Damage:** When you take damage from a single source equal to or greater than half your Hit Point maximum, you must make a :d20-save: **Saving Throw** using Intelligence, Wisdom, or Charisma (whichever has the highest ability modifier) with DC equals to 8 or half the damage you take, whichever number is higher (to a maximum of 18). On a failed save, you must make a Resolve Check.
 
+#### Resolve Check Flow Chart
+
+``` mermaid
+graph LR;
+    A[Character Receives Damage] --> B{Reduced to 0 HP or Massive Damage?};
+    B -->|Reduced to 0 HP| C[Death's Door];
+    B -->|Massive Damage| D[Massive Damage Check];
+    
+    C --> E[Resolve Check];
+    E -->|Success DC 17| F[Gain Resolute Condition];
+    E -->|Failure| G[Gain Meltdown Condition];
+    
+    D -->|Fail| E;
+    D -->|Pass| H[No Further Action];
+
+    C --> I[Damage from Single Source];
+    I -->|Counts as One Failure| J[Death Saving Throw Failure];
+    J -->|Three Failures or Damage >= Max HP| K[Death];
+    I -->|Critical Hit| L[Counts as Two Failures];
+    
+    C --> M[Stabilization Attempt];
+    M -->|Success DC 10 Wisdom| N[Death Saving Throw Success];
+    N -->|Three Successes| O[Regain 1 HP];
+    
+    C --> P[Healing];
+    P --> Q[Remove from Death's Door];
+```
+
 ## Conditions: Resolute and Meltdown
 
 ### Resolute
