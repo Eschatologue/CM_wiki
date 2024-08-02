@@ -14,10 +14,12 @@
 *[CHA]:	Charisma
 
 *[Critical Hit]: Total damage roll result is doubled.
+*[Critical Success]: Automatically succeed a Saving Throw or an Ability Check.
 
 *[Proficiency Bonus]: Additional bonus that is applied to most D20 Tests (and Saving Throw DCs). Scales with your total character level. 
 
 *[Concentration Check]: Constitution Saving Throw to maintain spell's Concentration.
+*[Resolve Check]: An Ability Check to determine whether a creature gains the Resolute or Meltdown condition
 
 *[Athletics]: (STR) Covers difficult situations you encounter while climbing, jumping, or swimming.
 

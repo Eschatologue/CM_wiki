@@ -8,15 +8,15 @@ icon: material/door-open
 
 # Resolve and Death's Door
 
-The Resolve and Death's Door mechanic is introduced in Crown & Misery to add more unpredictability to combat. In simple terms, even if you're reduced to 0 HP, you're still in the game! This mechanic replaces the usual Death :d20-save: **Saving Throws** in regular D&D, allowing players to remain conscious at 0 HP with varying degrees of virtue and affliction.
+The Resolve and Death's Door mechanic is introduced in Crown & Misery to add more unpredictability to combat. In simple terms, even if you're reduced to 0 HP, you're still in the game! This mechanic replaces the usual Death Saving Throws in regular D&D, allowing players to remain conscious at 0 HP with varying degrees of virtue and affliction.
 
 ## Death's Door
 
 When reduced to 0 Hit Points but not killed outright, you remain conscious but are considered to be at *Death’s Door*. You must immediately make a Resolve Check unless you are already under the effects of either **Resolute** or **Meltdown**.
 
-- :material-bullseye-arrow:**Damage and Failures.** Each instance of damage from a single source counts as one 'Death :d20-save: **Saving Throw** Failure', with Critical Hits counting as two failures. Upon accumulating three failures or if the damage equals or exceeds your Hit Point maximum, you **die** instantly.
-- :material-heart-pulse:**Stabilization.** While at Death’s Door, anyone (including yourself) may attempt to stabilize you with a DC 10 Wisdom (Medicine) check. A successful check grants one 'Death :d20-save: **Saving Throw** Success', with critical successes granting two. Upon gaining three 'Death :d20-save: **Saving Throw** Successes', you regain 1 Hit Point.
-- :material-plus-thick:**Healing.** Direct healing removes you from Death's Door and allows you to heal for the expected amount.
+- **Damage and Failures.** Each instance of damage from a single source counts as one 'Death :d20-save: **Saving Throw** Failure', with Critical Hits counting as two failures. Upon accumulating three failures or if the damage equals or exceeds your Hit Point maximum, you **die** instantly.
+- **Stabilization.** While at Death’s Door, anyone (including yourself) may attempt to stabilize you with a DC 10 Wisdom (Medicine) check. A successful check grants one 'Death :Saving Throw Success', with critical successes granting two. Upon gaining three 'Death Saving Thro Successes', you regain 1 Hit Point.
+- **Healing.** Direct healing removes you from Death's Door and allows you to heal for the expected amount.
 
 ## Resolve Check
 
@@ -24,15 +24,15 @@ A Resolve Check is an :d20-check: **Ability Check** made to determine whether a 
 
 ### Making a Resolve Check
 
-- :material-plus-box-multiple:**Ability Modifier:** The Resolve Check is a pure d20 roll, meaning you don't add any modifier unless you have an ability or a feature that states otherwise.
-- :material-shield-alert:**Difficulty Class:** The Resolve Check has a flat DC of 16. On a successful check, you gain the **Resolute** condition; on a failed check, you gain the **Meltdown** condition.
+- :material-plus-box-multiple: **Ability Modifier:** The Resolve Check is a pure d20 roll, meaning you ^^don't add any modifier^^ unless you have an ability or a feature that states otherwise.
+- :material-shield-alert: **Difficulty Class:** The Resolve Check has a flat **DC of 17**. On a successful check, you gain the **Resolute** condition; on a failed check, you gain the **Meltdown** condition.
 
 ### When to Make a Resolve Check
 
 A Resolve Check is made under two conditions:
 
-1. :material-door-open:**Death's Door:** As mentioned above, when you are reduced to 0 Hit Points but not killed outright, you must immediately make a Resolve Check, ending the Death's Door state on a successful one.
-2. :material-bullseye-arrow:**Massive Damage:** When you take damage from a single source equal to or greater than half your Hit Point maximum, you must make a :d20-save: **Saving Throw** using Intelligence, Wisdom, or Charisma (whichever has the highest ability modifier). The DC of this save is equal to 8 or half the damage you take, whichever number is higher (to a maximum of 18). On a failed save, you must make a Resolve Check.
+1. :material-door-open: **Death's Door:** As mentioned above, when you are reduced to 0 Hit Points but not killed outright, you must immediately make a Resolve Check, ending the Death's Door state on a successful one.
+2. :material-bullseye-arrow: **Massive Damage:** When you take damage from a single source equal to or greater than half your Hit Point maximum, you must make a :d20-save: **Saving Throw** using Intelligence, Wisdom, or Charisma (whichever has the highest ability modifier). The DC of this save is equal to 8 or half the damage you take, whichever number is higher (to a maximum of 18). On a failed save, you must make a Resolve Check.
 
 ## Conditions: Resolute and Meltdown
 
@@ -50,7 +50,7 @@ While this condition is in effect, you gain several benefits:
 
 Immediately after you receive this condition, you roll a d10 and gain a virtue depending on the result:
 
-| :die-d10:**d10** | **VIRTUE** | **QUOTE** |
+| :die-d10: d10 | VIRTUE | QUOTE |
 | :-: | --- | --- |
 | 1-2 | Courageous | "A moment of valour shines brightest against a backdrop of despair" |
 | 3-4 | Focused | "A moment of clarity in the eye of the storm" |
@@ -69,7 +69,7 @@ The Meltdown condition lasts for 10 minutes but can end early under the followin
 
 Immediately after you receive this condition, you roll a d10 and gain an affliction depending on the result:
 
-| :die-d10:**d10** | **AFFLICTION** | **QUOTE** |
+| :die-d10: d10 | AFFLICTION | QUOTE |
 | :-: | --- | --- |
 | 1-2 | Abusive | “Frustration and fury, more destructive than a hundred cannons” |
 | 3-4 | Fearful | “Fear and frailty finally claim their due” |
@@ -87,14 +87,14 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 
 *"A moment of valour shines brightest agaisnt a backdrop of despair"*
 
-- Whenever you or an ally within 30 ft. of you makes an :d20-attack: **Attack Roll** or a :d20-save: **Saving Throw**, it can roll a d4 and add the number rolled to the :d20-attack: **Attack Roll** or :d20-save: **Saving Throw**.
+- Whenever you or an ally within 30 ft. of you (provided the ally can see you) makes a D20 Test, it can roll a d4 and add the number rolled to the result.
 - Conditions such as *charmed* or *frightened* that affects an ally that can see you within 30 ft. of you are supressed. When the creature is beyond 30ft. of you or can’t see you, any suppressed effect immediately resumes, provided that its duration has not expired in the meantime.
 
 ### Focused
 
 *"A moment of clarity in the eye of the storm"*
 
-- Your attack scores a Critical Hit on a roll of 19 and 20.
+- The number you need to roll a Critical Hit and a Critical Success is reduced by 2. This effect can stack.
 - Once per turn, when you miss an attack, you can choose to reroll the d20. You must use the new roll.
 - Taking damage can’t break your concentration on a spell. Any spells that you are concentrating on before gaining this virtue immediately resumes.
 

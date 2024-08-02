@@ -106,10 +106,6 @@ You gain :trait-prof: **Proficiency** in one skill of your choice and :trait-pro
 
 You gain :trait-prof: **Proficiency** with :weapon-rifle: **Firearms** and one artisan's tools of your choice: Cartographer's Tools, Smith's Tools or Tinker's Tools.
 
-#### :material-exclamation-thick: **Unyielding**  
-
-You can add your Proficiency Bonus to Resolve Checks.
-
 #### :material-arm-flex-outline: **Inferior Athleticism**  
 
 You have :d20-disadv: **Disadvantage** on contested Strength **Ability Checks** and :d20-save: **Saving Throws** against creatures other than Humans of this lineage.

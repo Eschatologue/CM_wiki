@@ -95,7 +95,7 @@ You study the arcane arts, gaining the following benefits:
 
 - **Magical Trickster** 
 
-    You learn the *prestidigitation* cantrip, *identify*, and *detect magic* spells. You can cast *identify* or *detect magic* once without expending a :rsc-spell-slot: **Spell Slot**, and you regain the ability to do so when you finish a Long Rest.
+    You learn the [Prestidigitation] cantrip, [Identify], and [Detect Magic] spells. You can cast [Identify] or [Detect Magic] once without expending a :rsc-spell-slot: **Spell Slot**, and you regain the ability to do so when you finish a Long Rest.
 
 ### Armour Training
 
@@ -111,6 +111,7 @@ You have trained to master the use of armour.
     You gain Armour Training with Light Armour. If you are already Armour Training with Light Armour when you select this feat, you gain Armour Training with Medium Armour and Shields. 
 
 ### Artifice Adept
+
 *Level 1 Feat*
 
 **Prerequisites:** Expert or Mage Group  
