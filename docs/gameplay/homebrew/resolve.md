@@ -22,17 +22,17 @@ When reduced to 0 Hit Points but not killed outright, you remain conscious but a
 
 A Resolve Check is an :d20-check: **Ability Check** made to determine whether a creature gains the **Resolute** or **Meltdown** condition.
 
-### Making a Resolve Check
+### Making a the check
 
 - :material-plus-box-multiple: **Ability Modifier:** The Resolve Check is a pure d20 roll, meaning you ^^don't add any modifier^^ unless you have an ability or a feature that states otherwise.
 - :material-shield-alert: **Difficulty Class:** The Resolve Check has a flat **DC of 17**. On a successful check, you gain the **Resolute** condition; on a failed check, you gain the **Meltdown** condition.
 
-### When to Make a Resolve Check
+### When to Make a the check
 
 A Resolve Check is made under two conditions:
 
 1. :material-door-open: **Death's Door:** As mentioned above, when you are reduced to 0 Hit Points but not killed outright, you must immediately make a Resolve Check, ending the Death's Door state on a successful one.
-2. :material-bullseye-arrow: **Massive Damage:** When you take damage from a single source equal to or greater than half your Hit Point maximum, you must make a :d20-save: **Saving Throw** using Intelligence, Wisdom, or Charisma (whichever has the highest ability modifier). The DC of this save is equal to 8 or half the damage you take, whichever number is higher (to a maximum of 18). On a failed save, you must make a Resolve Check.
+2. :material-bullseye-arrow: **Massive Damage:** When you take damage from a single source equal to or greater than half your Hit Point maximum, you must make a :d20-save: **Saving Throw** using Intelligence, Wisdom, or Charisma (whichever has the highest ability modifier) with DC equals to 8 or half the damage you take, whichever number is higher (to a maximum of 18). On a failed save, you must make a Resolve Check.
 
 ## Conditions: Resolute and Meltdown
 
