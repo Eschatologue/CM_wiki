@@ -6,18 +6,17 @@ icon: material/cards-playing-spade-multiple
 *Level 4 Feat*
 
 **Prerequisites:** None  
-**Repeatable:** No
 
-- **Two and One**
+You increase one Ability Score of your choice by 2, or you can increase two Ability Scores of your choice by 1. You can't increase an Ability Score above 20 using this feat. However, if you’re at least level 19, that maximum increases to 22.
 
-    You increase one Ability Score of your choice by 2, or you can increase two Ability Scores of your choice by 1. You can't increase an Ability Score above 20 using this feat. When you reach 18th character level, that maximum increases to 22.
+**Repeatable.** You can take this feat more than once.
 
 ### Arcane Charger
 
 *Level 4 Feat*
 
 **Prerequisites:** The ability to cast a spell  
-**Repeatable:** No
+
 
 You've learned how the how to weave magic and mobility
 
@@ -42,7 +41,7 @@ You've learned how the how to weave magic and mobility
 *Level 4 Feat*
 
 **Prerequisites:** The ability to cast a spell  
-**Repeatable:** No
+
 
 You are skilled at casting spells with a weapon in hand.
 
@@ -63,7 +62,7 @@ You are skilled at casting spells with a weapon in hand.
 *Level 4 Feat*
 
 **Prerequisites:** The ability to cast a spell  
-**Repeatable:** No
+
 
 You have learned to channel your magic through a deck of cards. 
 
@@ -90,7 +89,7 @@ You have learned to channel your magic through a deck of cards.
 *Level 4 Feat*
 
 **Prerequisites:** Crossbows Proficiency  
-**Repeatable:** No
+
 
 Thanks to extensive practice with the crossbow, you gain the following benefits:
 
@@ -115,7 +114,7 @@ Thanks to extensive practice with the crossbow, you gain the following benefits:
 *Level 4 Feat*
 
 **Prerequisites:** Dexterity 13+  
-**Repeatable:** No
+
 
 You’ve learned to deftly parry attacks, granting you the following benefits:
 
@@ -132,7 +131,7 @@ You’ve learned to deftly parry attacks, granting you the following benefits:
 *Level 4 Feat*
 
 **Prerequisites:** Proficiency with any Martial Weapon  
-**Repeatable:** No
+
 
 You master the ability to use two weapons at the same time You gain the following benefits:
 
@@ -146,14 +145,14 @@ You master the ability to use two weapons at the same time You gain the followin
 
 - **Quick Draw** 
 
-    You can draw or stow two Weapons that lack the :weapon-prop-two-handed: **Two-Hande*d* property when you would normally be able to draw or stow only one.
+    You can draw or stow two Weapons that lack the :weapon-prop-two-handed: **Two-Handed** property when you would normally be able to draw or stow only one.
 
 ### Durable
 
 *Level 4 Feat*
 
 **Prerequisites:** Constitution 13+  
-**Repeatable:** No
+
 
 Hardy and resilient, you gain the following benefits:
 
@@ -178,7 +177,7 @@ Hardy and resilient, you gain the following benefits:
 *Level 4 Feat*
 
 **Prerequisites:** Spellcasting/Pact Magic feature; Mage Group  
-**Repeatable:** No
+
 
 You’ve learned to cannibalize the power of your spells to reinvigorate your allies.
 
@@ -199,7 +198,6 @@ You’ve learned to cannibalize the power of your spells to reinvigorate your al
 *Level 4 Feat*
 
 **Prerequisites:** Spellcasting/Pact Magic feature  
-**Repeatable:** Yes. Choose a different Damage Type each time.
 
 In your spellcasting, you can harness a particular form of energy with deadly mastery, granting you the following benefits:
 
@@ -211,12 +209,14 @@ In your spellcasting, you can harness a particular form of energy with deadly ma
     
     Choose one of the following Damage Types: :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-lightning: Lightning, or :dmg-thunder: Thunder. Spells you cast ignore Resistance to damage of the chosen type. In addition, when you roll damage for a Spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2. 
 
+**Repeatable.** You can take this feat more than once. Choose a different Damage Type each time.
+
 ### Fey Touched
 
 *Level 4 Feat*
 
 **Prerequisites:** The ability to cast a spell  
-**Repeatable:** No
+
 
 Your exposure to the Feywild’s magic has changed you, granting you the following benefits:
 
@@ -235,7 +235,6 @@ Your exposure to the Feywild’s magic has changed you, granting you the followi
 *Level 4 Feat*
 
 **Prerequisites:** Warrior Group or Proficiency with at least one Martial Weapon  
-**Repeatable:** Yes, choose a different fighting style each time.
 
 Your martial training has helped you develop a particular style of fighting.
 
@@ -249,12 +248,14 @@ Your martial training has helped you develop a particular style of fighting.
 
     This feat lacks whatever prerequisites that the Feats from [Fighting Style Feats](feat-fighting-style.md) has.
 
+**Repeatable.** You can take this feat more than once, choose a different fighting style each time.
+
 ### Flash Recall
 
 *Level 4 Feat*
 
 **Prerequisites:** Spellcasting/Pact Magic feature  
-**Repeatable:** No
+
 
 You’ve developed the ability to instantly recall an unprepared spell in moments of sudden necessity. You gain the following benefits:
 
@@ -273,7 +274,7 @@ You’ve developed the ability to instantly recall an unprepared spell in moment
 *Level 4 Feat*
 
 **Prerequisite:** Strength or Dexterity 13+  
-**Repeatable:** No
+
 
 You're an accomplished wrestler, granting you the following benefits:
 
@@ -298,7 +299,7 @@ You're an accomplished wrestler, granting you the following benefits:
 *Level 4 Feat - Homebrew*
 
 **Prerequisite:** Warrior Group, or Proficiency with one Martial Weapon with :weapon-prop-heavy: **Heavy** or :weapon-prop-versatile: **Versatile** property  
-**Repeatable:** No
+
 
 You’ve learned to use the weight of a weapon to your advantage, letting its momentum empower your strikes. You gain the following benefits:
 
@@ -319,7 +320,7 @@ You’ve learned to use the weight of a weapon to your advantage, letting its mo
 *Level 4 Feat*
 
 **Prerequisite:** Dexterity 13+ or Proficieny with at least one Firearm.  
-**Repeatable:** No
+
 
 You have a quick hand and keen eye when employing firearms, granting you the following benefits:
 
@@ -340,7 +341,7 @@ You have a quick hand and keen eye when employing firearms, granting you the fol
 *Level 4 Feat*
 
 **Prerequisite:** Strength 13+ or a Heavy armour Proficiency  
-**Repeatable:** No
+
 
 You can use your armour to deflect strikes that would kill others. You gain the following benefits:
 
@@ -357,7 +358,7 @@ You can use your armour to deflect strikes that would kill others. You gain the 
 *Level 4 Feat*
 
 **Prerequisite:** Wisdom or Charisma 13+  
-**Repeatable:** No
+
 
 You inspire your companions, shoring up their resolve to fight.
 
@@ -374,7 +375,7 @@ You inspire your companions, shoring up their resolve to fight.
 *Level 4 Feat*
 
 **Prerequisite:** None  
-**Repeatable:** No
+
 
 You have practiced techniques useful in melee combat against spellcasters, gaining the following benefits:
 
@@ -399,7 +400,7 @@ You have practiced techniques useful in melee combat against spellcasters, gaini
 *Level 4 Feat*
 
 **Prerequisite:** Stength or Wisdom 13+ or Proficiency with Smith's Tool, Tinker's Tool, or Leatherworker's Tool  
-**Repeatable:** No
+
 
 You are a master of the forge that can wield the right tools with ease. You gain the following benefits:
 
@@ -424,7 +425,7 @@ You are a master of the forge that can wield the right tools with ease. You gain
 *Level 4 Feat*
 
 **Prerequisite:** Wisdom 13+ or Wisdom (Medicine) Proficiency  
-**Repeatable:** No
+
 
 You master the physician’s arts, gaining the following benefits:
 
@@ -449,7 +450,7 @@ You master the physician’s arts, gaining the following benefits:
 *Level 4 Feat*
 
 **Prerequisite:** Medium Armour Proficiency  
-**Repeatable:** No
+
 
 You have practiced moving in medium armour to gain the following benefits:
 
@@ -470,7 +471,7 @@ You have practiced moving in medium armour to gain the following benefits:
 *Level 4 Feat*
 
 **Prerequisite:** Charisma 13+ or Intimidation Proficiency  
-**Repeatable:** No
+
 
 You become fearsome to others, gaining the following benefits:
 
@@ -491,7 +492,7 @@ You become fearsome to others, gaining the following benefits:
 *Level 4 Feat*
 
 **Prerequisite:** Spellcasting/Pact Magic featur; Expert, Priest or Mage Group  
-**Repeatable:** No
+
 
 You’re experimenting how to exert your will on your spells to alter how they function:
 
@@ -514,7 +515,7 @@ You’re experimenting how to exert your will on your spells to alter how they f
 *Level 4 Feat*
 
 **Prerequisite:** :trait-prof: Proficiency with Any Martial Weapon  
-**Repeatable:** No
+
 
 You have developed a bond with your mounts, granting you the following benefits:
 
@@ -543,7 +544,7 @@ You have developed a bond with your mounts, granting you the following benefits:
 *Level 4 Feat*
 
 **Prerequisite:** None  
-**Repeatable:** No
+
 
 Your sheer physical might dwarfs that of nearly all other mortal creatures, giving you the following benefits:
 
@@ -564,7 +565,7 @@ Your sheer physical might dwarfs that of nearly all other mortal creatures, givi
 *Level 4 Feat*
 
 **Prerequisite:** :trait-prof: Proficiency with any weapon that deals :dmg-piercing: Piercing damage  
-**Repeatable:** No
+
 
 You have achieved a penetrating precision in combat, granting you the following benefits:
 
@@ -586,7 +587,7 @@ You have achieved a penetrating precision in combat, granting you the following 
 *Level 4 Feat*
 
 **Prerequisite:** :trait-prof: Proficiency with Martial Weapon that has :weapon-prop-reach: **Reach** property.  
-**Repeatable:** No
+
 
 Keeping foes just out of range is your specialty. You gain the following benefits:
 
@@ -609,7 +610,7 @@ Keeping foes just out of range is your specialty. You gain the following benefit
 *Level 4 Feat*
 
 **Prerequisite:** Constitution 13+  
-**Repeatable:** No
+
 
 Your body has the ability to recover quickly from terrible injuries, and is unusually receptive to healing magic. You gain the following benefits:
 
@@ -630,7 +631,7 @@ Your body has the ability to recover quickly from terrible injuries, and is unus
 *Level 4 Feat*
 
 **Prerequisite:** Constitution 13+  
-**Repeatable:** No
+
 
 You have developed the resilience to better withstand certain dangers, granting you the following benefits:
 
@@ -647,7 +648,7 @@ You have developed the resilience to better withstand certain dangers, granting 
 *Level 4 Feat*
 
 **Prerequisite:** Intelligence, Wisdom, or Charisma 13+  
-**Repeatable:** No
+
 
 You have studied ritual magic, granting you the following benefits:
 
@@ -668,7 +669,7 @@ You have studied ritual magic, granting you the following benefits:
 *Level 4 Feat*
 
 **Prerequisite:** Proficiency with any Martial Weapon  
-**Repeatable:** No
+
 
 You have mastered techniques to take :d20-adv: **Advantage** of every drop in any enemy’s guard, gaining the following benefits:
 
@@ -689,7 +690,7 @@ You have mastered techniques to take :d20-adv: **Advantage** of every drop in an
 *Level 4 Feat*
 
 **Prerequisite:** :trait-prof: Proficiency with any Ranged Martial Weapon  
-**Repeatable:** No
+
 
 You can make shots that others find impossible, granting you the following benefits:
 
@@ -710,7 +711,7 @@ You can make shots that others find impossible, granting you the following benef
 *Level 4 Feat - Homebrew*
 
 **Prerequisite:** :trait-prof: Proficiency with shields.  
-**Repeatable:** No
+
 
 You’ve trained to use shields not just for protection, but also for offense, granting you the following benefits:
 
@@ -727,7 +728,7 @@ You’ve trained to use shields not just for protection, but also for offense, g
 *Level 4 Feat*
 
 **Prerequisite:** None  
-**Repeatable:** No
+
 
 You have honed your Proficiency with particular skills, granting you the following benefits:
 
@@ -748,7 +749,7 @@ You have honed your Proficiency with particular skills, granting you the followi
 *Level 4 Feat*
 
 **Prerequisite:** Dexterity 13+  
-**Repeatable:** No
+
 
 You are expert at slinking through shadows. You gain the following benefits:
 
@@ -773,7 +774,7 @@ You are expert at slinking through shadows. You gain the following benefits:
 *Level 4 Feat*
 
 **Prerequisite:** :trait-prof: Proficiency with any Martial Weapon  
-**Repeatable:** No
+
 
 You’ve learned where to cut to have the greatest results, granting you the following benefits:
 
@@ -794,7 +795,7 @@ You’ve learned where to cut to have the greatest results, granting you the fol
 *Level 4 Feat*
 
 **Prerequisite:** Dexterity or Constitution 13+  
-**Repeatable:** No
+
 
 You possess exceptional speed and stamina, granting you the following benefits:
 
@@ -815,7 +816,7 @@ You possess exceptional speed and stamina, granting you the following benefits:
 *Level 4 Feat*
 
 **Prerequisite:** The ability to cast a spell  
-**Repeatable:** No
+
 
 You have learned techniques to enhance your attacks with certain kinds of spells, gaining the following benefits:
 
@@ -840,7 +841,7 @@ You have learned techniques to enhance your attacks with certain kinds of spells
 *Level 4 Feat*
 
 **Prerequisite:** :trait-prof: Proficiency with a Martial Weapon that has the :weapon-prop-finesse: **Finesse** property  
-**Repeatable:** No
+
 
 One-handed weapons and blades are an extension of your arm, graceful as the wind.
 
@@ -861,7 +862,7 @@ One-handed weapons and blades are an extension of your arm, graceful as the wind
 *Level 4 Feat*
 
 **Prerequisite:** Intelligence, Wisdom, or Charisma 13+  
-**Repeatable:** No
+
 
 You awaken the ability to mentally connect with others, granting you the following benefits:
 
@@ -882,7 +883,7 @@ You awaken the ability to mentally connect with others, granting you the followi
 *Level 4 Feat - Homebrew*
 
 **Prerequisite:** None  
-**Repeatable:** No
+
 
 You have been touched by the Warp, giving you benefits as follow:
 
@@ -911,8 +912,8 @@ You have been touched by the Warp, giving you benefits as follow:
 
 *Level 4 Feat*
 
-**Prerequisite:** Spellcasting/Pact Magic feature  
-**Repeatable:** No
+**Prerequisite:** Ability to cast a spell  
+
 
 You have practiced casting spells in the midst of combat, learning techniques that grant you the following benefits:
 
@@ -926,14 +927,18 @@ You have practiced casting spells in the midst of combat, learning techniques th
     
 - **Reactive Spell**
     
-    When a creature provokes an :rsc-reaction: **Opportunity Attack** from you by moving out of your Reach, you can use your :rsc-reaction: **Reaction** to cast a Spell at the creature, rather than making an Opportunity Attack. The Spell must have a casting time of one Action and must target only that creature.
+    When a creature moves out of your reach, you can use your :rsc-reaction: **Reaction** to cast a Spell at the creature. The Spell must have a casting time of :rsc-action: **Action** and must target only that creature.
+
+- **Somatic Components** 
+
+    You can perform the Somatic Components of Spells even when you have Weapons or a Shield in one or both hands.
 
 ### Weapon Training
 
 *Level 4 Feat*
 
 **Prerequisite:** None  
-**Repeatable:** No
+
 
 You have practiced extensively with a variety of weapons, gaining the following benefits:
 
