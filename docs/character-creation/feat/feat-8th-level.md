@@ -7,7 +7,6 @@ icon: material/cards-playing
 *Level 8 Feat*
 
 **Prerequisites:** Warrior Group  
-**Repeatable:** No
 
 You learn how to push yourself beyond your normal limits.
 
@@ -20,7 +19,6 @@ You learn how to push yourself beyond your normal limits.
 *Level 8 Feat*
 
 **Prerequisites:** Expert Group or [Artificer Initiate](feat-starting.md#artificer-initiate) Feat  
-**Repeatable:** No
 
 Through your repeated exposure to the natural flow of arcane magic throughout your world and beyond, you’ve adapted to attune with additional Enchantments, though the process can be physically taxing. You gain the following benefits:
 
@@ -41,7 +39,6 @@ Through your repeated exposure to the natural flow of arcane magic throughout yo
 *Level 8 Feat*
 
 **Prerequisites:** Mage or Priest Group  
-**Repeatable:** No
 
 Countless hours have been spent training your mind to maintain focus on concurrent incantations, taxing as the process may be.
 
@@ -60,7 +57,6 @@ Countless hours have been spent training your mind to maintain focus on concurre
 *Level 8 Feat*
 
 **Prerequisites:** Warrior Group or [Great Weapon Master](feat-4th-level.md#great-weapon-master) feat  
-**Repeatable:** No
 
 You have mastered the usage of heavy weapons, using their weight and size for maximum lethality.
 
@@ -88,7 +84,6 @@ You have mastered the usage of heavy weapons, using their weight and size for ma
 *Level 8 Feat*
 
 **Prerequisites:** Mage or Priest Group  
-**Repeatable:** No
 
 Your faith grants you great insight into magic, giving you a special privilege with it as if magic itself favors you.
 
@@ -111,7 +106,6 @@ Your faith grants you great insight into magic, giving you a special privilege w
 *Level 8 Feat*
 
 **Prerequisites:** Warrior Group or [Shield Master](feat-4th-level.md#shield-masterhb) feat  
-**Repeatable:** No
 
 After fine tuning your equipment, you can do things others can’t with shields.
 
@@ -134,7 +128,6 @@ After fine tuning your equipment, you can do things others can’t with shields.
 *Level 8 Feat*
 
 **Prerequisites:** Priest or Mage Group, or Spellcasting/Pact Magic feature  
-**Repeatable:** No
 
 Through intense focus, training, and dedication, you’ve harnessed the techniques of rapid spellcasting.
 
@@ -147,7 +140,6 @@ Through intense focus, training, and dedication, you’ve harnessed the techniqu
 *Level 8 Feat*
 
 **Prerequisites:** Intelligence (Religion) expertise or Priest Group  
-**Repeatable:** Yes, pick a different channel divinity option each time
 
 You learn how to channel divine power given by the divine.
 
@@ -158,3 +150,5 @@ You learn how to channel divine power given by the divine.
 - **Channel Divinity**
     
     Choose a cleric domain, you gain a channel divinity feature granted by that domain. You can use this feature twice and regain expended uses when you finish a Short Rest or Long Rest. If a channel divinity option uses Wisdom of its effect, you can use either your Intelligence or Charisma for it.
+
+***Repeatable.*** You can take this feat more than once, picking a different channel divinity option each time

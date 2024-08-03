@@ -9,7 +9,7 @@ icon: material/cards-playing-spade-multiple
 
 You increase one Ability Score of your choice by 2, or you can increase two Ability Scores of your choice by 1. You can't increase an Ability Score above 20 using this feat. However, if you’re at least level 19, that maximum increases to 22.
 
-**Repeatable.** You can take this feat more than once.
+***Repeatable.*** You can take this feat more than once.
 
 ### Arcane Charger
 
@@ -209,7 +209,7 @@ In your spellcasting, you can harness a particular form of energy with deadly ma
     
     Choose one of the following Damage Types: :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-lightning: Lightning, or :dmg-thunder: Thunder. Spells you cast ignore Resistance to damage of the chosen type. In addition, when you roll damage for a Spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2. 
 
-**Repeatable.** You can take this feat more than once. Choose a different Damage Type each time.
+***Repeatable.*** You can take this feat more than once. Choose a different Damage Type each time.
 
 ### Fey Touched
 
@@ -248,7 +248,7 @@ Your martial training has helped you develop a particular style of fighting.
 
     This feat lacks whatever prerequisites that the Feats from [Fighting Style Feats](feat-fighting-style.md) has.
 
-**Repeatable.** You can take this feat more than once, choose a different fighting style each time.
+***Repeatable.*** You can take this feat more than once, choose a different fighting style each time.
 
 ### Flash Recall
 
