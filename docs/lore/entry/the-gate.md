@@ -21,7 +21,7 @@ The Gate is the subject of various prophecies and theories, which suggest that u
 
 ## The Avid Horizon Exclusion Zone
 
-The Avid Horizon Exclusion Zone is a designated area with a radius of 75 kilometers (approximately 245,000 feet) centered around the Northern Gate. This zone is classified as a "No Man’s Land" by the London authorities due to its extreme danger and the hazardous conditions within.
+The Avid Horizon Exclusion Zone is a designated area with a radius of 75 kilometres (approximately 245,000 feet) centered around the Northern Gate. This zone is classified as a "No Man’s Land" by the London authorities due to its extreme danger and the hazardous conditions within.
 
 The Exclusion Zone is renowned for being one of the most perilous regions on Antares. Its terrain is predominantly mountainous, which complicates traversal and contributes to the area's high level of risk. Additionally, the region is heavily infested with dangerous Aberrations. While the wilderness of Antares is generally treacherous, areas under London control typically offer higher chances of survival due to rigorous surveillance and patrolling. In stark contrast, the Avid Horizon Exclusion Zone is abandoned to its own perils. The London government maintains a policy of non-intervention, meaning that individuals who stray into this zone are left to face the Aberrations without assistance, even if they are later located.
 
