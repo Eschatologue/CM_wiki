@@ -9,7 +9,7 @@ The Northern Gate, commonly referred to as "the Gate," is an ancient structure l
 
 ## Overview
 
-![Image title](../../assets/wiki/northern-gate.jpg){ width=374 height=500 align=left }
+![Image title](../../assets/wiki/northern-gate.jpg){ width=318 height=425 align=right }
 
 The Northern Gate is rumored to serve as a connection between distant realms or locations separated by great distances. Its exact mechanism and purpose remain largely unknown. Prior to the arrival of the Londoners and the subsequent conflicts, the existence of the Northern Gate was kept secret by the elves who controlled the area. This secrecy was due in part to the Gate's inherent danger; prolonged exposure to its Celestial script and engravings could result in spontaneous combustion, a phenomenon that made the Gate particularly hazardous.
 
