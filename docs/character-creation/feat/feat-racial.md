@@ -4,6 +4,8 @@ icon: material/contacts
 
 ### Bountiful Luck
 
+*Level 4 Feat*
+
 **Prerequisites:** Halfling Race  
 **Repeatable:** No
 
@@ -14,6 +16,8 @@ Your people have extraordinary luck, which you have learned to mystically lend t
     When an ally you can see within 30 feet of you rolls a 1 on the d20 for a D20 Tests, you can use your reaction to let the ally reroll the die. The ally must use the new roll. When you use this ability, you can't use your Lucky racial trait before the end of your next turn
 
 ### Dragon Fear
+
+*Level 4 Feat*
 
 **Prerequisites:** Dragonborn Race  
 **Repeatable:** No
@@ -28,7 +32,9 @@ When angered, you radiate menace. You gain the following benefits:
     
     Instead of exhaling destructive energy, you can expend a use of your Breath Weapon trait to roar, forcing each creature of your choice within 30 feet of you to make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier). A target automatically succeeds on the save if it can’t hear or see you. On a failed save, a target becomes frightened for 1 minute. If the frightened target takes any damage, it can repeat the saving throw, ending the effect on itself on a success.
 
-### Dragon Fear
+### Dragon Hide
+
+*Level 4 Feat*
 
 **Prerequisites:** Dragonborn Race  
 **Repeatable:** No
@@ -49,7 +55,9 @@ You manifest scales and claws reminiscent of your draconic ancestors. You gain t
 
 ### Drow High Magic
 
-**Prerequisites:** Elf(Drow) Race  
+*Level 4 Feat*
+
+**Prerequisites:** Elf (Drow) Race  
 **Repeatable:** No
 
 You learn more of the magic typical of dark elves. Charisma is your spellcasting ability for all of these spells.
@@ -63,6 +71,8 @@ You learn more of the magic typical of dark elves. Charisma is your spellcasting
     You learn [Levitate] and [Dispel Magic], each of which you can cast once without expending a spell slot. You regain the ability to cast those two spells in this way when you finish a Long Rest. 
 
 ### Dwarven Fortidude
+
+*Level 4 Feat*
 
 **Prerequisites:** Dwarf Race  
 **Repeatable:** No
@@ -79,6 +89,8 @@ You have the blood of dwarf heroes flowing through your veins. You gain the foll
 
 ### Elven Accuracy
 
+*Level 4 Feat*
+
 **Prerequisite:** Elf or half-elf  
 **Repeatable:** No
 
@@ -94,6 +106,8 @@ The accuracy of elves is legendary, especially that of elf archers and spellcast
 
 ### Fade Away
 
+*Level 4 Feat*
+
 **Prerequisite:** Gnome  
 **Repeatable:** No
 
@@ -108,6 +122,8 @@ Your people are clever, with a knack for illusion magic. You have learned a magi
     Immediately after you take damage, you can use a :rsc-reaction: **Reaction** to magically become invisible until the end of your next turn or until you Attack, deal damage, or force someone to make a Saving Throw. Once you use this ability, you can't do so again until you finish a Short or Long Rest.
 
 ### Fey Teleportation
+
+*Level 4 Feat*
 
 **Prerequisite:** Elf (high)  
 **Repeatable:** No
@@ -126,13 +142,121 @@ Your study of high elven lore has unlocked fey power that few other elves posses
 
     You learn the [Misty Step] spell and can cast it once without expending a spell slot. You regain the ability to cast it in this way when you finish a Short or Long Rest. Intelligence is your spellcasting ability for this spell.
 
-    
-### Unrelenting Fanaticism 
+### Flames of Phlegethos
 
-**Prerequisite:** Human (British)  
-**Repeatable:** No
+*Level 4 Feat*
 
-You have seen your home razed in the High Wilderness, your kin enslaved in the Great Forest, and your dignity tarnished by others. Life is grim, and you greets ir grimly. Death shall claim you only when it has truly earned you, and this continent will break before your will does. 
+**Prerequisite:** Tiefling
+
+You learn to call on hellfire to serve your commands. You gain the following benefits:
+
+- **Ability Score Increase**
+
+    Increase your Wisdom, Intelligence or Charisma by 1, to a maximum of 20.
+
+- **Potent Spells**
+
+    When you roll :dmg-fire: Fire damage for a spell you cast, you can reroll any roll of 1 on the fire damage dice, but you must use the new roll, even if it is another 1.
+
+- **Flame Shield**
+
+    Whenever you cast a spell that deals :dmg-fire: Fire damage, you can cause flames to wreathe you until the end of your next turn. The flames don't harm you or your possessions, and they shed bright light out to 30 feet and dim light for an additional 30 feet. While the flames are present, any creature within 5 feet of you that hits you with a melee attack takes 1d4 :dmg-fire: Fire damage.
+
+### Infernal Constitution
+
+*Level 4 Feat*
+
+**Prerequisite:** Tiefling
+
+Fiendish blood runs strong in you, unlocking a resilience akin to that possessed by some fiends. You gain the following benefits:
+
+- **Ability Score Increase**
+
+    Increase your Constitution score by 1, to a maximum of 20.
+
+- **Damage Resistance**
+
+    You have resistance to cold and poison damage.
+
+- **Stout**
+
+    You have advantage on saving throws against being poisoned.
+
+### Orcish Fury
+
+*Level 4 Feat*
+
+**Prerequisite:** Half-Orc
+
+Your fury burns tirelessly. You gain the following benefits:
+
+- **Ability Score Increase**
+
+    Increase your Strength or Constitution by 1, to a maximum of 20.
+
+- **Brutal Attacks**
+
+    When you hit with an attack using a weapon or an Unarmed Strike you can roll one of the damage dice an additional time and add it as extra damage. Once you use this ability, you can't use it again until you finish a short or long rest.
+
+- **Relentless**
+
+    Immediately after you use your Relentless Endurance trait, you can use your reaction to make one additional attack.
+
+### Prodigy
+
+*Level 4 Feat*
+
+**Prerequisite:** Half-Elf, Half-orc, or Human
+
+You have a knack for learning new things. You gain the following benefits:
+
+- **Skilled**
+
+    You gain one skill proficiency of your choice, one tool proficiency of your choice, and fluency in one language of your choice.
+
+- **Expertiese**
+
+    Choose one skill in which you have proficiency and gain expertise with that skill.
+
+### Second Chance
+
+*Level 4 Feat*
+
+**Prerequisite:** Halfling
+
+Fortune favors you when someone tries to strike you. You gain the following benefits:
+
+- **Ability Score Increase**
+
+    Increase your Dexterity, Constitution, or Charisma by 1, to a maximum of 20.
+
+- **Nuh-uh** 
+
+    When a creature you can see hits you with an attack roll, you can use your reaction to force that creature to reroll. Once you use this ability, you can't use it again until you roll initiative at the start of combat or until you finish a Short or Long Rest.
+
+### Wood Elf Magic
+
+*Level 4 Feat*
+
+**Prerequisite:** Elf (wood)
+
+You know the magic of the primeval woods or perhaps magic while maintaining the generator, both are revered and protected by your people. Wisdom is your spellcasting ability for these spells.
+
+- **Bonus Cantrip**
+
+    Choose between Artificer's or Druid's spell list. You learn one cantrip of your choice from the chosen spell list.
+
+- **Additional Spells**
+
+    You learn [Longstrider] and [Pass Without Trace], each of which you can cast once without expending a spell slot. You regain the ability to cast those two spells in this way when you finish a Long Rest. 
+
+### Unbreakable Will
+
+*Level 4 Feat*
+
+**Prerequisite:** Human (British)
+
+You have seen your home razed in the High Wilderness, your kin enslaved in the Great Forest, and your dignity tarnished by others. Life is grim, and you greets it grimly. This continent will break before your will does. 
 
 - **Ability Score Increase**
     
@@ -144,8 +268,9 @@ You have seen your home razed in the High Wilderness, your kin enslaved in the G
 
 ### Squat Nimbleness
 
-**Prerequisite:** Dwarf or a race with Small size  
-**Repeatable:** No
+*Level 4 Feat*
+
+**Prerequisite:** Dwarf or a race with Small size
 
 You are uncommonly nimble for your race. You gain the following benefits:
 
@@ -161,6 +286,7 @@ You are uncommonly nimble for your race. You gain the following benefits:
 
     You gain proficiency in the Acrobatics or Athletics skill (your choice).
 
-- **Grapple Escape Advantage**
+- **Grapple Escape**
 
-    You have :d20-adv: **Advantage** on a :d20-save: ***Saving Throw* you make to escape from being Grappled.
+    You have :d20-adv: **Advantage** on the :d20-save: **saving Throw** you make to escape from being Grappled.
+

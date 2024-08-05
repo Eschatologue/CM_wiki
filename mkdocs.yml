@@ -9,11 +9,18 @@ nav:
       - Nation-states:
         - London: lore/antares/nation/london.md
         - Myrkheimr: lore/antares/nation/myrkheimr.md
+        - Valinor: lore/antares/nation/valinor.md
     - The Warp:
       - lore/warp/index.md
       - Warp Storm: lore/warp/warp-storm.md
       - Entities: lore/warp/warp-entities.md
-    - Pantheon: lore/pantheon.md
+    - Pantheon: 
+      - lore/pantheon/index.md
+      - Spires:
+        - The Destruction: lore/pantheon/spire-destruction.md
+        - The Perseverance: lore/pantheon/spire-perseverance.md
+        - The Judgement: lore/pantheon/spire-judgement.md
+        - The Harmony: lore/pantheon/spire-harmony.md
   - Gameplay:
     - Dice Rolls: gameplay/dice-rolls.md
     - Resources: gameplay/resources.md
@@ -60,6 +67,7 @@ nav:
       - 4th-Level Feats: character-creation/feat/feat-4th-level.md
       - 8th-Level Feats: character-creation/feat/feat-8th-level.md
       - Fighting Style: character-creation/feat/feat-fighting-style.md
+      - Racial Feats: character-creation/feat/feat-racial.md
     - Other Options & Features:
       - Metamagic: character-creation/option/metamagic.md
       - Eldritch Invocations: character-creation/option/invocations.md

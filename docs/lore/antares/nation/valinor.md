@@ -1,6 +1,6 @@
 # Valinor [draft]
 
-The **Valinor City State**, commonly known as **Valinor**, is a city-state in the northernmost region of the Antares frozen wasteland. It stands as a luminous and fiery sanctuary amidst the vast expanse of snow. This nation predominantly comprises elves, many of whom were displaced refugees from The High Forest and Mykrrheim, as well as political exiles seeking sanctuary.
+The **State of Valinor**, commonly known as **Valinor**, is a city-state in the northernmost region of the Antares frozen wasteland. It stands as a luminous and fiery sanctuary amidst the vast expanse of snow. This nation predominantly comprises elves, many of whom were displaced refugees from The Great Forest and Mykrrheim, as well as political exiles seeking sanctuary.
 
 The elves of Valinor have overcome the harsh challenges of their environment through a remarkable feat of engineering. Known as the "Irminsul," this towering engine is a crucial lifeline for the nation, providing much-needed heat and energy to combat the relentless onslaught of the perpetual winter that blankets the forsaken wasteland.
 
@@ -12,7 +12,7 @@ In addition to the renowned Irminsul, Valinor is celebrated for its magnificent 
 
 As the tides of elven politics abruptly shifted, the once-cherished nations of the elves descended into oppressive fervor and ideological extremism. This transformation struck a dissonant chord within the elven community. While they had always embraced their rich heritage and vibrant culture, this newfound fanaticism surpassed even their own lofty standards.
 
-Under the tightening grip of the regime, dissent became an unforgivable offense. Opposition or even the mildest criticism of the government was swiftly crushed. Dissenting voices were branded as traitors, persecuted, and subjected to detention and torture. The pervasive ideology infiltrated every aspect of society, permeating the education system, the arts, and the private lives of the elven population. Propaganda machines worked tirelessly to shape public opinion and instill unwavering loyalty to the ruling regime. The essence of elven identity was distorted to serve the interests of those in power.
+Under the tightening grip of the regime, dissent became an unforgivable offense. Opposition or even the mildest criticism of the government was swiftly crushed. Dissenting voices were branded as traitors, persecuted, and subjected to detention and exile. The pervasive ideology infiltrated every aspect of society, permeating the education system, the arts, and the private lives of the elven population. Propaganda machines worked tirelessly to shape public opinion and instill unwavering loyalty to the ruling regime. The essence of elven identity was distorted to serve the interests of those in power.
 
 ### War and Resistance
 
@@ -34,14 +34,10 @@ Finally, after enduring countless hardships and battling the unforgiving element
 
 "The Lady Grey" is a colossal catastrophic snowstorm that shrouded Valinor not long after the introduction of the "Irminsul Generator." This relentless snowstorm endured for approximately 96 hours and resulted in a staggering 50% fatality rate among the elven population. "The Lady Grey" caused the temperature in northern Antares to plummet from a relatively "warm" -10°C to an extreme low of -200°C. The cold was so intense that certain magical abilities related to heat or fire became entirely ineffective, rendering the Irminsul Generator the sole source of warmth during the storm. Fortunately, the generator, though nearly on the verge of exploding, sustained only moderate damage.
 
-The snowstorm not only claimed lives but also catalyzed profound transformations within elven society. Their traditionally long lifespans proved futile in the face of Mother Nature's wrath. The once-secure magical forests became a thing of the past, replaced by the harsh and unpredictable environment of the northern wasteland. The idyllic notion that caring for nature would reciprocate that care dissipated, replaced by the stark reality that survival, not stewardship, was the primary concern in this unforgiving wilderness.
+The snowstorm not only claimed lives but also catalyzed profound transformations within elven society. Their traditionally long lifespans proved futile in the face of Nature's wrath. The once-secure magical forests became a thing of the past, replaced by the harsh and unpredictable environment of the northern wasteland. The idyllic notion that caring for nature would reciprocate that care dissipated, replaced by the stark reality that survival, not stewardship, was the primary concern in this unforgiving wilderness.
 
 ## Modern Valinor
 
-### Rapid Growth and Development
+In the aftermath of the storm, Valinor experienced rapid growth, marked by a surge in birth rates and the expansive development of cities. What were once mere refugee camps transformed into thriving cities for the elves. 
 
-In the aftermath of the storm, Valinor experienced rapid growth, marked by a surge in birth rates and the expansive development of cities. What were once mere refugee camps transformed into thriving metropolises for the elves. 
-
-### Political Challenges
-
-However, this newfound prosperity brought with it a new and formidable challenge—politics. As Valinor expanded, managing its growth and ensuring fair governance became increasingly complex. The lessons of their past, coupled with the need to adapt to their harsh new environment, continue to shape the political landscape of this resilient city-state.
+However, this newfound prosperity brought with it a new and formidable challenge—politics. As Valinor expanded, managing its growth and ensuring fair governance became increasingly complex. The lessons of their past, coupled with the need to adapt to their harsh new environment, continue to shape the political landscape of this new city-state.
