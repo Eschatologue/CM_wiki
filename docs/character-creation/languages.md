@@ -37,19 +37,19 @@ Exotic languages are rare and typically not accessible to your character unless 
 | Primordial | Elementals | Dwarvish |
 | Sylvan | Fey creatures | Elvish |
 | Undercommon | Underworld traders | Elvish |
-| [Celestial](../lore/celestial.md) | ??? | Celestial |
+| [Celestial] | ??? | Celestial |
 
 ## Relating Celestial Language
 
-*Main Article: [Celestial](../lore/celestial.md)*
+*Main Article: [Celestial]*
 
 Celestial is known by many names, including god-tongue, correspondence, and Aesirian, but it is often academically referred to as "celestial." It is the oldest of the alphabets, maddening, and often inflammatory.
 
-Since the opening of the northern gate, understanding the celestial tongue has shifted from a reckless indulgence to an urgent necessity. The risks, however – madness and combustion – are substantial.
+Since the opening of the [Northern Gate](../lore/entry/the-gate.md), understanding the celestial tongue has shifted from a reckless indulgence to an urgent necessity. The risks, however – madness and combustion – are substantial.
 
 Celestial is a very dangerous language to learn, with more lethal repercussions than academic benefits. However, for some, the benefits outweigh the risks. 
 
 Your character cannot naturally learn celestial, even it is stated as a racial trait, class features, or background!
 
 
-
+[Celestial]: ../lore/entry/celestial.md

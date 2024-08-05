@@ -1,12 +1,12 @@
 # London
 
-The **Great Britain**, officially called **Albion** and commonly known as **London**, is a country located in the northwest of Antares. It is the new beating heart of the British Empire, nestled within what was once a verdant forest claimed by the elves. London stands as a beacon of prosperity and military might, earning its place as one of Antares' most influential and formidable nations.
+The **Union of Britain**, officially called **Albion** and commonly known as **London**, is a country located in the northwest of Antares. It is the new beating heart of the British Empire, nestled within what was once a verdant forest claimed by the elves. London stands as a beacon of prosperity and military might, earning its place as one of Antares' most influential and formidable nations.
 
 ## Background
 
 ### Origins and Emergence
 
-The origins of present-day London remain a subject of scholarly debate. The transformation of a nation predominantly composed of refugees into one of the strongest powers in Antares is nothing short of a miracle. Recorded encounters with these "tea addicts" date back several decades before the fall of the Great Elven Empire, coinciding with the location where New London now stands. Elven records indicate their arrival through a mysterious structure known as "The Northern Gate," an ancient ruin said to have existed for as long as the oldest high-elf can remember.
+The origins of present-day London remain a subject of scholarly debate. The transformation of a nation predominantly composed of refugees into one of the strongest powers in Antares is nothing short of a miracle. Recorded encounters with these "tea addicts" date back several decades before the fall of the Great Elven Empire, coinciding with the location where New London now stands. Elven records indicate their arrival through a mysterious structure known as "[The Northern Gate](../../entry/the-gate.md)," an ancient ruin said to have existed for as long as the oldest high-elf can remember.
 
 One fateful day, the statue guarding the gate illuminated, and its gates opened. Expecting invaders from the skies, the elves were surprised to encounter a large group of humans clad in rags, wounded, and some even missing limbs. These individuals identified themselves collectively as "British," emphasizing their nationality over their race—a concept that puzzled many. Despite their humble appearance, the British displayed remarkable intelligence and skills across various disciplines, bringing invaluable knowledge to this new world. In a remarkably short span of time, the refugee population exploded, leading to the rapid expansion of their settlements. Camps evolved into towns, then cities, eventually rivaling the grandeur of some of the largest dwarven settlements.
 

@@ -80,7 +80,7 @@ You know one cantrip of your choice from the Sorcerer spell list. You can pick b
 
 ### London Lineage
 
-*The Londoners arrived from beyond Antares through the northern gate, bringing with them their ingenuity, advanced technology, and strong ideologies.*
+*The Londoners arrived from beyond Antares through the [Northern Gate](../../lore/entry/the-gate.md), bringing with them their ingenuity, advanced technology, and strong ideologies.*
 
 *Highly intelligent and deeply nationalistic, these humans have a mysterious past, their will tempered by constant warfare and perpetual threats to their existence—a reality that persists even in Antares.*
 
