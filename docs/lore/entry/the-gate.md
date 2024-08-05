@@ -9,7 +9,7 @@ The Northern Gate, commonly referred to as "the Gate," is an ancient structure l
 
 ## Overview
 
-![Image title](../../assets/wiki/northern-gate.jpg){ width=318 height=425 align=right }
+![Image title](../../assets/wiki/northern-gate.jpg){ height=400 align=left }
 
 The Northern Gate is rumored to serve as a connection between distant realms or locations separated by great distances. Its exact mechanism and purpose remain largely unknown. Prior to the arrival of the Londoners and the subsequent conflicts, the existence of the Northern Gate was kept secret by the elves who controlled the area. This secrecy was due in part to the Gate's inherent danger; prolonged exposure to its Celestial script and engravings could result in spontaneous combustion, a phenomenon that made the Gate particularly hazardous.
 
@@ -26,3 +26,5 @@ The Avid Horizon Exclusion Zone is a designated area with a radius of 75 kilomet
 The Exclusion Zone is renowned for being one of the most perilous regions on Antares. Its terrain is predominantly mountainous, which complicates traversal and contributes to the area's high level of risk. Additionally, the region is heavily infested with dangerous Aberrations. While the wilderness of Antares is generally treacherous, areas under London control typically offer higher chances of survival due to rigorous surveillance and patrolling. In stark contrast, the Avid Horizon Exclusion Zone is abandoned to its own perils. The London government maintains a policy of non-intervention, meaning that individuals who stray into this zone are left to face the Aberrations without assistance, even if they are later located.
 
 At the perimeter of the Exclusion Zone, numerous suspended outposts and mobile research stations are strategically positioned. These facilities are responsible for continuously monitoring the activity of the Northern Gate. The structures are heavily fortified and equipped with advanced weaponry to deter and repel unauthorized intrusions. They serve both as a security measure and a deterrent against zealot groups and other entities attempting to enter the zone for pilgrimage or other purposes. These zealots, driven by various motivations—spiritual, ideological, or otherwise—pose a unique threat, as they may attempt to access the Northern Gate despite the risks. The heavily armed outposts act as a critical line of defense, preventing such groups from breaching the Exclusion Zone and ensuring that the Northern Gate remains secure.
+
+However, as time has passed, it has become apparent that the true purpose of the Exclusion Zone extends beyond merely keeping trespassers out. The zone is also intended to prevent whatever lies beyond the Northern Gate from escaping into the broader world.
