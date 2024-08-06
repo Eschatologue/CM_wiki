@@ -208,7 +208,6 @@ extra_css:
 #  - https://unpkg.com/katex@0/dist/katex.min.js
 #  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
 
-
 # Configuration
 theme:
   name: material
@@ -258,7 +257,7 @@ markdown_extensions:
   - pymdownx.snippets:
       auto_append:
         - includes/abbreviations.md
-        - includes/spells.md
+        # - includes/spells.md
   - pymdownx.details
   - pymdownx.critic
   - pymdownx.caret
