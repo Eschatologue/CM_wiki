@@ -64,7 +64,7 @@ As per new One D&D rules, ^^on a turn, you can expend only one spell slot^^ to c
 
 !!! tip "Spell Slot-less Spells"
 
-  If you have the abilty to cast a spell without expending a spell slot (Warlock's Mystic Arcanum or Star Druid Guiding Bolts), you can cast those spell and can still cast another spell by expending a spell slot. All other rules of spellcasting still apply. 
+    If you have the abilty to cast a spell without expending a spell slot (Warlock's Mystic Arcanum or Star Druid Guiding Bolts), you can cast those spell and can still cast another spell by expending a spell slot. All other rules of spellcasting still apply. 
 
 To cast a spell, a character must expend a :rsc-spell-slot: **Spell Slot** of the spell's level or higher. Each spellcasting class's :rsc-spell-slot: **Spell Slots** are unique to that class. For instance, a character cannot use a druid :rsc-spell-slot: **Spell Slot** to cast a wizard spell when multiclassing. To cast a spell, the character must use a :rsc-spell-slot: **Spell Slot** available to the class from which the spell originates.
 
