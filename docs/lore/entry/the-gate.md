@@ -9,7 +9,7 @@ The Northern Gate, commonly referred to as "the Gate," is an ancient structure l
 
 ## Overview
 
-![Impending Threat by Sheer Madness](../../assets/wiki/northern-gate.png){ align=left }
+![Impending Threat by Sheer Madness](../../assets/wiki/northern-gate.png){ align=left }[^1]
 
 The Northern Gate is rumored to serve as a connection between distant realms or locations separated by great distances. Its exact mechanism and purpose remain largely unknown. Prior to the arrival of the Londoners and the subsequent conflicts, the existence of the Northern Gate was kept secret by the elves who controlled the area. This secrecy was due in part to the Gate's inherent danger; prolonged exposure to its Celestial script and engravings could result in spontaneous combustion, a phenomenon that made the Gate particularly hazardous.
 
@@ -28,3 +28,5 @@ The Exclusion Zone is renowned for being one of the most perilous regions on Ant
 At the perimeter of the Exclusion Zone, numerous suspended outposts and mobile research stations are strategically positioned. These facilities are responsible for continuously monitoring the activity of the Northern Gate. The structures are heavily fortified and equipped with advanced weaponry to deter and repel unauthorized intrusions. They serve both as a security measure and a deterrent against zealot groups and other entities attempting to enter the zone for pilgrimage or other purposes. These zealots, driven by various motivations—spiritual, ideological, or otherwise—pose a unique threat, as they may attempt to access the Northern Gate despite the risks. The heavily armed outposts act as a critical line of defense, preventing such groups from breaching the Exclusion Zone and ensuring that the Northern Gate remains secure.
 
 However, as time has passed, it has become apparent that the true purpose of the Exclusion Zone extends beyond merely keeping trespassers out. The zone is also intended to prevent whatever lies beyond the Northern Gate from escaping into the broader world.
+
+[^1]: Impending Threat by Sheer Madness
