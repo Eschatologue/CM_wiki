@@ -17,20 +17,23 @@ However, British citizens with the proper permits can access firearms and ammuni
 Firearms in Antares are divided into three categories: short-arm, long-arm, and heavy firearms. Each category serves a unique purpose and offers distinct advantages in combat. Note that this section is non-exhaustive and represents common examples within each category.
 
 #### Short-Arm
+
 Short-arm firearms include pistols, revolvers, and other small, easily concealable weapons. These are ideal for close-quarters combat and provide a good balance between firepower and maneuverability.
 
 - **Pistols:** Compact and easy to handle, pistols are perfect for quick-draw situations and can be fired with one hand.
 - **Revolvers:** Known for their reliability and stopping power, revolvers are a popular choice among those who value durability over capacity.
 
 #### Long-Arm
+
 Long-arm firearms encompass rifles, submachine guns (SMGs), and other longer-range weapons. These are designed for mid to long-range engagements, offering greater accuracy and firepower compared to short-arms.
 
 - **Rifles:** Highly accurate and powerful, rifles are the preferred choice for long-range combat. They come in various types, including bolt-action and semi-automatic.
 - **Submachine Guns (SMGs):** SMGs provide a high rate of fire and are effective in close to mid-range combat, making them versatile for different combat scenarios.
 - **Shotguns:** Shotguns are powerful weapons effective at close to mid-range. They fire a spread of pellets, making them ideal for hitting a single target with devastating force.
 
-#### Heavy Firearms
-Heavy firearms include rocket launchers, flamethrowers, machine guns, and other large, destructive weapons. These are typically used for specialized situations where maximum firepower is needed.
+#### Advanced Firearms
+
+Advanced firearms include rocket launchers, flamethrowers, machine guns, and other large, destructive weapons. These are typically used for specialized situations where maximum firepower is needed.
 
 - **Rocket Launchers:** Capable of dealing massive damage, rocket launchers are used to destroy fortified positions or vehicles.
 - **Flamethrowers:** Ideal for clearing out entrenched enemies, flamethrowers spread fire over a wide area, causing continuous damage.
@@ -58,14 +61,13 @@ List of Firearms that you can possibly find in this world:
 | Shotgun, Pump | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 50/90), Automatic (3), Heavy, Reload (7), Scatter(1d12), Two-handed | 6,000 sp |
 | Submachine Gun | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 40/90), Automatic (4), Reload (30), Two-handed | 3,500 sp |
 
-##### Firearms: Heavy Weapons
+##### Firearms: Advanced Firearms
 
-| name | properties | cost |
-|---|---|--:|
-| Pistol Cartridges (20) | Used by Pistols and SMGs | 200 sp |
-| Rifle Cartridges (20) | Used by Rifles and Machine Gun | 300 sp |
-| Shotgun Cartridges (20) | Used by Shotguns | 150 sp |
-| Rocket Propelled Grenade (1) | Used by Rocket Launchers | 1,000 sp |
+| name | damage | properties | cost |
+|---|---|---|--:|
+| Machine Gun | 2d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 150/600), Automatic (4), Heavy, Mounted, Reload (50), Two-Handed | 15,000  sp |
+| Rocket Launcher | 8d6 :dmg-fire: Fire | Ammunition (:weapon-prop-ranged: Range 150/300), Explosive (20ft. :aoe-sphere: sphere), Heavy, Reload (1), Two-Handed | 12,500 sp |
+| Grenade Launcher | 1d4-1 :dmg-bludgeoning: Bludgeoning | Ammunition, range (120/240), Heavy, Loading, Special | 9,000 sp |
 
 ##### Ammunitions
 

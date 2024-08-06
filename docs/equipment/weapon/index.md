@@ -36,18 +36,17 @@ Firearms are weapons that use an explosive charge to propel projectiles called "
 
 Many weapons have special properties related to their use, as shown in the Weapons table.
 
-
 ### :weapon-prop-ammunition:{ .lg .pad-r } Ammunition
 
 You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
 
 ### :weapon-prop-automatic:{ .lg .pad-r } Automatic
 
-When you take the :d20-attack:**Attack** Action on your turn and attack with an Automatic weapon, you can make extra attacks up to the number in the parenthesis later on the same turn, within the same round. Those extra attacks are always made with :d20-disadv: **Disadvantage** regardless of circumstances and expends ammunitions equal to the number of attacks.
+When you take the :d20-attack: **Attack** Action on your turn and attack with an Automatic weapon, you can make extra attacks up to the number in the parenthesis later on the same turn, within the same round. Those extra attacks are always made with :d20-disadv: **Disadvantage** regardless of circumstances and expends ammunitions equal to the number of attacks.
 
 ### :weapon-prop-explosive:{ .lg .pad-r } Explosive
 
-When this weapon’s projectile hits a target, it explodes in a diameter sphere on the parenthesis. The weapon can target a point within its range. Each creature in the area of effect centered on the point or the target must make a DC 15 Dexterity :d20-save: **Saving Throw**. Targets takes the weapon's damage on a failed save, or half as much damage on a successful one. 
+When this weapon’s hits a target, it explodes and affect an area of effect on the parenthesis, this area of effect must include your target and away from you. The weapon can target a point within its range. Each creature in the area of effect centered on the point or the target must make a Dexterity :d20-save: **Saving Throw**. The DC equal to 8 + your Proficiency Bonus + the ability modifier used to make the attack. The creature takes the weapon's damage on a failed save, or half as much damage on a successful one. 
 
 Your initial target makes this :d20-save: **Saving Throw** at a :d20-disadv: **Disadvantage**.
 
@@ -73,7 +72,9 @@ This weapon is normally used while attached to a tripod, vehicle, or other braci
 
 ### :weapon-prop-ranged:{ .lg .pad-r } Ranged
 
-This weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's long range. When attacking a target beyond normal range, you have :d20-disadv: **Disadvantage** on the :d20-attack: **Attack Roll**. You can't attack a target beyond the weapon's long range.
+This weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. 
+
+The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's long range. When attacking a target beyond normal range, you have :d20-disadv: **Disadvantage** on the :d20-attack: **Attack Roll**. You can't attack a target beyond the weapon's long range.
 
 ### :weapon-prop-reach:{ .lg .pad-r } Reach
 
@@ -104,10 +105,6 @@ This weapon requires two hands when you attack with it. This property is relevan
 This weapon can be used with one or two hands. A damage value in parentheses appears with the property--the damage when the weapon is used with two hands to make a melee attack.
 
 ## Mastery Properties
-
-!!! danger "Upcoming Feature"
-
-    This feature is not used for the current campaign.
 
 Each weapon now has a Mastery property, as shown in the weapon tables. That property is usable only by a character who has a feature, such as Weapon Mastery, that unlocks the property for the character. 
 
