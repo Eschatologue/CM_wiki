@@ -60,7 +60,7 @@ A :rsc-reaction: **Reaction** is an :rsc-action: **Action** that creatures can t
 
 ### Using Spell Slots
 
-As per new One D&D rules, ^^on a turn, you can expend only one spell slot^^ to cast a spell. This rule means you can't for example, cast a spell by expending spell slot from a class feature as an :rsc-action: **Action** and another one using a :rsc-bonus-action: **Bonus Action** on the same turn. 
+As per new One D&D rules, ^^on a turn, you can expend only one spell slot^^. This rule means you can't for example, cast a spell by expending spell slot from a class feature as an :rsc-action: **Action** and another one using a :rsc-bonus-action: **Bonus Action** on the same turn. 
 
 !!! tip "Spell Slot-less Spells"
 
