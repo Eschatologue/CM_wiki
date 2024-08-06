@@ -80,7 +80,7 @@ Martial weapons require more training to use effectively but offer greater damag
 | Crossbow, repeating^NEW^ | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 90/360), automatic (2), Heavy, Reload (6), Two-handed | [Vex] | 850 sp |
 | Compound Bow^NEW^ | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 100/600), Heavy, Two-handed | [Slow] | 850 sp |
 | Longbow | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 150/600), Heavy, Two-handed | [Slow] | 500 sp |
-| [Net] | - | Special, Thrown (5/15) | 10 sp |
+| [Net] | - | Special, Thrown (5/15) | - |10 sp |
 
 ##### Ammunition
 
@@ -115,6 +115,7 @@ You have :d20-disadv: **Disadvantage** when you use a lance to attack a target w
 [Nick]: index.md#nick
 [Topple]: index.md#topple
 [Graze]: index.md#graze
+[Sap]: index.md#sap
 
 
 

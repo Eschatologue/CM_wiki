@@ -190,7 +190,7 @@
 [Revivify]: /CM_wiki/spells/3rd-level/#revivify
 [Sending]: /CM_wiki/spells/3rd-level/#sending
 [Sleet Storm]: /CM_wiki/spells/3rd-level/#sleet-storm
-[Slow]: /CM_wiki/spells/3rd-level/#slow
+[Slow(Spell)]: /CM_wiki/spells/3rd-level/#slow-spell
 [Speak with Dead]: /CM_wiki/spells/3rd-level/#speak-with-dead
 [Spirit Guardians]: /CM_wiki/spells/3rd-level/#spirit-guardians
 [Stinking Cloud]: /CM_wiki/spells/3rd-level/#stinking-cloud

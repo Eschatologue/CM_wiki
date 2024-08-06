@@ -714,7 +714,7 @@ The ground in the area is covered with slick ice, making it difficult terrain. W
 
 If a creature starts its turn in the spell's area and is concentrating on a spell, the creature must make a successful Constitution :d20-save: **Saving Throw** against your spell save DC or lose concentration.
 
-### Slow
+### Slow (Spell)
 *3rd-level Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
