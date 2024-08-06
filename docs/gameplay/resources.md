@@ -60,7 +60,7 @@ Spell slots are a resource used by spellcasting characters to cast their spells.
 
 ### Using Spell Slots
 
-As per new One D&D rules, on a turn, you can expend only one spell slot to cast a spell. This rule means you can't for example, cast a spell by expending spell slot from a class feature and another one using a :rsc-bonus-action: **Bonus Action** on the same turn. If you have the abilty to cast a spell without expending a spell slot (Warlock's Mystic Arcanum or Star Druid Guiding Bolts), you can cast those spell and can still cast another spell by expending a spell slot. All other rules of spellcasting still apply. 
+As per new One D&D rules, on a turn, you can expend only one spell slot to cast a spell. This rule means you can't for example, cast a spell by expending spell slot from a class feature as an :rsc-action: **Action** and another one using a :rsc-bonus-action: **Bonus Action** on the same turn. If you have the abilty to cast a spell without expending a spell slot (Warlock's Mystic Arcanum or Star Druid Guiding Bolts), you can cast those spell and can still cast another spell by expending a spell slot. All other rules of spellcasting still apply. 
 
 To cast a spell, a character must expend a :rsc-spell-slot: **Spell Slot** of the spell's level or higher. Each spellcasting class's :rsc-spell-slot: **Spell Slots** are unique to that class. For instance, a character cannot use a druid :rsc-spell-slot: **Spell Slot** to cast a wizard spell when multiclassing. To cast a spell, the character must use a :rsc-spell-slot: **Spell Slot** available to the class from which the spell originates.
 
