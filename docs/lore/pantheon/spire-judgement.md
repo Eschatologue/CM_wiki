@@ -1,4 +1,4 @@
-> *“Under the gaze of Falcone, justice is not just a concept but a cosmic truth, guiding or coercing us to uphold fairness and righteousness in all our actions. In a way, this Spire made all our actions, even unseen one are accountable in the karmic wheel’s of life" * –Valinorian scholar.
+> *“Under the gaze of Falcone, justice is not just a concept but a cosmic truth, guiding or coercing us to uphold fairness and righteousness in all our actions. In a way, this Spire made all our actions, even unseen one are accountable in the karmic wheel’s of life"* –Valinorian scholar.
 
 # Profile
 

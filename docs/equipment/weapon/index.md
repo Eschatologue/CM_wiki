@@ -107,9 +107,9 @@ This weapon can be used with one or two hands. A damage value in parentheses app
 
 !!! danger "Upcoming Feature"
 
-  This feature is not used for the current campaign.
+    This feature is not used for the current campaign.
 
-Each weapon now has a Mastery property, as shown in the weapon tables above. That property is usable only by a character who has a feature, such as Weapon Mastery, that unlocks the property for the character. 
+Each weapon now has a Mastery property, as shown in the weapon tables. That property is usable only by a character who has a feature, such as Weapon Mastery, that unlocks the property for the character. 
 
 If a game feature lets you replace a weapon’s Mastery property with another one, that weapon must meet any prerequisite specified for the new property.
 
@@ -117,19 +117,19 @@ If a game feature lets you replace a weapon’s Mastery property with another on
 
 **Prerequisite:** Melee Weapon, :weapon-prop-heavy: Heavy Property
 
-If you hit a creature with a melee attack using this weapon, you can make an attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon’s damage, but don’t add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.
+If you hit a creature with a melee attack using this weapon, you can make an :d20-attack: **Attack Roll** with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon’s damage, but don’t add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.
 
 ### Graze
 
 **Prerequisite:** Melee Weapon, :weapon-prop-heavy: Heavy Property
 
-If your attack roll with this weapon misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the attack roll. This damage is the same type dealt by the weapon, and the damage can’t be increased in any way, other than increasing the ability modifier.
+If your :d20-attack: **Attack Roll** with this weapon misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the :d20-attack: **Attack Roll**. This damage is the same type dealt by the weapon, and the damage can’t be increased in any way, other than increasing the ability modifier.
 
 ### Nick
 
 **Prerequisite:** :weapon-prop-light: Light Property
 
-When you make the extra attack of the Light property, you can make it as part of the Attack action instead of as a Bonus Action. You can make this extra attack only once per turn.
+When you make the extra attack of the :weapon-prop-light: Light property, you can make it as part of the Attack action instead of as a Bonus Action. You can make this extra attack only once per turn.
 
 ### Push
 
@@ -141,7 +141,7 @@ If you hit a creature with this weapon, you can push the creature up to 10 feet 
 
 **Prerequisite:** :weapon-prop-versatile: Versatile Property or No Weapon Property
 
-If you hit a creature with this weapon, that creature has Disadvantage on its next attack roll before the start of your next turn.
+If you hit a creature with this weapon, that creature has :d20-disadv: **Disadvantage** on its next :d20-attack: **Attack Roll** before the start of your next turn.
 
 ### Slow
 
@@ -153,12 +153,12 @@ If you hit a creature with this weapon and deal damage to the creature, you can 
 
 **Prerequisite:** :weapon-prop-heavy: Heavy, :weapon-prop-reach: Reach, or :weapon-prop-versatile: Versatile Property
 
-If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw with a DC equal to 8 + your Proficiency Bonus + the ability modifier used to make the attack roll. On a failed save, the creature has the Prone condition.
+If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw with a DC equal to 8 + your Proficiency Bonus + the ability modifier used to make the :d20-attack: **Attack Roll**. On a failed save, the creature has the Prone condition.
 
 ### Vex
 
 **Prerequisite:** :weapon-prop-ammunition: Ammunition, :weapon-prop-finesse: Finesse, or :weapon-prop-light: Light Property
 
-If you hit a creature with this weapon and deal damage to the creature, you have Advantage on your next attack roll against that creature before the end of your next turn.
+If you hit a creature with this weapon and deal damage to the creature, you have :d20-adv: **Advantage** on your next :d20-attack: **Attack Roll** against that creature before the end of your next turn.
 
 

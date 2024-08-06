@@ -15,67 +15,67 @@ Weapons in D&D are categorized into simple and martial weapons, each serving dif
 Simple weapons are easy to use and require minimal training, making them accessible to most characters. They are commonly found and typically less expensive than martial weapons.
 
 ##### Simple Weapons: Melee
-| name | damage | properties | cost |
-| :-- | :-- | --- | --: |
-| Club | 1d4 :dmg-bludgeoning: Bludgeoning | Light | 1 sp |
-| Dagger | 1d4 :dmg-piercing: Piercing | Finesse, Light, Thrown (20/60) | 20 sp |
-| Greatclub | 1d8 :dmg-bludgeoning: Bludgeoning | Two-handed | 2 sp |
-| Handaxe | 1d6 :dmg-slashing: Slashing | Light, Thrown (20/60) | 50 sp |
-| Javelin | 1d6 :dmg-piercing: Piercing | Thrown (30/120) | 5 sp |
-| Light hammer | 1d4 :dmg-bludgeoning: Bludgeoning | Light, Thrown (20/60) | 20 sp |
-| Mace | 1d6 :dmg-bludgeoning: Bludgeoning | Thrown (20/60)^NEW^ | 50 sp |
-| Falchion^NEW^ | 1d6 :dmg-slashing: Slashing | Finesse, Versatile (1d8) | 100 sp |
-| Quarterstaff | 1d6 :dmg-bludgeoning: Bludgeoning | Versatile (1d8) | 2 sp |
-| Sickle | 1d4 :dmg-slashing: Slashing | Light | 10 sp |
-| Spear | 1d6 :dmg-piercing: Piercing | Thrown (20/60), Versatile (1d8) | 10 sp |
-| War Scythe^NEW^ | 1d8 :dmg-slashing: Slashing | Reach, Two-handed | 50 sp |
+| name | damage | properties | mastery | cost |
+| :-- | :-- | --- | --- | --: |
+| Club | 1d4 :dmg-bludgeoning: Bludgeoning | Light | Slow | 1 sp |
+| Dagger | 1d4 :dmg-piercing: Piercing | Finesse, Light, Thrown (20/60) | Nick | 20 sp |
+| Greatclub | 1d8 :dmg-bludgeoning: Bludgeoning | Two-handed | Push | 2 sp |
+| Handaxe | 1d6 :dmg-slashing: Slashing | Light, Thrown (20/60) | Vex | 50 sp |
+| Javelin | 1d6 :dmg-piercing: Piercing | Thrown (30/120) | Slow | 5 sp |
+| Light hammer | 1d4 :dmg-bludgeoning: Bludgeoning | Light, Thrown (20/60) | Nick |  20 sp |
+| Mace | 1d6 :dmg-bludgeoning: Bludgeoning | Thrown (20/60)^NEW^ | Sap | 50 sp |
+| Falchion^NEW^ | 1d6 :dmg-slashing: Slashing | Finesse, Versatile (1d8) | Sap | 100 sp |
+| Quarterstaff | 1d6 :dmg-bludgeoning: Bludgeoning | Versatile (1d8) | Topple | 2 sp |
+| Sickle | 1d4 :dmg-slashing: Slashing | Light | Nick | 10 sp |
+| Spear | 1d6 :dmg-piercing: Piercing | Thrown (20/60), Versatile (1d8) | Sap | 10 sp |
+| War Scythe^NEW^ | 1d8 :dmg-slashing: Slashing | Reach, Two-handed | Cleave | 50 sp |
 
 ##### Simple Weapons: Ranged
-| name | damage | properties | cost |
-| :-- | :-- | --- | --: |
-| Blowgun^NEW^ | 1 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 25/100), Loading | 100 sp |
-| Crossbow, Light | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 80/320), Loading, Two-handed | 250 sp |
-| Dart | 1d4 :dmg-piercing: Piercing | Finesse, Thrown (20/60) | 1 sp |
-| Shortbow | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 80/320), Two-handed | 250 sp |
-| Sling | 1d4 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 30/120) | 10 sp |
+| name | damage | properties | mastery | cost |
+| :-- | :-- | --- | --- | --: |
+| Blowgun^NEW^ | 1 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 25/100), Loading | Vex | 100 sp |
+| Crossbow, Light | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 80/320), Loading, Two-handed | Slow | 250 sp |
+| Dart | 1d4 :dmg-piercing: Piercing | Finesse, Thrown (20/60) | Vex | 1 sp |
+| Shortbow | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 80/320), Two-handed | Vex | 250 sp |
+| Sling | 1d4 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 30/120) | Slow | 10 sp |
 
 ### Martial Weapons
 
 Martial weapons require more training to use effectively but offer greater damage and versatility. These are often preferred by trained warriors and adventurers.
 
 ##### Martial Weapons: Melee
-| name | damage | properties | cost |
-| :-- | :-- | --- | --: |
-| Battleaxe | 1d8 :dmg-slashing: Slashing | Thrown (30/90)^NEW^, Versatile (1d10) | 100 sp |
-| Estoc^NEW^ | 1d8 :dmg-piercing: Piercing | Finesse, Versatile (1d10) | 300 sp |
-| Flail | 1d8 :dmg-bludgeoning: Bludgeoning | - | 100 sp |
-| Glaive | 1d10 :dmg-slashing: Slashing | Heavy, Reach, Two-handed | 200 sp | 
-| Greataxe |1d12 :dmg-slashing: Slashing | Heavy, Two-handed | 300 sp | 
-| Greatsword | 2d6 :dmg-slashing: Slashing | Heavy, Two-handed | 500 sp |
-| Halberd | 1d10 :dmg-slashing: Slashing | Heavy, Reach, Two-handed | 200 sp |
-| [Lance] | 1d12 :dmg-piercing: Piercing | Reach, special | 100 sp |
-| Longsword | 1d8 :dmg-slashing: Slashing | Versatile (1d10) | 150 sp |
-| Maul | 2d6 :dmg-bludgeoning: Bludgeoning | Heavy, Two-handed | 100 sp |
-| Morningstar | 1d8 :dmg-piercing: Piercing | - | 150 sp |
-| Pike | 1d10 :dmg-piercing: Piercing | Heavy, Reach, Two-handed | 50 sp |
-| Rapier | 1d8 :dmg-piercing: Piercing | Finesse | 250 sp |
-| Sabre^NEW^ | 1d8 :dmg-slashing: Slashing | Finesse | 150 sp |
-| Scimitar | 1d6 :dmg-slashing: Slashing | Finesse, Light | 250 sp |
-| Shortsword | 1d6 :dmg-piercing: Piercing | Finesse, Light |  100 sp |
-| Trident | 1d6 :dmg-piercing: Piercing | Thrown (20/60), Versatile (1d8) | 50 sp |
-| War pick | 1d8 :dmg-piercing: Piercing | - | 50 sp |
-| Warhammer | 1d8 :dmg-bludgeoning: Bludgeoning | Thrown (30/90)^NEW^, Versatile (1d10) | 150 sp |
-| Whip | 1d4 :dmg-slashing: Slashing | Finesse, Reach | 20 sp |
+| name | damage | properties | mastery | cost |
+| :-- | :-- | --- | --- | --: |
+| Battleaxe | 1d8 :dmg-slashing: Slashing | Thrown (30/90)^NEW^, Versatile (1d10) | Topple | 100 sp |
+| Estoc^NEW^ | 1d8 :dmg-piercing: Piercing | Finesse, Versatile (1d10) | Vex | 300 sp |
+| Flail | 1d8 :dmg-bludgeoning: Bludgeoning | - | Sap | 100 sp |
+| Glaive | 1d10 :dmg-slashing: Slashing | Heavy, Reach, Two-handed | Graze | 200 sp | 
+| Greataxe |1d12 :dmg-slashing: Slashing | Heavy, Two-handed | Cleave | 300 sp | 
+| Greatsword | 2d6 :dmg-slashing: Slashing | Heavy, Two-handed | Graze | 500 sp |
+| Halberd | 1d10 :dmg-slashing: Slashing | Heavy, Reach, Two-handed | Cleave | 200 sp |
+| [Lance] | 1d12 :dmg-piercing: Piercing | Reach, special | Topple | 100 sp |
+| Longsword | 1d8 :dmg-slashing: Slashing | Versatile (1d10) | Sap | 150 sp |
+| Maul | 2d6 :dmg-bludgeoning: Bludgeoning | Heavy, Two-handed | Topple | 100 sp |
+| Morningstar | 1d8 :dmg-piercing: Piercing | - | Sap | 150 sp |
+| Pike | 1d10 :dmg-piercing: Piercing | Heavy, Reach, Two-handed | Push | 50 sp |
+| Rapier | 1d8 :dmg-piercing: Piercing | Finesse | Vex | 250 sp |
+| Sabre^NEW^ | 1d8 :dmg-slashing: Slashing | Finesse | Vex | 150 sp |
+| Scimitar | 1d6 :dmg-slashing: Slashing | Finesse, Light | Nick | 250 sp |
+| Shortsword | 1d6 :dmg-piercing: Piercing | Finesse, Light | Vex | 100 sp |
+| Trident | 1d6 :dmg-piercing: Piercing | Thrown (20/60), Versatile (1d8) | Topple | 50 sp |
+| War Pick | 1d8 :dmg-piercing: Piercing | - | Sap | 50 sp |
+| Warhammer | 1d8 :dmg-bludgeoning: Bludgeoning | Thrown (30/90)^NEW^, Versatile (1d10) | Push | 150 sp |
+| Whip | 1d4 :dmg-slashing: Slashing | Finesse, Reach | Slow | 20 sp |
 
 ##### Martial Weapons: Ranged
-| name | damage | properties | cost |
-| :-- | :-- | --- | --: |
-| Arbalest^NEW^ | 2d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 180/360), Heavy, Loading, Mounted, Two-handed, Sighted | 950 sp |
-| Crossbow, hand | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 30/120), Light, Loading | 750 sp |
-| Crossbow, Heavy | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 100/400), Heavy, Loading, Two-handed | 500 sp |
-| Crossbow, repeating^NEW^ | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 90/360), automatic (2), Heavy, Reload (6), Two-handed | 850 sp |
-| Compound Bow^NEW^ | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 100/600), Heavy, Two-handed | 850 sp |
-| Longbow | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 150/600), Heavy, Two-handed | 500 sp |
+| name | damage | properties | mastery | cost |
+| :-- | :-- | --- | --- | --: |
+| Arbalest^NEW^ | 2d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 180/360), Heavy, Loading, Mounted, Two-handed, Sighted | Push | 950 sp |
+| Crossbow, Hand | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 30/120), Light, Loading | Vex | 750 sp |
+| Crossbow, Heavy | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 100/400), Heavy, Loading, Two-handed | Push | 500 sp |
+| Crossbow, repeating^NEW^ | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 90/360), automatic (2), Heavy, Reload (6), Two-handed | Vex | 850 sp |
+| Compound Bow^NEW^ | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 100/600), Heavy, Two-handed | Slow | 850 sp |
+| Longbow | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 150/600), Heavy, Two-handed | Slow | 500 sp |
 | [Net] | - | Special, Thrown (5/15) | 10 sp |
 
 ##### Ammunition
