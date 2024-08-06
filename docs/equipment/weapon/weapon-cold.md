@@ -109,6 +109,12 @@ You have :d20-disadv: **Disadvantage** when you use a lance to attack a target w
 [Lance]:weapon-cold.md#lance
 
 [Push]: index.md#push
+[Slow]: index.md#slow
+[Vex]: index.md#vex
+[Cleave]: index.md#cleave
+[Nick]: index.md#nick
+[Topple]: index.md#topple
+[Graze]: index.md#graze
 
 
 
