@@ -1,3 +1,7 @@
+---
+icon: d20/attack
+---
+
 ## Making an Attack
 
 Whether you're striking with a melee weapon, firing a ranged weapon, or making an :d20-attack: **Attack Roll** as part of a spell, an attack follows a simple structure:

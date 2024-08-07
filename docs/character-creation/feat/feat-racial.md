@@ -256,7 +256,7 @@ You know the magic of the primeval woods or perhaps magic while maintaining the 
 
 **Prerequisite:** Human (British)
 
-You have seen your home razed in the High Wilderness, your kin enslaved in the Great Forest, and your dignity tarnished by others. Life is grim, and you greets it grimly. This continent will break before your will does. 
+Your people has been locked in a perpetual warfare, and yet always came up on top. Death can only have you when it earns you. 
 
 - **Ability Score Increase**
     
@@ -264,7 +264,7 @@ You have seen your home razed in the High Wilderness, your kin enslaved in the G
 
 - **Unyielding**
 
-    You can add your Proficiency Bonus when you make Resolve Checks. Moreover, when you gain the Meltdown condition, you can immediately end that condition and gain the Resolute condition instead.
+    You can add your Proficiency Bonus when you make Resolve Checks. Moreover, once per Long Rest, you can expend one of your Hit Die to end the Meltdown condition on yourself and give yourself the Resolute condition instead (no action required). 
 
 ### Squat Nimbleness
 
