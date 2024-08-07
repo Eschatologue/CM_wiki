@@ -27,6 +27,7 @@ nav:
     - Spellcasting: gameplay/spellcasting.md
     - Combat: 
       - gameplay/combat/index.md
+      - Action Options: gameplay/combat/action-options.md
       - Making an Attack: gameplay/combat/making-an-attack.md
       - Movement: gameplay/combat/movement.md
       - Damage and Healing : gameplay/combat/damage-healing.md

@@ -1,5 +1,5 @@
 ---
-icon: material/contacts
+icon: rsc/action
 ---
 
 ## Attack
@@ -14,19 +14,19 @@ Certain features, such as the Extra Attack feature of the fighter, allow you to 
 
 When attacking using a melee weapon or Unarmed Strike, a creature can replace one of its attacks to knock a weapon or another item from a target's grasp. 
 
-The attacker makes an :d20-attack: Attack Roll contested by the target's Strength (Athletics) check or Dexterity (Acrobatics) check. If the attacker wins the contest, the attack causes no damage or other ill effect, but the defender drops the item.
+The attacker makes an :d20-attack: **Attack Roll** contested by the target's Strength (Athletics) check or Dexterity (Acrobatics) check. If the attacker wins the contest, the attack causes no damage or other ill effect, but the defender drops the item.
 
-The attacker has disadvantage on its :d20-attack: Attack Roll if the target is holding the item with two or more hands. The target has advantage on its ability check if it is larger than the attacking creature, or disadvantage if it is smaller.
+The attacker has disadvantage on its :d20-attack: **Attack Roll** if the target is holding the item with two or more hands. The target has advantage on its ability check if it is larger than the attacking creature, or disadvantage if it is smaller.
 
 ## Cast a Spell
 
 **Cost:** :rsc-action: Action, :rsc-bonus-action: Bonus Action, or :rsc-reaction: Reaction
 
-Spellcasters such as wizards and clerics, as well as many monsters, have access to spells and can use them to great effect in combat. 
+Spellcasters such as Wizards and Clerics, as well as many monsters, have access to spells and can use them to great effect in combat. 
 
 Each spell has a casting time, which specifies whether the caster must use an action, a reaction, minutes, or even hours to cast the spell. 
 
-Casting a spell is, therefore, not necessarily an action. Most spells do have a casting time of Action, so a spellcaster often uses his or her action in combat to cast such a spell. 
+Casting a spell is, therefore, not necessarily an action. Most spells do have a casting time of Action, so a spellcaster often uses their action in combat to cast such a spell. 
 
 ## Dash
 
@@ -46,7 +46,7 @@ If you take the Disengage action, your movement doesn't provoke opportunity atta
 
 **Cost:** :rsc-action: Action
 
-When you take the Dodge action, you focus entirely on avoiding attacks. Until the start of your next turn, any :d20-attack: Attack Roll made against you has disadvantage if you can see the attacker, and you make Dexterity :d20-save: **Saving Throw**s with advantage. You lose this benefit if you are incapacitated (as explained in the appendix) or if your speed drops to 0.
+When you take the Dodge action, you focus entirely on avoiding attacks. Until the start of your next turn, any :d20-attack: **Attack Roll** made against you has disadvantage if you can see the attacker, and you make Dexterity :d20-save: **Saving Throw**s with advantage. You lose this benefit if you are incapacitated (as explained in the appendix) or if your speed drops to 0.
 
 ## End Concentration
 
@@ -63,7 +63,7 @@ following:
 
 **Assist Ability Check.** Choose one of your skill or tool proficiencies and one ally who can perceive you. You give Advantage to the next ability check that ally makes with the chosen skill or tool. This benefit expires if the ally doesn’t use it before the start of your next turn. To give this assistance, you must be near enough to the ally to assist verbally or physically when the ally makes the check. The DM has final say on whether your assistance is possible.
 
-**Assist :d20-attack: Attack Roll.** You momentarily distract an enemy within 5 feet of you, giving Advantage to the next :d20-attack: Attack Roll by one of your allies against that enemy. This benefit expires at the start of your next turn.
+**Assist :d20-attack: **Attack Roll**.** You momentarily distract an enemy within 5 feet of you, giving Advantage to the next :d20-attack: **Attack Roll** by one of your allies against that enemy. This benefit expires at the start of your next turn.
 
 ## Hide 
 
@@ -76,7 +76,7 @@ On a successful check, you have the Invisible condition. Make note of your check
 The condition ends on you immediately after any of the following occurrences: 
 
 - You make a sound louder than a whisper 
-- An enemy finds you, you make an :d20-attack: Attack Roll
+- An enemy finds you, you make an :d20-attack: **Attack Roll**
 - You cast a spell with a verbal component.
 
 ## Identify a Spell
@@ -157,7 +157,7 @@ An Unarmed Strike is a melee [attack](#attack) that involves you using your body
 
 Whenever you use your Unarmed Strike, choose one of the following options for its effect:
 
-**Damage.** You make an :d20-attack: Attack Roll against the target. Your bonus to hit equals your Strength modifier + your Proficiency Bonus. On a hit, the target takes Bludgeoning damage equal to 1 + your Strength modifier.
+**Damage.** You make an :d20-attack: **Attack Roll** against the target. Your bonus to hit equals your Strength modifier + your Proficiency Bonus. On a hit, the target takes Bludgeoning damage equal to 1 + your Strength modifier.
 
 **Grapple.** The target must succeed on a Strength or Dexterity :d20-save: **Saving Throw** (it chooses which), or it has the Grappled condition. The DC for the :d20-save: **Saving Throw** and any escape attempts equals 8 + your Strength modifier + your Proficiency Bonus. This grapple is possible only if the target is no more than one size larger than you and if you have a hand free to grab it.
 

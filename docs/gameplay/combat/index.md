@@ -42,43 +42,7 @@ Initiative determines the order in which characters and creatures act during com
 
 ### :rsc-action:{ .lg .pad-r } Action
 
-Activities below takes an :rsc-action: **Action**, these are also considered *common actions*, which includes:
-
-<div class="grid cards" markdown>
-
-- :material-sword:{ .lg .middle } **Attack**
-
-    A melee or a ranged attack against your target's [Armour Class](../../equipment/armour/index.md#what-is-armour-class-ac). 
-
-- :dnd-stat-spellcasting:{ .lg .middle } **Cast a Spell**
-
-    Unless otherwise stated in its description, a cantrip or a spell of 1st level or higher, takes an :rsc-action: **Action** to cast.
-
-- :action-dash:{ .lg .middle } **Dash**  
-
-    Your movement speed is doubled for the rest of the turn.
-
-- :action-disengage:{ .lg .middle } **Disengage**  
-
-    Your movement doesn't provoke Opportunity Attacks for the rest of the turn.
-
-- :action-dodge:{ .lg .middle } **Dodge**  
-
-    :d20-attack: **Attack Roll** against you has :d20-disadv: **Disadvantage** & you have :d20-adv: **Advantage** on Dexterity :d20-save: **Saving Throw** for the rest of the turn.
-
-- :action-help:{ .lg .middle } **Help**  
-
-    Give an ally within 5 ft. :d20-adv: **Advantage** on their next D20 Test.
-
-- :action-hide:{ .lg .middle } **Hide**  
-
-    Make a Stealth check to hide, contested against enemies' Passive Perception.
-
-- :action-ready:{ .lg .middle } **Ready**  
-
-    Choose a **common action** and a trigger. If the trigger occurs, take your **common actions** as :rsc-reaction: **Reaction**
-
-</div>
+Most activities takes an :rsc-action: **Action**, these are also considered *common actions*. See [Action Options](action-options.md)
 
 ### :rsc-bonus-action:{ .lg .pad-r } Bonus Action
 
@@ -118,7 +82,7 @@ Damage is assigned a damage type based on the weapon or effect inflicting the da
 
 On your turn, you can move up to your :rsc-speed: **Speed**.
 
-|Special Movement|Description|Cost|
+|Special Movement | Description | Cost |
 |---|---|--:|
 | Stand up | Ending the Prone condition on yourself | Half of your total movement |
 | Drop Prone | Give yourself the Prone condition | none |
