@@ -32,6 +32,9 @@ nav:
       - Movement: gameplay/combat/movement.md
       - Damage and Healing : gameplay/combat/damage-healing.md
       - Condition: gameplay/combat/condition.md
+    - Downtime:
+      - gameplay/downtime/index.md
+      - Carousing: gameplay/downtime/carousing.md
     - Homebrew Mechanics:
       - Death's Door and Resove: gameplay/homebrew/resolve.md
       - Inventory System: gameplay/homebrew/inventory.md

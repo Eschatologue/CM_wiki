@@ -58,7 +58,7 @@
 
 /* H5 - Title beginning reserved for tables */
 .md-typeset h5 {
-    font-size: 0.75rem;
+    font-size: 0.6rem;
     font-weight: 400;
     text-transform: none;
     margin-bottom: 2px;
@@ -157,6 +157,7 @@
 
 /* Table Cell Padding */
 .md-typeset table:not([class]) td {
+    margin-top: 12px;
     white-space: wrap;
     padding-top: 6px;
     padding-bottom: 6px;
