@@ -35,6 +35,10 @@ nav:
     - Downtime:
       - gameplay/downtime/index.md
       - Carousing: gameplay/downtime/carousing.md
+      - Crafting: gameplay/downtime/crafting.md
+      - Crime: gameplay/downtime/crime.md
+      - Gambling: gameplay/downtime/gambling.md
+      - Pit Fighting: gameplay/downtime/pit-fighting.md
     - Homebrew Mechanics:
       - Death's Door and Resove: gameplay/homebrew/resolve.md
       - Inventory System: gameplay/homebrew/inventory.md

@@ -33,3 +33,12 @@ You regain Hit Points when you drink this potion. The number of Hit Points resto
 | Healing Potion [M], Medium | 400 sp | :material-hospital-box: 4d4 + 4 hp | 
 | Healing Potion [L], Large | 1,000 sp | :material-hospital-box: 8d4 + 8 hp | 
 | Healing Potion [XL], Huge | 1,500 sp | :material-hospital-box: 10d4 + 20 hp | 
+
+Some Healing potion names in Crown & Misery are interchangeable with 2014 Player's Handbook. Refer to the table below as follow:
+
+| 2014 Player's Handbook Name | Crown & Misery Name |
+| --- | --- |
+| Healing Potion [S], Small | Potion of Healing |
+| Healing Potion [M], Medium | Potion of Greater Healing |
+| Healing Potion [L], Large | Potion of Superior Healing |
+| Healing Potion [XL], Huge | Potion of Supreme Healing |
