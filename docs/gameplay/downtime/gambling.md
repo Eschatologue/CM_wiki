@@ -39,4 +39,5 @@ Gambling tends to attract unsavory individuals. The potential complications invo
 | 4 | You won a sum from a low-ranking member of a thieves' guild, and the guild wants its money back. |
 | 5 | A local crime boss insists you start frequenting the boss's gambling parlor and no others. |
 | 6 | A high-stakes gambler comes to town and insists that you take part in a game. |
-*Might involve a rival |
+
+*Might involve a rival
