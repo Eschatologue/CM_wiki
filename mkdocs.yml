@@ -33,6 +33,7 @@ nav:
       - Damage and Healing : gameplay/combat/damage-healing.md
       - Condition: gameplay/combat/condition.md
     - Homebrew Mechanics:
+      - The Silver Standard: gameplay/homebrew/silver-standard.md
       - Death's Door and Resove: gameplay/homebrew/resolve.md
       - Inventory System: gameplay/homebrew/inventory.md
     - Additonal Mechanics:
