@@ -20,21 +20,19 @@ Antares' natural rivers and waters, now severely tainted by the Warp, saw most o
 
 - **Aberrant and Untainted Fish:** These categorizations no longer exist. Instead, each fish has been adjusted in price to reflect its rarity.
 
-## It's Fishin' Time
+## Resources
 
 This newly designed fishing mechanic is completely different from what you might remember in the previous version. Forget the old rules and refer to this version from now on.
 
-### Equipment
+**Time.** Fishing takes time. From preparing your gear, attaching the bait and tackles, luring the rod, and of course, waiting. Each fishing attempt will take at least **1 hour**.
 
-To fish you need two things; A Fishing Rod and a Fishing supplies. A Fishing Rod is required to reel in your fish while Fishing supplies contains various items to such as bait, hook, lines etc to help said fishing.
+**Equipment.** To fish you need two things; A Fishing Rod and a Fishing supplies. A Fishing Rod is required to reel in your fish while Fishing supplies contains various items to such as bait, hook, lines etc to help said fishing.
 
-**Time:** Fishing takes time. From preparing your gear, attaching the bait and tackles, luring the rod, and of course, waiting. Each fishing attempt will take at least **1 hour**.
-
-## How to Fish
+## Resolution
 
 ### Rolling Dice
 
-For every 1 hour you spend fishing, roll :die-d6: 5d6. The process varies slightly depending on your skills:
+For every 1 hour you spend fishing, roll five :die-d6: d6s. The process varies slightly depending on your skills:
 
 - **Proficiency in [Fishing Supplies]:** You can reroll a number of dice up to your Wisdom modifier.
 - **Proficiency in Wisdom (Survival) or Intelligence (Arcana):** You can reroll a number of dice up to your Wisdom or Intelligence modifier.
@@ -46,7 +44,7 @@ You can reroll the same die more than once. After rerolling, keep each final die
 
 Before summing your results, check if you rolled a special result. Multiply your sum by the corresponding modifier in the special result table. Sum all the dice you rolled, then multiply the total by the appropriate multiplier from the table. The final result is ^^rounded up^^. You can only benefit from one special result.
 
-#### Special Result Table
+##### Special Result Table
 
 | Special Result | Multiplier | Description | Example |
 |---|:-:|---|:-:|
@@ -60,30 +58,6 @@ Before summing your results, check if you rolled a special result. Multiply your
 
     It is understandable that this can be complicated when using Dice Maiden in Discord; rerolling dice in particular can be difficult to track. An alternate solution is to use the dice roll provided by [Google](https://g.co/kgs/yktfMZF). You can easily click the dice you wish to reroll with this.  
     ~~Please don't fumble your rolls~~
-
-### Example: Fishing with Antagoni
-
-Let's walk through a fishing example with our beloved special character, the legendary fishermen: Antagoni.
-
-1. **Prepare to Fish**  
-Antagoni decides to go fishing. He spends some time preparing his gear, attaching the bait and tackle, and finding a good spot. Fishing will take at least 1 hour.
-
-2. **Roll the Dice**  
-Antagoni is ready to fish for 1 hour. He rolls 5d6 to determine his catch. His rolls are: `4, 6, 6, 6, 2`.
-
-3. **Check for Proficiency and Reroll**  
-Antagoni has Proficiency in Wisdom (Survival) with a Wisdom score modifier of +2, skil. This allows him to reroll up to 2 dice. He chooses to reroll the 2 dice showing 4 and 2. His new rolls are 6 and 3. Now his dice results are: `6, 6, 6, 6, 3`.
-
-4. **Calculate Special Results**  
-Antagoni checks if he has a special result. He rolled a Four-of-a-kind (four 6s), which has a multiplier of ×4.
-
-5. **Calculate Final Result**  
-Antagoni sums his dice results: `6 + 6 + 6 + 6 + 3 = 27`.
-
-He then multiplies the sum by the Four-of-a-kind multiplier (×4): `27 × 4 = 108`.
-
-**Determine the Catch**  
-Antagoni consults the fishing table to determine what he caught based on the final result of 108, for this example purpose; A magical longsword. The specifics of the catch would depend on the fishing table.
 
 ## Fishing Equipment
 
@@ -244,6 +218,30 @@ Below is the Fishing table for each different biome you can fish within Antares.
 | 6 | A pouch containing 2d4 * 10 SP |
 | 7 | A Net |
 | 8 | Re-attempt fishing |
+
+## Example: Fishing with Antagoni
+
+Let's walk through a fishing example with our beloved special character, the legendary fishermen: Antagoni.
+
+1. **Prepare to Fish**  
+Antagoni decides to go fishing. He spends some time preparing his gear, attaching the bait and tackle, and finding a good spot. Fishing will take at least 1 hour.
+
+2. **Roll the Dice**  
+Antagoni is ready to fish for 1 hour. He rolls 5d6 to determine his catch. His rolls are: `4, 6, 6, 6, 2`.
+
+3. **Check for Proficiency and Reroll**  
+Antagoni has Proficiency in Wisdom (Survival) with a Wisdom score modifier of +2, skil. This allows him to reroll up to 2 dice. He chooses to reroll the 2 dice showing 4 and 2. His new rolls are 6 and 3. Now his dice results are: `6, 6, 6, 6, 3`.
+
+4. **Calculate Special Results**  
+Antagoni checks if he has a special result. He rolled a Four-of-a-kind (four 6s), which has a multiplier of ×4.
+
+5. **Calculate Final Result**  
+Antagoni sums his dice results: `6 + 6 + 6 + 6 + 3 = 27`.
+
+He then multiplies the sum by the Four-of-a-kind multiplier (×4): `27 × 4 = 108`.
+
+**Determine the Catch**  
+Antagoni consults the fishing table to determine what he caught based on the final result of 108, for this example purpose; A magical longsword. The specifics of the catch would depend on the fishing table.
 
 
 [Fishing Supplies]: #fishing-supplies
