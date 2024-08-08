@@ -16,21 +16,21 @@ To qualify for a new class, you must meet the Ability Score prerequisites for bo
 
 ##### Multiclassing Prerequisites
 
-| Class     | Ability Score Minimum       |
-|:----------|:----------------------------|
-| Artificer | Intelligence 13             |
-| Barbarian | Strength 13                 |
-| Bard      | Charisma 13                 |
-| Cleric    | Wisdom 13                   |
-| Druid     | Wisdom 13                   |
-| Fighter   | Strength 13 or Dexterity 13 |
-| Monk      | Dexterity 13 and Wisdom 13  |
-| Paladin   | Strength 13 and Charisma 13 |
-| Ranger    | Dexterity 13 and Wisdom 13  |
-| Rogue     | Dexterity 13                |
-| Sorcerer  | Charisma 13                 |
-| Warlock   | Charisma 13                 |
-| Wizard    | Intelligence 13             |
+| Class | Ability Score Minimum |
+|:-----|:--------|
+| Artificer | Intelligence 13 |
+| Barbarian | Strength 13  |
+| Bard | Charisma 13  |
+| Cleric  | Wisdom 13 |
+| Druid | Wisdom 13 |
+| Fighter  | Strength 13 or Dexterity 13 |
+| Monk | Dexterity 13 and Wisdom 13 |
+| Paladin  | Strength 13 and Charisma 13 |
+| Ranger  | Dexterity 13 and Wisdom 13 |
+| Rogue | Dexterity 13 |
+| Sorcerer | Charisma 13  |
+| Warlock  | Charisma 13  |
+| Wizard  | Intelligence 13 |
 
 ## Hit Points and Hit Dice
 
@@ -92,6 +92,7 @@ Each spell you know and prepare is associated with one of your classes, and you 
 If a cantrip of yours increases in power at higher levels, the increase is based on your character level, not your level in a particular class.
 
 #### Spells Slots
+
 You determine your available :rsc-spell-slot: **Spell Slots** by adding together all your levels in the bard, cleric, druid, sorcerer, and wizard classes, half your levels (rounded down) in the paladin and ranger classes, and a third of your fighter or rogue levels (rounded down) if you have the Eldritch Knight or the Arcane Trickster feature. Use this total to determine your :rsc-spell-slot: **Spell Slots** by consulting the Multiclass Spellcaster table.
 
 If you have more than one spellcasting class, this table might give you :rsc-spell-slot: **Spell Slots** of a level that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-level spells. If a lower-level spell that you cast, like *burning hands*, has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don't have any spells of that higher level.
@@ -105,27 +106,27 @@ If you have both the Spellcasting class feature and the Pact Magic class feature
 ##### Multiclass Spellcaster: Spell Slots per Spell Level
 
 | Lvl | I | **II** | **III** | **IV** | **V** | **VI** | **VII** | **VIII** | **IX** |
-|:---:|:---:|:------:|:-------:|:------:|:-----:|:------:|:-------:|:--------:|:------:|
-| 1st      | 2     | —      | —       | —      | —     | —      | —       | —        | —      |
-| 2nd      | 3     | —      | —       | —      | —     | —      | —       | —        | —      |
-| 3rd      | 4     | 2      | —       | —      | —     | —      | —       | —        | —      |
-| 4th      | 4     | 3      | —       | —      | —     | —      | —       | —        | —      |
-| 5th      | 4     | 3      | 2       | —      | —     | —      | —       | —        | —      |
-| 6th      | 4     | 3      | 3       | —      | —     | —      | —       | —        | —      |
-| 7th      | 4     | 3      | 3       | 1      | —     | —      | —       | —        | —      |
-| 8th      | 4     | 3      | 3       | 2      | —     | —      | —       | —        | —      |
-| 9th      | 4     | 3      | 3       | 3      | 1     | —      | —       | —        | —      |
-| 10th     | 4     | 3      | 3       | 3      | 2     | —      | —       | —        | —      |
-| 11th     | 4     | 3      | 3       | 3      | 2     | 1      | —       | —        | —      |
-| 12th     | 4     | 3      | 3       | 3      | 2     | 1      | —       | —        | —      |
-| 13th     | 4     | 3      | 3       | 3      | 2     | 1      | 1       | —        | —      |
-| 14th     | 4     | 3      | 3       | 3      | 2     | 1      | 1       | —        | —      |
-| 15th     | 4     | 3      | 3       | 3      | 2     | 1      | 1       | 1        | —      |
-| 16th     | 4     | 3      | 3       | 3      | 2     | 1      | 1       | 1        | —      |
-| 17th     | 4     | 3      | 3       | 3      | 2     | 1      | 1       | 1        | 1      |
-| 18th     | 4     | 3      | 3       | 3      | 3     | 1      | 1       | 1        | 1      |
-| 19th     | 4     | 3      | 3       | 3      | 3     | 2      | 1       | 1        | 1      |
-| 20th     | 4     | 3      | 3       | 3      | 3     | 2      | 2       | 1        | 1      |
+|:---:|:---:|:-:|:--:|:-:|:-:|:-:|:--:|:---:|:-:|
+| 1st | 2 | — | — | — | — | — | — | — | — |
+| 2nd | 3 | — | — | — | — | — | — | — | — |
+| 3rd | 4 | 2 | — | — | — | — | — | — | — |
+| 4th | 4 | 3 | — | — | — | — | — | — | — |
+| 5th | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6th | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7th | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8th | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9th | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10th | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11th | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12th | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13th | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14th | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15th | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16th | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17th | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18th | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19th | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20th | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
 ### Starting Equipment
 
