@@ -157,8 +157,18 @@ An Unarmed Strike is a melee [attack](#attack) that involves you using your body
 
 Whenever you use your Unarmed Strike, choose one of the following options for its effect:
 
-**Damage.** You make an :d20-attack: **Attack Roll** against the target. Your bonus to hit equals your Strength modifier + your Proficiency Bonus. On a hit, the target takes Bludgeoning damage equal to 1 + your Strength modifier.
+### Damage
 
-**Grapple.** The target must succeed on a Strength or Dexterity :d20-save: **Saving Throw** (it chooses which), or it has the Grappled condition. The DC for the :d20-save: **Saving Throw** and any escape attempts equals 8 + your Strength modifier + your Proficiency Bonus. This grapple is possible only if the target is no more than one size larger than you and if you have a hand free to grab it.
+You make an :d20-attack: **Attack Roll** against the target. Your bonus to hit equals your Strength modifier + your Proficiency Bonus. On a hit, the target takes Bludgeoning damage equal to 1 + your Strength modifier.
 
-**Shove.** The target must succeed on a Strength or Dexterity :d20-save: **Saving Throw** (it chooses which), or you either push the target 5 feet away or cause it to have the Prone condition. The DC for the :d20-save: **Saving Throw** equals 8 + your Strength modifier + your Proficiency Bonus. This shove is possible only if the target is no more than one size larger than you
+### Grapple
+
+The target must succeed on a Strength or Dexterity :d20-save: **Saving Throw** (it chooses which), or it has the Grappled condition. The DC for the :d20-save: **Saving Throw** and any escape attempts equals ^^8 + your Strength modifier + your Proficiency Bonus^^. 
+
+This grapple is possible only if the target is no more than one size larger than you and if you have a hand free to grab it.
+
+### Shove 
+
+The target must succeed on a Strength or Dexterity :d20-save: **Saving Throw** (it chooses which), or you either push the target 5 feet away or cause it to have the Prone condition. 
+
+The DC for the :d20-save: **Saving Throw** equals ^^8 + your Strength modifier + your Proficiency Bonus^^. This shove is possible only if the target is no more than one size larger than you
