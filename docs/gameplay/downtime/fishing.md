@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/solid/fish-fins
+icon: material/fish
 ---
 
 !!! homebrew "This is a Homebrew Mechanic!"

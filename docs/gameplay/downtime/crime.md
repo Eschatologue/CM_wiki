@@ -8,7 +8,7 @@ Sometimes it pays to be bad. This activity gives a character the chance to make 
 
 ## Resources
 
-A character must spend one week and at least 25 SP gathering information on potential targets before committing the intended crime.
+A character must spend one week and at least 250 SP gathering information on potential targets before committing the intended crime.
 
 ## Resolution
 
