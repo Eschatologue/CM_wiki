@@ -2,6 +2,10 @@
 icon: rsc/action
 ---
 
+# Action Options
+
+This section provides Action options for combat.
+
 ## Attack
 
 **Cost:** :rsc-action: Action
