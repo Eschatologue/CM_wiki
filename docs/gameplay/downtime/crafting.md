@@ -4,10 +4,6 @@ icon: material/hammer-screwdriver
 
 # Downtime Activity: Crafting
 
-A character who has the time, the money, and the needed tools can use downtime to craft armor, weapons, clothing, or other kinds of nonmagical gear.
-
-# Downtime Activity: Crafting
-
 A character who has the time, the money, and the needed tools can use downtime to craft **armor, weapons, clothing, or other kinds of nonmagical gear**.
 
 ## Resources and Resolution
