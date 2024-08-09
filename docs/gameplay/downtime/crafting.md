@@ -107,4 +107,4 @@ Potions of healing fall into a special category for item crafting, separate from
 [Smith's Tools]: ../../equipment/tools/artisan-tools.md#smiths-tools
 [Weaver's Tools]: ../../equipment/tools/artisan-tools.md#weavers-tools
 
-[rival]: index.md#rival
+[rival]: index.md#rivals

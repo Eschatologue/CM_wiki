@@ -54,4 +54,4 @@ A life of crime is filled with complications. Roll on the Crime Complications ta
 
 *Might involve a [rival]
 
-[rival]: index.md#rival
+[rival]: index.md#rivals

@@ -46,4 +46,4 @@ Every workweek spent scribing brings a 10 percent chance of a complication, exam
 
 *Might involve a [rival]
 
-[rival]: index.md#rival
+[rival]: index.md#rivals

@@ -41,4 +41,4 @@ Ordinary work is rarely filled with significant complications. Still, the Work C
 
 *Might involve a [rival]
 
-[rival]: index.md#rival
+[rival]: index.md#rivals

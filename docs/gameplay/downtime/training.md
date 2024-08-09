@@ -27,7 +27,7 @@ Complications that arise while training typically involve the teacher. Every ten
 
 *Might involve a [rival]
 
-[rival]: index.md#rival
+[rival]: index.md#rivals
 
 ## Training to Gain Levels
 

@@ -43,4 +43,4 @@ Temples can be labyrinths of political and social scheming. Even the best-intent
 
 *Might involve a [rival]
 
-[rival]: index.md#rival
+[rival]: index.md#rivals

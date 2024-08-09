@@ -42,4 +42,4 @@ Gambling tends to attract unsavory individuals. The potential complications invo
 
 *Might involve a [rival]
 
-[rival]: index.md#rival
+[rival]: index.md#rivals

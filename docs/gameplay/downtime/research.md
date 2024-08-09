@@ -46,4 +46,4 @@ In addition, a character might run into other complications during research. Eve
 
 *Might involve a [rival]
 
-[rival]: index.md#rival
+[rival]: index.md#rivals

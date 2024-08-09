@@ -41,4 +41,4 @@ Characters involved in pit fighting must deal with their opponents, the people w
 | 6 | You accidentally deliver a near-fatal wound to a foe. | 
 *Might involve a [rival]
 
-[rival]: index.md#rival
+[rival]: index.md#rivals
