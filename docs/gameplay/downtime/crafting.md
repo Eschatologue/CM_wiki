@@ -12,9 +12,9 @@ A character who has the time, the money, and the needed tools can use downtime t
 
 ## Resources and Resolution
 
-In addition to the **appropriate tools** for the item to be crafted, a character needs **raw materials worth half of the item's selling cost**. To determine how many **workweeks** it takes to create an item, **divide its gold piece cost by 50**. A character can complete **multiple items in a workweek** if the items' combined cost is **50 GP or lower**. Items that cost more than 50 GP can be completed over longer periods of time, as long as the work in progress is **stored in a safe location**.
+In addition to the **appropriate tools** for the item to be crafted, a character needs **raw materials worth half of the item's selling cost**. To determine how many **workweeks** it takes to create an item, **divide its SP cost by 500**. A character can complete **multiple items in a workweek** if the items' combined cost is **500 SP or lower**. Items that cost more than 500 SP can be completed over longer periods of time, as long as the work in progress is **stored in a safe location**.
 
-**Multiple characters** can combine their efforts. **Divide the time needed to create an item by the number of characters** working on it. Use your judgment when determining how many characters can collaborate on an item. A particularly **tiny item**, like a ring, might allow only **one or two workers**, whereas a **large, complex item** might allow four or more workers.
+**Multiple characters** can combine their efforts. **Divide the time needed to create an item by the number of characters** working on it. Per DM discretion, many characters can collaborate on an item. A particularly **tiny item**, like a ring, might allow only **one or two workers**, whereas a **large, complex item** might allow four or more workers.
 
 A character needs to be **proficient with the tools** needed to craft an item and have access to the **appropriate equipment**. Everyone who collaborates needs to have the **appropriate tool proficiency**. You need to make any judgment calls regarding whether a character has the correct equipment. The following table provides some examples.
 
