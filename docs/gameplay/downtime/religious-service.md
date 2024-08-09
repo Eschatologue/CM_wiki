@@ -41,4 +41,6 @@ Temples can be labyrinths of political and social scheming. Even the best-intent
 | 5 | The temple elders implore you to take up a holy quest. |
 | 6 | You accidentally discover that an important person in the temple is a fiend worshiper. |
 
-*Might involve a rival
+*Might involve a [rival]
+
+[rival]: index.md#rival

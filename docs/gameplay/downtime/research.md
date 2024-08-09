@@ -44,4 +44,6 @@ In addition, a character might run into other complications during research. Eve
 | 5 | Your actions cause you to be banned from a library until you make reparations.* |
 | 6 | You uncovered useful lore, but only by promising to complete a dangerous task in return. |
 
-*Might involve a rival
+*Might involve a [rival]
+
+[rival]: index.md#rival

@@ -44,4 +44,6 @@ Every workweek spent scribing brings a 10 percent chance of a complication, exam
 | 5 | The rare parchment you bought for your scroll has a barely visible map on it. |
 | 6 | A thief attempts to break into your workroom.* |
 
-*Might involve a rival
+*Might involve a [rival]
+
+[rival]: index.md#rival

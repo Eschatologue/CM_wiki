@@ -49,4 +49,6 @@ The main risk in selling a magic item lies in attracting thieves and anyone else
 | 5 | Your item's previous owner, or surviving allies of the owner, vow to retake the item by force. |
 | 6 | The buyer is murdered before the sale is finalized.* |
 
-*Might involve a rival
+*Might involve a [rival]
+
+[rival]: index.md#rival

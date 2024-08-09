@@ -25,7 +25,9 @@ Complications that arise while training typically involve the teacher. Every ten
 | 5 | Your teacher is a cruel taskmaster. |
 | 6 | Your teacher asks for help dealing with a threat. |
 
-*Might involve a rival
+*Might involve a [rival]
+
+[rival]: index.md#rival
 
 ## Training to Gain Levels
 

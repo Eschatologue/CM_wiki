@@ -39,4 +39,6 @@ Characters involved in pit fighting must deal with their opponents, the people w
 | 4 | You defeat a noble's servant, drawing the wrath of the noble's house.* |
 | 5 | You are accused of cheating. Whether the allegation is true or not, your reputation is tarnished.* |
 | 6 | You accidentally deliver a near-fatal wound to a foe. | 
-*Might involve a rival
+*Might involve a [rival]
+
+[rival]: index.md#rival
