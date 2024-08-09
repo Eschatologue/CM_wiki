@@ -4,11 +4,13 @@ icon: material/currency-fra
 
 # The Silver Standard
 
-Long before London ascended to prominence, before Antares was irrevocably shattered by the Second Warp Maelstorm, and before Abberations prowled the lands, Gallia stood as the very visage of Antares. Its dominion stretched across nearly half the continent, with its capital, Lyon, pulsating as the heart of the entire realm.
+Long before London ascended to prominence, before Antares was shattered by the Second Warp Maelstorm, and before Abberations prowled the lands, Gallia stood as the very visage of Antares. Its dominion stretched across nearly half the continent, with its capital, Lyon, pulsating as the heart of the entire realm.
 
 Though time has eroded Gallia's grandeur, its population, and its influence, its legacy endures. It survives in the form of *Le Système Gallien* (The Gallian Standard), which encompasses Standardised Spellcasting System and, most crucially, the *Gallian Silver Standard*—a system still in use today, even by the most formidable of contemporary nations.
 
-The Silver Standard is an additional mechanic in *Crown & Misery* designed to simplify currency management in D&D. It replaces the many currencies found in the 2014 PHB—such as Copper Pieces (CP), Silver Pieces (SP), Gold Pieces (GP), and Platinum Pieces (PP)—with a single, standardised currency known as the "Gallian Franc." For ease of use and recall, this currency is simply referred to as Silver or SP.
+## Overview
+
+**The Silver Standard** is an additional mechanic in *Crown & Misery* designed to simplify currency management in D&D. It replaces the many currencies found in the 2014 PHB—such as Copper Pieces (CP), Silver Pieces (SP), Gold Pieces (GP), and Platinum Pieces (PP)—with a single, standardised currency known as the "Gallian Franc." For ease of use and recall, this currency is simply referred to as Silver or SP.
 
 ## Mechanic
 

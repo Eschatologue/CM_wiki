@@ -6,13 +6,19 @@ icon: material/hammer-screwdriver
 
 A character who has the time, the money, and the needed tools can use downtime to craft armor, weapons, clothing, or other kinds of nonmagical gear.
 
+# Downtime Activity: Crafting
+
+A character who has the time, the money, and the needed tools can use downtime to craft **armor, weapons, clothing, or other kinds of nonmagical gear**.
+
 ## Resources and Resolution
 
-In addition to the appropriate tools for the item to be crafted, a character needs raw materials worth half of the item's selling cost. To determine how many workweeks it takes to create an item, divide its gold piece cost by 50. A character can complete multiple items in a workweek if the items' combined cost is 50 SP or lower. Items that cost more than 50 SP can be completed over longer periods of time, as long as the work in progress is stored in a safe location.
+In addition to the **appropriate tools** for the item to be crafted, a character needs **raw materials worth half of the item's selling cost**. To determine how many **workweeks** it takes to create an item, **divide its gold piece cost by 50**. A character can complete **multiple items in a workweek** if the items' combined cost is **50 SP or lower**. Items that cost more than 50 SP can be completed over longer periods of time, as long as the work in progress is **stored in a safe location**.
 
-Multiple characters can combine their efforts. Divide the time needed to create an item by the number of characters working on it. Use your judgment when determining how many characters can collaborate on an item. A particularly tiny item, like a ring, might allow only one or two workers, whereas a large, complex item might allow four or more workers.
+**Multiple characters** can combine their efforts. **Divide the time needed to create an item by the number of characters** working on it. Use your judgment when determining how many characters can collaborate on an item. A particularly **tiny item**, like a ring, might allow only **one or two workers**, whereas a **large, complex item** might allow four or more workers.
 
-A character needs to be proficient with the tools needed to craft an item and have access to the appropriate equipment. Everyone who collaborates needs to have the appropriate tool proficiency. You need to make any judgment calls regarding whether a character has the correct equipment. The following table provides some examples.
+A character needs to be **proficient with the tools** needed to craft an item and have access to the **appropriate equipment**. Everyone who collaborates needs to have the **appropriate tool proficiency**. You need to make any judgment calls regarding whether a character has the correct equipment. The following table provides some examples.
+
+---
 
 | Proficiency | Items | 
 |---|---|
@@ -27,7 +33,7 @@ If all the above requirements are met, the result of the process is an item of t
 
 Creating a magic item requires more than just time, effort, and materials. It is a long-term process that involves one or more adventures to track down rare materials and the lore needed to create the item.
 
-Potions of healing and spell scrolls are exceptions to the following rules. For more information, see "Brewing Potions of Healing" later in this section and the "Scribing a Spell Scroll" section, below.
+Potions of healing and spell scrolls are exceptions to the following rules. For more information, see "[Brewing Potions of Healing](#brewing-potions-of-healing)" later in this section and the "[Scribing a Spell Scroll](scribing-scroll.md)" section, later.
 
 To start with, a character needs a formula for a magic item in order to create it. The formula is like a recipe. It lists the materials needed and steps required to make the item.
 
