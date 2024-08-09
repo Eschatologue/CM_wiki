@@ -8,7 +8,7 @@ Games of chance are a way to make a fortune—and perhaps a better way to lose o
 
 ## Resources
 
-This activity requires one workweek of effort plus a stake of at least 10 gp, to a maximum of 10,000 SP or more, as you see fit.
+This activity requires one workweek of effort plus a stake of at least 100 SP, to a maximum of 10,000 SP or more, as you see fit.
 
 ## Resolution
 

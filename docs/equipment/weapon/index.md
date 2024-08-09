@@ -158,4 +158,14 @@ If you hit a creature with this weapon, you can force the creature to make a Con
 
 If you hit a creature with this weapon and deal damage to the creature, you have :d20-adv: **Advantage** on your next :d20-attack: **Attack Roll** against that creature before the end of your next turn.
 
+## Adamantine Weapons
 
+Adamantine is an ultrahard metal found in meteorites and extraordinary mineral veins. In addition to being used to craft *adamantine armor*, the metal is also used for weapons.
+
+Melee weapons and ammunition made of or coated with adamantine are unusually effective when used to break objects. Whenever an *adamantine weapon* or piece of *ammunition* hits an object, the hit is a Critical Hit.
+
+The adamantine version of a melee weapon or of ten pieces of ammunition costs 5,000 SP more than the normal version, whether the weapon or ammunition is made of the metal or coated with it.
+
+## Silvered Weapons
+
+Some monsters that have immunity or resistance to nonmagical weapons are susceptible to silver weapons, so cautious adventurers invest extra coin to plate their weapons with silver. You can silver a single weapon or ten pieces of ammunition for 1,000 SP. This cost represents not only the price of the silver, but the time and expertise needed to add silver to the weapon without making it less effective.
