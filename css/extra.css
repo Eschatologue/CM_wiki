@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* Base Styles */
+
+/* Default Text */
+.md-typeset {
+    text-justify: auto;
+    font-weight: 300;
+    font-size: 0.65rem;
+}
+
+.md-sidebar--secondary {
+    font-size: 0.5rem;
+}
+
+.md-typeset strong {
+    font-weight: 600;
+}
+
+/* Headers Alignment */
+.md-typeset h1, .md-typeset h2, .md-typeset h3, .md-typeset h4, .md-typeset h5, .md-typeset h6 {
+    font-variant: small-caps;
+}
+
+/* Headings */
+
+/* H1 - Main Heading */
+.md-typeset h1 {
+    margin-top: -0.25em;
+    margin-bottom: -0.15em;
+}
+
+/* H2 - Secondary Heading with border bottom */
+.md-typeset h2 {
+    border-bottom: 1.25px solid rgba(255, 255, 255, 0.12);
+    margin-bottom: 12px;
+}
+
+/* H3 - Tertiary Heading with line after */
+.md-typeset h3 {
+    display: flex;
+}
+
+.md-typeset h3::after {
+    content: " ";
+    border-bottom: 1.5px solid rgba(255, 255, 255, 0.12);
+    margin: 0 0 5px 0;
+    flex: 20 0 20px;
+}
+
+/* H4 - Title beginning for complex parts */
+.md-typeset h4 {
+    font-size: 0.80rem;
+    margin-bottom: -0.6em;
+    font-weight: normal;
+}
+
+/* H5 - Title beginning reserved for tables */
+.md-typeset h5 {
+    font-variant: normal;
+    text-transform: capitalize;
+    font-size: 0.6rem;
+    font-weight: 450;
+    margin-bottom: 2px;
+}
+
+/* Main Theme Colour */
+[data-md-color-scheme=slate] {
+    --md-code-bg-color: hsl(240, 8%, 21%);
+}
+
+/* Changes the Theme Neutral Colour (Used for links etc) */
+[data-md-color-scheme="slate"][data-md-color-primary="black"] {
+    --md-typeset-a-color: hsl(174, 100%, 40%);
+}
+
+/* Icon Heading */
+.ich1 {
+    font-size: 4.5rem;
+    margin-top: 0.25em;
+    margin-bottom: -0.25em;
+}
+
+.xxxxl {
+    font-size: 5.5rem;
+}
+/* Code Blocks */
+
+/* Inline Blocks */
+.md-typeset code {
+    padding: 0.25em;
+    padding-left: 0.4em;
+    padding-right: 0.4em;
+    font-weight: normal;
+    font-size: 0.625rem;
+    border-radius: 4px;
+}
+
+/* Tool Tips */
+[role=tooltip] > .md-tooltip2__inner {
+    padding: 0.45em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    max-width: 35rem;
+    font-size: 0.7rem;
+    font-weight: normal;
+    border-radius: 4px;
+}
+
+/* Grid Layout */
+
+/* Space for text block */
+.md-grid {
+    max-width: 90%; /* or 100%, if you want to stretch to full-width */
+}
+
+/* Color Classes */
+.darkslategray {
+    color: #32333d;
+}
+
+.darkslategrayaccent {
+    color: #27272f;
+}
+
+/* Icon Spacing */
+.pad-r {
+    padding-right: 0.35em;
+}
+
+.pad-l {
+    padding-left: 0.35em;
+}
+
+/* Table Styles */
+
+/* Table Size and Appearance */
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+    font-size: 0.55rem;
+    padding-left: 8px;
+    padding-right: 8px;
+    border-bottom: rgba(255, 255, 255, 0.12);
+    background-color: rgba(255, 255, 255, 0.025);
+    min-width: 8px;
+}
+
+/* Table Header Styling */
+.md-typeset table:not([class]) th {
+    font-weight: bold !important;
+    text-transform: uppercase !important;
+    vertical-align: bottom;
+    color: rgba(255, 255, 255, 0.6);
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+/* Table Cell Padding */
+.md-typeset table:not([class]) td {
+    margin-top: 8px;
+    white-space: wrap;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+/* Table Header and Cell Rounding */
+table th:first-child {
+    border-radius: 4px 0 0 0 !important;
+}
+
+table th:last-child {
+    border-radius: 0 4px 0 0 !important;
+}
+
+table tr:last-child td:last-child {
+    border-radius: 0 0 4px 0 !important;
+}
+
+table tr:last-child td:first-child {
+    border-radius: 0 0 0 4px !important;
+}
+
+/* Table Display and Border Colour */
+.md-typeset__table table:not([class]) {
+    display: table;
+    border-color: #00000000; /* Transparent Colour */
+}
+
+/* Table Width */
+.md-typeset__table {
+    width: 100%;
+}
