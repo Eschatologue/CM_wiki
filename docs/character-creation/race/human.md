@@ -52,15 +52,15 @@ You learn *one* additional language of your choice.
 
 #### :material-account-plus: Skill Proficiency
 
-You gain :trait-prof :**Proficiency** in two skills of your choice.
+You gain :trait-prof: **Proficiency** in two skills of your choice.
 
 #### :trait-prof: Tool Proficiency
 
-You gain :trait-prof :**Proficiency** in one set of Artisan's Tools or one Gaming Set of your choice.
+You gain :trait-prof: **Proficiency** in one set of Artisan's Tools or one Gaming Set of your choice.
 
 #### :weapon-spear: Civil Militia
 
-You gain :trait-prof :**Proficiency** in Spears, Glaives, Pikes, and Halberds.
+You gain :trait-prof: **Proficiency** in Spears, Glaives, Pikes, and Halberds.
 
 ---
 

@@ -97,21 +97,21 @@ What effect each type of grenade can cause is stated on [Grenade Effects](#grena
 |  name | damage | area | cost |
 |---|---|:---|--:|
 | **Grenade, Cryogenic** | :dmg-cold: 1d6 Cold | 20 ft. :material-sphere: **sphere** (DC 15 :material-shield-account: **CON Save**) | 250 sp |
-| **Grenade, Fragmentation** | :dmg-:dmg-piercing: Piercing: 2d6 :dmg-piercing: Piercing + :dmg-thunder: 1d6 Thunder | 20 ft. :material-sphere: **sphere** (DC 15 :material-shield-half-full: **DEX Save**) | 350 sp |
+| **Grenade, Fragmentation** | :dmg-piercing: Piercing: 2d6 :dmg-piercing: Piercing + :dmg-thunder: 1d6 Thunder | 20 ft. :material-sphere: **sphere** (DC 15 :material-shield-half-full: **DEX Save**) | 350 sp |
 | **Grenade, Incendiary** | :dmg-fire: 1d6 Fire | 20 ft. :material-radius-outline: **radius** (DC 15 :material-shield-half-full: **DEX Save**) | 300 sp |
 | **Grenade, Flashbang** | :dmg-thunder: 1d4 Thunder | 20 ft. :material-sphere: **sphere** (DC 15 :material-shield-account: **CON Save**) | 200 sp |
 | **Grenade, Smoke** | - | 20 ft. :material-sphere: sphere | 250 sp |
 
 #### Grenade Effects
 
-**Grenade, Cryogenic.** Creatures that fails the :d20-save: **Saving Throw**, takes the grenade damage and its movement speed is halved for 1 minute, the creature repeat this :d20-save: **Saving Throw** at the start of each turn, ending the effect on success. On successful save, it only takes half damage and no additional effects.
+&emsp; **Grenade, Cryogenic.** Creatures that fails the :d20-save: **Saving Throw**, takes the grenade damage and its movement speed is halved for 1 minute, the creature repeat this :d20-save: **Saving Throw** at the start of each turn, ending the effect on success. On successful save, it only takes half damage and no additional effects.
 
-**Grenade, Fragmentation.** Creatures that fails the :d20-save: **Saving Throw**, takes the grenade damage, On successful save, it only takes half damage.
+&emsp; **Grenade, Fragmentation.** Creatures that fails the :d20-save: **Saving Throw**, takes the grenade damage, On successful save, it only takes half damage.
 
-**Grenade, Incendiary.** Creatures that fails the :d20-save: **Saving Throw**, takes the grenade damage or half as much on successful save. The ground in a 20-foot radius centered on the target is ignited in flames. Each creature that enters the affected area, starts its turn or, end its turn on the affected area immediately takes :material-fire: **3d4 Fire** damage.
+&emsp; **Grenade, Incendiary.** Creatures that fails the :d20-save: **Saving Throw**, takes the grenade damage or half as much on successful save. The ground in a 20-foot radius centered on the target is ignited in flames. Each creature that enters the affected area, starts its turn or, end its turn on the affected area immediately takes :material-fire: **3d4 Fire** damage.
 
-**Grenade, Flashbang.** Creatures that fails the :d20-save: **Saving Throw**, takes the grenade damage and it is Blinded(1) and Deafened(2) for 1 minute. The creature repeats this :d20-save: **Saving Throw** at the start of each turn, ending the effect on success. On successful save, it only takes half damage and no additional effects.
+&emsp; **Grenade, Flashbang.** Creatures that fails the :d20-save: **Saving Throw**, takes the grenade damage and it is Blinded(1) and Deafened(2) for 1 minute. The creature repeats this :d20-save: **Saving Throw** at the start of each turn, ending the effect on success. On successful save, it only takes half damage and no additional effects.
 
-**Grenade, Smoke.** The terrain, creature and objects that is within affected area centered on the point chosen is filled with smokes and it is heavily obscured. The smoke spreads around corners. The smoke lasts for 1 minute or until a wind of moderate or heavy speed disperses.
+&emsp; **Grenade, Smoke.** The terrain, creature and objects that is within affected area centered on the point chosen is filled with smokes and it is heavily obscured. The smoke spreads around corners. The smoke lasts for 1 minute or until a wind of moderate or heavy speed disperses.
 
 
