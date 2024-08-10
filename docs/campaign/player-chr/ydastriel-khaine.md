@@ -57,7 +57,7 @@ Your growing understanding of the Spires and their role in Antares has granted y
 
 Upon gaining this class feature, you gain additional Starry Forms tied to specific ascent. You can replace your original Starry Form with the following options, but you can't have more than three at one time. You can choose which form to have after you finish a Long Rest.
 
-### Circle of Stars Forms
+#### Circle of Stars Forms
 
 === "**Archer**"
 
@@ -83,7 +83,7 @@ Upon gaining this class feature, you gain additional Starry Forms tied to specif
 
     **Repelling.** When you hit a creature that is no more that one size larger than you with Cosmic Flare, you can push the creature up to 5 feet away from you in a straight line.
 
-### Spire Resonance Forms
+#### Spire Resonance Forms
 
 === "**Destruction**"
 

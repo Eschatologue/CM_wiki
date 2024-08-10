@@ -38,41 +38,41 @@ Choose one of the animal spirits from the list below or from the original list t
     
 The resilient spirit of the Bear increases your ability to take physical hits.
 
-&emsp; **Spirit of the Bear.** While :fontawesome-solid-hand-fist: **Raging**, you gain resistance to all types of damage except Force and Psychic damage.
+- **Spirit of the Bear.** While :fontawesome-solid-hand-fist: **Raging**, you gain resistance to all types of damage except Force and Psychic damage.
 
-&emsp; **Relentless Ferocity.** While :fontawesome-solid-hand-fist: **Raging**, you can use an :rsc-action: **Action** to  restore your Hit Points by :material-hospital-box: 1d12 + your Constitution modifier. This can only be used once per **Rage**.
+- **Relentless Ferocity.** While :fontawesome-solid-hand-fist: **Raging**, you can use an :rsc-action: **Action** to  restore your Hit Points by :material-hospital-box: 1d12 + your Constitution modifier. This can only be used once per **Rage**.
 
 #### Totemic Spirit: Vulture
     
 The fierce spirit of the Vulture grants you the ability to move fast as the wind. 
 
-&emsp; **Spirit of the Vulture.** While :fontawesome-solid-hand-fist: **Raging**, you can use a :rsc-bonus-action: **Bonus Action** to take the *Dash* action and opportunity attack against you has :d20-disadv: **Disadvantage**.
+- **Spirit of the Vulture.** While :fontawesome-solid-hand-fist: **Raging**, you can use a :rsc-bonus-action: **Bonus Action** to take the *Dash* action and opportunity attack against you has :d20-disadv: **Disadvantage**.
 
-&emsp; **Precision Throw.** You gain +1 bonus to Attack and Damage rolls for ranged attacks made with Thrown weapon using Strength. The damage from this attack benefits from your Rage damage bonus.
+- **Precision Throw.** You gain +1 bonus to Attack and Damage rolls for ranged attacks made with Thrown weapon using Strength. The damage from this attack benefits from your Rage damage bonus.
 
 #### Totemic Spirit: Elk
 
 The noble spirit of the Elk makes you extraordinarily swift. 
 
-&emsp; **Spirit of the Elk.** While :fontawesome-solid-hand-fist: **Raging**, your walking speed increases by 15 feet.
+- **Spirit of the Elk.** While :fontawesome-solid-hand-fist: **Raging**, your walking speed increases by 15 feet.
 
-&emsp; **Mighty Charge.** While :fontawesome-solid-hand-fist: **Raging**, you gain :d20-adv: **Advantage** on an attack made using Strength after moving at least 10 feet in a straight line, on hit your target must succeed a Strength :material-shield:Saving Throw, or it is knocked prone or is pushed 10 ft. (your choice). The DC is equals to 10 or half the damage you dealt on the attack, whichever is higher.
+- **Mighty Charge.** While :fontawesome-solid-hand-fist: **Raging**, you gain :d20-adv: **Advantage** on an attack made using Strength after moving at least 10 feet in a straight line, on hit your target must succeed a Strength :material-shield:Saving Throw, or it is knocked prone or is pushed 10 ft. (your choice). The DC is equals to 10 or half the damage you dealt on the attack, whichever is higher.
 
 #### Totemic Spirit: Elephant
 
 The spirit of the Elephant lends you its resilience. 
 
-&emsp; **Spirit of the Elephant.** While :fontawesome-solid-hand-fist: **Raging**, you can add your Constitution modifier to Strength and Dexterity :d20-save: **Saving Throw** against effect that you can see.
+- **Spirit of the Elephant.** While :fontawesome-solid-hand-fist: **Raging**, you can add your Constitution modifier to Strength and Dexterity :d20-save: **Saving Throw** against effect that you can see.
 
-&emsp; **Moving Fortress.** While :fontawesome-solid-hand-fist: **Raging**, once per turn, when you hit a creature with a melee weapon attack using Strength, you can move it 5 feet to an unoccupied space, provided the target is no more than one size larger than you.
+- **Moving Fortress.** While :fontawesome-solid-hand-fist: **Raging**, once per turn, when you hit a creature with a melee weapon attack using Strength, you can move it 5 feet to an unoccupied space, provided the target is no more than one size larger than you.
 
 #### Totemic Spirit: Wolf
     
 The cunning spirit of the Wolf enhances your ability to fight alongside your pack. 
 
-&emsp; **Spirit of the Wolf.** While :fontawesome-solid-hand-fist: **Raging**, allied creatures of your choice have :d20-adv: **Advantage** on any melee :d20-attack: **Attack Roll** they make against hostile creatures within 10 feet of you.
+- **Spirit of the Wolf.** While :fontawesome-solid-hand-fist: **Raging**, allied creatures of your choice have :d20-adv: **Advantage** on any melee :d20-attack: **Attack Roll** they make against hostile creatures within 10 feet of you.
 
-&emsp; **Pack Leader.** While :fontawesome-solid-hand-fist: **Raging**, the first creature you hit with an attack on your turn has :d20-disadv: **Disadvantage** on any :d20-attack: **Attack Roll** that isn't against you until the start of your next turn.
+- **Pack Leader.** While :fontawesome-solid-hand-fist: **Raging**, the first creature you hit with an attack on your turn has :d20-disadv: **Disadvantage** on any :d20-attack: **Attack Roll** that isn't against you until the start of your next turn.
 
 ## Level 5: Flames of Creation 
 
@@ -84,17 +84,17 @@ While :fontawesome-solid-hand-fist: **Raging**, when you hit a creature with a c
 
 You gain the aspect of Antares’ primordial Paths, you can either choose from the list below or choose the one from the options of the original Totem Warrior 6th-level feature.
 
-&emsp; **The Fool.** You gain Proficiency in three skills of your choice.
+- **The Fool.** You gain Proficiency in three skills of your choice.
 
-&emsp; **The Magician.** When you make a Intelligence (Arcana) or Intelligence (Insight) check you can add your :ability-cons: **Constitution** modifier to your roll.
+- **The Magician.** When you make a Intelligence (Arcana) or Intelligence (Insight) check you can add your :ability-cons: **Constitution** modifier to your roll.
 
-&emsp; **The Hierophant.** When you make a Wisdom (History) or a Wisdom (Religion) check you can add your :ability-cons: **Constitution**  modifier to your roll.
+- **The Hierophant.** When you make a Wisdom (History) or a Wisdom (Religion) check you can add your :ability-cons: **Constitution**  modifier to your roll.
 
-&emsp; **The Lovers.** When you make a Charisma (Performance) or Charisma (Persuasion) check you can add your :ability-cons: **Constitution**  modifier to your roll.
+- **The Lovers.** When you make a Charisma (Performance) or Charisma (Persuasion) check you can add your :ability-cons: **Constitution**  modifier to your roll.
 
-&emsp; **The Chariot.** When you make a Wisdom (Animal Handling) or Wisdom (Survival) check you can add your :ability-cons: **Constitution**  modifier to your roll.
+- **The Chariot.** When you make a Wisdom (Animal Handling) or Wisdom (Survival) check you can add your :ability-cons: **Constitution**  modifier to your roll.
 
-&emsp; **The Hermit.** When you make an Intelligence (Investigation) or Wisdom (Perception) check you can add your :ability-cons: **Constitution**  modifier to your roll.
+- **The Hermit.** When you make an Intelligence (Investigation) or Wisdom (Perception) check you can add your :ability-cons: **Constitution**  modifier to your roll.
 
 ## Level 9: John's Signatures
 
@@ -106,12 +106,12 @@ When an effect requires the target to make a :d20-save: **Saving Throw**, the DC
 
 When you gain this feature, you learn 2 techniques from the list below. What technique you learn affects what effects you can apply. You can change your learned techniques when you finish a Long Rest. Your choice is as follow:
 
-&emsp; **John's Jawbreaker.** The target must succeed a :d20-save: Constitution **Saving Throw**, or it becomes **Stunned** until the end of your next turn.
+- **John's Jawbreaker.** The target must succeed a :d20-save: Constitution **Saving Throw**, or it becomes **Stunned** until the end of your next turn.
 
-&emsp; **John's Joust.** You instantly move up to 30 feet in a straight line without provoking opportunity attack. Any creatures that you pass must succeed on a Dexterity :d20-save: **Saving Throw** or take :dmg-fire: **Fire** damage equals to half of your total weapon damage.
+- **John's Joust.** You instantly move up to 30 feet in a straight line without provoking opportunity attack. Any creatures that you pass must succeed on a Dexterity :d20-save: **Saving Throw** or take :dmg-fire: **Fire** damage equals to half of your total weapon damage.
 
-&emsp; **John's Jettison.** The target must succeed a Strength :d20-save: **Saving Throw**, or it is pushed 15 ft and becomes **Prone**.
+- **John's Jettison.** The target must succeed a Strength :d20-save: **Saving Throw**, or it is pushed 15 ft and becomes **Prone**.
 
-&emsp; **John's Judgement.** You cause a 15 ft. :aoe-cone: cone explosion originating from the target and away from you. Each creature, excluding the target within the affected area must succeed a Dexterity :d20-save: **Saving Throw** or it takes :dmg-fire: **Fire** damage equals to your total weapon damage on that hit, or half as much on a successful save.
+- **John's Judgement.** You cause a 15 ft. :aoe-cone: cone explosion originating from the target and away from you. Each creature, excluding the target within the affected area must succeed a Dexterity :d20-save: **Saving Throw** or it takes :dmg-fire: **Fire** damage equals to your total weapon damage on that hit, or half as much on a successful save.
 
-&emsp; **John's Juggernaught.** The target is pushed 15 ft. straight away from you. You can then Move up to half your :rsc-speed: **Speed** straight torward the target without provoking Opportunity Attack.
+- **John's Juggernaught.** The target is pushed 15 ft. straight away from you. You can then Move up to half your :rsc-speed: **Speed** straight torward the target without provoking Opportunity Attack.
