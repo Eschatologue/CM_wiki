@@ -1,11 +1,9 @@
 ---
 search:
   exclude: true
-hide:
-  - toc
 ---
 
-## Flow State <span style="float:right;"> <small> Level 3 </small> </span>
+## Level 3: Flow State
 
 After you use ^^Fighting Spirit^^, you enter a state of heightened focus. This Flow State last for 1 minute and ends early if you becomes Incapacitated. This state will act as a condition for which you can use the features you gain for this gimmick. 
 
