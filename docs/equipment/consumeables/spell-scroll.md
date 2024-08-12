@@ -18,7 +18,10 @@ If the spell is on your class’s spell list, you can read the scroll and cast t
 
 If the spell is not on your class’s spell list or if you do not have a spellcasting feature, you must make an Ability Check to determine whether you can cast it successfully. If you have a spellcasting ability, use that ability for the check. If you do not have a spellcasting ability, use Intelligence. 
 
-The DC for this check equals 10 + the spell’s level. On a failed check, the spell disappears from the scroll with no effect. On a successful check, you cast the spell as if it were on your class’s spell list, but you still require any material components specified by the spell.
+The DC for this check equals ^^10 + the spell’s level^^. On a failed check, the spell disappears from the scroll with no effect. On a successful check, you cast the spell as if it were on your class’s spell list, but you still require any material components(1) specified by the spell.
+{ .annotate }
+
+1.  If you have an arcane focus or component pouch, you can use it to replace any material components.
 
 ## Spell Scroll Attributes
 
@@ -27,7 +30,7 @@ The spell’s level on the scroll determines its saving throw DC and attack bonu
 ##### Spell Scroll Table
 
 | Rarity | Spell Level | Save DC | Attack Bonus |
-|--:|:-:|:-:|:-:|
+|---|:--|:-:|:-:|
 | Common | :spell-level-0: Cantrip | 13 | +5 |
 | Common | :spell-level-1: 1st | 13 | +5 |
 | Uncommon | :spell-level-2: 2nd | 13 | +5 |
