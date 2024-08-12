@@ -26,18 +26,18 @@ The spell’s level on the scroll determines its saving throw DC and attack bonu
 
 ##### Spell Scroll Table
 
-| Spell Level | Rarity | Save DC | Attack Bonus |
-|---|---|:-:|:-:|
-| Cantrip | Common | 13 | +5 |
-| 1st | Common | 13 | +5 |
-| 2nd | Uncommon | 13 | +5 |
-| 3rd | Uncommon | 15 | +7 |
-| 4th | Rare | 15 | +7 |
-| 5th | Rare | 17 | +9 |
-| 6th | Very Rare | 17 | +9 |
-| 7th | Very Rare | 18 | +10 |
-| 8th | Very Rare | 18 | +10 |
-| 9th | Legendary | 19 | +11 |
+| Rarity | Spell Level | Save DC | Attack Bonus |
+|--:|:-:|:-:|:-:|
+| Common | :spell-level-0: Cantrip | 13 | +5 |
+| Common | :spell-level-1: 1st | 13 | +5 |
+| Uncommon | :spell-level-2: 2nd | 13 | +5 |
+| Uncommon | :spell-level-3: 3rd | 15 | +7 |
+| Rare | :spell-level-4: 4th | 15 | +7 |
+| Rare | :spell-level-5: 5th | 17 | +9 |
+| Very Rare | :spell-level-6: 6th | 17 | +9 |
+| Very Rare | :spell-level-7: 7th | 18 | +10 |
+| Very Rare | :spell-level-8: 8th | 18 | +10 |
+| Legendary | :spell-level-9: 9th | 19 | +11 |
 
 ## Copying a Spell from a Scroll
 
