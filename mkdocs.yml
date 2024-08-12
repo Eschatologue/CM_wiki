@@ -189,6 +189,7 @@ nav:
       - Backpack: equipment/tools/backpack.md
     - Consumeables: 
       - Potion: equipment/consumeables/potion.md
+      - Spell Scroll: equipment/consumeables/spell-scroll.md
   - Spells:
     - Cantrip: spells/cantrip.md
     - 1st-level Spell: spells/1st-level.md
