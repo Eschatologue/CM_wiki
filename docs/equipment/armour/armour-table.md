@@ -13,13 +13,13 @@ If you wear armour that you lack Proficiency with, you gain several affliction:
 - :d20-disadv: **Disadvantage** on :d20-attack: **Attack Roll** that involves *Strength* or *Dexterity*
 - You can't cast spells.
 
-### Armour Class (AC)
+## Armour Class (AC)
 
 *See [Armour Class](./index.md#what-is-armour-class-ac) for more details*
 
 Armour protects its wearer from attacks. The armour (and shield) you wear determines your base Armour Class.
 
-### Stealth
+## Stealth
 
 If the Armour table shows "Disadvantage" in the Stealth column, the wearer has :d20-disadv: **Disadvantage** on Dexterity (Stealth) checks.
 
@@ -109,3 +109,6 @@ The time it takes to don or doff armour depends on the armour's category.
 | Heavy Armour | 10 minutes | 5 minutes |
 | Shields | 1 action | 1 action |
 
+## Adamantine Armor
+
+This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any Critical Hit against you becomes a normal hit.

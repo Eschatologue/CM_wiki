@@ -192,15 +192,15 @@ nav:
       - Spell Scroll: equipment/consumeables/spell-scroll.md
   - Spells:
     - Cantrip: spells/cantrip.md
-    - 1st-level Spell: spells/1st-level.md
-    - 2nd-level Spell: spells/2nd-level.md
-    - 3rd-level Spell: spells/3rd-level.md
-    - 4th-level Spell: spells/4th-level.md
-    - 5th-level Spell: spells/5th-level.md
-    - 6th-level Spell: spells/6th-level.md
-    - 7th-level Spell: spells/7th-level.md
-    - 8th-level Spell: spells/8th-level.md
-    - 9th-level Spell: spells/9th-level.md
+    - Level 1 Spell: spells/1st-level.md
+    - Level 2 Spell: spells/2nd-level.md
+    - Level 3 Spell: spells/3rd-level.md
+    - Level 4 Spell: spells/4th-level.md
+    - Level 5 Spell: spells/5th-level.md
+    - Level 6 Spell: spells/6th-level.md
+    - Level 7 Spell: spells/7th-level.md
+    - Level 8 Spell: spells/8th-level.md
+    - Level 9 Spell: spells/9th-level.md
   - Current Campaign:
     - Player's Gimmick:
       - John K. Godsmith: campaign/player-chr/john-godsmith.md
