@@ -38,15 +38,19 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 ### :weapon-prop-ammunition:{ .lg .pad-r } Ammunition
 
-You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
+You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). 
+
+**Salvaging Ammunitions.** At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. Firearms **does not** and weapon with [:weapon-prop-explosive: Explosive](#explosive) property can't benefit from this.
 
 ### :weapon-prop-automatic:{ .lg .pad-r } Automatic
 
-When you take the :d20-attack: **Attack** Action on your turn and attack with an Automatic weapon, you can make extra attacks up to the number in the parenthesis later on the same turn, within the same round. Those extra attacks are always made with :d20-disadv: **Disadvantage** regardless of circumstances and expends ammunitions equal to the number of attacks.
+When you take the :d20-attack: **Attack** Action on your turn and attack with an Automatic weapon, you can make extra attacks up to the number in the parenthesis later on the same turn. That extra attack must be made with the same weapon, and you don’t add your ability modifier to the extra attack’s damage, unless that modifier is negative.
+
+This property overrides  the extra attack granted by [:weapon-prop-light: Explosive](#light) property.
 
 ### :weapon-prop-explosive:{ .lg .pad-r } Explosive
 
-When this weapon’s hits a target, it explodes and affect an area of effect on the parenthesis, this area of effect must include your target and away from you. The weapon can target a point within its range. Each creature in the area of effect centered on the point or the target must make a Dexterity :d20-save: **Saving Throw**. The DC equal to 8 + your Proficiency Bonus + the ability modifier used to make the attack. The creature takes the weapon's damage on a failed save, or half as much damage on a successful one. 
+When this weapon’s hits a target, it explodes and affect an area of effect on the parenthesis, this area of effect must include your target and away from you. The weapon can target a point within its range. Each creature in the area of effect centered on the point or the target must make a Dexterity :d20-save: **Saving Throw**. The DC equal to ^^8 + your Proficiency Bonus + the ability modifier used to make the attack^^. The creature takes the weapon's damage on a failed save, or half as much damage on a successful one. 
 
 Your initial target makes this :d20-save: **Saving Throw** at a :d20-disadv: **Disadvantage**.
 
@@ -60,7 +64,7 @@ Heavy weapon is unwieldy compared to other weapons. You have :d20-disadv: **Disa
 
 ### :weapon-prop-light:{ .lg .pad-r } Light
 
-When you take the :d20-attack:**Attack** Action on your turn and attack with a Light weapon, you can make one extra attack as a :rsc-bonus-action: **Bonus Action** later on the same turn. That extra attack must be made with a different Light weapon, and you don’t add your ability modifier to the extra attack’s damage, unless that modifier is negative.
+When you take the :d20-attack: **Attack** Action on your turn and attack with a Light weapon, you can make one extra attack as a :rsc-bonus-action: **Bonus Action** later on the same turn. That extra attack must be made with a different Light weapon, and you don’t add your ability modifier to the extra attack’s damage, unless that modifier is negative.
 
 ### :weapon-prop-loading:{ .lg .pad-r } Loading
 

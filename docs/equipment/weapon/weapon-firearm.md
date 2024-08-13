@@ -82,8 +82,6 @@ List of Firearms that you can possibly find in this world:
 
 Weapons with *special* properties are listed here:
 
-**Shotgun, Over-under.** When you make an :weapon-prop-automatic: Automatic attack with this weapon, the subsequent :d20-attack: **Attack Roll** doesn’t suffer :d20-disadv: **Disadvantage**.
-
 **Grenade Launcher.** This weapon uses grenades as its ammunitions. When you attack, you can target an unoccupied space within its range. Whenever you hit the target or not, the grenade loaded in this weapon will land or explode as if it were thrown to that point.
 
 ## Grenades

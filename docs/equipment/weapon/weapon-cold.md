@@ -25,7 +25,7 @@ Simple weapons are easy to use and require minimal training, making them accessi
 | Javelin | 1d6 :dmg-piercing: Piercing | Thrown (30/120) | [Slow] | 5 sp |
 | Light hammer | 1d4 :dmg-bludgeoning: Bludgeoning | Light, Thrown (20/60) | [Nick] |  20 sp |
 | Mace | 1d6 :dmg-bludgeoning: Bludgeoning | Thrown (20/60) | [Sap] | 50 sp |
-| Falchion | 1d6 :dmg-slashing: Slashing | Finesse, Versatile (1d8) | [Sap] | 100 sp |
+| Falchion | 1d6 :dmg-slashing: Slashing | Finesse, Versatile (2d4) | [Sap] | 100 sp |
 | Quarterstaff | 1d6 :dmg-bludgeoning: Bludgeoning | Versatile (1d8) | [Topple] | 2 sp |
 | Sickle | 1d4 :dmg-slashing: Slashing | Light | [Nick] | 10 sp |
 | Spear | 1d6 :dmg-piercing: Piercing | Thrown (20/60), Versatile (1d8) | [Sap] | 10 sp |
