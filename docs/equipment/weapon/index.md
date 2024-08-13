@@ -40,13 +40,13 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). 
 
-**Salvaging Ammunitions.** At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. Firearms **does not** and weapon with [:weapon-prop-explosive: Explosive](#explosive) property can't benefit from this.
+&emsp; **Salvaging Ammunitions.** At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. Firearms **does not** and weapon with [:weapon-prop-explosive: Explosive](#explosive) property can't benefit from this.
 
 ### :weapon-prop-automatic:{ .lg .pad-r } Automatic
 
 When you take the :d20-attack: **Attack** Action on your turn and attack with an Automatic weapon, you can make extra attacks up to the number in the parenthesis later on the same turn. That extra attack must be made with the same weapon, and you don’t add your ability modifier to the extra attack’s damage, unless that modifier is negative.
 
-This property overrides  the extra attack granted by [:weapon-prop-light: Explosive](#light) property.
+This property overrides the extra attack granted by [:weapon-prop-light: Light](#light) property.
 
 ### :weapon-prop-explosive:{ .lg .pad-r } Explosive
 
