@@ -46,8 +46,6 @@ You can use a weapon that has the ammunition property to make a ranged attack on
 
 When you take the :d20-attack: **Attack** Action on your turn and attack with an Automatic weapon, you can make extra attacks up to the number in the parenthesis later on the same turn. That extra attack must be made with the same weapon, and you don’t add your ability modifier to the extra attack’s damage, unless that modifier is negative.
 
-This property overrides the extra attack granted by [:weapon-prop-light: Light](#light) property.
-
 ### :weapon-prop-explosive:{ .lg .pad-r } Explosive
 
 When this weapon’s hits a target, it explodes and affect an area of effect on the parenthesis, this area of effect must include your target and away from you. The weapon can target a point within its range. Each creature in the area of effect centered on the point or the target must make a Dexterity :d20-save: **Saving Throw**. The DC equal to ^^8 + your Proficiency Bonus + the ability modifier used to make the attack^^. The creature takes the weapon's damage on a failed save, or half as much damage on a successful one. 

@@ -17,7 +17,6 @@ You increase one Ability Score of your choice by 2, or you can increase two Abil
 
 **Prerequisites:** The ability to cast a spell  
 
-
 You've learned how the how to weave magic and mobility
 
 - **Ability Score Increase**
@@ -42,7 +41,6 @@ You've learned how the how to weave magic and mobility
 
 **Prerequisites:** The ability to cast a spell  
 
-
 You are skilled at casting spells with a weapon in hand.
 
 - **Ability Score Increase**
@@ -62,7 +60,6 @@ You are skilled at casting spells with a weapon in hand.
 *Level 4 Feat*
 
 **Prerequisites:** The ability to cast a spell  
-
 
 You have learned to channel your magic through a deck of cards. 
 
@@ -90,7 +87,6 @@ You have learned to channel your magic through a deck of cards.
 
 **Prerequisites:** Crossbows Proficiency  
 
-
 Thanks to extensive practice with the crossbow, you gain the following benefits:
 
 - **Ability Score Increase**
@@ -115,7 +111,6 @@ Thanks to extensive practice with the crossbow, you gain the following benefits:
 
 **Prerequisites:** Dexterity 13+  
 
-
 You’ve learned to deftly parry attacks, granting you the following benefits:
 
 - **Ability Score Increase**
@@ -131,7 +126,6 @@ You’ve learned to deftly parry attacks, granting you the following benefits:
 *Level 4 Feat*
 
 **Prerequisites:** Proficiency with any Martial Weapon  
-
 
 You master the ability to use two weapons at the same time You gain the following benefits:
 
@@ -152,7 +146,6 @@ You master the ability to use two weapons at the same time You gain the followin
 *Level 4 Feat*
 
 **Prerequisites:** Constitution 13+  
-
 
 Hardy and resilient, you gain the following benefits:
 
@@ -177,7 +170,6 @@ Hardy and resilient, you gain the following benefits:
 *Level 4 Feat*
 
 **Prerequisites:** Spellcasting/Pact Magic feature; Mage Group  
-
 
 You’ve learned to cannibalize the power of your spells to reinvigorate your allies.
 
@@ -217,7 +209,6 @@ In your spellcasting, you can harness a particular form of energy with deadly ma
 
 **Prerequisites:** The ability to cast a spell  
 
-
 Your exposure to the Feywild’s magic has changed you, granting you the following benefits:
 
 - **Ability Score Increase**
@@ -256,7 +247,6 @@ Your martial training has helped you develop a particular style of fighting.
 
 **Prerequisites:** Spellcasting/Pact Magic feature  
 
-
 You’ve developed the ability to instantly recall an unprepared spell in moments of sudden necessity. You gain the following benefits:
 
 - **Ability Score Increase**
@@ -274,7 +264,6 @@ You’ve developed the ability to instantly recall an unprepared spell in moment
 *Level 4 Feat*
 
 **Prerequisite:** Strength or Dexterity 13+  
-
 
 You're an accomplished wrestler, granting you the following benefits:
 
@@ -300,7 +289,6 @@ You're an accomplished wrestler, granting you the following benefits:
 
 **Prerequisite:** Warrior Group, or Proficiency with one Martial Weapon with :weapon-prop-heavy: **Heavy** or :weapon-prop-versatile: **Versatile** property  
 
-
 You’ve learned to use the weight of a weapon to your advantage, letting its momentum empower your strikes. You gain the following benefits:
 
 - **Ability Score Increase**
@@ -320,7 +308,6 @@ You’ve learned to use the weight of a weapon to your advantage, letting its mo
 *Level 4 Feat*
 
 **Prerequisite:** Dexterity 13+ or Proficieny with at least one Firearm.  
-
 
 You have a quick hand and keen eye when employing firearms, granting you the following benefits:
 
@@ -342,7 +329,6 @@ You have a quick hand and keen eye when employing firearms, granting you the fol
 
 **Prerequisite:** Strength 13+ or a Heavy armour Proficiency  
 
-
 You can use your armour to deflect strikes that would kill others. You gain the following benefits:
 
 - **Ability Score Increase**
@@ -359,7 +345,6 @@ You can use your armour to deflect strikes that would kill others. You gain the 
 
 **Prerequisite:** Wisdom or Charisma 13+  
 
-
 You inspire your companions, shoring up their resolve to fight.
 
 - **Ability Score Increase**
@@ -375,7 +360,6 @@ You inspire your companions, shoring up their resolve to fight.
 *Level 4 Feat*
 
 **Prerequisite:** None  
-
 
 You have practiced techniques useful in melee combat against spellcasters, gaining the following benefits:
 
@@ -401,7 +385,6 @@ You have practiced techniques useful in melee combat against spellcasters, gaini
 
 **Prerequisite:** Stength or Wisdom 13+ or Proficiency with Smith's Tool, Tinker's Tool, or Leatherworker's Tool  
 
-
 You are a master of the forge that can wield the right tools with ease. You gain the following benefits:
 
 - **Ability Score Increase**
@@ -425,7 +408,6 @@ You are a master of the forge that can wield the right tools with ease. You gain
 *Level 4 Feat*
 
 **Prerequisite:** Wisdom 13+ or Wisdom (Medicine) Proficiency  
-
 
 You master the physician’s arts, gaining the following benefits:
 
@@ -451,7 +433,6 @@ You master the physician’s arts, gaining the following benefits:
 
 **Prerequisite:** Medium Armour Proficiency  
 
-
 You have practiced moving in medium armour to gain the following benefits:
 
 - **Ability Score Increase**
@@ -472,7 +453,6 @@ You have practiced moving in medium armour to gain the following benefits:
 
 **Prerequisite:** Charisma 13+ or Intimidation Proficiency  
 
-
 You become fearsome to others, gaining the following benefits:
 
 - **Ability Score Increase**
@@ -492,7 +472,6 @@ You become fearsome to others, gaining the following benefits:
 *Level 4 Feat*
 
 **Prerequisite:** Spellcasting/Pact Magic featur; Expert, Priest or Mage Group  
-
 
 You’re experimenting how to exert your will on your spells to alter how they function:
 
@@ -515,7 +494,6 @@ You’re experimenting how to exert your will on your spells to alter how they f
 *Level 4 Feat*
 
 **Prerequisite:** :trait-prof: Proficiency with Any Martial Weapon  
-
 
 You have developed a bond with your mounts, granting you the following benefits:
 
@@ -545,7 +523,6 @@ You have developed a bond with your mounts, granting you the following benefits:
 
 **Prerequisite:** None  
 
-
 Your sheer physical might dwarfs that of nearly all other mortal creatures, giving you the following benefits:
 
 - **Ability Score Increase**
@@ -565,7 +542,6 @@ Your sheer physical might dwarfs that of nearly all other mortal creatures, givi
 *Level 4 Feat*
 
 **Prerequisite:** :trait-prof: Proficiency with any weapon that deals :dmg-piercing: Piercing damage  
-
 
 You have achieved a penetrating precision in combat, granting you the following benefits:
 
@@ -587,7 +563,6 @@ You have achieved a penetrating precision in combat, granting you the following 
 *Level 4 Feat*
 
 **Prerequisite:** :trait-prof: Proficiency with Martial Weapon that has :weapon-prop-reach: **Reach** property.  
-
 
 Keeping foes just out of range is your specialty. You gain the following benefits:
 
@@ -611,7 +586,6 @@ Keeping foes just out of range is your specialty. You gain the following benefit
 
 **Prerequisite:** Constitution 13+  
 
-
 Your body has the ability to recover quickly from terrible injuries, and is unusually receptive to healing magic. You gain the following benefits:
 
 - **Ability Score Increase**
@@ -632,7 +606,6 @@ Your body has the ability to recover quickly from terrible injuries, and is unus
 
 **Prerequisite:** Constitution 13+  
 
-
 You have developed the resilience to better withstand certain dangers, granting you the following benefits:
 
 - **Ability Score Increase**
@@ -648,7 +621,6 @@ You have developed the resilience to better withstand certain dangers, granting 
 *Level 4 Feat*
 
 **Prerequisite:** Intelligence, Wisdom, or Charisma 13+  
-
 
 You have studied ritual magic, granting you the following benefits:
 
@@ -670,7 +642,6 @@ You have studied ritual magic, granting you the following benefits:
 
 **Prerequisite:** Proficiency with any Martial Weapon  
 
-
 You have mastered techniques to take :d20-adv: **Advantage** of every drop in any enemy’s guard, gaining the following benefits:
 
 - **Ability Score Increase**
@@ -691,7 +662,6 @@ You have mastered techniques to take :d20-adv: **Advantage** of every drop in an
 
 **Prerequisite:** :trait-prof: Proficiency with any Ranged Martial Weapon  
 
-
 You can make shots that others find impossible, granting you the following benefits:
 
 - **Ability Score Increase**
@@ -711,7 +681,6 @@ You can make shots that others find impossible, granting you the following benef
 *Level 4 Feat - Homebrew*
 
 **Prerequisite:** :trait-prof: Proficiency with shields.  
-
 
 You’ve trained to use shields not just for protection, but also for offense, granting you the following benefits:
 
@@ -750,7 +719,6 @@ You have honed your Proficiency with particular skills, granting you the followi
 
 **Prerequisite:** Dexterity 13+  
 
-
 You are expert at slinking through shadows. You gain the following benefits:
 
 - **Ability Score Increase**
@@ -775,7 +743,6 @@ You are expert at slinking through shadows. You gain the following benefits:
 
 **Prerequisite:** :trait-prof: Proficiency with any Martial Weapon  
 
-
 You’ve learned where to cut to have the greatest results, granting you the following benefits:
 
 - **Ability Score Increase**
@@ -796,7 +763,6 @@ You’ve learned where to cut to have the greatest results, granting you the fol
 
 **Prerequisite:** Dexterity or Constitution 13+  
 
-
 You possess exceptional speed and stamina, granting you the following benefits:
 
 - **Ability Score Increase**
@@ -816,7 +782,6 @@ You possess exceptional speed and stamina, granting you the following benefits:
 *Level 4 Feat*
 
 **Prerequisite:** The ability to cast a spell  
-
 
 You have learned techniques to enhance your attacks with certain kinds of spells, gaining the following benefits:
 
@@ -842,7 +807,6 @@ You have learned techniques to enhance your attacks with certain kinds of spells
 
 **Prerequisite:** :trait-prof: Proficiency with a Martial Weapon that has the :weapon-prop-finesse: **Finesse** property  
 
-
 One-handed weapons and blades are an extension of your arm, graceful as the wind.
 
 - **Ability Score Increase**
@@ -863,7 +827,6 @@ One-handed weapons and blades are an extension of your arm, graceful as the wind
 
 **Prerequisite:** Intelligence, Wisdom, or Charisma 13+  
 
-
 You awaken the ability to mentally connect with others, granting you the following benefits:
 
 - **Ability Score Increase**
@@ -883,7 +846,6 @@ You awaken the ability to mentally connect with others, granting you the followi
 *Level 4 Feat - Homebrew*
 
 **Prerequisite:** None  
-
 
 You have been touched by the Warp, giving you benefits as follow:
 
@@ -914,7 +876,6 @@ You have been touched by the Warp, giving you benefits as follow:
 
 **Prerequisite:** Ability to cast a spell  
 
-
 You have practiced casting spells in the midst of combat, learning techniques that grant you the following benefits:
 
 - **Ability Score Increase**
@@ -938,7 +899,6 @@ You have practiced casting spells in the midst of combat, learning techniques th
 *Level 4 Feat*
 
 **Prerequisite:** None  
-
 
 You have practiced extensively with a variety of weapons, gaining the following benefits:
 

@@ -83,12 +83,6 @@ At the start of each of your turns, you can deal 1d4 Bludgeoning damage to one c
 
 ## Homebrew Fighting Style
 
-### Controlled Burst
-
-*Fighting Style Feat - Homebrew*
-
-When you make extra attacks of the :weapon-prop-automatic: **Automatic** weapon property, the number of attacks you make equal to half of your ability modifier(rounded up) used to make the extra attacks does not suffer :d20-disadv: **Disadvantage** but they can't benefit from :d20-adv: **Advantage** either.
-
 ### Gallian Swordplay
 
 *Fighting Style Feat - Homebrew*

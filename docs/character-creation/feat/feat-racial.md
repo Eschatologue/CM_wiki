@@ -1,5 +1,5 @@
 ---
-icon: material/contacts
+icon: material/face-recognition
 ---
 
 ### Bountiful Luck

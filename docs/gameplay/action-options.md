@@ -119,7 +119,7 @@ If you cast a spell that has a casting time of 1 minute or longer, you must take
 
 In a fight, everyone is constantly watching for enemies to drop their guard. You can rarely move heedlessly past your foes without putting yourself in danger; doing so provokes an opportunity attack.
 
-You can make an opportunity attack when a hostile creature that you can see moves out of your reach. To make the opportunity attack, you use your reaction to make one melee attack against the provoking creature. The attack interrupts the provoking creature's movement, occurring right before the creature leaves your reach.
+You can make an opportunity attack when a hostile creature that you can see moves out of your reach. To make the Opportunity Attack, you use your rsc-reaction: **Reaction** to make one melee attack against the provoking creature. The attack interrupts the provoking creature's movement, occurring right before the creature leaves your reach.
 
 ## Ready
 
@@ -129,7 +129,9 @@ Sometimes you want to get the jump on a foe or wait for a particular circumstanc
 
 &emsp; **Condition Triggered.** When the trigger occurs, you can either take your reaction right after the trigger finishes or ignore the trigger. Remember that you can take only one reaction per round.
 
-&emsp; **Readying a Spell.** When you ready a spell, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a spell must have a casting time of an action, and holding onto the spell's magic requires concentration. If your concentration is broken, the spell dissipates without taking effect.
+### Readying a Spell 
+
+When you ready a spell, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a spell must have a casting time of an action, and holding onto the spell's magic requires concentration. If your concentration is broken, the spell dissipates without taking effect.
 
 ## Search 
 
