@@ -22,6 +22,18 @@ The attacker makes an :d20-attack: **Attack Roll** contested by the target's Str
 
 The attacker has disadvantage on its :d20-attack: **Attack Roll** if the target is holding the item with two or more hands. The target has advantage on its ability check if it is larger than the attacking creature, or disadvantage if it is smaller.
 
+### Unarmed Strike
+
+An Unarmed Strike is a melee attack that involves you using your body to damage, grapple, or shove a target within 5 feet of you.
+
+Whenever you use your Unarmed Strike, choose one of the following options for its effect:
+
+&emsp; **Damage.** You make an :d20-attack: **Attack Roll** against the target. Your bonus to hit equals your Strength modifier + your Proficiency Bonus. On a hit, the target takes Bludgeoning damage equal to 1 + your Strength modifier.
+
+&emsp;**Grapple.** The target must succeed on a Strength or Dexterity :d20-save: **Saving Throw** (it chooses which), or it has the Grappled condition. The DC for the :d20-save: **Saving Throw** and any escape attempts equals ^^8 + your Strength modifier + your Proficiency Bonus^^. This grapple is possible only if the target is no more than one size larger than you and if you have a hand free to grab it.
+
+&emsp; **Shove.** The target must succeed on a Strength or Dexterity :d20-save: **Saving Throw** (it chooses which), or you either push the target 5 feet away or cause it to have the Prone condition. The DC for the :d20-save: **Saving Throw** equals ^^8 + your Strength modifier + your Proficiency Bonus^^. This shove is possible only if the target is no more than one size larger than you
+
 ## Cast a Spell
 
 **Cost:** :rsc-action: Action, :rsc-bonus-action: Bonus Action, or :rsc-reaction: Reaction
@@ -152,27 +164,3 @@ The Areas of Knowledge table suggests which skills are applicable when you take 
 | Investigation | Traps, ciphers, riddles, and gadgetry |
 | Nature | Terrain, flora, weather, and certain creatures (Beasts, Dragons, Oozes, and Plants) |
 | Religion | Deities, religious hierarchies and rites, holy symbols, cults, and certain creatures (Celestials, Fiends, and Undead) |
-
-## Unarmed Strike
-
-**Cost:** :rsc-action: Action
-
-An Unarmed Strike is a melee [attack](#attack) that involves you using your body to damage, grapple, or shove a target within 5 feet of you.
-
-Whenever you use your Unarmed Strike, choose one of the following options for its effect:
-
-### Damage
-
-You make an :d20-attack: **Attack Roll** against the target. Your bonus to hit equals your Strength modifier + your Proficiency Bonus. On a hit, the target takes Bludgeoning damage equal to 1 + your Strength modifier.
-
-### Grapple
-
-The target must succeed on a Strength or Dexterity :d20-save: **Saving Throw** (it chooses which), or it has the Grappled condition. The DC for the :d20-save: **Saving Throw** and any escape attempts equals ^^8 + your Strength modifier + your Proficiency Bonus^^. 
-
-This grapple is possible only if the target is no more than one size larger than you and if you have a hand free to grab it.
-
-### Shove 
-
-The target must succeed on a Strength or Dexterity :d20-save: **Saving Throw** (it chooses which), or you either push the target 5 feet away or cause it to have the Prone condition. 
-
-The DC for the :d20-save: **Saving Throw** equals ^^8 + your Strength modifier + your Proficiency Bonus^^. This shove is possible only if the target is no more than one size larger than you
