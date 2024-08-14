@@ -6,7 +6,7 @@ Some of these Monks focus on a single element, learning to wreathe their fists i
 
 ## Level 3: Elemental Attunement
 
-You have attuned yourself with the elemental forces of the multiverse. You know the [Elementalism](../../../spells/cantrip.md#elementalism) cantrip.
+You have attuned yourself with the elemental forces of the multiverse. You know the [Elementalism](../../spells/cantrip.md#elementalism) cantrip.
 
 In addition, at the start of your turn, you can spend 1 Discipline Point to imbue yourself with elemental energy. The energy lasts for 10 minutes or until you have the Incapacitated condition. You gain the following benefits for the duration:
  

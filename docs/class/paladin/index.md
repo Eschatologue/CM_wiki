@@ -140,7 +140,7 @@ In addition, you can cast one of your prepared spells from this feature without 
 
 You have honed your martial prowess and gain a [Fighting Style] feat of your choice (those feats have this feature as a prerequisite).
 
-[Fighting Style]: ../../feat/feat-fighting-style.md
+[Fighting Style](../../character-creation/feat/feat-fighting-style.md)
 
 ## Level 3: Channel Divinity
 

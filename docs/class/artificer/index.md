@@ -14,26 +14,26 @@ icon: class/artificer
 
 | Level | PB | Features | Infusions Known | Infused Items | Cantrips Known | Spells Prepared | I | II | III | IV | V |
 |:-:|:-:|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 1 | +2 | [Magical Tinkering], [Spellcasting] | - | - | 2 | 2 | 2 | - | - | - | - |
-| 2 | +2 | [Infuse Item] | 4 | 2 | 2 | 3 | 2 | - | - | - | - |
-| 3 | +2 | [Subclass Feature], [The Right Tool for the Job] | 4 | 2 | 2 | 4 | 3 | - | - | - | - |
-| 4 | +2 | [Ability Score Improvement] | 4 | 2 | 2 | 5 | 3 | - | - | - | - |
-| 5 | +3 | [Subclass Feature] | 4 | 2 | 2 | 6 | 4 | 2 | - | - | - |
-| 6 | +3 | [Tool Expertise] | 6 | 3 | 2 | 6 | 4 | 2 | - | - | - |
-| 7 | +3 | [Flash of Genius] | 6 | 3 | 2 | 7 | 4 | 3 | - | - | - |
-| 8 | +3 | [Ability Score Improvement] | 6 | 3 | 2 | 7 | 4 | 3 | - | - | - |
-| 9 | +4 | [Subclass Feature] | 6 | 3 | 2 | 9 | 4 | 3 | 2 | - | - |
-| 10 | +4 | [Magic Item Adept] | 8 | 4 | 3 | 9 | 4 | 3 | 2 | - | - |
-| 11 | +4 | [Spell-Storing Item] | 8 | 4 | 3 | 10 | 4 | 3 | 3 | - | - |
-| 12 | +4 | [Ability Score Improvement] | 8 | 4 | 3 | 10 | 4 | 3 | 3 | - | - |
+| 1 | +2 | Magical Tinkering, Spellcasting | - | - | 2 | 2 | 2 | - | - | - | - |
+| 2 | +2 | Infuse Item | 4 | 2 | 2 | 3 | 2 | - | - | - | - |
+| 3 | +2 | Subclass Feature, The Right Tool for the Job | 4 | 2 | 2 | 4 | 3 | - | - | - | - |
+| 4 | +2 | Ability Score Improvement | 4 | 2 | 2 | 5 | 3 | - | - | - | - |
+| 5 | +3 | Subclass Feature | 4 | 2 | 2 | 6 | 4 | 2 | - | - | - |
+| 6 | +3 | Tool Expertise | 6 | 3 | 2 | 6 | 4 | 2 | - | - | - |
+| 7 | +3 | Flash of Genius | 6 | 3 | 2 | 7 | 4 | 3 | - | - | - |
+| 8 | +3 | Ability Score Improvement | 6 | 3 | 2 | 7 | 4 | 3 | - | - | - |
+| 9 | +4 | Subclass Feature | 6 | 3 | 2 | 9 | 4 | 3 | 2 | - | - |
+| 10 | +4 | Magic Item Adept | 8 | 4 | 3 | 9 | 4 | 3 | 2 | - | - |
+| 11 | +4 | Spell-Storing Item | 8 | 4 | 3 | 10 | 4 | 3 | 3 | - | - |
+| 12 | +4 | Ability Score Improvement | 8 | 4 | 3 | 10 | 4 | 3 | 3 | - | - |
 | 13 | +5 | - | 8 | 4 | 3 | 11 | 4 | 3 | 3 | 1 | - |
-| 14 | +5 | [Magic Item Savant] | 10 | 5 | 4 | 11 | 4 | 3 | 3 | 1 | - |
-| 15 | +5 | [Subclass Feature] | 10 | 5 | 4 | 12 | 4 | 3 | 3 | 2 | - |
-| 16 | +5 | [Ability Score Improvement] | 10 | 5 | 4 | 12 | 4 | 3 | 3 | 2 | - |
+| 14 | +5 | Magic Item Savant | 10 | 5 | 4 | 11 | 4 | 3 | 3 | 1 | - |
+| 15 | +5 | Subclass Feature | 10 | 5 | 4 | 12 | 4 | 3 | 3 | 2 | - |
+| 16 | +5 | Ability Score Improvement | 10 | 5 | 4 | 12 | 4 | 3 | 3 | 2 | - |
 | 17 | +6 | - | 10 | 5 | 4 | 14 | 4 | 3 | 3 | 3 | 1 |
-| 18 | +6 | [Magic Item Master] | 12 | 6 | 4 | 14 | 4 | 3 | 3 | 3 | 1 |
-| 19 | +6 | [Ability Score Improvement] | 12 | 6 | 4 | 15 | 4 | 3 | 3 | 3 | 2 |
-| 20 | +6 | [Soul of Artifice] | 12 | 6 | 4 | 15 | 4 | 3 | 3 | 3 | 2 |
+| 18 | +6 | Magic Item Master | 12 | 6 | 4 | 14 | 4 | 3 | 3 | 3 | 1 |
+| 19 | +6 | Ability Score Improvement | 12 | 6 | 4 | 15 | 4 | 3 | 3 | 3 | 2 |
+| 20 | +6 | Soul of Artifice | 12 | 6 | 4 | 15 | 4 | 3 | 3 | 3 | 2 |
 
 ## Creating an Artificer
 
@@ -132,10 +132,10 @@ If an infusion ends on an item that contains other things, like a bag of holding
 
 You choose the type of specialist you are. Your choice grants you features at **5th level** and again at **9th** and **15th level**.
 
-- [Alchemist](../artificer/alchemist.md)   
-- [Armourer](../artificer/armourer.md)
-- [Artillerist](../artificer/artilerist.md) 
-- [Battlesmith](../artificer/battlesmith.md)
+- Alchemist(../artificer/alchemist.md)   
+- Armourer(../artificer/armourer.md)
+- Artillerist(../artificer/artilerist.md) 
+- Battlesmith(../artificer/battlesmith.md)
 
 ## Level 3: The Right Tool for the Job
 
@@ -143,7 +143,7 @@ You've learned how to produce exactly the tool you need: with thieves' tools or 
 
 ## Level 4: Ability Score Improvement 
 
-When you reach **4th level**, **8th**, **12th**, **16th**, and **19th level**, you gain	the	[Ability Score Improvement](../../character-creation/feat/feat-4th-level.md#ability-scores-improvement) feat or another feat of your choice for which you qualify.
+When you reach **4th level**, **8th**, **12th**, **16th**, and **19th level**, you gain	the	Ability Score Improvement(../../character-creation/feat/feat-4th-level.md#ability-scores-improvement) feat or another feat of your choice for which you qualify.
 
 ## Level 6: Tool Expertise
 
@@ -185,20 +185,5 @@ You develop a mystical connection to your magic items, which you can draw on for
 
 - You gain a +1 bonus to all saving throws per magic item you are currently attuned to.
 - If you're reduced to 0 Hit Points but not killed out-right, you can use your reaction to end one of your artificer infusions, causing you to drop to 1 Hit Point instead of 0.
-
-[Magical Tinkering]: #magical-tinkering
-[Spellcasting]: #spellcasting
-[Infuse Item]: #infuse-item
-[Ability Score Improvement]: #ability-score-improvement
-[Subclass Feature]: #artificer-specialist
-[The Right Tool for the Job]: #the-right-tool-for-the-job
-[Tool Expertise]: #tool-expertise
-[Flash of Genius]: #flash-of-genius
-[Magic Item Adept]: #magic-item-adept
-[Spell-Storing Item]: #spell-storing-item
-[Magic Item Savant]: #magic-item-savant
-[Magic Item Master]: #magic-item-master
-[Soul of Artifice]: #soul-of-artifice
-
 
 

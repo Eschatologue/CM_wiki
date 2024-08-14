@@ -42,7 +42,7 @@ Initiative determines the order in which characters and creatures act during com
 
 ### :rsc-action:{ .lg .pad-r } Action
 
-Most activities takes an :rsc-action: **Action**, these are also considered *common actions*. See [Action Options](action-options.md)
+Most activities takes an :rsc-action: **Action**, these are also considered *common actions*. See [Action Options](../action-options.md)
 
 ### :rsc-bonus-action:{ .lg .pad-r } Bonus Action
 

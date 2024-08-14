@@ -14,7 +14,7 @@ Celestial has a unique form of writing, it consists of complex sigils and pictog
 
 Some vagrants, capable of writing Celestial either by copying artifacts they stole or through insanity driven by studying these sigils, sometimes commit accidental (or intentional) arson by etching the language onto walls. Such individuals are swiftly dealt with by special law enforcement units dedicated to this crime, present in every nation.
 
-Celestial inscriptions can be found etched on many ruins across the surface and underground sections of Antares. These writings appear on ancient artifacts, tablets, and sometimes books. The pillars of the [Northern Gate](../lore/entry/the-gate.md) bear such inscriptions, and the ruins beneath the Myrkheimr mountains and the Underdark often feature these writings as well.
+Celestial inscriptions can be found etched on many ruins across the surface and underground sections of Antares. These writings appear on ancient artifacts, tablets, and sometimes books. The pillars of the [Northern Gate](../entry/the-gate.md) bear such inscriptions, and the ruins beneath the Myrkheimr mountains and the Underdark often feature these writings as well.
 
 Little knowledge exists and many rumors surround Celestial. Few dare to study it, often giving it no more than a passing glance. Approaching, reading, and especially comprehending Celestial typically results in severe injuries, ranging from varying degrees of burn wounds and nightmares to insanity and, most often, death.
 

@@ -80,7 +80,7 @@ You have honed your martial prowess and gain a [Fighting Style] feat of your cho
 
 Whenever you gain a Fighter level, you can replace the feat you chose with a different [Fighting Style] feat.
 
-[Fighting Style]: ../../feat/feat-fighting-style.md
+[Fighting Style](../../character-creation/feat/feat-fighting-style.md)
 
 ## Level 1: Second Wind
 
