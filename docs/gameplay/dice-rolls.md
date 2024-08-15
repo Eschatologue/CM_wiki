@@ -32,7 +32,7 @@ The term d20 Test encompasses the three main d20 rolls of the game: :d20-attack:
 
 ### List of d20 Tests
 
-#### :d20-attack:{ .lg } **Attack Roll**s
+#### :d20-attack:{ .lg } Attack Roll
 
 When a creature attacks a target, it makes an :d20-attack: **Attack Roll** against the target's AC to determine whether the attack is a hit or a miss. If the attack is a hit, it generally deals damage, and the attacker rolls for damage.
 
@@ -46,17 +46,17 @@ Creatures generally make their attacks with their equipped weapon (including una
 
 [making an attack]: ./combat/making-an-attack.md
 
-#### :d20-check:{ .lg } **Ability Check**s
+#### :d20-check:{ .lg } Ability Check
   
-An :d20-check:**Ability Check** is an attempt to succeed at a specific task, and is rolled against a **Difficulty Class** (**DC**) set by the DM for that task. If the final result of the roll equals or exceeds the DC, the attempt is successful.
+An :d20-check: **Ability Check** is an attempt to succeed at a specific task, and is rolled against a **Difficulty Class** (**DC**) set by the DM for that task. If the final result of the roll equals or exceeds the DC, the attempt is successful.
 
 !!! quote ""
 
     <p style="text-align: center;"> D20 + Ability Modifier </p>
 
-For every :d20-check:**Ability Check**, the DM decides which of the six abilities is relevant to the task at hand and the difficulty of the task, represented by a [Difficulty Class]. The more difficult a task, the higher its DC.
+For every :d20-check: **Ability Check**, the DM decides which of the six abilities is relevant to the task at hand and the difficulty of the task, represented by a [Difficulty Class]. The more difficult a task, the higher its DC.
 
-#### :d20-save:{ .lg } **Saving Throw**
+#### :d20-save:{ .lg } Saving Throw
   
 Traps, spells, conditions, and other sources of harm may allow a creature a chance to avoid or reduce their effect, known as a :d20-save: **Saving Throw** or save. To attempt a save, a creature rolls a d20 against a target Save [DC].
 
@@ -68,7 +68,7 @@ Traps, spells, conditions, and other sources of harm may allow a creature a chan
 
 Rolling a 1 or 20 on a d20 roll is referred to as a natural 1 or natural 20. When making an :d20-attack: **Attack Roll** or :d20-check: **Ability Check**, rolling a natural 1 is always an automatic failure, while a natural 20 is always an automatic success, regardless of the final result after modifiers are applied. :d20-save: **Saving Throws** attempted during social encounters, and death :d20-save: **Saving Throws**, can also roll natural 1s and 20s.
 
-### :d20-adv: **Advantage** & Disadvantage
+### Advantage & Disadvantage
 
 A number of situations and conditions give creatures :d20-adv: **Advantage** or :d20-disadv: **Disadvantage** on d20 rolls.
 
@@ -104,7 +104,7 @@ Characters add their Proficiency Bonus to any :d20-check: **Ability Checks** the
 |  |  | [Nature] | [Perception] | [Persuasion] |
 |  |  | [Religion] | [Survival] |  |
 
-??? question "Constitution :d20-check: **Ability Check**s"
+??? question "Constitution :d20-check: **Ability Check**"
 
     Constitution checks are uncommon, and no skills apply to Constitution checks, because the endurance this ability represents is largely passive rather than involving a specific effort on the part of a character or monster.
 

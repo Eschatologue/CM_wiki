@@ -10,7 +10,7 @@ This section provides Action options for combat.
 
 **Cost:** :rsc-action: Action
 
-The most common action to take in combat is the **Attack action**, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists. With this action, you make one melee or ranged attack.
+The most common action to take in combat is the **Attack action**, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists. With this action, you make one melee or ranged attack. This action often requires you to make an :d20-attack: **Attack Roll** against the target's AC.
 
 Certain features, such as the Extra Attack feature of the fighter, allow you to make more than one attack with this action.
 
@@ -30,7 +30,7 @@ Whenever you use your Unarmed Strike, choose one of the following options for it
 
 &emsp; **Damage.** You make an :d20-attack: **Attack Roll** against the target. Your bonus to hit equals your Strength modifier + your Proficiency Bonus. On a hit, the target takes Bludgeoning damage equal to 1 + your Strength modifier.
 
-&emsp; **Grapple.** The target must succeed on a Strength or Dexterity :d20-save: **Saving Throw** (it chooses which), or it has the Grappled condition. The DC for the :d20-save: **Saving Throw** and any escape attempts equals ^^8 + your Strength modifier + your Proficiency Bonus^^. This grapple is possible only if the target is no more than one size larger than you and if you have a hand free to grab it.
+&emsp; **Grapple.** The target must succeed on a Strength or Dexterity :d20-save: **Saving Throw** (it chooses which), or it has the Grappled condition. The DC for the :d20-save: **Saving Throw** and any escape attempts equals `8 + your Strength modifier + your Proficiency Bonus`. This grapple is possible only if the target is no more than one size larger than you and if you have a hand free to grab it.
 
 &emsp; **Shove.** The target must succeed on a Strength or Dexterity :d20-save: **Saving Throw** (it chooses which), or you either push the target 5 feet away or cause it to have the Prone condition. The DC for the :d20-save: **Saving Throw** equals ^^8 + your Strength modifier + your Proficiency Bonus^^. This shove is possible only if the target is no more than one size larger than you
 
@@ -56,7 +56,7 @@ Any increase or decrease to your speed changes this additional movement by the s
 
 **Cost:** :rsc-action: Action
 
-If you take the Disengage action, your movement doesn't provoke opportunity attacks for the rest of the turn.
+If you take the Disengage action, your movement doesn't provoke Opportunity Attacks for the rest of the turn.
 
 ## Dodge
 
@@ -109,7 +109,7 @@ This Intelligence (Arcana) check represents the fact that identifying a spell re
 
 **Cost:** :rsc-action: Action
 
-When you take the Magic action, you magic something by casting a spell that has a casting time of an action or by using a feature or Magic Item that requires a Magic action to be activated.
+When you take the Magic action, you magic something by casting a spell that has a casting time of an :rsc-action: Action or by using a feature or Magic Item that requires a Magic action to be activated.
 
 If you cast a spell that has a casting time of 1 minute or longer, you must take the Magic action on each turn of that casting, and you must maintain Concentration while you do so. If your Concentration is broken, the spell fails, but you don’t expend a spell slot.
 
@@ -117,9 +117,11 @@ If you cast a spell that has a casting time of 1 minute or longer, you must take
 
 **Cost:** :rsc-reaction: Reaction
 
-In a fight, everyone is constantly watching for enemies to drop their guard. You can rarely move heedlessly past your foes without putting yourself in danger; doing so provokes an opportunity attack.
+In a fight, everyone is constantly watching for enemies to drop their guard. You can rarely move heedlessly past your foes without putting yourself in danger; doing so provokes an Opportunity Attack.
 
-You can make an opportunity attack when a hostile creature that you can see moves out of your reach. To make the Opportunity Attack, you use your rsc-reaction: **Reaction** to make one melee attack against the provoking creature. The attack interrupts the provoking creature's movement, occurring right before the creature leaves your reach.
+You can make an Opportunity Attack when a hostile creature that you can see moves out of your reach. To make the Opportunity Attack, you use your rsc-reaction: **Reaction** to make one melee attack against the provoking creature. The attack interrupts the provoking creature's movement, occurring right before the creature leaves your reach.
+
+Opportunity Attack is also often referred to as 'Attack of Opportunity', they are both the same.
 
 ## Ready
 

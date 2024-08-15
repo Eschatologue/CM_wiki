@@ -8,7 +8,7 @@ This section describes items that have special rules or require further explanat
 
 The starting equipment you get from your class includes a collection of useful adventuring gear, put together in a pack. The contents of these packs are listed here. If you are buying your starting equipment, you can purchase a pack for the price shown, which might be cheaper than buying the items individually.
 
-| Name | Items | Price |
+| Name | Items | Cost |
 |---|---|--:|
 | Burglar's Pack | Backpack; Bag of 1,000 ball bearings; 10 feet of string; Bell; 5 candles; Crowbar; Hammer; 10 pitons; Hooded lantern; 2 flasks of oil; 5 days rations; Tinderbox; Waterskin; 50 feet of hempen rope strapped to the side | 160 SP |
 | Diplomat's Pack | Chest; 2 cases for maps and scrolls; Set of fine clothes; Bottle of ink; Ink pen; Lamp; 2 flasks of oil; 5 sheets of paper; Vial of perfume; Sealing wax; Soap | 390 SP |
