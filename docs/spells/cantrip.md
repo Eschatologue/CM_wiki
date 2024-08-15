@@ -15,8 +15,6 @@ You create an acidic bubble and hurl it at a point within range, where it explod
 
 ***Cantrip Upgrade.*** This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
-**Class:** Sorcerer, Wizard.
-
 ### Blade Ward
 
 *Abjuration cantrip*
@@ -27,8 +25,6 @@ You create an acidic bubble and hurl it at a point within range, where it explod
 **Duration:** 1 round
 
 Whenever a creature makes an attack roll against you before the spell ends, the attacker substracks 1d4 from the attack roll.
-
-**Class:** Bard, Sorcerer, Warlock, Wizard
 
 ### Booming Blade
 
@@ -43,8 +39,6 @@ You brandish the weapon used in the spell's casting and make a melee attack with
 
 ***Cantrip Upgrade.*** This spell's damage increases when you reach certain levels. At 5th level, the melee attack deals an extra 1d8 thunder damage to the target on a hit, and the damage the target takes for moving increases to 2d8. Both damage rolls increase by 1d8 at 11th level (2d8 and 3d8) and again at 17th level (3d8 and 4d8).
 
-**Classes:** Artificer, Sorcerer, Warlock, Wizard
-
 ### Chill Touch
 
 *Necromancy cantrip*
@@ -57,8 +51,6 @@ You brandish the weapon used in the spell's casting and make a melee attack with
 Channeling the chill of the grave, make a melee spell attack against a target within reach. On a hit, the target takes 1d10 Necrotic damage, and it can't regain Hit Points until the end of your next turn.
 
 ***Cantrip Upgrade.*** This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
-
-**Classes:** Sorcerer, Warlock, Wizard
 
 ### Control Flames
 *Transmutation cantrip*
@@ -76,8 +68,6 @@ You choose nonmagical flame that you can see within range and that fits within a
 - You cause simple shapes—such as the vague form of a creature, an inanimate object, or a location—to appear within the flames and animate as you like. The shapes last for 1 hour.
 
 If you cast this spell multiple times, you can have up to three non-instantaneous effects created by it active at a time, and you can dismiss such an effect as an :rsc-action: **Action**.
-
-**Classes:** Druid, Sorcerer, Wizard
 
 ### Cosmic Flare
 
@@ -107,8 +97,6 @@ The bonfire ignites flammable objects in its area that aren't being worn or carr
 
 The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
-**Classes:** Artificer, Druid, Sorcerer, Warlock, Wizard
-
 ### Dancing Lights
 
 *Evocation cantrip*
@@ -121,8 +109,6 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 10-foot radius.
 
 As a :rsc-bonus-action: **Bonus Action** on your turn, you can move the lights up to 60 feet to a new spot within range. A light must be within 20 feet of another light created by this spell, and a light winks out if it exceeds the spell's range.
-
-**Class:** Bard, Sorcerer, Wizard
 
 ### Druidcraft
 
@@ -139,9 +125,6 @@ Whispering to the spirits of nature, you create one of the following effects wit
 - You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.  
 - You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.  
 - You instantly light or snuff out a candle, a torch, or a small campfire.
-
-**Class:** Druid
-
 ### Eldritch Blast
 
 *Evocation cantrip*
@@ -154,8 +137,6 @@ Whispering to the spirits of nature, you create one of the following effects wit
 A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 force damage.
 
 ***Cantrip Upgrade.*** The spell creates more than one beam when you reach higher Warlock levels: two beams at 5th level, three beams at 11th level, and four beams at 17th level. You can direct the beams at the same target or at different ones. Make a separate :d20-attack: **Attack Roll** for each beam.
-
-**Class:** Warlock
 
 ### Elementalism
 
@@ -177,8 +158,6 @@ You exert control over the elements, creating one of the following effects withi
 **Beckon Water.** You create a spray of cool mist that lightly dampens creatures and objects in a 5-foot cube. Alternatively, you create 1 cup of clean water either in an open container or on a surface, and the water evaporates in 1 minute.
 
 **Sculpt Element.** You cause dirt, sand, fire, smoke, mist, or water that can fit in a 1-foot cube to assume a crude shape (such as that of a creature or an object) for 1 hour.
-
-**Class:** Druid, Sorcerer, Wizard
 
 ### Encode Thoughts
 
@@ -208,8 +187,6 @@ You hurl a mote of fire at a creature or object within range. Make a ranged spel
 
 ***Cantrip Upgrade.*** This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
 
-**Classes:** Artificer, Sorcerer, Wizard
-
 ### Friends
 
 *Enchantment cantrip*
@@ -222,8 +199,6 @@ You hurl a mote of fire at a creature or object within range. Make a ranged spel
 You magically emanate a sense of friendship toward one visible creature within range. The target must succeed on a Wisdom :d20-save: **Saving Throw** or have the Charmed condition for the duration. The target succeeds automatically if it isn't a Humanoid, if you're fighting it, or if you have cast this spell on it within the past 24 hours.
 
 The spell ends early if the target takes damage or if you make an :d20-attack: **Attack Roll**, deal damage, or force anyone to make a :d20-save: **Saving Throw**.
-
-**Classes:** Bard, Sorcerer, Warlock, Wizard
 
 ### Frostbite
 
