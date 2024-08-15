@@ -94,12 +94,13 @@
 
 /* Inline Blocks */
 .md-typeset code {
-    padding: 0.25em;
-    padding-left: 0.4em;
-    padding-right: 0.4em;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 3px;
+    padding-right: 3px;
     font-weight: normal;
-    font-size: 0.625rem;
-    border-radius: 4px;
+    font-size: 0.6rem;
+    border-radius: 3px;
 }
 
 /* Tool Tips */
