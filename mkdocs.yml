@@ -247,7 +247,7 @@ theme:
     primary: black
     accent: teal
   font:
-    code: Roboto Mono
+    code: Inconsolata
     text: Roboto Slab
   icon: 
     logo: fontawesome/solid/dice-d20
