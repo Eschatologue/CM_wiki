@@ -33,9 +33,9 @@
 
 /* H2 - Secondary Heading with border bottom */
 .md-typeset h2 {
-    border-bottom: 2px solid rgba(255, 255, 255, 0.12);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.25);
     padding-bottom: 4px;
-    margin-bottom: -5px;
+    margin-bottom: -6px;
     margin-top: -2px;
 }
 
@@ -49,7 +49,7 @@
 
 .md-typeset h3::after {
     content: " ";
-    border-bottom: 1.8px solid rgba(255, 255, 255, 0.12);
+    border-bottom: 1.8px solid rgba(255, 255, 255, 0.15);
     margin: 0 0 5px 0;
     flex: 20 0 20px;
 }

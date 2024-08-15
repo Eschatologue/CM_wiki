@@ -1,5 +1,7 @@
 ---
 icon: dnd/trait-savage-attack
+search:
+  exclude: true
 ---
 
 # Weapon Actions
