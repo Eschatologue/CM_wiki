@@ -60,7 +60,7 @@ A score of 10 or 11 is the normal human average, but adventurers and many monste
 
 Because ability modifiers affect almost every :d20-attack: **Attack Roll**, :d20-check: **Ability Check**, and :d20-save: **Saving Throw**, ability modifiers come up in play more often than their associated scores.
 
-#### Ability Scores and Modifiers Table
+##### Ability Scores and Modifiers Table
 
 | SCORE | MODIFIER | SCORE | MODIFIER |
 | :-: | :-: | :-: | :-: |

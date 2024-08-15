@@ -2,91 +2,21 @@
 icon: material/tent
 ---
 
-### Equipment Packs
+## Equipment Packs
 
 The starting equipment you get from your class includes a collection of useful adventuring gear, put together in a pack. The contents of these packs are listed here. If you are buying your starting equipment, you can purchase a pack for the price shown, which might be cheaper than buying the items individually.
 
-#### Burglar's Pack (160 SP)
-- Backpack
-- Bag of 1,000 ball bearings
-- 10 feet of string
-- Bell
-- 5 candles
-- Crowbar
-- Hammer
-- 10 pitons
-- Hooded lantern
-- 2 flasks of oil
-- 5 days rations
-- Tinderbox
-- Waterskin
-- 50 feet of hempen rope strapped to the side
+| Name | Items | Price |
+|---|---|--:|
+| Burglar's Pack | Backpack; Bag of 1,000 ball bearings; 10 feet of string; Bell; 5 candles; Crowbar; Hammer; 10 pitons; Hooded lantern; 2 flasks of oil; 5 days rations; Tinderbox; Waterskin; 50 feet of hempen rope strapped to the side | 160 SP |
+| Diplomat's Pack | Chest; 2 cases for maps and scrolls; Set of fine clothes; Bottle of ink; Ink pen; Lamp; 2 flasks of oil; 5 sheets of paper; Vial of perfume; Sealing wax; Soap | 390 SP |
+| Dungeoneer's Pack | Backpack; Crowbar; Hammer; 10 pitons; 10 torches; Tinderbox; 10 days of rations; Waterskin; 50 feet of hempen rope strapped to the side | 120 SP |
+| Entertainer's Pack | Backpack; Bedroll; 2 costumes; 5 candles; 5 days of rations; Waterskin; Disguise kit | 400 SP |
+| Explorer's Pack | Backpack; Bedroll; Mess kit; Tinderbox; 10 torches; 10 days of rations; Waterskin; 50 feet of hempen rope strapped to the side | 100 SP |
+| Priest's Pack | Backpack; Blanket; 10 candles; Tinderbox; Alms box; 2 blocks of incense; Censer; Vestments; 2 days of rations; Waterskin | 190 SP |
+| Scholar's Pack | Backpack; Book of lore; Bottle of ink; Ink pen; 10 sheets of parchment; Little bag of sand; Small knife | 400 SP |
 
-#### Diplomat's Pack (390 SP)
-- Chest
-- 2 cases for maps and scrolls
-- Set of fine clothes
-- Bottle of ink
-- Ink pen
-- Lamp
-- 2 flasks of oil
-- 5 sheets of paper
-- Vial of perfume
-- Sealing wax
-- Soap
-
-#### Dungeoneer's Pack (120 SP)
-- Backpack
-- Crowbar
-- Hammer
-- 10 pitons
-- 10 torches
-- Tinderbox
-- 10 days of rations
-- Waterskin
-- 50 feet of hempen rope strapped to the side
-
-#### Entertainer's Pack (400 SP)
-- Backpack
-- Bedroll
-- 2 costumes
-- 5 candles
-- 5 days of rations
-- Waterskin
-- Disguise kit
-
-#### Explorer's Pack (100 SP)
-- Backpack
-- Bedroll
-- Mess kit
-- Tinderbox
-- 10 torches
-- 10 days of rations
-- Waterskin
-- 50 feet of hempen rope strapped to the side
-
-#### Priest's Pack (190 SP)
-- Backpack
-- Blanket
-- 10 candles
-- Tinderbox
-- Alms box
-- 2 blocks of incense
-- Censer
-- Vestments
-- 2 days of rations
-- Waterskin
-
-#### Scholar's Pack (400 SP)
-- Backpack
-- Book of lore
-- Bottle of ink
-- Ink pen
-- 10 sheets of parchment
-- Little bag of sand
-- Small knife
-
-### Common Items
+## Common Items
 
 | Common Item | Cost | Common Item | Cost |
 |---|--:|---|--:|
@@ -125,7 +55,8 @@ The starting equipment you get from your class includes a collection of useful a
 [Spellbook]: adventuring-gear-desc.md#spellbook
 [Spyglass]: adventuring-gear-desc.md#spyglass
 
-### Usable Items
+## Usable Items
+
 | Usable Items | Cost | Usable Items | Cost |
 |---|--:|---|--:|
 | [Acid] (vial) | 250 SP | [Hunting Trap] | 50 SP |
@@ -156,7 +87,7 @@ The starting equipment you get from your class includes a collection of useful a
 [Tinderbox]: adventuring-gear-desc.md#tinderbox
 [Torch]: adventuring-gear-desc.md#torch
 
-### Clothes
+## Clothes
 
 | Clothes | Cost |
 |---|--:|
@@ -166,7 +97,8 @@ The starting equipment you get from your class includes a collection of useful a
 | Robes | 10 SP |
 | Traveler's Clothes | 20 SP |
 
-### Arcane Focus
+## Arcane Focus
+
 An arcane focus is a special item — an orb, a crystal, a rod, a specifically constructed staff, a wand-like length of wood, or some similar item — designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
 
 | Arcane Focus | Cost |
@@ -177,7 +109,8 @@ An arcane focus is a special item — an orb, a crystal, a rod, a specifically c
 | Staff | 50 SP |
 | Wand | 10 gp |
 
-### Druidic Focus
+## Druidic Focus
+
 A druidic focus might be a sprig of mistletoe or holly, a wand or scepter made of yew or another special wood, a staff drawn whole out of a living tree, or a totem object incorporating feathers, fur, bones, and teeth from sacred animals. A druid can use such an object as a spellcasting focus.
 
 | Druidic Focus | Cost |
@@ -187,7 +120,8 @@ A druidic focus might be a sprig of mistletoe or holly, a wand or scepter made o
 | Wooden Staff | 50 SP |
 | Yew Wand | 100 SP |
 
-### Holy Symbols
+## Holy Symbols
+
 A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred relic. A cleric or paladin can use a holy symbol as a spellcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.
 
 | Holy Symbols | Cost |

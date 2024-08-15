@@ -1,3 +1,8 @@
+---
+hide:
+    - navigation
+---
+
 # Adventuring Gears Details
 
 ## Common Items
