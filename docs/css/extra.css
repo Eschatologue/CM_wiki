@@ -65,7 +65,7 @@
 .md-typeset h5 {
     font-variant: normal;
     text-transform: capitalize;
-    font-size: 0.3rem;
+    font-size: 0.625rem;
     font-weight: 450;
     margin-bottom: 2px;
 }
@@ -97,8 +97,8 @@
     padding: 6px;
     padding-top: 3px;
     padding-bottom: 3px;
-    font-weight: normal;
-    font-size: 0.55rem;
+    font-weight: 400;
+    font-size: 0.6rem;
     border-radius: 6px;
 }
 
