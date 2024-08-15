@@ -2,6 +2,8 @@
 icon: material/tent
 ---
 
+This section describes items that have special rules or require further explanation.
+
 ## Equipment Packs
 
 The starting equipment you get from your class includes a collection of useful adventuring gear, put together in a pack. The contents of these packs are listed here. If you are buying your starting equipment, you can purchase a pack for the price shown, which might be cheaper than buying the items individually.
