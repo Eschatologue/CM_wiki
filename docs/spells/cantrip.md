@@ -3,18 +3,22 @@ icon: spell/level-0
 ---
 
 ### Acid Splash
-*Conjuration cantrip*
+
+*Evocation cantrip*
 
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
 **Components:** V, S  
 **Duration:** Instantaneous
 
-You hurl a bubble of acid. Choose one creature you can see within range, or choose two creatures you can see within range that are within 5 feet of each other. A target must succeed on a Dexterity :d20-save: **Saving Throw** or take 1d6 acid damage.
+You create an acidic bubble and hurl it at a point within range, where it explodes in a 5-foot-radius sphere. Each creature in that sphere must succeed on a Dexterity **Saving Throw** or take 1d6 acid damage.
 
-This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+***Cantrip Upgrade.*** This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+
+**Class:** Sorcerer, Wizard.
 
 ### Blade Ward
+
 *Abjuration cantrip*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -22,9 +26,12 @@ This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level 
 **Components:** V, S  
 **Duration:** 1 round
 
-You extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you have resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks.
+Whenever a creature makes an attack roll against you before the spell ends, the attacker substracks 1d4 from the attack roll.
+
+**Class:** Bard, Sorcerer, Warlock, Wizard
 
 ### Booming Blade
+
 *Evocation cantrip*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -34,9 +41,10 @@ You extend your hand and trace a sigil of warding in the air. Until the end of y
 
 You brandish the weapon used in the spell's casting and make a melee attack with it against one creature within 5 feet of you. On a hit, the target suffers the weapon attack's normal effects and then becomes sheathed in booming energy until the start of your next turn. If the target willingly moves 5 feet or more before then, the target takes 1d8 thunder damage, and the spell ends.
 
-This spell's damage increases when you reach certain levels. At 5th level, the melee attack deals an extra 1d8 thunder damage to the target on a hit, and the damage the target takes for moving increases to 2d8. Both damage rolls increase by 1d8 at 11th level (2d8 and 3d8) and again at 17th level (3d8 and 4d8).
+***Cantrip Upgrade.*** This spell's damage increases when you reach certain levels. At 5th level, the melee attack deals an extra 1d8 thunder damage to the target on a hit, and the damage the target takes for moving increases to 2d8. Both damage rolls increase by 1d8 at 11th level (2d8 and 3d8) and again at 17th level (3d8 and 4d8).
 
 ### Chill Touch
+
 *Necromancy cantrip*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -44,11 +52,9 @@ This spell's damage increases when you reach certain levels. At 5th level, the m
 **Components:** V, S  
 **Duration:** 1 round
 
-You create a ghostly, skeletal hand in the space of a creature within range. Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit, the target takes 1d8 necrotic damage, and it can't regain Hit Points until the start of your next turn. Until then, the hand clings to the target.
+Channeling the chill of the grave, make a melee spell attack against a target within reach. On a hit, the target takes 1d10 Necrotic damage, and it can't regain Hit Points until the end of your next turn.
 
-If you hit an undead target, it also has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** against you until the end of your next turn.
-
-This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+***Cantrip Upgrade.*** This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
 ### Control Flames
 *Transmutation cantrip*
@@ -68,6 +74,7 @@ You choose nonmagical flame that you can see within range and that fits within a
 If you cast this spell multiple times, you can have up to three non-instantaneous effects created by it active at a time, and you can dismiss such an effect as an :rsc-action: **Action**.
 
 ### Cosmic Flare
+
 *Conjuration Cantrip - Homebrew*
 
 **Casting Time:** :rsc-action: **Action**  
@@ -80,6 +87,7 @@ You conjure a projectile made from stellar energy and hurl it torwards a creatur
 You can conjure and hurl multiple projectiles at once when you reach higher levels: two projectiles at 5th level, three projectiles at 11th level, and four projectiles at 17th level. You can hurl the projectiles at the same target or at different ones. Make a separate :d20-attack: **Attack Roll** for each projectiles.
 
 ### Create Bonfire
+
 *Conjuration cantrip*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -94,6 +102,7 @@ The bonfire ignites flammable objects in its area that aren't being worn or carr
 The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
 ### Dancing Lights
+
 *Evocation cantrip*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -105,7 +114,10 @@ You create up to four torch-sized lights within range, making them appear as tor
 
 As a :rsc-bonus-action: **Bonus Action** on your turn, you can move the lights up to 60 feet to a new spot within range. A light must be within 20 feet of another light created by this spell, and a light winks out if it exceeds the spell's range.
 
+**Class:** Bard, Sorcerer, Wizard
+
 ### Druidcraft
+
 *Transmutation cantrip*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -120,7 +132,10 @@ Whispering to the spirits of nature, you create one of the following effects wit
 - You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.  
 - You instantly light or snuff out a candle, a torch, or a small campfire.
 
+**Class:** Druid
+
 ### Eldritch Blast
+
 *Evocation cantrip*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -130,7 +145,9 @@ Whispering to the spirits of nature, you create one of the following effects wit
 
 A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 force damage.
 
-The spell creates more than one beam when you reach higher levels: two beams at 5th level, three beams at 11th level, and four beams at 17th level. You can direct the beams at the same target or at different ones. Make a separate :d20-attack: **Attack Roll** for each beam.
+***Cantrip Upgrade.*** The spell creates more than one beam when you reach higher Warlock levels: two beams at 5th level, three beams at 11th level, and four beams at 17th level. You can direct the beams at the same target or at different ones. Make a separate :d20-attack: **Attack Roll** for each beam.
+
+**Class:** Warlock
 
 ### Elementalism
 
@@ -170,6 +187,7 @@ If you cast this spell while concentrating on a spell or an ability that allows 
 Casting this spell while holding a thought strand allows you to instantly receive whatever memory, idea, or message the thought strand contains. (Casting *detect thoughts* on the strand has the same effect.)
 
 ### Fire Bolt
+
 *Evocation cantrip*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -179,9 +197,10 @@ Casting this spell while holding a thought strand allows you to instantly receiv
 
 You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried.
 
-This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
+***Cantrip Upgrade.*** This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
 
 ### Friends
+
 *Enchantment cantrip*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -189,9 +208,12 @@ This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th leve
 **Components:** S, M (a small amount of makeup applied to the face as this spell is cast)  
 **Duration:** Concentration, up to 1 minute
 
-For the duration, you have :d20-adv: **Advantage** on all Charisma checks directed at one creature of your choice that isn't hostile toward you. When the spell ends, the creature realizes that you used magic to influence its mood and becomes hostile toward you. A creature prone to violence might attack you. Another creature might seek retribution in other ways (at the DM's discretion), depending on the nature of your interaction with it.
+You magically emanate a sense of friendship toward one visible creature within range. The target must succeed on a Wisdom :d20-save: **Saving Throw** or have the Charmed condition for the duration. The target succeeds automatically if it isn't a Humanoid, if you're fighting it, or if you have cast this spell on it within the past 24 hours.
+
+The spell ends early if the target takes damage or if you make an :d20-attack: **Attack Roll**, deal damage, or force anyone to make a :d20-save: **Saving Throw**.
 
 ### Frostbite
+
 *Evocation cantrip*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -201,7 +223,7 @@ For the duration, you have :d20-adv: **Advantage** on all Charisma checks direct
 
 You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution :d20-save: **Saving Throw**. On a failed save, the target takes 1d6 cold damage, and it has :d20-disadv: **Disadvantage** on the next weapon :d20-attack: **Attack Roll** it makes before the end of its next turn.
 
-The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+***Cantrip Upgrade.*** The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
 ### Green-Flame Blade
 *Evocation cantrip*

@@ -192,6 +192,7 @@ nav:
       - Potion: equipment/consumeables/potion.md
       - Spell Scroll: equipment/consumeables/spell-scroll.md
   - Spells:
+    - spells/index.md
     - Cantrip: spells/cantrip.md
     - Level 1 Spell: spells/1st-level.md
     - Level 2 Spell: spells/2nd-level.md

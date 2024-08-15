@@ -168,3 +168,4 @@ The Areas of Knowledge table suggests which skills are applicable when you take 
 | Investigation | Traps, ciphers, riddles, and gadgetry |
 | Nature | Terrain, flora, weather, and certain creatures (Beasts, Dragons, Oozes, and Plants) |
 | Religion | Deities, religious hierarchies and rites, holy symbols, cults, and certain creatures (Celestials, Fiends, and Undead) |
+
