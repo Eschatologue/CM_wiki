@@ -125,6 +125,7 @@ Whispering to the spirits of nature, you create one of the following effects wit
 - You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.  
 - You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.  
 - You instantly light or snuff out a candle, a torch, or a small campfire.
+
 ### Eldritch Blast
 
 *Evocation cantrip*
@@ -387,9 +388,9 @@ If you cast this spell multiple times, you can have no more than two of its non-
 **Components:** V, S  
 **Duration:** Instantaneous
 
-You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution :d20-save: **Saving Throw** or take 1d12 poison damage.
+You spray toxic mist at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d12 Poison damage.
 
-This spell's damage increases by 1d12 when you reach 5th level (2d12), 11th level (3d12), and 17th level (4d12).
+***Cantrip Upgrade.*** The damage increases by 1d12 when you reach levels 5 (2d12), 11 (3d12), and 17 (4d12).
 
 ### Prestidigitation
 *Transmutation cantrip*
@@ -420,7 +421,7 @@ If you cast this spell multiple times, you can have up to three of its non-insta
 
 You channel primal magic to cause your teeth or fingernails to sharpen, ready to deliver a corrosive attack. Make a melee spell attack against one creature within 5 feet of you. On a hit, the target takes 1d10 acid damage. After you make the attack, your teeth or fingernails return to normal.
 
-The spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
+***Cantrip Upgrade.*** The spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
 
 ### Produce Flame
 *Conjuration cantrip*
@@ -430,11 +431,11 @@ The spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level
 **Components:** V, S  
 **Duration:** 10 minutes
 
-A flickering flame appears in your hand. The flame remains there for the duration and harms neither you nor your equipment. The flame sheds bright light in a 10-foot radius and dim light for an additional 10 feet. The spell ends if you dismiss it as an :rsc-action: **Action** or if you cast it again.
+A flickering flame appears in your hand and remains there for the duration. While there, the flame emits no heat and ignites nothing, and it sheds Bright Light in a 20-foot radius and Dim Light for an additional 20 feet. The spell ends if you cast it again.
 
-You can also attack with the flame, although doing so ends the spell. When you cast this spell, or as an :rsc-action: **Action** on a later turn, you can hurl the flame at a creature within 30 feet of you. Make a ranged spell attack. On a hit, the target takes 1d8 fire damage.
+Until the spell ends, you can take a Magic action to hurl fire at a creature or an object within 60 feet of you. Make a ranged spell attack. On a hit, the target takes 1d8 Fire damage.
 
-This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+***Cantrip Upgrade.*** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
 ### Ray of Frost
 *Evocation cantrip*
@@ -459,6 +460,7 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one :d20-save: **Saving Throw** of its choice. It can roll the die before or after making the :d20-save: **Saving Throw**. The spell then ends.
 
 ### Sacred Flame
+
 *Evocation cantrip*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -466,11 +468,12 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 **Components:** V, S  
 **Duration:** Instantaneous
 
-Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity :d20-save: **Saving Throw** or take 1d8 radiant damage. The target gains no benefit from cover for this :d20-save: **Saving Throw**.
+Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 Radiant damage. The target gains no benefit from Half Cover or Three-Quarters Cover for this save.
 
-The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+***Cantrip Upgrade.*** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
 ### Shape Water
+
 *Transmutation cantrip*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -480,14 +483,15 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 
 You choose an area of water that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways:
   
-You instantaneously move or otherwise change the flow of the water as you direct, up to 5 feet in any direction. This movement doesn't have enough force to cause damage.  
-You cause the water to form into simple shapes and animate at your direction. This change lasts for 1 hour.  
-You change the water's color or opacity. The water must be changed in the same way throughout. This change lasts for 1 hour.  
-You freeze the water, provided that there are no creatures in it. The water unfreezes in 1 hour.
+- You instantaneously move or otherwise change the flow of the water as you direct, up to 5 feet in any direction. This movement doesn't have enough force to cause damage.  
+- You cause the water to form into simple shapes and animate at your direction.  This change lasts for 1 hour.  
+- You change the water's color or opacity. The water must be changed in the same way throughout. This change lasts for 1 hour.  
+- You freeze the water, provided that there are no creatures in it. The water unfreezes in 1 hour.
 
 If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an :rsc-action: **Action**.
 
 ### Shillelagh
+
 *Transmutation cantrip*
   
 **Casting Time:** :rsc-bonus-action: **Bonus Action**  
@@ -495,9 +499,14 @@ If you cast this spell multiple times, you can have no more than two of its non-
 **Components:** V, S, M (mistletoe, a shamrock leaf, and a club or quarterstaff)  
 **Duration:** 1 minute
 
-The wood of a *club* or *quarterstaff* you are holding is imbued with nature's power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon's damage die becomes a d8. The weapon also becomes magical, if it isn't already. The spell ends if you cast it again or if you let go of the weapon.
+A Club or Quarterstaff you are holding is imbued with nature's power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon's damage die becomes a d8. If the attack deals damage, it can be Force damage or the weapon's normal damage type (your choice).
+
+The spell ends early if you cast it again or if you let go of the weapon.
+
+***Cantrip Upgrade.*** The weapon's damage die changes when you reach levels 5 (d10), 11 (d12), and 17 (2d6).
 
 ### Shocking Grasp
+
 *Evocation cantrip*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -505,11 +514,25 @@ The wood of a *club* or *quarterstaff* you are holding is imbued with nature's p
 **Components:** V, S  
 **Duration:** Instantaneous
 
-Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against the target. You have :d20-adv: **Advantage** on the :d20-attack: **Attack Roll** if the target is wearing armor made of metal. On a hit, the target takes 1d8 lightning damage, and it can't take reactions until the start of its next turn.
+Lightning springs from you to a creature that you try to touch. Make a melee spell attack against the target. On a hit, the target takes 1d8 Lightning damage, and it can't make Opportunity Attacks until the start of its next turn.
 
-The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+***Cantrip Upgrade.*** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
+
+### Sorcerous Burst
+
+*Evocation cantrip*
+
+**Casting Time:** :rsc-action: **Action**  
+**Range:** 120 feet  
+**Components:** V, S  
+**Duration:** Instantaneous
+
+You cast sorcerous energy at one creature or object within range. Make a ranged attack roll against the target. On a hit, the target takes 1d8 damage. If you roll an 8 on a d8 for this spell, you can roll another d8, and add it to the damage. Whenever you cast this spell, the maximum number of these d8s you can add to the spell's damage equals your spellcasting ability modifier. You choose the damage type each time you cast this spell: Acid, Cold, Fire, Lightning, Poison, Psychic, or Thunder.
+
+***Cantrip Upgrade.*** This spell's damage increases by 1d8 when you reach level 5 (2d8), 11 (3d8), and 17 (4d8).
 
 ### Spare the Dying
+
 *Necromancy cantrip*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -517,9 +540,25 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 **Components:** V, S  
 **Duration:** Instantaneous
 
-You touch a living creature that has 0 Hit Points. The creature becomes stable. This spell has no effect on undead or constructs.
+Choose a creature within range that has 0 Hit Points and isn't dead. The creature becomes Stable.
+
+***Cantrip Upgrade.*** The range doubles when you reach levels 5 (30 feet), 11 (60 feet), and 17 (120 feet).
+
+### Starry Wisp
+
+*Evocation cantrip*
+
+**Casting Time:** :rsc-action: **Action**  
+**Range:** 60 feet  
+**Components:** V, S  
+**Duration:** Instantaneous
+
+You launch a mote of light at one creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 Radiant damage, and until the end of your next turn, it emits Dim Light in a 10-foot radius and can't benefit from the Invisible condition.
+
+***Cantrip Upgrade.*** This spell's damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
 ### Sword Burst
+
 *Conjuration cantrip*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -532,6 +571,7 @@ You create a momentary circle of spectral blades that sweep around you. All othe
 This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
 ### Thaumaturgy
+
 *Transmutation cantrip*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -541,16 +581,17 @@ This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level 
 
 You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:
   
-Your voice booms up to three times as loud as normal for 1 minute.  
-You cause flames to flicker, brighten, dim, or change color for 1 minute.  
-You cause harmless tremors in the ground for 1 minute.  
-You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.  
-You instantaneously cause an unlocked door or window to fly open or slam shut.  
-You alter the appearance of your eyes for 1 minute.
+- Your voice booms up to three times as loud as normal for 1 minute.  
+- You cause flames to flicker, brighten, dim, or change color for 1 minute.  
+- You cause harmless tremors in the ground for 1 minute.  
+- You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.  
+- You instantaneously cause an unlocked door or window to fly open or slam shut.  
+- You alter the appearance of your eyes for 1 minute.
 
 If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an :rsc-action: **Action**.
 
 ### Thorn Whip
+
 *Transmutation cantrip*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -563,6 +604,7 @@ You create a long, vine-like whip covered in thorns that lashes out at your comm
 This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
 ### Thunderclap
+
 *Evocation cantrip*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -575,6 +617,7 @@ You create a burst of thunderous sound that can be heard up to 100 feet away. Ea
 The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
 ### Toll the Dead
+
 *Necromancy cantrip*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -587,16 +630,20 @@ You point at one creature you can see within range, and the sound of a dolorous 
 The spell's damage increases by one die when you reach 5th level (2d8 or 2d12), 11th level (3d8 or 3d12), and 17th level (4d8 or 4d12).
 
 ### True Strike
+
 *Divination cantrip*
   
 **Casting Time:** :rsc-action: **Action**  
-**Range:** 30 feet  
-**Components:** S  
-**Duration:** Concentration, up to 1 round
+**Range:** Self   
+**Components:** S, M (a weapon with which you have proficiency and that is worth 1+ CP)  
+**Duration:** Instantaneous
 
-You extend your hand and point a finger at a target in range. Your magic grants you a brief insight into the target's defenses. On your next turn, you gain :d20-adv: **Advantage** on your first :d20-attack: **Attack Roll** against the target, provided that this spell hasn't ended.
+Guided by a flash of magical insight, you make one attack with the weapon used in the spell's casting. The attack uses your spellcasting ability for the attack and damage rolls instead of using Strength or Dexterity. If the attack deals damage, it can be Radiant damage or the weapon's normal damage type (your choice).
+
+***Cantrip Upgrade.*** Whether you deal Radiant damage or the weapon's normal damage type, the attack deals extra Radiant damage when you reach levels 5 (1d6), 11 (2d6), and 17 (3d6).
 
 ### Vicious Mockery
+
 *Enchantment cantrip*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -604,11 +651,12 @@ You extend your hand and point a finger at a target in range. Your magic grants 
 **Components:** V  
 **Duration:** Instantaneous
 
-You unleash a string of insults laced with subtle Enchantments at a creature you can see within range. If the target can hear you (though it need not understand you), it must succeed on a Wisdom :d20-save: **Saving Throw** or take 1d4 psychic damage and have :d20-disadv: **Disadvantage** on the next :d20-attack: **Attack Roll** it makes before the end of its next turn.
+You unleash a string of insults laced with subtle enchantments at one creature you can see or hear within range. The target must succeed on a Wisdom saving throw or take 1d6 Psychic damage and have Disadvantage on the next attack roll it makes before the end of its next turn.
 
-This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
+***Cantrip Upgrade.*** This spell's damage increases by 1d6 when you reach certain Bard levels: 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
 ### Word of Radiance
+
 *Evocation cantrip*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -616,6 +664,6 @@ This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level 
 **Components:** V, M (a holy symbol)  
 **Duration:** Instantaneous
 
-You utter a divine word, and burning radiance erupts from you. Each creature of your choice that you can see within range must succeed on a Constitution :d20-save: **Saving Throw** or take 1d6 radiant damage.
+Burning radiance erupts from you in a 5-foot Emanation. Each creature of your choice that you can see in it must succeed on a Constitution saving throw or take 1d6 Radiant damage.
 
-The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+***Cantrip Upgrade.*** The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
