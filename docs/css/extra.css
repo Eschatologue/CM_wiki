@@ -44,7 +44,6 @@
     font-size: 0.85rem;
     display: flex;
     margin-bottom: -6px;
-    margin-top: -2px;
 }
 
 .md-typeset h3::after {

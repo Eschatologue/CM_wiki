@@ -43,6 +43,8 @@ You brandish the weapon used in the spell's casting and make a melee attack with
 
 ***Cantrip Upgrade.*** This spell's damage increases when you reach certain levels. At 5th level, the melee attack deals an extra 1d8 thunder damage to the target on a hit, and the damage the target takes for moving increases to 2d8. Both damage rolls increase by 1d8 at 11th level (2d8 and 3d8) and again at 17th level (3d8 and 4d8).
 
+**Classes:** Artificer, Sorcerer, Warlock, Wizard
+
 ### Chill Touch
 
 *Necromancy cantrip*
@@ -55,6 +57,8 @@ You brandish the weapon used in the spell's casting and make a melee attack with
 Channeling the chill of the grave, make a melee spell attack against a target within reach. On a hit, the target takes 1d10 Necrotic damage, and it can't regain Hit Points until the end of your next turn.
 
 ***Cantrip Upgrade.*** This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+
+**Classes:** Sorcerer, Warlock, Wizard
 
 ### Control Flames
 *Transmutation cantrip*
@@ -72,6 +76,8 @@ You choose nonmagical flame that you can see within range and that fits within a
 - You cause simple shapes—such as the vague form of a creature, an inanimate object, or a location—to appear within the flames and animate as you like. The shapes last for 1 hour.
 
 If you cast this spell multiple times, you can have up to three non-instantaneous effects created by it active at a time, and you can dismiss such an effect as an :rsc-action: **Action**.
+
+**Classes:** Druid, Sorcerer, Wizard
 
 ### Cosmic Flare
 
@@ -100,6 +106,8 @@ You create a bonfire on ground that you can see within range. Until the spell en
 The bonfire ignites flammable objects in its area that aren't being worn or carried.
 
 The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+
+**Classes:** Artificer, Druid, Sorcerer, Warlock, Wizard
 
 ### Dancing Lights
 
@@ -173,6 +181,7 @@ You exert control over the elements, creating one of the following effects withi
 **Class:** Druid, Sorcerer, Wizard
 
 ### Encode Thoughts
+
 *Enchantment cantrip*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -199,6 +208,8 @@ You hurl a mote of fire at a creature or object within range. Make a ranged spel
 
 ***Cantrip Upgrade.*** This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
 
+**Classes:** Artificer, Sorcerer, Wizard
+
 ### Friends
 
 *Enchantment cantrip*
@@ -211,6 +222,8 @@ You hurl a mote of fire at a creature or object within range. Make a ranged spel
 You magically emanate a sense of friendship toward one visible creature within range. The target must succeed on a Wisdom :d20-save: **Saving Throw** or have the Charmed condition for the duration. The target succeeds automatically if it isn't a Humanoid, if you're fighting it, or if you have cast this spell on it within the past 24 hours.
 
 The spell ends early if the target takes damage or if you make an :d20-attack: **Attack Roll**, deal damage, or force anyone to make a :d20-save: **Saving Throw**.
+
+**Classes:** Bard, Sorcerer, Warlock, Wizard
 
 ### Frostbite
 
