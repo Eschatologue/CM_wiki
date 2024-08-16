@@ -28,7 +28,7 @@
 /* H1 - Main Heading */
 .md-typeset h1 {
     margin-top: -0.25em;
-    margin-bottom: -12px;
+    margin-bottom: -6px;
 }
 
 /* H2 - Secondary Heading with border bottom */
@@ -36,7 +36,6 @@
     border-bottom: 2px solid rgba(255, 255, 255, 0.25);
     padding-bottom: 4px;
     margin-bottom: -6px;
-    margin-top: -2px;
 }
 
 /* H3 - Tertiary Heading with line after */
