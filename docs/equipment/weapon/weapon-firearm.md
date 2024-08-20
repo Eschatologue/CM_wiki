@@ -14,7 +14,43 @@ London, as the inventor of firearms, maintains tight control over their inventio
 
 However, British citizens with the proper permits can access firearms and ammunition either within London or at British Embassies located throughout Antares.
 
-## Firearms Categories
+## Firearms Table
+
+List of Firearms that you can possibly find in this world:
+
+| name | damage | properties | cost |
+|---|---|---|--:|
+| Short-arms | | | |
+| Pistol, Revolver | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 60/200), Automatic (1), Light, Reload (7) | 3,000 sp |
+| Pistol, Semi-Auto | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 60/200), Automatic (2), Light, Reload (7) | 2,500 sp |
+| Long-arms | | | |
+| Rifle, Automatic | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 90/270), Automatic (3), Heavy, Reload (12), Two-handed | 6,500 sp |
+| Rifle, Marksmen | 2d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 180/550), Reload (8), Sighted, Two-handed | 8,000 sp |
+| Rifle, Semi-Auto | 2d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 120/320), Automatic (1), Heavy, Reload (6), Two-handed | 5,000 sp |
+| Shotgun, Over-under | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 30/50), Automatic (3), Heavy, Reload (2), Scatter(2d8), Two-handed, Special | 4,000 sp |
+| Shotgun, Pump | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 50/90), Automatic (3), Heavy, Reload (7), Scatter(1d12), Two-handed | 6,000 sp |
+| Submachine Gun | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 40/90), Automatic (4), Reload (30), Two-handed | 3,500 sp |
+| Advanced Firearms | | | |
+| Machine Gun | 2d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 150/600), Automatic (4), Heavy, Mounted, Reload (50), Two-Handed | 15,000  sp |
+| Rocket Launcher | 8d6 :dmg-fire: Fire | Ammunition (:weapon-prop-ranged: Range 150/300), Explosive (20ft. :aoe-sphere: sphere), Heavy, Reload (1), Two-Handed | 12,500 sp |
+| Grenade Launcher | 1d4-1 :dmg-bludgeoning: Bludgeoning | Ammunition, range (120/240), Heavy, Loading, Special | 9,000 sp |
+
+##### Ammunitions
+
+| name | properties | cost |
+|---|---|--:|
+| Pistol Cartridges (20) | Used by Pistols and SMGs | 200 sp |
+| Rifle Cartridges (20) | Used by Rifles and Machine Gun | 300 sp |
+| Shotgun Cartridges (20) | Used by Shotguns | 150 sp |
+| Rocket Propelled Grenade (1) | Used by Rocket Launchers | 1,000 sp |
+
+### Special Weapons
+
+Weapons with *special* properties are listed here:
+
+**Grenade Launcher.** This weapon uses grenades as its ammunitions. When you attack, you can target an unoccupied space within its range. Whenever you hit the target or not, the grenade loaded in this weapon will land or explode as if it were thrown to that point.
+
+## Weapon Descriptions
 
 Firearms in Antares are divided into three categories: short-arm, long-arm, and heavy firearms. Each category serves a unique purpose and offers distinct advantages in combat. Note that this section is non-exhaustive and represents common examples within each category.
 
@@ -40,51 +76,6 @@ Advanced firearms include rocket launchers, flamethrowers, machine guns, and oth
 - **Rocket Launchers:** Capable of dealing massive damage, rocket launchers are used to destroy fortified positions or vehicles.
 - **Flamethrowers:** Ideal for clearing out entrenched enemies, flamethrowers spread fire over a wide area, causing continuous damage.
 - **Machine Guns:** Offering a high rate of sustained fire, machine guns are used to suppress enemy forces and provide heavy support during engagements.
-
-## Firearms Table
-
-List of Firearms that you can possibly find in this world:
-
-##### Firearms: Short-arms
-
-| name | damage | properties | cost |
-|---|---|---|--:|
-| Pistol, Revolver | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 60/200), Automatic (1), Light, Reload (7) | 3,000 sp |
-| Pistol, Semi-Auto | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 60/200), Automatic (2), Light, Reload (7) | 2,500 sp |
-
-##### Firearms: Long-arms
-
-| name | damage | properties | cost |
-|---|---|---|--:|
-| Rifle, Automatic | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 90/270), Automatic (3), Heavy, Reload (12), Two-handed | 6,500 sp |
-| Rifle, Marksmen | 2d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 180/550), Reload (8), Sighted, Two-handed | 8,000 sp |
-| Rifle, Semi-Auto | 2d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 120/320), Automatic (1), Heavy, Reload (6), Two-handed | 5,000 sp |
-| Shotgun, Over-under | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 30/50), Automatic (3), Heavy, Reload (2), Scatter(2d8), Two-handed, Special | 4,000 sp |
-| Shotgun, Pump | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 50/90), Automatic (3), Heavy, Reload (7), Scatter(1d12), Two-handed | 6,000 sp |
-| Submachine Gun | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 40/90), Automatic (4), Reload (30), Two-handed | 3,500 sp |
-
-##### Firearms: Advanced Firearms
-
-| name | damage | properties | cost |
-|---|---|---|--:|
-| Machine Gun | 2d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 150/600), Automatic (4), Heavy, Mounted, Reload (50), Two-Handed | 15,000  sp |
-| Rocket Launcher | 8d6 :dmg-fire: Fire | Ammunition (:weapon-prop-ranged: Range 150/300), Explosive (20ft. :aoe-sphere: sphere), Heavy, Reload (1), Two-Handed | 12,500 sp |
-| Grenade Launcher | 1d4-1 :dmg-bludgeoning: Bludgeoning | Ammunition, range (120/240), Heavy, Loading, Special | 9,000 sp |
-
-##### Ammunitions
-
-| name | properties | cost |
-|---|---|--:|
-| Pistol Cartridges (20) | Used by Pistols and SMGs | 200 sp |
-| Rifle Cartridges (20) | Used by Rifles and Machine Gun | 300 sp |
-| Shotgun Cartridges (20) | Used by Shotguns | 150 sp |
-| Rocket Propelled Grenade (1) | Used by Rocket Launchers | 1,000 sp |
-
-### Special Weapons
-
-Weapons with *special* properties are listed here:
-
-**Grenade Launcher.** This weapon uses grenades as its ammunitions. When you attack, you can target an unoccupied space within its range. Whenever you hit the target or not, the grenade loaded in this weapon will land or explode as if it were thrown to that point.
 
 ## Grenades
 
