@@ -63,13 +63,17 @@ Weapons with *special* properties are listed here:
 
 In Antares, firearms are known but not commonly used, many find them impractical compared to magic or cold weapons like swords, hammers, or bows, which are generally stronger in the hands of skilled users. Consequently, proficiency in firearms is not automatic, even for those experienced with other weapons.
 
+To wield firearms effectively, characters must undergo specialized training. Even creatures proficient with martial weapons need to train to use firearms.
+
 #### Basic Understanding
 
-Most creatures are aware of how firearms work, but using them effectively requires specific knowledge. Any creature attempting to use a firearm must make a DC 15 Intelligence check. On a success, the creature figures out the basic function of the weapon. If a creature has proficiency in martial weapons, it makes this Intelligence check with :d20-adv: Advantage. However, the creature is not considered Proficient with firearms until it spends downtime [training](#training-and-proficiency) with the weapon.
+Most creatures are aware of how firearms work, but using them effectively requires specific knowledge. Any creature attempting to use a firearm must make a **DC 15 Intelligence check**. On a success, the creature figures out the basic function of the weapon. 
+
+***Short-Arms.*** Creature with **Proficiency** in Light Crossbows, Repeating Light Crossbows, Shortbows or Hand Crossbows make this check with an :d20-adv: **Advantage**.
 
 #### Training and Proficiency
 
-Once a creature successfully [understands](#basic-understanding) how a firearm operates, they can spend downtime training with it to gain proficiency. Only after this training can they use the weapon effectively without further checks.
+Once a creature successfully understands how a firearm operates, they can spend downtime training with it to gain proficiency. Only after this training can they use the weapon effectively without further checks.
 
 ## Weapon Descriptions
 
