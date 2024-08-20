@@ -2,17 +2,19 @@
 icon: weapon/rifle
 ---
 
+> *"A good blade’s worth more than any fire-spitter. A gun’s only as strong as its powder and steel, but a sword or an axe? Aye, that’s as strong as the arm that swings it—and there’s no arm stronger than a dwarf’s!"* – A Dwarven Blacksmith
+
+# Firearms
+
 Firearms are uncommon and challenging to use in Antares, often considered impractical and requiring specific prerequisites, unlike on Earth. Other weapons like bows, crossbows, or arcane staves are easier to use and cheaper, while cold steel weapons are much stronger.
 
-*[cold steel]: Melee weapons, usually swords, warhammers, or axes.
-
-Gun weapons, shortened as guns and officially referred to as firearms, are unique mid-range to long-range weapons that use a special explosive charge known as "cordite" to propel projectiles over long distances. These weapons were brought over by the Londoners and are used exclusively by their people.
+Gun weapons, shortened as guns and often referred to as firearms, are unique mid-range to long-range weapons that use a special explosive charge known as '**cordite**' to propel projectiles over long distances. These weapons were brought over by the Londoners and are used exclusively by their people.
 
 London, as the inventor of firearms, maintains tight control over their invention and production to prevent technology leakage and misuse. This tight control contributes to the exorbitant cost and difficulty of obtaining firearms, even through legitimate means. Furthermore, procuring the expensive and rare bullets adds to the impracticality of these weapons.
 
 However, British citizens with the proper permits can access firearms and ammunition either within London or at British Embassies located throughout Antares.
 
-### Firearms Categories
+## Firearms Categories
 
 Firearms in Antares are divided into three categories: short-arm, long-arm, and heavy firearms. Each category serves a unique purpose and offers distinct advantages in combat. Note that this section is non-exhaustive and represents common examples within each category.
 
