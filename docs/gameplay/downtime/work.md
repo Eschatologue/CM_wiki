@@ -1,5 +1,7 @@
 ---
 icon: material/truck-fast
+hide:
+    - toc
 ---
 
 # Downtime Activity: Work

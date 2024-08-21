@@ -1,5 +1,7 @@
 ---
 icon: material/domino-mask
+hide:
+    - toc
 ---
 
 # Downtime Activity: Crime

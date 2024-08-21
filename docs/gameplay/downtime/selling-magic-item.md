@@ -1,5 +1,7 @@
 ---
 icon: material/cash-fast
+hide:
+    - toc
 ---
 
 # Downtime Activity: Selling a Magic Item

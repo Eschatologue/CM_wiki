@@ -1,5 +1,7 @@
 ---
 icon: material/magnify-plus-cursor
+hide:
+    - toc
 ---
 
 # Downtime Activity: Research

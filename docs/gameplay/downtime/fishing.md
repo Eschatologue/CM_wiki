@@ -1,5 +1,7 @@
 ---
 icon: material/fish
+hide:
+    - toc
 ---
 
 !!! homebrew "This is a Homebrew Mechanic!"

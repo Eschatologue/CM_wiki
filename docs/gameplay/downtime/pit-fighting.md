@@ -1,5 +1,7 @@
 ---
 icon: material/vector-circle
+hide:
+    - toc
 ---
 
 # Downtime Activity: Pit Fighting

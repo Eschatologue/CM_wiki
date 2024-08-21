@@ -1,5 +1,7 @@
 ---
 icon: material/dice-multiple
+hide:
+    - toc
 ---
 
 # Downtime Activity: Gambling

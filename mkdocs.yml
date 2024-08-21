@@ -182,7 +182,7 @@ nav:
     - Weapons: 
       - equipment/weapon/index.md
       - Cold Weapons: equipment/weapon/weapon-cold.md
-      - Firearms & Explosives: equipment/weapon/weapon-firearm.md
+      - Firearms: equipment/weapon/weapon-firearm.md
     - Equipments: 
       - Adventuring Gear: equipment/tools/adventuring-gear.md
       - Tools & Kits: equipment/tools/artisan-tools.md
@@ -191,6 +191,7 @@ nav:
     - Consumeables: 
       - Potion: equipment/consumeables/potion.md
       - Spell Scroll: equipment/consumeables/spell-scroll.md
+      - Grenade: equipment/consumeables/grenade.md
   - Spells:
     - Cantrip: spells/cantrip.md
     - Level 1 Spell: spells/1st-level.md

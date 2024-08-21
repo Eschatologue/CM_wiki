@@ -1,5 +1,7 @@
 ---
 icon: material/chat-sleep
+hide:
+    - toc
 ---
 
 # Downtime Activity: Relaxation

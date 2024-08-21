@@ -2,17 +2,15 @@
 icon: weapon/rifle
 ---
 
-> *"A good blade’s worth more than any fire-spitter. A gun’s only as strong as its powder and steel, but a sword or an axe? Aye, that’s as strong as the arm that swings it—and there’s no arm stronger than a dwarf’s!"* – A Dwarven Blacksmith
+> "A good blade’s worth more than any fire-spitter. A gun’s only as strong as its powder and steel, but a sword or an axe? Aye, that’s as strong as the arm that swings it—and there’s no arm stronger than a dwarf’s!" – *A Dwarven Blacksmith*
 
 # Firearms
 
-Firearms are uncommon and challenging to use in Antares, often considered impractical and requiring specific prerequisites, unlike on Earth. Other weapons like bows, crossbows, or arcane staves are easier to use and cheaper, while cold steel weapons are much stronger.
+Firearms are uncommon and challenging to use in Antares, often considered impractical and requiring specific prerequisites. Other weapons like bows, crossbows, or arcane staves are easier to use and cheaper, while cold steel weapons are much stronger.
 
-Gun weapons, shortened as guns and often referred to as firearms, are unique mid-range to long-range weapons that use a special explosive charge known as '**cordite**' to propel projectiles over long distances. These weapons were brought over by the Londoners and are used exclusively by their people.
+**Gun weapons**, shortened as **guns** and often referred to as **firearms**, are unique mid-range to long-range weapons that use a special explosive charge known as '**cordite**' to propel projectiles over long distances. These weapons were brought over by the Londoners and are used exclusively by their people.
 
-London, as the inventor of firearms, maintains tight control over their invention and production to prevent technology leakage and misuse. This tight control contributes to the exorbitant cost and difficulty of obtaining firearms, even through legitimate means. Furthermore, procuring the expensive and rare bullets adds to the impracticality of these weapons.
-
-However, British citizens with the proper permits can access firearms and ammunition either within London or at British Embassies located throughout Antares.
+London, as the inventor of firearms, maintains tight control over their invention and production to prevent technology leakage and misuse. This tight control contributes to the exorbitant cost and difficulty of obtaining firearms, even through legitimate means. Furthermore, procuring the expensive and rare bullets adds to the impracticality of these weapons. However, British citizens with the proper permits can access firearms and ammunition either within London or at British Embassies located throughout Antares.
 
 ## Firearms Table
 
@@ -42,7 +40,7 @@ List of Firearms that you can possibly find in this world:
 |---|---|---|--:|
 | Machine Gun | 2d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 150/600), Automatic (4), Heavy, Mounted, Reload (50), Two-Handed | 15,000  sp |
 | Rocket Launcher | 8d6 :dmg-fire: Fire | Ammunition (:weapon-prop-ranged: Range 150/300), Explosive (20ft. :aoe-sphere: sphere), Heavy, Reload (1), Two-Handed | 12,500 sp |
-| Grenade Launcher | 1d4-1 :dmg-bludgeoning: Bludgeoning | Ammunition, range (120/240), Heavy, Loading, Special | 9,000 sp |
+| Grenade Launcher | 1d4-1 :dmg-bludgeoning: Bludgeoning | Ammunition (:weapon-prop-ranged: Range 120), Heavy, Loading, Special | 9,000 sp |
 
 ##### Ammunitions
 
@@ -57,27 +55,32 @@ List of Firearms that you can possibly find in this world:
 
 Weapons with *special* properties are listed here:
 
-***Grenade Launcher.*** This weapon uses grenades as its ammunitions. When you attack, you can target an unoccupied space within its range. Whenever you hit the target or not, the grenade loaded in this weapon will land or explode as if it were thrown to that point.
+#### Grenade Launcher
+
+This weapon uses grenades as its ammunitions. When you attack, you can target an unoccupied space within its range. Whenever you hit the target or not, the grenade loaded in this weapon will land or explode as if it were thrown to that point.
 
 ## Firearm Proficiency
 
-In Antares, firearms are known but not commonly used, many find them impractical compared to magic or cold weapons like swords, hammers, or bows, which are generally stronger in the hands of skilled users. Consequently, proficiency in firearms is not automatic, even for those experienced with other weapons.
+In Antares, firearms are known but not commonly used. Many find them impractical compared to magic or cold weapons like swords, hammers, or bows, which are generally stronger in the hands of skilled users. Consequently, proficiency in firearms is not automatic, even for those experienced with other weapons.
 
 To wield firearms effectively, characters must undergo specialized training. Even creatures proficient with martial weapons need to train to use firearms.
 
-#### Basic Understanding
+### Basic Understanding
 
-Most creatures are aware of how firearms work, but using them effectively requires specific knowledge. Any creature attempting to use a firearm must make a **DC 15 Intelligence check**. On a success, the creature figures out the basic function of the weapon. 
+Most creatures are aware of how firearms work, but using them effectively requires specific knowledge. When attempting to use a firearm for the first time, a creature must make a **DC 15 Intelligence check** to figure out how the weapon functions. The creature's existing weapon proficiencies can provide an :d20-adv: **Advantage** on this check:
 
-***Short-Arms.*** Creature with **Proficiency** in Light Crossbows, Repeating Light Crossbows, Shortbows or Hand Crossbows make this check with an :d20-adv: **Advantage**.
+- **Short-Arms:** Creatures proficient with **Light Crossbows, Repeating Light Crossbows, Shortbows,** or **Hand Crossbows** have :d20-adv: **Advantage** on this check when training with short-arms (e.g., pistols, handguns).
+- **Long-Arms:** Creatures proficient with **Arbalests, Longbows, Heavy Crossbows,** or **Repeating Heavy Crossbows** have :d20-adv: **Advantage** on this check when training with long-arms (e.g., rifles, shotguns).
+
+Creatures proficient with **Martial Weapons** have :d20-adv: **Advantage** on this check for all firearms. However, these advantages do not stack.
 
 #### Training and Proficiency
 
-Once a creature successfully understands how a firearm operates, they can spend downtime training with it to gain proficiency. Only after this training can they use the weapon effectively without further checks.
+Once a creature successfully understands how a firearm operates, they can spend downtime training with it to gain proficiency. Only after this training can they use the weapon effectively without further checks. This training follows the rules written in [Downtime Activity: Training](../../gameplay/downtime/training.md).
 
 ## Weapon Descriptions
 
-Firearms in Antares are divided into three categories: short-arm, long-arm, and heavy firearms. Each category serves a unique purpose and offers distinct advantages in combat. Note that this section is non-exhaustive and represents common examples within each category.
+Firearms in Antares are divided into three categories: **Short-Arm**, **Long-Arm**, and **Advanced Firearms**. Each category serves a unique purpose and offers distinct advantages in combat. Note that this section is non-exhaustive and represents common examples within each category.
 
 #### Short-Arm
 
@@ -102,32 +105,6 @@ Advanced firearms include rocket launchers, flamethrowers, machine guns, and oth
 - **Flamethrowers:** Ideal for clearing out entrenched enemies, flamethrowers spread fire over a wide area, causing continuous damage.
 - **Machine Guns:** Offering a high rate of sustained fire, machine guns are used to suppress enemy forces and provide heavy support during engagements.
 
-## Grenades
 
-As an Action, a grenade of any type can be thrown at a point you can see within 60-feet, which it will then explode and affect an area centered on the point. Grenade can also be launched using a Grenade Launcher, in which the range follows of what stated in the grenade launcher. 
-
-What effect each type of grenade can cause is stated on [Grenade Effects](#grenade-effects).
-
-### Grenade Table
-
-|  name | damage | area | cost |
-|---|---|:---|--:|
-| **Grenade, Cryogenic** | :dmg-cold: 1d6 Cold | 20 ft. :material-sphere: **sphere** (DC 15 :material-shield-account: **CON Save**) | 250 sp |
-| **Grenade, Fragmentation** | :dmg-piercing: Piercing: 2d6 :dmg-piercing: Piercing + :dmg-thunder: 1d6 Thunder | 20 ft. :material-sphere: **sphere** (DC 15 :material-shield-half-full: **DEX Save**) | 350 sp |
-| **Grenade, Incendiary** | :dmg-fire: 1d6 Fire | 20 ft. :material-radius-outline: **radius** (DC 15 :material-shield-half-full: **DEX Save**) | 300 sp |
-| **Grenade, Flashbang** | :dmg-thunder: 1d4 Thunder | 20 ft. :material-sphere: **sphere** (DC 15 :material-shield-account: **CON Save**) | 200 sp |
-| **Grenade, Smoke** | - | 20 ft. :material-sphere: sphere | 250 sp |
-
-#### Grenade Effects
-
-&emsp; **Grenade, Cryogenic.** Creatures that fails the :d20-save: **Saving Throw**, takes the grenade damage and its movement speed is halved for 1 minute, the creature repeat this :d20-save: **Saving Throw** at the start of each turn, ending the effect on success. On successful save, it only takes half damage and no additional effects.
-
-&emsp; **Grenade, Fragmentation.** Creatures that fails the :d20-save: **Saving Throw**, takes the grenade damage, On successful save, it only takes half damage.
-
-&emsp; **Grenade, Incendiary.** Creatures that fails the :d20-save: **Saving Throw**, takes the grenade damage or half as much on successful save. The ground in a 20-foot radius centered on the target is ignited in flames. Each creature that enters the affected area, starts its turn or, end its turn on the affected area immediately takes :material-fire: **3d4 Fire** damage.
-
-&emsp; **Grenade, Flashbang.** Creatures that fails the :d20-save: **Saving Throw**, takes the grenade damage and it is Blinded(1) and Deafened(2) for 1 minute. The creature repeats this :d20-save: **Saving Throw** at the start of each turn, ending the effect on success. On successful save, it only takes half damage and no additional effects.
-
-&emsp; **Grenade, Smoke.** The terrain, creature and objects that is within affected area centered on the point chosen is filled with smokes and it is heavily obscured. The smoke spreads around corners. The smoke lasts for 1 minute or until a wind of moderate or heavy speed disperses.
 
 

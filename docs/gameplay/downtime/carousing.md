@@ -1,5 +1,7 @@
 ---
 icon: material/glass-mug-variant
+hide:
+    - toc
 ---
 
 # Downtime Activity: Carousing

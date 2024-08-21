@@ -1,5 +1,7 @@
 ---
 icon: material/hammer-screwdriver
+hide:
+    - toc
 ---
 
 # Downtime Activity: Crafting

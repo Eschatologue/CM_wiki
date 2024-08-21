@@ -1,5 +1,7 @@
 ---
 icon: material/hands-pray
+hide:
+    - toc
 ---
 
 # Downtime Activity: Religious Service
