@@ -154,6 +154,11 @@
     min-width: 1px;
 }
 
+/* Table: Disable Hover */
+.md-typeset table:not([class]) tbody tr:hover {
+    background-color: rgba(0, 0, 0, 0);
+}
+
 /* Table Header Styling */
 .md-typeset table:not([class]) th {
     font-weight: bold !important;
@@ -174,19 +179,19 @@
 
 /* Table Header and Cell Rounding */
 table th:first-child {
-    border-radius: 4px 0 0 0 !important;
+    border-radius: 6px 0 0 0 !important;
 }
 
 table th:last-child {
-    border-radius: 0 4px 0 0 !important;
+    border-radius: 0 6px 0 0 !important;
 }
 
 table tr:last-child td:last-child {
-    border-radius: 0 0 4px 0 !important;
+    border-radius: 0 0 6px 0 !important;
 }
 
 table tr:last-child td:first-child {
-    border-radius: 0 0 0 4px !important;
+    border-radius: 0 0 0 6px !important;
 }
 
 /* Table Display and Border Colour */

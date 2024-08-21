@@ -10,8 +10,6 @@ search:
 
 Dice rolls are the core mechanics of D&D. In every situation, dice are rolled to determine the outcome of a myriad of situations, such as whether or not a character will succeed at using a particular skill, if an attack will land and how much damage it will do, and even when the DM feels like adding a little unpredictability.
 
-> "The ~~Arcana~~ Dice is the means by which all is revealed"
-
 ## Dice Notation
 
 D&D uses the d20 system—a role-playing game system published in 2000 by Wizards of the Coast, originally developed for the 3rd edition of Dungeons & Dragons. Though the name is d20, it often includes other dice notations as well—usually notated with a `d` followed by the number of sides on that specific die.
@@ -30,9 +28,7 @@ In D&D, the twenty-sided die (:die-d20: d20) is central to the game's mechanics,
 
 The term d20 Test encompasses the three main d20 rolls of the game: :d20-attack: **Attack Rolls** – which are rolled against the target's **Armour Class** (**AC**), :d20-check:**Ability Check** – which are rolled against the check's Difficulty Class (DC), and :d20-save:**Saving Throws** – which are rolled against a save DC
 
-### List of d20 Tests
-
-#### :d20-attack:{ .lg } Attack Roll
+### :d20-attack:{ .lg .pad-r } Attack Roll
 
 When a creature attacks a target, it makes an :d20-attack: **Attack Roll** against the target's AC to determine whether the attack is a hit or a miss. If the attack is a hit, it generally deals damage, and the attacker rolls for damage.
 
@@ -46,7 +42,7 @@ Creatures generally make their attacks with their equipped weapon (including una
 
 [making an attack]: ./combat/making-an-attack.md
 
-#### :d20-check:{ .lg } Ability Check
+### :d20-check:{ .lg .pad-r } Ability Check
   
 An :d20-check: **Ability Check** is an attempt to succeed at a specific task, and is rolled against a **Difficulty Class** (**DC**) set by the DM for that task. If the final result of the roll equals or exceeds the DC, the attempt is successful.
 
@@ -56,7 +52,7 @@ An :d20-check: **Ability Check** is an attempt to succeed at a specific task, an
 
 For every :d20-check: **Ability Check**, the DM decides which of the six abilities is relevant to the task at hand and the difficulty of the task, represented by a [Difficulty Class]. The more difficult a task, the higher its DC.
 
-#### :d20-save:{ .lg } Saving Throw
+### :d20-save:{ .lg .pad-r } Saving Throw
   
 Traps, spells, conditions, and other sources of harm may allow a creature a chance to avoid or reduce their effect, known as a :d20-save: **Saving Throw** or save. To attempt a save, a creature rolls a d20 against a target Save [DC].
 
@@ -64,11 +60,11 @@ Traps, spells, conditions, and other sources of harm may allow a creature a chan
 
     <p style="text-align: center;"> D20 + Ability Modifier + Proficiency Bonus (if proficient) + Other Bonuses (if applicable) </p>
 
-### Natural 1s and 20s
+## Natural 1s and 20s
 
 Rolling a 1 or 20 on a d20 roll is referred to as a natural 1 or natural 20. When making an :d20-attack: **Attack Roll** or :d20-check: **Ability Check**, rolling a natural 1 is always an automatic failure, while a natural 20 is always an automatic success, regardless of the final result after modifiers are applied. :d20-save: **Saving Throws** attempted during social encounters, and death :d20-save: **Saving Throws**, can also roll natural 1s and 20s.
 
-### Advantage & Disadvantage
+## Advantage & Disadvantage
 
 A number of situations and conditions give creatures :d20-adv: **Advantage** or :d20-disadv: **Disadvantage** on d20 rolls.
 
@@ -76,7 +72,7 @@ A creature that makes a roll with :d20-adv: **Advantage** rolls two d20 dice sep
 
 When multiple instances of :d20-adv: **Advantage** or :d20-disadv: **Disadvantage** occcurs, each instance beyond the first adds a `+2` or `-2` modifier to the roll, respectively.^HB^
 
-### Difficulty Class
+## Difficulty Class
 
 A Difficulty Class (or DC) is a number rolled against when making :d20-check: **Ability Checks** or :d20-save: **Saving Throws**. It represents how difficult a task is to accomplish. The number is determined by the the task attempted – or in the case of saves – the spell, condition, or action that has to be overcome.
 
@@ -89,7 +85,7 @@ A Difficulty Class (or DC) is a number rolled against when making :d20-check: **
 | Very hard | 25 |
 | Nearly impossible | 30 |
 
-### Skill
+## Skill Checks
 
 Ability Checks are usually made using a specified skill. Skills are specific areas of expertise, each associated with an ability, that characters can be proficient in.
 
@@ -97,39 +93,16 @@ Characters add their Proficiency Bonus to any :d20-check: **Ability Checks** the
 
 | | | ABILITIES |  | |
 |:---:|:---:|:---:|:---:|:---:|
-| **:ability-str:{ .lg  } Strength** | **:ability-dex:{ .lg  } Dexterity** | **:ability-int:{ .lg  } Intelligence** | **:ability-wis:{ .lg  } Wisdom** | **:ability-cha:{ .lg  } Charisma** |
-| [Athletics] | [Acrobatics] | [Arcana] | [Animal Handling] | [Deception] |
-|  | [Sleight of Hand] | [History] | [Insight] | [Intimidation] |
-|  | [Stealth] | [Investigation] | [Medicine] | [Performance] |
-|  |  | [Nature] | [Perception] | [Persuasion] |
-|  |  | [Religion] | [Survival] |  |
+| **:ability-str:{ .lg  } STRENGTH** | **:ability-dex:{ .lg  } DEXTERITY** | **:ability-int:{ .lg  } INTELIGENCE** | **:ability-wis:{ .lg  } WISDOM** | **:ability-cha:{ .lg  } CHARISMNA** |
+| Athletics | Acrobatics | Arcana | Animal Handling | Deception |
+|  | Sleight of Hand | History | Insight | Intimidation |
+|  | Stealth | Investigation | Medicine | Performance |
+|  |  | Nature | Perception | Persuasion |
+|  |  | Religion | Survival |  |
 
 ??? question "Constitution :d20-check: **Ability Check**"
 
     Constitution checks are uncommon, and no skills apply to Constitution checks, because the endurance this ability represents is largely passive rather than involving a specific effort on the part of a character or monster.
-
-[Athletics]: ../character-creation/ability-scores/strength.md#athletics
-
-[Acrobatics]: ../character-creation/ability-scores/dexterity.md#acrobatics
-[Sleight of Hand]: ../character-creation/ability-scores/dexterity.md#sleight-of-hand
-[Stealth]: ../character-creation/ability-scores/dexterity.md#stealth
-
-[Arcana]: ../character-creation/ability-scores/intelligence.md#arcana
-[History]: ../character-creation/ability-scores/intelligence.md#history
-[Investigation]: ../character-creation/ability-scores/intelligence.md#investigation
-[Nature]: ../character-creation/ability-scores/intelligence.md#nature
-[Religion]: ../character-creation/ability-scores/intelligence.md#religion
-
-[Animal Handling]: ../character-creation/ability-scores/wisdom.md#animal-handling
-[Insight]: ../character-creation/ability-scores/wisdom.md#insight
-[Medicine]: ../character-creation/ability-scores/wisdom.md#medicine
-[Perception]: ../character-creation/ability-scores/wisdom.md#perception
-[Survival]: ../character-creation/ability-scores/wisdom.md#survival
-
-[Deception]: ../character-creation/ability-scores/charisma.md#deception
-[Intimidation]: ../character-creation/ability-scores/charisma.md#intimidation
-[Performance]: ../character-creation/ability-scores/charisma.md#performance
-[Persuasion]: ../character-creation/ability-scores/charisma.md#persuasion
 
 All characters gain Proficiency in multiple skills depending on their chosen background during character creation, and can choose 2-4 more skills to be proficient in from a list of skills determined by their class.
 
@@ -137,7 +110,7 @@ Additionally, some races, subclasses, and feats also give Proficiency in specifi
 
 Proficiency does not stack – there's no benefit to having multiple sources of Proficiency for a skill.
 
-#### Expertise
+### Expertise
 
 Characters can also have expertise in a skill, which allows them to add double their Proficiency Bonus when making a corresponding :d20-check: **Ability Check**. While it is possible to have Proficiency and expertise in a skill at the same time, they do not stack. Some sources of expertise do, however, require the character to already be proficient in a skill.
 
@@ -146,7 +119,7 @@ Sources of expertise that require prior Proficiency in the respective skill incl
 - Rogues gain expertise in any two skills they are proficient in at both level 1 and level 6.
 - Bards gain expertise in any two skills they are proficient in at both level 3 and level 10.
 
-### Contests
+## Contests
 
 Sometimes one character's or monster's efforts are directly opposed to another's. This can occur when both of them are trying to do the same thing and only one can succeed, such as attempting to snatch up a magic ring that has fallen to the floor. This situation also applies when one of them is trying to prevent the other one from accomplishing a goal—for example, when a monster tries to force open a door that an adventurer is holding closed. In situations like these, the outcome is determined by a special form of :d20-check: **Ability Check**, called a contest.
 
@@ -154,7 +127,7 @@ Both participants in a contest make :d20-check: **Ability Checks** appropriate t
 
 If the contest results in a tie, the situation remains the same as it was before the contest. Thus, one contestant might win the contest by default. If two characters tie in a contest to snatch a ring off the floor, neither character grabs it. In a contest between a monster trying to open a door and an adventurer trying to keep the door closed, a tie means that the door remains shut.
 
-### Passive Checks
+## Passive Checks
 
 A passive check is a special kind of :d20-check: **Ability Check** that doesn't involve any die rolls. Such a check can represent the average result for a task done repeatedly, such as searching for secret doors over and over again, or can be used when the DM wants to secretly determine whether the characters succeed at something without rolling dice, such as noticing a hidden monster.
 
@@ -170,13 +143,13 @@ For example, if a 1st-level character has a Wisdom of 15 and Proficiency in Perc
 
 The rules on hiding in the "Dexterity" also rely on passive checks.
 
-### Working Together
+## Working Together
 
 Sometimes two or more characters team up to attempt a task. The character who's leading the effort—or the one with the highest ability modifier—can make an :d20-check: **Ability Check** with advantage, reflecting the help provided by the other characters. In combat, this requires the Help action (see chapter 9).
 
 A character can only provide help if the task is one that he or she could attempt alone. For example, trying to open a lock requires Proficiency with thieves' tools, so a character who lacks that Proficiency can't help another character in that task. Moreover, a character can help only when two or more individuals working together would actually be productive. Some tasks, such as threading a needle, are no easier with help.
 
-### Group Checks
+## Group Checks
 
 When a number of individuals are trying to accomplish something as a group, the DM might ask for a group :d20-check: **Ability Check**. In such a situation, the characters who are skilled at a particular task help cover those who aren't.
 
