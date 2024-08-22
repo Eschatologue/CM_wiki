@@ -32,7 +32,6 @@
     margin-top: -0.25em;
     margin-bottom: -6px;
     font-weight: 400;
-    font-size: 24px;
 }
 
 /* H2 - Secondary Heading with border bottom */
@@ -54,6 +53,7 @@
 .md-typeset h3::after {
     content: ' ';
     border-bottom: 1.8px solid rgba(255, 255, 255, 0.15);
+    padding-left: 4px;
     margin: 12px 0 5px 0;
     flex: 20 0 20px;
 }

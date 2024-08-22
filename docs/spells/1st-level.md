@@ -496,9 +496,8 @@ Each object in a 20-foot cube within range is outlined in blue, green, or violet
 
 Any :d20-attack: **Attack Roll** against an affected creature or object has :d20-adv: **Advantage** if the attacker can see it, and the affected creature or object can't benefit from being invisible.
 
----
-
 ### False Life
+
 *1st-level Necromancy*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -506,11 +505,12 @@ Any :d20-attack: **Attack Roll** against an affected creature or object has :d20
 **Components:** V, S, M (a small amount of alcohol or distilled spirits)  
 **Duration:** 1 hour
 
-Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary Hit Points for the duration.
+You gain 2d4 + 4 Temporary Hit Points.
 
-***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, you gain 5 additional temporary Hit Points for each slot level above 1st.
+***Using a Higher-Level Spell Slot.*** You gain 5 additional Temporary Hit Points for each spell slot level above 1.
 
 ### Feather Fall
+
 *1st-level Transmutation*
   
 **Casting Time:** :rsc-reaction: **Reaction**, which you take when you or a creature within 60 feet of you falls  
@@ -521,6 +521,7 @@ Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 tempo
 Choose up to five falling creatures within range. A falling creature's rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature.
 
 ### Find Familiar
+
 *1st-level Conjuration (ritual)*
   
 **Casting Time:** 1 hour  
@@ -598,11 +599,12 @@ The berries lose their potency if they have not been consumed within 24 hours of
 **Components:** V, S, M (a bit of pork rind or butter)  
 **Duration:** 1 minute
 
-Slick grease covers the ground in a 10-foot square centered on a point within range and turns it into difficult terrain for the duration.
+Nonflammable grease covers the ground in a 10-foot square centered on a point within range and turns it into Difficult Terrain for the duration.
 
 When the grease appears, each creature standing in its area must succeed on a Dexterity :d20-save: **Saving Throw** or fall prone. A creature that enters the area or ends its turn there must also succeed on a Dexterity :d20-save: **Saving Throw** or fall prone.
 
 ### Guiding Bolt
+
 *1st-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -615,30 +617,33 @@ A flash of light streaks toward a creature of your choice within range. Make a r
 ***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
 ### Hail of Thorns
+
 *1st-level Conjuration*
   
-**Casting Time:** :rsc-bonus-action: **Bonus Action**  
+**Casting Time:** :rsc-bonus-action: **Bonus Action**, which you take immediately after hitting a creature with a Ranged weapon  
 **Range:** Self  
 **Components:** V  
 **Duration:** Concentration, up to 1 minute
 
-The next time you hit a creature with a ranged weapon attack before the spell ends, this spell creates a rain of thorns that sprouts from your ranged weapon or ammunition. In addition to the normal effect of the attack, the target of the attack and each creature within 5 feet of it must make a Dexterity :d20-save: **Saving Throw**. A creature takes 1d10 piercing damage on a failed save, or half as much damage on a successful one.
+As you hit the creature, this spell creates a rain of thorns that sprouts from your Ranged weapon or ammunition. The target of the attack and each creature within 5 feet of it make a Dexterity saving throw, taking 1d10 Piercing damage on a failed save or half as much damage on a successful one.
 
 ***Using a Higher-Level Spell Slot.*** If you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st (to a maximum of 6d10).
 
 ### Healing Word
-*1st-level Evocation*
+
+*1st-level Abjuration*
   
 **Casting Time:** :rsc-bonus-action: **Bonus Action**  
 **Range:** 60 feet  
 **Components:** V  
 **Duration:** Instantaneous
 
-A creature of your choice that you can see within range regains Hit Points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+A creature of your choice that you can see within range regains Hit Points equal to 2d4 plus your spellcasting ability modifier. This spell has no effect on Constructs or Undead.
 
-***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st.
+***Using a Higher-Level Spell Slot.*** When you cast this spell using a spell slot of level 2 or higher, the healing increases by 2d4 for each slot level above 1.
 
 ### Hellish Rebuke
+
 *1st-level Evocation*
   
 **Casting Time:** :rsc-reaction: **Reaction**, which you take in response to being damaged by a creature within 60 feet of you that you can see  
@@ -646,11 +651,12 @@ A creature of your choice that you can see within range regains Hit Points equal
 **Components:** V, S  
 **Duration:** Instantaneous
 
-You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity :d20-save: **Saving Throw**. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.
+The creature that damaged you is momentarily surrounded by green flames. It makes a Dexterity saving throw, taking 2d10 Fire damage on a failed save or half as much damage on a successful one.
 
-***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d10 for each spell slot level above 1.
 
 ### Heroism
+
 *1st-level Enchantment*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -663,6 +669,7 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 ***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
 ### Hex
+
 *1st-level Enchantment*
   
 **Casting Time:** :rsc-bonus-action: **Bonus Action**  
@@ -670,15 +677,12 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 **Components:** V, S, M (the petrified eye of a newt)  
 **Duration:** Concentration, up to 1 hour
 
-You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra 1d6 necrotic damage to the target whenever you hit it with an attack. Also, choose one ability when you cast the spell. The target has :d20-disadv: **Disadvantage** on :d20-check: **Ability Checks** made with the chosen ability.
+You place a curse on a creature that you can see within range. Until the spell ends, you can deal an extra 1d6 Necrotic damage to the target when you hit it with an attack roll. You can deal this extra damage only once per turn. Also, choose one of the six abilities whenever you cast the spell. The target has Disadvantage on ability checks made with the chosen ability. If the target drops to 0 Hit Points before this spell ends, you can use a Bonus Action on a subsequent turn of yours to curse a new creature. A Remove Curse spell cast on the target ends this spell early.
 
-If the target drops to 0 Hit Points before this spell ends, you can use a :rsc-bonus-action: **Bonus Action** on a subsequent turn of yours to curse a new creature.
-
-A *remove curse* cast on the target ends this spell early.
-
-***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours. When you use a :rsc-spell-slot: **Spell Slot** of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours.
+***Using a Higher-Level Spell Slot.*** When you cast this spell using a Spell Slot of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours, and the extra damage increases to 2d6. When you use a Spell Slot of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours, and the extra damage increases to 3d6.
 
 ### Hunter's Mark
+
 *1st-level Divination*
   
 **Casting Time:** :rsc-bonus-action: **Bonus Action**  
@@ -686,11 +690,12 @@ A *remove curse* cast on the target ends this spell early.
 **Components:** V  
 **Duration:** Concentration, up to 1 hour
 
-You choose a creature you can see within range and mystically mark it as your ^^Quarry^^. Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have :d20-adv: **Advantage** on any Wisdom (Perception) or Wisdom (Survival) check you make to find it. If the target drops to 0 Hit Points before this spell ends, you can use a :rsc-bonus-action: **Bonus Action** on a subsequent turn of yours to mark a new creature.
+You choose one creature you can see within range and magically mark it as your ^^quarry^^. Until the spell ends, you deal an extra 1d6 Force damage to the target the first time you hit it with an attack roll on any turn. You also have Advantage on any Wisdom (Perception or Survival) check you make to find it. If the target drops to 0 Hit Points before this spell ends, you can use a Bonus Action to mark a new creature.
 
-***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours. When you use a :rsc-spell-slot: **Spell Slot** of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours.
+***Using a Higher-Level Spell Slot.*** When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours, and the extra damage increases to 2d6. When you use a spell slot of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours, and the extra damage increases to 3d6.
 
 ### Ice Knife
+
 *1st-level Conjuration*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -703,6 +708,7 @@ You create a shard of ice and fling it at one creature within range. Make a rang
 ***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the cold damage increases by 1d6 for each slot level above 1st.
 
 ### Identify
+
 *1st-level Divination (ritual)*
   
 **Casting Time:** 1 minute  
@@ -715,6 +721,7 @@ You choose one object that you must touch throughout the casting of the spell. I
 If you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it.
 
 ### Illusory Script
+
 *1st-level Illusion (ritual)*
   
 **Casting Time:** 1 minute  
@@ -731,6 +738,7 @@ Should the spell be dispelled, the original script and the Illusion both disappe
 A creature with truesight can read the hidden message.
 
 ### Inflict Wounds
+
 *1st-level Necromancy*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -738,11 +746,12 @@ A creature with truesight can read the hidden message.
 **Components:** V, S  
 **Duration:** Instantaneous
 
-Make a melee spell attack against a creature you can reach. On a hit, the target takes 3d10 necrotic damage.
+A creature you touch makes a Constitution saving throw, taking 2d10 Necrotic damage on a failed save or half as much damage on a successful one.
 
 ***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
 
 ### Jim's Magic Missile
+
 *1st-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -761,6 +770,7 @@ If the :d20-attack: **Attack Roll** scores a Critical Hit, the target of that mi
 ***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the spell creates one more dart, and the royalty component increases by 1 gp, for each slot level above 1st.
 
 ### Jump
+
 *1st-level Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -768,9 +778,12 @@ If the :d20-attack: **Attack Roll** scores a Critical Hit, the target of that mi
 **Components:** V, S, M (a grasshopper's hind leg)  
 **Duration:** 1 minute
 
-You touch a creature. The creature's *jump distance* is tripled until the spell ends.
+You touch a willing creature. Once on each of its turns until the spell ends, that creature can jump up to 30 feet by spending only 10 feet of movement.
+
+***Using a Higher-Level Spell Slot.*** When you cast this spell using a spell slot of level 2 or higher, you can target one additional creature for each slot level above 1.
 
 ### Longstrider
+
 *1st-level Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -783,6 +796,7 @@ You touch a creature. The target's speed increases by 10 feet until the spell en
 ***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
 ### Mage Armour
+
 *1st-level Abjuration*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -793,6 +807,7 @@ You touch a creature. The target's speed increases by 10 feet until the spell en
 You touch a willing creature who isn't wearing armor, and a protective magical force surrounds it until the spell ends. The target's base AC becomes 13 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an :rsc-action: **Action**.
 
 ### Magic Missile
+
 *1st-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -805,6 +820,7 @@ You create three glowing darts of magical force. Each dart hits a creature of yo
 ***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the spell creates one more dart for each slot level above 1st.
 
 ### Magnify Gravity
+
 *1st-level Transmutation*
 
 **Casting Time:** :rsc-action: **Action**  
@@ -819,6 +835,7 @@ Until the start of your next turn, any object that isn't being worn or carried i
 ***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
 
 ### Protection from Evil and Good
+
 *1st-level Abjuration*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -831,6 +848,7 @@ Until the spell ends, one willing creature you touch is protected against certai
 The protection grants several benefits. Creatures of those types have :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** against the target. The target also can't be charmed, frightened, or possessed by them. If the target is already charmed, frightened, or possessed by such a creature, the target has :d20-adv: **Advantage** on any new :d20-save: **Saving Throw** against the relevant effect.
 
 ### Purify Food and Drink
+
 *1st-level Transmutation (ritual)*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -841,6 +859,7 @@ The protection grants several benefits. Creatures of those types have :d20-disad
 All nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.
 
 ### Ray of Sickness
+
 *1st-level Necromancy*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -848,11 +867,12 @@ All nonmagical food and drink within a 5-foot-radius sphere centered on a point 
 **Components:** V, S  
 **Duration:** Instantaneous
 
-A ray of sickening greenish energy lashes out toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution :d20-save: **Saving Throw**. On a failed save, it is also poisoned until the end of your next turn.
+You shoot a greenish ray at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 Poison damage and has the Poisoned condition until the end of your next turn.
 
-***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 1.
 
 ### Sanctuary
+
 *1st-level Abjuration*
   
 **Casting Time:** :rsc-bonus-action: **Bonus Action**  
@@ -865,18 +885,20 @@ You ward a creature within range against attack. Until the spell ends, any creat
 If the warded creature makes an attack, casts a spell that affects an enemy, or deals damage to another creature, this spell ends.
 
 ### Searing Smite
+
 *1st-level Evocation*
   
-**Casting Time:** :rsc-bonus-action: **Bonus Action**  
+**Casting Time:** :rsc-bonus-action: **Bonus Action**, which you take immediately after hitting a target with a Melee weapon or an Unarmed Strike  
 **Range:** Self  
 **Components:** V  
 **Duration:** Concentration, up to 1 minute
 
-The next time you hit a creature with a melee weapon attack during the spell's duration, your weapon flares with white-hot intensity, and the attack deals an extra 1d6 fire damage to the target and causes the target to ignite in flames. At the start of each of its turns until the spell ends, the target must make a Constitution :d20-save: **Saving Throw**. On a failed save, it takes 1d6 fire damage. On a successful save, the spell ends. If the target or a creature within 5 feet of it uses an :rsc-action: **Action** to put out the flames, or if some other effect douses the flames (such as the target being submerged in water), the spell ends.
+As you hit the target, it takes an extra 1d6 Fire damage from the attack. At the start of each of its turns until the spell ends, the target takes 1d6 Fire damage and then makes a Constitution saving throw. On a failed save, the spell continues. On a successful save, the spell ends.
 
 ***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the initial extra damage dealt by the attack increases by 1d6 for each slot level above 1st.
 
 ### Shield
+
 *1st-level Abjuration*
   
 **Casting Time:** :rsc-reaction: **Reaction**, which you take when you are hit by an attack or targeted by the [Magic Missile](#magic-missile) spell  
@@ -887,6 +909,7 @@ The next time you hit a creature with a melee weapon attack during the spell's d
 An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from *magic missile*.
 
 ### Shield of Faith
+
 *1st-level Abjuration*
   
 **Casting Time:** :rsc-bonus-action: **Bonus Action**  
@@ -897,6 +920,7 @@ An invisible barrier of magical force appears and protects you. Until the start 
 A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
 
 ### Silent Image
+
 *1st-level Illusion*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -911,6 +935,7 @@ You can use your :rsc-action: **Action** to cause the image to move to any spot 
 Physical interaction with the image reveals it to be an Illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an Illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the Illusion for what it is, the creature can see through the image.
 
 ### Silvery Barbs
+
 *1st-level Enchantment*
   
 **Casting Time:** :rsc-reaction: **Reaction**, which you take when a creature you can see within 60 feet of yourself succeeds on an :d20-attack: **Attack Roll**, an :d20-check: **Ability Check**, or a :d20-save: **Saving Throw**  
@@ -923,6 +948,7 @@ You magically distract the triggering creature and turn its momentary uncertaint
 You can then choose a different creature you can see within range (you can choose yourself). The chosen creature has :d20-adv: **Advantage** on the next :d20-attack: **Attack Roll**, :d20-check: **Ability Check**, or :d20-save: **Saving Throw** it makes within 1 minute. A creature can be empowered by only one use of this spell at a time.
 
 ### Sleep
+
 *1st-level Enchantment*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -939,6 +965,7 @@ Undead and creatures immune to being charmed aren't affected by this spell.
 ***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, roll an additional 2d8 for each slot level above 1st.
 
 ### Snare
+
 *1st-level Abjuration*
   
 **Casting Time:** 1 minute  
@@ -957,6 +984,7 @@ A restrained creature can make a Dexterity :d20-save: **Saving Throw** at the en
 After the trap is triggered, the spell ends when no creature is restrained by it.
 
 ### Speak with Animals
+
 *1st-level Divination (ritual)*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -967,6 +995,7 @@ After the trap is triggered, the spell ends when no creature is restrained by it
 You gain the ability to comprehend and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a beast to perform a small favor for you, at the DM's discretion.
 
 ### Tasha's Caustic Brew
+
 *1st-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -979,6 +1008,7 @@ A stream of acid emanates from you in a line 30 feet long and 5 feet wide in a d
 ***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 2d4 for each slot level above 1st.
 
 ### Tasha's Hideous Laughter
+
 *1st-level Enchantment*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -991,6 +1021,7 @@ A creature of your choice that you can see within range perceives everything as 
 At the end of each of its turns, and each time it takes damage, the target can make another Wisdom :d20-save: **Saving Throw**. The target has :d20-adv: **Advantage** on the :d20-save: **Saving Throw** if it's triggered by damage. On a success, the spell ends.
 
 ### Tenser's Floating Disk
+
 *1st-level Conjuration (ritual)*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -1005,16 +1036,20 @@ The disk is immobile while you are within 20 feet of it. If you move more than 2
 If you move more than 100 feet from the disk (typically because it can't move around an obstacle to follow you), the spell ends.
 
 ### Thunderous Smite
+
 *1st-level Evocation*
   
-**Casting Time:** :rsc-bonus-action: **Bonus Action**  
+**Casting Time:** :rsc-bonus-action: **Bonus Action**, which you take immediately after hitting a target with a Melee weapon or an Unarmed Strike  
 **Range:** Self  
 **Components:** V  
 **Duration:** Concentration, up to 1 minute
 
-The first time you hit with a melee weapon attack during this spell's duration, your weapon rings with thunder that is audible within 300 feet of you, and the attack deals an extra 2d6 thunder damage to the target. Additionally, if the target is a creature, it must succeed on a Strength :d20-save: **Saving Throw** or be pushed 10 feet away from you and knocked prone.
+Your strike rings with thunder that is audible within 300 feet of you, and the target takes an extra 2d6 Thunder damage from the attack. Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and have the Prone condition.
+
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 1.
 
 ### Thunderwave
+
 *1st-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -1029,6 +1064,7 @@ In addition, unsecured objects that are completely within the area of effect are
 ***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
 
 ### Unseen Servant
+
 *1st-level Conjuration (ritual)*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -1043,6 +1079,7 @@ Once on each of your turns as a :rsc-bonus-action: **Bonus Action**, you can men
 If you command the servant to perform a task that would move it more than 60 feet away from you, the spell ends.
 
 ### Witch Bolt
+
 *1st-level Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
@@ -1050,19 +1087,24 @@ If you command the servant to perform a task that would move it more than 60 fee
 **Components:** V, S, M (a twig from a tree that has been struck by lightning)  
 **Duration:** Concentration, up to 1 minute
 
-A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target. Make a ranged spell attack against that creature. On a hit, the target takes 1d12 lightning damage, and on each of your turns for the duration, you can use your :rsc-action: **Action** to deal 1d12 lightning damage to the target automatically. The spell ends if you use your :rsc-action: **Action** to do anything else. The spell also ends if the target is ever outside the spell's range or if it has total cover from you.
+A beam of crackling energy lances toward a creature within range, forming a sustained arc of lightning between you and the target. Make a ranged spell attack against it. On a hit, the target takes 2d12 Lightning damage.
 
-***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the initial damage increases by 1d12 for each slot level above 1st.
+On each of your subsequent turns, you can take a Bonus Action to deal 1d12 Lightning damage to the target automatically, even if the first attack missed. The spell ends if the target is ever outside the spell's range or if it has Total Cover from you.
+
+***Using a Higher-Level Spell Slot.*** The initial damage increases by 1d12 for each spell slot level above 1.
 
 ### Wrathful Smite
-*1st-level Evocation*
+
+*1st-level Necromancy*
   
-**Casting Time:** :rsc-bonus-action: **Bonus Action**  
+**Casting Time:** :rsc-bonus-action: **Bonus Action**, which you take immediately after hitting a target with a Melee weapon or an Unarmed Strike  
 **Range:** Self  
 **Components:** V  
 **Duration:** Concentration, up to 1 minute
 
-The next time you hit with a melee weapon attack during this spell's duration, your attack deals an extra 1d6 psychic damage. Additionally, if the target is a creature, it must make a Wisdom :d20-save: **Saving Throw** or be frightened of you until the spell ends. As an :rsc-action: **Action**, the creature can make a Wisdom check against your spell save DC to steel its resolve and end this spell.
+The target takes an extra 1d6 Necrotic damage from the attack, and it must succeed on a Wisdom saving throw or have the Frightened condition until the spell ends. At the end of each of its turns, the Frightened target repeats the save, ending the spell on itself on a success.
+
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 1.
 
 ### Zephyr Strike
 *1st-level Transmutation*
