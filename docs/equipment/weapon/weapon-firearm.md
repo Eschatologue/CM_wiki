@@ -20,34 +20,34 @@ List of Firearms that you can possibly find in this world:
 
 | name | damage | properties | cost |
 |---|---|---|--:|
-| Pistol, Revolver | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 60/200), Automatic (1), Light, Reload (7) | 3,000 sp |
-| Pistol, Semi-Auto | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 60/200), Automatic (2), Light, Reload (7) | 2,500 sp |
+| Pistol, Revolver | 1d12 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 60/180), Reload (6) | 2,500 sp |
+| Pistol, Semi-Auto | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 60/180), Automatic (2), Light, Reload (7) | 3,000 sp |
+| Submachine Gun | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 40/90), Automatic (4), Reload (28), Two-handed | 3,500 sp |
 
 ##### Firearms: Long-arms
 
 | name | damage | properties | cost |
 |---|---|---|--:|
-| Rifle, Automatic | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 90/270), Automatic (3), Heavy, Reload (12), Two-handed | 6,500 sp |
-| Rifle, Marksmen | 2d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 180/550), Reload (8), Sighted, Two-handed | 8,000 sp |
-| Rifle, Semi-Auto | 2d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 120/320), Automatic (1), Heavy, Reload (6), Two-handed | 5,000 sp |
-| Shotgun, Over-under | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 30/50), Automatic (3), Heavy, Reload (2), Scatter(2d8), Two-handed, Special | 4,000 sp |
-| Shotgun, Pump | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 50/90), Automatic (3), Heavy, Reload (7), Scatter(1d12), Two-handed | 6,000 sp |
-| Submachine Gun | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 40/90), Automatic (4), Reload (30), Two-handed | 3,500 sp |
+| Rifle, Automatic | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 90/270), Automatic (3), Heavy, Reload (12), Two-handed | 6,500 sp |
+| Rifle, Marksmen | 2d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 180/550), Reload (8), Sighted, Two-handed | 8,000 sp |
+| Rifle, Semi-Auto | 2d4 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 120/320), Automatic (1), Heavy, Reload (6), Two-handed | 5,000 sp |
+| Shotgun, Over-under | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 30/50), Automatic (3), Heavy, Reload (2), Scatter(2d6), Two-handed, Special | 4,000 sp |
+| Shotgun, Pump | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 40/90), Automatic (3), Heavy, Reload (7), Scatter(1d12), Two-handed | 6,000 sp |
 
 ##### Firearms: Advanced Firearms
 
 | name | damage | properties | cost |
 |---|---|---|--:|
-| Machine Gun | 2d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 150/600), Automatic (4), Heavy, Mounted, Reload (50), Two-Handed | 15,000  sp |
+| Machine Gun | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 150/600), Automatic (4), Heavy, Mounted, Reload (50), Two-Handed | 15,000  sp |
 | Rocket Launcher | 8d6 :dmg-fire: Fire | Ammunition (:weapon-prop-ranged: Range 150/300), Explosive (20ft. :aoe-sphere: sphere), Heavy, Reload (1), Two-Handed | 12,500 sp |
-| Grenade Launcher | 1d4-1 :dmg-bludgeoning: Bludgeoning | Ammunition (:weapon-prop-ranged: Range 120), Heavy, Loading, Special | 9,000 sp |
+| Grenade Launcher | 1 :dmg-bludgeoning: Bludgeoning | Ammunition (:weapon-prop-ranged: Range 120), Heavy, Loading, Special | 9,000 sp |
 
 ##### Ammunitions
 
 | name | properties | cost |
 |---|---|--:|
-| Pistol Cartridges (20) | Used by Pistols and SMGs | 200 sp |
-| Rifle Cartridges (20) | Used by Rifles and Machine Gun | 300 sp |
+| Pistol Cartridges (20) | Used by Pistols and SMGs | 300 sp |
+| Rifle Cartridges (20) | Used by Rifles and Machine Gun | 500 sp |
 | Shotgun Cartridges (20) | Used by Shotguns | 150 sp |
 | Rocket Propelled Grenade (1) | Used by Rocket Launchers | 1,000 sp |
 
@@ -69,10 +69,9 @@ To wield firearms effectively, characters must undergo specialized training. Eve
 
 Most creatures are aware of how firearms work, but using them effectively requires specific knowledge. When attempting to use a firearm for the first time, a creature must make a **DC 15 Intelligence check** to figure out how the weapon functions. The creature's existing weapon proficiencies can provide an :d20-adv: **Advantage** on this check:
 
-- **Short-Arms:** Creatures proficient with **Light Crossbows, Repeating Light Crossbows, Shortbows,** or **Hand Crossbows** have :d20-adv: **Advantage** on this check when training with short-arms (e.g., pistols, handguns).
-- **Long-Arms:** Creatures proficient with **Arbalests, Longbows, Heavy Crossbows,** or **Repeating Heavy Crossbows** have :d20-adv: **Advantage** on this check when training with long-arms (e.g., rifles, shotguns).
-
-Creatures proficient with **Martial Weapons** have :d20-adv: **Advantage** on this check for all firearms. However, these advantages do not stack.
+- **Short-Arms:** Creatures proficient with **Light Crossbows, Repeating Light Crossbows, Shortbows, Hand Crossbows** or **Martial Weapons** have :d20-adv: **Advantage** on this check with short-arms (e.g., pistols, handguns).
+- **Long-Arms:** Creatures proficient with **Arbalests, Longbows, Heavy Crossbows, Repeating Heavy Crossbows** or **Martial Weapons** have :d20-adv: **Advantage** on this check with long-arms (e.g., rifles, shotguns).
+- **Advanced Firearms:** Creatures proficient with **Martial Weapons** have :d20-adv: **Advantage** on this check with Advanced Firearms (e.g., rocket launchers, flamethrowers).
 
 #### Training and Proficiency
 
@@ -88,13 +87,13 @@ Short-arm firearms include pistols, revolvers, and other small, easily concealab
 
 - **Pistols:** Compact and easy to handle, pistols are perfect for quick-draw situations and can be fired with one hand.
 - **Revolvers:** Known for their reliability and stopping power, revolvers are a popular choice among those who value durability over capacity.
+- **Submachine Guns (SMGs):** SMGs provide a high rate of fire and are effective in close to mid-range combat, making them versatile for different combat scenarios.
 
 #### Long-Arm
 
 Long-arm firearms encompass rifles, submachine guns (SMGs), and other longer-range weapons. These are designed for mid to long-range engagements, offering greater accuracy and firepower compared to short-arms.
 
 - **Rifles:** Highly accurate and powerful, rifles are the preferred choice for long-range combat. They come in various types, including bolt-action and semi-automatic.
-- **Submachine Guns (SMGs):** SMGs provide a high rate of fire and are effective in close to mid-range combat, making them versatile for different combat scenarios.
 - **Shotguns:** Shotguns are powerful weapons effective at close to mid-range. They fire a spread of pellets, making them ideal for hitting a single target with devastating force.
 
 #### Advanced Firearms

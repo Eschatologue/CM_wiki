@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.4 | 22 August 2024
+
+A part of an overhaul to bring Crown & Misery up to date with PHB 2024
+
+### Weapon Changes
+
+- Firearms
+    - Firearms and Grenades is now seperated into two parts in the wiki, grenades is moved to the 'Consumeable' category
+    - **Automatic Property.** Automatic property has been changed to better follow new multi-attack rule of PHB 2024, you don't have disadvantage when making **Automatic** attacks, but instead ability modifiers is not added to the additional attacks damage.
+    - Submachine guns now is under the *short-arm* category
+    - Ammunition price is increased
+
 ## 1.3 | 24 July 2024
 
 Feat Fixing update, this update streamlines all the available feats, removed and combined some redundant ones, with additions of new ones.
