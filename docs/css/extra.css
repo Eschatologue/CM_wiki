@@ -49,14 +49,14 @@
     margin-bottom: -6px;
     margin-top: 12px;
 }
-
+/*
 .md-typeset h3::after {
     content: ' ';
     border-bottom: 1.8px solid rgba(255, 255, 255, 0.15);
     margin: 0 0 5px 0;
     flex: 20 0 20px;
 }
-
+*/
 /* H4 - Title beginning for complex parts */
 .md-typeset h4 {
     font-size: 0.80rem;
