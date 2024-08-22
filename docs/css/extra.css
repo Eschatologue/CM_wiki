@@ -12,12 +12,13 @@
 }
 
 .md-sidebar--primary {
-    font-size: 0.45rem;
-    width: 200px;
+    font-size: 0.4rem;
+    width: 225px;
   }
 
 .md-sidebar--secondary {
-    font-size: 0.45rem;
+    font-size: 0.4rem;
+    width: 225px;
 }
 
 .md-typeset strong {
