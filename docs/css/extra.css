@@ -31,7 +31,7 @@
 .md-typeset h1 {
     margin-top: -0.25em;
     margin-bottom: -6px;
-    font-weight: 350;
+    font-weight: 400;
 }
 
 /* H2 - Secondary Heading with border bottom */
@@ -53,13 +53,13 @@
 .md-typeset h3::after {
     content: ' ';
     border-bottom: 1.8px solid rgba(255, 255, 255, 0.15);
-    margin: 0 0 5px 0;
+    margin: 12px 0 5px 0;
     flex: 20 0 20px;
 }
 
 /* H4 - Title beginning for complex parts */
 .md-typeset h4 {
-    font-size: 0.80rem;
+    font-size: 0.65rem;
     margin-bottom: -0.5rem;
     font-weight: normal;
 }
