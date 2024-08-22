@@ -7,12 +7,17 @@
 .md-typeset {
     text-justify: auto;
     font-weight: 300;
-    font-size: 0.65rem;
+    font-size: 0.55rem;
     letter-spacing: 0.3px;
 }
 
+.md-sidebar--primary {
+    font-size: 0.45rem;
+    width: 200px;
+  }
+
 .md-sidebar--secondary {
-    font-size: 0.5rem;
+    font-size: 0.45rem;
 }
 
 .md-typeset strong {
@@ -123,10 +128,6 @@
 .md-grid {
     max-width: 95%; /* or 100%, if you want to stretch to full-width */
 }
-
-.md-sidebar--primary {
-    width: 200px;
-  }
 
 /* Color Classes */
 .darkslategray {
