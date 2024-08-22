@@ -1107,6 +1107,7 @@ The target takes an extra 1d6 Necrotic damage from the attack, and it must succe
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 1.
 
 ### Zephyr Strike
+
 *1st-level Transmutation*
   
 **Casting Time:** :rsc-bonus-action: **Bonus Action**  
