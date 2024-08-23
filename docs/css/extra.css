@@ -62,9 +62,9 @@
 
 /* H4 - Title beginning for complex parts */
 .md-typeset h4 {
-    font-size: 0.65rem;
+    font-size: 0.7rem;
     margin-bottom: -0.5rem;
-    font-weight: normal;
+    font-weight: 400;
 }
 
 /* H5 - Title beginning reserved for tables */
