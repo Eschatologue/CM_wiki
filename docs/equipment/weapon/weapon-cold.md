@@ -79,7 +79,7 @@ Martial weapons require more training to use effectively but offer greater damag
 | Crossbow, Hand | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 30/120), Light, Loading | [Vex] | 750 sp |
 | Crossbow, Heavy | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 100/400), Heavy, Loading, Two-handed | [Push] | 500 sp |
 | Repeating Crossbow, Heavy | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 90/360), Automatic (1), Heavy, Reload (4), Two-handed | [Push] | 700 sp |
-| Compound Bow | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 100/600), Heavy, Two-handed | [Slow] | 850 sp |
+| Compound Bow | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 100/400), Heavy, Two-handed | [Slow] | 850 sp |
 | Longbow | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 150/600), Heavy, Two-handed | [Slow] | 500 sp |
 
 ##### Ammunition

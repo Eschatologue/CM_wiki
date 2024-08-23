@@ -6,7 +6,7 @@ icon: weapon/rifle
 
 # Firearms
 
-Firearms are uncommon and challenging to use in Antares, often considered impractical and requiring specific prerequisites. Other weapons like bows, crossbows, or arcane staves are easier to use and cheaper, while cold steel weapons are much stronger.
+Firearms are uncommon and challenging to use in Antares, often considered impractical and requiring specific prerequisites and maintenance. Other weapons like bows, crossbows, or arcane staves are easier to use and cheaper, while cold steel weapons are much stronger.
 
 **Gun weapons**, shortened as **guns** and often referred to as **firearms**, are unique mid-range to long-range weapons that use a special explosive charge known as '**cordite**' to propel projectiles over long distances. These weapons were brought over by the Londoners and are used exclusively by their people.
 
@@ -104,6 +104,15 @@ Advanced firearms include rocket launchers, flamethrowers, machine guns, and oth
 - **Flamethrowers:** Ideal for clearing out entrenched enemies, flamethrowers spread fire over a wide area, causing continuous damage.
 - **Machine Guns:** Offering a high rate of sustained fire, machine guns are used to suppress enemy forces and provide heavy support during engagements.
 
+## Firearms Augmentation
 
+With the release of the 2024 edition of the Player's Handbook, all Cold Weapons gained new mechanics known as [Weapon Mastery](index.md#mastery-properties), allowing them to produce additional effects upon hitting a target. This mechanic reflects the wielder's mastery and skill in wielding such weapons. However, as noted earlier, the power of firearms comes from the weapon itself, not the strength or skill of the user. A user can be as strong as they wish, but they are ultimately limited by the weapon's inherent capabilities.
 
+To balance this, those who choose to wield firearms can now access a new mechanic called "Augmentations." These allow users to modify their weapons with various attachments, enabling them to personalise and enhance their firearms according to their preferences.
 
+#### Scope
+
+**Cost:** 500 SP  
+**Prerequisite:** No :weapon-prop-sighted: **Sighted** property, Short-arms or Long-arms  
+
+Adds the :weapon-prop-sighted: **Sighted** property to this weapon and increase its Range by 20 feet.

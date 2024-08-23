@@ -46,7 +46,7 @@ You can use a weapon that has the ammunition property to make a ranged attack on
 
 #### :weapon-prop-automatic:{ .lg } Automatic
 
-When you take the :d20-attack: **Attack** Action on your turn and attack with an Automatic weapon, you can make extra attacks up to the number in the parenthesis later on the same turn. That extra attack must be made with the ^^same weapon^^, and you don’t add your ability modifier to the extra attack’s damage, unless that modifier is negative.
+When you take the :d20-attack: **Attack** Action on your turn and attack with an Automatic weapon, you can make extra attacks up to the number in the parenthesis later on the same turn. That extra attack must be made with the ^^same weapon^^ provided the weapon has enough Ammunition for the attacks, and you don’t add your ability modifier to the extra attack’s damage, unless that modifier is negative.
 
 #### :weapon-prop-explosive:{ .lg } Explosive
 
@@ -94,7 +94,7 @@ If you make an attack against a target that is within half this weapon’s norma
 
 #### :weapon-prop-sighted:{ .lg } Sighted
 
-This weapon has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** made against targets within 20 feet.
+This weapon has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** made against targets within 20 feet and has :d20-adv: **Advantage** against target that has not moved at least 15 feet for this turn.
 
 #### :weapon-prop-thrown:{ .lg } Thrown
 
@@ -175,5 +175,7 @@ The adamantine version of a melee weapon or of ten pieces of ammunition costs 5,
 ### Silvered Weapons
 
 Some monsters that have immunity or resistance to nonmagical weapons are susceptible to silver weapons, so cautious adventurers invest extra coin to plate their weapons with silver. 
+
+&emsp; **Silvered.** Melee weapons and ammunition made of or coated with adamantine deals additional damage die.
 
 You can silver a single weapon or ten pieces of ammunition for 1,000 SP. This cost represents not only the price of the silver, but the time and expertise needed to add silver to the weapon without making it less effective.

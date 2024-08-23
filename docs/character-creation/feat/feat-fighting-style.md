@@ -93,9 +93,7 @@ While wielding a :weapon-prop-finesse: **Finesse** weapon and no other weapon, y
 
 *Fighting Style Feat - Homebrew*  
 
-When you hit an attack with a Cold Weapon using two hands, you treat a ^^total^^ roll of 5 or lower on the weapon's damage dice as a 6.
-
-The Weapon must have the :weapon-prop-heavy: **Heavy** property to gain this benefit.
+When you hit an attack with a Cold Weapon that has :weapon-prop-heavy: **Heavy** and :weapon-prop-two-handed: **Two-handed** property, you treat a ^^total^^ roll of 5 or lower on the weapon's damage dice as a 6.
 
 ### Protection
 
@@ -121,15 +119,17 @@ You specialise one weapon rather than many. Choose one weapon that you are Profi
 |:-:|:-:|:-:|:-:|:-:|:-:| 
 | 1 | >>> | 1d4 | 2d4 / 1d8 | >>> | 1d10 |
 | 1d4 | >>> | 1d6 | 1d10 | >>> | 1d12 |
-| 1d6 | >>> | 1d8 | 2d6 / 1d12 | >>> | 2d6 / 1d12 + 1 |
+| 1d6 | >>> | 1d8 | 2d6 / 1d12 | >>> | 2d6 / 1d12 + 1* |
 
 You can change your Signature Weapon when you gain a level in a class that has this feat.
+
+*When you hit an attack with this weapon, you can choose to roll either 2d6 or 1d12 and gain +1 bonus to its damage.
 
 ### Sniper
 
 *Fighting Style Feat - Homebrew*  
 
-Being Prone doesn’t impose :d20-disadv: **Disadvantage** on your ranged weapon attacks and attacking a Prone target doesn’t impose :d20-disadv: **Disadvantage** on your ranged weapon :d20-attack: **Attack Roll** if the target is within your weapon’s normal range.
+Being Prone doesn’t impose :d20-disadv: **Disadvantage** on your ranged weapon attacks and attacking targets with the Prone condition doesn’t impose :d20-disadv: **Disadvantage** on your ranged weapon :d20-attack: **Attack Roll** if the target is within your weapon’s normal range.
 
 ### Standard Bearer
 
@@ -141,7 +141,7 @@ When a creature within 5 feet of you makes an attack against a creature that you
 
 *Fighting Style Feat - Homebrew*
 
-You can use your Strength modifier, in place of Dexterity for attack and damage rolls with longbows, shortbows, and compound bow. When you do so, you gain +1 to damage rolls with those weapons.
+You can use your Strength modifier, in place of Dexterity for attack and damage rolls with Longbows, Shortbows, and Compound Bow. When you do so, you gain +1 to damage rolls with those weapons.
 
 Moreover, you also use your Strength instead of your Dexterity to fufill the :weapon-prop-heavy: **Heavy** weapon property requirement for those weapons.
 
