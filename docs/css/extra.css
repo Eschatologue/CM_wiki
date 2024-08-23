@@ -56,7 +56,7 @@
 .md-typeset h3::after {
     content: ' ';
     border-bottom: 1.8px solid rgba(255, 255, 255, 0.15);
-    margin: 0px 0px 6px 10px;
+    margin: 0px 0px 0px 10px;
     flex: 20 0 20px;
 }
 
