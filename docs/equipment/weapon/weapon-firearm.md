@@ -10,9 +10,7 @@ Firearms are uncommon and challenging to use in Antares, often considered imprac
 
 **Gun weapons**, shortened as **guns** and often referred to as **firearms**, are unique mid-range to long-range weapons that use a special explosive charge known as '**cordite**' to propel projectiles over long distances. These weapons were brought over by the Londoners and are used exclusively by their people.
 
-London, as the inventor of firearms, maintains tight control over their invention and production to prevent technology leakage and misuse. This tight control contributes to the exorbitant cost and difficulty of obtaining firearms, even through legitimate means. Furthermore, procuring the expensive and rare bullets adds to the impracticality of these weapons. However, British citizens with the proper permits can access firearms and ammunition either within London or at British Embassies located throughout Antares.
-
-##### Firearms Table
+##### Gun Weapon Table
 
 | name | damage | properties | cost |
 |---|---|---|--:|
@@ -22,8 +20,8 @@ London, as the inventor of firearms, maintains tight control over their inventio
 | ‎ ‎ ‎ ‎ Submachine Gun | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 40/90), Automatic (4), Reload (28), Two-handed | 3,500 sp |
 | ***Long-Arms*** | | | |
 | ‎ ‎ ‎ ‎ Rifle, Automatic | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 90/270), Automatic (3), Heavy, Reload (12), Two-handed | 6,500 sp |
-| ‎ ‎ ‎ ‎ Rifle, Marksmen | 2d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 180/550), Reload (8), Sighted, Two-handed | 8,000 sp |
-| ‎ ‎ ‎ ‎ Rifle, Semi-Auto | 2d4 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 120/320), Automatic (1), Heavy, Reload (6), Two-handed | 5,000 sp |
+| ‎ ‎ ‎ ‎ Rifle, Marksmen | 2d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 180/550), Heavy, Reload (6), Sighted, Two-handed | 8,000 sp |
+| ‎ ‎ ‎ ‎ Rifle, Semi-Auto | 2d4 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 120/320), Automatic (1), Heavy, Reload (8), Two-handed | 5,000 sp |
 | ‎ ‎ ‎ ‎ Shotgun, Over-under | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 30/50), Automatic (3), Heavy, Reload (2), Scatter(2d6), Two-handed, Special | 4,000 sp |
 | ‎ ‎ ‎ ‎ Shotgun, Pump | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 40/90), Automatic (3), Heavy, Reload (7), Scatter(1d12), Two-handed | 6,000 sp |
 | ***Advanced Firearms*** | | | |
@@ -98,6 +96,14 @@ Advanced firearms include rocket launchers, flamethrowers, machine guns, and oth
 With the release of the 2024 edition of the Player's Handbook, all Cold Weapons gained new mechanics known as [Weapon Mastery](index.md#mastery-properties), allowing them to produce additional effects upon hitting a target. This mechanic reflects the wielder's mastery and skill in wielding such weapons. However, as noted earlier, the power of firearms comes from the weapon itself, not the strength or skill of the user. A user can be as strong as they wish, but they are ultimately limited by the weapon's inherent capabilities.
 
 To balance this, those who choose to wield firearms can now access a new mechanic called "Augmentations." These allow users to modify their weapons with various attachments, enabling them to personalise and enhance their firearms according to their preferences.
+
+### Mechanics
+
+As the name suggest, firearms augmentations are only eligible to firearms that met the prerequisites. To make an augmentation to a firearms you few things:
+
+1. **Proficiency:** You need to be Proficient at a Firearms you want to Augment, you also need to have and proficient with Tinker Tools.
+2. **Time:** Augmenting a firearm takes time and can be usually be done as part of a Long Rest or you dedicate your time to augment said firearm during a Short Rest.
+3. **Silvers:** Adding a new augmentation to a firearm costs silvers, this cost represents the materials you need to acquire to make said augmentations to that one specific firearms types, once you make that augmentation, you always has it on you and don't need to expend additional silver to make a new one
 
 #### Scope
 
