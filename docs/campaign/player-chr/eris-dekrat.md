@@ -102,20 +102,20 @@ Once per turn when you make an attack that adds your Sneak Attack damage, you ca
 
 To be channeled this way, the spell must met the following requirements:
 
-      - The Sorcerer spell must have a casting time of an :rsc-action: **Action**.
-      - The Sorcerer spell must require only a single spell :d20-attack: **Attack Roll** or force its target to make a :d20-save: **Saving Throw**.
+- The Sorcerer spell must have a casting time of an :rsc-action: **Action**.
+- The Sorcerer spell must require only a single spell :d20-attack: **Attack Roll** or force its target to make a :d20-save: **Saving Throw**.
 
 If your attack misses, the spell fails and has no effect. On a hit, the spell takes effect immediately in addition of the normal effects and damage from your weapon attack, under the rules below:
 
-      - :aoe-rad: **Area of Effects.** If the spell targets an area greater than a 10 ft. :aoe-cube: cube, it takes effect as a 15 ft. :aoe-cone: cone originating from you, which must include your target. Alternatively, it can be contained to only affect the target of your attack (your choice). Using a ranged weapon, your spell is contained to only affect the target of your attack.
+- :aoe-rad: **Area of Effects.** If the spell targets an area greater than a 10 ft. :aoe-cube: cube, it takes effect as a 15 ft. :aoe-cone: cone originating from you, which must include your target. Alternatively, it can be contained to only affect the target of your attack (your choice). Using a ranged weapon, your spell is contained to only affect the target of your attack.
 
-      - :spell-level-0: **Cantrip.** The cantrip ^^does not deal damage^^. Instead, your weapon attack deals the damage type dealt by the cantrip, and applies the cantrip additional effects on hit, except for damage.
+- :spell-level-0: **Cantrip.** The cantrip ^^does not deal damage^^. Instead, your weapon attack deals the damage type dealt by the cantrip, and applies the cantrip additional effects on hit, except for damage.
 
-      - :spell-concentration: **Concentration.** If the spell requires your concentration, you must concentrate on it as soon as it takes effect on hit.
+- :spell-concentration: **Concentration.** If the spell requires your concentration, you must concentrate on it as soon as it takes effect on hit.
 
-      - :d20-save: **Saving Throws.** If the spell requires a :d20-save: **Saving Throw** when cast, the target makes the first **Save** at a :d20-disadv: **Disadvantage** on hit. If you score a Critical Hit on the attack, the target automatically fails its :d20-save: **Saving Throw**. Other target (if any) make this **Save** as normal.
+- :d20-save: **Saving Throws.** If the spell requires a :d20-save: **Saving Throw** when cast, the target makes the first **Save** at a :d20-disadv: **Disadvantage** on hit. If you score a Critical Hit on the attack, the target automatically fails its :d20-save: **Saving Throw**. Other target (if any) make this **Save** as normal.
 
-      - :d20-attack: **Spell Attacks.** If the spell requires a spell :d20-attack: **Attack Roll**, it instantly take effect when you hit with a weapon attack.
+- :d20-attack: **Spell Attacks.** If the spell requires a spell :d20-attack: **Attack Roll**, it instantly take effect when you hit with a weapon attack.
 
 ## Level 3: Spellbreaker’s Mark
 
@@ -123,9 +123,9 @@ You learn the [Hunter's Mark] spell. You can expend one use of your Clairvoyance
 
 Moroever, you gain additional benefits against your Quarry:
 
-      - You learn your Quarry spellcasting ability (Intelligence, Wisdom, or Charisma), if any, and the level of the highest level spell it can cast.
-      - Your Quarry has :d20-disadv: **Disadvantage** on Concentration Checks against your attacks.
-      - You gain an additional way to use your Sneak Attack: You can add your Sneak Attack damage the damage roll on your weapon attack against your Quarry as long as you don't have :d20-disadv: **Disadvantage** on the attack. 
+- You learn your Quarry spellcasting ability (Intelligence, Wisdom, or Charisma), if any, and the level of the highest level spell it can cast.
+- Your Quarry has :d20-disadv: **Disadvantage** on Concentration Checks against your attacks.
+- You gain an additional way to use your Sneak Attack: You can add your Sneak Attack damage the damage roll on your weapon attack against your Quarry as long as you don't have :d20-disadv: **Disadvantage** on the attack. 
 
 ## Level 5: The People’s Eyebrow
 
