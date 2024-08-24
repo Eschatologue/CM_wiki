@@ -10,6 +10,8 @@ Firearms are uncommon and challenging to use in Antares, often considered imprac
 
 **Gun weapons**, shortened as **guns** and often referred to as **firearms**, are unique mid-range to long-range weapons that use a special explosive charge known as '**cordite**' to propel projectiles over long distances. These weapons were brought over by the Londoners and are used exclusively by their people.
 
+***Main Article:** [Firearms](../../lore/entry/firearms.md)*
+
 ##### Gun Weapon Table
 
 | name | damage | properties | cost |
