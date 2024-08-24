@@ -20,7 +20,7 @@ List of Firearms that you can possibly find in this world:
 
 | name | damage | properties | cost |
 |---|---|---|--:|
-| Pistol, Revolver | 1d12 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 60/180), Reload (6) | 2,500 sp |
+| ‎ Pistol, Revolver | 1d12 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 60/180), Reload (6) | 2,500 sp |
 | Pistol, Semi-Auto | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 60/180), Automatic (2), Light, Reload (7) | 3,000 sp |
 | Submachine Gun | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 40/90), Automatic (4), Reload (28), Two-handed | 3,500 sp |
 
