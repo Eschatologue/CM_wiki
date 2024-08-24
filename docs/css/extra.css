@@ -150,8 +150,8 @@
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
     font-size: 0.55rem;
-    padding-left: 8px;
-    padding-right: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
     border-bottom: rgba(255, 255, 255, 0.12);
     background-color: rgba(255, 255, 255, 0.025);
     min-width: 1px;
