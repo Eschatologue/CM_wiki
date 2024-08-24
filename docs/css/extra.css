@@ -71,9 +71,9 @@
 .md-typeset h5 {
     font-variant: normal;
     text-transform: capitalize;
-    font-size: 0.5rem;
+    font-size: 0.6rem;
     font-weight: 450;
-    margin-bottom: 2px;
+    margin-bottom: -2px;
 }
 
 /* Main Theme Colour */
