@@ -1,6 +1,6 @@
-# The Ironhelm War
+# Dwarvish-London War
 
-**The Ironhelm War** or also called **The Great War** was a significant conflict between the technologically advanced forces of London and the dwarven kingdom of Myrkheim in Antares. Initially beginning as a series of skirmishes, the war escalated into a full-scale conflict that ultimately resulted in London’s decisive victory.
+**The Dwarvish-London War** or also called **The Great War** was a significant conflict between the Union of Britain (London) and the Republic of Myrkheim in Antares. Initially beginning as a series of skirmishes, the war escalated into a full-scale conflict that ultimately resulted in London’s decisive victory.
 
 ## Background
 
@@ -10,7 +10,7 @@ While Myrkheim relied on the well-established combat tactics and robust defences
 
 ## Course of the War
 
-As the conflict progressed, London’s military sophistication became increasingly evident. Their use of mechanised infantry, armoured vehicles, and mobile factories capable of producing weapons and supplies on the battlefield provided them with a strategic advantage. In contrast, Myrkheim’s traditional tactics and defences, while formidable, were ill-equipped to counter the sheer scale and coordination of London’s war effort.
+As the conflict progressed, London’s military sophistication became increasingly evident. Their use of mechanised infantry, armoured vehicles, and mobile factories capable of producing weapons and supplies on the battlefield provided them with a strategic advantage. In contrast, Myrkheim’s conventional tactics and defences, while formidable, were ill-equipped to counter the sheer scale and coordination of London’s war effort.
 
 London’s forces, characterised by their mobility and overwhelming firepower, systematically dismantled Myrkheim’s defences. The dwarves, despite their combat experience, struggled to adapt to the rapid advances and logistical efficiency demonstrated by London’s military.
 
@@ -22,6 +22,6 @@ However, in response, London deployed an experimental weapon called **Project Tu
 
 ## Aftermath
 
-The Ironhelm War concluded with the surrender of Myrkheim, marking a significant shift in the balance of power in Antares. London’s victory underscored the effectiveness of industrialised warfare, setting a new standard for military conflict on the continent.
+The Dwarvish-London War concluded with the surrender of Myrkheim, marking a significant shift in the balance of power in Antares. London’s victory underscored the effectiveness of industrialised warfare, setting a new standard for military conflict on the continent.
 
 For Myrkheim, the war led to a period of reflection and rebuilding. The defeat highlighted the limitations of their traditional strategies in the face of London’s technological superiority. The broader impact of the Ironhelm War was felt across Antares, as other nations observed the transformative potential of London’s approach to warfare, signalling the beginning of a new era in the region’s history.
