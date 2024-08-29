@@ -2,6 +2,10 @@
 icon: material/currency-fra
 ---
 
+!!! homebrew "This is a Homebrew Mechanic!"
+
+    You just stumbled into a Homebrew mechanic! This game material is made by me! I just hate tracking different currencies.
+
 # The Silver Standard
 
 Long before London ascended to prominence, before Antares was shattered by the Second Warp Maelstorm, and before Abberations prowled the lands, Gallia stood as the very visage of Antares. Its dominion stretched across nearly half the continent, with its capital, Lyon, pulsating as the heart of the entire realm.
