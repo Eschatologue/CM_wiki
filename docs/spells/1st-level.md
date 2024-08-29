@@ -6,7 +6,7 @@ icon: spell/level-1
 
 ### Absorb Elements
 
-*1st-level Abjuration*
+*Level 1 - Abjuration*
   
 **Casting Time:** :rsc-reaction: **Reaction**, which you take when you take acid, cold, fire, lightning, or thunder damage  
 **Range:** Self  
@@ -15,11 +15,11 @@ icon: spell/level-1
 
 The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage of the triggering type, and the spell ends.
 
-***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st.
+***Using a Higher-Level Spell Slot.*** The extra damage increases by 1d6 for each slot level above 1st.
 
 ### Alarm
 
-*1st-level Abjuration (ritual)*
+*Level 1 - Abjuration (ritual)*
   
 **Casting Time:** 1 minute  
 **Range:** 30 feet  
@@ -34,7 +34,7 @@ An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet
 
 ### Animal Friendship
 
-*1st-level Enchantment*
+*Level 1 - Enchantment*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 30 feet  
@@ -47,7 +47,7 @@ This spell lets you convince a beast that you mean it no harm. Choose a beast th
 
 ### Armor of Agathys
 
-*1st-level Abjuration*
+*Level 1 - Abjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self  
@@ -60,7 +60,7 @@ Protective magical frost surrounds you. You gain 5 Temporary Hit Points. If a cr
 
 ### Arms of Hadar
 
-*1st-level Conjuration*
+*Level 1 - Conjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self (10-foot radius)  
@@ -69,11 +69,11 @@ Protective magical frost surrounds you. You gain 5 Temporary Hit Points. If a cr
 
 You invoke the power of Hadar, the Dark Hunger. Tendrils of dark energy erupt from you and batter all creatures within 10 feet of you. Each creature in that area must make a Strength :d20-save: **Saving Throw**. On a failed save, a target takes 2d6 necrotic damage and can't take reactions until its next turn. On a successful save, the creature takes half damage, but suffers no other effect.
 
-***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each slot level above 1st.
 
 ### Bane
 
-*1st-level Enchantment*
+*Level 1 - Enchantment*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 30 feet  
@@ -86,7 +86,7 @@ Up to three creatures of your choice that you can see within range must each mak
 
 ### Beast Bond
 
-*1st-level Divination*
+*Level 1 - Divination*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Touch  
@@ -97,7 +97,7 @@ You establish a telepathic link with one beast you touch that is friendly to you
 
 ### Bless
 
-*1st-level Enchantment*
+*Level 1 - Enchantment*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 30 feet  
@@ -110,7 +110,7 @@ You bless up to three creatures of your choice within range. Whenever a target m
 
 ### Burning Hands
 
-*1st-level Evocation*
+*Level 1 - Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self (15-foot cone)  
@@ -121,11 +121,11 @@ As you hold your hands with thumbs touching and fingers spread, a thin sheet of 
 
 The fire ignites any flammable objects in the area that aren't being worn or carried.
 
-***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each slot level above 1st.
 
 ### Catapult
 
-*1st-level Transmutation*
+*Level 1 - Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -134,11 +134,11 @@ The fire ignites any flammable objects in the area that aren't being worn or car
 
 Choose one object weighing 1 to 5 pounds within range that isn't being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, that creature must make a Dexterity :d20-save: **Saving Throw**. On a failed save, the object strikes the target and stops moving. When the object strikes something, the object and what it strikes each take 3d8 bludgeoning damage.
 
-***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the maximum weight of objects that you can target with this spell increases by 5 pounds, and the damage increases by 1d8, for each slot level above 1st.
+***Using a Higher-Level Spell Slot.*** The maximum weight of objects that you can target with this spell increases by 5 pounds, and the damage increases by 1d8, for each slot level above 1st.
 
 ### Cause Fear
 
-*1st-level Necromancy*
+*Level 1 - Necromancy*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -151,7 +151,7 @@ You awaken the sense of mortality in one creature you can see within range. A co
 
 ### Ceremony
 
-*1st-level Abjuration (ritual)*
+*Level 1 - Abjuration (ritual)*
   
 **Casting Time:** 1 hour  
 **Range:** Touch  
@@ -174,7 +174,7 @@ You perform a special religious ceremony that is infused with magic. When you ca
 
 ### Chaos Bolt
 
-*1st-level Evocation*
+*Level 1 - Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 120 feet  
@@ -203,7 +203,7 @@ A creature can be targeted only once by each casting of this spell.
 
 ### Charm Person
 
-*1st-level Enchantment*
+*Level 1 - Enchantment*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 30 feet  
@@ -216,7 +216,7 @@ You attempt to charm a humanoid you can see within range. It must make a Wisdom 
 
 ### Chromatic Orb
 
-*1st-level Evocation*
+*Level 1 - Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 90 feet  
@@ -231,7 +231,7 @@ If you roll the same number on two or more of the d8s, the orb leaps to a differ
 
 ### Color Spray
 
-*1st-level Illusion*
+*Level 1 - Illusion*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self
@@ -244,7 +244,7 @@ You launch a dazzling array of flashing, colorful light. Each creature in a 15-f
 
 ### Command
 
-*1st-level Enchantment*
+*Level 1 - Enchantment*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -269,7 +269,7 @@ Some typical commands and their effects follow. You might issue a command other 
 
 ### Compelled Duel
 
-*1st-level Enchantment*
+*Level 1 - Enchantment*
   
 **Casting Time:** :rsc-bonus-action: **Bonus Action**  
 **Range:** 30 feet  
@@ -282,7 +282,7 @@ The spell ends if you attack any other creature, if you cast a spell that target
 
 ### Comprehend Languages
 
-*1st-level Divination (ritual)*
+*Level 1 - Divination (ritual)*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self  
@@ -295,7 +295,7 @@ This spell doesn't decode secret messages in a text or a glyph, such as an arcan
 
 ### Create or Destroy Water
 
-*1st-level Transmutation*
+*Level 1 - Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 30 feet  
@@ -312,7 +312,7 @@ You either create or destroy water.
 
 ### Cure Wounds
 
-*1st-level Abjuration*
+*Level 1 - Abjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Touch  
@@ -325,7 +325,7 @@ A creature you touch regains a number of Hit Points equal to 2d8 plus your spell
 
 ### Detect Evil and Good
 
-*1st-level Divination*
+*Level 1 - Divination*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self  
@@ -338,7 +338,7 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 
 ### Detect Magic
 
-*1st-level Divination (ritual)*
+*Level 1 - Divination (ritual)*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self  
@@ -351,7 +351,7 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 
 ### Detect Poison and Disease
 
-*1st-level Divination (ritual)*
+*Level 1 - Divination (ritual)*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self  
@@ -364,7 +364,7 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 
 ### Disguise Self
 
-*1st-level Illusion*
+*Level 1 - Illusion*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self  
@@ -379,7 +379,7 @@ To discern that you are disguised, a creature can use its action to inspect your
 
 ### Dissonant Whispers
 
-*1st-level Enchantment*
+*Level 1 - Enchantment*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -388,11 +388,11 @@ To discern that you are disguised, a creature can use its action to inspect your
 
 You whisper a discordant melody that only one creature of your choice within range can hear, wracking it with terrible pain. The target must make a Wisdom :d20-save: **Saving Throw**. On a failed save, it takes 3d6 psychic damage and must immediately use its reaction, if available, to move as far as its speed allows away from you. The creature doesn't move into obviously dangerous ground, such as a fire or a pit. On a successful save, the target takes half as much damage and doesn't have to move away. A deafened creature automatically succeeds on the save.
 
-***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each slot level above 1st.
 
 ### Distort Value
 
-*1st-level Illusion*
+*Level 1 - Illusion*
   
 **Casting Time:** 1 minute  
 **Range:** Touch  
@@ -403,11 +403,11 @@ Do you need to squeeze a few more gold pieces out of a merchant as you try to se
 
 You cast this spell on an object no more than 1 foot on a side, doubling the object's perceived value by adding illusory flourishes or polish to it, or reducing its perceived value by half with the help of illusory scratches, dents, and other unsightly features. Anyone examining the object can ascertain its true value with a successful Intelligence (Investigation) check against your spell save DC.
 
-***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the maximum size of the object increases by 1 foot for each slot level above 1st.
+***Using a Higher-Level Spell Slot.*** The maximum size of the object increases by 1 foot for each slot level above 1st.
 
 ### Divine Favor
 
-*1st-level Evocation*
+*Level 1 - Evocation*
   
 **Casting Time:** :rsc-bonus-action: **Bonus Action**  
 **Range:** Self  
@@ -431,7 +431,7 @@ As you hit the target, your strike glows with divine power. The target takes an 
 
 ### Earth Tremor
 
-*1st-level Evocation*
+*Level 1 - Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 10 feet  
@@ -440,11 +440,11 @@ As you hit the target, your strike glows with divine power. The target takes an 
 
 You cause a tremor in the ground within range. Each creature other than you in that area must make a Dexterity :d20-save: **Saving Throw**. On a failed save, a creature takes 1d6 bludgeoning damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared, with each 5-foot-diameter portion requiring at least 1 minute to clear by hand.
 
-***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each slot level above 1st.
 
 ### Ensnaring Strike
 
-*1st-level Conjuration*
+*Level 1 - Conjuration*
   
 **Casting Time:** :rsc-bonus-action: **Bonus Action**, which you take immediately after hitting a target with a weapon  
 **Range:** Self  
@@ -459,7 +459,7 @@ While Restrained, the target takes 1d6 Piercing damage at the start of each of i
 
 ### Entangle
 
-*1st-level Conjuration*
+*Level 1 - Conjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 90 feet  
@@ -474,7 +474,7 @@ When the spell ends, the conjured plants wilt away.
 
 ### Expeditious Retreat
 
-*1st-level Transmutation*
+*Level 1 - Transmutation*
   
 **Casting Time:** :rsc-bonus-action: **Bonus Action**  
 **Range:** Self  
@@ -485,7 +485,7 @@ This spell allows you to move at an incredible pace. When you cast this spell, a
 
 ### Faerie Fire
 
-*1st-level Evocation*
+*Level 1 - Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -498,7 +498,7 @@ Any :d20-attack: **Attack Roll** against an affected creature or object has :d20
 
 ### False Life
 
-*1st-level Necromancy*
+*Level 1 - Necromancy*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self  
@@ -511,7 +511,7 @@ You gain 2d4 + 4 Temporary Hit Points.
 
 ### Feather Fall
 
-*1st-level Transmutation*
+*Level 1 - Transmutation*
   
 **Casting Time:** :rsc-reaction: **Reaction**, which you take when you or a creature within 60 feet of you falls  
 **Range:** 60 feet  
@@ -522,7 +522,7 @@ Choose up to five falling creatures within range. A falling creature's rate of d
 
 ### Find Familiar
 
-*1st-level Conjuration (ritual)*
+*Level 1 - Conjuration (ritual)*
   
 **Casting Time:** 1 hour  
 **Range:** 10 feet  
@@ -544,7 +544,7 @@ You can't have more than one familiar at a time. If you cast this spell while yo
 Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell. Your familiar must be within 100 feet of you, and it must use its :rsc-reaction: **Reaction** to deliver the spell when you cast it. If the spell requires an :d20-attack: **Attack Roll**, you use your attack modifier for the roll.
 
 ### Fog Cloud
-*1st-level Conjuration*
+*Level 1 - Conjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 120 feet  
@@ -553,10 +553,10 @@ Finally, when you cast a spell with a range of touch, your familiar can deliver 
 
 You create a 20-foot-radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 
-***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the radius of the fog increases by 20 feet for each slot level above 1st.
+***Using a Higher-Level Spell Slot.*** The radius of the fog increases by 20 feet for each slot level above 1st.
 
 ### Frost Fingers
-*1st-level Evocation*
+*Level 1 - Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self (15-foot cone)  
@@ -567,10 +567,10 @@ Freezing cold blasts from your fingertips in a 15-foot cone. Each creature in th
 
 The cold freezes nonmagical liquids in the area that aren't being worn or carried.
 
-***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each slot level above 1st.
 
 ### Gift of Alacrity
-*1st-level Divination*
+*Level 1 - Divination*
 
 **Casting Time:** 1 minute  
 **Range:** Touch  
@@ -580,7 +580,7 @@ The cold freezes nonmagical liquids in the area that aren't being worn or carrie
 You touch a willing creature. For the duration, the target can add 1d8 to its initiative rolls.
 
 ### Goodberry
-*1st-level Transmutation*
+*Level 1 - Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Touch  
@@ -592,7 +592,7 @@ Up to ten berries appear in your hand and are infused with magic for the duratio
 The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.
 
 ### Grease
-*1st-level Conjuration*
+*Level 1 - Conjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -605,7 +605,7 @@ When the grease appears, each creature standing in its area must succeed on a De
 
 ### Guiding Bolt
 
-*1st-level Evocation*
+*Level 1 - Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 120 feet  
@@ -614,11 +614,11 @@ When the grease appears, each creature standing in its area must succeed on a De
 
 A flash of light streaks toward a creature of your choice within range. Make a ranged spell attack against the target. On a hit, the target takes 4d6 radiant damage, and the next :d20-attack: **Attack Roll** made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.
 
-***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each slot level above 1st.
 
 ### Hail of Thorns
 
-*1st-level Conjuration*
+*Level 1 - Conjuration*
   
 **Casting Time:** :rsc-bonus-action: **Bonus Action**, which you take immediately after hitting a creature with a Ranged weapon  
 **Range:** Self  
@@ -631,7 +631,7 @@ As you hit the creature, this spell creates a rain of thorns that sprouts from y
 
 ### Healing Word
 
-*1st-level Abjuration*
+*Level 1 - Abjuration*
   
 **Casting Time:** :rsc-bonus-action: **Bonus Action**  
 **Range:** 60 feet  
@@ -644,7 +644,7 @@ A creature of your choice that you can see within range regains Hit Points equal
 
 ### Hellish Rebuke
 
-*1st-level Evocation*
+*Level 1 - Evocation*
   
 **Casting Time:** :rsc-reaction: **Reaction**, which you take in response to being damaged by a creature within 60 feet of you that you can see  
 **Range:** 60 feet  
@@ -657,7 +657,7 @@ The creature that damaged you is momentarily surrounded by green flames. It make
 
 ### Heroism
 
-*1st-level Enchantment*
+*Level 1 - Enchantment*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Touch  
@@ -670,7 +670,7 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 
 ### Hex
 
-*1st-level Enchantment*
+*Level 1 - Enchantment*
   
 **Casting Time:** :rsc-bonus-action: **Bonus Action**  
 **Range:** 90 feet  
@@ -683,7 +683,7 @@ You place a curse on a creature that you can see within range. Until the spell e
 
 ### Hunter's Mark
 
-*1st-level Divination*
+*Level 1 - Divination*
   
 **Casting Time:** :rsc-bonus-action: **Bonus Action**  
 **Range:** 90 feet  
@@ -696,7 +696,7 @@ You choose one creature you can see within range and magically mark it as your ^
 
 ### Ice Knife
 
-*1st-level Conjuration*
+*Level 1 - Conjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -705,11 +705,11 @@ You choose one creature you can see within range and magically mark it as your ^
 
 You create a shard of ice and fling it at one creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 piercing damage. Hit or miss, the shard then explodes. The target and each creature within 5 feet of it must succeed on a Dexterity :d20-save: **Saving Throw** or take 2d6 cold damage.
 
-***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the cold damage increases by 1d6 for each slot level above 1st.
+***Using a Higher-Level Spell Slot.*** The cold damage increases by 1d6 for each slot level above 1st.
 
 ### Identify
 
-*1st-level Divination (ritual)*
+*Level 1 - Divination (ritual)*
   
 **Casting Time:** 1 minute  
 **Range:** Touch  
@@ -722,7 +722,7 @@ If you instead touch a creature throughout the casting, you learn what spells, i
 
 ### Illusory Script
 
-*1st-level Illusion (ritual)*
+*Level 1 - Illusion (ritual)*
   
 **Casting Time:** 1 minute  
 **Range:** Touch  
@@ -739,7 +739,7 @@ A creature with truesight can read the hidden message.
 
 ### Inflict Wounds
 
-*1st-level Necromancy*
+*Level 1 - Necromancy*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Touch  
@@ -748,11 +748,11 @@ A creature with truesight can read the hidden message.
 
 A creature you touch makes a Constitution saving throw, taking 2d10 Necrotic damage on a failed save or half as much damage on a successful one.
 
-***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d10 for each slot level above 1st.
 
 ### Jim's Magic Missile
 
-*1st-level Evocation*
+*Level 1 - Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 120 feet  
@@ -767,11 +767,11 @@ You create three twisting, whistling, hypoallergenic, gluten-free darts of magic
 
 If the :d20-attack: **Attack Roll** scores a Critical Hit, the target of that missile takes 5d4 force damage instead of you rolling damage twice for a Critical Hit. If the :d20-attack: **Attack Roll** for any missile is a 1, all missiles miss their targets and blow up in your face, dealing 1 force damage per missile to you.
 
-***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the spell creates one more dart, and the royalty component increases by 1 gp, for each slot level above 1st.
+***Using a Higher-Level Spell Slot.*** The spell creates one more dart, and the royalty component increases by 1 gp, for each slot level above 1st.
 
 ### Jump
 
-*1st-level Transmutation*
+*Level 1 - Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Touch  
@@ -784,7 +784,7 @@ You touch a willing creature. Once on each of its turns until the spell ends, th
 
 ### Longstrider
 
-*1st-level Transmutation*
+*Level 1 - Transmutation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Touch  
@@ -797,7 +797,7 @@ You touch a creature. The target's speed increases by 10 feet until the spell en
 
 ### Mage Armour
 
-*1st-level Abjuration*
+*Level 1 - Abjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Touch  
@@ -808,7 +808,7 @@ You touch a willing creature who isn't wearing armor, and a protective magical f
 
 ### Magic Missile
 
-*1st-level Evocation*
+*Level 1 - Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 120 feet  
@@ -817,11 +817,11 @@ You touch a willing creature who isn't wearing armor, and a protective magical f
 
 You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
 
-***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the spell creates one more dart for each slot level above 1st.
+***Using a Higher-Level Spell Slot.*** The spell creates one more dart for each slot level above 1st.
 
 ### Magnify Gravity
 
-*1st-level Transmutation*
+*Level 1 - Transmutation*
 
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -832,11 +832,11 @@ The gravity in a 10-foot-radius sphere centered on a point you can see within ra
 
 Until the start of your next turn, any object that isn't being worn or carried in the sphere requires a successful Strength check against your spell save DC to pick up or move.
 
-***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each slot level above 1st.
 
 ### Protection from Evil and Good
 
-*1st-level Abjuration*
+*Level 1 - Abjuration*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Touch  
@@ -849,7 +849,7 @@ The protection grants several benefits. Creatures of those types have :d20-disad
 
 ### Purify Food and Drink
 
-*1st-level Transmutation (ritual)*
+*Level 1 - Transmutation (ritual)*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 10 feet  
@@ -860,7 +860,7 @@ All nonmagical food and drink within a 5-foot-radius sphere centered on a point 
 
 ### Ray of Sickness
 
-*1st-level Necromancy*
+*Level 1 - Necromancy*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -873,7 +873,7 @@ You shoot a greenish ray at a creature within range. Make a ranged spell attack 
 
 ### Sanctuary
 
-*1st-level Abjuration*
+*Level 1 - Abjuration*
   
 **Casting Time:** :rsc-bonus-action: **Bonus Action**  
 **Range:** 30 feet  
@@ -886,7 +886,7 @@ If the warded creature makes an attack, casts a spell that affects an enemy, or 
 
 ### Searing Smite
 
-*1st-level Evocation*
+*Level 1 - Evocation*
   
 **Casting Time:** :rsc-bonus-action: **Bonus Action**, which you take immediately after hitting a target with a Melee weapon or an Unarmed Strike  
 **Range:** Self  
@@ -895,11 +895,11 @@ If the warded creature makes an attack, casts a spell that affects an enemy, or 
 
 As you hit the target, it takes an extra 1d6 Fire damage from the attack. At the start of each of its turns until the spell ends, the target takes 1d6 Fire damage and then makes a Constitution saving throw. On a failed save, the spell continues. On a successful save, the spell ends.
 
-***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the initial extra damage dealt by the attack increases by 1d6 for each slot level above 1st.
+***Using a Higher-Level Spell Slot.*** The initial extra damage dealt by the attack increases by 1d6 for each slot level above 1st.
 
 ### Shield
 
-*1st-level Abjuration*
+*Level 1 - Abjuration*
   
 **Casting Time:** :rsc-reaction: **Reaction**, which you take when you are hit by an attack or targeted by the [Magic Missile](#magic-missile) spell  
 **Range:** Self  
@@ -910,7 +910,7 @@ An invisible barrier of magical force appears and protects you. Until the start 
 
 ### Shield of Faith
 
-*1st-level Abjuration*
+*Level 1 - Abjuration*
   
 **Casting Time:** :rsc-bonus-action: **Bonus Action**  
 **Range:** 60 feet  
@@ -921,7 +921,7 @@ A shimmering field appears and surrounds a creature of your choice within range,
 
 ### Silent Image
 
-*1st-level Illusion*
+*Level 1 - Illusion*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -936,7 +936,7 @@ Physical interaction with the image reveals it to be an Illusion, because things
 
 ### Silvery Barbs
 
-*1st-level Enchantment*
+*Level 1 - Enchantment*
   
 **Casting Time:** :rsc-reaction: **Reaction**, which you take when a creature you can see within 60 feet of yourself succeeds on an :d20-attack: **Attack Roll**, an :d20-check: **Ability Check**, or a :d20-save: **Saving Throw**  
 **Range:** 60 feet  
@@ -949,7 +949,7 @@ You can then choose a different creature you can see within range (you can choos
 
 ### Sleep
 
-*1st-level Enchantment*
+*Level 1 - Enchantment*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 90 feet  
@@ -966,7 +966,7 @@ Undead and creatures immune to being charmed aren't affected by this spell.
 
 ### Snare
 
-*1st-level Abjuration*
+*Level 1 - Abjuration*
   
 **Casting Time:** 1 minute  
 **Range:** Touch  
@@ -985,7 +985,7 @@ After the trap is triggered, the spell ends when no creature is restrained by it
 
 ### Speak with Animals
 
-*1st-level Divination (ritual)*
+*Level 1 - Divination (ritual)*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self  
@@ -996,7 +996,7 @@ You gain the ability to comprehend and verbally communicate with beasts for the 
 
 ### Tasha's Caustic Brew
 
-*1st-level Evocation*
+*Level 1 - Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self (30-foot line)  
@@ -1005,11 +1005,11 @@ You gain the ability to comprehend and verbally communicate with beasts for the 
 
 A stream of acid emanates from you in a line 30 feet long and 5 feet wide in a direction you choose. Each creature in the line must succeed on a Dexterity :d20-save: **Saving Throw** or be covered in acid for the spell's duration or until a creature uses its action to scrape or wash the acid off itself or another creature. A creature covered in the acid takes 2d4 acid damage at start of each of its turns.
 
-***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 2d4 for each slot level above 1st.
+***Using a Higher-Level Spell Slot.*** The damage increases by 2d4 for each slot level above 1st.
 
 ### Tasha's Hideous Laughter
 
-*1st-level Enchantment*
+*Level 1 - Enchantment*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 30 feet  
@@ -1022,7 +1022,7 @@ At the end of each of its turns, and each time it takes damage, the target can m
 
 ### Tenser's Floating Disk
 
-*1st-level Conjuration (ritual)*
+*Level 1 - Conjuration (ritual)*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 30 feet  
@@ -1037,7 +1037,7 @@ If you move more than 100 feet from the disk (typically because it can't move ar
 
 ### Thunderous Smite
 
-*1st-level Evocation*
+*Level 1 - Evocation*
   
 **Casting Time:** :rsc-bonus-action: **Bonus Action**, which you take immediately after hitting a target with a Melee weapon or an Unarmed Strike  
 **Range:** Self  
@@ -1050,7 +1050,7 @@ Your strike rings with thunder that is audible within 300 feet of you, and the t
 
 ### Thunderwave
 
-*1st-level Evocation*
+*Level 1 - Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** Self (15-foot cube)  
@@ -1061,11 +1061,11 @@ A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube 
 
 In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.
 
-***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each slot level above 1st.
 
 ### Unseen Servant
 
-*1st-level Conjuration (ritual)*
+*Level 1 - Conjuration (ritual)*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 60 feet  
@@ -1080,7 +1080,7 @@ If you command the servant to perform a task that would move it more than 60 fee
 
 ### Witch Bolt
 
-*1st-level Evocation*
+*Level 1 - Evocation*
   
 **Casting Time:** :rsc-action: **Action**  
 **Range:** 30 feet  
@@ -1095,7 +1095,7 @@ On each of your subsequent turns, you can take a Bonus Action to deal 1d12 Light
 
 ### Wrathful Smite
 
-*1st-level Necromancy*
+*Level 1 - Necromancy*
   
 **Casting Time:** :rsc-bonus-action: **Bonus Action**, which you take immediately after hitting a target with a Melee weapon or an Unarmed Strike  
 **Range:** Self  
@@ -1108,7 +1108,7 @@ The target takes an extra 1d6 Necrotic damage from the attack, and it must succe
 
 ### Zephyr Strike
 
-*1st-level Transmutation*
+*Level 1 - Transmutation*
   
 **Casting Time:** :rsc-bonus-action: **Bonus Action**  
 **Range:** Self  
