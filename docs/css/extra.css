@@ -22,9 +22,8 @@
     margin-bottom: 8px;
 }
 
-.md-typeset ul, .md-typeset li {
+ul, li {
     margin-top: 0px;
-    padding-top: 2px;
 }
 
 .md-typeset strong {
