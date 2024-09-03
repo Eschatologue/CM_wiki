@@ -98,20 +98,8 @@ You gain the aspect of Antares’ primordial Paths, you can either choose from t
 
 You learn a series of techniques called "John's Signatures" that can be applied on hit when you forgo the :d20-adv: **Advantage** granted by *Reckless Attack* while ^^Primordial Conflagaration^^ is active. 
 
-&emsp; **Extra Damage** When you use a Technique, it deals extra :dmg-fire: **Fire** damage equals to ^^Primordial Conflagaration^^ damage die at your current level.
+**Extra Damage.** When you use a Technique, it deals extra :dmg-fire: **Fire** damage equals to ^^Primordial Conflagaration^^ damage die at your current level.
 
-&emsp; **Saving Throw.** When a Technique requires a :d20-save: **Saving Throw**, the DC is equals 8 + Constitution Modifier + Proficiency Bonus.
+**Saving Throw.** When a Technique requires a :d20-save: **Saving Throw**, the DC is equals 8 + Constitution Modifier + Proficiency Bonus.
 
-&emsp; **Technique Known.** You learn 2 techniques of your choice from the Technique Options section. You learn an additonal Techniquewhen you reach Barbarian level 11, and 14. Each time you learn new Technique, you can also replace one Technique you know with a different one.
-
----
-
-- **John's Jawbreaker:** The target must succeed a :d20-save: Constitution **Saving Throw**, or it becomes **Stunned** until the end of your next turn.
-
-- **John's Joust:** You instantly move up to 30 feet in a straight line without provoking opportunity attack. Any creatures that you pass must succeed on a Dexterity :d20-save: **Saving Throw** or take :dmg-fire: **Fire** damage equals to half of your total weapon damage.
-
-- **John's Jettison:** The target must succeed a Strength :d20-save: **Saving Throw**, or it is pushed 15 ft and becomes **Prone**.
-
-- **John's Judgement:** You cause a 15 ft. :aoe-cone: cone explosion originating from the target and away from you. Each creature, excluding the target within the affected area must succeed a Dexterity :d20-save: **Saving Throw** or it takes :dmg-fire: **Fire** damage equals to your total weapon damage on that hit, or half as much on a successful save.
-
-- **John's Juggernaught:** The target is pushed 15 ft. straight away from you. You can then Move up to half your :rsc-speed: **Speed** straight torward the target without provoking Opportunity Attack.
+**Technique Known.** You learn 2 techniques of your choice from the Technique Options section. You learn one additonal Technique when you reach Barbarian level 11, and 14. You can change your Technique when you finish a Long Rest.
