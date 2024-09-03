@@ -102,4 +102,4 @@ You learn a series of techniques called "John's Signatures" that can be applied 
 
 **Saving Throw.** When a Technique requires a :d20-save: **Saving Throw**, the DC is equals 8 + Constitution Modifier + Proficiency Bonus.
 
-**Technique Known.** You learn 2 techniques of your choice from the Technique Options section. You learn one additonal Technique when you reach Barbarian level 11, and 14. You can change your Technique when you finish a Long Rest.
+**Technique Known.** You learn 2 techniques of your choice from the [Technique Options](technique.md) section. You learn one additonal Technique when you reach Barbarian level 11, and 14. You can change your Technique when you finish a Long Rest.
