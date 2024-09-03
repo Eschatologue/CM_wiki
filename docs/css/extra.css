@@ -19,10 +19,10 @@
 }
 
 .md-typeset p {
-    margin-bottom: 8px;
+    padding-bottom: 8px;
 }
 
-ol, ul, li {
+.md-typeset ol, .md-typeset ul, .md-typeset li {
     margin-top: 0px;
 }
 
