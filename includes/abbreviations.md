@@ -41,5 +41,5 @@
 
 *[Deception]: (CHA) Determines whether you can convincingly hide the truth, either verbally or through your actions.
 *[Intimidation]: (CHA) Attempt to influence someone through overt threats, hostile actions, and physical violence.
-*[Perfomance]: (CHA) Determines how well you can delight an audience with music, dance, acting, storytelling, or some other form of entertainment.
+*[Performance]: (CHA) Determines how well you can delight an audience with music, dance, acting, storytelling, or some other form of entertainment.
 *[Persuasion]: (CHA) Attempt to influence someone or a group of people with tact, social graces, or good nature.

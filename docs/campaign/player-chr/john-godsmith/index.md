@@ -4,9 +4,9 @@
 
 *Your name, your family, and your tribe all converge at a singular point in history—a history the Spires played a part in erasing. What secrets lie beyond the stars? What mysteries rest beneath this continent? And what awaits at the journey's end?*
 
-*“May your blade be swift, your judgment just, and your decisions resolute.”*
+> *“May your blade be swift, your judgment just, and your decisions resolute.”*
 
-## The Joy of Fishing
+## Level 1: The Joy of Fishing
 
 Memories from somewhere beyond **somehow* *gives you Proficiency with [Fishing Supplies](../../equipment/tools/artisan-tools.md#fishing-supplies) if you don't already have it. Moreover, when you don't have Fishing Supplies, you can spend 1 hour and 150 SP worth of material to create one. This can be done as part of a Short Rest.
 
@@ -16,57 +16,57 @@ You've witnessed the ravages of unbridled anger, the toll it takes on the innoce
 
 When you use your :fontawesome-solid-hand-fist: **Rage**, instead of flying into a primal ferocity, you instead fall into a chilling silence, your eyes void of all emotion as you prepare to cut through everything with ruthless precision.
 
-## Level 3: Primordial Conflagration 
+## Level 3: Primordial Conflagration
 
-*You have the ability to channel the lethal repercussion of speaking Celestial to your own benefit, allowing you to use the curse put on by the heavens to smite your foes.*
+*You gain the ability to channel the lethal repercussion of speaking Celestial to your own benefit, allowing you to use the curse put on by the heavens to smite your foes.*
 
-Once whenever your :fontawesome-solid-hand-fist: **Rage** is active, you can roll a :die-d12: d12 (no action required), expending Hit Points equal to the result and enhance your attacks with Primordial Flare for the **Rage** duration. When you hit an attack that benefits from your :fontawesome-solid-hand-fist: **Rage** damage, it deals extra :material-fire: **Fire** damage equal to :die-d6: ^^1d6^^ + your Constitution Modifier.
+Once per **Rage**, you can roll a :die-d12: **d12** (no action required), losing Hit Points equal to the result to enhance your attacks with Primordial Flare for the remainder of the **Rage**. When you hit with an attack that benefits from your **Rage** damage, it deals an additional :material-fire: **Fire** damage equal to :die-d6: **1d6** + your Constitution modifier.
 
-***At Higher Level.*** The ^^damage die^^ increase by one size when you reach Level 4 (:die-d8: d8), Level 9 (:die-d10: d10), and Level 14 (:die-d12: d12).
+***At Higher Levels:*** The damage die increases by one size at Barbarian level 4 (:die-d8: **d8**), level 9 (:die-d10: **d10**), and level 14 (:die-d12: **d12**).
 
 ## Level 3: Improved Totemic Spirit
 
 Choose one of the animal spirits from the list below or from the original list to gain its benefits. You can change your choice when you gain a level in Barbarian class.
 
-#### Totemic Spirit: Bear
+=== "**Bear**"
     
-The resilient spirit of the Bear increases your ability to take physical hits.
+    The resilient spirit of the Bear increases your ability to take physical hits, giving you the following benefits:
 
-- **Spirit of the Bear:** While :fontawesome-solid-hand-fist: **Raging**, you gain resistance to all types of damage except Force and Psychic damage.
+    - **Spirit of the Bear:** While **Raging**, you gain resistance to all types of damage except Force and Psychic damage.
 
-- **Relentless Ferocity:** While :fontawesome-solid-hand-fist: **Raging**, you can use an :rsc-action: **Action** to  restore your Hit Points by :material-hospital-box: 1d12 + your Constitution modifier. This can only be used once per **Rage**.
+    - **Relentless Ferocity:** While **Raging**, you can use an :rsc-action: **Action** to  restore your Hit Points by :material-hospital-box: 1d12 + your Constitution modifier. This can only be used once per **Rage**.
 
-#### Totemic Spirit: Vulture
-    
-The fierce spirit of the Vulture grants you the ability to move fast as the wind. 
+=== "**Vulture**"
+        
+    The fierce spirit of the Vulture grants you the ability to move fast as the wind, giving you the following benefits:
 
-- **Spirit of the Vulture:** While :fontawesome-solid-hand-fist: **Raging**, you can use a :rsc-bonus-action: **Bonus Action** to take the *Dash* action and opportunity attack against you has :d20-disadv: **Disadvantage**.
+    - **Spirit of the Vulture:** While **Raging**, you can use a :rsc-bonus-action: **Bonus Action** to take the *Dash* action and opportunity attack against you has :d20-disadv: **Disadvantage**.
 
-- **Precision Throw:** You gain +1 bonus to Attack and Damage rolls for ranged attacks made with Thrown weapon using Strength. The damage from this attack benefits from your Rage damage bonus.
+    - **Precision Throw:** You gain +1 bonus to Attack and Damage rolls for ranged attacks made with Thrown weapon using Strength. The damage from this attack benefits from your Rage damage bonus.
 
-#### Totemic Spirit: Elk
+=== "**Elk**"
 
-The noble spirit of the Elk makes you extraordinarily swift. 
+    The noble spirit of the Elk makes you extraordinarily swift, giving you the following benefits:
 
-- **Spirit of the Elk:** While :fontawesome-solid-hand-fist: **Raging**, your walking speed increases by 15 feet.
+    - **Spirit of the Elk:** While **Raging**, your walking speed increases by 15 feet.
 
-- **Mighty Charge:** While :fontawesome-solid-hand-fist: **Raging**, you gain :d20-adv: **Advantage** on an attack made using Strength after moving at least 10 feet in a straight line, on hit your target must succeed a Strength :material-shield:Saving Throw, or it is knocked prone or is pushed 10 ft. (your choice). The DC is equals to 10 or half the damage you dealt on the attack, whichever is higher.
+    - **Mighty Charge:** While **Raging**, you gain :d20-adv: **Advantage** on an attack made using Strength after moving at least 10 feet in a straight line, on hit your target must succeed a Strength :material-shield:Saving Throw, or it is knocked prone or is pushed 10 ft. (your choice). The DC is equals to 10 or half the damage you dealt on the attack, whichever is higher.
 
-#### Totemic Spirit: Elephant
+=== "**Elephant**"
 
-The spirit of the Elephant lends you its resilience. 
+    The spirit of the Elephant lends you its resilience, giving you the following benefits:
 
-- **Spirit of the Elephant:** While :fontawesome-solid-hand-fist: **Raging**, you can add your Constitution modifier to Strength and Dexterity :d20-save: **Saving Throw** against effect that you can see.
+    - **Spirit of the Elephant:** While **Raging**, you can add your Constitution modifier to Strength and Dexterity :d20-save: **Saving Throw** against effect that you can see.
 
-- **Moving Fortress:** While :fontawesome-solid-hand-fist: **Raging**, once per turn, when you hit a creature with a melee weapon attack using Strength, you can move it 5 feet to an unoccupied space, provided the target is no more than one size larger than you.
+    - **Moving Fortress:** While **Raging**, once per turn, when you hit a creature with a melee weapon attack using Strength, you can move it 5 feet to an unoccupied space, provided the target is no more than one size larger than you.
 
-#### Totemic Spirit: Wolf
-    
-The cunning spirit of the Wolf enhances your ability to fight alongside your pack. 
+=== "**Wolf**"
+        
+    The cunning spirit of the Wolf enhances your ability to fight alongside your pack, giving you the following benefits:
 
-- **Spirit of the Wolf:** While :fontawesome-solid-hand-fist: **Raging**, allied creatures of your choice have :d20-adv: **Advantage** on any melee :d20-attack: **Attack Roll** they make against hostile creatures within 10 feet of you.
+    - **Spirit of the Wolf:** While **Raging**, allied creatures of your choice have :d20-adv: **Advantage** on any melee :d20-attack: **Attack Roll** they make against hostile creatures within 10 feet of you.
 
-- **Pack Leader:** While :fontawesome-solid-hand-fist: **Raging**, the first creature you hit with an attack on your turn has :d20-disadv: **Disadvantage** on any :d20-attack: **Attack Roll** that isn't against you until the start of your next turn.
+    - **Pack Leader:** While **Raging**, the first creature you hit with an attack on your turn has :d20-disadv: **Disadvantage** on any :d20-attack: **Attack Roll** that isn't against you until the start of your next turn.
 
 ## Level 5: Flames of Creation 
 
@@ -79,17 +79,17 @@ The flames within you do more than just physically sear your enemies; they burn 
 
 You gain the aspect of Antares’ primordial Paths, you can either choose from the list below or choose the one from the options of the original Totem Warrior 6th-level feature.
 
-- **The Fool:** You gain Proficiency in three skills of your choice.
+***The Fool.*** You gain Proficiency in three skills of your choice.
 
-- **The Magician:** When you make a Intelligence (Arcana) or Intelligence (Insight) check you can add your :ability-cons: **Constitution** modifier to your roll.
+***The Magician.*** You can add your :ability-cons: **Constitution** modifier to Intelligence (Arcana) or Intelligence (Insight) checks.
 
-- **The Hierophant:** When you make a Wisdom (History) or a Wisdom (Religion) check you can add your :ability-cons: **Constitution**  modifier to your roll.
+***The Hierophant.*** You can add your :ability-cons: **Constitution** modifier to Wisdom (History) or a Wisdom (Religion) checks.
 
-- **The Lovers:** When you make a Charisma (Performance) or Charisma (Persuasion) check you can add your :ability-cons: **Constitution**  modifier to your roll.
+***The Lovers.*** You can add your :ability-cons: **Constitution** modifier to Charisma (Performance) or Charisma (Persuasion) checks
 
-- **The Chariot:** When you make a Wisdom (Animal Handling) or Wisdom (Survival) check you can add your :ability-cons: **Constitution**  modifier to your roll.
+***The Chariot.*** You can add your :ability-cons: **Constitution** modifier to Wisdom (Animal Handling) or Wisdom (Survival) checks
 
-- **The Hermit:** When you make an Intelligence (Investigation) or Wisdom (Perception) check you can add your :ability-cons: **Constitution**  modifier to your roll.
+***The Hermit.*** You can add your :ability-cons: **Constitution** modifier ton Intelligence (Investigation) or Wisdom (Perception) checks
 
 ## Level 9: John's Signatures
 
