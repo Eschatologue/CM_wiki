@@ -8,15 +8,21 @@
 
 ## Bonus Proficiency
 
+*Level 1 John K. Godsmith Special Character Feature*
+
 **The Joy of Fishing:** You gain Proficiency with [Fishing Supplies](../../equipment/tools/artisan-tools.md#fishing-supplies) if you don't already have it.
 
-## Level 1: Cold Rage
+## Cold Rage
+
+*Level 1 John K. Godsmith Special Character Feature*
 
 You've witnessed the ravages of unbridled anger, the toll it takes on the innocent and the cherished. But you are different; even the mightiest of flames can be tamed.
 
 When you use your :fontawesome-solid-hand-fist: **Rage**, instead of flying into a primal ferocity, you instead fall into a chilling silence, your eyes void of all emotion as you prepare to cut through everything with ruthless precision.
 
-## Level 3: Primordial Conflagration 
+## Primordial Conflagration 
+
+*Level 3 John K. Godsmith Special Character Feature*
 
 *You have the ability to channel the lethal repercussion of speaking Celestial to your own benefit, allowing you to use the curse put on by the heavens to smite your foes.*
 
