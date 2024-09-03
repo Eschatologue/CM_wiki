@@ -207,7 +207,9 @@ nav:
     - Level 9 Spell: spells/9th-level.md
   - Current Campaign:
     - Player's Gimmick:
-      - John K. Godsmith: campaign/player-chr/john-godsmith.md
+      - John K. Godsmith: 
+        - campaign/player-chr/john-godsmith/index.md
+        - Technique: campaign/player-chr/john-godsmith/index.md
       - Ydastriel Khaine: campaign/player-chr/ydastriel-khaine.md
       - Eris Decrat: campaign/player-chr/eris-dekrat.md
 # Author
