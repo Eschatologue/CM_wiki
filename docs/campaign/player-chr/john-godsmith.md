@@ -28,7 +28,7 @@ When you use your :fontawesome-solid-hand-fist: **Rage**, instead of flying into
 
 *You have the ability to channel the lethal repercussion of speaking Celestial to your own benefit, allowing you to use the curse put on by the heavens to smite your foes.*
 
-Once whenever your :fontawesome-solid-hand-fist: **Rage** is active, you can roll a :die-d12: d12 (no action required), expending Hit Points equal to the result and enhance your attacks with Primordial Flare for the **Rage** duration. Whenever you hit an attack that benefits from your :fontawesome-solid-hand-fist: **Rage** damage, it deals extra :material-fire: **Fire** damage equal to :die-d6: ^^1d6^^ + your Constitution Modifier.
+Once whenever your :fontawesome-solid-hand-fist: **Rage** is active, you can roll a :die-d12: d12 (no action required), expending Hit Points equal to the result and enhance your attacks with Primordial Flare for the **Rage** duration. When you hit an attack that benefits from your :fontawesome-solid-hand-fist: **Rage** damage, it deals extra :material-fire: **Fire** damage equal to :die-d6: ^^1d6^^ + your Constitution Modifier.
 
 ***At Higher Level.*** The ^^damage die^^ increase by one size when you reach Level 4 (:die-d8: d8), Level 9 (:die-d10: d10), and Level 14 (:die-d12: d12)
 
