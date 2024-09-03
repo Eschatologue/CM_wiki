@@ -1,17 +1,8 @@
----
-icon: dnd/stat-spellcasting
----
-
-<p style="text-align: center;">
-
-<i> "A man born into nobility, with a legacy of great achievements, yet devoid of the qualifications, for he carries the weight of his lineage.” </i>
-
-</p>
-
 # Sorcerous Origin: Spellbreaker
 
 *"Sortilege," a Gallian word used for sorcerers, are unlike wizards or others; they're given the power to weave magic as their birthright. You too are this so-called "Sortilege," but your power doesn't stem from weaving spells, but from binding and severing them—a Spellbreaker.*
 
+> "He's a man born into nobility, with a legacy of great achievements, yet devoid of the qualifications, for he carries the weight of his lineage."
 ## Level 1: Bonus Proficiencies 
 
 You gain Proficiency in Intelligence (Arcana) if you don’t already have it. Moreover, you can add your Charisma modifier to an Intelligence (Arcana) check to recall lore about spells, magic items, or magic symbolism related to your nation. 
@@ -119,7 +110,7 @@ If your attack misses, the spell fails and has no effect. On a hit, the spell ta
 
 ## Level 3: Spellbreaker’s Mark
 
-You learn the [Hunter's Mark] spell. You can expend one use of your Clairvoyance to cast this spell without expending any spell slots as if it is a 1st-level spell. For you this spell does not require concentration, but the spell's duration remains.
+You learn the [Hunter's Mark](../../spells/1st-level.md#hunters-mark) spell. You can expend one use of your Clairvoyance to cast this spell without expending any spell slots as if it is a level 1 spell. For you this spell does not require concentration, but the spell's duration remains.
 
 Moroever, you gain additional benefits against your Quarry:
 
@@ -139,7 +130,7 @@ If the spell was cast at a level equal to the level of the :rsc-spell-slot: **Sp
 
 *Your tounge carry traces of abjuration magic, distrupting the magic of those you charm.*
 
-When you use *Panache* against a creature that is under the effects of a spell (e.g [Haste] or [Stoneskin]), or when it is :spell-concentration: **Concentrating** on a spell, you can expend a spell slot to attempt to dispel that spell or break its concentration. If the spell you attempt to dispel or the spell the creature concentrating in was cast at a level equal to the level of spell slot you expended or lower, the spell ends or its concentration is broken. 
+When you use *Panache* against a creature that is under the effects of a spell (e.g *Haste* or *Stoneskin*), or when it is :spell-concentration: **Concentrating** on a spell, you can expend a spell slot to attempt to dispel that spell or break its concentration. If the spell you attempt to dispel or the spell the creature concentrating in was cast at a level equal to the level of spell slot you expended or lower, the spell ends or its concentration is broken. 
 
 If the spell was cast at a level higher than the spell slot you expend and your initial *Panache* ability check results exceeds 10 + the level of the spell, the spell ends or its :spell-concentration: **Concentration** broken.
 
@@ -151,23 +142,23 @@ Spells marked with  (DS) means that the spell fufill the prerequisites to be cha
 
 === ":spell-level-0:{ .xl .middle } **Cantrips (Level 0)**"
 
-      - [Acid Splash] (DS)
-      - [Booming Blade]
-      - [Blade Ward]
-      - [Chill Touch] (DS)
-      - [Dancing Lights]
-      - [Fire Bolt] (DS)
-      - [Friends]
-      - [Frostbite] (DS)
-      - [Green-Flame Blade]
-      - [Light]
-      - [Mage Hand]
-      - [Minor Illusion]
-      - [Poison Spray] (DS)
-      - [Prestidigitation]
-      - [Ray of Frost] (DS)
-      - [Shocking Grasp] (DS)
-      - [Vicious Mockery] (DS)
+      - [Acid Splash](../../spells/cantrip.md#acid-splash) (DS)
+      - [Booming Blade](../../spells/cantrip.md#booming-blade)
+      - [Blade Ward](../../spells/cantrip.md#blade-ward)
+      - [Chill Touch](../../spells/cantrip.md#chill-touch) (DS)
+      - [Dancing Lights](../../spells/cantrip.md#dancing-lights)
+      - [Fire Bolt](../../spells/cantrip.md#fire-bolt) (DS)
+      - [Friends](../../spells/cantrip.md#friends)
+      - [Frostbite](../../spells/cantrip.md#frostbite) (DS)
+      - [Green-Flame Blade](../../spells/cantrip.md#green-flame-blade)
+      - [Light](../../spells/cantrip.md#light)
+      - [Mage Hand](../../spells/cantrip.md#mage-hand)
+      - [Minor Illusion](../../spells/cantrip.md#minor-illusion)
+      - [Poison Spray](../../spells/cantrip.md#poison-spray) (DS)
+      - [Prestidigitation](../../spells/cantrip.md#prestidigitation)
+      - [Ray of Frost](../../spells/cantrip.md#ray-of-frost) (DS)
+      - [Shocking Grasp](../../spells/cantrip.md#shocking-grasp) (DS)
+      - [Vicious Mockery](../../spells/cantrip.md#vicious-mockery) (DS)
 
 === ":spell-level-1:{ .xl .middle } **1st-level Spell**"
 

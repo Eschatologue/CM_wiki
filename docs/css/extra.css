@@ -3,19 +3,19 @@
 
 /* Base Styles */
 
-/* Side Bar */
-.md-sidebar--primary,
-.md-sidebar--secondary {
-    font-size: 0.4rem;
-    width: 225px;
-}
-
 /* Default Text */
 .md-typeset {
     text-justify: auto;
     font-weight: 300;
     font-size: 0.6rem;
     letter-spacing: 0.3px;
+}
+
+/* Side Bar */
+.md-sidebar--primary,
+.md-sidebar--secondary {
+    font-size: 20px;
+    width: 225px;
 }
 
 .md-typeset p {

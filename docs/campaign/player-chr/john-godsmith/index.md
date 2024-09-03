@@ -6,29 +6,23 @@
 
 *“May your blade be swift, your judgment just, and your decisions resolute.”*
 
-## Bonus Proficiency
+## The Joy of Fishing
 
-*Level 1 John K. Godsmith Special Character Feature*
+Memories from somewhere beyond **somehow* *gives you Proficiency with [Fishing Supplies](../../equipment/tools/artisan-tools.md#fishing-supplies) if you don't already have it. Moreover, when you don't have Fishing Supplies, you can spend 1 hour and 150 SP worth of material to create one. This can be done as part of a Short Rest.
 
-**The Joy of Fishing:** You gain Proficiency with [Fishing Supplies](../../equipment/tools/artisan-tools.md#fishing-supplies) if you don't already have it.
-
-## Cold Rage
-
-*Level 1 John K. Godsmith Special Character Feature*
+## Level 1: Cold Rage
 
 You've witnessed the ravages of unbridled anger, the toll it takes on the innocent and the cherished. But you are different; even the mightiest of flames can be tamed.
 
 When you use your :fontawesome-solid-hand-fist: **Rage**, instead of flying into a primal ferocity, you instead fall into a chilling silence, your eyes void of all emotion as you prepare to cut through everything with ruthless precision.
 
-## Primordial Conflagration 
-
-*Level 3 John K. Godsmith Special Character Feature*
+## Level 3: Primordial Conflagration 
 
 *You have the ability to channel the lethal repercussion of speaking Celestial to your own benefit, allowing you to use the curse put on by the heavens to smite your foes.*
 
 Once whenever your :fontawesome-solid-hand-fist: **Rage** is active, you can roll a :die-d12: d12 (no action required), expending Hit Points equal to the result and enhance your attacks with Primordial Flare for the **Rage** duration. When you hit an attack that benefits from your :fontawesome-solid-hand-fist: **Rage** damage, it deals extra :material-fire: **Fire** damage equal to :die-d6: ^^1d6^^ + your Constitution Modifier.
 
-***At Higher Level.*** The ^^damage die^^ increase by one size when you reach Level 4 (:die-d8: d8), Level 9 (:die-d10: d10), and Level 14 (:die-d12: d12)
+***At Higher Level.*** The ^^damage die^^ increase by one size when you reach Level 4 (:die-d8: d8), Level 9 (:die-d10: d10), and Level 14 (:die-d12: d12).
 
 ## Level 3: Improved Totemic Spirit
 
@@ -76,9 +70,10 @@ The cunning spirit of the Wolf enhances your ability to fight alongside your pac
 
 ## Level 5: Flames of Creation 
 
-*In the beginning there was a Fire of Creation. In the end the same flames will rend the world asunder and brought upon new beginning.*
+The flames within you do more than just physically sear your enemies; they burn away their very connection to reality. Those who are scorched by your fire are not only reduced to ashes, but their existence is erased from this world. This power grants you the following benefits:
 
-While :fontawesome-solid-hand-fist: **Raging**, when you hit a creature with a class feature that deals :material-fire:Fire damage, it ignores any resistance to :material-fire:Fire damage it have, and if the target is immune, it still take half damage.
+- **Resistance Bypass:** :dmg-fire: **Fire** damage you deal while your Rage is active from a class feature ignores Resistance. Additionally, if a target is Immune to :dmg-fire: **Fire** damage, it still takes half damage.
+- **Bane of Celestials:** When you hit a Celestial creature with :dmg-fire: **Fire** damage while your Rage is active from a class feature, you can choose to deal the maximum possible damage instead of rolling
 
 ## Level 6: Aspect of the Primordials
 
@@ -104,4 +99,4 @@ You learn a series of techniques called "John's Signatures" that can be applied 
 
 **Saving Throw.** When a Technique requires a :d20-save: **Saving Throw**, the DC is equals 8 + Constitution Modifier + Proficiency Bonus.
 
-**Technique Known.** You learn 2 techniques of your choice from the [Technique Options](technique.md) section. You learn one additonal Technique when you reach Barbarian level 11, and 14. You can change your Technique when you finish a Long Rest.
+**Technique Known.** You learn 2 techniques of your choice from the [Technique Options](technique.md) section. You learn one additonal Technique when you reach Barbarian level 11, and 14. You can change your Techniques when you finish a Long Rest.

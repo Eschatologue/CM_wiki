@@ -210,8 +210,10 @@ nav:
       - John K. Godsmith: 
         - campaign/player-chr/john-godsmith/index.md
         - Techniques: campaign/player-chr/john-godsmith/technique.md
-      - Ydastriel Khaine: campaign/player-chr/ydastriel-khaine.md
-      - Eris Decrat: campaign/player-chr/eris-dekrat.md
+      - Ydastriel Khaine: 
+        - campaign/player-chr/ydastriel-khaine/index.md
+      - Eris Decrat: 
+        - campaign/player-chr/eris-dekrat/index.md
 # Author
 site_author: Eschatologue
 site_description: >-

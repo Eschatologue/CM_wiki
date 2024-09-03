@@ -1,18 +1,10 @@
----
-icon: material/star-four-points
----
-
-<p style="text-align: center;">
-
-<i> "Ambitious, arrogant, and seemingly all-knowing, much like the number zero. It's the void from which all other thing begin.” </i>
-
-</p>
-
 # Parable of the Stars
 
 *Seven Spires with seven Ascent, each represents a concept and in some ways a purpose, and those who follows a specific Ascent can draw powers from it. The spires are beings of higher power, some can say they even trancends the concept of God that we once has.* 
 
 *You, child of the star are chosen with the purpose to reveal the secrets behind the Spires and their influences upon this world, will you bring this forsaken world salvation it needs or the destruction it deserves?*
+
+> "Ambitious, arrogant, and seemingly all-knowing, much like the number zero. It's the void from which all other thing begin.”
 
 ## Level 2: Cosmic Weave
 

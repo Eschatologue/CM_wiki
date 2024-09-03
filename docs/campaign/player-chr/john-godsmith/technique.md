@@ -46,7 +46,7 @@ The target has :d20-disadv: **Disadvantage** on the next Saving Throw it makes, 
 
 *Crown & Misery John's Signature*
  
-The target must succeed a :d20-save: Constitution **Saving Throw**, or it becomes **Stunned** until the end of your next turn.
+The target must succeed a :d20-save: Constitution **Saving Throw**, or it has the **Stunned** condition until the end of your next turn.
 
 ### Sundering Blow
 
