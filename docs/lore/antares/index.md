@@ -4,7 +4,7 @@ The Crown and Misery campaign takes place in the post-apocalyptic, dystopian sci
 
 ## Etymology
 
-The word "Antares" originated from the brightest star in the constellation of Scorpius. It has the Bayer designation α **Scorpii**, which is Latinised to **Alpha Scorpii**. Its traditional name however, derives from the Ancient Greek **Ἀντάρης**, meaning **"rival to Ares"**.
+The word "Antares" originated from the brightest star in the constellation of Scorpius. It has the Bayer designation α **Scorpii**, which is Latinised to **Alpha Scorpii**. Its traditional name however, derives from the Ancient Greek **Ἀντάρης**, meaning **"rival to Ares".**
 
 ## History
 
@@ -22,7 +22,7 @@ The **Second Maelstorm**, occurring approximately 500 years after the first, is 
 
 #### The Millennium Dawn
 
-The **Millennium Dawn** began approximately 200 years after the Second Maelstorm and is marked by the fall of the Tähdenvalta Empire following the **Great Split**, a major conflict that reshaped the political landscape of Antares. This era has seen the rise of a new power, and it is within this period that current events, including the ongoing D&D campaign, are set.
+The **Millennium Dawn** began approximately 200 years after the Second Maelstorm and is marked by the fall of the Tähdenvalta Empire following the **Great Split**, a major conflict that reshaped the political landscape of Antares. This era has seen the rise of a [new power](nation/london.md), and it is within this period that current events, including the ongoing D&D campaign, are set.
 
 ## Geography
 
@@ -40,7 +40,7 @@ Antares is dominated by vast arid deserts and lush plains. These fertile regions
 
 #### Mountain Ranges
 
-A major mountain range spans the continent from north to south, passing through the dwarven nation of Myrkheimr. This natural barrier is a defining feature of Antares and plays a crucial role in the continent's geography.
+A major mountain range spans the continent from north to south, passing through the dwarven nation of Myrkheim. This natural barrier is a defining feature of Antares and plays a crucial role in the continent's geography.
 
 #### The Underdark
 

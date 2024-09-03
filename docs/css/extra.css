@@ -18,6 +18,10 @@
     letter-spacing: 0.3px;
 }
 
+.md-typeset p {
+    margin-bottom: 12;
+}
+
 .md-typeset strong {
     font-weight: 600;
 }

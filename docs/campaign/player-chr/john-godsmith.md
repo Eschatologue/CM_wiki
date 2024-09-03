@@ -26,11 +26,15 @@ When you use your :fontawesome-solid-hand-fist: **Rage**, instead of flying into
 
 ## Level 3: Primordial Conflagration 
 
-You have the ability to channel the lethal repercussion of speaking Celestial to your advantage, allowing you to use the curse put on by the heavens to smite your foes.
+You have the ability to channel the lethal repercussion of speaking Celestial to your own benefit, allowing you to use the curse put on by the heavens to smite your foes.
 
-Whenever you :fontawesome-solid-hand-fist: **Rage**, or once as a :rsc-bonus-action: **Bonus Action** while **raging** you can roll a :die-d12:d12, expending Hit Points equal to the result and enhance your attacks with Primordial Flare for the **Rage** duration. Whenever you hit a creature with a weapon attack that benefits from your :fontawesome-solid-hand-fist: **Rage** damage, it deals extra :material-fire: **Fire** damage equal to :die-d8: 1d8 + your Constitution Modifier.
+Once whenever your :fontawesome-solid-hand-fist: **Rage** is active, you can roll a :die-d12: d12, expending Hit Points equal to the result and enhance your attacks with Primordial Flare for the **Rage** duration. This requires no action. 
 
-## Improved Totemic Spirit <span style="float:right;"> <small> Level 3 </small> </span>
+Whenever you hit an attack that benefits from your :fontawesome-solid-hand-fist: **Rage** damage, it deals extra :material-fire: **Fire** damage equal to :die-d6: ^^1d6^^ + your Constitution Modifier.
+
+***At Higher Level.*** The ^^damage die^^ increase by one size when you reach Level 4 (:die-d8: d8), Level 9 (:die-d10: d10), and Level 14 (:die-d12: d12)
+
+## Level 3: Improved Totemic Spirit
 
 Choose one of the animal spirits from the list below or from the original list to gain its benefits. You can change your choice when you gain a level in Barbarian class.
 

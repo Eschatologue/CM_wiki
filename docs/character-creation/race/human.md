@@ -44,7 +44,7 @@ You gain one :material-cards-playing-club-multiple: **Level 4 Feat** of your cho
 
 ### Common Lineage
 
-*The most common human lineage found in Antares, can be found from the tallest peak of Myrkheimr's mountain ranges to the deepest pit of the Underdark.*
+*The most common human lineage found in Antares, can be found from the tallest peak of Myrkheim's mountain ranges to the deepest pit of the Underdark.*
 
 #### :trait-language: Languages
 

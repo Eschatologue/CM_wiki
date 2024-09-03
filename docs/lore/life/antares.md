@@ -25,7 +25,7 @@ The author of this wiki, being a history enthusiast, often draws inspiration fro
 Antares is home to only six surviving nations or civilizations, each inspired by different cultures from our world:
 
 1. **London**. Modeled after the British Empire at its colonial height, blending its influence as a global power with the tense atmosphere of the Cold War era.
-2. **Myrkheimr**. Inspired by the Unification of Germany in 1886, classic dwarven fantasy elements, and Old Norse culture, creating a robust and resilient society.
+2. **Myrkheim**. Inspired by the Unification of Germany in 1886, classic dwarven fantasy elements, and Old Norse culture, creating a robust and resilient society.
 3. **Gallia**. Based on France after the Revolution, with a twist—the revolution failed, and the aristocracy solidified its control, ruling with an iron fist.
 4. **Karakorum**. The capital of the Mongol Empire, amalgamating cultural influences from Japan, China, and Mongolia. These cultures are represented as separate yet interconnected flagships within the nation.
 5. **Soterrano**. A combination of the Papal States and pre-19th century Italy, highlighting the influence of organized crime akin to the Sicilian Mafia, but with powerful religious organizations replacing the criminal elements.
@@ -35,7 +35,7 @@ Antares is home to only six surviving nations or civilizations, each inspired by
 
 The technological landscape of Antares varies greatly among its nations, influencing the purpose and application of technology. While magic exists, its accessibility differs widely. Antares' technological spectrum ranges from the equivalent of the 1700s to the 1960s in our world. Some nations use traditional methods like horse-based transportation, while others have phlogiston-powered aircraft.
 
-This diversity affects the weaponry and utilities used by individuals from different nations in this D&D campaign. Bandits from Gallia have powerful spellcasters despite their lack of education. Dwarven vagrants from Myrkheimr use heavy crossbows, boltcasters, warhammers, and various gadgets. Elves from Valinor combine arcane skills, guerrilla tactics, and marksmanship with longbows. London mercenaries use firearms to overwhelm foes with relentless streams of projectiles.
+This diversity affects the weaponry and utilities used by individuals from different nations in this D&D campaign. Bandits from Gallia have powerful spellcasters despite their lack of education. Dwarven vagrants from Myrkheim use heavy crossbows, boltcasters, warhammers, and various gadgets. Elves from Valinor combine arcane skills, guerrilla tactics, and marksmanship with longbows. London mercenaries use firearms to overwhelm foes with relentless streams of projectiles.
 
 These technological disparities also shape the settings of towns and settlements, creating unique and distinctive environments.
 
@@ -51,7 +51,7 @@ Pioneered by the people of London, Dreadnoughts have become essential for transp
 
 Constructed from reinforced wood or metal plating and powered by various engines, Dreadnoughts are heavily armoured and surprisingly swift. Resembling moving fortresses, they balance protection, mobility, and firepower, with some tailored for warfare and others for transportation.
 
-Only two nations in Antares can reliably produce their own Dreadnoughts. London leads with the largest fleet, while Myrkheimr has adapted London's designs for their dwarven stature. Other nations modify purchased Dreadnoughts to suit their needs: Gallian models feature siege-class arcane weaponry, Soterrani models are equipped for underground exploration, and Valinorian models have increased insulation for harsh weather.
+Only two nations in Antares can reliably produce their own Dreadnoughts. London leads with the largest fleet, while Myrkheim has adapted London's designs for their dwarven stature. Other nations modify purchased Dreadnoughts to suit their needs: Gallian models feature siege-class arcane weaponry, Soterrani models are equipped for underground exploration, and Valinorian models have increased insulation for harsh weather.
 
 If drawing a comparison to real-life, Dreadnoughts are essentially akin to ships: Battlehips and Destroyers translate to their combat-oriented counterparts, while cargo ships or cruise ships mirroring their roles in transportation and utility, all operating on land rather than water.
 

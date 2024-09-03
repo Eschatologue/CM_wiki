@@ -20,7 +20,7 @@ To defend against firearms, spells from the Abjuration school of magic are most 
 
 ## Origins and Impact
 
-Firearms were introduced to Antares by the Londoners, whose industrial prowess and reliance on technological superiority have shaped their dominance. Unlike other weapons, which often rely on magical enhancements or the wielder's skill, firearms derive their power from the weapon itself. This has limited their adoption among other nations, where alternatives like Gallian magic and Myrkheimr’s advanced crossbows—dependent on the wielder's abilities—are preferred.
+Firearms were introduced to Antares by the Londoners, whose industrial prowess and reliance on technological superiority have shaped their dominance. Unlike other weapons, which often rely on magical enhancements or the wielder's skill, firearms derive their power from the weapon itself. This has limited their adoption among other nations, where alternatives like Gallian magic and Myrkheim’s advanced crossbows—dependent on the wielder's abilities—are preferred.
 
 Despite their physical frailty compared to Antares’ native inhabitants, the Londoners’ use of firearms compensates for their weaknesses, providing a crucial advantage and helping secure their dominance in the region.
 
