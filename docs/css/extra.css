@@ -19,11 +19,12 @@
 }
 
 .md-typeset p {
-    margin-bottom: 12px;
+    margin-bottom: 8px;
 }
 
 .md-typeset ul, .md-typeset li {
-    margin-top: 6px;
+    margin-top: 0px;
+    padding-top: 2px;
 }
 
 .md-typeset strong {
