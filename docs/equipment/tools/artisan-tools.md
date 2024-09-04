@@ -277,7 +277,7 @@ Your knowledge with Fishing Supplies allows you to determine whenever a body of 
 
 *"No John, you can't fish in a toilet"*
 
-*Also read: [Fishing](../../gameplay/homebrew/fishing.md)*
+*Also read: [Fishing](../../gameplay/downtime/fishing.md)*
 
 ### Glassblower's Tools
 

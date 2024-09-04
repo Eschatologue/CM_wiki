@@ -212,8 +212,10 @@ nav:
         - Techniques: campaign/player-chr/john-godsmith/technique.md
       - Ydastriel Khaine: 
         - campaign/player-chr/ydastriel-khaine/index.md
+        - Starry Form: campaign/player-chr/ydastriel-khaine/starry-form.md
       - Eris Decrat: 
         - campaign/player-chr/eris-dekrat/index.md
+        - Spell List: campaign/player-chr/eris-dekrat/spell-list.md
 # Author
 site_author: Eschatologue
 site_description: >-

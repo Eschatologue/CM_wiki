@@ -14,7 +14,7 @@ You gain Proficiency in Intelligence (Arcana) if you don’t already have it. Mo
 As an :rsc-action: **Action**, you can focus your mind and awaken your senses to see the presence of magic(1) within 60 feet of you for 10 minutes, that is not behind full cover.
 { .annotate }
 
-1. ![The Rock](./../../assets/wiki/the-people-eyebrow.gif)
+1. ![The Rock](./../../../assets/wiki/the-people-eyebrow.gif)
 
     Visual representation of Eris sensing a presence of magic being cast.
 
@@ -110,7 +110,7 @@ If your attack misses, the spell fails and has no effect. On a hit, the spell ta
 
 ## Level 3: Spellbreaker’s Mark
 
-You learn the [Hunter's Mark](../../spells/1st-level.md#hunters-mark) spell. You can expend one use of your Clairvoyance to cast this spell without expending any spell slots as if it is a level 1 spell. For you this spell does not require concentration, but the spell's duration remains.
+You learn the [Hunter's Mark](../../../spells/1st-level.md#hunters-mark) spell. You can expend one use of your Clairvoyance to cast this spell without expending any spell slots as if it is a level 1 spell. For you this spell does not require concentration, but the spell's duration remains.
 
 Moroever, you gain additional benefits against your Quarry:
 
@@ -134,116 +134,6 @@ When you use *Panache* against a creature that is under the effects of a spell (
 
 If the spell was cast at a level higher than the spell slot you expend and your initial *Panache* ability check results exceeds 10 + the level of the spell, the spell ends or its :spell-concentration: **Concentration** broken.
 
----
-
-## Eris' Spell List
-
-Spells marked with  (DS) means that the spell fufill the prerequisites to be channeled through ^^Dekrat's Special^^
-
-=== ":spell-level-0:{ .xl .middle } **Cantrips (Level 0)**"
-
-      - [Acid Splash](../../spells/cantrip.md#acid-splash) (DS)
-      - [Booming Blade](../../spells/cantrip.md#booming-blade)
-      - [Blade Ward](../../spells/cantrip.md#blade-ward)
-      - [Chill Touch](../../spells/cantrip.md#chill-touch) (DS)
-      - [Dancing Lights](../../spells/cantrip.md#dancing-lights)
-      - [Fire Bolt](../../spells/cantrip.md#fire-bolt) (DS)
-      - [Friends](../../spells/cantrip.md#friends)
-      - [Frostbite](../../spells/cantrip.md#frostbite) (DS)
-      - [Green-Flame Blade](../../spells/cantrip.md#green-flame-blade)
-      - [Light](../../spells/cantrip.md#light)
-      - [Mage Hand](../../spells/cantrip.md#mage-hand)
-      - [Minor Illusion](../../spells/cantrip.md#minor-illusion)
-      - [Poison Spray](../../spells/cantrip.md#poison-spray) (DS)
-      - [Prestidigitation](../../spells/cantrip.md#prestidigitation)
-      - [Ray of Frost](../../spells/cantrip.md#ray-of-frost) (DS)
-      - [Shocking Grasp](../../spells/cantrip.md#shocking-grasp) (DS)
-      - [Vicious Mockery](../../spells/cantrip.md#vicious-mockery) (DS)
-
-=== ":spell-level-1:{ .xl .middle } **1st-level Spell**"
-
-      - [Absorb Elements]
-      - [Armor of Agathys]
-      - [Bane]
-      - [Burning Hands] (DS)
-      - [Chromatic Orb] (DS)
-      - [Color Spray] (DS)
-      - [Detect Evil and Good]
-      - [Earth Tremor] (DS)
-      - [Faerie Fire] (DS)
-      - [Gift of Alacrity]
-      - [Grease] (DS)
-      - [Ice Knife] (DS)
-      - [Jump]
-      - [Longstrider]
-      - [Shield]
-      - [Thunderwave] (DS)
-      - [Zephyr Strike]
-   
-=== ":spell-level-2:{ .xl .middle } **2nd-level Spell**"
-
-      - [Aganazzar's Scorcher]
-      - [Blur]
-      - [Blindness/Deafness] (DS)
-      - [Darkvision]
-      - [Dispel Magic]
-      - [Enhance Ability]
-      - [Enlarge/Reduce] (DS)
-      - [Esch's Steel Wind Strike]
-      - [Gust of Wind] (DS)
-      - [Hold Person] (DS)
-      - [Magic Weapon]
-      - [Mirror Image]
-      - [Misty Step]
-      - [Pass Without Trace]
-      - [Ray of Enfeeblement] (DS)
-      - [Shatter] (DS)
-      - [Silence]
-      - [Spray of Cards] (DS)
-      - [Zone of Truth]
-
-=== ":spell-level-3:{ .xl .middle } **3rd-level Spell**"
-
-      - [Ashardalon's Stride]
-      - [Dispel Magic]
-      - [Erupting Earth] (DS)
-      - [Fireball] (DS)
-      - [Haste]
-      - [Lightning Bolt] (DS)
-      - [Magic Circle]
-      - [Nondetection]
-      - [Protection from Energy]
-      - [Pulse Wave] (DS)
-      - [Slow] (DS)
-      - [Tidal Wave] (DS)
-      - [Thunder Step]
-      - [Water Walk]
-
-=== ":spell-level-4:{ .xl .middle } **4th-level Spell**"
-
-      - [Arcane Eye]
-      - [Banishment] (DS)
-      - [Confusion]
-      - [Elemental Bane]
-      - [Fire Shield]
-      - [Freedom of Movement]
-      - [Greater Invisibility]
-      - [Ice Storm] (DS)
-      - [Resilient Sphere] (DS)
-      - [Wall of Fire]
-
-=== ":spell-level-5:{ .xl .middle } **5th-level Spell**"
-
-      - [Destructive Wave] (DS)
-      - [Dispel Evil and Good] (DS)
-      - [Hold Monster] (DS)
-      - [Legend Lore]
-      - [Mislead]
-      - [Scrying]
-      - [Skill Empowerment]
-      - [Wall of Force]
-
-*[DS]: This spell is compatible with Dekrat's Special
 *[Quarry]: Creatures affected by Hunter's Mark
 
-[spell list]: #eris-spell-list
+[spell list]: spell-list.md

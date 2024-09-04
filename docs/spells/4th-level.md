@@ -2,6 +2,8 @@
 icon: spell/level-4
 ---
 
+# Level 4 Spells
+
 ### Arcane Eye
 *4th-level Divination*
   

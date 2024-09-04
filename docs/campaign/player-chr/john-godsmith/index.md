@@ -42,7 +42,7 @@ Choose one of the animal spirits from the list below or from the original list t
 
     - **Spirit of the Vulture:** While **Raging**, you can use a :rsc-bonus-action: **Bonus Action** to take the *Dash* action and opportunity attack against you has :d20-disadv: **Disadvantage**.
 
-    - **Precision Throw:** You gain +1 bonus to Attack and Damage rolls for ranged attacks made with Thrown weapon using Strength. The damage from this attack benefits from your Rage damage bonus.
+    - **Precision Throw:** You gain +1 bonus to Attack and Damage rolls for ranged attacks made with :weapon-prop-thrown: **Thrown** weapon using Strength. The damage from this attack benefits from your **Rage** damage bonus.
 
 === "**Elk**"
 
@@ -50,7 +50,7 @@ Choose one of the animal spirits from the list below or from the original list t
 
     - **Spirit of the Elk:** While **Raging**, your walking speed increases by 15 feet.
 
-    - **Mighty Charge:** While **Raging**, you gain :d20-adv: **Advantage** on an attack made using Strength after moving at least 10 feet in a straight line, on hit your target must succeed a Strength :material-shield:Saving Throw, or it is knocked prone or is pushed 10 ft. (your choice). The DC is equals to 10 or half the damage you dealt on the attack, whichever is higher.
+    - **Mighty Charge:** While **Raging**, you gain :d20-adv: **Advantage** on an attack made using Strength after moving at least 10 feet in a straight line, on hit your target must succeed a :d20-save: Strength Saving Throw, or it has the Prone condition or is pushed 10 ft. (your choice). The DC is equals to 10 or half the damage you dealt on the attack, whichever is higher.
 
 === "**Elephant**"
 
@@ -72,31 +72,43 @@ Choose one of the animal spirits from the list below or from the original list t
 
 The flames within you do more than just physically sear your enemies; they burn away their very connection to reality. Those who are scorched by your fire are not only reduced to ashes, but their existence is erased from this world. This power grants you the following benefits:
 
-- **Resistance Bypass:** :dmg-fire: **Fire** damage you deal while your Rage is active from a class feature ignores Resistance. Additionally, if a target is Immune to :dmg-fire: **Fire** damage, it still takes half damage.
-- **Bane of Celestials:** When you hit a Celestial creature with :dmg-fire: **Fire** damage while your Rage is active from a class feature, you can choose to deal the maximum possible damage instead of rolling
+- **Resistance Bypass**  
+:dmg-fire: **Fire** damage you deal while **Raging** from a class feature ignores Resistance. Additionally, if a target is Immune to :dmg-fire: **Fire** damage, it still takes half damage.
+
+- **Bane of Celestials**  
+When you hit a Celestial creature with :dmg-fire: **Fire** damage while **Raging** from a class feature, you can choose to deal the maximum possible damage instead of rolling.
 
 ## Level 6: Aspect of the Primordials
 
 You gain the aspect of Antares’ primordial Paths, you can either choose from the list below or choose the one from the options of the original Totem Warrior 6th-level feature.
 
-***The Fool.*** You gain Proficiency in three skills of your choice.
+- **The Fool**  
+You gain Proficiency in three skills of your choice.
 
-***The Magician.*** You can add your :ability-cons: **Constitution** modifier to Intelligence (Arcana) or Intelligence (Insight) checks.
+- **The Magician**  
+You can add your :ability-cons: **Constitution** modifier to Intelligence (Arcana) or Intelligence (Insight) checks.
 
-***The Hierophant.*** You can add your :ability-cons: **Constitution** modifier to Wisdom (History) or a Wisdom (Religion) checks.
+- **The Hierophant**  
+You can add your :ability-cons: **Constitution** modifier to Wisdom (History) or a Wisdom (Religion) checks.
 
-***The Lovers.*** You can add your :ability-cons: **Constitution** modifier to Charisma (Performance) or Charisma (Persuasion) checks
+- **The Lovers**  
+You can add your :ability-cons: **Constitution** modifier to Charisma (Performance) or Charisma (Persuasion) checks
 
-***The Chariot.*** You can add your :ability-cons: **Constitution** modifier to Wisdom (Animal Handling) or Wisdom (Survival) checks
+- **The Chariot**  
+You can add your :ability-cons: **Constitution** modifier to Wisdom (Animal Handling) or Wisdom (Survival) checks
 
-***The Hermit.*** You can add your :ability-cons: **Constitution** modifier ton Intelligence (Investigation) or Wisdom (Perception) checks
+- **The Hermit**  
+You can add your :ability-cons: **Constitution** modifier ton Intelligence (Investigation) or Wisdom (Perception) checks
 
 ## Level 9: John's Signatures
 
 You learn a series of techniques called "John's Signatures" that can be applied on hit when you forgo the :d20-adv: **Advantage** granted by *Reckless Attack* while ^^Primordial Conflagaration^^ is active. 
 
-**Extra Damage.** When you use a Technique, it deals extra :dmg-fire: **Fire** damage equals to ^^Primordial Conflagaration^^ damage die at your current level.
+- **Extra Damage**  
+When you use a Technique, it deals extra :dmg-fire: **Fire** damage equals to ^^Primordial Conflagaration^^ damage die at your current level.
 
-**Saving Throw.** When a Technique requires a :d20-save: **Saving Throw**, the DC is equals 8 + Constitution Modifier + Proficiency Bonus.
+- **Saving Throw**  
+When a Technique requires a :d20-save: **Saving Throw**, the DC is equals 8 + Constitution Modifier + Proficiency Bonus.
 
-**Technique Known.** You learn 2 techniques of your choice from the [Technique Options](technique.md) section. You learn one additonal Technique when you reach Barbarian level 11, and 14. You can change your Techniques when you finish a Long Rest.
+- **Technique Known**  
+You learn 2 techniques of your choice from the [Technique Options](technique.md) section. You learn one additonal Technique when you reach Barbarian level 11, and 14. You can change your Techniques when you finish a Long Rest.
