@@ -1,9 +1,5 @@
 ---
-icon: die/d20
-
-search:
-  boost: 2 
-
+icon: material/dice-multiple
 ---
 
 # Dice

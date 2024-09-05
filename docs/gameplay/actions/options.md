@@ -1,12 +1,5 @@
----
-icon: rsc/action
----
 
-# Action Options
-
-This section provides Action options for combat.
-
-## Attack
+### Attack
 
 **Cost:** :rsc-action: Action
 
@@ -14,7 +7,7 @@ The most common action to take in combat is the **Attack action**, whether you a
 
 Certain features, such as the Extra Attack feature of the fighter, allow you to make more than one attack with this action.
 
-### Disarm
+#### Disarm
 
 When attacking using a melee weapon or Unarmed Strike, a creature can replace one of its attacks to knock a weapon or another item from a target's grasp. 
 
@@ -22,7 +15,7 @@ The attacker makes an :d20-attack: **Attack Roll** contested by the target's Str
 
 The attacker has disadvantage on its :d20-attack: **Attack Roll** if the target is holding the item with two or more hands. The target has advantage on its ability check if it is larger than the attacking creature, or disadvantage if it is smaller.
 
-### Unarmed Strike
+#### Unarmed Strike
 
 An Unarmed Strike is a melee attack that involves you using your body to damage, grapple, or shove a target within 5 feet of you.
 
@@ -34,7 +27,7 @@ Whenever you use your Unarmed Strike, choose one of the following options for it
 
 &emsp; **Shove.** The target must succeed on a Strength or Dexterity :d20-save: **Saving Throw** (it chooses which), or you either push the target 5 feet away or cause it to have the Prone condition. The DC for the :d20-save: **Saving Throw** equals ^^8 + your Strength modifier + your Proficiency Bonus^^. This shove is possible only if the target is no more than one size larger than you
 
-## Cast a Spell
+### Cast a Spell
 
 **Cost:** :rsc-action: Action, :rsc-bonus-action: Bonus Action, or :rsc-reaction: Reaction
 
@@ -44,7 +37,7 @@ Each spell has a casting time, which specifies whether the caster must use an ac
 
 Casting a spell is, therefore, not necessarily an action. Most spells do have a casting time of Action, so a spellcaster often uses their action in combat to cast such a spell. 
 
-## Dash
+### Dash
 
 **Cost:** :rsc-action: Action
 
@@ -52,25 +45,25 @@ When you take the Dash action, you gain extra movement for the current turn. The
 
 Any increase or decrease to your speed changes this additional movement by the same amount. If your speed of 30 feet is reduced to 15 feet, for instance, you can move up to 30 feet this turn if you dash.
 
-## Disengage
+### Disengage
 
 **Cost:** :rsc-action: Action
 
 If you take the Disengage action, your movement doesn't provoke Opportunity Attacks for the rest of the turn.
 
-## Dodge
+### Dodge
 
 **Cost:** :rsc-action: Action
 
 When you take the Dodge action, you focus entirely on avoiding attacks. Until the start of your next turn, any :d20-attack: **Attack Roll** made against you has disadvantage if you can see the attacker, and you make Dexterity :d20-save: **Saving Throw**s with advantage. You lose this benefit if you are incapacitated (as explained in the appendix) or if your speed drops to 0.
 
-## End Concentration
+### End Concentration
 
 **Cost:** None
 
 If a spell must be maintained with concentration, that fact appears in its Duration entry, and the spell specifies how long you can concentrate on it. You can end concentration at any time (no action required).
 
-## Help
+### Help
 
 **Cost:** :rsc-action: Action
 
@@ -81,7 +74,7 @@ following:
 
 &emsp; **Assist :d20-attack: **Attack Roll**.** You momentarily distract an enemy within 5 feet of you, giving Advantage to the next :d20-attack: **Attack Roll** by one of your allies against that enemy. This benefit expires at the start of your next turn.
 
-## Hide 
+### Hide 
 
 **Cost:** :rsc-action: Action
 
@@ -95,7 +88,7 @@ The condition ends on you immediately after any of the following occurrences:
 - An enemy finds you, you make an :d20-attack: **Attack Roll**
 - You cast a spell with a verbal component.
 
-## Identify a Spell
+### Identify a Spell
 
 **Cost:** :rsc-action: Action or :rsc-reaction: Reaction
 
@@ -105,7 +98,7 @@ If the character perceived the casting, the spell's effect, or both, the charact
 
 This Intelligence (Arcana) check represents the fact that identifying a spell requires a quick mind and familiarity with the theory and practice of casting. This is true even for a character whose spellcasting ability is Wisdom or Charisma. Being able to cast spells doesn't by itself make you adept at deducing exactly what others are doing when they cast their spells.
 
-## Magic
+### Magic
 
 **Cost:** :rsc-action: Action
 
@@ -113,7 +106,7 @@ When you take the Magic action, you magic something by casting a spell that has 
 
 If you cast a spell that has a casting time of 1 minute or longer, you must take the Magic action on each turn of that casting, and you must maintain Concentration while you do so. If your Concentration is broken, the spell fails, but you don’t expend a spell slot.
 
-## Opportunity Attack
+### Opportunity Attack
 
 **Cost:** :rsc-reaction: Reaction
 
@@ -123,7 +116,7 @@ You can make an Opportunity Attack when a hostile creature that you can see move
 
 Opportunity Attack is also often referred to as 'Attack of Opportunity', they are both the same.
 
-## Ready
+### Ready
 
 Sometimes you want to get the jump on a foe or wait for a particular circumstance before you act. To do so, you can take the Ready action on your turn, which lets you act using your reaction before the start of your next turn.
 
@@ -131,11 +124,11 @@ Sometimes you want to get the jump on a foe or wait for a particular circumstanc
 
 &emsp; **Condition Triggered.** When the trigger occurs, you can either take your reaction right after the trigger finishes or ignore the trigger. Remember that you can take only one reaction per round.
 
-### Readying a Spell 
+#### Readying a Spell 
 
 When you ready a spell, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a spell must have a casting time of an action, and holding onto the spell's magic requires concentration. If your concentration is broken, the spell dissipates without taking effect.
 
-## Search 
+### Search 
 
 **Cost:** :rsc-action: Action
 
@@ -150,7 +143,7 @@ When you take the Search action, you make a Wisdom check to discern something th
 | Perception | Concealed creature or object |
 | Survival |  Tracks or food |
 
-## Study
+### Study
 
 **Cost:** :rsc-action: Action
 
@@ -169,3 +162,8 @@ The Areas of Knowledge table suggests which skills are applicable when you take 
 | Nature | Terrain, flora, weather, and certain creatures (Beasts, Dragons, Oozes, and Plants) |
 | Religion | Deities, religious hierarchies and rites, holy symbols, cults, and certain creatures (Celestials, Fiends, and Undead) |
 
+### Utilise
+
+**Cost:** :rsc-action: Action
+
+You interact with and use a nonmagical object

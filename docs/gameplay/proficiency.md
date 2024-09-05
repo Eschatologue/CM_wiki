@@ -23,7 +23,7 @@ Your Proficiency Bonus can't be added to a die roll or another number more than 
 
 Occasionally, a Proficiency Bonus might be multiplied or divided before being added. For example, the Expertise feature doubles the Proficiency Bonus for a certain ability checks. Whenever the bonus is used, it can be multiplied onlt once and diviced onle once.
 
-## Skill Checks
+## Skill Proficiency
 
 Ability Checks are usually made using a specified skill. Skills are specific areas of expertise, each associated with an ability, that characters can be proficient in.
 
@@ -47,3 +47,21 @@ All characters gain Proficiency in multiple skills depending on their chosen bac
 Additionally, some races, subclasses, and feats also give Proficiency in specific skills, and bards receive the class feature Jack of All Trades at level 2, allowing them to add half their Proficiency Bonus (rounded down) to :d20-check: **Ability Checks** they make using skills they are not proficient in.
 
 Proficiency does not stack – there's no benefit to having multiple sources of Proficiency for a skill.
+
+## Saving Throw Proficiency
+
+Proficiency in a saving throw lets a character to add their Proficiency Bonus to saves that use a particular ability. For example, proficiency with Wisdom saves lets you add your Proficiency Bonus to your Wisdom save. Some monsters also have saving throw proficiencies in their stat blocks
+
+Each class gives proficiency in at least to saving throws, representing that class's training in evading or resisting certain threats.
+
+## Equipment Proficiency
+
+A character gains proficiency with various weapons and tools from their class and background. There are to categories of equipment proficiency:
+
+#### Weapon
+
+Anyone can wield a weapon, but prodiciency makes you better at wielding it. If you have proficiency with a weapon, you add your Proficiency Bonus to Attack Rolls made with it.
+
+#### Tools
+
+If you have proficiency with a tool, you can add your Proficiency Bonus to any Ability Check you make that uses the tool. If you have Proficiency in the skill that's also used with that check, you have :d20-adv: Advantage on the check too. This means tou can benefit from both skill proficiency and tool proficiency on the same ability check.

@@ -24,12 +24,15 @@ nav:
     - Notable Events:
       - The Great Split: lore/event/great-split.md
   - Playing the Game:
-    - Dice: gameplay/dice.md
-    - The Six Abilities: gameplay/abilities.md
-    - D20 Test: gameplay/d20-test.md
-    - Resources: gameplay/resources.md
-    - Spellcasting: gameplay/spellcasting.md
-    - Action Options: gameplay/action-options.md
+    - Core Mechanics: 
+      - Dice: gameplay/dice.md
+      - The Six Abilities: gameplay/abilities.md
+      - D20 Test: gameplay/d20-test.md
+      - Proficiency: gameplay/proficiency.md
+      - Actions: 
+        - gameplay/actions/index.md
+        - Options: gameplay/actions/options.md
+      - Exploration: gameplay/exploration.md
     - Combat: 
       - gameplay/combat/index.md
       - Making an Attack: gameplay/combat/making-an-attack.md
