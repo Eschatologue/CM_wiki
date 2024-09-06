@@ -33,7 +33,8 @@ nav:
         - gameplay/actions/index.md
         - Options: gameplay/actions/options.md
       - Exploration: gameplay/exploration.md
-      - Combat: gameplay/combat.md
+      - Combat: 
+        - gameplay/combat/index.md
     - Homebrew Mechanics:
       - The Silver Standard: gameplay/homebrew/silver-standard.md
       - Death's Door and Resove: gameplay/homebrew/resolve.md

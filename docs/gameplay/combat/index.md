@@ -1,131 +1,140 @@
-# Combat Basic
+---
+icon: material/sword-cross
+---
 
-The clatter of a sword striking against a shield. The terrible rending sound as monstrous claws tear through armour. A brilliant flash of light as a ball of flame blossoms from a wizard's spell. The sharp tang of blood in the air, cutting through the stench of vile monsters.
+# Combat
 
-Roars of fury, shouts of triumph, cries of pain. Combat in D&D can be chaotic, deadly, and thrilling.
-
-This chapter provides the rules you need for your characters and monsters to engage in combat, whether it is a brief skirmish or an extended conflict in a dungeon or on a field of battle. Throughout this chapter, the rules address you, the player or Dungeon Master.
-
-The Dungeon Master controls all the monsters and nonplayer characters involved in combat, and each other player controls an adventurer. "You" can also mean the character or monster that you control.
+Adventurers encounter many dangerous monsters and nefarious villains. In those moments, combat often breaks out.
 
 ## The Order of Combat
 
-A typical combat encounter is a clash between two sides, a flurry of weapon swings, feints, parries, footwork, and spellcasting. The game organizes the chaos of combat into a cycle of rounds and turns. A round represents about 6 seconds in the game world. 
+A typical combat encounter is a clash betweer two sides, a flurry of weapon swings, feints, parries, footwork, and spellcasting. The game organizes combat into a cycle of rounds and turns. A **Round** reoresents about 6 seconds in the game world.
 
-During a round, each participant in a battle takes a turn. The order of turns is determined at the beginning of a combat encounter, when everyone rolls initiative. Once everyone has taken a turn, the fight continues to the next round if neither side has defeated the other.
+During a round, each participant in a battle takes a turn, The order of turns is determined at the beginning of combat when everyone rolls Initiative. Once everyone has taken a turn, the fight continues to the next round if neither side is defeated.
 
-## Your Turn
+### Combat Step by Step
 
-During your turn, you can do the following on any order:
+Combat unfolds in these steps:
 
-- Move up to your :rsc-speed: **Speed**
-- Take one :rsc-action: **Action**
-- Take one :rsc-bonus-action: **Bonus Action** (If you have a class feature that uses it)
+1. **Establish Position**  
+The DM determines where all the characters and monster are located. Given the adventurers marching order or their stated position in the room or other location, the DM figures out where adversaries are–how far away, and what dicrection.
+
+2. **Roll Initiative**  
+Everyone involved in the combat encounter rolls Initiativem determining the order of combatants' turns.
+
+3. **Take Turns**  
+Each participant in the battle takes a turn in Initiative order. When everyone involved in the combat has had a turn, the round ends. Repeat this step until fighting stops.
 
 ### Initiative
 
 > *"Roll for Initiative!"*
 
-Initiative determines the order in which characters and creatures act during combat in Dungeons & Dragons. Intitiative is made with a :d20-check: Dexterity **Ability Check**
+Initiative determines the order in which characters and creatures act during combat in Dungeons & Dragons. Intitiative is made with a :d20-check: Dexterity **Ability Check**. The DM rolls for monsters. For a group of indentical creatures, the DM makes a singe roll, so each member of the group has the same Initiative.
 
-#### Establishing the Order
+#### Surprise
 
-1. **Turn Order:** The DM organizes all participants from highest to lowest initiative roll. This order dictates who acts first, second, and so on, throughout each round of combat.
-2. **Tie-Breakers:** If two or more participants have the same initiative roll, the participant with the higher Dexterity score goes first.
+If a combatant is suprised by combat starting, that combatant has :d20-disadv: Disadvantage on their Initiative roll, this is relevant during ambushes.
 
-#### Initiative in Combat
+#### Initiative Order
 
-1. **Rounds:** Combat is divided into rounds. Each round represents 6 seconds in the game world, and every participant gets one turn per round.
-2. **Turns:** On their turn, participants can move and take one or more actions (e.g., attack, cast a spell, use an item).
-3. **Order of Actions:** Participants act in the order established by the initiative rolls, from highest to lowest.
-4. **Repeating Order:** After everyone has taken their turn, a new round begins, starting again from the top of the initiative order.
+#### **Turn Order.** The DM organizes all participants from highest to lowest initiative roll. This order dictates who acts first, second, and so on, throughout each round of combat.
 
-### :rsc-action:{ .lg .pad-r } Action
+#### **Tie-Breakers.** If two or more participants have the same initiative roll, the participant with the higher Dexterity score goes first.
 
-Most activities takes an :rsc-action: **Action**, these are also considered *common actions*. See [Action Options](../action-options.md)
+### Your Turn
 
-### :rsc-bonus-action:{ .lg .pad-r } Bonus Action
+During your turn, you can do the following on any order:
 
-Some abilities, spells, and class features allow you to take an additional action on your turn called a :rsc-bonus-action: **Bonus Action**. You can only take one :rsc-bonus-action: **Bonus Action** per turn. Examples include:
+- Move up to your :rsc-speed: **Speed**
+- Take one :rsc-action: **Action**
+- Take one :rsc-bonus-action: **Bonus Action** (If you have a feature that uses it)
 
-- **Rogue's Cunning Action:** Allows rogues to :action-dash: **Dash**, :action-disengage: **Disengage**, or :action-hide: **Hide** using :rsc-bonus-action: **Bonus Action**.
-- **Certain Spells:** Some spells, like *[Healing Word](../../spells/1st-level.md#healing-word)*, can be cast using :rsc-bonus-action: **Bonus Action**.
+#### Communicating
 
-### :rsc-reaction:{ .lg .pad-r } Reaction
+You can communicate however you are able–through bried uttarances and gestures–as you take your turn. Doing so uses neither your :rsc-action: nor your move.
 
-:rsc-reaction: **Reactions** are special actions you can take in response to certain triggers, even when it’s not your turn. You can take one :rsc-reaction: **Reaction** per round. Common reactions include:
+Extended communications, such as detailes explanation of something or an attempt to persuade a foe, requies an action. The **Influence** action is the main way you try to influence a monster.
 
-- **Opportunity Attack:** When an enemy moves out of your reach.
-- **Casting a Spell:** Some spells, like *[Shield](../../spells/1st-level.md#shield)* or *[Counterspell](../../spells/3rd-level.md#counterspell)*, can be cast using :rsc-reaction: **Reaction**.
+#### Interacting with Things
 
-### Dealing Damage
+You can interact with one object or feature of the environment for free during either your move as you stride toward a foe.
 
-*Main Article: [Damage](damage-healing.md#damage)*
+If you want to interact with a second object, you need to take the **Utilise** action. Some magic items and other special object always requires an action to use, as stted in their descriptions.
 
-Roll damage **based in the description of the attack** being used. Damage can often involve multiple dice.
+#### Doing Nothing
 
-Damage is assigned a damage type based on the weapon or effect inflicting the damage, this includes:
+You can forgo moving, takking an action, or doing anything at all on your turn. If you can't decide what to do, consider taking the defensive **Dodge** action or the **Ready** action to delay acting.
 
-- **Physical Damage.** :dmg-bludgeoning: Bludgeoning - :dmg-piercing: Piercing - :dmg-slashing: Slashing
-- **Elemental Damage.** :dmg-acid: Acid - :dmg-cold: Cold - :dmg-fire: Fire - :dmg-lightning: Lightning - :dmg-poison: Poison - :dmg-thunder: Thunder
-- **Magical Damage.** :dmg-force: Force - :dmg-necrotic: Necrotic - :dmg-psychic: Psychic - :dmg-radiant: Radiant
+### Ending Combat
 
-**Vulnerability.** Takes double damage of the corresponding damage type.
+Combat ends when one side or the other is defeated, which can mean the creatures are killed or koncked out, or have surrendered or fled. Combat can also end when both sides agree to end it.
 
-**Resistance.** Takes half damage of the corresponding damage type. 
+## Movement and Position
 
-**Immunity.** Takes no damage of the corresponding damage type.
+On your turn, tou can move a distance equal to yout Speed or less. Or you can decide not to move.
 
-### Moving in Combat
+Your movement can include climbing, crawling, jumping, and swimming. These different modes of movement can be combined with your regular movement, or they can constitute your entire move.
 
-*Main Article: [Movement](movement.md)*
+However you're moving with your Speed, you deduct the distance of each part of your move from it until it is used up or until you are done moving, whichever comes first.
 
-On your turn, you can move up to your :rsc-speed: **Speed**.
+A character's Speed is determined during character creation. A monster Sp4eed is noted in the monster's stat block. See the rules glossary for more about Speed aswell as about special speeds, such as a Climb Speed, Fly Speed, or Swim Speed.
 
-|Special Movement | Description | Cost |
-|---|---|--:|
-| Stand up | Ending the Prone condition on yourself | Half of your total movement |
-| Drop Prone | Give yourself the Prone condition | none |
-| Difficult Terrain | Special terrains that difficult to cross | Movement cost is doubled |
-| Climb, Crawl, Swim | Count as Difficult Terrain | Movevement cost is doubled |
+### Grid-based Movement
 
-#### Breaking Movement
+Playing on a grid follows these rules:
 
-You can break up your Movement on Your Turn, using some of your speed before and after your :rsc-action: **Action**. For example, if you have a speed of 30 feet, you can move 10 feet, take your :rsc-action: **Action**, and then move 20 feet.
+#### Squares
 
-#### Moving Between Attacks
+On a grid, each square represents 5 feet. A character with 30 feet of movement speed can move up to 6 squares per turn.
 
-If you take an :rsc-action: **Action** that includes more than one weapon Attack, you can break up your Movement even further by moving between those attacks. For example, a Fighter who can make two attacks with the Extra Attack feature and who has a speed of 25 feet could move 10 feet, make an Attack, move 15 feet, and then Attack again.
+#### Speed
 
-### Casting Spells
+Rather than moving foot by foot, move square by square on the Grid using your Speed in 5-foot segments. You can translate your Speed into squares by dividing it by 5. For example, a Speed of 30 feet translate into 6 squuares. Consider writing your Speed in sqyares on your character sheet
 
-#### Cantrips
+#### Entering a Square
 
-Cantrips are spell that does not require the use of :rsc-spell-slot: **Spell Slot** to be cast.
+To enter a square, you must have enough movement left to pay for entering. It cost 1 square (5 feet) of movement to enter an unoccupied square that's adjacent to your space. A square of Difficult Terrain costs 2 squares to enter (10 feet). Other effects might make a square cost even more.
 
-#### Spells
+#### Corners
 
-A spell with a level requires :rsc-spell-slot: **Spell Slot** of appropriate level to be cast.
+Diagonal movement can't cross the corner of a wall, a large tree, or another terrain feature that fills the space.
 
-#### Spell Save DC
+#### Ranges
 
-Many spells requires a :d20-save: **Saving Throw** for its effect. The DC is equal to 8 + Spellcasting Modifier + Proficiency Bonus.
+To determine the range on a grid between two things—whether creatures or objects—count squares from a square adjacent to one of them and stop counting nf the space of the other one. Count by the shortest route.
 
-#### Concentration Check
+### Difficult Terrain
 
-Some spell requires Concentration to maintain its effect. When you take damage while Concentrating on a spell, you must make a [Concentration Check](../../character-creation/ability-scores/constitution.md#concentration-check).
+Combatants are often slowed down by Difficult Terrain; Low furniture, rubble, undergrowth, steep stairs, snow, and shallow bogs are examples of Difficult Terrain.
 
-### Interacting with Objects
+Every foot of movement in Difficult Terrain costs 1 extra foot, even if multiple things in a space count as Difficult terrain
 
-During your turn, you can interact with one object or feature of the environment for free. Examples include:
+### Breaking Up Your Move
 
-- Drawing or sheathing a sword.
-- Opening a door.
-- Picking up a small item.
-- Withdraw a potion from your backpack
-- Pick up a dropped axe
-- Take a bauble from a table
-- Hand an item to another character
-- and so on
+You can break up your move, using some of its movement before and after any action, Bonus Action, or Reaction you take on the same turn. For example, if you have a 
+Speed of 30 feet, you could go 10 feet, take an action, and then go 20 feet.
 
-If you want to interact with more than one object, you may need to use your :rsc-action: **Action**.
+### Dropping Prone
+
+On your turn, you can give yourself the Prone condition without using an action or any of your Speed, but you can't do so if your Speed is 0.
+
+### Creature Size
+
+A creature belongs to a size category, which ditermines the width of the square space the creature occupies on a map, as showns on the Creature Size table and Space table. That table lists the sizes from smallest (Tiny) to largest (Gargantuan). A creature's space is the area that it effectively controls in combat and the area it needs to fight effectively.
+
+##### Creature Size and Space
+
+| Size | Space (Feet) | Space (Square) |
+|---|---|---|
+| Tiny | 2½ by 2½ feet | 4 per square |
+| Small | 5 by 5 feet | 1 square |
+| Medium | 5 by 5 feet | 1 square |
+| Large | 10 by 10 feet | 4 square (2 by 2) |
+| Huge | 15 by 15 feet | 9 square (3 by 3) |
+| Gargantuan | 20 by 20 feet | 16 square (4 by 4) |
+
+### Moving around Other Creatures
+
+During your move, you can pass through the space of an ally, a creatyre that has the Incapacitated condition, a Tiny creature, or a creatyre that is two sizes larger or smaller than you.
+
+You can't willingly end a move in a space occupied by another creatyre. If you somehow end a turn in a space with another creature, you have the Prone condition unless you are Tiny or are of a larger size than the other creature.
