@@ -147,4 +147,21 @@ A creatyre that falls into water or another liquid can use its REaction to make 
 
 ### Malnutrition
 
+A creature needs an amount of food per day based on its size, as shown in the Food Needs per Day table. A creature that eats but consumes less than half the required food for a day must suvveed on a DC 10 Constitution saving throw or gain 1 Exhaustion level at the day's end. A creature that eats nothing for 5 days automatically gains 1 Exhaustion level at the end of the fifth day as well as an additional level at the end of each subsequent day without food.
+
+Exhaustion caused by malnutriion can;t be removed untul the creature eats the full amount og the food required for a day.
+
+##### Food Needs per Day
+
+| Size | Food |
+|---|---|
+| Tiny | 1/4 pound |
+| Small | 1 Pound |
+| Medium | 1 Pound |
+| Large | 4 Pound |
+| Huge | 16 Pound |
+| Gargantuan | 64 Pound |
+
 ### Suffocation
+
+A creature can hold its breath for a number of minute equal to 1 plus its Constitution modifier (minimum of 30 seconds) before suffocation begins. When a creature runs out of breath or its choking, it gains 1 Exhaustion level at the end of each of its turns. When a creature can breathe again, it removes all levels of Exhaustion it gained from suffocating.
