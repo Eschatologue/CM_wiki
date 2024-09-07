@@ -15,8 +15,12 @@
 .md-sidebar--primary,
 .md-sidebar--secondary {
     font-size: 18px;
-    width: 280px;
+    width: 320px;
 }
+
+.md-nav--integrated > .md-nav__list > .md-nav__item--active:not(.md-nav__item--nested) {
+    padding: 18px;
+  }
 
 .md-typeset p {
     margin-bottom: 8px;
