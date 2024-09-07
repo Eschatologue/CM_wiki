@@ -19,7 +19,7 @@
 }
 
 .md-nav--integrated > .md-nav__list > .md-nav__item--active:not(.md-nav__item--nested) {
-    padding: 18px;
+    padding: 32px;
   }
 
 .md-typeset p {
