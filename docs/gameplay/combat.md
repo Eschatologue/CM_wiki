@@ -170,6 +170,7 @@ A target can benefit from cover only when an attack or other effect originates o
     If you are hidden when you make an attack roll, you give away your location when the attack hits or misses.
 
 ## Ranged Attacks
+
 When you make a ranged attack, you fire a bow, hurl an axe, or otherwise send projectiles to strike a foe at a distance. Many spells also involve making a ranged attack.
 
 ### Range
@@ -183,6 +184,7 @@ Some ranged attacks, such as those made with a Longbow, have two ranges. The sma
 Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack roll with a weapon, a spell, or some other means, you have Disadvantage on the roll if you are within 5 feet of an enemy who can see you and doesn't have the Incapacitated condition (see the rules glossary).
 
 ## Melee Attacks
+
 A melee attack allows you to attack a target within your reach. A melee attack typically uses a handheld weapon or an Unarmed Strike. Many monsters make melee attacks with claws, teeth, or other body parts. A few spells also involve melee attacks.
 
 ### Reach
