@@ -15,12 +15,8 @@
 .md-sidebar--primary,
 .md-sidebar--secondary {
     font-size: 18px;
-    width: 320px;
+    width: 280px;
 }
-
-.md-nav--integrated > .md-nav__list > .md-nav__item--active:not(.md-nav__item--nested) {
-    padding: 32px;
-  }
 
 .md-typeset p {
     margin-bottom: 8px;
@@ -227,5 +223,5 @@ table tr:last-child td:first-child {
 
 /* Divider Line */
 .md-typeset hr{
-    border-bottom: 5px;
+    border-bottom: 8px;
 }
