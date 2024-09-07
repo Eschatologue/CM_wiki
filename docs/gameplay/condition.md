@@ -154,4 +154,12 @@ While you have the Unconscious condition, you experience the following effects.
 
 ***Unaware.*** You’re unaware of your surroundings.
 
+## Duration
+
+A condition lasts either for a duration specified by the effect that imposed the condition or until the condition is countered (the Prone condition is countered by standing up, for example).
+
+## Conditions Don’t Stack
+
+If multiple effects impose the same condition on you, each instance of the condition has its own duration, but the condition’s effects don’t get worse. Either you have a condition or you don’t. The Exhaustion condition is an exception; its effects get worse if you have the condition and receive it again.
+
 [Incapacitated]: #incapacitated
