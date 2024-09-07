@@ -244,8 +244,7 @@ theme:
     - navigation.tabs
     - navigation.sections
     - navigation.tracking
-#    - navigation.indexes
-    - toc.integrate
+    - navigation.indexes
     - toc.follow
     - content.tooltips
     - admonition

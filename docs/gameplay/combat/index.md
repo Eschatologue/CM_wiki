@@ -146,3 +146,89 @@ When you take the Attack action, you make an attack. Some other actions, Bonus A
 1. **Choose a Target.** Pick a target within your attack's range: a creature, an object, or a location.
 2. **Determine Modifiers.** The DM determines whether the target has Cover (see the next section) and whether you have Advantage or Disadvantage against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll.
 3. **Resolve the Attack.** Make the attack roll, as detailed earlier in this chapter. On a hit, you roll damage unless the particular attack has rules that specify otherwise. Some attacks cause special effects in addition to or instead of damage.
+
+## Cover
+
+Walls, trees, creatures, and other obstacles can provide cover, making a target more difficult to harm. As detailed in the Cover table, there are three degrees of cover, each of which gives a different benefit to a target.
+
+A target can benefit from cover only when an attack or other effect originates on the opposite side of the cover. If a target is behind multiple sources of cover, only the most protective degree of cover applies; the degrees aren't added together. For example, if a target is behind a creature that gives Half Cover and a tree trunk that gives Three-Quarters Cover, the target has Three-Quarters Cover.
+
+##### Cover
+
+| Degree | Benefit to Target | Offered By... |
+|---|---|---|
+| Half | +2 bonus to AC and Dexterity saving throws | Another creature or an object that covers at least half of the target |
+| Three-Quarters | +5 bonus to AC and Dexterity saving throws | An object that covers at least three-quarters of the target |
+| Total | Can't be targeted directly | An object that covers the whole target |
+
+!!! tip "Unseen Attackers and Targets"
+
+    When you make an attack roll against a target you can't see, you have Disadvantage on the roll. This is true whether you're guessing the target's location or targeting a creature you can hear but not see. If the target isn't in the location you targeted, you miss.
+
+    When a creature can't see you, you have Advantage on attack rolls against it.
+
+    If you are hidden when you make an attack roll, you give away your location when the attack hits or misses.
+
+## Ranged Attacks
+When you make a ranged attack, you fire a bow, hurl an axe, or otherwise send projectiles to strike a foe at a distance. Many spells also involve making a ranged attack.
+
+### Range
+
+You can make ranged attacks only against targets within a specified range. If a ranged attack, such as one made with a spell, has a single range, you can't attack a target beyond this range.
+
+Some ranged attacks, such as those made with a Longbow, have two ranges. The smaller number is the normal range, and the larger number is the long range. Your attack roll has Disadvantage when your target is beyond normal range, and you can't attack a target beyond long range.
+
+### Ranged Attacks in Close Combat
+
+Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack roll with a weapon, a spell, or some other means, you have Disadvantage on the roll if you are within 5 feet of an enemy who can see you and doesn't have the Incapacitated condition (see the rules glossary).
+
+## Melee Attacks
+A melee attack allows you to attack a target within your reach. A melee attack typically uses a handheld weapon or an Unarmed Strike. Many monsters make melee attacks with claws, teeth, or other body parts. A few spells also involve melee attacks.
+
+### Reach
+
+A creature has a 5-foot reach and can thus attack targets within 5 feet when making a melee attack. Certain creatures have melee attacks with a reach greater than 5 feet, as noted in their descriptions.
+
+### Opportunity Attacks
+
+Combatants watch for enemies to drop their guard. If you move heedlessly past your foes, you put yourself in danger by provoking an Opportunity Attack.
+
+Avoiding Opportunity Attack. You can avoid provoking an Opportunity Attack by taking the Disengage action. You also don't provoke an Opportunity Attack when you Teleport or when you are moved without using your movement, action, Bonus Action, or Reaction. For example, you don't provoke an Opportunity Attack if an explosion hurls you out of a foe's reach or if you fall past an enemy.
+
+Making an Opportunity Attack. You can make an Opportunity Attack when a creature that you can see leaves your reach. To make the attack, take a Reaction to make one melee attack with a weapon or an Unarmed Strike against that creature. The attack occurs right before it leaves your reach.
+
+### Mounted Combat
+
+A willing creature that is at least one size larger than a rider and that has an appropriate anatomy can serve as a mount, using the following rules.
+
+### Mounting and Dismounting
+
+During your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of movement equal to half your Speed (round down). For example, if your Speed is 30 feet, you spend 15 feet of movement to mount a horse.
+
+### Controlling a Mount
+
+You can control a mount only if it has been trained to accept a rider. Domesticated horses, mules, and similar creatures have such training.
+
+The Initiative of a controlled mount changes to match yours when you mount it. It moves on your turn as you direct it, and it has only three action options during that turn: Dash, Disengage, and Dodge. A controlled mount can move and act even on the turn that you mount it.
+
+In contrast, an independent mount–one that lets you ride but ignores your control—retains its place in the Initiative order and moves and acts as it likes.
+
+### Falling Off
+
+If an effect is about to move your mount against its will while you're on it, you must succeed on a DC 10 Dexterity saving throw or fall off, landing with the Prone condition (see the rules glossary) in an unoccupied space within 5 feet of the mount.
+
+While mounted, you must make the same save if you're knocked Prone or the mount is.
+
+## Underwater Combat
+
+A fight underwater follows these rules.
+
+### Impeded Weapons
+
+When making a melee attack roll with a weapon underwater, a creature that lacks a Swim Speed has Disadvantage on the attack roll unless the weapon deals Piercing damage.
+
+A ranged attack roll with a weapon underwater automatically misses a target beyond the weapon's normal range, and the attack roll has Disadvantage against a target within normal range.
+
+### Fire Resistance
+
+Anything underwater has Resistance to Fire damage (explained in "Damage and Healing").
