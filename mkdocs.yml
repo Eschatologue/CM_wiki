@@ -25,17 +25,17 @@ nav:
       - The Great Split: lore/event/great-split.md
   - Playing the Game:
     - 2024 Player's Handbook Mechanics: 
-      - Dice: gameplay/dice.md
-      - The Six Abilities: gameplay/abilities.md
-      - D20 Test: gameplay/d20-test.md
-      - Proficiency: gameplay/proficiency.md
+      - Dice: gameplay/phb/dice.md
+      - The Six Abilities: gameplay/phb/abilities.md
+      - D20 Test: gameplay/phb/d20-test.md
+      - Proficiency: gameplay/phb/proficiency.md
       - Actions: 
-        - gameplay/actions/index.md
-        - Options: gameplay/actions/options.md
-      - Exploration: gameplay/exploration.md
-      - Combat: gameplay/combat.md
-      - Damage & Healing: gameplay/damage-and-healing.md
-      - Condition: gameplay/condition.md
+        - gameplay/phb/actions/index.md
+        - Options: gameplay/phb/actions/options.md
+      - Exploration: gameplay/phb/exploration.md
+      - Combat: gameplay/phb/combat.md
+      - Damage & Healing: gameplay/phb/damage-and-healing.md
+      - Condition: gameplay/phb/condition.md
     - Homebrew Mechanics:
       - The Silver Standard: gameplay/homebrew/silver-standard.md
       - Death's Door and Resove: gameplay/homebrew/resolve.md
@@ -253,7 +253,7 @@ theme:
   language: en
   palette:
     scheme: slate
-    primary: indigo
+    primary: black
     accent: teal
   font:
     code: Inconsolata
