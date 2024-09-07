@@ -138,3 +138,11 @@ A creature belongs to a size category, which ditermines the width of the square 
 During your move, you can pass through the space of an ally, a creatyre that has the Incapacitated condition, a Tiny creature, or a creatyre that is two sizes larger or smaller than you.
 
 You can't willingly end a move in a space occupied by another creatyre. If you somehow end a turn in a space with another creature, you have the Prone condition unless you are Tiny or are of a larger size than the other creature.
+
+## Making an Attack
+
+When you take the Attack action, you make an attack. Some other actions, Bonus Actions, and Reactions also let you make an attack. Whether you strike with a Melee weapon, fire a Ranged weapon, or make an attack roll as part of a spell, an attack has the following structure:
+
+1. **Choose a Target.** Pick a target within your attack's range: a creature, an object, or a location.
+2. **Determine Modifiers.** The DM determines whether the target has Cover (see the next section) and whether you have Advantage or Disadvantage against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll.
+3. **Resolve the Attack.** Make the attack roll, as detailed earlier in this chapter. On a hit, you roll damage unless the particular attack has rules that specify otherwise. Some attacks cause special effects in addition to or instead of damage.
