@@ -15,7 +15,7 @@
 .md-sidebar--primary,
 .md-sidebar--secondary {
     font-size: 18px;
-    width: 320px;
+    width: 280px;
 }
 
 .md-typeset p {
@@ -222,6 +222,6 @@ table tr:last-child td:first-child {
 }
 
 /* Divider Line */
-.md-typeset hr {
+.md-typeset hr{
     border-bottom: 5px;
 }
