@@ -42,14 +42,6 @@ Characters are considered adjacent if they are in squares next to each other (in
 - Being adjacent to an enemy allows for melee attacks.
 - Moving out of an adjacent square without using the Disengage action provokes an opportunity attack.
 
-### Cover 
-
-Positioning behind obstacles or other characters can provide cover, granting bonuses to AC and Dexterity :d20-save: **Saving Throws**.
-   
-- **Half Cover.** +2 bonus to AC and Dexterity :d20-save: **Saving Throws**.
-- **Three-Quarters Cover.** +5 bonus to AC and Dexterity :d20-save: **Saving Throws**.
-- **Total Cover.** Cannot be targeted directly by attacks or spells.
-
 ## Space
 
 A creature's space is the area in feet that it effectively controls in combat, not an expression of its physical dimensions. A typical Medium creature isn't 5 feet wide, for example, but it does control a space that wide. If a Medium hobgoblin stands in a 5-foot-wide doorway, other creatures can't get through unless the hobgoblin lets them.

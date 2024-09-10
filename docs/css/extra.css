@@ -1,7 +1,10 @@
+/* Imports */
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
 
+/* -------------------------------- */
 /* Base Styles */
+/* -------------------------------- */
 
 /* Default Text */
 .md-typeset {
@@ -11,37 +14,49 @@
     letter-spacing: 0.3px;
 }
 
-/* Side Bar */
-.md-sidebar--primary,
-.md-sidebar--secondary {
-    font-size: 18px;
-    width: 280px;
-}
-
+/* Paragraph Spacing */
 .md-typeset p {
     margin-bottom: 8px;
 }
 
-.md-typeset ol, .md-typeset ul, .md-typeset li {
+/* Lists */
+.md-typeset ol, 
+.md-typeset ul, 
+.md-typeset li {
     margin-top: 6px;
 }
 
+/* Bold Text */
 .md-typeset strong {
     font-weight: 600;
 }
- 
+
+/* Tabbed Block */
 .md-typeset .tabbed-block {
-    margin-bottom: 0px;
+    margin-bottom: 0;
     padding-bottom: 2px;
 }
 
-/* Headers Alignment */
-.md-typeset h1, .md-typeset h2, .md-typeset h3, .md-typeset h4, .md-typeset h5, .md-typeset h6 {
+/* Sidebar */
+.md-sidebar--primary,
+.md-sidebar--secondary {
+    width: 15%;
+}
+
+/* -------------------------------- */
+/* Headings */
+/* -------------------------------- */
+
+/* General Heading Styles */
+.md-typeset h1, 
+.md-typeset h2, 
+.md-typeset h3, 
+.md-typeset h4, 
+.md-typeset h5, 
+.md-typeset h6 {
     font-variant: small-caps;
     letter-spacing: 0.4px;
 }
-
-/* Headings */
 
 /* H1 - Main Heading */
 .md-typeset h1 {
@@ -50,37 +65,35 @@
     font-weight: 400;
 }
 
-/* H2 - Secondary Heading with border bottom */
+/* H2 - Secondary Heading with border */
 .md-typeset h2 {
     border-bottom: 2px solid rgba(255, 255, 255, 0.25);
     padding-bottom: 4px;
-    margin-bottom: -6px;
-    margin-top: 16px;
+    margin: 16px 0 -6px;
 }
 
-/* H3 - Tertiary Heading with line after */
+/* H3 - Tertiary Heading with line */
 .md-typeset h3 {
     font-size: 0.8rem;
     display: flex;
-    margin-bottom: -6px;
-    margin-top: 18px;
+    margin: 18px 0 -6px;
 }
 
 .md-typeset h3::after {
     content: ' ';
     border-bottom: 1.8px solid rgba(255, 255, 255, 0.15);
-    margin: 0px 0px 6px 10px;
+    margin: 0 0 6px 10px;
     flex: 20 0 20px;
 }
 
-/* H4 - Title beginning for complex parts */
+/* H4 - Complex part title */
 .md-typeset h4 {
     font-size: 0.7rem;
     margin-bottom: -0.5rem;
     font-weight: normal;
 }
 
-/* H5 - Title beginning reserved for tables */
+/* H5 - Table title */
 .md-typeset h5 {
     font-variant: normal;
     text-transform: capitalize;
@@ -89,57 +102,72 @@
     margin-bottom: -2px;
 }
 
+/* -------------------------------- */
+/* Theme Colours */
+/* -------------------------------- */
+
 /* Main Theme Colour */
 [data-md-color-scheme=slate] {
     --md-code-bg-color: hsl(240, 8%, 21%);
 }
 
-/* Changes the Theme Neutral Colour (Used for links etc) */
+/* Theme Neutral Colour for links */
 [data-md-color-scheme="slate"][data-md-color-primary="black"] {
     --md-typeset-a-color: hsl(174, 100%, 40%);
 }
 
+/* -------------------------------- */
+/* Icons */
+/* -------------------------------- */
+
 /* Icon Heading */
 .ich1 {
     font-size: 4.5rem;
-    margin-top: 0.25em;
-    margin-bottom: -0.25em;
+    margin: 0.25em 0 -0.25em;
 }
 
+/* Extra Large Icon */
 .xxxxl {
     font-size: 5.5rem;
 }
-/* Code Blocks */
 
-/* Inline Blocks */
+/* -------------------------------- */
+/* Code Blocks */
+/* -------------------------------- */
+
+/* Inline Code */
 .md-typeset code {
-    padding: 6px;
-    padding-top: 3px;
-    padding-bottom: 3px;
+    padding: 3px 6px;
     font-weight: 400;
     font-size: 0.4rem;
     border-radius: 6px;
 }
 
+/* -------------------------------- */
 /* Tool Tips */
+/* -------------------------------- */
 [role=tooltip] > .md-tooltip2__inner {
-    padding: 0.45em;
-    padding-left: 1.5em;
-    padding-right: 1.5em;
+    padding: 0.45em 1.5em;
     max-width: 35rem;
     font-size: 0.7rem;
     font-weight: normal;
     border-radius: 4px;
 }
 
+/* -------------------------------- */
 /* Grid Layout */
+/* -------------------------------- */
 
-/* Space for text block */
+/* Text Block Width */
 .md-grid {
-    max-width: 85%; /* or 100%, if you want to stretch to full-width */
+    max-width: 90%; /* Or 100% for full-width */
 }
 
-/* Color Classes */
+/* -------------------------------- */
+/* Colour Classes */
+/* -------------------------------- */
+
+/* Dark Slate Colours */
 .darkslategray {
     color: #32333d;
 }
@@ -148,7 +176,10 @@
     color: #27272f;
 }
 
+/* -------------------------------- */
 /* Icon Spacing */
+/* -------------------------------- */
+
 .pad-r {
     padding-right: 0.35em;
 }
@@ -157,20 +188,21 @@
     padding-left: 0.35em;
 }
 
+/* -------------------------------- */
 /* Table Styles */
+/* -------------------------------- */
 
-/* Table Size and Appearance */
+/* Table Sizing and Appearance */
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
     font-size: 0.55rem;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding: 5px 10px;
     border-bottom: rgba(255, 255, 255, 0.12);
     background-color: rgba(255, 255, 255, 0.025);
     min-width: 1px;
 }
 
-/* Table: Disable Hover */
+/* Disable Table Row Hover */
 .md-typeset table:not([class]) tbody tr:hover {
     background-color: rgba(0, 0, 0, 0);
 }
@@ -181,19 +213,10 @@
     text-transform: uppercase !important;
     vertical-align: bottom;
     color: rgba(255, 255, 255, 0.6);
-    padding-top: 7px;
-    padding-bottom: 7px;
+    padding: 7px;
 }
 
-/* Table Cell Padding */
-.md-typeset table:not([class]) td {
-    margin-top: 8px;
-    white-space: wrap;
-    padding-top: 5px;
-    padding-bottom: 5px;
-}
-
-/* Table Header and Cell Rounding */
+/* Table Cell Rounding */
 table th:first-child {
     border-radius: 6px 0 0 0 !important;
 }
@@ -202,26 +225,28 @@ table th:last-child {
     border-radius: 0 6px 0 0 !important;
 }
 
-table tr:last-child td:last-child {
-    border-radius: 0 0 6px 0 !important;
-}
-
 table tr:last-child td:first-child {
     border-radius: 0 0 0 6px !important;
 }
 
-/* Table Display and Border Colour */
-.md-typeset__table table:not([class]) {
-    display: table;
-    border-color: #00000000; /* Transparent Colour */
+table tr:last-child td:last-child {
+    border-radius: 0 0 6px 0 !important;
 }
 
-/* Table Width */
+/* Table Border and Width */
 .md-typeset__table {
     width: 100%;
 }
 
+.md-typeset__table table:not([class]) {
+    display: table;
+    border-color: transparent;
+}
+
+/* -------------------------------- */
 /* Divider Line */
-.md-typeset hr{
+/* -------------------------------- */
+
+.md-typeset hr {
     border-bottom: 8px;
 }
