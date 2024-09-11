@@ -1,67 +1,39 @@
-<p style="text-align: center;">
-
-<i>
-
-"Halflings are naturally joyful and sociable, enjoying the comforts of home but possessing a natural luck and dexterity that makes them excellent adventurers. Despite losing their nation to Warp Storms, they quickly integrated with other societies, causing the least trouble among all races."
-
-</i>
-
-</p>
-
 # Halfling
 
-## Main Traits
+Cherished and guided by gods who value life, home, and hearth, halflings gravitate toward bucolic havens where family and community help shape their lives. That said, many halflings possess a brave and adventurous spirit that leads them on journeys of discovery, affording them the chance to explore a bigger world and make new friends along the way. Their size—similar to that of a human child—helps them pass through crowds unnoticed and slip through tight spaces.
 
-#### :material-arrow-up-bold-box: Ability Score Improvement
+Anyone who has spent time around halflings, particularly halfling adventurers, has likely witnessed the storied “luck of the halflings” in action. When a halfling is in mortal danger, an unseen force seems to intervene on the halfling’s behalf. Many halflings believe in the power of luck, and they attribute their unusual gift to one or more of their benevolent gods, including Yondalla, Brandobaris, and Charmalaine. The same gift might contribute to their robust life spans (about 150 years).
 
-One of your Ability Score increases by 2, and one of your Ability Score increases by 1.
+Halfling communities come in all varieties. For every sequestered shire tucked away in an unspoiled part of the world, there’s a crime syndicate like the Boromar Clan in the Eberron setting or a territorial mob of halflings like those in the Dark Sun setting.
 
-#### :material-rotate-right: Age 
+Halflings who prefer to live underground are sometimes called strongheart halflings or stouts. Nomadic halflings, as well as those who live among humans and other tall folk, are sometimes called lightfoot halflings or tallfellows.
 
-A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her second century.
+## Halfling Traits
 
-#### :trait-size: Size  
+*2024 Player's Handbook Species*
 
-Halflings average about 3 feet tall and weigh about 40 pounds. Your size is **Small**.
+:material-human: **Creature Type:** Humanoid  
+:trait-size: **Size:** Small (about 2–3 feet tall)  
+:rsc-speed: **Speed:** 30 feet
 
-#### :rsc-speed: Speed
-
-You are considered to have ^^Slow^^ speed; which is **25 ft**.
-
-#### :trait-language: Languages
-
-You can speak, read, and write *Common* and *Halfling*.
-
-## Additional Traits
+As a Halfling, you have these special traits.
 
 #### Brave
 
-You have :d20-adv: **Advantage** on :d20-save: **Saving Throws** against the Frightened condition.
+You have Advantage on saving throws you make to avoid or end the Frightened condition.
 
 #### Halfling Nimbleness
 
-You can move through the space of any creature that is of a size larger than yours.
+You can move through the space of any creature that is a size larger than you, but you can’t stop in the same space.
 
-#### Lucky
+#### Luck
 
-When you roll a 1 on an :material-target: **Attack Roll**, :dnd-dice-d20: **Ability Check**, or :d20-save: **Saving Throws**, you can reroll the die and must use the new roll.
-
-## Subrace
-
-### Ghostwise
-
-#### Telepathy
-
-You learn the *message* cantrip and you ignore the Verbal, Somatic, and Material component when you cast it. Charisma is your spellcasting ability for this spell.
-
-### Lightfoot
+When you roll a 1 on the d20 of a D20 Test, you can reroll the die, and you must use the new roll.
 
 #### Naturally Stealthy
 
-Your nimble nature makes you skilled at concealment. You have :d20-adv: **Advantage** on Dexterity (Stealth) Checks.
+You can take the Hide action even when you are obscured only by a creature that is at least one size larger than you.
 
-### Strongheart
+## Lore
 
-#### Resilience
-
-You have :d20-adv: **Advantage** on :d20-save: **Saving Throws** against :dmg-poison: **Poison**, and you have [Resistance](../../gameplay/combat/damage-healing.md#resistance) against :dmg-poison: **Poison** damage.
+"Halflings are naturally joyful and sociable, enjoying the comforts of home but possessing a natural luck and dexterity that makes them excellent adventurers. Despite losing their nation to Warp Storms, they quickly integrated with other societies, causing the least trouble among all races."

@@ -1,123 +1,71 @@
-<p style="text-align: center;">
-
-<i>
-
-"Once a revered race, the elves commanded respect across Antares. Yet, they fell from grace, losing their ancient forest, their ties to the tree of life, their long lifespan, and their homeland. Now relegated to the frozen north, they strive to prevent history from repeating itself."
-
-</i>
-
-</p>
-
 # Elf
 
-## Main Traits
+Created by the god Corellon, the first elves could change their forms at will. They lost this ability when Corellon cursed them for plotting with the deity Lolth, who tried and failed to usurp Corellon’s dominion. When Lolth was cast into the Abyss, most elves renounced her and earned Corellon’s forgiveness, but that which Corellon had taken from them was lost forever.
 
-#### :material-arrow-up-bold-box: Ability Score Improvement
+No longer able to shape-shift at will, the elves retreated to the Feywild, where their sorrow was deepened by that plane’s influence. Over time, curiosity led many of them to explore other planes of existence, including worlds in the Material Plane.
 
-One of your Ability Score increases by 2, and one of your Ability Score increases by 1.
+Elves have pointed ears and lack facial and body hair. They live for around 750 years, and they don’t sleep but instead enter a trance when they need to rest. In that state, they remain aware of their surroundings while immersing themselves in memories and meditations.
 
-#### :material-rotate-right: Age
+An environment subtly transforms elves after they inhabit it for a millennium or more, and it grants them certain kinds of magic. Drow, high elves, and wood elves are examples of elves who have been transformed thus.
 
-Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 75 and can live to be 350 years old.
+## Lore
 
-#### :trait-size: Size
+"*Once a revered race, the elves commanded respect across Antares. Yet, they fell from grace, losing their ancient forest, their ties to the tree of life, their long lifespan, and their homeland. Now relegated to the frozen north, they strive to prevent history from repeating itself.*"
 
-Elves range from under 5 to over 6 feet tall and have slender builds. Your size is **Medium**
+#### Drow
 
-#### :rsc-speed: Base Racial Speed
+Long before the ancient forest burned to ashes, you have been driven to the Underdark. Most drow have adopted a ruthless pragmatism since then. Though the underdark was a hellish place no more, their inherent nature of mistrust remains.
 
-You are considered to have ^^Standard^^ speed; which is 30 ft.
+#### High Elf
 
-#### :trait-language: Languages
+Once heirs to the Ancient Forest, high elves are masters of spellcraft and naturally talented wordsmiths. Though your people's misdeeds in the past and the severed connections between your race and the Tree of Life may not have been your fault, it is an original sin that you must carry, whether you want to or not.
 
-You can speak, read, and write *Common* and *Elvish*.
+Outside of your own race, looks of contempt, hatred, and extreme prejudice are the norm for you. The world is not kind to anyone, especially you.
 
-## Additional Traits
+#### Wood Elf
 
-#### :trait-darkvision: Darkvision
+Your kind once tended to the beautiful and lush Ancient Forest. Now, your once slender hands are now covered in soot and calloused from tending to the Generator; the only thing keeping you and your people from being frozen and buried under the snow of the Antares' northern waste.
 
-You can see in the dark up to 60 ft.
+Centuries of training and natural talent in archery and camouflage in the forest have proven to be suprisingly useful skills in Arctic environment.
 
-#### :simple-paloaltonetworks: Fey Ancestry
+---
 
-You have :d20-adv: Advantage** on :d20-save: Saving Throws** against being Charmed and magic can't put you to Sleep. You can easily identify whenever an elf is wood elf, high elf, or a drow just by looking at it. Except when they hide themselves through magical means.
+## Elf Traits
 
-#### :material-wrench: Keen Sense
+*2024 Player's Handbook Species*
 
-You have :trait-prof: **Proficiency** in the Wisdom (Perception) skill.
+:material-human: **Creature Type:** Humanoid  
+:trait-size: **Size:** Medium (about 5–6 feet tall)  
+:rsc-speed: **Speed:** 30 feet
 
-#### :material-sleep-off: Trance
+As an Elf, you have these special traits.
 
-Elves do not sleep. Instead they meditate deeply, remaining semi-conscious, for 4 hours a day. The Common word for this meditation is "trance." 
+#### Darkvision
 
-While meditating, you dream after a fashion; such dreams are actually mental exercises that have become reflexive after years of practice. After resting in this way, you gain the same benefit a human would from 8 hours of sleep.
+You have Darkvision with a range of 60 feet.
 
-> If you meditate during a Long Rest, you finish the rest after only 4 hours. You otherwise obey all the rules for a Long Rest; only the duration is changed.
+#### Elven Lineage
 
-## Elf Subrace
+You are part of a lineage that grants you supernatural abilities. Choose a lineage from the Elven Lineages table. You gain the level 1 benefit of that lineage.
 
-### Drow
+When you reach character levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the lineage).
 
-*Long before the ancient forest burned to ashes, you have been driven to the Underdark. Most drow have adopted a ruthless pragmatism since then. Though the underdark was a hellish place no more, their inherent nature of mistrust remains.*
+#### Fey Ancestry
 
-#### :dnd-stat-spellcasting: Drow Magic
+You have Advantage on saving throws you make to avoid or end the Charmed condition.
 
-You gain access to the following Spells:
+#### Keen Senses
 
-| CHARACTER LEVEL | SPELL LEVEL | SPELL | Usage |
-|:---:|:---:|:---:|:---:|
-| Level 1 | Cantrip | [Dancing Lights] | – |
-| Level 3| I | [Faerie Fire] | Once per Long-rest |
-| Level 5| II | [Darkness] | Once per Long-rest |
+You have proficiency in the Insight, Perception, or Survival skill.
 
-#### :material-sword-cross: Drow Weapon Training
+#### Trance
 
-You have :trait-prof: **Proficiency** with Rapiers, Shortswords, and Hand Crossbows.
+You don’t need to sleep, and magic can’t put you to sleep. You can finish a Long Rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
 
-#### :trait-darkvision-super: Superior Darkvision
+##### Elven Lineage
 
-Your darkvision has a range of 120 ft., instead of 60 ft.
-
-#### :trait-language: Languages
-
-You learn an additional language: *Undercommon*
-
-### High Elf
-
-*Once heirs to the Ancient Forest, high elves are masters of spellcraft and naturally talented wordsmiths. Though your people's misdeeds in the past and the severed connections between your race and the Tree of Life may not have been your fault, it is an original sin that you must carry, whether you want to or not.*
-
-*Outside of your own race, looks of contempt, hatred, and extreme prejudice are the norm for you. The world is not kind to anyone, especially you.*
-
-#### :dnd-stat-spellcasting: Cantrip
-
-You know one cantrip of your choice from the Wizard spell list. Intelligence is your spellcasting ability for it.
-
-#### :material-sword-cross: Elf Weapon Training
-
-You have :trait-prof: **Proficiency** with the Longsword, Shortsword, Shortbow, and Longbow.
-
-#### :material-chat-plus: Expert Wordsmith
-
-You can add your Intelligence modifier to Charisma (Persuasion) and Charisma (Intimidation) check.
-
-#### :trait-language: Languages
-
-You learn *one* additional language of your choice.
-
-### Wood Elf
-
-*Your kind once tended to the beautiful and lush Ancient Forest. Now, your once slender hands are now covered in soot and calloused from tending to the Generator; the only thing keeping you and your people from being frozen and buried under the snow of the Antares' northern waste.*
-
-*Centuries of training and natural talent in archery and camouflage in the forest have proven to be suprisingly useful skills in Arctic environment.*
-
-#### :rsc-speed: Fleet of Foot
-
-Your Movement Speed is increased 5 ft. and are considered to have ^^Fast^^ speed; which is **35 ft.** in total.
-
-#### :material-sword-cross: Elf Weapon Training
-
-You have :trait-prof: **Proficiency** with the Longsword, Shortsword, Shortbow, and Longbow.
-
-#### :dnd-stat-expert: Mask of the Wild
-
-You gain :trait-prof: **Proficiency** in Dexterity (Stealth) and you can attempt to :dnd-action-hide: **Hide** even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
+| Lineage | Level 1 | Level 3 | Level 5 |
+|---|---|---|---|
+| Drow | The range of your Darkvision increases to 120 feet. You also know the Dancing Lights cantrip. | Faerie Fire | Darkness |
+| High Elf | You know the Prestidigitation cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list. | Detect Magic | Misty Step |
+| Wood Elf | Your :rsc-speed: Speed increases to 35 feet. You also know the Druidcraft cantrip. | Longstrider | Pass without Trace |

@@ -63,17 +63,18 @@ nav:
     - Trinket: character-creation/trinket.md
     - Origin:
       - Background: character-creation/origin/background.md
-      - Race:
-        - character-creation/origin/race/index.md
-        - Dragonborn: character-creation/origin/race/dragonborn.md
-        - Dwarf: character-creation/origin/race/dwarf.md
-        - Elf: character-creation/origin/race/elf.md
-        - Gnome: character-creation/origin/race/gnome.md
-        - Half Elf: character-creation/origin/race/half-elf.md
-        - Half Orc: character-creation/origin/race/half-orc.md
-        - Halfling: character-creation/origin/race/halfling.md
-        - Human: character-creation/origin/race/human.md
-        - Tiefling: character-creation/origin/race/tiefling.md
+      - Species:
+        - character-creation/origin/species/index.md
+        - Dragonborn: character-creation/origin/species/dragonborn.md
+        - Dwarf: character-creation/origin/species/dwarf.md
+        - Elf: character-creation/origin/species/elf.md
+        - Gnome: character-creation/origin/species/gnome.md
+        - Half Elf: character-creation/origin/species/half-elf.md
+        - Half Orc: character-creation/origin/species/half-orc.md
+        - Halfling: character-creation/origin/species/halfling.md
+        - Human: character-creation/origin/species/human.md
+        - Londoner: character-creation/origin/species/londoner.md
+        - Tiefling: character-creation/origin/species/tiefling.md
     - Ability Score: 
       - character-creation/ability-scores/index.md
       - Strength: character-creation/ability-scores/strength.md

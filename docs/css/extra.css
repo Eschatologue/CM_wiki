@@ -9,7 +9,7 @@
 /* Default Text */
 .md-typeset {
     text-justify: auto;
-    font-weight: 300;
+    font-weight: 280;
     font-size: 0.6rem;
     letter-spacing: 0.3px;
 }
@@ -28,7 +28,7 @@
 
 /* Bold Text */
 .md-typeset strong {
-    font-weight: 600;
+    font-weight: 540;
 }
 
 /* Tabbed Block */
@@ -74,7 +74,8 @@
 
 /* H3 - Tertiary Heading with line */
 .md-typeset h3 {
-    font-size: 0.8rem;
+    margin-top: -0.25em;
+    font-size: 0.75rem;
     display: flex;
     margin: 18px 0 -6px;
 }
@@ -88,7 +89,7 @@
 
 /* H4 - Complex part title */
 .md-typeset h4 {
-    font-size: 0.7rem;
+    font-size: 0.65rem;
     margin-bottom: -0.5rem;
     font-weight: normal;
 }
@@ -97,7 +98,7 @@
 .md-typeset h5 {
     font-variant: normal;
     text-transform: capitalize;
-    font-size: 0.6rem;
+    font-size: 0.55rem;
     font-weight: 450;
     margin-bottom: -2px;
 }
@@ -248,5 +249,5 @@ table tr:last-child td:last-child {
 /* -------------------------------- */
 
 .md-typeset hr {
-    border-bottom: 8px;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.15);
 }
