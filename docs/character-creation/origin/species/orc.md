@@ -6,13 +6,13 @@ Orcs are, on average, tall and broad. They have gray skin, ears that are sharply
 
 ## Orc Traits
 
-*2024 Player's Handbook Species*
+*2024 Player's Handbook Species – Crown & Misery Homebrew*
 
 :material-human: **Creature Type:** Humanoid  
 :trait-size: **Size:**  Medium (about 6-7 feet tall)  
 :rsc-speed: **Speed:** 30 feet
 
-As a Orc, you have these following traits. 
+As an Orc, you have these following traits. 
 
 ### Adrenaline Rush
 
@@ -24,6 +24,21 @@ You can use this trait a number of times equal to your Proficiency Bonus, and yo
 
 You have Darkvision with a range of 120 feet.
 
+### Orcish Lineage
+
+With Antares teems with Abberations and civilisations are now centered upon Citadel Cities, orcs can now no longer roam the wilderness without putting themselves in mortal danger.
+
+Choose one of the following benefits–an ability from your lineage;
+
+#### Continental Orc
+
+When you score a Critical Hit with a melee weapon attack or Unarmed Strike, you can roll one of the damage dice one additional time and add it to the extra damage of the Critical Hit.
+
+#### Oni
+
+You know the **Dancing Lights** cantrip. You also always have the **Hunter's Mark** spell prepared. You can cast it without a spell slot a number of times equal your Proficiency Bonus, and you regain all expended use when you finish a Long Rest. You can also use any spell slots you have to cast the spell. Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (Choose the ability when you select this lineage).
+
 ### Relentless Endurance
 
 When you are reduced to 0 Hit Point but not killed outright, you can drop to 1 Hit Point instead. Once you use this trait, you can't do so again until you finish a Long Rest.
+
