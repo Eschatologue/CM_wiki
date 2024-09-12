@@ -20,7 +20,7 @@ Dragonborn look like wingless, bipedal dragons–scaly, bright–eyed, and thick
 
 As a Dragonborn, you have these special traits.
 
-#### Draconic Ancestry
+### Draconic Ancestry
 
 You have an ancestry tied to a specific aeiginae. Choose one type of dragon from the Aeignae Ancestry table. Your Breath Weapon damage type and damage resistances are determined by the dragon type, as shown in the table.
 
@@ -37,7 +37,7 @@ You have an ancestry tied to a specific aeiginae. Choose one type of dragon from
 | Vorthalas | :dmg-radiant: **Radiant** |
 | Xanthous | :dmg-force: **Force** |
 
-#### Breath Weapon 
+### Breath Weapon 
 
 Each ancestry provides a damage resistance and a Breath Weapon, which shares the same range and area of effect but different damage type and :d20-save: **Saving Throws**, all breath weapon also increases in damage at certain levels.
 
@@ -52,11 +52,11 @@ When you take the :d20-attack: **Attack** Action on your turn, you can replace o
 
 - :material-battery-clock: **Usage.** You can use your Breath Weapon a number of times equal to your Proficiency Bonus, and you regain all expended use when you finish a Long Rest.
 
-#### Resistances
+### Resistances
 
 You have Resistance to the damage type determined by your Draconic Ancestry trait.
 
-#### Draconic Flight
+### Draconic Flight
 
 When you reach character level 5, you can channel dracomig magic to gice yourself temporary flight. As a Bonus Action, you sprout spectral wings on yourback that last for 10 minutes or until you retract the wings (no action required) or have the Incapacitated condition. During that time, you have Fly Speed equal to your :rsc-speed: Speed.
 
