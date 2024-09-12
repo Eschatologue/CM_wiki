@@ -4,9 +4,7 @@ The ancestors of dragonborn hatched from the eggs of chromatic and metalic drago
 
 Dragonborn look like wingless, bipedal dragons–scaly, bright–eyed, and thick boned with horns on their heads–and their coloration and other features are reminiscent of their draconic ancestors.
 
-## Lore
-
-"*A proud race, prioritizing clan loyalty and individual prowess above all else. Their existence is sculpted by Aeginaes and then placed under servitude for their creator, acting as their executors, leading to their fear and ostracization by other races. Determined to maintain independence and self-sufficiency, they refuse to be indebted to anyone, including once the Gods, and now, the Spires.*"
+"A proud race, prioritizing clan loyalty and individual prowess above all else. Their existence is sculpted by Aeginaes and then placed under servitude for their creator, acting as their executors, leading to their fear and ostracization by other races. Determined to maintain independence and self-sufficiency, they refuse to be indebted to anyone, including once the Gods, and now, the Spires.
 
 ---
 

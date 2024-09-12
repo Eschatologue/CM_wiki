@@ -16,14 +16,16 @@
 
 /* Paragraph Spacing */
 .md-typeset p {
-    margin-bottom: 8px;
+    margin-bottom: 6px;
+    margin-top: 4.5px;
 }
 
 /* Lists */
 .md-typeset ol, 
 .md-typeset ul, 
 .md-typeset li {
-    margin-top: 6px;
+    margin-top: 4px;
+    margin-bottom: 4px;
 }
 
 /* Bold Text */
@@ -63,29 +65,29 @@
 .md-typeset h5, 
 .md-typeset h6 {
     font-variant: small-caps;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.8px;
 }
 
 /* H1 - Main Heading */
 .md-typeset h1 {
-    margin-top: -0.25em;
-    margin-bottom: -6px;
+    margin-top: -0.25em;   
+    margin-bottom: 8px;
     font-weight: 400;
 }
 
 /* H2 - Secondary Heading with border */
 .md-typeset h2 {
     border-bottom: 2px solid rgba(255, 255, 255, 0.25);
-    padding-bottom: 4px;
-    margin: 16px 0 -6px;
+    margin: 12px 0 3.5px 0;
 }
 
 /* H3 - Tertiary Heading with line */
 .md-typeset h3 {
-    margin-top: -0.25em;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    margin-bottom: 4px;
     font-size: 0.75rem;
     display: flex;
-    margin: 18px 0 -6px;
 }
 
 .md-typeset h3::after {
@@ -97,16 +99,18 @@
 
 /* H4 - Complex part title */
 .md-typeset h4 {
-    font-size: 0.65rem;
-    margin-bottom: -0.5rem;
-    font-weight: normal;
+    letter-spacing: 0.8px;
+    font-size: 0.7rem;
+    margin-top: 8px;
+    margin-bottom: 4px;
+    font-weight: 450;
 }
 
 /* H5 - Table title */
 .md-typeset h5 {
     font-variant: normal;
     text-transform: capitalize;
-    font-size: 0.55rem;
+    font-size: 0.5755rem;
     font-weight: 450;
     margin-bottom: -2px;
 }
@@ -257,5 +261,5 @@ table tr:last-child td:last-child {
 /* -------------------------------- */
 
 .md-typeset hr {
-    border-bottom: 2px solid rgba(255, 255, 255, 0.15);
+    border-bottom: 2px dashed rgba(255, 255, 255, 0.15);
 }

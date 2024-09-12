@@ -72,6 +72,7 @@ nav:
         - Gnome: character-creation/origin/species/gnome.md
         - Goliath: character-creation/origin/species/goliath.md
         - Halfling: character-creation/origin/species/halfling.md
+        - Half Elf: character-creation/origin/species/half-elf.md       
         - Human: character-creation/origin/species/human.md
         - Londoner: character-creation/origin/species/londoner.md
         - Orc: character-creation/origin/species/orc.md
@@ -86,8 +87,8 @@ nav:
       - Charisma: character-creation/ability-scores/charisma.md
     - Feats: 
       - character-creation/feat/index.md
-      - Starting Feats: character-creation/feat/feat-starting.md
-      - 4th-Level Feats: character-creation/feat/feat-4th-level.md
+      - Origin Feats: character-creation/feat/feat-origin.md
+      - General Feats: character-creation/feat/feat-general.md
       - 8th-Level Feats: character-creation/feat/feat-8th-level.md
       - Fighting Style: character-creation/feat/feat-fighting-style.md
       - Racial Feats: character-creation/feat/feat-racial.md
