@@ -8,15 +8,15 @@ The Londoners arrived from beyond Antares through the Northern Gate, bringing wi
 
     When you choose this race, you are restricted from the **Bard**, **Cleric**, **Druid**, **Sorcerer**, and **Wizard** classes.
 
-## Human Traits
+## Londoner Traits
 
 *Crown & Misery Species*
 
 :material-human: **Creature Type:** Humanoid  
-:trait-size: **Size:** Medium (about 4–7 feet tall) or Small (about 2–4 feet tall), chosen when you select this species
+:trait-size: **Size:** Medium (about 4-7 feet tall) or Small (about 2-4 feet tall), chosen when you select this species  
 :rsc-speed: **Speed:** 30 feet
 
-As a Londoner, you have these special traits.
+As a Londoner, you have these following traits. Moreover, you are considered a **Human** for the purpose of features or effects that requires you to be Human.
 
 #### Additional Language
 
@@ -28,7 +28,7 @@ You have proficiency with Short-Arms. If you are proficient in Martial Weapons, 
 
 #### Inferior Athleticism
 
-You have Disadvantage on contested Strength-based D20 Test against creatures other than your own species.
+You have Disadvantage on Strength-based D20 Test against creatures other than your own species.
 
 #### Skillful
 
