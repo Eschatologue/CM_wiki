@@ -37,11 +37,18 @@
     padding-bottom: 2px;
 }
 
-/* Sidebar */
+/* -------------------------------- */
+/* Navigations & Sidebar */
+/* -------------------------------- */
+
 .md-sidebar--primary,
 .md-sidebar--secondary {
     width: 15%;
 }
+
+.md-nav__item--section > .md-nav > .md-nav__list {
+    margin-left: 1rem;
+  }
 
 /* -------------------------------- */
 /* Headings */
