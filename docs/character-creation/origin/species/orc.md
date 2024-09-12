@@ -36,7 +36,7 @@ When you score a Critical Hit with a melee weapon attack or Unarmed Strike, you 
 
 #### Oni
 
-You know the **Dancing Lights** cantrip. You also always have the **Hunter's Mark** spell prepared. You can cast it without a spell slot a number of times equal your Proficiency Bonus, and you regain all expended use when you finish a Long Rest. You can also use any spell slots you have to cast the spell. Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (Choose the ability when you select this lineage).
+[To be Added]
 
 ### Relentless Endurance
 

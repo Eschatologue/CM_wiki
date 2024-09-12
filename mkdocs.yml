@@ -65,6 +65,7 @@ nav:
       - Background: character-creation/origin/background.md
       - Species:
         - character-creation/origin/species/index.md
+        - Aasimar: character-creation/origin/species/aasimar.md
         - Dragonborn: character-creation/origin/species/dragonborn.md
         - Dwarf: character-creation/origin/species/dwarf.md
         - Elf: character-creation/origin/species/elf.md
