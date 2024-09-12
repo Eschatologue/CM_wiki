@@ -11,7 +11,7 @@ Humans are as diverse in appearance as the people of Earth, and they have many g
 *2024 Player's Handbook Species*
 
 :material-human: **Creature Type:** Humanoid  
-:trait-size: **Size:** Medium (about 4–7 feet tall) or Small (about 2–4 feet tall), chosen when you select this species
+:trait-size: **Size:** Medium (about 4–7 feet tall) or Small (about 2–4 feet tall), chosen when you select this species  
 :rsc-speed: **Speed:** 30 feet
 
 As a Human, you have these special traits.

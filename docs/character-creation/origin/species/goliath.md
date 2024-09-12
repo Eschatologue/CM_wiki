@@ -9,7 +9,7 @@ Goliaths have physical charateristic that are reminiscent of the giants in their
 *2024 Player's Handbook Species*
 
 :material-human: **Creature Type:** Humanoid  
-:trait-size: **Size:**  Small (about 7-8 feet tall)  
+:trait-size: **Size:**  Medium (about 7-8 feet tall)  
 :rsc-speed: **Speed:** 35 feet
 
 As a Goliath, you have these following traits. 
@@ -26,15 +26,15 @@ As a Bonus Action, you magically teleport up to 30 feet to an unoccupied space y
 
 When you hit a target with an attack roll and deal damage to it, you can also deal 1d10 :dmg-fire: Fire damage to that target.
 
-### Frost's Chill (Frost Giant)
+#### Frost's Chill (Frost Giant)
 
 When you hit a target with an attack roll and deal damage to it, you can give that target the Prone condition.
 
-### Stone's Endurance (Stone Giant)
+#### Stone's Endurance (Stone Giant)
 
 When you take damage, you can take a Reaction to roll 1d12. Add your Constitution to the number rolled and reduce the damage by that total.
 
-### Storm's Thunder (Storm Giant)
+#### Storm's Thunder (Storm Giant)
 
 When you take damage from a creature within 60 feet of you, you can take a Reaction to deal 1d8 :dmg-thunder: Thunder damage to that creature.
 

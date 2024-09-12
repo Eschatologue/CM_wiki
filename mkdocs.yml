@@ -73,6 +73,7 @@ nav:
         - Halfling: character-creation/origin/species/halfling.md
         - Human: character-creation/origin/species/human.md
         - Londoner: character-creation/origin/species/londoner.md
+        - Orc: character-creation/origin/species/orc.md
         - Tiefling: character-creation/origin/species/tiefling.md
     - Ability Score: 
       - character-creation/ability-scores/index.md
