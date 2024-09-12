@@ -32,14 +32,14 @@ Also known as 'Shield Dwarves', they are strong and hardy, accustomed to a diffi
 
 As a Dwarf, you have these special traits.
 
-#### Darkvision
+### Darkvision
 
 You have Darkvision with a range of 120 feet.
 
-#### Dwarven Resilience
+### Dwarven Resilience
 
 You have Resistance to :dmg-poison: Poison damage. You also have :d20-adv: Advantage on saving throws you make to avoid or end the Poisoned condition.
 
-#### Stonecunning 
+### Stonecunning 
 
 As a Bonus Action, you gain Tremorsense with a range of 60 feet for 10 minutes. You must be on a stone surface or touching a stone surface to use this Tremorsense. The stone can be natural or worked. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.

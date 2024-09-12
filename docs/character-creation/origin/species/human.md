@@ -16,14 +16,14 @@ Humans are as diverse in appearance as the people of Earth, and they have many g
 
 As a Human, you have these special traits.
 
-#### Resourceful
+### Resourceful
 
 You gain Heroic Inspiration whenever you finish a Long Rest.
 
-#### Skillful
+### Skillful
 
 You gain proficiency in one skill of your choice.
 
-#### Versatile
+### Versatile
 
 You gain an Origin feat of your choice. Skilled is recommended.

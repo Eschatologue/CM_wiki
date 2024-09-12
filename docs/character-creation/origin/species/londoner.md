@@ -18,26 +18,26 @@ The Londoners arrived from beyond Antares through the Northern Gate, bringing wi
 
 As a Londoner, you have these following traits. Moreover, you are considered a **Human** for the purpose of features or effects that requires you to be Human.
 
-#### Additional Language
+### Additional Language
 
 You learn an additional language; *English*
 
-#### British Ingenuity
+### British Ingenuity
 
 You have proficiency with Short-Arms. If you are proficient in Martial Weapons, it also grants you proficiency with Long-Arms.
 
-#### Inferior Athleticism
+### Inferior Athleticism
 
-You have Disadvantage on Strength-based D20 Test against creatures other than your own species.
+If your Strength score is 13 or lower, you have Disadvantage on Strength-based D20 Test against creatures other than your own species.
 
-#### Skillful
+### Mental Resilience
+
+You have Resistance to :dmg-psychic: Psychic damage. You also have :d20-adv: Advantage on saving throws you make to avoid or end the Frightened condition.
+
+### Skillful
 
 You gain proficiency in one skill of your choice.
 
-#### Resourceful
-
-You gain Heroic Inspiration whenever you finish a Long Rest.
-
-#### Versatile
+### Versatile
 
 You gain an Origin feat of your choice. Skilled is recommended.
