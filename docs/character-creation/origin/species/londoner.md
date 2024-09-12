@@ -24,7 +24,7 @@ You learn an additional language; *English*
 
 ### British Ingenuity
 
-You have proficiency with Short-Arms. If you are proficient in Martial Weapons, it also grants you proficiency with Long-Arms.
+You have proficiency with :weapon-pistol: Short-Arms. If you are proficient in Martial Weapons, it grants you proficiency with all Firearms.
 
 ### Inferior Athleticism
 

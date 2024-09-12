@@ -8,8 +8,6 @@ Elves have pointed ears and lack facial and body hair. They live for around 750 
 
 An environment subtly transforms elves after they inhabit it for a millennium or more, and it grants them certain kinds of magic. Drow, high elves, and wood elves are examples of elves who have been transformed thus.
 
-## Lore
-
 "*Once a revered race, the elves commanded respect across Antares. Yet, they fell from grace, losing their ancient forest, their ties to the tree of life, their long lifespan, and their homeland. Now relegated to the frozen north, they strive to prevent history from repeating itself.*"
 
 #### Drow
@@ -69,3 +67,4 @@ You don’t need to sleep, and magic can’t put you to sleep. You can finish a 
 | Drow | The range of your Darkvision increases to 120 feet. You also know the Dancing Lights cantrip. | Faerie Fire | Darkness |
 | High Elf | You know the Prestidigitation cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list. | Detect Magic | Misty Step |
 | Wood Elf | Your :rsc-speed: Speed increases to 35 feet. You also know the Druidcraft cantrip. | Longstrider | Pass without Trace |
+
