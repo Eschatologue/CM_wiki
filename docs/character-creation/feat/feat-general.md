@@ -821,6 +821,22 @@ Immediately after initiative is rolled, you can use your :rsc-reaction: **Reacti
 
 ---
 
+### Masterful Technique
+
+*General Feat (Prerequisite: Level 4+, At least one Fighting Style Feat)*  
+
+You have learned to change your fighting stance to best meet the challenges you face. You gain the following benefits:
+
+**Ability Score Increase**  
+You increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.
+
+**Technical Shift**  
+You gain one Fighting Style feat of your choice. However, you can only benefit from the effects of one Fighting Style feat you know.
+
+As a Bonus Action, you can switch your current Fighting Style to another Fighting Style that you know.
+
+---
+
 ### Overwhelming Strength
 
 *General Feat (Prerequisite: Level 4+)* 

@@ -2,7 +2,7 @@
 icon: material/sword-cross
 ---
 
-Fighting Styles are features available to multiple classes or characters that take the [Fighting Initiate] Feat, letting them specialize in a specific form of weaponry or role in combat. You can't take the same Fighting Style option more than once, even if you get to choose again.
+You can't take the same Fighting Style option more than once, even if you get to choose again.
 
 ## 2024 Player's Handbook Fighting Style
 
@@ -46,7 +46,7 @@ When you are wielding a Melee Weapon in one hand and no other Weapons, you gain 
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-When you roll damage for an attack you make with a Melee weaoon that you are holding with two hands, you can treat any 1 or 2 on a damage die as a 3. The weapon must have the Two-Handed or Versatile property to gain this benefit.
+When you roll damage for an attack you make with a Melee cold weapon that you are holding with two hands, you can treat any 1 or 2 on a damage die as a 3. The weapon must have the Two-Handed or Versatile property to gain this benefit.
 
 ---
 
@@ -108,7 +108,7 @@ While wielding a :weapon-prop-finesse: Finesse weapon and no other weapon, you g
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*  
 
-When you make a melee attack with a Cold Weapon that has :weapon-prop-heavy: Heavy and :weapon-prop-two-handed: Two-handed property as part of your Attack action, you treat a ^^total^^ roll of 5 or lower on the weapon's damage dice as a 6.
+When you make a melee attack with a cold weapon that has :weapon-prop-heavy: Heavy and :weapon-prop-two-handed: Two-handed property as part of your Attack action and the ^^total^^ damage roll from your weapon is 5 or lower, you treat it as 6
 
 ---
 
@@ -154,10 +154,9 @@ If a manoeuvre you use requires your target to make a :d20-save: **Saving Throw*
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*  
 
-When you make an attack with a Ranged weapon while having the Prone condition, you gain the following benefits: 
+When you make an Attack roll with a Ranged weapon while having the Prone condition, that attack doesn't have :d20-disadv: Disadvantage so long your target is within your weapon normal range and on hit, you can roll the weapon's damage dice twice and use either roll against the target.
 
-- That attack doesn't have :d20-disadv: Disadvantage so long your target is within your weapon normal range, even if the target has the Prone condition.
-- On hit, you can treat any 1 or 2 on a damage die as a 3.
+Moreover, your attack with Ranged weapon doesn't have :d20-disadv: Disadvantage if your target has the Prone condition so long your target is within your weapon normal range.
 
 ---
 
@@ -184,5 +183,3 @@ Moreover, you also use your Strength instead of your Dexterity to fufill the :we
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
 While wielding a single weapon with the:weapon-prop-versatile: Versatile property and no shield, you gain a +1 bonus to your :d20-attack: Attack Roll and Damage Roll with that weapon. While doing so, you can also use your :rsc-bonus-action: Bonus Action to make a single grapple or shove attack, take the Use an Object Action, or take the Utilise action.
-
-[Fighting Initiate]: feat-origin#fighting-intiate
