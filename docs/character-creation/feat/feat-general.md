@@ -743,7 +743,7 @@ When wielding a Magical weapon that you're proficient with and that provides a b
 
 You have learned to channel your magic through a deck of cards. 
 
-- **Ability Score Increase**  
+**Ability Score Increase**  
 Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
     
 **All is Revealed**  
@@ -885,3 +885,6 @@ When you take the Attack action and attack with melee weapon that has the :weapo
 
 **Fleuret**  
 The first creature you hit on your turn has :d20-disadv: Disadvantage on :d20-attack: Attack Roll against you until the start of your next turn.
+
+---
+
