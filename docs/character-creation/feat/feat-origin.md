@@ -291,5 +291,37 @@ You can create written ciphers. Others can’t decipher a code you create unless
 **Analyze and Empathize**  
 If you spend 1 minute analyzing a language you do not know, you can discern small bits of information such as intent, direction, and emotion.
 
+---
 
+### Sorcerous Spark
+
+*Origin Feat*
+
+While you may not be a true Sorcerer, within you dwells a small spark of arcane power. You gain the benefits below:
+
+**Sorcerers Spells**  
+You learn one Cantrip and two level 1 spells of your choice from the Sorcerer spell list, and you use Charisma as your spellcasting modifier for all three Sorcerer spells.
+
+**Sorcery Points**  
+You gain two Sorcery Points which you can expend to cast either of the spells that you learned from this Feat, or any other Sorcerer spells you know. Should you already have Sorcery Points, these are added to your existing pool. You regain all your Sorcery Points when you finish a long rest.
+
+***Source:** Laserllama Compendium of Feats*
+
+---
+
+### Wise One
+
+*Origin Feat*
+
+You find ways to learn from every experience in life, always growing in wisdom. You gain the benefits on the table below that correspond to your current Wisdom score and lower. Should your Wisdom score increase, the benefits that you gain from this Feat also increase with your score.
+
+| Wisdom Score | Benefit |
+|:-:|---|
+| 12-13 | You gain proficiency with one musical instrument of your choice. |
+| 14-15 | You can make Wisdom (Persuasion) checks in place of Charisma (Persuasion) checks. |
+| 16-17 | You gain proficiency in either Animal Handling, Insight, Medicine, or Perception. |
+| 18-19 | You have Advantage on saving throws to end the charmed and frightened conditions. |
+| 20+ | When you are forced to make a Charisma or Intelligence saving throw, you can choose to make a Wisdom saving throw instead. |
+
+***Source:** Laserllama Compendium of Feats*
 

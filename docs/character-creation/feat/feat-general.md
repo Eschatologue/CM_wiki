@@ -746,11 +746,11 @@ You have learned to channel your magic through a deck of cards.
 **Ability Score Increase**  
 Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
     
-**All is Revealed**  
+**Card Focus**  
 You can use a card deck as your spellcasting focus.
     
 **Card Tricks**  
-You learn the **Thaumaturgy** and **Guidance** cantrip. When you cast those cantrips through card deck and you can use it to create Illusions that duplicate the effects of stage magic or use it to reveal a Divination to a target. You can conceal the verbal and somatic components of the spell as ordinary conversation or card handling.
+You learn the **Thaumaturgy** and **Guidance** cantrip. When you cast those cantrips through card deck and you can use it to create illusions that duplicate the effects of stage magic or use it to reveal a divination to a target. You can conceal the verbal and somatic components of the spell as ordinary conversation or card handling.
     
 **Hidden Ace**  
 When you finish a Long Rest, you can choose two spell from your class's spell list and imbue those spell into cards. The chosen spell must have a casting time of 1 action, and it must be a level for which you have :rsc-spell-slot: Spell Slots. The card remains imbued with this spell for 8 hours. 
@@ -790,7 +790,7 @@ You gain proficiency with Short-Arms. If you have proficiency with at least one 
 
 ### Flash Recall
 
-*General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)* 
+*General Feat (Prerequisite: Level 4+, Spellcasting feature from a class that ^^prepares^^ spells)* 
 
 You’ve developed the ability to instantly recall an unprepared spell in moments of sudden necessity. You gain the following benefits:
 
@@ -885,6 +885,3 @@ When you take the Attack action and attack with melee weapon that has the :weapo
 
 **Fleuret**  
 The first creature you hit on your turn has :d20-disadv: Disadvantage on :d20-attack: Attack Roll against you until the start of your next turn.
-
----
-
