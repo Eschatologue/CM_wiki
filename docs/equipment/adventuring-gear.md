@@ -1,8 +1,9 @@
 ---
-icon: material/tent
+icon: material/broom
 ---
 
 # Adventuring Gear
+
 The Adventuring Gear table in this section includes gear that adventurers often find useful. These items are described here in alphabetical order, with an item’s price appearing after its name.
 
 ##### Adventuring Gear table
@@ -581,6 +582,8 @@ A Torch burns for 1 hour, casting Bright Light in a 20-foot radius and Dim Light
 ### Vial (1 GP)
 
 A Vial holds up to 4 ounces.
+
+---
 
 ### Waterskin (2 SP)
 

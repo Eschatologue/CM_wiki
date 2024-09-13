@@ -107,7 +107,8 @@ nav:
         - equipment/tools/index.md
         - Artisan Tools: equipment/tools/artisan-tools.md
         - Other Tools: equipment/tools/other-tools.md
-      - Adventuring Gear: equipment/adventuring-gear.md
+      - Other Gears:
+        - Adventuring Gear: equipment/adventuring-gear.md
       - Consumeables: 
         - Potion: equipment/consumeables/potion.md
         - Spell Scroll: equipment/consumeables/spell-scroll.md
