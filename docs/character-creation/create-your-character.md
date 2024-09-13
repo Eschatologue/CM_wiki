@@ -302,7 +302,7 @@ Include all modifiers that apply to your Wisdom (Perception) checks. For example
 ***Attacks.*** In the Weapons & Damage Cantrips section of the character sheet, write your starting weapons. The attack roll bonus for a weapon with which you have proficiency is one of the following unless a weapon's property says otherwise:
 
 <p style="text-align:center;">
-<strong>Melee attack bonus</strong>= Strength modifier + Proficiency Bonus
+<strong>Melee attack bonus</strong> = Strength modifier + Proficiency Bonus
 </p>
 <p style="text-align:center;">
 <strong>Ranged attack bonus</strong> = Dexterity modifier + Proficiency Bonus

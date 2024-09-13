@@ -147,7 +147,7 @@ A subclass is a specialization that grants you special abilities at certain Cler
 
 ## Level 4: Ability Score Improvement
 
-You gain the [Ability Score Improvement](../../character-creation/feat/feat-4th-level.md#ability-scores-improvement) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](../../character-creation/feat/feat-general.md#ability-scores-improvement) feat or another feat of your choice for which you qualify.
 
 As shown on the Cleric table, you gain this feature again at levels 8, 12, 16, and 19.
 

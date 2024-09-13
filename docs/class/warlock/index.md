@@ -135,7 +135,7 @@ A subclass is a specialization that grants you special features at certain Warlo
  
 ## Ability Score Improvement
 
-You gain the [Ability Score Improvement](../../character-creation/feat/feat-4th-level.md#ability-scores-improvement) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](../../character-creation/feat/feat-general.md#ability-scores-improvement) feat or another feat of your choice for which you qualify.
 
 As shown on the Warlock table, you gain this feature again at levels 8, 12, 16, and 19.
 

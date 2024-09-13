@@ -143,7 +143,7 @@ You've learned how to produce exactly the tool you need: with thieves' tools or 
 
 ## Level 4: Ability Score Improvement 
 
-When you reach **4th level**, **8th**, **12th**, **16th**, and **19th level**, you gain	the	Ability Score Improvement(../../character-creation/feat/feat-4th-level.md#ability-scores-improvement) feat or another feat of your choice for which you qualify.
+When you reach **4th level**, **8th**, **12th**, **16th**, and **19th level**, you gain	the	Ability Score Improvement(../../character-creation/feat/feat-general.md#ability-scores-improvement) feat or another feat of your choice for which you qualify.
 
 ## Level 6: Tool Expertise
 

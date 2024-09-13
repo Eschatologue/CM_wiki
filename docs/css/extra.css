@@ -78,12 +78,12 @@
 /* H2 - Secondary Heading with border */
 .md-typeset h2 {
     border-bottom: 2px solid rgba(255, 255, 255, 0.25);
+    padding-bottom: 2px;
     margin: 12px 0 4.5px 0;
 }
 
 /* H3 - Tertiary Heading with line */
 .md-typeset h3 {
-    letter-spacing: 1px;
     margin-top: 10px;
     margin-bottom: 4px;
     font-size: 0.75rem;
@@ -92,15 +92,15 @@
 
 .md-typeset h3::after {
     content: ' ';
-    border-bottom: 1.8px solid rgba(255, 255, 255, 0.15);
+    padding-bottom: 2px;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.15);
     margin: 0 0 6px 10px;
     flex: 20 0 20px;
 }
 
 /* H4 - Complex part title */
 .md-typeset h4 {
-    letter-spacing: 0.8px;
-    font-size: 0.7rem;
+    font-size: 0.725rem;
     margin-top: 8px;
     margin-bottom: 4px;
     font-weight: 450;
