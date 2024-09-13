@@ -1,6 +1,8 @@
 ---
 hide:
     - navigation
+search:
+  exclude: true
 ---
 
 # Adventuring Gears Details

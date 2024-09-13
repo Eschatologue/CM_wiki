@@ -95,6 +95,22 @@ nav:
       - Metamagic: character-creation/option/metamagic.md
       - Eldritch Invocations: character-creation/option/invocations.md
       - Combat Manoeuvre: character-creation/option/manoeuvre.md
+  - Equipment: 
+      - Weapons: 
+        - equipment/weapon/index.md
+        - Cold Weapons: equipment/weapon/weapon-cold.md
+        - Firearms: equipment/weapon/weapon-firearm.md
+      - Armour: 
+        - equipment/armour/index.md
+        - Armour Types: equipment/armour/armour-table.md
+      - Tools: 
+        - equipment/tools/index.md
+        - Artisan Tools: equipment/tools/artisan-tools.md
+        - Other Tools: equipment/tools/other-tools.md
+      - Consumeables: 
+        - Potion: equipment/consumeables/potion.md
+        - Spell Scroll: equipment/consumeables/spell-scroll.md
+        - Grenade: equipment/consumeables/grenade.md
   - Class: 
     - class/index.md
     - Expert Group:
@@ -181,23 +197,6 @@ nav:
         - Elements: class/monk/element.md
         - Hand: class/monk/hand.md
         - Shadow: class/monk/shadow.md
-  - Items & Equipment: 
-    - Armour: 
-      - equipment/armour/index.md
-      - Armour Types: equipment/armour/armour-table.md
-    - Weapons: 
-      - equipment/weapon/index.md
-      - Cold Weapons: equipment/weapon/weapon-cold.md
-      - Firearms: equipment/weapon/weapon-firearm.md
-    - Equipments: 
-      - Adventuring Gear: equipment/tools/adventuring-gear.md
-      - Tools & Kits: equipment/tools/artisan-tools.md
-      - Other Tools: equipment/tools/other-tools.md
-      - Backpack: equipment/tools/backpack.md
-    - Consumeables: 
-      - Potion: equipment/consumeables/potion.md
-      - Spell Scroll: equipment/consumeables/spell-scroll.md
-      - Grenade: equipment/consumeables/grenade.md
   - Spells:
     - Cantrip: spells/cantrip.md
     - Level 1 Spell: spells/1st-level.md

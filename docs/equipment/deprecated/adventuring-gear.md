@@ -1,5 +1,7 @@
 ---
 icon: material/tent
+search:
+  exclude: true
 ---
 
 This section describes items that have special rules or require further explanation.

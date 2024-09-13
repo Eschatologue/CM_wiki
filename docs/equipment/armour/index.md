@@ -1,4 +1,4 @@
-# Understanding Armour and Armour Class
+# Armour
 
 Fantasy gaming worlds are a vast tapestry made up of many different cultures, each with its technology level. For this reason, adventurers have access to a variety of armour types, ranging from leather armour to chain mail to costly plate armour, with several other kinds of armour in between.
 

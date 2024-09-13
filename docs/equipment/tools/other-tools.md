@@ -1,66 +1,68 @@
 ---
-icon: material/gamepad-square
+icon: material/google-nearby
 ---
 
-# Gaming Sets & Musical Instrument Table
+# Other Tools
 
-## Gaming Sets
+These tools support adventure and other pursuits.
 
-Proficiency with a gaming set applies to one type of game, such as Three-Dragon Ante or games of chance that use dice.
+---
 
-**Components**  
-A gaming set has all the pieces needed to play a specific game or type of game, such as a complete deck of cards or a board and tokens.
+### Disguise Kit (250 SP)
 
-**History**  
-Your mastery of a game includes knowledge of its history, as well as of important events it was connected to or prominent historical figures involved with it.
+**Ability:** Charisma  
+**Utilize:** Apply makeup (DC 10)  
+**Craft:** Costume
 
-**Insight**  
-Playing games with someone is a good way to gain understanding of their personality, granting you a better ability to discern their lies from their truths and read their mood.
+---
 
-**Sleight of Hand**  
-Sleight of Hand is a useful skill for cheating at a game, as it allows you to swap pieces, palm cards, or alter a die roll. Alternatively, engrossing a target in a game by manipulating the components with dexterous movements is a great distraction for a pickpocketing attempt.
+### Forgery Kit (150 SP)
 
-| activity | DC |
-| --- | :-: |
-| Catch a player cheating | 15 |
-| Gain insight into an opponent's personality | 15 |
+**Ability:** Dexterity  
+**Utilize:** Mimic 10 or fewer words of someone else’s handwriting (DC 15), or duplicate a wax seal (DC 20)  
 
-## Musical Instruments
+---
 
-Proficiency with a musical instrument indicates you are familiar with the techniques used to play it. You also have knowledge of some songs commonly performed with that instrument.
+### Gaming Set (Varies)
+**Ability:** Wisdom  
+**Utilize:** Discern whether someone is cheating (DC 10), or win the game (DC 20)  
+**Variants:** Dice (1 SP), dragonchess (1 GP), playing cards (5 SP), three-dragon ante (1 GP)
 
-**History**  
-Your expertise aids you in recalling lore related to your instrument.
+---
 
-**Performance**  
-Your ability to put on a good show is improved when you incorporate an instrument into your act.
+### Herbalism Kit (50 SP)
 
-**Compose a Tune**  
-As part of a Long Rest, you can compose a new tune and lyrics for your instrument. You might use this ability to impress a noble or spread scandalous rumors with a catchy tune.
+**Ability:** Intelligence  
+**Utilize:** Identify a plant (DC 10)  
+**Craft:** Antitoxin, Candle, Healer’s Kit, Potion of Healing
 
-| activity | DC |
-| --- | :-: |
-| Identify a tune | 10 |
-| Improvise a tune | 20 |
+---
 
-## Gaming Sets & Musical Instrument Table
+### Musical Instrument (Varies)
+**Ability:** Charisma  
+**Utilize:** Play a known tune (DC 10), or improvise a song (DC 15)  
+**Variants:** Bagpipes (30 GP, 6 lb.), drum (6 GP, 3 lb.), dulcimer (25 GP, 10 lb.), flute (2 GP, 1 lb.), horn (3 GP, 2 lb.), lute (35 GP, 2 lb.), lyre (30 GP, 2 lb.), pan flute (12 GP, 2 lb.), shawm (2 GP, 1 lb.), viol (30 GP, 1 lb.)
 
-| gaming sets | cost |
-| --- | --: |
-| Dice set | 1 SP |
-| Dragonchess set | 10 SP |
-| Playing card set | 5 SP |
-| Three-Dragon Ante set | 10 SP |
+---
 
-| musical instrument | cost |
-| --- | --: |
-| Bagpipes | 300 SP |
-| Drum | 60 SP |
-| Dulcimer | 250 SP |
-| Flute | 20 SP |
-| Lute | 350 SP |
-| Lyre | 300 SP |
-| Horn | 30 SP |
-| Pan flute | 120 SP |
-| Shawm | 20 SP |
-| Viol | 300 SP |
+### Navigator’s Tools (250 SP)
+
+**Ability:** Wisdom  
+**Utilize:** Plot a course (DC 10), or determine position by stargazing (DC 15)
+
+---
+
+### Poisoner’s Kit (500 SP)
+
+**Ability:** Intelligence  
+**Utilize:** Detect a poisoned object (DC 10)  
+**Craft:** Basic Poison
+
+---
+
+### Thieves’ Tools (250 SP)
+
+**Ability:** Dexterity  
+**Utilize:** Pick a lock (DC 15), or disarm a trap (DC 15)
+
+---

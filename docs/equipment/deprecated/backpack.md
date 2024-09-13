@@ -1,5 +1,7 @@
 ---
 icon: rsc/inventory
+search:
+  exclude: true
 ---
 
 # Backpacks

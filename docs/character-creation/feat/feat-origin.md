@@ -276,6 +276,24 @@ When you take the Help action to aid another creature’s :d20-check: **Ability 
 
 ---
 
+### Lifelong Learner
+
+*Origin Feat*
+
+You have made a vow to never stop learning, no matter how old or educated you become. You gain the benefits from the table below that correspond to your Intelligence score and lower. If your Intelligence score increases, the benefits you gain from this Feat also increase with your score:
+
+| Intelligence Score | Benefit |
+|:-:|---|
+| 12-13 | You learn to speak, read, and write one additional language of your choice. |
+| 14-15 | You gain proficiency with one set of Artisan's Tools of your choice. |
+| 16-17 | You gain proficiency in one skill of your choice. |
+| 18-19 | For one skill proficiency of your choice, you treat a roll of 7 or lower on the d20 as an 8. |
+| 20+ | Whenever you are forced to make a Wisdom saving throw, you can choose to make an Intelligence saving throw instead. |
+
+***Source:** Laserllama Compendium of Feats*
+
+---
+
 ### Linguist
 
 *Origin Feat (Prerequisites: Intelligence or Wisdom 13+)*
