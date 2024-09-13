@@ -66,7 +66,7 @@ As a level 1 character, you start with the following equipment
 
 - Chain Mail
 - Crossbow Bolts (20)
-- Dungeoneer’s Pack
+- Dungeoneer's Pack
 - (a) Greatsword or (b) Longsword, Shield, and 250 SP
 - Light Crossbow
 - Quiver
@@ -106,7 +106,7 @@ Starting at level 17, you can use it twice before a rest but only once on a turn
 
 You have a mind for tactics and getting the upper hand on and off the battlefield. When you fail an ability check, you can expend a use of your Second Wind to push yourself toward success. 
 
-Rather than regaining Hit Points, you roll 1d10 and add the number rolled to the ability check, potentially turning it into a success. If the check still fails, this use of Second Wind isn’t expended.
+Rather than regaining Hit Points, you roll 1d10 and add the number rolled to the ability check, potentially turning it into a success. If the check still fails, this use of Second Wind isn't expended.
 
 ## Level 3: Fighter Subclass
 
@@ -117,7 +117,7 @@ You gain a Fighter subclass of your choice:
 - [Champion](champion.md)
 - [Eldritch Knight](eldritch-knight.md)
 
-A subclass is a specialization that grants you special features at certain Fighter levels. For the rest of your career, you gain each of your subclass’s features that are of your Fighter level and lower.
+A subclass is a specialization that grants you special features at certain Fighter levels. For the rest of your career, you gain each of your subclass's features that are of your Fighter level and lower.
 
 ## Level 4: Ability Score Improvement
 
@@ -135,13 +135,13 @@ Whenever you activate your Second Wind with a Bonus Action, you can move up to h
 
 ## Level 9: Indomitable
 
-If you fail a saving throw, you can reroll it with a bonus equal to your Fighter level. If you do so, you must use the new roll, and you can’t use this feature again until you finish a Long Rest.
+If you fail a saving throw, you can reroll it with a bonus equal to your Fighter level. If you do so, you must use the new roll, and you can't use this feature again until you finish a Long Rest.
 
 You can use this feature twice between Long Rests starting at level 13 and three times between Long Rests starting at level 17.
 
 ## Level 9: Master of Armaments
 
-You are a master of weapons. Whenever you finish a Long Rest, you can choose any of the kinds of Mastery weapons you’re using and replace the Mastery property of each with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Longsword’s Sap property with the Push property.
+You are a master of weapons. Whenever you finish a Long Rest, you can choose any of the kinds of Mastery weapons you're using and replace the Mastery property of each with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Longsword's Sap property with the Push property.
 
 These property changes apply only for you, not for others, and the changes end for you when you finish your next Long Rest.
 

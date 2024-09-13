@@ -62,7 +62,7 @@ You can cast *[False Life](../../spells/1st-level.md#false-life)* on yourself wi
 
 **Prerequisite:** Level 5+ Warlock
 
-You can use a :rsc-bonus-action: **Bonus Action** to touch a willing creature and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use a :rsc-bonus-action: **Bonus Action** on subsequent turns to maintain this connection, extending the duration until the end of your next turn. The connection ends if you don’t maintain it in this way.While perceiving through the other creature’s senses, you benefit from any special senses possessed by that creature, and you can cast spells as if you were in your space or the other creature’s space if the two of you are within 60 feet of each other.
+You can use a :rsc-bonus-action: **Bonus Action** to touch a willing creature and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use a :rsc-bonus-action: **Bonus Action** on subsequent turns to maintain this connection, extending the duration until the end of your next turn. The connection ends if you don't maintain it in this way.While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you can cast spells as if you were in your space or the other creature's space if the two of you are within 60 feet of each other.
 
 ### Gift of the Depths
 
@@ -132,7 +132,7 @@ You can cast Silent Image without expending a :rsc-spell-slot: **Spell Slot**.
 
 **Prerequisite:** Level 5+ Warlock
 
-While you’re in an area of Dim Light or Darkness, you can cast Invisibility on yourself without expending a :rsc-spell-slot: **Spell Slot**.
+While you're in an area of Dim Light or Darkness, you can cast Invisibility on yourself without expending a :rsc-spell-slot: **Spell Slot**.
 
 ### Otherworldy Leap
 
@@ -148,7 +148,7 @@ As a :rsc-bonus-action: **Bonus Action**, you can trace arcane sigils in the air
 
 Whenever you attack with the bonded weapon, you can use your spellcasting ability modifier for the attack and damage rolls, instead of using Strength or Dexterity, and you can cause the weapon to deal :dmg-necrotic: **Necrotic**, :dmg-psychic: **Psychic**, or :dmg-radiant: **Radiant** damage or its normal damage type.
 
-Your bond with the weapon ends if you use this feature’s :rsc-bonus-action: **Bonus Action** again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
+Your bond with the weapon ends if you use this feature's :rsc-bonus-action: **Bonus Action** again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
 
 ### Pact of the Chain
 
@@ -166,9 +166,9 @@ Additionally, when you take the Attack action, you can forgo one of your own att
 
 Stitching together strands of shadow, you conjure forth a book in your hand at the end of a Short Rest or Long Rest. This Book of Shadows(you determine its appearance) contains eldritch magic that only you can access, granting you the following benefits:
 
-**Cantrips and Rituals**. When the book appears, choose three cantrips, and choose two level 1spells that have the Ritual tag. The spells can be from any class’s spell list, and they must be spells you don’t already have prepared. While the book is on your person, you have the chosen spells prepared, and they function as Warlock spells for you.
+**Cantrips and Rituals**. When the book appears, choose three cantrips, and choose two level 1spells that have the Ritual tag. The spells can be from any class's spell list, and they must be spells you don't already have prepared. While the book is on your person, you have the chosen spells prepared, and they function as Warlock spells for you.
 
-**Spell Slot.** You gain a level 1 :rsc-spell-slot: **Spell Slot**. Once you expend it, you can’t gain another slot from this feature until you finish a Long Rest.
+**Spell Slot.** You gain a level 1 :rsc-spell-slot: **Spell Slot**. Once you expend it, you can't gain another slot from this feature until you finish a Long Rest.
 
 **Spellcasting Focus.** You can use the book as a Spellcasting Focus.
 

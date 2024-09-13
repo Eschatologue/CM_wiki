@@ -33,5 +33,5 @@ When you use the Elemental Attunement feature, you also gain the following benef
 
 **Damage Resistance.** You gain resistance to one of the following damage types of your choice: Acid, Cold, Fire, or Lightning. At the start of each of your turns, you can change this choice.
 
-**Destructive Stride.** When you use your Step of the Wind, your Speed increases by 20 feet until the end of the turn. For that duration, any creature of your choice takes damage equal to one roll of your Martial Arts die when you enter a space within 5 feet of it. The damage is the same type you chose for this feature’s damage resistance. A creature can take this damage only once per turn.
+**Destructive Stride.** When you use your Step of the Wind, your Speed increases by 20 feet until the end of the turn. For that duration, any creature of your choice takes damage equal to one roll of your Martial Arts die when you enter a space within 5 feet of it. The damage is the same type you chose for this feature's damage resistance. A creature can take this damage only once per turn.
  

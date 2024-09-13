@@ -84,7 +84,7 @@ Tools allow characters to perform tasks that might be impossible otherwise, such
 
 These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. 
 
-Proficiency with a set of artisan’s tools lets you add your Proficiency Bonus to any :d20-check: **Ability Checks** you make using the tools in your craft. Each type of artisan’s tools requires a separate Proficiency.
+Proficiency with a set of artisan's tools lets you add your Proficiency Bonus to any :d20-check: **Ability Checks** you make using the tools in your craft. Each type of artisan's tools requires a separate Proficiency.
 
 ### Alchemist Supplies
 
@@ -597,7 +597,7 @@ You can identify most plants with a quick inspection of their appearance and sme
 | Find plants | 15 |
 | Identify poison | 20 |
 
-### Navigator’s Tools
+### Navigator's Tools
 
 Proficiency with Navigator's Tools helps you determine a true course based on observing the stars. It also grants you insight into charts and maps while developing your sense of direction.
 
@@ -615,7 +615,7 @@ By taking careful measurements, you can determine your position on a nautical ch
 | Plot a course | 10 |
 | Discover your position on a nautical chart | 15 |
 
-### Poisoner’s Kit
+### Poisoner's Kit
 
 A Poisoner's Kit is a favored resource for thieves, assassins, and others who engage in skulduggery. It allows you to apply poisons and create them from various materials. Your knowledge of poisons also helps you treat them.
 
@@ -642,7 +642,7 @@ Your Proficiency allows you to handle and apply a poison without risk of exposin
 | Spot a poisoned object | 10 |
 | Determine the effects of a poison | 20 |
 
-### Thieves’s Tools
+### Thieves's Tools
 
 Perhaps the most common tools used by adventurers, thieves' tools are designed for picking locks and foiling traps. Proficiency with the tools also grants you a general knowledge of traps and locks.
 

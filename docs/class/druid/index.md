@@ -24,7 +24,7 @@ For Druids, nature exists in a precarious balance. The four elements that make u
 
 Druids are also concerned with the delicate ecological balance that sustains plant and animal life and with the need for people to live in harmony with nature, not in opposition to it.
 
-Druids are often found guarding sacred sites or watching over regions of unspoiled nature. But when a significant danger arises, threatening nature’s balance or the lands they protect, Druids take a more active role as adventurers who combat the threat.
+Druids are often found guarding sacred sites or watching over regions of unspoiled nature. But when a significant danger arises, threatening nature's balance or the lands they protect, Druids take a more active role as adventurers who combat the threat.
 
 #### Druid Table
 | Level | Prof. Bonus | Features | Wild Shape | Cantrips Known | Spells Prepared | I | II | III | IV | V | VI | VII | VIII | IX |
@@ -77,7 +77,7 @@ As a level 1 character, you start with the following equipment:
 
 - Druidic Focus
 - Quarterstaff 
-- Explorer’s Pack 
+- Explorer's Pack 
 - Herbalism Kit	
 - Leather Armor
 - Shield 
@@ -90,7 +90,7 @@ Or you can forgo it and spend 500 SP on equipment of your choice.
 
 You know Druidic, the secret language of Druids. While learning this ancient tongue, you also unlocked the magic of speaking to animals; you always have the Speak with Animals spell prepared.
 
-You can use Druidic to leave hidden messages. You and others who know Druidic automatically spot such a message. Others spot the message’s presence with a successful DC 15 Intelligence (Investigation) check but can’t decipher it without magic.
+You can use Druidic to leave hidden messages. You and others who know Druidic automatically spot such a message. Others spot the message's presence with a successful DC 15 Intelligence (Investigation) check but can't decipher it without magic.
 
 ## Level 1: Primal Order 
 
@@ -102,7 +102,7 @@ You have dedicated yourself to one of the following sacred roles of your choice:
 
 ## Level 1: Spellcasting
 
-You have learned to cast spells through studying the mystical forces of nature. See the Player’s Handbook for the rules on spellcasting. The information below details how you use those rules as a Druid.
+You have learned to cast spells through studying the mystical forces of nature. See the Player's Handbook for the rules on spellcasting. The information below details how you use those rules as a Druid.
 
 ### Cantrips
 
@@ -112,15 +112,15 @@ When you reach levels 4 and 10 in this class, you learn another cantrip of your 
 
 ### Spell Slots
 
-The Druid table shows how many spell slots you have to cast your spells of level 1 and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a Long Rest.
+The Druid table shows how many spell slots you have to cast your spells of level 1 and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a Long Rest.
 
 ### Prepared Spells of Level 1+
 
 You prepare the list of spells of level 1 and higher that are available for you to cast with this feature. To start, choose four level 1 spells from the Druid spell list. Rather than choosing, you may start with the Animal Friendship, Cure Wounds, Faerie Fire, and Thunderwave spells.
 
-The number of spells on your list also increases as you gain Druid levels, as shown in the Prepared Spells column of the Druid table. Whenever that number increases, choose additional spells from the Druid spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 3 Druid, your list of prepared spells can include six spells of levels 1 and 2 in any combination.\
+The number of spells on your list also increases as you gain Druid levels, as shown in the Prepared Spells column of the Druid table. Whenever that number increases, choose additional spells from the Druid spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Druid, your list of prepared spells can include six spells of levels 1 and 2 in any combination.\
 
-If another Druid feature gives spells that you always have prepared, those spells don’t count against the number of spells on the list you prepare with this Spellcasting feature, but those spells otherwise follow the rules in this feature.
+If another Druid feature gives spells that you always have prepared, those spells don't count against the number of spells on the list you prepare with this Spellcasting feature, but those spells otherwise follow the rules in this feature.
 
 ***Changing Your Prepared Spells.*** Whenever you finish a Long Rest, you can change your list of prepared spells, replacing one or more of the spells there with other Druid spells for which you have spell slots. Preparing a new list requires time spent in meditation: at least 1 minute per spell level for each spell you add to the list.
 
@@ -141,7 +141,7 @@ When you cast the spell in this way, the familiar is a Fey, and it disappears wh
 
 The power of nature infuses you, allowing you to assume the form of an animal. As a Bonus Action, you transform into a Beast form that you have learned for this feature (see “Known Forms” below). You stay in that form for a number of hours equal to half your Druid level or until you use Wild Shape again, have the Incapacitated condition, or die. You can also leave the form early as a Bonus Action.
 
-**Known Forms.** You know a number of forms for this feature equal to 2 plus half your Druid level (round up), chosen from among Beast stat blocks in the Player’s Handbook that have a maximum Challenge Rating of 1/4 and that lack a Fly Speed. Rather than choosing, you may start with the Riding Horse, Spider, and Wolf.
+**Known Forms.** You know a number of forms for this feature equal to 2 plus half your Druid level (round up), chosen from among Beast stat blocks in the Player's Handbook that have a maximum Challenge Rating of 1/4 and that lack a Fly Speed. Rather than choosing, you may start with the Riding Horse, Spider, and Wolf.
 
 Whenever you finish a Long Rest, you can replace one of your known forms with another eligible form.
 
@@ -164,7 +164,7 @@ While in a form, you retain your personality, memories, and ability to speak, an
 
 - **Game Statistics**
 
-    Your game statistics are replaced by the statistics of the Beast, but you retain your Hit Points; Hit Dice; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your skill and saving throw proficiencies and use your Proficiency Bonus for them, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature’s bonus instead of yours. If the creature has any legendary or lair actions, you can’t use them.
+    Your game statistics are replaced by the statistics of the Beast, but you retain your Hit Points; Hit Dice; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your skill and saving throw proficiencies and use your Proficiency Bonus for them, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature's bonus instead of yours. If the creature has any legendary or lair actions, you can't use them.
 
 - **Temporary Hit Points**
 
@@ -172,17 +172,17 @@ While in a form, you retain your personality, memories, and ability to speak, an
 
 - **No Spellcasting**
 
-    You can’t cast spells, but transforming doesn’t break your Concentration on a spell you’ve already cast or prevent you from taking actions that are part of a spell, such as the Call Lightning spell, that you’ve already cast.
+    You can't cast spells, but transforming doesn't break your Concentration on a spell you've already cast or prevent you from taking actions that are part of a spell, such as the Call Lightning spell, that you've already cast.
  
 - **Objects**
 
-    Your ability to handle objects is determined by the form’s limbs rather than your own. In addition, you choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the new form to wear a piece of equipment based on the creature’s size and shape. Your equipment doesn’t change size or shape to match the new form, and any equipment that the new form can’t wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
+    Your ability to handle objects is determined by the form's limbs rather than your own. In addition, you choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the new form to wear a piece of equipment based on the creature's size and shape. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
 
 ## Level 3: Druid Subclass
 
 You gain a Druid subclass of your choice: Circle of the Land, Circle of the Moon, Circle of the Sea, or Circle of the Stars. 
 
-A subclass is a specialization that grants you special abilities at certain Druid levels. For the rest of your career, you gain each of your subclass’s features that are of your Druid level and lower.
+A subclass is a specialization that grants you special abilities at certain Druid levels. For the rest of your career, you gain each of your subclass's features that are of your Druid level and lower.
 
 ## Level 4: Ability Score Improvement
 
@@ -194,7 +194,7 @@ As shown on the Druid table, you gain this feature again at levels 8, 12, 16, an
 
 If you have no uses of Wild Shape left, you can give yourself one use by expending a spell slot (no action required). You can do so only once per turn.
 
-In addition, you can expend one use of Wild Shape (no action required) to give yourself a level 1 spell slot, and you can’t do so again until you finish a Long Rest.
+In addition, you can expend one use of Wild Shape (no action required) to give yourself a level 1 spell slot, and you can't do so again until you finish a Long Rest.
 
 ## Level 7: Elemental Fury
 
@@ -202,7 +202,7 @@ The might of the elements flows through you. You gain one of the following optio
 
 **Potent Spellcasting.** You add your Wisdom modifier to the damage you deal with any Druid cantrip.
  
-**Primal Strike.** Once on each of your turns when you hit a creature with an attack roll using a weapon or a Beast form’s attack in Wild Shape, you can cause the target to take an extra 1d8 Cold, Fire, Lightning, or Thunder damage (choose when you hit).
+**Primal Strike.** Once on each of your turns when you hit a creature with an attack roll using a weapon or a Beast form's attack in Wild Shape, you can cause the target to take an extra 1d8 Cold, Fire, Lightning, or Thunder damage (choose when you hit).
 
 ## Level 9: Commune With Nature
 
@@ -212,7 +212,7 @@ You are an expression of nature itself and can commune with the natural world al
 
 The option you chose for Elemental Fury grows more powerful:
 
-**Potent Spellcasting.** When you cast a Druid cantrip with a range of 10 feet or greater, the spell’s range increases by 300 feet.
+**Potent Spellcasting.** When you cast a Druid cantrip with a range of 10 feet or greater, the spell's range increases by 300 feet.
 
 **Primal Strike.** The extra damage of your Primal Strike increases to 2d8.
 

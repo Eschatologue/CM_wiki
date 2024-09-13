@@ -36,7 +36,7 @@ Your patron teaches you how to guard your mind and body. You are immune to the C
 
 In addition, immediately after a creature you can see hits you with an attack roll, you can use your Reaction to reduce the damage you take by half (round down), and you can force the attacker to make a Wisdom saving throw against your spell save DC. On a failed save, the attacker takes Psychic damage equal to the damage you take.
 
-Once you use this Reaction, you can’t use it again until you finish a Long Rest unless you expend a spell slot when you use it again.
+Once you use this Reaction, you can't use it again until you finish a Long Rest unless you expend a spell slot when you use it again.
 
 ## Bewitching Magic – Level 14
 

@@ -46,11 +46,11 @@ You can use a weapon that has the ammunition property to make a ranged attack on
 
 #### :weapon-prop-automatic:{ .lg } Automatic
 
-When you take the :d20-attack: **Attack** Action on your turn and attack with an Automatic weapon, you can make extra attacks up to the number in the parenthesis later on the same turn. That extra attack must be made with the ^^same weapon^^ provided the weapon has enough Ammunition for the attacks, and you don’t add your ability modifier to the extra attack’s damage, unless that modifier is negative.
+When you take the :d20-attack: **Attack** Action on your turn and attack with an Automatic weapon, you can make extra attacks up to the number in the parenthesis later on the same turn. That extra attack must be made with the ^^same weapon^^ provided the weapon has enough Ammunition for the attacks, and you don't add your ability modifier to the extra attack's damage, unless that modifier is negative.
 
 #### :weapon-prop-explosive:{ .lg } Explosive
 
-When this weapon’s hits a target, it explodes and affect an area of effect on the parenthesis, this area of effect must include your target and away from you. The weapon can target a point within its range. Each creature in the area of effect centered on the point or the target must make a Dexterity :d20-save: **Saving Throw**. The DC equal to ^^8 + your Proficiency Bonus + the ability modifier used to make the attack^^. The creature takes the weapon's damage on a failed save, or half as much damage on a successful one. 
+When this weapon's hits a target, it explodes and affect an area of effect on the parenthesis, this area of effect must include your target and away from you. The weapon can target a point within its range. Each creature in the area of effect centered on the point or the target must make a Dexterity :d20-save: **Saving Throw**. The DC equal to ^^8 + your Proficiency Bonus + the ability modifier used to make the attack^^. The creature takes the weapon's damage on a failed save, or half as much damage on a successful one. 
 
 Your initial target makes this :d20-save: **Saving Throw** at a :d20-disadv: **Disadvantage**.
 
@@ -60,11 +60,11 @@ When making an attack with a finesse weapon, you use your choice of your Strengt
 
 #### :weapon-prop-heavy:{ .lg } Heavy
 
-Heavy weapon is unwieldy compared to other weapons. You have :d20-disadv: **Disadvantage** on your :d20-attack: **Attack Rolls** with a Heavy weapon if it’s a Melee weapon and your Strength score isn’t at least 13, and if it’s a Ranged weapon and your Dexterity score isn’t at least 13.
+Heavy weapon is unwieldy compared to other weapons. You have :d20-disadv: **Disadvantage** on your :d20-attack: **Attack Rolls** with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13, and if it's a Ranged weapon and your Dexterity score isn't at least 13.
 
 #### :weapon-prop-light:{ .lg } Light
 
-When you take the :d20-attack: **Attack** Action on your turn and attack with a Light weapon, you can make one extra attack as a :rsc-bonus-action: **Bonus Action** later on the same turn. That extra attack must be made with a ^^different Light weapon^^, and you don’t add your ability modifier to the extra attack’s damage, unless that modifier is negative.
+When you take the :d20-attack: **Attack** Action on your turn and attack with a Light weapon, you can make one extra attack as a :rsc-bonus-action: **Bonus Action** later on the same turn. That extra attack must be made with a ^^different Light weapon^^, and you don't add your ability modifier to the extra attack's damage, unless that modifier is negative.
 
 #### :weapon-prop-loading:{ .lg } Loading
 
@@ -72,7 +72,7 @@ Because of the time required to load this weapon, you can fire only one piece of
 
 #### :weapon-prop-mounted:{ .lg } Mounted
 
-This weapon is normally used while attached to a tripod, vehicle, or other bracing mount. You can mount or unmount this weapon as an :rsc-action: **Action**. While it is mounted, it can’t be moved. It can only be used to make an attack while unmounted if held by a creature with a Strength score of at least 15.
+This weapon is normally used while attached to a tripod, vehicle, or other bracing mount. You can mount or unmount this weapon as an :rsc-action: **Action**. While it is mounted, it can't be moved. It can only be used to make an attack while unmounted if held by a creature with a Strength score of at least 15.
 
 #### :weapon-prop-ranged:{ .lg } Ranged
 
@@ -90,7 +90,7 @@ This weapon can be used to make a number of attacks before it must be reloaded. 
 
 #### :weapon-prop-scatter:{ .lg } Scatter
 
-If you make an attack against a target that is within half this weapon’s normal range, you deal the damage value listed in parenthesis instead of the weapon’s normal damage dice.
+If you make an attack against a target that is within half this weapon's normal range, you deal the damage value listed in parenthesis instead of the weapon's normal damage dice.
 
 #### :weapon-prop-sighted:{ .lg } Sighted
 
@@ -112,19 +112,19 @@ This weapon can be used with one or two hands. A damage value in parentheses app
 
 Each weapon now has a Mastery property, as shown in the weapon tables. That property is usable only by a character who has a feature, such as Weapon Mastery, that unlocks the property for the character. 
 
-If a game feature lets you replace a weapon’s Mastery property with another one, that weapon must meet any prerequisite specified for the new property.
+If a game feature lets you replace a weapon's Mastery property with another one, that weapon must meet any prerequisite specified for the new property.
 
 #### Cleave
 
 **Prerequisite:** Melee Weapon, :weapon-prop-heavy: Heavy Property
 
-If you hit a creature with a melee attack using this weapon, you can make an :d20-attack: **Attack Roll** with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon’s damage, but don’t add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.
+If you hit a creature with a melee attack using this weapon, you can make an :d20-attack: **Attack Roll** with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon's damage, but don't add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.
 
 #### Graze
 
 **Prerequisite:** Melee Weapon, :weapon-prop-heavy: Heavy Property
 
-If your :d20-attack: **Attack Roll** with this weapon misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the :d20-attack: **Attack Roll**. This damage is the same type dealt by the weapon, and the damage can’t be increased in any way, other than increasing the ability modifier.
+If your :d20-attack: **Attack Roll** with this weapon misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the :d20-attack: **Attack Roll**. This damage is the same type dealt by the weapon, and the damage can't be increased in any way, other than increasing the ability modifier.
 
 #### Nick
 
@@ -148,7 +148,7 @@ If you hit a creature with this weapon, that creature has :d20-disadv: **Disadva
 
 **Prerequisite:** None
 
-If you hit a creature with this weapon and deal damage to the creature, you can reduce its Speed by 10 feet until the start of your next turn. If you hit the creature more than once with this property, the Speed reduction doesn’t exceed 10 feet.
+If you hit a creature with this weapon and deal damage to the creature, you can reduce its Speed by 10 feet until the start of your next turn. If you hit the creature more than once with this property, the Speed reduction doesn't exceed 10 feet.
 
 #### Topple
 

@@ -6,7 +6,7 @@ Your innate magic stems from the forces of chaos that underlie the order of crea
 
 Your spellcasting can unleash surges of untamed magic. No more than once per turn, you can roll a d20 immediately after you cast a Sorcerer spell with a spell slot. If you roll a 20, roll on the Wild Magic Surge table to create a magical effect.
 
-If the magical effect is a spell, it is too wild to be affected by your Metamagic, and if it normally requires Concentration, it doesn’t require Concentration in this case; the spell lasts for its full duration.
+If the magical effect is a spell, it is too wild to be affected by your Metamagic, and if it normally requires Concentration, it doesn't require Concentration in this case; the spell lasts for its full duration.
 
 #### Wild Magic Surge
 | d100 | Effect |
@@ -70,7 +70,7 @@ Immediately after you cast a Sorcerer spell with a spell slot before you regain 
 
 ## Level 6: Bend Luck
 
-You have the ability to twist fate using your wild magic. Immediately after another creature you can see rolls the d20 for a d20 Test, you can use your Reaction and spend 1 Sorcery Point to roll 1d4 and apply the number rolled as a bonus or penalty (your choice) to the creature’s roll.
+You have the ability to twist fate using your wild magic. Immediately after another creature you can see rolls the d20 for a d20 Test, you can use your Reaction and spend 1 Sorcery Point to roll 1d4 and apply the number rolled as a bonus or penalty (your choice) to the creature's roll.
  
 ## Level 14: Controlled Chaos
 
@@ -80,4 +80,4 @@ You gain a modicum of control over the surges of your wild magic. Whenever you r
 
 Immediately after you cast a Sorcerer spell with a spell slot, you can create an effect of your choice from the Wild Magic Surge table, provided the effect casts a spell or restores all your expended Sorcery Points.
 
-Once you use this feature, you can’t do so again until you finish 1d4 Long Rests.
+Once you use this feature, you can't do so again until you finish 1d4 Long Rests.

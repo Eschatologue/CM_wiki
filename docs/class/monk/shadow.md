@@ -6,7 +6,7 @@ Warriors of Shadow practice stealth and subterfuge, channeling their reservoirs 
 
 Through rigorous training, you have learned to draw on the power of the Shadowfell, gaining the following benefits:
 
-**Darkness.** You can spend 1 Discipline Point to cast the Darkness spell without any spell components. You can see within the spell’s area when you cast it with this feature. While the spell persists, you can move its area of darkness to a space within 60 feet of you at the start of each of your turns.
+**Darkness.** You can spend 1 Discipline Point to cast the Darkness spell without any spell components. You can see within the spell's area when you cast it with this feature. While the spell persists, you can move its area of darkness to a space within 60 feet of you at the start of each of your turns.
 
 **Darkvision.** You gain Darkvision with a range of 60 feet. If you already have Darkvision, its range increases by 60 feet.
 

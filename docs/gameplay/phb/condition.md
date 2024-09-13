@@ -4,15 +4,15 @@ icon: dmg/necrotic
 
 # Conditions
 
-Many effects impose a condition, a temporary state that alters the recipient’s capabilities. 
+Many effects impose a condition, a temporary state that alters the recipient's capabilities. 
 
 ## Duration
 
 A condition lasts either for a duration specified by the effect that imposed the condition or until the condition is countered (the Prone condition is countered by standing up, for example).
 
-## Conditions Don’t Stack
+## Conditions Don't Stack
 
-If multiple effects impose the same condition on you, each instance of the condition has its own duration, but the condition’s effects don’t get worse. Either you have a condition or you don’t. The Exhaustion condition is an exception; its effects get worse if you have the condition and receive it again.
+If multiple effects impose the same condition on you, each instance of the condition has its own duration, but the condition's effects don't get worse. Either you have a condition or you don't. The Exhaustion condition is an exception; its effects get worse if you have the condition and receive it again.
 
 ## Condition Description
 
@@ -22,7 +22,7 @@ The following conditions are defined as follow:
 
 While you have the Blinded condition, you experience the following effects.
 
-***Can’t See.*** You can’t see and automatically fail any ability check that requires sight.
+***Can't See.*** You can't see and automatically fail any ability check that requires sight.
 
 ***Attacks Affected.*** Attack rolls against you have Advantage, and your attack rolls have Disadvantage.
 
@@ -32,7 +32,7 @@ While you have the Blinded condition, you experience the following effects.
 
 While you have the Deafened condition, you experience the following effect.
 
-***Can’t Hear.*** You can’t hear and automatically fail any ability check that requires hearing.
+***Can't Hear.*** You can't hear and automatically fail any ability check that requires hearing.
 
 ---
 
@@ -56,7 +56,7 @@ While you have the Frightened condition, you experience the following effects.
 
 ***Ability Checks and Attacks Affected.*** You have Disadvantage on ability checks and attack rolls while the source of fear is within line of sight.
 
-***Can’t Approach.*** You can’t willingly move closer to the source of fear.
+***Can't Approach.*** You can't willingly move closer to the source of fear.
 
 ---
 
@@ -64,7 +64,7 @@ While you have the Frightened condition, you experience the following effects.
 
 While you have the Grappled condition, you experience the following effects.
 
-***Speed 0.*** Your Speed is 0 and can’t increase.
+***Speed 0.*** Your Speed is 0 and can't increase.
 
 ***Attacks Affected.*** You have Disadvantage on attack rolls against any target other than the grappler.
 
@@ -76,13 +76,13 @@ While you have the Grappled condition, you experience the following effects.
 
 While You have the [Incapacitated] condition, you experience the following effects.
 
-***Inactive.*** You can’t take any action, Bonus Action, or Reaction.
+***Inactive.*** You can't take any action, Bonus Action, or Reaction.
 
 ***No Concentration.*** Your Concentration is broken.
 
-***Speechless.*** You can’t speak.
+***Speechless.*** You can't speak.
 
-***Surprised.*** If you’re Incapacitated when you roll Initiative, you have Disadvantage on the roll.
+***Surprised.*** If you're Incapacitated when you roll Initiative, you have Disadvantage on the roll.
 
 ---
 
@@ -90,11 +90,11 @@ While You have the [Incapacitated] condition, you experience the following effec
 
 While you have the Invisible condition, you experience the following effects.
 
-***Surprise.*** If you’re Invisible when you roll Initiative, you have Advantage on the roll.
+***Surprise.*** If you're Invisible when you roll Initiative, you have Advantage on the roll.
 
-***Concealed.*** You aren’t affected by any effect that requires its target to be seen unless the effect’s creator can somehow see you. Any equipment you are wearing or carrying is also concealed.
+***Concealed.*** You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed.
 
-***Attacks Affected.*** Attack rolls against you have Disadvantage, and your attack rolls have Advantage. If a creature can somehow see you, you don’t gain this benefit against that creature.
+***Attacks Affected.*** Attack rolls against you have Disadvantage, and your attack rolls have Advantage. If a creature can somehow see you, you don't gain this benefit against that creature.
 
 ---
 
@@ -104,7 +104,7 @@ While you have the Paralyzed condition, you experience the following effects.
 
 ***Incapacitated.*** You have the [Incapacitated] condition.
 
-***Speed 0.*** Your Speed is 0 and can’t increase.
+***Speed 0.*** Your Speed is 0 and can't increase.
 
 ***Saving Throws Affected.*** You automatically fail Strength and Dexterity saving throws.
 
@@ -122,7 +122,7 @@ While you have the Petrified condition, you experience the following effects.
 
 ***Incapacitated.*** You have the [Incapacitated] condition.
 
-***Speed 0.*** Your Speed is 0 and can’t increase.
+***Speed 0.*** Your Speed is 0 and can't increase.
 
 ***Attacks Affected.*** Attack rolls against you have Advantage.
 
@@ -146,7 +146,7 @@ While you have the Poisoned condition, you experience the following effect.
 
 While you have the Prone condition, you experience the following effects.
 
-***Restricted Movement.*** Your only movement options are to crawl or to spend an amount of movement equal to half your Speed (round down) to right yourself and thereby end the condition. If your Speed is 0, you can’t right yourself.
+***Restricted Movement.*** Your only movement options are to crawl or to spend an amount of movement equal to half your Speed (round down) to right yourself and thereby end the condition. If your Speed is 0, you can't right yourself.
 
 ***Attacks Affected.*** You have Disadvantage on attack rolls. An attack roll against you has Advantage if the attacker is within 5 feet of you. Otherwise, that attack roll has Disadvantage.
 
@@ -156,7 +156,7 @@ While you have the Prone condition, you experience the following effects.
 
 While you have the Restrained condition, you experience the following effects.
 
-***Speed 0.*** Your Speed is 0 and can’t increase.
+***Speed 0.*** Your Speed is 0 and can't increase.
 
 ***Attacks Affected.*** Attack rolls against you have Advantage, and your attack rolls have Disadvantage.
 
@@ -180,9 +180,9 @@ While you have the Stunned condition, you experience the following effects.
 
 While you have the Unconscious condition, you experience the following effects.
 
-***Inert.*** You have the [Incapacitated] and Prone conditions, and you drop whatever you’re holding. When this condition ends, you remain Prone.
+***Inert.*** You have the [Incapacitated] and Prone conditions, and you drop whatever you're holding. When this condition ends, you remain Prone.
 
-***Speed 0.*** Your Speed is 0 and can’t increase.
+***Speed 0.*** Your Speed is 0 and can't increase.
 
 ***Attacks Affected.*** Attack rolls against you have Advantage.
 
@@ -190,7 +190,7 @@ While you have the Unconscious condition, you experience the following effects.
 
 ***Automatic Critical Hits.*** Any attack roll that hits you is a Critical Hit if the attacker is within 5 feet of you.
 
-***Unaware.*** You’re unaware of your surroundings.
+***Unaware.*** You're unaware of your surroundings.
 
 ---
 

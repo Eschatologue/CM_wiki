@@ -60,7 +60,7 @@ Light Armor, Medium Armor, Shields
 ### Starting Equipment
 As a level 1 character, you start with the following equipment:
 
-- Explorer’s Pack
+- Explorer's Pack
 - (a) Greataxe or (b) Battleaxe, Shield, and 100 SP 
 - Handaxe (4)
 - 150 SP
@@ -69,13 +69,13 @@ Or you can forgo it and spend 750 SP on equipment of your choice.
 
 ## Level 1: Rage
 
-You can imbue yourself with a primal power that is called your Rage, a force that grants you extraordinary might and resilience. You can enter it as a Bonus Action, provided you aren’t wearing Heavy Armor.
+You can imbue yourself with a primal power that is called your Rage, a force that grants you extraordinary might and resilience. You can enter it as a Bonus Action, provided you aren't wearing Heavy Armor.
 While active, your Rage has the following effects:
 
 - **Damage Resistance.** You have Resistance to Bludgeoning, Piercing, and Slashing damage.
 - **Rage Damage**. When you make an attack with a weapon using Strength or an Unarmed Strikeand deal damage to the target, you gain a bonus to the damage that increases as you gain levels as a Barbarian, as shown in the Rage Damage column of the Barbarian table.
 - **Strength Advantage.** You have Advantage on Strength checks and Strength saving throws.
-- **No Concentration or Spells.** You can’t maintain Concentration, and you can’t cast spells.
+- **No Concentration or Spells.** You can't maintain Concentration, and you can't cast spells.
 
 The Rage lasts until the end of your next turn, and it ends early if you don Heavy Armor or have the Incapacitated condition. If your Rage is still active on your next turn, you can extend the Rage for another round by doing one or more of the following:
 
@@ -89,7 +89,7 @@ You regain one expended use when you finish a Short Rest, and you regain all exp
 
 ## Level 1: Unarmoured Defence
 
-While you aren’t wearing any armor, your base Armor Class equals 10 + your Dexterity and Constitution modifiers. You can use a Shield and still gain this benefit.
+While you aren't wearing any armor, your base Armor Class equals 10 + your Dexterity and Constitution modifiers. You can use a Shield and still gain this benefit.
 
 ## Level 1: Weapon Mastery
 
@@ -99,7 +99,7 @@ When you reach certain levels in this class, you gain the ability to use the Mas
 
 ## Level 2: Danger Sense
 
-You gain an uncanny sense of when things aren’t as they should be, giving you an edge when you dodge perils. 
+You gain an uncanny sense of when things aren't as they should be, giving you an edge when you dodge perils. 
 
 You have Advantage on Dexterity saving throws, unless you have the Incapacitated condition.
 
@@ -116,7 +116,7 @@ You gain a Barbarian subclass of your choice:
 - [Path of the World Tree](world-tree.md)
 - [Path of the Zealot](zealot.md)
 
-A subclass is a specialization that grants you special features at certain Barbarian levels. For the rest of your career, you gain each of your subclass’s features that are of your Barbarian level and lower.
+A subclass is a specialization that grants you special features at certain Barbarian levels. For the rest of your career, you gain each of your subclass's features that are of your Barbarian level and lower.
 
 ## Level 3: Primal Knowledge
 
@@ -136,7 +136,7 @@ You can attack twice, instead of once, whenever you take the Attack action on yo
 
 ## Level 5: Fast Movement
 
-Your speed increases by 10 feet while you aren’t wearing Heavy Armor.
+Your speed increases by 10 feet while you aren't wearing Heavy Armor.
 
 ## Level 7: Feral Instict
 
@@ -151,11 +151,11 @@ As part of the Bonus Action you take to enter your Rage, you can Move up to half
 If you use Reckless Attack, you can forgo Advantage on the next attack roll you make on your turn with a Strength-based attack. If that attack hits, the target takes an extra 1d10 damage of the same type dealt by the weapon or Unarmed Strike, and you can cause one Brutal Strike effect of your choice. You have the following effect options.
 
 - **Forceful Blow.** The target is pushed 15 feet straight away from you. You can then Move up to half your Speed straight toward the target without provoking Opportunity Attacks.
-- **Hamstring Blow.** The target’s Speed is reduced by 15 feet until the start of your next turn.
+- **Hamstring Blow.** The target's Speed is reduced by 15 feet until the start of your next turn.
 
 ## Level 11: Relentless Rage
 
-Your Rage can keep you fighting despite grievous wounds. If you drop to 0 Hit Points while your Rage is active and don’t die outright, you can make a DC 10 Constitution saving throw. If you succeed, your Hit Points instead change to a number equal to twice your Barbarian level.
+Your Rage can keep you fighting despite grievous wounds. If you drop to 0 Hit Points while your Rage is active and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, your Hit Points instead change to a number equal to twice your Barbarian level.
 
 Each time you use this feature after the first, the DC increases by 5. When you finish a Short Rest or Long Rest, the DC resets to 10.
 
@@ -163,12 +163,12 @@ Each time you use this feature after the first, the DC increases by 5. When you 
 
 You have honed new ways to attack furiously. The following effects are now among your Brutal Strike options.
 
-- **Staggering Blow.** The target has Disadvantage on the next saving throw it makes, and it can’t make Opportunity Attacks until the start of your next turn.
-- **Sundering Blow.** Your blow leaves an opening in the creature’s defense for an ally until the start of your next turn. The next attack roll made by another creature against the target gains a bonus to that roll equal to your Rage Damage.
+- **Staggering Blow.** The target has Disadvantage on the next saving throw it makes, and it can't make Opportunity Attacks until the start of your next turn.
+- **Sundering Blow.** Your blow leaves an opening in the creature's defense for an ally until the start of your next turn. The next attack roll made by another creature against the target gains a bonus to that roll equal to your Rage Damage.
 
 ## Level 15: Persistent Rage
 
-When you roll Initiative, you can regain all expended uses of Rage. After you regain uses of Rage in this way, you can’t do so again until you finish a Long Rest. 
+When you roll Initiative, you can regain all expended uses of Rage. After you regain uses of Rage in this way, you can't do so again until you finish a Long Rest. 
 
 In addition, your Rage is so fierce that it now lasts for 10 minutes without you needing to do anything to extend it from round to round. The Rage ends early if you have the Unconscious, not the Incapacitated, condition or don Heavy Armor. 
 

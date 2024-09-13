@@ -4,7 +4,7 @@ The cosmic force of order has suffused you with magic. That power arises from Me
 
 ## Level 3: Clockwork Magic
 
-You learn additional spells when you reach certain levels in this class, as shown on the Clockwork Spells table. Each spell counts as a sorcerer spell for you, but it doesn’t count against the number of sorcerer spells you know. These spells can’t be replaced when you gain a level in this class.
+You learn additional spells when you reach certain levels in this class, as shown on the Clockwork Spells table. Each spell counts as a sorcerer spell for you, but it doesn't count against the number of sorcerer spells you know. These spells can't be replaced when you gain a level in this class.
 
 | Sorcerer Level | Spells |
 |:-:|---|
@@ -50,4 +50,4 @@ You gain the ability to summon spirits of order to expunge disorder around you. 
 - Any damaged objects entirely in the cube are repaired instantly.
 - Every spell of 6th level or lower ends on creatures and objects of your choice in the cube.
 
-Once you use this action, you can’t use it again until you finish a Long Rest, unless you spend 7 sorcery points to use it again.
+Once you use this action, you can't use it again until you finish a Long Rest, unless you spend 7 sorcery points to use it again.

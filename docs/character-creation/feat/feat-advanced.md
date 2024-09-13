@@ -12,7 +12,7 @@ These feats are in the Advanced Feats category.
 
 *Advanced Feat (Prerequisites: Level 8+)*  
 
-Through your repeated exposure to the natural flow of arcane magic throughout your world and beyond, you’ve adapted to attune with additional Enchantments, though the process can be physically taxing. You gain the following benefits:
+Through your repeated exposure to the natural flow of arcane magic throughout your world and beyond, you've adapted to attune with additional Enchantments, though the process can be physically taxing. You gain the following benefits:
 
 **Experienced**  
 You have :d20-adv: **Advantage** on Intelligence (Arcana) checks when investigating the nature of a magical object or device.

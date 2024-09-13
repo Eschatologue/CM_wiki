@@ -107,8 +107,14 @@ nav:
         - equipment/tools/index.md
         - Artisan Tools: equipment/tools/artisan-tools.md
         - Other Tools: equipment/tools/other-tools.md
-      - Other Gears:
-        - Adventuring Gear: equipment/adventuring-gear.md
+      - Adventuring Gear: equipment/adventuring-gear.md
+      - Services:
+        - Lifestyle Expenses: equipment/services/lifestyle.md
+        - Food, Drink, and Lodging: equipment/services/food-drink.md
+        - Travel: equipment/services/travel.md
+        - Hirelings: equipment/services/hireling.md
+        - Spellcasting: equipment/services/spellcasting.md
+      - Magic Items: equipment/magic-item.md
       - Consumeables: 
         - Potion: equipment/consumeables/potion.md
         - Spell Scroll: equipment/consumeables/spell-scroll.md

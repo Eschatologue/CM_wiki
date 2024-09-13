@@ -26,7 +26,7 @@ You gain the following benefits while wearing this armour:
 
 - If the armour normally has a Strength requirement, the arcane armour lacks this requirement for you.
 - You can use the arcane armour as a spellcasting focus for your artificer spells.
-- The armour attaches to you and can’t be removed against your will. It also expands to cover your entire body, although you can retract or deploy the helmet as a bonus action. The armour replaces any missing limbs, functioning identically to a body part it is replacing.
+- The armour attaches to you and can't be removed against your will. It also expands to cover your entire body, although you can retract or deploy the helmet as a bonus action. The armour replaces any missing limbs, functioning identically to a body part it is replacing.
 - You can doff or don the armour as an action.
 
 The armour continues to be Arcane Armour until you don another suit of armour or you die.

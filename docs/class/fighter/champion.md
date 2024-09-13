@@ -32,4 +32,4 @@ You attain the pinnacle of resilience in battle, giving you these benefits:
 
 **Defy Death.** You have Advantage on death saving throws. Moreover, when you roll 18–20 on a death save, you gain the benefit of rolling a 20 on a death save.
 
-**Heroic Rally.** At the start of each of your turns, you regain Hit Points equal to 5 + your Constitution modifier if you have no more than half your Hit Points remaining. You don’t gain this benefit if you have 0 Hit Points.
+**Heroic Rally.** At the start of each of your turns, you regain Hit Points equal to 5 + your Constitution modifier if you have no more than half your Hit Points remaining. You don't gain this benefit if you have 0 Hit Points.

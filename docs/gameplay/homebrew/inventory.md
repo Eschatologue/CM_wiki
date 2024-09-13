@@ -11,7 +11,7 @@ icon: material/view-grid-plus
 
 # Inventory
 
-In this campaign, inventories are managed differently than in your typical D&D game where items have weight (ain’t nobody got time for that). Instead, for the sake of convenience, inventory is calculated using slots, similar to some video games.
+In this campaign, inventories are managed differently than in your typical D&D game where items have weight (ain't nobody got time for that). Instead, for the sake of convenience, inventory is calculated using slots, similar to some video games.
 
 ## Inventory Slots
 
@@ -47,7 +47,7 @@ Proficiency in Dexterity (Sleight of Hand) allows you to retrieve an item from y
 
 ### The Mysterious Black Chest
 
-A mysterious item conjured by the will of the DM and powered by the DM’s Convenience. This chest appears whenever the DM feels like it and can seemingly store an infinite number of items.
+A mysterious item conjured by the will of the DM and powered by the DM's Convenience. This chest appears whenever the DM feels like it and can seemingly store an infinite number of items.
 
 ## Item Size Categories
 

@@ -2,7 +2,7 @@
 
 The Trickery Domain offers magic of deception, illusion, and stealth. Clerics who wield this magic are a disruptive force in the world, puncturing pride, mocking tyrants, stealing from the rich, freeing captives, and flouting hollow traditions. They prefer subterfuge, pranks, and theft rather than direct confrontation.
 
-Gods of trickery are mischief-makers and instigators who stand as a constant challenge to the accepted order among both gods and mortals. They embody the forces of change and social upheaval, and they’re patrons of thieves, scoundrels, gamblers, rebels, and liberators.
+Gods of trickery are mischief-makers and instigators who stand as a constant challenge to the accepted order among both gods and mortals. They embody the forces of change and social upheaval, and they're patrons of thieves, scoundrels, gamblers, rebels, and liberators.
 
 Religious orders that operate in secret, especially those that seek to undermine oppressive governments or hierarchies, also draw on the power of the Trickery Domain.
 
@@ -30,14 +30,14 @@ As a Bonus Action, you can expend one use of your Channel Divinity to teleport u
 
 While the illusion persists, you gain the following benefits:
 
-- **Cast Spells.** You can cast spells as though you were in the illusion’s space, but you must use your own senses.
+- **Cast Spells.** You can cast spells as though you were in the illusion's space, but you must use your own senses.
 - **Distract.** When both you and your illusion are within 5 feet of a creature that can see the illusion, you have Advantage on attack rolls against that creature, given how distracting the illusion is to the target.
 
 Move. As a Bonus Action, you can move the illusion up to 30 feet to an unoccupied space you can see that is within 120 feet of yourself, and you can then teleport, swapping places with the illusion.
 
 ## Level 6: Trickster's Magic
 
-If you cast a spell of the Illusion school using a spell slot, you can change the spell’s casting time to a Bonus Action for this casting, provided the spell’s casting time is normally an action.
+If you cast a spell of the Illusion school using a spell slot, you can change the spell's casting time to a Bonus Action for this casting, provided the spell's casting time is normally an action.
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a Long Rest.
 
 ## Level 17: Improved Duplicity

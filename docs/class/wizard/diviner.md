@@ -15,11 +15,11 @@ Each foretelling roll can be used only once. When you finish a Long Rest, you lo
 
 ## Level 6: Expert Divination
 
-Casting Divination spells comes so easily to you that it expends only a fraction of your spellcasting efforts. When you cast a Divination spell of level 2 or higher using a spell slot, you regain one expended spell slot. The slot you regain must be of a level lower than the spell you cast and can’t be higher than level 5.
+Casting Divination spells comes so easily to you that it expends only a fraction of your spellcasting efforts. When you cast a Divination spell of level 2 or higher using a spell slot, you regain one expended spell slot. The slot you regain must be of a level lower than the spell you cast and can't be higher than level 5.
 
 ## Level 10: The Third Eye
 
-You can increase your powers of perception. As a Bonus Action, choose one of the following benefits, which lasts until you start a Short Rest or Long Rest. You can’t use this feature again until you finish a Short Rest or Long Rest.
+You can increase your powers of perception. As a Bonus Action, choose one of the following benefits, which lasts until you start a Short Rest or Long Rest. You can't use this feature again until you finish a Short Rest or Long Rest.
 
 **Darkvision.** You gain Darkvision out to a range of 120 feet.
 

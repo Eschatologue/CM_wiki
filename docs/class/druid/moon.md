@@ -4,7 +4,7 @@ Druids of the Circle of the Moon draw on the magic of the moon to transform them
 
 They wander the deepest parts of the wilderness, where they might go for weeks before crossing paths with another person, let alone another Druid.
 
-Changeable as the moon, a Druid of this circle might prowl as a great cat one night, soar over the treetops as an eagle the next day, and crash through the undergrowth as a bear to drive off a trespassing monster. The wild is in the Druid’s blood.
+Changeable as the moon, a Druid of this circle might prowl as a great cat one night, soar over the treetops as an eagle the next day, and crash through the undergrowth as a bear to drive off a trespassing monster. The wild is in the Druid's blood.
 
 ## Level 3: Circle Spells
 

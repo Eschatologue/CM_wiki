@@ -10,9 +10,9 @@ Choosing a background provides you with important story cues about your characte
 
 ## Parts of a Background
 
-Your character’s background is the collection of characteristics that they picked up during the formative years of their life. These are the experiences and occupations your character engaged in separate from their upbringing and species, and prior to their life as an adventurer.
+Your character's background is the collection of characteristics that they picked up during the formative years of their life. These are the experiences and occupations your character engaged in separate from their upbringing and species, and prior to their life as an adventurer.
 
-Each background includes a brief narrative of what your character’s past might have been like. Alter the details of this narrative however you like.
+Each background includes a brief narrative of what your character's past might have been like. Alter the details of this narrative however you like.
 
 Mechanically, your background contains six aspects detailed as follow:
 
@@ -22,7 +22,7 @@ Mechanically, your background contains six aspects detailed as follow:
 
 3. **Skill Proficiencies:** Your background grants you Proficiency in two specified skills.
 
-4. **Tool Proficiency:** Each background gives a character proficiency with one tool—either a specific tool or one chosen from the Artisan’s Tools category.
+4. **Tool Proficiency:** Each background gives a character proficiency with one tool—either a specific tool or one chosen from the Artisan's Tools category.
 
 5. **Equipment:** The equipment that your character starts with. You can either choose any equipment package available to any background from the 2014 PHB, or you start with 500 SP instead to spend on the equipment of your choice; this can be a combination of Weapon, Tools, Clothing, a Bedroll, etc.
 
@@ -38,18 +38,18 @@ These backgrounds are available as part as the new 2024 PHB, these options act a
 | Charlatan | You have learned to seek out a mark in taverns and pubs, and find the people most in search of less than honest goods, such as forgeries or sham magic items. |
 | Artisan | You worked your way up from scrubbing floors to an apprenticeship creating your own crafts. You know how to schmooze a customer and have a keen eye for detail. |
 | Criminal | Whether you were a member of a criminal crew or a solo thief who only looked out for yourself, you know the best ways to slice some purse strings or how to find alternative means to enter a locked shop. |
-| Entertainer | You’ve spent your life on either a literal or proverbial stage, performing for willing audiences. You have learned how to channel your talent for creation into a crowd-pleasing art form. |
-| Guard | You’ve put in your time standing watch over a city or location. You’ve had your head on a swivel, keeping a watchful eye on raiding enemies on one side of a wall or criminal elements on the other. |
-| Farmer | You’ve tilled the soil or raised animals as livestock or to aid you in cultivating your fields. You’ve gained a healthy respect for nature, in both its bounty and its wrath. |
+| Entertainer | You've spent your life on either a literal or proverbial stage, performing for willing audiences. You have learned how to channel your talent for creation into a crowd-pleasing art form. |
+| Guard | You've put in your time standing watch over a city or location. You've had your head on a swivel, keeping a watchful eye on raiding enemies on one side of a wall or criminal elements on the other. |
+| Farmer | You've tilled the soil or raised animals as livestock or to aid you in cultivating your fields. You've gained a healthy respect for nature, in both its bounty and its wrath. |
 | Guide | Your life was mostly spent outdoors, exploring the natural wonders around you. In your travels, you learned the basics of how to channel the magic of the wild world around you. |
-| Hermit | Whether alone in a hut or as part of a monastery, you’ve spent a considerable amount of time outside the trappings of society. You’ve grown comfortable pondering the wonders and mysteries of creation. |
+| Hermit | Whether alone in a hut or as part of a monastery, you've spent a considerable amount of time outside the trappings of society. You've grown comfortable pondering the wonders and mysteries of creation. |
 | Noble | You grew up in the opulence and structure of wealth and societal privilege. You may have bristled against the restrictions and expectations of your role, but you learned a lot about courtly intrigue and the skills of leadership. |
 | Merchant | As an apprentice to a trader or shopkeeper, you traveled either supplying artisans with the materials they needed or acquiring their goods to sell to your customers. You know how to make a deal and how to handle a long journey. |
-| Sage | Your thirst for knowledge drew you to some of the greatest libraries and archives in the world. You’ve got a knack for research and perhaps a rudimentary knowledge of magic gleaned from a book or two. |
-| Sailor | You called the open water your home, survived some of the sea’s harshest storms. You’ve swapped stories with the best of them, whether that’s on the barstool of a random port or the denizens of the world beneath the waves. |
-| Soldier | You can hardly remember a time when you didn’t wield a weapon. You’re well-versed in the ways of battle and war to protect the realm, and you have the muscle memory to prove it. |
+| Sage | Your thirst for knowledge drew you to some of the greatest libraries and archives in the world. You've got a knack for research and perhaps a rudimentary knowledge of magic gleaned from a book or two. |
+| Sailor | You called the open water your home, survived some of the sea's harshest storms. You've swapped stories with the best of them, whether that's on the barstool of a random port or the denizens of the world beneath the waves. |
+| Soldier | You can hardly remember a time when you didn't wield a weapon. You're well-versed in the ways of battle and war to protect the realm, and you have the muscle memory to prove it. |
 | Scribe | The written word has been your domain, either copying tomes, crafting government documents, or producing your own texts. Your eye for detail and ability to catch errors and mistakes is finely honed. |
-| Wayfarer | An urchin or societal castoff, you learned to survive. Forging your own path on the streets and possibly turning to crime when needed, you’ve managed to keep your pride and hope that destiny has more for you yet. |
+| Wayfarer | An urchin or societal castoff, you learned to survive. Forging your own path on the streets and possibly turning to crime when needed, you've managed to keep your pride and hope that destiny has more for you yet. |
 
 If these option did not appeal to you, you may choose a pre-written background available on [WikiDot](http://dnd5e.wikidot.com/#toc3), only the Common Background though and forgo the "Features"
 
@@ -129,15 +129,15 @@ Increase one score by 2 and another score by 1, or increase all three scores by 
 
 #### Feat
 
-Choose one Origin feat for your character. This feat reflects your character’s upbringing, profession, or unique life experience and is chosen from the list of Starting feats.
+Choose one Origin feat for your character. This feat reflects your character's upbringing, profession, or unique life experience and is chosen from the list of Starting feats.
 
 #### Skill Proficiencies
 
-Select two skills for your character to gain proficiency in. Choose skills that align with your character’s background and intended role.
+Select two skills for your character to gain proficiency in. Choose skills that align with your character's background and intended role.
 
 #### Tool Proficiency
 
-Choose one tool proficiency. This can be a specific tool that fits your character’s background, or you may select from the Artisan’s Tools category (detailed in chapter 6).
+Choose one tool proficiency. This can be a specific tool that fits your character's background, or you may select from the Artisan's Tools category (detailed in chapter 6).
 
 #### Equipment
 

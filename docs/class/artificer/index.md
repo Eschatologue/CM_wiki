@@ -47,7 +47,7 @@ icon: class/artificer
 
 - **Armor:** Light Armour, Medium Armour, Shields  
 - **Weapons:** Simple Weapons, Short-arms  
-- **Tools:** Thieves’ tools, Tinker’s Tools and, one type of Artisan’s Tools of your choice  
+- **Tools:** Thieves' tools, Tinker's Tools and, one type of Artisan's Tools of your choice  
 - **Saving Throws:** Constitution, Intelligence  
 - **Skills:** Choose two from Arcana, History, Investigation, Medicine, Nature, Perception, Sleight of Hand  
 
@@ -58,7 +58,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - any two simple weapons
 - a light crossbow and 20 bolts
 - (a) studded leather armor or (b) scale mail
-- thieves’ tools and a dungeoneer’s pack
+- thieves' tools and a dungeoneer's pack
 - 5d4 x 10 SP
 
 ## Level 1: Magical Tinkering

@@ -12,11 +12,11 @@ icon: class/sorcerer
 
 # Sorcerer
 
-Sorcerers wield innate magic that is stamped into their being. Some Sorcerers can’t name the origin of their power, while others trace it to strange events in their personal or family history. The touch of a dragon, the blessing of a dryad at a baby’s birth, or the strike of lightning from a clear sky might spark a Sorcerer’s gift. So too might the gift of a deity, exposure to the strange magic of another plane of existence, or a glimpse into the inner workings of reality. Whatever the origin, the result is an indelible mark on the mortal Sorcerer, a churning magic that can even be passed down through generations. 
+Sorcerers wield innate magic that is stamped into their being. Some Sorcerers can't name the origin of their power, while others trace it to strange events in their personal or family history. The touch of a dragon, the blessing of a dryad at a baby's birth, or the strike of lightning from a clear sky might spark a Sorcerer's gift. So too might the gift of a deity, exposure to the strange magic of another plane of existence, or a glimpse into the inner workings of reality. Whatever the origin, the result is an indelible mark on the mortal Sorcerer, a churning magic that can even be passed down through generations. 
 
-Sorcerers don’t learn magic; the raw, roiling chaos of magic is part of them. The essential art of a Sorcerer is learning to harness and channel that innate magic, allowing the Sorcerer to discover new and staggering ways to unleash their power. As Sorcerers master their innate magic, they grow more attuned to its origin, developing distinct powers that reflect the source of that magic.
+Sorcerers don't learn magic; the raw, roiling chaos of magic is part of them. The essential art of a Sorcerer is learning to harness and channel that innate magic, allowing the Sorcerer to discover new and staggering ways to unleash their power. As Sorcerers master their innate magic, they grow more attuned to its origin, developing distinct powers that reflect the source of that magic.
 
-Sorcerers are rare. Some family lines produce exactly one Sorcerer in every generation, but most of the time, the talents of sorcery appear as a fluke. People who have this magical power soon discover that the power doesn’t like to stay quiet. A Sorcerer’s magic wants to be wielded, and it tends to spill out in unpredictable ways if it isn’t.
+Sorcerers are rare. Some family lines produce exactly one Sorcerer in every generation, but most of the time, the talents of sorcery appear as a fluke. People who have this magical power soon discover that the power doesn't like to stay quiet. A Sorcerer's magic wants to be wielded, and it tends to spill out in unpredictable ways if it isn't.
 
 | Level | Prof. Bonus | Class Features | Sorcery Points | Cantrips | Spells Prepared | I | II | III | IV | V | VI | VII | VIII | IX |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -64,7 +64,7 @@ As a level 1 character, you start with the following equipment:
 
 - Arcane Focus (Crystal) 
 - Dagger (2) 
-- Dungeoneer’s Pack
+- Dungeoneer's Pack
 - Spear 
 - 280 SP
 
@@ -72,7 +72,7 @@ Or you can forgo it and spend 500 SP on equipment of your choice.
 
 ## Level 1: Spellcasting
 
-Drawing from your innate magic, you can cast spells. See the Player’s Handbook for rules on spellcasting. The information below details how you use those rules as a Sorcerer.
+Drawing from your innate magic, you can cast spells. See the Player's Handbook for rules on spellcasting. The information below details how you use those rules as a Sorcerer.
 
 ### Cantrips
 
@@ -81,7 +81,7 @@ When you reach levels 4 and 10 in this class, you learn another Sorcerer cantrip
 
 ### Spell Slots
 
-The Sorcerer table shows how many spell slots you have to cast your spells of level 1 and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a Long Rest.
+The Sorcerer table shows how many spell slots you have to cast your spells of level 1 and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a Long Rest.
 
 ### Prepared Spells of Level 1+
 
@@ -89,9 +89,9 @@ You prepare the list of spells of level 1 and higher that are available for you 
 
 The number of spells on your list also increases as you gain Sorcerer levels, as shown in the Prepared Spells column of the Sorcerer table.
 
-Whenever that number increases, choose additional spells from the Sorcerer spell list untilthe number of spells on your list matches thenumber on the table. The chosen spells must be of a level for which you have spell slots. Forexample, if you’re a level 3 Sorcerer, your list ofprepared spells can include six Sorcerer spells oflevel 1 or 2 in any combination.
+Whenever that number increases, choose additional spells from the Sorcerer spell list untilthe number of spells on your list matches thenumber on the table. The chosen spells must be of a level for which you have spell slots. Forexample, if you're a level 3 Sorcerer, your list ofprepared spells can include six Sorcerer spells oflevel 1 or 2 in any combination.
  
-If another Sorcerer feature gives spells that you always have prepared, those spells don’t count against the number of spells on the list you prepare with this Spellcasting feature, but those spells otherwise follow the rules in this feature.
+If another Sorcerer feature gives spells that you always have prepared, those spells don't count against the number of spells on the list you prepare with this Spellcasting feature, but those spells otherwise follow the rules in this feature.
 
 ### Changing Your Prepared Spells
 
@@ -113,7 +113,7 @@ You have 2 Sorcery Points, and you gain more as you reach higher levels, as show
 
 You can use your Sorcery Points to fuel the options below, along with other features, such as Metamagic, that use those points.
 
-Converting Spell Slots to Sorcery Points. You can expend a spell slot to gain a number of Sorcery Points equal to the slot’s level (no action required).
+Converting Spell Slots to Sorcery Points. You can expend a spell slot to gain a number of Sorcery Points equal to the slot's level (no action required).
 
 Creating Spell Slots. As a Bonus Action, you can transform unexpended Sorcery Points into one spell slot. The Creating Spell Slots table shows the cost of creating a spell slot of a given level, and it lists the minimum Sorcerer level you must be to create a slot. You can create a spell slot no higher in level than 5.
 
@@ -129,14 +129,14 @@ Any spell slot you create with this feature vanishes when you finish a Long Rest
 
 ## Level 2: Metamagic
 
-Because your magic flows from within you, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from the “Metamagic Options” section later in this class’s description. You gain two more when you become a level 10 Sorcerer and two more when you become a level 17 Sorcerer.
+Because your magic flows from within you, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from the “Metamagic Options” section later in this class's description. You gain two more when you become a level 10 Sorcerer and two more when you become a level 17 Sorcerer.
 You can use only one Metamagic option on a spell when you cast it, unless otherwise noted in one of those options.
-Whenever you gain a Sorcerer level, you can replace one of your Metamagic options with one you don’t know.
+Whenever you gain a Sorcerer level, you can replace one of your Metamagic options with one you don't know.
 
 ## Level 3: Sorcerer Subclass
 
-You gain a Sorcerer subclass of your choice: Aberrant Sorcery, Clockwork Sorcery, Draconic Sorcery, or Wild Magic Sorcery. Subclasses are detailed after this class’s description.
-A subclass is a specialization that grants you special features at certain Sorcerer levels. For the rest of your career, you gain each of your subclass’s features that are of your Sorcerer level and lower.
+You gain a Sorcerer subclass of your choice: Aberrant Sorcery, Clockwork Sorcery, Draconic Sorcery, or Wild Magic Sorcery. Subclasses are detailed after this class's description.
+A subclass is a specialization that grants you special features at certain Sorcerer levels. For the rest of your career, you gain each of your subclass's features that are of your Sorcerer level and lower.
 
 ## Level 4: Ability Score Improvement
 

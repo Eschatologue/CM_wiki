@@ -1,6 +1,6 @@
 # Circle of the Sea
 
-Druids of the Circle of the Sea draw on the tempestuous natural forces of the world’s oceans and storms. Some view themselves as embodiments of nature’s wrath, seeking vengeance against those who despoil the natural world. Others seek mystical unity with nature by attuning themselves to the ebb and flow of the tides, following the rush of currents and waves, and listening to the inscrutable whispers and roars of the winds.
+Druids of the Circle of the Sea draw on the tempestuous natural forces of the world's oceans and storms. Some view themselves as embodiments of nature's wrath, seeking vengeance against those who despoil the natural world. Others seek mystical unity with nature by attuning themselves to the ebb and flow of the tides, following the rush of currents and waves, and listening to the inscrutable whispers and roars of the winds.
 
 ## Level 3: Circle Spells
 

@@ -12,13 +12,13 @@ icon: class/wizard
 
 # Wizard
 
-Wizards are supreme magic-users, defined by their careful and exhaustive study of magic’s inner workings. Drawing on the subtle weave of magic that permeates the cosmos, Wizards cast spells of explosive fire, arcing lightning, subtle deception, and spectacular transformations.
+Wizards are supreme magic-users, defined by their careful and exhaustive study of magic's inner workings. Drawing on the subtle weave of magic that permeates the cosmos, Wizards cast spells of explosive fire, arcing lightning, subtle deception, and spectacular transformations.
 
 Their magic conjures monsters from other planes of existence, glimpses the future, or turns slain foes into zombies. Their mightiest spells change one substance into another, call meteors from the sky, or open portals to other worlds.
 
 Beyond the sheer power of the spells they cast, though, Wizards share an approach to magic that is scholarly and exacting. Wizards understand magic at a fundamental level, giving them a precise mastery of their spells. They examine the theoretical underpinnings of magic, particularly the categorization of spells into schools of magic, and use those foundations to alter their spellsand even craft entirely new spells. Renowned Wizards such as Bigby, Tasha, Mordenkainen, Yolande, and many more invented iconic spells now used across the multiverse.
 
-Wizards’ lives are seldom mundane. The closest a Wizard is likely to come to an ordinary life is working as a sage or lecturer in a library or university, teaching others the secrets of the multiverse. Other Wizards sell their services as diviners, serve in military forces, or pursue lives of crime or domination.
+Wizards' lives are seldom mundane. The closest a Wizard is likely to come to an ordinary life is working as a sage or lecturer in a library or university, teaching others the secrets of the multiverse. Other Wizards sell their services as diviners, serve in military forces, or pursue lives of crime or domination.
 
 But the lure of knowledge and power calls even the most unadventurous Wizards from the safety of their libraries and laboratories and into crumbling ruins and lost cities. Most Wizards believe that their counterparts in ancient civilizations knew secrets of magic that have been lost to the ages, and discovering those secrets could unlock the path to a power greater than any magic available in the present age.
 
@@ -80,13 +80,13 @@ Or you can forgo it and spend 550 SP on equipment of your choice.
 
 You have learned to regain some of your magical energy by studying your spellbook. When you finish a Short Rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your Wizard level (rounded up), and none of the slots can be level 6 or higher.
 
-For example, if you’re a level 4 Wizard, you can recover up to two levels worth of spell slots, regaining either a level 2 spell slot or two level 1 spell slots.
+For example, if you're a level 4 Wizard, you can recover up to two levels worth of spell slots, regaining either a level 2 spell slot or two level 1 spell slots.
 
-Once you use this feature, you can’t do so again until you finish a Long Rest.
+Once you use this feature, you can't do so again until you finish a Long Rest.
 
 ## Level 1: Spellcasting
 
-As a student of arcane magic, you have learned to cast spells. See the Player’s Handbook for rules on spellcasting. The information below details how you use those rules as a Wizard.
+As a student of arcane magic, you have learned to cast spells. See the Player's Handbook for rules on spellcasting. The information below details how you use those rules as a Wizard.
 
 ### Cantrips
 
@@ -95,22 +95,22 @@ When you reach levels 4 and 10 in this class, you learn another Wizard cantrip o
 
 ### Spellbook
 
-Your wizardly apprenticeship culminated in the creation of a unique book in your possession: your spellbook. It is a Tiny object that weighs 3 pounds, and it contains 100 pages, which can be read only by you or someone casting Identify. You determine the book’s appearance and materials, such as a gilt- edged tome or a collection of vellum bound together by twine.
+Your wizardly apprenticeship culminated in the creation of a unique book in your possession: your spellbook. It is a Tiny object that weighs 3 pounds, and it contains 100 pages, which can be read only by you or someone casting Identify. You determine the book's appearance and materials, such as a gilt- edged tome or a collection of vellum bound together by twine.
 
 The book contains the spells you know of level 1 and higher. It starts with six level 1 spells of your choice from the Wizard spell list. Instead of choosing spells, you can have your book contain the following spells: Detect Magic, Feather Fall, Mage Armor, Magic Missile, Sleep, and Thunderwave.
 Whenever you gain a Wizard level after 1, add two Wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. The spells are the culmination of arcane research you do regularly.
  
 ### Spell Slots
 
-The Wizard table shows how many spell slots you have to cast your spells of level 1 and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a Long Rest.
+The Wizard table shows how many spell slots you have to cast your spells of level 1 and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a Long Rest.
 
 ### Prepared Spells of Level 1+
 
 You prepare the list of spells of level 1 and higher that are available for you to cast with this feature. To do so, choose four spells from your spellbook. The chosen spells must be of a level for which you have spell slots.
 
-The number of spells on your list increases as you gain Wizard levels, as shown in the Prepared Spells column of the Wizard table. Whenever that number increases, choose additional spells from the Wizard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 3 Wizard, your list of prepared spells can include six spells of levels 1 and 2 in any combination, chosen from your spellbook.
+The number of spells on your list increases as you gain Wizard levels, as shown in the Prepared Spells column of the Wizard table. Whenever that number increases, choose additional spells from the Wizard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Wizard, your list of prepared spells can include six spells of levels 1 and 2 in any combination, chosen from your spellbook.
 
-If another Wizard feature gives spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this Spellcasting feature, but those spells otherwise follow the rules in this feature.
+If another Wizard feature gives spells that you always have prepared, those spells don't count against the number of spells you can prepare with this Spellcasting feature, but those spells otherwise follow the rules in this feature.
 
 ### Changing Your Prepared Spells
 
@@ -118,7 +118,7 @@ Whenever you finish a Long Rest, you can change your list of prepared spells, re
 
 ### Ritual Caster
 
-You can cast any spell as a Ritual if that spell has the Ritual tag and the spell is in your spellbook. You needn’t have the spell prepared, but you must read from the book to cast a spell in this way.
+You can cast any spell as a Ritual if that spell has the Ritual tag and the spell is in your spellbook. You needn't have the spell prepared, but you must read from the book to cast a spell in this way.
 
 ### Spellcasting Ability
 
@@ -146,8 +146,8 @@ While studying magic, you also specialized in an academic field of study. Choose
 ## Level 3: Wizard Subclass
 
 You gain a Wizard subclass of your choice: Abjurer, Diviner, Evoker, or Illusionist.
-Subclasses are detailed after this class’s description.
-A subclass is a specialization that grants you special features at certain Wizard levels. For the rest of your career, you gain each of your subclass’s features that are of your Wizard level and lower.
+Subclasses are detailed after this class's description.
+A subclass is a specialization that grants you special features at certain Wizard levels. For the rest of your career, you gain each of your subclass's features that are of your Wizard level and lower.
 
 ## Level 4: Ability Score Improvement
 
@@ -157,7 +157,7 @@ As shown on the Wizard table, you gain this feature again at levels 8, 12, 16, a
 
 ## Level 5: Memorize Spell
 
-Studying your spellbook for 1 minute, you can expend mental and magical effort to memorize a spell. Choose one spell of level 1 or higher from your spellbook that you don’t have prepared.
+Studying your spellbook for 1 minute, you can expend mental and magical effort to memorize a spell. Choose one spell of level 1 or higher from your spellbook that you don't have prepared.
 You now have that spell prepared until you use this feature to prepare a different spell.
 
 ## Level 18: Spell Mastery
@@ -167,5 +167,5 @@ Whenever you finish a Long Rest, you can study your spellbook and exchange one o
 
 ## Level 20: Signature Spells
 
-You gain mastery over two powerful spells and can cast them with little effort. Choose two level 3 spells in your spellbook as your signature spells. You always have these spells prepared, and you can cast each of them once at level 3 without expending a spell slot. When you do so, you can’t do so again until you finish a Short Rest or Long Rest.
+You gain mastery over two powerful spells and can cast them with little effort. Choose two level 3 spells in your spellbook as your signature spells. You always have these spells prepared, and you can cast each of them once at level 3 without expending a spell slot. When you do so, you can't do so again until you finish a Short Rest or Long Rest.
 If you want to cast either spell at a higher level, you must expend a spell slot as normal

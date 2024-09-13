@@ -1,6 +1,6 @@
 # Oath of Glory
 
-Paladins who take the Oath of Glory believe they and their companions are destined to achieve glory through deeds of heroism. They train diligently and encourage their companions so they’re all ready when destiny calls.
+Paladins who take the Oath of Glory believe they and their companions are destined to achieve glory through deeds of heroism. They train diligently and encourage their companions so they're all ready when destiny calls.
 
 ### Tenets of Glory
 
@@ -28,7 +28,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 ## Level 3: Inspiring Smite
 
-Immediately after you deal damage to a creature with any of your Paladin’s Smite spells, you can expend one use of your Channel Divinity and distribute Temporary Hit Points to creatures of your choice within 30 feet of yourself, which can include you. The total number of Temporary Hit Points equals 2d8 + your Paladin level, divided among the chosen creatures however you like.
+Immediately after you deal damage to a creature with any of your Paladin's Smite spells, you can expend one use of your Channel Divinity and distribute Temporary Hit Points to creatures of your choice within 30 feet of yourself, which can include you. The total number of Temporary Hit Points equals 2d8 + your Paladin level, divided among the chosen creatures however you like.
 
 ## Level 3: Peerless Athlete
 
@@ -40,7 +40,7 @@ Your Speed increases by 10 feet, and the Speed of any ally who starts their turn
 
 ## Level 15: Glorious Defense
 
-You can turn defense into a sudden strike. When you or another creature you can see within 10 feet of you is hit by an attack roll, you can use your Reaction to grant a bonus to the target’s AC against that attack, potentially causing it to miss. The bonus equals your Charisma modifier (minimum of +1). If the attack misses, you can make one weapon attack against the attacker as part of this Reaction, provided the attacker is within your weapon’s range.
+You can turn defense into a sudden strike. When you or another creature you can see within 10 feet of you is hit by an attack roll, you can use your Reaction to grant a bonus to the target's AC against that attack, potentially causing it to miss. The bonus equals your Charisma modifier (minimum of +1). If the attack misses, you can make one weapon attack against the attacker as part of this Reaction, provided the attacker is within your weapon's range.
 
 You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 

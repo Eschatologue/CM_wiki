@@ -2,7 +2,7 @@
 icon: weapon/rifle
 ---
 
-> "A good blade’s worth more than any fire-spitter. A gun’s only as strong as its powder and steel, but a sword or an axe? Aye, that’s as strong as the arm that swings it—and there’s no arm stronger than a dwarf’s!" – *A Dwarven Blacksmith*
+> "A good blade's worth more than any fire-spitter. A gun's only as strong as its powder and steel, but a sword or an axe? Aye, that's as strong as the arm that swings it—and there's no arm stronger than a dwarf's!" – *A Dwarven Blacksmith*
 
 # Firearms
 

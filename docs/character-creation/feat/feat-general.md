@@ -16,7 +16,7 @@ These General feats are included in the 2024 Player's Handbook
 
 *General Feat (Prerequisite: Level 4+)*
 
-You increase one Ability Score of your choice by 2, or you can increase two Ability Scores of your choice by 1. You can't increase an Ability Score above 20 using this feat. However, if you’re at least level 19, that maximum increases to 22.
+You increase one Ability Score of your choice by 2, or you can increase two Ability Scores of your choice by 1. You can't increase an Ability Score above 20 using this feat. However, if you're at least level 19, that maximum increases to 22.
 
 **Repeatable**  
 You can take this feat more than once.
@@ -792,7 +792,7 @@ You gain proficiency with Short-Arms. If you have proficiency with at least one 
 
 *General Feat (Prerequisite: Level 4+, Spellcasting feature from a class that ^^prepares^^ spells)* 
 
-You’ve developed the ability to instantly recall an unprepared spell in moments of sudden necessity. You gain the following benefits:
+You've developed the ability to instantly recall an unprepared spell in moments of sudden necessity. You gain the following benefits:
 
 **Ability Score Increase**  
 You increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.

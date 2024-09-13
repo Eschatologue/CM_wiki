@@ -26,7 +26,7 @@ In addition, whenever the beast hits with an attack and deals damage, it can dea
 
 When you command your Primal Companion beast to take the Attack action, the beast can make two attacks.
 
-In addition, the first time each turn it hits a creature under the effect of your Hunter’s Mark spell, the beast deals extra Force damage equal to the bonus damage of that spell.
+In addition, the first time each turn it hits a creature under the effect of your Hunter's Mark spell, the beast deals extra Force damage equal to the bonus damage of that spell.
 
 ## Level 15: Share Spells
 

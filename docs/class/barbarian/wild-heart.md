@@ -12,7 +12,7 @@ Your Rage taps into the primal power of animals. You gain one of the following o
 
 **Bear.** When you activate your Rage, choose two damage types, other than Force or Psychic. You have Resistance to the chosen types until the Rage ends.
 
-**Eagle.** When you activate your Rage and as a Bonus Action while it’s active, you can take both the Disengage and the Dash action.
+**Eagle.** When you activate your Rage and as a Bonus Action while it's active, you can take both the Disengage and the Dash action.
 
 **Wolf.** While your Rage is active, your allies have Advantage on melee attack rolls against any enemy of yours within 10 feet of you.
 
@@ -36,6 +36,6 @@ You gain one of the following options of your choice. Whenever you gain a Barbar
 
 **Lion.** While your Rage is active, any of your enemies within 5 feet of you have Disadvantage on attack rolls against targets other than you or another Barbarian with this feature.
 
-**Falcon.** While your Rage is active, you have a Fly Speed equal to your Speed, provided you aren’t wearing any armor.
+**Falcon.** While your Rage is active, you have a Fly Speed equal to your Speed, provided you aren't wearing any armor.
 
 **Ram.** While your Rage is active, when you hit a Large or smaller creature with a melee attack, it must succeed on a Strength saving throw (DC equal to 8 + your Proficiency Bonus + your Strength modifier) or have the Prone condition.

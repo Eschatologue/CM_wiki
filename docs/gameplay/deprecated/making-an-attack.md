@@ -54,7 +54,7 @@ An Unarmed Strike is a melee attack that involves you using your body to damage,
 Your bonus to hit with an Unarmed Strike equals your Strength modifier + Proficiency Bonus. On a hit, your Unarmed Strike causes one of the following effects of your choice: 
 
 - **Damage.** The target takes :dmg-bludgeoning: **Bludgeoning** Damage equal to **1 + your Strength modifier**.
-- **Grappled.**  The target is **Grappled**, and the grapple’s escape DC equals **8 + your Strength modifier + your Proficiency Bonus**. Possible only if the target is no more than one Size larger than you and if you have a hand free to grab the target.
+- **Grappled.**  The target is **Grappled**, and the grapple's escape DC equals **8 + your Strength modifier + your Proficiency Bonus**. Possible only if the target is no more than one Size larger than you and if you have a hand free to grab the target.
 - **Shove.** You either push the target 5 ft. away or knock the target **Prone**. This shove is possible only if the target is no more than one Size larger than you.
 
 ### Opportunity Attacks

@@ -19,7 +19,7 @@ These tools support adventure and other pursuits.
 ### Forgery Kit (150 SP)
 
 **Ability:** Dexterity  
-**Utilize:** Mimic 10 or fewer words of someone else’s handwriting (DC 15), or duplicate a wax seal (DC 20)  
+**Utilize:** Mimic 10 or fewer words of someone else's handwriting (DC 15), or duplicate a wax seal (DC 20)  
 
 ---
 
@@ -34,7 +34,7 @@ These tools support adventure and other pursuits.
 
 **Ability:** Intelligence  
 **Utilize:** Identify a plant (DC 10)  
-**Craft:** Antitoxin, Candle, Healer’s Kit, Potion of Healing
+**Craft:** Antitoxin, Candle, Healer's Kit, Potion of Healing
 
 ---
 
@@ -45,14 +45,14 @@ These tools support adventure and other pursuits.
 
 ---
 
-### Navigator’s Tools (250 SP)
+### Navigator's Tools (250 SP)
 
 **Ability:** Wisdom  
 **Utilize:** Plot a course (DC 10), or determine position by stargazing (DC 15)
 
 ---
 
-### Poisoner’s Kit (500 SP)
+### Poisoner's Kit (500 SP)
 
 **Ability:** Intelligence  
 **Utilize:** Detect a poisoned object (DC 10)  
@@ -60,7 +60,7 @@ These tools support adventure and other pursuits.
 
 ---
 
-### Thieves’ Tools (250 SP)
+### Thieves' Tools (250 SP)
 
 **Ability:** Dexterity  
 **Utilize:** Pick a lock (DC 15), or disarm a trap (DC 15)

@@ -10,7 +10,7 @@ search:
 
 **Prerequisites:** None  
 
-You increase one Ability Score of your choice by 2, or you can increase two Ability Scores of your choice by 1. You can't increase an Ability Score above 20 using this feat. However, if you’re at least level 19, that maximum increases to 22.
+You increase one Ability Score of your choice by 2, or you can increase two Ability Scores of your choice by 1. You can't increase an Ability Score above 20 using this feat. However, if you're at least level 19, that maximum increases to 22.
 
 ***Repeatable.*** You can take this feat more than once.
 
@@ -34,7 +34,7 @@ You've learned how the how to weave magic and mobility
     
     When you use an Action to Dash, you can use a Bonus Action to cast a cantrip with a range of touch if you move at least 1o feet in a straight line. 
     
-    When you hit your cantrip you can either add a :die-d8: 1d8 bonus to the spell’s damage roll or push the target 10 feet away from you, provided the target you want to push is no more than one Size larger than you. 
+    When you hit your cantrip you can either add a :die-d8: 1d8 bonus to the spell's damage roll or push the target 10 feet away from you, provided the target you want to push is no more than one Size larger than you. 
 
     You can use this benefit only once on each of your turns.
 
@@ -56,7 +56,7 @@ You are skilled at casting spells with a weapon in hand.
     
 - **Weapon Conduit**
     
-    When wielding a magical weapon that you’re proficient with and that provides a bonus to hit and damage, you can also add that weapon’s bonus to damage rolls for spells you cast.
+    When wielding a magical weapon that you're proficient with and that provides a bonus to hit and damage, you can also add that weapon's bonus to damage rolls for spells you cast.
 
 ### Cartomancy
 
@@ -102,7 +102,7 @@ Thanks to extensive practice with the crossbow, you gain the following benefits:
     
 - **Attack in Melee**
     
-    Being within 5 feet of an enemy doesn’t impose :d20-disadv: **Disadvantage** on your :d20-attack: **Attack Rolls** with crossbows.
+    Being within 5 feet of an enemy doesn't impose :d20-disadv: **Disadvantage** on your :d20-attack: **Attack Rolls** with crossbows.
     
 - **Dual Wielding**
     
@@ -114,7 +114,7 @@ Thanks to extensive practice with the crossbow, you gain the following benefits:
 
 **Prerequisites:** Dexterity 13+  
 
-You’ve learned to deftly parry attacks, granting you the following benefits:
+You've learned to deftly parry attacks, granting you the following benefits:
 
 - **Ability Score Increase**
     
@@ -174,7 +174,7 @@ Hardy and resilient, you gain the following benefits:
 
 **Prerequisites:** Spellcasting/Pact Magic feature; Mage Group  
 
-You’ve learned to cannibalize the power of your spells to reinvigorate your allies.
+You've learned to cannibalize the power of your spells to reinvigorate your allies.
 
 - **Ability Score Increase**
     
@@ -212,7 +212,7 @@ In your spellcasting, you can harness a particular form of energy with deadly ma
 
 **Prerequisites:** The ability to cast a spell  
 
-Your exposure to the Feywild’s magic has changed you, granting you the following benefits:
+Your exposure to the Feywild's magic has changed you, granting you the following benefits:
 
 - **Ability Score Increase**
     
@@ -220,9 +220,9 @@ Your exposure to the Feywild’s magic has changed you, granting you the followi
     
 - **Fey Magic**
     
-    You learn the misty step spell and two other 1st-level spells of your choice from the Divination or Enchantment school of magic. You can cast each of these spells without expending a :rsc-spell-slot: **Spell Slot**. Once you cast either of these spells in this way, you can’t cast that spell in this way again until you finish a Long Rest.
+    You learn the misty step spell and two other 1st-level spells of your choice from the Divination or Enchantment school of magic. You can cast each of these spells without expending a :rsc-spell-slot: **Spell Slot**. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a Long Rest.
     
-    You can also cast these spells using :rsc-spell-slot: **Spell Slots** you have of the appropriate level. The spells’ spellcasting ability is the ability increased by this feat.
+    You can also cast these spells using :rsc-spell-slot: **Spell Slots** you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
 
 ### Fighting Intiate
 
@@ -238,7 +238,7 @@ Your martial training has helped you develop a particular style of fighting.
 
 - **Martial Training**
     
-    You learn one Fighting Style option of your choice from the [Fighting Style Feats](feat-fighting-style.md), the one you choose must be different from one that you already have. Whenever you reach a level that grants the Ability Score Improvement feature, you can replace this feat’s fighting style with another one which you don’t have.
+    You learn one Fighting Style option of your choice from the [Fighting Style Feats](feat-fighting-style.md), the one you choose must be different from one that you already have. Whenever you reach a level that grants the Ability Score Improvement feature, you can replace this feat's fighting style with another one which you don't have.
 
     This feat lacks whatever prerequisites that the Feats from [Fighting Style Feats](feat-fighting-style.md) has.
 
@@ -250,7 +250,7 @@ Your martial training has helped you develop a particular style of fighting.
 
 **Prerequisites:** Spellcasting/Pact Magic feature  
 
-You’ve developed the ability to instantly recall an unprepared spell in moments of sudden necessity. You gain the following benefits:
+You've developed the ability to instantly recall an unprepared spell in moments of sudden necessity. You gain the following benefits:
 
 - **Ability Score Increase**
     
@@ -280,7 +280,7 @@ You're an accomplished wrestler, granting you the following benefits:
     
 - **Fast Wrestler**
     
-    You aren’t Slowed when you move a creature Grappled by you, provided the creature is your Size or smaller.
+    You aren't Slowed when you move a creature Grappled by you, provided the creature is your Size or smaller.
     
 - **Punch and Grab**
     
@@ -292,7 +292,7 @@ You're an accomplished wrestler, granting you the following benefits:
 
 **Prerequisite:** Warrior Group, or Proficiency with one Martial Weapon with :weapon-prop-heavy: **Heavy** or :weapon-prop-versatile: **Versatile** property  
 
-You’ve learned to use the weight of a weapon to your advantage, letting its momentum empower your strikes. You gain the following benefits:
+You've learned to use the weight of a weapon to your advantage, letting its momentum empower your strikes. You gain the following benefits:
 
 - **Ability Score Increase**
     
@@ -340,7 +340,7 @@ You can use your armour to deflect strikes that would kill others. You gain the 
     
 - **Damage Reduction**
     
-    When you’re hit by an attack while you’re wearing Heavy Armour, any :dmg-bludgeoning: Bludgeoning, :dmg-piercing: Piercing, or :dmg-slashing: Slashing Damage dealt to you by that attack is reduced by an amount equal to your Proficiency Bonus.
+    When you're hit by an attack while you're wearing Heavy Armour, any :dmg-bludgeoning: Bludgeoning, :dmg-piercing: Piercing, or :dmg-slashing: Slashing Damage dealt to you by that attack is reduced by an amount equal to your Proficiency Bonus.
 
 ### Inspiring Leader
 
@@ -380,7 +380,7 @@ You have practiced techniques useful in melee combat against spellcasters, gaini
     
 - **Guarded Mind**
     
-    If you fail an Intelligence, a Wisdom, or a Charisma :d20-save: **Saving Throw**, you can cause yourself to succeed instead. Once you use this benefit, you can’t use it again until you finish a Long Rest.
+    If you fail an Intelligence, a Wisdom, or a Charisma :d20-save: **Saving Throw**, you can cause yourself to succeed instead. Once you use this benefit, you can't use it again until you finish a Long Rest.
 
 ### Master Blacksmith
 
@@ -396,15 +396,15 @@ You are a master of the forge that can wield the right tools with ease. You gain
     
 - **Master of the Forge**
     
-    You gain Proficiency with Smith’s Tool, Tinker's Tool or a Leatherworker’s Tools (Choose one). If you are already proficient with them, you add double your Proficiency Bonus to checks you make with them.
+    You gain Proficiency with Smith's Tool, Tinker's Tool or a Leatherworker's Tools (Choose one). If you are already proficient with them, you add double your Proficiency Bonus to checks you make with them.
     
 - **Armour Upgrades**
     
-    As part of a Long Rest, you can use a Smith's Tool, Tinker's Tool or a Leatherworker's Tool and leather pieces to augment a set of Medium or Heavy Armour. For 8 hours, the armour doesn’t cause its wearer to suffer :d20-disadv: **Disadvantage** on Dexterity (Stealth) checks. 
+    As part of a Long Rest, you can use a Smith's Tool, Tinker's Tool or a Leatherworker's Tool and leather pieces to augment a set of Medium or Heavy Armour. For 8 hours, the armour doesn't cause its wearer to suffer :d20-disadv: **Disadvantage** on Dexterity (Stealth) checks. 
     
 - **Find Fragility**
     
-    Your smithing experience lets you identify weak points in a target’s armour. When you roll a Critical Hit on a weapon attack against a target that is wearing armour, it suffers a -2 penalty to AC until the start of your next turn. This ability can’t reduce a creature’s AC multiple times simultaneously.
+    Your smithing experience lets you identify weak points in a target's armour. When you roll a Critical Hit on a weapon attack against a target that is wearing armour, it suffers a -2 penalty to AC until the start of your next turn. This ability can't reduce a creature's AC multiple times simultaneously.
 
 ### Medic
 
@@ -412,7 +412,7 @@ You are a master of the forge that can wield the right tools with ease. You gain
 
 **Prerequisite:** Wisdom 13+ or Wisdom (Medicine) Proficiency  
 
-You master the physician’s arts, gaining the following benefits:
+You master the physician's arts, gaining the following benefits:
 
 - **Ability Score Increase**
     
@@ -426,7 +426,7 @@ You master the physician’s arts, gaining the following benefits:
     
     When you successfully stabilize a creature, it regains a number of Hit Points equal to your Wisdom modifier + Proficiency Bonus.
     
-- **Doctor’s Orders**
+- **Doctor's Orders**
     
     During a Short Rest, you can clean and bind the wounds of injured creatures. You can forego rolling Hit Die to maximize the amount of healing for a number of Hit Dice equal to your Wisdom Modifier.
 
@@ -448,7 +448,7 @@ You have practiced moving in medium armour to gain the following benefits:
     
 - **Custom Fit**
     
-    Wearing medium armour doesn’t impose :d20-disadv: **Disadvantage** on your Dexterity (Stealth) checks.
+    Wearing medium armour doesn't impose :d20-disadv: **Disadvantage** on your Dexterity (Stealth) checks.
 
 ### Menacing
 
@@ -468,7 +468,7 @@ You become fearsome to others, gaining the following benefits:
     
 - **Boo**
     
-    When you take the Attack action on your turn, you can replace one attack with an attempt to demoralize one Humanoid you can see within 30 feet of you that can see and hear you. Make a Charisma (Intimidation) check contested by the target’s Wisdom (Insight) check. If your check succeeds, the target has the Frightened until the end of your next turn. If your check fails, the target can’t be Frightened by you in this way for 1 hour.
+    When you take the Attack action on your turn, you can replace one attack with an attempt to demoralize one Humanoid you can see within 30 feet of you that can see and hear you. Make a Charisma (Intimidation) check contested by the target's Wisdom (Insight) check. If your check succeeds, the target has the Frightened until the end of your next turn. If your check fails, the target can't be Frightened by you in this way for 1 hour.
 
 ### Metamagic Novice
 
@@ -476,7 +476,7 @@ You become fearsome to others, gaining the following benefits:
 
 **Prerequisite:** Spellcasting/Pact Magic featur; Expert, Priest or Mage Group  
 
-You’re experimenting how to exert your will on your spells to alter how they function:
+You're experimenting how to exert your will on your spells to alter how they function:
 
 - **Ability Score Increase**
     
@@ -633,11 +633,11 @@ You have studied ritual magic, granting you the following benefits:
     
 - **Ritual Spells**
     
-    When you choose this feat, you acquire a ritual book holding two 1st-level spells of your choice that have the Ritual tag from the Wizard Spell Lists. You always have those two Spells prepared, and you can cast them with any Spell Slots you have. The Spells’ Spellcasting Ability is the ability increased by this Feat.
+    When you choose this feat, you acquire a ritual book holding two 1st-level spells of your choice that have the Ritual tag from the Wizard Spell Lists. You always have those two Spells prepared, and you can cast them with any Spell Slots you have. The Spells' Spellcasting Ability is the ability increased by this Feat.
     
 - **Learned Caster**
     
-    If you come across a spell in written form, you might be able to add it to your ritual book. The spell must be on the Spell List you chose, the Spell’s level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 500 sp per level.
+    If you come across a spell in written form, you might be able to add it to your ritual book. The spell must be on the Spell List you chose, the Spell's level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 500 sp per level.
 
 ### Sentinel
 
@@ -645,7 +645,7 @@ You have studied ritual magic, granting you the following benefits:
 
 **Prerequisite:** Proficiency with any Martial Weapon  
 
-You have mastered techniques to take :d20-adv: **Advantage** of every drop in any enemy’s guard, gaining the following benefits:
+You have mastered techniques to take :d20-adv: **Advantage** of every drop in any enemy's guard, gaining the following benefits:
 
 - **Ability Score Increase**
     
@@ -657,7 +657,7 @@ You have mastered techniques to take :d20-adv: **Advantage** of every drop in an
     
 - **Halt**
     
-    When you hit a creature with an :rsc-reaction: **Opportunity Attack**, the creature’s Speed becomes 0 for the rest of the turn.
+    When you hit a creature with an :rsc-reaction: **Opportunity Attack**, the creature's Speed becomes 0 for the rest of the turn.
 
 ### Sharpshooter
 
@@ -677,7 +677,7 @@ You can make shots that others find impossible, granting you the following benef
     
 - **Enhanced Accuracy**
     
-    Being within 5 feet of an enemy and attacking at Long Range doesn’t impose :d20-disadv: **Disadvantage** on your ranged :d20-attack: **Attack Rolls** with Weapons.
+    Being within 5 feet of an enemy and attacking at Long Range doesn't impose :d20-disadv: **Disadvantage** on your ranged :d20-attack: **Attack Rolls** with Weapons.
 
 ### Shield Master
 
@@ -685,7 +685,7 @@ You can make shots that others find impossible, granting you the following benef
 
 **Prerequisite:** :trait-prof: Proficiency with shields.  
 
-You’ve trained to use shields not just for protection, but also for offense, granting you the following benefits:
+You've trained to use shields not just for protection, but also for offense, granting you the following benefits:
 
 - **Ability Score Increase**
     
@@ -714,7 +714,7 @@ You have honed your Proficiency with particular skills, granting you the followi
 
 - **Expert**
 
-    Choose one skill in which you have Proficiency. You gain expertise with that skill, which means your Proficiency Bonus is doubled for any :d20-check: **Ability Check** you make with it. The skill you choose must be one that isn’t already benefiting from a feature, such as Expertise, that doubles your Proficiency Bonus.
+    Choose one skill in which you have Proficiency. You gain expertise with that skill, which means your Proficiency Bonus is doubled for any :d20-check: **Ability Check** you make with it. The skill you choose must be one that isn't already benefiting from a feature, such as Expertise, that doubles your Proficiency Bonus.
 
 ### Skulker
 
@@ -738,7 +738,7 @@ You are expert at slinking through shadows. You gain the following benefits:
     
 - **Sniper**
     
-    If you make an :d20-attack: **Attack Roll** while Hidden and the roll misses, making the :d20-attack: **Attack Roll** doesn’t end the Hidden Condition on you.
+    If you make an :d20-attack: **Attack Roll** while Hidden and the roll misses, making the :d20-attack: **Attack Roll** doesn't end the Hidden Condition on you.
 
 ### Slasher
 
@@ -746,7 +746,7 @@ You are expert at slinking through shadows. You gain the following benefits:
 
 **Prerequisite:** :trait-prof: Proficiency with any Martial Weapon  
 
-You’ve learned where to cut to have the greatest results, granting you the following benefits:
+You've learned where to cut to have the greatest results, granting you the following benefits:
 
 - **Ability Score Increase**
     
@@ -774,11 +774,11 @@ You possess exceptional speed and stamina, granting you the following benefits:
     
 - **Fast**
     
-    Your speed increases by 10 feet while you aren’t wearing heavy armour.
+    Your speed increases by 10 feet while you aren't wearing heavy armour.
     
 - **Focused Sprint**
     
-    When you take the Dash Action (or as a :rsc-bonus-action: **Bonus Action**) on your turn, Difficult Terrain doesn’t cost you extra movement for the rest of that turn, and attacks of opportunity have :d20-disadv: **Disadvantage** against you.
+    When you take the Dash Action (or as a :rsc-bonus-action: **Bonus Action**) on your turn, Difficult Terrain doesn't cost you extra movement for the rest of that turn, and attacks of opportunity have :d20-disadv: **Disadvantage** against you.
 
 ### Spell Sniper
 

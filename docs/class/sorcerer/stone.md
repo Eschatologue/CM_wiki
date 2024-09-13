@@ -24,11 +24,11 @@ Your affinity for metal gives you the option to learn some non-sorcerer spells t
 
 Your connection to stone gives you extra fortitude. Your Hit Point maximum increases by 3 and increases by 1 whenever you gain another Sorcerer level.
 
-As an action, you can gain a base AC of 13 + your Charisma Modifier if you aren’t wearing armor, and your skin assumes a stony appearance. This effect lasts until you end it (no action required), you are incapacitated, or you don armor other than a shield.
+As an action, you can gain a base AC of 13 + your Charisma Modifier if you aren't wearing armor, and your skin assumes a stony appearance. This effect lasts until you end it (no action required), you are incapacitated, or you don armor other than a shield.
 
 ## Level 6: Stone Aegis
 
-Your command of earth magic grows stronger, allowing you to harness it for your allies’ protection.
+Your command of earth magic grows stronger, allowing you to harness it for your allies' protection.
 
 As a bonus action, you can grant an aegis to you or one allied creature you can see within 60 feet of you. The aegis is a dim, gray aura of earth magic that protects the target. Any bludgeoning, piercing, or slashing damage the target takes is reduced by a number equals to your Charisma modifier. This effect lasts for 1 minute, until you use it again, or until you are incapacitated.
 
@@ -42,4 +42,4 @@ Your mastery of earth magic allows you to add the force of elemental earth to yo
 
 ## Level 18: Earth Master's Aegis
 
-When you use your Stone’s Aegis to protect an ally, you can choose up to three creatures to gain its benefits.
+When you use your Stone's Aegis to protect an ally, you can choose up to three creatures to gain its benefits.

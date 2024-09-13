@@ -19,7 +19,7 @@ Because the Words of Creation resonate throughout the cosmos, different Bards ch
 
 Anything can inspire a new song or tale, so Bards are fascinated by almost everything. They have a wide-ranging knowledge of many subjects and develop an aptitude to do almost anything well. Bards become masters of many things, including performing music, working magic, and making jests.
 
-Not every singer or poet in a tavern or jester in a royal court is a Bard. Harnessing the Words of Creation requires hard work and some measure of natural talent that most troubadours and jongleurs lack. A Bard’s life is spent wandering across the land gathering lore, telling stories, and living on the gratitude of audiences, much like any other entertainer. But Bards’ depth of knowledge and mastery of magic sets them apart.
+Not every singer or poet in a tavern or jester in a royal court is a Bard. Harnessing the Words of Creation requires hard work and some measure of natural talent that most troubadours and jongleurs lack. A Bard's life is spent wandering across the land gathering lore, telling stories, and living on the gratitude of audiences, much like any other entertainer. But Bards' depth of knowledge and mastery of magic sets them apart.
 
 #### Bard Table
 
@@ -70,7 +70,7 @@ Light Armor
 As a level 1 character, you start with the following equipment
  
 - Dagger (2) 
-- Entertainer’s Pack 
+- Entertainer's Pack 
 - Leather Armor
 - Musical Instrument (one of your choice)
 - 260 SP
@@ -83,14 +83,14 @@ You can supernaturally inspire others through words, music, or dance. This inspi
 
 Using Bardic Inspiration. As a Bonus Action, you can inspire another creature within 60 feet of yourself who can see or hear you. That creature gains one of your Bardic Inspiration dice. A creature can have only one Bardic Inspiration die at a time.
 
-Once within the next hour when the creature fails a d20 Test, the creature can roll that die and add the number rolled to the d20, potentially turning the failure into a success. A Bardic Inspiration die is expended when it’s rolled.
+Once within the next hour when the creature fails a d20 Test, the creature can roll that die and add the number rolled to the d20, potentially turning the failure into a success. A Bardic Inspiration die is expended when it's rolled.
 
 Number of Uses. You can confer a Bardic Inspiration die a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 At Higher Levels. Your Bardic Inspiration die changes when you reach certain Bard levels, as shown in the Bardic Die column of the Bard table. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.
 
 ## Level 1: Spellcasting
 
-You have learned to cast spells through your bardic arts. See the Player’s Handbook for the rules on spellcasting. The information below details how you use those rules as a Bard.
+You have learned to cast spells through your bardic arts. See the Player's Handbook for the rules on spellcasting. The information below details how you use those rules as a Bard.
 
 ### Cantrips
 
@@ -102,15 +102,15 @@ When you reach 4th and 10th level in this class, you learn another cantrip of yo
 
 ### Spell Slots
 
-The Bard table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a Long Rest.
+The Bard table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a Long Rest.
 
 Prepared Spells of 1st+ Level. You prepare the list of spells of 1st level and higher that are available for you to cast with this feature. To start, choose four 1st-level spells from your Bard spell list.
 
 The number of spells on your list also increases as you gain Bard levels, as shown in the Prepared
  
-**Spells column of the Bard table.** Whenever that number increases, choose additional spells from your Bard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a 3rd-level Bard, your list of prepared spells can include six spells of 1st or 2nd level, in any combination.
+**Spells column of the Bard table.** Whenever that number increases, choose additional spells from your Bard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a 3rd-level Bard, your list of prepared spells can include six spells of 1st or 2nd level, in any combination.
 
-If another Bard feature gives spells that you always have prepared, those spells don’t count against the number of spells on the list you prepare with this Spellcasting feature, but those spells otherwise follow the rules in this feature.
+If another Bard feature gives spells that you always have prepared, those spells don't count against the number of spells on the list you prepare with this Spellcasting feature, but those spells otherwise follow the rules in this feature.
 
 ### Changing Your Prepared Spells
 
@@ -127,7 +127,7 @@ You gain Expertise in two of your skill proficiencies of your choice. Performanc
 
 ## Level 2: Jack Of All Trades
 
-You can add half your Proficiency Bonus (round down) to any ability check you make that uses a skill proficiency you lack and that doesn’t otherwise use your Proficiency Bonus.
+You can add half your Proficiency Bonus (round down) to any ability check you make that uses a skill proficiency you lack and that doesn't otherwise use your Proficiency Bonus.
 
 For example, if you make a Strength (Athletics) check and lack Athletics proficiency, you can add half your Proficiency Bonus to the check.
 
@@ -140,7 +140,7 @@ You gain a Bard subclass of your choice:
 - College of Lore 
 - College of Valor
 
-A subclass is a specialization that grants you special abilities at certain Bard levels. For the rest of your career, you gain each of your subclass’s features that are of your Bard level and lower.
+A subclass is a specialization that grants you special abilities at certain Bard levels. For the rest of your career, you gain each of your subclass's features that are of your Bard level and lower.
 
 ## Level 4: Ability Score Improvement
 

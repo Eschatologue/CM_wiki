@@ -1,6 +1,6 @@
 # Oath of Vengeance
 
-The Oath of Vengeance is a solemn commitment to punish those who have committed grievously evil acts. When evil armies slaughter helpless villagers, when a tyrant defies the will of the gods, when a thieves’ guild grows too violent and powerful, when a dragon rampages through the countryside—at times like these, paladins arise and swear an Oath of Vengeance to set right what has gone wrong.
+The Oath of Vengeance is a solemn commitment to punish those who have committed grievously evil acts. When evil armies slaughter helpless villagers, when a tyrant defies the will of the gods, when a thieves' guild grows too violent and powerful, when a dragon rampages through the countryside—at times like these, paladins arise and swear an Oath of Vengeance to set right what has gone wrong.
 
 ### Tenets of Vengeance
 
@@ -10,7 +10,7 @@ Though the exact words and strictures of the Oath of Vengeance vary, Paladins of
 
 ***No Mercy for the Wicked.*** Ordinary foes might win my mercy, but my sworn enemies do not.
 
-***By Any Means Necessary.*** My qualms can’t get in the way of exterminating my foes.
+***By Any Means Necessary.*** My qualms can't get in the way of exterminating my foes.
 
 ***Restitution.*** If my foes wreak ruin on the world, it is because I failed to stop them. I must help those harmed by my misdeeds.
  
@@ -34,11 +34,11 @@ If the creature drops to 0 Hit Points before the vow ends, you can transfer the 
 
 ## Level 7: Relentless Avenger
 
-Your supernatural focus helps you close off a foe’s retreat. When you hit a creature with an Opportunity Attack, you can reduce the creature’s Speed to 0, and you can then move up to half your Speed as part of the same Reaction. This movement doesn’t provoke Opportunity Attacks.
+Your supernatural focus helps you close off a foe's retreat. When you hit a creature with an Opportunity Attack, you can reduce the creature's Speed to 0, and you can then move up to half your Speed as part of the same Reaction. This movement doesn't provoke Opportunity Attacks.
 
 ## Level 15: Soul Of Vengeance
 
-Immediately after a creature under the effect of your Vow of Enmity hits or misses with an attack, you can use your Reaction to make a melee attack against that creature if it’s within range.
+Immediately after a creature under the effect of your Vow of Enmity hits or misses with an attack, you can use your Reaction to make a melee attack against that creature if it's within range.
 
 ## Level: Avenging Angel
 
@@ -48,5 +48,5 @@ As a Bonus Action, you can imbue your Aura of Protection with holy power, granti
 
 **Frightful Aura.** Whenever an enemy starts its turn in the aura, that creature must succeed on a Wisdom saving throw or have the Frightened condition for 1 minute or until it takes any damage. Attack rolls against the Frightened creature have Advantage.
 
-Once you use this feature, you can’t use it again until you finish a Long Rest. You can also restore your use of it by expending a 5th-level spell slot (no action required).
+Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending a 5th-level spell slot (no action required).
  

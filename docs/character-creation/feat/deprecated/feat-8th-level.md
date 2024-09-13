@@ -22,7 +22,7 @@ You learn how to push yourself beyond your normal limits.
 
 **Prerequisites:** Expert Group or [Artificer Initiate](feat-starting.md#artificer-initiate) Feat  
 
-Through your repeated exposure to the natural flow of arcane magic throughout your world and beyond, you’ve adapted to attune with additional Enchantments, though the process can be physically taxing. You gain the following benefits:
+Through your repeated exposure to the natural flow of arcane magic throughout your world and beyond, you've adapted to attune with additional Enchantments, though the process can be physically taxing. You gain the following benefits:
 
 - **Experienced**
     
@@ -50,9 +50,9 @@ Countless hours have been spent training your mind to maintain focus on concurre
     
 - **Burden**
     
-    At the end of each turn where you have two spells you are concentrating on, you must make a Constitution :d20-save: **Saving Throw** (DC equals 10 + the number of complete rounds you’ve been concentrating on two spells). On a failure, you lose concentration for both spells. You can drop concentration on one of your spells during your turn as a free action to avoid this :d20-save: **Saving Throw**.
+    At the end of each turn where you have two spells you are concentrating on, you must make a Constitution :d20-save: **Saving Throw** (DC equals 10 + the number of complete rounds you've been concentrating on two spells). On a failure, you lose concentration for both spells. You can drop concentration on one of your spells during your turn as a free action to avoid this :d20-save: **Saving Throw**.
     
-    Any time you would be forced to make a C due to taking damage, the DC equals 10 + both spells’ levels combined, or half the damage you take, whichever number is higher. On a failure, you lose concentration on both spells
+    Any time you would be forced to make a C due to taking damage, the DC equals 10 + both spells' levels combined, or half the damage you take, whichever number is higher. On a failure, you lose concentration on both spells
 
 ### Great Weapon Expert
 
@@ -95,7 +95,7 @@ Your faith grants you great insight into magic, giving you a special privilege w
     
 - **Magic Resistance**
     
-    When you make a :d20-save: **Saving Throw** against a spell or other magical effect, you can gain :d20-adv: **Advantage** on the check. Once you use this trait, you can’t use it again until you finish a Short Rest or Long Rest.
+    When you make a :d20-save: **Saving Throw** against a spell or other magical effect, you can gain :d20-adv: **Advantage** on the check. Once you use this trait, you can't use it again until you finish a Short Rest or Long Rest.
     
 - **Arcane Absorbtion**
     
@@ -109,7 +109,7 @@ Your faith grants you great insight into magic, giving you a special privilege w
 
 **Prerequisites:** Warrior Group or [Shield Master](feat-4th-level.md#shield-masterhb) feat  
 
-After fine tuning your equipment, you can do things others can’t with shields.
+After fine tuning your equipment, you can do things others can't with shields.
 
 - **Sunder**
     
@@ -131,7 +131,7 @@ After fine tuning your equipment, you can do things others can’t with shields.
 
 **Prerequisites:** Priest or Mage Group, or Spellcasting/Pact Magic feature  
 
-Through intense focus, training, and dedication, you’ve harnessed the techniques of rapid spellcasting.
+Through intense focus, training, and dedication, you've harnessed the techniques of rapid spellcasting.
 
 - **Arcane Succession**
     

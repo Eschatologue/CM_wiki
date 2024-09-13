@@ -70,7 +70,7 @@ If a spell must be maintained with concentration, that fact appears in its Durat
 When you take the Help action, you do one of the 
 following:
 
-&emsp; **Assist Ability Check.** Choose one of your skill or tool proficiencies and one ally who can perceive you. You give Advantage to the next ability check that ally makes with the chosen skill or tool. This benefit expires if the ally doesn’t use it before the start of your next turn. To give this assistance, you must be near enough to the ally to assist verbally or physically when the ally makes the check. The DM has final say on whether your assistance is possible.
+&emsp; **Assist Ability Check.** Choose one of your skill or tool proficiencies and one ally who can perceive you. You give Advantage to the next ability check that ally makes with the chosen skill or tool. This benefit expires if the ally doesn't use it before the start of your next turn. To give this assistance, you must be near enough to the ally to assist verbally or physically when the ally makes the check. The DM has final say on whether your assistance is possible.
 
 &emsp; **Assist :d20-attack: **Attack Roll**.** You momentarily distract an enemy within 5 feet of you, giving Advantage to the next :d20-attack: **Attack Roll** by one of your allies against that enemy. This benefit expires at the start of your next turn.
 
@@ -78,9 +78,9 @@ following:
 
 **Cost:** :rsc-action: Action
 
-With the Hide action, you try to conceal yourself. To do so stealthily, you must succeed on a DC 15 Dexterity (Stealth) check while you’re Heavily Obscured or behind Three-Quarters Cover or Total Cover, and you must be out of any visible enemy’s line of sight; if you can see a creature, you can discern whether it can see you.
+With the Hide action, you try to conceal yourself. To do so stealthily, you must succeed on a DC 15 Dexterity (Stealth) check while you're Heavily Obscured or behind Three-Quarters Cover or Total Cover, and you must be out of any visible enemy's line of sight; if you can see a creature, you can discern whether it can see you.
 
-On a successful check, you have the Invisible condition. Make note of your check’s total, which becomes the DC for a creature to find you with a Wisdom (Perception) check.
+On a successful check, you have the Invisible condition. Make note of your check's total, which becomes the DC for a creature to find you with a Wisdom (Perception) check.
 
 The condition ends on you immediately after any of the following occurrences: 
 
@@ -104,7 +104,7 @@ This Intelligence (Arcana) check represents the fact that identifying a spell re
 
 When you take the Magic action, you magic something by casting a spell that has a casting time of an :rsc-action: Action or by using a feature or Magic Item that requires a Magic action to be activated.
 
-If you cast a spell that has a casting time of 1 minute or longer, you must take the Magic action on each turn of that casting, and you must maintain Concentration while you do so. If your Concentration is broken, the spell fails, but you don’t expend a spell slot.
+If you cast a spell that has a casting time of 1 minute or longer, you must take the Magic action on each turn of that casting, and you must maintain Concentration while you do so. If your Concentration is broken, the spell fails, but you don't expend a spell slot.
 
 ### Opportunity Attack
 
@@ -132,14 +132,14 @@ When you ready a spell, you cast it as normal but hold its energy, which you rel
 
 **Cost:** :rsc-action: Action
 
-When you take the Search action, you make a Wisdom check to discern something that isn’t obvious. The Search table suggests which skills are applicable when you take this action, depending on what you’re trying to detect.
+When you take the Search action, you make a Wisdom check to discern something that isn't obvious. The Search table suggests which skills are applicable when you take this action, depending on what you're trying to detect.
 
 ##### Search
 
 | Skill | Thing to Detect |
 |---|---|
-| Insight | Creature’s state of mind |
-| Medicine | Creature’s ailment |
+| Insight | Creature's state of mind |
+| Medicine | Creature's ailment |
 | Perception | Concealed creature or object |
 | Survival |  Tracks or food |
 

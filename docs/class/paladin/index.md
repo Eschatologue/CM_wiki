@@ -12,20 +12,20 @@ icon: class/paladin
 
 # Paladin
 
-Paladins are united by their oaths to stand against the forces of annihilation and corruption. Whether sworn before a god’s altar, in a sacred glade before nature spirits and fey beings, or in a moment of desperation and grief with the dead as the only witnesses, a Paladin’s oath is a powerful bond. It is a source of power that turns a devout warrior into a blessed champion.
+Paladins are united by their oaths to stand against the forces of annihilation and corruption. Whether sworn before a god's altar, in a sacred glade before nature spirits and fey beings, or in a moment of desperation and grief with the dead as the only witnesses, a Paladin's oath is a powerful bond. It is a source of power that turns a devout warrior into a blessed champion.
 
 A Paladin swears to stand against corrupting influences and to hunt the forces of ruin wherever they lurk. Different Paladins focus on various aspects of these causes, but all are bound by the oaths that grant them power to do their sacred work.
 
 Paladins train to learn the skills of combat, mastering a variety of weapons and armor. Even so, their martial skills are secondary to the magical power they wield—power to heal the sick and injured, to smite their foes, and to protect the helpless and those who fight at their side.
 
-Almost by definition, the life of a Paladin is an adventuring life, for every Paladin lives on the front lines of the cosmic struggle against annihilation. Fighters are rare enough among the ranks of a world’s armies, but even fewer people can claim the calling of a Paladin. When they do receive the call, these blessed folk turn from their former occupations and take up arms and magic. Sometimes their oaths lead them into the service of the crown as leaders of elite groups of knights, but even then, their loyalty is first to their sacred oaths, not to crown and country.
+Almost by definition, the life of a Paladin is an adventuring life, for every Paladin lives on the front lines of the cosmic struggle against annihilation. Fighters are rare enough among the ranks of a world's armies, but even fewer people can claim the calling of a Paladin. When they do receive the call, these blessed folk turn from their former occupations and take up arms and magic. Sometimes their oaths lead them into the service of the crown as leaders of elite groups of knights, but even then, their loyalty is first to their sacred oaths, not to crown and country.
 
 Adventuring Paladins take their work seriously. A delve into an ancient ruin or a dusty crypt can be a quest driven by a higher purpose than the acquisition of treasure. Malign forces lurk in dungeons, and even the smallest victory against them can tilt the cosmic balance away from oblivion.
 
 | Paladin Level | Prof. Bonus | Class Feature | Channel Divinity | Spell Prepared | I | II | III | IV | V |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1st | +2 | Lay on Hands, Spellcasting, Weapon Mastery | — | 2 | 2 | — | — | — | — |
-| 2nd | +2 | Fighting Style, Paladin’s Smite | — | 3 | 2 | — | — | — | — |
+| 2nd | +2 | Fighting Style, Paladin's Smite | — | 3 | 2 | — | — | — | — |
 | 3rd | +2 | Channel Divinity, Paladin Subclass | 2 | 4 | 3 | — | — | — | — |
 | 4th | +2 | Ability Score Improvement | 2 | 5 | 3 | — | — | — | — |
 | 5th | +3 | Extra Attack, Faithful Steed | 2 | 6 | 4 | 2 | — | — | — |
@@ -72,7 +72,7 @@ As a Level 1 character, you start with the following equipment
 - Holy Symbol 
 - Javelin (6) 
 - Longsword
-- Priest’s Pack 
+- Priest's Pack 
 - Shield
 - 90 SP
 
@@ -88,11 +88,11 @@ In addition, you can expend 5 Hit Points from the pool of healing to remove the 
 
 ## Level 1: Spellcasting
 
-You have learned to cast spells through prayer, meditation, and devotion. See the Player’s Handbook for the rules on spellcasting. The information below details how you use those rules as a Paladin.
+You have learned to cast spells through prayer, meditation, and devotion. See the Player's Handbook for the rules on spellcasting. The information below details how you use those rules as a Paladin.
 
 ### Spell Slots
 
-The Paladin table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a Long Rest.
+The Paladin table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a Long Rest.
 
 ### Prepared Spells of 1st+ Level
 
@@ -100,9 +100,9 @@ You prepare the list of spells of 1st level and higher that are available for yo
 
 The number of spells on your list increases as you gain Paladin levels, as shown in the Prepared Spells column of the Paladin table.
 
-Whenever that number increases, choose additional spells from the Paladin spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 5 Paladin, your list of prepared spells can include six Paladin spells of 1st or 2nd level, in any combination.
+Whenever that number increases, choose additional spells from the Paladin spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Paladin, your list of prepared spells can include six Paladin spells of 1st or 2nd level, in any combination.
  
-If another Paladin feature gives spells that you always have prepared, those spells don’t count against the number of spells on the list you prepare with this Spellcasting feature, but those spells otherwise follow the rules in this feature.
+If another Paladin feature gives spells that you always have prepared, those spells don't count against the number of spells on the list you prepare with this Spellcasting feature, but those spells otherwise follow the rules in this feature.
 
 **Changing Your Prepared Spells.** Whenever you finish a Long Rest, you can replace one spell on your list with another Paladin spell for which you have spell slots.
 
@@ -120,7 +120,7 @@ Your training with weapons allows you to use the Mastery property of two kinds o
 
 Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For example, you could switch to using the Mastery properties of Halberds and Flails.
 
-## Level 2: Paladin’S Smite
+## Level 2: Paladin'S Smite
 
 You have mastered smiting your targets with divine energy. You always have certain spells ready; when you reach a Paladin level specified in the Smite Spells table, you thereafter always have the listed spells prepared.
 
@@ -148,7 +148,7 @@ You can channel divine energy directly from the Outer Planes, using that energy 
 
 You can use Channel Divinity twice. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest. You gain additional uses when you reach certain Paladin levels, as shown in the Channel Divinity column of the Paladin table.
 
-If a Channel Divinity effect requires a saving throw, the DC equals the Spell Save DC from this class’s Spellcasting feature.
+If a Channel Divinity effect requires a saving throw, the DC equals the Spell Save DC from this class's Spellcasting feature.
 
 ### Divine Sense
 
@@ -163,7 +163,7 @@ You gain a Paladin subclass of your choice:
 - Oath of the Ancients
 - Oath of Vengeance
 
-A subclass is a specialization that grants you special abilities at certain Paladin levels. For the rest of your career, you gain each of your subclass’s features that are of your Paladin level and lower.
+A subclass is a specialization that grants you special abilities at certain Paladin levels. For the rest of your career, you gain each of your subclass's features that are of your Paladin level and lower.
 
 ## Level 4: Ability Score Improvement
 
@@ -182,7 +182,7 @@ You can also cast the spell once without expending a spell slot, and you regain 
  
 ## Level 6: Aura Of Protection
 
-You radiate a protective, invisible aura that extends 10 feet from you in every direction, but it doesn’t extend through Total Cover. The aura is inactive while you have the Incapacitated condition.
+You radiate a protective, invisible aura that extends 10 feet from you in every direction, but it doesn't extend through Total Cover. The aura is inactive while you have the Incapacitated condition.
 You and your allies in the aura gain a bonus to saving throws equal to your Charisma modifier (minimum bonus of +1).
 
 If another Paladin is present, a creature can benefit from only one Aura of Protection at a time; the creature chooses which one when entering the auras.
@@ -203,7 +203,7 @@ You are so suffused with divine might that your weapon strikes carry supernatura
  
 ## Level 14: Restoring Touch
 
-When you use Lay on Hands on a creature, you can also remove one or more of the following conditions from the creature: Blinded, Charmed, Dazed, Deafened, Frightened, Paralyzed, or Stunned. You must expend 5 Hit Points from the healing pool of Lay on Hands for each of these conditions you remove; those points don’t also restore Hit Points to the creature.
+When you use Lay on Hands on a creature, you can also remove one or more of the following conditions from the creature: Blinded, Charmed, Dazed, Deafened, Frightened, Paralyzed, or Stunned. You must expend 5 Hit Points from the healing pool of Lay on Hands for each of these conditions you remove; those points don't also restore Hit Points to the creature.
 
 ## Level 18: Aura Expansion
 

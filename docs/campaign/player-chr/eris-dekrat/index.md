@@ -5,7 +5,7 @@
 > "He's a man born into nobility, with a legacy of great achievements, yet devoid of the qualifications, for he carries the weight of his lineage."
 ## Level 1: Bonus Proficiencies 
 
-You gain Proficiency in Intelligence (Arcana) if you don’t already have it. Moreover, you can add your Charisma modifier to an Intelligence (Arcana) check to recall lore about spells, magic items, or magic symbolism related to your nation. 
+You gain Proficiency in Intelligence (Arcana) if you don't already have it. Moreover, you can add your Charisma modifier to an Intelligence (Arcana) check to recall lore about spells, magic items, or magic symbolism related to your nation. 
 
 ## Level 1: Clairvoyance 
 
@@ -108,7 +108,7 @@ If your attack misses, the spell fails and has no effect. On a hit, the spell ta
 
 - :d20-attack: **Spell Attacks.** If the spell requires a spell :d20-attack: **Attack Roll**, it instantly take effect when you hit with a weapon attack.
 
-## Level 3: Spellbreaker’s Mark
+## Level 3: Spellbreaker's Mark
 
 You learn the [Hunter's Mark](../../../spells/1st-level.md#hunters-mark) spell. You can expend one use of your Clairvoyance to cast this spell without expending any spell slots as if it is a level 1 spell. For you this spell does not require concentration, but the spell's duration remains.
 
@@ -118,7 +118,7 @@ Moroever, you gain additional benefits against your Quarry:
 - Your Quarry has :d20-disadv: **Disadvantage** on Concentration Checks against your attacks.
 - You gain an additional way to use your Sneak Attack: You can add your Sneak Attack damage the damage roll on your weapon attack against your Quarry as long as you don't have :d20-disadv: **Disadvantage** on the attack. 
 
-## Level 5: The People’s Eyebrow
+## Level 5: The People's Eyebrow
 
 *With a simple raise of your eyebrow, you possess the uncanny ability to disrupt and foil a spellcaster's magic.*
 

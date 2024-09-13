@@ -1,10 +1,10 @@
 # Fighter Archetype: Brawler
 
-***Brawlers focus their training and study not on swordplay and battle tactics, but on the skills needed to turn a punch or kick into a brutal strike and any innocuous object into a deadly weapon. Some Brawlers thrive in tavern scuffles and street rumbles, while others excel in espionage, wielding ordinary objects with the deadliness of an assassin’s knife.***
+***Brawlers focus their training and study not on swordplay and battle tactics, but on the skills needed to turn a punch or kick into a brutal strike and any innocuous object into a deadly weapon. Some Brawlers thrive in tavern scuffles and street rumbles, while others excel in espionage, wielding ordinary objects with the deadliness of an assassin's knife.***
 
 ## Level 3: Unarmed Expert
 
-You can roll 1d6 plus your Strength modifier in place of the normal damage of your Unarmed Strike. If you aren’t holding any weapons or a Shield when you make the attack roll, the d6 becomes a d8.
+You can roll 1d6 plus your Strength modifier in place of the normal damage of your Unarmed Strike. If you aren't holding any weapons or a Shield when you make the attack roll, the d6 becomes a d8.
 
 ## Level 3: Improvised Expert
 
@@ -37,4 +37,4 @@ In addition, whenever you attack with an Improvised Weapon, you can use two Mast
 
 ## Level 18: Unarmed Specialist
 
-Your Unarmed Strikes improve to a d8. If you aren’t holding any weapons or a Shield when you make the attack roll, the d8 becomes a d10.
+Your Unarmed Strikes improve to a d8. If you aren't holding any weapons or a Shield when you make the attack roll, the d8 becomes a d10.

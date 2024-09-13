@@ -16,7 +16,7 @@ Far from the bustle of cities, amid the trees of trackless forests and across wi
 
 Wanderers of the wilderness, Rangers specialize in facing monsters that threaten the world. Rangers learn to track their quarry as a predator does, moving stealthily through the wilds and hiding themselves in brush and rubble.
 
-Thanks to their connection with nature, Rangers can also cast spells that harness the primal powers of the wilderness. A Ranger’s talents and magic are honed with deadly focus on the task of protecting the world from the ravages of monsters and tyrants.
+Thanks to their connection with nature, Rangers can also cast spells that harness the primal powers of the wilderness. A Ranger's talents and magic are honed with deadly focus on the task of protecting the world from the ravages of monsters and tyrants.
 
 | Level | Prof. Bonus | Class Features | Spells Prepared | I | II | III | IV | V |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -33,7 +33,7 @@ Thanks to their connection with nature, Rangers can also cast spells that harnes
 | 11 | +4 | Subclass Feature | 10 | 4 | 3 | 3 | — | — |
 | 12 | +4 | Ability Score Improvement | 10 | 4 | 3 | 3 | — | — |
 | 13 | +5 | — | 11 | 4 | 3 | 3 | 1 | — |
-| 14 | +5 | Nature’s Veil | 11 | 4 | 3 | 3 | 1 | — |
+| 14 | +5 | Nature's Veil | 11 | 4 | 3 | 3 | 1 | — |
 | 15 | +5 | Subclass Feature | 12 | 4 | 3 | 3 | 2 | — |
 | 16 | +5 | Ability Score Improvement | 12 | 4 | 3 | 3 | 2 | — |
 | 17 | +6 | Conjure Volley | 14 | 4 | 3 | 3 | 3 | 1 |
@@ -68,7 +68,7 @@ As a Level 1 character, you start with the following equipment
  
 - Arrows (20)
 - Druidic Focus (Sprig of Mistletoe)
-- Explorer’s Pack 
+- Explorer's Pack 
 - Longbow or Shortbow
 - Quiver, Scimitar, & Shortsword
 - Studded Leather Armor 
@@ -86,17 +86,17 @@ Whenever you finish a Long Rest, you can meditate and replace one of the chosen 
 
 ## Level 1: Spellcasting
 
-You have learned to channel the magical essence of nature to cast spells. See the Player’s Handbook for the rules on spellcasting. The information below details how you use those rules as a Ranger.
+You have learned to channel the magical essence of nature to cast spells. See the Player's Handbook for the rules on spellcasting. The information below details how you use those rules as a Ranger.
 
 ### Spell Slots
 
-The Ranger table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a Long Rest.
+The Ranger table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a Long Rest.
 
 **Prepared Spells of 1st+ Level.** You prepare the list of spells of 1st level and higher that are available for you to cast with this feature. To start, choose two 1st-level spells from the Ranger spell list. Rather than choosing, you may start with Cure Wounds and Ensnaring Strike.
 
-The number of spells on your list increases as you gain Ranger levels, as shown in the Prepared Spells column of the Ranger table. Whenever that number increases, choose additional spells from the Ranger spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a 5th-level Ranger, your list of prepared spells can include six Ranger spells of 1st or level 2, in any combination.
+The number of spells on your list increases as you gain Ranger levels, as shown in the Prepared Spells column of the Ranger table. Whenever that number increases, choose additional spells from the Ranger spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a 5th-level Ranger, your list of prepared spells can include six Ranger spells of 1st or level 2, in any combination.
 
-If another Ranger feature gives spells that you always have prepared, those spells don’t count against the number of spells on the list you prepare with this Spellcasting feature, but those spells otherwise follow the rules in this feature.
+If another Ranger feature gives spells that you always have prepared, those spells don't count against the number of spells on the list you prepare with this Spellcasting feature, but those spells otherwise follow the rules in this feature.
 
 ### Changing Your Prepared Spells 
 
@@ -118,7 +118,7 @@ Whenever you finish a Long Rest, you can change the kinds of weapons you chose. 
 
 ## Level 2: Favored Enemy
 
-You are adept at focusing on a single foe. You always have the Hunter’s Mark spell prepared. You can cast it a number of times equal to your Wisdom modifier (minimum of once) without expending a spell slot, and you regain all expended uses of this ability when you finish a Long Rest.
+You are adept at focusing on a single foe. You always have the Hunter's Mark spell prepared. You can cast it a number of times equal to your Wisdom modifier (minimum of once) without expending a spell slot, and you regain all expended uses of this ability when you finish a Long Rest.
 
 ## Level 2: Fighting Style
 
@@ -133,7 +133,7 @@ You gain a Ranger subclass of your choice:
 - Gloom Stalker
 - Hunter
 
-A subclass is a specialization that grants you special abilities at certain Ranger levels. For the rest of your career, you gain each of your subclass’s features that are of your Ranger level and lower.
+A subclass is a specialization that grants you special abilities at certain Ranger levels. For the rest of your career, you gain each of your subclass's features that are of your Ranger level and lower.
 
 ## Level 4: Ability Score Improvement
 
@@ -147,7 +147,7 @@ You can attack twice, instead of once, whenever you take the Attack action on yo
 
 ## Level 6: Roving
 
-Your Speed increases by 10 feet while you aren’t wearing Heavy Armor.
+Your Speed increases by 10 feet while you aren't wearing Heavy Armor.
 
 You also have a Climb Speed and a Swim Speed equal to your Speed.
  
@@ -169,7 +169,7 @@ Primal forces now help fuel you on your journeys, granting you the following ben
 
 **Decrease Exhaustion.** Whenever you finish a Short Rest, your Exhaustion level, if any, decreases by 1.
 
-## Level 14: Nature’S Veil
+## Level 14: Nature'S Veil
 
 You invoke spirits of nature to magically hide yourself from view. As a Bonus Action, you can give yourself the Invisible condition until the end of your next turn.
 
@@ -185,5 +185,5 @@ Your connection to the forces of nature grants you Blindsight with a range of 30
 
 ## Level 20: Foe Slayer
 
-You become an unparalleled hunter of your foes. When your attack roll misses the target of your Hunter’s Mark, you can add your Wisdom modifier to the attack roll, potentially turning it into a hit.
+You become an unparalleled hunter of your foes. When your attack roll misses the target of your Hunter's Mark, you can add your Wisdom modifier to the attack roll, potentially turning it into a hit.
 In addition, whenever you hit that target with an attack roll and deal damage to it, you can add your Wisdom modifier to the damage.

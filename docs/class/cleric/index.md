@@ -63,7 +63,7 @@ As a 1st-level character, you start with the following equipment,
 - Chain Shirt 
 - Holy Symbol 
 - Mace
-- Priest’s Pack Shield
+- Priest's Pack Shield
 - 70 SP
 
 Or you can forgo it and spend 1100 SP on equipment of your choice.
@@ -78,7 +78,7 @@ You have dedicated yourself to one of the following sacred roles of your choice:
 
 
 ## Level 1: Spellcasting
-You have learned to cast spells through prayer, meditation, and devotion. See the Player’s Handbook for the rules on spellcasting. The information below details how you use those rules as a Cleric.
+You have learned to cast spells through prayer, meditation, and devotion. See the Player's Handbook for the rules on spellcasting. The information below details how you use those rules as a Cleric.
 
 ### Cantrips 
 
@@ -90,7 +90,7 @@ When you reach 4th and 10th level in this class, you learn another cantrip of yo
 
 ### Spell Slots 
 
-The Cleric table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a Long Rest.
+The Cleric table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a Long Rest.
 
 ### Prepared Spells of 1st+ Level
 
@@ -100,9 +100,9 @@ The number of spells on your list also increases as you gain Cleric levels, as s
 
 Whenever that number increases, choose additional spells from the Cleric spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. 
 
-For example, if you’re a 3rd-level Cleric, your list of prepared spells can include six spells of 1st or 2nd level, in any combination.
+For example, if you're a 3rd-level Cleric, your list of prepared spells can include six spells of 1st or 2nd level, in any combination.
 
-If another Cleric feature gives spells that you always have prepared, those spells don’t count against the number of spells on the list you prepare with this Spellcasting feature, but those spells otherwise follow the rules in this feature.
+If another Cleric feature gives spells that you always have prepared, those spells don't count against the number of spells on the list you prepare with this Spellcasting feature, but those spells otherwise follow the rules in this feature.
 
 ### Changing Your Prepared Spells
 
@@ -122,7 +122,7 @@ You gain the ability to channel divine energy directly from the Outer Planes, us
 
 You can use Channel Divinity twice. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest. You gain additional uses when you reach certain Cleric levels, as shown in the Channel Divinity column of the Cleric table.
 
-If a Channel Divinity effect requires a saving throw, the DC equals the Spell Save DC from this class’s Spellcasting feature.
+If a Channel Divinity effect requires a saving throw, the DC equals the Spell Save DC from this class's Spellcasting feature.
 
 ### Divine Spark 
 
@@ -143,7 +143,7 @@ You gain a Cleric subclass of your choice:
 - [Trickery Domain](trickery.md)
 - [War Domain](war.md)
 
-A subclass is a specialization that grants you special abilities at certain Cleric levels. For the rest of your career, you gain each of your subclass’s features that are of your Cleric level and lower.
+A subclass is a specialization that grants you special abilities at certain Cleric levels. For the rest of your career, you gain each of your subclass's features that are of your Cleric level and lower.
 
 ## Level 4: Ability Score Improvement
 
@@ -153,8 +153,8 @@ As shown on the Cleric table, you gain this feature again at levels 8, 12, 16, a
 
 ## Level 5: Smite Undead
 
-You can cause your Turn Undead feature to smite the undying; whenever you use Turn Undead, you can roll a number of d8s equal to your Wisdom modifier (minimum of 1d8) and add the rolls together. Each Undead that fails its saving throw against that use of Turn Undead takes Radiant damage equal to the roll’s total.
-This damage doesn’t end the turn effect.
+You can cause your Turn Undead feature to smite the undying; whenever you use Turn Undead, you can roll a number of d8s equal to your Wisdom modifier (minimum of 1d8) and add the rolls together. Each Undead that fails its saving throw against that use of Turn Undead takes Radiant damage equal to the roll's total.
+This damage doesn't end the turn effect.
 
 ## Level 6: Subclass Feature
 
@@ -175,7 +175,7 @@ In the past, you have reached the divine source of your power through prayer. No
 
 ## Level 10: Divine Intervention
 
-You can call on your deity or pantheon to intervene on your behalf. As a Magic action, choose any Divine spell of 5th level or lower that doesn’t require a Reaction to cast. As part of the same action, you cast that spell without expending a spell slot or needing material components. You then can’t use this feature again until you finish a Long Rest.
+You can call on your deity or pantheon to intervene on your behalf. As a Magic action, choose any Divine spell of 5th level or lower that doesn't require a Reaction to cast. As part of the same action, you cast that spell without expending a spell slot or needing material components. You then can't use this feature again until you finish a Long Rest.
 
 ## Level 14: Improved Blessed Strike
 
@@ -190,7 +190,7 @@ You gain a feature from your Cleric subclass.
  
 ## Level 20: Greater Divine Intervention
 
-You are able to call on even more powerful divine intervention. When you use your Divine Intervention feature, you can choose Wish when you select a spell. If you do so, you can’t use Divine Intervention again until you finish 2d4 Long Rests.
+You are able to call on even more powerful divine intervention. When you use your Divine Intervention feature, you can choose Wish when you select a spell. If you do so, you can't use Divine Intervention again until you finish 2d4 Long Rests.
 
 When you cast Wish with this feature, you are immune to the stress caused by using Wish to do something other than casting a spell.
 

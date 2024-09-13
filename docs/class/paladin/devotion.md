@@ -1,12 +1,12 @@
 # Oath of Devotion
 
-The Oath of Devotion binds Paladins to the loftiest ideals of justice and order. These Paladins meet the ideal of the knight in shining armor. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods’ tenets as the measure of their devotion. They hold angels as their ideals and incorporate images of angelic wings into their helmets or coats of arms.
+The Oath of Devotion binds Paladins to the loftiest ideals of justice and order. These Paladins meet the ideal of the knight in shining armor. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods' tenets as the measure of their devotion. They hold angels as their ideals and incorporate images of angelic wings into their helmets or coats of arms.
 
 ### Tenets of Devotion
 
 Though the exact words and strictures of the Oath of Devotion vary, Paladins of this oath share these tenets.
 
-***Honesty.*** Don’t lie or cheat. Let your word be your promise.
+***Honesty.*** Don't lie or cheat. Let your word be your promise.
 
 ***Courage.*** Never fear to act, though caution is wise.
 
@@ -34,7 +34,7 @@ As a Bonus Action, you can expend one use of your Channel Divinity to imbue one 
 
 The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that.
 
-You can end this effect as a Bonus Action. This effect also ends if you aren’t holding or carrying the weapon or if you have the Incapacitated condition.
+You can end this effect as a Bonus Action. This effect also ends if you aren't holding or carrying the weapon or if you have the Incapacitated condition.
 
 ## Level 7: Aura Of Devotion
 
@@ -42,7 +42,7 @@ You and your allies are immune to the Charmed condition while in your Aura of Pr
 
 ## Level 15: Smite Of Protection
 
-Your magical smites now radiate protective energy. Whenever you cast any of your Paladin’s Smite spells, you and your allies in your Aura of Protection have Half Cover until the start of your next turn.
+Your magical smites now radiate protective energy. Whenever you cast any of your Paladin's Smite spells, you and your allies in your Aura of Protection have Half Cover until the start of your next turn.
 
 ## Level 20: Holy Nimbus
 
@@ -53,7 +53,7 @@ Radiant Damage. Whenever an enemy starts its turn in the aura, that creature tak
 
 Sunlight. The aura is filled with bright light that is sunlight.
 
-Once you use this feature, you can’t use it again until you finish a Long Rest. You can also restore your use of it by expending a 5th-level spell slot (no action required).
+Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending a 5th-level spell slot (no action required).
 
 
 

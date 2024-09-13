@@ -15,7 +15,7 @@ Unlike the primordial gods of old so-called “Ares”, this Spire does not insp
 
 ## Appearance
 
-Though the most powerful, there isn’t much known about the actual form of this Spire, not because it rarely gave attention to mortals, but because it always appears diffrently depending on who THEY decide to appear to. The form that this Spire often appears in is an object that instill the most hope upon the heart of mortals. 
+Though the most powerful, there isn't much known about the actual form of this Spire, not because it rarely gave attention to mortals, but because it always appears diffrently depending on who THEY decide to appear to. The form that this Spire often appears in is an object that instill the most hope upon the heart of mortals. 
 
 # History
 

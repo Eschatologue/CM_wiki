@@ -8,7 +8,7 @@ The word "Antares" originated from the brightest star in the constellation of Sc
 
 ## History
 
-The history of Antares is largely obscured by the passage of time and recurrent catastrophic events, which have often prioritised survival over the preservation of records. Despite these challenges, key moments have been recorded, providing insight into the continent’s past.
+The history of Antares is largely obscured by the passage of time and recurrent catastrophic events, which have often prioritised survival over the preservation of records. Despite these challenges, key moments have been recorded, providing insight into the continent's past.
 
 The history of Antares is segmented by events known as "Warp Maelstorms," which mark the transitions between ages. To date, two such maelstorms have been documented, with the possibility of earlier events that have been lost to time.
 

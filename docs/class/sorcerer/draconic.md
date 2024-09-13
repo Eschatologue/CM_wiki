@@ -1,12 +1,12 @@
 # Sorcerous Origin: Draconic Sorcery
 
-Your innate magic comes from the gift of a dragon. Perhaps an ancient dragon facing death bequeathed some of its magical power to you or your ancestor. You might have absorbed magic from a site infused with dragons’ power, perhaps the location where a great dragon was slain. Or perhaps you handled a treasure taken from a dragon’s hoard, some precious item that was infused with draconic power. Or you might claim a dragon for an ancestor or wield draconic magic by virtue of your Dragonborn heritage.
+Your innate magic comes from the gift of a dragon. Perhaps an ancient dragon facing death bequeathed some of its magical power to you or your ancestor. You might have absorbed magic from a site infused with dragons' power, perhaps the location where a great dragon was slain. Or perhaps you handled a treasure taken from a dragon's hoard, some precious item that was infused with draconic power. Or you might claim a dragon for an ancestor or wield draconic magic by virtue of your Dragonborn heritage.
 
 ## Level 3: Draconic Resilience
 
 The magic in your body manifests physical traits of your draconic gift. Your Hit Point maximum increases by 3 and increases by 1 whenever you gain another Sorcerer level.
 
-Parts of you are also covered by dragon-like scales. While you aren’t wearing armor, your base Armor Class equals 10 + your Dexterity modifier + your Charisma modifier.
+Parts of you are also covered by dragon-like scales. While you aren't wearing armor, your base Armor Class equals 10 + your Dexterity modifier + your Charisma modifier.
 
 ## Level 3: Dragon Speech
 
@@ -22,7 +22,7 @@ You have Resistance to that damage type, and when you cast a spell that deals da
 
 Your innate magic can now manifest as draconic wings on your back. As a Bonus Action, you sprout those wings, gaining a Fly Speed equal to your Speed. The wings last until you dismiss them as a Bonus Action or you have the Incapacitated condition.
 
-When the wings manifest, you decide whether they’re spectral or physical. If physical, you mustn’t be wearing something that obstructs them.
+When the wings manifest, you decide whether they're spectral or physical. If physical, you mustn't be wearing something that obstructs them.
 
 ## Level 18: Draconic Presence
 

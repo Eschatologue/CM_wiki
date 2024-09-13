@@ -12,10 +12,10 @@ The Resolve and Death's Door mechanic is introduced in Crown & Misery to add mor
 
 ## Death's Door
 
-When reduced to 0 Hit Points but not killed outright, you remain conscious but are considered to be at *Death’s Door*. You must immediately make a Resolve Check unless you are already under the effects of either **Resolute** or **Meltdown**.
+When reduced to 0 Hit Points but not killed outright, you remain conscious but are considered to be at *Death's Door*. You must immediately make a Resolve Check unless you are already under the effects of either **Resolute** or **Meltdown**.
 
 - **Damage and Failures.** Each instance of damage from a single source counts as one 'Death :d20-save: **Saving Throw** Failure', with Critical Hits counting as two failures. Upon accumulating three failures or if the damage equals or exceeds your Hit Point maximum, you **die** instantly.
-- **Stabilization.** While at Death’s Door, anyone (including yourself) may attempt to stabilize you with a DC 10 Wisdom (Medicine) check. A successful check grants one 'Death :Saving Throw Success', with critical successes granting two. Upon gaining three 'Death Saving Thro Successes', you regain 1 Hit Point.
+- **Stabilization.** While at Death's Door, anyone (including yourself) may attempt to stabilize you with a DC 10 Wisdom (Medicine) check. A successful check grants one 'Death :Saving Throw Success', with critical successes granting two. Upon gaining three 'Death Saving Thro Successes', you regain 1 Hit Point.
 - **Healing.** Direct healing removes you from Death's Door and allows you to heal for the expected amount.
 
 ## Resolve Check
@@ -73,7 +73,7 @@ The Resolute condition lasts for 10 minutes but can end early under the followin
 
 While this condition is in effect, you gain several benefits:
 
-- **Recovery:** You restore Hit Points up to half of your lost Hit Points, and whenever you are at *Death’s Door*, *Death’s Door* ends immediately.
+- **Recovery:** You restore Hit Points up to half of your lost Hit Points, and whenever you are at *Death's Door*, *Death's Door* ends immediately.
 - **Suppressed Conditions:** Conditions such as *paralyzed*, *frightened,* and *charmed* on you are suppressed for the duration. When the duration ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.
 
 Immediately after you receive this condition, you roll a d10 and gain a virtue depending on the result:
@@ -116,7 +116,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 *"A moment of valour shines brightest agaisnt a backdrop of despair"*
 
 - Whenever you or an ally within 30 ft. of you (provided the ally can see you) makes a D20 Test, it can roll a d4 and add the number rolled to the result.
-- Conditions such as *charmed* or *frightened* that affects an ally that can see you within 30 ft. of you are supressed. When the creature is beyond 30ft. of you or can’t see you, any suppressed effect immediately resumes, provided that its duration has not expired in the meantime.
+- Conditions such as *charmed* or *frightened* that affects an ally that can see you within 30 ft. of you are supressed. When the creature is beyond 30ft. of you or can't see you, any suppressed effect immediately resumes, provided that its duration has not expired in the meantime.
 
 ### Focused
 
@@ -124,7 +124,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 
 - The number you need to roll a Critical Hit and a Critical Success is reduced by 2. This effect can stack.
 - Once per turn, when you miss an attack, you can choose to reroll the d20. You must use the new roll.
-- Taking damage can’t break your concentration on a spell. Any spells that you are concentrating on before gaining this virtue immediately resumes.
+- Taking damage can't break your concentration on a spell. Any spells that you are concentrating on before gaining this virtue immediately resumes.
 
 ### Powerful
 
@@ -139,7 +139,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 *"Many fall in the face of chaos; But not this one, not today"*
 
 - You reduce all damage received by a number equal to twice of your Proficiency Bonus (minimum of 1 damage).
-- You can’t be moved or being *prone* against your will.
+- You can't be moved or being *prone* against your will.
 - You have :d20-adv: **Advantage** on Strength checks, Strength :d20-save: **Saving Throws** and Constitution :d20-save: **Saving Throws**.
 
 ### Vigorous
@@ -182,7 +182,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 
 *“Reeling, gasping, taken over the edge into madness!”*
 
-- You begins babbling and is incapable of normal speech. Spells that has the Verbal (V) component can’t be cast.
+- You begins babbling and is incapable of normal speech. Spells that has the Verbal (V) component can't be cast.
 - You have :d20-disadv: **Disadvantage** on Intelligence and Wisdom :d20-save: **Saving Throws**.
 - You can't take :rsc-reaction: **Reaction** and must roll a :die-d10:d10 at the start of each of your turns to determine a behavior for that turn.
     

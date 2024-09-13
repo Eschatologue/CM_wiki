@@ -80,7 +80,7 @@ When you hit a Celestial creature with :dmg-fire: **Fire** damage while **Raging
 
 ## Level 6: Aspect of the Primordials
 
-You gain the aspect of Antares’ primordial Paths, you can either choose from the list below or choose the one from the options of the original Totem Warrior 6th-level feature.
+You gain the aspect of Antares' primordial Paths, you can either choose from the list below or choose the one from the options of the original Totem Warrior 6th-level feature.
 
 - **The Fool**  
 You gain Proficiency in three skills of your choice.

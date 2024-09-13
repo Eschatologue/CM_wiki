@@ -37,13 +37,13 @@ You gain an additional Superiority Die when you reach Fighter level 7 (five dice
  
 ## Level 3: Student Of War
 
-You gain proficiency with one type of Artisan’s Tools of your choice, and you gain proficiency in one skill of your choice from the skills available to Fighters at level 1.
+You gain proficiency with one type of Artisan's Tools of your choice, and you gain proficiency in one skill of your choice from the skills available to Fighters at level 1.
 
 ## Level 7: Know Your Enemy
 
 As a Bonus Action, you can discern certain strengths and weaknesses of a creature you can see within 30 feet of yourself; you know whether that creature has any damage immunities, resistances, or vulnerabilities, and if the creature has any, you know what they are.
 
-Once you use this feature, you can’t do so again until you finish a Long Rest. You can also restore a use of the feature by expending one Superiority Die (no action required).
+Once you use this feature, you can't do so again until you finish a Long Rest. You can also restore a use of the feature by expending one Superiority Die (no action required).
 
 ## Level 10: Improved Combat Superiority
 

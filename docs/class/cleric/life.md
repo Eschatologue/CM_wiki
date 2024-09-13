@@ -17,16 +17,16 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 ## Level 3: Disciple of Life
 
-Your healing spells are empowered by life itself. When a spell you cast with a spell slot restores Hit Points to a creature, that creature regains additional Hit Points on the turn you cast the spell. The additional Hit Points equal 2 plus the spell slot’s level.
+Your healing spells are empowered by life itself. When a spell you cast with a spell slot restores Hit Points to a creature, that creature regains additional Hit Points on the turn you cast the spell. The additional Hit Points equal 2 plus the spell slot's level.
 
 ## Level 3: Preserve Life
 
-As part of casting a prepared Abjuration spell from the Cleric spell list, you can expend uses of Channel Divinity to create a spell slot to use for the casting. You must expend a number of Channel Divinity uses equal to the spell’s level. For example, you can expend one use of Channel Divinity to create a 1st-level spell slot for a casting of Shield of Faith if you have that spell prepared.
+As part of casting a prepared Abjuration spell from the Cleric spell list, you can expend uses of Channel Divinity to create a spell slot to use for the casting. You must expend a number of Channel Divinity uses equal to the spell's level. For example, you can expend one use of Channel Divinity to create a 1st-level spell slot for a casting of Shield of Faith if you have that spell prepared.
 
 ## Level 6: Blessed Healer
 
-The healing spells you cast on others heal you as well. Immediately after you cast a spell with a spell slot that restores Hit Points to one creature other than you, you regain Hit Points equal to 2 plus the spell slot’s level.
+The healing spells you cast on others heal you as well. Immediately after you cast a spell with a spell slot that restores Hit Points to one creature other than you, you regain Hit Points equal to 2 plus the spell slot's level.
  
 ## Level 17: Supreme Healing
 
-When you would normally roll one or more dice to restore Hit Points to a creature with a spell or Channel Divinity, don’t roll those dice for the healing; instead use the highest number possible for each die. For example, instead of restoring 2d6 Hit Points to a creature with a spell, you restore 12.
+When you would normally roll one or more dice to restore Hit Points to a creature with a spell or Channel Divinity, don't roll those dice for the healing; instead use the highest number possible for each die. For example, instead of restoring 2d6 Hit Points to a creature with a spell, you restore 12.

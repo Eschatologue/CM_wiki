@@ -4,14 +4,14 @@ icon: material/broom
 
 # Adventuring Gear
 
-The Adventuring Gear table in this section includes gear that adventurers often find useful. These items are described here in alphabetical order, with an item’s price appearing after its name.
+The Adventuring Gear table in this section includes gear that adventurers often find useful. These items are described here in alphabetical order, with an item's price appearing after its name.
 
 ##### Adventuring Gear table
 
 | Item | Cost |  | Item | Cost |
 |---|--:|---|---|--:|
 | Acid | 250 SP |  | Ink | 100 SP |
-| Alchemist’s Fire | 500 SP |  | Ink Pen (5) | 1 SP |
+| Alchemist's Fire | 500 SP |  | Ink Pen (5) | 1 SP |
 | Ammunition | Varies |  | Jug (5) | 1 SP |
 | Antitoxin | 500 SP |  | Ladder | 10 SP |
 | Arcane Focus | Varies |  | Lamp | 5 SP |
@@ -26,27 +26,27 @@ The Adventuring Gear table in this section includes gear that adventurers often 
 | Book | 250 SP |  | Oil | 5 SP |
 | Bottle, Glass | 20 SP |  | Paper (5) | 1 SP |
 | Bucket | 10 SP |  | Parchment (5) | 1 SP |
-| Burglar’s Pack | 160 SP |  | Perfume | 50 SP |
+| Burglar's Pack | 160 SP |  | Perfume | 50 SP |
 | Caltrops | 10 SP |  | Poison, Basic | 1000 SP |
 | Candle (10) | 1 SP |  | Pole (5) | 1 SP |
 | Case, Crossbow Bolt | 10 SP |  | Pot, Iron | 20 SP |
 | Case, Map or Scroll | 10 SP |  | Potion of Healing | 500 SP |
 | Chain | 50 SP |  | Pouch | 5 SP |
-| Chest | 50 SP |  | Priest’s Pack | 330 SP |
-| Climber’s Kit | 250 SP |  | Quiver | 10 SP |
+| Chest | 50 SP |  | Priest's Pack | 330 SP |
+| Climber's Kit | 250 SP |  | Quiver | 10 SP |
 | Clothes, Fine | 150 SP |  | Ram, Portable | 40 SP |
-| Clothes, Traveler’s | 20 SP |  | Rations (5) | 1 SP |
+| Clothes, Traveler's | 20 SP |  | Rations (5) | 1 SP |
 | Component Pouch | 250 SP |  | Robe | 10 SP |
 | Costume | 50 SP |  | Rope | 10 SP |
 | Crowbar | 20 SP |  | Sack (10) | 1 SP |
-| Diplomat’s Pack | 390 SP |  | Scholar’s Pack | 400 SP |
+| Diplomat's Pack | 390 SP |  | Scholar's Pack | 400 SP |
 | Druidic Focus | Varies |  | Shovel | 20 SP |
-| Dungeoneer’s Pack | 120 SP |  | Signal Whistle (10) | 1 SP |
-| Entertainer’s Pack | 400 SP |  | Spell Scroll (Cantrip) | 300 SP |
-| Explorer’s Pack | 100 SP |  | Spell Scroll (Level 1) | 500 SP |
+| Dungeoneer's Pack | 120 SP |  | Signal Whistle (10) | 1 SP |
+| Entertainer's Pack | 400 SP |  | Spell Scroll (Cantrip) | 300 SP |
+| Explorer's Pack | 100 SP |  | Spell Scroll (Level 1) | 500 SP |
 | Flask (5) | 1 SP |  | Spyglass | 10000 SP |
 | Grappling Hook | 20 SP |  | String | 10 SP |
-| Healer’s Kit | 50 SP |  | Tent | 20 SP |
+| Healer's Kit | 50 SP |  | Tent | 20 SP |
 | Holy Symbol | Varies |  | Tinderbox | 5 SP |
 | Holy Water | 250 SP |  | Torch (10) | 1 SP |
 | Hunting Trap | 50 SP |  | Vial | 10 SP |
@@ -61,15 +61,15 @@ When you take the Attack action, you can replace one of your attacks with throwi
 
 ---
 
-### Alchemist’s Fire (50 GP)
+### Alchemist's Fire (50 GP)
 
-When you take the Attack action, you can replace one of your attacks with throwing a flask of Alchemist’s Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 1d4 Fire damage and start burning (see the rules glossary).
+When you take the Attack action, you can replace one of your attacks with throwing a flask of Alchemist's Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 1d4 Fire damage and start burning (see the rules glossary).
 
 ---
 
 ### Ammunition (Varies)
 
-Ammunition is required by a weapon that has the Ammunition property. A weapon’s description specifies the type of ammunition used by the weapon. The Ammunition table lists the different types and the amount you get when you buy them. The table also lists the item that is typically used to store each type; storage must be bought separately.
+Ammunition is required by a weapon that has the Ammunition property. A weapon's description specifies the type of ammunition used by the weapon. The Ammunition table lists the different types and the amount you get when you buy them. The table also lists the item that is typically used to store each type; storage must be bought separately.
 
 ##### Ammunition
 | Type | Amount | Storage | Cost |
@@ -107,9 +107,9 @@ When you take the Attack action, you can replace one of your attacks with throwi
 
 ---
 
-### Alchemist’s Fire (50 GP)
+### Alchemist's Fire (50 GP)
 
-When you take the Attack action, you can replace one of your attacks with throwing a flask of Alchemist’s Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 1d4 Fire damage and start burning (see the rules glossary).
+When you take the Attack action, you can replace one of your attacks with throwing a flask of Alchemist's Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 1d4 Fire damage and start burning (see the rules glossary).
 
 ---
 
@@ -133,7 +133,7 @@ A Basket holds up to 40 pounds within 2 cubic feet.
 
 ### Bedroll (1 GP)
 
-A Bedroll sleeps one Small or Medium creature. While in a Bedroll, you automatically succeed on saving throws against extreme cold (see the Dungeon Master’s Guide).
+A Bedroll sleeps one Small or Medium creature. While in a Bedroll, you automatically succeed on saving throws against extreme cold (see the Dungeon Master's Guide).
 
 ---
 
@@ -145,7 +145,7 @@ When rung as a Utilize action, a Bell produces a sound that can be heard up to 6
 
 ### Blanket (5 SP)
 
-While wrapped in a blanket, you have Advantage on saving throws against extreme cold (see the Dungeon Master’s Guide).
+While wrapped in a blanket, you have Advantage on saving throws against extreme cold (see the Dungeon Master's Guide).
 
 ---
 
@@ -173,9 +173,9 @@ A Bucket holds up to half a cubic foot of contents.
 
 ---
 
-### Burglar’s Pack (16 GP)
+### Burglar's Pack (16 GP)
 
-A Burglar’s Pack contains the following items: Backpack, Ball Bearings, Bell, 10 Candles, Crowbar, Hooded Lantern, 7 flasks of Oil, 5 days of Rations, Rope, Tinderbox, and Waterskin.
+A Burglar's Pack contains the following items: Backpack, Ball Bearings, Bell, 10 Candles, Crowbar, Hooded Lantern, 7 flasks of Oil, 5 days of Rations, Rope, Tinderbox, and Waterskin.
 
 ---
 
@@ -205,7 +205,7 @@ A Map or Scroll Case holds up to 10 sheets of paper or 5 sheets of parchment.
 
 ### Chain (5 GP)
 
-As a Utilize action, you can wrap a Chain around an unwilling creature within 5 feet of yourself that has the Grappled, Incapacitated, or Restrained condition if you succeed on a DC 13 Strength (Athletics) check. If the creature’s legs are bound, the creature has the Restrained condition until it escapes. Escaping the Chain requires the creature to make a successful DC 18 Dexterity (Acrobatics) check as an action. Bursting the Chain requires a successful DC 20 Strength (Athletics) check as an action.
+As a Utilize action, you can wrap a Chain around an unwilling creature within 5 feet of yourself that has the Grappled, Incapacitated, or Restrained condition if you succeed on a DC 13 Strength (Athletics) check. If the creature's legs are bound, the creature has the Restrained condition until it escapes. Escaping the Chain requires the creature to make a successful DC 18 Dexterity (Acrobatics) check as an action. Bursting the Chain requires a successful DC 20 Strength (Athletics) check as an action.
 
 ---
 
@@ -215,9 +215,9 @@ A Chest holds up to 12 cubic feet of contents.
 
 ---
 
-### Climber’s Kit (25 GP)
+### Climber's Kit (25 GP)
 
-A Climber’s Kit includes boot tips, gloves, pitons, and a harness. As a Utilize action, you can use the Climber’s Kit to anchor yourself; when you do, you can’t fall more than 25 feet from the anchor point, and you can’t move more than 25 feet from there without undoing the anchor as a Bonus Action.
+A Climber's Kit includes boot tips, gloves, pitons, and a harness. As a Utilize action, you can use the Climber's Kit to anchor yourself; when you do, you can't fall more than 25 feet from the anchor point, and you can't move more than 25 feet from there without undoing the anchor as a Bonus Action.
 
 ---
 
@@ -227,9 +227,9 @@ Fine Clothes are made of expensive fabrics and adorned with expertly crafted det
 
 ---
 
-### Clothes, Traveler’s (2 GP)
+### Clothes, Traveler's (2 GP)
 
-Traveler’s Clothes are resilient garments designed for travel in various environments.
+Traveler's Clothes are resilient garments designed for travel in various environments.
 
 ---
 
@@ -247,13 +247,13 @@ While wearing a Costume, you have Advantage on any ability check you make to imp
 
 ### Crowbar (2 GP)
 
-Using a Crowbar gives you Advantage on Strength checks where the Crowbar’s leverage can be applied.
+Using a Crowbar gives you Advantage on Strength checks where the Crowbar's leverage can be applied.
 
 ---
 
-### Diplomat’s Pack (39 GP)
+### Diplomat's Pack (39 GP)
 
-A Diplomat’s Pack contains the following items: Chest, Fine Clothes, Ink, 5 Ink Pens, Lamp, 2 Map or Scroll Cases, 4 flasks of Oil, 5 sheets of Paper, 5 sheets of Parchment, Perfume, and Tinderbox.
+A Diplomat's Pack contains the following items: Chest, Fine Clothes, Ink, 5 Ink Pens, Lamp, 2 Map or Scroll Cases, 4 flasks of Oil, 5 sheets of Paper, 5 sheets of Parchment, Perfume, and Tinderbox.
 
 ---
 
@@ -271,21 +271,21 @@ A Druidic Focus takes one of the forms in the Druidic Focuses table and is carve
 
 ---
 
-### Dungeoneer’s Pack (12 GP)
+### Dungeoneer's Pack (12 GP)
 
-A Dungeoneer’s Pack contains the following items: Backpack, Caltrops, Crowbar, 2 flasks of Oil, 10 days of Rations, Rope, Tinderbox, 10 Torches, and Waterskin.
-
----
-
-### Entertainer’s Pack (40 GP)
-
-An Entertainer’s Pack contains the following items: Backpack, Bedroll, Bell, Bullseye Lantern, 3 Costumes, Mirror, 8 flasks of Oil, 9 days of Rations, Tinderbox, and Waterskin.
+A Dungeoneer's Pack contains the following items: Backpack, Caltrops, Crowbar, 2 flasks of Oil, 10 days of Rations, Rope, Tinderbox, 10 Torches, and Waterskin.
 
 ---
 
-### Explorer’s Pack (10 GP)
+### Entertainer's Pack (40 GP)
 
-An Explorer’s Pack contains the following items: Backpack, Bedroll, 2 flasks of Oil, 10 days of Rations, Rope, Tinderbox, 10 Torches, and Waterskin.
+An Entertainer's Pack contains the following items: Backpack, Bedroll, Bell, Bullseye Lantern, 3 Costumes, Mirror, 8 flasks of Oil, 9 days of Rations, Tinderbox, and Waterskin.
+
+---
+
+### Explorer's Pack (10 GP)
+
+An Explorer's Pack contains the following items: Backpack, Bedroll, 2 flasks of Oil, 10 days of Rations, Rope, Tinderbox, 10 Torches, and Waterskin.
 
 ---
 
@@ -301,9 +301,9 @@ As a Utilize action, you can throw the Grappling Hook at a railing, a ledge, or 
 
 ---
 
-### Healer’s Kit (5 GP)
+### Healer's Kit (5 GP)
 
-A Healer’s Kit has ten uses. As a Utilize action, you can expend one of its uses to stabilize an Unconscious creature that has 0 Hit Points without needing to make a Wisdom (Medicine) check.
+A Healer's Kit has ten uses. As a Utilize action, you can expend one of its uses to stabilize an Unconscious creature that has 0 Hit Points without needing to make a Wisdom (Medicine) check.
 
 ---
 
@@ -375,7 +375,7 @@ A Hooded Lantern burns Oil as fuel to cast Bright Light in a 30-foot radius and 
 ---
 
 ### Lock (10 GP)
-A Lock comes with a key. Without the key, a creature can use Thieves’ Tools to pick this Lock with a successful DC 15 Dexterity (Sleight of Hand) check.
+A Lock comes with a key. Without the key, a creature can use Thieves' Tools to pick this Lock with a successful DC 15 Dexterity (Sleight of Hand) check.
 
 ---
 
@@ -389,7 +389,7 @@ A Magnifying Glass grants Advantage on any ability check made to appraise or ins
 
 As a Utilize action, you can use Manacles to bind an unwilling Small or Medium creature within 5 feet of yourself that has the Grappled, Incapacitated, or Restrained condition if you succeed on a DC 13 Dexterity (Sleight of Hand) check. While bound, a creature has Disadvantage on attack rolls, and the creature is Restrained if the Manacles are attached to a chain or hook that is fixed in place. Escaping the Manacles requires a successful DC 20 Dexterity (Sleight of Hand) check as an action. Bursting them requires a successful DC 25 Strength (Athletics) check as an action.
 
-Each set of Manacles comes with a key. Without the key, a creature can use Thieves’ Tools to pick the Manacles’ lock with a successful DC 15 Dexterity (Sleight of Hand) check.
+Each set of Manacles comes with a key. Without the key, a creature can use Thieves' Tools to pick the Manacles' lock with a successful DC 15 Dexterity (Sleight of Hand) check.
 
 ---
 
@@ -421,7 +421,7 @@ Dousing a Creature or an Object. When you take the Attack action, you can replac
 
 ***Dousing a Space.*** You can take the Utilize action to pour an Oil flask on level ground to cover a 5-foot-square area within 5 feet of yourself. If lit, the oil burns until the end of the turn 2 rounds from when the oil was lit (or 12 seconds) and deals 5 Fire damage to any creature that enters the area or ends its turn there. A creature can take this damage only once per turn.
 
-***Fuel.*** Oil serves as fuel for Lamps and Lanterns. Once lit, a flask of Oil burns for 6 hours in a Lamp or Lantern. That duration doesn’t need to be consecutive; you can extinguish the burning Oil (as a Utilize action) and rekindle it again until it has burned for a total of 6 hours.
+***Fuel.*** Oil serves as fuel for Lamps and Lanterns. Once lit, a flask of Oil burns for 6 hours in a Lamp or Lantern. That duration doesn't need to be consecutive; you can extinguish the burning Oil (as a Utilize action) and rekindle it again until it has burned for a total of 6 hours.
 
 ---
 
@@ -473,9 +473,9 @@ A Pouch holds up to 6 pounds within one-fifth of a cubic foot.
 
 ---
 
-### Priest’s Pack (33 GP)
+### Priest's Pack (33 GP)
 
-A Priest’s Pack contains the following items: Backpack, Blanket, Holy Water, Lamp, 7 days of Rations, Robe, and Tinderbox.
+A Priest's Pack contains the following items: Backpack, Blanket, Holy Water, Lamp, 7 days of Rations, Robe, and Tinderbox.
 
 ---
 
@@ -507,7 +507,7 @@ A Robe has vocational or ceremonial significance. Some events and locations admi
 
 As a Utilize action, you can tie a knot with Rope if you succeed on a DC 10 Dexterity (Sleight of Hand) check. The Rope can be burst with a successful DC 20 Strength (Athletics) check.
 
-You can bind an unwilling creature with the Rope only if the creature has the Grappled, Incapacitated, or Restrained condition. If the creature’s legs are bound, the creature has the Restrained condition until it escapes. Escaping the Rope requires the creature to make a successful DC 15 Dexterity (Acrobatics) check as an action.
+You can bind an unwilling creature with the Rope only if the creature has the Grappled, Incapacitated, or Restrained condition. If the creature's legs are bound, the creature has the Restrained condition until it escapes. Escaping the Rope requires the creature to make a successful DC 15 Dexterity (Acrobatics) check as an action.
 
 ---
 
@@ -517,9 +517,9 @@ A Sack holds up to 30 pounds within 1 cubic foot.
 
 ---
 
-### Scholar’s Pack (40 GP)
+### Scholar's Pack (40 GP)
 
-A Scholar’s Pack contains the following items: Backpack, Book, Ink, Ink Pen, Lamp, 10 flasks of Oil, 10 sheets of Parchment, and Tinderbox.
+A Scholar's Pack contains the following items: Backpack, Book, Ink, Ink Pen, Lamp, 10 flasks of Oil, 10 sheets of Parchment, and Tinderbox.
 
 ---
 
@@ -537,7 +537,7 @@ When blown as a Utilize action, a Signal Whistle produces a sound that can be he
 
 ### Spell Scroll (Cantrip, 30 GP Level 1, 50 GP)
 
-A Spell Scroll (Cantrip) or Spell Scroll (Level 1) is a magic item that bears the words of a cantrip or level 1 spell, respectively, determined by the scroll’s creator. If the spell is on your class’s spell list, you can read the scroll and cast the spell using its normal casting time and without providing any Material components.
+A Spell Scroll (Cantrip) or Spell Scroll (Level 1) is a magic item that bears the words of a cantrip or level 1 spell, respectively, determined by the scroll's creator. If the spell is on your class's spell list, you can read the scroll and cast the spell using its normal casting time and without providing any Material components.
 
 If the spell requires a saving throw or an attack roll, the spell save DC is 13, and the attack bonus is +5. The scroll disintegrates when the casting is completed.
 
@@ -587,4 +587,4 @@ A Vial holds up to 4 ounces.
 
 ### Waterskin (2 SP)
 
-A Waterskin holds up to 4 pints. If you don’t drink sufficient water, you risk dehydration
+A Waterskin holds up to 4 pints. If you don't drink sufficient water, you risk dehydration

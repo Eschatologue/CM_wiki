@@ -11,7 +11,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 | Cleric Level | Spells Prepared |
 | :-: | --- |
 | 3 | [Divine Favor], [Magic Weapon], [Shield of Faith], [Spiritual Weapon] |
-| 5 | [Crusader’s Mantle], [Spirit Guardians] |
+| 5 | [Crusader's Mantle], [Spirit Guardians] |
 | 7 | [Freedom of Movement], [Stoneskin] |
 | 9 | [Destructive Wave], [Hold Monster] |
 

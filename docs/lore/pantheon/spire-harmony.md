@@ -1,4 +1,4 @@
-> *“Our unity has once given birth to a source, a symbol of our unity and elvenhood, and yet the same unity eventually shatters us”* — a High Elf Priest teaching in Valinor’s temple.
+> *“Our unity has once given birth to a source, a symbol of our unity and elvenhood, and yet the same unity eventually shatters us”* — a High Elf Priest teaching in Valinor's temple.
 
 # Profile
 

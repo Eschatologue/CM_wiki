@@ -6,7 +6,7 @@ hide:
 
 # Starting at Higher Levels
 
-Your DM might start your group’s characters at a level higher than 1. It is particularly recommended to start at level 3 if your group is composed of seasoned D&D players.
+Your DM might start your group's characters at a level higher than 1. It is particularly recommended to start at level 3 if your group is composed of seasoned D&D players.
 
 ## Starting Equipment
 

@@ -18,16 +18,16 @@ If the scribed spell is a cantrip, the version on the scroll works as if the cas
 
 | Spell Level | Time | Cost |
 |:-:|---|--:|
-| Cantrip | 1 day | 150 sp |
-| 1st | 1 day | 250 sp |
-| 2nd | 3 days | 2500 sp |
-| 3rd | 1 workweek | 5000 sp |
-| 4th | 2 workweeks | 25,000 sp |
-| 5th | 4 workweeks | 50,000 sp |
-| 6th | 8 workweeks | 150,000 sp |
-| 7th | 16 workweeks | 250,000 sp |
-| 8th | 32 workweeks | 500,000 sp |
-| 9th | 48 workweeks | 2,500,000 sp |
+| Cantrip | 1 day | 150 SP |
+| 1 | 1 day | 250 SP |
+| 2 | 3 days | 2500 SP |
+| 3 | 1 workweek | 5000 SP |
+| 4 | 2 workweeks | 25,000 SP |
+| 5 | 4 workweeks | 50,000 SP |
+| 6 | 8 workweeks | 150,000 SP |
+| 7 | 16 workweeks | 250,000 SP |
+| 8 | 32 workweeks | 500,000 SP |
+| 9 | 48 workweeks | 2,500,000 SP |
 
 ## Complications
 

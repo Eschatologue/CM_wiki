@@ -12,7 +12,7 @@ Your Rage taps into the lifeforce of the World Tree. You gain the following bene
 
 ## Level 6: Branches of the Tree
 
-While your Rage is active, whenever a creature you can see starts its turn within 30 feet of you, you can use your Reaction to summon spectral branches of the World Tree around it. The target must succeed on a Strength saving throw (DC equal to 8 plus your Proficiency Bonus plus your Strength modifier) or be teleported to an unoccupied space you can see within 5 feet of yourself or in the nearest unoccupied space you can see. The space the target teleports to must be on a surface or liquid that can support it; otherwise, the target doesn’t teleport.
+While your Rage is active, whenever a creature you can see starts its turn within 30 feet of you, you can use your Reaction to summon spectral branches of the World Tree around it. The target must succeed on a Strength saving throw (DC equal to 8 plus your Proficiency Bonus plus your Strength modifier) or be teleported to an unoccupied space you can see within 5 feet of yourself or in the nearest unoccupied space you can see. The space the target teleports to must be on a surface or liquid that can support it; otherwise, the target doesn't teleport.
 
 After the target teleports, you can reduce its Speed to 0 until the end of the current turn.
 
@@ -22,4 +22,4 @@ Tendrils of the World Tree extend from your Melee weapons. During your turn, whi
 
 ## Level 14: Travel Along the Tree
 
-You can briefly travel along the World Tree. When you activate your Rage and as a Bonus Action while it’s active, you can teleport up to 60 feet to an unoccupied space you can see. In addition, when you teleport using this feature, you can bring up to six willing creatures who are within 10 feet of yourself, and the range you can teleport increases to 500 feet. Each creature teleports to an unoccupied space of your choice within 10 feet of your destination space. You can teleport other creatures with you only once per Rage
+You can briefly travel along the World Tree. When you activate your Rage and as a Bonus Action while it's active, you can teleport up to 60 feet to an unoccupied space you can see. In addition, when you teleport using this feature, you can bring up to six willing creatures who are within 10 feet of yourself, and the range you can teleport increases to 500 feet. Each creature teleports to an unoccupied space of your choice within 10 feet of your destination space. You can teleport other creatures with you only once per Rage

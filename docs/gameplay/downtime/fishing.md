@@ -18,7 +18,7 @@ Antares' natural rivers and waters, now severely tainted by the Warp, saw most o
 
 - **Different Baits:** Baits are no longer required to fish. Instead, having [Fishing Supplies] is now necessary as they contain your fishing equipment, including your baits. Specially made baits do exist, but they act more similarly to magical or special ammunition for ranged weapons.
 
-- **D20 Wisdom (Survival) Checks:** You can fish wherever you see water without needing to make a Survival check. However, if you attempt to fish in an obscure place, such as a well, a puddle in a cave, or someone’s drinking water, the DM will require a Wisdom check. Proficiency with [Fishing Supplies] allows you to add your Proficiency Bonus to this check.
+- **D20 Wisdom (Survival) Checks:** You can fish wherever you see water without needing to make a Survival check. However, if you attempt to fish in an obscure place, such as a well, a puddle in a cave, or someone's drinking water, the DM will require a Wisdom check. Proficiency with [Fishing Supplies] allows you to add your Proficiency Bonus to this check.
 
 - **Aberrant and Untainted Fish:** These categorizations no longer exist. Instead, each fish has been adjusted in price to reflect its rarity.
 
@@ -69,15 +69,15 @@ A great fishermen is not just that is lucky, but those who both lucky and came p
 
 | Rods | overall score bonus | mod.slot | cost |
 | --- | :-: | --: | --: |
-| Crude Angler’s Rod | - | 1 slot | — |
+| Crude Angler's Rod | - | 1 slot | — |
 | Novice Angler's Rod | +2 | 2 slot | 700 SP |
-| Journeymen Angler’s Rod | +4 | 3 slot | 1,400 SP |
+| Journeymen Angler's Rod | +4 | 3 slot | 1,400 SP |
 | Adept Angler's Rod | +6 | 4 slot | 2,800 SP |
 | Master Angler's Rod | +8 | 6 slot | 5,600 SP |
 
 **Overall Score Bonus:** Each fishing rod provides a score bonus to determine what loot you pull from the depths. This score bonus is added after any additional multiplier.
 
-**Mod. Slot:** Each fishing rod can be modified and tinkered to the fisherman’s desire. To equip a [modification], you must have a slot available. Some [modification]s can take multiple slots.
+**Mod. Slot:** Each fishing rod can be modified and tinkered to the fisherman's desire. To equip a [modification], you must have a slot available. Some [modification]s can take multiple slots.
 
 [modification]: #fishing-rods-modification
 

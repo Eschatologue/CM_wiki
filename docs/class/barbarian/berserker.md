@@ -8,7 +8,7 @@ You can go into a frenzy in battle. If you use Reckless Attack while your Rage i
 
 ## Level 6: Mindless Rage
 
-You have immunity to the Charmed and Frightened conditions while your Rage is active. If you’re Charmed or Frightened when you enter your Rage, that condition ends on you.
+You have immunity to the Charmed and Frightened conditions while your Rage is active. If you're Charmed or Frightened when you enter your Rage, that condition ends on you.
 
 ## Level 10: Retaliation
 
@@ -16,6 +16,6 @@ When you take damage from a creature that is within 5 feet of you, you can use y
 
 ## Level 14: Intimidating Presence
 
-As a Bonus Action, you can strike terror into others with your menacing presence as you swell with primal power. When you do so, each creature of your choice within 30 feet of you—or 60 feet of you if your Rage is active—must make a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Strength modifier), provided the creature isn’t behind Total Cover. On a failed save, a creature has the Frightened condition for 1 minute. At the end of each of the Frightened creature’s turns, the creature repeats the saving throw, ending the effect on itself on a successful save.
+As a Bonus Action, you can strike terror into others with your menacing presence as you swell with primal power. When you do so, each creature of your choice within 30 feet of you—or 60 feet of you if your Rage is active—must make a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Strength modifier), provided the creature isn't behind Total Cover. On a failed save, a creature has the Frightened condition for 1 minute. At the end of each of the Frightened creature's turns, the creature repeats the saving throw, ending the effect on itself on a successful save.
 
-Once you use this feature, you can’t use it again until you finish a Long Rest. If you’ve run out of uses of this feature, you can expend a use of your Rage, choosing to activate Intimidating Presence instead of Rage.
+Once you use this feature, you can't use it again until you finish a Long Rest. If you've run out of uses of this feature, you can expend a use of your Rage, choosing to activate Intimidating Presence instead of Rage.

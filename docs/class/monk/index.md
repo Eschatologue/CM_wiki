@@ -14,7 +14,7 @@ icon: class/monk
 
 Monks use rigorous combat training and mental discipline to align themselves with the multiverse and tap into internal reservoirs of power. Different Monks conceptualize this power in various ways: as breath, energy, life force, essence, or self, for example. Whether channeled as a striking display of martial prowess or as a subtler focus of defense and speed, this power infuses all that a Monk does.
 
-Monks harness and focus their internal power to create extraordinary, even supernatural, effects. They channel uncanny speed and strength into their attacks, with or without the use of weapons. In a Monk’s hands, even the most basic weapons can become sophisticated implements of combat mastery. A Monk’s mightiest attacks can stun their opponents.
+Monks harness and focus their internal power to create extraordinary, even supernatural, effects. They channel uncanny speed and strength into their attacks, with or without the use of weapons. In a Monk's hands, even the most basic weapons can become sophisticated implements of combat mastery. A Monk's mightiest attacks can stun their opponents.
 
 Many Monks find that a structured life of ascetic withdrawal from the mundane world helps them cultivate the physical and mental discipline they need to harness their power. Other Monks believe that immersing themselves in the vibrant confusion of life helps to fuel their determination and discipline.
 
@@ -23,7 +23,7 @@ Monks generally view their adventures as personal tests of their physical and me
 | Level |  Prof. Bonus | Class Features | Martial Arts | Discipline Points | Unarmored Movement |
 |:-:|:-:|---|:-:|:-:|:-:|
 | 1 | +2 | Martial Arts, Unarmored Defense | 1d6 | — | — |
-| 2 | +2 | Monk’s Discipline, Unarmored Movement, Uncanny Metabolism | 1d6 | 2 | +10 ft. |
+| 2 | +2 | Monk's Discipline, Unarmored Movement, Uncanny Metabolism | 1d6 | 2 | +10 ft. |
 | 3 |  +2 | Deflect Attacks, Monk Subclass | 1d6 | 3 | +10 ft. |
 | 4 | +2 | Ability Score Improvement, Slow Fall | 1d6 | 4 | +10 ft. |
 | 5 | +3 | Extra Attack, Stunning Strike | 1d8 | 5 | +10 ft. |
@@ -56,7 +56,7 @@ Monks generally view their adventures as personal tests of their physical and me
 - **Saving Throws:** Strength, Dexterity
 - **Skills (Choose 2):** Acrobatics, Athletics, History, Insight, Religion, Stealth
 - **Weapons:** Simple Weapons, Martial Weapons that have the Light property
-- **Tools:** Choose one type of Artisan’s Tools or Musical Instrument
+- **Tools:** Choose one type of Artisan's Tools or Musical Instrument
 
 ### Armour Training
 
@@ -66,9 +66,9 @@ None
 
 As a level 1 character, you start with the following equipment
 
-- Artisan’s Tools
+- Artisan's Tools
 - Dagger (5) 
-- Explorer’s Pack
+- Explorer's Pack
 - Musical Instrument
 - Spear 
 - 90 SP
@@ -78,7 +78,7 @@ Or you can forgo it and spend 650 SP on equipment of your choice.
 ## Level 1: Martial Arts
 
 Your practice of martial arts gives you mastery of combat styles that use your Unarmed Strike and Monk Weapons, which are Simple Melee Weapons and Martial Weapons with the Light property.
-You gain the following benefits while you are unarmed or wielding only Monk Weapons and you aren’t wearing armor or wielding a Shield:
+You gain the following benefits while you are unarmed or wielding only Monk Weapons and you aren't wearing armor or wielding a Shield:
 
 - **Bonus Unarmed Strike.** You can make one Unarmed Strike as a Bonus Action.
  
@@ -88,9 +88,9 @@ You gain the following benefits while you are unarmed or wielding only Monk Weap
 
 ## Level 1: Unarmored Defense
 
-While you aren’t wearing any armor or wielding a Shield, your base Armor Class equals 10 plus your Dexterity and Wisdom modifiers.
+While you aren't wearing any armor or wielding a Shield, your base Armor Class equals 10 plus your Dexterity and Wisdom modifiers.
 
-## Level 2: Monk’S Discipline
+## Level 2: Monk'S Discipline
 
 Your self-discipline and martial training allow you to harness a well of extraordinary energy within yourself. Your access to this energy is represented by a number of Discipline Points. Your Monk level determines the number of points you have, as shown in the Discipline Points column of the Monk table.
 
@@ -110,11 +110,11 @@ Some features that use Discipline Points require your target to make a saving th
 
 When you roll Initiative, you can regain all expended Discipline Points. When you do so, roll your Martial Arts die, and regain a number of Hit Points equal to your Monk level plus the number rolled.
 
-Once you use this feature, you can’t use it again until you finish a Long Rest.
+Once you use this feature, you can't use it again until you finish a Long Rest.
 
 ## Level 2: Unarmored Movement
 
-Your speed increases by 10 feet while you aren’t wearing armor or wielding a Shield. This bonus increases when you reach certain Monk levels, as shown on the Monk table.
+Your speed increases by 10 feet while you aren't wearing armor or wielding a Shield. This bonus increases when you reach certain Monk levels, as shown on the Monk table.
 
 ## Level 3: Deflect Attacks
 
@@ -122,7 +122,7 @@ You can use your Reaction to deflect melee and ranged attacks against you that d
 
 When you do so, the total damage you take from the attack is reduced by 1d10 plus your Dexterity modifier plus your Monk level.
 
-If you reduce the damage to 0, you can spend 1 Discipline Point to redirect some of the attack’s force. If you do so, choose a creature within 5 feet of you if the attack was a melee attack or 60 feet of yourself that isn’t behind Total Cover if the attack was a ranged attack. That creature must succeed on a Dexterity saving throw or take damage equal to two rolls of your Martial Arts die plus your Dexterity modifier. The damage is the same type dealt by the attack.
+If you reduce the damage to 0, you can spend 1 Discipline Point to redirect some of the attack's force. If you do so, choose a creature within 5 feet of you if the attack was a melee attack or 60 feet of yourself that isn't behind Total Cover if the attack was a ranged attack. That creature must succeed on a Dexterity saving throw or take damage equal to two rolls of your Martial Arts die plus your Dexterity modifier. The damage is the same type dealt by the attack.
 
 ## Level 3: Monk Subclass
 
@@ -133,7 +133,7 @@ You gain a Monk subclass of your choice:
 - Warrior of the Elements
 - Warrior of the Hand
 
-A subclass is a specialization that grants you special abilities at certain Monk levels. For the rest of your career, you gain each of your subclass’s features that are of your Monk level and lower.
+A subclass is a specialization that grants you special abilities at certain Monk levels. For the rest of your career, you gain each of your subclass's features that are of your Monk level and lower.
 
 ## Level 4: Ability Score Improvement
 
@@ -161,11 +161,11 @@ Whenever you deal damage with your Unarmed Strike, it can deal your choice of Fo
 
 When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
-You don’t benefit from this feature if you have the Incapacitated condition.
+You don't benefit from this feature if you have the Incapacitated condition.
 
 ## Level 9: Acrobatic Movement
 
-While you aren’t wearing armor or wielding a Shield, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the movement.
+While you aren't wearing armor or wielding a Shield, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the movement.
 
 ## Level 10: Heightened Discipline
 
@@ -173,13 +173,13 @@ Your training has pushed your body and mind to new levels. Your Flurry of Blows,
 
 - **Flurry of Blows.** You can spend 1 Discipline Point to use Flurry of Blows and make three Unarmed Strikes with it instead of two.
 - **Patient Defense.** When you spend a Discipline Point to use Patient Defense, you gain a number of Temporary Hit Points equal to two rolls of your Martial Arts die.
-- **Step of the Wind.** When you spend a Discipline Point to use Step of the Wind, you can choose a willing creature within 5 feet of you that is Large or smaller. You move the creature with you until the end of your turn. The creature’s movement doesn’t provoke Opportunity Attacks.
+- **Step of the Wind.** When you spend a Discipline Point to use Step of the Wind, you can choose a willing creature within 5 feet of you that is Large or smaller. You move the creature with you until the end of your turn. The creature's movement doesn't provoke Opportunity Attacks.
 
 ## Level 10: Self-Restoration
 
 Through sheer force of will, you can remove one of the following conditions from yourself at the end of each of your turns: Charmed, Frightened, or Poisoned.
 
-In addition, forgoing food and drink doesn’t give you levels of Exhaustion.
+In addition, forgoing food and drink doesn't give you levels of Exhaustion.
 
 ## Level 13: Deflect Energy
 

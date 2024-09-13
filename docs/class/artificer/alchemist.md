@@ -8,7 +8,7 @@ When you adopt this specialization, you gain proficiency with alchemist's suppli
 
 ## Level 3: Alchemist Spells
 
-You always have certain spells prepared after you reach particular levels in this class, as shown in the Alchemist Spells table. These spells count as artificer spells for you, but they don’t count against the number of artificer spells you prepare.
+You always have certain spells prepared after you reach particular levels in this class, as shown in the Alchemist Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.
 
 | Artificer Level | Alchemist Spells |
 |:-:|:-:|
@@ -55,4 +55,4 @@ You can incorporate restorative reagents into some of your works:
 You have been exposed to so many chemicals that they pose little risk to you, and you can use them to quickly end certain ailments:
 
 - You gain resistance to Acid damage and Poison damage, and you are now immune to the Poisoned condition.
-- You can cast [Greater Restoration] and [Heal] without expending a spell slot, without preparing the spell, and without providing the material component, provided you use alchemist’s supplies as the spellcasting focus. Once you cast either spell with this feature, you can't cast that spell with it again until you finish a Long Rest.
+- You can cast [Greater Restoration] and [Heal] without expending a spell slot, without preparing the spell, and without providing the material component, provided you use alchemist's supplies as the spellcasting focus. Once you cast either spell with this feature, you can't cast that spell with it again until you finish a Long Rest.

@@ -52,7 +52,7 @@ The target must succeed a :d20-save: Constitution **Saving Throw**, or it has th
 
 *2024 PHB's Brutal Strike*
 
-Your blow leaves an opening in the creature’s defense for an ally until the start of your next turn. The next :d20-attack: **Attack Roll** made by another creature against the target gains a bonus to that roll equal to your Rage Damage.
+Your blow leaves an opening in the creature's defense for an ally until the start of your next turn. The next :d20-attack: **Attack Roll** made by another creature against the target gains a bonus to that roll equal to your Rage Damage.
 
 ### Supernal Blow
 
