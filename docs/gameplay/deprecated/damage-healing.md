@@ -1,5 +1,7 @@
 ---
 icon: material/hammer
+search:
+  exclude: true
 ---
 
 ## Damage

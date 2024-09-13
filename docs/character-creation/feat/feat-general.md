@@ -700,9 +700,62 @@ When a creature provokes an Opportunity Attack from you by leaving your reach, y
 **Somatic Components**   
 You can perform the Somatic components of spells even when you have weapons or a Shield in one or both hands.
 
+---
+
+### Weapon Master
+
+*General Feat (Prerequisite: Level 4+)*
+
+You gain the following benefits.
+
+**Ability Score Increase**  
+Increase your Strength or Dexterity score by 1, to a maximum of 20.
+
+**Mastery Property**  
+Your training with weapons allows you to use the mastery property of one kind of Simple or Martial weapon of your choice, provided you are proficient with it. Whenever you finish a Long Rest, you can change the kind of weapon to another eligible kind.
+
 ## Crown & Misery General Feat
 
 These General feats are homebrew
+
+---
+
+### Battlecaster
+
+*General Feat (Prerequisite: Level 4+, Ability to cast a Spell)*
+
+You are skilled at casting spells with a weapon in hand.
+
+**Ability Score Increase**  
+Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
+    
+**Armament Focus**  
+You can use a magical weapon or a magical shield as a spellcasting focus and to perform the somatic component of a spell.
+    
+**Weapon Conduit**  
+When wielding a Magical weapon that you're proficient with and that provides a bonus to hit and damage, you can also add that weapon's bonus to damage rolls for spells you cast.
+
+---
+
+### Cartomancy
+
+*General Feat (Prerequisite: Level 4+, Ability to cast a Spell)*
+
+You have learned to channel your magic through a deck of cards. 
+
+- **Ability Score Increase**  
+Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
+    
+**All is Revealed**  
+You can use a card deck as your spellcasting focus.
+    
+**Card Tricks**  
+You learn the **Thaumaturgy** and **Guidance** cantrip. When you cast those cantrips through card deck and you can use it to create Illusions that duplicate the effects of stage magic or use it to reveal a Divination to a target. You can conceal the verbal and somatic components of the spell as ordinary conversation or card handling.
+    
+**Hidden Ace**  
+When you finish a Long Rest, you can choose two spell from your class's spell list and imbue those spell into cards. The chosen spell must have a casting time of 1 action, and it must be a level for which you have :rsc-spell-slot: Spell Slots. The card remains imbued with this spell for 8 hours. 
+    
+While the card is imbued with the spell, you can use a :rsc-bonus-action: Bonus Action to flourish the card and cast the spell within. The card then immediately loses its magic.
 
 ---
 
@@ -720,3 +773,99 @@ When you take the Attack action on your turn and attack with a wweapon that lack
 
 **Quick Draw**  
 You can draw or stow two weapons that lack the Two-Handed property when you would normally be able to draw or stow only one.
+
+---
+
+### Firearms Training
+
+*General Feat (Prerequisite: Level 4+, Dexterity or Intelligence 13+)*
+
+**Ability Score Increase**  
+Increase your Dexterity score by 1, to a maximum of 20.
+
+**Firearm Proficiency**  
+You gain proficiency with Short-Arms. If you have proficiency with at least one Martial weapons, you gain proficiency with all Firearms.
+
+---
+
+### Flash Recall
+
+*General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)* 
+
+You’ve developed the ability to instantly recall an unprepared spell in moments of sudden necessity. You gain the following benefits:
+
+**Ability Score Increase**  
+You increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
+    
+**Compartmentalize**  
+As an :rsc-action: Action, you can instantly prepare a spell from your available class spell list (or spellbook, if you prepare spells from one) that you did not have prepared. This spell choice must be of a level for which you have :rsc-spell-slot: Spell Slots. You then lose preparation of a different spell of your choice of equal or higher spell level. 
+    
+If you are multiclassed, you can only Flash Recall spells from a class that prepares spells. Once you use this ability, you must finish a Short Rest or Long Rest before you can use it again.
+
+---
+
+### Gunner
+
+*General Feat (Prerequisite: Level 4+, Proficiency with Firearms)*  
+
+You have a quick hand and keen eye when employing firearms, granting you the following benefits:
+
+**Ability Score Increase**  
+Increase your Dexterity score by 1, to a maximum of 20.
+    
+**Dual Wielding**  
+When you make the extra attack of the :weapon-prop-light: Light weapon property, you can add your Ability Modifier to the damage of the extra attack if that attack is with a firearm that has the :weapon-prop-light: Light property.
+    
+**Quickshot**  
+Immediately after initiative is rolled, you can use your :rsc-reaction: **Reaction** to make a single weapon attack with your firearm.
+
+---
+
+### Overwhelming Strength
+
+*General Feat (Prerequisite: Level 4+)* 
+
+Your sheer physical might dwarfs that of nearly all other mortal creatures, giving you the following benefits:
+
+**Ability Score Increase**  
+Increase your Strength, by 1, to a maximum of 20.
+
+**Might is Power**  
+Whenever you make a Strength-based D20 Test, you can treat a roll of 7 or lower on the d20 as an 8.
+
+**Moving Mountain**  
+Creatures with the same size as you and smaller has :d20-disadv: Disadvantage on the :d20-save: Saving Throw of escaping your Grapple.
+
+---
+
+### Remarkable Recovery
+
+*General Feat (Prerequisite: Level 4+, Constitution 13+)* 
+
+Your body has the ability to recover quickly from terrible injuries, and is unusually receptive to healing magic. You gain the following benefits:
+
+**Ability Score Increase**  
+Increase your Constitution score by 1, to a maximum of 20.
+
+**From the Brink**   
+Once per long-rest, when you would be reduced to 0 Hit Points, make a :d20-save: Constitution Saving Throw. The DC equals 10 or half the damage you take, whichever number is higher. On a successful save, you are reduced to 1 Hit Points instead.
+    
+**Fast Healing**  
+Whenever you regain Hit Points as a result of a spell, potion, or class feature (but not this feat), you regain additional Hit Points equal to your Constitution modifier (minimum of 1).
+
+---
+
+### Sword Dancing
+
+*General Feat (Prerequisite: Level 4+)* 
+
+One-handed weapons and blades are an extension of your arm, graceful as the wind.
+
+**Ability Score Increase**  
+You increase your Dexterity by 1, up to a maximum of 20.
+    
+**Dynamic Swordplay**  
+When you take the Attack action and attack with melee weapon that has the :weapon-prop-finesse: Finesse property, you can choose to deal either :dmg-slashing: Slashing or :dmg-piercing: Piercing damage.
+
+**Fleuret**  
+The first creature you hit on your turn has :d20-disadv: Disadvantage on :d20-attack: Attack Roll against you until the start of your next turn.

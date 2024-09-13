@@ -1,5 +1,7 @@
 ---
 icon: d20/attack
+search:
+  exclude: true
 ---
 
 ## Making an Attack

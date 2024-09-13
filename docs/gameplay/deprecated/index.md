@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Combat Basic
 
 The clatter of a sword striking against a shield. The terrible rending sound as monstrous claws tear through armour. A brilliant flash of light as a ball of flame blossoms from a wizard's spell. The sharp tang of blood in the air, cutting through the stench of vile monsters.

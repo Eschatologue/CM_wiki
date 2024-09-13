@@ -1,5 +1,7 @@
 ---
 icon: rsc/speed
+search:
+  exclude: true
 ---
 
 # Movement and Positioning (Grid-Based)

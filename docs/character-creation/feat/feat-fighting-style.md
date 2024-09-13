@@ -4,114 +4,125 @@ icon: material/sword-cross
 
 Fighting Styles are features available to multiple classes or characters that take the [Fighting Initiate] Feat, letting them specialize in a specific form of weaponry or role in combat. You can't take the same Fighting Style option more than once, even if you get to choose again.
 
-## PHB & TCE Fighting Style
+## 2024 Player's Handbook Fighting Style
+
+These feat are included within 2024 Player's Handbook.
+
+---
 
 ### Archery
 
-*Fighting Style Feat*
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-You gain a +2 bonus to :d20-attack: **Attack Rolls** you with weapons that has the :weapon-prop-ranged: **Ranged** property.
+You gain a +2 bonus to :d20-attack: Attack Rolls you with weapons that has the :weapon-prop-ranged: **Ranged** property.
+
+---
 
 ### Blind Fighting
 
-*Fighting Style Feat*
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
 You have blindsight with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
 
+---
+
 ### Defense
 
-*Fighting Style Feat*
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-While you are wearing armour or wielding a Shield, you gain a +1 bonus to Armour Class.
+While you are wearing Light, Medium, or Heavy armor, you gain a +1 bonus to Armour Class.
+
+---
 
 ### Dueling
 
-*Fighting Style Feat*
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
 When you are wielding a Melee Weapon in one hand and no other Weapons, you gain a +2 bonus to damage rolls with that Melee Weapon.
 
+---
+
 ### Great Weapon Fighting
 
-*Fighting Style Feat*
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-When you hit an melee attack with a Cold Weapon using two hands, and you roll a 1 or 2 on a damage die, you can reroll the dice, and you must use the new roll. 
+When you roll damage for an attack you make with a Melee weaoon that you are holding with two hands, you can treat any 1 or 2 on a damage die as a 3. The weapon must have the Two-Handed or Versatile property to gain this benefit.
 
-The Weapon must have the :weapon-prop-two-handed: **Two-Handed** or :weapon-prop-versatile: **Versatile** property to gain this benefit.
+---
 
 ### Interception
 
-*Fighting Style Feat*
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your :rsc-reaction: **Reaction** to reduce the damage the target takes by 1d10 + your Proficiency Bonus (to a minimum of 0 damage). 
+When a creature you can see hits another creature within 5 feet of you with an attack roll, you can take a :rsc-reaction: Reaction to reduce the damage dealt to the target by 1d10 + your Proficiency Bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this :rsc-reaction: Reaction.
 
-You must be wielding a shield or a simple or martial weapon to do this as a :rsc-reaction: **Reaction**.
-
-### Superior Technique
-
-*Fighting Style Feat*
-
-You learn two [Manoeuvre](../option/manoeuvre.md) of your choice from among those available to the Battlemaster archetype. 
-
-If a manoeuvre you use requires your target to make a :d20-save: **Saving Throw** to resist the manoeuvre's effects, the DC equals 8 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice).
-
-- You gain two superiority die, which is a :die-d6:d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your manoeuvres.  
-A superiority die is expended when you use it. You regain your expended superiority dice when you finish a Short Rest or Long Rest
-
-### Thrown-Weapon Fighting
-
-*Fighting Style Feat*
-
-You can draw a weapon that has the :weapon-prop-thrown: **Thrown** property as part of the attack you make with the weapon.
-
-In addition, when you hit with a ranged attack using a thrown weapon, you gain a +2 bonus to the damage roll
-
-### Two-Weapon Fighting
-
-*Fighting Style Feat*
-
-When you make the extra attack of the :weapon-prop-light: **Light** weapon property, you make the extra weapon attack as part of the Attack action instead of a :rsc-bonus-action: **Bonus Action** and can add your Ability Modifier to the damage of the extra attack.
-
-When you do, you cannot also make a :rsc-bonus-action: **Bonus Action** attack
-
-### Unarmed Fighting
-
-*Fighting Style Feat*
-
-Your unarmed strikes can deal Bludgeoning damage equal to 1d6 + your Strength modifier on a hit. If you aren't wielding any weapons or a shield when you make the :d20-attack: **Attack Roll**, the :die-d6:d6 becomes a :die-d8:d8.
-
-At the start of each of your turns, you can deal 1d4 Bludgeoning damage to one creature grappled by you.
-
-## Homebrew Fighting Style
-
-### Gallian Swordplay
-
-*Fighting Style Feat - Homebrew*
-
-While wielding a :weapon-prop-finesse: **Finesse** weapon and no other weapon, you gain a +2 bonus to your :d20-attack: **Attack Rolls** and an +1 to your Armour Class so long you are not wearing Heavy Armour or wielding Shields.
-
-### Heavy Weapon Fighting
-
-*Fighting Style Feat - Homebrew*  
-
-When you hit an attack with a Cold Weapon that has :weapon-prop-heavy: **Heavy** and :weapon-prop-two-handed: **Two-handed** property, you treat a ^^total^^ roll of 5 or lower on the weapon's damage dice as a 6.
+---
 
 ### Protection
 
-*Fighting Style Feat - Homebrew*
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-Immediately after a creature you can see makes an :d20-attack: **Attack Roll** and hits a target other than you that is within 5 feet of you, you can use your :rsc-reaction: **Reaction** to interpose your Shield and impose a penalty equal to the shield's AC on the :d20-attack: **Attack Roll**, potentially turning it into a miss. 
+When a creature you can see attacks a target other than you that is within 5 feet of you, you can take a :rsc-reaction: Reaction to interpose your Shield if you're holding one. You impose :d20-disadv: Disadvantage on the triggering attack roll and all other attack rolls against the target until the start of your next turn if you remain within 5 feet of the target.
 
-You must be wielding a Shield to do this as a :rsc-reaction: **Reaction**.
+---
+
+### Thrown-Weapon Fighting
+
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
+
+When you hit with a ranged attack using a weapon that has the :weapon-prop-thrown: Thrown property, you gain a +2 bonus to the damage roll
+
+---
+
+### Two-Weapon Fighting
+
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
+
+When you make the extra attack of the :weapon-prop-light: Light weapon property, you can add your ability modifier to the damage of that attack if you aren't already adding it to the damage.
+
+---
+
+### Unarmed Fighting
+
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
+
+Your unarmed strikes can deal Bludgeoning damage equal to 1d6 + your Strength modifier on a hit. If you aren't wielding any weapons or a shield when you make the :d20-attack: Attack Roll, the :die-d6:d6 becomes a :die-d8:d8.
+
+At the start of each of your turns, you can deal 1d4 Bludgeoning damage to one creature grappled by you.
+
+## Crown & Misery Fighting Style
+
+These Fighting Style Feature are homebrew
+
+---
+
+### Gallian Swordplay
+
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
+
+While wielding a :weapon-prop-finesse: Finesse weapon and no other weapon, you gain a +2 bonus to your :d20-attack: Attack Rolls and an +1 to your Armour Class so long you are not wearing Heavy Armour or wielding Shields.
+
+---
+
+### Heavy Weapon Fighting
+
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*  
+
+When you make a melee attack with a Cold Weapon that has :weapon-prop-heavy: Heavy and :weapon-prop-two-handed: Two-handed property as part of your Attack action, you treat a ^^total^^ roll of 5 or lower on the weapon's damage dice as a 6.
+
+---
 
 ### Shield Warrior
 
-*Fighting Style Feat - Homebrew*
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-You gain Proficiency with Shields and it can be used as a Martial Melee Weapon that deal :dmg-bludgeoning: **Bludgeoning** damage equal to 2d4 + your Strength modifier. If you are wielding a shield and no other weapon, you gain a +1 bonus to Shield :d20-attack: **Attack Rolls** and your AC. 
+You gain Proficiency with Shields and it can be used as a Martial Melee Weapon that deal :dmg-bludgeoning: Bludgeoning damage equal to 2d4 + your Strength modifier. If you are wielding a shield and no other weapon, you gain a +1 bonus to Shield :d20-attack: Attack Rolls and your AC. 
+
+---
 
 ### Signature Weapon
 
-*Fighting Style Feat - Homebrew*
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
 You specialise one weapon rather than many. Choose one weapon that you are Proficient with to be your Signature Weapon. When you make an attack with that type of weapon, its damage die increases by one size as shown on the table below.
 
@@ -125,30 +136,53 @@ You can change your Signature Weapon when you gain a level in a class that has t
 
 *When you hit an attack with this weapon, you can choose to roll either 2d6 or 1d12 and gain +1 bonus to its damage.
 
+---
+
+### Superior Technique
+
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
+
+You learn two [Manoeuvre](../option/manoeuvre.md) of your choice from among those available to the Battlemaster archetype. 
+
+If a manoeuvre you use requires your target to make a :d20-save: **Saving Throw** to resist the manoeuvre's effects, the DC equals 8 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice).
+
+:   You gain two superiority die, which is :die-d6: d6s (this die is added to any superiority dice you have from another source). This die is used to fuel your manoeuvres.  A superiority die is expended when you use it. You regain your expended superiority dice when you finish a Short Rest or Long Rest.
+
+---
+
 ### Sniper
 
-*Fighting Style Feat - Homebrew*  
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*  
 
-Being Prone doesn’t impose :d20-disadv: **Disadvantage** on your ranged weapon attacks and attacking targets with the Prone condition doesn’t impose :d20-disadv: **Disadvantage** on your ranged weapon :d20-attack: **Attack Roll** if the target is within your weapon’s normal range.
+When you make an attack with a Ranged weapon while having the Prone condition, you gain the following benefits: 
+
+- That attack doesn't have :d20-disadv: Disadvantage so long your target is within your weapon normal range, even if the target has the Prone condition.
+- On hit, you can treat any 1 or 2 on a damage die as a 3.
+
+---
 
 ### Standard Bearer
 
-*Fighting Style Feat - Homebrew*
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-When a creature within 5 feet of you makes an attack against a creature that you can see, you can grant it :d20-adv: **Advantage** on its :d20-attack: **Attack Roll** as a :rsc-reaction: **Reaction**. You must be carrying a banner, flag, or standard in your hand to use this :rsc-reaction: **Reaction**.
+When a creature within 5 feet of you makes an attack against a creature that you can see, you can grant it :d20-adv: Advantage on its :d20-attack: Attack Roll as a :rsc-reaction: Reaction. You must be carrying a banner, flag, or standard in your hand to use this :rsc-reaction: Reaction. A holy symbol emblazoned on a shield also suffice.
+
+---
 
 ### Strongbow
 
-*Fighting Style Feat - Homebrew*
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
 You can use your Strength modifier, in place of Dexterity for attack and damage rolls with Longbows, Shortbows, and Compound Bow. When you do so, you gain +1 to damage rolls with those weapons.
 
-Moreover, you also use your Strength instead of your Dexterity to fufill the :weapon-prop-heavy: **Heavy** weapon property requirement for those weapons.
+Moreover, you also use your Strength instead of your Dexterity to fufill the :weapon-prop-heavy: Heavy weapon property requirement for those weapons.
+
+---
 
 ### Versatile Fighting
 
-*Fighting Style Feat - Homebrew*
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-While wielding a single :weapon-prop-versatile: **Versatile** weapon and no shield, you gain a +1 bonus to your :d20-attack: **Attack Roll** and Damage Roll with that weapon. While doing so, you can also use your :rsc-bonus-action: **Bonus Action** to make a single grapple or shove attack, or take the Use an Object Action.
+While wielding a single weapon with the:weapon-prop-versatile: Versatile property and no shield, you gain a +1 bonus to your :d20-attack: Attack Roll and Damage Roll with that weapon. While doing so, you can also use your :rsc-bonus-action: Bonus Action to make a single grapple or shove attack, take the Use an Object Action, or take the Utilise action.
 
-[Fighting Initiate]: feat-4th-level.md#fighting-intiate
+[Fighting Initiate]: feat-origin#fighting-intiate

@@ -1,5 +1,7 @@
 ---
 icon: dmg/necrotic
+search:
+  exclude: true
 ---
 
 # Condition

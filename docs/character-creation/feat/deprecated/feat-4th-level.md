@@ -1,5 +1,7 @@
 ---
 icon: material/cards-playing-spade-multiple
+search:
+  exclude: true
 ---
 
 ### Ability Scores Improvement
