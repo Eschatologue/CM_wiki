@@ -1,5 +1,7 @@
 ---
 icon: material/cards-playing
+search:
+  exclude: true
 ---
 
 ### Adrenaline Rush

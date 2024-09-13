@@ -1,5 +1,7 @@
 ---
 icon: material/face-recognition
+search:
+  exclude: true
 ---
 
 ### Bountiful Luck
