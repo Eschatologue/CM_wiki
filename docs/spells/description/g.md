@@ -95,5 +95,5 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 ***Using a Higher-Level Spell Slot.*** Use the spell slot’s level for the spell’s level in the stat block.
 
-![GiantInsect](../../assets/wiki/statblock/GiantInsectstatblock.png)
+![GiantInsect](../../assets/wiki/statblock/GiantInsectstatblock.png){ width: 120px; }
 
