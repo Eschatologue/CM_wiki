@@ -4,6 +4,7 @@ icon: material/alpha-e-box
 
 
 # Spells (E)
+
 Earthquake
 Level 8 Transmutation (Cleric, Druid, Sorcerer)
 

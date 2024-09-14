@@ -8,7 +8,7 @@ icon: material/alpha-c-box
 
 ### Call Lightning
 
-Level 3 Conjuration (Druid)
+*Level 3 Conjuration (Druid)*
 
 **Casting Time:** Action  
 **Range:**  120 feet  
@@ -28,7 +28,8 @@ If you’re outdoors in a storm when you cast this spell, the spell gives you co
 ---
 
 ### Calm Emotions
-Level 2 Enchantment (Bard, Cleric)
+
+*Level 2 Enchantment (Bard, Cleric)*
 
 **Casting Time:** Action  
 **Range:**  60 feet  
@@ -39,8 +40,12 @@ Each Humanoid in a 20-foot-radius Sphere centered on a point you choose within r
 
 The creature has Immunity to the Charmed and Frightened conditions until the spell ends. If the creature was already Charmed or Frightened, those conditions are suppressed for the duration.
 The creature becomes Indifferent about creatures of your choice that it’s Hostile toward. This indifference ends if the target takes damage or witnesses its allies taking damage. When the spell ends, the creature’s attitude returns to normal.
-Chain Lightning
-Level 6 Evocation (Sorcerer, Wizard)
+
+---
+
+### Chain Lightning
+
+*Level 6 Evocation (Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:**  150 feet  
@@ -56,7 +61,8 @@ Each target makes a Dexterity saving throw, taking 10d8 Lightning damage on a fa
 ---
 
 ### Charm Person
-Level 1 Enchantment (Bard, Druid, Sorcerer, Warlock, Wizard)
+
+*Level 1 Enchantment (Bard, Druid, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:**  30 feet  
@@ -70,7 +76,8 @@ One Humanoid you can see within range makes a Wisdom saving throw. It does so wi
 ---
 
 ### Chill Touch
-Necromancy Cantrip (Sorcerer, Warlock, Wizard)
+
+*Necromancy Cantrip (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:**  Touch  
@@ -84,7 +91,8 @@ Cantrip Upgrade. The damage increases by 1d10 when you reach levels 5 (2d10), 11
 ---
 
 ### Circle of Death
-Level 6 Necromancy (Sorcerer, Warlock, Wizard)
+
+*Level 6 Necromancy (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:**  150 feet  
@@ -98,7 +106,8 @@ Negative energy ripples out in a 60-foot-radius Sphere from a point you choose w
 ---
 
 ### Clairvoyance
-Level 3 Divination (Bard, Cleric, Sorcerer, Wizard)
+
+*Level 3 Divination (Bard, Cleric, Sorcerer, Wizard)*
 
 **Casting Time:** 10 minutes  
 **Range:**  1 mile  
@@ -114,7 +123,8 @@ A creature that sees the sensor (such as a creature benefiting from See Invisibi
 ---
 
 ### Clone
-Level 8 Necromancy (Wizard)
+
+*Level 8 Necromancy (Wizard)*
 
 **Casting Time:** 1 hour  
 **Range:**  Touch  
@@ -128,7 +138,8 @@ If the original creature dies after the clone finishes forming, the creature’s
 ---
 
 ### Cloudkill
-Level 5 Conjuration (Sorcerer, Wizard)
+
+*Level 5 Conjuration (Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:**  120 feet  
@@ -146,7 +157,8 @@ The Sphere moves 10 feet away from you at the start of each of your turns.
 ---
 
 ### Color Spray
-Level 1 Illusion (Bard, Sorcerer, Wizard)
+
+*Level 1 Illusion (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:**  Self  
@@ -158,7 +170,8 @@ You launch a dazzling array of flashing, colorful light. Each creature in a 15-f
 ---
 
 ### Command
-Level 1 Enchantment (Bard, Cleric, Paladin)
+
+*Level 1 Enchantment (Bard, Cleric, Paladin)*
 
 **Casting Time:** Action  
 **Range:**  60 feet  
@@ -167,22 +180,23 @@ Level 1 Enchantment (Bard, Cleric, Paladin)
 
 You speak a one-word command to a creature you can see within range. The target must succeed on a Wisdom saving throw or follow the command on its next turn. Choose the command from these options:
 
-Approach. The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you.
+**Approach.** The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you.
 
-Drop. The target drops whatever it is holding and then ends its turn.
+**Drop.** The target drops whatever it is holding and then ends its turn.
 
-Flee. The target spends its turn moving away from you by the fastest available means.
+**Flee.** The target spends its turn moving away from you by the fastest available means.
 
-Grovel. The target has the Prone condition and then ends its turn.
+**Grovel.** The target has the Prone condition and then ends its turn.
 
-Halt. On its turn, the target doesn’t move and takes no action or Bonus Action.
+**Halt.** On its turn, the target doesn’t move and takes no action or Bonus Action.
 
 ***Using a Higher-Level Spell Slot.*** You can affect one additional creature for each spell slot level above 1.
 
 ---
 
 ### Commune
-Level 5 Divination (Cleric)
+
+*Level 5 Divination (Cleric)*
 
 **Casting Time:** 1 minute or Ritual  
 **Range:**  Self  
@@ -198,7 +212,8 @@ If you cast the spell more than once before finishing a Long Rest, there is a cu
 ---
 
 ### Commune with Nature
-Level 5 Divination (Druid, Ranger)
+
+*Level 5 Divination (Druid, Ranger)*
 
 **Casting Time:** 1 minute or Ritual  
 **Range:**  Self  
@@ -209,17 +224,19 @@ You commune with nature spirits and gain knowledge of the surrounding area. In t
 
 Choose three of the following facts; you learn those facts as they pertain to the spell’s area:
 
-Locations of settlements
-Locations of portals to other planes of existence
-Location of one Challenge Rating 10+ creature (DM’s choice) that is a Celestial, an Elemental, a Fey, a Fiend, or an Undead
-The most prevalent kind of plant, mineral, or Beast (you choose which to learn)
-Locations of bodies of water
+- Locations of settlements
+- Locations of portals to other planes of existence
+- Location of one Challenge Rating 10+ creature (DM’s choice) that is a Celestial, an Elemental, a Fey, a Fiend, or an Undead
+- The most prevalent kind of plant, mineral, or Beast (you choose which to learn)
+- Locations of bodies of water
+
 For example, you could determine the location of a powerful monster in the area, the locations of bodies of water, and the locations of any towns.
 
 ---
 
 ### Comprehend Languages
-Level 1 Divination (Bard, Sorcerer, Warlock, Wizard)
+
+*Level 1 Divination (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action or Ritual  
 **Range:**  Self  
@@ -231,7 +248,8 @@ For the duration, you understand the literal meaning of any language that you he
 ---
 
 ### Compulsion
-Level 4 Enchantment (Bard)
+
+*Level 4 Enchantment (Bard)*
 
 **Casting Time:** Action  
 **Range:**  30 feet  
@@ -245,7 +263,8 @@ For the duration, you can take a Bonus Action to designate a direction that is h
 ---
 
 ### Cone of Cold
-Level 5 Evocation (Druid, Sorcerer, Wizard)
+
+*Level 5 Evocation (Druid, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:**  Self  
@@ -259,7 +278,8 @@ You unleash a blast of cold air. Each creature in a 60-foot Cone originating fro
 ---
 
 ### Confusion
-Level 4 Enchantment (Bard, Druid, Sorcerer, Wizard)
+
+*Level 4 Enchantment (Bard, Druid, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:**  90 feet  
@@ -280,7 +300,8 @@ At the end of each of its turns, an affected target repeats the save, ending the
 ---
 
 ### Conjure Animals
-Level 3 Conjuration (Druid, Ranger)
+
+*Level 3 Conjuration (Druid, Ranger)*
 
 **Casting Time:** Action  
 **Range:**  60 feet  
@@ -298,7 +319,8 @@ Whenever the pack moves within 10 feet of a creature you can see and whenever a 
 ---
 
 ### Conjure Celestial
-Level 7 Conjuration (Cleric)
+
+*Level 7 Conjuration (Cleric)*
 
 **Casting Time:** Action  
 **Range:**  90 feet  
@@ -320,7 +342,8 @@ Whenever the Cylinder moves into the space of a creature you can see and wheneve
 ---
 
 ### Conjure Elemental
-Level 5 Conjuration (Druid, Wizard)
+
+*Level 5 Conjuration (Druid, Wizard)*
 
 **Casting Time:** Action  
 **Range:**  60 feet  
@@ -336,7 +359,8 @@ Whenever a creature you can see enters the spirit’s space or starts its turn w
 ---
 
 ### Conjure Fey
-Level 6 Conjuration (Druid)
+
+*Level 6 Conjuration (Druid)*
 
 **Casting Time:** Action  
 **Range:**  60 feet  
@@ -352,7 +376,8 @@ As a Bonus Action on your later turns, you can teleport the spirit to an unoccup
 ---
 
 ### Conjure Minor Elementals
-Level 4 Conjuration (Druid, Wizard)
+
+*Level 4 Conjuration (Druid, Wizard)*
 
 **Casting Time:** Action  
 **Range:**  Self  
@@ -368,7 +393,8 @@ In addition, the ground in the Emanation is Difficult Terrain for your enemies.
 ---
 
 ### Conjure Woodland Beings
-Level 4 Conjuration (Druid, Ranger)
+
+*Level 4 Conjuration (Druid, Ranger)*
 
 **Casting Time:** Action  
 **Range:**  Self  
@@ -381,8 +407,9 @@ In addition, you can take the Disengage action as a Bonus Action for the spell�
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 4.
 
-Contact Other Plane
-Level 5 Divination (Warlock, Wizard)
+### Contact Other Plane
+
+*Level 5 Divination (Warlock, Wizard)*
 
 **Casting Time:** 1 minute or Ritual  
 **Range:**  Self  
@@ -396,7 +423,8 @@ On a failed save, you take 6d6 Psychic damage and have the Incapacitated conditi
 ---
 
 ### Contagion
-Level 5 Necromancy (Cleric, Druid)
+
+*Level 5 Necromancy (Cleric, Druid)*
 
 **Casting Time:** Action  
 **Range:**  Touch
@@ -413,7 +441,8 @@ Whenever the Poisoned target receives an effect that would end the Poisoned cond
 ---
 
 ### Contingency
-Level 6 Abjuration (Wizard)
+
+*Level 6 Abjuration (Wizard)*
 
 **Casting Time:** 10 minutes  
 **Range:**  Self  
@@ -429,7 +458,8 @@ The contingent spell takes effect only on you, even if it can normally target ot
 ---
 
 ### Continual Flame
-Level 2 Evocation (Cleric, Druid, Wizard)
+
+*Level 2 Evocation (Cleric, Druid, Wizard)*
 
 **Casting Time:** Action  
 **Range:**  Touch  
@@ -441,7 +471,8 @@ A flame springs from an object that you touch. The effect casts Bright Light in 
 ---
 
 ### Control Water
-Level 4 Transmutation (Cleric, Druid, Wizard)
+
+*Level 4 Transmutation (Cleric, Druid, Wizard)*
 
 **Casting Time:** Action  
 **Range:**  300 feet  
@@ -463,7 +494,8 @@ The water level remains elevated until the spell ends or you choose a different 
 ---
 
 ### Control Weather
-Level 8 Transmutation (Cleric, Druid, Wizard)
+
+*Level 8 Transmutation (Cleric, Druid, Wizard)*
 
 **Casting Time:** 10 minutes  
 **Range:**  Self  
@@ -508,7 +540,8 @@ When you change the weather conditions, find a current condition on the followin
 ---
 
 ### Counterspell
-Level 3 Abjuration (Sorcerer, Warlock, Wizard)
+
+*Level 3 Abjuration (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Reaction, which you take when you see a creature within 60 feet of yourself casting a spell with Verbal, Somatic, or Material components  
 **Range:**  60 feet  
@@ -592,7 +625,6 @@ The spell’s duration depends on the object’s material, as shown in the Mater
 | Adamantine or mithral | 1 minute |
 
 ***Using a Higher-Level Spell Slot.*** The Cube increases by 5 feet for each spell slot level above 5.
-
 
 ---
 
