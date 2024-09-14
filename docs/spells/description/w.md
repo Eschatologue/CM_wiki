@@ -15,9 +15,7 @@ icon: material/alpha-w-box
 
 You create a wall of fire on a solid surface within range. You can make the wall up to 60 feet long, 20 feet high, and 1 foot thick, or a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick. The wall is opaque and lasts for the duration.
 
----
-
-### When the wall appears, each creature in its area makes a Dexterity saving throw, taking 5d8 Fire damage on a failed save or half as much damage on a successful one.
+When the wall appears, each creature in its area makes a Dexterity saving throw, taking 5d8 Fire damage on a failed save or half as much damage on a successful one.
 
 One side of the wall, selected by you when you cast this spell, deals 5d8 Fire damage to each creature that ends its turn within 10 feet of that side or inside the wall. A creature takes the same damage when it enters the wall for the first time on a turn or ends its turn there. The other side of the wall deals no damage.
 
@@ -247,6 +245,38 @@ The stress of casting Wish to produce any effect other than duplicating another 
 
 ---
 
+### Witch Bolt
+
+*Level 1 Evocation (Sorcerer, Warlock, Wizard)*
+  
+**Casting Time:** :rsc-action: Action  
+**Range:** 30 feet  
+**Components:** V, S, M (a twig from a tree that has been struck by lightning)  
+**Duration:** Concentration, up to 1 minute
+
+A beam of crackling energy lances toward a creature within range, forming a sustained arc of lightning between you and the target. Make a ranged spell attack against it. On a hit, the target takes 2d12 Lightning damage.
+
+On each of your subsequent turns, you can take a Bonus Action to deal 1d12 Lightning damage to the target automatically, even if the first attack missed. The spell ends if the target is ever outside the spell's range or if it has Total Cover from you.
+
+***Using a Higher-Level Spell Slot.*** The initial damage increases by 1d12 for each spell slot level above 1.
+
+---
+
+### Word of Radiance
+
+*Evocation cantrip*
+  
+**Casting Time:** Action  
+**Range:** 5 feet  
+**Components:** V, M (a holy symbol)  
+**Duration:** Instantaneous
+
+Burning radiance erupts from you in a 5-foot Emanation. Each creature of your choice that you can see in it must succeed on a Constitution saving throw or take 1d6 Radiant damage.
+
+***Cantrip Upgrade.*** The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
+
+---
+
 ### Word of Recall
 
 *Level 6 Conjuration (Cleric)*
@@ -259,3 +289,18 @@ The stress of casting Wish to produce any effect other than duplicating another 
 You and up to five willing creatures within 5 feet of you instantly teleport to a previously designated sanctuary. You and any creatures that teleport with you appear in the nearest unoccupied space to the spot you designated when you prepared your sanctuary (see below). If you cast this spell without first preparing a sanctuary, the spell has no effect.
 
 You must designate a location, such as a temple, as a sanctuary by casting this spell there.
+
+---
+
+### Wrathful Smite
+
+*Level 1 Necromancy (Paladin)*
+  
+**Casting Time:** Bonus Action, which you take immediately after hitting a target with a Melee weapon or an Unarmed Strike  
+**Range:** Self  
+**Components:** V  
+**Duration:** Concentration, up to 1 minute
+
+The target takes an extra 1d6 Necrotic damage from the attack, and it must succeed on a Wisdom saving throw or have the Frightened condition until the spell ends. At the end of each of its turns, the Frightened target repeats the save, ending the spell on itself on a success.
+
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 1.

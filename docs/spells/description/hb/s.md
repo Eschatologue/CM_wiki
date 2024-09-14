@@ -2,7 +2,6 @@
 icon: material/alpha-s-circle
 ---
 
-
 # Homebrew Spells (S)
 
 ---

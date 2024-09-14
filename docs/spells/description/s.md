@@ -79,6 +79,21 @@ Instead of targeting a creature, you can target a location you have seen. When y
 
 ---
 
+### Searing Smite
+
+*Level 1 Evocation*
+  
+**Casting Time:** :rsc-bonus-action: Bonus Action, which you take immediately after hitting a target with a Melee weapon or an Unarmed Strike  
+**Range:** Self  
+**Components:** V  
+**Duration:** Concentration, up to 1 minute
+
+As you hit the target, it takes an extra 1d6 Fire damage from the attack. At the start of each of its turns until the spell ends, the target takes 1d6 Fire damage and then makes a Constitution saving throw. On a failed save, the spell continues. On a successful save, the spell ends.
+
+***Using a Higher-Level Spell Slot.*** All the damage increased by 1d6 for each spell slot level above 1.
+
+---
+
 ### See Invisibility
 
 *Level 2 Divination (Bard, Sorcerer, Wizard)*
@@ -224,6 +239,21 @@ The spell ends early if you cast it again or if you let go of the weapon.
 
 ---
 
+### Shining Smite
+
+*Level 2 Transmutation*
+
+**Casting Time:** Bonus Action, which you take immediately after hitting a creature with a melee weapon or an Unarmed Strike  
+**Range:** Self  
+**Components:** V  
+**Duration:** Concentration, up to 1 minute  
+
+The target hit by the strike takes an extra 2d6 Radiant damage from the attack. If the target has the Invisible condition, that condition ends on it. In addition, until the spell ends, the target sheds bright light in a 5-foot radius, attack rolls against it have :d20-adv: **Advantage**, and it can't benefit from the Invisible condition.
+
+***Using a Higher-Level Spell Slot.*** When you cast this spell using a spell slot of 3rd level or higher, the extra damage increases by 1d6 for each slot level above 2nd.
+
+---
+
 ### Shocking Grasp
 
 *Evocation Cantrip (Sorcerer, Wizard)*
@@ -332,6 +362,19 @@ You alter time around up to six creatures of your choice in a 40-foot Cube withi
 An affected target’s Speed is halved, it takes a −2 penalty to AC and Dexterity saving throws, and it can’t take Reactions. On its turns, it can take either an action or a Bonus Action, not both, and it can make only one attack if it takes the Attack action. If it casts a spell with a Somatic component, there is a 25 percent chance the spell fails as a result of the target making the spell’s gestures too slowly.
 
 An affected target repeats the save at the end of each of its turns, ending the spell on itself on a success.
+
+---
+
+*Evocation cantrip*
+
+**Casting Time:** :rsc-action: Action  
+**Range:** 120 feet  
+**Components:** V, S  
+**Duration:** Instantaneous
+
+You cast sorcerous energy at one creature or object within range. Make a ranged attack roll against the target. On a hit, the target takes 1d8 damage. If you roll an 8 on a d8 for this spell, you can roll another d8, and add it to the damage. Whenever you cast this spell, the maximum number of these d8s you can add to the spell's damage equals your spellcasting ability modifier. You choose the damage type each time you cast this spell: Acid, Cold, Fire, Lightning, Poison, Psychic, or Thunder.
+
+***Cantrip Upgrade.*** This spell's damage increases by 1d8 when you reach level 5 (2d8), 11 (3d8), and 17 (4d8).
 
 ---
 
@@ -462,6 +505,36 @@ As a Bonus Action on your later turns, you can move the force up to 20 feet and 
 
 ---
 
+### Staggering Smite
+
+*Level 4 Evocation*
+  
+**Casting Time:** :rsc-bonus-action: Bonus Action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike.  
+**Range:** Self  
+**Components:** V  
+**Duration:** Concentration, up to 1 minute
+
+The target takes an extra 4d6 Psychic damage from the attack, and the target must succeed on a Wisdom saving throw or have the Stunned condition until the end of your next turn.
+
+***Using a Higher-Level Spell Slot.*** The extra damage increases by 1d6 for each spell slot level above 4.
+
+---
+
+### Starry Wisp
+
+*Evocation cantrip (Bard, Druid)*
+
+**Casting Time:** :rsc-action: Action  
+**Range:** 60 feet  
+**Components:** V, S  
+**Duration:** Instantaneous
+
+You launch a mote of light at one creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 Radiant damage, and until the end of your next turn, it emits Dim Light in a 10-foot radius and can't benefit from the Invisible condition.
+
+***Cantrip Upgrade.*** This spell's damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
+
+---
+
 ### Steel Wind Strike
 
 *Level 5 Conjuration (Ranger, Wizard)*
@@ -531,13 +604,13 @@ A churning storm cloud forms for the duration, centered on a point within range 
 
 At the start of each of your later turns, the storm produces different effects, as detailed below.
 
-Turn 2. Acidic rain falls. Each creature and object under the cloud takes 4d6 Acid damage.
+***Turn 2.*** Acidic rain falls. Each creature and object under the cloud takes 4d6 Acid damage.
 
-Turn 3. You call six bolts of lightning from the cloud to strike six different creatures or objects beneath it. Each target makes a Dexterity saving throw, taking 10d6 Lightning damage on a failed save or half as much damage on a successful one.
+***Turn 3.*** You call six bolts of lightning from the cloud to strike six different creatures or objects beneath it. Each target makes a Dexterity saving throw, taking 10d6 Lightning damage on a failed save or half as much damage on a successful one.
 
-Turn 4. Hailstones rain down. Each creature under the cloud takes 2d6 Bludgeoning damage.
+***Turn 4.*** Hailstones rain down. Each creature under the cloud takes 2d6 Bludgeoning damage.
 
-Turns 5–10. Gusts and freezing rain assail the area under the cloud. Each creature there takes 1d6 Cold damage. Until the spell ends, the area is Difficult Terrain and Heavily Obscured, ranged attacks with weapons are impossible there, and strong wind blows through the area.
+***Turns 5–10.*** Gusts and freezing rain assail the area under the cloud. Each creature there takes 1d6 Cold damage. Until the spell ends, the area is Difficult Terrain and Heavily Obscured, ranged attacks with weapons are impossible there, and strong wind blows through the area.
 
 ---
 
@@ -553,6 +626,144 @@ Turns 5–10. Gusts and freezing rain assail the area under the cloud. Each crea
 You suggest a course of activity—described in no more than 25 words—to one creature you can see within range that can hear and understand you. The suggestion must sound achievable and not involve anything that would obviously deal damage to the target or its allies. For example, you could say, “Fetch the key to the cult’s treasure vault, and give the key to me.” Or you could say, “Stop fighting, leave this library peacefully, and don’t return.”
 
 The target must succeed on a Wisdom saving throw or have the Charmed condition for the duration or until you or your allies deal damage to the target. The Charmed target pursues the suggestion to the best of its ability. The suggested activity can continue for the entire duration, but if the suggested activity can be completed in a shorter time, the spell ends for the target upon completing it.
+
+---
+
+### Summon Aberration
+
+*Level 4 Conjuration (Warlock, Wizard)*
+  
+**Casting Time:** :rsc-action: Action  
+**Range:** 90 feet  
+**Components:** V, S, M (a pickled tentacle and an eyeball in a platinum-inlaid vial worth at least 400 gp)  
+**Duration:** Concentration, up to 1 hour
+
+You call forth an aberrant spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the **Aberrant Spirit** stat block. When you cast the spell, choose Beholderkin, Slaad, or Star Spawn. The creature resembles an aberration of that kind, which determines certain traits in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
+
+The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
+
+***Using a Higher-Level Spell Slot.*** Use the spell slot's level for the spell's level in the stat block.
+
+---
+
+### Summon Celestial
+
+*Level 5 Conjuration (Cleric, Paladin)*
+  
+**Casting Time:** :rsc-action: Action  
+**Range:** 90 feet  
+**Components:** V, S, M (a golden reliquary worth at least 500 gp)  
+**Duration:** Concentration, up to 1 hour
+
+You call forth a celestial spirit. It manifests in an angelic form in an unoccupied space that you can see within range. This corporeal form uses the **Celestial Spirit** stat block. When you cast the spell, choose Avenger or Defender. Your choice determines the creature's attack in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
+
+The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
+
+***Using a Higher-Level Spell Slot.*** Use the spell slot's level for the spell's level in the stat block.
+
+---
+
+### Summon Construct
+
+*Level 4 Conjuration (Wizard)*
+  
+**Casting Time:** :rsc-action: Action  
+**Range:** 90 feet  
+**Components:** V, S, M (an ornate stone and metal lockbox worth at least 400 gp)  
+**Duration:** Concentration, up to 1 hour
+
+You call forth the spirit of a construct. It manifests in an unoccupied space that you can see within range. This corporeal form uses the **Construct Spirit** stat block. When you cast the spell, choose a material: Clay, Metal, or Stone. The creature resembles a golem or a modron (your choice) made of the chosen material, which determines certain traits in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
+
+The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
+
+***Using a Higher-Level Spell Slot.*** Use the spell slot's level for the spell's level in the stat block.
+
+---
+
+### Summon Elemental
+
+*Level 4 Conjuration (Druid, Ranger, Wizard)*
+  
+**Casting Time:** :rsc-action: Action  
+**Range:** 90 feet  
+**Components:** V, S, M (air, a pebble, ash, and water inside a gold-inlaid vial worth 400+ gp)  
+**Duration:** Concentration, up to 1 hour
+
+You call forth an elemental spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the **Elemental Spirit** stat block. When you cast the spell, choose an element: Air, Earth, Fire, or Water. The creature resembles a bipedal form wreathed in the chosen element, which determines certain traits in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
+
+The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
+
+***Using a Higher-Level Spell Slot.*** Use the spell slot's level for the spell's level in the stat block.
+
+---
+
+### Summon Draconic Spirit
+
+*Level 5 Conjuration (Wizard)*
+  
+**Casting Time:** :rsc-action: Action  
+**Range:** 60 feet  
+**Components:** V, S, M (an object with the image of a dragon engraved on it, worth 500+ gp)  
+**Duration:** Concentration, up to 1 hour
+
+You call forth a **draconic spirit**. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Draconic Spirit stat block. When you cast this spell, choose a family of dragon: chromatic, gem, or metallic. The creature resembles a dragon of the chosen family, which determines certain traits in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
+
+The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
+
+***Using a Higher-Level Spell Slot.*** Use the spell slot's level for the spell's level in the stat block.
+
+---
+
+### Summon Fey
+
+*Level 3 Conjuration (Druid, Ranger, Warlock, Wizard)*
+
+**Casting Time:** Action  
+**Range:** 90 feet  
+**Components:** V, S, M (a gilded flower worth 300+ GP)  
+**Duration**: Concentration, up to 1 hour
+
+You call forth a Fey spirit. It manifests in an unoccupied space that you can see within range and uses the Fey Spirit stat block. When you cast the spell, choose a mood: Fuming, Mirthful, or Tricksy. The creature resembles a Fey creature of your choice marked by the chosen mood, which determines certain details in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends. The creature is an ally to you and your allies. In combat, the creature shares your Initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its movement to avoid danger.
+
+***Using a Higher-Level Spell Slot.*** Use the spell slot's level for the spell's level in the stat block.
+
+
+---
+
+### Summon Fiend
+
+*Level 6 Conjuration (Warlock, Wizard)*
+
+**Casting Time:** Action  
+**Range:** 90 feet  
+**Components:** V, S, M (a bloody vial worth 600+ GP)  
+**Duration**: Concentration, up to 1 hour
+
+You call forth a fiendish spirit. It manifests in an unoccupied space that you can see within range and uses the Fiendish Spirit stat block. When you cast the spell, choose Demon, Devil, or Yugoloth. The creature resembles a Fiend of the chosen type, which determines certain details in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
+The creature is an ally to you and your allies. In combat, the creature shares your Initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its movement to avoid danger.
+
+***Using a Higher-Level Spell Slot.*** Use the spell slot's Hevel for the spell's level in the stat block
+
+[To be Added]
+
+---
+
+### Summon Undead
+
+*Level 3 Necromancy (Warlock, Wizard)*
+
+**Casting Time:** Action  
+**Range:** 90 feet  
+**Components:** V, S, M (a gilded skull worth 300+ GP)  
+**Duration:** Concentration, up to 1 hour
+
+You call forth an Undead spirit. It manifests in an unoccupied space that you can see within range and uses the Undead Spirit stat block. When you cast the spell, choose the creature's form: Ghostly, Putrid, or Skeletal. The spirit resembles an Undead creature with the chosen form, which determines certain details in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
+
+The creature is an ally to you and your allies. In combat, the creature shares your Initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its movement to avoid danger.
+
+***Using a Higher-Level Spell Slot.*** Use the spell slot's level for the spell's level in the stat block.
+
+[To be Added]
 
 ---
 
@@ -587,6 +798,23 @@ Brilliant sunlight flashes in a 60-foot-radius Sphere centered on a point you ch
 A creature Blinded by this spell makes another Constitution saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 This spell dispels Darkness in its area that was created by any spell.
+
+---
+
+### Swift Quiver
+
+*LEvel 5 Transmutation*
+  
+**Casting Time:** :rsc-bonus-action: Bonus Action  
+**Range:** Touch  
+**Components:** V, S, M (a quiver containing at least one piece of ammunition)  
+**Duration:** Concentration, up to 1 minute
+
+You transmute your quiver so it produces an endless supply of nonmagical ammunition, which seems to leap into your hand when you reach for it.
+
+When you cast the spell and as a Bonus Action until it ends to make two attacks with a weapon that fires Arrows or Bolts, such as Longbow or Light Crossbow. The spell magically creates the ammunitiion needed for each attack. Each Arrow or Bolt created by the spelll deals damage like a non-magical ammunition.
+
+
 
 ---
 

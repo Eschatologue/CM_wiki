@@ -34,4 +34,19 @@ Until the spell ends, you can make the attack again on each of your turns as a M
 
 You unleash a string of insults laced with subtle enchantments at one creature you can see or hear within range. The target must succeed on a Wisdom saving throw or take 1d6 Psychic damage and have Disadvantage on the next attack roll it makes before the end of its next turn.
 
-***Cantrip Upgrade.***The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
+***Cantrip Upgrade.*** The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
+
+---
+
+### Vitriolic Sphere
+
+*Level 4 Evocation (Sorcerer, Wizard)*
+
+**Casting Time:** :rsc-action: Action  
+**Range:** 150 feet  
+**Components:** V, S, M (a drop of giant slug bile)  
+**Duration:** Instantaneous
+
+You point at a location within range, and a glowing 1-foot-diameter ball of emerald acid streaks there and explodes in a 20-foot-radius sphere. Each creature in that area must make a :d20-save: Dexterity saving throw. On a failed save, a creature takes 10d4 acid damage and another 5d4 acid damage at the end of its next turn. On a successful save, a creature takes half the initial damage and no damage at the end of its next turn.
+
+***Using a Higher-Level Spell Slot.*** The initial damage increases by 2d4 for each spell slot level above 4.

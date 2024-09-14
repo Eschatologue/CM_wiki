@@ -20,7 +20,8 @@ You touch a willing creature who isn’t wearing armor. Until the spell ends, th
 ---
 
 ### Mage Hand
-Conjuration Cantrip (Bard, Sorcerer, Warlock, Wizard)
+
+*Conjuration Cantrip (Artificer, Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 30 feet  
@@ -206,7 +207,7 @@ You suggest a course of activity—described in no more than 25 words—to twelv
 
 Each target must succeed on a Wisdom saving throw or have the Charmed condition for the duration or until you or your allies deal damage to the target. Each Charmed target pursues the suggestion to the best of its ability. The suggested activity can continue for the entire duration, but if the suggested activity can be completed in a shorter time, the spell ends for a target upon completing it.
 
-***Using a Higher-*Level Spell Slot.*** The duration is longer with a spell slot of level 7 (10 days), 8 (30 days), or 9 (366 days)*.
+***Using a Higher-Level Spell Slot.*** The duration is longer with a spell slot of level 7 (10 days), 8 (30 days), or 9 (366 days)*.
 
 ---
 
@@ -244,9 +245,26 @@ Minor physical damage to the stone doesn’t harm you, but its partial destructi
 
 ---
 
+### Melf's Acid Arrow
+
+*Level 2 Evocation (Wizard)*
+
+**Casting Time:** Action  
+**Range:** 90 feet  
+**Components:** V, S, M (powdered rhubarb leaf and an adder's stomach)  
+**Duration:** Instantaneous
+
+A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 4d4 acid damage immediately and 2d4 acid damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much of the initial damage and no damage at the end of its next turn.
+
+***Using a Higher-Level Spell Slot.*** The damage (both initial and later) increases by 1d4 for each slot level above 2nd.
+
+**Classes:** Wizard
+
+---
+
 ### Mending
 
-*Transmutation Cantrip (Bard, Cleric, Druid, Sorcerer, Wizard)*
+*Transmutation Cantrip (Artificer, Bard, Cleric, Druid, Sorcerer, Wizard)*
 
 **Casting Time:** 1 minute  
 **Range:** Touch  
@@ -289,6 +307,21 @@ A nonmagical object that isn’t being worn or carried also takes the damage if 
 
 ---
 
+### Mind Sliver
+
+*Enchantment cantrip (Sorcerer, Warlock, Wizard)*
+  
+**Casting Time:** :rsc-action: Action  
+**Range:** 60 feet  
+**Components:** V  
+**Duration:** 1 round
+
+You drive a disorienting spike of psychic energy into the mind of one creature you can see within range. The target must succeed on an :d20-save: Intelligence Saving Throw or take 1d6 psychic damage and subtract 1d4 from the next :d20-save: saving throw it makes before the end of your next turn.
+
+***Cantrip Upgrade.*** The damage increases by 1d6 when you reach level 5 (2d6), 11 (3d6), and 17 (4d6).
+
+---
+
 ### Mind Blank
 
 *Level 8 Abjuration (Bard, Wizard)*
@@ -299,6 +332,20 @@ A nonmagical object that isn’t being worn or carried also takes the damage if 
 **Duration:** 24 hours
 
 Until the spell ends, one willing creature you touch has Immunity to Psychic damage and the Charmed condition. The target is also unaffected by anything that would sense its emotions or alignment, read its thoughts, or magically detect its location, and no spell—not even Wish—can gather information about the target, observe it remotely, or control its mind.
+
+---
+
+### Mind Spike
+*Level 2 Divination (Sorcerer, Warlock, Wizard)*
+
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** S  
+**Duration:** Concentration, up to 1 hour
+
+You drive a spike of psionic energy into the mind of one creature tou can see within range. The target must make a Wisdom saving throw, taking 3d8 psychic damage on a failed save, or half as much damage on a successful one. On a failed save, you also always know the target's location until the spell ends, but only while the two of you are on the same plane of existence. While you have this knowledge, the target can't become hidden from you, and if it's invisible, it gains no benefit from that condition against you.
+
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each slot level above 2.
 
 ---
 
@@ -424,6 +471,89 @@ A silvery beam of pale light shines down in a 5-foot-radius, 40-foot-high Cylind
 When the Cylinder appears, each creature in it makes a Constitution saving throw. On a failed save, a creature takes 2d10 Radiant damage, and if the creature is shape-shifted (as a result of the Polymorph spell, for example), it reverts to its true form and can’t shape-shift until it leaves the Cylinder. On a successful save, a creature takes half as much damage only. A creature also makes this save when the spell’s area moves into its space and when it enters the spell’s area or ends its turn there. A creature makes this save only once per turn.
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d10 for each spell slot level above 2.
+
+---
+
+### Mordenkainen's Faithful Hound
+
+*Level 4 Conjuration (Artificer, Wizard)*
+
+**Casting Time:** Action  
+**Range:** 30 feet  
+**Components:** V, S, M (a silver whistle)  
+**Duration:** 8 hours
+
+You conjure a phantom watchdog in an unoccupied space that you can see within range. The hound remains for the duration or until the two of you are more than 300 feet apart from each other.
+
+No one but you can see the hound, and it is intangible and invulnerable. When a Small or larger creature comes within 30 feet of it without first speaking the password that you specify when you cast this spell, the hound starts barking loudly. The hound has Truesight with a range of 30 feet.
+
+At the start of each of your turns, the hound attempts to bite one enemy within 5 feet of it. That enemy must succeed on a Dexterity saving throw or take 4d8 Force damage.
+
+On your later turns, you can take a Magic action to move the hound up to 30 feet.
+
+---
+
+### Mordenkainen's Magnificent Mansion
+
+*Level 7 Conjuration (Bard, Wizard)*
+
+**Casting Time:** 1 minute  
+**Range:** 300 feet  
+**Components:** V, S, M (a miniature door worth 15+ GP)  
+**Duration:** 24 hours
+
+You conjure a shimmering door in range that lasts for the duration. The door leads to an extradimensional dwelling and is 5 feet wide and 10 feet tall. You and any creature you designate when you cast the spell can enter the extradimensional dwelling as long as the door remains open. You can open or close the door if you are within 30 feet of it. While closed, the door is imperceptible.
+
+Beyond the door is a magnificent foyer with numerous chambers beyond. The atmosphere is clean, fresh, and warm.
+
+You can create any floor plan you like, but the space can't exceed 50 contiguous 10-foot Cubes. The place is furnished and decorated as you choose. It contains sufficient food to serve a nine course banquet for up to 100 people. 
+
+A staff of 100 near-transparent servants attends all who enter. You decide the visual appearance of these servants and their attire. They are completely obedient to your orders. Each servant can perform any task a normal human servant could perform, but they can't attack or take any action that would directly harm another creature. Thus the servants can fetch things, clean, mend, fold clothes, light fires, serve food, pour wine, and so on. The servants can't leave the dwelling.
+
+When the spell ends, any creatures or objects left inside the extradimensional space are expelled into the open spaces nearest to the entrance.
+
+---
+
+### Mordenkainen's Private Sanctum
+
+*Level 4 Abjuration (Artificer, Wizard)*
+
+**Casting Time:** 10 minutes  
+**Range:** 120 feet  
+**Components:** V, S, M (a thin sheet of lead)  
+**Duration:** 24 hours
+
+You make an area within range magically secure. The area is a cube that can be as small as 5 feet to as large as 100 feet on each side. The spell lasts for the duration or until you use a Magic action to dismiss it.
+
+When you cast the spell, you decide what sort of security the spell provides, choosing any or all of the following properties:
+
+- Sound can't pass through the barrier at the edge of the warded area.
+- The barrier of the warded area appears dark and foggy, preventing vision (including darkvision) through it.
+- Sensors created by divination spells can't appear inside the protected area or pass through the barrier at its perimeter.
+- Creatures in the area can't be targeted by divination spells.
+- Nothing can teleport into or out of the warded area.
+- Planar travel is blocked within the warded area.
+
+Casting this spell on the same spot every day for a year makes this effect permanent.
+
+***Using a Higher-Level Spell Slot.*** You can increase the size of the cube by 100 feet for each slot level beyond 4th. Thus you could protect a cube that can be up to 100 feet on one side by using a spell slot level above 4.
+
+---
+
+### Mordenkainen's Sword
+
+*Level 7 Evocation (Bard, Wizard)*
+
+**Casting Time:** Action  
+**Range:** 90 feet  
+**Components:** V, S, M (a miniature platinum sword worth 250+ GP)  
+**Duration:** Concentration, up to 1 minute  
+
+You create a sword-shaped plane of force that hovers within range. It lasts for the duration.
+
+When the sword appears, you make a melee spell attack against a target of your choice within 5 feet of the sword. On a hit, the target takes Force damage equal to 4d12 plus your spellcasting ability modifier. 
+
+On your later turns, you can take a Bonus Action to move the sword up to 30 feet to a spot you can see and repeat this attack against the same target or a different one.
 
 ---
 

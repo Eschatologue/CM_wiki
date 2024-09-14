@@ -1,5 +1,5 @@
 ---
-icon: material/alpha-l-box
+icon: material/alpha-p-box
 ---
 
 # Spells (P)
@@ -31,6 +31,24 @@ When the opening disappears, any creatures or objects still in the passage creat
 **Duration:** Concentration, up to 1 hour
 
 You radiate a concealing aura in a 30-foot Emanation for the duration. While in the aura, you and each creature you choose have a +10 bonus to Dexterity (Stealth) checks and leave no tracks.
+
+---
+
+### Phantasmal Force
+
+*Level 2 Illusion (Bard, Sorcerer, Wizard)*
+
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** V, S, M (a bit of fleece)  
+**Duration:** Concentration, up to 1 minute
+
+You attempt to craft an illusion in the mind of a creature you can see within range. The target makes an Intelligence saving throw. On a failed save, you create a phantasmal object, creature, or other phenomenon that is no larger than a 10-foot Cube and that is perceivable only to the target for the duration. The phantasm includes sound, temperature, and other stimuli.
+The target can take a Study action to examine the phantasm with an Intelligence (Investigation) check against your spell save DC. If the check succeeds, the target realizes that the phantasm is an illusion, and the spell ends.
+
+While affected by the spell, the target treats the phantasm as if it were real and rationalizes any illogical outcomes from interacting with it. For example, if the target steps through a phantasmal bridge and survives the fall, it believes the bridge exists and something else caused it to fall.
+
+An affected target can even take damage from the illusion if the phantasm represents a dangerous creature or hazard. On each of your turns, such a phantasm can deal 2d8 Psychic damage to the target if it is in the phantasm's area or within 5 feet of the phantasm. The target perceives the damage as a type appropriate to the illusion.
 
 ---
 
@@ -170,6 +188,19 @@ The target’s gear melds into the new form. The creature can’t use or otherwi
 
 ---
 
+#### Power Word Heal
+
+*Level 9 Evocation (Bard, Cleric)*
+
+- **Casting Time:** Action  
+- **Range:** 60 feet  
+- **Components:** V  
+- **Duration:** Instantaneous
+
+A wave of healing energy washes over one creature you can see within range. The target regains all its Hit Points. If the creature has the Charmed, Frightened, Paralyzsed, Poisoned, or Stunned conditionm the condition ends. If the creature has the Prone condition, it ca use its Reaction to stand up.
+
+---
+
 ### Power Word Kill
 
 *Level 9 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
@@ -225,17 +256,17 @@ Up to five creatures of your choice who remain within range for the spell’s en
 
 You create a magical effect within range. Choose the effect from the options below. If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time.
 
-Sensory Effect. You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
+***Sensory Effect.*** You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
 
-Fire Play. You instantaneously light or snuff out a candle, a torch, or a small campfire.
+***Fire Play.*** You instantaneously light or snuff out a candle, a torch, or a small campfire.
 
-Clean or Soil. You instantaneously clean or soil an object no larger than 1 cubic foot.
+***Clean or Soil.*** You instantaneously clean or soil an object no larger than 1 cubic foot.
 
-Minor Sensation. You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
+***Minor Sensation.*** You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
 
-Magic Mark. You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.
+***Magic Mark.*** You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.
 
-Minor Creation. You create a nonmagical trinket or an illusory image that can fit in your hand. It lasts until the end of your next turn. A trinket can deal no damage and has no monetary worth.
+***Minor Creation.*** You create a nonmagical trinket or an illusory image that can fit in your hand. It lasts until the end of your next turn. A trinket can deal no damage and has no monetary worth.
 
 ---
 
@@ -267,6 +298,7 @@ Eight rays of light flash from you in a 60-foot Cone. Each creature in the Cone 
 ---
 
 ### Prismatic Wall
+
 *Level 9 Abjuration (Bard, Wizard)*
 
 **Casting Time:** Action  
@@ -297,6 +329,7 @@ Prismatic Layers
 ---
 
 ### Produce Flame
+
 Conjuration Cantrip (Druid)
 
 **Casting Time:** Bonus Action  
@@ -313,6 +346,7 @@ Until the spell ends, you can take a Magic action to hurl fire at a creature or 
 ---
 
 ### Programmed Illusion
+
 *Level 6 Illusion (Bard, Wizard)*
 
 **Casting Time:** Action  
@@ -331,6 +365,7 @@ Physical interaction with the image reveals it to be illusory, since things can 
 ---
 
 ### Project Image
+
 *Level 7 Illusion (Bard, Wizard)*
 
 **Casting Time:** Action  
@@ -347,6 +382,7 @@ Physical interaction with the image reveals it to be illusory, since things can 
 ---
 
 ### Protection from Energy
+
 *Level 3 Abjuration (Cleric, Druid, Ranger, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
@@ -359,6 +395,7 @@ For the duration, the willing creature you touch has Resistance to one damage ty
 ---
 
 ### Protection from Evil and Good
+
 *Level 1 Abjuration (Cleric, Druid, Paladin, Warlock, Wizard)*
 
 **Casting Time:** Action  

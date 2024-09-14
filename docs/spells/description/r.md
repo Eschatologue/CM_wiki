@@ -1,5 +1,5 @@
 ---
-icon: material/alpha-l-box
+icon: material/alpha-r-box
 ---
 
 # Spells (R)
@@ -25,6 +25,21 @@ Coming back from the dead is an ordeal. The target takes a −4 penalty to D20 T
 
 ---
 
+### Rary's Telepathic Bond
+
+*Level 5 Divination (Bard, Wizard)*
+
+- **Casting Time:** Action or Ritual  
+- **Range:** 30 feet  
+- **Components:** V, S, M (pieces of eggshell from two different kinds of creatures)  
+- **Duration:** 1 hour
+
+You forge a telepathic link among up to eight willing creatures of your choice within range, psychically linking each creature to all the others for the duration. Creatures with Intelligence scores of 2 or less aren't affected by this spell.
+
+Until the spell ends, the targets can communicate telepathically through the bond whether or not they have a common language. The communication is possible over any distance, though it can't extend to other planes of existence.
+
+---
+
 ### Ray of Enfeeblement
 
 *Level 2 Necromancy (Warlock, Wizard)*
@@ -41,6 +56,7 @@ On a failed save, the target has Disadvantage on Strength-based D20 Tests for th
 ---
 
 ### Ray of Frost
+
 *Evocation Cantrip (Sorcerer, Wizard)*
 
 **Casting Time:** Action  
@@ -51,6 +67,21 @@ On a failed save, the target has Disadvantage on Strength-based D20 Tests for th
 A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 Cold damage, and its Speed is reduced by 10 feet until the start of your next turn.
 
 ***Cantrip Upgrade.***The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
+
+---
+
+### Ray of Sickness
+
+*Level 1 Necromancy*
+
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** V, S  
+**Duration:** Instantaneous
+
+You shoot a greenish ray at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 Poison damage and has the Poisoned condition until the end of your next turn.
+
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 1.
 
 ---
 

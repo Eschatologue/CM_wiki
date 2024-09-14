@@ -68,6 +68,25 @@ Covering the object with something opaque blocks the light. The spell ends if yo
 
 ---
 
+### Lightning Arrow
+
+*Level 3 Transmutation (Ranger)*
+
+**Casting Time:** Bonus Action, which you take immediately after hitting or missing a target with a Ranged weapon.  
+**Range:** Self  
+**Components:** V, S  
+**Duration:** Concentration, up to 1 minute
+
+As your attack hits or misses the target, the weapon or ammunition you're using transforms into a lighting bolt. Instead of taking any damage it trigger effects from the attack, the target takes 4d8 Lightning damage on a hit or half as much damage on a miss. Each creature within 10 feet of the target must make a Dexterity saving throw. Each of these creatures takes 2d8 lightning damage on a failed save, or half as much damage on a successful one.
+
+The piece of ammunition or weapon then returns to its normal form.
+
+***Using a Higher-Level Spell Slot.*** The damage for both effects of the spell increases by 1d8 for each spell slot level above 3.
+
+**Classes:** Ranger
+
+---
+
 ### Lightning Bolt
 
 *Level 3 Evocation (Sorcerer, Wizard)*
