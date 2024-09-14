@@ -1,5 +1,7 @@
 ---
 icon: spell/level-5
+search:
+  exclude: true
 ---
 
 ### Animate Objects

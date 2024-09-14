@@ -1,5 +1,7 @@
 ---
 icon: spell/level-4
+search:
+  exclude: true
 ---
 
 # Level 4 Spells

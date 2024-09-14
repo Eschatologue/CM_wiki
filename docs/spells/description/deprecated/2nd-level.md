@@ -1,5 +1,7 @@
 ---
 icon: spell/level-2
+search:
+  exclude: true
 ---
 
 # Level 2 Spells

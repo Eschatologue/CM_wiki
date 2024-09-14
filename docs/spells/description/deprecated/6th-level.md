@@ -1,5 +1,7 @@
 ---
 icon: spell/level-6
+search:
+  exclude: true
 ---
 
 ### Arcane Gate

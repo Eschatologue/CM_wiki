@@ -1,5 +1,7 @@
 ---
 icon: spell/level-7
+search:
+  exclude: true
 ---
 
 ### Conjure Celestial

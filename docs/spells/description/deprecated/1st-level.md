@@ -1,5 +1,7 @@
 ---
 icon: spell/level-1
+search:
+  exclude: true
 ---
 
 # Level 1 Spells

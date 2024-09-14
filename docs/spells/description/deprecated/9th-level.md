@@ -1,5 +1,7 @@
 ---
 icon: spell/level-9
+search:
+  exclude: true
 ---
 
 ### Astral Projection

@@ -1,5 +1,7 @@
 ---
 icon: spell/level-0
+search:
+  exclude: true
 ---
 
 ### Acid Splash

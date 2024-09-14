@@ -1,5 +1,7 @@
 ---
 icon: spell/level-3
+search:
+  exclude: true
 ---
 
 ### Animate Dead

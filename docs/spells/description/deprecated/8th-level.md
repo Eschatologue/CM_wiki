@@ -1,5 +1,7 @@
 ---
 icon: spell/level-8
+search:
+  exclude: true
 ---
 
 ### Abi-Dalzim's Horrid Wilting
