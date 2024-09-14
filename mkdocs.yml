@@ -227,7 +227,8 @@ nav:
         - Spells (V): spells/description/v.md
         - Spells (W): spells/description/w.md
         - Spells (Z): spells/description/z.md
-      - Crown & Misery: spells/description/hb/e.md
+      - Crown & Misery: 
+        - Spells (E): spells/description/hb/e.md
   - Current Campaign:
     - Player's Gimmick:
       - John K. Godsmith: 
