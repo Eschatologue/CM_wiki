@@ -3,9 +3,12 @@ icon: material/alpha-g-box
 ---
 
 # Spells (G)
-Gaseous Form
 
-Level 3 Transmutation (Sorcerer, Warlock, Wizard)
+---
+
+### Gaseous Form
+
+*Level 3 Transmutation (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Touch  
@@ -20,9 +23,11 @@ The target can’t talk or manipulate objects, and any objects it was carrying o
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 3.
 
-Gate
+---
 
-Level 9 Conjuration (Cleric, Sorcerer, Warlock, Wizard)
+### Gate
+
+*Level 9 Conjuration (Cleric, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  
@@ -37,9 +42,11 @@ Deities and other planar rulers can prevent portals created by this spell from o
 
 When you cast this spell, you can speak the name of a specific creature (a pseudonym, title, or nickname doesn’t work). If that creature is on a plane other than the one you are on, the portal opens next to the named creature and transports it to the nearest unoccupied space on your side of the portal. You gain no special power over the creature, and it is free to act as the DM deems appropriate. It might leave, attack you, or help you.
 
-Geas
+---
 
-Level 5 Enchantment (Bard, Cleric, Druid, Paladin, Wizard)
+### Geas
+
+*Level 5 Enchantment (Bard, Cleric, Druid, Paladin, Wizard)*
 
 **Casting Time:** 1 minute  
 **Range:** 60 feet  
@@ -56,9 +63,11 @@ A Remove Curse, Greater Restoration, or Wish spell ends this spell.
 
 ***Using a Higher-Level Spell Slot.*** If you use a level 7 or 8 spell slot, the duration is 365 days. If you use a level 9 spell slot, the spell lasts until it is ended by one of the spells mentioned above.
 
-Gentle Repose
+---
 
-Level 2 Necromancy (Cleric, Paladin, Wizard)
+### Gentle Repose
+
+*Level 2 Necromancy (Cleric, Paladin, Wizard)*
 
 **Casting Time:** Action or Ritual  
 **Range:** Touch  
@@ -69,9 +78,11 @@ You touch a corpse or other remains. For the duration, the target is protected f
 
 The spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don’t count against the time limit of spells such as Raise Dead.
 
-Giant Insect
+---
 
-Level 4 Conjuration (Druid)
+### Giant Insect
+
+*Level 4 Conjuration (Druid)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  
@@ -83,4 +94,6 @@ You summon a giant centipede, spider, or wasp (chosen when you cast the spell). 
 The creature is an ally to you and your allies. In combat, the creature shares your Initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don’t issue any, it takes the Dodge action and uses its movement to avoid danger.
 
 ***Using a Higher-Level Spell Slot.*** Use the spell slot’s level for the spell’s level in the stat block.
+
+![GiantInsect](../../assets/wiki/statblock/GiantInsectstatblock.png)
 

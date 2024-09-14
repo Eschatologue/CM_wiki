@@ -3,9 +3,12 @@ icon: material/alpha-f-box
 ---
 
 # Spells (F)
-Fabricate
 
-Level 4 Transmutation (Wizard)
+---
+
+### Fabricate
+
+*Level 4 Transmutation (Wizard)*
 
 **Casting Time:** 10 minutes  
 **Range:** 120 feet  
@@ -18,9 +21,11 @@ Choose raw materials that you can see within range. You can fabricate a Large or
 
 Creatures and magic items can’t be created by this spell. You also can’t use it to create items that require a high degree of skill—such as weapons and armor—unless you have proficiency with the type of Artisan’s Tools used to craft such objects.
 
-Faerie Fire
+---
 
-Level 1 Evocation (Bard, Druid)
+### Faerie Fire
+
+*Level 1 Evocation (Bard, Druid)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  
@@ -31,9 +36,11 @@ Objects in a 20-foot Cube within range are outlined in blue, green, or violet li
 
 Attack rolls against an affected creature or object have Advantage if the attacker can see it.
 
-False Life
+---
 
-Level 1 Necromancy (Sorcerer, Wizard)
+### False Life
+
+*Level 1 Necromancy (Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Self  
@@ -44,9 +51,11 @@ You gain 2d4 + 4 Temporary Hit Points.
 
 ***Using a Higher-Level Spell Slot.*** You gain 5 additional Temporary Hit Points for each spell slot level above 1.
 
-Fear
+---
 
-Level 3 Illusion (Bard, Sorcerer, Warlock, Wizard)
+### Fear
+
+*Level 3 Illusion (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Self  
@@ -57,9 +66,11 @@ Each creature in a 30-foot Cone must succeed on a Wisdom saving throw or drop wh
 
 A Frightened creature takes the Dash action and moves away from you by the safest route on each of its turns unless there is nowhere to move. If the creature ends its turn in a space where it doesn’t have line of sight to you, the creature makes a Wisdom saving throw. On a successful save, the spell ends on that creature.
 
-Feather Fall
+---
 
-Level 1 Transmutation (Bard, Sorcerer, Wizard)
+### Feather Fall
+
+*Level 1 Transmutation (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** Reaction, which you take when you or a creature you can see within 60 feet of you falls  
 **Range:** 60 feet  
@@ -68,9 +79,11 @@ Level 1 Transmutation (Bard, Sorcerer, Wizard)
 
 Choose up to five falling creatures within range. A falling creature’s rate of descent slows to 60 feet per round until the spell ends. If a creature lands before the spell ends, the creature takes no damage from the fall, and the spell ends for that creature.
 
-Find Familiar
+---
 
-Level 1 Conjuration (Wizard)
+### Find Familiar
+
+*Level 1 Conjuration (Wizard)*
 
 **Casting Time:** 1 hour or Ritual  
 **Range:** 10 feet  
@@ -79,19 +92,21 @@ Level 1 Conjuration (Wizard)
 
 You gain the service of a familiar, a spirit that takes an animal form you choose: Bat, Cat, Frog, Hawk, Lizard, Octopus, Owl, Rat, Raven, Spider, Weasel, or another Beast that has a Challenge Rating of 0. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form (see appendix B), though it is a Celestial, Fey, or Fiend (your choice) instead of a Beast. Your familiar acts independently of you, but it obeys your commands.
 
-Telepathic Connection. While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as a Bonus Action, you can see through the familiar’s eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses it has.
+***Telepathic Connection.*** While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as a Bonus Action, you can see through the familiar’s eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses it has.
 
 Finally, when you cast a spell with a range of touch, your familiar can deliver the touch. Your familiar must be within 100 feet of you, and it must take a Reaction to deliver the touch when you cast the spell.
 
-Combat. The familiar is an ally to you and your allies. It rolls its own Initiative and acts on its own turn. A familiar can’t attack, but it can take other actions as normal.
+***Combat.*** The familiar is an ally to you and your allies. It rolls its own Initiative and acts on its own turn. A familiar can’t attack, but it can take other actions as normal.
 
-Disappearance of the Familiar. When the familiar drops to 0 Hit Points, it disappears. It reappears after you cast this spell again. As a Magic action, you can temporarily dismiss the familiar to a pocket dimension. Alternatively, you can dismiss it forever. As a Magic action while it is temporarily dismissed, you can cause it to reappear in an unoccupied space within 30 feet of you. Whenever the familiar drops to 0 Hit Points or disappears into the pocket dimension, it leaves behind in its space anything it was wearing or carrying.
+***Disappearance of the Familiar.*** When the familiar drops to 0 Hit Points, it disappears. It reappears after you cast this spell again. As a Magic action, you can temporarily dismiss the familiar to a pocket dimension. Alternatively, you can dismiss it forever. As a Magic action while it is temporarily dismissed, you can cause it to reappear in an unoccupied space within 30 feet of you. Whenever the familiar drops to 0 Hit Points or disappears into the pocket dimension, it leaves behind in its space anything it was wearing or carrying.
 
-One Familiar Only. You can’t have more than one familiar at a time. If you cast this spell while you have a familiar, you instead cause it to adopt a new eligible form.
+***One Familiar Only.*** You can’t have more than one familiar at a time. If you cast this spell while you have a familiar, you instead cause it to adopt a new eligible form.
 
-Find Steed
+---
 
-Level 2 Conjuration (Paladin)
+### Find Steed
+
+*Level 2 Conjuration (Paladin)*
 
 **Casting Time:** Action  
 **Range:** 30 feet
@@ -109,48 +124,13 @@ Disappearance of the Steed. The steed disappears if it drops to 0 Hit Points or 
 
 ***Using a Higher-Level Spell Slot.*** Use the spell slot’s level for the spell’s level in the stat block.
 
-Otherworldly Steed
-Large Celestial, Fey, or Fiend (Your Choice), Neutral
+![OtherworldlySteed](../../assets/wiki/statblock/OtherworldlySteedstatblock.png)
 
-AC 10 + 1 per spell level
+---
 
-HP 5 + 10 per spell level (the steed has a number of Hit Dice [d10s] equal to the spell’s level)
+### Find the Path
 
-Speed 60 ft., Fly 60 ft. (requires level 4+ spell)
-
-Mod	Save
-STR	18	+4	+4
-DEX	12	+1	+1
-CON	14	+2	+2
-Mod	Save
-INT	6	−2	−2
-WIS	12	+1	+1
-CHA	8	−1	−1
-Senses Passive Perception 11
-
-Languages Telepathy 1 mile (works only with you)
-
-CR None (XP 0; PB equals your Proficiency Bonus)
-
-Traits
-
-Life Bond. When you regain Hit Points from a level 1+ spell, the steed regains the same number of Hit Points if you’re within 5 feet of it.
-
-Actions
-
-Otherworldly Slam. Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d8 plus the spell’s level of Radiant (Celestial), Psychic (Fey), or Necrotic (Fiend) damage.
-
-Bonus Actions
-
-Fell Glare (Fiend Only; Recharges after a Long Rest). Wisdom Saving Throw: DC equals your spell save DC, one creature within 60 feet the steed can see. Failure: The target has the Frightened condition until the end of your next turn.
-
-Fey Step (Fey Only; Recharges after a Long Rest). The steed teleports, along with its rider, to an unoccupied space of your choice up to 60 feet away from itself.
-
-Healing Touch (Celestial Only; Recharges after a Long Rest). One creature within 5 feet of the steed regains a number of Hit Points equal to 2d8 plus the spell’s level.
-
-Find the Path
-
-Level 6 Divination (Bard, Cleric, Druid)
+*Level 6 Divination (Bard, Cleric, Druid)*
 
 **Casting Time:** 1 minute  
 **Range:** Self  
@@ -161,9 +141,11 @@ You magically sense the most direct physical route to a location you name. You m
 
 For the duration, as long as you are on the same plane of existence as the destination, you know how far it is and in what direction it lies. Whenever you face a choice of paths along the way there, you know which path is the most direct.
 
-Find Traps
+---
 
-Level 2 Divination (Cleric, Druid, Ranger)
+### Find Traps
+
+*Level 2 Divination (Cleric, Druid, Ranger)*
 
 **Casting Time:** Action  
 **Range:** 120 feet  
@@ -174,9 +156,11 @@ You sense any trap within range that is within line of sight. A trap, for the pu
 
 This spell reveals that a trap is present but not its location. You do learn the general nature of the danger posed by a trap you sense.
 
-Finger of Death
+---
 
-Level 7 Necromancy (Sorcerer, Warlock, Wizard)
+### Finger of Death
+
+*Level 7 Necromancy (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  
@@ -187,9 +171,11 @@ You unleash negative energy toward a creature you can see within range. The targ
 
 A Humanoid killed by this spell rises at the start of your next turn as a Zombie (see appendix B) that follows your verbal orders.
 
-Fireball
+---
 
-Level 3 Evocation (Sorcerer, Wizard)
+### Fireball
+
+*Level 3 Evocation (Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 150 feet  
@@ -202,8 +188,10 @@ Flammable objects in the area that aren’t being worn or carried start burning.
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 3.
 
-Fire Bolt
-Evocation Cantrip (Sorcerer, Wizard)
+---
+
+### Fire Bolt
+Evocation Cantrip (Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 120 feet  
@@ -212,11 +200,13 @@ Evocation Cantrip (Sorcerer, Wizard)
 
 You hurl a mote of fire at a creature or an object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 Fire damage. A flammable object hit by this spell starts burning if it isn’t being worn or carried.
 
-Cantrip Upgrade. The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10).
+***Cantrip Upgrade.***The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10).
 
-Fire Shield
+---
 
-Level 4 Evocation (Druid, Sorcerer, Wizard)
+### Fire Shield
+
+*Level 4 Evocation (Druid, Sorcerer, Wizard)
 
 **Casting Time:** Action  
 **Range:** Self  
@@ -229,9 +219,11 @@ The flames provide you with a warm shield or a chill shield, as you choose. The 
 
 In addition, whenever a creature within 5 feet of you hits you with a melee attack roll, the shield erupts with flame. The attacker takes 2d8 Fire damage from a warm shield or 2d8 Cold damage from a chill shield.
 
-Fire Storm
+---
 
-Level 7 Evocation (Cleric, Druid, Sorcerer)
+### Fire Storm
+
+*Level 7 Evocation (Cleric, Druid, Sorcerer)*
 
 **Casting Time:** Action  
 **Range:** 150 feet  
@@ -242,9 +234,11 @@ A storm of fire appears within range. The area of the storm consists of up to te
 
 Flammable objects in the area that aren’t being worn or carried start burning.
 
-Flame Blade
+---
 
-Level 2 Evocation (Druid, Sorcerer)
+### Flame Blade
+
+*Level 2 Evocation (Druid, Sorcerer)*
 
 **Casting Time:** Bonus Action  
 **Range:** Self  
@@ -259,9 +253,11 @@ The flaming blade sheds Bright Light in a 10-foot radius and Dim Light for an ad
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 2.
 
-Flame Strike
+---
 
-Level 5 Evocation (Cleric)
+### Flame Strike
+
+*Level 5 Evocation (Cleric)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  
@@ -272,9 +268,11 @@ A vertical column of brilliant fire roars down from above. Each creature in a 10
 
 ***Using a Higher-Level Spell Slot.*** The Fire damage and the Radiant damage increase by 1d6 for each spell slot level above 5.
 
-Flaming Sphere
+---
 
-Level 2 Conjuration (Druid, Sorcerer, Wizard)
+### Flaming Sphere
+
+*Level 2 Conjuration (Druid, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  
@@ -289,9 +287,11 @@ When you move the sphere, you can direct it over barriers up to 5 feet tall and 
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 2.
 
-Flesh to Stone
+---
 
-Level 6 Transmutation (Druid, Sorcerer, Wizard)
+### Flesh to Stone
+
+*Level 6 Transmutation (Druid, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  
@@ -304,9 +304,11 @@ A Restrained target makes another Constitution saving throw at the end of each o
 
 If you maintain your Concentration on this spell for the entire possible duration, the target is Petrified until the condition is ended by Greater Restoration or similar magic.
 
-Fly
+---
 
-Level 3 Transmutation (Sorcerer, Warlock, Wizard)
+### Fly
+
+*Level 3 Transmutation (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Touch  
@@ -317,9 +319,11 @@ You touch a willing creature. For the duration, the target gains a Fly Speed of 
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 3.
 
-Fog Cloud
+---
 
-Level 1 Conjuration (Druid, Ranger, Sorcerer, Wizard)
+### Fog Cloud
+
+*Level 1 Conjuration (Druid, Ranger, Sorcerer, Wizard)
 
 **Casting Time:** Action  
 **Range:** 120 feet  
@@ -330,9 +334,11 @@ You create a 20-foot-radius Sphere of fog centered on a point within range. The 
 
 ***Using a Higher-Level Spell Slot.*** The fog’s radius increases by 20 feet for each spell slot level above 1.
 
-Forbiddance
+---
 
-Level 6 Abjuration (Cleric)
+### Forbiddance
+
+*Level 6 Abjuration (Cleric)*
 
 **Casting Time:** 10 minutes or Ritual  
 **Range:** Touch  
@@ -347,9 +353,11 @@ You can designate a password when you cast the spell. A creature that speaks the
 
 The spell’s area can’t overlap with the area of another Forbiddance spell. If you cast Forbiddance every day for 30 days in the same location, the spell lasts until it is dispelled, and the Material components are consumed on the last casting.
 
-Forcecage
+---
 
-Level 7 Evocation (Bard, Warlock, Wizard)
+### Forcecage
+
+*Level 7 Evocation (Bard, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 100 feet  
@@ -366,9 +374,11 @@ A creature inside the cage can’t leave it by nonmagical means. If the creature
 
 This spell can’t be dispelled by Dispel Magic.
 
-Foresight
+---
 
-Level 9 Divination (Bard, Druid, Warlock, Wizard)
+### Foresight
+
+*Level 9 Divination (Bard, Druid, Warlock, Wizard)*
 
 **Casting Time:** 1 minute  
 **Range:** Touch  
@@ -377,9 +387,11 @@ Level 9 Divination (Bard, Druid, Warlock, Wizard)
 
 You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target has Advantage on D20 Tests, and other creatures have Disadvantage on attack rolls against it. The spell ends early if you cast it again.
 
-Freedom of Movement
+---
 
-Level 4 Abjuration (Bard, Cleric, Druid, Ranger)
+### Freedom of Movement
+
+*Level 4 Abjuration (Bard, Cleric, Druid, Ranger)*
 
 **Casting Time:** Action  
 **Range:** Touch  

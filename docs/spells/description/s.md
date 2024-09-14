@@ -13,7 +13,7 @@ Evocation Cantrip (Cleric)
 
 Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 Radiant damage. The target gains no benefit from Half Cover or Three-Quarters Cover for this save.
 
-Cantrip Upgrade. The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
+***Cantrip Upgrade.***The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
 Sanctuary
 
@@ -190,7 +190,7 @@ A Club or Quarterstaff you are holding is imbued with nature’s power. For the 
 
 The spell ends early if you cast it again or if you let go of the weapon.
 
-Cantrip Upgrade. The damage die changes when you reach levels 5 (d10), 11 (d12), and 17 (2d6).
+***Cantrip Upgrade.***The damage die changes when you reach levels 5 (d10), 11 (d12), and 17 (2d6).
 
 Shocking Grasp
 Evocation Cantrip (Sorcerer, Wizard)
@@ -202,7 +202,7 @@ Evocation Cantrip (Sorcerer, Wizard)
 
 Lightning springs from you to a creature that you try to touch. Make a melee spell attack against the target. On a hit, the target takes 1d8 Lightning damage, and it can’t make Opportunity Attacks until the start of its next turn.
 
-Cantrip Upgrade. The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
+***Cantrip Upgrade.***The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
 Silence
 
@@ -298,7 +298,7 @@ Necromancy Cantrip (Cleric, Druid)
 
 Choose a creature within range that has 0 Hit Points and isn’t dead. The creature becomes Stable.
 
-Cantrip Upgrade. The range doubles when you reach levels 5 (30 feet), 11 (60 feet), and 17 (120 feet).
+***Cantrip Upgrade.***The range doubles when you reach levels 5 (30 feet), 11 (60 feet), and 17 (120 feet).
 
 Speak with Animals
 
