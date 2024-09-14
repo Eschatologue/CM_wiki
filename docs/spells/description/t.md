@@ -36,17 +36,11 @@ You can exert fine control on objects with your telekinetic grip, such as manipu
 **Components:** V  
 **Duration:** Instantaneous
 
----
+This spell instantly transports you and up to eight willing creatures that you can see within range, or a single object that you can see within range, to a destination you select. If you target an object, it must be Large or smaller, and it can’t be held or carried by an unwilling creature.
 
-### This spell instantly transports you and up to eight willing creatures that you can see within range, or a single object that you can see within range, to a destination you select. If you target an object, it must be Large or smaller, and it can’t be held or carried by an unwilling creature.
+The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The DM rolls 1d100 and consults the Teleportation Outcome table and the explanations after it.
 
----
-
-### The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The DM rolls 1d100 and consults the Teleportation Outcome table and the explanations after it.
-
----
-
-### Teleportation Outcome
+##### Teleportation Outcome
 
 | Familiarity | Mishap | Similar Area | Off Target | On Target |
 |---|---|---|---|---|
@@ -209,17 +203,11 @@ An unwilling creature can make a Wisdom saving throw, and if it succeeds, it isn
 
 Creature into Creature. If you turn a creature into another kind of creature, the new form can be any kind you choose that has a Challenge Rating equal to or less than the target’s Challenge Rating or level. The target’s game statistics are replaced by the stat block of the new form, but it retains its Hit Points, Hit Point Dice, alignment, and personality.
 
----
+The target gains a number of Temporary Hit Points equal to the Hit Points of the new form. The spell ends early on the target if it has no Temporary Hit Points left.
 
-### The target gains a number of Temporary Hit Points equal to the Hit Points of the new form. The spell ends early on the target if it has no Temporary Hit Points left.
+The target is limited in the actions it can perform by the anatomy of its new form, and it can’t speak or cast spells.
 
----
-
-### The target is limited in the actions it can perform by the anatomy of its new form, and it can’t speak or cast spells.
-
----
-
-### The target’s gear melds into the new form. The creature can’t use or otherwise benefit from any of that equipment.
+The target’s gear melds into the new form. The creature can’t use or otherwise benefit from any of that equipment.
 
 Object into Creature. You can turn an object into any kind of creature, as long as the creature’s size is no larger than the object’s size and the creature has a Challenge Rating of 9 or lower. The creature is Friendly to you and your allies. In combat, it takes its turns immediately after yours, and it obeys your commands.
 

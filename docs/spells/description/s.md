@@ -462,6 +462,21 @@ As a Bonus Action on your later turns, you can move the force up to 20 feet and 
 
 ---
 
+### Steel Wind Strike
+
+*Level 5 Conjuration (Ranger, Wizard)*
+  
+**Casting Time:** Action  
+**Range:** 30 feet  
+**Components:** S, M (a melee weapon worth at least 1 sp)  
+**Duration:** Instantaneous
+
+You flourish the weapon used in the casting and then vanish to strike like the wind. Choose up to five creatures you can see within range. Make a melee spell attack against each target. On a hit, a target takes 6d10 force damage.
+
+You can then teleport to an unoccupied space you can see within 5 feet of one of the targets you hit or missed.
+
+---
+
 ### Stinking Cloud
 
 *Level 3 Conjuration (Bard, Sorcerer, Wizard)*
@@ -607,3 +622,18 @@ Once triggered, the glyph glows, filling a 60-foot-radius Sphere with Dim Light 
 ***Sleep.*** Each target must succeed on a Wisdom saving throw or have the Unconscious condition for 10 minutes. A creature awakens if it takes damage or if someone takes an action to shake it awake.
 
 ***Stunning.*** Each target must succeed on a Wisdom saving throw or have the Stunned condition for 1 minute.
+
+---
+
+### Synaptic Static
+
+*Level 5 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
+  
+**Casting Time:** Action  
+**Range:** 120 feet  
+**Components:** V, S  
+**Duration:** Instantaneous
+
+You choose a point within range and cause psychic energy to explode there. Each creature in a 20-foot-radius sphere centered on that point must make an Intelligence :d20-save: **Saving Throw**. A creature with an Intelligence score of 2 or lower can't be affected by this spell. A target takes 8d6 psychic damage on a failed save, or half as much damage on a successful one.
+
+After a failed save, a target has muddled thoughts for 1 minute. During that time, it rolls a d6 and subtracts the number rolled from all its :d20-attack: **Attack Rolls** and :d20-check: **Ability Checks**, as well as its Constitution :d20-save: **Saving Throws** to maintain concentration. The target can make an Intelligence :d20-save: **Saving Throw** at the end of each of its turns, ending the effect on itself on a success.

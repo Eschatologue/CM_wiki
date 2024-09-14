@@ -47,8 +47,7 @@ Any time you would be forced to make a Concentration due to taking damage, the D
 
 Through intense focus, training, and dedication, you've harnessed the techniques of rapid spellcasting.
 
-When you use your Bonus Action to cast a spell that expend a Spell Slot of Level 1 or higher, you can take a Magic action to cast another spell a that expend a Spell slot of Level 3 or lower.
-
+On a turn, when you expend a spell slot to cast a spell, you can still expend a level 3 spell slot or lower to cast another spell.
 ---
 
 ### Theurgy
