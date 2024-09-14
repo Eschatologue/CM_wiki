@@ -3,9 +3,12 @@ icon: material/alpha-l-box
 ---
 
 # Spells (R)
-Raise Dead
 
-Level 5 Necromancy (Bard, Cleric, Paladin)
+---
+
+### Raise Dead
+
+*Level 5 Necromancy (Bard, Cleric, Paladin)*
 
 **Casting Time:** 1 hour  
 **Range:** Touch  
@@ -20,9 +23,11 @@ This spell closes all mortal wounds, but it doesn’t restore missing body parts
 
 Coming back from the dead is an ordeal. The target takes a −4 penalty to D20 Tests. Every time the target finishes a Long Rest, the penalty is reduced by 1 until it becomes 0.
 
-Ray of Enfeeblement
+---
 
-Level 2 Necromancy (Warlock, Wizard)
+### Ray of Enfeeblement
+
+*Level 2 Necromancy (Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  
@@ -33,8 +38,10 @@ A beam of enervating energy shoots from you toward a creature within range. The 
 
 On a failed save, the target has Disadvantage on Strength-based D20 Tests for the duration. During that time, it also subtracts 1d8 from all its damage rolls. The target repeats the save at the end of each of its turns, ending the spell on a success.
 
-Ray of Frost
-Evocation Cantrip (Sorcerer, Wizard)
+---
+
+### Ray of Frost
+*Evocation Cantrip (Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  
@@ -45,9 +52,11 @@ A frigid beam of blue-white light streaks toward a creature within range. Make a
 
 ***Cantrip Upgrade.***The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
-Regenerate
+---
 
-Level 7 Transmutation (Bard, Cleric, Druid)
+### Regenerate
+
+*Level 7 Transmutation (Bard, Cleric, Druid)*
 
 **Casting Time:** 1 minute  
 **Range:** Touch  
@@ -56,9 +65,11 @@ Level 7 Transmutation (Bard, Cleric, Druid)
 
 A creature you touch regains 4d8 + 15 Hit Points. For the duration, the target regains 1 Hit Point at the start of each of its turns, and any severed body parts regrow after 2 minutes.
 
-Reincarnate
+---
 
-Level 5 Necromancy (Druid)
+### Reincarnate
+
+*Level 5 Necromancy (Druid)*
 
 **Casting Time:** 1 hour  
 **Range:** Touch  
@@ -82,9 +93,11 @@ You touch a dead Humanoid or a piece of one. If the creature has been dead no lo
 
 The reincarnated creature makes any choices that a species’ description offers, and the creature recalls its former life. It retains the capabilities it had in its original form, except it loses the traits of its previous species and gains the traits of its new one.
 
-Remove Curse
+---
 
-Level 3 Abjuration (Cleric, Paladin, Warlock, Wizard)
+### Remove Curse
+
+*Level 3 Abjuration (Cleric, Paladin, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Touch  
@@ -93,20 +106,24 @@ Level 3 Abjuration (Cleric, Paladin, Warlock, Wizard)
 
 At your touch, all curses affecting one creature or object end. If the object is a cursed magic item, its curse remains, but the spell breaks its owner’s Attunement to the object so it can be removed or discarded.
 
-Resistance
-Abjuration Cantrip (Cleric, Druid)
+---
+
+### Resistance
+
+*Abjuration Cantrip (Cleric, Druid)*
 
 **Casting Time:** Action  
-**Range:** Touch
-
-Component: V, S  
+**Range:** Touch  
+**Component:** V, S  
 **Duration:** Concentration, up to 1 minute
 
 You touch a willing creature and choose a damage type: Acid, Bludgeoning, Cold, Fire, Lightning, Necrotic, Piercing, Poison, Radiant, Slashing, or Thunder. When the creature takes damage of the chosen type before the spell ends, the creature reduces the total damage taken by 1d4. A creature can benefit from this spell only once per turn.
 
-Resurrection
+---
 
-Level 7 Necromancy (Bard, Cleric)
+### Resurrection
+
+*Level 7 Necromancy (Bard, Cleric)*
 
 **Casting Time:** 1 hour  
 **Range:** Touch  
@@ -121,9 +138,11 @@ Coming back from the dead is an ordeal. The target takes a −4 penalty to D20 T
 
 Casting this spell to revive a creature that has been dead for 365 days or longer taxes you. Until you finish a Long Rest, you can’t cast spells again, and you have Disadvantage on D20 Tests.
 
-Reverse Gravity
+---
 
-Level 7 Transmutation (Druid, Sorcerer, Wizard)
+### Reverse Gravity
+
+*Level 7 Transmutation (Druid, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 100 feet  
@@ -134,9 +153,11 @@ This spell reverses gravity in a 50-foot-radius, 100-foot high Cylinder centered
 
 If a ceiling or an anchored object is encountered in this upward fall, creatures and objects strike it just as they would during a downward fall. If an affected creature or object reaches the Cylinder’s top without striking anything, it hovers there for the duration. When the spell ends, affected objects and creatures fall downward.
 
-Revivify
+---
 
-Level 3 Necromancy (Cleric, Druid, Paladin, Ranger)
+### Revivify
+
+*Level 3 Necromancy (Cleric, Druid, Paladin, Ranger)*
 
 **Casting Time:** Action  
 **Range:** Touch  
@@ -145,9 +166,11 @@ Level 3 Necromancy (Cleric, Druid, Paladin, Ranger)
 
 You touch a creature that has died within the last minute. That creature revives with 1 Hit Point. This spell can’t revive a creature that has died of old age, nor does it restore any missing body parts.
 
-Rope Trick
+---
 
-Level 2 Transmutation (Wizard)
+### Rope Trick
+
+*Level 2 Transmutation (Wizard)*
 
 **Casting Time:** Action  
 **Range:** Touch  

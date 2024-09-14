@@ -3,8 +3,11 @@ icon: material/alpha-s-box
 ---
 
 # Spells (S)
-Sacred Flame
-Evocation Cantrip (Cleric)
+
+---
+
+### Sacred Flame
+*Evocation Cantrip (Cleric)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  
@@ -15,9 +18,11 @@ Flame-like radiance descends on a creature that you can see within range. The ta
 
 ***Cantrip Upgrade.***The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
-Sanctuary
+---
 
-Level 1 Abjuration (Cleric)
+### Sanctuary
+
+*Level 1 Abjuration (Cleric)*
 
 **Casting Time:** Bonus Action  
 **Range:** 30 feet  
@@ -28,9 +33,11 @@ You ward a creature within range. Until the spell ends, any creature who targets
 
 The spell ends if the warded creature makes an attack roll, casts a spell, or deals damage.
 
-Scorching Ray
+---
 
-Level 2 Evocation (Sorcerer, Wizard)
+### Scorching Ray
+
+*Level 2 Evocation (Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 120 feet  
@@ -41,9 +48,11 @@ You hurl three fiery rays. You can hurl them at one target within range or at se
 
 ***Using a Higher-Level Spell Slot.*** You create one additional ray for each spell slot level above 2.
 
-Scrying
+---
 
-Level 5 Divination (Bard, Cleric, Druid, Warlock, Wizard)
+### Scrying
+
+*Level 5 Divination (Bard, Cleric, Druid, Warlock, Wizard)*
 
 **Casting Time:** 10 minutes  
 **Range:** Self  
@@ -52,23 +61,27 @@ Level 5 Divination (Bard, Cleric, Druid, Warlock, Wizard)
 
 You can see and hear a creature you choose that is on the same plane of existence as you. The target makes a Wisdom saving throw, which is modified (see the tables below) by how well you know the target and the sort of physical connection you have to it. The target doesn’t know what it is making the save against, only that it feels uneasy.
 
-Your Knowledge of the Target Is...	Save Modifier
-Secondhand (heard of the target)	+5
-Firsthand (met the target)	+0
-Extensive (know the target well)	−5
-You Have the Target’s...	Save Modifier
-Picture or other likeness	−2
-Garment or other possession	−4
-Body part, lock of hair, or bit of nail	−10
+| Your Knowledge of the Target Is... | Save Modifier |
+|---|---|
+| Secondhand (heard of the target) | +5 |
+| Firsthand (met the target) | +0 |
+| Extensive (know the target well) | −5 |
+| You Have the Target’s... | Save Modifier |
+| Picture or other likeness | −2 |
+| Garment or other possession | −4 |
+| Body part, lock of hair, or bit of nail | −10 |
+
 On a successful save, the target isn’t affected, and you can’t use this spell on it again for 24 hours.
 
 On a failed save, the spell creates an Invisible, intangible sensor within 10 feet of the target. You can see and hear through the sensor as if you were there. The sensor moves with the target, remaining within 10 feet of it for the duration. If something can see the sensor, it appears as a luminous orb about the size of your fist.
 
 Instead of targeting a creature, you can target a location you have seen. When you do so, the sensor appears at that location and doesn’t move.
 
-See Invisibility
+---
 
-Level 2 Divination (Bard, Sorcerer, Wizard)
+### See Invisibility
+
+*Level 2 Divination (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Self  
@@ -77,9 +90,11 @@ Level 2 Divination (Bard, Sorcerer, Wizard)
 
 For the duration, you see creatures and objects that have the Invisible condition as if they were visible, and you can see into the Ethereal Plane. Creatures and objects there appear ghostly.
 
-Seeming
+---
 
-Level 5 Illusion (Bard, Sorcerer, Wizard)
+### Seeming
+
+*Level 5 Illusion (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 30 feet  
@@ -94,9 +109,11 @@ The changes wrought by this spell fail to hold up to physical inspection. For ex
 
 A creature that takes the Study action to examine a target can make an Intelligence (Investigation) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
 
-Sending
+---
 
-Level 3 Divination (Bard, Cleric, Wizard)
+### Sending
+
+*Level 3 Divination (Bard, Cleric, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Unlimited  
@@ -109,9 +126,11 @@ You can send the message across any distance and even to other planes of existen
 
 Upon receiving your message, a creature can block your ability to reach it again with this spell for 8 hours. If you try to send another message during that time, you learn that you are blocked, and the spell fails.
 
-Sequester
+---
 
-Level 7 Transmutation (Wizard)
+### Sequester
+
+*Level 7 Transmutation (Wizard)*
 
 **Casting Time:** Action  
 **Range:** Touch  
@@ -124,9 +143,11 @@ If the target is a creature, it enters a state of suspended animation; it has th
 
 You can set a condition for the spell to end early. The condition can be anything you choose, but it must occur or be visible within 1 mile of the target. Examples include “after 1,000 years” or “when the tarrasque awakens.” This spell also ends if the target takes any damage.
 
-Shapechange
+---
 
-Level 9 Transmutation (Druid, Wizard)
+### Shapechange
+
+*Level 9 Transmutation (Druid, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Self  
@@ -141,9 +162,11 @@ Your game statistics are replaced by the stat block of the chosen form, but you 
 
 Upon shape-shifting, you determine whether your equipment drops to the ground or changes in size and shape to fit the new form while you’re in it.
 
-Shatter
+---
 
-Level 2 Evocation (Bard, Sorcerer, Wizard)
+### Shatter
+
+*Level 2 Evocation (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  
@@ -156,9 +179,11 @@ A nonmagical object that isn’t being worn or carried also takes the damage if 
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 2.
 
-Shield
+---
 
-Level 1 Abjuration (Sorcerer, Wizard)
+### Shield
+
+*Level 1 Abjuration (Sorcerer, Wizard)*
 
 **Casting Time:** Reaction, which you take when you are hit by an attack roll or targeted by the Magic Missile spell  
 **Range:** Self  
@@ -167,9 +192,11 @@ Level 1 Abjuration (Sorcerer, Wizard)
 
 An imperceptible barrier of magical force protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from Magic Missile.
 
-Shield of Faith
+---
 
-Level 1 Abjuration (Cleric, Paladin)
+### Shield of Faith
+
+*Level 1 Abjuration (Cleric, Paladin)*
 
 **Casting Time:** Bonus Action  
 **Range:** 60 feet  
@@ -178,8 +205,11 @@ Level 1 Abjuration (Cleric, Paladin)
 
 A shimmering field surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
 
-Shillelagh
-Transmutation Cantrip (Druid)
+---
+
+### Shillelagh
+
+*Transmutation Cantrip (Druid)*
 
 **Casting Time:** Bonus Action  
 **Range:** Self  
@@ -192,8 +222,11 @@ The spell ends early if you cast it again or if you let go of the weapon.
 
 ***Cantrip Upgrade.***The damage die changes when you reach levels 5 (d10), 11 (d12), and 17 (2d6).
 
-Shocking Grasp
-Evocation Cantrip (Sorcerer, Wizard)
+---
+
+### Shocking Grasp
+
+*Evocation Cantrip (Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Touch  
@@ -204,9 +237,11 @@ Lightning springs from you to a creature that you try to touch. Make a melee spe
 
 ***Cantrip Upgrade.***The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
-Silence
+---
 
-Level 2 Illusion (Bard, Cleric, Ranger)
+### Silence
+
+*Level 2 Illusion (Bard, Cleric, Ranger)*
 
 **Casting Time:** Action or Ritual  
 **Range:** 120 feet  
@@ -215,9 +250,11 @@ Level 2 Illusion (Bard, Cleric, Ranger)
 
 For the duration, no sound can be created within or pass through a 20-foot-radius Sphere centered on a point you choose within range. Any creature or object entirely inside the Sphere has Immunity to Thunder damage, and creatures have the Deafened condition while entirely inside it. Casting a spell that includes a Verbal component is impossible there.
 
-Silent Image
+---
 
-Level 1 Illusion (Bard, Sorcerer, Wizard)
+### Silent Image
+
+*Level 1 Illusion (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  
@@ -230,9 +267,11 @@ As a Magic action, you can cause the image to move to any spot within range. As 
 
 Physical interaction with the image reveals it to be an illusion, since things can pass through it. A creature that takes a Study action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image.
 
-Simulacrum
+---
 
-Level 7 Illusion (Wizard)
+### Simulacrum
+
+*Level 7 Illusion (Wizard)*
 
 **Casting Time:** 12 hours  
 **Range:** Touch  
@@ -247,9 +286,11 @@ If the simulacrum takes damage, the only way to restore its Hit Points is to rep
 
 The simulacrum lasts until it drops to 0 Hit Points, at which point it reverts to snow and melts away. If you cast this spell again, any simulacrum you created with this spell is instantly destroyed.
 
-Sleep
+---
 
-Level 1 Enchantment (Bard, Sorcerer, Wizard)
+### Sleep
+
+*Level 1 Enchantment (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  
@@ -260,9 +301,11 @@ Each creature of your choice in a 5-foot-radius Sphere centered on a point withi
 
 Creatures that don’t sleep, such as elves, or that have Immunity to the Exhaustion condition automatically succeed on saves against this spell.
 
-Sleet Storm
+---
 
-Level 3 Conjuration (Druid, Sorcerer, Wizard)
+### Sleet Storm
+
+*Level 3 Conjuration (Druid, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 150 feet  
@@ -273,9 +316,11 @@ Until the spell ends, sleet falls in a 40-foot-tall, 20-foot-radius Cylinder cen
 
 Ground in the Cylinder is Difficult Terrain. When a creature enters the Cylinder for the first time on a turn or starts its turn there, it must succeed on a Dexterity saving throw or have the Prone condition and lose Concentration.
 
-Slow
+---
 
-Level 3 Transmutation (Bard, Sorcerer, Wizard)
+### Slow
+
+*Level 3 Transmutation (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 120 feet  
@@ -288,7 +333,9 @@ An affected target’s Speed is halved, it takes a −2 penalty to AC and Dexter
 
 An affected target repeats the save at the end of each of its turns, ending the spell on itself on a success.
 
-Spare the Dying
+---
+
+### Spare the Dying
 Necromancy Cantrip (Cleric, Druid)
 
 **Casting Time:** Action  
@@ -300,9 +347,11 @@ Choose a creature within range that has 0 Hit Points and isn’t dead. The creat
 
 ***Cantrip Upgrade.***The range doubles when you reach levels 5 (30 feet), 11 (60 feet), and 17 (120 feet).
 
-Speak with Animals
+---
 
-Level 1 Divination (Bard, Druid, Ranger, Warlock)
+### Speak with Animals
+
+*Level 1 Divination (Bard, Druid, Ranger, Warlock)*
 
 **Casting Time:** Action or Ritual  
 **Range:** Self  
@@ -313,9 +362,11 @@ For the duration, you can comprehend and verbally communicate with Beasts, and y
 
 Most Beasts have little to say about topics that don’t pertain to survival or companionship, but at minimum, a Beast can give you information about nearby locations and monsters, including whatever it has perceived within the past day.
 
-Speak with Dead
+---
 
-Level 3 Necromancy (Bard, Cleric, Wizard)
+### Speak with Dead
+
+*Level 3 Necromancy (Bard, Cleric, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 10 feet  
@@ -326,9 +377,11 @@ You grant the semblance of life to a corpse of your choice within range, allowin
 
 Until the spell ends, you can ask the corpse up to five questions. The corpse knows only what it knew in life, including the languages it knew. Answers are usually brief, cryptic, or repetitive, and the corpse is under no compulsion to offer a truthful answer if you are antagonistic toward it or it recognizes you as an enemy. This spell doesn’t return the creature’s soul to its body, only its animating spirit. Thus, the corpse can’t learn new information, doesn’t comprehend anything that has happened since it died, and can’t speculate about future events.
 
-Speak with Plants
+---
 
-Level 3 Transmutation (Bard, Druid, Ranger)
+### Speak with Plants
+
+*Level 3 Transmutation (Bard, Druid, Ranger)*
 
 **Casting Time:** Action  
 **Range:** Self  
@@ -343,9 +396,11 @@ The spell doesn’t enable plants to uproot themselves and move about, but they 
 
 If a Plant creature is in the area, you can communicate with it as if you shared a common language.
 
-Spider Climb
+---
 
-Level 2 Transmutation (Sorcerer, Warlock, Wizard)
+### Spider Climb
+
+*Level 2 Transmutation (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Touch  
@@ -356,9 +411,11 @@ Until the spell ends, one willing creature you touch gains the ability to move u
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level about 2.
 
-Spike Growth
+---
 
-Level 2 Transmutation (Druid, Ranger)
+### Spike Growth
+
+*Level 2 Transmutation (Druid, Ranger)*
 
 **Casting Time:** Action  
 **Range:** 150 feet  
@@ -369,9 +426,11 @@ The ground in a 20-foot-radius Sphere centered on a point within range sprouts h
 
 The transformation of the ground is camouflaged to look natural. Any creature that can’t see the area when the spell is cast must take a Search action and succeed on a Wisdom (Perception or Survival) check against your spell save DC to recognize the terrain as hazardous before entering it.
 
-Spirit Guardians
+---
 
-Level 3 Conjuration (Cleric)
+### Spirit Guardians
+
+*Level 3 Conjuration (Cleric)*
 
 **Casting Time:** Action  
 **Range:** Self  
@@ -384,9 +443,11 @@ When you cast this spell, you can designate creatures to be unaffected by it. An
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 3.
 
-Spiritual Weapon
+---
 
-Level 2 Evocation (Cleric)
+### Spiritual Weapon
+
+*Level 2 Evocation (Cleric)*
 
 **Casting Time:** Bonus Action  
 **Range:** 60 feet  
@@ -399,9 +460,11 @@ As a Bonus Action on your later turns, you can move the force up to 20 feet and 
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for every slot level above 2.
 
-Stinking Cloud
+---
 
-Level 3 Conjuration (Bard, Sorcerer, Wizard)
+### Stinking Cloud
+
+*Level 3 Conjuration (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 90 feet  
@@ -412,9 +475,11 @@ You create a 20-foot-radius Sphere of yellow, nauseating gas centered on a point
 
 Each creature that starts its turn in the Sphere must succeed on a Constitution saving throw or have the Poisoned condition until the end of the current turn. While Poisoned in this way, the creature can’t take an action or a Bonus Action.
 
-Stone Shape
+---
 
-Level 4 Transmutation (Cleric, Druid, Wizard)
+### Stone Shape
+
+*Level 4 Transmutation (Cleric, Druid, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Touch  
@@ -423,9 +488,11 @@ Level 4 Transmutation (Cleric, Druid, Wizard)
 
 You touch a stone object of Medium size or smaller or a section of stone no more than 5 feet in any dimension and form it into any shape you like. For example, you could shape a large rock into a weapon, statue, or coffer, or you could make a small passage through a wall that is 5 feet thick. You could also shape a stone door or its frame to seal the door shut. The object you create can have up to two hinges and a latch, but finer mechanical detail isn’t possible.
 
-Stoneskin
+---
 
-Level 4 Transmutation (Druid, Ranger, Sorcerer, Wizard)
+### Stoneskin
+
+*Level 4 Transmutation (Druid, Ranger, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Touch  
@@ -434,9 +501,11 @@ Level 4 Transmutation (Druid, Ranger, Sorcerer, Wizard)
 
 Until the spell ends, one willing creature you touch has Resistance to Bludgeoning, Piercing, and Slashing damage.
 
-Storm of Vengeance
+---
 
-Level 9 Conjuration (Druid)
+### Storm of Vengeance
+
+*Level 9 Conjuration (Druid)*
 
 **Casting Time:** Action  
 **Range:** 1 mile  
@@ -455,9 +524,11 @@ Turn 4. Hailstones rain down. Each creature under the cloud takes 2d6 Bludgeonin
 
 Turns 5–10. Gusts and freezing rain assail the area under the cloud. Each creature there takes 1d6 Cold damage. Until the spell ends, the area is Difficult Terrain and Heavily Obscured, ranged attacks with weapons are impossible there, and strong wind blows through the area.
 
-Suggestion
+---
 
-Level 2 Enchantment (Bard, Sorcerer, Warlock, Wizard)
+### Suggestion
+
+*Level 2 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 30 feet  
@@ -468,9 +539,11 @@ You suggest a course of activity—described in no more than 25 words—to one c
 
 The target must succeed on a Wisdom saving throw or have the Charmed condition for the duration or until you or your allies deal damage to the target. The Charmed target pursues the suggestion to the best of its ability. The suggested activity can continue for the entire duration, but if the suggested activity can be completed in a shorter time, the spell ends for the target upon completing it.
 
-Sunbeam
+---
 
-Level 6 Evocation (Cleric, Druid, Sorcerer, Wizard)
+### Sunbeam
+
+*Level 6 Evocation (Cleric, Druid, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Self  
@@ -483,9 +556,11 @@ Until the spell ends, you can take a Magic action to create a new Line of radian
 
 For the duration, a mote of brilliant radiance shines above you. It sheds Bright Light in a 30-foot radius and Dim Light for an additional 30 feet. This light is sunlight.
 
-Sunburst
+---
 
-Level 8 Evocation (Cleric, Druid, Sorcerer, Wizard)
+### Sunburst
+
+*Level 8 Evocation (Cleric, Druid, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 150 feet  
@@ -498,9 +573,11 @@ A creature Blinded by this spell makes another Constitution saving throw at the 
 
 This spell dispels Darkness in its area that was created by any spell.
 
-Symbol
+---
 
-Level 7 Abjuration (Bard, Cleric, Druid, Wizard)
+### Symbol
+
+*Level 7 Abjuration (Bard, Cleric, Druid, Wizard)*
 
 **Casting Time:** 1 minute  
 **Range:** Touch  
@@ -513,20 +590,20 @@ The glyph is nearly imperceptible and requires a successful Wisdom (Perception) 
 
 When you inscribe the glyph, you set its trigger and choose which effect the symbol bears: Death, Discord, Fear, Pain, Sleep, or Stunning. Each one is explained below.
 
-Set the Trigger. You decide what triggers the glyph when you cast the spell. For glyphs inscribed on a surface, common triggers include touching or stepping on the glyph, removing another object covering it, or approaching within a certain distance of it. For glyphs inscribed within an object, common triggers include opening that object or seeing the glyph.
+***Set the Trigger.*** You decide what triggers the glyph when you cast the spell. For glyphs inscribed on a surface, common triggers include touching or stepping on the glyph, removing another object covering it, or approaching within a certain distance of it. For glyphs inscribed within an object, common triggers include opening that object or seeing the glyph.
 
 You can refine the trigger so that only creatures of certain types activate it (for example, the glyph could be set to affect Aberrations). You can also set conditions for creatures that don’t trigger the glyph, such as those who say a certain password.
 
 Once triggered, the glyph glows, filling a 60-foot-radius Sphere with Dim Light for 10 minutes, after which time the spell ends. Each creature in the Sphere when the glyph activates is targeted by its effect, as is a creature that enters the Sphere for the first time on a turn or ends its turn there. A creature is targeted only once per turn.
 
-Death. Each target makes a Constitution saving throw, taking 10d10 Necrotic damage on a failed save or half as much damage on a successful save.
+***Death.*** Each target makes a Constitution saving throw, taking 10d10 Necrotic damage on a failed save or half as much damage on a successful save.
 
-Discord. Each target makes a Wisdom saving throw. On a failed save, a target argues with other creatures for 1 minute. During this time, it is incapable of meaningful communication and has Disadvantage on attack rolls and ability checks.
+***Discord.*** Each target makes a Wisdom saving throw. On a failed save, a target argues with other creatures for 1 minute. During this time, it is incapable of meaningful communication and has Disadvantage on attack rolls and ability checks.
 
-Fear. Each target must succeed on a Wisdom saving throw or have the Frightened condition for 1 minute. While Frightened, the target must move at least 30 feet away from the glyph on each of its turns, if able.
+***Fear.*** Each target must succeed on a Wisdom saving throw or have the Frightened condition for 1 minute. While Frightened, the target must move at least 30 feet away from the glyph on each of its turns, if able.
 
-Pain. Each target must succeed on a Constitution saving throw or have the Incapacitated condition for 1 minute.
+***Pain.*** Each target must succeed on a Constitution saving throw or have the Incapacitated condition for 1 minute.
 
-Sleep. Each target must succeed on a Wisdom saving throw or have the Unconscious condition for 10 minutes. A creature awakens if it takes damage or if someone takes an action to shake it awake.
+***Sleep.*** Each target must succeed on a Wisdom saving throw or have the Unconscious condition for 10 minutes. A creature awakens if it takes damage or if someone takes an action to shake it awake.
 
-Stunning. Each target must succeed on a Wisdom saving throw or have the Stunned condition for 1 minute.
+***Stunning.*** Each target must succeed on a Wisdom saving throw or have the Stunned condition for 1 minute.

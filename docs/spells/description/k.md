@@ -3,9 +3,12 @@ icon: material/alpha-k-box
 ---
 
 # Spells (K)
-Knock
 
-Level 2 Transmutation (Bard, Sorcerer, Wizard)
+---
+
+### Knock
+
+*Level 2 Transmutation (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  

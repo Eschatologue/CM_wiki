@@ -4,9 +4,11 @@ icon: material/alpha-j-box
 
 # Spells (J)
 
-Jump
+---
 
-Level 1 Transmutation (Druid, Ranger, Sorcerer, Wizard)
+### Jump
+
+*Level 1 Transmutation (Druid, Ranger, Sorcerer, Wizard)*
 
 **Casting Time:** Bonus Action  
 **Range:** Touch

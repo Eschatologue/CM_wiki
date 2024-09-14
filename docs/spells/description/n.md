@@ -3,9 +3,12 @@ icon: material/alpha-n-box
 ---
 
 # Spells (N)
-Nondetection
 
-Level 3 Abjuration (Bard, Ranger, Wizard)
+---
+
+### Nondetection
+
+*Level 3 Abjuration (Bard, Ranger, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Touch  

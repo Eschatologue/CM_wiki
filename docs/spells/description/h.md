@@ -3,9 +3,12 @@ icon: material/alpha-h-box
 ---
 
 # Spells (H)
-Hallow
 
-Level 5 Abjuration (Cleric)
+---
+
+### Hallow
+
+*Level 5 Abjuration (Cleric)*
 
 **Casting Time:** 24 hours  
 **Range:** Touch  
@@ -14,33 +17,26 @@ Level 5 Abjuration (Cleric)
 
 You touch a point and infuse an area around it with holy or unholy power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect of Hallow. The affected area has the following effects.
 
-Hallowed Ward. Choose any of these creature types: Aberration, Celestial, Elemental, Fey, Fiend, or Undead. Creatures of the chosen types can’t willingly enter the area, and any creature that is possessed by or that has the Charmed or Frightened condition from such creatures isn’t possessed, Charmed, or Frightened by them while in the area.
+***Hallowed Ward.*** Choose any of these creature types: Aberration, Celestial, Elemental, Fey, Fiend, or Undead. Creatures of the chosen types can’t willingly enter the area, and any creature that is possessed by or that has the Charmed or Frightened condition from such creatures isn’t possessed, Charmed, or Frightened by them while in the area.
 
-Extra Effect. You bind an extra effect to the area from the list below:
+***Extra Effect.*** You bind an extra effect to the area from the list below:
 
-Courage. Creatures of any types you choose can’t gain the Frightened condition while in the area.
+- ***Courage.*** Creatures of any types you choose can’t gain the Frightened condition while in the area.
+- ***Darkness.*** Darkness fills the area. Normal light, as well as magical light created by spells of a level lower than this spell, can’t illuminate the area.
+- ***Daylight.*** Bright light fills the area. Magical Darkness created by spells of a level lower than this spell can’t extinguish the light.
+- ***Peaceful Rest.*** Dead bodies interred in the area can’t be turned into Undead.
+- ***Extradimensional Interference.*** Creatures of any types you choose can’t enter or exit the area using teleportation or interplanar travel.
+- ***Fear.*** Creatures of any types you choose have the Frightened condition while in the area.
+- ***Resistance.*** Creatures of any types you choose have Resistance to one damage type of your choice while in the area.
+- ***Silence.*** No sound can emanate from within the area, and no sound can reach into it.
+- ***Tongues.*** Creatures of any types you choose can communicate with any other creature in the area even if they don’t share a common language.
+- ***Vulnerability.*** Creatures of any types you choose have Vulnerability to one damage type of your choice while in the area.
 
-Darkness. Darkness fills the area. Normal light, as well as magical light created by spells of a level lower than this spell, can’t illuminate the area.
+---
 
-Daylight. Bright light fills the area. Magical Darkness created by spells of a level lower than this spell can’t extinguish the light.
+### Hallucinatory Terrain
 
-Peaceful Rest. Dead bodies interred in the area can’t be turned into Undead.
-
-Extradimensional Interference. Creatures of any types you choose can’t enter or exit the area using teleportation or interplanar travel.
-
-Fear. Creatures of any types you choose have the Frightened condition while in the area.
-
-Resistance. Creatures of any types you choose have Resistance to one damage type of your choice while in the area.
-
-Silence. No sound can emanate from within the area, and no sound can reach into it.
-
-Tongues. Creatures of any types you choose can communicate with any other creature in the area even if they don’t share a common language.
-
-Vulnerability. Creatures of any types you choose have Vulnerability to one damage type of your choice while in the area.
-
-Hallucinatory Terrain
-
-Level 4 Illusion (Bard, Druid, Warlock, Wizard)
+*Level 4 Illusion (Bard, Druid, Warlock, Wizard)*
 
 **Casting Time:** 10 minutes  
 **Range:** 300 feet  
@@ -51,9 +47,11 @@ You make natural terrain in a 150-foot Cube in range look, sound, and smell like
 
 The tactile characteristics of the terrain are unchanged, so creatures entering the area are likely to notice the illusion. If the difference isn’t obvious by touch, a creature examining the illusion can take the Study action to make an Intelligence (Investigation) check against your spell save DC to disbelieve it. If a creature discerns that the terrain is illusory, the creature sees a vague image superimposed on the real terrain.
 
-Harm
+---
 
-Level 6 Necromancy (Cleric)
+### Harm
+
+*Level 6 Necromancy (Cleric)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  
@@ -62,9 +60,11 @@ Level 6 Necromancy (Cleric)
 
 You unleash virulent magic on a creature you can see within range. The target makes a Constitution saving throw. On a failed save, it takes 14d6 Necrotic damage, and its Hit Point maximum is reduced by an amount equal to the Necrotic damage it took. On a successful save, it takes half as much damage only. This spell can’t reduce a target’s Hit Point maximum below 1.
 
-Haste
+---
 
-Level 3 Transmutation (Sorcerer, Wizard)
+### Haste
+
+*Level 3 Transmutation (Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 30 feet  
@@ -75,9 +75,11 @@ Choose a willing creature that you can see within range. Until the spell ends, t
 
 When the spell ends, the target is Incapacitated and has a Speed of 0 until the end of its next turn, as a wave of lethargy washes over it.
 
-Heal
+---
 
-Level 6 Abjuration (Cleric, Druid)
+### Heal
+
+*Level 6 Abjuration (Cleric, Druid)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  
@@ -88,9 +90,11 @@ Choose a creature that you can see within range. Positive energy washes through 
 
 ***Using a Higher-Level Spell Slot.*** The healing increases by 10 for each spell slot level above 6.
 
-Healing Word
+---
 
-Level 1 Abjuration (Bard, Cleric, Druid)
+### Healing Word
+
+*Level 1 Abjuration (Bard, Cleric, Druid)*
 
 **Casting Time:** Bonus Action  
 **Range:** 60 feet  
@@ -101,9 +105,11 @@ A creature of your choice that you can see within range regains Hit Points equal
 
 ***Using a Higher-Level Spell Slot.*** The healing increases by 2d4 for each spell slot level above 1.
 
-Heat Metal
+---
 
-Level 2 Transmutation (Bard, Druid)
+### Heat Metal
+
+*Level 2 Transmutation (Bard, Druid)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  
@@ -116,9 +122,11 @@ If a creature is holding or wearing the object and takes the damage from it, the
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 2.
 
-Hellish Rebuke
+---
 
-Level 1 Evocation (Warlock)
+### Hellish Rebuke
+
+*Level 1 Evocation (Warlock)*
 
 **Casting Time:** Reaction, which you take in response to taking damage from a creature that you can see within 60 feet of yourself  
 **Range:** 60 feet  
@@ -129,9 +137,11 @@ The creature that damaged you is momentarily surrounded by green flames. It make
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d10 for each spell slot level above 1.
 
-Heroes’ Feast
+---
 
-Level 6 Conjuration (Bard, Cleric, Druid)
+### Heroes’ Feast
+
+*Level 6 Conjuration (Bard, Cleric, Druid)*
 
 **Casting Time:** 10 minutes  
 **Range:** Self  
@@ -142,9 +152,11 @@ You conjure a feast that appears on a surface in an unoccupied 10-foot Cube next
 
 A creature that partakes gains several benefits, which last for 24 hours. The creature has Resistance to Poison damage, and it has Immunity to the Frightened and Poisoned conditions. Its Hit Point maximum also increases by 2d10, and it gains the same number of Hit Points.
 
-Heroism
+---
 
-Level 1 Enchantment (Bard, Paladin)
+### Heroism
+
+*Level 1 Enchantment (Bard, Paladin)*
 
 **Casting Time:** Action  
 **Range:** Touch  
@@ -155,9 +167,11 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 1.
 
-Hold Monster
+---
 
-Level 5 Enchantment (Bard, Sorcerer, Warlock, Wizard)
+### Hold Monster
+
+*Level 5 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 90 feet  
@@ -168,9 +182,11 @@ Choose a creature that you can see within range. The target must succeed on a Wi
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 5.
 
-Hold Person
+---
 
-Level 2 Enchantment (Bard, Cleric, Druid, Sorcerer, Warlock, Wizard)
+### Hold Person
+
+*Level 2 Enchantment (Bard, Cleric, Druid, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  
@@ -181,9 +197,11 @@ Choose a Humanoid that you can see within range. The target must succeed on a Wi
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional Humanoid for each spell slot level above 2.
 
-Holy Aura
+---
 
-Level 8 Abjuration (Cleric)
+### Holy Aura
+
+*Level 8 Abjuration (Cleric)*
 
 **Casting Time:** Action  
 **Range:** Self  
@@ -192,9 +210,11 @@ Level 8 Abjuration (Cleric)
 
 For the duration, you emit an aura in a 30-foot Emanation. While in the aura, creatures of your choice have Advantage on all saving throws, and other creatures have Disadvantage on attack rolls against them. In addition, when a Fiend or an Undead hits an affected creature with a melee attack roll, the attacker must succeed on a Constitution saving throw or have the Blinded condition until the end of its next turn.
 
-Hunter’s Mark
+---
 
-Level 1 Divination (Ranger)
+### Hunter’s Mark
+
+*Level 1 Divination (Ranger)*
 
 **Casting Time:** Bonus Action  
 **Range:** 90 feet  
@@ -205,11 +225,13 @@ You magically mark one creature you can see within range as your quarry. Until t
 
 If the target drops to 0 Hit Points before this spell ends, you can take a Bonus Action to move the mark to a new creature you can see within range.
 
-***Using a Higher-Level Spell Slot.*** Your Concentration can last longer with a spell slot of level 3–4 (up to 8 hours) or 5+ (up to 24 hours).
+***Using a Higher-*Level Spell Slot.*** Your Concentration can last longer with a spell slot of level 3–4 (up to 8 hours) or 5+ (up to 24 hours)*.
 
-Hypnotic Pattern
+---
 
-Level 3 Illusion (Bard, Sorcerer, Warlock, Wizard)
+### Hypnotic Pattern
+
+*Level 3 Illusion (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 120 feet  

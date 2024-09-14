@@ -4,9 +4,11 @@ icon: material/alpha-i-box
 
 # Spells (I)
 
-Ice Storm
+---
 
-Level 4 Evocation (Druid, Sorcerer, Wizard)
+### Ice Storm
+
+*Level 4 Evocation (Druid, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 300 feet  
@@ -19,9 +21,11 @@ Hailstones turn ground in the Cylinder into Difficult Terrain until the end of y
 
 ***Using a Higher-Level Spell Slot.*** The Bludgeoning damage increases by 1d10 for each spell slot level above 4.
 
-Identify
+---
 
-Level 1 Divination (Bard, Wizard)
+### Identify
+
+*Level 1 Divination (Bard, Wizard)*
 
 **Casting Time:** 1 minute or Ritual  
 **Range:** Touch  
@@ -32,9 +36,11 @@ You touch an object throughout the spell’s casting. If the object is a magic i
 
 If you instead touch a creature throughout the casting, you learn which ongoing spells, if any, are currently affecting it.
 
-Illusory Script
+---
 
-Level 1 Illusion (Bard, Warlock, Wizard)
+### Illusory Script
+
+*Level 1 Illusion (Bard, Warlock, Wizard)*
 
 **Casting Time:** 1 minute or Ritual  
 **Range:** Touch  
@@ -47,9 +53,11 @@ If the spell is dispelled, the original script and the illusion both disappear.
 
 A creature that has Truesight can read the hidden message.
 
-Imprisonment
+---
 
-Level 9 Abjuration (Warlock, Wizard)
+### Imprisonment
+
+*Level 9 Abjuration (Warlock, Wizard)*
 
 **Casting Time:** 1 minute  
 **Range:** 30 feet  
@@ -74,9 +82,11 @@ Ending the Spell. When you cast the spell, specify a trigger that will end it. T
 
 A Dispel Magic spell can end the spell only if it is cast with a level 9 spell slot, targeting either the prison or the component used to create it.
 
-Incendiary Cloud
+---
 
-Level 8 Conjuration (Druid, Sorcerer, Wizard)
+### Incendiary Cloud
+
+*Level 8 Conjuration (Druid, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 150 feet  
@@ -89,9 +99,11 @@ When the cloud appears, each creature in it makes a Dexterity saving throw, taki
 
 The cloud moves 10 feet away from you in a direction you choose at the start of each of your turns.
 
-Inflict Wounds
+---
 
-Level 1 Necromancy (Cleric)
+### Inflict Wounds
+
+*Level 1 Necromancy (Cleric)*
 
 **Casting Time:** Action  
 **Range:** Touch  
@@ -102,9 +114,11 @@ A creature you touch makes a Constitution saving throw, taking 2d10 Necrotic dam
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d10 for each spell slot level above 1.
 
-Insect Plague
+---
 
-Level 5 Conjuration (Cleric, Druid, Sorcerer)
+### Insect Plague
+
+*Level 5 Conjuration (Cleric, Druid, Sorcerer)*
 
 **Casting Time:** Action  
 **Range:** 300 feet  
@@ -117,9 +131,11 @@ When the swarm appears, each creature in it makes a Constitution saving throw, t
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d10 for each spell slot level above 5.
 
-Invisibility
+---
 
-Level 2 Illusion (Bard, Sorcerer, Warlock, Wizard)
+### Invisibility
+
+*Level 2 Illusion (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Touch  

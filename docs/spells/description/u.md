@@ -3,9 +3,12 @@ icon: material/alpha-u-box
 ---
 
 # Spells (U)
-Unseen Servant
 
-Level 1 Conjuration (Bard, Warlock, Wizard)
+---
+
+### Unseen Servant
+
+*Level 1 Conjuration (Bard, Warlock, Wizard)*
 
 **Casting Time:** Action or Ritual  
 **Range:** 60 feet  

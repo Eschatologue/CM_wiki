@@ -2,11 +2,13 @@
 icon: material/alpha-t-box
 ---
 
-
 # Spells (T)
-Telekinesis
 
-Level 5 Transmutation (Sorcerer, Wizard)
+---
+
+### Telekinesis
+
+*Level 5 Transmutation (Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  
@@ -23,20 +25,28 @@ If the object is worn or carried by a creature, that creature must succeed on a 
 
 You can exert fine control on objects with your telekinetic grip, such as manipulating a simple tool, opening a door or a container, stowing or retrieving an item from an open container, or pouring the contents from a vial.
 
-Teleport
+---
 
-Level 7 Conjuration (Bard, Sorcerer, Wizard)
+### Teleport
+
+*Level 7 Conjuration (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 10 feet  
 **Components:** V  
 **Duration:** Instantaneous
 
-This spell instantly transports you and up to eight willing creatures that you can see within range, or a single object that you can see within range, to a destination you select. If you target an object, it must be Large or smaller, and it can’t be held or carried by an unwilling creature.
+---
 
-The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The DM rolls 1d100 and consults the Teleportation Outcome table and the explanations after it.
+### This spell instantly transports you and up to eight willing creatures that you can see within range, or a single object that you can see within range, to a destination you select. If you target an object, it must be Large or smaller, and it can’t be held or carried by an unwilling creature.
 
-Teleportation Outcome
+---
+
+### The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The DM rolls 1d100 and consults the Teleportation Outcome table and the explanations after it.
+
+---
+
+### Teleportation Outcome
 
 | Familiarity | Mishap | Similar Area | Off Target | On Target |
 |---|---|---|---|---|
@@ -47,7 +57,7 @@ Teleportation Outcome
 | Viewed once or described | 01–43 | 44–53 | 54–73 | 74–00 |
 | False destination | 01–50 | 51–00 | — | — |
 
-amiliarity. Here are the meanings of the terms in the table’s Familiarity column:
+Familiarity. Here are the meanings of the terms in the table’s Familiarity column:
 
 “Permanent circle” means a permanent teleportation circle whose sigil sequence you know.
 “Linked object” means you possess an object taken from the desired destination within the last six months, such as a book from a wizard’s library.
@@ -57,15 +67,17 @@ amiliarity. Here are the meanings of the terms in the table’s Familiarity colu
 “False destination” is a place that doesn’t exist. Perhaps you tried to scry an enemy’s sanctum but instead viewed an illusion, or you are attempting to teleport to a location that no longer exists.
 Mishap. The spell’s unpredictable magic results in a difficult journey. Each teleporting creature (or the target object) takes 3d10 Force damage, and the DM rerolls on the table to see where you wind up (multiple mishaps can occur, dealing damage each time).
 
-Similar Area. You and your group (or the target object) appear in a different area that’s visually or thematically similar to the target area. You appear in the closest similar place. If you are heading for your home laboratory, for example, you might appear in another person’s laboratory in the same city.
+***Similar Area.*** You and your group (or the target object) appear in a different area that’s visually or thematically similar to the target area. You appear in the closest similar place. If you are heading for your home laboratory, for example, you might appear in another person’s laboratory in the same city.
 
-Off Target. You and your group (or the target object) appear 2d12 miles away from the destination in a random direction. Roll 1d8 for the direction: 1, east; 2, southeast; 3, south; 4, southwest; 5, west; 6, northwest; 7, north; or 8, northeast.
+***Off Target.*** You and your group (or the target object) appear 2d12 miles away from the destination in a random direction. Roll 1d8 for the direction: 1, east; 2, southeast; 3, south; 4, southwest; 5, west; 6, northwest; 7, north; or 8, northeast.
 
-On Target. You and your group (or the target object) appear where you intended.
+***On Target.*** You and your group (or the target object) appear where you intended.
 
-Teleportation Circle
+---
 
-Level 5 Conjuration (Bard, Sorcerer, Warlock, Wizard)
+### Teleportation Circle
+
+*Level 5 Conjuration (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 minute  
 **Range:** 10 feet  
@@ -80,8 +92,11 @@ When you first gain the ability to cast this spell, you learn the sigil sequence
 
 You can create a permanent teleportation circle by casting this spell in the same location every day for 365 days.
 
-Thaumaturgy
-Transmutation Cantrip (Cleric)
+---
+
+### Thaumaturgy
+
+*Transmutation Cantrip (Cleric)*
 
 **Casting Time:** Action  
 **Range:** 30 feet  
@@ -90,21 +105,23 @@ Transmutation Cantrip (Cleric)
 
 You manifest a minor wonder within range. You create one of the effects below within range. If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time.
 
-Altered Eyes. You alter the appearance of your eyes for 1 minute.
+***Altered Eyes.*** You alter the appearance of your eyes for 1 minute.
 
-Booming Voice. Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have Advantage on Charisma (Intimidation) checks.
+***Booming Voice.*** Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have Advantage on Charisma (Intimidation) checks.
 
-Fire Play. You cause flames to flicker, brighten, dim, or change color for 1 minute.
+***Fire Play.*** You cause flames to flicker, brighten, dim, or change color for 1 minute.
 
-Invisible Hand. You instantaneously cause an unlocked door or window to fly open or slam shut.
+***Invisible Hand.*** You instantaneously cause an unlocked door or window to fly open or slam shut.
 
-Phantom Sound. You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.
+***Phantom Sound.*** You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.
 
-Tremors. You cause harmless tremors in the ground for 1 minute.
+***Tremors.*** You cause harmless tremors in the ground for 1 minute.
 
-Thunderwave
+---
 
-Level 1 Evocation (Bard, Druid, Sorcerer, Wizard)
+### Thunderwave
+
+*Level 1 Evocation (Bard, Druid, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Self  
@@ -117,9 +134,11 @@ In addition, unsecured objects that are entirely within the Cube are pushed 10 f
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 1.
 
-Time Stop
+---
 
-Level 9 Transmutation (Sorcerer, Wizard)
+### Time Stop
+
+*Level 9 Transmutation (Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Self  
@@ -130,9 +149,11 @@ You briefly stop the flow of time for everyone but yourself. No time passes for 
 
 This spell ends if one of the actions you use during this period, or any effects that you create during it, affects a creature other than you or an object being worn or carried by someone other than you. In addition, the spell ends if you move to a place more than 1,000 feet from the location where you cast it.
 
-Tongues
+---
 
-Level 3 Divination (Bard, Cleric, Sorcerer, Warlock, Wizard)
+### Tongues
+
+*Level 3 Divination (Bard, Cleric, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Touch  
@@ -141,20 +162,26 @@ Level 3 Divination (Bard, Cleric, Sorcerer, Warlock, Wizard)
 
 This spell grants the creature you touch the ability to understand any spoken or signed language that it hears or sees. Moreover, when the target communicates by speaking or signing, any creature that knows at least one language can understand it if that creature can hear the speech or see the signing.
 
-Transport via Plants
+---
 
-Level 6 Conjuration (Druid)
+### Transport via Plants
+
+*Level 6 Conjuration (Druid)*
 
 **Casting Time:** Action  
 **Range:** 10 feet  
 **Components:** V, S  
 **Duration:** 1 minute
 
-This spell creates a magical link between a Large or larger inanimate plant within range and another plant, at any distance, on the same plane of existence. You must have seen or touched the destination plant at least once before. For the duration, any creature can step into the target plant and exit from the destination plant by using 5 feet of movement.
+---
 
-Tree Stride
+### This spell creates a magical link between a Large or larger inanimate plant within range and another plant, at any distance, on the same plane of existence. You must have seen or touched the destination plant at least once before. For the duration, any creature can step into the target plant and exit from the destination plant by using 5 feet of movement.
 
-Level 5 Conjuration (Druid, Ranger)
+---
+
+### Tree Stride
+
+*Level 5 Conjuration (Druid, Ranger)*
 
 **Casting Time:** Action  
 **Range:** Self  
@@ -165,9 +192,11 @@ You gain the ability to enter a tree and move from inside it to inside another t
 
 You can use this transportation ability only once on each of your turns. You must end each turn outside a tree.
 
-True Polymorph
+---
 
-Level 9 Transmutation (Bard, Warlock, Wizard)
+### True Polymorph
+
+*Level 9 Transmutation (Bard, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 30 feet  
@@ -180,11 +209,17 @@ An unwilling creature can make a Wisdom saving throw, and if it succeeds, it isn
 
 Creature into Creature. If you turn a creature into another kind of creature, the new form can be any kind you choose that has a Challenge Rating equal to or less than the target’s Challenge Rating or level. The target’s game statistics are replaced by the stat block of the new form, but it retains its Hit Points, Hit Point Dice, alignment, and personality.
 
-The target gains a number of Temporary Hit Points equal to the Hit Points of the new form. The spell ends early on the target if it has no Temporary Hit Points left.
+---
 
-The target is limited in the actions it can perform by the anatomy of its new form, and it can’t speak or cast spells.
+### The target gains a number of Temporary Hit Points equal to the Hit Points of the new form. The spell ends early on the target if it has no Temporary Hit Points left.
 
-The target’s gear melds into the new form. The creature can’t use or otherwise benefit from any of that equipment.
+---
+
+### The target is limited in the actions it can perform by the anatomy of its new form, and it can’t speak or cast spells.
+
+---
+
+### The target’s gear melds into the new form. The creature can’t use or otherwise benefit from any of that equipment.
 
 Object into Creature. You can turn an object into any kind of creature, as long as the creature’s size is no larger than the object’s size and the creature has a Challenge Rating of 9 or lower. The creature is Friendly to you and your allies. In combat, it takes its turns immediately after yours, and it obeys your commands.
 
@@ -192,9 +227,11 @@ If the spell lasts more than an hour, you no longer control the creature. It mig
 
 Creature into Object. If you turn a creature into an object, it transforms along with whatever it is wearing and carrying into that form, as long as the object’s size is no larger than the creature’s size. The creature’s statistics become those of the object, and the creature has no memory of time spent in this form after the spell ends and it returns to normal.
 
-True Resurrection
+---
 
-Level 9 Necromancy (Cleric, Druid)
+### True Resurrection
+
+*Level 9 Necromancy (Cleric, Druid)*
 
 **Casting Time:** 1 hour  
 **Range:** Touch  
@@ -207,9 +244,11 @@ This spell closes all wounds, neutralizes any poison, cures all magical contagio
 
 The spell can provide a new body if the original no longer exists, in which case you must speak the creature’s name. The creature then appears in an unoccupied space you choose within 10 feet of you.
 
-True Seeing
+---
 
-Level 6 Divination (Bard, Cleric, Sorcerer, Warlock, Wizard)
+### True Seeing
+
+*Level 6 Divination (Bard, Cleric, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Touch  
@@ -218,8 +257,11 @@ Level 6 Divination (Bard, Cleric, Sorcerer, Warlock, Wizard)
 
 For the duration, the willing creature you touch has Truesight with a range of 120 feet.
 
-True Strike
-Divination Cantrip (Bard, Sorcerer, Warlock, Wizard)
+---
+
+### True Strike
+
+*Divination Cantrip (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Self  

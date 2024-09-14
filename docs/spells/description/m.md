@@ -3,9 +3,12 @@ icon: material/alpha-m-box
 ---
 
 # Spells (M)
-Mage Armor
 
-Level 1 Abjuration (Sorcerer, Wizard)
+---
+
+### Mage Armor
+
+*Level 1 Abjuration (Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Touch  
@@ -14,7 +17,9 @@ Level 1 Abjuration (Sorcerer, Wizard)
 
 You touch a willing creature who isn’t wearing armor. Until the spell ends, the target’s base AC becomes 13 plus its Dexterity modifier. The spell ends early if the target dons armor.
 
-Mage Hand
+---
+
+### Mage Hand
 Conjuration Cantrip (Bard, Sorcerer, Warlock, Wizard)
 
 **Casting Time:** Action  
@@ -30,9 +35,11 @@ As a Magic action on your later turns, you can control the hand thus again. As p
 
 The hand can’t attack, activate magic items, or carry more than 10 pounds.
 
-Magic Circle
+---
 
-Level 3 Abjuration (Cleric, Paladin, Warlock, Wizard)
+### Magic Circle
+
+*Level 3 Abjuration (Cleric, Paladin, Warlock, Wizard)*
 
 **Casting Time:** 1 minute  
 **Range:** 10 feet  
@@ -50,9 +57,11 @@ Each time you cast this spell, you can cause its magic to operate in the reverse
 
 ***Using a Higher-Level Spell Slot.*** The duration increases by 1 hour for each spell slot level above 3.
 
-Magic Jar
+---
 
-Level 6 Necromancy (Wizard)
+### Magic Jar
+
+*Level 6 Necromancy (Wizard)*
 
 **Casting Time:** 1 minute  
 **Range:** Self  
@@ -73,9 +82,11 @@ If the container is destroyed or the spell ends, your soul returns to your body.
 
 When the spell ends, the container is destroyed.
 
-Magic Missile
+---
 
-Level 1 Evocation (Sorcerer, Wizard)
+### Magic Missile
+
+*Level 1 Evocation (Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 120 feet  
@@ -86,9 +97,11 @@ You create three glowing darts of magical force. Each dart strikes a creature of
 
 ***Using a Higher-Level Spell Slot.*** The spell creates one more dart for each spell slot level above 1.
 
-Magic Mouth
+---
 
-Level 2 Illusion (Bard, Wizard)
+### Magic Mouth
+
+*Level 2 Illusion (Bard, Wizard)*
 
 **Casting Time:** 1 minute or Ritual  
 **Range:** 30 feet  
@@ -101,9 +114,11 @@ When that trigger occurs, a magical mouth appears on the object and recites the 
 
 The trigger can be as general or as detailed as you like, though it must be based on visual or audible conditions that occur within 30 feet of the object. For example, you could instruct the mouth to speak when any creature moves within 30 feet of the object or when a silver bell rings within 30 feet of it.
 
-Magic Weapon
+---
 
-Level 2 Transmutation (Paladin, Ranger, Sorcerer, Wizard)
+### Magic Weapon
+
+*Level 2 Transmutation (Paladin, Ranger, Sorcerer, Wizard)*
 
 **Casting Time:** Bonus Action  
 **Range:** Touch  
@@ -114,9 +129,11 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 
 ***Using a Higher-Level Spell Slot.*** The bonus increases to +2 with a level 3–5 spell slot. The bonus increases to +3 with a level 6+ spell slot.
 
-Major Image
+---
 
-Level 3 Illusion (Bard, Sorcerer, Warlock, Wizard)
+### Major Image
+
+*Level 3 Illusion (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 120 feet  
@@ -131,9 +148,11 @@ Physical interaction with the image reveals it to be an illusion, for things can
 
 ***Using a Higher-Level Spell Slot.*** The spell lasts until dispelled, without requiring Concentration, if cast with a level 4+ spell slot.
 
-Mass Cure Wounds
+---
 
-Level 5 Abjuration (Bard, Cleric, Druid)
+### Mass Cure Wounds
+
+*Level 5 Abjuration (Bard, Cleric, Druid)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  
@@ -144,9 +163,11 @@ A wave of healing energy washes out from a point you can see within range. Choos
 
 ***Using a Higher-Level Spell Slot.*** The healing increases by 1d8 for each spell slot level above 5.
 
-Mass Heal
+---
 
-Level 9 Abjuration (Cleric)
+### Mass Heal
+
+*Level 9 Abjuration (Cleric)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  
@@ -155,9 +176,11 @@ Level 9 Abjuration (Cleric)
 
 A flood of healing energy flows from you into creatures around you. You restore up to 700 Hit Points, divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell also have the Blinded, Deafened, and Poisoned conditions removed from them.
 
-Mass Healing Word
+---
 
-Level 3 Abjuration (Bard, Cleric)
+### Mass Healing Word
+
+*Level 3 Abjuration (Bard, Cleric)*
 
 **Casting Time:** Bonus Action  
 **Range:** 60 feet  
@@ -168,9 +191,11 @@ Up to six creatures of your choice that you can see within range regain Hit Poin
 
 ***Using a Higher-Level Spell Slot.*** The healing increases by 1d4 for each spell slot level above 3.
 
-Mass Suggestion
+---
 
-Level 6 Enchantment (Bard, Sorcerer, Wizard)
+### Mass Suggestion
+
+*Level 6 Enchantment (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  
@@ -181,11 +206,13 @@ You suggest a course of activity—described in no more than 25 words—to twelv
 
 Each target must succeed on a Wisdom saving throw or have the Charmed condition for the duration or until you or your allies deal damage to the target. Each Charmed target pursues the suggestion to the best of its ability. The suggested activity can continue for the entire duration, but if the suggested activity can be completed in a shorter time, the spell ends for a target upon completing it.
 
-***Using a Higher-Level Spell Slot.*** The duration is longer with a spell slot of level 7 (10 days), 8 (30 days), or 9 (366 days).
+***Using a Higher-*Level Spell Slot.*** The duration is longer with a spell slot of level 7 (10 days), 8 (30 days), or 9 (366 days)*.
 
-Maze
+---
 
-Level 8 Conjuration (Wizard)
+### Maze
+
+*Level 8 Conjuration (Wizard)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  
@@ -198,9 +225,11 @@ The target can take a Study action to try to escape. When it does so, it makes a
 
 When the spell ends, the target reappears in the space it left or, if that space is occupied, in the nearest unoccupied space.
 
-Meld into Stone
+---
 
-Level 3 Transmutation (Cleric, Druid, Ranger)
+### Meld into Stone
+
+*Level 3 Transmutation (Cleric, Druid, Ranger)*
 
 **Casting Time:** Action or Ritual  
 **Range:** Touch  
@@ -213,8 +242,11 @@ While merged with the stone, you can’t see what occurs outside it, and any Wis
 
 Minor physical damage to the stone doesn’t harm you, but its partial destruction or a change in its shape (to the extent that you no longer fit within it) expels you and deals 6d6 Force damage to you. The stone’s complete destruction (or transmutation into a different substance) expels you and deals 50 Force damage to you. If expelled, you move into an unoccupied space closest to where you first entered and have the Prone condition.
 
-Mending
-Transmutation Cantrip (Bard, Cleric, Druid, Sorcerer, Wizard)
+---
+
+### Mending
+
+*Transmutation Cantrip (Bard, Cleric, Druid, Sorcerer, Wizard)*
 
 **Casting Time:** 1 minute  
 **Range:** Touch  
@@ -225,8 +257,11 @@ This spell repairs a single break or tear in an object you touch, such as a brok
 
 This spell can physically repair a magic item, but it can’t restore magic to such an object.
 
-Message
-Transmutation Cantrip (Bard, Druid, Sorcerer, Wizard)
+---
+
+### Message
+
+*Transmutation Cantrip (Bard, Druid, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 120 feet  
@@ -237,9 +272,11 @@ You point toward a creature within range and whisper a message. The target (and 
 
 You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence; 1 foot of stone, metal, or wood; or a thin sheet of lead blocks the spell.
 
-Meteor Swarm
+---
 
-Level 9 Evocation (Sorcerer, Wizard)
+### Meteor Swarm
+
+*Level 9 Evocation (Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 1 mile  
@@ -250,9 +287,11 @@ Blazing orbs of fire plummet to the ground at four different points you can see 
 
 A nonmagical object that isn’t being worn or carried also takes the damage if it’s in the spell’s area, and the object starts burning if it’s flammable.
 
-Mind Blank
+---
 
-Level 8 Abjuration (Bard, Wizard)
+### Mind Blank
+
+*Level 8 Abjuration (Bard, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Touch  
@@ -261,8 +300,11 @@ Level 8 Abjuration (Bard, Wizard)
 
 Until the spell ends, one willing creature you touch has Immunity to Psychic damage and the Charmed condition. The target is also unaffected by anything that would sense its emotions or alignment, read its thoughts, or magically detect its location, and no spell—not even Wish—can gather information about the target, observe it remotely, or control its mind.
 
-Minor Illusion
-Illusion Cantrip (Bard, Sorcerer, Warlock, Wizard)
+---
+
+### Minor Illusion
+
+*Illusion Cantrip (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 30 feet  
@@ -277,9 +319,11 @@ Sound. If you create a sound, its volume can range from a whisper to a scream. I
 
 Image. If you create an image of an object—such as a chair, muddy footprints, or a small chest—it must be no larger than a 5-foot Cube. The image can’t create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, since things can pass through it.
 
-Mirage Arcane
+---
 
-Level 7 Illusion (Bard, Druid, Wizard)
+### Mirage Arcane
+
+*Level 7 Illusion (Bard, Druid, Wizard)*
 
 **Casting Time:** 10 minutes  
 **Range:** Sight  
@@ -294,9 +338,11 @@ The illusion includes audible, visual, tactile, and olfactory elements, so it ca
 
 Creatures with Truesight can see through the illusion to the terrain’s true form; however, all other elements of the illusion remain, so while the creature is aware of the illusion’s presence, the creature can still physically interact with the illusion.
 
-Mirror Image
+---
 
-Level 2 Illusion (Bard, Sorcerer, Warlock, Wizard)
+### Mirror Image
+
+*Level 2 Illusion (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Self  
@@ -309,9 +355,11 @@ Each time a creature hits you with an attack roll during the spell’s duration,
 
 A creature is unaffected by this spell if it has the Blinded condition, Blindsight, or Truesight.
 
-Mislead
+---
 
-Level 5 Illusion (Bard, Warlock, Wizard)
+### Mislead
+
+*Level 5 Illusion (Bard, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Self  
@@ -324,9 +372,11 @@ As a Magic action, you can move the illusory double up to twice your Speed and m
 
 You can see through its eyes and hear through its ears as if you were located where it is.
 
-Misty Step
+---
 
-Level 2 Conjuration (Sorcerer, Warlock, Wizard)
+### Misty Step
+
+*Level 2 Conjuration (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Bonus Action  
 **Range:** Self  
@@ -335,9 +385,11 @@ Level 2 Conjuration (Sorcerer, Warlock, Wizard)
 
 Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space you can see.
 
-Modify Memory
+---
 
-Level 5 Enchantment (Bard, Wizard)
+### Modify Memory
+
+*Level 5 Enchantment (Bard, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 30 feet  
@@ -354,11 +406,13 @@ A modified memory doesn’t necessarily affect how a creature behaves, particula
 
 A Remove Curse or Greater Restoration spell cast on the target restores the creature’s true memory.
 
-***Using a Higher-Level Spell Slot.*** You can alter the target’s memories of an event that took place up to 7 days ago (level 6 spell slot), 30 days ago (level 7 spell slot), 365 days ago (level 8 spell slot), or any time in the creature’s past (level 9 spell slot).
+***Using a Higher-Level Spell Slot.*** You can alter the target’s memories of an event that took place up to 7 days ago (level 6 spell slot), 30 days ago (level 7 spell slot), 365 days ago (level 8 spell slot), or any time in the creature’s past (level 9 spell slot)*.
 
-Moonbeam
+---
 
-Level 2 Evocation (Druid)
+### Moonbeam
+
+*Level 2 Evocation (Druid)*
 
 **Casting Time:** Action  
 **Range:** 120 feet  
@@ -371,9 +425,11 @@ When the Cylinder appears, each creature in it makes a Constitution saving throw
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d10 for each spell slot level above 2.
 
-Move Earth
+---
 
-Level 6 Transmutation (Druid, Sorcerer, Wizard)
+### Move Earth
+
+*Level 6 Transmutation (Druid, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 120 feet  

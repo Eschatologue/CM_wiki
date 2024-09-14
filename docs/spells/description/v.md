@@ -4,9 +4,11 @@ icon: material/alpha-v-box
 
 # Spells (V)
 
-Vampiric Touch
+---
 
-Level 3 Necromancy (Sorcerer, Warlock, Wizard)
+### Vampiric Touch
+
+*Level 3 Necromancy (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Self  
@@ -19,8 +21,11 @@ Until the spell ends, you can make the attack again on each of your turns as a M
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 3.
 
-Vicious Mockery
-Enchantment Cantrip (Bard)
+---
+
+### Vicious Mockery
+
+*Enchantment Cantrip (Bard)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  

@@ -4,9 +4,11 @@ icon: material/alpha-u-box
 
 # Spells (Z)
 
-Zone of Truth
+---
 
-Level 2 Enchantment (Bard, Cleric, Paladin)
+### Zone of Truth
+
+*Level 2 Enchantment (Bard, Cleric, Paladin)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  

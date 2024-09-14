@@ -2,9 +2,11 @@
 icon: material/alpha-w-box
 ---
 # Spells (W)
-Wall of Fire
+---
 
-Level 4 Evocation (Druid, Sorcerer, Wizard)
+### Wall of Fire
+
+*Level 4 Evocation (Druid, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 120 feet  
@@ -13,15 +15,19 @@ Level 4 Evocation (Druid, Sorcerer, Wizard)
 
 You create a wall of fire on a solid surface within range. You can make the wall up to 60 feet long, 20 feet high, and 1 foot thick, or a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick. The wall is opaque and lasts for the duration.
 
-When the wall appears, each creature in its area makes a Dexterity saving throw, taking 5d8 Fire damage on a failed save or half as much damage on a successful one.
+---
+
+### When the wall appears, each creature in its area makes a Dexterity saving throw, taking 5d8 Fire damage on a failed save or half as much damage on a successful one.
 
 One side of the wall, selected by you when you cast this spell, deals 5d8 Fire damage to each creature that ends its turn within 10 feet of that side or inside the wall. A creature takes the same damage when it enters the wall for the first time on a turn or ends its turn there. The other side of the wall deals no damage.
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 4.
 
-Wall of Force
+---
 
-Level 5 Evocation (Wizard)
+### Wall of Force
+
+*Level 5 Evocation (Wizard)*
 
 **Casting Time:** Action  
 **Range:** 120 feet  
@@ -32,9 +38,11 @@ An Invisible wall of force springs into existence at a point you choose within r
 
 Nothing can physically pass through the wall. It is immune to all damage and can’t be dispelled by Dispel Magic. A Disintegrate spell destroys the wall instantly, however. The wall also extends into the Ethereal Plane and blocks ethereal travel through the wall.
 
-Wall of Ice
+---
 
-Level 6 Evocation (Wizard)
+### Wall of Ice
+
+*Level 6 Evocation (Wizard)*
 
 **Casting Time:** Action  
 **Range:** 120 feet  
@@ -51,9 +59,11 @@ A creature moving through the sheet of frigid air for the first time on a turn m
 
 ***Using a Higher-Level Spell Slot.*** The damage the wall deals when it appears increases by 2d6 and the damage from passing through the sheet of frigid air increases by 1d6 for each spell slot level above 6.
 
-Wall of Stone
+---
 
-Level 5 Evocation (Druid, Sorcerer, Wizard)
+### Wall of Stone
+
+*Level 5 Evocation (Druid, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 120 feet  
@@ -72,9 +82,11 @@ The wall is an object made of stone that can be damaged and thus breached. Each 
 
 If you maintain your Concentration on this spell for its full duration, the wall becomes permanent and can’t be dispelled. Otherwise, the wall disappears when the spell ends.
 
-Wall of Thorns
+---
 
-Level 6 Conjuration (Druid)
+### Wall of Thorns
+
+*Level 6 Conjuration (Druid)*
 
 **Casting Time:** Action  
 **Range:** 120 feet  
@@ -89,9 +101,11 @@ A creature can move through the wall, albeit slowly and painfully. For every 1 f
 
 ***Using a Higher-Level Spell Slot.*** Both types of damage increase by 1d8 for each spell slot level above 6.
 
-Warding Bond
+---
 
-Level 2 Abjuration (Cleric, Paladin)
+### Warding Bond
+
+*Level 2 Abjuration (Cleric, Paladin)*
 
 **Casting Time:** Action  
 **Range:** Touch  
@@ -102,9 +116,11 @@ You touch another creature that is willing and create a mystic connection betwee
 
 The spell ends if you drop to 0 Hit Points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures.
 
-Water Breathing
+---
 
-Level 3 Transmutation (Druid, Ranger, Sorcerer, Wizard)
+### Water Breathing
+
+*Level 3 Transmutation (Druid, Ranger, Sorcerer, Wizard)*
 
 **Casting Time:** Action or Ritual  
 **Range:** 30 feet  
@@ -113,9 +129,11 @@ Level 3 Transmutation (Druid, Ranger, Sorcerer, Wizard)
 
 This spell grants up to ten willing creatures of your choice within range the ability to breathe underwater until the spell ends. Affected creatures also retain their normal mode of respiration.
 
-Water Walk
+---
 
-Level 3 Transmutation (Cleric, Druid, Ranger, Sorcerer)
+### Water Walk
+
+*Level 3 Transmutation (Cleric, Druid, Ranger, Sorcerer)*
 
 **Casting Time:** Action or Ritual  
 **Range:** 30 feet  
@@ -126,9 +144,11 @@ This spell grants the ability to move across any liquid surface—such as water,
 
 An affected target must take a Bonus Action to pass from the liquid’s surface into the liquid itself and vice versa, but if the target falls into the liquid, the target passes through the surface into the liquid below.
 
-Web
+---
 
-Level 2 Conjuration (Sorcerer, Wizard)
+### Web
+
+*Level 2 Conjuration (Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  
@@ -145,9 +165,11 @@ A creature Restrained by the webs can take an action to make a Strength (Athleti
 
 The webs are flammable. Any 5-foot Cube of webs exposed to fire burns away in 1 round, dealing 2d4 Fire damage to any creature that starts its turn in the fire.
 
-Weird
+---
 
-Level 9 Illusion (Warlock, Wizard)
+### Weird
+
+*Level 9 Illusion (Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 120 feet  
@@ -158,9 +180,11 @@ You try to create illusory terrors in others’ minds. Each creature of your cho
 
 A Frightened target makes a Wisdom saving throw at the end of each of its turns. On a failed save, it takes 5d10 Psychic damage. On a successful save, the spell ends on that target.
 
-Wind Walk
+---
 
-Level 6 Transmutation (Druid)
+### Wind Walk
+
+*Level 6 Transmutation (Druid)*
 
 **Casting Time:** 1 minute  
 **Range:** 30 feet  
@@ -171,9 +195,11 @@ You and up to ten willing creatures of your choice within range assume gaseous f
 
 If a target is in cloud form and flying when the effect ends, the target descends 60 feet per round for 1 minute until it lands, which it does safely. If it can’t land after 1 minute, it falls the remaining distance.
 
-Wind Wall
+---
 
-Level 3 Evocation (Druid, Ranger)
+### Wind Wall
+
+*Level 3 Evocation (Druid, Ranger)*
 
 **Casting Time:** Action  
 **Range:** 120 feet  
@@ -186,9 +212,11 @@ When the wall appears, each creature in its area makes a Strength saving throw, 
 
 The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flying creatures or objects can’t pass through the wall. Loose, lightweight materials brought into the wall fly upward. Arrows, bolts, and other ordinary projectiles launched at targets behind the wall are deflected upward and miss automatically. Boulders hurled by Giants or siege engines, and similar projectiles, are unaffected. Creatures in gaseous form can’t pass through it.
 
-Wish
+---
 
-Level 9 Conjuration (Sorcerer, Wizard)
+### Wish
+
+*Level 9 Conjuration (Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Self  
@@ -201,25 +229,27 @@ The basic use of this spell is to duplicate any other spell of level 8 or lower.
 
 Alternatively, you can create one of the following effects of your choice:
 
-Object Creation. You create one object of up to 25,000 GP in value that isn’t a magic item. The object can be no more than 300 feet in any dimension, and it appears in an unoccupied space that you can see on the ground.
+***Object Creation.*** You create one object of up to 25,000 GP in value that isn’t a magic item. The object can be no more than 300 feet in any dimension, and it appears in an unoccupied space that you can see on the ground.
 
-Instant Health. You allow yourself and up to twenty creatures that you can see to regain all Hit Points, and you end all effects on them listed in the Greater Restoration spell.
+***Instant Health.*** You allow yourself and up to twenty creatures that you can see to regain all Hit Points, and you end all effects on them listed in the Greater Restoration spell.
 
-Resistance. You grant up to ten creatures that you can see Resistance to one damage type that you choose. This Resistance is permanent.
+***Resistance.*** You grant up to ten creatures that you can see Resistance to one damage type that you choose. This Resistance is permanent.
 
-Spell Immunity. You grant up to ten creatures you can see immunity to a single spell or other magical effect for 8 hours.
+***Spell Immunity.*** You grant up to ten creatures you can see immunity to a single spell or other magical effect for 8 hours.
 
-Sudden Learning. You replace one of your feats with another feat for which you are eligible. You lose all the benefits of the old feat and gain the benefits of the new one. You can’t replace a feat that is a prerequisite for any of your other feats or features.
+***Sudden Learning.*** You replace one of your feats with another feat for which you are eligible. You lose all the benefits of the old feat and gain the benefits of the new one. You can’t replace a feat that is a prerequisite for any of your other feats or features.
 
-Roll Redo. You undo a single recent event by forcing a reroll of any die roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. For example, a Wish spell could undo an ally’s failed saving throw or a foe’s Critical Hit. You can force the reroll to be made with Advantage or Disadvantage, and you choose whether to use the reroll or the original roll.
+***Roll Redo.*** You undo a single recent event by forcing a reroll of any die roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. For example, a Wish spell could undo an ally’s failed saving throw or a foe’s Critical Hit. You can force the reroll to be made with Advantage or Disadvantage, and you choose whether to use the reroll or the original roll.
 
-Reshape Reality. You may wish for something not included in any of the other effects. To do so, state your wish to the DM as precisely as possible. The DM has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. This spell might simply fail, the effect you desire might be achieved only in part, or you might suffer an unforeseen consequence as a result of how you worded the wish. For example, wishing that a villain were dead might propel you forward in time to a period when that villain is no longer alive, effectively removing you from the game. Similarly, wishing for a Legendary magic item or an Artifact might instantly transport you to the presence of the item’s current owner. If your wish is granted and its effects have consequences for a whole community, region, or world, you are likely to attract powerful foes. If your wish would affect a god, the god’s divine servants might instantly intervene to prevent it or to encourage you to craft the wish in a particular way. If your wish would undo the multiverse itself, threaten the City of Sigil, or affect the Lady of Pain in any way, you see an image of her in your mind for a moment; she shakes her head, and your wish fails.
+***Reshape Reality.*** You may wish for something not included in any of the other effects. To do so, state your wish to the DM as precisely as possible. The DM has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. This spell might simply fail, the effect you desire might be achieved only in part, or you might suffer an unforeseen consequence as a result of how you worded the wish. For example, wishing that a villain were dead might propel you forward in time to a period when that villain is no longer alive, effectively removing you from the game. Similarly, wishing for a Legendary magic item or an Artifact might instantly transport you to the presence of the item’s current owner. If your wish is granted and its effects have consequences for a whole community, region, or world, you are likely to attract powerful foes. If your wish would affect a god, the god’s divine servants might instantly intervene to prevent it or to encourage you to craft the wish in a particular way. If your wish would undo the multiverse itself, threaten the City of Sigil, or affect the Lady of Pain in any way, you see an image of her in your mind for a moment; she shakes her head, and your wish fails.
 
 The stress of casting Wish to produce any effect other than duplicating another spell weakens you. After enduring that stress, each time you cast a spell until you finish a Long Rest, you take 1d10 Necrotic damage per level of that spell. This damage can’t be reduced or prevented in any way. In addition, your Strength score becomes 3 for 2d4 days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. Finally, there is a 33 percent chance that you are unable to cast Wish ever again if you suffer this stress.
 
-Word of Recall
+---
 
-Level 6 Conjuration (Cleric)
+### Word of Recall
+
+*Level 6 Conjuration (Cleric)*
 
 **Casting Time:** Action  
 **Range:** 5 feet  
