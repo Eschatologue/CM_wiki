@@ -12,11 +12,11 @@ You always have certain spells prepared after you reach particular levels in thi
 
 | Artificer Level | Alchemist Spells |
 |:-:|:-:|
-| 3rd | [Healing Word], [Ray of Sickness] |
-| 5th | [Flaming Sphere], [Melf's Acid Arrow] |
-| 9th | [Gaseous Form], [Mass Healing Word] |
-| 13th | [Blight], [Death Ward]|
-| 17th | [Cloudkill], [Raise Dead] |
+| 3rd | Healing Word, Ray of Sickness |
+| 5th | Flaming Sphere, Melf's Acid Arrow |
+| 9th | Gaseous Form, Mass Healing Word |
+| 13th | Blight, Death Ward|
+| 17th | Cloudkill, Raise Dead |
 
 ## Level 3: Experimental Elixir
 
@@ -48,11 +48,11 @@ You've developed masterful command of magical chemicals, enhancing the healing a
 You can incorporate restorative reagents into some of your works:
 
 - Whenever a creature drinks an experimental elixir you created, the creature gains temporary Hit Points equal to 2d6 + your Intelligence modifier (minimum of 1 temporary Hit Point).
-- You can cast [Lesser Restoration] without expending a spell slot and without preparing the spell, provided you use alchemist's supplies as the spellcasting focus. You can do so a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+- You can cast Lesser Restoration without expending a spell slot and without preparing the spell, provided you use alchemist's supplies as the spellcasting focus. You can do so a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
 ## Level 15: Chemical Mastery
 
 You have been exposed to so many chemicals that they pose little risk to you, and you can use them to quickly end certain ailments:
 
 - You gain resistance to Acid damage and Poison damage, and you are now immune to the Poisoned condition.
-- You can cast [Greater Restoration] and [Heal] without expending a spell slot, without preparing the spell, and without providing the material component, provided you use alchemist's supplies as the spellcasting focus. Once you cast either spell with this feature, you can't cast that spell with it again until you finish a Long Rest.
+- You can cast Greater Restoration and Heal without expending a spell slot, without preparing the spell, and without providing the material component, provided you use alchemist's supplies as the spellcasting focus. Once you cast either spell with this feature, you can't cast that spell with it again until you finish a Long Rest.

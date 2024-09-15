@@ -389,7 +389,7 @@ While mounted, you can force an attack that hits your mount to hit you instead i
 
 ---
 
-### Overvant
+### Observant
 
 *General Feat (Prerequisite: Level 4+, Intelligence or Wisdom 13+)*
 
@@ -402,7 +402,7 @@ Increase your Intelligenve or Wisdom score by 1, to a maximum of 20.
 Choose one of the following skills: Insight, Investigation, or Perception. If you lack proficiency with the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain Expertise in it.
 
 **Quick Search**  
-You can take the Search Action as a Bonus Action.
+You can take the Search action as a Bonus Action.
 
 ---
 

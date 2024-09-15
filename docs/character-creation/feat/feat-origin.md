@@ -236,9 +236,9 @@ With 1 minute of work and raw materials, you can create a wooden barrier no more
 
 ---
 
-### Edritch Adept
+### Eldritch Initiate
 
-*Origin Feat (Prerequisites: Spellcasting/Pact Magic feature or Mage Group)*
+*Origin Feat (Prerequisites: Spellcasting/Pact Magic feature)*
 
 You have studied occult lore and perhaps, forbidden knowledge.
 

@@ -43,9 +43,12 @@
 /* Navigations & Sidebar */
 /* -------------------------------- */
 
-.md-sidebar--primary,
+.md-sidebar--primary {
+    width: 220px;
+}
+
 .md-sidebar--secondary {
-    width: 250px;
+    width: 270px;
 }
 /*
 .md-nav__item--section > .md-nav > .md-nav__list {
@@ -100,17 +103,18 @@
 
 /* H4 - Complex part title */
 .md-typeset h4 {
-    font-size: 0.725rem;
+    font-weight: bold !important;
+    text-transform: uppercase !important;
+    font-size: 0.7rem;
     margin-top: 8px;
     margin-bottom: 4px;
-    font-weight: 450;
 }
 
 /* H5 - Table title */
 .md-typeset h5 {
-    font-variant: normal;
+    font-variant: normal !important;
     text-transform: capitalize;
-    font-size: 0.5755rem;
+    font-size: 0.575rem;
     font-weight: 450;
     margin-bottom: -2px;
 }
@@ -173,7 +177,7 @@
 
 /* Text Block Width */
 .md-grid {
-    max-width: 90%; /* Or 100% for full-width */
+    max-width: 95%; /* Or 100% for full-width */
 }
 
 /* -------------------------------- */
@@ -226,7 +230,7 @@
     text-transform: uppercase !important;
     vertical-align: bottom;
     color: rgba(255, 255, 255, 0.6);
-    padding: 7px;
+    padding: 7px 10px;
 }
 
 /* Table Cell Rounding */

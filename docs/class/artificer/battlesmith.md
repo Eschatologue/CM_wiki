@@ -12,11 +12,11 @@ You always have certain spells prepared after you reach particular levels in thi
 
 | Artificer Level | Battle Smith Spells |
 | :-: | --- |
-| 3 | [Heroism], [Shield] |
-| 5 | [Branding Smite], [Warding Bond] |
-| 9 | [Aura of Vitality], [Conjure Barrage] |
-| 13 | [Aura of Purity], [Fire Shield] |
-| 17 | [Banishing Smite], [Mass Cure Wounds] |
+| 3 | Heroism, Shield |
+| 5 | Branding Smite, Warding Bond |
+| 9 | Aura of Vitality, Conjure Barrage |
+| 13 | Aura of Purity, Fire Shield |
+| 17 | Banishing Smite, Mass Cure Wounds |
 
 ## Level 3: Battle Ready
 
@@ -31,18 +31,18 @@ Your tinkering has borne you a faithful companion, a steel defender. It's friend
 
 In combat, the defender shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the defender can take any action of its choice, not just Dodge.
 
-If the [Mending] spell is cast on it, it regains 2d6 Hit Points. If it has died within the last hour, you can use your smith's tools as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The steel defender returns to life after 1 minute with all its Hit Points restored.
+If the Mending spell is cast on it, it regains 2d6 Hit Points. If it has died within the last hour, you can use your smith's tools as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The steel defender returns to life after 1 minute with all its Hit Points restored.
 
 At the end of a Long Rest, you can create a new steel defender if you have smith's tools with you. If you already have a defender from this feature, the first one immediately perishes. The defender also perishes if you die.
 
 ### Stat
 
-| Steel Defender |                                                               |
-| -------------- | ------------------------------------------------------------- |
-| Size & Type    | Medium construct                                              |
-| Armor Class:   | 15 (natural armor)                                            |
-| Hit Points:    | 2 + your Intelligence modifier + 5 times your artificer level |
-| Speed:         | 40 ft.                                                        |
+| Steel Defender | |
+| --- | --- |
+| **Size & Type** | Medium construct |
+| **Armor Class **| 15 (natural armor) |
+| **Hit Point**s | 2 + your Intelligence modifier + 5 times your artificer level |
+| **Speed**: | 40 ft. |
 
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -68,7 +68,7 @@ At the end of a Long Rest, you can create a new steel defender if you have smith
 
 ## Extra Attack
 
-Starting at 5th level, you can attack twice, rather than once, whenever you take the Attack action on your turn.
+You can attack twice instead of once whenever you take the Attack action on your turn.
 
 ## Level 9: Arcane Jolt
 

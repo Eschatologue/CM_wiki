@@ -2,74 +2,70 @@
 icon: class/cleric
 ---
 
-!!! danger "Experimental Material"
-
-    This class is an experimental material from UA that may subject to change on the upcoming 2024 Player's Handbook. 
-
-    Unless stated otherwise, this material is not used for the current campaign.
-
 :class-cleric:{ .xxxxl }
 
 # The Cleric
 
-***Clerics are intermediaries between the mortal world and the distant planes of the gods. As varied as the gods they serve, clerics strive to embody the handiwork of their deities. No ordinary priest, a cleric is imbued with divine magic.***
+##### Core Cleric Traits
 
-| Level | Prof. Bonus | Class Features              | Channel Divinity | Cantrips | Spells Prepared |   I   |  II   |  III  |  IV   |   V   |  VI   |  VII  | VIII  |  IX   |
-| :---: | :---------: | :-------------------------- | :--------------: | :------: | :-------------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|  1st  |     +2      | Divine Order, Spellcasting  |        —         |    3     |        4        |   2   |   —   |   —   |   —   |   —   |   —   |   —   |   —   |   —   |
-|  2nd  |     +2      | Channel Divinity            |        2         |    3     |        5        |   3   |   —   |   —   |   —   |   —   |   —   |   —   |   —   |   —   |
-|  3rd  |     +2      | Cleric Subclass             |        2         |    3     |        6        |   4   |   2   |   —   |   —   |   —   |   —   |   —   |   —   |   —   |
-|  4th  |     +2      | Ability Score Improvement   |        2         |    4     |        7        |   4   |   3   |   —   |   —   |   —   |   —   |   —   |   —   |   —   |
-|  5th  |     +3      | Smite Undead                |        2         |    4     |        9        |   4   |   3   |   2   |   —   |   —   |   —   |   —   |   —   |   —   |
-|  6th  |     +3      | Subclass Feature            |        3         |    4     |       10        |   4   |   3   |   3   |   —   |   —   |   —   |   —   |   —   |   —   |
-|  7th  |     +3      | Blessed Strikes             |        3         |    4     |       11        |   4   |   3   |   3   |   1   |   —   |   —   |   —   |   —   |   —   |
-|  8th  |     +3      | Ability Score Improvement   |        3         |    4     |       12        |   4   |   3   |   3   |   2   |   —   |   —   |   —   |   —   |   —   |
-|  9th  |     +4      | Commune                     |        3         |    4     |       14        |   4   |   3   |   3   |   3   |   1   |   —   |   —   |   —   |   —   |
-| 10th  |     +4      | Divine Intervention         |        3         |    5     |       15        |   4   |   3   |   3   |   3   |   2   |   —   |   —   |   —   |   —   |
-| 11th  |     +4      | —                           |        3         |    5     |       16        |   4   |   3   |   3   |   3   |   2   |   1   |   —   |   —   |   —   |
-| 12th  |     +4      | Ability Score Improvement   |        3         |    5     |       16        |   4   |   3   |   3   |   3   |   2   |   1   |   —   |   —   |   —   |
-| 13th  |     +5      | —                           |        3         |    5     |       17        |   4   |   3   |   3   |   3   |   2   |   1   |   1   |   —   |   —   |
-| 14th  |     +5      | Improved Blessed Strikes    |        3         |    5     |       17        |   4   |   3   |   3   |   3   |   2   |   1   |   1   |   —   |   —   |
-| 15th  |     +5      | —                           |        3         |    5     |       18        |   4   |   3   |   3   |   3   |   2   |   1   |   1   |   1   |   —   |
-| 16th  |     +5      | Ability Score Improvement   |        3         |    5     |       18        |   4   |   3   |   3   |   3   |   2   |   1   |   1   |   1   |   —   |
-| 17th  |     +6      | Subclass Feature            |        3         |    5     |       19        |   4   |   3   |   3   |   3   |   2   |   1   |   1   |   1   |   1   |
-| 18th  |     +6      | —                           |        4         |    5     |       20        |   4   |   3   |   3   |   3   |   3   |   1   |   1   |   1   |   1   |
-| 19th  |     +6      | Ability Score Improvement   |        4         |    5     |       21        |   4   |   3   |   3   |   3   |   3   |   2   |   1   |   1   |   1   |
-| 20th  |     +6      | Greater Divine Intervention |        4         |    5     |       22        |   4   |   3   |   3   |   3   |   3   |   2   |   2   |   1   |   1   |
+| Trait | Detail |
+|---|---|
+| **Primary Ability** | Wisdom |
+| **Hit Point Die** | D8 per Cleric level |
+| **Saving Throw Proficiencies** | Wisdom and Charisma |
+| **Skill Proficiencies** | Choose 2: History, Insight, Medicine, Persuasion, or Religion |
+| **Weapon Proficiencies** | Simple weapons |
+| **Armor Training** | Light and Medium armor and Shields |
+| **Starting Equipment** | Choose A or B: (A) Chain Shirt, Shield, Mace, Holy Symbol, Priest’s Pack, and 7 GP; or (B) 110 GP |
 
-## Creating a Cleric
+Clerics draw power from the realms of the gods and harness it to work miracles. Blessed by a deity, a pantheon, or another immortal entity, a Cleric can reach out to the divine magic of the Outer Planes—where gods dwell—and channel it to bolster people and battle foes.
 
-### Hit Point
+Because their power is a divine gift, Clerics typically associate themselves with temples dedicated to the deity or other immortal force that unlocked their magic. Harnessing divine magic doesn’t rely on specific training, yet Clerics might learn prayers and rites that help them draw on power from the Outer Planes.
 
-- **Hit Dice:** 1d8 per Cleric level
-- **Hit Points at Level 1:** 8 + your Constitution modifier
-- **Hit Points per later Level:** 1d8 (or 5) + your Constitution modifier
+Not every member of a temple or shrine is a Cleric. Some priests are called to a simple life of temple service, carrying out their devotion through prayer and rituals, not through magic. Many mortals claim to speak for the gods, but few can marshal the power of those gods the way a Cleric can.
 
-### Proficiencies
+## Becoming a Cleric...
 
-- **Saving Throws:** Wisdom, Charisma
-- **Skills (Choose 2):** History, Insight, Medicine, Persuasion, Religion
-- **Weapons:** Simple Weapons
-- **Tools:** None
+### As a Level 1 Cleric
 
-### Armour Training
+- Gain all the traits in the Core Cleric Traits table.
+- Gain the Cleric’s level 1 features, which are listed in the Cleric Features table.
 
-Light Armor, Medium Armor, Shields
+### As a Multiclass Cleric
 
-### Starting Equipment
+- Gain the following traits from the Core Cleric Traits table: Hit Point Die and training with Light and Medium armor and Shields.
+- Gain the Cleric’s level 1 features, which are listed in the Cleric Features table. See the multiclassing rules in chapter 2 to determine your available spell slots.
 
-As a 1st-level character, you start with the following equipment, 
+## Cleric Class Features
 
-- Chain Shirt 
-- Holy Symbol 
-- Mace
-- Priest's Pack Shield
-- 70 SP
+As a Cleric, you gain the following class features when you reach the specified Cleric levels. These features are listed in the Cleric Features table.
 
-Or you can forgo it and spend 1100 SP on equipment of your choice.
+##### Cleric Features
 
+| Level | Proficiency Bonus | Class Features | Channel Divinity | Cantrips | Prepared Spells | I | II | III | IV | V | VI | VII | VIII | IX |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | +2 | Spellcasting, Divine Order | — | 3 | 4 | 2 | — | — | — | — | — | — | — | — |
+| 2 | +2 | Channel Divinity | 2 | 3 | 5 | 3 | — | — | — | — | — | — | — | — |
+| 3 | +2 | Cleric Subclass | 2 | 3 | 6 | 4 | 2 | — | — | — | — | — | — | — |
+| 4 | +2 | Ability Score Improvement | 2 | 4 | 7 | 4 | 3 | — | — | — | — | — | — | — |
+| 5 | +3 | Sear Undead | 2 | 4 | 9 | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6 | +3 | Subclass feature | 3 | 4 | 10 | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7 | +3 | Blessed Strikes | 3 | 4 | 11 | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8 | +3 | Ability Score Improvement | 3 | 4 | 12 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9 | +4 | — | 3 | 4 | 14 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10 | +4 | Divine Intervention | 3 | 5 | 15 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11 | +4 | — | 3 | 5 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12 | +4 | Ability Score Improvement | 3 | 5 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13 | +5 | — | 3 | 5 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14 | +5 | Improved Blessed Strikes | 3 | 5 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15 | +5 | — | 3 | 5 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16 | +5 | Ability Score Improvement | 3 | 5 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17 | +6 | Subclass feature | 3 | 5 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18 | +6 | — | 4 | 5 | 20 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19 | +6 | Epic Boon | 4 | 5 | 21 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20 | +6 | Greater Divine Intervention | 4 | 5 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
-## Level 1: Divine Order
+### Level 1: Divine Order
 
 You have dedicated yourself to one of the following sacred roles of your choice:
 
@@ -77,46 +73,36 @@ You have dedicated yourself to one of the following sacred roles of your choice:
 - **Thaumaturge.** You know one extra cantrip from the Cleric spell list (see your Spellcasting feature for information on preparing spells). In addition, your mystical connection to the divine gives you a bonus to your Intelligence (Religion) checks. The bonus equals your Wisdom modifier (minimum of +1).
 
 
-## Level 1: Spellcasting
+### Level 1: Spellcasting
 You have learned to cast spells through prayer, meditation, and devotion. See the Player's Handbook for the rules on spellcasting. The information below details how you use those rules as a Cleric.
 
-### Cantrips 
-
-You know three cantrips of your choice from the Cleric spell list. Rather than choosing, you may start with Guidance, Sacred Flame, and Thaumaturgy.
+**Cantrips**  
+You know three cantrips of your choice from the Cleric spell list. Guidance, Sacred Flame, and Thaumaturgy are recommended.
 
 Whenever you gain a Cleric level, you can replace one of your cantrips with another cantrip of your choice from the Cleric spell list.
 
-When you reach 4th and 10th level in this class, you learn another cantrip of your choice from the Cleric spell list, as shown in the Cantrips column of the Cleric table.
+When you reach Cleric levels 4 and 10, you learn another cantrip of your choice from the Cleric spell list, as shown in the Cantrips column of the Cleric Features table.
 
-### Spell Slots 
+**Spell Slots**  
+The Cleric Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-The Cleric table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a Long Rest.
+**Prepared Spells of level 1+**  
+You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Cleric spell list. Bless, Cure Wounds, Guiding Bolt, and Shield of Faith are recommended.
 
-### Prepared Spells of 1st+ Level
+The number of spells on your list increases as you gain Cleric levels, as shown in the Prepared Spells column of the Cleric Features table. Whenever that number increases, choose additional spells from the Cleric spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 3 Cleric, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
-You prepare the list of spells of 1st level and higher that are available for you to cast with this feature. To start, choose four 1st-level spells from the Cleric spell list. Rather than choosing, you may start with Bless, Cure Wounds, Guiding Bolt, and Shield of Faith.
+If another Cleric feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Cleric spells for you.
 
-The number of spells on your list also increases as you gain Cleric levels, as shown in the Prepared Spells column of the Cleric table.
-
-Whenever that number increases, choose additional spells from the Cleric spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. 
-
-For example, if you're a 3rd-level Cleric, your list of prepared spells can include six spells of 1st or 2nd level, in any combination.
-
-If another Cleric feature gives spells that you always have prepared, those spells don't count against the number of spells on the list you prepare with this Spellcasting feature, but those spells otherwise follow the rules in this feature.
-
-### Changing Your Prepared Spells
-
+**Changing Your Prepared Spells**  
 Whenever you finish a Long Rest, you can change your list of prepared spells, replacing one or more of the spells there with other Divine spells for which you have spell slots. Preparing a new list requires time spent in prayer and meditation: at least 1 minute per spell level for each spell you add to the list.
 
-### Spellcasting Ability
-
+**Spellcasting Ability**  
 Wisdom is your Spellcasting Ability for your Cleric spells.
 
-### Spellcasting Focus
-
+**Spellcasting Focus**  
 You can use a Holy Symbol as a Spellcasting Focus for the spells you prepare for this class.
 
-## Level 2: Channel Divinity
+### Level 2: Channel Divinity
 
 You gain the ability to channel divine energy directly from the Outer Planes, using that energy to fuel magical effects. You start with two such effects: Divine Spark and Turn Undead, each of which is described below. Each time you use your Channel Divinity, you choose which effect to create, and you gain additional effect options at higher levels in this class.
 
@@ -124,73 +110,65 @@ You can use Channel Divinity twice. You regain one expended use when you finish 
 
 If a Channel Divinity effect requires a saving throw, the DC equals the Spell Save DC from this class's Spellcasting feature.
 
-### Divine Spark 
-
+**Divine Spark**  
 As a Magic action, you point your Holy Symbol at another creature you can see within 30 feet of yourself and focus divine energy at them. Roll 1d8 and add your Wisdom modifier. You either restore Hit Points to the creature equal to that total or force the creature to make a Constitution saving throw. On a failed save, the creature takes Necrotic or Radiant (your choice) damage equal to that total. On a successful save, the creature takes half as much damage (round down).
  
 You roll an additional d8 when you reach certain Cleric levels: 7th level (2d8), 13th level (3d8), and 18th level (4d8).
 
-### Turn Undead
-
+**Turn Undead**  
 As a Magic action, you present your Holy Symbol and speak a prayer censuring Undead creatures. Each Undead within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it has the Frightened and Incapacitated conditions for 1 minute. This effect ends early on the creature if it takes any damage, you have the Incapacitated condition, or you die.
 
-## Level 3: Ckeric Subclass
+### Level 3: Ckeric Subclass
 
 You gain a Cleric subclass of your choice: 
 
-- [Life Domain](life.md)
-- [Light Domain](light.md)
-- [Trickery Domain](trickery.md)
-- [War Domain](war.md)
+You gain a Cleric subclass of your choice.A subclass is a specialization that grants you features at certain Cleric levels. For the rest of your career, you gain each of your subclass’s features that are of your Cleric level or lower
 
 A subclass is a specialization that grants you special abilities at certain Cleric levels. For the rest of your career, you gain each of your subclass's features that are of your Cleric level and lower.
 
-## Level 4: Ability Score Improvement
+### Level 4: Ability Score Improvement
 
-You gain the [Ability Score Improvement](../../character-creation/feat/feat-general.md#ability-scores-improvement) feat or another feat of your choice for which you qualify.
+You gain the Ability Score Improvement feat (see chapter 5) or another feat of your choice for which you qualify. You gain this feature again at Cleric levels 8, 12, and 16.
 
-As shown on the Cleric table, you gain this feature again at levels 8, 12, 16, and 19.
-
-## Level 5: Smite Undead
+### Level 5: Smite Undead
 
 You can cause your Turn Undead feature to smite the undying; whenever you use Turn Undead, you can roll a number of d8s equal to your Wisdom modifier (minimum of 1d8) and add the rolls together. Each Undead that fails its saving throw against that use of Turn Undead takes Radiant damage equal to the roll's total.
 This damage doesn't end the turn effect.
 
-## Level 6: Subclass Feature
+### Level 6: Subclass Feature
 
 You gain a feature from your Cleric subclass.
 
-## Level 7: Blesssed Strike
+### Level 7: Blesssed Strike
 
 Divine power infuses you in battle. You gain one of the following options of your choice:
 
-- **Divine Strike.** Once on each of your turns when you hit a creature with an attack with a weapon, you can cause the target to take an extra 1d8 Necrotic or Radiant (your choice) damage.
-- **Potent Spellcasting.** You add your Wisdom modifier to the damage you deal with any Divine cantrip.
+- **Divine Strike.** Once on each of your turns when you hit a creature with an attack with a weapon, you can cause the target to take an extra 1d8 :dmg-necrotic: Necrotic or :dmg-radiant: Radiant damage (your choice).
+- **Potent Spellcasting.** You add your Wisdom modifier to the damage you deal with any Cleric cantrip.
  
 If you get either option from another source, you use only the option you chose for this feature.
 
-## Level 9: Commune
+### Level 9: Commune
 
 In the past, you have reached the divine source of your power through prayer. Now you can also have brief conversations; you always have the Commune spell prepared.
 
-## Level 10: Divine Intervention
+### Level 10: Divine Intervention
 
-You can call on your deity or pantheon to intervene on your behalf. As a Magic action, choose any Divine spell of 5th level or lower that doesn't require a Reaction to cast. As part of the same action, you cast that spell without expending a spell slot or needing material components. You then can't use this feature again until you finish a Long Rest.
+You can call on your deity or pantheon to intervene on your behalf. As a Magic action, choose any Cleric spell of level 5 or lower that doesn’t require a Reaction to cast. As part of the same action, you cast that spell without expending a spell slot or needing Material components. You can’t use this feature again until you finish a Long Rest.
 
-## Level 14: Improved Blessed Strike
+### Level 14: Improved Blessed Strikes
 
-The option you chose for Blessed Strikes grows more powerful:
+The option you chose for Blessed Strikes grows more powerful.
 
-- **Divine Strike.** The extra damage of your Divine Strike increases to 2d8.
-- **Potent Spellcasting.** When you cast a Divine cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of Temporary Hit Points equal to twice your Wisdom modifier.
+**Divine Strike.** The extra damage of your Divine Strike increases to 2d8.
 
-## Level 17: Subclass Feature
+**Potent Spellcasting.** When you cast a Cleric cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of Temporary Hit Points equal to twice your Wisdom modifier.
 
-You gain a feature from your Cleric subclass.
- 
-## Level 20: Greater Divine Intervention
+### Level 19: Epic Boon
 
-You are able to call on even more powerful divine intervention. When you use your Divine Intervention feature, you can choose Wish when you select a spell. If you do so, you can't use Divine Intervention again until you finish 2d4 Long Rests.
+You gain an Epic Boon feat (see chapter 5) or another feat of your choice for which you qualify. Boon of Fate is recommended.
 
-When you cast Wish with this feature, you are immune to the stress caused by using Wish to do something other than casting a spell.
+### Level 20: Greater Divine Intervention
+
+You can call on even more powerful divine intervention. When you use your Divine Intervention feature, you can choose Wish when you select a spell. If you do so, you can’t use Divine Intervention again until you finish 2d4 Long Rests.
 
