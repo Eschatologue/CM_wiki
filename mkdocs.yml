@@ -191,7 +191,6 @@ nav:
       - Fighter:
         - class/fighter/index.md
         - Battlemaster: class/fighter/battlemaster.md
-        - Brawler: class/fighter/brawler.md
         - Champion: class/fighter/champion.md
         - Eldritch Knight: class/fighter/eldritch-knight.md
         - Psi Warrior: class/fighter/psi-warrior.md
