@@ -43,7 +43,7 @@ As a Cleric, you gain the following class features when you reach the specified 
 ##### Cleric Features
 
 | Level | Proficiency Bonus | Class Features | Channel Divinity | Cantrips | Prepared Spells | I | II | III | IV | V | VI | VII | VIII | IX |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|:-:|:-:|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 1 | +2 | Spellcasting, Divine Order | — | 3 | 4 | 2 | — | — | — | — | — | — | — | — |
 | 2 | +2 | Channel Divinity | 2 | 3 | 5 | 3 | — | — | — | — | — | — | — | — |
 | 3 | +2 | Cleric Subclass | 2 | 3 | 6 | 4 | 2 | — | — | — | — | — | — | — |
