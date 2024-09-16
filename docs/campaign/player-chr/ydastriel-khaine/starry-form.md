@@ -92,11 +92,11 @@ When a :material-crosshairs-gps: **Marked** creature that you can see is hit by 
 **Investment Liquidation**  
 You have the ability take a :rsc-reaction: Reaction to destroy an amount of SP on your person to enhance an attack, increases healing, or damage reduction, defined as follow:
 
-***Efficiency Investment.*** When you or a friendly creature you can see hits with an attack, you can increase the damage dealt by :die-d10: **1d10** for every 1,000 SP you destroy.
+:   ***Efficiency Investment.*** When you or a friendly creature you can see hits with an attack, you can increase the damage dealt by :die-d10: **1d10** for every 1,000 SP you destroy.
 
-***Health Insurance.*** When you or a friendly creature you can see is targeted by a spell or effect that restores Hit Points or grants temporary Hit Points, you can increase the total Hit Points or the number of temporary Hit Points gained by :die-d10: **1d10** for every 1,000 SP you destroy.
+:   ***Health Insurance.*** When you or a friendly creature you can see is targeted by a spell or effect that restores Hit Points or grants temporary Hit Points, you can increase the total Hit Points or the number of temporary Hit Points gained by :die-d10: **1d10** for every 1,000 SP you destroy.
 
-***Damage Reimbursement.*** When you or a friendly creature you can see takes damage, you can reduce the damage received by :die-d10: **1d10** for every 1,000 SP you destroy.
+:   ***Damage Reimbursement.*** When you or a friendly creature you can see takes damage, you can reduce the damage received by :die-d10: **1d10** for every 1,000 SP you destroy.
 
 ---
 

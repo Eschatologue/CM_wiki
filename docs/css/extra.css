@@ -6,11 +6,6 @@
 /* Base Styles */
 /* -------------------------------- */
 
-.md-typeset .navbar-default {
-    background-color: #2fa4e7;
-    border-top-color: #1995dc;
-}
-
 /* Default Text */
 .md-typeset {
     text-justify: auto;
@@ -136,6 +131,11 @@
 /* Theme Neutral Colour for links */
 [data-md-color-scheme="slate"][data-md-color-primary="black"] {
     --md-typeset-a-color: hsl(174, 100%, 40%);
+}
+
+.md-typeset .navbar-default {
+    background-color: #2fa4e7;
+    border-top-color: #1995dc;
 }
 
 /* -------------------------------- */
