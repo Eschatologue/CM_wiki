@@ -69,37 +69,47 @@ As a Cleric, you gain the following class features when you reach the specified 
 
 You have dedicated yourself to one of the following sacred roles of your choice:
 
-- **Protector.** Trained for battle, you gain Martial Weapon proficiency and Heavy Armor training.
-- **Thaumaturge.** You know one extra cantrip from the Cleric spell list (see your Spellcasting feature for information on preparing spells). In addition, your mystical connection to the divine gives you a bonus to your Intelligence (Religion) checks. The bonus equals your Wisdom modifier (minimum of +1).
+#### Protector
 
+Trained for battle, you gain Martial Weapon proficiency and Heavy Armor training.
+
+#### Thaumaturge
+
+You know one extra cantrip from the Cleric spell list (see your Spellcasting feature for information on preparing spells). In addition, your mystical connection to the divine gives you a bonus to your Intelligence (Religion) checks. The bonus equals your Wisdom modifier (minimum of +1).
 
 ### Level 1: Spellcasting
 You have learned to cast spells through prayer, meditation, and devotion. See the Player's Handbook for the rules on spellcasting. The information below details how you use those rules as a Cleric.
 
-**Cantrips**  
+#### Cantrips
+
 You know three cantrips of your choice from the Cleric spell list. Guidance, Sacred Flame, and Thaumaturgy are recommended.
 
 Whenever you gain a Cleric level, you can replace one of your cantrips with another cantrip of your choice from the Cleric spell list.
 
 When you reach Cleric levels 4 and 10, you learn another cantrip of your choice from the Cleric spell list, as shown in the Cantrips column of the Cleric Features table.
 
-**Spell Slots**  
+#### Spell Slots
+
 The Cleric Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-**Prepared Spells of level 1+**  
+#### Prepared Spells of level 1+
+
 You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Cleric spell list. Bless, Cure Wounds, Guiding Bolt, and Shield of Faith are recommended.
 
 The number of spells on your list increases as you gain Cleric levels, as shown in the Prepared Spells column of the Cleric Features table. Whenever that number increases, choose additional spells from the Cleric spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 3 Cleric, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
 If another Cleric feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Cleric spells for you.
 
-**Changing Your Prepared Spells**  
+#### Changing Your Prepared Spells
+
 Whenever you finish a Long Rest, you can change your list of prepared spells, replacing one or more of the spells there with other Divine spells for which you have spell slots. Preparing a new list requires time spent in prayer and meditation: at least 1 minute per spell level for each spell you add to the list.
 
-**Spellcasting Ability**  
+#### Spellcasting Ability
+
 Wisdom is your Spellcasting Ability for your Cleric spells.
 
-**Spellcasting Focus**  
+#### Spellcasting Focus
+
 You can use a Holy Symbol as a Spellcasting Focus for the spells you prepare for this class.
 
 ### Level 2: Channel Divinity
@@ -110,12 +120,14 @@ You can use Channel Divinity twice. You regain one expended use when you finish 
 
 If a Channel Divinity effect requires a saving throw, the DC equals the Spell Save DC from this class's Spellcasting feature.
 
-**Divine Spark**  
+#### Divine Spark
+
 As a Magic action, you point your Holy Symbol at another creature you can see within 30 feet of yourself and focus divine energy at them. Roll 1d8 and add your Wisdom modifier. You either restore Hit Points to the creature equal to that total or force the creature to make a Constitution saving throw. On a failed save, the creature takes Necrotic or Radiant (your choice) damage equal to that total. On a successful save, the creature takes half as much damage (round down).
  
 You roll an additional d8 when you reach certain Cleric levels: 7th level (2d8), 13th level (3d8), and 18th level (4d8).
 
-**Turn Undead**  
+#### Turn Undead
+
 As a Magic action, you present your Holy Symbol and speak a prayer censuring Undead creatures. Each Undead within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it has the Frightened and Incapacitated conditions for 1 minute. This effect ends early on the creature if it takes any damage, you have the Incapacitated condition, or you die.
 
 ### Level 3: Ckeric Subclass

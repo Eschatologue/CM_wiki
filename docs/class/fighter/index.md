@@ -26,7 +26,7 @@ The dungeon delving, monster slaying, and other dangerous work common among adve
 
 ## Becoming a Fighter...
 
-### As a ### Level 1 Fighter
+### As a Level 1 Fighter
 
 - Gain all the traits in the Core Fighter Traits table.
 - Gain the Fighter's level 1 features, which are listed in the Fighter Features table.
@@ -35,9 +35,12 @@ The dungeon delving, monster slaying, and other dangerous work common among adve
 - Gain the following traits from the Core Fighter Traits table: Hit Point Die, proficiency with Martial weapons, and training with Light and Medium armor and Shields.
 - Gain the Fighter's level 1 features, which are listed in the Fighter Features table.
 
+## Fighter Class Features
+As a Fighter, you gain the following class features when you reach the specified Fighter levels. These features are listed on the Fighter Features table.
+
 ##### Fighter Features
 
-| ### Level | Prof. Bonus | Class Features | Second Wind | Weapon Mastery |
+| Level | Prof. Bonus | Class Features | Second Wind | Weapon Mastery |
 |:-:|:-:|---|:-:|:-:|
 | 1 | +2 | Fighting Style, Second Wind, Weapon Mastery | 2 | 3 |
 | 2 | +2 | Action Surge (one use), Tactical Mind | 2 | 3 |
@@ -60,7 +63,7 @@ The dungeon delving, monster slaying, and other dangerous work common among adve
 | 19 | +6 | Epic Boon | 4 | 6 |
 | 20 | +6 | Three Extra Attacks | 4 | 6 |
 
-### ### Level 1: Fighting Style
+### Level 1: Fighting Style
 
 You have honed your martial prowess and gain a [Fighting Style] feat of your choice (those feats have this feature as a prerequisite).
 
