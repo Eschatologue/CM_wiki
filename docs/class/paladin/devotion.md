@@ -2,19 +2,11 @@
 
 The Oath of Devotion binds Paladins to the loftiest ideals of justice and order. These Paladins meet the ideal of the knight in shining armor. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods' tenets as the measure of their devotion. They hold angels as their ideals and incorporate images of angelic wings into their helmets or coats of arms.
 
-### Tenets of Devotion
+Many who sewar this oath are devoted to gods of law and good and use their "god's" tenets as the measure of personal devotion. Others hold angels as their ideals and incorporate images of angelic wings into their helmets or coars of arms.
 
-Though the exact words and strictures of the Oath of Devotion vary, Paladins of this oath share these tenets.
+The paladins share the following tenets:
 
-***Honesty.*** Don't lie or cheat. Let your word be your promise.
-
-***Courage.*** Never fear to act, though caution is wise.
-
-***Compassion.*** Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.
-
-***Honor.*** Treat others with fairness, and let your honorable deeds be an example to them.
-
-***Duty.*** Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just 
+= Ley 
 
 ### Level 3: Oath Spells
 
