@@ -26,7 +26,7 @@ You learn additional spells when you reach certain levels in this class, as show
 
 ## Level 3: Telepathic Speech
 
-Starting at 1st level, you can form a telepathic connection between your mind and the mind of another. As a bonus action, choose one creature you can see within 30 feet of you. You and the chosen creature can speak telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). To understand each other, you each must speak mentally in a language the other knows.
+Starting at 1st level, you can form a telepathic connection between your mind and the mind of another. As a Bonus Action, choose one creature you can see within 30 feet of you. You and the chosen creature can speak telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). To understand each other, you each must speak mentally in a language the other knows.
 
 The telepathic connection lasts for a number of minutes equal to your sorcerer level. It ends early if you use this ability to form a connection with a different creature.
 
@@ -40,7 +40,7 @@ You gain resistance to psychic damage, and you have advantage on saving throws a
 
 ## Level 14: Revelation in Flesh
 
-You can unleash the aberrant truth hidden within yourself. As a bonus action, you can spend 1 or more sorcery points to magically transform your body for 10 minutes. For each sorcery point you spend, you can gain one of the following benefits of your choice, the effects of which last until the transformation ends:
+You can unleash the aberrant truth hidden within yourself. As a Bonus Action, you can spend 1 or more sorcery points to magically transform your body for 10 minutes. For each sorcery point you spend, you can gain one of the following benefits of your choice, the effects of which last until the transformation ends:
 
 - You can see any invisible creature within 60 feet of you, provided it isn't behind total cover. Your eyes also turn black or become writhing sensory tendrils.
 - You gain a flying speed equal to your walking speed and can hover. As you fly, your skin glistens with mucus or shines with an otherworldly light.

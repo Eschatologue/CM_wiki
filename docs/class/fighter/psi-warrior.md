@@ -51,13 +51,13 @@ When you deal damage to a target with your Psionic Strike, you can force the tar
 
 ## Level 10: Guarded Mind
 
-The psionic energy flowing through you has bolstered your mind. You have resistance to psychic damage. Moreover, if you start your turn charmed or frightened, you can expend a Psionic Energy die and end every effect on yourself subjecting you to those conditions.
+The psionic energy flowing through you has bolstered your mind. You have Resistance to :dmg-psychic: Psychic damage. Moreover, if you start your turn with the Charmed or Frightened condition, you can expend a Psionic Energy Die (no action required) and end every effect on yourself subjecting you to those conditions.
 
 ## Level 15: Bulwark of Force
 
-You can shield yourself and others with telekinetic force. As a bonus action, you can choose creatures, which can include you, that you can see within 30 feet of you, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures is protected by half cover for 1 minute or until you're incapacitated.
+You can shield yourself and others with telekinetic force. As a Bonus Action, you can choose creatures, which can include you, that you can see within 30 feet of you, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures is protected by half cover for 1 minute or until you're incapacitated.
 
-Once you take this bonus action, you can't do so again until you finish a Long Rest, unless you expend a Psionic Energy die to take it again.
+Once you take this Bonus Action, you can't do so again until you finish a Long Rest, unless you expend a Psionic Energy die to take it again.
 
 ## Level 18: Telekinetic Master
 

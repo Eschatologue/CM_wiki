@@ -94,7 +94,7 @@ You prepare the list of level 1+ spells that are available for you to cast with 
 
 The number of spells on your list increases as you gain Artificer levels, as shown in the Prepared Spells column of the Artificer Features table. Whenever that number increases, choose additional spells from the Artificer spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots.
 
-If another Artificer feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Artificer spells for you.
+If another Artificer feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Artificer spells for you.
 
 **Changing Your Prepared Spells**  
 Whenever you finish a Long Rest, you can change your list of prepared spells, replacing any of the spells there with other Artificer spells for which you have spell slots.
@@ -128,7 +128,7 @@ If an infusion ends on an item that contains other things, like a bag of holding
 
 ### Level 3: Artificer Subclass
 
-You gain an Artificer subclass of your choice. A subclass is a specialization that grants you features at certain Artificer levels. For the rest of your career, you gain each of your subclass’s features that are of your Artificer level or lower.
+You gain an Artificer subclass of your choice. A subclass is a specialization that grants you features at certain Artificer levels. For the rest of your career, you gain each of your subclass's features that are of your Artificer level or lower.
 
 ### Level 3: The Right Tool for the Job
 

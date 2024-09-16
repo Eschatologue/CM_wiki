@@ -15,11 +15,11 @@ icon: material/alpha-g-box
 **Components:** V, S, M (a bit of gauze)  
 **Duration:** Concentration, up to 1 hour
 
-A willing creature you touch shape-shifts, along with everything it’s wearing and carrying, into a misty cloud for the duration. The spell ends on the target if it drops to 0 Hit Points or if it takes a Magic action to end the spell on itself.
+A willing creature you touch shape-shifts, along with everything it's wearing and carrying, into a misty cloud for the duration. The spell ends on the target if it drops to 0 Hit Points or if it takes a Magic action to end the spell on itself.
 
-While in this form, the target’s only method of movement is a Fly Speed of 10 feet, and it can hover. The target can enter and occupy the space of another creature. The target has Resistance to Bludgeoning, Piercing, and Slashing damage; it has Immunity to the Prone condition; and it has Advantage on Strength, Dexterity, and Constitution saving throws. The target can pass through narrow openings, but it treats liquids as though they were solid surfaces.
+While in this form, the target's only method of movement is a Fly Speed of 10 feet, and it can hover. The target can enter and occupy the space of another creature. The target has Resistance to Bludgeoning, Piercing, and Slashing damage; it has Immunity to the Prone condition; and it has Advantage on Strength, Dexterity, and Constitution saving throws. The target can pass through narrow openings, but it treats liquids as though they were solid surfaces.
 
-The target can’t talk or manipulate objects, and any objects it was carrying or holding can’t be dropped, used, or otherwise interacted with. Finally, the target can’t attack or cast spells.
+The target can't talk or manipulate objects, and any objects it was carrying or holding can't be dropped, used, or otherwise interacted with. Finally, the target can't attack or cast spells.
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 3.
 
@@ -34,13 +34,13 @@ The target can’t talk or manipulate objects, and any objects it was carrying o
 **Components:** V, S, M (a diamond worth 5,000+ GP)  
 **Duration:** Concentration, up to 1 minute
 
-You conjure a portal linking an unoccupied space you can see within range to a precise location on a different plane of existence. The portal is a circular opening, which you can make 5 to 20 feet in diameter. You can orient the portal in any direction you choose. The portal lasts for the duration, and the portal’s destination is visible through it.
+You conjure a portal linking an unoccupied space you can see within range to a precise location on a different plane of existence. The portal is a circular opening, which you can make 5 to 20 feet in diameter. You can orient the portal in any direction you choose. The portal lasts for the duration, and the portal's destination is visible through it.
 
 The portal has a front and a back on each plane where it appears. Travel through the portal is possible only by moving through its front. Anything that does so is instantly transported to the other plane, appearing in the unoccupied space nearest to the portal.
 
 Deities and other planar rulers can prevent portals created by this spell from opening in their presence or anywhere within their domains.
 
-When you cast this spell, you can speak the name of a specific creature (a pseudonym, title, or nickname doesn’t work). If that creature is on a plane other than the one you are on, the portal opens next to the named creature and transports it to the nearest unoccupied space on your side of the portal. You gain no special power over the creature, and it is free to act as the DM deems appropriate. It might leave, attack you, or help you.
+When you cast this spell, you can speak the name of a specific creature (a pseudonym, title, or nickname doesn't work). If that creature is on a plane other than the one you are on, the portal opens next to the named creature and transports it to the nearest unoccupied space on your side of the portal. You gain no special power over the creature, and it is free to act as the DM deems appropriate. It might leave, attack you, or help you.
 
 ---
 
@@ -53,7 +53,7 @@ When you cast this spell, you can speak the name of a specific creature (a pseud
 **Components:** V  
 **Duration:** 30 days
 
-You give a verbal command to a creature that you can see within range, ordering it to carry out some service or refrain from an action or a course of activity as you decide. The target must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The target automatically succeeds if it can’t understand your command.
+You give a verbal command to a creature that you can see within range, ordering it to carry out some service or refrain from an action or a course of activity as you decide. The target must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The target automatically succeeds if it can't understand your command.
 
 While Charmed, the creature takes 5d10 Psychic damage if it acts in a manner directly counter to your command. It takes this damage no more than once each day.
 
@@ -74,9 +74,9 @@ A Remove Curse, Greater Restoration, or Wish spell ends this spell.
 **Components:** V, S, M (2 Copper Pieces, which the spell consumes)  
 **Duration:** 10 days
 
-You touch a corpse or other remains. For the duration, the target is protected from decay and can’t become Undead.
+You touch a corpse or other remains. For the duration, the target is protected from decay and can't become Undead.
 
-The spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don’t count against the time limit of spells such as Raise Dead.
+The spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don't count against the time limit of spells such as Raise Dead.
 
 ---
 
@@ -91,9 +91,9 @@ The spell also effectively extends the time limit on raising the target from the
 
 You summon a giant centipede, spider, or wasp (chosen when you cast the spell). It manifests in an unoccupied space you can see within range and uses the Giant Insect stat block. The form you choose determines certain details in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
 
-The creature is an ally to you and your allies. In combat, the creature shares your Initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don’t issue any, it takes the Dodge action and uses its movement to avoid danger.
+The creature is an ally to you and your allies. In combat, the creature shares your Initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its movement to avoid danger.
 
-***Using a Higher-Level Spell Slot.*** Use the spell slot’s level for the spell’s level in the stat block.
+***Using a Higher-Level Spell Slot.*** Use the spell slot's level for the spell's level in the stat block.
 
 ![GiantInsect](../../assets/wiki/statblock/GiantInsectstatblock.png)
 
@@ -123,7 +123,7 @@ Until the spell ends, when you make a Charisma check, you can replace the number
 
 An immobile, shimmering barrier appears in a 10-foot Emanation around you and remains for the duration.
 
-Any spell of level 5 or lower cast from outside the barrier can’t affect anything within it. Such a spell can target creatures and objects within the barrier, but the spell has no effect on them. Similarly, the area within the barrier is excluded from areas of effect created by such spells.
+Any spell of level 5 or lower cast from outside the barrier can't affect anything within it. Such a spell can target creatures and objects within the barrier, but the spell has no effect on them. Similarly, the area within the barrier is excluded from areas of effect created by such spells.
 
 *Using a Higher-Level Spell Slot.* The barrier blocks spells of 1 level higher for each spell slot level above 6.
 
@@ -141,11 +141,11 @@ You inscribe a glyph that later unleashes a magical effect. You inscribe it eith
 
 The glyph is nearly imperceptible and requires a successful Wisdom (Perception) check against your spell save DC to notice.
 
-When you inscribe the glyph, you set its trigger and choose whether it’s an explosive rune or a spell glyph, as explained below.
+When you inscribe the glyph, you set its trigger and choose whether it's an explosive rune or a spell glyph, as explained below.
 
 ***Set the Trigger.*** You decide what triggers the glyph when you cast the spell. For glyphs inscribed on a surface, common triggers include touching or stepping on the glyph, removing another object covering it, or approaching within a certain distance of it. For glyphs inscribed within an object, common triggers include opening that object or seeing the glyph. Once a glyph is triggered, this spell ends.
 
-You can refine the trigger so that only creatures of certain types activate it (for example, the glyph could be set to affect Aberrations). You can also set conditions for creatures that don’t trigger the glyph, such as those who say a certain password.
+You can refine the trigger so that only creatures of certain types activate it (for example, the glyph could be set to affect Aberrations). You can also set conditions for creatures that don't trigger the glyph, such as those who say a certain password.
 
 ***Explosive Rune.*** When triggered, the glyph erupts with magical energy in a 20-foot-radius Sphere centered on the glyph. Each creature in the area makes a Dexterity saving throw. A creature takes 5d8 Acid, Cold, Fire, Lightning, or Thunder damage (your choice when you create the glyph) on a failed save or half as much damage on a successful one.
 
@@ -210,9 +210,9 @@ You touch a creature and magically remove one of the following effects from it:
 
 - 1 Exhaustion level
 - The Charmed or Petrified condition
-- A curse, including the target’s Attunement to a cursed magic item
-- Any reduction to one of the target’s ability scores
-- Any reduction to the target’s Hit Point maximum
+- A curse, including the target's Attunement to a cursed magic item
+- Any reduction to one of the target's ability scores
+- Any reduction to the target's Hit Point maximum
 
 ---
 
@@ -241,7 +241,7 @@ Any enemy that moves to a space within 10 feet of the guardian for the first tim
 
 You create a ward that protects up to 2,500 square feet of floor space. The warded area can be up to 20 feet tall, and you shape it as one 50-foot square, one hundred 5-foot squares that are contiguous, or twenty-five 10-foot squares that are contiguous.
 
-When you cast this spell, you can specify individuals that are unaffected by the spell’s effects. You can also specify a password that, when spoken aloud within 5 feet of the warded area, makes the speaker immune to its effects.
+When you cast this spell, you can specify individuals that are unaffected by the spell's effects. You can also specify a password that, when spoken aloud within 5 feet of the warded area, makes the speaker immune to its effects.
 
 The spell creates the effects below within the warded area. Dispel Magic has no effect on Guards and Wards itself, but each of the following effects can be dispelled. If all four are dispelled, Guards and Wards ends. If you cast the spell every day for 365 days on the same area, the spell thereafter lasts until all its effects are dispelled.
 

@@ -30,7 +30,7 @@ As an action, you can gain a base AC of 13 + your Charisma Modifier if you aren'
 
 Your command of earth magic grows stronger, allowing you to harness it for your allies' protection.
 
-As a bonus action, you can grant an aegis to you or one allied creature you can see within 60 feet of you. The aegis is a dim, gray aura of earth magic that protects the target. Any bludgeoning, piercing, or slashing damage the target takes is reduced by a number equals to your Charisma modifier. This effect lasts for 1 minute, until you use it again, or until you are incapacitated.
+As a Bonus Action, you can grant an aegis to you or one allied creature you can see within 60 feet of you. The aegis is a dim, gray aura of earth magic that protects the target. Any bludgeoning, piercing, or slashing damage the target takes is reduced by a number equals to your Charisma modifier. This effect lasts for 1 minute, until you use it again, or until you are incapacitated.
 
 ## Level 6: Extra Attack
 

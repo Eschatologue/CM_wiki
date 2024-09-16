@@ -38,9 +38,9 @@ The ward is represented by a number of d8s equal to the number of sorcery points
 
 ## Level 14: Trance of Order
 
-You gain the ability to align your consciousness to the endless calculations of Mechanus. As a bonus action, you can enter this state for 1 minute. For the duration, attack rolls against you can't benefit from advantage, and whenever you make an attack roll, an ability check, or a saving throw, you can treat a roll of 9 or lower on the d20 as a 10.
+You gain the ability to align your consciousness to the endless calculations of Mechanus. As a Bonus Action, you can enter this state for 1 minute. For the duration, attack rolls against you can't benefit from advantage, and whenever you make an attack roll, an ability check, or a saving throw, you can treat a roll of 9 or lower on the d20 as a 10.
 
-Once you use this bonus action, you can't use it again until you finish a Long Rest, unless you spend 5 sorcery points to use it again.
+Once you use this Bonus Action, you can't use it again until you finish a Long Rest, unless you spend 5 sorcery points to use it again.
 
 ## Level 18: Clockwork Cavalcade
 

@@ -24,7 +24,7 @@ If the magical effect is a spell, it is too wild to be affected by your Metamagi
 | 21-22 | Creatures have disadvantage on saving throws against the next spell you cast in the next minute that involves a saving throw. |
 | 23-24 | Your skin turns a vibrant shade of blue. A remove curse spell can end this effect. |
 | 25-26 | An eye appears on your forehead for the next minute. During that time, you have advantage on Wisdom (Perception) checks that rely on sight. |
-| 27-28 | For the next minute, all your spells with a casting time of 1 action have a casting time of 1 bonus action. |
+| 27-28 | For the next minute, all your spells with a casting time of 1 action have a casting time of 1 Bonus Action. |
 | 29-30 | You teleport up to 60 feet to an unoccupied space of your choice that you can see. |
 | 31-32 | You are transported to the Astral Plane until the end of your next turn, after which time you return to the space you previously occupied or the nearest unoccupied space if that space is occupied. |
 | 33-34 | Maximize the damage of the next damaging spell you cast within the next minute. |
@@ -32,7 +32,7 @@ If the magical effect is a spell, it is too wild to be affected by your Metamagi
 | 37-38 | 1d6 flumphs controlled by the DM appear in unoccupied spaces within 60 feet of you and are frightened of you. They vanish after 1 minute. |
 | 39-40 | You regain 2d10 Hit Points. |
 | 41-42 | You turn into a potted plant until the start of your next turn. While a plant, you are incapacitated and have vulnerability to all damage. If you drop to 0 Hit Points, your pot breaks, and your form reverts. |
-| 43-44 | For the next minute, you can teleport up to 20 feet as a bonus action on each of your turns. |
+| 43-44 | For the next minute, you can teleport up to 20 feet as a Bonus Action on each of your turns. |
 | 45-46 | You cast levitate on yourself. |
 | 47-48 | A unicorn controlled by the DM appears in a space within 5 feet of you, then disappears 1 minute later. |
 | 49-50 | You can't speak for the next minute. Whenever you try, pink bubbles float out of your mouth. |

@@ -17,19 +17,19 @@ icon: material/alpha-h-box
 
 You touch a point and infuse an area around it with holy or unholy power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect of Hallow. The affected area has the following effects.
 
-***Hallowed Ward.*** Choose any of these creature types: Aberration, Celestial, Elemental, Fey, Fiend, or Undead. Creatures of the chosen types can’t willingly enter the area, and any creature that is possessed by or that has the Charmed or Frightened condition from such creatures isn’t possessed, Charmed, or Frightened by them while in the area.
+***Hallowed Ward.*** Choose any of these creature types: Aberration, Celestial, Elemental, Fey, Fiend, or Undead. Creatures of the chosen types can't willingly enter the area, and any creature that is possessed by or that has the Charmed or Frightened condition from such creatures isn't possessed, Charmed, or Frightened by them while in the area.
 
 ***Extra Effect.*** You bind an extra effect to the area from the list below:
 
-- ***Courage.*** Creatures of any types you choose can’t gain the Frightened condition while in the area.
-- ***Darkness.*** Darkness fills the area. Normal light, as well as magical light created by spells of a level lower than this spell, can’t illuminate the area.
-- ***Daylight.*** Bright light fills the area. Magical Darkness created by spells of a level lower than this spell can’t extinguish the light.
-- ***Peaceful Rest.*** Dead bodies interred in the area can’t be turned into Undead.
-- ***Extradimensional Interference.*** Creatures of any types you choose can’t enter or exit the area using teleportation or interplanar travel.
+- ***Courage.*** Creatures of any types you choose can't gain the Frightened condition while in the area.
+- ***Darkness.*** Darkness fills the area. Normal light, as well as magical light created by spells of a level lower than this spell, can't illuminate the area.
+- ***Daylight.*** Bright light fills the area. Magical Darkness created by spells of a level lower than this spell can't extinguish the light.
+- ***Peaceful Rest.*** Dead bodies interred in the area can't be turned into Undead.
+- ***Extradimensional Interference.*** Creatures of any types you choose can't enter or exit the area using teleportation or interplanar travel.
 - ***Fear.*** Creatures of any types you choose have the Frightened condition while in the area.
 - ***Resistance.*** Creatures of any types you choose have Resistance to one damage type of your choice while in the area.
 - ***Silence.*** No sound can emanate from within the area, and no sound can reach into it.
-- ***Tongues.*** Creatures of any types you choose can communicate with any other creature in the area even if they don’t share a common language.
+- ***Tongues.*** Creatures of any types you choose can communicate with any other creature in the area even if they don't share a common language.
 - ***Vulnerability.*** Creatures of any types you choose have Vulnerability to one damage type of your choice while in the area.
 
 ---
@@ -43,9 +43,9 @@ You touch a point and infuse an area around it with holy or unholy power. The ar
 **Components:** V, S, M (a mushroom)  
 **Duration:** 24 hours
 
-You make natural terrain in a 150-foot Cube in range look, sound, and smell like another sort of natural terrain. Thus, open fields or a road can be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road. Manufactured structures, equipment, and creatures within the area aren’t changed.
+You make natural terrain in a 150-foot Cube in range look, sound, and smell like another sort of natural terrain. Thus, open fields or a road can be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road. Manufactured structures, equipment, and creatures within the area aren't changed.
 
-The tactile characteristics of the terrain are unchanged, so creatures entering the area are likely to notice the illusion. If the difference isn’t obvious by touch, a creature examining the illusion can take the Study action to make an Intelligence (Investigation) check against your spell save DC to disbelieve it. If a creature discerns that the terrain is illusory, the creature sees a vague image superimposed on the real terrain.
+The tactile characteristics of the terrain are unchanged, so creatures entering the area are likely to notice the illusion. If the difference isn't obvious by touch, a creature examining the illusion can take the Study action to make an Intelligence (Investigation) check against your spell save DC to disbelieve it. If a creature discerns that the terrain is illusory, the creature sees a vague image superimposed on the real terrain.
 
 ---
 
@@ -58,7 +58,7 @@ The tactile characteristics of the terrain are unchanged, so creatures entering 
 **Components:** V, S  
 **Duration:** Instantaneous
 
-You unleash virulent magic on a creature you can see within range. The target makes a Constitution saving throw. On a failed save, it takes 14d6 Necrotic damage, and its Hit Point maximum is reduced by an amount equal to the Necrotic damage it took. On a successful save, it takes half as much damage only. This spell can’t reduce a target’s Hit Point maximum below 1.
+You unleash virulent magic on a creature you can see within range. The target makes a Constitution saving throw. On a failed save, it takes 14d6 Necrotic damage, and its Hit Point maximum is reduced by an amount equal to the Necrotic damage it took. On a successful save, it takes half as much damage only. This spell can't reduce a target's Hit Point maximum below 1.
 
 ---
 
@@ -71,7 +71,7 @@ You unleash virulent magic on a creature you can see within range. The target ma
 **Components:** V, S, M (a shaving of licorice root)  
 **Duration:** Concentration, up to 1 minute
 
-Choose a willing creature that you can see within range. Until the spell ends, the target’s Speed is doubled, it gains a +2 bonus to Armor Class, it has Advantage on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used to take only the Attack (one attack only), Dash, Disengage, Hide, or Utilize action.
+Choose a willing creature that you can see within range. Until the spell ends, the target's Speed is doubled, it gains a +2 bonus to Armor Class, it has Advantage on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used to take only the Attack (one attack only), Dash, Disengage, Hide, or Utilize action.
 
 When the spell ends, the target is Incapacitated and has a Speed of 0 until the end of its next turn, as a wave of lethargy washes over it.
 
@@ -118,7 +118,7 @@ A creature of your choice that you can see within range regains Hit Points equal
 
 Choose a manufactured metal object, such as a metal weapon or a suit of Heavy or Medium metal armor, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes 2d8 Fire damage when you cast the spell. Until the spell ends, you can take a Bonus Action on each of your later turns to deal this damage again if the object is within range.
 
-If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn’t drop the object, it has Disadvantage on attack rolls and ability checks until the start of your next turn.
+If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn't drop the object, it has Disadvantage on attack rolls and ability checks until the start of your next turn.
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 2.
 
@@ -139,7 +139,7 @@ The creature that damaged you is momentarily surrounded by green flames. It make
 
 ---
 
-### Heroes’ Feast
+### Heroes' Feast
 
 *Level 6 Conjuration (Bard, Cleric, Druid)*
 
@@ -148,7 +148,7 @@ The creature that damaged you is momentarily surrounded by green flames. It make
 **Components:** V, S, M (a gem-encrusted bowl worth 1,000+ GP, which the spell consumes)  
 **Duration:** Instantaneous
 
-You conjure a feast that appears on a surface in an unoccupied 10-foot Cube next to you. The feast takes 1 hour to consume and disappears at the end of that time, and the beneficial effects don’t set in until this hour is over. Up to twelve creatures can partake of the feast.
+You conjure a feast that appears on a surface in an unoccupied 10-foot Cube next to you. The feast takes 1 hour to consume and disappears at the end of that time, and the beneficial effects don't set in until this hour is over. Up to twelve creatures can partake of the feast.
 
 A creature that partakes gains several benefits, which last for 24 hours. The creature has Resistance to Poison damage, and it has Immunity to the Frightened and Poisoned conditions. Its Hit Point maximum also increases by 2d10, and it gains the same number of Hit Points.
 
@@ -212,7 +212,7 @@ For the duration, you emit an aura in a 30-foot Emanation. While in the aura, cr
 
 ---
 
-### Hunter’s Mark
+### Hunter's Mark
 
 *Level 1 Divination (Ranger)*
 

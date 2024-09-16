@@ -23,7 +23,7 @@ Also, you've learned how to create a magical cannon. Using woodcarver's tools or
 
 The cannon is a magical object. Regardless of size, the cannon has an AC of 18 and a number of Hit Points equal to five times your artificer level. It is immune to poison damage and psychic damage. If it is forced to make an ability check or a saving throw, treat all its Ability Scores as 10 (+0). If the mending spell is cast on it, it regains 2d6 Hit Points. It disappears if it is reduced to 0 Hit Points or after 1 hour. You can dismiss it early as an action.
 
-When you create the cannon, you determine its appearance and whether it has legs. You also decide which type it is, choosing from the options on the Eldritch Cannons table. On each of your turns, you can take a bonus action to cause the cannon to activate if you are within 60 feet of it. As part of the same bonus action, you can direct the cannon to walk or climb up to 15 feet to an unoccupied space, provided it has legs.
+When you create the cannon, you determine its appearance and whether it has legs. You also decide which type it is, choosing from the options on the Eldritch Cannons table. On each of your turns, you can take a Bonus Action to cause the cannon to activate if you are within 60 feet of it. As part of the same Bonus Action, you can direct the cannon to walk or climb up to 15 feet to an unoccupied space, provided it has legs.
 
 | Cannon | Activation |
 |---|---|
@@ -49,4 +49,4 @@ Every eldritch cannon you create is more destructive:
 You're a master at forming well-defended emplacements using Eldritch Cannon:
 
 - You and your allies have half cover while within 10 feet of a cannon you create with Eldritch Cannon, as a result of a shimmering field of magical protection that the cannon emits.
-- You can now have two cannons at the same time. You can create two with the same action (but not the same spell slot), and you can activate both of them with the same bonus action. You determine whether the cannons are identical to each other or different. You can't create a third cannon while you have two.
+- You can now have two cannons at the same time. You can create two with the same action (but not the same spell slot), and you can activate both of them with the same Bonus Action. You determine whether the cannons are identical to each other or different. You can't create a third cannon while you have two.

@@ -6,7 +6,7 @@ Most assassins strike with physical weapons, and many burglars and spies use thi
 
 You harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy dice, which are each a d6. You have a number of these dice equal to twice your proficiency bonus, and they fuel various psionic powers you have, which are detailed below.
 
-Some of your powers expend the Psionic Energy die they use, as specified in a power's description, and you can't use a power if it requires you to use a die when your dice are all expended. You regain all your expended Psionic Energy dice when you finish a Long Rest. In addition, as a bonus action, you can regain one expended Psionic Energy die, but you can't do so again until you finish a Short Rest or Long Rest.
+Some of your powers expend the Psionic Energy die they use, as specified in a power's description, and you can't use a power if it requires you to use a die when your dice are all expended. You regain all your expended Psionic Energy dice when you finish a Long Rest. In addition, as a Bonus Action, you can regain one expended Psionic Energy die, but you can't do so again until you finish a Short Rest or Long Rest.
 
 When you reach certain levels in this class, the size of your Psionic Energy dice increases: at level 5 (:die-d8: d8), level 11 (:die-d10: d10), and level 17 (:die-d12: d12).
 
@@ -24,7 +24,7 @@ You can manifest your psionic power as shimmering blades of psychic energy. When
 
 This magic blade is a simple melee weapon with the :weapon-prop-finesse: **Finesse** and :weapon-prop-thrown: **Thrown** properties and the Vex mastery property. It has a normal range of 60 feet and a long range of 120, and on a hit, it deals :dmg-psychic: **Psychic** damage equal to 1d6 plus the ability modifier you used for the attack roll. The blade vanishes immediately after it hits or misses its target, and it leaves no mark on its target if it deals damage.
 
-After you attack with the blade, you can make a melee or ranged weapon attack with a second psychic blade as a bonus action on the same turn, provided your other hand is free to create it. The damage die of this bonus attack is 1d4, instead of 1d6.
+After you attack with the blade, you can make a melee or ranged weapon attack with a second psychic blade as a Bonus Action on the same turn, provided your other hand is free to create it. The damage die of this bonus attack is 1d4, instead of 1d6.
 
 ## Level 9: Soul Blades
 
@@ -32,7 +32,7 @@ Your Psychic Blades are now an expression of your psi-suffused soul, giving you 
 
 **Homing Strikes.** If you make an attack roll with your Psychic Blades and miss the target, you can roll one Psionic Energy die and add the number rolled to the attack roll. If this causes the attack to hit, you expend the Psionic Energy die.
 
-**Psychic Teleportation.** As a bonus action, you manifest one of your Psychic Blades, expend one Psionic Energy die and roll it, and throw the blade at an unoccupied space you can see, up to a number of feet away equal to 10 times the number rolled. You then teleport to that space, and the blade vanishes.
+**Psychic Teleportation.** As a Bonus Action, you manifest one of your Psychic Blades, expend one Psionic Energy die and roll it, and throw the blade at an unoccupied space you can see, up to a number of feet away equal to 10 times the number rolled. You then teleport to that space, and the blade vanishes.
 
 ## Level 13: Psychic Veil
 
