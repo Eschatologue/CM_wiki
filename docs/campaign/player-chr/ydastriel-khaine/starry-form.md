@@ -2,6 +2,8 @@
 
 ## 2014 PHB Starry Forms
 
+---
+
 ### Archer
 
 *A constellation of an archer appears on you.*
@@ -9,12 +11,16 @@
 **Arrow of Arbiters**  
 Your Star Map transform into a Ranged weapon of your choice. You are proficient with the weapon. You can you use weapon to cast **Starry Wisp**, when you do, the spell ignores Half Cover and Three-quarters cover.
 
+---
+
 ### Chalice
 
 *A constellation of a life-giving goblet appears on you.* 
 
 **Rejuvinating Bolt**  
 When you hit a creature with **Starry Wisp** you can choose to restore Hit Points to that creature instead of damaging it. The restored Hit Points is equal to the spell's damage.
+
+---
 
 ### Dragon
 
@@ -25,6 +31,8 @@ When you hit a creature that is no more that one size larger than you with **Sta
 
 ## Crown & Misery Starry Form
 
+---
+
 ### Destruction
 
 *One of your eyes ignites with a searing white blaze while a small, flaming white sphere materializes and orbits you, leaving behind a delicate trail of white. Your being pulsates with an overwhelming intent for destruction.*
@@ -32,8 +40,10 @@ When you hit a creature that is no more that one size larger than you with **Sta
 **Destructive Flare**  
 Your **Starry Wisp** now crackles with instabilities, pulsating with radiant white glows. When you hit a target with the spell, you can force all creature within 5 feet of it to make a :d20-save: Constitution saving throw. On failed save, they take damage as if they had also been hit by this cantrip.
 
-- **Helium Flash**  
+**Helium Flash**  
 When you cast a Druid spell, roll a :die-d8: d8, and you gain a bonus to one of the spell's damage rolls equal to the number rolled. This increases to :die-d10: d10 at Druid level 10.
+
+---
 
 ### Perseverance
 
@@ -44,6 +54,8 @@ Your **Starry Wisp** now deals :dmg-fire: Fire damage and its damage die becomes
 
 **Aura of Tenacity**  
 So long you don't have the Incapacitated condition, any ally who starts their turn within 5 feet of you gains Temporary Hit Points equal to your Druid level until the start of your next turn. At Druid level 10, ally gains Temporary Hit Points when they start their turn 15 feet from you.
+
+---
 
 ### Judgement
 
@@ -59,6 +71,8 @@ Armour constructed from cosmic energies materialise on you, enpowering you to me
 - You gain a bonus to your Armour Class equal to your Wisdom modifier (minimum of 1).
 - You gain a bonus to Concentration Check equal to your Wisdom modifier (minimum of 1).
 
+---
+
 ### Enlightenment
 
 *Radiant laurel wreath materializes, hovering above your head, while your eyes shimmer with a vibrant yellow hue, signaling the unveiling of truth.*
@@ -68,6 +82,8 @@ Your **Starry Wisp** now deals :dmg-psychic: Psychic damage, on hit the creature
 
 **Bastio Veritatis**  
 When a :material-crosshairs-gps: **Marked** creature that you can see is hit by an attack from your ally, you can take a :rsc-reaction: Reaction to cast **Guiding Bolt** against it. When you do, add your spellcasting modifier to the spell Damage Roll and its damage type becomes :dmg-psychic: Psychic damage.
+
+---
 
 ### Prosperity
 
@@ -81,6 +97,8 @@ You have the ability take a :rsc-reaction: Reaction to destroy an amount of SP o
 ***Health Insurance.*** When you or a friendly creature you can see is targeted by a spell or effect that restores Hit Points or grants temporary Hit Points, you can increase the total Hit Points or the number of temporary Hit Points gained by :die-d10: **1d10** for every 1,000 SP you destroy.
 
 ***Damage Reimbursement.*** When you or a friendly creature you can see takes damage, you can reduce the damage received by :die-d10: **1d10** for every 1,000 SP you destroy.
+
+---
 
 ### Equillibrium
 
