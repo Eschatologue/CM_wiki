@@ -268,3 +268,12 @@ table tr:last-child td:last-child {
 .md-typeset hr {
     border-bottom: 2px dashed rgba(255, 255, 255, 0.15);
 }
+
+
+.md-top {
+    background-color: var(--md-default-bg-color--dark);
+
+    &:hover {
+      background-color: var(--md-primary-fg-color);
+    }
+  }
