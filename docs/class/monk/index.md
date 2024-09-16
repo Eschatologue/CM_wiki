@@ -75,7 +75,7 @@ As a level 1 character, you start with the following equipment
 
 Or you can forgo it and spend 650 SP on equipment of your choice.
 
-## Level 1: Martial Arts
+### Level 1: Martial Arts
 
 Your practice of martial arts gives you mastery of combat styles that use your Unarmed Strike and Monk Weapons, which are Simple Melee Weapons and Martial Weapons with the Light property.
 You gain the following benefits while you are unarmed or wielding only Monk Weapons and you aren't wearing armor or wielding a Shield:
@@ -86,11 +86,11 @@ You gain the following benefits while you are unarmed or wielding only Monk Weap
 
 - **Martial Arts Die.** You can roll a d6 in place of the normal damage of your Unarmed Strike or Monk Weapons. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk table.
 
-## Level 1: Unarmored Defense
+### Level 1: Unarmored Defense
 
 While you aren't wearing any armor or wielding a Shield, your base Armor Class equals 10 plus your Dexterity and Wisdom modifiers.
 
-## Level 2: Monk'S Discipline
+### Level 2: Monk'S Discipline
 
 Your self-discipline and martial training allow you to harness a well of extraordinary energy within yourself. Your access to this energy is represented by a number of Discipline Points. Your Monk level determines the number of points you have, as shown in the Discipline Points column of the Monk table.
 
@@ -106,17 +106,17 @@ Some features that use Discipline Points require your target to make a saving th
 
 - **Step of the Wind.** You can take the Dash action as a Bonus Action. Alternatively, you can spend 1 Discipline Point to take both the Disengage and Dash actions as a Bonus Action, and your jump distance is doubled for the turn.
  
-## Level 2: Uncanny Metabolism
+### Level 2: Uncanny Metabolism
 
 When you roll Initiative, you can regain all expended Discipline Points. When you do so, roll your Martial Arts die, and regain a number of Hit Points equal to your Monk level plus the number rolled.
 
 Once you use this feature, you can't use it again until you finish a Long Rest.
 
-## Level 2: Unarmored Movement
+### Level 2: Unarmored Movement
 
 Your speed increases by 10 feet while you aren't wearing armor or wielding a Shield. This bonus increases when you reach certain Monk levels, as shown on the Monk table.
 
-## Level 3: Deflect Attacks
+### Level 3: Deflect Attacks
 
 You can use your Reaction to deflect melee and ranged attacks against you that deal Bludgeoning, Piercing, or Slashing damage.
 
@@ -124,7 +124,7 @@ When you do so, the total damage you take from the attack is reduced by 1d10 plu
 
 If you reduce the damage to 0, you can spend 1 Discipline Point to redirect some of the attack's force. If you do so, choose a creature within 5 feet of you if the attack was a melee attack or 60 feet of yourself that isn't behind Total Cover if the attack was a ranged attack. That creature must succeed on a Dexterity saving throw or take damage equal to two rolls of your Martial Arts die plus your Dexterity modifier. The damage is the same type dealt by the attack.
 
-## Level 3: Monk Subclass
+### Level 3: Monk Subclass
 
 You gain a Monk subclass of your choice: 
 
@@ -135,39 +135,39 @@ You gain a Monk subclass of your choice:
 
 A subclass is a specialization that grants you special abilities at certain Monk levels. For the rest of your career, you gain each of your subclass's features that are of your Monk level and lower.
 
-## Level 4: Ability Score Improvement
+### Level 4: Ability Score Improvement
 
 You gain the [Ability Score Improvement](../../character-creation/feat/feat-general.md#ability-scores-improvement) feat or another feat of your choice for which you qualify.
 
 As shown on the Monk table, you gain this feature again at levels 8, 12, 16, and 19.
  
-## Level 4: Slow Fall
+### Level 4: Slow Fall
 
 You can use your Reaction when you fall to reduce any damage you take from the fall by an amount equal to five times your Monk level.
 
-## Level 5: Extra Attack
+### Level 5: Extra Attack
 
 You can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-## Level 5: Stunning Strike
+### Level 5: Stunning Strike
 
 Once per turn when you hit a creature with a Monk Weapon or an Unarmed Strike, you can spend 1 Discipline Point to attempt a stunning strike. The target must make a Constitution saving throw. On a failed save, the target has the Stunned condition until the start of your next turn. On a successful save, the target takes Force damage equal to a roll of your Martial Arts die plus your Wisdom modifier.
 
-## Level 6: Empowered Strikes
+### Level 6: Empowered Strikes
 
 Whenever you deal damage with your Unarmed Strike, it can deal your choice of Force damage or its normal damage type.
 
-## Level 7: Evasion
+### Level 7: Evasion
 
 When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 You don't benefit from this feature if you have the Incapacitated condition.
 
-## Level 9: Acrobatic Movement
+### Level 9: Acrobatic Movement
 
 While you aren't wearing armor or wielding a Shield, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the movement.
 
-## Level 10: Heightened Discipline
+### Level 10: Heightened Discipline
 
 Your training has pushed your body and mind to new levels. Your Flurry of Blows, Patient Defense, and Step of the Wind gain the following benefits:
 
@@ -175,29 +175,29 @@ Your training has pushed your body and mind to new levels. Your Flurry of Blows,
 - **Patient Defense.** When you spend a Discipline Point to use Patient Defense, you gain a number of Temporary Hit Points equal to two rolls of your Martial Arts die.
 - **Step of the Wind.** When you spend a Discipline Point to use Step of the Wind, you can choose a willing creature within 5 feet of you that is Large or smaller. You move the creature with you until the end of your turn. The creature's movement doesn't provoke Opportunity Attacks.
 
-## Level 10: Self-Restoration
+### Level 10: Self-Restoration
 
 Through sheer force of will, you can remove one of the following conditions from yourself at the end of each of your turns: Charmed, Frightened, or Poisoned.
 
 In addition, forgoing food and drink doesn't give you levels of Exhaustion.
 
-## Level 13: Deflect Energy
+### Level 13: Deflect Energy
 
 You can now use your Deflect Attacks feature against attacks that deal any damage type, not just Bludgeoning, Piercing, or Slashing.
 
-## Level 14: Disciplined Survivor
+### Level 14: Disciplined Survivor
 
 Your physical and mental discipline grant you proficiency in all saving throws.
 Additionally, whenever you make a saving throw and fail, you can spend 1 Discipline Point to reroll it and take the second result.
 
-## Level 15: Perfect Discipline
+### Level 15: Perfect Discipline
 
 When you roll Initiative and have 3 Discipline Points or fewer, you regain expended Discipline Points until you have 4.
 
-## Level 18: Superior Defense
+### Level 18: Superior Defense
 
 At the start of your turn, you can spend 3 Discipline Points to perfectly bolster yourself against harm for 1 minute or until you have the Incapacitated condition. During that time, you have resistance to all damage except Force damage.
 
-## Level 20: Body And Mind
+### Level 20: Body And Mind
 
 You have honed your body and mind to new heights. Your Dexterity and Wisdom scores increase by 4. Your maximum for those scores is now 26.

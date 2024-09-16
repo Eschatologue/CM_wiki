@@ -6,17 +6,17 @@
 
 > *“May your blade be swift, your judgment just, and your decisions resolute.”*
 
-## Level 1: The Joy of Fishing
+### Level 1: The Joy of Fishing
 
 Memories from somewhere beyond **somehow* *gives you Proficiency with [Fishing Supplies](../../equipment/tools/artisan-tools.md#fishing-supplies) if you don't already have it. Moreover, when you don't have Fishing Supplies, you can spend 1 hour and 150 SP worth of material to create one. This can be done as part of a Short Rest.
 
-## Level 1: Cold Rage
+### Level 1: Cold Rage
 
 You've witnessed the ravages of unbridled anger, the toll it takes on the innocent and the cherished. But you are different; even the mightiest of flames can be tamed.
 
 When you use your :fontawesome-solid-hand-fist: **Rage**, instead of flying into a primal ferocity, you instead fall into a chilling silence, your eyes void of all emotion as you prepare to cut through everything with ruthless precision.
 
-## Level 3: Primordial Conflagration
+### Level 3: Primordial Conflagration
 
 *You gain the ability to channel the lethal repercussion of speaking Celestial to your own benefit, allowing you to use the curse put on by the heavens to smite your foes.*
 
@@ -24,7 +24,7 @@ Once per **Rage**, you can roll a :die-d12: **d12** (no action required), losing
 
 ***At Higher Levels:*** The damage die increases by one size at Barbarian level 4 (:die-d8: **d8**), level 9 (:die-d10: **d10**), and level 14 (:die-d12: **d12**).
 
-## Level 3: Improved Totemic Spirit
+### Level 3: Improved Totemic Spirit
 
 Choose one of the animal spirits from the list below or from the original list to gain its benefits. You can change your choice when you gain a level in Barbarian class.
 
@@ -68,7 +68,7 @@ Choose one of the animal spirits from the list below or from the original list t
 
     - **Pack Leader:** While **Raging**, the first creature you hit with an attack on your turn has :d20-disadv: **Disadvantage** on any :d20-attack: **Attack Roll** that isn't against you until the start of your next turn.
 
-## Level 5: Flames of Creation 
+### Level 5: Flames of Creation 
 
 The flames within you do more than just physically sear your enemies; they burn away their very connection to reality. Those who are scorched by your fire are not only reduced to ashes, but their existence is erased from this world. This power grants you the following benefits:
 
@@ -78,7 +78,7 @@ The flames within you do more than just physically sear your enemies; they burn 
 - **Bane of Celestials**  
 When you hit a Celestial creature with :dmg-fire: **Fire** damage while **Raging** from a class feature, you can choose to deal the maximum possible damage instead of rolling.
 
-## Level 6: Aspect of the Primordials
+### Level 6: Aspect of the Primordials
 
 You gain the aspect of Antares' primordial Paths, you can either choose from the list below or choose the one from the options of the original Totem Warrior 6th-level feature.
 
@@ -100,7 +100,7 @@ You can add your :ability-cons: **Constitution** modifier to Wisdom (Animal Hand
 - **The Hermit**  
 You can add your :ability-cons: **Constitution** modifier ton Intelligence (Investigation) or Wisdom (Perception) checks
 
-## Level 9: John's Signatures
+### Level 9: John's Signatures
 
 You learn a series of techniques called "John's Signatures" that can be applied on hit when you forgo the :d20-adv: **Advantage** granted by *Reckless Attack* while ^^Primordial Conflagaration^^ is active. 
 

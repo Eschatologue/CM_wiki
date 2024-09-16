@@ -2,7 +2,7 @@
 
 You stalk prey in the wilds and elsewhere, using your abilities as a Hunter to protect nature and people everywhere from forces that would destroy them.
 
-## Level 3: Hunter's Prey
+### Level 3: Hunter's Prey
 
 You gain one of the following feature options of your choice.
  
@@ -12,11 +12,11 @@ You gain one of the following feature options of your choice.
 
 **Retaliator.** Immediately after a creature within 5 feet of you attacks you, you can use your Reaction to make one attack with a weapon against that creature, whether or not it hit you.
 
-## Level 3: Hunter's Lore
+### Level 3: Hunter's Lore
 
 You can call on the forces of nature to reveal certain strengths and weaknesses of your prey. While a creature is marked by your Hunter's Mark, you know whether that creature has any damage or condition immunities, damage resistances, or damage vulnerabilities, and if the creature has any, you know what they are.
 
-## Level 7: Defensive Tactics
+### Level 7: Defensive Tactics
 
 You gain one of the following feature options of your choice.
 
@@ -26,10 +26,10 @@ You gain one of the following feature options of your choice.
 
 **Uncanny Dodge.** When an attacker that you can see hits you with an attack roll, you can use your Reaction to halve the attack's damage against you (round down).
 
-## Level 11: Superior Hunter'S Prey
+### Level 11: Superior Hunter'S Prey
 
 You gain another feature option of your choice from the Hunter's Prey feature.
 
-## Level 15: Superior Hunter'S Defense
+### Level 15: Superior Hunter'S Defense
 
 You gain another feature option of your choice from the Defensive Tactics feature.

@@ -2,7 +2,7 @@
 
 The College of Glamour traces its origins to the beguiling magic of the Feywild. The Bards who study this magic weave threads of beauty and terror into their songs and stories, and the mightiest among them can cloak themselves in otherworldly majesty. Their performances stir up wistful longing for forgotten innocence, evoke unconscious memories of long-held fears, and tug at the emotions of even the most hard- hearted listeners.
 
-## Level 3: Beguiling Magic
+### Level 3: Beguiling Magic
 
 You always have the Charm Person and Mirror Image spells prepared.
 
@@ -10,11 +10,11 @@ In addition, immediately after you cast an Enchantment or Illusion spell, you ca
 
 Once you use this benefit, you can't use it again until you finish a Long Rest. You can also restore your use of the feature by expending one use of your Bardic Inspiration (no action required).
 
-## Level 3: Mantle Of Inspiration
+### Level 3: Mantle Of Inspiration
 
 You can weave fey magic into a song or dance to fill others with vigor. As a Bonus Action, you can expend a use of Bardic Inspiration, rolling a Bardic Inspiration die. When you do so, choose a number of other creatures within 60 feet of yourself, up to a number equal to your Charisma modifier (minimum of one creature). Each of them gains a number of Temporary Hit Points equal to 2 times the number rolled on the Bardic Inspiration die, and then each of them can use its Reaction to move up to its Speed without provoking Opportunity Attacks.
 
-## Level 6: Mantle Of Majesty
+### Level 6: Mantle Of Majesty
 
 You always have the Command spell prepared.
 
@@ -22,7 +22,7 @@ As a Bonus Action, you cast Command without expending a spell slot, and you take
 
 Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of the feature by expending a spell slot of 3rd level or higher (no action required).
 
-## Level 14: Unbreakable Majesty
+### Level 14: Unbreakable Majesty
 
 As a Bonus Action, you can assume a magically majestic presence for 1 minute or until you have the Incapacitated condition. For the duration, whenever any creature hits you with an attack roll for the first time on a turn, the attacker must succeed on a Charisma saving throw against your Spell Save DC, or the attack misses instead, as the creature recoils from your majesty.
 

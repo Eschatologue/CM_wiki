@@ -2,7 +2,7 @@
 
 Your innate magic stems from the forces of chaos that underlie the order of creation. You or an ancestor might have endured exposure to raw magic, perhaps through a planar portal leading to Limbo or the Elemental Planes. Perhaps you were blessed by a fey being or marked by a demon. Or your magic could be a fluke with no apparent cause. However it came to be, this magic churns within you, waiting for any outlet.
 
-## Level 3: Wild Magic Surge
+### Level 3: Wild Magic Surge
 
 Your spellcasting can unleash surges of untamed magic. No more than once per turn, you can roll a d20 immediately after you cast a Sorcerer spell with a spell slot. If you roll a 20, roll on the Wild Magic Surge table to create a magical effect.
 
@@ -62,21 +62,21 @@ If the magical effect is a spell, it is too wild to be affected by your Metamagi
 | 97-98 | You are surrounded by faint, ethereal music for the next minute. |
 | 99-00 | You regain all expended sorcery points. |
 
-## Level 3: Tides Of Chaos
+### Level 3: Tides Of Chaos
 
 You can manipulate the forces of chance and chaos to gain Advantage on one d20 Test. Once you do so, you must finish a Long Rest before you can use this feature again.
 
 Immediately after you cast a Sorcerer spell with a spell slot before you regain the use of this feature, you automatically roll on the Wild Magic Surge table and regain the use of this feature.
 
-## Level 6: Bend Luck
+### Level 6: Bend Luck
 
 You have the ability to twist fate using your wild magic. Immediately after another creature you can see rolls the d20 for a d20 Test, you can use your Reaction and spend 1 Sorcery Point to roll 1d4 and apply the number rolled as a bonus or penalty (your choice) to the creature's roll.
  
-## Level 14: Controlled Chaos
+### Level 14: Controlled Chaos
 
 You gain a modicum of control over the surges of your wild magic. Whenever you roll on the Wild Magic Surge table, you can roll twice and use either number.
 
-## Level 18: Wild Bombardment
+### Level 18: Wild Bombardment
 
 Immediately after you cast a Sorcerer spell with a spell slot, you can create an effect of your choice from the Wild Magic Surge table, provided the effect casts a spell or restores all your expended Sorcery Points.
 

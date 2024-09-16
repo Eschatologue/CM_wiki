@@ -4,7 +4,7 @@ The tradition of the Four Elements encompasses Monks who tap into the power of t
 
 Some of these Monks focus on a single element, learning to wreathe their fists in fire and cause explosive bursts of flame, or to wield mighty gusts of icy wind. Others weave the elements together and learn a variety of techniques to harness the appropriate elemental force for each particular circumstance.
 
-## Level 3: Elemental Attunement
+### Level 3: Elemental Attunement
 
 You have attuned yourself with the elemental forces of the multiverse. You know the [Elementalism](../../spells/cantrip.md#elementalism) cantrip.
 
@@ -15,7 +15,7 @@ When you deal one of these types with your Unarmed Strike, you can also force th
 
 - **Reach.** When you make an Unarmed Strike, your reach is 10 feet greater than normal, as elemental energy extends from you.
 
-## Level 6: Environmental Burst
+### Level 6: Environmental Burst
 
 As a Magic action, you can spend 2 Discipline Points to cause environmental energy to burst in a 20-foot-radius sphere centered on a point within 120 feet of yourself. Choose a damage type: Acid, Cold, Fire, or Lightning.
 
@@ -23,11 +23,11 @@ Each creature in the sphere must make a Dexterity saving throw. On a failed save
 
 Before or after you take this action, you can make one Unarmed Strike as a Bonus Action.
 
-## Level 11: Stride Of The Elements
+### Level 11: Stride Of The Elements
 
 When you use your Step of the Wind, you gain a Fly Speed and Swim Speed equal to your Speed for 10 minutes.
 
-## Level 17: Elemental Epitome
+### Level 17: Elemental Epitome
 
 When you use the Elemental Attunement feature, you also gain the following benefits for the duration:
 

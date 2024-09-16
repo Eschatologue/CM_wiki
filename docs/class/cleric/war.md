@@ -4,7 +4,7 @@ War has many manifestations. It can make heroes of ordinary people. It can be de
 
 Gods of the War Domain watch over warriors and reward them for their great deeds. They include champions of honor and chivalry as well as gods of destruction and pillage. Other war gods take a more neutral stance, promoting war in all its manifestations and supporting warriors in any circumstance.
 
-## Level 3: Domain Spells
+### Level 3: Domain Spells
 
 Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Life Domain Spells table, you thereafter always have the listed spells prepared.
 
@@ -22,14 +22,14 @@ Your training with weapons allows you to use the Mastery property of one kind of
 
 In addition, you can make one weapon attack as a Bonus Action. You can use this Bonus Action a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a Short Rest or Long Rest.
 
-## Level 3: Guided Strike
+### Level 3: Guided Strike
 
 When you or a creature within 30 feet of you misses with an attack roll, you can use your Reaction to expend one use of your Channel Divinity and give that roll a +10 bonus, potentially causing it to hit.
 
-## Level 6: War God's Blessing
+### Level 6: War God's Blessing
 
 Whenever you cast [Shield of Faith] on another creature, the spell also affects you. In addition, you can cast the spell once without expending a spell slot, and you regain the ability to do so when you finish a Short Rest or Long Rest.
 
-## Level 17: Avatar of Battle
+### Level 17: Avatar of Battle
 
 You gain resistance to Bludgeoning, Piercing, and Slashing damage.

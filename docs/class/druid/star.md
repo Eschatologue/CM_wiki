@@ -4,7 +4,7 @@ Druids of the Circle of Stars draws power from starlight. These druids have trac
 
 Many druids of this circle keep records of the constellations and the stars' effects on the world. Some groups document these observations at megalithic sites, which serve as enigmatic libraries of lore. These repositories might take the form of stone circles, pyramids, petroglyphs, and underground temples; any construction durable enough to protect the circle's sacred knowledge even against a great cataclysm.
 
-## Level 3: Star Map
+### Level 3: Star Map
 
 You've created a star chart as part of your heavenly studies. It is a Tiny object and can serve as a spellcasting focus for your druid spells. You determine its form by rolling on the Star Map table or by choosing one.
 
@@ -24,7 +24,7 @@ If you lose the map, you can perform a 1-hour ceremony to magically create a rep
 | 5 | A crystal that projects starry patterns when placed before a light |
 | 6 | Glass disks that depict constellations |
 
-## Level 3: Starry Form
+### Level 3: Starry Form
 
 You gain the ability to harness constellations' power to alter your form. As a Bonus Action, you can expend a use of your Wild Shape feature to take on a starry form, rather than transforming into a beast.
 
@@ -38,7 +38,7 @@ Whenever you assume your starry form, choose which of the following constellatio
 
 **Dragon.** A constellation of a wise dragon appears on you. When you make an Intelligence or a Wisdom check or a Constitution saving throw to maintain concentration on a spell, you can treat a roll of 9 or lower on the d20 as a 10.
 
-## Level 6: Cosmic Omen
+### Level 6: Cosmic Omen
 
 You learn to use your star map to divine the will of the cosmos. Whenever you finish a Long Rest, you can consult your Star Map for omens. When you do so, roll a die. Until you finish your next Long Rest, you gain access to a special reaction based on whether you rolled an even or an odd number on the die:
 
@@ -48,13 +48,13 @@ You learn to use your star map to divine the will of the cosmos. Whenever you fi
 
 You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
 
-## Level 10: Twinkling Constellations
+### Level 10: Twinkling Constellations
 
 The constellations of your Starry Form improve. The 1d8 of the Archer and the Chalice becomes 2d8, and while the Dragon is active, you have a flying speed of 20 feet and can hover. While in your Starry Form, you become partially incorporeal, giving you resistance to bludgeoning, piercing, and slashing damage.
 
 Moreover, at the start of each of your turns while in your Starry Form, you can change which constellation glimmers on your body.
 
-## Level 14: Star Flare
+### Level 14: Star Flare
 
 Your connection to the cosmos allows you to conjure brilliant starlight. As an action, you conjure a burst of light in a 30-foot-radius sphere centered on a point you can see within 120 feet of you. You can immediately teleport each willing creature in the sphere to an unoccupied space within 30 feet of it. Each creature remaining in the sphere must succeed on a Constitution saving throw against your spell save DC or take 4d10 radiant damage and be blinded until the end of your next turn.
 

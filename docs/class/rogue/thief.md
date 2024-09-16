@@ -2,7 +2,7 @@
 
 A mix of burglar, treasure hunter, and explorer, you are the consummate adventurer. In addition to improving your agility and stealthiness, you gain abilities useful for delving into ruins and getting maximum benefit from the magic items you find there.
 
-## Level 3: Fast Hands
+### Level 3: Fast Hands
 
 As a Bonus Action, you can do one of the following:
 
@@ -10,7 +10,7 @@ As a Bonus Action, you can do one of the following:
 
 **Use an Object.** Take the Use an Object action, or take the Magic action to use a magic item that requires that action.
 
-## Level 3: Second-Story Work
+### Level 3: Second-Story Work
 
 You have trained to reach especially hard-to- reach places, granting you these benefits:
 
@@ -18,13 +18,13 @@ You have trained to reach especially hard-to- reach places, granting you these b
 
 **Jumper.** Your jump distance is determined by your Dexterity rather than your Strength.
 
-## Level 9: Supreme Sneak
+### Level 9: Supreme Sneak
 
 You gain the following Cunning Strike option.
 
 **Stealth Attack (Cost: 1d6).** If you have the Hide action's Invisible condition, this attack doesn't end that condition on you if you end the turn behind Three-Quarters Cover or Total Cover.
  
-## Level 13: Use Magic Device
+### Level 13: Use Magic Device
 
 In your treasure hunting, you have learned how to maximize use of magic items, granting you the following benefits:
 
@@ -34,7 +34,7 @@ In your treasure hunting, you have learned how to maximize use of magic items, g
 
 **Scrolls.** You can use any Spell Scroll, using Intelligence as your Spellcasting Ability for the spell. If the spell is a cantrip or a 1st-level spell, you can cast it reliably. If the scroll contains a higher-level spell, you must first succeed on an Intelligence (Arcana) check with a DC equal to 10 plus the spell's level. On a successful check, you cast the spell from the scroll. On a failed check, the scroll disintegrates.
 
-## Level 17: Thief'S Reflexes
+### Level 17: Thief'S Reflexes
 
 You are adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal Initiative and your second turn at your Initiative minus 10.
  

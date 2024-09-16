@@ -76,7 +76,7 @@ As a Level 1 character, you start with the following equipment
 
 Or you can forgo it and spend 1500 SP on equipment of your choice.
 
-## Level 1: Deft Explorer
+### Level 1: Deft Explorer
 
 You are an unsurpassed explorer. Choose one of your proficiencies in a skill that appears on the Ranger skill list. You gain Expertise in that skill.
 
@@ -84,7 +84,7 @@ In addition, choose two types of terrain: arctic, coast, desert, forest, grassla
  
 Whenever you finish a Long Rest, you can meditate and replace one of the chosen terrain types with a different one from the list.
 
-## Level 1: Spellcasting
+### Level 1: Spellcasting
 
 You have learned to channel the magical essence of nature to cast spells. See the Player's Handbook for the rules on spellcasting. The information below details how you use those rules as a Ranger.
 
@@ -110,21 +110,21 @@ Wisdom is your Spellcasting Ability for your Ranger spells.
 
 You can use a Druidic Focus as a Spellcasting Focus for the spells you prepare for this class.
 
-## Level 1: Weapon Mastery
+### Level 1: Weapon Mastery
 
 Your training with weapons allows you to use the Mastery property of two kinds of weapons of your choice with which you have proficiency, such as Longbows and Longswords.
  
 Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For example, you could switch to using the Mastery properties of Scimitars and Shortswords.
 
-## Level 2: Favored Enemy
+### Level 2: Favored Enemy
 
 You are adept at focusing on a single foe. You always have the Hunter's Mark spell prepared. You can cast it a number of times equal to your Wisdom modifier (minimum of once) without expending a spell slot, and you regain all expended uses of this ability when you finish a Long Rest.
 
-## Level 2: Fighting Style
+### Level 2: Fighting Style
 
 You have honed your martial prowess. You gain one of the following Fighting Style feats of your choice: Archery, Defense, Dueling, or Two- Weapon Fighting.
 
-## Level 3: Ranger Subclass
+### Level 3: Ranger Subclass
 
 You gain a Ranger subclass of your choice: 
 
@@ -135,33 +135,33 @@ You gain a Ranger subclass of your choice:
 
 A subclass is a specialization that grants you special abilities at certain Ranger levels. For the rest of your career, you gain each of your subclass's features that are of your Ranger level and lower.
 
-## Level 4: Ability Score Improvement
+### Level 4: Ability Score Improvement
 
 You gain the [Ability Score Improvement](../../character-creation/feat/feat-general.md#ability-scores-improvement) feat or another feat of your choice for which you qualify.
 
 As shown on the Ranger table, you gain this feature again at levels 8, 12, 16, and 19.
 
-## Level 5: Extra Attack
+### Level 5: Extra Attack
 
 You can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-## Level 6: Roving
+### Level 6: Roving
 
 Your Speed increases by 10 feet while you aren't wearing Heavy Armor.
 
 You also have a Climb Speed and a Swim Speed equal to your Speed.
  
-## Level 9: EXpertise
+### Level 9: EXpertise
 
 You gain Expertise in two of your skill proficiencies of your choice.
 
-## Level 9: Deft Explorer Improvement
+### Level 9: Deft Explorer Improvement
 
 Choose one of your proficiencies in a skill that appears on the Ranger skill list. You gain Expertise in that skill.
 
 In addition, choose two more terrain types for your Deft Explorer feature.
 
-## Level 10: Tireless
+### Level 10: Tireless
 
 Primal forces now help fuel you on your journeys, granting you the following benefits:
 
@@ -169,21 +169,21 @@ Primal forces now help fuel you on your journeys, granting you the following ben
 
 **Decrease Exhaustion.** Whenever you finish a Short Rest, your Exhaustion level, if any, decreases by 1.
 
-## Level 14: Nature'S Veil
+### Level 14: Nature'S Veil
 
 You invoke spirits of nature to magically hide yourself from view. As a Bonus Action, you can give yourself the Invisible condition until the end of your next turn.
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
  
-## Level 17: Precise Hunter
+### Level 17: Precise Hunter
 
 Propelled by primal spirits, you always have Advantage against creature affected by Hunter's Mark spell
 
-## Level 18: Feral Senses
+### Level 18: Feral Senses
 
 Your connection to the forces of nature grants you Blindsight with a range of 30 feet.
 
-## Level 20: Foe Slayer
+### Level 20: Foe Slayer
 
 You become an unparalleled hunter of your foes. When your attack roll misses the target of your Hunter's Mark, you can add your Wisdom modifier to the attack roll, potentially turning it into a hit.
 In addition, whenever you hit that target with an attack roll and deal damage to it, you can add your Wisdom modifier to the damage.

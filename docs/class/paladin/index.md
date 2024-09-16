@@ -78,7 +78,7 @@ As a Level 1 character, you start with the following equipment
 
 Or you can forgo it and spend 150 GP on equipment of your choice.
 
-## Level 1: Lay On Hands
+### Level 1: Lay On Hands
 
 Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a Long Rest. With that pool, you can restore a total number of Hit Points equal to five times your Paladin level.
 
@@ -86,7 +86,7 @@ As a Bonus Action, you can touch a creature (which could be yourself) and draw p
 
 In addition, you can expend 5 Hit Points from the pool of healing to remove the Poisoned condition from the creature, rather than using those points to restore Hit Points.
 
-## Level 1: Spellcasting
+### Level 1: Spellcasting
 
 You have learned to cast spells through prayer, meditation, and devotion. See the Player's Handbook for the rules on spellcasting. The information below details how you use those rules as a Paladin.
 
@@ -114,13 +114,13 @@ Charisma is your Spellcasting Ability for your Paladin spells.
 
 You can use a Holy Symbol as a Spellcasting Focus for the spells you prepare for this class.
 
-## Level 1: Weapon Mastery
+### Level 1: Weapon Mastery
 
 Your training with weapons allows you to use the Mastery property of two kinds of weapons of your choice with which you have proficiency, such as Longswords and Javelins.
 
 Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For example, you could switch to using the Mastery properties of Halberds and Flails.
 
-## Level 2: Paladin'S Smite
+### Level 2: Paladin'S Smite
 
 You have mastered smiting your targets with divine energy. You always have certain spells ready; when you reach a Paladin level specified in the Smite Spells table, you thereafter always have the listed spells prepared.
 
@@ -136,13 +136,13 @@ In addition, you can cast one of your prepared spells from this feature without 
 | 13 | Staggering Smite |
 | 17 | Banishing Smite |
 
-## Level 2: Fighting Style
+### Level 2: Fighting Style
 
 You have honed your martial prowess and gain a [Fighting Style] feat of your choice (those feats have this feature as a prerequisite).
 
 [Fighting Style](../../character-creation/feat/feat-fighting-style.md)
 
-## Level 3: Channel Divinity
+### Level 3: Channel Divinity
 
 You can channel divine energy directly from the Outer Planes, using that energy to fuel magical effects. You start with one such effect: Divine Sense, which is described below. Other Paladin features give additional Channel Divinity effect options. Each time you use this Channel Divinity, you choose which effect to create from among those you have from this class.
 
@@ -154,7 +154,7 @@ If a Channel Divinity effect requires a saving throw, the DC equals the Spell Sa
 
 As a Bonus Action, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the Incapacitated condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the Hallow spell.
 
-## Level 3: Paladin Subclass
+### Level 3: Paladin Subclass
 
 You gain a Paladin subclass of your choice: 
 
@@ -165,46 +165,46 @@ You gain a Paladin subclass of your choice:
 
 A subclass is a specialization that grants you special abilities at certain Paladin levels. For the rest of your career, you gain each of your subclass's features that are of your Paladin level and lower.
 
-## Level 4: Ability Score Improvement
+### Level 4: Ability Score Improvement
 
 You gain the [Ability Score Improvement](../../character-creation/feat/feat-general.md#ability-scores-improvement) feat or another feat of your choice for which you qualify.
 
 As shown on the Bard table, you gain this feature again at levels 8, 12, 16, and 19.
 
-## Level 5: Extra Attack
+### Level 5: Extra Attack
 
 You can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-## Level 5: Faithful Steed
+### Level 5: Faithful Steed
 
 You can easily call on the aid of an otherworldly steed. You always have the Find Steed spell prepared.
 You can also cast the spell once without expending a spell slot, and you regain the ability to do so when you finish a Long Rest.
  
-## Level 6: Aura Of Protection
+### Level 6: Aura Of Protection
 
 You radiate a protective, invisible aura that extends 10 feet from you in every direction, but it doesn't extend through Total Cover. The aura is inactive while you have the Incapacitated condition.
 You and your allies in the aura gain a bonus to saving throws equal to your Charisma modifier (minimum bonus of +1).
 
 If another Paladin is present, a creature can benefit from only one Aura of Protection at a time; the creature chooses which one when entering the auras.
 
-## Level 9: Abjure Foes
+### Level 9: Abjure Foes
 
 As a Magic action, you can expend one use of your Channel Divinity to overwhelm foes with divine awe. As you present your Holy Symbol or weapon, you can target a number of creatures equal to your Charisma modifier (minimum of one creature) that you can see within 60 feet of yourself.
 
 Each target must succeed on a Wisdom saving throw or have the Dazed and Frightened conditions for 1 minute or until it takes any damage.
 
-## Level 10: Aura Of Courage
+### Level 10: Aura Of Courage
 
 You and your allies are immune to the Frightened condition while in your Aura of Protection. If a Frightened ally enters the aura, that condition has no effect on that ally while there.
 
-## Level 11: Radiant Strikes
+### Level 11: Radiant Strikes
 
 You are so suffused with divine might that your weapon strikes carry supernatural power with them. When you hit a target with an attack roll using a melee weapon or an Unarmed Strike, the target takes an extra 1d8 Radiant damage.
  
-## Level 14: Restoring Touch
+### Level 14: Restoring Touch
 
 When you use Lay on Hands on a creature, you can also remove one or more of the following conditions from the creature: Blinded, Charmed, Dazed, Deafened, Frightened, Paralyzed, or Stunned. You must expend 5 Hit Points from the healing pool of Lay on Hands for each of these conditions you remove; those points don't also restore Hit Points to the creature.
 
-## Level 18: Aura Expansion
+### Level 18: Aura Expansion
 
 Your Aura of Protection now extends 30 feet from you rather than 10 feet.

@@ -3,11 +3,11 @@
 *"Sortilege," a Gallian word used for sorcerers, are unlike wizards or others; they're given the power to weave magic as their birthright. You too are this so-called "Sortilege," but your power doesn't stem from weaving spells, but from binding and severing them—a Spellbreaker.*
 
 > "He's a man born into nobility, with a legacy of great achievements, yet devoid of the qualifications, for he carries the weight of his lineage."
-## Level 1: Bonus Proficiencies 
+### Level 1: Bonus Proficiencies 
 
 You gain Proficiency in Intelligence (Arcana) if you don't already have it. Moreover, you can add your Charisma modifier to an Intelligence (Arcana) check to recall lore about spells, magic items, or magic symbolism related to your nation. 
 
-## Level 1: Clairvoyance 
+### Level 1: Clairvoyance 
 
 *You calm yourself down and enter a state of heightened focus, allowing you to sense the weaves of magic that permeate this world.*
 
@@ -27,7 +27,7 @@ If the object or creature is hidden from Divination magic, such as a *nondetecti
 
 You can use this feature a number of times equal to your Proficiency Bonus, you regain one expended use on a Short Rest and all expended use on a Long Rest. When you have no use remaining, you can expend a spell slot and regain a number of use equal to the slot amount expended.
 
-## Level 3: Spellcasting
+### Level 3: Spellcasting
 
 The weave of magic courses through you, yet you've never bothered to learn how to cast spells or study them. With the cost of teachers being quite high nowadays, you've forged your own path instead of adhering to your nation's tradition. While it may be seen as an insult to the old ways, your methods are just as, if not more, effective.
 
@@ -54,17 +54,17 @@ The weave of magic courses through you, yet you've never bothered to learn how t
 | 19th | 5 | 5 | 6 | V |
 | 20th | 5 | 5 | 6 | V |
 
-### Cantrip
+#### Cantrip
 
 You learn three cantrip of your choice from this feature's [spell list], these cantrips counts as Sorcerer spells for you. You can change one cantrip of your choice when you finish a Long Rest.
 
-### Spell Slots
+#### Spell Slots
 
 The table above shows how many :rsc-spell-slot: **Spell Slot** you have to cast a Sorcerer spells of 1st through 5th level. The table also shows what the level of those slots is; all of your :rsc-spell-slot: **Spell Slots** are the same level. To cast one of your spells of 1st level or higher, you must expend a :rsc-spell-slot: **Spell Slot**. 
 
 &emsp; **Regaining Spell Slots.** You regain one expended :rsc-spell-slot: **Spell Slot** when you finish a Short Rest and all expended :rsc-spell-slot: **Spell Slot** when you finish a Long Rest.
 
-### Spellcasting Focus
+#### Spellcasting Focus
 
 You brandish your weapon when you cast spells; any weapon is a spellcasting focus for you under the following conditions:
 
@@ -74,18 +74,18 @@ You brandish your weapon when you cast spells; any weapon is a spellcasting focu
 
 The weapon under those following condition can also be used to perform the spell's somatic components. Any other arcane focuses is restricted for spell learned from these features.
 
-### Spellcasting Ability
+#### Spellcasting Ability
 
 :ability-cha: **Charisma** is your spellcasting ability for your spells, since your magic is innate. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the :d20-save: **Saving Throw** DC for a spell you cast and when making an :d20-attack: **Attack Roll** with one.
 
 - :d20-save: **Spell Save DC** = 8 + your Proficiency Bonus + your Charisma modifier.
 - :d20-attack: **Spell Attack Modifier** = your Proficiency Bonus + your Charisma modifier.
 
-### Spells Known
+#### Spells Known
 
 You know four 1st-level spells of your choice from this feature's [spell list], these spells counts as Sorcerer spells for you and you can change your list of prepared spells when you finish a Long Rest.
 
-## Level 3: Dekrat's Special:material-trademark:
+### Level 3: Dekrat's Special:material-trademark:
 
 *You've learned how to break the normal rules and conventions of casting spells, bending them to your will and channeling them through your weapon strikes*
 
@@ -108,7 +108,7 @@ If your attack misses, the spell fails and has no effect. On a hit, the spell ta
 
 - :d20-attack: **Spell Attacks.** If the spell requires a spell :d20-attack: **Attack Roll**, it instantly take effect when you hit with a weapon attack.
 
-## Level 3: Spellbreaker's Mark
+### Level 3: Spellbreaker's Mark
 
 You learn the [Hunter's Mark](../../../spells/1st-level.md#hunters-mark) spell. You can expend one use of your Clairvoyance to cast this spell without expending any spell slots as if it is a level 1 spell. For you this spell does not require concentration, but the spell's duration remains.
 
@@ -118,7 +118,7 @@ Moroever, you gain additional benefits against your Quarry:
 - Your Quarry has :d20-disadv: **Disadvantage** on Concentration Checks against your attacks.
 - You gain an additional way to use your Sneak Attack: You can add your Sneak Attack damage the damage roll on your weapon attack against your Quarry as long as you don't have :d20-disadv: **Disadvantage** on the attack. 
 
-## Level 5: The People's Eyebrow
+### Level 5: The People's Eyebrow
 
 *With a simple raise of your eyebrow, you possess the uncanny ability to disrupt and foil a spellcaster's magic.*
 
@@ -126,7 +126,7 @@ When you see a creature casting a spell or teleporting within 60 feet of you, yo
 
 If the spell was cast at a level equal to the level of the :rsc-spell-slot: **Spell Slot** you expended or lower, the spell fails and has no effect. If it was cast at a level higher than the slot you expended, make a :ability-cha: Charisma :d20-check: **Ability Check** against DC of 10 + the level of the spell, the spell fails and has no effect when you succeed the check.
 
-## Level 9: Dispel and Beguile
+### Level 9: Dispel and Beguile
 
 *Your tounge carry traces of abjuration magic, distrupting the magic of those you charm.*
 

@@ -87,7 +87,7 @@
 
 /* H3 - Tertiary Heading with line */
 .md-typeset h3 {
-    margin-top: 10px;
+    margin-top: 12px;
     margin-bottom: 4px;
     font-size: 0.75rem;
     display: flex;
@@ -104,6 +104,7 @@
 /* H4 - Complex part title */
 .md-typeset h4 {
     font-weight: bold !important;
+    text-transform: lowercase;
     text-transform: capitalize !important;
     font-size: 0.7rem;
     margin-top: 8px;

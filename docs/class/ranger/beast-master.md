@@ -2,7 +2,7 @@
 
 A Beast Master ranger forms a mystical bond with a special beast, drawing on primal magic and a deep attunement to the natural world.
 
-## Level 3: Primal Companion
+### Level 3: Primal Companion
 
 You magically summon a primal beast, which draws strength from your bond with nature. The beast is friendly to you and your companions and obeys your commands. Choose its stat block—[Beast of the Land], [Beast of the Sea], or [Beast of the Sky]—which uses your Proficiency Bonus (PB) in several places. You also determine the kind of animal the beast is, choosing a kind appropriate for the stat block. Whatever kind you choose, the beast bears primal markings, indicating its supernatural origin.
 
@@ -16,19 +16,19 @@ Whenever you finish a Long Rest, you can summon a different primal beast. The ne
 [Beast of the Sea]: #beast-of-the-sea
 [Beast of the Sky]: #beast-of-the-sky
 
-## Level 7: Exceptional Training
+### Level 7: Exceptional Training
 
 When you use your Bonus Action to command your Primal Companion beast to take an action, you can also command it to take the Dash, Disengage, Dodge, or Help action as a Bonus Action.
 
 In addition, whenever the beast hits with an attack and deals damage, it can deal your choice of Force damage or its normal damage type.
 
-## Level 11: Bestial Fury
+### Level 11: Bestial Fury
 
 When you command your Primal Companion beast to take the Attack action, the beast can make two attacks.
 
 In addition, the first time each turn it hits a creature under the effect of your Hunter's Mark spell, the beast deals extra Force damage equal to the bonus damage of that spell.
 
-## Level 15: Share Spells
+### Level 15: Share Spells
 
 When you cast a spell targeting yourself, you can also affect your Primal Companion beast with the spell if the beast is within 30 feet of you.
 

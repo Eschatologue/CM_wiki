@@ -7,7 +7,7 @@ Gods of trickery are mischief-makers and instigators who stand as a constant cha
 Religious orders that operate in secret, especially those that seek to undermine oppressive governments or hierarchies, also draw on the power of the Trickery Domain.
 
 
-## Level 3: Domain Spells
+### Level 3: Domain Spells
 
 Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Trickery Domain Spells table, you thereafter always have the listed spells prepared.
 
@@ -18,11 +18,11 @@ Your connection to this divine domain ensures you always have certain spells rea
 | 7 | [Confusion], [Dimension Door] |
 | 9 | [Hold Monster], [Mislead] |
 
-## Level 3: Blessing of the Trickster
+### Level 3: Blessing of the Trickster
 
 As an action, you can choose yourself or a willing creature within 30 feet of yourself to gain Advantage on Dexterity (Stealth) checks. This blessing lasts for 1 hour or until you use this feature again.
 
-## Level 3: Invoke Duplicity
+### Level 3: Invoke Duplicity
 
 You can use your Channel Divinity to create an illusory duplicate of yourself.
 
@@ -35,12 +35,12 @@ While the illusion persists, you gain the following benefits:
 
 Move. As a Bonus Action, you can move the illusion up to 30 feet to an unoccupied space you can see that is within 120 feet of yourself, and you can then teleport, swapping places with the illusion.
 
-## Level 6: Trickster's Magic
+### Level 6: Trickster's Magic
 
 If you cast a spell of the Illusion school using a spell slot, you can change the spell's casting time to a Bonus Action for this casting, provided the spell's casting time is normally an action.
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a Long Rest.
 
-## Level 17: Improved Duplicity
+### Level 17: Improved Duplicity
 
 The illusion of your Invoke Duplicity has grown more powerful. When you create it, you can teleport up to 120 feet rather than 30 feet, and when you move it, you can move it up to 60 feet rather than 30 feet. In addition, when you and your allies make attack rolls against a creature
  

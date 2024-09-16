@@ -1,10 +1,12 @@
 # Roguish Archetype: Arcane Trickster
 
+*As quick with a spell as you are with a lockpick, your illusions and enchantments keep opponents on the back foot.*
+
 Some Rogues enhance their fine-honed skills of stealth and agility with Arcane spells, learning magical tricks to aid them in their trade. Some Arcane Tricksters use their talents as pickpockets and burglars, while others are pranksters, mischief-makers, or adventurers.
 
-## Level 3: Spellcasting
+### Level 3: Spellcasting
 
-You have learned to cast spells. See the Player's Handbook for rules on spellcasting. The information below details how you use those rules as an Arcane Trickster.
+You have learned to cast spells. The information below details how you use those rules as an Arcane Trickster.
 
 | Rogue level | Spells Prepared | I | II | III | IV |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -27,47 +29,47 @@ You have learned to cast spells. See the Player's Handbook for rules on spellcas
 | 19 | 12 | 4 | 3 | 3 | 1 |
 | 20 | 13 | 4 | 3 | 3 | 1 |
 
-### Cantrips
+#### Cantrips
 
 You know three cantrips: Mage Hand and two other cantrips of your choice from the Wizard spell list. Whenever you gain a Rogue level, you can replace one of your cantrips, except Mage Hand, with another cantrip of your choice from the Wizard spell list.
 
 When you reach level 10 in this class, you learn another Wizard cantrip of your choice.
 
-### Spell Slots
+#### Spell Slots
 
 The Arcane Trickster Spellcasting table shows how many spell slots you have to cast your spells of level 1 and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a Long Rest.
 
-### Prepared Spells of Level 1+
+#### Prepared Spells of Level 1+
 
 You prepare a list of spells of level 1 and higher that are available for you to cast with this feature. To start, choose three level 1 spells from the Wizard spell list.
 
 The number of spells on your list increases as you gain Fighter levels, as shown in the Prepared Spells column of the Arcane Trickster Spellcasting table. Whenever that number increases, choose additional spells from the Wizard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 7 Fighter, your list of prepared spells can include six Wizard spells of levels 1 and 2, in any combination.
 
-### Changing your Prepared Spells
+#### Changing your Prepared Spells
 
 Whenever you gain a level in this class, you can replace one of the spells you know with another spell of your choice from the Wizard spell list. The new spell must be of a level for which you have spell slots.
 
-### Spellcasting Ability
+#### Spellcasting Ability
 
-Intelligence is your spellcasting ability for your Arcane Trickster spells.
+Intelligence is your spellcasting ability for your Wizard spells.
 
-### Spellcasting Focus
+#### Spellcasting Focus
 
 You can use an Arcane Focus as a Spellcasting Focus for the spells you prepare for this subclass.
 
-## Level 3: Mage Hand Legerdemain
+### Level 3: Mage Hand Legerdemain
 
 When you cast Mage Hand, you can make the spectral hand invisible. You can control the hand as a Bonus Action, instead of an action, and through it, you can use Thieves' Tools and make Dexterity (Sleight of Hand) checks.
 
-## Level 9: Magical Ambush
+### Level 9: Magical Ambush
 
 If you have the Invisible condition when you cast a spell on a creature, it has Disadvantage on any saving throw it makes against the spell on the same turn.
 
-## Level 13: Versatile Trickster
+### Level 13: Versatile Trickster
 
 You gain the ability to distract targets with your Mage Hand. When you use the Disarm or Trip options of your Cunning Strike, you can also target that option at a creature within 5 feet of the spectral hand.
 
-## Level 17: Spell Thief
+### Level 17: Spell Thief
 
 You gain the ability to magically steal the knowledge of how to cast a spell from another spellcaster.
 

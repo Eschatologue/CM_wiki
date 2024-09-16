@@ -14,7 +14,7 @@ Though the exact words and strictures of the Oath of Vengeance vary, Paladins of
 
 ***Restitution.*** If my foes wreak ruin on the world, it is because I failed to stop them. I must help those harmed by my misdeeds.
  
-## Level 3: Oath Spells
+### Level 3: Oath Spells
 
 The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of Vengeance Spells table, you thereafter always have the listed spells prepared.
 
@@ -26,21 +26,21 @@ The magic of your oath ensures you always have certain spells ready; when you re
 | 13th | Banishment, Dimension Door |
 | 17th | Hold Monster, Scrying |
  
-## Level 3: Vow Of Enmity
+### Level 3: Vow Of Enmity
 
 As a Bonus Action, you can expend one use of your Channel Divinity to utter a vow of enmity against a creature you can see within 30 feet of yourself. You gain Advantage on attack rolls against the creature for 1 minute.
 
 If the creature drops to 0 Hit Points before the vow ends, you can transfer the vow to a different creature within 30 feet of yourself (no action required). You can make this transfer no more than once per turn.
 
-## Level 7: Relentless Avenger
+### Level 7: Relentless Avenger
 
 Your supernatural focus helps you close off a foe's retreat. When you hit a creature with an Opportunity Attack, you can reduce the creature's Speed to 0, and you can then move up to half your Speed as part of the same Reaction. This movement doesn't provoke Opportunity Attacks.
 
-## Level 15: Soul Of Vengeance
+### Level 15: Soul Of Vengeance
 
 Immediately after a creature under the effect of your Vow of Enmity hits or misses with an attack, you can use your Reaction to make a melee attack against that creature if it's within range.
 
-## Level: Avenging Angel
+### Level: Avenging Angel
 
 As a Bonus Action, you can imbue your Aura of Protection with holy power, granting the following benefits for 10 minutes or until you end them as a Bonus Action:
 

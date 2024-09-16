@@ -2,11 +2,11 @@
 
 ***Armies require protection, and someone has to put things back together if defenses fail. A combination of protector and medic, a Battle Smith is an expert at defending others and repairing both materiel and personnel. To aid in their work, Battle Smiths are accompanied by a steel defender, a protective companion of their own creation. Many soldiers tell stories of nearly dying before being saved by a Battle Smith and a steel defender.***
 
-## Level 3: Tool Proficiency
+### Level 3: Tool Proficiency
 
 You gain proficiency with smith's tools. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.
 
-## Level 3: Battle Smith Spells
+### Level 3: Battle Smith Spells
 
 You always have certain spells prepared after you reach particular levels in this class, as shown in the Battle Smith Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.
 
@@ -18,14 +18,14 @@ You always have certain spells prepared after you reach particular levels in thi
 | 13 | Aura of Purity, Fire Shield |
 | 17 | Banishing Smite, Mass Cure Wounds |
 
-## Level 3: Battle Ready
+### Level 3: Battle Ready
 
 Your combat training and your experiments with magic have paid off in two ways:
 
 - You gain proficiency with martial weapons.
 - When you attack with a magic weapon, you can use your Intelligence modifier, instead of Strength or Dexterity modifier, for the attack and damage rolls.
 
-## Level 3: Steel Defender
+### Level 3: Steel Defender
 
 Your tinkering has borne you a faithful companion, a steel defender. It's friendly to you and your companions, and it obeys your commands. See its game statistics in the Steel Defender stat block, which uses your proficiency bonus (PB) in several places. You determine the creature's appearance and whether it has two legs or four; your choice has no effect on its game statistics.
 
@@ -70,7 +70,7 @@ At the end of a Long Rest, you can create a new steel defender if you have smith
 
 You can attack twice instead of once whenever you take the Attack action on your turn.
 
-## Level 9: Arcane Jolt
+### Level 9: Arcane Jolt
 
 You've learn new ways to channel arcane energy to harm or heal. When either you hit a target with a magic weapon attack or your steel defender hits a target, you can channel magical energy through the strike to create one of the following effects:
 
@@ -78,7 +78,7 @@ You've learn new ways to channel arcane energy to harm or heal. When either you 
 - Choose one creature or object you can see within 30 feet of the target. Healing energy flows into the chosen recipient, restoring 2d6 Hit Points to it.
 - You can use this energy a number of times equal to your Intelligence modifier (minimum of once), but you can do so no more than once on a turn. You regain all expended uses when you finish a Long Rest.
 
-## Level 15: Improved Defender
+### Level 15: Improved Defender
 
 Your Arcane Jolt and steel defender become more powerful:
 

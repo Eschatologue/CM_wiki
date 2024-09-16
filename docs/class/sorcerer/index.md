@@ -70,7 +70,7 @@ As a level 1 character, you start with the following equipment:
 
 Or you can forgo it and spend 500 SP on equipment of your choice.
 
-## Level 1: Spellcasting
+### Level 1: Spellcasting
 
 Drawing from your innate magic, you can cast spells. See the Player's Handbook for rules on spellcasting. The information below details how you use those rules as a Sorcerer.
 
@@ -105,7 +105,7 @@ Charisma is your spellcasting ability for the spells you cast with your Sorcerer
 
 You can use an Arcane Focus as a Spellcasting Focus for the spells you cast with your Sorcerer features.
 
-## Level 2: Font Of Magic
+### Level 2: Font Of Magic
 
 You can tap into the wellspring of magic within yourself. This wellspring is represented by Sorcery Points, which allow you to create a variety of magical effects.
 
@@ -127,31 +127,31 @@ Any spell slot you create with this feature vanishes when you finish a Long Rest
 | IV | 6 | 7 |
 | V | 7 | 9 |
 
-## Level 2: Metamagic
+### Level 2: Metamagic
 
 Because your magic flows from within you, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from the “Metamagic Options” section later in this class's description. You gain two more when you become a level 10 Sorcerer and two more when you become a level 17 Sorcerer.
 You can use only one Metamagic option on a spell when you cast it, unless otherwise noted in one of those options.
 Whenever you gain a Sorcerer level, you can replace one of your Metamagic options with one you don't know.
 
-## Level 3: Sorcerer Subclass
+### Level 3: Sorcerer Subclass
 
 You gain a Sorcerer subclass of your choice: Aberrant Sorcery, Clockwork Sorcery, Draconic Sorcery, or Wild Magic Sorcery. Subclasses are detailed after this class's description.
 A subclass is a specialization that grants you special features at certain Sorcerer levels. For the rest of your career, you gain each of your subclass's features that are of your Sorcerer level and lower.
 
-## Level 4: Ability Score Improvement
+### Level 4: Ability Score Improvement
 
 You gain the Ability Score Improvement feat or another feat of your choice for which you qualify.
 As shown on the Sorcerer table, you gain this feature again at levels 8, 12, 16, and 19.
 
-## Level 5: Sorcerous Restoration
+### Level 5: Sorcerous Restoration
 
 When you roll Initiative or finish a Short Rest and have no Sorcery Points remaining, you regain a number of those points equal to your Sorcerer level divided by five (round down).
 
-## Level 7: Sorcery Incarnate
+### Level 7: Sorcery Incarnate
 
 While your Innate Sorcery feature is active, you can use up to two of your Metamagic options on each spell you cast.
 In addition, if you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcery Points when you take the Bonus Action to activate it.
 
-## Level 20: Arcane Apotheosis
+### Level 20: Arcane Apotheosis
 
 While your Innate Sorcery feature is active, you can use one Metamagic option on each of your turns without spending Sorcery Points on it

@@ -77,7 +77,7 @@ As a level 1 character, you start with the following equipment
  
 Or you can forgo it and spend 1000 SP on equipment of your choice.
 
-## Level 1: Bardic Inspiration
+### Level 1: Bardic Inspiration
 
 You can supernaturally inspire others through words, music, or dance. This inspiration is represented by your Bardic Inspiration die, which is a d6.
 
@@ -88,7 +88,7 @@ Once within the next hour when the creature fails a d20 Test, the creature can r
 Number of Uses. You can confer a Bardic Inspiration die a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 At Higher Levels. Your Bardic Inspiration die changes when you reach certain Bard levels, as shown in the Bardic Die column of the Bard table. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.
 
-## Level 1: Spellcasting
+### Level 1: Spellcasting
 
 You have learned to cast spells through your bardic arts. See the Player's Handbook for the rules on spellcasting. The information below details how you use those rules as a Bard.
 
@@ -121,17 +121,17 @@ Spellcasting Ability. Charisma is your Spellcasting Ability for your Bard spells
 
 You can use a musical instrument as a Spellcasting Focus for the spells you cast with your Bard features.
 
-## Level 2: Expertise
+### Level 2: Expertise
 
 You gain Expertise in two of your skill proficiencies of your choice. Performance and Persuasion are iconic choices for a Bard if you have proficiency in them.
 
-## Level 2: Jack Of All Trades
+### Level 2: Jack Of All Trades
 
 You can add half your Proficiency Bonus (round down) to any ability check you make that uses a skill proficiency you lack and that doesn't otherwise use your Proficiency Bonus.
 
 For example, if you make a Strength (Athletics) check and lack Athletics proficiency, you can add half your Proficiency Bonus to the check.
 
-## Level 3: Bard Subclass
+### Level 3: Bard Subclass
 
 You gain a Bard subclass of your choice: 
 
@@ -142,39 +142,39 @@ You gain a Bard subclass of your choice:
 
 A subclass is a specialization that grants you special abilities at certain Bard levels. For the rest of your career, you gain each of your subclass's features that are of your Bard level and lower.
 
-## Level 4: Ability Score Improvement
+### Level 4: Ability Score Improvement
 
 You gain the [Ability Score Improvement](../../character-creation/feat/feat-general.md#ability-scores-improvement) feat or another feat of your choice for which you qualify.
 
 As shown on the Bard table, you gain this feature again at levels 8, 12, 16, and 19.
  
-## Level 5: Font Of Inspiration
+### Level 5: Font Of Inspiration
 
 You now also regain all your expended uses of Bardic Inspiration when you finish a Short Rest.
 
 In addition, if you have no uses of Bardic Inspiration left, you can give yourself one use by expending a spell slot (no action required). You can do so only once per turn.
 
-## Level 7: Countercharm
+### Level 7: Countercharm
 
 You can use musical notes or words of power to disrupt mind-influencing effects. If you or a creature within 30 feet of you fails a saving throw against an effect that applies the Charmed or Frightened condition, you can use your Reaction to cause the save to be rerolled, and the new roll has Advantage.
 
-## Level 9: Expertise
+### Level 9: Expertise
 
 You gain Expertise in two of your skill proficiencies of your choice.
 
-## Level 10: Magical Secrets
+### Level 10: Magical Secrets
 
 You have collected magical knowledge from a wide spectrum of disciplines. As a result, your Bard spell list now includes the Arcane, Divine, and Primal spell lists.
 
-## Level 12: Ability Score Improvement
+### Level 12: Ability Score Improvement
 
 You gain the Ability Score Improvement feat or another feat of your choice for which you qualify.
 
-## Level 18: Superior Inspiration
+### Level 18: Superior Inspiration
 
 When you roll Initiative and have no uses of Bardic Inspiration left, you regain two expended uses of it..
 
-## Level 20: Words Of Creation
+### Level 20: Words Of Creation
 
 You have mastered two of the prime Words of Creation: the words of life and death. You therefore always have the Power Word Heal and Power Word Kill spells prepared, and when you cast either spell, you can target a second creature with the spell, provided that creature is within 10 feet of the first target.
 

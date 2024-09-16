@@ -4,7 +4,7 @@
 
 Eldritch Knights combine the martial mastery common to all Fighters with a careful study of magic. Their spells both complement and extend their combat skills, providing additional protection to shore up their armor and also allowing them to engage many foes at once with explosive magic.
 
-## Level 3: Spellcasting
+### Level 3: Spellcasting
 
 You have learned to cast spells. See the Player's Handbook for rules on spellcasting. The information below details how you use those rules as an Eldritch Knight.
 
@@ -59,7 +59,7 @@ Intelligence is your spellcasting ability for your Eldritch Knight spells.
 
 You can use an Arcane Focus as a Spellcasting Focus for the spells you prepare for this subclass.
 
-## Level 3: War Bond
+### Level 3: War Bond
 
 You learn a ritual that creates a magical bond between yourself and one weapon. You perform the ritual over the course of 1 hour, which can be done during a Short Rest. The weapon must be within your reach throughout the ritual, at the conclusion of which you touch the weapon and forge the bond.
 
@@ -67,18 +67,18 @@ Once you have bonded a weapon to yourself, you can't be disarmed of that weapon 
 
 You can have up to two bonded weapons, but can summon only one at a time with your Bonus Action. If you attempt to bond with a third weapon, you must break the bond with one of the other two.
 
-## Level 7: War Magic
+### Level 7: War Magic
 
 When you take the Attack action on your turn, you can replace one of the attacks with a casting of one of your Wizard cantrips that has a casting time of an action.
  
-## Level 10: Eldritch Strike
+### Level 10: Eldritch Strike
 
 You learn how to make your weapon strikes undercut a creature's ability to withstand your spells. When you hit a creature with an attack using a weapon, that creature has Disadvantage on the next saving throw it makes against a spell you cast before the end of your next turn.
 
-## Level 15: Arcane Charge
+### Level 15: Arcane Charge
 
 When you use your Action Surge, you can teleport up to 30 feet to an unoccupied space you can see. You can teleport before or after the additional action.
 
-## Level 18: Improved War Magic
+### Level 18: Improved War Magic
 
 When you take the Attack action on your turn, you can replace two of the attacks with a casting of one of your Wizard spells that has a casting time of an action.
