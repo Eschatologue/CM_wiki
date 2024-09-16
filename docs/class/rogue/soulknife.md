@@ -8,7 +8,7 @@ You harbor a wellspring of psionic energy within yourself. This energy is repres
 
 ##### Soulknife Energy Dice
 
-| Fighter Level | Die Size | Number |
+| Rogue Level | Die Size | Number |
 |:-:|:-:|:-:|
 | 3 | :die-d6: **D6** | 4 |
 | 5 | :die-d8: **D8** | 6 |
