@@ -6,6 +6,11 @@
 /* Base Styles */
 /* -------------------------------- */
 
+.navbar-default {
+    background-color: #2fa4e7;
+    border-top-color: #1995dc;
+}
+
 /* Default Text */
 .md-typeset {
     text-justify: auto;
@@ -104,7 +109,7 @@
 /* H4 - Complex part title */
 .md-typeset h4 {
     font-weight: bold !important;
-    text-transform: uppercase !important;
+    text-transform: capitalize !important;
     font-size: 0.7rem;
     margin-top: 8px;
     margin-bottom: 4px;
