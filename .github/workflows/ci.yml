@@ -1,22 +1,51 @@
-name: ci 
+name: ci
+
 on:
   push:
     branches:
-      - master 
+      - master
       - main
+
 permissions:
   contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - uses: actions/setup-python@v4
         with:
           python-version: 3.x
+
       - uses: actions/cache@v2
         with:
           key: ${{ github.ref }}
           path: .cache
-      - run: pip install mkdocs-material 
+
+      - run: pip install mkdocs-material
       - run: mkdocs gh-deploy --force
+
+      # New steps for SCSS compilation
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'  # Adjust Node.js version as needed
+
+      - name: Install sass
+        run: npm install -g sass
+
+      - name: Compile SCSS to CSS
+        run: |
+          mkdir -p css
+          sass scss:css
+
+      - name: Add compiled CSS to Git
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add css/
+          git commit -m "Compile SCSS to CSS" || echo "No changes to commit"
+          git push
+
