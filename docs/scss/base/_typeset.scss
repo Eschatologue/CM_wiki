@@ -34,7 +34,7 @@ $headingFont: 'Roboto Slab', serif;
       font-variant: small-caps;
       letter-spacing: px2rem(0.8px);
     }
-    
+
     h1, h2, h3 {
       font-family: $headingFont;
     }
@@ -69,16 +69,16 @@ $headingFont: 'Roboto Slab', serif;
     h4 {
       font-weight: 550;
       font-variant: normal !important;
-      font-size: 0.7rem;
+      font-size: 0.6rem;
       margin-top: px2rem(8px);
-      margin-bottom: px2rem(4px);
+      margin-bottom: px2rem(3px);
       text-transform: capitalize !important;
     }
   
     h5 {
       font-variant: normal !important;
       text-transform: capitalize;
-      font-size: 0.575rem;
+      font-size: 0.550rem;
       font-weight: 450;
       margin-bottom: px2rem(-2px);
     }
