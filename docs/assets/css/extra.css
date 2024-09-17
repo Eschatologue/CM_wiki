@@ -86,7 +86,7 @@
 
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
-  font-size: 0.55rem;
+  font-size: 0.6rem;
   padding: 0.3125em 0.625em;
   border-bottom: rgba(255, 255, 255, 0.12);
   background-color: rgba(255, 255, 255, 0.025);
@@ -96,8 +96,9 @@
   background-color: rgba(0, 0, 0, 0);
 }
 .md-typeset table:not([class]) th {
+  font-variant: normal;
   font-weight: bold !important;
-  text-transform: uppercase !important;
+  text-transform: capitalize !important;
   vertical-align: bottom;
   color: rgba(255, 255, 255, 0.6);
   padding: 0.4375em 0.625em;
@@ -132,7 +133,7 @@ table tr:last-child td:last-child {
 /*General Typeset*/
 .md-typeset {
   text-justify: auto;
-  font-weight: 280;
+  font-weight: 300;
   font-size: 0.6rem;
   letter-spacing: 0.015rem;
   /* Headings */
@@ -149,14 +150,13 @@ table tr:last-child td:last-child {
   margin-bottom: 0.2rem;
 }
 .md-typeset strong {
-  font-weight: 540;
+  font-weight: 600;
 }
 .md-typeset .tabbed-block {
   margin-bottom: 0;
   padding-bottom: 0.1rem;
 }
 .md-typeset h1, .md-typeset h2, .md-typeset h3, .md-typeset h4, .md-typeset h5, .md-typeset h6 {
-  font-family: "Roboto Slab", serif;
   font-variant: small-caps;
   letter-spacing: 0.04rem;
 }
@@ -184,12 +184,12 @@ table tr:last-child td:last-child {
   flex: 20 0 1rem;
 }
 .md-typeset h4 {
-  font-weight: bold !important;
-  text-transform: lowercase;
-  text-transform: capitalize !important;
+  font-weight: 550;
+  font-variant: normal !important;
   font-size: 0.7rem;
   margin-top: 0.4rem;
   margin-bottom: 0.2rem;
+  text-transform: capitalize !important;
 }
 .md-typeset h5 {
   font-variant: normal !important;
