@@ -1,0 +1,17 @@
+/* Navigations & Sidebar */
+.md-sidebar--primary {
+    width: 220px;
+}
+  
+.md-sidebar--secondary {
+    width: 270px;
+}
+
+/* Theme Colours */
+[data-md-color-scheme=slate] {
+    --md-code-bg-color: hsl(240, 8%, 21%);
+}
+
+[data-md-color-scheme="slate"][data-md-color-primary="black"] {
+    --md-typeset-a-color: hsl(174, 100%, 40%);
+}

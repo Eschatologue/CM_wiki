@@ -1,0 +1,88 @@
+/*General Typeset*/
+
+.md-typeset {
+    text-justify: auto;
+    font-weight: 280;
+    font-size: 0.6rem;
+    letter-spacing: 0.3px;
+  
+    p {
+      margin-bottom: 9px;
+      margin-top: 4.5px;
+    }
+  
+    ol,
+    ul,
+    li {
+      margin-top: 4px;
+      margin-bottom: 4px;
+    }
+  
+    strong {
+      font-weight: 540;
+    }
+  
+    .tabbed-block {
+      margin-bottom: 0;
+      padding-bottom: 2px;
+    }
+  
+    /* Headings */
+    h1, h2, h3, h4, h5, h6 {
+      font-variant: small-caps;
+      letter-spacing: 0.8px;
+    }
+  
+    h1 {
+      margin-top: -0.25em;
+      margin-bottom: 8px;
+      font-weight: 400;
+    }
+  
+    h2 {
+      border-bottom: 2px solid rgba(255, 255, 255, 0.25);
+      padding-bottom: 2px;
+      margin: 12px 0 4.5px 0;
+    }
+  
+    h3 {
+      margin-top: 12px;
+      margin-bottom: 4px;
+      font-size: 0.75rem;
+      display: flex;
+  
+      &::after {
+        content: ' ';
+        padding-bottom: 2px;
+        border-bottom: 2px solid rgba(255, 255, 255, 0.15);
+        margin: 0 0 6px 10px;
+        flex: 20 0 20px;
+      }
+    }
+  
+    h4 {
+      font-weight: bold !important;
+      text-transform: lowercase;
+      text-transform: capitalize !important;
+      font-size: 0.7rem;
+      margin-top: 8px;
+      margin-bottom: 4px;
+    }
+  
+    h5 {
+      font-variant: normal !important;
+      text-transform: capitalize;
+      font-size: 0.575rem;
+      font-weight: 450;
+      margin-bottom: -2px;
+    }
+  
+    /* Inline Code */
+    code {
+      padding: 3px 6px;
+      font-weight: 400;
+      font-size: 0.4rem;
+      border-radius: 6px;
+    }
+
+ }

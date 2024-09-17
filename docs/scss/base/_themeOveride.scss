@@ -1,0 +1,28 @@
+/* Tool Tips */
+[role=tooltip] > .md-tooltip2__inner {
+    padding: 0.45em 1.5em;
+    max-width: 35rem;
+    font-size: 0.7rem;
+    font-weight: normal;
+    border-radius: 4px;
+  }
+  
+  /* Grid Layout */
+  .md-grid {
+    max-width: 83%; /* Or 100% for full-width */
+  }
+  
+  /* Colour Classes */
+  .darkslategray {
+    color: #32333d;
+  }
+  
+  .darkslategrayaccent {
+    color: #27272f;
+  }
+  
+  /* Divider Line */
+  .md-typeset hr {
+    border-bottom: 2px dashed rgba(255, 255, 255, 0.15);
+  }
+  
