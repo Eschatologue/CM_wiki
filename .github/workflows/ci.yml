@@ -41,8 +41,8 @@ jobs:
           echo "Listing docs directory contents:"
           ls -R docs
 
-      - name: Compile SCSS to CSS
+      - name: Compile SCSS to extra.css
         run: |
           mkdir -p docs/css
-          echo "Compiling SCSS to CSS..."
-          sass docs/scss:docs/css
+          echo "Compiling extra.scss to extra.css..."
+          sass docs/scss/extra.scss:docs/css/extra.css
