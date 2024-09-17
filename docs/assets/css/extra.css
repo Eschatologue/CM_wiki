@@ -52,15 +52,6 @@
   max-width: 86%; /* Or 100% for full-width */
 }
 
-/* Colour Classes */
-.darkslategray {
-  color: 235deg, 10%, 22%;
-}
-
-.darkslategrayaccent {
-  color: 240deg, 9%, 17%;
-}
-
 /* Divider Line */
 .md-typeset hr {
   border-bottom: 0.125em dashed rgba(255, 255, 255, 0.15);
