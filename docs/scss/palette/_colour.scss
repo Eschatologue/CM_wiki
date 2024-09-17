@@ -143,8 +143,8 @@
 ) {
 
   // Color palette
-  [data-md-color-scheme="dracula"][data-md-color-primary="#{$name}"],
-  [data-md-color-scheme="dracula"] :not([data-md-color-scheme])[data-md-color-primary="#{$name}"]
+  [data-md-color-scheme="slate"][data-md-color-primary="#{$name}"],
+  [data-md-color-scheme="slate"] :not([data-md-color-scheme])[data-md-color-primary="#{$name}"]
    {
 
     --md-primary-code-bg-color:         #{mix($drac-bg, nth($colors, 1), 85%)};
