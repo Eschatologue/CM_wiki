@@ -19,20 +19,6 @@
   --md-code-hl-builtin-color: var(--md-code-hl-constant-color);
   --md-code-hl-class-color: var(--md-code-hl-function-color);
 
-  /*
-  // Various Material related color variables
-  --md-typeset-a-color: #{$clr-cyan-500};
-
-  // Progressbar colors
-  --md-progress-stripe: var(--md-default-bg-color--lighter);
-  --md-progress-100: #{$clr-green-a400};
-  --md-progress-80: #{$clr-green-a400};
-  --md-progress-60: #{$clr-yellow-700};
-  --md-progress-40: #{$clr-orange-a400};
-  --md-progress-20: #{$clr-red-a200};
-  --md-progress-0: #{$clr-red-a400};
-*/
-
   // Keys colors
   --md-typeset-kbd-color: #{shade(hsla(0, 100%, 100%, 1), 8%)};
   --md-typeset-kbd-border-color: #{shade(hsla(0, 100%, 100%, 1), 28%)};
