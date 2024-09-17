@@ -14,6 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        name: Checkout repository
 
       - uses: actions/setup-python@v4
         with:
@@ -46,3 +47,11 @@ jobs:
           mkdir -p docs/css
           echo "Compiling extra.scss to extra.css..."
           sass docs/scss/extra.scss:docs/css/extra.css
+
+      - name: Commit and push compiled CSS
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add docs/css/extra.css
+          git commit -m "Update compiled extra.css"
+          git push
