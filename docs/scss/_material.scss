@@ -1,3 +1,6 @@
+$accentColour: hex2hsl(#3F51B5);
+$accentColour--semitransparent: hex2hsl(#3f51b593);
+
 /* Navigations & Sidebar */
 .md-sidebar--primary {
     width: px2rem(220px);
@@ -14,7 +17,7 @@
   .md-header {
     color: var(--md-text-color);
     background-color: var(--md-header-bg-color);
-    border-bottom: px2rem(1px) solid var(--md-primary-fg-color);
+    border-bottom: px2rem(1px) solid var($accentColour);
 
     &[data-md-state=shadow] {
         box-shadow: 0 0 px2rem(4px) rgba(0,0,0,.15),
@@ -33,7 +36,7 @@
   // Tabs
   .md-tabs {
     color: var(--md-text-color);
-    background-color: var(--md-primary-fg-color--transparent);
+    background-color: var($accentColour--semitransparent);
 
     &__link--active {
         color: var(--md-primary-fg-color);
