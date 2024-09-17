@@ -36,16 +36,13 @@ jobs:
       - name: Install sass
         run: npm install -g sass
 
+      - name: List directory contents
+        run: |
+          echo "Listing docs directory contents:"
+          ls -R docs
+
       - name: Compile SCSS to CSS
         run: |
-          mkdir -p css
-          sass scss:css
-
-      - name: Add compiled CSS to Git
-        run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@github.com'
-          git add css/
-          git commit -m "Compile SCSS to CSS" || echo "No changes to commit"
-          git push
-
+          mkdir -p docs/css
+          echo "Compiling SCSS to CSS..."
+          sass docs/scss:docs/css
