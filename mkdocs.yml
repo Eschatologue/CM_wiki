@@ -267,9 +267,9 @@ theme:
     - pymdownx.superfences
   language: en
   palette:
-    scheme: slate
-    primary: black
-    accent: teal
+    scheme: dracula
+    primary: indigo
+    accent: indigo
   font:
     code: Roboto Code
     text: Roboto
