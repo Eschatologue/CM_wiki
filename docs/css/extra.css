@@ -56,10 +56,34 @@
   --md-typeset-a-color: hsl(174, 100%, 40%);
 }
 
-.md-typeset table:not([class]) {
-  /* Disable Table Row Hover */
-  /* Table Header Styling */
+/* Tool Tips */
+[role=tooltip] > .md-tooltip2__inner {
+  padding: 0.45em 1.5em;
+  max-width: 35rem;
+  font-size: 0.7rem;
+  font-weight: normal;
+  border-radius: 0.25em;
 }
+
+/* Grid Layout */
+.md-grid {
+  max-width: 83%; /* Or 100% for full-width */
+}
+
+/* Colour Classes */
+.darkslategray {
+  color: 235deg, 10%, 22%;
+}
+
+.darkslategrayaccent {
+  color: 240deg, 9%, 17%;
+}
+
+/* Divider Line */
+.md-typeset hr {
+  border-bottom: 0.125em dashed rgba(255, 255, 255, 0.15);
+}
+
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
   font-size: 0.55rem;
@@ -96,42 +120,13 @@ table tr:last-child td:last-child {
   border-radius: 0 0 0.375em 0 !important;
 }
 
-/* Table Border and Width */
-.md-typeset__table {
-  width: 100%;
-}
-
 .md-typeset__table table:not([class]) {
   display: table;
   border-color: transparent;
 }
 
-/* Tool Tips */
-[role=tooltip] > .md-tooltip2__inner {
-  padding: 0.45em 1.5em;
-  max-width: 35rem;
-  font-size: 0.7rem;
-  font-weight: normal;
-  border-radius: 0.25em;
-}
-
-/* Grid Layout */
-.md-grid {
-  max-width: 83%; /* Or 100% for full-width */
-}
-
-/* Colour Classes */
-.darkslategray {
-  color: 235deg, 10%, 22%;
-}
-
-.darkslategrayaccent {
-  color: 240deg, 9%, 17%;
-}
-
-/* Divider Line */
-.md-typeset hr {
-  border-bottom: 0.125em dashed rgba(255, 255, 255, 0.15);
+.md-typeset__table {
+  width: 100%;
 }
 
 /*General Typeset*/
