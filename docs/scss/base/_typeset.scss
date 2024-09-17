@@ -4,7 +4,7 @@ $headingFont: 'Roboto Slab', serif;
 
 .md-typeset {
     text-justify: auto;
-    font-weight: 280;
+    font-weight: 300;
     font-size: 0.6rem;
     letter-spacing: px2rem(0.3px);
   
@@ -21,7 +21,7 @@ $headingFont: 'Roboto Slab', serif;
     }
   
     strong {
-      font-weight: 540;
+      font-weight: 600;
     }
   
     .tabbed-block {
@@ -31,7 +31,6 @@ $headingFont: 'Roboto Slab', serif;
   
     /* Headings */
     h1, h2, h3, h4, h5, h6 {
-      font-family: $headingFont;
       font-variant: small-caps;
       letter-spacing: px2rem(0.8px);
     }
@@ -64,12 +63,12 @@ $headingFont: 'Roboto Slab', serif;
     }
   
     h4 {
-      font-weight: bold !important;
-      text-transform: lowercase;
-      text-transform: capitalize !important;
+      font-weight: 550;
+      font-variant: normal !important;
       font-size: 0.7rem;
       margin-top: px2rem(8px);
       margin-bottom: px2rem(4px);
+      text-transform: capitalize !important;
     }
   
     h5 {
