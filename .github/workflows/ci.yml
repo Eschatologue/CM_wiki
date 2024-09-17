@@ -19,7 +19,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '16'  # Adjust Node.js version as needed
+          node-version: '16'
 
       - name: Install sass
         run: npm install -g sass
@@ -30,7 +30,7 @@ jobs:
           echo "Compiling extra.scss to extra.css..."
           sass docs/scss/extra.scss:docs/css/extra.css
 
-      # Proceed with the rest of the build process
+      # The rest of the build process
       - uses: actions/setup-python@v4
         with:
           python-version: 3.x
@@ -49,5 +49,5 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add docs/css/extra.css docs/css/extra.css.map 
-          git commit -m "Update compiled extra.css and extra.css.map"
+          git commit -m "SCSS to CSS generation"
           git push
