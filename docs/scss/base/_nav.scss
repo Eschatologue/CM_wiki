@@ -10,6 +10,16 @@
 /* Theme Colours */
 [data-md-color-scheme=slate] {
     --md-code-bg-color: hsl(240, 8%, 21%);
+    .md-header {
+        color: var(--md-text-color);
+        background-color: var(--md-header-bg-color);
+        border-bottom: px2rem(1px) solid var(--md-primary-fg-color);
+    
+        &[data-md-state=shadow] {
+            box-shadow: 0 0 px2rem(4px) rgba(0,0,0,.15),
+                        0 0 px2rem(4px) px2rem(8px) rgba(0,0,0,.2);
+        }
+      }
 }
 
 [data-md-color-scheme="slate"][data-md-color-primary="black"] {
