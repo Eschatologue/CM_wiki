@@ -56,6 +56,10 @@
   --md-typeset-a-color: hsl(174, 100%, 40%);
 }
 
+/* Table Styles */
+table:not([class]) {
+  /* Disable Hover */
+}
 table:not([class]) th,
 table:not([class]) td {
   font-size: 0.55rem;
@@ -193,6 +197,10 @@ table tr:last-child td:last-child {
   font-weight: 400;
   font-size: 0.4rem;
   border-radius: 6px;
+}
+
+table:not([class]) {
+  all: unset;
 }
 
 /*# sourceMappingURL=extra.css.map */
