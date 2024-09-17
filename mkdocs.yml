@@ -267,7 +267,7 @@ theme:
     - pymdownx.superfences
   language: en
   palette:
-    scheme: dracula
+    scheme: slate
     primary: indigo
     accent: indigo
   font:
