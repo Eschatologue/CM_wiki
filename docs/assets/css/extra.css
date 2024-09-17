@@ -67,7 +67,7 @@
 
 /* Grid Layout */
 .md-grid {
-  max-width: 83%; /* Or 100% for full-width */
+  max-width: 85%; /* Or 100% for full-width */
 }
 
 /* Colour Classes */
@@ -195,7 +195,7 @@ table tr:last-child td:last-child {
   text-transform: capitalize;
   font-size: 0.575rem;
   font-weight: 450;
-  margin-bottom: -px2rem(2px);
+  margin-bottom: -0.1rem;
 }
 .md-typeset code {
   padding: 0.15rem 0.3rem;
