@@ -122,11 +122,11 @@ table tr:last-child td:last-child {
 
 /* Colour Classes */
 .darkslategray {
-  color: #32333d;
+  color: 235deg, 10%, 22%;
 }
 
 .darkslategrayaccent {
-  color: #27272f;
+  color: 240deg, 9%, 17%;
 }
 
 /* Divider Line */
@@ -207,10 +207,6 @@ table tr:last-child td:last-child {
   font-weight: 400;
   font-size: 0.4rem;
   border-radius: 6px;
-}
-
-.md-typeset table:not([class]) {
-  all: unset;
 }
 
 /*# sourceMappingURL=extra.css.map */
