@@ -12,15 +12,6 @@
     max-width: 86%; /* Or 100% for full-width */
   }
   
-  /* Colour Classes */
-  .darkslategray {
-    color: hex2hsl(#32333d);
-  }
-  
-  .darkslategrayaccent {
-    color: hex2hsl(#27272f);
-  }
-  
   /* Divider Line */
   .md-typeset hr {
     border-bottom: px2em(2px) dashed rgba(255, 255, 255, 0.15);
