@@ -248,16 +248,7 @@ site_description: >-
 
 # CSS
 extra_css:
-  - css/extra.css
-  - css/admonition.css
-
-# - https://unpkg.com/katex@0/dist/katex.min.css
-
-# JavaScript
-# 3xtra_javascript:
-#  - javascripts/katex.js
-#  - https://unpkg.com/katex@0/dist/katex.min.js
-#  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+  - assets/css/extra.css
 
 # Configuration
 theme:

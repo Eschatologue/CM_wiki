@@ -28,7 +28,7 @@ jobs:
         run: |
           mkdir -p docs/css
           echo "Compiling extra.scss to extra.css..."
-          sass docs/scss/extra.scss:docs/css/extra.css
+          sass docs/scss/extra.scss:docs/assets/css/extra.css
 
       # The rest of the build process
       - uses: actions/setup-python@v4
@@ -48,6 +48,6 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add docs/css/extra.css docs/css/extra.css.map 
+          git add docs/assets/css/extra.css docs/assets/css/extra.css.map 
           git commit -m "SCSS to CSS generation"
           git push
