@@ -40,11 +40,11 @@
 
 /* Navigations & Sidebar */
 .md-sidebar--primary {
-  width: 220px;
+  width: 11rem;
 }
 
 .md-sidebar--secondary {
-  width: 270px;
+  width: 13.5rem;
 }
 
 /* Theme Colours */
@@ -112,7 +112,7 @@ table tr:last-child td:last-child {
   max-width: 35rem;
   font-size: 0.7rem;
   font-weight: normal;
-  border-radius: 4px;
+  border-radius: 0.25em;
 }
 
 /* Grid Layout */
@@ -131,7 +131,7 @@ table tr:last-child td:last-child {
 
 /* Divider Line */
 .md-typeset hr {
-  border-bottom: 2px dashed rgba(255, 255, 255, 0.15);
+  border-bottom: 0.125em dashed rgba(255, 255, 255, 0.15);
 }
 
 /*General Typeset*/
