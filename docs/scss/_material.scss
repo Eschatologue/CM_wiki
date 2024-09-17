@@ -1,7 +1,4 @@
-$accentColour: hex2hsl(#3F51B5); // Original HSL colour
-$accentColour--semitransparent: hsla(nth($accentColour, 1), nth($accentColour, 2), nth($accentColour, 3), 0.35);
-
-$bgColour: hsl(220,15%,13%);
+$md-primary-fg-color: var(--md-primary-fg-color, #3F51B5); // Using a fallback in case the variable isn't defined
 
 /* Navigations & Sidebar */
 .md-sidebar--primary {
@@ -17,10 +14,6 @@ $bgColour: hsl(220,15%,13%);
    
     --md-text-color: var(--md-default-fg-color);
     background-color: var(--md-default-bg-color);
-
-    // Footer color shades
-    --md-footer-bg-color: transparent;
-    --md-footer-bg-color--dark: var(--md-default-bg-color--darkest);
 
     // Header colors
     --md-header-fg-color: var(--md-text-color);
@@ -49,7 +42,7 @@ $bgColour: hsl(220,15%,13%);
   // Tabs
   .md-tabs {
     color: var(--md-text-color);
-    background-color: var(--md-primary-fg-color--transparent);
+    background-color: rgba($md-primary-fg-color, 0.2);
 
     &__link--active {
         color: var(--md-primary-fg-color);
