@@ -2,10 +2,10 @@
   th,
   td {
       font-size: 0.55rem;
-      padding: 5px 10px;
+      padding: px2em(5px) px2em(10px);
       border-bottom: rgba(255, 255, 255, 0.12);
       background-color: rgba(255, 255, 255, 0.025);
-      min-width: 1px;
+      min-width: px2em(1px);
   }
 
   /* Disable Table Row Hover */
@@ -19,25 +19,25 @@
       text-transform: uppercase !important;
       vertical-align: bottom;
       color: rgba(255, 255, 255, 0.6);
-      padding: 7px 10px;
+      padding: px2em(7px) px2em(10px);
   }
 }
 
 /* Table Cell Rounding */
 table th:first-child {
-  border-radius: 6px 0 0 0 !important;
+  border-radius: px2em(6px) 0 0 0 !important;
 }
 
 table th:last-child {
-  border-radius: 0 6px 0 0 !important;
+  border-radius: 0 px2em(6px) 0 0 !important;
 }
 
 table tr:last-child td:first-child {
-  border-radius: 0 0 0 6px !important;
+  border-radius: 0 0 0 px2em(6px) !important;
 }
 
 table tr:last-child td:last-child {
-  border-radius: 0 0 6px 0 !important;
+  border-radius: 0 0 px2em(6px) 0 !important;
 }
 
 /* Table Border and Width */
