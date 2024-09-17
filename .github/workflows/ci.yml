@@ -44,10 +44,10 @@ jobs:
 
       - run: mkdocs gh-deploy --force
 
-      - name: Commit and push compiled CSS
+      - name: Commit and push compiled CSS and map files
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add docs/css/extra.css
-          git commit -m "Update compiled extra.css"
+          git add docs/css/extra.css docs/css/extra.css.map 
+          git commit -m "Update compiled extra.css and extra.css.map"
           git push
