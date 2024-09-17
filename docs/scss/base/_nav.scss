@@ -13,7 +13,7 @@
     .md-header {
         color: var(--md-text-color);
         background-color: var(--md-header-bg-color);
-        border-bottom: px2rem(1px) solid var(--md-primary-fg-color);
+        border-bottom: px2rem(1px) solid hsl(174, 100%, 40%);
     
         &[data-md-state=shadow] {
             box-shadow: 0 0 px2rem(4px) rgba(0,0,0,.15),
