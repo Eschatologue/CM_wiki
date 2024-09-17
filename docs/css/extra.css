@@ -1,0 +1,202 @@
+/* Imports */
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap");
+:root {
+  --md-admonition-icon--homebrew: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3C7.56 3 5.85 4.24 5.23 6.08A3.996 3.996 0 0 0 6 14v8h11v-2h3c.55 0 1-.45 1-1v-8c0-.55-.45-1-1-1h-2V8c0-2.21-1.79-4-4-4h-1.68c-.82-.65-1.79-1-2.82-1m0 2c.79 0 1.53.37 2 1H14a2 2 0 0 1 2 2h-4c-2 0-2.68 1.13-3.5 2.63C7.68 12.13 6 12 6 12c-1.11 0-2-.89-2-2a2 2 0 0 1 2-2h1v-.5A2.5 2.5 0 0 1 9.5 5m7.5 7h2v6h-2Z"/></svg>');
+}
+
+.md-typeset .admonition.homebrew,
+.md-typeset details.homebrew {
+  border-color: rgb(255, 182, 36);
+}
+.md-typeset .homebrew > .admonition-title,
+.md-typeset .homebrew > summary {
+  background-color: rgba(255, 182, 36, 0.1);
+}
+.md-typeset .homebrew > .admonition-title::before,
+.md-typeset .homebrew > summary::before {
+  background-color: rgb(255, 182, 36);
+  -webkit-mask-image: var(--md-admonition-icon--homebrew);
+  mask-image: var(--md-admonition-icon--homebrew);
+}
+
+/* Icons */
+.ich1 {
+  font-size: 4.5rem;
+  margin: 0.25em 0 -0.25em;
+}
+
+.xxxxl {
+  font-size: 5.5rem;
+}
+
+.pad-r {
+  padding-right: 0.35em;
+}
+
+.pad-l {
+  padding-left: 0.35em;
+}
+
+/* Navigations & Sidebar */
+.md-sidebar--primary {
+  width: 220px;
+}
+
+.md-sidebar--secondary {
+  width: 270px;
+}
+
+/* Theme Colours */
+[data-md-color-scheme=slate] {
+  --md-code-bg-color: hsl(240, 8%, 21%);
+}
+
+[data-md-color-scheme=slate][data-md-color-primary=black] {
+  --md-typeset-a-color: hsl(174, 100%, 40%);
+}
+
+/* Table Styles */
+table:not([class]) {
+  /* Disable Hover */
+}
+table:not([class]) th,
+table:not([class]) td {
+  font-size: 0.55rem;
+  padding: 5px 10px;
+  border-bottom: rgba(255, 255, 255, 0.12);
+  background-color: rgba(255, 255, 255, 0.025);
+  min-width: 1px;
+}
+table:not([class]) tbody tr:hover {
+  background-color: rgba(0, 0, 0, 0);
+}
+table:not([class]) th {
+  font-weight: bold !important;
+  text-transform: uppercase !important;
+  vertical-align: bottom;
+  color: rgba(255, 255, 255, 0.6);
+  padding: 7px 10px;
+}
+
+/* Table Cell Rounding */
+table th:first-child {
+  border-radius: 6px 0 0 0 !important;
+}
+
+table th:last-child {
+  border-radius: 0 6px 0 0 !important;
+}
+
+table tr:last-child td:first-child {
+  border-radius: 0 0 0 6px !important;
+}
+
+table tr:last-child td:last-child {
+  border-radius: 0 0 6px 0 !important;
+}
+
+/* Tool Tips */
+[role=tooltip] > .md-tooltip2__inner {
+  padding: 0.45em 1.5em;
+  max-width: 35rem;
+  font-size: 0.7rem;
+  font-weight: normal;
+  border-radius: 4px;
+}
+
+/* Grid Layout */
+.md-grid {
+  max-width: 83%; /* Or 100% for full-width */
+}
+
+/* Colour Classes */
+.darkslategray {
+  color: #32333d;
+}
+
+.darkslategrayaccent {
+  color: #27272f;
+}
+
+/* Divider Line */
+.md-typeset hr {
+  border-bottom: 2px dashed rgba(255, 255, 255, 0.15);
+}
+
+/*General Typeset*/
+.md-typeset {
+  text-justify: auto;
+  font-weight: 280;
+  font-size: 0.6rem;
+  letter-spacing: 0.3px;
+  /* Headings */
+  /* Inline Code */
+}
+.md-typeset p {
+  margin-bottom: 9px;
+  margin-top: 4.5px;
+}
+.md-typeset ol,
+.md-typeset ul,
+.md-typeset li {
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+.md-typeset strong {
+  font-weight: 540;
+}
+.md-typeset .tabbed-block {
+  margin-bottom: 0;
+  padding-bottom: 2px;
+}
+.md-typeset h1, .md-typeset h2, .md-typeset h3, .md-typeset h4, .md-typeset h5, .md-typeset h6 {
+  font-variant: small-caps;
+  letter-spacing: 0.8px;
+}
+.md-typeset h1 {
+  margin-top: -0.25em;
+  margin-bottom: 8px;
+  font-weight: 400;
+}
+.md-typeset h2 {
+  border-bottom: 2px solid rgba(255, 255, 255, 0.25);
+  padding-bottom: 2px;
+  margin: 12px 0 4.5px 0;
+}
+.md-typeset h3 {
+  margin-top: 12px;
+  margin-bottom: 4px;
+  font-size: 0.75rem;
+  display: flex;
+}
+.md-typeset h3::after {
+  content: " ";
+  padding-bottom: 2px;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.15);
+  margin: 0 0 6px 10px;
+  flex: 20 0 20px;
+}
+.md-typeset h4 {
+  font-weight: bold !important;
+  text-transform: lowercase;
+  text-transform: capitalize !important;
+  font-size: 0.7rem;
+  margin-top: 8px;
+  margin-bottom: 4px;
+}
+.md-typeset h5 {
+  font-variant: normal !important;
+  text-transform: capitalize;
+  font-size: 0.575rem;
+  font-weight: 450;
+  margin-bottom: -2px;
+}
+.md-typeset code {
+  padding: 3px 6px;
+  font-weight: 400;
+  font-size: 0.4rem;
+  border-radius: 6px;
+}
+
+/*# sourceMappingURL=extra.css.map */
