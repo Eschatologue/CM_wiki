@@ -196,7 +196,7 @@ table tr:last-child td:last-child {
 [data-md-color-scheme=slate] .md-header {
   color: var(--md-text-color);
   background-color: var(--md-header-bg-color);
-  border-bottom: 0.05rem solid var(--md-primary-fg-color);
+  border-bottom: 0.05rem solid var(231deg, 48%, 48%);
 }
 [data-md-color-scheme=slate] .md-header[data-md-state=shadow] {
   box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15), 0 0 0.2rem 0.4rem rgba(0, 0, 0, 0.2);
@@ -209,7 +209,7 @@ table tr:last-child td:last-child {
 }
 [data-md-color-scheme=slate] .md-tabs {
   color: var(--md-text-color);
-  background-color: var(--md-primary-fg-color--transparent);
+  background-color: var(231deg, 48%, 48%);
 }
 [data-md-color-scheme=slate] .md-tabs__link--active {
   color: var(--md-primary-fg-color);
