@@ -36,6 +36,18 @@
     round(lightness($color));
 }
 
+///
+/// Convert color in HEX to HSLA
+///
+@function hex2hsla($color, $alpha: 1) {
+    @return hsla(
+      round(hue($color)),
+      round(saturation($color)),
+      round(lightness($color)),
+      $alpha
+    );
+  }
+
 // ----------------------------------------------------------------------------
 
 ///

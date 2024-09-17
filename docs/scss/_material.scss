@@ -1,8 +1,7 @@
 
-$md-primary-fg-color: var(--md-primary-fg-color, hsl(240, 69%, 57%));
+$md-primary-fg-color: var(--md-primary-fg-color);
 
 $md-primary-fg-color--transparent: hsla(hue($md-primary-fg-color), saturation($md-primary-fg-color), lightness($md-primary-fg-color), 0.1);
-
 
 /* Navigations & Sidebar */
 .md-sidebar--primary {
@@ -46,7 +45,7 @@ $md-primary-fg-color--transparent: hsla(hue($md-primary-fg-color), saturation($m
   // Tabs
   .md-tabs {
     color: var(--md-text-color);
-    background-color: $md-primary-fg-color--transparent;
+    background-color: hex2hsla(#4052b5, 0.1);
 
     &__link--active {
         color: var(--md-primary-fg-color);
