@@ -54,7 +54,7 @@
 }
 [data-md-color-scheme=slate] .md-header {
   color: var(--md-text-color);
-  background-color: var(--md-header-bg-color);
+  background-color: 235deg, 10%, 22%;
   border-bottom: 0.05rem solid hsl(174, 100%, 40%);
 }
 [data-md-color-scheme=slate] .md-header[data-md-state=shadow] {
