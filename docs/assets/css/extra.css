@@ -18,6 +18,7 @@
   --md-typeset-kbd-color: shade(hsl(0, 100%, 100%), 8%);
   --md-typeset-kbd-border-color: shade(hsl(0, 100%, 100%), 28%);
   --md-typeset-kbd-accent-color: hsla(0, 100%, 100%, 1);
+  --md-primary-fg-color--transparent: rgba(--md-primary-fg-color, 0.1);
 }
 :root > *[data-md-color-scheme=slate] {
   --md-code-link-bg-color: hsla(232, 15%, 15%, 1);
