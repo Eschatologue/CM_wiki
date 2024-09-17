@@ -34,8 +34,7 @@
     --md-typeset-kbd-border-color: #{darken(rgb(46, 48, 62), 9%)};
     --md-typeset-kbd-accent-color: var(--md-default-fg-color--lighter);
   }
-    @extend %root;
-  
+
    // Additional Color Shades
    --md-primary-fg-color--transparent: rgba(--md-primary-fg-color, 0.1);
 
