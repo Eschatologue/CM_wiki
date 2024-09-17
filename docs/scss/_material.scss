@@ -1,5 +1,5 @@
-$accentColour: hex2hsl(#3F51B5);
-$accentColour--semitransparent: hex2hsl(#3f51b593);
+$accentColour: hex2hsl(#3F51B5); // Original HSL colour
+$accentColour--semitransparent: hsla(nth($accentColour, 1), nth($accentColour, 2), nth($accentColour, 3), 0.5);
 
 /* Navigations & Sidebar */
 .md-sidebar--primary {
@@ -17,7 +17,7 @@ $accentColour--semitransparent: hex2hsl(#3f51b593);
   .md-header {
     color: var(--md-text-color);
     background-color: var(--md-header-bg-color);
-    border-bottom: px2rem(1px) solid var($accentColour);
+    border-bottom: px2rem(1px) solid $accentColour;
 
     &[data-md-state=shadow] {
         box-shadow: 0 0 px2rem(4px) rgba(0,0,0,.15),
@@ -36,7 +36,7 @@ $accentColour--semitransparent: hex2hsl(#3f51b593);
   // Tabs
   .md-tabs {
     color: var(--md-text-color);
-    background-color: var($accentColour--semitransparent);
+    background-color: $accentColour--semitransparent;
 
     &__link--active {
         color: var(--md-primary-fg-color);
