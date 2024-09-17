@@ -1,4 +1,8 @@
-$md-primary-fg-color: var(--md-primary-fg-color, #3F51B5); // Using a fallback in case the variable isn't defined
+
+$md-primary-fg-color: var(--md-primary-fg-color, hsl(240, 69%, 57%));
+
+$md-primary-fg-color--transparent: hsla(hue($md-primary-fg-color), saturation($md-primary-fg-color), lightness($md-primary-fg-color), 0.1);
+
 
 /* Navigations & Sidebar */
 .md-sidebar--primary {
@@ -42,7 +46,7 @@ $md-primary-fg-color: var(--md-primary-fg-color, #3F51B5); // Using a fallback i
   // Tabs
   .md-tabs {
     color: var(--md-text-color);
-    background-color: hsla(#{hex2hsl(nth($color, 1))}, 0.1);
+    background-color: $md-primary-fg-color--transparent;
 
     &__link--active {
         color: var(--md-primary-fg-color);
