@@ -1,5 +1,5 @@
 $accentColour: hex2hsl(#3F51B5); // Original HSL colour
-$accentColour--semitransparent: hsla(nth($accentColour, 1), nth($accentColour, 2), nth($accentColour, 3), 0.5);
+$accentColour--semitransparent: hsla(nth($accentColour, 1), nth($accentColour, 2), nth($accentColour, 3), 0.35);
 
 /* Navigations & Sidebar */
 .md-sidebar--primary {
@@ -16,7 +16,7 @@ $accentColour--semitransparent: hsla(nth($accentColour, 1), nth($accentColour, 2
      // Header
   .md-header {
     color: var(--md-text-color);
-    background-color: hsla(var(--md-hue), 15%, 90%, 1);
+    background-color: var(--md-code-bg-color);
     border-bottom: px2rem(1px) solid $accentColour;
 
     &[data-md-state=shadow] {
