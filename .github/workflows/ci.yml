@@ -16,6 +16,21 @@ jobs:
       - uses: actions/checkout@v3
         name: Checkout repository
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'  # Adjust Node.js version as needed
+
+      - name: Install sass
+        run: npm install -g sass
+
+      - name: Compile SCSS to extra.css
+        run: |
+          mkdir -p docs/css
+          echo "Compiling extra.scss to extra.css..."
+          sass docs/scss/extra.scss:docs/css/extra.css
+
+      # Proceed with the rest of the build process
       - uses: actions/setup-python@v4
         with:
           python-version: 3.x
@@ -26,27 +41,8 @@ jobs:
           path: .cache
 
       - run: pip install mkdocs-material
+
       - run: mkdocs gh-deploy --force
-
-      # New steps for SCSS compilation
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '16'  # Adjust Node.js version as needed
-
-      - name: Install sass
-        run: npm install -g sass
-
-      - name: List directory contents
-        run: |
-          echo "Listing docs directory contents:"
-          ls -R docs
-
-      - name: Compile SCSS to extra.css
-        run: |
-          mkdir -p docs/css
-          echo "Compiling extra.scss to extra.css..."
-          sass docs/scss/extra.scss:docs/css/extra.css
 
       - name: Commit and push compiled CSS
         run: |
