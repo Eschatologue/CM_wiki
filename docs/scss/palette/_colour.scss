@@ -38,7 +38,7 @@
   }
 
   // Dark mode color changes
-  &[data-md-color-scheme="slate"] {
+  &[data-md-color-scheme="dracula"] {
     // Default color shades
     --md-default-fg-color:               #{transparentize($drac-fg, 0.13)};
     --md-default-fg-color--light:        #{transparentize($drac-fg, 0.46)};
@@ -143,8 +143,8 @@
 ) {
 
   // Color palette
-  [data-md-color-scheme="slate"][data-md-color-primary="#{$name}"],
-  [data-md-color-scheme="slate"] :not([data-md-color-scheme])[data-md-color-primary="#{$name}"]
+  [data-md-color-scheme="dracula"][data-md-color-primary="#{$name}"],
+  [data-md-color-scheme="dracula"] :not([data-md-color-scheme])[data-md-color-primary="#{$name}"]
    {
 
     --md-primary-code-bg-color:         #{mix($drac-bg, nth($colors, 1), 85%)};
@@ -181,8 +181,8 @@
 ) {
 
   // Color palette
-  [data-md-color-scheme="slate"][data-md-color-accent="#{$name}"],
-  [data-md-color-scheme="slate"] :not([data-md-color-scheme])[data-md-color-primary="#{$name}"] {
+  [data-md-color-scheme="dracula"][data-md-color-accent="#{$name}"],
+  [data-md-color-scheme="dracula"] :not([data-md-color-scheme])[data-md-color-primary="#{$name}"] {
     --md-code-link-accent-bg-color:    #{mix($color, $drac-bg, 15%)};
     --md-accent-fg-color:              hsla(#{hex2hsl($color)}, 1);
     --md-accent-fg-color--transparent: hsla(#{hex2hsl($color)}, 0.1);
