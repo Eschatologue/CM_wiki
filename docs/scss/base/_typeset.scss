@@ -54,7 +54,7 @@ $headingFont: 'Roboto Slab', serif;
     h3 {
       margin-top: px2rem(12px);
       margin-bottom: px2rem(4px);
-      font-size: 0.75rem;
+      font-size: 0.7rem;
       display: flex;
   
       &::after {
@@ -69,16 +69,16 @@ $headingFont: 'Roboto Slab', serif;
     h4 {
       font-weight: 550;
       font-variant: normal !important;
-      font-size: 0.6rem;
+      font-size: 0.55rem;
       margin-top: px2rem(8px);
-      margin-bottom: px2rem(3px);
+      margin-bottom: px2rem(2px);
       text-transform: capitalize !important;
     }
   
     h5 {
       font-variant: normal !important;
       text-transform: capitalize;
-      font-size: 0.550rem;
+      font-size: 0.5rem;
       font-weight: 450;
       margin-bottom: px2rem(-2px);
     }
