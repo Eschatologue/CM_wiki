@@ -1,5 +1,3 @@
-@import "./dracula";
-
 :root > * {
   // Custom code colors
   --md-code-link-bg-color: hsla(0, 0%, 96%, 1);
@@ -39,6 +37,6 @@
     @extend %root;
   
    // Additional Color Shades
-   --md-primary-fg-color--transparent: hsla(#{hex2hsl(nth(--md-primary-fg-color, 1))}, 0.1);
+   --md-primary-fg-color--transparent: rgba(--md-primary-fg-color, 0.1);
 
 }
