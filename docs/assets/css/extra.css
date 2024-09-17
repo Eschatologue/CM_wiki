@@ -160,6 +160,9 @@ table tr:last-child td:last-child {
   font-variant: small-caps;
   letter-spacing: 0.04rem;
 }
+.md-typeset h1, .md-typeset h2, .md-typeset h3 {
+  font-family: "Roboto Slab", serif;
+}
 .md-typeset h1 {
   margin-top: -0.25em;
   margin-bottom: 0.4rem;
