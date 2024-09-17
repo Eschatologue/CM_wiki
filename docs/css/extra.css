@@ -56,22 +56,22 @@
   --md-typeset-a-color: hsl(174, 100%, 40%);
 }
 
-/* Table Styles */
-table:not([class]) {
-  /* Disable Hover */
+.md-typeset table:not([class]) {
+  /* Disable Table Row Hover */
+  /* Table Header Styling */
 }
-table:not([class]) th,
-table:not([class]) td {
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
   font-size: 0.55rem;
   padding: 5px 10px;
   border-bottom: rgba(255, 255, 255, 0.12);
   background-color: rgba(255, 255, 255, 0.025);
   min-width: 1px;
 }
-table:not([class]) tbody tr:hover {
+.md-typeset table:not([class]) tbody tr:hover {
   background-color: rgba(0, 0, 0, 0);
 }
-table:not([class]) th {
+.md-typeset table:not([class]) th {
   font-weight: bold !important;
   text-transform: uppercase !important;
   vertical-align: bottom;
@@ -94,6 +94,16 @@ table tr:last-child td:first-child {
 
 table tr:last-child td:last-child {
   border-radius: 0 0 6px 0 !important;
+}
+
+/* Table Border and Width */
+.md-typeset__table {
+  width: 100%;
+}
+
+.md-typeset__table table:not([class]) {
+  display: table;
+  border-color: transparent;
 }
 
 /* Tool Tips */
