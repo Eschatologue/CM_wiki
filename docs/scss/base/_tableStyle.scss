@@ -1,26 +1,26 @@
     /* Table Styles */
-    table:not([class]) {
-        th,
-        td {
-          font-size: 0.55rem;
-          padding: 5px 10px;
-          border-bottom: rgba(255, 255, 255, 0.12);
-          background-color: rgba(255, 255, 255, 0.025);
-          min-width: 1px;
-        }
-        /* Disable Hover */
-        tbody tr:hover {
-          background-color: rgba(0, 0, 0, 0);
-        }
-    
-        th {
-          font-weight: bold !important;
-          text-transform: uppercase !important;
-          vertical-align: bottom;
-          color: rgba(255, 255, 255, 0.6);
-          padding: 7px 10px;
-        }
-      }
+table:not([class]) {
+    th,
+    td {
+      font-size: 0.55rem;
+      padding: 5px 10px;
+      border-bottom: rgba(255, 255, 255, 0.12);
+      background-color: rgba(255, 255, 255, 0.025);
+      min-width: 1px;
+    }
+    /* Disable Hover */
+    tbody tr:hover {
+      background-color: rgba(0, 0, 0, 0);
+    }
+
+    th {
+      font-weight: bold !important;
+      text-transform: uppercase !important;
+      vertical-align: bottom;
+      color: rgba(255, 255, 255, 0.6);
+      padding: 7px 10px;
+    }
+  }
 
 /* Table Cell Rounding */
 table th:first-child {

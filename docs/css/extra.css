@@ -56,10 +56,6 @@
   --md-typeset-a-color: hsl(174, 100%, 40%);
 }
 
-/* Table Styles */
-table:not([class]) {
-  /* Disable Hover */
-}
 table:not([class]) th,
 table:not([class]) td {
   font-size: 0.55rem;

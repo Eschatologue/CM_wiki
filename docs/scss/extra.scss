@@ -10,3 +10,7 @@
 @import "base/typeset";
 
 
+table:not([class]) {
+    all: unset;
+  }
+  
