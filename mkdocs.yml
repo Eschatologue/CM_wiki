@@ -272,8 +272,7 @@ theme:
     accent: teal
   font:
     code: Roboto Code
-#    text: Roboto
-    text: Noto Sans Warang Citi
+    text: Roboto
   icon: 
     logo: fontawesome/solid/dice-d20
     annotation: material/timeline-question
