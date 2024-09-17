@@ -271,8 +271,8 @@ theme:
     primary: black
     accent: teal
   font:
-    code: Inconsolata
-    text: Roboto Slab
+    code: Roboto Code
+    text: Roboto
   icon: 
     logo: fontawesome/solid/dice-d20
     annotation: material/timeline-question
