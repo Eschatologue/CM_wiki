@@ -63,10 +63,10 @@
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
   font-size: 0.55rem;
-  padding: 5px 10px;
+  padding: 0.3125em 0.625em;
   border-bottom: rgba(255, 255, 255, 0.12);
   background-color: rgba(255, 255, 255, 0.025);
-  min-width: 1px;
+  min-width: 0.0625em;
 }
 .md-typeset table:not([class]) tbody tr:hover {
   background-color: rgba(0, 0, 0, 0);
@@ -76,24 +76,24 @@
   text-transform: uppercase !important;
   vertical-align: bottom;
   color: rgba(255, 255, 255, 0.6);
-  padding: 7px 10px;
+  padding: 0.4375em 0.625em;
 }
 
 /* Table Cell Rounding */
 table th:first-child {
-  border-radius: 6px 0 0 0 !important;
+  border-radius: 0.375em 0 0 0 !important;
 }
 
 table th:last-child {
-  border-radius: 0 6px 0 0 !important;
+  border-radius: 0 0.375em 0 0 !important;
 }
 
 table tr:last-child td:first-child {
-  border-radius: 0 0 0 6px !important;
+  border-radius: 0 0 0 0.375em !important;
 }
 
 table tr:last-child td:last-child {
-  border-radius: 0 0 6px 0 !important;
+  border-radius: 0 0 0.375em 0 !important;
 }
 
 /* Table Border and Width */
@@ -209,7 +209,7 @@ table tr:last-child td:last-child {
   border-radius: 6px;
 }
 
-table:not([class]) {
+.md-typeset table:not([class]) {
   all: unset;
 }
 
