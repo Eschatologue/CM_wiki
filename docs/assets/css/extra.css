@@ -156,6 +156,7 @@ table tr:last-child td:last-child {
   padding-bottom: 0.1rem;
 }
 .md-typeset h1, .md-typeset h2, .md-typeset h3, .md-typeset h4, .md-typeset h5, .md-typeset h6 {
+  font-family: "Roboto Slab";
   font-variant: small-caps;
   letter-spacing: 0.04rem;
 }
