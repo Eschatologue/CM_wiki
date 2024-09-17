@@ -195,7 +195,7 @@ table tr:last-child td:last-child {
 }
 [data-md-color-scheme=slate] .md-header {
   color: var(--md-text-color);
-  background-color: var(--md-header-bg-color);
+  background-color: hsla(var(--md-hue), 15%, 90%, 1);
   border-bottom: 0.05rem solid 231deg, 48%, 48%;
 }
 [data-md-color-scheme=slate] .md-header[data-md-state=shadow] {
@@ -205,17 +205,17 @@ table tr:last-child td:last-child {
   background-color: var(--md-default-bg-color--dark);
 }
 [data-md-color-scheme=slate] .md-top:hover {
-  background-color: var(--md-primary-fg-color);
+  background-color: 231deg, 48%, 48%;
 }
 [data-md-color-scheme=slate] .md-tabs {
   color: var(--md-text-color);
   background-color: hsla(231, 48%, 48%, 0.5);
 }
 [data-md-color-scheme=slate] .md-tabs__link--active {
-  color: var(--md-primary-fg-color);
+  color: 231deg, 48%, 48%;
 }
 [data-md-color-scheme=slate] .md-tabs__link:hover {
-  color: var(--md-accent-fg-color);
+  color: 231deg, 48%, 48%;
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=black] {
