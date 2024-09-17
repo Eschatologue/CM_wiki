@@ -18,7 +18,6 @@
   --md-typeset-kbd-color: shade(hsl(0, 100%, 100%), 8%);
   --md-typeset-kbd-border-color: shade(hsl(0, 100%, 100%), 28%);
   --md-typeset-kbd-accent-color: hsla(0, 100%, 100%, 1);
-  --md-primary-fg-color--transparent: rgba(--md-primary-fg-color, 0.1);
 }
 :root > *[data-md-color-scheme=slate] {
   --md-code-link-bg-color: hsla(232, 15%, 15%, 1);
@@ -241,7 +240,7 @@ table tr:last-child td:last-child {
 }
 [data-md-color-scheme=slate] .md-tabs {
   color: var(--md-text-color);
-  background-color: #4052b58b;
+  background-color: hsla(231, 48%, 48%, 0.1);
 }
 [data-md-color-scheme=slate] .md-tabs__link--active {
   color: var(--md-primary-fg-color);
