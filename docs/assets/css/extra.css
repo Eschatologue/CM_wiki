@@ -241,7 +241,7 @@ table tr:last-child td:last-child {
 }
 [data-md-color-scheme=slate] .md-tabs {
   color: var(--md-text-color);
-  background-color: rgba(var(--md-primary-fg-color, #3F51B5), 0.2);
+  background-color: var(--md-primary-bg-color--light);
 }
 [data-md-color-scheme=slate] .md-tabs__link--active {
   color: var(--md-primary-fg-color);

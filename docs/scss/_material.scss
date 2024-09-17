@@ -42,7 +42,7 @@ $md-primary-fg-color: var(--md-primary-fg-color, #3F51B5); // Using a fallback i
   // Tabs
   .md-tabs {
     color: var(--md-text-color);
-    background-color: rgba($md-primary-fg-color, 0.2);
+    background-color: hsla(#{hex2hsl(nth(--md-primary-fg-color, 1))}, 0.1);
 
     &__link--active {
         color: var(--md-primary-fg-color);
