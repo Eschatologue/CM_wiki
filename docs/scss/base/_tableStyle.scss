@@ -23,21 +23,23 @@
   }
 }
 
+$roundingVar: 6px;
+
 /* Table Cell Rounding */
 table th:first-child {
-  border-radius: px2em(6px) 0 0 0 !important;
+  border-radius: px2em($roundingVar) 0 0 0 !important;
 }
 
 table th:last-child {
-  border-radius: 0 px2em(6px) 0 0 !important;
+  border-radius: 0 px2em($roundingVar) 0 0 !important;
 }
 
 table tr:last-child td:first-child {
-  border-radius: 0 0 0 px2em(6px) !important;
+  border-radius: 0 0 0 px2em($roundingVar) !important;
 }
 
 table tr:last-child td:last-child {
-  border-radius: 0 0 px2em(6px) 0 !important;
+  border-radius: 0 0 px2em($roundingVar) 0 !important;
 }
 
 /* Table Border and Width */
