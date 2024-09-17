@@ -11,8 +11,3 @@
 @import "base/tableStyle";
 @import "base/themeOveride";
 @import "base/typeset";
-
-
-.md-typeset table:not([class]) {
-    all: unset;
-  }
