@@ -191,12 +191,17 @@ table tr:last-child td:last-child {
 
 /* Theme Colours */
 [data-md-color-scheme=slate] {
-  --md-code-bg-color: $bgColour;
+  --md-text-color: var(--md-default-fg-color);
+  background-color: var(--md-default-bg-color);
+  --md-footer-bg-color: transparent;
+  --md-footer-bg-color--dark: var(--md-default-bg-color--darkest);
+  --md-header-fg-color: var(--md-text-color);
+  --md-header-bg-color: var(--md-default-bg-color--darkest);
 }
 [data-md-color-scheme=slate] .md-header {
   color: var(--md-text-color);
-  background-color: 240deg, 8%, 21%;
-  border-bottom: 0.05rem solid 231deg, 48%, 48%;
+  background-color: var(--md-header-bg-color);
+  border-bottom: 0.05rem solid var(--md-primary-fg-color);
 }
 [data-md-color-scheme=slate] .md-header[data-md-state=shadow] {
   box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15), 0 0 0.2rem 0.4rem rgba(0, 0, 0, 0.2);
@@ -205,21 +210,17 @@ table tr:last-child td:last-child {
   background-color: var(--md-default-bg-color--dark);
 }
 [data-md-color-scheme=slate] .md-top:hover {
-  background-color: 231deg, 48%, 48%;
+  background-color: var(--md-primary-fg-color);
 }
 [data-md-color-scheme=slate] .md-tabs {
   color: var(--md-text-color);
-  background-color: hsla(231, 48%, 48%, 0.35);
+  background-color: var(--md-primary-fg-color--transparent);
 }
 [data-md-color-scheme=slate] .md-tabs__link--active {
-  color: 231deg, 48%, 48%;
+  color: var(--md-primary-fg-color);
 }
 [data-md-color-scheme=slate] .md-tabs__link:hover {
-  color: 231deg, 48%, 48%;
-}
-
-[data-md-color-scheme=slate][data-md-color-primary=black] {
-  --md-typeset-a-color: hsl(174, 100%, 40%);
+  color: var(--md-accent-fg-color);
 }
 
 /*# sourceMappingURL=extra.css.map */
