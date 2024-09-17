@@ -177,7 +177,7 @@ table tr:last-child td:last-child {
 .md-typeset h3 {
   margin-top: 0.6rem;
   margin-bottom: 0.2rem;
-  font-size: 0.75rem;
+  font-size: 0.7rem;
   display: flex;
 }
 .md-typeset h3::after {
@@ -190,15 +190,15 @@ table tr:last-child td:last-child {
 .md-typeset h4 {
   font-weight: 550;
   font-variant: normal !important;
-  font-size: 0.6rem;
+  font-size: 0.55rem;
   margin-top: 0.4rem;
-  margin-bottom: 0.15rem;
+  margin-bottom: 0.1rem;
   text-transform: capitalize !important;
 }
 .md-typeset h5 {
   font-variant: normal !important;
   text-transform: capitalize;
-  font-size: 0.55rem;
+  font-size: 0.5rem;
   font-weight: 450;
   margin-bottom: -0.1rem;
 }
