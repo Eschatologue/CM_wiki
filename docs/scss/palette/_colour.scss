@@ -63,7 +63,7 @@
             )
     {
         // Color palette
-        [data-md-color-primary="#{$name}"] {
+        [data-md-color-scheme="slate"][data-md-color-primary="#{$name}"] {
             --md-mod-primary-code-bg-color: #{mix($mod-bg, nth($colors, 1), 85%)};
             --md-mod-primary-fg-color: hsla(#{hex2hsl(nth($colors, 1))}, 1);
             --md-mod-primary-fg-color-transparent: hsla(#{hex2hsl(nth($colors, 1))}, 25%);
