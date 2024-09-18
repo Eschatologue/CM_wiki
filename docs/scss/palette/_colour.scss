@@ -36,41 +36,41 @@
         --md-typeset-kbd-border-color: #{darken(rgb(46, 48, 62), 9%)};
         --md-typeset-kbd-accent-color: var(--md-default-fg-color--lighter);
     }
+}
 
-    // ----------------------------------------------------------------------------
-    // Rules: primary colors
-    // ----------------------------------------------------------------------------
+// ----------------------------------------------------------------------------
+// Rules: primary colors
+// ----------------------------------------------------------------------------
 
-    @each $name,
-        $colors
-            in (
-                "red": $mod-red lighten($mod-red, 5%) darken($mod-red, 5%),
-                "pink": $mod-pink lighten($mod-pink, 5%) darken($mod-pink, 5%),
-                "purple": $mod-purple lighten($mod-purple, 5%) darken($mod-purple, 5%),
-                "deep-purple": $mod-purple lighten($mod-purple, 5%) darken($mod-purple, 5%),
-                "blue": $mod-blue lighten($mod-blue, 5%) darken($mod-blue, 5%),
-                "indigo": $mod-blue lighten($mod-blue, 5%) darken($mod-blue, 5%),
-                "light-blue": $mod-blue lighten($mod-blue, 5%) darken($mod-blue, 5%),
-                "cyan": $mod-cyan lighten($mod-cyan, 5%) darken($mod-cyan, 5%),
-                "teal": $mod-cyan lighten($mod-cyan, 5%) darken($mod-cyan, 5%),
-                "green": $mod-green lighten($mod-green, 5%) darken($mod-green, 5%),
-                "light-green": $mod-green lighten($mod-green, 5%) darken($mod-green, 5%),
-                "lime": $mod-green lighten($mod-green, 5%) darken($mod-green, 5%),
-                "yellow": $mod-yellow lighten($mod-yellow, 5%) darken($mod-yellow, 5%),
-                "amber": $mod-yellow lighten($mod-yellow, 5%) darken($mod-yellow, 5%),
-                "orange": $mod-orange lighten($mod-orange, 5%) darken($mod-orange, 5%),
-                "deep-orange": $mod-orange lighten($mod-orange, 5%) darken($mod-orange, 5%)
-            )
-    {
-        // Color palette
-        [data-md-color-scheme="slate"][data-md-color-primary="#{$name}"] {
-            --md-mod-primary-code-bg-color: #{mix($mod-bg, nth($colors, 1), 85%)};
-            --md-mod-primary-fg-color: hsla(#{hex2hsl(nth($colors, 1))}, 1);
-            --md-mod-primary-fg-color-transparent: hsla(#{hex2hsl(nth($colors, 1))}, 25%);
-            --md-mod-primary-fg-color-light: hsla(#{hex2hsl(nth($colors, 2))}, 1);
-            --md-mod-primary-fg-color-dark: hsla(#{hex2hsl(nth($colors, 3))}, 1);
-            --md-mod-primary-bg-color: var(--md-default-bg-color);
-            --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
-        }
+@each $name,
+    $colors
+        in (
+            "red": $mod-red lighten($mod-red, 5%) darken($mod-red, 5%),
+            "pink": $mod-pink lighten($mod-pink, 5%) darken($mod-pink, 5%),
+            "purple": $mod-purple lighten($mod-purple, 5%) darken($mod-purple, 5%),
+            "deep-purple": $mod-purple lighten($mod-purple, 5%) darken($mod-purple, 5%),
+            "blue": $mod-blue lighten($mod-blue, 5%) darken($mod-blue, 5%),
+            "indigo": $mod-blue lighten($mod-blue, 5%) darken($mod-blue, 5%),
+            "light-blue": $mod-blue lighten($mod-blue, 5%) darken($mod-blue, 5%),
+            "cyan": $mod-cyan lighten($mod-cyan, 5%) darken($mod-cyan, 5%),
+            "teal": $mod-cyan lighten($mod-cyan, 5%) darken($mod-cyan, 5%),
+            "green": $mod-green lighten($mod-green, 5%) darken($mod-green, 5%),
+            "light-green": $mod-green lighten($mod-green, 5%) darken($mod-green, 5%),
+            "lime": $mod-green lighten($mod-green, 5%) darken($mod-green, 5%),
+            "yellow": $mod-yellow lighten($mod-yellow, 5%) darken($mod-yellow, 5%),
+            "amber": $mod-yellow lighten($mod-yellow, 5%) darken($mod-yellow, 5%),
+            "orange": $mod-orange lighten($mod-orange, 5%) darken($mod-orange, 5%),
+            "deep-orange": $mod-orange lighten($mod-orange, 5%) darken($mod-orange, 5%)
+        )
+{
+    // Color palette
+    [data-md-color-scheme="slate"][data-md-color-primary="#{$name}"] {
+        --md-mod-primary-code-bg-color: #{mix($mod-bg, nth($colors, 1), 85%)};
+        --md-mod-primary-fg-color: hsla(#{hex2hsl(nth($colors, 1))}, 1);
+        --md-mod-primary-fg-color-transparent: hsla(#{hex2hsl(nth($colors, 1))}, 0.15);
+        --md-mod-primary-fg-color-light: hsla(#{hex2hsl(nth($colors, 2))}, 1);
+        --md-mod-primary-fg-color-dark: hsla(#{hex2hsl(nth($colors, 3))}, 1);
+        --md-mod-primary-bg-color: var(--md-default-bg-color);
+        --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
     }
 }
