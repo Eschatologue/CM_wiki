@@ -1,51 +1,51 @@
 .md-typeset table:not([class]) {
-  th,
-  td {
-      font-size: 0.55rem;
-      padding: px2em(5px) px2em(10px);
-      border-bottom: rgba(255, 255, 255, 0.12);
-      background-color: rgba(255, 255, 255, 0.025);
-      min-width: px2em(1px);
-  }
+    th,
+    td {
+        font-size: 0.55rem;
+        padding: px2em(5px) px2em(10px);
+        border-bottom: rgba(255, 255, 255, 0.12);
+        background-color: rgba(255, 255, 255, 0.025);
+        min-width: px2em(1px);
+    }
 
-  tbody tr:hover {
-      background-color: rgba(0, 0, 0, 0);
-  }
+    tbody tr:hover {
+        background-color: rgba(0, 0, 0, 0);
+    }
 
-  th {
-      font-variant: normal;
-      font-weight: bold !important;
-      text-transform: capitalize !important;
-      vertical-align: bottom;
-      color: rgba(255, 255, 255, 0.6);
-      padding: px2em(7px) px2em(10px);
-  }
+    th {
+        font-variant: normal;
+        font-weight: bold !important;
+        text-transform: capitalize !important;
+        vertical-align: bottom;
+        color: rgba(255, 255, 255, 0.6);
+        padding: px2em(7px) px2em(10px);
+    }
 }
 
 $roundingVar: px2em(6px);
 
 /* Table Cell Rounding */
 table th:first-child {
-  border-radius: $roundingVar 0 0 0 !important;
+    border-radius: $roundingVar 0 0 0 !important;
 }
 
 table th:last-child {
-  border-radius: 0 $roundingVar 0 0 !important;
+    border-radius: 0 $roundingVar 0 0 !important;
 }
 
 table tr:last-child td:first-child {
-  border-radius: 0 0 0 $roundingVar !important;
+    border-radius: 0 0 0 $roundingVar !important;
 }
 
 table tr:last-child td:last-child {
-  border-radius: 0 0 $roundingVar 0 !important;
+    border-radius: 0 0 $roundingVar 0 !important;
 }
 
 .md-typeset__table table:not([class]) {
-  display: table;
-  border-color: transparent;
+    display: table;
+    border-color: transparent;
 }
 
 .md-typeset__table {
-  width: 100%;
+    width: 100%;
 }

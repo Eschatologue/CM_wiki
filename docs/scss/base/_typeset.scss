@@ -1,93 +1,93 @@
-/*General Typeset*/
-
-$headingFont: 'Roboto Slab', serif;
+// General Typeset
+$headingFont: "Roboto Slab", serif;
 
 .md-typeset {
     text-justify: auto;
     font-weight: 300;
     font-size: 0.6rem;
     letter-spacing: px2rem(0.3px);
-  
+
     p {
-      margin-bottom: px2rem(9px);
-      margin-top: px2rem(4.5px);
+        margin-bottom: px2rem(9px);
+        margin-top: px2rem(4.5px);
     }
-  
+
     ol,
     ul,
     li {
-      margin-top: px2rem(4px);
-      margin-bottom: px2rem(4px);
-    }
-  
-    strong {
-      font-weight: 600;
-    }
-  
-    .tabbed-block {
-      margin-bottom: 0;
-      padding-bottom: px2rem(2px);
-    }
-  
-    /* Headings */
-    h1, h2, h3, h4, h5, h6 {
-      font-variant: small-caps;
-      letter-spacing: px2rem(0.8px);
+        margin-top: px2rem(4px);
+        margin-bottom: px2rem(4px);
     }
 
-    h1, h2, h3 {
-      font-family: $headingFont;
+    strong {
+        font-weight: 600;
     }
-  
-    h1 {
-      margin-top: -0.25em;
-      margin-bottom: px2rem(8px);
-      font-weight: 400;
+
+    /* Headings */
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        font-variant: small-caps;
+        letter-spacing: px2rem(0.8px);
     }
-  
-    h2 {
-      border-bottom: px2rem(2px) solid rgba(255, 255, 255, 0.25);
-      padding-bottom: px2rem(2px);
-      margin: px2rem(12px) 0 px2rem(4.5px) 0;
-    }
-  
+
+    h1,
+    h2,
     h3 {
-      margin-top: px2rem(12px);
-      margin-bottom: px2rem(4px);
-      font-size: 0.7rem;
-      display: flex;
-  
-      &::after {
-        content: ' ';
+        font-family: $headingFont;
+    }
+
+    h1 {
+        margin-top: -0.25em;
+        margin-bottom: px2rem(8px);
+        font-weight: 400;
+    }
+
+    h2 {
+        border-bottom: px2rem(2px) solid rgba(255, 255, 255, 0.25);
         padding-bottom: px2rem(2px);
-        border-bottom: px2rem(2px) solid rgba(255, 255, 255, 0.15);
-        margin: 0 0 px2rem(6px) px2rem(10px);
-        flex: 20 0 px2rem(20px);
-      }
+        margin: px2rem(12px) 0 px2rem(4.5px) 0;
     }
-  
+
+    h3 {
+        margin-top: px2rem(12px);
+        margin-bottom: px2rem(4px);
+        font-size: 0.8rem;
+        display: flex;
+
+        &::after {
+            content: " ";
+            padding-bottom: px2rem(2px);
+            border-bottom: px2rem(2px) solid rgba(255, 255, 255, 0.15);
+            margin: 0 0 px2rem(6px) px2rem(10px);
+            flex: 20 0 px2rem(20px);
+        }
+    }
+
     h4 {
-      font-weight: 550;
-      font-variant: normal !important;
-      font-size: 0.55rem;
-      margin-top: px2rem(8px);
-      margin-bottom: px2rem(2px);
-      text-transform: capitalize !important;
+        font-weight: 550;
+        font-variant: normal !important;
+        font-size: 0.65rem;
+        margin-top: px2rem(8px);
+        margin-bottom: px2rem(2px);
+        text-transform: capitalize !important;
     }
-  
+
     h5 {
-      font-variant: normal !important;
-      text-transform: capitalize;
-      font-size: 0.5rem;
-      font-weight: 450;
-      margin-bottom: px2rem(-2px);
+        font-variant: normal !important;
+        text-transform: capitalize;
+        font-size: 0.5rem;
+        font-weight: 450;
+        margin-bottom: px2rem(-2px);
     }
-  
+
     /* Inline Code */
     code {
-      padding: px2rem(3px) px2rem(6px);
-      font-weight: 400;
-      border-radius: px2rem(6px);
+        padding: px2rem(3px) px2rem(6px);
+        font-weight: 400;
+        border-radius: px2rem(6px);
     }
-
- }
+}

@@ -1,53 +1,63 @@
-/* Navigations & Sidebar */
+// Main Theme
+
+@import "./palette/colour";
+
+// Nav Bar
 .md-sidebar--primary {
     width: px2rem(220px);
 }
-  
+
+// TOC Bar
 .md-sidebar--secondary {
     width: px2rem(270px);
 }
 
-/* Theme Colours */
-[data-md-color-scheme=slate] {
-   
+// Main Theme Colour
+[data-md-color-scheme="slate"] {
     --md-text-color: var(--md-default-fg-color);
     background-color: var(--md-default-bg-color);
 
-    // Header colors
-    --md-header-fg-color: var(--md-text-color);
-    --md-header-bg-color: var(--md-default-bg-color--darkest);
-
-  // Header
+    // Header (The one with Title))
     .md-header {
         color: var(--md-text-color);
         background-color: var(--md-default-bg-color);
         border-bottom: px2rem(2.5px) solid var(--md-primary-fg-color);
 
-    &[data-md-state=shadow] {
-        box-shadow: 0 0 px2rem(4px) rgba(0,0,0,.15),
-                    0 0 px2rem(4px) px2rem(8px) rgba(0,0,0,.2);
+        &[data-md-state="shadow"] {
+            box-shadow:
+                0 0 px2rem(4px) rgba(0, 0, 0, 0.15),
+                0 0 px2rem(4px) px2rem(8px) rgba(0, 0, 0, 0.2);
+        }
     }
-  }
 
     .md-top {
         background-color: var(--md-default-bg-color--dark);
 
         &:hover {
             background-color: var(--md-primary-fg-color);
-    }
-  }
-
-  // Tabs
-  .md-tabs {
-    color: var(--md-text-color);
-    background-color: hex2hsla(#4052b5, 0.1);
-
-    &__link--active {
-        color: var(--md-primary-fg-color);
+        }
     }
 
-    &__link:hover {
-        color: var(--md-accent-fg-color);
+    // Tabs (Under the tile with Nav)
+    .md-tabs {
+        color: var(--md-text-color);
+        // This has to be set up manualy
+        background-color: --md-mod-primary-fg-color--transparent;
+
+        &__link--active {
+            color: var(--md-primary-fg-color);
+        }
+
+        &__link:hover {
+            color: var(--md-accent-fg-color);
+        }
     }
-  }
+}
+
+// Tabbed Block
+.md-typeset {
+    .tabbed-block {
+        margin-bottom: 0;
+        padding-bottom: px2rem(2px);
+    }
 }
