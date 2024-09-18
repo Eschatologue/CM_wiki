@@ -54,7 +54,7 @@
 [data-md-color-scheme=slate][data-md-color-primary=indigo] {
   --md-mod-primary-code-bg-color: rgb(47.609775, 51.8956875, 69.435225);
   --md-mod-primary-fg-color: hsla(225deg, 27%, 51%, 1);
-  --md-mod-primary-fg-color-transparent: hsla(225deg, 27%, 51%, 0.25);
+  --md-mod-primary-fg-color-transparent: hsla(225deg, 27%, 51%, 0.1);
   --md-mod-primary-fg-color-light: hsla(225deg, 27%, 56%, 1);
   --md-mod-primary-fg-color-dark: hsla(225deg, 27%, 46%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
@@ -84,7 +84,7 @@
 [data-md-color-scheme=slate][data-md-color-primary=teal] {
   --md-mod-primary-code-bg-color: rgb(54.081675, 69.7755225, 82.853325);
   --md-mod-primary-fg-color: hsla(191deg, 97%, 77%, 1);
-  --md-mod-primary-fg-color-transparent: hsla(191deg, 97%, 77%, 0.25);
+  --md-mod-primary-fg-color-transparent: hsla(191deg, 97%, 77%, 0.1);
   --md-mod-primary-fg-color-light: hsla(191deg, 97%, 82%, 1);
   --md-mod-primary-fg-color-dark: hsla(191deg, 97%, 72%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);

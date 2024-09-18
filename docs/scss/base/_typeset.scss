@@ -4,7 +4,7 @@ $headingFont: "Roboto Slab", serif;
 .md-typeset {
     text-justify: auto;
     font-weight: 300;
-    font-size: 0.6rem;
+    font-size: 0.7rem;
     letter-spacing: px2rem(0.3px);
 
     p {
@@ -83,16 +83,8 @@ $headingFont: "Roboto Slab", serif;
         font-weight: 450;
         margin-bottom: px2rem(-2px);
     }
-
-    /* Inline Code */
-    code {
-        padding: px2rem(3px) px2rem(6px);
-        font-weight: 400;
-        border-radius: px2rem(6px);
-    }
 }
 
 .md-header {
     font-family: "Roboto Slab";
-    text-transform: uppercase;
 }

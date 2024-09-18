@@ -128,6 +128,7 @@ nav:
         - Dance: class/bard/dance.md
         - Glamour: class/bard/glamour.md
         - Lore: class/bard/lore.md
+        - Swords: class/bard/swords.md
         - Valour: class/bard/valour.md
       - Ranger: 
         - class/ranger/index.md
@@ -194,11 +195,14 @@ nav:
         - Champion: class/fighter/champion.md
         - Eldritch Knight: class/fighter/eldritch-knight.md
         - Psi Warrior: class/fighter/psi-warrior.md
+        - Samurai: class/fighter/samurai.md
       - Monk:
         - class/monk/index.md
-        - Elements: class/monk/element.md
-        - Hand: class/monk/hand.md
+        - Astral Self: class/monk/astral.md
+        - Mercy: class/monk/mercy.md
         - Shadow: class/monk/shadow.md
+        - Hand: class/monk/hand.md
+        - The Elements: class/monk/element.md
   - Spells:
     - Gaining Spells: spells/gaining-spells.md
     - Casting Spells: spells/casting-spells.md

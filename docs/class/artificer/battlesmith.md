@@ -1,14 +1,20 @@
 # Artificer: Battlesmith
 
-***Armies require protection, and someone has to put things back together if defenses fail. A combination of protector and medic, a Battle Smith is an expert at defending others and repairing both materiel and personnel. To aid in their work, Battle Smiths are accompanied by a steel defender, a protective companion of their own creation. Many soldiers tell stories of nearly dying before being saved by a Battle Smith and a steel defender.***
+*Arm and Protect your Allies with a Mechanical Companion*
+
+Armies require protection, and someone has to put things back together if defenses fail. A combination  of protector and medic, a Battle Smith is an expert at defending others and repairing both material and personnel. To aid in their work, Battle Smiths are usually accompanied by a steel defender, a protective companion of their own creation. Many soldiers tell stories of nearly dying before being saved by a Battle Smith and a steel defender.
 
 ### Level 3: Tool Proficiency
 
-You gain proficiency with smith's tools. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.
+You have proficiency with Smith’s Tools. If you already have this proficiency, you gain proficiency with one other type of Artisan’s Tools of your choice.
+
+In addition, whenever you make an ability check with Smith’s Tools, you can use your Intelligence as the ability, instead of Strength.
 
 ### Level 3: Battle Smith Spells
 
-You always have certain spells prepared after you reach particular levels in this class, as shown in the Battle Smith Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.
+Your combat training as a Battle Smith ensures you always have certain spells ready. When you reach an Artificer level specified in the Battle Smith Spells table, you thereafter always have the listed spells prepared.
+
+##### Battle Smith Spells
 
 | Artificer Level | Battle Smith Spells |
 | :-: | --- |
@@ -27,20 +33,48 @@ Your combat training and your experiments with magic have paid off in two ways:
 
 ### Level 3: Steel Defender
 
-Your tinkering has borne you a faithful companion, a steel defender. It's friendly to you and your companions, and it obeys your commands. See its game statistics in the Steel Defender stat block, which uses your proficiency bonus (PB) in several places. You determine the creature's appearance and whether it has two legs or four; your choice has no effect on its game statistics.
+Your tinkering has borne you a companion, a steel defender. It’s friendly to you and your companions, and it obeys your commands. See its game statistics in the Steel Defender stat block. You determine the creature’s appearance and whether it has two legs or four; your choice has no effect on its game statistics.
 
-In combat, the defender shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a Bonus Action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the defender can take any action of its choice, not just Dodge.
+***The Defender in Combat.*** In combat, the Defender shares your Initiative count, but it takes its turn immediately after yours. It can move and use its Reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a Bonus Action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you have the Incapacitated condition, the Defender can take any action of its choice, not just Dodge.
 
-If the Mending spell is cast on it, it regains 2d6 Hit Points. If it has died within the last hour, you can use your smith's tools as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The steel defender returns to life after 1 minute with all its Hit Points restored.
+***Repairing or Replacing the Defender.*** If the Mending spell is cast on the Defender, it regains 2d6 Hit Points. If it has died within the last hour, you can use your Smith’s Tools as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of level 1 or higher. The Steel Defender returns to life after 1 minute with all its Hit Points restored.
 
-At the end of a Long Rest, you can create a new steel defender if you have smith's tools with you. If you already have a defender from this feature, the first one immediately perishes. The defender also perishes if you die.
+At the end of a Long Rest, you can create a new Steel Defender if you have Smith’s Tools with you. If you already have a Defender from this feature, the first one immediately perishes. The Defender also perishes if you die.
 
-### Stat
+### Level 6: Arcane Jolt
+
+You've learned new ways to channel arcane energy to harm or heal. Once per turn when you hit a target with an attack, when a creature fails a save against your one of your spells, or your Steel Defender hits a target, you can expend an Ingenuity Point to channel magical energy through the strike to create one of the following effects:
+
+***Damaging Jolt.*** The target takes an extra 2d6 Force damage.
+
+***Healing Jolt.*** Choose one creature or object you can see within 30 feet of the target. Healing energy flows into the chosen recipient, restoring 2d6 Hit Points to it.
+
+### Level 9: Defender Modifications
+
+You have learned to modify your Steel Defender, such that it can specialize its role on the battlefield. Whenever you finish a Long Rest, you can grant your Steel defender one of the following sets of benefits, provided you have Smith’s Tools in hand. The modification remains indefinitely, unless you exchange it for another one by using this feature again.
+
+***Forceful Rend.*** You make your Steel Defender a more threatening offensive force on the battlefield. The damage die of its Force Empowered Rend changes to 1d10, and when it hits a Large or smaller creature with it, the target must succeed on a Strength save against your spell save DC or have the Prone condition.
+
+***Mounting Support.*** You make your Steel Defender more suitable to ride as a mount. The Defender’s Speed increases by 10 feet, and you can use the Defender as a mount, even if your size is Medium. While you are mounted on your Defender, it acts as a Controlled Mount, meaning it acts on your Initiative. However, it is not restricted to the actions a controlled mount can take if you use your Bonus Action to command it, and it can use its Deflect Attack Reaction as normal without direction.
+
+***Vigilant Deflector.*** You make your Defender and even more protective of your allies on the battlefield. When a creature within 15 feet of it makes an attack, it can use its Reaction to Move up to 10 feet toward that creature without provoking Opportunity Attacks and immediately use Deflect Attack.
+
+### Level 15: Improved Defender
+
+Your Arcane Jolt and steel defender become more powerful:
+
+***Improved Jolt.*** The extra damage and the healing of your Arcane Jolt both increase to 4d6.
+
+***Protected Defender.*** Your Steel Defender gains a +2 bonus to Armor Class.
+
+***Forceful Deflect.*** Whenever your Steel Defender uses its Deflect Attack, the attacker takes Force damage equal to 1d4 + your Intelligence modifier.
+
+## Steel Defender Stat
 
 | Steel Defender | |
 | --- | --- |
 | **Size & Type** | Medium construct |
-| **Armor Class **| 15 (natural armor) |
+| **Armor Class** | 15 (natural armor) |
 | **Hit Point**s | 2 + your Intelligence modifier + 5 times your artificer level |
 | **Speed**: | 40 ft. |
 
@@ -49,39 +83,24 @@ At the end of a Long Rest, you can create a new steel defender if you have smith
 | 14 (+2) | 12 (+1) | 14 (+2) | 4 (−3) | 10 (+0) | 6 (−2) |
 
 - **Saving Throws:** Dex +1 plus PB, Con +2 plus PB
+
 - **Skills:** Athletics +2 plus PB, Perception +0 plus PB x 2
 - **Damage Immunities:** poison
 - **Condition Immunities:** charmed, exhaustion, poisoned
 - **Senses:** darkvision 60 ft., passive Perception 10 + (PB x 2)
 - **Languages:** understands the languages you speak
 - **Prof. Bonus:** equals your bonus
-- **Vigilant.** The defender can't be surprised.
 
-### Actions
+#### Traits
 
-- **Force-Empowered Rend.** *Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target you can see. Hit: 1d8 + PB force damage. 
-- **Repair (3/Day).** The magical mechanisms inside the defender restore 2d8 + PB Hit Points to itself or to one construct or object within 5 feet of it. 
+**Vigilant.** The defender can't be surprised.
 
-### Reactions
+#### Actions
 
-- **Deflect Attack.** The defender imposes disadvantage on the attack roll of one creature it can see that is within 5 feet of it, provided the attack roll is against a creature other than the defender.
+**Force-Empowered Rend.** *Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target you can see. Hit: 1d8 + PB force damage. 
 
-## Extra Attack
+**Repair.** You expend one Ingenuity Point and the Defender restores 2d8 + your Intelligence modifier Hit Points (minimum 1 Hit Point) to itself or to one Construct or object within 5 feet of it.
 
-You can attack twice instead of once whenever you take the Attack action on your turn.
+#### Reactions
 
-### Level 9: Arcane Jolt
-
-You've learn new ways to channel arcane energy to harm or heal. When either you hit a target with a magic weapon attack or your steel defender hits a target, you can channel magical energy through the strike to create one of the following effects:
-
-- The target takes an extra 2d6 force damage.
-- Choose one creature or object you can see within 30 feet of the target. Healing energy flows into the chosen recipient, restoring 2d6 Hit Points to it.
-- You can use this energy a number of times equal to your Intelligence modifier (minimum of once), but you can do so no more than once on a turn. You regain all expended uses when you finish a Long Rest.
-
-### Level 15: Improved Defender
-
-Your Arcane Jolt and steel defender become more powerful:
-
-- The extra damage and the healing of your Arcane Jolt both increase to 4d6.
-- Your steel defender gains a +2 bonus to Armor Class.
-- Whenever your steel defender uses its Deflect Attack, the attacker takes force damage equal to 1d4 + your Intelligence modifier.
+**Deflect Attack.** The defender imposes disadvantage on the attack roll of one creature it can see that is within 5 feet of it, provided the attack roll is against a creature other than the defender.
