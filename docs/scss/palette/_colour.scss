@@ -4,8 +4,6 @@
 // Rules: primary colors
 // ----------------------------------------------------------------------------
 
-$alpha: 0.25;
-
 @each $name,
     $colors
         in (
@@ -31,7 +29,7 @@ $alpha: 0.25;
     [data-md-color-scheme="slate"][data-md-color-primary="#{$name}"] {
         --md-mod-primary-code-bg-color: #{mix($mod-bg, nth($colors, 1), 85%)};
         --md-mod-primary-fg-color: hsla(#{hex2hsl(nth($colors, 1))}, 1);
-        --md-mod-primary-fg-color-transparent: hsla(#{hex2hsl(nth($colors, 1))}, $alpha);
+        --md-mod-primary-fg-color-transparent: hsla(#{hex2hsl(nth($colors, 1))}, 0.25);
         --md-mod-primary-fg-color-light: hsla(#{hex2hsl(nth($colors, 2))}, 1);
         --md-mod-primary-fg-color-dark: hsla(#{hex2hsl(nth($colors, 3))}, 1);
         --md-mod-primary-bg-color: var(--md-default-bg-color);
