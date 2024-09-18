@@ -47,26 +47,27 @@ As a Paladin, you gain the following class features when you reach the specified
 
 | Paladin Level | Prof. Bonus | Class Feature | Channel Divinity | Spell Prepared | I | II | III | IV | V |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1st | +2 | Lay on Hands, Spellcasting, Weapon Mastery | — | 2 | 2 | — | — | — | — |
-| 2nd | +2 | Fighting Style, Paladin's Smite | — | 3 | 2 | — | — | — | — |
-| 3rd | +2 | Channel Divinity, Paladin Subclass | 2 | 4 | 3 | — | — | — | — |
-| 4th | +2 | Ability Score Improvement | 2 | 5 | 3 | — | — | — | — |
-| 5th | +3 | Extra Attack, Faithful Steed | 2 | 6 | 4 | 2 | — | — | — |
-| 6th | +3 | Aura of Protection | 2 | 6 | 4 | 2 | — | — | — |
-| 7th | +3 | Subclass Feature | 2 | 7 | 4 | 3 | — | — | — |
-| 8th | +3 | Ability Score Improvement | 2 | 7 | 4 | 3 | — | — | — |
-| 9th | +4 | Abjure Foes | 2 | 9 | 4 | 3 | 2 | — | — |
-| 10th | +4 | Aura of Courage | 2 | 9 | 4 | 3 | 2 | — | — |
-| 11th | +4 | Radiant Strikes | 3 | 10 | 4 | 3 | 3 | — | — |
-| 12th | +4 | Ability Score Improvement | 3 | 10 | 4 | 3 | 3 | — | — |
-| 13th | +5 | — | 3 | 11 | 4 | 3 | 3 | 1 | — |
-| 14th | +5 | Restoring Touch | 3 | 11 | 4 | 3 | 3 | 1 | — |
-| 15th | +5 | Subclass Feature | 3 | 12 | 4 | 3 | 3 | 2 | — |
-| 16th | +5 | Ability Score Improvement | 3 | 12 | 4 | 3 | 3 | 2 | — |
-| 17th | +6 | — | 3 | 14 | 4 | 3 | 3 | 3 | 1 |
-| 18th | +6 | Aura Expansion | 3 | 14 | 4 | 3 | 3 | 3 | 1 |
-| 19th | +6 | Epic Boon | 3 | 15 | 4 | 3 | 3 | 3 | 2 |
-| 20th | +6 | Subclass Feature | 3 | 15 | 4 | 3 | 3 | 3 | 2 |
+| 1 | +2 | Lay On Hands, Spellcasting, Weapon Mastery | — | 2 | 2 | — | — | — | — |
+| 2 | +2 | Fighting Style, Paladin’s Smite | — | 3 | 2 | — | — | — | — |
+| 3 | +2 | Channel Divinity, Paladin Subclass | 2 | 4 | 3 | — | — | — | — |
+| 4 | +2 | Ability Score Improvement | 2 | 5 | 3 | — | — | — | — |
+| 5 | +3 | Extra Attack, Faithful Steed | 2 | 6 | 4 | 2 | — | — | — |
+| 6 | +3 | Aura of Protection | 2 | 6 | 4 | 2 | — | — | — |
+| 7 | +3 | Subclass feature | 2 | 7 | 4 | 3 | — | — | — |
+| 8 | +3 | Ability Score Improvement | 2 | 7 | 4 | 3 | — | — | — |
+| 9 | +4 | Abjure Foes | 2 | 9 | 4 | 3 | 2 | — | — |
+| 10 | +4 | Aura of Courage | 2 | 9 | 4 | 3 | 2 | — | — |
+| 11 | +4 | Radiant Strikes | 3 | 10 | 4 | 3 | 3 | — | — |
+| 12 | +4 | Ability Score Improvement | 3 | 10 | 4 | 3 | 3 | — | — |
+| 13 | +5 | — | 3 | 11 | 4 | 3 | 3 | 1 | — |
+| 14 | +5 | Restoring Touch | 3 | 11 | 4 | 3 | 3 | 1 | — |
+| 15 | +5 | Subclass feature | 3 | 12 | 4 | 3 | 3 | 2 | — |
+| 16 | +5 | Ability Score Improvement | 3 | 12 | 4 | 3 | 3 | 2 | — |
+| 17 | +6 | — | 3 | 14 | 4 | 3 | 3 | 3 | 1 |
+| 18 | +6 | Aura Expansion | 3 | 14 | 4 | 3 | 3 | 3 | 1 |
+| 19 | +6 | Epic Boon | 3 | 15 | 4 | 3 | 3 | 3 | 2 |
+| 20 | +6 | Subclass feature | 3 | 15 | 4 | 3 | 3 | 3 | 2 |
+
 
 ### Level 1: Lay On Hands
 
@@ -80,31 +81,19 @@ In addition, you can expend 5 Hit Points from the pool of healing to remove the 
 
 You have learned to cast spells through prayer, meditation, and devotion. See the Player's Handbook for the rules on spellcasting. The information below details how you use those rules as a Paladin.
 
-#### Spell Slots
+***Spell Slots.*** The Paladin Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-The Paladin table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a Long Rest.
+***Prepared Spells of Level 1+.*** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Paladin spells. Heroism and Searing Smite are recommended.
 
-#### Prepared Spells of 1st+ Level
+The number of spells on your list increases as you gain Paladin levels, as shown in the Prepared Spells column of the Paladin Features table. Whenever that number increases, choose additional Paladin spells until the number of spells on your list matches the number in the Paladin Features table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 5 Paladin, your list of prepared spells can include six Paladin spells of level 1 or 2 in any combination.
 
-You prepare the list of spells of 1st level and higher that are available for you to cast with this feature. To start, choose two 1st-level spells from the Paladin spell list. Rather than choosing, you may start with Heroism and Searing Smite.
+If another Paladin feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Paladin spells for you.
 
-The number of spells on your list increases as you gain Paladin levels, as shown in the Prepared Spells column of the Paladin table.
+***Changing Your Prepared Spells.*** Whenever you finish a Long Rest, you can replace one spell on your list with another Paladin spell for which you have spell slots.
 
-Whenever that number increases, choose additional spells from the Paladin spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Paladin, your list of prepared spells can include six Paladin spells of 1st or 2nd level, in any combination.
- 
-If another Paladin feature gives spells that you always have prepared, those spells don't count against the number of spells on the list you prepare with this Spellcasting feature, but those spells otherwise follow the rules in this feature.
+***Spellcasting Ability.*** Charisma is your spellcasting ability for your Paladin spells.
 
-#### Changing Your Prepared Spells
-
-Whenever you finish a Long Rest, you can replace one spell on your list with another Paladin spell for which you have spell slots.
-
-#### Spellcasting Ability
-
-Charisma is your Spellcasting Ability for your Paladin spells.
-
-#### Spellcasting Focus
-
-You can use a Holy Symbol as a Spellcasting Focus for the spells you prepare for this class.
+***Spellcasting Focus.*** You can use a Holy Symbol as a Spellcasting Focus for your Paladin spells.
 
 ### Level 1: Weapon Mastery
 
@@ -114,13 +103,9 @@ Whenever you finish a Long Rest, you can change the kinds of weapons you chose. 
 
 ### Level 2: Fighting Style
 
-You gain a [Fighting Style] feat of your choice (those feats have this feature as a prerequisite). Instead of chooseing one of those feats, you can choose the option below:
+You gain a Fighting Style feat of your choice (see chapter 5 for feats). Instead of choosing one of those feats, you can choose the option below.
 
-#### Blessed Warrior
-
-You learn two Cleric cantrips of your choice. The chosen cantrips count as Paladin spells for you and Charisma is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of those cantrip with another Cleric cantrip.
-
-[Fighting Style](../../character-creation/feat/feat-fighting-style.md)
+***Blessed Warrior.*** You learn two Cleric cantrips of your choice (see the Cleric class’s section for a list of Cleric spells). Guidance and Sacred Flame are recommended. The chosen cantrips count as Paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip.
 
 ### Level 2: Paladin's Smite
 
@@ -140,58 +125,138 @@ As a Bonus Action, you can open your awareness to detect Celestials, Fiends, and
 
 ### Level 3: Paladin Subclass
 
-You gain a Paladin subclass of your choice. A subclass is a specialization that grants you special abilities at certain Paladin levels. For the rest of your career, you gain each of your subclass's features that are of your Paladin level and lower.
+You gain a Paladin subclass of your choice. The Oath of Devotion subclass is detailed after this class’s description. A subclass is a specialization that grants you features at certain Paladin levels. For the rest of your career, you gain each of your subclass’s features that are of your Paladin level or lower.
+
+!!! danger "Breaking Your Oath"
+
+    A Paladin tries to hold to the highest standards of conduct, but even the most dedicated are fallible. Sometimes a Paladin transgresses their oath.
+
+    A Paladin who has broken a vow typically seeks absolution, spending an all-night vigil as a sign of penitence or undertaking a fast. After a rite of forgiveness, the Paladin starts fresh.
+
+    If your Paladin unrepentantly violates their oath, talk to your DM. Your Paladin should probably take a more appropriate subclass or even abandon the class and adopt another one.
 
 ### Level 4: Ability Score Improvement
 
-You gain the [Ability Score Improvement](../../character-creation/feat/feat-general.md#ability-scores-improvement) feat or another feat of your choice for which you qualify.
-
-As shown on the Paladin table, you gain this feature again at levels 8, 12, 16, and 19.
+You gain the Ability Score Improvement feat (see chapter 5) or another feat of your choice for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16.
 
 ### Level 5: Extra Attack
 
-You can attack twice, instead of once, whenever you take the Attack action on your turn.
+You can attack twice instead of once whenever you take the Attack action on your turn.
 
 ### Level 5: Faithful Steed
 
-You can easily call on the aid of an otherworldly steed. You always have the **Find Steed** spell prepared.
+You can call on the aid of an otherworldly steed. You always have the *Find Steed* spell prepared.
 
 You can also cast the spell once without expending a spell slot, and you regain the ability to do so when you finish a Long Rest.
- 
-### Level 6: Aura Of Protection
 
-You radiate a protective, invisible aura that extends 10 feet from you in every direction, but it doesn't extend through Total Cover. The aura is inactive while you have the Incapacitated condition.
+### Level 6: Aura of Protection
+
+You radiate a protective, unseeable aura in a 10-foot Emanation that originates from you. The aura is inactive while you have the Incapacitated condition.
 
 You and your allies in the aura gain a bonus to saving throws equal to your Charisma modifier (minimum bonus of +1).
 
-If another Paladin is present, a creature can benefit from only one Aura of Protection at a time; the creature chooses which one when entering the auras.
+If another Paladin is present, a creature can benefit from only one Aura of Protection at a time; the creature chooses which aura while in them.
 
 ### Level 9: Abjure Foes
 
-As a Magic action, you can expend one use of your Channel Divinity to overwhelm foes with divine awe. As you present your Holy Symbol or weapon, you can target a number of creatures equal to your Charisma modifier (minimum of one creature) that you can see within 60 feet of yourself.
+As a Magic action, you can expend one use of this class’s Channel Divinity to overwhelm foes with awe. As you present your Holy Symbol or weapon, you can target a number of creatures equal to your Charisma modifier (minimum of one creature) that you can see within 60 feet of yourself. Each target must succeed on a Wisdom saving throw or have the Frightened condition for 1 minute or until it takes any damage. While Frightened in this way, a target can do only one of the following on its turns: move, take an action, or take a Bonus Action.
 
-Each target must succeed on a Wisdom saving throw or have the Dazed and Frightened conditions for 1 minute or until it takes any damage.
+### Level 10: Aura of Courage
 
-### Level 10: Aura Of Courage
-
-You and your allies are immune to the Frightened condition while in your Aura of Protection. If a Frightened ally enters the aura, that condition has no effect on that ally while there.
+You and your allies have Immunity to the Frightened condition while in your Aura of Protection. If a Frightened ally enters the aura, that condition has no effect on that ally while there.
 
 ### Level 11: Radiant Strikes
 
-You are so suffused with divine might that your weapon strikes carry supernatural power with them. When you hit a target with an attack roll using a melee weapon or an Unarmed Strike, the target takes an extra 1d8 :dmg-radiant: Radiant damage.
- 
+Your strikes now carry supernatural power. When you hit a target with an attack roll using a Melee weapon or an Unarmed Strike, the target takes an extra 1d8 Radiant damage.
+
 ### Level 14: Restoring Touch
 
-When you use Lay on Hands on a creature, you can also remove one or more of the following conditions from the creature: Blinded, Charmed, Dazed, Deafened, Frightened, Paralyzed, or Stunned. You must expend 5 Hit Points from the healing pool of Lay on Hands for each of these conditions you remove; those points don't also restore Hit Points to the creature.
+When you use Lay On Hands on a creature, you can also remove one or more of the following conditions from the creature: Blinded, Charmed, Deafened, Frightened, Paralyzed, or Stunned. You must expend 5 Hit Points from the healing pool of Lay On Hands for each of these conditions you remove; those points don’t also restore Hit Points to the creature.
 
 ### Level 18: Aura Expansion
 
-Your Aura of Protection now extends 30 feet from you rather than 10 feet.
+Your Aura of Protection is now a 30-foot Emanation.
 
 ### Level 19: Epic Boon
 
-You gain an Epipc Boon feat or another feat of your choice for which you qualify. 
+You gain an Epic Boon feat (see chapter 5) or another feat of your choice for which you qualify. Boon of Truesight is recommended.
 
 ## Paladin Spell List
 
-[To Be Added]
+This section presents the Paladin spell list. The spells are organized by spell level and then alphabetized, and each spell’s school of magic is listed. In the Special column, C means the spell requires Concentration, R means it’s a Ritual, and M means it requires a specific Material component.
+
+##### Level 1 Paladin Spells
+
+| Spell | School | Special |
+|---|---|:-:|
+| **Bless** | Enchantment | C, M |
+| **Command** | Enchantment | — |
+| **Compelled Duel** | Enchantment | C |
+| **Cure Wounds** | Abjuration | — |
+| **Detect Evil and Good** | Divination | C |
+| **Detect Magic** | Divination | C, R |
+| **Detect Poison and Disease** | Divination | C, R |
+| **Divine Favor** | Transmutation | — |
+| **Divine Smite** | Evocation | — |
+| **Heroism** | Enchantment | C |
+| **Protection from Evil and Good** | Abjuration | C, M |
+| **Purify Food and Drink** | Transmutation | R |
+| **Searing Smite** | Evocation | — |
+| **Shield of Faith** | Abjuration | C |
+| **Thunderous Smite** | Evocation | — |
+| **Wrathful Smite** | Necromancy | — |
+
+##### Level 2 Paladin Spells
+
+| Spell | School | Special |
+|---|---|:-:|
+| **Aid** | Abjuration | — |
+| **Find Steed** | Conjuration | — |
+| **Gentle Repose** | Necromancy | R, M |
+| **Lesser Restoration** | Abjuration | — |
+| **Locate Object** | Divination | C |
+| **Magic Weapon** | Transmutation | — |
+| **Prayer of Healing** | Abjuration | — |
+| **Protection from Poison** | Abjuration | — |
+| **Shining Smite** | Transmutation | C |
+| **Warding Bond** | Abjuration | M |
+| **Zone of Truth** | Enchantment | — |
+
+##### Level 3 Paladin Spells
+
+| Spell | School | Special |
+|---|---|:-:|
+| **Aura of Vitality** | Abjuration | C |
+| **Blinding Smite** | Evocation | — |
+| **Create Food and Water** | Conjuration | — |
+| **Crusader’s Mantle** | Transmutation | C |
+| **Daylight** | Evocation | — |
+| **Dispel Magic** | Abjuration | — |
+| **Elemental Weapon** | Transmutation | C |
+| **Magic Circle** | Abjuration | M |
+| **Remove Curse** | Abjuration | — |
+| **Revivify** | Necromancy | M |
+
+##### Level 4 Paladin Spells
+
+| Spell | School | Special |
+|---|---|:-:|
+| **Aura of Life** | Abjuration | C |
+| **Aura of Purity** | Abjuration | C |
+| **Banishment** | Abjuration | C |
+| **Death Ward** | Abjuration | — |
+| **Locate Creature** | Divination | C |
+| **Staggering Smite** | Enchantment | — |
+
+##### Level  Paladin Spells
+
+| Spell | School | Special |
+|---|---|:-:|
+| **Banishing Smite** | Conjuration | C |
+| **Circle of Power** | Abjuration | C |
+| **Destructive Wave** | Evocation | — |
+| **Dispel Evil and Good** | Abjuration | C |
+| **Geas** | Enchantment | — |
+| **Greater Restoration** | Abjuration | M |
+| **Raise Dead** | Necromancy | M |
+| **Summon Celestial** | Conjuration | C, M |
