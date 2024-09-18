@@ -268,8 +268,8 @@ theme:
   language: en
   palette:
     scheme: slate
-    primary: indigo
-    accent: indigo
+    primary: teal
+    accent: teal
   font:
     code: Roboto Code
     text: Roboto

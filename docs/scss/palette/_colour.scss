@@ -66,11 +66,11 @@
         [data-md-color-primary="#{$name}"] {
             --md-mod-primary-code-bg-color: #{mix($mod-bg, nth($colors, 1), 85%)};
             --md-mod-primary-fg-color: hsla(#{hex2hsl(nth($colors, 1))}, 1);
-            --md-mod-primary-fg-color--transparent: hsla(#{hex2hsl(nth($colors, 1))}, 25%);
-            --md-mod-primary-fg-color--light: hsla(#{hex2hsl(nth($colors, 2))}, 1);
-            --md-mod-primary-fg-color--dark: hsla(#{hex2hsl(nth($colors, 3))}, 1);
+            --md-mod-primary-fg-color-transparent: hsla(#{hex2hsl(nth($colors, 1))}, 25%);
+            --md-mod-primary-fg-color-light: hsla(#{hex2hsl(nth($colors, 2))}, 1);
+            --md-mod-primary-fg-color-dark: hsla(#{hex2hsl(nth($colors, 3))}, 1);
             --md-mod-primary-bg-color: var(--md-default-bg-color);
-            --md-mod-primary-bg-color--light: var(--md-default-bg-color--light);
+            --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
         }
     }
 }
