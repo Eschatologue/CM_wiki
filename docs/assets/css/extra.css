@@ -219,12 +219,11 @@
 
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
-  font-size: 0.55rem;
-  padding: 0.3125em 0.625em;
+  font-size: 0.6rem;
+  padding: 0.3125em 0.75em;
   border-bottom: rgba(255, 255, 255, 0.12);
   background-color: rgba(255, 255, 255, 0.025);
   min-width: 0.0625em;
-  max-width: 15em;
 }
 .md-typeset table:not([class]) tbody tr:hover {
   background-color: rgba(0, 0, 0, 0);
@@ -235,7 +234,7 @@
   text-transform: capitalize !important;
   vertical-align: bottom;
   color: rgba(255, 255, 255, 0.6);
-  padding: 0.4375em 0.625em;
+  padding: 0.4375em 0.75em;
 }
 
 /* Table Cell Rounding */
