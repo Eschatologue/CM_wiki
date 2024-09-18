@@ -1,4 +1,4 @@
-@import "./dracula";
+@import "./accent";
 
 :root > * {
     // Custom code colors
@@ -44,29 +44,29 @@
     @each $name,
         $colors
             in (
-                "red": $drac-red lighten($drac-red, 5%) darken($drac-red, 5%),
-                "pink": $drac-pink lighten($drac-pink, 5%) darken($drac-pink, 5%),
-                "purple": $drac-purple lighten($drac-purple, 5%) darken($drac-purple, 5%),
-                "deep-purple": $drac-purple lighten($drac-purple, 5%) darken($drac-purple, 5%),
-                "blue": $drac-blue lighten($drac-blue, 5%) darken($drac-blue, 5%),
-                "indigo": $drac-blue lighten($drac-blue, 5%) darken($drac-blue, 5%),
-                "light-blue": $drac-blue lighten($drac-blue, 5%) darken($drac-blue, 5%),
-                "cyan": $drac-cyan lighten($drac-cyan, 5%) darken($drac-cyan, 5%),
-                "teal": $drac-cyan lighten($drac-cyan, 5%) darken($drac-cyan, 5%),
-                "green": $drac-green lighten($drac-green, 5%) darken($drac-green, 5%),
-                "light-green": $drac-green lighten($drac-green, 5%) darken($drac-green, 5%),
-                "lime": $drac-green lighten($drac-green, 5%) darken($drac-green, 5%),
-                "yellow": $drac-yellow lighten($drac-yellow, 5%) darken($drac-yellow, 5%),
-                "amber": $drac-yellow lighten($drac-yellow, 5%) darken($drac-yellow, 5%),
-                "orange": $drac-orange lighten($drac-orange, 5%) darken($drac-orange, 5%),
-                "deep-orange": $drac-orange lighten($drac-orange, 5%) darken($drac-orange, 5%)
+                "red": $mod-red lighten($mod-red, 5%) darken($mod-red, 5%),
+                "pink": $mod-pink lighten($mod-pink, 5%) darken($mod-pink, 5%),
+                "purple": $mod-purple lighten($mod-purple, 5%) darken($mod-purple, 5%),
+                "deep-purple": $mod-purple lighten($mod-purple, 5%) darken($mod-purple, 5%),
+                "blue": $mod-blue lighten($mod-blue, 5%) darken($mod-blue, 5%),
+                "indigo": $mod-blue lighten($mod-blue, 5%) darken($mod-blue, 5%),
+                "light-blue": $mod-blue lighten($mod-blue, 5%) darken($mod-blue, 5%),
+                "cyan": $mod-cyan lighten($mod-cyan, 5%) darken($mod-cyan, 5%),
+                "teal": $mod-cyan lighten($mod-cyan, 5%) darken($mod-cyan, 5%),
+                "green": $mod-green lighten($mod-green, 5%) darken($mod-green, 5%),
+                "light-green": $mod-green lighten($mod-green, 5%) darken($mod-green, 5%),
+                "lime": $mod-green lighten($mod-green, 5%) darken($mod-green, 5%),
+                "yellow": $mod-yellow lighten($mod-yellow, 5%) darken($mod-yellow, 5%),
+                "amber": $mod-yellow lighten($mod-yellow, 5%) darken($mod-yellow, 5%),
+                "orange": $mod-orange lighten($mod-orange, 5%) darken($mod-orange, 5%),
+                "deep-orange": $mod-orange lighten($mod-orange, 5%) darken($mod-orange, 5%)
             )
     {
         // Color palette
         [data-md-color-primary="#{$name}"] {
-            --md-mod-primary-code-bg-color: #{mix($drac-bg, nth($colors, 1), 85%)};
+            --md-mod-primary-code-bg-color: #{mix($mod-bg, nth($colors, 1), 85%)};
             --md-mod-primary-fg-color: hsla(#{hex2hsl(nth($colors, 1))}, 1);
-            --md-mod-primary-fg-color--transparent: hsla(#{hex2hsl(nth($colors, 1))}, 0.1);
+            --md-mod-primary-fg-color--transparent: hsla(#{hex2hsl(nth($colors, 1))}, 0.25);
             --md-mod-primary-fg-color--light: hsla(#{hex2hsl(nth($colors, 2))}, 1);
             --md-mod-primary-fg-color--dark: hsla(#{hex2hsl(nth($colors, 3))}, 1);
             --md-mod-primary-bg-color: var(--md-default-bg-color);

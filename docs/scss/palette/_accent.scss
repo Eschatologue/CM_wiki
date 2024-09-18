@@ -1,62 +1,24 @@
-////
-/// Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
-///
-/// Permission is hereby granted, free of charge, to any person obtaining a
-/// copy of this software and associated documentation files (the "Software"),
-/// to deal in the Software without restriction, including without limitation
-/// the rights to use, copy, modify, merge, publish, distribute, sublicense,
-/// and/or sell copies of the Software, and to permit persons to whom the
-/// Software is furnished to do so, subject to the following conditions:
-///
-/// The above copyright notice and this permission notice shall be included in
-/// all copies or substantial portions of the Software.
-///
-/// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-/// IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-/// FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL
-/// THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-/// LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-/// FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
-/// DEALINGS
-////
+// Custom Colour Pallete
 
-// ----------------------------------------------------------------------------
-// Rules
-// ----------------------------------------------------------------------------
+$mod-fg: hsl(60, 30%, 96%);
+$mod-bg: hsl(231, 15%, 18%);
+$mod-highlight: hsl(66, 94%, 73%);
+$mod-selection: hsl(231, 25%, 25%);
+$mod-blue: hsl(225, 27%, 51%);
+$mod-cyan: hsl(191, 97%, 77%);
+$mod-green: hsl(135, 94%, 65%);
+$mod-orange: hsl(31, 100%, 71%);
+$mod-pink: hsl(326, 100%, 74%);
+$mod-purple: hsl(265, 89%, 78%);
+$mod-red: hsl(0, 100%, 67%);
+$mod-yellow: hsl(65, 92%, 76%);
 
-// Define accent colors
-@each $name, $color in (
-  "red":         $clr-red-a400,
-  "pink":        $clr-pink-a400,
-  "purple":      $clr-purple-a200,
-  "deep-purple": $clr-deep-purple-a200,
-  "indigo":      $clr-indigo-a200,
-  "blue":        $clr-blue-a200,
-  "light-blue":  $clr-light-blue-a700,
-  "cyan":        $clr-cyan-a700,
-  "teal":        $clr-teal-a700,
-  "green":       $clr-green-a700,
-  "light-green": $clr-light-green-a700,
-  "lime":        $clr-lime-a700,
-  "yellow":      $clr-yellow-a700,
-  "amber":       $clr-amber-a700,
-  "orange":      $clr-orange-a400,
-  "deep-orange": $clr-deep-orange-a200
-) {
+$mod-grey: hsl(225, 8%, 51%);
+$mod-teal: hsl(161, 97%, 77%);
+$mod-light-blue: hsl(190, 94%, 87%);
+$mod-light-green: hsl(135, 92%, 79%);
+$mod-dark-pink: hsl(325, 100%, 64%);
+$mod-dark-red: hsl(0, 100%, 59%);
+$mod-dark-yellow: hsl(51, 94%, 73%);
 
-  // Color palette
-
-  [data-md-color-accent="#{$name}"] {
-    --md-accent-fg-color:              hsla(#{hex2hsl($color)}, 1);
-    --md-accent-fg-color--transparent: hsla(#{hex2hsl($color)}, 0.1);
-
-    // Inverted text for lighter shades
-    @if index("lime" "yellow" "amber" "orange", $name) {
-      --md-accent-bg-color:           hsla(0, 0%, 0%, 0.87);
-      --md-accent-bg-color--light:    hsla(0, 0%, 0%, 0.54);
-    } @else {
-      --md-accent-bg-color:           hsla(0, 0%, 100%, 1);
-      --md-accent-bg-color--light:    hsla(0, 0%, 100%, 0.7);
-    }
-  }
-}
+$mod-default-bg: lighten($mod-bg, 5%);

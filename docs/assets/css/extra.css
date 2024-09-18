@@ -554,7 +554,7 @@ table tr:last-child td:last-child {
 }
 [data-md-color-scheme=slate] .md-tabs {
   color: var(--md-text-color);
-  background-color: --md-mod-primary-fg-color--transparent;
+  background-color: var(--md-mod-primary-fg-color--transparent);
 }
 [data-md-color-scheme=slate] .md-tabs__link--active {
   color: var(--md-primary-fg-color);
