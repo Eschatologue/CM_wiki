@@ -6,11 +6,13 @@ A Beast Master ranger forms a mystical bond with a special beast, drawing on pri
 
 You magically summon a primal beast, which draws strength from your bond with nature. The beast is friendly to you and your companions and obeys your commands. Choose its stat block—[Beast of the Land], [Beast of the Sea], or [Beast of the Sky]—which uses your Proficiency Bonus (PB) in several places. You also determine the kind of animal the beast is, choosing a kind appropriate for the stat block. Whatever kind you choose, the beast bears primal markings, indicating its supernatural origin.
 
-In combat, the beast acts during your turn. It can move and use its Reaction on its own, but the only action it takes is the Dodge action, unless you take a Bonus Action on your turn to command it to take a different action. That action can be one in its stat block or some other action. You can also sacrifice one of your attacks when you take the Attack action to command the beast to take the Attack action. If you have the Incapacitated condition, the beast can take any action of its choice, not just Dodge.
+The beast is Firendly to you and your allies and obeys your commands. It vanishes when you die.
 
-If the beast has died within the last hour, you can you use your action to touch it and expend a spell slot of 1st level or higher. The beast returns to life after 1 minute with all its Hit Points
- 
-Whenever you finish a Long Rest, you can summon a different primal beast. The new beast appears in an unoccupied space within 5 feet of you, and you choose its stat block and appearance. If you already have a beast from this feature, it vanishes when the new beast appears. The beast vanishes if you die.
+&emsp; ***The Beast in Combat.*** In combat, the beast acts during your turn. It can move and use its Reaction on its own, but the only action it takes its the Dodge action unless you take a Bonus Action to combat it to take an action in its stat block or some other action. You can also sacrifice one of your attacks when you take the Attack action to command the beast to take the Beast's Strike action. If you have the Incapacitated condition, the beast acts on its own and isn't limited to the Dodge action.
+
+&emsp; ***Restoring or Replacing the Beast.*** If the beast has died within the last hour, you can take a Magic action to touch it and expend a spell slot. The beast reutrns to life after 1 minute with all its Hit Points restored.
+
+Whenever you finish a Long Rest, you can summon a different primal beast, which appears in an unccoupied space within 5 feet of you. You choose its stat block and appearance. If you already have a beast form from this feature, the old one vanishes when the new one appears.
 
 [Beast of the Land]: #beast-of-the-land
 [Beast of the Sea]: #beast-of-the-sea
@@ -24,13 +26,15 @@ In addition, whenever the beast hits with an attack and deals damage, it can dea
 
 ### Level 11: Bestial Fury
 
-When you command your Primal Companion beast to take the Attack action, the beast can make two attacks.
+When you command your Primal Companion beast to take the Attack action, the beast can use it twice.
 
-In addition, the first time each turn it hits a creature under the effect of your Hunter's Mark spell, the beast deals extra Force damage equal to the bonus damage of that spell.
+In addition, the first time each turn it hits a creature under the effect of your ***Hunter's Mark*** spell, the beast deals extra Force damage equal to the bonus damage of that spell.
 
 ### Level 15: Share Spells
 
 When you cast a spell targeting yourself, you can also affect your Primal Companion beast with the spell if the beast is within 30 feet of you.
+
+---
 
 ### Beast of the Land
 *Medium Beast, unaligned*
@@ -55,6 +59,8 @@ When you cast a spell targeting yourself, you can also affect your Primal Compan
 #### Actions
 ***Maul.*** *Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target. *Hit:* 1d8 + 2 + PB slashing damage.
 
+---
+
 ### Beast of the Sky
 *Small Beast, neutral*
 
@@ -77,6 +83,8 @@ When you cast a spell targeting yourself, you can also affect your Primal Compan
 
 #### Actions
 ***Shred.*** *Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target. *Hit:* 1d4 + 3 + PB slashing damage
+
+---
 
 ### Beast of the Sea
 *Medium Beast, unaligned*

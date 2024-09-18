@@ -8,7 +8,7 @@ icon: class/paladin
 
 ##### Core Paladin Traits
 
-| **Primary Ability** | Strength & Charisma |
+| Primary Ability | Strength & Charisma |
 |---|---|
 | **Hit Point Die** | D10 per Paladin level |
 | **Saving Throw Proficiencies** | Wisdom and Charisma |

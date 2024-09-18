@@ -10,7 +10,7 @@ icon: material/alpha-g-box
 
 *Level 3 Transmutation (Sorcerer, Warlock, Wizard)*
 
-****Casting Time:**** Action  
+**Casting Time:** Action  
 **Range:** Touch  
 **Components:** V, S, M (a bit of gauze)  
 **Duration:** Concentration, up to 1 hour
@@ -29,7 +29,7 @@ The target can't talk or manipulate objects, and any objects it was carrying or 
 
 *Level 9 Conjuration (Cleric, Sorcerer, Warlock, Wizard)*
 
-****Casting Time:**** Action  
+**Casting Time:** Action  
 **Range:** 60 feet  
 **Components:** V, S, M (a diamond worth 5,000+ GP)  
 **Duration:** Concentration, up to 1 minute
@@ -48,7 +48,7 @@ When you cast this spell, you can speak the name of a specific creature (a pseud
 
 *Level 5 Enchantment (Bard, Cleric, Druid, Paladin, Wizard)*
 
-****Casting Time:**** 1 minute  
+**Casting Time:** 1 minute  
 **Range:** 60 feet  
 **Components:** V  
 **Duration:** 30 days
@@ -69,7 +69,7 @@ A Remove Curse, Greater Restoration, or Wish spell ends this spell.
 
 *Level 2 Necromancy (Cleric, Paladin, Wizard)*
 
-****Casting Time:**** Action or Ritual  
+**Casting Time:** Action or Ritual  
 **Range:** Touch  
 **Components:** V, S, M (2 Copper Pieces, which the spell consumes)  
 **Duration:** 10 days
@@ -84,7 +84,7 @@ The spell also effectively extends the time limit on raising the target from the
 
 *Level 4 Conjuration (Druid)*
 
-****Casting Time:**** Action  
+**Casting Time:** Action  
 **Range:** 60 feet  
 **Components:** V, S  
 **Duration:** Concentration, up to 10 minutes
@@ -96,7 +96,6 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 ***Using a Higher-Level Spell Slot.*** Use the spell slot's level for the spell's level in the stat block.
 
 ![GiantInsect](../../assets/wiki/statblock/GiantInsectstatblock.png)
-
 
 ---
 

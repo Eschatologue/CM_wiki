@@ -1,35 +1,33 @@
-# Hunter Conclave
+# Hunter
+
+> *Protect Nature and People from Destruction*
 
 You stalk prey in the wilds and elsewhere, using your abilities as a Hunter to protect nature and people everywhere from forces that would destroy them.
 
-### Level 3: Hunter's Prey
+### Level 3: Hunter’s Lore
 
-You gain one of the following feature options of your choice.
- 
-**Colossus Slayer.** Your tenacity can wear down even the most resilient foes. When you hit a creature with a weapon, the weapon deals an extra 1d8 damage to the target if it's missing any of its Hit Points. You can deal this extra damage only once per turn.
+You can call on the forces of nature to reveal certain strengths and weaknesses of your prey. While a creature is marked by your Hunter’s Mark, you know whether that creature has any Immunities, Resistances, or Vulnerabilities, and if the creature has any, you know what they are.
 
-**Horde Breaker.** Once on each of your turns when you make an attack with a weapon, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target, that is within the weapon's range, and that you haven't attacked this turn.
+### Level 3: Hunter’s Prey
 
-**Retaliator.** Immediately after a creature within 5 feet of you attacks you, you can use your Reaction to make one attack with a weapon against that creature, whether or not it hit you.
+You gain one of the following feature options of your choice. Whenever you finish a Short or Long Rest, you can replace the chosen option with the other one.
 
-### Level 3: Hunter's Lore
+&emsp; ***Colossus Slayer.*** Your tenacity can wear down even the most resilient foes. When you hit a creature with a weapon, the weapon deals an extra 1d8 damage to the target if it’s missing any of its Hit Points. You can deal this extra damage only once per turn.
 
-You can call on the forces of nature to reveal certain strengths and weaknesses of your prey. While a creature is marked by your Hunter's Mark, you know whether that creature has any damage or condition immunities, damage resistances, or damage vulnerabilities, and if the creature has any, you know what they are.
+&emsp; ***Horde Breaker.*** Once on each of your turns when you make an attack with a weapon, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target, that is within the weapon’s range, and that you haven’t attacked this turn.
 
 ### Level 7: Defensive Tactics
 
-You gain one of the following feature options of your choice.
+You gain one of the following feature options of your choice. Whenever you finish a Short or Long Rest, you can replace the chosen option with the other one.
 
-**Evasion.** When you are subjected to an effect that lets you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this feature if you have the Incapacitated condition.
+&emsp; ***Escape the Horde.*** Opportunity Attacks have Disadvantage against you.
 
-**Hunter's Leap.** If an enemy you can see enters a space within 5 feet of you, you can use your Reaction to move up to half your Speed without provoking Opportunity Attacks.
+&emsp; ***Multiattack Defense.*** When a creature hits you with an attack roll, that creature has Disadvantage on all other attack rolls against you this turn.
 
-**Uncanny Dodge.** When an attacker that you can see hits you with an attack roll, you can use your Reaction to halve the attack's damage against you (round down).
+### Level 11: Superior Hunter’s Prey
 
-### Level 11: Superior Hunter'S Prey
+Once per turn when you deal damage to a creature marked by your Hunter’s Mark, you can also deal that spell’s extra damage to a different creature that you can see within 30 feet of the first creature.
 
-You gain another feature option of your choice from the Hunter's Prey feature.
+### Level 15: Superior Hunter’s Defense
 
-### Level 15: Superior Hunter'S Defense
-
-You gain another feature option of your choice from the Defensive Tactics feature.
+When you take damage, you can take a Reaction to give yourself Resistance to that damage and any other damage of the same type until the end of the current turn.
