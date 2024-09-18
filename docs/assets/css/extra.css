@@ -28,7 +28,7 @@
   --md-typeset-kbd-border-color: rgb(26.45, 27.6, 35.65);
   --md-typeset-kbd-accent-color: var(--md-default-fg-color--lighter);
 }
-:root > * [data-md-color-primary=red] {
+:root > * [data-md-color-scheme=slate][data-md-color-primary=red] {
   --md-mod-primary-code-bg-color: rgb(71.41275, 47.923425, 57.87225);
   --md-mod-primary-fg-color: hsla(hex2hsl(hsl(0, 100%, 67%)), 1);
   --md-mod-primary-fg-color-transparent: hsla(hex2hsl(hsl(0, 100%, 67%)), 25%);
@@ -37,7 +37,7 @@
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
 }
-:root > * [data-md-color-primary=pink] {
+:root > * [data-md-color-scheme=slate][data-md-color-primary=pink] {
   --md-mod-primary-code-bg-color: rgb(71.41275, 53.278425, 74.49825);
   --md-mod-primary-fg-color: hsla(hex2hsl(hsl(326, 100%, 74%)), 1);
   --md-mod-primary-fg-color-transparent: hsla(hex2hsl(hsl(326, 100%, 74%)), 25%);
@@ -46,7 +46,7 @@
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
 }
-:root > * [data-md-color-primary=purple] {
+:root > * [data-md-color-scheme=slate][data-md-color-primary=purple] {
   --md-mod-primary-code-bg-color: rgb(61.749525, 57.264075, 82.1916);
   --md-mod-primary-fg-color: hsla(hex2hsl(hsl(265, 89%, 78%)), 1);
   --md-mod-primary-fg-color-transparent: hsla(hex2hsl(hsl(265, 89%, 78%)), 25%);
@@ -55,7 +55,7 @@
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
 }
-:root > * [data-md-color-primary=deep-purple] {
+:root > * [data-md-color-scheme=slate][data-md-color-primary=deep-purple] {
   --md-mod-primary-code-bg-color: rgb(61.749525, 57.264075, 82.1916);
   --md-mod-primary-fg-color: hsla(hex2hsl(hsl(265, 89%, 78%)), 1);
   --md-mod-primary-fg-color-transparent: hsla(hex2hsl(hsl(265, 89%, 78%)), 25%);
@@ -64,7 +64,7 @@
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
 }
-:root > * [data-md-color-primary=blue] {
+:root > * [data-md-color-scheme=slate][data-md-color-primary=blue] {
   --md-mod-primary-code-bg-color: rgb(47.609775, 51.8956875, 69.435225);
   --md-mod-primary-fg-color: hsla(hex2hsl(hsl(225, 27%, 51%)), 1);
   --md-mod-primary-fg-color-transparent: hsla(hex2hsl(hsl(225, 27%, 51%)), 25%);
@@ -73,7 +73,7 @@
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
 }
-:root > * [data-md-color-primary=indigo] {
+:root > * [data-md-color-scheme=slate][data-md-color-primary=indigo] {
   --md-mod-primary-code-bg-color: rgb(47.609775, 51.8956875, 69.435225);
   --md-mod-primary-fg-color: hsla(hex2hsl(hsl(225, 27%, 51%)), 1);
   --md-mod-primary-fg-color-transparent: hsla(hex2hsl(hsl(225, 27%, 51%)), 25%);
@@ -82,7 +82,7 @@
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
 }
-:root > * [data-md-color-primary=light-blue] {
+:root > * [data-md-color-scheme=slate][data-md-color-primary=light-blue] {
   --md-mod-primary-code-bg-color: rgb(47.609775, 51.8956875, 69.435225);
   --md-mod-primary-fg-color: hsla(hex2hsl(hsl(225, 27%, 51%)), 1);
   --md-mod-primary-fg-color-transparent: hsla(hex2hsl(hsl(225, 27%, 51%)), 25%);
@@ -91,7 +91,7 @@
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
 }
-:root > * [data-md-color-primary=cyan] {
+:root > * [data-md-color-scheme=slate][data-md-color-primary=cyan] {
   --md-mod-primary-code-bg-color: rgb(54.081675, 69.7755225, 82.853325);
   --md-mod-primary-fg-color: hsla(hex2hsl(hsl(191, 97%, 77%)), 1);
   --md-mod-primary-fg-color-transparent: hsla(hex2hsl(hsl(191, 97%, 77%)), 25%);
@@ -100,7 +100,7 @@
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
 }
-:root > * [data-md-color-primary=teal] {
+:root > * [data-md-color-scheme=slate][data-md-color-primary=teal] {
   --md-mod-primary-code-bg-color: rgb(54.081675, 69.7755225, 82.853325);
   --md-mod-primary-fg-color: hsla(hex2hsl(hsl(191, 97%, 77%)), 1);
   --md-mod-primary-fg-color-transparent: hsla(hex2hsl(hsl(191, 97%, 77%)), 25%);
@@ -109,7 +109,7 @@
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
 }
-:root > * [data-md-color-primary=green] {
+:root > * [data-md-color-scheme=slate][data-md-color-primary=green] {
   --md-mod-primary-code-bg-color: rgb(45.441, 72.365175, 63.437625);
   --md-mod-primary-fg-color: hsla(hex2hsl(hsl(135, 94%, 65%)), 1);
   --md-mod-primary-fg-color-transparent: hsla(hex2hsl(hsl(135, 94%, 65%)), 25%);
@@ -118,7 +118,7 @@
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
 }
-:root > * [data-md-color-primary=light-green] {
+:root > * [data-md-color-scheme=slate][data-md-color-primary=light-green] {
   --md-mod-primary-code-bg-color: rgb(45.441, 72.365175, 63.437625);
   --md-mod-primary-fg-color: hsla(hex2hsl(hsl(135, 94%, 65%)), 1);
   --md-mod-primary-fg-color-transparent: hsla(hex2hsl(hsl(135, 94%, 65%)), 25%);
@@ -127,7 +127,7 @@
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
 }
-:root > * [data-md-color-primary=lime] {
+:root > * [data-md-color-scheme=slate][data-md-color-primary=lime] {
   --md-mod-primary-code-bg-color: rgb(45.441, 72.365175, 63.437625);
   --md-mod-primary-fg-color: hsla(hex2hsl(hsl(135, 94%, 65%)), 1);
   --md-mod-primary-fg-color-transparent: hsla(hex2hsl(hsl(135, 94%, 65%)), 25%);
@@ -136,7 +136,7 @@
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
 }
-:root > * [data-md-color-primary=yellow] {
+:root > * [data-md-color-scheme=slate][data-md-color-primary=yellow] {
   --md-mod-primary-code-bg-color: rgb(69.27075, 72.434025, 65.49165);
   --md-mod-primary-fg-color: hsla(hex2hsl(hsl(65, 92%, 76%)), 1);
   --md-mod-primary-fg-color-transparent: hsla(hex2hsl(hsl(65, 92%, 76%)), 25%);
@@ -145,7 +145,7 @@
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
 }
-:root > * [data-md-color-primary=amber] {
+:root > * [data-md-color-scheme=slate][data-md-color-primary=amber] {
   --md-mod-primary-code-bg-color: rgb(69.27075, 72.434025, 65.49165);
   --md-mod-primary-fg-color: hsla(hex2hsl(hsl(65, 92%, 76%)), 1);
   --md-mod-primary-fg-color-transparent: hsla(hex2hsl(hsl(65, 92%, 76%)), 25%);
@@ -154,7 +154,7 @@
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
 }
-:root > * [data-md-color-primary=orange] {
+:root > * [data-md-color-scheme=slate][data-md-color-primary=orange] {
   --md-mod-primary-code-bg-color: rgb(71.41275, 62.445675, 60.93225);
   --md-mod-primary-fg-color: hsla(hex2hsl(hsl(31, 100%, 71%)), 1);
   --md-mod-primary-fg-color-transparent: hsla(hex2hsl(hsl(31, 100%, 71%)), 25%);
@@ -163,7 +163,7 @@
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
 }
-:root > * [data-md-color-primary=deep-orange] {
+:root > * [data-md-color-scheme=slate][data-md-color-primary=deep-orange] {
   --md-mod-primary-code-bg-color: rgb(71.41275, 62.445675, 60.93225);
   --md-mod-primary-fg-color: hsla(hex2hsl(hsl(31, 100%, 71%)), 1);
   --md-mod-primary-fg-color-transparent: hsla(hex2hsl(hsl(31, 100%, 71%)), 25%);
@@ -381,7 +381,7 @@ table tr:last-child td:last-child {
   --md-typeset-kbd-border-color: rgb(26.45, 27.6, 35.65);
   --md-typeset-kbd-accent-color: var(--md-default-fg-color--lighter);
 }
-:root > * [data-md-color-primary=red] {
+:root > * [data-md-color-scheme=slate][data-md-color-primary=red] {
   --md-mod-primary-code-bg-color: rgb(71.41275, 47.923425, 57.87225);
   --md-mod-primary-fg-color: hsla(0deg, 100%, 67%, 1);
   --md-mod-primary-fg-color-transparent: hsla(0deg, 100%, 67%, 25%);
@@ -390,7 +390,7 @@ table tr:last-child td:last-child {
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
 }
-:root > * [data-md-color-primary=pink] {
+:root > * [data-md-color-scheme=slate][data-md-color-primary=pink] {
   --md-mod-primary-code-bg-color: rgb(71.41275, 53.278425, 74.49825);
   --md-mod-primary-fg-color: hsla(326deg, 100%, 74%, 1);
   --md-mod-primary-fg-color-transparent: hsla(326deg, 100%, 74%, 25%);
@@ -399,7 +399,7 @@ table tr:last-child td:last-child {
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
 }
-:root > * [data-md-color-primary=purple] {
+:root > * [data-md-color-scheme=slate][data-md-color-primary=purple] {
   --md-mod-primary-code-bg-color: rgb(61.749525, 57.264075, 82.1916);
   --md-mod-primary-fg-color: hsla(265deg, 89%, 78%, 1);
   --md-mod-primary-fg-color-transparent: hsla(265deg, 89%, 78%, 25%);
@@ -408,7 +408,7 @@ table tr:last-child td:last-child {
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
 }
-:root > * [data-md-color-primary=deep-purple] {
+:root > * [data-md-color-scheme=slate][data-md-color-primary=deep-purple] {
   --md-mod-primary-code-bg-color: rgb(61.749525, 57.264075, 82.1916);
   --md-mod-primary-fg-color: hsla(265deg, 89%, 78%, 1);
   --md-mod-primary-fg-color-transparent: hsla(265deg, 89%, 78%, 25%);
@@ -417,7 +417,7 @@ table tr:last-child td:last-child {
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
 }
-:root > * [data-md-color-primary=blue] {
+:root > * [data-md-color-scheme=slate][data-md-color-primary=blue] {
   --md-mod-primary-code-bg-color: rgb(47.609775, 51.8956875, 69.435225);
   --md-mod-primary-fg-color: hsla(225deg, 27%, 51%, 1);
   --md-mod-primary-fg-color-transparent: hsla(225deg, 27%, 51%, 25%);
@@ -426,7 +426,7 @@ table tr:last-child td:last-child {
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
 }
-:root > * [data-md-color-primary=indigo] {
+:root > * [data-md-color-scheme=slate][data-md-color-primary=indigo] {
   --md-mod-primary-code-bg-color: rgb(47.609775, 51.8956875, 69.435225);
   --md-mod-primary-fg-color: hsla(225deg, 27%, 51%, 1);
   --md-mod-primary-fg-color-transparent: hsla(225deg, 27%, 51%, 25%);
@@ -435,7 +435,7 @@ table tr:last-child td:last-child {
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
 }
-:root > * [data-md-color-primary=light-blue] {
+:root > * [data-md-color-scheme=slate][data-md-color-primary=light-blue] {
   --md-mod-primary-code-bg-color: rgb(47.609775, 51.8956875, 69.435225);
   --md-mod-primary-fg-color: hsla(225deg, 27%, 51%, 1);
   --md-mod-primary-fg-color-transparent: hsla(225deg, 27%, 51%, 25%);
@@ -444,7 +444,7 @@ table tr:last-child td:last-child {
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
 }
-:root > * [data-md-color-primary=cyan] {
+:root > * [data-md-color-scheme=slate][data-md-color-primary=cyan] {
   --md-mod-primary-code-bg-color: rgb(54.081675, 69.7755225, 82.853325);
   --md-mod-primary-fg-color: hsla(191deg, 97%, 77%, 1);
   --md-mod-primary-fg-color-transparent: hsla(191deg, 97%, 77%, 25%);
@@ -453,7 +453,7 @@ table tr:last-child td:last-child {
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
 }
-:root > * [data-md-color-primary=teal] {
+:root > * [data-md-color-scheme=slate][data-md-color-primary=teal] {
   --md-mod-primary-code-bg-color: rgb(54.081675, 69.7755225, 82.853325);
   --md-mod-primary-fg-color: hsla(191deg, 97%, 77%, 1);
   --md-mod-primary-fg-color-transparent: hsla(191deg, 97%, 77%, 25%);
@@ -462,7 +462,7 @@ table tr:last-child td:last-child {
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
 }
-:root > * [data-md-color-primary=green] {
+:root > * [data-md-color-scheme=slate][data-md-color-primary=green] {
   --md-mod-primary-code-bg-color: rgb(45.441, 72.365175, 63.437625);
   --md-mod-primary-fg-color: hsla(135deg, 94%, 65%, 1);
   --md-mod-primary-fg-color-transparent: hsla(135deg, 94%, 65%, 25%);
@@ -471,7 +471,7 @@ table tr:last-child td:last-child {
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
 }
-:root > * [data-md-color-primary=light-green] {
+:root > * [data-md-color-scheme=slate][data-md-color-primary=light-green] {
   --md-mod-primary-code-bg-color: rgb(45.441, 72.365175, 63.437625);
   --md-mod-primary-fg-color: hsla(135deg, 94%, 65%, 1);
   --md-mod-primary-fg-color-transparent: hsla(135deg, 94%, 65%, 25%);
@@ -480,7 +480,7 @@ table tr:last-child td:last-child {
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
 }
-:root > * [data-md-color-primary=lime] {
+:root > * [data-md-color-scheme=slate][data-md-color-primary=lime] {
   --md-mod-primary-code-bg-color: rgb(45.441, 72.365175, 63.437625);
   --md-mod-primary-fg-color: hsla(135deg, 94%, 65%, 1);
   --md-mod-primary-fg-color-transparent: hsla(135deg, 94%, 65%, 25%);
@@ -489,7 +489,7 @@ table tr:last-child td:last-child {
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
 }
-:root > * [data-md-color-primary=yellow] {
+:root > * [data-md-color-scheme=slate][data-md-color-primary=yellow] {
   --md-mod-primary-code-bg-color: rgb(69.27075, 72.434025, 65.49165);
   --md-mod-primary-fg-color: hsla(65deg, 92%, 76%, 1);
   --md-mod-primary-fg-color-transparent: hsla(65deg, 92%, 76%, 25%);
@@ -498,7 +498,7 @@ table tr:last-child td:last-child {
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
 }
-:root > * [data-md-color-primary=amber] {
+:root > * [data-md-color-scheme=slate][data-md-color-primary=amber] {
   --md-mod-primary-code-bg-color: rgb(69.27075, 72.434025, 65.49165);
   --md-mod-primary-fg-color: hsla(65deg, 92%, 76%, 1);
   --md-mod-primary-fg-color-transparent: hsla(65deg, 92%, 76%, 25%);
@@ -507,7 +507,7 @@ table tr:last-child td:last-child {
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
 }
-:root > * [data-md-color-primary=orange] {
+:root > * [data-md-color-scheme=slate][data-md-color-primary=orange] {
   --md-mod-primary-code-bg-color: rgb(71.41275, 62.445675, 60.93225);
   --md-mod-primary-fg-color: hsla(31deg, 100%, 71%, 1);
   --md-mod-primary-fg-color-transparent: hsla(31deg, 100%, 71%, 25%);
@@ -516,7 +516,7 @@ table tr:last-child td:last-child {
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
 }
-:root > * [data-md-color-primary=deep-orange] {
+:root > * [data-md-color-scheme=slate][data-md-color-primary=deep-orange] {
   --md-mod-primary-code-bg-color: rgb(71.41275, 62.445675, 60.93225);
   --md-mod-primary-fg-color: hsla(31deg, 100%, 71%, 1);
   --md-mod-primary-fg-color-transparent: hsla(31deg, 100%, 71%, 25%);
