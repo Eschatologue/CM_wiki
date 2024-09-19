@@ -167,15 +167,15 @@
 
 .md-typeset .admonition.homebrew,
 .md-typeset details.homebrew {
-  border-color: 255, 182, 36;
+  border-color: rgba(255,182,36,1);
 }
 .md-typeset .homebrew > .admonition-title,
 .md-typeset .homebrew > summary {
-  background-color: rgba(255, 182, 36, 0.1);
+  background-color: rgba(255,182,36,0.1);
 }
 .md-typeset .homebrew > .admonition-title::before,
 .md-typeset .homebrew > summary::before {
-  background-color: 255, 182, 36;
+  background-color: rgba(255,182,36,1);
   -webkit-mask-image: var(--md-admonition-icon--homebrew);
   mask-image: var(--md-admonition-icon--homebrew);
 }
@@ -217,50 +217,40 @@
   border-bottom: 0.125em dashed rgba(255, 255, 255, 0.15);
 }
 
-.md-typeset table:not([class]) th,
-.md-typeset table:not([class]) td {
+.md-typeset table:not([class]) th, .md-typeset table:not([class]) td {
   font-size: 0.6rem;
-  padding: 0.3125em 0.75em;
+  padding: 0.375em 0.875em;
   border-bottom: rgba(255, 255, 255, 0.12);
   background-color: rgba(255, 255, 255, 0.025);
   min-width: 0.0625em;
 }
 .md-typeset table:not([class]) tbody tr:hover {
-  background-color: rgba(0, 0, 0, 0);
+  background-color: transparent;
 }
 .md-typeset table:not([class]) th {
-  font-variant: normal;
   font-weight: bold !important;
   text-transform: capitalize !important;
   vertical-align: bottom;
   color: rgba(255, 255, 255, 0.6);
-  padding: 0.4375em 0.75em;
+  padding: 0.525em 0.875em;
 }
-
-/* Table Cell Rounding */
-table th:first-child {
+.md-typeset table:not([class]) th:first-child {
   border-radius: 0.375em 0 0 0 !important;
 }
-
-table th:last-child {
+.md-typeset table:not([class]) th:last-child,
+.md-typeset table:not([class]) tr:last-child td:last-child {
   border-radius: 0 0.375em 0 0 !important;
 }
-
-table tr:last-child td:first-child {
+.md-typeset table:not([class]) tr:last-child td:first-child {
   border-radius: 0 0 0 0.375em !important;
 }
-
-table tr:last-child td:last-child {
-  border-radius: 0 0 0.375em 0 !important;
-}
-
-.md-typeset__table table:not([class]) {
-  display: table;
-  border-color: transparent;
-}
-
 .md-typeset__table {
   width: 100%;
+}
+.md-typeset__table table:not([class]) {
+  margin-top: 0.2rem;
+  display: table;
+  border-color: transparent;
 }
 
 .md-typeset {
@@ -277,8 +267,8 @@ table tr:last-child td:last-child {
 .md-typeset ol,
 .md-typeset ul,
 .md-typeset li {
-  margin-top: 0.2rem;
-  margin-bottom: 0.2rem;
+  margin-top: 0.15rem;
+  margin-bottom: 0.15rem;
 }
 .md-typeset strong {
   font-weight: 600;
