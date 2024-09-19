@@ -6,21 +6,21 @@
 }
 
 .md-typeset {
-    $color1: #FFB624;
+    $color1: hex2hsl(#FFB624);
     .admonition.homebrew,
     details.homebrew {
-        border-color: hsl(hex2hsl($color1));
+        border-color: $color1;
     }
 
     .homebrew {
         > .admonition-title,
         > summary {
-            background-color: hsla(transparetize(hex2hsl($color1), 0.1));
+            background-color: transparetize($color1, 0.1);
         }
 
         > .admonition-title::before,
         > summary::before {
-            background-color: hsl(hex2hsl($color1));
+            background-color: $color1;
             -webkit-mask-image: var(--md-admonition-icon--homebrew);
             mask-image: var(--md-admonition-icon--homebrew);
         }
