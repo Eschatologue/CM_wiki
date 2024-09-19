@@ -1,6 +1,6 @@
 # Fighter Archetype: Battle Master
 
-*As a paragon of tactical superiority, you employ a wide array of combat manoeuvres to dominate every fight.*
+> *As a paragon of tactical superiority, you employ a wide array of combat manoeuvres to dominate every fight.*
 
 Battle Masters are students of the art of battle, learning martial techniques passed down through generations. The most accomplished Battle Masters are well-rounded figures who combine their carefully honed combat skills with academic study in the fields of history, theory, and the arts.
 

@@ -1,6 +1,6 @@
 # Circle of the Stars
 
-*Harness Secrets Hidden in Constellations*
+> *Harness Secrets Hidden in Constellations*
 
 Druids of the Circle of Stars draws power from starlight. These druids have tracked heavenly patterns since time immemorial, discovering secrets hidden amid the constellations. By revealing and understanding these secrets, the Circle of the Stars seeks to harness the powers of the cosmos.
 

@@ -6,6 +6,19 @@ icon: class/sorcerer
 
 # Sorcerer
 
+##### Core Sorcerer Trait
+
+| Trait | Detail |
+|---|---|
+| **Primary Ability** | Charisma |
+| **Hit Point Die** | D6 per Sorcerer level |
+| **Saving Throw Proficiencies** | Constitution and Charisma |
+| **Skill Proficiencies** | Choose 2: Arcana, Deception, Insight, Intimidation, Persuasion, or Religion |
+| **Weapon Proficiencies** | Simple weapons |
+| **Armor Training** | None |
+| **Starting Equipment** | Choose A or B: (A) Spear, 2 Daggers, Arcane Focus (crystal), Dungeoneer’s Pack, and 28 GP; or (B) 50 GP |
+
+
 Sorcerers wield innate magic that is stamped into their being. Some Sorcerers can't name the origin of their power, while others trace it to strange events in their personal or family history. The touch of a dragon, the blessing of a dryad at a baby's birth, or the strike of lightning from a clear sky might spark a Sorcerer's gift. So too might the gift of a deity, exposure to the strange magic of another plane of existence, or a glimpse into the inner workings of reality. Whatever the origin, the result is an indelible mark on the mortal Sorcerer, a churning magic that can even be passed down through generations. 
 
 Sorcerers don't learn magic; the raw, roiling chaos of magic is part of them. The essential art of a Sorcerer is learning to harness and channel that innate magic, allowing the Sorcerer to discover new and staggering ways to unleash their power. As Sorcerers master their innate magic, they grow more attuned to its origin, developing distinct powers that reflect the source of that magic.
@@ -141,3 +154,207 @@ You gain an Epic Boon feat (see chapter 5) or another feat of your choice for wh
 ### Level 20: Arcane Apotheosis
 
 While your Innate Sorcery feature is active, you can use one Metamagic option on each of your turn without spending Sorcery Points on it.
+
+## Sorcerer Spells
+
+This section presents the Sorcerer spell list. The spells are organized by spell level and then alphabetized, and each spell’s school of magic is listed. In the Special column, *C* means the spell requires Concentration, *R* means it’s a Ritual, and *M* means it requires a specific Material component.
+
+##### Cantrips (Level 0 Sorcerer Spells)
+
+| Spell | School | Special |
+|---|---|:-:|
+| *Acid Splash* | Evocation | — |
+| *Blade Ward* | Abjuration | C |
+| *Chill Touch* | Necromancy | — |
+| *Dancing Lights* | Illusion | C |
+| *Elementalism* | Transmutation | — |
+| *Fire Bolt* | Evocation | — |
+| *Friends* | Enchantment | C |
+| *Light* | Evocation | — |
+| *Mage Hand* | Conjuration | — |
+| *Mending* | Transmutation | — |
+| *Message* | Transmutation | — |
+| *Mind Sliver* | Enchantment | — |
+| *Minor Illusion* | Illusion | — |
+| *Poison Spray* | Necromancy | — |
+| *Prestidigitation* | Transmutation | — |
+| *Ray of Frost* | Evocation | — |
+| *Shocking Grasp* | Evocation | — |
+| *Sorcerous Burst* | Evocation | — |
+| *Thunderclap* | Evocation | — |
+| *True Strike* | Divination | — |
+
+##### Level 1 Sorcerer Spells
+
+| Spell | School | Special |
+|---|---|:-:|
+| *Burning Hands* | Evocation | — |
+| *Charm Person* | Enchantment | — |
+| *Chromatic Orb* | Evocation | M |
+| *Color Spray* | Illusion | — |
+| *Comprehend Languages* | Divination | R |
+| *Detect Magic* | Divination | C, R |
+| *Disguise Self* | Illusion | — |
+| *Expeditious Retreat* | Transmutation | C |
+| *False Life* | Necromancy | – |
+| *Feather Fall* | Transmutation | — |
+| *Fog Cloud* | Conjuration | C |
+| *Grease* | Conjuration | — |
+| *Ice Knife* | Conjuration | — |
+| *Jump* | Transmutation | — |
+| *Mage Armor* | Abjuration | — |
+| *Magic Missile* | Evocation | — |
+| *Ray of Sickness* | Necromancy | — |
+| *Shield* | Abjuration | — |
+| *Silent Image* | Illusion | C |
+| *Sleep* | Enchantment | C |
+| *Thunderwave* | Evocation | — |
+| *Witch Bolt* | Evocation | C |
+
+##### Level 2 Sorcerer Spells
+
+| Spell | School | Special |
+|---|---|:-:|
+| *Alter Self* | Transmutation | C |
+| *Arcane Vigor* | Abjuration | — |
+| *Blindness/Deafness* | Transmutation | — |
+| *Blur* | Illusion | C |
+| *Cloud of Daggers* | Conjuration | C |
+| *Crown of Madness* | Enchantment | C |
+| *Darkness* | Evocation | C |
+| *Darkvision* | Transmutation | — |
+| *Detect Thoughts* | Divination | C |
+| *Dragon’s Breath* | Transmutation | C |
+| *Enhance Ability* | Transmutation | C |
+| *Enlarge/Reduce* | Transmutation | C |
+| *Flame Blade* | Evocation | C |
+| *Flaming Sphere* | Evocation | C |
+| *Gust of Wind* | Evocation | C |
+| *Hold Person* | Enchantment | C |
+| *Invisibility* | Illusion | C |
+| *Knock* | Transmutation | — |
+| *Levitate* | Transmutation | C |
+| *Magic Weapon* | Transmutation | — |
+| *Mind Spike* | Divination | C |
+| *Mirror Image* | Illusion | — |
+| *Misty Step* | Conjuration | — |
+| *Phantasmal Force* | Illusion | C |
+| *Scorching Ray* | Evocation | — |
+| *See Invisibility* | Divination | — |
+| *Shatter* | Evocation | — |
+| *Spider Climb* | Transmutation | C |
+| *Suggestion* | Enchantment | C |
+| *Web* | Conjuration | C |
+
+##### Level 3 Sorcerer Spells
+
+| Spell | School | Special |
+|---|---|:-:|
+| *Blink* | Transmutation | — |
+| *Clairvoyance* | Divination | C, M |
+| *Counterspell* | Abjuration | — |
+| *Daylight* | Evocation | — |
+| *Dispel Magic* | Abjuration | — |
+| *Fear* | Illusion | C |
+| *Fireball* | Evocation | — |
+| *Fly* | Transmutation | C |
+| *Gaseous Form* | Transmutation | C |
+| *Haste* | Transmutation | C |
+| *Hypnotic Pattern* | Illusion | C |
+| *Lightning Bolt* | Evocation | — |
+| *Major Image* | Illusion | C |
+| *Protection from Energy* | Abjuration | C |
+| *Sleet Storm* | Conjuration | C |
+| *Slow* | Transmutation | C |
+| *Stinking Cloud* | Conjuration | C |
+| *Tongues* | Divination | — |
+| *Vampiric Touch* | Necromancy | C |
+| *Water Breathing* | Transmutation | R |
+| *Water Walk* | Transmutation | R |
+
+##### Level 4 Sorcerer Spells
+
+| Spell | School | Special |
+|---|---|:-:|
+| *Banishment* | Abjuration | C |
+| *Blight* | Necromancy | — |
+| *Charm Monster* | Enchantment | — |
+| *Confusion* | Enchantment | C |
+| *Dimension Door* | Conjuration | — |
+| *Dominate Beast* | Enchantment | C |
+| *Fire Shield* | Evocation | — |
+| *Greater Invisibility* | Illusion | C |
+| *Ice Storm* | Evocation | — |
+| *Polymorph* | Transmutation | C |
+| *Stoneskin* | Transmutation | C, M |
+| *Vitriolic Sphere* | Evocation | — |
+| *Wall of Fire* | Evocation | C |
+
+##### Level 5 Sorcerer Spells
+
+| Spell | School | Special |
+|---|---|:-:|
+| *Animate Objects* | Transmutation | C |
+| *Bigby’s Hand* | Evocation | C |
+| *Cloudkill* | Conjuration | C |
+| *Cone of Cold* | Evocation | — |
+| *Creation* | Illusion | — |
+| *Dominate Person* | Enchantment | C |
+| *Hold Monster* | Enchantment | C |
+| *Insect Plague* | Conjuration | C |
+| *Seeming* | Illusion | — |
+| *Synaptic Static* | Enchantment | — |
+| *Telekinesis* | Transmutation | C |
+| *Teleportation Circle* | Conjuration | M |
+| *Wall of Stone* | Evocation | C |
+
+##### Level 6 Sorcerer Spells
+
+| Spell | School | Special |
+|---|---|:-:|
+| *Arcane Gate* | Conjuration | C |
+| *Chain Lightning* | Evocation | — |
+| *Circle of Death* | Necromancy | M |
+| *Disintegrate* | Transmutation | — |
+| *Eyebite* | Necromancy | C |
+| *Flesh to Stone* | Transmutation | C |
+| *Globe of Invulnerability* | Abjuration | C |
+| *Mass Suggestion* | Enchantment | — |
+| *Move Earth* | Transmutation | C |
+| *Otiluke’s Freezing Sphere* | Evocation | — |
+| *Sunbeam* | Evocation | C |
+| *True Seeing* | Divination | M |
+
+##### Level 7 Sorcerer Spells
+
+| Spell | School | Special |
+|---|---|:-:|
+| *Delayed Blast Fireball* | Evocation | C |
+| *Etherealness* | Conjuration | — |
+| *Finger of Death* | Necromancy | — |
+| *Fire Storm* | Evocation | — |
+| *Plane Shift* | Conjuration | M |
+| *Prismatic Spray* | Evocation | — |
+| *Reverse Gravity* | Transmutation | C |
+| *Teleport* | Conjuration | — |
+
+##### Level 8 Sorcerer Spells
+
+| Spell | School | Special |
+|---|---|:-:|
+| *Demiplane* | Conjuration | — |
+| *Dominate Monster* | Enchantment | C |
+| *Earthquake* | Transmutation | C |
+| *Incendiary Cloud* | Conjuration | C |
+| *Power Word Stun* | Enchantment | — |
+| *Sunburst* | Evocation | — |
+
+##### Level 9 Sorcerer Spells
+
+| Spell | School | Special |
+|---|---|:-:|
+| *Gate* | Conjuration | C, M |
+| *Meteor Swarm* | Evocation | — |
+| *Power Word Kill* | Enchantment | — |
+| *Time Stop* | Transmutation | — |
+| *Wish* | Conjuration | — |

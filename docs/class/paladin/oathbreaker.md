@@ -1,8 +1,6 @@
 # Oathbreaker
 
-> *Written by Shades the Mothman*
-
-*Forsake your Sacred Vow and Embrace Evil*
+> *Forsake your Sacred Vow and Embrace Evil - Written by Shades the Mothman*
 
 An oathbreaker is a paladin who breaks their sacred oaths to pursue some dark ambition or serve an evil power. Whatever light burned in the paladin's heart has been extinguished.
 
