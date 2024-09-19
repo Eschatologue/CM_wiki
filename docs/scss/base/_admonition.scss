@@ -9,18 +9,18 @@
     $color1: #FFB624;
     .admonition.homebrew,
     details.homebrew {
-        border-color: hex2hsl($color1);
+        border-color: hsl(hex2hsl($color1));
     }
 
     .homebrew {
         > .admonition-title,
         > summary {
-            background-color: transparetize(hex2hsl($color1), 0.1);
+            background-color: hsla(transparetize(hex2hsl($color1), 0.1));
         }
 
         > .admonition-title::before,
         > summary::before {
-            background-color: hex2hsl($color1);
+            background-color: hsl(hex2hsl($color1));
             -webkit-mask-image: var(--md-admonition-icon--homebrew);
             mask-image: var(--md-admonition-icon--homebrew);
         }

@@ -33,21 +33,6 @@
   @return round(hue($color)), round(saturation($color)), round(lightness($color));
 }
 
-///
-/// Convert color in HEX to RGB
-///
-@function hex2rgb($hexcolor, $opacity: 1) {
-  $red: red($hexcolor);
-  $green: green($hexcolor);
-  $blue: blue($hexcolor);
-  $alpha: alpha($hexcolor);
-  @if $opacity == 1 or $opacity == 100% {
-    @return unquote("rgba(#{$red},#{$green},#{$blue},#{$alpha})");
-  } @else {
-    @return unquote("rgba(#{$red},#{$green},#{$blue},#{$opacity})");
-  }
-}
-
 // ----------------------------------------------------------------------------
 
 ///
