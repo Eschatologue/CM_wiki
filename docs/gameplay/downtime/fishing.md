@@ -26,9 +26,9 @@ Antares' natural rivers and waters, now severely tainted by the Warp, saw most o
 
 This newly designed fishing mechanic is completely different from what you might remember in the previous version. Forget the old rules and refer to this version from now on.
 
-&emsp; **Time.** Fishing takes time. From preparing your gear, attaching the bait and tackles, luring the rod, and of course, waiting. Each fishing attempt will take at least **1 hour**.
+**Time.** Fishing takes time. From preparing your gear, attaching the bait and tackles, luring the rod, and of course, waiting. Each fishing attempt will take at least **1 hour**.
 
-&emsp; **Equipment.** To fish you need two things; A Fishing Rod and a Fishing supplies. A Fishing Rod is required to reel in your fish while Fishing supplies contains various items to such as bait, hook, lines etc to help said fishing.
+**Equipment.** To fish you need two things; A Fishing Rod and a Fishing supplies. A Fishing Rod is required to reel in your fish while Fishing supplies contains various items to such as bait, hook, lines etc to help said fishing.
 
 ## Resolution
 

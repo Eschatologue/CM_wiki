@@ -30,26 +30,21 @@
 /// Convert color in HEX to HSL
 ///
 @function hex2hsl($color) {
-  @return
-    round(hue($color)),
-    round(saturation($color)),
-    round(lightness($color));
+  @return round(hue($color)), round(saturation($color)), round(lightness($color));
 }
 
 ///
 /// Convert color in HEX to RGB
 ///
-@function hex2rgb($color) {
-  @return red($color), green($color), blue($color);
+@function hex2rgb($hexcolor, $opacity: 1) {
+  $red: red($hexcolor);
+  $green: green($hexcolor);
+  $blue: blue($hexcolor);
+  $alpha: alpha($hexcolor);
+  @if $opacity == 1 or $opacity == 100% {
+    @return unquote("rgba(#{$red},#{$green},#{$blue},#{$alpha})");
+  }
 }
-
-///
-/// Convert color in HEX to RGBA
-///
-@function hex2rgba($color, $alpha: 1) {
-  @return rgba(red($color), green($color), blue($color), $alpha);
-}
-
 
 // ----------------------------------------------------------------------------
 
@@ -74,7 +69,7 @@
 @function px2rem($size, $base: 20px) {
   @if unit($size) == px {
     @if unit($base) == px {
-      @return math.div($size, $base) * 1.0rem;
+      @return math.div($size, $base) * 1rem;
     } @else {
       @error "Invalid base: #{$base} - unit must be 'px'";
     }

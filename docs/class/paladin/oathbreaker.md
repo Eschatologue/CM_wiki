@@ -27,9 +27,9 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 Your blasphemous will can corrupt and conquer the souls of others. As a Bonus Action, you can expend a use of your Channel Divinity to force a creature you can see within 30 feet of you to make a Wisdom saving throw. On a failed save, the target has the Charmed condition for 1 minute. For the duration, you can take a Bonus Action to issue one of the following commands to an affected creature.
 
-&emsp; ***Enforce.*** You can issue a one word command to the creature as if by the *Command* spell.
+***Enforce.*** You can issue a one word command to the creature as if by the *Command* spell.
 
-&emsp; ***Madness.*** You can command the creature to use its action to attack a creature other than itself of your choice.
+***Madness.*** You can command the creature to use its action to attack a creature other than itself of your choice.
 
 The creature can repeat the saving throw at the end of each of its turns, ending the Charmed condition on itself on a success.
 

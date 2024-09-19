@@ -2,12 +2,6 @@
 icon: class/ranger
 ---
 
-!!! danger "Experimental Material"
-
-    This class is an experimental material from UA that may subject to change on the upcoming 2024 Player's Handbook.  
-
-    Unless stated otherwise, this material is not used for the current campaign.
-
 :class-ranger:{ .xxxxl }
 
 # Ranger
@@ -74,19 +68,19 @@ As a Ranger, you gain the following class features when you reach the specified 
 
 You have learned to channel the magical essence of nature to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Ranger spells, which appear in the Ranger spell list later in the class’s description.
 
-&emsp; ***Spell Slots***. The Ranger Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
+***Spell Slots***. The Ranger Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-&emsp; ***Prepared Spells of Level 1+.*** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Ranger spells. Cure Wounds and Ensnaring Strike are recommended.
+***Prepared Spells of Level 1+.*** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Ranger spells. Cure Wounds and Ensnaring Strike are recommended.
 
 The number of spells on your list increases as you gain Ranger levels, as shown in the Prepared Spells column of the Ranger Features table. Whenever that number increases, choose additional Ranger spells until the number of spells on your list matches the number in the Ranger Features table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 5 Ranger, your list of prepared spells can include six Ranger spells of level 1 or 2 in any combination.
 
 If another Ranger feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Ranger spells for you.
 
-&emsp; ***Changing Your Prepared Spells.*** Whenever you finish a Long Rest, you can replace one spell on your list with another Ranger spell for which you have spell slots.
+***Changing Your Prepared Spells.*** Whenever you finish a Long Rest, you can replace one spell on your list with another Ranger spell for which you have spell slots.
 
-&emsp; ***Spellcasting Ability.*** Wisdom is your spellcasting ability for your Ranger spells.
+***Spellcasting Ability.*** Wisdom is your spellcasting ability for your Ranger spells.
 
-&emsp; ***Spellcasting Focus.*** You can use a Druidic Focus as a Spellcasting Focus for your Ranger spells.
+***Spellcasting Focus.*** You can use a Druidic Focus as a Spellcasting Focus for your Ranger spells.
 
 ### Level 1: Favored Enemy
 
@@ -104,15 +98,15 @@ Whenever you finish a Long Rest, you can change the kinds of weapons you chose. 
 
 Thanks to your travels, you gain the following benefits.
 
-&emsp; ***Expertise.*** Choose one of your skill proficiencies with which you lack Expertise. You gain Expertise in that skill.
+***Expertise.*** Choose one of your skill proficiencies with which you lack Expertise. You gain Expertise in that skill.
 
-&emsp; ***Languages.*** You know two languages of your choice from the language tables in chapter 2.
+***Languages.*** You know two languages of your choice from the language tables in chapter 2.
 
 ### Level 2: Fighting Style
 
 You gain a Fighting Style feat of your choice (see chapter 5). Instead of choosing one of those feats, you can choose the option below.
 
-&emsp; ***Druidic Warrior.*** You learn two Druid cantrips of your choice (see the Druid class’s section for a list of Druid spells). Guidance and Starry Wisp are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
+***Druidic Warrior.*** You learn two Druid cantrips of your choice (see the Druid class’s section for a list of Druid spells). Guidance and Starry Wisp are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
 
 ### Level 3: Ranger Subclass
 
@@ -138,9 +132,9 @@ Choose two of your skill proficiencies with which you lack Expertise. You gain E
 
 Primal forces now help fuel you on your journeys, granting you the following benefits.
 
-&emsp; ***Temporary Hit Points.*** As a Magic action, you can give yourself a number of Temporary Hit Points equal to 1d8 plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+***Temporary Hit Points.*** As a Magic action, you can give yourself a number of Temporary Hit Points equal to 1d8 plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
-&emsp; ***Decrease Exhaustion.*** Whenever you finish a Short Rest, your Exhaustion level, if any, decreases by 1.
+***Decrease Exhaustion.*** Whenever you finish a Short Rest, your Exhaustion level, if any, decreases by 1.
 
 ### Level 13: Relentless Hunter
 

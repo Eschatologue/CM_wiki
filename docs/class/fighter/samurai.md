@@ -12,17 +12,17 @@ You gain a set of Calligrapher’s Tools and you have proficiency in it and two 
 
 Your intensive training in battle grants you unparalleled focus.
 
-&emsp; ***Precision.*** Before you make an attack, you can choose to enter a focus state giving yourself Advantage on attacks until the start of your next turn. When you do so, you also gain Temporary Hit Points equal to your Wisdom modifier + half of your Fighter level (minimum of 1). You can use this feature 4 times. You regain 1 expended use when you finish a Short Rest and all expended uses when you finish a Long Rest.
+***Precision.*** Before you make an attack, you can choose to enter a focus state giving yourself Advantage on attacks until the start of your next turn. When you do so, you also gain Temporary Hit Points equal to your Wisdom modifier + half of your Fighter level (minimum of 1). You can use this feature 4 times. You regain 1 expended use when you finish a Short Rest and all expended uses when you finish a Long Rest.
 
-&emsp; ***Stamina.*** As a Bonus Action, you can regain half of your [Second Wind](index.md#level-1-second-wind) uses (rounded up). Once you do so, you can’t do it again until you finish a Long Rest.
+***Stamina.*** As a Bonus Action, you can regain half of your [Second Wind](index.md#level-1-second-wind) uses (rounded up). Once you do so, you can’t do it again until you finish a Long Rest.
 
 ### Level 7: Elegant Courtier
 
 Your discipline and attention to detail allow you to excel in social situations.
 
-&emsp; ***Well Mannered.*** Whenever you make a Persuasion check, you can add your Wisdom modifier to the result.
+***Well Mannered.*** Whenever you make a Persuasion check, you can add your Wisdom modifier to the result.
 
-&emsp; ***Self Control.*** You have proficiency in Wisdom saving throws. If you already have this proficiency, you instead have proficiency in Intelligence or Charisma saving throws (your choice).
+***Self Control.*** You have proficiency in Wisdom saving throws. If you already have this proficiency, you instead have proficiency in Intelligence or Charisma saving throws (your choice).
 
 ### Level 10: Tactical Strike
 

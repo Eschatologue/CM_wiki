@@ -44,9 +44,9 @@ You can use this feature a number of times equal to your Charisma modifier (mini
 
 You can empower yourself with the legends— whether true or exaggerated—of your great deeds. As a Bonus Action, you gain the following benefits for 10 minutes. Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
-&emsp; ***Charismatic***. You are blessed with an otherworldly presence, gaining advantage on all Charisma checks.
+***Charismatic***. You are blessed with an otherworldly presence, gaining advantage on all Charisma checks.
 
-&emsp; ***Saving Throw Reroll.*** If you fail a saving throw, you can use your reaction to reroll it. You must use this new roll.
+***Saving Throw Reroll.*** If you fail a saving throw, you can use your reaction to reroll it. You must use this new roll.
 
-&emsp; ***Uneerring Strike.*** Once on each of your turns when you make a weapon attack and miss, you can cause that attack to hit instead.
+***Uneerring Strike.*** Once on each of your turns when you make a weapon attack and miss, you can cause that attack to hit instead.
 

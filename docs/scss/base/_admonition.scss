@@ -15,7 +15,7 @@
     .homebrew {
         > .admonition-title,
         > summary {
-            background-color: hex2rgba($color1, 0.1);
+            background-color: hex2rgb($color1, 0.1);
         }
 
         > .admonition-title::before,

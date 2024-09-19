@@ -127,7 +127,7 @@ A Creature's Armour Class represents how will the creature avoids wounded in com
 
 All creatures starts with the same base AC calculation:
 
-&emsp; **Base AC** = 10 + the creature's Dexterity modifier.
+**Base AC** = 10 + the creature's Dexterity modifier.
 
 A creature AC can then be modified by armour, magic items, spells, and more.
 

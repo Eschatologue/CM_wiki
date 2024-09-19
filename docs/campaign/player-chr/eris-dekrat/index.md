@@ -62,7 +62,7 @@ You learn three cantrip of your choice from this feature's [spell list], these c
 
 The table above shows how many :rsc-spell-slot: **Spell Slot** you have to cast a Sorcerer spells of 1st through 5th level. The table also shows what the level of those slots is; all of your :rsc-spell-slot: **Spell Slots** are the same level. To cast one of your spells of 1st level or higher, you must expend a :rsc-spell-slot: **Spell Slot**. 
 
-&emsp; **Regaining Spell Slots.** You regain one expended :rsc-spell-slot: **Spell Slot** when you finish a Short Rest and all expended :rsc-spell-slot: **Spell Slot** when you finish a Long Rest.
+**Regaining Spell Slots.** You regain one expended :rsc-spell-slot: **Spell Slot** when you finish a Short Rest and all expended :rsc-spell-slot: **Spell Slot** when you finish a Long Rest.
 
 #### Spellcasting Focus
 

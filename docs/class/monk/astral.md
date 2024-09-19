@@ -8,11 +8,11 @@ A monk who follows the Way of the Astral Self believes their body is an illusion
 
 As a Bonus Action, you can spend 1 Focus Point to manifest your astral self as a set of spectral arms that hover near your shoulders or surround your arms (your choice). The arms last for 10 minutes and vanish early if you have the Incapacitated condition or die. While the arms are active, you gain the following benefits:
 
-&emsp; ***Arms of Spirit.*** The reach of your Unarmed Strikes increases by 5 feet and you can choose to deal Force damage instead of Bludgeoning damage when you make an Unarmed Strike.
+***Arms of Spirit.*** The reach of your Unarmed Strikes increases by 5 feet and you can choose to deal Force damage instead of Bludgeoning damage when you make an Unarmed Strike.
 
-&emsp; ***Astral Strike.*** You can use the spectral arms to make Unarmed Strikes. When you do, you can use your Wisdom modifier instead of your Dexterity or Strength modifier for the attack and damage rolls.
+***Astral Strike.*** You can use the spectral arms to make Unarmed Strikes. When you do, you can use your Wisdom modifier instead of your Dexterity or Strength modifier for the attack and damage rolls.
 
-&emsp; ***Astral Touch.*** You can use your Wisdom modifier in place of your Strength modifier when making Strength checks and saves.
+***Astral Touch.*** You can use your Wisdom modifier in place of your Strength modifier when making Strength checks and saves.
 
 Sidereal Sweep. As part of the Bonus Action you use to summon the astral arms, you swipe your arms around you. Each creature of your choice that you can see within 10 feet of you must succeed on a Dexterity save or take Force damage equal to two rolls of your Martial Arts die and be pushed 10 feet away from you. You can repeat this attack as a Bonus Action on each of your turns by spending 1 Focus Point.
 
@@ -30,16 +30,16 @@ A spectral visage covers your face like a helmet or mask. You determine its appe
 
 When you activate your Arms of the Astral Self feature, you can spend an additional 2 Focus Points to drape yourself in a mantle of cosmic light. You gain the following benefits:
 
-&emsp; ***Antigravitational.*** Your jump distance is tripled and you don’t take fall damage if you fall less than 60 feet.
+***Antigravitational.*** Your jump distance is tripled and you don’t take fall damage if you fall less than 60 feet.
 
-&emsp; ***Extended Self.*** The reach of your Unarmed Strikes increases by an additional 5 feet.
+***Extended Self.*** The reach of your Unarmed Strikes increases by an additional 5 feet.
 
-&emsp; ***Comet Strike.*** Once per turn, when a creature takes damage from your Unarmed Strikes or Sidereal Sweep, you can deal extra damage equal to half of your Monk level.
+***Comet Strike.*** Once per turn, when a creature takes damage from your Unarmed Strikes or Sidereal Sweep, you can deal extra damage equal to half of your Monk level.
 
 ### Level 17: Awakened Astral Self      
 
 When you activate your Mantle of the Astral Self, you can expend an additional 2 Focus Points to fully awaken your astral self. You gain the following benefits:
 
-&emsp; ***Armor of the Spirit.*** You gain a +2 bonus to your Armor Class.
+***Armor of the Spirit.*** You gain a +2 bonus to your Armor Class.
 
-&emsp; ***Astral Barrage.*** Whenever you use the Extra Attack feature to attack twice, you can instead attack three times.     
+***Astral Barrage.*** Whenever you use the Extra Attack feature to attack twice, you can instead attack three times.     

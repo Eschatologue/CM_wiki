@@ -44,7 +44,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). 
 
-&emsp; **Salvaging Ammunitions.** At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. Firearms and weapon with [:weapon-prop-explosive: Explosive](#explosive) property can't benefit from this.
+**Salvaging Ammunitions.** At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. Firearms and weapon with [:weapon-prop-explosive: Explosive](#explosive) property can't benefit from this.
 
 ---
 
@@ -220,7 +220,7 @@ If you hit a creature with this weapon and deal damage to the creature, you have
 
 Adamantine is an ultrahard metal found in meteorites and extraordinary mineral veins. In addition to being used to craft *adamantine armor*, the metal is also used for weapons.
 
-&emsp; **Diamondsbane.** Melee weapons and ammunition made of or coated with adamantine are unusually effective when used to break objects. Whenever an *adamantine weapon* or piece of *adamantine ammunition* hits an object, the hit is a Critical Hit.
+**Diamondsbane.** Melee weapons and ammunition made of or coated with adamantine are unusually effective when used to break objects. Whenever an *adamantine weapon* or piece of *adamantine ammunition* hits an object, the hit is a Critical Hit.
 
 The adamantine version of a melee weapon or of ten pieces of ammunition costs 5,000 SP more than the normal version, whether the weapon or ammunition is made of the metal or coated with it.
 
@@ -228,6 +228,6 @@ The adamantine version of a melee weapon or of ten pieces of ammunition costs 5,
 
 Some monsters that have immunity or resistance to nonmagical weapons are susceptible to silver weapons, so cautious adventurers invest extra coin to plate their weapons with silver. 
 
-&emsp; **Silvered.** Melee weapons and ammunition made of or coated with adamantine deals additional damage die.
+**Silvered.** Melee weapons and ammunition made of or coated with adamantine deals additional damage die.
 
 You can silver a single weapon or ten pieces of ammunition for 1,000 SP. This cost represents not only the price of the silver, but the time and expertise needed to add silver to the weapon without making it less effective.

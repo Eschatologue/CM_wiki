@@ -1,53 +1,48 @@
-$paddings: 12px;
-$paddingScale: 5px;
-.md-typeset table:not([class]) {
-    th,
-    td {
-        font-size: 0.6rem;
-        padding: px2em($paddingScale) px2em($paddings);
-        border-bottom: rgba(255, 255, 255, 0.12);
-        background-color: rgba(255, 255, 255, 0.025);
-        min-width: px2em(1px);
+$paddings: 14px;
+$paddingScale: 6px;
+$roundingVar: px2em(6px);
+
+.md-typeset {
+  & table:not([class]) {
+    th, td {
+      font-size: 0.6rem;
+      padding: px2em($paddingScale) px2em($paddings);
+      border-bottom: rgba(255, 255, 255, 0.12);
+      background-color: rgba(255, 255, 255, 0.025);
+      min-width: px2em(1px);
     }
 
     tbody tr:hover {
-        background-color: rgba(0, 0, 0, 0);
+      background-color: transparent;
     }
 
     th {
-        font-variant: normal;
-        font-weight: bold !important;
-        text-transform: capitalize !important;
-        vertical-align: bottom;
-        color: rgba(255, 255, 255, 0.6);
-        padding: px2em(($paddingScale * 1.4)) px2em($paddings);
+      font-weight: bold !important;
+      text-transform: capitalize !important;
+      vertical-align: bottom;
+      color: rgba(255, 255, 255, 0.6);
+      padding: px2em($paddingScale * 1.4) px2em($paddings);
     }
-}
 
-$roundingVar: px2em(6px);
+    // Table cell rounding
+    th:first-child {
+      border-radius: $roundingVar 0 0 0 !important;
+    }
+    th:last-child,
+    tr:last-child td:last-child {
+      border-radius: 0 $roundingVar 0 0 !important;
+    }
+    tr:last-child td:first-child {
+      border-radius: 0 0 0 $roundingVar !important;
+    }
+  }
 
-/* Table Cell Rounding */
-table th:first-child {
-    border-radius: $roundingVar 0 0 0 !important;
-}
-
-table th:last-child {
-    border-radius: 0 $roundingVar 0 0 !important;
-}
-
-table tr:last-child td:first-child {
-    border-radius: 0 0 0 $roundingVar !important;
-}
-
-table tr:last-child td:last-child {
-    border-radius: 0 0 $roundingVar 0 !important;
-}
-
-.md-typeset__table table:not([class]) {
-    display: table;
-    border-color: transparent;
-}
-
-.md-typeset__table {
+  &__table {
     width: 100%;
+    table:not([class]) {
+      margin-top: px2rem(4px);
+      display: table;
+      border-color: transparent;
+    }
+  }
 }

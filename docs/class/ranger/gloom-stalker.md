@@ -8,11 +8,11 @@ Gloom Stalkers are at home in the darkest places, wielding magic drawn from the 
 
 You have mastered the art of creating frightening ambushes, granting you the following benefits:
 
-&emsp; ***Ambusher's Leap.*** At the start of the first turn of each combat, your Speed increases by 30 feet until the end of that turn.
+***Ambusher's Leap.*** At the start of the first turn of each combat, your Speed increases by 30 feet until the end of that turn.
 
-&emsp; ***Frighten.*** When you attack a creature and hit it with a weapon, you can deal an extra 2d6 Psychic damage. You can use this benefit only once per turn, you can use it a number of times equal a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+***Frighten.*** When you attack a creature and hit it with a weapon, you can deal an extra 2d6 Psychic damage. You can use this benefit only once per turn, you can use it a number of times equal a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
-&emsp; ***Initiative Bonus.*** When you roll Initiative, you can add your Wisdom modifier to the roll.
+***Initiative Bonus.*** When you roll Initiative, you can add your Wisdom modifier to the roll.
 
 ### Level 3: Gloom Stalker Magic
 
@@ -40,9 +40,9 @@ You have honed your ability to resist the mind- altering powers of your prey. Yo
 
 The Psychic damage of your Dreadful Strike becomes 2d8. In addition, when you use the Dreadful Strike effect of your Dread Ambusher feature, you can cause one of the following additional effects:
 
-&emsp; ***Sudden Strike***. You can make another attack with the same weapon against a different creature that is within 5 feet of the original target and that is within the weapon's range.
+***Sudden Strike***. You can make another attack with the same weapon against a different creature that is within 5 feet of the original target and that is within the weapon's range.
 
-&emsp; ***Mass Fear.*** The targets and each creature within 10 feet of it must make a Wisdom saving throw against your must make a Wisdom saving throw against your Spell Save DC. On a failed save, a creature has the Frightened condition until the start of your next turn.
+***Mass Fear.*** The targets and each creature within 10 feet of it must make a Wisdom saving throw against your must make a Wisdom saving throw against your Spell Save DC. On a failed save, a creature has the Frightened condition until the start of your next turn.
 
 ### Level 17: Shadowy Dodge
 

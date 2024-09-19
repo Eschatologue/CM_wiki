@@ -21,11 +21,11 @@ An Unarmed Strike is a melee attack that involves you using your body to damage,
 
 Whenever you use your Unarmed Strike, choose one of the following options for its effect:
 
-&emsp; **Damage.** You make an :d20-attack: **Attack Roll** against the target. Your bonus to hit equals your Strength modifier + your Proficiency Bonus. On a hit, the target takes Bludgeoning damage equal to 1 + your Strength modifier.
+**Damage.** You make an :d20-attack: **Attack Roll** against the target. Your bonus to hit equals your Strength modifier + your Proficiency Bonus. On a hit, the target takes Bludgeoning damage equal to 1 + your Strength modifier.
 
-&emsp; **Grapple.** The target must succeed on a Strength or Dexterity :d20-save: **Saving Throw** (it chooses which), or it has the Grappled condition. The DC for the :d20-save: **Saving Throw** and any escape attempts equals `8 + your Strength modifier + your Proficiency Bonus`. This grapple is possible only if the target is no more than one size larger than you and if you have a hand free to grab it.
+**Grapple.** The target must succeed on a Strength or Dexterity :d20-save: **Saving Throw** (it chooses which), or it has the Grappled condition. The DC for the :d20-save: **Saving Throw** and any escape attempts equals `8 + your Strength modifier + your Proficiency Bonus`. This grapple is possible only if the target is no more than one size larger than you and if you have a hand free to grab it.
 
-&emsp; **Shove.** The target must succeed on a Strength or Dexterity :d20-save: **Saving Throw** (it chooses which), or you either push the target 5 feet away or cause it to have the Prone condition. The DC for the :d20-save: **Saving Throw** equals ^^8 + your Strength modifier + your Proficiency Bonus^^. This shove is possible only if the target is no more than one size larger than you
+**Shove.** The target must succeed on a Strength or Dexterity :d20-save: **Saving Throw** (it chooses which), or you either push the target 5 feet away or cause it to have the Prone condition. The DC for the :d20-save: **Saving Throw** equals ^^8 + your Strength modifier + your Proficiency Bonus^^. This shove is possible only if the target is no more than one size larger than you
 
 ### Cast a Spell
 
@@ -70,9 +70,9 @@ If a spell must be maintained with concentration, that fact appears in its Durat
 When you take the Help action, you do one of the 
 following:
 
-&emsp; **Assist Ability Check.** Choose one of your skill or tool proficiencies and one ally who can perceive you. You give Advantage to the next ability check that ally makes with the chosen skill or tool. This benefit expires if the ally doesn't use it before the start of your next turn. To give this assistance, you must be near enough to the ally to assist verbally or physically when the ally makes the check. The DM has final say on whether your assistance is possible.
+**Assist Ability Check.** Choose one of your skill or tool proficiencies and one ally who can perceive you. You give Advantage to the next ability check that ally makes with the chosen skill or tool. This benefit expires if the ally doesn't use it before the start of your next turn. To give this assistance, you must be near enough to the ally to assist verbally or physically when the ally makes the check. The DM has final say on whether your assistance is possible.
 
-&emsp; **Assist :d20-attack: **Attack Roll**.** You momentarily distract an enemy within 5 feet of you, giving Advantage to the next :d20-attack: **Attack Roll** by one of your allies against that enemy. This benefit expires at the start of your next turn.
+**Assist :d20-attack: **Attack Roll**.** You momentarily distract an enemy within 5 feet of you, giving Advantage to the next :d20-attack: **Attack Roll** by one of your allies against that enemy. This benefit expires at the start of your next turn.
 
 ### Hide 
 
@@ -120,9 +120,9 @@ Opportunity Attack is also often referred to as 'Attack of Opportunity', they ar
 
 Sometimes you want to get the jump on a foe or wait for a particular circumstance before you act. To do so, you can take the Ready action on your turn, which lets you act using your reaction before the start of your next turn.
 
-&emsp; **Determining Trigger.** First, you decide what perceivable circumstance will trigger your reaction. Then, you choose the action you will take in response to that trigger, or you choose to move up to your speed in response to it. Examples include "If the cultist steps on the trapdoor, I'll pull the lever that opens it," and "If the goblin steps next to me, I move away."
+**Determining Trigger.** First, you decide what perceivable circumstance will trigger your reaction. Then, you choose the action you will take in response to that trigger, or you choose to move up to your speed in response to it. Examples include "If the cultist steps on the trapdoor, I'll pull the lever that opens it," and "If the goblin steps next to me, I move away."
 
-&emsp; **Condition Triggered.** When the trigger occurs, you can either take your reaction right after the trigger finishes or ignore the trigger. Remember that you can take only one reaction per round.
+**Condition Triggered.** When the trigger occurs, you can either take your reaction right after the trigger finishes or ignore the trigger. Remember that you can take only one reaction per round.
 
 #### Readying a Spell 
 

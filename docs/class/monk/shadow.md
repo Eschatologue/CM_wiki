@@ -8,11 +8,11 @@ Warriors of Shadow practice stealth and subterfuge, channeling their reservoirs 
 
 Through rigorous training, you have learned to draw on the power of the Shadowfell, gaining the following benefits:
 
-&emsp; ***Darkness.*** You can spend 1 Focus Point to cast the *Darkness* spell without any spell components. You can see within the spell's area when you cast it with this feature. While the spell persists, you can move its area of darkness to a space within 60 feet of you at the start of each of your turns.
+***Darkness.*** You can spend 1 Focus Point to cast the *Darkness* spell without any spell components. You can see within the spell's area when you cast it with this feature. While the spell persists, you can move its area of darkness to a space within 60 feet of you at the start of each of your turns.
 
-&emsp; ***Darkvision.*** You gain Darkvision with a range of 60 feet. If you already have Darkvision, its range increases by 60 feet.
+***Darkvision.*** You gain Darkvision with a range of 60 feet. If you already have Darkvision, its range increases by 60 feet.
 
-&emsp; ***Shadowy Figments.*** You know the *Minor Illusion* cantrip and use Wisdom as the spellcasting ability for it.
+***Shadowy Figments.*** You know the *Minor Illusion* cantrip and use Wisdom as the spellcasting ability for it.
 
 ### Level 6: Shadow Step
 
@@ -26,8 +26,8 @@ You can draw on your connection to shadow to empower your teleportation. When yo
 
 As a Magic action while entirely within Dim Light or Darkness, you can spend 3 Focus Points to shroud yourself with magical darkness for 1 minute, until you have the Incapacitated condition, or until you end your turn in Bright Light. While shrouded in darkness, you gain the following benefits:
 
-&emsp; ***Invisibility.*** You have the Invisible condition.
+***Invisibility.*** You have the Invisible condition.
 
-&emsp; ***Partially Incorporeal.*** You can move through creatures and objects as if they were difficult terrain, but you take 1d10 Force damage if you end your turn inside a creature or an object.
+***Partially Incorporeal.*** You can move through creatures and objects as if they were difficult terrain, but you take 1d10 Force damage if you end your turn inside a creature or an object.
 
-&emsp; ***Shadow Flurry.*** You can use your Flurry of Blows without spending any Focus Points
+***Shadow Flurry.*** You can use your Flurry of Blows without spending any Focus Points

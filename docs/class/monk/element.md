@@ -14,7 +14,7 @@ You have attuned yourself with the elemental forces of the multiverse. You know 
 
 At the start of your turn, you can spend 1 Focus Point to imbue yourself with elemental energy. The energy lasts for 10 minutes or until you have the Incapacitated condition. You gain the following benefits for the duration:
 
-&emsp; ***Reach.*** When you make an Unarmed Strike, your reach is 10 feet greater than normal, as elemental energy extends from you.
+***Reach.*** When you make an Unarmed Strike, your reach is 10 feet greater than normal, as elemental energy extends from you.
  
 &emsp;***Elemental Strikes.*** Whenever you hit with your Unarmed Strike, you can cause it to deal your choice of :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-lightning: Lightning or :dmg-thunder: Thunder damage rather than its normal damage type. When you deal one of these types with your Unarmed Strike, you can also force the target to make a Strength saving throw. On a failed save, you can move the target up to 10 feet toward or away from you, as elemental energy swirls around it.
 
@@ -32,9 +32,9 @@ When you use your Step of the Wind, you gain a Fly Speed and Swim Speed equal to
 
 When your Elemental Attunement is active, you also gain the following benefits for the duration:
 
-&emsp; ***Damage Resistance.*** You gain resistance to one of the following damage types of your choice: Acid, Cold, Fire, or Lightning. At the start of each of your turns, you can change this choice.
+***Damage Resistance.*** You gain resistance to one of the following damage types of your choice: Acid, Cold, Fire, or Lightning. At the start of each of your turns, you can change this choice.
 
-&emsp; ***Destructive Stride.*** When you use your Step of the Wind, your Speed increases by 20 feet until the end of the turn. For that duration, any creature of your choice takes damage equal to one roll of your Martial Arts die when you enter a space within 5 feet of it. The damage type is your choice of :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-lightning: Lightning or :dmg-thunder: Thunder. A creature can take this damage only once per turn.
+***Destructive Stride.*** When you use your Step of the Wind, your Speed increases by 20 feet until the end of the turn. For that duration, any creature of your choice takes damage equal to one roll of your Martial Arts die when you enter a space within 5 feet of it. The damage type is your choice of :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-lightning: Lightning or :dmg-thunder: Thunder. A creature can take this damage only once per turn.
 
-&emsp; ***Empowered Strikes.*** Once on each of your turns, you can deal extra damage to a target equal to one roll of your Martial Arts die when you hit it with an Unarmed Strike. The extra damage is the same type dealt by that strike.
+***Empowered Strikes.*** Once on each of your turns, you can deal extra damage to a target equal to one roll of your Martial Arts die when you hit it with an Unarmed Strike. The extra damage is the same type dealt by that strike.
  

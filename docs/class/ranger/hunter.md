@@ -12,17 +12,17 @@ You can call on the forces of nature to reveal certain strengths and weaknesses 
 
 You gain one of the following feature options of your choice. Whenever you finish a Short or Long Rest, you can replace the chosen option with the other one.
 
-&emsp; ***Colossus Slayer.*** Your tenacity can wear down even the most resilient foes. When you hit a creature with a weapon, the weapon deals an extra 1d8 damage to the target if it’s missing any of its Hit Points. You can deal this extra damage only once per turn.
+***Colossus Slayer.*** Your tenacity can wear down even the most resilient foes. When you hit a creature with a weapon, the weapon deals an extra 1d8 damage to the target if it’s missing any of its Hit Points. You can deal this extra damage only once per turn.
 
-&emsp; ***Horde Breaker.*** Once on each of your turns when you make an attack with a weapon, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target, that is within the weapon’s range, and that you haven’t attacked this turn.
+***Horde Breaker.*** Once on each of your turns when you make an attack with a weapon, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target, that is within the weapon’s range, and that you haven’t attacked this turn.
 
 ### Level 7: Defensive Tactics
 
 You gain one of the following feature options of your choice. Whenever you finish a Short or Long Rest, you can replace the chosen option with the other one.
 
-&emsp; ***Escape the Horde.*** Opportunity Attacks have Disadvantage against you.
+***Escape the Horde.*** Opportunity Attacks have Disadvantage against you.
 
-&emsp; ***Multiattack Defense.*** When a creature hits you with an attack roll, that creature has Disadvantage on all other attack rolls against you this turn.
+***Multiattack Defense.*** When a creature hits you with an attack roll, that creature has Disadvantage on all other attack rolls against you this turn.
 
 ### Level 11: Superior Hunter’s Prey
 
