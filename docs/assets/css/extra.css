@@ -167,7 +167,7 @@
 
 .md-typeset .admonition.homebrew,
 .md-typeset details.homebrew {
-  border-color: rgb(255, 182, 36);
+  border-color: 255, 182, 36;
 }
 .md-typeset .homebrew > .admonition-title,
 .md-typeset .homebrew > summary {
@@ -175,7 +175,7 @@
 }
 .md-typeset .homebrew > .admonition-title::before,
 .md-typeset .homebrew > summary::before {
-  background-color: rgb(255, 182, 36);
+  background-color: 255, 182, 36;
   -webkit-mask-image: var(--md-admonition-icon--homebrew);
   mask-image: var(--md-admonition-icon--homebrew);
 }
