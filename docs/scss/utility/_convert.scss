@@ -36,6 +36,21 @@
     round(lightness($color));
 }
 
+///
+/// Convert color in HEX to RGB
+///
+@function hex2rgb($color) {
+  @return red($color), green($color), blue($color);
+}
+
+///
+/// Convert color in HEX to RGBA
+///
+@function hex2rgba($color, $alpha: 1) {
+  @return rgba(red($color), green($color), blue($color), $alpha);
+}
+
+
 // ----------------------------------------------------------------------------
 
 ///

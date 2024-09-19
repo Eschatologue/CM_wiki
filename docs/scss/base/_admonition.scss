@@ -6,20 +6,21 @@
 }
 
 .md-typeset {
+    $color1: #FFB624;
     .admonition.homebrew,
     details.homebrew {
-        border-color: rgb(255, 182, 36);
+        border-color: hex2rgb($color1);
     }
 
     .homebrew {
         > .admonition-title,
         > summary {
-            background-color: rgba(255, 182, 36, 0.1);
+            background-color: hex2rgba($color1, 0.1);
         }
 
         > .admonition-title::before,
         > summary::before {
-            background-color: rgb(255, 182, 36);
+            background-color: hex2rgb($color1);
             -webkit-mask-image: var(--md-admonition-icon--homebrew);
             mask-image: var(--md-admonition-icon--homebrew);
         }
