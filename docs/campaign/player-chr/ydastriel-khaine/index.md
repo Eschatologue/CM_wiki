@@ -10,13 +10,13 @@
 
 Your connection with the cosmic energies grants you access to some spells when you reach a certain level in this class, as shown on your class Spells table.
 
-Once you gain access to one of these spells, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the Druid spell list, the spell is nonetheless a Druid spell for you.
+When you reach a Druid level specified in the Cosmic Weave Spells table, you thereafter always have the listed spells prepared. These spells count as Druid spells for you.
 
 ##### Cosmic Weave Spells
 
 | druid level | spells |
 | :-: | :-: |
-| 2nd | Gift of Alacrity, Maginify Gravity  |
+| 2nd | Gift of Alacrity, Maginify Gravity |
 | 3rd | Immovable Object, Vortex Warp |
 | 5th | Nondetection, Tongues |
 | 7th | Gravity Sinkhole, Greater Invisibility |
@@ -24,7 +24,7 @@ Once you gain access to one of these spells, you always have it prepared, and it
 
 ### Level 2: Bonus Cantrip
 
-You gain to unleash the power which Spires draws from. You learn the **Starry Wisp** cantrip, it counts as Druid cantrip for you and it doesn't count against the number of Druid cantrips you know.
+You gain to unleash the power which Spires draws from. You learn the *Cosmic Flare* cantrip, it counts as Druid cantrip for you and it doesn't count against the number of Druid cantrips you know.
 
 While holding your Star Map, you can add your Wisdom modifier to this cantrip's damage roll.
 

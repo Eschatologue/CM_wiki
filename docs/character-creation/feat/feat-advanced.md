@@ -48,6 +48,7 @@ Any time you would be forced to make a Concentration due to taking damage, the D
 Through intense focus, training, and dedication, you've harnessed the techniques of rapid spellcasting.
 
 On a turn, when you expend a spell slot to cast a spell, you can still expend a level 3 spell slot or lower to cast another spell.
+
 ---
 
 ### Theurgy

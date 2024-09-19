@@ -196,6 +196,7 @@ nav:
         - Zealot: class/barbarian/zealot.md
       - Fighter:
         - class/fighter/index.md
+        - Arcane Archer: class/fighter/arcane-archer.md
         - Battlemaster: class/fighter/battlemaster.md
         - Champion: class/fighter/champion.md
         - Eldritch Knight: class/fighter/eldritch-knight.md
@@ -234,9 +235,10 @@ nav:
         - Spells (U): spells/description/u.md
         - Spells (V): spells/description/v.md
         - Spells (W): spells/description/w.md
-        - Spells (Y): spells/description/Y.md
+        - Spells (Y): spells/description/y.md
         - Spells (Z): spells/description/z.md
       - Crown & Misery: 
+        - Spells (C): spells/description/hb/c.md
         - Spells (E): spells/description/hb/e.md
         - Spells (S): spells/description/hb/s.md       
   - Current Campaign:
