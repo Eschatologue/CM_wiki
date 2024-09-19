@@ -160,8 +160,11 @@ nav:
       - Wizard:
         - class/wizard/index.md
         - Abjurer: class/wizard/abjurer.md
+        - Bladesinger: class/wizard/bladesinger.md
+        - Chronurgist: class/wizard/chronurgist.md
         - Diviner: class/wizard/diviner.md
         - Evoker: class/wizard/evoker.md
+        - Graviturgist: class/wizard/graviturgist.md
         - Illusionist: class/wizard/illusionist.md
     - Priest Group:
       - Cleric:
@@ -182,6 +185,7 @@ nav:
         - Glory: class/paladin/glory.md
         - The Ancient: class/paladin/ancient.md
         - Vengeance: class/paladin/vengeance.md
+        - Watcher: class/paladin/watcher.md
         - Oathbreaker: class/paladin/oathbreaker.md
     - Warrior Group:
       - Barbarian:  

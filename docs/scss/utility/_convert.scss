@@ -33,6 +33,13 @@
   @return round(hue($color)), round(saturation($color)), round(lightness($color));
 }
 
+@function hex3hsl($color) {
+  $hue: round(hue($color));
+  $saturation: round(saturation($color));
+  $lightness: round(lightness($color));
+  @return hsl($hue, $saturation, $lightness);
+}
+
 // ----------------------------------------------------------------------------
 
 ///

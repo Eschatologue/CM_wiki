@@ -10,7 +10,7 @@ You can cast the *Beast Sense* and *Speak with Animals* spells, but only as Ritu
 
 Your Rage taps into the primal power of animals. You gain one of the following options of your choice.
 
-***Bear.*** While your Rage is active, you have Resistance to every damage type except :dmg-force: Force, :dmg-necrotic: Necrotic, :dmg-psychic: Psychic and :dmg-radiang: Radiant.
+***Bear.*** While your Rage is active, you have Resistance to every damage type except :dmg-force: Force, :dmg-necrotic: Necrotic, :dmg-psychic: Psychic and :dmg-radiant: Radiant.
 
 ***Eagle.*** When you activate your Rage, you can take the Disengage and Dash actions as part of that Bonus Action, While your Rage is active, you can take a Bonus Action to take both of those actions.
 
