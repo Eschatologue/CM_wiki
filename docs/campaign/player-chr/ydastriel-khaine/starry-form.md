@@ -1,34 +1,5 @@
 # Khaine's Starry Form
 
-## 2014 PHB Starry Forms
-
----
-
-### Archer
-
-*A constellation of an archer appears on you.*
-
-**Arrow of Arbiters**  
-Your Star Map transform into a Ranged weapon of your choice. You are proficient with the weapon. You can you use weapon to cast **Starry Wisp**, when you do, the spell ignores Half Cover and Three-quarters cover.
-
----
-
-### Chalice
-
-*A constellation of a life-giving goblet appears on you.* 
-
-**Rejuvinating Bolt**  
-When you hit a creature with **Starry Wisp** you can choose to restore Hit Points to that creature instead of damaging it. The restored Hit Points is equal to the spell's damage.
-
----
-
-### Dragon
-
-*A constellation of a wise dragon appears on you.* 
-
-**Repelling**  
-When you hit a creature that is no more that one size larger than you with **Starry Wisp**, you can push the creature up to 5 feet away from you in a straight line.
-
 ## Crown & Misery Starry Form
 
 ---

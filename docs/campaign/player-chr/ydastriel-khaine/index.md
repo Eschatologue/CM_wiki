@@ -8,19 +8,17 @@
 
 ### Level 2: Cosmic Weave
 
-Your connection with the cosmic energies grants you access to some spells when you reach a certain level in this class, as shown on your class Spells table.
-
-When you reach a Druid level specified in the Cosmic Weave Spells table, you thereafter always have the listed spells prepared. These spells count as Druid spells for you.
+When you reach a Druid level specified in the Cosmic Weave Spells table, you thereafter always have the listed spells prepared. These spells count as Druid spells for you, but doesn't count against the amount of spells you can prepare each day.
 
 ##### Cosmic Weave Spells
 
-| druid level | spells |
+| Druid level | spells |
 | :-: | :-: |
-| 2nd | Gift of Alacrity, Maginify Gravity |
-| 3rd | Immovable Object, Vortex Warp |
-| 5th | Nondetection, Tongues |
-| 7th | Gravity Sinkhole, Greater Invisibility |
-| 9th | Temporal Shunt, Circle of Power |
+| 2 | Gift of Alacrity, Maginify Gravity |
+| 3 | Immovable Object, Vortex Warp |
+| 5 | Nondetection, Tongues |
+| 7 | Gravity Sinkhole, Greater Invisibility |
+| 9 | Temporal Shunt, Circle of Power |
 
 ### Level 2: Bonus Cantrip
 
@@ -32,22 +30,15 @@ While holding your Star Map, you can add your Wisdom modifier to this cantrip's 
 
 Your growing understanding of the Spires and their role in Antares has granted you the ability to draw powers from the ascents they represent.
 
-You gain additional Starry Forms from tied to specific Ascent. You can replace your original Starry Form with the following options, but you can't have more than three at one time. You can choose which form to have after you finish a Long Rest.
+When you enter your Starry Form, you can enhance its abilities by choosing one of the following Resonances. Each Resonance boosts a specific aspect of your Starry Form.
 
-### Level 10: Resonance Interplay
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and regain all expended uses after a Long Rest. Alternatively, you can regain all expended uses by expending one use of Wild Shape (no action required).
 
-You gain the ability to combine the power of different Ascent, giving you access to additional spells depending on what combination of Starry Form you have currently as defined in the Resonance Interplay Table.
+#### Destruction Resonance
 
-You always have the spells prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the Druid spell list, the spell is nonetheless a Druid spell for you.
+***Collapsing Star (Archer Form).*** Once per turn, when you hit a target with your Archer Form’s Bonus Action attack, all creatures within 5 feet of the target must make a Dexterity saving throw. On a failed save, they take damage as if they were also hit by your Archer Form's attack.
 
-##### Resonance Interplay
+***Searing Flare (Chalice Form).*** Once per turn, when you restore Hit Points to a creature using the Chalice Form feature, the creature can forgo the additional healing. If it does, the next time it hits with an attack roll before the end of its next turn, it deals extra Radiant damage equal to the Chalice Form’s healing roll.
 
-|  |  |  |  |
-|:---:|:---:|:---:|:---:|
-| --- | **Archer** | **Dragon** | **Chalice** |
-| **Destruction** | Flame Strike | Immolation | Mass Cure Wounds |
-| **Perseverance** | Planar Binding | Wall of Force | Skill Empowerment |
-| **Judgement** | Dawn | Resilient Sphere | Aura of Life |
-| **Enlightenment** | Psychic Lance | Telekinesis | Passwall |
-| **Prosperity** | Conjure Volley | Creation | Compulsion |
-| **Equillibrium** | Banishment | Mislead | Seeming |
+***Void Dragon (Dragon Form).*** While concentrating on a Druid spell, you can add your Wisdom modifier to the damage roll of any Druid spell you cast.
+
