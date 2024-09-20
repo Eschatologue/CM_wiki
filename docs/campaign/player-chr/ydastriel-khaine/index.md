@@ -30,7 +30,7 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 **Resonance of Perseverance (Locked)**  
 
-:   ***Siege Emplacement (Archer Form).*** Allies that start their turn within 10 feet of you gain Temporary Hit Points equal to your Wisdom modifier until the start of your next turn.
+:   ***Siege Emplacement (Archer Form).*** Allies that start its turn within 10 feet of you, gain Temporary Hit Points equal to your Druid level until the start of its next turn. 
 
 :   ***Amber Armour (Archer Form).*** When you restore Hit Points to a creature using the Chalice Form feature, you and all allies within 10 feet of you gain Temporary Hit Points equal to half the Chalice Form's healing roll for 1 minute.
 
