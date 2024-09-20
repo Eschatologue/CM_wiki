@@ -34,11 +34,17 @@ When you enter your Starry Form, you can enhance its abilities by choosing one o
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and regain all expended uses after a Long Rest. Alternatively, you can regain all expended uses by expending one use of Wild Shape (no action required).
 
-#### Destruction Resonance
+**Resonance of Destruction**  
+:   ***Collapsing Star (Archer Form).*** Once per turn, when you hit a target with your Archer Form’s Bonus Action attack, all creatures within 5 feet of the target must make a Dexterity saving throw. On a failed save, they take damage as if they were also hit by your Archer Form's attack.
 
-***Collapsing Star (Archer Form).*** Once per turn, when you hit a target with your Archer Form’s Bonus Action attack, all creatures within 5 feet of the target must make a Dexterity saving throw. On a failed save, they take damage as if they were also hit by your Archer Form's attack.
+:   ***Searing Flare (Chalice Form).*** Once per turn, when you restore Hit Points to a creature using the Chalice Form feature, all creatures within 5 feet of the target must make a Constitution saving throw. On a failed save, they take Radiant damage equals to the Chalice Form's healing roll.
 
-***Searing Flare (Chalice Form).*** Once per turn, when you restore Hit Points to a creature using the Chalice Form feature, the creature can forgo the additional healing. If it does, the next time it hits with an attack roll before the end of its next turn, it deals extra Radiant damage equal to the Chalice Form’s healing roll.
+:   ***Void Dragon (Dragon Form).*** While concentrating on a Druid spell, you can add your Wisdom modifier to the damage roll of any Druid spell you cast.
 
-***Void Dragon (Dragon Form).*** While concentrating on a Druid spell, you can add your Wisdom modifier to the damage roll of any Druid spell you cast.
+**Resonance of Perseverance**  
+:   ***Siege Emplacement (Archer Form).*** Allies that start its turn within 10 feet of you, gain Temporary Hit Points equal to your Wisdom modifier until the start of its next turn. 
+
+:   ***Amber Armour (Archer Form).*** When you restore Hit Points to a creature using the Chalice Form feature, you and all allies within 10 feet of you gain Temporary Hit Points equals to half the Chalice Form roll result for 1 minute.
+
+:   ***Warding Aura (Dragon Form).*** While concentrating on a Druid spell, all allies within 10 feet of you, gains the benefit of Half Cover.
 
