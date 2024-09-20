@@ -8,7 +8,7 @@ Below are Artificer's Infusion available from Tasha's Cauldron of Everything.
 
 ---
 
-## Armor of Magical Strength
+### Armor of Magical Strength
 
 *Prerequisite: A suit of armor (requires attunement)*
 
@@ -19,7 +19,7 @@ This armor has 6 charges. The wearer can expend the armor's charges in the follo
 
 The armor regains 1d6 expended charges daily at dawn.
 
-## Enhanced Arcane Focus
+### Enhanced Arcane Focus
 
 *Prerequisite: A rod, staff, or wand (requires attunement)*
 
@@ -247,5 +247,3 @@ This magic weapon grants a +1 bonus to attack and damage rolls made with it, and
 *Prerequisite: 6th level, A ring (requires attunement)*
 
 While wearing this ring, the creature can recover one expended spell slot as an action. The recovered slot can be of 3rd level or lower. Once used, the ring can't be used again until the next dawn.
-
-*Type: Artificer Infusion*
