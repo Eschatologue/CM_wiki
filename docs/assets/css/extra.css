@@ -218,8 +218,8 @@
 }
 
 .md-typeset table:not([class]) th, .md-typeset table:not([class]) td {
-  font-size: 0.6rem;
-  padding: 0.375em 0.875em;
+  font-size: 0.7rem;
+  padding: 0.4375em 0.9375em;
   border-bottom: rgba(255, 255, 255, 0.12);
   background-color: rgba(255, 255, 255, 0.025);
   min-width: 0.0625em;
@@ -231,18 +231,18 @@
   font-weight: bold !important;
   text-transform: capitalize !important;
   vertical-align: bottom;
-  color: rgba(255, 255, 255, 0.6);
-  padding: 0.525em 0.875em;
+  color: rgba(255, 255, 255, 0.5);
+  padding: 0.6125em 0.9375em;
 }
 .md-typeset table:not([class]) th:first-child {
-  border-radius: 0.375em 0 0 0 !important;
+  border-radius: 0.25em 0 0 0 !important;
 }
 .md-typeset table:not([class]) th:last-child,
 .md-typeset table:not([class]) tr:last-child td:last-child {
-  border-radius: 0 0.375em 0 0 !important;
+  border-radius: 0 0.25em 0 0 !important;
 }
 .md-typeset table:not([class]) tr:last-child td:first-child {
-  border-radius: 0 0 0 0.375em !important;
+  border-radius: 0 0 0 0.25em !important;
 }
 .md-typeset__table {
   width: 100%;
