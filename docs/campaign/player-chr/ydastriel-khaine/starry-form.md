@@ -1,3 +1,9 @@
+---
+search:
+  exclude: true
+---
+
+
 # Khaine's Starry Form
 
 ## Crown & Misery Starry Form
