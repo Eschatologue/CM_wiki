@@ -41,5 +41,5 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 :   ***Shape of Spite (Chalice Form).*** Once per turn, when you restore Hit Points to a creature using the Chalice Form feature, it gains a bonus to its next d20 Test equal to your Wisdom modifier.
 
-:   ***Remnants of Judgement (Dragon Form).*** When concentrating on a Druid spell, all your attacks deal additional Radiant damage equal to your Wisdom modifier when you hit a creature that has attacked you or an ally since your last turn.
+:   ***Remnants of Judgement (Dragon Form).*** While concentrating on a Druid spell, if the total damage roll of one of your attacks is lower than your Wisdom modifier, you can treat the damage as equal to your Wisdom modifier.
 
