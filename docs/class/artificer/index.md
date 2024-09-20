@@ -43,26 +43,26 @@ As a Artificer, you gain the following class features when you reach the specifi
 
 | Level | Prof. Bonus | Features | Ingenuity Points | Infusions Known (Active) | Cantrips Known | Prepared Spells | I | II | III | IV | V |
 |:-:|:-:|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 1 | +2 | Spellcasting, Arcane Tinkerer, Artificer's Ingenuity | 2 | 2 (2) | 2 | - | 2 | - | - | - | - |
-| 2 | +2 | Infuse Item, Tinker’s Talent | 2 | 4 (2) | - | - | 2 | - | - | - | - |
-| 3 | +2 | Artificer Subclass, Right Tool for the Job | 4 | 4 (2) | 2 | 2 | 4 | 3 | - | - | - | - |
-| 4 | +2 | Ability Score Improvement | 4 | 4 (2) | 2 | 2 | 3 | - | - | - | - |
-| 5 | +3 | Honed Talent | 6 | 4 (2) | 2 | 2 | 4 | 2 | - | - | - |
-| 6 | +3 | Subclass Feature, Tool Expertise | 6 | 4 (2) | 2 | 3 | 4 | 2 | - | - | - |
-| 7 | +3 | Flash of Genius Improvement | 6 | 6 (3) | 2 | 3 | 4 | 3 | - | - | - |
-| 8 | +3 | Ability Score Improvement | 8 | 6 (3) | 2 | 3 | 4 | 3 | - | - | - |
-| 9 | +4 | Subclass Feature | 8 | 6 (3) | 2 | 4 | 4 | 3 | - | - | - |
-| 10 | +4 | Magic Item Adept, Tinkerer's Talent Improvement | 8 | 6 (3) | 2 | 4 | 4 | 3 | - | - | - |
-| 11 | +4 | Spell Storing Item | 8 | 8 (4) | 3 | 4 | 4 | 3 | 3 | - | - |
-| 12 | +4 | Ability Score Improvement | 10 | 8 (4) | 3 | 4 | 4 | 3 | 3 | - | - |
-| 13 | +5 | Artificer’s Knack | 10 | 8 (4) | 3 | 4 | 4 | 3 | 3 | 1 | - |
-| 14 | +5 | Magic Item Savant | 10 | 8 (4) | 3 | 4 | 4 | 3 | 3 | 1 | - |
-| 15 | +5 | Subclass Feature | 10 | 10 (5) | 3 | 4 | 4 | 3 | 3 | 2 | - |
-| 16 | +5 | Ability Score Improvement | 11 | 10 (5) | 3 | 4 | 4 | 3 | 3 | 2 | - |
-| 17 | +6 | Synergistic Infusions | 11 | 10 (5) | 3 | 5 | 4 | 3 | 3 | 3 | 1 |
-| 18 | +6 | Magic Item Master | 12 | 10 (5) | 3 | 5 | 4 | 3 | 3 | 3 | 1 |
-| 19 | +6 | Epic Boon | 12 | 12 (6) | 3 | 5 | 4 | 3 | 3 | 3 | 2 |
-| 20 | +6 | Soul of Artifice | 12 | 12 (6) | 3 | 5 |  4 | 3 | 3 | 3 | 2 |
+| 1 | +2 | Spellcasting, Arcane Tinkerer, Artificer’s Ingenuity | 2 | - | 2 | 2 | 2 | - | - | - | - |
+| 2 | +2 | Infuse Item, Tinkerer’s Talent | 2 | 4 (2) | 2 | 3 | 2 | - | - | - | - |
+| 3 | +2 | Artificer Subclass, Right Tool for the Job | 4 | 4 (2) | 2 | 4 | 3 | - | - | - | - |
+| 4 | +2 | Ability Score Improvement| 4 | 4 (2) | 2 | 5 | 3 | - | - | - | - |
+| 5 | +3 | Honed Talent | 4 | 4 (2) | 2 | 6 | 4 | 2 | - | - | - |
+| 6 | +3 | Subclass Feature, Tool Expertise | 6 | 6 (3) | 2 | 6 | 4 | 2 | - | - | - |
+| 7 | +3 | Flash of Genius Improvement | 6 | 6 (3) | 2 | 7 | 4 | 3 | - | - | - |
+| 8 | +3 | Ability Score Improvement| 6 | 6 (3) | 2 | 7 | 4 | 3 | - | - | - |
+| 9 | +4 | Subclass Feature | 8 | 6 (3) | 2 | 8 | 4 | 3 | 2 | - | - |
+| 10 | +4 | Magic Item Adept, Tinkerer’s Talent Improvement | 8 | 8 (4) | 3 | 8 | 4 | 3 | 2 | - | - |
+| 11 | +4 | Spell Storing Item | 8 | 8 (4) | 3 | 10 | 4 | 3 | 3 | - | - |
+| 12 | +4 | Ability Score Improvement| 10 | 8 (4) | 3 | 10 | 4 | 3 | 3 | - | - |
+| 13 | +5 | Artisan’s Knack | 10 | 8 (4) | 3 | 11 | 4 | 3 | 3 | 1 | - |
+| 14 | +5 | Magic Item Savant | 10 | 10 (5) | 4 | 11 | 4 | 3 | 3 | 1 | - |
+| 15 | +5 | Subclass Feature | 11 | 10 (5) | 4 | 12 | 4 | 3 | 3 | 2 | - |
+| 16 | +5 | Ability Score Improvement| 11 | 10 (5) | 4 | 12 | 4 | 3 | 3 | 2 | - |
+| 17 | +6 | Synergistic Infusions | 11 | 10 (5) | 4 | 14 | 4 | 3 | 3 | 3 | 1 |
+| 18 | +6 | Magic Item Master | 12 | 12 (6) | 4 | 14 | 4 | 3 | 3 | 3 | 1 |
+| 19 | +6 | Epic Boon | 12 | 12 (6) | 4 | 15 | 4 | 3 | 3 | 3 | 2 |
+| 20 | +6 | Soul of Artifice | 12 | 12 (6) | 4 | 15 | 4 | 3 | 3 | 3 | 2 |
 
 ### Level 1: Spellcasting
 
@@ -92,7 +92,7 @@ After you gain the Infuse Item feature at level 2, you can also use any item bea
 
 ### Level 1: Arcane Tinkerer
 
-Your knack for tinkering has taught you to store minor magical effects in mundane objects. You know the Magical Tinkering cantrip, which doesn’t count against the number of cantrips you know.
+Your knack for tinkering has taught you to store minor magical effects in mundane objects. You know the *Magical Tinkering* cantrip, which doesn’t count against the number of cantrips you know.
 
 Further, whenever you make an ability check with Tinker’s Tools, you can use your Intelligence as the ability, instead of Dexterity.
 
@@ -107,28 +107,27 @@ Your prowess with tinkering and technology has provided you with a knack for sol
 ### Level 2: Tinkerer’s Talent
 You have developed means of protecting yourself in a fight. Select one of the following two Talents:
 
-**Weaponsmith**  
-You prefer to use equipment to protect yourself.
+***Weaponsmith.*** You prefer to use equipment to protect yourself.
 
-- **Extra Proficiencies.** You have proficiency with Martial weapons.
-- **Intelligent Attacks.** When you make an attack with a magic weapon with which you have proficiency, you can choose to use your Intelligence modifier for the attack and damage rolls, instead of Strength or Dexterity.
-- **Weapon Mastery.** Whenever you finish a Long Rest, you can touch a weapon with which you have proficiency. Until you next finish a Long Rest, you can use the Mastery property of that weapon. Starting at level 10, you can touch two weapons when you finish a Long Rest and gain their Mastery Properties, instead of one.
+:   ***Extra Proficiencies.*** You have proficiency with Martial weapons.
+:   ***Intelligent Attacks.*** When you make an attack with a magic weapon with which you have proficiency, you can choose to use your Intelligence modifier for the attack and damage rolls, instead of Strength or Dexterity.
+:   ***Weapon Mastery.*** Whenever you finish a Long Rest, you can touch a weapon with which you have proficiency. Until you next finish a Long Rest, you can use the Mastery property of that weapon. Starting at level 10, you can touch two weapons when you finish a Long Rest and gain their Mastery Properties, instead of one.
 
-**Arcanosmith**  
-You favor focussing on your spellcasting to protect you.
+***Arcanosmith.*** You favor focussing on your spellcasting to protect you.
 
-- **Extra Proficiency.** Your devotion to learning arcane magic grants you proficiency with the Arcana skill. If you already have this proficiency, you instead gain Expertise.
-- **Extra Cantrip.** You know one extra cantrip from the Artificer spell list. You gain another extra Artificer cantrip of your choice at level 10.
-- **Spell Recovery.** Whenever you finish a Short Rest, you can regain one expended spell slot of your choice. The level of the spell slot cannot exceed your highest spell slot level as shown on the Artificer Features table, even if you are a multiclassed character.
+:   ***Extra Proficiency.*** Your devotion to learning arcane magic grants you proficiency with the Arcana skill. If you already have this proficiency, you instead gain Expertise.
+:   ***Extra Cantrip.*** You know one extra cantrip from the Artificer spell list. You gain another extra Artificer cantrip of your choice at level 10.
+:   ***Spell Recovery.*** Whenever you finish a Short Rest, you can regain one expended spell slot of your choice. The level of the spell slot cannot exceed your highest spell slot level as shown on the Artificer Features table, even if you are a multiclassed character.
 
 !!! Note "Flavoring Weapon Mastery"
 
     While a Fighter typically uses the Mastery property of a weapon through extensive training to use that weapon to its full potential, a Weaponsmith Artificer is more likely to have fitted their weapon with modifications or arcane technology to achieve the same effect. For example, they might fit a Longbow with an arcane freezing agent to produce the effects of the Slow Mastery property.
 
 ### Level 2: Infuse Item
+
 You gain the ability to imbue mundane items with certain magical infusions. The magic items you create with this feature are effectively prototypes of permanent items.
 
-Infusions Known. When you gain this feature, pick four Infusions to learn, choosing from the “Artificer Infusions” section in Tasha’s Cauldron of Everything. You learn additional Infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the Artificer Features table.
+Infusions Known. When you gain this feature, pick four Infusions to learn, choosing from the “[Artificer Infusions](../../character-creation/option/artificer-infusion.md)”. You learn additional Infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the Artificer Features table.
 
 Whenever you gain a level in this class, you can replace one of the Infusions you learned with a new one.
 
