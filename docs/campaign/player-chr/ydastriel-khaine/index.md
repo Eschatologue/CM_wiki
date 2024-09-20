@@ -30,16 +30,16 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 **Resonance of Perseverance (Locked)**  
 
-:   ***Siege Emplacement (Archer Form).*** Allies that start its turn within 10 feet of you, gain Temporary Hit Points equal to your Wisdom modifier until the start of its next turn. 
+:   ***Siege Emplacement (Archer Form).*** Allies that start their turn within 10 feet of you gain Temporary Hit Points equal to your Wisdom modifier until the start of your next turn.
 
-:   ***Amber Armour (Archer Form).*** When you restore Hit Points to a creature using the Chalice Form feature, you and all allies within 10 feet of you gain Temporary Hit Points equals to half the Chalice Form roll result for 1 minute.
+:   ***Amber Armour (Archer Form).*** When you restore Hit Points to a creature using the Chalice Form feature, you and all allies within 10 feet of you gain Temporary Hit Points equal to half the Chalice Form's healing roll for 1 minute.
 
 :   ***Warding Aura (Dragon Form).*** While concentrating on a Druid spell, all allies within 10 feet of you gain the benefit of Half Cover.
 
 **Resonance of Judgement (Locked)**  
-:   ***Fist of Conviction (Archer Form).*** You gain bonus to your AC equals to your Wisdom modifier, so long you are not wearing Medium or Heavy armour or a Shield. In additon, as a Magic action, you can make a melee spell attack using your Archer Form’s attack. When you reach Druid level 6, whenever you take this Magic action on your turn, you can attack twice, rather than once.
+:   ***Fist of Conviction (Archer Form).*** You gain a bonus to your AC equal to your Wisdom modifier, as long as you are not wearing Medium or Heavy Armour or using a Shield. Additionally, as a Magic action, you can make a melee spell attack using your Archer Form’s attack. At Druid level 6, whenever you take this Magic action on your turn, you can attack twice, instead of once.
 
-:   ***Smite of Spite (Chalice Form).*** Once per turn, when you restore Hit Points to a creature using the Chalice Form feature, it gains bonus to its next D20 Test equal to your Wisdom modifier.
+:   ***Shape of Spite (Chalice Form).*** Once per turn, when you restore Hit Points to a creature using the Chalice Form feature, it gains a bonus to its next d20 Test equal to your Wisdom modifier.
 
 :   ***Remnants of Judgement (Dragon Form).*** When concentrating on a Druid spell, all your attacks deal additional Radiant damage equal to your Wisdom modifier when you hit a creature that has attacked you or an ally since your last turn.
 
