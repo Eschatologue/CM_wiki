@@ -16,9 +16,9 @@ While holding your Star Map, you can add your Wisdom modifier to this cantrip's 
 
 Your growing understanding of the Spires and their role in Antares has granted you the ability to draw powers from the ascents they represent.
 
-When you enter your Starry Form, you can enhance its abilities by choosing one of the following Resonances. Each Resonance boosts a specific aspect of your Starry Form.
+When you enter your Starry Form, or as a Bonus Action thereafter, you can enhance its abilities by choosing one of the following Resonances. Each Resonance boosts a specific aspect of your Starry Form.
 
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and regain all expended uses after a Long Rest. Alternatively, you can regain all expended uses by expending one use of Wild Shape (no action required).
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and regain all expended uses after a Long Rest. Alternatively, you can regain all expended uses by expending one use of Wild Shape (no action required). 
 
 **Resonance of Destruction**  
 
