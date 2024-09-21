@@ -65,7 +65,7 @@ nav:
       - Background: 
         - character-creation/origin/background/index.md
         - Common Background: character-creation/origin/background/common-background.md
-        - Special Background: character-creation/origin/background/cm-background.md
+        - Special Background: character-creation/origin/background/special-background.md
       - Species:
         - character-creation/origin/species/index.md
         - Aasimar: character-creation/origin/species/aasimar.md
@@ -111,7 +111,9 @@ nav:
         - equipment/tools/index.md
         - Artisan Tools: equipment/tools/artisan-tools.md
         - Other Tools: equipment/tools/other-tools.md
-      - Adventuring Gear: equipment/adventuring-gear.md
+      - Adventuring Gear: 
+          - 2024 PHB Items: equipment/adventuring-gear/phb.md
+          - C&M Items: equipment/adventuring-gear/cm.md
       - Services: equipment/services.md
       - Magic Items: equipment/magic-item.md
       - Consumeables: 

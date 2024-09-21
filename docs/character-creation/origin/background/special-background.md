@@ -10,7 +10,23 @@ Your hands are adept at tinkering with machinery. The more complex the component
 
 - **Ability Scores:** Intelligence, Dexterity, Wisdom
 - **Feat:** Artificer Initiate
-- **Skill Proficiencies:** Investigation, Perception
+- **Skill Proficiencies:** Investigation, Sleight of Hand
 - **Tool Proficiency:** *Tinker's Tools*
 - **Equipment:** Choose A or B: (A) *Tinker's Tools*, *Blueprint (machine)*, *Scrap Metal (5 pieces)*, *Goggles*, *Notebook*, 10 GP; or (B) 50 GP
+
+---
+
+### Celestial Scholar
+
+You have studied the volatile language of the heavens, a pursuit that has scarred you both mentally and physically. These accursed letters hold secrets that could unravel the cosmos, and you are determined to uncover them despite the toll they take on your being.
+
+- **Ability Scores:** Intelligence, Wisdom, Constitution
+- **Feat:** Magic Initiate (Cleric)
+- **Skill Proficiencies:** Arcana, Religion
+- **Tool Proficiency:** *Calligrapher's Supplies*
+- **Equipment:** Choose A or B: (A) *Calligrapher's Supplies*, *Book*, *nk*, *Ink Pen*, *Robe*, 10 GP; or (B) 50 GP
+
+---
+
+[To be Added]
 
