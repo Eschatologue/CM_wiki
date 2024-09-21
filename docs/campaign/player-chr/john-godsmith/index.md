@@ -30,8 +30,21 @@ You gain the ability to channel the lethal repercussion of speaking Celestial to
 
 #### Maledict Die Powers
 
-***Smite of Origin.*** Immediately after you hit a target that benefits from your Rage damage, you can expend a number of Maledict Die equal to your Rage Damage bonus, rolling them and dealing :dmg-fire: Fire damage to the target equal to the number rolled.
+***Cauterising Flame.*** As a Magic action, you can expend a number of Maledict Die up to your Rage Damage bonus, rolling them and regain a number of Hit Points equal to the roll's total. This power can't be used if you have no Maledict Die remaining. If your **Rage** is active, add your Rage Damage bonus to the result.
 
-***Flames of Creation.*** When you take the Attack action on your turn, you can expend a number of Maledict Die equal to your Rage Damage bonus, rolling them and replace one of your attacks to stomp the ground and cause a 15-foot Cone fiery explosion originating from you. Each creature in the area must make a Dexterity saving throw, taking :dmg-fire: Fire damage equal to the roll result on a failed save or half as much damage on a successful one. Flammable objects in the Cone that aren't being worn or carried start burning. 
+***Flames of Creation.*** When you take the Attack action on your turn, you can expend a number of Maledict Die up to your Rage Damage bonus, rolling them and replace one of your attacks to stomp the ground and cause a 15-foot Cone fiery explosion originating from you. Each creature in the area must make a Dexterity saving throw, taking :dmg-fire: Fire damage equal to the roll result on a failed save or half as much damage on a successful one. This benefits from your Rage damage bonus if your **Rage** is active.
 
-***Cauterising Flame.*** As a Magic action, you can expend a number of Maledict Die equal to your Rage Damage bonus, rolling them and regain a number of Hit Points equal to the roll's total. This power can't be used if you have no Maledict Die remaining.
+Flammable objects in the Cone that aren't being worn or carried start burning. 
+
+***Smite of Origin.*** Immediately after you hit a target with a Strength-based attack, you can expend a number of Maledict Die up to your Rage Damage bonus, rolling them and dealing :dmg-fire: Fire damage to the target equal to the number rolled.
+
+### Level 6: Primordial Flare
+
+You gain new way to use your Heaven's Maledict.
+
+***Lure of Blaze.*** While fishing, you can expend a Maledict Die and add the die to the dice rolls you make to fish before any multipliers.
+
+***Phoenix Dive.*** As a Bonus Action, you can expend a number of Maledict Dice up to your Rage Damage bonus. Roll the dice, and you gain the ability to fly and dive to a point you can see within 60 feet. Immediately on landing, blazing wave burst outward from you in a 10-foot Emanation. Each creature within the area must make a Dexterity saving throw, taking :dmg-fire: Fire damage equal to the roll result on a failed save or half as much damage on a successful one. This benefits from your Rage damage bonus if your **Rage** is active.
+
+***Searing Enigma.*** When you fail an ability check or a saving throw, you can expend a Maledict Die, roll it and add the result to the check, potentialy turning a failure to a success. The Dice is not expended if you still fail.
+
