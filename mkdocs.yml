@@ -62,7 +62,10 @@ nav:
     - Multiclassing: character-creation/multiclassing.md
     - Trinket: character-creation/trinket.md
     - Origin:
-      - Background: character-creation/origin/background.md
+      - Background: 
+        - character-creation/origin/background/index.md
+        - Common Background: character-creation/origin/background/common-background.md
+        - Crown & Misery Background: character-creation/origin/background/cm-background.md
       - Species:
         - character-creation/origin/species/index.md
         - Aasimar: character-creation/origin/species/aasimar.md
