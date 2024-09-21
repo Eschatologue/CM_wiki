@@ -6,6 +6,10 @@ icon: material/broom
 
 The Adventuring Gear table in this section includes gear that adventurers often find useful. These items are described here in alphabetical order, with an item's price appearing after its name.
 
+## 2024 Player's Handbook Items
+
+These adventuring items are available as part of the 2024 Player's Handbook.
+
 ##### Adventuring Gear table
 
 | Item | Cost |  | Item | Cost |
@@ -588,3 +592,16 @@ A Vial holds up to 4 ounces.
 ### Waterskin (2 SP)
 
 A Waterskin holds up to 4 pints. If you don't drink sufficient water, you risk dehydration
+
+## Crown & Misery Items
+
+These items are unique to the world that Crown & Misery takes place
+
+---
+
+### Blueprint (Machine)
+
+A detailed technical drawing that outlines the structure and design of a complex machine or mechanical device. The blueprint can serve as a guide to replicate the machine or understand its inner workings. Studying it grants advantage on Intelligence checks related to machinery.
+
+---
+

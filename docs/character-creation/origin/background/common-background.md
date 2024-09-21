@@ -4,8 +4,6 @@ These backgrounds are available as part as the new 2024 PHB, these options act a
 
 ---
 
----
-
 ### Acolyte
 
 You were a devoted servant in a place of worship. You learned the rituals of your faith and how to channel divine power as part of your service.

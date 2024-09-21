@@ -65,7 +65,7 @@ nav:
       - Background: 
         - character-creation/origin/background/index.md
         - Common Background: character-creation/origin/background/common-background.md
-        - Crown & Misery Background: character-creation/origin/background/cm-background.md
+        - Special Background: character-creation/origin/background/cm-background.md
       - Species:
         - character-creation/origin/species/index.md
         - Aasimar: character-creation/origin/species/aasimar.md
