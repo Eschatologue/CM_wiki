@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # John's Signatures Technique
 
 ### Burning Run
