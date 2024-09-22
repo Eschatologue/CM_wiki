@@ -30,24 +30,24 @@ Warp Entities are classified into six categories based on their threat level and
 
 Warp Entities prey on anyone they encounter through direct physical confrontation or supernatural tactics such as mind control and hallucinations. They cannot be reasoned with or controlled, hunting indiscriminately without any apparent benefit to themselves.
 
-### Helium [He]
+### Category I: Helium [He]
 
 Helium [He] category entities are the weakest, yet they are abundant and found everywhere from the wilderness to the most corrupted locations. Their threat can escalate significantly due to their sheer numbers. Entities such as Warp Centipedes and Husks belong to this category.
 
-### Neon [Ne]
+### Category II: Neon [Ne]
 
 Neon [Ne] category entities are stronger and more intelligent than Helium [He] entities. They use basic tactics against their prey rather than relying purely on instinct. Some Neon entities also possess brute strength. Examples include Warptreaders, Blasters, and Lumberjacks.
 
-### Argon [Ar]
+### Category III: Argon [Ar]
 
 Argon [Ar] category entities are usually mutated Helium [He] or Neon [Ne] entities with increased threat levels, or inherently stronger entities. These are fewer in number but require fully trained soldiers and well-crafted strategies to engage and defeat. For adventurers and raiders, creatures in this category can fetch a good amount of silver, though some sacrifices may be necessary. 
 
-### Krypton [Kr]
+### Category IV: Krypton [Kr]
 
 Krypton [Kr] category entities are exponentially more dangerous than Argon [Ar]. Their presence alone can cause severe Warp Corruption and they are often the source of such corruption. Fortunately, they rarely appear without significant cause and are usually seen in small quantities during Warp Storms. These entities possess powerful psionic and space manipulation abilities and may be amalgamations of several lesser entities fused into one.
 
 While dangerous, Krypton [Kr] entities rarely attack lesser creatures directly, preferring to use lesser entities to do their bidding. They are priority targets during a Warp Storm, as eliminating them significantly reduces the storm's severity.
 
-### Xenon [Xe]
+### Category V: Xenon [Xe]
 
-### Radon [Rn]
+### Category VI: Radon [Rn]
