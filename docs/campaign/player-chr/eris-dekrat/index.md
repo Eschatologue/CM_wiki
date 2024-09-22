@@ -126,14 +126,6 @@ When you see a creature casting a spell or teleporting within 60 feet of you, yo
 
 If the spell was cast at a level equal to the level of the :rsc-spell-slot: **Spell Slot** you expended or lower, the spell fails and has no effect. If it was cast at a level higher than the slot you expended, make a :ability-cha: Charisma :d20-check: **Ability Check** against DC of 10 + the level of the spell, the spell fails and has no effect when you succeed the check.
 
-### Level 9: Dispel and Beguile
-
-*Your tounge carry traces of abjuration magic, distrupting the magic of those you charm.*
-
-When you use *Panache* against a creature that is under the effects of a spell (e.g *Haste* or *Stoneskin*), or when it is :spell-concentration: **Concentrating** on a spell, you can expend a spell slot to attempt to dispel that spell or break its concentration. If the spell you attempt to dispel or the spell the creature concentrating in was cast at a level equal to the level of spell slot you expended or lower, the spell ends or its concentration is broken. 
-
-If the spell was cast at a level higher than the spell slot you expend and your initial *Panache* ability check results exceeds 10 + the level of the spell, the spell ends or its :spell-concentration: **Concentration** broken.
-
 *[Quarry]: Creatures affected by Hunter's Mark
 
 [spell list]: spell-list.md
