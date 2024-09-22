@@ -43,7 +43,7 @@ As a Wizard, you gain the following class features when you reach the specified 
 
 ##### Wizard Features
 
-| Wizard | Level | Prof. Bonus | Class Feature | Cantrips | Spells Prepared | I | II | III | IV | V | VI | VII | VIII | IX |
+| Wizard Level | Prof. Bonus | Class Feature | Cantrips | Spells Prepared | I | II | III | IV | V | VI | VII | VIII | IX |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | +2 | Spellcasting, Ritual Adept, Arcane Recovery | 3 | 4 | 2 | — | — | — | — | — | — | — | — |
 | 2 | +2 | Scholar | 3 | 5 | 3 | — | — | — | — | — | — | — | — |
@@ -146,10 +146,12 @@ Choose two level 3 spells in your spellbook as your signature spells. You always
 
 ## Wizard Spell List
 
-This section presents the Wizard spell list. The spells are organized by spell level and then alphabetized, and each spell’s school of magic is listed. In the Special column, C means the spell requires Concentration, R means it’s a Ritual, and M means it requires a specific Material component.
+This section presents the Wizard spell list. The spells are organized by spell level and then alphabetized, and each spell’s school of magic is listed. In the Special column, *C* means the spell requires Concentration, *R* means it’s a Ritual, and *M* means it requires a specific Material component.
 
 ##### Cantrips (Level 0 Wizard Spells)
 
+| Spell | School | Special |
+|---|---|:-:|
 | *Acid Splash* | Evocation | — |
 | *Chill Touch* | Necromancy | — |
 | *Dancing Lights* | Illusion | C |

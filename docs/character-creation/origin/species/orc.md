@@ -24,21 +24,10 @@ You can use this trait a number of times equal to your Proficiency Bonus, and yo
 
 You have Darkvision with a range of 120 feet.
 
-### Orcish Lineage
+### Orcish Legacy
 
-With Antares teems with Abberations and civilisations are now centered upon Citadel Cities, orcs can now no longer roam the wilderness without putting themselves in mortal danger.
+Choose one of the following benefits–an ability from your lineage:
 
-Choose one of the following benefits–an ability from your lineage;
+***Relentless Endurance (Continental Orc).*** When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead. Once you use this trait, you can't do so again until you finish a Long Rest.
 
-#### Continental Orc
-
-When you score a Critical Hit with a melee weapon attack or Unarmed Strike, you can roll one of the damage dice one additional time and add it to the extra damage of the Critical Hit.
-
-#### Oni
-
-[To be Added]
-
-### Relentless Endurance
-
-When you are reduced to 0 Hit Point but not killed outright, you can drop to 1 Hit Point instead. Once you use this trait, you can't do so again until you finish a Long Rest.
-
+***Mystical Resilience (Oni Orc).*** You have Advantage on saving throws you make to avoid or end the Charmed and Frightened condition.

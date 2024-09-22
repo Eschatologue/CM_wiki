@@ -137,7 +137,7 @@ When you use your Magical Cunning feature, you regain all your expended Pact Mag
 
 ## Warlock's Spell List
 
-This section presents the Warlock spell list. The spells are organized by spell level and then alphabetized, and each spell’s school of magic is listed. In the Special column, C means the spell requires Concentration, R means it’s a Ritual, and M means it requires a specific Material component.
+This section presents the Warlock spell list. The spells are organized by spell level and then alphabetized, and each spell’s school of magic is listed. In the Special column, *C* means the spell requires Concentration, *R* means it’s a Ritual, and *M* means it requires a specific Material component.
 
 ##### Cantrips (Level 0 Warlock Spells)
 

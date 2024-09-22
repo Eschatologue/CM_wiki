@@ -184,7 +184,7 @@ You gain an Epic Boon feat (see chapter 5) or another feat of your choice for wh
 
 ## Paladin Spell List
 
-This section presents the Paladin spell list. The spells are organized by spell level and then alphabetized, and each spell’s school of magic is listed. In the Special column, C means the spell requires Concentration, R means it’s a Ritual, and M means it requires a specific Material component.
+This section presents the Paladin spell list. The spells are organized by spell level and then alphabetized, and each spell’s school of magic is listed. In the Special column, *C* means the spell requires Concentration, *R* means it’s a Ritual, and *M* means it requires a specific Material component.
 
 ##### Level 1 Paladin Spells
 
