@@ -8,27 +8,31 @@ While all Monks are able to wield the weapons of their style to great effect, th
 
 You gain a set of Calligrapher’s Supplies and a set of Painter’s Supplies. You have proficiency with both of these.
 
-### Level 3: Path of the Wuxia
+### Level 3: Way of the Wuxia
 
 Your special martial arts training leads you to master the use of certain weapons.
 
-***Wuxia Weapons.*** Choose one melee weapon and one ranged weapon. Each of these weapons can be any simple or martial weapon that lacks the *Heavy* and *Special* properties. The Longbow is also a valid choice. You have proficiency with these weapons if you don't already have it and you can use its Mastery property. These weapons are monk weapons for you. When you finish a Long Rest, you can change each of your Wuxia weapons for a different weapon of your choice, following the criteria above. You can choose another weapon – either melee or ranged – to be a Wuxia weapon for you, following the criteria above, at levels 6, 11 and 17.
+***Wuxia Weapons.*** Choose one melee weapon and one ranged weapon which can be Simple or Martial weapon that lacks the *Heavy* and *Special* properties. The Longbow is also a valid choice.
+
+&emsp; You have proficiency with these weapons if you don't already have it and you can use its Mastery property. These weapons are monk weapons for you. When you finish a Long Rest, you can change each of your Wuxia weapons for a different weapon of your choice, following the criteria above. 
+
+You can choose another weapon – either melee or ranged – to be a Wuxia weapon for you, following the criteria above, at levels 6, 11 and 17.
 
 You also gain the following benefits:
 
-:   ***Masterful Parry.*** While you are wielding a melee Wuxia Weapon and a creature you can see hits you with a melee attack, you take a Reaction to add your Wisdom modifier (minimum of +1) to your Armor Class against that attack. 
+***Masterful Parry.*** While you are wielding a melee Wuxia Weapon and a creature you can see hits you with a melee attack, you take a Reaction to add your Wisdom modifier (minimum of +1) to your Armor Class against that attack. 
 
-:   ***Masterful Aim.*** As a bonus action on your turn, you can focus your spirit to increase your accuracy, and for the next Wuxia Weapon attack roll you make before the end of your current turn, you can treat a d20 roll of 7 or lower as an 8.
+***Masterful Aim.*** As a bonus action on your turn, you can focus your spirit to increase your accuracy, and for the next Wuxia Weapon attack roll you make before the end of your current turn, you can treat a d20 roll of 7 or lower as an 8.
 
 ### Level 6: One with the Blade
 
 Your focus empowers your Wuxia weapons, granting you the following benefits.
 
-:   ***Deft Strike.*** Once per turn, when you hit a creature with a Wuxia weapon, you can spend 1 Focus Point to deal additional damage equal to a roll of your Martial Arts die.
+***Deft Strike.*** Once per turn, when you hit a creature with a Wuxia weapon, you can spend 1 Focus Point to deal additional damage equal to a roll of your Martial Arts die.
 
-:   ***Magic Wuxia Weapons.*** When you attack with a Wuxia weapon, you can choose to deal the weapon’s damage type or Force damage.
+***Magic Wuxia Weapons.*** When you attack with a Wuxia weapon, you can choose to deal the weapon’s damage type or Force damage.
 
-:   ***Rapid Strikes.*** When you use Flurry of Blows, you can replace your Unarmed Strikes with melee Wuxia Weapon attacks
+***Rapid Strikes.*** When you use Flurry of Blows, you can replace your Unarmed Strikes with melee Wuxia Weapon attacks
 
 ### Level 11: Spirit Blade
 
