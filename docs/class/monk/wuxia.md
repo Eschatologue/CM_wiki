@@ -1,10 +1,10 @@
-# Wuxia Warrior
+# Warrior of Wuxia
 
 > *Masterfully Mix Weapons with Martial Arts - Written by Laserllama - Adapted to 2024 PHB by Eschatologue*
 
 While all Monks are able to wield the weapons of their style to great effect, those who follow the Way of Wuxia dedicate their lives to complete mastery over a chosen few weapons. These warriors are known for their extreme focus and are always seeking progressively stronger warriors to challenge and test their skill with their chosen weapons of war.
 
-### Level 3: Way of the Brush
+### Level 3: Wuxia's Artistry 
 
 You gain a set of Calligrapher’s Supplies and a set of Painter’s Supplies. You have proficiency with both of these.
 
