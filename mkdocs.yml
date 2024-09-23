@@ -135,8 +135,8 @@ nav:
         - Dance: class/bard/dance.md
         - Glamour: class/bard/glamour.md
         - Lore: class/bard/lore.md
-        - Swords: class/bard/swords.md
         - Valour: class/bard/valour.md
+        - HB - Swords: class/bard/swords.md
       - Ranger: 
         - class/ranger/index.md
         - Beast Master: class/ranger/beast-master.md
@@ -149,15 +149,15 @@ nav:
         - Assassin: class/rogue/assassin.md
         - Soulknife: class/rogue/soulknife.md
         - Thief: class/rogue/thief.md
-        - HB | Swashbuckler: class/rogue/swashbuckler.md
+        - HB - Swashbuckler: class/rogue/swashbuckler.md
     - Mage Group:
       - Sorcerer:
         - class/sorcerer/index.md
         - Abberant Mind: class/sorcerer/aberrant.md
         - Clockwork Soul: class/sorcerer/clockwork.md
         - Draconic Bloodline: class/sorcerer/draconic.md
-        - Stone Sorcery: class/sorcerer/stone.md
         - Wild Magic: class/sorcerer/wild.md
+        - HB - Stone Sorcery: class/sorcerer/stone.md
       - Warlock:
         - class/warlock/index.md
         - Archfey: class/warlock/archfey.md
@@ -167,12 +167,13 @@ nav:
       - Wizard:
         - class/wizard/index.md
         - Abjurer: class/wizard/abjurer.md
-        - Bladesinger: class/wizard/bladesinger.md
-        - Chronurgist: class/wizard/chronurgist.md
         - Diviner: class/wizard/diviner.md
         - Evoker: class/wizard/evoker.md
-        - Graviturgist: class/wizard/graviturgist.md
         - Illusionist: class/wizard/illusionist.md
+        - HB - Bladesinger: class/wizard/bladesinger.md
+        - HB - Chronurgist: class/wizard/chronurgist.md
+        - HB - Graviturgist: class/wizard/graviturgist.md
+    
     - Priest Group:
       - Cleric:
         - class/cleric/index.md
@@ -185,15 +186,15 @@ nav:
         - Land: class/druid/land.md
         - Moon: class/druid/moon.md
         - Sea: class/druid/sea.md
-        - Stars: class/druid/star.md
+        - HB - Stars: class/druid/star.md
       - Paladin:
         - class/paladin/index.md
         - Devotion: class/paladin/devotion.md
         - Glory: class/paladin/glory.md
         - The Ancient: class/paladin/ancient.md
         - Vengeance: class/paladin/vengeance.md
-        - Watchers: class/paladin/watchers.md
-        - Oathbreaker: class/paladin/oathbreaker.md
+        - HB - Watchers: class/paladin/watchers.md
+        - HB - Oathbreaker: class/paladin/oathbreaker.md
     - Warrior Group:
       - Barbarian:  
         - class/barbarian/index.md
@@ -203,20 +204,20 @@ nav:
         - Zealot: class/barbarian/zealot.md
       - Fighter:
         - class/fighter/index.md
-        - Arcane Archer: class/fighter/arcane-archer.md
         - Battlemaster: class/fighter/battlemaster.md
         - Champion: class/fighter/champion.md
         - Eldritch Knight: class/fighter/eldritch-knight.md
         - Psi Warrior: class/fighter/psi-warrior.md
-        - Samurai: class/fighter/samurai.md
+        - HB - Arcane Archer: class/fighter/arcane-archer.md
+        - HB - Samurai: class/fighter/samurai.md
       - Monk:
         - class/monk/index.md
-        - Astral Self: class/monk/astral.md
         - Mercy: class/monk/mercy.md
         - Shadow: class/monk/shadow.md
         - Hand: class/monk/hand.md
         - Elements: class/monk/element.md
-        - Wuxia: class/monk/wuxia.md
+        - HB - Astral Self: class/monk/astral.md
+        - HB - Wuxia: class/monk/wuxia.md
   - Spells:
     - Gaining Spells: spells/gaining-spells.md
     - Casting Spells: spells/casting-spells.md
