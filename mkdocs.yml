@@ -148,8 +148,8 @@ nav:
         - Arcane Trickster: class/rogue/arcane-trickster.md
         - Assassin: class/rogue/assassin.md
         - Soulknife: class/rogue/soulknife.md
-        - Swashbuckler: class/rogue/swashbuckler.md
         - Thief: class/rogue/thief.md
+        - [HB] Swashbuckler: class/rogue/swashbuckler.md
     - Mage Group:
       - Sorcerer:
         - class/sorcerer/index.md
