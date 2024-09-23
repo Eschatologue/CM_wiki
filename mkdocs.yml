@@ -289,7 +289,7 @@ theme:
     accent: teal
   font:
     code: Roboto Code
-    text: Lato
+    text: Jost
   icon: 
     logo: fontawesome/solid/dice-d20
     annotation: material/timeline-question

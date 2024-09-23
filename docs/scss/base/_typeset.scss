@@ -5,8 +5,7 @@ $defaultFontSize: px2rem(14px);
 .md-typeset {
     text-justify: auto;
     font-size: $defaultFontSize;
-
-//    letter-spacing: px2rem(0.3px);
+    letter-spacing: $defaultFontSize * 0.12;
 
     p {
         margin-bottom: px2rem(9px);
@@ -20,22 +19,33 @@ $defaultFontSize: px2rem(14px);
         margin-bottom: px2rem(3px);
     }
 
+    h1,
+    h2,
+    h3 {
+        font-variant: small-caps;
+    }
+
+    h4,
+    h5 {
+        font-variant: normal;
+    }
+
     h1 {
-        font-size: $defaultFontSize * 2.75 ;
+        font-size: $defaultFontSize * 2.75;
         margin-top: -0.25em;
         margin-bottom: px2rem(8px);
         font-weight: 400;
     }
 
     h2 {
-        font-size: $defaultFontSize * 2 ;
+        font-size: $defaultFontSize * 2;
         border-bottom: px2rem(2px) solid rgba(255, 255, 255, 0.25);
         padding-bottom: px2rem(2px);
         margin: px2rem(12px) 0 px2rem(4.5px) 0;
     }
 
     h3 {
-        font-size: $defaultFontSize * 1.5 ;
+        font-size: $defaultFontSize * 1.5;
         margin-top: px2rem(12px);
         margin-bottom: px2rem(4px);
         display: flex;
@@ -51,7 +61,6 @@ $defaultFontSize: px2rem(14px);
 
     h4 {
         font-weight: 550;
-        font-variant: normal !important;
         font-size: 0.725rem;
         margin-top: px2rem(8px);
         margin-bottom: px2rem(2px);
@@ -59,7 +68,6 @@ $defaultFontSize: px2rem(14px);
     }
 
     h5 {
-        font-variant: normal !important;
         text-transform: capitalize;
         font-size: $defaultFontSize;
         font-weight: 450;
