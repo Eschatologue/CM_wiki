@@ -256,6 +256,7 @@
 .md-typeset {
   text-justify: auto;
   font-size: 0.7rem;
+  letter-spacing: 0.084rem;
 }
 .md-typeset p {
   margin-bottom: 0.45rem;
@@ -266,6 +267,15 @@
 .md-typeset li {
   margin-top: 0.15rem;
   margin-bottom: 0.15rem;
+}
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  font-variant: small-caps;
+}
+.md-typeset h4,
+.md-typeset h5 {
+  font-variant: normal;
 }
 .md-typeset h1 {
   font-size: 1.925rem;
@@ -294,14 +304,12 @@
 }
 .md-typeset h4 {
   font-weight: 550;
-  font-variant: normal !important;
   font-size: 0.725rem;
   margin-top: 0.4rem;
   margin-bottom: 0.1rem;
   text-transform: capitalize !important;
 }
 .md-typeset h5 {
-  font-variant: normal !important;
   text-transform: capitalize;
   font-size: 0.7rem;
   font-weight: 450;
