@@ -35,9 +35,7 @@ Your command of earth magic grows stronger, allowing you to harness it for your 
 
 As a Bonus Action, you can grant an aegis to you or one allied creature you can see within 60 feet of you. The aegis is a dim, gray aura of earth magic that protects the target. Any Bludgeoning, Piercing, or Slashing damage the target takes is reduced by a number equals to your Charisma modifier. This effect lasts for 1 minute, and it ends earlt if you you use it again, or when you have the Incapacitated condition.
 
-### Level 6: Extra Attack
-
-When you take the Attack action on your turn, you can replace one of the attacks with a casting of one of your cantrips that has a casting time of an action. 
+In addition, when a creature you can see within 60 feet of you hits the protected target with a melee attack, you take a Reaction to teleport to an unoccupied space you can see within 5 feet of the attacker. You can teleport only if you and the attacker are on the same surface. You can then make one melee weapon attack against the attacker. If that attack hits, it deals an extra 1d10 Force damage. This extra damage increases when you reach level 11 (2d10) and level 17 (3d10). 
 
 ### Level 14: Stone's Edge
 
