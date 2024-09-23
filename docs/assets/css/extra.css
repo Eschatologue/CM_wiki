@@ -255,7 +255,6 @@
 
 .md-typeset {
   text-justify: auto;
-  font-weight: 350;
   font-size: 0.7rem;
   /* Headings */
 }
@@ -268,9 +267,6 @@
 .md-typeset li {
   margin-top: 0.15rem;
   margin-bottom: 0.15rem;
-}
-.md-typeset strong {
-  font-weight: 650;
 }
 .md-typeset h1,
 .md-typeset h2,
@@ -318,10 +314,6 @@
   font-size: 0.65rem;
   font-weight: 450;
   margin-bottom: -0.2rem;
-}
-
-.md-header {
-  font-family: "Roboto Slab";
 }
 
 .md-sidebar--primary {
