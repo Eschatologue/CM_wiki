@@ -1,6 +1,7 @@
 /* Imports */
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap");
 [data-md-color-scheme=slate][data-md-color-primary=red] {
   --md-mod-primary-code-bg-color: rgb(71.41275, 47.923425, 57.87225);
   --md-mod-primary-fg-color: hsla(0deg, 100%, 67%, 1);
@@ -202,6 +203,7 @@
 .md-typeset h1,
 .md-typeset h2,
 .md-typeset h3 {
+  font-family: "Jost", sans-serif;
   font-variant: small-caps;
 }
 .md-typeset h4,
@@ -209,23 +211,23 @@
   font-variant: normal;
 }
 .md-typeset h1 {
-  font-size: 2rem;
-  letter-spacing: 0.04rem;
+  font-size: 1.8rem;
+  letter-spacing: 0.036rem;
   margin-top: -0.25em;
   margin-bottom: 0.4rem;
   font-weight: 400;
 }
 .md-typeset h2 {
-  font-size: 1.44rem;
-  letter-spacing: 0.0288rem;
+  font-size: 1.2rem;
+  letter-spacing: 0.024rem;
   font-weight: 400;
   border-bottom: 0.1rem solid rgba(255, 255, 255, 0.25);
   padding-bottom: 0.1rem;
   margin: 0.6rem 0 0.225rem 0;
 }
 .md-typeset h3 {
-  font-size: 1.2rem;
-  letter-spacing: 0.024rem;
+  font-size: 1rem;
+  letter-spacing: 0.02rem;
   margin-top: 0.6rem;
   margin-bottom: 0.2rem;
   display: flex;
