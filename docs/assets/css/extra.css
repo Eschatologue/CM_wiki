@@ -256,7 +256,6 @@
 .md-typeset {
   text-justify: auto;
   font-size: 0.7rem;
-  /* Headings */
 }
 .md-typeset p {
   margin-bottom: 0.45rem;
@@ -268,29 +267,22 @@
   margin-top: 0.15rem;
   margin-bottom: 0.15rem;
 }
-.md-typeset h1,
-.md-typeset h2,
-.md-typeset h3,
-.md-typeset h4,
-.md-typeset h5,
-.md-typeset h6 {
-  font-variant: small-caps;
-  letter-spacing: 0.04rem;
-}
 .md-typeset h1 {
+  font-size: 2.415rem;
   margin-top: -0.25em;
   margin-bottom: 0.4rem;
   font-weight: 400;
 }
 .md-typeset h2 {
+  font-size: 1.4rem;
   border-bottom: 0.1rem solid rgba(255, 255, 255, 0.25);
   padding-bottom: 0.1rem;
   margin: 0.6rem 0 0.225rem 0;
 }
 .md-typeset h3 {
+  font-size: 1.05rem;
   margin-top: 0.6rem;
   margin-bottom: 0.2rem;
-  font-size: 0.8rem;
   display: flex;
 }
 .md-typeset h3::after {
@@ -311,7 +303,7 @@
 .md-typeset h5 {
   font-variant: normal !important;
   text-transform: capitalize;
-  font-size: 0.65rem;
+  font-size: 0.7rem;
   font-weight: 450;
   margin-bottom: -0.2rem;
 }
