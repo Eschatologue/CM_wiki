@@ -14,17 +14,17 @@ Your character's background is the collection of characteristics that they picke
 
 Each background includes the following elements, which you can either choose from existing options or customize to fit your character’s story.
 
-Mechanically, your background contains six aspects detailed as follow:
+Mechanically, your background contains six aspects detailed as follow, a **Custom Background** follows the same formula:
 
-1. **Ability Scores:** Increase one ability score by 2 and another by 1, or increase three ability scores by 1 each. These increases cannot raise any score above 20. If you're creating a custom background, choose scores that reflect the experiences your character went through.
+1. **Ability Scores:** Increase one ability score by 2 and another by 1, or increase three ability scores by 1 each. These increases cannot raise any score above 20.
 
 2. **Feat:** A background gives your character a specified Origin feat that best represents a talent your character developed or had while living this portion of their life.
 
-3. **Skill Proficiencies:** Gain proficiency in two skills related to the experiences your character had in their background. If you’re customizing, choose skills that match your character's past activities.
+3. **Skill Proficiencies:** Gain proficiency in two skills related to the experiences your character had in their background.
 
-4. **Tool Proficiency:** Each background gives you proficiency with one tool. This could be a specific tool, or one chosen from the Artisan’s Tools category. When designing a custom background, pick a tool that fits your character’s history.
+4. **Tool Proficiency:** Each background gives you proficiency with one tool. This could be a specific tool, or one chosen from the Artisan’s Tools category.
 
-5. **Equipment:** The equipment that your character starts with. You can either choose any equipment package available to any background from the 2014 PHB, or you start with 500 SP instead to spend on the equipment of your choice; this can be a combination of Weapon, Tools, Clothing, a Bedroll, etc.
+5. **Equipment:** The equipment that your character starts with. You can either choose any equipment package available to any background or you start with 500 SP instead to spend on the equipment of your choice; this can be a combination of Weapon, Tools, Clothing, a Bedroll, etc.
 
 6. **Affiliation:** You have 5 point to spend between 4 [Affiliation](#affiliation); Academe, Bohemia, Establishment, Villainny. Affiliation is what connects your character pasts to their presents.
 
