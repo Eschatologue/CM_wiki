@@ -33,6 +33,8 @@ Not every member of a temple or shrine is a Cleric. Some priests are called to a
 
 ### As a Multiclass Cleric
 
+To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
+
 - Gain the following traits from the Core Cleric Traits table: Hit Point Die and training with Light and Medium armor and Shields.
 - Gain the Cleric's level 1 features, which are listed in the Cleric Features table. See the multiclassing rules in chapter 2 to determine your available spell slots.
 

@@ -34,6 +34,8 @@ Sorcerers are rare. Some family lines produce exactly one Sorcerer in every gene
 
 ### As a Multiclass Character
 
+To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
+
 - Gain the Hit Point Die from the Core Sorcerer Traits table.
 - Gain the Sorcerer’s level 1 features, which are listed in the Sorcerer Features table. See the multiclassing rules in chapter 2 to determine your available spell slots.
 

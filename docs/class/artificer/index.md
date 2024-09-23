@@ -32,6 +32,8 @@ Masters of unlocking magic in everyday objects, artificers are supreme inventors
 
 ### As a Multiclass Artificer
 
+To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
+
 - Gain the following traits from the Core Druid Traits table: Hit Point Die, proficiency with Thieve’s Tools and Tinker’s Tools, and training with Light and Medium armor and Shields.
 - Gain the Artificer’s level 1 features, which are listed in the Artificer Features table. See the Multiclassing rules in Chapter 2 of the Player’s Handbook to determine your available spell slots. You add half your Artificer levels (rounded up) to determine your spell slots, like Paladins and Rangers.
 

@@ -1,5 +1,5 @@
 ---
-icon: material/cards-playing-spade
+icon: material/cards-diamond
 ---
 
 # Origin Feats

@@ -36,6 +36,8 @@ Some Rogues began their careers as criminals, while others used their cunning to
 
 ### As a Multiclass Character
 
+To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
+
 - Gain the following traits from the Core Rogue Traits table: Hit Point Die, proficiency in one skill of your choice from the Rogue's skill list, proficiency with Thieves' Tools, and training with Light armor.
 - Gain the Rogue's level 1 features, which are listed in the Rogue Features table.
 

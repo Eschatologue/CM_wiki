@@ -33,6 +33,8 @@ Once a pact is made, a Warlock’s thirst for knowledge and power can’t be sla
 
 ### As a Multiclass Character
 
+To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
+
 - Gain the following traits from the Core Warlock Traits table: Hit Point Die and training with Light armor.
 - Gain the Warlock’s level 1 features, which are listed in the Warlock Features table. See the multiclassing rules in chapter 2 to determine your available spell slots.
 

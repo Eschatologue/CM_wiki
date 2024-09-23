@@ -33,6 +33,8 @@ Thanks to their connection with nature, Rangers can also cast spells that harnes
 
 ### As a Multiclass Character
 
+To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
+
 - Gain the following traits from the Core Ranger Traits table: Hit Point Die, proficiency with Martial weapons, proficiency in one skill of your choice from the Ranger’s skill list, and training with Light and Medium armor and Shields.
 - Gain the Ranger’s level 1 features, which are listed in the Ranger Features table. See the multiclassing rules in chapter 2 to determine your available spell slots.
 

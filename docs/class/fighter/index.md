@@ -32,6 +32,9 @@ The dungeon delving, monster slaying, and other dangerous work common among adve
 - Gain the Fighter's level 1 features, which are listed in the Fighter Features table.
 
 ### As a Multiclass Fighter
+
+To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
+
 - Gain the following traits from the Core Fighter Traits table: Hit Point Die, proficiency with Martial weapons, and training with Light and Medium armor and Shields.
 - Gain the Fighter's level 1 features, which are listed in the Fighter Features table.
 

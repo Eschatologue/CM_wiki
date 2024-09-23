@@ -29,12 +29,14 @@ Monks generally view their adventures as personal tests of their physical and me
 
 ## Becoming a Monk...
 
-### As a Level 1 Monk
+### As a Level 1 Character
 
 - Gain all the traits in the Core Monk Traits table.
 - Gain the Monk’s level 1 features, which are listed in the Monk Features table.
 
-### As a Multiclass Monk
+### As a Multiclass Character
+
+To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
 
 - Gain the Hit Point Die trait from the Core Monk Traits table.
 - Gain the Monk’s level 1 features, which are listed in the Monk Features table.

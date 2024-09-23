@@ -37,6 +37,8 @@ Adventuring Paladins take their work seriously. A delve into an ancient ruin or 
 
 ### As a Multiclass Character
 
+To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
+
 - Gain the following traits from the Core Paladin Traits table: Hit Point Die, proficiency with Martial Weapons, and training with Light and Medium armour and Shields.
 - Gain the Paladin's level 1 features, which are listed in the Paladin Features table.
 

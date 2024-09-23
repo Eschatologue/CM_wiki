@@ -37,6 +37,8 @@ Not every singer or poet in a tavern or jester in a royal court is a Bard. Harne
 
 ### As a Multiclass Bard
 
+To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
+
 - Gain the following traits from the Core Bard Traits table: Hit Point Die, proficiency in one skill of your choice, proficiency with one Musical Instrument of your choice, and training with Light armor.
 - Gain the Bard’s level 1 features, which are listed in the Bard Features table. See the multiclassing rules in chapter 2 to determine your available spell slots.
 

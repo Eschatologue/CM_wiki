@@ -42,6 +42,8 @@ Druids are often found guarding sacred sites or watching over regions of unspoil
 
 ### As a Multiclass Druid
 
+To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
+
 - Gain the following traits from the Core Druid Traits table: Hit Point Die and training with Light armor and Shields.
 - Gain the Druid’s level 1 features, which are listed in the Druid Features table. See the multiclassing rules in chapter 2 to determine your available spell slots.
 

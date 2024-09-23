@@ -35,6 +35,8 @@ But the lure of knowledge calls even the most unadventurous Wizards from the saf
 
 ### As a Multiclass Character
 
+To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
+
 - Gain the Hit Point Die from the Core Wizard Traits table.
 - Gain the Wizard’s level 1 features, which are listed in the Wizard Features table. See the multiclassing rules in chapter 2 to determine your available spell slots.
 

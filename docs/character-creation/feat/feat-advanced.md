@@ -1,5 +1,5 @@
 ---
-icon: material/cards-playing
+icon: material/cards-playing-diamond-multiple
 ---
 
 # Advanced Feats

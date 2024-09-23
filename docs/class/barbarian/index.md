@@ -33,6 +33,8 @@ Barbarians often serve as protectors and leaders in their communities. They char
 
 ### As a Multiclass Character
 
+To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
+
 - Gain the following traits from the Core Barbarian Traits table: Hit Point Die, proficiency with Martial weapons, and training with Shields.
 - Gain the Barbarian’s level 1 features, which are listed in the Barbarian Features table.
 
