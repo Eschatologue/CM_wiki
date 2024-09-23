@@ -255,9 +255,8 @@
 
 .md-typeset {
   text-justify: auto;
-  font-weight: 300;
+  font-weight: 350;
   font-size: 0.7rem;
-  letter-spacing: 0.015rem;
   /* Headings */
 }
 .md-typeset p {
@@ -271,7 +270,7 @@
   margin-bottom: 0.15rem;
 }
 .md-typeset strong {
-  font-weight: 600;
+  font-weight: 700;
 }
 .md-typeset h1,
 .md-typeset h2,
