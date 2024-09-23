@@ -1,5 +1,5 @@
 // General Typeset
-$headingFont: "Roboto Slab", serif;
+$headingFont:"Jost", sans-serif;
 $defaultFontSize: px2rem(16px);
 $defaultFontWeight: 375;
 
@@ -28,6 +28,7 @@ $defaultFontWeight: 375;
     h1,
     h2,
     h3 {
+        font-family: $headingFont;
         font-variant: small-caps;
     }
 
@@ -37,7 +38,7 @@ $defaultFontWeight: 375;
     }
 
     h1 {
-        $h1Size: $defaultFontSize * 2.5;
+        $h1Size: $defaultFontSize * 2.25;
         font-size: $h1Size;
         letter-spacing: $h1Size * 0.02;
         margin-top: -0.25em;
@@ -46,7 +47,7 @@ $defaultFontWeight: 375;
     }
 
     h2 {
-        $h2Size: $defaultFontSize * 1.8;
+        $h2Size: $defaultFontSize * 1.5;
         font-size: $h2Size;
         letter-spacing: $h2Size * 0.02;
         font-weight: 400;
@@ -56,7 +57,7 @@ $defaultFontWeight: 375;
     }
 
     h3 {
-        $h3Size: $defaultFontSize * 1.5;
+        $h3Size: $defaultFontSize * 1.25;
         font-size: $h3Size;
         letter-spacing: $h3Size * 0.02;
         margin-top: px2rem(12px);
