@@ -180,6 +180,69 @@
   mask-image: var(--md-admonition-icon--homebrew);
 }
 
+.md-typeset {
+  text-justify: auto;
+  font-size: 0.7rem;
+  letter-spacing: 0.042rem;
+}
+.md-typeset p {
+  margin-bottom: 0.45rem;
+  margin-top: 0.225rem;
+}
+.md-typeset ol,
+.md-typeset ul,
+.md-typeset li {
+  margin-top: 0.15rem;
+  margin-bottom: 0.15rem;
+}
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  font-variant: small-caps;
+}
+.md-typeset h4,
+.md-typeset h5 {
+  font-variant: normal;
+}
+.md-typeset h1 {
+  font-size: 1.925rem;
+  margin-top: -0.25em;
+  margin-bottom: 0.4rem;
+  font-weight: 400;
+}
+.md-typeset h2 {
+  font-size: 1.4rem;
+  border-bottom: 0.1rem solid rgba(255, 255, 255, 0.25);
+  padding-bottom: 0.1rem;
+  margin: 0.6rem 0 0.225rem 0;
+}
+.md-typeset h3 {
+  font-size: 1.05rem;
+  margin-top: 0.6rem;
+  margin-bottom: 0.2rem;
+  display: flex;
+}
+.md-typeset h3::after {
+  content: " ";
+  padding-bottom: 0.1rem;
+  border-bottom: 0.1rem solid rgba(255, 255, 255, 0.15);
+  margin: 0 0 0.3rem 0.5rem;
+  flex: 20 0 1rem;
+}
+.md-typeset h4 {
+  font-weight: 550;
+  font-size: 0.725rem;
+  margin-top: 0.4rem;
+  margin-bottom: 0.1rem;
+  text-transform: capitalize !important;
+}
+.md-typeset h5 {
+  text-transform: capitalize;
+  font-size: 0.7rem;
+  font-weight: 450;
+  margin-bottom: -0.2rem;
+}
+
 /* Icons */
 .ich1 {
   font-size: 4.5rem;
@@ -251,69 +314,6 @@
   margin-top: 0.2rem;
   display: table;
   border-color: transparent;
-}
-
-.md-typeset {
-  text-justify: auto;
-  font-size: 0.7rem;
-  letter-spacing: 0.084rem;
-}
-.md-typeset p {
-  margin-bottom: 0.45rem;
-  margin-top: 0.225rem;
-}
-.md-typeset ol,
-.md-typeset ul,
-.md-typeset li {
-  margin-top: 0.15rem;
-  margin-bottom: 0.15rem;
-}
-.md-typeset h1,
-.md-typeset h2,
-.md-typeset h3 {
-  font-variant: small-caps;
-}
-.md-typeset h4,
-.md-typeset h5 {
-  font-variant: normal;
-}
-.md-typeset h1 {
-  font-size: 1.925rem;
-  margin-top: -0.25em;
-  margin-bottom: 0.4rem;
-  font-weight: 400;
-}
-.md-typeset h2 {
-  font-size: 1.4rem;
-  border-bottom: 0.1rem solid rgba(255, 255, 255, 0.25);
-  padding-bottom: 0.1rem;
-  margin: 0.6rem 0 0.225rem 0;
-}
-.md-typeset h3 {
-  font-size: 1.05rem;
-  margin-top: 0.6rem;
-  margin-bottom: 0.2rem;
-  display: flex;
-}
-.md-typeset h3::after {
-  content: " ";
-  padding-bottom: 0.1rem;
-  border-bottom: 0.1rem solid rgba(255, 255, 255, 0.15);
-  margin: 0 0 0.3rem 0.5rem;
-  flex: 20 0 1rem;
-}
-.md-typeset h4 {
-  font-weight: 550;
-  font-size: 0.725rem;
-  margin-top: 0.4rem;
-  margin-bottom: 0.1rem;
-  text-transform: capitalize !important;
-}
-.md-typeset h5 {
-  text-transform: capitalize;
-  font-size: 0.7rem;
-  font-weight: 450;
-  margin-bottom: -0.2rem;
 }
 
 .md-sidebar--primary {
