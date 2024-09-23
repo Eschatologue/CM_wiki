@@ -270,7 +270,7 @@
   margin-bottom: 0.15rem;
 }
 .md-typeset strong {
-  font-weight: 700;
+  font-weight: 650;
 }
 .md-typeset h1,
 .md-typeset h2,
@@ -280,12 +280,6 @@
 .md-typeset h6 {
   font-variant: small-caps;
   letter-spacing: 0.04rem;
-}
-.md-typeset h1,
-.md-typeset h2,
-.md-typeset h3,
-.md-typeset h4 {
-  font-family: "Roboto Slab", serif;
 }
 .md-typeset h1 {
   margin-top: -0.25em;
