@@ -5,7 +5,7 @@ $defaultFontSize: px2rem(14px);
 .md-typeset {
     text-justify: auto;
     font-size: $defaultFontSize;
-    letter-spacing: $defaultFontSize * 0.06;
+    letter-spacing: px2rem(0.3px)
 
     p {
         margin-bottom: px2rem(9px);
