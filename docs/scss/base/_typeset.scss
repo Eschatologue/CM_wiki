@@ -1,7 +1,7 @@
 // General Typeset
 $headingFont: "Roboto Slab", serif;
 $defaultFontSize: px2rem(16px);
-$defaultFontWeight: 350;
+$defaultFontWeight: 375;
 
 .md-typeset {
     text-justify: auto;
@@ -9,7 +9,8 @@ $defaultFontWeight: 350;
     font-size: $defaultFontSize;
 
     strong {
-        font-weight: $defaultFontWeight * 1.5;
+        font-weight: $defaultFontWeight * 1.25;
+        letter-spacing: $defaultFontSize * 0.01;
     }
 
     p {
@@ -36,7 +37,7 @@ $defaultFontWeight: 350;
     }
 
     h1 {
-        $h1Size: $defaultFontSize * 2.75;
+        $h1Size: $defaultFontSize * 2.5;
         font-size: $h1Size;
         letter-spacing: $h1Size * 0.02;
         margin-top: -0.25em;
@@ -45,7 +46,7 @@ $defaultFontWeight: 350;
     }
 
     h2 {
-        $h2Size: $defaultFontSize * 2;
+        $h2Size: $defaultFontSize * 1.8;
         font-size: $h2Size;
         letter-spacing: $h2Size * 0.02;
         font-weight: 400;
