@@ -16,19 +16,19 @@ Your special martial arts training leads you to master the use of certain weapon
 
 You also gain the following benefits:
 
-***Masterful Parry.*** While you are wielding a melee Wuxia Weapon and a creature you can see hits you with a melee attack, you take a Reaction to add your Wisdom modifier (minimum of +1) to your Armor Class against that attack. 
+:   ***Masterful Parry.*** While you are wielding a melee Wuxia Weapon and a creature you can see hits you with a melee attack, you take a Reaction to add your Wisdom modifier (minimum of +1) to your Armor Class against that attack. 
 
-***Masterful Aim.*** As a bonus action on your turn, you can focus your spirit to increase your accuracy, and for the next Wuxia Weapon attack roll you make before the end of your current turn, you can treat a d20 roll of 7 or lower as an 8.
+:   ***Masterful Aim.*** As a bonus action on your turn, you can focus your spirit to increase your accuracy, and for the next Wuxia Weapon attack roll you make before the end of your current turn, you can treat a d20 roll of 7 or lower as an 8.
 
 ### Level 6: One with the Blade
 
 Your focus empowers your Wuxia weapons, granting you the following benefits.
 
-***Deft Strike.*** Once per turn, when you hit a creature with a Wuxia weapon, you can spend 1 Focus Point to deal additional damage equal to a roll of your Martial Arts die.
+:   ***Deft Strike.*** Once per turn, when you hit a creature with a Wuxia weapon, you can spend 1 Focus Point to deal additional damage equal to a roll of your Martial Arts die.
 
-***Magic Wuxia Weapons.*** When you attack with a Wuxia weapon, you can choose to deal the weapon’s damage type or Force damage.
+:   ***Magic Wuxia Weapons.*** When you attack with a Wuxia weapon, you can choose to deal the weapon’s damage type or Force damage.
 
-***Rapid Strikes.*** When you use Flurry of Blows, you can replace your Unarmed Strikes with melee Wuxia Weapon attacks
+:   ***Rapid Strikes.*** When you use Flurry of Blows, you can replace your Unarmed Strikes with melee Wuxia Weapon attacks
 
 ### Level 11: Spirit Blade
 
