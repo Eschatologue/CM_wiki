@@ -36,14 +36,18 @@ $defaultFontWeight: 350;
     }
 
     h1 {
-        font-size: $defaultFontSize * 2.75;
+        $h1Size: $defaultFontSize * 2.75;
+        font-size: $h1Size;
+        letter-spacing: $h1Size * 0.02;
         margin-top: -0.25em;
         margin-bottom: px2rem(8px);
         font-weight: 400;
     }
 
     h2 {
-        font-size: $defaultFontSize * 2;
+        $h2Size: $defaultFontSize * 2;
+        font-size: $h2Size;
+        letter-spacing: $h2Size * 0.02;
         font-weight: 400;
         border-bottom: px2rem(2px) solid rgba(255, 255, 255, 0.25);
         padding-bottom: px2rem(2px);
@@ -51,7 +55,9 @@ $defaultFontWeight: 350;
     }
 
     h3 {
-        font-size: $defaultFontSize * 1.5;
+        $h3Size: $defaultFontSize * 1.5;
+        font-size: $h3Size;
+        letter-spacing: $h3Size * 0.02;
         margin-top: px2rem(12px);
         margin-bottom: px2rem(4px);
         display: flex;
