@@ -183,9 +183,10 @@
 .md-typeset {
   text-justify: auto;
   font-size: 0.7rem;
-  letter-spacing: 0.015rem p;
-  letter-spacing-margin-bottom: 0.45rem;
-  letter-spacing-margin-top: 0.225rem;
+}
+.md-typeset p {
+  margin-bottom: 0.45rem;
+  margin-top: 0.225rem;
 }
 .md-typeset ol,
 .md-typeset ul,
@@ -279,7 +280,7 @@
 }
 
 .md-typeset table:not([class]) th, .md-typeset table:not([class]) td {
-  font-size: 0.56rem;
+  font-size: 0.6rem;
   padding: 0.4375em 0.9375em;
   border-bottom: rgba(255, 255, 255, 0.12);
   background-color: rgba(255, 255, 255, 0.025);
