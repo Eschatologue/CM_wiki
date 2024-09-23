@@ -182,7 +182,11 @@
 
 .md-typeset {
   text-justify: auto;
-  font-size: 0.7rem;
+  font-weight: 350;
+  font-size: 0.8rem;
+}
+.md-typeset strong {
+  font-weight: 525;
 }
 .md-typeset p {
   margin-bottom: 0.45rem;
@@ -204,19 +208,20 @@
   font-variant: normal;
 }
 .md-typeset h1 {
-  font-size: 1.925rem;
+  font-size: 2.2rem;
   margin-top: -0.25em;
   margin-bottom: 0.4rem;
   font-weight: 400;
 }
 .md-typeset h2 {
-  font-size: 1.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
   border-bottom: 0.1rem solid rgba(255, 255, 255, 0.25);
   padding-bottom: 0.1rem;
   margin: 0.6rem 0 0.225rem 0;
 }
 .md-typeset h3 {
-  font-size: 1.05rem;
+  font-size: 1.2rem;
   margin-top: 0.6rem;
   margin-bottom: 0.2rem;
   display: flex;
@@ -229,7 +234,7 @@
   flex: 20 0 1rem;
 }
 .md-typeset h4 {
-  font-weight: 550;
+  font-weight: 612.5;
   font-size: 0.725rem;
   margin-top: 0.4rem;
   margin-bottom: 0.1rem;
@@ -237,7 +242,7 @@
 }
 .md-typeset h5 {
   text-transform: capitalize;
-  font-size: 0.7rem;
+  font-size: 0.8rem;
   font-weight: 450;
   margin-bottom: -0.2rem;
 }
