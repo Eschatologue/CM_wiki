@@ -1,6 +1,10 @@
 // Main Theme
 
 // Nav Bar
+.md-sidebar--primary, .md-sidebar--secondary, .md-header {
+    font-family: $headingFont;
+}
+
 .md-sidebar--primary {
     width: px2rem(220px);
 }
@@ -39,7 +43,6 @@
     // Tabs (Under the tile with Nav)
     .md-tabs {
         color: var(--md-text-color);
-        // This has to be set up manualy
         background-color: var(--md-mod-primary-fg-color-transparent);
 
         &__link--active {

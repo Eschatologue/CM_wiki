@@ -1,5 +1,5 @@
 // General Typeset
-$headingFont:"Jost", sans-serif;
+$headingFont: "Jost", sans-serif;
 $defaultFontSize: px2rem(16px);
 $defaultFontWeight: 375;
 
@@ -9,7 +9,7 @@ $defaultFontWeight: 375;
     font-size: $defaultFontSize;
 
     strong {
-        font-weight: $defaultFontWeight * 1.25;
+        font-weight: $defaultFontWeight * 1.55;
         letter-spacing: $defaultFontSize * 0.01;
     }
 
