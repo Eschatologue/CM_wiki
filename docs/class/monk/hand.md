@@ -1,4 +1,4 @@
-# Monk: Warrior of the Hand
+# Warrior of the Hand
 
 *Master Unarmed Combat Techniques*
 

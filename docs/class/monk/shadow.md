@@ -1,4 +1,4 @@
-# Monk: Warrior of Shadow
+# Warrior of Shadow
 
 *Harness Shadow Power for Stealth and Subterfuge*
 
