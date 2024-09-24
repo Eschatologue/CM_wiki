@@ -184,11 +184,11 @@
 .md-typeset {
   text-justify: auto;
   font-weight: 375;
-  font-size: 0.8rem;
+  font-size: 0.7rem;
 }
 .md-typeset strong {
   font-weight: 581.25;
-  letter-spacing: 0.008rem;
+  letter-spacing: 0.007rem;
 }
 .md-typeset p {
   margin-bottom: 0.45rem;
@@ -202,33 +202,30 @@
 }
 .md-typeset h1,
 .md-typeset h2,
-.md-typeset h3 {
-  font-family: "Jost", sans-serif;
-  font-variant: small-caps;
-}
+.md-typeset h3,
 .md-typeset h4,
 .md-typeset h5 {
   font-family: "Jost", sans-serif;
-  font-variant: normal;
+  font-variant: small-caps;
 }
 .md-typeset h1 {
-  font-size: 1.8rem;
-  letter-spacing: 0.036rem;
+  font-size: 1.575rem;
+  letter-spacing: 0.0315rem;
   margin-top: -0.25em;
   margin-bottom: 0.4rem;
   font-weight: 400;
 }
 .md-typeset h2 {
-  font-size: 1.2rem;
-  letter-spacing: 0.024rem;
+  font-size: 1.05rem;
+  letter-spacing: 0.021rem;
   font-weight: 400;
   border-bottom: 0.1rem solid rgba(255, 255, 255, 0.25);
   padding-bottom: 0.1rem;
   margin: 0.6rem 0 0.225rem 0;
 }
 .md-typeset h3 {
-  font-size: 1rem;
-  letter-spacing: 0.02rem;
+  font-size: 0.875rem;
+  letter-spacing: 0.0175rem;
   margin-top: 0.6rem;
   margin-bottom: 0.2rem;
   display: flex;
@@ -242,14 +239,14 @@
 }
 .md-typeset h4 {
   font-weight: 656.25;
-  font-size: 0.9rem;
+  font-size: 0.7875rem;
   margin-top: 0.4rem;
   margin-bottom: 0.1rem;
   text-transform: capitalize !important;
 }
 .md-typeset h5 {
   text-transform: capitalize;
-  font-size: 0.8rem;
+  font-size: 0.7rem;
   font-weight: 450;
   margin-bottom: -0.2rem;
 }
