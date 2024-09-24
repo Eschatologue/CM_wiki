@@ -1,6 +1,6 @@
 // General Typeset
 $headingFont: "Jost", sans-serif;
-$defaultFontSize: px2rem(16px);
+$defaultFontSize: px2rem(14px);
 $defaultFontWeight: 375;
 
 .md-typeset {
@@ -27,15 +27,11 @@ $defaultFontWeight: 375;
 
     h1,
     h2,
-    h3 {
-        font-family: $headingFont;
-        font-variant: small-caps;
-    }
-
+    h3,
     h4,
     h5 {
         font-family: $headingFont;
-        font-variant: normal;
+        font-variant: small-caps;
     }
 
     h1 {
