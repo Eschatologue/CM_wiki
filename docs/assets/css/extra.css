@@ -208,6 +208,7 @@
 }
 .md-typeset h4,
 .md-typeset h5 {
+  font-family: "Jost", sans-serif;
   font-variant: normal;
 }
 .md-typeset h1 {
@@ -241,7 +242,7 @@
 }
 .md-typeset h4 {
   font-weight: 656.25;
-  font-size: 0.725rem;
+  font-size: 0.9rem;
   margin-top: 0.4rem;
   margin-bottom: 0.1rem;
   text-transform: capitalize !important;
