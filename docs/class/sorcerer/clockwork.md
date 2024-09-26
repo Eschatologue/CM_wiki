@@ -55,6 +55,7 @@ You momentarily summon spirits of order to expunge disorder around you. As an Ma
 ***Heal.*** The spirits restore up to 100 Hit Points, divided as you choose among any number of creatures of your choice in the Cube.
 
 ***Repair.*** Any damaged objects entirely in the Cube are repaired instantly.
+
 ***Dispel.*** Every spell of level 6 or lower ends on creatures and objects of your choice in the Cube.
 
 Once you use this action, you can't use it again until you finish a Long Rest, unless you spend 7 sorcery points to use it again.
