@@ -153,10 +153,10 @@ nav:
     - Mage Group:
       - Sorcerer:
         - class/sorcerer/index.md
-        - Abberant Mind: class/sorcerer/aberrant.md
-        - Clockwork Soul: class/sorcerer/clockwork.md
-        - Draconic Bloodline: class/sorcerer/draconic.md
-        - Wild Magic: class/sorcerer/wild.md
+        - Abberant Sorcery: class/sorcerer/aberrant.md
+        - Clockwork Sorcery: class/sorcerer/clockwork.md
+        - Draconic Sorcery: class/sorcerer/draconic.md
+        - Wild Magic Sorcery: class/sorcerer/wild.md
         - Stone Sorcery (HB): class/sorcerer/stone.md
         - Voidwielder (HB): class/sorcerer/voidwielder.md
       - Warlock:
@@ -181,6 +181,7 @@ nav:
         - Light: class/cleric/light.md
         - Trickery: class/cleric/trickery.md
         - War: class/cleric/war.md
+        - Destruction: class/cleric/destruction.md
       - Druid:
         - class/druid/index.md
         - Land: class/druid/land.md

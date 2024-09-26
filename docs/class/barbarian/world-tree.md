@@ -1,4 +1,4 @@
-# Barbarian: World Tree
+# World Tree
 
 *Trace the Roots and Branches of the World*
 

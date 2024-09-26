@@ -1,4 +1,4 @@
-# Barbarian: Wild Heart
+# Wild Heart
 
 Your attunement with nature and its beasts inspires your rage, empowering you with supernatural might.
 

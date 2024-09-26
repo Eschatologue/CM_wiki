@@ -1,4 +1,4 @@
-# Sorcerous Origin: Stone Sorcery
+# Stone Sorcery
 
 Your magic springs from a mystical link between your soul and the magic of elemental earth. You might trace a distant ancestor to the Plane of Earth, or your family might have earned a mighty boon in return for a service to the dao lords. Whatever your past, the magic of elemental earth is yours to command.
 

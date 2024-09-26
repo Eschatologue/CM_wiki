@@ -1,6 +1,6 @@
 # College of Swords
 
-*Turn Combat Mastery into a Performance*
+> *Turn Combat Mastery into a Performance* - Updated by Spaghetti0
 
 Bards of the College of Swords are called blades, and they entertain through daring feats of weapon prowess. Blades perform stunts such as sword swallowing, knife throwing and juggling, and mock combats. Though they use their weapons to entertain, they are also highly trained and skilled warriors in their own right.
 
