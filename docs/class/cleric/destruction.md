@@ -37,7 +37,7 @@ When you deal Force or Radiant damage to a Large or smaller creature, its walkin
 
 The Destruction has finally acknowledged your existence. You gain the following benefits:
 
-***Resistance.*** You gain resistance to Force and Radiant damage, and you are immune to the Force and Radiant damage from any Cleric spell you cast.
+***Resistance.*** You gain Resistance to Force and Radiant damage, and you are immune to the Force and Radiant damage from any Cleric spell you cast.
 
 ***Expanded Aura.*** The radius of your Accretion Disk aura expands to 15 feet, and the distance you can push or pull creatures using your Gravitational Shift feature increases to 10 feet.
 
