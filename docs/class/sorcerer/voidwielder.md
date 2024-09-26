@@ -42,4 +42,4 @@ When you use Entropic Touch, you can send a total number of objects equal to you
 
 ### Level 18: Ray of Annihilation
 
-The overwhelming power you draw from the Void allows you to unmake creation itself. You can expend one of your Innate Arcanum spell slots to cast disinitgrate at the same spell level of the Innate Arcanum spell slot you choose to expend.
+Your connection to the Void grants you the power to unmake creation itself. You learn the *Disintegrate* spell, and you can cast it without expending a spell slot. When you cast *Disintegrate* this way, it is cast at the level of your highest available spell slot. You can use this feature a number of times equal to your Charisma modifier (minimum of once), and regain all expended uses after a Long Rest.
