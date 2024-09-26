@@ -1,6 +1,6 @@
 # Destruction Domain
 
-> *Bring the World to its Ends* - Written by Eschathologue
+> *Through Destruction, Balance is Restored - Written by Eschathologue*
 
 The Spire of Destruction governs the natural force of entropy that drives the cycle of existence. Destruction is not an act of malice, but a necessary stage in the cosmic balance. It is the counterpart to creation, ensuring that from the ashes of what was, new growth and renewal may arise.
 
@@ -19,15 +19,15 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 ### Level 3: Quasar Jet
 
-Whenever you do damage using a class feature or a Cleric spell that deals Force or Radiant damage, you can choose to change that damage type to the other (Radiant to Force, or Force to Radiant).
+Whenever you do damage using a Cleric class feature or a Cleric spell that deals Force or Radiant damage, you can choose to change that damage type to the other (Radiant to Force, or Force to Radiant).
 
 ### Level 3: Accretion Disk
 
-As a Magic action, you can use your Channel Divinity to create an aura of destructive energy in a 10-foot radius around you for 1 minute. While this aura is active, the following effects occur:
+As a Magic action, you can use your Channel Divinity to create an aura of destructive energy in a 10-foot radius around you for 1 minute, which ends early if you have the Incapacitated condition, or when you choose to end it early (no action required). While this aura is active, the following effects occur:
 
 ***Damage.*** When a creature that you choose enters the aura for the first time on its turn or starts its turn there, it takes Force or Radiant damage (choose each time you take this Magic action) equals to 1d6 + your Cleric level.
 
-***Gravitational Shift.*** You can use your Bonus Action to manipulate the energies within the aura to push or pull creatures. You can choose a number of creatures up to your Wisdom modifier (minimum of one) that are Large or smaller within the aura and either push them up to 5 feet away from you or pull them 5 feet closer to you. This movement does not provoke opportunity attacks. You can do this a number of time equal to your Wisdom modifier. You regain all expended when you finish a Long Rest.
+***Gravitational Shift.*** You can use your Bonus Action to manipulate the energies within the aura to push or pull creatures. You can choose a number of creatures up to your Wisdom modifier (minimum of one) that are Large or smaller within the aura and either push them up to 5 feet away from you or pull them 5 feet closer to you. This movement does not provoke opportunity attacks. You can do this a number of time equal to your Wisdom modifier. You regain all expended use when you finish a Long Rest.
 
 ### Level 6: Distruptive Pulse
 
@@ -41,4 +41,4 @@ The Destruction has finally acknowledged your existence. You gain the following 
 
 ***Expanded Aura.*** The radius of your Accretion Disk aura expands to 15 feet, and the distance you can push or pull creatures using your Gravitational Shift feature increases to 10 feet.
 
-***Gravity’s Domination.*** As a Bonus Action, you can force all creatures of your choice within your aura to make a Strength or Constitution (choose each time) saving throw against your spell save DC, giving them the Prone condition on fail.
+***Gravity’s Domination.*** When you use Gravitational Shift, you can force the affected creatures of your choice to make a Strength or Constitution (choose each time) saving throw against your spell save DC, giving them the Prone condition on fail.
