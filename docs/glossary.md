@@ -1,6 +1,8 @@
 ---
 hide:
-    - nav
+    - navigation
+search:
+  boost: 2
 ---
 
 # Rule Glossary
