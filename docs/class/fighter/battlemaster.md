@@ -1,4 +1,4 @@
-# Fighter Archetype: Battle Master
+# Battle Master
 
 > *As a paragon of tactical superiority, you employ a wide array of combat manoeuvres to dominate every fight.*
 

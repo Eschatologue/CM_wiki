@@ -355,6 +355,10 @@ The types don't have rules themselves, but some rules in the game affect creatur
 
 If you roll a 20 on the d20 for an attack roll, you score a Critical Hit, and the attack hits regardless of any modifiers or the target's AC. A Critical Hit lets you roll extra dice for the attack's damage against the target. Roll all of the attack's damage dice twice and add them together. Then add any relevant modifiers.
 
+#### Homebrew
+
+In Crown & Misery, a critical hit means total damage result is doubled.
+
 ---
 
 ### Cube [Area of Effect]
@@ -753,7 +757,7 @@ If a rule says you can use something a certain number of times per day, that mea
 
 ### Player Character
 
-A player character is a character controlled by a [https://coveryourtracks.eff.org](player).
+A player character is a character controlled by a player
 
 ---
 

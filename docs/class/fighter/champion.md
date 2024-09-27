@@ -1,4 +1,4 @@
-# Fighter Archetype: Champion
+# Champion
 
 > *You approach the complex problems posed by combat with one distinctly effective solution–you hit those problems, really quite hard.*
 

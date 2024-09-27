@@ -1,4 +1,4 @@
-# Fighter Archetype: Eldritch Knight
+# Eldritch Knight
 
 > *You are a warrior of spell and sword, weaving incantations that supplement your extensive martial expertise.*
 
