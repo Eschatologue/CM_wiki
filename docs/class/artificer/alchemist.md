@@ -1,6 +1,6 @@
-# Artificer: Alchemist
+# Alchemist
 
-*Brew and Administer Magical Elixirs*
+> *Brew and Administer Magical Elixirs*
 
 An Alchemist is an expert at combining reagents to produce mystical effects. Alchemists use their creations to give life and to leech it away. Alchemy is the oldest of artificer traditions, and its versatility has long been valued during times of war and peace.
 
@@ -13,12 +13,12 @@ When you adopt this specialization, you gain proficiency with alchemist's suppli
 You always have certain spells prepared after you reach particular levels in this class, as shown in the Alchemist Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.
 
 | Artificer Level | Alchemist Spells |
-|:-:|:-:|
-| 3rd | Healing Word, Ray of Sickness |
-| 5th | Flaming Sphere, Melf's Acid Arrow |
-| 9th | Gaseous Form, Mass Healing Word |
-| 13th | Blight, Death Ward|
-| 17th | Cloudkill, Raise Dead |
+|:-:|:--|
+| 3 | *Healing Word*, *Ray of Sickness* |
+| 5 | *Flaming Sphere*, *Melf's Acid Arrow* |
+| 9 | *Gaseous Form*, *Mass Healing Word* |
+| 13 | *Blight*, *Death Ward* |
+| 17 | *Cloudkill*, *Raise Dead* |
 
 ### Level 3: Experimental Elixir
 

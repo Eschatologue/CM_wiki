@@ -1,5 +1,7 @@
 # Path of the Zealot
 
+> *Rage in Ecstatic Union with a God*
+
 For Barbarians who walk the Path of the Zealot, their Rage is not merely a connection to nature; it is a gift from a god. These Barbarians often experience their Rage as an ecstatic experience of union with their gods, infusing them with divine power to pursue the gods' purposes in the world.
 
 ### Level 3: Divine Fury

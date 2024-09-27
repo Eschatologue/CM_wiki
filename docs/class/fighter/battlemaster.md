@@ -7,16 +7,20 @@ Battle Masters are students of the art of battle, learning martial techniques pa
 ### Level 3: Combat Superiority
 Your experience on the battlefield has honed your fighting techniques. You learn Manoeuvre that are fueled by special dice called Superiority Dice.
 
-**Manoeuvre**  
+#### Manoeuvre
+
 You learn three different Manoeuvre of your choice from the “[Manoeuvre Options](../../character-creation/option/manoeuvre.md)” section. Many Manoeuvre enhance an attack in some way. You can use only one Manoeuvre per attack.
 
 You learn two additional Manoeuvre of your choice when you reach Fighter level 7, 10, and 15. Each time you learn new Manoeuvre, you can also replace one Manoeuvre you know with a different one.
 
-**Superiority Dice**  
-You have four Superiority Dice, which are :die-d8: d8s. A Superiority Die is expended when you use it. You regain all expended Superiority Dice when you finish a Short Rest or Long Rest.
-You gain an additional Superiority Die when you reach Fighter level 7 (five dice total) and 15 (six dice total).
+#### Superiority Dice
 
-**Saving Throws**  
+You have four Superiority Dice, which are :die-d8: d8s. A Superiority Die is expended when you use it. You regain all expended Superiority Dice when you finish a Short Rest or Long Rest.
+
+You gain an additional Superiority Die when you reach Fighter level 7 (five dice total) and 15 (six dice total)
+
+#### Saving Throws
+
 If a Manoeuvre requires a saving throw, the DC equals 8 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice).
  
 ### Level 3: Student Of War

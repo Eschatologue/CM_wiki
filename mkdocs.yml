@@ -129,6 +129,7 @@ nav:
         - Armourer: class/artificer/armourer.md
         - Artilerist: class/artificer/artilerist.md
         - Battlesmith: class/artificer/battlesmith.md
+        - Gunslinger (HB): class/artificer/gunslinger.md
       - Bard: 
         - class/bard/index.md
         - Dance: class/bard/dance.md
@@ -202,6 +203,8 @@ nav:
         - Wild Heart: class/barbarian/wild-heart.md
         - World Tree: class/barbarian/world-tree.md
         - Zealot: class/barbarian/zealot.md
+        - Giant (HB): class/barbarian/giant.md
+        - Tranquillity (HB): class/barbarian/tranquillity.md
       - Fighter:
         - class/fighter/index.md
         - Battlemaster: class/fighter/battlemaster.md

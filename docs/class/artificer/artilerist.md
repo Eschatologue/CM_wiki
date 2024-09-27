@@ -1,6 +1,6 @@
-# Artificer: Artilerist
+# Artilerist Specialisation
 
-*Blow Enemies Away with Magical Artillery*
+> *Blow Enemies Away with Magical Artillery*
 
 An Artillerist specializes in using magic to hurl energy, projectiles, and explosions on a battlefield. This destructive power is valued by armies in the wars on many different worlds. And when war passes, some members of this specialization seek to build a more peaceful world by using their powers to fight the resurgence of strife.
 
@@ -14,12 +14,12 @@ Your experimentation with explosive magic ensures you always have certain spells
 
 ##### Artilerist Spells
 | Artificer Level | Artillerist Spells |
-|:-:|:-:|
-| 3rd | [Shield], [Thunderwave] |
-| 5th | [Scorching Ray], [Shatter] |
-| 9th | [Fireball], [Wind Wall] |
-| 13th | [Ice Storm], [Wall of Fire] |
-| 17th | [Cone of Cold], [Wall of Force] |
+|:-:|:--|
+| 3 | *Shield*, *Thunderwave* |
+| 5 | *Scorching Ray*, *Shatter* |
+| 9 | *Fireball*, *Wind Wall* |
+| 13 | *Ice Storm*, *Wall of Fire* |
+| 17 | *Cone of Cold*, *Wall of Force* |
 
 ### Level 3: Eldritch Cannon
 

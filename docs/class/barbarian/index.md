@@ -88,7 +88,7 @@ While active, your Rage follows the rules below.
 - Make an attack roll against an enemy.
 - Force an enemy to make a saving throw.
 - Take a Bonus Action to extend your Rage.
-- 
+
 Each time the Rage is extended, it lasts until the end of your next turn. You can maintain a Rage for up to 10 minutes.
 
 ### Level 1: Unarmoured Defence

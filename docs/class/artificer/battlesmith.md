@@ -1,6 +1,6 @@
-# Artificer: Battlesmith
+# Battlesmith Specialisation
 
-*Arm and Protect your Allies with a Mechanical Companion*
+> *Arm and Protect your Allies with a Mechanical Companion*
 
 Armies require protection, and someone has to put things back together if defenses fail. A combination  of protector and medic, a Battle Smith is an expert at defending others and repairing both material and personnel. To aid in their work, Battle Smiths are usually accompanied by a steel defender, a protective companion of their own creation. Many soldiers tell stories of nearly dying before being saved by a Battle Smith and a steel defender.
 
@@ -17,19 +17,12 @@ Your combat training as a Battle Smith ensures you always have certain spells re
 ##### Battle Smith Spells
 
 | Artificer Level | Battle Smith Spells |
-| :-: | --- |
-| 3 | Heroism, Shield |
-| 5 | Branding Smite, Warding Bond |
-| 9 | Aura of Vitality, Conjure Barrage |
-| 13 | Aura of Purity, Fire Shield |
-| 17 | Banishing Smite, Mass Cure Wounds |
-
-### Level 3: Battle Ready
-
-Your combat training and your experiments with magic have paid off in two ways:
-
-- You gain proficiency with martial weapons.
-- When you attack with a magic weapon, you can use your Intelligence modifier, instead of Strength or Dexterity modifier, for the attack and damage rolls.
+|:-:|:--|
+| 3 | *Heroism*, *Shield* |
+| 5 | *Aid*, *Warding Bond* |
+| 9 | *Aura of Vitality*, *Elemental Weapon* |
+| 13 | *Aura of Purity*, *Fire Shield* |
+| 17 | *Animate Objects*, *Mass Cure Wounds* |
 
 ### Level 3: Steel Defender
 
@@ -69,38 +62,35 @@ Your Arcane Jolt and steel defender become more powerful:
 
 ***Forceful Deflect.*** Whenever your Steel Defender uses its Deflect Attack, the attacker takes Force damage equal to 1d4 + your Intelligence modifier.
 
-## Steel Defender Stat
+### Steel Defender
 
-| Steel Defender | |
-| --- | --- |
-| **Size & Type** | Medium construct |
-| **Armor Class** | 15 (natural armor) |
-| **Hit Point**s | 2 + your Intelligence modifier + 5 times your artificer level |
-| **Speed**: | 40 ft. |
+*Medium Construct*
 
-| STR | DEX | CON | INT | WIS | CHA |
+- **Armor Class** 15 (natural armor)
+- **Hit Points** 2 + your Intelligence modifier + five times your artificer level (the defender has a number of Hit Dice [d8s] equal to your artificer level)
+- **Speed** 40 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 14 (+2) | 12 (+1) | 14 (+2) | 4 (−3) | 10 (+0) | 6 (−2) |
+|14 (+2)|12 (+1)|14 (+2)|4 (-3)|10 (+0)|6 (-2)|
 
-- **Saving Throws:** Dex +1 plus PB, Con +2 plus PB
+- **Saving Throws** Dex +1 plus PB, Con +2 plus PB
+- **Skills** Athletics +2 plus PB, Perception +0 plus PB × 2
+- **Damage Immunities** poison
+- **Condition Immunities** charmed, exhaustion, poisoned
+- **Senses** Darkvision 60 ft., passive Perception 10 + (PB × 2)
+- **Languages** Understands the languages you speak
+- **Challenge** —
+- **Proficiency Bonus** equals your bonus
 
-- **Skills:** Athletics +2 plus PB, Perception +0 plus PB x 2
-- **Damage Immunities:** poison
-- **Condition Immunities:** charmed, exhaustion, poisoned
-- **Senses:** darkvision 60 ft., passive Perception 10 + (PB x 2)
-- **Languages:** understands the languages you speak
-- **Prof. Bonus:** equals your bonus
+***Vigilant.*** The defender can't be surprised.  
 
-#### Traits
+#### Actions (Requires Your Bonus Action)
 
-**Vigilant.** The defender can't be surprised.
+***Force-Empowered Rend.*** *Melee Weapon Attack:*  your spell attack modifier to hit, reach 5 ft., one target you can see. *Hit:* 1d8 + PB force damage.  
 
-#### Actions
-
-**Force-Empowered Rend.** *Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target you can see. Hit: 1d8 + PB force damage. 
-
-**Repair.** You expend one Ingenuity Point and the Defender restores 2d8 + your Intelligence modifier Hit Points (minimum 1 Hit Point) to itself or to one Construct or object within 5 feet of it.
+***Repair (3/Day).*** The magical mechanisms inside the defender restore 2d8 + PB hit points to itself or to one construct or object within 5 feet of it.  
 
 #### Reactions
 
-**Deflect Attack.** The defender imposes disadvantage on the attack roll of one creature it can see that is within 5 feet of it, provided the attack roll is against a creature other than the defender.
+***Deflect Attack.*** The defender imposes disadvantage on the attack roll of one creature it can see that is within 5 feet of it, provided the attack roll is against a creature other than the defender.

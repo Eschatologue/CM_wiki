@@ -1,6 +1,6 @@
-# Artificer: Armourer
+# Armourer Specialisation
 
-*Don Magical and Customisable Armour*
+> *Don Magical and Customisable Armour*
 
 An artificer who specializes as an Armourer modifies armour to function almost like a second skin. The armour is enhanced to hone the Artificer’s magic, unleash potent attacks, and generate a formidable defense. The Artificer bonds with this armour, becoming one with it even as they experiment with it and refine its magical capabilities.
 
@@ -15,12 +15,12 @@ Your tinkering with Arcane Armour ensures you always have certain spells ready. 
 ##### Armourer Spells
 
 | Artificer Level | Armourer Spells |
-|:-:|:-:|
-| 3rd | Magic Missile, Thunderwave |
-| 5th | Mirror Image, Shatter |
-| 9th | Hypnotic Pattern, Lightning Bolt |
-| 13th | Fire Shield, Greater Invisibility |
-| 17th | Passwall, Wall of Force |
+|:-:|:--|
+| 3 | *Magic Missile*, *Thunderwave* |
+| 5 | *Mirror Image*, *Shatter* |
+| 9 | *Hypnotic Pattern*, *Lightning Bolt* |
+| 13 | *Fire Shield*, *Greater Invisibility* |
+| 17 | *Passwall*, *Wall of Force* |
 
 ### Level 3: Arcane Armour
 
@@ -44,7 +44,8 @@ You can customize your Arcane Armour. When you do so, choose one of the followin
 
 ***Changing the Model.*** You can change the armour’s model whenever you finish a Short or Long Rest, provided you have Smith’s Tools in hand.
 
-**Guardian**  
+#### Guardian
+
 You design your armour to be in the front line of conflict. It has the following features:
 
 - ***Thunder Gauntlets.*** Each of the armour’s gauntlets counts as a Simple Melee weapon while you aren’t holding anything in it, and it deals 1d8 Thunder damage on a hit. The gauntlets have the Push Mastery property.
@@ -53,7 +54,8 @@ You design your armour to be in the front line of conflict. It has the following
 
 - ***Defensive Field.*** As a Bonus Action, you can expend one Ingenuity Point to gain Temporary Hit Points equal to your level in this class. You lose these Temporary Hit Points if you doff the armour.
 
-**Infiltrator**  
+#### Infiltrator
+
 You customize your armour for subtle undertakings. It has the following features:
 
 - ***Lightning Launcher***. A gemlike node appears on one of your armoured fists or on the chest (your choice). It counts as a Simple Ranged weapon, with a normal range of 90 feet and a long range of 300 feet, and it deals 1d6 Lightning damage on a hit. The Lightning Launcher has the Vex Mastery property.

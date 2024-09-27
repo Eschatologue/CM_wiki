@@ -25,12 +25,12 @@ Masters of unlocking magic in everyday objects, artificers are supreme inventors
 
 ## Becoming a Artificer...
 
-### As a Level 1 Artificer
+### As a Level 1 Character
 
 - Gain all the traits in the Core Artificer Traits table.
 - Gain the Artificer's level 1 features, which are listed in the Artificer Features table.
 
-### As a Multiclass Artificer
+### As a Multiclass Character
 
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
 
@@ -48,19 +48,19 @@ As a Artificer, you gain the following class features when you reach the specifi
 | 1 | +2 | Spellcasting, Arcane Tinkerer, Artificer’s Ingenuity | 2 | - | 2 | 2 | 2 | - | - | - | - |
 | 2 | +2 | Infuse Item, Tinkerer’s Talent | 2 | 4 (2) | 2 | 3 | 2 | - | - | - | - |
 | 3 | +2 | Artificer Subclass, Right Tool for the Job | 4 | 4 (2) | 2 | 4 | 3 | - | - | - | - |
-| 4 | +2 | Ability Score Improvement| 4 | 4 (2) | 2 | 5 | 3 | - | - | - | - |
+| 4 | +2 | Ability Score Improvement | 4 | 4 (2) | 2 | 5 | 3 | - | - | - | - |
 | 5 | +3 | Honed Talent | 4 | 4 (2) | 2 | 6 | 4 | 2 | - | - | - |
 | 6 | +3 | Subclass Feature, Tool Expertise | 6 | 6 (3) | 2 | 6 | 4 | 2 | - | - | - |
 | 7 | +3 | Flash of Genius Improvement | 6 | 6 (3) | 2 | 7 | 4 | 3 | - | - | - |
-| 8 | +3 | Ability Score Improvement| 6 | 6 (3) | 2 | 7 | 4 | 3 | - | - | - |
+| 8 | +3 | Ability Score Improvement | 6 | 6 (3) | 2 | 7 | 4 | 3 | - | - | - |
 | 9 | +4 | Subclass Feature | 8 | 6 (3) | 2 | 8 | 4 | 3 | 2 | - | - |
 | 10 | +4 | Magic Item Adept, Tinkerer’s Talent Improvement | 8 | 8 (4) | 3 | 8 | 4 | 3 | 2 | - | - |
 | 11 | +4 | Spell Storing Item | 8 | 8 (4) | 3 | 10 | 4 | 3 | 3 | - | - |
-| 12 | +4 | Ability Score Improvement| 10 | 8 (4) | 3 | 10 | 4 | 3 | 3 | - | - |
+| 12 | +4 | Ability Score Improvement | 10 | 8 (4) | 3 | 10 | 4 | 3 | 3 | - | - |
 | 13 | +5 | Artisan’s Knack | 10 | 8 (4) | 3 | 11 | 4 | 3 | 3 | 1 | - |
 | 14 | +5 | Magic Item Savant | 10 | 10 (5) | 4 | 11 | 4 | 3 | 3 | 1 | - |
 | 15 | +5 | Subclass Feature | 11 | 10 (5) | 4 | 12 | 4 | 3 | 3 | 2 | - |
-| 16 | +5 | Ability Score Improvement| 11 | 10 (5) | 4 | 12 | 4 | 3 | 3 | 2 | - |
+| 16 | +5 | Ability Score Improvement | 11 | 10 (5) | 4 | 12 | 4 | 3 | 3 | 2 | - |
 | 17 | +6 | Synergistic Infusions | 11 | 10 (5) | 4 | 14 | 4 | 3 | 3 | 3 | 1 |
 | 18 | +6 | Magic Item Master | 12 | 12 (6) | 4 | 14 | 4 | 3 | 3 | 3 | 1 |
 | 19 | +6 | Epic Boon | 12 | 12 (6) | 4 | 15 | 4 | 3 | 3 | 3 | 2 |
@@ -70,31 +70,43 @@ As a Artificer, you gain the following class features when you reach the specifi
 
 You’ve studied the workings of magic and how to cast spells, channeling the magic through objects. To observers, you don’t appear to be casting spells in a conventional way; you appear to produce wonders from mundane items and outlandish inventions. See chapter 7 of the Player’s Handbook for the rules on spellcasting. The information below details how you use those rules with Artificer spells, which appear in the Artificer spell list later in this class's description.
 
-***Cantrips.*** You know two cantrips of your choice from the Artificer spell list. Fire Bolt and Mending are recommended.
+#### Cantrips 
+
+You know two cantrips of your choice from the Artificer spell list. Fire Bolt and Mending are recommended.
 
 Whenever you gain an Artificer level, you can replace one of your cantrips with another cantrip of your choice from the Artificer spell list.
 
 When you reach Artificer levels 10 and 14, you learn another cantrip of your choice from the Artificer spell list, as shown in the Cantrips column of the Artificer Features table.
 
-***Spell Slots***. The Artificer Features table shows how many spell slots you have to cast your level 1 spells. You regain all expended slots when you finish a Long Rest.
+#### Spell Slots
 
-***Prepared Spells of Level 1+.*** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Artificer spells. Faerie Fire and Identify are recommended.
+The Artificer Features table shows how many spell slots you have to cast your level 1 spells. You regain all expended slots when you finish a Long Rest.
+
+#### Prepared Spells of Level 1+
+
+You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Artificer spells. Faerie Fire and Identify are recommended.
 
 The number of spells on your list increases as you gain Artificer levels, as shown in the Prepared Spells column of the Artificer Features table. Whenever that number increases, choose additional Artificer spells until the number of spells on your list matches the number in the Artificer Features table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 5 Artificer, your list of prepared spells can include six Artificer spells of level 1 or 2 in any combination.
 
 If another Artificer feature gives you spells that you may always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Artificer spells for you.
 
-***Changing Your Prepared Spells.*** Whenever you finish a Long Rest, you can replace one spell on your list with another Artificer spell for which you have spell slots.
+#### Changing Your Prepared Spells
 
-***Spellcasting Ability.*** Intelligence is your spellcasting ability for your Artificer spells.
+Whenever you finish a Long Rest, you can replace one spell on your list with another Artificer spell for which you have spell slots.
 
-***Tools Required.*** You produce your Artificer spell effects through your tools. You must have a spellcasting focus—specifically Thieves’ Tools or some kind of Artisan’s Tool—in hand when you cast any spell with this Spellcasting feature (meaning the spell has an ‘M’ component when you cast it). You must be proficient with the tool to use it in this way. See chapter 6, “Equipment,” in the Player’s Handbook for descriptions of these tools.
+#### Spellcasting Ability
+
+Intelligence is your spellcasting ability for your Artificer spells.
+
+#### Tools Required
+
+You produce your Artificer spell effects through your tools. You must have a spellcasting focus—specifically Thieves’ Tools or some kind of Artisan’s Tool—in hand when you cast any spell with this Spellcasting feature (meaning the spell has an ‘M’ component when you cast it). You must be proficient with the tool to use it in this way. See chapter 6, “Equipment,” in the Player’s Handbook for descriptions of these tools.
 
 After you gain the Infuse Item feature at level 2, you can also use any item bearing one of your infusions as a spellcasting focus.
 
 ### Level 1: Arcane Tinkerer
 
-Your knack for tinkering has taught you to store minor magical effects in mundane objects. You know the *Magical Tinkering* cantrip, which doesn’t count against the number of cantrips you know.
+Your knack for tinkering has taught you to store minor magical effects in mundane objects. You know the *[Magical Tinkering](../../spells/description/m.md#magical-tinkering)* cantrip, which doesn’t count against the number of cantrips you know.
 
 Further, whenever you make an ability check with Tinker’s Tools, you can use your Intelligence as the ability, instead of Dexterity.
 
@@ -107,19 +119,28 @@ Your prowess with tinkering and technology has provided you with a knack for sol
 ***Flash of Genius.*** When you or a creature within 30 feet of you fails an ability check, you can use your Reaction to expend one Ingenuity Point and add your Intelligence modifier to the roll, potentially turning it into a success.
 
 ### Level 2: Tinkerer’s Talent
+
 You have developed means of protecting yourself in a fight. Select one of the following two Talents:
 
-***Weaponsmith.*** You prefer to use equipment to protect yourself.
+#### Weaponsmith
+ 
+You prefer to use equipment to protect yourself.
 
-:   ***Extra Proficiencies.*** You have proficiency with Martial weapons.
-:   ***Intelligent Attacks.*** When you make an attack with a magic weapon with which you have proficiency, you can choose to use your Intelligence modifier for the attack and damage rolls, instead of Strength or Dexterity.
-:   ***Weapon Mastery.*** Whenever you finish a Long Rest, you can touch a weapon with which you have proficiency. Until you next finish a Long Rest, you can use the Mastery property of that weapon. Starting at level 10, you can touch two weapons when you finish a Long Rest and gain their Mastery Properties, instead of one.
+- ***Extra Proficiencies.*** You have proficiency with Martial weapons.
 
-***Arcanosmith.*** You favor focussing on your spellcasting to protect you.
+- ***Intelligent Attacks.*** When you make an attack with a magic weapon with which you have proficiency, you can choose to use your Intelligence modifier for the attack and damage rolls, instead of Strength or Dexterity.
 
-:   ***Extra Proficiency.*** Your devotion to learning arcane magic grants you proficiency with the Arcana skill. If you already have this proficiency, you instead gain Expertise.
-:   ***Extra Cantrip.*** You know one extra cantrip from the Artificer spell list. You gain another extra Artificer cantrip of your choice at level 10.
-:   ***Spell Recovery.*** Whenever you finish a Short Rest, you can regain one expended spell slot of your choice. The level of the spell slot cannot exceed your highest spell slot level as shown on the Artificer Features table, even if you are a multiclassed character.
+- ***Weapon Mastery.*** Whenever you finish a Long Rest, you can touch a weapon with which you have proficiency. Until you next finish a Long Rest, you can use the Mastery property of that weapon. Starting at level 10, you can touch two weapons when you finish a Long Rest and gain their Mastery Properties, instead of one.
+
+#### Arcanosmith
+
+You favor focussing on your spellcasting to protect you.
+
+- ***Extra Proficiency.*** Your devotion to learning arcane magic grants you proficiency with the Arcana skill. If you already have this proficiency, you instead gain Expertise.
+
+- ***Extra Cantrip.*** You know one extra cantrip from the Artificer spell list. You gain another extra Artificer cantrip of your choice at level 10.
+
+- ***Spell Recovery.*** Whenever you finish a Short Rest, you can regain one expended spell slot of your choice. The level of the spell slot cannot exceed your highest spell slot level as shown on the Artificer Features table, even if you are a multiclassed character.
 
 !!! Note "Flavoring Weapon Mastery"
 
@@ -129,11 +150,15 @@ You have developed means of protecting yourself in a fight. Select one of the fo
 
 You gain the ability to imbue mundane items with certain magical infusions. The magic items you create with this feature are effectively prototypes of permanent items.
 
-Infusions Known. When you gain this feature, pick four Infusions to learn, choosing from the “[Artificer Infusions](../../character-creation/option/artificer-infusion.md)”. You learn additional Infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the Artificer Features table.
+#### Infusions Known
+
+When you gain this feature, pick four Infusions to learn, choosing from the “[Artificer Infusions](../../character-creation/option/artificer-infusion.md)”. You learn additional Infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the Artificer Features table.
 
 Whenever you gain a level in this class, you can replace one of the Infusions you learned with a new one.
 
-***Infusing an Item.*** Whenever you finish a Long Rest, you can touch a non-magical object and imbue it with one of your Infusions, turning it into a magic item. An Infusion works on only certain kinds of objects, as specified in the infusion’s description. If the item requires attunement, you can attune yourself to it the instant you infuse the item. If you decide to attune to the item later, you must do so using the normal process for attunement (see “Attunement” in chapter 7 of the Dungeon Master’s Guide).
+#### Infusing an Item
+
+Whenever you finish a Long Rest, you can touch a non-magical object and imbue it with one of your Infusions, turning it into a magic item. An Infusion works on only certain kinds of objects, as specified in the infusion’s description. If the item requires attunement, you can attune yourself to it the instant you infuse the item. If you decide to attune to the item later, you must do so using the normal process for attunement.
 
 Your Infusion remains in an item indefinitely, but when you die, the Infusion vanishes after a number of days have passed equal to your Intelligence modifier (minimum of 1 day). The Infusion also vanishes if you give up your knowledge of the Infusion for another one.
 
@@ -175,7 +200,7 @@ You have achieved a profound understanding of how to use and make magic items:
 
 ***Four Attunements.*** You can attune to up to four magic items at once.
 
-***Quick Craft***. If you craft a magic item with a rarity of common or uncommon, it takes you a quarter of the normal time, and it costs you half as much of the usual gold.
+***Quick Craft.*** If you craft a magic item with a rarity of common or uncommon, it takes you a quarter of the normal time, and it costs you half as much of the usual gold.
 
 ### Level 11: Spell Storing Item
 
@@ -231,152 +256,152 @@ You have developed a mystical connection to your magic items, which you can draw
 
 | Spell | School | Components |
 |---|---|:-:|
-| **Acid Splash** | Conjuration | V, S |
-| **Blade Ward** | Abjuration | V, S |
-| **Booming Blade** | Evocation | V, S, M |
-| **Create Bonfire** | Conjuration | VS |
-| **Dancing Lights** | Evocation | V, S, M |
-| **Fire Bolt** | Evocation | V, S |
-| **Frostbite** | Evocation | V, S |
-| **Green Flame Blade** | Evocation | S, M |
-| **Guidance** | Divination | V, S |
-| **Light** | Evocation | V, M |
-| **Lightning Lure** | Evocation | V |
-| **Mage Hand** | Conjuration | V, S |
-| **Magical Tinkering** | Transmutation | S, M |
-| **Magic Stone** | Transmutation | V, S |
-| **Mending** | Transmutation | V, S, M |
-| **Message** | Transmutation | V, S, M |
-| **Poison Spray** | Conjuration | V, S |
-| **Prestidigitation** | Transmutation | V, S |
-| **Ray of Frost** | Evocation | V, S |
-| **Resistance** | Abjuration | V, S, M |
-| **Shocking Grasp** | Evocation | V, S |
-| **Spare the Dying** | Necromancy | V, S |
-| **Sword Burst** | Conjuration | V |
-| **Thaumaturgy** | Transmutation | V |
-| **Thorn Whip** | Transmutation | V, S, M |
-| **Thunderclap** | Evocation | S |
-| **True Strike** | Divination | S |
+| *Acid Splash* | Conjuration | V, S |
+| *Blade Ward* | Abjuration | V, S |
+| *Booming Blade* | Evocation | V, S, M |
+| *Create Bonfire* | Conjuration | VS |
+| *Dancing Lights* | Evocation | V, S, M |
+| *Fire Bolt* | Evocation | V, S |
+| *Frostbite* | Evocation | V, S |
+| *Green Flame Blade* | Evocation | S, M |
+| *Guidance* | Divination | V, S |
+| *Light* | Evocation | V, M |
+| *Lightning Lure* | Evocation | V |
+| *Mage Hand* | Conjuration | V, S |
+| *Magical Tinkering* | Transmutation | S, M |
+| *Magic Stone* | Transmutation | V, S |
+| *Mending* | Transmutation | V, S, M |
+| *Message* | Transmutation | V, S, M |
+| *Poison Spray* | Conjuration | V, S |
+| *Prestidigitation* | Transmutation | V, S |
+| *Ray of Frost* | Evocation | V, S |
+| *Resistance* | Abjuration | V, S, M |
+| *Shocking Grasp* | Evocation | V, S |
+| *Spare the Dying* | Necromancy | V, S |
+| *Sword Burst* | Conjuration | V |
+| *Thaumaturgy* | Transmutation | V |
+| *Thorn Whip* | Transmutation | V, S, M |
+| *Thunderclap* | Evocation | S |
+| *True Strike* | Divination | S |
 
 ##### Level 1 Artificer Spells
 
 | Spell | School | Components |
 |---|---|:-:|
-| **Absorb Elements** | Abjuration | S |
-| **Alarm** | Abjuration | V, S, M |
-| **Burning Hands** | Evocation | V, S |
-| **Catapult** | Transmutation | S |
-| **Chromatic Orb** | Evocation | V, S |
-| **Color Spray** | Illusion | V, S, M |
-| **Cure Wounds** | Evocation | V, S |
-| **Detect Magic** | Divination | V, S |
-| **Detect Poison and Disease** | Divination | V, S, M |
-| **Disguise Self** | Illusion | V, S |
-| **Expeditious Retreat** | Transmutation | V, S |
-| **Faerie Fire** | Evocation | V |
-| **False Life** | Necromancy | V, S, M |
-| **Feather Fall** | Transmutation | V, M |
-| **Fog Cloud** | Conjuration | V, S |
-| **Grease** | Conjuration | V, S, M |
-| **Identify** | Divination | V, S, M |
-| **Illusory Script** | Illusion | S, M |
-| **Jump** | Transmutation | V, S, M |
-| **Longstrider** | Transmutation | V, S, M |
-| **Magic Missile** | Evocation | V, S |
-| **Purify Food and Drink** | Transmutation | V, S |
-| **Sanctuary** | Abjuration | V, S, M |
-| **Snare** | Abjuration | S, M |
-| **Thunderwave** | Evocation | V, S |
-| **Tasha’s Caustic Brew** | Evocation | V, S, M |
+| *Absorb Elements* | Abjuration | S |
+| *Alarm* | Abjuration | V, S, M |
+| *Burning Hands* | Evocation | V, S |
+| *Catapult* | Transmutation | S |
+| *Chromatic Orb* | Evocation | V, S |
+| *Color Spray* | Illusion | V, S, M |
+| *Cure Wounds* | Evocation | V, S |
+| *Detect Magic* | Divination | V, S |
+| *Detect Poison and Disease* | Divination | V, S, M |
+| *Disguise Self* | Illusion | V, S |
+| *Expeditious Retreat* | Transmutation | V, S |
+| *Faerie Fire* | Evocation | V |
+| *False Life* | Necromancy | V, S, M |
+| *Feather Fall* | Transmutation | V, M |
+| *Fog Cloud* | Conjuration | V, S |
+| *Grease* | Conjuration | V, S, M |
+| *Identify* | Divination | V, S, M |
+| *Illusory Script* | Illusion | S, M |
+| *Jump* | Transmutation | V, S, M |
+| *Longstrider* | Transmutation | V, S, M |
+| *Magic Missile* | Evocation | V, S |
+| *Purify Food and Drink* | Transmutation | V, S |
+| *Sanctuary* | Abjuration | V, S, M |
+| *Snare* | Abjuration | S, M |
+| *Thunderwave* | Evocation | V, S |
+| *Tasha’s Caustic Brew* | Evocation | V, S, M |
 
 ##### Level 2 Artificer Spells
 
 | Spell | School | Components |
 |---|---|---|
-| **Aid** | Abjuration | V, S, M |
-| **Alter Self** | Transmutation | V, S |
-| **Arcane Lock** | Abjuration | V, S, M |
-| **Blindness/Deafness** | Necromancy | V |
-| **Blur** | Illusion | V |
-| **Cloud of Daggers** | Conjuration | V, S, M |
-| **Continual Flame** | Evocation | V, S, M |
-| **Darkvision** | Transmutation | V, S, M |
-| **Enhance Ability** | Transmutation | V, S, M |
-| **Enlarge/Reduce** | Transmutation | V, S, M |
-| **Heat Metal** | Transmutation | V, S, M |
-| **Invisibility** | Illusion | V, S, M |
-| **Knock** | Transmutation | V |
-| **Lesser Restoration** | Abjuration | V, S |
-| **Levitate** | Transmutation | V, S, M |
-| **Locate Object** | Divination | V, S, M |
-| **Magic Mouth** | Illusion | V, S, M |
-| **Magic Weapon** | Transmutation | V, S |
-| **Protect from Poison** | Abjuration | V, S |
-| **Pyrotechnics** | Transmutation | V, S |
-| **Rope Trick** | Transmutation | V, S, M |
-| **See Invisibility** | Divination | V, S, M |
-| **Shatter** | Evocation | V, S, M |
-| **Skywrite** | Transmutation | V, S |
-| **Spider Climb** | Transmutation | V, S, M |
-| **Web** | Conjuration | V, S, M |
+| *Aid* | Abjuration | V, S, M |
+| *Alter Self* | Transmutation | V, S |
+| *Arcane Lock* | Abjuration | V, S, M |
+| *Blindness/Deafness* | Necromancy | V |
+| *Blur* | Illusion | V |
+| *Cloud of Daggers* | Conjuration | V, S, M |
+| *Continual Flame* | Evocation | V, S, M |
+| *Darkvision* | Transmutation | V, S, M |
+| *Enhance Ability* | Transmutation | V, S, M |
+| *Enlarge/Reduce* | Transmutation | V, S, M |
+| *Heat Metal* | Transmutation | V, S, M |
+| *Invisibility* | Illusion | V, S, M |
+| *Knock* | Transmutation | V |
+| *Lesser Restoration* | Abjuration | V, S |
+| *Levitate* | Transmutation | V, S, M |
+| *Locate Object* | Divination | V, S, M |
+| *Magic Mouth* | Illusion | V, S, M |
+| *Magic Weapon* | Transmutation | V, S |
+| *Protect from Poison* | Abjuration | V, S |
+| *Pyrotechnics* | Transmutation | V, S |
+| *Rope Trick* | Transmutation | V, S, M |
+| *See Invisibility* | Divination | V, S, M |
+| *Shatter* | Evocation | V, S, M |
+| *Skywrite* | Transmutation | V, S |
+| *Spider Climb* | Transmutation | V, S, M |
+| *Web* | Conjuration | V, S, M |
 
 ##### Level 3 Artificer Spells
 
 | Spell | School | Components |
 |---|---|:-:|
-| **Blink** | Transmutation | V, S |
-| **Catnap** | Enchantment | S, M |
-| **Clairvoyance** | Divination | V, S, M |
-| **Create Food and Water** | Conjuration | V, S |
-| **Dispel Magic** | Abjuration | V, S |
-| **Elemental Weapon** | Transmutation | V, S |
-| **Flame Arrows** | Transmutation | V, S |
-| **Fly** | Transmutation | V, S, M |
-| **Glyph of Warding** | Abjuration | V, S, M |
-| **Haste** | Transmutation | V, S, M |
-| **Intellect Fortress** | Abjuration | V |
-| **Leomund’s Tiny Hut** | Evocation | V, S, M |
-| **Lightning Bolt** | Evocation | V, S, M |
-| **Protection from Energy** | Abjuration | V, S |
-| **Revivify** | Necromancy | V, S, M |
-| **Sending** | Evocation | V, S, M |
-| **Slow** | Transmutation | V, S, M |
-| **Tiny Servant** | Abjuration | V, S |
-| **Water Breathing** | Transmutation | V, S, M |
-| **Water Walk** | Transmutation | V, S, M |
+| *Blink* | Transmutation | V, S |
+| *Catnap* | Enchantment | S, M |
+| *Clairvoyance* | Divination | V, S, M |
+| *Create Food and Water* | Conjuration | V, S |
+| *Dispel Magic* | Abjuration | V, S |
+| *Elemental Weapon* | Transmutation | V, S |
+| *Flame Arrows* | Transmutation | V, S |
+| *Fly* | Transmutation | V, S, M |
+| *Glyph of Warding* | Abjuration | V, S, M |
+| *Haste* | Transmutation | V, S, M |
+| *Intellect Fortress* | Abjuration | V |
+| *Leomund’s Tiny Hut* | Evocation | V, S, M |
+| *Lightning Bolt* | Evocation | V, S, M |
+| *Protection from Energy* | Abjuration | V, S |
+| *Revivify* | Necromancy | V, S, M |
+| *Sending* | Evocation | V, S, M |
+| *Slow* | Transmutation | V, S, M |
+| *Tiny Servant* | Abjuration | V, S |
+| *Water Breathing* | Transmutation | V, S, M |
+| *Water Walk* | Transmutation | V, S, M |
 
 ##### Level 4 Artificer Spells
 
-| **Spell name** | School | Components |
+| *Spell name* | School | Components |
 |---|---|---|
-| **Arcane Eye** | Divination | V, S, M |
-| **Elemental Bane** | Transmutation | V, S |
-| **Fabricate** | Transmutation | V, S |
-| **Freedom of Movement** | Abjuration | V, S, M |
-| **Greater Invisibility** | Illusion | V, S |
-| **Leomund’s Secret Chest** | Conjuration | V, S, M |
-| **Locate Creature** | Divination | V, S, M |
-| **Mordekainen’s Faithful Hound** | Conjuration | V, S, M |
-| **Mordekainen’s Private Sanctum** | Abjuration | V, S, M |
-| **Otiluke’s Resilient Sphere** | Evocation | V, S, M |
-| **Stone Shape** | Transmutation | V, S, M |
-| **Stoneskin** | Abjuration | V, S, M |
-| **Summon Construct** | Conjuration | V, S, M |
+| *Arcane Eye* | Divination | V, S, M |
+| *Elemental Bane* | Transmutation | V, S |
+| *Fabricate* | Transmutation | V, S |
+| *Freedom of Movement* | Abjuration | V, S, M |
+| *Greater Invisibility* | Illusion | V, S |
+| *Leomund’s Secret Chest* | Conjuration | V, S, M |
+| *Locate Creature* | Divination | V, S, M |
+| *Mordekainen’s Faithful Hound* | Conjuration | V, S, M |
+| *Mordekainen’s Private Sanctum* | Abjuration | V, S, M |
+| *Otiluke’s Resilient Sphere* | Evocation | V, S, M |
+| *Stone Shape* | Transmutation | V, S, M |
+| *Stoneskin* | Abjuration | V, S, M |
+| *Summon Construct* | Conjuration | V, S, M |
 
 ##### Level 5 Artificer Spells
 
 | Spell | School | Components |
 |---|---|:-:|
-| **Animate Objects** | Transmutation | V, S |
-| **Bigby’s Hand** | Evocation | V, S, M |
-| **Cloudkill** | Conjuration | V, S |
-| **Creation** | Illusion | V, S, M |
-| **Greater Restoration** | Abjuration | V, S, M |
-| **Legend Lore** | Divination | V, S, M |
-| **Mass Cure Wounds** | Evocation | V, S |
-| **Passwall** | Transmutation | V, S, M |
-| **Scrying** | Divination | V, S, M |
-| **Skill Empowerment** | Transmutation | V, S |
-| **Transmute Rock** | Transmutation | V, S, M |
-| **Wall of Stone** | Evocation | V, S, M |
+| *Animate Objects* | Transmutation | V, S |
+| *Bigby’s Hand* | Evocation | V, S, M |
+| *Cloudkill* | Conjuration | V, S |
+| *Creation* | Illusion | V, S, M |
+| *Greater Restoration* | Abjuration | V, S, M |
+| *Legend Lore* | Divination | V, S, M |
+| *Mass Cure Wounds* | Evocation | V, S |
+| *Passwall* | Transmutation | V, S, M |
+| *Scrying* | Divination | V, S, M |
+| *Skill Empowerment* | Transmutation | V, S |
+| *Transmute Rock* | Transmutation | V, S, M |
+| *Wall of Stone* | Evocation | V, S, M |
