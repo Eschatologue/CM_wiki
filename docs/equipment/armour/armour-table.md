@@ -2,22 +2,17 @@
 icon: material/shield-plus
 ---
 
-## Armour Proficiency
+## Armor Training
 
-Anyone can put on a suit of armour or strap a shield to an arm. Only those *proficient* in the armour's use know how to wear it effectively, however. Your class gives you Proficiency with certain types of armour. 
-
-If you wear armour that you lack Proficiency with, you gain several affliction: 
-
-- :d20-disadv: **Disadvantage** on any :d20-check:**Ability Check**
-- :d20-disadv: **Disadvantage** on :d20-save: **Saving Throw**
-- :d20-disadv: **Disadvantage** on :d20-attack: **Attack Roll** that involves *Strength* or *Dexterity*
-- You can't cast spells.
+Armor training allows you to use armor of a certain category without the following drawbacks. If you wear Light, Medium, or Heavy armor and lack training with it, you have Disadvantage on any D20 Test that involves Strength or Dexterity, and you can't cast spells. If you use a *Shield* and lack training with it, you don't gain its AC bonus.
 
 ## Armour Class (AC)
 
 *See [Armour Class](./index.md#what-is-armour-class-ac) for more details*
 
-Armour protects its wearer from attacks. The armour (and shield) you wear determines your base Armour Class.
+An Armor Class (AC) is the target number for an attack roll. AC represents how difficult it is to hit a target.
+
+Your base AC calculation is 10 plus your Dexterity modifier. If a rule gives you another base AC calculation, you choose which calculation to use; you can't use more than one.
 
 ## Stealth
 

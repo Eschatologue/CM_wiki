@@ -36,11 +36,10 @@ nav:
       - Combat: gameplay/phb/combat.md
       - Damage & Healing: gameplay/phb/damage-and-healing.md
       - Condition: gameplay/phb/condition.md
-    - Homebrew Mechanics:
+    - Additional Mechanics:
       - The Silver Standard: gameplay/homebrew/silver-standard.md
       - Death's Door and Resove: gameplay/homebrew/resolve.md
       - Inventory System: gameplay/homebrew/inventory.md
-    - Additonals:
       - Downtime:
         - gameplay/downtime/index.md
         - Carousing: gameplay/downtime/carousing.md
@@ -251,6 +250,7 @@ nav:
         - Spells (C): spells/description/hb/c.md
         - Spells (E): spells/description/hb/e.md
         - Spells (S): spells/description/hb/s.md       
+  - Rule Glossary: glossary.md
   - Current Campaign:
     - Player's Gimmick:
       - John K. Godsmith: 

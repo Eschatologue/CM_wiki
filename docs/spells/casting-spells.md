@@ -91,17 +91,17 @@ A Cone is an area of effect that extends in straight lines from a point of origi
 
 A Cone's point of origin isn't included in the area of effect unless its creator decides otherwise.
 
-#### :aoe-cube: Cube
+#### :aoe-cube:{ .middle } Cube
 
 A Cube is an area of effect that extends in straight lines from a point of origin located anywhere on a face of the Cube. The effect that creates a Cube specifies its size, which is the length of each side. A Cube's point of origin isn't included in the area of effect unless its creator decides otherwise.
 
-#### :aoe-cylinder: Cylinder
+#### :aoe-cylinder:{ .middle } Cylinder
 
 A Cylinder is an area of effect that extends in straight lines from a point of origin located at the center of the circular top or bottom of the Cylinder. The effect that creates a Cylinder specifies the radius of the Cylinder's base and the Cylinder's height.
 
 A Cylinder's point of origin is included in the area of effect.
 
-#### :aoe-rad: Emanation
+#### :aoe-rad:{ .middle } Emanation
 
 An Emanation is an area of effect that extends in straight lines from a creature or an object in all directions. The effect that creates an Emanation specifies the distance it extends.
 
@@ -109,13 +109,13 @@ An Emanation moves with the creature or object that is its origin unless it is a
 
 An Emanation's origin (creature or object) isn't included in the area of effect unless its creator decides otherwise.
 
-#### :aoe-line: Line
+#### :aoe-line:{ .middle } Line
 
 A Line is an area of effect that extends from a point of origin in a straight path along its length and covers an area defined by its width. The effect that creates a Line specifies its length and width.
 
 A Line's point of origin isn't included in the area of effect unless its creator decides otherwise.
 
-## :aoe-sphere: Sphere
+#### :aoe-sphere:{ .middle } Sphere
 
 A Sphere is an area of effect that extends in straight lines from a point of origin outward in all directions. The effect that creates a Sphere specifies the distance it extends as the radius of the Sphere.
 
