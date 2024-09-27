@@ -1,4 +1,4 @@
-# Roguish Archetype: Assassin
+# Assassin
 
 > *You prefer to deal sublime punishment to a single foe at a time - not in a duel, mind, because a duel implies chivalry, and you're too busy getting the job done for honour.*
 

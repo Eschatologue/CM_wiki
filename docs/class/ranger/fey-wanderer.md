@@ -1,4 +1,4 @@
-# Fey Wanderer
+# Fey Wanderer Conclave
 
 > *Wield Fey Mirth and Fury*
 

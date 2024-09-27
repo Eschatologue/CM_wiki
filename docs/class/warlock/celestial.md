@@ -1,4 +1,4 @@
-# Otherworldly Patron: Celestial
+# Celestial Patron
 
 > *Call on the Power of the Heavens*
 

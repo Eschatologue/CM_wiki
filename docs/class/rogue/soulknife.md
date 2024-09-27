@@ -1,4 +1,4 @@
-# Roguish Archetype: Soulknife
+# Soulknife
 
 > *Strike Foes with Psionic Blades*
 

@@ -1,4 +1,4 @@
-# Hunter
+# Hunter Conclave
 
 > *Protect Nature and People from Destruction*
 

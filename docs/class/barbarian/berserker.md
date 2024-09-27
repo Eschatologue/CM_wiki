@@ -1,4 +1,4 @@
-# Berserker
+# Path of the Berserker
 
 Violence is both a means and an end. You follow a path of untrammelled fury, slick with blood, as you thrill in the chaos of battle, heedless of your own well-being.
 

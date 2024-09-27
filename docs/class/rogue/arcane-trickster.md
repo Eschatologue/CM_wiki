@@ -1,4 +1,4 @@
-# Roguish Archetype: Arcane Trickster
+# Arcane Trickster
 
 > *As quick with a spell as you are with a lockpick, your illusions and enchantments keep opponents on the back foot.*
 
