@@ -2,7 +2,11 @@
 
 > *Union of Flesh and Steel*
 
-What does it mean to be truly natural? Can a creature made of wood and steel possess the spark of life? Druids who follow the Circle of the Forged challenge these very boundaries, embracing the fusion of living beings and machinery. This circle represents a radical sect of druids, deeply devoted to Valinor’s Generator-which they see as the new form of the Tree of Life-have taken their dedication ny replacing their own organic parts with mechanical augmentations in pursuit of greater attunement to their Omnissiah, whom they revere as the new form of Harmony.
+What does it mean to be truly natural? Can a being made of wood and steel possess the spark of life? Druids of the Circle of the Forged challenge these boundaries, embracing the fusion of living creatures and machines. This circle represents a radical sect of druids who are deeply devoted to Valinor’s generator–which they revere as the new form of the Tree of Life. In their quest for greater attunement with their Omnissiah, whom they see as the embodiment of Harmony, they have replaced their own organic parts with mechanical augmentations.
+
+### Level 3: Caretaker of Irminsul
+
+You gain proficiency with Tinker's Tool or Smith's Tool, and one type of Artisan's Tools of your choice. You can use your Wisdom when you make ability checks using those tools.
 
 ### Level 3: Skin of Steel
 
