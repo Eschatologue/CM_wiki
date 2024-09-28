@@ -36,7 +36,7 @@ Your connection to the Void allows you to undo arcane magic, giving your the fol
 
 :spell-level-3: ***Dispel Magic.*** When you cast *Dispel Magic* and you need to make a spellcasting ability check to determine the result, you can treat a roll of 9 or lower as a 10.
 
-:spell-level-3: ***Counterspell.*** When you cast *Countersepll* the target has :d20-disadv: Disadvantage on the spell's saving throw.
+:spell-level-3: ***Counterspell.*** When you cast *Counterspell* the target must subtract 1d6 from the save. 
 
 Once you use one of this feature, you can’t use it again until you finish a Short Rest unless you spend 1 Sorcery Points (no action required) to restore your use of it.
 
