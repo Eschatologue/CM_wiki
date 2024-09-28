@@ -730,10 +730,10 @@ You are skilled at casting spells with a weapon in hand.
 Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
     
 **Armament Focus**  
-You can use a magical weapon or a magical shield as a spellcasting focus and to perform the somatic component of a spell.
+You can use a magical weapon or a magical shield, that you have Attuned (if required) as a spellcasting focus and to perform the Somatic component of a spell.
     
 **Weapon Conduit**  
-When wielding a Magical weapon that you're proficient with and that provides a bonus to hit and damage, you can also add that weapon's bonus to damage rolls for spells you cast.
+When wielding a magical weapon with which you are proficient and Attuned with (if required), you can apply its bonus to damage rolls to the damage of any spell you cast, provided you use the weapon as your spellcasting focus.
 
 ---
 

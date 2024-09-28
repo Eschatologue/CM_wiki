@@ -1,24 +1,20 @@
 # Saboteur
 
-> *Sneak Attack.. with Eplosives! - Written by Laserllama - Adapted to 2024 PHB & C&M by Eschathologue*
+> *Demolish Targets with Explosives* - Written by Laserllama - Adapted to 2024 PHB & C&M by Eschathologue*
 
 Some rogues combine their various skills with an interest in alchemy to produce explosive effects. Known as Saboteurs, these strange alchemists have many specialties; demolition, siege warfare, entertainment. No matter their focus, they all delight in violent destruction, and due to the rarity of their talents, Saboteurs are invaluable allies or dangerous foes.
 
-### Level 3: Destructive Strikes
-
-Your work has given you a knack for identifying structural weak points. When you hit a non-magical structure with a weapon attack or one of your explosives, it is considered an automatic Critical Hit. Also, when you attack a Construct, the number you need to roll for a Critical Hit is reduced by 1. This Critical Hit reduction can stack.
-
 ### Level 3: Explosives
 
-You gain proficiency with Alchemist's Tools, along with the secrets of creating explosives from Cordites:
+You gain proficiency with Alchemist’s Supplies, along with the secrets of creating explosives from Cordites:
 
 #### Cordite Charges 
 
-At the end of each Long Rest, you can use your alchemist's supplies to produce a number of Cordite Charges equal to your proficiency bonus + your Intelligence modifier (minimum of 1). These Charges are used to craft the explosives you know, and become inert if they are not used by the end of your next Long Rest.
+At the end of each Long Rest, you can use your Alchemist’s Supplies to create a number of Cordite Charges equal to your proficiency bonus + your Intelligence modifier (minimum of 1). These Charges are used to craft explosives. Unused Cordite Charges or explosives made from them become inert and unusable at the end of your next Long Rest.
 
 #### Explosives Known
 
-You learn how to make three types of explosives; a Hand Bomb, and two other explosives of your choice from the list at the end of this subclass description.
+You learn how to make three types of explosives; the Hand Bomb, and two other explosives of your choice from the list at the end of this subclass description.
 
 When you gain a level in this class, you can replace one explosive you know with another explosive of your choice.
 
@@ -32,6 +28,10 @@ Some of your explosives require your target to make a saving throw to resist the
 <strong>Explosive save DC</strong> = 8 + your Intelligence modifier + your Proficiency Bonus
 </p>
 
+### Level 3: Destructive Strikes
+
+Your work has given you a knack for identifying structural weak points. When you hit a non-magical structure with a weapon attack or one of your explosives, it is considered an automatic Critical Hit. Also, when you attack a Construct, the number you need to roll for a Critical Hit is reduced by 1. This Critical Hit reduction can stack.
+
 ### Level 9: Advanced Alchemy
 
 Your mastery of alchemy allows you to alter the explosives you make in the following ways:
@@ -40,11 +40,11 @@ Your mastery of alchemy allows you to alter the explosives you make in the follo
 
 ***Color.*** You alter the color of both explosive itself, the color of the explosion, and the color of the smoke it produces.
 
-***Damage Type.*** You alter the damage type of any explosive you craft to bludgeoning, piercing, fire, thunder, or lightning.
+***Damage Type.*** You alter the damage type of any explosive you craft to :dmg-bludgeoning: Bludgeoning, :dmg-piercing: Piercing, :dmg-fire: Fire, :dmg-thunder: Thunder, or :dmg-lightning: Lightning.
 
 ### Level 13: Sabotage
 
-Creatures that are surprised have disadvantage on saving throws against your Explosives.
+Creatures that has the Surprised condition have :d20-disadv: Disadvantage on saving throws against your Explosives.
 
 ### Level 17: Hair Trigger
 
@@ -54,7 +54,7 @@ You have learned to detonate your Explosives from afar. When you craft an Explos
 
 ## Explosives
 
-The following Explosives are available for a Saboteur rogue to learn. As an action, you can craft an explosive, using the amount of Cordite Charges detailed in the description. Any explosives become inert at the end of your next long rest.
+The following Explosives are available for a Saboteur rogue to learn. As an Action, you can craft an explosive, using the amount of Cordite Charges detailed in the description. Any explosives become inert at the end of your next long rest.
 
 ***Hand Bomb (1 Charge).*** Using Utilise action you can ignite the explosive and throw it at a creature you can see within 60 feet, forcing it to make a Dexterity saving throw. They take 2d6 Fire damage on a failed save, and half as much damage on a success. You add your Sneak Attack bonus to the Fire damage even if you don't meet the normal requirements.
 
