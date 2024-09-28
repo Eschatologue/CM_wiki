@@ -34,9 +34,9 @@ Whenever you gain a level, you can replace one spell from this feature with anot
 
 Your connection to the Void allows you to undo arcane magic, giving your the following benefit:
 
-***Dispel Magic.*** When you cast *Dispel Magic* and you need to make a spellcasting ability check to determine the result, you can treat a roll of 9 or lower as a 10.
+:spell-level-3: ***Dispel Magic.*** When you cast *Dispel Magic* and you need to make a spellcasting ability check to determine the result, you can treat a roll of 9 or lower as a 10.
 
-***Counterspell.*** When you cast *Countersepll* the creature has :d20-disadv: Disadvantage on its saving throw.
+:spell-level-3: ***Counterspell.*** When you cast *Countersepll* the target has :d20-disadv: Disadvantage on the spell's saving throw.
 
 Once you use one of this feature, you can’t use it again until you finish a Short Rest unless you spend 1 Sorcery Points (no action required) to restore your use of it.
 
