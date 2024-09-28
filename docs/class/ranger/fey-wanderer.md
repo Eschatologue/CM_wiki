@@ -18,11 +18,11 @@ When you reach a Ranger level specified in the Fey Wanderer Spells Table, you th
 
 | Ranger Level | Spells |
 |:---:|:---|
-| 3 | Charm Person |
-| 5 | Misty Step |
-| 9 | Summon Fey |
-| 13 | Dimension Door |
-| 17 | Mislead |
+| 3 | *Charm Person* |
+| 5 | *Misty Step* |
+| 9 | *Summon Fey* |
+| 13 | *Dimension Door* |
+| 17 | *Mislead* |
 
 You also possess a preternatural blessing from a fey ally or a place of fey power. Choose your blessing from the Feywild Gifts table or determine it randomly.
 
@@ -35,7 +35,7 @@ You also possess a preternatural blessing from a fey ally or a place of fey powe
 | 5 | Horns or antlers sprout from your head. |
 | 6 | Your skin and hair change color to match the season at each dawn. |
 
-### Level 4: Otherworldly Glamour
+### Level 3: Otherworldly Glamour
 
 Whenever you make a Charisma check, you gain a bonus to the check equal to your Wisdom modifier (minimum of +1).
 

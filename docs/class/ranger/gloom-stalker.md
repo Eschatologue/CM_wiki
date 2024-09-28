@@ -20,11 +20,11 @@ The magic of the Shadowfell ensures you always have certain spells ready; when y
 
 | Ranger Level | Spells |
 |:---:|:---|
-| 3 | Disguise Self |
-| 5 | Rope Trick |
-| 9 | Fear |
-| 13 | Greater Invisibility |
-| 17 | Seeming |
+| 3 | *Disguise Self* |
+| 5 | *Rope Trick* |
+| 9 | *Fear* |
+| 13 | *Greater Invisibility* |
+| 17 | *Seeming* |
 
 ### Level 3: Umbral Sight
 

@@ -10,7 +10,7 @@ You have learned to cast spells. See the chapter 7 for rules on spellcasting. Th
 
 #### Cantrips 
 
-You know one cantrips of your choice from the [Warlock spell list]. Whenever you gain a Fighter level, you can replace one of this feature's cantrips with another cantrip of your choice from the Warlock spell list.
+You know one cantrip of your choice from the [Warlock spell list]. Whenever you gain a Fighter level, you can replace one of this feature's cantrips with another cantrip of your choice from the Warlock spell list.
 
 When you reach level 10 in this class, you learn another Warlock cantrip of your choice.
 

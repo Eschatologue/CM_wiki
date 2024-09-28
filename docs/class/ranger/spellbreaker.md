@@ -1,0 +1,53 @@
+# Spellbreaker Conclave
+
+> *Destroy Enemy Spellcaster - Written by Laserllama - Updated to 2024 PHB by Eschatologue*
+
+Spellbreakers are a small but dedicated group of Rangers that specialize in hunting mages who use their arcane power for evil. While most pursue the life of a Spellbreaker for noble reasons, there are some who seek to destroy anyone with the potential to use magic. Most Spellbreakers work in secrecy, only striking when success is a certainty. If a wrong move could end in disintegration, there is no room for error.
+
+### Level 3: Mage Breaker
+
+You ward your weapons with antimagic enchantments. When you hit a creature with a weapon attack, it has :d20-disadv: Disadvantage on its Constitution saving throw to maintain concentration.
+
+Also, when you see or hear a creature within your reach attempt to cast a spell, you can use your Reaction to make an Opportunity Attack against it.
+
+### Level 3: Spellsight
+
+You have learned to see the arcane potential of others. As a Bonus Action, you can focus on a creature and instantly learn its spellcasting ability (if it has one) and the highest level spell that it has the ability to cast. If it is hidden from divination magic, such as by *nondetection*, this feature fails.
+
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a short or long rest.
+
+### Level 3: Spellbreaker Magic
+
+When you reach a Ranger level specified in the Spellbreaker Spells Table, you thereaftrer always have the listed spells prepared.
+
+##### Spellbreaker Spells
+
+| Ranger Level | Spell |
+|---|---|
+| 3 | *Absorb Elements* |
+| 5 | *Blindness/Deafness* |
+| 9 | *Counterspell* |
+| 13 | *Otiluke's Resilient Sphere* |
+| 17 | *Wall of Force* |
+
+### Level 7: Arcane Defense
+
+You can steel yourself to better resist the magics of your foes. Whenever you are forced to make a saving throw to resist a spell or another magical effect, you gain a bonus to your roll equal to your Wisdom modifier (minimum of +1).
+
+Moreover, whenever you are subjected you to a spell or magical effect that allows you to make a saving throw to take only half damage, you instead take no damage on a success, and only half damage on a failed saving throw.
+
+### Level 11: Spellbane
+
+You are an unparalleled hunter of mages. Whenever you hit a creature with a weapon attack, you can expend a level 1+ spell slot to deal bonus :dmg-force: Force damage to your target equal to 1d8 per level of the spell slot you expended.
+
+Also, when you cast Dispel Magic, you can add your Wisdom modifier (minimum of +1) to the ability check.
+
+### Level 15: Mantle of the Master
+
+Your Spellbreaker training has reached its pinnacle. You are resistant to damage from spells and all other magical effects so long as you don't have the Unconscious or Incapacitated conditions.
+
+### Level 15: Reflect Spell
+
+Your training allows you to strike spells from the weave. You can cast *Absorb Elements* at will as if you cast it at level 1.
+
+After you cast *Absorb Elements* if your next weapon attack is against the creature whose spell you absorbed, you treat the *Absorb Elements* damage as its maximum amount.
