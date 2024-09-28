@@ -12,7 +12,7 @@ Also, when you see or hear a creature within your reach attempt to cast a spell,
 
 ### Level 3: Spellsight
 
-You have learned to see the arcane potential of others. As a Bonus Action, you can focus on a creature and instantly learn its spellcasting ability (if it has one) and the highest level spell that it has the ability to cast. If it is hidden from divination magic, such as by *nondetection*, this feature fails.
+You have learned to see the arcane potential of others. As a Bonus Action, you can focus on a creature and instantly learn its spellcasting ability (if it has one) and the highest level spell that it has the ability to cast. If it is hidden from divination magic, such as by *Nondetection*, this feature fails.
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a short or long rest.
 
@@ -23,7 +23,7 @@ When you reach a Ranger level specified in the Spellbreaker Spells Table, you th
 ##### Spellbreaker Spells
 
 | Ranger Level | Spell |
-|---|---|
+|:-:|---|
 | 3 | *Absorb Elements* |
 | 5 | *Blindness/Deafness* |
 | 9 | *Counterspell* |
@@ -48,6 +48,6 @@ Your Spellbreaker training has reached its pinnacle. You are resistant to damage
 
 ### Level 15: Reflect Spell
 
-Your training allows you to strike spells from the weave. You can cast *Absorb Elements* at will as if you cast it at level 1.
+Your training allows you to strike spells from the weave. You can cast *Absorb Elements* at will, as if cast at level 1.
 
-After you cast *Absorb Elements* if your next weapon attack is against the creature whose spell you absorbed, you treat the *Absorb Elements* damage as its maximum amount.
+After you cast *Absorb Elements*, if your next weapon attack—melee or ranged—is against the creature whose spell you absorbed, the bonus damage from *Absorb Elements* is treated as its maximum possible amount.
