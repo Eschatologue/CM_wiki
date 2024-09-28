@@ -1,5 +1,5 @@
 ---
-icon: material/alpha-0-box
+icon: material/alpha-o-box
 ---
 
 # Spells (O)
