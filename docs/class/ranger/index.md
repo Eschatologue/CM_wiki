@@ -99,11 +99,11 @@ You can use a Druidic Focus as a Spellcasting Focus for your Ranger spells.
 
 You always have the ***Hunter’s Mark*** spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a Long Rest.
 
-The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favored Enemy column of the Ranger Features table. When the spell is cast this way, it does not require concentration.
+The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favored Enemy column of the Ranger Features table. When the spell is cast this way, it does not require :spell-concentration: Concentration, though it ends early if you have the Incapcacitated condition.
 
 !!! homebrew "No Concentration"
 
-    The ***Hunter’s Mark*** spell when cast using Favored Enemy now does not require concentration.
+    The ***Hunter’s Mark*** spell when cast using Favored Enemy now does not require Concentration.
 
 ### Level 1: Weapon Mastery
 
@@ -157,9 +157,9 @@ Primal forces now help fuel you on your journeys, granting you the following ben
 
 The damage die of your ***Hunter’s Mark*** improves to d8 when it is cast using Favored Enemy feature.
 
-!!! homebrew "Improve Scaling"
+!!! homebrew "Improved Scaling"
 
-    Since ***Hunter's Mark does not require Cocentration, this feature is changed to provide better scaling for the spell***.
+    Since ***Hunter's Mark*** does not require Concentration, this feature is changed to provide better scaling for the spell.
 
 ### Level 14: Nature’s Veil
 
@@ -191,84 +191,84 @@ This section presents the Ranger spell list. The spells are organized by spell l
 
 | Spell | School | Special |
 |---|---|:---:|
-| **Alarm** | Abjuration | R |
-| **Animal Friendship** | Enchantment | — |
-| **Cure Wounds** | Abjuration | — |
-| **Detect Magic** | Divination | C, R |
-| **Detect Poison and Disease** | Divination | C, R |
-| **Ensnaring Strike** | Conjuration | C |
-| **Entangle** | Conjuration | C |
-| **Fog Cloud** | Conjuration | C |
-| **Goodberry** | Conjuration | — |
-| **Hail of Thorns** | Conjuration | — |
-| **Hunter’s Mark** | Divination | C |
-| **Jump** | Transmutation | — |
-| **Longstrider** | Transmutation | — |
-| **Speak with Animals** | Divination | R |
+| *Alarm* | Abjuration | R |
+| *Animal Friendship* | Enchantment | — |
+| *Cure Wounds* | Abjuration | — |
+| *Detect Magic* | Divination | C, R |
+| *Detect Poison and Disease* | Divination | C, R |
+| *Ensnaring Strike* | Conjuration | C |
+| *Entangle* | Conjuration | C |
+| *Fog Cloud* | Conjuration | C |
+| *Goodberry* | Conjuration | — |
+| *Hail of Thorns* | Conjuration | — |
+| *Hunter’s Mark* | Divination | C |
+| *Jump* | Transmutation | — |
+| *Longstrider* | Transmutation | — |
+| *Speak with Animals* | Divination | R |
 
 ##### Level 2 Ranger Spells
 
 | Spell | School | Special |
 |---|---|:---:|
-| **Aid** | Abjuration | — |
-| **Animal Messenger** | Enchantment | R |
-| **Barkskin** | Transmutation | — |
-| **Beast Sense** | Divination | C, R |
-| **Cordon of Arrows** | Transmutation | — |
-| **Darkvision** | Transmutation | — |
-| **Enhance Ability** | Transmutation | C |
-| **Find Traps** | Divination | — |
-| **Gust of Wind** | Evocation | C |
-| **Lesser Restoration** | Abjuration | — |
-| **Locate Animals or Plants** | Divination | R |
-| **Locate Object** | Divination | C |
-| **Magic Weapon** | Transmutation | — |
-| **Pass without Trace** | Abjuration | C |
-| **Protection from Poison** | Abjuration | — |
-| **Silence** | Illusion | C, R |
-| **Spike Growth** | Transmutation | C |
-| **Summon Beast** | Conjuration | C, M |
+| *Aid* | Abjuration | — |
+| *Animal Messenger* | Enchantment | R |
+| *Barkskin* | Transmutation | — |
+| *Beast Sense* | Divination | C, R |
+| *Cordon of Arrows* | Transmutation | — |
+| *Darkvision* | Transmutation | — |
+| *Enhance Ability* | Transmutation | C |
+| *Find Traps* | Divination | — |
+| *Gust of Wind* | Evocation | C |
+| *Lesser Restoration* | Abjuration | — |
+| *Locate Animals or Plants* | Divination | R |
+| *Locate Object* | Divination | C |
+| *Magic Weapon* | Transmutation | — |
+| *Pass without Trace* | Abjuration | C |
+| *Protection from Poison* | Abjuration | — |
+| *Silence* | Illusion | C, R |
+| *Spike Growth* | Transmutation | C |
+| *Summon Beast* | Conjuration | C, M |
 
 ##### Level 3 Ranger Spells
 
 | Spell | School | Special |
 |---|---|:---:|
-| **Conjure Animals** | Conjuration | C |
-| **Conjure Barrage** | Conjuration | — |
-| **Daylight** | Evocation | — |
-| **Dispel Magic** | Abjuration | — |
-| **Elemental Weapon** | Transmutation | C |
-| **Lightning Arrow** | Transmutation | — |
-| **Meld into Stone** | Transmutation | R |
-| **Nondetection** | Abjuration | M |
-| **Plant Growth** | Transmutation | — |
-| **Protection from Energy** | Abjuration | C |
-| **Revivify** | Necromancy | M |
-| **Speak with Plants** | Transmutation | — |
-| **Summon Fey** | Conjuration | C, M |
-| **Water Breathing** | Transmutation | R |
-| **Water Walk** | Transmutation | R |
-| **Wind Wall** | Evocation | C |
+| *Conjure Animals* | Conjuration | C |
+| *Conjure Barrage* | Conjuration | — |
+| *Daylight* | Evocation | — |
+| *Dispel Magic* | Abjuration | — |
+| *Elemental Weapon* | Transmutation | C |
+| *Lightning Arrow* | Transmutation | — |
+| *Meld into Stone* | Transmutation | R |
+| *Nondetection* | Abjuration | M |
+| *Plant Growth* | Transmutation | — |
+| *Protection from Energy* | Abjuration | C |
+| *Revivify* | Necromancy | M |
+| *Speak with Plants* | Transmutation | — |
+| *Summon Fey* | Conjuration | C, M |
+| *Water Breathing* | Transmutation | R |
+| *Water Walk* | Transmutation | R |
+| *Wind Wall* | Evocation | C |
 
 ##### Level 4 Ranger Spells
 
 | Spell | School | Special |
 |---|---|:---:|
-| **Conjure Woodland Beings** | Conjuration | C |
-| **Dominate Beast** | Enchantment | C |
-| **Freedom of Movement** | Abjuration | — |
-| **Grasping Vine** | Conjuration | C |
-| **Locate Creature** | Divination | C |
-| **Stoneskin** | Transmutation | C, M |
-| **Summon Elemental** | Conjuration | C, M |
+| *Conjure Woodland Beings* | Conjuration | C |
+| *Dominate Beast* | Enchantment | C |
+| *Freedom of Movement* | Abjuration | — |
+| *Grasping Vine* | Conjuration | C |
+| *Locate Creature* | Divination | C |
+| *Stoneskin* | Transmutation | C, M |
+| *Summon Elemental* | Conjuration | C, M |
 
 ##### Level 5 Ranger Spells
 
 | Spell | School | Special |
 |---|---|:---:|
-| **Commune with Nature** | Divination | R |
-| **Conjure Volley** | Conjuration | — |
-| **Greater Restoration** | Abjuration | M |
-| **Steel Wind Strike** | Conjuration | M |
-| **Swift Quiver** | Transmutation | C, M |
-| **Tree Stride** | Conjuration | C |
+| *Commune with Nature* | Divination | R |
+| *Conjure Volley* | Conjuration | — |
+| *Greater Restoration* | Abjuration | M |
+| *Steel Wind Strike* | Conjuration | M |
+| *Swift Quiver* | Transmutation | C, M |
+| *Tree Stride* | Conjuration | C |
