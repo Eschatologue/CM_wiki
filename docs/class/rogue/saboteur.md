@@ -42,11 +42,11 @@ Your mastery of alchemy allows you to alter the explosives you make in the follo
 
 ***Damage Type.*** You alter the damage type of any explosive you craft to bludgeoning, piercing, fire, thunder, or lightning.
 
-#### Level 13: Sabotage
+### Level 13: Sabotage
 
 Creatures that are surprised have disadvantage on saving throws against your Explosives.
 
-#### Level 17: Hair Trigger
+### Level 17: Hair Trigger
 
 You have learned to detonate your Explosives from afar. When you craft an Explosive, you can create a rudimentary arcane remote to trigger the Explosive from afar. As a Utilise action, you can trigger the Explosive as long as you are within 100 feet.
 
@@ -64,11 +64,12 @@ The following Explosives are available for a Saboteur rogue to learn. As an acti
 
 | Rogue Level | Charges | Spell Effects |
 |:-:|:-:|---|
-| 3 | 1 | Earth Tremor, Fog Cloud, Grease |
-| 5 | 3 | Blindness/Deafness, Enlarge/Reduce, Pyrotechnics, Web |
-| 9 | 5 | Erupting Earth, Fireball, Stinking Cloud |
-| 13 | 7 | Banishment, Sickening Radiance, Vitriolic Sphere |
-| 17 | 9 | Cloudkill, Immolation, Insect Plague, Maelstrom, Synaptic Static |
+| 3 | 1 | *Earth Tremor*, *Fog Cloud*, *Grease* |
+| 5 | 3 | *Blindness/Deafness*, *Enlarge/Reduce*, *Pyrotechnics*, *Web* |
+| 9 | 5 | *Erupting Earth*, *Fireball*, *Stinking Cloud* |
+| 13 | 7 | *Banishment*, *Sickening Radiance*, *Vitriolic Sphere* |
+| 17 | 9 | *Cloudkill*, *Immolation*, *Insect Plague*, *Maelstrom*, *Synaptic Static* |
+
 
 
 
