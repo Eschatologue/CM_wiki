@@ -2,7 +2,7 @@
 
 > *Forge Serenity into Unstoppable Force - Written by Eschatologue*
 
-For Barbarians who walk the Path of Tranquillity, Rage is a bottomless well of calm strength and fury. They draw upon this power to achieve extraordinary focus in battle and embody stillness in a chaotic storm, using their inner clarity to direct this inner calm with devastating effects.
+For Barbarians who walk the Path of Tranquillity, Rage is a bottomless well of calm and reason. They draw upon this power to achieve extraordinary focus in battle and they channel this clarity into devastating effects.
 
 ### Level 3: Manoeuvre of Tranquilty
 
@@ -26,7 +26,7 @@ If a Manoeuvre requires a saving throw, the DC equals 8 + your Proficiency Bonus
 
 ### Level 3: Dead Calm
 
-You enter a state of heightened focus when you Rage. While your Rage is active, the Frightened, and Charmed conditions on you are suppressed. When your Rage ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.
+You enter a state of heightened focus when you Rage. While your Rage is active, the Frightened and Charmed conditions on you are suppressed. When your Rage ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.
 
 ### Level 6: Battle Focus
 
@@ -36,7 +36,7 @@ When you activate your Rage, you can choose one of the following benefits:
   
 ***Temporary Hit Points.*** You gain a number of Temporary Hit Points equal to one roll of your Superiority Die.
  
-***Improved Speed.*** Your Speed is doubled for your current turn.
+***Improved Speed.*** Opportunity Attack against you have :d20-disadv: Disadvantage and your :rsc-speed: Speed is doubled for your current turn.
 
 ### Level 6: Improved Superiority
 
