@@ -116,7 +116,7 @@ When you make a melee attack with a cold weapon that has :weapon-prop-heavy: Hea
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-You gain Proficiency with Shields and it can be used as a Martial Melee Weapon that deal :dmg-bludgeoning: Bludgeoning damage equal to 2d4 + your Strength modifier. If you are wielding a shield and no other weapon, you gain a +1 bonus to Shield :d20-attack: Attack Rolls and your AC. 
+You gain Proficiency with Shields and it can be used as a Martial Melee Weapon that deal :dmg-blunt: Bludgeoning damage equal to 2d4 + your Strength modifier. If you are wielding a shield and no other weapon, you gain a +1 bonus to Shield :d20-attack: Attack Rolls and your AC. 
 
 ---
 

@@ -113,7 +113,7 @@ After fine tuning your equipment, you can do things others can't with shields.
 
 - **Sunder**
     
-    As part of the attack action, you instead throw your shield as a ranged attack that you are proficient in using your Dexterity or Strength modifiers (you decide when you select this feat) and aim for one target within 30 feet with your shield. On hit, the target takes 1d8 :dmg-bludgeoning: Bludgeoning damage and has the Prone condition.
+    As part of the attack action, you instead throw your shield as a ranged attack that you are proficient in using your Dexterity or Strength modifiers (you decide when you select this feat) and aim for one target within 30 feet with your shield. On hit, the target takes 1d8 :dmg-blunt: Bludgeoning damage and has the Prone condition.
     
     Hit or miss, at the end of the attack your shield harmlessly bounces back to you.
     

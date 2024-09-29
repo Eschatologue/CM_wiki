@@ -97,15 +97,12 @@ The Difficulty Class for a Saving Throw is determined by the effect that causes 
 
 When a creature attacks a target, it makes an :d20-attack: **Attack Roll** against the target's AC to determine whether the attack is a hit or a miss. If the attack is a hit, it generally deals damage, and the attacker rolls for damage.
 
-Creatures generally make their attacks with their equipped weapon (including unarmed), but some spells – such as a Warlock's [Eldritch Blast](../spells/cantrip.md#eldritch-blast) – require the caster to make spell :d20-attack: **Attack Rolls**.
+Creatures generally make their attacks with their equipped weapon (including unarmed), but some spells – such as a Warlock's *[Eldritch Blast](../../spells/description/e.md#eldritch-blast)* – require the caster to make spell :d20-attack: **Attack Rolls**.
 
 !!! quote ""
 
     <p style="text-align: center;"> D20 + Ability Modifier + Proficiency Bonus (if proficient) + Other Bonuses (if applicable) </p>
 
-*See also [Making an Attack]*
-
-[making an attack]: ./combat/making-an-attack.md
 
 ### Ability Modifiers
 

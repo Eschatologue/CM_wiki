@@ -46,7 +46,7 @@ When you use this ability on a creature, your attack has an additional effect, d
 
 ### Level 10: Adamantine Hide 
 
-While you are in Wild Shape form, you gain Resistance to :dmg-bludgeoning: Bludgeoning, :dmg-piercing: Piercing, and :dmg-slashing: Slashing damage. In addition, you gain the ability to use Wild Shape as a Reaction when you take damage, and the damage from that attack is applied to the Temporariy Hit Points granted by your Wild Shape.
+While you are in Wild Shape form, you gain Resistance to :dmg-blunt: Bludgeoning, :dmg-piercing: Piercing, and :dmg-slashing: Slashing damage. In addition, you gain the ability to use Wild Shape as a Reaction when you take damage, and the damage from that attack is applied to the Temporariy Hit Points granted by your Wild Shape.
 
 ### Level 14: Constructed Perfection
 

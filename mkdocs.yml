@@ -99,11 +99,12 @@ nav:
       - Eldritch Invocations: character-creation/option/invocations.md
       - Combat Manoeuvre: character-creation/option/manoeuvre.md
   - Equipment: 
-      - Weapons: 
-        - equipment/weapon/index.md
-        - Cold Weapons: equipment/weapon/weapon-cold.md
-        - Firearms: equipment/weapon/weapon-firearm.md
-      - Armour: equipment/armour.md 
+      - Armaments:
+        - Armour: equipment/armour.md 
+        - Weapons: 
+          - equipment/weapon/index.md
+          - Cold Weapons: equipment/weapon/weapon-cold.md
+          - Firearms: equipment/weapon/weapon-firearm.md
       - Tools: 
         - equipment/tools/index.md
         - Artisan Tools: equipment/tools/artisan-tools.md

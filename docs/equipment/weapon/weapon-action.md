@@ -21,5 +21,5 @@ If a weapon action you use requires your target to make a :d20-save: **Saving Th
 #### Backbreaker
 
 **Cost:** :rsc-action: Action  
-**Damage:** 1d4 + Strength Modifier :dmg-bludgeoning: Bludgeoning
+**Damage:** 1d4 + Strength Modifier :dmg-blunt: Bludgeoning
 

@@ -2,9 +2,9 @@
 icon: weapon/rifle
 ---
 
-> "A good blade's worth more than any fire-spitter. A gun's only as strong as its powder and steel, but a sword or an axe? Aye, that's as strong as the arm that swings it—and there's no arm stronger than a dwarf's!" – *A Dwarven Blacksmith*
-
 # Firearms
+
+> "A good blade's worth more than any fire-spitter. A gun's only as strong as its powder and steel, but a sword or an axe? Aye, that's as strong as the arm that swings it—and there's no arm stronger than a dwarf's!" – *A Dwarven Blacksmith*
 
 Firearms are uncommon and challenging to use in Antares, often considered impractical and requiring specific prerequisites and maintenance. Other weapons like bows, crossbows, or arcane staves are easier to use and cheaper, while cold steel weapons are much stronger.
 
@@ -14,22 +14,25 @@ Firearms are uncommon and challenging to use in Antares, often considered imprac
 
 ##### Gun Weapon Table
 
-| name | damage | properties | cost |
+| Short-Arms | damage | properties | cost |
 |---|---|---|--:|
-| ***Short-Arms*** | | | |
-| ‎ ‎ ‎ ‎ Pistol, Revolver | 1d12 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 60/180), Reload (6) | 2,500 sp |
-| ‎ ‎ ‎ ‎ Pistol, Semi-Auto | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 60/180), Automatic (2), Light, Reload (7) | 3,000 sp |
-| ‎ ‎ ‎ ‎ Submachine Gun | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 40/90), Automatic (4), Reload (28), Two-handed | 3,500 sp |
-| ***Long-Arms*** | | | |
-| ‎ ‎ ‎ ‎ Rifle, Automatic | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 90/270), Automatic (3), Heavy, Reload (12), Two-handed | 6,500 sp |
-| ‎ ‎ ‎ ‎ Rifle, Marksmen | 2d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 180/550), Heavy, Reload (6), Sighted, Two-handed | 8,000 sp |
-| ‎ ‎ ‎ ‎ Rifle, Semi-Auto | 2d4 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 120/320), Automatic (1), Heavy, Reload (8), Two-handed | 5,000 sp |
-| ‎ ‎ ‎ ‎ Shotgun, Over-under | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 30/50), Automatic (3), Heavy, Reload (2), Scatter(2d6), Two-handed, Special | 4,000 sp |
-| ‎ ‎ ‎ ‎ Shotgun, Pump | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 40/90), Automatic (3), Heavy, Reload (7), Scatter(1d12), Two-handed | 6,000 sp |
-| ***Advanced Firearms*** | | | |
-| ‎ ‎ ‎ ‎ Machine Gun | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 150/600), Automatic (4), Heavy, Mounted, Reload (50), Two-Handed | 15,000  sp |
-| ‎ ‎ ‎ ‎ Rocket Launcher | 8d6 :dmg-fire: Fire | Ammunition (:weapon-prop-ranged: Range 150/300), Explosive (20ft. :aoe-sphere: sphere), Heavy, Reload (1), Two-Handed | 12,500 sp |
-| ‎ ‎ ‎ ‎ Grenade Launcher | 1 :dmg-bludgeoning: Bludgeoning | Ammunition (:weapon-prop-ranged: Range 120), Heavy, Loading, Special | 9,000 sp |
+| Pistol, Revolver | 1d12 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 60/180), Reload (6) | 2,500 sp |
+| Pistol, Semi-Auto | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 60/180), Automatic (2), Light, Reload (7) | 3,000 sp |
+| Submachine Gun | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 40/90), Automatic (4), Reload (28), Two-handed | 3,500 sp |
+
+| Long-Arms | damage | properties | cost |
+|---|---|---|--:|
+| Rifle, Automatic | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 90/270), Automatic (3), Heavy, Reload (12), Two-handed | 6,500 sp |
+| Rifle, Marksmen | 2d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 180/550), Heavy, Reload (6), Sighted, Two-handed | 8,000 sp |
+| Rifle, Semi-Auto | 2d4 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 120/320), Automatic (1), Heavy, Reload (8), Two-handed | 5,000 sp |
+| Shotgun, Over-under | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 30/50), Automatic (3), Heavy, Reload (2), Scatter(2d6), Two-handed, Special | 4,000 sp |
+| Shotgun, Pump | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 40/90), Automatic (3), Heavy, Reload (7), Scatter(1d12), Two-handed | 6,000 sp |
+
+| Advanced Firearms | damage | properties | cost |
+|---|---|---|--:|
+| Machine Gun | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 150/600), Automatic (4), Heavy, Mounted, Reload (50), Two-Handed | 15,000  sp |
+| Rocket Launcher | 8d6 :dmg-fire: Fire | Ammunition (:weapon-prop-ranged: Range 150/300), Explosive (20ft. :aoe-sphere: sphere), Heavy, Reload (1), Two-Handed | 12,500 sp |
+| Grenade Launcher | 1 :dmg-blunt: Bludgeoning | Ammunition (:weapon-prop-ranged: Range 120), Heavy, Loading, Special | 9,000 sp |
 
 ##### Ammunitions
 

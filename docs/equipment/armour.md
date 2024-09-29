@@ -25,7 +25,7 @@ If the table shows “Disadvantage” in the Stealth column for an armour type, 
 ##### Light Armour Table (1 Minute to Don or Doff)
 
 | Light Armour | Armour Class (AC) | Strength | Stealth | Weight | Cost |
-|---|---|---|:-:|:-:|--:|
+|---|:-:|:-:|:-:|:-:|--:|
 | Padded Armour | 11 + Dex modifier | — | Disadvantage | 8 lb. | 5 GP |
 | Leather Armour | 11 + Dex modifier | — | — | 10 lb. | 10 GP |
 | Studded Leather Armour | 12 + Dex modifier | — | — | 13 lb. | 45 GP |
@@ -33,7 +33,7 @@ If the table shows “Disadvantage” in the Stealth column for an armour type, 
 ##### Medium Armour Table (5 Minutes to Don and 1 Minute to Doff)
 
 | Medium Armour | Armour Class (AC) | Strength | Stealth | Weight | Cost |
-|---|---|---|:-:|:-:|--:|
+|---|:-:|:-:|:-:|:-:|--:|
 | Hide Armour | 12 + Dex modifier (max 2) | — | — | 12 lb. | 10 GP |
 | Chain Shirt | 13 + Dex modifier (max 2) | — | — | 20 lb. | 50 GP |
 | Scale Mail | 14 + Dex modifier (max 2) | — | Disadvantage | 45 lb. | 50 GP |
@@ -43,7 +43,7 @@ If the table shows “Disadvantage” in the Stealth column for an armour type, 
 ##### Heavy Armour Table (10 Minutes to Don and 5 Minutes to Doff)
 
 | Heavy Armour | Armour Class (AC) | Strength | Stealth | Weight | Cost |
-|---|---|---|:-:|:-:|--:|
+|---|:-:|:-:|:-:|:-:|--:|
 | Ring Mail | 14 | — | Disadvantage | 40 lb. | 30 GP |
 | Chain Mail | 16 | Str 13 | Disadvantage | 55 lb. | 75 GP |
 | Splint Armour | 17 | Str 15 | Disadvantage | 60 lb. | 200 GP |
@@ -52,23 +52,21 @@ If the table shows “Disadvantage” in the Stealth column for an armour type, 
 ##### Shield Table (Utilize Action to Don or Doff)
 
 | Shield  | Armour Class (AC) | Strength | Stealth | Weight | Cost |
-|---|---|---|:-:|:-:|--:|
-| Buckler | +1 | — | - | 6 lb. | 5 GP |
+|---|:-:|:-:|:-:|:-:|--:|
+| Buckler | +1 | — | - | 3 lb. | 5 GP |
 | Shield | +2 | — | - | 6 lb. | 10 GP |
-| Rampart | +3 | Str 15 | Disadvantage | 6 lb. | 100 GP |
+| Tower Shield | +3 | Str 15 | Disadvantage | 12 lb. | 100 GP |
 
-## Armor Training
+## Armour Training
 
-Anyone can don armor or hold a Shield, but only those with training can use them effectively, as explained below. A character’s class and other features determine the character’s armor training. A monster has training with any armor in its stat block.
+Anyone can don armour or hold a Shield, but only those with training can use them effectively, as explained below. A character’s class and other features determine the character’s armour training. A monster has training with any armour in its stat block.
 
-#### Light, Medium, or Heavy Armor
+#### Light, Medium, or Heavy Armour
 
-If you wear Light, Medium, or Heavy armor and lack training with it, you have Disadvantage on any D20 Test that involves Strength or Dexterity, and you can’t cast spells.
+If you wear Light, Medium, or Heavy armour and lack training with it, you have Disadvantage on any D20 Test that involves Strength or Dexterity, and you can’t cast spells.
 
 #### Shield
 
-You gain the Armor Class benefit of a Shield only if you have training with it.
+You gain the Armour Class benefit of a Shield only if you have training with it.
 
-***Buckler.*** When wielding a Buckler, you can use weapon's :weapon-prop-versatile: **Versatile**
-
-***Rampart.*** When wielding a Rampart , you can use weapon's :weapon-prop-versatile: **Versatile**
+***Buckler.*** When wielding a Buckler, you can use weapon's :weapon-prop-versatile: **Versatile** property.

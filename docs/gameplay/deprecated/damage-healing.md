@@ -66,7 +66,7 @@ Immunity to a damage type means that the creature takes no damage from that type
 
 |symbol|physical damage|description|
 |:-:|:--|:--|
-|:dmg-bludgeoning:{ .xxl }| **Bludgeoning** | Damage from blunt force, such as from clubs, hammers, or falling. This type of damage crushes bones and armour. |
+|:dmg-blunt:{ .xxl }| **Bludgeoning** | Damage from blunt force, such as from clubs, hammers, or falling. This type of damage crushes bones and armour. |
 |:dmg-piercing:{ .xxl }| **Piercing**| Damage from pointed weapons, such as arrows, spears, or teeth. This type of damage punctures and penetrates flesh and armour. |
 |:dmg-slashing:{ .xxl }|**Slashing**| Damage from edged weapons, such as swords, axes, or claws. This type of damage cuts and slices through flesh and armour. |
 

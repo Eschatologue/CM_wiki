@@ -27,16 +27,26 @@ While dragging, lifting, or pushing weight in excess of the maximum weight you c
 | Huge | Str. × 4 | Str. × 8 |
 | Gargantuan | Str. × 8 | Str. × 16 |
 
+### 2024 Player's Handbook Carrying Capacity table
+
+| Creature Size | Carry | Drag/Lift/Push |
+|---|---|---|
+| Tiny | Str. × 7.5 lb. | Str. × 15 lb. |
+| Small/Medium | Str. × 15 lb. | Str. × 30 lb. |
+| Large | Str. × 30 lb. | Str. × 60 lb. |
+| Huge | Str. × 60 lb. | Str. × 120 lb. |
+| Gargantuan | Str. × 120 lb. | Str. × 240 lb. |
+
 ## Weight to Slots Calculations
 
 Each item in your inventory occupies a certain number of slots based on its weight. This system simplifies item management by categorising items into four weight classes:
 
-| Weight Class | Weight Range | Inventory Slots Used |
-|---|---|---|
-| **Diminutive** | Less than 1 lb. | 5 Items per 1 Slot |
-| **Compact** | 1 lb. to 5 lbs. | 1 Items per 1 Slot |
-| **Sturdy** | 6 lbs. to 10 lbs. | 2 Slot for 1 Item |
-| **Cumbersome** | 11 lbs. to 20 lbs. | 3 Slots for 1 Item |
-| **Bulky** | 21 lbs. to 40 lbs. | 4 Slots for 1 Item |
-| **Enormous** | 41 lbs. or more | 5 Slots for 1 Item |
+| Weight Class | Abbrv. | Weight Range | Inventory Slots Used |
+|---|---|---|---|
+| **Diminutive** | XS | Less than 1 lb. | 5 Items per 1 Slot |
+| **Compact** | S | 1 lbs. to 5 lbs. | 2 Items per 1 Slot |
+| **Moderate** | M | 6 lbs. to 10 lbs. | 1 Item per 1 Slot |
+| **Cumbersome** | L | 11 lbs. to 20 lbs. | 2 Slots for 1 Item |
+| **Bulky** | XL | 21 lbs. to 40 lbs. | 3 Slots for 1 Item |
+| **Enormous** | XXL | 41 lbs. or more | 4 Slots for 1 Item |
 

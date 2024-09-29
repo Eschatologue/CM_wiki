@@ -340,7 +340,7 @@ You can use your armour to deflect strikes that would kill others. You gain the 
     
 - **Damage Reduction**
     
-    When you're hit by an attack while you're wearing Heavy Armour, any :dmg-bludgeoning: Bludgeoning, :dmg-piercing: Piercing, or :dmg-slashing: Slashing Damage dealt to you by that attack is reduced by an amount equal to your Proficiency Bonus.
+    When you're hit by an attack while you're wearing Heavy Armour, any :dmg-blunt: Bludgeoning, :dmg-piercing: Piercing, or :dmg-slashing: Slashing Damage dealt to you by that attack is reduced by an amount equal to your Proficiency Bonus.
 
 ### Inspiring Leader
 
@@ -577,7 +577,7 @@ Keeping foes just out of range is your specialty. You gain the following benefit
     
     After making an attack with a Glaive, Halberd, Pike, Quarterstaff or Spear, you can use a **Bonus Action** to make a melee attack with the opposite end of the weapon; this attack uses the same ability modifier as the primary attack. 
     
-    The weapon's damage die for this attack is a :die-d4: d4, and the attack deals :dmg-bludgeoning: Bludgeoning damage.
+    The weapon's damage die for this attack is a :die-d4: d4, and the attack deals :dmg-blunt: Bludgeoning damage.
     
 - **Reactive Strike**
     

@@ -1,6 +1,5 @@
 ---
-search:
-  boost: 3
+icon: material/sword
 ---
 
 # Weapons
