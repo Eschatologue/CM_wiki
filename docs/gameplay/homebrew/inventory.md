@@ -4,7 +4,7 @@ icon: material/view-grid-plus
 
 !!! homebrew "This is a Homebrew Mechanic!"
 
-    You just stumbled into a Homebrew mechanic! This ruling is orginally designed by Tyler Legg & Jacob Vickers, and it is slightly modified to fit more into the Crown & Misery campaign.
+    You just stumbled into a Homebrew mechanic! This ruling is orginally designed by Tyler Legg & Jacob Vickers, and it is heavily modified to fit more into the Crown & Misery campaign.
 
     **Source:** [Dungeon Master's Guild](https://www.dmsguild.com/product/240175/Inventory-Slots--5e-Rule-Variant?src=newest_community&filters=45469_0_0_0_0_0_0_0) | [Reddit](https://www.reddit.com/r/DnDBehindTheScreen/comments/8dq0d3/inventory_slots_5e_inventoryencumbrance_variant/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
@@ -13,50 +13,30 @@ icon: material/view-grid-plus
 
 In this campaign, inventories are managed differently than in your typical D&D game where items have weight (ain't nobody got time for that). Instead, for the sake of convenience, inventory is calculated using slots, similar to some video games.
 
-## Inventory Slots
+## Carrying Capacity
 
-Inventory slots are the units of measurement for how many items you can carry. Items are categorized by their general size and weight and can take up different amounts of slots.
+Your size and Strength score determine the amount of inventory slots that you have, as shown in the Carrying Capacity table. The table also shows the maximum weight you can drag, lift, or push.
 
-**Inventory Slots Count**  
-You have an amount of inventory slots equal to your :ability-str:**Strength** score. For example, if you have a :ability-str:**Strength** score of 17, you have 17 slots.
+While dragging, lifting, or pushing weight in excess of the maximum weight you can carry, your Speed can be no more than 5 feet.
 
-## Extra Inventories
+| Creature Size | Inventory Slots | Drag/Lift/Push |
+|---|---|---|
+| Tiny | Str. ÷ 2 | Str. |
+| Small/Medium | Str. | Str. × 2 |
+| Large | Str. × 2 | Str. × 4 |
+| Huge | Str. × 4 | Str. × 8 |
+| Gargantuan | Str. × 8 | Str. × 16 |
 
-Extra inventories are additional slots that do not count against your main inventory slots.
+## Weight to Slots Calculations
 
-**Equipped**  
-You have 4 extra inventory slots on your person that can hold usable items, such as weapons, shields, and quivers. Items in these extra slots do not take up inventory slots.
+Each item in your inventory occupies a certain number of slots based on its weight. This system simplifies item management by categorising items into four weight classes:
 
-**Worn**  
-Any item worn on the person, such as armour, clothing, or simple accessories like necklaces or rings, does not take up slots.
+| Weight Class | Weight Range | Inventory Slots Used |
+|---|---|---|
+| **Diminutive** | Less than 1 lb. | 5 Items per 1 Slot |
+| **Compact** | 1 lb. to 5 lbs. | 1 Items per 1 Slot |
+| **Sturdy** | 6 lbs. to 10 lbs. | 2 Slot for 1 Item |
+| **Cumbersome** | 11 lbs. to 20 lbs. | 3 Slots for 1 Item |
+| **Bulky** | 21 lbs. to 40 lbs. | 4 Slots for 1 Item |
+| **Enormous** | 41 lbs. or more | 5 Slots for 1 Item |
 
-## Inventory Items
-
-### Ammunition Storing Equipment
-
-Items such as crossbow bolt cases or quivers can store up to 20 bolts or arrows.
-
-### Backpacks
-
-At the start of the game, depending on the starting gear chosen from your class, you receive a Backpack. For a list of Backpacks and their mechanics, go to [here](../../equipment/tools/backpack.md).
-
-**Retrieving Item**  
-Taking an item from a backpack requires an :rsc-action: **Action**, representing the time it takes to search for and retrieve an item. As such, you can't use an item that is inside your backpack until you have used an :rsc-action: **Action** to pull it out. 
-
-Proficiency in Dexterity (Sleight of Hand) allows you to retrieve an item from your backpack as an :rsc-bonus-action: **Bonus Action** instead. If you have expertise in Dexterity (Sleight of Hand), it does not consume any type of Action.
-
-### The Mysterious Black Chest
-
-A mysterious item conjured by the will of the DM and powered by the DM's Convenience. This chest appears whenever the DM feels like it and can seemingly store an infinite number of items.
-
-## Item Size Categories
-
-An item's "Bulk" does not necessarily represent its weight. It might be light but cumbersome or small but very heavy. Refer to the rules below for item categorization.
-
-| Category | Description | Item per Slot | Example |
-|---|---|:-:|---|
-| **Stackable** | Small items that can be stacked together without taking up multiple inventory slots. Certain items, like ball bearings, can stack up to 1000 before taking up an inventory slot if put into a pouch.| Up to 10 | Arrows, Bolts, Rations, Ball bearings |
-| **Light** | Items that are easy to carry and do not take up much space individually. Equipment with the :weapon-prop-light: *light* property does not take an inventory slot until you have a **stack of three**.| Up to 3 | Daggers, Potions, Small tools |
-| **Medium** | Standard-sized items that require some space in your inventory. These items take up one inventory slot each. | Up to 1 per slot | Longswords, Shields, Spellbooks |
-| **Heavy** | Large or cumbersome items that require significant space to carry, usually consist of items with the :weapon-prop-heavy: *Heavy* or :weapon-prop-two-handed: *Two-handed* property.| Takes 2 Slot | Greatswords, Halberds, Mauls |
-| **Great**  | Bulky protective gear that takes up considerable space when not worn. These items take up **three inventory slots** each when they are not in the Equipped or Worn slots. | Takes 3 Slot | Medium Armour, Heavy Armour, Tower shields |

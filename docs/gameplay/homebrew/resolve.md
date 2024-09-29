@@ -1,5 +1,7 @@
 ---
 icon: material/door-open
+search:
+  exclude: true
 ---
 
 !!! homebrew "This is a Homebrew Mechanic!"

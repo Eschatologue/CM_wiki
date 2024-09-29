@@ -8,7 +8,7 @@ Before the primordial gods formed the world, there was only the Void. This forml
 
 You can draw upon the power of the void and send one Tiny or smaller object that you touch into the Void. The item must be non-magical in nature, and cannot be on object that is being worn or carried by another creature.
 
-It remains in the Void for as long as you concentrate on this ability, as if you were concentrating on a spell. If you maintain concentration for 1 hour, the object is permanently destroyed. If you loose concentration, the object reappears in an unoccupied space as close as possible to its last location.
+It remains in the Void for as long as you concentrate on this ability, as if you were :spell-concentration: Concentrating on a spell. If you maintain :spell-concentration: Concentration for 1 hour, the object is permanently destroyed. If you lose :spell-concentration: Concentration, the object reappears in an unoccupied space as close as possible to its last location.
 
 You can use this feature once at no cost, and can't do so again until you finish a Long Rest. If you have no uses left, you can expend a spell slot to regain its use.
 
@@ -36,14 +36,16 @@ Your connection to the Void allows you to undo arcane magic, giving your the fol
 
 :spell-level-3: ***Dispel Magic.*** When you cast *Dispel Magic* and you need to make a spellcasting ability check to determine the result, you can treat a roll of 9 or lower as a 10.
 
-:spell-level-3: ***Counterspell.*** When you cast *Counterspell* the target must subtract 1d6 from the save. 
+:spell-level-3: ***Counterspell.*** When you cast *Counterspell* you can subtract the result of the target's save by a number equal to your Charisma modifier (minimum of +1).
 
 Once you use one of this feature, you can’t use it again until you finish a Short Rest unless you spend 1 Sorcery Points (no action required) to restore your use of it.
 
 ### Level 14: Disciple of the Void
 
-When you use your Entropic Touch, you can send a total number of objects equal to your Charisma modifier (minimum of 1) into the Void at one time. Only one object can be maximum size; the rest must be Small. If you use this ability again, you must choose an object to reappear.
+When you use your Entropic Touch, you can send a total number of objects equal to your Charisma modifier (minimum of +1) into the Void at one time. Only one object can be maximum size; the rest must be Small. If you use this ability again, you must choose an object to reappear.
 
 ### Level 18: Ray of Annihilation
 
-Your connection to the Void grants you the power to unmake creation itself. You learn the *Disintegrate* spell, and you can cast it without expending a spell slot. When you cast *Disintegrate* this way, it is cast at the level of your highest available spell slot. You can use this feature a number of times equal to your Charisma modifier (minimum of once), and regain all expended uses after a Long Rest.
+Your connection to the Void grants you the power to unmake creation itself. You learn the *Disintegrate* spell and you can cast it at its lowest level without expending a spell slot.
+
+Once you use one of this feature, you can’t use it again until you finish a Short Rest unless you spend 7 Sorcery Points (no action required) to restore your use of it.

@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 <p style="text-align: center;">
 
 <i>

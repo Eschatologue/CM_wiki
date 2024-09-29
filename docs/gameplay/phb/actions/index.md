@@ -31,13 +31,13 @@ The game uses actions to govern how much you can do at one time. **You can take 
 
 Actions can come up in other situations too: In a social interactions, you can try to Influence a creatyre or use the Search action to read the creature's body language, but you can't do both at the same time. And when you're exploring a dungeon, you can't simultaneouslt use the Serach action to look for traps and use the Help action to aid another character who's trying to open a stuck door (with Utilise action)
 
-## :rsc-bonus-action: Bonus Actions
+## Bonus Actions
 
-Various class features, spells, and other abilities let you take an additional action on your turn called a :rsc-bonus-action: **Bonus Action**. The Cunning Action feature for a Rogue, allows it to take a Bonus Action. **You can take a Bonus Action only when a special ability, a spell, or another feature of the game states that you can do something as a Bonus Action**. You otherwise don't have a Bonus Action to take.
+Various class features, spells, and other abilities let you take an additional action on your turn called a :rsc-bonus-action: **Bonus Action**. The Cunning Action feature for a Rogue, allows it to take a Bonus Action. You can take a Bonus Action **only** when a special ability, a spell, or another feature of the game states that you can do something as a Bonus Action. You otherwise don't have a Bonus Action to take.
 
 You choose when to take a Bonus Action during your turn unless the Bonus Action's timing is specified. Anything that deprives you of the ability to take Actions also prevents you from taking a Bonus Action.
 
-## :rsc-reaction: Reactions
+## Reactions
 
 Certain special abilities, spells, and situations allow yout ake special actions called a :rsc-reaction: **Reaction** A Reaction is an instant response to a trigger of some kind, which can occur on your turn or on someeone else's. The Opportunity Attack is the most common type of Reactions.
 

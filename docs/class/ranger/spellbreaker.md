@@ -6,9 +6,9 @@ Spellbreakers are a small but dedicated group of Rangers that specialize in hunt
 
 ### Level 3: Mage Breaker
 
-You ward your weapons with antimagic enchantments. When you hit a creature with a weapon attack, it has :d20-disadv: Disadvantage on its Constitution saving throw to maintain concentration.
+You ward your weapons with antimagic enchantments. When you hit a creature with a weapon attack, it has :d20-disadv: Disadvantage on its Constitution saving throw to maintain :apwll-concentration: Concentration.
 
-Also, when you see or hear a creature within your reach attempt to cast a spell, you can use your Reaction to make an Opportunity Attack against it.
+Also, when you see a creature casting a spell with Verbal, Somatic, or Material components, or attempt to teleport, you can take a Reaction to make one weapon attack or one Unarmed Strike against it.
 
 ### Level 3: Spellsight
 
@@ -40,11 +40,11 @@ Moreover, whenever you are subjected you to a spell or magical effect that allow
 
 You are an unparalleled hunter of mages. Whenever you hit a creature with a weapon attack, you can expend a level 1+ spell slot to deal bonus :dmg-force: Force damage to your target equal to 1d8 per level of the spell slot you expended.
 
-Also, when you cast Dispel Magic, you can add your Wisdom modifier (minimum of +1) to the ability check.
+Also, when you cast *Dispel Magic*, you can add your Wisdom modifier (minimum of +1) to the ability check and when you cast *Counterspell* you can subtract the result of the target's save by a number equal to your Wisdom modifier (minimum of +1).
 
 ### Level 15: Mantle of the Master
 
-Your Spellbreaker training has reached its pinnacle. You are resistant to damage from spells and all other magical effects so long as you don't have the Unconscious or Incapacitated conditions.
+Your Spellbreaker training has reached its pinnacle. You are resistant to damage from spells and all other magical effects so long you don't have the Unconscious or Incapacitated condition.
 
 ### Level 15: Reflect Spell
 

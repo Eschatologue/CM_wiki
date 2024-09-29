@@ -1,4 +1,8 @@
-# Crown & Misery Items
+---
+icon: ui/homebrew
+---
+
+# Crown & Misery Adventuring Gear
 
 These items are unique to the world that Crown & Misery takes place
 
@@ -12,7 +16,7 @@ A detailed technical drawing of a machine, providing insight into its design and
 
 ### Celestial Tome (100 SP)
 
-A large, book filled with cryptic celestial symbols and volatile script. Decoding the letters is a painstaking process that requires both intellectual and spiritual fortitude. You can consult this tome to gain Advantage on Intelligence checks related to celestial languages.
+A large, book filled with cryptic celestial symbols and volatile script. Decoding the letters is a painstaking process that requires both intellectual and spiritual fortitude. You can consult this tome to gain Advantage on Intelligence checks related to Celestial languages.
 
 ---
 

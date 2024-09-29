@@ -38,7 +38,6 @@ nav:
       - Condition: gameplay/phb/condition.md
     - Additional Mechanics:
       - The Silver Standard: gameplay/homebrew/silver-standard.md
-      - Death's Door and Resove: gameplay/homebrew/resolve.md
       - Inventory System: gameplay/homebrew/inventory.md
       - Downtime:
         - gameplay/downtime/index.md
@@ -104,16 +103,15 @@ nav:
         - equipment/weapon/index.md
         - Cold Weapons: equipment/weapon/weapon-cold.md
         - Firearms: equipment/weapon/weapon-firearm.md
-      - Armour: 
-        - equipment/armour/index.md
-        - Armour Types: equipment/armour/armour-table.md
+      - Armour: equipment/armour.md 
       - Tools: 
         - equipment/tools/index.md
         - Artisan Tools: equipment/tools/artisan-tools.md
         - Other Tools: equipment/tools/other-tools.md
       - Adventuring Gear: 
-          - 2024 PHB Items: equipment/adventuring-gear/phb.md
-          - C&M Items: equipment/adventuring-gear/cm.md
+          - Equipment Packs: equipment/adventuring-gear/equipment-packs.md
+          - Spellcasting Focuses: equipment/adventuring-gear/spellcasting-focus.md
+          - Items: equipment/adventuring-gear/item.md
       - Services: equipment/services.md
       - Magic Items: equipment/magic-item.md
       - Consumeables: 
