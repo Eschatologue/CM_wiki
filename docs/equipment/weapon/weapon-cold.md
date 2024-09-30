@@ -35,11 +35,11 @@ Simple weapons are easy to use and require minimal training, making them accessi
 | *Javelin* | 1d6 :dmg-piercing: Piercing | Thrown (:weapon-prop-ranged: Range 30/120) | [Slow] | Compact | 5 SP |
 | *Light Hammer* | 1d4 :dmg-blunt: Bludgeoning | Light, Thrown (:weapon-prop-ranged: Range 20/60) | [Nick] | Compact | 20 SP |
 | *Mace* | 1d6 :dmg-blunt: Bludgeoning | — | [Sap] | Moderate | 50 SP |
-| *Falchion* | 1d6 :dmg-slashing:: Slashing | Finesse, Versatile (2d4) | [Sap] | Moderate | 100 SP |
+| *Falchion* | 1d6 :dmg-slashing: Slashing | Finesse, Versatile (2d4) | [Sap] | Moderate | 100 SP |
 | *Quarterstaff* | 1d6 :dmg-blunt: Bludgeoning | Versatile (1d8) | [Topple] | Moderate | 2 SP |
 | *Sickle* | 1d4 :dmg-slashing: Slashing | Light | [Nick] | Compact | 10 SP |
 | *Spear* | 1d6 :dmg-piercing: Piercing | Thrown (:weapon-prop-ranged: Range 20/60), Versatile (1d8) | [Sap] | Moderate | 10 SP |
-| *War Scythe* | 1d8 :dmg-slashing:: Slashing | Reach, Two-handed | [[Topple]] | Moderate | 50 SP |
+| *War Scythe* | 1d8 :dmg-slashing: Slashing | Reach, Two-handed | [[Topple]] | Moderate | 50 SP |
 
 | Ranged Simple Weapons | damage | properties | mastery | weight | cost |
 |:--|---|---|---|:-:|--:|
@@ -69,7 +69,7 @@ Martial weapons require more training to use effectively but offer greater damag
 | *Morningstar* | 1d8 :dmg-piercing: Piercing | — | [Sap] | Moderate | 150 SP |
 | *Pike* | 1d10 :dmg-piercing: Piercing | Heavy, Reach, Two-Handed | [Push] | Cumbersome | 50 SP |
 | *Rapier* | 1d8 :dmg-piercing: Piercing | Finesse | [Vex] | Moderate | 250 SP |
-| *Sabre* | 1d8 :dmg-slashing:: Slashing | Finesse | [Vex] | Moderate | 150 SP |
+| *Sabre* | 1d8 :dmg-slashing: Slashing | Finesse | [Vex] | Moderate | 150 SP |
 | *Scimitar* | 1d6 :dmg-slashing: Slashing | Finesse, Light | [Nick] | Compact | 250 SP |
 | *Shortsword* | 1d6 :dmg-piercing: Piercing | Finesse, Light | [Vex] | Compact | 100 SP |
 | *Trident* | 1d8 :dmg-piercing: Piercing | Thrown (:weapon-prop-ranged: Range 20/60), Versatile (1d10) | [Topple] | Moderate | 50 SP |
@@ -79,7 +79,7 @@ Martial weapons require more training to use effectively but offer greater damag
 
 | Ranged Martial Weapons | damage | properties | mastery | weight | cost |
 |:--|---|---|---|:-:|--:|
-| *Arbalest* | 2d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 180/360), Heavy, Loading, Mounted, Two-handed, Sighted | [Push] | Enormous | 950 SP |
+| *Arbalest* | 2d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 180/360), Heavy, Loading, Mounted, Two-handed, Sighted | [Push] | Bulky | 950 SP |
 | *Crossbow, Hand* | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 30/120), Light, Loading | [Vex] | Moderate | 750 SP |
 | *Crossbow, Heavy* | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 100/400), Heavy, Loading, Two-handed | [Push] | Moderate | 500 SP |
 | *Heavy Repeating Crossbow* | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 90/360), Automatic (1), Heavy, Reload (4), Two-handed | [Push] | Moderate | 700 SP |

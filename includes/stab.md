@@ -4,3 +4,7 @@
 *[Cumbersome]: 2 Inv. Slot for 1 Item.
 *[Bulky]: 3 Inv. Slot for 1 Item.
 *[Enormous]: 4 Inv. Slot for 1 Item.
+*[Monstrous]: 6 Inv. Slot for 1 Item.
+*[Titanic]: 8 Inv. Slot for 1 Item.
+*[Colossal]: 10 Inv. Slot for 1 Item.
+*[Gargantuan]: 12 Inv. Slot for 1 Item.
