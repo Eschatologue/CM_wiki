@@ -27,16 +27,6 @@ While dragging, lifting, or pushing weight in excess of the maximum weight you c
 | Huge | Str. × 4 | Str. × 8 |
 | Gargantuan | Str. × 8 | Str. × 16 |
 
-### 2024 Player's Handbook Carrying Capacity table
-
-| Creature Size | Carry | Drag/Lift/Push |
-|---|---|---|
-| Tiny | Str. × 7.5 lb. | Str. × 15 lb. |
-| Small/Medium | Str. × 15 lb. | Str. × 30 lb. |
-| Large | Str. × 30 lb. | Str. × 60 lb. |
-| Huge | Str. × 60 lb. | Str. × 120 lb. |
-| Gargantuan | Str. × 120 lb. | Str. × 240 lb. |
-
 ## Weight to Slots Calculations
 
 Each item in your inventory occupies a certain number of slots based on its weight. This system simplifies item management by categorising items into four weight classes:
