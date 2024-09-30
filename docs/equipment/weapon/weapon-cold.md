@@ -46,7 +46,7 @@ Simple weapons are easy to use and require minimal training, making them accessi
 | *Blowgun* | 1 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 25/100; Needle), Loading | [Vex] | Compact | 100 SP |
 | *Dart* (2) | 1d4 :dmg-piercing: Piercing | Finesse, Thrown (:weapon-prop-ranged: Range 20/60) | [Vex] | Diminutive | 1 SP |
 | *Light Crossbow* | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 80/320; Bolt), Loading, Two-Handed | [Slow] | Moderate | 250 SP |
-| *Light Repeating Crossbow* | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 60/240), Automatic (2), Reload (6), Two-handed | [Slow] | Cumbersome | 400 SP |
+| *Light Repeating Crossbow* | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 60/240; Bolt), Automatic (2), Reload (6), Two-handed | [Slow] | Cumbersome | 400 SP |
 | *Shortbow* | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 80/320; Arrow), Two-Handed | [Vex] | Moderate | 250 SP |
 | *Sling* | 1d4 :dmg-blunt: Bludgeoning | Ammunition (:weapon-prop-ranged: Range 30/120; Bullet) | [Slow] | Moderate | 1 SP |
 
@@ -80,11 +80,11 @@ Martial weapons require more training to use effectively but offer greater damag
 | Ranged Martial Weapons | damage | properties | mastery | weight | cost |
 |:--|---|---|---|:-:|--:|
 | *Arbalest* | 2d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 180/360), Heavy, Loading, Mounted, Two-handed, Sighted | [Push] | Bulky | 950 SP |
-| *Crossbow, Hand* | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 30/120), Light, Loading | [Vex] | Moderate | 750 SP |
-| *Crossbow, Heavy* | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 100/400), Heavy, Loading, Two-handed | [Push] | Moderate | 500 SP |
-| *Heavy Repeating Crossbow* | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 90/360), Automatic (1), Heavy, Reload (4), Two-handed | [Push] | Moderate | 700 SP |
-| *Compound Bow* | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 100/400), Heavy, Two-handed | [Slow] | Moderate | 850 SP |
-| *Longbow* | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 150/600), Heavy, Two-handed | [Slow] | Moderate | 500 SP |
+| *Crossbow, Hand* | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 30/120; Bolt), Light, Loading | [Vex] | Moderate | 750 SP |
+| *Crossbow, Heavy* | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 100/400; Bolt), Heavy, Loading, Two-handed | [Push] | Moderate | 500 SP |
+| *Heavy Repeating Crossbow* | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 90/360; Bolt), Automatic (1), Heavy, Reload (4), Two-handed | [Push] | Moderate | 700 SP |
+| *Compound Bow* | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 100/400; Arrow), Heavy, Two-handed | [Slow] | Moderate | 850 SP |
+| *Longbow* | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 150/600; Arrow), Heavy, Two-handed | [Slow] | Moderate | 500 SP |
 
 ##### Ammunition
 

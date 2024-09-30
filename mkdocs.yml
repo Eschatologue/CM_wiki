@@ -104,7 +104,7 @@ nav:
         - Weapons: 
           - equipment/weapon/index.md
           - Cold Weapons: equipment/weapon/weapon-cold.md
-          - Firearms: equipment/weapon/weapon-firearm.md
+          - Firearms: equipment/weapon/weapon-firearm.md 
       - Tools: 
         - equipment/tools/index.md
         - Artisan Tools: equipment/tools/artisan-tools.md
@@ -116,7 +116,8 @@ nav:
           - Items: equipment/adventuring-gear/item.md
       - Services: equipment/services.md
       - Magic Items: equipment/magic-item.md
-      - Consumeables: 
+      - Other: 
+        - Firearms Augments: equipment/adventuring-gear/firearm-augment.md
         - Potion: equipment/consumeables/potion.md
         - Spell Scroll: equipment/consumeables/spell-scroll.md
         - Grenade: equipment/consumeables/grenade.md

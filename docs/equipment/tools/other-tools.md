@@ -30,6 +30,13 @@ These tools support adventure and other pursuits.
 
 ---
 
+### Gunsmith's Tool (900 SP)
+
+**Ability:** Intelligence or Dexterity    
+**Craft:** Firearms Augmentations
+
+---
+
 ### Herbalism Kit (50 SP)
 
 **Ability:** Intelligence  
