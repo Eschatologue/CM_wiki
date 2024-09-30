@@ -40,9 +40,3 @@
 *[Performance]: Determines how well you can delight an audience with music, dance, acting, storytelling, or some other form of entertainment.
 *[Persuasion]: Attempt to influence someone or a group of people with tact, social graces, or good nature.
 
-*[Diminutive (XS)]: 5 Items per 1 Inv. Slot.
-*[Compact (S)]: 2 Items per 1 Inv. Slot.
-*[Moderate (M)]: 1 Item per 1 Inv. Slot.
-*[Cumbersome (L) Weight]: 2 Inv. Slot for 1 Item.
-*[Bulky (XL)]: 3 Inv. Slot for 1 Item.
-*[Enormous (XXL)]: 4 Inv. Slot for 1 Item.

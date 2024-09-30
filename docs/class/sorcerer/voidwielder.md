@@ -46,6 +46,6 @@ When you use your Entropic Touch, you can send a total number of objects equal t
 
 ### Level 18: Ray of Annihilation
 
-Your connection to the Void grants you the power to unmake creation itself. You learn the *Disintegrate* spell and you can cast it at its lowest level without expending a spell slot.
+Your connection to the Void grants you the power to unmake creation itself. You learn the :spell-level-6 *Disintegrate* spell and you can cast it at its lowest level without expending a spell slot.
 
 Once you use one of this feature, you can’t use it again until you finish a Short Rest unless you spend 7 Sorcery Points (no action required) to restore your use of it.
