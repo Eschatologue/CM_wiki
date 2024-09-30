@@ -426,7 +426,7 @@ A Pole is 10 feet long. You can use it to touch something up to 10 feet away. If
 
 ### Portable Ram
 
-Adventuring gear, 40 sp, Bulky Weight
+Adventuring gear, 40 sp, Enormous Weight
 
 You can use a Portable Ram to break down doors. When doing so, you gain a +4 bonus to the Strength check. One other character can help you use the ram, giving you Advantage on this check.
 

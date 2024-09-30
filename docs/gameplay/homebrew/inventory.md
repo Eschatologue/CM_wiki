@@ -37,6 +37,6 @@ Each item in your inventory occupies a certain number of slots based on its weig
 | **Compact** | S | 1 lbs. to 5 lbs. | 2 Items per 1 Slot |
 | **Moderate** | M | 6 lbs. to 10 lbs. | 1 Item per 1 Slot |
 | **Cumbersome** | L | 11 lbs. to 20 lbs. | 2 Slots for 1 Item |
-| **Bulky** | XL | 21 lbs. to 40 lbs. | 3 Slots for 1 Item |
-| **Enormous** | XXL | 41 lbs. or more | 4 Slots for 1 Item |
+| **Bulky** | XL | 21 lbs. to 30 lbs. | 3 Slots for 1 Item |
+| **Enormous** | XXL | 31 lbs. or more | 4 Slots for 1 Item |
 
