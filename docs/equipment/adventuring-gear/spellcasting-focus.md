@@ -46,3 +46,9 @@ The table indicates whether a Holy Symbol needs to be held, worn, or borne on fa
 | Emblem (borne on fabric or a Shield) | 50 SP |
 | Reliquary (held) | 50 SP |
 
+*[Diminutive]: 5 Items per 1 Inv. Slot.
+*[Compact]: 2 Items per 1 Inv. Slot.
+*[Moderate]: 1 Item per 1 Inv. Slot.
+*[Cumbersome]: 2 Inv. Slot for 1 Item.
+*[Bulky]: 3 Inv. Slot for 1 Item.
+*[Enormous]: 4 Inv. Slot for 1 Item.

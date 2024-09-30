@@ -71,14 +71,6 @@ As a Bonus Action, you can use a vial of Basic Poison to coat one weapon or up t
 
 ---
 
-### Basket
-
-Adventuring gear, 4 sp, Compact Weight
-
-A Basket holds up to 40 pounds within 2 cubic feet.
-
----
-
 ### Bedroll
 
 Adventuring gear, 10 sp, Moderate Weight
@@ -572,9 +564,3 @@ A Waterskin holds up to 4 pints. If you don't drink sufficient water, you risk d
 
 ---
 
-*[Diminutive]: 5 Items per 1 Inv. Slot.
-*[Compact]: 2 Items per 1 Inv. Slot.
-*[Moderate]: 1 Item per 1 Inv. Slot.
-*[Cumbersome]: 2 Inv. Slot for 1 Item.
-*[Bulky]: 3 Inv. Slot for 1 Item.
-*[Enormous]: 4 Inv. Slot for 1 Item.
