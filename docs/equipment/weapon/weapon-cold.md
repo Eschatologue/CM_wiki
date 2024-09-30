@@ -39,7 +39,7 @@ Simple weapons are easy to use and require minimal training, making them accessi
 | *Quarterstaff* | 1d6 :dmg-blunt: Bludgeoning | Versatile (1d8) | [Topple] | Moderate | 2 SP |
 | *Sickle* | 1d4 :dmg-slashing: Slashing | Light | [Nick] | Compact | 10 SP |
 | *Spear* | 1d6 :dmg-piercing: Piercing | Thrown (:weapon-prop-ranged: Range 20/60), Versatile (1d8) | [Sap] | Moderate | 10 SP |
-| *War Scythe* | 1d8 :dmg-slashing: Slashing | Reach, Two-handed | [[Topple]] | Moderate | 50 SP |
+| *War Scythe* | 1d8 :dmg-slashing: Slashing | Reach, Two-handed | [Topple] | Moderate | 50 SP |
 
 | Ranged Simple Weapons | damage | properties | mastery | weight | cost |
 |:--|---|---|---|:-:|--:|

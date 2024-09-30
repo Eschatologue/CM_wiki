@@ -10,38 +10,62 @@ Firearms are uncommon and challenging to use in Antares, often considered imprac
 
 **Gun weapons**, shortened as **guns** and often referred to as **firearms**, are unique mid-range to long-range weapons that use a special explosive charge known as '**cordite**' to propel projectiles over long distances. These weapons were brought over by the Londoners and are used exclusively by their people.
 
-***Main Article:** [Firearms](../../lore/entry/firearms.md)*
+The Firearm tables in this section shows the game’s main weapons. These table lists the cost and weight of each weapon, as well as the following details:
 
-##### Gun Weapon Table
+***Category.*** Every weapon falls into a category: Short-Arm, Long-Arm, Advanced. Weapon proficiencies are usually tied to one of these categories. For example, you might have proficiency with Simple weapons.
 
-| Short-Arms | damage | properties | cost |
-|---|---|---|--:|
-| Pistol, Revolver | 1d12 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 60/180), Reload (6) | 2,500 sp |
-| Pistol, Semi-Auto | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 60/180), Automatic (2), Light, Reload (7) | 3,000 sp |
-| Submachine Gun | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 40/90), Automatic (4), Reload (28), Two-handed | 3,500 sp |
+***Damage.*** The table lists the amount of damage a weapon deals when an attacker hits with it as well as the type of that damage.
 
-| Long-Arms | damage | properties | cost |
-|---|---|---|--:|
-| Rifle, Automatic | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 90/270), Automatic (3), Heavy, Reload (12), Two-handed | 6,500 sp |
-| Rifle, Marksmen | 2d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 180/550), Heavy, Reload (6), Sighted, Two-handed | 8,000 sp |
-| Rifle, Semi-Auto | 2d4 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 120/320), Automatic (1), Heavy, Reload (8), Two-handed | 5,000 sp |
-| Shotgun, Over-under | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 30/50), Automatic (3), Heavy, Reload (2), Scatter(2d6), Two-handed, Special | 4,000 sp |
-| Shotgun, Pump | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 40/90), Automatic (3), Heavy, Reload (7), Scatter(1d12), Two-handed | 6,000 sp |
+***Properties.*** Any properties a weapon has are listed in the Properties column. Each property is defined in the [Properties](index.md#weapon-properties) section.
 
-| Advanced Firearms | damage | properties | cost |
-|---|---|---|--:|
-| Machine Gun | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 150/600), Automatic (4), Heavy, Mounted, Reload (50), Two-Handed | 15,000  sp |
-| Rocket Launcher | 8d6 :dmg-fire: Fire | Ammunition (:weapon-prop-ranged: Range 150/300), Explosive (20ft. :aoe-sphere: sphere), Heavy, Reload (1), Two-Handed | 12,500 sp |
-| Grenade Launcher | 1 :dmg-blunt: Bludgeoning | Ammunition (:weapon-prop-ranged: Range 120), Heavy, Loading, Special | 9,000 sp |
+***Augment Slot (A. Slot).*** Each firearms has a number of Augmentation Slots, which is defined further in [Firearms Augmentation](#augmentation). A Firearm can only bear a number of Augmentations up to this number.
+
+### Short-Arm
+
+The Short-Arm Table include pistols, revolvers, and other small, easily concealable weapons. These are ideal for close-quarters combat and provide a good balance between firepower and maneuverability.
+
+##### Short-Arm
+
+| Short-Arms | damage | properties | A. Slot | weight | cost |
+|---|---|---|:-:|:-:|--:|
+| Revolver | 1d12 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 60/180), Reload (6) | 2 | Moderate | 2,500 SP |
+| Semi-Auto Pistol | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 60/180), Automatic (2), Light, Reload (7) | 3 | Moderate | 3,000 SP |
+| Submachine Gun | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 40/90), Automatic (4), Reload (28), Two-handed | 2 | Moderate | 3,500 SP |
+
+### Long-Arm
+
+The Long-arm Table encompass rifles and other longer-range weapons. These are designed for mid to long-range engagements, offering greater accuracy and firepower compared to short-arms.
+
+##### Long-Arm 
+
+| Long-Arms | damage | properties | augment slot | weight | cost |
+|---|---|---|:-:|:-:|--:|
+| Rifle, Automatic | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 90/270), Automatic (3), Heavy, Reload (12), Two-handed | 2 | Cumbersome | 6,500 SP |
+| Rifle, Marksmen | 2d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 180/550), Heavy, Reload (6), Sighted, Two-handed | 3 | Cumbersome | 8,000 SP |
+| Rifle, Semi-Auto | 2d4 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 120/320), Automatic (1), Heavy, Reload (8), Two-handed | 3 | Cumbersome | 5,000 SP |
+| Shotgun, Over-under | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 30/50), Automatic (3), Heavy, Reload (2), Scatter (2d6), Two-handed, Special | 2 | Moderate | 4,000 SP |
+| Shotgun, Pump | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 40/90), Automatic (3), Heavy, Reload (7), Scatter (1d12), Two-handed | 3 | Moderate | 6,000 SP |
+
+### Advanced Firearms
+
+Advanced Firearms Table include rocket launchers, flamethrowers, machine guns, and other large, destructive weapons. These are typically used for specialized situations where maximum firepower is needed.
+
+##### Advanced Firearms
+
+| Advanced Firearms | damage | properties | augment slot | weight | cost |
+|---|---|---|:-:|:-:|--:|
+| Machine Gun | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-ranged: Range 150/600), Automatic (4), Heavy, Mounted, Reload (50), Two-Handed | 1 | Bulky | 15,000  SP |
+| Rocket Launcher | 8d6 :dmg-fire: Fire | Ammunition (:weapon-prop-ranged: Range 150/300), Explosive (20ft. :aoe-sphere: sphere), Heavy, Reload (1), Two-Handed | 0 | Bulky | 12,500 SP |
+| Grenade Launcher | 1 :dmg-blunt: Bludgeoning | Ammunition (:weapon-prop-ranged: Range 120), Heavy, Loading, Special | 0 | Moderate | 9,000 SP |
 
 ##### Ammunitions
 
 | name | properties | cost |
 |---|---|--:|
-| Pistol Cartridges (20) | Used by Pistols and SMGs | 300 sp |
-| Rifle Cartridges (20) | Used by Rifles and Machine Gun | 500 sp |
-| Shotgun Cartridges (20) | Used by Shotguns | 150 sp |
-| Rocket Propelled Grenade (1) | Used by Rocket Launchers | 1,000 sp |
+| Pistol Cartridges (20) | Used by Pistols and SMGs | 300 SP |
+| Rifle Cartridges (20) | Used by Rifles and Machine Gun | 500 SP |
+| Shotgun Cartridges (20) | Used by Shotguns | 150 SP |
+| Rocket Propelled Grenade (1) | Used by Rocket Launchers | 1,000 SP |
 
 ### Special Weapons
 
@@ -69,34 +93,7 @@ Most creatures are aware of how firearms work, but using them effectively requir
 
 Once a creature successfully understands how a firearm operates, they can spend downtime training with it to gain proficiency. Only after this training can they use the weapon effectively without further checks. This training follows the rules written in [Downtime Activity: Training](../../gameplay/downtime/training.md).
 
-## Weapon Descriptions
-
-Firearms in Antares are divided into three categories: **Short-Arm**, **Long-Arm**, and **Advanced Firearms**. Each category serves a unique purpose and offers distinct advantages in combat. Note that this section is non-exhaustive and represents common examples within each category.
-
-#### Short-Arm
-
-Short-arm firearms include pistols, revolvers, and other small, easily concealable weapons. These are ideal for close-quarters combat and provide a good balance between firepower and maneuverability.
-
-- **Pistols:** Compact and easy to handle, pistols are perfect for quick-draw situations and can be fired with one hand.
-- **Revolvers:** Known for their reliability and stopping power, revolvers are a popular choice among those who value durability over capacity.
-- **Submachine Guns (SMGs):** SMGs provide a high rate of fire and are effective in close to mid-range combat, making them versatile for different combat scenarios.
-
-#### Long-Arm
-
-Long-arm firearms encompass rifles, submachine guns (SMGs), and other longer-range weapons. These are designed for mid to long-range engagements, offering greater accuracy and firepower compared to short-arms.
-
-- **Rifles:** Highly accurate and powerful, rifles are the preferred choice for long-range combat. They come in various types, including bolt-action and semi-automatic.
-- **Shotguns:** Shotguns are powerful weapons effective at close to mid-range. They fire a spread of pellets, making them ideal for hitting a single target with devastating force.
-
-#### Advanced Firearms
-
-Advanced firearms include rocket launchers, flamethrowers, machine guns, and other large, destructive weapons. These are typically used for specialized situations where maximum firepower is needed.
-
-- **Rocket Launchers:** Capable of dealing massive damage, rocket launchers are used to destroy fortified positions or vehicles.
-- **Flamethrowers:** Ideal for clearing out entrenched enemies, flamethrowers spread fire over a wide area, causing continuous damage.
-- **Machine Guns:** Offering a high rate of sustained fire, machine guns are used to suppress enemy forces and provide heavy support during engagements.
-
-## Firearms Augmentation
+## Augmentation
 
 With the release of the 2024 edition of the Player's Handbook, all Cold Weapons gained new mechanics known as [Weapon Mastery](index.md#mastery-properties), allowing them to produce additional effects upon hitting a target. This mechanic reflects the wielder's mastery and skill in wielding such weapons. However, as noted earlier, the power of firearms comes from the weapon itself, not the strength or skill of the user. A user can be as strong as they wish, but they are ultimately limited by the weapon's inherent capabilities.
 
@@ -106,9 +103,13 @@ To balance this, those who choose to wield firearms can now access a new mechani
 
 As the name suggest, firearms augmentations are only eligible to firearms that met the prerequisites. To make an augmentation to a firearms you few things:
 
-1. **Proficiency:** You need to be Proficient at a Firearms you want to Augment, you also need to have and proficient with Tinker Tools.
-2. **Time:** Augmenting a firearm takes time and can be usually be done as part of a Long Rest or you dedicate your time to augment said firearm during a Short Rest.
-3. **Silvers:** Adding a new augmentation to a firearm costs silvers, this cost represents the materials you need to acquire to make said augmentations to that one specific firearms types, once you make that augmentation, you always has it on you and don't need to expend additional silver to make a new one
+***Tools.*** You need to have a Gunsmith's Tool to make modification with your Firearms.
+
+***Proficiency.*** You need to be Proficient at a Firearms you want to Augment, you also need to have and proficient with Gunsmith's Tool.
+
+***Time.*** Augmenting a firearm takes time and can be usually be done as part of a Long Rest or you dedicate your time to Augment said firearm during a Short Rest.
+
+***Money.*** Adding a new augmentation to a firearm costs money, this cost represents the materials you need to acquire to make said augmentations to that one specific firearms types, once you make that augmentation, you always has it on you and don't need to expend additional money to make a new one.
 
 #### Scope
 
@@ -116,3 +117,10 @@ As the name suggest, firearms augmentations are only eligible to firearms that m
 **Prerequisite:** No :weapon-prop-sighted: **Sighted** property, Short-arms or Long-arms  
 
 Adds the :weapon-prop-sighted: **Sighted** property to this weapon and increase its Range by 20 feet.
+
+*[Diminutive]: 5 Items per 1 Inv. Slot.
+*[Compact]: 2 Items per 1 Inv. Slot.
+*[Moderate]: 1 Item per 1 Inv. Slot.
+*[Cumbersome]: 2 Inv. Slot for 1 Item.
+*[Bulky]: 3 Inv. Slot for 1 Item.
+*[Enormous]: 4 Inv. Slot for 1 Item.
