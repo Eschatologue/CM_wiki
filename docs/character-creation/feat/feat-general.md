@@ -759,23 +759,6 @@ While the card is imbued with the spell, you can use a :rsc-bonus-action: Bonus 
 
 ---
 
-### Dual Wielder - Alternate
-
-*General Feat (Prerequisite: Level 4+, Strength or Dexterity 13+)*
-
-You gain the following benefits.
-
-**Ability Score Increase**  
-Increase your Strength or Dexterity score by 1, to a maximum of 20.
-
-**Enhanced Dual Wielding**  
-When you take the Attack action on your turn and attack with a wweapon that lacks the :weapon-prop-heavy: **Heavy** or the :weapon-prop-two-handed: **Two-Handed** property, you can use a Bonus Action to attack with a different melee weapon that you're holding in the other hand that lacks the :weapon-prop-heavy: **Heavy** or the :weapon-prop-two-handed: **Two-Handed** property. You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative.
-
-**Quick Draw**  
-You can draw or stow two weapons that lack the Two-Handed property when you would normally be able to draw or stow only one.
-
----
-
 ### Firearms Training
 
 *General Feat (Prerequisite: Level 4+, Dexterity or Intelligence 13+)*
