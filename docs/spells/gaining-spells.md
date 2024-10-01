@@ -30,7 +30,7 @@ Most spellcasting monsters don't change their lists of prepared spells, but the 
 
 Certain features might give you a spell that you always have prepared. If you also have a list of prepared spells that you can change, a spell that you always have prepared doesn't count against the number of spells on that list.
 
-!!! tip "Casting in Armor"
+!!! tip "Casting in Armour"
 
-    You must have training with any armor you are wearing to cast spells while wearing it. You are otherwise too hampered by the armor for spellcasting.
+    You must have training with any armour you are wearing to cast spells while wearing it. You are otherwise too hampered by the armour for spellcasting.
 

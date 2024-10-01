@@ -6,11 +6,11 @@ Bards of the College of Dance know that the Words of Creation can't be contained
 
 ### Level 3: Dazzling Footwork
 
-While you aren't wearing armor or wielding a Shield, you gain the following benefits:
+While you aren't wearing armour or wielding a Shield, you gain the following benefits:
 
 ***Dance Virtuoso.*** You have Advantage on any Charisma (Perfomance) check you make that involves dancing.
 
-***Unarmored Defense.*** Your base Armor Class equals 10 + your Dexterity modifier + your Charisma modifier.
+***Unarmoured Defense.*** Your base Armour Class equals 10 + your Dexterity modifier + your Charisma modifier.
 
 ***Agile Strikes.*** When you expend a use of your Bardic Inspiration as part of an action, a Bonus Action, or a Reaction, you can make one Unarmed Strike as part of that action, Bonus Action, or Reaction.
  

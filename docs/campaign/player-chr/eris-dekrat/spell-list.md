@@ -21,7 +21,7 @@ Spells marked with  means that the spell fufill the prerequisites to be channele
 | Spell Name | School | Special | | Spell Name | School | Special |
 |---|---|---|-|---|---|---|
 | **Absorb Elements** | Abjuration | - | | **Grease** | Conjuration | DS |
-| **Armor of Agathys** | Abjuration | - | | **Ice Knife** | Conjuration | DS |
+| **Armour of Agathys** | Abjuration | - | | **Ice Knife** | Conjuration | DS |
 | **Bane** | Enchantment | C | | **Jump** | Transmutation | - |
 | **Burning Hands** | Evocation | DS | | **Longstrider** | Transmutation | - |
 | **Chromatic Orb** | Evocation | DS | | **Shield** | Abjuration | - |

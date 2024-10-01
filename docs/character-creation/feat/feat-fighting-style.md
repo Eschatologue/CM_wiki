@@ -30,7 +30,7 @@ You have blindsight with a range of 10 feet. Within that range, you can effectiv
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-While you are wearing Light, Medium, or Heavy armor, you gain a +1 bonus to Armour Class.
+While you are wearing Light, Medium, or Heavy armour, you gain a +1 bonus to Armour Class.
 
 ---
 

@@ -8,13 +8,13 @@ In combat, a bladesinger uses a series of intricate, elegant maneuvers that fend
 
 ### Level 3: War and Song
 
-You have Armor Training with Light Armor and you have proficiency in one martial melee weapon that lacks the :weapon-prop-two-handed: Two-Handed property and in the Performance skill. If you already have proficiency in the Performance skill, you gain proficiency in another skill available to Wizards at level 1. 
+You have Armour Training with Light Armour and you have proficiency in one martial melee weapon that lacks the :weapon-prop-two-handed: Two-Handed property and in the Performance skill. If you already have proficiency in the Performance skill, you gain proficiency in another skill available to Wizards at level 1. 
 
 ### Level 3: Bladesong
 
-Using your Bonus Action, you can invoke an elven magic called the *Bladesong*, provided that you aren't wearing medium or heavy armor or using a shield. It graces you with supernatural speed, agility, and focus for 1 minute. It ends early if you have the Incapacitated condition, if you don Medium Armor, Heavy Armor or a Shield, if you use two hands to make an attack with a weapon, or if you die. You can also dismiss the *Bladesong* at any time (no action required). While your *Bladesong* is active, you gain the following benefits:
+Using your Bonus Action, you can invoke an elven magic called the *Bladesong*, provided that you aren't wearing medium or heavy armour or using a shield. It graces you with supernatural speed, agility, and focus for 1 minute. It ends early if you have the Incapacitated condition, if you don Medium Armour, Heavy Armour or a Shield, if you use two hands to make an attack with a weapon, or if you die. You can also dismiss the *Bladesong* at any time (no action required). While your *Bladesong* is active, you gain the following benefits:
 
-***Keen Defense.*** You gain a bonus to your Armor Class equal to your Intelligence modifier (minimum of +1).
+***Keen Defense.*** You gain a bonus to your Armour Class equal to your Intelligence modifier (minimum of +1).
 
 ***Increased Speed.*** Your Speed increases by 10 feet.
 

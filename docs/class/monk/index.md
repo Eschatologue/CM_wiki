@@ -16,7 +16,7 @@ icon: class/monk
 | **Skill Proficiencies** | Choose 2: Acrobatics, Athletics, History, Insight, Religion, or Stealth |
 | **Weapon Proficiencies** | Simple weapons and Martial weapons that have the Light property |
 | **Tool Proficiencies** | Choose one type of Artisan’s Tools or Musical Instrument (see chapter 6) |
-| **Armor Training** | None |
+| **Armour Training** | None |
 | **Starting Equipment** | Choose A or B: (A) Spear, 5 Daggers, Artisan’s Tools or Musical Instrument chosen for the tool proficiency above, Explorer’s Pack, and 11 GP; or (B) 50 GP |
 
 Monks use rigorous combat training and mental discipline to align themselves with the multiverse and tap into internal reservoirs of power. Different Monks conceptualize this power in various ways: as breath, energy, life force, essence, or self, for example. Whether channeled as a striking display of martial prowess or as a subtler focus of defense and speed, this power infuses all that a Monk does.
@@ -47,10 +47,10 @@ As a Monk, you gain the following class features when you reach the specified Mo
 
 ##### Monk Features
 
-| Level |  Prof. Bonus | Class Features | Martial Arts | Focus Points | Unarmored Movement |
+| Level |  Prof. Bonus | Class Features | Martial Arts | Focus Points | Unarmoured Movement |
 |:-:|:-:|---|:-:|:-:|:-:|
-| 1 | +2 | Martial Arts, Unarmored Defense | 1d6 | — | — |
-| 2 | +2 | Monk’s Focus, Unarmored Movement, Uncanny Metabolism | 1d6 | 2 | +10 ft. |
+| 1 | +2 | Martial Arts, Unarmoured Defense | 1d6 | — | — |
+| 2 | +2 | Monk’s Focus, Unarmoured Movement, Uncanny Metabolism | 1d6 | 2 | +10 ft. |
 | 3 | +2 | Deflect Attacks, Monk Subclass | 1d6 | 3 | +10 ft. |
 | 4 | +2 | Ability Score Improvement, Slow Fall | 1d6 | 4 | +10 ft. |
 | 5 | +3 | Extra Attack, Stunning Strike | 1d8 | 5 | +10 ft. |
@@ -76,7 +76,7 @@ Your practice of martial arts gives you mastery of combat styles that use your U
 - Simple Melee weapons
 - Martial Melee weapons that have the Light property
 
-You gain the following benefits while you are unarmed or wielding only Monk weapons and you aren’t wearing armor or wielding a Shield.
+You gain the following benefits while you are unarmed or wielding only Monk weapons and you aren’t wearing armour or wielding a Shield.
 
 ***Bonus Unarmed Strike.*** You can make an Unarmed Strike as a Bonus Action.
 
@@ -84,9 +84,9 @@ You gain the following benefits while you are unarmed or wielding only Monk weap
 
 ***Dexterous Attacks.*** You can use your Dexterity modifier instead of your Strength modifier for the attack and damage rolls of your Unarmed Strikes and Monk weapons. In addition, when you use the Grapple or Shove option of your Unarmed Strike, you can use your Dexterity modifier instead of your Strength modifier to determine the save DC.
 
-### Level 1: Unarmored Defense
+### Level 1: Unarmoured Defense
 
-While you aren’t wearing armor or wielding a Shield, your base Armor Class equals 10 plus your Dexterity and Wisdom modifiers.
+While you aren’t wearing armour or wielding a Shield, your base Armour Class equals 10 plus your Dexterity and Wisdom modifiers.
 
 ### Level 2: Monk’s Focus
 
@@ -104,9 +104,9 @@ Some features that use Focus Points require your target to make a saving throw. 
 
 ***Step of the Wind.*** You can take the Dash action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and Dash actions as a Bonus Action, and your jump distance is doubled for the turn.
 
-### Level 2: Unarmored Movement
+### Level 2: Unarmoured Movement
 
-Your speed increases by 10 feet while you aren’t wearing armor or wielding a Shield. This bonus increases when you reach certain Monk levels, as shown on the Monk Features table.
+Your speed increases by 10 feet while you aren’t wearing armour or wielding a Shield. This bonus increases when you reach certain Monk levels, as shown on the Monk Features table.
 
 ### Level 2: Uncanny Metabolism
 
@@ -152,7 +152,7 @@ You don’t benefit from this feature if you have the Incapacitated condition.
 
 ### Level 9: Acrobatic Movement
 
-While you aren’t wearing armor or wielding a Shield, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the movement.
+While you aren’t wearing armour or wielding a Shield, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the movement.
 
 ### Level 10: Heightened Focus
 

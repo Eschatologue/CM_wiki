@@ -641,7 +641,7 @@ You endow yourself with endurance and martial prowess fueled by magic. Until the
 You gain 50 temporary Hit Points. If any of these remain when the spell ends, they are lost.  
 You have :d20-adv: **Advantage** on :d20-attack: **Attack Rolls** that you make with simple and martial weapons.  
 When you hit a target with a weapon attack, that target takes an extra 2d12 force damage.  
-You have Proficiency with all armor, shields, simple weapons, and martial weapons.  
+You have Proficiency with all armour, shields, simple weapons, and martial weapons.  
 You have Proficiency in Strength and Constitution :d20-save: **Saving Throws**.  
 You can attack twice, instead of once, when you take the Attack action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that gives you extra attacks.
 

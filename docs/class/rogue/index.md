@@ -16,8 +16,8 @@ icon: class/rogue
 | **Skill Proficiencies** | Choose 4: Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Persuasion, Sleight of Hand, or Stealth |
 | **Weapon Proficiencies** | Simple weapons and Martial weapons that have the Finesse or Light property |
 | **Tool Proficiencies** | Thieves' Tools |
-| **Armor Training** | Light armor |
-| **Starting Equipment** | Choose A or B: (A) Leather Armor, 2 Daggers, Shortsword, Shortbow, 20 Arrows, Quiver, Thieves' Tools, Burglar's Pack, and 8 GP; or (B) 100 GP |
+| **Armour Training** | Light armour |
+| **Starting Equipment** | Choose A or B: (A) Leather Armour, 2 Daggers, Shortsword, Shortbow, 20 Arrows, Quiver, Thieves' Tools, Burglar's Pack, and 8 GP; or (B) 100 GP |
 
 Rogues rely on cunning, stealth, and their foes' vulnerabilities to get the upper hand in any situation. They have a knack for finding the solution to just about any problem, demonstrating a versatility that is the cornerstone of any successful adventuring party.
 
@@ -38,7 +38,7 @@ Some Rogues began their careers as criminals, while others used their cunning to
 
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
 
-- Gain the following traits from the Core Rogue Traits table: Hit Point Die, proficiency in one skill of your choice from the Rogue's skill list, proficiency with Thieves' Tools, and training with Light armor.
+- Gain the following traits from the Core Rogue Traits table: Hit Point Die, proficiency in one skill of your choice from the Rogue's skill list, proficiency with Thieves' Tools, and training with Light armour.
 - Gain the Rogue's level 1 features, which are listed in the Rogue Features table.
 
 ## Rogue Class Features

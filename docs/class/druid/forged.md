@@ -14,7 +14,7 @@ Through the fusion of ancient druidic techniques and advanced technology, you en
 
 ***Challenge Rating***. The maximum Challenge Rating for the form equals your Druid level divided by 3 (round down).
 
-***Armor Class.*** Your AC becomes 13 + your Wisdom modifier while in this form.
+***Armour Class.*** Your AC becomes 13 + your Wisdom modifier while in this form.
 
 ***Temporary Hit Points.*** You gain temporary hit points equal to three times your Druid level.
 

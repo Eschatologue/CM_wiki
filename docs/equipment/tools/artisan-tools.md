@@ -84,7 +84,7 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 
 **Ability:** Dexterity  
 **Utilize:** Add a design to a leather item (DC 10)  
-**Craft:** Sling, Whip, Hide Armor, Leather Armor, Studded Leather Armor, Backpack, Crossbow Bolt Case, Map or Scroll Case, Parchment, Pouch, Quiver, Waterskin
+**Craft:** Sling, Whip, Hide Armour, Leather Armour, Studded Leather Armour, Backpack, Crossbow Bolt Case, Map or Scroll Case, Parchment, Pouch, Quiver, Waterskin
 
 ---
 
@@ -116,7 +116,7 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 
 **Ability:** Strength  
 **Utilize:** Pry open a door or container (DC 20)  
-**Craft:** Any Melee weapon (except Club, Greatclub, Quarterstaff, and Whip), Medium armor (except Hide), Heavy armor, Ball Bearings, Bucket, Caltrops, Chain, Crowbar, Firearm Bullets, Grappling Hook, Iron Pot, Iron Spikes, Sling Bullets
+**Craft:** Any Melee weapon (except Club, Greatclub, Quarterstaff, and Whip), Medium armour (except Hide), Heavy armour, Ball Bearings, Bucket, Caltrops, Chain, Crowbar, Firearm Bullets, Grappling Hook, Iron Pot, Iron Spikes, Sling Bullets
 
 ---
 
@@ -132,7 +132,7 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 
 **Ability:** Dexterity  
 **Utilize:** Mend a tear in clothing (DC 10), or sew a Tiny design (DC 10)  
-**Craft:** Padded Armor, Basket, Bedroll, Blanket, Fine Clothes, Net, Robe, Rope, Sack, String, Tent, Traveler's Clothes
+**Craft:** Padded Armour, Basket, Bedroll, Blanket, Fine Clothes, Net, Robe, Rope, Sack, String, Tent, Traveler's Clothes
 
 ---
 

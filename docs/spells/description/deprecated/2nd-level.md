@@ -110,7 +110,7 @@ If you cast the spell two or more times before completing your next Long Rest, t
 **Components:** V, S, M (a handful of oak bark)  
 **Duration:** Concentration, up to 1 hour
 
-You touch a willing creature. Until the spell ends, the target's skin has a rough, bark-like appearance, and the target's AC can't be less than 16, regardless of what kind of armor it is wearing.
+You touch a willing creature. Until the spell ends, the target's skin has a rough, bark-like appearance, and the target's AC can't be less than 16, regardless of what kind of armour it is wearing.
 
 ### Beast Sense
 *Level 2 - Divination (ritual)*
@@ -537,7 +537,7 @@ As a :rsc-bonus-action: **Bonus Action** on your turn, you can move the spirit u
 **Components:** V, S, M (a piece of iron and a flame)  
 **Duration:** Concentration, up to 1 minute
 
-Choose a manufactured metal object, such as a metal weapon or a suit of heavy or medium metal armor, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes 2d8 fire damage when you cast the spell. Until the spell ends, you can use a :rsc-bonus-action: **Bonus Action** on each of your subsequent turns to cause this damage again.
+Choose a manufactured metal object, such as a metal weapon or a suit of heavy or medium metal armour, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes 2d8 fire damage when you cast the spell. Until the spell ends, you can use a :rsc-bonus-action: **Bonus Action** on each of your subsequent turns to cause this damage again.
 
 If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution :d20-save: **Saving Throw** or drop the object if it can. If it doesn't drop the object, it has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** and :d20-check: **Ability Checks** until the start of your next turn.
 

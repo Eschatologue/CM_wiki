@@ -39,7 +39,7 @@ When you cast a spell targeting yourself, you can also affect your Primal Compan
 ### Beast of the Land
 *Medium Beast, unaligned*
 
-- **Armor Class** 13 + PB (natural armor)
+- **Armour Class** 13 + PB (natural armour)
 - **Hit Points** 5 + five times your ranger level (the beast has a number of Hit Dice [d8s] equal to your ranger level)
 - **Speed** 40 ft., climb 40 ft.
 
@@ -64,7 +64,7 @@ When you cast a spell targeting yourself, you can also affect your Primal Compan
 ### Beast of the Sky
 *Small Beast, neutral*
 
-- **Armor Class** 13 + PB (natural armor)
+- **Armour Class** 13 + PB (natural armour)
 - **Hit Points** 4 + four times your ranger level (the beast has a number of Hit Dice [d6s] equal to your ranger level)
 - **Speed** 10 ft., fly 60 ft.
 
@@ -89,7 +89,7 @@ When you cast a spell targeting yourself, you can also affect your Primal Compan
 ### Beast of the Sea
 *Medium Beast, unaligned*
 
-- **Armor Class** 13 + PB (natural armor)
+- **Armour Class** 13 + PB (natural armour)
 - **Hit Points** 5 + five times your ranger level (the beast has a number of Hit Dice [d8s] equal to your ranger level)
 - **Speed** 5 ft., swim 60 ft.
 

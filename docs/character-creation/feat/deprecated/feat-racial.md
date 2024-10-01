@@ -49,7 +49,7 @@ You manifest scales and claws reminiscent of your draconic ancestors. You gain t
 
 - **Unarmoured Defence**
 
-    Your scales harden. While you aren't wearing armor, you can calculate your AC as 13 + your Dexterity modifier. You can use a shield and still gain this benefit.
+    Your scales harden. While you aren't wearing armour, you can calculate your AC as 13 + your Dexterity modifier. You can use a shield and still gain this benefit.
 
 - **Sharp Claws**
 

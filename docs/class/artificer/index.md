@@ -16,12 +16,12 @@ icon: class/artificer
 | **Skill Proficiencies** | Choose 2: Arcana, History, Investigation, Medicine, Nature, Perception, or Sleight of Hand. |
 | **Weapon Proficiencies** | Simple weapons |
 | **Tool Proficiencies** | Thieves’ Tools, Tinker’s Tools and choose 1 type of Artisan’s Tools. |
-| **Armor Training** | Light and Medium armor and Shields |
+| **Armour Training** | Light and Medium armour and Shields |
 | **Starting Equipment** | Choose A or B: (A) Chain Shirt, Shield, a Simple weapon of your choice, Thieves’ Tools, Tinker’s Tools, Scholar’s Pack and 3 GP or (B) 180 GP |
 
 Masters of invention, artificers use ingenuity and magic to unlock extraordinary capabilities in objects. They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions. You can find everything you need to play one of these inventors in the next few sections. Artificers use a variety of tools to channel their arcane power. To cast a spell, an artificer might use alchemist's supplies to create a potent elixir, calligrapher's supplies to inscribe a sigil of power, or tinker's tools to craft a temporary charm. The magic of artificers is tied to their tools and their talents, and few other characters can produce the right tool for a job as well as an artificer.
 
-Masters of unlocking magic in everyday objects, artificers are supreme inventors. They see magic as a complex system waiting to be decoded and controlled. Artificers use tools to channel arcane power, crafting magical objects. To cast a spell, an artificer could use alchemist's supplies to create a potent elixir, calligrapher's supplies to inscribe a sigil of power on an ally's armor, or tinker's tools to craft a temporary charm. The magic of artificers is tied to their tools and their talents.
+Masters of unlocking magic in everyday objects, artificers are supreme inventors. They see magic as a complex system waiting to be decoded and controlled. Artificers use tools to channel arcane power, crafting magical objects. To cast a spell, an artificer could use alchemist's supplies to create a potent elixir, calligrapher's supplies to inscribe a sigil of power on an ally's armour, or tinker's tools to craft a temporary charm. The magic of artificers is tied to their tools and their talents.
 
 ## Becoming a Artificer...
 
@@ -34,7 +34,7 @@ Masters of unlocking magic in everyday objects, artificers are supreme inventors
 
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
 
-- Gain the following traits from the Core Druid Traits table: Hit Point Die, proficiency with Thieve’s Tools and Tinker’s Tools, and training with Light and Medium armor and Shields.
+- Gain the following traits from the Core Druid Traits table: Hit Point Die, proficiency with Thieve’s Tools and Tinker’s Tools, and training with Light and Medium armour and Shields.
 - Gain the Artificer’s level 1 features, which are listed in the Artificer Features table. See the Multiclassing rules in Chapter 2 of the Player’s Handbook to determine your available spell slots. You add half your Artificer levels (rounded up) to determine your spell slots, like Paladins and Rangers.
 
 ## Artificer Class Features
@@ -246,7 +246,7 @@ You gain an Epic Boon feat (see chapter 5 of the Player’s Handbook) or another
 
 You have developed a mystical connection to your magic items, which you can draw on for protection:
 
-***Armored Soul.*** You gain a +1 bonus to all saving throws per magic item you are currently attuned to.
+***Armoured Soul.*** You gain a +1 bonus to all saving throws per magic item you are currently attuned to.
 
 ***Infusion Contingency.*** If you’re reduced to 0 Hit Points but not killed out-right, you can use your Reaction to end one of your Infusions, causing you to drop to 1 hit point instead of 0, and you instantly regain 30 Hit Points.
 

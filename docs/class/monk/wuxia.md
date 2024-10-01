@@ -12,13 +12,12 @@ You gain a set of Calligrapher’s Supplies and a set of Painter’s Supplies. Y
 
 Your special martial arts training leads you to master the use of certain weapons.
 
-***Wuxia Weapons.*** Choose one melee weapon and one ranged weapon which can be Simple or Martial weapon that lacks the :weapon-prop-heavy: **Heavy** or :weapon-prop-special: **Special** properties. The Longbow is also a valid choice.
-
+***Wuxia Weapons.*** Choose one melee weapon and one ranged weapon which can be Simple or Martial weapon that lacks the :weapon-prop-heavy: **Heavy** or :weapon-prop-special: **Special** properties. The Longbow is also a valid choice.  
 &emsp; You have proficiency with these weapons if you don't already have it and you can use its Mastery property. These weapons are monk weapons for you. When you finish a Long Rest, you can change each of your Wuxia weapons for a different weapon of your choice, following the criteria above. You can choose another weapon – either melee or ranged – to be a Wuxia weapon for you, following the criteria above, at levels 6, 11 and 17.
 
 You also gain the following benefits:
 
-***Masterful Parry.*** While you are wielding a melee Wuxia Weapon and a creature you can see hits you with a melee attack, you can take a Reaction to add your Wisdom modifier (minimum of +1) to your Armor Class against that attack. If the Attack misses, you can spend 2 Focus Point to make a melee attack against the creature that attacks you as part of the same Reaction.
+***Masterful Parry.*** While you are wielding a melee Wuxia Weapon and a creature you can see hits you with a melee attack, you can take a :rsc-reaction: Reaction to add your Wisdom modifier (minimum of +1) to your Armour Class against that attack. If the Attack misses, you can spend 2 Focus Point to make a melee attack against the creature that attacks you as part of the same Reaction.
 
 ***Masterful Aim.*** As a Bonus Action you can focus your spirit to increase your accuracy. For the next Wuxia Weapon attack roll you make before the start of your next turn, you can treat a d20 roll of 7 or lower as an 8. You can spend 2 Focus Point to instead treat that d20 roll of 9 or lower as a 10.
 

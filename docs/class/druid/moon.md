@@ -14,7 +14,7 @@ You have learned ancient techniques that allow you to channel lunar magic when y
 
 ***Challenge Rating.*** The maximum Challenge Rating for the form equals your Druid level divided by 3 (round down).
 
-***Armor Class.*** Your AC equals 13 plus your Wisdom modifier until you leave the form.
+***Armour Class.*** Your AC equals 13 plus your Wisdom modifier until you leave the form.
 
 ***Temporary Hit Points.*** You gain a number of Temporary Hit Points equal to three times your Druid level.
 

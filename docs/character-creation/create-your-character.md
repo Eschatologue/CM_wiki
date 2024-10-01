@@ -53,9 +53,9 @@ Write your character's level on your character sheet. Typically, a character sta
 
 ***Starting at a Higher Level.*** Your DM might start you at a higher level. If you start at level 3 or higher, write your chosen subclass on your character sheet. See the “Starting at Higher Levels” section later in the chapter for more information.
 
-#### Note Armor Training
+#### Note Armour Training
 
-Your class might give you training with certain categories of armor. Note your armor training on your character sheet. Armor training with a kind of armor means you can wear that armor effectively, gaining defensive bonuses from it.
+Your class might give you training with certain categories of armour. Note your armour training on your character sheet. Armour training with a kind of armour means you can wear that armour effectively, gaining defensive bonuses from it.
 
 #### Hold That Thought
 
@@ -297,7 +297,7 @@ Include all modifiers that apply to your Wisdom (Perception) checks. For example
 
 ***Initiative.*** Write your Dexterity modifier in the space for Initiative on your character sheet.
 
-***Armor Class.*** Without armor or a shield, your base Armor Class is 10 plus your Dexterity modifier. If your starting equipment includes armor or a Shield (or both), calculate your AC using the rules in chapter 6. A class feature might give you a different way to calculate your AC.
+***Armour Class.*** Without armour or a shield, your base Armour Class is 10 plus your Dexterity modifier. If your starting equipment includes armour or a Shield (or both), calculate your AC using the rules in chapter 6. A class feature might give you a different way to calculate your AC.
 
 ***Attacks.*** In the Weapons & Damage Cantrips section of the character sheet, write your starting weapons. The attack roll bonus for a weapon with which you have proficiency is one of the following unless a weapon's property says otherwise:
 

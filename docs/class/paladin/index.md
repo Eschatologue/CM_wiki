@@ -15,14 +15,14 @@ icon: class/paladin
 | **Saving Throw Proficiencies** | Wisdom and Charisma |
 | **Skill Proficiencies** | Choose 2: Athletics, Insight, Intimidation, Medicine, Persuasion, or Religion |
 | **Weapon Proficiencies** | Simple weapons and Martial weapons |
-| **Armor Training** | Light, Medium, and Heavy armour and Shields |
+| **Armour Training** | Light, Medium, and Heavy armour and Shields |
 | **Starting Equipment** | Choose A or B: (A) Chain Mail, Shield, Longsword, 6 Javelins, Holy Symbol, Priest's Pack, and 9 GP, or (B) 150 GP |
 
 Paladins are united by their oaths to stand against the forces of annihilation and corruption. Whether sworn before a god's altar, in a sacred glade before nature spirits and fey beings, or in a moment of desperation and grief with the dead as the only witnesses, a Paladin's oath is a powerful bond. It is a source of power that turns a devout warrior into a blessed champion.
 
 A Paladin swears to stand against corrupting influences and to hunt the forces of ruin wherever they lurk. Different Paladins focus on various aspects of these causes, but all are bound by the oaths that grant them power to do their sacred work.
 
-Paladins train to learn the skills of combat, mastering a variety of weapons and armor. Even so, their martial skills are secondary to the magical power they wield—power to heal the sick and injured, to smite their foes, and to protect the helpless and those who fight at their side.
+Paladins train to learn the skills of combat, mastering a variety of weapons and armour. Even so, their martial skills are secondary to the magical power they wield—power to heal the sick and injured, to smite their foes, and to protect the helpless and those who fight at their side.
 
 Almost by definition, the life of a Paladin is an adventuring life, for every Paladin lives on the front lines of the cosmic struggle against annihilation. Fighters are rare enough among the ranks of a world's armies, but even fewer people can claim the calling of a Paladin. When they do receive the call, these blessed folk turn from their former occupations and take up arms and magic. Sometimes their oaths lead them into the service of the crown as leaders of elite groups of knights, but even then, their loyalty is first to their sacred oaths, not to crown and country.
 

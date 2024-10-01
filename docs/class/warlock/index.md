@@ -15,8 +15,8 @@ icon: class/warlock
 | **Saving Throw Proficiencies** | Wisdom and Charisma |
 | **Skill Proficiencies** | Choose 2: Arcana, Deception, History, Intimidation, Investigation, Nature, or Religion |
 | **Weapon Proficiencies** | Simple weapons |
-| **Armor Training** | Light armo |
-| **Starting Equipment** | Choose A or B: (A) Leather Armor, Sickle, 2 Daggers, Arcane Focus (orb), Book (occult lore), Scholar’s Pack, and 15 GP; or (B) 100 GP |
+| **Armour Training** | Light armo |
+| **Starting Equipment** | Choose A or B: (A) Leather Armour, Sickle, 2 Daggers, Arcane Focus (orb), Book (occult lore), Scholar’s Pack, and 15 GP; or (B) 100 GP |
 
 Warlocks quest for knowledge that lies hidden in the fabric of the multiverse. They often begin their search for magical power by delving into tomes of forbidden lore, dabbling in invocations meant to attract the power of extraplanar beings, or seeking places of power where the influence of these beings can be felt. In no time, each Warlock is drawn into a binding pact with a powerful patron. Drawing on the ancient knowledge of beings such as angels, archfey, demons, devils, hags, and alien entities of the Far Realm, Warlocks piece together arcane secrets to bolster their own power.
 
@@ -35,7 +35,7 @@ Once a pact is made, a Warlock’s thirst for knowledge and power can’t be sla
 
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
 
-- Gain the following traits from the Core Warlock Traits table: Hit Point Die and training with Light armor.
+- Gain the following traits from the Core Warlock Traits table: Hit Point Die and training with Light armour.
 - Gain the Warlock’s level 1 features, which are listed in the Warlock Features table. See the multiclassing rules in chapter 2 to determine your available spell slots.
 
 ## Warlock Class Features
@@ -162,7 +162,7 @@ This section presents the Warlock spell list. The spells are organized by spell 
 
 | Spell | School | Special |
 |---|---|:-:|
-| *Armor of Agathys* | Abjuration | — |
+| *Armour of Agathys* | Abjuration | — |
 | *Arms of Hadar* | Conjuration | — |
 | *Bane* | Enchantment | C |
 | *Charm Person* | Enchantment | — |

@@ -15,7 +15,7 @@ icon: class/wizard
 | **Saving Throw Proficiencies** | Intelligence and Wisdom |
 | **Skill Proficiencies** | Choose 2: Arcana, History, Insight, Investigation, Medicine, Nature, or Religion |
 | **Weapon Proficiencies** | Simple weapons |
-| **Armor Training** | None |
+| **Armour Training** | None |
 | **Starting Equipment** | Choose A or B: (A) 2 Daggers, Arcane Focus (Quarterstaff), Robe, Spellbook, Scholar’s Pack, and 5 GP; or (B) 55 GP |
 
 Wizards are defined by their exhaustive study of magic’s inner workings. They cast spells of explosive fire, arcing lightning, subtle deception, and spectacular transformations. Their magic conjures monsters from other planes of existence, glimpses the future, or forms protective barriers. Their mightiest spells change one substance into another, call meteors from the sky, or open portals to other worlds.
@@ -78,7 +78,7 @@ When you reach Wizard levels 4 and 10, you learn another Wizard cantrip of your 
 
 ***Spellbook.*** Your wizardly apprenticeship culminated in the creation of a unique book: your spellbook. It is a Tiny object that weighs 3 pounds, contains 100 pages, and can be read only by you or someone casting Identify. You determine the book’s appearance and materials, such as a gilt-edged tome or a collection of vellum bound with twine.
 
-The book contains the level 1+ spells you know. It starts with six level 1 Wizard spells of your choice. Detect Magic, Feather Fall, Mage Armor, Magic Missile, Sleep, and Thunderwave are recommended.
+The book contains the level 1+ spells you know. It starts with six level 1 Wizard spells of your choice. Detect Magic, Feather Fall, Mage Armour, Magic Missile, Sleep, and Thunderwave are recommended.
 
 Whenever you gain a Wizard level after 1, add two Wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown in the Wizard Features table. The spells are the culmination of arcane research you do regularly.
 
@@ -191,7 +191,7 @@ This section presents the Wizard spell list. The spells are organized by spell l
 | *Illusory Script* | Illusion | R, M |
 | *Jump* | Transmutation | — |
 | *Longstrider* | Transmutation | — |
-| *Mage Armor* | Abjuration | — |
+| *Mage Armour* | Abjuration | — |
 | *Magic Missile* | Evocation | — |
 | *Protection from Evil and Good* | Abjuration | C, M |
 | *Shield* | Abjuration | — |

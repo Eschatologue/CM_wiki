@@ -141,7 +141,7 @@ You gain the following benefits.
 Increase your Dexterity score by 1, to a maximum of 20.
 
 **Parry**  
-If you are holding a Finesse weapon and another creature hits you with a melee attack, you can take a Reaction to add your Proficiency Bonus to your Armor Class, potentially causing the attack to miss you. You gain this bonus to your AC against melee attacks until the start of your next turn.
+If you are holding a Finesse weapon and another creature hits you with a melee attack, you can take a Reaction to add your Proficiency Bonus to your Armour Class, potentially causing the attack to miss you. You gain this bonus to your AC against melee attacks until the start of your next turn.
 
 ---
 
@@ -243,23 +243,23 @@ When you hit a creature with a weapon that has the Heavy property as part of the
 **Hew**  
 Immediately after you score a Critical Hit with a Melee weapon or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a Bonus Action.
 
-### Heavily Armored
+### Heavily Armoured
 
-*General Feat (Prerequisite: Level 4+, Medium Armor Training)*
+*General Feat (Prerequisite: Level 4+, Medium Armour Training)*
 
 You gain the following benefits.
 
 **Ability Score Increase**  
 Increase your Constitution or Strength score by 1, to a maximum of 20.
 
-**Armor Training**  
-You gain training with Heavy armor.
+**Armour Training**  
+You gain training with Heavy armour.
 
 ---
 
-### Heavy Armor Master
+### Heavy Armour Master
 
-*General Feat (Prerequisite: Level 4+, Heavy Armor Training)*
+*General Feat (Prerequisite: Level 4+, Heavy Armour Training)*
 
 You gain the following benefits.
 
@@ -267,7 +267,7 @@ You gain the following benefits.
 Increase your Constitution or Strength score by 1, to a maximum of 20.
 
 **Damage Reduction**  
-When you're hit by an attack while you're wearing Heavy armor, any Bludgeoning, Piercing, or Slashing Damage dealt to you by that attack is reduced by an amount equal to your Proficiency Bonus.
+When you're hit by an attack while you're wearing Heavy armour, any Bludgeoning, Piercing, or Slashing Damage dealt to you by that attack is reduced by an amount equal to your Proficiency Bonus.
 
 ---
 
@@ -300,15 +300,15 @@ You can take the Study Action as a Bonus Action.
 
 ---
 
-### Lightly Armored
+### Lightly Armoured
 
 *General Feat (Prerequisite: Level 4+)*
 
 **Ability Score Increase**  
 Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
-**Armor Training**  
-You gain training with Light Armor and Shield.
+**Armour Training**  
+You gain training with Light Armour and Shield.
 
 ---
 
@@ -343,9 +343,9 @@ You gain proficiency with Martial weapons.
 
 ---
 
-### Medium Armor Master
+### Medium Armour Master
 
-*General Feat (Prerequisite: Level 4+, Medium Armor Training)*
+*General Feat (Prerequisite: Level 4+, Medium Armour Training)*
 
 You gain the following benefits.
 
@@ -353,7 +353,7 @@ You gain the following benefits.
 Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
 **Dexterous Wearer**  
-While you are wearing Medium armor, you can add 3, rather than 2, to your AC if you have a Dexterity score of 16 or higher.
+While you are wearing Medium armour, you can add 3, rather than 2, to your AC if you have a Dexterity score of 16 or higher.
 
 ---
 
@@ -364,8 +364,8 @@ While you are wearing Medium armor, you can add 3, rather than 2, to your AC if 
 **Ability Score Increase**  
 Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
-**Armor Training**  
-You gain training with Medium Armor.
+**Armour Training**  
+You gain training with Medium Armour.
 
 ---
 

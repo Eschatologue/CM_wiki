@@ -16,8 +16,8 @@ icon: class/druid
 | **Skill Proficiencies** | Choose 2: Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, or Survival |
 | **Weapon Proficiencies** | Simple weapons |
 | **Tool Proficiencies** | Herbalism Kit |
-| **Armor Training** | Light armor and Shields |
-| **Starting Equipment** | Choose A or B: (A) Leather Armor, Shield, Sickle, Druidic Focus (Quarterstaff), Explorer’s Pack, Herbalism Kit, and 9 GP; or (B) 50 GP |
+| **Armour Training** | Light armour and Shields |
+| **Starting Equipment** | Choose A or B: (A) Leather Armour, Shield, Sickle, Druidic Focus (Quarterstaff), Explorer’s Pack, Herbalism Kit, and 9 GP; or (B) 50 GP |
 
 Druids belong to ancient orders that call on the forces of nature. Harnessing the magic of animals, plants, weather, and the four elements, Druids can heal, transform themselves, and wield elemental destruction.
 
@@ -44,7 +44,7 @@ Druids are often found guarding sacred sites or watching over regions of unspoil
 
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
 
-- Gain the following traits from the Core Druid Traits table: Hit Point Die and training with Light armor and Shields.
+- Gain the following traits from the Core Druid Traits table: Hit Point Die and training with Light armour and Shields.
 - Gain the Druid’s level 1 features, which are listed in the Druid Features table. See the multiclassing rules in chapter 2 to determine your available spell slots.
 
 ## Druid Class Features
@@ -112,7 +112,7 @@ You have dedicated yourself to one of the following sacred roles of your choice.
 
 ***Magician.*** You know one extra cantrip from the Druid spell list. In addition, your mystical connection to nature gives you a bonus to your Intelligence (Arcana or Nature) checks. The bonus equals your Wisdom modifier (minimum bonus of +1).
 
-***Warden.*** Trained for battle, you gain proficiency with Martial weapons and training with Medium armor.
+***Warden.*** Trained for battle, you gain proficiency with Martial weapons and training with Medium armour.
 
 ### Level 2: Wild Shape
 

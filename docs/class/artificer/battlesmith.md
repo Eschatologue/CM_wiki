@@ -58,7 +58,7 @@ Your Arcane Jolt and steel defender become more powerful:
 
 ***Improved Jolt.*** The extra damage and the healing of your Arcane Jolt both increase to 4d6.
 
-***Protected Defender.*** Your Steel Defender gains a +2 bonus to Armor Class.
+***Protected Defender.*** Your Steel Defender gains a +2 bonus to Armour Class.
 
 ***Forceful Deflect.*** Whenever your Steel Defender uses its Deflect Attack, the attacker takes Force damage equal to 1d4 + your Intelligence modifier.
 
@@ -66,7 +66,7 @@ Your Arcane Jolt and steel defender become more powerful:
 
 *Medium Construct*
 
-- **Armor Class** 15 (natural armor)
+- **Armour Class** 15 (natural armour)
 - **Hit Points** 2 + your Intelligence modifier + five times your artificer level (the defender has a number of Hit Dice [d8s] equal to your artificer level)
 - **Speed** 40 ft.
 

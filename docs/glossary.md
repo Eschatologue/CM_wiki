@@ -23,7 +23,7 @@ The glossary uses the following conventions:
 
 | Abbreviations | Description |
 |---|---|
-| AC | Armor Class |
+| AC | Armour Class |
 | C | Concentration |
 | CE | Chaotic Evil |
 | CG | Chaotic Good |
@@ -136,17 +136,17 @@ If the creator of an area of effect places it at an unseen point and an obstruct
 
 ---
 
-### Armor Class
+### Armour Class
 
-An Armor Class (AC) is the target number for an attack roll. AC represents how difficult it is to hit a target.
+An Armour Class (AC) is the target number for an attack roll. AC represents how difficult it is to hit a target.
 
 Your base AC calculation is 10 plus your Dexterity modifier. If a rule gives you another base AC calculation, you choose which calculation to use; you can't use more than one.
 
 ---
 
-### Armor Training
+### Armour Training
 
-Armor training allows you to use armor of a certain category without the following drawbacks. If you wear Light, Medium, or Heavy armor and lack training with it, you have Disadvantage on any D20 Test that involves Strength or Dexterity, and you can't cast spells. If you use a *Shield* and lack training with it, you don't gain its AC bonus.
+Armour training allows you to use armour of a certain category without the following drawbacks. If you wear Light, Medium, or Heavy armour and lack training with it, you have Disadvantage on any D20 Test that involves Strength or Dexterity, and you can't cast spells. If you use a *Shield* and lack training with it, you don't gain its AC bonus.
 
 ---
 
@@ -184,9 +184,9 @@ A Bonus Action is a special action that you can take on the same turn that you t
 
 Objects can be harmed by attacks and by some spells, using the rules below. If an object is exceedingly fragile, the DM may allow a creature to break it automatically with the Attack or Utilize action.
 
-***Armor Class.*** The Object Armor Class table suggests ACs for various substances.
+***Armour Class.*** The Object Armour Class table suggests ACs for various substances.
 
-###### Object Armor Class
+###### Object Armour Class
 |  AC | Substance           |
 |:---:|---------------------|
 |  11 | Cloth, paper, rope  |
@@ -904,7 +904,7 @@ A stat block contains the game slatistics of a monster. Each stat block includes
 
 ***Alignment.*** An alignment is suggested for the monster, with the DM determining its actual alignment.
 
-***AC, Initiative, and HP.*** These entries give the monster's Armor Class, Initiative, and Hit Points, which are detailed in *chapter 1*. In parentheses after the Hit Points, the monster's Hit Point Dice are provided, along with the contribution of its Constitution, if any, to its Hit Points. Following the Initiative modifier is an Initiative score. Some creatures that are created by magic lack Hit Dice and Initiative information.
+***AC, Initiative, and HP.*** These entries give the monster's Armour Class, Initiative, and Hit Points, which are detailed in *chapter 1*. In parentheses after the Hit Points, the monster's Hit Point Dice are provided, along with the contribution of its Constitution, if any, to its Hit Points. Following the Initiative modifier is an Initiative score. Some creatures that are created by magic lack Hit Dice and Initiative information.
 
 ***Speed.*** Here the monster's Speed is provided, along with any special speeds.
 

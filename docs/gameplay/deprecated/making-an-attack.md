@@ -17,7 +17,7 @@ If you're making an :d20-attack: **Attack Roll**, you're making an attack.
 ## :d20-attack: **Attack Roll**s
 *Main article: [Dice Rolls](../dice-rolls.md#attack-rolls)*
 
-To make an :d20-attack: **Attack Roll**, roll a d20 and add the appropriate modifiers. If the total equals or exceeds the target's Armor Class (AC), the attack hits. 
+To make an :d20-attack: **Attack Roll**, roll a d20 and add the appropriate modifiers. If the total equals or exceeds the target's Armour Class (AC), the attack hits. 
 
 ### Modifiers to the Roll
 

@@ -47,7 +47,7 @@ This spell lets you convince a beast that you mean it no harm. Choose a beast th
 
 ***Using a Higher-Level Spell Slot.*** When you cast this spell using a :rsc-spell-slot: **Spell Slot** of 2nd level or higher, you can affect one additional beast for each slot level above 1st.
 
-### Armor of Agathys
+### Armour of Agathys
 
 *Level 1 - Abjuration*
   
@@ -373,7 +373,7 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 **Components:** V, S  
 **Duration:** 1 hour
 
-You make yourself—including your clothing, armor, weapons, and other belongings on your person—look different until the spell ends or until you use your :rsc-action: **Action** to dismiss it. You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can't change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the Illusion is up to you.
+You make yourself—including your clothing, armour, weapons, and other belongings on your person—look different until the spell ends or until you use your :rsc-action: **Action** to dismiss it. You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can't change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the Illusion is up to you.
 
 The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.
 
@@ -806,7 +806,7 @@ You touch a creature. The target's speed increases by 10 feet until the spell en
 **Components:** V, S, M (a piece of cured leather)  
 **Duration:** 8 hours
 
-You touch a willing creature who isn't wearing armor, and a protective magical force surrounds it until the spell ends. The target's base AC becomes 13 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an :rsc-action: **Action**.
+You touch a willing creature who isn't wearing armour, and a protective magical force surrounds it until the spell ends. The target's base AC becomes 13 + its Dexterity modifier. The spell ends if the target dons armour or if you dismiss the spell as an :rsc-action: **Action**.
 
 ### Magic Missile
 

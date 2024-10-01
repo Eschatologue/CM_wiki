@@ -15,8 +15,8 @@ icon: class/ranger
 | **Saving Throw Proficiencies** | Strength and Dexterity |
 | **Skill Proficiencies** | Choose 3: Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, or Survival |
 | **Weapon Proficiencies** | Simple and Martial weapons |
-| **Armor Training** | Light and Medium armor and Shields |
-| **Starting Equipment** | Choose A or B: (A) Studded Leather Armor, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Druidic Focus (sprig of mistletoe), Explorer’s Pack, and 7 GP; or (B) 150 GP |
+| **Armour Training** | Light and Medium armour and Shields |
+| **Starting Equipment** | Choose A or B: (A) Studded Leather Armour, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Druidic Focus (sprig of mistletoe), Explorer’s Pack, and 7 GP; or (B) 150 GP |
 
 Far from the bustle of cities, amid the trees of trackless forests and across wide plains, Rangers keep their unending watch.
 
@@ -35,7 +35,7 @@ Thanks to their connection with nature, Rangers can also cast spells that harnes
 
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
 
-- Gain the following traits from the Core Ranger Traits table: Hit Point Die, proficiency with Martial weapons, proficiency in one skill of your choice from the Ranger’s skill list, and training with Light and Medium armor and Shields.
+- Gain the following traits from the Core Ranger Traits table: Hit Point Die, proficiency with Martial weapons, proficiency in one skill of your choice from the Ranger’s skill list, and training with Light and Medium armour and Shields.
 - Gain the Ranger’s level 1 features, which are listed in the Ranger Features table. See the multiclassing rules in chapter 2 to determine your available spell slots.
 
 ## Ranger Class Features
@@ -139,7 +139,7 @@ You can attack twice instead of once whenever you take the Attack action on your
 
 ### Level 6: Roving
 
-Your Speed increases by 10 feet while you aren’t wearing Heavy armor. You also have a Climb Speed and a Swim Speed equal to your Speed.
+Your Speed increases by 10 feet while you aren’t wearing Heavy armour. You also have a Climb Speed and a Swim Speed equal to your Speed.
 
 ### Level 9: Expertise
 

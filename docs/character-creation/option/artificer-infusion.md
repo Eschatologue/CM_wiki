@@ -8,16 +8,16 @@ Below are Artificer's Infusion available from Tasha's Cauldron of Everything.
 
 ---
 
-### Armor of Magical Strength
+### Armour of Magical Strength
 
-*Prerequisite: A suit of armor (requires attunement)*
+*Prerequisite: A suit of armour (requires attunement)*
 
-This armor has 6 charges. The wearer can expend the armor's charges in the following ways:
+This armour has 6 charges. The wearer can expend the armour's charges in the following ways:
 
 - When the wearer makes a Strength check or a Strength saving throw, it can expend 1 charge to add a bonus to the roll equal to its Intelligence modifier.
 - If the creature would be knocked prone, it can use its reaction to expend 1 charge to avoid being knocked prone.
 
-The armor regains 1d6 expended charges daily at dawn.
+The armour regains 1d6 expended charges daily at dawn.
 
 ### Enhanced Arcane Focus
 
@@ -31,9 +31,9 @@ The bonus increases to +2 when you reach 10th level in this class.
 
 ### Enhanced Defense
 
-*Prerequisite: A suit of armor or a shield*
+*Prerequisite: A suit of armour or a shield*
 
-A creature gains a +1 bonus to Armor Class while wearing (armor) or wielding (shield) the infused item.
+A creature gains a +1 bonus to Armour Class while wearing (armour) or wielding (shield) the infused item.
 
 The bonus increases to +2 when you reach 10th level in this class.
 
@@ -82,7 +82,7 @@ The homunculus regains 2d6 hit points if the *mending* spell is cast on it. If y
 ### Homunculus Servant
 *Tiny Construct*
 
-**AC** 13 (natural armor)  
+**AC** 13 (natural armour)  
 **HP** 1 + your Intelligence modifier + your artificer level (the homunculus has a number of Hit Dice [d4s] equal to your artificer level)  
 **Speed** 20 ft., fly 30 ft.  
 
@@ -115,7 +115,7 @@ The homunculus regains 2d6 hit points if the *mending* spell is cast on it. If y
 
 ### Mind Sharpener
 
-*Prerequisite: A suit of armor or robes*
+*Prerequisite: A suit of armour or robes*
 
 The infused item can send a jolt to the wearer to refocus their mind. The item has 4 charges. When the wearer fails a Constitution saving throw to maintain concentration on a spell, the wearer can use its reaction to expend 1 of the item's charges to succeed instead. The item regains 1d4 expended charges daily at dawn.
 
@@ -220,17 +220,17 @@ In the tables, an item's entry tells you whether the item requires attunement. S
 
 *Prerequisite: 6th level, A shield (requires attunement)*
 
-A creature gains a +1 bonus to Armor Class while wielding this shield.
+A creature gains a +1 bonus to Armour Class while wielding this shield.
 
 The shield has 4 charges. While holding it, the wielder can use a reaction immediately after being hit by a melee attack to expend 1 of the shield's charges and push the attacker up to 15 feet away. The shield regains 1d4 expended charges daily at dawn.
 
 ---
 
-### Resistant Armor
+### Resistant Armour
 
-*Prerequisite: 6th level, A suit of armor (requires attunement)*
+*Prerequisite: 6th level, A suit of armour (requires attunement)*
 
-While wearing this armor, a creature has resistance to one of the following damage types, which you choose when you infuse the item: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder.
+While wearing this armour, a creature has resistance to one of the following damage types, which you choose when you infuse the item: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder.
 
 ---
 

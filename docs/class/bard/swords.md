@@ -10,7 +10,7 @@ Blades who abandon their lives as entertainers have often run into trouble that 
 
 ### Level 3: Martial Training
 
-Your training in martial combat has granted you Medium Armor Training and proficiency with the Scimitar, Shortsword and the Rapier. In addition, if you have proficiency with a Simple or Martial Melee Weapon, you can use it as a spellcasting focus for your Bard spells.
+Your training in martial combat has granted you Medium Armour Training and proficiency with the Scimitar, Shortsword and the Rapier. In addition, if you have proficiency with a Simple or Martial Melee Weapon, you can use it as a spellcasting focus for your Bard spells.
 
 ### Level 3: Fighting Style
 

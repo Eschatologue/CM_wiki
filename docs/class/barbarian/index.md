@@ -15,7 +15,7 @@ icon: class/barbarian
 | **Saving Throw Proficiencies** | Strength and Constitution |
 | **Skill Proficiencies** | Choose 2: Animal Handling, Athletics, Intimidation, Nature, Perception, or Survival |
 | **Weapon Proficiencies** | Simple and Martial weapons |
-| **Armor Training**| Light and Medium armor and Shields |
+| **Armour Training**| Light and Medium armour and Shields |
 | **Starting Equipment** | Choose A or B: (A) Greataxe, 4 Handaxes, Explorer’s Pack, and 15 GP; or (B) 75 GP |
 
 Barbarians are mighty warriors who are powered by primal forces of the multiverse that manifest as a Rage. More than a mere emotion—and not limited to anger—this Rage is an incarnation of a predator’s ferocity, a storm’s fury, and a sea’s turmoil.
@@ -45,7 +45,7 @@ As a Barbarian, you gain the following class features when you reach the specifi
 
 | Level | Prof. Bonus | Class Features | Rages | Rage Damage | Weapon Mastery |
 |:---:|:---:|:---|:---:|:---:|:---:|
-| 1 | +2 | Rage, Unarmored Defense, Weapon Mastery | 2 | +2 | 2 |
+| 1 | +2 | Rage, Unarmoured Defense, Weapon Mastery | 2 | +2 | 2 |
 | 2 | +2 | Danger Sense, Reckless Attack | 2 | +2 | 2 |
 | 3 | +2 | Barbarian Subclass, Primal Knowledge | 3 | +2 | 2 |
 | 4 | +2 | Ability Score Improvement | 3 | +2 | 3 |
@@ -69,7 +69,7 @@ As a Barbarian, you gain the following class features when you reach the specifi
 
 ### Level 1: Rage
 
-You can imbue yourself with a primal power called Rage, a force that grants you extraordinary might and resilience. You can enter it as a Bonus Action if you aren’t wearing Heavy armor.
+You can imbue yourself with a primal power called Rage, a force that grants you extraordinary might and resilience. You can enter it as a Bonus Action if you aren’t wearing Heavy armour.
 
 You can enter your Rage the number of times shown for your Barbarian level in the Rages column of the Barbarian Features table. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
 
@@ -83,7 +83,7 @@ While active, your Rage follows the rules below.
 
 ***No Concentration or Spells.*** You can’t maintain Concentration, and you can’t cast spells.
 
-***Duration.*** The Rage lasts until the end of your next turn, and it ends early if you don Heavy armor or have the Incapacitated condition. If your Rage is still active on your next turn, you can extend the Rage for another round by doing one of the following:
+***Duration.*** The Rage lasts until the end of your next turn, and it ends early if you don Heavy armour or have the Incapacitated condition. If your Rage is still active on your next turn, you can extend the Rage for another round by doing one of the following:
 
 - Make an attack roll against an enemy.
 - Force an enemy to make a saving throw.
@@ -93,7 +93,7 @@ Each time the Rage is extended, it lasts until the end of your next turn. You ca
 
 ### Level 1: Unarmoured Defence
 
-While you aren't wearing any armor, base Armor Class equals 10 + your Dexterity and Constitution modifiers **or** 10 + your Strength and Constitution modifiers^hb^. You can use a Shield and still gain these benefit.
+While you aren't wearing any armour, base Armour Class equals 10 + your Dexterity and Constitution modifiers **or** 10 + your Strength and Constitution modifiers^hb^. You can use a Shield and still gain these benefit.
 
 ### Level 1: Weapon Mastery
 
@@ -129,7 +129,7 @@ You can attack twice instead of once whenever you take the Attack action on your
 
 ### Level 5: Fast Movement
 
-Your speed increases by 10 feet while you aren’t wearing Heavy armor.
+Your speed increases by 10 feet while you aren’t wearing Heavy armour.
 
 ### Level 7: Feral Instinct
 
@@ -165,7 +165,7 @@ You have honed new ways to attack furiously. The following effects are now among
 
 When you roll Initiative, you can regain all expended uses of Rage. After you regain uses of Rage in this way, you can’t do so again until you finish a Long Rest.
 
-In addition, your Rage is so fierce that it now lasts for 10 minutes without you needing to do anything to extend it from round to round. Your Rage ends early if you have the Unconscious condition (not just the Incapacitated condition) or don Heavy armor.
+In addition, your Rage is so fierce that it now lasts for 10 minutes without you needing to do anything to extend it from round to round. Your Rage ends early if you have the Unconscious condition (not just the Incapacitated condition) or don Heavy armour.
 
 ### Level 17: Improved Brutal Strike
 

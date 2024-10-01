@@ -15,7 +15,7 @@ icon: class/sorcerer
 | **Saving Throw Proficiencies** | Constitution and Charisma |
 | **Skill Proficiencies** | Choose 2: Arcana, Deception, Insight, Intimidation, Persuasion, or Religion |
 | **Weapon Proficiencies** | Simple weapons |
-| **Armor Training** | None |
+| **Armour Training** | None |
 | **Starting Equipment** | Choose A or B: (A) Spear, 2 Daggers, Arcane Focus (crystal), Dungeoneer’s Pack, and 28 GP; or (B) 50 GP |
 
 
@@ -204,7 +204,7 @@ This section presents the Sorcerer spell list. The spells are organized by spell
 | *Grease* | Conjuration | — |
 | *Ice Knife* | Conjuration | — |
 | *Jump* | Transmutation | — |
-| *Mage Armor* | Abjuration | — |
+| *Mage Armour* | Abjuration | — |
 | *Magic Missile* | Evocation | — |
 | *Ray of Sickness* | Necromancy | — |
 | *Shield* | Abjuration | — |

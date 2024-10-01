@@ -8,7 +8,7 @@ Your link to earth magic grants you extraordinary resilience, and stone sorcerer
 
 ### Level 3: Stoneblood
 
-Your connection to the earth grants Martial Weapon proficiency and armor training with Shields.
+Your connection to the earth grants Martial Weapon proficiency and armour training with Shields.
 
 Moreover, your training with weapons allows you to use the Mastery property of one kind of Simple or Martial weapon with which you have proficiency. Whenever you finish a Long Rest, you can change the kind of weapon you chose to another eligible kind.
 
@@ -29,7 +29,7 @@ You must otherwise obey all the restrictions for selecting the spell, and it bec
 
 Your connection to stone gives you extra fortitude. Your Hit Point maximum increases by 3 and increases by 1 whenever you gain another Sorcerer level.
 
-As Magic action, you can gain a base AC of 13 + your Charisma Modifier if you aren't wearing armor, and your skin assumes a stony appearance. This effect lasts until you end it (no action required), you have the Incapacitated condition, or you don armor other than a shield.
+As Magic action, you can gain a base AC of 13 + your Charisma Modifier if you aren't wearing armour, and your skin assumes a stony appearance. This effect lasts until you end it (no action required), you have the Incapacitated condition, or you don armour other than a shield.
 
 ### Level 6: Stone Aegis
 

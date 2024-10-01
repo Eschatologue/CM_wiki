@@ -10,7 +10,7 @@ You’ve learned how to land a strike then slip away without reprisal. If you ma
 
 ### Level 3: Suave Defence
 
-While you aren't wearing any armor or wielding a Shield, your base Armor Class equals 10 plus your Dexterity and Charisma modifiers.
+While you aren't wearing any armour or wielding a Shield, your base Armour Class equals 10 plus your Dexterity and Charisma modifiers.
  
 ### Level 3: Rakish Audacity
 

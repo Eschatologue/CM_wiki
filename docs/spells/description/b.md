@@ -47,7 +47,7 @@ If the target is an Aberration, a Celestial, an Elemental, a Fey, or a Fiend, th
 **Component:** V, S, M (a handful of bark)  
 **Duration:** 1 hour
 
-You touch a willing creature. Until the spell ends, the target's skin assumes a bark-like appearance, and the target has an Armor Class of 17 if its AC is lower than that.
+You touch a willing creature. Until the spell ends, the target's skin assumes a bark-like appearance, and the target has an Armour Class of 17 if its AC is lower than that.
 
 ---
 

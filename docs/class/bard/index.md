@@ -16,8 +16,8 @@ icon: class/bard
 | **Skill Proficiencies** | Choose any 3 skills (see chapter 1) |
 | **Weapon Proficiencies** | Simple weapons |
 | **Tool Proficiencies** | Choose 3 Musical Instruments (see chapter 6) |
-| **Armor Training** | Light armor |
-| **Starting Equipment** | Choose A or B: (A) Leather Armor, 2 Daggers, Musical Instrument of your choice, Entertainer’s Pack, and 19 GP; or (B) 90 GP |
+| **Armour Training** | Light armour |
+| **Starting Equipment** | Choose A or B: (A) Leather Armour, 2 Daggers, Musical Instrument of your choice, Entertainer’s Pack, and 19 GP; or (B) 90 GP |
 
 Invoking magic through music, dance, and verse, Bards are expert at inspiring others, soothing hurts, disheartening foes, and creating illusions.
 Bards believe that the creators of the multiverse spoke and signed it into existence and that remnants of those Words of Creation still resound and glimmer on every plane of existence. The magic of Bards is an attempt to harness those words—which transcend any language—and direct them to create new wonders.
@@ -39,7 +39,7 @@ Not every singer or poet in a tavern or jester in a royal court is a Bard. Harne
 
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
 
-- Gain the following traits from the Core Bard Traits table: Hit Point Die, proficiency in one skill of your choice, proficiency with one Musical Instrument of your choice, and training with Light armor.
+- Gain the following traits from the Core Bard Traits table: Hit Point Die, proficiency in one skill of your choice, proficiency with one Musical Instrument of your choice, and training with Light armour.
 - Gain the Bard’s level 1 features, which are listed in the Bard Features table. See the multiclassing rules in chapter 2 to determine your available spell slots.
 
 ## Bard Class Features

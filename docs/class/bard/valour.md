@@ -14,7 +14,7 @@ You can use your wit to turn the tide of battle. A creature that has a Bardic In
 
 ### Level 3: Martial Training
 
-You gain proficiency with Martial Weapons and armor training with Medium Armor and Shields.
+You gain proficiency with Martial Weapons and armour training with Medium Armour and Shields.
 
 In addition, you can use a Simple or Martial weapon as a spellcasting focus to cast spells from your Bard spell list.
 

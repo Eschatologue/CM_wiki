@@ -36,7 +36,7 @@ You can cast the *Commune with Nature* spell, but only as a Ritual. Wisdom is yo
 
 You gain one of the following options of your choice. Whenever you gain a Barbarian level, you can change your choice.
 
-**Falcon.*** While your Rage is active, you have a Fly Speed equal to your Speed, provided you aren't wearing any armor.
+**Falcon.*** While your Rage is active, you have a Fly Speed equal to your Speed, provided you aren't wearing any armour.
 
 ***Lion.*** While your Rage is active, any of your enemies within 5 feet of you have Disadvantage on attack rolls against targets other than you or another Barbarian with this option active.
 

@@ -15,12 +15,12 @@ icon: class/fighter
 | **Saving Throw Proficiencies** | Strength and Constitution |
 | **Skill Proficiencies** | Choose 2: Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Persuasion, Perception, or Survival |
 | **Weapon Proficiencies** | Simple and Martial weapons |
-| **Armor Training** | Light, Medium, and Heavy armor and Shields |
-| **Starting Equipment** | Choose A, B, or C: (A) Chain Mail, Greatsword, Flail, 8 Javelins, Dungeoneer's Pack, and 4 GP; (B) Studded Leather Armor, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Dungeoneer's Pack, and 11 GP; or (C) 155 GP |
+| **Armour Training** | Light, Medium, and Heavy armour and Shields |
+| **Starting Equipment** | Choose A, B, or C: (A) Chain Mail, Greatsword, Flail, 8 Javelins, Dungeoneer's Pack, and 4 GP; (B) Studded Leather Armour, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Dungeoneer's Pack, and 11 GP; or (C) 155 GP |
 
-Fighters rule many battlefields. Questing knights, royal champions, elite soldiers, and hardened mercenaries—as Fighters, they all share an unparalleled prowess with weapons and armor. And they are well acquainted with death, both meting it out and staring it defiantly in the face.
+Fighters rule many battlefields. Questing knights, royal champions, elite soldiers, and hardened mercenaries—as Fighters, they all share an unparalleled prowess with weapons and armour. And they are well acquainted with death, both meting it out and staring it defiantly in the face.
 
-Fighters learn the basics of all combat styles. Every Fighter can swing an axe, fence with a rapier, wield a longsword or a greatsword, and use a bow. Fighters master various weapon techniques, allowing them to get the best use from a wide variety of weapons, and a well equipped Fighter always has the right tool at hand for any combat situation. Likewise, a Fighter is adept with shields and every form of armor. Beyond that basic degree of familiarity, each Fighter specializes in certain styles of combat. Some concentrate on archery, some on fighting with two weapons at once, and some on augmenting their martial skills with magic. This combination of broad general ability and extensive specialization makes Fighters superior combatants everywhere.
+Fighters learn the basics of all combat styles. Every Fighter can swing an axe, fence with a rapier, wield a longsword or a greatsword, and use a bow. Fighters master various weapon techniques, allowing them to get the best use from a wide variety of weapons, and a well equipped Fighter always has the right tool at hand for any combat situation. Likewise, a Fighter is adept with shields and every form of armour. Beyond that basic degree of familiarity, each Fighter specializes in certain styles of combat. Some concentrate on archery, some on fighting with two weapons at once, and some on augmenting their martial skills with magic. This combination of broad general ability and extensive specialization makes Fighters superior combatants everywhere.
 
 The dungeon delving, monster slaying, and other dangerous work common among adventurers is second nature for a Fighter. There are great risks but also great rewards: gold, magic weaponry, and glory.
 
@@ -35,7 +35,7 @@ The dungeon delving, monster slaying, and other dangerous work common among adve
 
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
 
-- Gain the following traits from the Core Fighter Traits table: Hit Point Die, proficiency with Martial weapons, and training with Light and Medium armor and Shields.
+- Gain the following traits from the Core Fighter Traits table: Hit Point Die, proficiency with Martial weapons, and training with Light and Medium armour and Shields.
 - Gain the Fighter's level 1 features, which are listed in the Fighter Features table.
 
 ## Fighter Class Features

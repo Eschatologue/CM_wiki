@@ -217,7 +217,7 @@ If you hit a creature with this weapon and deal damage to the creature, you have
 
 ### Adamantine Weapons
 
-Adamantine is an ultrahard metal found in meteorites and extraordinary mineral veins. In addition to being used to craft *adamantine armor*, the metal is also used for weapons.
+Adamantine is an ultrahard metal found in meteorites and extraordinary mineral veins. In addition to being used to craft *adamantine armour*, the metal is also used for weapons.
 
 **Diamondsbane.** Melee weapons and ammunition made of or coated with adamantine are unusually effective when used to break objects. Whenever an *adamantine weapon* or piece of *adamantine ammunition* hits an object, the hit is a Critical Hit.
 

@@ -15,7 +15,7 @@ icon: class/cleric
 | **Saving Throw Proficiencies** | Wisdom and Charisma |
 | **Skill Proficiencies** | Choose 2: History, Insight, Medicine, Persuasion, or Religion |
 | **Weapon Proficiencies** | Simple weapons |
-| **Armor Training** | Light and Medium armor and Shields |
+| **Armour Training** | Light and Medium armour and Shields |
 | **Starting Equipment** | Choose A or B: (A) Chain Shirt, Shield, Mace, Holy Symbol, Priest's Pack, and 7 GP; or (B) 110 GP |
 
 Clerics draw power from the realms of the gods and harness it to work miracles. Blessed by a deity, a pantheon, or another immortal entity, a Cleric can reach out to the divine magic of the Outer Planes—where gods dwell—and channel it to bolster people and battle foes.
@@ -35,7 +35,7 @@ Not every member of a temple or shrine is a Cleric. Some priests are called to a
 
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
 
-- Gain the following traits from the Core Cleric Traits table: Hit Point Die and training with Light and Medium armor and Shields.
+- Gain the following traits from the Core Cleric Traits table: Hit Point Die and training with Light and Medium armour and Shields.
 - Gain the Cleric's level 1 features, which are listed in the Cleric Features table. See the multiclassing rules in chapter 2 to determine your available spell slots.
 
 ## Cleric Class Features
@@ -73,7 +73,7 @@ You have dedicated yourself to one of the following sacred roles of your choice:
 
 #### Protector
 
-Trained for battle, you gain Martial Weapon proficiency and Heavy Armor training.
+Trained for battle, you gain Martial Weapon proficiency and Heavy Armour training.
 
 #### Thaumaturge
 

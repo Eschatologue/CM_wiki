@@ -40,6 +40,6 @@ When you activate your Arms of the Astral Self feature, you can spend an additio
 
 When you activate your Mantle of the Astral Self, you can expend an additional 2 Focus Points to fully awaken your astral self. You gain the following benefits:
 
-***Armor of the Spirit.*** You gain a +2 bonus to your Armor Class.
+***Armour of the Spirit.*** You gain a +2 bonus to your Armour Class.
 
 ***Astral Barrage.*** Whenever you use the Extra Attack feature to attack twice, you can instead attack three times.     

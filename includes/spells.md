@@ -1,6 +1,6 @@
 [Absorb Elements]: /CM_wiki/spells/1st-level/#absorb-elements
 [Alarm]: /CM_wiki/spells/1st-level/#alarm
-[Armor of Agathys]: /CM_wiki/spells/1st-level/#armor-of-agathys
+[Armour of Agathys]: /CM_wiki/spells/1st-level/#armour-of-agathys
 [Bane]: /CM_wiki/spells/1st-level/#bane
 [Beast Bond]: /CM_wiki/spells/1st-level/#beast-bond
 [Bless]: /CM_wiki/spells/1st-level/#bless
@@ -47,7 +47,7 @@
 [Inflict Wounds]: /CM_wiki/spells/1st-level/#inflict-wounds
 [Jump]: /CM_wiki/spells/1st-level/#jump
 [Longstrider]: /CM_wiki/spells/1st-level/#longstrider
-[Mage Armor]: /CM_wiki/spells/1st-level/#mage-armor
+[Mage Armour]: /CM_wiki/spells/1st-level/#mage-armour
 [Magic Missile]: /CM_wiki/spells/1st-level/#magic-missile
 [Protection from Evil and Good]: /CM_wiki/spells/1st-level/#protection-from-evil-and-good
 [Purify Food and Drink]: /CM_wiki/spells/1st-level/#purify-food-and-drink
