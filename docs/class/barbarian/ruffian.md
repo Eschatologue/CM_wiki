@@ -28,9 +28,9 @@ Whenever you deal damage with your Unarmed Strike, it can deal your choice of :d
 
 ### Level 6: Forceful Rend
 
-While your Rage is active, your Unarmed Strike is improved in the following ways:
+Your fists becomes devastating to whoever at the receiving end. Your Unarmed Strike is improved in the following ways:
 
-***Hurl.*** When a creature is Grappled by you, you can choose to end that Grapple throw the creature to an unoccupied space you can see within 30 feet of you. If the creature lands in an unoccupied space it gains the Prone condition. But, if it hits another creature, that creature must succeed on a Dexterity save (DC equals 8 plus your Proficiency Bonus plus your Strength modifier) or take Bludgeoning damage equal to your Unarmed Strike damage.
+***Hurl.*** When a creature is Grappled by you, you can choose to end that Grapple (no action required) and throw the creature to a point you can see within 30 feet of you. If the creature lands in an unoccupied space it gains the Prone condition. But, if it hits another creature, that creature must succeed on a Dexterity save (DC equals 8 plus your Proficiency Bonus plus your Strength modifier) or take Bludgeoning damage equal to your Unarmed Strike damage.
 
 ***Concussion.*** When you damage a creature with Unarmed Strike, you can force the target to make a Constitution saving throw. On a failed save, the target has the Stunned condition until the start of your next turn. On a successful save, the target's Speed is halved until the start of your next turn, and the next attack roll made against the target before then has Advantage.
 
