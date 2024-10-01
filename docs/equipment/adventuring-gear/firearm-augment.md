@@ -32,7 +32,7 @@ As the name suggests, firearm Augmentations are available only to firearms that 
 
 :   Once you have crafted an Augmentation for a particular firearm category, you can reuse that same Augmentation for other firearms of the same category without additional cost.
 
-### Stackable Augmentations
+### Stackable
 
 ***Stacking Benefits.***  If an Augmentation is marked as "stackable," you can apply two or more of the same Augmentation to a single firearm, and their benefits will stack.
 
@@ -56,7 +56,7 @@ Below are Firearm Augmentations available in Crown & Misery.
 
 ---
 
-### Bayonet Mount
+### Bayonet Lug
 
 **Cost:** 800 SP and A Melee Weapon that has :weapon-prop-light: **Light** property   
 **Prerequisite:** None  
@@ -82,17 +82,17 @@ Increase the :weapon-prop-reload: **Reload** property value by half of the defau
 **Prerequisite:** None  
 **Stackable:** No
 
-Choose one of the follwing damage types: :dmg-force: Force, :dmg-radiant: Radiant, or :dmg-necrotic: Necrotic. The firearm deals the chosen damage type instead of its regular damage type.
+Choose one of the following damage types: :dmg-force: Force, :dmg-radiant: Radiant, or :dmg-necrotic: Necrotic. The firearm deals the chosen damage type instead of its regular damage type.
 
 ---
 
 ### Enhanced
 
-**Cost:** 800 SP  
+**Cost:** 900 SP  
 **Prerequisite:** None  
 **Stackable:** Yes, up to 3 times.
 
-Adds +1 bonus to the firearm's attack & damage roll.
+Adds +1 bonus to the firearm's attack & damage roll. If the firearm forces a saving throw, add +1 to the DC.
 
 ---
 
@@ -106,10 +106,32 @@ Increase the :weapon-prop-explosive: **Explosive** property value by half of the
 
 ---
 
+### Extended Barrel
+
+**Cost:** 1,000 SP  
+**Prerequisite:** Has :weapon-prop-range: **Range** property  
+**Stackable:** Yes, up to 2 times
+
+Increase the :weapon-prop-range: **Range** property value by 20/40.
+
+---
+
+### Increased Calibre
+
+**Cost:** 1,800 SP  
+**Prerequisite:** No :weapon-prop-scatter: **Scatter** property  
+**Stackable:** No
+
+- Removes the :weapon-prop-light: **Light** property if it has any.
+- Halves the :weapon-prop-reload: **Reload** property parameter.
+- Increases the weapon damage die by one size larger. If the weapon damage die is 1d12 or 2d6, it gains +1 bonus to its damage roll.
+
+---
+
 ### Overclocked
 
 **Cost:** 1,800 SP  
-**Prerequisite:** :weapon-prop-automatic: **Automatic** property   
+**Prerequisite:** Has :weapon-prop-automatic: **Automatic** property   
 **Stackable:** No
 
 Increase the :weapon-prop-automatic: **Automatic** property value by half of the default value.
@@ -132,7 +154,7 @@ Reduce the number you need to roll for Critical Hit by 1.
 **Prerequisite:** No :weapon-prop-sighted: **Sighted** property  
 **Stackable:** Yes
 
-Adds the :weapon-prop-sighted: **Sighted** property to this firearm and increase its Range by 20/40 feet.
+Adds the :weapon-prop-sighted: **Sighted** property to this.
 
 ---
 
@@ -152,6 +174,6 @@ Removes the :weapon-prop-sighted: **Heavy** property from this firearm. If the f
 **Prerequisite:** None  
 **Stackable:** No
 
-Choose one of the follwing damage types: :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, or :dmg-lightning: Lightning. The firearm deals the chosen damage type instead of its regular damage type.
+Choose one of the following damage types: :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, or :dmg-lightning: Lightning. The firearm deals the chosen damage type instead of its regular damage type.
 
 ---

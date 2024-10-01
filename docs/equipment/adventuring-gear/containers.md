@@ -14,7 +14,7 @@ That said, this rule is ultimately subject to the **DM's discretion**, who may a
 
 ### Crossbow Bolt Case
 
-Adventuring Gear, 100 SP, M-
+Adventuring Gear, 100 SP, M.
 
 A *Crossbow Bolt Case* holds up to 20 Bolts.
 
@@ -22,55 +22,50 @@ A *Crossbow Bolt Case* holds up to 20 Bolts.
 
 ### Backpack
 
-Adventuring Gear, 2 GP, M-
+Adventuring Gear, 2 GP, M.
 
-A Backpack has 8 Inventory Slots. It can also serve as a saddlebag and doesn't take Inventory Slot when Worn.
+A *Backpack* has 8 Inventory Slots. It can also serve as a saddlebag. Doesn't take Inventory Slot when Worn.
 
 ---
 
 ### Bag of Holding
 
-Wondrous Items, uncommon, L-
+Wondrous Items, uncommon, M.
 
-A Bag of Holding has 30 Inventory Slots. It doesn't take Inventory Slot when Worn.
+A *Bag of Holding* has 30 Inventory Slots. It doesn't take Inventory Slot when Worn.
 
 ---
 
 ### Basket
 
-Adventuring Gear, 4 SP, S-
+Adventuring Gear, 4 SP, S.
 
-A Basket has 8 Inventory Slots.
+A *Basket* has 8 Inventory Slots.
 
 ---
 
 ### Magazine Belt
 
-Adventuring Gear, 100 SP, M- 
+Adventuring Gear, 100 SP, M.
 
-A Magazine Belt holds up to 30 Bullets.
+A *Magazine Belt* holds up to 30 Firearms Bullets.
 
 ---
 
 ### Pouch
 
-Adventuring Gear, 5 SP, S- 
+Adventuring Gear, 5 SP, S.
 
-A Pouch has 2 Inventory Slots. It can also holds up to 20 Sling Bullets or 50 Needles.
+A *Pouch* has 2 Inventory Slots. It can also holds up to 20 Sling Bullets or 50 Needles.
 
 ---
 
 ### Quiver
 
-Adventuring Gear, 100 SP, M-
+Adventuring Gear, 100 SP, M.
 
-A Quiver holds up to 20 Arrows.
+A *Quiver* holds up to 20 Arrows.
 
 ---
 
-*[XS-]: 5 Items per 1 Inv. Slot.
-*[S]: 2 Items per 1 Inv. Slot.
-*[M]: 1 Item per 1 Inv. Slot.
-*[L]: 2 Inv. Slot for 1 Item.
-*[Bulky]: 3 Inv. Slot for 1 Item.
-*[Enormous]: 4 Inv. Slot for 1 Item.
+--8<-- "includes/snippets/inv-notation.md"

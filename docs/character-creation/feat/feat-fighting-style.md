@@ -14,7 +14,7 @@ These feat are included within 2024 Player's Handbook.
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-You gain a +2 bonus to :d20-attack: Attack Rolls you with weapons that has the :weapon-prop-ranged: **Ranged** property.
+You gain a +2 bonus to :d20-attack: Attack Rolls you with weapons that has the :weapon-prop-range: **Ranged** property.
 
 ---
 

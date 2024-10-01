@@ -39,7 +39,7 @@ Your Arcane Firearm has the following property:
 
 **Weapon Category:** Martial Ranged (you are proficient with it)  
 **Damage on a Hit:** 1d10 :dmg-force: Force plus the ability modifier used for the attack roll  
-**Properties:** :weapon-prop-reload: Reload (6), :weapon-prop-ranged: Ranged (range 80/320 feet)  
+**Properties:** :weapon-prop-reload: Reload (6), :weapon-prop-range: Ranged (range 80/320 feet)  
 **Mastery:** Vex (you can use this property, and it doesn't count against the number of properties you can use with Weapon Mastery)  
 
 At certain Artificer levels, your Arcane Firearm gains more Upgrades: at level (3), 10 (4), and 15 (5)

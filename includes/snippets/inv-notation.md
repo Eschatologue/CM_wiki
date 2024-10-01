@@ -6,4 +6,4 @@
 *[XXL]: (Enormous) 4 Inv. Slot for 1 Item.
 *[3L]: (Monstrous) 6 Inv. Slot for 1 Item.
 
-*[oS-]: Test
+--8<-- "includes/snippets/inv-notation.md"

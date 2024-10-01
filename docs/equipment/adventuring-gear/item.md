@@ -55,14 +55,6 @@ As a Utilize action, you can spill Ball Bearings from their pouch. They spread t
 
 ---
 
-### Barrel
-
-Adventuring gear, 20 sp, XXL.
-
-A Barrel holds up to 40 gallons of liquid or up to 4 cubic feet of dry goods.
-
----
-
 ### Basic Poison
 
 Adventuring gear, poison, 100 gp
@@ -180,14 +172,6 @@ A Component Pouch is watertight and filled with compartments that hold all the f
 Adventuring gear, 50 sp, S.
 
 While wearing a Costume, you have Advantage on any ability check you make to impersonate the person or type of person it represents.
-
----
-
-### Crossbow Bolt Case
-
-Adventuring gear, 10 sp, S.
-
-A *Crossbow Bolt Case* holds up to 20 Bolts.
 
 ---
 
@@ -432,25 +416,9 @@ You can use a Portable Ram to break down doors. When doing so, you gain a +4 bon
 
 ---
 
-### Pouch
-
-Adventuring gear, 5 sp, S.
-
-A Pouch holds up to 6 pounds within one-fifth of a cubic foot.
-
----
-
-### Quiver
-
-Adventuring gear, 10 sp, S.
-
-A Quiver holds up to 20 Arrows.
-
----
-
 ### Rations
 
-Adventuring gear, 5 sp, S.
+Adventuring gear, 5 sp, M. (Stacks to 10)
 
 Rations consist of travel-ready food, including jerky, dried fruit, hardtack, and nuts. See "Malnutrition" for the risks of not eating.
 
@@ -458,7 +426,7 @@ Rations consist of travel-ready food, including jerky, dried fruit, hardtack, an
 
 ### Robe
 
-Adventuring gear, 10 sp, S.
+Adventuring gear, 10 sp, M.
 
 A Robe has vocational or ceremonial significance. Some events and locations admit only people wearing a Robe bearing certain colors or symbols.
 
@@ -486,7 +454,7 @@ A Sack holds up to 30 pounds within 1 cubic foot.
 
 ### Shovel
 
-Adventuring gear, 20 sp, S.
+Adventuring gear, 20 sp, M.
 
 Working for 1 hour, you can use a Shovel to dig a hole that is 5 feet on each side in soil or similar material.
 
@@ -502,7 +470,7 @@ When blown as a Utilize action, a Signal Whistle produces a sound that can be he
 
 ### Spyglass
 
-Adventuring gear, 1,0000 sp, S.
+Adventuring gear, 1,0000 sp, M.
 
 Objects viewed through a Spyglass are magnified to twice their size.
 
@@ -534,7 +502,7 @@ A Tinderbox is a small container holding flint, fire steel, and tinder (usually 
 
 ### Torch
 
-Adventuring gear, 1 cp, S.
+Adventuring gear, 1 cp, M. (Stacks to 10)
 
 A Torch burns for 1 hour, casting Bright Light in a 20-foot radius and Dim Light for an additional 20 feet. When you take the Attack action, you can attack with the Torch, using it as a Simple Melee weapon. On a hit, the target takes 1 Fire damage.
 

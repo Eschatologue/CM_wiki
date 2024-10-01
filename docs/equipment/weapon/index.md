@@ -91,7 +91,7 @@ This weapon is normally used while attached to a tripod, vehicle, or other braci
 
 ---
 
-#### :weapon-prop-ranged:{ .lg } Ranged
+#### :weapon-prop-range:{ .lg } Ranged
 
 This weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. 
 
