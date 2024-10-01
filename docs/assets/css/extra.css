@@ -10,6 +10,7 @@
   --md-mod-primary-fg-color-dark: hsla(0deg, 100%, 62%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
+  --md-mod-shadow-z2: 0 0.2rem 0.5rem hsla(0, 0%, 0%, 0.3), 0 0 0.05remhsla(0, 0%, 0%, 0.2);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=pink] {
@@ -20,6 +21,7 @@
   --md-mod-primary-fg-color-dark: hsla(326deg, 100%, 69%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
+  --md-mod-shadow-z2: 0 0.2rem 0.5rem hsla(0, 0%, 0%, 0.3), 0 0 0.05remhsla(0, 0%, 0%, 0.2);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=purple] {
@@ -30,6 +32,7 @@
   --md-mod-primary-fg-color-dark: hsla(265deg, 89%, 73%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
+  --md-mod-shadow-z2: 0 0.2rem 0.5rem hsla(0, 0%, 0%, 0.3), 0 0 0.05remhsla(0, 0%, 0%, 0.2);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=deep-purple] {
@@ -40,6 +43,7 @@
   --md-mod-primary-fg-color-dark: hsla(265deg, 89%, 73%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
+  --md-mod-shadow-z2: 0 0.2rem 0.5rem hsla(0, 0%, 0%, 0.3), 0 0 0.05remhsla(0, 0%, 0%, 0.2);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=blue] {
@@ -50,6 +54,7 @@
   --md-mod-primary-fg-color-dark: hsla(225deg, 27%, 46%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
+  --md-mod-shadow-z2: 0 0.2rem 0.5rem hsla(0, 0%, 0%, 0.3), 0 0 0.05remhsla(0, 0%, 0%, 0.2);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=indigo] {
@@ -60,6 +65,7 @@
   --md-mod-primary-fg-color-dark: hsla(225deg, 27%, 46%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
+  --md-mod-shadow-z2: 0 0.2rem 0.5rem hsla(0, 0%, 0%, 0.3), 0 0 0.05remhsla(0, 0%, 0%, 0.2);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=light-blue] {
@@ -70,6 +76,7 @@
   --md-mod-primary-fg-color-dark: hsla(225deg, 27%, 46%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
+  --md-mod-shadow-z2: 0 0.2rem 0.5rem hsla(0, 0%, 0%, 0.3), 0 0 0.05remhsla(0, 0%, 0%, 0.2);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=cyan] {
@@ -80,6 +87,7 @@
   --md-mod-primary-fg-color-dark: hsla(191deg, 97%, 72%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
+  --md-mod-shadow-z2: 0 0.2rem 0.5rem hsla(0, 0%, 0%, 0.3), 0 0 0.05remhsla(0, 0%, 0%, 0.2);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=teal] {
@@ -90,6 +98,7 @@
   --md-mod-primary-fg-color-dark: hsla(191deg, 97%, 72%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
+  --md-mod-shadow-z2: 0 0.2rem 0.5rem hsla(0, 0%, 0%, 0.3), 0 0 0.05remhsla(0, 0%, 0%, 0.2);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=green] {
@@ -100,6 +109,7 @@
   --md-mod-primary-fg-color-dark: hsla(135deg, 94%, 60%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
+  --md-mod-shadow-z2: 0 0.2rem 0.5rem hsla(0, 0%, 0%, 0.3), 0 0 0.05remhsla(0, 0%, 0%, 0.2);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=light-green] {
@@ -110,6 +120,7 @@
   --md-mod-primary-fg-color-dark: hsla(135deg, 94%, 60%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
+  --md-mod-shadow-z2: 0 0.2rem 0.5rem hsla(0, 0%, 0%, 0.3), 0 0 0.05remhsla(0, 0%, 0%, 0.2);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=lime] {
@@ -120,6 +131,7 @@
   --md-mod-primary-fg-color-dark: hsla(135deg, 94%, 60%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
+  --md-mod-shadow-z2: 0 0.2rem 0.5rem hsla(0, 0%, 0%, 0.3), 0 0 0.05remhsla(0, 0%, 0%, 0.2);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=yellow] {
@@ -130,6 +142,7 @@
   --md-mod-primary-fg-color-dark: hsla(65deg, 92%, 71%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
+  --md-mod-shadow-z2: 0 0.2rem 0.5rem hsla(0, 0%, 0%, 0.3), 0 0 0.05remhsla(0, 0%, 0%, 0.2);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=amber] {
@@ -140,6 +153,7 @@
   --md-mod-primary-fg-color-dark: hsla(65deg, 92%, 71%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
+  --md-mod-shadow-z2: 0 0.2rem 0.5rem hsla(0, 0%, 0%, 0.3), 0 0 0.05remhsla(0, 0%, 0%, 0.2);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=orange] {
@@ -150,6 +164,7 @@
   --md-mod-primary-fg-color-dark: hsla(31deg, 100%, 66%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
+  --md-mod-shadow-z2: 0 0.2rem 0.5rem hsla(0, 0%, 0%, 0.3), 0 0 0.05remhsla(0, 0%, 0%, 0.2);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=deep-orange] {
@@ -160,6 +175,14 @@
   --md-mod-primary-fg-color-dark: hsla(31deg, 100%, 66%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
+  --md-mod-shadow-z2: 0 0.2rem 0.5rem hsla(0, 0%, 0%, 0.3), 0 0 0.05remhsla(0, 0%, 0%, 0.2);
+}
+
+.md-typeset .admonition,
+.md-typeset details {
+  border-width: 0;
+  border-left-width: 4px;
+  box-shadow: var(--md-mod-shadow-z2);
 }
 
 :root {
