@@ -12,7 +12,7 @@ All of the Eldritch Invocations below follows the most updated one from 2024 PHB
 
 **Prerequisite:** Level 2+ Warlock, a Warlock Cantrip That Deals Damage.
 
-Choose one of your known Warlock cantrips that deals damage. You can add your spellcasting ability modifier to that spell's damage rolls
+Choose one of your known Warlock cantrips that deals damage. You can add your Spellcasting Ability modifier to that spell's damage rolls
 
 ***Repeatable.*** You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
 
