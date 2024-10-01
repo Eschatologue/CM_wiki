@@ -72,4 +72,6 @@ If you wear Light, Medium, or Heavy armour and lack training with it, you have :
 You gain the Armour Class benefit of a Shield only if you have training with it.
 
 
---8<-- "inv-notation.md"
+--8<-- 
+includes/snippets/inv-notation.md
+--8<--
