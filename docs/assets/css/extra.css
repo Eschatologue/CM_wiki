@@ -182,7 +182,6 @@
 .md-typeset details {
   border-width: 0;
   border-left-width: 4px;
-  box-shadow: var(--md-mod-shadow-z2);
 }
 
 :root {
