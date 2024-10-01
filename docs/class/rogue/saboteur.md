@@ -2,7 +2,9 @@
 
 > *Demolish Targets with Explosives* - Written by Laserllama - Adapted to 2024 PHB & C&M by Eschathologue*
 
-Some rogues combine their various skills with an interest in alchemy to produce explosive effects. Known as Saboteurs, these strange alchemists have many specialties; demolition, siege warfare, entertainment. No matter their focus, they all delight in violent destruction, and due to the rarity of their talents, Saboteurs are invaluable allies or dangerous foes.
+Some rogues combine their various skills with an interest in alchemy to produce explosive effects. Known as Saboteurs, these strange alchemists have many specialties; demolition, siege warfare, entertainment. 
+
+No matter their focus, they all delight in violent destruction, and due to the rarity of their talents, Saboteurs are invaluable allies or dangerous foes.
 
 ### Level 3: Explosives
 
@@ -56,7 +58,7 @@ You have learned to detonate your Explosives from afar. When you craft an Explos
 
 The following Explosives are available for a Saboteur rogue to learn. As an Action, you can craft an explosive, using the amount of Cordite Charges detailed in the description. Any explosives become inert at the end of your next long rest.
 
-***Hand Bomb (1 Charge).*** Using Utilise action you can ignite the explosive and throw it at a creature you can see within 60 feet, forcing it to make a Dexterity saving throw. They take 2d6 Fire damage on a failed save, and half as much damage on a success. You add your Sneak Attack bonus to the Fire damage even if you don't meet the normal requirements.
+***Hand Bomb (1 Charge).*** Using Utilise action you ignite the explosive and throw it at a creature you can see within 60 feet, forcing it to make a Dexterity saving throw. They take 2d6 Fire damage on a failed save, and half as much damage on a success. You add your Sneak Attack bonus to the Fire damage even if you don't meet the normal requirements.
 
 ***Arcane Explosives.*** The Arcane Explosives table below details spell effects you can replicate with your Explosives. Each time you learn a new Explosive, you can choose one spell effect from the list below to learn, so long as you meet the prerequisite level, which refers to your rogue level. If a spell normally requires Concentration, the explosive version of that spell does not and lasts the full duration.
 
