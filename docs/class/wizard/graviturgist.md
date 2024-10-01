@@ -1,4 +1,5 @@
 # Graviturgist
+
 > *Exert Mastery over the Laws of Attraction - Updated by PerfectlyCircularSeal*
 
 Understanding and mastering the forces that draw bodies of matter together or drive them apart, the students of the Graviturgy arcane tradition learn to further bend and manipulate the violent energy of gravity to their benefit, and the terrible detriment of their enemies.

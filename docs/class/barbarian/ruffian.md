@@ -1,5 +1,7 @@
 # Path of the Ruffian
 
+> *Rage Born in the Streets - Written by Eschatologue*
+
 While most Barbarians draw their Rage from the untamed wilderness, those who follow the Path of the Ruffian find their Rage in the shadowy underbelly of civilisation, in the slums of sprawling citadel cities and among the forgotten corners of society. Unlike others who fight for honour or noble causes, a Ruffian battles for the thrill of it—or simply to survive another day. Whatever drives them, Ruffians share one thing in common: when trouble arises, they prefer to settle matters with their fists.
 
 ### Level 3: The Wrong Crowd
@@ -32,11 +34,11 @@ While your Rage is active, your Unarmed Strike is improved in the following ways
 
 ***Concussion.*** When you damage a creature with Unarmed Strike, you can force the target to make a Constitution saving throw. On a failed save, the target has the Stunned condition until the start of your next turn. On a successful save, the target's Speed is halved until the start of your next turn, and the next attack roll made against the target before then has Advantage.
 
-You can use this feature a number of times equal to your Strength modifier (a minimum of once), and you regain all expended uses when you finish a Short or Long Rest.
+You can use this class feature a number of times equal to your Strength modifier (a minimum of once), and you regain all expended uses when you finish a Short or Long Rest.
 
-### Level 10: Improved Unarmed Fighting
+### Level 10: Crushing Strength
 
-You gain the following benefits:
+Your expertise in hand-to-hand combat reaches new heights: your unarmed attacks are deadlier and more punishing. While your Rage is active, you gain the following benefits:
 
 ***Backbreaker.*** At the start of each of your turns while your Rage is active, you can deal 1d6 Bludgeoning damage to one creature that receive the Grappled condition from you, instead of 1d4. **At level 14**, this damage die becomes 1d8.
 

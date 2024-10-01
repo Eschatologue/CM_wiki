@@ -1,6 +1,6 @@
 # Saboteur
 
-> *Demolish Targets with Explosives* - Written by Laserllama - Adapted to 2024 PHB & C&M by Eschathologue*
+> *Demolish Targets with Explosives* - Written by Laserllama - Adapted to 2024 PHB & C&M by Eschathologue
 
 Some rogues combine their various skills with an interest in alchemy to produce explosive effects. Known as Saboteurs, these strange alchemists have many specialties; demolition, siege warfare, entertainment. 
 

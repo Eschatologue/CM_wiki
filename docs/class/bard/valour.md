@@ -1,6 +1,6 @@
 # College of Valour
 
-*Sing the Deeds of Ancient Hero*
+> *Sing the Deeds of Ancient Hero*
  
 Bards of the College of Valor are daring storytellers whose tales keep alive the memory of the great heroes of the past. These Bards sing the deeds of the mighty, both past and present, in vaulted halls or to crowds gathered around great bonfires. They travel the land to witness great events firsthand and to ensure that the memory of these events doesn't pass from the world. With their songs, they inspire new generations to reach the same heights of accomplishment as the heroes of old.
 
