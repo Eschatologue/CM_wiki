@@ -194,7 +194,7 @@ You can cast Jump on yourself without expending a :rsc-spell-slot: Spell Slot.
 
 As a :rsc-bonus-action: Bonus Action, you can trace arcane sigils in the air to conjure a pact weapon in your hand—a Simple or Martial melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch. Until the bond ends, you have Proficiency with the weapon, and you can use it as a spellcasting focus.
 
-Whenever you attack with the bonded weapon, you can use your spellcasting ability modifier for the attack and damage rolls, instead of using Strength or Dexterity, and you can cause the weapon to deal :dmg-necrotic: Necrotic, :dmg-psychic: Psychic, or :dmg-radiant: Radiant damage or its normal damage type.
+Whenever you attack with the bonded weapon, you can use your Charisma modifier for the attack and damage rolls, instead of using Strength or Dexterity, and you can cause the weapon to deal :dmg-necrotic: Necrotic, :dmg-psychic: Psychic, or :dmg-radiant: Radiant damage or its normal damage type.
 
 Your bond with the weapon ends if you use this feature's :rsc-bonus-action: Bonus Action again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
 
