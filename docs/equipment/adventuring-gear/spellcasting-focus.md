@@ -8,7 +8,7 @@ Spellcasting focus is an item that allows certain spellcasters to cast spells wi
 
 ## Arcane Focus
 
-Spellcasting Focus, Varies, S-
+Spellcasting Focus, Varies, oS-
 
 An Arcane Focus takes a specific form and is bejeweled or carved to channel arcane magic. A Sorcerer, Warlock, or Wizard can use such an item as a Spellcasting Focus.
 
@@ -46,9 +46,4 @@ The table indicates whether a Holy Symbol needs to be held, worn, or borne on fa
 | Emblem (borne on fabric or a Shield) | 50 SP |
 | Reliquary (held) | 50 SP |
 
-*[XS-]: 5 Items per 1 Inv. Slot.
-*[S]: 2 Items per 1 Inv. Slot.
-*[M]: 1 Item per 1 Inv. Slot.
-*[L]: 2 Inv. Slot for 1 Item.
-*[Bulky]: 3 Inv. Slot for 1 Item.
-*[Enormous]: 4 Inv. Slot for 1 Item.
+--8<-- "includes/snippets/inv-notation.md"

@@ -5,3 +5,5 @@
 *[XL]: (Bulky) 3 Inv. Slot for 1 Item.
 *[XXL]: (Enormous) 4 Inv. Slot for 1 Item.
 *[3L]: (Monstrous) 6 Inv. Slot for 1 Item.
+
+*[oS-]: Test
