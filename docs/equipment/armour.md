@@ -26,36 +26,36 @@ If the table shows “Disadvantage” in the Stealth column for an armour type, 
 
 | Light Armour | Armour Class (AC) | Strength | Stealth | Weight | Cost |
 |---|:-:|:-:|:-:|:-:|--:|
-| *Padded Armour* | 11 + Dex modifier | — | Disadvantage | Moderate | 50 SP |
-| *Leather Armour* | 11 + Dex modifier | — | — | Moderate | 100 SP |
-| *Studded Leather Armour* | 12 + Dex modifier | — | — | Cumbersome | 450 SP |
+| *Padded Armour* | 11 + Dex modifier | — | Disadvantage | M. | 50 SP |
+| *Leather Armour* | 11 + Dex modifier | — | — | M. | 100 SP |
+| *Studded Leather Armour* | 12 + Dex modifier | — | — | L. | 450 SP |
 
 ##### Medium Armour Table (5 Minutes to Don and 1 Minute to Doff)
 
 | Medium Armour | Armour Class (AC) | Strength | Stealth | Weight | Cost |
 |---|:-:|:-:|:-:|:-:|--:|
-| *Hide Armour* | 12 + Dex modifier (max 2) | — | — | Cumbersome | 100 SP |
-| *Chain Shirt* | 13 + Dex modifier (max 2) | — | — | Cumbersome | 500 SP |
-| *Scale Mail* | 14 + Dex modifier (max 2) | — | Disadvantage | Enormous | 500 SP |
-| *Breastplate* | 14 + Dex modifier (max 2) | — | — | Cumbersome | 4,000 SP |
-| *Half Plate Armour* | 15 + Dex modifier (max 2) | — | Disadvantage | 40 lb. | 7,500 SP |
+| *Hide Armour* | 12 + Dex modifier (max 2) | — | — | L. | 100 SP |
+| *Chain Shirt* | 13 + Dex modifier (max 2) | — | — | L. | 500 SP |
+| *Scale Mail* | 14 + Dex modifier (max 2) | — | Disadvantage | XXL. | 500 SP |
+| *Breastplate* | 14 + Dex modifier (max 2) | — | — | L. | 4,000 SP |
+| *Half Plate Armour* | 15 + Dex modifier (max 2) | — | Disadvantage | XXL. | 7,500 SP |
 
 ##### Heavy Armour Table (10 Minutes to Don and 5 Minutes to Doff)
 
 | Heavy Armour | Armour Class (AC) | Strength | Stealth | Weight | Cost |
 |---|:-:|:-:|:-:|:-:|--:|
-| *Ring Mail* | 14 | — | Disadvantage | Enormous | 300 SP |
-| *Chain Mail* | 16 | Str 13 | Disadvantage | Monstrous | 750 SP |
-| *Splint Armour* | 17 | Str 15 | Disadvantage | Monstrous | 2,000 SP |
-| *Plate Armour* | 18 | Disadvantage | Disadvantage | Monstrous | 15,000 SP |
+| *Ring Mail* | 14 | — | Disadvantage | XXL. | 300 SP |
+| *Chain Mail* | 16 | Str 13 | Disadvantage | 3L. | 750 SP |
+| *Splint Armour* | 17 | Str 15 | Disadvantage | 3L. | 2,000 SP |
+| *Plate Armour* | 18 | Disadvantage | Disadvantage | 3L. | 15,000 SP |
 
 ##### Shield Table (Utilize Action to Don or Doff)
 
 | Shield  | Armour Class (AC) | Strength | Stealth | Weight | Cost |
 |---|:-:|:-:|:-:|:-:|--:|
-| *Buckler* | +1 | — | - | Moderate | 50 SP |
-| *Shield* | +2 | — | - | Moderate | 100 SP |
-| *Tower Shield* | +3 | Str 15 | Disadvantage | Cumbersome | 1,000 SP |
+| *Buckler* | +1 | — | - | M. | 50 SP |
+| *Shield* | +2 | — | - | M. | 100 SP |
+| *Tower Shield* | +3 | Str 15 | Disadvantage | L. | 1,000 SP |
 
 ***Buckler.*** When wielding a Buckler, you can use weapon's :weapon-prop-versatile: **Versatile** property.
 
@@ -71,10 +71,10 @@ If you wear Light, Medium, or Heavy armour and lack training with it, you have :
 
 You gain the Armour Class benefit of a Shield only if you have training with it.
 
-*[Diminutive]: 5 Items per 1 Inv. Slot.
-*[Compact]: 2 Items per 1 Inv. Slot.
-*[Moderate]: 1 Item per 1 Inv. Slot.
-*[Cumbersome]: 2 Inv. Slot for 1 Item.
+*[XS.]: 5 Items per 1 Inv. Slot.
+*[S]: 2 Items per 1 Inv. Slot.
+*[M]: 1 Item per 1 Inv. Slot.
+*[L]: 2 Inv. Slot for 1 Item.
 *[Bulky]: 3 Inv. Slot for 1 Item.
 *[Enormous]: 4 Inv. Slot for 1 Item.
 *[Monstrous]: 6 Inv. Slot for 1 Item.

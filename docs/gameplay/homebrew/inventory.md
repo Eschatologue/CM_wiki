@@ -33,13 +33,13 @@ Each item in your inventory occupies a certain number of slots based on its weig
 
 | Weight Class | Abbrv. | Weight Range | Inventory Slots Used |
 |---|:-:|---|---|
-| **Diminutive** | XS | Less than 1 lb. | 5 Items per 1 Slot |
-| **Compact** | S | 1 lb. to 5 lbs. | 2 Items per 1 Slot |
-| **Moderate** | M | 6 lbs. to 10 lbs. | 1 Item per 1 Slot |
-| **Cumbersome** | L | 11 lbs. to 20 lbs. | 2 Slots for 1 Item |
-| **Bulky** | XL | 21 lbs. to 30 lbs. | 3 Slots for 1 Item |
-| **Enormous** | XXL | 31 lbs. to 50 lbs. | 4 Slots for 1 Item |
-| **Monstrous** | XXXL | 51 lbs. or more | 6 Slots for 1 Item |
+| **Diminutive** | XS. | Less than 1 lb. | 5 Items per 1 Slot |
+| **Compact** | S. | 1 lb. to 5 lbs. | 2 Items per 1 Slot |
+| **Moderate** | M. | 6 lbs. to 10 lbs. | 1 Item per 1 Slot |
+| **Cumbersome** | L. | 11 lbs. to 20 lbs. | 2 Slots for 1 Item |
+| **Bulky** | XL. | 21 lbs. to 30 lbs. | 3 Slots for 1 Item |
+| **Enormous** | XXL. | 31 lbs. to 50 lbs. | 4 Slots for 1 Item |
+| **Monstrous** | 3L. | 51 lbs. or more | 6 Slots for 1 Item |
 
 ## Additional Spaces
 
