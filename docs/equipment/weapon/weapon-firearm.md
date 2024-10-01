@@ -43,7 +43,7 @@ The Long-arm Table encompass rifles and other longer-range weapons. These are de
 | Automatic Rifle | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 90/270), Automatic (3), Heavy, Reload (12), Two-handed | L. | 6,500 SP |
 | Markesmen Rifle | 2d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 180/550), Heavy, Reload (6), Sighted, Two-handed | L. | 8,000 SP |
 | Semi-Auto Rifle | 2d4 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 120/320), Automatic (1), Heavy, Reload (8), Two-handed | L. | 5,000 SP |
-| Over-under Shotgun| 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 30/50), Automatic (3), Heavy, Reload (2), Scatter (2d6), Two-handed, Special | M. | 4,000 SP |
+| Over-under Shotgun| 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 30/50), Automatic (1), Heavy, Reload (2), Scatter (2d6), Two-handed, Special | M. | 4,000 SP |
 | Pump Shotgun | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 40/90), Automatic (3), Heavy, Reload (7), Scatter (1d12), Two-handed | M. | 6,000 SP |
 
 ### Advanced Firearms

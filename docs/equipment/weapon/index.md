@@ -91,7 +91,7 @@ This weapon is normally used while attached to a tripod, vehicle, or other braci
 
 ---
 
-#### :weapon-prop-range:{ .lg } Ranged
+#### :weapon-prop-range:{ .lg } Range
 
 This weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. 
 
@@ -119,7 +119,7 @@ If you make an attack against a target that is within half this weapon's normal 
 
 #### :weapon-prop-sighted:{ .lg } Sighted
 
-This weapon has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** made against targets within 20 feet and has :d20-adv: **Advantage** against target that has not moved at least 15 feet for this turn.
+This weapon has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** made against targets within 20 feet and has :d20-adv: **Advantage** against target that has not moved at least 15 feet for this before the start of your current turn.
 
 ---
 
