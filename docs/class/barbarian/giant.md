@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Path of the Giant
 
 > *Channel the Stature and Power of Giants - Written by PerfectlyCircularSeal*
@@ -8,7 +13,7 @@ Barbarians who walk the Path of the Giant draw strength from the same primal for
 
 The primal force of giants wreaths within you.
 
-***Giant's Tongue.***You can speak, read, and write Giant or one other language of your choice if you already know Giant.
+***Giant's Tongue.*** You can speak, read, and write Giant or one other language of your choice if you already know Giant.
 
 ***Giant Magic.*** You learn the *Elementalism* cantrip and one other cantrip of your choice: either *Druidcraft* or *Thaumaturgy*. Wisdom is your spellcasting ability for these spells.
 

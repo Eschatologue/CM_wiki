@@ -86,9 +86,9 @@ When you make the extra attack of the :weapon-prop-light: Light weapon property,
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-Your unarmed strikes can deal Bludgeoning damage equal to 1d6 + your Strength modifier on a hit. If you aren't wielding any weapons or a shield when you make the :d20-attack: Attack Roll, the :die-d6:d6 becomes a :die-d8:d8.
+When you do damage with Unarmed Strikes, it deals Bludgeoning damage equal to :die-d6: 1d6 + your Strength modifier on a hit. If you have two free hands, the :die-d6: d6 damage die becomes a :die-d8: d8.
 
-At the start of each of your turns, you can deal 1d4 Bludgeoning damage to one creature grappled by you.
+At the start of each of your turns, you can deal 1d4 Bludgeoning damage to one creature that receive the Grappled condition from you.
 
 ## Crown & Misery Fighting Style
 
