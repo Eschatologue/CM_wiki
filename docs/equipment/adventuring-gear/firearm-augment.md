@@ -123,8 +123,8 @@ Increase the :weapon-prop-range: **Range** property value by 20/40.
 **Stackable:** No
 
 - Removes the :weapon-prop-light: **Light** property if it has any.
-- Halves the :weapon-prop-reload: **Reload** property parameter.
-- Increases the weapon damage die by one size larger. If the weapon damage die is 1d12 or 2d6, it gains +1 bonus to its damage roll.
+- Reduce :weapon-prop-reload: **Reload** property value by one-third (Round Up) of its default value.
+- Increases the weapon **Damage Die** by one size larger. If the weapon Damage Die is 1d12 or 2d6, it gains +1 bonus to its damage roll.
 
 ---
 

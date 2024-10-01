@@ -29,7 +29,7 @@ The Short-Arm Table include pistols, revolvers, and other small, easily conceala
 | Short-Arms Firearms | damage | properties| weight | cost |
 |---|---|---|:-:|--:|
 | Revolver | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 60/180), Reload (6) | M. | 2,500 SP |
-| Semi-Auto Pistol | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 60/180), Automatic (2), Light, Reload (7) | M. | 3,000 SP |
+| Semi-Auto Pistol | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 60/180), Automatic (2), Light, Reload (8) | M. | 3,000 SP |
 | Submachine Gun | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 40/90), Automatic (4), Reload (28), Two-handed | M. | 3,500 SP |
 
 ### Long-Arm
