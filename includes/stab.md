@@ -1,4 +1,4 @@
-*[XS.]: 5 Items per 1 Inv. Slot.
+*[XS-]: 5 Items per 1 Inv. Slot.
 *[S]: 2 Items per 1 Inv. Slot.
 *[M]: 1 Item per 1 Inv. Slot.
 *[L]: 2 Inv. Slot for 1 Item.
