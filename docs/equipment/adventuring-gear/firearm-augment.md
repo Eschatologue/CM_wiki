@@ -154,7 +154,7 @@ Reduce the number you need to roll for Critical Hit by 1.
 **Prerequisite:** No :weapon-prop-sighted: **Sighted** property  
 **Stackable:** Yes
 
-Adds the :weapon-prop-sighted: **Sighted** property to this.
+Adds the :weapon-prop-sighted: **Sighted** property to this firearm.
 
 ---
 
