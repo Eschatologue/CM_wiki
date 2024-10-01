@@ -36,7 +36,7 @@ As the name suggests, firearm Augmentations are available only to firearms that 
 
 ***Stacking Benefits.***  If an Augmentation is marked as "stackable," you can apply two or more of the same Augmentation to a single firearm, and their benefits will stack.
 
-:   Keep in mind that stackable Augmentations can increase the parameters of specific weapon properties, such as  :weapon-prop-reload: **Reload** or  :weapon-prop-automatic: **Automatic**, allowing those properties to function more effectively.
+:   Keep in mind that stackable Augmentations can change the parameters of specific weapon properties, such as  :weapon-prop-reload: **Reload** or  :weapon-prop-automatic: **Automatic**, allowing those properties to function more effectively.
 
 :   However, certain weapon properties themselves do not stack. For example, applying two of the same Augmentation that grants a weapon property like :weapon-prop-sighted: **Sighted** will not double the benefit of that specific property.
 
