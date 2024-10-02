@@ -335,11 +335,11 @@
 .md-typeset table:not([class]) td {
   padding: 0.4375em 1em;
   min-width: 0.0625em;
-  background-color: rgba(255, 255, 255, 0.025);
 }
 .md-typeset table:not([class]) td {
   font-size: 0.595rem;
   border-bottom: rgba(255, 255, 255, 0.12);
+  background-color: rgba(255, 255, 255, 0.025);
 }
 .md-typeset table:not([class]) tbody tr:hover {
   background-color: transparent;
@@ -351,6 +351,7 @@
   vertical-align: bottom;
   color: rgba(255, 255, 255, 0.8);
   border-bottom: 0.1rem solid var(--md-primary-fg-color);
+  background-color: rgba(0, 0, 0, 0.5);
   padding: 0.6125em 1em;
 }
 .md-typeset__table {
