@@ -21,4 +21,4 @@ $mod-dark-pink: hsl(325, 100%, 64%);
 $mod-dark-red: hsl(0, 100%, 59%);
 $mod-dark-yellow: hsl(51, 94%, 73%);
 
-$mod-default-bg: color.adjust($mod-bg, $lightness: 5%);
+$mod-default-bg: lighten($mod-bg, 5%);
