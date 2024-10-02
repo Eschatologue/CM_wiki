@@ -8,7 +8,7 @@ icon: class/ranger
 
 ##### Core Ranger Trait
 
-| Primary Ability | Strength & Charisma |
+| Trait | Detail |
 |---|---|
 | **Primary Ability** | Dexterity and Wisdom |
 | **Hit Point Die** | D10 per Ranger level |

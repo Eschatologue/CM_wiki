@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1
+---
+
 # Action Options
 
 ---
@@ -9,10 +14,6 @@
 The most common action to take in combat is the **Attack action**, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists. With this action, you make one melee or ranged attack. This action often requires you to make an :d20-attack: **Attack Roll** against the target's AC.
 
 Certain features, such as the Extra Attack feature of the fighter, allow you to make more than one attack with this action.
-
----
-
---8<-- "docs/glossary.md:unarmed-strike"
 
 ---
 
@@ -127,15 +128,15 @@ Opportunity Attack is also often referred to as 'Attack of Opportunity', they ar
 
 ### Ready
 
-Sometimes you want to get the jump on a foe or wait for a particular circumstance before you act. To do so, you can take the Ready action on your turn, which lets you act using your reaction before the start of your next turn.
+**Cost:** :rsc-action: Action
 
-***Determining Trigger.*** First, you decide what perceivable circumstance will trigger your reaction. Then, you choose the action you will take in response to that trigger, or you choose to move up to your speed in response to it. Examples include "If the cultist steps on the trapdoor, I'll pull the lever that opens it," and "If the goblin steps next to me, I move away."
+You take the *Ready* action to wait for a particular circumstance before you act. To do so, you take this action on your turn, which lets you act by taking a :rsc-reaction: **Reaction** before the start of your next turn.
 
-***Condition Triggered.*** When the trigger occurs, you can either take your reaction right after the trigger finishes or ignore the trigger. Remember that you can take only one reaction per round.
+First, you decide what perceivable circumstance will trigger your Reaction. Then, you choose the action you will take in response to that trigger, or you choose to move up to your Speed in response to it. Examples include "If the cultist steps on the trapdoor, I'll pull the lever that opens it," and "If the zombie steps next to me, I move away."
 
-#### Readying a Spell 
+When the trigger occurs, you can either take your Reaction right after the trigger finishes or ignore the trigger.
 
-When you ready a spell, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a spell must have a casting time of an action, and holding onto the spell's magic requires concentration. If your concentration is broken, the spell dissipates without taking effect.
+***Readying a Spell.*** When you Ready a spell, you cast it as normal (expending any resources used to cast it) but hold its energy, which you release with your :rsc-reaction: **Reaction** when the trigger occurs. To be readied, a spell must have a casting time of an action, and holding on to the spell's magic requires Concentration, which you can maintain up to the start of your next turn. If your Concentration is broken, the spell dissipates without taking effect.
 
 ---
 
@@ -174,6 +175,22 @@ The Areas of Knowledge table suggests which skills are applicable when you take 
 | Investigation | Traps, ciphers, riddles, and gadgetry |
 | Nature | Terrain, flora, weather, and certain creatures (Beasts, Dragons, Oozes, and Plants) |
 | Religion | Deities, religious hierarchies and rites, holy symbols, cults, and certain creatures (Celestials, Fiends, and Undead) |
+
+---
+
+### Unarmed Strike
+
+**Cost:** :rsc-action: Action
+
+Instead of using a weapon to make a melee attack, you can use a punch, kick, head-butt, or similar forceful blow. In game terms, this is an Unarmed Strike—a melee attack that involves you using your body to damage, grapple, or shove a target within 5 feet of you.
+
+Whenever you use your Unarmed Strike, choose one of the following options for its effect.
+
+***Damage.*** You make an attack roll against the target. Your bonus to the roll equals your Strength modifier plus your Proficiency Bonus. On a hit, the target takes Bludgeoning damage equal to 1 plus your Strength modifier.
+
+***Grapple.*** The target must succeed on a Strength or Dexterity saving throw (it chooses which), or it has the Grappled condition. The DC for the saving throw and any escape attempts equals 8 plus your Strength modifier and Proficiency Bonus. This grapple is possible only if the target is no more than one size larger than you and if you have a hand free to grab it.
+
+***Shove.*** The target must succeed on a Strength or Dexterity saving throw (it chooses which), or you either push it 5 feet away or cause it to have the Prone condition. The DC for the saving throw equals 8 plus your Strength modifier and Proficiency Bonus. This shove is possible only if the target is no more than one size larger than you.
 
 ---
 
