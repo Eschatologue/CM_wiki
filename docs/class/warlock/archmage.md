@@ -1,4 +1,4 @@
-# The Archmage
+# The Archmage Patron
 
 > *Unearth the secret of the Arcana* - Written by Eschathologue
 
