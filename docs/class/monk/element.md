@@ -16,7 +16,7 @@ At the start of your turn, you can spend 1 Focus Point to imbue yourself with el
 
 ***Reach.*** When you make an Unarmed Strike, your reach is 10 feet greater than normal, as elemental energy extends from you.
  
-&emsp;***Elemental Strikes.*** Whenever you hit with your Unarmed Strike, you can cause it to deal your choice of :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-lightning: Lightning or :dmg-thunder: Thunder damage rather than its normal damage type. When you deal one of these types with your Unarmed Strike, you can also force the target to make a Strength saving throw. On a failed save, you can move the target up to 10 feet toward or away from you, as elemental energy swirls around it.
+***Elemental Strikes.*** Whenever you hit with your Unarmed Strike, you can cause it to deal your choice of :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-lightning: Lightning or :dmg-thunder: Thunder damage rather than its normal damage type. When you deal one of these types with your Unarmed Strike, you can also force the target to make a Strength saving throw. On a failed save, you can move the target up to 10 feet toward or away from you, as elemental energy swirls around it.
 
 ### Level 6: Environmental Burst
 
