@@ -30,6 +30,7 @@ $paddingScale: 7px;
             vertical-align: bottom;
             color: rgba(255, 255, 255, 0.8);
             border-bottom: $borderBottomPad solid var(--md-primary-fg-color);
+            background-color: rgba(0, 0, 0, 0.75);
             padding: px2em($paddingScale * 1.4) px2em($paddings);
             padding-top: $borderBottomPad;
         }
