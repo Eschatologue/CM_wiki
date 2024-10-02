@@ -20,7 +20,8 @@ $roundingVar: px2em(4px);
       font-weight: bold !important;
       text-transform: capitalize !important;
       vertical-align: bottom;
-      color: rgba(255, 255, 255, 0.5);
+      color: rgba(255, 255, 255, 0.8);
+      border-bottom: px2rem(2px) solid var(--md-primary-fg-color);
       padding: px2em($paddingScale * 1.4) px2em($paddings);
     }
 
