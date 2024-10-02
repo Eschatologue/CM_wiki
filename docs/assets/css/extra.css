@@ -351,9 +351,8 @@
   vertical-align: bottom;
   color: rgba(255, 255, 255, 0.8);
   border-bottom: 0.1rem solid var(--md-primary-fg-color);
-  background-color: rgba(0, 0, 0, 0.75);
+  background-color: rgba(0, 0, 0, 0.5);
   padding: 0.6125em 1em;
-  padding-top: 0.1rem;
 }
 .md-typeset__table {
   width: 100%;
