@@ -3,36 +3,41 @@ $paddingScale: 7px;
 $roundingVar: px2em(4px);
 
 .md-typeset {
-  & table:not([class]) {
-    th, td {
-      font-size: $defaultFontSize * 0.8;
-      padding: px2em($paddingScale) px2em($paddings);
-      border-bottom: rgba(255, 255, 255, 0.12);
-      background-color: rgba(255, 255, 255, 0.025);
-      min-width: px2em(1px);
+    // Table without class
+    & table:not([class]) {
+        th,
+        td {
+            font-size: $defaultFontSize * 0.85;
+            padding: px2em($paddingScale) px2em($paddings);
+            border-bottom: rgba(255, 255, 255, 0.12);
+            background-color: rgba(255, 255, 255, 0.025);
+            min-width: px2em(1px);
+        }
+
+        // Hover effect for table rows
+        tbody tr:hover {
+            background-color: transparent;
+        }
+
+        // Table header styles
+        th {
+            font-weight: bold !important;
+            text-transform: capitalize !important;
+            vertical-align: bottom;
+            color: rgba(255, 255, 255, 0.8);
+            border-bottom: px2rem(2px) solid var(--md-primary-fg-color);
+            padding: px2em($paddingScale * 1.4) px2em($paddings);
+        }
     }
 
-    tbody tr:hover {
-      background-color: transparent;
-    }
+    // Custom table class
+    &__table {
+        width: 100%;
 
-    th {
-      font-weight: bold !important;
-      text-transform: capitalize !important;
-      vertical-align: bottom;
-      color: rgba(255, 255, 255, 0.8);
-      border-bottom: px2rem(2px) solid var(--md-primary-fg-color);
-      padding: px2em($paddingScale * 1.4) px2em($paddings);
+        table:not([class]) {
+            margin-top: px2rem(4px);
+            display: table;
+            border-color: transparent;
+        }
     }
-
-  }
-
-  &__table {
-    width: 100%;
-    table:not([class]) {
-      margin-top: px2rem(4px);
-      display: table;
-      border-color: transparent;
-    }
-  }
 }
