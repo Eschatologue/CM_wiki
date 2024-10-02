@@ -813,10 +813,10 @@ You have learned to change your fighting stance to best meet the challenges you 
 **Ability Score Increase**  
 You increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.
 
-**Technical Shift**  
-You gain one Fighting Style feat of your choice. However, you can only benefit from the effects of one Fighting Style feat you know.
+**Stance Change**  
+You learn an additional Fighting Style feat of your choice. You do not gain the benefit of the Fighting Style.
 
-As a Bonus Action, you can switch your current Fighting Style to another Fighting Style that you know.
+As a Bonus Action, you can choose to benefit from the Fighting Style feat you gained from this feat, losing the benefit of one other Fighting Style feat you currently have. To regain the benefit of another Fighting Style, you must use a Bonus Action to switch back.
 
 ---
 

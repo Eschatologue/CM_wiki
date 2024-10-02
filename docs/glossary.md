@@ -535,6 +535,8 @@ A Friendly creature views you favorably. You have advantage on an ability check 
 
 ---
 
+----8<---- [start:grappling]
+
 ### Grappling
 
 A creature can grapple another creature. Characters typically grapple by using an Unarmed Strike. Many monsters have special attacks that allow them to quickly grapple prey. However a grapple is initiated, it follows these rules.
@@ -545,11 +547,7 @@ A creature can grapple another creature. Characters typically grapple by using a
 
 ***Escaping a Grapple.*** A Grappled creature can use its action to make a Strength (Athletics) or Dexterity (Acrobatics) check against the grapple's escape DC, ending the condition on itself on a success. The condition also ends if the grappler has the Incapacitated condition or if the distance between the Grappled target and the grappler exceeds the grapple's range.
 
----
-
-### Hazard
-
-A [trapshazards.html](hazard) is an environmental danger.
+----8<---- [end:grappling]
 
 ---
 
