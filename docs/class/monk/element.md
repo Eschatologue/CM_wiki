@@ -38,4 +38,4 @@ When your Elemental Attunement is active, you also gain the following benefits f
 
 ***Empowered Strikes.*** Once on each of your turns, you can deal extra damage to a target equal to one roll of your Martial Arts die when you hit it with an [Unarmed Strike]. The extra damage is the same type dealt by that strike.
 
- [Unarmed Strike]: ../../gameplay/phb/actions/options.md#unarmed-strike
+[Unarmed Strike]: ../../gameplay/phb/actions/options.md#unarmed-strike

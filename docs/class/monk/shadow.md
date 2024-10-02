@@ -20,7 +20,7 @@ While entirely within Dim Light or Darkness, you can use a Bonus Action to telep
 
 ### Level 11: Improved Shadow Step
 
-You can draw on your connection to shadow to empower your teleportation. When you use your Shadow Step, you can spend 1 Focus Point to remove the requirement that you must start and end in Dim Light or Darkness for that use of the feature. As part of this Bonus Action, you can make an Unarmed Strike immediately after the teleportation.
+You can draw on your connection to shadow to empower your teleportation. When you use your Shadow Step, you can spend 1 Focus Point to remove the requirement that you must start and end in Dim Light or Darkness for that use of the feature. As part of this Bonus Action, you can make an [Unarmed Strike] immediately after the teleportation.
 
 ### Level 17: Cloak Of Shadows
 
@@ -31,3 +31,5 @@ As a Magic action while entirely within Dim Light or Darkness, you can spend 3 F
 ***Partially Incorporeal.*** You can move through creatures and objects as if they were difficult terrain, but you take 1d10 Force damage if you end your turn inside a creature or an object.
 
 ***Shadow Flurry.*** You can use your Flurry of Blows without spending any Focus Points
+
+[Unarmed Strike]: ../../gameplay/phb/actions/options.md#unarmed-strike

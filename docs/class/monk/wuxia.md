@@ -29,7 +29,7 @@ Your focus empowers your Wuxia weapons, granting you the following benefits.
 
 ***Magic Wuxia Weapons.*** When you attack with a Wuxia weapon, you can choose to deal the weapon’s damage type or Force damage.
 
-***Rapid Strikes.*** When you use Flurry of Blows, you can replace your Unarmed Strikes with melee Wuxia Weapon attacks
+***Rapid Strikes.*** When you use Flurry of Blows, you can replace your [Unarmed Strikes] with melee Wuxia Weapon attacks
 
 ### Level 11: Spirit Blade
 
@@ -44,3 +44,5 @@ This bonus is only usable by you and it lasts for 1 minute. It ends early if you
 When you make an attack roll with a Wuxia weapon, you can choose to use your Monk level in place of rolling the d20. If using your Monk level would result in a critical hit for that attack roll, then the attack becomes a critical hit.
 
 Once you use this feature you must finish a Short or Long Rest before you can use it again.
+
+[Unarmed Strikes]: ../../gameplay/phb/actions/options.md#unarmed-strike

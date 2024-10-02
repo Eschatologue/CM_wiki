@@ -6,7 +6,7 @@ Warriors of Mercy manipulate the life force of others. These monks are wandering
 
 ### Level 3: Hand of Harm
 
-Once per turn, when you hit a creature with an Unarmed Strike and deal damage, you can expend 1 Focus Point to deal extra Necrotic damage equal to one roll of your Martial Arts Die plus your Wisdom modifier.
+Once per turn, when you hit a creature with an [Unarmed Strike] and deal damage, you can expend 1 Focus Point to deal extra Necrotic damage equal to one roll of your Martial Arts Die plus your Wisdom modifier.
 
 ### Level 3: Hand of Healing
 
@@ -26,9 +26,9 @@ Your Hand of Harm and Hand of Healing improve as detailed below:
 
 ### Level 11: Flurry of Healing and Harm
 
-When you use Flurry of Blows, you can now replace each of the Unarmed Strikes with a use of your Hand of Healing, without spending Focus Points for the healing.
+When you use Flurry of Blows, you can now replace each of the [Unarmed Strike] with a use of your Hand of Healing, without spending Focus Points for the healing.
 
-In addition, when you make an Unarmed Strike with Flurry of Blows and deal damage, you can use Hand of Harm with that strike without spending the Focus Points for Hand of Harm. You can still use Hand of Harm only once per turn.
+In addition, when you make an [Unarmed Strike] with Flurry of Blows and deal damage, you can use Hand of Harm with that strike without spending the Focus Points for Hand of Harm. You can still use Hand of Harm only once per turn.
 
 You can use these benefits a total number of times equal to your Wisdom modifie (minimum of once). You regain all expended use when you finish a Long Rest.
 
@@ -37,3 +37,5 @@ You can use these benefits a total number of times equal to your Wisdom modifie 
 Your mastery of life energy opens the door to the ultimate mercy. As a Magic action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 Focus Points. The creature then returns to life, regaining a number of hit points equal to 4d10 + your Wisdom modifier. If the creature died while subject to any of the following conditions, it revives with them removed: Blinded, Deafened, Paralyzed, Poisoned, or Stunned.
 
 Once you use this feature, you can't use it again until you finish a long rest.
+
+[Unarmed Strike]: ../../gameplay/phb/actions/options.md#unarmed-strike
