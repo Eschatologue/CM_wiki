@@ -36,11 +36,5 @@
         --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
         --md-mod-shadow-z2: 0 #{px2rem(4px)} #{px2rem(10px)} hsla(0, 0%, 0%, 0.3),
             0 0 #{px2rem(1px)}hsla(0, 0%, 0%, 0.2);
-
-        // Dark specific colors
-        --md-mod-bg-color--dark: #{color.adjust($mod-default-bg, $lightness: -3%)};
-        --md-mod-bg-color--darker: #{color.adjust($mod-default-bg, $lightness: -6%)};
-        --md-mod-bg-color--darkest: #{color.adjust($mod-default-bg, $lightness: -9%)};
-        --md-mod-bg-color--ultra-dark: #{color.adjust($mod-default-bg, $lightness: -15%)};
     }
 }
