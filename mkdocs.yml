@@ -262,13 +262,9 @@ nav:
   - Rule Glossary: glossary.md
   - Current Campaign:
     - Player's Gimmick:
-      - John K. Godsmith: 
-        - campaign/player-chr/john-godsmith/index.md
-      - Ydastriel Khaine: 
-        - campaign/player-chr/ydastriel-khaine/index.md
-      - Eris Decrat: 
-        - campaign/player-chr/eris-dekrat/index.md
-        - Spell List: campaign/player-chr/eris-dekrat/spell-list.md
+      - John K. Godsmith: campaign/player-chr/john-godsmith.md
+      - Ydastriel Khaine: campaign/player-chr/ydastriel-khaine.md
+      - Eris Decrat: campaign/player-chr/eris-dekrat.md
 # Author
 site_author: Eschatologue
 site_description: >-

@@ -5,7 +5,7 @@ $roundingVar: px2em(4px);
 .md-typeset {
   & table:not([class]) {
     th, td {
-      font-size: px2rem(13px);
+      font-size: $defaultFontSize * 0.8;
       padding: px2em($paddingScale) px2em($paddings);
       border-bottom: rgba(255, 255, 255, 0.12);
       background-color: rgba(255, 255, 255, 0.025);
@@ -24,17 +24,6 @@ $roundingVar: px2em(4px);
       padding: px2em($paddingScale * 1.4) px2em($paddings);
     }
 
-    // Table cell rounding
-    th:first-child {
-      border-radius: $roundingVar 0 0 0 !important;
-    }
-    th:last-child,
-    tr:last-child td:last-child {
-      border-radius: 0 $roundingVar 0 0 !important;
-    }
-    tr:last-child td:first-child {
-      border-radius: 0 0 0 $roundingVar !important;
-    }
   }
 
   &__table {

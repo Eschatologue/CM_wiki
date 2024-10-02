@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Eris Deckrat Spell List
 
 Spells marked with  means that the spell fufill the prerequisites to be channeled through Dekrat's Special
