@@ -1,17 +1,19 @@
-$paddings: 15px;
+$paddings: 16px;
 $paddingScale: 7px;
-$roundingVar: px2em(4px);
 
 .md-typeset {
     // Table without class
     & table:not([class]) {
         th,
         td {
-            font-size: $defaultFontSize * 0.85;
             padding: px2em($paddingScale) px2em($paddings);
+            min-width: px2em(1px);
+        }
+
+        td {
+            font-size: $defaultFontSize * 0.85;
             border-bottom: rgba(255, 255, 255, 0.12);
             background-color: rgba(255, 255, 255, 0.025);
-            min-width: px2em(1px);
         }
 
         // Hover effect for table rows
@@ -21,12 +23,15 @@ $roundingVar: px2em(4px);
 
         // Table header styles
         th {
+            $borderBottomPad: px2rem(2px);
+            font-size: $defaultFontSize * 0.9;
             font-weight: bold !important;
             text-transform: capitalize !important;
             vertical-align: bottom;
             color: rgba(255, 255, 255, 0.8);
-            border-bottom: px2rem(2px) solid var(--md-primary-fg-color);
+            border-bottom: $borderBottomPad solid var(--md-primary-fg-color);
             padding: px2em($paddingScale * 1.4) px2em($paddings);
+            padding-top: $borderBottomPad;
         }
     }
 
