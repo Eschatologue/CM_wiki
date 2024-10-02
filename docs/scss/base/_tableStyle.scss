@@ -8,12 +8,12 @@ $paddingScale: 7px;
         td {
             padding: px2em($paddingScale) px2em($paddings);
             min-width: px2em(1px);
-            background-color: rgba(255, 255, 255, 0.025);
         }
 
         td {
             font-size: $defaultFontSize * 0.85;
             border-bottom: rgba(255, 255, 255, 0.12);
+            background-color: rgba(255, 255, 255, 0.025);
         }
 
         // Hover effect for table rows
@@ -29,6 +29,7 @@ $paddingScale: 7px;
             vertical-align: bottom;
             color: rgba(255, 255, 255, 0.8);
             border-bottom: px2rem(2px) solid var(--md-primary-fg-color);
+            background-color: rgba(0, 0, 0, 0.5);
             padding: px2em($paddingScale * 1.4) px2em($paddings);
         }
     }
