@@ -36,7 +36,7 @@
 
     // Go to Top Button
     .md-top {
-        background-color: darken(var(--md-default-bg-color), 20%);
+        background-color: var(--md-default-bg-color);
 
         &:hover {
             background-color: var(--md-primary-fg-color);
