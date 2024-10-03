@@ -84,6 +84,10 @@ The number of spells on your list increases as you gain Rogue levels, as shown i
 
 If another Arts & Swash feature gives you spells that you always have prepared or know, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Arts & Swash spells for you.
 
+##### Changing Your Prepared Spells
+
+Whenever you finish a Long Rest, you can replace one spell on your list with another Arts & Swash spell of an eligible level.
+
 #### Spellcasting Ability
 
 :ability-cha: **Charisma** is your spellcasting ability.
