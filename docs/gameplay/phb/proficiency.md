@@ -27,11 +27,14 @@ Occasionally, a Proficiency Bonus might be multiplied or divided before being ad
 
 Ability Checks are usually made using a specified skill. Skills are specific areas of expertise, each associated with an ability, that characters can be proficient in.
 
-Characters add their Proficiency Bonus to any :d20-check: **Ability Checks** they make using skills they are proficient in.
+Characters add their Proficiency Bonus to any :d20-check: **Ability Checks** they make using skills they are proficient in. 
 
-| | | ABILITIES |  | |
-|:---:|:---:|:---:|:---:|:---:|
+The Ability Table lists what skills are tied to specific abilities, though when the DM calls for it or with specific class feature, the respective skill can use different abilitiy for its checks (e.g Strength (Intimidation) or Dexterity(Medicine))
+
+##### Ability Table
+
 | **:ability-str:{ .lg  } STRENGTH** | **:ability-dex:{ .lg  } DEXTERITY** | **:ability-int:{ .lg  } INTELIGENCE** | **:ability-wis:{ .lg  } WISDOM** | **:ability-cha:{ .lg  } CHARISMNA** |
+|:---:|:---:|:---:|:---:|:---:|
 | Athletics | Acrobatics | Arcana | Animal Handling | Deception |
 |  | Sleight of Hand | History | Insight | Intimidation |
 |  | Stealth | Investigation | Medicine | Performance |
