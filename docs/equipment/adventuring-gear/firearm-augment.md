@@ -60,9 +60,11 @@ Below are Firearm Augmentations available in Crown & Misery.
 
 **Cost:** 800 SP and A Melee Weapon that has :weapon-prop-light: **Light** property   
 **Prerequisite:** None  
-**Stackable:** No
+**Stackable:** Yes, up to 2 times.
 
 Making melee attack with the firearm will instead use the the melee weapon expended in the **Cost**. You can choose to destroy this Augmentation and get the weapon back.
+
+Taking this Augmentation again, removes the :weapon-prop-light: **Light** property restriction for the melee weapon. You can't have more than one weapon in a single firearm.
 
 ---
 

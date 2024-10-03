@@ -57,8 +57,6 @@ If the table shows “Disadvantage” in the Stealth column for an armour type, 
 | *Shield* | +2 | — | - | M. | 100 SP |
 | *Tower Shield* | +3 | Str 15 | :d20-disadv: Disadvantage | L. | 1,000 SP |
 
-***Buckler.*** When wielding a Buckler, you can use weapon's :weapon-prop-versatile: **Versatile** property.
-
 ## Armour Training
 
 Anyone can don armour or hold a Shield, but only those with training can use them effectively, as explained below. A character’s class and other features determine the character’s armour training. A monster has training with any armour in its stat block.
@@ -71,5 +69,6 @@ If you wear Light, Medium, or Heavy armour and lack training with it, you have :
 
 You gain the Armour Class benefit of a Shield only if you have training with it.
 
+***Buckler.*** When wielding a Buckler, you can a weapon's :weapon-prop-versatile: **Versatile** property.
 
 --8<-- "includes/snippets/inv-notation.md"

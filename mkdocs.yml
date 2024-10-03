@@ -114,13 +114,13 @@ nav:
           - Containers Items: equipment/adventuring-gear/containers.md
           - Spellcasting Focuses: equipment/adventuring-gear/spellcasting-focus.md
           - Items: equipment/adventuring-gear/item.md
-      - Services: equipment/services.md
-      - Magic Items: equipment/magic-item.md
       - Other: 
         - Firearms Augments: equipment/adventuring-gear/firearm-augment.md
-        - Potion: equipment/consumeables/potion.md
-        - Spell Scroll: equipment/consumeables/spell-scroll.md
         - Grenade: equipment/consumeables/grenade.md
+        - Magic Items: equipment/magic-item.md
+        - Potion: equipment/consumeables/potion.md
+        - Services: equipment/services.md
+        - Spell Scroll: equipment/consumeables/spell-scroll.md
   - Class: 
     - class/index.md
     - Expert Group:

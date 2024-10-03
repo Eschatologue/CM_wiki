@@ -77,8 +77,8 @@ To wield firearms effectively, characters must undergo specialized training. Eve
 
 Most creatures are aware of how firearms work, but using them effectively requires specific knowledge. When attempting to use a firearm for the first time, a creature must make a **DC 15 Intelligence check** to figure out how the weapon functions. The creature's existing weapon proficiencies can provide an :d20-adv: **Advantage** on this check:
 
-- **Short-Arms:** Creatures proficient with **Light Crossbows, Repeating Light Crossbows, Shortbows, Hand Crossbows** or **Martial Weapons** have :d20-adv: **Advantage** on this check with short-arms (e.g., pistols, handguns).
-- **Long-Arms:** Creatures proficient with **Arbalests, Longbows, Heavy Crossbows, Repeating Heavy Crossbows** or **Martial Weapons** have :d20-adv: **Advantage** on this check with long-arms (e.g., rifles, shotguns).
+- **Short-Arms:** Creatures proficient with *Light Crossbows*, *Repeating Light Crossbows*, *Shortbows*, *Hand Crossbows* or *Martial Weapons* have :d20-adv: **Advantage** on this check with Short-Arms.
+- **Long-Arms:** Creatures proficient with *Arbalests*, *Longbows*, *Heavy Crossbows*, *Repeating Heavy Crossbows* or *Martial Weapons* have :d20-adv: **Advantage** on this check with Long-Arms.
 - **Advanced Firearms:** Creatures proficient with **Martial Weapons** have :d20-adv: **Advantage** on this check with Advanced Firearms (e.g., rocket launchers, flamethrowers).
 
 #### Training and Proficiency
@@ -87,6 +87,6 @@ Once a creature successfully understands how a firearm operates, they can spend 
 
 ## Firearms Augmentation
 
-Firearms do not possess mastery properties like conventional weapons; however, they can be augmented to increase their effectiveness. For detailed options and mechanics regarding firearm Augmentations, see "[Augmentation Options](../adventuring-gear/firearm-augment.md)".
+Firearms do not possess Mastery properties like conventional weapons; however, they can be augmented to increase their effectiveness. For detailed options and mechanics regarding firearm Augmentations, see "[Augmentation Options](../adventuring-gear/firearm-augment.md)".
 
 --8<-- "includes/snippets/inv-notation.md"
