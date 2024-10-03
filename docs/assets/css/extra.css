@@ -488,7 +488,7 @@
   box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15), 0 0 0.2rem 0.4rem rgba(0, 0, 0, 0.2);
 }
 [data-md-color-scheme=slate] .md-top {
-  background-color: var(--md-default-bg-color);
+  background-color: var(--md-mod-default-bg-color--dark);
 }
 [data-md-color-scheme=slate] .md-top:hover {
   background-color: var(--md-primary-fg-color);
