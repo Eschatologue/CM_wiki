@@ -243,6 +243,8 @@ When you hit a creature with a weapon that has the Heavy property as part of the
 **Hew**  
 Immediately after you score a Critical Hit with a Melee weapon or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a Bonus Action.
 
+---
+
 ### Heavily Armoured
 
 *General Feat (Prerequisite: Level 4+, Medium Armour Training)*

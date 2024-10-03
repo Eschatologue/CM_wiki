@@ -99,6 +99,9 @@ nav:
       - Eldritch Invocations: character-creation/option/invocations.md
       - Combat Manoeuvre: character-creation/option/manoeuvre.md
   - Equipment: 
+      - Crafting Equipment: equipment/crafting.md
+      - Magic Items: equipment/magic-item.md
+      - Services: equipment/services.md
       - Armaments:
         - Armour: equipment/armour.md 
         - Weapons: 
@@ -117,9 +120,7 @@ nav:
       - Other: 
         - Firearms Augments: equipment/adventuring-gear/firearm-augment.md
         - Grenade: equipment/consumeables/grenade.md
-        - Magic Items: equipment/magic-item.md
         - Potion: equipment/consumeables/potion.md
-        - Services: equipment/services.md
         - Spell Scroll: equipment/consumeables/spell-scroll.md
   - Class: 
     - class/index.md

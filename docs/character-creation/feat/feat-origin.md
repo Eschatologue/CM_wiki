@@ -169,7 +169,7 @@ Your Hit Point Maximum increases by an amount equal to twice your character leve
 
 ## Crown & Misery Origin Feats
 
-These Origin feats are homebrew
+These Origin feats are homebrew.
 
 ---
 
@@ -215,7 +215,7 @@ You gain Proficiency with Thieves' Tools.
 As part of a Short Rest, you can use scavenged or acquired materials to build a temporary set of thieves' tools for when you lack access to a permanent one. This temporary set ceases to function after 1 hour.
     
 **Rougish Initiate**  
-Choose one of the following actions: Dash, Disengage, Hide or Use an Object. You can use the chosen action as a :rsc-bonus-action: Bonus Action.
+Choose one of the following actions: *Dash*, *Disengage*, *Hide* or *Utilise*. You can use the chosen action as a :rsc-bonus-action: Bonus Action.
 
 ---
 
@@ -264,15 +264,12 @@ Choose a different Fighting Style Feat each time.
 
 ### Gunsmith Initiate
 
-*Origin Feat (Prerequisite: Proficiency with Firearms)*  
+*Origin Feat (Prerequisite: Dexterity or Intelligence 13+, Proficiency with Firearms)*  
 
-You have a quick hand and keen eye when employing firearms, granting you the following benefits:
+You learned how to modify , granting you the following benefits:
 
-**Ability Score Increase**  
-Increase your Dexterity or Intelligence score by 1, to a maximum of 20.
-    
-**High-quality Augments**  
-You gain Proficiency with Gunsmith's Tool. If you are already proficient with it, your Augmentation Limit is increased by 2.
+**Efficient Augmentation**  
+You gain Proficiency with Gunsmith's Tool. If you are already proficient with it, your Augmentation Limit is increased by half of your proficiency bonus.
 
 ---
 
@@ -294,7 +291,9 @@ When you take the Help action to aid another creature's :d20-check: **Ability Ch
 
 *Origin Feat*
 
-You have made a vow to never stop learning, no matter how old or educated you become. You gain the benefits from the table below that correspond to your Intelligence score and lower. If your Intelligence score increases, the benefits you gain from this Feat also increase with your score:
+You have made a vow to never stop learning, no matter how old or educated you become. 
+
+You gain the benefits from the table below that correspond to your Intelligence score and lower. If your Intelligence score increases, the benefits you gain from this Feat also increase with your score:
 
 | Intelligence Score | Benefit |
 |:-:|---|
@@ -345,7 +344,9 @@ You gain two Sorcery Points which you can expend to cast either of the spells th
 
 *Origin Feat*
 
-You find ways to learn from every experience in life, always growing in wisdom. You gain the benefits on the table below that correspond to your current Wisdom score and lower. Should your Wisdom score increase, the benefits that you gain from this Feat also increase with your score.
+You find ways to learn from every experience in life, always growing in wisdom. 
+
+You gain the benefits on the table below that correspond to your current Wisdom score and lower. Should your Wisdom score increase, the benefits that you gain from this Feat also increase with your score.
 
 | Wisdom Score | Benefit |
 |:-:|---|
