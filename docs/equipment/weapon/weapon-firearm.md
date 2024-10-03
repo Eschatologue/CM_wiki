@@ -30,7 +30,7 @@ The Short-Arm Table include pistols, revolvers, and other small, easily conceala
 |---|---|---|:-:|--:|
 | Revolver | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 60/180), Reload (6) | M. | 2,500 SP |
 | Semi-Auto Pistol | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 60/180), Automatic (2), Light, Reload (8) | M. | 3,000 SP |
-| Submachine Gun | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 40/90), Automatic (4), Reload (28), Two-handed | M. | 3,500 SP |
+| Submachine Gun | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 40/120), Automatic (4), Reload (28), Two-handed | M. | 4,500 SP |
 
 ### Long-Arm
 
@@ -40,11 +40,11 @@ The Long-arm Table encompass rifles and other longer-range weapons. These are de
 
 | Long-Arms Firearms | damage | properties| weight | cost |
 |---|---|---|:-:|--:|
-| Automatic Rifle | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 90/270), Automatic (3), Heavy, Reload (12), Two-handed | L. | 6,500 SP |
-| Markesmen Rifle | 2d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 180/550), Heavy, Reload (6), Sighted, Two-handed | L. | 8,000 SP |
-| Semi-Auto Rifle | 2d4 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 120/320), Automatic (1), Heavy, Reload (8), Two-handed | L. | 5,000 SP |
-| Over-under Shotgun| 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 30/50), Automatic (1), Heavy, Reload (2), Scatter (2d6), Two-handed, Special | M. | 4,000 SP |
-| Pump Shotgun | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 40/90), Automatic (3), Heavy, Reload (7), Scatter (1d12), Two-handed | M. | 6,000 SP |
+| Automatic Rifle | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 80/240), Automatic (3), Heavy, Reload (12), Two-handed | L. | 6,500 SP |
+| Markesmen Rifle | 2d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 120/360), Heavy, Reload (6), Sighted, Two-handed | L. | 8,000 SP |
+| Semi-Auto Rifle | 2d4 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 100/300), Automatic (1), Heavy, Reload (8), Two-handed | L. | 5,000 SP |
+| Over-under Shotgun | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 30/90), Automatic (1), Reload (2), Scatter (2d8), Two-handed | M. | 4,000 SP |
+| Pump Shotgun | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 40/120), Automatic (3), Heavy, Reload (7), Scatter (1d12), Two-handed | M. | 6,000 SP |
 
 ### Advanced Firearms
 
@@ -54,18 +54,19 @@ Advanced Firearms Table include rocket launchers, flamethrowers, machine guns, a
 
 | Advanced Firearms | damage | properties| weight | cost |
 |---|---|---|:-:|--:|
-| Machine Gun | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 150/600), Automatic (4), Heavy, Mounted, Reload (50), Two-Handed | XL. | 15,000  SP |
-| Rocket Launcher | 8d6 :dmg-fire: Fire | Ammunition (:weapon-prop-range: Range 150/300), Explosive (20ft. :aoe-sphere: sphere), Heavy, Reload (1), Two-Handed | XL. | 12,500 SP |
+| Machine Gun | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 120/360), Automatic (4), Heavy, Mounted, Reload (50), Two-Handed | XL. | 15,000  SP |
+| Rocket Launcher | 8d6 :dmg-fire: Fire | Ammunition (:weapon-prop-range: Range 120/360), Explosive (20ft. :aoe-sphere: sphere), Heavy, Reload (1), Two-Handed | XL. | 12,500 SP |
 | Grenade Launcher | 1 :dmg-blunt: Bludgeoning | Ammunition (:weapon-prop-range: Range 120; [Grenade](../consumeables/grenade.md)), Heavy, Loading | M. | 9,000 SP |
 
 ##### Ammunitions
 
-| name | properties | cost |
+| name | used for... | cost |
 |---|---|--:|
-| Pistol Cartridges (20) | Used by Pistols and SMGs | 300 SP |
-| Rifle Cartridges (20) | Used by Rifles and Machine Gun | 500 SP |
-| Shotgun Cartridges (20) | Used by Shotguns | 150 SP |
-| Rocket Propelled Grenade (1) | Used by Rocket Launchers | 1,000 SP |
+| Pistol Cartridges (20) | Pistols and SMGs | 300 SP |
+| Rifle Cartridges (20) | Rifles and Machine Gun | 500 SP |
+| Shotgun Cartridges (20) | Shotguns | 150 SP |
+| Grenade (1) | Grenade Launcher | Varies |
+| Rocket Propelled Grenade (1) | Rocket Launchers | 1,000 SP |
 
 ## Firearm Proficiency
 

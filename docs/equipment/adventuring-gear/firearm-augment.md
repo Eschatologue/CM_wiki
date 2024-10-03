@@ -16,7 +16,7 @@ As the name suggests, firearm Augmentations are available only to firearms that 
 
 ### Tools and Proficiency
 
-***Gunsmith's Tools.*** You must have a Gunsmith's Tools to modify firearms.
+***Gunsmith's Tools.*** You must have a Gunsmith's Tools to modify firearms. Your Gunsmith's Tool acts as a storage for your Augmentation
 
 ***Proficiency.*** You must be proficient with both the firearm you wish to Augment and Gunsmith's Tools.
 
@@ -28,9 +28,9 @@ As the name suggests, firearm Augmentations are available only to firearms that 
 
 ### Cost
 
-***Material Costs.*** The cost of an Augmentation represents its base purchase price. Crafting an Augmentation follows the rulings in [Equipment Crafting](../crafting.md#time).
+***Material Costs.*** The cost of an Augmentation represents its base purchase price.
 
-:   Once you have crafted an Augmentation for a particular firearm category, you can reuse that same Augmentation for other firearms of the same category without additional cost.
+:   Once you have crafted or bought an Augmentation for a particular firearm category, you can reuse that same Augmentation for other firearms of the same category without additional cost.
 
 ### Stackable
 
@@ -111,10 +111,10 @@ Increase the :weapon-prop-explosive: **Explosive** property value by half of the
 ### Extended Barrel
 
 **Cost:** 1,000 SP  
-**Prerequisite:** Has :weapon-prop-range: **Range** property  
-**Stackable:** Yes, up to 2 times
+**Prerequisite:** Has :weapon-prop-range: **Range** property, no *Sawn Off* augmentation  
+**Stackable:** No
 
-Increase the :weapon-prop-range: **Range** property value by 20/40.
+Increase the firearm :weapon-prop-range: **Range** property value by half of the default value.
 
 ---
 
@@ -143,10 +143,20 @@ Increase the :weapon-prop-automatic: **Automatic** property value by half of the
 ### Pinpoint 
 
 **Cost:** 2.500 SP  
-**Prerequisite:** :weapon-prop-sighted: **Sighted** property   
+**Prerequisite:** Has :weapon-prop-sighted: **Sighted** property   
 **Stackable:** Yes, up to 2 times
 
 Reduce the number you need to roll for Critical Hit by 1.
+
+---
+
+### Sawn Off
+
+**Cost:** 800 SP  
+**Prerequisite:** Has :weapon-prop-two-handed: **Two-handed** property, no *Extended Barrel* augmentation  
+**Stackable:** No
+
+Removes the :weapon-prop-two-handed: **Two-handed** property from this firearm. Reduce the firearm's :weapon-prop-range: **Range** property value by half.
 
 ---
 
@@ -154,7 +164,7 @@ Reduce the number you need to roll for Critical Hit by 1.
 
 **Cost:** 500 SP  
 **Prerequisite:** No :weapon-prop-sighted: **Sighted** property  
-**Stackable:** Yes
+**Stackable:** No
 
 Adds the :weapon-prop-sighted: **Sighted** property to this firearm.
 

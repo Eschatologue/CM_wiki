@@ -46,7 +46,7 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 
 As a Paladin, you gain the following class features when you reach the specified Paladin levels. These features are listed in the Paladin Features table. See the multiclassing rules to determine your available spell slots.
 
-## Paladin Class Features
+##### Paladin Features
 
 | Paladin Level | Prof. Bonus | Class Feature | Channel Divinity | Spell Prepared | I | II | III | IV | V |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

@@ -265,20 +265,6 @@ Choose a different Fighting Style Feat each time.
 
 ---
 
-### Gunsmith Initiate
-
-*Origin Feat (Prerequisite: Dexterity or Intelligence 13+, English Language Proficiency)*  
-
-You have learned the way of the tea addicts.
-
-**Firearm Proficiency**  
-You gain proficiency with Short-Arms. If you have proficiency with Martial weapons, you gain proficiency with all Firearms.
-
-**Efficient Augmentation**  
-You gain Proficiency with Gunsmith's Tool. If you are already proficient with it, your Firearm Augmentation Limit is increased by half of your proficiency bonus.
-
----
-
 ### Historian
 
 *Origin Feat (Prerequisites: Intelligence 13+ or Intelligence (History) Proficiency)*
@@ -343,6 +329,20 @@ You learn one Cantrip and two level 1 spells of your choice from the Sorcerer sp
 You gain two Sorcery Points which you can expend to cast either of the spells that you learned from this Feat, or any other Sorcerer spells you know. Should you already have Sorcery Points, these are added to your existing pool. You regain all your Sorcery Points when you finish a long rest.
 
 ***Source:** Laserllama Compendium of Feats*
+
+---
+
+### The Dominion's Armaments
+
+*Origin Feat (Prerequisite: Dexterity or Intelligence 13+, English Language Proficiency)*  
+
+London's reach extends far, and with it, their influence.
+
+**Firearm Proficiency**  
+You gain proficiency with Short-Arms. If you already has proficiency with Short-Arms, you gain proficiency with all Firearms.
+
+**Efficient Augmentation**  
+You gain Proficiency with Gunsmith's Tool. If you are already proficient with it, your Firearm Augmentation Limit is increased by half of your proficiency bonus.
 
 ---
 

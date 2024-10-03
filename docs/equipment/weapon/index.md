@@ -113,7 +113,7 @@ This weapon can be used to make a number of attacks before it must be reloaded. 
 
 #### :weapon-prop-scatter:{ .lg } Scatter
 
-If you make an attack against a target that is within half this weapon's normal range, you deal the damage value listed in parenthesis instead of the weapon's normal damage dice.
+If you make an attack against a target that is within half this weapon's normal range (round up), you deal the damage value listed in parenthesis instead of the weapon's normal damage dice.
 
 ---
 
