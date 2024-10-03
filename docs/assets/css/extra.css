@@ -10,8 +10,6 @@
   --md-mod-primary-fg-color-dark: hsla(0deg, 100%, 62%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
-  --md-mod-shadow-z2: 0 0.2rem 0.5rem hsla(0, 0%, 0%, 0.3),
-      0 0 0.05remhsla(0, 0%, 0%, 0.2);
   --md-mod-default-bg-color--light: hsla(var(--md-hue), 15%, 14%, 0.54);
   --md-mod-default-bg-color--lighter: hsla(var(--md-hue), 15%, 14%, 0.26);
   --md-mod-default-bg-color--lightest: hsla(var(--md-hue), 15%, 14%, 0.07);
@@ -28,8 +26,6 @@
   --md-mod-primary-fg-color-dark: hsla(326deg, 100%, 69%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
-  --md-mod-shadow-z2: 0 0.2rem 0.5rem hsla(0, 0%, 0%, 0.3),
-      0 0 0.05remhsla(0, 0%, 0%, 0.2);
   --md-mod-default-bg-color--light: hsla(var(--md-hue), 15%, 14%, 0.54);
   --md-mod-default-bg-color--lighter: hsla(var(--md-hue), 15%, 14%, 0.26);
   --md-mod-default-bg-color--lightest: hsla(var(--md-hue), 15%, 14%, 0.07);
@@ -46,8 +42,6 @@
   --md-mod-primary-fg-color-dark: hsla(265deg, 89%, 73%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
-  --md-mod-shadow-z2: 0 0.2rem 0.5rem hsla(0, 0%, 0%, 0.3),
-      0 0 0.05remhsla(0, 0%, 0%, 0.2);
   --md-mod-default-bg-color--light: hsla(var(--md-hue), 15%, 14%, 0.54);
   --md-mod-default-bg-color--lighter: hsla(var(--md-hue), 15%, 14%, 0.26);
   --md-mod-default-bg-color--lightest: hsla(var(--md-hue), 15%, 14%, 0.07);
@@ -64,8 +58,6 @@
   --md-mod-primary-fg-color-dark: hsla(265deg, 89%, 73%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
-  --md-mod-shadow-z2: 0 0.2rem 0.5rem hsla(0, 0%, 0%, 0.3),
-      0 0 0.05remhsla(0, 0%, 0%, 0.2);
   --md-mod-default-bg-color--light: hsla(var(--md-hue), 15%, 14%, 0.54);
   --md-mod-default-bg-color--lighter: hsla(var(--md-hue), 15%, 14%, 0.26);
   --md-mod-default-bg-color--lightest: hsla(var(--md-hue), 15%, 14%, 0.07);
@@ -82,8 +74,6 @@
   --md-mod-primary-fg-color-dark: hsla(225deg, 27%, 46%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
-  --md-mod-shadow-z2: 0 0.2rem 0.5rem hsla(0, 0%, 0%, 0.3),
-      0 0 0.05remhsla(0, 0%, 0%, 0.2);
   --md-mod-default-bg-color--light: hsla(var(--md-hue), 15%, 14%, 0.54);
   --md-mod-default-bg-color--lighter: hsla(var(--md-hue), 15%, 14%, 0.26);
   --md-mod-default-bg-color--lightest: hsla(var(--md-hue), 15%, 14%, 0.07);
@@ -100,8 +90,6 @@
   --md-mod-primary-fg-color-dark: hsla(225deg, 27%, 46%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
-  --md-mod-shadow-z2: 0 0.2rem 0.5rem hsla(0, 0%, 0%, 0.3),
-      0 0 0.05remhsla(0, 0%, 0%, 0.2);
   --md-mod-default-bg-color--light: hsla(var(--md-hue), 15%, 14%, 0.54);
   --md-mod-default-bg-color--lighter: hsla(var(--md-hue), 15%, 14%, 0.26);
   --md-mod-default-bg-color--lightest: hsla(var(--md-hue), 15%, 14%, 0.07);
@@ -118,8 +106,6 @@
   --md-mod-primary-fg-color-dark: hsla(225deg, 27%, 46%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
-  --md-mod-shadow-z2: 0 0.2rem 0.5rem hsla(0, 0%, 0%, 0.3),
-      0 0 0.05remhsla(0, 0%, 0%, 0.2);
   --md-mod-default-bg-color--light: hsla(var(--md-hue), 15%, 14%, 0.54);
   --md-mod-default-bg-color--lighter: hsla(var(--md-hue), 15%, 14%, 0.26);
   --md-mod-default-bg-color--lightest: hsla(var(--md-hue), 15%, 14%, 0.07);
@@ -136,8 +122,6 @@
   --md-mod-primary-fg-color-dark: hsla(191deg, 97%, 72%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
-  --md-mod-shadow-z2: 0 0.2rem 0.5rem hsla(0, 0%, 0%, 0.3),
-      0 0 0.05remhsla(0, 0%, 0%, 0.2);
   --md-mod-default-bg-color--light: hsla(var(--md-hue), 15%, 14%, 0.54);
   --md-mod-default-bg-color--lighter: hsla(var(--md-hue), 15%, 14%, 0.26);
   --md-mod-default-bg-color--lightest: hsla(var(--md-hue), 15%, 14%, 0.07);
@@ -154,8 +138,6 @@
   --md-mod-primary-fg-color-dark: hsla(191deg, 97%, 72%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
-  --md-mod-shadow-z2: 0 0.2rem 0.5rem hsla(0, 0%, 0%, 0.3),
-      0 0 0.05remhsla(0, 0%, 0%, 0.2);
   --md-mod-default-bg-color--light: hsla(var(--md-hue), 15%, 14%, 0.54);
   --md-mod-default-bg-color--lighter: hsla(var(--md-hue), 15%, 14%, 0.26);
   --md-mod-default-bg-color--lightest: hsla(var(--md-hue), 15%, 14%, 0.07);
@@ -172,8 +154,6 @@
   --md-mod-primary-fg-color-dark: hsla(135deg, 94%, 60%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
-  --md-mod-shadow-z2: 0 0.2rem 0.5rem hsla(0, 0%, 0%, 0.3),
-      0 0 0.05remhsla(0, 0%, 0%, 0.2);
   --md-mod-default-bg-color--light: hsla(var(--md-hue), 15%, 14%, 0.54);
   --md-mod-default-bg-color--lighter: hsla(var(--md-hue), 15%, 14%, 0.26);
   --md-mod-default-bg-color--lightest: hsla(var(--md-hue), 15%, 14%, 0.07);
@@ -190,8 +170,6 @@
   --md-mod-primary-fg-color-dark: hsla(135deg, 94%, 60%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
-  --md-mod-shadow-z2: 0 0.2rem 0.5rem hsla(0, 0%, 0%, 0.3),
-      0 0 0.05remhsla(0, 0%, 0%, 0.2);
   --md-mod-default-bg-color--light: hsla(var(--md-hue), 15%, 14%, 0.54);
   --md-mod-default-bg-color--lighter: hsla(var(--md-hue), 15%, 14%, 0.26);
   --md-mod-default-bg-color--lightest: hsla(var(--md-hue), 15%, 14%, 0.07);
@@ -208,8 +186,6 @@
   --md-mod-primary-fg-color-dark: hsla(135deg, 94%, 60%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
-  --md-mod-shadow-z2: 0 0.2rem 0.5rem hsla(0, 0%, 0%, 0.3),
-      0 0 0.05remhsla(0, 0%, 0%, 0.2);
   --md-mod-default-bg-color--light: hsla(var(--md-hue), 15%, 14%, 0.54);
   --md-mod-default-bg-color--lighter: hsla(var(--md-hue), 15%, 14%, 0.26);
   --md-mod-default-bg-color--lightest: hsla(var(--md-hue), 15%, 14%, 0.07);
@@ -226,8 +202,6 @@
   --md-mod-primary-fg-color-dark: hsla(65deg, 92%, 71%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
-  --md-mod-shadow-z2: 0 0.2rem 0.5rem hsla(0, 0%, 0%, 0.3),
-      0 0 0.05remhsla(0, 0%, 0%, 0.2);
   --md-mod-default-bg-color--light: hsla(var(--md-hue), 15%, 14%, 0.54);
   --md-mod-default-bg-color--lighter: hsla(var(--md-hue), 15%, 14%, 0.26);
   --md-mod-default-bg-color--lightest: hsla(var(--md-hue), 15%, 14%, 0.07);
@@ -244,8 +218,6 @@
   --md-mod-primary-fg-color-dark: hsla(65deg, 92%, 71%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
-  --md-mod-shadow-z2: 0 0.2rem 0.5rem hsla(0, 0%, 0%, 0.3),
-      0 0 0.05remhsla(0, 0%, 0%, 0.2);
   --md-mod-default-bg-color--light: hsla(var(--md-hue), 15%, 14%, 0.54);
   --md-mod-default-bg-color--lighter: hsla(var(--md-hue), 15%, 14%, 0.26);
   --md-mod-default-bg-color--lightest: hsla(var(--md-hue), 15%, 14%, 0.07);
@@ -262,8 +234,6 @@
   --md-mod-primary-fg-color-dark: hsla(31deg, 100%, 66%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
-  --md-mod-shadow-z2: 0 0.2rem 0.5rem hsla(0, 0%, 0%, 0.3),
-      0 0 0.05remhsla(0, 0%, 0%, 0.2);
   --md-mod-default-bg-color--light: hsla(var(--md-hue), 15%, 14%, 0.54);
   --md-mod-default-bg-color--lighter: hsla(var(--md-hue), 15%, 14%, 0.26);
   --md-mod-default-bg-color--lightest: hsla(var(--md-hue), 15%, 14%, 0.07);
@@ -280,8 +250,6 @@
   --md-mod-primary-fg-color-dark: hsla(31deg, 100%, 66%, 1);
   --md-mod-primary-bg-color: var(--md-default-bg-color);
   --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
-  --md-mod-shadow-z2: 0 0.2rem 0.5rem hsla(0, 0%, 0%, 0.3),
-      0 0 0.05remhsla(0, 0%, 0%, 0.2);
   --md-mod-default-bg-color--light: hsla(var(--md-hue), 15%, 14%, 0.54);
   --md-mod-default-bg-color--lighter: hsla(var(--md-hue), 15%, 14%, 0.26);
   --md-mod-default-bg-color--lightest: hsla(var(--md-hue), 15%, 14%, 0.07);
@@ -305,7 +273,7 @@
 /* Add Shadow */
 .md-typeset .admonition {
   border-color: var(--md-admonition-icon-color--note);
-  box-shadow: var(--md-mod-shadow-z2);
+  box-shadow: var(--md-shadow-z2);
 }
 
 /* Homebrew Admonition */
