@@ -76,7 +76,7 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 
 **Ability:** Intelligence or Dexterity   
 **Utilize:** Discern and fix a firearm (DC 15), or perform an Augmentation on a Firearm.   
-**Craft:** [Firearms Augmentations](../adventuring-gear/firearm-augment.md), Pistol Cartridges (5), Rifle Cartridges (5), Shotgun Cartridges (5)
+**Craft:** [Firearms Augmentations](../adventuring-gear/firearm-augment.md), Pistol Cartridges, Rifle Cartridges, Shotgun Cartridges
 
 ---
 
@@ -124,7 +124,7 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 
 **Ability:** Strength  
 **Utilize:** Pry open a door or container (DC 20)  
-**Craft:** Any Melee weapon (except Club, Greatclub, Quarterstaff, and Whip), Medium armour (except Hide), Heavy armour, Ball Bearings, Bucket, Caltrops, Chain, Crowbar, Firearm Bullets, Grappling Hook, Iron Pot, Iron Spikes, Sling Bullets
+**Craft:** Any Melee weapon (except Club, Greatclub, Quarterstaff, and Whip), Medium armour (except Hide), Heavy armour, Ball Bearings, Bucket, Caltrops, Chain, Crowbar, Grappling Hook, Iron Pot, Iron Spikes, Sling Bullets
 
 ---
 
