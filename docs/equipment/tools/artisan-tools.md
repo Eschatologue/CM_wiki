@@ -72,6 +72,14 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 
 ---
 
+### Gunsmith's Tool (500 SP)
+
+**Ability:** Intelligence or Dexterity   
+**Utilize:** Discern and fix a firearm (DC 15), or perform an Augmentation on a Firearm.   
+**Craft:** [Firearms Augmentations](../adventuring-gear/firearm-augment.md), Pistol Cartridges (5), Rifle Cartridges (5), Shotgun Cartridges (5)
+
+---
+
 ### Jeweler's Tools (250 SP)
 
 **Ability:** Intelligence  
@@ -124,7 +132,7 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 
 **Ability:** Dexterity  
 **Utilize:** Assemble a Tiny item composed of scrap, which falls apart in 1 minute (DC 20)  
-**Craft:** Musket, Pistol, Bell, Bullseye Lantern, Flask, Hooded Lantern, Hunter's Trap, Lock, Manacles, Mirror, Shovel, Signal Whistle, Tinderbox
+**Craft:** Bell, Bullseye Lantern, Flask, Hooded Lantern, Hunter's Trap, Lock, Manacles, Mirror, Shovel, Signal Whistle, Tinderbox
 
 ---
 

@@ -18,7 +18,6 @@ These tools support adventure and other pursuits.
 
 ### Forgery Kit (150 SP)
 
-
 **Ability:** Dexterity  
 **Utilize:** Mimic 10 or fewer words of someone else's handwriting (DC 15), or duplicate a wax seal (DC 20)  
 
@@ -29,13 +28,6 @@ These tools support adventure and other pursuits.
 **Ability:** Wisdom  
 **Utilize:** Discern whether someone is cheating (DC 10), or win the game (DC 20)  
 **Variants:** Dice (1 SP), Dragonchess (1 GP), Playing Cards (5 SP), Three-dragon ante (1 GP)
-
----
-
-### Gunsmith's Tool (500 SP)
-
-**Ability:** Intelligence or Dexterity    
-**Craft:** [Firearms Augmentations](../adventuring-gear/firearm-augment.md)
 
 ---
 

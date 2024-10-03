@@ -226,7 +226,7 @@ Choose one of the following actions: Dash, Disengage, Hide or Use an Object. You
 Your knowledge of wooden structures is widely applicable throughout your adventures. You gain the following benefits:
 
 **Wood Expert**  
-You gain Proficiency with carpenter's tools. If you are already proficient with them, you add double your Proficiency Bonus to checks you make with them.
+You gain Proficiency with Carpenter's Tools. If you are already proficient with them, you add double your Proficiency Bonus to checks you make with them.
     
 **Barricade**  
 You can temporarily fortify a door or window using Utilise action. The DC needed to open it increases by an amount equal to your Proficiency Bonus, but the fortification falls apart after 1 minute.
@@ -259,6 +259,20 @@ You gain one Fighting Style Feat of your choice from the [Fighting Style Feats](
 
 **Repeatable**  
 Choose a different Fighting Style Feat each time.
+
+---
+
+### Gunsmith Initiate
+
+*Origin Feat (Prerequisite: Proficiency with Firearms)*  
+
+You have a quick hand and keen eye when employing firearms, granting you the following benefits:
+
+**Ability Score Increase**  
+Increase your Dexterity or Intelligence score by 1, to a maximum of 20.
+    
+**High-quality Augments**  
+You gain Proficiency with Gunsmith's Tool. If you are already proficient with it, your Augmentation Limit is increased by 2.
 
 ---
 

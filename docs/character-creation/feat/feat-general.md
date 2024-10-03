@@ -800,7 +800,7 @@ Increase your Dexterity score by 1, to a maximum of 20.
 When you make the extra attack of the :weapon-prop-light: Light weapon property, you can add your Ability Modifier to the damage of the extra attack if that attack is with a firearm that has the :weapon-prop-light: Light property.
     
 **Quickshot**  
-Immediately after initiative is rolled, you can use your :rsc-reaction: **Reaction** to make a single weapon attack with your firearm.
+Immediately after initiative is rolled, you can use your :rsc-reaction: **Reaction** to make a single attack with your firearm.
 
 ---
 
