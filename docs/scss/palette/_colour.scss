@@ -27,6 +27,7 @@
 {
     // Color palette
     [data-md-color-scheme="slate"][data-md-color-primary="#{$name}"] {
+        // Primary Colours
         --md-mod-primary-code-bg-color: #{mix($mod-bg, nth($colors, 1), 85%)};
         --md-mod-primary-fg-color: hsla(#{hex2hsl(nth($colors, 1))}, 1);
         --md-mod-primary-fg-color-transparent: hsla(#{hex2hsl(nth($colors, 1))}, 0.15);
@@ -36,5 +37,12 @@
         --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
         --md-mod-shadow-z2: 0 #{px2rem(4px)} #{px2rem(10px)} hsla(0, 0%, 0%, 0.3),
             0 0 #{px2rem(1px)}hsla(0, 0%, 0%, 0.2);
+        // Background Colour
+        --md-mod-default-bg-color--light: hsla(var(--md-hue), 15%, 14%, 0.54);
+        --md-mod-default-bg-color--lighter: hsla(var(--md-hue), 15%, 14%, 0.26);
+        --md-mod-default-bg-color--lightest: hsla(var(--md-hue), 15%, 14%, 0.07);
+        --md-mod-default-bg-color--dark: hsla(var(--md-hue), 15%, 8%, 0.54);
+        --md-mod-default-bg-color--darker: hsla(var(--md-hue), 15%, 5%, 0.54); 
+        --md-mod-default-bg-color--darkest: hsla(var(--md-hue), 15%, 2%, 0.54); 
     }
 }
