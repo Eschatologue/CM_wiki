@@ -45,6 +45,7 @@ When you finish a Long Rest, you can craft one piece of hear from the Fast Craft
 | Artisan's Tools | Crafted Gear |
 |---|---|
 | Carpenter's Tools | Ladder, Torch |
+| Gunsmith's Tools^New^ | Firearm Augmentation that cost below 1,500 SP |
 | Leatherworker's Tools | Case, Pouch |
 | Mason's Tools | Block and Tackle |
 | Potter's Tools | Jug, Lamp |
@@ -254,6 +255,8 @@ Choose a different Invocations each time.
 
 *Origin Feat (Prerequisites: Strength or Dexterity 13+)*
 
+You learn how to fight in your early days.
+
 **Martial Training**  
 You gain one Fighting Style Feat of your choice from the [Fighting Style Feats](feat-fighting-style.md), the one you choose must be different from one that you already have. Whenever you reach a level that grants the Ability Score Improvement feature, you can replace this feat's fighting style with another one which you don't have.
 
@@ -264,12 +267,15 @@ Choose a different Fighting Style Feat each time.
 
 ### Gunsmith Initiate
 
-*Origin Feat (Prerequisite: Dexterity or Intelligence 13+, Proficiency with Firearms)*  
+*Origin Feat (Prerequisite: Dexterity or Intelligence 13+, English Language Proficiency)*  
 
-You learned how to modify , granting you the following benefits:
+You have learned the way of the tea addicts.
+
+**Firearm Proficiency**  
+You gain proficiency with Short-Arms. If you have proficiency with Martial weapons, you gain proficiency with all Firearms.
 
 **Efficient Augmentation**  
-You gain Proficiency with Gunsmith's Tool. If you are already proficient with it, your Augmentation Limit is increased by half of your proficiency bonus.
+You gain Proficiency with Gunsmith's Tool. If you are already proficient with it, your Firearm Augmentation Limit is increased by half of your proficiency bonus.
 
 ---
 

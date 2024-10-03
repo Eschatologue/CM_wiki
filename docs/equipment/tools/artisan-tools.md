@@ -72,7 +72,7 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 
 ---
 
-### Gunsmith's Tool (500 SP)
+### Gunsmith's Tool (400 SP)
 
 **Ability:** Intelligence or Dexterity   
 **Utilize:** Discern and fix a firearm (DC 15), or perform an Augmentation on a Firearm.   

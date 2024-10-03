@@ -761,18 +761,6 @@ While the card is imbued with the spell, you can use a :rsc-bonus-action: Bonus 
 
 ---
 
-### Firearms Training
-
-*General Feat (Prerequisite: Level 4+, Dexterity or Intelligence 13+)*
-
-**Ability Score Increase**  
-Increase your Dexterity score by 1, to a maximum of 20.
-
-**Firearm Proficiency**  
-You gain proficiency with Short-Arms. If you have proficiency with at least one Martial weapons, you gain proficiency with all Firearms.
-
----
-
 ### Flash Recall
 
 *General Feat (Prerequisite: Level 4+, Spellcasting feature from a class that ^^prepares^^ spells)* 

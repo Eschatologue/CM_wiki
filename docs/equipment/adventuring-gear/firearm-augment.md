@@ -22,13 +22,13 @@ As the name suggests, firearm Augmentations are available only to firearms that 
 
 ### Time Requirements
 
-***Making an Augmentation.*** Creating a new Augmentation for a firearm takes a Long Rest.
+***Creating an Augmentation.*** Creating a new Augmentation follows the rulings in [Equipment Crafting](../crafting.md#time).
 
-***Changing an Augmentation.*** Replacing or modifying an existing Augmentation on a firearm also requires a Long Rest, unless you have Expertise with Gunsmith's Tools, in which case it takes a Short Rest.
+***Changing an Augmentation.*** Attatching or changing any number of Augmentation on a firearm requires a Long Rest, unless you have Expertise with Gunsmith's Tools, in which case it takes a Short Rest.
 
 ### Cost
 
-***Material Costs.*** The cost of an Augmentation represents the materials required to apply it to a specific firearm category. 
+***Material Costs.*** The cost of an Augmentation represents its base purchase price. Crafting an Augmentation follows the rulings in [Equipment Crafting](../crafting.md#time).
 
 :   Once you have crafted an Augmentation for a particular firearm category, you can reuse that same Augmentation for other firearms of the same category without additional cost.
 

@@ -18,11 +18,11 @@ You must use the required tool to make an item and have proficiency with that to
 
 #### Raw Materials
 
-To make an item, you need raw materials worth half its purchase cost (round down). For example, you need 750 GP of raw materials to make Plate Armour, which sells for 1,500 GP. The DM determines whether appropriate raw materials are available.
+To make an item, you need raw materials worth half its purchase cost (round down). For example, you need 7,500 SP of raw materials to make Plate Armour, which sells for 15,000 SP. The DM determines whether appropriate raw materials are available.
 
 #### Time
 
-To determine how many days (working 8 hours a day) it takes to make an item, divide its purchase cost in GP by 10 (round a fraction up to a day). For example, you need 5 days to make a Heavy Crossbow, which sells for 50 GP.
+To determine how many days (working 8 hours a day) it takes to make an item, divide its purchase cost in SP by 100 (round a fraction up to a day). For example, you need 5 days to make a Heavy Crossbow, which sells for 500 SP.
 
 If an item requires multiple days, the days needn't be consecutive.
 
@@ -30,7 +30,7 @@ Characters can combine their efforts to shorten the crafting time. Divide the ti
 
 ## Brewing Potions of Healing
 
-A character who has proficiency with the Herbalism Kit can create a Potion of Healing. Doing so requires using that kit and 25 GP of raw material over the course of 1 day (8 hours of work).
+A character who has proficiency with the Herbalism Kit can create a Potion of Healing. Doing so requires using that kit and 250 SP of raw material over the course of 1 day (8 hours of work).
 
 ## Scribing Spell Scrolls
 
@@ -50,14 +50,14 @@ If the scribed spell is a cantrip, the version on the scroll works as if the cas
 
 ##### Spell Scroll Costs
 | Spell Level | Time | Cost |
-|:-:|:-:|:-:|:-:|
-| Cantrip | 1 day | 15 GP |
-| 1 | 1 day | 25 GP |
-| 2 | 3 days | 100 GP |
-| 3 | 5 days | 150 GP |
-| 4 | 10 days | 1,000 GP |
-| 5 | 25 days | 1,500 GP |
-| 6 | 40 days | 10,000 GP |
-| 7 | 50 days | 12,500 GP |
-| 8 | 60 days | 15,000 GP |
-| 9 | 120 days | 50,000 GP |
+|:-:|:-:|:-:|
+| Cantrip | 1 day | 150 SP |
+| 1 | 1 day | 250 SP |
+| 2 | 3 days | 1000 SP |
+| 3 | 5 days | 1500 SP |
+| 4 | 10 days | 1,0000 SP |
+| 5 | 25 days | 1,5000 SP |
+| 6 | 40 days | 10,0000 SP |
+| 7 | 50 days | 12,5000 SP |
+| 8 | 60 days | 15,0000 SP |
+| 9 | 120 days | 50,0000 SP |
