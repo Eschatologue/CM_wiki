@@ -341,8 +341,9 @@
   border-bottom: rgba(255, 255, 255, 0.12);
   background-color: rgba(255, 255, 255, 0.025);
 }
-.md-typeset table:not([class]) tbody tr:hover {
-  background-color: transparent;
+.md-typeset table:not([class]) td b,
+.md-typeset table:not([class]) td strong {
+  font-weight: 675;
 }
 .md-typeset table:not([class]) th {
   font-size: 0.63rem;
@@ -353,6 +354,9 @@
   border-bottom: 0.1rem solid var(--md-primary-fg-color);
   background-color: rgba(0, 0, 0, 0.5);
   padding: 0.6125em 1em;
+}
+.md-typeset table:not([class]) tbody tr:hover {
+  background-color: transparent;
 }
 .md-typeset__table {
   width: 100%;
