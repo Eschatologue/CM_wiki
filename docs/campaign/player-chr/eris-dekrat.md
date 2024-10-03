@@ -1,16 +1,18 @@
-> *A man born into nobility, with a legacy of great achievements, yet devoid of the qualifications, for he carries the weight of his lineage.*
-
 # Arts & Swash
+
+> *A man born into nobility, with a legacy of great achievements, yet devoid of the qualifications, for he carries the weight of his lineage.*
 
 "Sortilege," a Gallian word used for sorcerers, are unlike wizards or others; they're given the power to weave magic as their birthright. You too are this so-called "Sortilege," but your way of weaving spells are quite different from your peers; you combine the power of spells, excessive guile, and the right amount of audacity.
 
-This gimmick can also be called "Spells & Blades", but the name is too cool for Eris, so we stick with "Arts & Swash" instead.
+~~This gimmick can also be called "Spells & Blades", but the name is too cool for Eris, so we stick with "Arts & Swash" instead.~~
 
 ### Level 3: Based Arcane Knowledge 
 
-Not knowing much about magic, whatever you believe in is considered facts for you. Choose one of the following skills: *Arcana*, *History*, *Investigation*, *Nature*, or *Religion*. You gain proficiency with that skill and can use your Charisma instead of Intelligence for ability checks with the chosen skill. You can change the chosen skill when you finish a Long Rest.
+*Not knowing much about magic, whatever you believe in is considered facts for you.*
 
-??? info "Proficiency and Expertise"
+Choose one of the following skills: *Arcana*, *History*, *Investigation*, *Nature*, or *Religion*. You gain proficiency with that skill and can use your Charisma instead of Intelligence for ability checks with the chosen skill. You can change the chosen skill when you finish a Long Rest.
+
+!!! info "Proficiency and Expertise"
 
     Proficiency and Expertise are tied to each other, whenever a skill has Expertise, it also has Proficiency. If you lose a proficiency with certain skill that also has Expertise, you can't benefit from that Expertise until you regain your Proficiency.
 
@@ -23,9 +25,9 @@ Once per turn when you make an attack that adds your Sneak Attack damage, you ca
 To be channeled this way, the spell must met the following requirements:
 
 - The Arts & Swash spell must have a casting time of an :rsc-action: **Action**.
-- The Arts & Swash spell must require only a single spell attack roll or force its target to make a saving throw.
+- The Arts & Swash spell must require only a single spell *attack roll* or force its target to make a *saving throw*.
 
-If your attack misses, the spell fails and has no effect. On a hit, the spell takes effect immediately in addition of the normal effects and damage from your weapon attack, under the rules below:
+On a hit, the spell takes effect immediately in addition of the normal effects and damage from your weapon attack, under the rules below:
 
 - :aoe-rad: ***Area of Effects.*** If the spell targets an area greater than a 10 ft. :aoe-cube: cube, it takes effect as a 15 ft. :aoe-cone: cone originating from you, which must include your target. Alternatively, it can be contained to only affect the target of your attack (your choice). Using a ranged weapon, your spell is contained to only affect the target of your attack.
 
@@ -114,7 +116,7 @@ When you see your Quarry casting a spell or teleporting within 60 feet of you, y
 
 If the spell was cast at a level equal to the level of the spell slot you expended or lower, the spell fails and has no effect. If it was cast at a level higher than the slot you expended, make a Charisma ability check against DC of 10 + the level of the spell, the spell fails and has no effect when you succeed the check.
 
-[spell list]: #gimmicks-spell-list
+[spell list]: #arts--swash-spell-list
 
 ## Arts & Swash' Spell List
 
