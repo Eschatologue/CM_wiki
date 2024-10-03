@@ -1,7 +1,9 @@
 // Main Theme
 
 // Nav Bar
-.md-sidebar--primary, .md-sidebar--secondary, .md-header {
+.md-sidebar--primary,
+.md-sidebar--secondary,
+.md-header {
     font-family: $headingFont;
 }
 
@@ -34,7 +36,7 @@
 
     // Go to Top Button
     .md-top {
-        background-color: var(--md-mod-default-bg-color--dark);
+        background-color: darken(var(--md-default-bg-color), 20%);
 
         &:hover {
             background-color: var(--md-primary-fg-color);
