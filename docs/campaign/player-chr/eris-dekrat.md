@@ -94,7 +94,7 @@ Whenever you finish a Long Rest, you can replace one spell on your list with ano
 
 #### Spellcasting Focus
 
-You brandish your weapon when you cast spells; weapons that are listed in **Weapon Proficiency** in the [Core Rogue Trait](../../class/rogue/index.md#core-rogue-traits) table are spellcasting focus for you. Those weapon can also be used to perform the spell's somatic components. Any other arcane focuses is restricted for any Arts & Swash spell.
+You brandish your weapon when you cast spells; weapons that are listed in **Weapon Proficiency** row in the [Core Rogue Trait](../../class/rogue/index.md#core-rogue-traits) table are spellcasting focus for you. Those weapon can also be used to perform the spell's somatic components. Any other arcane focuses is restricted for any Arts & Swash spell.
 
 ### Level 3: Spellbreaker's Mark
 

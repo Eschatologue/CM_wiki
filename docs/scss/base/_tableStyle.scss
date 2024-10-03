@@ -14,14 +14,13 @@ $paddingScale: 7px;
             font-size: $defaultFontSize * 0.85;
             border-bottom: rgba(255, 255, 255, 0.12);
             background-color: rgba(255, 255, 255, 0.025);
+
+            b,
+            strong {
+                font-weight: $defaultFontWeight * 1.8;
+            }
         }
 
-        // Hover effect for table rows
-        tbody tr:hover {
-            background-color: transparent;
-        }
-
-        // Table header styles
         th {
             font-size: $defaultFontSize * 0.9;
             font-weight: bold !important;
@@ -32,9 +31,12 @@ $paddingScale: 7px;
             background-color: rgba(0, 0, 0, 0.5);
             padding: px2em($paddingScale * 1.4) px2em($paddings);
         }
+
+        tbody tr:hover {
+            background-color: transparent;
+        }
     }
 
-    // Custom table class
     &__table {
         width: 100%;
 
