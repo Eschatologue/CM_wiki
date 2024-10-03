@@ -35,8 +35,7 @@
         --md-mod-primary-fg-color-dark: hsla(#{hex2hsl(nth($colors, 3))}, 1);
         --md-mod-primary-bg-color: var(--md-default-bg-color);
         --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
-        --md-mod-shadow-z2: 0 #{px2rem(4px)} #{px2rem(10px)} hsla(0, 0%, 0%, 0.3),
-            0 0 #{px2rem(1px)}hsla(0, 0%, 0%, 0.2);
+
         // Background Colour
         --md-mod-default-bg-color--light: hsla(var(--md-hue), 15%, 14%, 0.54);
         --md-mod-default-bg-color--lighter: hsla(var(--md-hue), 15%, 14%, 0.26);
