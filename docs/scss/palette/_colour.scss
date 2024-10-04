@@ -1,4 +1,5 @@
 @import "./accent";
+@use "sass:list";
 
 // ----------------------------------------------------------------------------
 // Rules: primary colors
@@ -11,22 +12,22 @@
 @each $name,
     $colors
         in (
-            "red": $mod-red lighten($mod-red, 5%) darken($mod-red, 5%),
-            "pink": $mod-pink lighten($mod-pink, 5%) darken($mod-pink, 5%),
-            "purple": $mod-purple lighten($mod-purple, 5%) darken($mod-purple, 5%),
-            "deep-purple": $mod-purple lighten($mod-purple, 5%) darken($mod-purple, 5%),
-            "blue": $mod-blue lighten($mod-blue, 5%) darken($mod-blue, 5%),
-            "indigo": $mod-blue lighten($mod-blue, 5%) darken($mod-blue, 5%),
-            "light-blue": $mod-blue lighten($mod-blue, 5%) darken($mod-blue, 5%),
-            "cyan": $mod-cyan lighten($mod-cyan, 5%) darken($mod-cyan, 5%),
-            "teal": $mod-cyan lighten($mod-cyan, 5%) darken($mod-cyan, 5%),
-            "green": $mod-green lighten($mod-green, 5%) darken($mod-green, 5%),
-            "light-green": $mod-green lighten($mod-green, 5%) darken($mod-green, 5%),
-            "lime": $mod-green lighten($mod-green, 5%) darken($mod-green, 5%),
-            "yellow": $mod-yellow lighten($mod-yellow, 5%) darken($mod-yellow, 5%),
-            "amber": $mod-yellow lighten($mod-yellow, 5%) darken($mod-yellow, 5%),
-            "orange": $mod-orange lighten($mod-orange, 5%) darken($mod-orange, 5%),
-            "deep-orange": $mod-orange lighten($mod-orange, 5%) darken($mod-orange, 5%)
+            "red": $mod-red lighten($mod-red, 1%) darken($mod-red, 1%),
+            "pink": $mod-pink lighten($mod-pink, 1%) darken($mod-pink, 1%),
+            "purple": $mod-purple lighten($mod-purple, 1%) darken($mod-purple, 1%),
+            "deep-purple": $mod-purple lighten($mod-purple, 1%) darken($mod-purple, 1%),
+            "blue": $mod-blue lighten($mod-blue, 1%) darken($mod-blue, 1%),
+            "indigo": $mod-blue lighten($mod-blue, 1%) darken($mod-blue, 1%),
+            "light-blue": $mod-blue lighten($mod-blue, 1%) darken($mod-blue, 1%),
+            "cyan": $mod-cyan lighten($mod-cyan, 1%) darken($mod-cyan, 1%),
+            "teal": $mod-cyan lighten($mod-cyan, 1%) darken($mod-cyan, 1%),
+            "green": $mod-green lighten($mod-green, 1%) darken($mod-green, 1%),
+            "light-green": $mod-green lighten($mod-green, 1%) darken($mod-green, 1%),
+            "lime": $mod-green lighten($mod-green, 1%) darken($mod-green, 1%),
+            "yellow": $mod-yellow lighten($mod-yellow, 1%) darken($mod-yellow, 1%),
+            "amber": $mod-yellow lighten($mod-yellow, 1%) darken($mod-yellow, 1%),
+            "orange": $mod-orange lighten($mod-orange, 1%) darken($mod-orange, 1%),
+            "deep-orange": $mod-orange lighten($mod-orange, 1%) darken($mod-orange, 1%)
         )
 {
     // Color palette
