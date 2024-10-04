@@ -65,7 +65,7 @@ Martial weapons require more training to use effectively but offer greater damag
 | *Halberd* | 1d10 :dmg-slashing: Slashing | Heavy, Reach, Two-Handed | [Cleave]  | L. | 200 SP |
 | *Lance* | 1d10 :dmg-piercing: Piercing | Heavy, Reach, Two-Handed (unless mounted) | [Topple] | L. | 100 SP |
 | *Longsword* | 1d8 :dmg-slashing: Slashing | Versatile (1d10) | [Sap] | M. | 150 SP |
-| *Lucerne* | 1d10 :dmg-slashing: Bludgeoning | Heavy, Reach, Two-Handed | [Push] | L. | 200 SP |
+| *Lucerne* | 1d10 :dmg-blunt: Bludgeoning | Heavy, Reach, Two-Handed | [Push] | L. | 200 SP |
 | *Maul* | 2d6 :dmg-blunt: Bludgeoning | Heavy, Two-Handed | [Topple] | L. | 100 SP |
 | *Morningstar* | 1d8 :dmg-piercing: Piercing | — | [Sap] | M. | 150 SP |
 | *Pike* | 1d10 :dmg-piercing: Piercing | Heavy, Reach, Two-Handed | [Push] | L. | 50 SP |
@@ -89,8 +89,8 @@ Martial weapons require more training to use effectively but offer greater damag
 
 ##### Ammunition
 
-| ammunition | weight | cost |   
-| :-. | --: |
+| ammunition  | cost |   
+|:--|--:|
 | Arrows (20) | 10 SP |
 | Blowgun needles (50) | 10 SP |
 | Crossbow bolts (20) | 10 SP |

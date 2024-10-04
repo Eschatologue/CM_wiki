@@ -144,9 +144,9 @@ You can change your Signature Weapon when you gain a level in a class that has t
 
 You learn two [Manoeuvre](../option/manoeuvre.md) of your choice from among those available to the Battlemaster archetype. 
 
-If a manoeuvre you use requires your target to make a :d20-save: **Saving Throw** to resist the manoeuvre's effects, the DC equals 8 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice).
+If a manoeuvre you use requires your target to make a :d20-save: Saving Throw to resist the manoeuvre's effects, the DC equals 8 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice).
 
-:   You gain two superiority die, which is :die-d6: d6s (this die is added to any superiority dice you have from another source). This die is used to fuel your manoeuvres.  A superiority die is expended when you use it. You regain your expended superiority dice when you finish a Short Rest or Long Rest.
+You gain two superiority die, which is :die-d6: d6s (this die is added to any superiority dice you have from another source). This die is used to fuel your manoeuvres. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a Short Rest or Long Rest.
 
 ---
 
@@ -172,7 +172,7 @@ When a creature within 5 feet of you makes an attack against a creature that you
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-You can use your Strength modifier, in place of Dexterity for attack and damage rolls with ranged cold weapons, such as Longbow or Heavy Crossbows. When you do so, you gain +1 to damage rolls with those weapons.
+You can use your Strength modifier, in place of Dexterity for attack and damage rolls with ranged cold weapon, such as Longbow or Heavy Crossbows. When you do so, you gain +1 to damage rolls with those weapons.
 
 Moreover, you also use your Strength instead of your Dexterity to fufill the :weapon-prop-heavy: **Heavy** weapon property requirement for those weapons.
 
@@ -183,3 +183,5 @@ Moreover, you also use your Strength instead of your Dexterity to fufill the :we
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
 While wielding a single weapon with the:weapon-prop-versatile: Versatile property and no shield, you gain a +1 bonus to your :d20-attack: Attack Roll and Damage Roll with that weapon. While doing so, you can also use your :rsc-bonus-action: Bonus Action to make a single grapple or shove attack, take the Use an Object Action, or take the Utilise action.
+
+*[cold weapon]: Non-Firearm Weapons
