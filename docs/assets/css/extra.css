@@ -168,10 +168,10 @@
 
 [data-md-color-scheme=slate][data-md-color-primary=teal] {
   /* Primary Colours */
-  --md-primary-fg-color: hsla(191deg, 97%, 77%, 1);
-  --md-primary-fg-color-light: hsla(191deg, 97%, 82%, 1);
-  --md-primary-fg-color-dark: hsla(191deg, 97%, 72%, 1);
-  --md-primary-fg-color-transparent: hsla(191deg, 97%, 77%, 0.15);
+  --md-primary-fg-color: hsla(174deg, 63%, 40%, 1);
+  --md-primary-fg-color-light: hsla(174deg, 63%, 45%, 1);
+  --md-primary-fg-color-dark: hsla(174deg, 63%, 35%, 1);
+  --md-primary-fg-color-transparent: hsla(174deg, 63%, 40%, 0.15);
   /* Additional Darker Background Colours */
   --md-default-bg-color: hsla(var(--md-hue), 15%, 14%, 1);
   --md-default-bg-color--dark: hsla(var(--md-hue), 15%, 10%, 1);
