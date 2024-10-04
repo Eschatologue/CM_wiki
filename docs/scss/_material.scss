@@ -36,7 +36,7 @@
 
     // Go to Top Button
     .md-top {
-        background-color: transparentize(var(--md-default-bg-color), $amount: 0.5);
+        background-color: transparentize(var(--md-default-bg-color), 0.5);
 
         &:hover {
             background-color: var(--md-primary-fg-color);

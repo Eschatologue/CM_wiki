@@ -1,7 +1,9 @@
 // Custom Colour Pallete
 
+@use "sass:color";
+
 $mod-fg: hsl(60, 30%, 96%);
-$mod-bg: hsl(231, 15%, 18%);
+$mod-bg: hsl(223, 15%, 13%);
 $mod-highlight: hsl(66, 94%, 73%);
 $mod-selection: hsl(231, 25%, 25%);
 $mod-blue: hsl(225, 27%, 51%);

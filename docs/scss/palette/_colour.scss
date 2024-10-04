@@ -36,12 +36,7 @@
         --md-mod-primary-bg-color: var(--md-default-bg-color);
         --md-mod-primary-bg-color-light: var(--md-default-bg-color--light);
 
-        // Background Colour
-        --md-mod-default-bg-color--light: hsla(var(--md-hue), 15%, 14%, 0.54);
-        --md-mod-default-bg-color--lighter: hsla(var(--md-hue), 15%, 14%, 0.26);
-        --md-mod-default-bg-color--lightest: hsla(var(--md-hue), 15%, 14%, 0.07);
-        --md-mod-default-bg-color--dark: hsla(var(--md-hue), 15%, 8%, 0.54);
-        --md-mod-default-bg-color--darker: hsla(var(--md-hue), 15%, 5%, 0.54); 
-        --md-mod-default-bg-color--darkest: hsla(var(--md-hue), 15%, 2%, 0.54); 
+        --md-default-bg-color--dark: #{color.adjust($mod-default-bg, $lightness: -3%)};
+
     }
 }
