@@ -44,6 +44,12 @@
         --md-default-bg-color--darker: hsla(var(--md-hue), 15%, 7%, 1);
         --md-default-bg-color--darkest: hsla(var(--md-hue), 15%, 4%, 1);
 
+        /* Transparent Background Colour */
+
+        --md-default-bg-color--25: hsla(var(--md-hue), 15%, 14%, 0.25);
+        --md-default-bg-color--50: hsla(var(--md-hue), 15%, 14%, 0.5);
+        --md-default-bg-color--75: hsla(var(--md-hue), 15%, 14%, 0.75);
+
         /* Background Colours */
         --md-primary-bg-color: var(--md-default-bg-color);
         --md-primary-bg-color-light: var(--md-default-bg-color--light);
