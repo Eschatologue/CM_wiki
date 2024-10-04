@@ -32,7 +32,7 @@
     // Color palette
     [data-md-color-scheme="slate"][data-md-color-primary="#{$name}"] {
         /* Primary Colours */
-
+        --md-primary-fg-color: hsla(#{hex2hsl(nth($colors, 1))}, 1);
         --md-primary-fg-color-light: hsla(#{hex2hsl(nth($colors, 2))}, 1);
         --md-primary-fg-color-dark: hsla(#{hex2hsl(nth($colors, 3))}, 1);
         --md-primary-fg-color-transparent: hsla(#{hex2hsl(nth($colors, 1))}, 0.15);
