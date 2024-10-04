@@ -135,9 +135,9 @@ A creature belongs to a size category, which ditermines the width of the square 
 
 ### Moving around Other Creatures
 
-During your move, you can pass through the space of an ally, a creatyre that has the Incapacitated condition, a Tiny creature, or a creatyre that is two sizes larger or smaller than you.
+During your move, you can pass through the space of an ally, a creature that has the Incapacitated condition, a Tiny creature, or a creature that is two sizes larger or smaller than you.
 
-You can't willingly end a move in a space occupied by another creatyre. If you somehow end a turn in a space with another creature, you have the Prone condition unless you are Tiny or are of a larger size than the other creature.
+You can't willingly end a move in a space occupied by another creature. If you somehow end a turn in a space with another creature, you have the Prone condition unless you are Tiny or are of a larger size than the other creature.
 
 ## Making an Attack
 

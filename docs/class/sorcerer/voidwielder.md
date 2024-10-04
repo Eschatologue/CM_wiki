@@ -16,16 +16,19 @@ The size of the non-magical item you can target with this feature increases as y
 
 ### Level 3: Soul of the Void
 
-Your innate connection to the primordial void grants you the ability to speak, read, and write Primordial.
+Your innate connection to the primordial void grants you the following benefit: 
+
+- You gain the ability to speak, read, and write Primordial.
+- You learn the Chill Touch (Cantrip) and always have it prepared. You can replace this cantrip with another Abjuration or Necromancy cantrip from the Sorcerer, Warlock, or Wizard list.
 
 ### Level 3: Voidwielder Spells
 
-Whenever you gain a level, you can replace one spell from this feature with another Abjuration or Necromancy spell of the same level from the Sorcerer, Warlock, or Wizard list.
+When you reach a Sorcerer level specified in the Voidwielder Spells table, you thereafter always have the listed spells prepared.
 
-##### Voidwuelder Spells
+##### Voidwielder Spells
 | Sorcerer Level | Spell |
 |:-:|---|
-| 3 | *Chill Touch (Cantrip)*, *Darkness*, *Inflict Wounds*, *Ray of Sickness*, *Ray of Enfeeblement* |
+| 3 | *Darkness*, *Inflict Wounds*, *Ray of Sickness*, *Ray of Enfeeblement* |
 | 5 | *Counterspell*, *Dispel Magic* |
 | 7 | *Blight*, *Sickening Radiance* |
 | 9 | *Antilife Shell*, *Maelstrom* |
