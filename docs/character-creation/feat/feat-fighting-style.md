@@ -172,9 +172,9 @@ When a creature within 5 feet of you makes an attack against a creature that you
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-You can use your Strength modifier, in place of Dexterity for attack and damage rolls with ranged weapons, such as Longbow or Heavy Crossbows. When you do so, you gain +1 to damage rolls with those weapons.
+You can use your Strength modifier, in place of Dexterity for attack and damage rolls with ranged cold weapons, such as Longbow or Heavy Crossbows. When you do so, you gain +1 to damage rolls with those weapons.
 
-Moreover, you also use your Strength instead of your Dexterity to fufill the :weapon-prop-heavy: Heavy weapon property requirement for those weapons.
+Moreover, you also use your Strength instead of your Dexterity to fufill the :weapon-prop-heavy: **Heavy** weapon property requirement for those weapons.
 
 ---
 
