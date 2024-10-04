@@ -18,8 +18,9 @@ The size of the non-magical item you can target with this feature increases as y
 
 Your innate connection to the primordial void grants you the following benefit: 
 
-- You gain the ability to speak, read, and write Primordial.
-- You learn the Chill Touch (Cantrip) and always have it prepared. You can replace this cantrip with another Abjuration or Necromancy cantrip from the Sorcerer, Warlock, or Wizard list.
+***Primordial Language.*** You gain the ability to speak, read, and write Primordial.
+
+***Bonus Cantrip.*** You learn the Chill Touch (Cantrip) and always have it prepared. When you gain a Sorcerer level, you can replace this cantrip with another Abjuration or Necromancy cantrip from the Sorcerer, Warlock, or Wizard list
 
 ### Level 3: Voidwielder Spells
 
