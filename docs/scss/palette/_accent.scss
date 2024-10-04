@@ -2,8 +2,6 @@
 
 @use "sass:color";
 
-$mod-fg: hsl(60, 30%, 96%);
-$mod-bg: hsl(223, 15%, 13%);
 $mod-highlight: hsl(66, 94%, 73%);
 $mod-selection: hsl(231, 25%, 25%);
 $mod-blue: hsl(225, 27%, 51%);
@@ -15,12 +13,11 @@ $mod-purple: hsl(265, 89%, 78%);
 $mod-red: hsl(0, 100%, 67%);
 $mod-yellow: hsl(65, 92%, 76%);
 
-$mod-grey: hsl(225, 8%, 51%);
-$mod-teal: hsl(161, 97%, 77%);
+$mod-grey: hex2hsl(#BDBDBD);
+$mod-teal: hex2hsl(#26A69A);
 $mod-light-blue: hsl(190, 94%, 87%);
 $mod-light-green: hsl(135, 92%, 79%);
 $mod-dark-pink: hsl(325, 100%, 64%);
 $mod-dark-red: hsl(0, 100%, 59%);
 $mod-dark-yellow: hsl(51, 94%, 73%);
 
-$mod-default-bg: lighten($mod-bg, 5%);
