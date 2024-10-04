@@ -12,10 +12,10 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 | Cleric Level | Prepared Spells |
 | :-: | --- |
-| 3 | Cosmic Flare, Chaos Bolt, Catapult, Shatter |
-| 5 | Fly, Erupting Earth |
-| 7 | Grasping Vine, Sickening Radiance |
-| 9 | Jallarzi's Storm of Radiance, Wall of Light |
+| 3 | *Chromatic Orb*, *Tenser's Floating Disk*, *Spike Growth*, *Shatter* |
+| 5 | *Fly*, *Erupting Earth* |
+| 7 | *Grasping Vine*, *Sickening Radiance* |
+| 9 | *Jallarzi's Storm of Radiance*, *Wall of Light* |
 
 ### Level 3: Quasar Jet
 
@@ -25,7 +25,7 @@ Whenever you do damage using a Cleric class feature or a Cleric spell that deals
 
 As a Magic action, you can use your Channel Divinity to create an aura of destructive energy in a 10-foot radius around you for 1 minute, which ends early if you have the Incapacitated condition, or when you choose to end it early (no action required). While this aura is active, the following effects occur:
 
-***Damage.*** When a creature that you choose enters the aura for the first time on its turn or starts its turn there, it takes Force or Radiant damage (choose each time you take this Magic action) equals to 1d6 + your Cleric level.
+***Damage.*** When a creature you choose enters the aura for the first time on its turn or starts its turn there, it takes Force or Radiant damage (choose each time). The amount of damage is determined by rolling a number of d4s equal to your Wisdom modifier (minimum of 1 die).
 
 ***Gravitational Shift.*** You can use your Bonus Action to manipulate the energies within the aura to push or pull creatures. You can choose a number of creatures up to your Wisdom modifier (minimum of one) that are Large or smaller within the aura and either push them up to 5 feet away from you or pull them 5 feet closer to you. This movement does not provoke opportunity attacks. You can do this a number of time equal to your Wisdom modifier. You regain all expended use when you finish a Long Rest.
 
