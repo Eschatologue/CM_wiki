@@ -4,7 +4,15 @@ icon: material/eye-settings
 
 # Eldritch Invocations
 
-Below is the list of all Edlritch Invocations in 2024 Player's Handbook, some invocations were slightly modified to suit Crown & Misery campaign.
+## 2024 Player's Handbook Invocations
+
+Below is a comprehensive list of all Eldritch Invocations from the 2024 *Player's Handbook*. Several invocations have been slightly modified to align with the *Crown & Misery* campaign, as detailed below:
+
+***Spellcasting Modifier Adjustments.*** Certain Warlock invocations have been altered to use the player's spellcasting modifier instead of Charisma.
+
+***Prerequisite Changes.*** Some invocation prerequisites have been removed, allowing players with the Eldritch Initiate feat to select those invocations.
+
+Note that the specific invocations affected by these changes are not listed here. For full details, please refer to the 2024 Player's Handbook.
 
 ---
 
@@ -38,7 +46,7 @@ You can cast **False Life** on yourself without expending a Spell Slot. When you
 
 As a Bonus Action, you can trace arcane sigils in the air to conjure a pact weapon in your hand—a Simple or Martial melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch. Until the bond ends, you have Proficiency with the weapon, and you can use it as a spellcasting focus.
 
-Whenever you attack with the bonded weapon, you can use your **Spellcasting Ability modifier** for the attack and damage rolls, instead of using Strength or Dexterity, and you can cause the weapon to deal Necrotic, Psychic, or Radiant damage or its normal damage type.
+Whenever you attack with the bonded weapon, you can use your **Spellcasting Ability** modifier for the attack and damage rolls, instead of using Strength or Dexterity, and you can cause the weapon to deal Necrotic, Psychic, or Radiant damage or its normal damage type.
 
 Your bond with the weapon ends if you use this feature's Bonus Action again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
 
