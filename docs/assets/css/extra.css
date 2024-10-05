@@ -68,10 +68,10 @@
 
 [data-md-color-scheme=slate][data-md-color-primary=deep-purple] {
   /* Primary Colours */
-  --md-primary-fg-color: hsla(291deg, 64%, 42%, 1);
-  --md-primary-fg-color-light: hsla(291deg, 64%, 47%, 1);
-  --md-primary-fg-color-dark: hsla(291deg, 64%, 37%, 1);
-  --md-primary-fg-color-transparent: hsla(291deg, 64%, 42%, 0.15);
+  --md-primary-fg-color: hsla(262deg, 52%, 47%, 1);
+  --md-primary-fg-color-light: hsla(262deg, 52%, 52%, 1);
+  --md-primary-fg-color-dark: hsla(262deg, 52%, 42%, 1);
+  --md-primary-fg-color-transparent: hsla(262deg, 52%, 47%, 0.15);
   /* Additional Darker Background Colours */
   --md-default-bg-color: hsla(var(--md-hue), 15%, 14%, 1);
   --md-default-bg-color--dark: hsla(var(--md-hue), 15%, 10%, 1);
@@ -128,10 +128,10 @@
 
 [data-md-color-scheme=slate][data-md-color-primary=light-blue] {
   /* Primary Colours */
-  --md-primary-fg-color: hsla(207deg, 90%, 54%, 1);
-  --md-primary-fg-color-light: hsla(207deg, 90%, 59%, 1);
-  --md-primary-fg-color-dark: hsla(207deg, 90%, 49%, 1);
-  --md-primary-fg-color-transparent: hsla(207deg, 90%, 54%, 0.15);
+  --md-primary-fg-color: hsla(199deg, 98%, 48%, 1);
+  --md-primary-fg-color-light: hsla(199deg, 98%, 53%, 1);
+  --md-primary-fg-color-dark: hsla(199deg, 98%, 43%, 1);
+  --md-primary-fg-color-transparent: hsla(199deg, 98%, 48%, 0.15);
   /* Additional Darker Background Colours */
   --md-default-bg-color: hsla(var(--md-hue), 15%, 14%, 1);
   --md-default-bg-color--dark: hsla(var(--md-hue), 15%, 10%, 1);
@@ -208,10 +208,10 @@
 
 [data-md-color-scheme=slate][data-md-color-primary=light-green] {
   /* Primary Colours */
-  --md-primary-fg-color: hsla(122deg, 39%, 49%, 1);
-  --md-primary-fg-color-light: hsla(122deg, 39%, 54%, 1);
-  --md-primary-fg-color-dark: hsla(122deg, 39%, 44%, 1);
-  --md-primary-fg-color-transparent: hsla(122deg, 39%, 49%, 0.15);
+  --md-primary-fg-color: hsla(88deg, 50%, 53%, 1);
+  --md-primary-fg-color-light: hsla(88deg, 50%, 58%, 1);
+  --md-primary-fg-color-dark: hsla(88deg, 50%, 48%, 1);
+  --md-primary-fg-color-transparent: hsla(88deg, 50%, 53%, 0.15);
   /* Additional Darker Background Colours */
   --md-default-bg-color: hsla(var(--md-hue), 15%, 14%, 1);
   --md-default-bg-color--dark: hsla(var(--md-hue), 15%, 10%, 1);
@@ -228,10 +228,10 @@
 
 [data-md-color-scheme=slate][data-md-color-primary=lime] {
   /* Primary Colours */
-  --md-primary-fg-color: hsla(122deg, 39%, 49%, 1);
-  --md-primary-fg-color-light: hsla(122deg, 39%, 54%, 1);
-  --md-primary-fg-color-dark: hsla(122deg, 39%, 44%, 1);
-  --md-primary-fg-color-transparent: hsla(122deg, 39%, 49%, 0.15);
+  --md-primary-fg-color: hsla(66deg, 70%, 54%, 1);
+  --md-primary-fg-color-light: hsla(66deg, 70%, 59%, 1);
+  --md-primary-fg-color-dark: hsla(66deg, 70%, 49%, 1);
+  --md-primary-fg-color-transparent: hsla(66deg, 70%, 54%, 0.15);
   /* Additional Darker Background Colours */
   --md-default-bg-color: hsla(var(--md-hue), 15%, 14%, 1);
   --md-default-bg-color--dark: hsla(var(--md-hue), 15%, 10%, 1);
@@ -268,10 +268,10 @@
 
 [data-md-color-scheme=slate][data-md-color-primary=amber] {
   /* Primary Colours */
-  --md-primary-fg-color: hsla(54deg, 100%, 62%, 1);
-  --md-primary-fg-color-light: hsla(54deg, 100%, 67%, 1);
-  --md-primary-fg-color-dark: hsla(54deg, 100%, 57%, 1);
-  --md-primary-fg-color-transparent: hsla(54deg, 100%, 62%, 0.15);
+  --md-primary-fg-color: hsla(45deg, 100%, 51%, 1);
+  --md-primary-fg-color-light: hsla(45deg, 100%, 56%, 1);
+  --md-primary-fg-color-dark: hsla(45deg, 100%, 46%, 1);
+  --md-primary-fg-color-transparent: hsla(45deg, 100%, 51%, 0.15);
   /* Additional Darker Background Colours */
   --md-default-bg-color: hsla(var(--md-hue), 15%, 14%, 1);
   --md-default-bg-color--dark: hsla(var(--md-hue), 15%, 10%, 1);
@@ -308,10 +308,10 @@
 
 [data-md-color-scheme=slate][data-md-color-primary=deep-orange] {
   /* Primary Colours */
-  --md-primary-fg-color: hsla(36deg, 100%, 50%, 1);
-  --md-primary-fg-color-light: hsla(36deg, 100%, 55%, 1);
-  --md-primary-fg-color-dark: hsla(36deg, 100%, 45%, 1);
-  --md-primary-fg-color-transparent: hsla(36deg, 100%, 50%, 0.15);
+  --md-primary-fg-color: hsla(14deg, 100%, 57%, 1);
+  --md-primary-fg-color-light: hsla(14deg, 100%, 62%, 1);
+  --md-primary-fg-color-dark: hsla(14deg, 100%, 52%, 1);
+  --md-primary-fg-color-transparent: hsla(14deg, 100%, 57%, 0.15);
   /* Additional Darker Background Colours */
   --md-default-bg-color: hsla(var(--md-hue), 15%, 14%, 1);
   --md-default-bg-color--dark: hsla(var(--md-hue), 15%, 10%, 1);
