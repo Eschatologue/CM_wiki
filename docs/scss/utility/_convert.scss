@@ -34,12 +34,16 @@
 }
 
 @function hex3hsl($color) {
-    $hue: hue($color);
-    $saturation: saturation($color);
-    $lightness: lightness($color);
-    @return round(unitless($hue)), round($saturation), round($lightness);
-}
-
+    $hue: hue($color); // Get the hue value
+    $saturation: saturation($color); // Get the saturation value
+    $lightness: lightness($color); // Get the lightness value
+  
+    // If hue is in degrees, remove the unit
+    $hue: if(unit($hue) == "deg", $hue / 1deg, $hue);
+  
+    @return round($hue), round($saturation), round($lightness);
+  }
+  
 // ----------------------------------------------------------------------------
 
 ///
