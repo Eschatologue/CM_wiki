@@ -30,14 +30,14 @@
 /// Convert color in HEX to HSL
 ///
 @function hex2hsl($color) {
-  @return round(hue($color)), round(saturation($color)), round(lightness($color));
+    @return round(hue($color)), round(saturation($color)), round(lightness($color));
 }
 
-@function hex3hsl($color) {
-  $hue: round(hue($color));
-  $saturation: round(saturation($color));
-  $lightness: round(lightness($color));
-  @return hsl($hue, $saturation, $lightness);
+@function hex2hsl($color) {
+    $hue: hue($color);
+    $saturation: saturation($color);
+    $lightness: lightness($color);
+    @return round(unitless($hue)), round($saturation), round($lightness);
 }
 
 // ----------------------------------------------------------------------------
@@ -46,28 +46,28 @@
 /// Convert font size in px to em
 ///
 @function px2em($size, $base: 16px) {
-  @if unit($size) == px {
-    @if unit($base) == px {
-      @return math.div($size, $base) * 1em;
+    @if unit($size) == px {
+        @if unit($base) == px {
+            @return math.div($size, $base) * 1em;
+        } @else {
+            @error "Invalid base: #{$base} - unit must be 'px'";
+        }
     } @else {
-      @error "Invalid base: #{$base} - unit must be 'px'";
+        @error "Invalid size: #{$size} - unit must be 'px'";
     }
-  } @else {
-    @error "Invalid size: #{$size} - unit must be 'px'";
-  }
 }
 
 ///
 /// Convert font size in px to rem
 ///
 @function px2rem($size, $base: 20px) {
-  @if unit($size) == px {
-    @if unit($base) == px {
-      @return math.div($size, $base) * 1rem;
+    @if unit($size) == px {
+        @if unit($base) == px {
+            @return math.div($size, $base) * 1rem;
+        } @else {
+            @error "Invalid base: #{$base} - unit must be 'px'";
+        }
     } @else {
-      @error "Invalid base: #{$base} - unit must be 'px'";
+        @error "Invalid size: #{$size} - unit must be 'px'";
     }
-  } @else {
-    @error "Invalid size: #{$size} - unit must be 'px'";
-  }
 }
