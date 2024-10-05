@@ -2,6 +2,8 @@
 
 This page contains a list of all Eldritch Invocations from the 2024 Player's Handbook.
 
+---
+
 ### Armour of Shadows
 
 You can cast *Mage Armour* on yourself without expending a spell slot.
@@ -214,7 +216,7 @@ You can cast *Speak with Dead* without expending a spell slot.
 
 **Prerequisite:** Level 9+ Warlock, [Pact of the Tome](#pact-of-the-tome)
 
-A new page appears in your Book of Shadows when you conjure it. With your permission, a creature can take an action to write its name on that page, which can contain a number of names equal to your Spellcasting modifier (minimum of one name).
+A new page appears in your Book of Shadows when you conjure it. With your permission, a creature can take a Magic action to write its name on that page, which can contain a number of names equal to your Spellcasting modifier (minimum of one name).
 
 When any creature whose name is on the page is reduced to 0 Hit Points but not killed outright, the creature magically drops to 1 Hit Point instead. Once this magic is triggered, no creature can benefit from it until you finish a Long Rest.
 

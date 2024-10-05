@@ -18,13 +18,23 @@ Whenever you regain hit points while your familiar is within 100 feet of you, tr
 
 ---
 
+### Pact of the Talisman
+
+Your patron gives you an amulet, a talisman that can aid the wearer when the need is great. 
+
+When the wearer fails an ability check, they can add a d4 to the roll, potentially turning the roll into a success. This benefit can be used a number of times equal to your Proficiency Bonus, and all expended uses are restored when you finish a Long Rest.
+
+If you lose the talisman, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous amulet. The talisman turns to ash when you die.
+
+---
+
 ## Grasp of Hadar
 
 **Prerequisite:** Level 2+ Warlock, a Warlock Cantrip That Deals Damage via an Attack Roll
 
 Choose one of your known Warlock cantrips that requires an attack roll and has a range of 15+ feet. When you hit a Large or smaller creature with that cantrip, you can push the creature up to 10 feet straight torwards you.
 
-***Repeatable.*** You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
+***Repeatable.*** You can gain this Invocation more than once. Each time you do so, choose a different eligible cantrip.
 
 ---
 
@@ -34,7 +44,7 @@ Choose one of your known Warlock cantrips that requires an attack roll and has a
 
 The weapon you summon with your Pact of the Blade Invocation gains a +1 bonus to its attack and damage rolls, unless it is a magic weapon that already has a bonus to those rolls.
 
-Finally, the weapon you conjure can be a *Shortbow*, *Longbow*, *Light Crossbow*, or *Heavy Crossbow*.
+***Repeatable.*** You can take this invocation multiple times, up to a maximum of three times. The second instance is available at level 9 or higher, and the third at level 13 or higher. Each time you take this invocation, your Pact Weapon receives an additional +1 bonus to attack and damage rolls.
 
 ---
 
@@ -44,7 +54,7 @@ Finally, the weapon you conjure can be a *Shortbow*, *Longbow*, *Light Crossbow*
 
 Choose one of your known Warlock cantrips that deals damage. When you hit a creature with that cantrip, you can reduce that creature's Speed by 10 feet until the end of your next turn. If you hit the creature more than once with the cantrip, the Speed reduction doesn't exceed 10 feet.
 
-***Repeatable.*** You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
+***Repeatable.*** You can gain this Invocation more than once. Each time you do so, choose a different eligible cantrip.
 
 ---
 
@@ -64,7 +74,7 @@ As a bonus action, you can surround yourself with a magical aura that looks like
 
 The aura grants you advantage on Charisma (Intimidation) checks but disadvantage on all other Charisma checks. Any other creature that starts its turn in the aura takes poison damage equal to your Charisma modifier (minimum of 0 damage).
 
-Once you use this invocation, you can't use it again until you finish a short or Long Rest.
+Once you use this Invocation, you can't use it again until you finish a short or Long Rest.
 
 ---
 
@@ -84,7 +94,7 @@ As a Magic action, you can magically erase a name on the page by touching it.
 
 **Prerequisite:** Level 5+ Warlock; *Hex* spell or a Warlock feature that curses
 
-As a bonus action, you cause a psychic disturbance around the target cursed by your *Hex* spell or by a Warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. When you do so, you deal psychic damage to the cursed target and each creature of your choice that you can see within 5 feet of it. The psychic damage equals your Charisma modifier (minimum of 1 damage). To use this invocation, you must be able to see the cursed target, and it must be within 30 feet of you.
+As a bonus action, you cause a psychic disturbance around the target cursed by your *Hex* spell or by a Warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. When you do so, you deal psychic damage to the cursed target and each creature of your choice that you can see within 5 feet of it. The psychic damage equals your Charisma modifier (minimum of 1 damage). To use this Invocation, you must be able to see the cursed target, and it must be within 30 feet of you.
 
 ---
 
@@ -94,7 +104,7 @@ As a bonus action, you cause a psychic disturbance around the target cursed by y
 
 As a Reaction when you take damage, you can entomb yourself in ice, which melts away at the end of your next turn. You gain 10 Temporary Hit Points per Warlock level, which take as much of the triggering damage as possible. Immediately after you take the damage, you are Vulnerabile to fire damage, your speed is reduced to 0, and you gain the Incapacitated condition. These effects, including any remaining Temporary Hit Points, all end when the ice melts.
 
-Once you use this invocation, you can't use it again until you finish a short or Long Rest.
+Once you use this Invocation, you can't use it again until you finish a short or Long Rest.
 
 ---
 
@@ -112,7 +122,7 @@ You can cast *Animate Dead* without using a spell slot. Once you do so, you can'
 
 As an action, you gain the ability to see through solid objects to a range of 30 feet. Within that range, you have darkvision if you don't already have it. This special sight lasts for 1 minute or until your concentration ends (as if you were concentrating on a spell). During that time, you perceive objects as ghostly, transparent images.
 
-Once you use this invocation, you can't use it again until you finish a short or Long Rest.
+Once you use this Invocation, you can't use it again until you finish a short or Long Rest.
 
 ---
 
