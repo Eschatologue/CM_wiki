@@ -21,7 +21,7 @@
 
 /* Homebrew Admonition */
 .md-typeset {
-    $colorAdmonition_homebrew: hex2hsl(#FFB624);
+    $colorAdmonition_homebrew: hex3hsl(#FFB624);
     .admonition.homebrew,
     details.homebrew {
         border-color: $colorAdmonition_homebrew;
