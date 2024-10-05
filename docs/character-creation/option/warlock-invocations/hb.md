@@ -8,7 +8,7 @@ This page contains a list of all Eldritch Invocations made for Crown & Misery.
 
 **Prerequisite:** Pact of the Blade
 
-You can create a Pact wWapon that is a Short-Arm or Long-Arm. Firearms created from this invocations can't gain the benefit of any Augmentations.
+You can create a Pact Weapon that is a Short-Arm or Long-Arm. Firearms created from this invocations can't gain the benefit of any Augmentations.
 
 ---
 
