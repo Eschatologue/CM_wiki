@@ -2,7 +2,7 @@
 
 This page contains a list of all Eldritch Invocations from the supplemental books such as: XGE or TCE.
 
-## Aspect of the Moon
+### Aspect of the Moon
 
 **Prerequisite:** Pact of the Tome
 
@@ -10,7 +10,7 @@ You no longer need to sleep and can't be forced to sleep by any means. To gain t
 
 ---
 
-## Gift of the Ever-Living Ones
+### Gift of the Ever-Living Ones
 
 **Prerequisite:** Pact of the Chain
 
@@ -28,7 +28,7 @@ If you lose the talisman, you can perform a 1-hour ceremony to receive a replace
 
 ---
 
-## Grasp of Hadar
+### Grasp of Hadar
 
 **Prerequisite:** Level 2+ Warlock, a Warlock Cantrip That Deals Damage via an Attack Roll
 
@@ -38,7 +38,7 @@ Choose one of your known Warlock cantrips that requires an attack roll and has a
 
 ---
 
-## Improved Pact Weapon
+### Improved Pact Weapon
 
 **Prerequisite:** Pact of the Blade
 
@@ -48,7 +48,7 @@ The weapon you summon with your Pact of the Blade Invocation gains a +1 bonus to
 
 ---
 
-## Lance of Lethargy
+### Lance of Lethargy
 
 **Prerequisite:** A Warlock Cantrip That Deals Damage
 
@@ -58,7 +58,7 @@ Choose one of your known Warlock cantrips that deals damage. When you hit a crea
 
 ---
 
-## Rebuke of the Talisman
+### Rebuke of the Talisman
 
 **Prerequisite:** Pact of the Talisman
 
@@ -66,7 +66,7 @@ When the wearer of your talisman is hit by an attacker you can see within 30 fee
 
 ---
 
-## Cloak of Flies
+### Cloak of Flies
 
 **Prerequisite:** Level 5+ Warlock
 
@@ -78,7 +78,7 @@ Once you use this Invocation, you can't use it again until you finish a short or
 
 ---
 
-## Far Scribe
+### Far Scribe
 
 **Prerequisite:** Level 5+ Warlock, Pact of the Tome
 
@@ -90,7 +90,7 @@ As a Magic action, you can magically erase a name on the page by touching it.
 
 ---
 
-## Maddening Hex
+### Maddening Hex
 
 **Prerequisite:** Level 5+ Warlock; *Hex* spell or a Warlock feature that curses
 
@@ -98,7 +98,7 @@ As a bonus action, you cause a psychic disturbance around the target cursed by y
 
 ---
 
-## Tomb of Levistus
+### Tomb of Levistus
 
 **Prerequisite:** Level 5+ Warlock
 
@@ -108,7 +108,7 @@ Once you use this Invocation, you can't use it again until you finish a short or
 
 ---
 
-## Undying Servitude
+### Undying Servitude
 
 **Prerequisite:** Level 5+ Warlock
 
@@ -116,7 +116,7 @@ You can cast *Animate Dead* without using a spell slot. Once you do so, you can'
 
 ---
 
-## Ghostly Gaze
+### Ghostly Gaze
 
 **Prerequisite:** Level 7+ Warlock
 
@@ -126,7 +126,7 @@ Once you use this Invocation, you can't use it again until you finish a short or
 
 ---
 
-## Protection of the Talisman
+### Protection of the Talisman
 
 **Prerequisite:** Level 7+ Warlock, Pact of the Talisman
 
@@ -134,7 +134,7 @@ When the wearer of your talisman fails a saving throw, they can add a d4 to the 
 
 ---
 
-## Relentless Hex
+### Relentless Hex
 
 **Prerequisite:** Level 7+ Warlock; *Hex* spell or a Warlock feature that curses
 
@@ -142,7 +142,7 @@ Your curse creates a temporary bond between you and your target. As a bonus acti
 
 ---
 
-## Trickster's Escape
+### Trickster's Escape
 
 **Prerequisite:** Level 7+ Warlock
 
@@ -150,7 +150,7 @@ You can cast *Freedom of Movement* once on yourself without expending a spell sl
 
 ---
 
-## Bond of the Talisman
+### Bond of the Talisman
 
 **Prerequisite:** Level 12+ Warlock, Pact of the Talisman
 
@@ -158,7 +158,7 @@ While someone else is wearing your talisman, you can use your action to teleport
 
 ---
 
-## Shroud of Shadow
+### Shroud of Shadow
 
 **Prerequisite:** Level 15+ Warlock
 
