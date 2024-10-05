@@ -16,7 +16,7 @@
             "purple": $mod-purple lighten($mod-purple, 5%) darken($mod-purple, 5%),
             "deep-purple": $mod-purple lighten($mod-purple, 5%) darken($mod-purple, 5%),
             "blue": $mod-blue lighten($mod-blue, 5%) darken($mod-blue, 5%),
-            "indigo": $mod-blue lighten($mod-blue, 5%) darken($mod-blue, 5%),
+            "indigo": $mod-indigo lighten($mod-indigo, 5%) darken($mod-indigo, 5%),
             "light-blue": $mod-blue lighten($mod-blue, 5%) darken($mod-blue, 5%),
             "cyan": $mod-cyan lighten($mod-cyan, 5%) darken($mod-cyan, 5%),
             "teal": $mod-teal lighten($mod-teal, 5%) darken($mod-teal, 5%),
@@ -44,7 +44,6 @@
         --md-default-bg-color--darkest: hsla(var(--md-hue), 15%, 4%, 1);
 
         /* Transparent Background Colour */
-
         --md-default-bg-color--25: hsla(var(--md-hue), 15%, 14%, 0.25);
         --md-default-bg-color--50: hsla(var(--md-hue), 15%, 14%, 0.5);
         --md-default-bg-color--75: hsla(var(--md-hue), 15%, 14%, 0.75);

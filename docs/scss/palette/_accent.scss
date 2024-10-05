@@ -1,10 +1,12 @@
 // Custom Colour Pallete
 
 @use "sass:color";
+@import "../utility/convert";
 
 $mod-highlight: hsl(66, 94%, 73%);
 $mod-selection: hsl(231, 25%, 25%);
 $mod-blue: hsl(225, 27%, 51%);
+$mod-indigo: hex2hsl(#7986CB);
 $mod-cyan: hsl(191, 97%, 77%);
 $mod-green: hsl(135, 94%, 65%);
 $mod-orange: hsl(31, 100%, 71%);
@@ -14,7 +16,7 @@ $mod-red: hsl(0, 100%, 67%);
 $mod-yellow: hsl(65, 92%, 76%);
 
 $mod-grey: hsl(225, 8%, 51%);
-$mod-teal: hsl(174, 63%, 40%);
+$mod-teal: hsl(174, 42%, 51%);
 $mod-light-blue: hsl(190, 94%, 87%);
 $mod-light-green: hsl(135, 92%, 79%);
 $mod-dark-pink: hsl(325, 100%, 64%);
