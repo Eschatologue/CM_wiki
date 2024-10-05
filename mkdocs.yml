@@ -78,14 +78,6 @@ nav:
         - Londoner: character-creation/origin/species/londoner.md
         - Orc: character-creation/origin/species/orc.md
         - Tiefling: character-creation/origin/species/tiefling.md
-    - Ability Score: 
-      - character-creation/ability-scores/index.md
-      - Strength: character-creation/ability-scores/strength.md
-      - Dexterity: character-creation/ability-scores/dexterity.md
-      - Constitution: character-creation/ability-scores/constitution.md
-      - Intelligence: character-creation/ability-scores/intelligence.md
-      - Wisdom: character-creation/ability-scores/wisdom.md
-      - Charisma: character-creation/ability-scores/charisma.md
     - Feats: 
       - character-creation/feat/index.md
       - Origin Feats: character-creation/feat/feat-origin.md
@@ -96,7 +88,11 @@ nav:
     - Other Options & Features:
       - Artificer's Infusion: character-creation/option/artificer-infusion.md
       - Metamagic: character-creation/option/metamagic.md
-      - Eldritch Invocations: character-creation/option/invocations.md
+      - Eldritch Invocations: 
+          - character-creation/option/warlock-invocations/index.md
+          - Player's Handbook: character-creation/option/warlock-invocations/phb24.md
+          - Supplemental: character-creation/option/warlock-invocations/supplemental.md
+          - Homebrew: character-creation/option/warlock-invocations/hb.md
       - Combat Manoeuvre: character-creation/option/manoeuvre.md
   - Equipment: 
       - Crafting Equipment: equipment/crafting.md
