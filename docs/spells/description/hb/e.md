@@ -1,7 +1,8 @@
 ---
 icon: material/alpha-e-circle
+search:
+  boost: 1.5
 ---
-
 
 # Homebrew Spells (E)
 
@@ -9,7 +10,7 @@ icon: material/alpha-e-circle
 
 ### Esch's Steel Wind Strike
 
-*Level 2 - Conjuration (Ranger, Warlock, Wizard)*
+*Level 2 Conjuration (Ranger, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 30 feet  

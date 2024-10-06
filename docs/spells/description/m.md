@@ -1,5 +1,7 @@
 ---
 icon: material/alpha-m-box
+search:
+  boost: 1.5
 ---
 
 # Spells (M)

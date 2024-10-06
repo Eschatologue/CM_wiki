@@ -1,5 +1,7 @@
 ---
 icon: material/alpha-z-box
+search:
+  boost: 1.5
 ---
 
 # Spells (Z)

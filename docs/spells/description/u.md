@@ -1,5 +1,7 @@
 ---
 icon: material/alpha-u-box
+search:
+  boost: 1.5
 ---
 
 # Spells (U)

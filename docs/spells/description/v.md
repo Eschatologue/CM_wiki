@@ -1,5 +1,7 @@
 ---
 icon: material/alpha-v-box
+search:
+  boost: 1.5
 ---
 
 # Spells (V)

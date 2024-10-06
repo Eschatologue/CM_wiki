@@ -1,5 +1,7 @@
 ---
 icon: material/alpha-a-box
+search:
+  boost: 1.5
 ---
 
 # Spell (A)

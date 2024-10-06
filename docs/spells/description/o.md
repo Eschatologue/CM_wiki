@@ -1,5 +1,7 @@
 ---
 icon: material/alpha-o-box
+search:
+  boost: 1.5
 ---
 
 # Spells (O)

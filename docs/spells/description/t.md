@@ -1,5 +1,7 @@
 ---
 icon: material/alpha-t-box
+search:
+  boost: 1.5
 ---
 
 # Spells (T)

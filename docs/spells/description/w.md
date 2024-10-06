@@ -1,7 +1,11 @@
 ---
 icon: material/alpha-w-box
+search:
+  boost: 1.5
 ---
+
 # Spells (W)
+
 ---
 
 ### Wall of Fire

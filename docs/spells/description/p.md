@@ -1,5 +1,7 @@
 ---
 icon: material/alpha-p-box
+search:
+  boost: 1.5
 ---
 
 # Spells (P)

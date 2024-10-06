@@ -1,7 +1,8 @@
 ---
 icon: material/alpha-c-circle
+search:
+  boost: 1.5
 ---
-
 
 # Homebrew Spells (C)
 
@@ -9,7 +10,7 @@ icon: material/alpha-c-circle
 
 ### Cosmic Flare
 
-*Conjuration Cantrip (Druid, Wizard, Sorcerer)*
+*Conjuration Cantrip (Cleric, Druid, Wizard, Sorcerer)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  

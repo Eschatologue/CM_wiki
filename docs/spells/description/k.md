@@ -1,5 +1,7 @@
 ---
 icon: material/alpha-k-box
+search:
+  boost: 1.5
 ---
 
 # Spells (K)

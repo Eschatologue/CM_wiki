@@ -1,5 +1,7 @@
 ---
 icon: material/alpha-i-box
+search:
+  boost: 1.5
 ---
 
 # Spells (I)

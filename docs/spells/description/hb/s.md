@@ -1,5 +1,7 @@
 ---
 icon: material/alpha-s-circle
+search:
+  boost: 1.5
 ---
 
 # Homebrew Spells (S)
@@ -8,7 +10,7 @@ icon: material/alpha-s-circle
 
 ### Shackles of Pain
 
-*Level 3 Necromancy*
+*Level 3 Necromancy (Sorcerer, Wizard, Warlock)*
   
 **Casting Time:** Action  
 **Range:** 60 feet  

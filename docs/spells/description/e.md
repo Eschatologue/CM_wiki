@@ -1,5 +1,9 @@
 ---
 icon: material/alpha-e-box
+search:
+  boost: 1.5
+search:
+  boost: 1.5
 ---
 
 # Spells (E)

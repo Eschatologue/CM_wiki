@@ -1,7 +1,10 @@
 ---
 icon: material/alpha-d-box
+search:
+  boost: 1.5
+search:
+  boost: 1.5
 ---
-
 
 # Spells (D)
 

@@ -1,5 +1,7 @@
 ---
 icon: material/alpha-h-box
+search:
+  boost: 1.5
 ---
 
 # Spells (H)

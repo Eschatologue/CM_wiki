@@ -183,7 +183,7 @@ Uneaten berries disappear when the spell ends.
 
 ---
 
-#### Gravity Fissure
+### Gravity Fissure
 
 *Level 6 Evocation (Wizard (Chronurgy, Graviturgy))*
 

@@ -1,5 +1,7 @@
 ---
 icon: material/alpha-n-box
+search:
+  boost: 1.5
 ---
 
 # Spells (N)
