@@ -7,6 +7,7 @@ icon: material/alpha-s-box
 ---
 
 ### Sacred Flame
+
 *Evocation Cantrip (Cleric)*
 
 **Casting Time:** Action  
@@ -16,7 +17,7 @@ icon: material/alpha-s-box
 
 Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 Radiant damage. The target gains no benefit from Half Cover or Three-Quarters Cover for this save.
 
-***Cantrip Upgrade.***The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
+***Cantrip Upgrade.*** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
 ---
 
@@ -32,6 +33,21 @@ Flame-like radiance descends on a creature that you can see within range. The ta
 You ward a creature within range. Until the spell ends, any creature who targets the warded creature with an attack roll or a damaging spell must succeed on a Wisdom saving throw or either choose a new target or lose the attack or spell. This spell doesn't protect the warded creature from areas of effect.
 
 The spell ends if the warded creature makes an attack roll, casts a spell, or deals damage.
+
+---
+
+#### Sapping Sting
+
+*Necromancy Cantrip*
+
+**Casting Time:** Action  
+**Range:** 30 feet  
+**Components:** V, S  
+**Duration:** Instantaneous
+
+You sap the vitality of one creature you can see in range. The target must succeed on a Constitution saving throw or take 1d4 necrotic damage and fall prone.
+
+***Cantrip Upgrade.*** The damage increases by 1d4 when you reach levels 5 (2d4), 11 (3d4), and 17 (4d4).
 
 ---
 

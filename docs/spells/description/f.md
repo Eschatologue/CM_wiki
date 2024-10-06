@@ -389,6 +389,23 @@ You touch a willing creature and bestow a limited ability to see into the immedi
 
 ---
 
+### Fortune's Favor
+
+*Level 2 Divination (Wizard (Chronurgy, Graviturgy))*
+
+**Casting Time:** 1 minute  
+**Range:** 60 feet  
+**Components:** V, S, M (a white pearl worth at least 100 gp, which the spell consumes)   
+**Duration:** 1 hour
+
+You impart latent luck to yourself or one willing creature you can see within range. When the chosen creature makes an attack roll, an ability check, or a saving throw before the spell ends, it can dismiss this spell on itself to roll an additional d20 and choose which of the d20s to use. Alternatively, when an attack roll is made against the chosen creature, it can dismiss this spell on itself to roll a d20 and choose which of the d20s to use, the one it rolled or the one the attacker rolled.
+
+If the original d20 roll has advantage or disadvantage, the creature rolls the additional d20 after advantage or disadvantage has been applied to the original roll.
+
+***Using a Higher-Level Spell Slot.*** When you cast this spell using a level 3+ spell slot, you can target one additional creature for each slot level above 2.
+
+---
+
 ### Freedom of Movement
 
 *Level 4 Abjuration (Bard, Cleric, Druid, Ranger)*

@@ -80,6 +80,19 @@ The spell also effectively extends the time limit on raising the target from the
 
 ---
 
+### Gift of Alacrity
+
+*Level 1 Divination*
+
+**Casting Time:** 1 minute  
+**Range:** Touch  
+**Components:** V, S  
+**Duration:** 8 hours
+
+You touch a willing creature. For the duration, the target can add 1d8 to its initiative rolls.
+
+---
+
 ### Giant Insect
 
 *Level 4 Conjuration (Druid)*
@@ -170,7 +183,40 @@ Uneaten berries disappear when the spell ends.
 
 ---
 
+#### Gravity Fissure
+
+*Level 6 Evocation (Wizard (Chronurgy, Graviturgy))*
+
+**Casting Time:** Action  
+**Range:** Self (100-foot line)  
+**Components:** V, S, M (a fistful of iron filings)  
+**Duration:** Instantaneous
+
+You manifest a ravine of gravitational energy in a line originating from you that is 100 feet long and 5 feet wide. Each creature in that line must make a Constitution saving throw, taking 8d8 force damage on a failed save, or half as much damage on a successful one.
+
+Each creature within 10 feet of the line but not in it must succeed on a Constitution saving throw or take 8d8 force damage and be pulled toward the line until the creature is in its area.
+
+***Using a Higher-Level Spell Slot.*** When you cast this spell using a spell slot of 7th level or higher, the damage increases by 1d8 for each slot level above 6th.
+
+---
+
+### Gravity Sinkhole
+
+*Level 4 Evocation (Wizard (Chronurgy, Graviturgy))*
+
+**Casting Time:** Action  
+**Range:** 120 feet  
+**Components:** V, S, M (a black marble)  
+**Duration:** Instantaneous
+
+A 20-foot-radius sphere of crushing force forms at a point you can see within range and tugs at the creatures there. Each creature in the sphere must make a Constitution saving throw. On a failed save, the creature takes 5d10 force damage and is pulled in a straight line toward the center of the sphere, ending in an unoccupied space as close to the center as possible (even if that space is in the air). On a successful save, the creature takes half as much damage and isn't pulled.
+
+***Using a Higher-Level Spell Slot.*** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d10 for each slot level above 4th.
+
+---
+
 ### Grease
+
 *Level 1 Conjuration (Sorcerer, Wizard)*
 
 **Casting Time:** Action  
@@ -198,6 +244,7 @@ A creature you touch has the Invisible condition until the spell ends.
 ---
 
 ### Greater Restoration
+
 *Level 5 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)*
 
 **Casting Time:** Action  

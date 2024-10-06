@@ -136,20 +136,48 @@ You can create a permanent teleportation circle by casting this spell in the sam
 
 ---
 
-### Tenser's Floating Disk
+### Temporal Shunt
 
-*Level 1 - Conjuration (ritual)*
-  
-**Casting Time:** :rsc-action: Action  
+*Level 5 Transmutation (Wizard (Chronurgy, Graviturgy))*
+
+**Casting Time:** Reaction, taken when a creature you can see makes an attack roll or starts to cast a spell  
+**Range:** 120 feet  
+**Components:** V, S  
+**Duration:** 1 round
+
+You target the triggering creature, which must succeed on a Wisdom saving throw or vanish, being thrown to another point in time and causing the attack to miss or the spell to be wasted. At the start of its next turn, the target reappears where it was or in the closest unoccupied space. The target doesn't remember you casting the spell or being affected by it.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th. All targets must be within 30 feet of each other.
+
+---
+
+#### Tenser's Floating Disk
+
+*Level 1 Conjuration (Wizard)*
+
+**Casting Time:** Action or Ritual  
 **Range:** 30 feet  
 **Components:** V, S, M (a drop of mercury)  
 **Duration:** 1 hour
 
-This spell creates a circular, horizontal plane of force, 3 feet in diameter and 1 inch thick, that floats 3 feet above the ground in an unoccupied space of your choice that you can see within range. The disk remains for the duration, and can hold up to 500 pounds. If more weight is placed on it, the spell ends, and everything on the disk falls to the ground.
+This spell creates a circular, horizontal plane of force, 3 feet in diameter and 1 inch thick, that floats 3 feet above the ground in an unoccupied space of your choice that you can see within range. The disk remains for the duration and can hold up to 500 pounds. If more weight is placed on it, the spell ends, and everything on the disk falls to the ground.
 
 The disk is immobile while you are within 20 feet of it. If you move more than 20 feet away from it, the disk follows you so that it remains within 20 feet of you. It can move across uneven terrain, up or down stairs, slopes and the like, but it can't cross an elevation change of 10 feet or more. For example, the disk can't move across a 10-foot-deep pit, nor could it leave such a pit if it was created at the bottom.
 
 If you move more than 100 feet from the disk (typically because it can't move around an obstacle to follow you), the spell ends.
+
+---
+
+### Tether Essence
+
+*Level 7 Necromancy (Wizard (Chronurgy, Graviturgy))*
+
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** V, S, M (a spool of platinum cord worth at least 250 gp, which the spell consumes)  
+**Duration:** Concentration, up to 1 hour
+
+Two creatures you can see within range must make a Constitution saving throw, with disadvantage if they are within 30 feet of each other. Either creature can willingly fail the save. If either save succeeds, the spell has no effect. If both saves fail, the creatures are magically linked for the duration, regardless of the distance between them. When damage is dealt to one of them, the same damage is dealt to the other one. If hit points are restored to one of them, the same number of hit points are restored to the other one. If either of the tethered creatures is reduced to 0 hit points, the spell ends on both. If the spell ends on one creature, it ends on both.
 
 ---
 
@@ -222,6 +250,19 @@ You unleash a wave of thunderous energy. Each creature in a 15-foot Cube origina
 In addition, unsecured objects that are entirely within the Cube are pushed 10 feet away from you, and a thunderous boom is audible within 300 feet.
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 1.
+
+---
+
+#### Time Ravage
+
+*Level 9 Necromancy (Wizard (Chronurgy, Graviturgy))*
+
+**Casting Time:** Action  
+**Range:** 90 feet  
+**Components:** V, S, M (an hourglass filled with diamond dust worth at least 5,000 gp, which the spell consumes)  
+**Duration:** Instantaneous
+
+You target a creature you can see within range, putting its physical form through the devastation of rapid aging. The target must make a Constitution saving throw, taking 10d12 necrotic damage on a failed save, or half as much damage on a successful one. If the save fails, the target also ages to the point where it has only 30 days left before it dies of old age. In this aged state, the target has disadvantage on attack rolls, ability checks, and saving throws, and its walking speed is halved. Only the *Wish* spell or the *Greater Restoration* cast with a 9th-level spell slot can end these effects and restore the target to its previous age.
 
 ---
 

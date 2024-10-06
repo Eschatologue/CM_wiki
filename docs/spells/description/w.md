@@ -304,3 +304,18 @@ You must designate a location, such as a temple, as a sanctuary by casting this 
 The target takes an extra 1d6 Necrotic damage from the attack, and it must succeed on a Wisdom saving throw or have the Frightened condition until the spell ends. At the end of each of its turns, the Frightened target repeats the save, ending the spell on itself on a success.
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 1.
+
+---
+
+### Wristpocket
+
+*Level 2 Conjuration (Wizard (Chronurgy, Graviturgy))*
+
+**Casting Time:** Action or Ritual  
+**Range:** Self  
+**Components:** S  
+**Duration:** Concentration, up to 1 hour
+
+You flick your wrist, causing one object in your hand to vanish. The object, which only you can be holding and can weigh no more than 5 pounds, is transported to an extradimensional space, where it remains for the duration.
+
+Until the spell ends, you can use your action to summon the object to your free hand, and you can use your action to return the object to the extradimensional space. An object still in the pocket plane when the spell ends appears in your space, at your feet.
