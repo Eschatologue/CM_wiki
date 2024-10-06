@@ -39,13 +39,17 @@ You've learned how to create a magical cannon.
 | **Force Ballista** | Make a ranged spell attack, originating from the cannon, at one creature or object within 120 feet of it. On a hit, the target takes 2d8 force damage, and if the target is a creature, it is pushed up to 5 feet away from the cannon. |
 | **Protector** | The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of it a number of temporary Hit Points equal to 1d8 + your Intelligence modifier (minimum of +1). |
 
-### Level 5: Arcane Amplifier
+### Level 5: Arcane Sidearm
 
-You know how to turn a wand, staff, or rod into an arcane amplifier, a conduit for your destructive spells. 
+Your research has resulted in the creation of a Arcane Sidearm, which uses the following rules:
 
-When you finish a Long Rest, you can use Woodcarver's Tools to carve special sigils into a wand, staff, or rod and thereby turn it into your arcane amplifier. The sigils disappear from the object if you later carve them on a different item. The sigils otherwise last indefinitely.
+***Crafting your Sidearm.*** During a long rest, you can spend 1 hour crafting an Arcane Sidearm using woodcarver's tools. You can only have one Arcane Sidearm, and crafting another causes previous Arcane Sidearms to lose their power.
 
-You can use your arcane amplifier as a spellcasting focus for your Artificer spells. When you cast an Artificer spell through the amplifier, roll a d8, and you gain a bonus to one of the spell's damage rolls equal to the number rolled.
+***Appearance.*** An Arcane Sidearm is a Tiny object that can be used as a spellcasting focus for Artificer spells. You choose its appearance, though this has no effect on its abilities. Many Artilerists craft Sidearms that resemble delicate wands of wood, ornate metallic rods, or even runic iron cannons.
+
+***Infusions.*** Your Arcane Sidearm can bear a single Infusion that is meant for an arcane focus.
+
+***Using your Sidearm.***  When you cast an artificer spell through the sidearm, roll a d8, and you gain a bonus to one of the spell's damage rolls equal to the number rolled.
 
 ### Level 9: Explosive Cannon
 

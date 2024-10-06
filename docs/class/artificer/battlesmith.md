@@ -4,7 +4,7 @@
 
 Armies require protection, and someone has to put things back together if defenses fail. A combination  of protector and medic, a Battle Smith is an expert at defending others and repairing both material and personnel. To aid in their work, Battle Smiths are usually accompanied by a steel defender, a protective companion of their own creation. Many soldiers tell stories of nearly dying before being saved by a Battle Smith and a steel defender.
 
-### Level 3: Tool Proficiency
+### Level 3: Tool of the Trade
 
 You have proficiency with Smith’s Tools. If you already have this proficiency, you gain proficiency with one other type of Artisan’s Tools of your choice.
 
@@ -23,6 +23,14 @@ Your combat training as a Battle Smith ensures you always have certain spells re
 | 9 | *Aura of Vitality*, *Elemental Weapon* |
 | 13 | *Aura of Purity*, *Fire Shield* |
 | 17 | *Animate Objects*, *Mass Cure Wounds* |
+
+### Level 3: Battle Ready
+
+Your combat training and your experiments with magic have paid off in two ways:
+
+***Extra Proficiencies.*** You have proficiency with Martial weapons. 
+
+***Intelligent Attacks.*** When you make an attack with a magic weapon with which you have proficiency, you can choose to use your Intelligence modifier for the attack and damage rolls, instead of Strength or Dexterity. 
 
 ### Level 3: Steel Defender
 

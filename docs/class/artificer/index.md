@@ -44,8 +44,8 @@ As a Artificer, you gain the following class features when you reach the specifi
 ##### Artificer Feature Table
 
 | Level | Proficiency Bonus | Features | Infusions Known (Infused Items) | Cantrips Known | Spells Prepared | I | II | III | IV | V |
-|:-:|:-:|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 1 | +2 | Arcane Tinkerer, Spellcasting | - | 2 | 2 | 2 | - | - | - | - |
+|:-:|:-:|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1 | +2 | Arcane Recovery, Arcane Tinkerer, Spellcasting | - | 2 | 2 | 2 | - | - | - | - |
 | 2 | +2 | Infuse Item | 4 (2) | 2 | 3 | 2 | - | - | - | - |
 | 3 | +2 | Artificer Specialist, The Right Tool for the Job | 4 (2) | 2 | 4 | 3 | - | - | - | - |
 | 4 | +2 | Ability Score Improvement | 4 (2) | 2 | 5 | 3 | - | - | - | - |
@@ -65,6 +65,10 @@ As a Artificer, you gain the following class features when you reach the specifi
 | 18 | +6 | Magic Item Master | 12 (6) | 4 | 14 | 4 | 3 | 3 | 3 | 1 |
 | 19 | +6 | Ability Score Improvement | 12 (6) | 4 | 15 | 4 | 3 | 3 | 3 | 2 |
 | 20 | +6 | Soul of Artifice | 12 (6) | 4 | 15 | 4 | 3 | 3 | 3 | 2 |
+
+### Level 1: Arcane Recoevery
+
+Whenever you finish a Short Rest, you can regain one expended spell slot of your choice. The level of the spell slot cannot exceed your highest spell slot level as shown on the Artificer Features table, even if you are a multiclassed character. 
 
 ### Level 1: Arcane Tinkerer
 
