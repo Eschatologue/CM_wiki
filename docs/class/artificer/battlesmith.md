@@ -52,7 +52,7 @@ You can use this energy a number of times equal to your Intelligence modifier (m
 
 ### Level 15: Improved Defender
 
-Your Arcane Jolt and steel defender become more powerful:
+Your Arcane Jolt and Steel Defender become more powerful:
 
 ***Improved Jolt.*** The extra damage and the healing of your Arcane Jolt both increase to 4d6.
 

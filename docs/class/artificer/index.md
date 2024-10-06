@@ -1,5 +1,5 @@
 ---
-icon: class/Artificer
+icon: class/artificer
 ---
 
 :class-Artificer:{ .xxxxl }
