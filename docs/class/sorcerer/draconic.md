@@ -15,6 +15,7 @@ Parts of you are also covered by dragon-like scales. While you aren’t wearing 
 When you reach a Sorcerer level specified in the Draconic Spells table, you thereafter always have the listed spells prepared.
 
 ##### Draconic Spells
+
 | Sorcerer Level | Spells |
 |---|---|
 | 3 | Alter Self, Chromatic Orb, Command, Dragon’s Breath |
