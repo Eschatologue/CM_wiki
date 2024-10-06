@@ -1,6 +1,6 @@
 # The Reborn
 
-> *Regain Your Lost Powers*
+> *Regain Your Lost Powers* - Made by Eschatologue
 
 You once wielded power that rivalled the gods, or perhaps you were one of them. Now, through some misfortune, you’ve been reborn—a fragment of your former self. Yet, the essence of your past greatness lingers, waiting to be reignited. With each spell cast, you edge closer to reclaiming the glory and might that was once yours. Will you rise again, or be forgotten in this new life?
 
@@ -19,7 +19,7 @@ When you reach a Sorcerer level specified in the Reborn Spells table, you therea
 ##### Reborn Spells
 
 | Sorcerer Level | Spells |
-|---|---|
+|:-:|---|
 | 3 | *Command*, *False Life*, *Augury*, *Identify* |
 | 5 | *Clairvoyance*, *Hold Person* |
 | 7 | *Banishment*, *Divination* |
