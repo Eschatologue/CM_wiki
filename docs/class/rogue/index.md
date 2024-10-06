@@ -47,7 +47,7 @@ As a Rogue, you gain the following class features when you reach the specified R
 
 ##### Rogue Features
 
-| Level | Prof. Bonus | Class Feature | Sneak Attack |
+| Level | PB | Class Feature | Sneak Attack |
 |:---:|:---:|:---|:---:|
 | 1 | +2 | Expertise, Sneak Attack, Thieves' Cant, Weapon Mastery | 1d6 |
 | 2 | +2 | Cunning Action | 1d6 |

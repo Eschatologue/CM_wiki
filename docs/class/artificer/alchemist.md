@@ -26,7 +26,7 @@ You have learned to produce magical potions called Experimental Elixirs, which s
 
 ***Random Elixirs.*** Whenever you finish a Short or Long Rest, you can magically produce an Elixir in an empty flask you touch. Roll on the Experimental Elixir table for the elixir’s effect, which is triggered when someone drinks the elixir. The number of Elixirs you can make in this way increases to two at level 10, rolling for each elixir separately, and containing each in its own flask.  
 
-***Controlled Elixirs.*** As a Magic action, you can expend two Ingenuity Points to produce one Elixir in a flask you touch. Instead of rolling, you choose the desired effect from the Experimental Elixir table.  
+***Controlled Elixirs.*** As a Magic action, you can produce one Elixir in a flask you touch. Instead of rolling, you choose the desired effect from the Experimental Elixir table. You can do this once per Short Rest.  
 
 ***Drinking and Administering Elixirs.*** As a Bonus Action, a creature can drink the elixir or administer it to an Incapacitated creature.
 
@@ -67,7 +67,7 @@ You can incorporate restorative reagents into some of your works:
 
 ***Fortifying Elixirs.*** Whenever a creature drinks an experimental elixir you created, the creature gains Temporary Hit Points equal to 2d6 + your Intelligence modifier (minimum of 1 Temporary Hit Point).
 
-***Lesser Restoration.*** You always have the Lesser Restoration spell prepared, and you can expend an Ingenuity Point to cast it without expending a spell slot, provided you use Alchemist’s Supplies as the spellcasting focus.
+***Lesser Restoration.*** You always have the Lesser Restoration spell prepared, and you cast it without expending a spell slot, provided you use Alchemist’s Supplies as the spellcasting focus. You can do so a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
 ### Level 15: Chemical Mastery
 

@@ -50,7 +50,9 @@ If you use an Action to cast a spell, you can make one Arcane Firearm attack as 
 
 ### Level 9: Overcharge
 
-You can imbue your Arcane Firearm's attacks with additional explosive magic. Once per turn when you hit a target with an attack from your Arcane Firearm, you can expend one Ingenuity Point to cause that attack to deal extra 2d6 Force damage to the target.
+You can imbue your Arcane Firearm's attacks with additional explosive magic. Once per turn when you hit a target with an attack from your Arcane Firearm, you can expend a spell slot to cause that attack to deal bonus Force damage to the target.
+
+This bonus damage is 2d6 for a level 1 spell slot, plus an additional 1d6 force damage for each slot above level 1.
 
 ### Level 9: Quickdraw
 

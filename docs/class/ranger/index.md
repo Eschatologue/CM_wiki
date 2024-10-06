@@ -44,7 +44,7 @@ As a Ranger, you gain the following class features when you reach the specified 
 
 ##### Ranger Features
 
-| Level | Prof. Bonus | Class Features | Favored Enemy | Prepared Spells | I | II | III | IV | V |
+| Level | PB | Class Features | Favored Enemy | Prepared Spells | I | II | III | IV | V |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | +2 | Spellcasting, Favored Enemy, Weapon Mastery | 2 | 2 | 2 | — | — | — | — |
 | 2 | +2 | Deft Explorer, Fighting Style | 2 | 3 | 2 | — | — | — | — |

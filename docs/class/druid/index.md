@@ -53,7 +53,7 @@ As a Druid, you gain the following class features when you reach the specified D
 
 ##### Druid Features
 
-| Level | Prof. Bonus | Features | Wild Shape | Cantrips Known | Spells Prepared | I | II | III | IV | V | VI | VII | VIII | IX |
+| Level | PB | Features | Wild Shape | Cantrips Known | Spells Prepared | I | II | III | IV | V | VI | VII | VIII | IX |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | +2 | Spellcasting, Druidic, Primal Order | — | 2 | 4 | 2 | — | — | — | — | — | — | — | — |
 | 2 | +2 | Wild Shape, Wild Companion | 2 | 2 | 5 | 3 | — | — | — | — | — | — | — | — |

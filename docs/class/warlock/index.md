@@ -42,7 +42,7 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 
 As a Warlock, you gain the following class features when you reach the specified Warlock levels. These features are listed in the Warlock Features table.
 
-| Level | Prof. Bonus | Class Features | Invocations | Cantrips | Spells Prepared | Spell Slots | Slot Level |
+| Level | PB | Class Features | Invocations | Cantrips | Spells Prepared | Spell Slots | Slot Level |
 |:-:|:-:|---|:-:|:-:|:-:|:-:|:-:|
 | 1 | +2 | Eldritch Invocations, Pact Magic | 1 | 2 | 2 | 1 | 1 |
 | 2 | +2 | Magical Cunning | 3 | 2 | 3 | 2 | 1 |

@@ -48,7 +48,7 @@ As a Paladin, you gain the following class features when you reach the specified
 
 ##### Paladin Features
 
-| Paladin Level | Prof. Bonus | Class Feature | Channel Divinity | Spell Prepared | I | II | III | IV | V |
+| Paladin Level | PB | Class Feature | Channel Divinity | Spell Prepared | I | II | III | IV | V |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | +2 | Lay On Hands, Spellcasting, Weapon Mastery | — | 2 | 2 | — | — | — | — |
 | 2 | +2 | Fighting Style, Paladin’s Smite | — | 3 | 2 | — | — | — | — |
@@ -128,7 +128,7 @@ As a Bonus Action, you can open your awareness to detect Celestials, Fiends, and
 
 ### Level 3: Paladin Subclass
 
-You gain a Paladin subclass of your choice. The Oath of Devotion subclass is detailed after this class’s description. A subclass is a specialization that grants you features at certain Paladin levels. For the rest of your career, you gain each of your subclass’s features that are of your Paladin level or lower.
+You gain a Paladin subclass of your choice. A subclass is a specialization that grants you features at certain Paladin levels. For the rest of your career, you gain each of your subclass’s features that are of your Paladin level or lower.
 
 !!! danger "Breaking Your Oath"
 

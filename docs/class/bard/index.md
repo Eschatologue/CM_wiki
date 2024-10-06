@@ -47,7 +47,7 @@ As a Bard, you gain the following class features when you reach the specified Ba
 
 ##### Bard Features
 
-| Bard Level | Prof. Bonus | Class Feature | Bardic Die | Bardic Inspiration | Spells Prepared | I | II | III | IV | V | VI | VII | VIII | IX |
+| Bard Level | PB | Class Feature | Bardic Die | Bardic Inspiration | Spells Prepared | I | II | III | IV | V | VI | VII | VIII | IX |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | +2 | Bardic Inspiration, Spellcasting | D6 | 2 | 4 | 2 | — | — | — | — | — | — | — | — |
 | 2 | +2 | Expertise, Jack of All Trades | D6 | 2 | 5 | 3 | — | — | — | — | — | — | — | — |

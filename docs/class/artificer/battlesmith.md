@@ -34,23 +34,21 @@ Your tinkering has borne you a companion, a steel defender. It’s friendly to y
 
 At the end of a Long Rest, you can create a new Steel Defender if you have Smith’s Tools with you. If you already have a Defender from this feature, the first one immediately perishes. The Defender also perishes if you die.
 
-### Level 6: Arcane Jolt
+### Level 5: Extra Attack
 
-You've learned new ways to channel arcane energy to harm or heal. Once per turn when you hit a target with an attack, when a creature fails a save against your one of your spells, or your Steel Defender hits a target, you can expend an Ingenuity Point to channel magical energy through the strike to create one of the following effects:
+You can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+In addition, you can cast one of your Artificer cantrip that has the casting time of an action in place of those attack.
+
+### Level 9: Arcane Jolt
+
+You've learned new ways to channel arcane energy to harm or heal. Once per turn when you hit a target with an attack, when a creature fails a save against your one of your spells, or your Steel Defender hits a target, you can channel magical energy through the strike to create one of the following effects:
 
 ***Damaging Jolt.*** The target takes an extra 2d6 Force damage.
 
 ***Healing Jolt.*** Choose one creature or object you can see within 30 feet of the target. Healing energy flows into the chosen recipient, restoring 2d6 Hit Points to it.
 
-### Level 9: Defender Modifications
-
-You have learned to modify your Steel Defender, such that it can specialize its role on the battlefield. Whenever you finish a Long Rest, you can grant your Steel defender one of the following sets of benefits, provided you have Smith’s Tools in hand. The modification remains indefinitely, unless you exchange it for another one by using this feature again.
-
-***Forceful Rend.*** You make your Steel Defender a more threatening offensive force on the battlefield. The damage die of its Force Empowered Rend changes to 1d10, and when it hits a Large or smaller creature with it, the target must succeed on a Strength save against your spell save DC or have the Prone condition.
-
-***Mounting Support.*** You make your Steel Defender more suitable to ride as a mount. The Defender’s Speed increases by 10 feet, and you can use the Defender as a mount, even if your size is Medium. While you are mounted on your Defender, it acts as a Controlled Mount, meaning it acts on your Initiative. However, it is not restricted to the actions a controlled mount can take if you use your Bonus Action to command it, and it can use its Deflect Attack Reaction as normal without direction.
-
-***Vigilant Deflector.*** You make your Defender and even more protective of your allies on the battlefield. When a creature within 15 feet of it makes an attack, it can use its Reaction to Move up to 10 feet toward that creature without provoking Opportunity Attacks and immediately use Deflect Attack.
+You can use this energy a number of times equal to your Intelligence modifier (minimum of once), but you can do so no more than once on a turn. You regain all expended uses when you finish a long rest.
 
 ### Level 15: Improved Defender
 
@@ -87,10 +85,10 @@ Your Arcane Jolt and steel defender become more powerful:
 
 #### Actions (Requires Your Bonus Action)
 
-***Force-Empowered Rend.*** *Melee Weapon Attack:*  your spell attack modifier to hit, reach 5 ft., one target you can see. *Hit:* 1d8 + PB force damage.  
+***Force-Empowered Rend.*** *Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target you can see. *Hit:* 1d8 + PB force damage.  
 
 ***Repair (3/Day).*** The magical mechanisms inside the defender restore 2d8 + PB hit points to itself or to one construct or object within 5 feet of it.  
 
 #### Reactions
 
-***Deflect Attack.*** The defender imposes disadvantage on the attack roll of one creature it can see that is within 5 feet of it, provided the attack roll is against a creature other than the defender.
+***Deflect Attack.*** The defender imposes Disadvantage on the attack roll of one creature it can see that is within 5 feet of it, provided the attack roll is against a creature other than the defender.

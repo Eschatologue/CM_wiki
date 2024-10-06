@@ -43,7 +43,7 @@ As a Fighter, you gain the following class features when you reach the specified
 
 ##### Fighter Features
 
-| Level | Prof. Bonus | Class Features | Second Wind | Weapon Mastery |
+| Level | PB | Class Features | Second Wind | Weapon Mastery |
 |:-:|:-:|---|:-:|:-:|
 | 1 | +2 | Fighting Style, Second Wind, Weapon Mastery | 2 | 3 |
 | 2 | +2 | Action Surge (one use), Tactical Mind | 2 | 3 |

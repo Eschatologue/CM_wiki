@@ -47,7 +47,7 @@ As a Monk, you gain the following class features when you reach the specified Mo
 
 ##### Monk Features
 
-| Level |  Prof. Bonus | Class Features | Martial Arts | Focus Points | Unarmoured Movement |
+| Level |  PB | Class Features | Martial Arts | Focus Points | Unarmoured Movement |
 |:-:|:-:|---|:-:|:-:|:-:|
 | 1 | +2 | Martial Arts, Unarmoured Defense | 1d6 | — | — |
 | 2 | +2 | Monk’s Focus, Unarmoured Movement, Uncanny Metabolism | 1d6 | 2 | +10 ft. |

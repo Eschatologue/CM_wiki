@@ -1,8 +1,8 @@
 ---
-icon: class/artificer
+icon: class/Artificer
 ---
 
-:class-artificer:{ .xxxxl }
+:class-Artificer:{ .xxxxl }
 
 # The Artificer
 
@@ -19,9 +19,9 @@ icon: class/artificer
 | **Armour Training** | Light and Medium armour and Shields |
 | **Starting Equipment** | Choose A or B: (A) Chain Shirt, Shield, a Simple weapon of your choice, Thieves’ Tools, Tinker’s Tools, Scholar’s Pack and 3 GP or (B) 180 GP |
 
-Masters of invention, artificers use ingenuity and magic to unlock extraordinary capabilities in objects. They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions. You can find everything you need to play one of these inventors in the next few sections. Artificers use a variety of tools to channel their arcane power. To cast a spell, an artificer might use alchemist's supplies to create a potent elixir, calligrapher's supplies to inscribe a sigil of power, or tinker's tools to craft a temporary charm. The magic of artificers is tied to their tools and their talents, and few other characters can produce the right tool for a job as well as an artificer.
+Masters of invention, Artificers use ingenuity and magic to unlock extraordinary capabilities in objects. They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions. You can find everything you need to play one of these inventors in the next few sections. Artificers use a variety of tools to channel their arcane power. To cast a spell, an Artificer might use alchemist's supplies to create a potent elixir, calligrapher's supplies to inscribe a sigil of power, or tinker's tools to craft a temporary charm. The magic of Artificers is tied to their tools and their talents, and few other characters can produce the right tool for a job as well as an Artificer.
 
-Masters of unlocking magic in everyday objects, artificers are supreme inventors. They see magic as a complex system waiting to be decoded and controlled. Artificers use tools to channel arcane power, crafting magical objects. To cast a spell, an artificer could use alchemist's supplies to create a potent elixir, calligrapher's supplies to inscribe a sigil of power on an ally's armour, or tinker's tools to craft a temporary charm. The magic of artificers is tied to their tools and their talents.
+Masters of unlocking magic in everyday objects, Artificers are supreme inventors. They see magic as a complex system waiting to be decoded and controlled. Artificers use tools to channel arcane power, crafting magical objects. To cast a spell, an Artificer could use alchemist's supplies to create a potent elixir, calligrapher's supplies to inscribe a sigil of power on an ally's armour, or tinker's tools to craft a temporary charm. The magic of Artificers is tied to their tools and their talents.
 
 ## Becoming a Artificer...
 
@@ -35,7 +35,7 @@ Masters of unlocking magic in everyday objects, artificers are supreme inventors
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
 
 - Gain the following traits from the Core Druid Traits table: Hit Point Die, proficiency with Thieve’s Tools and Tinker’s Tools, and training with Light and Medium armour and Shields.
-- Gain the Artificer’s level 1 features, which are listed in the Artificer Features table. See the Multiclassing rules in Chapter 2 of the Player’s Handbook to determine your available spell slots. You add half your Artificer levels (rounded up) to determine your spell slots, like Paladins and Rangers.
+- Gain the Artificer's level 1 features, which are listed in the Artificer Features table. You add half your Artificer levels (rounded up) to determine your spell slots.
 
 ## Artificer Class Features
 
@@ -43,32 +43,38 @@ As a Artificer, you gain the following class features when you reach the specifi
 
 ##### Artificer Feature Table
 
-| Level | Prof. Bonus | Features | Ingenuity Points | Infusions Known (Active) | Cantrips Known | Prepared Spells | I | II | III | IV | V |
-|:-:|:-:|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 1 | +2 | Spellcasting, Arcane Tinkerer, Artificer’s Ingenuity | 2 | - | 2 | 2 | 2 | - | - | - | - |
-| 2 | +2 | Infuse Item, Tinkerer’s Talent | 2 | 4 (2) | 2 | 3 | 2 | - | - | - | - |
-| 3 | +2 | Artificer Subclass, Right Tool for the Job | 4 | 4 (2) | 2 | 4 | 3 | - | - | - | - |
-| 4 | +2 | Ability Score Improvement | 4 | 4 (2) | 2 | 5 | 3 | - | - | - | - |
-| 5 | +3 | Honed Talent | 4 | 4 (2) | 2 | 6 | 4 | 2 | - | - | - |
-| 6 | +3 | Subclass Feature, Tool Expertise | 6 | 6 (3) | 2 | 6 | 4 | 2 | - | - | - |
-| 7 | +3 | Flash of Genius Improvement | 6 | 6 (3) | 2 | 7 | 4 | 3 | - | - | - |
-| 8 | +3 | Ability Score Improvement | 6 | 6 (3) | 2 | 7 | 4 | 3 | - | - | - |
-| 9 | +4 | Subclass Feature | 8 | 6 (3) | 2 | 8 | 4 | 3 | 2 | - | - |
-| 10 | +4 | Magic Item Adept, Tinkerer’s Talent Improvement | 8 | 8 (4) | 3 | 8 | 4 | 3 | 2 | - | - |
-| 11 | +4 | Spell Storing Item | 8 | 8 (4) | 3 | 10 | 4 | 3 | 3 | - | - |
-| 12 | +4 | Ability Score Improvement | 10 | 8 (4) | 3 | 10 | 4 | 3 | 3 | - | - |
-| 13 | +5 | Artisan’s Knack | 10 | 8 (4) | 3 | 11 | 4 | 3 | 3 | 1 | - |
-| 14 | +5 | Magic Item Savant | 10 | 10 (5) | 4 | 11 | 4 | 3 | 3 | 1 | - |
-| 15 | +5 | Subclass Feature | 11 | 10 (5) | 4 | 12 | 4 | 3 | 3 | 2 | - |
-| 16 | +5 | Ability Score Improvement | 11 | 10 (5) | 4 | 12 | 4 | 3 | 3 | 2 | - |
-| 17 | +6 | Synergistic Infusions | 11 | 10 (5) | 4 | 14 | 4 | 3 | 3 | 3 | 1 |
-| 18 | +6 | Magic Item Master | 12 | 12 (6) | 4 | 14 | 4 | 3 | 3 | 3 | 1 |
-| 19 | +6 | Epic Boon | 12 | 12 (6) | 4 | 15 | 4 | 3 | 3 | 3 | 2 |
-| 20 | +6 | Soul of Artifice | 12 | 12 (6) | 4 | 15 | 4 | 3 | 3 | 3 | 2 |
+| Level | Proficiency Bonus | Features | Infusions Known (Infused Items) | Cantrips Known | Spells Prepared | I | II | III | IV | V |
+|:-:|:-:|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1 | +2 | Arcane Tinkerer, Spellcasting | - | 2 | 2 | 2 | - | - | - | - |
+| 2 | +2 | Infuse Item | 4 (2) | 2 | 3 | 2 | - | - | - | - |
+| 3 | +2 | Artificer Specialist, The Right Tool for the Job | 4 (2) | 2 | 4 | 3 | - | - | - | - |
+| 4 | +2 | Ability Score Improvement | 4 (2) | 2 | 5 | 3 | - | - | - | - |
+| 5 | +3 | Artificer Specialist feature | 4 (2) | 2 | 6 | 4 | 2 | - | - | - |
+| 6 | +3 | Tool Expertise | 6 (3) | 2 | 6 | 4 | 2 | - | - | - |
+| 7 | +3 | Flash of Genius | 6 (3) | 2 | 7 | 4 | 3 | - | - | - |
+| 8 | +3 | Ability Score Improvement | 6 (3) | 2 | 7 | 4 | 3 | - | - | - |
+| 9 | +4 | Artificer Specialist feature | 6 (3) | 2 | 9 | 4 | 3 | 2 | - | - |
+| 10 | +4 | Magic Item Adept | 8 (4) | 3 | 9 | 4 | 3 | 2 | - | - |
+| 11 | +4 | Spell-Storing Item | 8 (4) | 3 | 10 | 4 | 3 | 3 | - | - |
+| 12 | +4 | Ability Score Improvement | 8 (4) | 3 | 10 | 4 | 3 | 3 | - | - |
+| 13 | +5 | - | 8 (4) | 3 | 11 | 4 | 3 | 3 | 1 | - |
+| 14 | +5 | Magic Item Savant | 10 (5) | 4 | 11 | 4 | 3 | 3 | 1 | - |
+| 15 | +5 | Artificer Specialist feature | 10 (5) | 4 | 12 | 4 | 3 | 3 | 2 | - |
+| 16 | +5 | Ability Score Improvement | 10 (5) | 4 | 12 | 4 | 3 | 3 | 2 | - |
+| 17 | +6 | - | 10 (5) | 4 | 14 | 4 | 3 | 3 | 3 | 1 |
+| 18 | +6 | Magic Item Master | 12 (6) | 4 | 14 | 4 | 3 | 3 | 3 | 1 |
+| 19 | +6 | Ability Score Improvement | 12 (6) | 4 | 15 | 4 | 3 | 3 | 3 | 2 |
+| 20 | +6 | Soul of Artifice | 12 (6) | 4 | 15 | 4 | 3 | 3 | 3 | 2 |
+
+### Level 1: Arcane Tinkerer
+
+Your knack for tinkering has taught you to store minor magical effects in mundane objects. You know the *[Magical Tinkering](../../spells/description/m.md#magical-tinkering)* cantrip, which doesn’t count against the number of cantrips you know.
+
+Further, whenever you make an ability check with Tinker’s Tools, you can use your Intelligence as the ability, instead of Dexterity.
 
 ### Level 1: Spellcasting
 
-You’ve studied the workings of magic and how to cast spells, channeling the magic through objects. To observers, you don’t appear to be casting spells in a conventional way; you appear to produce wonders from mundane items and outlandish inventions. See chapter 7 of the Player’s Handbook for the rules on spellcasting. The information below details how you use those rules with Artificer spells, which appear in the Artificer spell list later in this class's description.
+You’ve studied the workings of magic and how to cast spells, channeling the magic through objects. To observers, you don’t appear to be casting spells in a conventional way; you appear to produce wonders from mundane items and outlandish inventions. The information below details how you use those rules with Artificer spells, which appear in the Artificer spell list later in this class's description.
 
 #### Cantrips 
 
@@ -104,55 +110,33 @@ You produce your Artificer spell effects through your tools. You must have a spe
 
 After you gain the Infuse Item feature at level 2, you can also use any item bearing one of your infusions as a spellcasting focus.
 
-### Level 1: Arcane Tinkerer
-
-Your knack for tinkering has taught you to store minor magical effects in mundane objects. You know the *[Magical Tinkering](../../spells/description/m.md#magical-tinkering)* cantrip, which doesn’t count against the number of cantrips you know.
-
-Further, whenever you make an ability check with Tinker’s Tools, you can use your Intelligence as the ability, instead of Dexterity.
-
-### Level 1: Artificer’s Ingenuity
-
-Your prowess with tinkering and technology has provided you with a knack for solving problems, which manifests as a pool of Ingenuity Points.
-
-***Number of Points.*** You have a number of Ingenuity Points as shown in the Ingenuity column of the Artificer Features table, and you regain all expended points when you finish a Long Rest. When you finish a Short Rest, you can regain up to half your maximum amount (rounded down). You then cannot do so again until you finish a Long Rest.
-
-***Flash of Genius.*** When you or a creature within 30 feet of you fails an ability check, you can use your Reaction to expend one Ingenuity Point and add your Intelligence modifier to the roll, potentially turning it into a success.
-
-### Level 2: Tinkerer’s Talent
-
-You have developed means of protecting yourself in a fight. Select one of the following two Talents:
-
-#### Weaponsmith
- 
-You prefer to use equipment to protect yourself.
-
-- ***Extra Proficiencies.*** You have proficiency with Martial weapons.
-
-- ***Intelligent Attacks.*** When you make an attack with a magic weapon with which you have proficiency, you can choose to use your Intelligence modifier for the attack and damage rolls, instead of Strength or Dexterity.
-
-- ***Weapon Mastery.*** Whenever you finish a Long Rest, you can touch a weapon with which you have proficiency. Until you next finish a Long Rest, you can use the Mastery property of that weapon. Starting at level 10, you can touch two weapons when you finish a Long Rest and gain their Mastery Properties, instead of one.
-
-#### Arcanosmith
-
-You favor focussing on your spellcasting to protect you.
-
-- ***Extra Proficiency.*** Your devotion to learning arcane magic grants you proficiency with the Arcana skill. If you already have this proficiency, you instead gain Expertise.
-
-- ***Extra Cantrip.*** You know one extra cantrip from the Artificer spell list. You gain another extra Artificer cantrip of your choice at level 10.
-
-- ***Spell Recovery.*** Whenever you finish a Short Rest, you can regain one expended spell slot of your choice. The level of the spell slot cannot exceed your highest spell slot level as shown on the Artificer Features table, even if you are a multiclassed character.
-
-!!! Note "Flavoring Weapon Mastery"
-
-    While a Fighter typically uses the Mastery property of a weapon through extensive training to use that weapon to its full potential, a Weaponsmith Artificer is more likely to have fitted their weapon with modifications or arcane technology to achieve the same effect. For example, they might fit a Longbow with an arcane freezing agent to produce the effects of the Slow Mastery property.
-
 ### Level 2: Infuse Item
 
-You gain the ability to imbue mundane items with certain magical infusions. The magic items you create with this feature are effectively prototypes of permanent items.
+You've gained the ability to imbue mundane items with certain magical infusions, turning those objects into magic items.
 
 #### Infusions Known
 
-When you gain this feature, pick four Infusions to learn, choosing from the “[Artificer Infusions](../../character-creation/option/artificer-infusion.md)”. You learn additional Infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the Artificer Features table.
+When you gain this feature, pick four Artificer Infusions to learn. You learn additional infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the Artificer table.
+
+Whenever you gain a level in this class, you can replace one of the Artificer infusions you learned with a new one.
+
+??? tip "Artificer Infusions"
+
+    Artificers have invented numerous magical infusions, extraordinary processes that rapidly create magic items. To many, Artificers seem like wonderworkers, accomplishing in hours what others need weeks to complete.
+
+    The description of each of the following infusions details the type of item that can receive it, along with whether the resulting magic item requires attunement.
+
+    Some infusions specify a minimum Artificer level. You can't learn such an infusion until you are at least that level.
+
+    Unless an infusion's description says otherwise, you can't learn an infusion more than once.
+
+#### Infusing an Item
+
+You gain the ability to imbue mundane items with certain magical infusions. The magic items you create with this feature are effectively prototypes of permanent items.
+
+#### Infusions Known 
+
+When you gain this feature, pick four Infusions to learn, choosing from the “Artificer Infusions” section in Tasha’s Cauldron of Everything. You learn additional Infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the Artificer Features table.
 
 Whenever you gain a level in this class, you can replace one of the Infusions you learned with a new one.
 
@@ -168,69 +152,46 @@ If an Infusion ends on an item that contains other things, like a Bag of Holding
 
 ### Level 3: Artificer Subclass
 
-You gain an Artificer subclass of your choice. A subclass is a specialization that grants you special abilities at certain Artificer levels. For the rest of your career, you gain each of your subclass’s features that are of your Artificer level and lower.
+You gain an Artificer subclass of your choice. A subclass is a specialization that grants you features at certain Artificer levels. For the rest of your career, you gain each of your subclass’s features that are of your Artificer level or lower.
 
-### Level 3: Right Tool for the Job
+### Level 3: The Right Tool for the Job
 
-You learn how to produce exactly the tool you need: with Thieves’ Tools or Artisan’s Tools, you can magically create one set of Artisan’s Tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a Short or Long Rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.
+You've learned how to produce exactly the tool you need: with Thieves' Tools or Artisan's Tools in hand, you can magically create one set of Artisan's Tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a Short or Long Rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.
 
 ### Level 4: Ability Score Improvement
 
-You gain the Ability Score Improvement feat (see chapter 5) or another feat of your choice for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.
-
-### Level 5: Honed Talent.
-
-You gain a benefit depending on the Artificer’s Talent you chose at level 1:
-
-***Weaponsmith.*** Whenever you take the Attack action on your turn, you can attack twice, rather than once.
-
-***Arcanosmith.*** When you cast an Artificer spell, you can add your Intelligence modifier (minimum +1) to one of the spell’s damage rolls.
+You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Artificer levels 5, 9, and 15.
 
 ### Level 6: Tool Expertise
 
-Whenever you make an ability check that uses your proficiency with a Tool, you have Expertise with that check.
+Your proficiency bonus is now doubled for any ability check you make that uses your proficiency with a tool.
 
-### Level 7: Flash of Genius Improvement
+### Level 7: Flash of Genius
 
-You can now use your Flash of Genius Reaction on failed saving throws, as well as ability checks, following all the same rules.
+You've gained the ability to come up with solutions under pressure. When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your reaction to add your Intelligence modifier to the roll.
+
+You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest.
 
 ### Level 10: Magic Item Adept
 
-You have achieved a profound understanding of how to use and make magic items:
+You've achieved a profound understanding of how to use and make magic items:
 
-***Four Attunements.*** You can attune to up to four magic items at once.
+You can attune to up to four magic items at once.
+If you craft a magic item with a rarity of common or uncommon, it takes you a quarter of the normal time, and it costs you half as much of the usual gold.
 
-***Quick Craft.*** If you craft a magic item with a rarity of common or uncommon, it takes you a quarter of the normal time, and it costs you half as much of the usual gold.
+### Level 11: Spell-Storing Item
 
-### Level 11: Spell Storing Item
+You can now store a spell in an object. Whenever you finish a long rest, you can touch one simple or martial weapon or one item that you can use as a spellcasting focus, and you store a spell in it, choosing a level 1 or 2 spell from the Artificer spell list that requires an Action to cast (you needn't have it prepared).
 
-You learn how to store a spell in an object. Whenever you finish a Long Rest, you can touch one Simple or Martial weapon or one item that you can use as a spellcasting focus, and you store a spell in it, choosing a level 1 or 2 spell from the Artificer spell list that has an action casting time (you needn’t have it prepared).
-
-While holding the object, a creature can take the Magic action to produce the spell’s effect from it, using your spellcasting ability modifier. If the spell requires Concentration, the creature must Concentrate. The spell stays in the object until it’s been used a number of times equal to twice your Intelligence modifier (minimum of twice) or until you use this feature again to store a spell in an object.
-
-### Level 13: Artisan’s Knack  
-
-Your magical connection to equipment allows you to utilize your gear extremely swiftly when the need arises. As a Bonus Action, you can use the Utilize action for a set of tools with which you’re proficient, or the Magic action to activate a magic item
+While holding the object, a creature can take an action to produce the spell's effect from it, using your spellcasting ability modifier. If the spell requires concentration, the creature must concentrate. The spell stays in the object until it's been used a number of times equal to twice your Intelligence modifier (minimum of twice) or until you use this feature again to store a spell in an object.
 
 ### Level 14: Magic Item Savant
 
-Your skill with magic items has only deepened, granting you the following benefits:
+Your skill with magic items deepens:
 
-***Five Attunements.*** You can attune to up to five magic items at once.
+***Five Magic Items.*** You can attune to up to five magic items at once.
 
-***Omnitalented.*** You ignore all class, species, spell, and level requirements on attuning to or using a magic item.
-
-### Level 17: Synergistic Infusions
-
-Your mastery over artifice allows you to mix magics and apply your Infusions to items already harboring magic.
-
-***Magic items.*** A magic item can bear one of your Infusions, unless it is an artifact.  
-
-***Mundane items.*** A nonmagical item now can bear up to two of your Infusions at once. You cannot apply the same Infusion to an object multiple times.
-
-***Numerical Bonuses.*** If both the magic item and the infusion (or both infusions) provide a bonus to attack and damage rolls, or to AC, add the bonuses together, but the combined bonus is reduced to +3 if it would otherwise exceed it.
-
-***Attunement.*** If both the magic item and the infusion (or both infusions) require attunement, you must attune to each set of benefits separately.
+***Attunement Master.*** You ignore all class, race, spell, and level requirements on attuning to or using a magic item.
 
 ### Level 18: Magic Item Master
 
@@ -238,15 +199,11 @@ Your mastery over magic items reaches its zenith.
 
 ***Six Attunements.*** You can attune to up to six magic items at once.
 
-### Level 19: Epic Boon
-
-You gain an Epic Boon feat (see chapter 5 of the Player’s Handbook) or another feat of your choice for which you qualify. Boon of Spell Recall is recommended.
-
 ### Level 20: Soul of Artifice
 
 You have developed a mystical connection to your magic items, which you can draw on for protection:
 
-***Armoured Soul.*** You gain a +1 bonus to all saving throws per magic item you are currently attuned to.
+***Armored Soul.*** You gain a +1 bonus to all saving throws per magic item you are currently attuned to.
 
 ***Infusion Contingency.*** If you’re reduced to 0 Hit Points but not killed out-right, you can use your Reaction to end one of your Infusions, causing you to drop to 1 hit point instead of 0, and you instantly regain 30 Hit Points.
 

@@ -43,7 +43,7 @@ As a Barbarian, you gain the following class features when you reach the specifi
 
 ##### Barbarian Features
 
-| Level | Prof. Bonus | Class Features | Rages | Rage Damage | Weapon Mastery |
+| Level | PB | Class Features | Rages | Rage Damage | Weapon Mastery |
 |:---:|:---:|:---|:---:|:---:|:---:|
 | 1 | +2 | Rage, Unarmoured Defense, Weapon Mastery | 2 | +2 | 2 |
 | 2 | +2 | Danger Sense, Reckless Attack | 2 | +2 | 2 |

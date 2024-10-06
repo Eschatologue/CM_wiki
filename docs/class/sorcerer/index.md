@@ -44,7 +44,7 @@ As a Sorcerer, you gain the following class features when you reach the specifie
 
 ##### Sorcerer Features
 
-| Level | Prof. Bonus | Class Features | Sorcery Points | Cantrips | Prepared Spells | I | II | III | IV | V | VI | VII | VIII | IX |
+| Level | PB | Class Features | Sorcery Points | Cantrips | Prepared Spells | I | II | III | IV | V | VI | VII | VIII | IX |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | +2 | Spellcasting, Innate Sorcery | — | 4 | 2 | 2 | — | — | — | — | — | — | — | — |
 | 2 | +2 | Font of Magic, Metamagic | 2 | 4 | 4 | 3 | — | — | — | — | — | — | — | — |
