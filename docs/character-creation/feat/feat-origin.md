@@ -174,38 +174,23 @@ These Origin feats are homebrew.
 
 ---
 
-### Artifice Adept
+### Artifice Initiate
 
-*Origin Feat*
+*Origin Feat (Prerequisites: Intelligence of 13 or higher)*
 
-You have studied how to perform minor augmentation to your equipment.
+You have spent many days tinkering with various inventions, tool sets, and arcane forces. You gain the following benefits:
+
+**Tool Proficiency**  
+You gain proficiency with Tinker's Tools. If you are already proficient, then whenever you make an ability check with tinker's tools you treat a d20 roll of 9 or lower as a 10.
 
 **Infusions**  
-You learn one Artificer Infusion option of your choice from the Artificer class that does not have a level prerequisite. Whenever you gain a level, you can replace the Infusion with another one from the Artificer class.
-
-**Repeatable**  
-Choose a different Infusion each time.
-
----
-
-### Artificer Initiate
-
-*Origin Feat*
-
-You've learned some of an artificer's inventiveness.
-
-**Artificer Spells**  
-
-You learn one cantrip of your choice from the Artificer spell list, and you learn one level 1 spell of your choice from that list. You can cast this feat's level 1 spell without a Spell Slot, and you must finish a Long Rest before you can cast it in this way again. You can also cast the spell using any Spell Slots you have. Intelligence is your spellcasting ability for these spells. 
-
-**Artifice Magic**  
-You gain Proficiency with one type of Artisan's Tools of your choice, and you can use that type of tool as a spellcasting focus for any spell you cast that uses Intelligence as its spellcasting ability.
+You learn one Infusion of your choice from those available to the Artificer class. At the end of each long rest, you can infuse this Infusion into one object, following the Infusion rules outlined by the Artificer class.
 
 ---
 
 ### Burglar
 
-*Origin Feat*
+*Origin Feat (Prerequisites: Dexterity of 13 or higher)*
 
 You pride yourself on your quickness and your close study of certain clandestine activities. You gain the following benefits:
 
@@ -239,7 +224,7 @@ With 1 minute of work and raw materials, you can create a wooden barrier no more
 
 ### Eldritch Initiate
 
-*Origin Feat (Prerequisites: Spellcasting/Pact Magic feature)*
+*Origin Feat (Prerequisites: Spellcasting or Pact Magic feature)*
 
 You have studied occult lore and perhaps, forbidden knowledge.
 
@@ -330,10 +315,6 @@ You gain two Sorcery Points which you can expend to cast either of the level 1 s
 
 ---
 
-!!! danger "Campaign Restriction"
-
-    This feat is tailored to Crown & Misery campaign. Ask the respective DM if you want to use in other campaign.
-
 ### The Dominion's Armaments
 
 *Origin Feat (Prerequisite: Dexterity or Intelligence 13+, English Language Proficiency)*  
@@ -345,6 +326,10 @@ You gain proficiency with Short-Arms. If you already has proficiency with Short-
 
 **Efficient Augmentation**  
 You gain Proficiency with Gunsmith's Tool. If you are already proficient with it, your Firearm Augmentation Limit is increased by half of your proficiency bonus.
+
+!!! danger "Campaign Restriction"
+
+    This feat is tailored to Crown & Misery campaign. Ask the respective DM if you want to use in other campaign.
 
 ---
 

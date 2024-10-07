@@ -322,7 +322,7 @@ Until the spell ends, your attacks with weapons deal an extra 1d4 Radiant damage
 ---
 
 ### Divine Smite
-*Level 1 Transmutation (Paladin)*
+*Level 1 Evocation (Paladin)*
 
 **Casting Time:** Bonus action, Which you take immediately after hitting a target with a Melee weapon or an Unarmed Strike  
 **Range:** Self  

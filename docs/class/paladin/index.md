@@ -200,74 +200,74 @@ This section presents the Paladin spell list. The spells are organized by spell 
 
 | Spell | School | Special |
 |---|---|:-:|
-| **Bless** | Enchantment | C, M |
-| **Command** | Enchantment | — |
-| **Compelled Duel** | Enchantment | C |
-| **Cure Wounds** | Abjuration | — |
-| **Detect Evil and Good** | Divination | C |
-| **Detect Magic** | Divination | C, R |
-| **Detect Poison and Disease** | Divination | C, R |
-| **Divine Favor** | Transmutation | — |
-| **Divine Smite** | Evocation | — |
-| **Heroism** | Enchantment | C |
-| **Protection from Evil and Good** | Abjuration | C, M |
-| **Purify Food and Drink** | Transmutation | R |
-| **Searing Smite** | Evocation | — |
-| **Shield of Faith** | Abjuration | C |
-| **Thunderous Smite** | Evocation | — |
-| **Wrathful Smite** | Necromancy | — |
+| *Bless* | Enchantment | C, M |
+| *Command* | Enchantment | — |
+| *Compelled Duel* | Enchantment | C |
+| *Cure Wounds* | Abjuration | — |
+| *Detect Evil and Good* | Divination | C |
+| *Detect Magic* | Divination | C, R |
+| *Detect Poison and Disease* | Divination | C, R |
+| *Divine Favor* | Transmutation | — |
+| *Divine Smite* | Evocation | — |
+| *Heroism* | Enchantment | C |
+| *Protection from Evil and Good* | Abjuration | C, M |
+| *Purify Food and Drink* | Transmutation | R |
+| *Searing Smite* | Evocation | — |
+| *Shield of Faith* | Abjuration | C |
+| *Thunderous Smite* | Evocation | — |
+| *Wrathful Smite* | Necromancy | — |
 
 ##### Level 2 Paladin Spells
 
 | Spell | School | Special |
 |---|---|:-:|
-| **Aid** | Abjuration | — |
-| **Find Steed** | Conjuration | — |
-| **Gentle Repose** | Necromancy | R, M |
-| **Lesser Restoration** | Abjuration | — |
-| **Locate Object** | Divination | C |
-| **Magic Weapon** | Transmutation | — |
-| **Prayer of Healing** | Abjuration | — |
-| **Protection from Poison** | Abjuration | — |
-| **Shining Smite** | Transmutation | C |
-| **Warding Bond** | Abjuration | M |
-| **Zone of Truth** | Enchantment | — |
+| *Aid* | Abjuration | — |
+| *Find Steed* | Conjuration | — |
+| *Gentle Repose* | Necromancy | R, M |
+| *Lesser Restoration* | Abjuration | — |
+| *Locate Object* | Divination | C |
+| *Magic Weapon* | Transmutation | — |
+| *Prayer of Healing* | Abjuration | — |
+| *Protection from Poison* | Abjuration | — |
+| *Shining Smite* | Transmutation | C |
+| *Warding Bond* | Abjuration | M |
+| *Zone of Truth* | Enchantment | — |
 
 ##### Level 3 Paladin Spells
 
 | Spell | School | Special |
 |---|---|:-:|
-| **Aura of Vitality** | Abjuration | C |
-| **Blinding Smite** | Evocation | — |
-| **Create Food and Water** | Conjuration | — |
-| **Crusader’s Mantle** | Transmutation | C |
-| **Daylight** | Evocation | — |
-| **Dispel Magic** | Abjuration | — |
-| **Elemental Weapon** | Transmutation | C |
-| **Magic Circle** | Abjuration | M |
-| **Remove Curse** | Abjuration | — |
-| **Revivify** | Necromancy | M |
+| *Aura of Vitality* | Abjuration | C |
+| *Blinding Smite* | Evocation | — |
+| *Create Food and Water* | Conjuration | — |
+| *Crusader’s Mantle* | Transmutation | C |
+| *Daylight* | Evocation | — |
+| *Dispel Magic* | Abjuration | — |
+| *Elemental Weapon* | Transmutation | C |
+| *Magic Circle* | Abjuration | M |
+| *Remove Curse* | Abjuration | — |
+| *Revivify* | Necromancy | M |
 
 ##### Level 4 Paladin Spells
 
 | Spell | School | Special |
 |---|---|:-:|
-| **Aura of Life** | Abjuration | C |
-| **Aura of Purity** | Abjuration | C |
-| **Banishment** | Abjuration | C |
-| **Death Ward** | Abjuration | — |
-| **Locate Creature** | Divination | C |
-| **Staggering Smite** | Enchantment | — |
+| *Aura of Life* | Abjuration | C |
+| *Aura of Purity* | Abjuration | C |
+| *Banishment* | Abjuration | C |
+| *Death Ward* | Abjuration | — |
+| *Locate Creature* | Divination | C |
+| *Staggering Smite* | Enchantment | — |
 
 ##### Level  Paladin Spells
 
 | Spell | School | Special |
 |---|---|:-:|
-| **Banishing Smite** | Conjuration | C |
-| **Circle of Power** | Abjuration | C |
-| **Destructive Wave** | Evocation | — |
-| **Dispel Evil and Good** | Abjuration | C |
-| **Geas** | Enchantment | — |
-| **Greater Restoration** | Abjuration | M |
-| **Raise Dead** | Necromancy | M |
-| **Summon Celestial** | Conjuration | C, M |
+| *Banishing Smite* | Conjuration | C |
+| *Circle of Power* | Abjuration | C |
+| *Destructive Wave* | Evocation | — |
+| *Dispel Evil and Good* | Abjuration | C |
+| *Geas* | Enchantment | — |
+| *Greater Restoration* | Abjuration | M |
+| *Raise Dead* | Necromancy | M |
+| *Summon Celestial* | Conjuration | C, M |
