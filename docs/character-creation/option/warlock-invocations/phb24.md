@@ -1,4 +1,4 @@
-# Core Rulesets Invocations
+# Core Invocations
 
 This page contains a list of all Eldritch Invocations from the 2024 Player's Handbook.
 

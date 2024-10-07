@@ -1,4 +1,4 @@
-# 2024 Player's Handbook Metamagic
+# Core Metamagic
 
 The list below contains Metamagic available to the 2024 PHB.
 

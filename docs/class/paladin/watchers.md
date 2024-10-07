@@ -1,6 +1,6 @@
 # Oath of the Watchers
 
-> *Defend the Material Plane from Invading Forces - Written by Spaghetti0*
+> *Defend the Material Plane from Invading Forces*
 
 The Oath of the Watchers binds Paladins to protect mortal realms from the predations of extraplanar creatures, many of which can lay waste to mortal soldiers. Thus, the Watchers hone their minds, spirits, and bodies to be the ultimate weapons against such threats.
 
@@ -10,6 +10,8 @@ These Paladins share the following tenets:
 - Be ever alert for the corruption of invading forces. 
 - Never accept gifts or favors from fiends or those who truck with them. 
 - Keep your blade sharp and your mind keen with strict discipline
+
+> Written by Spaghetti0
 
 ### Level 3: Oath Spells
 

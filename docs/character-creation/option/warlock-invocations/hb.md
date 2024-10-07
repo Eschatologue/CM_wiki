@@ -1,6 +1,4 @@
-# Crown & Misery Invocations
-
-This page contains a list of all Eldritch Invocations made for Crown & Misery.
+# Homebrew Invocations
 
 ---
 

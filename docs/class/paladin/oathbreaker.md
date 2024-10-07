@@ -1,12 +1,14 @@
 # Oathbreaker
 
-> *Forsake your Sacred Vow and Embrace Evil - Written by Shades the Mothman*
+> *Forsake your Sacred Vow and Embrace Evil*
 
 An oathbreaker is a paladin who breaks their sacred oaths to pursue some dark ambition or serve an evil power. Whatever light burned in the paladin's heart has been extinguished.
 
 Only darkness remains.
 
 Having forsaken their oath, Oathbreakers follow no tenets.
+
+> Written by Shades the Mothman
 
 ### Level 3: Oath Spells
 The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oathbreaker Spells table, you thereafter always have the listed spells prepared.

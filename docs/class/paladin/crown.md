@@ -1,6 +1,6 @@
 # Oath of the Crown
 
-> *Defend Civilization and Law from Tyranny *
+> *Defend Civilization and Law from Tyranny*
 
 The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the just laws that hold society together. 
 

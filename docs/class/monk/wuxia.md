@@ -1,20 +1,22 @@
-# Warrior of Wuxia
+# Way of the Wuxia
 
-> *Masterfully Mix Weapons with Martial Arts - Written by Laserllama - Adapted to 2024 PHB by Eschatologue*
+> *Masterfully Mix Weapons with Martial Arts*
 
 While all Monks are able to wield the weapons of their style to great effect, those who follow the Way of Wuxia dedicate their lives to complete mastery over a chosen few weapons. These warriors are known for their extreme focus and are always seeking progressively stronger warriors to challenge and test their skill with their chosen weapons of war.
+
+> Written by Laserllama - Adapted to 2024 PHB by Eschatologue
 
 ### Level 3: Wuxia's Artistry 
 
 You gain a set of Calligrapher’s Supplies and a set of Painter’s Supplies. You have proficiency with both of these.
 
-### Level 3: Way of the Wuxia
+### Level 3: Way of the Blade
 
 Your special martial arts training leads you to master the use of certain weapons.
 
 ***Wuxia Weapons.*** Choose one melee weapon and one ranged weapon which can be Simple or Martial weapon that lacks the :weapon-prop-heavy: **Heavy** or :weapon-prop-special: **Special** properties. The Longbow is also a valid choice.  
 
-You have proficiency with these weapons if you don't already have it and you can use its Mastery property. These weapons are monk weapons for you. When you finish a Long Rest, you can change each of your Wuxia weapons for a different weapon of your choice, following the criteria above. You can choose another weapon – either melee or ranged – to be a Wuxia weapon for you, following the criteria above, at levels 6, 11 and 17.
+You have proficiency with these weapons if you don't already have it and you can use its Mastery property. These weapons are monk weapons for you. When you finish a Long Rest, you can change each of your Wuxia weapons for a different weapon of your choice, following the criteria above. You can choose one more weapon – either melee or ranged – to be a Wuxia weapon for you, following the criteria above, at levels 6, 11 and 17.
 
 You also gain the following benefits:
 

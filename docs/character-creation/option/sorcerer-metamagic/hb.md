@@ -1,4 +1,4 @@
-## Crown & Misery Metamagic
+## Homebrew Metamagic
 
 The list below contains additional Metamagic available for Crown & Misery campaign. In Prison & Wyvern, ask the DM first.
 
