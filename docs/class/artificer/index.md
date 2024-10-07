@@ -2,7 +2,7 @@
 icon: class/artificer
 ---
 
-:class-Artificer:{ .xxxxl }
+:class-artificer:{ .xxxxl }
 
 # The Artificer
 
