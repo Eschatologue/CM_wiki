@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Life in Antares
 
 ## Biology

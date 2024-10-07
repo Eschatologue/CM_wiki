@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Warp Storms
 
 Warp Storms are a term used to describe the common and cataclysmic natural disasters in Antares.

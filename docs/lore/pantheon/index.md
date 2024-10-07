@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Antares Pantheon
 
 In Crown & Misery, beings we once referred to as 'Gods' are now relics of a bygone era when deities roamed the lands. All traces of these beings vanished after the First Warp Maelstorm. However, entities of immense power that govern the natural laws of Antares still remain. 

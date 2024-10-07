@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Entities
 
 Warp Entities is a collective term for the various extradimensional beings that roam the wilderness of Antares, as well as those influenced by these entities. Commonly referred to as aberrations, demons, or wraiths, the specific names vary across different nations and languages.

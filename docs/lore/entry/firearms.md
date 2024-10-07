@@ -2,7 +2,7 @@
 hide:
     - navigation
 search:
-    boost: 0.8
+  exclude: true
 ---
 > "Firearms... These weapon has changed the world, either for the better, or worse"
 

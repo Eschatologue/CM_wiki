@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Geopolitics and Geography
 
 In the present era, Antares is home to merely **six** surviving nations, leaving vast stretches of uncharted and unexplored territories beyond their borders. This charted expanse encompasses diverse landmasses, each characterized by distinct biomes and ecological patterns.

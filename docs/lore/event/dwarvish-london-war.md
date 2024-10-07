@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Dwarvish-London War
 
 **The Dwarvish-London War**, also referred to as **The Great War**, was an open conflict between the **Dominion of Albion** (London) and the **Republic of Myrkheim**. Emerging from territorial disputes following the collapse of the Elven Empire, the war saw the Republic of Myrkheim encountering an unexpected and formidable opponent, which concluded with a decisive victory for London, resulting in significant shifts in the power dynamics of the continent.

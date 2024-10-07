@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 > *“Oh the shattered one, oh the blemished one, grant us thy blessings and salvation of thy earth-shattering ivory lance” —* Unknown Priest of Entropy.
 
 # Profile

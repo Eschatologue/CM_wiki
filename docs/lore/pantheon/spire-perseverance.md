@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 > *“Here lies the foundation of the Earth and the Sky, the torch enlighten our souls against the Darkness. Hear the songs and cries of our ancestors, let our blood and their toils forge our future!”*  —a wood elf engineer, laying the foundations of “Irminsul” generator.
 
 # Profile

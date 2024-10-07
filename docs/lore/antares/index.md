@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Antares Continent
 
 The Crown and Misery campaign takes place in the post-apocalyptic, dystopian science fantasy continent of Antares. This super-continent is characterized by rugged landscapes, treacherous terrains, and ethereal beauty, presenting both awe-inspiring wonders and unforgiving challenges. The terrain varies dramatically, featuring towering mountain ranges, harsh and searing deserts, an eternal frozen wasteland, and deep, verdant forests, each beckoning wanderers to unravel their hidden mysteries.

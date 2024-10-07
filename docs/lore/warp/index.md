@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # The Warp
 
 The Warp is a malevolent force in Antares, producing dangerous phenomena and entities. Both a natural occurrence and an otherworldly influence, it manifests in ways that defy logic and reason. Though its ultimate purpose is unknown, the devastation it causes suggests it aims to drive the inhabitants of Antares to extinction.

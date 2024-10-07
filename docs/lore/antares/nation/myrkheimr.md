@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Myrkheim
 
 The **Federal Republic of Myrkheim**, commonly known as **Myrkheim**, is a bustling nation centered amidst the towering peaks and deep ravines of the Antares mountains. Primarily inhabited by dwarves, Myrkheim thrives as a center of mining and craftsmanship. Its architecture seamlessly merges with the rugged terrain, with cliffs transformed into formidable fortresses and bridges connecting different parts of the city.

@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Valinor
 
 The **State of Valinor**, commonly known as **Valinor**, is a city-state in the northernmost region of the Antares frozen wasteland. It stands as a luminous and fiery sanctuary amidst the vast expanse of snow. This nation predominantly comprises elves, many of whom were displaced refugees from The Great Forest and Mykrrheim, as well as political exiles seeking sanctuary.

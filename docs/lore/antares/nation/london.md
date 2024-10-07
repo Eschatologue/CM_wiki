@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Dominion of Albion
 
 The **Dominion of Albion**, officially called **Albion** and commonly known as **London**, is a country located in the northwest of Antares. It is the new beating heart of the renewed British Empire, nestled within a sprawling metropolis of steel edifices and gleaming glass thats what once a verdant forest claimed by the elves. London stands as a beacon of prosperity and military might, earning its place as one of Antares' most influential and formidable nations.

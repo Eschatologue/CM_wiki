@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # The Great Split
 
 **The Great Split** was a conflict between the **Tähdenvalta Empire** (Elven Empire) and the **Dominion of Albion** (London), marking the first major clash between raw arcane and natural power with industrialised warfare. The conflict primarily occurred in the vast forestlands that once stood as a symbol of the Elven Empire's natural dominion, now entirely under London's control. Characterised by unprecedented brutality, the war saw the employment of diverse and devastating tactics, ranging from necromancy, dark magic, and mind control to heavy artillery bombardments, mechanical war constructs, and chemical weapons. 
