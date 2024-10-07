@@ -330,6 +330,10 @@ You gain two Sorcery Points which you can expend to cast either of the level 1 s
 
 ---
 
+!!! danger "Campaign Restriction"
+
+    This feat is tailored to Crown & Misery campaign. Ask the respective DM if you want to use in other campaign.
+
 ### The Dominion's Armaments
 
 *Origin Feat (Prerequisite: Dexterity or Intelligence 13+, English Language Proficiency)*  

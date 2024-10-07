@@ -1,4 +1,4 @@
-# Forgewright
+# Forgewright Specialisation
 
 While most Artificers are primarily inventors who take up the life of adventure to test experiments in the field, those known as Forgewrights seek out battle for its own sake. Reveling in the thrill of combat, they combine their innovation with their skill as warriors to forge their signature Arcane Armament.
 
@@ -35,7 +35,9 @@ must be applied to your Arcane Armament.
 
 ### Level 5: Arcane Jolt
 
-You can channel pure destructive magic through your strikes. Once per turn when you hit with an Arcane Armament attack you can expend a spell slot to deal bonus Force damage to the target equal to 2d8 for a level 1 spell slot, plus 1d8 for each spell level higher than 1, up to a maximum of 6d8 damage.
+You can channel pure destructive magic through your strikes. Once per turn when you hit with an Arcane Armament attack you can expend a spell slot to deal bonus Force damage to the target. 
+
+This bonus damage 2d8 for a level 1 spell slot and it increases by 1d8 for each spell slot level above 1.
 
 ### Level 5: Extra Attack
 

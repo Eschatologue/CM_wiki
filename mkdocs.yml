@@ -87,10 +87,13 @@ nav:
       - Fighting Style: character-creation/feat/feat-fighting-style.md
     - Other Options & Features:
       - Artificer's Infusion: character-creation/option/artificer-infusion.md
-      - Metamagic: character-creation/option/metamagic.md
+      - Metamagic: 
+          - character-creation/option/sorcerer-metamagic/index.md
+          - PHB'24: character-creation/option/sorcerer-metamagic/phb24.md
+          - Homebrew: character-creation/option/sorcerer-metamagic/hb.md
       - Eldritch Invocations: 
           - character-creation/option/warlock-invocations/index.md
-          - Player's Handbook: character-creation/option/warlock-invocations/phb24.md
+          - PHB'24: character-creation/option/warlock-invocations/phb24.md
           - Supplemental: character-creation/option/warlock-invocations/supplemental.md
           - Homebrew: character-creation/option/warlock-invocations/hb.md
       - Combat Manoeuvre: character-creation/option/manoeuvre.md
@@ -198,6 +201,7 @@ nav:
         - Glory: class/paladin/glory.md
         - The Ancient: class/paladin/ancient.md
         - Vengeance: class/paladin/vengeance.md
+        - The Crown (HB): class/paladin/crown.md
         - Watchers (HB): class/paladin/watchers.md
         - Oathbreaker (HB): class/paladin/oathbreaker.md
     - Warrior Group:

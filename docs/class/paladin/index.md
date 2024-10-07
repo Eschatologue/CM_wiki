@@ -114,6 +114,12 @@ You gain a Fighting Style feat of your choice (see chapter 5 for feats). Instead
 
 You always have the Divine Smite spell prepared. In addition, you can cast it without expending a spell slot, but you must finish a Long Rest before you can cast it in this way again.
 
+### Level 2: Divine Smite (Optional)
+
+If you take this feature, you must forgo the Paladin's Smite feature from level 2 and the *Divine Smite* spell is removed from your spell list.
+
+When you hit a creature with a melee weapon attack or damage with an Unarmed Strike, you can expend one spell slot to deal Radiant damage to the target, in addition to the weapon's damage. The extra damage is 2d8 for a level 1 spell slot and it increases by 1d8 for each spell slot level above 1, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend, to a maximum of 6d8.
+
 ### Level 3: Channel Divinity
 
 You can channel divine energy directly from the Outer Planes, using that energy to fuel magical effects. You start with one such effect: Divine Sense, which is described below. Other Paladin features give additional Channel Divinity effect options. Each time you use this Channel Divinity, you choose which effect to create from among those you have from this class.

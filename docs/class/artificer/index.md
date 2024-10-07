@@ -164,7 +164,7 @@ You've learned how to produce exactly the tool you need: with Thieves' Tools or 
 
 ### Level 4: Ability Score Improvement
 
-You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Artificer levels 5, 9, and 15.
+You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Artificer levels 8, 12, 16, and 19.
 
 ### Level 6: Tool Expertise
 

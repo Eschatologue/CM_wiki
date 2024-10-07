@@ -810,6 +810,23 @@ As a Bonus Action, you can choose to benefit from the Fighting Style feat you ga
 
 ---
 
+### Metamagic Adept
+
+*General Feat (Prerequisite: Spellcasting or Pact Magic Feature, or [Sorcerous Spark](feat-origin.md#sorcerous-spark))*
+
+You've learned how to exert your will on your spells to alter how they function:
+
+**Ability Score Increase**  
+Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
+ 
+**Two Metamagic**  
+You learn two Metamagic options of your choice. You can use only one Metamagic option on a spell when you cast it, unless the option says otherwise. Whenever you reach a level that grants the Ability Score Improvement feature, you can replace one of these Metamagic options with another one.
+
+**Two Sorcery Points**  
+You gain 2 sorcery points to spend on Metamagic (these points are added to any sorcery points you have from another source but can be used only on Metamagic). You regain all spent sorcery points when you finish a long rest
+
+---
+
 ### Overwhelming Strength
 
 *General Feat (Prerequisite: Level 4+)* 
