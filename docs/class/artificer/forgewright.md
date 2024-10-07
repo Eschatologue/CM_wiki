@@ -37,7 +37,7 @@ must be applied to your Arcane Armament.
 
 You can channel pure destructive magic through your strikes. Once per turn when you hit with an Arcane Armament attack you can expend a spell slot to deal bonus Force damage to the target. 
 
-This bonus damage 2d8 for a level 1 spell slot and it increases by 1d8 for each spell slot level above 1.
+This bonus damage is 2d8 for a level 1 spell slot and it increases by 1d8 for each spell slot level above 1.
 
 ### Level 5: Extra Attack
 

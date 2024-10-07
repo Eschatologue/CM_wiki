@@ -26,6 +26,10 @@ You have Darkvision with a range of 120 feet.
 
 ### Orcish Legacy
 
+!!! danger "Campaign Restriction"
+
+    *Mystical Resilience* is tailored to Crown & Misery campaign. Ask the respective DM if you want to use in other campaign.
+
 Choose one of the following benefits–an ability from your lineage:
 
 ***Relentless Endurance (Continental Orc).*** When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead. Once you use this trait, you can't do so again until you finish a Long Rest.

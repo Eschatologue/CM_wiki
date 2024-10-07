@@ -55,7 +55,7 @@ Moreover, if you use your action to cast a spell, you can make one Arcane Firear
 
 You can imbue your Arcane Firearm's attacks with additional explosive magic. Once per turn when you hit a target with an attack from your Arcane Firearm, you can expend a spell slot to cause that attack to deal bonus Force damage to the target.
 
-This bonus damage 2d6 for a level 1 spell slot and it increases by 1d6 for each spell slot level above 1.
+This bonus damage is 2d6 for a level 1 spell slot and it increases by 1d6 for each spell slot level above 1.
 
 ### Level 9: Quickdraw
 

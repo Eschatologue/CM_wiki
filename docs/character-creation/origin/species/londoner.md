@@ -1,3 +1,7 @@
+!!! danger "Campaign Restriction"
+
+    This species is made for Crown & Misery campaign. Ask the respective DM if you want to use in other campaign.
+
 # Londoner
 
 The Londoners arrived from beyond Antares through the Northern Gate, bringing with them their ingenuity, advanced technology, and strong ideologies. Highly intelligent and deeply nationalistic, these humans have a mysterious past, their will tempered by constant warfare and perpetual threats to their existence—a reality that persists even in Antares.
