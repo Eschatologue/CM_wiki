@@ -251,7 +251,7 @@ For the duration, you understand the literal meaning of any language that you he
 
 ### Compelled Duel
 
-*Level 1 Enchantment (Artificer, Paladin)*
+*Level 1 Enchantment (Paladin)*
 
 **Casting Time:** Bonus action  
 **Range:** 30 feet  
