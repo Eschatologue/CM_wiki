@@ -20,7 +20,7 @@ You create an Invisible, invulnerable eye within range that hovers for the durat
 
 As a Bonus Action, you can move the eye up to 30 feet in any direction. A solid barrier blocks the eye's movement, but the eye can pass through an opening as small as 1 inch in diameter.
 
-**Classes:** Artificer, Wizard
+> **Classes:** Artificer, Wizard
 
 ---
 
@@ -34,7 +34,7 @@ As a Bonus Action, you can move the eye up to 30 feet in any direction. A solid 
 
 An aura radiates from you in a 30-foot Emanation for the duration. While in the aura, you and your allies have Resistance to Necrotic damage, and your Hit Point maximums can't be reduced. If an ally with 0 Hit Points starts its turn in the aura, that ally regains 1 Hit Point.
 
-**Classes:** Cleric, Paladin
+> **Classes:** Cleric, Paladin
 
 ---
 
@@ -48,7 +48,7 @@ An aura radiates from you in a 30-foot Emanation for the duration. While in the 
 
 An aura radiates from you in a 30-foot Emanation for the duration. While in the aura, you and your allies have Resistance to Poison damage and Advantage on saving throws to avoid or end effects that include the Blinded, Charmed, Deafened, Frightened, Paralyzed, Poisoned, or Stunned condition.
 
-**Classes:** Cleric, Paladin
+> **Classes:** Cleric, Paladin
 
 ---
 
@@ -66,7 +66,7 @@ If the target is an Aberration, a Celestial, an Elemental, a Fey, or a Fiend, th
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 4.
 
-**Classes:** Cleric, Paladin, Sorcerer, Warlock, Wizard
+> **Classes:** Cleric, Paladin, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -84,7 +84,7 @@ Alternatively, target a nonmagical plant that isn't a creature, such as a tree o
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 4.
 
-**Classes:** Druid, Sorcerer, Warlock, Wizard
+> **Classes:** Druid, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -100,7 +100,7 @@ One creature you can see within range makes a Wisdom saving throw. It does so wi
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 4.
 
-**Classes:** Bard, Druid, Sorcerer, Warlock, Wizard
+> **Classes:** Bard, Druid, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -116,7 +116,7 @@ Each creature of your choice that you can see within range must succeed on a Wis
 
 For the duration, you can take a Bonus Action to designate a direction that is horizontal to you. Each Charmed target must use as much of its movement as possible to move in that direction on its next turn, taking the safest route. After moving in this way, a target repeats the save, ending the spell on itself on a success.
 
-**Classes:** Bard
+> **Classes:** Bard
 
 ---
 
@@ -141,7 +141,7 @@ At the end of each of its turns, an affected target repeats the save, ending the
 
 ***Using a Higher-Level Spell Slot.*** The Sphere's radius increases by 5 feet for each spell slot level above 4.
 
-**Classes:** Bard, Druid, Sorcerer, Wizard
+> **Classes:** Bard, Druid, Sorcerer, Wizard
 
 ---
 
@@ -159,7 +159,7 @@ In addition, the ground in the Emanation is Difficult Terrain for your enemies.
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 2d8 for each spell slot level above 4.
 
-**Classes:** Druid, Wizard
+> **Classes:** Druid, Wizard
 
 ---
 
@@ -177,7 +177,7 @@ In addition, you can take the Disengage action as a Bonus Action for the spell's
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 4.
 
-**Classes:** Druid, Ranger
+> **Classes:** Druid, Ranger
 
 ---
 
@@ -201,7 +201,7 @@ The water level remains elevated until the spell ends or you choose a different 
 
 ***Whirlpool.*** You cause a whirlpool to form in the center of the area, which must be at least 50 feet square and 25 feet deep. The whirlpool lasts until you choose a different effect or the spell ends. The whirlpool is 5 feet wide at the base, up to 50 feet wide at the top, and 25 feet tall. Any creature in the water and within 25 feet of the whirlpool is pulled 10 feet toward it. When a creature enters the whirlpool for the first time on a turn or ends its turn there, it makes a Strength saving throw. On a failed save, the creature takes 2d8 Bludgeoning damage. On a successful save, the creature takes half as much damage. A creature can swim away from the whirlpool only if it first takes an action to pull away and succeeds on a Strength (Athletics) check against your spell save DC.
 
-**Classes:** Cleric, Druid, Wizard
+> **Classes:** Cleric, Druid, Wizard
 
 ---
 
@@ -217,7 +217,7 @@ You touch a creature and grant it a measure of protection from death. The first 
 
 If the spell is still in effect when the target is subjected to an effect that would kill it instantly without dealing damage, that effect is negated against the target, and the spell ends.
 
-**Classes:** Cleric, Paladin
+> **Classes:** Cleric, Paladin
 
 ---
 
@@ -235,7 +235,7 @@ You can also teleport one willing creature. The creature must be within 5 feet o
 
 If you, the other creature, or both would arrive in a space occupied by a creature or completely filled by one or more objects, you and any creature traveling with you each take 4d6 Force damage, and the teleportation fails.
 
-**Classes:** Bard, Sorcerer, Warlock, Wizard
+> **Classes:** Bard, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -251,7 +251,7 @@ This spell puts you in contact with a god or a god's servants. You ask one quest
 
 If you cast the spell more than once before finishing a Long Rest, there is a cumulative 25 percent chance for each casting after the first that you get no answer.
 
-**Classes:** Cleric, Druid, Wizard
+> **Classes:** Cleric, Druid, Wizard
 
 ---
 
@@ -271,7 +271,7 @@ You can command the target to take a Reaction but must take your own Reaction to
 
 ***Using a Higher-Level Spell Slot.*** Your Concentration can last longer with a spell slot of level 5 (up to 10 minutes), 6 (up to 1 hour), or 7+ (up to 8 hours).
 
-**Classes:** Druid, Ranger, Sorcerer
+> **Classes:** Druid, Ranger, Sorcerer
 
 ---
 
@@ -287,7 +287,7 @@ Choose one creature you can see within range, and choose one of the following da
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th. The creatures must be within 30 feet of each other when you target them.
 
-**Classes:** Artificer, Druid, Warlock, Wizard
+> **Classes:** Artificer, Druid, Warlock, Wizard
 
 ---
 
@@ -305,7 +305,7 @@ Each creature in that area makes a Strength saving throw. On a failed save, it t
 
 A Restrained creature can take an action to make a Strength (Athletics) check against your spell save DC, ending the condition on itself on a success.
 
-**Classes:** Wizard
+> **Classes:** Wizard
 
 ---
 
@@ -323,7 +323,7 @@ Choose raw materials that you can see within range. You can fabricate a Large or
 
 Creatures and magic items can't be created by this spell. You also can't use it to create items that require a high degree of skill—such as weapons and armor—unless you have proficiency with the type of *Artisan's Tools* used to craft such objects.
 
-**Classes:** Artificer, Wizard
+> **Classes:** Artificer, Wizard
 
 ---
 
@@ -350,7 +350,7 @@ Whenever the mount disappears, it leaves behind any objects it was wearing or ca
 >With the DM's permission, a paladin can summon a spirit in the form of a **dragonnel** using the find greater steed spell, which appears in *Xanathar's Guide to Everything*.
 >
 
-**Classes:** Paladin
+> **Classes:** Paladin
 
 ---
 
@@ -368,7 +368,7 @@ The flames provide you with a warm shield or a chill shield, as you choose. The 
 
 In addition, whenever a creature within 5 feet of you hits you with a melee attack roll, the shield erupts with flame. The attacker takes 2d8 Fire damage from a warm shield or 2d8 Cold damage from a chill shield.
 
-**Classes:** Druid, Sorcerer, Wizard
+> **Classes:** Druid, Sorcerer, Wizard
 
 ---
 
@@ -386,7 +386,7 @@ Until the spell ends, you have Resistance to Radiant damage, and your melee atta
 
 In addition, immediately after you take damage from a creature you can see within 60 feet of yourself, you can take a Reaction to force the creature to make a Constitution saving throw. On a failed save, the creature has the Blinded condition until the end of your next turn.
 
-**Classes:** Bard, Druid
+> **Classes:** Bard, Druid
 
 ---
 
@@ -404,7 +404,7 @@ In addition, the target can spend 5 feet of movement to automatically escape fro
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 4.
 
-**Classes:** Artificer, Bard, Cleric, Druid, Ranger
+> **Classes:** Artificer, Bard, Cleric, Druid, Ranger
 
 ---
 
@@ -422,7 +422,7 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 ***Using a Higher-Level Spell Slot.*** Use the spell slot's level for the spell's level in the stat block.
 
-**Classes:** Druid
+> **Classes:** Druid
 
 ---
 
@@ -442,7 +442,7 @@ As a Bonus Action on your later turns, you can repeat the attack against a creat
 
 ***Using a Higher-Level Spell Slot.*** The number of creatures the vine can grapple increases by one for each spell slot level above 4.
 
-**Classes:** Druid, Ranger
+> **Classes:** Druid, Ranger
 
 ---
 
@@ -456,7 +456,7 @@ As a Bonus Action on your later turns, you can repeat the attack against a creat
 
 A creature you touch has the Invisible condition until the spell ends.
 
-**Classes:** Bard, Sorcerer, Wizard
+> **Classes:** Bard, Sorcerer, Wizard
 
 ---
 
@@ -472,7 +472,7 @@ A Large spectral guardian appears and hovers for the duration in an unoccupied s
 
 Any enemy that moves to a space within 10 feet of the guardian for the first time on a turn or starts its turn there makes a Dexterity saving throw, taking 20 Radiant damage on a failed save or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage.
 
-**Classes:** Cleric
+> **Classes:** Cleric
 
 ---
 
@@ -500,7 +500,7 @@ A nature spirit answers your call and transforms you into a powerful guardian. T
 - You make Dexterity- and Wisdom-based attack rolls with advantage.
 - While you are on the ground, the ground within 15 feet of you is difficult terrain for your enemies.
 
-**Classes:** Druid, Ranger
+> **Classes:** Druid, Ranger
 
 ---
 
@@ -516,7 +516,7 @@ You make natural terrain in a 150-foot Cube in range look, sound, and smell like
 
 The tactile characteristics of the terrain are unchanged, so creatures entering the area are likely to notice the illusion. If the difference isn't obvious by touch, a creature examining the illusion can take the Study action to make an Intelligence (Investigation) check against your spell save DC to disbelieve it. If a creature discerns that the terrain is illusory, the creature sees a vague image superimposed on the real terrain.
 
-**Classes:** Bard, Druid, Warlock, Wizard
+> **Classes:** Bard, Druid, Warlock, Wizard
 
 ---
 
@@ -534,7 +534,7 @@ Hailstones turn ground in the Cylinder into Difficult Terrain until the end of y
 
 ***Using a Higher-Level Spell Slot.*** The Bludgeoning damage increases by 1d10 for each spell slot level above 4.
 
-**Classes:** Druid, Sorcerer, Wizard
+> **Classes:** Druid, Sorcerer, Wizard
 
 ---
 
@@ -552,7 +552,7 @@ While the chest remains on the Ethereal Plane, you can take a Magic action and t
 
 After 60 days, there is a cumulative 5 percent chance at the end of each day that the spell ends. The spell also ends if you cast this spell again or if the Tiny replica chest is destroyed. If the spell ends and the larger chest is on the Ethereal Plane, the chest remains there for you or someone else to find.
 
-**Classes:** Artificer, Wizard
+> **Classes:** Artificer, Wizard
 
 ---
 
@@ -570,7 +570,7 @@ The spell can locate a specific creature known to you or the nearest creature of
 
 This spell can't locate a creature if any thickness of lead blocks a direct path between you and the creature.
 
-**Classes:** Bard, Cleric, Druid, Paladin, Ranger, Wizard
+> **Classes:** Bard, Cleric, Druid, Paladin, Ranger, Wizard
 
 ---
 
@@ -590,7 +590,7 @@ At the start of each of your turns, the hound attempts to bite one enemy within 
 
 On your later turns, you can take a Magic action to move the hound up to 30 feet.
 
-**Classes:** Artificer, Wizard
+> **Classes:** Artificer, Wizard
 
 ---
 
@@ -617,7 +617,7 @@ Casting this spell on the same spot every day for 365 days makes the spell last 
 
 ***Using a Higher-Level Spell Slot.*** You can increase the size of the Cube by 100 feet for each spell slot level above 4.
 
-**Classes:** Artificer, Wizard
+> **Classes:** Artificer, Wizard
 
 ---
 
@@ -637,7 +637,7 @@ The sphere is weightless and just large enough to contain the creature or object
 
 A *Disintegrate* spell targeting the globe destroys it without harming anything inside.
 
-**Classes:** Artificer, Wizard
+> **Classes:** Artificer, Wizard
 
 ---
 
@@ -655,7 +655,7 @@ For the duration, the target makes a Wisdom saving throw at the end of each of i
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d10 for each spell slot level above 4.
 
-**Classes:** Bard, Wizard
+> **Classes:** Bard, Wizard
 
 ---
 
@@ -675,7 +675,7 @@ The target is limited in the actions it can perform by the anatomy of its new fo
 
 The target's gear melds into the new form. The creature can't use or otherwise benefit from any of that equipment.
 
-**Classes:** Bard, Druid, Sorcerer, Wizard
+> **Classes:** Bard, Druid, Sorcerer, Wizard
 
 ---
 
@@ -693,7 +693,7 @@ The target must make an Intelligence saving throw. On a failed save, the target 
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d6 for each slot level above 4th.
 
-**Classes:** Bard, Sorcerer, Warlock, Wizard
+> **Classes:** Bard, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -709,7 +709,7 @@ Flame-like shadows wreathe your body until the spell ends, causing you to become
 
 Until the spell ends, you have resistance to radiant damage. In addition, whenever a creature within 10 feet of you hits you with an attack, the shadows lash out at that creature, dealing it 2d8 necrotic damage.
 
-**Classes:** Warlock
+> **Classes:** Warlock
 
 ---
 
@@ -725,7 +725,7 @@ Dim, greenish light spreads within a 30-foot-radius sphere centered on a point y
 
 When a creature moves into the spell's area for the first time on a turn or starts its turn there, that creature must succeed on a Constitution saving throw or take 4d10 radiant damage, and it suffers one level of exhaustion and emits a dim, greenish light in a 5-foot radius. This light makes it impossible for the creature to benefit from being invisible. The light and any levels of exhaustion caused by this spell go away when the spell ends.
 
-**Classes:** Sorcerer, Warlock, Wizard
+> **Classes:** Sorcerer, Warlock, Wizard
 
 ---
 
@@ -757,7 +757,7 @@ The target takes an extra 4d6 Psychic damage from the attack, and the target mus
 
 ***Using a Higher-Level Spell Slot.*** The extra damage increases by 1d6 for each spell slot level above 4.
 
-**Classes:** Paladin
+> **Classes:** Paladin
 
 ---
 
@@ -771,7 +771,7 @@ The target takes an extra 4d6 Psychic damage from the attack, and the target mus
 
 You touch a stone object of Medium size or smaller or a section of stone no more than 5 feet in any dimension and form it into any shape you like. For example, you could shape a large rock into a weapon, statue, or coffer, or you could make a small passage through a wall that is 5 feet thick. You could also shape a stone door or its frame to seal the door shut. The object you create can have up to two hinges and a latch, but finer mechanical detail isn't possible.
 
-**Classes:** Artificer, Cleric, Druid, Wizard
+> **Classes:** Artificer, Cleric, Druid, Wizard
 
 ---
 
@@ -785,7 +785,7 @@ You touch a stone object of Medium size or smaller or a section of stone no more
 
 Until the spell ends, one willing creature you touch has Resistance to Bludgeoning, Piercing, and Slashing damage.
 
-**Classes:** Artificer, Druid, Ranger, Sorcerer, Wizard
+> **Classes:** Artificer, Druid, Ranger, Sorcerer, Wizard
 
 ---
 
@@ -805,7 +805,7 @@ Creatures within 30 feet of the sphere have disadvantage on Wisdom (Perception) 
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the damage for each of its effects increases by 1d6 for each slot level above 4th.
 
-**Classes:** Sorcerer, Wizard
+> **Classes:** Sorcerer, Wizard
 
 ---
 
@@ -823,7 +823,7 @@ The creature is an ally to you and your allies. In combat, it shares your Initia
 
 ***Using a Higher-Level Spell Slot.*** Use the spell slot's level for the spell's level in the stat block.
 
-**Classes:** Warlock, Wizard
+> **Classes:** Warlock, Wizard
 
 ---
 
@@ -841,7 +841,7 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 ***Using a Higher-Level Spell Slot.*** Use the spell slot's level for the spell's level in the stat block.
 
-**Classes:** Artificer, Wizard
+> **Classes:** Artificer, Wizard
 
 ---
 
@@ -859,7 +859,7 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 ***Using a Higher-Level Spell Slot.*** Use the spell slot's level for the spell's level in the stat block.
 
-**Classes:** Druid, Ranger, Wizard
+> **Classes:** Druid, Ranger, Wizard
 
 ---
 
@@ -881,7 +881,7 @@ As part of casting the spell, you can form a circle on the ground with the blood
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the challenge rating increases by 1 for each slot level above 4th.
 
-**Classes:** Warlock, Wizard
+> **Classes:** Warlock, Wizard
 
 ---
 
@@ -897,7 +897,7 @@ You point at a location within range, and a glowing, 1-foot-diameter ball of aci
 
 ***Using a Higher-Level Spell Slot.*** The initial damage increases by 2d4 for each spell slot level above 4.
 
-**Classes:** Sorcerer, Wizard
+> **Classes:** Sorcerer, Wizard
 
 ---
 
@@ -917,7 +917,7 @@ One side of the wall, selected by you when you cast this spell, deals 5d8 Fire d
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 4.
 
-**Classes:** Druid, Sorcerer, Wizard
+> **Classes:** Druid, Sorcerer, Wizard
 
 ---
 
@@ -939,4 +939,4 @@ As an action, you can move the sphere up to 30 feet in a straight line. If it mo
 
 When the spell ends, the sphere falls to the ground and extinguishes all normal flames within 30 feet of it. Any creature restrained by the sphere is knocked prone in the space where it falls. The water then vanishes.
 
-**Classes:** Druid, Sorcerer, Wizard
+> **Classes:** Druid, Sorcerer, Wizard

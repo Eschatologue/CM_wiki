@@ -20,7 +20,7 @@ You draw the moisture from every creature in a 30-foot cube centered on a point 
 
 Nonmagical plants in the area that aren't creatures, such as trees and shrubs, wither and die instantly.
 
-**Classes:** Sorcerer, Wizard
+> **Classes:** Sorcerer, Wizard
 
 ---
 
@@ -38,7 +38,7 @@ A target's game statistics are replaced by the chosen Beast's statistics, but th
 
 The target gains a number of Temporary Hit Points equal to the Beast form's Hit Points. The transformation lasts for the duration for each target, until the target has no Temporary Hit Points, or until the target leaves the form as a Bonus Action.
 
-**Classes:** Druid
+> **Classes:** Druid
 
 ---
 
@@ -58,7 +58,7 @@ Ongoing spells, except those cast by an Artifact or a deity, are suppressed in t
 
 *Dispel Magic* has no effect on the aura, and the auras created by different *Antimagic Field* spells don't nullify each other.
 
-**Classes:** Cleric, Wizard
+> **Classes:** Cleric, Wizard
 
 ---
 
@@ -77,7 +77,7 @@ As you cast the spell, choose whether it creates antipathy or sympathy, and targ
 
 ***Ending the Effect.*** If the Frightened or Charmed creature ends its turn more than 120 feet away from the target, the creature makes a Wisdom saving throw. On a successful save, the creature is no longer affected by the target. A creature that successfully saves against this effect is immune to it for 1 minute, after which it can be affected again.
 
-**Classes:** Bard, Druid, Wizard
+> **Classes:** Bard, Druid, Wizard
 
 ---
 
@@ -95,7 +95,7 @@ On a failed save, the target takes 10d12 Psychic damage and can't cast spells or
 
 On a successful save, the target takes half as much damage only.
 
-**Classes:** Bard, Druid, Warlock, Wizard
+> **Classes:** Bard, Druid, Warlock, Wizard
 
 ---
 
@@ -111,7 +111,7 @@ You touch a creature or at least 1 cubic inch of its flesh. An inert duplicate o
 
 If the original creature dies after the clone finishes forming, the creature's soul transfers to the clone if the soul is free and willing to return. The clone is physically identical to the original and has the same personality, memories, and abilities, but none of the original's equipment. The creature's original remains, if any, become inert and can't be revived, since the creature's soul is elsewhere.
 
-**Classes:** Wizard
+> **Classes:** Wizard
 
 ---
 
@@ -157,7 +157,7 @@ When you change the weather conditions, find a current condition on the followin
 | 4 | Gale|
 | 5 | Storm |
 
-**Classes:** Cleric, Druid, Wizard
+> **Classes:** Cleric, Druid, Wizard
 
 ---
 
@@ -175,7 +175,7 @@ When the spell ends, the door vanishes, and any objects inside the demiplane rem
 
 Each time you cast this spell, you can create a new demiplane or connect the shadowy door to a demiplane you created with a previous casting of this spell. Additionally, if you know the nature and contents of a demiplane created by a casting of this spell by another creature, you can connect the shadowy door to that demiplane instead.
 
-**Classes:** Sorcerer, Warlock, Wizard
+> **Classes:** Sorcerer, Warlock, Wizard
 
 ---
 
@@ -195,7 +195,7 @@ You can command the target to take a Reaction but must take your own Reaction to
 
 ***Using a Higher-Level Spell Slot.*** Your Concentration can last longer with a level 9 spell slot (up to 8 hours).
 
-**Classes:** Bard, Sorcerer, Warlock, Wizard
+> **Classes:** Bard, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -219,7 +219,7 @@ You can also cause the effects below.
 
 A creature within a distance from a collapsing structure equal to half the structure's height makes a Dexterity saving throw. On a failed save, the creature takes 12d6 Bludgeoning damage, has the Prone condition, and is buried in the rubble, requiring a DC 20 Strength (Athletics) check as an action to escape. On a successful save, the creature takes half as much damage only.
 
-**Classes:** Cleric, Druid, Sorcerer
+> **Classes:** Cleric, Druid, Sorcerer
 
 ---
 
@@ -233,7 +233,7 @@ A creature within a distance from a collapsing structure equal to half the struc
 
 Until the spell ends, when you make a Charisma check, you can replace the number you roll with a 15. Additionally, no matter what you say, magic that would determine if you are telling the truth indicates that you are being truthful.
 
-**Classes:** Bard, Warlock
+> **Classes:** Bard, Warlock
 
 ---
 
@@ -247,7 +247,7 @@ Until the spell ends, when you make a Charisma check, you can replace the number
 
 For the duration, you emit an aura in a 30-foot Emanation. While in the aura, creatures of your choice have Advantage on all saving throws, and other creatures have Disadvantage on attack rolls against them. In addition, when a Fiend or an Undead hits an affected creature with a melee attack roll, the attacker must succeed on a Constitution saving throw or have the Blinded condition until the end of its next turn.
 
-**Classes:** Cleric
+> **Classes:** Cleric
 
 ---
 
@@ -267,7 +267,7 @@ As a bonus action on your turn, you can move the illusion up to 60 feet. At any 
 
 The illusion is tangible because of the shadow stuff used to create it, but attacks miss it automatically, it succeeds on all saving throws, and it is immune to all damage and conditions. A creature that uses an action to examine the dragon can determine that it is an illusion by succeeding on an Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through it and has advantage on saving throws against its breath.
 
-**Classes:** Wizard
+> **Classes:** Wizard
 
 ---
 
@@ -285,7 +285,7 @@ When the cloud appears, each creature in it makes a Dexterity saving throw, taki
 
 The cloud moves 10 feet away from you in a direction you choose at the start of each of your turns.
 
-**Classes:** Druid, Sorcerer, Wizard
+> **Classes:** Druid, Sorcerer, Wizard
 
 ---
 
@@ -301,7 +301,7 @@ Magical darkness spreads from a point you choose within range to fill a 60-foot-
 
 Shrieks, gibbering, and mad laughter can be heard within the sphere. Whenever a creature starts its turn in the sphere, it must make a Wisdom saving throw, taking 8d8 psychic damage on a failed save, or half as much damage on a successful one.
 
-**Classes:** Warlock, Wizard
+> **Classes:** Warlock, Wizard
 
 ---
 
@@ -319,7 +319,7 @@ The target can take a Study action to try to escape. When it does so, it makes a
 
 When the spell ends, the target reappears in the space it left or, if that space is occupied, in the nearest unoccupied space.
 
-**Classes:** Wizard
+> **Classes:** Wizard
 
 ---
 
@@ -345,7 +345,7 @@ After 7 days or when you cast this spell somewhere else, the fortress harmlessly
 
 Casting this spell on the same spot once every 7 days for a year makes the fortress permanent.
 
-**Classes:** Wizard
+> **Classes:** Wizard
 
 ---
 
@@ -359,7 +359,7 @@ Casting this spell on the same spot once every 7 days for a year makes the fortr
 
 Until the spell ends, one willing creature you touch has Immunity to Psychic damage and the Charmed condition. The target is also unaffected by anything that would sense its emotions or alignment, read its thoughts, or magically detect its location, and no spell—not even *Wish*—can gather information about the target, observe it remotely, or control its mind.
 
-**Classes:** Bard, Wizard
+> **Classes:** Bard, Wizard
 
 ---
 
@@ -375,7 +375,7 @@ You overwhelm the mind of one creature you can see within range. If the target h
 
 The Stunned target makes a Constitution saving throw at the end of each of its turns, ending the condition on itself on a success.
 
-**Classes:** Bard, Sorcerer, Warlock, Wizard
+> **Classes:** Bard, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -393,7 +393,7 @@ A creature Blinded by this spell makes another Constitution saving throw at the 
 
 This spell dispels Darkness in its area that was created by any spell.
 
-**Classes:** Cleric, Druid, Sorcerer, Wizard
+> **Classes:** Cleric, Druid, Sorcerer, Wizard
 
 ---
 
@@ -409,7 +409,7 @@ You create a telepathic link between yourself and a willing creature with which 
 
 Until the spell ends, you and the target can instantly share words, images, sounds, and other sensory messages with each other through the link, and the target recognizes you as the creature it is communicating with. The spell enables a creature to understand the meaning of your words and any sensory messages you send to it.
 
-**Classes:** Wizard
+> **Classes:** Wizard
 
 ---
 
@@ -429,4 +429,4 @@ At the start of each of your turns after the wall appears, the wall, along with 
 
 A creature caught in the wall can move by swimming. Because of the wave's force, though, the creature must succeed on a Strength (Athletics) check against your spell save DC to move at all. If it fails the check, it can't move. A creature that moves out of the wall falls to the ground.
 
-**Classes:** Druid
+> **Classes:** Druid

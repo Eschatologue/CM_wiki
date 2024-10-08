@@ -25,7 +25,7 @@ Whenever the Cylinder moves into the space of a creature you can see and wheneve
 
 ***Using a Higher-Level Spell Slot.*** The healing and damage increase by 1d12 for each spell slot level above 7.
 
-**Classes:** Cleric
+> **Classes:** Cleric
 
 ---
 
@@ -43,7 +43,7 @@ If you have four or more motes remaining, they shed bright light in a 30-foot ra
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 8th level or higher, the number of motes created increases by two for each slot level above 7th.
 
-**Classes:** Sorcerer, Warlock, Wizard
+> **Classes:** Sorcerer, Warlock, Wizard
 
 ---
 
@@ -65,7 +65,7 @@ When the bead explodes, flammable objects in the explosion that aren't being wor
 
 ***Using a Higher-Level Spell Slot.*** The base damage increases by 1d6 for each spell slot level above 7.
 
-**Classes:** Sorcerer, Wizard
+> **Classes:** Sorcerer, Wizard
 
 ---
 
@@ -87,7 +87,7 @@ You utter a word imbued with power from the Upper Planes. Each creature of your 
 |31-40 | The target has the Blinded and Deafened conditions for 10 minutes. |
 |41-50 | The target has the Deafened condition for 1 minute.|
 
-**Classes:** Cleric
+> **Classes:** Cleric
 
 ---
 
@@ -105,7 +105,7 @@ With a roar, you draw on the magic of dragons to transform yourself, taking on d
 - **Breath Weapon.** When you cast this spell, and as a bonus action on subsequent turns for the duration, you can exhale shimmering energy in a 60-foot cone. Each creature in that area must make a Dexterity saving throw, taking 6d8 force damage on a failed save, or half as much damage on a successful one.
 - **Wings.** Incorporeal wings sprout from your back, giving you a flying speed of 60 feet.
 
-**Classes:** Druid, Sorcerer, Wizard
+> **Classes:** Druid, Sorcerer, Wizard
 
 ---
 
@@ -143,7 +143,7 @@ This spell ends instantly if you cast it while you are on the Ethereal Plane or 
 
 ***Using a Higher-Level Spell Slot.*** You can target up to three willing creatures (including yourself) for each spell slot level above 7. The creatures must be within 10 feet of you when you cast the spell.
 
-**Classes:** Bard, Cleric, Sorcerer, Warlock, Wizard
+> **Classes:** Bard, Cleric, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -159,7 +159,7 @@ You unleash negative energy toward a creature you can see within range. The targ
 
 A Humanoid killed by this spell rises at the start of your next turn as a **Zombie** that follows your verbal orders.
 
-**Classes:** Sorcerer, Warlock, Wizard
+> **Classes:** Sorcerer, Warlock, Wizard
 
 ---
 
@@ -175,7 +175,7 @@ A storm of fire appears within range. The area of the storm consists of up to te
 
 Flammable objects in the area that aren't being worn or carried start burning.
 
-**Classes:** Cleric, Druid, Sorcerer
+> **Classes:** Cleric, Druid, Sorcerer
 
 ---
 
@@ -197,7 +197,7 @@ A creature inside the cage can't leave it by nonmagical means. If the creature t
 
 This spell can't be dispelled by *Dispel Magic*.
 
-**Classes:** Bard, Warlock, Wizard
+> **Classes:** Bard, Warlock, Wizard
 
 ---
 
@@ -217,7 +217,7 @@ The illusion includes audible, visual, tactile, and olfactory elements, so it ca
 
 Creatures with Truesight can see through the illusion to the terrain's true form; however, all other elements of the illusion remain, so while the creature is aware of the illusion's presence, the creature can still physically interact with the illusion.
 
-**Classes:** Bard, Druid, Wizard
+> **Classes:** Bard, Druid, Wizard
 
 ---
 
@@ -239,7 +239,7 @@ A staff of 100 near-transparent servants attends all who enter. You determine th
 
 When the spell ends, any creatures or objects left inside the extradimensional space are expelled into the unoccupied spaces nearest to the entrance.
 
-**Classes:** Bard, Wizard
+> **Classes:** Bard, Wizard
 
 ---
 
@@ -257,7 +257,7 @@ When the sword appears, you make a melee spell attack against a target within 5 
 
 On your later turns, you can take a Bonus Action to move the sword up to 30 feet to a spot you can see and repeat the attack against the same target or a different one.
 
-**Classes:** Bard, Wizard
+> **Classes:** Bard, Wizard
 
 ---
 
@@ -273,7 +273,7 @@ You and up to eight willing creatures who link hands in a circle are transported
 
 Alternatively, if you know the sigil sequence of a teleportation circle on another plane of existence, this spell can take you to that circle. If the teleportation circle is too small to hold all the creatures you transported, they appear in the closest unoccupied spaces next to the circle.
 
-**Classes:** Cleric, Druid, Sorcerer, Warlock, Wizard
+> **Classes:** Cleric, Druid, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -287,7 +287,7 @@ Alternatively, if you know the sigil sequence of a teleportation circle on anoth
 
 You fortify up to six creatures you can see within range. The spell bestows 120 Temporary Hit Points, which you divide among the spell's recipients.
 
-**Classes:** Bard, Cleric
+> **Classes:** Bard, Cleric
 
 ---
 
@@ -305,7 +305,7 @@ While the target is affected by crippling pain, any speed it has can be no highe
 
 A target suffering this pain can make a Constitution saving throw at the end of each of its turns. On a successful save, the pain ends.
 
-**Classes:** Sorcerer, Warlock, Wizard
+> **Classes:** Sorcerer, Warlock, Wizard
 
 ---
 
@@ -331,7 +331,7 @@ Eight rays of light flash from you in a 60-foot Cone. Each creature in the Cone 
 |7| **Violet.** *Failed Save:* The target has the Blinded condition and makes a Wisdom saving throw at the start of your next turn. On a successful save, the condition ends. On a failed save, the condition ends, and the creature teleports to another plane of existence (DM's choice). |
 |8| **Special.** The target is struck by two rays. Roll twice, rerolling any 8. |
 
-**Classes:** Bard, Sorcerer, Wizard
+> **Classes:** Bard, Sorcerer, Wizard
 
 ---
 
@@ -349,7 +349,7 @@ You can see through the illusion's eyes and hear through its ears as if you were
 
 Physical interaction with the image reveals it to be illusory, since things can pass through it. A creature that takes the Study action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.
 
-**Classes:** Bard, Wizard
+> **Classes:** Bard, Wizard
 
 ---
 
@@ -363,7 +363,7 @@ Physical interaction with the image reveals it to be illusory, since things can 
 
 A creature you touch regains 4d8 + 15 Hit Points. For the duration, the target regains 1 Hit Point at the start of each of its turns, and any severed body parts regrow after 2 minutes.
 
-**Classes:** Bard, Cleric, Druid
+> **Classes:** Bard, Cleric, Druid
 
 ---
 
@@ -383,7 +383,7 @@ Coming back from the dead is an ordeal. The target takes a -4 penalty to D20 Tes
 
 Casting this spell to revive a creature that has been dead for 365 days or longer taxes you. Until you finish a Long Rest, you can't cast spells again, and you have Disadvantage on D20 Tests.
 
-**Classes:** Bard, Cleric
+> **Classes:** Bard, Cleric
 
 ---
 
@@ -399,7 +399,7 @@ This spell reverses gravity in a 50-foot-radius, 100-foot high Cylinder centered
 
 If a ceiling or an anchored object is encountered in this upward fall, creatures and objects strike it just as they would during a downward fall. If an affected creature or object reaches the Cylinder's top without striking anything, it hovers there for the duration. When the spell ends, affected objects and creatures fall downward.
 
-**Classes:** Druid, Sorcerer, Wizard
+> **Classes:** Druid, Sorcerer, Wizard
 
 ---
 
@@ -417,7 +417,7 @@ If the target is a creature, it enters a state of suspended animation; it has th
 
 You can set a condition for the spell to end early. The condition can be anything you choose, but it must occur or be visible within 1 mile of the target. Examples include "after 1,000 years" or "when the tarrasque awakens." This spell also ends if the target takes any damage.
 
-**Classes:** Wizard
+> **Classes:** Wizard
 
 ---
 
@@ -437,7 +437,7 @@ If the simulacrum takes damage, the only way to restore its Hit Points is to rep
 
 The simulacrum lasts until it drops to 0 Hit Points, at which point it reverts to snow and melts away. If you cast this spell again, any simulacrum you created with this spell is instantly destroyed.
 
-**Classes:** Wizard
+> **Classes:** Wizard
 
 ---
 
@@ -473,7 +473,7 @@ Once triggered, the glyph glows, filling a 60-foot-radius Sphere with Dim Light 
 
 ***Stunning.*** Each target must succeed on a Wisdom saving throw or have the Stunned condition for 1 minute.
 
-**Classes:** Bard, Cleric, Druid, Wizard
+> **Classes:** Bard, Cleric, Druid, Wizard
 
 ---
 
@@ -516,7 +516,7 @@ The destination you choose must be known to you, and it must be on the same plan
 
 ***On Target.*** You and your group (or the target object) appear where you intended.
 
-**Classes:** Bard, Sorcerer, Wizard
+> **Classes:** Bard, Sorcerer, Wizard
 
 ---
 
@@ -544,7 +544,7 @@ The temple is made from opaque magical force that extends into the Ethereal Plan
 
 Casting this spell on the same spot every day for a year makes this effect permanent.
 
-**Classes:** Cleric
+> **Classes:** Cleric
 
 ---
 
@@ -562,4 +562,4 @@ A creature must make a Dexterity saving throw the first time on a turn that it e
 
 A restrained creature can use an action to make a Strength or Dexterity check against your spell save DC. If successful, the creature is no longer restrained by the whirlwind and is hurled 3d6 × 10 feet away from it in a random direction.
 
-**Classes:** Druid, Sorcerer, Wizard
+> **Classes:** Druid, Sorcerer, Wizard

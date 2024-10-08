@@ -34,7 +34,7 @@ You create an acidic bubble at a point within range, where it explodes in a 5-fo
 
 Whenever a creature makes an attack roll against you before the spell ends, the attacker subtracts 1d4 from the attack roll.
 
-**Classes:** Bard, Sorcerer, Warlock, Wizard
+> **Classes:** Bard, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -50,7 +50,7 @@ You brandish the weapon used in the spell's casting and make a melee attack with
 
 This spell's damage increases when you reach certain levels. At 5th level, the melee attack deals an extra 1d8 thunder damage to the target on a hit, and the damage the target takes for moving increases to 2d8. Both damage rolls increase by 1d8 at 11th level (2d8 and 3d8) and again at 17th level (3d8 and 4d8).
 
-**Classes:** Artificer, Sorcerer, Warlock, Wizard
+> **Classes:** Artificer, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -66,7 +66,7 @@ Channeling the chill of the grave, make a melee spell attack against a target wi
 
 ***Cantrip Upgrade.*** The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10).
 
-**Classes:** Sorcerer, Warlock, Wizard
+> **Classes:** Sorcerer, Warlock, Wizard
 
 ---
 
@@ -87,7 +87,7 @@ You choose nonmagical flame that you can see within range and that fits within a
 
 If you cast this spell multiple times, you can have up to three non-instantaneous effects created by it active at a time, and you can dismiss such an effect as an action.
 
-**Classes:** Druid, Sorcerer, Wizard
+> **Classes:** Druid, Sorcerer, Wizard
 
 ---
 
@@ -105,7 +105,7 @@ The bonfire ignites flammable objects in its area that aren't being worn or carr
 
 ***Cantrip Upgrade.*** The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
-**Classes:** Artificer, Druid, Sorcerer, Warlock, Wizard
+> **Classes:** Artificer, Druid, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -121,7 +121,7 @@ You create up to four torch-size lights within range, making them appear as torc
 
 As a Bonus Action, you can move the lights up to 60 feet to a space within range. A light must be within 20 feet of another light created by this spell, and a light vanishes if it exceeds the spell's range.
 
-**Classes:** Artificer, Bard, Sorcerer, Wizard
+> **Classes:** Artificer, Bard, Sorcerer, Wizard
 
 ---
 
@@ -143,7 +143,7 @@ Whispering to the spirits of nature, you create one of the following effects wit
 
 ***Fire Play.*** You light or snuff out a candle, a torch, or a campfire.
 
-**Classes:** Druid
+> **Classes:** Druid
 
 ---
 
@@ -159,7 +159,7 @@ You hurl a beam of crackling energy. Make a ranged spell attack against one crea
 
 ***Cantrip Upgrade.*** The spell creates two beams at level 5, three beams at level 11, and four beams at level 17. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
 
-**Classes:** Warlock
+> **Classes:** Warlock
 
 ---
 
@@ -183,7 +183,7 @@ You exert control over the elements, creating one of the following effects withi
 
 ***Sculpt Element.*** You cause dirt, sand, fire, smoke, mist, or water that can fit in a 1-foot Cube to assume a crude shape (such as that of a creature) for 1 hour.
 
-**Classes:** Druid, Sorcerer, Wizard
+> **Classes:** Druid, Sorcerer, Wizard
 
 ---
 
@@ -199,7 +199,7 @@ You hurl a mote of fire at a creature or an object within range. Make a ranged s
 
 ***Cantrip Upgrade.*** The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10).
 
-**Classes:** Artificer, Sorcerer, Wizard
+> **Classes:** Artificer, Sorcerer, Wizard
 
 ---
 
@@ -215,7 +215,7 @@ You magically emanate a sense of friendship toward one creature you can see with
 
 The spell ends early if the target takes damage or if you make an attack roll, deal damage, or force anyone to make a saving throw. When the spell ends, the target knows it was Charmed by you.
 
-**Classes:** Bard, Sorcerer, Warlock, Wizard
+> **Classes:** Bard, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -231,7 +231,7 @@ You cause numbing frost to form on one creature that you can see within range. T
 
 ***Cantrip Upgrade.*** The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
-**Classes:** Artificer, Druid, Sorcerer, Warlock, Wizard
+> **Classes:** Artificer, Druid, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -247,7 +247,7 @@ You brandish the weapon used in the spell's casting and make a melee attack with
 
 This spell's damage increases when you reach certain levels. At 5th level, the melee attack deals an extra 1d8 fire damage to the target on a hit, and the fire damage to the second creature increases to 1d8 + your spellcasting ability modifier. Both damage rolls increase by 1d8 at 11th level (2d8 and 2d8) and 17th level (3d8 and 3d8).
 
-**Classes:** Artificer, Sorcerer, Warlock, Wizard
+> **Classes:** Artificer, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -261,7 +261,7 @@ This spell's damage increases when you reach certain levels. At 5th level, the m
 
 You touch a willing creature and choose a skill. Until the spell ends, the creature adds 1d4 to any ability check using the chosen skill.
 
-**Classes:** Artificer, Cleric, Druid
+> **Classes:** Artificer, Cleric, Druid
 
 ---
 
@@ -279,7 +279,7 @@ You seize the air and compel it to create one of the following effects at a poin
 - You create a small blast of air capable of moving one object that is neither held nor carried and that weighs no more than 5 pounds. The object is pushed up to 10 feet away from you. It isn't pushed with enough force to cause damage.
 - You create a harmless sensory effect using air, such as causing leaves to rustle, wind to slam shutters closed, or your clothing to ripple in a breeze.
 
-**Classes:** Druid, Sorcerer, Wizard
+> **Classes:** Druid, Sorcerer, Wizard
 
 ---
 
@@ -295,7 +295,7 @@ You cause a cloud of mites, fleas, and other parasites to appear momentarily on 
 
 ***Cantrip Upgrade.*** The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
-**Classes:** Druid, Sorcerer, Warlock, Wizard
+> **Classes:** Druid, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -311,7 +311,7 @@ You touch one Large or smaller object that isn't being worn or carried by someon
 
 Covering the object with something opaque blocks the light. The spell ends if you cast it again.
 
-**Classes:** Artificer, Bard, Cleric, Sorcerer, Wizard
+> **Classes:** Artificer, Bard, Cleric, Sorcerer, Wizard
 
 ---
 
@@ -327,7 +327,7 @@ You create a lash of lightning energy that strikes at one creature of your choic
 
 This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
-**Classes:** Artificer, Sorcerer, Warlock, Wizard
+> **Classes:** Artificer, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -347,7 +347,7 @@ As a Magic action on your later turns, you can control the hand thus again. As p
 
 The hand can't attack, activate magic items, or carry more than 10 pounds.
 
-**Classes:** Artificer, Bard, Sorcerer, Warlock, Wizard
+> **Classes:** Artificer, Bard, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -363,7 +363,7 @@ You touch one to three pebbles and imbue them with magic. You or someone else ca
 
 If you cast this spell again, the spell ends on any pebbles still affected by your previous casting.
 
-**Classes:** Artificer, Druid, Warlock
+> **Classes:** Artificer, Druid, Warlock
 
 ---
 
@@ -379,7 +379,7 @@ This spell repairs a single break or tear in an object you touch, such as a brok
 
 This spell can physically repair a magic item, but it can't restore magic to such an object.
 
-**Classes:** Artificer, Bard, Cleric, Druid, Sorcerer, Wizard
+> **Classes:** Artificer, Bard, Cleric, Druid, Sorcerer, Wizard
 
 ---
 
@@ -395,7 +395,7 @@ You point toward a creature within range and whisper a message. The target (and 
 
 You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence; 1 foot of stone, metal, or wood; or a thin sheet of lead blocks the spell.
 
-**Classes:** Artificer, Bard, Druid, Sorcerer, Wizard
+> **Classes:** Artificer, Bard, Druid, Sorcerer, Wizard
 
 ---
 
@@ -411,7 +411,7 @@ You try to temporarily sliver the mind of one creature you can see within range.
 
 ***Cantrip Upgrade.*** The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
 
-**Classes:** Sorcerer, Warlock, Wizard
+> **Classes:** Sorcerer, Warlock, Wizard
 
 ---
 
@@ -431,7 +431,7 @@ If a creature takes a Study action to examine the sound or image, the creature c
 
 ***Image.*** If you create an image of an object—such as a chair, muddy footprints, or a small chest—it must be no larger than a 5-foot Cube. The image can't create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, since things can pass through it.
 
-**Classes:** Bard, Sorcerer, Warlock, Wizard
+> **Classes:** Bard, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -451,7 +451,7 @@ You choose a portion of dirt or stone that you can see within range and that fit
 
 If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 
-**Classes:** Druid, Sorcerer, Wizard
+> **Classes:** Druid, Sorcerer, Wizard
 
 ---
 
@@ -467,7 +467,7 @@ You spray toxic mist at a creature within range. Make a ranged spell attack agai
 
 ***Cantrip Upgrade.*** The damage increases by 1d12 when you reach levels 5 (2d12), 11 (3d12), and 17 (4d12).
 
-**Classes:** Artificer, Druid, Sorcerer, Warlock, Wizard
+> **Classes:** Artificer, Druid, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -493,7 +493,7 @@ You create a magical effect within range. Choose the effect from the options bel
 
 ***Minor Creation.*** You create a nonmagical trinket or an illusory image that can fit in your hand. It lasts until the end of your next turn. A trinket can deal no damage and has no monetary worth.
 
-**Classes:** Artificer, Bard, Sorcerer, Warlock, Wizard
+> **Classes:** Artificer, Bard, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -509,7 +509,7 @@ You channel primal magic to cause your teeth or fingernails to sharpen, ready to
 
 ***Cantrip Upgrade.*** The spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
 
-**Classes:** Druid
+> **Classes:** Druid
 
 ---
 
@@ -527,7 +527,7 @@ Until the spell ends, you can take a Magic action to hurl fire at a creature or 
 
 ***Cantrip Upgrade.*** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
-**Classes:** Druid
+> **Classes:** Druid
 
 ---
 
@@ -543,7 +543,7 @@ A frigid beam of blue-white light streaks toward a creature within range. Make a
 
 ***Cantrip Upgrade.*** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
-**Classes:** Artificer, Sorcerer, Wizard
+> **Classes:** Artificer, Sorcerer, Wizard
 
 ---
 
@@ -557,7 +557,7 @@ A frigid beam of blue-white light streaks toward a creature within range. Make a
 
 You touch a willing creature and choose a damage type: Acid, Bludgeoning, Cold, Fire, Lightning, Necrotic, Piercing, Poison, Radiant, Slashing, or Thunder. When the creature takes damage of the chosen type before the spell ends, the creature reduces the total damage taken by 1d4. A creature can benefit from this spell only once per turn.
 
-**Classes:** Artificer, Cleric, Druid
+> **Classes:** Artificer, Cleric, Druid
 
 ---
 
@@ -573,7 +573,7 @@ Flame-like radiance descends on a creature that you can see within range. The ta
 
 ***Cantrip Upgrade.*** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
-**Classes:** Cleric
+> **Classes:** Cleric
 
 ---
 
@@ -594,7 +594,7 @@ You choose an area of water that you can see within range and that fits within a
 
 If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 
-**Classes:** Druid, Sorcerer, Wizard
+> **Classes:** Druid, Sorcerer, Wizard
 
 ---
 
@@ -612,7 +612,7 @@ The spell ends early if you cast it again or if you let go of the weapon.
 
 ***Cantrip Upgrade.*** The damage die changes when you reach levels 5 (d10), 11 (d12), and 17 (2d6).
 
-**Classes:** Druid
+> **Classes:** Druid
 
 ---
 
@@ -628,7 +628,7 @@ Lightning springs from you to a creature that you try to touch. Make a melee spe
 
 ***Cantrip Upgrade.*** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
-**Classes:** Artificer, Sorcerer, Wizard
+> **Classes:** Artificer, Sorcerer, Wizard
 
 ---
 
@@ -646,7 +646,7 @@ If you roll an 8 on a d8 for this spell, you can roll another d8, and add it to 
 
 ***Cantrip Upgrade.*** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
-**Classes:** Sorcerer
+> **Classes:** Sorcerer
 
 ---
 
@@ -662,7 +662,7 @@ Choose a creature within range that has 0 Hit Points and isn't dead. The creatur
 
 ***Cantrip Upgrade.*** The range doubles when you reach levels 5 (30 feet), 11 (60 feet), and 17 (120 feet).
 
-**Classes:** Artificer, Cleric, Druid
+> **Classes:** Artificer, Cleric, Druid
 
 ---
 
@@ -678,7 +678,7 @@ You launch a mote of light at one creature or object within range. Make a ranged
 
 ***Cantrip Upgrade.*** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
-**Classes:** Bard, Druid
+> **Classes:** Bard, Druid
 
 ---
 
@@ -694,7 +694,7 @@ You create a momentary circle of spectral blades that sweep around you. All othe
 
 This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
-**Classes:** Artificer, Sorcerer, Warlock, Wizard
+> **Classes:** Artificer, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -720,7 +720,7 @@ You manifest a minor wonder within range. You create one of the effects below wi
 
 ***Tremors.*** You cause harmless tremors in the ground for 1 minute.
 
-**Classes:** Cleric
+> **Classes:** Cleric
 
 ---
 
@@ -736,7 +736,7 @@ You create a vine-like whip covered in thorns that lashes out at your command to
 
 ***Cantrip Upgrade.*** The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
 
-**Classes:** Artificer, Druid
+> **Classes:** Artificer, Druid
 
 ---
 
@@ -752,7 +752,7 @@ Each creature in a 5-foot Emanation originating from you must succeed on a Const
 
 ***Cantrip Upgrade.*** The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
 
-**Classes:** Artificer, Bard, Druid, Sorcerer, Warlock, Wizard
+> **Classes:** Artificer, Bard, Druid, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -768,7 +768,7 @@ You point at one creature you can see within range, and the single chime of a do
 
 ***Cantrip Upgrade.*** The damage increases by one die when you reach levels 5 (2d8 or 2d12), 11 (3d8 or 3d12), and 17 (4d8 or 4d12).
 
-**Classes:** Cleric, Warlock, Wizard
+> **Classes:** Cleric, Warlock, Wizard
 
 ---
 
@@ -784,7 +784,7 @@ Guided by a flash of magical insight, you make one attack with the weapon used i
 
 ***Cantrip Upgrade.*** Whether you deal Radiant damage or the weapon's normal damage type, the attack deals extra Radiant damage when you reach levels 5 (1d6), 11 (2d6), and 17 (3d6).
 
-**Classes:** Bard, Sorcerer, Warlock, Wizard
+> **Classes:** Bard, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -800,7 +800,7 @@ You unleash a string of insults laced with subtle enchantments at one creature y
 
 ***Cantrip Upgrade.*** The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
 
-**Classes:** Bard
+> **Classes:** Bard
 
 ---
 
@@ -816,4 +816,4 @@ Burning radiance erupts from you in a 5-foot Emanation. Each creature of your ch
 
 ***Cantrip Upgrade.*** The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
 
-**Classes:** Cleric
+> **Classes:** Cleric

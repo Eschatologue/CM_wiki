@@ -20,7 +20,7 @@ A line of roaring flame 30 feet long and 5 feet wide emanates from you in a dire
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
 
-**Classes:** Sorcerer, Wizard
+> **Classes:** Sorcerer, Wizard
 
 ---
 
@@ -36,7 +36,7 @@ Choose up to three creatures within range. Each target's Hit Point maximum and c
 
 ***Using a Higher-Level Spell Slot.*** Each target's Hit Points increase by 5 for each spell slot level above 2.
 
-**Classes:** Artificer, Bard, Cleric, Druid, Paladin, Ranger
+> **Classes:** Artificer, Bard, Cleric, Druid, Paladin, Ranger
 
 ---
 
@@ -56,7 +56,7 @@ You alter your physical form. Choose one of the following options. Its effects l
 
 ***Natural Weapons.*** You grow claws (Slashing), fangs (Piercing), horns (Piercing), or hooves (Bludgeoning). When you use your Unarmed Strike to deal damage with that new growth, it deals 1d6 damage of the type in parentheses instead of dealing the normal damage for your Unarmed Strike, and you use your spellcasting ability modifier for the attack and damage rolls rather than using Strength.
 
-**Classes:** Artificer, Sorcerer, Wizard
+> **Classes:** Artificer, Sorcerer, Wizard
 
 ---
 
@@ -74,7 +74,7 @@ When the Beast arrives, it delivers your message to the creature that you descri
 
 ***Using a Higher-Level Spell Slot.*** The spell's duration increases by 48 hours for each spell slot level above 2.
 
-**Classes:** Bard, Druid, Ranger
+> **Classes:** Bard, Druid, Ranger
 
 ---
 
@@ -88,7 +88,7 @@ When the Beast arrives, it delivers your message to the creature that you descri
 
 You touch a closed door, window, gate, container, or hatch and magically lock it for the duration. This lock can't be unlocked by any nonmagical means. You and any creatures you designate when you cast the spell can open and close the object despite the lock. You can also set a password that, when spoken within 5 feet of the object, unlocks it for 1 minute.
 
-**Classes:** Artificer, Wizard
+> **Classes:** Artificer, Wizard
 
 ---
 
@@ -104,7 +104,7 @@ You tap into your life force to heal yourself. Roll one or two of your unexpende
 
 ***Using a Higher-Level Spell Slot.*** The number of unexpended Hit Dice you can roll increases by one for each spell slot level above 2.
 
-**Classes:** Sorcerer, Wizard
+> **Classes:** Sorcerer, Wizard
 
 ---
 
@@ -130,7 +130,7 @@ The spell doesn't account for circumstances, such as other spells, that might ch
 
 If you cast the spell more than once before finishing a Long Rest, there is a cumulative 25 percent chance for each casting after the first that you get no answer.
 
-**Classes:** Cleric, Druid, Wizard
+> **Classes:** Cleric, Druid, Wizard
 
 ---
 
@@ -144,7 +144,7 @@ If you cast the spell more than once before finishing a Long Rest, there is a cu
 
 You touch a willing creature. Until the spell ends, the target's skin assumes a bark-like appearance, and the target has an Armor Class of 17 if its AC is lower than that.
 
-**Classes:** Druid, Ranger
+> **Classes:** Druid, Ranger
 
 ---
 
@@ -158,7 +158,7 @@ You touch a willing creature. Until the spell ends, the target's skin assumes a 
 
 You touch a willing Beast. For the duration, you can perceive through the Beast's senses as well as your own. When perceiving through the Beast's senses, you benefit from any special senses it has.
 
-**Classes:** Druid, Ranger
+> **Classes:** Druid, Ranger
 
 ---
 
@@ -174,7 +174,7 @@ One creature that you can see within range must succeed on a Constitution saving
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 2.
 
-**Classes:** Bard, Cleric, Sorcerer, Wizard
+> **Classes:** Bard, Cleric, Sorcerer, Wizard
 
 ---
 
@@ -188,7 +188,7 @@ One creature that you can see within range must succeed on a Constitution saving
 
 Your body becomes blurred. For the duration, any creature has Disadvantage on attack rolls against you. An attacker is immune to this effect if it perceives you with Blindsight or Truesight.
 
-**Classes:** Artificer, Sorcerer, Wizard
+> **Classes:** Artificer, Sorcerer, Wizard
 
 ---
 
@@ -205,7 +205,7 @@ Each Humanoid in a 20-foot-radius Sphere centered on a point you choose within r
 - The creature has Immunity to the Charmed and Frightened conditions until the spell ends. If the creature was already Charmed or Frightened, those conditions are suppressed for the duration.
 - The creature becomes Indifferent about creatures of your choice that it's Hostile toward. This indifference ends if the target takes damage or witnesses its allies taking damage. When the spell ends, the creature's attitude returns to normal.
 
-**Classes:** Bard, Cleric
+> **Classes:** Bard, Cleric
 
 ---
 
@@ -223,7 +223,7 @@ On your later turns, you can take a Magic action to teleport the Cube up to 30 f
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 2d4 for each spell slot level above 2.
 
-**Classes:** Bard, Sorcerer, Warlock, Wizard
+> **Classes:** Bard, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -237,7 +237,7 @@ On your later turns, you can take a Magic action to teleport the Cube up to 30 f
 
 A flame springs from an object that you touch. The effect casts Bright Light in a 20-foot radius and Dim Light for an additional 20 feet. It looks like a regular flame, but it creates no heat and consumes no fuel. The flame can be covered or hidden but not smothered or quenched.
 
-**Classes:** Artificer, Cleric, Druid, Wizard
+> **Classes:** Artificer, Cleric, Druid, Wizard
 
 ---
 
@@ -255,7 +255,7 @@ When you cast this spell, you can designate any creatures you choose, and the sp
 
 ***Using a Higher-Level Spell Slot.*** The amount of ammunition that can be affected increases by two for each spell slot level above 2.
 
-**Classes:** Ranger
+> **Classes:** Ranger
 
 ---
 
@@ -273,7 +273,7 @@ A spectral crown appears on the Charmed target's head, and it must use its actio
 
 On your later turns, you must take the Magic action to maintain control of the target, or the spell ends.
 
-**Classes:** Bard, Sorcerer, Warlock, Wizard
+> **Classes:** Bard, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -291,7 +291,7 @@ Alternatively, you cast the spell on an object that isn't being worn or carried,
 
 If any of this spell's area overlaps with an area of Bright Light or Dim Light created by a spell of level 2 or lower, that other spell is dispelled.
 
-**Classes:** Sorcerer, Warlock, Wizard
+> **Classes:** Sorcerer, Warlock, Wizard
 
 ---
 
@@ -305,7 +305,7 @@ If any of this spell's area overlaps with an area of Bright Light or Dim Light c
 
 For the duration, a willing creature you touch has Darkvision with a range of 150 feet.
 
-**Classes:** Artificer, Druid, Ranger, Sorcerer, Wizard
+> **Classes:** Artificer, Druid, Ranger, Sorcerer, Wizard
 
 ---
 
@@ -327,7 +327,7 @@ The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a th
 
 As a Magic action on your next turn, you can try to probe deeper into the target's mind. If you probe deeper, the target makes a Wisdom saving throw. On a failed save, you discern the target's reasoning, emotions, and something that looms large in its mind (such as a worry, love, or hate). On a successful save, the spell ends. Either way, the target knows that you are probing into its mind, and until you shift your attention away from the target's mind, the target can take an action on its turn to make an Intelligence (Arcana) check against your spell save DC, ending the spell on a success.
 
-**Classes:** Bard, Sorcerer, Wizard
+> **Classes:** Bard, Sorcerer, Wizard
 
 ---
 
@@ -343,7 +343,7 @@ You touch one willing creature, and choose Acid, Cold, Fire, Lightning, or Poiso
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 2.
 
-**Classes:** Sorcerer, Wizard
+> **Classes:** Sorcerer, Wizard
 
 ---
 
@@ -363,7 +363,7 @@ As a bonus action, you can move the dust devil up to 30 feet in any direction. I
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
 
-**Classes:** Druid, Sorcerer, Wizard
+> **Classes:** Druid, Sorcerer, Wizard
 
 ---
 
@@ -377,7 +377,7 @@ As a bonus action, you can move the dust devil up to 30 feet in any direction. I
 
 Choose one creature you can see within range. Yellow strips of magical energy loop around the creature. The target must succeed on a Strength saving throw, or its flying speed (if any) is reduced to 0 feet for the spell's duration. An airborne creature affected by this spell safely descends at 60 feet per round until it reaches the ground or the spell ends.
 
-**Classes:** Druid, Sorcerer, Warlock, Wizard
+> **Classes:** Druid, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -393,7 +393,7 @@ You touch a creature and choose Strength, Dexterity, Intelligence, Wisdom, or Ch
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 2. You can choose a different ability for each target.
 
-**Classes:** Artificer, Bard, Cleric, Druid, Ranger, Sorcerer, Wizard
+> **Classes:** Artificer, Bard, Cleric, Druid, Ranger, Sorcerer, Wizard
 
 ---
 
@@ -413,7 +413,7 @@ Everything that a targeted creature is wearing and carrying changes size with it
 
 ***Reduce.*** The target's size decreases by one category—from Medium to Small, for example. The target also has Disadvantage on Strength checks and Strength saving throws. The target's attacks with its reduced weapons or Unarmed Strikes deal 1d4 less damage on a hit (this can't reduce the damage below 1).
 
-**Classes:** Artificer, Bard, Druid, Sorcerer, Wizard
+> **Classes:** Artificer, Bard, Druid, Sorcerer, Wizard
 
 ---
 
@@ -427,7 +427,7 @@ Everything that a targeted creature is wearing and carrying changes size with it
 
 You weave a distracting string of words, causing creatures of your choice that you can see within range to make a Wisdom saving throw. Any creature you or your companions are fighting automatically succeeds on this save. On a failed save, a target has a -10 penalty to Wisdom (Perception) checks and Passive Perception until the spell ends.
 
-**Classes:** Bard, Warlock
+> **Classes:** Bard, Warlock
 
 ---
 
@@ -449,7 +449,7 @@ The steed resembles a Large, rideable animal of your choice, such as a horse, a 
 
 ***Using a Higher-Level Spell Slot.*** Use the spell slot's level for the spell's level in the stat block.
 
-**Classes:** Paladin
+> **Classes:** Paladin
 
 ---
 
@@ -465,7 +465,7 @@ You sense any trap within range that is within line of sight. A trap, for the pu
 
 This spell reveals that a trap is present but not its location. You do learn the general nature of the danger posed by a trap you sense.
 
-**Classes:** Cleric, Druid, Ranger
+> **Classes:** Cleric, Druid, Ranger
 
 ---
 
@@ -485,7 +485,7 @@ The flaming blade sheds Bright Light in a 10-foot radius and Dim Light for an ad
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 2.
 
-**Classes:** Druid, Sorcerer
+> **Classes:** Druid, Sorcerer
 
 ---
 
@@ -505,7 +505,7 @@ When you move the sphere, you can direct it over barriers up to 5 feet tall and 
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 2.
 
-**Classes:** Druid, Sorcerer, Wizard
+> **Classes:** Druid, Sorcerer, Wizard
 
 ---
 
@@ -521,7 +521,7 @@ You touch a corpse or other remains. For the duration, the target is protected f
 
 The spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don't count against the time limit of spells such as *Raise Dead*.
 
-**Classes:** Cleric, Paladin, Wizard
+> **Classes:** Cleric, Paladin, Wizard
 
 ---
 
@@ -541,7 +541,7 @@ The gust disperses gas or vapor, and it extinguishes candles and similar unprote
 
 As a Bonus Action on your later turns, you can change the direction in which the Line blasts from you.
 
-**Classes:** Druid, Ranger, Sorcerer, Wizard
+> **Classes:** Druid, Ranger, Sorcerer, Wizard
 
 ---
 
@@ -561,7 +561,7 @@ As a bonus action on your turn, you can move the spirit up to 30 feet to a space
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the healing increases by 1d6 for each slot level above 2nd.
 
-**Classes:** Druid, Ranger
+> **Classes:** Druid, Ranger
 
 ---
 
@@ -579,7 +579,7 @@ If a creature is holding or wearing the object and takes the damage from it, the
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 2.
 
-**Classes:** Artificer, Bard, Druid
+> **Classes:** Artificer, Bard, Druid
 
 ---
 
@@ -595,7 +595,7 @@ Choose a Humanoid that you can see within range. The target must succeed on a Wi
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional Humanoid for each spell slot level above 2.
 
-**Classes:** Bard, Cleric, Druid, Sorcerer, Warlock, Wizard
+> **Classes:** Bard, Cleric, Druid, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -611,7 +611,7 @@ A creature you touch has the Invisible condition until the spell ends. The spell
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 2.
 
-**Classes:** Artificer, Bard, Sorcerer, Warlock, Wizard
+> **Classes:** Artificer, Bard, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -631,7 +631,7 @@ If the target is held shut by *Arcane Lock*, that spell is suppressed for 10 min
 
 When you cast the spell, a loud knock, audible up to 300 feet away, emanates from the target.
 
-**Classes:** Bard, Sorcerer, Wizard
+> **Classes:** Bard, Sorcerer, Wizard
 
 ---
 
@@ -645,7 +645,7 @@ When you cast the spell, a loud knock, audible up to 300 feet away, emanates fro
 
 You touch a creature and end one condition on it: Blinded, Deafened, Paralyzed, or Poisoned.
 
-**Classes:** Artificer, Bard, Cleric, Druid, Paladin, Ranger
+> **Classes:** Artificer, Bard, Cleric, Druid, Paladin, Ranger
 
 ---
 
@@ -663,7 +663,7 @@ The target can move only by pushing or pulling against a fixed object or surface
 
 When the spell ends, the target floats gently to the ground if it is still aloft.
 
-**Classes:** Artificer, Sorcerer, Wizard
+> **Classes:** Artificer, Sorcerer, Wizard
 
 ---
 
@@ -677,7 +677,7 @@ When the spell ends, the target floats gently to the ground if it is still aloft
 
 Describe or name a specific kind of Beast, Plant creature, or nonmagical plant. You learn the direction and distance to the closest creature or plant of that kind within 5 miles, if any are present.
 
-**Classes:** Bard, Druid, Ranger
+> **Classes:** Bard, Druid, Ranger
 
 ---
 
@@ -695,7 +695,7 @@ The spell can locate a specific object known to you if you have seen it up close
 
 This spell can't locate an object if any thickness of lead blocks a direct path between you and the object.
 
-**Classes:** Bard, Cleric, Druid, Paladin, Ranger, Wizard
+> **Classes:** Bard, Cleric, Druid, Paladin, Ranger, Wizard
 
 ---
 
@@ -713,7 +713,7 @@ When that trigger occurs, a magical mouth appears on the object and recites the 
 
 The trigger can be as general or as detailed as you like, though it must be based on visual or audible conditions that occur within 30 feet of the object. For example, you could instruct the mouth to speak when any creature moves within 30 feet of the object or when a silver bell rings within 30 feet of it.
 
-**Classes:** Artificer, Bard, Wizard
+> **Classes:** Artificer, Bard, Wizard
 
 ---
 
@@ -729,7 +729,7 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 
 ***Using a Higher-Level Spell Slot.*** The bonus increases to +2 with a level 3-5 spell slot. The bonus increases to +3 with a level 6+ spell slot.
 
-**Classes:** Artificer, Paladin, Ranger, Sorcerer, Wizard
+> **Classes:** Artificer, Paladin, Ranger, Sorcerer, Wizard
 
 ---
 
@@ -749,7 +749,7 @@ To break out, the restrained target can use its action to make a Strength check 
 
 As an action, you can cause the hand to reach for a different creature or to move to a different unoccupied space within range. The hand releases a restrained target if you do either.
 
-**Classes:** Sorcerer, Wizard
+> **Classes:** Sorcerer, Wizard
 
 ---
 
@@ -765,7 +765,7 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 
 ***Using a Higher-Level Spell Slot.*** The damage (both initial and later) increases by 1d4 for each spell slot level above 2.
 
-**Classes:** Wizard
+> **Classes:** Wizard
 
 ---
 
@@ -781,7 +781,7 @@ You drive a spike of psionic energy into the mind of one creature you can see wi
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 2.
 
-**Classes:** Sorcerer, Warlock, Wizard
+> **Classes:** Sorcerer, Warlock, Wizard
 
 ---
 
@@ -799,7 +799,7 @@ Each time a creature hits you with an attack roll during the spell's duration, r
 
 A creature is unaffected by this spell if it has the Blinded condition, Blindsight, or Truesight.
 
-**Classes:** Bard, Sorcerer, Warlock, Wizard
+> **Classes:** Bard, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -813,7 +813,7 @@ A creature is unaffected by this spell if it has the Blinded condition, Blindsig
 
 Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space you can see.
 
-**Classes:** Sorcerer, Warlock, Wizard
+> **Classes:** Sorcerer, Warlock, Wizard
 
 ---
 
@@ -831,7 +831,7 @@ When the Cylinder appears, each creature in it makes a Constitution saving throw
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d10 for each spell slot level above 2.
 
-**Classes:** Druid
+> **Classes:** Druid
 
 ---
 
@@ -853,7 +853,7 @@ You fill a 20-foot cube you can see within range with fey and draconic magic. Ro
 |3| Each creature in the cube must succeed on a Wisdom saving throw or begin giggling until the start of your next turn. A giggling creature is incapacitated and uses all its movement to move in a random direction. |
 |4| Drops of molasses hover in the cube, making it difficult terrain until the start of your next turn.|
 
-**Classes:** Bard, Sorcerer, Wizard
+> **Classes:** Bard, Sorcerer, Wizard
 
 ---
 
@@ -871,7 +871,7 @@ With a touch, you place an illusion on a willing creature or an object that isn'
 
 ***False Aura (Object).*** You change the way the target appears to spells and magical effects that detect magical auras, such as *Detect Magic*. You can make a nonmagical object appear magical, make a magic item appear nonmagical, or change the object's aura so that it appears to belong to a school of magic you choose.
 
-**Classes:** Wizard
+> **Classes:** Wizard
 
 ---
 
@@ -885,7 +885,7 @@ With a touch, you place an illusion on a willing creature or an object that isn'
 
 You radiate a concealing aura in a 30-foot Emanation for the duration. While in the aura, you and each creature you choose have a +10 bonus to Dexterity (Stealth) checks and leave no tracks.
 
-**Classes:** Druid, Ranger
+> **Classes:** Druid, Ranger
 
 ---
 
@@ -905,7 +905,7 @@ While affected by the spell, the target treats the phantasm as if it were real a
 
 An affected target can even take damage from the illusion if the phantasm represents a dangerous creature or hazard. On each of your turns, such a phantasm can deal 2d8 Psychic damage to the target if it is in the phantasm's area or within 5 feet of the phantasm. The target perceives the damage as a type appropriate to the illusion.
 
-**Classes:** Bard, Sorcerer, Wizard
+> **Classes:** Bard, Sorcerer, Wizard
 
 ---
 
@@ -921,7 +921,7 @@ Up to five creatures of your choice who remain within range for the spell's enti
 
 ***Using a Higher-Level Spell Slot.*** The healing increases by 1d8 for each spell slot level above 2.
 
-**Classes:** Cleric, Paladin
+> **Classes:** Cleric, Paladin
 
 ---
 
@@ -935,7 +935,7 @@ Up to five creatures of your choice who remain within range for the spell's enti
 
 You touch a creature and end the Poisoned condition on it. For the duration, the target has Advantage on saving throws to avoid or end the Poisoned condition, and it has Resistance to Poison damage.
 
-**Classes:** Artificer, Cleric, Druid, Paladin, Ranger
+> **Classes:** Artificer, Cleric, Druid, Paladin, Ranger
 
 ---
 
@@ -953,7 +953,7 @@ Choose an area of nonmagical flame that you can see and that fits within a 5-foo
 
 ***Smoke.*** Thick black smoke spreads out from the target in a 20-foot radius, moving around corners. The area of the smoke is heavily obscured. The smoke persists for 1 minute or until a strong wind disperses it.
 
-**Classes:** Artificer, Bard, Sorcerer, Wizard
+> **Classes:** Artificer, Bard, Sorcerer, Wizard
 
 ---
 
@@ -969,7 +969,7 @@ A beam of enervating energy shoots from you toward a creature within range. The 
 
 On a failed save, the target has Disadvantage on Strength-based D20 Tests for the duration. During that time, it also subtracts 1d8 from all its damage rolls. The target repeats the save at the end of each of its turns, ending the spell on a success.
 
-**Classes:** Warlock, Wizard
+> **Classes:** Warlock, Wizard
 
 ---
 
@@ -985,7 +985,7 @@ A burst of cold energy emanates from you in a 30-foot cone. Each creature in tha
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, increase the cold damage by 1d8 for each slot level above 2nd.
 
-**Classes:** Sorcerer, Wizard
+> **Classes:** Sorcerer, Wizard
 
 ---
 
@@ -1001,7 +1001,7 @@ You touch a rope. One end of it hovers upward until the rope hangs perpendicular
 
 The space can hold up to eight Medium or smaller creatures. Attacks, spells, and other effects can't pass into or out of the space, but creatures inside it can see through the portal. Anything inside the space drops out when the spell ends.
 
-**Classes:** Artificer, Wizard
+> **Classes:** Artificer, Wizard
 
 ---
 
@@ -1017,7 +1017,7 @@ You hurl three fiery rays. You can hurl them at one target within range or at se
 
 ***Using a Higher-Level Spell Slot.*** You create one additional ray for each spell slot level above 2.
 
-**Classes:** Sorcerer, Wizard
+> **Classes:** Sorcerer, Wizard
 
 ---
 
@@ -1031,7 +1031,7 @@ You hurl three fiery rays. You can hurl them at one target within range or at se
 
 For the duration, you see creatures and objects that have the Invisible condition as if they were visible, and you can see into the Ethereal Plane. Creatures and objects there appear ghostly.
 
-**Classes:** Artificer, Bard, Sorcerer, Wizard
+> **Classes:** Artificer, Bard, Sorcerer, Wizard
 
 ---
 
@@ -1049,7 +1049,7 @@ If you drop the weapon or throw it, it dissipates at the end of the turn. Therea
 
 ***At Higher Levels.*** When you cast this spell using a 3rd- or 4th-level spell slot, the damage increases to 3d8. When you cast it using a 5th- or 6th-level spell slot, the damage increases to 4d8. When you cast it using a spell slot of 7th level or higher, the damage increases to 5d8.
 
-**Classes:** Sorcerer, Warlock, Wizard
+> **Classes:** Sorcerer, Warlock, Wizard
 
 ---
 
@@ -1067,7 +1067,7 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 2.
 
-**Classes:** Bard, Sorcerer, Wizard
+> **Classes:** Bard, Sorcerer, Wizard
 
 ---
 
@@ -1083,7 +1083,7 @@ The target hit by the strike takes an extra 2d6 Radiant damage from the attack. 
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 2.
 
-**Classes:** Paladin
+> **Classes:** Paladin
 
 ---
 
@@ -1097,7 +1097,7 @@ The target hit by the strike takes an extra 2d6 Radiant damage from the attack. 
 
 For the duration, no sound can be created within or pass through a 20-foot-radius Sphere centered on a point you choose within range. Any creature or object entirely inside the Sphere has Immunity to Thunder damage, and creatures have the Deafened condition while entirely inside it. Casting a spell that includes a Verbal component is impossible there.
 
-**Classes:** Bard, Cleric, Ranger
+> **Classes:** Bard, Cleric, Ranger
 
 ---
 
@@ -1111,7 +1111,7 @@ For the duration, no sound can be created within or pass through a 20-foot-radiu
 
 You cause up to ten words to form in a part of the sky you can see. The words appear to be made of cloud and remain in place for the spell's duration. The words dissipate when the spell ends. A strong wind can disperse the clouds and end the spell early.
 
-**Classes:** Artificer, Bard, Druid, Wizard
+> **Classes:** Artificer, Bard, Druid, Wizard
 
 ---
 
@@ -1127,7 +1127,7 @@ A flurry of magic snowballs erupts from a point you choose within range. Each cr
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
 
-**Classes:** Sorcerer, Wizard
+> **Classes:** Sorcerer, Wizard
 
 ---
 
@@ -1143,7 +1143,7 @@ Until the spell ends, one willing creature you touch gains the ability to move u
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level about 2.
 
-**Classes:** Artificer, Sorcerer, Warlock, Wizard
+> **Classes:** Artificer, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -1159,7 +1159,7 @@ The ground in a 20-foot-radius Sphere centered on a point within range sprouts h
 
 The transformation of the ground is camouflaged to look natural. Any creature that can't see the area when the spell is cast must take a Search action and succeed on a Wisdom (Perception or Survival) check against your spell save DC to recognize the terrain as hazardous before entering it.
 
-**Classes:** Druid, Ranger
+> **Classes:** Druid, Ranger
 
 ---
 
@@ -1177,7 +1177,7 @@ As a Bonus Action on your later turns, you can move the force up to 20 feet and 
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for every slot level above 2.
 
-**Classes:** Cleric
+> **Classes:** Cleric
 
 ---
 
@@ -1207,7 +1207,7 @@ You suggest a course of activity—described in no more than 25 words—to one c
 
 The target must succeed on a Wisdom saving throw or have the Charmed condition for the duration or until you or your allies deal damage to the target. The Charmed target pursues the suggestion to the best of its ability. The suggested activity can continue for the entire duration, but if the suggested activity can be completed in a shorter time, the spell ends for the target upon completing it.
 
-**Classes:** Bard, Sorcerer, Warlock, Wizard
+> **Classes:** Bard, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -1225,7 +1225,7 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 ***Using a Higher-Level Spell Slot.*** Use the spell slot's level for the spell's level in the stat block.
 
-**Classes:** Druid, Ranger
+> **Classes:** Druid, Ranger
 
 ---
 
@@ -1255,7 +1255,7 @@ You touch another creature that is willing and create a mystic connection betwee
 
 The spell ends if you drop to 0 Hit Points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures.
 
-**Classes:** Cleric, Paladin
+> **Classes:** Cleric, Paladin
 
 ---
 
@@ -1277,7 +1277,7 @@ The wind has the following effects:
 - The area is difficult terrain for creatures other than you.
 - The attack rolls of ranged weapon attacks have disadvantage if the attacks pass in or out of the wind.
 
-**Classes:** Bard, Druid, Sorcerer, Wizard
+> **Classes:** Bard, Druid, Sorcerer, Wizard
 
 ---
 
@@ -1299,7 +1299,7 @@ A creature Restrained by the webs can take an action to make a Strength (Athleti
 
 The webs are flammable. Any 5-foot Cube of webs exposed to fire burns away in 1 round, dealing 2d4 Fire damage to any creature that starts its turn in the fire.
 
-**Classes:** Artificer, Sorcerer, Wizard
+> **Classes:** Artificer, Sorcerer, Wizard
 
 ---
 
@@ -1315,4 +1315,4 @@ You create a magical zone that guards against deception in a 15-foot-radius Sphe
 
 An affected creature is aware of the spell and can avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive yet must be truthful.
 
-**Classes:** Bard, Cleric, Paladin
+> **Classes:** Bard, Cleric, Paladin

@@ -26,7 +26,7 @@ Any damage or other effects that apply to an astral form have no effect on the t
 
 When the spell ends for a target who isn't dead, the target reappears in its body and exits the state of suspended animation.
 
-**Classes:** Cleric, Warlock, Wizard
+> **Classes:** Cleric, Warlock, Wizard
 
 ---
 
@@ -56,7 +56,7 @@ The blade can harmlessly pass through any barrier, including a *wall of force*.
 
 You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target has Advantage on D20 Tests, and other creatures have Disadvantage on attack rolls against it. The spell ends early if you cast it again.
 
-**Classes:** Bard, Druid, Warlock, Wizard
+> **Classes:** Bard, Druid, Warlock, Wizard
 
 ---
 
@@ -76,7 +76,7 @@ Deities and other planar rulers can prevent portals created by this spell from o
 
 When you cast this spell, you can speak the name of a specific creature (a pseudonym, title, or nickname doesn't work). If that creature is on a plane other than the one you are on, the portal opens next to the named creature and transports it to the nearest unoccupied space on your side of the portal. You gain no special power over the creature, and it is free to act as the DM deems appropriate. It might leave, attack you, or help you.
 
-**Classes:** Cleric, Sorcerer, Warlock, Wizard
+> **Classes:** Cleric, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -100,7 +100,7 @@ Until the spell ends, the target is also affected by one of the following effect
 - **Ending the Spell.** When you cast the spell, specify a trigger that will end it. The trigger can be as simple or as elaborate as you choose, but the DM must agree that it has a high likelihood of happening within the next decade. The trigger must be an observable action, such as someone making a particular offering at the temple of your god, saving your true love, or defeating a specific monster.
 A *Dispel Magic* spell can end the spell only if it is cast with a level 9 spell slot, targeting either the prison or the component used to create it.
 
-**Classes:** Warlock, Wizard
+> **Classes:** Warlock, Wizard
 
 ---
 
@@ -114,7 +114,7 @@ A *Dispel Magic* spell can end the spell only if it is cast with a level 9 spell
 
 You are immune to all damage until the spell ends.
 
-**Classes:** Wizard
+> **Classes:** Wizard
 
 ---
 
@@ -128,7 +128,7 @@ You are immune to all damage until the spell ends.
 
 A flood of healing energy flows from you into creatures around you. You restore up to 700 Hit Points, divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell also have the Blinded, Deafened, and Poisoned conditions removed from them.
 
-**Classes:** Cleric
+> **Classes:** Cleric
 
 ---
 
@@ -150,7 +150,7 @@ The creature is limited in the actions it can perform by the nature of its new f
 
 The target's gear melds into the new form. The target can't activate, use, wield, or otherwise benefit from any of its equipment.
 
-**Classes:** Bard, Sorcerer, Wizard
+> **Classes:** Bard, Sorcerer, Wizard
 
 ---
 
@@ -166,7 +166,7 @@ Blazing orbs of fire plummet to the ground at four different points you can see 
 
 A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area, and the object starts burning if it's flammable.
 
-**Classes:** Sorcerer, Wizard
+> **Classes:** Sorcerer, Wizard
 
 ---
 
@@ -180,7 +180,7 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 
 A wave of healing energy washes over one creature you can see within range. The target regains all its Hit Points. If the creature has the Charmed, Frightened, Paralyzed, Poisoned, or Stunned condition, the condition ends. If the creature has the Prone condition, it can use its Reaction to stand up.
 
-**Classes:** Bard, Cleric
+> **Classes:** Bard, Cleric
 
 ---
 
@@ -194,7 +194,7 @@ A wave of healing energy washes over one creature you can see within range. The 
 
 You compel one creature you can see within range to die. If the target has 100 Hit Points or fewer, it dies. Otherwise, it takes 12d12 Psychic damage.
 
-**Classes:** Bard, Sorcerer, Warlock, Wizard
+> **Classes:** Bard, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -225,7 +225,7 @@ The wall, which has AC 10, can be destroyed one layer at a time, in order from r
 | 6 | **Indigo.** *Failed Save:* The target has the Restrained condition and makes a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the condition ends. If it fails three times, it has the Petrified condition until it is freed by an effect like the *Greater Restoration* spell. The successes and failures needn't be consecutive; keep track of both until the target collects three of a kind. *Additional Effects:* Spells can't be cast through this layer, which is destroyed by Bright Light shed by the *Daylight* spell. |
 | 7 | **Violet.** *Failed Save:* The target has the Blinded condition and makes a Wisdom saving throw at the start of your next turn. On a successful save, the condition ends. On a failed save, the condition ends, and the creature teleports to another plane of existence (DM's choice). *Additional Effects:* This layer is destroyed by *Dispel Magic*.|
 
-**Classes:** Bard, Wizard
+> **Classes:** Bard, Wizard
 
 ---
 
@@ -243,7 +243,7 @@ Each target must make an Intelligence saving throw. On a failed save, a target t
 
 A stunned target can make an Intelligence saving throw at the end of each of its turns. On a successful save, the stunning effect ends.
 
-**Classes:** Bard, Sorcerer, Warlock, Wizard
+> **Classes:** Bard, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -263,7 +263,7 @@ Your game statistics are replaced by the stat block of the chosen form, but you 
 
 Upon shape-shifting, you determine whether your equipment drops to the ground or changes in size and shape to fit the new form while you're in it.
 
-**Classes:** Druid, Wizard
+> **Classes:** Druid, Wizard
 
 ---
 
@@ -287,7 +287,7 @@ At the start of each of your later turns, the storm produces different effects, 
 
 ***Turns 5-10.*** Gusts and freezing rain assail the area under the cloud. Each creature there takes 1d6 Cold damage. Until the spell ends, the area is Difficult Terrain and Heavily Obscured, ranged attacks with weapons are impossible there, and strong wind blows through the area.
 
-**Classes:** Druid
+> **Classes:** Druid
 
 ---
 
@@ -303,7 +303,7 @@ You briefly stop the flow of time for everyone but yourself. No time passes for 
 
 This spell ends if one of the actions you use during this period, or any effects that you create during it, affects a creature other than you or an object being worn or carried by someone other than you. In addition, the spell ends if you move to a place more than 1,000 feet from the location where you cast it.
 
-**Classes:** Sorcerer, Wizard
+> **Classes:** Sorcerer, Wizard
 
 ---
 
@@ -333,7 +333,7 @@ If the spell lasts more than an hour, you no longer control the creature. It mig
 
 ***Creature into Object.*** If you turn a creature into an object, it transforms along with whatever it is wearing and carrying into that form, as long as the object's size is no larger than the creature's size. The creature's statistics become those of the object, and the creature has no memory of time spent in this form after the spell ends and it returns to normal.
 
-**Classes:** Bard, Warlock, Wizard
+> **Classes:** Bard, Warlock, Wizard
 
 ---
 
@@ -351,7 +351,7 @@ This spell closes all wounds, neutralizes any poison, cures all magical contagio
 
 The spell can provide a new body if the original no longer exists, in which case you must speak the creature's name. The creature then appears in an unoccupied space you choose within 10 feet of you.
 
-**Classes:** Cleric, Druid
+> **Classes:** Cleric, Druid
 
 ---
 
@@ -367,7 +367,7 @@ You try to create illusory terrors in others' minds. Each creature of your choic
 
 A Frightened target makes a Wisdom saving throw at the end of each of its turns. On a failed save, it takes 5d10 Psychic damage. On a successful save, the spell ends on that target.
 
-**Classes:** Warlock, Wizard
+> **Classes:** Warlock, Wizard
 
 ---
 
@@ -394,4 +394,4 @@ Alternatively, you can create one of the following effects of your choice:
 - **Reshape Reality.** You may wish for something not included in any of the other effects. To do so, state your wish to the DM as precisely as possible. The DM has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. This spell might simply fail, the effect you desire might be achieved only in part, or you might suffer an unforeseen consequence as a result of how you worded the wish. For example, wishing that a villain were dead might propel you forward in time to a period when that villain is no longer alive, effectively removing you from the game. Similarly, wishing for a Legendary magic item or an Artifact might instantly transport you to the presence of the item's current owner. If your wish is granted and its effects have consequences for a whole community, region, or world, you are likely to attract powerful foes. If your wish would affect a god, the god's divine servants might instantly intervene to prevent it or to encourage you to craft the wish in a particular way. If your wish would undo the multiverse itself, threaten the City of Sigil, or affect the Lady of Pain in any way, you see an image of her in your mind for a moment; she shakes her head, and your wish fails.
 The stress of casting Wish to produce any effect other than duplicating another spell weakens you. After enduring that stress, each time you cast a spell until you finish a Long Rest, you take 1d10 Necrotic damage per level of that spell. This damage can't be reduced or prevented in any way. In addition, your Strength score becomes 3 for 2d4 days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. Finally, there is a 33 percent chance that you are unable to cast *Wish* ever again if you suffer this stress.
 
-**Classes:** Sorcerer, Wizard
+> **Classes:** Sorcerer, Wizard

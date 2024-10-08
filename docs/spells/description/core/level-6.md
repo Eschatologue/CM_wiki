@@ -23,7 +23,7 @@ The portals are two-dimensional glowing rings filled with mist that blocks sight
 
 A portal is open on only one side (you choose which). Anything entering the open side of a portal exits from the open side of the other portal as if the two were adjacent to each other. As a Bonus Action, you can change the facing of the open sides.
 
-**Classes:** Sorcerer, Warlock, Wizard
+> **Classes:** Sorcerer, Warlock, Wizard
 
 ---
 
@@ -39,7 +39,7 @@ You create a wall of whirling blades made of magical energy. The wall appears wi
 
 Any creature in the wall's space makes a Dexterity saving throw, taking 6d10 Force damage on a failed save or half as much damage on a successful one. A creature also makes that save if it enters the wall's space or ends it turn there. A creature makes that save only once per turn.
 
-**Classes:** Cleric
+> **Classes:** Cleric
 
 ---
 
@@ -59,7 +59,7 @@ If a pillar is prevented from reaching its full height because of a ceiling or o
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, you can create two additional pillars for each slot level above 6th.
 
-**Classes:** Druid
+> **Classes:** Druid
 
 ---
 
@@ -77,7 +77,7 @@ Each target makes a Dexterity saving throw, taking 10d8 Lightning damage on a fa
 
 ***Using a Higher-Level Spell Slot.*** One additional bolt leaps from the first target to another target for each spell slot level above 6.
 
-**Classes:** Sorcerer, Wizard
+> **Classes:** Sorcerer, Wizard
 
 ---
 
@@ -93,7 +93,7 @@ Negative energy ripples out in a 60-foot-radius Sphere from a point you choose w
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 2d8 for each spell slot level above 6.
 
-**Classes:** Sorcerer, Warlock, Wizard
+> **Classes:** Sorcerer, Warlock, Wizard
 
 ---
 
@@ -111,7 +111,7 @@ As a Bonus Action on your later turns, you can teleport the spirit to an unoccup
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 2d12 for each spell slot level above 6.
 
-**Classes:** Druid
+> **Classes:** Druid
 
 ---
 
@@ -129,7 +129,7 @@ The contingent spell takes effect immediately after the trigger occurs for the f
 
 The contingent spell takes effect only on you, even if it can normally target others. You can use only one Contingency spell at a time. If you cast this spell again, the effect of another Contingency spell on you ends. Also, Contingency ends on you if its material component is ever not on your person.
 
-**Classes:** Wizard
+> **Classes:** Wizard
 
 ---
 
@@ -147,7 +147,7 @@ The statistics of the **homunculus** are in the Monster Manual. It is your faith
 
 You can have only one homunculus at a time. If you cast this spell while your homunculus lives, the spell fails.
 
-**Classes:** Wizard
+> **Classes:** Wizard
 
 ---
 
@@ -167,7 +167,7 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 ***Using a Higher-Level Spell Slot.*** If you use a level 7 spell slot, you can animate or reassert control over four **Ghouls**. If you use a level 8 spell slot, you can animate or reassert control over five **Ghouls** or two **Ghasts** or **Wights**. If you use a level 9 spell slot, you can animate or reassert control over six **Ghouls**, three **Ghasts** or **Wights**, or two **Mummies**. See the *Monster Manual* for these stat blocks.
 
-**Classes:** Cleric, Warlock, Wizard
+> **Classes:** Cleric, Warlock, Wizard
 
 ---
 
@@ -187,7 +187,7 @@ This spell automatically disintegrates a Large or smaller nonmagical object or a
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 3d6 for each spell slot level above 6.
 
-**Classes:** Sorcerer, Wizard
+> **Classes:** Sorcerer, Wizard
 
 ---
 
@@ -205,7 +205,7 @@ Thereafter, you can take a Magic action to speak the object's name and crush the
 
 If another creature is holding or carrying the object, crushing the sapphire doesn't transport it, but instead you learn who that creature is and where that creature is currently located.
 
-**Classes:** Wizard
+> **Classes:** Wizard
 
 ---
 
@@ -237,7 +237,7 @@ The entire warded area radiates magic. A *dispel magic* cast on the area, if suc
 
 To a creature immune to this effect, the winds are a fragrant, gentle breeze, and the area of *spike growth* is harmless.
 
-**Classes:** Druid
+> **Classes:** Druid
 
 ---
 
@@ -259,7 +259,7 @@ On each of your turns until the spell ends, you can take a Magic action to targe
 
 ***Sickened.*** The target has the Poisoned condition.
 
-**Classes:** Bard, Sorcerer, Warlock, Wizard
+> **Classes:** Bard, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -275,7 +275,7 @@ You magically sense the most direct physical route to a location you name. You m
 
 For the duration, as long as you are on the same plane of existence as the destination, you know how far it is and in what direction it lies. Whenever you face a choice of paths along the way there, you know which path is the most direct.
 
-**Classes:** Bard, Cleric, Druid
+> **Classes:** Bard, Cleric, Druid
 
 ---
 
@@ -295,7 +295,7 @@ You create a field of silvery light that surrounds a creature of your choice wit
 
 As a bonus action on subsequent turns, you can move the field to another creature within 60 feet of the field.
 
-**Classes:** Sorcerer, Wizard
+> **Classes:** Sorcerer, Wizard
 
 ---
 
@@ -313,7 +313,7 @@ A Restrained target makes another Constitution saving throw at the end of each o
 
 If you maintain your Concentration on this spell for the entire possible duration, the target is Petrified until the condition is ended by *Greater Restoration* or similar magic.
 
-**Classes:** Druid, Sorcerer, Wizard
+> **Classes:** Druid, Sorcerer, Wizard
 
 ---
 
@@ -333,7 +333,7 @@ You can designate a password when you cast the spell. A creature that speaks the
 
 The spell's area can't overlap with the area of another Forbiddance spell. If you cast *Forbiddance* every day for 30 days in the same location, the spell lasts until it is dispelled, and the Material components are consumed on the last casting.
 
-**Classes:** Cleric
+> **Classes:** Cleric
 
 ---
 
@@ -351,7 +351,7 @@ Any spell of level 5 or lower cast from outside the barrier can't affect anythin
 
 ***Using a Higher-Level Spell Slot.*** The barrier blocks spells of 1 level higher for each spell slot level above 6.
 
-**Classes:** Sorcerer, Wizard
+> **Classes:** Sorcerer, Wizard
 
 ---
 
@@ -383,7 +383,7 @@ The spell creates the effects below within the warded area. *Dispel Magic* has n
 - *Gust of Wind* in one corridor or room (the wind blows continuously while the spell lasts)
 - *Suggestion* in one 5-foot square; any creature that enters that square receives the suggestion mentally
 
-**Classes:** Bard, Wizard
+> **Classes:** Bard, Wizard
 
 ---
 
@@ -397,7 +397,7 @@ The spell creates the effects below within the warded area. *Dispel Magic* has n
 
 You unleash virulent magic on a creature you can see within range. The target makes a Constitution saving throw. On a failed save, it takes 14d6 Necrotic damage, and its Hit Point maximum is reduced by an amount equal to the Necrotic damage it took. On a successful save, it takes half as much damage only. This spell can't reduce a target's Hit Point maximum below 1.
 
-**Classes:** Cleric
+> **Classes:** Cleric
 
 ---
 
@@ -413,7 +413,7 @@ Choose a creature that you can see within range. Positive energy washes through 
 
 ***Using a Higher-Level Spell Slot.*** The healing increases by 10 for each spell slot level above 6.
 
-**Classes:** Cleric, Druid
+> **Classes:** Cleric, Druid
 
 ---
 
@@ -429,7 +429,7 @@ You conjure a feast that appears on a surface in an unoccupied 10-foot Cube next
 
 A creature that partakes gains several benefits, which last for 24 hours. The creature has Resistance to Poison damage, and it has Immunity to the Frightened and Poisoned conditions. Its Hit Point maximum also increases by 2d10, and it gains the same number of Hit Points.
 
-**Classes:** Bard, Cleric, Druid
+> **Classes:** Bard, Cleric, Druid
 
 ---
 
@@ -447,7 +447,7 @@ Flames race across your body, shedding bright light in a 30-foot radius and dim 
 - Any creature that moves within 5 feet of you for the first time on a turn or ends its turn there takes 1d10 fire damage.
 - You can use your action to create a line of fire 15 feet long and 5 feet wide extending from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 4d8 fire damage on a failed save, or half as much damage on a successful one.
 
-**Classes:** Druid, Sorcerer, Warlock, Wizard
+> **Classes:** Druid, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -466,7 +466,7 @@ Until the spell ends, ice rimes your body, and you gain the following benefits:
 - The ground in a 10-foot radius around you is icy and is difficult terrain for creatures other than you. The radius moves with you.
 - You can use your action to create a 15-foot cone of freezing wind extending from your outstretched hand in a direction you choose. Each creature in the cone must make a Constitution saving throw. A creature takes 4d6 cold damage on a failed save, or half as much damage on a successful one. A creature that fails its save against this effect has its speed halved until the start of your next turn.
 
-**Classes:** Druid, Sorcerer, Warlock, Wizard
+> **Classes:** Druid, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -484,7 +484,7 @@ Until the spell ends, bits of rock spread across your body, and you gain the fol
 - You can use your action to create a small earthquake on the ground in a 15-foot radius centered on you. Other creatures on that ground must succeed on a Dexterity saving throw or be knocked prone.
 - You can move across difficult terrain made of earth or stone without spending extra movement. You can move through solid earth or stone as if it was air and without destabilizing it, but you can't end your movement there. If you do so, you are ejected to the nearest unoccupied space, this spell ends, and you are stunned until the end of your next turn.
 
-**Classes:** Druid, Sorcerer, Warlock, Wizard
+> **Classes:** Druid, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -502,7 +502,7 @@ Until the spell ends, wind whirls around you, and you gain the following benefit
 - You gain a flying speed of 60 feet. If you are still flying when the spell ends, you fall, unless you can somehow prevent it.
 - You can use your action to create a 15-foot cube of swirling wind centered on a point you can see within 60 feet of you. Each creature in that area must make a Constitution saving throw. A creature takes 2d10 bludgeoning damage on a failed save, or half as much damage on a successful one. If a Large or smaller creature fails the save, that creature is also pushed up to 10 feet away from the center of the cube.
 
-**Classes:** Druid, Sorcerer, Warlock, Wizard
+> **Classes:** Druid, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -528,7 +528,7 @@ If the container is destroyed or the spell ends, your soul returns to your body.
 
 When the spell ends, the container is destroyed.
 
-**Classes:** Wizard
+> **Classes:** Wizard
 
 ---
 
@@ -546,7 +546,7 @@ Each target must succeed on a Wisdom saving throw or have the Charmed condition 
 
 ***Using a Higher-Level Spell Slot.*** The duration is longer with a spell slot of level 7 (10 days), 8 (30 days), or 9 (366 days).
 
-**Classes:** Bard, Sorcerer, Wizard
+> **Classes:** Bard, Sorcerer, Wizard
 
 ---
 
@@ -560,7 +560,7 @@ Each target must succeed on a Wisdom saving throw or have the Charmed condition 
 
 You attempt to bind a creature within an illusory cell that only it perceives. One creature you can see within range must make an Intelligence saving throw. The target succeeds automatically if it is immune to being charmed. On a successful save, the target takes 5d10 psychic damage, and the spell ends. On a failed save, the target takes 5d10 psychic damage, and you make the area immediately around the target's space appear dangerous to it in some way. You might cause the target to perceive itself as being surrounded by fire, floating razors, or hideous maws filled with dripping teeth. Whatever form the illusion takes, the target can't see or hear anything beyond it and is restrained for the spell's duration. If the target is moved out of the illusion, makes a melee attack through it, or reaches any part of its body through it, the target takes 10d10 psychic damage, and the spell ends.
 
-**Classes:** Sorcerer, Warlock, Wizard
+> **Classes:** Sorcerer, Warlock, Wizard
 
 ---
 
@@ -580,7 +580,7 @@ This spell can't manipulate natural stone or stone construction. Rocks and struc
 
 Similarly, this spell doesn't directly affect plant growth. The moved earth carries any plants along with it.
 
-**Classes:** Druid, Sorcerer, Wizard
+> **Classes:** Druid, Sorcerer, Wizard
 
 ---
 
@@ -600,7 +600,7 @@ You can refrain from firing the globe after completing the spell's casting. If y
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 6.
 
-**Classes:** Sorcerer, Wizard
+> **Classes:** Sorcerer, Wizard
 
 ---
 
@@ -616,7 +616,7 @@ One creature that you can see within range must make a Wisdom saving throw. On a
 
 On a failed save, the target has the Charmed condition for the duration. While Charmed, the target dances comically, must use all its movement to dance in place, and has Disadvantage on Dexterity saving throws and attack rolls, and other creatures have Advantage on attack rolls against it. On each of its turns, the target can take an action to collect itself and repeat the save, ending the spell on itself on a success.
 
-**Classes:** Bard, Wizard
+> **Classes:** Bard, Wizard
 
 ---
 
@@ -638,7 +638,7 @@ A task that can be measured in minutes requires a payment worth 100 GP per minut
 
 After the creature completes the task, or when the agreed-upon duration of service expires, the creature returns to its home plane after reporting back to you if possible. If you are unable to agree on a price for the creature's service, the creature immediately returns to its home plane.
 
-**Classes:** Cleric
+> **Classes:** Cleric
 
 ---
 
@@ -654,7 +654,7 @@ You have resistance to acid, cold, fire, lightning, and thunder damage for the s
 
 When you take damage of one of those types, you can use your reaction to gain immunity to that type of damage, including against the triggering damage. If you do so, the resistances end, and you have the immunity until the end of your next turn, at which time the spell ends.
 
-**Classes:** Druid
+> **Classes:** Druid
 
 ---
 
@@ -674,7 +674,7 @@ The trigger can be as general or as detailed as you like, though it must be base
 
 Physical interaction with the image reveals it to be illusory, since things can pass through it. A creature that takes the Study action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.
 
-**Classes:** Bard, Wizard
+> **Classes:** Bard, Wizard
 
 ---
 
@@ -688,7 +688,7 @@ Physical interaction with the image reveals it to be illusory, since things can 
 
 The air quivers around up to five creatures of your choice that you can see within range. An unwilling creature must succeed on a Wisdom saving throw to resist this spell. You teleport each affected target to an unoccupied space that you can see within 120 feet of you. That space must be on the ground or on a floor.
 
-**Classes:** Sorcerer, Warlock, Wizard
+> **Classes:** Sorcerer, Warlock, Wizard
 
 ---
 
@@ -712,7 +712,7 @@ This spell snatches the soul of a humanoid as it dies and traps it inside the ti
 
 A creature that can see the sensor (such as one using *see invisibility* or truesight) sees a translucent image of the tormented humanoid whose soul you caged.
 
-**Classes:** Warlock, Wizard
+> **Classes:** Warlock, Wizard
 
 ---
 
@@ -730,7 +730,7 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 ***Using a Higher-Level Spell Slot.*** Use the spell slot's level for the spell's level in the stat block.
 
-**Classes:** Warlock, Wizard
+> **Classes:** Warlock, Wizard
 
 ---
 
@@ -748,7 +748,7 @@ Until the spell ends, you can take a Magic action to create a new Line of radian
 
 For the duration, a mote of brilliant radiance shines above you. It sheds Bright Light in a 30-foot radius and Dim Light for an additional 30 feet. This light is sunlight.
 
-**Classes:** Cleric, Druid, Sorcerer, Wizard
+> **Classes:** Cleric, Druid, Sorcerer, Wizard
 
 ---
 
@@ -766,7 +766,7 @@ The liquid in the cauldron duplicates the properties of a Common or an Uncommon 
 
 Potions obtained from the cauldron that aren't consumed disappear when you cast this spell again.
 
-**Classes:** Warlock, Wizard
+> **Classes:** Warlock, Wizard
 
 ---
 
@@ -808,7 +808,7 @@ You endow yourself with endurance and martial prowess fueled by magic. Until the
 
 Immediately after the spell ends, you must succeed on a DC 15 Constitution saving throw or suffer one level of exhaustion.
 
-**Classes:** Wizard
+> **Classes:** Wizard
 
 ---
 
@@ -822,7 +822,7 @@ Immediately after the spell ends, you must succeed on a DC 15 Constitution savin
 
 This spell creates a magical link between a Large or larger inanimate plant within range and another plant, at any distance, on the same plane of existence. You must have seen or touched the destination plant at least once before. For the duration, any creature can step into the target plant and exit from the destination plant by using 5 feet of movement.
 
-**Classes:** Druid
+> **Classes:** Druid
 
 ---
 
@@ -836,7 +836,7 @@ This spell creates a magical link between a Large or larger inanimate plant with
 
 For the duration, the willing creature you touch has Truesight with a range of 120 feet.
 
-**Classes:** Bard, Cleric, Sorcerer, Warlock, Wizard
+> **Classes:** Bard, Cleric, Sorcerer, Warlock, Wizard
 
 ---
 
@@ -858,7 +858,7 @@ A creature moving through the sheet of frigid air for the first time on a turn m
 
 ***Using a Higher-Level Spell Slot.*** The damage the wall deals when it appears increases by 2d6 and the damage from passing through the sheet of frigid air increases by 1d6 for each spell slot level above 6.
 
-**Classes:** Wizard
+> **Classes:** Wizard
 
 ---
 
@@ -878,7 +878,7 @@ A creature can move through the wall, albeit slowly and painfully. For every 1 f
 
 ***Using a Higher-Level Spell Slot.*** Both types of damage increase by 1d8 for each spell slot level above 6.
 
-**Classes:** Druid
+> **Classes:** Druid
 
 ---
 
@@ -894,7 +894,7 @@ You and up to ten willing creatures of your choice within range assume gaseous f
 
 If a target is in cloud form and flying when the effect ends, the target descends 60 feet per round for 1 minute until it lands, which it does safely. If it can't land after 1 minute, it falls the remaining distance.
 
-**Classes:** Druid
+> **Classes:** Druid
 
 ---
 
@@ -910,4 +910,4 @@ You and up to five willing creatures within 5 feet of you instantly teleport to 
 
 You must designate a location, such as a temple, as a sanctuary by casting this spell there.
 
-**Classes:** Cleric
+> **Classes:** Cleric
