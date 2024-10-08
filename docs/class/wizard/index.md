@@ -153,23 +153,40 @@ This section presents the Wizard spell list. The spells are organized by spell l
 
 ##### Cantrips (Level 0 Wizard Spells)
 
-| Spell | School | Special |
-|---|---|:-:|
-| *Acid Splash* | Evocation | — |
-| *Chill Touch* | Necromancy | — |
-| *Dancing Lights* | Illusion | C |
-| *Fire Bolt* | Evocation | — |
-| *Light* | Evocation | — |
-| *Mage Hand* | Conjuration | — |
-| *Mending* | Transmutation | — |
-| *Message* | Transmutation | — |
-| *Minor Illusion* | Illusion | — |
-| *Poison Spray* | Necromancy | — |
-| *Prestidigitation* | Transmutation | — |
-| *Ray of Frost* | Evocation | — |
-| *Shocking Grasp* | Evocation | — |
-| *Thunderclap* | Evocation | — |
-| *True Strike* | Divination | — |
+| Name | Casting Time | School | Duration | Source |
+|---|---|:-:|---|---|
+| Acid Splash | Action | Evocation | Instantaneous | PHB'24 |
+| Blade Ward | Action | Abjuration | Concentration, up to 1 minute | PHB'24 |
+| Booming Blade | Action | Evocation | 1 round | TCE |
+| Chill Touch | Action | Necromancy | Instantaneous | PHB'24 |
+| Control Flames | Action | Transmutation | Instantaneous or 1 hour (see below) | XGE |
+| Create Bonfire | Action | Conjuration | Concentration, up to 1 minute | XGE |
+| Dancing Lights | Action | Illusion | Concentration, up to 1 minute | PHB'24 |
+| Elementalism | Action | Transmutation | Instantaneous | PHB'24 |
+| Fire Bolt | Action | Evocation | Instantaneous | PHB'24 |
+| Friends | Action | Enchantment | Concentration, up to 1 minute | PHB'24 |
+| Frostbite | Action | Evocation | Instantaneous | XGE |
+| Green-Flame Blade | Action | Evocation | Instantaneous | TCE |
+| Gust | Action | Transmutation | Instantaneous | XGE |
+| Infestation | Action | Conjuration | Instantaneous | XGE |
+| Light | Action | Evocation | 1 hour | PHB'24 |
+| Lightning Lure | Action | Evocation | Instantaneous | TCE |
+| Mage Hand | Action | Conjuration | 1 minute | PHB'24 |
+| Mending | 1 Min. | Transmutation | Instantaneous | PHB'24 |
+| Message | Action | Transmutation | 1 round | PHB'24 |
+| Mind Sliver | Action | Enchantment | Instantaneous | PHB'24 |
+| Minor Illusion | Action | Illusion | 1 minute | PHB'24 |
+| Mold Earth | Action | Transmutation | Instantaneous or 1 hour (see below) | XGE |
+| Poison Spray | Action | Necromancy | Instantaneous | PHB'24 |
+| Prestidigitation | Action | Transmutation | 1 hour | PHB'24 |
+| Ray of Frost | Action | Evocation | Instantaneous | PHB'24 |
+| Shape Water | Action | Transmutation | Instantaneous or 1 hour (see below) | XGE |
+| Shocking Grasp | Action | Evocation | Instantaneous | PHB'24 |
+| Sword Burst | Action | Conjuration | Instantaneous | TCE |
+| Thunderclap | Action | Evocation | Instantaneous | PHB'24 |
+| Toll the Dead | Action | Necromancy | Instantaneous | PHB'24 |
+| True Strike | Action | Divination | Instantaneous | PHB'24 |
+
 
 ##### Level 1 Wizard Spells
 
