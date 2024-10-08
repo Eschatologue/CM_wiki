@@ -11,10 +11,10 @@ search:
 ### Animate Objects
 *Level 5 Transmutation*
 
-**Casting Time:** Action
-- **Range:** 120 feet
-- **Components:** V, S
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Action  
+**Range:** 120 feet  
+**Components:** V, S  
+**Duration:** Concentration, up to 1 minute
 
 Objects animate at your command. Choose a number of nonmagical objects within range that aren't being worn or carried, aren't fixed to a surface, and aren't Gargantuan. The maximum number of objects is equal to your spellcasting ability modifier; for this number, a Medium or smaller target counts as one object, a Large target counts as two, and a Huge target counts as three.
 
@@ -31,10 +31,10 @@ Until the spell ends, you can take a Bonus Action to mentally command any creatu
 ### Antilife Shell
 *Level 5 Abjuration*
 
-**Casting Time:** Action
-- **Range:** Self (10-foot emanation)
-- **Components:** V, S
-- **Duration:** Concentration, up to 1 hour
+**Casting Time:** Action  
+**Range:** Self (10-foot emanation)  
+**Components:** V, S  
+**Duration:** Concentration, up to 1 hour
 
 An aura extends from you in a 10-foot Emanation for the duration. The aura prevents creatures other than Constructs and Undead from passing or reaching through it. An affected creature can cast spells or make attacks with Ranged or Reach weapons through the barrier.
 
@@ -47,10 +47,10 @@ If you move so that an affected creature is forced to pass through the barrier, 
 ### Awaken
 *Level 5 Transmutation*
 
-**Casting Time:** 8 hours
-- **Range:** Touch
-- **Components:** V, S, M (an agate worth 1,000+ GP, which the spell consumes)
-- **Duration:** Instantaneous
+**Casting Time:** 8 hours  
+**Range:** Touch  
+**Components:** V, S, M (an agate worth 1,000+ GP, which the spell consumes)  
+**Duration:** Instantaneous
 
 You spend the casting time tracing magical pathways within a precious gemstone, and then touch the target. The target must be either a Beast or Plant creature with an Intelligence of 3 or less or a natural plant that isn't a creature. The target gains an Intelligence of 10 and the ability to speak one language you know. If the target is a natural plant, it becomes a Plant creature and gains the ability to move its limbs, roots, vines, creepers, and so forth, and it gains senses similar to a human's. The DM chooses statistics appropriate for the awakened Plant, such as the statistics for the **Awakened Shrub** or **Awakened Tree** in the *Monster Manual*.
 
@@ -63,10 +63,10 @@ The awakened target has the Charmed condition for 30 days or until you or your a
 ### Banishing Smite
 *Level 5 Conjuration*
 
-**Casting Time:** Bonus action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike
-- **Range:** Self
-- **Components:** V
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Bonus action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike  
+**Range:** Self  
+**Components:** V  
+**Duration:** Concentration, up to 1 minute
 
 The target hit by the attack roll takes an extra 5d10 Force damage from the attack. If the attack reduces the target to 50 Hit Points or fewer, the target must succeed on a Charisma saving throw or be transported to a harmless demiplane for the duration. While there, the target has the Incapacitated condition. When the spell ends, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
 
@@ -77,10 +77,10 @@ The target hit by the attack roll takes an extra 5d10 Force damage from the atta
 ### Bigby's Hand
 *Level 5 Evocation*
 
-**Casting Time:** Action
-- **Range:** 120 feet
-- **Components:** V, S, M (an eggshell and a glove)
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Action  
+**Range:** 120 feet  
+**Components:** V, S, M (an eggshell and a glove)  
+**Duration:** Concentration, up to 1 minute
 
 You create a Large hand of shimmering magical energy in an unoccupied space that you can see within range. The hand lasts for the duration, and it moves at your command, mimicking the movements of your own hand.
 
@@ -102,10 +102,10 @@ When you cast the spell and as a Bonus Action on your later turns, you can move 
 ### Circle of Power
 *Level 5 Abjuration*
 
-**Casting Time:** Action
-- **Range:** Self (30-foot emanation)
-- **Components:** V
-- **Duration:** Concentration, up to 10 minutes
+**Casting Time:** Action  
+**Range:** Self (30-foot emanation)  
+**Components:** V  
+**Duration:** Concentration, up to 10 minutes
 
 An aura radiates from you in a 30-foot Emanation for the duration. While in the aura, you and your allies have Advantage on saving throws against spells and other magical effects. When an affected creature makes a saving throw against a spell or magical effect that allows a save to take only half damage, it takes no damage if it succeeds on the save.
 
@@ -116,10 +116,10 @@ An aura radiates from you in a 30-foot Emanation for the duration. While in the 
 ### Cloudkill
 *Level 5 Conjuration*
 
-**Casting Time:** Action
-- **Range:** 120 feet
-- **Components:** V, S
-- **Duration:** Concentration, up to 10 minutes
+**Casting Time:** Action  
+**Range:** 120 feet  
+**Components:** V, S  
+**Duration:** Concentration, up to 10 minutes
 
 You create a 20-foot-radius Sphere of yellow-green fog centered on a point within range. The fog lasts for the duration or until strong wind (such as the one created by *Gust of Wind*) disperses it, ending the spell. Its area is Heavily Obscured.
 
@@ -136,10 +136,10 @@ The Sphere moves 10 feet away from you at the start of each of your turns.
 ### Commune
 *Level 5 Divination*
 
-**Casting Time:** 1 minute or Ritual
-- **Range:** Self
-- **Components:** V, S, M (incense)
-- **Duration:** 1 minute
+**Casting Time:** 1 minute or Ritual  
+**Range:** Self  
+**Components:** V, S, M (incense)  
+**Duration:** 1 minute
 
 You contact a deity or a divine proxy and ask up to three questions that can be answered with yes or no. You must ask your questions before the spell ends. You receive a correct answer for each question.
 
@@ -154,10 +154,10 @@ If you cast the spell more than once before finishing a Long Rest, there is a cu
 ### Commune with Nature
 *Level 5 Divination*
 
-**Casting Time:** 1 minute or Ritual
-- **Range:** Self
-- **Components:** V, S
-- **Duration:** 1 minute
+**Casting Time:** 1 minute or Ritual  
+**Range:** Self  
+**Components:** V, S  
+**Duration:** 1 minute
 
 You commune with nature spirits and gain knowledge of the surrounding area. In the outdoors, the spell gives you knowledge of the area within 3 miles of you. In caves and other natural underground settings, the radius is limited to 300 feet. The spell doesn't function where nature has been replaced by construction, such as in castles and settlements.
 
@@ -178,10 +178,10 @@ For example, you could determine the location of a powerful monster in the area,
 ### Cone of Cold
 *Level 5 Evocation*
 
-**Casting Time:** Action
-- **Range:** Self (60-foot cone)
-- **Components:** V, S, M (a small crystal or glass cone)
-- **Duration:** Instantaneous
+**Casting Time:** Action  
+**Range:** Self (60-foot cone)  
+**Components:** V, S, M (a small crystal or glass cone)  
+**Duration:** Instantaneous
 
 You unleash a blast of cold air. Each creature in a 60-foot Cone originating from you makes a Constitution saving throw, taking 8d8 Cold damage on a failed save or half as much damage on a successful one. A creature killed by this spell becomes a frozen statue until it thaws.
 
@@ -194,10 +194,10 @@ You unleash a blast of cold air. Each creature in a 60-foot Cone originating fro
 ### Conjure Elemental
 *Level 5 Conjuration*
 
-**Casting Time:** Action
-- **Range:** 60 feet
-- **Components:** V, S
-- **Duration:** Concentration, up to 10 minutes
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** V, S  
+**Duration:** Concentration, up to 10 minutes
 
 You conjure a Large, intangible spirit from the Elemental Planes that appears in an unoccupied space within range. Choose the spirit's element, which determines its damage type: air (Lightning), earth (Thunder), fire (Fire), or water (Cold). The spirit lasts for the duration.
 
@@ -212,10 +212,10 @@ Whenever a creature you can see enters the spirit's space or starts its turn wit
 ### Conjure Volley
 *Level 5 Conjuration*
 
-**Casting Time:** Action
-- **Range:** 150 feet
-- **Components:** V, S, M (a Melee or Ranged weapon worth at least 1 CP)
-- **Duration:** Instantaneous
+**Casting Time:** Action  
+**Range:** 150 feet  
+**Components:** V, S, M (a Melee or Ranged weapon worth at least 1 CP)  
+**Duration:** Instantaneous
 
 You brandish the weapon used to cast the spell and choose a point within range. Hundreds of similar spectral weapons (or ammunition appropriate to the weapon) fall in a volley and then disappear. Each creature of your choice that you can see in a 40-foot-radius, 20-foot-high Cylinder centered on that point makes a Dexterity saving throw. A creature takes 8d8 Force damage on a failed save or half as much damage on a successful one.
 
@@ -226,10 +226,10 @@ You brandish the weapon used to cast the spell and choose a point within range. 
 ### Contact Other Plane
 *Level 5 Divination*
 
-**Casting Time:** 1 minute or Ritual
-- **Range:** Self
-- **Components:** V
-- **Duration:** 1 minute
+**Casting Time:** 1 minute or Ritual  
+**Range:** Self  
+**Components:** V  
+**Duration:** 1 minute
 
 You mentally contact a demigod, the spirit of a long-dead sage, or some other knowledgeable entity from another plane. Contacting this otherworldly intelligence can break your mind. When you cast this spell, make a DC 15 Intelligence saving throw. On a successful save, you can ask the entity up to five questions. You must ask your questions before the spell ends. The DM answers each question with one word, such as "yes," "no," "maybe," "never," "irrelevant," or "unclear" (if the entity doesn't know the answer to the question). If a one-word answer would be misleading, the DM might instead offer a short phrase as an answer.
 
@@ -242,10 +242,10 @@ On a failed save, you take 6d6 Psychic damage and have the Incapacitated conditi
 ### Contagion
 *Level 5 Necromancy*
 
-**Casting Time:** Action
-- **Range:** Touch
-- **Components:** V, S
-- **Duration:** 7 days
+**Casting Time:** Action  
+**Range:** Touch  
+**Components:** V, S  
+**Duration:** 7 days
 
 Your touch inflicts a magical contagion. The target must succeed on a Constitution saving throw or take 11d8 Necrotic damage and have the Poisoned condition. Also, choose one ability when you cast the spell. While Poisoned, the target has Disadvantage on saving throws made with the chosen ability.
 
@@ -260,10 +260,10 @@ Whenever the Poisoned target receives an effect that would end the Poisoned cond
 ### Control Winds
 *Level 5 Transmutation*
 
-**Casting Time:** Action
-- **Range:** 300 feet
-- **Components:** V, S
-- **Duration:** Concentration, up to 1 hour
+**Casting Time:** Action  
+**Range:** 300 feet  
+**Components:** V, S  
+**Duration:** Concentration, up to 1 hour
 
 You take control of the air in a 100-foot cube that you can see within range. Choose one of the following effects when you cast the spell. The effect lasts for the spell's duration, unless you use your action on a later turn to switch to a different effect. You can also use your action to temporarily halt the effect or to restart one you've halted.
 
@@ -280,10 +280,10 @@ You take control of the air in a 100-foot cube that you can see within range. Ch
 ### Creation
 *Level 5 Illusion*
 
-**Casting Time:** 1 minute
-- **Range:** 30 feet
-- **Components:** V, S, M (a paintbrush)
-- **Duration:** Special
+**Casting Time:** 1 minute  
+**Range:** 30 feet  
+**Components:** V, S, M (a paintbrush)  
+**Duration:** Special
 
 You pull wisps of shadow material from the Shadowfell to create an object within range. It is either an object of vegetable matter (soft goods, rope, wood, and the like) or mineral matter (stone, crystal, metal, and the like). The object must be no larger than a 5-foot Cube, and the object must be of a form and material that you have seen.
 
@@ -307,10 +307,10 @@ The spell's duration depends on the object's material, as shown in the Materials
 ### Danse Macabre
 *Level 5 Necromancy*
 
-**Casting Time:** Action
-- **Range:** 60 feet
-- **Components:** V, S
-- **Duration:** Concentration, up to 1 hour
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** V, S  
+**Duration:** Concentration, up to 1 hour
 
 Threads of dark power leap from your fingers to pierce up to five Small or Medium corpses you can see within range. Each corpse immediately stands up and becomes undead. You decide whether it is a **zombie** or a **skeleton** (the statistics for **zombies** and **skeletons** are in the Monster Manual), and it gains a bonus to its attack and damage rolls equal to your spellcasting ability modifier.
 
@@ -327,10 +327,10 @@ The creatures are under your control until the spell ends, after which they beco
 ### Dawn
 *Level 5 Evocation*
 
-**Casting Time:** Action
-- **Range:** 60 feet
-- **Components:** V, S, M (a sunburst pendant worth at least 100 gp)
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** V, S, M (a sunburst pendant worth at least 100 gp)  
+**Duration:** Concentration, up to 1 minute
 
 The light of dawn shines down on a location you specify within range. Until the spell ends, a 30-foot-radius, 40-foot-high cylinder of bright light glimmers there. This light is sunlight.
 
@@ -345,10 +345,10 @@ If you're within 60 feet of the cylinder, you can move it up to 60 feet as a bon
 ### Destructive Wave
 *Level 5 Evocation*
 
-**Casting Time:** Action
-- **Range:** Self (30-foot radius)
-- **Components:** V
-- **Duration:** Instantaneous
+**Casting Time:** Action  
+**Range:** Self (30-foot radius)  
+**Components:** V  
+**Duration:** Instantaneous
 
 Destructive energy ripples outward from you in a 30-foot Emanation. Each creature you choose in the Emanation makes a Constitution saving throw. On a failed save, a target takes 5d6 Thunder damage and 5d6 Radiant or Necrotic damage (your choice) and has the Prone condition. On a successful save, a target takes half as much damage only.
 
@@ -359,10 +359,10 @@ Destructive energy ripples outward from you in a 30-foot Emanation. Each creatur
 ### Dispel Evil and Good
 *Level 5 Abjuration*
 
-**Casting Time:** Action
-- **Range:** Self
-- **Components:** V, S, M (powdered silver and iron)
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Action  
+**Range:** Self  
+**Components:** V, S, M (powdered silver and iron)  
+**Duration:** Concentration, up to 1 minute
 
 For the duration, Celestials, Elementals, Fey, Fiends, and Undead have Disadvantage on attack rolls against you. You can end the spell early by using either of the following special functions.
 
@@ -377,10 +377,10 @@ For the duration, Celestials, Elementals, Fey, Fiends, and Undead have Disadvant
 ### Dominate Person
 *Level 5 Enchantment*
 
-**Casting Time:** Action
-- **Range:** 60 feet
-- **Components:** V, S
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** V, S  
+**Duration:** Concentration, up to 1 minute
 
 One Humanoid you can see within range must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The target has Advantage on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.
 
@@ -397,10 +397,10 @@ You can command the target to take a Reaction but must take your own Reaction to
 ### Dream
 *Level 5 Illusion*
 
-**Casting Time:** 1 minute
-- **Range:** Self
-- **Components:** V, S, M (a handful of sand)
-- **Duration:** 8 hours
+**Casting Time:** 1 minute  
+**Range:** Self  
+**Components:** V, S, M (a handful of sand)  
+**Duration:** 8 hours
 
 You target a creature you know on the same plane of existence. You or a willing creature you touch enters a trance state to act as a dream messenger. While in the trance, the messenger is Incapacitated and has a Speed of 0.
 
@@ -417,10 +417,10 @@ You can make the messenger terrifying to the target. If you do so, the messenger
 ### Enervation
 *Level 5 Necromancy*
 
-**Casting Time:** Action
-- **Range:** 60 feet
-- **Components:** V, S
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** V, S  
+**Duration:** Concentration, up to 1 minute
 
 A tendril of inky darkness reaches out from you, touching a creature you can see within range to drain life from it. The target must make a Dexterity saving throw. On a successful save, the target takes 2d8 necrotic damage, and the spell ends. On a failed save, the target takes 4d8 necrotic damage, and until the spell ends, you can use your action on each of your turns to automatically deal 4d8 necrotic damage to the target. The spell ends if you use your action to do anything else, if the target is ever outside the spell's range, or if the target has total cover from you.
 
@@ -435,10 +435,10 @@ Whenever the spell deals damage to a target, you regain hit points equal to half
 ### Far Step
 *Level 5 Conjuration*
 
-**Casting Time:** Bonus action
-- **Range:** Self
-- **Components:** V
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Bonus action  
+**Range:** Self  
+**Components:** V  
+**Duration:** Concentration, up to 1 minute
 
 You teleport up to 60 feet to an unoccupied space you can see. On each of your turns before the spell ends, you can use a bonus action to teleport in this way again.
 
@@ -449,10 +449,10 @@ You teleport up to 60 feet to an unoccupied space you can see. On each of your t
 ### Flame Strike
 *Level 5 Evocation*
 
-**Casting Time:** Action
-- **Range:** 60 feet
-- **Components:** V, S, M (a pinch of sulfur)
-- **Duration:** Instantaneous
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** V, S, M (a pinch of sulfur)  
+**Duration:** Instantaneous
 
 A vertical column of brilliant fire roars down from above. Each creature in a 10-foot-radius, 40-foot-high Cylinder centered on a point within range makes a Dexterity saving throw, taking 5d6 Fire damage and 5d6 Radiant damage on a failed save or half as much damage on a successful one.
 
@@ -465,10 +465,10 @@ A vertical column of brilliant fire roars down from above. Each creature in a 10
 ### Geas
 *Level 5 Enchantment*
 
-**Casting Time:** 1 minute
-- **Range:** 60 feet
-- **Components:** V
-- **Duration:** 30 days
+**Casting Time:** 1 minute  
+**Range:** 60 feet  
+**Components:** V  
+**Duration:** 30 days
 
 You give a verbal command to a creature that you can see within range, ordering it to carry out some service or refrain from an action or a course of activity as you decide. The target must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The target automatically succeeds if it can't understand your command.
 
@@ -487,10 +487,10 @@ A *Remove Curse*,*Greater Restoration*, or *Wish* spell ends this spell.
 ### Greater Restoration
 *Level 5 Abjuration*
 
-**Casting Time:** Action
-- **Range:** Touch
-- **Components:** V, S, M (diamond dust worth 100+ GP, which the spell consumes)
-- **Duration:** Instantaneous
+**Casting Time:** Action  
+**Range:** Touch  
+**Components:** V, S, M (diamond dust worth 100+ GP, which the spell consumes)  
+**Duration:** Instantaneous
 
 You touch a creature and magically remove one of the following effects from it:
 
@@ -507,10 +507,10 @@ You touch a creature and magically remove one of the following effects from it:
 ### Hallow
 *Level 5 Abjuration*
 
-**Casting Time:** 24 hours
-- **Range:** Touch
-- **Components:** V, S, M (incense worth 1,000+ GP, which the spell consumes)
-- **Duration:** Until dispelled
+**Casting Time:** 24 hours  
+**Range:** Touch  
+**Components:** V, S, M (incense worth 1,000+ GP, which the spell consumes)  
+**Duration:** Until dispelled
 
 You touch a point and infuse an area around it with holy or unholy power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect of Hallow. The affected area has the following effects.
 
@@ -536,10 +536,10 @@ You touch a point and infuse an area around it with holy or unholy power. The ar
 ### Hold Monster
 *Level 5 Enchantment*
 
-**Casting Time:** Action
-- **Range:** 90 feet
-- **Components:** V, S, M (a straight piece of iron)
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Action  
+**Range:** 90 feet  
+**Components:** V, S, M (a straight piece of iron)  
+**Duration:** Concentration, up to 1 minute
 
 Choose a creature that you can see within range. The target must succeed on a Wisdom saving throw or have the Paralyzed condition for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
 
@@ -552,10 +552,10 @@ Choose a creature that you can see within range. The target must succeed on a Wi
 ### Holy Weapon
 *Level 5 Evocation*
 
-**Casting Time:** Bonus action
-- **Range:** Touch
-- **Components:** V, S
-- **Duration:** Concentration, up to 1 hour
+**Casting Time:** Bonus action  
+**Range:** Touch  
+**Components:** V, S  
+**Duration:** Concentration, up to 1 hour
 
 You imbue a weapon you touch with holy power. Until the spell ends, the weapon emits bright light in a 30-foot radius and dim light for an additional 30 feet. In addition, weapon attacks made with it deal an extra 2d8 radiant damage on a hit. If the weapon isn't already a magic weapon, it becomes one for the duration.
 
@@ -568,10 +568,10 @@ As a bonus action on your turn, you can dismiss this spell and cause the weapon 
 ### Immolation
 *Level 5 Evocation*
 
-**Casting Time:** Action
-- **Range:** 90 feet
-- **Components:** V
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Action  
+**Range:** 90 feet  
+**Components:** V  
+**Duration:** Concentration, up to 1 minute
 
 Flames wreathe one creature you can see within range. The target must make a Dexterity saving throw. It takes 8d6 fire damage on a failed save, or half as much damage on a successful one. On a failed save, the target also burns for the spell's duration. The burning target sheds bright light in a 30-foot radius and dim light for an additional 30 feet. At the end of each of its turns, the target repeats the saving throw. It takes 4d6 fire damage on a failed save, and the spell ends on a successful one. These magical flames can't be extinguished by nonmagical means.
 
@@ -584,10 +584,10 @@ If damage from this spell kills a target, the target is turned to ash.
 ### Infernal Calling
 *Level 5 Conjuration*
 
-**Casting Time:** 1 minute
-- **Range:** 90 feet
-- **Components:** V, S, M (a ruby worth at least 999 gp)
-- **Duration:** Concentration, up to 1 hour
+**Casting Time:** 1 minute  
+**Range:** 90 feet  
+**Components:** V, S, M (a ruby worth at least 999 gp)  
+**Duration:** Concentration, up to 1 hour
 
 Uttering a dark incantation, you summon a devil from the Nine Hells. You choose the devil's type, which must be one of challenge rating 6 or lower, such as a **barbed devil** or a **bearded devil**. The devil appears in an unoccupied space that you can see within range. The devil disappears when it drops to 0 hit points or when the spell ends.
 
@@ -608,10 +608,10 @@ If you possess an individual devil's talisman, you can summon that devil if it i
 ### Insect Plague
 *Level 5 Conjuration*
 
-**Casting Time:** Action
-- **Range:** 300 feet
-- **Components:** V, S, M (a locust)
-- **Duration:** Concentration, up to 10 minutes
+**Casting Time:** Action  
+**Range:** 300 feet  
+**Components:** V, S, M (a locust)  
+**Duration:** Concentration, up to 10 minutes
 
 Swarming locusts fill a 20-foot-radius Sphere centered on a point you choose within range. The Sphere remains for the duration, and its area is Lightly Obscured and Difficult Terrain.
 
@@ -626,10 +626,10 @@ When the swarm appears, each creature in it makes a Constitution saving throw, t
 ### Jallarzi's Storm of Radiance
 *Level 5 Evocation*
 
-**Casting Time:** Action
-- **Range:** 120 feet
-- **Components:** V, S, M (a pinch of phosphorus)
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Action  
+**Range:** 120 feet  
+**Components:** V, S, M (a pinch of phosphorus)  
+**Duration:** Concentration, up to 1 minute
 
 You unleash a storm of flashing light and raging thunder in a 10-foot-radius, 40-foot-high Cylinder centered on a point you can see within range. While in this area, creatures have the Blinded and Deafened conditions, and they can't cast spells with a Verbal component.
 
@@ -644,10 +644,10 @@ When the storm appears, each creature in it makes a Constitution saving throw, t
 ### Legend Lore
 *Level 5 Divination*
 
-**Casting Time:** 10 minutes
-- **Range:** Self
-- **Components:** V, S, M (incense worth 250+ GP, which the spell consumes, and four ivory strips worth 50+ GP each)
-- **Duration:** Instantaneous
+**Casting Time:** 10 minutes  
+**Range:** Self  
+**Components:** V, S, M (incense worth 250+ GP, which the spell consumes, and four ivory strips worth 50+ GP each)  
+**Duration:** Instantaneous
 
 Name or describe a famous person, place, or object. The spell brings to your mind a brief summary of the significant lore about that famous thing, as described by the DM.
 
@@ -662,10 +662,10 @@ If the famous thing you chose isn't actually famous, you hear sad musical notes 
 ### Maelstrom
 *Level 5 Evocation*
 
-**Casting Time:** Action
-- **Range:** 120 feet
-- **Components:** V, S, M (paper or leaf in the shape of a funnel)
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Action  
+**Range:** 120 feet  
+**Components:** V, S, M (paper or leaf in the shape of a funnel)  
+**Duration:** Concentration, up to 1 minute
 
 A swirling mass of 5-foot-deep water appears in a 30-foot radius centered on a point you can see within range. The point must be on the ground or in a body of water. Until the spell ends, that area is difficult terrain, and any creature that starts its turn there must succeed on a Strength saving throw or take 6d6 bludgeoning damage and be pulled 10 feet toward the center.
 
@@ -676,10 +676,10 @@ A swirling mass of 5-foot-deep water appears in a 30-foot radius centered on a p
 ### Mass Cure Wounds
 *Level 5 Abjuration*
 
-**Casting Time:** Action
-- **Range:** 60 feet
-- **Components:** V, S
-- **Duration:** Instantaneous
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** V, S  
+**Duration:** Instantaneous
 
 A wave of healing energy washes out from a point you can see within range. Choose up to six creatures in a 30-foot-radius Sphere centered on that point. Each target regains Hit Points equal to 5d8 plus your spellcasting ability modifier.
 
@@ -692,10 +692,10 @@ A wave of healing energy washes out from a point you can see within range. Choos
 ### Mislead
 *Level 5 Illusion*
 
-**Casting Time:** Action
-- **Range:** Self
-- **Components:** S
-- **Duration:** Concentration, up to 1 hour
+**Casting Time:** Action  
+**Range:** Self  
+**Components:** S  
+**Duration:** Concentration, up to 1 hour
 
 You gain the Invisible condition at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends immediately after you make an attack roll, deal damage, or cast a spell.
 
@@ -710,10 +710,10 @@ You can see through its eyes and hear through its ears as if you were located wh
 ### Modify Memory
 *Level 5 Enchantment*
 
-**Casting Time:** Action
-- **Range:** 30 feet
-- **Components:** V, S
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Action  
+**Range:** 30 feet  
+**Components:** V, S  
+**Duration:** Concentration, up to 1 minute
 
 You attempt to reshape another creature's memories. One creature that you can see within range makes a Wisdom saving throw. If you are fighting the creature, it has Advantage on the save. On a failed save, the target has the Charmed condition for the duration. While Charmed in this way, the target also has the Incapacitated condition and is unaware of its surroundings, though it can hear you. If it takes any damage or is targeted by another spell, this spell ends, and no memories are modified.
 
@@ -734,10 +734,10 @@ A *Remove Curse* or *Greater Restoration* spell cast on the target restores the 
 ### Negative Energy Flood
 *Level 5 Necromancy*
 
-**Casting Time:** Action
-- **Range:** 60 feet
-- **Components:** V, M (a broken bone and a square of black silk)
-- **Duration:** Instantaneous
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** V, M (a broken bone and a square of black silk)  
+**Duration:** Instantaneous
 
 You send ribbons of negative energy at one creature you can see within range. Unless the target is undead, it must make a Constitution saving throw, taking 5d12 necrotic damage on a failed save, or half as much damage on a successful one. A target killed by this damage rises up as a **zombie** at the start of your next turn. The zombie pursues whatever creature it can see that is closest to it. Statistics for the **zombie** are in the Monster Manual.
 
@@ -750,10 +750,10 @@ If you target an undead with this spell, the target doesn't make a saving throw.
 ### Passwall
 *Level 5 Transmutation*
 
-**Casting Time:** Action
-- **Range:** 30 feet
-- **Components:** V, S, M (a pinch of sesame seeds)
-- **Duration:** 1 hour
+**Casting Time:** Action  
+**Range:** 30 feet  
+**Components:** V, S, M (a pinch of sesame seeds)  
+**Duration:** 1 hour
 
 A passage appears at a point that you can see on a wooden, plaster, or stone surface (such as a wall, ceiling, or floor) within range and lasts for the duration. You choose the opening's dimensions: up to 5 feet wide, 8 feet tall, and 20 feet deep. The passage creates no instability in a structure surrounding it.
 
@@ -766,10 +766,10 @@ When the opening disappears, any creatures or objects still in the passage creat
 ### Planar Binding
 *Level 5 Abjuration*
 
-**Casting Time:** 1 hour
-- **Range:** 60 feet
-- **Components:** V, S, M (a jewel worth 1,000+ GP, which the spell consumes)
-- **Duration:** 24 hours
+**Casting Time:** 1 hour  
+**Range:** 60 feet  
+**Components:** V, S, M (a jewel worth 1,000+ GP, which the spell consumes)  
+**Duration:** 24 hours
 
 You attempt to bind a Celestial, an Elemental, a Fey, or a Fiend to your service. The creature must be within range for the entire casting of the spell. (Typically, the creature is first summoned into the center of the inverted version of the *Magic Circle* spell to trap it while this spell is cast.) At the completion of the casting, the target must succeed on a Charisma saving throw or be bound to serve you for the duration. If the creature was summoned or created by another spell, that spell's duration is extended to match the duration of this spell.
 
@@ -784,10 +784,10 @@ A bound creature must follow your commands to the best of its ability. You might
 ### Raise Dead
 *Level 5 Necromancy*
 
-**Casting Time:** 1 hour
-- **Range:** Touch
-- **Components:** V, S, M (a diamond worth 500+ GP, which the spell consumes)
-- **Duration:** Instantaneous
+**Casting Time:** 1 hour  
+**Range:** Touch  
+**Components:** V, S, M (a diamond worth 500+ GP, which the spell consumes)  
+**Duration:** Instantaneous
 
 With a touch, you revive a dead creature if it has been dead no longer than 10 days and it wasn't Undead when it died.
 
@@ -804,10 +804,10 @@ Coming back from the dead is an ordeal. The target takes a -4 penalty to D20 Tes
 ### Rary's Telepathic Bond
 *Level 5 Divination*
 
-**Casting Time:** Action or Ritual
-- **Range:** 30 feet
-- **Components:** V, S, M (two eggs)
-- **Duration:** 1 hour
+**Casting Time:** Action or Ritual  
+**Range:** 30 feet  
+**Components:** V, S, M (two eggs)  
+**Duration:** 1 hour
 
 You forge a telepathic link among up to eight willing creatures of your choice within range, psychically linking each creature to all the others for the duration. Creatures that can't communicate in any languages aren't affected by this spell.
 
@@ -820,10 +820,10 @@ Until the spell ends, the targets can communicate telepathically through the bon
 ### Reincarnate
 *Level 5 Necromancy*
 
-**Casting Time:** 1 hour
-- **Range:** Touch
-- **Components:** V, S, M (rare oils worth 1,000+ GP, which the spell consumes)
-- **Duration:** Instantaneous
+**Casting Time:** 1 hour  
+**Range:** Touch  
+**Components:** V, S, M (rare oils worth 1,000+ GP, which the spell consumes)  
+**Duration:** Instantaneous
 
 You touch a dead Humanoid or a piece of one. If the creature has been dead no longer than 10 days, the spell forms a new body for it and calls the soul to enter that body. Roll 1d10 and consult the table below to determine the body's species, or the DM chooses another playable species.
 
@@ -847,10 +847,10 @@ You touch a dead Humanoid or a piece of one. If the creature has been dead no lo
 ### Scrying
 *Level 5 Divination*
 
-**Casting Time:** 10 minutes
-- **Range:** Self
-- **Components:** V, S, M (a focus worth 1,000+ GP, such as a crystal ball, mirror, or water-filled font)
-- **Duration:** Concentration, up to 10 minutes
+**Casting Time:** 10 minutes  
+**Range:** Self  
+**Components:** V, S, M (a focus worth 1,000+ GP, such as a crystal ball, mirror, or water-filled font)  
+**Duration:** Concentration, up to 10 minutes
 
 You can see and hear a creature you choose that is on the same plane of existence as you. The target makes a Wisdom saving throw, which is modified (see the tables below) by how well you know the target and the sort of physical connection you have to it. The target doesn't know what it is making the save against, only that it feels uneasy.
 
@@ -879,10 +879,10 @@ Instead of targeting a creature, you can target a location you have seen. When y
 ### Seeming
 *Level 5 Illusion*
 
-**Casting Time:** Action
-- **Range:** 30 feet
-- **Components:** V, S
-- **Duration:** 8 hours
+**Casting Time:** Action  
+**Range:** 30 feet  
+**Components:** V, S  
+**Duration:** 8 hours
 
 You give an illusory appearance to each creature of your choice that you can see within range. An unwilling target can make a Charisma saving throw, and if it succeeds, it is unaffected by this spell.
 
@@ -899,10 +899,10 @@ A creature that takes the Study action to examine a target can make an Intellige
 ### Skill Empowerment
 *Level 5 Transmutation*
 
-**Casting Time:** Action
-- **Range:** Touch
-- **Components:** V, S
-- **Duration:** Concentration, up to 1 hour
+**Casting Time:** Action  
+**Range:** Touch  
+**Components:** V, S  
+**Duration:** Concentration, up to 1 hour
 
 Your magic deepens a creature's understanding of its own talent. You touch one willing creature and give it expertise in one skill of your choice; until the spell ends, the creature doubles its proficiency bonus for ability checks it makes that use the chosen skill.
 
@@ -915,10 +915,10 @@ You must choose a skill in which the target is proficient and that isn't already
 ### Steel Wind Strike
 *Level 5 Conjuration*
 
-**Casting Time:** Action
-- **Range:** 30 feet
-- **Components:** S, M (a Melee weapon worth 1+ SP)
-- **Duration:** Instantaneous
+**Casting Time:** Action  
+**Range:** 30 feet  
+**Components:** S, M (a Melee weapon worth 1+ SP)  
+**Duration:** Instantaneous
 
 You flourish the weapon used in the casting and then vanish to strike like the wind. Choose up to five creatures you can see within range. Make a melee spell attack against each target. On a hit, a target takes 6d10 Force damage.
 
@@ -931,10 +931,10 @@ You then teleport to an unoccupied space you can see within 5 feet of one of the
 ### Summon Celestial
 *Level 5 Conjuration*
 
-**Casting Time:** Action
-- **Range:** 90 feet
-- **Components:** V, S, M (a reliquary worth 500+ GP)
-- **Duration:** Concentration, up to 1 hour
+**Casting Time:** Action  
+**Range:** 90 feet  
+**Components:** V, S, M (a reliquary worth 500+ GP)  
+**Duration:** Concentration, up to 1 hour
 
 You call forth a Celestial spirit. It manifests in an angelic form in an unoccupied space that you can see within range and uses the **Celestial Spirit** stat block. When you cast the spell, choose Avenger or *Defender*. Your choice determines certain details in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
 
@@ -949,10 +949,10 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 ### Summon Dragon
 *Level 5 Conjuration*
 
-**Casting Time:** Action
-- **Range:** 60 feet
-- **Components:** V, S, M (an object with the image of a dragon engraved on it worth 500+ GP)
-- **Duration:** Concentration, up to 1 hour
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** V, S, M (an object with the image of a dragon engraved on it worth 500+ GP)  
+**Duration:** Concentration, up to 1 hour
 
 You call forth a Dragon spirit. It manifests in an unoccupied space that you can see within range and uses the **Draconic Spirit** stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
 
@@ -967,10 +967,10 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 ### Swift Quiver
 *Level 5 Transmutation*
 
-**Casting Time:** Bonus action
-- **Range:** Self
-- **Components:** V, S, M (a Quiver worth 1+ GP)
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Bonus action  
+**Range:** Self  
+**Components:** V, S, M (a Quiver worth 1+ GP)  
+**Duration:** Concentration, up to 1 minute
 
 When you cast the spell and as a Bonus Action until it ends, you can make two attacks with a weapon that fires Arrows or Bolts, such as a Longbow or a Light Crossbow. The spell magically creates the ammunition needed for each attack. Each Arrow or Bolt created by the spell deals damage like a nonmagical piece of ammunition of its kind and disintegrates immediately after it hits or misses.
 
@@ -981,10 +981,10 @@ When you cast the spell and as a Bonus Action until it ends, you can make two at
 ### Synaptic Static
 *Level 5 Enchantment*
 
-**Casting Time:** Action
-- **Range:** 120 feet
-- **Components:** V, S
-- **Duration:** Instantaneous
+**Casting Time:** Action  
+**Range:** 120 feet  
+**Components:** V, S  
+**Duration:** Instantaneous
 
 You cause psychic energy to erupt at a point within range. Each creature in a 20-foot-radius Sphere centered on that point makes an Intelligence saving throw, taking 8d6 Psychic damage on a failed save or half as much damage on a successful one.
 
@@ -997,10 +997,10 @@ On a failed save, a target also has muddled thoughts for 1 minute. During that t
 ### Telekinesis
 *Level 5 Transmutation*
 
-**Casting Time:** Action
-- **Range:** 60 feet
-- **Components:** V, S
-- **Duration:** Concentration, up to 10 minutes
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** V, S  
+**Duration:** Concentration, up to 10 minutes
 
 You gain the ability to move or manipulate creatures or objects by thought. When you cast the spell and as a Magic action on your later turns before the spell ends, you can exert your will on one creature or object that you can see within range, causing the appropriate effect below. You can affect the same target round after round or choose a new one at any time. If you switch targets, the prior target is no longer affected by the spell.
 
@@ -1019,10 +1019,10 @@ You can exert fine control on objects with your telekinetic grip, such as manipu
 ### Teleportation Circle
 *Level 5 Conjuration*
 
-**Casting Time:** 1 minute
-- **Range:** 10 feet
-- **Components:** V, M (rare inks worth 50+ GP, which the spell consumes)
-- **Duration:** 1 round
+**Casting Time:** 1 minute  
+**Range:** 10 feet  
+**Components:** V, M (rare inks worth 50+ GP, which the spell consumes)  
+**Duration:** 1 round
 
 As you cast the spell, you draw a 5-foot-radius circle on the ground inscribed with sigils that link your location to a permanent teleportation circle of your choice whose sigil sequence you know and that is on the same plane of existence as you. A shimmering portal opens within the circle you drew and remains open until the end of your next turn. Any creature that enters the portal instantly appears within 5 feet of the destination circle or in the nearest unoccupied space if that space is occupied.
 
@@ -1039,10 +1039,10 @@ You can create a permanent teleportation circle by casting this spell in the sam
 ### Transmute Rock
 *Level 5 Transmutation*
 
-**Casting Time:** Action
-- **Range:** 120 feet
-- **Components:** V, S, M (clay and water)
-- **Duration:** Until dispelled
+**Casting Time:** Action  
+**Range:** 120 feet  
+**Components:** V, S, M (clay and water)  
+**Duration:** Until dispelled
 
 You choose an area of stone or mud that you can see that fits within a 40-foot cube and is within range, and choose one of the following effects.
 
@@ -1061,10 +1061,10 @@ If you cast the spell on a ceiling, the mud falls. Any creature under the mud wh
 ### Tree Stride
 *Level 5 Conjuration*
 
-**Casting Time:** Action
-- **Range:** Self
-- **Components:** V, S
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Action  
+**Range:** Self  
+**Components:** V, S  
+**Duration:** Concentration, up to 1 minute
 
 You gain the ability to enter a tree and move from inside it to inside another tree of the same kind within 500 feet. Both trees must be living and at least the same size as you. You must use 5 feet of movement to enter a tree. You instantly know the location of all other trees of the same kind within 500 feet and, as part of the move used to enter the tree, can either pass into one of those trees or step out of the tree you're in. You appear in a spot of your choice within 5 feet of the destination tree, using another 5 feet of movement. If you have no movement left, you appear within 5 feet of the tree you entered.
 
@@ -1077,10 +1077,10 @@ You can use this transportation ability only once on each of your turns. You mus
 ### Wall of Force
 *Level 5 Evocation*
 
-**Casting Time:** Action
-- **Range:** 120 feet
-- **Components:** V, S, M (a shard of glass)
-- **Duration:** Concentration, up to 10 minutes
+**Casting Time:** Action  
+**Range:** 120 feet  
+**Components:** V, S, M (a shard of glass)  
+**Duration:** Concentration, up to 10 minutes
 
 An Invisible wall of force springs into existence at a point you choose within range. The wall appears in any orientation you choose, as a horizontal or vertical barrier or at an angle. It can be free floating or resting on a solid surface. You can form it into a hemispherical dome or a globe with a radius of up to 10 feet, or you can shape a flat surface made up of ten 10-foot-by-10-foot panels. Each panel must be contiguous with another panel. In any form, the wall is 1/4 inch thick and lasts for the duration. If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (you choose which side).
 
@@ -1093,10 +1093,10 @@ Nothing can physically pass through the wall. It is immune to all damage and can
 ### Wall of Light
 *Level 5 Evocation*
 
-**Casting Time:** Action
-- **Range:** 120 feet
-- **Components:** V, S, M (a hand mirror)
-- **Duration:** Concentration, up to 10 minutes
+**Casting Time:** Action  
+**Range:** 120 feet  
+**Components:** V, S, M (a hand mirror)  
+**Duration:** Concentration, up to 10 minutes
 
 A shimmering wall of bright light appears at a point you choose within range. The wall appears in any orientation you choose: horizontally, vertically, or diagonally. It can be free floating, or it can rest on a solid surface. The wall can be up to 60 feet long, 10 feet high, and 5 feet thick. The wall blocks line of sight, but creatures and objects can pass through it. It emits bright light out to 120 feet and dim light for an additional 120 feet.
 
@@ -1115,10 +1115,10 @@ Until the spell ends, you can use an action to launch a beam of radiance from th
 ### Wall of Stone
 *Level 5 Evocation*
 
-**Casting Time:** Action
-- **Range:** 120 feet
-- **Components:** V, S, M (a cube of granite)
-- **Duration:** Concentration, up to 10 minutes
+**Casting Time:** Action  
+**Range:** 120 feet  
+**Components:** V, S, M (a cube of granite)  
+**Duration:** Concentration, up to 10 minutes
 
 A nonmagical wall of solid stone springs into existence at a point you choose within range. The wall is 6 inches thick and is composed of ten 10-foot-by-10-foot panels. Each panel must be contiguous with another panel. Alternatively, you can create 10-foot-by-20-foot panels that are only 3 inches thick.
 
@@ -1139,10 +1139,10 @@ If you maintain your Concentration on this spell for its full duration, the wall
 ### Wrath of Nature
 *Level 5 Evocation*
 
-**Casting Time:** Action
-- **Range:** 120 feet
-- **Components:** V, S
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Action  
+**Range:** 120 feet  
+**Components:** V, S  
+**Duration:** Concentration, up to 1 minute
 
 You call out to the spirits of nature to rouse them against your enemies. Choose a point you can see within range. The spirits cause trees, rocks, and grasses in a 60-foot cube centered on that point to become animated until the spell ends.
 
@@ -1161,10 +1161,10 @@ You call out to the spirits of nature to rouse them against your enemies. Choose
 ### Yolande's Regal Presence
 *Level 5 Enchantment*
 
-**Casting Time:** Action
-- **Range:** Self
-- **Components:** V, S, M (a miniature tiara)
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Action  
+**Range:** Self  
+**Components:** V, S, M (a miniature tiara)  
+**Duration:** Concentration, up to 1 minute
 
 You surround yourself with unearthly majesty in a 10-foot Emanation. Whenever the Emanation enters the space of a creature you can see and whenever a creature you can see enters the Emanation or ends its turn there, you can force that creature to make a Wisdom saving throw. On a failed save, the target takes 4d6 Psychic damage and has the Prone condition, and you can push it up to 10 feet away. On a successful save, the target takes half as much damage only. A creature makes this save only once per turn.
 

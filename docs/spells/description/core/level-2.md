@@ -11,10 +11,10 @@ search:
 ### Aganazzar's Scorcher
 *Level 2 Evocation*
 
-**Casting Time:** Action
-- **Range:** 30 feet
-- **Components:** V, S, M (a red dragon's scale)
-- **Duration:** Instantaneous
+**Casting Time:** Action  
+**Range:** 30 feet  
+**Components:** V, S, M (a red dragon's scale)  
+**Duration:** Instantaneous
 
 A line of roaring flame 30 feet long and 5 feet wide emanates from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 3d8 fire damage on a failed save, or half as much damage on a successful one.
 
@@ -27,10 +27,10 @@ A line of roaring flame 30 feet long and 5 feet wide emanates from you in a dire
 ### Aid
 *Level 2 Abjuration*
 
-**Casting Time:** Action
-- **Range:** 30 feet
-- **Components:** V, S, M (a strip of white cloth)
-- **Duration:** 8 hours
+**Casting Time:** Action  
+**Range:** 30 feet  
+**Components:** V, S, M (a strip of white cloth)  
+**Duration:** 8 hours
 
 Choose up to three creatures within range. Each target's Hit Point maximum and current Hit Points increase by 5 for the duration.
 
@@ -43,10 +43,10 @@ Choose up to three creatures within range. Each target's Hit Point maximum and c
 ### Alter Self
 *Level 2 Transmutation*
 
-**Casting Time:** Action
-- **Range:** Self
-- **Components:** V, S
-- **Duration:** Concentration, up to 1 hour
+**Casting Time:** Action  
+**Range:** Self  
+**Components:** V, S  
+**Duration:** Concentration, up to 1 hour
 
 You alter your physical form. Choose one of the following options. Its effects last for the duration, during which you can take a Magic action to replace the option you chose with a different one.
 
@@ -63,10 +63,10 @@ You alter your physical form. Choose one of the following options. Its effects l
 ### Animal Messenger
 *Level 2 Enchantment*
 
-**Casting Time:** Action or Ritual
-- **Range:** 30 feet
-- **Components:** V, S, M (a morsel of food)
-- **Duration:** 24 hours
+**Casting Time:** Action or Ritual  
+**Range:** 30 feet  
+**Components:** V, S, M (a morsel of food)  
+**Duration:** 24 hours
 
 A Tiny Beast of your choice that you can see within range must succeed on a Charisma saving throw, or it attempts to deliver a message for you (if the target's Challenge Rating isn't 0, it automatically succeeds). You specify a location you have visited and a recipient who matches a general description, such as "a person dressed in the uniform of the town guard" or "a red-haired dwarf wearing a pointed hat." You also communicate a message of up to twenty-five words. The Beast travels for the duration toward the specified location, covering about 25 miles per 24 hours or 50 miles if the Beast can fly.
 
@@ -81,10 +81,10 @@ When the Beast arrives, it delivers your message to the creature that you descri
 ### Arcane Lock
 *Level 2 Abjuration*
 
-**Casting Time:** Action
-- **Range:** Touch
-- **Components:** V, S, M (gold dust worth 25+ GP, which the spell consumes)
-- **Duration:** Until dispelled
+**Casting Time:** Action  
+**Range:** Touch  
+**Components:** V, S, M (gold dust worth 25+ GP, which the spell consumes)  
+**Duration:** Until dispelled
 
 You touch a closed door, window, gate, container, or hatch and magically lock it for the duration. This lock can't be unlocked by any nonmagical means. You and any creatures you designate when you cast the spell can open and close the object despite the lock. You can also set a password that, when spoken within 5 feet of the object, unlocks it for 1 minute.
 
@@ -95,10 +95,10 @@ You touch a closed door, window, gate, container, or hatch and magically lock it
 ### Arcane Vigor
 *Level 2 Abjuration*
 
-**Casting Time:** Bonus action
-- **Range:** Self
-- **Components:** V, S
-- **Duration:** Instantaneous
+**Casting Time:** Bonus action  
+**Range:** Self  
+**Components:** V, S  
+**Duration:** Instantaneous
 
 You tap into your life force to heal yourself. Roll one or two of your unexpended Hit Point Dice, and regain a number of Hit Points equal to the roll's total plus your spellcasting ability modifier. Those dice are then expended.
 
@@ -111,10 +111,10 @@ You tap into your life force to heal yourself. Roll one or two of your unexpende
 ### Augury
 *Level 2 Divination*
 
-**Casting Time:** 1 minute or Ritual
-- **Range:** Self
-- **Components:** V, S, M (specially marked sticks, bones, cards, or other divinatory tokens worth 25+ GP)
-- **Duration:** Instantaneous
+**Casting Time:** 1 minute or Ritual  
+**Range:** Self  
+**Components:** V, S, M (specially marked sticks, bones, cards, or other divinatory tokens worth 25+ GP)  
+**Duration:** Instantaneous
 
 You receive an omen from an otherworldly entity about the results of a course of action that you plan to take within the next 30 minutes. The DM chooses the omen from the Omens table.
 
@@ -137,10 +137,10 @@ If you cast the spell more than once before finishing a Long Rest, there is a cu
 ### Barkskin
 *Level 2 Transmutation*
 
-**Casting Time:** Bonus action
-- **Range:** Touch
-- **Components:** V, S, M (a handful of oak bark)
-- **Duration:** 1 hour
+**Casting Time:** Bonus action  
+**Range:** Touch  
+**Components:** V, S, M (a handful of oak bark)  
+**Duration:** 1 hour
 
 You touch a willing creature. Until the spell ends, the target's skin assumes a bark-like appearance, and the target has an Armor Class of 17 if its AC is lower than that.
 
@@ -151,10 +151,10 @@ You touch a willing creature. Until the spell ends, the target's skin assumes a 
 ### Beast Sense
 *Level 2 Divination*
 
-**Casting Time:** Action or Ritual
-- **Range:** Touch
-- **Components:** S
-- **Duration:** Concentration, up to 1 hour
+**Casting Time:** Action or Ritual  
+**Range:** Touch  
+**Components:** S  
+**Duration:** Concentration, up to 1 hour
 
 You touch a willing Beast. For the duration, you can perceive through the Beast's senses as well as your own. When perceiving through the Beast's senses, you benefit from any special senses it has.
 
@@ -165,10 +165,10 @@ You touch a willing Beast. For the duration, you can perceive through the Beast'
 ### Blindness/Deafness
 *Level 2 Transmutation*
 
-**Casting Time:** Action
-- **Range:** 120 feet
-- **Components:** V
-- **Duration:** 1 minute
+**Casting Time:** Action  
+**Range:** 120 feet  
+**Components:** V  
+**Duration:** 1 minute
 
 One creature that you can see within range must succeed on a Constitution saving throw, or it has the Blinded or Deafened condition (your choice) for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
 
@@ -181,10 +181,10 @@ One creature that you can see within range must succeed on a Constitution saving
 ### Blur
 *Level 2 Illusion*
 
-**Casting Time:** Action
-- **Range:** Self
-- **Components:** V
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Action  
+**Range:** Self  
+**Components:** V  
+**Duration:** Concentration, up to 1 minute
 
 Your body becomes blurred. For the duration, any creature has Disadvantage on attack rolls against you. An attacker is immune to this effect if it perceives you with Blindsight or Truesight.
 
@@ -195,10 +195,10 @@ Your body becomes blurred. For the duration, any creature has Disadvantage on at
 ### Calm Emotions
 *Level 2 Enchantment*
 
-**Casting Time:** Action
-- **Range:** 60 feet
-- **Components:** V, S
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** V, S  
+**Duration:** Concentration, up to 1 minute
 
 Each Humanoid in a 20-foot-radius Sphere centered on a point you choose within range must succeed on a Charisma saving throw or be affected by one of the following effects (choose for each creature):
 
@@ -212,10 +212,10 @@ Each Humanoid in a 20-foot-radius Sphere centered on a point you choose within r
 ### Cloud of Daggers
 *Level 2 Conjuration*
 
-**Casting Time:** Action
-- **Range:** 60 feet
-- **Components:** V, S, M (a sliver of glass)
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** V, S, M (a sliver of glass)  
+**Duration:** Concentration, up to 1 minute
 
 You conjure spinning daggers in a 5-foot Cube centered on a point within range. Each creature in that area takes 4d4 Slashing damage. A creature also takes this damage if it enters the Cube or ends its turn there or if the Cube moves into its space. A creature takes this damage only once per turn.
 
@@ -230,10 +230,10 @@ On your later turns, you can take a Magic action to teleport the Cube up to 30 f
 ### Continual Flame
 *Level 2 Evocation*
 
-**Casting Time:** Action
-- **Range:** Touch
-- **Components:** V, S, M (ruby dust worth 50+ GP, which the spell consumes)
-- **Duration:** Until dispelled
+**Casting Time:** Action  
+**Range:** Touch  
+**Components:** V, S, M (ruby dust worth 50+ GP, which the spell consumes)  
+**Duration:** Until dispelled
 
 A flame springs from an object that you touch. The effect casts Bright Light in a 20-foot radius and Dim Light for an additional 20 feet. It looks like a regular flame, but it creates no heat and consumes no fuel. The flame can be covered or hidden but not smothered or quenched.
 
@@ -244,10 +244,10 @@ A flame springs from an object that you touch. The effect casts Bright Light in 
 ### Cordon of Arrows
 *Level 2 Transmutation*
 
-**Casting Time:** Action
-- **Range:** Touch
-- **Components:** V, S, M (four or more arrows or bolts)
-- **Duration:** 8 hours
+**Casting Time:** Action  
+**Range:** Touch  
+**Components:** V, S, M (four or more arrows or bolts)  
+**Duration:** 8 hours
 
 You touch up to four nonmagical Arrows or Bolts and plant them in the ground in your space. Until the spell ends, the ammunition can't be physically uprooted, and whenever a creature other than you enters a space within 30 feet of the ammunition for the first time on a turn or ends its turn there, one piece of ammunition flies up to strike it. The creature must succeed on a Dexterity saving throw or take 2d4 Piercing damage. The piece of ammunition is then destroyed. The spell ends when none of the ammunition remains planted in the ground.
 
@@ -262,10 +262,10 @@ When you cast this spell, you can designate any creatures you choose, and the sp
 ### Crown of Madness
 *Level 2 Enchantment*
 
-**Casting Time:** Action
-- **Range:** 120 feet
-- **Components:** V, S
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Action  
+**Range:** 120 feet  
+**Components:** V, S  
+**Duration:** Concentration, up to 1 minute
 
 One creature that you can see within range must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The creature succeeds automatically if it isn't Humanoid.
 
@@ -280,10 +280,10 @@ On your later turns, you must take the Magic action to maintain control of the t
 ### Darkness
 *Level 2 Evocation*
 
-**Casting Time:** Action
-- **Range:** 60 feet
-- **Components:** V, M (bat fur and a piece of coal)
-- **Duration:** Concentration, up to 10 minutes
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** V, M (bat fur and a piece of coal)  
+**Duration:** Concentration, up to 10 minutes
 
 For the duration, magical Darkness spreads from a point within range and fills a 15-foot-radius Sphere. Darkvision can't see through it, and nonmagical light can't illuminate it.
 
@@ -298,10 +298,10 @@ If any of this spell's area overlaps with an area of Bright Light or Dim Light c
 ### Darkvision
 *Level 2 Transmutation*
 
-**Casting Time:** Action
-- **Range:** Touch
-- **Components:** V, S, M (a dried carrot)
-- **Duration:** 8 hours
+**Casting Time:** Action  
+**Range:** Touch  
+**Components:** V, S, M (a dried carrot)  
+**Duration:** 8 hours
 
 For the duration, a willing creature you touch has Darkvision with a range of 150 feet.
 
@@ -312,10 +312,10 @@ For the duration, a willing creature you touch has Darkvision with a range of 15
 ### Detect Thoughts
 *Level 2 Divination*
 
-**Casting Time:** Action
-- **Range:** Self
-- **Components:** V, S, M (1 Copper Piece)
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Action  
+**Range:** Self  
+**Components:** V, S, M (1 Copper Piece)  
+**Duration:** Concentration, up to 1 minute
 
 You activate one of the effects below. Until the spell ends, you can activate either effect as a Magic action on your later turns.
 
@@ -334,10 +334,10 @@ As a Magic action on your next turn, you can try to probe deeper into the target
 ### Dragon's Breath
 *Level 2 Transmutation*
 
-**Casting Time:** Bonus action
-- **Range:** Touch
-- **Components:** V, S, M (a hot pepper)
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Bonus action  
+**Range:** Touch  
+**Components:** V, S, M (a hot pepper)  
+**Duration:** Concentration, up to 1 minute
 
 You touch one willing creature, and choose Acid, Cold, Fire, Lightning, or Poison. Until the spell ends, the target can take a Magic action to exhale a 15-foot Cone. Each creature in that area makes a Dexterity saving throw, taking 3d6 damage of the chosen type on a failed save or half as much damage on a successful one.
 
@@ -350,10 +350,10 @@ You touch one willing creature, and choose Acid, Cold, Fire, Lightning, or Poiso
 ### Dust Devil
 *Level 2 Conjuration*
 
-**Casting Time:** Action
-- **Range:** 60 feet
-- **Components:** V, S, M (a pinch of dust)
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** V, S, M (a pinch of dust)  
+**Duration:** Concentration, up to 1 minute
 
 Choose an unoccupied 5-foot cube of air that you can see within range. An elemental force that resembles a dust devil appears in the cube and lasts for the spell's duration.
 
@@ -370,10 +370,10 @@ As a bonus action, you can move the dust devil up to 30 feet in any direction. I
 ### Earthbind
 *Level 2 Transmutation*
 
-**Casting Time:** Action
-- **Range:** 300 feet
-- **Components:** V
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Action  
+**Range:** 300 feet  
+**Components:** V  
+**Duration:** Concentration, up to 1 minute
 
 Choose one creature you can see within range. Yellow strips of magical energy loop around the creature. The target must succeed on a Strength saving throw, or its flying speed (if any) is reduced to 0 feet for the spell's duration. An airborne creature affected by this spell safely descends at 60 feet per round until it reaches the ground or the spell ends.
 
@@ -384,10 +384,10 @@ Choose one creature you can see within range. Yellow strips of magical energy lo
 ### Enhance Ability
 *Level 2 Transmutation*
 
-**Casting Time:** Action
-- **Range:** Touch
-- **Components:** V, S, M (fur or a feather)
-- **Duration:** Concentration, up to 1 hour
+**Casting Time:** Action  
+**Range:** Touch  
+**Components:** V, S, M (fur or a feather)  
+**Duration:** Concentration, up to 1 hour
 
 You touch a creature and choose Strength, Dexterity, Intelligence, Wisdom, or Charisma. For the duration, the target has Advantage on ability checks using the chosen ability.
 
@@ -400,10 +400,10 @@ You touch a creature and choose Strength, Dexterity, Intelligence, Wisdom, or Ch
 ### Enlarge/Reduce
 *Level 2 Transmutation*
 
-**Casting Time:** Action
-- **Range:** 30 feet
-- **Components:** V, S, M (a pinch of powdered iron)
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Action  
+**Range:** 30 feet  
+**Components:** V, S, M (a pinch of powdered iron)  
+**Duration:** Concentration, up to 1 minute
 
 For the duration, the spell enlarges or reduces a creature or an object you can see within range (see the chosen effect below). A targeted object must be neither worn nor carried. If the target is an unwilling creature, it can make a Constitution saving throw. On a successful save, the spell has no effect.
 
@@ -420,10 +420,10 @@ Everything that a targeted creature is wearing and carrying changes size with it
 ### Enthrall
 *Level 2 Enchantment*
 
-**Casting Time:** Action
-- **Range:** 60 feet
-- **Components:** V, S
-- **Duration:** 1 minute
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** V, S  
+**Duration:** 1 minute
 
 You weave a distracting string of words, causing creatures of your choice that you can see within range to make a Wisdom saving throw. Any creature you or your companions are fighting automatically succeeds on this save. On a failed save, a target has a -10 penalty to Wisdom (Perception) checks and Passive Perception until the spell ends.
 
@@ -434,10 +434,10 @@ You weave a distracting string of words, causing creatures of your choice that y
 ### Find Steed
 *Level 2 Conjuration*
 
-**Casting Time:** Action
-- **Range:** 30 feet
-- **Components:** V, S
-- **Duration:** Instantaneous
+**Casting Time:** Action  
+**Range:** 30 feet  
+**Components:** V, S  
+**Duration:** Instantaneous
 
 You summon an otherworldly being that appears as a loyal steed in an unoccupied space of your choice within range. This creature uses the **Otherworldly Steed** stat block. If you already have a steed from this spell, the steed is replaced by the new one.
 
@@ -456,10 +456,10 @@ The steed resembles a Large, rideable animal of your choice, such as a horse, a 
 ### Find Traps
 *Level 2 Divination*
 
-**Casting Time:** Action
-- **Range:** 120 feet
-- **Components:** V, S
-- **Duration:** Instantaneous
+**Casting Time:** Action  
+**Range:** 120 feet  
+**Components:** V, S  
+**Duration:** Instantaneous
 
 You sense any trap within range that is within line of sight. A trap, for the purpose of this spell, includes any object or mechanism that was created to cause damage or other danger. Thus, the spell would sense the *Alarm* or *Glyph of Warding* spell or a mechanical pit trap, but it wouldn't reveal a natural weakness in the floor, an unstable ceiling, or a hidden sinkhole.
 
@@ -472,10 +472,10 @@ This spell reveals that a trap is present but not its location. You do learn the
 ### Flame Blade
 *Level 2 Evocation*
 
-**Casting Time:** Bonus action
-- **Range:** Self
-- **Components:** V, S, M (a sumac leaf)
-- **Duration:** Concentration, up to 10 minutes
+**Casting Time:** Bonus action  
+**Range:** Self  
+**Components:** V, S, M (a sumac leaf)  
+**Duration:** Concentration, up to 10 minutes
 
 You evoke a fiery blade in your free hand. The blade is similar in size and shape to a scimitar, and it lasts for the duration. If you let go of the blade, it disappears, but you can evoke it again as a Bonus Action.
 
@@ -492,10 +492,10 @@ The flaming blade sheds Bright Light in a 10-foot radius and Dim Light for an ad
 ### Flaming Sphere
 *Level 2 Conjuration*
 
-**Casting Time:** Action
-- **Range:** 60 feet
-- **Components:** V, S, M (a ball of wax)
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** V, S, M (a ball of wax)  
+**Duration:** Concentration, up to 1 minute
 
 You create a 5-foot-diameter sphere of fire in an unoccupied space on the ground within range. It lasts for the duration. Any creature that ends its turn within 5 feet of the sphere makes a Dexterity saving throw, taking 2d6 Fire damage on a failed save or half as much damage on a successful one.
 
@@ -512,10 +512,10 @@ When you move the sphere, you can direct it over barriers up to 5 feet tall and 
 ### Gentle Repose
 *Level 2 Necromancy*
 
-**Casting Time:** Action or Ritual
-- **Range:** Touch
-- **Components:** V, S, M (2 Copper Pieces, which the spell consumes)
-- **Duration:** 10 days
+**Casting Time:** Action or Ritual  
+**Range:** Touch  
+**Components:** V, S, M (2 Copper Pieces, which the spell consumes)  
+**Duration:** 10 days
 
 You touch a corpse or other remains. For the duration, the target is protected from decay and can't become Undead.
 
@@ -528,10 +528,10 @@ The spell also effectively extends the time limit on raising the target from the
 ### Gust of Wind
 *Level 2 Evocation*
 
-**Casting Time:** Action
-- **Range:** Self
-- **Components:** V, S, M (a legume seed)
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Action  
+**Range:** Self  
+**Components:** V, S, M (a legume seed)  
+**Duration:** Concentration, up to 1 minute
 
 A Line of strong wind 60 feet long and 10 feet wide blasts from you in a direction you choose for the duration. Each creature in the Line must succeed on a Strength saving throw or be pushed 15 feet away from you in a direction following the Line. A creature that ends its turn in the Line must make the same save.
 
@@ -548,10 +548,10 @@ As a Bonus Action on your later turns, you can change the direction in which the
 ### Healing Spirit
 *Level 2 Conjuration*
 
-**Casting Time:** Bonus action
-- **Range:** 60 feet
-- **Components:** V, S
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Bonus action  
+**Range:** 60 feet  
+**Components:** V, S  
+**Duration:** Concentration, up to 1 minute
 
 You call forth a nature spirit to soothe the wounded. The intangible spirit appears in a space that is a 5-foot cube you can see within range. The spirit looks like a transparent beast or fey (your choice).
 
@@ -568,10 +568,10 @@ As a bonus action on your turn, you can move the spirit up to 30 feet to a space
 ### Heat Metal
 *Level 2 Transmutation*
 
-**Casting Time:** Action
-- **Range:** 60 feet
-- **Components:** V, S, M (a piece of iron and a flame)
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** V, S, M (a piece of iron and a flame)  
+**Duration:** Concentration, up to 1 minute
 
 Choose a manufactured metal object, such as a metal weapon or a suit of Heavy or Medium metal armor, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes 2d8 Fire damage when you cast the spell. Until the spell ends, you can take a Bonus Action on each of your later turns to deal this damage again if the object is within range.
 
@@ -586,10 +586,10 @@ If a creature is holding or wearing the object and takes the damage from it, the
 ### Hold Person
 *Level 2 Enchantment*
 
-**Casting Time:** Action
-- **Range:** 60 feet
-- **Components:** V, S, M (a straight piece of iron)
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** V, S, M (a straight piece of iron)  
+**Duration:** Concentration, up to 1 minute
 
 Choose a Humanoid that you can see within range. The target must succeed on a Wisdom saving throw or have the Paralyzed condition for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
 
@@ -602,10 +602,10 @@ Choose a Humanoid that you can see within range. The target must succeed on a Wi
 ### Invisibility
 *Level 2 Illusion*
 
-**Casting Time:** Action
-- **Range:** Touch
-- **Components:** V, S, M (an eyelash in gum arabic)
-- **Duration:** Concentration, up to 1 hour
+**Casting Time:** Action  
+**Range:** Touch  
+**Components:** V, S, M (an eyelash in gum arabic)  
+**Duration:** Concentration, up to 1 hour
 
 A creature you touch has the Invisible condition until the spell ends. The spell ends early immediately after the target makes an attack roll, deals damage, or casts a spell.
 
@@ -618,10 +618,10 @@ A creature you touch has the Invisible condition until the spell ends. The spell
 ### Knock
 *Level 2 Transmutation*
 
-**Casting Time:** Action
-- **Range:** 60 feet
-- **Components:** V
-- **Duration:** Instantaneous
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** V  
+**Duration:** Instantaneous
 
 Choose an object that you can see within range. The object can be a door, a box, a chest, a set of manacles, a padlock, or another object that contains a mundane or magical means that prevents access.
 
@@ -638,10 +638,10 @@ When you cast the spell, a loud knock, audible up to 300 feet away, emanates fro
 ### Lesser Restoration
 *Level 2 Abjuration*
 
-**Casting Time:** Bonus action
-- **Range:** Touch
-- **Components:** V, S
-- **Duration:** Instantaneous
+**Casting Time:** Bonus action  
+**Range:** Touch  
+**Components:** V, S  
+**Duration:** Instantaneous
 
 You touch a creature and end one condition on it: Blinded, Deafened, Paralyzed, or Poisoned.
 
@@ -652,10 +652,10 @@ You touch a creature and end one condition on it: Blinded, Deafened, Paralyzed, 
 ### Levitate
 *Level 2 Transmutation*
 
-**Casting Time:** Action
-- **Range:** 60 feet
-- **Components:** V, S, M (a metal spring)
-- **Duration:** Concentration, up to 10 minutes
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** V, S, M (a metal spring)  
+**Duration:** Concentration, up to 10 minutes
 
 One creature or loose object of your choice that you can see within range rises vertically up to 20 feet and remains suspended there for the duration. The spell can levitate an object that weighs up to 500 pounds. An unwilling creature that succeeds on a Constitution saving throw is unaffected.
 
@@ -670,10 +670,10 @@ When the spell ends, the target floats gently to the ground if it is still aloft
 ### Locate Animals or Plants
 *Level 2 Divination*
 
-**Casting Time:** Action or Ritual
-- **Range:** Self
-- **Components:** V, S, M (fur from a bloodhound)
-- **Duration:** Instantaneous
+**Casting Time:** Action or Ritual  
+**Range:** Self  
+**Components:** V, S, M (fur from a bloodhound)  
+**Duration:** Instantaneous
 
 Describe or name a specific kind of Beast, Plant creature, or nonmagical plant. You learn the direction and distance to the closest creature or plant of that kind within 5 miles, if any are present.
 
@@ -684,10 +684,10 @@ Describe or name a specific kind of Beast, Plant creature, or nonmagical plant. 
 ### Locate Object
 *Level 2 Divination*
 
-**Casting Time:** Action
-- **Range:** Self
-- **Components:** V, S, M (a forked twig)
-- **Duration:** Concentration, up to 10 minutes
+**Casting Time:** Action  
+**Range:** Self  
+**Components:** V, S, M (a forked twig)  
+**Duration:** Concentration, up to 10 minutes
 
 Describe or name an object that is familiar to you. You sense the direction to the object's location if that object is within 1,000 feet of you. If the object is in motion, you know the direction of its movement.
 
@@ -702,10 +702,10 @@ This spell can't locate an object if any thickness of lead blocks a direct path 
 ### Magic Mouth
 *Level 2 Illusion*
 
-**Casting Time:** 1 minute or Ritual
-- **Range:** 30 feet
-- **Components:** V, S, M (jade dust worth 10+ GP, which the spell consumes)
-- **Duration:** Until dispelled
+**Casting Time:** 1 minute or Ritual  
+**Range:** 30 feet  
+**Components:** V, S, M (jade dust worth 10+ GP, which the spell consumes)  
+**Duration:** Until dispelled
 
 You implant a message within an object in range—a message that is uttered when a trigger condition is met. Choose an object that you can see and that isn't being worn or carried by another creature. Then speak the message, which must be 25 words or fewer, though it can be delivered over as long as 10 minutes. Finally, determine the circumstance that will trigger the spell to deliver your message.
 
@@ -720,10 +720,10 @@ The trigger can be as general or as detailed as you like, though it must be base
 ### Magic Weapon
 *Level 2 Transmutation*
 
-**Casting Time:** Bonus action
-- **Range:** Touch
-- **Components:** V, S
-- **Duration:** 1 hour
+**Casting Time:** Bonus action  
+**Range:** Touch  
+**Components:** V, S  
+**Duration:** 1 hour
 
 You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls. The spell ends early if you cast it again.
 
@@ -736,10 +736,10 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 ### Maximilian's Earthen Grasp
 *Level 2 Transmutation*
 
-**Casting Time:** Action
-- **Range:** 30 feet
-- **Components:** V, S, M (a miniature hand sculpted from clay)
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Action  
+**Range:** 30 feet  
+**Components:** V, S, M (a miniature hand sculpted from clay)  
+**Duration:** Concentration, up to 1 minute
 
 You choose a 5-foot-square unoccupied space on the ground that you can see within range. A Medium hand made from compacted soil rises there and reaches for one creature you can see within 5 feet of it. The target must make a Strength saving throw. On a failed save, the target takes 2d6 bludgeoning damage and is restrained for the spell's duration.
 
@@ -756,10 +756,10 @@ As an action, you can cause the hand to reach for a different creature or to mov
 ### Melf's Acid Arrow
 *Level 2 Evocation*
 
-**Casting Time:** Action
-- **Range:** 90 feet
-- **Components:** V, S, M (powdered rhubarb leaf)
-- **Duration:** Instantaneous
+**Casting Time:** Action  
+**Range:** 90 feet  
+**Components:** V, S, M (powdered rhubarb leaf)  
+**Duration:** Instantaneous
 
 A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 4d4 Acid damage and 2d4 Acid damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much of the initial damage only.
 
@@ -772,10 +772,10 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 ### Mind Spike
 *Level 2 Divination*
 
-**Casting Time:** Action
-- **Range:** 120 feet
-- **Components:** S
-- **Duration:** Concentration, up to 1 hour
+**Casting Time:** Action  
+**Range:** 120 feet  
+**Components:** S  
+**Duration:** Concentration, up to 1 hour
 
 You drive a spike of psionic energy into the mind of one creature you can see within range. The target makes a Wisdom saving throw, taking 3d8 Psychic damage on a failed save or half as much damage on a successful one. On a failed save, you also always know the target's location until the spell ends, but only while the two of you are on the same plane of existence. While you have this knowledge, the target can't become hidden from you, and if it has the Invisible condition, it gains no benefit from that condition against you.
 
@@ -788,10 +788,10 @@ You drive a spike of psionic energy into the mind of one creature you can see wi
 ### Mirror Image
 *Level 2 Illusion*
 
-**Casting Time:** Action
-- **Range:** Self
-- **Components:** V, S
-- **Duration:** 1 minute
+**Casting Time:** Action  
+**Range:** Self  
+**Components:** V, S  
+**Duration:** 1 minute
 
 Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it's impossible to track which image is real.
 
@@ -806,10 +806,10 @@ A creature is unaffected by this spell if it has the Blinded condition, Blindsig
 ### Misty Step
 *Level 2 Conjuration*
 
-**Casting Time:** Bonus action
-- **Range:** Self
-- **Components:** V
-- **Duration:** Instantaneous
+**Casting Time:** Bonus action  
+**Range:** Self  
+**Components:** V  
+**Duration:** Instantaneous
 
 Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space you can see.
 
@@ -820,10 +820,10 @@ Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied 
 ### Moonbeam
 *Level 2 Evocation*
 
-**Casting Time:** Action
-- **Range:** 120 feet
-- **Components:** V, S, M (a moonseed leaf)
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Action  
+**Range:** 120 feet  
+**Components:** V, S, M (a moonseed leaf)  
+**Duration:** Concentration, up to 1 minute
 
 A silvery beam of pale light shines down in a 5-foot-radius, 40-foot-high Cylinder centered on a point within range. Until the spell ends, Dim Light fills the Cylinder, and you can take a Magic action on later turns to move the Cylinder up to 60 feet.
 
@@ -838,10 +838,10 @@ When the Cylinder appears, each creature in it makes a Constitution saving throw
 ### Nathair's Mischief
 *Level 2 Illusion*
 
-**Casting Time:** Action
-- **Range:** 60 feet
-- **Components:** S, M (a piece of crust from an apple pie)
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** S, M (a piece of crust from an apple pie)  
+**Duration:** Concentration, up to 1 minute
 
 You fill a 20-foot cube you can see within range with fey and draconic magic. Roll on the Mischievous Surge table to determine the magical effect produced, and roll again at the start of each of your turns until the spell ends. You can move the cube up to 10 feet before you roll.
 
@@ -860,10 +860,10 @@ You fill a 20-foot cube you can see within range with fey and draconic magic. Ro
 ### Nystul's Magic Aura
 *Level 2 Illusion*
 
-**Casting Time:** Action
-- **Range:** Touch
-- **Components:** V, S, M (a small square of silk)
-- **Duration:** 24 hours
+**Casting Time:** Action  
+**Range:** Touch  
+**Components:** V, S, M (a small square of silk)  
+**Duration:** 24 hours
 
 With a touch, you place an illusion on a willing creature or an object that isn't being worn or carried. A creature gains the Mask effect below, and an object gains the False Aura effect below. The effect lasts for the duration. If you cast the spell on the same target every day for 30 days, the illusion lasts until dispelled.
 
@@ -878,10 +878,10 @@ With a touch, you place an illusion on a willing creature or an object that isn'
 ### Pass without Trace
 *Level 2 Abjuration*
 
-**Casting Time:** Action
-- **Range:** Self (30-foot emanation)
-- **Components:** V, S, M (ashes from burned mistletoe)
-- **Duration:** Concentration, up to 1 hour
+**Casting Time:** Action  
+**Range:** Self (30-foot emanation)  
+**Components:** V, S, M (ashes from burned mistletoe)  
+**Duration:** Concentration, up to 1 hour
 
 You radiate a concealing aura in a 30-foot Emanation for the duration. While in the aura, you and each creature you choose have a +10 bonus to Dexterity (Stealth) checks and leave no tracks.
 
@@ -892,10 +892,10 @@ You radiate a concealing aura in a 30-foot Emanation for the duration. While in 
 ### Phantasmal Force
 *Level 2 Illusion*
 
-**Casting Time:** Action
-- **Range:** 60 feet
-- **Components:** V, S, M (a bit of fleece)
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** V, S, M (a bit of fleece)  
+**Duration:** Concentration, up to 1 minute
 
 You attempt to craft an illusion in the mind of a creature you can see within range. The target makes an Intelligence saving throw. On a failed save, you create a phantasmal object, creature, or other phenomenon that is no larger than a 10-foot Cube and that is perceivable only to the target for the duration. The phantasm includes sound, temperature, and other stimuli.
 
@@ -912,10 +912,10 @@ An affected target can even take damage from the illusion if the phantasm repres
 ### Prayer of Healing
 *Level 2 Abjuration*
 
-**Casting Time:** 10 minutes
-- **Range:** 30 feet
-- **Components:** V
-- **Duration:** Instantaneous
+**Casting Time:** 10 minutes  
+**Range:** 30 feet  
+**Components:** V  
+**Duration:** Instantaneous
 
 Up to five creatures of your choice who remain within range for the spell's entire casting gain the benefits of a Short Rest and also regain 2d8 Hit Points. A creature can't be affected by this spell again until that creature finishes a Long Rest.
 
@@ -928,10 +928,10 @@ Up to five creatures of your choice who remain within range for the spell's enti
 ### Protection from Poison
 *Level 2 Abjuration*
 
-**Casting Time:** Action
-- **Range:** Touch
-- **Components:** V, S
-- **Duration:** 1 hour
+**Casting Time:** Action  
+**Range:** Touch  
+**Components:** V, S  
+**Duration:** 1 hour
 
 You touch a creature and end the Poisoned condition on it. For the duration, the target has Advantage on saving throws to avoid or end the Poisoned condition, and it has Resistance to Poison damage.
 
@@ -942,10 +942,10 @@ You touch a creature and end the Poisoned condition on it. For the duration, the
 ### Pyrotechnics
 *Level 2 Transmutation*
 
-**Casting Time:** Action
-- **Range:** 60 feet
-- **Components:** V, S
-- **Duration:** Instantaneous
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** V, S  
+**Duration:** Instantaneous
 
 Choose an area of nonmagical flame that you can see and that fits within a 5-foot cube within range. You can extinguish the fire in that area, and you create either fireworks or smoke when you do so.
 
@@ -960,10 +960,10 @@ Choose an area of nonmagical flame that you can see and that fits within a 5-foo
 ### Ray of Enfeeblement
 *Level 2 Necromancy*
 
-**Casting Time:** Action
-- **Range:** 60 feet
-- **Components:** V, S
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** V, S  
+**Duration:** Concentration, up to 1 minute
 
 A beam of enervating energy shoots from you toward a creature within range. The target must make a Constitution saving throw. On a successful save, the target has Disadvantage on the next attack roll it makes until the start of your next turn.
 
@@ -976,10 +976,10 @@ On a failed save, the target has Disadvantage on Strength-based D20 Tests for th
 ### Rime's Binding Ice
 *Level 2 Evocation*
 
-**Casting Time:** Action
-- **Range:** Self (30-foot cone)
-- **Components:** S, M (a vial of meltwater)
-- **Duration:** Instantaneous
+**Casting Time:** Action  
+**Range:** Self (30-foot cone)  
+**Components:** S, M (a vial of meltwater)  
+**Duration:** Instantaneous
 
 A burst of cold energy emanates from you in a 30-foot cone. Each creature in that area must make a Constitution saving throw. On a failed save, a creature takes 3d8 cold damage and is hindered by ice formations for 1 minute, or until it or another creature within reach of it uses an action to break away the ice. A creature hindered by ice has its speed reduced to 0. On a successful save, a creature takes half as much damage and isn't hindered by ice.
 
@@ -992,10 +992,10 @@ A burst of cold energy emanates from you in a 30-foot cone. Each creature in tha
 ### Rope Trick
 *Level 2 Transmutation*
 
-**Casting Time:** Action
-- **Range:** Touch
-- **Components:** V, S, M (a segment of rope)
-- **Duration:** 1 hour
+**Casting Time:** Action  
+**Range:** Touch  
+**Components:** V, S, M (a segment of rope)  
+**Duration:** 1 hour
 
 You touch a rope. One end of it hovers upward until the rope hangs perpendicular to the ground or the rope reaches a ceiling. At the rope's upper end, an Invisible 3-foot-by-5-foot portal opens to an extradimensional space that lasts until the spell ends. That space can be reached by climbing the rope, which can be pulled into or dropped out of it.
 
@@ -1008,10 +1008,10 @@ The space can hold up to eight Medium or smaller creatures. Attacks, spells, and
 ### Scorching Ray
 *Level 2 Evocation*
 
-**Casting Time:** Action
-- **Range:** 120 feet
-- **Components:** V, S
-- **Duration:** Instantaneous
+**Casting Time:** Action  
+**Range:** 120 feet  
+**Components:** V, S  
+**Duration:** Instantaneous
 
 You hurl three fiery rays. You can hurl them at one target within range or at several. Make a ranged spell attack for each ray. On a hit, the target takes 2d6 Fire damage.
 
@@ -1024,10 +1024,10 @@ You hurl three fiery rays. You can hurl them at one target within range or at se
 ### See Invisibility
 *Level 2 Divination*
 
-**Casting Time:** Action
-- **Range:** Self
-- **Components:** V, S, M (a pinch of talc)
-- **Duration:** 1 hour
+**Casting Time:** Action  
+**Range:** Self  
+**Components:** V, S, M (a pinch of talc)  
+**Duration:** 1 hour
 
 For the duration, you see creatures and objects that have the Invisible condition as if they were visible, and you can see into the Ethereal Plane. Creatures and objects there appear ghostly.
 
@@ -1038,10 +1038,10 @@ For the duration, you see creatures and objects that have the Invisible conditio
 ### Shadow Blade
 *Level 2 Illusion*
 
-**Casting Time:** Bonus action
-- **Range:** Self
-- **Components:** V, S
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Bonus action  
+**Range:** Self  
+**Components:** V, S  
+**Duration:** Concentration, up to 1 minute
 
 You weave together threads of shadow to create a sword of solidified gloom in your hand. This magic sword lasts until the spell ends. It counts as a simple melee weapon with which you are proficient. It deals 2d8 psychic damage on a hit and has the finesse, light, and thrown properties (range 20/60). In addition, when you use the sword to attack a target that is in dim light or darkness, you make the attack roll with advantage.
 
@@ -1056,10 +1056,10 @@ If you drop the weapon or throw it, it dissipates at the end of the turn. Therea
 ### Shatter
 *Level 2 Evocation*
 
-**Casting Time:** Action
-- **Range:** 60 feet
-- **Components:** V, S, M (a chip of mica)
-- **Duration:** Instantaneous
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** V, S, M (a chip of mica)  
+**Duration:** Instantaneous
 
 A loud noise erupts from a point of your choice within range. Each creature in a 10-foot-radius Sphere centered there makes a Constitution saving throw, taking 3d8 Thunder damage on a failed save or half as much damage on a successful one. A Construct has Disadvantage on the save.
 
@@ -1074,10 +1074,10 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 ### Shining Smite
 *Level 2 Transmutation*
 
-**Casting Time:** Bonus action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike
-- **Range:** Self
-- **Components:** V
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Bonus action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike  
+**Range:** Self  
+**Components:** V  
+**Duration:** Concentration, up to 1 minute
 
 The target hit by the strike takes an extra 2d6 Radiant damage from the attack. Until the spell ends, the target sheds Bright Light in a 5-foot radius, attack rolls against it have Advantage, and it can't benefit from the Invisible condition.
 
@@ -1090,10 +1090,10 @@ The target hit by the strike takes an extra 2d6 Radiant damage from the attack. 
 ### Silence
 *Level 2 Illusion*
 
-**Casting Time:** Action or Ritual
-- **Range:** 120 feet
-- **Components:** V, S
-- **Duration:** Concentration, up to 10 minutes
+**Casting Time:** Action or Ritual  
+**Range:** 120 feet  
+**Components:** V, S  
+**Duration:** Concentration, up to 10 minutes
 
 For the duration, no sound can be created within or pass through a 20-foot-radius Sphere centered on a point you choose within range. Any creature or object entirely inside the Sphere has Immunity to Thunder damage, and creatures have the Deafened condition while entirely inside it. Casting a spell that includes a Verbal component is impossible there.
 
@@ -1104,10 +1104,10 @@ For the duration, no sound can be created within or pass through a 20-foot-radiu
 ### Skywrite
 *Level 2 Transmutation*
 
-**Casting Time:** Action or Ritual
-- **Range:** Sight
-- **Components:** V, S
-- **Duration:** Concentration, up to 1 hour
+**Casting Time:** Action or Ritual  
+**Range:** Sight  
+**Components:** V, S  
+**Duration:** Concentration, up to 1 hour
 
 You cause up to ten words to form in a part of the sky you can see. The words appear to be made of cloud and remain in place for the spell's duration. The words dissipate when the spell ends. A strong wind can disperse the clouds and end the spell early.
 
@@ -1118,10 +1118,10 @@ You cause up to ten words to form in a part of the sky you can see. The words ap
 ### Snilloc's Snowball Swarm
 *Level 2 Evocation*
 
-**Casting Time:** Action
-- **Range:** 90 feet
-- **Components:** V, S, M (a piece of ice or a small white rock chip)
-- **Duration:** Instantaneous
+**Casting Time:** Action  
+**Range:** 90 feet  
+**Components:** V, S, M (a piece of ice or a small white rock chip)  
+**Duration:** Instantaneous
 
 A flurry of magic snowballs erupts from a point you choose within range. Each creature in a 5-foot-radius sphere centered on that point must make a Dexterity saving throw. A creature takes 3d6 cold damage on a failed save, or half as much damage on a successful one.
 
@@ -1134,10 +1134,10 @@ A flurry of magic snowballs erupts from a point you choose within range. Each cr
 ### Spider Climb
 *Level 2 Transmutation*
 
-**Casting Time:** Action
-- **Range:** Touch
-- **Components:** V, S, M (a drop of bitumen and a spider)
-- **Duration:** Concentration, up to 1 hour
+**Casting Time:** Action  
+**Range:** Touch  
+**Components:** V, S, M (a drop of bitumen and a spider)  
+**Duration:** Concentration, up to 1 hour
 
 Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and along ceilings, while leaving its hands free. The target also gains a Climb Speed equal to its Speed.
 
@@ -1150,10 +1150,10 @@ Until the spell ends, one willing creature you touch gains the ability to move u
 ### Spike Growth
 *Level 2 Transmutation*
 
-**Casting Time:** Action
-- **Range:** 150 feet
-- **Components:** V, S, M (seven thorns)
-- **Duration:** Concentration, up to 10 minutes
+**Casting Time:** Action  
+**Range:** 150 feet  
+**Components:** V, S, M (seven thorns)  
+**Duration:** Concentration, up to 10 minutes
 
 The ground in a 20-foot-radius Sphere centered on a point within range sprouts hard spikes and thorns. The area becomes Difficult Terrain for the duration. When a creature moves into or within the area, it takes 2d4 Piercing damage for every 5 feet it travels.
 
@@ -1166,10 +1166,10 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 ### Spiritual Weapon
 *Level 2 Evocation*
 
-**Casting Time:** Bonus action
-- **Range:** 60 feet
-- **Components:** V, S
-- **Duration:** Concentration, up to 1 minute
+**Casting Time:** Bonus action  
+**Range:** 60 feet  
+**Components:** V, S  
+**Duration:** Concentration, up to 1 minute
 
 You create a floating, spectral force that resembles a weapon of your choice and lasts for the duration. The force appears within range in a space of your choice, and you can immediately make one melee spell attack against one creature within 5 feet of the force. On a hit, the target takes Force damage equal to 1d8 plus your spellcasting ability modifier.
 
@@ -1184,10 +1184,10 @@ As a Bonus Action on your later turns, you can move the force up to 20 feet and 
 ### Spray of Cards
 *Level 2 Conjuration*
 
-**Casting Time:** Action
-- **Range:** Self (15-foot cone)
-- **Components:** V, S, M (a deck of cards)
-- **Duration:** Instantaneous
+**Casting Time:** Action  
+**Range:** Self (15-foot cone)  
+**Components:** V, S, M (a deck of cards)  
+**Duration:** Instantaneous
 
 You spray a 15-foot cone of spectral cards. Each creature in that area must make a Dexterity saving throw. On a failed save, a creature takes 2d10 force damage and has the blinded condition until the end of its next turn. On a successful save, a creature takes half as much damage only.
 
@@ -1198,10 +1198,10 @@ You spray a 15-foot cone of spectral cards. Each creature in that area must make
 ### Suggestion
 *Level 2 Enchantment*
 
-**Casting Time:** Action
-- **Range:** 30 feet
-- **Components:** V, M (a drop of honey)
-- **Duration:** Concentration, up to 8 hours
+**Casting Time:** Action  
+**Range:** 30 feet  
+**Components:** V, M (a drop of honey)  
+**Duration:** Concentration, up to 8 hours
 
 You suggest a course of activity—described in no more than 25 words—to one creature you can see within range that can hear and understand you. The suggestion must sound achievable and not involve anything that would obviously deal damage to the target or it allies. For example, you could say, "Fetch the key to the cult's treasure vault, and give the key to me." Or you could say, "Stop fighting, leave this library peacefully, and don't return."
 
@@ -1214,10 +1214,10 @@ The target must succeed on a Wisdom saving throw or have the Charmed condition f
 ### Summon Beast
 *Level 2 Conjuration*
 
-**Casting Time:** Action
-- **Range:** 90 feet
-- **Components:** V, S, M (a feather, tuft of fur, and fish tail inside a gilded acorn worth 200+ GP)
-- **Duration:** Concentration, up to 1 hour
+**Casting Time:** Action  
+**Range:** 90 feet  
+**Components:** V, S, M (a feather, tuft of fur, and fish tail inside a gilded acorn worth 200+ GP)  
+**Duration:** Concentration, up to 1 hour
 
 You call forth a bestial spirit. It manifests in an unoccupied space that you can see within range and uses the **Bestial Spirit** stat block. When you cast the spell, choose an environment: Air, Land, or Water. The creature resembles an animal of your choice that is native to the chosen environment, which determines certain details in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
 
@@ -1232,10 +1232,10 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 ### Tasha's Mind Whip
 *Level 2 Enchantment*
 
-**Casting Time:** Action
-- **Range:** 90 feet
-- **Components:** V
-- **Duration:** 1 round
+**Casting Time:** Action  
+**Range:** 90 feet  
+**Components:** V  
+**Duration:** 1 round
 
 You psychically lash out at one creature you can see within range. The target must make an Intelligence saving throw. On a failed save, the target takes 3d6 psychic damage, and it can't take a reaction until the end of its next turn. Moreover, on its next turn, it must choose whether it gets a move, an action, or a bonus action; it gets only one of the three. On a successful save, the target takes half as much damage and suffers none of the spell's other effects.
 
@@ -1246,10 +1246,10 @@ You psychically lash out at one creature you can see within range. The target mu
 ### Warding Bond
 *Level 2 Abjuration*
 
-**Casting Time:** Action
-- **Range:** Touch
-- **Components:** V, S, M (a pair of platinum rings worth 50+ GP each, which you and the target must wear for the duration)
-- **Duration:** 1 hour
+**Casting Time:** Action  
+**Range:** Touch  
+**Components:** V, S, M (a pair of platinum rings worth 50+ GP each, which you and the target must wear for the duration)  
+**Duration:** 1 hour
 
 You touch another creature that is willing and create a mystic connection between you and the target until the spell ends. While the target is within 60 feet of you, it gains a +1 bonus to AC and saving throws, and it has Resistance to all damage. Also, each time it takes damage, you take the same amount of damage.
 
@@ -1262,10 +1262,10 @@ The spell ends if you drop to 0 Hit Points or if you and the target become separ
 ### Warding Wind
 *Level 2 Evocation*
 
-**Casting Time:** Action
-- **Range:** Self
-- **Components:** V
-- **Duration:** Concentration, up to 10 minutes
+**Casting Time:** Action  
+**Range:** Self  
+**Components:** V  
+**Duration:** Concentration, up to 10 minutes
 
 A strong wind (20 miles per hour) blows around you in a 10-foot radius and moves with you, remaining centered on you. The wind lasts for the spell's duration.
 
@@ -1284,10 +1284,10 @@ The wind has the following effects:
 ### Web
 *Level 2 Conjuration*
 
-**Casting Time:** Action
-- **Range:** 60 feet
-- **Components:** V, S, M (a bit of spiderweb)
-- **Duration:** Concentration, up to 1 hour
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** V, S, M (a bit of spiderweb)  
+**Duration:** Concentration, up to 1 hour
 
 You conjure a mass of sticky webbing at a point within range. The webs fill a 20-foot Cube there for the duration. The webs are Difficult Terrain, and the area within them is Lightly Obscured.
 
@@ -1306,10 +1306,10 @@ The webs are flammable. Any 5-foot Cube of webs exposed to fire burns away in 1 
 ### Zone of Truth
 *Level 2 Enchantment*
 
-**Casting Time:** Action
-- **Range:** 60 feet
-- **Components:** V, S
-- **Duration:** 10 minutes
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** V, S  
+**Duration:** 10 minutes
 
 You create a magical zone that guards against deception in a 15-foot-radius Sphere centered on a point within range. Until the spell ends, a creature that enters the spell's area for the first time on a turn or starts its turn there makes a Charisma saving throw. On a failed save, a creature can't speak a deliberate lie while in the radius. You know whether a creature succeeds or fails on this save.
 
