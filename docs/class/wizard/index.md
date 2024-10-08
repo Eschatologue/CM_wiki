@@ -71,7 +71,7 @@ As a Wizard, you gain the following class features when you reach the specified 
 
 ### Level 1: Spellcasting
 
-As a student of arcane magic, you have learned to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Wizard spells, which appear in the [Wizard spell list](spell-list.md).
+As a student of arcane magic, you have learned to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Wizard spells, which appear in the [Wizard spell list](../../spells/class-specific/wizard.md).
 
 ***Cantrips.*** You know three Wizard cantrips of your choice. Light, Mage Hand, and Ray of Frost are recommended. Whenever you finish a Long Rest, you can replace one of your cantrips from this feature with another Wizard cantrip of your choice.
 
