@@ -46,7 +46,7 @@ This Cleric spell list includes all spells available from `PHB'24`, `TCE`, `XGE`
 === "Level 2"
 
     | Name | School | Time | Range | Duration | Components | Source |
-    |---|---|---|---|---|---|
+    |---|---|---|---|---|---|---|
     | **Aid** | Abjuration | Action | 30 feet | 8 hours | V, S, M (a strip of white cloth) | PHB'24 |
     | **Augury** | Divination (ritual) | 1 Min. | Self | Instantaneous | V, S, M (specially marked sticks, bones, cards, or other divinatory tokens worth 25+ GP) | PHB'24 |
     | **Blindness/Deafness** | Transmutation | Action | 120 feet | 1 minute | V | PHB'24 |
@@ -68,7 +68,7 @@ This Cleric spell list includes all spells available from `PHB'24`, `TCE`, `XGE`
 === "Level 3"
 
     | Name | School | Time | Range | Duration | Components | Source |
-    |---|---|---|---|---|---|
+    |---|---|---|---|---|---|---|
     | **Animate Dead** | Necromancy | 1 Min. | 10 feet | Instantaneous | V, S, M (a drop of blood, a piece of flesh, and a pinch of bone dust) | PHB'24 |
     | **Aura of Vitality** | Abjuration | Action | Self (30-foot emanation) | Concentration, up to 1 minute | V | PHB'24 |
     | **Beacon of Hope** | Abjuration | Action | 30 feet | Concentration, up to 1 minute | V, S | PHB'24 |
@@ -96,7 +96,7 @@ This Cleric spell list includes all spells available from `PHB'24`, `TCE`, `XGE`
 === "Level 4"
 
     | Name | School | Time | Range | Duration | Components | Source |
-    |---|---|---|---|---|---|    
+    |---|---|---|---|---|---|---|  
     | **Aura of Life** | Abjuration | Action | Self (30-foot emanation) | Concentration, up to 10 minutes | V | PHB'24 |
     | **Aura of Purity** | Abjuration | Action | Self (30-foot emanation) | Concentration, up to 10 minutes | V | PHB'24 |
     | **Banishment** | Abjuration | Action | 30 feet | Concentration, up to 1 minute | V, S, M (a pentacle) | PHB'24 |
@@ -111,7 +111,7 @@ This Cleric spell list includes all spells available from `PHB'24`, `TCE`, `XGE`
 === "Level 5"
 
     | Name | School | Time | Range | Duration | Components | Source |
-    |---|---|---|---|---|---|  
+    |---|---|---|---|---|---|---|  
     | **Circle of Power** | Abjuration | Action | Self (30-foot emanation) | Concentration, up to 10 minutes | V | PHB'24 |
     | **Commune** | Divination (ritual) | 1 Min. | Self | 1 minute | V, S, M (incense) | PHB'24 |
     | **Contagion** | Necromancy | Action | Touch | 7 days | V, S | PHB'24 |
@@ -133,7 +133,7 @@ This Cleric spell list includes all spells available from `PHB'24`, `TCE`, `XGE`
 === "Level 6"
 
     | Name | School | Time | Range | Duration | Components | Source |
-    |---|---|---|---|---|---| 
+    |---|---|---|---|---|---|---| 
     | **Blade Barrier** | Evocation | Action | 90 feet | Concentration, up to 10 minutes | V, S | PHB'24 |
     | **Create Undead** | Necromancy | 1 Min. | 10 feet | Instantaneous | V, S, M (one 150+ GP black onyx stone for each corpse) | PHB'24 |
     | **Find the Path** | Divination | 1 Min. | Self | Concentration, up to 1 day | V, S, M (a set of divination tools—such as cards or runes—worth 100+ GP) | PHB'24 |
@@ -149,7 +149,7 @@ This Cleric spell list includes all spells available from `PHB'24`, `TCE`, `XGE`
 === "Level 7"
 
     | Name | School | Time | Range | Duration | Components | Source |
-    |---|---|---|---|---|---| 
+    |---|---|---|---|---|---|---| 
     | **Conjure Celestial** | Conjuration | Action | 90 feet | Concentration, up to 10 minutes | V, S | PHB'24 |
     | **Divine Word** | Evocation | Bonus | 30 feet | Instantaneous | V | PHB'24 |
     | **Etherealness** | Conjuration | Action | Self | 8 hours | V, S | PHB'24 |
@@ -164,7 +164,7 @@ This Cleric spell list includes all spells available from `PHB'24`, `TCE`, `XGE`
 === "Level 8"
 
     | Name | School | Time | Range | Duration | Components | Source |
-    |---|---|---|---|---|---| 
+    |---|---|---|---|---|---|---| 
     | **Antimagic Field** | Abjuration | Action | Self (10-foot emanation) | Concentration, up to 1 hour | V, S, M (iron filings) | PHB'24 |
     | **Control Weather** | Transmutation | 10 Min. | Self (5-mile radius) | Concentration, up to 8 hours | V, S, M (burning incense) | PHB'24 |
     | **Earthquake** | Transmutation | Action | 500 feet | Concentration, up to 1 minute | V, S, M (a fractured rock) | PHB'24 |
@@ -174,7 +174,7 @@ This Cleric spell list includes all spells available from `PHB'24`, `TCE`, `XGE`
 === "Level 9"
 
     | Name | School | Time | Range | Duration | Components | Source |
-    |---|---|---|---|---|---| 
+    |---|---|---|---|---|---|---| 
     | **Astral Projection** | Necromancy | 1 Hr. | 10 feet | Until dispelled | V, S, M (for each of the spell's targets, one jacinth worth 1,000+ GP and one silver bar worth 100+ GP, all of which the spell consumes) | PHB'24 |
     | **Gate** | Conjuration | Action | 60 feet | Concentration, up to 1 minute | V, S, M (a diamond worth 5,000+ GP) | PHB'24 |
     | **Mass Heal** | Abjuration | Action | 60 feet | Instantaneous | V, S | PHB'24 |
