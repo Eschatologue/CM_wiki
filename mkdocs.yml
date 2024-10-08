@@ -246,31 +246,17 @@ nav:
         - Warlock: spells/class-specific/warlock.md
         - Wizard: spells/class-specific/wizard.md
     - Spells Description:
-      - 2024 PHB: 
-        - Spells (A): spells/description/a.md
-        - Spells (B): spells/description/b.md
-        - Spells (C): spells/description/c.md
-        - Spells (D): spells/description/d.md
-        - Spells (E): spells/description/e.md
-        - Spells (F): spells/description/f.md
-        - Spells (G): spells/description/g.md
-        - Spells (H): spells/description/h.md
-        - Spells (I): spells/description/i.md
-        - Spells (J): spells/description/j.md
-        - Spells (K): spells/description/k.md
-        - Spells (L): spells/description/l.md
-        - Spells (M): spells/description/m.md
-        - Spells (N): spells/description/n.md
-        - Spells (O): spells/description/o.md
-        - Spells (P): spells/description/p.md
-        - Spells (R): spells/description/r.md
-        - Spells (S): spells/description/s.md
-        - Spells (T): spells/description/t.md
-        - Spells (U): spells/description/u.md
-        - Spells (V): spells/description/v.md
-        - Spells (W): spells/description/w.md
-        - Spells (Y): spells/description/y.md
-        - Spells (Z): spells/description/z.md
+      - Core Rulebook: 
+        - Cantrip: spells/description/core/cantrip.md
+        - Level 1: spells/description/core/level-1.md
+        - Level 2: spells/description/core/level-2.md
+        - Level 3: spells/description/core/level-3.md
+        - Level 4: spells/description/core/level-4.md
+        - Level 5: spells/description/core/level-5.md
+        - Level 6: spells/description/core/level-6.md
+        - Level 7: spells/description/core/level-7.md
+        - Level 8: spells/description/core/level-8.md
+        - Level 9: spells/description/core/level-9.md
       - Crown & Misery: 
         - Spells (C): spells/description/hb/c.md
         - Spells (E): spells/description/hb/e.md
