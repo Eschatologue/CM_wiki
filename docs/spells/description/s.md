@@ -385,6 +385,8 @@ An affected target repeats the save at the end of each of its turns, ending the 
 
 ---
 
+### Sorcerous Burst
+
 *Evocation cantrip*
 
 **Casting Time:** :rsc-action: Action  
