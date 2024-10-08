@@ -1,0 +1,5 @@
+/* Homebrew Status */
+.md-status--homebrew::after {
+    mask-image: var(--md-icon--homebrew);
+    -webkit-mask-image: var(--md-icon--homebrew);
+}

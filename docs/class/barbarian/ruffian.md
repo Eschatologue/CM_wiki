@@ -1,3 +1,7 @@
+---
+status: homebrew
+---
+
 # Path of the Ruffian
 
 > *Rage Born in the Streets - Written by Eschatologue*

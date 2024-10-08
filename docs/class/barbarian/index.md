@@ -1,6 +1,7 @@
 ---
 icon: class/barbarian
 title: Barbarian
+description: Storm with Rage, and wade into hand-to-hand combat.
 ---
 
 :class-barbarian:{ .xxxxl }

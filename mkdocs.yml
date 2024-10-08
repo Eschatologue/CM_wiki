@@ -211,7 +211,7 @@ nav:
         - Wild Heart: class/barbarian/wild-heart.md
         - World Tree: class/barbarian/world-tree.md
         - Zealot: class/barbarian/zealot.md
-        - Ruffian (HB): class/barbarian/ruffian.md
+        - Ruffian: class/barbarian/ruffian.md
         - Tranquillity (HB): class/barbarian/tranquillity.md
       - Fighter:
         - class/fighter/index.md
@@ -304,6 +304,11 @@ theme:
     logo: fontawesome/solid/dice-d20
     annotation: material/timeline-question
   favicon: assets/icon.jpg
+
+## Additional Configuration
+extra:
+  status:
+    homebrew: This Material is Homebrew
 
 # Markdown Extentions
 markdown_extensions:
