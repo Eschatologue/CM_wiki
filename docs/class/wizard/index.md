@@ -153,70 +153,81 @@ This section presents the Wizard spell list. The spells are organized by spell l
 
 ##### Cantrips (Level 0 Wizard Spells)
 
-| Name | Casting Time | School | Duration | Source |
-|---|---|:-:|---|---|
-| Acid Splash | Action | Evocation | Instantaneous | PHB'24 |
-| Blade Ward | Action | Abjuration | Concentration, up to 1 minute | PHB'24 |
-| Booming Blade | Action | Evocation | 1 round | TCE |
-| Chill Touch | Action | Necromancy | Instantaneous | PHB'24 |
-| Control Flames | Action | Transmutation | Instantaneous or 1 hour (see below) | XGE |
-| Create Bonfire | Action | Conjuration | Concentration, up to 1 minute | XGE |
-| Dancing Lights | Action | Illusion | Concentration, up to 1 minute | PHB'24 |
-| Elementalism | Action | Transmutation | Instantaneous | PHB'24 |
-| Fire Bolt | Action | Evocation | Instantaneous | PHB'24 |
-| Friends | Action | Enchantment | Concentration, up to 1 minute | PHB'24 |
-| Frostbite | Action | Evocation | Instantaneous | XGE |
-| Green-Flame Blade | Action | Evocation | Instantaneous | TCE |
-| Gust | Action | Transmutation | Instantaneous | XGE |
-| Infestation | Action | Conjuration | Instantaneous | XGE |
-| Light | Action | Evocation | 1 hour | PHB'24 |
-| Lightning Lure | Action | Evocation | Instantaneous | TCE |
-| Mage Hand | Action | Conjuration | 1 minute | PHB'24 |
-| Mending | 1 Min. | Transmutation | Instantaneous | PHB'24 |
-| Message | Action | Transmutation | 1 round | PHB'24 |
-| Mind Sliver | Action | Enchantment | Instantaneous | PHB'24 |
-| Minor Illusion | Action | Illusion | 1 minute | PHB'24 |
-| Mold Earth | Action | Transmutation | Instantaneous or 1 hour (see below) | XGE |
-| Poison Spray | Action | Necromancy | Instantaneous | PHB'24 |
-| Prestidigitation | Action | Transmutation | 1 hour | PHB'24 |
-| Ray of Frost | Action | Evocation | Instantaneous | PHB'24 |
-| Shape Water | Action | Transmutation | Instantaneous or 1 hour (see below) | XGE |
-| Shocking Grasp | Action | Evocation | Instantaneous | PHB'24 |
-| Sword Burst | Action | Conjuration | Instantaneous | TCE |
-| Thunderclap | Action | Evocation | Instantaneous | PHB'24 |
-| Toll the Dead | Action | Necromancy | Instantaneous | PHB'24 |
-| True Strike | Action | Divination | Instantaneous | PHB'24 |
-
+| Name | Casting Time | School | Components |
+|---|---|---|---|
+| Acid Splash | Action | Evocation | V, S |
+| Blade Ward | Action | Abjuration | V, S |
+| Booming Blade | Action | Evocation | S, M (a melee weapon worth at least 1 sp) |
+| Chill Touch | Action | Necromancy | V, S |
+| Control Flames | Action | Transmutation | S |
+| Create Bonfire | Action | Conjuration | V, S |
+| Dancing Lights | Action | Illusion | V, S, M (a bit of phosphorus) |
+| Elementalism | Action | Transmutation | V, S |
+| Fire Bolt | Action | Evocation | V, S |
+| Friends | Action | Enchantment | S, M (some makeup) |
+| Frostbite | Action | Evocation | V, S |
+| Green-Flame Blade | Action | Evocation | S, M (a melee weapon worth at least 1 sp) |
+| Gust | Action | Transmutation | V, S |
+| Infestation | Action | Conjuration | V, S, M (a living flea) |
+| Light | Action | Evocation | V, M (a firefly or phosphorescent moss) |
+| Lightning Lure | Action | Evocation | V |
+| Mage Hand | Action | Conjuration | V, S |
+| Mending | 1 Min. | Transmutation | V, S, M (two lodestones) |
+| Message | Action | Transmutation | S, M (a copper wire) |
+| Mind Sliver | Action | Enchantment | V |
+| Minor Illusion | Action | Illusion | S, M (a bit of fleece) |
+| Mold Earth | Action | Transmutation | S |
+| Poison Spray | Action | Necromancy | V, S |
+| Prestidigitation | Action | Transmutation | V, S |
+| Ray of Frost | Action | Evocation | V, S |
+| Shape Water | Action | Transmutation | S |
+| Shocking Grasp | Action | Evocation | V, S |
+| Sword Burst | Action | Conjuration | V |
+| Thunderclap | Action | Evocation | S |
+| Toll the Dead | Action | Necromancy | V, S |
+| True Strike | Action | Divination | S, M (a weapon with which you have proficiency and that is worth 1+ CP) |
 
 ##### Level 1 Wizard Spells
 
-| Spell | School | Special |
-|---|---|:-:|
-| *Alarm* | Abjuration | R |
-| *Burning Hands* | Evocation | — |
-| *Charm Person* | Enchantment | — |
-| *Color Spray* | Illusion | — |
-| *Comprehend Languages* | Divination | R |
-| *Detect Magic* | Divination | C, R |
-| *Disguise Self* | Illusion | — |
-| *Expeditious Retreat* | Transmutation | C |
-| *False Life* | Necromancy | – |
-| *Feather Fall* | Transmutation | — |
-| *Find Familiar* | Conjuration | R, M |
-| *Fog Cloud* | Conjuration | C |
-| *Grease* | Conjuration | — |
-| *Identify* | Divination | R, M |
-| *Illusory Script* | Illusion | R, M |
-| *Jump* | Transmutation | — |
-| *Longstrider* | Transmutation | — |
-| *Mage Armour* | Abjuration | — |
-| *Magic Missile* | Evocation | — |
-| *Protection from Evil and Good* | Abjuration | C, M |
-| *Shield* | Abjuration | — |
-| *Silent Image* | Illusion | C |
-| *Sleep* | Enchantment | C |
-| *Thunderwave* | Evocation | — |
-| *Unseen Servant* | Conjuration | R |
+| Name | Casting Time | School | Components |
+|---|---|---|---|
+| Absorb Elements | Reaction | Abjuration | S |
+| Alarm | 1 Min. | Abjuration (ritual) | V, S, M (a bell and silver wire) |
+| Burning Hands | Action | Evocation | V, S |
+| Catapult | Action | Transmutation | S |
+| Cause Fear | Action | Necromancy | V |
+| Charm Person | Action | Enchantment | V, S |
+| Chromatic Orb | Action | Evocation | V, S, M (a diamond worth 50+ GP) |
+| Color Spray | Action | Illusion | V, S, M (a pinch of colorful sand) |
+| Comprehend Languages | Action | Divination (ritual) | V, S, M (a pinch of soot and salt) |
+| Detect Magic | Action | Divination (ritual) | V, S |
+| Disguise Self | Action | Illusion | V, S |
+| Earth Tremor | Action | Evocation | V, S |
+| Expeditious Retreat | Bonus | Transmutation | V, S |
+| False Life | Action | Necromancy | V, S, M (a drop of alcohol) |
+| Feather Fall | Reaction | Transmutation | V, M (a small feather or piece of down) |
+| Find Familiar | 1 Hr. | Conjuration (ritual) | V, S, M (burning incense worth 10+ GP, which the spell consumes) |
+| Fog Cloud | Action | Conjuration | V, S |
+| Grease | Action | Conjuration | V, S, M (a bit of pork rind or butter) |
+| Ice Knife | Action | Conjuration | S, M (a drop of water or a piece of ice) |
+| Identify | 1 Min. | Divination (ritual) | V, S, M (a pearl worth 100+ GP) |
+| Illusory Script | 1 Min. | Illusion (ritual) | S, M (ink worth 10+ GP, which the spell consumes) |
+| Jump | Bonus | Transmutation | V, S, M (a grasshopper's hind leg) |
+| Longstrider | Action | Transmutation | V, S, M (a pinch of dirt) |
+| Mage Armor | Action | Abjuration | V, S, M (a piece of cured leather) |
+| Magic Missile | Action | Evocation | V, S |
+| Protection from Evil and Good | Action | Abjuration | V, S, M (a flask of Holy Water worth 25+ GP, which the spell consumes) |
+| Ray of Sickness | Action | Necromancy | V, S |
+| Shield | Reaction | Abjuration | V, S |
+| Silent Image | Action | Illusion | V, S, M (a bit of fleece) |
+| Sleep | Action | Enchantment | V, S, M (a pinch of sand or rose petals) |
+| Snare | 1 Min. | Abjuration | S, M (25 feet of rope, which the spell consumes) |
+| Tasha's Caustic Brew | Action | Evocation | V, S, M (a bit of rotten food) |
+| Tasha's Hideous Laughter | Action | Enchantment | V, S, M (a tart and a feather) |
+| Tenser's Floating Disk | Action | Conjuration (ritual) | V, S, M (a drop of mercury) |
+| Thunderwave | Action | Evocation | V, S |
+| Unseen Servant | Action | Conjuration (ritual) | V, S, M (a bit of string and of wood) |
+| Witch Bolt | Action | Evocation | V, S, M (a twig struck by lightning) |
 
 ##### Level 2 Wizard Spells
 
