@@ -234,6 +234,9 @@ nav:
     - Casting Spells: spells/casting-spells.md
     - Class Specific Spells:
       - Wizard: spells/class-specific/wizard.md
+      - Sorcerer: spells/class-specific/sorcerer.md
+      - Cleric: spells/class-specific/cleric.md
+      - Druid: spells/class-specific/druid.md
     - Spells Description:
       - 2024 PHB: 
         - Spells (A): spells/description/a.md

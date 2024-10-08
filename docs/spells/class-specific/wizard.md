@@ -6,12 +6,12 @@ hide:
 
 # Wizard's Spell List
 
-This Wizard spell list includes all spells available from PHB'24, TCE, XGE, & FTB. To see Dunamancy Spell List, see here.
+This Wizard spell list includes all spells available from `PHB'24`, `TCE`, `XGE`, & `FTD`. To see Dunamancy Spell List, see here.
 
 === "Cantrip"
 
-    | Name | School | Casting Time | Range | Duration | Components | Source |
-    |---|---|---|---|---|---|---|
+    | Name | School | Time | Range | Duration | Components | Source |
+    |---|---|---|--:|---|---|---|
     | *Acid Splash* | Evocation | Action | 60 feet | Instantaneous | V, S | PHB'24 |
     | *Blade Ward* | Abjuration | Action | Self | Concentration, up to 1 minute | V, S | PHB'24 |
     | *Booming Blade* | Evocation | Action | Self (5-foot radius) | 1 round | S, M (a melee weapon worth at least 1 sp) | TCE |
@@ -44,11 +44,10 @@ This Wizard spell list includes all spells available from PHB'24, TCE, XGE, & FT
     | *Toll the Dead* | Necromancy | Action | 60 feet | Instantaneous | V, S | PHB'24 |
     | *True Strike* | Divination | Action | Self | Instantaneous | S, M (a weapon with which you have proficiency and that is worth 1+ CP) | PHB'24 |
 
-
 === "Level 1"
 
-    | Name | School | Casting Time | Range | Duration | Components | Source |
-    |---|---|---|---|---|---|---|
+    | Name | School | Time | Range | Duration | Components | Source |
+    |---|---|---|--:|---|---|---|
     | *Absorb Elements* | Abjuration | Reaction | Self | 1 round | S | XGE |
     | *Alarm* | Abjuration (ritual) | 1 Min. | 30 feet | 8 hours | V, S, M (a bell and silver wire) | PHB'24 |
     | *Burning Hands* | Evocation | Action | Self (15-foot cone) | Instantaneous | V, S | PHB'24 |
@@ -87,11 +86,10 @@ This Wizard spell list includes all spells available from PHB'24, TCE, XGE, & FT
     | *Unseen Servant* | Conjuration (ritual) | Action | 60 feet | 1 hour | V, S, M (a bit of string and of wood) | PHB'24 |
     | *Witch Bolt* | Evocation | Action | 60 feet | Concentration, up to 1 minute | V, S, M (a twig struck by lightning) | PHB'24 |
 
-
 === "Level 2"
 
-    | Name | School | Casting Time | Range | Duration | Components | Source |
-    |---|---|---|---|---|---|---|
+    | Name | School | Time | Range | Duration | Components | Source |
+    |---|---|---|--:|---|---|---|
     | *Aganazzar's Scorcher* | Evocation | Action | 30 feet | Instantaneous | V, S, M (a red dragon's scale) | XGE |
     | *Alter Self* | Transmutation | Action | Self | Concentration, up to 1 hour | V, S | PHB'24 |
     | *Arcane Lock* | Abjuration | Action | Touch | Until dispelled | V, S, M (gold dust worth 25+ GP, which the spell consumes) | PHB'24 |
@@ -147,8 +145,8 @@ This Wizard spell list includes all spells available from PHB'24, TCE, XGE, & FT
 
 === "Level 3"
 
-    | Name | School | Casting Time | Range | Duration | Components | Source |
-    |---|---|---|---|---|---|---|
+    | Name | School | Time | Range | Duration | Components | Source |
+    |---|---|---|--:|---|---|---|
     | *Animate Dead* | Necromancy | 1 Min. | 10 feet | Instantaneous | V, S, M (a drop of blood, a piece of flesh, and a pinch of bone dust) | PHB'24 |
     | *Antagonize* | Enchantment | Action | 30 feet | Instantaneous | V, S, M (a playing card depicting a rogue) | BMT |
     | *Ashardalon's Stride* | Transmutation | Bonus | Self | Concentration, up to 1 minute | V, S | FTD |
@@ -201,8 +199,8 @@ This Wizard spell list includes all spells available from PHB'24, TCE, XGE, & FT
 
 === "Level 4"
 
-    | Name | School | Casting Time | Range | Duration | Components | Source |
-    |---|---|---|---|---|---|---|
+    | Name | School | Time | Range | Duration | Components | Source |
+    |---|---|---|--:|---|---|---|
     | *Arcane Eye* | Divination | Action | 30 feet | Concentration, up to 1 hour | V, S, M (a bit of bat fur) | PHB'24 |
     | *Banishment* | Abjuration | Action | 30 feet | Concentration, up to 1 minute | V, S, M (a pentacle) | PHB'24 |
     | *Blight* | Necromancy | Action | 30 feet | Instantaneous | V, S | PHB'24 |
@@ -242,8 +240,8 @@ This Wizard spell list includes all spells available from PHB'24, TCE, XGE, & FT
 
 === "Level 5"
 
-    | Name | School | Casting Time | Range | Duration | Components | Source |
-    |---|---|---|---|---|---|---|
+    | Name | School | Time | Range | Duration | Components | Source |
+    |---|---|---|--:|---|---|---|
     | *Animate Objects* | Transmutation | Action | 120 feet | Concentration, up to 1 minute | V, S | PHB'24 |
     | *Bigby's Hand* | Evocation | Action | 120 feet | Concentration, up to 1 minute | V, S, M (an eggshell and a glove) | PHB'24 |
     | *Circle of Power* | Abjuration | Action | Self (30-foot emanation) | Concentration, up to 10 minutes | V | PHB'24 |
@@ -287,8 +285,8 @@ This Wizard spell list includes all spells available from PHB'24, TCE, XGE, & FT
 
 === "Level 6"
 
-    | Name | School | Casting Time | Range | Duration | Components | Source |
-    |---|---|---|---|---|---|---|
+    | Name | School | Time | Range | Duration | Components | Source |
+    |---|---|---|--:|---|---|---|
     | *Arcane Gate* | Conjuration | Action | 500 feet | Concentration, up to 10 minutes | V, S | PHB'24 |
     | *Chain Lightning* | Evocation | Action | 150 feet | Instantaneous | V, S, M (three silver pins) | PHB'24 |
     | *Circle of Death* | Necromancy | Action | 150 feet | Instantaneous | V, S, M (the powder of a crushed black pearl worth 500+ GP) | PHB'24 |
@@ -325,8 +323,8 @@ This Wizard spell list includes all spells available from PHB'24, TCE, XGE, & FT
 
 === "Level 7"
 
-    | Name | School | Casting Time | Range | Duration | Components | Source |
-    |---|---|---|---|---|---|---|
+    | Name | School | Time | Range | Duration | Components | Source |
+    |---|---|---|--:|---|---|---|
     | *Crown of Stars* | Evocation | Action | Self | 1 hour | V, S | XGE |
     | *Delayed Blast Fireball* | Evocation | Action | 150 feet | Concentration, up to 1 minute | V, S, M (a ball of bat guano and sulfur) | PHB'24 |
     | *Draconic Transformation* | Transmutation | Bonus | Self | Concentration, up to 1 minute | V, S, M (a statuette of a dragon, worth at least 500 gp) | FTD |
@@ -350,8 +348,8 @@ This Wizard spell list includes all spells available from PHB'24, TCE, XGE, & FT
 
 === "Level 8"
 
-    | Name | School | Casting Time | Range | Duration | Components | Source |
-    |---|---|---|---|---|---|---|
+    | Name | School | Time | Range | Duration | Components | Source |
+    |---|---|---|--:|---|---|---|
     | *Abi-Dalzim's Horrid Wilting* | Necromancy | Action | 150 feet | Instantaneous | V, S, M (a bit of sponge) | XGE |
     | *Antimagic Field* | Abjuration | Action | Self (10-foot emanation) | Concentration, up to 1 hour | V, S, M (iron filings) | PHB'24 |
     | *Antipathy/Sympathy* | Enchantment | 1 Hr. | 60 feet | 10 days | V, S, M (a mix of vinegar and honey) | PHB'24 |
@@ -372,8 +370,8 @@ This Wizard spell list includes all spells available from PHB'24, TCE, XGE, & FT
 
 === "Level 9"
 
-    | Name | School | Casting Time | Range | Duration | Components | Source |
-    |---|---|---|---|---|---|---|
+    | Name | School | Time | Range | Duration | Components | Source |
+    |---|---|---|--:|---|---|---|
     | *Astral Projection* | Necromancy | 1 Hr. | 10 feet | Until dispelled | V, S, M (for each of the spell's targets, one jacinth worth 1,000+ GP and one silver bar worth 100+ GP, all of which the spell consumes) | PHB'24 |
     | *Blade of Disaster* | Conjuration | Bonus | 60 feet | Concentration, up to 1 minute | V, S | TCE |
     | *Foresight* | Divination | 1 Min. | Touch | 8 hours | V, S, M (a hummingbird feather) | PHB'24 |
