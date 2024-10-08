@@ -1,7 +1,6 @@
 ---
 title: Dunamancy Spell
-hide:
-    - toc
+icon: material/math-integral-box
 ---
 
 # Dunamancy Spells

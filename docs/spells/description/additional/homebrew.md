@@ -1,7 +1,6 @@
 ---
 title: Homebrew Spell
-hide:
-    - toc
+icon: ui/homebrew
 ---
 
 # Homebrew Spells
@@ -29,7 +28,7 @@ You summon a fragment of the heart from a distant star, and hurl it toward a cre
 
 ***Cantrip Upgrade.*** The spell creates two projectiles at level 5, three projectiles at level 11, and four projectiles at level 17. You can hurl the projectiles at the same target or at different ones. Make a separate attack roll for each projectiles.
 
-> **Classes:** Druid, Sorcerer
+> **Classes:** Cleric, Druid
 
 ---
 
