@@ -1,10 +1,11 @@
 ---
 icon: class/barbarian
+title: Barbarian
 ---
 
 :class-barbarian:{ .xxxxl }
 
-# The Barbarian
+# Barbarian
 
 ##### Core Barbarian Trait
 

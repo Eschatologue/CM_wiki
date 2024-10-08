@@ -1,10 +1,11 @@
 ---
 icon: class/bard
+title: Bard
 ---
 
 :class-bard:{ .xxxxl }
 
-# The Bard
+# Bard
 
 ##### Core Bard Trait
 

@@ -1,10 +1,11 @@
 ---
 icon: class/fighter
+title: Fighter
 ---
 
 :class-fighter:{ .xxxxl }
 
-# The Fighter
+# Fighter
 
 ##### Core Fighter Trait
 

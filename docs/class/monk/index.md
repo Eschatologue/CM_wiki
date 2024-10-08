@@ -1,5 +1,6 @@
 ---
 icon: class/monk
+title: Monk
 ---
 
 :class-monk:{ .xxxxl }

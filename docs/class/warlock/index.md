@@ -1,5 +1,6 @@
 ---
 icon: class/warlock
+title: Warlock
 ---
 
 :class-warlock:{ .xxxxl }

@@ -1,5 +1,6 @@
 ---
 icon: class/wizard
+title: Wizard
 ---
 
 :class-wizard:{ .xxxxl }

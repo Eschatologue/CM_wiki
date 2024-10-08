@@ -1,5 +1,6 @@
 ---
 icon: class/rogue
+title: Rogue
 ---
 
 :class-rogue:{ .xxxxl }

@@ -1,10 +1,11 @@
 ---
 icon: class/artificer
+title: Artificer
 ---
 
 :class-artificer:{ .xxxxl }
 
-# The Artificer
+# Artificer
 
 ##### Core Artificer Traits
 
@@ -18,8 +19,6 @@ icon: class/artificer
 | **Tool Proficiencies** | Thieves’ Tools, Tinker’s Tools and choose 1 type of Artisan’s Tools. |
 | **Armour Training** | Light and Medium armour and Shields |
 | **Starting Equipment** | Choose A or B: (A) Chain Shirt, Shield, a Simple weapon of your choice, Thieves’ Tools, Tinker’s Tools, Scholar’s Pack and 3 GP or (B) 180 GP |
-
-Masters of invention, Artificers use ingenuity and magic to unlock extraordinary capabilities in objects. They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions. You can find everything you need to play one of these inventors in the next few sections. Artificers use a variety of tools to channel their arcane power. To cast a spell, an Artificer might use alchemist's supplies to create a potent elixir, calligrapher's supplies to inscribe a sigil of power, or tinker's tools to craft a temporary charm. The magic of Artificers is tied to their tools and their talents, and few other characters can produce the right tool for a job as well as an Artificer.
 
 Masters of unlocking magic in everyday objects, Artificers are supreme inventors. They see magic as a complex system waiting to be decoded and controlled. Artificers use tools to channel arcane power, crafting magical objects. To cast a spell, an Artificer could use alchemist's supplies to create a potent elixir, calligrapher's supplies to inscribe a sigil of power on an ally's armour, or tinker's tools to craft a temporary charm. The magic of Artificers is tied to their tools and their talents.
 

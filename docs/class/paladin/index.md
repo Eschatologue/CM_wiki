@@ -1,5 +1,6 @@
 ---
 icon: class/paladin
+title: Paladin
 ---
 
 :class-paladin:{ .xxxxl }

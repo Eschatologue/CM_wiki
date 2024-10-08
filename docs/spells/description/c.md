@@ -96,9 +96,9 @@ Channeling the chill of the grave, make a melee spell attack against a target wi
 
 *Level 1 Evocation (Sorcerer, Wizard)*
 
-**Casting Time:** Action
-**Range:** 90 feet
-**Components:** V, S, M (a diamond worth 50+ GP)
+**Casting Time:** Action  
+**Range:** 90 feet  
+**Components:** V, S, M (a diamond worth 50+ GP)  
 **Duration:** Instantaneous
 
 You hurl an orb of energy at a target within range. Choose Acid, Cold, Fire, Lightning, Poison, or Thunder for the type of orb you create, and then make a ranged spell attack against the target. On a hit, the target takes 3d8 damage of the chosen type.
@@ -121,6 +121,19 @@ If you roll the same number on two or more of the d8s, the orb leaps to a differ
 Negative energy ripples out in a 60-foot-radius Sphere from a point you choose within range. Each creature in that area makes a Constitution saving throw, taking 8d8 Necrotic damage on a failed save or half as much damage on a successful one.
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 2d8 for each spell slot level above 6.
+
+---
+
+### Circle of Power
+
+*Level 5 Abjuration (Cleric, Paladin, Wizard)*
+
+**Casting Time:** Action  
+**Range:** Self (30-foot emanation)  
+**Components:** V  
+**Duration:** Concentration, up to 10 minutes
+
+An aura radiates from you in a 30-foot Emanation for the duration. While in the aura, you and your allies have Advantage on saving throws against spells and other magical effects. When an affected creature makes a saving throw against a spell or magical effect that allows a save to take only half damage, it takes no damage if it succeeds on the save.
 
 ---
 

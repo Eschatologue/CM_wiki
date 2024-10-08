@@ -1,5 +1,6 @@
 ---
 icon: class/druid
+title: Druid
 ---
 
 :class-druid:{ .xxxxl }
