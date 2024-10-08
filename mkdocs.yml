@@ -233,7 +233,7 @@ nav:
     - Gaining Spells: spells/gaining-spells.md
     - Casting Spells: spells/casting-spells.md
     - Class Specific Spells:
-      - Wizard: /spells/class-specific/wizard.md
+      - Wizard: spells/class-specific/wizard.md
     - Spells Description:
       - 2024 PHB: 
         - Spells (A): spells/description/a.md

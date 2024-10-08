@@ -58,7 +58,7 @@
 }
 
 ///
-/// Convert font size in px to rem
+/// Convert font size in px to rem. Why do i need this
 ///
 @function px2rem($size, $base: 20px) {
     @if unit($size) == px {

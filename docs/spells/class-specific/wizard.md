@@ -1,5 +1,5 @@
 ---
-title: Wizard's Spell List
+icon: class/wizard
 hide:
     - toc
 ---
