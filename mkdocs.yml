@@ -233,12 +233,18 @@ nav:
     - Gaining Spells: spells/gaining-spells.md
     - Casting Spells: spells/casting-spells.md
     - Class Specific Spells:
-      - Bard: spells/class-specific/bard.md
-      - Cleric: spells/class-specific/cleric.md
-      - Druid: spells/class-specific/druid.md
-      - Sorcerer: spells/class-specific/sorcerer.md
-      - Warlock: spells/class-specific/warlock.md
-      - Wizard: spells/class-specific/wizard.md
+      - Half-Caster:
+        - Paladin: spells/class-specific/paladin.md
+        - Ranger: spells/class-specific/ranger.md
+      - Two-Third-Caster:
+        - Artificer: spells/class-specific/artificer.md
+      - Full-Caster:
+        - Bard: spells/class-specific/bard.md
+        - Cleric: spells/class-specific/cleric.md
+        - Druid: spells/class-specific/druid.md
+        - Sorcerer: spells/class-specific/sorcerer.md
+        - Warlock: spells/class-specific/warlock.md
+        - Wizard: spells/class-specific/wizard.md
     - Spells Description:
       - 2024 PHB: 
         - Spells (A): spells/description/a.md
