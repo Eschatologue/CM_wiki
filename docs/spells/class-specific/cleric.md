@@ -12,6 +12,7 @@ This Cleric spell list includes all spells available from `PHB'24`, `TCE`, `XGE`
 
     | Name | School | Time | Range | Duration | Components | Source |
     |---|---|---|---|---|---|---|
+    | *Cosmic Flare* | Conjuration | Action | 60 feet | Instantaneous | V, S | CM |
     | *Guidance* | Divination | Action | Touch | Concentration, up to 1 minute | V, S | PHB'24 |
     | *Light* | Evocation | Action | Touch | 1 hour | V, M (a firefly or phosphorescent moss) | PHB'24 |
     | *Mending* | Transmutation | 1 Min. | Touch | Instantaneous | V, S, M (two lodestones) | PHB'24 |

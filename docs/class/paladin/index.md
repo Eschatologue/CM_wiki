@@ -83,7 +83,7 @@ In addition, you can expend 5 Hit Points from the pool of healing to remove the 
 
 ### Level 1: Spellcasting
 
-You have learned to cast spells through prayer, meditation, and devotion. See the Player's Handbook for the rules on spellcasting. The information below details how you use those rules as a Paladin.
+You have learned to cast spells through prayer and meditation. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Paladin spells, which appear in the [Paladin spell list](../../spells/class-specific/paladin.md) later in the class's description.
 
 ***Spell Slots.*** The Paladin Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 

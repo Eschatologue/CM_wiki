@@ -44,7 +44,7 @@ Spells marked with  means that the spell fufill the prerequisites to be channele
 | **Darkvision** | Transmutation | - | | **Pass Without Trace** | Abjuration | C |
 | **Enhance Ability** | Transmutation | C | | **Shatter** | Evocation | DS |
 | **Enlarge/Reduce** | Transmutation | C, DS | | **Silence** | Illusion | C, R |
-| **Esch's Steel Wind Strike** | Conjuration | - | | **Spray of Cards** | Conjuration | DS |
+| **Foreign Ironwind** | Conjuration | - | | **Spray of Cards** | Conjuration | DS |
 | **Gust of Wind** | Evocation | C, DS | | **Zone of Truth** | Enchantment | C |
 | **Hold Person** | Enchantment | C, DS | | **Ray of Enfeeblement** | Necromancy | C, DS |
 

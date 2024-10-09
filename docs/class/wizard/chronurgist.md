@@ -6,25 +6,7 @@ Focusing on the manipulation of time, those who follow the Chronurgy tradition l
 
 ### Level 3: Dunamancy Spells
 
-Your study the flow of time. The following spells are added to your spell list:
-
-| Name | Level | Casting Time | School | Components |
-|---|---|---|---|---|
-| *Sapping Sting* | Cantrip | Action | Necromancy | V, S |
-| *Gift of Alacrity* | 1 | 1 Min. | Divination | V, S |
-| *Magnify Gravity* | 1 | Action | Transmutation | V, S |
-| *Fortune's Favor* | 2 | 1 Min. | Divination | V, S, M (a white pearl worth at least 100 gp, which the spell consumes) |
-| *Immovable Object* | 2 | Action | Transmutation | V, S, M (gold dust worth at least 25 gp, which the spell consumes) |
-| *Wristpocket* | 2 | Action | Conjuration (ritual) | S |
-| *Pulse Wave* | 3 | Action | Evocation | V, S |
-| *Gravity Sinkhole* | 4 | Action | Evocation | V, S, M (a black marble) |
-| *Temporal Shunt* | 5 | Reaction | Transmutation | V, S |
-| *Gravity Fissure* | 6 | Action | Evocation | V, S, M (a fistful of iron filings) |
-| *Tether Essence* | 7 | Action | Necromancy | V, S, M (a spool of platinum cord worth at least 250 gp, which the spell consumes) |
-| *Dark Star* | 8 | Action | Evocation | V, S, M (a shard of onyx and a drop of the caster's blood, both of which the spell consumes) |
-| *Reality Break* | 8 | Action | Conjuration | V, S, M (a crystal prism) |
-| *Ravenous Void* | 9 | Action | Evocation | V, S, M (a small, nine-pointed star made of iron) |
-| *Time Ravage* | 9 | Action | Necromancy | V, S, M (an hourglass filled with diamond dust worth at least 5,000 gp, which the spell consumes) |
+Your study the flow of time. The [Dunamancy spells](../../spells/description/additional/dunamancy.md) are added to your class' spell list.
 
 ### Level 3: Chronal Shift
 

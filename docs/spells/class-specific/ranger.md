@@ -43,6 +43,7 @@ This Ranger spell list includes all spells available from `PHB'24`, `TCE`, `XGE`
     | *Darkvision* | Transmutation | Action | Touch | 8 hours | V, S, M (a dried carrot) | PHB'24 |
     | *Enhance Ability* | Transmutation | Action | Touch | Concentration, up to 1 hour | V, S, M (fur or a feather) | PHB'24 |
     | *Find Traps* | Divination | Action | 120 feet | Instantaneous | V, S | PHB'24 |
+    | *Foreign Ironwind* | Conjuration | Action | 30 feet | Instantaneous| S, M (a melee weapon worth 1+ SP) | CM |
     | *Gust of Wind* | Evocation | Action | Self | Concentration, up to 1 minute | V, S, M (a legume seed) | PHB'24 |
     | *Healing Spirit* | Conjuration | Bonus | 60 feet | Concentration, up to 1 minute | V, S | XGE |
     | *Lesser Restoration* | Abjuration | Bonus | Touch | Instantaneous | V, S | PHB'24 |

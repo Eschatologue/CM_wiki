@@ -15,7 +15,7 @@ When you reach an Artificer level specified in the Forgewright Spells table, you
 | Artificer Level | Spell |
 |---|---|
 | 3 | *Compelled Duel*, *Zephyr Strike* |
-| 5 | *Esch's Steel Wind Strike*, *Misty Step* |
+| 5 | *Foreign Ironwind*, *Misty Step* |
 | 9 | *Blinding Smite*, *Conjure Volley* |
 | 13 | *Fire Shield*, *Staggering Smite* |
 | 17 | *Banishing Smite*, *Destructive Wave* |

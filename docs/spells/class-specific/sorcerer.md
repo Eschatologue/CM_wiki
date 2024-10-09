@@ -152,6 +152,7 @@ This Sorcerer spell list includes all spells available from `PHB'24`, `TCE`, `XG
     | *Major Image* | Illusion | Action | 120 feet | Concentration, up to 10 minutes | V, S, M (a bit of fleece) | PHB'24 |
     | *Melf's Minute Meteors* | Evocation | Action | Self | Concentration, up to 10 minutes | V, S, M (niter, sulfur, and pine tar formed into a bead) | XGE |
     | *Protection from Energy* | Abjuration | Action | Touch | Concentration, up to 1 hour | V, S | PHB'24 |
+    | *Shackles of Pain* | Necromancy | Action | 60 feet | Concentration, up to 1 minute | S, M (a rusty chain) | CM |
     | *Sleet Storm* | Conjuration | Action | 150 feet | Concentration, up to 1 minute | V, S, M (a miniature umbrella) | PHB'24 |
     | *Slow* | Transmutation | Action | 120 feet | Concentration, up to 1 minute | V, S, M (a drop of molasses) | PHB'24 |
     | *Stinking Cloud* | Conjuration | Action | 90 feet | Concentration, up to 1 minute | V, S, M (a rotten egg) | PHB'24 |

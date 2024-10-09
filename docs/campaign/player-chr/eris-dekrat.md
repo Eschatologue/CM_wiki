@@ -182,7 +182,7 @@ This section presents this gimmick spell list. The spells are organized by spell
 | *Darkvision* | Transmutation | - |
 | *Enhance Ability* | Transmutation | C |
 | *Enlarge/Reduce* | Transmutation | C, DS |
-| *Esch's Steel Wind Strike* | Conjuration | - |
+| *Foreign Ironwind* | Conjuration | - |
 | *Gust of Wind* | Evocation | C, DS |
 | *Hold Person* | Enchantment | C, DS |
 | *Magic Weapon* | Transmutation | C |

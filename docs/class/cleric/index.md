@@ -81,7 +81,8 @@ Trained for battle, you gain Martial Weapon proficiency and Heavy Armour trainin
 You know one extra cantrip from the Cleric spell list (see your Spellcasting feature for information on preparing spells). In addition, your mystical connection to the divine gives you a bonus to your Intelligence (Religion) checks. The bonus equals your Wisdom modifier (minimum of +1).
 
 ### Level 1: Spellcasting
-You have learned to cast spells through prayer, meditation, and devotion. See the Player's Handbook for the rules on spellcasting. The information below details how you use those rules as a Cleric.
+
+You have learned to cast spells through prayer and meditation. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Cleric spells, which appear on the [Cleric spell list](../../spells/class-specific/cleric.md) later in the class's description.
 
 #### Cantrips
 

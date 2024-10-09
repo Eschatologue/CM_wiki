@@ -70,7 +70,7 @@ As a Ranger, you gain the following class features when you reach the specified 
 
 ### Level 1: Spellcasting
 
-You have learned to channel the magical essence of nature to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Ranger spells, which appear in the Ranger spell list later in the class’s description.
+You have learned to channel the magical essence of nature to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Ranger spells, which appear in the [Ranger spell list](../../spells/class-specific/ranger.md) later in the class’s description.
 
 #### Spell Slots
 

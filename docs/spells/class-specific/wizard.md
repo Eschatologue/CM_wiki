@@ -65,6 +65,7 @@ This Wizard spell list includes all spells available from `PHB'24`, `TCE`, `XGE`
     | *Feather Fall* | Transmutation | Reaction | 60 feet | 1 minute | V, M (a small feather or piece of down) | PHB'24 |
     | *Find Familiar* | Conjuration (ritual) | 1 Hr. | 10 feet | Instantaneous | V, S, M (burning incense worth 10+ GP, which the spell consumes) | PHB'24 |
     | *Fog Cloud* | Conjuration | Action | 120 feet | Concentration, up to 1 hour | V, S | PHB'24 |
+    | *Foreign Ironwind* | Conjuration | Action | 30 feet | Instantaneous| S, M (a melee weapon worth 1+ SP) | CM |
     | *Grease* | Conjuration | Action | 60 feet | 1 minute | V, S, M (a bit of pork rind or butter) | PHB'24 |
     | *Ice Knife* | Conjuration | Action | 60 feet | Instantaneous | S, M (a drop of water or a piece of ice) | PHB'24 |
     | *Identify* | Divination (ritual) | 1 Min. | Touch | Instantaneous | V, S, M (a pearl worth 100+ GP) | PHB'24 |
@@ -179,6 +180,7 @@ This Wizard spell list includes all spells available from `PHB'24`, `TCE`, `XGE`
     | *Protection from Energy* | Abjuration | Action | Touch | Concentration, up to 1 hour | V, S | PHB'24 |
     | *Remove Curse* | Abjuration | Action | Touch | Instantaneous | V, S | PHB'24 |
     | *Sending* | Divination | Action | Unlimited | Instantaneous | V, S, M (a copper wire) | PHB'24 |
+    | *Shackles of Pain* | Necromancy | Action | 60 feet | Concentration, up to 1 minute | S, M (a rusty chain) | CM |
     | *Sleet Storm* | Conjuration | Action | 150 feet | Concentration, up to 1 minute | V, S, M (a miniature umbrella) | PHB'24 |
     | *Slow* | Transmutation | Action | 120 feet | Concentration, up to 1 minute | V, S, M (a drop of molasses) | PHB'24 |
     | *Speak with Dead* | Necromancy | Action | 10 feet | 10 minutes | V, S, M (burning incense) | PHB'24 |

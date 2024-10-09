@@ -79,7 +79,7 @@ As a Druid, you gain the following class features when you reach the specified D
 
 ### Level 1: Spellcasting
 
-You have learned to cast spells through studying the mystical forces of nature. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Druid spells, which appear on the Druid spell list later in the class’s description.
+You have learned to cast spells through studying the mystical forces of nature. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Druid spells, which appear on the [Druid spell list](../../spells/class-specific/druid.md) later in the class’s description.
 
 ***Cantrips.*** You know two cantrips of your choice from the Druid spell list. *Druidcraft* and *Produce Flame* are recommended.
 

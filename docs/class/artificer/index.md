@@ -65,7 +65,7 @@ As a Artificer, you gain the following class features when you reach the specifi
 | 19 | +6 | Ability Score Improvement | 12 (6) | 4 | 15 | 4 | 3 | 3 | 3 | 2 |
 | 20 | +6 | Soul of Artifice | 12 (6) | 4 | 15 | 4 | 3 | 3 | 3 | 2 |
 
-### Level 1: Arcane Recoevery
+### Level 1: Arcane Recovery
 
 Whenever you finish a Short Rest, you can regain one expended spell slot of your choice. The level of the spell slot cannot exceed your highest spell slot level as shown on the Artificer Features table, even if you are a multiclassed character. 
 
@@ -77,7 +77,7 @@ Further, whenever you make an ability check with Tinker’s Tools, you can use y
 
 ### Level 1: Spellcasting
 
-You’ve studied the workings of magic and how to cast spells, channeling the magic through objects. To observers, you don’t appear to be casting spells in a conventional way; you appear to produce wonders from mundane items and outlandish inventions. The information below details how you use those rules with Artificer spells, which appear in the Artificer spell list later in this class's description.
+You’ve studied the workings of magic and how to cast spells, channeling the magic through objects. To observers, you don’t appear to be casting spells in a conventional way; you appear to produce wonders from mundane items and outlandish inventions. The information below details how you use those rules with Artificer spells.
 
 #### Cantrips 
 

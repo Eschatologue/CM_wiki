@@ -13,6 +13,7 @@ This Druid spell list includes all spells available from `PHB'24`, `TCE`, `XGE`,
     | Name | School | Time | Range | Duration | Components | Source |
     |---|---|---|---|---|---|---| 
     | *Control Flames* | Transmutation | Action | 60 feet | Instantaneous or 1 hour (see below) | S | XGE |
+    | *Cosmic Flare* | Conjuration | Action | 60 feet | Instantaneous | V, S | CM |
     | *Create Bonfire* | Conjuration | Action | 60 feet | Concentration, up to 1 minute | V, S | XGE |
     | *Druidcraft* | Transmutation | Action | 30 feet | Instantaneous | V, S | PHB'24 |
     | *Elementalism* | Transmutation | Action | 30 feet | Instantaneous | V, S | PHB'24 |

@@ -91,6 +91,7 @@ This Warlock spell list includes all spells available from `PHB'24`, `TCE`, `XGE
     | *Magic Circle* | Abjuration | 1 Min. | 10 feet | 1 hour | V, S, M (salt and powdered silver worth 100+ GP, which the spell consumes) | PHB'24 |
     | *Major Image* | Illusion | Action | 120 feet | Concentration, up to 10 minutes | V, S, M (a bit of fleece) | PHB'24 |
     | *Remove Curse* | Abjuration | Action | Touch | Instantaneous | V, S | PHB'24 |
+    | *Shackles of Pain* | Necromancy | Action | 60 feet | Concentration, up to 1 minute | S, M (a rusty chain) | CM |
     | *Spirit Shroud* | Necromancy | Bonus | Self | Concentration, up to 1 minute | V, S | TCE |
     | *Summon Fey* | Conjuration | Action | 90 feet | Concentration, up to 1 hour | V, S, M (a gilded flower worth 300+ GP) | PHB'24 |
     | *Summon Lesser Demons* | Conjuration | Action | 60 feet | Concentration, up to 1 hour | V, S, M (a vial of blood from a humanoid killed within the past 24 hours) | XGE |
