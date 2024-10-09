@@ -65,7 +65,6 @@ This Wizard spell list includes all spells available from `PHB'24`, `TCE`, `XGE`
     | *Feather Fall* | Transmutation | Reaction | 60 feet | 1 minute | V, M (a small feather or piece of down) | PHB'24 |
     | *Find Familiar* | Conjuration (ritual) | 1 Hr. | 10 feet | Instantaneous | V, S, M (burning incense worth 10+ GP, which the spell consumes) | PHB'24 |
     | *Fog Cloud* | Conjuration | Action | 120 feet | Concentration, up to 1 hour | V, S | PHB'24 |
-    | *Foreign Ironwind* | Conjuration | Action | 30 feet | Instantaneous| S, M (a melee weapon worth 1+ SP) | CM |
     | *Grease* | Conjuration | Action | 60 feet | 1 minute | V, S, M (a bit of pork rind or butter) | PHB'24 |
     | *Ice Knife* | Conjuration | Action | 60 feet | Instantaneous | S, M (a drop of water or a piece of ice) | PHB'24 |
     | *Identify* | Divination (ritual) | 1 Min. | Touch | Instantaneous | V, S, M (a pearl worth 100+ GP) | PHB'24 |
@@ -110,6 +109,7 @@ This Wizard spell list includes all spells available from `PHB'24`, `TCE`, `XGE`
     | *Enhance Ability* | Transmutation | Action | Touch | Concentration, up to 1 hour | V, S, M (fur or a feather) | PHB'24 |
     | *Enlarge/Reduce* | Transmutation | Action | 30 feet | Concentration, up to 1 minute | V, S, M (a pinch of powdered iron) | PHB'24 |
     | *Flaming Sphere* | Conjuration | Action | 60 feet | Concentration, up to 1 minute | V, S, M (a ball of wax) | PHB'24 |
+    | *Foreign Ironwind* | Conjuration | Action | 30 feet | Instantaneous| S, M (a melee weapon worth 1+ SP) | CM |
     | *Gentle Repose* | Necromancy (ritual) | Action | Touch | 10 days | V, S, M (2 Copper Pieces, which the spell consumes) | PHB'24 |
     | *Gust of Wind* | Evocation | Action | Self | Concentration, up to 1 minute | V, S, M (a legume seed) | PHB'24 |
     | *Hold Person* | Enchantment | Action | 60 feet | Concentration, up to 1 minute | V, S, M (a straight piece of iron) | PHB'24 |
