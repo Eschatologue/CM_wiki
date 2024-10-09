@@ -223,6 +223,7 @@ At the end of each of its turns, the affected target can repeat the Wisdom savin
 ---
 
 ### Ravenous Void
+
 *Level 9 Evocation*
 
 **Casting Time:** Action  
@@ -239,6 +240,7 @@ A creature that starts its turn within 100 feet of the sphere must succeed on a 
 ---
 
 ### Time Ravage
+
 *Level 9 Necromancy*
 
 **Casting Time:** Action  
