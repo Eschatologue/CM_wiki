@@ -20,7 +20,7 @@ These paladins share the following tenets:
 
 You gain the [Strongbow] Fighting Style. If you already have this Fighting Style, the bonus damage it grants increases to +2. This Fighting Style cannot be replaced.
 
-Additionally, whenever you hit a creature with a ranged weapon attack, you can use your Divine Smite feature or any Paladin smite spell (e.g. *Searing Smite*, *Thunderous Smite*) with that attack. However, the damage dice for these features are reduced by one size (e.g. d6 becomes d4, d10 becomes d8, etc.).
+Additionally, whenever you hit a creature with a ranged weapon attack, you can use your Divine Smite feature or any Paladin smite spells (e.g. *Searing Smite*, *Thunderous Smite*) with that attack. However, the damage dice for these features are reduced by one size (e.g. d6 becomes d4, d10 becomes d8, etc.).
 
 [Strongbow]: ../../character-creation/feat/feat-fighting-style.md#strongbow
 
@@ -30,8 +30,18 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells |
 |:---:|:---|
-| 3 | *Hunter's Mark*, *Heroism* |
-| 5 | *Enhance Ability*, *Magic Weapon* |
-| 9 | *Haste*, *Protection from Energy* |
-| 13 | *Compulsion*, *Freedom of Movement* |
-| 17 | *Commune*, *Yolande's Regal Presence* |
+| 3 | *Hunter's Mark*, *Ensnaring Strike* |
+| 5 | *Cordon of Arrows*, *Warding Bond* |
+| 9 | *Conjure Barrage*, *Lightning Arrow* |
+| 13 | *Otiluke's Resilient Sphere*, *Stoneskin* |
+| 17 | *Swift Quiver*, *Wall of Stone* |
+
+### Level 3: Suppresive Volley
+
+When you make a Ranged weapon attack, you can expend one use of your Channel Divinity to target additional enemies. You can make a number of attacks equal to your Charisma modifier (minimum of 1) with the same weapon, targeting a different creature within 5 feet of the original target that is within the weapon’s range and that you haven’t attacked this turn. For each creature you hit, you gain 1d6 Temporary Hit Points, which last until you finish a Long Rest or use this feature again.
+
+### Level 7: Punishing Siege
+
+When a hostile creature you can see ends their turn within your Aura of Protection's range, you can take a Reaction and make one Ranged attack against it and reduce its Speed to 0.
+
+### Level 15: 

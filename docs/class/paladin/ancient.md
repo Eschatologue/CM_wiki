@@ -26,7 +26,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 | 13 | Ice Storm, Stoneskin |
 | 17 | Commune with Nature, Tree Stride |
 
-### Level 3: Aura Of Warding
+### Level 7: Aura Of Warding
 
 Ancient magic lies so heavily upon you that it forms an eldritch ward, blunting energy from beyond the Material Plane; you and your allies have resistance to Necrotic, Psychic, and Radiant damage while in your Aura of Protection.
 
