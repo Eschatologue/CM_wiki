@@ -19,11 +19,11 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells |
 |:-:|---|
-| 3 | Protection from Evil and Good, Shield of Faith
-| 5th | Aid, Zone of Truth |
-| 9th | Beacon of Hope, Dispel Magic |
-| 13th | Freedom of Movement, Guardian of Faith |
-| 17th | Commune, Flame Strike |
+| 3 | *Protection from Evil and Good*, *Shield of Faith* |
+| 5 | *Aid*, *Zone of Truth* |
+| 9 | *Beacon of Hope*, *Dispel Magic* |
+| 13 | *Freedom of Movement*, *Guardian of Faith* |
+| 17 | *Commune*, *Flame Strike* |
 
 ### Level 3: Sacred Weapon
 

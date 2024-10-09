@@ -16,11 +16,11 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells |
 |:---:|:---|
-| 3 | Bane, Hunter's Mark |
-| 5 | Hold Person, Misty Step |
-| 9 | Haste, Protection from Energy |
-| 13 | Banishment, Dimension Door |
-| 17 | Hold Monster, Scrying |
+| 3 | *Bane*, *Hunter's Mark* |
+| 5 | *Hold Person*, *Misty Step* |
+| 9 | *Haste*, *Protection from Energy* |
+| 13 | *Banishment*, *Dimension Door* |
+| 17 | *Hold Monster*, *Scrying* |
  
 ### Level 3: Vow Of Enmity
 

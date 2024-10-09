@@ -32,7 +32,7 @@ As a Bonus Action, you can expend one use of your Channel Divinity to augment yo
 
 ### Level 7: Aura Of Alacrity
 
-Your Speed increases by 10 feet. In addition, whenever an ally enters your Aura of Protextion for the first tome on a turn or starts their turn there, the ally's Speed increased by 10 feet until the end of their turn.
+Your Speed increases by 10 feet. In addition, whenever an ally enters your Aura of Protection for the first tome on a turn or starts their turn there, the ally's Speed increased by 10 feet until the end of their turn.
 
 ### Level 15: Glorious Defense
 
