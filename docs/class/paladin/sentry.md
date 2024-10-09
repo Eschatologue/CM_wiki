@@ -18,17 +18,20 @@ These paladins share the following tenets:
 
 ### Level 3: Heavy Archer
 
-You gain the [Strongbow] Fighting Style. If you already have this Fighting Style, the bonus damage it grants increases to +2. This Fighting Style cannot be replaced.
+You gain the Strongbow or Thrown Weapon Fighting Fighting Style feat (choose one)
 
 Moreover, your training gives you mastery of combat styles that uses Bastion Weapons, which are the following:
 
 - Ranged Weapon that has the Two-Handed property.
 - Weapon that has the Thrown property.
 
-You gain the following benefits when wielding Bastion Weapons:
+You gain the following benefits with Bastion Weapons:
 
 ***Ranged Smites.*** When you hit a Ranged attack with Bastion Weapons, you can use your Divine Smite feature or any Paladin Smite spells (e.g. Searing Smite, Shinning Smite) to that attack, but its damage die is reduced by one size (e.g. d10 to d8).
 
+When you reach level 11 in this class, the Improved Divine Smite feature can also be used with Bastion Weapon.
+
+***Heavyshot.*** If your attack roll with Bastion Weapon misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the  attack roll. This damage is the same type dealt by the weapon, and the damage can't be increased in any way, other than increasing the ability modifier.
 
 
 [Strongbow]: ../../character-creation/feat/feat-fighting-style.md#strongbow
@@ -41,15 +44,17 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells |
 |:---:|:---|
-| 3 | *Hunter's Mark*, *Ensnaring Strike* |
+| 3 | *Gift of Alacrity*, *Hunter's Mark* |
 | 5 | *Cordon of Arrows*, *Warding Bond* |
 | 9 | *Conjure Barrage*, *Lightning Arrow* |
 | 13 | *Otiluke's Resilient Sphere*, *Stoneskin* |
 | 17 | *Swift Quiver*, *Wall of Stone* |
 
+### Level 3: Hold the Line
+
+As a Bonus Action, you can expend one use of your Channel Divinity to bolster your accuracy, giving you Advantage on all Bastion Weapon attack for 1 minute.
 
 ### Level 7: Punishing Siege
 
 When a hostile creature you can see ends their turn within your Aura of Protection's range, you can take a Reaction and make one Ranged attack against it and reduce its Speed to 0.
-
-### Level 15: 
+
