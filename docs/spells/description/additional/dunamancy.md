@@ -32,9 +32,9 @@ icon: material/math-integral-box
 **Components:** V, S   
 **Duration:** Instantaneous
 
-You sap the vitality of one creature you can see in range. The target must succeed on a Constitution saving throw or take 1d4 necrotic damage and fall prone.
+You sap the vitality of one creature you can see in range. The target must succeed on a Constitution saving throw or take **1d4** necrotic damage and fall prone.
 
-This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
+This spell's damage increases by **1d4** when you reach 5th level (**2d4**), 11th level (**3d4**), and 17th level (**4d4**).
 
 ---
 
@@ -46,7 +46,7 @@ This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level 
 **Components:** V, S   
 **Duration:** 8 hours
 
-You touch a willing creature. For the duration, the target can add 1d8 to its initiative rolls.
+You touch a willing creature. For the duration, the target can add **1d8** to its initiative rolls.
 
 ---
 
@@ -58,9 +58,11 @@ You touch a willing creature. For the duration, the target can add 1d8 to its in
 **Components:** V, S   
 **Duration:** 1 round
 
-The gravity in a 10-foot-radius sphere centered on a point you can see within range increases for a moment. Each creature in the sphere on the turn when you cast the spell must make a Constitution saving throw. On a failed save, a creature takes 2d8 force damage, and its speed is halved until the end of its next turn. On a successful save, a creature takes half as much damage and suffers no reduction to its speed.
+The gravity in a 10-foot-radius sphere centered on a point you can see within range increases for a moment. Each creature in the sphere on the turn when you cast the spell must make a Constitution saving throw. On a failed save, a creature takes **2d8** force damage, and its speed is halved until the end of its next turn. On a successful save, a creature takes half as much damage and suffers no reduction to its speed.
 
-Until the start of your next turn, any object that isn't being worn or carried in the sphere requires a successful Strength check against your spell save DC to pick up or move.***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+Until the start of your next turn, any object that isn't being worn or carried in the sphere requires a successful Strength check against your spell save DC to pick up or move.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by **1d8** for each slot level above 1st.
 
 ---
 
@@ -74,7 +76,9 @@ Until the start of your next turn, any object that isn't being worn or carried i
 
 You impart latent luck to yourself or one willing creature you can see within range. When the chosen creature makes an attack roll, an ability check, or a saving throw before the spell ends, it can dismiss this spell on itself to roll an additional d20 and choose which of the d20s to use. Alternatively, when an attack roll is made against the chosen creature, it can dismiss this spell on itself to roll a d20 and choose which of the d20s to use, the one it rolled or the one the attacker rolled.
 
-If the original d20 roll has advantage or disadvantage, the creature rolls the additional d20 after advantage or disadvantage has been applied to the original roll.***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
+If the original d20 roll has advantage or disadvantage, the creature rolls the additional d20 after advantage or disadvantage has been applied to the original roll.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
 ---
 
@@ -88,7 +92,9 @@ If the original d20 roll has advantage or disadvantage, the creature rolls the a
 
 You touch an object that weighs no more than 10 pounds and cause it to become magically fixed in place. You and the creatures you designate when you cast this spell can move the object normally. You can also set a password that, when spoken within 5 feet of the object, suppresses this spell for 1 minute.
 
-If the object is fixed in the air, it can hold up to 4,000 pounds of weight. More weight causes the object to fall. Otherwise, a creature can use an action to make a Strength check against your spell save DC. On a success, the creature can move the object up to 10 feet.***At Higher Levels.*** If you cast this spell using a spell slot of 4th or 5th level, the DC to move the object increases by 5, it can carry up to 8,000 pounds of weight, and the duration increases to 24 hours. If you cast this spell using a spell slot of 6th level or higher, the DC to move the object increases by 10, it can carry up to 20,000 pounds of weight, and the effect is permanent until dispelled.
+If the object is fixed in the air, it can hold up to 4,000 pounds of weight. More weight causes the object to fall. Otherwise, a creature can use an action to make a Strength check against your spell save DC. On a success, the creature can move the object up to 10 feet.
+
+***At Higher Levels.*** If you cast this spell using a spell slot of 4th or 5th level, the DC to move the object increases by 5, it can carry up to 8,000 pounds of weight, and the duration increases to 24 hours. If you cast this spell using a spell slot of 6th level or higher, the DC to move the object increases by 10, it can carry up to 20,000 pounds of weight, and the effect is permanent until dispelled.
 
 ---
 
@@ -114,9 +120,11 @@ Until the spell ends, you can use your action to summon the object to your free 
 **Components:** V, S   
 **Duration:** Instantaneous
 
-You create intense pressure, unleash it in a 30-foot cone, and decide whether the pressure pulls or pushes creatures and objects. Each creature in that cone must make a Constitution saving throw. A creature takes 6d6 force damage on a failed save, or half as much damage on a successful one. And every creature that fails the save is either pulled 15 feet toward you or pushed 15 feet away from you, depending on the choice you made for the spell.
+You create intense pressure, unleash it in a 30-foot cone, and decide whether the pressure pulls or pushes creatures and objects. Each creature in that cone must make a Constitution saving throw. A creature takes **6d6** force damage on a failed save, or half as much damage on a successful one. And every creature that fails the save is either pulled 15 feet toward you or pushed 15 feet away from you, depending on the choice you made for the spell.
 
-In addition, unsecured objects that are completely within the cone are likewise pulled or pushed 15 feet.***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 and the distance pulled or pushed increases by 5 feet for each slot level above 3rd.
+In addition, unsecured objects that are completely within the cone are likewise pulled or pushed 15 feet.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by **1d6** and the distance pulled or pushed increases by 5 feet for each slot level above 3rd.
 
 ---
 
@@ -128,7 +136,9 @@ In addition, unsecured objects that are completely within the cone are likewise 
 **Components:** V, S, M (a black marble)   
 **Duration:** Instantaneous
 
-A 20-foot-radius sphere of crushing force forms at a point you can see within range and tugs at the creatures there. Each creature in the sphere must make a Constitution saving throw. On a failed save, the creature takes 5d10 force damage and is pulled in a straight line toward the center of the sphere, ending in an unoccupied space as close to the center as possible (even if that space is in the air). On a successful save, the creature takes half as much damage and isn't pulled.***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d10 for each slot level above 4th.
+A 20-foot-radius sphere of crushing force forms at a point you can see within range and tugs at the creatures there. Each creature in the sphere must make a Constitution saving throw. On a failed save, the creature takes **5d10** force damage and is pulled in a straight line toward the center of the sphere, ending in an unoccupied space as close to the center as possible (even if that space is in the air). On a successful save, the creature takes half as much damage and isn't pulled.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the damage increases by **1d10** for each slot level above 4th.
 
 ---
 
@@ -140,7 +150,9 @@ A 20-foot-radius sphere of crushing force forms at a point you can see within ra
 **Components:** V, S   
 **Duration:** 1 round
 
-You target the triggering creature, which must succeed on a Wisdom saving throw or vanish, being thrown to another point in time and causing the attack to miss or the spell to be wasted. At the start of its next turn, the target reappears where it was or in the closest unoccupied space. The target doesn't remember you casting the spell or being affected by it.***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th. All targets must be within 30 feet of each other.
+You target the triggering creature, which must succeed on a Wisdom saving throw or vanish, being thrown to another point in time and causing the attack to miss or the spell to be wasted. At the start of its next turn, the target reappears where it was or in the closest unoccupied space. The target doesn't remember you casting the spell or being affected by it.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th. All targets must be within 30 feet of each other.
 
 ---
 
@@ -152,9 +164,9 @@ You target the triggering creature, which must succeed on a Wisdom saving throw 
 **Components:** V, S, M (a fistful of iron filings)   
 **Duration:** Instantaneous
 
-You manifest a ravine of gravitational energy in a line originating from you that is 100 feet long and 5 feet wide. Each creature in that line must make a Constitution saving throw, taking 8d8 force damage on a failed save, or half as much damage on a successful one.
+You manifest a ravine of gravitational energy in a line originating from you that is 100 feet long and 5 feet wide. Each creature in that line must make a Constitution saving throw, taking **8d8** force damage on a failed save, or half as much damage on a successful one.
 
-Each creature within 10 feet of the line but not in it must succeed on a Constitution saving throw or take 8d8 force damage and be pulled toward the line until the creature is in its area.***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, the damage increases by 1d8 for each slot level above 6th.
+Each creature within 10 feet of the line but not in it must succeed on a Constitution saving throw or take **8d8** force damage and be pulled toward the line until the creature is in its area.***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, the damage increases by **1d8** for each slot level above 6th.
 
 ---
 
@@ -182,7 +194,7 @@ This spell creates a sphere centered on a point you choose within range. The sph
 
 For the duration, the spell's area is difficult terrain. A creature with darkvision can't see through the magical darkness, and nonmagical light can't illuminate it. No sound can be created within or pass through the area. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible there.
 
-Any creature that enters the spell's area for the first time on a turn or starts its turn there must make a Constitution saving throw. The creature takes 8d10 force damage on a failed save, or half as much damage on a successful one. A creature reduced to 0 hit points by this damage is disintegrated. A disintegrated creature and everything it is wearing and carrying, except magic items, are reduced to a pile of fine gray dust.
+Any creature that enters the spell's area for the first time on a turn or starts its turn there must make a Constitution saving throw. The creature takes **8d10** force damage on a failed save, or half as much damage on a successful one. A creature reduced to 0 hit points by this damage is disintegrated. A disintegrated creature and everything it is wearing and carrying, except magic items, are reduced to a pile of fine gray dust.
 
 ---
 
@@ -203,10 +215,10 @@ At the end of each of its turns, the affected target can repeat the Wisdom savin
 ##### Reality Break Effects
 |  d10 | Effect |
 |:---:|---|
-|  1-2 | **Vision of the Far Realm.** The target takes 6d12 psychic damage, and it is stunned until the end of the turn. |
-|  3-5 | **Rending Rift.** The target must make a Dexterity saving throw, taking 8d12 force damage on a failed save, or half as much damage on a successful one. |
-|  6-8 | **Wormhole.** The target is teleported, along with everything it is wearing and carrying, up to 30 feet to an unoccupied space of your choice that you can see. The target also takes 10d12 force damage and is knocked prone. |
-| 9-10 | **Chill of the Dark Void.** The target takes 10d12 cold damage, and it is blinded until the end of the turn. |
+|  1-2 | **Vision of the Far Realm.** The target takes **6d12** psychic damage, and it is stunned until the end of the turn. |
+|  3-5 | **Rending Rift.** The target must make a Dexterity saving throw, taking **8d12** force damage on a failed save, or half as much damage on a successful one. |
+|  6-8 | **Wormhole.** The target is teleported, along with everything it is wearing and carrying, up to 30 feet to an unoccupied space of your choice that you can see. The target also takes **10d12** force damage and is knocked prone. |
+| 9-10 | **Chill of the Dark Void.** The target takes **10d12** cold damage, and it is blinded until the end of the turn. |
 
 ---
 
@@ -222,7 +234,7 @@ You create a 20-foot-radius sphere of destructive gravitational force centered o
 
 When the sphere appears and at the start of each of your turns until the spell ends, unsecured objects within 100 feet of the sphere are pulled toward the sphere's center, ending in an unoccupied space as close to the center as possible.
 
-A creature that starts its turn within 100 feet of the sphere must succeed on a Strength saving throw or be pulled straight toward the sphere's center, ending in an unoccupied space as close to the center as possible. A creature that enters the sphere for the first time on a turn or starts its turn there takes 5d10 force damage and is restrained until it is no longer in the sphere. If the sphere is in the air, the restrained creature hovers inside the sphere. A creature can use its action to make a Strength check against your spell save DC, ending this restrained condition on itself or another creature in the sphere that it can reach. A creature reduced to 0 hit points by this spell is annihilated, along with any nonmagical items it is wearing or carrying.
+A creature that starts its turn within 100 feet of the sphere must succeed on a Strength saving throw or be pulled straight toward the sphere's center, ending in an unoccupied space as close to the center as possible. A creature that enters the sphere for the first time on a turn or starts its turn there takes **5d10** force damage and is restrained until it is no longer in the sphere. If the sphere is in the air, the restrained creature hovers inside the sphere. A creature can use its action to make a Strength check against your spell save DC, ending this restrained condition on itself or another creature in the sphere that it can reach. A creature reduced to 0 hit points by this spell is annihilated, along with any nonmagical items it is wearing or carrying.
 
 ---
 
@@ -234,4 +246,4 @@ A creature that starts its turn within 100 feet of the sphere must succeed on a 
 **Components:** V, S, M (an hourglass filled with diamond dust worth at least 5,000 gp, which the spell consumes)   
 **Duration:** Instantaneous
 
-You target a creature you can see within range, putting its physical form through the devastation of rapid aging. The target must make a Constitution saving throw, taking 10d12 necrotic damage on a failed save, or half as much damage on a successful one. If the save fails, the target also ages to the point where it has only 30 days left before it dies of old age. In this aged state, the target has disadvantage on attack rolls, ability checks, and saving throws, and its walking speed is halved. Only the *wish* spell or the *greater restoration* cast with a 9th-level spell slot can end these effects and restore the target to its previous age.
+You target a creature you can see within range, putting its physical form through the devastation of rapid aging. The target must make a Constitution saving throw, taking **10d12** necrotic damage on a failed save, or half as much damage on a successful one. If the save fails, the target also ages to the point where it has only 30 days left before it dies of old age. In this aged state, the target has disadvantage on attack rolls, ability checks, and saving throws, and its walking speed is halved. Only the *wish* spell or the *greater restoration* cast with a 9th-level spell slot can end these effects and restore the target to its previous age.

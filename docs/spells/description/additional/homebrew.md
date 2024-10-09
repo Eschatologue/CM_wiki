@@ -22,7 +22,7 @@ icon: ui/homebrew
 **Components:** V, S  
 **Duration:** Instantaneous  
 
-You summon a fragment of the heart from a distant star, and hurl it toward a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d6 Radiant damage and becomes seared with a star's radiance. The next time the seared target is hit by an attack roll before the start of your next turn, it takes an extra 1d4 Radiant damage as the lingering energy erupts.
+You summon a fragment of the heart from a distant star, and hurl it toward a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes **1d6** Radiant damage and becomes seared with a star's radiance. The next time the seared target is hit by an attack roll before the start of your next turn, it takes an extra **1d4** Radiant damage as the lingering energy erupts.
 
 ***Cantrip Upgrade.*** The spell creates two projectiles at level 5, three projectiles at level 11, and four projectiles at level 17. You can hurl the projectiles at the same target or at different ones. Make a separate attack roll for each projectiles.
 
@@ -41,11 +41,11 @@ You summon a fragment of the heart from a distant star, and hurl it toward a cre
 **Components:** S, M (a melee weapon worth 1+ SP)  
 **Duration:** Instantaneous
 
-You sheathes the weapon used in the spellcasting, vanish, then appear to strike at multiple location in an instant. Choose up to two creatures you can see within range. Make a melee weapon attack against each target using the weapon used in casting. On a hit, targets take normal damage of an attack with that weapon plus an additional 1d8 Force damage.
+You sheathes the weapon used in the spellcasting, vanish, then appear to strike at multiple location in an instant. Choose up to two creatures you can see within range. Make a melee weapon attack against each target using the weapon used in casting. On a hit, targets take normal damage of an attack with that weapon plus an extra **1d8** Force damage.
 
 You can then teleport to an unoccupied space you can see within 5 feet of one of the targets you hit or missed.
 
-***Using a Higher-Level Spell Slot.*** The number of targets increases by one, and the damage increases by 1d8 for each spell slot level above 2.
+***Using a Higher-Level Spell Slot.*** The number of targets increases by one and the damage increases by **1d8** for each spell slot level above 2.
 
 > **Classes:** Ranger, Wizard
 
