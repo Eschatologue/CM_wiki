@@ -1,8 +1,10 @@
 # Witchblade
 
-> *Forsake Your Purity to Right the Wrongs of the World - Written by Laserllama - Adapted to 2024 PHB by Eschatologue*
+> *Enhance Martial Prowess with Eldritch Macic*
 
-Those who walk the dark path of the Witchblade are driven by an overwhelming desire to destroy the great evils of the world. Those especially dedicated, those willing to give up anything, are often approached by Eldritch Powers, beings of otherworldly might. These benefactors offer power in return for a fraction of the warrior's soul or unquestioning fealty
+Those who walk the dark path of the Witchblade are driven by an overwhelming desire to destroy the great evils of the world. Those especially dedicated, those willing to give up anything, are often approached by Eldritch Powers, beings of otherworldly might. These benefactors offer power in return for a fraction of the warrior's soul or unquestioning fealty.
+
+> Written by Laserllama - Adapted to 2024 PHB by Eschatologue
 
 ### Level 3: Pact Magic
 
@@ -61,11 +63,11 @@ You can use an Arcane Focus as a Spellcasting Focus for the spells you prepare f
 
 ### Level 3: Sanguine Offering
 
-Once per turn, when you hit a creature with a melee weapon attack, you can expend one of your Fighter Hit Dice as part of the attack to deal an additional 1d10 :dmg-necrotic: Necrotic damage to the target, in addition to the normal damage of your weapon.
+Once per turn, when you hit a creature with a weapon attack or an Unarmed Strike (Damage), you can expend one of your Fighter Hit Dice as part of the attack to deal an additional 1d10 :dmg-necrotic: Necrotic damage to the target, in addition to the normal damage of your weapon.
 
 ### Level 7: Otherworldly Step
 
-You can use Eldritch power to slip through cracks in reality. When you use Second Wind, you can teleport up to 60 feet to an unoccupied space you can see. If you appear within 5 feet of a creature, you can make one weapon attack against it.
+You can use Eldritch power to slip through cracks in reality. When you use Second Wind, you can teleport up to 60 feet to an unoccupied space you can see. If you appear within 5 feet of a creature, you can make one weapon attack or an Unarmed Strike against it.
 
 ### Level 10: Enchanted Strikes
 

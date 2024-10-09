@@ -1,8 +1,10 @@
 # Samurai
 
-> *Fight Deliberately and Precisely. Be Unwavering - Written by [PerfectlyCircularSeal](https://docs.google.com/document/d/1b-8jLkYuOxQJIEyUHK4yAK8FBpwaSpgROjp7Tmb6hwg/edit#heading=h.olwfsxx9oz32)*
+> *Fight Deliberately and Precisely. Be Unwavering*
 
 The Samurai is a fighter who draws on an implacable fighting spirit to overcome enemies. A samurai’s resolve is nearly unbreakable, and the enemies in a samurai’s path have two choices: yield or die fighting.
+
+> Written by PerfectlyCircularSeal*
 
 ### Level 3: Brush and Blade
 
