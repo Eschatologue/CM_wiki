@@ -23,8 +23,7 @@ You gain the *Strongbow* or *Thrown Weapon Fighting* Fighting Style feat (choose
 Moreover, your training gives you mastery of combat styles that uses **Bastion Weapons**, which are the following:
 
 - Ranged Simple or Martial Weapon with the :weapon-prop-two-handed: **Two-Handed** property.
-- Weapon that has the Thrown property.
-- Ranged Simple or Martial Weapons used in conjunction with a Shield.
+- Weapon that has the Thrown property and lacks the Light property 
 
 You gain the following benefits with **Bastion Weapons**:
 
@@ -50,19 +49,19 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 ### Level 3: Guardian's Mark
 
-You designate a point of importance or an ally you can see, transforming it into a zone of protection. 
+As a Bonus Action, you can expend one use of your Channel Divinity to choose a point or a creature within 60 feet, designating its surrounding as a zone of protection. If you choose a point, it remains fixed. If you choose a creature (including yourself), the marked point moves with them.
 
-As a Bonus Action, you can expend one use of your Channel Divinity to choose a point or a creature within 60 feet. If you choose a point, it remains fixed. If you choose a creature (including yourself), the marked point moves with them.
-
-This effect lasts for 1 minute. While active, when a creature you can see takes an action or Moves within 15 feet of the marked point, you can make a ranged weapon attack against it with each triggering action or movement using a **Bastion Weapon**, provided it is within your weapon's normal range. This attack does not require an action and can be made a number of times equal to your Charisma modifier (minimum of once). 
+This effect lasts for 1 minute. While active, when a creature you can see takes any action or moves within 15 feet of the marked point, you can make a ranged weapon attack against it with each triggering action or movement using a **Bastion Weapon**, provided it is within your weapon's normal range. This attack does not require an action and can be made a number of times equal to your Charisma modifier (minimum of once). 
 
 The effect ends early if you reach this number of attacks or when you have the Incapacitated condition.
 
 If you make an attack using this feature, you cannot take Reactions until the start of your next turn.
 
-### Level 7: Sentries' Gaze
+### Level 7: Phalanx Formation
 
-You and your allies within your Aura of Protection gain bonus to their Insight and Perception check, and their Passive Perception equals to your Charisma modifier (minimum +1). In addition, you can take the Search action as a Bonus Action.
+You and your allies has Immunity to Forced Movement while within your Aura of Protection. 
+
+Moreover, you and your allies gain the benefit of Half Cover while within the aura, so long you haven't move more than half your Speed for this turn.
 
 ### Level 15: Rapid Reaction
 
