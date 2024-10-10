@@ -1,3 +1,7 @@
+---
+status: homebrew
+---
+
 # Path of Tranquilty
 
 > *Forge Serenity into Unstoppable Force - Written by Eschatologue*

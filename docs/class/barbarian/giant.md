@@ -1,6 +1,5 @@
 ---
-search:
-  exclude: true
+status: homebrew
 ---
 
 # Path of the Giant
