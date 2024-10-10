@@ -543,6 +543,19 @@
 [data-md-color-scheme=slate] .md-tabs__link:hover {
   color: var(--md-accent-fg-color);
 }
+[data-md-color-scheme=slate] .md-search__input {
+  color: var(--md-text-color);
+  background-color: var(--md-default-bg-color);
+}
+[data-md-color-scheme=slate] .md-search__input:hover {
+  background-color: var(--md-default-bg-color);
+}
+[data-md-color-scheme=slate] .md-search__input ~ .md-search__icon {
+  color: var(--md-text-color);
+}
+[data-md-color-scheme=slate] .md-search__input::placeholder {
+  color: var(--md-default-bg-color);
+}
 
 .md-typeset .tabbed-block {
   margin-bottom: 0;
