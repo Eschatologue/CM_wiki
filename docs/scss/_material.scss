@@ -56,6 +56,23 @@
             color: var(--md-accent-fg-color);
         }
     }
+
+    // Search
+    .md-search__input {
+        color: var(--md-text-color);
+        background-color: var(--md-default-bg-color);
+
+        &:hover {
+            background-color: var(--md-default-bg-color);
+        }
+
+        ~ .md-search__icon {
+            color: var(--md-text-color);
+        }
+        &::placeholder {
+            color: var(--md-default-bg-color);
+        }
+    }
 }
 
 // Tabbed Block
