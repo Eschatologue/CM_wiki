@@ -6,7 +6,7 @@ title: Oath of the Bastion
 
 > *Stand Unbreakable*
 
-The Oath of the Bastion binds paladins to the ideals of unyielding defence and indomitable will. Paladins who taken this oath are akin to living siege engines, unleashing precise volleys of devastating firepower while protecting what remains. Their duty is not to seek glory nor reward but to hold the line, no matter the cost.
+The Oath of the Bastion binds paladins to the ideals of unyielding defence and indomitable will. Paladins who taken this oath are like living siege engines, unleashing precise volleys of devastating firepower while protecting what remains. Their duty is not to seek glory nor reward but to hold the line, no matter the cost.
 
 In times of crisis, when others flee, they stay behind, reinforcing defences and buying precious time for the helpless. They are the shield that never breaks, and when the end comes, they meet it standing, unshaken and unbowed.
 
