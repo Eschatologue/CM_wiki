@@ -1,3 +1,8 @@
+---
+title: The Archmage Patron
+status: homebrew
+---
+
 # The Archmage Patron
 
 > *Unearth the secret of the Arcana* - Written by Eschathologue

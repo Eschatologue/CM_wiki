@@ -1,3 +1,8 @@
+---
+title: Swashbuckler
+status: homebrew
+---
+
 # Swashbuckler
 
 > *Excel in Single Combat with Brash Confidence*

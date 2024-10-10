@@ -1,3 +1,7 @@
+---
+title: Abjurer
+---
+
 # Abjurer
 
 > *Shield Companions and Banish Foes*

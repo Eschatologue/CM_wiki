@@ -1,3 +1,7 @@
+---
+title: Gloom Stalker Conclave
+---
+
 # Gloom Stalker Conclave
 
 > *Draw on Shadow Magic to Fight Your Foes*

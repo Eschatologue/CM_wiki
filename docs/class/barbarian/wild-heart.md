@@ -1,3 +1,7 @@
+---
+title: Path of the Wild Heart
+---
+
 # Path of the Wild Heart
 
 > *Walk in Community with the Animal World*

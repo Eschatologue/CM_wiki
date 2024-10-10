@@ -1,3 +1,8 @@
+---
+title: Saboteur
+status: homebrew
+---
+
 # Saboteur
 
 > *Demolish Targets with Explosives* - Written by Laserllama - Adapted to 2024 PHB & C&M by Eschathologue

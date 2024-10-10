@@ -1,3 +1,8 @@
+---
+title: Voidwielder
+status: homebrew
+---
+
 # Voidwielder
 
 > *Channel the Chaotic Power of Chaos - Written by Laserllama - Adapted to 2024 PHB by Eschatologue*

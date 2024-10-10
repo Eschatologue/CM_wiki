@@ -1,3 +1,8 @@
+---
+title: Circle of the Forged
+status: homebrew
+---
+
 # Circle of the Forged
 
 > *Union of Flesh and Steel*

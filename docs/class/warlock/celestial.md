@@ -1,3 +1,7 @@
+---
+title: The Celestial Patron
+---
+
 # The Celestial Patron
 
 > *Call on the Power of the Heavens*

@@ -1,3 +1,8 @@
+---
+title: Circle of the Stars
+status: homebrew
+---
+
 # Circle of the Stars
 
 > *Harness Secrets Hidden in Constellations*

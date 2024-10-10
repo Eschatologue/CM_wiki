@@ -1,3 +1,7 @@
+---
+title: College of Valour
+---
+
 # College of Valour
 
 > *Sing the Deeds of Ancient Hero*

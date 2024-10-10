@@ -1,3 +1,7 @@
+---
+title: Circle of the Moon
+---
+
 # Circle of the Moon
 
 > *Adopt Animal Forms to Guard the Wilds*

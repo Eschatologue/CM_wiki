@@ -1,3 +1,7 @@
+---
+title: Evoker
+---
+
 # Evoker
 
 > *Create Explosive Elemental Effects*

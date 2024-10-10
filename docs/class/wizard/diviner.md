@@ -1,3 +1,7 @@
+---
+title: Diviner
+---
+
 # Diviner
 
 > *Learn the Secrets of the Multiverse*

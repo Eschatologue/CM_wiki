@@ -1,3 +1,8 @@
+---
+title: Stone Sorcery
+status: homebrew
+---
+
 # Stone Sorcery
 
 > *Rock and Stone!*

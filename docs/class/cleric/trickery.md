@@ -1,3 +1,7 @@
+---
+title: Trickery Domain
+---
+
 # Trickery Domain
 
 > *Make Mischief and Challenge Authority*

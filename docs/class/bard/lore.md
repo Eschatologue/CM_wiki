@@ -1,3 +1,7 @@
+---
+title: College of Lore
+---
+
 # College of Lore
 
 >  *Plumb the Depths of Magical Knowledge*

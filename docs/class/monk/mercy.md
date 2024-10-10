@@ -1,3 +1,7 @@
+---
+title: Warrior of Mercy
+---
+
 # Warrior of Mercy
 
 *Manipulate Forces of Life and Death*

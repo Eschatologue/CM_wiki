@@ -1,3 +1,7 @@
+---
+title: Beast Master Conclave
+---
+
 # Beast Master Conclave
 
 A Beast Master ranger forms a mystical bond with a special beast, drawing on primal magic and a deep attunement to the natural world.

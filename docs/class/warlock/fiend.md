@@ -1,3 +1,7 @@
+---
+title: The Fiend Patron
+---
+
 # The Fiend Patron
 
 > *Make a Deal with the Lower Planes*

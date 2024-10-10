@@ -1,3 +1,7 @@
+---
+title: Light Domain
+---
+
 # Light Domain
 
 > *Bring Light to Banish Darkness*

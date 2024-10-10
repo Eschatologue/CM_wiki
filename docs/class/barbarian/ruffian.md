@@ -1,4 +1,5 @@
 ---
+title: Path of the Ruffian
 status: homebrew
 ---
 

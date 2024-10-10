@@ -1,3 +1,8 @@
+---
+title: Chronurgist
+status: homebrew
+---
+
 # Chronurgist
 
 > *Exercise Influence over Time - Updated by PerfectlyCircularSeal*

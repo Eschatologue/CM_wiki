@@ -1,3 +1,7 @@
+---
+status: homebrew
+---
+
 # Samurai
 
 > *Fight Deliberately and Precisely. Be Unwavering*

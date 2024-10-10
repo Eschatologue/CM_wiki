@@ -1,3 +1,7 @@
+---
+title: The Archfey Patron
+---
+
 # The Archfey Patron
 
 > *Bargain with Whimsical Fey*

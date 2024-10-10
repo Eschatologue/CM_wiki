@@ -1,3 +1,8 @@
+---
+title: Spellbreaker Conclave
+status: homebrew
+---
+
 # Spellbreaker Conclave
 
 > *Destroy Enemy Spellcaster - Written by Laserllama - Updated to 2024 PHB by Eschatologue*

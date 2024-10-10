@@ -1,3 +1,8 @@
+---
+title: Destruction Domain
+status: homebrew
+---
+
 # Destruction Domain
 
 > *Through Destruction, Balance is Restored - Written by Eschathologue*

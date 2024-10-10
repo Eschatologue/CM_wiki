@@ -1,3 +1,7 @@
+---
+title: Aberrant Sorcery
+---
+
 # Aberrant Sorcery
 
 > *Wield Unnatural Psionic Power*

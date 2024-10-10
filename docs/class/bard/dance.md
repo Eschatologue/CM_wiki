@@ -1,3 +1,7 @@
+---
+title: College of Dance
+---
+
 # College of Dance
 
 > *Move in HARMONY with the Cosmos*

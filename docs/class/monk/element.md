@@ -1,3 +1,7 @@
+---
+title: Warrior of the Elements
+---
+
 # Warrior of the Elements
 
 *Wield Strikes and Bursts of Elemental Power*

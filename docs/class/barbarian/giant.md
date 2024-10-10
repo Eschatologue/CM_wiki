@@ -1,4 +1,5 @@
 ---
+title: Path of the Giant
 status: homebrew
 ---
 

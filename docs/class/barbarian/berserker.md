@@ -1,3 +1,7 @@
+---
+title: Path of the Berserker
+---
+
 # Path of the Berserker
 
 > *Channel Rage into Violent Fury*

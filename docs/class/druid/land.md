@@ -1,3 +1,7 @@
+---
+title: Circle of the Land
+---
+
 # Circle of the Land
 
 >  *Celebrate Connection to the Natural World*

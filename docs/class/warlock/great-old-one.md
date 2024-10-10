@@ -1,3 +1,7 @@
+---
+title: The Great Old One Patron
+---
+
 # The Great Old One Patron
 
 > *Unearth Forbidden Lore of Inedffable Beings*

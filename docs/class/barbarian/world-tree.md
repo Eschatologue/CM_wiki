@@ -1,3 +1,7 @@
+---
+title: Path of the World Tree
+---
+
 # Path of the World Tree
 
 > *Trace the Roots and Branches of the World*

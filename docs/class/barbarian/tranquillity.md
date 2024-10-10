@@ -1,4 +1,5 @@
 ---
+title: Path of Tranquilty
 status: homebrew
 ---
 

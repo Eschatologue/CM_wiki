@@ -1,3 +1,7 @@
+---
+title: Circle of the Sea
+---
+
 # Circle of the Sea
 
 > *Become One with Tides and Storms*

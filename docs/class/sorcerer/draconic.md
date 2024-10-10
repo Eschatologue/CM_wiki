@@ -1,3 +1,7 @@
+---
+title: Draconic Sorcery
+---
+
 # Draconic Sorcery
 
 > *Breathe the Magic of Dragons*

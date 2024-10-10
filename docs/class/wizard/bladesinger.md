@@ -1,3 +1,8 @@
+---
+title: Bladesinger
+status: homebrew
+---
+
 # Bladesinger
 
 > *Balance Sword and Spell with the Power of Song - Written by PerfectlyCircularSeal*

@@ -1,3 +1,7 @@
+---
+title: Fey Wanderer Conclave
+---
+
 # Fey Wanderer Conclave
 
 > *Wield Fey Mirth and Fury*

@@ -1,3 +1,8 @@
+---
+title: Illusionist
+status: homebrew
+---
+
 # Illusionist
 
 > *Weave Subtle Spells of Deception*
@@ -18,7 +23,7 @@ You also know the *Minor Illusion* cantrip. If you already know this cantrip, yo
 
 ### Level 6: Phantasmal Creatures
 
-You alwayas has the *Summon Beast* and *Summon Fey* spells prepared. Whenever you cast either spell, you can change its school to Illusion, which causes the summoned creature appear spectral. You can cast the Illusion version of each spell without expending a spell slot, but casting it without a slot haves the creature's Hit Points. Once you cast either spell without a spell slot, you must finish a Long Rest before you can cast the spell in that way again.
+You always has the *Summon Beast* and *Summon Fey* spells prepared. Whenever you cast either spell, you can change its school to Illusion, which causes the summoned creature appear spectral. You can cast the Illusion version of each spell without expending a spell slot, but casting it without a slot halves the creature's Hit Points. Once you cast either spell without a spell slot, you must finish a Long Rest before you can cast the spell in that way again.
 
 ### Level 10: Illusory Self
 

@@ -1,3 +1,8 @@
+---
+title: Warrior of the Astral Self
+status: homebrew
+---
+
 # Warrior of the Astral Self
 
 > *Strike your Enemies with Four Arms at Once*

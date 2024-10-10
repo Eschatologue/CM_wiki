@@ -1,3 +1,7 @@
+---
+title: Path of the Zealot
+---
+
 # Path of the Zealot
 
 > *Rage in Ecstatic Union with a God*

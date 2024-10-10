@@ -1,3 +1,7 @@
+---
+title: Life Domain
+---
+
 # Life Domain
 
 > *Soothe the Hurts of the World*

@@ -1,3 +1,8 @@
+---
+title: The Reborn
+status: homebrew
+---
+
 # The Reborn
 
 > *Regain Your Lost Powers* - Made by Eschatologue

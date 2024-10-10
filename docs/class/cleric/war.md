@@ -1,3 +1,7 @@
+---
+title: War Domain
+---
+
 #  War Domain
 
 > *Inspire Valor and Smite Foes*

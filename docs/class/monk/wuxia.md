@@ -1,4 +1,9 @@
-# Way of the Wuxia
+---
+title: Wuxia Warrior
+status: homebrew
+---
+
+# Wuxia Warrior
 
 > *Masterfully Mix Weapons with Martial Arts*
 

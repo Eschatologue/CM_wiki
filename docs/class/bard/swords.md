@@ -1,3 +1,7 @@
+---
+status: homebrew
+---
+
 # College of Swords
 
 > *Turn Combat Mastery into a Performance* - Updated by Spaghetti0

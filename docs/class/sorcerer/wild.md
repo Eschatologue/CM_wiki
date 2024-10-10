@@ -1,3 +1,7 @@
+---
+title: Wild Magic Sorcery
+---
+
 # Wild Magic Sorcery
 
 > *Unleash Chaotic Magic*

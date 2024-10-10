@@ -1,3 +1,8 @@
+---
+title: Graviturgist
+status: homebrew
+---
+
 # Graviturgist
 
 > *Exert Mastery over the Laws of Attraction - Updated by PerfectlyCircularSeal*

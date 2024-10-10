@@ -1,3 +1,7 @@
+---
+title: Hunter Conclave
+---
+
 # Hunter Conclave
 
 > *Protect Nature and People from Destruction*
