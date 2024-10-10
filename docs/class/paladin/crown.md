@@ -1,3 +1,7 @@
+---
+title: Oath of the Crown
+---
+
 # Oath of the Crown 
 
 > *Defend Civilization and Law from Tyranny*

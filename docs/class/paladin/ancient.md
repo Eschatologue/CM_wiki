@@ -1,3 +1,8 @@
+---
+title: Oath of the Ancients
+---
+
+
 # Oath of the Ancients
 
 *Preserve Life and Light in the World*

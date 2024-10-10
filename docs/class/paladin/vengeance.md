@@ -1,3 +1,8 @@
+---
+title: Oath of Vengeance
+---
+
+
 # Oath of Vengeance
 
 *Punish Evildoers at Any Cost*

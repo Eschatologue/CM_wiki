@@ -1,3 +1,7 @@
+---
+title: Oath of the Watchers
+---
+
 # Oath of the Watchers
 
 > *Defend the Material Plane from Invading Forces*

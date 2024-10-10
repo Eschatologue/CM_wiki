@@ -533,6 +533,14 @@ A variety of effects allow a creature to fly. While flying, you fall if you have
 
 ---
 
+### Forced Movement
+
+*Forced Movement* occurs when a creature is moved by an external force, such as a spell or ability, without using its own movement, Actions, or Reactions. Common examples include being pushed, pulled, or moved by effects like *Thunderwave* or a Battle Master’s *Pushing Attack*. Forced movement does **not** provoke Opportunity Attacks and is not limited by a creature’s movement speed.
+
+If forced into hazardous terrain (e.g. pits or lava), the creature suffers any consequences. The movement usually stops if the creature hits an obstacle or reaches an edge, unless otherwise specified. Forced movement generally requires the target to end in an unoccupied space.
+
+---
+
 ### Friendly [Attitude]
 
 A Friendly creature views you favorably. You have advantage on an ability check to influence a Friendly creature.

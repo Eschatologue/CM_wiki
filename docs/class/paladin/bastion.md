@@ -23,15 +23,13 @@ You gain the *Strongbow* or *Thrown Weapon Fighting* Fighting Style feat (choose
 Moreover, your training gives you mastery of combat styles that uses **Bastion Weapons**, which are the following:
 
 - Ranged Simple or Martial Weapon with the :weapon-prop-two-handed: **Two-Handed** property.
-- Weapon that has the Thrown property and lacks the Light property 
+- Weapon that has the :weapon-prop-thrown: **Thrown** property and *lacks* the :weapon-prop-light: **Light** property 
 
-You gain the following benefits with **Bastion Weapons**:
+You gain the following benefit with **Bastion Weapons**:
 
-***Ranged Smites.*** When you hit a target with a Ranged attack with **Bastion Weapons**, you can use your Divine Smite feature or any Paladin Smite spells (e.g. *Searing Smite*, *Shinning Smite*) to that attack, but its damage die is reduced by one size (e.g. d10 to d8).
+***Ranged Smites.*** When you hit a target with a ranged attack using a **Bastion Weapon**, you can apply your *Divine Smite* or Paladin Smite spells (such as *Searing Smite* or *Shining Smite*) to that attack. However, the damage die for these smites is reduced by one size (e.g. from a d10 to a d8).
 
-When you reach level 11 in this class, the Improved Divine Smite feature can also be used with **Bastion Weapon** and its damage die is a **d6** instead of **d8**.
-
-***Heavyshot.*** If your attack roll with **Bastion Weapon** misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the attack roll. This damage is the same type dealt by the weapon, and the damage can't be increased in any way, other than increasing the ability modifier.
+When you reach level 11 in this class, your **Radiant Strikes** feature can also be applied to ranged attacks with **Bastion Weapons**, but the damage die becomes a d6 instead of a d8.
 
 ### Level 3: Oath of Bastion Spells
 
@@ -49,26 +47,39 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 ### Level 3: Guardian's Mark
 
-As a Bonus Action, you can expend one use of your Channel Divinity to choose a point or a creature within 60 feet, designating its surrounding as a zone of protection. If you choose a point, it remains fixed. If you choose a creature (including yourself), the marked point moves with them.
+As :rsc-bonus-action: **Bonus Action**, you can expend one use of your Channel Divinity to choose a point or a creature within 60 feet, designating its surrounding as a zone of protection, choose one of the following within 60 feet:
 
-This effect lasts for 1 minute. While active, when a creature you can see takes any action or moves within 15 feet of the marked point, you can make a ranged weapon attack against it with each triggering action or movement using a **Bastion Weapon**, provided it is within your weapon's normal range. This attack does not require an action and can be made a number of times equal to your Charisma modifier (minimum of once). 
+- A fixed point on the ground, or
+- A creature (including yourself), which causes the zone to move with them.
 
-The effect ends early if you reach this number of attacks or when you have the Incapacitated condition.
+This protective zone lasts for **1 minute**. While active, whenever a creature within **15 feet** of the marked point takes any action or moves, you can make a ranged weapon attack against them using a **Bastion Weapon** (if within normal range). This attack doesn’t require any action and can be made up to a number of times equal to your **Charisma modifier** (minimum of 1).
 
-If you make an attack using this feature, you cannot take Reactions until the start of your next turn.
+You cannot take any :rsc-reaction: **Reactions** until the start of your next turn after using this attack. The effect ends early if you either:
+- Use up all the allowed attacks, or
+- You have the *Incapacitated* condition.
 
 ### Level 7: Phalanx Formation
 
-You and your allies has Immunity to Forced Movement while within your Aura of Protection. 
+You and your allies has Immunity to [Forced Movement](../../glossary.md#forced-movement) while within your Aura of Protection. 
 
-Moreover, you and your allies gain the benefit of Half Cover while within the aura, so long you haven't move more than half your Speed for this turn.
+Moreover, you and your allies gain the benefit of Half Cover while within the aura, so long you haven't moved more than half your Speed for this turn.
+
+*[Half Cover]: +2 bonus to AC and Dexterity saving throws
 
 ### Level 15: Rapid Reaction
 
-When a hostile creaure ends their turn within your Aura of Protection, you can take a Reaction to move up to half of your Speed, without provoking Opportunity Attack and make a Ranged weapon attack using a **Bastion Weapon** at the creature.
+When a hostile creaure ends their turn within your Aura of Protection, you can take a :rsc-reaction: **Reactions** to move up to half of your Speed, without provoking Opportunity Attack and make a Ranged weapon attack using a **Bastion Weapon** at the creature.
 
-You can use this feature a number of time equals to your Charisma modifier (minimum of once). You regain all expended uses whenever you finish a Long Rest.
+You can use this feature a number of time equals to your **Charisma modifier** (minimum of once). You regain all expended uses whenever you finish a Long Rest.
 
+### Level 20: Hold the Line
 
+You become an unyielding bulwark, turning aside threats and protecting those within your shielded presence. As a Bonus Action, you gain the following benefits for 10 minutes. Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
+***Truesight***. You gain *Truesight* with a range of 120 feet.
 
+***Saving Throw Advantage.*** You have :d20-adv: **Advantage** on all saving throws so long you don't have the Incapacitated condition.
+
+***Protection.*** No creature can make an attack with :d20-adv: **Advantage** against you or your allies that is within your Aura of Protection.
+
+***Damage Reduction.*** When you or your ally are hit by an attack, that attack damage is reduced by an amount equal to your **Charisma modifier**.

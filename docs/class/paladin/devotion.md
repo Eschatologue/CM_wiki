@@ -1,3 +1,7 @@
+---
+title: Oath of Devotion
+---
+
 # Oath of Devotion
 
 *Uphold the Ideals of Justice and Order*

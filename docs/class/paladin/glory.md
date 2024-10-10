@@ -1,3 +1,7 @@
+---
+title: Oath of Glory
+---
+
 # Oath of Glory
 
 *Strive for Heights of Heroism*
