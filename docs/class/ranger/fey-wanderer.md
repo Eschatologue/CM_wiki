@@ -16,13 +16,13 @@ When you reach a Ranger level specified in the Fey Wanderer Spells Table, you th
 
 ##### Fey Wanderer Spells
 
-| Ranger Level | Spells |
-|:---:|:---|
-| 3 | *Charm Person* |
-| 5 | *Misty Step* |
-| 9 | *Summon Fey* |
-| 13 | *Dimension Door* |
-| 17 | *Mislead* |
+| Ranger Level | Spells | Bonus Spells^CM^ |
+|:---:|:---|---|
+| 3 | *Charm Person* | *Cause Fear* |
+| 5 | *Misty Step* | *Enthrall* |
+| 9 | *Summon Fey* | *Dispel Magic* |
+| 13 | *Dimension Door* | *Charm Person* |
+| 17 | *Mislead* | *Geas* |
 
 You also possess a preternatural blessing from a fey ally or a place of fey power. Choose your blessing from the Feywild Gifts table or determine it randomly.
 

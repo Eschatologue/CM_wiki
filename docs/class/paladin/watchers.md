@@ -1,5 +1,7 @@
 ---
 title: Oath of the Watchers
+search:
+  exclude: true
 ---
 
 # Oath of the Watchers

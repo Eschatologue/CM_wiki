@@ -18,13 +18,13 @@ You have mastered the art of creating frightening ambushes, granting you the fol
 
 The magic of the Shadowfell ensures you always have certain spells ready; when you reach a Ranger level specified in the Gloom Stalker Spells table, you thereafter always have the listed spells prepared.
 
-| Ranger Level | Spells |
-|:---:|:---|
-| 3 | *Disguise Self* |
-| 5 | *Rope Trick* |
-| 9 | *Fear* |
-| 13 | *Greater Invisibility* |
-| 17 | *Seeming* |
+| Ranger Level | Spells | Bonus Spells^CM^ |
+|:---:|:---|:---|
+| 3 | *Disguise Self* | *Cause Fear* |
+| 5 | *Rope Trick* | *Darkness* |
+| 9 | *Fear* | *Nondetection* |
+| 13 | *Greater Invisibility* | *Phantasmal Killer* |
+| 17 | *Seeming* | *Mislead* |
 
 ### Level 3: Umbral Sight
 

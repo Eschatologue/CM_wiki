@@ -53,7 +53,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells |
 |:---:|:---|
-| 3 | *Gift of Alacrity*, *Hunter's Mark* |
+| 3 | *Gift of Alacrity*, *Sanctuary* |
 | 5 | *Cordon of Arrows*, *Warding Bond* |
 | 9 | *Conjure Barrage*, *Lightning Arrow* |
 | 13 | *Arcane Eye*, *Stoneskin* |

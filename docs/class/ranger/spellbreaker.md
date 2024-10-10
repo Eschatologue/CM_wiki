@@ -24,11 +24,11 @@ When you reach a Ranger level specified in the Spellbreaker Spells Table, you th
 
 | Ranger Level | Spell |
 |:-:|---|
-| 3 | *Absorb Elements* |
-| 5 | *Blindness/Deafness* |
-| 9 | *Counterspell* |
-| 13 | *Otiluke's Resilient Sphere* |
-| 17 | *Wall of Force* |
+| 3 | *Absorb Elements*, *Detect Magic* |
+| 5 | *Blindness/Deafness*, *Silence* |
+| 9 | *Counterspell*, *Dispel Magic* |
+| 13 | *Arcane Eye*, *Otiluke's Resilient Sphere* |
+| 17 | *Dispel Evil and Good*, *Wall of Force* |
 
 ### Level 7: Arcane Defense
 

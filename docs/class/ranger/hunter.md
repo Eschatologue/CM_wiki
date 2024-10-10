@@ -16,6 +16,20 @@ You gain one of the following feature options of your choice. Whenever you finis
 
 ***Horde Breaker.*** Once on each of your turns when you make an attack with a weapon, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target, that is within the weapon’s range, and that you haven’t attacked this turn.
 
+### Level 3: Hunter Spells (Optional)
+
+When you reach a Ranger level specified in the Hunter Spells Table, you thereaftrer always have the listed spells prepared.
+
+##### Hunter Spells
+
+| Ranger Level | Spells |
+|:---:|:---|---|
+| 3 | *Expeditious Retreat*, *Snare*  |
+| 5 | *Locate Animals or Plants*, *Pass without Trace* |
+| 9 | *Ballistic Shot*^CM^, *Nondetection*  |
+| 13 | *Freedom of Movement*, *Mordenkainen's Faithful Hound* | 
+| 17 | *Swift Quiver*, *Tree Stride* |
+
 ### Level 7: Defensive Tactics
 
 You gain one of the following feature options of your choice. Whenever you finish a Short or Long Rest, you can replace the chosen option with the other one.
