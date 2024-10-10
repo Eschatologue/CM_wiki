@@ -1,5 +1,5 @@
 ---
-icon: ui/homebrew
+icon: material/glass-mug-variant
 title: Homebrew Spells
 hide:
     - toc
