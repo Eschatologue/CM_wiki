@@ -44,9 +44,7 @@ The Witchblade Features table shows how many spell slots you have to cast your W
 | 16 | 6 | 2 | III |
 | 17 | 7 | 2 | III |
 | 18 | 7 | 2 | III |
----
-status: homebrew
----| 19 | 7 | 2 | IV |
+| 19 | 7 | 2 | IV |
 | 20 | 7 | 2 | IV |
 
 #### Prepared Spells of Level 1+
