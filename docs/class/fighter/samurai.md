@@ -1,5 +1,5 @@
 ---
-status: homebrew
+status: adapted
 ---
 
 # Samurai

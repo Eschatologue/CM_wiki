@@ -1,6 +1,6 @@
 ---
 title: Warrior of the Astral Self
-status: homebrew
+status: adapted
 ---
 
 # Warrior of the Astral Self

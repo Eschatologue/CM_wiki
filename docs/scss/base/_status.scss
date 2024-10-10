@@ -1,5 +1,17 @@
+// .md-status {
+//     &::after {
+//         vertical-align: middle;
+//     }
+// }
+
 /* Homebrew Status */
 .md-status--homebrew::after {
     mask-image: var(--md-icon--homebrew);
     -webkit-mask-image: var(--md-icon--homebrew);
+}
+
+/* Adapted Status */
+.md-status--adapted::after {
+    mask-image: var(--md-icon--adapted);
+    -webkit-mask-image: var(--md-icon--adapted);
 }

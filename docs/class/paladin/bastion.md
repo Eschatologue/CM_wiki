@@ -1,5 +1,6 @@
 ---
 title: Oath of the Bastion
+status: homebrew
 ---
 
 # Oath of the Bastion

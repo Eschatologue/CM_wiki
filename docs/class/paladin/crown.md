@@ -1,5 +1,6 @@
 ---
 title: Oath of the Crown
+status: adapted
 ---
 
 # Oath of the Crown 

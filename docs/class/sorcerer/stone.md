@@ -1,6 +1,6 @@
 ---
 title: Stone Sorcery
-status: homebrew
+status: adapted
 ---
 
 # Stone Sorcery

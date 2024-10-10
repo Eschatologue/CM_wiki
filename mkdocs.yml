@@ -311,7 +311,8 @@ theme:
 ## Additional Configuration
 extra:
   status:
-    homebrew: This Material is Homebrew
+    homebrew: Homebrew material
+    adapted: Adapted to PHB'24
 
 # Markdown Extentions
 markdown_extensions:

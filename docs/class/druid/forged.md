@@ -1,6 +1,6 @@
 ---
 title: Circle of the Forged
-status: homebrew
+status: adapted
 ---
 
 # Circle of the Forged

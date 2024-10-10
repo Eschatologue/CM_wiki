@@ -1,5 +1,6 @@
 ---
 title: Oathbreaker
+status: adapted
 ---
 
 # Oathbreaker

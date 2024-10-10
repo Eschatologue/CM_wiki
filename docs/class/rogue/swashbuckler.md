@@ -1,6 +1,6 @@
 ---
 title: Swashbuckler
-status: homebrew
+status: adapted
 ---
 
 # Swashbuckler
