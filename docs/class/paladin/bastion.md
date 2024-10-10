@@ -16,6 +16,20 @@ These paladins share the following tenets:
 - Sacrifice everything to shield others.
 - Hold strong, even when hope fades.
 
+### Level 3: Guardian's Mark
+
+As :rsc-bonus-action: **Bonus Action**, you can expend one use of your Channel Divinity to choose a point or a creature within 60 feet, designating its surrounding as a zone of protection, choose one of the following within 60 feet:
+
+- A fixed point on the ground, or
+- A creature (including yourself), which causes the zone to move with them.
+
+This protective zone lasts for **1 minute**. While active, whenever a creature within **15 feet** of the marked point takes any action or moves, you can make a ranged weapon attack against them using a **Bastion Weapon** (if within normal range). This attack doesn’t require any action and can be made up to a number of times equal to your **Charisma modifier** (minimum of 1).
+
+You cannot take any :rsc-reaction: **Reactions** until the start of your next turn after using this attack. The effect ends early if you either:
+
+- Use up all the allowed attacks, or
+- You have the *Incapacitated* condition.
+
 ### Level 3: Heavy Archer
 
 You gain the [Strongbow](../../character-creation/feat/feat-fighting-style.md#strongbow) or [Thrown Weapon Fighting](../../character-creation/feat/feat-fighting-style.md#thrown-weapon-fighting) Fighting Style feat (choose one)
@@ -44,20 +58,6 @@ The magic of your oath ensures you always have certain spells ready; when you re
 | 9 | *Conjure Barrage*, *Lightning Arrow* |
 | 13 | *Arcane Eye*, *Stoneskin* |
 | 17 | *Swift Quiver*, *Wall of Stone* |
-
-### Level 3: Guardian's Mark
-
-As :rsc-bonus-action: **Bonus Action**, you can expend one use of your Channel Divinity to choose a point or a creature within 60 feet, designating its surrounding as a zone of protection, choose one of the following within 60 feet:
-
-- A fixed point on the ground, or
-- A creature (including yourself), which causes the zone to move with them.
-
-This protective zone lasts for **1 minute**. While active, whenever a creature within **15 feet** of the marked point takes any action or moves, you can make a ranged weapon attack against them using a **Bastion Weapon** (if within normal range). This attack doesn’t require any action and can be made up to a number of times equal to your **Charisma modifier** (minimum of 1).
-
-You cannot take any :rsc-reaction: **Reactions** until the start of your next turn after using this attack. The effect ends early if you either:
-
-- Use up all the allowed attacks, or
-- You have the *Incapacitated* condition.
 
 ### Level 7: Phalanx Formation
 

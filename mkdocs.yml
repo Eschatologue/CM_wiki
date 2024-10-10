@@ -260,7 +260,11 @@ nav:
         - Level 9: spells/description/core/level-9.md
       - Additional: 
         - Dunamancy: spells/description/additional/dunamancy.md
-        - Homebrew: spells/description/additional/homebrew.md
+        - Homebrew: 
+          - spells/description/additional/homebrew/index.md
+          - Cantrip: spells/description/additional/homebrew/cantrip.md
+          - Level 2: spells/description/additional/homebrew/level-2.md
+          - Level 3: spells/description/additional/homebrew/level-2.md
   - Rule Glossary: glossary.md
   - Current Campaign:
     - Player's Gimmick:
