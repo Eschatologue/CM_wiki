@@ -23,7 +23,7 @@ When you reach a Ranger level specified in the Hunter Spells Table, you thereaft
 ##### Hunter Spells
 
 | Ranger Level | Spells |
-|:---:|:---|---|
+|:---:|:---|
 | 3 | *Expeditious Retreat*, *Snare*  |
 | 5 | *Locate Animals or Plants*, *Pass without Trace* |
 | 9 | *Ballistic Shot*^CM^, *Nondetection*  |

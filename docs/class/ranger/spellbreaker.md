@@ -12,9 +12,7 @@ Also, when you see a creature casting a spell with Verbal, Somatic, or Material 
 
 ### Level 3: Spellsight
 
-You have learned to see the arcane potential of others. As a Bonus Action, you can focus on a creature and instantly learn its spellcasting ability (if it has one) and the highest level spell that it has the ability to cast. If it is hidden from divination magic, such as by *Nondetection*, this feature fails.
-
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a short or long rest.
+You have learned to see the arcane potential of others. When you mark a creature using *Hunter's Mark*, you instantly learn its spellcasting ability (if it has one) and the highest level spell that it has the ability to cast. If it is hidden from divination magic, such as by *Nondetection*, this feature fails.
 
 ### Level 3: Spellbreaker Magic
 
@@ -40,7 +38,7 @@ Moreover, whenever you are subjected you to a spell or magical effect that allow
 
 You are an unparalleled hunter of mages. Whenever you hit a creature with a weapon attack, you can expend a level 1+ spell slot to deal bonus :dmg-force: Force damage to your target equal to 1d8 per level of the spell slot you expended.
 
-Also, when you cast *Dispel Magic*, you can add your Wisdom modifier (minimum of +1) to the ability check and when you cast *Counterspell* you can subtract the result of the target's save by a number equal to your Wisdom modifier (minimum of +1).
+Moreover, when you cast *Dispel Magic* and you need to make a spellcasting ability check to determine the result, you can treat a roll of 9 or lower as a 10. When you cast *Counterspell*, its save DC increases by a number equals to your Wisdom modifier (minimum of +1).
 
 ### Level 15: Mantle of the Master
 
