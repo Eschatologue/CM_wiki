@@ -1,5 +1,5 @@
 ---
-icon: spell/level-0
+icon: spell/level-2
 ---
 
 # Level 2
