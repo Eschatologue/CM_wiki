@@ -83,14 +83,14 @@ jobs:
         run: |
           if git diff --quiet HEAD^ HEAD -- docs/scss/extra.scss; then
             echo "No changes in extra.scss."
-            echo "scss_changed=false" >> $GITHUB_ENV
+            echo "::set-output name=scss_changed::false"
           else
             echo "Changes detected in extra.scss."
-            echo "scss_changed=true" >> $GITHUB_ENV
+            echo "::set-output name=scss_changed::true"
           fi
 
       - name: Compile SCSS to extra.css (if needed)
-        if: ${{ env.scss_changed == 'true' }}
+        if: ${{ steps.check_scss_changes.outputs.scss_changed == 'true' }}
         run: |
           mkdir -p docs/css
           echo "Compiling extra.scss to extra.css..."
@@ -111,11 +111,10 @@ jobs:
       - run: mkdocs gh-deploy --force
 
       - name: Commit and push compiled CSS and map files (if SCSS changed)
-        if: ${{ env.scss_changed == 'true' }}
+        if: ${{ steps.check_scss_changes.outputs.scss_changed == 'true' }}
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add docs/assets/css/extra.css docs/assets/css/extra.css.map 
           git commit -m "SCSS to CSS generation"
           git push
-
