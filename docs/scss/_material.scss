@@ -7,12 +7,6 @@
     font-family: $headingFont;
 }
 
-.md-sidebar--primary,
-.md-sidebar--secondary {
-    padding-top: px2em(2px);
-    padding-bottom: px2em(2px);
-}
-
 // Main Theme Colour
 [data-md-color-scheme="slate"] {
     --md-text-color: var(--md-default-fg-color);
@@ -60,7 +54,7 @@
         background-color: var(--md-default-bg-color);
 
         &:hover {
-            background-color: var(--md-default-bg-color);
+            background-color: var(--md-default-bg-color--50);
         }
 
         ~ .md-search__icon {
@@ -69,13 +63,5 @@
         &::placeholder {
             color: var(--md-default-bg-color);
         }
-    }
-}
-
-// Tabbed Block
-.md-typeset {
-    .tabbed-block {
-        margin-bottom: 0;
-        padding-bottom: px2rem(2px);
     }
 }
