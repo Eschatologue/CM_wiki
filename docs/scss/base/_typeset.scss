@@ -1,8 +1,15 @@
-// General Typeset
+// General Typeset Variables
 $headingFont: "Jost", sans-serif;
-$defaultFontSize: px2rem(16px);
+$defaultFontSize: px2rem(15px);
 $defaultFontWeight: 375;
 
+// Heading Size Variables
+$h1Size: $defaultFontSize * 2.25;
+$h2Size: $defaultFontSize * 1.5;
+$h3Size: $defaultFontSize * 1.25;
+$h4Size: $defaultFontSize * 1.125;
+
+// Main Typeset
 .md-typeset {
     font-weight: $defaultFontWeight;
     font-size: $defaultFontSize;
@@ -11,7 +18,12 @@ $defaultFontWeight: 375;
         font-weight: $defaultFontWeight * 1.55;
         letter-spacing: $defaultFontSize * 0.01;
     }
-    
+
+    p {
+        margin: px2rem(8px) 0 px2rem(4px) 0;
+    }
+
+    // Heading Styles
     h1,
     h2,
     h3,
@@ -22,7 +34,6 @@ $defaultFontWeight: 375;
     }
 
     h1 {
-        $h1Size: $defaultFontSize * 2.25;
         font-size: $h1Size;
         letter-spacing: $h1Size * 0.02;
         margin-top: -0.25em;
@@ -31,7 +42,6 @@ $defaultFontWeight: 375;
     }
 
     h2 {
-        $h2Size: $defaultFontSize * 1.5;
         font-size: $h2Size;
         letter-spacing: $h2Size * 0.02;
         font-weight: 400;
@@ -40,7 +50,6 @@ $defaultFontWeight: 375;
     }
 
     h3 {
-        $h3Size: $defaultFontSize * 1.25;
         font-size: $h3Size;
         letter-spacing: $h3Size * 0.02;
         margin-top: px2rem(12px);
@@ -57,21 +66,21 @@ $defaultFontWeight: 375;
     }
 
     h4 {
+        font-size: $h4Size;
         font-weight: $defaultFontWeight * 1.5;
-        font-size: $defaultFontSize * 1.125;
         margin: px2rem(6px) 0;
-        padding: 0;
         text-transform: capitalize !important;
     }
 
     h5 {
-        text-transform: capitalize;
         font-size: $defaultFontSize;
         font-weight: 450;
+        text-transform: capitalize;
         margin-bottom: px2rem(-4px);
     }
 }
 
+// Custom Font Size Classes
 .ich1 {
     font-size: 4.5rem;
     margin: 0.25em 0 -0.25em;
@@ -81,6 +90,7 @@ $defaultFontWeight: 375;
     font-size: 5.5rem;
 }
 
+// Padding Classes
 .pad-r {
     padding-right: 0.35em;
 }
