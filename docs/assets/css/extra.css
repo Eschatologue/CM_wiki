@@ -400,7 +400,6 @@
   letter-spacing: 0.024rem;
   font-weight: 400;
   border-bottom: 0.1rem solid rgba(255, 255, 255, 0.25);
-  padding-bottom: 0.1rem;
   margin: 0.6rem 0 0.225rem 0;
 }
 .md-typeset h3 {
@@ -420,8 +419,8 @@
 .md-typeset h4 {
   font-weight: 562.5;
   font-size: 0.9rem;
-  margin-top: 0.4rem;
-  margin-bottom: 0.1rem;
+  margin: 0.3rem 0;
+  padding: 0;
   text-transform: capitalize !important;
 }
 .md-typeset h5 {
