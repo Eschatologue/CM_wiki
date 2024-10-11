@@ -38,7 +38,7 @@
         --md-primary-fg-color-transparent: hsla(#{hex2hsl(nth($colors, 1))}, 0.15);
 
         /* Additional Darker Background Colours */
-        --md-default-bg-color: hsla(var(--md-hue), 15%, 14%, 1);
+//        --md-default-bg-color: hsla(var(--md-hue), 15%, 14%, 1);
         --md-default-bg-color--dark: hsla(var(--md-hue), 15%, 10%, 1);
         --md-default-bg-color--darker: hsla(var(--md-hue), 15%, 7%, 1);
         --md-default-bg-color--darkest: hsla(var(--md-hue), 15%, 4%, 1);
