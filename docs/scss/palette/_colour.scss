@@ -4,10 +4,10 @@
 // Rules: primary colors
 // ----------------------------------------------------------------------------
 
-$defauleHue: 210;
+$defaultHue: 210;
 
 [data-md-color-scheme="slate"] {
-    --md-hue: $defauleHue;
+    --md-hue: #{$defaultHue}; // Fix applied here
 }
 
 @each $name,
@@ -40,15 +40,15 @@ $defauleHue: 210;
         --md-primary-fg-color-transparent: hsla(#{hex2hsl(nth($colors, 1))}, 0.15);
 
         /* Additional Darker Background Colours */
-        --md-default-bg-color: hsla($defauleHue, 15%, 14%, 1);
-        --md-default-bg-color--dark: hsla($defauleHue, 15%, 10%, 1);
-        --md-default-bg-color--darker: hsla($defauleHue, 15%, 7%, 1);
-        --md-default-bg-color--darkest: hsla($defauleHue, 15%, 4%, 1);
+        --md-default-bg-color: hsla(#{$defaultHue}, 15%, 14%, 1);
+        --md-default-bg-color--dark: hsla(#{$defaultHue}, 15%, 10%, 1);
+        --md-default-bg-color--darker: hsla(#{$defaultHue}, 15%, 7%, 1);
+        --md-default-bg-color--darkest: hsla(#{$defaultHue}, 15%, 4%, 1);
 
         /* Transparent Background Colour */
-        --md-default-bg-color--25: hsla($defauleHue, 15%, 14%, 0.25);
-        --md-default-bg-color--50: hsla($defauleHue, 15%, 14%, 0.5);
-        --md-default-bg-color--75: hsla($defauleHue, 15%, 14%, 0.75);
+        --md-default-bg-color--25: hsla(#{$defaultHue}, 15%, 14%, 0.25);
+        --md-default-bg-color--50: hsla(#{$defaultHue}, 15%, 14%, 0.5);
+        --md-default-bg-color--75: hsla(#{$defaultHue}, 15%, 14%, 0.75);
 
         /* Background Colours */
         --md-primary-bg-color: var(--md-default-bg-color);
