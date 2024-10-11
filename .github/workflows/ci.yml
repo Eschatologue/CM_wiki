@@ -115,6 +115,10 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add docs/assets/css/extra.css docs/assets/css/extra.css.map 
-          git commit -m "SCSS to CSS generation"
-          git push
+          git add docs/assets/css/extra.css docs/assets/css/extra.css.map
+          if ! git diff --cached --quiet; then
+            git commit -m "SCSS to CSS generation"
+            git push
+          else
+            echo "No changes to commit."
+          fi
