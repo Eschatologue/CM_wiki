@@ -1,6 +1,6 @@
 ---
 title: Path of the Giant
-status: homebrew
+status: adapted
 ---
 
 # Path of the Giant
