@@ -10,7 +10,7 @@ This Sorcerer spell list includes all spells available from `PHB'24`, `TCE`, `XG
 
 === "Cantrip"
 
-    | *Name* | School | Casting Time | Range | Duration | Components | Source |
+    | Name | School | Casting Time | Range | Duration | Components | Source |
     |---|---|---|---|---|---|---|
     | *Acid Splash* | Evocation | Action | 60 feet | Instantaneous | V, S | PHB'24 |
     | *Blade Ward* | Abjuration | Action | Self | Concentration, up to 1 minute | V, S | PHB'24 |

@@ -14,7 +14,7 @@ Some of these Monks focus on a single element, learning to wreathe their fists i
 
 You have attuned yourself with the elemental forces of the multiverse. You know the *Elementalism* cantrip. Wisdom is your spellcasting ability for this spell.
 
-### Elemental Attunement
+### Level 3: Elemental Attunement
 
 At the start of your turn, you can spend 1 Focus Point to imbue yourself with elemental energy. The energy lasts for 10 minutes or until you have the Incapacitated condition. You gain the following benefits for the duration:
 

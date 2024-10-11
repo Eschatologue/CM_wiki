@@ -234,6 +234,8 @@ nav:
     - Gaining Spells: spells/gaining-spells.md
     - Casting Spells: spells/casting-spells.md
     - Class Specific Spells:
+      - One-Third Caster:
+        - Wu Jen: spells/class-specific/wu-jen.md
       - Half-Caster:
         - Paladin: spells/class-specific/paladin.md
         - Ranger: spells/class-specific/ranger.md

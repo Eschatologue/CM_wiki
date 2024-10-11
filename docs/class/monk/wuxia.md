@@ -1,9 +1,9 @@
 ---
-title: Wuxia Warrior
+title: Way of the Wuxia
 status: homebrew
 ---
 
-# Wuxia Warrior
+# Way of the Wuxia
 
 > *Masterfully Mix Weapons with Martial Arts*
 
@@ -15,7 +15,7 @@ While all Monks are able to wield the weapons of their style to great effect, th
 
 You gain a set of Calligrapher’s Supplies and a set of Painter’s Supplies. You have proficiency with both of these.
 
-### Level 3: Way of the Blade
+### Level 3: The Study of Iron
 
 Your special martial arts training leads you to master the use of certain weapons.
 
@@ -29,7 +29,7 @@ You also gain the following benefits:
 
 ***Masterful Parry.*** While you are wielding a melee Wuxia Weapon and a creature you can see hits you with a melee attack, you can take a :rsc-reaction: Reaction to add your Wisdom modifier (minimum of +1) to your Armour Class against that attack. If the Attack misses, you can spend 2 Focus Point to make a melee attack against the creature that attacks you as part of the same Reaction.
 
-### Level 6: One with the Blade
+### Level 6: One with the Steel
 
 Your focus empowers your Wuxia weapons, granting you the following benefits.
 
@@ -39,7 +39,7 @@ Your focus empowers your Wuxia weapons, granting you the following benefits.
 
 ***Rapid Strikes.*** When you use Flurry of Blows, you can replace your [Unarmed Strike]s with melee Wuxia Weapon attacks
 
-### Level 11: Spirit Blade
+### Level 11: Soul of the Blade
 
 As a Bonus Action, you can touch one of your Wuxia Weapons and infuse it with 1 to 3 Focus Points to reduce the number you need to roll for critical hit an amount equal to the number of Focus Points expended.
 
@@ -47,7 +47,7 @@ For example, if you infused a normal weapon with 3 Focus Point, its attacks woul
 
 This bonus is only usable by you and it lasts for 1 minute. It ends early if you imbue your Focus Point into another weapon.
 
-### Level 17: Master of Steel
+### Level 17: Master of Armaments
 
 When you make an attack roll with a Wuxia weapon, you can choose to use your Monk level in place of rolling the d20. If using your Monk level would result in a critical hit for that attack roll, then the attack becomes a critical hit.
 

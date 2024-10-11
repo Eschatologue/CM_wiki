@@ -22,7 +22,7 @@ When you reach level 10 in this class, you learn another Warlock cantrip of your
 
 #### Spell Slots
 
-The Witchblade Features table shows how many spell slots you have to cast your Warlock spells of levels 1–5. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a Short or Long Rest.
+The Witchblade Features table shows how many spell slots you have to cast your Warlock spells of levels 1–4. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a Short or Long Rest.
 
 ##### Witchblade Spellcasting
 
