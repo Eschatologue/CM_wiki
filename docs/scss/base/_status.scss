@@ -1,3 +1,15 @@
+// Status
+.md-status {
+    // Status icon
+    &::after {
+        width: px2em(24px);
+        height: px2em(24x);
+        vertical-align: text-bottom;
+        mask-position: center;
+    }
+}
+
+//---------//
 
 /* Homebrew Status */
 .md-status--homebrew::after {
