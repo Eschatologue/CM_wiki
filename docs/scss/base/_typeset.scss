@@ -36,7 +36,6 @@ $defaultFontWeight: 375;
         letter-spacing: $h2Size * 0.02;
         font-weight: 400;
         border-bottom: px2rem(2px) solid rgba(255, 255, 255, 0.25);
-        padding-bottom: px2rem(2px);
         margin: px2rem(12px) 0 px2rem(4.5px) 0;
     }
 
@@ -60,8 +59,8 @@ $defaultFontWeight: 375;
     h4 {
         font-weight: $defaultFontWeight * 1.5;
         font-size: $defaultFontSize * 1.125;
-        margin-top: px2rem(8px);
-        margin-bottom: px2rem(2px);
+        margin: px2rem(6px) 0;
+        padding: 0;
         text-transform: capitalize !important;
     }
 
