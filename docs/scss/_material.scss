@@ -5,7 +5,12 @@
 .md-sidebar--secondary,
 .md-header {
     font-family: $headingFont;
-    margin: 5% 0;
+}
+
+.md-sidebar--primary,
+.md-sidebar--secondary {
+    padding-top: px2em(2px);
+    padding-bottom: px2em(2px);
 }
 
 // Main Theme Colour
