@@ -14,7 +14,7 @@ You can select one of the Fighting Style feats of your choice. Whenever you gain
 
 ### Level 3: Martial Training
 
-Your experience in martial combat has granted you training in Medium armour and proficiency with Martial melee weapons that have the :weapon-prop-finesse: **Finesse** or :waepon-prop-light: **Light** property. You can use weapons that you are proficient with as a spellcasting focus for your Bard spells and to perform its Somatic components.
+Your experience in martial combat has granted you training in Medium armour and proficiency with Martial melee weapons that have the :weapon-prop-finesse: **Finesse** or :weapon-prop-light: **Light** property. You can use weapons that you are proficient with as a spellcasting focus for your Bard spells and to perform its Somatic components.
 
 Moreover, your training with weapons allows you to use the Mastery property of one kind of Simple or Martial weapon with which you have proficiency. Whenever you finish a Long Rest, you can change the kind of weapon you chose to another eligible kind.
 
