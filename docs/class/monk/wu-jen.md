@@ -14,7 +14,9 @@ You learn ancient monastic arts that allow you to cast spells
 
 #### Cantrips 
 
-You know the *Elementalism* cantrip and two cantrips of your choice from the Wu Jen spell list at the end of this subclass description. You learn one additional Wu Jen cantrip when you reach Monk level 10 and 17.
+You know the *Elementalism* cantrip and two cantrips of your choice from the Wu Jen spell list at the end of this subclass description. Whenever you gain a Monk level, you can replace one of this feature's cantrips with another cantrip of your choice from the Wu Jen spell list.
+
+You learn one additional Wu Jen cantrip when you reach Monk level 10 and 17.
 
 #### Spell Slots
 
@@ -22,7 +24,11 @@ The Wu Jen Features table shows how many spell slots you have to cast your Wu Je
 
 #### Ki Casting
 
-You can draw upon your Ki to regain your elemental powers. As a Bonus Action on your turn, you can expend a number of Focus Points equal to your Spell Slot Level to regain one of your expended Wu Jen spell slots.
+You can draw upon your Ki to augment and regain your elemental powers. 
+
+***Changing Cantrip.*** As a Bonus Action you can expend 1 Focus Points to replace one of this feature's cantrips with another cantrip of your choice from the Wu Jen spell list.
+
+***Restoring Spell Slots.*** As a Bonus Action on your turn, you can expend a number of Focus Points equal to your Spell Slot Level to regain one of your expended Wu Jen spell slots.
 
 ##### Wu Jen Spellcasting
 
@@ -51,7 +57,7 @@ You can draw upon your Ki to regain your elemental powers. As a Bonus Action on 
 
 You prepare a list of spells of level 1 and higher that are available for you to cast with this feature. To start, choose two level 1 spell from the [Wu Jen spell list](../../spells/class-specific/wu-jen.md).
 
-The number of spells on your list increases as you gain Fighter levels, as shown in the Prepared Spells column of the Wu Jen Spellcasting table. Whenever that number increases, choose additional Wu Jen spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level no higher than what’s shown in the table’s Slot Level column for your level. When you reach level 7, for example, you learn a new Wu Jen spell, which can be of levels 1–2.
+The number of spells on your list increases as you gain Monk levels, as shown in the Prepared Spells column of the Wu Jen Spellcasting table. Whenever that number increases, choose additional Wu Jen spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level no higher than what’s shown in the table’s Slot Level column for your level. When you reach level 7, for example, you learn a new Wu Jen spell, which can be of levels 1–2.
 
 #### Changing your Prepared Spells
 
