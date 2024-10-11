@@ -1,6 +1,5 @@
 ---
 title: Illusionist
-status: homebrew
 ---
 
 # Illusionist

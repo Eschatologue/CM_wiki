@@ -1,6 +1,6 @@
 ---
 title: Bladesinger
-status: homebrew
+status: adapted
 ---
 
 # Bladesinger
@@ -31,7 +31,9 @@ You can use your Bladesong a number of times equal to your Intelligence modifier
 
 ### Level 6: Extra Attack
 
-When you take the Attack action on your turn, you can replace one of the attacks with a casting of one of your cantrips that has a casting time of an action. 
+You can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+In addition, you can cast one of your cantrip that has the casting time of an action in place of those attack.
 
 ### Level 10: Song of Defense
 

@@ -1,6 +1,6 @@
 ---
 title: Chronurgist
-status: homebrew
+status: adapted
 ---
 
 # Chronurgist

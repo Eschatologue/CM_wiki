@@ -46,7 +46,7 @@ At the end of a Long Rest, you can create a new Steel Defender if you have Smith
 
 You can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-In addition, you can cast one of your Artificer cantrip that has the casting time of an action in place of those attack.
+In addition, you can cast one of your cantrip that has the casting time of an action in place of those attack.
 
 ### Level 9: Arcane Jolt
 

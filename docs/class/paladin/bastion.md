@@ -33,7 +33,7 @@ You cannot take any :rsc-reaction: **Reactions** until the start of your next tu
 
 ### Level 3: Heavy Archer
 
-You gain the [Strongbow](../../character-creation/feat/feat-fighting-style.md#strongbow) or [Thrown Weapon Fighting](../../character-creation/feat/feat-fighting-style.md#thrown-weapon-fighting) Fighting Style feat (choose one)
+You can select one of the Fighting Style feats of your choice from the following options: Strongbow or Thrown Weapon Fighting. Whenever you gain a level in this class, you can exchange your selection for another option.
 
 Moreover, your training gives you mastery of combat styles that uses **Bastion Weapons**, which are the following:
 

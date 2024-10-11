@@ -1,6 +1,6 @@
 ---
 title: Graviturgist
-status: homebrew
+status: adapted
 ---
 
 # Graviturgist

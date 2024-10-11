@@ -5,7 +5,7 @@ status: adapted
 
 # Stone Sorcery
 
-> *Rock and Stone!*
+> *Master the Magic from the Earth*
 
 Your magic springs from a mystical link between your soul and the magic of elemental earth. You might trace a distant ancestor to the Plane of Earth, or your family might have earned a mighty boon in return for a service to the dao lords. Whatever your past, the magic of elemental earth is yours to command.
 
@@ -13,36 +13,37 @@ Your link to earth magic grants you extraordinary resilience, and stone sorcerer
 
 ### Level 3: Stoneblood
 
-Your connection to the earth grants Martial Weapon proficiency and armour training with Shields.
+Your connection to the earth grants Martial Weapon proficiency and training with Shields.
 
 Moreover, your training with weapons allows you to use the Mastery property of one kind of Simple or Martial weapon with which you have proficiency. Whenever you finish a Long Rest, you can change the kind of weapon you chose to another eligible kind.
 
 ### Level 3: Metal Magic
 
-Your affinity for metal gives you the option to learn some non-sorcerer spells that focus on weapon attacks. When your Spellcasting feature lets you learn a level 1+ sorcerer spell, you can select the spell from the following list of spells, in addition to the sorcerer spell list. 
+Your affinity for metal gives you the option to learn some non-sorcerer spells that focus on weapon attacks. When your Spellcasting feature lets you learn a level 1+ Sorcerer spell, you can select the spell from the Metal Magic table, in addition to the Sorcerer spell list. 
 
-You must otherwise obey all the restrictions for selecting the spell, and it becomes a sorcerer spell for you.
+You must otherwise obey all the restrictions for selecting the spell, and it becomes a Sorcerer spell for you.
 
 ##### Metal Magic
 | Spell Level | Spell |
 |:-:|---|
 | 1 | *Compelled Duel*, *Searing Smite*, *Thunderous Smite*, *Wrathful Smite* |
-| 2 | *Branding Smite*, *Blinding Smite*, *Elemental Weapon*, *Magic Weapon* |
-| 3 | *Staggering Smite* |
+| 2 | *Elemental Weapon*, *Magic Weapon*, *Shinning Smite* |
+| 3 | *Blinding Smite* |
+| 4 | *Staggering Smite* |
 
 ### Level 3: Stone's Durability
 
 Your connection to stone gives you extra fortitude. Your Hit Point maximum increases by 3 and increases by 1 whenever you gain another Sorcerer level.
 
-As Magic action, you can gain a base AC of 13 + your Charisma Modifier if you aren't wearing armour, and your skin assumes a stony appearance. This effect lasts until you end it (no action required), you have the Incapacitated condition, or you don armour other than a shield.
+As Magic action, you can gain a base AC of 13 + your Charisma Modifier if you aren't wearing armour, and your skin assumes a stony appearance. This effect lasts until you end it (no action required), you have the Incapacitated condition, or you don armour other than a Shield.
 
 ### Level 6: Stone Aegis
 
 Your command of earth magic grows stronger, allowing you to harness it for your allies' protection.
 
-As a Bonus Action, you can grant an aegis to you or one allied creature you can see within 60 feet of you. The aegis is a dim, gray aura of earth magic that protects the target. Any Bludgeoning, Piercing, or Slashing damage the target takes is reduced by a number equals to your Charisma modifier. This effect lasts for 1 minute, and it ends earlt if you you use it again, or when you have the Incapacitated condition.
+As a Bonus Action, you grant yourself or an ally within 60 feet an aegis of earth magic. For 1 minute, Bludgeoning, Piercing, or Slashing damage the target takes is reduced by an amount equal to your Charisma modifier. This effect ends early if you use it again or when you have Incapacitated condition.
 
-In addition, when a creature you can see within 60 feet of you hits the protected target with a melee attack, you take a Reaction to teleport to an unoccupied space you can see within 5 feet of the attacker. You can teleport only if you and the attacker are on the same surface. You can then make one melee weapon attack against the attacker. If that attack hits, it deals an extra 1d10 Force damage. This extra damage increases when you reach level 11 (2d10) and level 17 (3d10). 
+Additionally, when an enemy hits the protected target with a melee attack, you can use your Reaction to teleport within 5 feet of the attacker (if on the same surface) and make a melee attack. On a hit, the attack deals an extra 1d10 Force damage (increases to 2d10 at level 11, and 3d10 at level 17).
 
 ### Level 14: Stone's Edge
 
