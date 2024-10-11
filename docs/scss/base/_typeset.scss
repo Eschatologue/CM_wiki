@@ -11,11 +11,6 @@ $defaultFontWeight: 375;
         font-weight: $defaultFontWeight * 1.55;
         letter-spacing: $defaultFontSize * 0.01;
     }
-
-    p {
-        margin-bottom: px2rem(9px);
-        margin-top: px2rem(4.5px);
-    }
     
     h1,
     h2,

@@ -229,6 +229,7 @@ nav:
         - Hand: class/monk/hand.md
         - Elements: class/monk/element.md
         - Astral Self: class/monk/astral.md
+        - Wu Jen: class/monk/wu-jen.md
         - Wuxia: class/monk/wuxia.md
   - Spells:
     - Gaining Spells: spells/gaining-spells.md
