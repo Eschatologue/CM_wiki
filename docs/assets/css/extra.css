@@ -373,7 +373,6 @@
 }
 
 .md-typeset {
-  text-justify: auto;
   font-weight: 375;
   font-size: 0.7rem;
 }
@@ -512,14 +511,6 @@
 .md-sidebar--secondary,
 .md-header {
   font-family: "Jost", sans-serif;
-}
-
-.md-sidebar--primary {
-  width: 11rem;
-}
-
-.md-sidebar--secondary {
-  width: 13.5rem;
 }
 
 [data-md-color-scheme=slate] {
