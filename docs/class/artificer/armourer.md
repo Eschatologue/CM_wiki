@@ -1,4 +1,9 @@
-# Armourer Specialisation
+---
+title: Artificer Subclass: Armourer
+status: adapted
+---
+
+# Armourer
 
 > *Don Magical and Customisable Armour*
 

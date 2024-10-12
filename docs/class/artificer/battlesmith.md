@@ -1,4 +1,9 @@
-# Battlesmith Specialisation
+---
+title: Artificer Subclass: Battlesmith
+status: adapted
+---
+
+# Battlesmith
 
 > *Arm and Protect your Allies with a Mechanical Companion*
 

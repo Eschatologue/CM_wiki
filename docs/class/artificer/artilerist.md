@@ -1,4 +1,9 @@
-# Artilerist Specialisation
+---
+title: Artificer Subclass: Artilerist
+status: adapted
+---
+
+# Artilerist
 
 > *Blow Enemies Away with Magical Artillery*
 

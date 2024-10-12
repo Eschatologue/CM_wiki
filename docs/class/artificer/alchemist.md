@@ -1,3 +1,8 @@
+---
+title: Artificer Subclass: Alchemist
+status: adapted
+---
+
 # Alchemist
 
 > *Brew and Administer Magical Elixirs*

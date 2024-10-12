@@ -1,4 +1,9 @@
-# Forgewright Specialisation
+---
+title: Artificer Subclass: Forgewright
+status: homebrew
+---
+
+# Forgewright
 
 While most Artificers are primarily inventors who take up the life of adventure to test experiments in the field, those known as Forgewrights seek out battle for its own sake. Reveling in the thrill of combat, they combine their innovation with their skill as warriors to forge their signature Arcane Armament.
 

@@ -1,4 +1,9 @@
-# Gunslinger Specialisation
+---
+title: Artificer Subclass: Gunslinger
+status: homebrew
+---
+
+# Gunslinger
 
 > *Gun Down your Adversaries*
 
