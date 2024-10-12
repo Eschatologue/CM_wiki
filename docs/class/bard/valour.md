@@ -24,11 +24,10 @@ In addition, you can use a Simple or Martial weapon as a spellcasting focus to c
 
 ### Level 6: Extra Attack
 
-You can attack twice, instead of once, whenever you take the Attack action on your turn.
+You can attack twice instead of once whenever you take the Attack action on your turn.
 
-In addition, you can cast one of your cantrip that has the casting time of an action in place of those attack.
+In addition, you can cast one of your cantrips that has a casting time of an action in place of one of those attacks.
 
 ### Level 14: Battle Magic
 
 After you cast a spell that has a casting time of an action, you can make one attack with a weapon as a Bonus Action.
- 

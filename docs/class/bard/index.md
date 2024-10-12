@@ -87,7 +87,7 @@ Once within the next hour when the creature fails a D20 Test, the creature can r
 
 You have learned to cast spells through your bardic arts. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Bard spells, which appear in the [Bard spell list](../../spells/class-specific/bard.md) later in the class’s description.
 
-***Cantrips.*** You know two cantrips of your choice from the Bard spell list. Dancing Lights and Vicious Mockery are recommended.
+***Cantrips.*** You know two cantrips of your choice from the Bard spell list. *Dancing Lights* and *Vicious Mockery* are recommended.
 
 Whenever you gain a Bard level, you can replace one of your cantrips with another cantrip of your choice from the Bard spell list.
 
