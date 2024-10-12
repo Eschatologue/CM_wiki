@@ -15,43 +15,20 @@ When you drink this potion, you gain a Clim Speed equal to your Speed for 1 hour
 
 ---
 
-#### Potion of Giant Strength
+### Potion of Giant Strength
 
 *Potion, Varies*
 
-Multiple variations of this item exist, as listed below:
+Multiple variations of this item exist. When you drink this potion, your Strength score changes to the score in the Strength Score column in the Potion of Giant Strength table and the effect last for 1 hour.
 
-#### Potion of Hill Giant Strength
+##### Potion of Giant Strength table
 
-*Potion, Uncommon, M-*
-
-When you drink this potion, your Strength score changes to 21 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score.
-
-This potion's transparent liquid has floating in it a sliver of fingernail from a **hill giant**.
-
-#### Potion of Stone Giant Strength
-
-*Potion, Rare, M-*
-
-When you drink this potion, your Strength score changes to 23 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score.
-
-This potion's transparent liquid has floating in it a sliver of fingernail from a **stone giant**.
-
-#### Potion of Cloud Giant Strength
-
-*Potion, Very Rare, M-*
-
-When you drink this potion, your Strength score changes to 27 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score.
-
-This potion's transparent liquid has floating in it a sliver of fingernail from a **cloud giant**.
-
-#### Potion of Storm Giant Strength
-
-*Potion, Legendary, M-*
-
-When you drink this potion, your Strength score changes to 29 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score.
-
-This potion's transparent liquid has floating in it a sliver of fingernail from a **storm giant**.
+| Potion | Rarity | Strength Score | Description | Weight |
+|---|---|:-:|---|---|
+| *Potion of Hill Giant Strength* | Uncommon | 21 | Contains a sliver of **hill giant** fingernail. | M- |
+| *Potion of Stone Giant Strength* | Rare | 23 | Contains a sliver of **stone giant** fingernail. | M- |
+| *Potion of Cloud Giant Strength* | Very Rare | 27 | Contains a sliver of **cloud giant** fingernail. | M- |
+| *Potion of Storm Giant Strength* | Legendary | 29 | Contains a sliver of **storm giant** fingernail. | M- |
 
 ---
 
