@@ -360,6 +360,13 @@
   mask-image: var(--md-icon--homebrew);
 }
 
+.md-status::after {
+  width: 1.5em;
+  height: 1.5em;
+  vertical-align: text-bottom;
+  mask-position: center;
+}
+
 /* Homebrew Status */
 .md-status--homebrew::after {
   mask-image: var(--md-icon--homebrew);
@@ -473,17 +480,8 @@
   padding: 0.4375em 1em;
   min-width: 0.0625em;
 }
-.md-typeset table:not([class]) td {
-  font-size: 0.6375rem;
-  border-bottom: rgba(255, 255, 255, 0.12);
-  background-color: rgba(255, 255, 255, 0.025);
-}
-.md-typeset table:not([class]) td b,
-.md-typeset table:not([class]) td strong {
-  font-weight: 675;
-}
 .md-typeset table:not([class]) th {
-  font-size: 0.675rem;
+  font-size: 0.6375rem;
   font-weight: bold !important;
   text-transform: capitalize !important;
   vertical-align: bottom;
@@ -491,6 +489,15 @@
   border-bottom: 0.1rem solid var(--md-primary-fg-color);
   background-color: rgba(0, 0, 0, 0.5);
   padding: 0.6125em 1em;
+}
+.md-typeset table:not([class]) td {
+  font-size: 0.6rem;
+  border-bottom: rgba(255, 255, 255, 0.12);
+  background-color: rgba(255, 255, 255, 0.025);
+}
+.md-typeset table:not([class]) td b,
+.md-typeset table:not([class]) td strong {
+  font-weight: 675;
 }
 .md-typeset table:not([class]) tbody tr:hover {
   background-color: transparent;
@@ -510,14 +517,9 @@
   font-family: "Jost", sans-serif;
 }
 
-.md-sidebar--primary,
-.md-sidebar--secondary {
-  padding-top: 0.125em;
-  padding-bottom: 0.125em;
-}
-
 [data-md-color-scheme=slate] {
   --md-text-color: var(--md-default-fg-color);
+  background-color: var(--md-default-bg-color);
 }
 [data-md-color-scheme=slate] .md-header {
   color: var(--md-text-color);
@@ -548,18 +550,13 @@
   background-color: var(--md-default-bg-color);
 }
 [data-md-color-scheme=slate] .md-search__input:hover {
-  background-color: var(--md-default-bg-color);
+  background-color: var(--md-default-bg-color--50);
 }
 [data-md-color-scheme=slate] .md-search__input ~ .md-search__icon {
   color: var(--md-text-color);
 }
 [data-md-color-scheme=slate] .md-search__input::placeholder {
   color: var(--md-default-bg-color);
-}
-
-.md-typeset .tabbed-block {
-  margin-bottom: 0;
-  padding-bottom: 0.1rem;
 }
 
 /*# sourceMappingURL=extra.css.map */
