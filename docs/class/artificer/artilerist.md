@@ -1,5 +1,4 @@
 ---
-title: Artificer Subclass: Artilerist
 status: adapted
 ---
 
