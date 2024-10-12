@@ -1,4 +1,8 @@
-## Homebrew Metamagic
+---
+title: Sorcerer's Metamagic (CM)
+---
+
+# Homebrew Metamagic
 
 The list below contains additional Metamagic available for Crown & Misery campaign. In Prison & Wyvern, ask the DM first.
 

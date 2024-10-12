@@ -1,3 +1,7 @@
+---
+title: Sorcerer's Metamagic (PHB'24)
+---
+
 # Core Metamagic
 
 The list below contains Metamagic available to the 2024 PHB.

@@ -96,10 +96,6 @@ Martial weapons require more training to use effectively but offer greater damag
 | Crossbow bolts (20) | 10 SP |
 | Sling bullets (50) | 10 SP |
 
-### SPecial Weapons
-
-Weapons with SPecial rules are described here.
-
 [Lance]:weapon-cold.md#lance
 
 [Push]: index.md#push

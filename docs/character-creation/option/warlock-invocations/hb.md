@@ -1,3 +1,7 @@
+---
+title: Warlock's Eldritch Invocation (CM)
+---
+
 # Homebrew Invocations
 
 ---

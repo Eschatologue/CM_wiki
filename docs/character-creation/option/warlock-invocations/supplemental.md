@@ -1,3 +1,7 @@
+---
+title: Warlock's Eldritch Invocation (Supplemental)
+---
+
 # Supplemental Rulesets Invocations
 
 This page contains a list of all Eldritch Invocations from the supplemental books such as: XGE or TCE.
