@@ -67,7 +67,6 @@ When you drink this potion, you gain Resistance to a specific damage type for 1 
 | *Potion of Resistance (Cold)* | Uncommon | :dmg-cold: Cold damage | Liquid is a pale, icy-blue fluid. |
 | *Potion of Resistance (Fire)* | Uncommon | :dmg-fire: Fire damage | Liquid is a warm, red-orange liquid. |
 | *Potion of Resistance (Lightning)* | Uncommon | :dmg-lightning: Lightning damage | Liquid crackles with a faint yellow glow. |
-| *Potion of Resistance (Poison)* | Uncommon | :dmg-poison: Poison damage | Liquid is a sickly green with a pungent smell. |
 | *Potion of Resistance (Thunder)* | Uncommon | :dmg-thunder: Thunder damage | Liquid rumbles and vibrates inside the container. |
 | *Potion of Resistance (Necrotic)* | Rare | :dmg-necrotic: Necrotic damage | Liquid is dark and swirls with shadowy wisps. |
 | *Potion of Resistance (Psychic)* | Rare | :dmg-psychic: Psychic damage | Liquid shimmers with an iridescent purple hue. |
