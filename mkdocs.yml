@@ -138,6 +138,7 @@ nav:
         - Glamour: class/bard/glamour.md
         - Lore: class/bard/lore.md
         - Valour: class/bard/valour.md
+        - Skald: class/bard/skald.md
         - Swords: class/bard/swords.md
       - Ranger: 
         - class/ranger/index.md

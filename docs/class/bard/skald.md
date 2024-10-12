@@ -11,7 +11,7 @@ Bards of this College are no strangers to adventure. Unlike other Bards who sing
 
 Fjellvokters often include Skalds to bolster their ranks and can be found swinging battleaxe in one hand and songs or poetry on their lips.
 
-*[Fjellvokter]: Myrkheim's Mountain Rangers, the dwarves main army.
+*[Fjellvokters]: Myrkheim's Mountain Rangers, the dwarves main army.
 
 ### Level 3: Bardic Warrior
 
