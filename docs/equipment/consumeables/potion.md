@@ -42,7 +42,7 @@ Multiple variations of this item exist. When you drink this potion, your Strengt
 
 *Potion, Varies*
 
-You regain Hit Points when you drink this potion. The number of Hit Points restored is as shown in the Potions of Healing table. Whatever its potency and size, the potion's red liquid glimmers when agitated.
+Multiple variations of this item exist. When you drink this potion, you regain Hit Points. The number of Hit Points restored is as shown in the Potions of Healing table. Whatever its potency and size, the potion's red liquid glimmers when agitated.
 
 ##### Potions of Healing
     
@@ -57,9 +57,11 @@ You regain Hit Points when you drink this potion. The number of Hit Points resto
 
 ### Potion of Resistance
 
-*Potion, Varies*
+*Potion, Varies, M-*
 
-When you drink this potion, you gain Resistance to a specific damage type for 1 hour. The potion's liquid varies depending on the damage type:
+Multiple variations of this item exist. When you drink this potion, you gain Resistance to a specific damage type for 1 hour, defined in the Resistance column of Potion of Resistance table. The potion's liquid varies depending on the damage type:
+
+##### Potion of Resistance
 
 | Potion of Resistance (Damage Type) | Rarity | Resistance | Description |
 |---|---|---|---|
@@ -93,7 +95,7 @@ Grants Temporary Hit Points equals to 4d4 plus your Constitution modifier.
 
 ### Potion of Advantage
 
-*Potion, Uncommon*
+*Potion, Uncommon, M-*
 
 When you drink this potion, you gain Advantage on **one** D20 Test that you make within the next hour.
 
