@@ -1,8 +1,9 @@
 $paddings: 16px;
 $paddingScale: 7px;
+$th-padding: $paddingScale * 1.4;
 
 .md-typeset {
-    // Table without class
+    // Table without a class
     & table:not([class]) {
         th,
         td {
@@ -10,33 +11,36 @@ $paddingScale: 7px;
             min-width: px2em(1px);
         }
 
-        td {
-            font-size: $defaultFontSize * 0.85;
-            border-bottom: rgba(255, 255, 255, 0.12);
-            background-color: rgba(255, 255, 255, 0.025);
-
-            b,
-            strong {
-                font-weight: $defaultFontWeight * 1.8;
-            }
-        }
-
         th {
-            font-size: $defaultFontSize * 0.9;
+            font-size: $defaultFontSize * 0.85;
             font-weight: bold !important;
             text-transform: capitalize !important;
             vertical-align: bottom;
             color: rgba(255, 255, 255, 0.8);
             border-bottom: px2rem(2px) solid var(--md-primary-fg-color);
             background-color: rgba(0, 0, 0, 0.5);
-            padding: px2em($paddingScale * 1.4) px2em($paddings);
+            padding: px2em($th-padding) px2em($paddings);
         }
 
+        td {
+            font-size: $defaultFontSize * 0.8;
+            border-bottom: rgba(255, 255, 255, 0.12);
+            background-color: rgba(255, 255, 255, 0.025);
+
+            // Bold text in <td> elements
+            b,
+            strong {
+                font-weight: $defaultFontWeight * 1.8;
+            }
+        }
+
+        // Hover effect for table rows
         tbody tr:hover {
             background-color: transparent;
         }
     }
 
+    // BEM Element for tables within .md-typeset
     &__table {
         width: 100%;
 

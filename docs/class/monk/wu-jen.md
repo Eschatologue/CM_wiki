@@ -1,5 +1,6 @@
 ---
 title: Way of the Wu Jen
+statis: homebrew
 ---
 
 # Way of the Wu Jen
