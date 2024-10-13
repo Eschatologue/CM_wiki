@@ -288,6 +288,8 @@ extra_css:
 theme:
   name: material
   custom_dir: overrides
+  static_templates:
+    - 404.html
   features:
     - navigation.top
     - navigation.tabs

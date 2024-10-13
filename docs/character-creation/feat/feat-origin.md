@@ -1,12 +1,13 @@
 ---
 icon: material/cards-diamond
+title: Origin Feats
 ---
 
 # Origin Feats
 
 These feats are in the Origin category
 
-## 2024 Player's Handbook Origin Feats
+## PHB'24 Origin Feats
 
 These Origin feats are included in the 2024 Player's Handbook
 
@@ -168,9 +169,11 @@ You are more resilient than others.
 **Hard to Kill**  
 Your Hit Point Maximum increases by an amount equal to twice your character level when you gain this Feat. Whenever you gain a level thereafter, your Hit Point Maximum increases by an additional 2 Hit Points.
 
-## Crown & Misery Origin Feats
+---
 
-These Origin feats are homebrew.
+## CM Origin Feats
+
+These Origin feats are made for Crown & Misery campaign.
 
 ---
 

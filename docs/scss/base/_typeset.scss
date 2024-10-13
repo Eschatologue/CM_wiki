@@ -7,7 +7,7 @@ $defaultFontWeight: 375;
 $h1Size: $defaultFontSize * 2.25;
 $h2Size: $defaultFontSize * 1.5;
 $h3Size: $defaultFontSize * 1.25;
-$h4Size: $defaultFontSize * 1.125;
+$h4Size: $defaultFontSize * 1.115;
 
 // Main Typeset
 .md-typeset {
@@ -68,8 +68,18 @@ $h4Size: $defaultFontSize * 1.125;
     h4 {
         font-size: $h4Size;
         font-weight: $defaultFontWeight * 1.5;
-        margin: px2rem(6px) 0;
+        margin: px2rem(6px) 0 px2rem(4px);
         text-transform: capitalize !important;
+
+        &::before {
+            content: "";
+            background-color: rgba(255, 255, 255, 0.15);
+            border-radius: 0.25rem;
+            display: block;
+            height: 0.25rem;
+            width: px2rem(42px);
+            margin-bottom: px2rem(4px);
+        }
     }
 
     h5 {

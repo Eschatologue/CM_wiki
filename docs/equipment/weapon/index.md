@@ -1,6 +1,8 @@
 ---
 icon: material/sword
 title: Weapons
+search:
+  boost: 1.5 
 ---
 
 # Weapons
@@ -144,7 +146,7 @@ This weapon can be used with one or two hands. A damage value in parentheses app
 
 ## Mastery Properties
 
-Each weapon now has a Mastery property, as shown in the weapon tables. That property is usable only by a character who has a feature, such as Weapon Mastery, that unlocks the property for the character. 
+Each weapon has a mastery property, which is usable only by a character who has a feature, such as Weapon Mastery, that unlocks the property for the character. The properties are defined below.
 
 If a game feature lets you replace a weapon's Mastery property with another one, that weapon must meet any prerequisite specified for the new property.
 
@@ -152,7 +154,7 @@ If a game feature lets you replace a weapon's Mastery property with another one,
 
 #### Cleave
 
-**Prerequisite:** Melee Weapon, :weapon-prop-heavy: **Heavy** Property
+**Prerequisite:** Melee Weapon, :weapon-prop-heavy: **Heavy** property
 
 If you hit a creature with a melee attack using this weapon, you can make an :d20-attack: **Attack Roll** with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon's damage, but don't add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.
 
@@ -160,7 +162,7 @@ If you hit a creature with a melee attack using this weapon, you can make an :d2
 
 #### Graze
 
-**Prerequisite:** Melee Weapon, :weapon-prop-heavy: **Heavy** Property
+**Prerequisite:** Melee Weapon, :weapon-prop-heavy: **Heavy** property
 
 If your :d20-attack: **Attack Roll** with this weapon misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the :d20-attack: **Attack Roll**. This damage is the same type dealt by the weapon, and the damage can't be increased in any way, other than increasing the ability modifier.
 
@@ -168,7 +170,7 @@ If your :d20-attack: **Attack Roll** with this weapon misses a creature, you can
 
 #### Nick
 
-**Prerequisite:** :weapon-prop-light: **Light** Property
+**Prerequisite:** :weapon-prop-light: **Light** property
 
 When you make the extra attack of the :weapon-prop-light: Light property, you can make it as part of the Attack action instead of as a Bonus Action. You can make this extra attack only once per turn.
 
@@ -176,7 +178,7 @@ When you make the extra attack of the :weapon-prop-light: Light property, you ca
 
 #### Push
 
-**Prerequisite:** :weapon-prop-heavy: **Heavy**, :weapon-prop-two-handed: Two-Handed, or :weapon-prop-versatile: Versatile Property
+**Prerequisite:** :weapon-prop-heavy: **Heavy**, :weapon-prop-two-handed: Two-Handed, or :weapon-prop-versatile: Versatile property
 
 If you hit a creature with this weapon, you can push the creature up to 10 feet straight away from yourself if it is Large or smaller.
  
@@ -184,7 +186,7 @@ If you hit a creature with this weapon, you can push the creature up to 10 feet 
 
 #### Sap
 
-**Prerequisite:** :weapon-prop-versatile: **Versatile** Property or No Weapon Property
+**Prerequisite:** :weapon-prop-versatile: **Versatile** property or No Weapon property
 
 If you hit a creature with this weapon, that creature has :d20-disadv: **Disadvantage** on its next :d20-attack: **Attack Roll** before the start of your next turn.
 
@@ -200,7 +202,7 @@ If you hit a creature with this weapon and deal damage to the creature, you can 
 
 #### Topple
 
-**Prerequisite:** :weapon-prop-heavy: **Heavy**, :weapon-prop-reach: **Reach**, or :weapon-prop-versatile: **Versatile** Property
+**Prerequisite:** :weapon-prop-heavy: **Heavy**, :weapon-prop-reach: **Reach**, or :weapon-prop-versatile: **Versatile** property
 
 If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw with a DC equal to 8 + your Proficiency Bonus + the ability modifier used to make the :d20-attack: **Attack Roll**. On a failed save, the creature has the Prone condition.
 
@@ -208,7 +210,7 @@ If you hit a creature with this weapon, you can force the creature to make a Con
 
 #### Vex
 
-**Prerequisite:** :weapon-prop-ammunition: **Ammunition**, :weapon-prop-finesse: **Finesse**, or :weapon-prop-light: **Light** Property
+**Prerequisite:** :weapon-prop-ammunition: **Ammunition**, :weapon-prop-finesse: **Finesse**, or :weapon-prop-light: **Light** property
 
 If you hit a creature with this weapon and deal damage to the creature, you have :d20-adv: **Advantage** on your next :d20-attack: **Attack Roll** against that creature before the end of your next turn.
 
