@@ -1,6 +1,6 @@
-!!! danger "Campaign Restriction"
-
-    This species is made for Crown & Misery campaign. Ask the respective DM if you want to use in other campaign.
+---
+status: homebrew
+---
 
 # Londoner
 
@@ -32,7 +32,7 @@ You have proficiency with :weapon-pistol: Short-Arms. If you are proficient in M
 
 ### Inferior Athleticism
 
-If your Strength score is 13 or lower, you have Disadvantage on Strength-based D20 Test against creatures other than your own species.
+You have Disadvantage on Strength-based D20 Test against creatures other than your own species.
 
 ### Mental Resilience
 

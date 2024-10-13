@@ -159,8 +159,9 @@ You gain a feature from your Cleric subclass.
 
 Divine power infuses you in battle. You gain one of the following options of your choice:
 
-- **Divine Strike.** Once on each of your turns when you hit a creature with an attack with a weapon, you can cause the target to take an extra 1d8 :dmg-necrotic: Necrotic or :dmg-radiant: Radiant damage (your choice).
-- **Potent Spellcasting.** You add your Wisdom modifier to the damage you deal with any Cleric cantrip.
+***Divine Strike.*** Once on each of your turns when you hit a creature with an attack with a weapon, you can cause the target to take an extra 1d8 :dmg-necrotic: Necrotic or :dmg-radiant: Radiant damage (your choice).
+
+***Potent Spellcasting.*** You add your Wisdom modifier to the damage you deal with any Cleric cantrip.
  
 If you get either option from another source, you use only the option you chose for this feature.
 
@@ -176,9 +177,9 @@ You can call on your deity or pantheon to intervene on your behalf. As a Magic a
 
 The option you chose for Blessed Strikes grows more powerful.
 
-**Divine Strike.** The extra damage of your Divine Strike increases to 2d8.
+***Divine Strike.*** The extra damage of your Divine Strike increases to 2d8.
 
-**Potent Spellcasting.** When you cast a Cleric cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of Temporary Hit Points equal to twice your Wisdom modifier.
+***Potent Spellcasting.*** When you cast a Cleric cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of Temporary Hit Points equal to twice your Wisdom modifier.
 
 ### Level 19: Epic Boon
 

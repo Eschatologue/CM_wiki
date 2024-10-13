@@ -110,7 +110,11 @@ The number of times you can cast the spell without a spell slot increases when y
 
 Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Longbows and Shortswords.
 
-Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Longswords.
+Whenever you finish a Long Rest, you can do one of the following:
+
+***Change Weapon.*** You can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Longswords.
+
+***Replace Weapon Mastery^HB^.*** You can choose any of the kinds of Mastery weapons you’re using and replace the Mastery property of each with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Longsword’s Sap property with the Push property.
 
 ### Level 2: Deft Explorer
 

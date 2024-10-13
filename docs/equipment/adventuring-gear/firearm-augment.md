@@ -1,5 +1,6 @@
 ---
 icon: material/hammer-wrench
+status: homebrew
 ---
 
 # Firearm Augmentation

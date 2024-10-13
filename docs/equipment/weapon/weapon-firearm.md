@@ -1,5 +1,6 @@
 ---
 icon: weapon/rifle
+status: homebrew
 ---
 
 # Firearms

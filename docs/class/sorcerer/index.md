@@ -73,23 +73,34 @@ As a Sorcerer, you gain the following class features when you reach the specifie
 
 Drawing from your innate magic, you can cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Sorcerer spells, which appear in the [Sorcerer spell list](../../spells/class-specific/sorcerer.md) later in the class’s description.
 
-***Cantrips.*** You know four Sorcerer cantrips of your choice. Light, Prestidigitation, Shocking Grasp, and Sorcerous Burst are recommended. Whenever you gain a Sorcerer level, you can replace one of your cantrips from this feature with another Sorcerer cantrip of your choice.
+#### Cantrips
+
+You know four Sorcerer cantrips of your choice. Light, Prestidigitation, Shocking Grasp, and Sorcerous Burst are recommended. Whenever you gain a Sorcerer level, you can replace one of your cantrips from this feature with another Sorcerer cantrip of your choice.
 
 When you reach Sorcerer levels 4 and 10, you learn another Sorcerer cantrip of your choice, as shown in the Cantrips column of the Sorcerer Features table.
 
-***Spell Slots.*** The Sorcerer Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
+#### Spell Slots
 
-***Prepared Spells of Level 1+.*** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Sorcerer spells. Burning Hands and Detect Magic are recommended.
+The Sorcerer Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
+
+#### Prepared Spells of Level 1+
+
+ You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Sorcerer spells. Burning Hands and Detect Magic are recommended.
 
 The number of spells on your list increases as you gain Sorcerer levels, as shown in the Prepared Spells column of the Sorcerer Features table. Whenever that number increases, choose additional Sorcerer spells until the number of spells on your list matches the number in the Sorcerer Features table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 3 Sorcerer, your list of prepared spells can include six Sorcerer spells of level 1 or 2 in any combination.
 
 If another Sorcerer feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Sorcerer spells for you.
 
-***Changing Your Prepared Spells.*** Whenever you gain a Sorcerer level, you can replace one spell on your list with another Sorcerer spell for which you have spell slots.
+#### Changing Your Prepared Spells
+Whenever you gain a Sorcerer level, you can replace one spell on your list with another Sorcerer spell for which you have spell slots.
 
-***Spellcasting Ability.*** Charisma is your spellcasting ability for your Sorcerer spells.
+#### Spellcasting Ability
 
-***Spellcasting Focus.*** You can use an Arcane Focus as a Spellcasting Focus for your Sorcerer spells.
+Charisma is your spellcasting ability for your Sorcerer spells.
+
+#### Spellcasting Focus
+
+ You can use an Arcane Focus as a Spellcasting Focus for your Sorcerer spells.
 
 ### Level 1: Innate Sorcery
 

@@ -1,5 +1,6 @@
 ---
 icon: ui/homebrew
+status: homebrew
 ---
 
 # Crown & Misery Adventuring Gear

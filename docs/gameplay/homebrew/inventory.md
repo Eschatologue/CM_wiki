@@ -1,5 +1,6 @@
 ---
 icon: material/view-grid-plus
+status: homebrew
 ---
 
 !!! homebrew "This is a Homebrew Mechanic!"

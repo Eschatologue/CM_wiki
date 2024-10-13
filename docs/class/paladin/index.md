@@ -85,25 +85,38 @@ In addition, you can expend 5 Hit Points from the pool of healing to remove the 
 
 You have learned to cast spells through prayer and meditation. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Paladin spells, which appear in the [Paladin spell list](../../spells/class-specific/paladin.md) later in the class's description.
 
-***Spell Slots.*** The Paladin Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
+#### Spell Slots
 
-***Prepared Spells of Level 1+.*** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Paladin spells. Heroism and Searing Smite are recommended.
+The Paladin Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
+
+#### Prepared Spells of Level 1+
+
+ You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Paladin spells. Heroism and Searing Smite are recommended.
 
 The number of spells on your list increases as you gain Paladin levels, as shown in the Prepared Spells column of the Paladin Features table. Whenever that number increases, choose additional Paladin spells until the number of spells on your list matches the number in the Paladin Features table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 5 Paladin, your list of prepared spells can include six Paladin spells of level 1 or 2 in any combination.
 
 If another Paladin feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Paladin spells for you.
 
-***Changing Your Prepared Spells.*** Whenever you finish a Long Rest, you can replace one spell on your list with another Paladin spell for which you have spell slots.
+#### Changing Your Prepared Spells
+Whenever you finish a Long Rest, you can replace one spell on your list with another Paladin spell for which you have spell slots.
 
-***Spellcasting Ability.*** Charisma is your spellcasting ability for your Paladin spells.
+#### Spellcasting Ability
 
-***Spellcasting Focus.*** You can use a Holy Symbol as a Spellcasting Focus for your Paladin spells.
+Charisma is your spellcasting ability for your Paladin spells.
+
+#### Spellcasting Focus
+
+ You can use a Holy Symbol as a Spellcasting Focus for your Paladin spells.
 
 ### Level 1: Weapon Mastery
 
 Your training with weapons allows you to use the Mastery property of two kinds of weapons of your choice with which you have proficiency, such as Longswords and Javelins.
 
-Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For example, you could switch to using the Mastery properties of Halberds and Flails.
+Whenever you finish a Long Rest, you can do one of the following:
+
+***Change Weapon.*** You can change the kinds of weapons you chose. For example, you could switch to using the Mastery properties of Halberds and Flails.
+
+***Replace Weapon Mastery^CM^.*** You can choose any of the kinds of Mastery weapons you’re using and replace the Mastery property of each with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Longsword’s Sap property with the Push property.
 
 ### Level 2: Fighting Style
 

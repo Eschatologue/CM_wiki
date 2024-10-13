@@ -1,5 +1,6 @@
 ---
 icon: material/currency-fra
+status: homebrew
 ---
 
 !!! homebrew "This is a Homebrew Mechanic!"

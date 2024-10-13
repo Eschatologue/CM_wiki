@@ -46,14 +46,13 @@ $h4Size: $defaultFontSize * 1.115;
         letter-spacing: $h2Size * 0.02;
         font-weight: 400;
         border-bottom: px2rem(2px) solid rgba(255, 255, 255, 0.25);
-        margin: px2rem(12px) 0 px2rem(4.5px) 0;
+        margin: px2rem(18px) 0 px2rem(4.5px) 0;
     }
 
     h3 {
         font-size: $h3Size;
         letter-spacing: $h3Size * 0.02;
-        margin-top: px2rem(12px);
-        margin-bottom: px2rem(4px);
+        margin: px2rem(12px) 0 px2rem(4px) 0;
         display: flex;
 
         &::after {
@@ -74,10 +73,9 @@ $h4Size: $defaultFontSize * 1.115;
         &::before {
             content: "";
             background-color: rgba(255, 255, 255, 0.15);
-            border-radius: 0.15rem;
             display: block;
             height: px2rem(2.5px);
-            width: px2rem(40px);
+            width: px2rem(48px);
             margin: px2rem(6px) 0 px2rem(4px);
         }
     }

@@ -32,7 +32,7 @@ Your battlefield research has resulted in the invention of your signature Arcane
 
 ***Properties.*** When you are wielding the Arcane Armament, it counts as a magical weapon, and you can use Intelligence, in place of Strength or Dexterity, for attack and damage rolls. It also gains the Thrown (20/60) property, and after you make a thrown attack with it, it instantly returns to your hand. Last, it can be used as a Spellcasting focus for Artificer spells.
 
-***Mastery Properties.*** You can use the mastery properties of your Arcane Armament. Whenever you finish a Long Rest, you can change its mastery property with another eligible one.
+***Mastery Properties.*** You can use the mastery properties of your Arcane Armament.
 
 ***Infusions.*** Your Arcane Armament can bear one Infusion, even though it is a magic weapon. Your number of Infusions Known also increases by 1, but this bonus Infusion
 must be applied to your Arcane Armament.

@@ -46,7 +46,9 @@ Stitching together strands of shadow, you conjure forth a book in your hand at t
 
 ***Cantrips and Rituals.*** When the book appears, choose three cantrips, and choose two level 1 spells that have the Ritual tag. The spells can be from any class's spell list, and they must be spells you don't already have prepared. While the book is on your person, you have the chosen spells prepared, and they function as Warlock spells for you.
 
-***Spellcasting Focus.*** You can use the book as a Spellcasting Focus.
+#### Spellcasting Focus
+
+ You can use the book as a Spellcasting Focus.
 
 ---
 

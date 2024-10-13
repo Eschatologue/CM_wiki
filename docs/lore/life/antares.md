@@ -7,9 +7,9 @@ search:
 
 ## Biology
 
-Antares is predominantly inhabited by various races, usually humanoids referred to as *Ordinaire* or Ordinary. This group includes a combination of various humanoids such as Elves, Dwarves, Halflings, Gnomes, and the most common one—Humans. However, humans hailing from London are categorized differently. Gallian scholars refer to these subgroups of humans as *Envahisseurs* or "Invaders." 
+Antares is predominantly inhabited by various races, usually humanoids referred to as *Ordinaire*. This group includes a combination of various humanoids such as Elves, Dwarves, Halflings, Gnomes, and the most common one—Humans. However, humans hailing from London are categorized differently. Gallian scholars refer to these subgroups of humans as *Abhumans* 
 
-Aside from humanoids, there are god-like beings or dragons known as Aeginae. These majestic creatures used to roam the continent before mysteriously disappearing thousands of years ago. While the majority of *Ordinaire* and *Envahisseurs* are usually lives inside the protection of Citadel Cities, those who prey upon them such as Abberations, roams the Antares wilderness.
+Aside from humanoids, there are god-like beings or dragons known as Aeginae. These majestic creatures used to roam the continent before mysteriously disappearing thousands of years ago. While the majority of *Ordinaire* and *Abhumans* are usually lives inside the protection of Citadel Cities, those who prey upon them such as Abberations, roams the Antares wilderness.
 
 ## Civilisation
 
@@ -22,19 +22,6 @@ The political landscape of Antares is highly diverse, with various forms of gove
 The recent Dwarvish-London War exemplifies this delicate balance, nearly pushing Antares' civilization to the edge of extinction. Despite this, many institutions—whether official, private, or illegal—strive to establish some semblance of peace and provide aid to those neglected by their governments. They work to prevent Antares from descending into another catastrophic conflict.
 
 Most nations, however, are primarily focused on maintaining their own territories and fending off aberrations, making diplomatic interactions scarce and highly conservative. In this precarious environment, each nation plays a careful game of survival, trying to preserve their hold on what remains of this fractured continent.
-
-#### Nation-state
-
-The author of this wiki, being a history enthusiast, often draws inspiration from real-world nations and historical periods to create the civilizations in Antares. These nations sometimes combine elements from multiple cultures. For those who share the DM's interest, the parallels might be evident at first glance, but for everyone else, the unique blend adds depth to the world.
-
-Antares is home to only six surviving nations or civilizations, each inspired by different cultures from our world:
-
-1. **London**. Modeled after the British Empire at its colonial height, blending its influence as a global power with the tense atmosphere of the Cold War era.
-2. **Myrkheim**. Inspired by the Unification of Germany in 1886, classic dwarven fantasy elements, and Old Norse culture, creating a robust and resilient society.
-3. **Gallia**. Based on France after the Revolution, with a twist—the revolution failed, and the aristocracy solidified its control, ruling with an iron fist.
-4. **Karakorum**. The capital of the Mongol Empire, amalgamating cultural influences from Japan, China, and Mongolia. These cultures are represented as separate yet interconnected flagships within the nation.
-5. **Soterrano**. A combination of the Papal States and pre-19th century Italy, highlighting the influence of organized crime akin to the Sicilian Mafia, but with powerful religious organizations replacing the criminal elements.
-6. **Valinor**. Inspired by the Huguenot Exodus of the 17th century and elements from the game "Frostpunk." Add elves into the mix, and you have a huge mess that is already too late to change in the final draft.
 
 ### Technology
 

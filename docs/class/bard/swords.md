@@ -1,5 +1,7 @@
 ---
 status: homebrew
+search:
+    exclude: true
 ---
 
 # College of Swords

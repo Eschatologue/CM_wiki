@@ -98,7 +98,11 @@ While you aren't wearing any armour, base Armour Class equals 10 + your Dexterit
 
 ### Level 1: Weapon Mastery
 
-Your training with weapons allows you to use the mastery properties of two kinds of Simple or Martial Melee weapons of your choice, such as Greataxes and Handaxes. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
+Your training with weapons allows you to use the mastery properties of two kinds of Simple or Martial Melee weapons of your choice, such as Greataxes and Handaxes. Whenever you finish a Long Rest, you can do one of the following:
+
+***Change Weapon.*** You can practice weapon drills and change one of those weapon choices.
+
+***Replace Weapon Mastery^CM^.*** You can choose any of the kinds of Mastery weapons you’re using and replace the Mastery property of each with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Longsword’s Sap property with the Push property.
 
 When you reach certain Barbarian levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Barbarian Features table.
 

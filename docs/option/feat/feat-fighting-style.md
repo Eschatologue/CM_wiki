@@ -186,4 +186,6 @@ Moreover, you also use your Strength instead of your Dexterity to fufill the :we
 
 While wielding a single weapon with the:weapon-prop-versatile: Versatile property and no shield, you gain a +1 bonus to your :d20-attack: Attack Roll and Damage Roll with that weapon. While doing so, you can also use your :rsc-bonus-action: Bonus Action to make a single grapple or shove attack, take the Use an Object Action, or take the Utilise action.
 
+---
+
 *[cold weapon]: Non-Firearm Weapons

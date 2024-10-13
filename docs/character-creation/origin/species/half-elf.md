@@ -1,3 +1,7 @@
+---
+status: adapted
+---
+
 # Half Elf
 
 "Half-Elves walk a delicate line, inheriting the blessings of both their human and elven lineage while grappling with a sense of not truly belonging. They blend the inquisitiveness, ingenuity, and drive of humans with the heightened senses, appreciation for nature, and artistic inclinations of elves."
@@ -18,7 +22,7 @@ Inheriting the nimble grace and stealthy nature of their wood elf parents, these
 
 ## Half Elf Traits
 
-*PHB'24 Species*
+*PHB'14 Species*
 
 :material-human: **Creature Type:** Humanoid  
 :trait-size: **Size:** Medium (about 4–7 feet tall) or Small (about 2–4 feet tall), chosen when you select this species  

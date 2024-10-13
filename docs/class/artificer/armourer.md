@@ -35,7 +35,9 @@ You gain the following benefits while wearing this armour:
 
 ***Self Supporting.*** If the armour normally has a Strength requirement, the Arcane Armour lacks this requirement for you.
 
-***Spellcasting Focus.*** You can use the Arcane Armour as a spellcasting focus for your Artificer spells.
+#### Spellcasting Focus
+
+ You can use the Arcane Armour as a spellcasting focus for your Artificer spells.
 
 ***Second Skin.*** The armour attaches to you and can’t be removed against your will. It also expands to cover your entire body, although you can retract or deploy the helmet as a Bonus Action. The armour replaces any missing limbs, functioning identically to a limb it replaces.
 
