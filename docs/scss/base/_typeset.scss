@@ -23,6 +23,12 @@ $h4Size: $defaultFontSize * 1.115;
         margin: px2rem(6px) 0 px2rem(6px) 0;
     }
 
+    ul,
+    ol,
+    dl {
+        margin: px2rem(4px) 0 px2rem(4px) 0;
+    }
+
     // Heading Styles
     h1,
     h2,
