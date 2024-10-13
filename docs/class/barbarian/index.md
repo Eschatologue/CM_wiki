@@ -94,15 +94,22 @@ Each time the Rage is extended, it lasts until the end of your next turn. You ca
 
 ### Level 1: Unarmoured Defence
 
-While you aren't wearing any armour, base Armour Class equals 10 + your Dexterity and Constitution modifiers **or** 10 + your Strength and Constitution modifiers^hb^. You can use a Shield and still gain these benefit.
+While you aren't wearing any armour, you can determine your base Armour Class one of the following ways:
+
+:   **Dexterity Based:** 10 + your Dexterity and Constitution modifiers, or 
+:   **Strength Based:^CM^** 10 + your Strength and Constitution modifiers. 
+
+You can use a Shield and still gain these benefit.
 
 ### Level 1: Weapon Mastery
 
 Your training with weapons allows you to use the mastery properties of two kinds of Simple or Martial Melee weapons of your choice, such as Greataxes and Handaxes. Whenever you finish a Long Rest, you can do one of the following:
 
-***Change Weapon.*** You can practice weapon drills and change one of those weapon choices.
+:   **Change Weapon:** You can practice weapon drills and change one of those weapon choices, or
 
-***Replace Weapon Mastery^CM^.*** You can choose any of the kinds of Mastery weapons you’re using and replace the Mastery property of each with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Longsword’s Sap property with the Push property.
+:   **Replace Weapon Mastery^CM^:** You can choose any of the kinds of Mastery weapons you’re using and replace the Mastery property of each with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Longsword’s Sap property with the Push property.
+
+--8<-- "includes/snippets/item-mastery.md"
 
 When you reach certain Barbarian levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Barbarian Features table.
 

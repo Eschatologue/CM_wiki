@@ -85,9 +85,9 @@ When you reach certain Fighter levels, you gain more uses of this feature, as sh
 
 Your training with weapons allows you to use the mastery properties of three kinds of Simple or Martial weapons of your choice. Whenever you finish a Long Rest, you can do one of the following:
 
-***Change Weapon.*** You can practice weapon drills and change one of those weapon choices.
+:   **Change Weapon:** You can practice weapon drills and change one of those weapon choices, or
 
-***Replace Weapon Mastery^CM^.*** You can choose any of the kinds of Mastery weapons you’re using and replace the Mastery property of each with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Longsword’s Sap property with the Push property.
+:   **Replace Weapon Mastery^CM^:** You can choose any of the kinds of Mastery weapons you’re using and replace the Mastery property of each with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Longsword’s Sap property with the Push property.
 
 When you reach certain Fighter levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Fighter Features table.
 
@@ -142,3 +142,5 @@ You gain an Epic Boon feat (see chapter 5) or another feat of your choice for wh
 ### Level 20: Three Extra Attacks
 
 You can attack four times instead of once whenever you take the Attack action on your turn.
+
+--8<-- "includes/snippets/item-mastery.md"

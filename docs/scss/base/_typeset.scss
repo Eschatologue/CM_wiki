@@ -69,15 +69,6 @@ $h4Size: $defaultFontSize * 1.115;
         font-weight: $defaultFontWeight * 1.5;
         margin: px2rem(6px) 0 px2rem(3px);
         text-transform: capitalize !important;
-
-        &::before {
-            content: "";
-            background-color: rgba(255, 255, 255, 0.15);
-            display: block;
-            height: px2rem(2.5px);
-            width: px2rem(48px);
-            margin: px2rem(6px) 0 px2rem(4px);
-        }
     }
 
     h5 {
