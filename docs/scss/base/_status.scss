@@ -2,9 +2,9 @@
 .md-status {
     // Status icon
     &::after {
-        width: px2em(24px);
-        height: px2em(24px);
-        vertical-align: text-bottom;
+        width: px2em(18px);
+        height: px2em(18px);
+        vertical-align: baseline;
         mask-position: center;
     }
 }

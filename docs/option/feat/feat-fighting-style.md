@@ -90,6 +90,8 @@ When you do damage with Unarmed Strikes, it deals Bludgeoning damage equal to :d
 
 At the start of each of your turns, you can deal 1d4 Bludgeoning damage to one creature that receive the Grappled condition from you.
 
+---
+
 ## Crown & Misery Fighting Style
 
 These Fighting Style Feature are homebrew
@@ -142,7 +144,7 @@ You can change your Signature Weapon when you gain a level in a class that has t
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-You learn two [Manoeuvre](../option/manoeuvre.md) of your choice from among those available to the Battlemaster archetype. 
+You learn two [Manoeuvre](../class-options/manoeuvre.md) of your choice from among those available to the Battlemaster archetype. 
 
 If a manoeuvre you use requires your target to make a :d20-save: Saving Throw to resist the manoeuvre's effects, the DC equals 8 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice).
 
