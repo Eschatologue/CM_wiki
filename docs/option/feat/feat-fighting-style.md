@@ -90,8 +90,6 @@ When you do damage with Unarmed Strikes, it deals Bludgeoning damage equal to :d
 
 At the start of each of your turns, you can deal 1d4 Bludgeoning damage to one creature that receive the Grappled condition from you.
 
----
-
 ## Crown & Misery Fighting Style
 
 These Fighting Style Feature are homebrew
@@ -118,7 +116,7 @@ When you make a melee attack with a cold weapon that has :weapon-prop-heavy: Hea
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-You gain Proficiency with Shields and it can be used as a Martial Melee Weapon that deal :dmg-blunt: Bludgeoning damage equal to 2d4 + your Strength modifier. If you are wielding a shield and no other weapon, you gain a +1 bonus to Shield attack rolls and your AC. 
+You gain proficiency with Shields and it can be used as a Martial Melee Weapon that deal :dmg-blunt: Bludgeoning damage equal to 2d4 + your Strength modifier. If you are wielding a Shield and no other weapon, you gain a +1 bonus to Shield attack rolls and your AC. 
 
 ---
 
