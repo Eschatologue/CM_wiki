@@ -18,7 +18,7 @@ In addition, when you make a running long jump, the distance you can cover incre
 
 ### Level 7: Additional Fighting Style
 
-You gain another [Fighting Style](../../character-creation/feat/feat-fighting-style.md) feat of your choice.
+You gain another Fighting Style feat of your choice.
 
 ### Level 10: Heroic Warrior
 

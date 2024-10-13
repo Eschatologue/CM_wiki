@@ -10,7 +10,7 @@ Halflings who prefer to live underground are sometimes called strongheart halfli
 
 ## Halfling Traits
 
-*2024 Player's Handbook Species*
+*PHB'24 Species*
 
 :material-human: **Creature Type:** Humanoid  
 :trait-size: **Size:** Small (about 2–3 feet tall)  

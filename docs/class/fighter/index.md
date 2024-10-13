@@ -69,11 +69,9 @@ As a Fighter, you gain the following class features when you reach the specified
 
 ### Level 1: Fighting Style
 
-You have honed your martial prowess and gain a [Fighting Style] feat of your choice (those feats have this feature as a prerequisite).
+You have honed your martial prowess and gain a Fighting Style feat of your choice (those feats have this feature as a prerequisite).
 
-Whenever you gain a Fighter level, you can replace the feat you chose with a different [Fighting Style] feat.
-
-[Fighting Style]: ../../character-creation/feat/feat-fighting-style.md
+Whenever you gain a Fighter level, you can replace the feat you chose with a different Fighting Style feat.
 
 ### Level 1: Second Wind
 

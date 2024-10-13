@@ -17,7 +17,7 @@ You can speak, read, and write Thieves' Cant. Additionally, whenever you make a 
 
 ### Level 3: Bruiser's Might
 
-Your body itself has become a weapon. You gain the [Unarmed Fighting Style](../../character-creation/feat/feat-fighting-style.md#unarmed-fighting) feat. This feat can't be replaced.
+Your body itself has become a weapon. You gain the Unarmed Fighting Style feat. This feat can't be replaced.
 
 Additionally, while you aren't wearing any Light, Medium or Heavy armour, you gain the following benefits:
 

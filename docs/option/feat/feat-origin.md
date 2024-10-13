@@ -9,7 +9,7 @@ These feats are in the Origin category
 
 ## PHB'24 Origin Feats
 
-These Origin feats are included in the 2024 Player's Handbook
+These Origin feats are included in the PHB'24
 
 ---
 

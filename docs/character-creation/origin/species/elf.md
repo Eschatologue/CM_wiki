@@ -30,7 +30,7 @@ Centuries of training and natural talent in archery and camouflage in the forest
 
 ## Elf Traits
 
-*2024 Player's Handbook Species*
+*PHB'24 Species*
 
 :material-human: **Creature Type:** Humanoid  
 :trait-size: **Size:** Medium (about 5–6 feet tall)  

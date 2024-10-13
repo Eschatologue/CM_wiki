@@ -9,7 +9,7 @@ Your experience on the battlefield has honed your fighting techniques. You learn
 
 #### Manoeuvre
 
-You learn three different Manoeuvre of your choice from the “[Manoeuvre Options](../../character-creation/option/manoeuvre.md)” section. Many Manoeuvre enhance an attack in some way. You can use only one Manoeuvre per attack.
+You learn three different Manoeuvre of your choice from the "Manoeuvre Options" section. Many Manoeuvre enhance an attack in some way. You can use only one Manoeuvre per attack.
 
 You learn two additional Manoeuvre of your choice when you reach Fighter level 7, 10, and 15. Each time you learn new Manoeuvre, you can also replace one Manoeuvre you know with a different one.
 

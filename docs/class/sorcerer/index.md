@@ -125,7 +125,7 @@ Any spell slot you create with this feature vanishes when you finish a Long Rest
 
 ### Level 2: Metamagic
 
-Because your magic flows from within, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from “[Metamagic Options](../../character-creation/option/sorcerer-metamagic/index.md)”. You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs.
+Because your magic flows from within, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from “Metamagic Options”. You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs.
 
 You can use only one Metamagic option on a spell when you cast it unless otherwise noted in one of those options.
 

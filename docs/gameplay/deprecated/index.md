@@ -118,7 +118,7 @@ Many spells requires a :d20-save: **Saving Throw** for its effect. The DC is equ
 
 #### Concentration Check
 
-Some spell requires Concentration to maintain its effect. When you take damage while Concentrating on a spell, you must make a [Concentration Check](../../character-creation/ability-scores/constitution.md#concentration-check).
+Some spell requires Concentration to maintain its effect. When you take damage while Concentrating on a spell, you must make a Concentration Check.
 
 ### Interacting with Objects
 

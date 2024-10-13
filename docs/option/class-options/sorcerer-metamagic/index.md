@@ -1,5 +1,5 @@
 ---
-icon: dnd/stat-spellcasting
+icon: class/sorcerer
 ---
 
 # Metamagic

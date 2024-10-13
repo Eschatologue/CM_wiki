@@ -6,7 +6,7 @@ Gnomes are petite folk with big eyes and pointed ears, who live around 425 years
 
 ## Gnome Traits
 
-*2024 Player's Handbook Species*
+*PHB'24 Species*
 
 :material-human: **Creature Type:** Humanoid  
 :trait-size: **Size:**  Small (about 3-4 feet tall)  

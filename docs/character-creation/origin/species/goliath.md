@@ -6,7 +6,7 @@ Goliaths have physical charateristic that are reminiscent of the giants in their
 
 ## Goliath Traits
 
-*2024 Player's Handbook Species*
+*PHB'24 Species*
 
 :material-human: **Creature Type:** Humanoid  
 :trait-size: **Size:**  Medium (about 7-8 feet tall)  

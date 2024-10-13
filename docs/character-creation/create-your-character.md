@@ -39,11 +39,9 @@ Here are the steps to make a character; each step is explored in detail in this 
 
 ### Step 1: Choosing a Class
 
-*Main Article: [Classes](../class/index.md)*
-
 Please choose a class from the available options listed.
 
-You can also choose to [Multiclass](../character-creation/multiclassing.md) when the prerequisites are met.
+You can also choose to Multiclass when the prerequisites are met.
 
 #### Write Your Level
 
@@ -131,8 +129,6 @@ In this setting, we uses the Standard Array as follow: 15, 14, 13, 12, 10, 8
 Simply assign one number to each Ability Score (one to Strength, one to Dexterity, one to Constitution, and so on). Then, you'll be able to determine your character's modifier for each score.
 
 #### Ability Scores
-
-*Main Article: [Ability Score](../character-creation/ability-scores/index.md)*
 
 Each of a creature's abilities has a score, a number that defines the magnitude of that ability. An Ability Score is not just a measure of innate capabilities, but also encompasses a creature's training and competence in activities related to that ability.
 

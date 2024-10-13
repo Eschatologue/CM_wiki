@@ -4,7 +4,7 @@ icon: material/database
 
 # Adventuring Items
 
-These adventuring items are available as part of the 2024 Player's Handbook.
+These adventuring items are available as part of the PHB'24.
 
 ---
 

@@ -24,14 +24,14 @@ nav:
     - Notable Events:
       - The Great Split: lore/event/great-split.md
   - Playing the Game:
-    - 2024 Player's Handbook Mechanics: 
+    - PHB'24 Mechanics: 
       - Dice: gameplay/phb/dice.md
       - The Six Abilities: gameplay/phb/abilities.md
       - D20 Test: gameplay/phb/d20-test.md
       - Proficiency: gameplay/phb/proficiency.md
       - Actions: 
         - gameplay/phb/actions/index.md
-        - Options: gameplay/phb/actions/options.md
+        - Options: gameplay/phb/actions/class-optionss.md
       - Exploration: gameplay/phb/exploration.md
       - Combat: gameplay/phb/combat.md
       - Damage & Healing: gameplay/phb/damage-and-healing.md
@@ -78,25 +78,26 @@ nav:
         - Londoner: character-creation/origin/species/londoner.md
         - Orc: character-creation/origin/species/orc.md
         - Tiefling: character-creation/origin/species/tiefling.md
+  - Feats & Class Options:
     - Feats: 
-      - character-creation/feat/index.md
-      - Origin Feats: character-creation/feat/feat-origin.md
-      - General Feats: character-creation/feat/feat-general.md
-      - Advanced Feats: character-creation/feat/feat-advanced.md
-      - Epic Boon: character-creation/feat/feat-boon.md
-      - Fighting Style: character-creation/feat/feat-fighting-style.md
-    - Other Options & Features:
-      - Artificer's Infusion: character-creation/option/artificer-infusion.md
+      - option/feat/index.md
+      - Origin Feats: option/feat/feat-origin.md
+      - General Feats: option/feat/feat-general.md
+      - Advanced Feats: option/feat/feat-advanced.md
+      - Epic Boon: option/feat/feat-boon.md
+      - Fighting Style: option/feat/feat-fighting-style.md
+    - Class Options:
+      - Infusion: option/class-options/artificer-infusion.md
       - Metamagic: 
-          - character-creation/option/sorcerer-metamagic/index.md
-          - PHB'24: character-creation/option/sorcerer-metamagic/phb24.md
-          - Homebrew: character-creation/option/sorcerer-metamagic/hb.md
+          - option/class-options/sorcerer-metamagic/index.md
+          - PHB'24: optios/class-options/sorcerer-metamagic/phb24.md
+          - Homebrew: option/class-options/sorcerer-metamagic/hb.md
       - Eldritch Invocations: 
-          - character-creation/option/warlock-invocations/index.md
-          - PHB'24: character-creation/option/warlock-invocations/phb24.md
-          - Supplemental: character-creation/option/warlock-invocations/supplemental.md
-          - Homebrew: character-creation/option/warlock-invocations/hb.md
-      - Combat Manoeuvre: character-creation/option/manoeuvre.md
+          - option/class-options/warlock-invocations/index.md
+          - PHB'24: option/class-options/warlock-invocations/phb24.md
+          - Supplemental: option/class-options/warlock-invocations/supplemental.md
+          - Homebrew: option/class-options/warlock-invocations/hb.md
+      - Combat Manoeuvre: option/class-options/manoeuvre.md
   - Equipment: 
       - Crafting Equipment: equipment/crafting.md
       - Magic Items: equipment/magic-item.md
@@ -330,7 +331,6 @@ markdown_extensions:
   - md_in_html
   - tables
   - toc:
-#      permalink: true
       toc_depth: 3
       slugify: !!python/object/apply:pymdownx.slugs.slugify
         kwds:

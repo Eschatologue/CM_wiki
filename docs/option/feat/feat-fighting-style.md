@@ -4,9 +4,9 @@ icon: material/sword-cross
 
 You can't take the same Fighting Style option more than once, even if you get to choose again.
 
-## 2024 Player's Handbook Fighting Style
+## PHB'24 Fighting Style
 
-These feat are included within 2024 Player's Handbook.
+These feat are included within PHB'24.
 
 ---
 

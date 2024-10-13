@@ -6,7 +6,7 @@ Orcs are, on average, tall and broad. They have gray skin, ears that are sharply
 
 ## Orc Traits
 
-*2024 Player's Handbook Species – Crown & Misery Homebrew*
+*PHB'24 Species – Crown & Misery Homebrew*
 
 :material-human: **Creature Type:** Humanoid  
 :trait-size: **Size:**  Medium (about 6-7 feet tall)  

@@ -1,5 +1,5 @@
 ---
-icon: material/eye-settings
+icon: class/warlock
 ---
 
 # Eldritch Invocations

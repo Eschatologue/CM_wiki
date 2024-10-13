@@ -1,5 +1,5 @@
 ---
-icon: material/pipe-wrench
+icon: class/artificer
 ---
 
 # Artificer Infusions

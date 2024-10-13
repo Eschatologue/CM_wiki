@@ -1,5 +1,5 @@
 ---
-icon: weapon/prop-thrown
+icon: class/fighter
 ---
 
 # Combat Manoeuvre

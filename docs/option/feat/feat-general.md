@@ -6,9 +6,9 @@ icon: material/cards-playing-diamond
 
 These Feats are in General category
 
-## 2024 Player's Handbook General Feats
+## PHB'24 General Feats
 
-These General feats are included in the 2024 Player's Handbook
+These General feats are included in the PHB'24
 
 ---
 
@@ -716,7 +716,7 @@ Increase your Strength or Dexterity score by 1, to a maximum of 20.
 **Mastery Property**  
 Your training with weapons allows you to use the mastery property of one kind of Simple or Martial weapon of your choice, provided you are proficient with it. Whenever you finish a Long Rest, you can change the kind of weapon to another eligible kind.
 
-## Crown & Misery General Feat
+## CM General Feat
 
 These General feats are homebrew
 
