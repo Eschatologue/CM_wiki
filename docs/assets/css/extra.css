@@ -361,9 +361,9 @@
 }
 
 .md-status::after {
-  width: 1.5em;
-  height: 1.5em;
-  vertical-align: text-bottom;
+  width: 1.125em;
+  height: 1.125em;
+  vertical-align: baseline;
   mask-position: center;
 }
 
