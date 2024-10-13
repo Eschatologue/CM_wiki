@@ -391,9 +391,11 @@
   margin: 0.3rem 0 0.3rem 0;
 }
 .md-typeset ul,
-.md-typeset ol,
-.md-typeset dl {
+.md-typeset ol {
   margin: 0.1rem 0 0.1rem 0;
+}
+.md-typeset dd {
+  margin: -0.1rem 0 -0.1rem 0;
 }
 .md-typeset h1,
 .md-typeset h2,
