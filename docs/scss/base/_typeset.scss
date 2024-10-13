@@ -24,9 +24,11 @@ $h4Size: $defaultFontSize * 1.115;
     }
 
     ul,
-    ol,
-    dl {
+    ol {
         margin: px2rem(2px) 0 px2rem(2px) 0;
+    }
+    dd {
+        margin: px2rem(-2px) 0 px2rem(-2px) 0;
     }
 
     // Heading Styles
