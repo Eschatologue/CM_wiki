@@ -1,12 +1,13 @@
 ---
+title: Wu Jen's Spell List
 icon: class/monk
 hide:
     - toc
 ---
 
-# Monk: Wu Jen's Spell List
+# Disciple of the Elements' Spell List
 
-This Wu Jen spell list includes all spells available from `PHB'24`, `TCE`, `XGE`, & `FTD`. For the class, see [Monk, Way of the Wu Jen](../../class/monk/wu-jen.md).
+This Wu Jen spell list includes all spells available from `PHB'24`, `TCE`, `XGE`, & `FTD`.
 
 === "Cantrip"
 

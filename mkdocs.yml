@@ -98,6 +98,7 @@ nav:
           - Supplemental: option/class-options/warlock-invocations/supplemental.md
           - Homebrew: option/class-options/warlock-invocations/hb.md
       - Combat Manoeuvre: option/class-options/manoeuvre.md
+      - Wu Jen Spells: option/class-options/wu-jen-spells.md
   - Equipment: 
       - Crafting Equipment: equipment/crafting.md
       - Magic Items: equipment/magic-item.md
@@ -237,8 +238,6 @@ nav:
     - Gaining Spells: spells/gaining-spells.md
     - Casting Spells: spells/casting-spells.md
     - Class Specific Spells:
-      - One-Third Caster:
-        - Wu Jen: spells/class-specific/wu-jen.md
       - Half-Caster:
         - Paladin: spells/class-specific/paladin.md
         - Ranger: spells/class-specific/ranger.md

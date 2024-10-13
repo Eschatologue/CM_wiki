@@ -56,7 +56,7 @@ You can draw upon your Ki to augment and regain your elemental powers.
 
 #### Prepared Spells of Level 1+
 
-You prepare a list of spells of level 1 and higher that are available for you to cast with this feature. To start, choose two level 1 spell from the [Wu Jen spell list](../../spells/class-specific/wu-jen.md).
+You prepare a list of spells of level 1 and higher that are available for you to cast with this feature. To start, choose two level 1 spell from the [Wu Jen spell list](../../option/class-options/wu-jen-spells.md).
 
 The number of spells on your list increases as you gain Monk levels, as shown in the Prepared Spells column of the Wu Jen Spellcasting table. Whenever that number increases, choose additional Wu Jen spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level no higher than what’s shown in the table’s Slot Level column for your level. When you reach level 7, for example, you learn a new Wu Jen spell, which can be of levels 1–2.
 
