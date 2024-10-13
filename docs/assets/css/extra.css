@@ -393,7 +393,7 @@
 .md-typeset ul,
 .md-typeset ol,
 .md-typeset dl {
-  margin: 0.2rem 0 0.2rem 0;
+  padding: 0.1rem 0 0.1rem 0;
 }
 .md-typeset h1,
 .md-typeset h2,
