@@ -2,7 +2,7 @@
 icon: material/sword-cross
 ---
 
-You can't take the same Fighting Style option more than once, even if you get to choose again.
+You can't take the same Fighting Style feat option more than once, even if you get to choose again.
 
 ## PHB'24 Fighting Style
 
@@ -14,7 +14,7 @@ These feat are included within PHB'24.
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-You gain a +2 bonus to :d20-attack: Attack Rolls you with weapons that has the :weapon-prop-range: **Ranged** property.
+You gain a +2 bonus to attack rolls you make with Ranged weapons.
 
 ---
 
@@ -22,7 +22,7 @@ You gain a +2 bonus to :d20-attack: Attack Rolls you with weapons that has the :
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-You have blindsight with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
+You have Blindsight with a range of 10 feet.
 
 ---
 
@@ -102,7 +102,7 @@ These Fighting Style Feature are homebrew
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-While wielding a :weapon-prop-finesse: Finesse weapon and no other weapon, you gain a +2 bonus to your :d20-attack: Attack Rolls and an +1 to your Armour Class so long you are not wearing Heavy Armour or wielding Shields.
+While wielding a :weapon-prop-finesse: Finesse weapon and no other weapon, you gain a +2 bonus to your attack rolls and an +1 to your Armour Class so long you are not wearing Heavy Armour or wielding Shields.
 
 ---
 
@@ -118,7 +118,7 @@ When you make a melee attack with a cold weapon that has :weapon-prop-heavy: Hea
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-You gain Proficiency with Shields and it can be used as a Martial Melee Weapon that deal :dmg-blunt: Bludgeoning damage equal to 2d4 + your Strength modifier. If you are wielding a shield and no other weapon, you gain a +1 bonus to Shield :d20-attack: Attack Rolls and your AC. 
+You gain Proficiency with Shields and it can be used as a Martial Melee Weapon that deal :dmg-blunt: Bludgeoning damage equal to 2d4 + your Strength modifier. If you are wielding a shield and no other weapon, you gain a +1 bonus to Shield attack rolls and your AC. 
 
 ---
 
@@ -166,7 +166,7 @@ Moreover, your attack with Ranged weapon doesn't have :d20-disadv: Disadvantage 
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-When a creature within 5 feet of you makes an attack against a creature that you can see, you can grant it :d20-adv: Advantage on its :d20-attack: Attack Roll as a :rsc-reaction: Reaction. You must be carrying a banner, flag, or standard in your hand to use this :rsc-reaction: Reaction. A holy symbol emblazoned on a shield also suffice.
+When a creature within 5 feet of you makes an attack against a creature that you can see, you can take a :rsc-reaction: Reaction to grant it :d20-adv: Advantage on its attack roll. You must be carrying a banner, flag, or standard in your hand. A holy symbol emblazoned on a shield also suffice.
 
 ---
 
@@ -176,7 +176,7 @@ When a creature within 5 feet of you makes an attack against a creature that you
 
 You can use your Strength modifier, in place of Dexterity for attack and damage rolls with ranged cold weapon, such as Longbow or Heavy Crossbows. When you do so, you gain +1 to damage rolls with those weapons.
 
-Moreover, you also use your Strength instead of your Dexterity to fufill the :weapon-prop-heavy: **Heavy** weapon property requirement for those weapons.
+Moreover, you also use your Strength instead of your Dexterity to fufill the :weapon-prop-heavy: Heavy weapon property requirement for those weapons.
 
 ---
 
@@ -184,8 +184,10 @@ Moreover, you also use your Strength instead of your Dexterity to fufill the :we
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-While wielding a single weapon with the:weapon-prop-versatile: Versatile property and no shield, you gain a +1 bonus to your :d20-attack: Attack Roll and Damage Roll with that weapon. While doing so, you can also use your :rsc-bonus-action: Bonus Action to make a single grapple or shove attack, take the Use an Object Action, or take the Utilise action.
+While wielding a single weapon with the :weapon-prop-versatile: Versatile property and no shield, you gain a +1 bonus to your attack roll and Damage Roll with that weapon. While doing so, you can also use your :rsc-bonus-action: Bonus Action to make a single grapple or shove attack, take the Use an Object Action, or take the Utilise action.
 
 ---
+
+--8<-- "includes/snippets/item-property.md"
 
 *[cold weapon]: Non-Firearm Weapons
