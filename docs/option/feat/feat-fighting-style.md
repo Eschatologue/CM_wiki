@@ -8,8 +8,6 @@ You can't take the same Fighting Style feat option more than once, even if you g
 
 These feat are included within PHB'24.
 
----
-
 ### Archery
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
@@ -90,11 +88,11 @@ When you do damage with Unarmed Strikes, it deals Bludgeoning damage equal to :d
 
 At the start of each of your turns, you can deal 1d4 Bludgeoning damage to one creature that receive the Grappled condition from you.
 
+---
+
 ## Crown & Misery Fighting Style
 
 These Fighting Style Feature are homebrew
-
----
 
 ### Gallian Swordplay
 
@@ -185,7 +183,3 @@ Moreover, you also use your Strength instead of your Dexterity to fufill the :we
 While wielding a single weapon with the :weapon-prop-versatile: Versatile property and no shield, you gain a +1 bonus to your attack roll and Damage Roll with that weapon. While doing so, you can also use your :rsc-bonus-action: Bonus Action to make a single grapple or shove attack, take the Use an Object Action, or take the Utilise action.
 
 ---
-
---8<-- "includes/snippets/item-property.md"
-
-*[cold weapon]: Non-Firearm Weapons
