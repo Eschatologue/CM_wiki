@@ -22,7 +22,7 @@ Your tinkering with Arcane Firearm ensures you always have certain spells ready.
 
 ##### Gunslinger Spells
 
-| Artificer Level | Armourer Spells |
+| Artificer Level | Spells |
 |:-:|:--|
 | 3 | *Chaos Bolt*, *Guiding Bolt* |
 | 5 | *Melf's Acid Arrow*, *Arcane Scorcher* |

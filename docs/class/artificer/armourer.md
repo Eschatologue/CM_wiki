@@ -19,7 +19,7 @@ Your tinkering with Arcane Armour ensures you always have certain spells ready. 
 
 ##### Armourer Spells
 
-| Artificer Level | Armourer Spells |
+| Artificer Level | Spells |
 |:-:|:--|
 | 3 | *Magic Missile*, *Thunderwave* |
 | 5 | *Mirror Image*, *Shatter* |

@@ -19,7 +19,7 @@ In addition, whenever you make an ability check with Woodcarver’s Tools, you c
 Your experimentation with explosive magic ensures you always have certain spells ready. When you reach an Artificer level specified in the Artillerist Spells table, you thereafter always have the listed spells prepared.
 
 ##### Artilerist Spells
-| Artificer Level | Artillerist Spells |
+| Artificer Level | Spells |
 |:-:|:--|
 | 3 | *Shield*, *Thunderwave* |
 | 5 | *Scorching Ray*, *Shatter* |

@@ -16,7 +16,7 @@ When you adopt this specialization, you gain proficiency with alchemist's suppli
 
 You always have certain spells prepared after you reach particular levels in this class, as shown in the Alchemist Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.
 
-| Artificer Level | Alchemist Spells |
+| Artificer Level | Spells |
 |:-:|:--|
 | 3 | *Healing Word*, *Ray of Sickness* |
 | 5 | *Flaming Sphere*, *Melf's Acid Arrow* |
