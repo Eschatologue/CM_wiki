@@ -94,7 +94,9 @@ $h4Size: $defaultFontSize * 1.115;
 }
 
 .centre {
-    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .xxxxl {
