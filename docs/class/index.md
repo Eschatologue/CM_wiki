@@ -18,12 +18,19 @@ Each class is a part of a Class Group-a set of Classes that have certain feature
 
 Character class provides a character's most exciting capabilities. This chapter offers twelve classes, each of which contains several subclasses—all summarized below.
 
-:class-barbarian:{ .xl .middle } ***Barbarian.*** Storm with Rage, and wade into hand-to-hand combat. Then follow the Path of the...
+---
 
-:   Path of the Berserker to unleash raw violence.
-:   Path of the Wild Heart to manifest kinship with animals.
-:   Path of the World Tree to tap into cosmic vitality.
-:   Path of the Zealot to rage in union with a god.
+:class-barbarian:{ .xxl .middle } 
 
+### Barbarian 
+
+Storm with Rage, and wade into hand-to-hand combat. Then follow the Path of the...
+
+:   **Path of the Berserker** to unleash raw violence.
+:   **Path of the Wild Heart** to manifest kinship with animals.
+:   **Path of the World Tree** to tap into cosmic vitality.
+:   **Path of the Zealot** to rage in union with a god.
+
+---
 
 
