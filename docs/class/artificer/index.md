@@ -71,21 +71,28 @@ Whenever you finish a Short Rest, you can regain one expended spell slot of your
 
 ### Level 1: Arcane Tinkerer
 
-Your knack for tinkering has taught you to store minor magical effects in mundane objects. You know the *[Magical Tinkering](../../spells/description/m.md#magical-tinkering)* cantrip, which doesn’t count against the number of cantrips you know.
+Your knack for tinkering has taught you to store minor magical effects in mundane objects. You know the *[Magical Tinkering]* cantrip, which doesn’t count against the number of cantrips you know.
 
 Further, whenever you make an ability check with Tinker’s Tools, you can use your Intelligence as the ability, instead of Dexterity.
 
+[Magical Tinkering]: ../../spells/description/m.md#magical-tinkering
+
 ### Level 1: Spellcasting
 
-You’ve studied the workings of magic and how to cast spells, channeling the magic through objects. To observers, you don’t appear to be casting spells in a conventional way; you appear to produce wonders from mundane items and outlandish inventions. The information below details how you use those rules with Artificer spells.
+You’ve studied the workings of magic and how to cast spells, which appear in the [Artificer spell list] later in the class’s description. 
+
+You cast spells by channeling the magic through objects. To observers, you don’t appear to be casting spells in a conventional way; you appear to produce wonders from mundane items and outlandish inventions. The information below details how you use those rules with Artificer spells.
 
 #### Cantrips 
 
-You know two cantrips of your choice from the Artificer spell list. Fire Bolt and Mending are recommended.
+You know two cantrips of your choice from the [Artificer spell list]. *[Fire Bolt]* and *[Mending]* are recommended.
 
-Whenever you gain an Artificer level, you can replace one of your cantrips with another cantrip of your choice from the Artificer spell list.
+Whenever you gain an Artificer level, you can replace one of your cantrips with another cantrip of your choice from the [Artificer spell list].
 
-When you reach Artificer levels 10 and 14, you learn another cantrip of your choice from the Artificer spell list, as shown in the Cantrips column of the Artificer Features table.
+When you reach Artificer levels 10 and 14, you learn another cantrip of your choice from the [Artificer spell list], as shown in the Cantrips column of the Artificer Features table.
+
+[Fire Bolt]: ../../spells/description/core/cantrip.md#fire-bolt
+[Mending]: ../../spells/description/core/cantrip.md#mending
 
 #### Spell Slots
 
@@ -93,11 +100,15 @@ The Artificer Features table shows how many spell slots you have to cast your le
 
 #### Prepared Spells of Level 1+
 
-You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Artificer spells. Faerie Fire and Identify are recommended.
+You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Artificer spells. *Faerie Fire* and *Identify* are recommended.
 
 The number of spells on your list increases as you gain Artificer levels, as shown in the Prepared Spells column of the Artificer Features table. Whenever that number increases, choose additional Artificer spells until the number of spells on your list matches the number in the Artificer Features table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 5 Artificer, your list of prepared spells can include six Artificer spells of level 1 or 2 in any combination.
 
 If another Artificer feature gives you spells that you may always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Artificer spells for you.
+
+[Faerie Fire]: ../../spells/description/core/level-1.md#faerie-fire
+[Identify]: ../../spells/description/core/level-1.md#identify
+
 
 #### Changing Your Prepared Spells
 
@@ -113,13 +124,15 @@ You produce your Artificer spell effects through your tools. You must have a spe
 
 After you gain the Infuse Item feature at level 2, you can also use any item bearing one of your infusions as a spellcasting focus.
 
+[Artificer spell list]:../../spells/class-specific/artificer.md
+
 ### Level 2: Infuse Item
 
 You've gained the ability to imbue mundane items with certain magical infusions, turning those objects into magic items.
 
 #### Infusions Known
 
-When you gain this feature, pick four Artificer Infusions to learn. You learn additional infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the Artificer table.
+When you gain this feature, pick four Artificer Infusions to learn, choosing from the "[Artificer Infusions]" section. You learn additional infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the Artificer table.
 
 Whenever you gain a level in this class, you can replace one of the Artificer infusions you learned with a new one.
 
@@ -153,13 +166,18 @@ You can infuse more than one nonmagical object at the end of a Long Rest; the ma
 
 If an Infusion ends on an item that contains other things, like a Bag of Holding, its contents harmlessly appear in and around its space.
 
+[Artificer Infusions]: ../../option/class-options/artificer-infusion.md
+
 ### Level 3: Artificer Subclass
 
 You gain an Artificer subclass of your choice. A subclass is a specialization that grants you features at certain Artificer levels. For the rest of your career, you gain each of your subclass’s features that are of your Artificer level or lower.
 
 ### Level 3: The Right Tool for the Job
 
-You've learned how to produce exactly the tool you need: with Thieves' Tools or Artisan's Tools in hand, you can magically create one set of Artisan's Tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a Short or Long Rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.
+You've learned how to produce exactly the tool you need: with [Thieves' Tools] or [Artisan's Tools] in hand, you can magically create one set of [Artisan's Tools] in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a Short or Long Rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.
+
+[Thieves' Tools]: ../../equipment/tools/other-tools.md#thieves-tools
+[Artisan's Tools]: ../../equipment/tools/artisan-tools.md
 
 ### Level 4: Ability Score Improvement
 
@@ -171,7 +189,7 @@ Your proficiency bonus is now doubled for any ability check you make that uses y
 
 ### Level 7: Flash of Genius
 
-You've gained the ability to come up with solutions under pressure. When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your reaction to add your Intelligence modifier to the roll.
+You've gained the ability to come up with solutions under pressure. When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your Reaction to add your Intelligence modifier to the roll.
 
 You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest.
 
@@ -179,12 +197,13 @@ You can use this feature a number of times equal to your Intelligence modifier (
 
 You've achieved a profound understanding of how to use and make magic items:
 
-You can attune to up to four magic items at once.
-If you craft a magic item with a rarity of common or uncommon, it takes you a quarter of the normal time, and it costs you half as much of the usual gold.
+***Five Magic Items.*** You can attune to up to four magic items at once.
+
+***Magic Crafting.*** If you craft a magic item with a rarity of common or uncommon, it takes you a quarter of the normal time, and it costs you half as much of the usual gold.
 
 ### Level 11: Spell-Storing Item
 
-You can now store a spell in an object. Whenever you finish a long rest, you can touch one simple or martial weapon or one item that you can use as a spellcasting focus, and you store a spell in it, choosing a level 1 or 2 spell from the Artificer spell list that requires an Action to cast (you needn't have it prepared).
+You can now store a spell in an object. Whenever you finish a long rest, you can touch one simple or martial weapon or one item that you can use as a spellcasting focus, and you store a spell in it, choosing a level 1 or 2 spell from the [Artificer spell list] that requires an Action to cast (you needn't have it prepared).
 
 While holding the object, a creature can take an action to produce the spell's effect from it, using your spellcasting ability modifier. If the spell requires concentration, the creature must concentrate. The spell stays in the object until it's been used a number of times equal to twice your Intelligence modifier (minimum of twice) or until you use this feature again to store a spell in an object.
 
@@ -209,3 +228,5 @@ You have developed a mystical connection to your magic items, which you can draw
 ***Armored Soul.*** You gain a +1 bonus to all saving throws per magic item you are currently attuned to.
 
 ***Infusion Contingency.*** If you’re reduced to 0 Hit Points but not killed out-right, you can use your Reaction to end one of your Infusions, causing you to drop to 1 hit point instead of 0, and you instantly regain 30 Hit Points.
+
+--8<-- "includes/snippets/skills.md"
