@@ -97,26 +97,6 @@ copyright: |
 
 # Nav
 nav:
-  - Lore:
-    - Antares: 
-      - lore/antares/index.md
-      - Nation-states:
-        - London: lore/antares/nation/london.md
-        - Myrkheim: lore/antares/nation/myrkheimr.md
-        - Valinor: lore/antares/nation/valinor.md
-    - The Warp:
-      - lore/warp/index.md
-      - Warp Storm: lore/warp/warp-storm.md
-      - Entities: lore/warp/warp-entities.md
-    - Pantheon: 
-      - lore/pantheon/index.md
-      - Spires:
-        - The Destruction: lore/pantheon/spire-destruction.md
-        - The Perseverance: lore/pantheon/spire-perseverance.md
-        - The Judgement: lore/pantheon/spire-judgement.md
-        - The Harmony: lore/pantheon/spire-harmony.md
-    - Notable Events:
-      - The Great Split: lore/event/great-split.md
   - Playing the Game:
     - PHB'24 Mechanics: 
       - Dice: gameplay/phb/dice.md
@@ -235,7 +215,6 @@ nav:
         - Lore: class/bard/lore.md
         - Valour: class/bard/valour.md
         - Skald: class/bard/skald.md
-        - Swords: class/bard/swords.md
       - Ranger: 
         - class/ranger/index.md
         - Beast Master: class/ranger/beast-master.md
@@ -249,8 +228,9 @@ nav:
         - Assassin: class/rogue/assassin.md
         - Soulknife: class/rogue/soulknife.md
         - Thief: class/rogue/thief.md
-        - Saboteur: class/rogue/saboteur.md
+        - Scout: class/rogue/scout.md
         - Swashbuckler: class/rogue/swashbuckler.md
+        - Saboteur: class/rogue/saboteur.md
     - Mage Group:
       - Sorcerer:
         - class/sorcerer/index.md
@@ -258,8 +238,8 @@ nav:
         - Clockwork Sorcery: class/sorcerer/clockwork.md
         - Draconic Sorcery: class/sorcerer/draconic.md
         - Wild Magic Sorcery: class/sorcerer/wild.md
-        - Reborn: class/sorcerer/reborn.md
         - Stone Sorcery: class/sorcerer/stone.md
+        - Reborn: class/sorcerer/reborn.md
         - Voidwielder: class/sorcerer/voidwielder.md
       - Warlock:
         - class/warlock/index.md
@@ -369,3 +349,23 @@ nav:
       - John K. Godsmith: campaign/player-chr/john-godsmith.md
       - Ydastriel Khaine: campaign/player-chr/ydastriel-khaine.md
       - Eris Decrat: campaign/player-chr/eris-dekrat.md
+  - Lore:
+    - Antares: 
+      - lore/antares/index.md
+      - Nation-states:
+        - London: lore/antares/nation/london.md
+        - Myrkheim: lore/antares/nation/myrkheimr.md
+        - Valinor: lore/antares/nation/valinor.md
+    - The Warp:
+      - lore/warp/index.md
+      - Warp Storm: lore/warp/warp-storm.md
+      - Entities: lore/warp/warp-entities.md
+    - Pantheon: 
+      - lore/pantheon/index.md
+      - Spires:
+        - The Destruction: lore/pantheon/spire-destruction.md
+        - The Perseverance: lore/pantheon/spire-perseverance.md
+        - The Judgement: lore/pantheon/spire-judgement.md
+        - The Harmony: lore/pantheon/spire-harmony.md
+    - Notable Events:
+      - The Great Split: lore/event/great-split.md
