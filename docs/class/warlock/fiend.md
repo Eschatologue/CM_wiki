@@ -20,7 +20,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 |:-:|---|
 | 3 | *Burning Hands*, *Command*, *Scorching Ray*, *Suggestion* |
 | 5 | *Fireball*, *Stinking Cloud* |
-| 7 | *Fire Shield*,* Wall of Fire* |
+| 7 | *Fire Shield*, *Wall of Fire* |
 | 9 | *Geas*, *Insect Plague* |
 
 ### Level 6: Dark One’s Own Luck

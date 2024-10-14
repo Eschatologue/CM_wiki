@@ -4,7 +4,7 @@ title: The Great Old One Patron
 
 # The Great Old One Patron
 
-> *Unearth Forbidden Lore of Inedffable Beings*
+> *Unearth Forbidden Lore of Ineffable Beings*
 
 When you choose this subclass, you might bind yourself to an ineffable being from the Far Realm or an elder god known only in legend—a being such as Ghaunadar, called That Which Lurks; Tharizdun, the Chained God; Dendar, the Night Serpent; Zargon, the Returner; Great Cthulhu; or some other unfathomable and uncaring being. Or you might rely on eldritch lore invoking the names of several such entities, without yoking yourself to one in particular. The motives of these beings are incomprehensible to mortals, and their knowledge is so immense and ancient that even the greatest libraries pale in comparison to the vast secrets they hold. The Great Old One might be indifferent to your existence, but the secrets you have learned nevertheless allow you to draw your magic from it.
 
@@ -22,10 +22,10 @@ The magic of your otherworldly patron ensures you always have certain spells rea
 
 | Warlock Level | Spells |
 |:-:|---|
-| 3 | Detect Thoughts, Dissonant Whispers, Phantasmal Force, Tasha's Hideous Laughter |
-| 5 | Clairvoyance, Hunger of Hadar |
-| 7 | Confusion, Summon Aberration |
-| 9 | Modify Memory, Telekinesis |
+| 3 | *Detect Thoughts*, *Dissonant Whispers*, *Phantasmal Force*, *Tasha's Hideous Laughter* |
+| 5 | *Clairvoyance*, *Hunger of Hadar* |
+| 7 | *Confusion*, *Summon Aberration* |
+| 9 | *Modify Memory*, *Telekinesis* |
 
 ### Level 3: Psychic Spells
 
