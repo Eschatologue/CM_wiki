@@ -18,5 +18,5 @@ Each class is a part of a Class Group-a set of Classes that have certain feature
 
 Character class provides a character's most exciting capabilities. This chapter offers twelve classes, each of which contains several subclasses—all summarized below.
 
-:class-barbarian: { .ich1 .centre }
+:class-barbarian:{ .ich1 .centre }
 
