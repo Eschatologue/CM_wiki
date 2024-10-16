@@ -57,7 +57,7 @@ Through your explorations into alchemy you have learned to make explosive concoc
 
 The radius of this explosion increases to 10 feet when you reach level 9 in this class.
 
-### Level 6: Alchemical Savant
+### Level 5: Alchemical Savant
 
 You've developed masterful command of magical chemicals, enhancing the healing and damage you create through them.
 

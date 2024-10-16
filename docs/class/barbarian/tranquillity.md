@@ -9,7 +9,7 @@ status: homebrew
 
 For Barbarians who walk the Path of Tranquillity, Rage is a bottomless well of calm and reason. They draw upon this power to achieve extraordinary focus in battle and they channel this clarity into devastating effects.
 
-### Level 3: Primal Superiority
+### Level 3: Combat Superiority
 
 You have studied martial techniques to enhance your skill in battle. You learn Manoeuvre from the Fighter's Battle Master subclass that are fueled by special dice called Superiority Dice.
 
