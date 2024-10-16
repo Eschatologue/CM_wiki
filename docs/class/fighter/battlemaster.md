@@ -9,13 +9,15 @@ Your experience on the battlefield has honed your fighting techniques. You learn
 
 #### Manoeuvre
 
-You learn three different Manoeuvre of your choice from the "Manoeuvre Options" section. Many Manoeuvre enhance an attack in some way. You can use only one Manoeuvre per attack.
+You learn three different Manoeuvre of your choice from the "[Manoeuvre Options]" section. Many Manoeuvre enhance an attack in some way. You can use only one Manoeuvre per attack.
 
 You learn two additional Manoeuvre of your choice when you reach Fighter level 7, 10, and 15. Each time you learn new Manoeuvre, you can also replace one Manoeuvre you know with a different one.
 
+[Manoeuvre Options]: ../../option/class-options/manoeuvre.md
+
 #### Superiority Dice
 
-You have four Superiority Dice, which are :die-d8: d8s. A Superiority Die is expended when you use it. You regain all expended Superiority Dice when you finish a Short Rest or Long Rest.
+You have four Superiority Dice, which are :die-d8: **d8s**. A Superiority Die is expended when you use it. You regain all expended Superiority Dice when you finish a Short Rest or Long Rest.
 
 You gain an additional Superiority Die when you reach Fighter level 7 (five dice total) and 15 (six dice total)
 
@@ -35,14 +37,14 @@ Once you use this feature, you can't do so again until you finish a Long Rest. Y
 
 ### Level 10: Improved Combat Superiority
 
-Your Superiority Die becomes a :die-d10: **d10**.
+Your Superiority Die becomes a :die-d10: **d10s**.
 
 ### Level 15: Relentless
 
-Once per turn, when you use a Manoeuvre, you can roll a d8 and use the number rolled instead of expending a Superiority Die.
+Once per turn, when you use a Manoeuvre, you can roll a **d8** and use the number rolled instead of expending a Superiority Die.
 
 ### Level 18: Ultimate Combat Superiority
 
-Your Superiority Die becomes a :die-d12: **d12**.
+Your Superiority Die becomes a :die-d12: **d12s**.
 
 

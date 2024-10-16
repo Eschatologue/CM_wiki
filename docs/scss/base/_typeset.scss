@@ -87,6 +87,11 @@ $h4Size: $defaultFontSize * 1.115;
     }
 }
 
+.italic-text {
+    font-style: italic;
+    font-weight: $defaultFontWeight * 1.25
+}
+
 // Custom Font Size Classes
 .ich1 {
     font-size: 4.5rem;
