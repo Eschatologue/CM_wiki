@@ -6,13 +6,13 @@ search:
 
 # Technology & Magic
 
-In Antares, or the Crown & Misery setting, technology and magic are not merely parallel constructs; they are intricately compatible, often amplifying each other's potency. However, this bleak world views such progress with suspicion and fear. Many problems are still resolved through brute force and superstition, casting a shadow over the potential of this synergy.
+In Antares, or the Crown & Misery setting, technology and magic are not merely parallel constructs; they are intricately compatible, often amplifying each other's potency. However, this bleak world views such progress with suspicion and fear. Many problems are still resolved through brute force and superstition.
 
-For millennia, technology has been synonymous with magic, a legacy left by the precursors. This understanding was further refined by the Elves of Tähdenvalta and dissected by the spellcasters of Gallia. Together, they forged a singular pathway, guiding Antares from its savage beginnings to its current state of existence. That is, until London arrived.
+Magic is a legacy left by the precursors and was further refined by the Elves of Tähdenvalta and dissected by the spellcasters of Gallia. Together, they forged a singular pathway, guiding Antares from its savage beginnings to its current state of existence. That is, until London arrived.
 
 The total capitulation of Tähdenvalta during the Great Split exposed the world to an entirely different paradigm of civilisational development. The existence of a powerful nation like London, thriving without a trace of arcane influence, challenges the very foundations of understanding. The notion of a civilisation flourishing without magic is as bewildering as the idea of a human surviving without air.
 
-This section delves into the complex relationship between technology and magic in Antares, exploring their origins, societal impacts, and the delicate balance that defines existence in this dystopian world. As factions rise and fall, grasping the interplay between these forces becomes essential for anyone seeking to carve out a place in this unforgiving world.
+This section delves into the complex relationship between technology and magic in Antares, exploring their origins, societal impacts, and the delicate balance that defines existence in this world. As factions rise and fall, grasping the interplay between these forces becomes essential for anyone seeking to carve out a place in this unforgiving world.
 
 ## Origin of Magic
 
