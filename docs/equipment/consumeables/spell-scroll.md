@@ -33,7 +33,7 @@ The spell's level on the scroll determines its saving throw DC and attack bonus,
 |---|:--|:-:|:-:|
 | Common | :spell-level-0: Cantrip | 13 | +5 |
 | Common | :spell-level-1: Level 1 | 13 | +5 |
-| Uncommon | :spell-level-2: L3vel 2 | 13 | +5 |
+| Uncommon | :spell-level-2: Level 2 | 13 | +5 |
 | Uncommon | :spell-level-3: Level 3 | 15 | +7 |
 | Rare | :spell-level-4: LEvel 4 | 15 | +7 |
 | Rare | :spell-level-5: Level 5 | 17 | +9 |
