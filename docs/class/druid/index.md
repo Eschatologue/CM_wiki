@@ -148,7 +148,9 @@ When choosing known forms, you may look in the Monster Manual or elsewhere for e
 | 4 | 6 | 1/2 | No |
 | 8 | 8 | 1 | Yes |
 
-***Rules While Shape-Shifted.*** While in a form, you retain your personality, memories, and ability to speak, and the following rules apply:
+#### Rules While Shape-Shifted
+
+While in a form, you retain your personality, memories, and ability to speak, and the following rules apply:
 
 ***Temporary Hit Points.*** When you assume a Wild Shape form, you gain a number of Temporary Hit Points equal to your Druid level.
 
