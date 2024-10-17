@@ -352,10 +352,16 @@ nav:
   - Lore:
     - Antares: 
       - lore/antares/index.md
-      - Nation-states:
+      - Nations:
         - London: lore/antares/nation/london.md
         - Myrkheim: lore/antares/nation/myrkheimr.md
         - Valinor: lore/antares/nation/valinor.md
+      # - Geography:
+      #   - Landmarks: lore/antares/geo/landmarks.md
+    - Technology and Magic:
+      - lore/technology-and-magic/index.md
+      # - Technology: lore/technology-and-magic/technology.md
+      # - Magic: lore/technology-and-magic/magic.md
     - The Warp:
       - lore/warp/index.md
       - Warp Storm: lore/warp/warp-storm.md
@@ -369,3 +375,4 @@ nav:
         - The Harmony: lore/pantheon/spire-harmony.md
     - Notable Events:
       - The Great Split: lore/event/great-split.md
+    # - Glossary: lore/glossary.md
