@@ -13,14 +13,21 @@ Many druids of this circle keep records of the constellations and the stars' eff
 
 ### Level 3: Star Map
 
-You've created a star chart as part of your heavenly studies. It is a Tiny object and can serve as a spellcasting focus for your druid spells. You determine its form by rolling on the Star Map table or by choosing one.
+You've created a star chart as part of your heavenly studies. It is a Tiny object and can serve as a spellcasting focus for your druid spells. You determine its form by rolling on the [Star Map table] or by choosing one.
+
+[Star Map table]: #star-map
 
 While holding this map, you have these benefits:
 
-- You know the *Guidance* cantrip and *Guiding Bolt* spell prepared. They counts as a Druid spell for you, and it doesn't count against the number of spells you can have prepared.
-- You can cast *Guiding Bolt* without expending a spell slot. You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
+- You know the *[Guidance]* cantrip and *[Guiding Bolt]* spell prepared. They counts as a Druid spell for you, and it doesn't count against the number of spells you can have prepared.
+- You can cast *[Guiding Bolt]* without expending a spell slot. You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
+
+[Guidance]: ../../spells/description/core/cantrip.md#guidance
+[Guiding Bolt]: ../../spells/description/core/level-1.md#guiding-bolt
   
 If you lose the map, you can perform a 1-hour ceremony to magically create a replacement. This ceremony can be performed during a Short Rest or Long Rest, and it destroys the previous map.
+
+##### Star Map 
 
 | d6 | Map Form |
 |:-:|---|
@@ -35,7 +42,7 @@ If you lose the map, you can perform a 1-hour ceremony to magically create a rep
 
 As a Bonus Action, you can expend a use of your Wild Shape feature to take on a starry form, rather than shape shifting.
 
-While in your starry form, you retain your game statistics, but your body becomes luminous; your joints glimmer like stars, and glowing lines connect them as on a star chart. This form sheds Bright Light in a 10-foot radius and Dim Light for an additional 10 feet. The form lasts for 10 minutes. It ends early if you dismiss it (no action required), have the Incapacitated condition, or use this feature again/
+While in your starry form, you retain your game statistics, but your body becomes luminous; your joints glimmer like stars, and glowing lines connect them as on a star chart. This form sheds Bright Light in a 10-foot radius and Dim Light for an additional 10 feet. The form lasts for 10 minutes. It ends early if you dismiss it (no action required), have the Incapacitated condition, or use this feature again.
 
 Whenever you assume your starry form, choose which of the following constellations glimmers on your body; your choice gives you certain benefits while in the form:
 
@@ -45,7 +52,7 @@ Whenever you assume your starry form, choose which of the following constellatio
 
 ***Dragon.*** A constellation of a wise dragon appears on you. When you make an Intelligence or a Wisdom check or a Constitution saving throw to maintain concentration on a spell, you can treat a roll of 9 or lower on the d20 as a 10.
 
-When you reach Druid level 14, while in your Starry Form, you become partially incorporeal, giving you Resistance to Bludgeoning, Piercing, and Slashing damage.
+At Druid **level 14**, while in your Starry Form, you become partially incorporeal, giving you Resistance to Bludgeoning, Piercing, and Slashing damage.
 
 ### Level 6: Cosmic Omen
 
@@ -67,6 +74,6 @@ Moreover, at the start of each of your turns while in your Starry Form, you can 
 
 Your connection to the cosmos lets you summon radiant starlight. As a Magic action, you conjure a burst of light in a 30-foot-radius sphere centered on a point within 120 feet of you. You can teleport each willing creature in the area to an unoccupied space within 30 feet of its current location.
 
-Any creature remaining in the Sphere must make a Constitution saving throw against your spell save DC. On a failed save, the creature takes Radiant damage equal to a number of d10s equal to your Wisdom modifier and has the Blinded condition until the end of your next turn. On a successful save, the creature only takes half damage.
+Any creature remaining in the Sphere must make a Constitution saving throw against your spell save DC. On a failed save, the creature takes Radiant damage and has the Blinded condition until the end of your next turn. On a successful save, the creature only takes half damage. To determine the damage, roll a number of d10s equal to your Wisdom modifier and add them together.
 
 Once you use this feature, you can’t use it again until you finish a Long Rest, or you can expend a level 5+ spell slot to regain your use of it (no action required).

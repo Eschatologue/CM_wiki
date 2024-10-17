@@ -14,10 +14,10 @@ Whenever you finish a Long Rest, choose one type of land: arid, polar, temperate
 
 | Druid Level | Arid Land | Polar Land | Temperate Land | Tropical Land |
 |:-:|---|---|---|---|
-| 3 | Blur, Burning Hands, Fire Bolt | Fog Cloud, Hold Person, Ray of Frost | Misty Step, Shocking Grasp, Sleep | Acid Splash, Ray of Sickness, Web |
-| 6 | Fireball | Sleet Storm | Lightning Bolt | Stinking Cloud |
-| 7 | Blight | Ice Storm | Freedom of Movement | Polymorph |
-| 9 | Wall of Stone | Cone of Cold | Tree Stride | Insect Plague |
+| 3 | *Blur*, *Burning Hands*, *Fire Bolt* | *Fog Cloud*, *Hold Person*, *Ray of Frost* | *Misty Step*, *Shocking Grasp*, *Sleep* | *Acid Splash*, *Ray of Sickness*, *Web* |
+| 6 | *Fireball* | *Sleet Storm* | *Lightning Bolt* | *Stinking Cloud* |
+| 7 | *Blight* | *Ice Storm* | *Freedom of Movement* | *Polymorph* |
+| 9 | *Wall of Stone* | *Cone of Cold* | *Tree Stride* | *Insect Plague* |
 
 ### Level 3: Land’s Aid
 As a Magic action, you can expend a use of your Wild Shape and choose a point within 60 feet of yourself. Vitality-giving flowers and life-draining thorns appear for a moment in a 10-foot-radius Sphere centered on that point. Each creature of your choice in the Sphere must make a Constitution saving throw against your spell save DC, taking 2d6 Necrotic damage on a failed save or half as much damage on a successful one. One creature of your choice in that area regains 2d6 Hit Points.

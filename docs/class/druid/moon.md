@@ -32,10 +32,10 @@ In addition, you can cast the spells from this feature while you are in Wild Sha
 
 | Druid Level | Spells Prepared |
 |:---:|:---|
-| 3 | Cure Wounds, Moonbeam, Starry Wisp |
-| 5 | Vampiric Touch |
-| 7 | Fount of Moonlight* |
-| 9 | Dawn |
+| 3 | *Cure Wounds*, *Moonbeam*, *Starry Wisp* |
+| 5 | *Vampiric Touch* |
+| 7 | *Fount of Moonlight* |
+| 9 | *Dawn* |
 
 ### Level 6: Improved Circle Forms
 

@@ -11,19 +11,23 @@ What does it mean to be truly natural? Can a being made of wood and steel posses
 
 ### Level 3: Caretaker of Irminsul
 
-You gain proficiency with Tinker's Tool or Smith's Tool, and one type of Artisan's Tools of your choice. You can use your Wisdom when you make ability checks using those tools.
+You have attuned yourself to both nature and the spirits that presides inside machines, granting you the following benefits:
 
-### Level 3: Skin of Steel
+***Mending.*** You know the *[Mending]* cantrip. While in your Wild Shape form, when a *[Mending]* cantrip is cast on you, you restore Hit Points equal to 2d6 + the caster's spellcasting ability. You can cast this cantrip at yourself even while in Wild Shape form.
 
-Through the fusion of ancient druidic techniques and advanced technology, you enhance your Wild Shape with mechanical augmentations, granting you the following benefits:
+***Proficiency.*** You gain proficiency with Tinker's Tool or Smith's Tool, and one type of Artisan's Tools of your choice. You can use your Wisdom when you make ability checks using those tools.
 
-***Challenge Rating***. The maximum Challenge Rating for the form equals your Druid level divided by 3 (round down).
+[Mending]: ../../spells/description/core/cantrip.md#mending
 
-***Armour Class.*** Your AC becomes 13 + your Wisdom modifier while in this form.
+### Level 3: Skin of Steel  
 
-***Temporary Hit Points.*** You gain temporary hit points equal to three times your Druid level.
+Through the fusion of ancient druidic techniques and advanced technology, you enhance your Wild Shape with mechanical augmentations.
 
-***Poison Resistance.*** You have advantage on saving throws against being poisoned, and you gain resistance to poison damage.
+You gain the benefit of the [Circle Forms](moon.md#level-3-circle-forms) feature granted by Level 3 Moon Druid subclass, in addition of the following benefits:
+
+***Creature Type.*** While in your Wild Shape, you're also considered a Construct in addition of the type of the creature you turn into. 
+
+***Resistance.*** You have Advantage on saves to gain and end the Poisoned condition, and you gain Resistance to Poison damage.
 
 ***Machine Body.*** While transformed, you do not need to eat, drink, or breathe.
 
@@ -33,21 +37,11 @@ While in your Wild Shape form, your body is visibly artificial, with muscles rep
 
 ### Level 6: Implements of the Beast
 
-You gain the ability to imbue your Wild Shape attacks with elemental power—charging your claws with electricity or unleashing flames from your fangs.
+You can transform the natural weapons of your Wild Shape form into fearsome, mechanical-like enhancements. For example, you might reshape claws into chainsaws, turn tails into bladed whips, or convert fangs into piercing drills.
 
-When you use Wild Shape, choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. While in Wild Shape, your attacks can deal the chosen damage type instead of their normal damage type.
+After a Long Rest, you can choose a number of weapon Mastery properties equal to half your Wisdom modifier (rounded down). While in your Wild Shape form, when you make a melee or ranged attack using the creature's feature, you can apply one of the chosen Mastery properties to that attack, even if you do not meet its usual prerequisites. However, you cannot select the Nick Mastery property.
 
-When you use this ability on a creature, your attack has an additional effect, determined by which damage type you selected when you used Wild Shape.
-
-***Acid.*** The target's AC is reduced by an amount equal to half your Wisdom modifier (minimum of 1) until the start of your next turn.
-
-***Cold.*** The target's Speed is reduced by 10 feet until the start of your next turn.
-
-***Fire.*** The attack deals extra 1d8 Fire damage and a flammable object hit by this attack starts burning if it isn't being worn or carried.
-
-***Lightning.*** The target's can't take Reactions until the start of your next turn.
-
-***Thunder.*** The target has :d20-disadv: Disadvantage on attack rolls against targets other than you until the start of your next turn.
+You may choose a new set of Mastery properties after each Long Rest.
 
 ### Level 10: Adamantine Hide 
 
@@ -55,4 +49,4 @@ While you are in Wild Shape form, you gain Resistance to :dmg-blunt: Bludgeoning
 
 ### Level 14: Constructed Perfection
 
-While you are in Wild Shape form, you are immune to conditions such as: Charmed, Frightened, Paralyzed, Petrified, and Poisoned. In addition, you are immune to :dmg-poison: Poison damage.
+While you are in Wild Shape form, you are immune to conditions such as: Charmed, Frightened, Paralyzed, Petrified, and Poisoned. In addition, you have Immunity to :dmg-poison: Poison damage.

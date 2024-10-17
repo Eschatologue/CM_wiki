@@ -16,10 +16,10 @@ Your connection to this circle ensures that you always have certain spells ready
 
 | Druid Level | Spells Prepared |
 |:-:|---|
-| 3 | Fog Cloud, Gust of Wind, Ray of Frost, Shatter, Thunderwave |
-| 5	| Lightning Bolt, Water Breathing | 
-| 7	| Control Water, Ice Storm |
-| 9	| Conjure Elemental, Hold Monster |
+| 3 | *Fog Cloud*, *Gust of Wind*, *Ray of Frost*, *Shatter*, *Thunderwave* |
+| 5	| *Lightning Bolt*, *Water Breathing* | 
+| 7	| *Control Water*, *Ice Storm* |
+| 9	| *Conjure Elemental*, *Hold Monster* |
 
 ### Level 3: Wrath Of The Sea 
 

@@ -79,6 +79,6 @@ You have been exposed to so many chemicals that they pose little risk to you, an
 
 ***Chemical Resistance.*** You gain Resistance to Acid damage and Poison damage, and you have immunity to the Poisoned condition.
 
-***Mastered Alchemy.*** You can cast the Greater Restoration and Tasha’s Bubbling Cauldron spells without expending a spell slot, without preparing the spell, and without material components, provided you use Alchemist’s Supplies as the spellcasting focus. Once you cast either spell with this feature, you can’t cast that spell with it again until you finish a Long Rest.
+***Mastered Alchemy.*** You can cast the *Greater Restoration* and *Tasha’s Bubbling Cauldron* spells without expending a spell slot, without preparing the spell, and without material components, provided you use Alchemist’s Supplies as the spellcasting focus. Once you cast either spell with this feature, you can’t cast that spell with it again until you finish a Long Rest.
 
 
