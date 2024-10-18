@@ -197,6 +197,7 @@ nav:
         - Grenade: equipment/consumeables/grenade.md
         - Potion: equipment/consumeables/potion.md
         - Spell Scroll: equipment/consumeables/spell-scroll.md
+        - Casting Units: equipment/consumeables/casting-unit.md
   - Class: 
     - class/index.md
     - Expert Group:

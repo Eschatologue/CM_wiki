@@ -1,5 +1,6 @@
 ---
 icon: material/integrated-circuit-chip
+status: homebrew
 ---
 
 # Casting Units

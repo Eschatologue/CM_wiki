@@ -1,5 +1,6 @@
 ---
 icon: ability/wis
+status: adapted
 ---
 
 # Spell Scrolls (Revised)

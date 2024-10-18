@@ -2,6 +2,7 @@
 icon: ui/grenade
 hide:
     - toc
+status: homebrew
 ---
 
 Grenades are handheld explosive devices introduced to Antares by the Londoners. While the concept of delivering explosives in a throwable form isn't entirely new—often achieved through slinging spells or using crude, rudimentary versions—the Londoners have perfected and standardised these weapons. Their grenades offer a precise and reliable way to unleash destructive power, making them a valuable, though expensive, tool on the battlefield.
