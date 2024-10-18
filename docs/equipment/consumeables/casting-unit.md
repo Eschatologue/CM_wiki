@@ -37,7 +37,7 @@ Each Casting Unit holds a set number of charges and has a maximum spell level it
 ##### Casting Unit Table
 
 | Rarity | Max Spell Level | Total Charges | Memory Capacity | Bonus to Hit | Save DC | Cost |
-|---|---|---|---|---|---|---|
+|---|---|:-:|:-:|:-:|:-:|--:|
 | Common | :spell-level-1: Level 1 | 3 | 3 | +2 | 13 | 1,000 SP |
 | Uncommon | :spell-level-2: Level 2 | 6 | 6 | +3 | 14 | 5,000 SP |
 | Rare | :spell-level-3: Level 3 | 9 | 9 | +4 | 15 | 10,000 SP |
