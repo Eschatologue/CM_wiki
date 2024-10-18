@@ -4,32 +4,45 @@ icon: material/integrated-circuit-chip
 
 # Casting Units
 
-Casting Units, also known as Arts Units, Weave Looms, Spellcasting Units, or (more informally) "Spell Scrolls with Skill Issue" and "Dumb Casters," depending on who you ask, represent a modernised take on traditional spell scrolls. Though not as potent as their predecessors, these devices allow even those without a natural connection to the Weave—sometimes referred to disparagingly as "Londoners"—to cast spells.
+Casting Units, also known as Arts Units, Weave Looms, Spellcasting Units, or (more informally) "Spell Scrolls with Skill Issues" and "Dumb Casters," depending on who you ask, are modernised versions of traditional spell scrolls. Though less potent than their predecessors, these devices allow even those without a natural connection to the Weave—sometimes referred to disparagingly as "Londoners"—to cast spells.
 
-Casting Units emerged as a direct result of the brain drain that swept across Gallia after the establishment of the Caerdyf Tower of Arts and Valinor's Great Halls. Their invention was made possible through the fusion of sealed Elven knowledge, British craftsmanship, and Gallian spell-weaving standards. These units come in a wide variety of shapes and sizes, catering to a range of magical needs and users.
+Casting Units emerged in response to the brain drain that swept across Gallia following the establishment of the Caerdyf Tower of Arts (London) and The Great Halls (Valinor). They were made possible through a fusion of Elven Fey magic, British craftsmanship, and Gallian spell-weaving standards. These units vary in shape and size, catering to a wide range of magical needs and users.
 
 ## Function
 
-Casting Units function as compact spell storage devices, effectively acting as miniature spellcasters. They come preloaded with spells, have their own set of spell slots, and include some form of conduit or mechanism to channel and cast the stored magic. However, they still require someone proficient in spellcasting to initially prepare and load the spells into them.
+Casting Units act as compact spell storage devices, effectively serving as miniature spellcasters. They come preloaded with spells, have their own spell slots, and include some form of conduit or mechanism to channel and cast the stored magic. However, a proficient spellcaster is still required to initially prepare and load the spells.
 
-Despite their ability to perform magical functions, Casting Units themselves are not inherently magical. They remain mundane items unless the user imbues them with some additional form of magic or modifies them in a way that grants magical properties.
-Your revision is clear and effectively communicates the mechanics of the Casting Units. I've made minor adjustments for grammar and clarity, ensuring that the text flows well and maintains consistency with D&D terminology. Here's the refined version:
+Despite their magical function, Casting Units themselves are not inherently magical. They remain mundane unless imbued with additional magic or modified to grant magical properties.
 
 ## Mechanics
 
-Casting Units function as devices for casting preloaded spells. Each unit holds a set number of charges, which are expended when casting spells stored within it. The number of charges and the maximum level of spells that can be stored depend on the unit’s rarity and design.
+Casting Units allow preloaded spell casting. Each unit holds a limited number of charges, which are consumed when casting a spell. The unit’s rarity and design determine the number of charges and the maximum spell level it can store.
 
-***Casting Time.*** The spell’s casting time follows the normal rules for that spell (Action, Bonus Action, Reaction, etc.).
+### Casting Spells Using Casting Units
 
-***Spell Level Limits.*** A Casting Unit can store spells up to a certain level, depending on its rarity. The unit cannot hold or cast spells of a higher level than its limit.
+Casting a spell from a Casting Unit follows these rules:
 
-Each Casting Unit varies in its capabilities, including charges, memory capacity, bonus to hit, and Save DC. The Casting Unit table outlines these attributes based on the unit's rarity.
+**Casting Time:** The spell's casting time follows the standard rules for that spell (Action, Bonus Action, Reaction, etc.).
 
-***Memory Capacity.*** The Memory Capacity column refers to the number of spells that can be stored in the Casting Unit. A spell occupies a number of Memory Capacity slots equal to 1 + its spell level. A stored :spell-level-0: cantrip counts as a level 0 spell for this purpose.
+**Concentration:** If the spell requires Concentration, the user must maintain Concentration after the spell is cast.
 
-***Total Charges.*** The Total Charges column refers to the number of usages that can be expended before the unit must be recharged. To cast a spell, the user expends charges equal to 1 + the spell's level. A cast :spell-level-0: cantrip counts as a level 0 spell for this purpose. Spells cannot be upcast, even if additional charges are available.
+**Bonus to Hit and Save DC:** Spells cast from a Casting Unit use the unit’s bonus to hit (for attack rolls) and Save DC (for spells requiring saving throws). The user's spellcasting ability modifier is not applied, even if they have one.
 
-***Bonus to Hit and Save DC.*** Spells cast from a Casting Unit use the Casting Unit’s bonus to hit (for attack rolls) and Save DC (for spells requiring saving throws). The user’s spellcasting ability is not applied, even if they have one.
+Unless stated otherwise, Casting Units follow the same mechanics as Spell Scrolls.
+
+### Storing Spells in Casting Units
+
+Unlike spell scrolls, Casting Units can store multiple spells. The rules are as follows:
+
+**Spell Level Limits:** A Casting Unit can store spells up to a certain level, based on its rarity. The unit cannot store or cast spells higher than its level limit.
+
+**Memory Capacity:** Memory Capacity refers to how many spells a unit can store. A spell occupies a number of memory equals to 1 + its spell level. A stored cantrip counts as a level 0 spell for this purpose.
+
+**Total Charges:** Total Charges indicate how many times the unit can be used before it needs to be recharged. Casting a spell expends charges equal to 1 + the spell's level. Cantrips use 1 charge. Spells cannot be upcast, even if there are additional charges available.
+
+**Storing Spells & Restoring Charges:** To store a spell, a creature must have the spell prepared or known and can store it in the Casting Unit as part of a Long Rest. To restore charges, a creature must expend spell slots, regaining charges equal to the level of the slot expended.
+
+A Casting Unit’s Max Spell Level, Memory Capacity, and Total Charges are capped based on its rarity.
 
 ##### Casting Unit Table
 
