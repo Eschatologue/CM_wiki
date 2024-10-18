@@ -1,9 +1,10 @@
 ---
+title: Antares' Pantheon
 search:
-  exclude: true
+  boost: 0.25
 ---
 
-# Antares Pantheon
+# Antares' Pantheon
 
 In Crown & Misery, beings we once referred to as 'Gods' are now relics of a bygone era when deities roamed the lands. All traces of these beings vanished after the First Warp Maelstorm. However, entities of immense power that govern the natural laws of Antares still remain. 
 
@@ -13,7 +14,7 @@ Antares boasts many religions, some with structured rules and others that closel
 
 The Spires are enigmatic, godlike, higher-dimensional beings that govern and enact a philosophical concept called an Ascent. These beings manifest during events of great importance tied to their Ascent. Mortals can draw power from a Spire if granted permission, usually by adhering to the Ascent or concept the Spire represents to a degree deemed adequate by the Spire. While this is rare, when it happens, it is akin to a mortal gaining the power of a deity.
 
-| **Name** | **Ascent** | **Suggested Domains** | **Status** |
+| Name | Ascent | Suggested Domains | Status |
 |:--|:--|:--|:--|
 | Aaraau | Destruction | Arcana, Grave, Light, Tempest | Alive |
 | Etemenanki | Perseverance | Forge, Order, Twilight, War | Alive|
@@ -27,7 +28,7 @@ The Spires are enigmatic, godlike, higher-dimensional beings that govern and ena
 
 Aeginae are leviathans that once lives in Antares. They are the progenitors of all dragons and possess the power to rule over specific aspects of life, such as elements, the skies, and the earth—domains traditionally overseen by gods. Unlike the Spires, Aeginae are even less likely to pay attention to the lives of mortals, considering them insignificant. Unfortunately, most Aeginae have disappeared, either perishing from natural causes, dying in battles with other Aeginae, or being slain by mortals.
 
-| **Name** | **Title** | **Associated** | **Status** |
+| Name | Title | Associated | Status |
 |:--|:--|:--|:--|
 | Ouroboros | The Burrower Below | Cycle of Betrayal | Unknown |
 | Jörmungandr | The World Serpent | Antares' Primordial Seas | Alive |

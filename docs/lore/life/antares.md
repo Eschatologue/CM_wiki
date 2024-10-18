@@ -19,7 +19,7 @@ Much of the history predating the *Ordinaire* (ordinary) has been lost, but clue
 
 The political landscape of Antares is highly diverse, with various forms of government adapted to the unique circumstances each nation faces. These range wildly from parliamentary republics and theocracies to absolute monarchies. The political climate is reminiscent of the post-Cold War era in our world, where nations engage in complex strategic maneuvers to avoid triggering a devastating war, knowing that recovery from such a conflict would be nearly impossible.
 
-The recent Dwarvish-London War exemplifies this delicate balance, nearly pushing Antares' civilization to the edge of extinction. Despite this, many institutions—whether official, private, or illegal—strive to establish some semblance of peace and provide aid to those neglected by their governments. They work to prevent Antares from descending into another catastrophic conflict.
+The recent Dwarvish-London War exemplifies this delicate balance, nearly pushing Antares' civilization to the edge of another extinction event. Despite this, many institutions—whether official, private, or illegal—strive to establish some semblance of peace and provide aid to those neglected by their governments. They work to prevent Antares from descending into another catastrophic conflict.
 
 Most nations, however, are primarily focused on maintaining their own territories and fending off aberrations, making diplomatic interactions scarce and highly conservative. In this precarious environment, each nation plays a careful game of survival, trying to preserve their hold on what remains of this fractured continent.
 

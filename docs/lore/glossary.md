@@ -7,11 +7,19 @@ icon: material/book
 
 ---
 
-### Citadel Cities
+### Abhuman
 
-*Infrastructure*
+*Races*
 
-*Citadel Cities* are the last bastions of civilization in Antares, formed by merging multiple urban centres into one heavily fortified enclave. Towering walls protect these cities, and venturing beyond them is perilous without careful preparation. Each nation builds its Citadel differently—some using advanced materials, others repurposing mountains or cave systems. A few nations rely on harsh natural conditions instead of fortified walls for protection.
+Abhumans, or Aberrant Humans, are a subgroup of humans, also known as "Londoners". Characterised by their human traits, they notably lack a connection to the Weave and possess a weaker physical constitution compared to other races found on Antares.
+
+---
+
+### Book of Grudge
+
+*Culture, Myrkheim*
+
+The Book of Grudge is not an actual book but a legendary compilation of civilisations, societies, and communities that have been destroyed (or are in the process of being destroyed) by the dwarves of Myrkheim. Each entry signifies a deep-seated grievance, marking those who have wronged the dwarves in any significant way. The concept serves as a powerful reminder that the dwarves are relentless in their pursuit of justice; to be inscribed within this "book" is to invite the wrath of Myrkheim upon you.
 
 ---
 
@@ -22,6 +30,14 @@ icon: material/book
 The Brabazon Fleet is a series of colossal mobile penal colonies, constructed by London, that also function as mobile factories. These massive vessels house convicts, debtors, the poor, and the sick, all forced into relentless labour to fuel London’s industrial might. The denizens of the Fleet often refer to it as the "Brabazon Workworld," as once you enter, it becomes your entire world for life. Inhabitants work in brutal conditions, producing goods, maintaining machinery, and extracting resources from hazardous regions
 
 > See Also: Nomadic Cities
+
+---
+
+### Citadel Cities
+
+*Infrastructure*
+
+*Citadel Cities* are the last bastions of civilization in Antares, formed by merging multiple urban centres into one heavily fortified enclave. Towering walls protect these cities, and venturing beyond them is perilous without careful preparation. Each nation builds its Citadel differently—some using advanced materials, others repurposing mountains or cave systems. A few nations rely on harsh natural conditions instead of fortified walls for protection.
 
 ---
 
@@ -75,11 +91,29 @@ A continent-spanning suspended rail network. This monumental construction projec
 
 ---
 
+### Millennium Dawn
+
+*Era*
+
+The Millennium Dawn marks the age that began 200 years after the Second Maelstorm, characterised by the fall of the Tahdenvalta Empire and the aftermath of the Great Split. 
+
+This era signifies a new period for Antares, as societies adapt to the new balance of power, technology slowly replaces magic in every part of societies, and the remnants of the old world collide with the burgeoning innovations of the Londoners.
+
+---
+
 ### Nomadic Cities
 
 *Infrastructure*
 
 Nomadic Cities are an innovative urban solution proposed by London to combat the increasing intensity of Warp Storms. Designed to eventually replace static Citadel Cities, these mobile urban centres would move according to needs and purpose, allowing them to evade Warp Storms before they strike.
+
+---
+
+### Ordinaire
+
+*Races*
+
+Ordinaire, or "ordinaries," are the majority of humanoid inhabitants in Antares, comprising Aasimar, Dwarves, Elves, Humans, Dragonborn, Halflings, Goliaths, Gnomes, Orcs, and Tieflings.
 
 ---
 

@@ -5,7 +5,7 @@ search:
 
 > *“Our unity has once given birth to a source, a symbol of our unity and elvenhood, and yet the same unity eventually shatters us”* — a High Elf Priest teaching in Valinor's temple.
 
-# Profile
+## Profile
 
 Sri embodies the essence of harmony, transcending their origins as Yggdrasil to become a spire revered for THEIR wisdom and balance. THEY preside over the interconnectedness of all living beings and the natural world, guiding souls along the acent of harmony and unity.
 
@@ -21,9 +21,9 @@ Sri used to physically manifests as a collosal weeping fig, their branches reach
 
 Beneath the canopy, there is pulsating stars in shape of leaves, with each leaf resonating with the vibrations of what can be intreperted as cosmic unity. Sri's presence evokes a sense of tranquility and balance, a reminder of the interconnectedness of all things in the universe.
 
-# History
+## History
 
-## The Great Split
+### The Great Split
 
 During The Great Split, Sri, found THEMSELVES drawn into the midst of a devastating conflict between the Elven Empire and the expanding forces of London. The war, long and brutal, had reached a stalemate, with London gaining the upper hand and seizing control of the majority of territories once held by the Elves.
 

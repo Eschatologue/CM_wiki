@@ -5,7 +5,7 @@ search:
 
 > *“Oh the shattered one, oh the blemished one, grant us thy blessings and salvation of thy earth-shattering ivory lance” —* Unknown Priest of Entropy.
 
-# Profile
+## Profile
 
 After the event of the First Warp Maelstrom, Antares continent experienced chaos and destruction on a scale never seen before. From the complete and utter annihilation of its coastlines to its denizens being killed in the ensuing invasions from the Warp, only three-fourths of the population remained, scrambling for survival.
 
@@ -23,6 +23,6 @@ There is still a lot of debate about the appearance of Aaraau, but the common co
 
 The most recent form of Aaraau ever witnessed appeared at the height of the London-Dwarvish war. After London unleashed the dreaded "Excalibur" at the Dwarves' main army, during the fiery pillar that consumed it, survivors of the tragedy witnessed what said to be Aaraau appearing before the destruction as a gargantuan disk of cosmic dust presiding above the catastrophe.
 
-# History
+## History
 
 need more data
