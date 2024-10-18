@@ -1,0 +1,37 @@
+/* Revert to Legacy */
+.md-typeset .admonition,
+.md-typeset details {
+    border-width: 0;
+    border-left-width: 4px;
+}
+
+/* Add Shadow */
+.md-typeset .admonition {
+    border-color: var(--md-admonition-icon-color--note);
+    box-shadow: var(--md-shadow-z2);
+}
+
+//-------------------------------------------------------------------------------------------//
+
+// Homebrew
+.md-typeset {
+    $colorAdmonition_homebrew: hex3hsl(#ffb624);
+    .admonition.homebrew,
+    details.homebrew {
+        border-color: $colorAdmonition_homebrew;
+    }
+
+    .homebrew {
+        > .admonition-title,
+        > summary {
+            background-color: transparentize($colorAdmonition_homebrew, 0.9);
+        }
+
+        > .admonition-title::before,
+        > summary::before {
+            background-color: $colorAdmonition_homebrew;
+            -webkit-mask-image: var(--md-icon--homebrew);
+            mask-image: var(--md-icon--homebrew);
+        }
+    }
+}
