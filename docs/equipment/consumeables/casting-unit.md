@@ -11,39 +11,28 @@ Casting Units emerged in response to the brain drain that swept across Gallia fo
 
 ## Function
 
-Casting Units act as compact spell storage devices, effectively serving as miniature spellcasters. They come preloaded with spells, have their own spell slots, and include some form of conduit or mechanism to channel and cast the stored magic. However, a proficient spellcaster is still required to initially prepare and load the spells.
-
-Despite their magical function, Casting Units themselves are not inherently magical. They remain mundane unless imbued with additional magic or modified to grant magical properties.
+Casting Units act as portable spell storage devices. They hold spells, come with limited charges, and can cast magic through built-in mechanisms. A spellcaster must prepare and load spells into them. Despite their function, they aren't inherently magical unless modified.
 
 ## Mechanics
 
-Casting Units allow preloaded spell casting. Each unit holds a limited number of charges, which are consumed when casting a spell. The unit’s rarity and design determine the number of charges and the maximum spell level it can store.
+Each Casting Unit holds a set number of charges and has a maximum spell level it can store, depending on its rarity.
 
-### Casting Spells Using Casting Units
+### Using Casting Units
 
-Casting a spell from a Casting Unit follows these rules:
+:material-timer: **Casting Time:** Follows the normal casting time of the stored spell (Action, Bonus Action, Reaction).  
+:spell-concentration: **Concentration:** If the spell requires Concentration, the user must maintain it.  
+::material-target-variant:: **Bonus to Hit and Save DC:** Spells use the unit's bonus to hit and Save DC. The user’s own spellcasting ability isn’t applied.
 
-**Casting Time:** The spell's casting time follows the standard rules for that spell (Action, Bonus Action, Reaction, etc.).
+### Storing Spells
 
-**Concentration:** If the spell requires Concentration, the user must maintain Concentration after the spell is cast.
+:material-inbox-full: **Spell Limits:** A unit can only store spells up to its rarity's max level.  
+:material-memory: **Memory Capacity:** A unit can store spells based on its capacity. Spells take up space equal to 1 + their level. Cantrips count as level 0 spells.  
+:material-battery-high: **Charges:** Casting a spell uses 1 charge plus its spell level. Cantrips use 1 charges.
 
-**Bonus to Hit and Save DC:** Spells cast from a Casting Unit use the unit’s bonus to hit (for attack rolls) and Save DC (for spells requiring saving throws). The user's spellcasting ability modifier is not applied, even if they have one.
+### Reloading and Recharging
 
-Unless stated otherwise, Casting Units follow the same mechanics as Spell Scrolls.
-
-### Storing Spells in Casting Units
-
-Unlike spell scrolls, Casting Units can store multiple spells. The rules are as follows:
-
-**Spell Level Limits:** A Casting Unit can store spells up to a certain level, based on its rarity. The unit cannot store or cast spells higher than its level limit.
-
-**Memory Capacity:** Memory Capacity refers to how many spells a unit can store. A spell occupies a number of memory equals to 1 + its spell level. A stored cantrip counts as a level 0 spell for this purpose.
-
-**Total Charges:** Total Charges indicate how many times the unit can be used before it needs to be recharged. Casting a spell expends charges equal to 1 + the spell's level. Cantrips use 1 charge. Spells cannot be upcast, even if there are additional charges available.
-
-**Storing Spells & Restoring Charges:** To store a spell, a creature must have the spell prepared or known and can store it in the Casting Unit as part of a Long Rest. To restore charges, a creature must expend spell slots, regaining charges equal to the level of the slot expended.
-
-A Casting Unit’s Max Spell Level, Memory Capacity, and Total Charges are capped based on its rarity.
+:material-folder-download: **Store Spells:** A spellcaster can load or change the spells it prepares or know into the unit during a Long Rest.  
+:material-battery-charging-10: **Recharge:** Spend spell slots to restore charges (1 charge per spell slot level).
 
 ##### Casting Unit Table
 
