@@ -59,9 +59,11 @@ The Brabazon Fleet is a series of colossal mobile penal colonies, constructed by
 
 *Cordite* is a powerful, volatile substance used to propel projectiles in firearms and other London-based weaponry. Refined from rare minerals found only in certain regions of Antares, it burns with immense energy, enabling the magic-less Londoners to rival the magical capabilities of other nations. While highly effective, Cordite is unstable, requiring careful handling and specialised equipment to manage its production and use. Its discovery and mastery have given the Londoners a distinct advantage in Antares.
 
-However, Cordite rapidly becomes inert when in close proximity to those attuned to magic. This unique trait makes it unreliable for most non-Londoners, as even minor magical attunement neutralises its potency, rendering it ineffective and preventing its use in weapons or machinery.
+However, Cordite rapidly becomes inert when in close proximity to those attuned to the Weave. This unique trait makes it unreliable for most non-Londoners, as even minor magical attunement neutralises its potency.
 
-> *"The discovery of Cordite was, ironically, a cruel accident of fate. Conceived by Elven alchemists as a weapon to obliterate Londoners, it was designed to be stable only in the hands of those bonded with the Weave, but volatile when near those who not. Yet, the plan backfired spectacularly when the Londoners learned to tame and weaponise it. What was intended to bring their ruin instead became the key to their military might—turning the tides and sealing the fate of those who sought their end."*
+> *"The discovery of Cordite was, ironically, an accident. Produced by Elven alchemists as a weapon to obliterate Londoners, it was designed to be stable only in the hands of those bonded with the Weave, but volatile when near those who not. Yet, the plan backfired spectacularly when the Londoners learned to tame and weaponise it. What was intended to bring their ruin instead became the key to their military might—turning the tides and sealing the fate of those who sought their end."*
+
+> *"Blud made racist gunpowder. Truly a skill issue"* - London Scientiest
 
 ---
 
@@ -80,6 +82,34 @@ The Dominion of Albion is the home of the Londoners and occupies the largest ter
 Colossal land-based locomotives pioneered by London, Dreadnoughts are vital for trade, transport, and communication across Antares. These vehicles connect nations and Citadel Cities, with some cities' survival relying on the trade routes they provide. Only a few nations can manufacture Dreadnoughts, leading others to acquire or rarely steal them. 
 
 Comparable to real-world ships, they serve both combat and utility roles, akin to battleships, destroyers, or cargo vessels, but operate on land instead of sea.
+
+---
+
+### Gallian Revolution
+
+*Historical Event*
+
+The **Gallian Revolution** erupted as a response to centuries of mounting dissatisfaction towards the Gallian royal family. Their inaction in the aftermath of the Second Maelstorm, combined with severe civil inequality, fuelled the unrest that culminated in one of the bloodiest events in Gallian history. 
+
+In the aftermath, many commoners fled the empire, seeking refuge in other nations, while the nobility both tightened and loosened their grip on society—cementing their rule yet adopting measures to maintain control in a fractured and uneasy Gallia.
+
+> See also: Bastogne Exodus
+
+---
+
+### Galway Blight
+
+*Historical Event*
+
+The *Galway Blight*, also known as the *Great Blight*, was a catastrophic crop failure in the city of Galway, Albion, caused by Elven Druids sabotage during the Great Split. The blight not only ravaged the land but also turned those who consumed the tainted crops into mindless, walking corpses. In a desperate bid to contain the outbreak, the city was firebombed, wiping out its entire population, both infected and innocent alike. 
+
+---
+
+### Helgasund
+
+*Location, Myrkheim*
+
+A dwarven city constructed within a gigantic crater, located at a safe distance from the cold northern wastes. Renowned for its large, clear lake and pleasant weather, it has become a popular destination for tourism in recent years.
 
 ---
 
@@ -105,7 +135,7 @@ A massive steam-powered furnace-engine, serving as the primary source of heat an
 
 ### Isambard Line
 
-*Infrastructure, London*
+*Infrastructure, Albion - Valinor*
 
 A continent-spanning suspended rail network. This monumental construction project was initiated by London with the assistance of Valinor to foster reconciliation following the Great Split. However, the project was ultimately abandoned due to the Great War, leaving behind scattered prefabricated sections across Antares.
 
@@ -125,7 +155,7 @@ This era signifies a new period for Antares, as societies adapt to the new balan
 
 ### New London
 
-*Location*
+*Location, Albion*
 
 New London is the capital of the Dominion of Albion and serves as the new beating heart of the British Empire. This city is characterised by its towering steel edifices and skies choke full of pollution and airships. It stands as a symbol of the future of Antares—or perhaps, its only future.
 
@@ -155,7 +185,6 @@ A vast and perilous ocean surrounding Antares, notorious for its violent storms,
 
 > See Also: Karakorum
 
----
 
 ### The Gallian Standard System
 
@@ -175,10 +204,20 @@ An umbrella term for the vast regions outside the Citadel Cities, The Wilderness
 
 ---
 
+### Toulouse Exodus
+
+*Historical Event*
+
+The **Toulouse Exodus** was a mass emmigration of Gallian scholars from the city of Toulouse. This brain drain occurred in the aftermath of the Gallian Revolution, following the capital's decree that banned the study of *Technomancy*—a school of magic that studies the combination of technology and magic. The ban led to a catastrophic brain drain, as some of Gallia's brightest minds fled the nation in search of places where their work could thrive. 
+
+> *"The empire needs this to survive the coming centuries, yet those bastards are as stubborn as a mule!"*  — Gallian scholar during the Toulouse Exodus
+
+---
+
 ### Warp Crystals (Voidite)
 
 *Substance*
 
-Warp Crystals, also known as *Voidite*, are crystal-like minerals formed in the aftermath of Warp Storms or growing within the corpses of aberrations. These crystals possess immense energy, and when harnessed correctly, they can power entire industries. In western Antares, particulary Mykrheim and London, they serve as the primary fuel source for numerous machines and factories, including the Valinor's Generator (Irminsul), which sustains the region’s survival in the harsh northern wastes.
+Warp Crystals, also known as *Voidite*, are crystal-like minerals formed in the aftermath of Warp Storms or growing within the corpses of aberrations. These crystals possess immense energy, and when harnessed correctly, they can power entire industries. In western Antares, particulary Myrkheim and London, they serve as the primary fuel source for numerous machines and factories, including the Valinor's Generator (Irminsul), which sustains the region’s survival in the harsh northern wastes.
 
 ---
