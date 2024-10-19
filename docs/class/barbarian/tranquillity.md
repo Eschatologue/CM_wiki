@@ -19,7 +19,7 @@ You learn two different Manoeuvre of your choice from the "[Manoeuvre Options]" 
 
 You learn two additional Manoeuvre of your choice when you reach Barbarian level 6, 10, and 14. Each time you learn new Manoeuvre, you can also replace one Manoeuvre you know with a different one.
 
-[Manoeuvre Options]: ../../option/class-options/manoeuvre.md
+[Manoeuvre Options]: ../../option/class-options/fighter-manoeuvre.md
 
 #### Superiority Dice
 

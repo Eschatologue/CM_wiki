@@ -8,6 +8,8 @@ Combat Manoeuvres are special tactical actions available to Fighters who choose 
 
 ***Prerequisite.*** If a Manoeuvre have a prerequisite, you must meet any prerequisite specified to have that Manoeuvre.
 
+***Saving Throw.*** If a manoeuvre you use requires your target to make a :d20-save: Saving Throw to resist the manoeuvre's effects, the DC equals 8 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice).
+
 ## PHB'24 Combat Manoeuvre
 
 ---
