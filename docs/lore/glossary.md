@@ -13,7 +13,17 @@ search:
 
 *Races*
 
-Abhumans, or Aberrant Humans, are a subgroup of humans, also known as "Londoners". Characterised by their human traits, they notably lack a connection to the Weave and possess a weaker physical constitution compared to other races found on Antares.
+Abhumans, or Aberrant Humans, are a subgroup of humans, also known as "Londoners." Characterised by their human traits, they notably lack a connection to the Weave and possess a weaker physical constitution compared to other races found on Antares. 
+
+In modern times, the term has taken on a derogatory connotation, used in Gallian society to refer to those of lower social status.
+
+--
+
+### Boiler Rifles
+
+*Weaponry*
+
+Boiler Rifles were early firearms used by Londoners before the discovery of Cordite. These short-lived weapons utilised high-pressure steam to propel projectiles at high speeds. Though less efficient than Cordite-based firearms, they served as a temporary solution in the fight against the Elves.
 
 ---
 
@@ -51,7 +61,15 @@ The Brabazon Fleet is a series of colossal mobile penal colonies, constructed by
 
 However, Cordite rapidly becomes inert when in close proximity to those attuned to magic. This unique trait makes it unreliable for most non-Londoners, as even minor magical attunement neutralises its potency, rendering it ineffective and preventing its use in weapons or machinery.
 
-> *"The discovery of Cordite was, ironically, a cruel accident of fate. Conceived by Elven alchemists as a weapon to obliterate Londoners, it was designed to be stable only in the hands of those bonded to magic, but volatile when near those who not. Yet, the plan backfired spectacularly when the Londoners learned to tame and weaponise it. What was intended to bring their ruin instead became the key to their military might—turning the tides and sealing the fate of those who sought their end."*
+> *"The discovery of Cordite was, ironically, a cruel accident of fate. Conceived by Elven alchemists as a weapon to obliterate Londoners, it was designed to be stable only in the hands of those bonded with the Weave, but volatile when near those who not. Yet, the plan backfired spectacularly when the Londoners learned to tame and weaponise it. What was intended to bring their ruin instead became the key to their military might—turning the tides and sealing the fate of those who sought their end."*
+
+---
+
+### Dominion of Albion (London)
+
+*Nation*
+
+The Dominion of Albion is the home of the Londoners and occupies the largest territory in Antares. Characterised by its appetite for expansion and might, Albion boasts the strongest military in the region alongside a behemoth of industry, solidifying its status as a hegemonic power in Antares.
 
 ---
 
@@ -105,6 +123,14 @@ This era signifies a new period for Antares, as societies adapt to the new balan
 
 ---
 
+### New London
+
+*Location*
+
+New London is the capital of the Dominion of Albion and serves as the new beating heart of the British Empire. This city is characterised by its towering steel edifices and skies choke full of pollution and airships. It stands as a symbol of the future of Antares—or perhaps, its only future.
+
+---
+
 ### Nomadic Cities
 
 *Infrastructure*
@@ -149,3 +175,10 @@ An umbrella term for the vast regions outside the Citadel Cities, The Wilderness
 
 ---
 
+### Warp Crystals (Voidite)
+
+*Substance*
+
+Warp Crystals, also known as *Voidite*, are crystal-like minerals formed in the aftermath of Warp Storms or growing within the corpses of aberrations. These crystals possess immense energy, and when harnessed correctly, they can power entire industries. In western Antares, particulary Mykrheim and London, they serve as the primary fuel source for numerous machines and factories, including the Valinor's Generator (Irminsul), which sustains the region’s survival in the harsh northern wastes.
+
+---
