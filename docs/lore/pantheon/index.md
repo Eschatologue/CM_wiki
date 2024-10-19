@@ -12,12 +12,12 @@ Antares boasts many religions, some with structured rules and others that closel
 
 ## Spires
 
-The Spires are enigmatic, godlike, higher-dimensional beings that govern and enact a philosophical concept called an Ascent. These beings manifest during events of great importance tied to their Ascent. Mortals can draw power from a Spire if granted permission, usually by adhering to the Ascent or concept the Spire represents to a degree deemed adequate by the Spire. While this is rare, when it happens, it is akin to a mortal gaining the power of a deity.
+The Spires are godlike, higher-dimensional beings that govern and enact a philosophical concept called an Ascent. These beings manifest during events of great importance tied to their Ascent. Mortals can draw power from a Spire if granted permission, usually by adhering to the Ascent or concept the Spire represents to a degree deemed adequate by the Spire. While this is rare, when it happens, it is akin to a mortal gaining the power of a deity.
 
 | Name | Ascent | Suggested Domains | Status |
 |:--|:--|:--|:--|
 | Aaraau | Destruction | Arcana, Grave, Light, Tempest | Alive |
-| Etemenanki | Perseverance | Forge, Order, Twilight, War | Alive|
+| Etemenanki | Perseverance | Forge, Order, Twilight, War | Alive |
 | Falcone | Judgement | Light, Order, Zeal | Alive |
 | Sri | Harmony | Life, Nature, Peace, Twilight | Deceased |
 | Antero Vipunen | Enlightenment  | Arcana, Forge, Knowledge, Nature, Tempest | Unknown |

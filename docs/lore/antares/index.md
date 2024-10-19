@@ -1,6 +1,7 @@
 ---
+title: Antares Continent
 search:
-  exclude: true
+  boost: 0.25
 ---
 
 # Antares Continent

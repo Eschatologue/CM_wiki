@@ -128,6 +128,7 @@ nav:
         - Selling Magic Item: gameplay/downtime/selling-magic-item.md
         - Training: gameplay/downtime/training.md
         - Work: gameplay/downtime/work.md
+    - Rule Glossary: glossary.md
   - Character Creation:
     - Create Your Character: character-creation/create-your-character.md
     - Starting at Higher Level: character-creation/starting-at-higher-level.md
@@ -344,7 +345,6 @@ nav:
           - Cantrip: spells/description/additional/homebrew/cantrip.md
           - Level 2: spells/description/additional/homebrew/level-2.md
           - Level 3: spells/description/additional/homebrew/level-3.md
-  - Rule Glossary: glossary.md
   - Current Campaign:
     - Player's Gimmick:
       - John K. Godsmith: campaign/player-chr/john-godsmith.md

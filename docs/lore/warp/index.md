@@ -1,6 +1,7 @@
 ---
+title: The Warp
 search:
-  exclude: true
+  boost: 0.25
 ---
 
 # The Warp

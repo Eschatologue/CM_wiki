@@ -1,8 +1,10 @@
 ---
+title: PHB'24 Rule Glossary
 hide:
     - navigation
 search:
   boost: 1.5
+icon: material/book
 ---
 
 # Rule Glossary
@@ -22,7 +24,7 @@ The glossary uses the following conventions:
 ***Abbreviations.*** The abbreviations listed below appear in this glossary and elsewhere in the rules.
 
 | Abbreviations | Description |
-|---|---|
+|--:|---|
 | AC | Armour Class |
 | C | Concentration |
 | CE | Chaotic Evil |

@@ -1,6 +1,6 @@
 ---
 search:
-  exclude: true
+  boost: 0.25
 ---
 
 # Dwarvish-London War

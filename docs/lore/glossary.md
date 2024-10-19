@@ -1,6 +1,8 @@
 ---
 title: Lore Glossary
 icon: material/book
+search:
+  boost: 0.3
 ---
 
 # Lore Glossary
