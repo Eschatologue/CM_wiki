@@ -11,6 +11,10 @@ Firearms are uncommon and challenging to use in Antares, often considered imprac
 
 **Gun weapons**, shortened as **guns** and often referred to as **firearms**, are unique mid-range to long-range weapons that use a special explosive charge known as '**cordite**' to propel projectiles over long distances. These weapons were brought over by the Londoners and are used exclusively by their people.
 
+## Firearm Rule
+
+Firearms are considered ranged weapons for the purposes of effects, abilities, feats, and spells that refer to weapons unless a restriction or limitation explicitly prevents their use. If an ability or spell refers to “ranged weapons” or simply “weapons,” firearms are included unless stated otherwise. However, if an ability specifies melee or non-ranged weapons, firearms do not apply
+
 ## Firearm Table
 
 The Firearm tables in this section shows the game’s main weapons. These table lists the cost and weight of each weapon, as well as the following details:

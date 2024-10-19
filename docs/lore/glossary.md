@@ -47,9 +47,11 @@ The Brabazon Fleet is a series of colossal mobile penal colonies, constructed by
 
 *Substance*
 
-*Cordite* is a powerful, volatile substance used to propel projectiles in firearms and other London-based weaponry. Refined from rare minerals found only in certain regions of Antares, it burns with immense energy, enabling the magic-less Londoners' to rival the magical capability of other nations. While highly effective, Cordite is unstable, requiring careful handling and specialised equipment to manage its production and use. Its discovery and mastery have given the Londoners a distinct advantage in Antares.
+*Cordite* is a powerful, volatile substance used to propel projectiles in firearms and other London-based weaponry. Refined from rare minerals found only in certain regions of Antares, it burns with immense energy, enabling the magic-less Londoners to rival the magical capabilities of other nations. While highly effective, Cordite is unstable, requiring careful handling and specialised equipment to manage its production and use. Its discovery and mastery have given the Londoners a distinct advantage in Antares.
 
-It is said that it is highly sensitive to magic in its unrefined form and poses a grave risk to those untrained in its handling. For non-Londoners, even minor magical interference can cause catastrophic effects.
+However, Cordite rapidly becomes inert when in close proximity to those attuned to magic. This unique trait makes it unreliable for most non-Londoners, as even minor magical attunement neutralises its potency, rendering it ineffective and preventing its use in weapons or machinery.
+
+> *"The discovery of Cordite was, ironically, a cruel accident of fate. Conceived by Elven alchemists as a weapon to obliterate Londoners, it was designed to be stable only in the hands of those bonded to magic, but volatile when near those who not. Yet, the plan backfired spectacularly when the Londoners learned to tame and weaponise it. What was intended to bring their ruin instead became the key to their military might—turning the tides and sealing the fate of those who sought their end."*
 
 ---
 
