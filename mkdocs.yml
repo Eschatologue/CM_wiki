@@ -165,14 +165,14 @@ nav:
       - Infusion: option/class-options/artificer-infusion.md
       - Metamagic: 
           - option/class-options/sorcerer-metamagic/index.md
-          - PHB'24: optios/class-options/sorcerer-metamagic/phb24.md
+          - PHB'24: option/class-options/sorcerer-metamagic/phb24.md
           - Homebrew: option/class-options/sorcerer-metamagic/hb.md
       - Eldritch Invocations: 
           - option/class-options/warlock-invocations/index.md
           - PHB'24: option/class-options/warlock-invocations/phb24.md
           - Supplemental: option/class-options/warlock-invocations/supplemental.md
           - Homebrew: option/class-options/warlock-invocations/hb.md
-      - Combat Manoeuvre: option/class-options/manoeuvre.md
+      - Combat Manoeuvre: option/class-options/fighter-manoeuvre.md
       - Wu Jen Spells: option/class-options/wu-jen-spells.md
   - Equipment: 
       - Crafting Equipment: equipment/crafting.md

@@ -2,7 +2,7 @@
 title: Warlock's Eldritch Invocation (PHB'24)
 ---
 
-# Core Invocations
+# PHB'24 Invocations
 
 This page contains a list of all Eldritch Invocations from the PHB'24.
 

@@ -2,7 +2,9 @@
 title: Warlock's Eldritch Invocation (CM)
 ---
 
-# Homebrew Invocations
+# Crown & Misery Invocations
+
+These Invocations are for Crown & Misery campaign
 
 ---
 
