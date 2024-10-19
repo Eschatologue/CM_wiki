@@ -13,7 +13,7 @@ search:
 
 *Races*
 
-Abhumans, or Aberrant Humans, are a subgroup of humans, also known as "Londoners." Characterised by their human traits, they notably lack a connection to the Weave and possess a weaker physical constitution compared to other races found on Antares. 
+Abhumans, or Aberrant Humans, are a subgroup of humans, also known as "Londoners." Characterised by their human traits, but lacking a connection to the Weave and possessing a weaker physical strength compared to other species found on Antares. 
 
 In modern times, the term has taken on a derogatory connotation, used in Gallian society to refer to those of lower social status.
 
@@ -41,7 +41,7 @@ The Book of Grudge is not an actual book but a legendary compilation of civilisa
 
 The Brabazon Fleet is a series of colossal mobile penal colonies, constructed by London, that also function as mobile factories. These massive vessels house convicts, debtors, the poor, and the sick, all forced into relentless labour to fuel London’s industrial might. The denizens of the Fleet often refer to it as the "Brabazon Workworld," as once you enter, it becomes your entire world for life. Inhabitants work in brutal conditions, producing goods, maintaining machinery, and extracting resources from hazardous regions
 
-> See Also: Nomadic Cities
+> See Also: [Nomadic Cities](#nomadic-cities)
 
 ---
 
@@ -57,13 +57,13 @@ The Brabazon Fleet is a series of colossal mobile penal colonies, constructed by
 
 *Substance*
 
-*Cordite* is a powerful, volatile substance used to propel projectiles in firearms and other London-based weaponry. Refined from rare minerals found only in certain regions of Antares, it burns with immense energy, enabling the magic-less Londoners to rival the magical capabilities of other nations. While highly effective, Cordite is unstable, requiring careful handling and specialised equipment to manage its production and use. Its discovery and mastery have given the Londoners a distinct advantage in Antares.
+*Cordite* is a powerful, volatile substance used to propel projectiles in firearms and other London-based weaponry. Refined from rare minerals found only in certain regions of Antares, it burns with immense energy, enabling the magic-less Londoners to rival the magical capabilities of other nations.
 
-However, Cordite rapidly becomes inert when in close proximity to those attuned to the Weave. This unique trait makes it unreliable for most non-Londoners, as even minor magical attunement neutralises its potency.
+Interestingly, Cordite rapidly becomes inert when in close proximity to those attuned to the Weave. This unique trait makes it unreliable for most non-Londoners, as even minor magical attunement neutralises its potency.
 
-> *"The discovery of Cordite was, ironically, an accident. Produced by Elven alchemists as a weapon to obliterate Londoners, it was designed to be stable only in the hands of those bonded with the Weave, but volatile when near those who not. Yet, the plan backfired spectacularly when the Londoners learned to tame and weaponise it. What was intended to bring their ruin instead became the key to their military might—turning the tides and sealing the fate of those who sought their end."*
+*"The discovery of Cordite was, ironically, an accident. Produced by Elven alchemists as a weapon to obliterate Londoners, it was designed to be stable only in the hands of those bonded with the Weave, but volatile when near those who not. Yet, the plan backfired spectacularly when the Londoners learned to tame and weaponise it. What was intended to bring their ruin instead became the key to their military might—turning the tides and sealing the fate of those who sought their end."*
 
-> *"Blud made racist gunpowder. Truly a skill issue"* - London Scientiest
+*"Blud made racist gunpowder. Truly a skill issue"* —London Scientiest
 
 ---
 
@@ -79,9 +79,9 @@ The Dominion of Albion is the home of the Londoners and occupies the largest ter
 
 *Vehicle*
 
-Colossal land-based locomotives pioneered by London, Dreadnoughts are vital for trade, transport, and communication across Antares. These vehicles connect nations and Citadel Cities, with some cities' survival relying on the trade routes they provide. Only a few nations can manufacture Dreadnoughts, leading others to acquire or rarely steal them. 
+Colossal land-based locomotive. Dreadnoughts are vital for trade, transport, and communication across Antares. These vehicles connect nations and Cities, with some cities' survival relying on the trade routes they provide. Only a few nations can manufacture Dreadnoughts, leading others to purchase and even steal them from other nations. 
 
-Comparable to real-world ships, they serve both combat and utility roles, akin to battleships, destroyers, or cargo vessels, but operate on land instead of sea.
+Comparable to our real-world ships, they serve both combat and utility roles, akin to battleships, destroyers, or cargo vessels, but operate on land instead of sea.
 
 ---
 
@@ -93,7 +93,7 @@ The **Gallian Revolution** erupted as a response to centuries of mounting dissat
 
 In the aftermath, many commoners fled the empire, seeking refuge in other nations, while the nobility both tightened and loosened their grip on society—cementing their rule yet adopting measures to maintain control in a fractured and uneasy Gallia.
 
-> See also: Bastogne Exodus
+> See also: [Toulouse Exodus](#toulouse-exodus)
 
 ---
 
@@ -183,8 +183,17 @@ Ordinaire, or "ordinaries," are the majority of humanoid inhabitants in Antares,
 
 A vast and perilous ocean surrounding Antares, notorious for its violent storms, catastrophic events, and the presence of incomprehensible beasts lurking in its depths. Largely unexplored and feared, the sea is avoided by most due to the extreme dangers it presents. Only the Karakorum Fleet has managed to navigate, tame, and settle its treacherous waters.
 
-> See Also: Karakorum
+> See Also: Karakorum Fleet
 
+---
+
+### Technomancy
+
+*School of Magic*
+
+**Technomancy** is a revolutionary school of magic that studies the interaction between non-Weave-based technology—primarily from London—and the Gallian standard of spellcasting. Although it promised a new era of magical advancement, the Gallian Imperial Court banned it for undisclosed reasons. The discipline was pioneered by the infamous Three Traitors: Grimwald Hialtisson (Dwarf, Myrkheim), Varlassan "Arthur" Lahti (High-Elf, London), and Évelyne Montagne (Human, Gallian).
+
+---
 
 ### The Gallian Standard System
 
@@ -210,7 +219,7 @@ An umbrella term for the vast regions outside the Citadel Cities, The Wilderness
 
 The **Toulouse Exodus** was a mass emmigration of Gallian scholars from the city of Toulouse. This brain drain occurred in the aftermath of the Gallian Revolution, following the capital's decree that banned the study of *Technomancy*—a school of magic that studies the combination of technology and magic. The ban led to a catastrophic brain drain, as some of Gallia's brightest minds fled the nation in search of places where their work could thrive. 
 
-> *"The empire needs this to survive the coming centuries, yet those bastards are as stubborn as a mule!"*  — Gallian scholar during the Toulouse Exodus
+*"The empire needs this to survive the coming centuries, yet those bastards are as stubborn as a mule!"*  — Gallian scholar during the Toulouse Exodus
 
 ---
 
@@ -218,6 +227,6 @@ The **Toulouse Exodus** was a mass emmigration of Gallian scholars from the city
 
 *Substance*
 
-Warp Crystals, also known as *Voidite*, are crystal-like minerals formed in the aftermath of Warp Storms or growing within the corpses of aberrations. These crystals possess immense energy, and when harnessed correctly, they can power entire industries. In western Antares, particulary Myrkheim and London, they serve as the primary fuel source for numerous machines and factories, including the Valinor's Generator (Irminsul), which sustains the region’s survival in the harsh northern wastes.
+Warp Crystals, also known as *Voidite*, are crystal-like minerals formed in the aftermath of Warp Storms or growing on the corpses of aberrations. These crystals possess immense energy, and when harnessed correctly, they can power entire industries. In western Antares, particulary Myrkheim and London, they serve as the primary fuel source for numerous machines and factories, including the Valinor's Generator (Irminsul), which sustains the region’s survival in the harsh northern wastes.
 
 ---
