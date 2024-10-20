@@ -89,8 +89,6 @@ You know two cantrips of your choice from the [Artificer spell list]. *[Fire Bol
 
 Whenever you gain an Artificer level, you can replace one of your cantrips with another cantrip of your choice from the [Artificer spell list].
 
-When you reach Artificer levels 10 and 14, you learn another cantrip of your choice from the [Artificer spell list], as shown in the Cantrips column of the Artificer Features table.
-
 [Fire Bolt]: ../../spells/description/core/cantrip.md#fire-bolt
 [Mending]: ../../spells/description/core/cantrip.md#mending
 
