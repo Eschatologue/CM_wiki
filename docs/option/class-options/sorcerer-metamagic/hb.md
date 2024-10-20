@@ -22,13 +22,13 @@ When you cast a damaging spell that affect an Area of Effect and force the creat
 
 When you cast a spell that forces a Intelligence or a Charisma :d20-save: saving throw, you can spend 2 Sorcery Point(s) and change the spell's :d20-save: saving throw to target the other Ability Score instead.
 
-This Metamagic only changes the initial :d20-save: saving throw. Any subsequent :d20-save: Saving Throws target the original Ability Score.
+This Metamagic only changes the initial save. Any subsequent :d20-save: Saving Throws target the original Ability Score.
 
 ---
 
 ### Imbued Spell
 
-**Cost:** 2 - 10 Sorcery Point(s)
+**Cost:** 1 - 10 Sorcery Point(s)
 
 When you cast a spell that has a range of self, you can spend Sorcery Point(s) equal to 1 + the level of the spell to instead cast it with a range of touch, targeting a willing creature.
 
@@ -42,7 +42,7 @@ If the spell requires Concentration, the creature you cast the spell on must Con
 
 When you cast a spell that forces a Strength or a Dexterity :d20-save: saving throw, you can spend 1 Sorcery Point(s) and change the spell's :d20-save: saving throw to target the other Ability Score instead.
 
-This Metamagic only changes the initial :d20-save: saving throw. Any subsequent :d20-save: Saving Throws target the original Ability Score.
+This Metamagic only changes the initial save. Any subsequent :d20-save: Saving Throws target the original Ability Score.
 
 ---
 
@@ -86,4 +86,4 @@ You can use this Metamagic even if you have already used a different Metamagic o
 
 When you cast a spell that forces a Constitution or a Wisdom :d20-save: saving throw, you can spend 2 Sorcery Point(s) and change the spell's :d20-save: saving throw to target the other Ability Score instead.
 
-This Metamagic only changes the initial :d20-save: saving throw. Any subsequent :d20-save: Saving Throws target the original Ability Score.
+This Metamagic only changes the initial save. Any subsequent :d20-save: Saving Throws target the original Ability Score.
