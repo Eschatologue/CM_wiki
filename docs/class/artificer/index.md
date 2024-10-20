@@ -75,7 +75,7 @@ Your knack for tinkering has taught you to store minor magical effects in mundan
 
 Further, whenever you make an ability check with Tinker’s Tools, you can use your Intelligence as the ability, instead of Dexterity.
 
-[Magical Tinkering]: ../../spells/description/m.md#magical-tinkering
+[Magical Tinkering]: ../../spells/description/core/cantrip.md#magical-tinkering
 
 ### Level 1: Spellcasting
 
@@ -114,7 +114,7 @@ Whenever you finish a Long Rest, you can replace one spell on your list with ano
 
 #### Spellcasting Ability
 
-Intelligence is your spellcasting ability for your Artificer spells.
+:ability-int: **Intelligence** is your spellcasting ability for your Artificer spells.
 
 #### Tools Required
 

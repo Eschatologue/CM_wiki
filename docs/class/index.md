@@ -9,10 +9,10 @@ Each class is a part of a Class Group-a set of Classes that have certain feature
 
 | Group | Classes | Characteristics |
 |---|---|---|
-| **Experts** | Artificer, Bard, Ranger, Rogue | Polymaths who have the Expertise feature and elements of other classes |
+| **Experts** | Artificer^TCE^ Bard, Ranger, Rogue | Polymaths who have the Expertise feature and elements of other classes |
 | **Mages** | Sorcerer, Warlock, Wizard | Adepts of Arcane magic who focus on utility and destruction |
 | **Priests** | Cleric, Druid, Paladin | Stewards of Divine or Primal magic who focus on healing, utility, and defense |
-| **Warriors** | Barbarian, Fighter, Monk | Masters of combat who can deal and endure many wounds |
+| **Warriors** | Barbarian, Fighter, Monk, Magus^LL^ | Masters of combat who can deal and endure many wounds |
 
 ## Subclasses
 

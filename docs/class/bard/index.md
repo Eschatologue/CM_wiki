@@ -113,7 +113,7 @@ Whenever you gain a Bard level, you can replace one spell on your list with anot
 
 #### Spellcasting Ability
 
-Charisma is your spellcasting ability for your Bard spells.
+:ability-cha: **Charisma** is your spellcasting ability for your Bard spells.
 
 #### Spellcasting Focus
 

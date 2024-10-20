@@ -98,7 +98,7 @@ You brandish your weapon when you cast spells; weapons that are listed in **Weap
 
 ### Level 3: Spellbreaker's Mark
 
-You learn the [Hunter's Mark](../../spells/description/h.md#hunters-mark) spell and you can cast it without expending a spell slot. The target of this spell is considered your Quarry.
+You learn the [Hunter's Mark](../../spells/description/core/level-1.md#hunters-mark) spell and you can cast it without expending a spell slot. The target of this spell is considered your Quarry.
 
 When it is cast this way, you gain additional benefits against your Quarry:
 

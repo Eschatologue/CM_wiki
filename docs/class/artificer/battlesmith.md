@@ -20,7 +20,7 @@ Your combat training as a Battle Smith ensures you always have certain spells re
 
 ##### Battle Smith Spells
 
-| Artificer Level | Spells |
+| Level | Spells |
 |:-:|:--|
 | 3 | *Heroism*, *Shield* |
 | 5 | *Aid*, *Warding Bond* |

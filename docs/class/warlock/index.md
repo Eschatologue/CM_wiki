@@ -101,13 +101,16 @@ The number of spells on your list increases as you gain Warlock levels, as shown
 If another Warlock feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Warlock spells for you.
 
 #### Changing Your Prepared Spells
+
 Whenever you gain a Warlock level, you can replace one spell on your list with another Warlock spell of an eligible level.
 
-***Spellcasting Ability***. Charisma is the spellcasting ability for your Warlock spells.
+#### Spellcasting Ability
+
+:ability-cha: **Charisma** is the spellcasting ability for your Warlock spells.
 
 #### Spellcasting Focus
 
- You can use an Arcane Focus as a Spellcasting Focus for your Warlock spells.
+You can use an Arcane Focus as a Spellcasting Focus for your Warlock spells.
 
 ### Level 2: Magical Cunning
 

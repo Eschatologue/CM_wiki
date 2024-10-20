@@ -1,6 +1,8 @@
 ---
 title: Bladesinger
 status: adapted
+search:
+  exclude: true
 ---
 
 # Bladesinger

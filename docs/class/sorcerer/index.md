@@ -96,7 +96,7 @@ Whenever you gain a Sorcerer level, you can replace one spell on your list with 
 
 #### Spellcasting Ability
 
-Charisma is your spellcasting ability for your Sorcerer spells.
+:ability-cha: **Charisma** is your spellcasting ability for your Sorcerer spells.
 
 #### Spellcasting Focus
 

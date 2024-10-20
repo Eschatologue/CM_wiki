@@ -106,7 +106,7 @@ Whenever you finish a Long Rest, you can change your list of prepared spells, re
 
 #### Spellcasting Ability
 
-Wisdom is your spellcasting ability for your Druid spells.
+:ability-wis: **Wisdom** is your Spellcasting Ability for your Druid spells.
 
 #### Spellcasting Focus
 

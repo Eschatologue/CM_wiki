@@ -20,10 +20,10 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 | Cleric Level | Prepared Spells |
 | :-: | --- |
-| 3 | Aid, Bless, Cure Wounds, Lesser Restoration |
-| 5 | Mass Healing Word, Revivify |
-| 7 | Aura of Life, Death Ward |
-| 9 | Greater Restoration, Mass Cure Wounds |
+| 3 | *Aid*, *Bless*, *Cure Wounds*, *Lesser Restoration* |
+| 5 | *Mass Healing Word*, *Revivify* |
+| 7 | *Aura of Life*, *Death Ward* |
+| 9 | *Greater Restoration*, *Mass Cure Wounds* |
 
 ### Level 3: Preserve Life
 

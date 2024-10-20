@@ -59,7 +59,7 @@ Whenever you gain a level in this class, you can replace one of the spells you k
 
 #### Spellcasting Ability
 
-Charisma is your spellcasting ability for your Witchblade spells.
+:ability-cha: **Charisma** is your spellcasting ability for your Witchblade spells.
 
 #### Spellcasting Focus
 

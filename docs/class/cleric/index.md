@@ -110,7 +110,7 @@ Whenever you finish a Long Rest, you can change your list of prepared spells, re
 
 #### Spellcasting Ability
 
-Wisdom is your Spellcasting Ability for your Cleric spells.
+:ability-wis: **Wisdom** is your Spellcasting Ability for your Cleric spells.
 
 #### Spellcasting Focus
 

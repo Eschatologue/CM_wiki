@@ -257,7 +257,6 @@ nav:
         - Diviner: class/wizard/diviner.md
         - Evoker: class/wizard/evoker.md
         - Illusionist: class/wizard/illusionist.md
-        - Bladesinger: class/wizard/bladesinger.md
         - Chronurgist: class/wizard/chronurgist.md
         - Graviturgist: class/wizard/graviturgist.md
     - Priest Group:
@@ -311,6 +310,13 @@ nav:
         - Astral Self: class/monk/astral.md
         - Wu Jen: class/monk/wu-jen.md
         - Wuxia: class/monk/wuxia.md
+      - Magus:
+        - class/magus/index.md
+        - Arcanist: class/magus/arcanist.md
+        - Blade Dancer: class/magus/blade-dancer.md
+        - Traveler: class/magus/traveler.md
+        - Spellbreaker: class/magus/spellbreaker.md
+        - Warder: class/magus/warder.md
   - Spells:
     - Gaining Spells: spells/gaining-spells.md
     - Casting Spells: spells/casting-spells.md
@@ -320,6 +326,7 @@ nav:
         - Ranger: spells/class-specific/ranger.md
       - Two-Third-Caster:
         - Artificer: spells/class-specific/artificer.md
+        - Magus: spells/class-specific/magus.md
       - Full-Caster:
         - Bard: spells/class-specific/bard.md
         - Cleric: spells/class-specific/cleric.md

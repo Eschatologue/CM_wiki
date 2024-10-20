@@ -102,7 +102,7 @@ Whenever you finish a Long Rest, you can replace one spell on your list with ano
 
 #### Spellcasting Ability
 
-Charisma is your spellcasting ability for your Paladin spells.
+:ability-cha: **Charisma** is your spellcasting ability for your Paladin spells.
 
 #### Spellcasting Focus
 

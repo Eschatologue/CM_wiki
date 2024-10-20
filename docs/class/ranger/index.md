@@ -90,7 +90,7 @@ Whenever you finish a Long Rest, you can replace one spell on your list with ano
 
 #### Spellcasting Ability
 
-Wisdom is your spellcasting ability for your Ranger spells.
+:ability-wis: **Wisdom** is your spellcasting ability for your Ranger spells.
 
 #### Spellcasting Focus
 
