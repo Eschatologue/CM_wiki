@@ -24,9 +24,9 @@ As societies flourished, the Weave became increasingly accessible, with scholars
 
 However, the Weave is sensitive to the emotions and intentions of its wielders. Disruptions can lead to catastrophic magical failures, instilling a sense of fear and caution among the civilisation of Antares. This ambivalence towards magic has, over time, made brute force a preferred solution to the world's problems.
 
-## Advent of London
+## Advent of Technology
 
-The emergence of London marked a significant moment in the history of Antares, challenging established paradigms. Unlike the other civilizations, which relied heavily on the Weave and its interactions upon the physical world, London presented an entirely new model of progress—a world where arcane forces played no role in the advancement of society.
+The emergence of London marked a significant moment in the history of Antares, challenging established paradigms. Unlike other civilizations, which relied heavily on the Weave and its interactions upon the physical world, London presented an entirely new model of progress—a world where arcane forces played no role in the advancement of society.
 
-Upon their arrival, the Londoners brought with them a suite of innovations that seemed both alien and revolutionary. Their war machines and tools, powered by a unique blend of engineering and resourcefulness, stood in stark contrast to the arcane power that had dominated the battlefield for millennia. Rather than harnessing the Weave, these machines relied on complex mechanics, advanced materials, and a keen understanding of physical laws to achieve what once seemed impossible.
+Upon their arrival, the Londoners brought with them a suite of innovations that seemed both alien and revolutionary. Their war machines and tools, powered by a unique blend of engineering and resourcefulness, a complete opposite to the arcane power that had dominated the battlefield for millennia. Rather than harnessing the Weave, these machines relied on complex mechanics, advanced materials, and a keen understanding of physical laws to achieve what once seemed impossible.
 

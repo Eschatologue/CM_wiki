@@ -24,7 +24,7 @@ When you enter your Starry Form, or as a Bonus Action thereafter, you can enhanc
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and regain all expended uses after a Long Rest. Alternatively, you can regain all expended uses by expending one use of Wild Shape (no action required). 
 
-**Resonance of Destruction**  
+***Resonance of Destruction***  
 
 :   ***Collapsing Star (Archer Form).*** Once per turn, when you hit a target with your Archer Form’s Bonus Action attack, all creatures within 5 feet of the target must make a Dexterity saving throw. On a failed save, they take damage as if they were also hit by your Archer Form's attack.
 
@@ -32,7 +32,7 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 :   ***Accretion Disk (Dragon Form).*** While concentrating on a Druid spell, you can add your Wisdom modifier to all Radiant or Fire damage rolls you make.
 
-**Resonance of Perseverance (Locked)**  
+***Resonance of Perseverance***  
 
 :   ***Siege Emplacement (Archer Form).*** Allies that start its turn within 10 feet of you, gain Temporary Hit Points equal to your Druid level until the start of its next turn. 
 
@@ -40,7 +40,7 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 :   ***Warding Aura (Dragon Form).*** While concentrating on a Druid spell, all allies within 10 feet of you gain the benefit of Half Cover.
 
-**Resonance of Judgement (Locked)**  
+***Resonance of Judgement (Locked)***  
 :   ***Fist of Conviction (Archer Form).*** You gain a bonus to your AC equal to your Wisdom modifier, as long as you are not wearing Medium or Heavy Armour or using a Shield. Additionally, as a Magic action, you can make a melee spell attack using your Archer Form’s attack. At Druid level 6, whenever you take this Magic action on your turn, you can attack twice, instead of once.
 
 :   ***Shape of Spite (Chalice Form).*** Once per turn, when you restore Hit Points to a creature using the Chalice Form feature, it gains a bonus to its next d20 Test equal to your Wisdom modifier.
