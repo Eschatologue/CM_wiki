@@ -194,3 +194,5 @@ You gain an Epic Boon feat (see chapter 5) or another feat of your choice for wh
 ### Level 20: Primal Champion
 
 You embody primal power. Your Strength and Constitution scores increase by 4, to a maximum of 25.
+
+--8<-- "includes/snippets/skills.md"

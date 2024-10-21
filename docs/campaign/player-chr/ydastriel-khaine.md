@@ -41,6 +41,7 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 :   ***Warding Aura (Dragon Form).*** While concentrating on a Druid spell, all allies within 10 feet of you gain the benefit of Half Cover.
 
 ***Resonance of Judgement (Locked)***  
+
 :   ***Fist of Conviction (Archer Form).*** You gain a bonus to your AC equal to your Wisdom modifier, as long as you are not wearing Medium or Heavy Armour or using a Shield. Additionally, as a Magic action, you can make a melee spell attack using your Archer Form’s attack. At Druid level 6, whenever you take this Magic action on your turn, you can attack twice, instead of once.
 
 :   ***Shape of Spite (Chalice Form).*** Once per turn, when you restore Hit Points to a creature using the Chalice Form feature, it gains a bonus to its next d20 Test equal to your Wisdom modifier.

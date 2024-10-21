@@ -147,3 +147,5 @@ You gain an Epic Boon feat (see chapter 5) or another feat of your choice for wh
 ### Level 20: Eldritch Master
 
 When you use your Magical Cunning feature, you regain all your expended Pact Magic spell slots.
+
+--8<-- "includes/snippets/skills.md"

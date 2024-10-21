@@ -170,3 +170,5 @@ You gain an Epic Boon feat (see chapter 5) or another feat of your choice for wh
 ### Level 20: Words of Creation
 
 You have mastered two of the Words of Creation: the words of life and death. You therefore always have the *Power Word Heal* and *Power Word Kill* spells prepared. When you cast either spell, you can target a second creature with it if that creature is within 10 feet of the first target.
+
+--8<-- "includes/snippets/skills.md"

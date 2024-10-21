@@ -169,3 +169,5 @@ You gain an Epic Boon feat (see chapter 5) or another feat of your choice for wh
 ### Level 20: Arcane Apotheosis
 
 While your Innate Sorcery feature is active, you can use one Metamagic option on each of your turn without spending Sorcery Points on it.
+
+--8<-- "includes/snippets/skills.md"

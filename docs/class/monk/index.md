@@ -196,3 +196,5 @@ You gain an Epic Boon feat (see chapter 5) or another feat of your choice for wh
 ### Level 20: Body and Mind
 
 You have developed your body and mind to new heights. Your Dexterity and Wisdom scores increase by 4, to a maximum of 25.
+
+--8<-- "includes/snippets/skills.md"

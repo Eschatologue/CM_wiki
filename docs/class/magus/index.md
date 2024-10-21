@@ -77,7 +77,7 @@ You learn the signature enchantment of the Magi, marking you as a member of thei
 
 Objects in your Arcane Armoury gain the following benefits:
 
-- They count as magical Weapons, Shields, or sets of Armour.
+- They count as Magical Weapons, Shields, or sets of Armour.
 - You can use your Intelligence, in place of Dexterity, when calculating Armour Class in this Light and Medium armour, so long as you do not already add it to your Armour Class.
 - As a Bonus Action, you can shunt or summon any number of objects of your choice from within your Arcane Armoury, instantly equipping, donning, or doffing those items.
 
@@ -138,25 +138,25 @@ You learn to channel your spells through weapons. Once per turn when you would m
 
 If your attack misses, the spell fails and has no effect. On a hit, the spell takes effect immediately after the normal effects and damage of your weapon attack, using the rules below:
 
-**Area of Effect**
+:aoe-rad: ***Area of Effect***
 
 :   If the spell targets an area greater than a 10-foot cube, it takes effect as a 15-foot :aoe-cone: cone originating from you, which must include your target, or it is contained to only affect the target of your attack (your choice on hit).
 
-**Cantrips**
+:spell-level-0: ***Cantrips***
 
 :   You do not deal the damage of the cantrip along with the damage of your weapon attack. Instead, your weapon attack deals the damage type dealt by the cantrip, and applies the cantrip's additional effects, other than damage, on hit.
 
-**Concentration**
+:spell-concentration: ***Concentration***
 
 :   If the spell requires your concentration, you must concentrate on it as soon as it takes effect on hit.
 
-**Saving Throws**
+:d20-save: ***Saving Throw*** 
 
-:   If the spell requires a saving throw when cast, the target makes the initial saving throw at disadvantage on hit. If you score a critical hit on the attack, it automatically fails this saving throw. Other targets (if any) save as normal.
+:   If the spell requires a saving throw when cast, the target makes the first save at a :d20-disadv: Disadvantage on hit. If you score a Critical Hit on the attack, the target automatically fails the save. Other target (if any) make this save as normal.
 
-**Spell Attacks**
+:d20-attack: ***Attack Roll*** 
 
-:   If the spell requires a spell attack roll, it instantly takes effect when you hit with your weapon attack.
+:   If the spell requires an attack roll, it instantly take effect when you hit with a weapon attack.
 
 ### Level 3: Arcane Regeneration
 

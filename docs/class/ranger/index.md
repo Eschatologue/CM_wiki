@@ -189,3 +189,5 @@ You gain an Epic Boon feat (see chapter 5) or another feat of your choice for wh
 ### Level 20: Foe Slayer
 
 The damage die of your ***Hunter’s Mark*** improves even further to d10 when it is cast using Favored Enemy feature.
+
+--8<-- "includes/snippets/skills.md"

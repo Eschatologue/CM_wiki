@@ -144,3 +144,4 @@ You gain an Epic Boon feat (see chapter 5) or another feat of your choice for wh
 You can attack four times instead of once whenever you take the Attack action on your turn.
 
 --8<-- "includes/snippets/item-mastery.md"
+--8<-- "includes/snippets/skills.md"
