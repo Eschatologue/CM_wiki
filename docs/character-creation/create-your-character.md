@@ -12,19 +12,19 @@ When creating your character, you must adhere to three core principles that appl
 
 #### Team Cooperation
 
-:   **Your character must consistently work with and support the rest of the party.**
+**Your character must consistently work with and support the rest of the party.**
 
 :   A rogue who steals from party members or sabotages plans undermines group cohesion. Instead, create a rogue who uses their skills to benefit the party, like scouting ahead, gathering intelligence, or disarming traps to ensure safe passage for the group. Another example is a bard who not only performs to inspire allies but also uses their charm and wit to negotiate and forge alliances that benefit the entire party.
 
 #### Plot Engagement
 
-:   **Your character must be consistently willing to engage with the campaign's plot.**
+**Your character must be consistently willing to engage with the campaign's plot.**
 
 :   A character who refuses to participate in the main quest or constantly separates from the group disrupts the story. Instead, design a character with personal motivations that align with the campaign's goals, such as a ranger seeking revenge on the antagonist responsible for the apocalypse or a cleric on a mission to restore order and help survivors. These motivations should naturally lead the character to be involved in key events and conflicts of the campaign.
 
 #### Setting and Tone
 
-:   **Your character must plausibly fit into the campaign's setting and align with the overall tone of the campaign.**
+**Your character must plausibly fit into the campaign's setting and align with the overall tone of the campaign.**
  
 :   This setting uses a post-apocalyptic dystopian science fantasy world, characters should blend modern and fantasy elements. A traditional medieval knight would be out of place. Instead, create a knight equipped armour combining modern technology enchanted with ancient runes. Similarly, a mage might use arcane spells alongside gadgets, and a ranger could be adept at surviving in both urban ruins and wild wastelands, utilizing a mix of traditional skills and contemporary tools.
 
@@ -60,7 +60,7 @@ You'll fill in more details about your class later. Choosing your class is the m
 
 #### Choose a Background
 
-Choose your character's background, and write it on your character sheet. You can choose any of the backgrounds detailed in chapter 4, or your DM might offer additional backgrounds as options. For Crown & Misery, this campaign uses the **Custom Background** ruling, available in [Background] section.
+Choose your character's background, and write it on your character sheet. You can choose any of the backgrounds detailed in chapter 4, or your DM might offer additional backgrounds as options. For Crown & Misery, this campaign uses the **Custom Background** ruling, available in Background section.
 
 #### Choose Starting Equipment
 
@@ -68,7 +68,7 @@ Your background and class both provide starting equipment. Any coins that you ga
 
 #### Choose a Species
 
-Choose a species for your character. Once you've chosen a species, write it on your character sheet. Then record your species' traits.
+Choose a Species for your character. Once you've chosen a species, write it on your character sheet. Then record your species' traits.
 
 Your character's size and Speed are determined by the character's species; record these in the appropriate places on your character sheet as well (you may write just the first letter of your size).
 
@@ -291,7 +291,7 @@ Note these numbers on your character sheet.
 
 </p>
 
-Include all modifiers that apply to your Wisdom (Perception) checks. For example, if your character has a Wisdom of 15 and proficiency in the Perception skill, you have a Passive Perception of 14 (10 + 2 for your Wisdom modifier + 2 for proficiency).
+:   Include all modifiers that apply to your Wisdom (Perception) checks. For example, if your character has a Wisdom of 15 and proficiency in the Perception skill, you have a Passive Perception of 14 (10 + 2 for your Wisdom modifier + 2 for proficiency).
 
 ***Hit Points*** 
 
@@ -338,7 +338,7 @@ Include all modifiers that apply to your Wisdom (Perception) checks. For example
 <strong>Ranged attack bonus</strong> = Dexterity modifier + Proficiency Bonus
 </p>
 
-Look up the damage and properties of your weapons in chapter 6. You add the same ability modifier you use for attacks with a weapon to your damage rolls with that weapon.
+:   Look up the damage and properties of your weapons in chapter 6. You add the same ability modifier you use for attacks with a weapon to your damage rolls with that weapon.
 
 ***Spellcasting*** 
 
@@ -351,7 +351,7 @@ Look up the damage and properties of your weapons in chapter 6. You add the same
 <strong>Spell attack bonus</strong> = spellcasting ability modifier + Proficiency Bonus
 </p>
 
-Your spellcasting ability modifier for a spell is determined by whatever feature gives you the ability to cast the spell.
+:   Your spellcasting ability modifier for a spell is determined by whatever feature gives you the ability to cast the spell.
 
 ***Spell Slots, Cantrips, and Prepared Spells*** 
 

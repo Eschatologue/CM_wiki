@@ -9,7 +9,7 @@
 *[Range]: Two numbers show normal and long range; Disadvantage beyond normal range.
 *[Reach]: Increases attack and Opportunity Attack reach by 5 feet.
 *[Reload]: Reload after a set number of attacks. Proficient: Bonus Action; otherwise, Action.
-*[Scatter]: Within half range, deal the listed damage instead of normal dice.
+*[Scatter]: Within half range, deals damage in parenthesis.
 *[Sighted]: Disadvantage on attacks within 20 ft.; Advantage against targets that haven't moved 15 ft.
 *[Thrown]: Throw to make a ranged attack using the melee attack’s ability modifier.
 *[Two-Handed]: Requires two hands to attack.
