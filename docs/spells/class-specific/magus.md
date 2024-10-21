@@ -38,7 +38,7 @@ Any spells on the list below that are marked by an **S** are compatible with the
     | Name | School | Time | Range | Duration | Components | Source |
     |---|---|---|---|---|---|---|
     | *Absorb Elements* | Abjuration | Reaction | Self | 1 round | S | XGE |
-    | *Armor of Agathys* | Abjuration | Bonus | Self | 1 hour | V, S, M (a shard of blue glass) | PHB'24 |
+    | *Armour of Agathys* | Abjuration | Bonus | Self | 1 hour | V, S, M (a shard of blue glass) | PHB'24 |
     | *Burning Hands*^S^ | Evocation | Action | Self (15-foot cone) | Instantaneous | V, S | PHB'24 |
     | *Chromatic Orb*^S^ | Evocation | Action | 90 feet | Instantaneous | V, S, M (a diamond worth 50+ GP) | PHB'24 |
     | *Color Spray*^S^ | Illusion | Action | Self (15-foot cone) | Instantaneous | V, S, M (a pinch of colorful sand) | PHB'24 |
@@ -51,7 +51,7 @@ Any spells on the list below that are marked by an **S** are compatible with the
     | *Guiding Bolt*^S^ | Evocation | Action | 120 feet | 1 round | V, S | PHB'24 |
     | *Ice Knife*^S^ | Conjuration | Action | 60 feet | Instantaneous | S, M (a drop of water or a piece of ice) | PHB'24 |
     | *Jump* | Transmutation | Bonus | Touch | 1 minute | V, S, M (a grasshopper's hind leg) | PHB'24 |
-    | *Mage Armor* | Abjuration | Action | Touch | 8 hours | V, S, M (a piece of cured leather) | PHB'24 |
+    | *Mage Armour* | Abjuration | Action | Touch | 8 hours | V, S, M (a piece of cured leather) | PHB'24 |
     | *Magic Missile* | Evocation | Action | 120 feet | Instantaneous | V, S | PHB'24 |
     | *Protection from Evil and Good* | Abjuration | Action | Touch | Concentration, up to 10 minutes | V, S, M (a flask of Holy Water worth 25+ GP, which the spell consumes) | PHB'24 |
     | *Ray of Sickness*^S^ | Necromancy | Action | 60 feet | Instantaneous | V, S | PHB'24 |

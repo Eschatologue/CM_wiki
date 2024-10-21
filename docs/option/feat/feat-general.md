@@ -206,7 +206,7 @@ Your exposure to the Feywild's magic has changed you, granting you the following
 Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
 
 **Fey Magic**  
-Choone one level 1 spell from the Divination or Enchantment school of magic. You always have that and the Misty Step spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
+Choone one level 1 spell from the Divination or Enchantment school of magic. You always have that and the *Misty Step* spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
 
 ---
 
@@ -518,7 +518,7 @@ You gain the following benefits.
 Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
 
 **Shadow Magic**  
-Choone one level 1 spell from the Illusion or Necromancy school of magic. You always have that spell and the Invisibility spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
+Choone one level 1 spell from the Illusion or Necromancy school of magic. You always have that spell and the *Invisibility* spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
 
 ---
 
@@ -718,7 +718,7 @@ Your training with weapons allows you to use the mastery property of one kind of
 
 ## CM General Feat
 
-These General feats are homebrew
+These General feats are homebrew.
 
 ---
 
@@ -732,7 +732,7 @@ You are skilled at casting spells with a weapon in hand.
 Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
     
 **Armament Focus**  
-You can use a magical weapon or a magical shield, that you have Attuned (if required) as a spellcasting focus and to perform the Somatic component of a spell.
+You can use a Magical weapon or a Magical shield, that you have Attuned (if required) as a spellcasting focus and to perform the Somatic component of a spell.
     
 **Weapon Conduit**  
 When wielding a magical weapon with which you are proficient and Attuned with (if required), you can apply its bonus to damage rolls to the damage of any spell you cast, provided you use the weapon as your spellcasting focus.
@@ -752,7 +752,7 @@ Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
 You can use a card deck as your spellcasting focus.
     
 **Card Tricks**  
-You learn the **Thaumaturgy** and **Guidance** cantrip. When you cast those cantrips through card deck and you can use it to create illusions that duplicate the effects of stage magic or use it to reveal a divination to a target. You can conceal the verbal and somatic components of the spell as ordinary conversation or card handling.
+You learn the *Thaumaturgy* and *Guidance* cantrip. When you cast those cantrips through card deck and you can use it to create illusions that duplicate the effects of stage magic or use it to reveal a divination to a target. You can conceal the verbal and somatic components of the spell as ordinary conversation or card handling.
     
 **Hidden Ace**  
 When you finish a Long Rest, you can choose two spell from your class's spell list and imbue those spell into cards. The chosen spell must have a casting time of 1 action, and it must be a level for which you have :rsc-spell-slot: Spell Slots. The card remains imbued with this spell for 8 hours. 
@@ -763,7 +763,7 @@ While the card is imbued with the spell, you can use a :rsc-bonus-action: Bonus 
 
 ### Flash Recall
 
-*General Feat (Prerequisite: Level 4+, Spellcasting feature from a class that ^^prepares^^ spells)* 
+*General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic feature)* 
 
 You've developed the ability to instantly recall an unprepared spell in moments of sudden necessity. You gain the following benefits:
 
@@ -771,9 +771,9 @@ You've developed the ability to instantly recall an unprepared spell in moments 
 You increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
     
 **Compartmentalize**  
-As an :rsc-action: Action, you can instantly prepare a spell from your available class spell list (or spellbook, if you prepare spells from one) that you did not have prepared. This spell choice must be of a level for which you have :rsc-spell-slot: Spell Slots. You then lose preparation of a different spell of your choice of equal or higher spell level. 
+As an :rsc-action: Action, you can instantly learn a spell from your available class spell list (or spellbook, if your class prepare spells from one) that you did not know or have prepared. This spell choice must be of a level for which you have :rsc-spell-slot: Spell Slots. You then lose the knowledge or preparation of a different spell of your choice of equal or higher spell level. 
     
-If you are multiclassed, you can only Flash Recall spells from a class that prepares spells. Once you use this ability, you must finish a Short Rest or Long Rest before you can use it again.
+Once you use this ability, you must finish a Short Rest or Long Rest before you can use it again.
 
 ---
 
@@ -790,7 +790,7 @@ Increase your Dexterity score by 1, to a maximum of 20.
 When you make the extra attack of the :weapon-prop-light: Light weapon property, you can add your Ability Modifier to the damage of the extra attack if that attack is with a firearm that has the :weapon-prop-light: Light property.
     
 **Quickshot**  
-Immediately after initiative is rolled, you can use your :rsc-reaction: **Reaction** to make a single attack with your firearm.
+Immediately after Initiative is rolled, you can use your :rsc-reaction: Reaction to make a single attack with a Firearm.
 
 ---
 
@@ -854,7 +854,7 @@ Your body has the ability to recover quickly from terrible injuries, and is unus
 Increase your Constitution score by 1, to a maximum of 20.
 
 **From the Brink**   
-Once per long-rest, when you would be reduced to 0 Hit Points, make a :d20-save: Constitution Saving Throw. The DC equals 10 or half the damage you take, whichever number is higher. On a successful save, you are reduced to 1 Hit Points instead.
+Once per Long Rest, when you would be reduced to 0 Hit Points, make a :d20-save: Constitution Saving Throw. The DC equals 10 or half the damage you take, whichever number is higher. On a successful save, you are reduced to 1 Hit Points instead.
     
 **Fast Healing**  
 Whenever you regain Hit Points as a result of a spell, potion, or class feature (but not this feat), you regain additional Hit Points equal to your Constitution modifier (minimum of 1).
@@ -874,4 +874,7 @@ You increase your Dexterity by 1, up to a maximum of 20.
 When you take the Attack action and attack with melee weapon that has the :weapon-prop-finesse: Finesse property, you can choose to deal either :dmg-slashing: Slashing or :dmg-piercing: Piercing damage.
 
 **Fleuret**  
-The first creature you hit on your turn has :d20-disadv: Disadvantage on :d20-attack: Attack Roll against you until the start of your next turn.
+The first creature you hit on your turn has :d20-disadv: Disadvantage on any attack against you until the start of your next turn.
+
+--8<-- "includes/snippets/item-property.md"
+--8<-- "includes/snippets/item-mastery.md"

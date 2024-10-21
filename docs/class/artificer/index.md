@@ -223,7 +223,7 @@ Your mastery over magic items reaches its zenith.
 
 You have developed a mystical connection to your magic items, which you can draw on for protection:
 
-***Armored Soul.*** You gain a +1 bonus to all saving throws per magic item you are currently attuned to.
+***Armoured Soul.*** You gain a +1 bonus to all saving throws per magic item you are currently attuned to.
 
 ***Infusion Contingency.*** If you’re reduced to 0 Hit Points but not killed out-right, you can use your Reaction to end one of your Infusions, causing you to drop to 1 hit point instead of 0, and you instantly regain 30 Hit Points.
 

@@ -57,7 +57,7 @@ Target a Beast that you can see within range. The target must succeed on a Wisdo
 
 ---
 
-### Armor of Agathys
+### Armour of Agathys
 *Level 1 Abjuration*
 
 **Casting Time:** Bonus action   
@@ -434,7 +434,7 @@ The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a th
 **Components:** V, S  
 **Duration:** 1 hour
 
-You make yourself—including your clothing, armor, weapons, and other belongings on your person—look different until the spell ends. You can seem 1 foot shorter or taller and can appear heavier or lighter. You must adopt a form that has the same basic arrangement of limbs as you have. Otherwise, the extent of the illusion is up to you.
+You make yourself—including your clothing, armour, weapons, and other belongings on your person—look different until the spell ends. You can seem 1 foot shorter or taller and can appear heavier or lighter. You must adopt a form that has the same basic arrangement of limbs as you have. Otherwise, the extent of the illusion is up to you.
 
 The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing.
 
@@ -886,7 +886,7 @@ You touch a creature. The target's Speed increases by 10 feet until the spell en
 
 ---
 
-### Mage Armor
+### Mage Armour
 *Level 1 Abjuration*
 
 **Casting Time:** Action  
@@ -894,7 +894,7 @@ You touch a creature. The target's Speed increases by 10 feet until the spell en
 **Components:** V, S, M (a piece of cured leather)  
 **Duration:** 8 hours
 
-You touch a willing creature who isn't wearing armor. Until the spell ends, the target's base AC becomes 13 plus its Dexterity modifier. The spell ends early if the target dons armor.
+You touch a willing creature who isn't wearing armour. Until the spell ends, the target's base AC becomes 13 plus its Dexterity modifier. The spell ends early if the target dons armour.
 
 > **Classes:** Sorcerer, Wizard
 

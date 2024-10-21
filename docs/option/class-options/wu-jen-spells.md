@@ -35,7 +35,7 @@ This Wu Jen spell list includes all spells available from `PHB'24`, `TCE`, `XGE`
     | Name | School | Casting Time | Range | Duration | Components | Source |
     |---|---|---|---|---|---|---|
     | *Absorb Elements* | Abjuration | Reaction | Self | 1 round | S | XGE |
-    | *Armor of Agathys* | Abjuration | Bonus | Self | 1 hour | V, S, M (a shard of blue glass) | PHB'24 |
+    | *Armour of Agathys* | Abjuration | Bonus | Self | 1 hour | V, S, M (a shard of blue glass) | PHB'24 |
     | *Burning Hands* | Evocation | Action | Self (15-foot cone) | Instantaneous | V, S | PHB'24 |
     | *Create or Destroy Water* | Transmutation | Action | 30 feet | Instantaneous | V, S, M (a mix of water and sand) | PHB'24 |
     | *Ensnaring Strike* | Conjuration | Bonus | Self | Concentration, up to 1 minute | V | PHB'24 |

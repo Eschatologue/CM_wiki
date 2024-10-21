@@ -21,7 +21,7 @@ This Mark is only visible to you, and while it is active, you gain the benefits 
 
 Whenever you damage your Mark, it has Disadvantage on its subsequent saving throw to maintain Concentration.
 
-### Level 3: Spellbrearker Spell
+### Level 3: Spellbrearker's Magic
 
 When you reach a Magus level specified in the Spellbreaker Spells table, you thereafter always have the listed spells prepared.
 

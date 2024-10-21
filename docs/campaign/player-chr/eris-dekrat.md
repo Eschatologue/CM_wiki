@@ -171,7 +171,7 @@ This section presents this gimmick spell list. The spells are organized by spell
     | Name | School | Time | Range | Duration | Components | Source |
     |---|---|---|---|---|---|---|
     | *Absorb Elements* | Abjuration | Reaction | Self | 1 round | S | XGE |
-    | *Armor of Agathys* | Abjuration | Bonus | Self | 1 hour | V, S, M (a shard of blue glass) | PHB'24 |
+    | *Armour of Agathys* | Abjuration | Bonus | Self | 1 hour | V, S, M (a shard of blue glass) | PHB'24 |
     | *Burning Hands*^DS^ | Evocation | Action | Self (15-foot cone) | Instantaneous | V, S | PHB'24 |
     | *Chromatic Orb*^DS^ | Evocation | Action | 90 feet | Instantaneous | V, S, M (a diamond worth 50+ GP) | PHB'24 |
     | *Compelled Duel* | Enchantment | Bonus | 30 feet | Concentration, up to 1 minute | V | PHB'24 |

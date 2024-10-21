@@ -68,7 +68,7 @@ This Sorcerer spell list includes all spells available from `PHB'24`, `TCE`, `XG
     | *Grease* | Conjuration | Action | 60 feet | 1 minute | V, S, M (a bit of pork rind or butter) | PHB'24 |
     | *Ice Knife* | Conjuration | Action | 60 feet | Instantaneous | S, M (a drop of water or a piece of ice) | PHB'24 |
     | *Jump* | Transmutation | Bonus | Touch | 1 minute | V, S, M (a grasshopper's hind leg) | PHB'24 |
-    | *Mage Armor* | Abjuration | Action | Touch | 8 hours | V, S, M (a piece of cured leather) | PHB'24 |
+    | *Mage Armour* | Abjuration | Action | Touch | 8 hours | V, S, M (a piece of cured leather) | PHB'24 |
     | *Magic Missile* | Evocation | Action | 120 feet | Instantaneous | V, S | PHB'24 |
     | *Ray of Sickness* | Necromancy | Action | 60 feet | Instantaneous | V, S | PHB'24 |
     | *Shield* | Abjuration | Reaction | Self | 1 round | V, S | PHB'24 |

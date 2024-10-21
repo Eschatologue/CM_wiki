@@ -9,11 +9,11 @@ status: homebrew
 
 Magi who join the Order of Arcanists often find themselves in the service of Wizards and other learned practitioners of the arcane arts. While most Magi only study magic for its uses in combat, those who join this Order explore the broader uses of arcane magic, and will go so far as to keep a spellbook and learn rituals that will aid in their quest for knowledge.
 
-### Level 3: Advanced Armory
+### Level 3: Advanced Armoury
 
-Your Order has taught you to expand your Arcane Armory to hold more than the armaments of war. You can perform your Arcane Armory ritual on potions, spell scrolls, staffs, wands, Tiny wondrous items, and other Tiny items, storing them in your Arcane Armory. As normal, you can use a bonus action to shunt or summon these items from your Arcane Armory, but you must have a free hand to do so.
+Your Order has taught you to expand your Arcane Armoury to hold more than the armaments of war. You can perform your Arcane Armoury ritual on potions, spell scrolls, staffs, wands, Tiny wondrous items, and other Tiny items, storing them in your Arcane Armoury. As normal, you can use a bonus action to shunt or summon these items from your Arcane Armoury, but you must have a free hand to do so.
 
-Also, the maximum number of objects you can have as part of your Arcane Armory is equal to your Intelligence modifier (minimum of 1) + your Magus level. All other rules for your Arcane Armory still apply.
+Also, the maximum number of objects you can have as part of your Arcane Armoury is equal to your Intelligence modifier (minimum of 1) + your Magus level. All other rules for your Arcane Armoury still apply.
 
 ### Level 3: Arcane Spellbook
 
@@ -21,7 +21,7 @@ Unlike other Magi who memorize spells for use in battle, you maintain a spellboo
 
 **Spellbook**
 
-:   You gain a Spellbook that contains a number of spells of your choice equal to your number of Spells Known, which replace your current Spells Known. You choose these new spells from the Magus or Wizard spell list, but they must be of a level that you have the spell slots for as shown on the Magus table. Your Arcane Spellbook is a Tiny item that can be enchanted as part of your Arcane Armory.
+:   You gain a Spellbook that contains a number of spells of your choice equal to your number of Spells Known, which replace your current Spells Known. You choose these new spells from the Magus or Wizard spell list, but they must be of a level that you have the spell slots for as shown on the Magus table. Your Arcane Spellbook is a Tiny item that can be enchanted as part of your Arcane Armoury.
 
 **Preparing Spells**
 

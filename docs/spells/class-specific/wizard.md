@@ -71,7 +71,7 @@ This Wizard spell list includes all spells available from `PHB'24`, `TCE`, `XGE`
     | *Illusory Script* | Illusion (ritual) | 1 Min. | Touch | 10 days | S, M (ink worth 10+ GP, which the spell consumes) | PHB'24 |
     | *Jump* | Transmutation | Bonus | Touch | 1 minute | V, S, M (a grasshopper's hind leg) | PHB'24 |
     | *Longstrider* | Transmutation | Action | Touch | 1 hour | V, S, M (a pinch of dirt) | PHB'24 |
-    | *Mage Armor* | Abjuration | Action | Touch | 8 hours | V, S, M (a piece of cured leather) | PHB'24 |
+    | *Mage Armour* | Abjuration | Action | Touch | 8 hours | V, S, M (a piece of cured leather) | PHB'24 |
     | *Magic Missile* | Evocation | Action | 120 feet | Instantaneous | V, S | PHB'24 |
     | *Protection from Evil and Good* | Abjuration | Action | Touch | Concentration, up to 10 minutes | V, S, M (a flask of Holy Water worth 25+ GP, which the spell consumes) | PHB'24 |
     | *Ray of Sickness* | Necromancy | Action | 60 feet | Instantaneous | V, S | PHB'24 |

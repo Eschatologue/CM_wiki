@@ -85,7 +85,7 @@ You learn how to use your Infusions to specially modify your Arcane Armour.
 
 ### Level 15: Perfected Armour
 
-Your Arcane Armor gains additional benefits based on its model, as shown below.
+Your Arcane Armour gains additional benefits based on its model, as shown below.
 
 #### Guardian
 

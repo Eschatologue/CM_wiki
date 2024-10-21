@@ -15,14 +15,14 @@ Typically, Magi of this Order take on a single apprentice, teaching them, and on
 
 Your Order's style of combat is an art. You gain proficiency in Performance, and you can use your Strength or Dexterity, in place of Charisma, when making a Performance check.
 
-So long as you are not wearing Heavy armor or wielding a weapon with :weapon-prop-heavy: Heavy Property, you can use your bonus action to enter the trance known as the Blade Dance. This trance lasts for 1 minute, and while it is active, you gain the benefits below:
+So long as you are not wearing Heavy armour or wielding a weapon with :weapon-prop-heavy: Heavy Property, you can use your bonus action to enter the trance known as the Blade Dance. This trance lasts for 1 minute, and while it is active, you gain the benefits below:
 
 - Your Speed increases by 10 feet.
-- You gain a +1 bonus to your Armor Class.
+- You gain a +1 bonus to your Armour Class.
 - Once per turn, when you roll damage for an attack or spell, you can roll the damage dice twice and use the higher result.
 - You add your Intelligence modifier (minimum of +1) to all Strength (Athletics) and Dexterity (Acrobatics) checks.
 
-Your Blade Dance ends if you have the Incapacitated condition, if you don Heavy armor or a weapon with :weapon-prop-heavy: Heavy Property, or if you end it (no action required). 
+Your Blade Dance ends if you have the Incapacitated condition, if you don Heavy armour or a weapon with :weapon-prop-heavy: Heavy Property, or if you end it (no action required). 
 
 Once you enter a Blade Dance you must complete a Short or Long Rest before you can do so again. You can also restore your use of it by expending a level 1+ spell slot (no action required).
 
@@ -48,7 +48,7 @@ Your Order's emphasis on fluidity and martial skill has honed your reflexes. You
 
 ***Initiative Bonus.*** You add your Intelligence modifier to Initiative rolls.
 
-***Improved AC.*** Your Blade Dance Armor Class bonus becomes +2.
+***Improved AC.*** Your Blade Dance Armour Class bonus becomes +2.
 
 ### Level 15: Deadly Dance
 
@@ -58,10 +58,10 @@ You have become an expert of the Blade Dance, and while you are in this trance y
 
 ***Improved Spellsunder.*** Whenever you use Spellsunder, you add your Intelligence modifier (minimum of +1) to the attack roll you make.
 
-***Improved AC.*** Your Blade Dance Armor Class bonus becomes +3.
+***Improved AC.*** Your Blade Dance Armour Class bonus becomes +3.
 
 ### Level 20: Master of Blades
 
-You have reached the apex of your Order and been granted the title of Master of Blades. You are always considered to be under the effects of your Blade Dance so long as you are not wearing heavy armor or wielding a heavy weapon.
+You have reached the apex of your Order and been granted the title of Master of Blades. You are always considered to be under the effects of your Blade Dance so long as you are not wearing heavy armour or wielding a heavy weapon.
 
 Also, when you take the Attack action while in your Blade Dance, you make one additional attack as part of that action.

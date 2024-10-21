@@ -25,7 +25,7 @@ When you reach a Magus level specified in the Warder Spells table, you thereafte
 
 ### Level 3: Warder's Bond
 
-You are taught the signature protective style of your Order. You gain training in Heavy armor. Also, at the end of a Long Rest, you can touch a willing creature, forging a mystical bond that designates it as your Ward until your next Long Rest.
+You are taught the signature protective style of your Order. You gain training in Heavy armour. Also, at the end of a Long Rest, you can touch a willing creature, forging a mystical bond that designates it as your Ward until your next Long Rest.
 
 When your Ward is targeted by an attack or forced to make a saving throw and you are within 10 feet of it, you can use a Reaction to instantly switch places and become the target of the triggering attack or effect. You must be able to see your Ward to use this Reaction.
 

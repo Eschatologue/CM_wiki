@@ -5,19 +5,21 @@ status: homebrew
 
 # Path of the Ruffian
 
-> *Rage Born in the Streets - Written by Eschatologue*
+> *Rage Born in the Streets*
 
 While most Barbarians draw their Rage from the untamed wilderness, those who follow the Path of the Ruffian find their Rage in the shadowy underbelly of civilisation, in the slums of sprawling citadel cities and among the forgotten corners of society. Unlike others who fight for honour or noble causes, a Ruffian battles for the thrill of it—or simply to survive another day. Whatever drives them, Ruffians share one thing in common: when trouble arises, they prefer to settle matters with their fists.
+
+> Written by Eschatologue
 
 ### Level 3: The Wrong Crowd
 
 You have a way of connecting with the less savoury members of society. 
 
-You can speak, read, and write Thieves' Cant. Additionally, whenever you make a Charisma check when interacting with those who understand Thieves' Cant—such as criminals, rogues, or other disreputable figures—your proficiency bonus is doubled if it applies to the check.
+You can speak, read, and write Thieves' Cant. Additionally, whenever you make an ability check when interacting with those who understand Thieves' Cant—such as criminals, rogues, or other disreputable figures—your proficiency bonus is doubled if it applies to the check.
 
 ### Level 3: Bruiser's Might
 
-Your body itself has become a weapon. You gain the Unarmed Fighting Style feat. This feat can't be replaced.
+Your body itself has become a weapon. You gain the [Unarmed Fighting](../../option/feat/feat-fighting-style.md#unarmed-fighting) Fighting Style feat. This feat can't be replaced.
 
 Additionally, while you aren't wearing any Light, Medium or Heavy armour, you gain the following benefits:
 

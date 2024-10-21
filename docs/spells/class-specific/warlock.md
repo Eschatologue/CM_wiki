@@ -37,7 +37,7 @@ This Warlock spell list includes all spells available from `PHB'24`, `TCE`, `XGE
 
     | Name | School | Time | Range | Duration | Components | Source |
     |---|---|---|---|---|---|---|
-    | *Armor of Agathys* | Abjuration | Bonus | Self | 1 hour | V, S, M (a shard of blue glass) | PHB'24 |
+    | *Armour of Agathys* | Abjuration | Bonus | Self | 1 hour | V, S, M (a shard of blue glass) | PHB'24 |
     | *Arms of Hadar* | Conjuration | Action | Self (10-foot emanation) | Instantaneous | V, S | PHB'24 |
     | *Bane* | Enchantment | Action | 30 feet | Concentration, up to 1 minute | V, S, M (a drop of blood) | PHB'24 |
     | *Cause Fear* | Necromancy | Action | 60 feet | Concentration, up to 1 minute | V | XGE |
