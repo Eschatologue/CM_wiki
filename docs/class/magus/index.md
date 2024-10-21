@@ -13,7 +13,7 @@ status: homebrew
 | Trait | Detail |
 |---|---|
 | **Primary Ability** | Strength/Dexterity and Intelligence |
-| **Hit Point Die** | D10 per Magus level |
+| **Hit Point Die** | D8 per Magus level |
 | **Saving Throw Proficiencies** | Constitution and Intelligence |
 | **Skill Proficiencies** | Choose 2: Acrobatics, Arcana, Athletics, History, Investigation, Nature, or Performance. |
 | **Weapon Proficiencies** | Simple and Martial weapons |
@@ -51,7 +51,7 @@ As a Magus, you gain the following class features when you reach the specified M
 | Level | PB | Features | Cantrips Known | Spell Prepared | I | II | III | IV | V |
 |:-:|:-:|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 1 | +2 | Arcane Armoury, Fighting Style, Spellcasting | 2 | 2 | 2 | — | — | — | — |
-| 2 | +2 | [Spellstrike] | 2 | 3 | 2 | — | — | — | — |
+| 2 | +2 | Spellstrike | 2 | 3 | 2 | — | — | — | — |
 | 3 | +2 | Arcane Regeneration, Subclass Feature | 2 | 4 | 3 | — | — | — | — |
 | 4 | +2 | Ability Score Improvement | 3 | 5 | 3 | — | — | — | — |
 | 5 | +3 | Extra Attack, Spellsight | 3 | 6 | 4 | 2 | — | — | — |
@@ -220,3 +220,5 @@ When a creature you can see within 30 feet is targeted by a spell you can see, y
 
 [Magus Spell List]: ../../spells/class-specific/magus.md
 [Spellstrike]: #level-2-spellstrike
+
+--8<-- "includes/snippets/skills.md"

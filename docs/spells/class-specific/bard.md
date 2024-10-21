@@ -121,18 +121,18 @@ This Bard spell list includes all spells available from `PHB'24`, `TCE`, `XGE`, 
 
     | Name | School | Time | Range | Duration | Components | Source |
     |---|---|---|---|---|---|---|  
-    | *Charm Monster* | Enchantment | 4th | Action | 30 feet | 1 hour | V, S | PHB'24 |
-    | *Compulsion* | Enchantment | 4th | Action | 30 feet | Concentration, up to 1 minute | V, S | PHB'24 |
-    | *Confusion* | Enchantment | 4th | Action | 90 feet | Concentration, up to 1 minute | V, S, M (three nut shells) | PHB'24 |
-    | *Dimension Door* | Conjuration | 4th | Action | 500 feet | Instantaneous | V | PHB'24 |
-    | *Fount of Moonlight* | Evocation | 4th | Action | Self | Concentration, up to 10 minutes | V, S | PHB'24 |
-    | *Freedom of Movement* | Abjuration | 4th | Action | Touch | 1 hour | V, S, M (a leather strap) | PHB'24 |
-    | *Greater Invisibility* | Illusion | 4th | Action | Touch | Concentration, up to 1 minute | V, S | PHB'24 |
-    | *Hallucinatory Terrain* | Illusion | 4th | 10 Min. | 300 feet | 24 hours | V, S, M (a mushroom) | PHB'24 |
-    | *Locate Creature* | Divination | 4th | Action | Self | Concentration, up to 1 hour | V, S, M (fur from a bloodhound) | PHB'24 |
-    | *Phantasmal Killer* | Illusion | 4th | Action | 120 feet | Concentration, up to 1 minute | V, S | PHB'24 |
-    | *Polymorph* | Transmutation | 4th | Action | 60 feet | Concentration, up to 1 hour | V, S, M (a caterpillar cocoon) | PHB'24 |
-    | *Raulothim's Psychic Lance* | Enchantment | 4th | Action | 120 feet | Instantaneous | V | FTD |
+    | *Charm Monster* | Enchantment | Action | 30 feet | 1 hour | V, S | PHB'24 |
+    | *Compulsion* | Enchantment | Action | 30 feet | Concentration, up to 1 minute | V, S | PHB'24 |
+    | *Confusion* | Enchantment | Action | 90 feet | Concentration, up to 1 minute | V, S, M (three nut shells) | PHB'24 |
+    | *Dimension Door* | Conjuration | Action | 500 feet | Instantaneous | V | PHB'24 |
+    | *Fount of Moonlight* | Evocation | Action | Self | Concentration, up to 10 minutes | V, S | PHB'24 |
+    | *Freedom of Movement* | Abjuration | Action | Touch | 1 hour | V, S, M (a leather strap) | PHB'24 |
+    | *Greater Invisibility* | Illusion | Action | Touch | Concentration, up to 1 minute | V, S | PHB'24 |
+    | *Hallucinatory Terrain* | Illusion | 10 Min. | 300 feet | 24 hours | V, S, M (a mushroom) | PHB'24 |
+    | *Locate Creature* | Divination | Action | Self | Concentration, up to 1 hour | V, S, M (fur from a bloodhound) | PHB'24 |
+    | *Phantasmal Killer* | Illusion | Action | 120 feet | Concentration, up to 1 minute | V, S | PHB'24 |
+    | *Polymorph* | Transmutation | Action | 60 feet | Concentration, up to 1 hour | V, S, M (a caterpillar cocoon) | PHB'24 |
+    | *Raulothim's Psychic Lance* | Enchantment | Action | 120 feet | Instantaneous | V | FTD |
 
 === "Level 5"
 

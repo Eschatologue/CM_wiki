@@ -29,15 +29,25 @@ To be channeled this way, the spell must met the following requirements:
 
 On a hit, the spell takes effect immediately in addition of the normal effects and damage from your weapon attack, under the rules below:
 
-- :aoe-rad: ***Area of Effects.*** If the spell targets an area greater than a 10 ft. :aoe-cube: cube, it takes effect as a 15 ft. :aoe-cone: cone originating from you, which must include your target. Alternatively, it can be contained to only affect the target of your attack (your choice). Using a ranged weapon, your spell is contained to only affect the target of your attack.
+:aoe-rad: ***Area of Effects*** 
 
-- :spell-level-0: ***Cantrip.*** The cantrip **does not deal damage.** Instead, your weapon attack deals the damage type dealt by the cantrip, and applies the cantrip additional effects on hit, except for damage.
+:   If the spell targets an area greater than a 10 ft. :aoe-cube: cube, it takes effect as a 15 ft. :aoe-cone: cone originating from you, which must include your target. Alternatively, it can be contained to only affect the target of your attack (your choice). Using a ranged weapon, your spell is contained to only affect the target of your attack.
 
-- :spell-concentration: ***Concentration.*** If the spell requires your concentration, you must Concentrate on it as soon as it takes effect on hit.
+:spell-level-0: ***Cantrip*** 
 
-- :d20-save: ***Saving Throw.*** If the spell requires a saving throw when cast, the target makes the first save at a :d20-disadv: Disadvantage on hit. If you score a Critical Hit on the attack, the target automatically fails the save. Other target (if any) make this save as normal.
+:   The cantrip **does not deal damage.** Instead, your weapon attack deals the damage type dealt by the cantrip, and applies the cantrip additional effects on hit, except for damage.
 
-- :d20-attack: ***Attack Roll.*** If the spell requires an attack roll, it instantly take effect when you hit with a weapon attack.
+:spell-concentration: ***Concentration*** 
+
+:   If the spell requires your concentration, you must Concentrate on it as soon as it takes effect on hit.
+
+:d20-save: ***Saving Throw*** 
+
+:   If the spell requires a saving throw when cast, the target makes the first save at a :d20-disadv: Disadvantage on hit. If you score a Critical Hit on the attack, the target automatically fails the save. Other target (if any) make this save as normal.
+
+:d20-attack: ***Attack Roll*** 
+
+:   If the spell requires an attack roll, it instantly take effect when you hit with a weapon attack.
 
 ### Level 3: Self Taught Sorcery
 
@@ -46,7 +56,7 @@ The weave of magic courses through you, yet you've never bothered to learn how t
 ##### Arts & Swash Spellcasting
 
 | rogue level | cantrips known | spells known | spell slots | slot level |
-| :-: | :-: |  :-: | :-: | :-: |
+| :-: | :-: | :-: | :-: | :-: |
 | 3 | 2 | 3 | 1 | I |
 | 4 | 2 | 4 | 2 | I | 
 | 5 | 2 | 4 | 2 | II |
@@ -94,7 +104,7 @@ Whenever you finish a Long Rest, you can replace one spell on your list with ano
 
 #### Spellcasting Focus
 
-You brandish your weapon when you cast spells; weapons that are listed in **Weapon Proficiency** row in the [Core Rogue Trait](../../class/rogue/index.md#core-rogue-traits) table are spellcasting focus for you. Those weapon can also be used to perform the spell's somatic components. Any other arcane focuses is restricted for any Arts & Swash spell.
+You brandish your weapon when you cast spells; weapons that are listed in **Weapon Proficiency** row in the [Core Rogue Trait](../../class/rogue/index.md#core-rogue-traits) table are spellcasting focus for you. Those weapon can also be used to perform the spell's Somatic components. Any other arcane focuses is restricted for any Arts & Swash spell.
 
 ### Level 3: Spellbreaker's Mark
 
@@ -122,121 +132,124 @@ If the spell was cast at a level equal to the level of the spell slot you expend
 
 [spell list]: #arts--swash-spell-list
 
+--8<-- "includes/snippets/skills.md"
+
+---
+
 ## Arts & Swash' Spell List
 
-This section presents this gimmick spell list. The spells are organized by spell level and then alphabetized, and each spell’s school of magic is listed. In the Special column, *C* means the spell requires Concentration, *R* means it’s a Ritual, *M* means it requires a specific Material component, and *DC* means the spell fufill the prerequisites to be channeled through Dekrat's Special.
+This section presents this gimmick spell list. The spells are organized by spell level and then alphabetized. **DC** means the spell fufill the prerequisites to be channeled through Dekrat's Special.
 
-##### Cantrip (Level 0 spells)
+=== "Cantrip (Level 0 spells)"
 
-| Name | School | Special |
-|---|---|---|
-| *Acid Splash* | Evocation | DS |
-| *Blade Ward* | Abjuration | C |
-| *Booming Blade* | Evocation | M |
-| *Chill Touch* | Necromancy | DS |
-| *Dancing Lights* | Illusion | C |
-| *Fire Bolt* | Evocation | DS |
-| *Green-Flame Blade* | Evocation | M |
-| *Gust* | Transmutation | - |
-| *Mage Hand* | Conjuration | - |
-| *Light* | Evocation | - |
-| *Minor Illusion* | Illusion | - |
-| *Mind Sliver* | Enchantment | - |
-| *Prestidigitation* | Transmutation | - |
-| *Ray of Frost* | Evocation | DS |
-| *Shocking Grasp* | Evocation | DS |
-| *Sorcerous Burst* | Evocation | DS |
-| *Thunderclap* | Evocation | - |
-| *True Strike* | Divination | M |
-| *Vicious Mockery* | Enchantment | DS |
+    | Name | School | Time | Range | Duration | Components | Source |
+    |---|---|---|---|---|---|---|
+    | *Acid Splash*^DS^ | Evocation | Action | 60 feet | Instantaneous | V, S | PHB'24 |
+    | *Blade Ward* | Abjuration | Action | Self | Concentration, up to 1 minute | V, S | PHB'24 |
+    | *Booming Blade* | Evocation | Action | Self (5-foot radius) | 1 round | S, M (a melee weapon worth at least 1 sp) | TCE |
+    | *Chill Touch*^DS^ | Necromancy | Action | Touch | Instantaneous | V, S | PHB'24 |
+    | *Dancing Lights* | Illusion | Action | 120 feet | Concentration, up to 1 minute | V, S, M (a bit of phosphorus) | PHB'24 |
+    | *Fire Bolt*^DS^ | Evocation | Action | 120 feet | Instantaneous | V, S | PHB'24 |
+    | *Green-Flame Blade* | Evocation | Action | Self (5-foot radius) | Instantaneous | S, M (a melee weapon worth at least 1 sp) | TCE |
+    | *Gust* | Transmutation | Action | 30 feet | Instantaneous | V, S | XGE |
+    | *Light* | Evocation | Action | Touch | 1 hour | V, M (a firefly or phosphorescent moss) | PHB'24 |
+    | *Lightning Lure*^DS^ | Evocation | Action | Self (15-foot radius) | Instantaneous | V | TCE |
+    | *Mage Hand* | Conjuration | Action | 30 feet | 1 minute | V, S | PHB'24 |
+    | *Prestidigitation* | Transmutation | Action | 10 feet | 1 hour | V, S | PHB'24 |
+    | *Ray of Frost*^DS^ | Evocation | Action | 60 feet | Instantaneous | V, S | PHB'24 |
+    | *Shocking Grasp*^DS^ | Evocation | Action | Touch | Instantaneous | V, S | PHB'24 |
+    | *Sorcerous Burst*^DS^ | Evocation | Action | 120 feet | Instantaneous | V, S | PHB'24 |
+    | *True Strike* | Divination | Action | Self | Instantaneous | S, M (a weapon with which you have proficiency and that is worth 1+ CP) | PHB'24 |
+    | *Vicious Mockery* | Enchantment | Action | 60 feet | Instantaneous | V | PHB'24 |
 
-##### Level 1 Spells
+=== "Level 1 Spells"
 
-| Spell Name | School | Special |
-|---|---|---|
-| *Absorb Elements* | Abjuration | - |
-| *Armour of Agathys* | Abjuration | - |
-| *Burning Hands* | Evocation | DS |
-| *Charm Person* | Enchantment | - |
-| *Chromatic Orb* | Evocation | DS |
-| *Color Spray* | Illusion | DS |
-| *Compelled Duel* | Enchantment | C |
-| *Detect Evil and Good* | Divination | C |
-| *Detect Magic* | Divination | C, R |
-| *Faerie Fire* | Evocation | C |
-| *Gift of Alacrity* | Divination | - |
-| *Grease* | Conjuration | DS |
-| *Hunter's Mark* | Divination | C |
-| *Ice Knife* | Conjuration | DS |
-| *Jump* | Transmutation | - |
-| *Longstrider* | Transmutation | - |
-| *Shield* | Abjuration | - |
-| *Thunderwave* | Evocation | DS |
+    | Name | School | Time | Range | Duration | Components | Source |
+    |---|---|---|---|---|---|---|
+    | *Absorb Elements* | Abjuration | Reaction | Self | 1 round | S | XGE |
+    | *Armor of Agathys* | Abjuration | Bonus | Self | 1 hour | V, S, M (a shard of blue glass) | PHB'24 |
+    | *Burning Hands*^DS^ | Evocation | Action | Self (15-foot cone) | Instantaneous | V, S | PHB'24 |
+    | *Chromatic Orb*^DS^ | Evocation | Action | 90 feet | Instantaneous | V, S, M (a diamond worth 50+ GP) | PHB'24 |
+    | *Compelled Duel* | Enchantment | Bonus | 30 feet | Concentration, up to 1 minute | V | PHB'24 |
+    | *Color Spray*^DS^ | Illusion | Action | Self (15-foot cone) | Instantaneous | V, S, M (a pinch of colorful sand) | PHB'24 |
+    | *Detect Evil and Good* | Divination | Action | Self (30-foot radius) | Concentration, up to 10 minutes | V, S | PHB'24 |
+    | *Detect Magic* | Divination (ritual) | Action | Self (30-foot radius) | Concentration, up to 10 minutes | V, S | PHB'24 |
+    | *Faerie Fire*^DS^ | Evocation | Action | 60 feet | Concentration, up to 1 minute | V | PHB'24 |
+    | *Gift of Alacrity* | Divination | 1 Min. | Touch | 8 hours | V, S | EGW |
+    | *Grease*^DS^ | Conjuration | Action | 60 feet | 1 minute | V, S, M (a bit of pork rind or butter) | PHB'24 |
+    | *Ice Knife*^DS^ | Conjuration | Action | 60 feet | Instantaneous | S, M (a drop of water or a piece of ice) | PHB'24 |
+    | *Jump* | Transmutation | Bonus | Touch | 1 minute | V, S, M (a grasshopper's hind leg) | PHB'24 |
+    | *Longstrider* | Transmutation | Action | Touch | 1 hour | V, S, M (a pinch of dirt) | PHB'24 |
+    | *Shield* | Abjuration | Reaction | Self | 1 round | V, S | PHB'24 |
+    | *Thunderwave*^DS^ | Evocation | Action | Self (15-foot cube) | Instantaneous | V, S | PHB'24 |
 
-##### Level 2 Spells
+=== "Level 2"
 
-| Spell Name | School | Special |
-|---|---|---|
-| *Aganazzar's Scorcher* | Evocation | - |
-| *Blindness/Deafness* | Necromancy | DS |
-| *Darkvision* | Transmutation | - |
-| *Enhance Ability* | Transmutation | C |
-| *Enlarge/Reduce* | Transmutation | C, DS |
-| *Foreign Ironwind* | Conjuration | - |
-| *Gust of Wind* | Evocation | C, DS |
-| *Hold Person* | Enchantment | C, DS |
-| *Magic Weapon* | Transmutation | C |
-| *Mirror Image* | Illusion | - |
-| *Misty Step* | Conjuration | - |
-| *Ray of Enfeeblement* | Necromancy | C, DS |
-| *Shatter* | Evocation | DS |
-| *Silence* | Illusion | C, R |
-| *Spray of Cards* | Conjuration | DS |
-| *Zone of Truth* | Enchantment | C |
+    | Name | School | Time | Range | Duration | Components | Source |
+    |---|---|---|---|---|---|---|
+    | *Aganazzar's Scorcher* | Evocation | Action | 30 feet | Instantaneous | V, S, M (a red dragon's scale) | XGE |
+    | *Blindness/Deafness*^DS^ | Transmutation | Action | 120 feet | 1 minute | V | PHB'24 |
+    | *Darkvision* | Transmutation | Action | Touch | 8 hours | V, S, M (a dried carrot) | PHB'24 |
+    | *Enhance Ability* | Transmutation | Action | Touch | Concentration, up to 1 hour | V, S, M (fur or a feather) | PHB'24 |
+    | *Enlarge/Reduce*^DS^ | Transmutation | Action | 30 feet | Concentration, up to 1 minute | V, S, M (a pinch of powdered iron) | PHB'24 |
+    | *Foreign Ironwind* | Conjuration | Action | 30 feet | Instantaneous| S, M (a melee weapon worth 1+ SP) | CM |
+    | *Gust of Wind*^DS^ | Evocation | Action | Self | Concentration, up to 1 minute | V, S, M (a legume seed) | PHB'24 |
+    | *Hold Person*^DS^ | Enchantment | Action | 60 feet | Concentration, up to 1 minute | V, S, M (a straight piece of iron) | PHB'24 |
+    | *Magic Weapon* | Transmutation | Bonus | Touch | 1 hour | V, S | PHB'24 |
+    | *Misty Step* | Conjuration | Bonus | Self | Instantaneous | V | PHB'24 |
+    | *Ray of Enfeeblement* | Necromancy | Action | 60 feet | Concentration, up to 1 minute | V, S | PHB'24 |
+    | *Scorching Ray*^DS^ | Evocation | Action | 120 feet | Instantaneous | V, S | PHB'24 |
+    | *Shatter*^DS^ | Evocation | Action | 60 feet | Instantaneous | V, S, M (a chip of mica) | PHB'24 |
+    | *Silence*^DS^ | Illusion (ritual) | Action | 120 feet | Concentration, up to 10 minutes | V, S | PHB'24 |
+    | *Spray of Cards*^DS^ | Conjuration | Action | Self (15-foot cone) | Instantaneous | V, S, M (a deck of cards) | BMT |
+    | *Zone of Truth* | Enchantment | Action | 60 feet | 10 minutes | V, S | PHB'24 |
 
-##### Level 3 Spells 
+=== "Level 3"
 
-| Spell Name | School | Special |
-|---|---|---|
-| *Ashardalon's Stride* | Transmutation | C |
-| *Dispel Magic* | Abjuration | - |
-| *Erupting Earth* | Evocation | DS |
-| *Fireball* | Evocation | DS |
-| *Haste* | Transmutation | C |
-| *Lightning Bolt* | Evocation | DS |
-| *Magic Circle* | Abjuration | M |
-| *Nondetection* | Abjuration | M |
-| *Protection from Energy* | Abjuration | C |
-| *Pulse Wave* | Evocation | DS |
-| *Slow* | Transmutation | C, DS |
-| *Thunder Step* | Conjuration | - |
-| *Tidal Wave* | Conjuration | DS |
-| *Water Walk* | Transmutation | R |
+    | Name | School | Time | Range | Duration | Components | Source |
+    |---|---|---|---|---|---|---|
+    | *Ashardalon's Stride* | Transmutation | Bonus | Self | Concentration, up to 1 minute | V, S | FTD |
+    | *Counterspell* |  Abjuration | Reaction | 60 feet | Instantaneous | S | PHB'24 |
+    | *Dispel Magic* |  Abjuration | Action | 120 feet | Instantaneous | V, S | PHB'24 |
+    | *Erupting Earth*^DS^ |  Transmutation | Action | 120 feet | Instantaneous | V, S, M (a piece of obsidian) | XGE |
+    | *Fireball*^DS^ |  Evocation | Action | 150 feet | Instantaneous | V, S, M (a ball of bat guano and sulfur) | PHB'24 |
+    | *Haste* |  Transmutation | Action | 30 feet | Concentration, up to 1 minute | V, S, M (a shaving of licorice root) | PHB'24 |
+    | *Lightning Bolt*^DS^ |  Evocation | Action | Self (100-foot line) | Instantaneous | V, S, M (a bit of fur and a crystal rod) | PHB'24 |
+    | *Magic Circle* |  Abjuration | 1 Min. | 10 feet | 1 hour | V, S, M (salt and powdered silver worth 100+ GP, which the spell consumes) | PHB'24 |
+    | *Nondetection* | Abjuration | Action | Touch | 8 hours | V, S, M (a pinch of diamond dust worth 25+ GP, which the spell consumes) | PHB'24 |
+    | *Protection from Energy* |  Abjuration | Action | Touch | Concentration, up to 1 hour | V, S | PHB'24 |
+    | *Slow*^DS^ |  Transmutation | Action | 120 feet | Concentration, up to 1 minute | V, S, M (a drop of molasses) | PHB'24 |
+    | *Thunder Step* |  Conjuration | Action | 90 feet | Instantaneous | V | XGE |
+    | *Tidal Wave*^DS^ |  Conjuration | Action | 120 feet | Instantaneous | V, S, M (a drop of water) | XGE |
+    | *Wall of Water* |  Evocation | Action | 60 feet | Concentration, up to 10 minutes | V, S, M (a drop of water) | XGE |
+    | *Water Walk* |  Transmutation (ritual) | Action | 30 feet | 1 hour | V, S, M (a piece of cork) | PHB'24 |
 
-##### Level 4 Spells 
+=== "Level 4"
 
-| Spell Name | School | Special |
-|---|---|---|
-| *Arcane Eye* | Divination | C |
-| *Banishment* | Abjuration | C, DS |
-| *Confusion* | Enchantment | C |
-| *Elemental Bane* | Transmutation | C |
-| *Fire Shield* | Evocation | - |
-| *Freedom of Movement* | Abjuration | M |
-| *Greater Invisibility* | Illusion | C |
-| *Ice Storm* | Evocation | DS |
-| *Resilient Sphere* | Evocation | C, DS |
-| *Wall of Fire* | Evocation | C |
+    | Name | School | Time | Range | Duration | Components | Source |
+    |---|---|---|---|---|---|---|
+    | *Arcane Eye* | Divination | Action | 30 feet | Concentration, up to 1 hour | V, S, M (a bit of bat fur) | PHB'24 |
+    | *Banishment*^DS^ | Abjuration | Action | 30 feet | Concentration, up to 1 minute | V, S, M (a pentacle) | PHB'24 |
+    | *Confusion* | Enchantment | Action | 90 feet | Concentration, up to 1 minute | V, S, M (three nut shells) | PHB'24 |
+    | *Elemental Bane*^DS^ | Transmutation | Action | 90 feet | Concentration, up to 1 minute | V, S | XGE |
+    | *Fire Shield* | Evocation | Action | Self | 10 minutes | V, S, M (a bit of phosphorus or a firefly) | PHB'24 |
+    | *Freedom of Movement* | Abjuration | Action | Touch | 1 hour | V, S, M (a leather strap) | PHB'24 |
+    | *Greater Invisibility* | Illusion | Action | Touch | Concentration, up to 1 minute | V, S | PHB'24 |
+    | *Ice Storm*^DS^ | Evocation | Action | 300 feet | Instantaneous | V, S, M (a mitten) | PHB'24 |
+    | *Otiluke's Resilient Sphere*^DS^ | Abjuration | Action | 30 feet | Concentration, up to 1 minute | V, S, M (a glass sphere) | PHB'24 |
+    | *Wall of Fire* | Evocation | Action | 120 feet | Concentration, up to 1 minute | V, S, M (a piece of charcoal) | PHB'24 |
+    | *Raulothim's Psychic Lance* | Enchantment | Action | 120 feet | Instantaneous | V | FTD |
 
-##### Level 5 Spells 
+=== "Level 5"
 
-| Spell Name | School | Special |
-|---|---|---|
-| *Dispel Evil and Good* | Abjuration | DS |
-| *Hold Monster* | Enchantment | C, DS |
-| *Legend Lore* | Divination | M |
-| *Mislead* | Illusion | C |
-| *Scrying* | Divination | C, R |
-| *Skill Empowerment* | Transmutation | C |
-| *Synaptic Static* | Enchantment | DS |
-| *Wall of Force* | Evocation | C |
+    | Name | School | Time | Range | Duration | Components | Source |
+    |---|---|---|---|---|---|---|
+    | *Dispel Evil and Good*^DS^ | Abjuration | Action | Self | Concentration, up to 1 minute | V, S, M (powdered silver and iron) | PHB'24 |
+    | *Cone of Cold*^DS^ | Evocation | Action | Self (60-foot cone) | Instantaneous | V, S, M (a small crystal or glass cone) | PHB'24 |
+    | *Contagion*^DS^ | Necromancy | Action | Touch | 7 days | V, S | PHB'24 |
+    | *Dispel Evil and Good*^DS^ | Abjuration | Action | Self | Concentration, up to 1 minute | V, S, M (powdered silver and iron) | PHB'24 |
+    | *Hold Monster*^DS^ | Enchantment | Action | 90 feet | Concentration, up to 1 minute | V, S, M (a straight piece of iron) | PHB'24 |
+    | *Scrying* | Divination | 10 Min. | Self | Concentration, up to 10 minutes | V, S, M (a focus worth 1,000+ GP, such as a crystal ball, mirror, or water-filled font) | PHB'24 |
+    | *Synaptic Static*^DS^ | Enchantment | Action | 120 feet | Instantaneous | V, S | PHB'24 |
+    | *Teleportation Circle* | Conjuration | 1 Min. | 10 feet | 1 round | V, M (rare inks worth 50+ GP, which the spell consumes) | PHB'24 |
+    | *Wall of Force* | Evocation | Action | 120 feet | Concentration, up to 10 minutes | V, S, M (a shard of glass) | PHB'24 |
