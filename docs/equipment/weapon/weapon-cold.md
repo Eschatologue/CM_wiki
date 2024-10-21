@@ -111,5 +111,6 @@ Martial weapons require more training to use effectively but offer greater damag
 [mastery]: index.md#mastery-properties
 
 --8<-- "includes/snippets/inv-notation.md"
+--8<-- "includes/snippets/item-mastery.md"
 
 
