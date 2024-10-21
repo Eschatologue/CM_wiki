@@ -565,7 +565,7 @@
 }
 [data-md-color-scheme=slate] .md-search__input {
   color: var(--md-text-color);
-  background-color: var(--md-default-bg-color);
+  background-color: var(--md-default-bg-color--50);
 }
 [data-md-color-scheme=slate] .md-search__input:hover {
   background-color: var(--md-default-bg-color--50);
