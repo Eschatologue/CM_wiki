@@ -1,3 +1,7 @@
+---
+title: Ydastriel Khaine's Gimmick
+---
+
 # Parable of the Stars
 
 *Seven Spires with seven Ascent, each represents a concept and in some ways a purpose, and those who follows a specific Ascent can draw powers from it. The spires are beings of higher power, some can say they even trancends the concept of God that we once has.* 

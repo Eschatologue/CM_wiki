@@ -1,3 +1,7 @@
+---
+title: Eris Decrat's Gimmick
+---
+
 # Arts & Swash
 
 > *A man born into nobility, with a legacy of great achievements, yet devoid of the qualifications, for he carries the weight of his lineage.*
@@ -94,7 +98,7 @@ The number of spells on your list increases as you gain Rogue levels, as shown i
 
 If another Arts & Swash feature gives you spells that you always have prepared or know, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Arts & Swash spells for you.
 
-##### Changing Your Prepared Spells
+#### Changing Your Prepared Spells
 
 Whenever you finish a Long Rest, you can replace one spell on your list with another Arts & Swash spell of an eligible level.
 
@@ -160,7 +164,7 @@ This section presents this gimmick spell list. The spells are organized by spell
     | *Shocking Grasp*^DS^ | Evocation | Action | Touch | Instantaneous | V, S | PHB'24 |
     | *Sorcerous Burst*^DS^ | Evocation | Action | 120 feet | Instantaneous | V, S | PHB'24 |
     | *True Strike* | Divination | Action | Self | Instantaneous | S, M (a weapon with which you have proficiency and that is worth 1+ CP) | PHB'24 |
-    | *Vicious Mockery* | Enchantment | Action | 60 feet | Instantaneous | V | PHB'24 |
+    | *Vicious Mockery*^DS^ | Enchantment | Action | 60 feet | Instantaneous | V | PHB'24 |
 
 === "Level 1 Spells"
 

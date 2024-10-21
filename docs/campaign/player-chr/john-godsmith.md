@@ -1,3 +1,7 @@
+---
+title: John K. Godsmith's Gimmick
+---
+
 # Path of the Finality
 
 You stand as the last remnant of a lineage that has long perished—a relic from an old world, the descendants of those erased from history. As this world approaches its end, your story is just beginning. Questions beg answers, and loose ends yearn to be tied.
