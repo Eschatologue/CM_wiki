@@ -359,18 +359,15 @@ nav:
       - Ydastriel Khaine: campaign/player-chr/ydastriel-khaine.md
       - Eris Decrat: campaign/player-chr/eris-dekrat.md
   - Lore:
+    - lore/index.md
     - Antares: 
       - lore/antares/index.md
-      - Nations:
-        - London: lore/antares/nation/london.md
-        - Myrkheim: lore/antares/nation/myrkheimr.md
-        - Valinor: lore/antares/nation/valinor.md
-      # - Geography:
-      #   - Landmarks: lore/antares/geo/landmarks.md
+    - Nations:
+      - London: lore/antares/nation/london.md
+      - Myrkheim: lore/antares/nation/myrkheimr.md
+      - Valinor: lore/antares/nation/valinor.md
     - Technology and Magic:
       - lore/technology-and-magic/index.md
-      # - Technology: lore/technology-and-magic/technology.md
-      # - Magic: lore/technology-and-magic/magic.md
     - The Warp:
       - lore/warp/index.md
       - Warp Storm: lore/warp/warp-storm.md

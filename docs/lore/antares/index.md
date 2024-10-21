@@ -6,33 +6,7 @@ search:
 
 # Antares Continent
 
-The Crown and Misery campaign takes place in the post-apocalyptic, dystopian science fantasy continent of Antares. This super-continent is characterized by rugged landscapes, treacherous terrains, and ethereal beauty, presenting both awe-inspiring wonders and unforgiving challenges. The terrain varies dramatically, featuring towering mountain ranges, harsh and searing deserts, an eternal frozen wasteland, and deep, verdant forests, each beckoning wanderers to unravel their hidden mysteries.
-
-## Etymology
-
-The word "Antares" originated from the brightest star in the constellation of Scorpius. It has the Bayer designation α **Scorpii**, which is Latinised to **Alpha Scorpii**. Its traditional name however, derives from the Ancient Greek **Ἀντάρης**, meaning **"rival to Ares".**
-
-## History
-
-The history of Antares is largely obscured by the passage of time and recurrent catastrophic events, which have often prioritised survival over the preservation of records. Despite these challenges, key moments have been recorded, providing insight into the continent's past.
-
-The history of Antares is segmented by events known as "Warp Maelstorms," which mark the transitions between ages. To date, two such maelstorms have been documented, with the possibility of earlier events that have been lost to time.
-
-#### The First Maelstorm
-
-The **First Maelstorm** is an ancient event whose specific details are largely unknown. It is known, however, for the collapse of the civilisation known as **Eridu**, the extinction of primordial deities, and the gradual decline of the Aeginae, ancient dragons that once dominated the continent. This event is recognised as the end of the "Old World" and the beginning of a new era.
-
-#### The Second Maelstorm
-
-The **Second Maelstorm**, occurring approximately 500 years after the first, is better documented. This event drastically altered the geography of Antares, leading to the destruction of many coastal regions and forcing surviving civilisations to move inland. The maelstorm also resulted in the shattering of the moon, creating a ring around the planet, and increased the frequency of smaller warpstorms. Additionally, this era saw the emergence of the "Spires", beings of immense power that surpassed even that of the gods and Aeginae.
-
-#### The Millennium Dawn
-
-The **Millennium Dawn** began approximately 200 years after the Second Maelstorm and is marked by the fall of the Tähdenvalta Empire following the **Great Split**, a major conflict that reshaped the political landscape of Antares. This era has seen the rise of a [new power](nation/london.md), and it is within this period that current events, including the ongoing D&D campaign, are set.
-
-## Geography
-
-Antares is a continent of contrasts, featuring expansive deserts, fertile plains, towering mountain ranges, and dense rainforests. The geography of Antares profoundly shapes its geopolitical landscape, dictating the survival and prosperity of its six remaining nations. The dangerous wildlife that inhabits these untamed lands makes much of the fertile regions uninhabitable, forcing populations to reside within the fortified Citadel cities.
+The Crown and Misery campaign takes place in the continent of **Antares**. This super-continent is characterized by rugged landscapes, treacherous terrains, and ethereal beauty, presenting both awe-inspiring wonders and unforgiving challenges. The terrain varies dramatically, featuring towering mountain ranges, harsh and searing deserts, an eternal frozen wasteland, and deep, verdant forests, each beckoning wanderers to unravel their hidden mysteries.
 
 <figure markdown="span">
 
@@ -40,33 +14,33 @@ Antares is a continent of contrasts, featuring expansive deserts, fertile plains
 
 </figure>
 
-#### Deserts and Plains
+## Etymology
 
-Antares is dominated by vast arid deserts and lush plains. These fertile regions, although promising, are perilous due to the presence of dangerous wildlife. London and the surface region of Sotterano partially control some of these areas, but beyond the Citadel cities' protective walls, these lands remain largely uninhabited.
+The word "Antares" originated from the brightest star in the constellation of Scorpius. It has the Bayer designation α **Scorpii**, which is Latinised to **Alpha Scorpii**. Its traditional name however, derives from the Ancient Greek **Ἀντάρης**, meaning **"rival to Ares".**
 
-#### Mountain Ranges
+## History and Era
 
-A major mountain range spans the continent from north to south, passing through the dwarven nation of Myrkheim. This natural barrier is a defining feature of Antares and plays a crucial role in the continent's geography.
+The history of Antares is largely obscured by the passage of time and recurrent catastrophic events, which have often prioritised survival over the preservation of records. Despite these challenges, key moments have been recorded, providing insight into the continent's past.
 
-#### The Underdark
+The history of Antares is segmented by events known as "Warp Maelstorms," which mark the transitions between ages. To date, two such maelstorms have been documented, with the possibility of earlier events that have been lost to time.
 
-To the west of the mountain range lies the 'Underdark,' a vast expanse of subterranean caverns. Much of Sotterano resides within this underground realm, which remains largely unexplored by the majority of Antares' inhabitants. Sotteranis build their holy cities in this region.
+### The First Maelstorm
 
-#### Eastern Regions
+The **First Maelstorm** is an ancient event whose specific details are largely unknown. It is known, however, for the collapse of the civilisation known as **Eridu**, the extinction of primordial deities, and the gradual decline of the Aeginae, ancient dragons that once dominated the continent. This event is recognised as the end of the "Old World" and the beginning of a new era.
 
-East of the mountain range is Gallia, a realm rich in magic and sorcery, often mockingly referred to as "The French" by the Londoners. Gallia's southwestern territories are covered in lush rainforests. This region is the second most fertile lands left available in Antares, making Gallia one of the continent's bread basket.
+### The Second Maelstorm
 
-#### Western Regions
+The **Second Maelstorm**, occurring approximately 500 years after the first, is better documented. This event drastically altered the geography of Antares, leading to the destruction of many coastal regions and forcing surviving civilisations to move inland. The maelstorm also resulted in the shattering of the moon, creating a ring around the planet, and increased the frequency of smaller warpstorms. Additionally, this era saw the emergence of the "Spires", beings of immense power that surpassed even that of the gods and Aeginae.
 
-The area now occupied by London was once a dense forest called 'The High Forest', but these were largely cleared for building materials following Londons victorious war against the elves. Any traces of The High Forest that remains is located at the city of Alvdalen, an Elven reservation governed by London's Ministry of Heritage.
+### The Millennium Dawn
 
-#### Northern Territories
+The **Millennium Dawn** began approximately 200 years after the Second Maelstorm and is marked by the fall of the Tähdenvalta Empire following the **Great Split**, a major conflict that reshaped the political landscape of Antares. This era has seen the rise of a new power, and it is within this period that current events, including the ongoing D&D campaign, are set.
 
-Valinor, located in the distant north, serves as a sanctuary for elven refugees. This region is one of the few places in northern Antares that can be described as "warm," offering a rare respite from the continent's harsh climate. 
+## Pre-Industrial Revolution
 
-#### Coastal Regions and Oceans
+Antares stands at the edge of a transformative age, much like the Industrial Revolution in our world. The remnants of ancient magic and technology are giving way to new ideas and innovations. This period is marked by vast societal changes, as cities begin to expand, machines overtakes the flesh, and the old ways struggle to remain relevant. However, unlike our world, this transition is hindered by the forces of the Warp and the world is still scarred by past apocalypses.
 
-Antares is surrounded by a seemingly boundless ocean, with its coastlines continually reshaped by destructive tsunamis caused by Warp storms. In this chaotic maritime environment, the Karakorum people navigate the ever-changing coastlines using a fleet of three constantly moving flagships, having discerned some patterns in the tumultuous seas.
+While the Industrial Revolution in our world began in Britain, here it by **London** that leads the charge—already a highly industrialised nation. Despite its efforts to keep its influence in check, other nations are increasingly looking to it as an example of how to drive their own progress, sparking a continent-wide shift toward industrialisation.
 
 ## Antares Exploration
 

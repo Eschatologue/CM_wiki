@@ -875,6 +875,3 @@ When you take the Attack action and attack with melee weapon that has the :weapo
 
 **Fleuret**  
 The first creature you hit on your turn has :d20-disadv: Disadvantage on any attack against you until the start of your next turn.
-
---8<-- "includes/snippets/item-property.md"
---8<-- "includes/snippets/item-mastery.md"
