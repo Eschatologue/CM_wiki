@@ -103,7 +103,7 @@ Martial weapons require more training to use effectively but offer greater damag
 [Vex]: index.md#vex
 [Cleave]: index.md#cleave
 [Nick]: index.md#nick
-[Topple]: index.md#Topple
+[Topple]: index.md#topple
 [Graze]: index.md#graze
 [Sap]: index.md#sap
 

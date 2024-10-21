@@ -10,32 +10,29 @@ This D&D campaign setting uses the same rulings as what you would find in other 
 
 When creating your character, you must adhere to three core principles that apply at all times, both during roleplaying and gameplay.
 
-### Team Cooperation
+#### Team Cooperation
 
-**Your character must consistently work with and support the rest of the party.**
+:   **Your character must consistently work with and support the rest of the party.**
 
-A rogue who steals from party members or sabotages plans undermines group cohesion. Instead, create a rogue who uses their skills to benefit the party, like scouting ahead, gathering intelligence, or disarming traps to ensure safe passage for the group. Another example is a bard who not only performs to inspire allies but also uses their charm and wit to negotiate and forge alliances that benefit the entire party.
+:   A rogue who steals from party members or sabotages plans undermines group cohesion. Instead, create a rogue who uses their skills to benefit the party, like scouting ahead, gathering intelligence, or disarming traps to ensure safe passage for the group. Another example is a bard who not only performs to inspire allies but also uses their charm and wit to negotiate and forge alliances that benefit the entire party.
 
-### Plot Engagement
+#### Plot Engagement
 
-**Your character must be consistently willing to engage with the campaign's plot.**
+:   **Your character must be consistently willing to engage with the campaign's plot.**
 
-A character who refuses to participate in the main quest or constantly separates from the group disrupts the story. Instead, design a character with personal motivations that align with the campaign's goals, such as a ranger seeking revenge on the antagonist responsible for the apocalypse or a cleric on a mission to restore order and help survivors. These motivations should naturally lead the character to be involved in key events and conflicts of the campaign.
+:   A character who refuses to participate in the main quest or constantly separates from the group disrupts the story. Instead, design a character with personal motivations that align with the campaign's goals, such as a ranger seeking revenge on the antagonist responsible for the apocalypse or a cleric on a mission to restore order and help survivors. These motivations should naturally lead the character to be involved in key events and conflicts of the campaign.
 
-### Setting and Tone
+#### Setting and Tone
 
-**Your character must plausibly fit into the campaign's setting and align with the overall tone of the campaign.**
+:   **Your character must plausibly fit into the campaign's setting and align with the overall tone of the campaign.**
  
-This setting uses a post-apocalyptic dystopian science fantasy world, characters should blend modern and fantasy elements. A traditional medieval knight would be out of place. Instead, create a knight equipped armour combining modern technology enchanted with ancient runes. Similarly, a mage might use arcane spells alongside gadgets, and a ranger could be adept at surviving in both urban ruins and wild wastelands, utilizing a mix of traditional skills and contemporary tools.
+:   This setting uses a post-apocalyptic dystopian science fantasy world, characters should blend modern and fantasy elements. A traditional medieval knight would be out of place. Instead, create a knight equipped armour combining modern technology enchanted with ancient runes. Similarly, a mage might use arcane spells alongside gadgets, and a ranger could be adept at surviving in both urban ruins and wild wastelands, utilizing a mix of traditional skills and contemporary tools.
 
 *See more at [Lore](../lore/antares/index.md)*
 
 ## Step-by-Step Guide
 
 Here are the steps to make a character; each step is explored in detail in this chapter:
-
-1. **Choose a Class.** Every adventurer is a member of a class. A class broadly describes a character's vocation, special talents, and favored tactics.
-2. **Determine Origin.** A character's origin includes two elements: **background** and **species**. How did the character spend the years leading up to a life of adventure? Who are the character's ancestors? You can also choose your character's languages.
 
 ### Step 1: Choosing a Class
 
@@ -95,10 +92,10 @@ Your character knows at least three languages: Common plus two languages you rol
 The Standard Languages table lists languages that are widespread on D&D worlds. Every player character knows Common, which originated in the planar metropolis of Sigil, the hub of the multiverse. The other standard languages originated with the first members of the most prominent species in the worlds of D&D and have since spread widely.
 
 ##### Standard Languages Table
-| **Language** | **Typical Speakers** | **Script** | **Real Life Counterpart** |
+
+| Language | Typical Speakers | Script | Real Life Counterpart |
 | :-- | --- | --- | --- |
 | Common | Humans | Common | French |
-| English | Humans (Londoners) | Common | English |
 | Dwarvish | Dwarves | Dwarvish | Norse / Icelandic |
 | Elvish | Elves | Elvish | Uralic (Finnish / Hungarian) |
 | Giant | Ogres, Giants | Dwarvish | Old Norse |
@@ -106,10 +103,12 @@ The Standard Languages table lists languages that are widespread on D&D worlds. 
 | Goblin | Goblinoids | Dwarvish | Norse / Icelandic |
 | Halfling | Halflings | Common | Norse / Icelandic |
 | Orc | Orcs | Dwarvish | Norse / Icelandic |
+| English^CM^ | Humans (Londoners) | Common | English |
 
 Exotic languages are rare and typically not accessible to your character unless a class, race, or background feature grants you the ability to speak them. With the DM's discretion or specific character features, you may learn these languages.
 
 ##### Exotic Languages Table
+
 | Language | Origin |
 |---|---|
 | Abyssal | Demons of the Abyss |
@@ -159,65 +158,65 @@ Because ability modifiers affect almost every :d20-attack: **Attack Roll**, :d20
 
 Ability scores are an essential part of the rules, but they can be more than that. Once you've assigned your ability scores, give some thought to what those scores might say about your character's appearance and personality. A very strong character with low Charisma might look and behave differently from a charismatic character with low Strength. The following tables of descriptive words give suggestions of how you might describe your character based on having a high or low score in an ability.
 
-##### Strength
+=== "Strength"
 
-| 1d4 | High Strength | Low Strength |
-|:-:|---|---|
-| 1 | Muscular | Weak |
-| 2 | Sinewy | Slight |
-| 3 | Protective | Self-conscious |
-| 4 | Direct | Indirect |
+    | 1d4 | High Strength | Low Strength |
+    |:-:|---|---|
+    | 1 | Muscular | Weak |
+    | 2 | Sinewy | Slight |
+    | 3 | Protective | Self-conscious |
+    | 4 | Direct | Indirect |
 
-##### Dexterity
+=== "Dexterity"
 
-| 1d4 | High Dexterity | Low Dexterity |
-|:-:|---|---|
-| 1 | Lithe | Jittery |
-| 2 | Dynamic | Clumsy |
-| 3 | Fidgety | Hesitant |
-| 4 | Poised | Unsteady |
+    | 1d4 | High Dexterity | Low Dexterity |
+    |:-:|---|---|
+    | 1 | Lithe | Jittery |
+    | 2 | Dynamic | Clumsy |
+    | 3 | Fidgety | Hesitant |
+    | 4 | Poised | Unsteady |
 
-##### Constitution
+=== "Constitution"
 
-| 1d4 | High Constitution | Low Constitution |
-|:-:|---|---|
-| 1 | Energetic | Frail |
-| 2 | Hale | Squeamish |
-| 3 | Hearty | Lethargic |
-| 4 | Stable | Fragile |
+    | 1d4 | High Constitution | Low Constitution |
+    |:-:|---|---|
+    | 1 | Energetic | Frail |
+    | 2 | Hale | Squeamish |
+    | 3 | Hearty | Lethargic |
+    | 4 | Stable | Fragile |
 
-##### Intelligence
+=== "Intelligence"
 
-| 1d4 | High Intelligence | Low Intelligence |
-|:-:|---|---|
-| 1 | Decisive | Artless |
-| 2 | Logical | Illogical |
-| 3 | Informative | Uninformed |
-| 4 | Curious | Frivolous |
+    | 1d4 | High Intelligence | Low Intelligence |
+    |:-:|---|---|
+    | 1 | Decisive | Artless |
+    | 2 | Logical | Illogical |
+    | 3 | Informative | Uninformed |
+    | 4 | Curious | Frivolous |
 
-##### Wisdom
+=== "Wisdom"
 
-| 1d4 | High Wisdom | Low Wisdom |
-|:-:|---|---|
-| 1 | Serene | Rash |
-| 2 | Considerate | Distracted |
-| 3 | Attentive | Oblivious |
-| 4 | Wary | Naive |
+    | 1d4 | High Wisdom | Low Wisdom |
+    |:-:|---|---|
+    | 1 | Serene | Rash |
+    | 2 | Considerate | Distracted |
+    | 3 | Attentive | Oblivious |
+    | 4 | Wary | Naive |
 
-##### Charisma
+=== "Charisma"
 
-| 1d4 | High Charisma | Low Charisma |
-|:-:|---|---|
-| 1 | Charming | Pedantic |
-| 2 | Commanding | Humorless |
-| 3 | Hilarious | Reserved |
-| 4 | Inspiring | Tactless |
+    | 1d4 | High Charisma | Low Charisma |
+    |:-:|---|---|
+    | 1 | Charming | Pedantic |
+    | 2 | Commanding | Humorless |
+    | 3 | Hilarious | Reserved |
+    | 4 | Inspiring | Tactless |
 
 ### Step 4: Choose an Alignment
 
 Choose your character's alignment from the options below, and note it on your character sheet.
 
-D&D assumes that player characters aren't of an evil alignment. Check with your DM before making an evil character.
+D&D assumes that player characters aren't of an evil alignment. Check with your DM before making an evil character. 
 
 #### The Nine Alignments
 
@@ -225,23 +224,41 @@ A creature's alignment broadly describes its ethical attitudes and ideals. Align
 
 The summaries of the alignments below describe the typical behavior of a creature with that alignment; individuals can vary from that behavior.
 
-***Lawful Good (LG).*** Lawful Good creatures endeavor to do the right thing as expected by society. Someone who fights injustice and protects the innocent without hesitation is probably Lawful Good.
+***Lawful Good (LG)*** 
 
-***Neutral Good (NG).*** Neutral Good creatures do the best they can, working within rules but not feeling bound by them. A kindly person who helps others according to their needs is probably Neutral Good.
+:   Lawful Good creatures endeavor to do the right thing as expected by society. Someone who fights injustice and protects the innocent without hesitation is probably Lawful Good.
 
-***Chaotic Good (CG).*** Chaotic Good creatures act as their conscience directs with little regard for what others expect. A rebel who waylays a cruel baron's tax collectors and uses the stolen money to help the poor is probably Chaotic Good.
+***Neutral Good (NG)*** 
 
-***Lawful Neutral (LN).*** Lawful Neutral individuals act in accordance with law, tradition, or personal codes. Someone who follows a disciplined rule of life—and isn't swayed either by the demands of those in need or by the temptations of evil—is probably Lawful Neutral.
+:   Neutral Good creatures do the best they can, working within rules but not feeling bound by them. A kindly person who helps others according to their needs is probably Neutral Good.
 
-***Neutral (N).*** Neutral is the alignment of those who prefer to avoid moral questions and don't take sides, doing what seems best at the time. Someone who's bored by moral debate is probably Neutral.
+***Chaotic Good (CG)*** 
 
-***Chaotic Neutral (CN).*** Chaotic Neutral creatures follow their whims, valuing their personal freedom above all else. A scoundrel who wanders the land living by their wits is probably Chaotic Neutral.
+:   Chaotic Good creatures act as their conscience directs with little regard for what others expect. A rebel who waylays a cruel baron's tax collectors and uses the stolen money to help the poor is probably Chaotic Good.
 
-***Lawful Evil (LE).*** Lawful Evil creatures methodically take what they want within the limits of a code of tradition, loyalty, or order. An aristocrat exploiting citizens while scheming for power is probably Lawful Evil.
+***Lawful Neutral (LN)*** 
 
-***Neutral Evil (NE).*** Neutral Evil is the alignment of those who are untroubled by the harm they cause as they pursue their desires. A criminal who robs and murders as they please is probably Neutral Evil.
+:   Lawful Neutral individuals act in accordance with law, tradition, or personal codes. Someone who follows a disciplined rule of life—and isn't swayed either by the demands of those in need or by the temptations of evil—is probably Lawful Neutral.
 
-***Chaotic Evil (CE).*** Chaotic Evil creatures act with arbitrary violence, spurred by their hatred or bloodlust. A villain pursuing schemes of vengeance and havoc is probably Chaotic Evil.
+***Neutral (N)*** 
+
+:   Neutral is the alignment of those who prefer to avoid moral questions and don't take sides, doing what seems best at the time. Someone who's bored by moral debate is probably Neutral.
+
+***Chaotic Neutral (CN)*** 
+
+:   Chaotic Neutral creatures follow their whims, valuing their personal freedom above all else. A scoundrel who wanders the land living by their wits is probably Chaotic Neutral.
+
+***Lawful Evil (LE)*** 
+
+:   Lawful Evil creatures methodically take what they want within the limits of a code of tradition, loyalty, or order. An aristocrat exploiting citizens while scheming for power is probably Lawful Evil.
+
+***Neutral Evil (NE)*** 
+
+:   Neutral Evil is the alignment of those who are untroubled by the harm they cause as they pursue their desires. A criminal who robs and murders as they please is probably Neutral Evil.
+
+***Chaotic Evil (CE)*** 
+
+:   Chaotic Evil creatures act with arbitrary violence, spurred by their hatred or bloodlust. A villain pursuing schemes of vengeance and havoc is probably Chaotic Evil.
 
 ### Step 5: Fill In Details
 
@@ -253,13 +270,20 @@ Look at your class's feature table in chapter 3, and write down the level 1 feat
 Some class features offer choices. Make sure to read all your features and make any offered choices.
 
 #### Fill In Numbers
+
 Note these numbers on your character sheet.
 
-***Saving Throws.*** For the saving throws you have proficiency in, add your Proficiency Bonus to the appropriate ability modifier and note the total. Some players also like to note the modifier for saving throws they're not proficient in, which is just the relevant ability modifier.
+***Saving Throws*** 
 
-***Skills.*** For skills you have proficiency in, add your Proficiency Bonus to the ability modifier associated with that skill, and note the total. You might also wish to note the modifier for skills you're not proficient in, which is just the relevant ability modifier.
+:   For the saving throws you have proficiency in, add your Proficiency Bonus to the appropriate ability modifier and note the total. Some players also like to note the modifier for saving throws they're not proficient in, which is just the relevant ability modifier.
 
-***Passive Perception.*** Sometimes your DM will determine whether your character notices something without asking you to make a Wisdom (Perception) check; the DM uses your Passive Perception instead. Passive Perception is a score that reflects a general awareness of your surroundings when you're not actively looking for something. Use this formula to determine your Passive Perception score:
+***Skills*** 
+
+:   For skills you have proficiency in, add your Proficiency Bonus to the ability modifier associated with that skill, and note the total. You might also wish to note the modifier for skills you're not proficient in, which is just the relevant ability modifier.
+
+***Passive Perception*** 
+
+:   Sometimes your DM will determine whether your character notices something without asking you to make a Wisdom (Perception) check; the DM uses your Passive Perception instead. Passive Perception is a score that reflects a general awareness of your surroundings when you're not actively looking for something. Use this formula to determine your Passive Perception score:
 
 <p style="text-align:center;">
 
@@ -269,7 +293,9 @@ Note these numbers on your character sheet.
 
 Include all modifiers that apply to your Wisdom (Perception) checks. For example, if your character has a Wisdom of 15 and proficiency in the Perception skill, you have a Passive Perception of 14 (10 + 2 for your Wisdom modifier + 2 for proficiency).
 
-***Hit Points.*** Your class and Constitution modifier determine your Hit Point maximum at level 1, as shown on the Level 1 Hit Points by Class table.
+***Hit Points*** 
+
+:   Your class and Constitution modifier determine your Hit Point maximum at level 1, as shown on the Level 1 Hit Points by Class table.
 
 ##### Level 1 Hit Points by Class
 
@@ -289,13 +315,21 @@ Include all modifiers that apply to your Wisdom (Perception) checks. For example
 | Sorcerer | d6 | 6 + Constitution modifier |
 | Wizard | d6 | 6 + Constitution modifier |
 
-***Hit Point Dice.*** Your class's description tells you the die type of your character's Hit Point Dice (or Hit Dice for short); write this on your character sheet. At level 1, your character has 1 Hit Die. You can spend Hit Dice during a Short Rest to recover Hit Points. Your character sheet also includes space to note how many Hit Dice you've spent.
+***Hit Point Dice*** 
 
-***Initiative.*** Write your Dexterity modifier in the space for Initiative on your character sheet.
+:   Your class's description tells you the die type of your character's Hit Point Dice (or Hit Dice for short); write this on your character sheet. At level 1, your character has 1 Hit Die. You can spend Hit Dice during a Short Rest to recover Hit Points. Your character sheet also includes space to note how many Hit Dice you've spent.
 
-***Armour Class.*** Without armour or a shield, your base Armour Class is 10 plus your Dexterity modifier. If your starting equipment includes armour or a Shield (or both), calculate your AC using the rules in chapter 6. A class feature might give you a different way to calculate your AC.
+***Initiative*** 
 
-***Attacks.*** In the Weapons & Damage Cantrips section of the character sheet, write your starting weapons. The attack roll bonus for a weapon with which you have proficiency is one of the following unless a weapon's property says otherwise:
+:   Write your Dexterity modifier in the space for Initiative on your character sheet.
+
+***Armour Class*** 
+
+:   Without armour or a shield, your base Armour Class is 10 plus your Dexterity modifier. If your starting equipment includes armour or a Shield (or both), calculate your AC using the rules in chapter 6. A class feature might give you a different way to calculate your AC.
+
+***Attacks*** 
+
+:   In the Weapons & Damage Cantrips section of the character sheet, write your starting weapons. The attack roll bonus for a weapon with which you have proficiency is one of the following unless a weapon's property says otherwise:
 
 <p style="text-align:center;">
 <strong>Melee attack bonus</strong> = Strength modifier + Proficiency Bonus
@@ -306,7 +340,9 @@ Include all modifiers that apply to your Wisdom (Perception) checks. For example
 
 Look up the damage and properties of your weapons in chapter 6. You add the same ability modifier you use for attacks with a weapon to your damage rolls with that weapon.
 
-***Spellcasting.*** Note both the saving throw DC for your spells and the attack bonus for attacks you make with them, using these formulas:
+***Spellcasting*** 
+
+:   Note both the saving throw DC for your spells and the attack bonus for attacks you make with them, using these formulas:
 
 <p style="text-align:center;">
 <strong>Spell save DC</strong> = 8 + spellcasting ability modifier + Proficiency Bonus
@@ -317,7 +353,9 @@ Look up the damage and properties of your weapons in chapter 6. You add the same
 
 Your spellcasting ability modifier for a spell is determined by whatever feature gives you the ability to cast the spell.
 
-***Spell Slots, Cantrips, and Prepared Spells.*** If your class gives you the Spellcasting or Pact Magic feature, your class features table shows the number of spell slots you have available, how many cantrips you know, and how many spells you can prepare. Choose your cantrips and prepared spells, and note them—along with your number of spell slots—on your character sheet.
+***Spell Slots, Cantrips, and Prepared Spells*** 
+
+:   If your class gives you the Spellcasting or Pact Magic feature, your class features table shows the number of spell slots you have available, how many cantrips you know, and how many spells you can prepare. Choose your cantrips and prepared spells, and note them—along with your number of spell slots—on your character sheet.
 
 #### Name Your Character
 

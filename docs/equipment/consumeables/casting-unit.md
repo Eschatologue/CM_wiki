@@ -5,9 +5,9 @@ status: homebrew
 
 # Casting Units
 
-Casting Units, also known as Arts Units, Weave Looms, Spellcasting Units, or (more informally) "Spell Scrolls with Skill Issues" and "Dumb Casters," depending on who you ask, are modernised versions of traditional spell scrolls. Though less potent than their predecessors, these devices allow even those without a natural connection to the Weave—sometimes referred to disparagingly as "Londoners"—to cast spells.
+Casting Units, also known as *Arts Units*, *Weave Looms*, *Spellcasting Units*, or (more informally) "*Spell Scrolls with Skill Issues*" and "*Dumb Casters*," depending on who you ask, are modernised versions of traditional spell scrolls. Though less potent than their predecessors, these devices allow even those without a natural connection to the Weave—sometimes referred to disparagingly as "Londoners"—to cast spells.
 
-Casting Units emerged in response to the brain drain that swept across Gallia following the establishment of the Caerdyf Tower of Arts (London) and The Great Halls (Valinor). They were made possible through a fusion of Elven Fey magic, British craftsmanship, and Gallian spell-weaving standards. These units vary in shape and size, catering to a wide range of magical needs and users.
+Casting Units emerged in response to the [brain drain](../../lore/glossary.md#toulouse-exodus) that swept across Gallia following the establishment of the Caerdyf Tower of Arts (London) and The Great Halls (Valinor). They were made possible through a fusion of Elven Fey magic, British craftsmanship, and Gallian spell-weaving standards. These units vary in shape and size, catering to a wide range of magical needs and users.
 
 ## Function
 
@@ -15,13 +15,13 @@ Casting Units act as portable spell storage devices. They hold spells, come with
 
 ## Mechanics
 
-Each Casting Unit holds a set number of charges and has a maximum spell level it can store, depending on its rarity.
+Each Casting Unit holds a set number of charges and has a maximum spell level it can store, depending on its rarity. Spellcasting units can often take an appereance of other arcane focus.
 
 ### Using Casting Units
 
 :material-timer: **Casting Time:** Follows the normal casting time of the stored spell (Action, Bonus Action, Reaction).  
 :spell-concentration: **Concentration:** If the spell requires Concentration, the user must maintain it.  
-::material-target-variant:: **Bonus to Hit and Save DC:** Spells use the unit's bonus to hit and Save DC. The user’s own spellcasting ability isn’t applied.
+:material-target-variant: **Bonus to Hit and Save DC:** Spells use the unit's bonus to hit and Save DC. The user’s own spellcasting ability isn’t applied.
 
 ### Storing Spells
 

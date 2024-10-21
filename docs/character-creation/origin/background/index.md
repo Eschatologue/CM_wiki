@@ -1,4 +1,5 @@
 ---
+title: Background
 icon: material/book-play
 ---
 
@@ -8,7 +9,7 @@ Every story has a beginning. Your character's background reveals where you came 
 
 Choosing a background provides you with important story cues about your character's identity. The most important question to ask about your background is what changed? Why did you stop doing whatever your background describes and start adventuring? Where did you get the money to purchase your starting gear, or, if you come from a wealthy background, why don't you have more money? How did you learn the skills of your class? What sets you apart from ordinary people who share your background?
 
-## Parts of a Background
+## Parts of a Background & Custom Background
 
 Your character's background is the collection of characteristics that they picked up during the formative years of their life. These are the experiences and occupations your character engaged in separate from their upbringing and species, and prior to their life as an adventurer.
 
@@ -24,13 +25,21 @@ Mechanically, your background contains six aspects detailed as follow, a **Custo
 
 4. **Tool Proficiency:** Each background gives you proficiency with one tool. This could be a specific tool, or one chosen from the Artisan’s Tools category.
 
-5. **Equipment:** The equipment that your character starts with. You can either choose any equipment package available to any background or you start with 500 SP instead to spend on the equipment of your choice; this can be a combination of Weapon, Tools, Clothing, a Bedroll, etc.
+5. **Languages Known:** Your character knows 3 languages; Common plus two languages you roll or choose from the Standard Languages table. See [Character Creation](../../create-your-character.md#choose-languages) for more details.
 
-6. **Affiliation:** You have 5 point to spend between 4 [Affiliation](#affiliation); Academe, Bohemia, Establishment, Villainny. Affiliation is what connects your character pasts to their presents.
+6. **Equipment:** The equipment that your character starts with. You can either choose any equipment package available to any background or you start with 500 SP instead to spend on the equipment of your choice; this can be a combination of Weapon, Tools, Clothing, a Bedroll, etc.
+
+7. **Affiliation:**^CM^ You have 5 point to spend between 4 [Affiliation](#affiliation); Academe, Bohemia, Establishment, Villainny. Affiliation is what connects your character pasts to their presents.
+
+## Backstory
+
+Not to be confused with Backgrounds, a Backstory is the actual story that your character experienced before the present. Who are they? Where were they born? What inspires them to take up the adventuring way of life? What is the background reason for your character being in a certain class? The backstory can be as simple or as elaborate as you like, but please keep it grounded under the [Three Core Principles](../../create-your-character.md#the-core-principles).
+
+This [article](https://5e.tools/book.html#XGE,1,this%20is%20your%20life,0) provides a good example of how to construct your backstory.
 
 ## Affiliation
 
-In this campaign, Affiliation represents the character's ties to one of four distinct factions or societal groups: *Academe, Bohemia, Establishment*, or *Villainy*. These affiliations should reflect your character's background, origin, and connections within the world. Affiliation influences your character's interactions, opportunities, and resources available to you throughout the campaign. Whether you are scholars delving into ancient mysteries, artists seeking inspiration, nobles navigating political intrigue, or outlaws operating in the shadows, your affiliation shapes your identity and impacts in the campaign.
+In Crown & Misery, Affiliation represents the character's ties to one of four distinct factions or societal groups: *Academe, Bohemia, Establishment*, or *Villainy*. These affiliations should reflect your character's background, origin, and connections within the world. Affiliation influences your character's interactions, opportunities, and resources available to you throughout the campaign. Whether you are scholars delving into ancient mysteries, artists seeking inspiration, nobles navigating political intrigue, or outlaws operating in the shadows, your affiliation shapes your identity and impacts in the campaign.
 
 ## Assigning Affiliation Points
 
@@ -87,10 +96,4 @@ Associating yourselves with this affiliation grants you benefits as follow:
 - **Illegal Opportunities:** Villainous characters may have the chance to participate in heists, smuggling operations, or other illicit activities, potentially reaping lucrative rewards or gaining infamy.
 - **Safe Havens:** Outcasts and pirates may have secret hideouts, safe houses, or hidden bases where characters can lay low, conduct business, or plan their next move away from prying eyes.
 - **Reputation:** Affiliates of Villainy gain a reputation for ruthlessness and cunning, earning respect or fear from those who know of their exploits in the criminal underworld
-
-## Backstory
-
-Not to be confused with Backgrounds, a Backstory is the actual story that your character experienced before the present. Who are they? Where were they born? What inspires them to take up the adventuring way of life? What is the background reason for your character being in a certain class? The backstory can be as simple or as elaborate as you like, but please keep it grounded under the [Three Core Principles](index.md#understanding-the-core-principles).
-
-This [article](http://dnd5e.wikidot.com/this-is-your-life) provides a good example of how to construct your backstory.
 
