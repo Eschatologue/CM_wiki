@@ -18,8 +18,6 @@ The world has already ended—twice, in fact. But this isn’t the Fallout-style
 
 Rather than being stuck in a dystopian mire, the people of Antares are struggling forward, trying to rebuild and reimagine their world even as the echoes of past calamities linger. It’s a world scarred by history but not consumed by it. Here, the focus is on the **resilience** of those who survive, on the relentless march toward the future—even if that future is uncertain or dangerous.
 
-Got it! Here's an expanded version with the distinction from modern 5e added:
-
 #### Science Fantasy
 
 Here’s where things get interesting. Unlike the typical D&D setting, which leans heavily on traditional high fantasy with magic, dragons, and medieval kingdoms, **Crown & Misery** is firmly rooted in **Science Fantasy**. This means the world isn’t just shaped by magic and mythical creatures—it’s a place where technology and science have advanced in tandem with, and sometimes in opposition to, magical forces.
