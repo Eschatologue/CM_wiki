@@ -19,31 +19,31 @@ Mechanically, your background contains six plus one aspects detailed as follow, 
 
 :material-arrow-up-bold-box: ***Ability Scores***
 
-:   Increase **one ability score by +2 and another by +1**, or increase **three ability scores by +1 each**. These increases cannot raise any score above **20**.
+:   Increase ^^one ability score by +2 and another by +1^^, or increase ^^three ability scores by +1 each^^. These increases cannot raise any score above **20**.
 
 :material-cards-diamond: ***Feat***
 
-:   Gain an **Origin Feat**. This feat represents a talent your character developed or had during their background.
+:   Gain an ^^Origin Feat^^. This feat represents a talent your character developed or had during their background.
 
 :material-account-star: ***Skill Proficiencies***
 
-:   Gain **proficiency in 2 skills** related to your character's background experiences.
+:   Gain ^^proficiency in 2 skills^^ related to your character's background experiences.
 
 :material-tools: ***Tool Proficiency***
 
-:   Gain **proficiency with 1 tool**. This can be a specific tool (Musical Instrument, or other tools) or one from the **Artisan’s Tools** category.
+:   Gain ^^proficiency with 1 tool^^. This can be a specific tool (Musical Instrument, or other tools) or one from the **Artisan’s Tools** category.
 
 :trait-language: ***Languages Known***
 
-:   Your character knows **3 languages**: **Common** plus two additional languages chosen or rolled from the **Standard Languages** table. See [Character Creation](../../create-your-character.md#choose-languages) for more details.
+:   Your character knows ^^3 languages^^: **Common** plus two additional languages chosen or rolled from the **Standard Languages** table. See [Character Creation](../../create-your-character.md#choose-languages) for more details.
 
 :weapon-spear: ***Equipment***
 
-:   Start with either an **equipment package** from any background or **500 SP** to spend on equipment of your choice (e.g., weapons, tools, clothing, etc.).
+:   Start with either an ^^equipment package^^ from any background or **500 SP** to spend on equipment of your choice (e.g., weapons, tools, clothing, etc.).
 
 :material-transit-connection-variant: ***Affiliation*** ^CM^
 
-:   You have **5 points** to distribute between 4 **Affiliations**: **Academe, Bohemia, Establishment, Villainy**. Affiliation connects your character's **past** to their **present**.
+:   You have ^^5 points^^ to distribute between 4 **Affiliations**: **Academe, Bohemia, Establishment, Villainy**. Affiliation connects your character's **past** to their **present**.
 
 ## Backstory
 
