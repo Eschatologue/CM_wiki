@@ -14,10 +14,11 @@ If you have a list of level 1+ spells you prepare, your spellcasting feature spe
 
 | Class | Change When You... | Number of Spells |
 |---|---|:-:|
-| Artificer | Finish a Long Rest | Any |
+| Artificer^TCE^ | Finish a Long Rest | Any |
 | Bard | Gain a Level | One |
 | Cleric | Finish a Long Rest | Any |
 | Druid | Finish a Long Rest | Any |
+| Magus^LL^ | Finish a Long Rest | Any |
 | Paladin | Finish a Long Rest | One |
 | Ranger | Finish a Long Rest | One |
 | Sorcerer | Gain a Level | One |

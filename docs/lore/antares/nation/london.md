@@ -5,42 +5,34 @@ search:
 
 # Dominion of Albion
 
-The **Dominion of Albion**, officially called **Albion** and commonly known as **London**, is a country located in the northwest of Antares. It is the new beating heart of the renewed British Empire, nestled within a sprawling metropolis of steel edifices and gleaming glass thats what once a verdant forest claimed by the elves. London stands as a beacon of prosperity and military might, earning its place as one of Antares' most influential and formidable nations.
+The **Dominion of Albion**, officially referred to as **Albion** and commonly known as **London**, is a nation located in the northwestern part of Antares. It serves as the core of the renewed British Empire, characterised by its sprawling metropolis of steel and glass, built over the former elven forests. London is widely regarded as a bastion of industrial might and military prowess, standing among the most influential nations in Antares.
 
-## Background
+## History
 
 ### Origins and Emergence
 
-The origins of present-day London remain a subject of scholarly debate. The transformation of a nation predominantly composed of refugees into one of the strongest powers in Antares is nothing short of a miracle. Recorded encounters with these "tea addicts" date back several decades before the fall of the Great Elven Empire, coinciding with the location where New London now stands. Elven records indicate their arrival through a mysterious structure known as "[The Northern Gate](../../entry/the-gate.md)," an ancient ruin said to have existed for as long as the oldest high-elf can remember.
+The precise origins of modern London remain a topic of academic debate. The sudden emergence of a powerful nation, born from a group of refugees, is often described as a historical anomaly. Historical records, particularly those kept by the elves, suggest that the first documented encounters with the Londoners occurred several decades before the fall of the Great Elven Empire. These records point to their arrival through an enigmatic structure known as the **Northern Gate**.
 
-One day, the statue guarding the gate illuminated, and its gates opened. Expecting invaders from the skies, the elves were surprised to encounter a large group of humans clad in rags, wounded, and some even missing limbs. These individuals identified themselves collectively as "British," emphasizing their nationality over their race—a concept that puzzled many. Despite their humble appearance, these Londoners displayed remarkable intelligence and skills across various disciplines, bringing invaluable knowledge to this new world. In a remarkably short span of time, the refugee population exploded, leading to the rapid expansion of their settlements. Camps evolved into towns, then cities, eventually rivaling the grandeur of some of the largest dwarven settlements.
+One day, the statue guarding the gate illuminated, and its doors unexpectedly opened. The elves, anticipating a hostile force, instead found a group of humans in tattered clothing, many of them injured. These refugees introduced themselves as "British" and, despite their modest appearance, demonstrated a surprising degree of intelligence and technical expertise. In the following years, the British population grew rapidly, with their camps developing into towns, and eventually, vast cities that rivalled the grandeur of ancient dwarven settlements.
 
 ### Rising Tensions with the Elves
 
-As London influence grew, the elves, who had initially provided sanctuary, began to perceive them as a significant threat. During this period, elven politics underwent a significant shift toward fanaticism and extreme nationalism. The elves, who possessed superior arcane abilities that the Londoners lacked, began infiltrating Albion territories under the pretext of reclaiming ancestral lands. Hostilities escalated as the elves made increasingly aggressive moves against the Albion government, culminating in abductions and the enslavement of its citizens when the government refused to share technological advancements with the elves.
+As London's presence expanded, relations with the elves deteriorated. Initially, the elves had offered sanctuary to the refugees, but their rapid growth soon raised concerns. During this period, elven politics took a sharp turn towards nationalism and fanaticism. As the Londoners lacked the arcane abilities that the elves wielded, the latter began to view their technological advancements with suspicion. 
 
-The expansion of Albion came at a cost, as more forested areas were cleared to accommodate urban growth. Initially disregarded by the elves, the extensive deforestation eventually reached a tipping point, prompting the elves to take action against what they perceived as the desecration of their land. Tensions simmered until they erupted into open conflict, leading to a war between the two factions.
+Under the pretext of reclaiming ancestral lands, elven forces began encroaching on Albion’s territory. The elves demanded access to London's technological secrets, and when these demands were refused, they resorted to increasingly aggressive tactics, including the abduction and enslavement of London citizens.
+
+The expansion of London's urban landscape also contributed to the rising tensions. Forests that had stood for centuries were cleared to accommodate new settlements, an act initially dismissed by the elves. However, as deforestation continued, it sparked outrage among elven communities who viewed it as an assault on their sacred lands. The mounting hostilities eventually led to open warfare between the two factions.
 
 ### The Great Split
 
-The conflict, known as "The Great Split," was among the deadliest and bloodiest in Antares history, marked by unfettered brutality and open warfare between the forces of nature and elven arcane superiority against Londons war machines and industrial might. It represented a pivotal moment in Antares, where those lacking arcane prowess asserted dominance for the first time. Despite London gaining the upper hand, the war remained brutal.
+The ensuing conflict, later known as **The Great Split**, is widely regarded as one of the bloodiest and most consequential wars in Antares' history. The war pitted the arcane and nature-based forces of the elves against the industrial war machines of London. It marked the first time that a non-magical force successfully challenged the dominance of powers in the region.
 
-In a desperate final move, the London's Army breached one of the most sacred and protected places of the elves, felling Yggdrassil, the tree of life. This act was not only a strategic blow to the elves but also a symbolic triumph for London, signaling their defiance against elven supremacy and the dawn of a new era in Antares history.
+The war was characterised by brutal, large-scale battles that devastated much of the land. In a decisive and final act, London's forces succeeded in breaching one of the elves' most sacred sites and felling **Yggdrasil**, the tree of life. This not only crippled the elves’ morale but also marked the symbolic end of their supremacy, ushering in a new era dominated by technological might.
 
-## Modern Time
+## Modern Era
 
-### Society
+### Society and Culture
 
-The culture and society of London can often be seen as eclectic to other nations and visitors. While most nations have adapted an inflated and optimistic view of their own greatness, London is the stark opposite, organised around a pessimistic outlook on the world and its people. 
+In the aftermath of centuries of conflict, London has developed a unique and often perplexing society compared to other nations. Where many countries adopt an optimistic or inflated view of their own grandeur, London's worldview is starkly different. The country is steeped in a deep-rooted pessimism, born from a history of perpetual warfare.
 
-London is a byproduct of perpetual warfare that constantly threatens its existence. Some historians from London have said that the nation has not experienced any period of peace for the past two centuries, not even including the time after London arrived in Antares.
-
-As a consequence, instead of trusting in everyone's better nature, it relies more on the sword of the state to keep everyone in line. Citizen participation in the functioning of the state is mandatory, and children are even raised from a young age to view their responsibilities to the social whole as more important than their individual desires.
-
-### Technological Advancements
-
-London has become renowned for its groundbreaking technological advancements. Unlike other nations in Antares that rely on traditional arcane technology, London has focused on developing firearms, artillery, dreadnoughts, airships, and even power armours. These innovations have made its military one of the most formidable forces on the continent. 
-
-### Current Political Climate
-
-Today, London continues to influence Antares significantly. The parliament's priorities have shifted to improving the livelihoods of its citizens while also addressing the elven rebellion within its borders. Despite ongoing conflicts, London remains a beacon of prosperity and military might in Antares.
+Historians from London frequently note that the nation has experienced no sustained period of peace for over two centuries. This unbroken cycle of conflict has shaped a society that values discipline, duty, and the collective over individual desires. The state's authority is maintained through a strict social order, with citizen participation in governance being mandatory. From a young age, children are taught to prioritise their responsibilities to the nation, ensuring that the survival of London takes precedence over personal aspirations.
