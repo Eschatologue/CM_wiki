@@ -17,19 +17,33 @@ Each background includes the following elements, which you can either choose fro
 
 Mechanically, your background contains six aspects detailed as follow, a **Custom Background** follows the same formula:
 
-1. **Ability Scores:** Increase one ability score by 2 and another by 1, or increase three ability scores by 1 each. These increases cannot raise any score above 20.
+***Ability Scores***
 
-2. **Feat:** A background gives your character a specified Origin feat that best represents a talent your character developed or had while living this portion of their life.
+:   Increase **one ability score by +2 and another by +1**, or increase **three ability scores by +1 each**. These increases cannot raise any score above **20**.
 
-3. **Skill Proficiencies:** Gain proficiency in two skills related to the experiences your character had in their background.
+***Feat***
 
-4. **Tool Proficiency:** Each background gives you proficiency with one tool. This could be a specific tool, or one chosen from the Artisan’s Tools category.
+:   Gain an **Origin Feat**. This feat represents a talent your character developed or had during their background.
 
-5. **Languages Known:** Your character knows 3 languages; Common plus two languages you roll or choose from the Standard Languages table. See [Character Creation](../../create-your-character.md#choose-languages) for more details.
+***Skill Proficiencies***
 
-6. **Equipment:** The equipment that your character starts with. You can either choose any equipment package available to any background or you start with 500 SP instead to spend on the equipment of your choice; this can be a combination of Weapon, Tools, Clothing, a Bedroll, etc.
+:   Gain **proficiency in 2 skills** related to your character's background experiences.
 
-7. **Affiliation:**^CM^ You have 5 point to spend between 4 [Affiliation](#affiliation); Academe, Bohemia, Establishment, Villainny. Affiliation is what connects your character pasts to their presents.
+***Tool Proficiency***
+
+:   Gain **proficiency with 1 tool**. This can be a specific tool (Musical Instrument, or other tools) or one from the **Artisan’s Tools** category.
+
+***Languages Known***
+
+:   Your character knows **3 languages**: **Common** plus two additional languages chosen or rolled from the **Standard Languages** table. See [Character Creation](../../create-your-character.md#choose-languages) for more details.
+
+***Equipment***
+
+:   Start with either an **equipment package** from any background or **500 SP** to spend on equipment of your choice (e.g., weapons, tools, clothing, etc.).
+
+***Affiliation*** ^CM^
+
+:   You have **5 points** to distribute between 4 **Affiliations**: **Academe, Bohemia, Establishment, Villainy**. Affiliation connects your character's **past** to their **present**.
 
 ## Backstory
 
