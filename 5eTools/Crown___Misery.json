@@ -1,0 +1,466 @@
+{
+	"siteVersion": "2.2.3",
+	"_meta": {
+		"sources": [
+			{
+				"json": "CrownMisery",
+				"abbreviation": "CM",
+				"full": "Crown & Misery",
+				"version": "1",
+				"authors": [
+					"Eschatologue"
+				],
+				"color": "224c91"
+			}
+		],
+		"dateAdded": 1729605962,
+		"dateLastModified": 1729605962
+	},
+	"monster": [
+		{
+			"name": "Elven Brigand (Melee)",
+			"source": "CrownMisery",
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"elf"
+				]
+			},
+			"alignment": [
+				"N",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 16,
+					"from": [
+						"{@item breastplate|xphb}"
+					]
+				}
+			],
+			"hp": {
+				"formula": "8d8 + 16",
+				"average": 52
+			},
+			"speed": {
+				"walk": {
+					"number": 30,
+					"condition": "35 ft. (Wood Elf)"
+				}
+			},
+			"str": 12,
+			"dex": 18,
+			"con": 15,
+			"int": 10,
+			"wis": 10,
+			"cha": 12,
+			"save": {
+				"dex": "+6"
+			},
+			"skill": {
+				"stealth": "+6",
+				"acrobatics": "+6",
+				"perception": "+2",
+				"intimidation": "+3",
+				"arcana": "+4"
+			},
+			"passive": 12,
+			"languages": [
+				"Common",
+				"Elvish"
+			],
+			"cr": "3",
+			"spellcasting": [
+				{
+					"name": "Spellcasting (High Elf only)",
+					"type": "spellcasting",
+					"spells": {
+						"0": {
+							"spells": [
+								"{@spell booming blade|TCE}",
+								"{@spell fire bolt|XPHB}",
+								"{@spell true strike|XPHB}"
+							]
+						}
+					}
+				}
+			],
+			"trait": [
+				{
+					"name": "Surprise Attack",
+					"entries": [
+						"In the first round of combat, the Elven Brigand attacks against any creature with {@status Surprised|XPHB} condition are made with Advantage."
+					]
+				},
+				{
+					"name": "Sneak Attack (1/Turn)",
+					"entries": [
+						"The elven brigand deals an extra 14 ({@dice 4d6}) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the elven brigand (high elf) that does not has the {@condition Incapacitated} condition and the elven brigand doesn't have disadvantage on the attack roll."
+					]
+				},
+				{
+					"name": "Nimble Escape",
+					"entries": [
+						"The elven brigand can take the {@action Disengage} or {@action Hide} action as a bonus action on each of its turns."
+					]
+				},
+				{
+					"name": "Fey Ancestry",
+					"entries": [
+						"The elven brigand has advantage on saving throws against the  {@condition Charmed} condition, and magic can't put the elven brigand to sleep."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The Elven Brigand makes 2 weapon attacks."
+					]
+				},
+				{
+					"name": "Shortsword",
+					"entries": [
+						"{@atk mw} {@hit +6} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d6 + 4}) piercing damage."
+					]
+				},
+				{
+					"name": "Dagger",
+					"entries": [
+						"{@atk mw,rw} {@hit +6} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}6 ({@damage 1d4 + 4}) piercing damage."
+					]
+				},
+				{
+					"name": "Hand Crossbow",
+					"entries": [
+						"{@atk rw} {@hit +6} to hit, range 30/120 ft., one target. {@h}7 ({@damage 1d6 + 4}) piercing damage."
+					]
+				}
+			],
+			"attachedItems": [
+				"dagger|phb",
+				"hand crossbow|phb",
+				"shortsword|phb"
+			],
+			"traitTags": [
+				"Fey Ancestry",
+				"Sneak Attack"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"languageTags": [
+				"C",
+				"E"
+			],
+			"damageTags": [
+				"P"
+			],
+			"damageTagsSpell": [
+				"F",
+				"R",
+				"T"
+			],
+			"spellcastingTags": [
+				"O"
+			],
+			"miscTags": [
+				"MLW",
+				"MW",
+				"RNG",
+				"RW",
+				"THW"
+			]
+		},
+		{
+			"name": "Elven Brigand (Ranged)",
+			"source": "CrownMisery",
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"elf"
+				]
+			},
+			"alignment": [
+				"N",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 16,
+					"from": [
+						"{@item breastplate|xphb}"
+					]
+				}
+			],
+			"hp": {
+				"formula": "8d8 + 16",
+				"average": 52
+			},
+			"speed": {
+				"walk": {
+					"number": 30,
+					"condition": "35 ft. (Wood Elf)"
+				}
+			},
+			"str": 12,
+			"dex": 18,
+			"con": 15,
+			"int": 10,
+			"wis": 10,
+			"cha": 12,
+			"save": {
+				"dex": "+6"
+			},
+			"skill": {
+				"stealth": "+6",
+				"acrobatics": "+6",
+				"perception": "+2",
+				"intimidation": "+3",
+				"arcana": "+4"
+			},
+			"passive": 12,
+			"languages": [
+				"Common",
+				"Elvish"
+			],
+			"cr": "3",
+			"spellcasting": [
+				{
+					"name": "Spellcasting (High Elf only)",
+					"type": "spellcasting",
+					"spells": {
+						"0": {
+							"spells": [
+								"{@spell fire bolt|XPHB}",
+								"{@spell thunderclap|XPHB}",
+								"{@spell true strike|XPHB}"
+							]
+						}
+					}
+				}
+			],
+			"trait": [
+				{
+					"name": "Nimble Escape",
+					"entries": [
+						"The elven brigand can take the {@action Disengage} or {@action Hide} action as a bonus action on each of its turns."
+					]
+				},
+				{
+					"name": "Fey Ancestry",
+					"entries": [
+						"The elven brigand has advantage on saving throws against the  {@condition Charmed} condition, and magic can't put the elven brigand to sleep."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The Elven Brigand makes 2 weapon attacks."
+					]
+				},
+				{
+					"name": "Dagger",
+					"entries": [
+						"{@atk mw,rw} {@hit +6} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}6 ({@damage 1d4 + 4}) piercing damage."
+					]
+				},
+				{
+					"name": "Longbow",
+					"entries": [
+						"{@atk rw} {@hit +6} to hit, range 150/600 ft., one target. {@h}8 ({@damage 1d8 + 4}) piercing damage."
+					]
+				},
+				{
+					"name": "Volley",
+					"entries": [
+						"The Elven Brigand fires a volley of arrow in a 30 foot cone. Each creature in that area must succeed a {@dc 14} Dexterity saving throw or take 10 ({@damage 4d4}) Piercing damage and its Speed is reduced by 10 feet until the start of the Elven Brigand's next turn. On a successful save a creature takes half as much damage and suffers no other effects."
+					]
+				}
+			],
+			"attachedItems": [
+				"dagger|phb",
+				"longbow|phb"
+			],
+			"traitTags": [
+				"Fey Ancestry",
+				"Sneak Attack"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"languageTags": [
+				"C",
+				"E"
+			],
+			"damageTags": [
+				"P"
+			],
+			"damageTagsSpell": [
+				"F",
+				"R",
+				"T"
+			],
+			"spellcastingTags": [
+				"O"
+			],
+			"miscTags": [
+				"MLW",
+				"MW",
+				"RNG",
+				"RW",
+				"THW"
+			],
+			"savingThrowForced": [
+				"dexterity"
+			],
+			"savingThrowForcedSpell": [
+				"constitution"
+			]
+		},
+		{
+			"name": "Elven Brigand Captain",
+			"shortName": "Brigand Captain",
+			"source": "CrownMisery",
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"elf"
+				]
+			},
+			"alignment": [
+				"N",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 17,
+					"from": [
+						"{@item half plate armor|xphb}"
+					]
+				}
+			],
+			"hp": {
+				"formula": "8d10 + 16",
+				"average": 60
+			},
+			"speed": {
+				"walk": {
+					"number": 30,
+					"condition": "35 ft. (Wood Elf)"
+				}
+			},
+			"str": 18,
+			"dex": 12,
+			"con": 15,
+			"int": 10,
+			"wis": 10,
+			"cha": 16,
+			"save": {
+				"str": "+7",
+				"con": "+5"
+			},
+			"skill": {
+				"stealth": "+6",
+				"acrobatics": "+4",
+				"perception": "+6",
+				"intimidation": "+3"
+			},
+			"passive": 16,
+			"languages": [
+				"Common",
+				"Elvish"
+			],
+			"cr": "4",
+			"spellcasting": [
+				{
+					"name": "Spellcasting (High Elf only)",
+					"type": "spellcasting",
+					"spells": {
+						"0": {
+							"spells": [
+								"{@spell message|XPHB}",
+								"{@spell resistance|XPHB}",
+								"{@spell true strike|XPHB}"
+							]
+						}
+					}
+				}
+			],
+			"trait": [
+				{
+					"name": "Fey Ancestry",
+					"entries": [
+						"The brigand captain has advantage on saving throws against being {@condition charmed}, and magic can't put the brigand captain to sleep."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The Brigand Captain makes 2 weapon attacks."
+					]
+				},
+				{
+					"name": "Longsword",
+					"entries": [
+						"{@atk mw} {@hit +6} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d8 + 4}) Slashing damage. Two-Hand {@h}9 ({@damage 1d10 + 4})."
+					]
+				},
+				{
+					"name": "Redeployment",
+					"entries": [
+						"The Brigand Captain chooses an ally within 60 feet, and the ally immediately takes its turn in place of the Brigand Captain's turn."
+					]
+				}
+			],
+			"bonus": [
+				{
+					"name": "Courageous Aspect (Recharges: Short or Long Rest)",
+					"entries": [
+						"The Brigand Captain exudes a field of heroism for 1 minute. During this time, the Brigand Captain or any ally within 30 feet of the Brigand Captain is Immune to the {@condition Frightened|XPHB} condition."
+					]
+				}
+			],
+			"attachedItems": [
+				"longsword|phb"
+			],
+			"traitTags": [
+				"Fey Ancestry",
+				"Sneak Attack"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"languageTags": [
+				"C",
+				"E"
+			],
+			"damageTags": [
+				"S"
+			],
+			"damageTagsSpell": [
+				"R"
+			],
+			"spellcastingTags": [
+				"O"
+			],
+			"miscTags": [
+				"MLW",
+				"MW"
+			]
+		}
+	]
+}
