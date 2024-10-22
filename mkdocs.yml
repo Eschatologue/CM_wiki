@@ -361,13 +361,12 @@ nav:
   - Lore:
     - lore/index.md
     - Antares: 
-      - lore/antares/index.md
-    - Nations:
-      - London: lore/antares/nation/london.md
-      - Myrkheim: lore/antares/nation/myrkheimr.md
-      - Valinor: lore/antares/nation/valinor.md
-    - Technology and Magic:
-      - lore/technology-and-magic/index.md
+      - Continent: lore/antares/continent.md
+      - Nations:
+        - London: lore/antares/nation/london.md
+        - Myrkheim: lore/antares/nation/myrkheimr.md
+        - Valinor: lore/antares/nation/valinor.md
+      - Life: lore/antares/life.md
     - The Warp:
       - lore/warp/index.md
       - Warp Storm: lore/warp/warp-storm.md
@@ -379,7 +378,5 @@ nav:
         - The Perseverance: lore/pantheon/spire-perseverance.md
         - The Judgement: lore/pantheon/spire-judgement.md
         - The Harmony: lore/pantheon/spire-harmony.md
-    - Notable Events:
-      - The Great Split: lore/event/great-split.md
     - Lore Glossary: lore/glossary.md
     # - Glossary: lore/glossary.md
