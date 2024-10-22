@@ -13,10 +13,112 @@
 				"color": "224c91"
 			}
 		],
-		"dateAdded": 1729608514,
-		"dateLastModified": 1729608514
+		"dateAdded": 1729615658,
+		"dateLastModified": 1729615658
 	},
 	"monster": [
+		{
+			"name": "Convulsing Voidite",
+			"group": [
+				"Warp Entities"
+			],
+			"source": "CrownMisery",
+			"size": [
+				"S"
+			],
+			"type": "aberration",
+			"alignment": [
+				"U"
+			],
+			"ac": [
+				5
+			],
+			"hp": {
+				"formula": "1d6 + 2",
+				"average": 5
+			},
+			"speed": {
+				"walk": 0
+			},
+			"str": 0,
+			"dex": 0,
+			"con": 15,
+			"int": 0,
+			"wis": 0,
+			"cha": 0,
+			"senses": [
+				"blindsight 30 ft. (can't see beyond this)"
+			],
+			"passive": 5,
+			"immune": [
+				"poison",
+				"psychic",
+				"radiant"
+			],
+			"vulnerable": [
+				{
+					"vulnerable": [
+						"bludgeoning"
+					]
+				},
+				{
+					"vulnerable": [
+						"thunder"
+					]
+				}
+			],
+			"conditionImmune": [
+				"blinded",
+				"charmed",
+				"deafened",
+				"exhaustion",
+				"frightened",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"stunned"
+			],
+			"cr": "1/4",
+			"trait": [
+				{
+					"name": "Invigorating Field",
+					"entries": [
+						"When a creature destroys a Convulsing Voidite with a melee attack, it regains 2 ({@dice 1d4}) hit points."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Distruptive Resonance",
+					"entries": [
+						"A creature within 30 feet of the Convulsing Voidite must succeed on a {@dc 12} Wisdom saving throw, or take 7 ({@damage 2d6}) Psychic damage and has the {@condition Poisoned|XPHB} condition until the end of its next turn. The Convulsing Voidite is destroyed at the end of its turn."
+					]
+				},
+				{
+					"name": "Explosive Undoing",
+					"entries": [
+						"The Convulsing Voidite explodes, destroying itself. Any creature in a 20-foot radius of the Convulsing Voidite must make a {@dc 12} Dexterity saving throw. On a failed saving throw a creature takes 5 ({@damage 2d6}) Piercing damage, or half as much damage on a successful one."
+					]
+				}
+			],
+			"senseTags": [
+				"B"
+			],
+			"damageTags": [
+				"P",
+				"Y"
+			],
+			"miscTags": [
+				"AOE"
+			],
+			"conditionInflict": [
+				"poisoned"
+			],
+			"savingThrowForced": [
+				"dexterity",
+				"wisdom"
+			]
+		},
 		{
 			"name": "Elven Brigand (Melee)",
 			"source": "CrownMisery",
@@ -132,17 +234,10 @@
 					"entries": [
 						"{@atk mw,rw} {@hit +6} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}6 ({@damage 1d4 + 4}) piercing damage."
 					]
-				},
-				{
-					"name": "Hand Crossbow",
-					"entries": [
-						"{@atk rw} {@hit +6} to hit, range 30/120 ft., one target. {@h}7 ({@damage 1d6 + 4}) piercing damage."
-					]
 				}
 			],
 			"attachedItems": [
 				"dagger|phb",
-				"hand crossbow|phb",
 				"shortsword|phb"
 			],
 			"traitTags": [
@@ -170,7 +265,6 @@
 			"miscTags": [
 				"MLW",
 				"MW",
-				"RNG",
 				"RW",
 				"THW"
 			]
@@ -460,6 +554,189 @@
 			"miscTags": [
 				"MLW",
 				"MW"
+			]
+		},
+		{
+			"name": "Lictor",
+			"source": "CrownMisery",
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "aberration",
+				"tags": [
+					"husk"
+				]
+			},
+			"alignment": [
+				"C",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 15,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"formula": "5d8",
+				"average": 22
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 9,
+			"dex": 15,
+			"con": 11,
+			"int": 3,
+			"wis": 15,
+			"cha": 5,
+			"skill": {
+				"stealth": "+6"
+			},
+			"passive": 12,
+			"resist": [
+				"psychic",
+				"radiant"
+			],
+			"conditionImmune": [
+				"charmed",
+				"exhaustion"
+			],
+			"cr": "1",
+			"trait": [
+				{
+					"name": "Evasion",
+					"entries": [
+						"If the lictor is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the lictor instead takes no damage if it succeeds on the saving throw, and only half damage if it fails."
+					]
+				},
+				{
+					"name": "Assassinate",
+					"entries": [
+						"During its first turn, the lictor has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the lictor scores against a creature with {@status Surprised} condition is a critical hit."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Claws",
+					"entries": [
+						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d8 + 2}) slashing damage."
+					]
+				}
+			],
+			"bonus": [
+				{
+					"name": "Invisibility",
+					"entries": [
+						"The lictor magically give itself the {@condition Invisible} condition until it attacks or casts a spell, or until its {@status concentration} ends (as if {@status concentration||concentrating} on a spell)."
+					]
+				}
+			],
+			"traitTags": [
+				"False Appearance"
+			],
+			"damageTags": [
+				"S"
+			],
+			"miscTags": [
+				"MW"
+			]
+		},
+		{
+			"name": "Rabble",
+			"shortName": true,
+			"source": "CrownMisery",
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "aberration",
+				"tags": [
+					"husk"
+				]
+			},
+			"alignment": [
+				"C",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 13,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"formula": "4d8 + 4",
+				"average": 22
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 12,
+			"dex": 9,
+			"con": 12,
+			"int": 7,
+			"wis": 11,
+			"cha": 6,
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 10,
+			"resist": [
+				"psychic",
+				"radiant"
+			],
+			"conditionImmune": [
+				"charmed",
+				"exhaustion"
+			],
+			"cr": "1",
+			"trait": [
+				{
+					"name": "Crystaline Growth",
+					"entries": [
+						"After the Rabble dies, a Convulsing Voidite grows out of its body the following round on the Rabble's Initiative. Any damage dealt to the Rabble body destroys it completely, causing no Convulsing Voidite to spawn."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Shamble",
+					"entries": [
+						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h} 10 ({@damage 2d8 + 1}) Bludgeoning damage."
+					]
+				},
+				{
+					"name": "Implant",
+					"entries": [
+						"The Rabble throws shards of crystals at creature within 15 feet of itself. The creature must succeed on a {@dc 11} Dexterity saving throw or is covered in crystals and takes 5 ({@damage 2d4}) radiant damage at the beginning of each of its turns for one minute or until the target creature or a creature within 5 feet of it takes an action to remove the seeds."
+					]
+				},
+				{
+					"name": "Regenerate (1/Short Rest)",
+					"entries": [
+						"The Rabble regains 9 ({@dice 2d8}) hit points."
+					]
+				}
+			],
+			"senseTags": [
+				"D"
+			],
+			"damageTags": [
+				"B",
+				"R"
+			],
+			"miscTags": [
+				"MW"
+			],
+			"savingThrowForced": [
+				"dexterity"
 			]
 		}
 	]
