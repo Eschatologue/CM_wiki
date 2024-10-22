@@ -15,33 +15,33 @@ Your character's background is the collection of characteristics that they picke
 
 Each background includes the following elements, which you can either choose from existing options or customize to fit your character’s story.
 
-Mechanically, your background contains six aspects detailed as follow, a **Custom Background** follows the same formula:
+Mechanically, your background contains six plus one aspects detailed as follow, a **Custom Background** follows the same formula:
 
-***Ability Scores***
+:material-arrow-up-bold-box: ***Ability Scores***
 
 :   Increase **one ability score by +2 and another by +1**, or increase **three ability scores by +1 each**. These increases cannot raise any score above **20**.
 
-***Feat***
+:material-cards-diamond: ***Feat***
 
 :   Gain an **Origin Feat**. This feat represents a talent your character developed or had during their background.
 
-***Skill Proficiencies***
+:material-account-star: ***Skill Proficiencies***
 
 :   Gain **proficiency in 2 skills** related to your character's background experiences.
 
-***Tool Proficiency***
+:material-tools: ***Tool Proficiency***
 
 :   Gain **proficiency with 1 tool**. This can be a specific tool (Musical Instrument, or other tools) or one from the **Artisan’s Tools** category.
 
-***Languages Known***
+:trait-language: ***Languages Known***
 
 :   Your character knows **3 languages**: **Common** plus two additional languages chosen or rolled from the **Standard Languages** table. See [Character Creation](../../create-your-character.md#choose-languages) for more details.
 
-***Equipment***
+:weapon-spear: ***Equipment***
 
 :   Start with either an **equipment package** from any background or **500 SP** to spend on equipment of your choice (e.g., weapons, tools, clothing, etc.).
 
-***Affiliation*** ^CM^
+:material-transit-connection-variant: ***Affiliation*** ^CM^
 
 :   You have **5 points** to distribute between 4 **Affiliations**: **Academe, Bohemia, Establishment, Villainy**. Affiliation connects your character's **past** to their **present**.
 
