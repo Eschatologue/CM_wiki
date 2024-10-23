@@ -83,11 +83,7 @@ A great fishermen is not just that is lucky, but those who both lucky and came p
 
 ### Fishing Supplies
 
-Also Read: [Fishing Supplies](../../equipment/tools/artisan-tools.md#fishing-supplies)
-
-Fishing Supplies are categorized as an Artisan Tool. They include a special compartment or clip for your fishing rod, a tackle box with simple line, hooks, bait, bobbers, and lures. Regardless of their appearance, you need this artisan tool and your fishing rod to start fishing.
-
-Fishing Supplies cost 50 SP and can be found in most cities during your adventure.
+[Fishing Supplies] are categorized as a Tool. They include a special compartment or clip for your fishing rod, a tackle box with simple line, hooks, bait, bobbers, and lures. Regardless of their appearance, you need this tool and your fishing rod to start fishing.
 
 ### Fishing Rod Modifications
 
@@ -246,4 +242,4 @@ He then multiplies the sum by the Four-of-a-kind multiplier (×4): `27 × 4 = 10
 Antagoni consults the fishing table to determine what he caught based on the final result of 108, for this example purpose; A magical longsword. The specifics of the catch would depend on the fishing table.
 
 
-[Fishing Supplies]: #fishing-supplies
+[Fishing Supplies]: ../../equipment/tools/other-tools.md#fishings-supplies

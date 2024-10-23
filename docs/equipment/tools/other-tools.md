@@ -18,6 +18,15 @@ These tools support adventure and other pursuits.
 
 ---
 
+### Fishing's Supplies
+
+*Tool, 150 SP, M.*  
+
+**Ability:** Dexterity or Wisdom  
+**Utilize:** Discern whenever a body of water suitable for fishing (DC 12)  
+
+---
+
 ### Forgery Kit
 
 *Tool, 150 SP, M.*

@@ -27,46 +27,59 @@ When you reach a Magus level specified in the Traveler Spells table, you thereaf
 
 ### Level 3: Temporal Shift
 
-You can alter the passage of time to undo any mistakes and missteps you may make. Whenever you fail a D20 Test, you can take a Reaction to re-roll your d20. You must use this new result.
+*You can alter the passage of time to undo any mistakes and missteps you may make.*
+
+Whenever you fail a D20 Test, you can take a Reaction to re-roll your d20. You must use this new result.
 
 You can use this feature a number of times equal to your Intelligence modifier (a minimum of once) and regain all expended use when you finish a Long Rest. You can also restore all usage by expending a level 1+ spell slot (no action required).
 
 ### Level 3: Visions of the Past
 
-You have learned to see echoes of past events in the present. You gain proficiency in History, and whenever you make an Intelligence (History) check while in the location where the subject of your Intelligence (History) check took place, you can add double your proficiency bonus to your roll.
+*You have learned to see echoes of past events in the present.* 
+
+You gain proficiency in History, and whenever you make an Intelligence (History) check while in the location where the subject of your Intelligence (History) check took place, you can add double your proficiency bonus to your roll.
 
 ### Level 7: Chronological Drift
 
-Your use of time magic has caused your physical form to be detached from the normal flow of time. Your age cannot be changed by spells or magical effects, and for every 10 years that pass, your physical body only ages 1 year.
+*Your use of time magic has caused your physical form to be detached from the normal flow of time.*
+
+Your age cannot be changed by spells or magical effects, and for every 10 years that pass, your physical body only ages 1 year.
 
 At level 15, you only age 1 year for every 100 years that pass, and at level 20, your body stops aging completely.
 
 ### Level 7: Greater Shift
 
-Your knowledge of Chronomancy magic allows you to adjust the effects of time for the creatures around you. You can use [Temporal Shift] whenever a creature that you can see within 30 feet fails a D20 Test. It must use the new result of its d20 roll.
+*Your knowledge of Chronomancy magic allows you to adjust the effects of time for the creatures around you.* 
+
+You can use [Temporal Shift] whenever a creature that you can see within 30 feet fails a D20 Test. It must use the new result of its d20 roll.
 
 Also, at the beginning of each round of Initiative in combat, so long as you don't have the Incapacitated or Surprised condition, you can use your Reaction to roll Initiative again, using the new result.
 
 ### Level 15: Conjure Self
 
-You have become so adept at the manipulation of time that you can conjure versions of yourself from the future to aid you. As a Magic action, you can expend a level 3+ spell slot to conjure a version of yourself from the future.
+*You have become so adept at the manipulation of time that you can conjure versions of yourself from the future to aid you.*
 
-Your **Future Self** shares your Initiative in combat and acts immediately after you. They act independently and will aid you to the best of their abilities. Your **Future Self** has a total number of hit points equal to your maximum hit points and they use your ability scores. They share features from your race, class, and other sources, including independent uses of [Temporal Shift]. However, you share your spell slots.
+As a Magic action, expend a level 3+ spell slot to conjure your **Future Self**, which shares your Initiative and acts immediately after you.
 
-You can ask your **Future Self** one question concerning the future, and they answer you using the guidelines provided in the commune spell. Their knowledge is limited to things that you may know in the future as determined by the DM.
+Your **Future Self** has your Hit Point Maximum, Ability Scores, and all features from your Species, Class, and other sources, including independent uses of [Temporal Shift], but shares your spell slots. It aids you independently to the best of its abilities.
 
-The time your **Future Self** remains depends on the spell slot you expended: level 3 (1 minute), level 4 (1 hour), or level 5 (8 hours). They return to their time at the end of the duration, or sooner if they are reduced to 0 hit points.
+You can ask your **Future Self** one question about the future, answered per the *[Commune]* spell guidelines. The DM determines their knowledge, limited to what you may know in the future.
 
-There can only ever be one version of your **Future Self** in your current time at once. Conjuring a second **Future Self** causes any others to instantly return to their time.
+The duration of their stay depends on the spell slot used: level 3 (1 minute), level 4 (1 hour), or level 5 (8 hours). They return to their time when the duration ends or when reduced to 0 hit points.
+
+Only one **Future Self** can exist at a time. Summoning a new one ends the previous.
 
 ### Level 20: Untethered Traveler
 
-Your use of Chronomancy has caused you to become adrift in the flow of time, seeing and experiencing it radically different from those around you. As a Magic action, you can cast a modified version of the *[Time Stop]* spell where you and your **Future Self** can both act, but you each only get one additional turn.
+*Your use of Chronomancy has caused you to become adrift in the flow of time, seeing and experiencing it radically different from those around you.*
+
+As a Magic action, you can cast a modified version of the *[Time Stop]* spell where you and your **Future Self** can both act, but you each only get one additional turn.
 
 Once you use this feature you must finish a Long Rest before you can cast this modified version of *[Time Stop]* again. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 [Temporal Shift]: #level-3-temporal-shift 
 
+[Commune]: ../../spells/description/core/level-5.md#commune
 [Time Stop]: ../../spells/description/core/level-9.md#time-stop
 
 --8<--- "includes\snippets\skills.md"

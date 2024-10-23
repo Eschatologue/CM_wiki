@@ -28,8 +28,6 @@ When creating your character, you must adhere to three core principles that appl
  
 :   This setting uses a post-apocalyptic dystopian science fantasy world, characters should blend modern and fantasy elements. A traditional medieval knight would be out of place. Instead, create a knight equipped armour combining modern technology enchanted with ancient runes. Similarly, a mage might use arcane spells alongside gadgets, and a ranger could be adept at surviving in both urban ruins and wild wastelands, utilizing a mix of traditional skills and contemporary tools.
 
-*See more at [Lore](../lore/antares/index.md)*
-
 ## Step-by-Step Guide
 
 Here are the steps to make a character; each step is explored in detail in this chapter:
@@ -265,6 +263,7 @@ The summaries of the alignments below describe the typical behavior of a creatur
 Now fill in the rest of your character sheet.
 
 #### Record Class Features
+
 Look at your class's feature table in chapter 3, and write down the level 1 features. The class features are detailed in that same chapter.
 
 Some class features offer choices. Make sure to read all your features and make any offered choices.

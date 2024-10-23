@@ -85,7 +85,9 @@ You have become an expert of the [Blade Dance], and while you are in this trance
 
 ### Level 20: Master of Blades
 
-You have reached the apex of your Order and been granted the title of Master of Blades. You are always considered to be under the effects of your [Blade Dance] so long as you are not wearing heavy armour or wielding a heavy weapon.
+*You have reached the apex of your Order and been granted the title of Master of Blades.* 
+
+You are always considered to be under the effects of your [Blade Dance] so long as you are not wearing heavy armour or wielding a heavy weapon.
 
 Also, when you take the Attack action while in your [Blade Dance], you make one additional attack as part of that action.
 

@@ -25,7 +25,9 @@ When you reach a Magus level specified in the Warder Spells table, you thereafte
 
 ### Level 3: Warder's Bond
 
-You are taught the signature protective style of your Order. You gain training in Heavy armour. Also, at the end of a Long Rest, you can touch a willing creature, forging a mystical bond that designates it as your Ward until your next Long Rest.
+*You are taught the signature protective style of your Order.* 
+
+You gain training in Heavy armour. Also, at the end of a Long Rest, you can touch a willing creature, forging a mystical bond that designates it as your Ward until your next Long Rest.
 
 When your Ward is targeted by an attack or forced to make a saving throw and you are within 10 feet of it, you can use a Reaction to instantly switch places and become the target of the triggering attack or effect. You must be able to see your Ward to use this Reaction.
 
@@ -33,19 +35,23 @@ At certain Magus levels, the range of this Reaction increases: at level 7 (30 fe
 
 ### Level 7: Arcane Aegis
 
-You can temporarily infuse your Warder's Bond with arcane power to absorb damage. When you use your Warder's Bond Reaction and you take damage, you can expend a spell slot as part of the same Reaction to reduce that damage by 2d8 per level of the spell slot you expended.
+*You can temporarily infuse your Warder's Bond with arcane power to absorb damage.*
+
+When you use your Warder's Bond Reaction and you take damage, you can expend a spell slot as part of the same Reaction to reduce that damage by 2d8 per level of the spell slot you expended.
 
 Moreover, whenever you start your turn within 10 feet of your Ward, you can grant one of you temporary hit points equal to your Intelligence modifier (minimum of 1).
 
 ### Level 15: Bond Perfected
 
-The magic of your Bond has reached its apex. When you use your Warder's Bond Reaction you are considered resistant to any damage you take from the triggering attack or effect.
+*The magic of your Bond has reached its apex.*
+
+When you use your Warder's Bond Reaction you are considered resistant to any damage you take from the triggering attack or effect.
 
 In addition, while you are within 10 feet of your Ward you are both immune to the Charmed and Frightened conditions. If either of you has those condition and is within 10 feet of the other, the effects of the condition are temporarily suppressed, so long as you remain within 10 feet.
 
 ### Level 20: High Warder
 
-You have risen to the highest rank in the Order of Warders and stand as a stalwart arcane shield for any who are under your protection. 
+*You have risen to the highest rank in the Order of Warders and stand as a stalwart arcane shield for any who are under your protection.*
 
 At the end of each Long Rest, you can bond up to five willing creatures as your Wards with Warder's Bond. All other rules for your Warder's Bond still apply for you.
 

@@ -101,7 +101,7 @@ You have learned to cast arcane spells, much like a Wizard, which you use to enh
 
 You know two cantrips of your choice from the [Magus Spell List].
 
-Whenever you gain an Magus level, you can replace one of your cantrips with another cantrip of your choice from the [Magus Spell List].
+Whenever you gain an Magus level, you can replace one of your cantrips with another cantrip of your choice from the Magus Spell List.
 
 #### Spell Slots
 
@@ -125,7 +125,7 @@ Whenever you finish a Long Rest, you can replace one spell on your list with ano
 
 #### Spellcasting Focus
 
-You can use any Weapon or Shield within your Arcane Armoury as a spellcasting focus for your Magus spells. They can also be used to perform the somatic components of Magus spells.
+You can use any Weapon or Shield within your Arcane Armoury as a spellcasting focus for your Magus spells. They can also be used to perform the Somatic components of Magus spells.
 
 You can also use an Arcane Focus as a spellcasting focus.
 

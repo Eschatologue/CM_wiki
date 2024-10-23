@@ -105,7 +105,7 @@ nav:
       - Proficiency: gameplay/phb/proficiency.md
       - Actions: 
         - gameplay/phb/actions/index.md
-        - Options: gameplay/phb/actions/class-optionss.md
+        - Options: gameplay/phb/actions/class-options.md
       - Exploration: gameplay/phb/exploration.md
       - Combat: gameplay/phb/combat.md
       - Damage & Healing: gameplay/phb/damage-and-healing.md
@@ -379,4 +379,3 @@ nav:
         - The Judgement: lore/pantheon/spire-judgement.md
         - The Harmony: lore/pantheon/spire-harmony.md
     - Lore Glossary: lore/glossary.md
-    # - Glossary: lore/glossary.md

@@ -5,7 +5,7 @@ status: homebrew
 
 # Firearm Augmentation
 
-With the release of the 2024 edition of the Player's Handbook, all Cold Weapons gained new mechanics known as [Weapon Mastery](index.md#mastery-properties), allowing them to produce additional effects upon hitting a target. This mechanic reflects the wielder's mastery and skill in wielding such weapons.
+With the release of the 2024 edition of the Player's Handbook, all Cold Weapons gained new mechanics known as **Weapon Mastery**, allowing them to produce additional effects upon hitting a target. This mechanic reflects the wielder's mastery and skill in wielding such weapons.
 
 However, the power of firearms comes from the weapon itself, not the strength or skill of the user. A user can be as strong as they wish, but they are ultimately limited by the weapon's inherent capabilities.
 
