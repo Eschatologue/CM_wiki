@@ -13,12 +13,15 @@
 				"color": "224c91"
 			}
 		],
-		"dateAdded": 1729615658,
-		"dateLastModified": 1729615658
+		"dateAdded": 1729662050,
+		"dateLastModified": 1729662050
 	},
 	"monster": [
 		{
 			"name": "Convulsing Voidite",
+			"alias": [
+				"Convulsing Voidite"
+			],
 			"group": [
 				"Warp Entities"
 			],
@@ -47,7 +50,7 @@
 			"wis": 0,
 			"cha": 0,
 			"senses": [
-				"blindsight 30 ft. (can't see beyond this)"
+				"{@sense Blindsight|XPHB} 30 ft. (can't see beyond this)"
 			],
 			"passive": 5,
 			"immune": [
@@ -120,6 +123,144 @@
 			]
 		},
 		{
+			"name": "Dullahan",
+			"group": [
+				"Husk"
+			],
+			"source": "CrownMisery",
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "aberration",
+				"tags": [
+					"Husk"
+				]
+			},
+			"alignment": [
+				"C",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 18,
+					"from": [
+						"{@item shield|xphb}"
+					]
+				}
+			],
+			"hp": {
+				"average": 60,
+				"formula": "8d8 + 24"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 18,
+			"dex": 14,
+			"con": 16,
+			"int": 11,
+			"wis": 11,
+			"cha": 15,
+			"save": {
+				"con": "+5",
+				"wis": "+2"
+			},
+			"skill": {
+				"athletics": "+7",
+				"stealth": "+5"
+			},
+			"passive": 10,
+			"resist": [
+				"psychic",
+				"radiant"
+			],
+			"cr": "6",
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The dullahan makes two melee attacks with its Corrupted Blade"
+					]
+				},
+				{
+					"name": "Corrupted Blade (Single Target)",
+					"entries": [
+						"{@atk mw} {@hit +6} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d8 + 4}) slashing damage."
+					]
+				},
+				{
+					"name": "Corrupted Blade (Cleave)",
+					"entries": [
+						"the dullahan slashes in a wide arc with its corrupted blade. Each creature in 15 foot cone must succeed a {@dc 13} Dexterity saving throw, taking 7 ({@damage 1d8 + 3}) slashing damage and it is pushed 5 feet away from the dullahan.",
+						"Creatures only takes half damage on successful save."
+					]
+				},
+				{
+					"name": "Rush",
+					"entries": [
+						"The dullahan choose a point that it can see within 40 ft. and move towards it in a straight line without provoking {@action Opportunity Attack}. Each creature that it passes must succeed a {@dc 13} Dexterity saving throw or take 8 ({@damage 1d8 + 4}) Slashing damage on a failed save, or half as much on a successful save."
+					]
+				}
+			],
+			"bonus": [
+				{
+					"name": "Teleport",
+					"entries": [
+						"The dullahan magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see."
+					]
+				}
+			],
+			"reaction": [
+				{
+					"name": "Brace",
+					"entries": [
+						"The dullahan adds 2 to its AC against one melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon."
+					]
+				}
+			],
+			"token": {
+				"name": "Knight",
+				"source": "MM"
+			},
+			"soundClip": {
+				"type": "external",
+				"url": "https://5e.tools/audio/bestiary/knight.mp3"
+			},
+			"actionTags": [
+				"Multiattack",
+				"Parry",
+				"Teleport"
+			],
+			"damageTags": [
+				"S"
+			],
+			"miscTags": [
+				"MW"
+			],
+			"savingThrowForced": [
+				"dexterity"
+			],
+			"hasFluff": true,
+			"fluff": {
+				"name": "Knight",
+				"source": "MM",
+				"entries": [
+					{
+						"type": "entries",
+						"entries": [
+							{
+								"type": "entries",
+								"entries": [
+									"Knights are warriors who pledge service to rulers, religious orders, and noble causes. A knight's alignment determines the extent to which a pledge is honored. Whether undertaking a quest or patrolling a realm, a knight often travels with an entourage that includes squires and hirelings who are commoners."
+								]
+							}
+						]
+					}
+				]
+			}
+		},
+		{
 			"name": "Elven Brigand (Melee)",
 			"source": "CrownMisery",
 			"size": [
@@ -144,8 +285,8 @@
 				}
 			],
 			"hp": {
-				"formula": "8d8 + 16",
-				"average": 52
+				"formula": "6d8 + 12",
+				"average": 39
 			},
 			"speed": {
 				"walk": {
@@ -294,8 +435,8 @@
 				}
 			],
 			"hp": {
-				"formula": "8d8 + 16",
-				"average": 52
+				"formula": "6d6 + 12",
+				"average": 33
 			},
 			"speed": {
 				"walk": {
@@ -446,8 +587,8 @@
 				}
 			],
 			"hp": {
-				"formula": "8d10 + 16",
-				"average": 60
+				"formula": "8d8 + 16",
+				"average": 52
 			},
 			"speed": {
 				"walk": {
@@ -455,15 +596,15 @@
 					"condition": "35 ft. (Wood Elf)"
 				}
 			},
-			"str": 18,
+			"str": 16,
 			"dex": 12,
 			"con": 15,
-			"int": 10,
+			"int": 14,
 			"wis": 10,
 			"cha": 16,
 			"save": {
-				"str": "+7",
-				"con": "+5"
+				"con": "+5",
+				"str": "+5"
 			},
 			"skill": {
 				"stealth": "+6",
@@ -510,7 +651,7 @@
 				{
 					"name": "Longsword",
 					"entries": [
-						"{@atk mw} {@hit +6} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d8 + 4}) Slashing damage. Two-Hand {@h}9 ({@damage 1d10 + 4})."
+						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d8 + 4}) slashing damage, or 9 ({@damage 1d10 + 4}) slashing damage if used with both hands."
 					]
 				},
 				{
@@ -573,12 +714,7 @@
 				"E"
 			],
 			"ac": [
-				{
-					"ac": 15,
-					"from": [
-						"natural armor"
-					]
-				}
+				15
 			],
 			"hp": {
 				"formula": "5d8",
@@ -605,7 +741,7 @@
 				"charmed",
 				"exhaustion"
 			],
-			"cr": "1",
+			"cr": "3",
 			"trait": [
 				{
 					"name": "Evasion",
@@ -617,6 +753,12 @@
 					"name": "Assassinate",
 					"entries": [
 						"During its first turn, the lictor has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the lictor scores against a creature with {@status Surprised} condition is a critical hit."
+					]
+				},
+				{
+					"name": "Crystaline Growth",
+					"entries": [
+						"After the this creature dies, a {@creature Convulsing Voidite|crownmisery} grows out of its body the following round on its Initiative."
 					]
 				}
 			],
@@ -647,6 +789,152 @@
 			]
 		},
 		{
+			"name": "Lumberjack",
+			"source": "CrownMisery",
+			"size": [
+				"L"
+			],
+			"type": {
+				"type": {
+					"choose": [
+						"aberration",
+						"construct"
+					]
+				},
+				"tags": [
+					"husk"
+				]
+			},
+			"alignment": [
+				"C",
+				"E"
+			],
+			"ac": [
+				16
+			],
+			"hp": {
+				"formula": "6d12 + 12",
+				"average": 51
+			},
+			"speed": {
+				"walk": 25,
+				"fly": {
+					"number": 25,
+					"condition": "when using Rocker Booster"
+				}
+			},
+			"str": 18,
+			"dex": 8,
+			"con": 14,
+			"int": 5,
+			"wis": 8,
+			"cha": 8,
+			"save": {
+				"str": "+6",
+				"con": "+4"
+			},
+			"skill": {
+				"perception": "+5"
+			},
+			"senses": [
+				"{@sense Blindsight|XPHB} 30 ft. (can't see beyond this)"
+			],
+			"passive": 15,
+			"resist": [
+				"psychic",
+				"radiant",
+				"slashing"
+			],
+			"conditionImmune": [
+				"blinded",
+				"charmed",
+				"exhaustion"
+			],
+			"cr": "4",
+			"trait": [
+				{
+					"name": "Keen Hearing",
+					"entries": [
+						"The lumberjack has Advantage on Wisdom ({@skill Perception}) checks that rely on hearing."
+					]
+				},
+				{
+					"name": "Electrical Suspectibility",
+					"entries": [
+						"If the Lumberjack takes Lightning damage while Bloodied, it must make Constitution saving throw ({@dc 5} + the damage taken). On a failed save it has the {@condition Paralyzed|XPHB} condition until the end of its next turn.",
+						"The Lumberjack automatically fails this save if the hit is a Critical Hit."
+					]
+				},
+				{
+					"name": "Momentum",
+					"entries": [
+						"If the lumberjack moves at least 20 feet straight toward a creature and then hits it with an attack on the same turn, that target must succeed on a {@dc 12} Strength saving throw or it gets the {@condition Prone} condition. "
+					]
+				},
+				{
+					"name": "Crystaline Growth",
+					"entries": [
+						"After the this creature dies, a {@creature Convulsing Voidite|crownmisery} grows out of its body the following round on its Initiative."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The lumberjack can attack twice with its Circular Saw. It can't use the same attack twice."
+					]
+				},
+				{
+					"name": "Chainsaw (Single Target)",
+					"entries": [
+						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}15 ({@damage 2d6 + 6}) slashing damage."
+					]
+				},
+				{
+					"name": "Chainsaw (Cleave)",
+					"entries": [
+						"the Lumberjack slashes in a wide arc wit its Chainsaw. Each creature in 15 foot cone must succeed a {@dc 13} Dexterity saving throw, taking 7 ({@damage 1d8 + 3}) slashing damage or half as much on successful save."
+					]
+				}
+			],
+			"bonus": [
+				{
+					"name": "Rocket Booster (2/Short Rest)",
+					"entries": [
+						"The lumberjack moves up to its Speed toward a hostile creature that it can see, with its rocket booster."
+					]
+				}
+			],
+			"traitTags": [
+				"Aggressive",
+				"Charge",
+				"False Appearance",
+				"Keen Senses",
+				"Undead Fortitude"
+			],
+			"senseTags": [
+				"B"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"damageTags": [
+				"S"
+			],
+			"miscTags": [
+				"MW"
+			],
+			"conditionInflict": [
+				"paralyzed",
+				"prone"
+			],
+			"savingThrowForced": [
+				"dexterity",
+				"strength"
+			]
+		},
+		{
 			"name": "Rabble",
 			"shortName": true,
 			"source": "CrownMisery",
@@ -664,16 +952,11 @@
 				"E"
 			],
 			"ac": [
-				{
-					"ac": 13,
-					"from": [
-						"natural armor"
-					]
-				}
+				13
 			],
 			"hp": {
-				"formula": "4d8 + 4",
-				"average": 22
+				"formula": "5d8 + 5",
+				"average": 27
 			},
 			"speed": {
 				"walk": 30
@@ -701,7 +984,7 @@
 				{
 					"name": "Crystaline Growth",
 					"entries": [
-						"After the Rabble dies, a Convulsing Voidite grows out of its body the following round on the Rabble's Initiative. Any damage dealt to the Rabble body destroys it completely, causing no Convulsing Voidite to spawn."
+						"After the this creature dies, a {@creature Convulsing Voidite|crownmisery} grows out of its body the following round on its Initiative."
 					]
 				}
 			],
