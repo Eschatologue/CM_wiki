@@ -14,8 +14,6 @@ extra_css:
 theme:
   name: material
   custom_dir: overrides
-  static_templates:
-    - 404.html
   features:
     - navigation.top
     - navigation.tabs
@@ -39,6 +37,8 @@ theme:
     logo: fontawesome/solid/dice-d20
     annotation: material/timeline-question
   favicon: assets/icon.jpg
+  static_templates:
+    - 404.html
 
 ## Additional Configuration
 extra:
@@ -105,7 +105,7 @@ nav:
       - Proficiency: gameplay/phb/proficiency.md
       - Actions: 
         - gameplay/phb/actions/index.md
-        - Options: gameplay/phb/actions/class-options.md
+        - Options: gameplay/phb/actions/options.md
       - Exploration: gameplay/phb/exploration.md
       - Combat: gameplay/phb/combat.md
       - Damage & Healing: gameplay/phb/damage-and-healing.md
