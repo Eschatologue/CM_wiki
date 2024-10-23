@@ -73,9 +73,9 @@ As a Magus, you gain the following class features when you reach the specified M
 
 ### Level 1: Arcane Armoury
 
-You learn the signature enchantment of the Magi, marking you as a member of their ranks. Over the course of 1 hour, which can be during a Short or Long Rest, you can touch one melee weapon, shield, or set of armour to perform a ritual adding the item to your Arcane Armoury. Your Arcane Armoury is an extradimensional space that only its Magus can access.
+You learn the signature enchantment of the Magi, marking you as a member of their ranks. Over the course of 1 hour, which can be during a Short or Long Rest, you can touch one melee weapon, shield, or set of armour to perform a ritual adding the item to your **Arcane Armoury**. Your Arcane Armoury is an extradimensional space that only its Magus can access.
 
-Objects in your Arcane Armoury gain the following benefits:
+Objects in your **Arcane Armoury** gain the following benefits:
 
 - They count as Magical Weapons, Shields, or sets of Armour.
 - You can use your Intelligence, in place of Dexterity, when calculating Armour Class in this Light and Medium armour, so long as you do not already add it to your Armour Class.
@@ -180,9 +180,12 @@ You can still only make one [Spellstrike] attack per turn.
 
 ### Level 5: Spellsight
 
-As a Magic action, you can awaken your senses to the presence of magic within 30 feet as if you had cast *Detect Magic*. While this sense is active, you can touch an object and gain knowledge as if you had cast *Identify*. This special sense requires your Concentration, and it lasts for 1 minute.
+As a Magic action, you can awaken your senses to the presence of magic within 30 feet as if you had cast *[Detect Magic]*. While this sense is active, you can touch an object and gain knowledge as if you had cast *[Identify]*. This special sense requires your Concentration, and it lasts for 1 minute.
 
 You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+
+[Detect Magic]: ../../spells/description/core/level-1.md#detect-magic 
+[Identify]: ../../spells/description/core/level-1.md#identify 
 
 ### Level 6: Ethereal Jaunt
 

@@ -41,7 +41,7 @@ Moreover, whenever you start your turn within 10 feet of your Ward, you can gran
 
 The magic of your Bond has reached its apex. When you use your Warder's Bond Reaction you are considered resistant to any damage you take from the triggering attack or effect.
 
-In addition, while you are within 10 feet of your Ward you are both immune to the charmed and frightened conditions. If either of you is charmed or frightened and is within 10 feet of the other, the effects of the condition are temporarily suppressed, so long as you remain within 10 feet.
+In addition, while you are within 10 feet of your Ward you are both immune to the Charmed and Frightened conditions. If either of you has those condition and is within 10 feet of the other, the effects of the condition are temporarily suppressed, so long as you remain within 10 feet.
 
 ### Level 20: High Warder
 
