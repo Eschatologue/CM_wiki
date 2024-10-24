@@ -381,11 +381,11 @@
 
 .md-typeset {
   font-weight: 400;
-  font-size: 0.75rem;
+  font-size: 0.7rem;
 }
 .md-typeset strong {
   font-weight: 620;
-  letter-spacing: 0.015rem;
+  letter-spacing: 0.014rem;
 }
 .md-typeset p {
   margin: 0.3rem 0 0.3rem 0;
@@ -406,23 +406,23 @@
   font-variant: small-caps;
 }
 .md-typeset h1 {
-  font-size: 1.6875rem;
-  letter-spacing: 0.03375rem;
+  font-size: 1.575rem;
+  letter-spacing: 0.0315rem;
+  font-weight: 500;
   margin-top: -0.25em;
   margin-bottom: 0.4rem;
-  font-weight: 400;
 }
 .md-typeset h2 {
-  font-size: 1.125rem;
-  letter-spacing: 0.0225rem;
-  font-weight: 400;
+  font-size: 1.05rem;
+  font-weight: 500;
+  letter-spacing: 0.0315rem;
   border-bottom: 0.1rem solid rgba(255, 255, 255, 0.25);
   margin: 0.9rem 0 0.225rem 0;
 }
 .md-typeset h3 {
-  font-size: 0.9375rem;
+  font-size: 0.875rem;
   font-weight: 500;
-  letter-spacing: 0.0375rem;
+  letter-spacing: 0.035rem;
   margin: 0.6rem 0 0.2rem 0;
   display: flex;
 }
@@ -434,13 +434,13 @@
   flex: 20 0 1rem;
 }
 .md-typeset h4 {
-  font-size: 0.83625rem;
+  font-size: 0.7805rem;
   font-weight: 600;
   margin: 0.3rem 0 0.15rem;
   text-transform: capitalize !important;
 }
 .md-typeset h5 {
-  font-size: 0.75rem;
+  font-size: 0.7rem;
   font-weight: 450;
   text-transform: capitalize;
   margin-bottom: -0.2rem;
@@ -499,7 +499,7 @@
   min-width: 0.0625em;
 }
 .md-typeset table:not([class]) th {
-  font-size: 0.6375rem;
+  font-size: 0.595rem;
   font-weight: bold !important;
   text-transform: capitalize !important;
   vertical-align: bottom;
@@ -509,7 +509,7 @@
   padding: 0.6125em 1em;
 }
 .md-typeset table:not([class]) td {
-  font-size: 0.6rem;
+  font-size: 0.56rem;
   border-bottom: rgba(255, 255, 255, 0.12);
   background-color: rgba(255, 255, 255, 0.025);
 }
