@@ -29,10 +29,16 @@ The ensuing conflict, later known as **The Great Split**, is widely regarded as 
 
 The war was characterised by brutal, large-scale battles that devastated much of the land. In a decisive and final act, London's forces succeeded in breaching one of the elves' most sacred sites and felling **Yggdrasil**, the tree of life. This not only crippled the elves’ morale but also marked the symbolic end of their supremacy, ushering in a new era dominated by technological might.
 
-## Modern Era
+## Government Structure
 
-### Society and Culture
+Albion operates as a borderline stratocracy, where military and civil governance are intertwined. Citizens are not only encouraged but required to serve the government for a period, often through military service or sometimes civil roles. This fusion of military and civilian life reinforces Albion's robust sense of discipline and unity, where governance is seen as a collective duty shared by all.
 
-In the aftermath of centuries of conflict, London has developed a unique and often perplexing society compared to other nations. Where many countries adopt an optimistic or inflated view of their own grandeur, London's worldview is starkly different. The country is steeped in a deep-rooted pessimism, born from a history of perpetual warfare.
+Despite its rigid structure, the Dominion of Albion is notably inclusive of all species, creeds, and backgrounds. However, this inclusiveness stems more from practical necessity than from a sense of altruism. The need for manpower, resources, and expertise from a variety of sources has driven Albion to adopt a more open policy, ensuring its survival and efficiency in a harsh and unforgiving world.
+
+## Society
+
+### Pesimism
+
+Albion has a unique and often perplexing society compared to other nations. Where many countries adopt an optimistic or inflated view of their own grandeur, London's worldview is starkly different. The country is steeped in a deep-rooted pessimism, born from a history of perpetual warfare.
 
 Historians from London frequently note that the nation has experienced no sustained period of peace for over two centuries. This unbroken cycle of conflict has shaped a society that values discipline, duty, and the collective over individual desires. The state's authority is maintained through a strict social order, with citizen participation in governance being mandatory. From a young age, children are taught to prioritise their responsibilities to the nation, ensuring that the survival of London takes precedence over personal aspirations.
