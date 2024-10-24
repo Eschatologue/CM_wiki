@@ -2,10 +2,11 @@
 icon: ability/int
 ---
 
+# Intelligence
 
 Intelligence represents a creature's recall, as well as their ability to reason and think quickly.
 
-Intelligence is the game's recommended primary stat for artificer and wizards, and it is the spellcasting ability of artificers, wizards, fighters(Eldritch Knight) and rogues (Arcane Trickster).
+Intelligence is the game's recommended primary stat for artificer and wizards, and it is the spellcasting ability of :class-artificer: Artificers, :class-phb24-wizard: Wizards, and :class-magus: Magi
 
 ## Intelligence Checks
 

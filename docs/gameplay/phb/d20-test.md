@@ -4,7 +4,7 @@ icon: die/d20
 
 # D20 Tests
 
-When the outcome of an action is uncertain, the game uses a d20 roll to determine success or failure. These rolls are called **D20 Tests**, and they come in three kinds: :d20-attack: **Attack Rolls** – which are rolled against the target's **Armour Class** (**AC**), :d20-check:**Ability Check** – which are rolled against the check's Difficulty Class (DC), and :d20-save:**Saving Throws** – which are rolled against a save DC. They follow these steps:
+When the outcome of an action is uncertain, the game uses a d20 roll to determine success or failure. These rolls are called **D20 Tests**, and they come in three kinds: attack rolls – which are rolled against the target's **Armour Class** (**AC**), :d20-check:**Ability Check** – which are rolled against the check's Difficulty Class (DC), and :d20-save:**Saving Throws** – which are rolled against a save DC. They follow these steps:
 
 1. **Roll a 1d20.** You always want to roll high. If the roll has :d20-adv: Advantage or :d20-disadv: Disadvantage, you roll two d20s, but you use the number from only one of them–the higher once if you have :d20-adv: Advantage or the lower one if you have :d20-disadv: Disdvantage.
 
@@ -95,9 +95,9 @@ The Difficulty Class for a Saving Throw is determined by the effect that causes 
 
 ## :d20-attack:{ .lg } Attack Roll
 
-When a creature attacks a target, it makes an :d20-attack: **Attack Roll** against the target's AC to determine whether the attack is a hit or a miss. If the attack is a hit, it generally deals damage, and the attacker rolls for damage.
+When a creature attacks a target, it makes an attack roll against the target's AC to determine whether the attack is a hit or a miss. If the attack is a hit, it generally deals damage, and the attacker rolls for damage.
 
-Creatures generally make their attacks with their equipped weapon (including unarmed), but some spells – such as a Warlock's *[Eldritch Blast](../../spells/description/core/cantrip.md#eldritch-blast)* – require the caster to make spell :d20-attack: **Attack Rolls**.
+Creatures generally make their attacks with their equipped weapon (including unarmed), but some spells – such as a Warlock's *[Eldritch Blast](../../spells/description/core/cantrip.md#eldritch-blast)* – require the caster to make spell attack rolls.
 
 !!! quote ""
 

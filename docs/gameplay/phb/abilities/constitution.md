@@ -2,6 +2,8 @@
 icon: ability/cons
 ---
 
+# Constitution
+
 Constitution measures health, stamina, and vital force.
 
 ## Constitution Checks
@@ -16,4 +18,4 @@ Creatures add their Constitution modifier to the amount of Hit Points they gain 
 
 ### Concentration Check
 
-Whenever you take damage while you are concentrating on a spell, you must make a Constitution :d20-save: **Saving Throw** to maintain your concentration. The DC equals 10 or half the damage you take in that instance, whichever number is higher.
+Whenever you take damage while you are concentrating on a spell, you must make a Constitution saving throw to maintain your concentration. The DC equals 10 or half the damage you take in that instance, whichever number is higher.

@@ -2,9 +2,11 @@
 icon: ability/dex
 ---
 
-Dexterity is an Ability Score and a key ability of Rogues, Rangers, Monks, and other wielders of *finesse* weapons.
+# Dexterity
 
-Dexterity affects your Acrobatics, Sleight of Hand, and Stealth skills, as well as your :d20-attack: **Attack Rolls** for ranged weapons and *finesse* weapons. It also affects your Initiative and Armour Class.
+Dexterity is an Ability Score and a key ability of Rogues, Rangers, Monks, and other wielders of weapon with :weapon-prop-finesse: **Finesse** property.
+
+Dexterity affects your Acrobatics, Sleight of Hand, and Stealth skills, as well as your attack rolls for ranged weapons and :weapon-prop-finesse: **Finesse** weapons. It also affects your Initiative and Armour Class.
 
 ## Dexterity Checks
 
@@ -24,9 +26,9 @@ Make a Dexterity (Stealth) check when you attempt to conceal yourself from enemi
 
 ## Uses of Dexterity
 
-### :d20-attack: **Attack Rolls** and Damage
+### Attack rolls and Damage
 
-Creatures add their Dexterity modifier to the results of attack and damage rolls of ranged weapons and, and the creature's can choose between their Dexterity score or Strength score for melee weapons with the *finesse* property.
+Creatures add their Dexterity modifier to the results of attack and damage rolls of ranged weapons and, and the creature's can choose between their Dexterity score or Strength score for melee weapons with the Finesse* property.
 
 ### Armour Class
 
@@ -34,7 +36,7 @@ Creatures also add their Dexterity modifier to their Armour Class (AC) – makin
 
 ### Initiative
 
-Creatures add their Dexterity modifier when rolling for initiative, used to determine the turn order during combat. Initiative counts as :d20-check: **Ability Check**.
+Creatures add their Dexterity modifier when rolling for initiative, used to determine the turn order during combat. Initiative counts as an ability check.
 
 ### Hiding
  
@@ -42,7 +44,7 @@ The DM decides when circumstances are appropriate for hiding. When you try to hi
  
 You can't hide from a creature that can see you clearly, and you give away your position if you make noise, such as shouting a warning or knocking over a vase. An invisible creature can always try to hide. Signs of its passage might still be noticed, and it does have to stay quiet.
  
-In combat, most creatures stay alert for signs of danger all around, so if you come out of hiding and approach a creature, it usually sees you. However, under certain circumstances, the DM might allow you to stay hidden as you approach a creature that is distracted, allowing you to gain :d20-adv: **Advantage** on an :d20-attack: **Attack Roll** before you are seen.
+In combat, most creatures stay alert for signs of danger all around, so if you come out of hiding and approach a creature, it usually sees you. However, under certain circumstances, the DM might allow you to stay hidden as you approach a creature that is distracted, allowing you to gain :d20-adv: **Advantage** on an attack roll before you are seen.
  
 ??? info "Passive Perception"
 

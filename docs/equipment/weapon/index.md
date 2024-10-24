@@ -13,7 +13,7 @@ Your class grants Proficiency in certain weapons, reflecting both the class's fo
 
 Your race, class, and feats can grant you Proficiency with certain weapons or categories of weapons. 
 
-Proficiency with a weapon allows you to add your Proficiency Bonus to the :d20-attack: **Attack Roll** for any attack you make with that weapon. If you make an :d20-attack: **Attack Roll** using a weapon with which you lack Proficiency, you do not add your Proficiency Bonus to the :d20-attack: **Attack Roll**.
+Proficiency with a weapon allows you to add your Proficiency Bonus to the attack roll for any attack you make with that weapon. If you make an attack roll using a weapon with which you lack Proficiency, you do not add your Proficiency Bonus to the attack roll.
 
 ## Weapon Categories
 
@@ -72,7 +72,7 @@ When making an attack with a finesse weapon, you use your choice of your Strengt
 
 #### :weapon-prop-heavy:{ .lg } Heavy
 
-Heavy weapon is unwieldy compared to other weapons. You have :d20-disadv: **Disadvantage** on your :d20-attack: **Attack Rolls** with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13, and if it's a Ranged weapon and your Dexterity score isn't at least 13.
+Heavy weapon is unwieldy compared to other weapons. You have :d20-disadv: **Disadvantage** on your attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13, and if it's a Ranged weapon and your Dexterity score isn't at least 13.
 
 ---
 
@@ -98,7 +98,7 @@ This weapon is normally used while attached to a tripod, vehicle, or other braci
 
 This weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. 
 
-The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's long range. When attacking a target beyond normal range, you have :d20-disadv: **Disadvantage** on the :d20-attack: **Attack Roll**. You can't attack a target beyond the weapon's long range.
+The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's long range. When attacking a target beyond normal range, you have :d20-disadv: **Disadvantage** on the attack roll. You can't attack a target beyond the weapon's long range.
 
 ---
 
@@ -122,13 +122,13 @@ If you make an attack against a target that is within half this weapon's normal 
 
 #### :weapon-prop-sighted:{ .lg } Sighted
 
-This weapon has :d20-disadv: **Disadvantage** on :d20-attack: **Attack Rolls** made against targets within 20 feet and has :d20-adv: **Advantage** against target that has not moved at least 15 feet for this before the start of your current turn.
+This weapon has :d20-disadv: **Disadvantage** on attack rolls made against targets within 20 feet and has :d20-adv: **Advantage** against target that has not moved at least 15 feet for this before the start of your current turn.
 
 ---
 
 #### :weapon-prop-thrown:{ .lg } Thrown
 
-You can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that :d20-attack: **Attack Roll** and damage roll that you would use for a melee attack with the weapon.
+You can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon.
 
 ---
 
@@ -156,7 +156,7 @@ If a game feature lets you replace a weapon's Mastery property with another one,
 
 **Prerequisite:** Melee Weapon, :weapon-prop-heavy: **Heavy** property
 
-If you hit a creature with a melee attack using this weapon, you can make an :d20-attack: **Attack Roll** with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon's damage, but don't add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.
+If you hit a creature with a melee attack using this weapon, you can make an attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon's damage, but don't add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.
 
 ---
 
@@ -164,7 +164,7 @@ If you hit a creature with a melee attack using this weapon, you can make an :d2
 
 **Prerequisite:** Melee Weapon, :weapon-prop-heavy: **Heavy** property
 
-If your :d20-attack: **Attack Roll** with this weapon misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the :d20-attack: **Attack Roll**. This damage is the same type dealt by the weapon, and the damage can't be increased in any way, other than increasing the ability modifier.
+If your attack roll with this weapon misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the attack roll. This damage is the same type dealt by the weapon, and the damage can't be increased in any way, other than increasing the ability modifier.
 
 ---
 
@@ -188,7 +188,7 @@ If you hit a creature with this weapon, you can push the creature up to 10 feet 
 
 **Prerequisite:** :weapon-prop-versatile: **Versatile** property or No Weapon property
 
-If you hit a creature with this weapon, that creature has :d20-disadv: **Disadvantage** on its next :d20-attack: **Attack Roll** before the start of your next turn.
+If you hit a creature with this weapon, that creature has :d20-disadv: **Disadvantage** on its next attack roll before the start of your next turn.
 
 ---
 
@@ -204,7 +204,7 @@ If you hit a creature with this weapon and deal damage to the creature, you can 
 
 **Prerequisite:** :weapon-prop-heavy: **Heavy**, :weapon-prop-reach: **Reach**, or :weapon-prop-versatile: **Versatile** property
 
-If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw with a DC equal to 8 + your Proficiency Bonus + the ability modifier used to make the :d20-attack: **Attack Roll**. On a failed save, the creature has the Prone condition.
+If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw with a DC equal to 8 + your Proficiency Bonus + the ability modifier used to make the attack roll. On a failed save, the creature has the Prone condition.
 
 ---
 
@@ -212,7 +212,7 @@ If you hit a creature with this weapon, you can force the creature to make a Con
 
 **Prerequisite:** :weapon-prop-ammunition: **Ammunition**, :weapon-prop-finesse: **Finesse**, or :weapon-prop-light: **Light** property
 
-If you hit a creature with this weapon and deal damage to the creature, you have :d20-adv: **Advantage** on your next :d20-attack: **Attack Roll** against that creature before the end of your next turn.
+If you hit a creature with this weapon and deal damage to the creature, you have :d20-adv: **Advantage** on your next attack roll against that creature before the end of your next turn.
 
 ---
 

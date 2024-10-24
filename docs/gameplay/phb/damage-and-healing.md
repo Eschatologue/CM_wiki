@@ -22,7 +22,7 @@ When attacking with a weapon, you add your ability modifier—the same modifier 
 
 ## Critical Hits
 
-Scoring a Critical Hit on an :d20-attack: **Attack Roll** results in dealing double damage.
+Scoring a Critical Hit on an attack roll results in dealing double damage.
  
 **Example**: A ranger scoring a Critical Hit with a short sword (1d6 piercing damage) + 3 (Dexterity modifier). The ranger rolled 3 on the :die-d6: d6, dealing a total of 6 damage and it is doubled to 12 Piercing damage as a result.
 

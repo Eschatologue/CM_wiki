@@ -11,7 +11,7 @@ search:
 
 **Cost:** :rsc-action: Action
 
-The most common action to take in combat is the **Attack action**, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists. With this action, you make one melee or ranged attack. This action often requires you to make an :d20-attack: **Attack Roll** against the target's AC.
+The most common action to take in combat is the **Attack action**, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists. With this action, you make one melee or ranged attack. This action often requires you to make an attack roll against the target's AC.
 
 Certain features, such as the Extra Attack feature of the fighter, allow you to make more than one attack with this action.
 
@@ -51,7 +51,7 @@ If you take the Disengage action, your movement doesn't provoke Opportunity Atta
 
 **Cost:** :rsc-action: Action
 
-When you take the Dodge action, you focus entirely on avoiding attacks. Until the start of your next turn, any :d20-attack: **Attack Roll** made against you has disadvantage if you can see the attacker, and you make Dexterity :d20-save: **Saving Throw**s with advantage. You lose this benefit if you are incapacitated (as explained in the appendix) or if your speed drops to 0.
+When you take the Dodge action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity :d20-save: **Saving Throw**s with advantage. You lose this benefit if you are incapacitated (as explained in the appendix) or if your speed drops to 0.
 
 ---
 
@@ -72,7 +72,7 @@ following:
 
 ***Assist Ability Check.*** Choose one of your skill or tool proficiencies and one ally who can perceive you. You give Advantage to the next ability check that ally makes with the chosen skill or tool. This benefit expires if the ally doesn't use it before the start of your next turn. To give this assistance, you must be near enough to the ally to assist verbally or physically when the ally makes the check. The DM has final say on whether your assistance is possible.
 
-***Assist :d20-attack: Attack Roll.*** You momentarily distract an enemy within 5 feet of you, giving Advantage to the next :d20-attack: **Attack Roll** by one of your allies against that enemy. This benefit expires at the start of your next turn.
+***Assist :d20-attack: Attack Roll.*** You momentarily distract an enemy within 5 feet of you, giving Advantage to the next attack roll by one of your allies against that enemy. This benefit expires at the start of your next turn.
 
 ---
 
@@ -87,7 +87,7 @@ On a successful check, you have the Invisible condition. Make note of your check
 The condition ends on you immediately after any of the following occurrences: 
 
 - You make a sound louder than a whisper 
-- An enemy finds you, you make an :d20-attack: **Attack Roll**
+- An enemy finds you, you make an attack roll
 - You cast a spell with a verbal component.
 
 ---

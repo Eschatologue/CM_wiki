@@ -101,7 +101,14 @@ nav:
   - Playing the Game:
     - PHB'24 Mechanics: 
       - Dice: gameplay/phb/dice.md
-      - The Six Abilities: gameplay/phb/abilities.md
+      - The Six Abilities: 
+        - gameplay/phb/abilities/index.md
+        - Strength: gameplay/phb/abilities/strength.md
+        - Dexterity: gameplay/phb/abilities/dexterity.md
+        - Constitution: gameplay/phb/abilities/constitution.md
+        - Intelligence: gameplay/phb/abilities/intelligence.md
+        - Wisdom: gameplay/phb/abilities/wisdom.md
+        - Charisma: gameplay/phb/abilities/charisma.md
       - D20 Test: gameplay/phb/d20-test.md
       - Proficiency: gameplay/phb/proficiency.md
       - Actions: 

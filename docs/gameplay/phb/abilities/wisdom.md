@@ -2,9 +2,11 @@
 icon: ability/wis
 ---
 
+# Wisdom
+
 Wisdom reflects how attuned you are to the world around you and represents perceptiveness and intuition.
 
-Wisdom is the recommended primary stat for clerics and druids, and it is the spellcasting ability of clerics, druids, monks and rangers.
+Wisdom is the recommended primary stat for :class-phb24-cleric: Clerics and :class-phb24-druid: Druids, and it is the spellcasting ability of :class-phb24-cleric: Clerics, :class-phb24-druid: Druids, :class-phb24-monk: Monks and :class-phb24-ranger: Rangers.
 
 Wisdom is also an important ability for monks, as several of their class features benefit from it.
 
