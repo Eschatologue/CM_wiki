@@ -33,7 +33,7 @@ theme:
     accent: indigo
   font:
     code: Roboto Code
-    text: Roboto
+    text: Inter
   icon: 
     logo: fontawesome/solid/dice-d20
     annotation: material/timeline-question
