@@ -121,15 +121,29 @@ The Standard Languages table lists languages that are widespread on D&D worlds. 
     | 1d12 | Language | Typical Speakers | National Language | Real Life Counterpart |
     |:-:|---|---|---|---|
     | - | Common | Everyone | All | French |
-    | 1 | Draconic | Dragonborn | Karakorum | Chinese, Japanes, Old Mongolian |
-    | 2-3 | Dwarvish | Dwarves | Myrkheim | Icelandic |
-    | 4-5 | Elvish | Elves | Albion, Valinor | Uralic (Finnish/Hungarian) |
-    | 6 | Giant | Ogres, Giants | Myrkheim, Soterrano | Old Norse |
-    | 7-8 | Gnomish | Gnomes | Albion, Soterrano | Norwegian |
-    | 9 | Goblin | Goblinoids | Gallia, Soterrano | Italian, Spanish |
-    | 10 | Halfling | Halflings | Albion, Karakorum | Alsatian |
-    | 11 | Orc | Orcs (Continental) | Gallia, Myrkheim | German |
-    | 12 | English^CM^ | Londoners | Albion | English |
+    | 1 | Draconic | Dragonborn | Karakorum | [Japanese], [Mandarin], [Mongolian] |
+    | 2-3 | Dwarvish | Dwarves | Myrkheim | [Icelandic] |
+    | 4-5 | Elvish | Elves | Albion, Valinor | [Uralic] (Finnish/Hungarian) |
+    | 6 | Giant | Ogres, Giants | Myrkheim, Soterrano | [Old Norse] |
+    | 7-8 | Gnomish | Gnomes | Albion, Soterrano | [Norwegian] |
+    | 9 | Goblin | Goblinoids | Gallia, Soterrano | [Italian], [Spanish] |
+    | 10 | Halfling | Halflings | Albion, Karakorum | [Alsatian] |
+    | 11 | Orc | Orcs | Gallia, Myrkheim | [German] |
+    | 12 | English^CM^ | Londoners | Albion | [English] |
+
+[French]: https://en.wikipedia.org/wiki/French_language
+[Japanese]: https://en.wikipedia.org/wiki/Japanese_language
+[Mandarin]: https://en.wikipedia.org/wiki/Chinese_language
+[Mongolian]: https://en.wikipedia.org/wiki/Mongolian_language
+[Icelandic]: https://en.wikipedia.org/wiki/Icelandic_language
+[Uralic]: https://en.wikipedia.org/wiki/Uralic_languages
+[Old Norse]: https://en.wikipedia.org/wiki/Old_Norse
+[Norwegian]: https://en.wikipedia.org/wiki/Norwegian_language
+[Italian]: https://en.wikipedia.org/wiki/Italian_language
+[Spanish]: https://en.wikipedia.org/wiki/Spanish_language
+[Alsatian]: https://en.wikipedia.org/wiki/Alsatian_dialect
+[German]: https://en.wikipedia.org/wiki/German_language
+[English]: https://en.wikipedia.org/wiki/English_language
 
 The Rare Languages table lists languages that are either secret or derived from other planes of existence and thus less widespread in the worlds of the Material Plane. Some features let a character learn a rare language.
 
