@@ -364,7 +364,7 @@ nav:
     - Antares: 
       - Continent: lore/antares/continent.md
       - Nations:
-        - Gallia: lore/antares/nation/Gallia.md
+        - Gallia: lore/antares/nation/gallia.md
         - London: lore/antares/nation/london.md
         - Myrkheim: lore/antares/nation/myrkheim.md
         - Valinor: lore/antares/nation/valinor.md
