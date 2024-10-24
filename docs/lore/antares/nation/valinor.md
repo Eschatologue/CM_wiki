@@ -11,7 +11,7 @@ Valinor's survival in this hostile environment is made possible by the **Irminsu
 
 In addition to the Irminsul, Valinor is famed for its scholarly pursuits. The city-state boasts vast halls of study and a well-guarded library, which has recently opened its doors to the wider world. Scholars, students, and intellectuals from across Antares brave the treacherous journey to Valinor in pursuit of knowledge, drawn by the allure of its academic riches.
 
-## Background
+## History
 
 ### Political Turmoil and Exile
 
