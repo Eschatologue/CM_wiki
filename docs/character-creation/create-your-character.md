@@ -80,44 +80,72 @@ Let your character's background and species inspire how you imagine their past. 
 - Have you fallen in love? If so, with whom?
 - Did you join an organization, such as a guild or religion? If so, are you still a member of it?
 - What elements of your past inspire you to go on adventures now?
-- 
+ 
 This [article](http://dnd5e.wikidot.com/this-is-your-life) provides a good example of how to construct your backstory.
 
 #### Choose Languages
 
-Your character knows at least three languages: Common plus two languages you roll or choose from the Standard Languages table. Knowledge of a language means your character can communicate in it, read it, and write it. Your class and other features might also give you languages.
+Your character knows at least three languages: **Common plus two languages** you roll or choose from the Standard Languages table. Knowledge of a language means your character can communicate in it, read it, and write it. Your class and other features might also give you languages.
 
 The Standard Languages table lists languages that are widespread on D&D worlds. Every player character knows Common, which originated in the planar metropolis of Sigil, the hub of the multiverse. The other standard languages originated with the first members of the most prominent species in the worlds of D&D and have since spread widely.
 
-##### Standard Languages Table
+=== "PHB'24"
 
-| Language | Typical Speakers | Script | Real Life Counterpart |
-| :-- | --- | --- | --- |
-| Common | Humans | Common | French |
-| Dwarvish | Dwarves | Dwarvish | Norse / Icelandic |
-| Elvish | Elves | Elvish | Uralic (Finnish / Hungarian) |
-| Giant | Ogres, Giants | Dwarvish | Old Norse |
-| Gnomish | Gnomes | Dwarvish | Norse / Icelandic / German |
-| Goblin | Goblinoids | Dwarvish | Norse / Icelandic |
-| Halfling | Halflings | Common | Norse / Icelandic |
-| Orc | Orcs | Dwarvish | Norse / Icelandic |
-| English^CM^ | Humans (Londoners) | Common | English |
+    ##### Standard Languages
 
-Exotic languages are rare and typically not accessible to your character unless a class, race, or background feature grants you the ability to speak them. With the DM's discretion or specific character features, you may learn these languages.
+    | 1d12 | Language | Origin |
+    |:-:|---|---|
+    | — | Common | Sigil |
+    | 1 | Common Sign Language | Sigil |
+    | 2 | Draconic | Dragons |
+    | 3–4 | Dwarvish | Dwarves |
+    | 5–6 | Elvish | Elves |
+    | 7 | Giant | Giants |
+    | 8 | Gnomish | Gnomes |
+    | 9 | Goblin | Goblinoids |
+    | 10–11 | Halfling | Halflings |
+    | 12 | Orc | Orcs |
 
-##### Exotic Languages Table
+=== "CM"
+
+    Languages in Crown & Misery are based on the country of Origin rather than a creature’s species. However a creature of a specific species may culturally know the language given by the RAW. Typically a person knows Common, the language of their nation, and the language of their culture or people.
+
+    During character creation you may replace any languages your character knows with another if it suits their background.
+
+    Compiled is a list of languages, the races that commonly speak it and which nation uses it primarily. 
+
+    ##### Crown & Misery Standard Languages
+
+    | 1d12 | Language | Typical Speakers | National Language | Real Life Counterpart |
+    |---|---|---|---|---|
+    | - | Common | Everyone | All | French |
+    | 1 | Draconic | Dragonborn | Karakorum | Chinese, Japanes, Old Mongolian |
+    | 2-3 | Dwarvish | Dwarves | Myrkheim | Icelandic |
+    | 4-5 | Elvish | Elves | Albion, Valinor | Uralic (Finnish/Hungarian) |
+    | 6 | Giant | Ogres, Giants | Myrkheim, Soterrano | Old Norse |
+    | 7-8 | Gnomish | Gnomes | Albion, Soterrano | Norwegian |
+    | 9 | Goblin | Goblinoids | Gallia, Soterrano | Italian, Spanish |
+    | 10 | Halfling | Halflings | Albion, Karakorum | Alsatian |
+    | 11 | Orc | Orcs (Continental) | Gallia, Myrkheim | German |
+    | 12 | English^CM^ | Londoners | Albion | English |
+
+The Rare Languages table lists languages that are either secret or derived from other planes of existence and thus less widespread in the worlds of the Material Plane. Some features let a character learn a rare language.
+
+##### Rare Languages Table
 
 | Language | Origin |
 |---|---|
 | Abyssal | Demons of the Abyss |
-| Celestial | ??? |
+| Celestial | Celestials |
 | Deep Speech | Aberrations |
 | Druidic | Druidic circles |
 | Infernal | Devils of the Nine Hells |
-| Primordial | Elementals |
+| Primordial* | Elementals |
 | Sylvan | The Feywild |
 | Thieves' Cant | Various criminal guilds |
 | Undercommon | The Underdark |
+
+*Primordial includes the Aquan, Auran, Ignan, and Terran dialects. Creatures that know one of these dialects can communicate with those that know a different one.
 
 ### Step 3: Starting Ability Scores
 
