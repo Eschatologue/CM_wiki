@@ -108,6 +108,8 @@ The Standard Languages table lists languages that are widespread on D&D worlds. 
 
 === "CM"
 
+    #### Crown & Misery Languages
+
     Languages in Crown & Misery are based on the country of Origin rather than a creature’s species. However a creature of a specific species may culturally know the language given by the RAW. Typically a person knows Common, the language of their nation, and the language of their culture or people.
 
     During character creation you may replace any languages your character knows with another if it suits their background.
@@ -117,7 +119,7 @@ The Standard Languages table lists languages that are widespread on D&D worlds. 
     ##### Crown & Misery Standard Languages
 
     | 1d12 | Language | Typical Speakers | National Language | Real Life Counterpart |
-    |---|---|---|---|---|
+    |:-:|---|---|---|---|
     | - | Common | Everyone | All | French |
     | 1 | Draconic | Dragonborn | Karakorum | Chinese, Japanes, Old Mongolian |
     | 2-3 | Dwarvish | Dwarves | Myrkheim | Icelandic |
