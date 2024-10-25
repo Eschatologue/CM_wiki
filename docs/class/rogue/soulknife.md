@@ -35,7 +35,7 @@ You can manifest your psionic power as shimmering blades of psychic energy. When
 
 **Weapon Category:** Simple Melee  
 **Damage on a Hit:** 1d6 :dmg-psychic: Psychic plus the ability modifier used for the attack roll  
-**Properties:** :weapon-prop-finesse: Finesse, :weapon-prop-thrown: Thrown (range 60/10--20 feet)  
+**Properties:** :weapon-prop-finesse: Finesse, :weapon-prop-thrown: Thrown (range 60/120 feet)  
 **Mastery:** Vex (you can use this property, and it doesn't count against the number of properties you can use with Weapon Mastery)  
 
 The blade vanishses immediately after it hits or misses its target, and leaves no mark if it deals damage.

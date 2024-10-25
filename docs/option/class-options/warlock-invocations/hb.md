@@ -11,8 +11,6 @@ These Invocations are for Crown & Misery campaign
 
 ### Arcane Gunslinger
 
-<!-- source -->
-
 **Prerequisite:** Pact of the Blade
 
 You can create a Pact Weapon that is a Short-Arm or Long-Arm. Firearms created from this invocations can't gain the benefit of any Augmentations.
@@ -55,11 +53,11 @@ When you cast *[Mage Armour](../../../spells/description/core/level-1.md#mage-ar
 
 ---
 
-### Blink of the Destruction
+### Blink of The Destruction
 
 **Prerequisite:** Level 5+
 
-You can cast *[Fireball](../../../spells/description/core/level-3.md#fireball)* with yourself as the target once without expending a spell slot. When you do, you gain Temporary Hit Points equals to the damage taken from the spell.
+You can cast *[Fireball](../../../spells/description/core/level-3.md#fireball)* centred on yourself, using a Warlock spell slot. When you do, you gain Temporary Hit Points equal to the damage you take from the spell. If you use this invocation again while you still have Temporary Hit Points from it, any damage from the spell is instead applied to your actual Hit Points.
 
 ---
 

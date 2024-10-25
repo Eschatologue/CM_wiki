@@ -235,7 +235,7 @@ The shield has 4 charges. While holding it, the wielder can use a reaction immed
 
 *Prerequisite: Level 6+, A suit of armour (requires attunement)*
 
-While wearing this armour, a creature has resistance to one of the following damage types, which you choose when you infuse the item: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder.
+While wearing this armour, a creature has resistance to one of the following damage types, which you choose when you infuse the item: Acid, Cold, Fire, Force, Lightning, Necrotic, Poison, Psychic, Radiant, or Thunder.
 
 ---
 
@@ -261,10 +261,18 @@ While wearing this helmet, a creature has advantage on initiative rolls. In addi
 
 The wearer of this armour gains these benefits:
 
-- The wearer's Speed increases by 5 feet.
-- The armour includes gauntlets, each of which is a magic melee weapon that can be wielded only when the hand is holding nothing. The wearer is proficient with the gauntlets, and each one deals 1d8 force damage on a hit and has the thrown property, with a normal range of 20 feet and a long range of 60 feet. When thrown, the gauntlet detaches and flies at the attack's target, then immediately returns to the wearer and reattaches.
-- The armour can't be removed against the wearer's will.
-- If the wearer is missing any limbs, the armour replaces those limbs—hands, arms, feet, legs, or similar appendages. The replacements function identically to the body parts they replace.
+***Speed Increase.*** The wearer's Speed increases by 5 feet.
+
+***Power Gauntlet.*** The armour includes gauntlets, each of which is a melee weapon that can be wielded only when the hand is holding nothing. The wearer is proficient with the gauntlets. The Gauntlets has the following properties.
+
+:   **Weapon Category**: Simple Melee  
+:   **Damage on a Hit**: 1d8 :dmg-force: Force plus the ability modifier used for the attack roll  
+:   **Properties:** :weapon-prop-thrown: Thrown (20/60); the gauntlet detaches and flies at the attack's target, then immediately returns to the wearer and reattaches  
+:   **Mastery:** Push (you can use this property, and it doesn't count against the number of properties you can use with Weapon Mastery)
+
+***Second Skin.*** The armour can't be removed against the wearer's will.
+
+***Prosthesis.*** If the wearer is missing any limbs, the armour replaces those limbs—hands, arms, feet, legs, or similar appendages. The replacements function identically to the body parts they replace.
 
 ---
 
@@ -324,7 +332,7 @@ At level 5, this object does not require attunement, and at level 10, the wearer
 
 ### Infiltration Armor
 
-*Prerequisite: Level 5+, suit of armor (requires attunement)*
+*Prerequisite: Level 6+, suit of armor (requires attunement)*
 
 This magic suit of armor retains its weight but is formfitting and wearable under clothes without detection. It also grants its wearer Advantage on Dexterity (Stealth) checks.
 
@@ -334,9 +342,9 @@ At level 10, this armor grants its wearer a +1 bonus to Armor Class. This bonus 
 
 ### Wall Shield
 
-*Prerequisite: Level 5+, shield (requires attunement)*
+*Prerequisite: Level 6+, shield (requires attunement)*
 
-As an action, the wielder can slam this magic shield into the ground, expending Charges to produce the effects of wall of stone centered on the shield, which remains in the ground. However, this effect only creates a number of panels equal to the Charges spent, it doesn't require concentration, and lasts for 1 minute. The wall is destroyed if the shield is removed.
+As a Utilise action, the wielder can slam this magic shield into the ground, expending Charges to produce the effects of *[Wall of Stone](../../spells/description/core/level-5.md#wall-of-stone)* centered on the shield, which remains in the ground. However, this effect only creates a number of panels equal to the Charges spent, it doesn't require Concentration, and lasts for 1 minute. The wall is destroyed if the shield is removed.
 
 This magical shield has a number of Charges equal to your Intelligence modifier (a minimum of 1 Charge), and it regains all of its expended Charges each day at dawn.
 
@@ -346,10 +354,30 @@ At level 10, this magic shield grants a +1 bonus to Armor Class. This Armor Clas
 
 ### Wildfire Cannon
 
-*Prerequisite: Level 5+; gauntlet, arcane focus, or metal rod*
+*Prerequisite: Level 6+; gauntlet, arcane focus, or metal rod*
 
 As an action, the wielder of this magical object can expend Charges and use your Artificer Spellcasting modifier to cast these spells: *Firebolt* (0 Charges), *Burning Hands* (1 Charge), *Scorching Ray* (2 Charges), or *Fireball* (3 Charges).
 
 This magical item has a number of Charges equal to your Intelligence modifier (minimum of 1 Charge), and it regains all of its expended Charges each day at dawn.
 
 ---
+
+### Light Blade
+
+*Prerequisite: Level 6+; A sword hilt or wand (requires attunement)*
+
+While holding the item, the wielder can take a Bonus Action to cause a blade of pure radiance to spring into existence, or disappear, from the end of the item. While the blade exists, this magic item is a has the following property:
+
+**Weapon Category**: +1 (+2 at level 14) Simple Melee  
+**Damage on a Hit**: 1d8 :dmg-radiant: Radiant plus the ability modifier used for the attack roll  
+**Properties:** :weapon-prop-finesse: Finesse  
+**Mastery:** Vex (you can use this property, and it doesn't count against the number of properties you can use with Weapon Mastery)
+
+The luminous blade emits bright light in a 15-foot radius and dim light for an additional 15 feet. The light is considered sunlight.
+
+Undead take an additional 1d8 :dmg-radiant: Radiant damage from this weapon.
+
+---
+
+--8<-- "includes/snippets/item-mastery.md"
+
