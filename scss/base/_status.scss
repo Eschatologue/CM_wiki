@@ -1,0 +1,24 @@
+// Status
+.md-status {
+    // Status icon
+    &::after {
+        width: px2em(18px);
+        height: px2em(18px);
+        vertical-align: baseline;
+        mask-position: center;
+    }
+}
+
+//---------//
+
+/* Homebrew Status */
+.md-status--homebrew::after {
+    mask-image: var(--md-icon--homebrew);
+    -webkit-mask-image: var(--md-icon--homebrew);
+}
+
+/* Adapted Status */
+.md-status--adapted::after {
+    mask-image: var(--md-icon--adapted);
+    -webkit-mask-image: var(--md-icon--adapted);
+}

@@ -1,0 +1,57 @@
+@import "./accent";
+
+// ----------------------------------------------------------------------------
+// Rules: primary colors
+// ----------------------------------------------------------------------------
+
+$defaultHue: 220;
+
+[data-md-color-scheme="slate"] {
+    --md-hue: #{$defaultHue}; // Fix applied here
+}
+
+@each $name,
+    $colors
+        in (
+            "red": $mod-red lighten($mod-red, 5%) darken($mod-red, 5%),
+            "pink": $mod-pink lighten($mod-pink, 5%) darken($mod-pink, 5%),
+            "purple": $mod-purple lighten($mod-purple, 5%) darken($mod-purple, 5%),
+            "deep-purple": $mod-deep-purple lighten($mod-deep-purple, 5%) darken($mod-deep-purple, 5%),
+            "blue": $mod-blue lighten($mod-blue, 5%) darken($mod-blue, 5%),
+            "indigo": $mod-indigo lighten($mod-indigo, 5%) darken($mod-indigo, 5%),
+            "light-blue": $mod-light-blue lighten($mod-light-blue, 5%) darken($mod-light-blue, 5%),
+            "cyan": $mod-cyan lighten($mod-cyan, 5%) darken($mod-cyan, 5%),
+            "teal": $mod-teal lighten($mod-teal, 5%) darken($mod-teal, 5%),
+            "green": $mod-green lighten($mod-green, 5%) darken($mod-green, 5%),
+            "light-green": $mod-light-green lighten($mod-light-green, 5%) darken($mod-light-green, 5%),
+            "lime": $mod-lime lighten($mod-lime, 5%) darken($mod-lime, 5%),
+            "yellow": $mod-yellow lighten($mod-yellow, 5%) darken($mod-yellow, 5%),
+            "amber": $mod-amber lighten($mod-amber, 5%) darken($mod-amber, 5%),
+            "orange": $mod-orange lighten($mod-orange, 5%) darken($mod-orange, 5%),
+            "deep-orange": $mod-deep-orange lighten($mod-deep-orange, 5%) darken($mod-deep-orange, 5%)
+        )
+{
+    // Color palette
+    [data-md-color-scheme="slate"][data-md-color-primary="#{$name}"] {
+        /* Primary Colours */
+        --md-primary-fg-color: hsla(#{hex2hsl(nth($colors, 1))}, 1);
+        --md-primary-fg-color-light: hsla(#{hex2hsl(nth($colors, 2))}, 1);
+        --md-primary-fg-color-dark: hsla(#{hex2hsl(nth($colors, 3))}, 1);
+        --md-primary-fg-color-transparent: hsla(#{hex2hsl(nth($colors, 1))}, 0.15);
+
+        /* Additional Darker Background Colours */
+        --md-default-bg-color: hsla(#{$defaultHue}, 15%, 14%, 1);
+        --md-default-bg-color--dark: hsla(#{$defaultHue}, 15%, 10%, 1);
+        --md-default-bg-color--darker: hsla(#{$defaultHue}, 15%, 7%, 1);
+        --md-default-bg-color--darkest: hsla(#{$defaultHue}, 15%, 4%, 1);
+
+        /* Transparent Background Colour */
+        --md-default-bg-color--25: hsla(#{$defaultHue}, 15%, 14%, 0.25);
+        --md-default-bg-color--50: hsla(#{$defaultHue}, 15%, 14%, 0.5);
+        --md-default-bg-color--75: hsla(#{$defaultHue}, 15%, 14%, 0.75);
+
+        /* Background Colours */
+        --md-primary-bg-color: var(--md-default-bg-color);
+        --md-primary-bg-color-light: var(--md-default-bg-color--light);
+    }
+}
