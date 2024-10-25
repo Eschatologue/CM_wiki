@@ -2,7 +2,7 @@
 icon: class/artificer
 ---
 
-# Artificer Infusions
+## TCE Infusions
 
 Below are Artificer's Infusion available from Tasha's Cauldron of Everything.
 
@@ -15,7 +15,7 @@ Below are Artificer's Infusion available from Tasha's Cauldron of Everything.
 This armour has 6 charges. The wearer can expend the armour's charges in the following ways:
 
 - When the wearer makes a Strength check or a Strength saving throw, it can expend 1 charge to add a bonus to the roll equal to its Intelligence modifier.
-- If the creature would be knocked prone, it can use its reaction to expend 1 charge to avoid being knocked prone.
+- The creature can take a Reaction to expend 1 charge to end the Prone condition.
 
 The armour regains 1d6 expended charges daily at dawn.
 
@@ -23,9 +23,9 @@ The armour regains 1d6 expended charges daily at dawn.
 
 *Prerequisite: A rod, staff, or wand (requires attunement)*
 
-While holding this item, a creature gains a +1 bonus to spell attack rolls. In addition, the creature ignores half cover when making a spell attack.
+While holding this item, a creature gains a +1 bonus to spell attack rolls. In addition, the creature ignores Half Cover when making a spell attack.
 
-The bonus increases to +2 when you reach 10th level in this class.
+The bonus increases to +2 when you reach level 10 in this class.
 
 ---
 
@@ -35,7 +35,7 @@ The bonus increases to +2 when you reach 10th level in this class.
 
 A creature gains a +1 bonus to Armour Class while wearing (armour) or wielding (shield) the infused item.
 
-The bonus increases to +2 when you reach 10th level in this class.
+The bonus increases to +2 when you reach level 10 in this class.
 
 ---
 
@@ -45,7 +45,7 @@ The bonus increases to +2 when you reach 10th level in this class.
 
 This magic weapon grants a +1 bonus to attack and damage rolls made with it.
 
-The bonus increases to +2 when you reach 10th level in this class.
+The bonus increases to +2 when you reach level 10 in this class.
 
 ---
 
@@ -63,7 +63,7 @@ In combat, the homunculus shares your initiative count, but it takes its turn im
 
 The homunculus regains 2d6 hit points if the *mending* spell is cast on it. If you or the homunculus dies, it vanishes, leaving its heart in its space.
 
-!!! note "Homonculus Servant"
+??? note "Homonculus Servant"
 
     *Tiny Construct*
 
@@ -106,19 +106,9 @@ The infused item can send a jolt to the wearer to refocus their mind. The item h
 
 ---
 
-### Radiant Weapon
-
-*Prerequisite: 6th level; A simple or martial weapon (requires attunement)*
-
-This magic weapon grants a +1 bonus to attack and damage rolls made with it. While holding it, the wielder can take a Bonus Action to cause it to shed bright light in a 30-foot radius and dim light for an additional 30 feet. The wielder can extinguish the light as a Bonus Action.
-
-The weapon has 4 charges. As a reaction immediately after being hit by an attack, the wielder can expend 1 charge and cause the attacker to be blinded until the end of the attacker's next turn, unless the attacker succeeds on a Constitution saving throw against your spell save DC. The weapon regains 1d4 expended charges daily at dawn.
-
----
-
 ### Repeating Shot
 
-*Prerequisite: A simple or martial weapon with the ammunition property (requires attunement)*
+*Prerequisite: A Simple or Martial weapon with the :weapon-prop-ammunition: Ammunition property (requires attunement)*
 
 This magic weapon grants a +1 bonus to attack and damage rolls made with it when it's used to make a ranged attack, and it ignores the loading property if it has it.
 
@@ -132,78 +122,108 @@ Using this infusion, you replicate a particular magic item. You can learn this i
 
 In the tables, an item's entry tells you whether the item requires attunement. See the item's description in the *Dungeon Master's Guide* for more information about it, including the type of object required for its making.
 
-##### Replicable Items (Level 2 Artificer)
-| Magic Item | Attunement |
-|-----|:-:|
-| *Alchemy jug* | No |
-| *Bag of holding* | No |
-| *Cap of water breathing*  | No |
-| *Goggles of night* | No |
-| *Rope of climbing* | No |
-| *Sending stones* | No |
-| *Wand of magic detection* | No |
-| *Wand of secrets*  | No |
+#### Replicable Items
 
-##### Replicable Items (Level 6 Artificer)
-| Magic Item | Attunement |
-|----|:-:|
-| *Boots of elvenkind* | No |
-| *Cloak of elvenkind* | Yes |
-| *Cloak of the manta ray* | No |
-| *Eyes of charming* | Yes |
-| *Gloves of thievery* | No |
-| *Lantern of revealing* | No |
-| *Pipes of haunting* | No |
-| *Ring of water walking* | No |
+=== "Level 2 Artificer"
 
-##### Replicable Items (Level 10 Artificer)
-| Magic Item | Attunement |
-|---|:-:|
-| *Boots of striding and springing* | Yes |
-| *Boots of the winterlands*     | Yes |
-| *Bracers of archery* | Yes |
-| *Brooch of shielding* | Yes |
-| *Cloak of protection* | Yes |
-| *Eyes of the eagle* | Yes |
-| *Gauntlets of ogre power* | Yes |
-| *Gloves of missile snaring* | Yes |
-| *Gloves of swimming and climbing* | Yes |
-| *Hat of disguise* | Yes |
-| *Headband of intellect* | Yes |
-| *Helm of telepathy* | Yes |
-| *Medallion of thoughts* | Yes |
-| *Necklace of adaptation* | Yes |
-| *Periapt of wound closure* | Yes |
-| *Pipes of the sewers* | Yes |
-| *Quiver of Ehlonna* | No |
-| *Ring of jumping* | Yes |
-| *Ring of mind shielding* | Yes |
-| *Slippers of spider climbing*  | Yes |
-| *Ventilating lungs* (detailed in *chapter 5*) | Yes |
-| *Winged boots*  | Yes |
+    | Magic Item | Attunement |
+    |-----|:-:|
+    | *Alchemy jug* | No |
+    | *Bag of holding* | No |
+    | *Cap of water breathing*  | No |
+    | *Goggles of night* | No |
+    | *Rope of climbing* | No |
+    | *Sending stones* | No |
+    | *Wand of magic detection* | No |
+    | *Wand of secrets*  | No |
 
-##### Replicable Items (Level 14 Artificer)
-| Magic Item | Attunement |
-|---|:-:|
-| *Amulet of health* | Yes |
-| *Arcane propulsion arm* (detailed in *chapter 5*) | Yes |
-| *Belt of hill giant strength* | Yes |
-| *Boots of levitation*  | Yes |
-| *Boots of speed* | Yes |
-| *Bracers of defense* | Yes |
-| *Cloak of the bat* | Yes |
-| *Dimensional shackles* | No |
-| *Gem of seeing* | Yes |
-| *Horn of blasting* | No |
-| *Ring of free action* | Yes |
-| *Ring of protection* | Yes |
-| *Ring of the ram* | Yes |
+=== "Level 6 Artificer"
+
+    | Magic Item | Attunement |
+    |----|:-:|
+    | *Boots of elvenkind* | No |
+    | *Cloak of elvenkind* | Yes |
+    | *Cloak of the manta ray* | No |
+    | *Eyes of charming* | Yes |
+    | *Gloves of thievery* | No |
+    | *Lantern of revealing* | No |
+    | *Pipes of haunting* | No |
+    | *Ring of water walking* | No |
+
+=== "Level 10 Artificer"
+
+    | Magic Item | Attunement |
+    |---|:-:|
+    | *Boots of striding and springing* | Yes |
+    | *Boots of the winterlands*     | Yes |
+    | *Bracers of archery* | Yes |
+    | *Brooch of shielding* | Yes |
+    | *Cloak of protection* | Yes |
+    | *Eyes of the eagle* | Yes |
+    | *Gauntlets of ogre power* | Yes |
+    | *Gloves of missile snaring* | Yes |
+    | *Gloves of swimming and climbing* | Yes |
+    | *Hat of disguise* | Yes |
+    | *Headband of intellect* | Yes |
+    | *Helm of telepathy* | Yes |
+    | *Medallion of thoughts* | Yes |
+    | *Necklace of adaptation* | Yes |
+    | *Periapt of wound closure* | Yes |
+    | *Pipes of the sewers* | Yes |
+    | *Quiver of Ehlonna* | No |
+    | *Ring of jumping* | Yes |
+    | *Ring of mind shielding* | Yes |
+    | *Slippers of spider climbing*  | Yes |
+    | *Ventilating lungs* (detailed in *chapter 5*) | Yes |
+    | *Winged boots*  | Yes |
+
+=== "Level 14 Artificer"
+
+    | Magic Item | Attunement |
+    |---|:-:|
+    | *Amulet of health* | Yes |
+    | *Arcane propulsion arm* (detailed in *chapter 5*) | Yes |
+    | *Belt of hill giant strength* | Yes |
+    | *Boots of levitation*  | Yes |
+    | *Boots of speed* | Yes |
+    | *Bracers of defense* | Yes |
+    | *Cloak of the bat* | Yes |
+    | *Dimensional shackles* | No |
+    | *Gem of seeing* | Yes |
+    | *Horn of blasting* | No |
+    | *Ring of free action* | Yes |
+    | *Ring of protection* | Yes |
+    | *Ring of the ram* | Yes |
 
 ---
 
+### Returning Weapon
+
+*Prerequisite: A Simple or Martial weapon with the :weapon-prop-thrown: Thrown property*
+
+This magic weapon grants a +1 bonus to attack and damage rolls made with it, and it returns to the wielder's hand immediately after it is used to make a ranged attack.
+
+---
+
+### Boots of the Winding Path
+
+*Prerequisite: Level 6+, A pair of boots (requires attunement)*
+
+While wearing these boots, a creature can teleport up to 15 feet as a Bonus Action to an unoccupied space the creature can see. The creature must have occupied that space at some point during the current turn.
+
+---
+
+### Radiant Weapon
+
+*Prerequisite: Level 6+ ; A simple or martial weapon (requires attunement)*
+
+This magic weapon grants a +1 bonus to attack and damage rolls made with it. While holding it, the wielder can take a Bonus Action to cause it to shed bright light in a 30-foot radius and dim light for an additional 30 feet. The wielder can extinguish the light as a Bonus Action.
+
+The weapon has 4 charges. As a reaction immediately after being hit by an attack, the wielder can expend 1 charge and cause the attacker to be blinded until the end of the attacker's next turn, unless the attacker succeeds on a Constitution saving throw against your spell save DC. The weapon regains 1d4 expended charges daily at dawn.
+
 ### Repulsion Shield
 
-*Prerequisite: 6th level, A shield (requires attunement)*
+*Prerequisite: Level 6+, A shield (requires attunement)*
 
 A creature gains a +1 bonus to Armour Class while wielding this shield.
 
@@ -213,22 +233,123 @@ The shield has 4 charges. While holding it, the wielder can use a reaction immed
 
 ### Resistant Armour
 
-*Prerequisite: 6th level, A suit of armour (requires attunement)*
+*Prerequisite: Level 6+, A suit of armour (requires attunement)*
 
 While wearing this armour, a creature has resistance to one of the following damage types, which you choose when you infuse the item: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder.
 
 ---
 
-### Returning Weapon
+### Spell-Refueling Ring
 
-*Prerequisite: A simple or martial weapon with the thrown property*
+*Prerequisite: Level 6+, A ring (requires attunement)*
 
-This magic weapon grants a +1 bonus to attack and damage rolls made with it, and it returns to the wielder's hand immediately after it is used to make a ranged attack.
+While wearing this ring, the creature can recover one expended spell slot as an action. The recovered slot can be of 3rd level or lower. Once used, the ring can't be used again until the next dawn.
 
 ---
 
-### Spell-Refueling Ring
+### Helm of Awareness
 
-*Prerequisite: 6th level, A ring (requires attunement)*
+*Prerequisite: Level 10+, A helmet (requires attunement)*
 
-While wearing this ring, the creature can recover one expended spell slot as an action. The recovered slot can be of 3rd level or lower. Once used, the ring can't be used again until the next dawn.
+While wearing this helmet, a creature has advantage on initiative rolls. In addition, the wearer can't be surprised, provided it isn't incapacitated.
+
+---
+
+## Arcane Propulsion Armour
+
+*Prerequisite: Level 14+, A suit of armour (requires attunement)*
+
+The wearer of this armour gains these benefits:
+
+- The wearer's Speed increases by 5 feet.
+- The armour includes gauntlets, each of which is a magic melee weapon that can be wielded only when the hand is holding nothing. The wearer is proficient with the gauntlets, and each one deals 1d8 force damage on a hit and has the thrown property, with a normal range of 20 feet and a long range of 60 feet. When thrown, the gauntlet detaches and flies at the attack's target, then immediately returns to the wearer and reattaches.
+- The armour can't be removed against the wearer's will.
+- If the wearer is missing any limbs, the armour replaces those limbs—hands, arms, feet, legs, or similar appendages. The replacements function identically to the body parts they replace.
+
+---
+
+## Homebrew Infusions
+
+Below are homebrew Artificer Infusion
+
+---
+
+### Adjustable Tool Set
+
+*Prerequisite: A set of artisan's tools (requires attunement)*
+
+The wielder is considered proficient with this magical set of tools, and as an action, they can transform this set of tools into another set of *artisan's tools* of their choice.
+
+---
+
+### Enhanced Instrument
+
+*Prerequisite: A musical instrument (requires attunement)*
+
+This instrument has been magically enhanced by artifice. The wielder is considered proficient with this instrument and can use it as a spellcasting focus. Whenever they make an ability check using this instrument, they gain a bonus to the roll equal to your Intelligence modifier (minimum of +1).
+
+At level 10, this magic instrument grants a +1 bonus to spell attack rolls. This bonus increases to +2 at level 14.
+
+---
+
+### Goggles of Clearsight
+
+*Prerequisite: helm, pair of goggles, or glasses*
+
+While wearing these magical goggles the wearer can see normally through light or heavy obscurement from mundane and magical phenomena, including darkness, within 120 feet.
+
+The wearer also no longer suffers negative effects from the Sunlight Sensitivity trait, and it has advantage on any saving throws it makes to resist the blinded condition.
+
+---
+
+### Power Whip
+
+*Prerequisite: A whip*
+
+This magic weapon grants a +1 bonus to attack and damage rolls made with it, and it's damage die increases to 1d8.
+
+This bonus increases at level 10 (+2) and level 14 (+3).
+
+---
+
+### Wondrous Translator
+
+*Prerequisite: ring, diadem, or necklace (requires attunement)*
+
+The wearer of this magical object understands any language that it hears spoken aloud as if it were its native tongue.
+
+At level 5, this object does not require attunement, and at level 10, the wearer can also speak any language it hears.
+
+---
+
+### Infiltration Armor
+
+*Prerequisite: Level 5+, suit of armor (requires attunement)*
+
+This magic suit of armor retains its weight but is formfitting and wearable under clothes without detection. It also grants its wearer Advantage on Dexterity (Stealth) checks.
+
+At level 10, this armor grants its wearer a +1 bonus to Armor Class. This bonus increases to +2 at level 17.
+
+---
+
+### Wall Shield
+
+*Prerequisite: Level 5+, shield (requires attunement)*
+
+As an action, the wielder can slam this magic shield into the ground, expending Charges to produce the effects of wall of stone centered on the shield, which remains in the ground. However, this effect only creates a number of panels equal to the Charges spent, it doesn't require concentration, and lasts for 1 minute. The wall is destroyed if the shield is removed.
+
+This magical shield has a number of Charges equal to your Intelligence modifier (a minimum of 1 Charge), and it regains all of its expended Charges each day at dawn.
+
+At level 10, this magic shield grants a +1 bonus to Armor Class. This Armor Class bonus increases to +2 at level 17.
+
+---
+
+### Wildfire Cannon
+
+*Prerequisite: Level 5+; gauntlet, arcane focus, or metal rod*
+
+As an action, the wielder of this magical object can expend Charges and use your Artificer Spellcasting modifier to cast these spells: *Firebolt* (0 Charges), *Burning Hands* (1 Charge), *Scorching Ray* (2 Charges), or *Fireball* (3 Charges).
+
+This magical item has a number of Charges equal to your Intelligence modifier (minimum of 1 Charge), and it regains all of its expended Charges each day at dawn.
+
+---
