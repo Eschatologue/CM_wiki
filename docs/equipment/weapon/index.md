@@ -52,7 +52,7 @@ You can use a weapon that has the ammunition property to make a ranged attack on
 
 #### :weapon-prop-automatic:{ .lg } Automatic
 
-When you take the :d20-attack: **Attack** Action on your turn and attack with an Automatic weapon, you can make extra attacks up to the number in the parenthesis later on the same turn. That extra attack must be made with the ^^same weapon^^ provided the weapon has enough Ammunition for the attacks, and you don't add your ability modifier to the extra attack's damage, unless that modifier is negative.
+When you take the **Attack** Action on your turn and attack with an Automatic weapon, you can make extra attacks up to the number in the parenthesis later on the same turn. That extra attack must be made with the ^^same weapon^^ provided the weapon has enough Ammunition for the attacks, and you don't add your ability modifier to the extra attack's damage, unless that modifier is negative.
 
 ---
 
@@ -78,7 +78,7 @@ Heavy weapon is unwieldy compared to other weapons. You have :d20-disadv: **Disa
 
 #### :weapon-prop-light:{ .lg } Light
 
-When you take the :d20-attack: **Attack** Action on your turn and attack with a Light weapon, you can make one extra attack as a :rsc-bonus-action: **Bonus Action** later on the same turn. That extra attack must be made with a ^^different Light weapon^^, and you don't add your ability modifier to the extra attack's damage, unless that modifier is negative.
+When you take the **Attack** Action on your turn and attack with a Light weapon, you can make one extra attack as a :rsc-bonus-action: **Bonus Action** later on the same turn. That extra attack must be made with a ^^different Light weapon^^, and you don't add your ability modifier to the extra attack's damage, unless that modifier is negative.
 
 ---
 

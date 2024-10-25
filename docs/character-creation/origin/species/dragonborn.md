@@ -39,7 +39,7 @@ You have an ancestry tied to a specific aeiginae. Choose one type of dragon from
 
 Each ancestry provides a damage resistance and a Breath Weapon, which shares the same range and area of effect but different damage type and :d20-save: **Saving Throws**, all breath weapon also increases in damage at certain levels.
 
-When you take the :d20-attack: **Attack** Action on your turn, you can replace one of your attacks with an exhalation of destructive energy determined by your Ancestry, under the rules below:
+When you take the **Attack** Action on your turn, you can replace one of your attacks with an exhalation of destructive energy determined by your Ancestry, under the rules below:
 
 - :die-d10: **Breath Weapon Damage.** Breath Weapon damage is 1d10 with its damage type determined based on Dragonborn Ancestry.
     - :material-arrow-up-bold: **Higher Character Level.** The damage increases by 1d6 when you reach character Level 6 (2d10), Level 11 (3d10), and Level 17 (4d10). 

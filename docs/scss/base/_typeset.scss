@@ -54,7 +54,7 @@ $h4Size: $defaultFontSize * 1.115;
         font-weight: $defaultFontWeight * 1.25;
         letter-spacing: $h2Size * 0.03;
         border-bottom: px2rem(2.5px) solid rgba(255, 255, 255, 0.25);
-        margin: px2rem(18px) 0 px2rem(4.5px) 0;
+        margin: px2rem(18px) 0 px2rem(5px) 0;
     }
 
     h3 {
@@ -75,7 +75,7 @@ $h4Size: $defaultFontSize * 1.115;
 
     h4 {
         font-size: $h4Size;
-        letter-spacing: $h4Size * 0.02;
+        letter-spacing: $h4Size * 0.03;
         font-weight: $defaultFontWeight * 1.5;
         margin: px2rem(6px) 0 px2rem(3px);
         text-transform: capitalize !important;

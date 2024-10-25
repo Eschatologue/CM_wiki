@@ -66,7 +66,7 @@ When you cast a spell that originates from you, you can spend 2 Sorcery Point(s)
 
 **Cost:** 2-10 Sorcery Point(s)
 
-When you cast a spell has only one target, and requires you to make an :d20-attack: attack roll, for every 2 Sorcery Point(s) you spent to a maximum of 10, the number you need to roll for Critical Hit is reduced by 1. This effect stacks with other sources of Critical Hit reduction.
+When you cast a spell has only one target, and requires you to make an attack roll, for every 2 Sorcery Point(s) you spent to a maximum of 10, the number you need to roll for Critical Hit is reduced by 1. This effect stacks with other sources of Critical Hit reduction.
 
 ---
 

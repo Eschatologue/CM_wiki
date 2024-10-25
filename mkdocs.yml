@@ -111,9 +111,7 @@ nav:
         - Charisma: gameplay/phb/abilities/charisma.md
       - D20 Test: gameplay/phb/d20-test.md
       - Proficiency: gameplay/phb/proficiency.md
-      - Actions: 
-        - gameplay/phb/actions/index.md
-        - Options: gameplay/phb/actions/options.md
+      - Actions: gameplay/phb/action.md
       - Exploration: gameplay/phb/exploration.md
       - Combat: gameplay/phb/combat.md
       - Damage & Healing: gameplay/phb/damage-and-healing.md
