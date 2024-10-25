@@ -87,39 +87,27 @@ The descriptions of many spells and other features specify that they have an are
 
 #### :aoe-cone: Cone
 
-A Cone is an area of effect that extends in straight lines from a point of origin in a direction its creator chooses. A Cone's width at any point along its length is equal to that point's distance from the point of origin. For example, a Cone is 15 feet wide at a point along its length that is 15 feet from the point of origin. The effect that creates a Cone specifies its maximum length.
+--8<-- "docs/glossary.md:aoe-cone"
 
-A Cone's point of origin isn't included in the area of effect unless its creator decides otherwise.
+#### :aoe-cube: Cube
 
-#### :aoe-cube:{ .middle } Cube
+--8<-- "docs/glossary.md:aoe-cube"
 
-A Cube is an area of effect that extends in straight lines from a point of origin located anywhere on a face of the Cube. The effect that creates a Cube specifies its size, which is the length of each side. A Cube's point of origin isn't included in the area of effect unless its creator decides otherwise.
+#### :aoe-cylinder: Cylinder
 
-#### :aoe-cylinder:{ .middle } Cylinder
+--8<-- "docs/glossary.md:aoe-cylinder"
 
-A Cylinder is an area of effect that extends in straight lines from a point of origin located at the center of the circular top or bottom of the Cylinder. The effect that creates a Cylinder specifies the radius of the Cylinder's base and the Cylinder's height.
+#### :aoe-emanation: Emanation
 
-A Cylinder's point of origin is included in the area of effect.
+--8<-- "docs/glossary.md:aoe-emanation"
 
-#### :aoe-rad:{ .middle } Emanation
+#### :aoe-line: Line
 
-An Emanation is an area of effect that extends in straight lines from a creature or an object in all directions. The effect that creates an Emanation specifies the distance it extends.
+--8<-- "docs/glossary.md:aoe-line"
 
-An Emanation moves with the creature or object that is its origin unless it is an instantaneous or a stationary effect.
+#### :aoe-sphere: Sphere
 
-An Emanation's origin (creature or object) isn't included in the area of effect unless its creator decides otherwise.
-
-#### :aoe-line:{ .middle } Line
-
-A Line is an area of effect that extends from a point of origin in a straight path along its length and covers an area defined by its width. The effect that creates a Line specifies its length and width.
-
-A Line's point of origin isn't included in the area of effect unless its creator decides otherwise.
-
-#### :aoe-sphere:{ .middle } Sphere
-
-A Sphere is an area of effect that extends in straight lines from a point of origin outward in all directions. The effect that creates a Sphere specifies the distance it extends as the radius of the Sphere.
-
-A Sphere's point of origin is included in the Sphere's area of effect.
+--8<-- "docs/glossary.md:aoe-sphere"
 
 ## Range
 

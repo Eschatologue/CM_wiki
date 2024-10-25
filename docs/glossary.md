@@ -78,25 +78,6 @@ A creature has six ability scores—Strength, Dexterity, Constitution, Intellige
 
 ---
 
-### Action
-
-On your turn, you can take one action. Choose which action to take from those below or from the special actions provided by your features. These actions are defined elsewhere in this glossary:
-
-- Attack
-- Dodge
-- Dash
-- Help
-- Disengage
-- Hide
-- Influence
-- Magic
-- Ready
-- Search
-- Study
-- Utilize
-
----
-
 ### Advantage
 
 If you have Advantage on a D20 Test, roll two d20s, and use the higher roll. A roll can't be affected by more than one Advantage, and Advantage and Disadvantage on the same roll cancel each other.
@@ -278,7 +259,7 @@ A Climb Speed can be used in place of Speed to traverse a vertical surface witho
 
 ### Climbing
 
-While you're climbing, each foot of movement costs 1 extra foot (2 extra feet in difficult terrain. You ignore this extra cost if you have a Climb Speed and use it to climb. At the DM's option, climbing a slippery surface or one with few handholds might require a successful DC 15 Strength (Athletics) check.
+While you're climbing, each foot of movement costs 1 extra foot 2 extra feet in difficult terrain. You ignore this extra cost if you have a Climb Speed and use it to climb. At the DM's option, climbing a slippery surface or one with few handholds might require a successful DC 15 Strength (Athletics) check.
 
 ---
 
@@ -289,7 +270,7 @@ A condition is a temporary game state. The definition of a condition says how it
 - Grappled
 - Poisoned
 - Charmed
-- Incapacitated|XPHB
+- Incapacitated
 - Prone
 - Deafened
 - Invisible
@@ -305,11 +286,15 @@ A condition doesn't stack with itself; a recipient either has a condition or doe
 
 ---
 
-### Cone [Area of Effect]
+### Cone 
 
-A Cone is an area of effect that extends in straight lines from a point of origin in a direction its creator chooses. A Cone's width at any point along its length is equal to that point's distance from the point of origin. For example, a Cone is 15 feet wide at a point along its length that is 15 feet from the point of origin. The effect that creates a Cone specifies its maximum length.
+<!-- --8<-- [start:aoe-cone] -->
+
+A Cone is an **area of effect** that extends in straight lines from a point of origin in a direction its creator chooses. A Cone's width at any point along its length is equal to that point's distance from the point of origin. For example, a Cone is 15 feet wide at a point along its length that is 15 feet from the point of origin. The effect that creates a Cone specifies its maximum length.
 
 A Cone's point of origin isn't included in the area of effect unless its creator decides otherwise.
+
+<!-- --8<-- [end:aoe-cone] -->
 
 ---
 
@@ -361,15 +346,17 @@ The types don't have rules themselves, but some rules in the game affect creatur
 
 If you roll a 20 on the d20 for an attack roll, you score a Critical Hit, and the attack hits regardless of any modifiers or the target's AC. A Critical Hit lets you roll extra dice for the attack's damage against the target. Roll all of the attack's damage dice twice and add them together. Then add any relevant modifiers.
 
-#### Homebrew
-
 In Crown & Misery, a critical hit means total damage result is doubled.
 
 ---
 
-### Cube [Area of Effect]
+### Cube 
 
-A Cube is an area of effect that extends in straight lines from a point of origin located anywhere on a face of the Cube. The effect that creates a Cube specifies its size, which is the length of each side. A Cube's point of origin isn't included in the area of effect unless its creator decides otherwise.
+<!-- --8<-- [start:aoe-cube] -->
+
+A Cube is an **area of effect** that extends in straight lines from a point of origin located anywhere on a face of the Cube. The effect that creates a Cube specifies its size, which is the length of each side. A Cube's point of origin isn't included in the area of effect unless its creator decides otherwise.
+
+<!-- --8<-- [end:aoe-cube] -->
 
 ---
 
@@ -379,11 +366,15 @@ Some game effects curse a creature or an object. The effect that confers a curse
 
 ---
 
-### Cylinder [Area of Effect]
+### Cylinder 
 
-A Cylinder is an area of effect that extends in straight lines from a point of origin located at the center of the circular top or bottom of the Cylinder. The effect that creates a Cylinder specifies the radius of the Cylinder's base and the Cylinder's height.
+<!-- --8<-- [start:aoe-cylinder] -->
+
+A Cylinder is an **area of effect** that extends in straight lines from a point of origin located at the center of the circular top or bottom of the Cylinder. The effect that creates a Cylinder specifies the radius of the Cylinder's base and the Cylinder's height.
 
 A Cylinder's point of origin is included in the area of effect.
+
+<!-- --8<-- [end:aoe-cylinder] -->
 
 ---
 
@@ -487,13 +478,19 @@ If you have Disadvantage on a D20 Test, roll two d20s and use the lower roll. A 
 
 ---
 
-### Emanation [Area of Effect]
 
-An Emanation is an area of effect that extends in straight lines from a creature or an object in all directions. The effect that creates an Emanation specifies the distance it extends.
+
+### Emanation 
+
+<!-- --8<-- [start:aoe-emanation] -->
+
+An Emanation is an **area of effect** that extends in straight lines from a creature or an object in all directions. The effect that creates an Emanation specifies the distance it extends.
 
 An Emanation moves with the creature or object that is its origin unless it is an instantaneous or a stationary effect.
 
 An Emanation's origin (creature or object) isn't included in the area of effect unless its creator decides otherwise.
+
+<!-- --8<-- [end:aoe-emanation] -->
 
 ---
 
@@ -535,11 +532,15 @@ A variety of effects allow a creature to fly. While flying, you fall if you have
 
 ---
 
+<!-- --8<-- [start:forced_movement] -->
+
 ### Forced Movement
 
 *Forced Movement* occurs when a creature is moved by an external force, such as a spell or ability, without using its own movement, Actions, or Reactions. Common examples include being pushed, pulled, or moved by effects like *Thunderwave* or a Battle Master’s *Pushing Attack*. Forced movement does **not** provoke Opportunity Attacks and is not limited by a creature’s movement speed.
 
 If forced into hazardous terrain (e.g. pits or lava), the creature suffers any consequences. The movement usually stops if the creature hits an obstacle or reaches an edge, unless otherwise specified. Forced movement generally requires the target to end in an unoccupied space.
+
+<!-- --8<-- [end:forced_movement] -->
 
 ---
 
@@ -549,9 +550,9 @@ A Friendly creature views you favorably. You have advantage on an ability check 
 
 ---
 
-----8<---- [start:grappling]
-
 ### Grappling
+
+<!-- --8<-- [start:grappling] -->
 
 A creature can grapple another creature. Characters typically grapple by using an Unarmed Strike. Many monsters have special attacks that allow them to quickly grapple prey. However a grapple is initiated, it follows these rules.
 
@@ -561,7 +562,7 @@ A creature can grapple another creature. Characters typically grapple by using a
 
 ***Escaping a Grapple.*** A Grappled creature can use its action to make a Strength (Athletics) or Dexterity (Acrobatics) check against the grapple's escape DC, ending the condition on itself on a success. The condition also ends if the grappler has the Incapacitated condition or if the distance between the Grappled target and the grappler exceeds the grapple's range.
 
-----8<---- [end:grappling]
+<!-- --8<-- [end:grappling] -->
 
 ---
 
@@ -651,11 +652,15 @@ An Indifferent creature has no desire to help or hinder you. Indifferent is the 
 
 ---
 
+<!-- --8<-- [start:initiative] -->
+
 ### Initiative
 
-Initiative determines the order of turns during combat. The combat rules in *chapter 1* explain how to roll Initiative.
+Initiative determines the order of turns during combat. Initiative is a Dexterity ability check.
 
 Sometimes a DM might have combatants use their Initiative scores instead of rolling Initiative. Your Initiative score equals 10 plus your Dexterity modifier. If you have Advantage on Initiative rolls, increase your Initiative score by 5. If you have Disadvantage on those rolls, decrease that score by 5.
+
+<!-- --8<-- [end:initiative] -->
 
 ---
 
@@ -679,11 +684,15 @@ You have Disadvantage on Wisdom (Perception) checks to see something in a Lightl
 
 ---
 
-### Line [Area of Effect]
+### Line 
 
-A Line is an area of effect that extends from a point of origin in a straight path along its length and covers an area defined by its width. The effect that creates a Line specifies its length and width.
+<!-- --8<-- [start:aoe-line] -->
+
+A Line is an **area of effect** that extends from a point of origin in a straight path along its length and covers an area defined by its width. The effect that creates a Line specifies its length and width.
 
 A Line's point of origin isn't included in the area of effect unless its creator decides otherwise.
+
+<!-- --8<-- [end:aoe-line] -->
 
 ---
 
@@ -892,11 +901,15 @@ A Spellcasting Focus is an object that certain creatures can use in place of a s
 
 ---
 
-### Sphere [Area of Effect]
+### Sphere 
 
-A Sphere is an area of effect that extends in straight lines from a point of origin outward in all directions. The effect that creates a Sphere specifies the distance it extends as the radius of the Sphere.
+<!-- --8<-- [start:aoe-sphere] -->
+
+A Sphere is an **area of effect** that extends in straight lines from a point of origin outward in all directions. The effect that creates a Sphere specifies the distance it extends as the radius of the Sphere.
 
 A Sphere's point of origin is included in the Sphere's area of effect.
+
+<!-- --8<-- [end:aoe-sphere] -->
 
 ---
 

@@ -20,12 +20,12 @@ Your Strength (Athletics) check covers difficult situations you encounter while 
 
 ## Uses of Strength
 
-### :Attack Rolls and Damage
+### Attack Rolls and Damage
 
 You add your Strength modifier to your attack roll and your damage roll when attacking with a melee weapon such as a mace, a battleaxe, or a javelin. You use melee weapons to make melee attacks in hand-to-hand combat, and some of them can be thrown to make a ranged attack.
 
 ### Carrying Capacity
 
-*Main Article: Inventory & Encumberance*
+*Main Article: [Inventory & Encumberance](../../../gameplay/homebrew/inventory.md)*
 
 A creature's Strength score is used to determine how much weight a creature can carry before becoming encumbered.

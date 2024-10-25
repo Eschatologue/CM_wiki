@@ -28,15 +28,13 @@ Make a Dexterity (Stealth) check when you attempt to conceal yourself from enemi
 
 ### Attack rolls and Damage
 
-Creatures add their Dexterity modifier to the results of attack and damage rolls of ranged weapons and, and the creature's can choose between their Dexterity score or Strength score for melee weapons with the Finesse* property.
+Creatures add their Dexterity modifier to the results of attack and damage rolls of ranged weapons and, and the creature's can choose between their Dexterity score or Strength score for melee weapons with the :weapon-prop-finesse: **Finesse** property.
 
 ### Armour Class
 
 Creatures also add their Dexterity modifier to their Armour Class (AC) – making them more difficult to hit, up to a maximum of +2 when wearing most medium armour. The bonus is ignored when wearing heavy armour, unless otherwise specified.
 
-### Initiative
-
-Creatures add their Dexterity modifier when rolling for initiative, used to determine the turn order during combat. Initiative counts as an ability check.
+--8<-- "docs/glossary.md:initiative"
 
 ### Hiding
  
