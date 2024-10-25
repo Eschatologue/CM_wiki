@@ -255,7 +255,7 @@ While wearing this helmet, a creature has advantage on initiative rolls. In addi
 
 ---
 
-## Arcane Propulsion Armour
+### Arcane Propulsion Armour
 
 *Prerequisite: Level 14+, A suit of armour (requires attunement)*
 
@@ -376,6 +376,32 @@ While holding the item, the wielder can take a Bonus Action to cause a blade of 
 The luminous blade emits bright light in a 15-foot radius and dim light for an additional 15 feet. The light is considered sunlight.
 
 Undead take an additional 1d8 :dmg-radiant: Radiant damage from this weapon.
+
+---
+
+## Helm of Mind Shielding
+
+*Prerequisite: Level 14+; A helm, or diadem*
+
+The wearer of this magic helm has Resistance to psychic damage, immune to the charmed and frightened conditions, and any magic that allows another creature to read their thoughts or telepathically communicate with them.
+
+---
+
+## Mystic Armament
+
+*Prerequisite: Level 14+, A melee weapon (requires attunement)*
+
+This item has 4 charges. While wielding this magic weapon, the user can take a Magic action to cast the *Foreign Ironwind* spell as a level 5 spell, using the Infused weapon as the spellcasting focus, without expending a spell slot. The weapon regains all expended charges at the end of a Long Rest.
+
+---
+
+## Mystic Shot
+
+*Prerequisite: Level 14+, A ranged weapon (requires attunement)*
+
+While wielding this magic weapon, the user can take a Magic action to cast *Swift Quiver*, using the Infused weapon as the spellcasting focus, without expending a spell slot.
+
+Once activated, the wielder must finish a Short or Long Rest before they can cast *Swift Quiver* with this weapon again.
 
 ---
 
