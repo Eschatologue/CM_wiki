@@ -48,7 +48,7 @@ You can cast *Slow* with a Warlock spell slot.
 
 **Prerequisite:** Level 5+, [Armour of Shadow](phb24.md#armour-of-shadows)
 
-When you cast [Mage Armour](../../../spells/description/core/level-1.md#mage-armour) using [Armour of Shadow](phb24.md#armour-of-shadows) Invocation, your base AC is 15 + your Dexterity modifier instead of the normal effect.
+When you cast *[Mage Armour](../../../spells/description/core/level-1.md#mage-armour)* using [Armour of Shadow](phb24.md#armour-of-shadows) Invocation, your base AC is 15 + your Dexterity modifier instead of the normal effect.
 
 ---
 
@@ -56,7 +56,7 @@ When you cast [Mage Armour](../../../spells/description/core/level-1.md#mage-arm
 
 **Prerequisite:** Level 5+
 
-You can cast *Firball* with yourself as the target once without expending a spell slot. When you do, you gain Temporary Hit Points equals to the damage taken from the spell.
+You can cast *[Fireball](../../../spells/description/core/level-3.md#fireball)* with yourself as the target once without expending a spell slot. When you do, you gain Temporary Hit Points equals to the damage taken from the spell.
 
 ---
 
