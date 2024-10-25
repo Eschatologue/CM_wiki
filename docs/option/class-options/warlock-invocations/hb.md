@@ -10,7 +10,7 @@ These Invocations are for Crown & Misery campaign
 
 ### Arcane Gunslinger
 
-<!-- cm:src PHB'24 -->
+<!-- source PHB'24 -->
 
 **Prerequisite:** Pact of the Blade
 
