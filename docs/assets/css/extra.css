@@ -416,7 +416,7 @@
   font-size: 1.05rem;
   font-weight: 500;
   letter-spacing: 0.0315rem;
-  border-bottom: 0.1rem solid rgba(255, 255, 255, 0.25);
+  border-bottom: 0.125rem solid rgba(255, 255, 255, 0.25);
   margin: 0.9rem 0 0.225rem 0;
 }
 .md-typeset h3 {
@@ -435,6 +435,7 @@
 }
 .md-typeset h4 {
   font-size: 0.7805rem;
+  letter-spacing: 0.01561rem;
   font-weight: 600;
   margin: 0.3rem 0 0.15rem;
   text-transform: capitalize !important;
