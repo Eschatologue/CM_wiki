@@ -34,18 +34,22 @@ theme:
   font:
     code: Roboto Code
     text: Inter
-  icon: 
-    logo: fontawesome/solid/dice-d20
-    annotation: material/timeline-question
   favicon: assets/icon.jpg
   static_templates:
     - 404.html
-
+  icon: 
+    logo: fontawesome/solid/dice-d20
+    annotation: material/timeline-question
+    tag:
+      source: material/source-pull
+  
 ## Additional Configuration
 extra:
   status:
     homebrew: Homebrew material
     adapted: Adapted to PHB'24
+  tags:
+    Source: source
 
 # Markdown Extentions
 markdown_extensions:
@@ -91,6 +95,8 @@ markdown_extensions:
 plugins:
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - tags:
+      tags_file: tags.md
 
 # Copyright
 copyright: |

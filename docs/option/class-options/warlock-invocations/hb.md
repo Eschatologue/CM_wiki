@@ -10,6 +10,8 @@ These Invocations are for Crown & Misery campaign
 
 ### Arcane Gunslinger
 
+<!-- cm:src PHB'24 -->
+
 **Prerequisite:** Pact of the Blade
 
 You can create a Pact Weapon that is a Short-Arm or Long-Arm. Firearms created from this invocations can't gain the benefit of any Augmentations.
