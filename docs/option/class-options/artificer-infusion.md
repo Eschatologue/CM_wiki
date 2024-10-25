@@ -379,15 +379,15 @@ Undead take an additional 1d8 :dmg-radiant: Radiant damage from this weapon.
 
 ---
 
-## Helm of Mind Shielding
+### Helm of Mind Shielding
 
 *Prerequisite: Level 14+; A helm, or diadem*
 
-The wearer of this magic helm has Resistance to psychic damage, immune to the charmed and frightened conditions, and any magic that allows another creature to read their thoughts or telepathically communicate with them.
+The wearer of this magic helm has Resistance to Psychic damage, Immunity to the Charmed and Frightened conditions, and any magic that allows another creature to read their thoughts or telepathically communicate with them.
 
 ---
 
-## Mystic Armament
+### Mystic Armament
 
 *Prerequisite: Level 14+, A melee weapon (requires attunement)*
 
@@ -395,7 +395,7 @@ This item has 4 charges. While wielding this magic weapon, the user can take a M
 
 ---
 
-## Mystic Shot
+### Mystic Shot
 
 *Prerequisite: Level 14+, A ranged weapon (requires attunement)*
 
