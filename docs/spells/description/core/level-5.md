@@ -314,7 +314,7 @@ The spell's duration depends on the object's material, as shown in the Materials
 
 Threads of dark power leap from your fingers to pierce up to five Small or Medium corpses you can see within range. Each corpse immediately stands up and becomes undead. You decide whether it is a **zombie** or a **skeleton** (the statistics for **zombies** and **skeletons** are in the Monster Manual), and it gains a bonus to its attack and damage rolls equal to your spellcasting ability modifier.
 
-You can use a bonus action to mentally command the creatures you make with this spell, issuing the same command to all of them. To receive the command, a creature must be within 60 feet of you. You decide what action the creatures will take and where they will move during their next turn, or you can issue a general command, such as to guard a chamber or passageway against your foes. If you issue no commands, the creatures do nothing except defend themselves against hostile creatures. Once given an order, the creatures continue to follow it until their task is complete.
+You can use a Bonus Action to mentally command the creatures you make with this spell, issuing the same command to all of them. To receive the command, a creature must be within 60 feet of you. You decide what action the creatures will take and where they will move during their next turn, or you can issue a general command, such as to guard a chamber or passageway against your foes. If you issue no commands, the creatures do nothing except defend themselves against hostile creatures. Once given an order, the creatures continue to follow it until their task is complete.
 
 The creatures are under your control until the spell ends, after which they become inanimate once more.
 
@@ -336,7 +336,7 @@ The light of dawn shines down on a location you specify within range. Until the 
 
 When the cylinder appears, each creature in it must make a Constitution saving throw, taking 4d10 radiant damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw whenever it ends its turn in the cylinder.
 
-If you're within 60 feet of the cylinder, you can move it up to 60 feet as a bonus action on your turn.
+If you're within 60 feet of the cylinder, you can move it up to 60 feet as a Bonus Action on your turn.
 
 > **Classes:** Cleric, Wizard
 
@@ -440,7 +440,7 @@ Whenever the spell deals damage to a target, you regain hit points equal to half
 **Components:** V  
 **Duration:** Concentration, up to 1 minute
 
-You teleport up to 60 feet to an unoccupied space you can see. On each of your turns before the spell ends, you can use a bonus action to teleport in this way again.
+You teleport up to 60 feet to an unoccupied space you can see. On each of your turns before the spell ends, you can use a Bonus Action to teleport in this way again.
 
 > **Classes:** Sorcerer, Warlock, Wizard
 
@@ -559,7 +559,7 @@ Choose a creature that you can see within range. The target must succeed on a Wi
 
 You imbue a weapon you touch with holy power. Until the spell ends, the weapon emits bright light in a 30-foot radius and dim light for an additional 30 feet. In addition, weapon attacks made with it deal an extra 2d8 radiant damage on a hit. If the weapon isn't already a magic weapon, it becomes one for the duration.
 
-As a bonus action on your turn, you can dismiss this spell and cause the weapon to emit a burst of radiance. Each creature of your choice that you can see within 30 feet of the weapon must make a Constitution saving throw. On a failed save, a creature takes 4d8 radiant damage, and it is blinded for 1 minute. On a successful save, a creature takes half as much damage and isn't blinded. At the end of each of its turns, a blinded creature can make a Constitution saving throw, ending the effect on itself on a success.
+As a Bonus Action on your turn, you can dismiss this spell and cause the weapon to emit a burst of radiance. Each creature of your choice that you can see within 30 feet of the weapon must make a Constitution saving throw. On a failed save, a creature takes 4d8 radiant damage, and it is blinded for 1 minute. On a successful save, a creature takes half as much damage and isn't blinded. At the end of each of its turns, a blinded creature can make a Constitution saving throw, ending the effect on itself on a success.
 
 > **Classes:** Cleric, Paladin
 
@@ -1152,7 +1152,7 @@ You call out to the spirits of nature to rouse them against your enemies. Choose
 
 ***Roots and Vines.*** At the end of each of your turns, one creature of your choice that is on the ground in the cube must succeed on a Strength saving throw or become restrained until the spell ends. A restrained creature can use an action to make a Strength (Athletics) check against your spell save DC, ending the effect on itself on a success.
 
-***Rocks.*** As a bonus action on your turn, you can cause a loose rock in the cube to launch at a creature you can see in the cube. Make a ranged spell attack against the target. On a hit, the target takes 3d8 nonmagical bludgeoning damage, and it must succeed on a Strength saving throw or fall prone.
+***Rocks.*** As a Bonus Action on your turn, you can cause a loose rock in the cube to launch at a creature you can see in the cube. Make a ranged spell attack against the target. On a hit, the target takes 3d8 nonmagical bludgeoning damage, and it must succeed on a Strength saving throw or fall prone.
 
 > **Classes:** Druid, Ranger
 

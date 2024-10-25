@@ -55,7 +55,7 @@ At certain Artificer levels, your Arcane Firearm gains more Upgrades: at level 5
 
 You can attack twice, instead of once, whenever you take the Attack action on your turn.
       
-Moreover, if you use your action to cast a spell, you can make one Arcane Firearm attack as a bonus action on that turn.
+Moreover, if you use your action to cast a spell, you can make one Arcane Firearm attack as a Bonus Action on that turn.
 
 ### Level 9: Overcharge
 

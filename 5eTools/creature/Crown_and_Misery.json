@@ -347,7 +347,7 @@
 				{
 					"name": "Nimble Escape",
 					"entries": [
-						"The elven brigand can take the {@action Disengage} or {@action Hide} action as a bonus action on each of its turns."
+						"The elven brigand can take the {@action Disengage} or {@action Hide} action as a Bonus Action on each of its turns."
 					]
 				},
 				{
@@ -485,7 +485,7 @@
 				{
 					"name": "Nimble Escape",
 					"entries": [
-						"The elven brigand can take the {@action Disengage} or {@action Hide} action as a bonus action on each of its turns."
+						"The elven brigand can take the {@action Disengage} or {@action Hide} action as a Bonus Action on each of its turns."
 					]
 				},
 				{

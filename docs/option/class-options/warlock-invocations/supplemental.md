@@ -76,7 +76,7 @@ When the wearer of your talisman is hit by an attacker you can see within 30 fee
 
 **Prerequisite:** Level 5+ Warlock
 
-As a Bonus Action, you can surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you're incapacitated or you dismiss it as a bonus action.
+As a Bonus Action, you can surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you're incapacitated or you dismiss it as a Bonus Action.
 
 The aura grants you advantage on Charisma (Intimidation) checks but disadvantage on all other Charisma checks. Any other creature that starts its turn in the aura takes poison damage equal to your Charisma modifier (minimum of 0 damage).
 
@@ -100,7 +100,15 @@ As a Magic action, you can magically erase a name on the page by touching it.
 
 **Prerequisite:** Level 5+ Warlock; *Hex* spell or a Warlock feature that curses
 
-As a bonus action, you cause a psychic disturbance around the target cursed by your *Hex* spell or by a Warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. When you do so, you deal psychic damage to the cursed target and each creature of your choice that you can see within 5 feet of it. The psychic damage equals your Charisma modifier (minimum of 1 damage). To use this Invocation, you must be able to see the cursed target, and it must be within 30 feet of you.
+As a Bonus Action, you cause a psychic disturbance around the target cursed by your *Hex* spell or by a Warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. When you do so, you deal psychic damage to the cursed target and each creature of your choice that you can see within 5 feet of it. The psychic damage equals your Charisma modifier (minimum of 1 damage). To use this Invocation, you must be able to see the cursed target, and it must be within 30 feet of you.
+
+---
+
+### Sign of Ill Omen
+
+**Prerequisite:** Level 5+ Warlock
+
+You can cast [Bestow Curse](../../../spells/description/core/level-3.md#bestow-curse) using a Warlock spell slot.
 
 ---
 
@@ -144,7 +152,7 @@ When the wearer of your talisman fails a saving throw, they can add a d4 to the 
 
 **Prerequisite:** Level 7+ Warlock; *Hex* spell or a Warlock feature that curses
 
-Your curse creates a temporary bond between you and your target. As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see within 5 feet of the target cursed by your *Hex* spell or by a Warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. To teleport in this way, you must be able to see the cursed target.
+Your curse creates a temporary bond between you and your target. As a Bonus Action, you can magically teleport up to 30 feet to an unoccupied space you can see within 5 feet of the target cursed by your *Hex* spell or by a Warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. To teleport in this way, you must be able to see the cursed target.
 
 ---
 

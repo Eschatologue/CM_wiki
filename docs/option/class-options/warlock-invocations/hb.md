@@ -1,5 +1,6 @@
 ---
 title: Warlock's Eldritch Invocation (CM)
+status: homebrew
 ---
 
 # Crown & Misery Invocations
@@ -10,7 +11,7 @@ These Invocations are for Crown & Misery campaign
 
 ### Arcane Gunslinger
 
-<!-- source PHB'24 -->
+<!-- source -->
 
 **Prerequisite:** Pact of the Blade
 
@@ -54,7 +55,7 @@ When you cast *[Mage Armour](../../../spells/description/core/level-1.md#mage-ar
 
 ---
 
-### Touch of Aaraau
+### Blink of the Destruction
 
 **Prerequisite:** Level 5+
 
