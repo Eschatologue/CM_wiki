@@ -10,7 +10,7 @@ This page contains a list of all Eldritch Invocations from the PHB'24.
 
 ### Armour of Shadows
 
-You can cast *Mage Armour* on yourself without expending a spell slot.
+You can cast *[Mage Armour](../../../spells/description/core/level-1.md#mage-armour)* on yourself without expending a spell slot.
 
 ---
 

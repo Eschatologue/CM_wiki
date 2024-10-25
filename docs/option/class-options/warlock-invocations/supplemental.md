@@ -6,6 +6,8 @@ title: Warlock's Eldritch Invocation (Supplemental)
 
 This page contains a list of all Eldritch Invocations from the supplemental books such as: XGE or TCE.
 
+---
+
 ### Aspect of the Moon
 
 **Prerequisite:** Pact of the Tome
@@ -167,4 +169,3 @@ While someone else is wearing your talisman, you can use your action to teleport
 **Prerequisite:** Level 15+ Warlock
 
 You can cast *Invisibility* at will, without expending a spell slot.
-

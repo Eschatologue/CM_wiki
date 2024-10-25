@@ -16,14 +16,6 @@ You can create a Pact Weapon that is a Short-Arm or Long-Arm. Firearms created f
 
 ---
 
-### Eldritch Armour
-
-**Prerequisite:** Pact of the Blade
-
-As a Magic action, you can touch a suit of armour that isn't being worn or carried by anyone and instantly don it, provided you aren't wearing armour already. You have Armour Training with this suit of armour until it's removed.
-
----
-
 ### Blasphemous Prayer
 
 **Prerequisite:** Level 4+ Warlock, Pact of the Tome
@@ -41,4 +33,38 @@ You can invoke this level 3 Cleric subclass feature once and you must finish a S
 Choose one of your known Warlock cantrips that deals damage. When that cantrip deals damage, you can take a Bonus Action to cast *Fireball* using a Pact Magic spell slot. The spell must be centered on the creature you hit with cantrip.
 
 ***Repeatable.*** You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
+
+---
+
+### Mire the Mind
+
+**Prerequisite:** Level 5+ Warlock
+
+You can cast *Slow* with a Warlock spell slot.
+
+---
+
+### Plates of Null
+
+**Prerequisite:** Level 5+, [Armour of Shadow](phb24.md#armour-of-shadows)
+
+When you cast [Mage Armour](../../../spells/description/core/level-1.md#mage-armour) using [Armour of Shadow](phb24.md#armour-of-shadows) Invocation, your base AC is 15 + your Dexterity modifier instead of the normal effect.
+
+---
+
+### Touch of Aaraau
+
+**Prerequisite:** Level 5+
+
+You can cast *Firball* with yourself as the target once without expending a spell slot. When you do, you gain Temporary Hit Points equals to the damage taken from the spell.
+
+---
+
+### Sculptor of Flesh
+
+**Prerequisite:** Level 7+ Warlock
+
+You can cast *Polymorph* with a Warlock spell slot.
+
+---
 

@@ -10,7 +10,7 @@ The list below contains Metamagic available to the 2024 PHB.
 
 ### Careful Spell
 
-**Cost:** 1 Sorcery Point
+**Cost:** 1 :class-phb24-sorcerer: Sorcery Point
 
 When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell’s full force. To do so, spend 1 Sorcery Point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell, and it takes no damage if it would normally take half damage on a successful save.
 
@@ -18,7 +18,7 @@ When you cast a spell that forces other creatures to make a saving throw, you ca
 
 ### Distant Spell
 
-**Cost:** 1 Sorcery Point
+**Cost:** 1 :class-phb24-sorcerer: Sorcery Point
 
 When you cast a spell that has a range of at least 5 feet, you can spend 1 Sorcery Point to double the spell’s range. Or when you cast a spell that has a range of Touch, you can spend 1 Sorcery Point to make the spell’s range 30 feet.
 
