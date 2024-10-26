@@ -126,7 +126,7 @@ A Creature's Armour Class represents how will the creature avoids wounded in com
 
 #### Calculating AC
 
-All creatures starts with the same base AC calculation:
+***Calculating AC.*** All creatures start with the same base AC calculation:
 
 **Base AC** = 10 + the creature's Dexterity modifier.
 

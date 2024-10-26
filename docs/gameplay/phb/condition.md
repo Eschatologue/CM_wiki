@@ -72,6 +72,10 @@ While you have the Grappled condition, you experience the following effects.
 
 ***Movable.*** The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
 
+??? info "Grappling"
+
+    --8<-- "docs/glossary.md
+
 ---
 
 ### Incapacitated 

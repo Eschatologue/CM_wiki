@@ -100,36 +100,42 @@ A Bonus Action is a special action that you can take on the same turn that you t
 
 ### Breaking Objects
 
+<!-- -8<-- [start:breaking-objects] -->
+
 Objects can be harmed by attacks and by some spells, using the rules below. If an object is exceedingly fragile, the DM may allow a creature to break it automatically with the Attack or Utilize action.
 
 ***Armour Class.*** The Object Armour Class table suggests ACs for various substances.
 
 ###### Object Armour Class
-|  AC | Substance           |
-|:---:|---------------------|
-|  11 | Cloth, paper, rope  |
-|  13 | Crystal, glass, ice |
-|  15 | Wood                |
-|  17 | Stone               |
-|  19 | Iron, steel         |
-|  21 | Mithral             |
-|  23 | Adamantite          |
+
+| AC | Substance |
+|:-:|---|
+| 11 | Cloth, Paper, Rope |
+| 13 | Crystal. Glass, Ice |
+| 15 | Wood |
+| 17 | Stone |
+| 19 | Iron, Steel |
+| 21 | Mithral |
+| 23 | Adamantine |
 
 ***Hit Points.*** An object is destroyed when it has 0 Hit Points. The Object Hit Points table suggests Hit Points for fragile and resilient objects that are Large or smaller. To track Hit Points for a Huge or Gargantuan object, divide it into Large or smaller sections, and track each section's Hit Points separately. The DM determines whether destroying part of an object causes the whole thing to collapse.
 
 ###### Object Hit Points
-| Size                        |  Fragile | Resilient |
-|-----------------------------|:--------:|:---------:|
-| Tiny (bottle, lock)         |  2 (1d4) |  5 (2d4)  |
-| Small (chest, lute)         |  3 (1d6) |  10 (3d6) |
-| Medium (barrel, chandelier) |  4 (1d8) |  18 (4d8) |
-| Large (cart, dining table)  | 5 (1d10) | 27 (5d10) |
+
+| Size | Fragile | Resilient |
+|---|---|---|
+| Tiny (Bottle, Lock) | 2 (1d4) | 5 (2d4) |
+| Small (Chest, Lute) | 3 (1d6) | 10 (3d6) |
+| Medium (Barrel, Chandelier) | 4 (1d8) | 18 (4d8) |
+| Large (Cart, Dining Table) | 5 (1d10) | 27 (5d10) |
 
 ***Damage Types and Objects.*** Objects have Immunity to Poison and Psychic damage. The DM might decide that some damage types are more or less effective against an object. For example, Bludgeoning damage works well for smashing things but not for cutting. Paper or cloth objects might have Vulnerability to Fire damage.
 
 ***Damage Threshold.*** Big objects, such as castle walls, often have extra resilience represented by a damage threshold.
 
 ***No Ability Scores.*** An object lacks ability scores unless a rule assigns scores to the object. Without ability scores, an object can't make ability checks, and it fails all saving throws.
+
+<!-- -8<-- [end:breaking-objects] -->
 
 ---
 
@@ -480,9 +486,9 @@ A variety of effects allow a creature to fly. While flying, you fall if you have
 
 ---
 
-<!-- --8<-- [start:forced_movement] -->
-
 ### Forced Movement
+
+<!-- --8<-- [start:forced_movement] -->
 
 *Forced Movement* occurs when a creature is moved by an external force, such as a spell or ability, without using its own movement, Actions, or Reactions. Common examples include being pushed, pulled, or moved by effects like *Thunderwave* or a Battle Master’s *Pushing Attack*. Forced movement does **not** provoke Opportunity Attacks and is not limited by a creature’s movement speed.
 
@@ -511,6 +517,78 @@ A creature can grapple another creature. Characters typically grapple by using a
 ***Escaping a Grapple.*** A Grappled creature can use its action to make a Strength (Athletics) or Dexterity (Acrobatics) check against the grapple's escape DC, ending the condition on itself on a success. The condition also ends if the grappler has the Incapacitated condition or if the distance between the Grappled target and the grappler exceeds the grapple's range.
 
 <!-- --8<-- [end:grappling] -->
+
+---
+
+### Hazards
+
+Monsters are the main perils characters face, but other dangers awaits as follow:
+
+#### Burning
+
+<!-- --8<-- [start:haz-burning] -->
+
+A burning creature or object takes 1d4 :dmg-fire: Fire damage at the start of each of its turns. As an Action, you can extinguish fire on yourself by giving yourself the Prone condition and rolling on the ground. The fire also goes out if it is doused, submereged, or suffocated
+
+<!-- --8<-- [end:haz-burning] -->
+
+#### Dehydration
+
+<!-- --8<-- [start:haz-dehydration] -->
+
+A creature requires an amount of water per day based on its size, as shown in the Water Needs oer Day table. A creature that drinks less than half the required water for a day gains 1 Exhaustion level as the day's end. Exhaustion caused by dehydration can;t be removed until the creature drinks the full amount of water required for a day.
+
+##### Water Needs per Day
+
+| Size | Water |
+|---|---|
+| Tiny | 1/4 gallon |
+| Small | 1 gallon | 
+| Medium | 1 gallon |
+| Large | 4 gallons |
+| Huge | 16 gallons |
+| Gargantuan | 64 gallons |
+
+<!-- --8<-- [end:haz-dehydration] -->
+
+#### Falling
+
+<!-- --8<-- [start:haz-falling] -->
+
+A creature that falls take 1d6 :dmg-blunt: Bludgeoning damage at the end of the fall for every 10 feet it fell, to a maximum of 20d6. When the creature lands, it has the Prone condition unless it avoids taking damage from the fall.
+
+A creature that falls into water or another liquid can use its REaction to make a DC 15 Strength (Athlethics) or Dexterity (Acrobatics) check to hit the surface head or feet first. On a successful check, any damage resulting from the fall is halved.
+
+<!-- --8<-- [end:haz-falling] -->
+
+#### Malnutrition
+
+<!-- --8<-- [start:haz-malnutrition] -->
+
+A creature needs an amount of food per day based on its size, as shown in the Food Needs per Day table. A creature that eats but consumes less than half the required food for a day must suvveed on a DC 10 Constitution saving throw or gain 1 Exhaustion level at the day's end. A creature that eats nothing for 5 days automatically gains 1 Exhaustion level at the end of the fifth day as well as an additional level at the end of each subsequent day without food.
+
+Exhaustion caused by malnutriion can;t be removed untul the creature eats the full amount og the food required for a day.
+
+##### Food Needs per Day
+
+| Size | Food |
+|---|---|
+| Tiny | 1/4 pound |
+| Small | 1 Pound |
+| Medium | 1 Pound |
+| Large | 4 Pound |
+| Huge | 16 Pound |
+| Gargantuan | 64 Pound |
+
+<!-- --8<-- [end:haz-malnutrition] -->
+
+#### Suffocation
+
+<!-- --8<-- [start:haz-suffocation] -->
+
+A creature can hold its breath for a number of minute equal to 1 plus its Constitution modifier (minimum of 30 seconds) before suffocation begins. When a creature runs out of breath or its choking, it gains 1 Exhaustion level at the end of each of its turns. When a creature can breathe again, it removes all levels of Exhaustion it gained from suffocating.
+
+<!-- --8<-- [end:haz-suffocation] -->
 
 ---
 
