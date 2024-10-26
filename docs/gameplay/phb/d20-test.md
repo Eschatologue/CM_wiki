@@ -16,7 +16,7 @@ When the outcome of an action is uncertain, the game uses a d20 roll to determin
 
 3. **Compare the Total to a Target Number.** If the total of the d20 and its modifiers **equals** or **exceeds** the target humber, the D20 Test succeeds. Otherwise, it fails. The Dungeon Master determines the target number and tells players whenever their roll are successfull. The target number for an Ability Check or a Saving Throw is called a Difficulty Class (Dc). The number for an Attack Roll is called an Armour Class (AC), which appears on a character sheet or in a stat block.
 
-## :d20-check:{ .lg } Ability Check
+## Ability Check
   
 An :d20-check: **Ability Check** is an attempt to succeed at a specific task, and is rolled against a **Difficulty Class** (**DC**) set by the DM for that task. If the final result of the roll equals or exceeds the DC, the attempt is successful.
 
@@ -58,7 +58,7 @@ A Difficulty Class (or DC) is a number rolled against when making :d20-check: **
 | Very hard | 25 |
 | Nearly impossible | 30 |
 
-## :d20-save:{ .lg } Saving Throw
+## Saving Throw
   
 Traps, spells, conditions, and other sources of harm may allow a creature a chance to avoid or reduce their effect, known as a :d20-save: **Saving Throw** or save. To attempt a save, a creature rolls a d20 against a target Save [DC].
 
@@ -93,7 +93,7 @@ The Difficulty Class for a Saving Throw is determined by the effect that causes 
 
 ---
 
-## :d20-attack:{ .lg } Attack Roll
+## Attack Roll
 
 When a creature attacks a target, it makes an attack roll against the target's AC to determine whether the attack is a hit or a miss. If the attack is a hit, it generally deals damage, and the attacker rolls for damage.
 

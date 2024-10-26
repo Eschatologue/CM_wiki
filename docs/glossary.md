@@ -9,66 +9,7 @@ icon: material/book
 
 # Rule Glossary
 
-## Glossary Conventions
-
-The glossary uses the following conventions:
-
-***Tags in Brackets.*** Some entries have a tag in brackets after the entry’s name, as in “Attack [Action].” A tag—Action, Area of Effect, Attitude, Condition, or Hazard—indicates that a rule is part of a family of rules. The tags also have glossary entries.
-
-***“You.”*** The game’s rules—in this glossary and elsewhere—often talk about something happening to you in the game world. That “you” refers to the creature or object that the rule applies to in a particular moment of play. For example, the “you” in the Prone condition is a creature that currently has that condition.
-
-***“See Also.”*** Some glossary entries include a See also section that points to other entries in the glossary, to chapters in this book, or both.
-
-***No Obsolete Terms.*** The glossary contains definitions of current rules terms only. If you’re looking for a term from an earlier version of the fifth edition rules, consult the index.
-
-***Abbreviations.*** The abbreviations listed below appear in this glossary and elsewhere in the rules.
-
-| Abbreviations | Description |
-|--:|---|
-| AC | Armour Class |
-| C | Concentration |
-| CE | Chaotic Evil |
-| CG | Chaotic Good |
-| Cha. | Charisma |
-| CN | Chaotic Neutral |
-| Con. | Constitution |
-| CP | Copper Piece(s) |
-| CR | Challenge Rating |
-| DC | Difficulty Class |
-| Dex. | Dexterity |
-| DM | Dungeon Master |
-| EP | Electrum Piece(s) |
-| GP | Gold Piece(s) |
-| HP | Hit Point(s) |
-| Int. | Intelligence |
-| LE | Lawful Evil |
-| LG | Lawful Good |
-| LN | Lawful Neutral |
-| M | Material component |
-| N | Neutral |
-| NE | Neutral Evil |
-| NG | Neutral Good |
-| NPC | Nonplayer character |
-| PB | Proficiency Bonus |
-| PP | Platinum Piece(s) |
-| R | Ritual |
-| S | Somatic component |
-| SP | Silver Piece(s) |
-| Str. | Strength |
-| V | Verbal component |
-| Wis. | Wisdom |
-| XP | Experience Point(s) |
-
-
-## Rules Definitions
-
-Here are definitions of various rules.
-
----
-
-### Ability Check
-
-An ability check is a D20 Test that represents using one of the six abilities—or a specific skill associated with an ability—to overcome a challenge.
+These are Rule Glossary, keep in mind some rule glossary has been changed to suit Crown & Misery campaign.
 
 ---
 
@@ -130,12 +71,6 @@ Your base AC calculation is 10 plus your Dexterity modifier. If a rule gives you
 ### Armour Training
 
 Armour training allows you to use armour of a certain category without the following drawbacks. If you wear Light, Medium, or Heavy armour and lack training with it, you have Disadvantage on any D20 Test that involves Strength or Dexterity, and you can't cast spells. If you use a *Shield* and lack training with it, you don't gain its AC bonus.
-
----
-
-### Attack Roll
-
-An attack roll is a D20 Test that represents making an attack with a weapon, an Unarmed Strike, or a spell.
 
 ---
 
@@ -204,12 +139,6 @@ Bright Light is normal illumination.
 
 ---
 
-### Burrow Speed
-
-A creature that has a Burrow Speed can use that speed to move through sand, earth, mud, or ice. The creature can't burrow through solid rock unless the creature has a trait that allows it to do so.
-
----
-
 ### Campaign
 
 A campaign is a series of adventures.
@@ -267,12 +196,6 @@ Challenge Rating (CR) summarizes the threat a monster poses to a group of four p
 ### Character Sheet
 
 A character sheet is a paper or digital record that you use to track your character's information.
-
----
-
-### Climb Speed
-
-A Climb Speed can be used in place of Speed to traverse a vertical surface without expending the extra movement normally associated with climbing.
 
 ---
 
@@ -399,7 +322,21 @@ A Cylinder's point of origin is included in the area of effect.
 
 ### D20 Test
 
-D20 Tests encompass the three main d20 rolls of the game: ability checks, attack rolls, and saving throws. If something in the game affects D20 Tests, it affects all three of these rolls. The DM determines whether a D20 Test is warranted in a given circumstance.
+D20 Tests encompass the three main d20 rolls of the game: **Ability Checks**, **Attack Rolls**, and **Saving Throws**. If something in the game affects D20 Tests, it affects all three of these rolls. The DM determines whether a D20 Test is warranted in a given circumstance.
+
+It is comprised of three types of roll.
+
+#### Ability Check
+
+An :d20-check: **Ability Check** is a D20 Test that represents using one of the six abilities—or a specific skill associated with an ability—to overcome a challenge.
+
+#### Attack Roll
+
+An :d20-attack: **Attack Roll** is a D20 Test that represents making an attack with a weapon, an Unarmed Strike (Damage), or a spell.
+
+#### Saving Throw
+
+A :d20-save: **Saving Throw**—also called a save—represents an attempt to avoid or resist a threat. You normally make a saving throw only when a rule requires you to do so, but you can decide to fail the save without rolling. The result of a save is detailed in the effect that allowed it. If a target is forced to make a save and lacks the ability score used by it, the target automatically fails.
 
 ---
 
@@ -466,7 +403,7 @@ A player character must make a Death Saving Throw (also called a Death Save) if 
 
 ### Difficult Terrain
 
-If a space is Difficult Terrain, every foot of movement in that space costs 1 extra foot. For example, moving 5 feet through Difficult Terrain costs 10 feet of movement. Difficult Terrain isn't cumulative; either a space is Difficult Terrain or it isn't.
+If a space is *Difficult Terrain*, every foot of movement in that space costs 1 extra foot. For example, moving 5 feet through Difficult Terrain costs 10 feet of movement. Difficult Terrain isn't cumulative; either a space is Difficult Terrain or it isn't.
 
 A space is Difficult Terrain if the space contains any of the following or something similar:
 
@@ -496,8 +433,6 @@ An area with Dim Light is Lightly Obscured.
 If you have Disadvantage on a D20 Test, roll two d20s and use the lower roll. A roll can't be affected by more than one Disadvantage, and Advantage and Disadvantage on the same roll cancel each other.
 
 ---
-
-
 
 ### Emanation 
 
@@ -536,12 +471,6 @@ As they overcome challenges and complete adventures, characters earn Experience 
 Expertise is a feature that enhances your use of a skill proficiency. When you make an ability check with a skill proficiency in which you have Expertise, your Proficiency Bonus is doubled for that check unless the bonus is doubled by another feature.
 
 If you gain Expertise, you gain it in one skill in which you have proficiency. You can't have Expertise in the same skill proficiency more than once.
-
----
-
-### Fly Speed
-
-A Fly Speed can be used to travel through the air. While you have a Fly Speed, you can stay aloft until you land, fall, or die.
 
 ---
 
@@ -843,12 +772,6 @@ Save is another name for a saving throw.
 
 ---
 
-### Saving Throw
-
-A saving throw—also called a save—represents an attempt to avoid or resist a threat. You normally make a saving throw only when a rule requires you to do so, but you can decide to fail the save without rolling. The result of a save is detailed in the effect that allowed it. If a target is forced to make a save and lacks the ability score used by it, the target automatically fails.
-
----
-
 ### Shape-Shifting
 
 If an effect, such as Wild Shape or the *Polymorph* spell, lets you shape-shift, its description specifies what happens to you. Unless that description says otherwise, any ongoing effects on you—conditions, spells, curses, and the like—carry over from one form to the other. You revert to your true form if you die.
@@ -888,17 +811,33 @@ A creature or an object belongs to a size category: Tiny, Small, Medium, Large, 
 
 ### Skill
 
-A skill is an *area of specialization* associated with an ability check. If you have proficiency in a skill, you can add your Proficiency Bonus when you make an ability check associated with that skill.
+A skill is an *area of specialization* associated with an Ability Check. If you have proficiency in a skill, you can add your Proficiency Bonus when you make an ability check associated with that skill.
 
 ---
 
 ### Speed
 
-A creature has a Speed, which is the distance in feet the creature can cover when it moves on its turn.
+A creature has a :rsc-speed: **Speed**, which is the distance in feet the creature can cover when it moves on its turn.
 
-***Special Speeds.*** Some creatures have special speeds, such as a Burrow Speed, Climb Speed, Fly Speed, or Swim Speed, each of which is defined in this glossary. If you have more than one speed, choose which one to use when you move; you can switch between the speeds during your move. Whenever you switch, subtract the distance already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can't use the new speed during the current move. For example, if you have a Speed of 30 and a Fly Speed of 40, you could fly 10 feet, walk 10 feet, and leap into the air to fly 20 feet more.
+***Special Speeds.*** Some creatures have special speeds, such as a **Burrow Speed**, **Climb Speed**, **Fly Speed**, or **Swim Speed**. If you have more than one speed, choose which one to use when you move; you can switch between the speeds during your move. Whenever you switch, subtract the distance already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can't use the new speed during the current move. For example, if you have a Speed of 30 and a Fly Speed of 40, you could fly 10 feet, walk 10 feet, and leap into the air to fly 20 feet more.
 
 ***Changes to Your Speeds.*** If an effect increases or decreases your Speed for a time, any special speed you have increases or decreases by an equal amount for the same duration. For example, if your Speed is reduced to 0 and you have a Climb Speed, your Climb Speed is also reduced to 0. Similarly, if your Speed is halved and you have a Fly Speed, your Fly Speed is also halved.
+
+#### Burrow Speed
+
+A creature that has a Burrow Speed can use that speed to move through sand, earth, mud, or ice. The creature can't burrow through solid rock unless the creature has a trait that allows it to do so.
+
+#### Climb Speed
+
+A Climb Speed can be used in place of Speed to traverse a vertical surface without expending the extra movement normally associated with climbing.
+
+#### Fly Speed
+
+A Fly Speed can be used to travel through the air. While you have a Fly Speed, you can stay aloft until you land, fall, or die.
+
+#### Swim Speed
+
+A Swim Speed can be used to swim without expending the extra movement normally associated with swimming.
 
 ---
 
@@ -981,12 +920,6 @@ A stat block contains the game slatistics of a monster. Each stat block includes
 ***Saving Throw Effect Notation.*** If an effect forces a saving throw, the effect's entry starts by identifying the kind of saving throw required and then provides the save's DC, a description of which creatures must make the save, and what happens on a failed or a successful save.
 
 ***Damage Notation.*** A stat block usually provides both a static number and a die expression for each instance of damage. For example, an attack might deal 4 (1d4 + 2) damage on a hit. The DM determines whether you use the static number or the die expression in parentheses; you don't use both.
-
----
-
-### Swim Speed
-
-A Swim Speed can be used to swim without expending the extra movement normally associated with swimming.
 
 ---
 
