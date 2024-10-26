@@ -4,15 +4,21 @@ icon: die/d20
 
 # D20 Tests
 
-When the outcome of an action is uncertain, the game uses a d20 roll to determine success or failure. These rolls are called **D20 Tests**, and they come in three kinds: attack rolls – which are rolled against the target's **Armour Class** (**AC**), :d20-check:**Ability Check** – which are rolled against the check's Difficulty Class (DC), and :d20-save:**Saving Throws** – which are rolled against a save DC. They follow these steps:
+When the outcome of an action is uncertain, the game uses a d20 roll to determine success or failure. These rolls are called **D20 Tests**, and they come in three kinds: 
 
-1. **Roll a 1d20.** You always want to roll high. If the roll has :d20-adv: Advantage or :d20-disadv: Disadvantage, you roll two d20s, but you use the number from only one of them–the higher once if you have :d20-adv: Advantage or the lower one if you have :d20-disadv: Disdvantage.
+- :d20-attack: **Attack Rolls** --> rolled against the target's *AC*
+- :d20-check: **Ability Check** –-> rolled against the check's Difficulty Class (DC)
+- :d20-save: **Saving Throws** –-> rolled against a Save DC. 
+
+They follow these steps:
+
+1. **Roll a 1d20.** You always want to roll high. If the roll has :d20-adv: **Advantage** or :d20-disadv: **Disadvantage**, you roll two d20s, but you use the number from only one of them–the higher once if you have :d20-adv: **Advantage** or the lower one if you have :d20-disadv: **Disdvantage**.
 
 2. **Add Modifiers.** Add these modifiers to the number rolled on the d20:
 
-- **The Relevant Ability Modifier.** This chapter and the rules glossary explain which ability modifiers to use for various D20 Tests.
-- **Your Proficiency Bonus If Relevant.** Each creature has a Proficiency Bonys, a number added when making a D20 Test that uses something such as a skill, in which the creature has prodiciency.
-- **Circumstantial Bonuses and Penalties.** A class feature, a spell, or another rule might give a bonus or penalty to the die roll.
+    - ***The Relevant Ability Modifier.*** This chapter and the rules glossary explain which ability modifiers to use for various D20 Tests.
+    - ***Your Proficiency Bonus If Relevant.*** Each creature has a Proficiency Bonys, a number added when making a D20 Test that uses something such as a skill, in which the creature has prodiciency.
+    - ***Circumstantial Bonuses and Penalties.*** A class feature, a spell, or another rule might give a bonus or penalty to the die roll.
 
 3. **Compare the Total to a Target Number.** If the total of the d20 and its modifiers **equals** or **exceeds** the target humber, the D20 Test succeeds. Otherwise, it fails. The Dungeon Master determines the target number and tells players whenever their roll are successfull. The target number for an Ability Check or a Saving Throw is called a Difficulty Class (Dc). The number for an Attack Roll is called an Armour Class (AC), which appears on a character sheet or in a stat block.
 
@@ -20,7 +26,7 @@ When the outcome of an action is uncertain, the game uses a d20 roll to determin
   
 An :d20-check: **Ability Check** is an attempt to succeed at a specific task, and is rolled against a **Difficulty Class** (**DC**) set by the DM for that task. If the final result of the roll equals or exceeds the DC, the attempt is successful.
 
-!!! quote ""
+!!! info ""
 
     <p style="text-align: center;"> D20 + Ability Modifier </p>
 
@@ -28,13 +34,13 @@ For every :d20-check: **Ability Check**, the DM decides which of the six abiliti
 
 ### Ability Modifier
 
-An Ability Check is named for the ability modifier is uses: a Strength Check, an Intelligence check, and so on. Different ability checks are called for in different sutiation, depending on which ability is most relevant. See the Ability Check Examples table of examples of each check's to use.
+An **Ability Check** is named for the ability modifier is uses: a Strength Check, an Intelligence check, and so on. Different ability checks are called for in different sutiation, depending on which ability is most relevant. See the Ability Check Examples table of examples of each check's to use.
 
 ##### Ability Check Examples
 
 | Ability | Make a Check to... |
 |---|---|
-|Strength| Lift, Push, or break something |
+| Strength| Lift, Push, or break something |
 | Dexterity | Move numbly, quickly, or quietly |
 | Constitution | Push your body beyond normal limits |
 | Intelligence | Reason or remember |
@@ -91,8 +97,6 @@ You add your Proficieny Bonus to your saving throw if you have proficiency in th
 
 The Difficulty Class for a Saving Throw is determined by the effect that causes it or by the DM.
 
----
-
 ## Attack Roll
 
 When a creature attacks a target, it makes an attack roll against the target's AC to determine whether the attack is a hit or a miss. If the attack is a hit, it generally deals damage, and the attacker rolls for damage.
@@ -114,7 +118,7 @@ The Attack Roll Abilities table shows which ability modifier to use for differen
 |---|---|
 | Strength | Melle attack with a weapon or an Unarmed Strike |
 | Dexterity| Ranged attack with a weapon |
-| Varies | Spelel attack (The Ability used is determined by the spellcaster's spellcasting feature) |
+| Varies | Spell attack (The Ability used is determined by the spellcaster's spellcasting feature) |
 
 ### Armour Class
 
