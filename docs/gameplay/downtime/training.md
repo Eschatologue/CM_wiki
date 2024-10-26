@@ -13,22 +13,22 @@ With sufficient free time and the guidance of an instructor, a character may use
 
 Receiving training for a specific proficiency typically takes at least ten workweeks, but this time is reduced by a number of workweeks equal to the character's Intelligence modifier (an Intelligence penalty doesn't increase the time needed). 
 
-The Training Price Table below shows the types of training available, as well as the silver cost per workweek for each proficiency. In addition to the monetary cost, training requires the availability of a qualified instructor.
+The Training Price Table below shows the types of training available, as well as the silver cost per workweek for each proficiency. In addition to the monetary cost, training requires the character to meet the prerequisite and also the availability of a qualified instructor.
 
 ##### Training Price Table
 
-| Training | SP per 1 workweek |
-|:--|--:|
-| 1 Tool Proficiency | 250 SP |
-| 1 Skill Proficiency | 250 SP |
-| 1 Skill Expertise | 500 SP |
-| 1 Language, Standard | 250 SP |
-| 1 Language, Rare | 400 SP |
-| Armour Training, Light | 500 SP |
-| Armour Training, Medium | 800 SP |
-| Armour Training, Heavy | 1200 SP |
-| Simple Weapon Proficiency | 100 SP |
-| Martial Weapon Proficiency | 500 SP |
+| Training | Prerequisite | SP per 1 workweek |
+|:--|---|--:|
+| 1 Tool Proficiency | - | 250 SP |
+| 1 Skill Proficiency | - | 250250 SP |
+| 1 Skill Expertise | - | 500 SP |
+| 1 Language, Standard | - |250 SP |
+| 1 Language, Rare | Know at least 4 Standard Language | 400 SP |
+| Armour Training, Light (Includes Shield) | - | 500 SP |
+| Armour Training, Medium | Light Armour Training | 800 SP |
+| Armour Training, Heavy | Medium Armour Training | 1200 SP |
+| Simple Weapon Proficiency | - | 100 SP |
+| Martial Weapon Proficiency | Simple Weapon Proficiency | 500 SP |
 
 ## Complications
 
