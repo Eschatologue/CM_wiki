@@ -14,33 +14,9 @@ status: homebrew
 
 In this campaign, inventories are managed differently than in your typical D&D game where items have weight (ain't nobody got time for that). Instead, for the sake of convenience, inventory is calculated using slots, similar to some video games.
 
-## Inventory Capacity
+## Carrying Capacity
 
-Your size and Strength score determine the amount of inventory slots that you have, as shown in the Inventory Capacity table. The table also shows the maximum weight you can drag, lift, or push.
-
-While dragging, lifting, or pushing weight in excess of the maximum weight you can carry, your Speed can be no more than 5 feet.
-
-| Creature Size | Inventory Slots | Drag/Lift/Push |
-|---|---|---|
-| Tiny | Str. ÷ 2 | Str. |
-| Small/Medium | Str. | Str. × 2 |
-| Large | Str. × 2 | Str. × 4 |
-| Huge | Str. × 4 | Str. × 8 |
-| Gargantuan | Str. × 8 | Str. × 16 |
-
-### Weight to Slots Calculations
-
-Each item in your inventory occupies a certain number of slots based on its weight. This system simplifies item management by categorising items into four weight classes:
-
-| Weight Class | Abbrv. | Weight Range | Inventory Slots Used |
-|---|:-:|---|---|
-| **Diminutive** | XS- | Less than 1 lb. | 5 Items per 1 Slot |
-| **Compact** | S- | 1 lb. to 5 lbs. | 2 Items per 1 Slot |
-| **Moderate** | M- | 6 lbs. to 10 lbs. | 1 Item per 1 Slot |
-| **Cumbersome** | L- | 11 lbs. to 20 lbs. | 2 Slots for 1 Item |
-| **Bulky** | XL- | 21 lbs. to 30 lbs. | 3 Slots for 1 Item |
-| **Enormous** | XXL- | 31 lbs. to 50 lbs. | 4 Slots for 1 Item |
-| **Monstrous** | 3L. | 51 lbs. or more | 6 Slots for 1 Item |
+--8<-- "docs/glossary.md:carrying-capacity"
 
 ## Additional Spaces
 

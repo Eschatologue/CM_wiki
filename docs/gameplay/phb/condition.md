@@ -18,6 +18,8 @@ If multiple effects impose the same condition on you, each instance of the condi
 
 The following conditions are defined as follow:
 
+---
+
 ### Blinded
 
 While you have the Blinded condition, you experience the following effects.

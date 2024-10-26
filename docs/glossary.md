@@ -224,18 +224,37 @@ A cantrip is a level 0 spell, which is cast without a spell slot.
 
 ### Carrying Capacity
 
-Your size and Strength score determines the maximum weight in pounds that you can carry, as shown in the Carrying Capacity table. The table also shows the maximum weight you can drag, lift or push.
+<!-- --8<-- [start:carrying-capacity] -->
+
+Your size and Strength score determine the amount of inventory slots that you have, as shown in the Carrying Capacity table. The table also shows the maximum weight you can drag, lift, or push.
 
 While dragging, lifting, or pushing weight in excess of the maximum weight you can carry, your Speed can be no more than 5 feet.
 
-###### Carrying Capacity
-| Creature Size | Carry          | Drag/Lift/Push |
-|---------------|----------------|----------------|
-| Tiny          | Str. × 7.5 lb. | Str. × 15 lb.  |
-| Small/Medium  | Str. × 15 lb.  | Str. × 30 lb.  |
-| Large         | Str. × 30 lb.  | Str. × 60 lb.  |
-| Huge          | Str. × 60 lb.  | Str. × 120 lb. |
-| Gargantuan    | Str. × 120 lb. | Str. × 240 lb. |
+##### Carrying Capacity 
+
+| Creature Size | Inventory Slots | Drag/Lift/Push |
+|---|---|---|
+| Tiny | Str. ÷ 2 | Str. |
+| Small/Medium | Str. | Str. × 2 |
+| Large | Str. × 2 | Str. × 4 |
+| Huge | Str. × 4 | Str. × 8 |
+| Gargantuan | Str. × 8 | Str. × 16 |
+
+***Weight to Slots Calculations.*** Each item in your inventory occupies a certain number of slots based on its weight based on the Item Weight table. This system simplifies item management by categorising items into four weight classes:
+
+##### Item Weight
+
+| Weight Class | Abbrv. | Weight Range | Inventory Slots Used |
+|---|:-:|---|---|
+| **Diminutive** | XS- | Less than 1 lb. | 5 Items per 1 Slot |
+| **Compact** | S- | 1 lb. to 5 lbs. | 2 Items per 1 Slot |
+| **Moderate** | M- | 6 lbs. to 10 lbs. | 1 Item per 1 Slot |
+| **Cumbersome** | L- | 11 lbs. to 20 lbs. | 2 Slots for 1 Item |
+| **Bulky** | XL- | 21 lbs. to 30 lbs. | 3 Slots for 1 Item |
+| **Enormous** | XXL- | 31 lbs. to 50 lbs. | 4 Slots for 1 Item |
+| **Monstrous** | 3L. | 51 lbs. or more | 6 Slots for 1 Item |
+
+<!-- --8<-- [end:carrying-capacity] -->
 
 ---
 
