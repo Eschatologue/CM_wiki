@@ -109,7 +109,7 @@ You ignore the Loading property of crossbows.
 **Firing in Melee**  
 Being within 5 feet of an enemy doesn't impose Disadvantage on your attack rolls with crossbows.
 
-**Dual Wielding**
+**Dual Wielding**  
 When you make the extra attack of the Light weapon property, you can add your Ability Modifier to the damage of the extra attack if that attack is with a crossbow that has the Light property.
 
 ---
@@ -227,6 +227,8 @@ You have Advantage on attack rolls against a creature Grappled by you.
 
 **Fast Wrestler**  
 Your Speed isn't halved when you move a creature Grappled by you if the creature is your size or smaller.
+
+---
 
 ### Great Weapon Master
 
