@@ -20,7 +20,7 @@ The Training Price Table below shows the types of training available, as well as
 | Training | Prerequisite | SP per 1 workweek |
 |:--|---|--:|
 | 1 Tool Proficiency | - | 250 SP |
-| 1 Skill Proficiency | - | 250250 SP |
+| 1 Skill Proficiency | - | 250 SP |
 | 1 Skill Expertise | - | 500 SP |
 | 1 Language, Standard | - |250 SP |
 | 1 Language, Rare | Know at least 4 Standard Language | 400 SP |
