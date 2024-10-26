@@ -2,15 +2,33 @@
 icon: material/book-plus
 hide:
     - toc
+status: homebrew
 ---
 
 # Downtime Activity: Training (Revised)
 
-Given enough free time and the services of an instructor, a character can learn a language, or a proficiency.
+With sufficient free time and the guidance of an instructor, a character may use downtime to learn a new language, gain a new proficiency, or even advance to Expertise in an existing proficiency.
 
 ## Resources
 
-Receiving training in a language, tool or other specific proficiency typically takes at least ten workweeks, but this time is reduced by a number of workweeks equal to the character's Intelligence modifier (an Intelligence penalty doesn't increase the time needed). Training costs 250 SP per workweek.
+Receiving training for a specific proficiency typically takes at least ten workweeks, but this time is reduced by a number of workweeks equal to the character's Intelligence modifier (an Intelligence penalty doesn't increase the time needed). 
+
+The Training Price Table below shows the types of training available, as well as the silver cost per workweek for each proficiency. In addition to the monetary cost, training requires the availability of a qualified instructor.
+
+##### Training Price Table
+
+| Training | SP per 1 workweek |
+|:--|--:|
+| 1 Tool Proficiency | 250 SP |
+| 1 Skill Proficiency | 250 SP |
+| 1 Skill Expertise | 500 SP |
+| 1 Language, Standard | 250 SP |
+| 1 Language, Rare | 400 SP |
+| Armour Training, Light | 500 SP |
+| Armour Training, Medium | 800 SP |
+| Armour Training, Heavy | 1200 SP |
+| Simple Weapon Proficiency | 100 SP |
+| Martial Weapon Proficiency | 500 SP |
 
 ## Complications
 
