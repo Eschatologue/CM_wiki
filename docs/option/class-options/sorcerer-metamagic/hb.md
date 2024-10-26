@@ -10,9 +10,17 @@ The list below contains additional Metamagic available for Crown & Misery campai
 
 ### Aftershock
 
-**Cost:** 1-10 :class-phb24-sorcerer: Sorcery Point(s)
+**Cost:** 3 :class-phb24-sorcerer: Sorcery Point(s)
 
-When you cast a damaging spell that affect an Area of Effect and force the creatures to make a saving Throw, you can spend Sorcery Point(s) equal to 1 + the level of the spell to create an additional Area of Effect within a number of feets equal to 10 times your spellcasting ability modifier. of the original. The new area deals half the original spell's damage and cause the same secondary effects (if any).
+When you cast a damaging spell with an area of effect that forces creatures to make a saving throw, you can spend 3 Sorcery Point(s) to create a second, separate area of effect. This new area must be within a number of feet equal to 10 times your spellcasting ability modifier, measured from the centre of the original area. Creatures in this new area take ^^half^^ the original spell's damage and suffer the same secondary effects, if any.
+
+---
+
+### Borrowed Spell
+
+**Cost:** 2 :class-phb24-sorcerer: Sorcery Point(s)
+
+You can spend 2 Sorcery Point(s) to touch a willing creature within 5 feet and cast a spell known by that creature, using one of your spell slots. The spell must be of a level for which you have spell slots, and you use your own spellcasting ability to cast it.
 
 ---
 
@@ -56,9 +64,9 @@ When you fail an :d20-check: Ability Check, you can take a :rsc-reaction: Reacti
 
 ### Misdirection
 
-**Cost:** 2 :class-phb24-sorcerer: Sorcery Point(s)
+**Cost:** 1 :class-phb24-sorcerer: Sorcery Point(s)
 
-When you cast a spell that originates from you, you can spend 2 Sorcery Point(s) to cause the spell to appear as if it had originated from a point you can see within 30 feet.
+When you cast a spell that originates from you, you can spend 1 Sorcery Point(s) to cause the spell to appear as if it had originated from a point you can see within 30 feet.
 
 ---
 
@@ -80,10 +88,38 @@ You can use this Metamagic even if you have already used a different Metamagic o
 
 ---
 
+### Punch Spell
+
+**Cost:** 1 :class-phb24-sorcerer: Sorcery Point(s)
+
+When you cast a spell that requires you to make a ranged spell attack while there is an enemy creature within 5 feet of you, you can spend 1 Sorcery Point to turn it into a melee spell attack instead. You have Advantage for this melee spell attack.
+
+---
+
+### Recycled Spell
+
+**Cost:** 1 :class-phb24-sorcerer: Sorcery Point(s)
+
+When you cast a spell, you can spend 1 Sorcery Point to possibly conserve your arcane energy. If the spell misses or fails to take effect, you can take a Reaction to regain an expended spell slot of at least one level lower then the spell slot you use to cast the spell.
+
+---
+
 ### Resolute Spell
 
 **Cost:** 2 :class-phb24-sorcerer: Sorcery Point(s)
 
-When you cast a spell that forces a Constitution or a Wisdom :d20-save: saving throw, you can spend 2 Sorcery Point(s) and change the spell's :d20-save: saving throw to target the other Ability Score instead.
+When you cast a spell that forces a Constitution or a Wisdom  saving throw, you can spend 2 Sorcery Point(s) and change the spell's saving throw to target the other Ability Score instead.
 
-This Metamagic only changes the initial save. Any subsequent :d20-save: Saving Throws target the original Ability Score.
+This Metamagic only changes the initial save. Any subsequent saving throws targets the original Ability Score.
+
+---
+
+### Unerring Spell
+
+**Cost:** 1 :class-phb24-sorcerer: Sorcery Point(s)
+
+When you cast a spell that requires an attack roll or a Dexterity saving throw, you can spend 1 Sorcery Point to ignore the effects of Half Cover and Three-Quarters cover.
+
+---
+
+--8<-- "includes\snippets\covers.md"
