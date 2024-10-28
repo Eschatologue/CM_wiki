@@ -116,7 +116,7 @@ When you make an attack with a Cold Weapon that has :weapon-prop-heavy: **Heavy*
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-You gain proficiency with Shields and it can be used as a Martial Melee Weapon that deal :dmg-blunt: Bludgeoning damage equal to 2d4 + your Strength modifier. If you are wielding a Shield and no other weapon, you gain a +1 bonus to Shield attack rolls and your AC. 
+You gain training with Shields and it can be used as a Martial Melee Weapon. The Shield deals :dmg-blunt: Bludgeoning damage equal to your Strength modifier plus a number of d4s equal to the AC granted by the Shield. You can make this attack as a :rsc-b: **Bonus Action**.
 
 ---
 
@@ -128,9 +128,9 @@ You specialise one weapon rather than many. Choose one Weapon or Firearm that yo
 
 | Orginal Damage Die |     | Signature Damage Die | Orginal Damage Die |     | Signature Damage Die |
 | :----------------: | :-: | :------------------: | :----------------: | :-: | :------------------: |
-|         1          | >>> |         1d4          |     2d4 / 1d8      | >>> |         1d10         |
-|        1d4         | >>> |         1d6          |        1d10        | >>> |         1d12         |
-|        1d6         | >>> |         1d8          |     2d6 / 1d12     | >>> |    2d6 / 1d12 +1*    |
+|         1          | --> |         1d4          |     2d4 / 1d8      | --> |         1d10         |
+|        1d4         | --> |         1d6          |        1d10        | --> |         1d12         |
+|        1d6         | --> |         1d8          |     2d6 / 1d12     | --> |    2d6 / 1d12 +1*    |
 
 You can change your Signature Weapon when you gain a level in a class that has this feat.
 

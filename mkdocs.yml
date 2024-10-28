@@ -164,7 +164,10 @@ nav:
     - Feats: 
       - option/feat/index.md
       - Origin Feats: option/feat/feat-origin.md
-#      - General Feats: option/feat/feat-general.md
+      - General Feats: 
+        - option/feat/feat-general/index.md
+        - PHB'24: option/feat/feat-general/phb24.md
+        - Homebrew: option/feat/feat-general/hb.md
       - Advanced Feats: option/feat/feat-advanced.md
       - Epic Boon: option/feat/feat-boon.md
       - Fighting Style: option/feat/feat-fighting-style.md
@@ -177,7 +180,7 @@ nav:
       - Eldritch Invocations: 
           - option/class-options/warlock-invocations/index.md
           - PHB'24: option/class-options/warlock-invocations/phb24.md
-          - Supplemental: option/class-options/warlock-invocations/supplemental.md
+          - Supp.: option/class-options/warlock-invocations/supplemental.md
           - Homebrew: option/class-options/warlock-invocations/hb.md
       - Combat Manoeuvre: option/class-options/fighter-manoeuvre.md
       - Wu Jen Spells: option/class-options/wu-jen-spells.md

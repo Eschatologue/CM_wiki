@@ -5,13 +5,13 @@ icon: material/cards-playing-diamond
 
 # General Feat
 
-**General Feats** are abilities that characters can select upon reaching certain levels in their class. Most general feats grant characters a specific ability score improvement or a unique capability.
+**General Feats** are abilities that characters can select upon reaching certain levels in their class. Most general feats grant characters a specific ability score improvement and other unique capability.
 
 The table below lists all available feats, divided into two categories: *PHB '24* and *Homebrew*.
 
 ##### General Feats
 
-|  |  | PHB'24 G. Feats |  |  |
+|  |  | PHB'24 |  |  |
 |:-:|:-:|:-:|:-:|:-:|
 | [Ability Score Improvement] | [Durable] | [Lightly Armored] | [Polearm Master] | [Slasher] |
 | [Actor] | [Elemental Adept] | [Mage Slayer] | [Resilient] | [Speedy] |
@@ -25,15 +25,24 @@ The table below lists all available feats, divided into two categories: *PHB '24
 
 ##### Homebrew Feats
 
-[Battlecaster]
-[Cartomancy]
-[Flash Recall]
-[Gunner]
-[Masterful Technique]
-[Metamagic Adept]
-[Overwhelming Strength]
-[Remarkable Recovery]
-[Sword Dancing]
+|  | Homebrew |  |
+|:---:|:---:|:---:|
+| [Battlecaster] | [Helpful Insights] | [Remarkable Recovery] |
+| [Cartomancy] | [Masterful Technique] | [Rich in History] |
+| [Flash Recall] | [Metamagic Adept] | [Sword Dancing] |
+| [Gunner] | [Overwhelming Strength] |  |
+
+[Battlecaster]: hb.md#battlecaster
+[Cartomancy]: hb.md#cartomancy
+[Flash Recall]: hb.md#flash-recall
+[Gunner]: hb.md#gunner
+[Helpful Insights]: hb.md#helpful-insights
+[Masterful Technique]: hb.md#masterful-technique
+[Metamagic Adept]: hb.md#metamagic-adept
+[Overwhelming Strength]: hb.md#overwhelming-strength
+[Remarkable Recovery]: hb.md#remarkable-recovery
+[Rich in History]: hb.md#rich-in-history
+[Sword Dancing]: hb.md#sword-dancing
 
 [Ability Score Improvement]: phb24.md#ability-score-improvement  
 [Actor]: phb24.md#actor  

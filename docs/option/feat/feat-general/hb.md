@@ -80,6 +80,23 @@ Immediately after Initiative is rolled, you can use your :rsc-reaction: Reaction
 
 ---
 
+### Helpful Insights
+
+*General Feat (Prerequisites: Level 4+)*
+
+You always seem to have helpful advice for any situation. You gain the benefits below:
+
+**Ability Score Increase**  
+You increase your Intelligence or Wisdom score by 1, up to a maximum of 20.
+
+
+**Swift Help**  
+You can take the Help action as a Bonus Action.
+
+If you use a Help action to give Advantage on an ability check with a skill or tool you are proficient in, the target can treat a result of 7 or lower on the d20 as an 8.
+
+---
+
 ### Masterful Technique
 
 *General Feat (Prerequisite: Level 4+, At least one Fighting Style Feat)*  
@@ -144,6 +161,20 @@ Once per Long Rest, when you would be reduced to 0 Hit Points, make a :d20-save:
     
 **Fast Healing**  
 Whenever you regain Hit Points as a result of a spell, potion, or class feature (but not this feat), you regain additional Hit Points equal to your Constitution modifier (minimum of 1).
+
+---
+
+### Rich in History
+
+*General Feat (Prerequisite: Level 4+, History Proficiency)* 
+
+You gain the following benefits.
+
+**Ability Score Increase**  
+Increase one ability score of your by 1, to a maximum of 20.
+
+**Lessons of Life**  
+You gain two Origin Feats of your choice in which you meet the prerequisites. You cannot gain the same Feat twice.
 
 ---
 
