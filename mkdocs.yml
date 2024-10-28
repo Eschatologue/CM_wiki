@@ -164,7 +164,7 @@ nav:
     - Feats: 
       - option/feat/index.md
       - Origin Feats: option/feat/feat-origin.md
-      - General Feats: option/feat/feat-general.md
+#      - General Feats: option/feat/feat-general.md
       - Advanced Feats: option/feat/feat-advanced.md
       - Epic Boon: option/feat/feat-boon.md
       - Fighting Style: option/feat/feat-fighting-style.md
