@@ -48,7 +48,7 @@ You gain new way to use your Heaven's Maledict.
 
 ***Lure of Blaze.*** While fishing, you can expend a ^^Maledict Die^^ and add the die to the dice rolls you make to fish before any multipliers.
 
-***Phoenix Dive.*** As a :rsc-bonus-action: Bonus Action, you can expend a number of Maledict Dice up to your Rage Damage bonus. Roll the dice, and you gain the ability to fly and dive to a point you can see within 60 feet. Immediately on landing, blazing wave burst outward from you in a 10-foot Emanation. Each creature within the area must make a Dexterity saving throw, taking :dmg-fire: Fire damage equal to the roll result on a failed save or half as much damage on a successful one. This benefits from your Rage damage bonus if your **Rage** is active.
+***Phoenix Dive.*** As a :rsc-b: Bonus Action, you can expend a number of Maledict Dice up to your Rage Damage bonus. Roll the dice, and you gain the ability to fly and dive to a point you can see within 60 feet. Immediately on landing, blazing wave burst outward from you in a 10-foot Emanation. Each creature within the area must make a Dexterity saving throw, taking :dmg-fire: Fire damage equal to the roll result on a failed save or half as much damage on a successful one. This benefits from your Rage damage bonus if your **Rage** is active.
 
 ***Searing Enigma.*** When you fail an :d20-check: ability check or a :d20-save: saving throw, you can expend a ^^Maledict Die^^, roll it and add the result to the check, potentialy turning a failure to a success. The Dice is not expended if you still fail.
 

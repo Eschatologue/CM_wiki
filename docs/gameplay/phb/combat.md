@@ -47,7 +47,7 @@ During your turn, you can do the following on any order:
 
 - Move up to your :rsc-speed: **Speed**
 - Take one :rsc-action: **Action**
-- Take one :rsc-bonus-action: **Bonus Action** (If you have a feature that uses it)
+- Take one :rsc-b: **Bonus Action** (If you have a feature that uses it)
 
 #### Communicating
 

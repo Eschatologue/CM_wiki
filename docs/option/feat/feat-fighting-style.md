@@ -180,6 +180,6 @@ Moreover, you also use your Strength instead of your Dexterity to fufill the :we
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-While wielding a single weapon with the :weapon-prop-versatile: **Versatile** property and no shield, you gain a +1 bonus to your attack roll and Damage Roll with that weapon. While doing so, you can also use your :rsc-bonus-action: **Bonus Action** to make a single Unarmed Strike (Grapple or Shove only) or take the Utilise action.
+While wielding a single weapon with the :weapon-prop-versatile: **Versatile** property and no shield, you gain a +1 bonus to your attack roll and Damage Roll with that weapon. While doing so, you can also use your :rsc-b: **Bonus Action** to make a single Unarmed Strike (Grapple or Shove only) or take the Utilise action.
 
 ---

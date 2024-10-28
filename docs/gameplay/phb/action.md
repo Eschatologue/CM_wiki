@@ -33,7 +33,7 @@ Actions can come up in other situations too: In a social interactions, you can t
 
 ## Bonus Actions
 
-Various class features, spells, and other abilities let you take an additional action on your turn called a :rsc-bonus-action: **Bonus Action**. The Cunning Action feature for a Rogue, allows it to take a Bonus Action. You can take a Bonus Action **only** when a special ability, a spell, or another feature of the game states that you can do something as a Bonus Action. You otherwise don't have a Bonus Action to take.
+Various class features, spells, and other abilities let you take an additional action on your turn called a :rsc-b: **Bonus Action**. The Cunning Action feature for a Rogue, allows it to take a Bonus Action. You can take a Bonus Action **only** when a special ability, a spell, or another feature of the game states that you can do something as a Bonus Action. You otherwise don't have a Bonus Action to take.
 
 You choose when to take a Bonus Action during your turn unless the Bonus Action's timing is specified. Anything that deprives you of the ability to take Actions also prevents you from taking a Bonus Action.
 
@@ -63,7 +63,7 @@ Certain features, such as the Extra Attack feature of the fighter, allow you to 
 
 ### Cast a Spell
 
-**Cost:** :rsc-action: Action, :rsc-bonus-action: Bonus Action, or :rsc-reaction: Reaction
+**Cost:** :rsc-action: Action, :rsc-b: Bonus Action, or :rsc-reaction: Reaction
 
 Spellcasters such as Wizards and Clerics, as well as many monsters, have access to spells and can use them to great effect in combat. 
 

@@ -19,7 +19,7 @@ These paladins share the following tenets:
 
 ### Level 3: Guardian's Mark
 
-As :rsc-bonus-action: **Bonus Action**, you can expend one use of your Channel Divinity to choose a point or a creature within 60 feet, designating its surrounding as a zone of protection, choose one of the following within 60 feet:
+As :rsc-b: **Bonus Action**, you can expend one use of your Channel Divinity to choose a point or a creature within 60 feet, designating its surrounding as a zone of protection, choose one of the following within 60 feet:
 
 - A fixed point on the ground, or
 - A creature (including yourself), which causes the zone to move with them.
@@ -76,7 +76,7 @@ You can use this feature a number of time equals to your **Charisma modifier** (
 
 ### Level 20: Hold the Line
 
-You become an unyielding bulwark, turning aside threats and protecting those within your shielded presence. As a :rsc-bonus-action: **Bonus Action**, you gain the following benefits for 10 minutes. Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending a level 5 spell slot (no action required).
+You become an unyielding bulwark, turning aside threats and protecting those within your shielded presence. As a :rsc-b: **Bonus Action**, you gain the following benefits for 10 minutes. Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 ***Truesight***. You gain *Truesight* with a range of 120 feet.
 

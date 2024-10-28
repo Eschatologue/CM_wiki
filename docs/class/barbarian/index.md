@@ -70,7 +70,7 @@ As a Barbarian, you gain the following class features when you reach the specifi
 
 ### Level 1: Rage
 
-You can imbue yourself with a primal power called Rage, a force that grants you extraordinary might and resilience. You can enter it as a Bonus Action if you aren’t wearing Heavy armour.
+You can imbue yourself with a primal power called Rage, a force that grants you extraordinary might and resilience. You can enter it as a :rsc-b: Bonus Action if you aren’t wearing Heavy armour.
 
 You can enter your Rage the number of times shown for your Barbarian level in the Rages column of the Barbarian Features table. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
 
@@ -86,9 +86,9 @@ While active, your Rage follows the rules below.
 
 ***Duration.*** The Rage lasts until the end of your next turn, and it ends early if you don Heavy armour or have the Incapacitated condition. If your Rage is still active on your next turn, you can extend the Rage for another round by doing one of the following:
 
-- Make an attack roll against an enemy.
-- Force an enemy to make a saving throw.
-- Take a Bonus Action to extend your Rage.
+- Make an :d20-attack: attack roll against an enemy.
+- Force an enemy to make a :d20-save: saving throw.
+- Take a :rsc-b: Bonus Action to extend your Rage.
 
 Each time the Rage is extended, it lasts until the end of your next turn. You can maintain a Rage for up to 10 minutes.
 
@@ -96,18 +96,18 @@ Each time the Rage is extended, it lasts until the end of your next turn. You ca
 
 While you aren't wearing any armour, you can determine your base Armour Class one of the following ways:
 
-:   **Dexterity Based:** 10 + your Dexterity and Constitution modifiers, or 
+:   **Dexterity Based:** 10 + your :ability-dex: Dexterity and :ability-cons: Constitution modifiers, or 
 :   **Strength Based:^CM^** 10 + your Strength and Constitution modifiers. 
 
 You can use a Shield and still gain these benefit.
 
 ### Level 1: Weapon Mastery
 
-Your training with weapons allows you to use the mastery properties of two kinds of Simple or Martial Melee weapons of your choice, such as Greataxes and Handaxes. Whenever you finish a Long Rest, you can do one of the following:
+Your training with weapons allows you to use the mastery properties of two kinds of Simple or Martial Melee weapons of your choice, such as Greataxes and Handaxes. Whenever you finish a Long Rest, you can do *one* of the following:
 
 ***Change Weapon*** 
 
-:   You can practice weapon drills and change one of those weapon choices, or
+:   You can practice weapon drills and change one of those weapon choices
 
 ***Replace Weapon Mastery^CM^*** 
 
@@ -119,11 +119,11 @@ When you reach certain Barbarian levels, you gain the ability to use the mastery
 
 ### Level 2: Danger Sense
 
-You gain an uncanny sense of when things aren’t as they should be, giving you an edge when you dodge perils. You have Advantage on Dexterity saving throws unless you have the Incapacitated condition.
+You gain an uncanny sense of when things aren’t as they should be, giving you an edge when you dodge perils. You have :d20-adv: Advantage on :d20-save: Dexterity saving throws unless you have the Incapacitated condition.
 
 ### Level 2: Reckless Attack
 
-You can throw aside all concern for defense to attack with increased ferocity. When you make your first attack roll on your turn, you can decide to attack recklessly. Doing so gives you Advantage on attack rolls using Strength until the start of your next turn, but attack rolls against you have Advantage during that time.
+You can throw aside all concern for defense to attack with increased ferocity. When you make your first attack roll on your turn, you can decide to attack recklessly. Doing so gives you :d20-adv: Advantage on :d20-attack: attack rolls using :ability-str: Strength until the start of your next turn, but attack rolls against you have :ability-adv: Advantage during that time.
 
 ### Level 3: Barbarian Subclass
 

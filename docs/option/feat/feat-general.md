@@ -759,7 +759,7 @@ You learn the *Thaumaturgy* and *Guidance* cantrip. When you cast those cantrips
 **Hidden Ace**  
 When you finish a Long Rest, you can choose two spell from your class's spell list and imbue those spell into cards. The chosen spell must have a casting time of 1 action, and it must be a level for which you have :rsc-spell-slot: Spell Slots. The card remains imbued with this spell for 8 hours. 
     
-While the card is imbued with the spell, you can use a :rsc-bonus-action: Bonus Action to flourish the card and cast the spell within. The card then immediately loses its magic.
+While the card is imbued with the spell, you can use a :rsc-b: Bonus Action to flourish the card and cast the spell within. The card then immediately loses its magic.
 
 ---
 

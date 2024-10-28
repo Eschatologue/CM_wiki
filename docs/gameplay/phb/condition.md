@@ -200,4 +200,6 @@ While you have the Unconscious condition, you experience the following effects.
 
 ---
 
+*looking for **Burning**? See [Hazard](exploration.md#hazards)*
+
 [Incapacitated]: #incapacitated
