@@ -1,7 +1,9 @@
-
+---
 title: General Feat
 icon: material/cards-playing-diamond
-
+hide:
+    - toc
+---
 
 # General Feat
 
