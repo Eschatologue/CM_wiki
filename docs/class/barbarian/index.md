@@ -76,7 +76,7 @@ You can enter your Rage the number of times shown for your Barbarian level in th
 
 While active, your Rage follows the rules below.
 
-***Damage Resistance.*** You have Resistance to Bludgeoning, Piercing, and Slashing damage.
+***Damage Resistance.*** You have :dmg-res: **Resistance** to :dmg-blunt: Bludgeoning, :dmg-piercing: Piercing, and :dmg-slashing: Slashing damage.
 
 ***Rage Damage.*** When you make an attack using Strength—with either a weapon or an Unarmed Strike—and deal damage to the target, you gain a bonus to the damage that increases as you gain levels as a Barbarian, as shown in the Rage Damage column of the Barbarian Features table.
 
@@ -86,7 +86,7 @@ While active, your Rage follows the rules below.
 
 ***Duration.*** The Rage lasts until the end of your next turn, and it ends early if you don Heavy armour or have the Incapacitated condition. If your Rage is still active on your next turn, you can extend the Rage for another round by doing one of the following:
 
-- Make an :d20-attack: attack roll against an enemy.
+- Make an attack roll against an enemy.
 - Force an enemy to make a :d20-save: saving throw.
 - Take a :rsc-b: Bonus Action to extend your Rage.
 
@@ -96,8 +96,8 @@ Each time the Rage is extended, it lasts until the end of your next turn. You ca
 
 While you aren't wearing any armour, you can determine your base Armour Class one of the following ways:
 
-:   **Dexterity Based:** 10 + your :ability-dex: Dexterity and :ability-cons: Constitution modifiers, or 
-:   **Strength Based:^CM^** 10 + your Strength and Constitution modifiers. 
+:   **Dexterity Based:** 10 + your :ability-dex: Dexterity and :ability-cons: Constitution modifiers
+:   **Strength Based:^CM^** 10 + your :ability-str: Strength and :ability-cons: Constitution modifiers. 
 
 You can use a Shield and still gain these benefit.
 
@@ -107,11 +107,11 @@ Your training with weapons allows you to use the mastery properties of two kinds
 
 ***Change Weapon*** 
 
-:   You can practice weapon drills and change one of those weapon choices
+:   You can practice weapon drills and change *one* of those weapon choices
 
 ***Replace Weapon Mastery^CM^*** 
 
-:   You can choose any of the kinds of Mastery weapons you’re using and replace the Mastery property of each with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Longsword’s Sap property with the Push property.
+:   You can choose *one* kind of Mastery weapons you’re using and replace its Mastery property of with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Longsword’s Sap property with the Push property.
 
 --8<-- "includes/snippets/item-mastery.md"
 
@@ -123,7 +123,7 @@ You gain an uncanny sense of when things aren’t as they should be, giving you 
 
 ### Level 2: Reckless Attack
 
-You can throw aside all concern for defense to attack with increased ferocity. When you make your first attack roll on your turn, you can decide to attack recklessly. Doing so gives you :d20-adv: Advantage on :d20-attack: attack rolls using :ability-str: Strength until the start of your next turn, but attack rolls against you have :ability-adv: Advantage during that time.
+You can throw aside all concern for defense to attack with increased ferocity. When you make your first attack roll on your turn, you can decide to attack recklessly. Doing so gives you :d20-adv: Advantage on attack rolls using :ability-str: Strength until the start of your next turn, but attack rolls against you have :ability-adv: Advantage during that time.
 
 ### Level 3: Barbarian Subclass
 
@@ -149,23 +149,25 @@ Your speed increases by 10 feet while you aren’t wearing Heavy armour.
 
 ### Level 7: Feral Instinct
 
-Your instincts are so honed that you have Advantage on Initiative rolls.
+Your instincts are so honed that you have :d20-adv: Advantage on :d20-initiative: Initiative rolls.
 
 ### Level 7: Instinctive Pounce
 
-As part of the Bonus Action you take to enter your Rage, you can move up to half your Speed.
+As part of the :rsc-b: Bonus Action you take to enter your Rage, you can move up to half your :rsc-speed: Speed.
 
 ### Level 9: Brutal Strike
 
-If you use Reckless Attack, you can forgo any Advantage on one Strength-based attack roll of your choice on your turn. The chosen attack roll mustn’t have Disadvantage. If the chosen attack roll hits, the target takes an extra 1d10 damage of the same type dealt by the weapon or Unarmed Strike, and you can cause one Brutal Strike effect of your choice. You have the following effect options.
+If you use Reckless Attack, you can forgo any :d20-adv: Advantage on one :ability-str: Strength-based attack roll of your choice on your turn. The chosen attack roll mustn’t have :d20-disadv: Disadvantage. 
 
-***Forceful Blow.*** The target is pushed 15 feet straight away from you. You can then move up to half your Speed straight toward the target without provoking Opportunity Attacks.
+If the chosen attack roll hits, the target takes an extra 1d10 damage of the same type dealt by the weapon or Unarmed Strike, and you can cause one Brutal Strike effect of your choice. You have the following effect options.
 
-***Hamstring Blow.*** The target’s Speed is reduced by 15 feet until the start of your next turn. A target can be affected by only one Hamstring Blow at a time—the most recent one.
+***Forceful Blow.*** The target is pushed 15 feet straight away from you. You can then move up to half your :rsc-speed: Speed straight toward the target without provoking Opportunity Attacks.
+
+***Hamstring Blow.*** The target’s :rsc-speed: Speed is reduced by 15 feet until the start of your next turn. A target can be affected by only one Hamstring Blow at a time—the most recent one.
 
 ### Level 11: Relentless Rage
 
-Your Rage can keep you fighting despite grievous wounds. If you drop to 0 Hit Points while your Rage is active and don’t die outright, you can make a DC 10 Constitution saving throw. If you succeed, your Hit Points instead change to a number equal to twice your Barbarian level.
+Your Rage can keep you fighting despite grievous wounds. If you drop to 0 Hit Points while your Rage is active and don’t die outright, you can make a :d20-save: DC 10 Constitution saving throw. If you succeed, your Hit Points instead change to a number equal to twice your Barbarian level.
 
 Each time you use this feature after the first, the DC increases by 5. When you finish a Short or Long Rest, the DC resets to 10.
 
@@ -173,13 +175,13 @@ Each time you use this feature after the first, the DC increases by 5. When you 
 
 You have honed new ways to attack furiously. The following effects are now among your Brutal Strike options.
 
-***Staggering Blow.*** The target has Disadvantage on the next saving throw it makes, and it can’t make Opportunity Attacks until the start of your next turn.
+***Staggering Blow.*** The target has :d20-disadv: Disadvantage on the next saving throw it makes, and it can’t make :rsc-reaction: Opportunity Attacks until the start of your next turn.
 
 ***Sundering Blow.*** Before the start of your next turn, the next attack roll made by another creature against the target gains a +5 bonus to the roll. An attack roll can gain only one Sundering Blow bonus.
 
 ### Level 15: Persistent Rage
 
-When you roll Initiative, you can regain all expended uses of Rage. After you regain uses of Rage in this way, you can’t do so again until you finish a Long Rest.
+When you roll :d20-initiative: Initiative, you can regain all expended uses of Rage. After you regain uses of Rage in this way, you can’t do so again until you finish a Long Rest.
 
 In addition, your Rage is so fierce that it now lasts for 10 minutes without you needing to do anything to extend it from round to round. Your Rage ends early if you have the Unconscious condition (not just the Incapacitated condition) or don Heavy armour.
 
@@ -189,7 +191,7 @@ The extra damage of your Brutal Strike increases to 2d10. In addition, you can u
 
 ### Level 18: Indomitable Might
 
-If your total for a Strength check or Strength saving throw is less than your Strength score, you can use that score in place of the total.
+If your total for a :d20-check: Strength check or :d20-save: Strength saving throw is less than your Strength score, you can use that score in place of the total.
 
 ### Level 19: Epic Boon
 
@@ -197,6 +199,6 @@ You gain an Epic Boon feat (see chapter 5) or another feat of your choice for wh
 
 ### Level 20: Primal Champion
 
-You embody primal power. Your Strength and Constitution scores increase by 4, to a maximum of 25.
+You embody primal power. Your :d20-str: Strength and :d20-con: Constitution scores increase by 4, to a maximum of 25.
 
 --8<-- "includes/snippets/skills.md"
