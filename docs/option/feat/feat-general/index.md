@@ -13,8 +13,8 @@ The table below lists all available feats, divided into two categories: *PHB '24
 
 ##### General Feats
 
-|  |  |  |  |  |
-|:-:|:-:|:-:|:-:|:-:|
+| PHB'24 Feats |  |  |  |  |
+|---|---|---|---|---|
 | [Ability Score Improvement] | [Durable] | [Lightly Armored] | [Polearm Master] | [Slasher] |
 | [Actor] | [Elemental Adept] | [Mage Slayer] | [Resilient] | [Speedy] |
 | [Athlete] | [Fey-Touched] | [Martial Weapon Training] | [Ritual Caster] | [Spell Sniper] |
@@ -27,8 +27,8 @@ The table below lists all available feats, divided into two categories: *PHB '24
 
 ##### Homebrew Feats
 
-|  |  |  |
-|:---:|:---:|:---:|
+| Homebrew Feats |  |  |
+|---|---|---|
 | [Battlecaster] | [Helpful Insights] | [Remarkable Recovery] |
 | [Cartomancy] | [Masterful Technique] | [Rich in History] |
 | [Flash Recall] | [Metamagic Adept] | [Sword Dancing] |
