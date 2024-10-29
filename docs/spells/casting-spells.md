@@ -67,7 +67,11 @@ Most spells require the Magic action to cast, but some spells require a Bonus Ac
 
 ### One Spell with a Spell Slot per Turn
 
+<!-- --8<-- [start:one-spell-per-turn] -->
+
 On a turn, you can expend only one spell slot to cast a spell. This rule means you can't, for example, cast a spell with a spell slot using the Magic action and another one using a Bonus Action on the same turn.
+
+<!-- --8<-- [end:one-spell-per-turn] -->
 
 ### Reaction and Bonus Action Triggers
 

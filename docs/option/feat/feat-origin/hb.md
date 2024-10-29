@@ -61,7 +61,7 @@ Choose a different Invocations each time.
 You learn how to fight in your early days.
 
 **Martial Training**  
-You gain one Fighting Style Feat of your choice from the [Fighting Style Feats](feat-fighting-style.md), the one you choose must be different from one that you already have. Whenever you reach a level that grants the Ability Score Improvement feature, you can replace this feat's fighting style with another one which you don't have.
+You gain one Fighting Style Feat of your choice from the [Fighting Style Feats](../feat-fighting-style/index.md), the one you choose must be different from one that you already have. Whenever you reach a level that grants the Ability Score Improvement feature, you can replace this feat's fighting style with another one which you don't have.
 
 **Repeatable**  
 Choose a different Fighting Style Feat each time.

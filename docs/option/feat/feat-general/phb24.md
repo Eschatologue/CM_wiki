@@ -46,13 +46,13 @@ You gain the following benefits.
 Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.
 
 **Climb Speed**  
-You gain a Climb Speed equal to your Speed.
+You gain a Climb Speed equal to your :rsc-speed: Speed.
 
 **Hop Up**  
 When you are Prone, you can right yourself with only 5 feet of movement.
 
 **Jumping**  
-You have Advantage on any Ability Check you make for the Jump Action
+You can make a running Long or High Jump after moving only 5 feet
 
 ---
 
@@ -66,10 +66,10 @@ You gain the following benefits.
 Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
 **Improved Dash**  
-When you take the Dash Action, your Speed increases by 10 feet for that Action.
+When you take the Dash Action, your :rsc-speed: Speed increases by 10 feet for that Action.
 
 **Charge Attack**  
-If you move at least 10 feet in a straight line immediately before hitting with an attack as part of the Attack Action on your turn, choose one of the following effects: gain a +1d8 bonus to the attack's damage roll, or push the target up to 10 feet, provided the target you want to push is no more than one size larger than you. You can use this benefit only once on each of your turns.
+If you move at least 10 feet in a straight line toward a target immediately before hitting it with a melee attack roll as part of the Attack action, choose one of the following effects: gain a 1d8 bonus to the attack's damage roll, or push the target up to 10 feet away if it is no more than one size larger than you. You can use this benefit only once on each of your turns.
 
 ---
 
@@ -86,7 +86,7 @@ Increase your Constitution or Wisdom score by 1, to a maximum of 20.
 As part of a Short Rest, you can cook special food if you have ingredients and Cook's Utensils on hand. You can prepare enough of this food for a number of creatures equal to 4 plus your Proficiency Bonus. At the end of the Short Rest, any creature who eats the food and spends one or more Hit Dice to regain Hit Points regains an extra 1d8 Hit Points.
 
 **Bolstering Treats**  
-With 1 hour of work or when you finish a Long Rest, you can cook a number of treats equal to your Proficiency Bonus if you have ingredients and Cook's Utensils on hand. These special treats lasts 8 hour after being made. A creature can use a Bonus Action to eat one of those treats to gain a number of Temporary Hit Points equal to your Proficiency Bonus.
+With 1 hour of work or when you finish a Long Rest, you can cook a number of treats equal to your Proficiency Bonus if you have ingredients and Cook's Utensils on hand. These special treats last 8 hours after being made. A creature can use a Bonus Action to eat one of those treats to gain a number of Temporary Hit Points equal to your Proficiency Bonus.
 
 ---
 
@@ -103,10 +103,10 @@ Increase your Dexterity score by 1, to a maximum of 20.
 You ignore the Loading property of crossbows.
 
 **Firing in Melee**  
-Being within 5 feet of an enemy doesn't impose Disadvantage on your attack rolls with crossbows.
+Being within 5 feet of an enemy doesn't impose :d20-disadv: Disadvantage on your attack rolls with crossbows.
 
 **Dual Wielding**  
-When you make the extra attack of the Light weapon property, you can add your Ability Modifier to the damage of the extra attack if that attack is with a crossbow that has the Light property.
+When you make the extra attack of the :weapon-prop-light: Light property, you can add your ability modifier to the damage of the extra attack if that attack is with a crossbow that has the :weapon-prop-light: Light property and you aren't already adding that modifier to the damage.
 
 ---
 
@@ -120,10 +120,10 @@ You are practiced in the art of crushing your enemies, granting you the followin
 Increase your Strength or Constitution by 1, to a maximum of 20.
 
 **Push**  
-Once per turn, when you hit a creature with an attack that deals bludgeoning damage, you can move it 5 feet to an unoccupied space, provided the target is no more than one size larger than you.
+Once per turn, when you hit a creature with an attack that deals :dmg-blunt: Bludgeoning damage, you can move it 5 feet to an unoccupied space if the target is no more than one size larger than you.
 
 **Enhanced Critical**  
-When you score a critical hit that deals bludgeoning damage to a creature, attack rolls against that creature are made with advantage until the start of your next turn.
+When you score a Critical Hit that deals :dmg-blunt: Bludgeoning damage to a creature, attack rolls against that creature have Advantage until the start of your next turn.
 
 ---
 
@@ -137,7 +137,7 @@ You gain the following benefits.
 Increase your Dexterity score by 1, to a maximum of 20.
 
 **Parry**  
-If you are holding a Finesse weapon and another creature hits you with a melee attack, you can take a Reaction to add your Proficiency Bonus to your Armour Class, potentially causing the attack to miss you. You gain this bonus to your AC against melee attacks until the start of your next turn.
+If you're holding a Finesse weapon and another creature hits you with a melee attack, you can take a Reaction to add your Proficiency Bonus to your Armour Class, potentially causing the attack to miss you. You gain this bonus to your AC against melee attacks until the start of your next turn.
 
 ---
 
@@ -222,7 +222,7 @@ When you hit a creature with an Unarmed Strike as part of the Attack action on y
 You have Advantage on attack rolls against a creature Grappled by you.
 
 **Fast Wrestler**  
-Your Speed isn't halved when you move a creature Grappled by you if the creature is your size or smaller.
+Your :rsc-speed: Speed isn't halved when you move a creature Grappled by you if the creature is your size or smaller.
 
 ---
 
@@ -618,7 +618,7 @@ You gain the following benefits.
 Increase your Dexterity or Constitution score by 1, to a maximum of 20.
 
 **Speed Increase**  
-our Speed increases by 10 feet.
+Your :rsc-speed: Speed increases by 10 feet.
 
 **Dash Over Difficult Terrain**  
 When you take the Dash action on your turn, Difficult Terrain doesn't cost you extra movement for the rest of that turn.

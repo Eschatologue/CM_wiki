@@ -193,3 +193,23 @@ When you take the Attack action and attack with melee weapon that has the :weapo
 
 **Fleuret**  
 The first creature you hit on your turn has :d20-disadv: Disadvantage on any attack against you until the start of your next turn.
+
+---
+
+## Thrown Arms Master
+
+You've honed your ability to lob weaponry into the fray, including weapons not meant for ranged combat. You gain the following benefits:
+
+**Ability Score Increase**  
+Increase your Strength or Dexterity by 1, to a maximum of 20.
+
+**Throwable Weapons**  
+Simple and Martial melee weapons without the :weapon-prop-thrown: **Thrown** property have the :weapon-prop-thrown: **Thrown** property for you. One-handed weapons has :weapon-prop-thrown: **Thrown (30/60)**, while Two-handed weapons has :weapon-prop-thrown: **Thrown (15/30)**
+
+**Improved Throw Range**  
+Weapons that already have the :weapon-prop-thrown: **Thrown** property has their range is increased by (+20/+40)
+
+**Boomerang**  
+When you miss with a :weapon-prop-thrown: **Thrown** weapon attack using a weapon with :weapon-prop-light: **Light** property, the weapon returns to your grasp like a boomerang at the end of your turn, unless something prevents it from returning. You can catch and stow as many weapons as you threw in this way.
+
+---
