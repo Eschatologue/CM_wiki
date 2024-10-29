@@ -7,7 +7,9 @@ hide:
 
 # Fighting Style Feat
 
-These feats are in **Fighting Style** category
+These feats are in **Fighting Style** category.
+
+You can't take the same Fighting Style feat option more than once, even if you get to choose again.
 
 ##### PHB'24 Fighting Style
 
@@ -24,7 +26,7 @@ These feats are in **Fighting Style** category
 |---|---|---|
 | [Gallian Swordplay] | [Signature Weapon] | [Standard Bearer] |
 | [Heavy Weapon Fighting] | [Superior Technique] | [Strongbow] |
-| [Shield Warrior] | [Sniper] | [Versatile Fighting] |
+| [Shield Warrior] | [Sniper] | [Versatile Fighting] | [Trench Fighting] |
 
 [Archery]: phb24.md#archery  
 [Blind Fighting]: phb24.md#blind-fighting  
@@ -45,4 +47,5 @@ These feats are in **Fighting Style** category
 [Sniper]: hb.md#sniper  
 [Standard Bearer]: hb.md#standard-bearer  
 [Strongbow]: hb.md#strongbow  
+[Trench Fighting]: hb.md#trench-fighting
 [Versatile Fighting]: hb.md#versatile-fighting  

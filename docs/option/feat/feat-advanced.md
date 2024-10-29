@@ -9,6 +9,41 @@ These feats are in the Advanced Feats category.
 
 ---
 
+### Ambidexterous
+
+*Advanced Feat (Prerequisites: Level 8+, Strength or Dexterity 15+)*
+
+You learn to wield even more weapon variety with both of your hands.
+
+**Bonus AC**  
+You gain a +1 bonus to your AC while you are wielding a separate melee weapon in each hand.
+
+**Masterful Dual Wielding**  
+When you take the Attack action on your turn and attack with a weapon that lacks the :weapon-prop-heavy: **Heavy** or :weapon-prop-two-handed: **Two-handed** property, you can make one extra attack as a :rsc-b: Bonus Action later on the same turn with a different weapon, which must be a Melee weapon that lacks the :weapon-prop-two-handed: **Two-Handed** property. 
+
+You don’t add your ability modifier to this extra attack’s damage unless it’s negative or if you have the [Two-Weapon Fighting](./feat-fighting-style/phb24.md#two-weapon-fighting) feat.
+
+**Quick Draw**  
+You can draw or stow two weapons that lack the :weapon-prop-two-handed: **Two-Handed** property when you would normally be able to draw or stow only one.
+
+---
+
+### Battlemage
+
+*Advanced Feat (Prerequisites: Level 8+, Extra Attack feature)*
+
+You’ve learned the art of channeling the Weave with your weapon. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat's spells (choose when you select this feat). 
+
+You gain the following benefits:
+
+**Arcane Blade**  
+You learn one of the following cantrips: *Booming Blade*, *Blade Ward*, *Green-flame Blade*, *Shocking Grasp*, *Sword Burst*, or *True Strike*.
+
+**Swift Cantrip**  
+When you take the Attack action, you can replace one of the attack with a cantrip that has a casting time of an Action.
+
+---
+
 ### Dual-Focused
 
 *Advanced Feat (Prerequisites: Level 8+, Spellcasting or Pact Magic feature)*
@@ -16,12 +51,26 @@ These feats are in the Advanced Feats category.
 Countless hours have been spent training your mind to maintain focus on concurrent incantations, taxing as the process may be.
 
 **Manifest power**  
-If you attempt to cast a spell that requires Concentration while already concentrating on an existing spell, you can maintain Concentration on both spells simultaneously. You must take a Magic action on each subsequent round on maintaining this Concentration, or lose it for both spells.
+If you attempt to cast a spell that requires Concentration while already Concentrating on an existing spell, you can maintain Concentration on both spells simultaneously. You must take a Magic action on each subsequent round on maintaining this Concentration, or lose it for both spells.
     
 **Burden**  
-At the end of each turn where you have two spells you are concentrating on, you must make a :d20-save: Constitution saving throw (DC equals 10 + both spells' levels combined). On a failure, you lose Concentration for both spells. You can end Concentration on one of your spells during your turn to avoid this save.
+At the end of each turn where you have two spells you are Concentrating on, you must make a :d20-save: Constitution saving throw (DC equals 10 + both spells' levels combined). On a failure, you lose Concentration for both spells. You can end Concentration on one of your spells during your turn to avoid this save.
 
 Any time you would be forced to make a Concentration due to taking damage, the DC equals 10 + both spells' levels combined, or half the damage you take, whichever number is higher. On fail, you lose Concentration on both spells
+
+---
+
+### Great Weapon Expert
+
+*Advanced Feat (Prerequisites: Level 8+, Strength or Constitution 15+)*
+
+You gain the following benefits:
+
+**Improved Critical**  
+The number you need to roll for a Critical Hit is reduced by 1 when you attack with a Melee Weapon that you are holding with two hands. This effect can stack.
+
+**Multi-Mastery**  
+When you attack with a Melee Weapon that you are holding with two hands whose mastery property you can use, you can replace that property with the Cleave, Graze, Topple, or Vex property for that attack, ignoring its prerequisites.
 
 ---
 
@@ -38,7 +87,21 @@ You have :d20-adv: **Advantage** on Intelligence (Arcana) checks when investigat
 Your magical item attunement limit is increased by one. All other magical attunement rule still applies.
     
 **Examine**  
-You can cast the *Identify* spell without expending a spell slot or material components. You must finish a Long Rest before you can do so again.
+You can cast the *Identify* spell without expending a spell slot or Material components. You must finish a Long Rest before you can do so again.
+
+---
+
+### Single-Specialialisation
+
+*Advanced Feat (Prerequisites: Level 8+)*
+
+You focus further into the unique strengths of your archetype.
+
+**Extra Subclass**  
+You gain one level 3 subclass feature from a different subclass within your current class that has this Feat.
+
+**Repeatable**  
+You can take this feat multiple times. Each time, select either a new level 3 subclass feature from a different subclass or an additional feature from the same subclass, provided your level qualifies for that feature.
 
 ---
 
@@ -48,6 +111,7 @@ You can cast the *Identify* spell without expending a spell slot or material com
 
 Through intense focus, training, and dedication, you've harnessed the techniques of rapid spellcasting.
 
+**Rapid Spellcasting**  
 On a turn, when you expend a spell slot to cast a spell, you can still expend a level 3 spell slot or lower to cast another spell.
 
 ??? tip "One Spell Slot Per Turn"
@@ -58,7 +122,9 @@ On a turn, when you expend a spell slot to cast a spell, you can still expend a 
 
     --8<-- "docs/spells/casting-spells.md:one-spell-per-turn"
 
-    This feat lifts that restriction, but the level of spell slot you can expend is still limited to only level 3
+    ---
+
+    This feat lifts that restriction, but the level of spell slot you can expend is still limited to only level 3.
     
 ---
 
@@ -67,12 +133,13 @@ On a turn, when you expend a spell slot to cast a spell, you can still expend a 
 *Advanced Feat (Prerequisites: Level 8+, Intelligence, Wisdom, or Charisma 15+)*
 
 You learn how to channel divine power given by the divine.
-
-**Two Cantrips**  
-You learn two cantrips of your choice from the Cleric spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability (choose when you select this feat)
     
 **Channel Divinity**  
-Choose a Cleric subclass, you gain a level 3 feature of that subclass that expend a use of  Channel Divinity. You can use this feature once per Short Rest. If a Channel Divinity option uses Wisdom of its effect, you can use either your Intelligence or Charisma for it.
+Choose a Cleric subclass, you gain a level 3 feature of that subclass that expend a use of Channel Divinity. You can use this feature once per Short Rest. If a Channel Divinity option uses Wisdom of its effect, you can use either your Intelligence or Charisma for it.
 
 **Repeatable**  
-Pick a different channel divinity option from a different Cleric domain each time.
+Pick a different Channel Divinity option from a different Cleric domain each time.
+
+---
+
+--8<-- "includes/snippets/item-mastery.md"

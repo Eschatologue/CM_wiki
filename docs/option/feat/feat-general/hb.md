@@ -36,10 +36,10 @@ You have learned to channel your magic through a deck of cards.
 Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
     
 **Card Focus**  
-You can use a card deck as your spellcasting focus.
+You can use a Card deck as your spellcasting focus.
     
 **Card Tricks**  
-You learn the *Thaumaturgy* and *Guidance* cantrip. When you cast those cantrips through card deck and you can use it to create illusions that duplicate the effects of stage magic or use it to reveal a divination to a target. You can conceal the verbal and somatic components of the spell as ordinary conversation or card handling.
+You learn the *Thaumaturgy* and *Guidance* cantrip. When you cast those cantrips through card deck and you can use it to create illusions that duplicate the effects of stage magic or use it to reveal a divination to a target. You can conceal the Verbal and Somatic components of the spell as ordinary conversation or card handling.
     
 **Hidden Ace**  
 When you finish a Long Rest, you can choose two spell from your class's spell list and imbue those spell into cards. The chosen spell must have a casting time of 1 action, and it must be a level for which you have :rsc-spell-slot: Spell Slots. The card remains imbued with this spell for 8 hours. 
@@ -77,7 +77,7 @@ Increase your Dexterity score by 1, to a maximum of 20.
 When you make the extra attack of the :weapon-prop-light: Light weapon property, you can add your Ability Modifier to the damage of the extra attack if that attack is with a firearm that has the :weapon-prop-light: Light property.
     
 **Quickshot**  
-Immediately after Initiative is rolled, you can use your :rsc-reaction: Reaction to make a single attack with a Firearm.
+After you roll for Initiative, you can take a :rsc-reaction: Reaction to make a single attack with a Firearm.
 
 ---
 
@@ -110,7 +110,7 @@ You increase your Strength, Dexterity, or Constitution score by 1, to a maximum 
 **Stance Change**  
 You learn an additional Fighting Style feat of your choice. You do not gain the benefit of the Fighting Style.
 
-As a Bonus Action, you can choose to benefit from the Fighting Style feat you gained from this feat, losing the benefit of one other Fighting Style feat you currently have. To regain the benefit of another Fighting Style, you must use a Bonus Action to switch back.
+As a :rsc-b: Bonus Action, you can choose to benefit from the Fighting Style feat you gained from this feat, losing the benefit of one other Fighting Style feat you currently have. To regain the benefit of another Fighting Style, you must use a Bonus Action to switch back.
 
 ---
 
@@ -133,12 +133,15 @@ You gain 2 sorcery points to spend on Metamagic (these points are added to any s
 
 ### Overwhelming Strength
 
-*General Feat (Prerequisite: Level 4+)* 
+*General Feat (Prerequisite: Level 4+, Strength 13+)* 
 
 Your sheer physical might dwarfs that of nearly all other mortal creatures, giving you the following benefits:
 
 **Ability Score Increase**  
 Increase your Strength, by 1, to a maximum of 20.
+
+**Improved Carrying Capacity**  
+You are considered to be one size larger to determine your [Carrying Capacity](../../../gameplay/homebrew/inventory.md#carrying-capacity).
 
 **Might is Power**  
 Whenever you make a Strength-based D20 Test, you can treat a roll of 7 or lower on the d20 as an 8.
@@ -165,6 +168,20 @@ Whenever you regain Hit Points as a result of a spell, potion, or class feature 
 
 ---
 
+### Resolute Caster
+
+*General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)* 
+
+You gain the following benefits.
+
+**Ability Score Increase**  
+Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
+
+**Suspended Focus**  
+One of your spells with a duration of Concentration remain in effect after you unwillingly lose Concentration until the start of your next turn. This is true whether you lost Concentration from taking damage, from having the Unconscious condition, or even from being killed. (In the case of your death, the spell ends at the point when your next turn would have begun, if you were alive to take it.)
+
+---
+
 ### Rich in History
 
 *General Feat (Prerequisite: Level 4+, History Proficiency)* 
@@ -175,7 +192,7 @@ You gain the following benefits.
 Increase one ability score of your by 1, to a maximum of 20.
 
 **Lessons of Life**  
-You gain two Origin Feats of your choice in which you meet the prerequisites. You cannot gain the same Feat twice.
+You gain two Origin Feats of your choice in which you lack and meet the prerequisites.
 
 ---
 
@@ -198,6 +215,8 @@ The first creature you hit on your turn has :d20-disadv: Disadvantage on any att
 
 ## Thrown Arms Master
 
+*General Feat (Prerequisite: Level 4+)* 
+
 You've honed your ability to lob weaponry into the fray, including weapons not meant for ranged combat. You gain the following benefits:
 
 **Ability Score Increase**  
@@ -211,5 +230,19 @@ Weapons that already have the :weapon-prop-thrown: **Thrown** property has their
 
 **Boomerang**  
 When you miss with a :weapon-prop-thrown: **Thrown** weapon attack using a weapon with :weapon-prop-light: **Light** property, the weapon returns to your grasp like a boomerang at the end of your turn, unless something prevents it from returning. You can catch and stow as many weapons as you threw in this way.
+
+---
+
+### Trick Shots
+
+*General Feat (Prerequisite: Level 4+, Ranged weapon proficiency)* 
+
+You gain the following benefits:
+
+**Ability Score Increase**  
+Increase your Dexterity by 1, to a maximum of 20.
+
+**Return Fire**  
+When a creature you can see hits or misses you with a ranged attack, you can take a Reaction and make one ranged weapon attack against that creature with ranged or thrown weapon that has the :weapon-prop-light: **Light** property.
 
 ---

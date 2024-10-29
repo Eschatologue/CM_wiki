@@ -126,10 +126,10 @@ If you spend 1 minute analyzing a language you do not know, you can discern smal
 While you may not be a true Sorcerer, within you dwells a small spark of arcane power. You gain the benefits below:
 
 **Sorcerers Spells**  
-You learn one Cantrip and two level 1 spells of your choice from the Sorcerer spell list, and you use Charisma as your spellcasting modifier for all three Sorcerer spells.
+You learn one Cantrip and two level 1 spells of your choice from the Sorcerer spell list, and you use Charisma as your spellcasting ability for all three Sorcerer spells.
 
 **Sorcery Points**  
-You gain two Sorcery Points which you can expend to cast either of the level 1 spells that you learned from this Feat, or any other Sorcerer spells you know. Should you already have Sorcery Points, these are added to your existing pool. You regain all your Sorcery Points from this feat when you finish a Long Rest.
+You gain 2 :class-phb24-sorcerer: **Sorcery Point(s)**, which you can convert to a level 1 spell slot as a :rsc-b: **Bonus Action**. Should you already have Sorcery Points, these are added to your existing pool. You regain all your Sorcery Points from this feat when you finish a Long Rest.
 
 ---
 
@@ -137,7 +137,7 @@ You gain two Sorcery Points which you can expend to cast either of the level 1 s
 
 *Origin Feat (Prerequisite: Dexterity or Intelligence 13+, English Language Proficiency)*  
 
-London's reach extends far, and with it, their influence.
+London's reach extends far, and with it, their influence upon you. You gain the benefits below:
 
 **Firearm Proficiency**  
 You gain proficiency with Short-Arms. If you already has proficiency with Short-Arms, you gain proficiency with all Firearms.

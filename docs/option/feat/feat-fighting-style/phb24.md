@@ -1,10 +1,4 @@
----
-icon: material/sword-cross
----
-
-You can't take the same Fighting Style feat option more than once, even if you get to choose again.
-
-## PHB'24 Fighting Style
+# PHB'24 Fighting Style
 
 These feat are included within PHB'24.
 
@@ -88,4 +82,4 @@ When you make the extra attack of the :weapon-prop-light: **Light** weapon prope
 
 When you do damage with Unarmed Strikes, it deals :dmg-blunt: Bludgeoning damage equal to :die-d6: 1d6 + your Strength modifier on a hit. If you have two free hands, the :die-d6: d6 damage die becomes a :die-d8: d8.
 
-At the start of each of your turns, you can deal 1d4 Bludgeoning damage to one creature that receive the Grappled condition from you.
+At the start of each of your turns, you can deal 1d4 :dmg-blunt: Bludgeoning damage to one creature that receive the Grappled condition from you.

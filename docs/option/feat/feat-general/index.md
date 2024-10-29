@@ -28,23 +28,11 @@ The table below lists available General Feats, divided into two categories: *PHB
 ##### Homebrew General Feats
 
 | Homebrew Feats |  |  |
-|---|---|---|
-| [Battlecaster] | [Helpful Insights] | [Remarkable Recovery] |
-| [Cartomancy] | [Masterful Technique] | [Rich in History] |
-| [Flash Recall] | [Metamagic Adept] | [Sword Dancing] |
-| [Gunner] | [Overwhelming Strength] |  |
-
-[Battlecaster]: hb.md#battlecaster
-[Cartomancy]: hb.md#cartomancy
-[Flash Recall]: hb.md#flash-recall
-[Gunner]: hb.md#gunner
-[Helpful Insights]: hb.md#helpful-insights
-[Masterful Technique]: hb.md#masterful-technique
-[Metamagic Adept]: hb.md#metamagic-adept
-[Overwhelming Strength]: hb.md#overwhelming-strength
-[Remarkable Recovery]: hb.md#remarkable-recovery
-[Rich in History]: hb.md#rich-in-history
-[Sword Dancing]: hb.md#sword-dancing
+|---|---|---|---|
+| [Battlecaster] | [Helpful Insights] | [Remarkable Recovery] | [Thrown Arms Master] |
+| [Cartomancy] | [Masterful Technique] | [Resolute Caster] | [Trick Shots] |
+| [Flash Recall] | [Metamagic Adept] | [Rich in History] |
+| [Gunner] | [Overwhelming Strength] | [Sword Dancing] |
 
 [Ability Score Improvement]: phb24.md#ability-score-improvement  
 [Actor]: phb24.md#actor  
@@ -89,3 +77,18 @@ The table below lists available General Feats, divided into two categories: *PHB
 [Telepathic]: phb24.md#telepathic  
 [War Caster]: phb24.md#war-caster  
 [Weapon Master]: phb24.md#weapon-master  
+
+[Battlecaster]: hb.md#battlecaster
+[Cartomancy]: hb.md#cartomancy
+[Flash Recall]: hb.md#flash-recall
+[Gunner]: hb.md#gunner
+[Helpful Insights]: hb.md#helpful-insights
+[Masterful Technique]: hb.md#masterful-technique
+[Metamagic Adept]: hb.md#metamagic-adept
+[Overwhelming Strength]: hb.md#overwhelming-strength
+[Remarkable Recovery]: hb.md#remarkable-recovery
+[Resolute Caster]: hb.md#resolute-caster
+[Rich in History]: hb.md#rich-in-history
+[Sword Dancing]: hb.md#sword-dancing
+[Thrown Arms Master]: hb.md#thrown-arms-master
+[Trick Shots]: hb.md#trick-shots

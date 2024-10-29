@@ -1,12 +1,12 @@
 # Crown & Misery Fighting Style
 
-These Fighting Style Feature are homebrew
+These Fighting Style Feature are homebrew.
 
 ### Gallian Swordplay
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-While wielding a :weapon-prop-finesse: **Finesse** weapon and no other weapon, you gain a +2 bonus to your attack rolls and an +1 to your Armour Class so long you are not wearing Heavy Armour or wielding Shields.
+While wielding a :weapon-prop-finesse: **Finesse** weapon and no other weapon, you gain a +2 bonus to your attack rolls and +1 to your AC so long you are not wearing Heavy Armour or wielding Shields.
 
 ---
 
@@ -22,7 +22,7 @@ When you make an attack with a Cold Weapon that has :weapon-prop-heavy: **Heavy*
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-You gain training with Shields and it can be used as a Martial Melee Weapon. The Shield deals :dmg-blunt: Bludgeoning damage equal to your Strength modifier plus a number of d4s equal to the AC granted by the Shield. You can make this attack as a :rsc-b: **Bonus Action**.
+You gain training with Shields and it can be used as a Martial Melee Weapon. The Shield deals :dmg-blunt: Bludgeoning damage equal to your Strength modifier plus a number of d4s equal to the AC granted by the Shield. You can make attack with a Shield as a :rsc-b: **Bonus Action**.
 
 ---
 
@@ -30,13 +30,19 @@ You gain training with Shields and it can be used as a Martial Melee Weapon. The
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-You specialise one weapon rather than many. Choose one Weapon or Firearm that you are Proficient with to be your Signature Weapon. When you make an attack with that type of weapon, its damage die increases by one size as shown on the table below.
+You specialise one weapon rather than many. Choose one Weapon or Firearm that you are Proficient with to be your Signature Weapon. When you make an attack with that type of weapon, you gain the following benefit:
 
-| Orginal Damage Die |     | Signature Damage Die | Orginal Damage Die |     | Signature Damage Die |
-| :----------------: | :-: | :------------------: | :----------------: | :-: | :------------------: |
-|         1          | --> |         1d4          |     2d4 / 1d8      | --> |         1d10         |
-|        1d4         | --> |         1d6          |        1d10        | --> |         1d12         |
-|        1d6         | --> |         1d8          |     2d6 / 1d12     | --> |    2d6 / 1d12 +1*    |
+***Improved Attack Roll.*** When you make a weapon attack with the weapon, you can treat a roll equal to your Proficiency Bonus or lower on the d20 as your Proficiency Bonus.
+
+***Damage Die Increase.*** The weapon's damage or damage die increases by one size as shown on the Signature Weapon Die table below.
+
+##### Signature Weapon Die
+
+| Orginal Damage Die |  | Signature Damage Die | Orginal Damage Die |  | Signature Damage Die |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 | --> | 1d4 | 2d4 / 1d8 | --> | 1d10 |
+| 1d4 | --> | 1d6 | 1d10 | --> | 1d12 |
+| 1d6 | --> | 1d8 | 2d6 or 1d12 | --> | 2d6 / 1d12 + 1* |
 
 You can change your Signature Weapon when you gain a level in a class that has this feat.
 
@@ -48,7 +54,7 @@ You can change your Signature Weapon when you gain a level in a class that has t
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-You learn two [Manoeuvre](../class-options/fighter-manoeuvre.md) of your choice from among those available to the Battle Master archetype. 
+You learn two [Manoeuvre](../../class-options/fighter-manoeuvre.md) of your choice from among those available to the Battle Master archetype. 
 
 You gain **2 Superiority Die**, which are :die-d6: d6s (this die is added to any Superiority Dice you have from another source). This die is used to fuel your manoeuvres. A Superiority Die is expended when you use it. You regain your expended Superiority Dice when you finish a Short Rest or Long Rest.
 
@@ -58,7 +64,7 @@ You gain **2 Superiority Die**, which are :die-d6: d6s (this die is added to any
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*  
 
-When you make an Attack roll with a Ranged Weapon while having the Prone condition, the attack doesn't have :d20-disadv: Disadvantage so long the target is within your weapon normal range and on hit, you can treat any 1 or 2 on a damage die as a 3.
+Having the Prone condition doesn't impose :d20-disadv: Disadvantage on your Ranged weapon attacks. Moreover, while Prone, when you hit the target within your Ranged weapon's normal range you can treat any 1 or 2 on a damage die as a 3.
 
 Moreover, your attack with Ranged weapon doesn't have :d20-disadv: Disadvantage if your target has the Prone condition so long your target is within your weapon normal range.
 
@@ -76,9 +82,20 @@ When a creature within 5 feet of you makes an attack against a creature that you
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-You can use your Strength modifier, in place of Dexterity for attack and damage rolls with Ranged Weapon and Firearms, such as Longbow or Heavy Crossbows. When you do so, you gain +1 to damage rolls with those weapons.
+You can use your Strength modifier, in place of Dexterity for attack and damage rolls with Ranged Weapon, such as Longbow or Heavy Crossbows. When you do so, you gain +1 to damage rolls with those weapons.
 
 Moreover, you also use your Strength instead of your Dexterity to fufill the :weapon-prop-heavy: **Heavy** weapon property requirement for those weapons.
+
+---
+
+### Trench Fighting
+
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
+
+While wielding a melee weapon in one hand and no other weapon, you gain the following benefits: 
+
+- You gain a +1 bonus to your attack rolls and +1 to your AC. Both of these bonuses increases to +2 if you are in an area of Difficult Terrain or if your Speed is reduced by any environmental factors. 
+- You can make an Unarmed Strike (Grapple & Shove only) as a :rsc-b: Bonus Action. You can do this even while wielding a Shield in your other hand.
 
 ---
 
@@ -86,6 +103,6 @@ Moreover, you also use your Strength instead of your Dexterity to fufill the :we
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-While wielding a single weapon with the :weapon-prop-versatile: **Versatile** property and no shield, you gain a +1 bonus to your attack roll and Damage Roll with that weapon. While doing so, you can also use your :rsc-b: **Bonus Action** to make a single Unarmed Strike (Grapple or Shove only) or take the Utilise action.
+While wielding a single weapon with the :weapon-prop-versatile: **Versatile** property and no shield, you gain a +1 bonus to your attack roll and damage roll with that weapon. While doing so, you can also take a :rsc-b: **Bonus Action** to make a single Unarmed Strike (Grapple or Shove only) or take the Utilise action.
 
 ---

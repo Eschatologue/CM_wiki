@@ -74,7 +74,7 @@ While you have the Grappled condition, you experience the following effects.
 
 ??? info "Grappling"
 
-    --8<-- "docs/glossary.md
+    --8<-- "docs/glossary.md"
 
 ---
 

@@ -137,7 +137,7 @@ You gain the following benefits.
 Increase your Dexterity score by 1, to a maximum of 20.
 
 **Parry**  
-If you're holding a Finesse weapon and another creature hits you with a melee attack, you can take a Reaction to add your Proficiency Bonus to your Armour Class, potentially causing the attack to miss you. You gain this bonus to your AC against melee attacks until the start of your next turn.
+If you're holding a :weapon-prop-finesse: Finesse weapon and another creature hits you with a melee attack, you can take a Reaction to add your Proficiency Bonus to your Armour Class, potentially causing the attack to miss you. You gain this bonus to your AC against melee attacks until the start of your next turn.
 
 ---
 
@@ -151,7 +151,7 @@ You gain the following benefits.
 Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
 **Enhanced Dual Wielding**  
-When you take the Attack action on your turn and attack with a weapon that has the Light property, you can make one extra attack as a Bonus Action later on the same turn with a different weapon, which must be a Melee weapon that lacks the Two-Handed property. You don't add your ability modifier to the extra attack's damage unless that modifier is negative.
+When you take the Attack action on your turn and attack with a weapon that has the :weapon-prop-light: Light property, you can make one extra attack as a Bonus Action later on the same turn with a different weapon, which must be a Melee weapon that lacks the :weapon-prop-two-handed: Two-Handed property. You don't add your ability modifier to the extra attack's damage unless that modifier is negative.
 
 **Quick Draw**  
 You can draw or stow two weapons that lack the Two-Handed property when you would normally be able to draw or stow only one.
