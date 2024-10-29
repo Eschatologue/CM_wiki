@@ -27,6 +27,8 @@
   --md-default-bg-color--25: hsla(220, 15%, 14%, 0.25);
   --md-default-bg-color--50: hsla(220, 15%, 14%, 0.5);
   --md-default-bg-color--75: hsla(220, 15%, 14%, 0.75);
+  /* Link Colour */
+  --md-typeset-a-color: var(--md-primary-fg-color--light);
   /* Background Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -47,6 +49,8 @@
   --md-default-bg-color--25: hsla(220, 15%, 14%, 0.25);
   --md-default-bg-color--50: hsla(220, 15%, 14%, 0.5);
   --md-default-bg-color--75: hsla(220, 15%, 14%, 0.75);
+  /* Link Colour */
+  --md-typeset-a-color: var(--md-primary-fg-color--light);
   /* Background Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -67,6 +71,8 @@
   --md-default-bg-color--25: hsla(220, 15%, 14%, 0.25);
   --md-default-bg-color--50: hsla(220, 15%, 14%, 0.5);
   --md-default-bg-color--75: hsla(220, 15%, 14%, 0.75);
+  /* Link Colour */
+  --md-typeset-a-color: var(--md-primary-fg-color--light);
   /* Background Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -87,6 +93,8 @@
   --md-default-bg-color--25: hsla(220, 15%, 14%, 0.25);
   --md-default-bg-color--50: hsla(220, 15%, 14%, 0.5);
   --md-default-bg-color--75: hsla(220, 15%, 14%, 0.75);
+  /* Link Colour */
+  --md-typeset-a-color: var(--md-primary-fg-color--light);
   /* Background Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -107,6 +115,8 @@
   --md-default-bg-color--25: hsla(220, 15%, 14%, 0.25);
   --md-default-bg-color--50: hsla(220, 15%, 14%, 0.5);
   --md-default-bg-color--75: hsla(220, 15%, 14%, 0.75);
+  /* Link Colour */
+  --md-typeset-a-color: var(--md-primary-fg-color--light);
   /* Background Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -127,6 +137,8 @@
   --md-default-bg-color--25: hsla(220, 15%, 14%, 0.25);
   --md-default-bg-color--50: hsla(220, 15%, 14%, 0.5);
   --md-default-bg-color--75: hsla(220, 15%, 14%, 0.75);
+  /* Link Colour */
+  --md-typeset-a-color: var(--md-primary-fg-color--light);
   /* Background Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -147,6 +159,8 @@
   --md-default-bg-color--25: hsla(220, 15%, 14%, 0.25);
   --md-default-bg-color--50: hsla(220, 15%, 14%, 0.5);
   --md-default-bg-color--75: hsla(220, 15%, 14%, 0.75);
+  /* Link Colour */
+  --md-typeset-a-color: var(--md-primary-fg-color--light);
   /* Background Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -167,6 +181,8 @@
   --md-default-bg-color--25: hsla(220, 15%, 14%, 0.25);
   --md-default-bg-color--50: hsla(220, 15%, 14%, 0.5);
   --md-default-bg-color--75: hsla(220, 15%, 14%, 0.75);
+  /* Link Colour */
+  --md-typeset-a-color: var(--md-primary-fg-color--light);
   /* Background Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -187,6 +203,8 @@
   --md-default-bg-color--25: hsla(220, 15%, 14%, 0.25);
   --md-default-bg-color--50: hsla(220, 15%, 14%, 0.5);
   --md-default-bg-color--75: hsla(220, 15%, 14%, 0.75);
+  /* Link Colour */
+  --md-typeset-a-color: var(--md-primary-fg-color--light);
   /* Background Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -207,6 +225,8 @@
   --md-default-bg-color--25: hsla(220, 15%, 14%, 0.25);
   --md-default-bg-color--50: hsla(220, 15%, 14%, 0.5);
   --md-default-bg-color--75: hsla(220, 15%, 14%, 0.75);
+  /* Link Colour */
+  --md-typeset-a-color: var(--md-primary-fg-color--light);
   /* Background Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -227,6 +247,8 @@
   --md-default-bg-color--25: hsla(220, 15%, 14%, 0.25);
   --md-default-bg-color--50: hsla(220, 15%, 14%, 0.5);
   --md-default-bg-color--75: hsla(220, 15%, 14%, 0.75);
+  /* Link Colour */
+  --md-typeset-a-color: var(--md-primary-fg-color--light);
   /* Background Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -247,6 +269,8 @@
   --md-default-bg-color--25: hsla(220, 15%, 14%, 0.25);
   --md-default-bg-color--50: hsla(220, 15%, 14%, 0.5);
   --md-default-bg-color--75: hsla(220, 15%, 14%, 0.75);
+  /* Link Colour */
+  --md-typeset-a-color: var(--md-primary-fg-color--light);
   /* Background Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -267,6 +291,8 @@
   --md-default-bg-color--25: hsla(220, 15%, 14%, 0.25);
   --md-default-bg-color--50: hsla(220, 15%, 14%, 0.5);
   --md-default-bg-color--75: hsla(220, 15%, 14%, 0.75);
+  /* Link Colour */
+  --md-typeset-a-color: var(--md-primary-fg-color--light);
   /* Background Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -287,6 +313,8 @@
   --md-default-bg-color--25: hsla(220, 15%, 14%, 0.25);
   --md-default-bg-color--50: hsla(220, 15%, 14%, 0.5);
   --md-default-bg-color--75: hsla(220, 15%, 14%, 0.75);
+  /* Link Colour */
+  --md-typeset-a-color: var(--md-primary-fg-color--light);
   /* Background Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -307,6 +335,8 @@
   --md-default-bg-color--25: hsla(220, 15%, 14%, 0.25);
   --md-default-bg-color--50: hsla(220, 15%, 14%, 0.5);
   --md-default-bg-color--75: hsla(220, 15%, 14%, 0.75);
+  /* Link Colour */
+  --md-typeset-a-color: var(--md-primary-fg-color--light);
   /* Background Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -327,6 +357,8 @@
   --md-default-bg-color--25: hsla(220, 15%, 14%, 0.25);
   --md-default-bg-color--50: hsla(220, 15%, 14%, 0.5);
   --md-default-bg-color--75: hsla(220, 15%, 14%, 0.75);
+  /* Link Colour */
+  --md-typeset-a-color: var(--md-primary-fg-color--light);
   /* Background Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -577,6 +609,9 @@
 }
 [data-md-color-scheme=slate] .md-search__input::placeholder {
   color: var(--md-default-bg-color);
+}
+[data-md-color-scheme=slate] .md-content {
+  --md-typeset-a-color: #09bfdd;
 }
 
 /*# sourceMappingURL=extra.css.map */
