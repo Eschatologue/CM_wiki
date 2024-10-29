@@ -610,8 +610,5 @@
 [data-md-color-scheme=slate] .md-search__input::placeholder {
   color: var(--md-default-bg-color);
 }
-[data-md-color-scheme=slate] .md-content {
-  --md-typeset-a-color: #09bfdd;
-}
 
 /*# sourceMappingURL=extra.css.map */
