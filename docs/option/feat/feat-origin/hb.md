@@ -1,6 +1,6 @@
 ---
 title: Homebrew Origin Feats
-status:homebrew
+status: homebrew
 ---
 
 # Homebrew Origin Feats
@@ -37,23 +37,6 @@ As part of a Short Rest, you can use scavenged or acquired materials to build a 
     
 **Slightly Cunning Action**  
 Choose one of the following actions: *Dash*, *Disengage*, *Hide* or *Utilise*. You can use the chosen action as a :rsc-b: Bonus Action.
-
----
-
-### Carpenter
-
-*Origin Feat*
-
-Your knowledge of wooden structures is widely applicable throughout your adventures. You gain the following benefits:
-
-**Wood Expert**  
-You gain Proficiency with Carpenter's Tools. If you are already proficient with them, you add double your Proficiency Bonus to checks you make with them.
-    
-**Barricade**  
-You can temporarily fortify a door or window using Utilise action. The DC needed to open it increases by an amount equal to your Proficiency Bonus, but the fortification falls apart after 1 minute.
-    
-**Wooden Barrier**  
-With 1 minute of work and raw materials, you can create a wooden barrier no more than 10 feet in any dimension. The barrier has AC 10 and HP 25, is immune to poison and psychic damage, and is vulnerable to fire damage. The barrier collapses 8 hours after being assembled.
 
 ---
 

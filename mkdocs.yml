@@ -173,7 +173,10 @@ nav:
         - Homebrew: option/feat/feat-general/hb.md
       - Advanced Feats: option/feat/feat-advanced.md
       - Epic Boon: option/feat/feat-boon.md
-      - Fighting Style: option/feat/feat-fighting-style.md
+      - Fighting Style: 
+        - option/feat/feat-fighting-style/index.md
+        - PHB'24: option/feat/feat-fighting-style/phb24.md
+        - Homebrew: option/feat/feat-fighting-style/hb.md
     - Class Options:
       - Infusion: option/class-options/artificer-infusion.md
       - Metamagic: 
