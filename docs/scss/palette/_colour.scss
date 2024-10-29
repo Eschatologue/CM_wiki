@@ -33,6 +33,7 @@ $defaultHue: 220;
 {
     // Color palette
     [data-md-color-scheme="slate"][data-md-color-primary="#{$name}"] {
+
         /* Primary Colours */
         --md-primary-fg-color: hsla(#{hex2hsl(nth($colors, 1))}, 1);
         --md-primary-fg-color-light: hsla(#{hex2hsl(nth($colors, 2))}, 1);
@@ -50,8 +51,12 @@ $defaultHue: 220;
         --md-default-bg-color--50: hsla(#{$defaultHue}, 15%, 14%, 0.5);
         --md-default-bg-color--75: hsla(#{$defaultHue}, 15%, 14%, 0.75);
 
+        /* Link Colour */ 
+        --md-typeset-a-color: var(--md-primary-fg-color--light);
+
         /* Background Colours */
         --md-primary-bg-color: var(--md-default-bg-color);
         --md-primary-bg-color-light: var(--md-default-bg-color--light);
+
     }
 }
