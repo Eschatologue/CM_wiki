@@ -1,13 +1,13 @@
 @import "./accent";
 
 // ----------------------------------------------------------------------------
-// Rules: primary colors
+// Rules: primary colors and background adjustments
 // ----------------------------------------------------------------------------
 
 $defaultHue: 220;
 
 [data-md-color-scheme="slate"] {
-    --md-hue: #{$defaultHue}; // Fix applied here
+    --md-hue: #{$defaultHue}; // Primary hue for Slate scheme
 }
 
 @each $name,
@@ -31,42 +31,32 @@ $defaultHue: 220;
             "deep-orange": $mod-deep-orange lighten($mod-deep-orange, 5%) darken($mod-deep-orange, 5%)
         )
 {
-    // Color palette
+    // Colour palette for each primary theme
     [data-md-color-scheme="slate"][data-md-color-primary="#{$name}"] {
-
-        /* Primary Colours */
+        /* Primary Colour Variants */
         --md-primary-fg-color: hsla(#{hex2hsl(nth($colors, 1))}, 1);
-
-        --md-primary-fg-color-lighter: hsla(#{adjust-hue($defaultHue, 25%)}, 1);
-        
         --md-primary-fg-color-light: hsla(#{hex2hsl(nth($colors, 2))}, 1);
-
         --md-primary-fg-color-dark: hsla(#{hex2hsl(nth($colors, 3))}, 1);
-
         --md-primary-fg-color-transparent: hsla(#{hex2hsl(nth($colors, 1))}, 0.15);
 
-        /* Additional Darker Background Colours */
+        /* Background Colours */
         --md-default-bg-color: hsla(#{$defaultHue}, 15%, 14%, 1);
-
         --md-default-bg-color--dark: hsla(#{$defaultHue}, 15%, 10%, 1);
         --md-default-bg-color--darker: hsla(#{$defaultHue}, 15%, 7%, 1);
         --md-default-bg-color--darkest: hsla(#{$defaultHue}, 15%, 4%, 1);
 
+        /* Lighter Background Variants */
         --md-default-bg-color--light: hsla(#{$defaultHue}, 15%, 18%, 1);
-        --md-default-bg-color--lighter: hsla(#{$defaultHue}, 15%, 22%, 1); 
-        --md-default-bg-color--lightest: hsla(#{$defaultHue}, 15%, 26%, 1); 
+        --md-default-bg-color--lighter: hsla(#{$defaultHue}, 15%, 22%, 1);
+        --md-default-bg-color--lightest: hsla(#{$defaultHue}, 15%, 26%, 1);
 
-        /* Transparent Background Colour */
+        /* Transparent Background Colour Options */
         --md-default-bg-color--25: hsla(#{$defaultHue}, 15%, 14%, 0.25);
         --md-default-bg-color--50: hsla(#{$defaultHue}, 15%, 14%, 0.5);
         --md-default-bg-color--75: hsla(#{$defaultHue}, 15%, 14%, 0.75);
 
-        /* Link Colour */ 
-        --md-typeset-a-color: var(--md-primary-fg-color--light);
-
-        /* Background Colours */
+        /* Link and Secondary Colours */
         --md-primary-bg-color: var(--md-default-bg-color);
         --md-primary-bg-color-light: var(--md-default-bg-color--light);
-
     }
 }

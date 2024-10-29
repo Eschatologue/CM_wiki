@@ -65,4 +65,7 @@
             color: var(--md-default-bg-color);
         }
     }
+    .md-content {
+        --md-typeset-a-color: var(--md-primary-fg-color-light);
+    }
 }
