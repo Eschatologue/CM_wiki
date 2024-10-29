@@ -163,7 +163,10 @@ nav:
   - Feats & Class Options:
     - Feats: 
       - option/feat/index.md
-      - Origin Feats: option/feat/feat-origin.md
+      - Origin Feats: 
+        - option/feat/feat-origin/index.md
+        - PHB'24: option/feat/feat-origin/phb24.md
+        - Homebrew: option/feat/feat-origin/hb.md
       - General Feats: 
         - option/feat/feat-general/index.md
         - PHB'24: option/feat/feat-general/phb24.md

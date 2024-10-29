@@ -9,9 +9,9 @@ hide:
 
 **General Feats** are abilities that characters can select upon reaching certain levels in their class. Most general feats grant characters a specific ability score improvement and other unique capability.
 
-The table below lists all available feats, divided into two categories: *PHB '24* and *Homebrew*.
+The table below lists available General Feats, divided into two categories: *PHB '24* and *Homebrew*.
 
-##### General Feats
+##### PHB'24 General Feats
 
 | PHB'24 Feats |  |  |  |  |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ The table below lists all available feats, divided into two categories: *PHB '24
 | [Defensive Duelist] | [Inspiring Leader] | [Piercer] | [Skill Expert] |  |
 | [Dual Wielder] | [Keen Mind] | [Poisoner] | [Skulker] |  |
 
-##### Homebrew Feats
+##### Homebrew General Feats
 
 | Homebrew Feats |  |  |
 |---|---|---|
