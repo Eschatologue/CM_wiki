@@ -27,7 +27,7 @@ The table below lists available General Feats, divided into two categories: *PHB
 
 ##### Homebrew General Feats
 
-| Homebrew Feats |  |  |
+| Homebrew Feats |  |  |  |
 |---|---|---|---|
 | [Battlecaster] | [Helpful Insights] | [Remarkable Recovery] | [Thrown Arms Master] |
 | [Cartomancy] | [Masterful Technique] | [Resolute Caster] | [Trick Shots] |

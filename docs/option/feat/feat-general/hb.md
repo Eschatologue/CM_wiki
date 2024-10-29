@@ -192,7 +192,7 @@ You gain the following benefits.
 Increase one ability score of your by 1, to a maximum of 20.
 
 **Lessons of Life**  
-You gain two Origin Feats of your choice in which you lack and meet the prerequisites.
+You gain two Origin Feats of your choice in which you don't have and also meet the feat's prerequisites.
 
 ---
 
@@ -213,7 +213,7 @@ The first creature you hit on your turn has :d20-disadv: Disadvantage on any att
 
 ---
 
-## Thrown Arms Master
+### Thrown Arms Master
 
 *General Feat (Prerequisite: Level 4+)* 
 

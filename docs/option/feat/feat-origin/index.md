@@ -13,21 +13,21 @@ The table below lists available General Feats, divided into two categories: *PHB
 
 ##### PHB'24 Origin Feats
 
-| PHB'24 Feats |  |  |
-|---|---|---|
-| [Alert] | [Magic Initiate] | [Tavern Brawler] |
-| [Crafter] | [Musician] | [Tough] |
-| [Healer] | [Savage Attacker] |  |
-| [Lucky] | [Skilled] |  |
+| PHB'24 Feats | | | |
+|---|---|---|---|
+| [Alert] | [Magic Initiate] | [Tavern Brawler] | |
+| [Crafter] | [Musician] | [Tough] | |
+| [Healer] | [Savage Attacker] |  | |
+| [Lucky] | [Skilled] |  | |
 
 ##### Homebrew Origin Feats
 
-| Homebrew Feats |  |  |
-|---|---|---|
-| [Artifice Initiate] | [Historian] | [Dominion's Armaments] |
-| [Burglar] | [Lifelong Learner] | [Wise One] |
-| [Eldritch Initiate] | [Linguist] |  |
-| [Fighting Initiate] | [Sorcerous Spark] |  |
+| Homebrew Feats | | | |
+|---|---|---|---|
+| [Artifice Initiate] | [Historian] | [Dominion's Armaments] | |
+| [Burglar] | [Lifelong Learner] | [Wise One] | |
+| [Eldritch Initiate] | [Linguist] |  | |
+| [Fighting Initiate] | [Sorcerous Spark] |  | |
 
 [Alert]: phb24.md#alert
 [Crafter]: phb24.md#crafter
