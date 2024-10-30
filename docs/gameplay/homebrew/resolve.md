@@ -160,7 +160,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 
 - You have :d20-adv: **Advantage** on attack made using Strength and :d20-disadv: **Disadvantage** on attack made using Dexterity.
 - On each of your turn, you must make an attack to any creature that is within your reach.
-- All creatures, including your ally can provoke opportunity attack from you, and you must use your :rsc-reaction: **Reaction** when available to make an attack.
+- All creatures, including your ally can provoke opportunity attack from you, and you must use your :rsc-r: **Reaction** when available to make an attack.
 
 ### Fearful
 
@@ -186,7 +186,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 
 - You begins babbling and is incapable of normal speech. Spells that has the Verbal (V) component can't be cast.
 - You have :d20-disadv: **Disadvantage** on Intelligence and Wisdom :d20-save: **Saving Throws**.
-- You can't take :rsc-reaction: **Reaction** and must roll a :die-d10:d10 at the start of each of your turns to determine a behavior for that turn.
+- You can't take :rsc-r: **Reaction** and must roll a :die-d10:d10 at the start of each of your turns to determine a behavior for that turn.
     
     | :die-d10:**d10** | **BEHAVIOUR** |
     | :-: | --- |

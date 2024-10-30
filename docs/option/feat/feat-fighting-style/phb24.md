@@ -48,7 +48,7 @@ When you roll damage for an attack you make with a Melee Weapon that you are hol
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-When a creature you can see hits another creature within 5 feet of you with an attack roll, you can take a :rsc-reaction: Reaction to reduce the damage dealt to the target by 1d10 + your Proficiency Bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to take this Reaction.
+When a creature you can see hits another creature within 5 feet of you with an attack roll, you can take a :rsc-r: Reaction to reduce the damage dealt to the target by 1d10 + your Proficiency Bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to take this Reaction.
 
 ---
 
@@ -56,7 +56,7 @@ When a creature you can see hits another creature within 5 feet of you with an a
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-When a creature you can see attacks a target other than you that is within 5 feet of you, you can take a :rsc-reaction: Reaction to interpose your Shield if you're holding one. You impose :d20-disadv: Disadvantage on the triggering attack roll and all other attack rolls against the target until the start of your next turn if you remain within 5 feet of the target.
+When a creature you can see attacks a target other than you that is within 5 feet of you, you can take a :rsc-r: Reaction to interpose your Shield if you're holding one. You impose :d20-disadv: Disadvantage on the triggering attack roll and all other attack rolls against the target until the start of your next turn if you remain within 5 feet of the target.
 
 ---
 

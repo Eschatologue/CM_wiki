@@ -26,7 +26,7 @@ As :rsc-b: **Bonus Action**, you can expend one use of your Channel Divinity to 
 
 This protective zone lasts for **1 minute**. While active, whenever a creature within **15 feet** of the marked point takes any action or moves, you can make a ranged weapon attack against them using a **Bastion Weapon** (if within normal range). This attack doesn’t require any action and can be made up to a number of times equal to your **Charisma modifier** (minimum of 1).
 
-You cannot take any :rsc-reaction: **Reactions** until the start of your next turn after using this attack. The effect ends early if you either:
+You cannot take any :rsc-r: **Reactions** until the start of your next turn after using this attack. The effect ends early if you either:
 
 - Use up all the allowed attacks, or
 - You have the *Incapacitated* condition.
@@ -70,7 +70,7 @@ Moreover, you and your allies gain the benefit of Half Cover while within the au
 
 ### Level 15: Rapid Reaction
 
-When a hostile creaure ends their turn within your Aura of Protection, you can take a :rsc-reaction: **Reactions** to move up to half of your Speed, without provoking Opportunity Attack and make a Ranged weapon attack using a **Bastion Weapon** at the creature.
+When a hostile creaure ends their turn within your Aura of Protection, you can take a :rsc-r: **Reactions** to move up to half of your Speed, without provoking Opportunity Attack and make a Ranged weapon attack using a **Bastion Weapon** at the creature.
 
 You can use this feature a number of time equals to your **Charisma modifier** (minimum of once). You regain all expended uses whenever you finish a Long Rest.
 

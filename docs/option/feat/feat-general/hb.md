@@ -22,7 +22,7 @@ Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
 You can use a Magical weapon or a Magical shield, that you have Attuned (if required) as a spellcasting focus and to perform the Somatic component of a spell.
     
 **Weapon Conduit**  
-When wielding a magical weapon with which you are proficient and Attuned with (if required), you can apply its bonus to damage rolls to the damage of any spell you cast, provided you use the weapon as your spellcasting focus.
+When wielding a Magical weapon with which you are proficient and Attuned with (if required), you can apply its Enchantment to the attack roll and damage roll of any spell you cast, provided you use the weapon as your spellcasting focus.
 
 ---
 
@@ -36,7 +36,7 @@ You have learned to channel your magic through a deck of cards.
 Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
     
 **Card Focus**  
-You can use a Card deck as your spellcasting focus.
+You can use a Card Deck as your spellcasting focus.
     
 **Card Tricks**  
 You learn the *Thaumaturgy* and *Guidance* cantrip. When you cast those cantrips through card deck and you can use it to create illusions that duplicate the effects of stage magic or use it to reveal a divination to a target. You can conceal the Verbal and Somatic components of the spell as ordinary conversation or card handling.
@@ -58,7 +58,7 @@ You've developed the ability to instantly recall an unprepared spell in moments 
 You increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
     
 **Compartmentalize**  
-As an :rsc-action: Action, you can instantly learn a spell from your available class spell list (or spellbook, if your class prepare spells from one) that you did not know or have prepared. This spell choice must be of a level for which you have :rsc-spell-slot: Spell Slots. You then lose the knowledge or preparation of a different spell of your choice of equal or higher spell level. 
+As an :rsc-action: **Action**, you can instantly learn a spell from your available class spell list (or spellbook, if your class prepare spells from one) that you did not know or have prepared. This spell choice must be of a level for which you have :rsc-spell-slot: **Spell Slots**. You then lose the knowledge or preparation of a different spell of your choice of equal or higher spell level. 
     
 Once you use this ability, you must finish a Short Rest or Long Rest before you can use it again.
 
@@ -74,10 +74,10 @@ You have a quick hand and keen eye when employing firearms, granting you the fol
 Increase your Dexterity score by 1, to a maximum of 20.
     
 **Dual Wielding**  
-When you make the extra attack of the :weapon-prop-light: Light weapon property, you can add your Ability Modifier to the damage of the extra attack if that attack is with a firearm that has the :weapon-prop-light: Light property.
+When you make the extra attack of the :weapon-prop-light: **Light** weapon property, you can add your Ability Modifier to the damage of the extra attack if that attack is with a Firearm that has the :weapon-prop-light: **Light** property.
     
 **Quickshot**  
-After you roll for Initiative, you can take a :rsc-reaction: Reaction to make a single attack with a Firearm.
+After you roll for Initiative, you can take a :rsc-r: Reaction to make a single attack with a Firearm.
 
 ---
 
@@ -92,9 +92,9 @@ You increase your Intelligence or Wisdom score by 1, up to a maximum of 20.
 
 
 **Swift Help**  
-You can take the Help action as a Bonus Action.
+You can take the Help action as a :rsc-b: **Bonus Action**.
 
-If you use a Help action to give Advantage on an ability check with a skill or tool you are proficient in, the target can treat a result of 7 or lower on the d20 as an 8.
+If you use a Help action to give :d20-adv: **Advantage** on an ability check with a skill or tool you are proficient in, the target can treat a result of 7 or lower on the d20 as an 8.
 
 ---
 
@@ -108,7 +108,7 @@ You have learned to change your fighting stance to best meet the challenges you 
 You increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.
 
 **Stance Change**  
-You learn an additional Fighting Style feat of your choice. You do not gain the benefit of the Fighting Style.
+You learn a Fighting Style feat of your choice. You do not gain the benefit of the Fighting Style.
 
 As a :rsc-b: Bonus Action, you can choose to benefit from the Fighting Style feat you gained from this feat, losing the benefit of one other Fighting Style feat you currently have. To regain the benefit of another Fighting Style, you must use a Bonus Action to switch back.
 
@@ -146,8 +146,8 @@ You are considered to be one size larger to determine your [Carrying Capacity](.
 **Might is Power**  
 Whenever you make a Strength-based D20 Test, you can treat a roll of 7 or lower on the d20 as an 8.
 
-**Moving Mountain**  
-Creatures with the same size as you and smaller has :d20-disadv: Disadvantage on the :d20-save: Saving Throw of escaping your Grapple.
+**Iron Grip**  
+Creatures with the same size as you and smaller has :d20-disadv: **Disadvantage** on the saving throw of escaping your Grapple.
 
 ---
 
@@ -206,10 +206,10 @@ One-handed weapons and blades are an extension of your arm, graceful as the wind
 You increase your Dexterity by 1, up to a maximum of 20.
     
 **Dynamic Swordplay**  
-When you take the Attack action and attack with melee weapon that has the :weapon-prop-finesse: Finesse property, you can choose to deal either :dmg-slashing: Slashing or :dmg-piercing: Piercing damage.
+When you take the Attack action and attack with melee weapon that has the :weapon-prop-finesse: **Finesse** property, you can choose to deal either :dmg-slashing: **Slashing** or :dmg-piercing: **Piercing** damage.
 
 **Fleuret**  
-The first creature you hit on your turn has :d20-disadv: Disadvantage on any attack against you until the start of your next turn.
+The first creature you hit on your turn has :d20-disadv: **Disadvantage** on any attack against you until the start of your next turn.
 
 ---
 
@@ -242,7 +242,7 @@ You gain the following benefits:
 **Ability Score Increase**  
 Increase your Dexterity by 1, to a maximum of 20.
 
-**Return Fire**  
-When a creature you can see hits or misses you with a ranged attack, you can take a Reaction and make one ranged weapon attack against that creature with ranged or thrown weapon that has the :weapon-prop-light: **Light** property.
+**Return Fire**   
+When a creature you can see hits or misses you with a ranged attack, you can take a :rsc-r: **Reaction** and make one ranged weapon attack against that creature with ranged or thrown weapon that has the :weapon-prop-light: **Light** property.
 
 ---

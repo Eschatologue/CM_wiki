@@ -84,7 +84,7 @@ When you take the **Attack** Action on your turn and attack with a Light weapon,
 
 #### :weapon-prop-loading:{ .lg } Loading
 
-Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an :rsc-action: **Action**, :rsc-b: **Bonus Action**, or :rsc-reaction: **Reaction** to fire it, regardless of the number of attacks you can normally make.
+Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an :rsc-action: **Action**, :rsc-b: **Bonus Action**, or :rsc-r: **Reaction** to fire it, regardless of the number of attacks you can normally make.
 
 ---
 

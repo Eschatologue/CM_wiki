@@ -58,7 +58,7 @@ This Metamagic only changes the initial save. Any subsequent :d20-save: Saving T
 
 **Cost:** 1 :class-phb24-sorcerer: Sorcery Point(s)
 
-When you fail an :d20-check: Ability Check, you can take a :rsc-reaction: Reaction to spend 1 Sorcery Point(s) to re-roll the :die-d20: d20. You must use the new :die-d20: d20 roll, potentially turning a failure into a success.
+When you fail an :d20-check: Ability Check, you can take a :rsc-r: Reaction to spend 1 Sorcery Point(s) to re-roll the :die-d20: d20. You must use the new :die-d20: d20 roll, potentially turning a failure into a success.
 
 ---
 

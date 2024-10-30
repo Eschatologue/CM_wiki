@@ -31,7 +31,7 @@ Additionally, while you aren't wearing any Light, Medium or Heavy armour, you ga
 
 ### Level 6: Ruthless Combatant
 
-Whenever you deal damage with your Unarmed Strike, it can deal your choice of :dmg-force: Force damage or its normal damage type. Moreover, whenever a creature within your reach hit or miss an attack roll against you, you can take a :rsc-reaction: Reaction and make one Unarmed Strike against it.
+Whenever you deal damage with your Unarmed Strike, it can deal your choice of :dmg-force: Force damage or its normal damage type. Moreover, whenever a creature within your reach hit or miss an attack roll against you, you can take a :rsc-r: Reaction and make one Unarmed Strike against it.
 
 ### Level 6: Forceful Rend
 

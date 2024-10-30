@@ -39,7 +39,7 @@ You choose when to take a Bonus Action during your turn unless the Bonus Action'
 
 ## Reactions
 
-Certain special abilities, spells, and situations allow yout ake special actions called a :rsc-reaction: **Reaction** A Reaction is an instant response to a trigger of some kind, which can occur on your turn or on someeone else's. The Opportunity Attack is the most common type of Reactions.
+Certain special abilities, spells, and situations allow yout ake special actions called a :rsc-r: **Reaction** A Reaction is an instant response to a trigger of some kind, which can occur on your turn or on someeone else's. The Opportunity Attack is the most common type of Reactions.
 
 When you take a Reaction, you can't take another one until the start of your next turn. If the reaction interrupts another creature's turn, tjat creature can continue its turn right after the Reaction.
 
@@ -63,7 +63,7 @@ Certain features, such as the Extra Attack feature of the fighter, allow you to 
 
 ### Cast a Spell
 
-**Cost:** :rsc-action: Action, :rsc-b: Bonus Action, or :rsc-reaction: Reaction
+**Cost:** :rsc-action: Action, :rsc-b: Bonus Action, or :rsc-r: Reaction
 
 Spellcasters such as Wizards and Clerics, as well as many monsters, have access to spells and can use them to great effect in combat. 
 
@@ -137,7 +137,7 @@ The condition ends on you immediately after any of the following occurrences:
 
 ### Identify a Spell
 
-**Cost:** :rsc-action: Action or :rsc-reaction: Reaction
+**Cost:** :rsc-action: Action or :rsc-r: Reaction
 
 A character can use their reaction to identify a spell as it's being cast, or they can use an action on their turn to identify a spell by its effect after it is cast.
 
@@ -159,11 +159,11 @@ If you cast a spell that has a casting time of 1 minute or longer, you must take
 
 ### Opportunity Attack
 
-**Cost:** :rsc-reaction: Reaction
+**Cost:** :rsc-r: Reaction
 
 In a fight, everyone is constantly watching for enemies to drop their guard. You can rarely move heedlessly past your foes without putting yourself in danger; doing so provokes an Opportunity Attack.
 
-You can make an **Opportunity Attack** when a hostile creature that you can see moves out of your reach. To make the Opportunity Attack, you use your :rsc-reaction: **Reaction** to make one melee attack against the provoking creature. The attack interrupts the provoking creature's movement, occurring right before the creature leaves your reach.
+You can make an **Opportunity Attack** when a hostile creature that you can see moves out of your reach. To make the Opportunity Attack, you use your :rsc-r: **Reaction** to make one melee attack against the provoking creature. The attack interrupts the provoking creature's movement, occurring right before the creature leaves your reach.
 
 Opportunity Attack is also often referred to as 'Attack of Opportunity', they are both the same.
 
@@ -173,13 +173,13 @@ Opportunity Attack is also often referred to as 'Attack of Opportunity', they ar
 
 **Cost:** :rsc-action: Action
 
-You take the **Ready** action to wait for a particular circumstance before you act. To do so, you take this action on your turn, which lets you act by taking a :rsc-reaction: **Reaction** before the start of your next turn.
+You take the **Ready** action to wait for a particular circumstance before you act. To do so, you take this action on your turn, which lets you act by taking a :rsc-r: **Reaction** before the start of your next turn.
 
 First, you decide what perceivable circumstance will trigger your Reaction. Then, you choose the action you will take in response to that trigger, or you choose to move up to your Speed in response to it. Examples include "If the cultist steps on the trapdoor, I'll pull the lever that opens it," and "If the zombie steps next to me, I move away."
 
 When the trigger occurs, you can either take your Reaction right after the trigger finishes or ignore the trigger.
 
-***Readying a Spell.*** When you Ready a spell, you cast it as normal (expending any resources used to cast it) but hold its energy, which you release with your :rsc-reaction: **Reaction** when the trigger occurs. To be readied, a spell must have a casting time of an action, and holding on to the spell's magic requires Concentration, which you can maintain up to the start of your next turn. If your Concentration is broken, the spell dissipates without taking effect.
+***Readying a Spell.*** When you Ready a spell, you cast it as normal (expending any resources used to cast it) but hold its energy, which you release with your :rsc-r: **Reaction** when the trigger occurs. To be readied, a spell must have a casting time of an action, and holding on to the spell's magic requires Concentration, which you can maintain up to the start of your next turn. If your Concentration is broken, the spell dissipates without taking effect.
 
 ---
 

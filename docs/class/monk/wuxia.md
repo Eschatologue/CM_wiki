@@ -27,7 +27,7 @@ You also gain the following benefits:
 
 ***Masterful Aim.*** As a Bonus Action you can focus your spirit to increase your accuracy. For the next Wuxia Weapon attack roll you make before the start of your next turn, you can treat a d20 roll of 7 or lower as an 8. You can spend 2 Focus Point to instead treat that d20 roll of 9 or lower as a 10.
 
-***Masterful Parry.*** While you are wielding a melee Wuxia Weapon and a creature you can see hits you with a melee attack, you can take a :rsc-reaction: Reaction to add your Wisdom modifier (minimum of +1) to your Armour Class against that attack. If the Attack misses, you can spend 2 Focus Point to make a melee attack against the creature that attacks you as part of the same Reaction.
+***Masterful Parry.*** While you are wielding a melee Wuxia Weapon and a creature you can see hits you with a melee attack, you can take a :rsc-r: Reaction to add your Wisdom modifier (minimum of +1) to your Armour Class against that attack. If the Attack misses, you can spend 2 Focus Point to make a melee attack against the creature that attacks you as part of the same Reaction.
 
 ### Level 6: One with the Steel
 

@@ -2,6 +2,8 @@
 
 These Fighting Style Feature are homebrew.
 
+---
+
 ### Gallian Swordplay
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
@@ -22,7 +24,7 @@ When you make an attack with a Cold Weapon that has :weapon-prop-heavy: **Heavy*
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-You gain training with Shields and it can be used as a Martial Melee Weapon. The Shield deals :dmg-blunt: Bludgeoning damage equal to your Strength modifier plus a number of d4s equal to the AC granted by the Shield. You can make attack with a Shield as a :rsc-b: **Bonus Action**.
+You gain training with Shields and it can be used as a Martial Melee Weapon. The Shield deals :dmg-blunt: Bludgeoning damage equal to your Strength modifier plus a number of d4s equal to the AC granted by the Shield. You can take the Attack action using a Shield as a :rsc-b: **Bonus Action**.
 
 ---
 
@@ -74,7 +76,7 @@ Moreover, your attack with Ranged weapon doesn't have :d20-disadv: Disadvantage 
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-When a creature within 5 feet of you makes an attack against a creature that you can see, you can take a :rsc-reaction: Reaction to grant it :d20-adv: Advantage on its attack roll. You must be carrying a banner, flag, or standard in your hand. A holy symbol emblazoned on a Shield also suffice.
+When a creature within 5 feet of you makes an attack against a creature that you can see, you can take a :rsc-r: Reaction to grant it :d20-adv: Advantage on its attack roll. You must be carrying a banner, flag, or standard in your hand. A holy symbol emblazoned on a Shield also suffice.
 
 ---
 
@@ -92,10 +94,9 @@ Moreover, you also use your Strength instead of your Dexterity to fufill the :we
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-While wielding a melee weapon in one hand and no other weapon, you gain the following benefits: 
+While wielding a single Melee weapon in one hand, you gain a +1 bonus to your attack rolls and +1 to your AC. Both of these bonuses increases to +2 if you are in an area of Difficult Terrain or if your Speed is reduced by any environmental or magical factors. 
 
-- You gain a +1 bonus to your attack rolls and +1 to your AC. Both of these bonuses increases to +2 if you are in an area of Difficult Terrain or if your Speed is reduced by any environmental factors. 
-- You can make an Unarmed Strike (Grapple & Shove only) as a :rsc-b: Bonus Action. You can do this even while wielding a Shield in your other hand.
+Moreover, you can make an *Unarmed Strike* (Grapple & Shove only) as a :rsc-b: Bonus Action. You can do this even while wielding a Shield in your other hand.
 
 ---
 
@@ -103,6 +104,6 @@ While wielding a melee weapon in one hand and no other weapon, you gain the foll
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-While wielding a single weapon with the :weapon-prop-versatile: **Versatile** property and no shield, you gain a +1 bonus to your attack roll and damage roll with that weapon. While doing so, you can also take a :rsc-b: **Bonus Action** to make a single Unarmed Strike (Grapple or Shove only) or take the Utilise action.
+While wielding a single weapon with the :weapon-prop-versatile: **Versatile** property and no Shield, you gain a +1 bonus to your attack roll and damage roll with that weapon. While doing so, you can also take a :rsc-b: **Bonus Action** to make a single Unarmed Strike (Grapple or Shove only) or take the Utilise action.
 
 ---
