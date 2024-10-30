@@ -90,16 +90,6 @@ Moreover, you also use your Strength instead of your Dexterity to fufill the :we
 
 ---
 
-### Trench Fighting
-
-*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
-
-While wielding a single Melee weapon in one hand, you gain a +1 bonus to your attack rolls and +1 to your AC. Both of these bonuses increases to +2 if you are in an area of Difficult Terrain or if your Speed is reduced by any environmental or magical factors. 
-
-Moreover, you can make an *Unarmed Strike* (Grapple & Shove only) as a :rsc-b: Bonus Action. You can do this even while wielding a Shield in your other hand.
-
----
-
 ### Versatile Fighting
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*

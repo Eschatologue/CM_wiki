@@ -78,7 +78,7 @@ Your study of history rewards you with the following benefits:
 You gain Proficiency in the History skill. If you are already proficient in the skill, you add double your Proficiency Bonus to checks you make with it.
     
 **An Example for Every Situation**  
-When you take the Help action to aid another creature's :d20-check: **Ability Check**, you can make a DC 15 Intelligence (History) check. On a success, that creature's check gains a bonus equal to your Proficiency Bonus, as you share pertinent advice and historical examples. To receive this bonus, the creature must be able to understand what you're saying.
+When you take the Help action to aid another creature's ability check, you can make a DC 15 Intelligence (History) check. On a success, that creature's check gains a bonus equal to your Proficiency Bonus, as you share pertinent advice and historical examples. To receive this bonus, the creature must be able to understand what you're saying.
 
 ---
 
@@ -116,6 +116,17 @@ You can create written ciphers. Others can't decipher a code you create unless y
     
 **Analyze and Empathize**  
 If you spend 1 minute analyzing a language you do not know, you can discern small bits of information such as intent, direction, and emotion.
+
+-- 
+
+### Psychoanalyst
+
+*Origin Feat (Prerequisite: Wisdom and Intelligence 11+)*
+
+You have knack for studying and exploiting mannerisms and thought patterns:
+
+**Gaslight**  
+You can add half your Intelligence modifier, rounded up, to Wisdom (Insight) and Charisma (Deception, Intimidation & Persuasion) checks when interacting with creatures that is able to understand you.
 
 ---
 

@@ -24,10 +24,10 @@ The table below lists available General Feats, divided into two categories: *PHB
 
 | Homebrew Feats | | | |
 |---|---|---|---|
-| [Artifice Initiate] | [Historian] | [Dominion's Armaments] | |
-| [Burglar] | [Lifelong Learner] | [Wise One] | |
-| [Eldritch Initiate] | [Linguist] |  | |
-| [Fighting Initiate] | [Sorcerous Spark] |  | |
+| [Artifice Initiate] | [Historian] | [Sorcerous Spark] | |
+| [Burglar] | [Lifelong Learner] | [Dominion's Armaments] | |
+| [Eldritch Initiate] | [Linguist] | [Wise One] | |
+| [Fighting Initiate] | [Psychoanalyst] |  | |
 
 [Alert]: phb24.md#alert
 [Crafter]: phb24.md#crafter
@@ -47,6 +47,7 @@ The table below lists available General Feats, divided into two categories: *PHB
 [Historian]: hb.md#historian
 [Lifelong Learner]: hb.md#lifelong-learner
 [Linguist]: hb.md#linguist
+[Psychoanalyst]: hb.md#psychoanalyst
 [Sorcerous Spark]: hb.md#sorcerous-spark
 [Dominion's Armaments]: hb.md#dominions-armaments
 [Wise One]: hb.md#wise-one

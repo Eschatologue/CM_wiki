@@ -11,17 +11,18 @@ These feats are in the Advanced Feats category.
 
 ### Ambidexterous
 
-*Advanced Feat (Prerequisites: Level 8+, Strength or Dexterity 15+)*
+*Advanced Feat (Prerequisites: Level 8+, Strength or Dexterity 15+, [Two-weapon Fighting](./feat-fighting-style/phb24.md#two-weapon-fighting) feat)*
 
 You learn to wield even more weapon variety with both of your hands.
 
 **Bonus AC**  
 You gain a +1 bonus to your AC while you are wielding a separate melee weapon in each hand.
 
-**Masterful Dual Wielding**  
-When you take the Attack action on your turn and attack with a weapon that lacks the :weapon-prop-heavy: **Heavy** or :weapon-prop-two-handed: **Two-handed** property, you can make one extra attack as a :rsc-b: Bonus Action later on the same turn with a different weapon, which must be a Melee weapon that lacks the :weapon-prop-two-handed: **Two-Handed** property. 
+**Strong Arm**  
+While you are wielding two Melee weapons, both are treated as if they had the :weapon-prop-light: **Light** property.
 
-You don’t add your ability modifier to this extra attack’s damage unless it’s negative or if you have the [Two-Weapon Fighting](./feat-fighting-style/phb24.md#two-weapon-fighting) feat.
+**Flurry**  
+When you make the extra off-hand attack using the :weapon-prop-light: **Light** property, you can make it as part of the Attack action, instead of as a Bonus Action. You can still make this extra attack only once per turn.
 
 **Quick Draw**  
 You can draw or stow two weapons that lack the :weapon-prop-two-handed: **Two-Handed** property when you would normally be able to draw or stow only one.
@@ -72,6 +73,17 @@ The number you need to roll for a Critical Hit is reduced by 1 when you attack w
 **Multi-Mastery**  
 When you attack with a Melee Weapon that you are holding with two hands whose mastery property you can use, you can replace that property with the Cleave, Graze, Topple, or Vex property for that attack, ignoring its prerequisites.
 
+--- 
+
+### Master of None
+
+*Advanced Feat (Prerequisites: Level 8+, Intelligence, Wisdom, or Charisma 13+)*
+
+You gain the following benefit:
+
+**Adaptive Proficiencies**  
+You gain proficiency in two skill of your choice. When you finish a Short Rest, you may change the chosen skill proficiencies to a different one.
+
 ---
 
 ### Mystical Conflux
@@ -101,7 +113,7 @@ Through meticulous refinement and tinkering of your equipment, you gain unique a
 When a creature you can see hits you or an ally within 5 feet with an attack roll, you can take a :rsc-r: **Reaction** to reduce the damage dealt by a number of d4s equal to the AC granted by the shield.
 
 **Shield Expert**  
-A shield has the :weapon-prop: **Thrown (30/60)** property and has the Topple and Push Mastery property for you. You can only use one Mastery property per attack. Whether a Ranged attack with a shield hits or misses, the shield bounces back to you harmlessly.
+A shield has the :weapon-prop-thrown: **Thrown (30/60)** property and has the Topple and Push Mastery property for you. You can only use one Mastery property per attack. Whether a Ranged attack with a shield hits or misses, the shield bounces back to you harmlessly.
 
 **Transforming Shield**  
 As a :rsc-b: **Bonus Action**, while wielding both a shield and a melee weapon, you can combine the two, transforming the weapon. The melee weapon gains the :weapon-prop-two-handed: **Two-handed** property and deals additional damage equal to the shield’s damage die. You lose the shield’s AC bonus in this form. 
