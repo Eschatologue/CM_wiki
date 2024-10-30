@@ -95,12 +95,12 @@ You can cast the *Identify* spell without expending a spell slot or Material com
 
 *Advanced Feat (Prerequisites: Level 8+, [Shield Warrior](../feat/feat-fighting-style/hb.md#shield-warrior) feat, [Shield Master](../feat/feat-general/phb24.md#shield-master) feat)*
 
-Through meticulous refinement and tinkering of your equipment, you gain unique abilities with shields.
+Through meticulous refinement and tinkering of your equipment, you gain unique abilities with shields. **While wielding a Shield**, you gain the following benefits:
 
 **Damage Reduction**  
-While wielding a shield, when a creature you can see hits you or an ally within 5 feet with an attack roll, you can take a :rsc-r: **Reaction** to reduce the damage dealt by a number of d4s equal to the AC granted by the shield.
+When a creature you can see hits you or an ally within 5 feet with an attack roll, you can take a :rsc-r: **Reaction** to reduce the damage dealt by a number of d4s equal to the AC granted by the shield.
 
-**Shield Throw**  
+**Shield Expert**  
 A shield has the :weapon-prop: **Thrown (30/60)** property and has the Topple and Push Mastery property for you. You can only use one Mastery property per attack. Whether a Ranged attack with a shield hits or misses, the shield bounces back to you harmlessly.
 
 **Transforming Shield**  
