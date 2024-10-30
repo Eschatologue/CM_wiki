@@ -111,7 +111,7 @@ Whenever you use your *Shield Throw*, choose one of the following options for it
   
 :   ***Prone.*** The target must succeed on a Strength or Dexterity saving throw (its choice) or it has the Prone condition.
 
-:   ***Push.*** The target must succeed on a Strength or Dexterity saving throw (its choice) or be pushed 10 feet away from you.
+:   ***Shove.*** The target must succeed on a Strength or Dexterity saving throw (its choice) or be pushed 10 feet away from you.
 
 Whether the result is a hit, miss, success, or failure, the shield harmlessly returns to you at the end of the throw.
 
