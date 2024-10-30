@@ -1,6 +1,4 @@
 /* Imports */
-@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap");
 :root {
   /* Homebrew */
@@ -425,8 +423,8 @@
 }
 
 .md-status::after {
-  width: 1.125em;
-  height: 1.125em;
+  width: px2em(18px);
+  height: px2em(18px);
   vertical-align: baseline;
   mask-position: center;
 }
@@ -463,9 +461,7 @@
 }
 .md-typeset h1,
 .md-typeset h2,
-.md-typeset h3,
-.md-typeset h4,
-.md-typeset h5 {
+.md-typeset h3 {
   font-family: "Jost", sans-serif;
   font-variant: small-caps;
 }
@@ -481,7 +477,8 @@
   font-weight: 500;
   letter-spacing: 0.0315rem;
   border-bottom: 0.125rem solid rgba(255, 255, 255, 0.25);
-  margin: 0.9rem 0 0.25rem 0;
+  margin: 0.9rem 0 0.2rem 0;
+  padding-bottom: 0.1rem;
 }
 .md-typeset h3 {
   font-size: 0.91rem;
@@ -493,7 +490,7 @@
 .md-typeset h3::after {
   content: " ";
   padding-bottom: 0.1rem;
-  border-bottom: 0.1rem solid rgba(255, 255, 255, 0.15);
+  border-bottom: 0.1125rem solid rgba(255, 255, 255, 0.15);
   margin: 0 0 0.3rem 0.5rem;
   flex: 20 0 1rem;
 }
@@ -501,13 +498,14 @@
   font-size: 0.7875rem;
   letter-spacing: 0.023625rem;
   font-weight: 600;
-  margin: 0.3rem 0 0.15rem;
+  margin: 0.4rem 0 0.1rem 0;
   text-transform: capitalize !important;
 }
 .md-typeset h5 {
   font-size: 0.7rem;
+  letter-spacing: 0.021rem;
   font-weight: 450;
-  text-transform: capitalize;
+  text-transform: capitalize !important;
   margin-bottom: -0.2rem;
 }
 
@@ -545,7 +543,7 @@
   max-width: 35rem;
   font-size: 0.7rem;
   font-weight: normal;
-  border-radius: 0.25em;
+  border-radius: px2em(4px);
 }
 
 /* Grid Layout */
@@ -555,7 +553,7 @@
 
 /* Divider Line */
 .md-typeset hr {
-  border-bottom: 0.125em dashed rgba(255, 255, 255, 0.15);
+  border-bottom: px2em(2px) dashed rgba(255, 255, 255, 0.15);
 }
 
 .md-typeset table:not([class]) th,
@@ -564,7 +562,7 @@
   min-width: 0.0625em;
 }
 .md-typeset table:not([class]) th {
-  font-size: 0.595rem;
+  font-size: 0.63rem;
   font-weight: bold !important;
   text-transform: capitalize !important;
   vertical-align: bottom;
@@ -574,7 +572,7 @@
   padding: 0.6125em 1em;
 }
 .md-typeset table:not([class]) td {
-  font-size: 0.56rem;
+  font-size: 0.595rem;
   border-bottom: rgba(255, 255, 255, 0.12);
   background-color: rgba(255, 255, 255, 0.025);
 }
@@ -645,5 +643,7 @@
 [data-md-color-scheme=slate] .md-content {
   --md-typeset-a-color: #42A5F5;
 }
+
+/* Imports */
 
 /*# sourceMappingURL=extra.css.map */

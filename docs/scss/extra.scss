@@ -1,19 +1,18 @@
 /* Imports */
-@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
 
+@use "utility/convert";
+@use "library/iconLib";
 
-@import "utility/convert";
-@import "library/iconLib"; // Load this First
+@use "palette/accent";
+@use "palette/colour";
 
-@import "palette/colour";
+@use "base/admonition";
+@use "base/status";
 
-@import "base/admonition";
-@import "base/status";
+@use "base/typeset";
+@use "base/themeOveride";
+@use "base/table";
 
-@import "base/typeset";
-@import "base/themeOveride";
-@import "base/table";
+@use "material";
 
-@import "material";
+/* Imports */

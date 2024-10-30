@@ -1,3 +1,6 @@
+@use "sass:color";
+@use "../utility/convert";
+
 /* Revert to Legacy */
 .md-typeset .admonition,
 .md-typeset details {
@@ -15,7 +18,7 @@
 
 // Homebrew
 .md-typeset {
-    $colorAdmonition_homebrew: hex3hsl(#ffb624);
+    $colorAdmonition_homebrew: convert.hex3hsl(#ffb624);
     .admonition.homebrew,
     details.homebrew {
         border-color: $colorAdmonition_homebrew;
@@ -24,7 +27,7 @@
     .homebrew {
         > .admonition-title,
         > summary {
-            background-color: transparentize($colorAdmonition_homebrew, 0.9);
+            background-color: color.adjust($colorAdmonition_homebrew, $alpha: -0.9);
         }
 
         > .admonition-title::before,

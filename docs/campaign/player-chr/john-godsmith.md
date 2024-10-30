@@ -12,7 +12,7 @@ Your name, your family, and your tribe all converge at a singular point in histo
 
 ### Level 1: The Joy of Fishing
 
-Memories from somewhere beyond **somehow* *gives you Proficiency with [Fishing Supplies](../../equipment/tools/artisan-tools.md#fishing-supplies) if you don't already have it. Moreover, when you don't have Fishing Supplies, you can spend 1 hour and 150 SP worth of material to create one. This can be done as part of a Short Rest.
+Memories from somewhere beyond **somehow* *gives you Proficiency with [Fishing Supplies](../../equipment/tools/other-tools.md#fishings-supplies) if you don't already have it. Moreover, when you don't have Fishing Supplies, you can spend 1 hour and 150 SP worth of material to create one. This can be done as part of a Short Rest.
 
 ### Level 3: Heaven's Maledict
 

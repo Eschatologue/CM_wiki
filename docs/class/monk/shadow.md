@@ -36,4 +36,4 @@ As a Magic action while entirely within Dim Light or Darkness, you can spend 3 F
 
 ***Shadow Flurry.*** You can use your Flurry of Blows without spending any Focus Points
 
-[Unarmed Strike]: ../../gameplay/phb/actions/options.md#unarmed-strike
+[Unarmed Strike]: ../../gameplay/phb/action.md#unarmed-strike

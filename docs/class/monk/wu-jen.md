@@ -87,7 +87,7 @@ When you hit your target with an attack using this feature, you can spend 1 Focu
 
 ***Teleport.*** You instantly teleport to an unoccupied space you can see within 5 feet of your target.
 
-[Unarmed Strike]: ../../gameplay/phb/actions/options.md#unarmed-strike
+[Unarmed Strike]: ../../gameplay/phb/action.md#unarmed-strike
 
 ### Level 11: Spiritual Flow
 

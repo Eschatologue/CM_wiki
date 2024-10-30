@@ -10,7 +10,7 @@ This Sorcerer spell list includes all spells available from `PHB'24`, `TCE`, `XG
 
 === "Cantrip"
 
-    | Name | School | Casting Time | Range | Duration | Components | Source |
+    | Name | School | Time | Range | Duration | Components | Source |
     |---|---|---|---|---|---|---|
     | *Acid Splash* | Evocation | Action | 60 feet | Instantaneous | V, S | PHB'24 |
     | *Blade Ward* | Abjuration | Action | Self | Concentration, up to 1 minute | V, S | PHB'24 |
@@ -47,7 +47,7 @@ This Sorcerer spell list includes all spells available from `PHB'24`, `TCE`, `XG
 
 === "Level 1"
 
-    | *Name* | School | Casting Time | Range | Duration | Components | Source |
+    | *Name* | School | Time | Range | Duration | Components | Source |
     |---|---|---|---|---|---|---|
     | *Absorb Elements* | Abjuration | Reaction | Self | 1 round | S | XGE |
     | *Burning Hands* | Evocation | Action | Self (15-foot cone) | Instantaneous | V, S | PHB'24 |
@@ -81,7 +81,7 @@ This Sorcerer spell list includes all spells available from `PHB'24`, `TCE`, `XG
 
 === "Level 2"
 
-    | *Name* | School | Casting Time | Range | Duration | Components | Source |
+    | *Name* | School | Time | Range | Duration | Components | Source |
     |---|---|---|---|---|---|---|
     | *Aganazzar's Scorcher* | Evocation | Action | 30 feet | Instantaneous | V, S, M (a red dragon's scale) | XGE |
     | *Alter Self* | Transmutation | Action | Self | Concentration, up to 1 hour | V, S | PHB'24 |
@@ -128,7 +128,7 @@ This Sorcerer spell list includes all spells available from `PHB'24`, `TCE`, `XG
 
 === "Level 3"
 
-    | *Name* | School | Casting Time | Range | Duration | Components | Source |
+    | *Name* | School | Time | Range | Duration | Components | Source |
     |---|---|---|---|---|---|---|
     | *Antagonize* | Enchantment | Action | 30 feet | Instantaneous | V, S, M (a playing card depicting a rogue) | BMT |
     | *Ashardalon's Stride* | Transmutation | Bonus | Self | Concentration, up to 1 minute | V, S | FTD |
@@ -166,7 +166,7 @@ This Sorcerer spell list includes all spells available from `PHB'24`, `TCE`, `XG
 
 === "Level 4"
 
-    | *Name* | School | Casting Time | Range | Duration | Components | Source |
+    | *Name* | School | Time | Range | Duration | Components | Source |
     |---|---|---|---|---|---|---|
     | *Banishment* | Abjuration | Action | 30 feet | Concentration, up to 1 minute | V, S, M (a pentacle) | PHB'24 |
     | *Blight* | Necromancy | Action | 30 feet | Instantaneous | V, S | PHB'24 |
@@ -189,7 +189,7 @@ This Sorcerer spell list includes all spells available from `PHB'24`, `TCE`, `XG
 
 === "Level 5"
 
-    | *Name* | School | Casting Time | Range | Duration | Components | Source |
+    | *Name* | School | Time | Range | Duration | Components | Source |
     |---|---|---|---|---|---|---|
     | *Animate Objects* | Transmutation | Action | 120 feet | Concentration, up to 1 minute | V, S | PHB'24 |
     | *Bigby's Hand* | Evocation | Action | 120 feet | Concentration, up to 1 minute | V, S, M (an eggshell and a glove) | PHB'24 |
@@ -213,7 +213,7 @@ This Sorcerer spell list includes all spells available from `PHB'24`, `TCE`, `XG
 
 === "Level 6"
 
-    | *Name* | School | Casting Time | Range | Duration | Components | Source |
+    | *Name* | School | Time | Range | Duration | Components | Source |
     |---|---|---|---|---|---|---|
     | *Arcane Gate* | Conjuration | Action | 500 feet | Concentration, up to 10 minutes | V, S | PHB'24 |
     | *Chain Lightning* | Evocation | Action | 150 feet | Instantaneous | V, S, M (three silver pins) | PHB'24 |
@@ -238,7 +238,7 @@ This Sorcerer spell list includes all spells available from `PHB'24`, `TCE`, `XG
 
 === "Level 7"
 
-    | *Name* | School | Casting Time | Range | Duration | Components | Source |
+    | *Name* | School | Time | Range | Duration | Components | Source |
     |---|---|---|---|---|---|---|
     | *Crown of Stars* | Evocation | Action | Self | 1 hour | V, S | XGE |
     | *Delayed Blast Fireball* | Evocation | Action | 150 feet | Concentration, up to 1 minute | V, S, M (a ball of bat guano and sulfur) | PHB'24 |
@@ -256,7 +256,7 @@ This Sorcerer spell list includes all spells available from `PHB'24`, `TCE`, `XG
 
 === "Level 8"
 
-    | *Name* | School | Casting Time | Range | Duration | Components | Source |
+    | *Name* | School | Time | Range | Duration | Components | Source |
     |---|---|---|---|---|---|---|
     | *Abi-Dalzim's Horrid Wilting* | Necromancy | Action | 150 feet | Instantaneous | V, S, M (a bit of sponge) | XGE |
     | *Demiplane* | Conjuration | Action | 60 feet | 1 hour | S | PHB'24 |
@@ -268,7 +268,7 @@ This Sorcerer spell list includes all spells available from `PHB'24`, `TCE`, `XG
 
 === "Level 9"
 
-    | *Name* | School | Casting Time | Range | Duration | Components | Source |
+    | *Name* | School | Time | Range | Duration | Components | Source |
     |---|---|---|---|---|---|---|
     | *Blade of Disaster* | Conjuration | Bonus | 60 feet | Concentration, up to 1 minute | V, S | TCE |
     | *Gate* | Conjuration | Action | 60 feet | Concentration, up to 1 minute | V, S, M (a diamond worth 5,000+ GP) | PHB'24 |

@@ -5,7 +5,7 @@ icon: material/math-integral-box
 
 # Dunamancy Spells
 
-| Level | Name | School | Casting Time | Range | Duration | Components | Source |
+| Level | Name | School | Time | Range | Duration | Components | Source |
 |:-:|---|---|---|---|---|---|---|
 | Cantrip | *Sapping Sting* | Necromancy | Action | 30 feet | Instantaneous | V, S | EGW |
 | 1 | *Gift of Alacrity* | Divination | 1 Min. | Touch | 8 hours | V, S | EGW |

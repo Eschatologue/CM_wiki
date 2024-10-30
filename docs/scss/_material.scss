@@ -1,11 +1,12 @@
-// Main Theme
+@use "./base/typeset";
+@use "./utility/convert";
 
 // Nav Bar
 .md-sidebar--primary,
 .md-sidebar--secondary,
 .md-tabs,
 .md-header {
-    font-family: $headingFont;
+    font-family: typeset.$headingFont;
 }
 
 // Main Theme Colour
@@ -17,12 +18,12 @@
     .md-header {
         color: var(--md-text-color);
         background-color: var(--md-default-bg-color);
-        border-bottom: px2rem(2.5px) solid var(--md-primary-fg-color);
+        border-bottom: convert.px2rem(2.5px) solid var(--md-primary-fg-color);
 
         &[data-md-state="shadow"] {
             box-shadow:
-                0 0 px2rem(4px) rgba(0, 0, 0, 0.15),
-                0 0 px2rem(4px) px2rem(8px) rgba(0, 0, 0, 0.2);
+                0 0 convert.px2rem(4px) rgba(0, 0, 0, 0.15),
+                0 0 convert.px2rem(4px) convert.px2rem(8px) rgba(0, 0, 0, 0.2);
         }
     }
 

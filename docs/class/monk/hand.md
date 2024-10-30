@@ -34,4 +34,4 @@ You gain the ability to set up lethal vibrations in someone’s body. When you h
 
 You can have only one creature under the effect of this feature at a time. You can end the vibrations harmlessly (no action required).
 
-[Unarmed Strike]: ../../gameplay/phb/actions/options.md#unarmed-strike
+[Unarmed Strike]: ../../gameplay/phb/action.md#unarmed-strike

@@ -7,7 +7,7 @@ hide:
 
 # Homebrew Spells
 
-| Level | Name | School | Casting Time | Range | Duration | Components | Source |
+| Level | Name | School | Time | Range | Duration | Components | Source |
 |:-:|---|---|---|---|---|---|---|
 | Cantrip | *Cosmic Flare* | Conjuration | Action | 60 feet | Instantaneous | V, S | CM |
 | 2 | *Foreign Ironwind* | Conjuration | Action | 30 feet | Instantaneous| S, M (a melee weapon worth 1+ SP) | CM |

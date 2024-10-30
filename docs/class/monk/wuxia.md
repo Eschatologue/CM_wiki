@@ -53,4 +53,4 @@ When you make an attack roll with a Wuxia weapon, you can choose to use your Mon
 
 Once you use this feature you must finish a Short or Long Rest before you can use it again.
 
-[Unarmed Strike]: ../../gameplay/phb/actions/options.md#unarmed-strike
+[Unarmed Strike]: ../../gameplay/phb/action.md#unarmed-strike

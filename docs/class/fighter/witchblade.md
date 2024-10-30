@@ -89,4 +89,4 @@ You siphon power from death. When a creature dies within 30 feet of you, you can
 
 Once you use this feature you must finish a Short or Long Rest before you can use it again.
 
-[Warlock spell list]: ../warlock/index.md#warlocks-spell-list
+[Warlock spell list]: ../../spells/class-specific/warlock.md

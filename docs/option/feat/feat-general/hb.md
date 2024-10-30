@@ -116,7 +116,7 @@ As a :rsc-b: Bonus Action, you can choose to benefit from the Fighting Style fea
 
 ### Metamagic Adept
 
-*General Feat (Prerequisite: Spellcasting or Pact Magic Feature, or [Sorcerous Spark](feat-origin.md#sorcerous-spark))*
+*General Feat (Prerequisite: Spellcasting or Pact Magic Feature, or [Sorcerous Spark](../feat-origin/hb.md#sorcerous-spark))*
 
 You've learned how to exert your will on your spells to alter how they function:
 

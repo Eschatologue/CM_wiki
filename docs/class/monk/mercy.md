@@ -42,4 +42,4 @@ Your mastery of life energy opens the door to the ultimate mercy. As a Magic act
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
-[Unarmed Strike]: ../../gameplay/phb/actions/options.md#unarmed-strike
+[Unarmed Strike]: ../../gameplay/phb/action.md#unarmed-strike

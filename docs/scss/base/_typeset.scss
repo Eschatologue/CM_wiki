@@ -1,6 +1,10 @@
+@use "../utility/convert";
+
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+
 // General Typeset Variables
 $headingFont: "Jost", sans-serif;
-$defaultFontSize: px2rem(14px);
+$defaultFontSize: convert.px2rem(14px);
 $defaultFontWeight: 400;
 
 // Heading Size Variables
@@ -20,23 +24,21 @@ $h4Size: $defaultFontSize * 1.125;
     }
 
     p {
-        margin: px2rem(6px) 0 px2rem(6px) 0;
+        margin: convert.px2rem(6px) 0 convert.px2rem(6px) 0;
     }
 
     ul,
     ol {
-        margin: px2rem(2px) 0 px2rem(2px) 0;
+        margin: convert.px2rem(2px) 0 convert.px2rem(2px) 0;
     }
     dd {
-        margin: px2rem(-2px) 0 px2rem(2px) 0;
+        margin: convert.px2rem(-2px) 0 convert.px2rem(2px) 0;
     }
 
     // Heading Styles
     h1,
     h2,
-    h3,
-    h4,
-    h5 {
+    h3 {
         font-family: $headingFont;
         font-variant: small-caps;
     }
@@ -46,30 +48,31 @@ $h4Size: $defaultFontSize * 1.125;
         letter-spacing: $h1Size * 0.02;
         font-weight: $defaultFontWeight * 1.25;
         margin-top: -0.25em;
-        margin-bottom: px2rem(8px);
+        margin-bottom: convert.px2rem(8px);
     }
 
     h2 {
         font-size: $h2Size;
         font-weight: $defaultFontWeight * 1.25;
         letter-spacing: $h2Size * 0.03;
-        border-bottom: px2rem(2.5px) solid rgba(255, 255, 255, 0.25);
-        margin: px2rem(18px) 0 px2rem(5px) 0;
+        border-bottom: convert.px2rem(2.5px) solid rgba(255, 255, 255, 0.25);
+        margin: convert.px2rem(18px) 0 convert.px2rem(4px) 0;
+        padding-bottom: convert.px2rem(2px);
     }
 
     h3 {
         font-size: $h3Size;
         font-weight: $defaultFontWeight * 1.25;
         letter-spacing: $h3Size * 0.04;
-        margin: px2rem(12px) 0 px2rem(4px) 0;
+        margin: convert.px2rem(12px) 0 convert.px2rem(4px) 0;
         display: flex;
 
         &::after {
             content: " ";
-            padding-bottom: px2rem(2px);
-            border-bottom: px2rem(2px) solid rgba(255, 255, 255, 0.15);
-            margin: 0 0 px2rem(6px) px2rem(10px);
-            flex: 20 0 px2rem(20px);
+            padding-bottom: convert.px2rem(2px);
+            border-bottom: convert.px2rem(2.25px) solid rgba(255, 255, 255, 0.15);
+            margin: 0 0 convert.px2rem(6px) convert.px2rem(10px);
+            flex: 20 0 convert.px2rem(20px);
         }
     }
 
@@ -77,15 +80,16 @@ $h4Size: $defaultFontSize * 1.125;
         font-size: $h4Size;
         letter-spacing: $h4Size * 0.03;
         font-weight: $defaultFontWeight * 1.5;
-        margin: px2rem(6px) 0 px2rem(3px);
+        margin: convert.px2rem(8px) 0 convert.px2rem(2px) 0;
         text-transform: capitalize !important;
     }
 
     h5 {
         font-size: $defaultFontSize;
+        letter-spacing: $defaultFontSize * 0.03;
         font-weight: 450;
-        text-transform: capitalize;
-        margin-bottom: px2rem(-4px);
+        text-transform: capitalize !important;
+        margin-bottom: convert.px2rem(-4px);
     }
 }
 

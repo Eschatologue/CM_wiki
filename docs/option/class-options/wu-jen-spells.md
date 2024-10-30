@@ -11,7 +11,7 @@ This Wu Jen spell list includes all spells available from `PHB'24`, `TCE`, `XGE`
 
 === "Cantrip"
 
-    | Name | School | Casting Time | Range | Duration | Components | Source |
+    | Name | School | Time | Range | Duration | Components | Source |
     |---|---|---|---|---|---|---|
     | *Blade Ward* | Abjuration | Action | Self | Concentration, up to 1 minute | V, S | PHB'24 |
     | *Control Flames* | Transmutation | Action | 60 feet | Instantaneous or 1 hour (see below) | S | XGE |
@@ -32,7 +32,7 @@ This Wu Jen spell list includes all spells available from `PHB'24`, `TCE`, `XGE`
 
 === "Level 1"
 
-    | Name | School | Casting Time | Range | Duration | Components | Source |
+    | Name | School | Time | Range | Duration | Components | Source |
     |---|---|---|---|---|---|---|
     | *Absorb Elements* | Abjuration | Reaction | Self | 1 round | S | XGE |
     | *Armour of Agathys* | Abjuration | Bonus | Self | 1 hour | V, S, M (a shard of blue glass) | PHB'24 |
@@ -51,7 +51,7 @@ This Wu Jen spell list includes all spells available from `PHB'24`, `TCE`, `XGE`
 
 === "Level 2"
 
-    | Name | School | Casting Time | Range | Duration | Components | Source |
+    | Name | School | Time | Range | Duration | Components | Source |
     |---|---|---|---|---|---|---|
     | *Barkskin* | Transmutation | Bonus | Touch | 1 hour | V, S, M (a handful of oak bark) | PHB'24 |
     | *Continual Flame* | Evocation | Action | Touch | Until dispelled | V, S, M (ruby dust worth 50+ GP, which the spell consumes) | PHB'24 |
@@ -71,7 +71,7 @@ This Wu Jen spell list includes all spells available from `PHB'24`, `TCE`, `XGE`
 
 === "Level 3"
 
-    | Name | School | Casting Time | Range | Duration | Components | Source |
+    | Name | School | Time | Range | Duration | Components | Source |
     |---|---|---|---|---|---|---|
     | *Ashardalon's Stride* | Transmutation | Bonus | Self | Concentration, up to 1 minute | V, S | FTD |
     | *Call Lightning* | Conjuration | Action | 120 feet | Concentration, up to 10 minutes | V, S | PHB'24 |
@@ -95,7 +95,7 @@ This Wu Jen spell list includes all spells available from `PHB'24`, `TCE`, `XGE`
 
 === "Level 4"
 
-    | Name | School | Casting Time | Range | Duration | Components | Source |
+    | Name | School | Time | Range | Duration | Components | Source |
     |---|---|---|---|---|---|---|
     | *Conjure Woodland Beings* | Conjuration | Action | Self (10-foot emanation) | Concentration, up to 10 minutes | V, S | PHB'24 |
     | *Control Water* | Transmutation | Action | 300 feet | Concentration, up to 10 minutes | V, S, M (a mixture of water and dust) | PHB'24 |
