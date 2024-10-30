@@ -101,19 +101,7 @@ Through meticulous refinement and tinkering of your equipment, you gain unique a
 While wielding a shield, when a creature you can see hits you or an ally within 5 feet with an attack roll, you can take a :rsc-r: **Reaction** to reduce the damage dealt by a number of d4s equal to the AC granted by the shield.
 
 **Shield Throw**  
-Once per turn, when you take the Attack action, you can replace one of your attacks to make a *Shield Throw* attack using a shield you are currently wielding. Choose a target within 30 feet. 
-
-If an effect forces a saving throw the is DC equals to 8 plus your Proficiency Bonus and Strength modifier.
-
-Whenever you use your *Shield Throw*, choose one of the following options for its effect.
-
-:   ***Damage.*** Make a Ranged attack roll against the target. On a hit, the target takes your shield’s damage as :weapon-prop-blunt: Bludgeoning damage.
-  
-:   ***Prone.*** The target must succeed on a Strength or Dexterity saving throw (its choice) or it has the Prone condition.
-
-:   ***Shove.*** The target must succeed on a Strength or Dexterity saving throw (its choice) or be pushed 10 feet away from you.
-
-Whether the result is a hit, miss, success, or failure, the shield harmlessly returns to you at the end of the throw.
+A shield has the :weapon-prop: **Thrown (30/60)** property and has the Topple and Push Mastery property for you. You can only use one Mastery property per attack. Whether a Ranged attack with a shield hits or misses, the shield bounces back to you harmlessly.
 
 **Transforming Shield**  
 As a :rsc-b: **Bonus Action**, while wielding both a shield and a melee weapon, you can combine the two, transforming the weapon. The melee weapon gains the :weapon-prop-two-handed: **Two-handed** property and deals additional damage equal to the shield’s damage die. You lose the shield’s AC bonus in this form. 
