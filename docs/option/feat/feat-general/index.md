@@ -15,13 +15,13 @@ The table below lists available General Feats, divided into two categories: *PHB
 
 | PHB'24 Feats |  |  |  |  |
 |---|---|---|---|---|
-| [Ability Score Improvement] | [Durable] | [Lightly Armored] | [Polearm Master] | [Slasher] |
+| [Ability Score Improvement] | [Durable] | [Lightly Armoured] | [Polearm Master] | [Slasher] |
 | [Actor] | [Elemental Adept] | [Mage Slayer] | [Resilient] | [Speedy] |
 | [Athlete] | [Fey-Touched] | [Martial Weapon Training] | [Ritual Caster] | [Spell Sniper] |
-| [Charger] | [Grappler] | [Medium Armor Master] | [Sentinel] | [Telekinetic] |
-| [Chef] | [Great Weapon Master] | [Moderately Armored] | [Shadow-Touched] | [Telepathic] |
-| [Crossbow Expert] | [Heavily Armored] | [Mounted Combatant] | [Sharpshooter] | [War Caster] |
-| [Crusher] | [Heavy Armor Master] | [Observant] | [Shield Master] | [Weapon Master] |
+| [Charger] | [Grappler] | [Medium Armour Master] | [Sentinel] | [Telekinetic] |
+| [Chef] | [Great Weapon Master] | [Moderately Armoured] | [Shadow-Touched] | [Telepathic] |
+| [Crossbow Expert] | [Heavily Armoured] | [Mounted Combatant] | [Sharpshooter] | [War Caster] |
+| [Crusher] | [Heavy Armour Master] | [Observant] | [Shield Master] | [Weapon Master] |
 | [Defensive Duelist] | [Inspiring Leader] | [Piercer] | [Skill Expert] |  |
 | [Dual Wielder] | [Keen Mind] | [Poisoner] | [Skulker] |  |
 
@@ -48,15 +48,15 @@ The table below lists available General Feats, divided into two categories: *PHB
 [Fey-Touched]: phb24.md#fey-touched  
 [Grappler]: phb24.md#grappler  
 [Great Weapon Master]: phb24.md#great-weapon-master  
-[Heavily Armored]: phb24.md#heavily-armored  
-[Heavy Armor Master]: phb24.md#heavy-armor-master  
+[Heavily Armoured]: phb24.md#heavily-armoured  
+[Heavy Armour Master]: phb24.md#heavy-armour-master  
 [Inspiring Leader]: phb24.md#inspiring-leader  
 [Keen Mind]: phb24.md#keen-mind  
-[Lightly Armored]: phb24.md#lightly-armored  
+[Lightly Armoured]: phb24.md#lightly-armoured  
 [Mage Slayer]: phb24.md#mage-slayer  
 [Martial Weapon Training]: phb24.md#martial-weapon-training  
-[Medium Armor Master]: phb24.md#medium-armor-master  
-[Moderately Armored]: phb24.md#moderately-armored  
+[Medium Armour Master]: phb24.md#medium-armour-master  
+[Moderately Armoured]: phb24.md#moderately-armoured  
 [Mounted Combatant]: phb24.md#mounted-combatant  
 [Observant]: phb24.md#observant  
 [Piercer]: phb24.md#piercer  

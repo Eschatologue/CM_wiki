@@ -14,10 +14,10 @@ These Origin feats are included in the PHB'24
 
 Always on the lookout for danger, you gain the following benefits:
 
-**Initiative Proficiency**  
+**Initiative Proficiency**
 When you roll Initiative, you can add your Proficiency Bonus to the roll.
 
-**Initiative Swap**  
+***Initiative Swap***  
 Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat. You can't make this swap if you or the ally is Incapacitated.
 
 ---

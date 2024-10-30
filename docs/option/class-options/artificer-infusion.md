@@ -330,13 +330,13 @@ At level 5, this object does not require attunement, and at level 10, the wearer
 
 ---
 
-### Infiltration Armor
+### Infiltration Armour
 
-*Prerequisite: Level 6+, suit of armor (requires attunement)*
+*Prerequisite: Level 6+, suit of armour (requires attunement)*
 
-This magic suit of armor retains its weight but is formfitting and wearable under clothes without detection. It also grants its wearer Advantage on Dexterity (Stealth) checks.
+This magic suit of armour retains its weight but is formfitting and wearable under clothes without detection. It also grants its wearer Advantage on Dexterity (Stealth) checks.
 
-At level 10, this armor grants its wearer a +1 bonus to Armor Class. This bonus increases to +2 at level 17.
+At level 10, this armour grants its wearer a +1 bonus to Armour Class. This bonus increases to +2 at level 17.
 
 ---
 
@@ -348,7 +348,7 @@ As a Utilise action, the wielder can slam this magic shield into the ground, exp
 
 This magical shield has a number of Charges equal to your Intelligence modifier (a minimum of 1 Charge), and it regains all of its expended Charges each day at dawn.
 
-At level 10, this magic shield grants a +1 bonus to Armor Class. This Armor Class bonus increases to +2 at level 17.
+At level 10, this magic shield grants a +1 bonus to Armour Class. This Armour Class bonus increases to +2 at level 17.
 
 ---
 

@@ -16,8 +16,8 @@ $th-padding: $paddingScale * 1.4;
             font-weight: bold !important;
             text-transform: capitalize !important;
             vertical-align: bottom;
-            color: rgba(255, 255, 255, 0.8);
-            border-bottom: px2rem(2px) solid var(--md-primary-fg-color);
+            color: var(--md-text-color);
+            border-bottom: px2rem(3px) solid var(--md-primary-fg-color);
             background-color: rgba(0, 0, 0, 0.5);
             padding: px2em($th-padding) px2em($paddings);
         }
