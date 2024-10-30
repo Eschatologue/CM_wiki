@@ -448,8 +448,8 @@
   font-size: 0.7rem;
 }
 .md-typeset strong {
-  font-weight: 620;
-  letter-spacing: 0.014rem;
+  font-weight: 580;
+  letter-spacing: 0.021rem;
 }
 .md-typeset p {
   margin: 0.3rem 0 0.3rem 0;
@@ -568,8 +568,8 @@
   font-weight: bold !important;
   text-transform: capitalize !important;
   vertical-align: bottom;
-  color: rgba(255, 255, 255, 0.8);
-  border-bottom: 0.1rem solid var(--md-primary-fg-color);
+  color: var(--md-text-color);
+  border-bottom: 0.15rem solid var(--md-primary-fg-color);
   background-color: rgba(0, 0, 0, 0.5);
   padding: 0.6125em 1em;
 }
