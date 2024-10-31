@@ -1,57 +1,3 @@
-# name: ci
-
-# on:
-#   push:
-#     branches:
-#       - master
-#       - main
-
-# permissions:
-#   contents: write
-
-# jobs:
-#   deploy:
-#     runs-on: ubuntu-latest
-#     steps:
-#       - uses: actions/checkout@v3
-#         name: Checkout repository
-
-#       - name: Set up Node.js
-#         uses: actions/setup-node@v3
-#         with:
-#           node-version: '16'
-
-#       - name: Install sass
-#         run: npm install -g sass
-
-#       - name: Compile SCSS to extra.css
-#         run: |
-#           mkdir -p docs/css
-#           echo "Compiling extra.scss to extra.css..."
-#           sass docs/scss/extra.scss:docs/assets/css/extra.css
-
-#       # The rest of the build process
-#       - uses: actions/setup-python@v4
-#         with:
-#           python-version: 3.x
-
-#       - uses: actions/cache@v2
-#         with:
-#           key: 
-#           path: .cache
-
-#       - run: pip install mkdocs-material
-
-#       - run: mkdocs gh-deploy --force
-
-#       - name: Commit and push compiled CSS and map files
-#         run: |
-#           git config --global user.name "github-actions"
-#           git config --global user.email "github-actions@github.com"
-#           git add docs/assets/css/extra.css docs/assets/css/extra.css.map 
-#           git commit -m "SCSS to CSS generation"
-#           git push
-
 name: ci
 
 on:
@@ -83,10 +29,12 @@ jobs:
         run: |
           if git diff --quiet HEAD^ HEAD -- docs/scss/extra.scss; then
             echo "No changes in extra.scss."
-            echo "::set-output name=scss_changed::false"
+            echo "scss_changed=false" >> $GITHUB_ENV
+            echo "scss_changed=false" >> $GITHUB_OUTPUT
           else
             echo "Changes detected in extra.scss."
-            echo "::set-output name=scss_changed::true"
+            echo "scss_changed=true" >> $GITHUB_ENV
+            echo "scss_changed=true" >> $GITHUB_OUTPUT
           fi
 
       - name: Compile SCSS to extra.css (if needed)
