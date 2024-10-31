@@ -107,19 +107,24 @@ You can cast the *Identify* spell without expending a spell slot or Material com
 
 *Advanced Feat (Prerequisites: Level 8+)*
 
-**Walks of Life**  
+Your journey are full of experience.
+
+**Tales from Adventure**  
 You gain two General Feats of your choice. You can't benefit from a Feat's feature that grants increase to ability scores (e.g [Ability Score Improvement](./feat-general/phb24.md#ability-scores-improvement)). All other rules related to gaining Feats still apply. Replacing this Feat will forgo all the General Feats gained from this Feat.
+
+**Repeatable**  
+You can take this feat more than once. Choose different General Feats each time. All other rules related to gaining Feats still apply.
 
 ---
 
 ### Shield Prodigy
 
-*Advanced Feat (Prerequisites: Level 8+, [Shield Warrior](../feat/feat-fighting-style/hb.md#shield-warrior) feat, [Shield Master](../feat/feat-general/phb24.md#shield-master) feat)*
+*Advanced Feat (Prerequisites: Level 8+, [Shield Warrior](../feat/feat-fighting-style/hb.md#shield-warrior) feat)*
 
 Through meticulous refinement and tinkering of your equipment, you gain unique abilities with shields. **While wielding a Shield**, you gain the following benefits:
 
 **Damage Reduction**  
-When a creature you can see hits you or an ally within 5 feet with an attack roll, you can take a :rsc-r: **Reaction** to reduce the damage dealt by a number of d4s equal to the AC granted by the shield.
+When a creature you can see hits you *or* an ally within 5 feet of you with an attack roll, you can take a :rsc-r: **Reaction** to reduce the damage dealt by a number of d4s equal to the AC granted by the shield. (e.g A regular Shield (+2 AC) would grants 2d4 damage reduction)
 
 **Shield Expert**  
 A shield has the :weapon-prop-thrown: **Thrown (30/60)** property and has the Topple and Push Mastery property for you. You can only use one Mastery property per attack. Whether a Ranged attack with a shield hits or misses, the shield bounces back to you harmlessly.
@@ -158,8 +163,7 @@ On a turn, when you expend a spell slot to cast a spell, you can still expend a 
 
     In 2024 Player's Handbook, the rule for spellcasting has been altered as follow:
 
-    #### One Spell with a Spell Slot per Turn 
-
+    ***One Spell with a Spell Slot per Turn.***
     --8<-- "docs/spells/casting-spells.md:one-spell-per-turn"
 
     ---

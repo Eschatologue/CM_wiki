@@ -90,7 +90,6 @@ You always seem to have helpful advice for any situation. You gain the benefits 
 **Ability Score Increase**  
 You increase your Intelligence or Wisdom score by 1, up to a maximum of 20.
 
-
 **Swift Help**  
 You can take the Help action as a :rsc-b: **Bonus Action**.
 
@@ -193,6 +192,9 @@ Increase one ability score of your by 1, to a maximum of 20.
 
 **Lessons of Life**  
 You gain two Origin Feats of your choice, all other rules related to gaining Feats still apply. Replacing this Feat will forgo all the Origin Feats gained from this Feat.
+
+**Repeatable**  
+You can take this feat more than once. Choose different Origin Feats each time. All other rules related to gaining Feats still apply.
 
 ---
 
