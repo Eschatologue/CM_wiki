@@ -103,6 +103,15 @@ You can cast the *Identify* spell without expending a spell slot or Material com
 
 ---
 
+### Remarkable Life Journey
+
+*Advanced Feat (Prerequisites: Level 8+)*
+
+**Walks of Life**  
+You gain two General Feats of your choice. You can't benefit from a Feat's feature that grants increase to ability scores (e.g [Ability Score Improvement](./feat-general/phb24.md#ability-scores-improvement)). All other rules related to gaining Feats still apply. Replacing this Feat will forgo all the General Feats gained from this Feat.
+
+---
+
 ### Shield Prodigy
 
 *Advanced Feat (Prerequisites: Level 8+, [Shield Warrior](../feat/feat-fighting-style/hb.md#shield-warrior) feat, [Shield Master](../feat/feat-general/phb24.md#shield-master) feat)*
@@ -122,7 +131,7 @@ You can take a :rsc-b: Bonus Action to end this transformation, reverting both t
 
 ---
 
-### Single-Specialialisation
+### Single Specialialisation
 
 *Advanced Feat (Prerequisites: Level 8+)*
 

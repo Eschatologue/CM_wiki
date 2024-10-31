@@ -192,7 +192,7 @@ You gain the following benefits.
 Increase one ability score of your by 1, to a maximum of 20.
 
 **Lessons of Life**  
-You gain two Origin Feats of your choice in which you don't have and also meet the feat's prerequisites.
+You gain two Origin Feats of your choice, all other rules related to gaining Feats still apply. Replacing this Feat will forgo all the Origin Feats gained from this Feat.
 
 ---
 
