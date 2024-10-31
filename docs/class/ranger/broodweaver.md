@@ -33,9 +33,9 @@ You command intangible constructs made of pure energy to assist you in battle. T
 
 | Ranger Level | Die Size | Number of Dice |
 |:-:|:-:|:-:|
-| 3 | :die-d4: **D6** | 3 |
-| 5 | :die-d6: **D8** | 3 |
-| 9 | :die-d8: **D10** | 4 |
+| 3 | :die-d6: **D6** | 3 |
+| 5 | :die-d8: **D8** | 3 |
+| 9 | :die-d10: **D10** | 4 |
 | 13 | :die-d10: **D10** | 5 |
 | 17 | :die-d12: **D12** | 6 |
 
@@ -43,17 +43,19 @@ Each feature that uses *Threadlings* expends these dice as specified in the feat
 
 ***Regaining Threadling Dice.*** You regain one expended *Threadling Die* when you finish a Short Rest, and you regain all expended *Threadling Dice* after a Long Rest. Additionally, after you cast a [Mindspun Invocation] spell, you regain a number of *Threadling Die* equal to the expended spell slot.
 
+#### Threadling Die Uses
+
 These Threadlings are at your command. You can use your *Threadling Die* in the following way. Each effect has a die cost, which is the number of *Threadling Die* that must be expended in order to use it. When the Cost states *Any*, you can expend any number of *Threadling Die* available to you.
 
 If an effect requires a Saving Throw, it uses your Ranger's Spell Save DC.
 
 ***Seek & Destroy (Cost: Any)***
 
-:   After you hit a creature with a weapon attack or Unarmed Strike, you expend can one or more *Threadling Die*, rolling them, and send the Threadlings at the target. The target takes extra :dmg-force: **Force** damage equal to the number rolled.
+:   After you hit a creature with a weapon attack or Unarmed Strike, you can expend one or more *Threadling Die*, rolling them, and send the Threadlings at the target. The target takes extra :dmg-force: **Force** damage equal to the number rolled.
 
 ***Suspend (Cost: 1 Die)***
 
-:   After you hit a creature with a weapon attack or Unarmed Strike, you expend can one *Threadling Die* and :dmg-force: **Force** the target to make a Strength saving throw. On a failed save, it has the Restrained condition and lifted 5 feet off the ground for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success.
+:   After you hit a creature with a weapon attack or Unarmed Strike, you can expend one *Threadling Die* and :dmg-force: **Force** the target to make a Strength saving throw. On a failed save, it has the Restrained condition and lifted 5 feet off the ground for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success.
 
 ***Woven Mail (Cost: Any)***
 
@@ -71,7 +73,7 @@ You gain new way to use your Threadlings, detailed below:
 
 :   When you hit a creature with a weapon attack or Unarmed Strike, you can expend one *Threadling Die*, roll it, and rend its defences. It must succeed on a Constitution saving throw or it takes extra :dmg-force: **Force** damage equal to the number rolled and its AC is reduced by 1 until it finishes Long Rest or until you have the Incapacitated cconditon. This effect stacks. 
 
-### Level 11: Tangling Burst
+### Level 11: Burst of Strand
 
 When the target of your *Hunter's Mark* or creatures affected by *Suspend* or *Unravel* subfeature dies, you can take a :rsc-r: **Reaction** and detonate its body. Each creature within 20 feet of the point must succeed on a Strength saving throw or take :dmg-force: **Force** damage equals to a number of *Threadling Die* up to your Wisdom modifier, have the Restrained condition, and lifted 5 feet off the ground for 1 minute. On a successful save, the targets only takes half damage. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success.
 
