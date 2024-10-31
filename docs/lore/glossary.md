@@ -11,7 +11,7 @@ search:
 
 ### Abhuman
 
-*Races*
+*Species*
 
 Abhumans, or Aberrant Humans, are a subgroup of humans, also known as "Londoners." Characterised by their human traits, but lacking a connection to the Weave and possessing a weaker physical strength compared to other species found on Antares. 
 
@@ -39,7 +39,7 @@ Boiler Rifles were ranged weapons used by Londoners before the discovery of Cord
 
 *Culture, Myrkheim*
 
-The Book of Grudge is not an actual book but a legendary compilation of civilisations, societies, and communities that have been destroyed (or are in the process of being destroyed) by the dwarves of Myrkheim. Each entry signifies a deep-seated grievance, marking those who have wronged the dwarves in any significant way. The concept serves as a powerful reminder that the dwarves are relentless in their pursuit of justice; to be inscribed within this "book" is to invite the wrath of Myrkheim upon you.
+The Book of Grudge is not an actual book but a legendary compilation of civilisations, societies, and communities that have been destroyed (or are in the process of being destroyed) by the dwarves of Myrkheim. Each entry signifies a deep-seated grievance, marking those who have wronged the dwarves in any significant way. To be inscribed within this "book" is to invite the wrath of Myrkheim upon you.
 
 ---
 
@@ -52,6 +52,15 @@ The Brabazon Fleet is a series of colossal mobile penal colonies, constructed by
 > See Also: [Nomadic Cities](#nomadic-cities)
 
 ---
+
+### Caliban
+
+*Weaponry*
+
+**Calibans** are heavily armoured walkers equipped with powerful cannons and lethal close-combat weaponry, designed to withstand both physical damage and magical spells. These piloted machines form the backbone of London's assault spearheads. Encountering a Caliban on the battlefield is a situation no one wants to be in.
+
+---
+
 
 ### Citadel Cities
 
@@ -88,6 +97,14 @@ The Dominion of Albion is the home of the Londoners and occupies the largest ter
 *Vehicle*
 
 Colossal land-based ships. **Dreadnoughts** are vital for trade, transport, and communication across Antares. These vehicles connect nations and Cities, with some cities' survival relying on the trade routes they provide. Only a few nations can manufacture Dreadnoughts, leading others to purchase and even outright steal them from other nations (see 'idk insert anything here). 
+
+---
+
+### Fjellvokters
+
+*Military, Mykrheim*
+
+**Fjellvokters** are a specialised branch of the dwarven army. While dwarves are typically short and stocky, this unit exhibits exceptional agility due to their advanced gear and rigorous training. Using waist-mounted grappling hooks and pulleys, the Fjellvokters can swiftly traverse mountainous terrain and launch themselves at their enemies with remarkable speed and precision. 
 
 ---
 

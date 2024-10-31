@@ -9,9 +9,8 @@ status: homebrew
 
 Bards of this College are no strangers to adventure. Unlike other Bards who sing the tales of heroes from ages past, Skalds seek to inspire new legends or become the legend themselves. They seek out bands of adventurers and potential heroes, fighting in the frontlines, and hoping to use their magic to inspire them to great feats worthy of legend.
 
-*Fjellvokters* often include *Skalds* to bolster their ranks and they can be found swinging battleaxe in one hand and songs or poetries on their lips.
+Dwarves often include *Skalds* to bolster their army ranks and they can be found swinging battleaxe in one hand and songs or poetries on their lips.
 
-*[Fjellvokters]: Myrkheim's Mountain Rangers, the dwarves main army.
 
 ### Level 3: Bardic Warrior
 
