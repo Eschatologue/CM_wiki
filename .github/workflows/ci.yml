@@ -13,13 +13,13 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         name: Checkout repository
 
       - name: Set up Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: '16'
+          node-version: '16'  # Specify node version here if needed
 
       - name: Install sass
         run: npm install -g sass
@@ -44,12 +44,12 @@ jobs:
           echo "Compiling extra.scss to extra.css..."
           sass docs/scss/extra.scss:docs/assets/css/extra.css
 
-      # The rest of the build process
-      - uses: actions/setup-python@v4
+      # Updated setup for caching dependencies
+      - uses: actions/setup-python@v5
         with:
           python-version: 3.x
 
-      - uses: actions/cache@v2
+      - uses: actions/cache@v3
         with:
           key: ${{ github.ref }}
           path: .cache
