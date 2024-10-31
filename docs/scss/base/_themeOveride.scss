@@ -2,21 +2,23 @@
     MKdocs Material Theme Overrides
 --------------------------------------------------------*/
 
+@use "../utility/convert";
+
 /* Tool Tips */
 [role="tooltip"] > .md-tooltip2__inner {
     padding: 0.45em 1.5em;
     max-width: 35rem;
     font-size: 0.7rem;
     font-weight: normal;
-    border-radius: px2em(4px);
+    border-radius: convert.px2em(4px);
 }
 
 /* Grid Layout */
 .md-grid {
-    max-width: 92%; /* Or 100% for full-width */
+    max-width: 90%; /* Or 100% for full-width */
 }
 
 /* Divider Line */
 .md-typeset hr {
-    border-bottom: px2em(2px) dashed rgba(255, 255, 255, 0.15);
+    border-bottom: convert.px2em(2px) dashed rgba(255, 255, 255, 0.15);
 }

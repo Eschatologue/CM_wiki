@@ -31,7 +31,7 @@ The **Aeginae** are colossal leviathans, now nearly extinct, who once usurped th
 
 *Weaponry*
 
-Boiler Rifles were early firearms used by Londoners before the discovery of Cordite. These short-lived weapons utilised high-pressure steam to propel projectiles at high speeds. Though less efficient than Cordite-based firearms, they served as a temporary solution in the fight against the Elves.
+Boiler Rifles were ranged weapons used by Londoners before the discovery of Cordite. These short-lived weapons utilised high-pressure steam to propel projectiles at high speeds. Though less efficient than Cordite-based firearms, they served as a temporary solution in the fight against the Elves.
 
 ---
 
@@ -87,9 +87,7 @@ The Dominion of Albion is the home of the Londoners and occupies the largest ter
 
 *Vehicle*
 
-Colossal land-based locomotive. Dreadnoughts are vital for trade, transport, and communication across Antares. These vehicles connect nations and Cities, with some cities' survival relying on the trade routes they provide. Only a few nations can manufacture Dreadnoughts, leading others to purchase and even steal them from other nations. 
-
-Comparable to our real-world ships, they serve both combat and utility roles, akin to battleships, destroyers, or cargo vessels, but operate on land instead of sea.
+Colossal land-based ships. **Dreadnoughts** are vital for trade, transport, and communication across Antares. These vehicles connect nations and Cities, with some cities' survival relying on the trade routes they provide. Only a few nations can manufacture Dreadnoughts, leading others to purchase and even outright steal them from other nations (see 'idk insert anything here). 
 
 ---
 
@@ -153,7 +151,7 @@ A continent-spanning suspended rail network. This monumental construction projec
 
 ### Karakorum: The Majapahit
 
-*Location*
+*Location, Karakorum*
 
 **Karakorum: The Majapahit** was one of five great arks built by Karakorum, known as the *Emeralds of Paradise*, it is a premier tourist destination of its time. After a navigational error led it into the *Mist Veil*, it disappeared entirely, with only scattered debris occasionally washing ashore, the only survivors is those who's late to board the Arks.
 
@@ -161,11 +159,13 @@ A continent-spanning suspended rail network. This monumental construction projec
 
 ### Karakorum: The Murashu
 
-*Location*
+*Location, Karakorum*
 
 **Karakorum: The Murashu** was one of five great arks built by Karakorum, known as the *Sanctum of Sentience* for its unmatched repository of lost, forbidden, and ancient knowledge. This ark held rare artifacts, foundational texts, and extensive arcane records, preserving secrets long forgotten by the rest of Antares prior to the extinction of the entities known as "Deity". Unfortunately, it was once infiltrated by Sotterani Inquisitors, leading to its destruction and sinking.
 
 Any relic from the Murashu that is found is considered priceless, with the potential to transform entire fields of knowledge. Unfortunately, it is often inscribed in celestial script, making it very volatile to handle.
+
+---
 
 ### Millennium Dawn
 
@@ -181,7 +181,7 @@ This era signifies a new period for Antares, as societies adapt to the new balan
 
 *Location, Albion*
 
-New London is the capital of the Dominion of Albion and serves as the new beating heart of the British Empire. This city is characterised by its towering steel edifices and skies choke full of pollution and airships. It stands as a symbol of the future of Antares—or perhaps, its only future.
+**New London** is the capital of the Dominion of Albion and serves as the new beating heart of the British Empire. This city is characterised by its towering steel edifices and skies choke full of pollution and airships. It stands as a symbol of the future of Antares—or perhaps, its only future.
 
 ---
 
@@ -189,7 +189,7 @@ New London is the capital of the Dominion of Albion and serves as the new beatin
 
 *Infrastructure*
 
-Nomadic Cities are an innovative urban solution proposed by London to combat the increasing intensity of Warp Storms. Designed to eventually replace static Citadel Cities, these mobile urban centres would move according to needs and purpose, allowing them to evade Warp Storms before they strike.
+**Nomadic Cities** are an innovative urban solution proposed by London to combat the increasing intensity of Warp Storms. Designed to eventually replace static Citadel Cities, these mobile urban centres would move according to needs and purpose, allowing them to evade Warp Storms before they strike.
 
 ---
 
