@@ -25,29 +25,29 @@ Any features in this sublass that usea Psionic Energy Die use only the dice from
 
 You regain one of your expended Psionic Energy Die when you finish a Short Rest, and you regain all of them when you finish a Long Rest.
 
-#### Protective Field
+***Protective Field***
 
-When you or another creature you can see within 30 feet of you takes damage, you can use your reaction to expend one Psionic Energy die, roll the die, and reduce the damage taken by the number rolled plus your Intelligence modifier (minimum reduction of 1), as you create a momentary shield of telekinetic force.
+:   When you or another creature you can see within 30 feet of you takes damage, you can use your reaction to expend one Psionic Energy die, roll the die, and reduce the damage taken by the number rolled plus your Intelligence modifier (minimum reduction of 1), as you create a momentary shield of telekinetic force.
 
-#### Psionic Strike
+***Psionic Strike***
 
-You can propel your weapons with psionic force. Once on each of your turns, immediately after you hit a target within 30 feet of you with an attack and deal damage to it with a weapon, you can expend one Psionic Energy die, rolling it and dealing force damage to the target equal to the number rolled plus your Intelligence modifier.
+:   You can propel your weapons with psionic force. Once on each of your turns, immediately after you hit a target within 30 feet of you with an attack and deal damage to it with a weapon, you can expend one Psionic Energy die, rolling it and dealing force damage to the target equal to the number rolled plus your Intelligence modifier.
 
-#### Telekinetic Movement
+***Telekinetic Movement***
 
-You can move an object or a creature with your mind. As an action, you target one loose object that is Large or smaller or one willing creature, other than yourself. If you can see the target and it is within 30 feet of you, you can move it up to 30 feet to an unoccupied space you can see. Alternatively, if it is a Tiny object, you can move it to or from your hand. Either way, you can move the target horizontally, vertically, or both. Once you take this action, you can't do so again until you finish a Short Rest or Long Rest, unless you expend a Psionic Energy die to take it again.
+:   You can move an object or a creature with your mind. As an action, you target one loose object that is Large or smaller or one willing creature, other than yourself. If you can see the target and it is within 30 feet of you, you can move it up to 30 feet to an unoccupied space you can see. Alternatively, if it is a Tiny object, you can move it to or from your hand. Either way, you can move the target horizontally, vertically, or both. Once you take this action, you can't do so again until you finish a Short Rest or Long Rest, unless you expend a Psionic Energy die to take it again.
 
 ### Level 7: Telekinetic Adept
 
 You have mastered new ways to use your telekinetic abilities, detailed below.
 
-#### Psi-Powered Leap 
+***Psi-Powered Leap***
 
-As a Bonus Action, you can propel your body with your mind. You gain a flying speed equal to twice your walking speed until the end of the current turn. Once you take this Bonus Action, you can't do so again until you finish a Short Rest or Long Rest, unless you expend a Psionic Energy die to take it again.
+:   As a Bonus Action, you can propel your body with your mind. You gain a flying speed equal to twice your walking speed until the end of the current turn. Once you take this Bonus Action, you can't do so again until you finish a Short Rest or Long Rest, unless you expend a Psionic Energy die to take it again.
 
-#### Telekinetic Thrust
+***Telekinetic Thrust***
 
-When you deal damage to a target with your Psionic Strike, you can force the target to make a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Intelligence modifier. If the save fails, you can knock the target prone or move it up to 10 feet in any direction horizontally.
+:   When you deal damage to a target with your Psionic Strike, you can force the target to make a Strength saving throw (DC 8 plus your Intelligence modifier and Proficiency Bonus). On a failed save, you can give the target the Prone condition or transport it up to 10 feet horizontally.
 
 ### Level 10: Guarded Mind
 
@@ -55,12 +55,12 @@ The psionic energy flowing through you has bolstered your mind. You have Resista
 
 ### Level 15: Bulwark of Force
 
-You can shield yourself and others with telekinetic force. As a Bonus Action, you can choose creatures, which can include you, that you can see within 30 feet of you, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures is protected by half cover for 1 minute or until you're incapacitated.
+You can shield yourself and others with telekinetic force. As a Bonus Action, you can choose creatures, including yourself, within 30 feet of yourself, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures has Half Cover for 1 minute or until you have the Incapacitated condition.
 
-Once you take this Bonus Action, you can't do so again until you finish a Long Rest, unless you expend a Psionic Energy die to take it again.
+Once you use this feature, you can't do so again until you finish a Long Rest unless you expend a Psionic Energy Die (no action required) to restore your use of it.
 
 ### Level 18: Telekinetic Master
 
-You always have the **Telekinesis** spell prepared. With this feature, you can cast it withous a spell slor ot components, and your spellcasting ability for the spell is Intelligence. On each of your turns while you maintain Concentration on it, including the turn when you cast it, you can make one attack with a weapon as a Bonus Action.
+You always have the *Telekinesis* spell prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Intelligence. On each of your turns while you maintain Concentration on it, including the turn when you cast it, you can make one attack with a weapon as a Bonus Action.
 
-Once you cast the spell with this feature, you can't do so again until you finish a Long Rest, unless you expend a Psionic Energy (no action required) to restore your use of it.
+Once you cast the spell with this feature, you can't do so in this way again until you finish a Long Rest unless you expend a Psionic Energy Die (no action required) to restore your use of it.
