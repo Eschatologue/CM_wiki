@@ -7,7 +7,7 @@ search:
 
 # Lore Glossary
 
----
+--- 
 
 ### Abhuman
 
@@ -16,6 +16,14 @@ search:
 Abhumans, or Aberrant Humans, are a subgroup of humans, also known as "Londoners." Characterised by their human traits, but lacking a connection to the Weave and possessing a weaker physical strength compared to other species found on Antares. 
 
 In modern times, the term has taken on a derogatory connotation, used in Gallian society to refer to those of lower social status.
+
+---
+
+### Aeginae
+
+*Entities*
+
+The **Aeginae** are colossal leviathans, now nearly extinct, who once usurped the ancient deities that ruled Antares, only to be ironically dethroned by the Spires. These mighty beings shaped the very landscape of Antares—their tears forming seas, their movements moulding mountains, and their breath grafted the skies.
 
 ---
 
@@ -143,6 +151,22 @@ A continent-spanning suspended rail network. This monumental construction projec
 
 ---
 
+### Karakorum: The Majapahit
+
+*Location*
+
+**Karakorum: The Majapahit** was one of five great arks built by Karakorum, known as the *Emeralds of Paradise*, it is a premier tourist destination of its time. After a navigational error led it into the *Mist Veil*, it disappeared entirely, with only scattered debris occasionally washing ashore, the only survivors is those who's late to board the Arks.
+
+---
+
+### Karakorum: The Murashu
+
+*Location*
+
+**Karakorum: The Murashu** was one of five great arks built by Karakorum, known as the *Sanctum of Sentience* for its unmatched repository of lost, forbidden, and ancient knowledge. This ark held rare artifacts, foundational texts, and extensive arcane records, preserving secrets long forgotten by the rest of Antares prior to the extinction of the entities known as "Deity". Unfortunately, it was once infiltrated by Sotterani Inquisitors, leading to its destruction and sinking.
+
+Any relic from the Murashu that is found is considered priceless, with the potential to transform entire fields of knowledge. Unfortunately, it is often inscribed in celestial script, making it very volatile to handle.
+
 ### Millennium Dawn
 
 *Era*
@@ -187,11 +211,27 @@ A vast and perilous ocean surrounding Antares, notorious for its violent storms,
 
 ---
 
+### Spire
+
+*Entities*
+
+**Spires** are god-like, higher-dimensional beings embodying a single philosophical concept or path known as an *Ascent*. These beings construct stars, destroy worlds, and their very presence imprints itself upon reality. Despite their near-boundless power and authority, Spires are paradoxically constrained by the principles they represent, unable to act outside the bounds of their core essence.
+
+---
+
 ### Technomancy
 
 *School of Magic*
 
 **Technomancy** is a revolutionary school of magic that studies the interaction between non-Weave-based technology—primarily from London—and the Gallian standard of spellcasting. Although it promised a new era of magical advancement, the Gallian Imperial Court banned it for undisclosed reasons. The discipline was pioneered by the infamous Three Traitors: Grimwald Hialtisson (Dwarf, Myrkheim), Varlassan "Arthur" Lahti (High-Elf, London), and Évelyne Montagne (Human, Gallian).
+
+---
+
+### The Mist Veil
+
+*Phenomenon*
+
+The **Mist Veil** is a dense, white wall of mist surrounding the outer edge of Antares' primordial sea. Legends claim that beyond lies the resting place of the stars. Those who venture into the Mist Veil are never seen again, with one exception (see: *Karakorum: the Majapahit*). Its purpose—whether to keep inhabitants within or to bar something from entering Antares—remains unknown.
 
 ---
 
