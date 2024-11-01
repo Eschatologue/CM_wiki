@@ -9,7 +9,7 @@
 // General Typeset Variables
 $headingFont: "Jost", sans-serif;
 $defaultFontSize: convert.px2rem(14px);
-$defaultFontWeight: 400;
+$defaultFontWeight: 300;
 
 // Heading Size Variables
 $h1Size: $defaultFontSize * 2.25;
@@ -23,7 +23,6 @@ $h4Size: $defaultFontSize * 1.125;
     font-size: $defaultFontSize;
 
     strong {
-        font-weight: $defaultFontWeight * 1.45;
         letter-spacing: $defaultFontSize * 0.03;
     }
 

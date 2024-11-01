@@ -100,7 +100,7 @@ A Bonus Action is a special action that you can take on the same turn that you t
 
 ### Breaking Objects
 
-<!-- -8<-- [start:breaking-objects] -->
+<!-- --8<-- [start:breaking-objects] -->
 
 Objects can be harmed by attacks and by some spells, using the rules below. If an object is exceedingly fragile, the DM may allow a creature to break it automatically with the Attack or Utilize action.
 
@@ -135,7 +135,7 @@ Objects can be harmed by attacks and by some spells, using the rules below. If a
 
 ***No Ability Scores.*** An object lacks ability scores unless a rule assigns scores to the object. Without ability scores, an object can't make ability checks, and it fails all saving throws.
 
-<!-- -8<-- [end:breaking-objects] -->
+<!-- --8<-- [end:breaking-objects] -->
 
 ---
 
@@ -248,11 +248,15 @@ A Cone's point of origin isn't included in the area of effect unless its creator
 
 ### Cover
 
-Cover provides a degree of protection to a target behind it. There are three degrees of cover, each of which provides a different benefit to a target: 
+Cover provides a degree of protection to a target behind it. There are three degrees of cover, each of which provides a different benefit to a target as stated in the Cover table
 
-- Half Cover (+2 bonus to AC and Dexterity saving throws)
-- Three-Quarters Cover (+5 bonus to AC and Dexterity saving throws)
-- Total Cover (can't be targeted directly). If behind more than one degree of cover, a target benefits only from the most protective degree.
+##### Cover
+
+| Degree | Benefit to Target | Offered By... |
+|---|---|---|
+| Half | +2 bonus to AC and Dexterity saving throws | Another creature or an object that covers at least half of the target |
+| Three-Quarters | +5 bonus to AC and Dexterity saving throws | An object that covers at least three-quarters of the target |
+| Total | Can't be targeted directly | An object that covers the whole target |
 
 ---
 
