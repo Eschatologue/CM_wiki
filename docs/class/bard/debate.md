@@ -8,17 +8,26 @@ search:
 
 Bards of the College of Debate view rhetoric as a weapon. They don’t merely persuade—they dismantle, deconstruct, and devastate opposition with words alone. Known for their logical precision and mental agility, these bards thrive in situations where they can engage in rapid exchanges, battering foes with their unassailable logic.
 
-### Level 3: Debater's Rebuttal
+### Level 3: Debater's Implement
 
 Your sharp retorts can disrupt and unnerve your opponents in the heat of battle.
 
 You have the *True Strike* and *Vicious Mockery* cantrips always prepared. You can choose to change their damage type to :dmg-psychic: **Psychic** damage whenever you cast them.
+This looks fantastic—very clear, effective, and thematically on-point. Here’s a polished version with minor wording adjustments for clarity:
 
-Additionally, when a creature within 60 feet of you makes a D20 Test, you can take a :rsc-r: **Reaction** to expend one use of your Bardic Inspiration and roll the Bardic Inspiration die. The creature must subtract the number rolled from its D20 Test result.
-
-### Level 3: Facts and Logic
+### Level 3: Engaging Discourse
 
-You’re a master at producing arguments that sound airtight, even if they’re a bit improvised. When you make a Charisma (Deception), Charisma (Intimidation), or Charisma (Persuasion) check, you can treat a d20 roll of 7 or lower as an 8.
+You can drag a creature into a mentally exhausting debate, wearing it down with your relentless arguments.
+
+As a :rsc-b: **Bonus Action**, you can expend one use of your Bardic Inspiration to target a creature within 60 feet. The creature must make a Wisdom saving throw against your spell save DC. On a failure, it takes :dmg-psychic: **Psychic** damage equal to your Bardic Inspiration die and becomes locked in debate with you.
+
+While in the debate, the target suffers the following effects:
+
+***Silenced.*** The target is unable to speak or cast spells with verbal components.
+
+***Constant Damage.*** At the end of each of its turns, the target takes :dmg-psychic: **Psychic** damage equal to your Bardic Inspiration die.
+
+The creature can repeat the saving throw at the start of each of its turns, ending the effect on a success.
 
 ### Level 6: Relentless Logic
 
