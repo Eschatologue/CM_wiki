@@ -170,6 +170,18 @@ While you have the Restrained condition, you experience the following effects.
 
 ---
 
+### Silenced
+
+While you have the Silenced condition, you experience the following effects.
+
+***No Verbal Components.*** You can't cast spell that requires Verbal component.
+
+***Resistance.*** You have :dmg-res: **Resistance** to :dmg-thunder: **Thunder** damage.
+
+***Speechless.*** You can't speak.
+
+---
+
 ### Stunned 
 
 While you have the Stunned condition, you experience the following effects.

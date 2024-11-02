@@ -29,10 +29,10 @@ The table below lists available General Feats, divided into two categories: *PHB
 
 | Homebrew Feats |  |  |  |
 |---|---|---|---|
-| [Battlecaster] | [Helpful Insights] | [Remarkable Recovery] | [Thrown Arms Master] |
-| [Cartomancy] | [Masterful Technique] | [Resolute Caster] | [Trick Shots] |
-| [Flash Recall] | [Metamagic Adept] | [Rich in History] | [Spell Sniper (Alt.)] |
-| [Gunner] | [Overwhelming Strength] | [Sword Dancing] | |
+| [Battlecaster] | [Helpful Insights] | [Remarkable Recovery] | [Sword Dancing] |
+| [Cartomancy] | [Masterful Technique] | [Resolute Caster] | [Thrown Arms Master] |
+| [Flash Recall] | [Metamagic Adept] | [Rich in History] | [Trick Shots] |
+| [Gunner] | [Overwhelming Strength] | [Spell Sniper (Alt.)] |  |
 
 [Ability Score Improvement]: phb24.md#ability-score-improvement  
 [Actor]: phb24.md#actor  

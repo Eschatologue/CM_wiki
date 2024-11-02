@@ -117,7 +117,7 @@ You can create written ciphers. Others can't decipher a code you create unless y
 **Analyze and Empathize**  
 If you spend 1 minute analyzing a language you do not know, you can discern small bits of information such as intent, direction, and emotion.
 
--- 
+---
 
 ### Psychoanalyst
 
