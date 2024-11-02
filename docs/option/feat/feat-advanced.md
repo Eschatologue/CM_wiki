@@ -61,6 +61,26 @@ Any time you would be forced to make a Concentration due to taking damage, the D
 
 ---
 
+### Fatal Magic
+
+*Advanced Feat (Prerequisites: Level 8+, Spellcasting or Pact Magic feature)*
+
+Your spells become especially lethal against unsuspecting foes.
+
+**Improved Critical**  
+The number you need to roll for Critical Hit with spells is reduced by 1. This effect can stack.
+
+**Ruthless Spell**  
+When a creature's saving throw result on the d20 is equal or lower than your Proficiency Bonus against one of your spells, the spell's damage is doubled. This is treated as a Critical Hit for gameplay purposes.
+
+??? tip "Interactions"
+
+    The **Improved Critical** and **Ruthless Spell** features do not interact with each other. **Improved Critical** applies only to attack rolls, while **Ruthless Spell** applies only to spells that require saving throws. Additionally, any effect that reduces the number needed to roll for a Critical Hit does not apply to **Ruthless Spell**.
+
+    However, if you have a feature that triggers on a Critical Hit (such as rolling additional dice or applying another effect), **Ruthless Spell** will activate this effect when it doubles the spell's damage.
+
+---
+
 ### Great Weapon Expert
 
 *Advanced Feat (Prerequisites: Level 8+, Strength or Constitution 15+)*
@@ -163,13 +183,13 @@ On a turn, when you expend a spell slot to cast a spell, you can still expend a 
 
     In 2024 Player's Handbook, the rule for spellcasting has been altered as follow:
 
-    ***One Spell with a Spell Slot per Turn.***
+    ***One Spell with a Spell Slot per Turn***
     --8<-- "docs/spells/casting-spells.md:one-spell-per-turn"
 
     ---
 
     This feat lifts that restriction, but the level of spell slot you can expend is still limited to only level 3.
-    
+
 ---
 
 ### Theurgy

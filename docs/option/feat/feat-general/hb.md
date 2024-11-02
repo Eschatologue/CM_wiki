@@ -210,11 +210,11 @@ Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 **Bypass Cover**  
 Your attack rolls for spells ignore Half Cover and Three-Quarters Cover.
 
-**Casting in Melee**  
-Being within 5 feet of an enemy doesn't impose Disadvantage on your attack rolls with spells.
-
 **Improved Critical**  
-The number you need to roll for Critical Hit with spells is reduced by 1. This effet can stack.
+The number you need to roll for Critical Hit with spells is reduced by 1. This effect can stack.
+
+**One Cantrip**  
+You learn one cantris of your choice that deals damage and has a range of 10+ feet from the Cleric, Druid, or Wizard spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat's spells (choose when you select this feat)
 
 ---
 

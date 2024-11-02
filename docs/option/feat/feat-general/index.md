@@ -31,8 +31,8 @@ The table below lists available General Feats, divided into two categories: *PHB
 |---|---|---|---|
 | [Battlecaster] | [Helpful Insights] | [Remarkable Recovery] | [Thrown Arms Master] |
 | [Cartomancy] | [Masterful Technique] | [Resolute Caster] | [Trick Shots] |
-| [Flash Recall] | [Metamagic Adept] | [Rich in History] |
-| [Gunner] | [Overwhelming Strength] | [Sword Dancing] |
+| [Flash Recall] | [Metamagic Adept] | [Rich in History] | [Spell Sniper (Alt.)] |
+| [Gunner] | [Overwhelming Strength] | [Sword Dancing] | |
 
 [Ability Score Improvement]: phb24.md#ability-score-improvement  
 [Actor]: phb24.md#actor  
@@ -89,6 +89,7 @@ The table below lists available General Feats, divided into two categories: *PHB
 [Remarkable Recovery]: hb.md#remarkable-recovery
 [Resolute Caster]: hb.md#resolute-caster
 [Rich in History]: hb.md#rich-in-history
+[Spell Sniper (Alt.)]: hb.md#spell-sniper-alternate
 [Sword Dancing]: hb.md#sword-dancing
 [Thrown Arms Master]: hb.md#thrown-arms-master
 [Trick Shots]: hb.md#trick-shots
