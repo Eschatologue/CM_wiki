@@ -159,7 +159,7 @@ Through intense focus, training, and dedication, you've harnessed the techniques
 **Rapid Spellcasting**  
 On a turn, when you expend a spell slot to cast a spell, you can still expend a level 3 spell slot or lower to cast another spell.
 
-??? tip "One Spell Slot Per Turn"
+!!! tip "One Spell Slot Per Turn"
 
     In 2024 Player's Handbook, the rule for spellcasting has been altered as follow:
 
@@ -182,9 +182,9 @@ Your spells become especially lethal against unsuspecting foes.
 The number you need to roll for Critical Hit with spells is reduced by 1. This effect can stack.
 
 **Fatal Magic**  
-When a creature's saving throw result on the d20 is equal or lower than your Proficiency Bonus against one of your spells, the spell's damage is doubled. This is treated as a Critical Hit for gameplay purposes.
+When a creature's saving throw result on the d20 is equal or lower than your Proficiency Bonus against one of your spells, the spell's initial damage is doubled. This is treated as a Critical Hit for gameplay purposes.
 
-??? tip "Interactions"
+!!! tip "Interactions"
 
     The **Improved Critical** and **Fatal Magic** features do not interact with each other. **Improved Critical** applies only to attack rolls, while **Fatal Magic** applies only to spells that require saving throws. Additionally, any effect that reduces the number needed to roll for a Critical Hit does not apply to **Fatal Magic**.
 

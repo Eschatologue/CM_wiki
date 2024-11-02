@@ -154,7 +154,7 @@ London's reach extends far, and with it, their influence upon you. You gain the 
 You gain proficiency with Short-Arms. If you already has proficiency with Short-Arms, you gain proficiency with all Firearms.
 
 **Efficient Augmentation**  
-You gain Proficiency with Gunsmith's Tool. If you are already proficient with it, your Firearm Augmentation Limit is increased by half of your proficiency bonus.
+You gain Proficiency with Gunsmith's Tool. If you are already proficient with it, your Firearm Augmentation Limit is increased by half of your Proficiency Bonus (rounded down).
 
 !!! danger "Campaign Restriction"
 

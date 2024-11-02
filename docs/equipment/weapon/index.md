@@ -46,7 +46,11 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). 
 
-**Salvaging Ammunitions.** At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. Firearms and weapon with [:weapon-prop-explosive: Explosive](#explosive) property can't benefit from this.
+<!-- --8<-- [start:ammunition-salvage] -->
+
+***Salvaging Ammunitions.*** At the end of the battle, you can recover half your expended ammunition or thrown weapon by taking a minute to search the battlefield. Firearms and weapon with [:weapon-prop-explosive: Explosive](#explosive) property can't benefit from this.
+
+<!-- --8<-- [end:ammunition-salvage] -->
 
 ---
 
@@ -129,6 +133,8 @@ This weapon has :d20-disadv: **Disadvantage** on attack rolls made against targe
 #### :weapon-prop-thrown:{ .lg } Thrown
 
 You can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon.
+
+--8<-- "docs/equipment/weapon/index.md:ammunition-salvage"
 
 ---
 
