@@ -14,7 +14,7 @@ Your sharp retorts can disrupt and unnerve your opponents in the heat of battle.
 
 You have the *True Strike* and *Vicious Mockery* cantrips always prepared. You can choose to change their damage type to :dmg-psychic: **Psychic** damage whenever you cast them.
 
-Additionally, when a creature within 60 feet of you makes a D20 Test, you take a :rsc-r: **Reaction** to cast *Vicious Mockery* on that creature. When cast this way, the spell's damage die becomes a d4s instead of d6s.
+Additionally, when a creature within 60 feet of you makes a D20 Test, you can take a :rsc-r: **Reaction** to expend one use of your Bardic Inspiration and roll the Bardic Inspiration die. The creature must subtract the number rolled from its D20 Test result.
 
 You can take this :rsc-r: **Reaction** a number of times equal to your Charisma modifier (minimum of once), regaining all expended uses after a Long Rest. Alternatively, you may restore all uses by expending one use of Bardic Inspiration (no action required).
 
