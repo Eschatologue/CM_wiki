@@ -1,10 +1,10 @@
 ---
-icon: ui/homebrew
+icon: material/database
 status: homebrew
-title: Crown & Misery Adventuring Gear
+title: Crown & Misery Adventuring Items
 ---
 
-# Crown & Misery Adventuring Gear
+# Crown & Misery Items
 
 These items are unique to the world that Crown & Misery takes place
 
@@ -42,7 +42,7 @@ A compact electronic device designed to detect hazardous gases. It emits a serie
 
 ---
 
-### Radiation Detector
+### Radiation Counter
 
 Adventuring gear, 500 sp, S. 
 
