@@ -33,26 +33,6 @@ This object disappears if you conjure another object with this feature or if you
 
 ---
 
-### Pact of the Frying Pan
-
-You can conjure a Pact Frying Pan; a exquisite cooking implement in your hand at the end of a Short or Long Rest. It takes the form of a cooking utensil of your choice, and it grants you the following benefits:
-
-***Artisan Tools.*** It counts as Cooking Utensil, and it uses your spellcasting modifier for ability checks made with it.
-
-***Goodberry.*** You have the *Goodberry* cantrip always prepared. Once per Long rest, you can change these berries appearance created from this feature to other form of edible foods. When a creature of your choice consume these berries, it gains one of the following benefits:
-
-:   ***Bolster.*** The creature chooses either Strength, Dexterity, or Constitution. For 1 minute, the creature can add your spellcasting modifier to any ability check or saving throws it makes with the chosen ability score.
-
-:   ***Restore.*** The creature ends one of the following conditions currently affecting it: Charmed, Blindness, Frightened, Deafened, Poisoned, or it can reduce its current Exhaustion level by 1.
-
-:   ***Stimulate.*** The creature regain one of its expended Hit Die.
-
-***Spellcasting Focus.*** You can use the device as a Spellcasting Focus.
-
-This cooking utentil disappears if you conjure another utensil with this feature or if you die.
-
----
-
 ### Pact of the Hourglass
 
 You can conjure a Pact Hourglass; a mystical timekeeping device in your hand at the end of a Short or Long Rest. It takes the form of a timekeeping device of your choice, and it grants you the following benefits:
@@ -81,12 +61,31 @@ Your bond with the musical instrument ends if you use this feature's Bonus Actio
 
 ---
 
+### Pact of the Wok
+
+You can conjure a Pact Wok; a venerable cooking implement in your hand at the end of a Short or Long Rest. It takes the form of a set kitchen utensil of your choice, and it grants you the following benefits:
+
+***Artisan Tools.*** It counts as Cooking Utensil, and it uses your spellcasting modifier for ability checks made with it.
+
+***Eldritch Rations.*** When you finish a Long Rest, you can prepare a number of **special rations** up to your spellcasting modifier. A creature can take a :rsc-b: **Bonus Action** to consume one of these **special rations** and it gains one of the following benefits:
+
+:   ***Bolster.*** The creature chooses either Strength, Dexterity, or Constitution. For 1 minute, the creature can add your spellcasting modifier to any ability check or saving throws it makes with the chosen ability score.
+
+:   ***Heal.*** The creature ends one of the following conditions currently affecting it: Charmed, Blindness, Frightened, Deafened, Poisoned, or it can reduce its current Exhaustion level by 1.
+
+:   ***Invigorate.*** The creature regain Hit Points equals to 1d10 + your spellcasting modifier.
+
+***Spellcasting Focus.*** You can use the device as a Spellcasting Focus.
+
+These kitchen utensil and the special rations disappears if you conjure another kitchen utensils with this feature or if you die.
+
+---
+
 ### Arcane Gunslinger
 
 **Prerequisite:** Pact of the Blade
 
 You can create a Pact Weapon that is a Short-Arm or Long-Arm. Firearms created from this invocations can't gain the benefit of any Augmentations.
-
 
 ---
 
