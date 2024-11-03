@@ -13,7 +13,7 @@ These Invocations are for Crown & Misery campaign
 
 You can conjure a Pact Chalice; a vessel for the creation of potions and poultices in your hand at the end of a Short or Long Rest. It takes the form of a tiny object of your choice that is capable of holding liquids, and it grants you the following benefits:
 
-***Artisan Tools.*** It counts as both a Herbalism Kit and a Alchemist's Supplies, and it uses your spellcasting modifier for ability checks made with it.
+***Artisan Tools.*** It can counts as a Herbalism Kit, an Alchemist's Supplies or a Brewer's Supplies (your choice), and it uses your spellcasting modifier for ability checks made with it.
 
 ***Potion Creation.*** At the end of a Short or Long Rest, you can use the Pact Chalice to conjure a vial of the following: [Alchemist's Fire], [Acid], [Holy Water], [Potion of Healing], or [Potion of Climbing]. The liquid retains its potency until the end of your next long rest, at which point it becomes inert and unusable.
 
@@ -22,13 +22,9 @@ You can conjure a Pact Chalice; a vessel for the creation of potions and poultic
 This object disappears if you conjure another object with this feature or if you die.
 
 [Alchemist's Fire]: ../../../equipment/adventuring-gear/item.md#alchemists-fire
-
 [Acid]: ../../../equipment/adventuring-gear/item.md#acid
-
 [Holy Water]: ../../../equipment/adventuring-gear/item.md#holy-water
-
 [Potion of Healing]: ../../../equipment/consumeables/potion.md#potion-of-healing
-
 [Potion of Climbing]: ../../../equipment/consumeables/potion.md#potion-of-climbing
 
 ---
@@ -79,19 +75,69 @@ You can conjure a Pact Wok; a venerable cooking implement in your hand at the en
 
 These kitchen utensil and the special rations disappears if you conjure another kitchen utensils with this feature or if you die.
 
+Any special rations you have prepared become inert at the end of your next Long Rest.
+
 ---
 
 ### Arcane Gunslinger
 
-**Prerequisite:** Pact of the Blade
+**Prerequisite:** [Pact of the Blade]
 
 You can create a Pact Weapon that is a Short-Arm or Long-Arm. Firearms created from this invocations can't gain the benefit of any Augmentations.
 
 ---
 
+### Harmonic Spellcasting
+
+**Prerequisite:** [Pact of the Instrument]
+
+When you cast a Warlock spell with a verbal component or deals :dmg-thunder: Thunder damage while using your pact instrument as your spellcasting focus, the save DC for that spell increases by 1
+
+---
+
+### Knowledge of Antiquity
+
+**Prerequisite:** [Pact of the Hourglass]
+
+When you make an Intelligence (Arcana), Intelligence (History), or Intelligence (Religion), you can use your Charisma modifier instead of Intelligence.
+
+---
+
+### Mirror of Fates
+
+**Prerequisite:** [Pact of the Chalice]
+
+You can peer into the uncertain future. Using your Pact Chalice as a spellcasting focus, you can cast *Augury* at-will, without expending a spell slot or material components.
+
+---
+
+### Deep Fry
+
+**Prerequisite:** [Pact of the Wok]
+
+You can cast *Grease* with a Warlock spell slot.
+
+---
+
+### Cup of Recovery
+
+**Prerequisite:** Level 2+ Warlock, [Pact of the Chalice]
+
+You can cast *Lesser Restoration* once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Long Rest.
+
+---
+
+### Time Acceleration
+
+**Prerequisite:** Level 2+ Warlock, [Pact of the Hourglass]
+
+You can cast *Gift of Alacrity* once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Long Rest.
+
+---
+
 ### Blasphemous Prayer
 
-**Prerequisite:** Level 4+ Warlock, Pact of the Tome
+**Prerequisite:** Level 5+ Warlock, [Pact of the Tome]
 
 Choose one level 3 Cleric subclass feature that expend a use of Channel Divinity. A new page appears in your Book of Shadow detailing prayers of how to use that feature. You use your Warlock level and Spell save DC for Cleric level or Spell save DC.
 
@@ -99,9 +145,17 @@ You can invoke this level 3 Cleric subclass feature once and you must finish a S
 
 ---
 
+### Blink of The Destruction
+
+**Prerequisite:** Level 5+ Warlock
+
+You can cast *[Fireball](../../../spells/description/core/level-3.md#fireball)* centred on yourself, using a Warlock spell slot. When you do, you gain Temporary Hit Points equal to the damage you take from the spell. If you use this invocation again while you still have Temporary Hit Points from it, any damage from the spell is instead applied to your actual Hit Points.
+
+---
+
 ### Kiss of Mephistopheles
 
-**Prerequisite:** Level 5+, a Warlock Cantrip That Deals Damage
+**Prerequisite:** Level 5+ Warlock, a Warlock Cantrip That Deals Damage
 
 Choose one of your known Warlock cantrips that deals damage. When that cantrip deals damage, you can take a Bonus Action to cast *Fireball* using a Pact Magic spell slot. The spell must be centered on the creature you hit with cantrip.
 
@@ -119,17 +173,25 @@ You can cast *Slow* with a Warlock spell slot.
 
 ### Plates of Null
 
-**Prerequisite:** Level 5+, [Armour of Shadow](phb24.md#armour-of-shadows)
+**Prerequisite:** Level 5+, [Armour of Shadow]
 
-When you cast *[Mage Armour](../../../spells/description/core/level-1.md#mage-armour)* using [Armour of Shadow](phb24.md#armour-of-shadows) Invocation, your base AC is 15 + your Dexterity modifier instead of the normal effect.
+When you cast *[Mage Armour](../../../spells/description/core/level-1.md#mage-armour)* using [Armour of Shadow] Invocation, your base AC is 15 + your Dexterity modifier instead of the normal effect.
 
 ---
 
-### Blink of The Destruction
+### Cup of Protection
 
-**Prerequisite:** Level 5+
+**Prerequisite:** Level 7+ Warlock, [Pact of the Chalice] 
 
-You can cast *[Fireball](../../../spells/description/core/level-3.md#fireball)* centred on yourself, using a Warlock spell slot. When you do, you gain Temporary Hit Points equal to the damage you take from the spell. If you use this invocation again while you still have Temporary Hit Points from it, any damage from the spell is instead applied to your actual Hit Points.
+A creature of your choice can take a :rsc-b: **Bonus Action** to drink from your Pact Chalice, gaining the effects of *Death Ward* spell. Once used, you must finish a Long Rest to use this feature again.
+
+---
+
+### Time Dilation
+
+**Prerequisite:** Level 7+ Warlock, [Pact of the Hourglass]
+
+You can cast *Haste* once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Short or Long Rest.
 
 ---
 
@@ -141,3 +203,28 @@ You can cast *Polymorph* with a Warlock spell slot.
 
 ---
 
+### Enchanting Melody
+
+**Prerequisite:** Level 9+ Warlock
+
+You can cast *Charm Person* once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Long Rest.
+
+---
+
+### Temporal Rewind
+
+**Prerequisite:** Level 15+ Warlock, [Pact of the Hourglass]
+
+When you finish your turn, you can take a :rsc-r: **Reaction** to undo everything that happened on your turn. You return to the space you began that turn in and you regain all resources you expended. You can then immediately repeat your turn.
+
+Once you use this feature you must finish a Short or Long Rest before you can use it again.
+
+---
+
+[Armour of Shadow]: phb24.md#armour-of-shadows
+[Pact of the Blade]: phb24.md#pact-of-the-blade
+[Pact of the Tome]: phb24.md#pact-of-the-tome
+[Pact of the Wok]: #pact-of-the-wok
+[Pact of the Instrument]: #pact-of-the-instrument
+[Pact of the Hourglass]: #pact-of-the-hourglass
+[Pact of the Chalice]: #pact-of-the-chalice
