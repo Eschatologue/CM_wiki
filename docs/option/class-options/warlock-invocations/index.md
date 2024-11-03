@@ -36,4 +36,4 @@ The table below lists available General Feats, divided into three categories: *P
 | Undying Servitude | Ghostly Gaze | Protection of the Talisman | Relentless Hex |
 | Trickster's Escape | Bond of the Talisman | Shroud of Shadow |  |
 
-
+##### Homebrew
