@@ -38,7 +38,7 @@ Protective eyewear designed to shield the eyes from debris, sparks, and bright l
 
 Adventuring gear, 250 sp, S.
 
-A compact electronic device designed to detect hazardous gases. It flashes dim light for 5 feet and emits a loud beeping noise audible up to 60 feet when harmful gas is detected within 15 feet.
+A compact electronic device designed to detect hazardous gases. It emits a series of beeping noise audible up to 30 feet when harmful gas is detected within 15 feet.
 
 ---
 
@@ -46,7 +46,7 @@ A compact electronic device designed to detect hazardous gases. It flashes dim l
 
 Adventuring gear, 500 sp, S. 
 
-A compact electronic device, designed to detect harmful radiation and corruption levels. It emits a series of clicking noises that increase in frequency as radiation or corruption levels rise, and it flashes a dim light for 5 feet when radiation is detected within 15 feet.
+A compact electronic device, designed to detect harmful radiation and corruption levels. It emits a series of clicking noises that increase in frequency as radiation or corruption levels rise when radiation or corruption is detected within 15 feet.
 
 ---
 
