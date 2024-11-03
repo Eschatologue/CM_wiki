@@ -9,11 +9,50 @@ These Invocations are for Crown & Misery campaign
 
 ---
 
+### Pact of the Chalice
+
+You can conjure a Pact Chalice; a vessel for the creation of potions and poultices in your hand at the end of a Short or Long Rest. It takes the form of of a tiny object of your choice that is capable of holding liquids, and it grants you the following benefits:
+
+***Tools.*** It counts as both a Herbalism Kit and a Alchemist's Supplies, and it uses your Spellcasting modifier for ability checks made with it.
+
+***Spellcasting Focus.*** You can use the device as a Spellcasting Focus.
+
+***Potion Creation.*** At the end of a Short or Long Rest, you can use the Pact Chalice to conjure a vial of the following: [Alchemist's Fire], [Acid], [Holy Water], [Potion of Healing], or [Potion of Climbing]. The liquid retains its potency until the end of your next long rest, at which point it becomes inert and unusable.
+
+This timekeeping device disappears if you conjure another device with this feature or if you die.
+
+[Alchemist's Fire]: ../../../equipment/adventuring-gear/item.md#alchemists-fire
+
+[Acid]: ../../../equipment/adventuring-gear/item.md#acid
+
+[Holy Water]: ../../../equipment/adventuring-gear/item.md#holy-water
+
+[Potion of Healing]: ../../../equipment/consumeables/potion.md#potion-of-healing
+
+[Potion of Climbing]: ../../../equipment/consumeables/potion.md#potion-of-climbing
+
+---
+
+### Pact of the Hourglass
+
+You can conjure a Pact Hourglass; a mystical timekeeping device in your hand at the end of a Short or Long Rest. It takes the form of a timekeeping device of your choice, and it grants you the following benefits:
+
+***Initiative Bonus.*** So long you don't have the Surprised condition, you gain bonus to your Initiative rolls equal to your Spellcasting modifier (minimum of +1).
+
+***Rewind Time.*** When you make a D20 Test, you can choose to re-roll. You can use this feature after you roll, but before you know if you succeed. Once you use this feature to turn failure into success, you must finish a Short or Long Rest before you can use it again.
+
+***Spellcasting Focus.*** You can use the device as a Spellcasting Focus.
+
+This timekeeping device disappears if you conjure another device with this feature or if you die.
+
+---
+
 ### Arcane Gunslinger
 
 **Prerequisite:** Pact of the Blade
 
 You can create a Pact Weapon that is a Short-Arm or Long-Arm. Firearms created from this invocations can't gain the benefit of any Augmentations.
+
 
 ---
 

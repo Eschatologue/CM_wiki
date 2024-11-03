@@ -22,19 +22,19 @@ The word "Antares" originated from the brightest star in the constellation of Sc
 
 The history of Antares is largely obscured by the passage of time and recurrent catastrophic events, which have often prioritised survival over the preservation of records. Despite these challenges, key moments have been recorded, providing insight into the continent's past.
 
-The history of Antares is segmented by events known as "Warp Maelstorms," which mark the transitions between ages. To date, two such maelstorms have been documented, with the possibility of earlier events that have been lost to time.
+The history of Antares is segmented by events known as "Warp Raptures," which mark the transitions between ages. To date, two such Raptures have been documented, with the possibility of earlier events that have been lost to time.
 
-### The First Maelstorm
+### The First Rapture
 
-The **First Maelstorm** is an ancient event whose specific details are largely unknown. It is known, however, for the collapse of the civilisation known as **Eridu**, the extinction of primordial deities, and the gradual decline of the Aeginae, ancient dragons that once dominated the continent. This event is recognised as the end of the "Old World" and the beginning of a new era.
+The **First Rapture** is an ancient event whose specific details are largely unknown. It is known, however, for the collapse of the civilisation known as **Eridu**, the extinction of primordial deities, and the gradual decline of the Aeginae, ancient dragons that once dominated the continent. This event is recognised as the end of the "Old World" and the beginning of a new era.
 
-### The Second Maelstorm
+### The Second Rapture
 
-The **Second Maelstorm**, occurring approximately 500 years after the first, is better documented. This event drastically altered the geography of Antares, leading to the destruction of many coastal regions and forcing surviving civilisations to move inland. The maelstorm also resulted in the shattering of the moon, creating a ring around the planet, and increased the frequency of smaller warpstorms. Additionally, this era saw the emergence of the "Spires", beings of immense power that surpassed even that of the gods and Aeginae.
+The **Second Rapture**, occurring approximately 500 years after the first, is better documented. This event drastically altered the geography of Antares, leading to the destruction of many coastal regions and forcing surviving civilisations to move inland. The Rapture also resulted in the shattering of the moon, creating a ring around the planet, and increased the frequency of smaller warpstorms. Additionally, this era saw the emergence of the "Spires", beings of immense power that surpassed even that of the gods and Aeginae.
 
 ### The Millennium Dawn
 
-The **Millennium Dawn** began approximately 200 years after the Second Maelstorm and is marked by the fall of the Tähdenvalta Empire following the **Great Split**, a major conflict that reshaped the political landscape of Antares. This era has seen the rise of a new power, and it is within this period that current events, including the ongoing D&D campaign, are set.
+The **Millennium Dawn** began approximately 200 years after the Second Rapture and is marked by the fall of the Tähdenvalta Empire following the **Great Split**, a major conflict that reshaped the political landscape of Antares. This era has seen the rise of a new power, and it is within this period that current events, including the ongoing D&D campaign, are set.
 
 ## Pre-Industrial Revolution
 

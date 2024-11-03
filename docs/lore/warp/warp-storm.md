@@ -17,8 +17,8 @@ Despite the potential for inaccuracies, the initial disaster caused by a Warp St
 
 Inaccuracies in storm prediction do happen from time to time, leading to false alarms that can cause the populace to riot. For example, in Gallia, an entire institution was beheaded for such a mistake, a decision from which the nation never recovered.
 
-## Warp Maelstorms
+## Warp Raptures
 
-Not to be confused with regular Warp Storms, Warp Maelstorms are cataclysmic events on a far grander scale. They occur only once every several centuries, yet their devastating effects linger for much longer, with their significance even marked in the Antares calendar system as 'AT' or 'Après la Tempête,' meaning 'After the Storm,' to denote years following such catastrophes.
+Not to be confused with regular Warp Storms, Warp Raptures are cataclysmic events on a far grander scale. They occur only once every several centuries, yet their devastating effects linger for much longer, with their significance even marked in the Antares calendar system as 'AT' or 'Après la Tempête,' meaning 'After the Storm,' to denote years following such catastrophes.
 
-To call the Maelstorm a tragedy is a gross understatement. It is a literal extinction event that fractured the continent and nearly caused the annihilation of all life. There is considerable debate about the number of Warp Maelstorms throughout Antares' history, but current research theorizes that there has been at least one previous Maelstorm that erased Antares' precursor civilization and a second one, marking the era in which the current story takes place.
+To call the Rapture a tragedy is a gross understatement. It is a literal extinction event that fractured the continent and nearly caused the annihilation of all life. There is considerable debate about the number of Warp Raptures throughout Antares' history, but current research theorizes that there has been at least one previous Rapture that erased Antares' precursor civilization and a second one, marking the era in which the current story takes place.

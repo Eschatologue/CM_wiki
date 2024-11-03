@@ -6,7 +6,7 @@ search:
 
 # Antares' Pantheon
 
-In Crown & Misery, beings we once referred to as 'Gods' are now relics of a bygone era when deities roamed the lands. All traces of these beings vanished after the First Warp Maelstorm. However, entities of immense power that govern the natural laws of Antares still remain. 
+In Crown & Misery, beings we once referred to as 'Gods' are now relics of a bygone era when deities roamed the lands. All traces of these beings vanished after the First Warp Rapture. However, entities of immense power that govern the natural laws of Antares still remain. 
 
 Antares boasts many religions, some with structured rules and others that closely resemble cults, all revolving around two distinct pantheons or types of deities: the Aeginae and the Spire. The Aeginae are leviathans, while the Spire are higher-dimensional eldritch beings. The Spire, in particular, wield more power than the Aeginae and transcend the concept of 'Gods.' Both are not just beings who declare laws; both are the very embodiment of the laws themselves.
 
