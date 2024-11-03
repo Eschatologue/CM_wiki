@@ -122,7 +122,6 @@ nav:
       - Downtime:
         - gameplay/downtime/index.md
         - Carousing: gameplay/downtime/carousing.md
-        - Crafting: gameplay/downtime/crafting.md
         - Crime: gameplay/downtime/crime.md
         - Fishing: gameplay/downtime/fishing.md
         - Gambling: gameplay/downtime/gambling.md

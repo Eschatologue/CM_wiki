@@ -11,15 +11,15 @@ These Invocations are for Crown & Misery campaign
 
 ### Pact of the Chalice
 
-You can conjure a Pact Chalice; a vessel for the creation of potions and poultices in your hand at the end of a Short or Long Rest. It takes the form of of a tiny object of your choice that is capable of holding liquids, and it grants you the following benefits:
+You can conjure a Pact Chalice; a vessel for the creation of potions and poultices in your hand at the end of a Short or Long Rest. It takes the form of a tiny object of your choice that is capable of holding liquids, and it grants you the following benefits:
 
-***Tools.*** It counts as both a Herbalism Kit and a Alchemist's Supplies, and it uses your Spellcasting modifier for ability checks made with it.
-
-***Spellcasting Focus.*** You can use the device as a Spellcasting Focus.
+***Artisan Tools.*** It counts as both a Herbalism Kit and a Alchemist's Supplies, and it uses your spellcasting modifier for ability checks made with it.
 
 ***Potion Creation.*** At the end of a Short or Long Rest, you can use the Pact Chalice to conjure a vial of the following: [Alchemist's Fire], [Acid], [Holy Water], [Potion of Healing], or [Potion of Climbing]. The liquid retains its potency until the end of your next long rest, at which point it becomes inert and unusable.
 
-This timekeeping device disappears if you conjure another device with this feature or if you die.
+***Spellcasting Focus.*** You can use the device as a Spellcasting Focus.
+
+This object disappears if you conjure another object with this feature or if you die.
 
 [Alchemist's Fire]: ../../../equipment/adventuring-gear/item.md#alchemists-fire
 
@@ -33,17 +33,51 @@ This timekeeping device disappears if you conjure another device with this featu
 
 ---
 
+### Pact of the Frying Pan
+
+You can conjure a Pact Frying Pan; a exquisite cooking implement in your hand at the end of a Short or Long Rest. It takes the form of a cooking utensil of your choice, and it grants you the following benefits:
+
+***Artisan Tools.*** It counts as Cooking Utensil, and it uses your spellcasting modifier for ability checks made with it.
+
+***Goodberry.*** You have the *Goodberry* cantrip always prepared. Once per Long rest, you can change these berries appearance created from this feature to other form of edible foods. When a creature of your choice consume these berries, it gains one of the following benefits:
+
+:   ***Bolster.*** The creature chooses either Strength, Dexterity, or Constitution. For 1 minute, the creature can add your spellcasting modifier to any ability check or saving throws it makes with the chosen ability score.
+
+:   ***Restore.*** The creature ends one of the following conditions currently affecting it: Charmed, Blindness, Frightened, Deafened, Poisoned, or it can reduce its current Exhaustion level by 1.
+
+:   ***Stimulate.*** The creature regain one of its expended Hit Die.
+
+***Spellcasting Focus.*** You can use the device as a Spellcasting Focus.
+
+This cooking utentil disappears if you conjure another utensil with this feature or if you die.
+
+---
+
 ### Pact of the Hourglass
 
 You can conjure a Pact Hourglass; a mystical timekeeping device in your hand at the end of a Short or Long Rest. It takes the form of a timekeeping device of your choice, and it grants you the following benefits:
 
-***Initiative Bonus.*** So long you don't have the Surprised condition, you gain bonus to your Initiative rolls equal to your Spellcasting modifier (minimum of +1).
+***Initiative Bonus.*** So long you don't have the Surprised condition, you gain bonus to your Initiative rolls equal to your spellcasting modifier (minimum of +1).
 
 ***Rewind Time.*** When you make a D20 Test, you can choose to re-roll. You can use this feature after you roll, but before you know if you succeed. Once you use this feature to turn failure into success, you must finish a Short or Long Rest before you can use it again.
 
 ***Spellcasting Focus.*** You can use the device as a Spellcasting Focus.
 
 This timekeeping device disappears if you conjure another device with this feature or if you die.
+
+---
+
+### Pact of the Instrument
+
+As a :rsc-b: **Bonus Action**, you can conjure a pact instrument in your hand—a musical instrument of your choice with which you bond—or create a bond with a musical instrument you touch. Until the bond ends, it grants you the following benefits:
+
+***Bonus Damage.*** When you use it to cast a Warlock spell with a Verbal component, or a spell that deals :dmg-thunder: Thunder damage, you gain a bonus to one of the spell's damage rolls equal to 1d8.
+
+***Expertise.*** You have Expertise with it, and it uses your spellcasting modifier for ability checks made with it.
+
+***Spellcasting Focus.*** You can use the musical instrument as a Spellcasting Focus.
+
+Your bond with the musical instrument ends if you use this feature's Bonus Action again, if the musical instrument is more than 5 feet away from you for 1 minute or more, or if you die. A conjured musical instrument disappears when the bond ends.
 
 ---
 
