@@ -471,10 +471,13 @@
   margin: -0.1rem 0 0.15rem 0;
 }
 .md-typeset h1,
-.md-typeset h2,
-.md-typeset h3 {
+.md-typeset h2 {
   font-family: "Jost", sans-serif;
   text-transform: uppercase;
+}
+.md-typeset h3 {
+  font-family: "Jost", sans-serif;
+  font-variant: small-caps;
 }
 .md-typeset h1 {
   font-size: 1.575rem;
