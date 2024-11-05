@@ -483,13 +483,13 @@
 .md-typeset h1 {
   font-size: 1.575rem;
   letter-spacing: 0.0315rem;
-  font-weight: 375;
-  margin-top: 0.3rem;
-  margin-bottom: 0.3rem;
+  font-weight: 495;
+  margin-top: 0.45rem;
+  margin-bottom: 0.45rem;
 }
 .md-typeset h2 {
   font-size: 1.05rem;
-  font-weight: 375;
+  font-weight: 450;
   letter-spacing: 0.0315rem;
   border-bottom: 0.125rem solid rgba(255, 255, 255, 0.25);
   margin: 0.9rem 0 0.2rem 0;
@@ -497,7 +497,7 @@
 }
 .md-typeset h3 {
   font-size: 0.91rem;
-  font-weight: 375;
+  font-weight: 420;
   letter-spacing: 0.0364rem;
   margin: 0.6rem 0 0.2rem 0;
   display: flex;
