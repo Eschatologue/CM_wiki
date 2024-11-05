@@ -76,25 +76,20 @@ As a Ranger, you gain the following class features when you reach the specified 
 
 All rangers are unique, each shaped by their own distinct history. Choose one of the following benefits. If a benefit grants a spell, it is considered a Ranger spell for you, and Wisdom is your spellcasting ability. If a benefit grants proficiency in a skill you already have, choose a different proficiency available to the [Core Ranger Trait](#core-ranger-trait) table:
 
-***Bounty Hunter*** 
+***Bounty Hunter***   
+Your expertise in hunting bounties stands out. You gain proficiency in Insight and Investigation. Creatures has :d20-disadv: **Disadvantage** on saves to end the Restrained condition caused by you.
 
-:   Your expertise in hunting bounties stands out. You gain proficiency in Insight and Investigation. Creatures has :d20-disadv: **Disadvantage** on saves to end the Restrained condition caused by you.
+***Deathwatch***  
+You specialise in hunting those not native to Antares. You gain proficiency in Arcana, and you can cast *Protection from Evil and Good* without expending a spell slot once per Long Rest.
 
-***Deathwatch*** 
+***Mage Breaker***  
+You have a background in battling spellcasters. You gain proficiency in Arcana, and the *True Strike* cantrip is always prepared for you.
 
-:   You specialise in hunting those not native to Antares. You gain proficiency in Arcana, and you can cast *Protection from Evil and Good* without expending a spell slot once per Long Rest.
+***Ranger Knight***  
+You have sworn to serve a crown or nation and aim to bring its foes to ruin. You gain proficiency in History and armour training with Heavy armour.
 
-***Mage Breaker*** 
-
-:   You have a background in battling spellcasters. You gain proficiency in Arcana, and the *True Strike* cantrip is always prepared for you.
-
-***Ranger Knight*** 
-
-:   You have sworn to serve a crown or nation and aim to bring its foes to ruin. You gain proficiency in History and armour training with Heavy armour.
-
-***Sanctified Hunter*** 
-
-:   You have sworn to hunt the enemies of a holy or druidic order. You gain proficiency in Religion, and the *Sacred Flame* cantrip is always prepared for you.
+***Sanctified Hunter***  
+You have sworn to hunt the enemies of a holy or druidic order. You gain proficiency in Religion, and the *Sacred Flame* cantrip is always prepared for you.
 
 ### Level 1: Spellcasting
 
@@ -136,13 +131,11 @@ Your training with weapons allows you to use the mastery properties of two kinds
 
 Whenever you finish a Long Rest, you can do one of the following:
 
-***Change Weapon*** 
+***Change Weapon***  
+You can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Longswords, or
 
-:   You can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Longswords, or
-
-***Replace Weapon Mastery^CM^*** 
-
-:   You can choose any of the kinds of Mastery weapons you’re using and replace the Mastery property of each with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Scimitar's Nick property with the Vex property.
+***Replace Weapon Mastery^CM^***  
+You can choose any of the kinds of Mastery weapons you’re using and replace the Mastery property of each with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Scimitar's Nick property with the Vex property.
 
 --8<-- "includes/snippets/item-mastery.md"
 
@@ -153,6 +146,19 @@ Thanks to your travels, you gain the following benefits.
 ***Expertise.*** Choose one of your skill proficiencies with which you lack Expertise. You gain Expertise in that skill.
 
 ***Languages.*** You know two languages of your choice from the language tables in chapter 2.
+
+### Level 2: Wanderer of the World
+
+Antares is a harsh and unforgiving realm for travellers, yet you have journeyed through it regardless. You gain one of the following benefits:
+
+***Beast Tamer***  
+You have cultivated a strong bond with animals. You can cast *Find Familiar*, but only as a ritual.
+
+***Urban Tracker***  
+You are an expert at navigating the labyrinthine Citadel Cities as well as the wilds. You gain Proficiency in Sleight of Hand.
+
+***Wasteland Wanderer***  
+Choose one of the following damage types: :dmg-cold: Cold, :dmg-fire: Fire, :dmg-poison: Poison, or :dmg-lighting: Lightning. You gain :dmg-res: **Resistance** to the chosen damage type.
 
 ### Level 2: Fighting Style
 
@@ -184,9 +190,11 @@ Choose two of your skill proficiencies with which you lack Expertise. You gain E
 
 Primal forces now help fuel you on your journeys, granting you the following benefits.
 
-***Temporary Hit Points.*** As a Magic action, you can give yourself a number of Temporary Hit Points equal to 1d8 plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+***Temporary Hit Points***  
+As a Magic action, you can give yourself a number of Temporary Hit Points equal to 1d8 plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
-***Decrease Exhaustion.*** Whenever you finish a Short Rest, your Exhaustion level, if any, decreases by 1.
+***Decrease Exhaustion***  
+Whenever you finish a Short Rest, your Exhaustion level, if any, decreases by 1.
 
 ### Level 13: Relentless Hunter
 
