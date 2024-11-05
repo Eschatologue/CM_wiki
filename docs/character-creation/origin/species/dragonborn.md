@@ -10,9 +10,9 @@ Dragonborn look like wingless, bipedal dragons–scaly, bright–eyed, and thick
 
 *PHB'24 Species - Crown & Misery Homebrew*
 
-| :material-human: **Creature Type** | :trait-size: **Size** | :rsc-speed: **Speed** |
+| :material-human: Creature Type | :trait-size: Size | :rsc-speed: Speed |
 |:-:|:-:|:-:|
-| Humanoid | Medium (4–5 feet tall) | Standard (30 feet) |
+| Humanoid | Medium | Standard (30 feet) |
 
 As a Dragonborn, you have these special traits.
 

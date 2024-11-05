@@ -12,7 +12,7 @@ On some worlds in the multiverse, the first settlements of dwarves were built in
 
 | :material-human: **Creature Type** | :trait-size: **Size** | :rsc-speed: **Speed** |
 |:-:|:-:|:-:|
-| Humanoid | Medium (4–5 feet tall) | Standard (30 feet) - Not reduced by Heavy Armour |
+| Humanoid | Medium (4–5 feet tall) | Standard (30 feet) |
 
 As a Dwarf, you have these special traits.
 
@@ -27,6 +27,10 @@ You have :dmg-res: Resistance to :dmg-poison: Poison damage. You also have :d20-
 ### Stonecunning 
 
 As a Bonus Action, you gain Tremorsense with a range of 60 feet for 10 minutes. You must be on a stone surface or touching a stone surface to use this Tremorsense. The stone can be natural or worked. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
+
+### Stocky
+
+Your :rsc-speed: **Speed** is not reduce by wearing Heavy armour.
 
 ## Dwarf Lore
 

@@ -12,7 +12,7 @@ An environment subtly transforms elves after they inhabit it for a millennium or
 
 *PHB'24 Species*
 
-| :material-human: **Creature Type** | :trait-size: **Size** | :rsc-speed: **Speed** |
+| :material-human: Creature Type | :trait-size: Size | :rsc-speed: Speed |
 |:-:|:-:|:-:|
 | Humanoid | Medium (about 5–6 feet tall) | Standard (30 feet) |
 

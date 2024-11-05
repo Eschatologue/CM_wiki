@@ -8,9 +8,9 @@ Aasimar can arise among any population of mortals. They resemble their parents, 
 
 *PHB'24 Species*
 
-| :material-human: **Creature Type** | :trait-size: **Size** | :rsc-speed: **Speed** |
+| :material-human: Creature Type | :trait-size: Size | :rsc-speed: Speed |
 |:-:|:-:|:-:|
-| Humanoid | Medium (4–7 feet tall) or Small (about 2–4 feet tall) | Standard (30 feet) |
+| Humanoid | Medium or Small | Standard (30 feet) |
 
 As an Aasimar, you have these following traits.
 

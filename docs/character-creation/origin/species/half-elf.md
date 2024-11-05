@@ -4,29 +4,15 @@ status: adapted
 
 # Half Elf
 
-"Half-Elves walk a delicate line, inheriting the blessings of both their human and elven lineage while grappling with a sense of not truly belonging. They blend the inquisitiveness, ingenuity, and drive of humans with the heightened senses, appreciation for nature, and artistic inclinations of elves."
-
-#### Drow Heritage
-
-When the majority of humans moved to the depths of the Underdark for protection, cultures from myriad of nations and races began to intermingle. Thankfully, the severe trust issues of the Drow did not pass down to these Half-elves
-
-#### High-Elf Heritage
-
-A faint echo of the Ancient Forest's grace lingers in half-elves with this bloodline, though the burdensome sins tied to that heritage do not. Despite this, proclaiming one's High Elf parentage is still ill-advised
-
-#### Wood-Elf Heritage
-
-Inheriting the nimble grace and stealthy nature of their wood elf parents, these half-elves move with a quickened stride and possess an acute awareness of their surroundings, making them adept at navigating both natural and urban environments unseen.
-
----
+Half-Elves walk a delicate line, inheriting the blessings of both their human and elven lineage while grappling with a sense of not truly belonging. They blend the inquisitiveness, ingenuity, and drive of humans with the heightened senses, appreciation for nature, and artistic inclinations of elves.
 
 ## Half Elf Traits
 
 *PHB'14 Species*
 
-:material-human: **Creature Type:** Humanoid  
-:trait-size: **Size:** Medium (about 4–7 feet tall) or Small (about 2–4 feet tall), chosen when you select this species  
-:rsc-speed: **Speed:** 30 feet
+| :material-human: Creature Type | :trait-size: Size | :rsc-speed: Speed |
+|:-:|:-:|:-:|
+| Humanoid | Medium or Small | Standard (30 feet) |
 
 As a Half-Elf, you have these special traits.
 
@@ -46,19 +32,28 @@ You gain proficiency in one skill of your choice.
 
 Choose one of the following options, whichever one you choose, Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait, if any. (Choose the ability when you select the lineage):
 
-#### Skill Versatility (General)
+***Cantrip (High Elf Heritage)***  
+You know the *Prestidigitation* cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list.
 
+***Drow Magic (Drow)***  
+The range of your Darkvision increases to 120 feet. You also know the *Dancing Lights* cantrip.
+
+***Fleet of Foot (Wood Elf)***  
+Your :rsc-speed: Speed increases to 35 feet. You also know the *Druidcraft* cantrip. 
+
+***Skill Versatility (General)***  
 You gain proficiency in two skills of your choice.
 
-#### Cantrip (High Elf Heritage)
+## Half-Elf Lore
 
-You know the Prestidigitation cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list.
+#### Drow Heritage
 
-#### Drow Magic (Drow)
+When the majority of humans moved to the depths of the Underdark for protection, cultures from myriad of nations and races began to intermingle. Thankfully, the severe trust issues of the Drow did not pass down to these Half-elves
 
-The range of your Darkvision increases to 120 feet. You also know the Dancing Lights cantrip.
+#### High-Elf Heritage
 
-#### Fleet of Foot (Wood Elf)
+A faint echo of the Ancient Forest's grace lingers in half-elves with this bloodline, though the burdensome sins tied to that heritage do not. Despite this, proclaiming one's High Elf parentage is still ill-advised
 
-Your :rsc-speed: Speed increases to 35 feet. You also know the Druidcraft cantrip. 
+#### Wood-Elf Heritage
 
+Inheriting the nimble grace and stealthy nature of their wood elf parents, these half-elves move with a quickened stride and possess an acute awareness of their surroundings, making them adept at navigating both natural and urban environments unseen.

@@ -12,9 +12,9 @@ Halflings who prefer to live underground are sometimes called strongheart halfli
 
 *PHB'24 Species*
 
-:material-human: **Creature Type:** Humanoid  
-:trait-size: **Size:** Small (about 2–3 feet tall)  
-:rsc-speed: **Speed:** 30 feet
+| :material-human: Creature Type | :trait-size: Size | :rsc-speed: Speed |
+|:-:|:-:|:-:|
+| Humanoid | Small | Standard (30 feet) |
 
 As a Halfling, you have these special traits.
 
