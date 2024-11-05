@@ -25,6 +25,8 @@ Wanderers of the wilderness, Rangers specialize in facing monsters that threaten
 
 Thanks to their connection with nature, Rangers can also cast spells that harness the primal powers of the wilderness. A Ranger's talents and magic are honed with deadly focus on the task of protecting the world from the ravages of monsters and tyrants.
 
+--8<-- "includes/snippets/skills.md"
+
 ## Becoming a Ranger...
 
 ### As a Level 1 Character
@@ -158,7 +160,7 @@ You have cultivated a strong bond with animals. You can cast *Find Familiar*, bu
 You are an expert at navigating the labyrinthine Citadel Cities as well as the wilds. You gain Proficiency in Sleight of Hand.
 
 ***Wasteland Wanderer***  
-Choose one of the following damage types: :dmg-cold: Cold, :dmg-fire: Fire, :dmg-poison: Poison, or :dmg-lighting: Lightning. You gain :dmg-res: **Resistance** to the chosen damage type.
+Choose one of the following damage types: :dmg-cold: Cold, :dmg-fire: Fire, :dmg-poison: Poison, or :dmg-lightning: Lightning. You gain :dmg-res: **Resistance** to the chosen damage type.
 
 ### Level 2: Fighting Style
 
@@ -226,4 +228,3 @@ You gain an Epic Boon feat (see chapter 5) or another feat of your choice for wh
 
 The damage die of your ***Hunter’s Mark*** improves even further to d10 when it is cast using Favoured Enemy feature.
 
---8<-- "includes/snippets/skills.md"
