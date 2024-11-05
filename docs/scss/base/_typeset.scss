@@ -55,8 +55,8 @@ $h4Size: $defaultFontSize * 1.125;
         font-size: $h1Size;
         letter-spacing: $h1Size * 0.02;
         font-weight: $defaultFontWeight * 1.25;
-        margin-top: -0.25em;
-        margin-bottom: convert.px2rem(8px);
+        margin-top: convert.px2rem(6px);
+        margin-bottom: convert.px2rem(6px);
     }
 
     h2 {
