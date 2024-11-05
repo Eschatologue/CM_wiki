@@ -45,9 +45,9 @@ As a Ranger, you gain the following class features when you reach the specified 
 
 ##### Ranger Features
 
-| Level | PB | Class Features | Favored Enemy | Prepared Spells | I | II | III | IV | V |
+| Level | PB | Class Features | Favoured Enemy | Prepared Spells | I | II | III | IV | V |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | +2 | Spellcasting, Favored Enemy, Weapon Mastery | 2 | 2 | 2 | — | — | — | — |
+| 1 | +2 | Ranger's Archetype, Spellcasting, Favoured Enemy, Weapon Mastery | 2 | 2 | 2 | — | — | — | — |
 | 2 | +2 | Deft Explorer, Fighting Style | 2 | 3 | 2 | — | — | — | — |
 | 3 | +2 | Ranger Subclass | 2 | 4 | 3 | — | — | — | — |
 | 4 | +2 | Ability Score Improvement | 2 | 5 | 3 | — | — | — | — |
@@ -67,6 +67,24 @@ As a Ranger, you gain the following class features when you reach the specified 
 | 18 | +6 | Feral Senses | 6 | 14 | 4 | 3 | 3 | 3 | 1 |
 | 19 | +6 | Epic Boon | 6 | 15 | 4 | 3 | 3 | 3 | 2 |
 | 20 | +6 | Foe Slayer | 6 | 15 | 4 | 3 | 3 | 3 | 2 |
+
+!!! homebrew "Not Official"
+
+    This version of Ranger is a modified version of the 2024 PHB. Some changes are made to buff ranger's to be more appealing as a class.
+
+### Level 1: Ranger’s Archetype
+
+All rangers are unique, each shaped by their own distinct history. Choose one of the following benefits. If a benefit grants a spell, it is considered a Ranger spell for you, and Wisdom is your spellcasting ability:
+
+***Bounty Hunter.*** Your expertise in hunting bounties stands out. You gain proficiency in Insight and Investigation. A creature has :d20-disadv: **Disadvantage** on saves to end the Restrained condition when caused by you.
+
+***Custodian.*** You have sworn to serve a crown or nation and aim to bring its foes to ruin. You gain proficiency in History and armour training with Heavy armour.
+
+***Deathwatch.*** You specialise in hunting those not native to Antares. You gain proficiency in Arcana, and you can cast *Protection from Evil and Good* without expending a spell slot once per Long Rest.
+
+***Mage Breaker.*** You have a background in battling spellcasters. You gain proficiency in Arcana, and the *True Strike* cantrip is always prepared for you.
+
+***Sanctified Hunter.*** You have sworn to hunt the enemies of a holy or druidic order. You gain proficiency in Religion, and the *Sacred Flame* cantrip is always prepared for you.
 
 ### Level 1: Spellcasting
 
@@ -96,15 +114,11 @@ Whenever you finish a Long Rest, you can replace one spell on your list with ano
 
 You can use a Druidic Focus as a Spellcasting Focus for your Ranger spells.
 
-### Level 1: Favored Enemy
+### Level 1: Favoured Enemy
 
 You always have the ***Hunter’s Mark*** spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a Long Rest.
 
-The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favored Enemy column of the Ranger Features table. When the spell is cast this way, it does not require :spell-concentration: Concentration, though it ends early if you have the Incapcacitated condition.
-
-!!! homebrew "No Concentration"
-
-    The ***Hunter’s Mark*** spell when cast using Favored Enemy now does not require Concentration.
+The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favoured Enemy column of the Ranger Features table. When the spell is cast this way, it does not require :spell-concentration: Concentration, though it ends early if you have the Incapcacitated condition.
 
 ### Level 1: Weapon Mastery
 
@@ -166,7 +180,7 @@ Primal forces now help fuel you on your journeys, granting you the following ben
 
 ### Level 13: Relentless Hunter
 
-The damage die of your ***Hunter’s Mark*** improves to d8 when it is cast using Favored Enemy feature.
+The damage die of your ***Hunter’s Mark*** improves to d8 when it is cast using Favoured Enemy feature.
 
 !!! homebrew "Improved Scaling"
 
@@ -192,6 +206,6 @@ You gain an Epic Boon feat (see chapter 5) or another feat of your choice for wh
 
 ### Level 20: Foe Slayer
 
-The damage die of your ***Hunter’s Mark*** improves even further to d10 when it is cast using Favored Enemy feature.
+The damage die of your ***Hunter’s Mark*** improves even further to d10 when it is cast using Favoured Enemy feature.
 
 --8<-- "includes/snippets/skills.md"
