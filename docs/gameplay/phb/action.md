@@ -1,5 +1,5 @@
 ---
-icon: rsc/action
+icon: rsc/a
 ---
 
 # Action
