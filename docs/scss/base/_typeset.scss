@@ -47,7 +47,8 @@ $h4Size: $defaultFontSize * 1.125;
 
     h3  {
         font-family: $headingFont;
-        font-variant: small-caps;
+        text-transform: none !important;
+        font-variant: small-caps !important;
     }
 
     h1 {
