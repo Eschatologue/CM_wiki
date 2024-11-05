@@ -2,13 +2,13 @@
 
 Aasimar (pronounced AH-sih-mar) are mortals who carry a spark of the Upper Planes within their souls. Whether descended from an angelic being or infused with celestial power, they can fan that spark to bring light, healing, or heavenly fury.
 
-Aasimar can arise among any population of mortals. They resemble their parents, but they live for up to 160 years and habe feature that hint at their celestial heritage, such as metallic freckles, luminous eye, a halo, or the skin colour of an angel. These features start subtle and become obvious when the aasimar learns to reveal their full celestial nature.
+Aasimar can arise among any population of mortals. They resemble their parents, but they live for up to 160 years and have feature that hint at their celestial heritage, such as metallic freckles, luminous eye, a halo, or the skin colour of an angel. These features start subtle and become obvious when the aasimar learns to reveal their full celestial nature.
 
 ## Aasimar Traits
 
 *PHB'24 Species*
 
-| :material-human: **Creature Type** Humanoid | :trait-size: **Size** | :rsc-speed: **Speed** |
+| :material-human: **Creature Type** | :trait-size: **Size** | :rsc-speed: **Speed** |
 |:-:|:-:|:-:|
 | Humanoid | Medium (4–7 feet tall) or Small (about 2–4 feet tall) | Standard (30 feet) |
 
@@ -49,3 +49,8 @@ Ypur eyes briefly become pools of darkness and flightless wings sprout from your
 
 ## Aasimar Lore
 
+--8<-- "docs/character-creation/origin/species/index.md:species-warning"
+
+Aasimar are humanoids who resemble other species, particularly humans, in physical form, though their distinct features set them apart. They are often recognised by their radiant eyes, a halo hovering above their head, and luminous "wings" of various shapes and sizes on their backs.
+
+Most Aasimar are born in and reside within Soterrano, where they make up the majority of the population. They are rarely seen outside this region due to their deep connection with the *Solis*, or Soterrani "Sunlight," where the Spire Falcone is said to reside.

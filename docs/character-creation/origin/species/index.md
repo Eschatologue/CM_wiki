@@ -26,10 +26,19 @@ A species includes the following parts.
 
 ## Species in the Crown & Misery Setting
 
-Antares of  is primarily inhabited by species collectively known as *Ancients*. This term encompasses Aasimar, Dragonborn, Dwarves, Elves, Gnomes, Goliaths, Halflings, Half-Elves, Humans, Orcs, and Tieflings. In contrast, *Non-Ancients*, or *Abhumans*, are often referred to as Londoners. Both Ancients and Abhumans are spread across Antares: some dwell in subterranean environments, many reside within fortified Citadel Cities, and others live aboard arks that circle the continent.
+<!-- --8<-- [start:species-warning] -->
+
+!!! warning "Campaign-Specific"
+
+    This section defines this species as part of the *Crown & Misery* campaign setting. Consult your DM for information about how this species may differ in their own version of the campaign.
+
+<!-- --8<-- [end:species-warning] -->
+
+Antares is primarily inhabited by species collectively known as *Ancients*. This term encompasses Aasimar, Dragonborn, Dwarves, Elves, Gnomes, Goliaths, Halflings, Half-Elves, Humans, Orcs, and Tieflings. In contrast, *Non-Ancients*, or *Abhumans*, are often referred to as Londoners. Both Ancients and Abhumans are spread across Antares: some dwell in subterranean environments, many reside within fortified Citadel Cities, and others live aboard arks that circle the continent.
 
 ### Ancients and Non-Ancients
 
 The term *Ancients* was introduced by Gallian scholars to describe the native species of Antares, a classification that became necessary with the arrival of the Londoners. This distinction reflects key differences between the two groups. While Ancients often form communities within their own species, Londoners—or *Abhumans*—are typically more pragmatic, forming alliances across various groups.
 
 A defining difference lies in their connection to the Weave. Ancients possess an inherent link to the Weave, enabling them to wield spellcraft to varying degrees. Londoners, however, lack this connection entirely, relying instead on technology and machines to achieve basic activity that would otherwise require magic.
+
