@@ -27,6 +27,14 @@ The **Aeginae** are colossal leviathans, now nearly extinct, who once usurped th
 
 ---
 
+### Ancients
+
+*Species*
+
+Ancient are the majority of humanoid inhabitants in Antares, comprising Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Half Elf, Human, Orc, and Tiefling.
+
+---
+
 ### Boiler Rifles
 
 *Weaponry*
@@ -207,14 +215,6 @@ This era signifies a new period for Antares, as societies adapt to the new balan
 *Infrastructure*
 
 **Nomadic Cities** are an innovative urban solution proposed by London to combat the increasing intensity of Warp Storms. Designed to eventually replace static Citadel Cities, these mobile urban centres would move according to needs and purpose, allowing them to evade Warp Storms before they strike.
-
----
-
-### Ordinaire
-
-*Races*
-
-Ordinaire, or "ordinaries," are the majority of humanoid inhabitants in Antares, comprising Aasimar, Dwarves, Elves, Humans, Dragonborn, Halflings, Goliaths, Gnomes, Orcs, and Tieflings.
 
 ---
 

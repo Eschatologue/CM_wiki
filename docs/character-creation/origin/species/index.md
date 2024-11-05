@@ -24,22 +24,12 @@ A species includes the following parts.
 
 ***Special Traits.*** Each species gives a character special traits—unique characteristics based on the species' physiology or magical nature. When you choose a species, your character gets all the special traits listed for it. Some traits involve making a choice from a handful of options.
 
-## Race Changes in Crown & Misery
+## Species in the Crown & Misery Setting
 
-Crown & Misery introduces changes to the original races from the PHB and TCE to better fit the world settings. This is not an exhaustive list.
+Antares of  is primarily inhabited by species collectively known as *Ancients*. This term encompasses Aasimar, Dragonborn, Dwarves, Elves, Gnomes, Goliaths, Halflings, Half-Elves, Humans, Orcs, and Tieflings. In contrast, *Non-Ancients*, or *Abhumans*, are often referred to as Londoners. Both Ancients and Abhumans are spread across Antares: some dwell in subterranean environments, many reside within fortified Citadel Cities, and others live aboard arks that circle the continent.
 
-### Lore
+### Ancients and Non-Ancients
 
-Some races' lore has been slightly altered in Crown & Misery. For example, while elves traditionally live in forests, in this world, they "used to." Feel free to ask the DM for more details regarding the lore behind the races for reference when creating your backgrounds.
+The term *Ancients* was introduced by Gallian scholars to describe the native species of Antares, a classification that became necessary with the arrival of the Londoners. This distinction reflects key differences between the two groups. While Ancients often form communities within their own species, Londoners—or *Abhumans*—are typically more pragmatic, forming alliances across various groups.
 
-### Innate Expertise
-
-Some races allow you to apply double your Proficiency Bonus on checks in highly specific situations. These have been slightly altered, either by simplifying the situations or by granting the associated Proficiencies directly.
-
-### Dragonborn's Breath Weapon
-
-In the PHB, Dragonborn have a myriad of ancestry options. In Crown & Misery, this has been restricted to a few, but now Dragonborn can choose the area of effect for their breath weapon (cone or line) at will, instead of having these options restricted to specific ancestries.
-
-### Sunlight Sensitivity
-
-Sunlight Sensitivity has been removed. The night is lethal in Antares, and it would be an inconvenience in most situations. However, feel free to roleplay your Drow character wearing sunglasses and using sunscreen at all times.
+A defining difference lies in their connection to the Weave. Ancients possess an inherent link to the Weave, enabling them to wield spellcraft to varying degrees. Londoners, however, lack this connection entirely, relying instead on technology and machines to achieve basic activity that would otherwise require magic.

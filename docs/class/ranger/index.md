@@ -88,7 +88,7 @@ You specialise in hunting those not native to Antares. You gain proficiency in A
 You have a background in battling spellcasters. You gain proficiency in Arcana, and the *True Strike* cantrip is always prepared for you.
 
 ***Ranger Knight***  
-You have sworn to serve a crown or nation and aim to bring its foes to ruin. You gain proficiency in History and armour training with Heavy armour.
+You have sworn to serve a crown or nation and aim to bring its foes to ruin. You gain proficiency in History and armour training with Heavy armour, and your primary ability of this class becomes Strength and Wisdom instead of Dexterity and Wisdom.
 
 ***Sanctified Hunter***  
 You have sworn to hunt the enemies of a holy or druidic order. You gain proficiency in Religion, and the *Sacred Flame* cantrip is always prepared for you.

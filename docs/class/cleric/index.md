@@ -5,7 +5,7 @@ title: Cleric
 
 :class-cleric:{ .xxxxl }
 
-# The Cleric
+# Cleric
 
 ##### Core Cleric Traits
 

@@ -54,14 +54,14 @@ $h4Size: $defaultFontSize * 1.125;
     h1 {
         font-size: $h1Size;
         letter-spacing: $h1Size * 0.02;
-        font-weight: $defaultFontWeight * 1.25;
-        margin-top: convert.px2rem(6px);
-        margin-bottom: convert.px2rem(6px);
+        font-weight: $defaultFontWeight * 1.65;
+        margin-top: convert.px2rem(9px);
+        margin-bottom: convert.px2rem(9px);
     }
 
     h2 {
         font-size: $h2Size;
-        font-weight: $defaultFontWeight * 1.25;
+        font-weight: $defaultFontWeight * 1.5;
         letter-spacing: $h2Size * 0.03;
         border-bottom: convert.px2rem(2.5px) solid rgba(255, 255, 255, 0.25);
         margin: convert.px2rem(18px) 0 convert.px2rem(4px) 0;
@@ -70,7 +70,7 @@ $h4Size: $defaultFontSize * 1.125;
 
     h3 {
         font-size: $h3Size;
-        font-weight: $defaultFontWeight * 1.25;
+        font-weight: $defaultFontWeight * 1.4;
         letter-spacing: $h3Size * 0.04;
         margin: convert.px2rem(12px) 0 convert.px2rem(4px) 0;
         display: flex;

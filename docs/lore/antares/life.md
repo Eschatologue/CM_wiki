@@ -7,13 +7,13 @@ search:
 
 ## Biology
 
-Antares is primarily inhabited by various humanoid races known as *Ordinaire*, which include Elves, Dwarves, Halflings, Gnomes, and, most commonly, Humans. However, London humans are considered distinct by Gallian scholars, referred to as *Abhumans*. 
+Antares is primarily inhabited by various humanoid races known as *Ancient*, which include Elves, Dwarves, Halflings, Gnomes, and, most commonly, Humans. However, London humans are considered distinct by Gallian scholars, referred to as *Abhumans*. 
 
-Beyond these races, god-like beings or dragons called Aeginae once roamed the continent before mysteriously vanishing thousands of years ago. While most *Ordinaire* and *Abhumans* live within the protective Citadel Cities, the wilderness is stalked by Aberrations that prey upon them.
+Beyond these races, god-like beings or dragons called Aeginae once roamed the continent before mysteriously vanishing thousands of years ago. While most *Ancient* and *Abhumans* live within the protective Citadel Cities, the wilderness is stalked by Aberrations that prey upon them.
 
 ## Civilisation
 
-Ancient civilisations predating the *Ordinaire* have largely faded into obscurity. Discoveries hint at a lost society called the *Precursors*, believed to have come from a place known as '**Eridu**'. However, the First Rapture erased much of their knowledge, pushing nearly all life to the edge of extinction.
+Ancient civilisations predating the *Ancient* have largely faded into obscurity. Discoveries hint at a lost society called the *Precursors*, believed to have come from a place known as '**Eridu**'. However, the First Rapture erased much of their knowledge, pushing nearly all life to the edge of extinction.
 
 ### Politics
 
