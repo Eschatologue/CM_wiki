@@ -177,16 +177,19 @@ nav:
         - PHB'24: option/feat/feat-fighting-style/phb24.md
         - Homebrew: option/feat/feat-fighting-style/hb.md
     - Class Options:
-      - Infusion: option/class-options/artificer-infusion.md
+      - Infusion: 
+        - option/class-options/artificer-infusion/index.md
+        - TCE: option/class-options/artificer-infusion/tce.md
+        - Homebrew: option/class-options/artificer-infusion/hb.md
       - Metamagic: 
-          - option/class-options/sorcerer-metamagic/index.md
-          - PHB'24: option/class-options/sorcerer-metamagic/phb24.md
-          - Homebrew: option/class-options/sorcerer-metamagic/hb.md
+        - option/class-options/sorcerer-metamagic/index.md
+        - PHB'24: option/class-options/sorcerer-metamagic/phb24.md
+        - Homebrew: option/class-options/sorcerer-metamagic/hb.md
       - Eldritch Invocations: 
-          - option/class-options/warlock-invocations/index.md
-          - PHB'24: option/class-options/warlock-invocations/phb24.md
-          - Supp.: option/class-options/warlock-invocations/supplemental.md
-          - Homebrew: option/class-options/warlock-invocations/hb.md
+        - option/class-options/warlock-invocations/index.md
+        - PHB'24: option/class-options/warlock-invocations/phb24.md
+        - Supp.: option/class-options/warlock-invocations/supplemental.md
+        - Homebrew: option/class-options/warlock-invocations/hb.md
       - Combat Manoeuvre: option/class-options/fighter-manoeuvre.md
       - Wu Jen Spells: option/class-options/wu-jen-spells.md
   - Equipment: 

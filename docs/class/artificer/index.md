@@ -164,7 +164,7 @@ You can infuse more than one nonmagical object at the end of a Long Rest; the ma
 
 If an Infusion ends on an item that contains other things, like a Bag of Holding, its contents harmlessly appear in and around its space.
 
-[Artificer Infusions]: ../../option/class-options/artificer-infusion.md
+[Artificer Infusions]: ../../option/class-options/artificer-infusion/index.md
 
 ### Level 3: Artificer Subclass
 

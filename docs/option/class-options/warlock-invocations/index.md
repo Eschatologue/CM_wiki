@@ -1,5 +1,8 @@
 ---
+title: Eldritch Invocations
 icon: class/warlock
+hide: 
+    - toc
 ---
 
 # Eldritch Invocations
