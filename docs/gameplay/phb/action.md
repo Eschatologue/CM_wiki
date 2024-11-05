@@ -4,7 +4,7 @@ icon: rsc/action
 
 # Action
 
-When you do something other than moving or communicating, you typically take an :rsc-action: **Action**. The Action table lists the game's main actions, which are defined more detail here.
+When you do something other than moving or communicating, you typically take an :rsc-a: **Action**. The Action table lists the game's main actions, which are defined more detail here.
 
 ##### Actions
 
@@ -53,7 +53,7 @@ Below is the list of all actions you could take
 
 ### Attack
 
-**Cost:** :rsc-action: Action
+**Cost:** :rsc-a: Action
 
 The most common action to take in combat is the **Attack** action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists. With this action, you make one melee or ranged attack. This action often requires you to make an attack roll against the target's AC.
 
@@ -63,7 +63,7 @@ Certain features, such as the Extra Attack feature of the Fighter, allow you to 
 
 ### Cast a Spell
 
-**Cost:** :rsc-action: Action, :rsc-b: Bonus Action, or :rsc-r: Reaction
+**Cost:** :rsc-a: Action, :rsc-b: Bonus Action, or :rsc-r: Reaction
 
 Spellcasters such as Wizards and Clerics, as well as many monsters, have access to spells and can use them to great effect in combat. 
 
@@ -75,7 +75,7 @@ Casting a spell is, therefore, not necessarily an action. Most spells do have a 
 
 ### Dash
 
-**Cost:** :rsc-action: Action
+**Cost:** :rsc-a: Action
 
 When you take the **Dash** action, you gain extra movement for the current turn. The increase equals your speed, after applying any modifiers. With a speed of 30 feet, for example, you can move up to 60 feet on your turn if you dash.
 
@@ -85,7 +85,7 @@ Any increase or decrease to your speed changes this additional movement by the s
 
 ### Disengage
 
-**Cost:** :rsc-action: Action
+**Cost:** :rsc-a: Action
 
 If you take the **Disengage** action, your movement doesn't provoke Opportunity Attacks for the rest of the turn.
 
@@ -93,7 +93,7 @@ If you take the **Disengage** action, your movement doesn't provoke Opportunity 
 
 ### Dodge
 
-**Cost:** :rsc-action: Action
+**Cost:** :rsc-a: Action
 
 When you take the **Dodge** action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity :d20-save: **Saving Throw**s with advantage. You lose this benefit if you are incapacitated (as explained in the appendix) or if your speed drops to 0.
 
@@ -109,7 +109,7 @@ If a spell must be maintained with concentration, that fact appears in its Durat
 
 ### Help
 
-**Cost:** :rsc-action: Action
+**Cost:** :rsc-a: Action
 
 When you take the **Help** action, you do one of the following:
 
@@ -121,7 +121,7 @@ When you take the **Help** action, you do one of the following:
 
 ### Hide 
 
-**Cost:** :rsc-action: Action
+**Cost:** :rsc-a: Action
 
 With the Hide action, you try to conceal yourself. To do so stealthily, you must succeed on a DC 15 Dexterity (Stealth) check while you're Heavily Obscured or behind Three-Quarters Cover or Total Cover, and you must be out of any visible enemy's line of sight; if you can see a creature, you can discern whether it can see you.
 
@@ -137,7 +137,7 @@ The condition ends on you immediately after any of the following occurrences:
 
 ### Identify a Spell
 
-**Cost:** :rsc-action: Action or :rsc-r: Reaction
+**Cost:** :rsc-a: Action or :rsc-r: Reaction
 
 A character can use their reaction to identify a spell as it's being cast, or they can use an action on their turn to identify a spell by its effect after it is cast.
 
@@ -149,9 +149,9 @@ This Intelligence (Arcana) check represents the fact that identifying a spell re
 
 ### Magic
 
-**Cost:** :rsc-action: Action
+**Cost:** :rsc-a: Action
 
-When you take the Magic action, you magic something by casting a spell that has a casting time of an :rsc-action: Action or by using a feature or Magic Item that requires a Magic action to be activated.
+When you take the Magic action, you magic something by casting a spell that has a casting time of an :rsc-a: Action or by using a feature or Magic Item that requires a Magic action to be activated.
 
 If you cast a spell that has a casting time of 1 minute or longer, you must take the Magic action on each turn of that casting, and you must maintain Concentration while you do so. If your Concentration is broken, the spell fails, but you don't expend a spell slot.
 
@@ -171,7 +171,7 @@ Opportunity Attack is also often referred to as 'Attack of Opportunity', they ar
 
 ### Ready
 
-**Cost:** :rsc-action: Action
+**Cost:** :rsc-a: Action
 
 You take the **Ready** action to wait for a particular circumstance before you act. To do so, you take this action on your turn, which lets you act by taking a :rsc-r: **Reaction** before the start of your next turn.
 
@@ -185,7 +185,7 @@ When the trigger occurs, you can either take your Reaction right after the trigg
 
 ### Search 
 
-**Cost:** :rsc-action: Action
+**Cost:** :rsc-a: Action
 
 When you take the Search action, you make a Wisdom check to discern something that isn't obvious. The Search table suggests which skills are applicable when you take this action, depending on what you're trying to detect.
 
@@ -202,7 +202,7 @@ When you take the Search action, you make a Wisdom check to discern something th
 
 ### Study
 
-**Cost:** :rsc-action: Action
+**Cost:** :rsc-a: Action
 
 When you take the Study action, you make an Intelligence check to study your memory, a book, a creature, a clue, an object, or another source of
 knowledge and call to mind an important piece of information about it.
@@ -223,7 +223,7 @@ The Areas of Knowledge table suggests which skills are applicable when you take 
 
 ### Unarmed Strike
 
-**Cost:** :rsc-action: Action
+**Cost:** :rsc-a: Action
 
 Instead of using a weapon to make a melee attack, you can use a punch, kick, head-butt, or similar forceful blow. In game terms, this is an Unarmed Strike—a melee attack that involves you using your body to damage, grapple, or shove a target within 5 feet of you.
 
@@ -250,7 +250,7 @@ Whenever you use your Unarmed Strike, choose one of the following options for it
 
 ### Utilise
 
-**Cost:** :rsc-action: Action
+**Cost:** :rsc-a: Action
 
 You normally interact with an object while doing something else, such as when you draw a sword as part of the Attack action. When an object requires an action for its use, you take the Utilize action.
 

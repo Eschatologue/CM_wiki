@@ -28,7 +28,7 @@ Once per turn when you make an attack that adds your Sneak Attack damage, you ca
 
 To be channeled this way, the spell must met the following requirements:
 
-- The Arts & Swash spell must have a casting time of an :rsc-action: **Action**.
+- The Arts & Swash spell must have a casting time of an :rsc-a: **Action**.
 - The Arts & Swash spell must require only a single spell *attack roll* or force its target to make a *saving throw*.
 
 On a hit, the spell takes effect immediately in addition of the normal effects and damage from your weapon attack, under the rules below:

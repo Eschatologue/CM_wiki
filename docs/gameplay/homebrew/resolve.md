@@ -190,9 +190,9 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
     
     | :die-d10:**d10** | **BEHAVIOUR** |
     | :-: | --- |
-    | 1 | You uses all your movement to move in a random direction. To determine the direction, roll a d8 and assign a direction to each die face. You cant take an :rsc-action: **Action** this turn. |
+    | 1 | You uses all your movement to move in a random direction. To determine the direction, roll a d8 and assign a direction to each die face. You cant take an :rsc-a: **Action** this turn. |
     | 2-6 | You don't move or take actions this turn. |
-    | 7-8 | You uses your :rsc-action: **Action** to make a melee attack against a randomly determined creature within its reach. If there is no creature within its reach, you does nothing this turn. |
+    | 7-8 | You uses your :rsc-a: **Action** to make a melee attack against a randomly determined creature within its reach. If there is no creature within its reach, you does nothing this turn. |
     | 9-10 | You can act and move normally. |
 
 ### Massochistic

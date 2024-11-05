@@ -1,8 +1,8 @@
 ---
-icon: class/artificer
+status: homebrew
 ---
 
-## Homebrew Infusions
+# Homebrew Infusions
 
 Below are homebrew Artificer Infusion
 
@@ -12,7 +12,7 @@ Below are homebrew Artificer Infusion
 
 *Prerequisite: A set of artisan's tools (requires attunement)*
 
-The wielder is considered proficient with this magical set of tools, and as an action, they can transform this set of tools into another set of *artisan's tools* of their choice.
+The wielder is considered proficient with this magical set of tools, and as an :rsc-a: **Action**, they can transform this set of tools into another set of *Artisan's Tools* of their choice.
 
 ---
 

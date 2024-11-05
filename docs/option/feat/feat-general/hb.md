@@ -58,7 +58,7 @@ You've developed the ability to instantly recall an unprepared spell in moments 
 You increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
     
 **Compartmentalize**  
-As an :rsc-action: **Action**, you can instantly learn a spell from your available class spell list (or spellbook, if your class prepare spells from one) that you did not know or have prepared. This spell choice must be of a level for which you have :rsc-spell-slot: **Spell Slots**. You then lose the knowledge or preparation of a different spell of your choice of equal or higher spell level. 
+As an :rsc-a: **Action**, you can instantly learn a spell from your available class spell list (or spellbook, if your class prepare spells from one) that you did not know or have prepared. This spell choice must be of a level for which you have :rsc-spell-slot: **Spell Slots**. You then lose the knowledge or preparation of a different spell of your choice of equal or higher spell level. 
     
 Once you use this ability, you must finish a Short Rest or Long Rest before you can use it again.
 

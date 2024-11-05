@@ -46,24 +46,24 @@ If a combatant is suprised by combat starting, that combatant has :d20-disadv: :
 During your turn, you can do the following on any order:
 
 - Move up to your :rsc-speed: **Speed**
-- Take one :rsc-action: **Action**
+- Take one :rsc-a: **Action**
 - Take one :rsc-b: **Bonus Action** (If you have a feature that uses it)
 
 #### Communicating
 
-You can communicate however you are able–through bried uttarances and gestures–as you take your turn. Doing so uses neither your :rsc-action: **Action** nor your move.
+You can communicate however you are able–through bried uttarances and gestures–as you take your turn. Doing so uses neither your :rsc-a: **Action** nor your move.
 
-Extended communications, such as detailes explanation of something or an attempt to persuade a foe, requies an action. The :rsc-action: **Influence** action is the main way you try to influence a monster.
+Extended communications, such as detailes explanation of something or an attempt to persuade a foe, requies an action. The :rsc-a: **Influence** action is the main way you try to influence a monster.
 
 #### Interacting with Things
 
 You can interact with one object or feature of the environment for free during either your move as you stride toward a foe.
 
-If you want to interact with a second object, you need to take the :rsc-action: **Utilise** action. Some magic items and other special object always requires an action to use, as stted in their descriptions.
+If you want to interact with a second object, you need to take the :rsc-a: **Utilise** action. Some magic items and other special object always requires an action to use, as stted in their descriptions.
 
 #### Doing Nothing
 
-You can forgo moving, taking an action, or doing anything at all on your turn. If you can't decide what to do, consider taking the defensive :rsc-action: **Dodge** action or the :rsc-action: **Ready** action to delay acting.
+You can forgo moving, taking an action, or doing anything at all on your turn. If you can't decide what to do, consider taking the defensive :rsc-a: **Dodge** action or the :rsc-a: **Ready** action to delay acting.
 
 ### Ending Combat
 

@@ -34,7 +34,7 @@ You gain the ability to channel the lethal repercussion of speaking Celestial to
 
 #### Maledict Die Powers
 
-***Cauterising Flame.*** As a :rsc-action: Magic action, you can expend a number of ^^Maledict Die^^ up to your Rage Damage bonus, rolling them and regain a number of Hit Points equal to the roll's total. This power can't be used if you have no ^^Maledict Die^^ remaining. If your **Rage** is active, add your Rage Damage bonus to the result.
+***Cauterising Flame.*** As a :rsc-a: Magic action, you can expend a number of ^^Maledict Die^^ up to your Rage Damage bonus, rolling them and regain a number of Hit Points equal to the roll's total. This power can't be used if you have no ^^Maledict Die^^ remaining. If your **Rage** is active, add your Rage Damage bonus to the result.
 
 ***Flames of Creation.*** When you take the Attack action on your turn, you can expend a number of ^^Maledict Die^^ up to your Rage Damage bonus, rolling them and replace one of your attacks to stomp the ground and cause a 15-foot Cone fiery explosion originating from you. Each creature in the area must make a Dexterity saving throw, taking :dmg-fire: Fire damage equal to the roll result on a failed save or half as much damage on a successful one. This benefits from your Rage damage bonus if your **Rage** is active.
 

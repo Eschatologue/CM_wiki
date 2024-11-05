@@ -1,8 +1,4 @@
----
-icon: class/artificer
----
-
-## TCE Infusions
+# TCE Infusions
 
 Below are Artificer's Infusion available from Tasha's Cauldron of Everything.
 
