@@ -477,7 +477,8 @@
 }
 .md-typeset h3 {
   font-family: "Jost", sans-serif;
-  font-variant: small-caps;
+  text-transform: none !important;
+  font-variant: small-caps !important;
 }
 .md-typeset h1 {
   font-size: 1.575rem;
