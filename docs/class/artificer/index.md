@@ -42,7 +42,7 @@ As a Artificer, you gain the following class features when you reach the specifi
 
 ##### Artificer Feature Table
 
-| Level | Proficiency Bonus | Features | Infusions Known (Infused Items) | Cantrips Known | Spells Prepared | I | II | III | IV | V |
+| Level | PB | Features | Infusions Known (Infused Items) | Cantrips Known | Spells Prepared | I | II | III | IV | V |
 |:-:|:-:|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 1 | +2 | Arcane Recovery, Arcane Tinkerer, Spellcasting | - | 2 | 2 | 2 | - | - | - | - |
 | 2 | +2 | Infuse Item | 4 (2) | 2 | 3 | 2 | - | - | - | - |

@@ -49,7 +49,7 @@ As a Ranger, you gain the following class features when you reach the specified 
 
 | Level | PB | Class Features | Favoured Enemy | Prepared Spells | I | II | III | IV | V |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | +2 | Ranger's Archetype, Spellcasting, Favoured Enemy, Weapon Mastery | 2 | 2 | 2 | — | — | — | — |
+| 1 | +2 | Ranger's Prey, Spellcasting, Favoured Enemy, Weapon Mastery | 2 | 2 | 2 | — | — | — | — |
 | 2 | +2 | Deft Explorer, Fighting Style | 2 | 3 | 2 | — | — | — | — |
 | 3 | +2 | Ranger Subclass | 2 | 4 | 3 | — | — | — | — |
 | 4 | +2 | Ability Score Improvement | 2 | 5 | 3 | — | — | — | — |
@@ -74,7 +74,7 @@ As a Ranger, you gain the following class features when you reach the specified 
 
     This version of Ranger is a modified version of the 2024 PHB. Some changes are made to buff ranger's to be more appealing as a class.
 
-### Level 1: Ranger’s Archetype
+### Level 1: Ranger’s Prey
 
 All rangers are unique, each shaped by their own distinct history. Choose one of the following benefits. If a benefit grants a spell, it is considered a Ranger spell for you, and Wisdom is your spellcasting ability. If a benefit grants proficiency in a skill you already have, choose a different proficiency available to the [Core Ranger Trait](#core-ranger-trait) table:
 
@@ -88,7 +88,7 @@ You specialise in hunting those not native to Antares. You gain proficiency in A
 You have a background in battling spellcasters. You gain proficiency in Arcana, and the *True Strike* cantrip is always prepared for you.
 
 ***Ranger Knight***  
-You have sworn to serve a crown or nation and aim to bring its foes to ruin. You gain proficiency in History and armour training with Heavy armour, and your primary ability of this class becomes Strength and Wisdom instead of Dexterity and Wisdom.
+You have sworn to serve a crown or nation and aim to bring its foes to ruin. You gain proficiency in History and armour training with Heavy armour, and you can change your primary ability of this class becomes Strength and Wisdom instead of Dexterity and Wisdom.
 
 ***Sanctified Hunter***  
 You have sworn to hunt the enemies of a holy or druidic order. You gain proficiency in Religion, and the *Sacred Flame* cantrip is always prepared for you.

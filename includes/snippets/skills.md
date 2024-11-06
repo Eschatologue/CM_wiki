@@ -1,6 +1,6 @@
-*[Athletics]: Str. - Covers challenges in climbing, jumping, or swimming.
-
-*[Acrobatics]: Dex. - Maintain balance in tricky situations, like icy surfaces or on a rocking ship.
+*[Athletics]: Str. - Jump farther than normal, stay afloat in rough water, or break something.
+  
+*[Acrobatics]: Dex. - Stay on your feet in a tricky situation, or perform an acrobatic stunt.
 
 *[Sleight of Hand]: Dex. - Perform tricks, such as concealing objects or planting items on others.
 
