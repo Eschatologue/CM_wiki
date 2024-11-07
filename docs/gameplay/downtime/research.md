@@ -20,9 +20,9 @@ The character declares the focus of the research—a specific person, place, or 
 
 | Check Total | Outcome |
 |:-:|---|
-| 1–5 | No effect. |
-| 6–10 | You learn one piece of lore. |
-| 11–20 | You learn two pieces of lore. |
+| 1-5 | No effect. |
+| 6-10 | You learn one piece of lore. |
+| 11-20 | You learn two pieces of lore. |
 | 21+ | You learn three pieces of lore. |
 
 Each piece of lore is the equivalent of one true statement about a person, place, or thing. Examples include knowledge of a creature's resistances, the password needed to enter a sealed dungeon level, the spells commonly prepared by an order of wizards, and so on.

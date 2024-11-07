@@ -21,7 +21,7 @@ Your special martial arts training leads you to master the use of certain weapon
 
 ***Wuxia Weapons.*** Choose one melee weapon and one ranged weapon which can be Simple or Martial weapon that lacks the :weapon-prop-heavy: **Heavy** or :weapon-prop-special: **Special** properties. The Longbow is also a valid choice.  
 
-You have proficiency with these weapons if you don't already have it and you can use its **Mastery** property. These weapons are monk weapons for you. When you finish a Long Rest, you can change each of your Wuxia weapons for a different weapon of your choice, following the criteria above. You can choose one more weapon – either melee or ranged – to be a Wuxia weapon for you, following the criteria above, at levels 6, 11 and 17.
+You have proficiency with these weapons if you don't already have it and you can use its **Mastery** property. These weapons are monk weapons for you. When you finish a Long Rest, you can change each of your Wuxia weapons for a different weapon of your choice, following the criteria above. You can choose one more weapon - either melee or ranged - to be a Wuxia weapon for you, following the criteria above, at levels 6, 11 and 17.
 
 You also gain the following benefits:
 

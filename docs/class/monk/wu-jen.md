@@ -21,7 +21,7 @@ You learn one additional Wu Jen cantrip when you reach Monk level 10 and 17.
 
 #### Spell Slots
 
-The Wu Jen Features table shows how many spell slots you have to cast your Wu Jen spells of levels 1–4. The table also shows the level of those slots, all of which are the same level. You regain all expended Wu Jen spell slots when you finish a Short or Long Rest.
+The Wu Jen Features table shows how many spell slots you have to cast your Wu Jen spells of levels 1-4. The table also shows the level of those slots, all of which are the same level. You regain all expended Wu Jen spell slots when you finish a Short or Long Rest.
 
 #### Ki Casting
 
@@ -58,7 +58,7 @@ You can draw upon your Ki to augment and regain your elemental powers.
 
 You prepare a list of spells of level 1 and higher that are available for you to cast with this feature. To start, choose two level 1 spell from the [Wu Jen spell list](../../option/class-options/wu-jen-spells.md).
 
-The number of spells on your list increases as you gain Monk levels, as shown in the Prepared Spells column of the Wu Jen Spellcasting table. Whenever that number increases, choose additional Wu Jen spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level no higher than what’s shown in the table’s Slot Level column for your level. When you reach level 7, for example, you learn a new Wu Jen spell, which can be of levels 1–2.
+The number of spells on your list increases as you gain Monk levels, as shown in the Prepared Spells column of the Wu Jen Spellcasting table. Whenever that number increases, choose additional Wu Jen spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level no higher than what’s shown in the table’s Slot Level column for your level. When you reach level 7, for example, you learn a new Wu Jen spell, which can be of levels 1-2.
 
 #### Changing your Prepared Spells
 

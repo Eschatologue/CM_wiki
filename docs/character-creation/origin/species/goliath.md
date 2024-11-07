@@ -1,22 +1,22 @@
 # Goliath
 
-Towering over most folk, goliaths are distant decendants of giants. Each goliath bears the favour sof the first giants–favours that manigest in various supernatural boons, including the ability to quickly grow and temporarily approach the height of goliaths' gigantic kin.
+Towering over most folk, goliaths are distant decendants of giants. Each goliath bears the favour of the first giants-favours that manigest in various supernatural boons, including the ability to quickly grow and temporarily approach the height of goliaths' gigantic kin.
 
-Goliaths have physical charateristic that are reminiscent of the giants in their family lines, For example, some goliaths look like stone giants, while others resemble fire giants. Whatever giants they count as kin, goliath have forged their own path in the multiverse–unencumbered by the intercenine conflicys that have ravaged giantkind for ages–and seek heights above those reached by their ancestors.
+Goliaths have physical charateristic that are reminiscent of the giants in their family lines, For example, some goliaths look like stone giants, while others resemble fire giants. Whatever giants they count as kin, goliath have forged their own path in the multiverse-unencumbered by the intercenine conflicys that have ravaged giantkind for ages-and seek heights above those reached by their ancestors.
 
 ## Goliath Traits
 
 *PHB'24 Species*
 
-| :material-human: Creature Type | :trait-size: Size | :rsc-speed: Speed |
-|:-:|:-:|:-:|
-| Humanoid | Medium (about 7-8 feet tall) | Fast (35 feet) |
+:material-human: **Creature Type:** Humanoid  
+:trait-size: **Size:** Medium (about 7-8 feet tall)  
+:rsc-speed: **Speed:** Fast (35 feet)
 
 As a Goliath, you have these following traits. 
 
 ### Giant Ancestry
 
-You are descended from Giants. Choose one of the following benefits–a supernatural boon from your ancestry; you can use the chosen benefit a number of times equal your Proficiency Bonus, and you regain all expended use when you finish a Long Rest:
+You are descended from Giants. Choose one of the following benefits-a supernatural boon from your ancestry; you can use the chosen benefit a number of times equal your Proficiency Bonus, and you regain all expended use when you finish a Long Rest:
 
 ***Cloud's Jaust (Cloud Giant)***  
 As a Bonus Action, you magically teleport up to 30 feet to an unoccupied space you can see.

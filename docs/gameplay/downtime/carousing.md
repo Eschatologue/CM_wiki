@@ -28,9 +28,9 @@ After a workweek of carousing, a character stands to make contacts within the se
 
 | Check Total | Result | Affiliation Points |
 |:-:|---|---|
-| 1–5 | Character has made a hostile contact. | +1 to any |
-| 6–10 | Character has made no new contacts.| - |
-| 11–15 | Character has made an allied contact.| +2 to any |
-| 16–20	| Character has made two allied contacts.| +2 to any or +1 to two unique |
+| 1-5 | Character has made a hostile contact. | +1 to any |
+| 6-10 | Character has made no new contacts.| - |
+| 11-15 | Character has made an allied contact.| +2 to any |
+| 16-20	| Character has made two allied contacts.| +2 to any or +1 to two unique |
 | 21+ | Character has made three allied contacts.| +3 to any, +1 to three unique, or +2 and +1 to any unique |
 

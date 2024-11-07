@@ -5,7 +5,7 @@ icon: material/dots-hexagon
 
 # The Six Abilities
 
-All creatures–characters and monsters–have six abilities that measure physical and mental charateristics, as shown on the Ability Description table.
+All creatures-characters and monsters-have six abilities that measure physical and mental charateristics, as shown on the Ability Description table.
 
 ##### Ability Descriptions
 

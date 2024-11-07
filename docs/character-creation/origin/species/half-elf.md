@@ -6,13 +6,22 @@ status: adapted
 
 Half-Elves walk a delicate line, inheriting the blessings of both their human and elven lineage while grappling with a sense of not truly belonging. They blend the inquisitiveness, ingenuity, and drive of humans with the heightened senses, appreciation for nature, and artistic inclinations of elves.
 
+***Drow Heritage***  
+When the majority of humans moved to the depths of the Underdark for protection, cultures from myriad of nations and races began to intermingle. Thankfully, the severe trust issues of the Drow did not pass down to these Half-elves
+
+***High-Elf Heritage***  
+A faint echo of the Ancient Forest's grace lingers in half-elves with this bloodline, though the burdensome sins tied to that heritage do not. Despite this, proclaiming one's High Elf parentage is still ill-advised
+
+***Wood-Elf Heritage***  
+Inheriting the nimble grace and stealthy nature of their wood elf parents, these half-elves move with a quickened stride and possess an acute awareness of their surroundings, making them adept at navigating both natural and urban environments unseen.
+
 ## Half Elf Traits
 
 *PHB'14 Species*
 
-| :material-human: Creature Type | :trait-size: Size | :rsc-speed: Speed |
-|:-:|:-:|:-:|
-| Humanoid | Medium or Small | Standard (30 feet) |
+:material-human: **Creature Type:** Humanoid  
+:trait-size: **Size:** Medium (about 4-7 feet tall)  
+:rsc-speed: **Speed:** Standard (30 feet)
 
 As a Half-Elf, you have these special traits.
 
@@ -43,17 +52,3 @@ Your :rsc-speed: Speed increases to 35 feet. You also know the *Druidcraft* cant
 
 ***Skill Versatility (General)***  
 You gain proficiency in two skills of your choice.
-
-## Half-Elf Lore
-
-#### Drow Heritage
-
-When the majority of humans moved to the depths of the Underdark for protection, cultures from myriad of nations and races began to intermingle. Thankfully, the severe trust issues of the Drow did not pass down to these Half-elves
-
-#### High-Elf Heritage
-
-A faint echo of the Ancient Forest's grace lingers in half-elves with this bloodline, though the burdensome sins tied to that heritage do not. Despite this, proclaiming one's High Elf parentage is still ill-advised
-
-#### Wood-Elf Heritage
-
-Inheriting the nimble grace and stealthy nature of their wood elf parents, these half-elves move with a quickened stride and possess an acute awareness of their surroundings, making them adept at navigating both natural and urban environments unseen.

@@ -16,7 +16,7 @@ The number of dice to be rolled is notated immediately before the `d`. Any appli
 
 ### Percentile Dice
 
-The rules sometimes refer to a d100. While such dice exist, the common way to roll a 1d100 is to use a pair of ten-sided dice numbered from 1 to 9, known as a **Percentile Dice**. One die–that you designate before rolling–gives the tens digit, and the other gives the ones digit. If you roll a 7 for the tens digit and a 1 for the ones digit, for example, the number rolled is 71. Two 0s represent 100.
+The rules sometimes refer to a d100. While such dice exist, the common way to roll a 1d100 is to use a pair of ten-sided dice numbered from 1 to 9, known as a **Percentile Dice**. One die-that you designate before rolling-gives the tens digit, and the other gives the ones digit. If you roll a 7 for the tens digit and a 1 for the ones digit, for example, the number rolled is 71. Two 0s represent 100.
 
 Some then-sided dice are numbered in tens (00, 10, 20, and so on), making it easier to distinguish the tens digit from the ones digit. In this case, a roll of 70 and 1 is 71, and 00 and 0 is 100
 
@@ -40,7 +40,7 @@ Here are the most common uses of dice in D&D.
 
 In D&D, the twenty-sided die (:die-d20: d20) is central to the game's mechanics, determining the success or failure of a wide range of actions. Whenever a creature attempts an action with a chance of failure, it rolls a d20 and adds any applicable modifiers. The result is compared to a target number to see if the attempt succeeds.
 
-The term d20 Test encompasses the three main d20 rolls of the game: attack rolls – which are rolled against the target's **Armour Class** (**AC**), :d20-check:**Ability Check** – which are rolled against the check's Difficulty Class (DC), and :d20-save:**Saving Throws** – which are rolled against a save DC.
+The term d20 Test encompasses the three main d20 rolls of the game: attack rolls - which are rolled against the target's **Armour Class** (**AC**), :d20-check:**Ability Check** - which are rolled against the check's Difficulty Class (DC), and :d20-save:**Saving Throws** - which are rolled against a save DC.
 
 ### Damage
 

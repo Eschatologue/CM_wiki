@@ -32,8 +32,8 @@ A character who wants to sell an item must make a Charisma (Persuasion) check to
 
 | Check Total | Offer |
 |:---:|:---|
-| 1–10 | 50% of base price |
-| 11–20 | 100% of base price |
+| 1-10 | 50% of base price |
+| 11-20 | 100% of base price |
 | 21+ | 150% of base price |
 
 ## Complications

@@ -21,8 +21,8 @@ To determine how much money a character earns, the character makes an ability ch
 | Check Total | Earnings | Earnings in SP* |
 |:-:|---|--:|
 | 9 or lower | Poor lifestyle for the week | 15 SP |
-| 10–14 | Modest lifestyle for the week | 150 SP |
-| 15–20 | Comfortable lifestyle for the week | 300 SP|
+| 10-14 | Modest lifestyle for the week | 150 SP |
+| 15-20 | Comfortable lifestyle for the week | 300 SP|
 | 21+ | Comfortable lifestyle for the week + 250 SP | 550 SP |
 
 *Roundings for based on Lifestyle

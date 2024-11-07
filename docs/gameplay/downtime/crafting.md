@@ -32,10 +32,10 @@ The Magic Item Ingredients table suggests the challenge rating of a creature tha
 
 | Item Rarity | CR Range
 |---|:-:|
-| Common | 1–3 |
-| Uncommon | 4–8 | 
-| Rare | 9–12 | 
-| Very rare | 13–18 | 
+| Common | 1-3 |
+| Uncommon | 4-8 | 
+| Rare | 9-12 | 
+| Very rare | 13-18 | 
 | Legendary | 19+ | 
 
 If appropriate, pick a monster or a location that is a thematic fit for the item to be crafted. 

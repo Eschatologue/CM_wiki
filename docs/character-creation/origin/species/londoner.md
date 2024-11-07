@@ -16,9 +16,9 @@ The Londoners arrived from beyond Antares through the Northern Gate, bringing wi
 
 *Crown & Misery Species*
 
-| :material-human: Creature Type | :trait-size: Size | :rsc-speed: Speed |
-|:-:|:-:|:-:|
-| Humanoid | Medium or Small | Standard (30 feet) |
+:material-human: **Creature Type:** Humanoid  
+:trait-size: **Size:** Medium (about 4-7 feet tall) or Small (about 2-4 feet tall)  
+:rsc-speed: **Speed:** Standard (30 feet)
 
 As a Londoner, you have these following traits. Moreover, you are considered a **Human** for the purpose of features or effects that requires you to be Human.
 

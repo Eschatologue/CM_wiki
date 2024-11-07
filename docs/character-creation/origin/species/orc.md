@@ -6,11 +6,11 @@ Orcs are, on average, tall and broad. They have gray skin, ears that are sharply
 
 ## Orc Traits
 
-*PHB'24 Species – Crown & Misery Homebrew*
+*PHB'24 Species - Crown & Misery Homebrew*
 
-| :material-human: Creature Type | :trait-size: Size | :rsc-speed: Speed |
-|:-:|:-:|:-:|
-| Humanoid | Medium | Standard (30 feet) |
+:material-human: **Creature Type:** Humanoid  
+:trait-size: **Size:** Medium (about 6-7 feet tall)  
+:rsc-speed: **Speed:** Standard (30 feet)
 
 As an Orc, you have these following traits. 
 
@@ -30,7 +30,7 @@ You have Darkvision with a range of 120 feet.
 
     *Mystical Resilience* is tailored to Crown & Misery campaign. Ask the respective DM if you want to use in other campaign.
 
-Choose one of the following benefits–an ability from your lineage:
+Choose one of the following benefits-an ability from your lineage:
 
 ***Relentless Endurance (Continental Orc)***  
 When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead. Once you use this trait, you can't do so again until you finish a Long Rest.

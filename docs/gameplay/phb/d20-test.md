@@ -7,12 +7,12 @@ icon: die/d20
 When the outcome of an action is uncertain, the game uses a d20 roll to determine success or failure. These rolls are called **D20 Tests**, and they come in three kinds: 
 
 - :d20-attack: **Attack Rolls** --> rolled against the target's *AC*
-- :d20-check: **Ability Check** –-> rolled against the check's Difficulty Class (DC)
-- :d20-save: **Saving Throws** –-> rolled against a Save DC. 
+- :d20-check: **Ability Check** --> rolled against the check's Difficulty Class (DC)
+- :d20-save: **Saving Throws** --> rolled against a Save DC. 
 
 They follow these steps:
 
-1. **Roll a 1d20.** You always want to roll high. If the roll has :d20-adv: **Advantage** or :d20-disadv: **Disadvantage**, you roll two d20s, but you use the number from only one of them–the higher once if you have :d20-adv: **Advantage** or the lower one if you have :d20-disadv: **Disdvantage**.
+1. **Roll a 1d20.** You always want to roll high. If the roll has :d20-adv: **Advantage** or :d20-disadv: **Disadvantage**, you roll two d20s, but you use the number from only one of them-the higher once if you have :d20-adv: **Advantage** or the lower one if you have :d20-disadv: **Disdvantage**.
 
 2. **Add Modifiers.** Add these modifiers to the number rolled on the d20:
 
@@ -53,7 +53,7 @@ Add your Proficiency Bonys to an ability check when the DM determines that a ski
 
 ### Difficulty Class
 
-A Difficulty Class (or DC) is a number rolled against when making :d20-check: **Ability Checks** or :d20-save: **Saving Throws**. It represents how difficult a task is to accomplish. The number is determined by the the task attempted – or in the case of saves – the spell, condition, or action that has to be overcome.
+A Difficulty Class (or DC) is a number rolled against when making :d20-check: **Ability Checks** or :d20-save: **Saving Throws**. It represents how difficult a task is to accomplish. The number is determined by the the task attempted - or in the case of saves - the spell, condition, or action that has to be overcome.
 
 | Task Difficulty | DC |
 | --- | :-: |
@@ -101,7 +101,7 @@ The Difficulty Class for a Saving Throw is determined by the effect that causes 
 
 When a creature attacks a target, it makes an attack roll against the target's AC to determine whether the attack is a hit or a miss. If the attack is a hit, it generally deals damage, and the attacker rolls for damage.
 
-Creatures generally make their attacks with their equipped weapon (including unarmed), but some spells – such as a Warlock's *[Eldritch Blast](../../spells/description/core/cantrip.md#eldritch-blast)* – require the caster to make spell attack rolls.
+Creatures generally make their attacks with their equipped weapon (including unarmed), but some spells - such as a Warlock's *[Eldritch Blast](../../spells/description/core/cantrip.md#eldritch-blast)* - require the caster to make spell attack rolls.
 
 !!! quote ""
 

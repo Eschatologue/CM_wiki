@@ -17,7 +17,7 @@ During a round, each participant in a battle takes a turn, The order of turns is
 Combat unfolds in these steps:
 
 1. **Establish Position** 
-The DM determines where all the characters and monster are located. Given the adventurers marching order or their stated position in the room or other location, the DM figures out where adversaries are–how far away, and what dicrection.
+The DM determines where all the characters and monster are located. Given the adventurers marching order or their stated position in the room or other location, the DM figures out where adversaries are-how far away, and what dicrection.
 
 2. **Roll Initiative** 
 Everyone involved in the combat encounter rolls Initiativem determining the order of combatants' turns.
@@ -51,7 +51,7 @@ During your turn, you can do the following on any order:
 
 #### Communicating
 
-You can communicate however you are able–through bried uttarances and gestures–as you take your turn. Doing so uses neither your :rsc-a: **Action** nor your move.
+You can communicate however you are able-through bried uttarances and gestures-as you take your turn. Doing so uses neither your :rsc-a: **Action** nor your move.
 
 Extended communications, such as detailes explanation of something or an attempt to persuade a foe, requies an action. The :rsc-a: **Influence** action is the main way you try to influence a monster.
 
@@ -213,7 +213,7 @@ You can control a mount only if it has been trained to accept a rider. Domestica
 
 The Initiative of a controlled mount changes to match yours when you mount it. It moves on your turn as you direct it, and it has only three action options during that turn: Dash, Disengage, and Dodge. A controlled mount can move and act even on the turn that you mount it.
 
-In contrast, an independent mount–one that lets you ride but ignores your control—retains its place in the Initiative order and moves and acts as it likes.
+In contrast, an independent mount-one that lets you ride but ignores your control—retains its place in the Initiative order and moves and acts as it likes.
 
 ### Falling Off
 

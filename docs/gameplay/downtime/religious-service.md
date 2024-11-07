@@ -20,8 +20,8 @@ At the end of the required time, the character chooses to make either an Intelli
 
 | Check Total | Result |
 |:-:|---|
-| 1–10 | No effect. Your efforts fail to make a lasting impression. |
-| 11–20 | You earn one favour. |
+| 1-10 | No effect. Your efforts fail to make a lasting impression. |
+| 11-20 | You earn one favour. |
 | 21+ | You earn two favours. |
 
 A favour, in broad terms, is a promise of future assistance from a representative of the temple. It can be expended to ask the temple for help in dealing with a specific problem, for general political or social support, or to reduce the cost of cleric spellcasting by 50 percent. A favour could also take the form of a deity's intervention, such as an omen, a vision, or a minor miracle provided at a key moment. This latter sort of favour is expended by the DM, who also determines its nature.

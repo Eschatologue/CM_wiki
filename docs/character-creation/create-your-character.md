@@ -92,12 +92,12 @@ The Standard Languages table lists languages that are widespread on D&D worlds. 
     | — | Common | Sigil |
     | 1 | Common Sign Language | Sigil |
     | 2 | Draconic | Dragons |
-    | 3–4 | Dwarvish | Dwarves |
-    | 5–6 | Elvish | Elves |
+    | 3-4 | Dwarvish | Dwarves |
+    | 5-6 | Elvish | Elves |
     | 7 | Giant | Giants |
     | 8 | Gnomish | Gnomes |
     | 9 | Goblin | Goblinoids |
-    | 10–11 | Halfling | Halflings |
+    | 10-11 | Halfling | Halflings |
     | 12 | Orc | Orcs |
 
 === "CM"

@@ -32,7 +32,7 @@ Creatures add their Dexterity modifier to the results of attack and damage rolls
 
 ### Armour Class
 
-Creatures also add their Dexterity modifier to their Armour Class (AC) – making them more difficult to hit, up to a maximum of +2 when wearing most medium armour. The bonus is ignored when wearing heavy armour, unless otherwise specified.
+Creatures also add their Dexterity modifier to their Armour Class (AC) - making them more difficult to hit, up to a maximum of +2 when wearing most medium armour. The bonus is ignored when wearing heavy armour, unless otherwise specified.
 
 --8<-- "docs/glossary.md:initiative"
 
