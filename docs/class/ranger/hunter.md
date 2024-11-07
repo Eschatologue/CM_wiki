@@ -30,7 +30,7 @@ When you reach a Ranger level specified in the Hunter Spells Table, you thereaft
 |:---:|:---|
 | 3 | *Expeditious Retreat*, *Snare*  |
 | 5 | *Locate Animals or Plants*, *Pass without Trace* |
-| 9 | *Ballistic Shot*^CM^, *Nondetection*  |
+| 9 | *Ballistic Shot*^*CM*^, *Nondetection*  |
 | 13 | *Freedom of Movement*, *Mordenkainen's Faithful Hound* | 
 | 17 | *Swift Quiver*, *Tree Stride* |
 

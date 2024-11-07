@@ -7,7 +7,7 @@ A tiefling chooses whether to emprace or lament their fiendish legacy. The three
 ## Tiefling Traits
 
 :material-human: **Creature Type:** Humanoid  
-:trait-size: **Size:** Medium (about 4-7 feet tall) or Small (about 3-4 feet tall)  
+:trait-size: **Size:** Medium (about 4-7 feet tall) or Small (about -4 feet tall)  
 :rsc-speed: **Speed:** Standard (30 feet)
 
 As a Tiefling, you have the following special traits.
@@ -28,6 +28,8 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells yo
 
 | Legacy | Level 1 | Level 3 | Level 5 |
 |---|---|---|---|
-| Abyssal | You have Resistance to :dmg-poison: Poison Damage. You also know the *Poison Spray* Cantrip | *Ray of Sickness* | *Hold Person* |
-| Chthonic | You have Resistance to :dmg-necrotic: Necrotic Damage. You also know the *Chill Touch* Cantrip | *False Life* | *Ray of Enfeeblement* |
-| Infernal | You have Resistance to :dmg-fire: Fire Damage. You also know the *Fire Bolt* Cantrip | *Hellish Rebuke* | *Darkness* |
+| Abyssal | You have :dmg-res: Resistance to :dmg-poison: Poison Damage. You also know the *Poison Spray* Cantrip | *Ray of Sickness* | *Hold Person* |
+| Chthonic | You have :dmg-res: Resistance to :dmg-necrotic: Necrotic Damage. You also know the *Chill Touch* Cantrip | *False Life* | *Ray of Enfeeblement* |
+| Infernal | You have :dmg-res: Resistance to :dmg-fire: Fire Damage. You also know the *Fire Bolt* Cantrip | *Hellish Rebuke* | *Darkness* |
+| Eldritch^*CM*^ | You have :dmg-res: Resistance to :dmg-psychic: Psychic Damage. You also know the *Vicious Mockery* Cantrip | *Dissonant Whispers* | *Mirror Image* |
+| Stygian^*CM*^ | You have :dmg-res: Resistance to :dmg-cold: Cold Damage. You also know the *Ray of Frost* Cantrip | *Cause Fear* | *Phantasmal Force* |

@@ -4,7 +4,7 @@ icon: material/note-edit
 
 # Creating Your Character
 
-This D&D campaign setting uses the same rulings as what you would find in other settings with minor additions and modifications. On a notable note, it uses combinations of 5th Edition ruling and 2024 PHB ruling.
+This D&D campaign setting uses the same rulings as what you would find in other settings with minor additions and modifications.
 
 ## The Core Principles
 
@@ -60,9 +60,11 @@ Your background and class both provide starting equipment. Any coins that you ga
 
 #### Choose a Species
 
-Choose a Species for your character. Once you've chosen a species, write it on your character sheet. Then record your species' traits.
+Choose a [Species] for your character. Once you've chosen a species, write it on your character sheet. Then record your species' traits.
 
 Your character's size and Speed are determined by the character's species; record these in the appropriate places on your character sheet as well (you may write just the first letter of your size).
+
+[Species]: ./origin/species/index.md
 
 #### Imagine Your Past and Present
 
@@ -121,7 +123,7 @@ The Standard Languages table lists languages that are widespread on D&D worlds. 
     | 9 | Goblin | Goblinoids | Gallia, Soterrano | [Italian], [Spanish] |
     | 10 | Halfling | Halflings | Albion, Karakorum | [Alsatian] |
     | 11 | Orc | Orcs | Gallia, Myrkheim | [German] |
-    | 12 | English^CM^ | Londoners | Albion | [English] |
+    | 12 | English^*CM*^ | Londoners | Albion | [English] |
 
 [French]: https://en.wikipedia.org/wiki/French_language
 [Japanese]: https://en.wikipedia.org/wiki/Japanese_language

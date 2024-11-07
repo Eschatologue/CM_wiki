@@ -20,7 +20,7 @@ When you reach a Ranger level specified in the Fey Wanderer Spells Table, you th
 
 ##### Fey Wanderer Spells
 
-| Ranger Level | Spells | Bonus Spells^CM^ |
+| Ranger Level | Spells | Bonus Spells^*CM*^ |
 |:---:|:---|---|
 | 3 | *Charm Person* | *Cause Fear* |
 | 5 | *Misty Step* | *Enthrall* |

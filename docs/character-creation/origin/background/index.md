@@ -41,7 +41,7 @@ Mechanically, your background contains six plus one aspects detailed as follow, 
 
 :   Start with either an ^^equipment package^^ from any background or **500 SP** to spend on equipment of your choice (e.g., weapons, tools, clothing, etc.).
 
-:material-transit-connection-variant: ***Affiliation*** ^CM^
+:material-transit-connection-variant: ***Affiliation*** ^*CM*^
 
 :   You have ^^5 points^^ to distribute between 4 **Affiliations**: **Academe, Bohemia, Establishment, Villainy**. Affiliation connects your character's **past** to their **present**.
 

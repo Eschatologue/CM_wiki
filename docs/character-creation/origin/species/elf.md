@@ -53,6 +53,6 @@ You don't need to sleep, and magic can't put you to sleep. You can finish a Long
 |---|---|---|---|
 | Drow | The range of your Darkvision increases to 120 feet. You also know the *Dancing Lights* cantrip. | *Faerie Fire* | *Darkness* |
 | High Elf | You know the *Prestidigitation* cantrip. Can :material-reload: Replace on Long Rest with another Wizard's cantrip. | *Detect Magic* | *Misty Step* |
-| Sea Elf | You have Swim speed equals to your :rsc-speed: Speed and :dmg-res: Resistance to :dmg-cold: Cold damage | *Create or Destroy Water* | *Water Walk* |
+| Sea Elf^*CM*^ | You have Swim speed equals to your :rsc-speed: Speed and :dmg-res: Resistance to :dmg-cold: Cold damage | *Create or Destroy Water* | *Water Walk* |
 | Wood Elf | Your :rsc-speed: Speed increases to 35 feet. You also know the *Druidcraft* cantrip. | *Longstrider* | *Pass without Trace* |
 

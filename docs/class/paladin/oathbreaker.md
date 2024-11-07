@@ -22,7 +22,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells |
 |:-:|---|
-| 3 | Hellish Rebuke, Shackles of Pain^CM^ |
+| 3 | Hellish Rebuke, Shackles of Pain^*CM*^ |
 | 5 | Crown of Madness, Darkness |
 | 9 | Bestow Curse, Summon Undead |
 | 13 | Blight, Confusion |
