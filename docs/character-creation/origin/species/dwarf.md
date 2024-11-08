@@ -1,14 +1,10 @@
 # Dwarf
 
-Once divided among kingdoms and clans, ensnared in the Age of Strife and manipulated by high-elves, the dwarves now stand united under a single federation. Known for their endurance, resilience and grudges, they excel as warriors, miners, and smiths.
+Dwarves were raised from the earth in the elder days by a deity of the forge. Called by various names on different worlds—Moradin, Reorx, and others—that god gave dwarves an affinity for stone and metal and for living underground. The god also made them resilient like the mountains, with a life span of about 350 years.
 
-Dwarves were raised from the earth and that gave dwarves an affinity for stone and metal and for living underground. This also made them resilient like the mountains, with a life span of about 350 years.
+Squat and often bearded, the original dwarves carved cities and strongholds into mountainsides and under the earth. Their oldest legends tell of conflicts with the monsters of mountaintops and the Underdark, whether those monsters were towering giants or subterranean horrors. Inspired by those tales, dwarves of any culture often sing of valorous deeds—especially of the little overcoming the mighty.
 
-***Hill Dwarves***  
-Also called 'Gold Dwarves', known for their confidence and intuition. They has a keen interest in family values, ancient dwarven ritual, and fine craftsmanship. They are responsible of uniting all the fractured Dwarven clans under the single federation during the age of strife, though they rarely take credits of this.
-
-***Mountain Dwarves***  
-Also known as 'Shield Dwarves', they are strong and hardy, accustomed to a difficult life in rugged terrain and probably on the tall side (for a dwarf). They have a very strong martial tradition, resulting in a majority of Myrkheim's main army originating from this particulars subrace of dwarves.
+On some worlds in the multiverse, the first settlements of dwarves were built in hills or mountains, and the families who trace their ancestry to those settlements call themselves hill dwarves or mountain dwarves, respectively. The Greyhawk and Dragonlance settings have such communities.
 
 ## Dwarf Traits
 
@@ -36,5 +32,17 @@ As a Bonus Action, you gain Tremorsense with a range of 60 feet for 10 minutes. 
 
 Your :rsc-speed: **Speed** is not reduce by wearing Heavy armour.
 
+## Lore 
 
+--8<-- "docs/character-creation/origin/species/index.md:species-warning"
+
+Once divided among kingdoms and clans, ensnared in the Age of Strife and manipulated by high-elves, the dwarves now stand united under a single federation. Known for their endurance, resilience and grudges, they excel as warriors, miners, and smiths.
+
+Dwarves were raised from the earth and that gave dwarves an affinity for stone and metal and for living underground. This also made them resilient like the mountains, with a life span of about 350 years.
+
+***Hill Dwarves***  
+Also called 'Gold Dwarves', known for their confidence and intuition. They has a keen interest in family values, ancient dwarven ritual, and fine craftsmanship. They are responsible of uniting all the fractured Dwarven clans under the single federation during the age of strife, though they rarely take credits of this.
+
+***Mountain Dwarves***  
+Also known as 'Shield Dwarves', they are strong and hardy, accustomed to a difficult life in rugged terrain and probably on the tall side (for a dwarf). They have a very strong martial tradition, resulting in a majority of Myrkheim's main army originating from this particulars subrace of dwarves.
 

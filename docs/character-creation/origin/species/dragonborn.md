@@ -16,11 +16,9 @@ As a Dragonborn, you have these special traits.
 
 ### Draconic Ancestry
 
-=== "PHB'24"
+    You have an ancestry tied to a specific aeiginae. Choose the kind of dragon or aeginae^*CM*^ from the Draconic Ancestors or Aeginae Ancestry^*CM*^ table. Your choice affects your ***Breath Weapon*** and ***Damage Resistance*** traits as well as your appearance.
 
-    Your lineage stems from a dragon progenitor. Choose the kind of dragon from the Draconic Ancestors table. Your choice affects your ***Breath Weapon*** and ***Damage Resistance*** traits as well as your appearance.
-
-    ##### Draconic Ancestors
+=== "Draconic Ancestors"
 
     | Dragon | Damage Type |
     |--------|-------------|
@@ -35,11 +33,7 @@ As a Dragonborn, you have these special traits.
     | Silver | :dmg-cold: **Cold** |
     | White  | :dmg-cold: **Cold** |
 
-=== "CM"
-
-    You have an ancestry tied to a specific aeiginae. Choose the kind of aeigae from the Aeginae Ancestry table. Your choice affects your ***Breath Weapon*** and ***Damage Resistance*** traits as well as your appearance.
-
-    ##### Aeginae Ancestry
+=== "Aeginae Ancestry^*CM*^"
 
     | Aeginae | Damage Type |
     |:--|:--|

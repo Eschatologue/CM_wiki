@@ -1,19 +1,21 @@
 # Elf
 
-Once a revered race, the elves commanded respect across Antares. Yet, they fell from grace, losing their ancient forest, their ties to the tree of life; severing their lifespan to only around 400 years, and also their homeland. Now relegated to the frozen north, they strive to prevent history from repeating itself.
+Created by the god Corellon, the first elves could change their forms at will. They lost this ability when Corellon cursed them for plotting with the deity Lolth, who tried and failed to usurp Corellon's dominion. When Lolth was cast into the Abyss, most elves renounced her and earned Corellon's forgiveness, but that which Corellon had taken from them was lost forever.
+
+No longer able to shape-shift at will, the elves retreated to the Feywild, where their sorrow was deepened by that plane's influence. Over time, curiosity led many of them to explore other planes of existence, including worlds in the Material Plane.
+
+Elves have pointed ears and lack facial and body hair. They live for around 750 years, and they don't sleep but instead enter a trance when they need to rest. In that state, they remain aware of their surroundings while immersing themselves in memories and meditations.
+
+An environment subtly transforms elves after they inhabit it for a millennium or more, and it grants them certain kinds of magic. Drow, high elves, and wood elves are examples of elves who have been transformed thus.
 
 ***Drow***  
-Long before the ancient forest burned to ashes, you have been driven to the Underdark. Most drow have adopted a ruthless pragmatism since then. Though the underdark was a hellish place no more, their inherent nature of mistrust remains.
+Drow typically dwell in the Underdark and have been shaped by it. Some drow individuals and societies avoid the Underdark altogether yet carry its magic. In the Eberron setting, for example, drow dwell in rainforests and cyclopean ruins on the continent of Xen'drik.
 
-***High Elf***  
-Once heirs to the Ancient Forest, high elves are masters of spellcraft and naturally talented wordsmiths. Though your people's misdeeds in the past and the severed connections between your race and the Tree of Life may not have been your fault, it is an original sin that you must carry.
+***High Elves***  
+High elves have been infused with the magic of crossings between the Feywild and the Material Plane. On some worlds, high elves refer to themselves by other names. For example, they call themselves sun or moon elves in the Forgotten Realms setting, Silvanesti and Qualinesti in the Dragonlance setting, and Aereni in the Eberron setting.
 
-Outside of your own race, looks of contempt, hatred, and extreme prejudice are the norm for you. The world is not kind to anyone, especially you.
-
-***Wood Elf***  
-Your kind once tended to the beautiful and lush Ancient Forest. Now, your once slender hands are now covered in soot and calloused from tending to the Generator; the only thing keeping you and your people from being frozen and buried under the snow of the Antares' northern waste.
-
-Centuries of training and natural talent in archery and camouflage in the forest have proven to be suprisingly useful skills in Arctic environment.
+***Wood Elves***  
+Wood elves carry the magic of primeval forests within themselves. They are known by many other names, including wild elves, green elves, and forest elves. Grugach are reclusive wood elves of the Greyhawk setting, while the Kagonesti and the Tairnadal are wood elves of the Dragonlance and Eberron settings, respectively.
 
 ## Elf Traits
 
@@ -56,3 +58,17 @@ You don't need to sleep, and magic can't put you to sleep. You can finish a Long
 | Sea Elf^*CM*^ | You have Swim speed equals to your :rsc-speed: Speed and :dmg-res: Resistance to :dmg-cold: Cold damage | *Create or Destroy Water* | *Water Walk* |
 | Wood Elf | Your :rsc-speed: Speed increases to 35 feet. You also know the *Druidcraft* cantrip. | *Longstrider* | *Pass without Trace* |
 
+## Lore
+
+--8<-- "docs/character-creation/origin/species/index.md:species-warning"
+
+Once a revered race, the elves commanded respect across Antares. Yet, they fell from grace, losing their ancient forest, their ties to the tree of life; severing their lifespan to only around 400 years, and also their homeland. Now relegated to the frozen north, they strive to prevent history from repeating itself.
+
+***Drow***  
+Long before the ancient forest burned to ashes, you have been driven to the Underdark. Most drow have adopted a ruthless pragmatism since then. Though the underdark was a hellish place no more, their inherent nature of mistrust remains.
+
+***High Elf***  
+Once heirs to the Ancient Forest, high elves are masters of spellcraft and naturally talented wordsmiths. Though your people's misdeeds in the past and the severed connections between your race and the Tree of Life may not have been your fault, it is an original sin that you must carry. Outside of your own race, looks of contempt, hatred, and extreme prejudice are the norm for you. The world is not kind to anyone, especially you.
+
+***Wood Elf***  
+Your kind once tended to the beautiful and lush Ancient Forest. Now, your once slender hands are now covered in soot and calloused from tending to the Generator; the only thing keeping you and your people from being frozen and buried under the snow of the Antares' northern waste. Centuries of training and natural talent in archery and camouflage in the forest have proven to be suprisingly useful skills in Arctic environment.
