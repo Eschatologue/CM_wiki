@@ -105,7 +105,7 @@ The elemental damage is 1d4 for a level 1 spell slot, plus an additional 1d4 for
 
 #### Grooved Barrel
 
-You modify your Arcane Firearm to be especially accurate. You ignore the Sisadvantage imposed on Arcane Firearm attacks that you make at the weapon's long range.
+You modify your Arcane Firearm to be especially accurate. You ignore the Disadvantage imposed on Arcane Firearm attacks that you make at the weapon's long range.
 
 ---
 

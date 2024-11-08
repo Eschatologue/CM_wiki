@@ -15,6 +15,8 @@ This armour has 6 charges. The wearer can expend the armour's charges in the fol
 
 The armour regains 1d6 expended charges daily at dawn.
 
+---
+
 ### Enhanced Arcane Focus
 
 *Prerequisite: A rod, staff, or wand (requires attunement)*
