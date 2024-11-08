@@ -47,10 +47,3 @@ Searing light temporarily radiates from your eyes and mouth. For the duration, y
 ***Necrotic Shroud***  
 Your eyes briefly become pools of darkness and flightless wings sprout from your back temporarily. Creatures other than your allies within 10 feet of tou must succeed on a :d20-save: **Charisma saving throw** (DC 8 + your Charisma modifier + Proficiency Bonus) or have the ^^Frightened^^ condition until the end of your next turn.
 
-## Lore
-
---8<-- "docs/character-creation/origin/species/index.md:species-warning"
-
-Aasimar are humanoids resembling other species, particularly humans or those touched by the Upper Planes in ages past. They live around 100 years and are easily recognised by their radiant eyes, a halo floating above their head, and luminous "wings" of various shapes and sizes on their backs.
-
-Most Aasimar are born and reside in Soterrano, where they make up the majority of the population. Rarely seen outside this region, they maintain a powerful connection to the *Solis*, or Soterrani "Sunlight," which is believed to be the domain of the Spire Falcone. This connection imparts an inherent sense of justice; however, each Aasimar interprets this "justice" differently.
