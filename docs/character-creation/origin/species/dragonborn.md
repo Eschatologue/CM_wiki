@@ -1,8 +1,8 @@
 # Dragonborn
 
---8<-- "docs/character-creation/origin/species/index.md:species-warning"
+The ancestors of dragonborn hatched from the eggs of chromatic and metallic dragons. One story holds that these eggs were blessed by the dragon gods Bahamut and Tiamat, who wanted to populate the multiverse with people created in their image. Another story claims that dragons created the first dragonborn without the gods' blessings. Whatever their origin, dragonborn have made homes for themselves on the Material Plane.
 
-A proud race, prioritizing clan loyalty and individual prowess above all else. Their existence is sculpted by Aeginaes and then placed under servitude for their creator, acting as their executors, leading to their fear and ostracization by other races. Determined to maintain independence and self-sufficiency, they refuse to be indebted to anyone, including once the Gods, and now, the Spires.
+Dragonborn look like wingless, bipedal dragons—scaly, bright-eyed, and thick-boned with horns on their heads—and their coloration and other features are reminiscent of their draconic ancestors.
 
 ## Dragonborn Traits
 
@@ -14,28 +14,49 @@ A proud race, prioritizing clan loyalty and individual prowess above all else. T
 
 As a Dragonborn, you have these special traits.
 
-### Aeginae Ancestry
+### Draconic Ancestry
 
-You have an ancestry tied to a specific aeiginae. Choose one type of dragon from the Aeignae Ancestry table. Your Breath Weapon damage type and damage resistances are determined by the dragon type, as shown in the table.
+=== "PHB'24"
 
-##### Aeginae Ancestry
+    Your lineage stems from a dragon progenitor. Choose the kind of dragon from the Draconic Ancestors table. Your choice affects your ***Breath Weapon*** and ***Damage Resistance*** traits as well as your appearance.
 
-| Aeginae | Damage Type |
-|:--|:--|
-| Jörmungandr | :dmg-thunder: **Thunder** |
-| Ouroboros | :dmg-acid: **Acid** |
-| Raijin | :dmg-lightning: **Lightning** |
-| Tartarus | :dmg-necrotic: **Necrotic** |
-| Thabat | :dmg-fire: **Fire** |
-| Thalassa | :dmg-cold: **Cold** |
-| Vorthalas | :dmg-radiant: **Radiant** |
-| Xanthous | :dmg-force: **Force** |
+    ##### Draconic Ancestors
+
+    | Dragon | Damage Type |
+    |--------|-------------|
+    | Black  | :dmg-acid: **Acid** |
+    | Blue   | :dmg-lightning: **Lightning** |
+    | Brass  | :dmg-fire: **Fire** |
+    | Bronze | :dmg-lightning: **Lightning** |
+    | Copper | :dmg-acid: **Acid** |
+    | Gold   | :dmg-fire: **Fire** |
+    | Green  | :dmg-poison: **Poison** |
+    | Red    | :dmg-fire: **Fire** |
+    | Silver | :dmg-cold: **Cold** |
+    | White  | :dmg-cold: **Cold** |
+
+=== "CM"
+
+    You have an ancestry tied to a specific aeiginae. Choose the kind of aeigae from the Aeginae Ancestry table. Your choice affects your ***Breath Weapon*** and ***Damage Resistance*** traits as well as your appearance.
+
+    ##### Aeginae Ancestry
+
+    | Aeginae | Damage Type |
+    |:--|:--|
+    | Jörmungandr | :dmg-thunder: **Thunder** |
+    | Ouroboros | :dmg-acid: **Acid** |
+    | Raijin | :dmg-lightning: **Lightning** |
+    | Tartarus | :dmg-necrotic: **Necrotic** |
+    | Thabat | :dmg-fire: **Fire** |
+    | Thalassa | :dmg-cold: **Cold** |
+    | Vorthalas | :dmg-radiant: **Radiant** |
+    | Xanthous | :dmg-force: **Force** |
 
 ### Breath Weapon 
 
 Each ancestry provides a damage resistance and a Breath Weapon, which shares the same range and area of effect but different damage type and :d20-save: **Saving Throws**, all breath weapon also increases in damage at certain levels.
 
-When you take the **Attack** Action on your turn, you can replace one of your attacks with an exhalation of destructive energy determined by your Ancestry, under the rules below:
+When you take the :rsc-a: **Attack** Action on your turn, you can replace one of your attacks with an exhalation of destructive energy determined by your Ancestry, under the rules below:
 
 ***Breath Weapon Damage***  
 Breath Weapon damage is 1d10 with its damage type determined based on Dragonborn Ancestry. The damage increases by 1d10 when you reach character Level 6 (2d10), Level 11 (3d10), and Level 17 (4d10). 
@@ -59,3 +80,12 @@ When you reach character level 5, you can channel draconic magic to gice yoursel
 
 Your wings appear to be made of the same energy as your Breath Weapon. Once you use this trait, you can't use it again until you finish a Long Rest.
 
+## Lore
+
+--8<-- "docs/character-creation/origin/species/index.md:species-warning"
+
+Dragonborn are a proud species, valuing clan loyalty and personal prowess above all else. Their origins trace back to the ancient Aeginae progenitor, whose name has been lost to history. Aeginae sculpted the Dragonborn from its own scales, creating them as a race of executors bound to serve their creator. This bond led to a long history of fear and ostracisation from other races.
+
+Now, with the Aeginae all but extinct, the Dragonborn remain resolute in their desire for independence. Determined to maintain self-sufficiency, they refuse to owe allegiance to anyone—not even the gods, and certainly not the Spires.
+
+Most Dragonborn are found either aboard the Karakorum Arks or in Soterrano, where they live between 80 to 100 years. Their physical traits make them uniquely suited to harsh environments, where other species might perish. While they are often perceived as intimidating or gruff by unfamiliar races, a Dragonborn’s greatest gift to an ally is their unwavering loyalty. Their sense of humour is equally dry, no matter where they are from.

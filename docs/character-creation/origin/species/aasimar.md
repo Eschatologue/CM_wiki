@@ -45,7 +45,7 @@ Two spectral wings sprout from your back temporarily. Until the transformation e
 Searing light temporarily radiates from your eyes and mouth. For the duration, you shed Bright Light in a 10-foot radius and Dim Light for an additional 10 feet, and at the end of each of your turn, each creature within 10 feet of you takes :dmg-radiant: Radiant damage equal to your Proficiency Bonus.
 
 ***Necrotic Shroud***  
-Ypur eyes briefly become pools of darkness and flightless wings sprout from your back temporarilt. Creatures other than your allies within 10 feet of tou must succeed on a Charisma saving throw (DC 8 + your Charisma modifier + Proficiency Bonus) or have the ^^Frightened^^ condition until the end of your next turn.
+Your eyes briefly become pools of darkness and flightless wings sprout from your back temporarily. Creatures other than your allies within 10 feet of tou must succeed on a :d20-save: **Charisma saving throw** (DC 8 + your Charisma modifier + Proficiency Bonus) or have the ^^Frightened^^ condition until the end of your next turn.
 
 ## Lore
 
