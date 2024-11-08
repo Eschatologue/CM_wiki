@@ -1,10 +1,18 @@
 # Aasimar
 
---8<-- "docs/character-creation/origin/species/index.md:species-warning"
+=== "PHB'24"
 
-Aasimar are humanoids who resemble other species, particularly humans, in physical form, though their distinct features set them apart. They are often recognised by their radiant eyes, a halo hovering above their head, and luminous "wings" of various shapes and sizes on their backs.
+    Aasimar (pronounced AH-sih-mar) are mortals who carry a spark of the Upper Planes within their souls. Whether descended from an angelic being or infused with celestial power, they can fan that spark to bring light, healing, and heavenly fury.
 
-Most Aasimar are born in and reside within Soterrano, where they make up the majority of the population. They are rarely seen outside this region due to their deep connection with the *Solis*, or Soterrani "Sunlight," where the Spire Falcone is said to reside.
+    Aasimar can arise among any population of mortals. They resemble their parents, but they live for up to 160 years and have features that hint at their celestial heritage, such as metallic freckles, luminous eyes, a halo, or the skin color of an angel (silver, opalescent green, or coppery red). These features start subtle and become obvious when the aasimar learns to reveal their full celestial nature.
+
+=== "CM"
+
+    --8<-- "docs/character-creation/origin/species/index.md:species-warning"
+
+    Aasimar are humanoids resembling other species, particularly humans or those touched by the Upper Planes in ages past. They live around 100 years and are easily recognised by their radiant eyes, a halo floating above their head, and luminous "wings" of various shapes and sizes on their backs.
+
+    Most Aasimar are born and reside in Soterrano, where they make up the majority of the population. Rarely seen outside this region, they maintain a powerful connection to the *Solis*, or Soterrani "Sunlight," which is believed to be the domain of the Spire Falcone. This connection imparts an inherent sense of justice; however, each Aasimar interprets this "justice" differently.
 
 ## Aasimar Traits
 

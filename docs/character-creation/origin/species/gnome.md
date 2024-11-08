@@ -2,7 +2,7 @@
 
 Gnome are magical folk created by gods of invention, illusions, and live underground. The earliest gnomes were seldom seen by other folk due to the gnomes' secretive nature and their propensity for living in forests and burrows. What they lacked in size, they made up for in cleverness. They confounded predators with traps and labyrinthine tunnels. 
 
-Gnomes are petite folk with big eyes and pointed ears, who live around 425 years. Many gnomes like the feeling of roof over their head, even if that "roof: is nothing more than a hat.
+Gnomes are petite folk with big eyes and pointed ears, who live around 425 years. Many gnomes like the feeling of roof over their head, even if that "roof" is nothing more than a hat.
 
 ## Gnome Traits
 
