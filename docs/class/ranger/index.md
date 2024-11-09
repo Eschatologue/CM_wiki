@@ -11,7 +11,7 @@ title: Ranger
 
 | Trait | Detail |
 |---|---|
-| **Primary Ability** | Dexterity and Wisdom |
+| **Primary Ability** | Strength/Dexterity, and Wisdom |
 | **Hit Point Die** | D10 per Ranger level |
 | **Saving Throw Proficiencies** | Strength and Dexterity |
 | **Skill Proficiencies** | Choose 3: Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, or Survival |
@@ -88,7 +88,7 @@ You specialise in hunting those not native to Antares. You gain proficiency in A
 You have a background in battling spellcasters. You gain proficiency in Arcana, and the *True Strike* cantrip is always prepared for you.
 
 ***Ranger Knight***  
-You have sworn to serve a crown or nation and aim to bring its foes to ruin. You gain proficiency in History and armour training with Heavy armour, and you can change your primary ability of this class becomes Strength and Wisdom instead of Dexterity and Wisdom.
+You have sworn to serve a crown or nation and aim to bring its foes to ruin. You gain proficiency in History and armour training with Heavy armour.
 
 ***Sanctified Hunter***  
 You have sworn to hunt the enemies of a holy or druidic order. You gain proficiency in Religion, and the *Sacred Flame* cantrip is always prepared for you.
