@@ -25,18 +25,18 @@ The expansion of London's urban landscape also contributed to the rising tension
 
 ### The Great Split
 
-The ensuing conflict, later known as **The Great Split**, is widely regarded as one of the bloodiest and most consequential wars in Antares' history. The war pitted the arcane and nature-based forces of the elves against the industrial war machines of London. It marked the first time that a non-magical force successfully challenged the dominance of powers in the region.
+The ensuing conflict, later known as **The Great Split**, is widely regarded as one of the bloodiest and most consequential wars in Antares' history. The war pitted the fey magic and nature-based forces of the elves against London's industrial might. It marked the first time that a non-magical force successfully challenged the dominance of powers in the region.
 
 The war was characterised by brutal, large-scale battles that devastated much of the land. In a decisive and final act, London's forces succeeded in breaching one of the elves' most sacred sites and felling **Yggdrasil**, the tree of life. This not only crippled the elves’ morale but also marked the symbolic end of their supremacy, ushering in a new era dominated by technological might.
-
-## Government Structure
-
-Albion operates as a borderline stratocracy, where military and civil governance are intertwined. Citizens are not only encouraged but required to serve the government for a period, often through military service or sometimes civil roles. This fusion of military and civilian life reinforces Albion's robust sense of discipline and unity, where governance is seen as a collective duty shared by all.
-
-Despite its rigid structure, the Dominion of Albion is notably inclusive of all species, creeds, and backgrounds. However, this inclusiveness stems more from practical necessity than from a sense of altruism. The need for manpower, resources, and expertise from a variety of sources has driven Albion to adopt a more open policy.
 
 ## Society
 
 Albion has a unique and often perplexing society compared to other nations. Where many countries adopt an optimistic or inflated view of their own grandeur, London's worldview is starkly different. The country is steeped in a deep-rooted pessimism, born from a history of perpetual warfare.
 
 Historians from Albion note that the nation has experienced no sustained period of peace for over two centuries. This unbroken cycle of conflict has shaped a society that values discipline, duty, and the collective over individual desires. The state's authority is maintained through a strict social order, with citizen participation in governance being mandatory. From a young age, children are taught to prioritise their responsibilities to the nation, ensuring that the survival of Albion takes precedence over personal aspirations.
+
+### Government Structure
+
+Albion operates as a borderline stratocracy, where military and civil governance are intertwined. Citizens are not only encouraged but required to serve the government for a period, often through military service or sometimes civil roles. This fusion of military and civilian life reinforces Albion's robust sense of discipline and unity, where governance is seen as a collective duty shared by all.
+
+Despite its rigid structure, the Dominion of Albion is notably inclusive of all species, creeds, and backgrounds. However, this inclusiveness stems more from practical necessity than from a sense of altruism. The need for manpower, resources, and expertise from a variety of sources has driven Albion to adopt a more open policy.

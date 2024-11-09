@@ -383,12 +383,16 @@ nav:
     - lore/index.md
     - Antares: 
       - Continent: lore/antares/continent.md
-      - Nations:
+      - Nation:
         - Gallia: lore/antares/nation/gallia.md
         - London: lore/antares/nation/london.md
         - Myrkheim: lore/antares/nation/myrkheim.md
         - Valinor: lore/antares/nation/valinor.md
       - Life: lore/antares/life.md
+      - Race: 
+        - Aasimar: lore/antares/race/aasimar.md
+        - Dwarf: lore/antares/race/dwarf.md
+        - Londoner: lore/antares/race/londoner.md
     - The Warp:
       - lore/warp/index.md
       - Warp Storm: lore/warp/warp-storm.md
