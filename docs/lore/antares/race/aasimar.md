@@ -6,6 +6,12 @@ search:
 
 # Aasimar
 
+:   *This article is about the species' lore. For the character creation, see [Aasimar (origin)](../../../character-creation/origin/species/aasimar.md)*
+
+The Aasimar (both singular and plural) are an Ancient race in Antares.
+
+## Overview
+
 *"Fiat iustitia, et pereat mundus"*
 
 Aasimar are humanoid beings who resemble other species, particularly humans or those once touched by the Upper Planes in ancient eras. With lifespan typically spans around 100 years, they are easily identified by their distinct features: radiant eyes, a hovering halo, and luminous wings that vary in shape and size. Although these halos and wings appear semi-translucent, they are tangible structures that fade upon an Aasimar’s death. Certain afflictions or congenital conditions may also affect the appearance or function of these features.

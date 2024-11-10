@@ -6,9 +6,15 @@ search:
 
 # Dwarf
 
+:   *This article is about the species' lore. For the character creation, see [Dwarf (origin)](../../../character-creation/origin/species/dwarf.md)*
+
+The Dwarves (singular: Dwarf) are an Ancient race in Antares.
+
+## Overview
+
 *"Tempora mutantur, nos et mutamur in illis"*
 
-Dwarves, also known as *Durinn*, are a humanoid race native to the central region of Antares, particularly the Myrkheim mountains. The majority of Dwarves reside in the nation of Myrkheim, characterised by its rugged terrain and subterranean cities. Dwarves are easily recognised by their short and stature, pointed ears, and often with beards. They are known for their cultural affinity for heavy drinking and their exceptional skills as miners, geologists, and underground surveyors.
+Dwarves, also known as *Durinn*, are a humanoid race native to the central region of Antares, particularly the Myrkheim mountains. The majority of Dwarves reside in the nation of Myrkheim, characterised by its rugged terrain and subterranean cities. Dwarves are easily recognised by their short and stature, pointed ears, and often with beards. They are known for their cultural affinity for heavy drinking and their exceptional skills as miners, geologists, and underground surveyors. 
 
 While most Dwarves are born in Myrkheim, many now live outside their homeland, with the largest community found in the Caerdyf Commissariat, a territory once part of Myrkheim but now under London’s influence. Dwarves are also renowned for their expertise in niche, advanced technologies, combining their craftsmanship with the influence of London. They often construct vast, intricate cities within mountains, with structures that can rival the cities of the surface world.
 
@@ -20,7 +26,7 @@ In ancient times, Dwarves were among the most dominant races in Antares, standin
 
 ## Long Memory, Long Grudges
 
-Dwarves typically live for around 300 years, with the oldest members having witnessed a very different world. They remember the turbulent centuries of the Age of Strife, the expulsion of the Elves, and the costly mistakes made by their leaders during the war against Albion. This extended lifespan grants them a perspective that shorter-lived races may lack. In the ever-changing world, Dwarves must be as enduring as the mountains, yet as adaptable as the rivers that flow through their lands. While tradition is highly valued, it must be tempered with the wisdom of the ages
+Dwarves typically live for around 250 years, with the oldest members having witnessed a very different world. They remember the turbulent centuries of the Age of Strife, the expulsion of the Elves, and the costly mistakes made by their leaders during the war against Albion. This extended lifespan grants them a perspective that shorter-lived races may lack. In the ever-changing world, Dwarves must be as enduring as the mountains, yet as adaptable as the rivers that flow through their lands. While tradition is highly valued, it must be tempered with the wisdom of the ages
 
 !!! quote "Slow to Trust"
 

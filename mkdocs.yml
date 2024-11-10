@@ -400,6 +400,7 @@ nav:
       - Race: 
         - Aasimar: lore/antares/race/aasimar.md
         - Dwarf: lore/antares/race/dwarf.md
+        - Elf: lore/antares/race/elf.md
         - Londoner: lore/antares/race/londoner.md
     - The Warp:
       - lore/warp/index.md

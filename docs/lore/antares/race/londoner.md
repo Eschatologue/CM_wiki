@@ -6,13 +6,17 @@ search:
 
 # Londoners
 
+:   *This article is about the species' lore. For the character creation, see [Londoners (origin)](../../../character-creation/origin/species/londoner.md)*
+
+The Londoners (singular: Londoner) are an alien race in Antares.
+
+## Overview
+
 *"Forsan et haec olim meminisse iuvabit"*  
 
-Londoners are a race of sapient mammalian aliens resembling great apes that are not native to Antares. They bear a strong resemblance to humans but are physically, significantly weaker, leading them to be classified as “Abhumans.” Despite this physical limitation, Londoners are known for their extraordinary adaptability, creativity, cunning, determination, resilience, and tenacity against overwhelming odds—qualities that often surpass those of other races on Antares.
+Londoners are a race of sapient mammalian aliens resembling apes (requires citation) that are not native to Antares. They bear a strong resemblance to humans but are physically, significantly weaker, leading them to be classified as “Abhumans.” Despite this physical limitation, Londoners are known for their extraordinary adaptability, creativity, cunning, determination, resilience, and tenacity against overwhelming odds—qualities that often surpass those of other races on Antares.
 
 With no innate connection to the Weave, the concept of magic is foreign to them. However, their advanced technological capabilities more than make for this. Known for their ingenuity, Londoners excel in innovation, construction, and the deployment of complex machines, which they have adapted to navigate and thrive in a world dominated by magic.
-
-Most Londoners are, as their name suggests, born in Albion, though this nation has a notably diverse population, with Londoners remaining the majority. Unlike other races, Londoners lack a bias toward insular communities and often accept individuals (with heavy prejudice) from other races into their society—a practice almost unheard of in Antares. This openness has proven both advantageous and disasterous for Londoners.
 
 ## Pessimistic Outlook
 
