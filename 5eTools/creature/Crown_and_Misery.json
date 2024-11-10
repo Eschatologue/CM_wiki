@@ -1,5 +1,5 @@
 {
-	"siteVersion": "2.2.3",
+	"siteVersion": "2.4.2",
 	"_meta": {
 		"sources": [
 			{
@@ -13,8 +13,9 @@
 				"color": "224c91"
 			}
 		],
-		"dateAdded": 1729662050,
-		"dateLastModified": 1729662050
+		"dateAdded": 1731217743,
+		"dateLastModified": 1731217743,
+		"edition": "classic"
 	},
 	"monster": [
 		{
@@ -261,7 +262,7 @@
 			}
 		},
 		{
-			"name": "Elven Brigand (Melee)",
+			"name": "Elven Brigand",
 			"source": "CrownMisery",
 			"size": [
 				"M"
@@ -306,16 +307,16 @@
 			"skill": {
 				"stealth": "+6",
 				"acrobatics": "+6",
-				"perception": "+2",
+				"perception": "+3",
 				"intimidation": "+3",
-				"arcana": "+4"
+				"arcana": "+6"
 			},
-			"passive": 12,
+			"passive": 13,
 			"languages": [
 				"Common",
 				"Elvish"
 			],
-			"cr": "3",
+			"cr": "5",
 			"spellcasting": [
 				{
 					"name": "Spellcasting (High Elf only)",
@@ -365,165 +366,22 @@
 					]
 				},
 				{
-					"name": "Shortsword",
+					"name": "Scimitar",
 					"entries": [
-						"{@atk mw} {@hit +6} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d6 + 4}) piercing damage."
-					]
-				},
-				{
-					"name": "Dagger",
-					"entries": [
-						"{@atk mw,rw} {@hit +6} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}6 ({@damage 1d4 + 4}) piercing damage."
-					]
-				}
-			],
-			"attachedItems": [
-				"dagger|phb",
-				"shortsword|phb"
-			],
-			"traitTags": [
-				"Fey Ancestry",
-				"Sneak Attack"
-			],
-			"actionTags": [
-				"Multiattack"
-			],
-			"languageTags": [
-				"C",
-				"E"
-			],
-			"damageTags": [
-				"P"
-			],
-			"damageTagsSpell": [
-				"F",
-				"R",
-				"T"
-			],
-			"spellcastingTags": [
-				"O"
-			],
-			"miscTags": [
-				"MLW",
-				"MW",
-				"RW",
-				"THW"
-			]
-		},
-		{
-			"name": "Elven Brigand (Ranged)",
-			"source": "CrownMisery",
-			"size": [
-				"M"
-			],
-			"type": {
-				"type": "humanoid",
-				"tags": [
-					"elf"
-				]
-			},
-			"alignment": [
-				"N",
-				"E"
-			],
-			"ac": [
-				{
-					"ac": 16,
-					"from": [
-						"{@item breastplate|xphb}"
-					]
-				}
-			],
-			"hp": {
-				"formula": "6d6 + 12",
-				"average": 33
-			},
-			"speed": {
-				"walk": {
-					"number": 30,
-					"condition": "35 ft. (Wood Elf)"
-				}
-			},
-			"str": 12,
-			"dex": 18,
-			"con": 15,
-			"int": 10,
-			"wis": 10,
-			"cha": 12,
-			"save": {
-				"dex": "+6"
-			},
-			"skill": {
-				"stealth": "+6",
-				"acrobatics": "+6",
-				"perception": "+2",
-				"intimidation": "+3",
-				"arcana": "+4"
-			},
-			"passive": 12,
-			"languages": [
-				"Common",
-				"Elvish"
-			],
-			"cr": "3",
-			"spellcasting": [
-				{
-					"name": "Spellcasting (High Elf only)",
-					"type": "spellcasting",
-					"spells": {
-						"0": {
-							"spells": [
-								"{@spell fire bolt|XPHB}",
-								"{@spell thunderclap|XPHB}",
-								"{@spell true strike|XPHB}"
-							]
-						}
-					}
-				}
-			],
-			"trait": [
-				{
-					"name": "Nimble Escape",
-					"entries": [
-						"The elven brigand can take the {@action Disengage} or {@action Hide} action as a Bonus Action on each of its turns."
-					]
-				},
-				{
-					"name": "Fey Ancestry",
-					"entries": [
-						"The elven brigand has advantage on saving throws against the  {@condition Charmed} condition, and magic can't put the elven brigand to sleep."
-					]
-				}
-			],
-			"action": [
-				{
-					"name": "Multiattack",
-					"entries": [
-						"The Elven Brigand makes 2 weapon attacks."
-					]
-				},
-				{
-					"name": "Dagger",
-					"entries": [
-						"{@atk mw,rw} {@hit +6} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}6 ({@damage 1d4 + 4}) piercing damage."
+						"{@atk mw} {@hit +7} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d6 + 4}) Slashing damage.",
+						"Has Nick mastery property"
 					]
 				},
 				{
 					"name": "Longbow",
 					"entries": [
-						"{@atk rw} {@hit +6} to hit, range 150/600 ft., one target. {@h}8 ({@damage 1d8 + 4}) piercing damage."
-					]
-				},
-				{
-					"name": "Volley",
-					"entries": [
-						"The Elven Brigand fires a volley of arrow in a 30 foot cone. Each creature in that area must succeed a {@dc 14} Dexterity saving throw or take 10 ({@damage 4d4}) Piercing damage and its Speed is reduced by 10 feet until the start of the Elven Brigand's next turn. On a successful save a creature takes half as much damage and suffers no other effects."
+						"{@atk rw} {@hit +7} to hit, range 150/600 ft., one target. {@h}8 ({@damage 1d8 + 4}) Piercing damage."
 					]
 				}
 			],
 			"attachedItems": [
-				"dagger|phb",
-				"longbow|phb"
+				"longbow|phb",
+				"scimitar|phb"
 			],
 			"traitTags": [
 				"Fey Ancestry",
@@ -537,7 +395,8 @@
 				"E"
 			],
 			"damageTags": [
-				"P"
+				"P",
+				"S"
 			],
 			"damageTagsSpell": [
 				"F",
@@ -551,14 +410,7 @@
 				"MLW",
 				"MW",
 				"RNG",
-				"RW",
-				"THW"
-			],
-			"savingThrowForced": [
-				"dexterity"
-			],
-			"savingThrowForcedSpell": [
-				"constitution"
+				"RW"
 			]
 		},
 		{
@@ -617,7 +469,7 @@
 				"Common",
 				"Elvish"
 			],
-			"cr": "4",
+			"cr": "6",
 			"spellcasting": [
 				{
 					"name": "Spellcasting (High Elf only)",
@@ -1020,6 +872,98 @@
 			],
 			"savingThrowForced": [
 				"dexterity"
+			]
+		},
+		{
+			"name": "Tainted Carcacss",
+			"isNamedCreature": true,
+			"source": "CrownMisery",
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "aberration",
+				"tags": [
+					"corrupted"
+				]
+			},
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				14
+			],
+			"hp": {
+				"formula": "5d8 + 5",
+				"average": 30
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 14,
+			"dex": 12,
+			"con": 12,
+			"int": 5,
+			"wis": 5,
+			"cha": 5,
+			"save": {
+				"con": "+3"
+			},
+			"passive": 10,
+			"immune": [
+				"necrotic",
+				"psychic"
+			],
+			"conditionImmune": [
+				"charmed",
+				"exhaustion",
+				"frightened"
+			],
+			"cr": "2",
+			"trait": [
+				{
+					"name": "Nimble Escape",
+					"entries": [
+						"Tainted can take the {@action Disengage} or {@action Hide} action as a Bonus Action on each of its turns."
+					]
+				},
+				{
+					"name": "Time Rend (2/Short Rest)",
+					"entries": [
+						"After taking damage, Tainted's can double its Speed until the end of its next turn."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The Tainted can make 2 attack(s)"
+					]
+				},
+				{
+					"name": "Slash",
+					"entries": [
+						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d8 + 4}) slashing damage."
+					]
+				}
+			],
+			"bonus": [
+				{
+					"name": "Flurry (Only when Bloodied)",
+					"entries": [
+						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d8 + 4}) slashing damage."
+					]
+				}
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"damageTags": [
+				"S"
+			],
+			"miscTags": [
+				"MW"
 			]
 		}
 	]
