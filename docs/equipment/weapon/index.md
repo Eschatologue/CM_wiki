@@ -40,9 +40,7 @@ Main article: [Firearms](weapon-firearm.md)
 
 Many weapons have special properties related to their use, as shown in the Weapons table.
 
----
-
-#### :weapon-prop-ammunition:{ .lg } Ammunition
+### :weapon-prop-ammunition:{ .lg .pad-r } Ammunition
 
 You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). 
 
@@ -54,51 +52,51 @@ You can use a weapon that has the ammunition property to make a ranged attack on
 
 ---
 
-#### :weapon-prop-automatic:{ .lg } Automatic
+### :weapon-prop-automatic:{ .lg .pad-r } Automatic
 
 When you take the **Attack** Action on your turn and attack with an Automatic weapon, you can make extra attacks up to the number in the parenthesis later on the same turn. That extra attack must be made with the ^^same weapon^^ provided the weapon has enough Ammunition for the attacks, and you don't add your ability modifier to the extra attack's damage, unless that modifier is negative.
 
 ---
 
-#### :weapon-prop-explosive:{ .lg } Explosive
+### :weapon-prop-explosive:{ .lg .pad-r } Explosive
 
-When this weapon's hits a target, it explodes and affect an area of effect on the parenthesis, this area of effect must include your target and away from you. The weapon can target a point within its range. Each creature in the area of effect centered on the point or the target must make a Dexterity :d20-save: **Saving Throw**. The DC equal to ^^8 + your Proficiency Bonus + the ability modifier used to make the attack^^. The creature takes the weapon's damage on a failed save, or half as much damage on a successful one. 
+When this weapon's hits a target, it explodes and affect an area of effect on the parenthesis, this area of effect must include your target and away from you. The weapon can target a point within its range. Each creature in the area of effect centered on the point or the target must make a :d20-save: Dexterity Saving Throw. The DC equal to ^^8 + your Proficiency Bonus + the ability modifier used to make the attack^^. The creature takes the weapon's damage on a failed save, or half as much damage on a successful one. 
 
 Your initial target makes this :d20-save: **Saving Throw** at a :d20-disadv: **Disadvantage**.
 
 ---
 
-#### :weapon-prop-finesse:{ .lg } Finesse
+### :weapon-prop-finesse:{ .lg .pad-r } Finesse
 
 When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 
 ---
 
-#### :weapon-prop-heavy:{ .lg } Heavy
+### :weapon-prop-heavy:{ .lg .pad-r } Heavy
 
 Heavy weapon is unwieldy compared to other weapons. You have :d20-disadv: **Disadvantage** on your attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13, and if it's a Ranged weapon and your Dexterity score isn't at least 13.
 
 ---
 
-#### :weapon-prop-light:{ .lg } Light
+### :weapon-prop-light:{ .lg .pad-r } Light
 
 When you take the **Attack** Action on your turn and attack with a Light weapon, you can make one extra attack as a :rsc-b: **Bonus Action** later on the same turn. That extra attack must be made with a ^^different Light weapon^^, and you don't add your ability modifier to the extra attack's damage, unless that modifier is negative.
 
 ---
 
-#### :weapon-prop-loading:{ .lg } Loading
+### :weapon-prop-loading:{ .lg .pad-r } Loading
 
 Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an :rsc-a: **Action**, :rsc-b: **Bonus Action**, or :rsc-r: **Reaction** to fire it, regardless of the number of attacks you can normally make.
 
 ---
 
-#### :weapon-prop-mounted:{ .lg } Mounted
+### :weapon-prop-mounted:{ .lg .pad-r } Mounted
 
 This weapon is normally used while attached to a tripod, vehicle, or other bracing mount. You can mount or unmount this weapon as an :rsc-a: **Action**. While it is mounted, it can't be moved. It can only be used to make an attack while unmounted if held by a creature with a Strength score of at least 15.
 
 ---
 
-#### :weapon-prop-range:{ .lg } Range
+### :weapon-prop-range:{ .lg .pad-r } Range
 
 This weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. 
 
@@ -106,31 +104,31 @@ The range lists two numbers. The first is the weapon's normal range in feet, and
 
 ---
 
-#### :weapon-prop-reach:{ .lg } Reach
+### :weapon-prop-reach:{ .lg .pad-r } Reach
 
-This weapon adds 5 feet to your reach when you attack with it. This property also determines your reach for opportunity attacks with a reach weapon.
+This weapon adds 5 feet to your reach when you attack with it. This property also determines your reach for :rsc-r: Opportunity Attacks with a reach weapon.
 
 ---
 
-#### :weapon-prop-reload:{ .lg } Reload
+### :weapon-prop-reload:{ .lg .pad-r } Reload
 
 This weapon can be used to make a number of attacks before it must be reloaded. If you are proficient with the weapon, reloading it takes a :rsc-b: **Bonus Action**; otherwise, reloading it takes an :rsc-a: **Action**. Some weapons require an :rsc-a: **Action** or longer to reload, even if you have Proficiency, which is specified in the Reload property. If reloading a weapon requires longer than one action, the weapon can't be used to make attacks until reloading is finished.
 
 ---
 
-#### :weapon-prop-scatter:{ .lg } Scatter
+### :weapon-prop-scatter:{ .lg .pad-r } Scatter
 
 If you make an attack against a target that is within half this weapon's normal range (round up), you deal the damage value listed in parenthesis instead of the weapon's normal damage dice.
 
 ---
 
-#### :weapon-prop-sighted:{ .lg } Sighted
+### :weapon-prop-sighted:{ .lg .pad-r } Sighted
 
 This weapon has :d20-disadv: **Disadvantage** on attack rolls made against targets within 20 feet and has :d20-adv: **Advantage** against target that has not moved at least 15 feet for this before the start of your current turn.
 
 ---
 
-#### :weapon-prop-thrown:{ .lg } Thrown
+### :weapon-prop-thrown:{ .lg .pad-r } Thrown
 
 You can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon.
 
@@ -138,13 +136,13 @@ You can throw the weapon to make a ranged attack. If the weapon is a melee weapo
 
 ---
 
-#### :weapon-prop-two-handed:{ .lg } Two-Handed
+### :weapon-prop-two-handed:{ .lg .pad-r } Two-Handed
 
 This weapon requires two hands when you attack with it. This property is relevant only when you attack with the weapon, not when you simply hold it.
 
 ---
 
-#### :weapon-prop-versatile:{ .lg } Versatile
+### :weapon-prop-versatile:{ .lg .pad-r } Versatile
 
 This weapon can be used with one or two hands. A damage value in parentheses appears with the property--the damage when the weapon is used with two hands to make a melee attack.
 
@@ -156,49 +154,47 @@ Each weapon has a mastery property, which is usable only by a character who has 
 
 If a game feature lets you replace a weapon's Mastery property with another one, that weapon must meet any prerequisite specified for the new property.
 
----
+### Cleave
 
-#### Cleave
-
-**Prerequisite:** Melee Weapon, :weapon-prop-heavy: **Heavy** property
+**Prerequisite:** Melee Weapon, :weapon-prop-heavy: ^^Heavy^^ property
 
 If you hit a creature with a melee attack using this weapon, you can make an attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon's damage, but don't add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.
 
 ---
 
-#### Graze
+### Graze
 
-**Prerequisite:** Melee Weapon, :weapon-prop-heavy: **Heavy** property
+**Prerequisite:** Melee Weapon, :weapon-prop-heavy: ^^Heavy^^ property
 
 If your attack roll with this weapon misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the attack roll. This damage is the same type dealt by the weapon, and the damage can't be increased in any way, other than increasing the ability modifier.
 
 ---
 
-#### Nick
+### Nick
 
-**Prerequisite:** :weapon-prop-light: **Light** property
+**Prerequisite:** :weapon-prop-light: ^^Light^^ property
 
-When you make the extra attack of the :weapon-prop-light: Light property, you can make it as part of the Attack action instead of as a Bonus Action. You can make this extra attack only once per turn.
+When you make the extra attack of the :weapon-prop-light: ^^Light^^ property, you can make it as part of the Attack action instead of as a Bonus Action. You can make this extra attack only once per turn.
 
 ---
 
-#### Push
+### Push
 
-**Prerequisite:** :weapon-prop-heavy: **Heavy**, :weapon-prop-two-handed: Two-Handed, or :weapon-prop-versatile: Versatile property
+**Prerequisite:** :weapon-prop-heavy: ^^Heavy^^, :weapon-prop-two-handed: ^^Two-Handed^^, or :weapon-prop-versatile: ^^Versatile^^ property
 
 If you hit a creature with this weapon, you can push the creature up to 10 feet straight away from yourself if it is Large or smaller.
  
 ---
 
-#### Sap
+### Sap
 
-**Prerequisite:** :weapon-prop-versatile: **Versatile** property or No Weapon property
+**Prerequisite:** :weapon-prop-versatile: ^^Versatile^^ property or No Weapon property
 
 If you hit a creature with this weapon, that creature has :d20-disadv: **Disadvantage** on its next attack roll before the start of your next turn.
 
 ---
 
-#### Slow
+### Slow
 
 **Prerequisite:** None
 
@@ -206,17 +202,17 @@ If you hit a creature with this weapon and deal damage to the creature, you can 
 
 ---
 
-#### Topple
+### Topple
 
-**Prerequisite:** :weapon-prop-heavy: **Heavy**, :weapon-prop-reach: **Reach**, or :weapon-prop-versatile: **Versatile** property
+**Prerequisite:** :weapon-prop-heavy: ^^Heavy^^, :weapon-prop-reach: ^^Reach^^, or :weapon-prop-versatile: ^^Versatile^^ property
 
 If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw with a DC equal to 8 + your Proficiency Bonus + the ability modifier used to make the attack roll. On a failed save, the creature has the Prone condition.
 
 ---
 
-#### Vex
+### Vex
 
-**Prerequisite:** :weapon-prop-ammunition: **Ammunition**, :weapon-prop-finesse: **Finesse**, or :weapon-prop-light: **Light** property
+**Prerequisite:** :weapon-prop-ammunition: ^^Ammunition^^, :weapon-prop-finesse: ^^Finesse^^, or :weapon-prop-light: ^^Light^^ property
 
 If you hit a creature with this weapon and deal damage to the creature, you have :d20-adv: **Advantage** on your next attack roll against that creature before the end of your next turn.
 
@@ -226,9 +222,7 @@ If you hit a creature with this weapon and deal damage to the creature, you have
 
 These properties are usually found in special weapons.
 
----
-
-#### Adamantine
+### Adamantine
 
 Melee weapons and ammunition made of or coated with Adamantine are unusually effective when used to break objects. Whenever an *adamantine weapon* or piece of *adamantine ammunition* hits an object, the hit is a Critical Hit.
 
@@ -236,7 +230,7 @@ The adamantine version of a melee weapon or of ten pieces of ammunition costs 5,
 
 ---
 
-#### Silvered
+### Silvered
 
 Melee weapons and ammunition made of or coated with Silver deals additional damage die against creature Vulnerable to Silvered weapons
 

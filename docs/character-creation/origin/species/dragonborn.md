@@ -16,7 +16,7 @@ As a Dragonborn, you have these special traits.
 
 ### Draconic Ancestry
 
-    You have an ancestry tied to a specific aeiginae. Choose the kind of dragon or aeginae^*CM*^ from the Draconic Ancestors or Aeginae Ancestry^*CM*^ table. Your choice affects your ***Breath Weapon*** and ***Damage Resistance*** traits as well as your appearance.
+You have an ancestry tied to a specific aeiginae. Choose the kind of dragon or aeginae^*CM*^ from the Draconic Ancestors or Aeginae Ancestry^*CM*^ table. Your choice affects your ***Breath Weapon*** and ***Damage Resistance*** traits as well as your appearance.
 
 === "Draconic Ancestors"
 
@@ -74,6 +74,9 @@ When you reach character level 5, you can channel draconic magic to gice yoursel
 
 Your wings appear to be made of the same energy as your Breath Weapon. Once you use this trait, you can't use it again until you finish a Long Rest.
 
+
+<!--
+
 ## Lore
 
 --8<-- "docs/character-creation/origin/species/index.md:species-warning"
@@ -83,3 +86,5 @@ Dragonborn are a proud species, valuing clan loyalty and personal prowess above 
 Now, with the Aeginae all but extinct, the Dragonborn remain resolute in their desire for independence. Determined to maintain self-sufficiency, they refuse to owe allegiance to anyone—not even the gods, and certainly not the Spires.
 
 Most Dragonborn are found either aboard the Karakorum Arks or in Soterrano, where they live between 80 to 100 years. Their physical traits make them uniquely suited to harsh environments, where other species might perish. While they are often perceived as intimidating or gruff by unfamiliar races, a Dragonborn’s greatest gift to an ally is their unwavering loyalty. Their sense of humour is equally dry, no matter where they are from.
+
+--> 

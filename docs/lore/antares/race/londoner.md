@@ -1,4 +1,5 @@
 ---
+title: Londoners (Lore)
 search:
   boost: 0.25
 ---
@@ -7,15 +8,15 @@ search:
 
 *"Forsan et haec olim meminisse iuvabit"*  
 
-Londoners are a race of sapient mammalian aliens resembling great apes that are not native to Antares. They bear a strong resemblance to humans but are physically weaker by Antares' standards, leading them to be classified as “Abhumans.” Despite this physical limitation, Londoners are known for their extraordinary adaptability, creativity, cunning, determination, resilience, and tenacity against overwhelming odds—qualities that often surpass those of other races on Antares.
+Londoners are a race of sapient mammalian aliens resembling great apes that are not native to Antares. They bear a strong resemblance to humans but are physically, significantly weaker, leading them to be classified as “Abhumans.” Despite this physical limitation, Londoners are known for their extraordinary adaptability, creativity, cunning, determination, resilience, and tenacity against overwhelming odds—qualities that often surpass those of other races on Antares.
 
-With no innate connection to the Weave, the concept of magic is foreign to Londoners. However, their advanced technological capabilities more than make for this. Known for their ingenuity, Londoners excel in innovation, construction, and the deployment of complex devices, which they have adapted to navigate and thrive in a world dominated by magic.
+With no innate connection to the Weave, the concept of magic is foreign to them. However, their advanced technological capabilities more than make for this. Known for their ingenuity, Londoners excel in innovation, construction, and the deployment of complex machines, which they have adapted to navigate and thrive in a world dominated by magic.
 
 Most Londoners are, as their name suggests, born in Albion, though this nation has a notably diverse population, with Londoners remaining the majority. Unlike other races, Londoners lack a bias toward insular communities and often accept individuals (with heavy prejudice) from other races into their society—a practice almost unheard of in Antares. This openness has proven both advantageous and disasterous for Londoners.
 
 ## Pessimistic Outlook
 
-Unlike other races, who would have bloated view about themselves, Londoners maintain a deeply pessimistic view of both themselves and the world around them. This outlook is shaped by a long history of conflicts that nearly brought their people to extinction, fostering a general tendency to expect the worst from others. Despite this pessimism, however, it heavily contradicts with their tenacity, while others would break under hopeless situation, they would be more emboldened the more hopeless the situation is.
+Unlike other races, who would have bloated view about themselves, Londoners maintain a deeply pessimistic view of both themselves and the world around them. This outlook is shaped by a long history of conflicts that nearly brought their species to extinction, fostering a general tendency to expect the worst from others. Despite this pessimism, however, it heavily contradicts with their tenacity, while others would break under hopeless situation, they would be more emboldened the more hopeless the situation is.
 
 ## Discipline
 

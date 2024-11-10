@@ -166,7 +166,7 @@ If your attack misses, the spell fails and has no effect. On a hit, the spell ta
 
 :d20-save: ***Saving Throw*** 
 
-:   If the spell requires a saving throw when cast, the target makes the first save at a :d20-disadv: Disadvantage on hit. If you score a Critical Hit on the attack, the target automatically fails the save. Other target (if any) make this save as normal.
+:   If the spell requires a saving throw when cast, the target makes the first save at a :d20-disadv: **Disadvantage** on hit. If you score a Critical Hit on the attack, the target automatically fails the save. Other target (if any) make this save as normal.
 
 :d20-attack: ***Attack Roll*** 
 

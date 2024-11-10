@@ -58,6 +58,7 @@ You don't need to sleep, and magic can't put you to sleep. You can finish a Long
 | Sea Elf^*CM*^ | You have Swim speed equals to your :rsc-speed: Speed and :dmg-res: Resistance to :dmg-cold: Cold damage | *Create or Destroy Water* | *Water Walk* |
 | Wood Elf | Your :rsc-speed: Speed increases to 35 feet. You also know the *Druidcraft* cantrip. | *Longstrider* | *Pass without Trace* |
 
+<!--
 ## Lore
 
 --8<-- "docs/character-creation/origin/species/index.md:species-warning"
@@ -72,3 +73,5 @@ Once heirs to the Ancient Forest, high elves are masters of spellcraft and natur
 
 ***Wood Elf***  
 Your kind once tended to the beautiful and lush Ancient Forest. Now, your once slender hands are now covered in soot and calloused from tending to the Generator; the only thing keeping you and your people from being frozen and buried under the snow of the Antares' northern waste. Centuries of training and natural talent in archery and camouflage in the forest have proven to be suprisingly useful skills in Arctic environment.
+
+-->

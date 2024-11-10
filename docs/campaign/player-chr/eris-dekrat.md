@@ -47,7 +47,7 @@ On a hit, the spell takes effect immediately in addition of the normal effects a
 
 :d20-save: ***Saving Throw*** 
 
-:   If the spell requires a saving throw when cast, the target makes the first save at a :d20-disadv: Disadvantage on hit. If you score a Critical Hit on the attack, the target automatically fails the save. Other target (if any) make this save as normal.
+:   If the spell requires a saving throw when cast, the target makes the first save at a :d20-disadv: **Disadvantage** on hit. If you score a Critical Hit on the attack, the target automatically fails the save. Other target (if any) make this save as normal.
 
 :d20-attack: ***Attack Roll*** 
 
@@ -120,7 +120,7 @@ When it is cast this way, you gain additional benefits against your Quarry:
 
 ***Mage Breaker.*** Your Quarry has :d20-disadv: **Disadvantage** on Concentration Checks against your attacks.
 
-***New Sneak Attack.*** You gain an additional way to use your Sneak Attack: You can add your Sneak Attack damage the damage roll on your weapon attack against your Quarry as long as you don't have :d20-disadv: Disadvantage on the attack. 
+***New Sneak Attack.*** You gain an additional way to use your Sneak Attack: You can add your Sneak Attack damage the damage roll on your weapon attack against your Quarry as long as you don't have :d20-disadv: **Disadvantage** on the attack. 
 
 ***No Concentration.*** The spell does not require you to :spell-concentration: Concentrate on it, though it ends early if you have the Incapacitated condition. All other rules, such as the spell's Duration still applies.
 

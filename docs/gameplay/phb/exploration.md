@@ -16,7 +16,7 @@ Some adventuring tasks—such as noticing dangers, hitting an enemt, and targeti
 
 ### Obscured Areas
 
-An area might be Lightly or Heavily Obscured. In a Lightly Obscured area—such as an area with Dim Light, patchy fog, or moderate foliage—you have :d20-disadv: Disadvantage on Wisdom (Perception) checks that rely on sight.
+An area might be Lightly or Heavily Obscured. In a Lightly Obscured area—such as an area with Dim Light, patchy fog, or moderate foliage—you have :d20-disadv: **Disadvantage** on Wisdom (Perception) checks that rely on sight.
 
 A Heavily Obscured Area—such as an area with Darkness, heavy fog, or dense foliage—is opaque. You have the Blinded condition when trying to see something there.
 
@@ -36,7 +36,7 @@ Dim Light, also called shadows creates a Lightly Obscured area. An area of Dim L
 
 Darkness creates a Heavily Obscured area. Characters face Darkness outdoors at night (even most moonlit night), within the confines of an unlit dungeon, or in area of magical Darkness.
 
-#### Special Senses
+## Special Senses
 
 Some creatures have special senses that help them perceive things in certain situations as follow:
 

@@ -16,7 +16,7 @@ These Origin feats are made for Crown & Misery campaign.
 You have spent many days tinkering with various inventions, tool sets, and arcane forces. You gain the following benefits:
 
 **Tool Proficiency**  
-You gain proficiency with Tinker's Tools. If you are already proficient, then whenever you make an ability check with tinker's tools you treat a d20 roll of 9 or lower as a 10.
+You gain proficiency with Tinker's Tools. If you are already proficient, then whenever you make an ability check with Tinker's Tools you treat a d20 roll of 9 or lower as a 10.
 
 **Infusions**  
 You learn one Infusion of your choice from those available to the Artificer class. At the end of each long rest, you can infuse this Infusion into one object, following the Infusion rules outlined by the Artificer class.
@@ -140,7 +140,7 @@ While you may not be a true Sorcerer, within you dwells a small spark of arcane 
 You learn one Cantrip and two level 1 spells of your choice from the Sorcerer spell list, and you use Charisma as your spellcasting ability for all three Sorcerer spells.
 
 **Sorcery Points**  
-You gain 2 :class-phb24-sorcerer: **Sorcery Point(s)**, which you can convert to any level 1 spell slot as a :rsc-b: **Bonus Action**. Should you already have Sorcery Points, these are added to your existing pool. You regain all your Sorcery Points from this feat when you finish a Long Rest.
+You gain 2 :class-phb24-sorcerer: **Sorcery Point(s)**, which you can convert to a level 1 spell slot as a :rsc-b: **Bonus Action**. Should you already have Sorcery Points, these are added to your existing pool. You regain all your Sorcery Points from this feat when you finish a Long Rest.
 
 ---
 

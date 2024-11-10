@@ -20,7 +20,7 @@ You have :dmg-res: Resistance to :dmg-necrotic: Necrotic damage and :dmg-radiant
 
 ### Darkvision
 
-You have Darkvision with a range of 60 feet.
+You have :sense-darkvison: Darkvision with a range of 60 feet.
 
 ### Healing Hands
 
@@ -28,7 +28,7 @@ As a :rsc-a: **Magic** action, you touch a creature and roll a number of :die-d4
 
 ### Light Bearer
 
-You know the *Light* cantrip. Charisma is your spellcasting ability for it.
+You know the :spell-level-0: *Light* cantrip. Charisma is your spellcasting ability for it.
 
 ### Celestial Revelation
 

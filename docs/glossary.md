@@ -13,92 +13,161 @@ These are Rule Glossary, keep in mind some rule glossary has been changed to sui
 
 ---
 
-### Ability Score and Modifier
+## Ability Score and Modifier
 
 A creature has six ability scores—Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma—each of which has a corresponding modifier. Add the modifier when you make a D20 Test Test with the corresponding ability or when a rule asks you to do so.
 
 ---
 
-### Advantage
+## Advantage
 
 If you have Advantage on a D20 Test, roll two d20s, and use the higher roll. A roll can't be affected by more than one Advantage, and Advantage and Disadvantage on the same roll cancel each other.
 
 ---
 
-### Adventure
+## Adventure
 
 An adventure is a series of encounters. A story emerges through playing them.
 
 ---
 
-### Alignment
+## Alignment
 
 A creature's alignment broadly describes its ethical attitudes and ideals. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward order (lawful, chaotic, or neutral). These factors allow for nine possible combinations, such as Lawful Good and Neutral Evil.
 
 ---
 
-### Ally
+## Ally
 
 A creature is your ally if it is a member of your adventuring party, your friend, on your side in combat, or a creature that the rules or the DM designates as your ally.
 
 ---
 
-### Area of Effect
+## Area of Effect
 
-The descriptions of many spells and other features specify that they have an area of effect, which typically has one of six shapes. These shapes are defined elsewhere in this glossary:
-
-- Cone
-- Cube
-- Cylinder
-- Emanation
-- Line
-- Sphere
+The descriptions of many spells and other features specify that they have an area of effect, which typically has one of **six** shapes. 
 
 An area of effect has a point of origin, a location from which the effect's energy erupts. The rules for each shape specify how to position its point of origin. If all straight lines extending from the point of origin to a location in the area of effect are blocked, that location isn't included in the area of effect. To block a line, an obstruction must provide Total Cover.
 
 If the creator of an area of effect places it at an unseen point and an obstruction—such as a wall—is between the creator and that point, the point of origin comes into being on the near side of the obstruction.
 
+These **six** shapes are defined as follow:
+
+### Cone 
+
+<!-- --8<-- [start:aoe-cone] -->
+
+A Cone is an **area of effect** that extends in straight lines from a point of origin in a direction its creator chooses. A Cone's width at any point along its length is equal to that point's distance from the point of origin. For example, a Cone is 15 feet wide at a point along its length that is 15 feet from the point of origin. The effect that creates a Cone specifies its maximum length.
+
+A Cone's point of origin isn't included in the area of effect unless its creator decides otherwise.
+
+<!-- --8<-- [end:aoe-cone] -->
+
+### Cube 
+
+<!-- --8<-- [start:aoe-cube] -->
+
+A Cube is an **area of effect** that extends in straight lines from a point of origin located anywhere on a face of the Cube. The effect that creates a Cube specifies its size, which is the length of each side. A Cube's point of origin isn't included in the area of effect unless its creator decides otherwise.
+
+<!-- --8<-- [end:aoe-cube] -->
+
+### Cylinder 
+
+<!-- --8<-- [start:aoe-cylinder] -->
+
+A Cylinder is an **area of effect** that extends in straight lines from a point of origin located at the center of the circular top or bottom of the Cylinder. The effect that creates a Cylinder specifies the radius of the Cylinder's base and the Cylinder's height.
+
+A Cylinder's point of origin is included in the area of effect.
+
+<!-- --8<-- [end:aoe-cylinder] -->
+
+### Emanation 
+
+<!-- --8<-- [start:aoe-emanation] -->
+
+An Emanation is an **area of effect** that extends in straight lines from a creature or an object in all directions. The effect that creates an Emanation specifies the distance it extends.
+
+An Emanation moves with the creature or object that is its origin unless it is an instantaneous or a stationary effect.
+
+An Emanation's origin (creature or object) isn't included in the area of effect unless its creator decides otherwise.
+
+<!-- --8<-- [end:aoe-emanation] -->
+
+### Line 
+
+<!-- --8<-- [start:aoe-line] -->
+
+A Line is an **area of effect** that extends from a point of origin in a straight path along its length and covers an area defined by its width. The effect that creates a Line specifies its length and width.
+
+A Line's point of origin isn't included in the area of effect unless its creator decides otherwise.
+
+<!-- --8<-- [end:aoe-line] -->
+
+### Sphere 
+
+<!-- --8<-- [start:aoe-sphere] -->
+
+A Sphere is an **area of effect** that extends in straight lines from a point of origin outward in all directions. The effect that creates a Sphere specifies the distance it extends as the radius of the Sphere.
+
+A Sphere's point of origin is included in the Sphere's area of effect.
+
+<!-- --8<-- [end:aoe-sphere] -->
+
 ---
 
-### Armour Class
+## Armour Class
 
 An Armour Class (AC) is the target number for an attack roll. AC represents how difficult it is to hit a target.
 
 Your base AC calculation is 10 plus your Dexterity modifier. If a rule gives you another base AC calculation, you choose which calculation to use; you can't use more than one.
 
+For an attack to hit, the attack result needs to be equal or greater than the number AC.
+
 ---
 
-### Armour Training
+## Armour Training
 
 Armour training allows you to use armour of a certain category without the following drawbacks. If you wear Light, Medium, or Heavy armour and lack training with it, you have Disadvantage on any D20 Test that involves Strength or Dexterity, and you can't cast spells. If you use a *Shield* and lack training with it, you don't gain its AC bonus.
 
 ---
 
-### Attitude
+## Attitude
 
 A monster has a starting attitude toward a player character: Friendly, Hostile, or Indifferent.
 
+### Friendly
+
+A Friendly creature views you favorably. You have Advantage on an ability check to influence a Friendly creature.
+
+### Hostile
+
+A Hostile creature views you unfavorably. You have Disadvantage on an ability check to influence a Hostile creature.
+
+### Indifferent 
+
+An Indifferent creature has no desire to help or hinder you. Indifferent is the default attitude of a monster.
+
 ---
 
-### Attunement
+## Attunement
 
 Some magic items require a creature to form a bond—called Attunement—with them before the creature can use an item's magical properties. A creature can have Attunement with no more than three magic items at a time.
 
 ---
 
-### Bloodied
+## Bloodied
 
 A creature is Bloodied while it has half its Hit Points or fewer remaining.
 
 ---
 
-### Bonus Action
+## Bonus Action
 
 A Bonus Action is a special action that you can take on the same turn that you take an action. You can't take more than one Bonus Action on a turn, and you have a Bonus Action to take only if a rule explicitly says so.
 
 ---
 
-### Breaking Objects
+## Breaking Objects
 
 <!-- --8<-- [start:breaking-objects] -->
 
@@ -106,7 +175,7 @@ Objects can be harmed by attacks and by some spells, using the rules below. If a
 
 ***Armour Class.*** The Object Armour Class table suggests ACs for various substances.
 
-###### Object Armour Class
+##### Object Armour Class
 
 | AC | Substance |
 |:-:|---|
@@ -120,7 +189,7 @@ Objects can be harmed by attacks and by some spells, using the rules below. If a
 
 ***Hit Points.*** An object is destroyed when it has 0 Hit Points. The Object Hit Points table suggests Hit Points for fragile and resilient objects that are Large or smaller. To track Hit Points for a Huge or Gargantuan object, divide it into Large or smaller sections, and track each section's Hit Points separately. The DM determines whether destroying part of an object causes the whole thing to collapse.
 
-###### Object Hit Points
+##### Object Hit Points
 
 | Size | Fragile | Resilient |
 |---|---|---|
@@ -139,25 +208,25 @@ Objects can be harmed by attacks and by some spells, using the rules below. If a
 
 ---
 
-### Bright Light
+## Bright Light
 
 Bright Light is normal illumination.
 
 ---
 
-### Campaign
+## Campaign
 
 A campaign is a series of adventures.
 
 ---
 
-### Cantrip
+## Cantrip
 
 A cantrip is a level 0 spell, which is cast without a spell slot.
 
 ---
 
-### Carrying Capacity
+## Carrying Capacity
 
 <!-- --8<-- [start:carrying-capacity] -->
 
@@ -193,25 +262,25 @@ While dragging, lifting, or pushing weight in excess of the maximum weight you c
 
 ---
 
-### Challenge Rating
+## Challenge Rating
 
 Challenge Rating (CR) summarizes the threat a monster poses to a group of four player characters. Compare a monster's CR to the characters' level. If the CR is higher, the monster is likely a danger. If the CR is lower, the monster likely poses little threat. But circumstances and the number of player characters can significantly alter how threatening a monster is in actual play. The *Dungeon Master's Guide* provides guidance to the DM on using CR while planning potential combat encounters.
 
 ---
 
-### Character Sheet
+## Character Sheet
 
 A character sheet is a paper or digital record that you use to track your character's information.
 
 ---
 
-### Climbing
+## Climbing
 
 While you're climbing, each foot of movement costs 1 extra foot 2 extra feet in difficult terrain. You ignore this extra cost if you have a Climb Speed and use it to climb. At the DM's option, climbing a slippery surface or one with few handholds might require a successful DC 15 Strength (Athletics) check.
 
 ---
 
-### Condition
+## Condition
 
 A condition is a temporary game state. The definition of a condition says how it affects its recipient, and various rules define how to end a condition. This glossary defines these conditions:
 
@@ -234,19 +303,7 @@ A condition doesn't stack with itself; a recipient either has a condition or doe
 
 ---
 
-### Cone 
-
-<!-- --8<-- [start:aoe-cone] -->
-
-A Cone is an **area of effect** that extends in straight lines from a point of origin in a direction its creator chooses. A Cone's width at any point along its length is equal to that point's distance from the point of origin. For example, a Cone is 15 feet wide at a point along its length that is 15 feet from the point of origin. The effect that creates a Cone specifies its maximum length.
-
-A Cone's point of origin isn't included in the area of effect unless its creator decides otherwise.
-
-<!-- --8<-- [end:aoe-cone] -->
-
----
-
-### Cover
+## Cover
 
 Cover provides a degree of protection to a target behind it. There are three degrees of cover, each of which provides a different benefit to a target as stated in the Cover table
 
@@ -260,19 +317,19 @@ Cover provides a degree of protection to a target behind it. There are three deg
 
 ---
 
-### Crawling
+## Crawling
 
 While you're crawling, each foot of movement costs 1 extra foot (2 extra feet in difficult terrain).
 
 ---
 
-### Creature
+## Creature
 
 Any being in the game, including a a player's character, is a creature.
 
 ---
 
-### Creature Type
+## Creature Type
 
 Every creature, including every player character, has a tag in the rules that identifies the type of creature it is. Most player characters are of the Humanoid type. These are the game's creature types:
 
@@ -294,7 +351,7 @@ The types don't have rules themselves, but some rules in the game affect creatur
 
 ---
 
-### Critical Hit
+## Critical Hit
 
 If you roll a 20 on the d20 for an attack roll, you score a Critical Hit, and the attack hits regardless of any modifiers or the target's AC. A Critical Hit lets you roll extra dice for the attack's damage against the target. Roll all of the attack's damage dice twice and add them together. Then add any relevant modifiers.
 
@@ -302,77 +359,55 @@ In Crown & Misery, a critical hit means total damage result is doubled.
 
 ---
 
-### Cube 
-
-<!-- --8<-- [start:aoe-cube] -->
-
-A Cube is an **area of effect** that extends in straight lines from a point of origin located anywhere on a face of the Cube. The effect that creates a Cube specifies its size, which is the length of each side. A Cube's point of origin isn't included in the area of effect unless its creator decides otherwise.
-
-<!-- --8<-- [end:aoe-cube] -->
-
----
-
-### Curses
+## Curses
 
 Some game effects curse a creature or an object. The effect that confers a curse defines what the curse does. Curses can be removed by the *Remove Curse* and *Greater Restoration* spells or other magic that explicitly ends curses.
 
 ---
 
-### Cylinder 
-
-<!-- --8<-- [start:aoe-cylinder] -->
-
-A Cylinder is an **area of effect** that extends in straight lines from a point of origin located at the center of the circular top or bottom of the Cylinder. The effect that creates a Cylinder specifies the radius of the Cylinder's base and the Cylinder's height.
-
-A Cylinder's point of origin is included in the area of effect.
-
-<!-- --8<-- [end:aoe-cylinder] -->
-
----
-
-### D20 Test
+## D20 Test
 
 D20 Tests encompass the three main d20 rolls of the game: **Ability Checks**, **Attack Rolls**, and **Saving Throws**. If something in the game affects D20 Tests, it affects all three of these rolls. The DM determines whether a D20 Test is warranted in a given circumstance.
 
 It is comprised of three types of roll.
 
-#### Ability Check
+### Ability Check
 
 An :d20-check: **Ability Check** is a D20 Test that represents using one of the six abilities—or a specific skill associated with an ability—to overcome a challenge.
 
-#### Attack Roll
+### Attack Roll
 
 An :d20-attack: **Attack Roll** is a D20 Test that represents making an attack with a weapon, an Unarmed Strike (Damage), or a spell.
 
-#### Saving Throw
+### Saving Throw
 
 A :d20-save: **Saving Throw**—also called a save—represents an attempt to avoid or resist a threat. You normally make a saving throw only when a rule requires you to do so, but you can decide to fail the save without rolling. The result of a save is detailed in the effect that allowed it. If a target is forced to make a save and lacks the ability score used by it, the target automatically fails.
 
 ---
 
-### Damage
+## Damage
 
 Damage represents harm that causes a creature or an object to lose Hit Points.
 
 ---
 
-### Damage Roll
+## Damage Roll
 
 A damage roll is a die roll, adjusted by any applicable modifiers, that deals damage to a target.
 
 ---
 
-### Damage Threshold
+## Damage Threshold
 
 A creature or an object that has a damage threshold has Immunity to all damage unless it takes an amount of damage from a single attack or effect equal to or greater than its damage threshold, in which case it takes that entire instance of damage. Any damage that fails to meet or exceed the damage threshold is superficial and doesn't reduce Hit Points. For example, if an object has a damage threshold of 10, the object takes no damage if 9 damage is dealt to it, since that damage fails to exceed the threshold. If the same object is dealt 11 damage, it takes all of that damage.
 
 ---
 
-### Damage Types
+## Damage Types
 
 Attacks and other harmful effects deal different types of damage. Damage types have no rules of their own, but other rules, such as Resistance, rely on the types. The Damage Types table offers examples to help a DM assign a type to a new effect.
 
-###### Damage Types
+##### Damage Types
 | Type        | Examples                             |
 |-------------|--------------------------------------|
 | Acid        | Corrosive liquids, digestive enzymes |
@@ -391,13 +426,19 @@ Attacks and other harmful effects deal different types of damage. Damage types h
 
 ---
 
-### Darkness
+## Darkness
 
 An area of Darkness is Heavily Obscured.
 
 ---
 
-### Dead
+## Darkvision
+
+If you have Darkvision, you can see in Dim Light within a specified range as if it were Bright Light and in Darkness within that range as if it were Dim Light. You discern colors in that Darkness only as shades of gray.
+
+---
+
+## Dead
 
 A dead creature has no Hit Points and can't regain them unless it is first revived by magic such as the *Raise Dead* or *Revivify* spell. When such a spell is cast, the spirit knows who is casting it and can refuse. The spirit of a dead creature has left the body and departed for the Outer Planes, and reviving the creature requires calling the spirit back.
 
@@ -405,13 +446,20 @@ If the creature returns to life, the revival effect determines the creature's cu
 
 ---
 
-### Death Saving Throw
+## Death Saving Throws
 
-A player character must make a Death Saving Throw (also called a Death Save) if they start their turn with 0 Hit Points.
+When you start your turn with 0 HP, roll 1d20, and you succeed on a 10+.
+
+- **Third Success.** You become Stable.
+- **Third Failure.** You die.
+- **Rolling a 1.** Counts as two failures.
+- **Rolling a 20.** You regain 1 Hit Point.
+
+If you take damage at 0 HP, it counts as a failed Death Save or two failures if the damage is from a Critical Hit.
 
 ---
 
-### Difficult Terrain
+## Difficult Terrain
 
 If a space is *Difficult Terrain*, every foot of movement in that space costs 1 extra foot. For example, moving 5 feet through Difficult Terrain costs 10 feet of movement. Difficult Terrain isn't cumulative; either a space is Difficult Terrain or it isn't.
 
@@ -426,57 +474,43 @@ A space is Difficult Terrain if the space contains any of the following or somet
 
 ---
 
-### Difficulty Class
+## Difficulty Class
 
 A Difficulty Class (DC) is the target number for an ability check or a saving throw.
 
 ---
 
-### Dim Light
+## Dim Light
 
 An area with Dim Light is Lightly Obscured.
 
 ---
 
-### Disadvantage
+## Disadvantage
 
 If you have Disadvantage on a D20 Test, roll two d20s and use the lower roll. A roll can't be affected by more than one Disadvantage, and Advantage and Disadvantage on the same roll cancel each other.
 
 ---
 
-### Emanation 
-
-<!-- --8<-- [start:aoe-emanation] -->
-
-An Emanation is an **area of effect** that extends in straight lines from a creature or an object in all directions. The effect that creates an Emanation specifies the distance it extends.
-
-An Emanation moves with the creature or object that is its origin unless it is an instantaneous or a stationary effect.
-
-An Emanation's origin (creature or object) isn't included in the area of effect unless its creator decides otherwise.
-
-<!-- --8<-- [end:aoe-emanation] -->
-
----
-
-### Encounter
+## Encounter
 
 An encounter is a scene in an adventure that is part of at least one of the game's three pillars: social interaction, exploration, or combat.
 
 ---
 
-### Enemy
+## Enemy
 
 A creature is your enemy if it fights against you in combat, actively works to harm you, or is designated as your enemy by the rules or DM.
 
 ---
 
-### Experience Points
+## Experience Points
 
 As they overcome challenges and complete adventures, characters earn Experience Points (XP) which are awarded by the Dungeon Master. When a character's XP total crosses certain thresholds, the character's level increases. The *Dungeon Master's Guide* provides guidance on awarding XP.
 
 ---
 
-### Expertise
+## Expertise
 
 Expertise is a feature that enhances your use of a skill proficiency. When you make an ability check with a skill proficiency in which you have Expertise, your Proficiency Bonus is doubled for that check unless the bonus is doubled by another feature.
 
@@ -484,13 +518,13 @@ If you gain Expertise, you gain it in one skill in which you have proficiency. Y
 
 ---
 
-### Flying
+## Flying
 
 A variety of effects allow a creature to fly. While flying, you fall if you have the Incapacitated or Prone condition or your Fly Speed is reduced to 0. You can stay aloft in those circumstances if you can hover.
 
 ---
 
-### Forced Movement
+## Forced Movement
 
 <!-- --8<-- [start:forced_movement] -->
 
@@ -502,13 +536,7 @@ If forced into hazardous terrain (e.g. pits or lava), the creature suffers any c
 
 ---
 
-### Friendly [Attitude]
-
-A Friendly creature views you favorably. You have advantage on an ability check to influence a Friendly creature.
-
----
-
-### Grappling
+## Grappling
 
 <!-- --8<-- [start:grappling] -->
 
@@ -524,11 +552,11 @@ A creature can grapple another creature. Characters typically grapple by using a
 
 ---
 
-### Hazards
+## Hazards
 
 Monsters are the main perils characters face, but other dangers awaits as follow:
 
-#### Burning
+### Burning
 
 <!-- --8<-- [start:haz-burning] -->
 
@@ -536,7 +564,7 @@ A burning creature or object takes 1d4 :dmg-fire: Fire damage at the start of ea
 
 <!-- --8<-- [end:haz-burning] -->
 
-#### Dehydration
+### Dehydration
 
 <!-- --8<-- [start:haz-dehydration] -->
 
@@ -555,7 +583,7 @@ A creature requires an amount of water per day based on its size, as shown in th
 
 <!-- --8<-- [end:haz-dehydration] -->
 
-#### Falling
+### Falling
 
 <!-- --8<-- [start:haz-falling] -->
 
@@ -565,7 +593,7 @@ A creature that falls into water or another liquid can use its REaction to make 
 
 <!-- --8<-- [end:haz-falling] -->
 
-#### Malnutrition
+### Malnutrition
 
 <!-- --8<-- [start:haz-malnutrition] -->
 
@@ -586,7 +614,7 @@ Exhaustion caused by malnutriion can;t be removed untul the creature eats the fu
 
 <!-- --8<-- [end:haz-malnutrition] -->
 
-#### Suffocation
+### Suffocation
 
 <!-- --8<-- [start:haz-suffocation] -->
 
@@ -596,19 +624,19 @@ A creature can hold its breath for a number of minute equal to 1 plus its Consti
 
 ---
 
-### Healing
+## Healing
 
 Healing is how you regain Hit Points.
 
 ---
 
-### Heavily Obscured
+## Heavily Obscured
 
 You have the Blinded condition while trying to see something in a Heavily Obscured space.
 
 ---
 
-### Heroic Inspiration
+## Heroic Inspiration
 
 If you (a player character) have Heroic Inspiration, you can expend it to reroll any die immediately after rolling it, and you must use the new roll.
 
@@ -616,7 +644,7 @@ If you gain Heroic Inspiration but already have it, it's lost unless you give it
 
 ---
 
-### High Jump
+## High Jump
 
 When you make a High Jump, you leap into the air a number of feet equal to 3 plus your Strength modifier (minimum of 0 feet) if you move at least 10 feet on foot immediately before the jump. When you make a standing High Jump, you can jump only half that distance. Either way, each foot of the jump costs a foot of movement.
 
@@ -624,31 +652,25 @@ You can extend your arms half your height above yourself during the jump. Thus, 
 
 ---
 
-### Hit Point Dice
+## Hit Point Dice
 
 Hit Point Dice, or Hit Dice for short, help determine a player character's Hit Point maximum, as explained in *chapter 2*. Most monsters also have Hit Dice. A creature can spend Hit Dice during a Short Rest to regain Hit Points.
 
 ---
 
-### Hit Points
+## Hit Points
 
 Hit Points (HP) are a measure of how difficult it is to kill or destroy a creature or an object. Damage reduces Hit Points, and healing restores them. You can't have more Hit Points than your Hit Point maximum, and you can't have less than 0.
 
 ---
 
-### Hostile [Attitude]
-
-A Hostile creature views you unfavorably. You have Disadvantage on an ability check to influence a Hostile creature.
-
----
-
-### Hover
+## Hover
 
 Some creatures can hover, as noted in their stat blocks, and some spells and other effects grant the ability to hover. Hovering while flying prevents you from falling in certain circumstances.
 
 ---
 
-### Illusions
+## Illusions
 
 Spells and other effects sometimes create magical illusions. Such an effect defines what the illusion does and which senses or mental faculties it deceives.
 
@@ -656,13 +678,13 @@ If an illusion manifests in space, the illusion is insubstantial and weightless,
 
 ---
 
-### Immunity
+## Immunity
 
 If you have Immunity to a damage type or a condition, it doesn't affect you in any way.
 
 ---
 
-### Improvised Weapons
+## Improvised Weapons
 
 An improvised weapon is an object wielded as a makeshift weapon, such as broken glass, a table leg, or a frying pan. A Simple or Martial weapon also counts as an improvised weapon if it's wielded in a way contrary to its design; if you use a Ranged weapon to make a melee attack or throw a Melee weapon that lacks the Thrown property, the weapon counts as an improvised weapon. An improvised weapon follows the rules below.
 
@@ -676,15 +698,9 @@ An improvised weapon is an object wielded as a makeshift weapon, such as broken 
 
 ---
 
-### Indifferent [Attitude]
-
-An Indifferent creature has no desire to help or hinder you. Indifferent is the default attitude of a monster.
-
----
-
 <!-- --8<-- [start:initiative] -->
 
-### Initiative
+## Initiative
 
 Initiative determines the order of turns during combat. Initiative is a Dexterity ability check.
 
@@ -694,13 +710,13 @@ Sometimes a DM might have combatants use their Initiative scores instead of roll
 
 ---
 
-### Jumping
+## Jumping
 
 When you jump, you make either a Long Jump (horizontal) or a High Jump (vertical).
 
 ---
 
-### Knocking Out a Creature
+## Knocking Out a Creature
 
 When you would reduce a creature to 0 Hit Points with a melee attack, you can instead reduce the creature to 1 Hit Point. The creature then has the Unconscious condition and starts a Short Rest.
 
@@ -708,25 +724,13 @@ The creature remains Unconscious until it regains any Hit Points or until someon
 
 ---
 
-### Lightly Obscured
+## Lightly Obscured
 
 You have Disadvantage on Wisdom (Perception) checks to see something in a Lightly Obscured space.
 
 ---
 
-### Line 
-
-<!-- --8<-- [start:aoe-line] -->
-
-A Line is an **area of effect** that extends from a point of origin in a straight path along its length and covers an area defined by its width. The effect that creates a Line specifies its length and width.
-
-A Line's point of origin isn't included in the area of effect unless its creator decides otherwise.
-
-<!-- --8<-- [end:aoe-line] -->
-
----
-
-### Long Jump
+## Long Jump
 
 When you make a Long Jump, you leap horizontally a number of feet up to your Strength score if you move at least 10 feet immediately before the jump. When you make a standing Long Jump, you can leap only half that distance. Either way, each foot you jump costs a foot of movement.
 
@@ -736,7 +740,7 @@ This Long Jump rule assumes that the height of the jump doesn't matter, such as 
 
 ---
 
-### Long Rest
+## Long Rest
 
 A Long Rest is a period of extended downtime—at least 8 hours—available to any creature. During a Long Rest, you sleep for at least 6 hours and perform no more than 2 hours of light activity, such as reading, talking, eating, or standing watch.
 
@@ -762,37 +766,37 @@ You can resume a Long Rest immediately after an interruption. If you do so, the 
 
 ---
 
-### Magical Effect
+## Magical Effect
 
 An effect is magical if it is created by a spell, a magic item, or a phenomenon that a rule labels as magical.
 
 ---
 
-### Monster
+## Monster
 
 A monster is a creature controlled by the DM, even if the creature is benevolent.
 
 ---
 
-### Nonplayer Character
+## Nonplayer Character
 
 A nonplayer character (NPC) is a monster that has a personal name and a distinct personality.
 
 ---
 
-### Object
+## Object
 
 An object is a nonliving, distinct thing. Composite things, like buildings, comprise more than one object.
 
 ---
 
-### Occupied Space
+## Occupied Space
 
 A space is occupied if a creature is in it or if it is completely filled by objects.
 
 ---
 
-### Passive Perception
+## Passive Perception
 
 Passive Perception is a score that reflects a creature's general awareness of its surroundings. The DM uses this score when determining whether a creature notices something without consciously making a Wisdom (Perception) check.
 
@@ -800,67 +804,67 @@ A creature's Passive Perception equals 10 plus the creature's Wisdom (Perception
 
 ---
 
-### Per Day
+## Per Day
 
 If a rule says you can use something a certain number of times per day, that means you must finish a Long Rest to use it again after you run out of uses.
 
 ---
 
-### Player Character
+## Player Character
 
 A player character is a character controlled by a player
 
 ---
 
-### Possession
+## Possession
 
 Some effects cause a creature to be possessed by another creature or entity. A possessing effect defines how the possession operates. Possession can be prevented by the *Protection from Evil and Good* spell and ended by the *Dispel Evil and Good* spell.
 
 ---
 
-### Proficiency
+## Proficiency
 
 If you have proficiency with something, you can add your Proficiency Bonus to any D20 Test you make using that thing. A creature might have proficiency in a skill or saving throw or with a weapon or tool.
 
 ---
 
-### Reaction
+## Reaction
 
 A Reaction is a special action taken in response to a trigger defined in the Reaction's description. You can take a Reaction on another creature's turn, and if you take it on your turn, you can do so even if you also take an action, a Bonus Action, or both. Once you take a Reaction, you can't take another one until the start of your next turn. The Opportunity Attack is a Reaction available to all creatures.
 
 ---
 
-### Resistance
+## Resistance
 
 If you have Resistance to a damage type, damage of that type is halved against you (round down). Resistance is applied only once to an instance of damage.
 
 ---
 
-### Ritual
+## Ritual
 
 If you have a spell prepared that has the Ritual tag, you can cast that spell as a Ritual. The Ritual version of a spell takes 10 minutes longer to cast than normal. It also doesn't expend a spell slot, which means the ritual version of a spell can't be cast at a higher level.
 
 ---
 
-### Round Down
+## Round Down
 
 Whenever you divide or multiply a number in the game, round down if you end up with a fraction, even if the fraction is one-half or greater. Some rules make an exception and tell you to round up.
 
 ---
 
-### Save
+## Save
 
 Save is another name for a saving throw.
 
 ---
 
-### Shape-Shifting
+## Shape-Shifting
 
 If an effect, such as Wild Shape or the *Polymorph* spell, lets you shape-shift, its description specifies what happens to you. Unless that description says otherwise, any ongoing effects on you—conditions, spells, curses, and the like—carry over from one form to the other. You revert to your true form if you die.
 
 ---
 
-### Short Rest
+## Short Rest
 
 A Short Rest is a 1-hour period of downtime, during which a creature does nothing more strenuous than reading, talking, eating, or standing watch. To start a Short Rest, you must have at least 1 Hit Point.
 
@@ -879,25 +883,75 @@ An interrupted Short Rest confers no benefits.
 
 ---
 
-### Simultaneous Effects
+## Simultaneous Effects
 
 If two or more things happen at the same time on a turn, the person at the game table—player or DM whose turn it is decides the order in which those things happen. For example, if two effects occur at the start of a player character's turn, the player decides which of the effects happens first.
 
 ---
 
-### Size
+## Size
 
 A creature or an object belongs to a size category: Tiny, Small, Medium, Large, Huge, or Gargantuan. A creature's size determines how much space the creature occupies in combat. An object's size affects its Hit Points.
 
 ---
 
-### Skill
+## Skill
 
 A skill is an *area of specialization* associated with an Ability Check. If you have proficiency in a skill, you can add your Proficiency Bonus when you make an ability check associated with that skill.
 
 ---
 
-### Speed
+## Special Senses
+
+A creature sometimes has senses other or enhanced senses, defined as follow:
+
+### Blindsight
+
+<!-- --8<-- [start:sense-blindsight] -->
+
+If you have Blindsight, you can see within a specific range without relying on physical sight. Within that range, you can see anything that isn't behind Total Cover even if you have the Blinded condition or are in Darkness. Moreover, in that range, you can see something that has the Invisible condition.
+
+<!-- --8<-- [end:sense-blindsight] -->
+
+### Darkvision
+
+<!-- --8<-- [start:sense-darkvision] -->
+
+If you have Darkvision, you can see in Dim Light within a specified range as if it were Bright Light and in Darkness within that range as if it were Dim Light. You discern colors in that Darkness only as shades of gray.
+
+<!-- --8<-- [end:sense-darkvision] -->
+
+### Truesight
+
+<!-- --8<-- [start:sense-truesight] -->
+
+If you have Truesight, your vision is enhanced within a specified range. Within that range, your vision pierces through the following:
+
+***Darkness***. You can see in normal and magical Darkness.
+
+***Invisibility.*** You see creatures and objects that have the Invisible condition.
+
+***Visual Illusions.*** Visual illusions appear transparent to you, and you automatically succeed on saving throws against them.
+
+***Transformations.*** You discern the true form of any creature or object you see that has been transformed by magic.
+
+***Ethereal Plane.*** You see into the Ethereal Plane.
+
+<!-- --8<-- [end:sense-truesight] -->
+
+### Tremorsense
+
+<!-- --8<-- [start:sense-tremorsense] -->
+
+A creature with Tremorsense can pinpoint the location of creatures and moving objects within a specific range, provided that the creature with Tremorsense and anything it is detecting are both in contact with the same surface (such as the ground, a wall, or a ceiling) or the same liquid.
+
+Tremorsense can't detect creatures or objects in the air, and it doesn't count as a form of sight.
+
+<!-- --8<-- [end:sense-tremorsense] -->
+
+---
+
+## Speed
 
 A creature has a :rsc-speed: **Speed**, which is the distance in feet the creature can cover when it moves on its turn.
 
@@ -905,61 +959,49 @@ A creature has a :rsc-speed: **Speed**, which is the distance in feet the creatu
 
 ***Changes to Your Speeds.*** If an effect increases or decreases your Speed for a time, any special speed you have increases or decreases by an equal amount for the same duration. For example, if your Speed is reduced to 0 and you have a Climb Speed, your Climb Speed is also reduced to 0. Similarly, if your Speed is halved and you have a Fly Speed, your Fly Speed is also halved.
 
-#### Burrow Speed
+### Burrow Speed
 
 A creature that has a Burrow Speed can use that speed to move through sand, earth, mud, or ice. The creature can't burrow through solid rock unless the creature has a trait that allows it to do so.
 
-#### Climb Speed
+### Climb Speed
 
 A Climb Speed can be used in place of Speed to traverse a vertical surface without expending the extra movement normally associated with climbing.
 
-#### Fly Speed
+### Fly Speed
 
 A Fly Speed can be used to travel through the air. While you have a Fly Speed, you can stay aloft until you land, fall, or die.
 
-#### Swim Speed
+### Swim Speed
 
 A Swim Speed can be used to swim without expending the extra movement normally associated with swimming.
 
 ---
 
-### Spell
+## Spell
 
-A spell is a magical effect that has the characteristics described in *chapter 7*.
+A spell is a magical effect that has the characteristics described in *[chapter 7](spells/gaining-spells.md)*.
 
 ---
 
-### Spell Attack
+## Spell Attack
 
 A spell attack is an attack roll made as part of a spell or another magical effect.
 
 ---
 
-### Spellcasting Focus
+## Spellcasting Focus
 
 A Spellcasting Focus is an object that certain creatures can use in place of a spell's Material components if those materials aren't consumed by the spell and don't have a cost specified. Some classes allow its members to use certain types of Spellcasting Focuses.
 
 ---
 
-### Sphere 
-
-<!-- --8<-- [start:aoe-sphere] -->
-
-A Sphere is an **area of effect** that extends in straight lines from a point of origin outward in all directions. The effect that creates a Sphere specifies the distance it extends as the radius of the Sphere.
-
-A Sphere's point of origin is included in the Sphere's area of effect.
-
-<!-- --8<-- [end:aoe-sphere] -->
-
----
-
-### Stable
+## Stable
 
 A creature is Stable if it has 0 Hit Points but isn't required to make Death Saving Throws.
 
 ---
 
-### Stat Block
+## Stat Block
 
 A stat block contains the game slatistics of a monster. Each stat block includes the following information presented after the monster's name.
 
@@ -1005,19 +1047,19 @@ A stat block contains the game slatistics of a monster. Each stat block includes
 
 ---
 
-### Swimming
+## Swimming
 
 While you're swimming, each foot of movement costs 1 extra foot (2 extra feet in difficult terrain). You ignore this extra cost if you have a Swim Speed and use it to swim. At the DM's option, moving any distance in rough water might require a successful DC 15 Strength (Athletics) check.
 
 ---
 
-### Target
+## Target
 
 A target is the creature or object targeted by an attack roll, forced to make a saving throw by an effect, or selected to receive the effects of a spell or another phenomenon.
 
 ---
 
-### Telepathy
+## Telepathy
 
 Telepathy is a magical ability that allows a creature to communicate mentally with another creature within a specified range. Unless a rule states otherwise, the contacted creature doesn't need to share a language with the telepath to understand this communication, but the contacted creature must be able to understand at least one language or be telepathic itself to understand.
 
@@ -1027,7 +1069,7 @@ A creature without telepathy can receive telepathic messages but can't initiate 
 
 ---
 
-### Teleportation
+## Teleportation
 
 Teleportation is a special kind of magical transportation. If you teleport, you disappear and reappear elsewhere instantly, without moving through the intervening space. This transportation doesn't expend movement unless a rule tells you otherwise, and teleportation never provokes Opportunity Attacks.
 
@@ -1039,30 +1081,30 @@ The description of a teleportation effect tells you if you must see the teleport
 
 ---
 
-### Temporary Hit Points
+## Temporary Hit Points
 
 Temporary Hit Points are granted by certain effects and act as a buffer against losing real Hit Points.
 
 ---
 
-### Unoccupied Space
+## Unoccupied Space
 
 A space is unoccupied if no creatures are in it and it isn't completely filled by objects.
 
 ---
 
-### Vulnerability
+## Vulnerability
 
 If you have Vulnerability to a damage type, damage of that type is doubled against you. Vulnerability is applied only once to an instance of damage.
 
 ---
 
-### Weapon
+## Weapon
 
-A weapon is an object that is in the Simple or Martial weapon category.
+A weapon is an object that is in the :prof-wp-simple: Simple or :prof-wp-martial: Martial weapon category.
 
 ---
 
-### Weapon Attack
+## Weapon Attack
 
 A weapon attack is an attack roll made with a weapon.

@@ -28,15 +28,15 @@ You learn an additional language; *English*
 
 ### British Ingenuity
 
-You have proficiency with :weapon-pistol: Short-Arms. If you are proficient in Martial Weapons, it grants you proficiency with all Firearms.
+You have proficiency with :weapon-pistol: Short-Arms. If you are proficient in :prof-wp-martial: Martial weapons, it grants you proficiency with all Firearms.
 
 ### Inferior Athleticism
 
-You have Disadvantage on Strength-based D20 Test against creatures other than your own species.
+You have :d20-disadv: **Disadvantage** on Strength-based D20 Test against creatures other than your own species.
 
 ### Mental Resilience
 
-You have Resistance to :dmg-psychic: Psychic damage. You also have :d20-adv: Advantage on saving throws you make to avoid or end the Frightened condition.
+You have Resistance to :dmg-psychic: Psychic damage. You also have :d20-adv: **Advantage** on saving throws you make to avoid or end the Frightened condition.
 
 ### Skillful
 

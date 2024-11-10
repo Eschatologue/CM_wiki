@@ -1,4 +1,5 @@
 ---
+title: Dwarf (Lore)
 search:
   boost: 0.25
 ---

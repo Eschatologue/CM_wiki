@@ -152,7 +152,7 @@ When multiple instances of :d20-adv: **Advantage** or :d20-disadv: **Disadvantag
 
 ### Interactions with Rerolls
 
-When you have :d20-adv: Advantage or :d20-disadv: Disadvantage and something in the game lets you reroll or replace the d20, you can reroll or replace only one die, not both. You choose which one.
+When you have :d20-adv: **Advantage** or :d20-disadv: **Disadvantage** and something in the game lets you reroll or replace the d20, you can reroll or replace only one die, not both. You choose which one.
 
 ### Heroic Inspiration
 

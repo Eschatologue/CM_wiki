@@ -57,7 +57,7 @@ Your mastery of alchemy allows you to alter the explosives you make in the follo
 
 ### Level 13: Sabotage
 
-Creatures that has the Surprised condition have :d20-disadv: Disadvantage on saving throws against your Explosives.
+Creatures that has the Surprised condition have :d20-disadv: **Disadvantage** on saving throws against your Explosives.
 
 ### Level 17: Hair Trigger
 

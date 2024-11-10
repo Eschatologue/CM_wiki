@@ -66,9 +66,9 @@ You gain **2 Superiority Die**, which are :die-d6: d6s (this die is added to any
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*  
 
-Having the Prone condition doesn't impose :d20-disadv: Disadvantage on your Ranged weapon attacks. Moreover, while Prone, when you hit the target within your Ranged weapon's normal range you can treat any 1 or 2 on a damage die as a 3.
+Having the Prone condition doesn't impose :d20-disadv: **Disadvantage** on your Ranged weapon attacks. Moreover, while Prone, when you hit the target within your Ranged weapon's normal range you can treat any 1 or 2 on a damage die as a 3.
 
-Moreover, your attack with Ranged weapon doesn't have :d20-disadv: Disadvantage if your target has the Prone condition so long your target is within your weapon normal range.
+Moreover, your attack with Ranged weapon doesn't have :d20-disadv: **Disadvantage** if your target has the Prone condition so long your target is within your weapon normal range.
 
 ---
 
@@ -76,7 +76,7 @@ Moreover, your attack with Ranged weapon doesn't have :d20-disadv: Disadvantage 
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-When a creature within 5 feet of you makes an attack against a creature that you can see, you can take a :rsc-r: Reaction to grant it :d20-adv: Advantage on its attack roll. You must be carrying a banner, flag, or standard in your hand. A holy symbol emblazoned on a Shield also suffice.
+When a creature within 5 feet of you makes an attack against a creature that you can see, you can take a :rsc-r: Reaction to grant it :d20-adv: **Advantage** on its attack roll. You must be carrying a banner, flag, or standard in your hand. A holy symbol emblazoned on a Shield also suffice.
 
 ---
 

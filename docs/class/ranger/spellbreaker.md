@@ -11,7 +11,7 @@ Spellbreakers are a small but dedicated group of Rangers that specialize in hunt
 
 ### Level 3: Mage Breaker
 
-You ward your weapons with antimagic enchantments. When you hit a creature with a weapon attack, it has :d20-disadv: Disadvantage on its Constitution saving throw to maintain :apwll-concentration: Concentration.
+You ward your weapons with antimagic enchantments. When you hit a creature with a weapon attack, it has :d20-disadv: **Disadvantage** on its Constitution saving throw to maintain :apwll-concentration: Concentration.
 
 Also, when you see a creature casting a spell with Verbal, Somatic, or Material components, or attempt to teleport, you can take a Reaction to make one weapon attack or one Unarmed Strike against it.
 

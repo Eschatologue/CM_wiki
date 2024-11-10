@@ -1,4 +1,5 @@
 ---
+title: Aasimar (Lore)
 search:
   boost: 0.25
 ---
