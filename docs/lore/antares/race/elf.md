@@ -30,9 +30,9 @@ Those who did not partake in the war, were cast out. Exiled into the deep cavern
 
 The Tree of Life was the symbol of unity between the High Elves and the Wood Elves. Its growth can be traced back to a period when the leviathan of judgment, Vorthalas, rained down apocalypse upon the lands. Prior to this, the two elven factions hated each other, but facing a greater threat, they united. Though numerous, they were nothing in the face of a raging Aeginae, so they sought knowledge left behind by their creators. 
 
-After decades of searching through Antares, they discovered the tomb of a god named Ilmari, from which they unearthed much knowledge. With it, the elves managed to forge a device that projected a colossal dome in the sky, saving them from the wrath of Vorthalas. At the point where this dome emerged, a tree grew, which became known as the Tree of Life, symbolising the unity between the High Elves and the Wood Elves.
+After decades of searching through Antares, they discovered a vault which contains knowledge that the Precursors left behind and with it, the elves managed to forge an artifact that projected a colossal dome in the sky, saving them from the wrath of Vorthalas. At the point where this dome emerged, a tree grew, which became known as the Tree of Life, symbolising the unity between the High Elves and the Wood Elves.
 
-Though the dome no longer functions, the tree somehow managed to grow to a colossal size and became the centre of the Elves' religion. This tree was named **Yggdrasil**.
+Though this artifact no longer functions, the tree somehow managed to grow to a colossal size and became the centre of the Elves' religion. This tree was named **Yggdrasil**.
 
 ## Discrimination
 
