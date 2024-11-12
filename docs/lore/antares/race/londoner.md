@@ -6,13 +6,13 @@ search:
 
 # Londoners
 
-:   *This article is about the species' lore. For the character creation, see [Londoners (origin)](../../../character-creation/origin/species/londoner.md)*
+:   *This article is about the species' lore. For the character creation, see [Londoners (character creation)](../../../character-creation/origin/species/londoner.md)*
+
+> *"Forsan et haec olim meminisse iuvabit"*  
 
 The Londoners (singular: Londoner) are an alien race in Antares.
 
 ## Overview
-
-*"Forsan et haec olim meminisse iuvabit"*  
 
 Londoners are a race of sapient mammalian aliens resembling apes (requires citation) that are not native to Antares. They bear a strong resemblance to humans but are physically, significantly weaker, leading them to be classified as “Abhumans.” Despite this physical limitation, Londoners are known for their extraordinary adaptability, creativity, cunning, determination, resilience, and tenacity against overwhelming odds—qualities that often surpass those of other races on Antares.
 

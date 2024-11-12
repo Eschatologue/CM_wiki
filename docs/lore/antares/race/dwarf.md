@@ -6,13 +6,13 @@ search:
 
 # Dwarf
 
-:   *This article is about the species' lore. For the character creation, see [Dwarf (origin)](../../../character-creation/origin/species/dwarf.md)*
+:   *This article is about the species' lore. For the character creation, see [Dwarf (character creation)](../../../character-creation/origin/species/dwarf.md)*
+
+> *"Tempora mutantur, nos et mutamur in illis"*
 
 The Dwarves (singular: Dwarf) are an Ancient race in Antares.
 
 ## Overview
-
-*"Tempora mutantur, nos et mutamur in illis"*
 
 Dwarves, also known as *Durinn*, are a humanoid race native to the central region of Antares, particularly the Myrkheim mountains. The majority of Dwarves reside in the nation of Myrkheim, characterised by its rugged terrain and subterranean cities. Dwarves are easily recognised by their short and stature, pointed ears, and often with beards. They are known for their cultural affinity for heavy drinking and their exceptional skills as miners, geologists, and underground surveyors. 
 

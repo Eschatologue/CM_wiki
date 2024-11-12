@@ -6,13 +6,13 @@ search:
 
 # Elf
 
-:   *This article is about the species' lore. For the character creation, see [Elf (origin)](../../../character-creation/origin/species/elf.md)*
+:   *This article is about the species' lore. For the character creation, see [Elf (character creation)](../../../character-creation/origin/species/elf.md)*
+
+> *"Qui totum vult, totum perdit"*
 
 The Elves (singular: Elf) are an Ancient race in Antares.
 
 ## Overview
-
-*"Qui totum vult, totum perdit"*
 
 Elves are an umbrella term for people originating from the vast, Fey forests of Antares. This classification primarily includes High Elves (Ilmarian) and Wood Elves (Vainolian), with the Drow (Tuonari) also sharing a common ancestry, despite their cultural distinctions. Elves are characterised by their tall, graceful physiques, long pointed ears, and an ethereal appearance that often sets them apart from other races. Historically, Elves enjoyed extended lifespans that preserved their youth indefinitely; however, this longevity was diminished following the destruction of Yggdrasil in a costly war, reducing their lifespan to approximately 300 years.
 
