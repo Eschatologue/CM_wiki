@@ -167,6 +167,7 @@ nav:
         - Londoner: character-creation/origin/species/londoner.md
         - Orc: character-creation/origin/species/orc.md
         - Tiefling: character-creation/origin/species/tiefling.md
+      - Affiliation: character-creation/origin/affiliation.md
   - Feats & Class Options:
     - Feats: 
       - option/feat/index.md

@@ -8,9 +8,9 @@ search:
 
 :   *This article is about the species' lore. For the character creation, see [Dwarf (character creation)](../../../character-creation/origin/species/dwarf.md)*
 
-> *"Tempora mutantur, nos et mutamur in illis"*
-
 The Dwarves (singular: Dwarf) are an Ancient race in Antares.
+
+> *"Tempora mutantur, nos et mutamur in illis"*
 
 ## Overview
 

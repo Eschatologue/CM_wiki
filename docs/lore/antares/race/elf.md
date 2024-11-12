@@ -8,9 +8,9 @@ search:
 
 :   *This article is about the species' lore. For the character creation, see [Elf (character creation)](../../../character-creation/origin/species/elf.md)*
 
-> *"Qui totum vult, totum perdit"*
-
 The Elves (singular: Elf) are an Ancient race in Antares.
+
+> *"Qui totum vult, totum perdit"*
 
 ## Overview
 

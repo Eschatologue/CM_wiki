@@ -8,9 +8,9 @@ search:
 
 :   *This article is about the species' lore. For the character creation, see [Londoners (character creation)](../../../character-creation/origin/species/londoner.md)*
 
-> *"Forsan et haec olim meminisse iuvabit"*  
-
 The Londoners (singular: Londoner) are an alien race in Antares.
+
+> *"Forsan et haec olim meminisse iuvabit"*  
 
 ## Overview
 

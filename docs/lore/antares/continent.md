@@ -34,7 +34,7 @@ The **Second Rapture**, occurring approximately 500 years after the first, is be
 
 ### The Millennium Dawn
 
-The **Millennium Dawn** began approximately 200 years after the Second Rapture and is marked by the fall of the Tähdenvalta Empire following the **Great Split**, a major conflict that reshaped the political landscape of Antares. This era has seen the rise of a new power, and it is within this period that current events, including the ongoing D&D campaign, are set.
+The **Millennium Dawn** began approximately 300 years after the Second Rapture and is marked by the fall of the Tähdenvalta Empire following the **Great Split**, a major conflict that reshaped the political landscape of Antares. This era has seen the rise of a new power, and it is within this period that current events, including the ongoing D&D campaign, are set.
 
 ## Pre-Industrial Revolution
 

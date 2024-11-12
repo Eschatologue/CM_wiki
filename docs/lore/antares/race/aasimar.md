@@ -8,9 +8,10 @@ search:
 
 :   *This article is about the species' lore. For the character creation, see [Aasimar (character creation)](../../../character-creation/origin/species/aasimar.md)*
 
+The Aasimar (both singular and plural) are an Ancient race in Antares.
+
 > *"Fiat iustitia, et pereat mundus"*
 
-The Aasimar (both singular and plural) are an Ancient race in Antares.
 
 ## Overview
 
