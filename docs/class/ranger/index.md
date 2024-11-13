@@ -78,8 +78,7 @@ As a Ranger, you gain the following class features when you reach the specified 
 
 All rangers are unique, each shaped by their own distinct history. Choose one of the following benefits. If a benefit grants a spell, it is considered a Ranger spell for you, and Wisdom is your spellcasting ability. If a benefit grants proficiency in a skill you already have, choose a different proficiency available to the [Core Ranger Trait](#core-ranger-trait) table:
 
-***Bounty Hunter***   
-Your expertise in hunting bounties stands out. You gain proficiency in Insight and Investigation. Creatures has :d20-disadv: **Disadvantage** on saves to end the Restrained condition caused by you.
+***Bounty Hunter.*** Your expertise in hunting bounties stands out. You gain proficiency in Insight and Investigation. Creatures has :d20-disadv: **Disadvantage** on saves to end the Restrained condition caused by you.
 
 ***Deathwatch***  
 You specialise in hunting those not native to Antares. You gain proficiency in Arcana, and you can cast *Protection from Evil and Good* without expending a spell slot once per Long Rest.
@@ -201,10 +200,6 @@ Whenever you finish a Short Rest, your Exhaustion level, if any, decreases by 1.
 ### Level 13: Relentless Hunter
 
 The damage die of your ***Hunter’s Mark*** improves to d8 when it is cast using Favoured Enemy feature.
-
-!!! homebrew "Improved Scaling"
-
-    Since ***Hunter's Mark*** does not require Concentration, this feature is changed to provide better scaling for the spell.
 
 ### Level 14: Nature’s Veil
 
