@@ -157,9 +157,7 @@ During a Short Rest, you can recover spell slots of a combined level equal to yo
 
 **Prerequisite:** Level 3+ Ranger
 
-You gain the following benefits:
-
-***Improved Mark.*** When you hit a creature with a weapon attack or Unarmed Strike you can cast *Hunter's Mark* at the target as part of the attack, applying its damage bonus and other benefits (if any) to the damage roll.
+When you hit a creature with a weapon attack or Unarmed Strike you can cast *Hunter's Mark* at the target as part of the attack, applying its damage bonus and other benefits (if any) to the damage roll.
 
 ---
 
@@ -167,9 +165,7 @@ You gain the following benefits:
 
 **Prerequisite:** Level 5+ Ranger, [Slayer I]
 
-You gain the following benefits:
-
-***Quick Mark.*** When you roll Initiative, you can take a :rsc-r: **Reaction** to cast *Hunter's Mark*.
+When you roll Initiative, you can take a :rsc-r: **Reaction** to cast *Hunter's Mark*.
 
 ---
 
@@ -177,9 +173,7 @@ You gain the following benefits:
 
 **Prerequisite:** Level 10+ Ranger, [Slayer II]
 
-You gain the following benefits:
-
-***Mortality Awakens.*** Once per turn, when you hit the target of your *Hunter's Mark* with a weapon attack or Unarmed Strike, you can cause it to take an additional effect until the start of your next turn. These effects are as follow:
+Once per turn, when you hit the target of your *Hunter's Mark* with a weapon attack or Unarmed Strike, you can cause it to take an additional effect until the start of your next turn. These effects are as follow:
 
 :   ***Blind and Silenced.*** The target must succeed a :d20-save: Constitution saving throw, or it has the ^^Blinded^^ and ^^Silenced^^ condition.
 
@@ -322,13 +316,19 @@ You gain the following benefits:
 
 **Prerequisite:** Level 15+ Ranger, [Deadeye II]
 
-You gain the following benefits:
-
-***Slay the Foe.*** When you hit the target of your *Hunter's Mark* cast from Favoured Foe feature with a weapon attack or Unarmed Strike, you can choose to end the *Hunter's Mark* spell and make the attack score a Critical Hit.
+When you hit the target of your *Hunter's Mark* cast from Favoured Foe feature with a weapon attack or Unarmed Strike, you can choose to end the *Hunter's Mark* spell and make the attack score a Critical Hit.
 
 ---
 
 ## Level 9+ Ranger
+
+### Adrenaline
+
+**Prerequisite:** Level 9+ Ranger
+
+You can cast *Haste* once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Long Rest.
+
+---
 
 ### Planar Wanderer
 
