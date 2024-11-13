@@ -5,9 +5,9 @@ status: homebrew
 
 # Ranger's Aptitude
 
-Below are the list of Ranger's Aptidudes.
+Below are the Aptitudes available to the Ranger. If an Aptitude has a prerequisite, like your Ranger level or another Aptitude, you can learn it at the same time that you meet all of that Aptitude's prerequisites.
 
-## Ranger's Origin Aptidude
+## Ranger's Origin Aptitude
 
 ### Origin: Bounty Hunter 
 
@@ -69,7 +69,7 @@ You have cultivated a strong bond with animals and nature.
 
 ***Improved Ability Checks.*** Whenever you would make an Intelligence (Nature), you can choose to make a Wisdom (Nature) check instead.
 
-***Ritual Spells.*** You can cast *[:spell-level-1: Find Familiar](../../spells/description/core/level-1.md#find-familiar)* and *[:spell-level-1: Speak with Animals](../../spells/description/core/level-1.md#speak-with-animals)*, but only as a ritual.
+***Ritual Spells.*** You can cast *[:spell-level-1: Find Familiar](../../spells/description/core/level-1.md#find-familiar)*, but only as a ritual.
 
 ---
 
@@ -77,7 +77,11 @@ You have cultivated a strong bond with animals and nature.
 
 **Prerequisite:** Level 2+ Ranger
 
-You are an expert at navigating the labyrinthine Citadel Cities as well as the wilds. You gain Proficiency in Acrobatics and Sleight of Hand.
+You are an expert at navigating the labyrinthine Citadel Cities as well as the wilds. 
+
+***Proficiency.*** You gain Proficiency in Acrobatics and Sleight of Hand.
+
+***Thieve's Cant.*** You learn the Thieve's Cant language.
 
 ---
 
@@ -85,7 +89,9 @@ You are an expert at navigating the labyrinthine Citadel Cities as well as the w
 
 **Prerequisite:** Level 2+ Ranger
 
-Choose one of the following damage types: :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-poison: Poison, or :dmg-lightning: Lightning. You gain :dmg-res: Resistance to the chosen damage type. 
+You have spent endless days surviving desolate wasteland
+
+***Resistance.*** Choose one of the following damage types: :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-poison: Poison, or :dmg-lightning: Lightning. You gain :dmg-res: Resistance to the chosen damage type. 
 
 ***Repeatable.*** You can choose this Aptitude again, choosing different damage type each time.
 
@@ -109,7 +115,7 @@ Though you wander the wilds, you still understood the intricacy of politics.
 
 You learn how to utilise divine magic.
 
-***Mark of Judgement.*** When you hit the target of your *Hunter's Mark* with a weapon attack or Unarmed Strike, you can change the spell's bonus damage type to :dmg-radiant: Radiant or :dmg-necrotic: Necrotic damage (choose each time) instead of :dmg-force: Force.
+***Mark of Judgement.*** When you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can change the spell's bonus damage type to :dmg-radiant: Radiant or :dmg-necrotic: Necrotic damage (choose each time) instead of :dmg-force: Force.
 
 ---
 
@@ -119,7 +125,7 @@ You learn how to utilise divine magic.
 
 You are trained to use complex combat techniques. 
 
-***Fighting Style.*** You gain the [Superior Technique](../feat/feat-fighting-style/hb.md#superior-technique) Feat. 
+***Fighting Style.*** You gain the [Superior Technique](../feat/feat-fighting-style/hb.md#superior-technique) Feat. Each time you learn new Manoeuvre, you can also replace one Manoeuvre you know with a different one.
 
 ---
 
@@ -131,7 +137,7 @@ Your combat techniques are improved
 
 ***Superiority Die.*** You gain two additional Superiority Die and all your Superiority Die improves to :die-d8: d8.
 
-***Manoeuvre.*** You learn two additional Combat Manoeuvre from the Battle Master (Fighter) subclass of you choice. Each time you learn new Manoeuvre, you can also replace one Manoeuvre you know with a different one.
+***Manoeuvre.*** You learn two additional Combat Manoeuvre from the Battle Master (Fighter) subclass of you choice. 
 
 ---
 
@@ -143,7 +149,7 @@ Your combat techniques are improved
 
 ***Superiority Die.*** You gain two additional Superiority Die and all your Superiority Die improves to :die-d8: d10.
 
-***Manoeuvre.*** You learn two additional Combat Manoeuvre from the Battle Master (Fighter) subclass of you choice. Each time you learn new Manoeuvre, you can also replace one Manoeuvre you know with a different one.
+***Manoeuvre.*** You learn two additional Combat Manoeuvre from the Battle Master (Fighter) subclass of you choice.
 
 ---
 
@@ -159,7 +165,7 @@ During a Short Rest, you can recover spell slots of a combined level equal to yo
 
 **Prerequisite:** Level 3+ Ranger
 
-When you hit a creature with a weapon attack or Unarmed Strike you can cast *Hunter's Mark* at the target as part of the attack, applying its damage bonus and other benefits (if any) to the damage roll.
+When you hit a creature with a weapon attack or Unarmed Strike you can cast *[:spell-level-1: Hunter's Mark]* at the target as part of the attack, applying its damage bonus and other benefits (if any) to the damage roll.
 
 ---
 
@@ -167,7 +173,7 @@ When you hit a creature with a weapon attack or Unarmed Strike you can cast *Hun
 
 **Prerequisite:** Level 5+ Ranger, [Slayer I]
 
-When you roll Initiative, you can take a :rsc-r: **Reaction** to cast *Hunter's Mark*.
+When you roll Initiative, you can take a :rsc-r: **Reaction** to cast *[:spell-level-1: Hunter's Mark]*.
 
 ---
 
@@ -175,66 +181,13 @@ When you roll Initiative, you can take a :rsc-r: **Reaction** to cast *Hunter's 
 
 **Prerequisite:** Level 10+ Ranger, [Slayer II]
 
-Once per turn, when you hit the target of your *Hunter's Mark* with a weapon attack or Unarmed Strike, you can cause it to take an additional effect until the start of your next turn. These effects are as follow:
+Once per turn, when you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can cause it to take an additional effect until the start of your next turn. These effects are as follow:
 
 :   ***Blind and Silenced.*** The target must succeed a :d20-save: Constitution saving throw, or it has the ^^Blinded^^ and ^^Silenced^^ condition.
 
 :   ***Fright.*** The target must succeed a :d20-save: Wisdom saving throw, or it has the ^^Frightened^^ condition.
 
 :   ***Coerce.*** The target must succeed a :d20-save: Charisma saving throw, or it has the ^^Charmed^^ condition.
-
---- 
-
-### Spellbreaker I
-
-**Prerequisite:** Level 3+ Ranger
-
-You are trained to break spellcasters.
-
-***Mage Breaker.*** When you hit a creature with a weapon attack, it has :d20-disadv: **Disadvantage** on its :d20-save: Constitution saving throw to maintain :spell-concentration: Concentration.
-
-***Spellsight.*** When you target a creature using *Hunter's Mark*, you instantly learn its spellcasting ability (if it has one) and the highest level spell that it has the ability to cast. If it is hidden from divination magic, such as by *Nondetection*, this ability fails.
-
---- 
-
-### Spellbreaker II
-
-**Prerequisite:** Level 7+ Ranger, [Spellbreaker I]
-
-Your tactics of dealing with spellcasters improved.
-
-***Arcane Defense.*** Whenever you are forced to make a :d20-save: saving throw to resist a spell or another magical effect, you gain a bonus to your roll equal to your Wisdom modifier (minimum of +1).
-
-***Spell Ward.*** Whenever you are subjected you to a spell or magical effect that allows you to make a :d20-save: saving throw to take only half damage, you instead take no damage on a success, and only half damage on a fail.
-
---- 
-
-### Spellbreaker III
-
-**Prerequisite:** Level 11+ Ranger, [Spellbreaker II]
-
-Your tactics of dealing with spellcasters are improved further
-
-***Level 3 Spells.*** You learn the *[:spell-level-3: Counterspell]* and *[:spell-level-3: Dispel Magic]* spells.
-
-:   When you cast *[:spell-level-3: Dispel Magic]* and you need to make a spellcasting ability check to determine the result, you can treat a roll of 9 or lower as a 10. 
-
-:   When you cast *[:spell-level-3: Counterspell]*, your target has :d20-disadv: **Disadvantage** on the :d20-save: saving throw.
-
-[:spell-level-3: Counterspell]: ../../spells/description/core/level-3.md#counterspell
-[:spell-level-3: Dispel Magic]: ../../spells/description/core/level-3.md#dispel-magic
-
---- 
-
-### Spellbreaker IV
-
-**Prerequisite:** Level 15+ Ranger, [Spellbreaker III]
-
-You reach the pinacle of dealing with those who dare uses magic.
-
-***Reflect Spell.*** You can cast *[:spell-level-1: Absorb Elements]* at will. After you cast the spell, if your next weapon attack—melee or ranged—is against the creature whose spell or damage you absorbed, the bonus damage from the spell is treated as its maximum possible amount.
-
-[:spell-level-1: Absorb Elements]: ../../spells/description/core/level-1.md#absorb-elements
 
 ---
 
@@ -258,7 +211,7 @@ You ignore the effects of any Difficult Terrain imposed by spells, magical pheno
 
 **Prerequisite:** Level 15+ Ranger, [Strider II](#strider-ii)
 
-You always under the effect of *[:spell-level-4: Freedom of Movement](../../spells/description/core/level-4.md#freedom-of-movement)* spell so long you don't have the ^^Unconcious^^ condition.
+You always under the effect of *[:spell-level-4: Freedom of Movement]* spell so long you don't have the ^^Unconcious^^ condition.
 
 ---
 
@@ -270,9 +223,9 @@ You always under the effect of *[:spell-level-4: Freedom of Movement](../../spel
 
 You learn some rougish techniques.
 
-***Cunning Action.*** Choose one of the following Actions, you can use a :rsc-b: **Bonus Action** to take it: Dodge, Disengage, Hide.
+***Cunning Action.*** Choose one of the following Actions, you can use a :rsc-b: **Bonus Action** to take it: Dodge, Disengage, or Hide.
 
-***Repeatable.*** You can choose this Aptitude again, choosing different action each time.
+***Repeatable.*** You can choose this Aptitude again, choosing a different action each time.
 
 ---
 
@@ -280,7 +233,7 @@ You learn some rougish techniques.
 
 **Prerequisite:** Level 5+ Ranger
 
-You can't have :d20-disadv: **Disadvantage** on attack rolls against the target of your *Hunter's Mark*.
+You can't have :d20-disadv: **Disadvantage** on attack rolls against the target of your *[:spell-level-1: Hunter's Mark]*.
 
 ---
 
@@ -308,7 +261,7 @@ When you score a Critical Hit against a creature, all creature have Advantage on
 
 You gain the following benefits:
 
-***Improved Critical.*** When you attack the target of your *Hunter's Mark* with a weapon attack or Unarmed Strike, the number you need to roll to for a Critical Hit is reduced by 1. This effect can stack.
+***Improved Critical.*** When you attack the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, the number you need to roll to for a Critical Hit is reduced by 1. This effect can stack.
 
 ***Weakness Exploit.*** Each time you score a Critical Hit against a creature, the number you need roll for another Critical Hit against that creature is reduced by 1. This effect can stack for 2 instances.
 
@@ -318,7 +271,7 @@ You gain the following benefits:
 
 **Prerequisite:** Level 15+ Ranger, [Deadeye II]
 
-When you hit the target of your *Hunter's Mark* cast from Favoured Foe feature with a weapon attack or Unarmed Strike, you can choose to end the *Hunter's Mark* spell and make the attack score a Critical Hit.
+When you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can choose to end the spell and make the attack score a Critical Hit.
 
 ---
 
@@ -364,7 +317,7 @@ When you make a Death Saving Throw, you add your Wisdom modifier to the roll (mi
 
 **Prerequisite:** Level 20+ Ranger
 
-Whenever you hit the target of your *Hunter's Mark* with a weapon attack or Unarmed Strike, you can immediately end the spell and cause that attack to deal maximum damage instead of rolling. If the attack reduces the creature to 50 Hit Points or fewer, it must succeed on a Constitution saving throw against your Spell save DC or it instantly dies.
+Whenever you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can immediately end the spell and cause that attack to deal maximum damage instead of rolling. If the attack reduces the creature to 50 Hit Points or fewer, it must succeed on a Constitution saving throw against your Spell save DC or it instantly dies.
 
 ---
 
@@ -391,3 +344,6 @@ Whenever you hit the target of your *Hunter's Mark* with a weapon attack or Unar
 [Origin: Deathwatch]: #origin-deathwatch
 [Origin: Sanctified Hunter]: #origin-sanctified-hunter
 [Origin: Mage Hunter]: #origin-mage-hunter
+
+[:spell-level-1: Hunter's Mark]: ../../spells/description/core/level-1.md#hunters-mark
+[:spell-level-4: Freedom of Movement]: ../../spells/description/core/level-4.md#freedom-of-movement
