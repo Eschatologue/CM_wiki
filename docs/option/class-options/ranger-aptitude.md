@@ -69,6 +69,30 @@ You have sworn to hunt the enemies of a holy or druidic order.
 
 ---
 
+### Strider I
+
+**Prerequisite:** Level 1+ Ranger
+
+You ignore the effects of Difficult Terrain caused by natural environments or terrain.
+
+---
+
+### Strider II
+
+**Prerequisite:** Level 7+ Ranger, [Strider I](#strider-i)
+
+You ignore the effects of any Difficult Terrain imposed by spells, magical phenomena, or any other supernatural effect.
+
+---
+
+### Strider III
+
+**Prerequisite:** Level 15+ Ranger, [Strider II](#strider-ii)
+
+You always under the effect of *[:spell-level-4: Freedom of Movement](../../spells/description/core/level-4.md#freedom-of-movement)* spell so long you don't have the ^^Unconcious^^ condition.
+
+---
+
 ### Naturalist
 
 **Prerequisite:** Level 2+ Ranger
@@ -77,7 +101,7 @@ You have cultivated a strong bond with animals and nature.
 
 ***Improved Ability Checks.*** Whenever you would make an Intelligence (Nature), you can choose to make a Wisdom (Nature) check instead.
 
-***Ritual Spells.*** You can cast *Find Familiar* and *Speak with Animals*, but only as a ritual.
+***Ritual Spells.*** You can cast *[:spell-level-1: Find Familiar](../../spells/description/core/level-1.md#find-familiar)* and *[:spell-level-1: Speak with Animals](../../spells/description/core/level-1.md#speak-with-animals)*, but only as a ritual.
 
 ---
 
@@ -183,19 +207,24 @@ Your tactics of dealing with spellcasters improved.
 
 Your tactics of dealing with spellcasters are improved further
 
-***Level 3 Spells.*** You learn the *Counterspell* and *Dispel Magic* spells.
+***Level 3 Spells.*** You learn the *[:spell-level-3: Counterspell]* and *[:spell-level-3: Dispel Magic]* spells.
 
-***Spellbane.*** When you cast *Dispel Magic* and you need to make a spellcasting ability check to determine the result, you can treat a roll of 9 or lower as a 10. When you cast *Counterspell*, your target has :d20-disadv: **Disadvantage** on the :d20-save: saving throw.
+***Spellbane.*** When you cast *[:spell-level-3: Dispel Magic]* and you need to make a spellcasting ability check to determine the result, you can treat a roll of 9 or lower as a 10. When you cast *[:spell-level-3: Counterspell]*, your target has :d20-disadv: **Disadvantage** on the :d20-save: saving throw.
+
+[:spell-level-3: Counterspell]: ../../spells/description/core/level-3.md#counterspell
+[:spell-level-3: Dispel Magic]: ../../spells/description/core/level-3.md#dispel-magic
 
 --- 
 
 ### Spellbreaker IV
 
-**Prerequisite:** Level 11+ Ranger, [Spellbreaker III]
+**Prerequisite:** Level 15+ Ranger, [Spellbreaker III]
 
 You reach the pinacle of dealing with those who dare uses magic.
 
-***Reflect Spell.*** You can cast :spell-level-1: *Absorb Elements* at will. After you cast :spell-level-1: *Absorb Elements*, if your next weapon attack—melee or ranged—is against the creature whose spell or damage you absorbed, the bonus damage from *Absorb Elements* is treated as its maximum possible amount.
+***Reflect Spell.*** You can cast *[:spell-level-1: Absorb Elements]* at will. After you cast the spell, if your next weapon attack—melee or ranged—is against the creature whose spell or damage you absorbed, the bonus damage from the spell is treated as its maximum possible amount.
+
+[:spell-level-1: Absorb Elements]: ../../spells/description/core/level-1.md#absorb-elements
 
 ---
 
@@ -235,14 +264,6 @@ You gain the following benefits:
 
 ---
 
-### Strider 
-
-**Prerequisite:** Level 3+ Ranger, [Cunning Technique] (Dash action)
-
-You ignore the effects of Difficult Terrain caused by natural environments or terrain.
-
----
-
 ### Cunning Technique
 
 **Prerequisite:** Level 5+ Ranger
@@ -255,13 +276,27 @@ You learn some rougish techniques.
 
 ---
 
+### Enhanced Senses I
+
+**Prerequisite:** Level 5+ Ranger
+
+You can't have :d20-disadv: **Disadvantage** on attack rolls against the target of your *Hunter's Mark*.
+
+---
+
+### Enhanced Senses II
+
+**Prerequisite:** Level 18+ Ranger, [Enhanced Senses I]
+
+You can't have :d20-disadv: **Disadvantage** on attack rolls against any target within 30 feet of you.
+
+---
+
 ### Deadeye I
 
 **Prerequisite:** Level 7+ Ranger, [Slayer II]
 
-You gain the following benefits:
-
-***Expose Weakness.*** When you score a Critical Hit against a creature, all creature have Advantage on the next attack they make against that creature before the end of your next turn.
+When you score a Critical Hit against a creature, all creature have Advantage on the next attack they make against that creature before the end of your next turn.
 
 ---
 
@@ -316,6 +351,8 @@ Whenever you hit the target of your *Hunter's Mark* with a weapon attack or Unar
 
 [Martial Superiority I]: #martial-superiority-i
 [Martial Superiority II]: #martial-superiority-ii
+
+[Enhanced Senses I]: #enhanced-senses-i
 
 [Spellbreaker I]: #spellbreaker-i
 [Spellbreaker II]: #spellbreaker-ii
