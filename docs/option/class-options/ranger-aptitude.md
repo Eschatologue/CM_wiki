@@ -95,7 +95,7 @@ Choose one of the following damage types: :dmg-acid: Acid, :dmg-cold: Cold, :dmg
 
 ### Hedge Knight
 
-**Prerequisite:** Level 3+ Ranger, [Origin: Ranger Knight]
+**Prerequisite:** Level 3+ Ranger
 
 Though you wander the wilds, you still understood the intricacy of politics.
 
@@ -105,15 +105,17 @@ Though you wander the wilds, you still understood the intricacy of politics.
 
 ### Inquisitor
 
-**Prerequisite:** Level 3+ Ranger, [Origin: Deathwatch] or [Origin: Sanctified Hunter]
+**Prerequisite:** Level 3+ Ranger
 
 You learn how to utilise divine magic.
 
 ***Mark of Judgement.*** When you hit the target of your *Hunter's Mark* with a weapon attack or Unarmed Strike, you can change the spell's bonus damage type to :dmg-radiant: Radiant or :dmg-necrotic: Necrotic damage (choose each time) instead of :dmg-force: Force.
 
+---
+
 ### Martial Superiority I
 
-**Prerequisite:** Level 3+ Ranger, [Origin: Bounty Hunter]
+**Prerequisite:** Level 3+ Ranger
 
 You are trained to use complex combat techniques. 
 
@@ -185,7 +187,7 @@ Once per turn, when you hit the target of your *Hunter's Mark* with a weapon att
 
 ### Spellbreaker I
 
-**Prerequisite:** Level 3+ Ranger, [Origin: Mage Hunter]
+**Prerequisite:** Level 3+ Ranger
 
 You are trained to break spellcasters.
 
