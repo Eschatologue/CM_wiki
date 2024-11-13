@@ -127,8 +127,6 @@ You are trained to use complex combat techniques.
 
 ***Fighting Style.*** You gain the [Superior Technique](../feat/feat-fighting-style/hb.md#superior-technique) Feat. Each time you learn new Manoeuvre, you can also replace one Manoeuvre you know with a different one.
 
----
-
 ### Martial Superiority II
 
 **Prerequisite:** Level 7+ Ranger, [Martial Superiority I]
@@ -138,8 +136,6 @@ Your combat techniques are improved
 ***Superiority Die.*** You gain two additional Superiority Die and all your Superiority Die improves to :die-d8: d8.
 
 ***Manoeuvre.*** You learn two additional Combat Manoeuvre from the Battle Master (Fighter) subclass of you choice. 
-
----
 
 ### Martial Superiority III
 
