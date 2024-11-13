@@ -1,6 +1,8 @@
 ---
 title: Spellbreaker Conclave
 status: homebrew
+search:
+  exclude: true
 ---
 
 # Spellbreaker Conclave
