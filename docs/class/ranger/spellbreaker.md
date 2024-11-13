@@ -11,13 +11,13 @@ Spellbreakers are a small but dedicated group of Rangers that specialize in hunt
 
 ### Level 3: Mage Breaker
 
-You ward your weapons with antimagic enchantments. When you hit a creature with a weapon attack, it has :d20-disadv: **Disadvantage** on its Constitution saving throw to maintain :apwll-concentration: Concentration.
+You ward your weapons with antimagic enchantments. When you hit a creature with a weapon attack, it has :d20-disadv: **Disadvantage** on its :d20-save: Constitution saving throw to maintain :spell-concentration: Concentration.
 
 Also, when you see a creature casting a spell with Verbal, Somatic, or Material components, or attempt to teleport, you can take a Reaction to make one weapon attack or one Unarmed Strike against it.
 
 ### Level 3: Spellsight
 
-You have learned to see the arcane potential of others. When you mark a creature using *Hunter's Mark*, you instantly learn its spellcasting ability (if it has one) and the highest level spell that it has the ability to cast. If it is hidden from divination magic, such as by *Nondetection*, this feature fails.
+You have learned to see the arcane potential of others. When you mark a creature using :spell-level-1: *Hunter's Mark*, you instantly learn its spellcasting ability (if it has one) and the highest level spell that it has the ability to cast. If it is hidden from divination magic, such as by :spell-level-3: *Nondetection*, this feature fails.
 
 ### Level 3: Spellbreaker Magic
 
@@ -35,15 +35,15 @@ When you reach a Ranger level specified in the Spellbreaker Spells Table, you th
 
 ### Level 7: Arcane Defense
 
-You can steel yourself to better resist the magics of your foes. Whenever you are forced to make a saving throw to resist a spell or another magical effect, you gain a bonus to your roll equal to your Wisdom modifier (minimum of +1).
+You can steel yourself to better resist the magics of your foes. Whenever you are forced to make a :d20-save: saving throw to resist a spell or another magical effect, you gain a bonus to your roll equal to your Wisdom modifier (minimum of +1).
 
-Moreover, whenever you are subjected you to a spell or magical effect that allows you to make a saving throw to take only half damage, you instead take no damage on a success, and only half damage on a failed saving throw.
+Moreover, whenever you are subjected you to a spell or magical effect that allows you to make a :d20-save: saving throw to take only half damage, you instead take no damage on a success, and only half damage on a fail.
 
 ### Level 11: Spellbane
 
-You are an unparalleled hunter of mages. Whenever you hit a creature with a weapon attack, you can expend a level 1+ spell slot to deal bonus :dmg-force: Force damage to your target equal to 1d8 per level of the spell slot you expended.
+You are an unparalleled hunter of mages. Whenever you hit a creature with a weapon attack, you can expend a level 1+ spell slot to deal bonus :dmg-force: Force damage to your target equal to 1d8 per level of the spell slot you expended. 
 
-Moreover, when you cast *Dispel Magic* and you need to make a spellcasting ability check to determine the result, you can treat a roll of 9 or lower as a 10. When you cast *Counterspell*, its save DC increases by a number equals to your Wisdom modifier (minimum of +1).
+Moreover, when you cast :spell-level-3: *[Dispel Magic]* and you need to make a spellcasting ability check to determine the result, you can treat a roll of 9 or lower as a 10. When you cast :spell-level-3: *[Counterspell]*, your target has :d20-disadv: **Disadvantage** on the :d20-save: saving throw.
 
 ### Level 15: Mantle of the Master
 
@@ -51,6 +51,9 @@ Your Spellbreaker training has reached its pinnacle. You are resistant to damage
 
 ### Level 15: Reflect Spell
 
-Your training allows you to strike spells from the weave. You can cast *Absorb Elements* at will, as if cast at level 1.
+Your training allows you to strike spells from the weave. You can cast :spell-level-1: *Absorb Elements* at will.
 
-After you cast *Absorb Elements*, if your next weapon attack—melee or ranged—is against the creature whose spell you absorbed, the bonus damage from *Absorb Elements* is treated as its maximum possible amount.
+After you cast :spell-level-1: *Absorb Elements*, if your next weapon attack—melee or ranged—is against the creature whose spell you absorbed, the bonus damage from *Absorb Elements* is treated as its maximum possible amount.
+
+[Dispel Magic]: ../../spells/description/core/level-3.md#dispel-magic
+[Counterspell]: ../../spells/description/core/level-3.md#counterspell
