@@ -84,28 +84,31 @@ The number of times you can cast the spell without a spell slot increases when y
 
 You gain one of the following benefits. If a benefit grants a spell, it is considered a Ranger spell for you, and Wisdom is your spellcasting ability. If a benefit grants proficiency in a skill you already have, choose a different proficiency available to the [Core Ranger Trait](#core-ranger-trait) table:
 
-***Bounty Hunter***
+***Bounty Hunter.*** Your expertise in hunting bounties stands out.
 
-:   Your expertise in hunting bounties stands out. You gain proficiency in Insight and Investigation. Creatures has :d20-disadv: **Disadvantage** on saves to resist or end the ^^Grappled^^ or ^^Restrained^^ condition caused by you.
+:    ***Proficiency.*** You gain proficiency in Insight and Investigation. 
 
-***Deathwatch***
+:   ***Improved Restraining.*** Creatures has :d20-disadv: **Disadvantage** on saves to resist or end the ^^Grappled^^ or ^^Restrained^^ condition caused by you.
 
-:   You specialise in hunting those not native to Antares. You gain proficiency in Arcana, and you can cast *Protection from Evil and Good* without expending a spell slot once per Long Rest.
+***Deathwatch.*** You specialise in hunting those not native to Antares.
 
-***Mage Hunter***
+:    You gain proficiency in Arcana, and you can cast *Protection from Evil and Good* without expending a spell slot once per Long Rest.
 
-:   You have a background in battling spellcasters. You gain proficiency in Arcana, and the *True Strike* cantrip is always prepared for you.
+***Mage Hunter.*** You have a background in battling spellcasters.
 
-***Mountaineer***
-:   You are amazingly surefooted. You gain a Climbing Speed equals to your :rsc-speed: Speed, and you can use your reaction to reduce any falling damage you take by an amount equal to your Ranger level. If you already have a Climbing Speed it increases by 10 feet.
+:    You gain proficiency in Arcana, and the *True Strike* cantrip is always prepared for you.
 
-***Ranger Knight***
+***Mountaineer.*** You are amazingly surefooted.
 
-:   You have sworn to serve a crown or nation and aim to bring its foes to ruin. You gain proficiency in History and armour training with Heavy armour.
+:    You gain a Climbing Speed equals to your :rsc-speed: Speed, and you can take a :rsc-r: **Reaction** to reduce any falling damage you take by an amount equal to your Ranger level.
 
-***Sanctified Hunter***
+***Ranger Knight.*** You have sworn to serve a crown or nation and aim to bring its foes to ruin.
 
-:   You have sworn to hunt the enemies of a holy or druidic order. You gain proficiency in Religion, and the *Sacred Flame* cantrip is always prepared for you.
+:    You gain proficiency in History and armour training with Heavy armour.
+
+***Sanctified Hunter.*** You have sworn to hunt the enemies of a holy or druidic order.
+
+:    You gain proficiency in Religion, and the *Sacred Flame* cantrip is always prepared for you.
 
 You gain one additional *Ranger's Origin* benefit when you reach level 5 (2), level 9 (3), and level 13 (4).
 
@@ -159,9 +162,15 @@ Thanks to your travels, you gain the following benefits.
 
 ***Languages.*** You know two languages of your choice from the language tables in chapter 2.
 
-### Level 2: World's Wanderer
+### Level 2: Fighting Style
 
-Antares is a harsh and unforgiving realm for travellers, yet you have journeyed through it regardless. You gain one of the following benefits:
+You gain a Fighting Style feat of your choice (see chapter 5). Instead of choosing one of those feats, you can choose the option below.
+
+***Druidic Warrior.*** You learn two Druid cantrips of your choice (see the Druid class’s section for a list of Druid spells). Guidance and Starry Wisp are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
+
+### Level 3: Ranger's Aptidude
+
+You gain one of the following benefits:
 
 ***Beast Tamer***  
 You have cultivated a strong bond with animals. You can cast *Find Familiar*, but only as a ritual.
@@ -172,13 +181,7 @@ You are an expert at navigating the labyrinthine Citadel Cities as well as the w
 ***Wasteland Wanderer***  
 Choose one of the following damage types: :dmg-cold: Cold, :dmg-fire: Fire, :dmg-poison: Poison, or :dmg-lightning: Lightning. You gain :dmg-res: Resistance to the chosen damage type. You can choose this benefit again if you are given the option to, choosing the same damage type gives you :dmg-imm: Immunity to that damage type.
 
-You gain one additional *World's Wanderer* benefit when you reach level 9 and one more at level 17.
-
-### Level 2: Fighting Style
-
-You gain a Fighting Style feat of your choice (see chapter 5). Instead of choosing one of those feats, you can choose the option below.
-
-***Druidic Warrior.*** You learn two Druid cantrips of your choice (see the Druid class’s section for a list of Druid spells). Guidance and Starry Wisp are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
+You gain one additional *Ranger's Aptidude* benefit when you reach level 9 and one more at level 17.
 
 ### Level 3: Ranger Subclass
 
