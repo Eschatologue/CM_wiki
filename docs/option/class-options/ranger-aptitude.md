@@ -7,8 +7,6 @@ status: homebrew
 
 Below are the Aptitudes available to the Ranger. If an Aptitude has a prerequisite, like your Ranger level or another Aptitude, you can learn it at the same time that you meet all of that Aptitude's prerequisites.
 
-## Ranger's Origin Aptitude
-
 ### Origin: Bounty Hunter 
 
 Your expertise in hunting bounties stands out.
@@ -59,45 +57,53 @@ You have sworn to hunt the enemies of a holy or druidic order.
 
 ---
 
-## Level 2 Aptidude
+### Adrenaline
 
-### Naturalist
+**Prerequisite:** Level 9+ Ranger
 
-**Prerequisite:** Level 2+ Ranger
-
-You have cultivated a strong bond with animals and nature. 
-
-***Improved Ability Checks.*** Whenever you would make an Intelligence (Nature), you can choose to make a Wisdom (Nature) check instead.
-
-***Ritual Spells.*** You can cast *[:spell-level-1: Find Familiar](../../spells/description/core/level-1.md#find-familiar)*, but only as a ritual.
+You can cast *Haste* once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Long Rest.
 
 ---
 
-### Urban Tracker
+### Cunning Technique
 
-**Prerequisite:** Level 2+ Ranger
+**Prerequisite:** Level 5+ Ranger
 
-You are an expert at navigating the labyrinthine Citadel Cities as well as the wilds. 
+You learn some rougish techniques.
 
-***Proficiency.*** You gain Proficiency in Acrobatics and Sleight of Hand.
+***Cunning Action.*** Choose one of the following Actions, you can use a :rsc-b: **Bonus Action** to take it: Dodge, Disengage, or Hide.
 
-***Thieve's Cant.*** You learn the Thieve's Cant language.
-
----
-
-### Wasteland Wanderer
-
-**Prerequisite:** Level 2+ Ranger
-
-You have spent endless days surviving desolate wasteland
-
-***Resistance.*** Choose one of the following damage types: :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-poison: Poison, or :dmg-lightning: Lightning. You gain :dmg-res: Resistance to the chosen damage type. 
-
-***Repeatable.*** You can choose this Aptitude again, choosing different damage type each time.
+***Repeatable.*** You can choose this Aptitude again, choosing a different action each time.
 
 ---
 
-## Level 3 Aptitude
+### Deadeye I
+
+**Prerequisite:** Level 7+ Ranger, [Slayer II]
+
+When you score a Critical Hit against a creature, all creature have :d20-adv: **Advantage** on the next attack they make against that creature before the end of your next turn.
+
+---
+
+### Deadeye II
+
+**Prerequisite:** Level 11+ Ranger, [Deadeye I]
+
+You gain the following benefits:
+
+***Improved Critical.*** When you attack the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, the number you need to roll to for a Critical Hit is reduced by 1. This effect can stack.
+
+***Weakness Exploit.*** Each time you score a Critical Hit against a creature, the number you need roll for another Critical Hit against that creature is reduced by 1. This effect can stack for 2 instances.
+
+---
+
+### Deadeye III
+
+**Prerequisite:** Level 15+ Ranger, [Deadeye II]
+
+When you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can choose to end the spell and make the attack score a Critical Hit.
+
+---
 
 ### Hedge Knight
 
@@ -127,6 +133,8 @@ You are trained to use complex combat techniques.
 
 ***Fighting Style.*** You gain the [Superior Technique](../feat/feat-fighting-style/hb.md#superior-technique) Feat. Each time you learn new Manoeuvre, you can also replace one Manoeuvre you know with a different one.
 
+---
+
 ### Martial Superiority II
 
 **Prerequisite:** Level 7+ Ranger, [Martial Superiority I]
@@ -136,6 +144,8 @@ Your combat techniques are improved
 ***Superiority Die.*** You gain two additional Superiority Die and all your Superiority Die improves to :die-d8: d8.
 
 ***Manoeuvre.*** You learn two additional Combat Manoeuvre from the Battle Master (Fighter) subclass of you choice. 
+
+---
 
 ### Martial Superiority III
 
@@ -147,6 +157,19 @@ Your combat techniques are improved
 
 ***Manoeuvre.*** You learn two additional Combat Manoeuvre from the Battle Master (Fighter) subclass of you choice.
 
+
+---
+
+### Naturalist
+
+**Prerequisite:** Level 2+ Ranger
+
+You have cultivated a strong bond with animals and nature. 
+
+***Improved Ability Checks.*** Whenever you would make an Intelligence (Nature), you can choose to make a Wisdom (Nature) check instead.
+
+***Ritual Spells.*** You can cast *[:spell-level-1: Find Familiar](../../spells/description/core/level-1.md#find-familiar)*, but only as a ritual.
+
 ---
 
 ### Natural Regeneration
@@ -154,6 +177,24 @@ Your combat techniques are improved
 **Prerequisite:** Level 3+ Ranger
 
 During a Short Rest, you can recover spell slots of a combined level equal to your Wisdom modifier. Once you do, you must finish a Long Rest before you can use this feature again.
+
+---
+
+### Planar Wanderer
+
+**Prerequisite:** Level 9+ Ranger
+
+Choose one of the following damage types: :dmg-force: Force, :dmg-necrotic: Necrotic, :dmg-psychic: Psychic, or :dmg-radiant: Radiant. You gain :dmg-res: Resistance to the chosen damage type. 
+
+***Repeatable.*** You can choose this Aptitude again, choosing different damage type each time.
+
+---
+
+### Remove from Existence
+
+**Prerequisite:** Level 20+ Ranger
+
+Whenever you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can immediately end the spell and cause that attack to deal maximum damage instead of rolling. If the attack reduces the creature to 50 Hit Points or fewer, it must succeed on a Constitution saving throw against your Spell save DC or it instantly dies.
 
 ---
 
@@ -211,86 +252,6 @@ You always under the effect of *[:spell-level-4: Freedom of Movement]* spell so 
 
 ---
 
-## Level 5+ Ranger
-
-### Cunning Technique
-
-**Prerequisite:** Level 5+ Ranger
-
-You learn some rougish techniques.
-
-***Cunning Action.*** Choose one of the following Actions, you can use a :rsc-b: **Bonus Action** to take it: Dodge, Disengage, or Hide.
-
-***Repeatable.*** You can choose this Aptitude again, choosing a different action each time.
-
----
-
-### Enhanced Senses I
-
-**Prerequisite:** Level 5+ Ranger
-
-You can't have :d20-disadv: **Disadvantage** on attack rolls against the target of your *[:spell-level-1: Hunter's Mark]*.
-
----
-
-### Enhanced Senses II
-
-**Prerequisite:** Level 18+ Ranger, [Enhanced Senses I]
-
-You can't have :d20-disadv: **Disadvantage** on attack rolls against any target within 30 feet of you.
-
----
-
-## Level 7+ Ranger
-
-### Deadeye I
-
-**Prerequisite:** Level 7+ Ranger, [Slayer II]
-
-When you score a Critical Hit against a creature, all creature have Advantage on the next attack they make against that creature before the end of your next turn.
-
----
-
-### Deadeye II
-
-**Prerequisite:** Level 11+ Ranger, [Deadeye I]
-
-You gain the following benefits:
-
-***Improved Critical.*** When you attack the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, the number you need to roll to for a Critical Hit is reduced by 1. This effect can stack.
-
-***Weakness Exploit.*** Each time you score a Critical Hit against a creature, the number you need roll for another Critical Hit against that creature is reduced by 1. This effect can stack for 2 instances.
-
----
-
-### Deadeye III
-
-**Prerequisite:** Level 15+ Ranger, [Deadeye II]
-
-When you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can choose to end the spell and make the attack score a Critical Hit.
-
----
-
-## Level 9+ Ranger
-
-### Adrenaline
-
-**Prerequisite:** Level 9+ Ranger
-
-You can cast *Haste* once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Long Rest.
-
----
-
-### Planar Wanderer
-
-**Prerequisite:** Level 9+ Ranger
-
-Choose one of the following damage types: :dmg-force: Force, :dmg-necrotic: Necrotic, :dmg-psychic: Psychic, or :dmg-radiant: Radiant. You gain :dmg-res: Resistance to the chosen damage type. 
-
-***Repeatable.*** You can choose this Aptitude again, choosing different damage type each time.
-
----
-
 ### Survivor I
 
 **Prerequisite:** Level 9+ Ranger
@@ -307,13 +268,27 @@ When you make a Death Saving Throw, you add your Wisdom modifier to the roll (mi
 
 ---
 
-## Level 20+ Ranger
+### Urban Tracker
 
-### Remove from Existence
+**Prerequisite:** Level 2+ Ranger
 
-**Prerequisite:** Level 20+ Ranger
+You are an expert at navigating the labyrinthine Citadel Cities as well as the wilds. 
 
-Whenever you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can immediately end the spell and cause that attack to deal maximum damage instead of rolling. If the attack reduces the creature to 50 Hit Points or fewer, it must succeed on a Constitution saving throw against your Spell save DC or it instantly dies.
+***Proficiency.*** You gain Proficiency in Acrobatics and Sleight of Hand.
+
+***Thieve's Cant.*** You learn the Thieve's Cant language.
+
+---
+
+### Wasteland Wanderer
+
+**Prerequisite:** Level 2+ Ranger
+
+You have spent endless days surviving desolate wasteland
+
+***Resistance.*** Choose one of the following damage types: :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-poison: Poison, or :dmg-lightning: Lightning. You gain :dmg-res: Resistance to the chosen damage type. 
+
+***Repeatable.*** You can choose this Aptitude again, choosing different damage type each time.
 
 ---
 
