@@ -457,11 +457,8 @@
   font-weight: 300;
   font-size: 0.7rem;
 }
-.md-typeset b {
-  letter-spacing: 0.021rem;
-}
 .md-typeset strong {
-  letter-spacing: 8.4rem;
+  letter-spacing: 0.021rem;
 }
 .md-typeset p {
   margin: 0.3rem 0 0.3rem 0;
