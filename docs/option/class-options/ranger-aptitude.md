@@ -7,6 +7,8 @@ status: homebrew
 
 Below are the Aptitudes available to the Ranger. If an Aptitude has a prerequisite, like your Ranger level or another Aptitude, you can learn it at the same time that you meet all of that Aptitude's prerequisites.
 
+## Level 1+ Ranger
+
 ### Origin: Bounty Hunter 
 
 Your expertise in hunting bounties stands out.
@@ -23,7 +25,7 @@ You specialise in hunting those not native to Antares.
 
 ***Proficiency.***  You gain proficiency in Arcana and Religion.
 
-***Protection.*** You can cast *Protection from Evil and Good* without expending a spell slot once per Long Rest.
+***Protection.*** You can cast *[:spell-level-1: Protection from Evil and Good](../../spells/description/core/level-1.md#protection-from-evil-and-good)* without expending a spell slot once per Long Rest.
 
 ---
 
@@ -57,53 +59,45 @@ You have sworn to hunt the enemies of a holy or druidic order.
 
 ---
 
-### Adrenaline
+## Level 2+ Ranger
 
-**Prerequisite:** Level 9+ Ranger
+### Naturalist
 
-You can cast *Haste* once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Long Rest.
+**Prerequisite:** Level 2+ Ranger
 
----
+You have cultivated a strong bond with animals and nature. 
 
-### Cunning Technique
+***Improved Ability Checks.*** Whenever you would make an Intelligence (Nature), you can choose to make a Wisdom (Nature) check instead.
 
-**Prerequisite:** Level 5+ Ranger
-
-You learn some rougish techniques.
-
-***Cunning Action.*** Choose one of the following Actions, you can use a :rsc-b: **Bonus Action** to take it: Dodge, Disengage, or Hide.
-
-***Repeatable.*** You can choose this Aptitude again, choosing a different action each time.
+***Ritual Spells.*** You can cast *[:spell-level-1: Find Familiar](../../spells/description/core/level-1.md#find-familiar)*, but only as a ritual.
 
 ---
 
-### Deadeye I
+### Urban Tracker
 
-**Prerequisite:** Level 7+ Ranger, [Slayer II]
+**Prerequisite:** Level 2+ Ranger
 
-When you score a Critical Hit against a creature, all creature have :d20-adv: **Advantage** on the next attack they make against that creature before the end of your next turn.
+You are an expert at navigating the labyrinthine Citadel Cities as well as the wilds. 
 
----
+***Proficiency.*** You gain Proficiency in Acrobatics and Sleight of Hand.
 
-### Deadeye II
-
-**Prerequisite:** Level 11+ Ranger, [Deadeye I]
-
-You gain the following benefits:
-
-***Improved Critical.*** When you attack the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, the number you need to roll to for a Critical Hit is reduced by 1. This effect can stack.
-
-***Weakness Exploit.*** Each time you score a Critical Hit against a creature, the number you need roll for another Critical Hit against that creature is reduced by 1. This effect can stack for 2 instances.
+***Thieve's Cant.*** You learn the Thieve's Cant language.
 
 ---
 
-### Deadeye III
+### Wasteland Wanderer
 
-**Prerequisite:** Level 15+ Ranger, [Deadeye II]
+**Prerequisite:** Level 2+ Ranger
 
-When you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can choose to end the spell and make the attack score a Critical Hit.
+You have spent endless days surviving desolate wasteland
+
+***Resistance.*** Choose one of the following damage types: :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-poison: Poison, or :dmg-lightning: Lightning. You gain :dmg-res: Resistance to the chosen damage type. 
+
+***Repeatable.*** You can choose this Aptitude again, choosing different damage type each time.
 
 ---
+
+## Level 3+ Ranger
 
 ### Hedge Knight
 
@@ -135,6 +129,62 @@ You are trained to use complex combat techniques.
 
 ---
 
+### Natural Regeneration
+
+**Prerequisite:** Level 3+ Ranger
+
+During a Short Rest, you can recover spell slots of a combined level equal to your Wisdom modifier. Once you do, you must finish a Long Rest before you can use this feature again.
+
+---
+
+### Slayer I
+
+**Prerequisite:** Level 3+ Ranger
+
+When you hit a creature with a weapon attack or Unarmed Strike you can cast *[:spell-level-1: Hunter's Mark]* at the target as part of the attack, applying its damage bonus and other benefits (if any) to the damage roll.
+
+---
+
+### Strider I
+
+**Prerequisite:** Level 3+ Ranger
+
+You ignore the effects of Difficult Terrain caused by natural environments or terrain.
+
+---
+
+## Level 5+
+
+### Cunning Technique
+
+**Prerequisite:** Level 5+ Ranger
+
+You learn some rougish techniques.
+
+***Cunning Action.*** Choose one of the following Actions, you can use a :rsc-b: **Bonus Action** to take it: Dodge, Disengage, or Hide.
+
+***Repeatable.*** You can choose this Aptitude again, choosing a different action each time.
+
+---
+
+### Slayer II
+
+**Prerequisite:** Level 5+ Ranger, [Slayer I]
+
+When you roll Initiative, you can take a :rsc-r: **Reaction** to cast *[:spell-level-1: Hunter's Mark]*.
+
+---
+
+## Level 7+
+
+### Deadeye I
+
+**Prerequisite:** Level 7+ Ranger
+
+When you score a Critical Hit against a creature, all creature have :d20-adv: **Advantage** on the next attack they make against that creature before the end of your next turn.
+
+---
+
 ### Martial Superiority II
 
 **Prerequisite:** Level 7+ Ranger, [Martial Superiority I]
@@ -147,36 +197,21 @@ Your combat techniques are improved
 
 ---
 
-### Martial Superiority III
+### Strider II
 
-**Prerequisite:** Level 15+ Ranger, [Martial Superiority II]
+**Prerequisite:** Level 7+ Ranger, [Strider I](#strider-i)
 
-Your combat techniques are improved
-
-***Superiority Die.*** You gain two additional Superiority Die and all your Superiority Die improves to :die-d8: d10.
-
-***Manoeuvre.*** You learn two additional Combat Manoeuvre from the Battle Master (Fighter) subclass of you choice.
-
+You ignore the effects of any Difficult Terrain imposed by spells, magical phenomena, or any other supernatural effect.
 
 ---
 
-### Naturalist
+## Level 9+ Ranger
 
-**Prerequisite:** Level 2+ Ranger
+### Adrenaline
 
-You have cultivated a strong bond with animals and nature. 
+**Prerequisite:** Level 9+ Ranger
 
-***Improved Ability Checks.*** Whenever you would make an Intelligence (Nature), you can choose to make a Wisdom (Nature) check instead.
-
-***Ritual Spells.*** You can cast *[:spell-level-1: Find Familiar](../../spells/description/core/level-1.md#find-familiar)*, but only as a ritual.
-
----
-
-### Natural Regeneration
-
-**Prerequisite:** Level 3+ Ranger
-
-During a Short Rest, you can recover spell slots of a combined level equal to your Wisdom modifier. Once you do, you must finish a Long Rest before you can use this feature again.
+You can cast *Haste* once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Long Rest.
 
 ---
 
@@ -190,33 +225,31 @@ Choose one of the following damage types: :dmg-force: Force, :dmg-necrotic: Necr
 
 ---
 
-### Remove from Existence
+### Survivor I
 
-**Prerequisite:** Level 20+ Ranger
+**Prerequisite:** Level 9+ Ranger
 
-Whenever you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can immediately end the spell and cause that attack to deal maximum damage instead of rolling. If the attack reduces the creature to 50 Hit Points or fewer, it must succeed on a Constitution saving throw against your Spell save DC or it instantly dies.
-
----
-
-### Slayer I
-
-**Prerequisite:** Level 3+ Ranger
-
-When you hit a creature with a weapon attack or Unarmed Strike you can cast *[:spell-level-1: Hunter's Mark]* at the target as part of the attack, applying its damage bonus and other benefits (if any) to the damage roll.
+Your body can rapidly recover from injury. When you expend a Hit Die to regain hit points, you regain additional Hit Points equal to your Wisdom modifier (minimum of 1 hit point).
 
 ---
 
-### Slayer II
+## Level 11+ Ranger
 
-**Prerequisite:** Level 5+ Ranger, [Slayer I]
+### Deadeye II
 
-When you roll Initiative, you can take a :rsc-r: **Reaction** to cast *[:spell-level-1: Hunter's Mark]*.
+**Prerequisite:** Level 11+ Ranger, [Deadeye I]
+
+You gain the following benefits:
+
+***Improved Critical.*** When you attack the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, the number you need to roll to for a Critical Hit is reduced by 1. This effect can stack.
+
+***Weakness Exploit.*** Each time you score a Critical Hit against a creature, the number you need roll for another Critical Hit against that creature is reduced by 1. This effect can stack for 2 instances.
 
 ---
 
 ### Slayer III
 
-**Prerequisite:** Level 10+ Ranger, [Slayer II]
+**Prerequisite:** Level 11+ Ranger, [Slayer II]
 
 Once per turn, when you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can cause it to take an additional effect until the start of your next turn. These effects are as follow:
 
@@ -228,19 +261,25 @@ Once per turn, when you hit the target of your *[:spell-level-1: Hunter's Mark]*
 
 ---
 
-### Strider I
+## Level 15+
 
-**Prerequisite:** Level 3+ Ranger
+### Deadeye III
 
-You ignore the effects of Difficult Terrain caused by natural environments or terrain.
+**Prerequisite:** Level 15+ Ranger, [Deadeye II]
+
+When you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can choose to end the spell and make the attack score a Critical Hit.
 
 ---
 
-### Strider II
+### Martial Superiority III
 
-**Prerequisite:** Level 7+ Ranger, [Strider I](#strider-i)
+**Prerequisite:** Level 15+ Ranger, [Martial Superiority II]
 
-You ignore the effects of any Difficult Terrain imposed by spells, magical phenomena, or any other supernatural effect.
+Your combat techniques are improved
+
+***Superiority Die.*** You gain two additional Superiority Die and all your Superiority Die improves to :die-d8: d10.
+
+***Manoeuvre.*** You learn two additional Combat Manoeuvre from the Battle Master (Fighter) subclass of you choice.
 
 ---
 
@@ -252,14 +291,6 @@ You always under the effect of *[:spell-level-4: Freedom of Movement]* spell so 
 
 ---
 
-### Survivor I
-
-**Prerequisite:** Level 9+ Ranger
-
-Your body can rapidly recover from injury. When you expend a Hit Die to regain hit points, you regain additional Hit Points equal to your Wisdom modifier (minimum of 1 hit point).
-
----
-
 ### Survivor II
 
 **Prerequisite:** Level 15+ Ranger, [Survivor I](#survivor-i)
@@ -268,27 +299,13 @@ When you make a Death Saving Throw, you add your Wisdom modifier to the roll (mi
 
 ---
 
-### Urban Tracker
+## Level 20+
 
-**Prerequisite:** Level 2+ Ranger
+### Remove from Existence
 
-You are an expert at navigating the labyrinthine Citadel Cities as well as the wilds. 
+**Prerequisite:** Level 20+ Ranger
 
-***Proficiency.*** You gain Proficiency in Acrobatics and Sleight of Hand.
-
-***Thieve's Cant.*** You learn the Thieve's Cant language.
-
----
-
-### Wasteland Wanderer
-
-**Prerequisite:** Level 2+ Ranger
-
-You have spent endless days surviving desolate wasteland
-
-***Resistance.*** Choose one of the following damage types: :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-poison: Poison, or :dmg-lightning: Lightning. You gain :dmg-res: Resistance to the chosen damage type. 
-
-***Repeatable.*** You can choose this Aptitude again, choosing different damage type each time.
+Whenever you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can immediately end the spell and cause that attack to deal maximum damage instead of rolling. If the attack reduces the creature to 50 Hit Points or fewer, it must succeed on a Constitution saving throw against your Spell save DC or it instantly dies.
 
 ---
 
