@@ -24,7 +24,14 @@ When you make an attack with a Cold Weapon that has :weapon-prop-heavy: **Heavy*
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-You gain training with Shields and it can be used as a Martial Melee Weapon. The Shield deals :dmg-blunt: Bludgeoning damage equal to your Strength modifier plus a number of d4s equal to the AC granted by the Shield. You can take the Attack action using a Shield as a :rsc-b: **Bonus Action**.
+You gain training with Shields and it gains the following trait when you wield it:
+
+**Weapon Category:** Martial Melee  
+**Damage on a Hit:** A number of d4s equals to the Shield's AC as :dmg-blunt: Bludgeoning damage plus Strength modifier  
+**Properties:** None  
+**Mastery:** None (can't benefit from any Mastery properties, unless stated otherwise)
+
+You can use a :rsc-b: **Bonus Action** to take the **Attack** action using a Shield.
 
 ---
 

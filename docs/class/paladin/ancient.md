@@ -25,11 +25,11 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells |
 |:---:|:---|
-| 3 | Ensnaring Strike, Speak with Animal |
-| 5 | Misty Step, Moonbeam |
-| 9 | Plant Growth, Protection from Energy |
-| 13 | Ice Storm, Stoneskin |
-| 17 | Commune with Nature, Tree Stride |
+| 3 | *Ensnaring Strike*, *Speak with Animal* |
+| 5 | *Misty Step*, *Moonbeam* |
+| 9 | *Plant Growth*, *Protection from Energy* |
+| 13 | *Ice Storm*, *Stoneskin* |
+| 17 | *Commune with Nature*, *Tree Stride* |
 
 ### Level 7: Aura Of Warding
 
@@ -47,6 +47,6 @@ As a Bonus Action, you can imbue your Aura of Protection with primal power, gran
 
 ***Diminish Defiance.*** Enemies in the aura have Disadvantage on saving throws against your spells and Channel Divinity options.
 
-&emsp;***Regeneration.*** At the start of each of your turns, you regain 10 Hit Points.
+***Regeneration.*** At the start of each of your turns, you regain 10 Hit Points.
 
 ***Swift Spells.*** Whenever you cast a spell that has a casting time of 1n action, you can cast it using a Bonus Action instead.

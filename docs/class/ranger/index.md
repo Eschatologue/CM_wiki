@@ -49,7 +49,7 @@ As a Ranger, you gain the following class features when you reach the specified 
 
 | Level | PB | Class Features | Favoured Enemy | Prepared Spells | I | II | III | IV | V |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | +2 | Ranger's Prey, Spellcasting, Favoured Enemy, Weapon Mastery | 2 | 2 | 2 | — | — | — | — |
+| 1 | +2 | Favoured Enemy, Ranger's Origin, Spellcasting, Weapon Mastery | 2 | 2 | 2 | — | — | — | — |
 | 2 | +2 | Deft Explorer, Fighting Style | 2 | 3 | 2 | — | — | — | — |
 | 3 | +2 | Ranger Subclass | 2 | 4 | 3 | — | — | — | — |
 | 4 | +2 | Ability Score Improvement | 2 | 5 | 3 | — | — | — | — |
@@ -74,23 +74,40 @@ As a Ranger, you gain the following class features when you reach the specified 
 
     This version of Ranger is a modified version of the 2024 PHB. Some changes are made to buff ranger's to be more appealing as a class.
 
-### Level 1: Ranger’s Prey
+### Level 1: Favoured Enemy
 
-All rangers are unique, each shaped by their own distinct history. Choose one of the following benefits. If a benefit grants a spell, it is considered a Ranger spell for you, and Wisdom is your spellcasting ability. If a benefit grants proficiency in a skill you already have, choose a different proficiency available to the [Core Ranger Trait](#core-ranger-trait) table:
+You always have the ***Hunter’s Mark*** spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a Long Rest.
 
-***Bounty Hunter.*** Your expertise in hunting bounties stands out. You gain proficiency in Insight and Investigation. Creatures has :d20-disadv: **Disadvantage** on saves to end the Restrained condition caused by you.
+The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favoured Enemy column of the Ranger Features table. When the spell is cast this way, it does not require :spell-concentration: Concentration, though it ends early if you have the ^^Incapacitated^^ condition.
 
-***Deathwatch***  
-You specialise in hunting those not native to Antares. You gain proficiency in Arcana, and you can cast *Protection from Evil and Good* without expending a spell slot once per Long Rest.
+### Level 1: Ranger’s Origin
 
-***Mage Breaker***  
-You have a background in battling spellcasters. You gain proficiency in Arcana, and the *True Strike* cantrip is always prepared for you.
+You gain one of the following benefits. If a benefit grants a spell, it is considered a Ranger spell for you, and Wisdom is your spellcasting ability. If a benefit grants proficiency in a skill you already have, choose a different proficiency available to the [Core Ranger Trait](#core-ranger-trait) table:
 
-***Ranger Knight***  
-You have sworn to serve a crown or nation and aim to bring its foes to ruin. You gain proficiency in History and armour training with Heavy armour.
+***Bounty Hunter***
 
-***Sanctified Hunter***  
-You have sworn to hunt the enemies of a holy or druidic order. You gain proficiency in Religion, and the *Sacred Flame* cantrip is always prepared for you.
+:   Your expertise in hunting bounties stands out. You gain proficiency in Insight and Investigation. Creatures has :d20-disadv: **Disadvantage** on saves to resist or end the ^^Grappled^^ or ^^Restrained^^ condition caused by you.
+
+***Deathwatch***
+
+:   You specialise in hunting those not native to Antares. You gain proficiency in Arcana, and you can cast *Protection from Evil and Good* without expending a spell slot once per Long Rest.
+
+***Mage Hunter***
+
+:   You have a background in battling spellcasters. You gain proficiency in Arcana, and the *True Strike* cantrip is always prepared for you.
+
+***Mountaineer***
+:   You are amazingly surefooted. You gain a Climbing Speed equals to your :rsc-speed: Speed, and you can use your reaction to reduce any falling damage you take by an amount equal to your Ranger level. If you already have a Climbing Speed it increases by 10 feet.
+
+***Ranger Knight***
+
+:   You have sworn to serve a crown or nation and aim to bring its foes to ruin. You gain proficiency in History and armour training with Heavy armour.
+
+***Sanctified Hunter***
+
+:   You have sworn to hunt the enemies of a holy or druidic order. You gain proficiency in Religion, and the *Sacred Flame* cantrip is always prepared for you.
+
+You gain one additional *Ranger's Origin* benefit when you reach level 5 (2), level 9 (3), and level 13 (4).
 
 ### Level 1: Spellcasting
 
@@ -120,12 +137,6 @@ Whenever you finish a Long Rest, you can replace one spell on your list with ano
 
 You can use a Druidic Focus as a Spellcasting Focus for your Ranger spells.
 
-### Level 1: Favoured Enemy
-
-You always have the ***Hunter’s Mark*** spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a Long Rest.
-
-The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favoured Enemy column of the Ranger Features table. When the spell is cast this way, it does not require :spell-concentration: Concentration, though it ends early if you have the Incapcacitated condition.
-
 ### Level 1: Weapon Mastery
 
 Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Longbows and Shortswords.
@@ -135,7 +146,7 @@ Whenever you finish a Long Rest, you can do one of the following:
 ***Change Weapon***  
 You can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Longswords, or
 
-***Replace Weapon Mastery^*CM*^***  
+***Replace Weapon Mastery^*CM*^**  
 You can choose any of the kinds of Mastery weapons you’re using and replace the Mastery property of each with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Scimitar's Nick property with the Vex property.
 
 --8<-- "includes/snippets/item-mastery.md"
@@ -148,7 +159,7 @@ Thanks to your travels, you gain the following benefits.
 
 ***Languages.*** You know two languages of your choice from the language tables in chapter 2.
 
-### Level 2: Wanderer of the World
+### Level 2: World's Wanderer
 
 Antares is a harsh and unforgiving realm for travellers, yet you have journeyed through it regardless. You gain one of the following benefits:
 
@@ -156,10 +167,12 @@ Antares is a harsh and unforgiving realm for travellers, yet you have journeyed 
 You have cultivated a strong bond with animals. You can cast *Find Familiar*, but only as a ritual.
 
 ***Urban Tracker***  
-You are an expert at navigating the labyrinthine Citadel Cities as well as the wilds. You gain Proficiency in Sleight of Hand.
+You are an expert at navigating the labyrinthine Citadel Cities as well as the wilds. You gain Proficiency in Acrobatics and Sleight of Hand.
 
 ***Wasteland Wanderer***  
-Choose one of the following damage types: :dmg-cold: Cold, :dmg-fire: Fire, :dmg-poison: Poison, or :dmg-lightning: Lightning. You gain :dmg-res: **Resistance** to the chosen damage type.
+Choose one of the following damage types: :dmg-cold: Cold, :dmg-fire: Fire, :dmg-poison: Poison, or :dmg-lightning: Lightning. You gain :dmg-res: Resistance to the chosen damage type. You can choose this benefit again if you are given the option to, choosing the same damage type gives you :dmg-imm: Immunity to that damage type.
+
+You gain one additional *World's Wanderer* benefit when you reach level 9 and one more at level 17.
 
 ### Level 2: Fighting Style
 
