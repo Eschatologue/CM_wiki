@@ -22,12 +22,8 @@ $h4Size: $defaultFontSize * 1.125;
     font-weight: $defaultFontWeight;
     font-size: $defaultFontSize;
 
-    b {
-        letter-spacing: $defaultFontSize * 0.03;
-    }
-
     strong {
-        letter-spacing: $defaultFontSize * 12;
+        letter-spacing: $defaultFontSize * 0.03;
     }
 
     p {
