@@ -7,7 +7,7 @@ status: homebrew
 
 Below are the list of Ranger's Aptidudes.
 
----
+## Ranger's Origin Aptidude
 
 ### Origin: Bounty Hunter 
 
@@ -39,16 +39,6 @@ You have a background in battling spellcasters.
 
 ---
 
-### Origin: Mountaineer 
-
-You are amazingly surefooted.
-
-***Climbing Speed.*** You gain a Climbing Speed equals to your :rsc-speed: Speed, and 
-
-***Fall Damage Reduction.*** You can take a :rsc-r: **Reaction** to reduce any falling damage you take by an amount equal to your Ranger level.
-
----
-
 ### Origin: Ranger Knight 
 
 You have sworn to serve a crown or nation and aim to bring its foes to ruin.
@@ -69,29 +59,7 @@ You have sworn to hunt the enemies of a holy or druidic order.
 
 ---
 
-### Strider I
-
-**Prerequisite:** Level 1+ Ranger
-
-You ignore the effects of Difficult Terrain caused by natural environments or terrain.
-
----
-
-### Strider II
-
-**Prerequisite:** Level 7+ Ranger, [Strider I](#strider-i)
-
-You ignore the effects of any Difficult Terrain imposed by spells, magical phenomena, or any other supernatural effect.
-
----
-
-### Strider III
-
-**Prerequisite:** Level 15+ Ranger, [Strider II](#strider-ii)
-
-You always under the effect of *[:spell-level-4: Freedom of Movement](../../spells/description/core/level-4.md#freedom-of-movement)* spell so long you don't have the ^^Unconcious^^ condition.
-
----
+## Level 2 Aptidude
 
 ### Naturalist
 
@@ -123,6 +91,8 @@ Choose one of the following damage types: :dmg-acid: Acid, :dmg-cold: Cold, :dmg
 
 ---
 
+## Level 3 Aptitude
+
 ### Hedge Knight
 
 **Prerequisite:** Level 3+ Ranger, [Origin: Ranger Knight]
@@ -140,8 +110,6 @@ Though you wander the wilds, you still understood the intricacy of politics.
 You learn how to utilise divine magic.
 
 ***Mark of Judgement.*** When you hit the target of your *Hunter's Mark* with a weapon attack or Unarmed Strike, you can change the spell's bonus damage type to :dmg-radiant: Radiant or :dmg-necrotic: Necrotic damage (choose each time) instead of :dmg-force: Force.
-
----
 
 ### Martial Superiority I
 
@@ -175,56 +143,13 @@ Your combat techniques are improved
 
 ***Manoeuvre.*** You learn two additional Combat Manoeuvre from the Battle Master (Fighter) subclass of you choice. Each time you learn new Manoeuvre, you can also replace one Manoeuvre you know with a different one.
 
---- 
+---
 
-### Spellbreaker I
+### Natural Regeneration
 
-**Prerequisite:** Level 3+ Ranger, [Origin: Mage Hunter]
+**Prerequisite:** Level 3+ Ranger
 
-You are trained to break spellcasters.
-
-***Mage Breaker.*** When you hit a creature with a weapon attack, it has :d20-disadv: **Disadvantage** on its :d20-save: Constitution saving throw to maintain :spell-concentration: Concentration.
-
-***Spellsight.*** When you target a creature using *Hunter's Mark*, you instantly learn its spellcasting ability (if it has one) and the highest level spell that it has the ability to cast. If it is hidden from divination magic, such as by *Nondetection*, this ability fails.
-
---- 
-
-### Spellbreaker II
-
-**Prerequisite:** Level 7+ Ranger, [Spellbreaker I]
-
-Your tactics of dealing with spellcasters improved.
-
-***Arcane Defense.*** Whenever you are forced to make a :d20-save: saving throw to resist a spell or another magical effect, you gain a bonus to your roll equal to your Wisdom modifier (minimum of +1).
-
-***Spell Ward.*** Whenever you are subjected you to a spell or magical effect that allows you to make a :d20-save: saving throw to take only half damage, you instead take no damage on a success, and only half damage on a fail.
-
---- 
-
-### Spellbreaker III
-
-**Prerequisite:** Level 11+ Ranger, [Spellbreaker II]
-
-Your tactics of dealing with spellcasters are improved further
-
-***Level 3 Spells.*** You learn the *[:spell-level-3: Counterspell]* and *[:spell-level-3: Dispel Magic]* spells.
-
-***Spellbane.*** When you cast *[:spell-level-3: Dispel Magic]* and you need to make a spellcasting ability check to determine the result, you can treat a roll of 9 or lower as a 10. When you cast *[:spell-level-3: Counterspell]*, your target has :d20-disadv: **Disadvantage** on the :d20-save: saving throw.
-
-[:spell-level-3: Counterspell]: ../../spells/description/core/level-3.md#counterspell
-[:spell-level-3: Dispel Magic]: ../../spells/description/core/level-3.md#dispel-magic
-
---- 
-
-### Spellbreaker IV
-
-**Prerequisite:** Level 15+ Ranger, [Spellbreaker III]
-
-You reach the pinacle of dealing with those who dare uses magic.
-
-***Reflect Spell.*** You can cast *[:spell-level-1: Absorb Elements]* at will. After you cast the spell, if your next weapon attack—melee or ranged—is against the creature whose spell or damage you absorbed, the bonus damage from the spell is treated as its maximum possible amount.
-
-[:spell-level-1: Absorb Elements]: ../../spells/description/core/level-1.md#absorb-elements
+During a Short Rest, you can recover spell slots of a combined level equal to your Wisdom modifier. Once you do, you must finish a Long Rest before you can use this feature again.
 
 ---
 
@@ -262,7 +187,86 @@ You gain the following benefits:
 
 :   ***Coerce.*** The target must succeed a :d20-save: Charisma saving throw, or it has the ^^Charmed^^ condition.
 
+--- 
+
+### Spellbreaker I
+
+**Prerequisite:** Level 3+ Ranger, [Origin: Mage Hunter]
+
+You are trained to break spellcasters.
+
+***Mage Breaker.*** When you hit a creature with a weapon attack, it has :d20-disadv: **Disadvantage** on its :d20-save: Constitution saving throw to maintain :spell-concentration: Concentration.
+
+***Spellsight.*** When you target a creature using *Hunter's Mark*, you instantly learn its spellcasting ability (if it has one) and the highest level spell that it has the ability to cast. If it is hidden from divination magic, such as by *Nondetection*, this ability fails.
+
+--- 
+
+### Spellbreaker II
+
+**Prerequisite:** Level 7+ Ranger, [Spellbreaker I]
+
+Your tactics of dealing with spellcasters improved.
+
+***Arcane Defense.*** Whenever you are forced to make a :d20-save: saving throw to resist a spell or another magical effect, you gain a bonus to your roll equal to your Wisdom modifier (minimum of +1).
+
+***Spell Ward.*** Whenever you are subjected you to a spell or magical effect that allows you to make a :d20-save: saving throw to take only half damage, you instead take no damage on a success, and only half damage on a fail.
+
+--- 
+
+### Spellbreaker III
+
+**Prerequisite:** Level 11+ Ranger, [Spellbreaker II]
+
+Your tactics of dealing with spellcasters are improved further
+
+***Level 3 Spells.*** You learn the *[:spell-level-3: Counterspell]* and *[:spell-level-3: Dispel Magic]* spells.
+
+:   When you cast *[:spell-level-3: Dispel Magic]* and you need to make a spellcasting ability check to determine the result, you can treat a roll of 9 or lower as a 10. 
+
+:   When you cast *[:spell-level-3: Counterspell]*, your target has :d20-disadv: **Disadvantage** on the :d20-save: saving throw.
+
+[:spell-level-3: Counterspell]: ../../spells/description/core/level-3.md#counterspell
+[:spell-level-3: Dispel Magic]: ../../spells/description/core/level-3.md#dispel-magic
+
+--- 
+
+### Spellbreaker IV
+
+**Prerequisite:** Level 15+ Ranger, [Spellbreaker III]
+
+You reach the pinacle of dealing with those who dare uses magic.
+
+***Reflect Spell.*** You can cast *[:spell-level-1: Absorb Elements]* at will. After you cast the spell, if your next weapon attack—melee or ranged—is against the creature whose spell or damage you absorbed, the bonus damage from the spell is treated as its maximum possible amount.
+
+[:spell-level-1: Absorb Elements]: ../../spells/description/core/level-1.md#absorb-elements
+
 ---
+
+### Strider I
+
+**Prerequisite:** Level 3+ Ranger
+
+You ignore the effects of Difficult Terrain caused by natural environments or terrain.
+
+---
+
+### Strider II
+
+**Prerequisite:** Level 7+ Ranger, [Strider I](#strider-i)
+
+You ignore the effects of any Difficult Terrain imposed by spells, magical phenomena, or any other supernatural effect.
+
+---
+
+### Strider III
+
+**Prerequisite:** Level 15+ Ranger, [Strider II](#strider-ii)
+
+You always under the effect of *[:spell-level-4: Freedom of Movement](../../spells/description/core/level-4.md#freedom-of-movement)* spell so long you don't have the ^^Unconcious^^ condition.
+
+---
+
+## Level 5+ Ranger
 
 ### Cunning Technique
 
@@ -291,6 +295,8 @@ You can't have :d20-disadv: **Disadvantage** on attack rolls against the target 
 You can't have :d20-disadv: **Disadvantage** on attack rolls against any target within 30 feet of you.
 
 ---
+
+## Level 7+ Ranger
 
 ### Deadeye I
 
@@ -322,6 +328,8 @@ You gain the following benefits:
 
 ---
 
+## Level 9+ Ranger
+
 ### Planar Wanderer
 
 **Prerequisite:** Level 9+ Ranger
@@ -331,6 +339,24 @@ Choose one of the following damage types: :dmg-force: Force, :dmg-necrotic: Necr
 ***Repeatable.*** You can choose this Aptitude again, choosing different damage type each time.
 
 ---
+
+### Survivor I
+
+**Prerequisite:** Level 9+ Ranger
+
+Your body can rapidly recover from injury. When you expend a Hit Die to regain hit points, you regain additional Hit Points equal to your Wisdom modifier (minimum of 1 hit point).
+
+---
+
+### Survivor II
+
+**Prerequisite:** Level 15+ Ranger, [Survivor I](#survivor-i)
+
+When you make a Death Saving Throw, you add your Wisdom modifier to the roll (minimum of +1). If the result of your roll is 20 or higher, you gain two Death Saving Throw success.
+
+---
+
+## Level 20+ Ranger
 
 ### Remove from Existence
 
