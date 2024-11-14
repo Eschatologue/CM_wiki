@@ -7,6 +7,10 @@ status: homebrew
 
 Below are the Aptitudes available to the Ranger. If an Aptitude has a prerequisite, like your Ranger level or another Aptitude, you can learn it at the same time that you meet all of that Aptitude's prerequisites.
 
+## Level 1+ Aptitude
+
+These Aptitude lacks any prerequisites, which you can gain immediately when you reach Ranger Level 1.
+
 ### Origin: Bounty Hunter 
 
 Your expertise in hunting bounties stands out.
@@ -57,108 +61,9 @@ You have sworn to hunt the enemies of a holy or druidic order.
 
 ---
 
-### Adrenaline
+## Level 2+ Aptitude
 
-**Prerequisite:** Level 9+ Ranger
-
-You can cast *Haste* once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Long Rest.
-
----
-
-### Cunning Technique
-
-**Prerequisite:** Level 5+ Ranger
-
-You learn some rougish techniques.
-
-***Cunning Action.*** Choose one of the following Actions, you can use a :rsc-b: **Bonus Action** to take it: Dodge, Disengage, or Hide.
-
-***Repeatable.*** You can choose this Aptitude again, choosing a different action each time.
-
----
-
-### Deadeye I
-
-**Prerequisite:** Level 7+ Ranger, [Slayer II]
-
-When you score a Critical Hit against a creature, all creature have :d20-adv: **Advantage** on the next attack they make against that creature before the end of your next turn.
-
----
-
-### Deadeye II
-
-**Prerequisite:** Level 11+ Ranger, [Deadeye I]
-
-You gain the following benefits:
-
-***Improved Critical.*** When you attack the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, the number you need to roll to for a Critical Hit is reduced by 1. This effect can stack.
-
-***Weakness Exploit.*** Each time you score a Critical Hit against a creature, the number you need roll for another Critical Hit against that creature is reduced by 1. This effect can stack for 2 instances.
-
----
-
-### Deadeye III
-
-**Prerequisite:** Level 15+ Ranger, [Deadeye II]
-
-When you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can choose to end the spell and make the attack score a Critical Hit.
-
----
-
-### Hedge Knight
-
-**Prerequisite:** Level 3+ Ranger
-
-Though you wander the wilds, you still understood the intricacy of politics.
-
-***Improved Ability Checks.*** Whenever you make an ability check using one of the following skills, you can make it as a Wisdom check even if it normally uses a different ability: History, Intimidation, or Persuasion.
-
----
-
-### Inquisitor
-
-**Prerequisite:** Level 3+ Ranger
-
-You learn how to utilise divine magic.
-
-***Mark of Judgement.*** When you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can change the spell's bonus damage type to :dmg-radiant: Radiant or :dmg-necrotic: Necrotic damage (choose each time) instead of :dmg-force: Force.
-
----
-
-### Martial Superiority I
-
-**Prerequisite:** Level 3+ Ranger
-
-You are trained to use complex combat techniques. 
-
-***Fighting Style.*** You gain the [Superior Technique](../feat/feat-fighting-style/hb.md#superior-technique) Feat. Each time you learn new Manoeuvre, you can also replace one Manoeuvre you know with a different one.
-
----
-
-### Martial Superiority II
-
-**Prerequisite:** Level 7+ Ranger, [Martial Superiority I]
-
-Your combat techniques are improved
-
-***Superiority Die.*** You gain two additional Superiority Die and all your Superiority Die improves to :die-d8: d8.
-
-***Manoeuvre.*** You learn two additional Combat Manoeuvre from the Battle Master (Fighter) subclass of you choice. 
-
----
-
-### Martial Superiority III
-
-**Prerequisite:** Level 15+ Ranger, [Martial Superiority II]
-
-Your combat techniques are improved
-
-***Superiority Die.*** You gain two additional Superiority Die and all your Superiority Die improves to :die-d8: d10.
-
-***Manoeuvre.*** You learn two additional Combat Manoeuvre from the Battle Master (Fighter) subclass of you choice.
-
-
----
+You must be at least Ranger level 2 to gain these Aptitudes.
 
 ### Naturalist
 
@@ -169,102 +74,6 @@ You have cultivated a strong bond with animals and nature.
 ***Improved Ability Checks.*** Whenever you would make an Intelligence (Nature), you can choose to make a Wisdom (Nature) check instead.
 
 ***Ritual Spells.*** You can cast *[:spell-level-1: Find Familiar](../../spells/description/core/level-1.md#find-familiar)*, but only as a ritual.
-
----
-
-### Natural Regeneration
-
-**Prerequisite:** Level 3+ Ranger
-
-During a Short Rest, you can recover spell slots of a combined level equal to your Wisdom modifier. Once you do, you must finish a Long Rest before you can use this feature again.
-
----
-
-### Planar Wanderer
-
-**Prerequisite:** Level 9+ Ranger
-
-Choose one of the following damage types: :dmg-force: Force, :dmg-necrotic: Necrotic, :dmg-psychic: Psychic, or :dmg-radiant: Radiant. You gain :dmg-res: Resistance to the chosen damage type. 
-
-***Repeatable.*** You can choose this Aptitude again, choosing different damage type each time.
-
----
-
-### Remove from Existence
-
-**Prerequisite:** Level 20+ Ranger
-
-Whenever you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can immediately end the spell and cause that attack to deal maximum damage instead of rolling. If the attack reduces the creature to 50 Hit Points or fewer, it must succeed on a Constitution saving throw against your Spell save DC or it instantly dies.
-
----
-
-### Slayer I
-
-**Prerequisite:** Level 3+ Ranger
-
-When you hit a creature with a weapon attack or Unarmed Strike you can cast *[:spell-level-1: Hunter's Mark]* at the target as part of the attack, applying its damage bonus and other benefits (if any) to the damage roll.
-
----
-
-### Slayer II
-
-**Prerequisite:** Level 5+ Ranger, [Slayer I]
-
-When you roll Initiative, you can take a :rsc-r: **Reaction** to cast *[:spell-level-1: Hunter's Mark]*.
-
----
-
-### Slayer III
-
-**Prerequisite:** Level 11+ Ranger, [Slayer II]
-
-Once per turn, when you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can cause it to take an additional effect until the start of your next turn. These effects are as follow:
-
-:   ***Blind and Silenced.*** The target must succeed a :d20-save: Constitution saving throw, or it has the ^^Blinded^^ and ^^Silenced^^ condition.
-
-:   ***Fright.*** The target must succeed a :d20-save: Wisdom saving throw, or it has the ^^Frightened^^ condition.
-
-:   ***Coerce.*** The target must succeed a :d20-save: Charisma saving throw, or it has the ^^Charmed^^ condition.
-
----
-
-### Strider I
-
-**Prerequisite:** Level 3+ Ranger
-
-You ignore the effects of Difficult Terrain caused by natural environments or terrain.
-
----
-
-### Strider II
-
-**Prerequisite:** Level 7+ Ranger, [Strider I](#strider-i)
-
-You ignore the effects of any Difficult Terrain imposed by spells, magical phenomena, or any other supernatural effect.
-
----
-
-### Strider III
-
-**Prerequisite:** Level 15+ Ranger, [Strider II](#strider-ii)
-
-You always under the effect of *[:spell-level-4: Freedom of Movement]* spell so long you don't have the ^^Unconcious^^ condition.
-
----
-
-### Survivor I
-
-**Prerequisite:** Level 9+ Ranger
-
-Your body can rapidly recover from injury. When you expend a Hit Die to regain hit points, you regain additional Hit Points equal to your Wisdom modifier (minimum of 1 hit point).
-
----
-
-### Survivor II
-
-**Prerequisite:** Level 15+ Ranger, [Survivor I](#survivor-i)
-
-When you make a Death Saving Throw, you add your Wisdom modifier to the roll (minimum of +1). If the result of your roll is 20 or higher, you gain two Death Saving Throw success.
 
 ---
 
@@ -292,25 +101,231 @@ You have spent endless days surviving desolate wasteland
 
 ---
 
-[Cunning Technique]: #cunning-technique 
+## Level 3+ Aptitude
 
-[Deadeye I]: #deadeye-i
-[Deadeye II]: #deadeye-ii
+You must be at least Ranger level 3 to gain these Aptitudes.
 
-[Slayer I]: #slayer-i
-[Slayer II]: #slayer-ii
-[Slayer III]: #slayer-iii
+### Hedge Knight
 
-[Martial Superiority I]: #martial-superiority-i
-[Martial Superiority II]: #martial-superiority-ii
+**Prerequisite:** Level 3+ Ranger
 
-[Enhanced Senses I]: #enhanced-senses-i
+Though you wander the wilds, you still understood the intricacy of politics.
 
-[Origin: Ranger Knight]: #origin-ranger-knight
-[Origin: Bounty Hunter]: #origin-bounty-hunter
-[Origin: Deathwatch]: #origin-deathwatch
-[Origin: Sanctified Hunter]: #origin-sanctified-hunter
-[Origin: Mage Hunter]: #origin-mage-hunter
+***Improved Ability Checks.*** Whenever you make an ability check using one of the following skills, you can make it as a Wisdom check even if it normally uses a different ability: History, Intimidation, or Persuasion.
+
+---
+
+### Inquisitor
+
+**Prerequisite:** Level 3+ Ranger
+
+You learn how to utilise divine magic.
+
+***Mark of Judgement.*** When you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can change the spell's bonus damage type to :dmg-radiant: Radiant or :dmg-necrotic: Necrotic damage (choose each time) instead of :dmg-force: Force.
+
+---
+
+### Martial Superiority
+
+**Prerequisite:** Level 3+ Ranger
+
+You are trained to use complex combat techniques. 
+
+***Fighting Style.*** You gain the [Superior Technique](../feat/feat-fighting-style/hb.md#superior-technique) Feat. Each time you learn new Manoeuvre, you can also replace one Manoeuvre you know with a different one.
+
+---
+
+### Natural Regeneration
+
+**Prerequisite:** Level 3+ Ranger
+
+During a Short Rest, you can recover spell slots of a combined level equal to your Wisdom modifier. Once you do, you must finish a Long Rest before you can use this feature again.
+
+---
+
+### Slayer
+
+**Prerequisite:** Level 3+ Ranger
+
+When you hit a creature with a weapon attack or Unarmed Strike you can cast *[:spell-level-1: Hunter's Mark]* at the target as part of the attack, applying its damage bonus and other benefits (if any) to the damage roll.
+
+---
+
+### Strider
+
+**Prerequisite:** Level 3+ Ranger
+
+You ignore the effects of Difficult Terrain caused by natural environments or terrain.
+
+---
+
+## Level 5+ Aptitude
+
+You must be at least Ranger level 5 to gain these Aptitudes.
+
+### Ambush Tactic
+
+**Prerequisite:** Level 5+ Ranger, [Slayer](#slayer)
+
+When you roll Initiative, you can take a :rsc-r: **Reaction** to cast *[:spell-level-1: Hunter's Mark]*.
+
+---
+
+### Cunning Technique
+
+**Prerequisite:** Level 5+ Ranger
+
+You learn some rougish techniques.
+
+***Cunning Action.*** Choose one of the following Actions, you can use a :rsc-b: **Bonus Action** to take it: Dodge, Disengage, or Hide.
+
+***Repeatable.*** You can choose this Aptitude again, choosing a different action each time.
+
+---
+
+## Level 7+ Aptitude
+
+You must be at least Ranger level 7 to gain these Aptitudes.
+
+### Honed Focus
+
+**Prerequisite:** Level 7+ Ranger
+
+When you score a Critical Hit against a creature, all creature have :d20-adv: **Advantage** on the next attack they make against that creature before the end of your next turn.
+
+---
+
+### Martial Excellence
+
+**Prerequisite:** Level 7+ Ranger, [Martial Superiority](#martial-superiority)
+
+Your combat techniques are improved
+
+***Superiority Die.*** You gain two additional Superiority Die and all your Superiority Die improves to :die-d8: d8.
+
+***Manoeuvre.*** You learn two additional Combat Manoeuvre from the Battle Master (Fighter) subclass of you choice. 
+
+---
+
+### Unhindered Steps
+
+**Prerequisite:** Level 7+ Ranger, [Strider](#strider)
+
+You ignore the effects of any Difficult Terrain imposed by spells, magical phenomena, or any other supernatural effect.
+
+---
+
+## Level 9+ Aptitude
+
+You must be at least Ranger level 7 to gain these Aptitudes.
+
+### Adrenaline
+
+**Prerequisite:** Level 9+ Ranger
+
+You can expend one use of your *Favoured Foe* to cast *Haste* once without expending a spell slot.
+
+---
+
+### Planar Wanderer
+
+**Prerequisite:** Level 9+ Ranger
+
+Choose one of the following damage types: :dmg-force: Force, :dmg-necrotic: Necrotic, :dmg-psychic: Psychic, or :dmg-radiant: Radiant. You gain :dmg-res: Resistance to the chosen damage type. 
+
+***Repeatable.*** You can choose this Aptitude again, choosing different damage type each time.
+
+---
+
+### Survivor
+
+**Prerequisite:** Level 9+ Ranger
+
+Your body can rapidly recover from injury. When you expend a Hit Die to regain hit points, you regain additional Hit Points equal to your Wisdom modifier (minimum of 1 hit point).
+
+---
+
+## Level 11+ Aptitude
+
+You must be at least Ranger level 11 to gain these Aptitudes.
+
+### Sharpened Senses
+
+**Prerequisite:** Level 11+ Ranger, [Honed Focus](#honed-focus)
+
+You gain the following benefits:
+
+***Improved Critical.*** When you attack the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, the number you need to roll to for a Critical Hit is reduced by 1. This effect can stack.
+
+***Weakness Exploit.*** Each time you score a Critical Hit against a creature, the number you need roll for another Critical Hit against that creature is reduced by 1. This effect can stack for 2 instances.
+
+---
+
+### Predatory Focus
+
+**Prerequisite:** Level 11+ Ranger, [Ambush's Mark](#ambush-tactic)
+
+Once per turn, when you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can cause it to take an additional effect until the start of your next turn. These effects are as follow:
+
+:   ***Blind and Silenced.*** The target must succeed a :d20-save: Constitution saving throw, or it has the ^^Blinded^^ and ^^Silenced^^ condition.
+
+:   ***Fright.*** The target must succeed a :d20-save: Wisdom saving throw, or it has the ^^Frightened^^ condition.
+
+:   ***Coerce.*** The target must succeed a :d20-save: Charisma saving throw, or it has the ^^Charmed^^ condition.
+
+---
+
+## Level 15+ Aptitude
+
+You must be at least Ranger level 15 to gain these Aptitudes.
+
+### Fatal Intent
+
+**Prerequisite:** Level 15+ Ranger, [Sharpened Senses](#sharpened-senses)
+
+When you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can choose to end the spell and make the attack score a Critical Hit.
+
+---
+
+### Martial Perfection
+
+**Prerequisite:** Level 15+ Ranger, [Martial Excellence](#martial-excellence)
+
+Your combat techniques are improved
+
+***Superiority Die.*** You gain two additional Superiority Die and all your Superiority Die improves to :die-d8: d10.
+
+***Manoeuvre.*** You learn two additional Combat Manoeuvre from the Battle Master (Fighter) subclass of you choice.
+
+---
+
+### Trailblazer
+
+**Prerequisite:** Level 15+ Ranger, [Unhindered Steps](#unhindered-steps)
+
+You always under the effect of *[:spell-level-4: Freedom of Movement]* spell so long you don't have the ^^Unconcious^^ condition.
+
+---
+
+### Iron Will
+
+**Prerequisite:** Level 15+ Ranger, [Survivor](#survivor)
+
+When you make a Death Saving Throw, you add your Wisdom modifier to the roll (minimum of +1). If the result of your roll is 20 or higher, you gain two Death Saving Throw success.
+
+---
+
+## Level 20+ Aptitude
+
+You must be at least Ranger level 20 to gain these Aptitudes.
+
+### Remove from Existence
+
+**Prerequisite:** Level 20+ Ranger
+
+Whenever you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can immediately end the spell and cause that attack to deal maximum damage instead of rolling. If the attack reduces the creature to 50 Hit Points or fewer, it must succeed on a Constitution saving throw against your Spell save DC or it instantly dies.
+
+
 
 [:spell-level-1: Hunter's Mark]: ../../spells/description/core/level-1.md#hunters-mark
 [:spell-level-4: Freedom of Movement]: ../../spells/description/core/level-4.md#freedom-of-movement
