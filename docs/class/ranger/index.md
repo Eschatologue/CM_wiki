@@ -55,20 +55,20 @@ As a Ranger, you gain the following class features when you reach the specified 
 | 4 | +2 | Ability Score Improvement | 2 | 3 | 5 | 3 | — | — | — | — |
 | 5 | +3 | Extra Attack | 3 | 3 | 6 | 4 | 3 | — | — | — |
 | 6 | +3 | Roving | 3 | 3 | 6 | 4 | 2 | — | — | — |
-| 7 | +3 | Subclass feature | 3 | 3 | 7 | 4 | 3 | — | — | — |
-| 8 | +3 | Ability Score Improvement | 3 | 3 | 7 | 4 | 3 | — | — | — |
+| 7 | +3 | Subclass feature | 3 | 4 | 7 | 4 | 3 | — | — | — |
+| 8 | +3 | Ability Score Improvement | 3 | 4 | 7 | 4 | 3 | — | — | — |
 | 9 | +4 | Expertise | 4 | 4 | 9 | 4 | 3 | 2 | — | — |
 | 10 | +4 | Tireless | 4 | 4 | 9 | 4 | 3 | 2 | — | — |
-| 11 | +4 | Subclass feature | 4 | 4 | 10 | 4 | 3 | 3 | — | — |
-| 12 | +4 | Ability Score Improvement | 4 | 4 | 10 | 4 | 3 | 3 | — | — |
+| 11 | +4 | Subclass feature | 4 | 5 | 10 | 4 | 3 | 3 | — | — |
+| 12 | +4 | Ability Score Improvement | 4 | 5 | 10 | 4 | 3 | 3 | — | — |
 | 13 | +5 | Relentless Hunter | 5 | 5 | 11 | 4 | 3 | 3 | 1 | — |
 | 14 | +5 | Nature’s Veil | 5 | 5 | 11 | 4 | 3 | 3 | 1 | — |
-| 15 | +5 | Subclass feature | 5 | 5 | 12 | 4 | 3 | 3 | 2 | — |
-| 16 | +5 | Ability Score Improvement | 5 | 5 | 12 | 4 | 3 | 3 | 2 | — |
+| 15 | +5 | Subclass feature | 5 | 6 | 12 | 4 | 3 | 3 | 2 | — |
+| 16 | +5 | Ability Score Improvement | 5 | 6 | 12 | 4 | 3 | 3 | 2 | — |
 | 17 | +6 | Precise Hunter | 6 | 6 | 14 | 4 | 3 | 3 | 3 | 1 |
 | 18 | +6 | Feral Senses | 6 | 6 | 14 | 4 | 3 | 3 | 3 | 1 |
-| 19 | +6 | Epic Boon | 6 | 6 | 15 | 4 | 3 | 3 | 3 | 2 |
-| 20 | +6 | Foe Slayer | 6 | 6 | 15 | 4 | 3 | 3 | 3 | 2 |
+| 19 | +6 | Epic Boon | 6 | 7 | 15 | 4 | 3 | 3 | 3 | 2 |
+| 20 | +6 | Foe Slayer | 6 | 8 | 15 | 4 | 3 | 3 | 3 | 2 |
 
 !!! homebrew "Not Official"
 

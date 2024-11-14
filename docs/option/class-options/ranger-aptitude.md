@@ -113,6 +113,18 @@ You have spent endless days surviving desolate wasteland
 
 You must be at least Ranger level 3 to gain these Aptitudes.
 
+### Cunning Technique
+
+**Prerequisite:** Level 3+ Ranger
+
+You learn some rougish techniques.
+
+***Cunning Action.*** Choose one of the following Actions, you can use a :rsc-b: **Bonus Action** to take it: Dodge, Disengage, or Hide.
+
+***Repeatable.*** You can choose this Aptitude again, choosing a different action each time.
+
+---
+
 ### Hedge Knight
 
 **Prerequisite:** Level 3+ Ranger
@@ -167,27 +179,15 @@ You ignore the effects of Difficult Terrain caused by natural environments or te
 
 ---
 
-## Level 5+ Aptitude
+## Level 7+ Aptitude
 
-You must be at least Ranger level 5 to gain these Aptitudes.
+You must be at least Ranger level 7 to gain these Aptitudes.
 
 ### Ambush Mark
 
-**Prerequisite:** Level 5+ Ranger, [Slayer](#slayer)
+**Prerequisite:** Level 7+ Ranger, [Slayer](#slayer)
 
 When you roll Initiative, you can take a :rsc-r: **Reaction** to cast *[:spell-level-1: Hunter's Mark]*.
-
----
-
-### Cunning Technique
-
-**Prerequisite:** Level 5+ Ranger
-
-You learn some rougish techniques.
-
-***Cunning Action.*** Choose one of the following Actions, you can use a :rsc-b: **Bonus Action** to take it: Dodge, Disengage, or Hide.
-
-***Repeatable.*** You can choose this Aptitude again, choosing a different action each time.
 
 ---
 
@@ -197,39 +197,20 @@ You learn some rougish techniques.
 
 You can't have :d20-disadv: **Disadvantage** on attack rolls against the target of your *[:spell-level-1: Hunter's Mark]*.
 
+
 ---
 
 ### Honed Focus
 
-**Prerequisite:** Level 5+ Ranger
+**Prerequisite:** Level 7+ Ranger
 
 When you score a Critical Hit against a creature, all creature have :d20-adv: **Advantage** on the next attack they make against that creature before the end of your next turn.
 
 ---
 
-### Unhindered Steps
-
-**Prerequisite:** Level 5+ Ranger, [Strider](#strider)
-
-You ignore the effects of any Difficult Terrain imposed by spells, magical phenomena, or any other supernatural effect.
-
----
-
-## Level 9+ Aptitude
-
-You must be at least Ranger level 9 to gain these Aptitudes.
-
-### Adrenaline
-
-**Prerequisite:** Level 9+ Ranger
-
-You can expend one use of your *Favoured Foe* to cast *[:spell-level-3: Haste]* once without expending a spell slot.
-
----
-
 ### Martial Excellence
 
-**Prerequisite:** Level 9+ Ranger, [Martial Superiority](#martial-superiority)
+**Prerequisite:** Level 7+ Ranger, [Martial Superiority](#martial-superiority)
 
 Your combat techniques are improved
 
@@ -241,7 +222,7 @@ Your combat techniques are improved
 
 ### Planar Wanderer
 
-**Prerequisite:** Level 9+ Ranger
+**Prerequisite:** Level 7+ Ranger
 
 Choose one of the following damage types: :dmg-force: Force, :dmg-necrotic: Necrotic, :dmg-psychic: Psychic, or :dmg-radiant: Radiant. You gain :dmg-res: Resistance to the chosen damage type. 
 
@@ -249,9 +230,37 @@ Choose one of the following damage types: :dmg-force: Force, :dmg-necrotic: Necr
 
 ---
 
+### Survivor
+
+**Prerequisite:** Level 7+ Ranger
+
+Your body can rapidly recover from injury. When you expend a Hit Die to regain hit points, you regain additional Hit Points equal to your Wisdom modifier (minimum of 1 hit point).
+
+---
+
+### Unhindered Steps
+
+**Prerequisite:** Level 7+ Ranger, [Strider](#strider)
+
+You ignore the effects of any Difficult Terrain imposed by spells, magical phenomena, or any other supernatural effect.
+
+---
+
+## Level 11+ Aptitude
+
+You must be at least Ranger level 11 to gain these Aptitudes.
+
+### Adrenaline
+
+**Prerequisite:** Level 11+ Ranger
+
+You can expend one use of your *Favoured Foe* to cast *[:spell-level-3: Haste]* without expending a spell slot.
+
+---
+
 ### Sharpened Focus
 
-**Prerequisite:** Level 9+ Ranger, [Honed Focus](#honed-focus)
+**Prerequisite:** Level 11+ Ranger, [Honed Focus](#honed-focus)
 
 You gain the following benefits:
 
@@ -261,21 +270,9 @@ You gain the following benefits:
 
 ---
 
-### Survivor
-
-**Prerequisite:** Level 9+ Ranger
-
-Your body can rapidly recover from injury. When you expend a Hit Die to regain hit points, you regain additional Hit Points equal to your Wisdom modifier (minimum of 1 hit point).
-
----
-
-## Level 13+ Aptitude
-
-You must be at least Ranger level 13 to gain these Aptitudes.
-
 ### Predatory Mark
 
-**Prerequisite:** Level 13+ Ranger, [Ambush's Mark](#ambush-tactic)
+**Prerequisite:** Level 11+ Ranger, [Ambush's Mark](#ambush-tactic)
 
 Once per turn, when you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can cause it to take an additional effect until the start of your next turn. These effects are as follow:
 
@@ -289,7 +286,7 @@ Once per turn, when you hit the target of your *[:spell-level-1: Hunter's Mark]*
 
 ### Iron Will
 
-**Prerequisite:** Level 13+ Ranger, [Survivor](#survivor)
+**Prerequisite:** Level 11+ Ranger, [Survivor](#survivor)
 
 When you make a Death Saving Throw, you add your Wisdom modifier to the roll (minimum of +1). If the result of your roll is 20 or higher, you gain two Death Saving Throw success.
 
@@ -297,19 +294,19 @@ When you make a Death Saving Throw, you add your Wisdom modifier to the roll (mi
 
 ### Trailblazer
 
-**Prerequisite:** Level 13+ Ranger, [Unhindered Steps](#unhindered-steps)
+**Prerequisite:** Level 11+ Ranger, [Unhindered Steps](#unhindered-steps)
 
 You always under the effect of *[:spell-level-4: Freedom of Movement]* spell so long you don't have the ^^Unconcious^^ condition.
 
 ---
 
-## Level 17+ Aptitude
+## Level 15+ Aptitude
 
-You must be at least Ranger level 17 to gain these Aptitudes.
+You must be at least Ranger level 15 to gain these Aptitudes.
 
 ### Fatal Intent
 
-**Prerequisite:** Level 17+ Ranger, [Sharpened Focus](#sharpened-focus)
+**Prerequisite:** Level 15+ Ranger, [Sharpened Focus](#sharpened-focus)
 
 When you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can choose to end the spell and make the attack score a Critical Hit.
 
@@ -317,7 +314,7 @@ When you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon 
 
 ### Martial Perfection
 
-**Prerequisite:** Level 17+ Ranger, [Martial Excellence](#martial-excellence)
+**Prerequisite:** Level 15+ Ranger, [Martial Excellence](#martial-excellence)
 
 Your combat techniques are improved
 
@@ -329,7 +326,7 @@ Your combat techniques are improved
 
 ### Unerring Focus
 
-**Prerequisite:** Level 17+ Ranger, [Enhanced Senses](#enhanced-senses)
+**Prerequisite:** Level 15+ Ranger, [Enhanced Senses](#enhanced-senses)
 
 You can't have :d20-disadv: **Disadvantage** on attack rolls against any target within 30 feet of you.
 
