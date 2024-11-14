@@ -11,14 +11,9 @@ Bards of this College are no strangers to adventure. Unlike other Bards who sing
 
 Dwarves often include *Skalds* to bolster their army ranks and they can be found swinging battleaxe in one hand and songs or poetries on their lips.
 
-
 ### Level 3: Bardic Warrior
 
-In your desire to stand amongst the heroes of legend you have learned to fight, giving you the following benefits:
-
-***Proficiencies.*** You gain proficiency with Martial weapons and training with Shields and Medium Armour. You can also use your weapon or shield as a spellcasting focus for Bard spells.
-
-***Hit Points.*** Your Hit Point Maximum increases by 3, and it increases by 1 whenever you gain another Bard level.
+In your desire to stand amongst the heroes of legend you have learned to fight. You gain proficiency with Martial weapons and training with Shields and Medium Armour. You can also use your weapon or shield as a spellcasting focus for Bard spells.
 
 ### Level 3: Ode of Fury
 
@@ -38,6 +33,6 @@ Your heroic presence rallies allies to charge into battle. When you roll Initiat
 
 ### Level 14: Heroic Presence
 
-Your weapon attacks are empowered with your signature bardic magic. Whenever you hit with a weapon attack you deal bonus :dmg-thunder: **Thunder** damage on hit equal to your Bardic Die. This roll doesn't expend the die.
+Your weapon attacks are empowered with your signature bardic magic. Whenever you hit with a weapon attack you deal bonus :dmg-thunder: Thunder damage on hit equal to your Bardic Die. This roll doesn't expend the die.
 
 Moreover, when a creature that has a Bardic Inspiration die from you uses it for a D20 Test, that creature gains Temporary Hit Points equals to the number rolled.

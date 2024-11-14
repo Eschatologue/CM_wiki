@@ -26,19 +26,20 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 ### Level 3: Blessing of the Forge
 
-You gain the ability to imbue magic into a weapon or armor. 
+You gain the ability to imbue magic into a weapon or armour. 
 
-**<Bonus Proficiency>** You gain a set of Smith’s Tools and have proficiency with it.
-Blessed Smithing. At the end of a Long Rest, you can touch one nonmagical object that is a suit of armor or a weapon. Until the end of your next Long Rest or until you die, the object becomes a magical, granting a +1 bonus to AC if it's armor or a +1 bonus to attack and damage rolls if it's a weapon. Once you use this feature, you can't use it again until you finish a Long Rest.
+***Bonus Proficiency.*** You gain a set of Smith’s Tools and have proficiency with it.
+
+***Blessed Smithing.*** At the end of a Long Rest, you can touch one nonmagical object that is a suit of armour or a weapon. Until the end of your next Long Rest or until you die, the object becomes a magical, granting a +1 bonus to AC if it's armour or a +1 bonus to attack and damage rolls if it's a weapon. Once you use this feature, you can't use it again until you finish a Long Rest.
 
 ### Level 3: Artisan's Blessing
 
-You can use your Channel Divinity to create simple items. You conduct an hour-long ritual that crafts a nonmagical item that must include some metal: a weapon, a suit of armor, ten pieces of ammunition, a set of tools, or another metal object. The creation is completed at the end of the hour, coalescing in an unoccupied space of your choice on a surface within 5 feet of you. The thing you create can be something that is worth no more than 100 gp. As part of this ritual, you must lay out metal, which can include coins, with a value equal to the creation. The metal irretrievably coalesces and transforms into the creation at the ritual's end, magically forming even nonmetal parts of the creation. The ritual can create a duplicate of a nonmagical item that contains metal, such as a key, if you possess the original during the ritual.
+You can use your Channel Divinity to create nonmagical metal items. Over an hour, you conduct a ritual to craft a metal-based item, such as a weapon, armour, ten pieces of ammunition, a set of tools, or another object containing metal. The item appears in an unoccupied space within 5 feet of you and cannot be worth more than 1.000 SP. To create it, you must provide metal of equal value, which can include coins, which is consumed during the ritual. You can even create a copy of a nonmagical metal item, like a key, if you have the original.
 
 ### Level 6: Soul of the Forge
 
-Your mastery of the forge grants you special abilities. You have Resistance to Fire damage and while wearing metal armor, you have a +1 bonus to your Armor Class.
+Your mastery of the forge grants you special abilities. You have :dmg-res: Resistance to :dmg-fire: Fire damage and while wearing metal armour, you have a +1 bonus to your Armour Class.
 
 ### Level 17: Saint of Forge and Fire
 
-Your blessed affinity with fire and metal becomes more powerful. You have Immunity to Fire damage and while wearing metal armor, you have Resistance to Bludgeoning, Piercing, and Slashing damage.
+Your blessed affinity with fire and metal becomes more powerful. You have :dmg-imm: Immunity to :dmg-fire: Fire damage and while wearing metal armour, you have :dmg-res: Resistance to :dmg-blunt: Bludgeoning, :dmg-piercing: Piercing, and :dmg-slashing: Slashing damage.
