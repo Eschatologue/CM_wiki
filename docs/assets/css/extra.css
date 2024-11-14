@@ -512,8 +512,8 @@
 .md-typeset h4 {
   font-size: 0.77rem;
   letter-spacing: 0.0231rem;
-  font-weight: 500;
-  margin: 0.4rem 0 -0.1rem 0;
+  font-weight: 600;
+  margin: 0.6rem 0 -0.2rem 0;
   font-variant: small-caps !important;
 }
 .md-typeset h5 {
