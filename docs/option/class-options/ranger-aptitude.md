@@ -85,6 +85,22 @@ You have cultivated a strong bond with animals and nature.
 
 ---
 
+### Self-Regeneration
+
+**Prerequisite:** Level 2+ Ranger
+
+During a Short Rest, you can recover spell slots of a combined level equal to your Wisdom modifier. Once you do, you must finish a Long Rest before you can use this feature again.
+
+---
+
+### Strider
+
+**Prerequisite:** Level 2+ Ranger
+
+You ignore the effects of Difficult Terrain caused by natural environments or terrain.
+
+---
+
 ### Urban Tracker
 
 **Prerequisite:** Level 2+ Ranger
@@ -155,27 +171,11 @@ You are trained to use complex combat techniques.
 
 ---
 
-### Natural Regeneration
-
-**Prerequisite:** Level 3+ Ranger
-
-During a Short Rest, you can recover spell slots of a combined level equal to your Wisdom modifier. Once you do, you must finish a Long Rest before you can use this feature again.
-
----
-
 ### Slayer
 
 **Prerequisite:** Level 3+ Ranger
 
 When you hit a creature with a weapon attack or Unarmed Strike you can cast *[:spell-level-1: Hunter's Mark]* at the target as part of the attack, applying its damage bonus and other benefits (if any) to the damage roll.
-
----
-
-### Strider
-
-**Prerequisite:** Level 3+ Ranger
-
-You ignore the effects of Difficult Terrain caused by natural environments or terrain.
 
 ---
 
