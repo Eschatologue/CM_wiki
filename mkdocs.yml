@@ -290,6 +290,7 @@ nav:
         - Illusionist: class/wizard/illusionist.md
         - Chronurgist: class/wizard/chronurgist.md
         - Graviturgist: class/wizard/graviturgist.md
+        - War Mage: class/wizard/war-mage.md
     - Priest Group:
       - Cleric:
         - class/cleric/index.md
