@@ -11,7 +11,7 @@ Below are the Aptitudes available to the Ranger. If an Aptitude has a prerequisi
 
 These Aptitude lacks any prerequisites, which you can gain immediately when you reach Ranger Level 1.
 
-### Origin: Bounty Hunter 
+### Bounty Hunter 
 
 Your expertise in hunting bounties stands out.
 
@@ -21,7 +21,7 @@ Your expertise in hunting bounties stands out.
 
 ---
 
-### Origin: Deathwatch 
+### Deathwatch 
 
 You specialise in hunting those not native to Antares.
 
@@ -31,7 +31,15 @@ You specialise in hunting those not native to Antares.
 
 ---
 
-### Origin: Mage Hunter 
+### Generalist
+
+Rather than specialise, you rather adjust acording to situations.
+
+***Change Aptitude.*** You can change one Ranger's Aptitude of your choice when you finish a Long Rest. All other rules of choosing an Aptitude still applies.
+
+---
+
+### Mage Breaker 
 
 You have a background in battling spellcasters.
 
@@ -41,7 +49,7 @@ You have a background in battling spellcasters.
 
 ---
 
-### Origin: Ranger Knight 
+### Ranger Knight 
 
 You have sworn to serve a crown or nation and aim to bring its foes to ruin.
 
@@ -51,7 +59,7 @@ You have sworn to serve a crown or nation and aim to bring its foes to ruin.
 
 ---
 
-### Origin: Sanctified Hunter
+### Sanctified Hunter
 
 You have sworn to hunt the enemies of a holy or druidic order.
 
@@ -163,7 +171,7 @@ You ignore the effects of Difficult Terrain caused by natural environments or te
 
 You must be at least Ranger level 5 to gain these Aptitudes.
 
-### Ambush Tactic
+### Ambush Mark
 
 **Prerequisite:** Level 5+ Ranger, [Slayer](#slayer)
 
@@ -191,33 +199,17 @@ You can't have :d20-disadv: **Disadvantage** on attack rolls against the target 
 
 ---
 
-## Level 7+ Aptitude
-
-You must be at least Ranger level 7 to gain these Aptitudes.
-
 ### Honed Focus
 
-**Prerequisite:** Level 7+ Ranger
+**Prerequisite:** Level 5+ Ranger
 
 When you score a Critical Hit against a creature, all creature have :d20-adv: **Advantage** on the next attack they make against that creature before the end of your next turn.
 
 ---
 
-### Martial Excellence
-
-**Prerequisite:** Level 7+ Ranger, [Martial Superiority](#martial-superiority)
-
-Your combat techniques are improved
-
-***Superiority Die.*** You gain two additional Superiority Die and all your Superiority Die improves to :die-d8: d8.
-
-***Manoeuvre.*** You learn two additional Combat Manoeuvre from the Battle Master (Fighter) subclass of you choice. 
-
----
-
 ### Unhindered Steps
 
-**Prerequisite:** Level 7+ Ranger, [Strider](#strider)
+**Prerequisite:** Level 5+ Ranger, [Strider](#strider)
 
 You ignore the effects of any Difficult Terrain imposed by spells, magical phenomena, or any other supernatural effect.
 
@@ -225,13 +217,25 @@ You ignore the effects of any Difficult Terrain imposed by spells, magical pheno
 
 ## Level 9+ Aptitude
 
-You must be at least Ranger level 7 to gain these Aptitudes.
+You must be at least Ranger level 9 to gain these Aptitudes.
 
 ### Adrenaline
 
 **Prerequisite:** Level 9+ Ranger
 
 You can expend one use of your *Favoured Foe* to cast *[:spell-level-3: Haste]* once without expending a spell slot.
+
+---
+
+### Martial Excellence
+
+**Prerequisite:** Level 9+ Ranger, [Martial Superiority](#martial-superiority)
+
+Your combat techniques are improved
+
+***Superiority Die.*** You gain two additional Superiority Die and all your Superiority Die improves to :die-d8: d8.
+
+***Manoeuvre.*** You learn two additional Combat Manoeuvre from the Battle Master (Fighter) subclass of you choice. 
 
 ---
 
@@ -245,21 +249,9 @@ Choose one of the following damage types: :dmg-force: Force, :dmg-necrotic: Necr
 
 ---
 
-### Survivor
-
-**Prerequisite:** Level 9+ Ranger
-
-Your body can rapidly recover from injury. When you expend a Hit Die to regain hit points, you regain additional Hit Points equal to your Wisdom modifier (minimum of 1 hit point).
-
----
-
-## Level 11+ Aptitude
-
-You must be at least Ranger level 11 to gain these Aptitudes.
-
 ### Sharpened Focus
 
-**Prerequisite:** Level 11+ Ranger, [Honed Focus](#honed-focus)
+**Prerequisite:** Level 9+ Ranger, [Honed Focus](#honed-focus)
 
 You gain the following benefits:
 
@@ -269,9 +261,21 @@ You gain the following benefits:
 
 ---
 
-### Predatory Focus
+### Survivor
 
-**Prerequisite:** Level 11+ Ranger, [Ambush's Mark](#ambush-tactic)
+**Prerequisite:** Level 9+ Ranger
+
+Your body can rapidly recover from injury. When you expend a Hit Die to regain hit points, you regain additional Hit Points equal to your Wisdom modifier (minimum of 1 hit point).
+
+---
+
+## Level 13+ Aptitude
+
+You must be at least Ranger level 13 to gain these Aptitudes.
+
+### Predatory Mark
+
+**Prerequisite:** Level 13+ Ranger, [Ambush's Mark](#ambush-tactic)
 
 Once per turn, when you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can cause it to take an additional effect until the start of your next turn. These effects are as follow:
 
@@ -283,49 +287,49 @@ Once per turn, when you hit the target of your *[:spell-level-1: Hunter's Mark]*
 
 ---
 
-## Level 15+ Aptitude
-
-You must be at least Ranger level 15 to gain these Aptitudes.
-
-### Fatal Intent
-
-**Prerequisite:** Level 15+ Ranger, [Sharpened Focus](#sharpened-focus)
-
-When you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can choose to end the spell and make the attack score a Critical Hit.
-
----
-
 ### Iron Will
 
-**Prerequisite:** Level 15+ Ranger, [Survivor](#survivor)
+**Prerequisite:** Level 13+ Ranger, [Survivor](#survivor)
 
 When you make a Death Saving Throw, you add your Wisdom modifier to the roll (minimum of +1). If the result of your roll is 20 or higher, you gain two Death Saving Throw success.
 
 ---
 
-### Martial Perfection
-
-**Prerequisite:** Level 15+ Ranger, [Martial Excellence](#martial-excellence)
-
-Your combat techniques are improved
-
-***Superiority Die.*** You gain two additional Superiority Die and all your Superiority Die improves to :die-d8: d10.
-
-***Manoeuvre.*** You learn two additional Combat Manoeuvre from the Battle Master (Fighter) subclass of you choice.
-
----
-
 ### Trailblazer
 
-**Prerequisite:** Level 15+ Ranger, [Unhindered Steps](#unhindered-steps)
+**Prerequisite:** Level 13+ Ranger, [Unhindered Steps](#unhindered-steps)
 
 You always under the effect of *[:spell-level-4: Freedom of Movement]* spell so long you don't have the ^^Unconcious^^ condition.
 
 ---
 
+## Level 17+ Aptitude
+
+You must be at least Ranger level 17 to gain these Aptitudes.
+
+### Fatal Intent
+
+**Prerequisite:** Level 17+ Ranger, [Sharpened Focus](#sharpened-focus)
+
+When you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can choose to end the spell and make the attack score a Critical Hit.
+
+---
+
+### Martial Perfection
+
+**Prerequisite:** Level 17+ Ranger, [Martial Excellence](#martial-excellence)
+
+Your combat techniques are improved
+
+***Superiority Die.*** You gain two additional Superiority Die and all your Superiority Die improves to :die-d10: d10.
+
+***Manoeuvre.*** You learn two additional Combat Manoeuvre from the Battle Master (Fighter) subclass of you choice.
+
+---
+
 ### Unerring Focus
 
-**Prerequisite:** Level 15+ Ranger, [Enhanced Senses](#enhanced-senses)
+**Prerequisite:** Level 17+ Ranger, [Enhanced Senses](#enhanced-senses)
 
 You can't have :d20-disadv: **Disadvantage** on attack rolls against any target within 30 feet of you.
 
