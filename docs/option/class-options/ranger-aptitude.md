@@ -183,6 +183,14 @@ You learn some rougish techniques.
 
 ---
 
+### Enhanced Senses
+
+**Prerequisite:** Level 5+ Ranger
+
+You can't have :d20-disadv: **Disadvantage** on attack rolls against the target of your *[:spell-level-1: Hunter's Mark]*.
+
+---
+
 ## Level 7+ Aptitude
 
 You must be at least Ranger level 7 to gain these Aptitudes.
@@ -223,7 +231,7 @@ You must be at least Ranger level 7 to gain these Aptitudes.
 
 **Prerequisite:** Level 9+ Ranger
 
-You can expend one use of your *Favoured Foe* to cast *Haste* once without expending a spell slot.
+You can expend one use of your *Favoured Foe* to cast *[:spell-level-3: Haste]* once without expending a spell slot.
 
 ---
 
@@ -249,7 +257,7 @@ Your body can rapidly recover from injury. When you expend a Hit Die to regain h
 
 You must be at least Ranger level 11 to gain these Aptitudes.
 
-### Sharpened Senses
+### Sharpened Focus
 
 **Prerequisite:** Level 11+ Ranger, [Honed Focus](#honed-focus)
 
@@ -281,9 +289,17 @@ You must be at least Ranger level 15 to gain these Aptitudes.
 
 ### Fatal Intent
 
-**Prerequisite:** Level 15+ Ranger, [Sharpened Senses](#sharpened-senses)
+**Prerequisite:** Level 15+ Ranger, [Sharpened Focus](#sharpened-focus)
 
 When you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can choose to end the spell and make the attack score a Critical Hit.
+
+---
+
+### Iron Will
+
+**Prerequisite:** Level 15+ Ranger, [Survivor](#survivor)
+
+When you make a Death Saving Throw, you add your Wisdom modifier to the roll (minimum of +1). If the result of your roll is 20 or higher, you gain two Death Saving Throw success.
 
 ---
 
@@ -307,11 +323,11 @@ You always under the effect of *[:spell-level-4: Freedom of Movement]* spell so 
 
 ---
 
-### Iron Will
+### Unerring Focus
 
-**Prerequisite:** Level 15+ Ranger, [Survivor](#survivor)
+**Prerequisite:** Level 15+ Ranger, [Enhanced Senses](#enhanced-senses)
 
-When you make a Death Saving Throw, you add your Wisdom modifier to the roll (minimum of +1). If the result of your roll is 20 or higher, you gain two Death Saving Throw success.
+You can't have :d20-disadv: **Disadvantage** on attack rolls against any target within 30 feet of you.
 
 ---
 
@@ -325,7 +341,8 @@ You must be at least Ranger level 20 to gain these Aptitudes.
 
 Whenever you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can immediately end the spell and cause that attack to deal maximum damage instead of rolling. If the attack reduces the creature to 50 Hit Points or fewer, it must succeed on a Constitution saving throw against your Spell save DC or it instantly dies.
 
-
+---
 
 [:spell-level-1: Hunter's Mark]: ../../spells/description/core/level-1.md#hunters-mark
+[:spell-level-3: Haste]: ../../spells/description/core/level-3.md#haste
 [:spell-level-4: Freedom of Movement]: ../../spells/description/core/level-4.md#freedom-of-movement
