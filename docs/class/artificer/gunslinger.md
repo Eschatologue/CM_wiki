@@ -12,9 +12,9 @@ You have dedicated your great intellect to the development of a one-of-a-kind we
 
 ### Level 3: Tools of the Trade
 
-You gain proficiency with Alchemist's supplies and Smith's tools. If you already have this proficiency, you gain proficiency with one other type of Artisan’s Tools of your choice.
+You gain proficiency with Alchemist's supplies and Smith's tools. If you already have this proficiency, you gain proficiency with one other type of Artisan's Tools of your choice.
 
-In addition, whenever you make an ability check with Smith’s Tools, you can use your Intelligence as the ability, instead of Strength.
+In addition, whenever you make an ability check with Smith's Tools, you can use your Intelligence as the ability, instead of Strength.
 
 ### Level 3: Gunslinger Spells
 

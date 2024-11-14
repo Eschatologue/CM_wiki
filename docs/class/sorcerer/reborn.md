@@ -7,7 +7,7 @@ status: homebrew
 
 > *Regain Your Lost Powers* - Made by Eschatologue
 
-You once wielded power that rivalled the gods, or perhaps you were one of them. Now, through some misfortune, you’ve been reborn—a fragment of your former self. Yet, the essence of your past greatness lingers, waiting to be reignited. With each spell cast, you edge closer to reclaiming the glory and might that was once yours. Will you rise again, or be forgotten in this new life?
+You once wielded power that rivalled the gods, or perhaps you were one of them. Now, through some misfortune, you've been reborn—a fragment of your former self. Yet, the essence of your past greatness lingers, waiting to be reignited. With each spell cast, you edge closer to reclaiming the glory and might that was once yours. Will you rise again, or be forgotten in this new life?
 
 ### Level 3: Ancient Mind
 
@@ -42,7 +42,7 @@ In an age long forgotten, before the usurpers reform the practice of spellcastin
 
 Your connection to the ancient Weave allows you to tap into long-lost arcane energies, granting you fleeting glimpses of spells once beyond your reach. With this power, you can momentarily access forgotten magic.
 
-***Echoes of Spell.*** Once per Long Rest, you can cast a spell of your choice that you have not prepared from the Sorcerer spell list, as long as the spell’s level is equal to or lower than your highest available level of spell slot. You must expend Sorcery Points equal to the cost of creating a spell slot of that level, as shown in the [Creating Spell Slots table](index.md#creating-spell-slots).
+***Echoes of Spell.*** Once per Long Rest, you can cast a spell of your choice that you have not prepared from the Sorcerer spell list, as long as the spell's level is equal to or lower than your highest available level of spell slot. You must expend Sorcery Points equal to the cost of creating a spell slot of that level, as shown in the [Creating Spell Slots table](index.md#creating-spell-slots).
 
 ***Magical Flux.***  Once per Long Rest, you can replace one spell you know with another Sorcerer spell of your choice. You can also replace one of the Metamagic effects that you know with another Metamagic effect of your choice.
 

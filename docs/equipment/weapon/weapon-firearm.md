@@ -17,7 +17,7 @@ Firearms are considered ranged weapons for the purposes of effects, abilities, f
 
 ## Firearm Table
 
-The Firearm tables in this section shows the game’s main weapons. These table lists the cost and weight of each weapon, as well as the following details:
+The Firearm tables in this section shows the game's main weapons. These table lists the cost and weight of each weapon, as well as the following details:
 
 ***Category.*** Every weapon falls into a category: Short-Arm, Long-Arm, Advanced. Weapon proficiencies are usually tied to one of these categories. For example, you might have proficiency with Simple weapons.
 

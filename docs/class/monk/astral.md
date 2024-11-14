@@ -35,7 +35,7 @@ A spectral visage covers your face like a helmet or mask. You determine its appe
 
 When you activate your Arms of the Astral Self feature, you can spend an additional 2 Focus Points to drape yourself in a mantle of cosmic light. You gain the following benefits:
 
-***Antigravitational.*** Your jump distance is tripled and you don’t take fall damage if you fall less than 60 feet.
+***Antigravitational.*** Your jump distance is tripled and you don't take fall damage if you fall less than 60 feet.
 
 ***Extended Self.*** The reach of your [Unarmed Strike] increases by an additional 5 feet.
 

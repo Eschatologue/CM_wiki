@@ -11,11 +11,11 @@ The **Federal Republic of Myrkheim**, commonly known as **Myrkheim**, is a dwarf
 
 ### Origins and Early Conflicts
 
-Myrkheim’s early history was marked by constant clan warfare, as dwarves vied for control over mountain territories. These wars forged their combat prowess and resulted in centuries of social upheaval, with power struggles between vassals and lords being a common occurrence.
+Myrkheim's early history was marked by constant clan warfare, as dwarves vied for control over mountain territories. These wars forged their combat prowess and resulted in centuries of social upheaval, with power struggles between vassals and lords being a common occurrence.
 
 ### The Second Maelstrom
 
-The **Second Maelstrom** decimated many dwarven clans, forcing the survivors to unite. This shift wasn’t born from altruism but necessity, as the devastation left few to continue the endless wars. With leadership and populations shattered, the remaining dwarves banded together to survive.
+The **Second Maelstrom** decimated many dwarven clans, forcing the survivors to unite. This shift wasn't born from altruism but necessity, as the devastation left few to continue the endless wars. With leadership and populations shattered, the remaining dwarves banded together to survive.
 
 ### Seeking Elven Guidance
 
@@ -29,6 +29,6 @@ The infiltration of elven culture sparked discontent among the dwarven clans. Le
 
 ### The Dwarvish-London War
 
-The **Dwarvish-London War**, also called **The Great War**, was a brief but devastating conflict between Myrkheim and London. Myrkheim, once the strongest nation in Antares, sought to assert dominance over the newly established London, attempting to turn it into a vassal state. Misjudging London’s strength, the dwarves were swiftly defeated by the superior technology of London’s war machine.
+The **Dwarvish-London War**, also called **The Great War**, was a brief but devastating conflict between Myrkheim and London. Myrkheim, once the strongest nation in Antares, sought to assert dominance over the newly established London, attempting to turn it into a vassal state. Misjudging London's strength, the dwarves were swiftly defeated by the superior technology of London's war machine.
 
-Myrkheim suffered heavy losses, with several citadels falling into London’s hands. Though they retained sovereignty, London's presence in Myrkheim became substantial, and the influx of technology that followed sparked both advancements and fears of renewed cultural erosion.
+Myrkheim suffered heavy losses, with several citadels falling into London's hands. Though they retained sovereignty, London's presence in Myrkheim became substantial, and the influx of technology that followed sparked both advancements and fears of renewed cultural erosion.

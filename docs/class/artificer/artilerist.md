@@ -10,9 +10,9 @@ An Artillerist specializes in using magic to hurl energy, projectiles, and explo
 
 ### Level 3: Tool Proficiency
 
-You gain proficiency with Woodcarver’s Tools. If you already have this proficiency, you gain proficiency with one other type of artisan’s tools of your choice.
+You gain proficiency with Woodcarver's Tools. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.
 
-In addition, whenever you make an ability check with Woodcarver’s Tools, you can use your Intelligence as the ability, instead of Dexterity.
+In addition, whenever you make an ability check with Woodcarver's Tools, you can use your Intelligence as the ability, instead of Dexterity.
 
 ### Level 3: Artillerist Spells
 
@@ -31,9 +31,9 @@ Your experimentation with explosive magic ensures you always have certain spells
 
 You've learned how to create a magical cannon.
 
-***Creating a Cannon.*** Using Woodcarver’s Tools or Smith’s Tools, you can take a Magic action to magically create a Small or Tiny Eldritch Cannon in an unoccupied space on a horizontal surface within 5 feet of you. A Small Eldritch Cannon occupies its space, and a Tiny one can be held in one hand. You can have only one cannon at a time and can’t create one while your cannon is present. Once you create a Cannon, you cannot do so again until you finish a Short or Long Rest.
+***Creating a Cannon.*** Using Woodcarver's Tools or Smith's Tools, you can take a Magic action to magically create a Small or Tiny Eldritch Cannon in an unoccupied space on a horizontal surface within 5 feet of you. A Small Eldritch Cannon occupies its space, and a Tiny one can be held in one hand. You can have only one cannon at a time and can't create one while your cannon is present. Once you create a Cannon, you cannot do so again until you finish a Short or Long Rest.
 
-***Cannon’s Statistics.*** The cannon is a magical object. Regardless of size, the cannon has an AC of 18 and a number of Hit Points equal to five times your Artificer level. It is immune to Poison damage and Psychic damage. If it is forced to make an ability check or a saving throw, treat all its ability scores as 10 (+0). If the Mending spell is cast on it, it regains 2d6 Hit Points. It disappears if it is reduced to 0 Hit Points or after 1 hour. You can dismiss it early as an action.
+***Cannon's Statistics.*** The cannon is a magical object. Regardless of size, the cannon has an AC of 18 and a number of Hit Points equal to five times your Artificer level. It is immune to Poison damage and Psychic damage. If it is forced to make an ability check or a saving throw, treat all its ability scores as 10 (+0). If the Mending spell is cast on it, it regains 2d6 Hit Points. It disappears if it is reduced to 0 Hit Points or after 1 hour. You can dismiss it early as an action.
 
 ***Cannon Model.*** When you create the cannon, you determine its appearance and whether it has legs. You also decide which type it is, choosing from the Flamethrower, Force Ballista and Protector. On each of your turns, you can take a Bonus Action to cause the cannon to activate if you are within 60 feet of it. As part of the same Bonus Action, you can direct the cannon to walk or climb up to 15 feet to an unoccupied space, provided it has legs.
 
@@ -59,16 +59,16 @@ Your research has resulted in the creation of a Arcane Sidearm, which uses the f
 
 Every eldritch cannon you create is more destructive:
 
-***Extra Damage.*** The cannon’s damage rolls all increase by 1d8.
+***Extra Damage.*** The cannon's damage rolls all increase by 1d8.
 
-***Remote Spells.*** When you cast one of your Artificer spells, you can cast it as if you were in the Cannon’s space, using your senses.
+***Remote Spells.*** When you cast one of your Artificer spells, you can cast it as if you were in the Cannon's space, using your senses.
 
 ***Self Destruct.*** As a Magic action, you can command the cannon to detonate if you are within 60 feet of it. Doing so destroys the cannon and forces each creature within 20 feet of it to make a Dexterity saving throw against your spell save DC, taking 4d8 Force damage on a failed save or half as much damage on a successful one.
 
 ### Level 15: Fortified Position
 
-You’re a master at forming well-defended emplacements using Eldritch Cannon:
+You're a master at forming well-defended emplacements using Eldritch Cannon:
 
 ***Half Cover.*** You and your allies have Half Cover while within 10 feet of a Cannon you create with Eldritch Cannon, as a result of a shimmering field of magical protection that the cannon emits.
 
-***Two Cannons.*** You can now have two Cannons at the same time. You can create two with the same action, and you can activate both of them with the same Bonus Action. You determine whether the cannons are identical to each other or different. You can’t create a third cannon while you have two.
+***Two Cannons.*** You can now have two Cannons at the same time. You can create two with the same action, and you can activate both of them with the same Bonus Action. You determine whether the cannons are identical to each other or different. You can't create a third cannon while you have two.

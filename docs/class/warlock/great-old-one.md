@@ -36,16 +36,16 @@ When you cast a Warlock spell that deals damage, you can change its damage type 
 You learn to read the attacks of minds you touch. When you form a telepathic bond with a creature using your Awakened Mind, you can force that creature to make a Wisdom saving throw against your spell save DC. On a failed save, the creature has Disadvantage on attack rolls against you, and you have Advantage on attack rolls against that
 creature for the duration of the bond.
 
-Once you use this feature, you can’t use it again until you finish a Short Rest or Long Rest. You can also restore your use of it by expending a spell slot of level 2 or higher (no action required).
+Once you use this feature, you can't use it again until you finish a Short Rest or Long Rest. You can also restore your use of it by expending a spell slot of level 2 or higher (no action required).
 
 ### Level 10: Eldritch Hex
 
 Your alien patron grants you a powerful curse. You always have the *Hex* spell prepared. When you cast Hex and choose an ability, the target also has Disadvantage on saving throws of the chosen ability for the duration of the spell.
 
 ### Level 10: Thought Shield
-Your thoughts can’t be read by telepathy or other means unless you allow it. You also have Resistance to :dmg-psychic: Psychic damage, and whenever a creature deals :dmg-psychic: Psychic damage to you, that creature takes the same amount of damage that you do.
+Your thoughts can't be read by telepathy or other means unless you allow it. You also have Resistance to :dmg-psychic: Psychic damage, and whenever a creature deals :dmg-psychic: Psychic damage to you, that creature takes the same amount of damage that you do.
 
 ### Level 14: Create Thrall
-Your patron grants you the ability to manifest a part of itself. You always have the Summon Aberration spell prepared. When you cast the spell, you can modify it so that it doesn’t require Concentration. If you do so, the spell’s duration becomes 1 minute for that casting and when summoned, the Aberration has a number of Temporary Hit Points equal to your Warlock level plus your Charisma modifier.
+Your patron grants you the ability to manifest a part of itself. You always have the Summon Aberration spell prepared. When you cast the spell, you can modify it so that it doesn't require Concentration. If you do so, the spell's duration becomes 1 minute for that casting and when summoned, the Aberration has a number of Temporary Hit Points equal to your Warlock level plus your Charisma modifier.
 
 In addition, the first time each turn the Aberration hits a creature under the effect of your *Hex*, the Aberration deals extra :dmg-psychic: Psychic damage to the target equal to the bonus damage of that spell.

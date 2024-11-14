@@ -16,9 +16,9 @@ title: Artificer
 | **Saving Throw Proficiencies** | Constitution and Intelligence |
 | **Skill Proficiencies** | Choose 2: Arcana, History, Investigation, Medicine, Nature, Perception, or Sleight of Hand. |
 | **Weapon Proficiencies** | Simple weapons |
-| **Tool Proficiencies** | Thieves’ Tools, Tinker’s Tools and choose 1 type of Artisan’s Tools. |
+| **Tool Proficiencies** | Thieves' Tools, Tinker's Tools and choose 1 type of Artisan's Tools. |
 | **Armour Training** | Light and Medium armour and Shields |
-| **Starting Equipment** | Choose A or B: (A) Chain Shirt, Shield, a Simple weapon of your choice, Thieves’ Tools, Tinker’s Tools, Scholar’s Pack and 3 GP or (B) 180 GP |
+| **Starting Equipment** | Choose A or B: (A) Chain Shirt, Shield, a Simple weapon of your choice, Thieves' Tools, Tinker's Tools, Scholar's Pack and 3 GP or (B) 180 GP |
 
 Masters of unlocking magic in everyday objects, Artificers are supreme inventors. They see magic as a complex system waiting to be decoded and controlled. Artificers use tools to channel arcane power, crafting magical objects. To cast a spell, an Artificer could use alchemist's supplies to create a potent elixir, calligrapher's supplies to inscribe a sigil of power on an ally's armour, or tinker's tools to craft a temporary charm. The magic of Artificers is tied to their tools and their talents.
 
@@ -33,7 +33,7 @@ Masters of unlocking magic in everyday objects, Artificers are supreme inventors
 
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
 
-- Gain the following traits from the Core Druid Traits table: Hit Point Die, proficiency with Thieve’s Tools and Tinker’s Tools, and training with Light and Medium armour and Shields.
+- Gain the following traits from the Core Druid Traits table: Hit Point Die, proficiency with Thieve's Tools and Tinker's Tools, and training with Light and Medium armour and Shields.
 - Gain the Artificer's level 1 features, which are listed in the Artificer Features table. You add half your Artificer levels (rounded up) to determine your spell slots.
 
 ## Artificer Class Features
@@ -71,17 +71,17 @@ Whenever you finish a Short Rest, you can regain one expended spell slot of your
 
 ### Level 1: Arcane Tinkerer
 
-Your knack for tinkering has taught you to store minor magical effects in mundane objects. You know the *[Magical Tinkering]* cantrip, which doesn’t count against the number of cantrips you know.
+Your knack for tinkering has taught you to store minor magical effects in mundane objects. You know the *[Magical Tinkering]* cantrip, which doesn't count against the number of cantrips you know.
 
-Further, whenever you make an ability check with Tinker’s Tools, you can use your Intelligence as the ability, instead of Dexterity.
+Further, whenever you make an ability check with Tinker's Tools, you can use your Intelligence as the ability, instead of Dexterity.
 
 [Magical Tinkering]: ../../spells/description/core/cantrip.md#magical-tinkering
 
 ### Level 1: Spellcasting
 
-You’ve studied the workings of magic and how to cast spells, which appear in the [Artificer spell list] later in the class’s description. 
+You've studied the workings of magic and how to cast spells, which appear in the [Artificer spell list] later in the class's description. 
 
-You cast spells by channeling the magic through objects. To observers, you don’t appear to be casting spells in a conventional way; you appear to produce wonders from mundane items and outlandish inventions. The information below details how you use those rules with Artificer spells.
+You cast spells by channeling the magic through objects. To observers, you don't appear to be casting spells in a conventional way; you appear to produce wonders from mundane items and outlandish inventions. The information below details how you use those rules with Artificer spells.
 
 #### Cantrips 
 
@@ -100,7 +100,7 @@ The Artificer Features table shows how many spell slots you have to cast your le
 
 You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Artificer spells. *Faerie Fire* and *Identify* are recommended.
 
-The number of spells on your list increases as you gain Artificer levels, as shown in the Prepared Spells column of the Artificer Features table. Whenever that number increases, choose additional Artificer spells until the number of spells on your list matches the number in the Artificer Features table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 5 Artificer, your list of prepared spells can include six Artificer spells of level 1 or 2 in any combination.
+The number of spells on your list increases as you gain Artificer levels, as shown in the Prepared Spells column of the Artificer Features table. Whenever that number increases, choose additional Artificer spells until the number of spells on your list matches the number in the Artificer Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Artificer, your list of prepared spells can include six Artificer spells of level 1 or 2 in any combination.
 
 If another Artificer feature gives you spells that you may always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Artificer spells for you.
 
@@ -118,7 +118,7 @@ Whenever you finish a Long Rest, you can replace one spell on your list with ano
 
 #### Tools Required
 
-You produce your Artificer spell effects through your tools. You must have a spellcasting focus—specifically Thieves’ Tools or some kind of Artisan’s Tool—in hand when you cast any spell with this Spellcasting feature (meaning the spell has an ‘M’ component when you cast it). You must be proficient with the tool to use it in this way. See chapter 6, “Equipment,” in the Player’s Handbook for descriptions of these tools.
+You produce your Artificer spell effects through your tools. You must have a spellcasting focus—specifically Thieves' Tools or some kind of Artisan's Tool—in hand when you cast any spell with this Spellcasting feature (meaning the spell has an ‘M' component when you cast it). You must be proficient with the tool to use it in this way. See chapter 6, “Equipment,” in the Player's Handbook for descriptions of these tools.
 
 After you gain the Infuse Item feature at level 2, you can also use any item bearing one of your infusions as a spellcasting focus.
 
@@ -150,13 +150,13 @@ You gain the ability to imbue mundane items with certain magical infusions. The 
 
 #### Infusions Known 
 
-When you gain this feature, pick four Infusions to learn, choosing from the “Artificer Infusions” section in Tasha’s Cauldron of Everything. You learn additional Infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the Artificer Features table.
+When you gain this feature, pick four Infusions to learn, choosing from the “Artificer Infusions” section in Tasha's Cauldron of Everything. You learn additional Infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the Artificer Features table.
 
 Whenever you gain a level in this class, you can replace one of the Infusions you learned with a new one.
 
 #### Infusing an Item
 
-Whenever you finish a Long Rest, you can touch a non-magical object and imbue it with one of your Infusions, turning it into a magic item. An Infusion works on only certain kinds of objects, as specified in the infusion’s description. If the item requires attunement, you can attune yourself to it the instant you infuse the item. If you decide to attune to the item later, you must do so using the normal process for attunement.
+Whenever you finish a Long Rest, you can touch a non-magical object and imbue it with one of your Infusions, turning it into a magic item. An Infusion works on only certain kinds of objects, as specified in the infusion's description. If the item requires attunement, you can attune yourself to it the instant you infuse the item. If you decide to attune to the item later, you must do so using the normal process for attunement.
 
 Your Infusion remains in an item indefinitely, but when you die, the Infusion vanishes after a number of days have passed equal to your Intelligence modifier (minimum of 1 day). The Infusion also vanishes if you give up your knowledge of the Infusion for another one.
 
@@ -168,7 +168,7 @@ If an Infusion ends on an item that contains other things, like a Bag of Holding
 
 ### Level 3: Artificer Subclass
 
-You gain an Artificer subclass of your choice. A subclass is a specialization that grants you features at certain Artificer levels. For the rest of your career, you gain each of your subclass’s features that are of your Artificer level or lower.
+You gain an Artificer subclass of your choice. A subclass is a specialization that grants you features at certain Artificer levels. For the rest of your career, you gain each of your subclass's features that are of your Artificer level or lower.
 
 ### Level 3: The Right Tool for the Job
 
@@ -225,6 +225,6 @@ You have developed a mystical connection to your magic items, which you can draw
 
 ***Armoured Soul.*** You gain a +1 bonus to all saving throws per magic item you are currently attuned to.
 
-***Infusion Contingency.*** If you’re reduced to 0 Hit Points but not killed out-right, you can use your Reaction to end one of your Infusions, causing you to drop to 1 hit point instead of 0, and you instantly regain 30 Hit Points.
+***Infusion Contingency.*** If you're reduced to 0 Hit Points but not killed out-right, you can use your Reaction to end one of your Infusions, causing you to drop to 1 hit point instead of 0, and you instantly regain 30 Hit Points.
 
 --8<-- "includes/snippets/skills.md"

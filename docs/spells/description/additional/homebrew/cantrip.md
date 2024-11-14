@@ -21,4 +21,4 @@ You summon a fragment of the heart from a distant star, and hurl it toward a cre
 
 > **Classes:** Cleric, Druid
 
-*"The spell earned its name when a Spire first laid its gaze upon a mortal, granting them permission to draw power from the lingering energy of Antares' now shattered moon. However, a particularly self-centered elf insists on calling it "Khaine’s Kalamity"—because it has a much cooler ring to it and makes for a better story at parties."*
+*"The spell earned its name when a Spire first laid its gaze upon a mortal, granting them permission to draw power from the lingering energy of Antares' now shattered moon. However, a particularly self-centered elf insists on calling it "Khaine's Kalamity"—because it has a much cooler ring to it and makes for a better story at parties."*

@@ -25,7 +25,7 @@ The magic of your otherworldly patron ensures you always have certain spells rea
 
 You gain the ability to channel celestial energy to heal wounds. You have a pool of d6s that you spend to fuel this healing. The number of dice in the pool equals 1 plus your Warlock level.
 
-As a Bonus Action, you can heal yourself or one creature that you can see within 60 feet of yourself, spending dice from the pool. The maximum number of dice you can spend at once equals your Charisma modifier (minimum of one die). Roll the dice you spend, and restore a umber of Hit Points equal to the roll’s total.
+As a Bonus Action, you can heal yourself or one creature that you can see within 60 feet of yourself, spending dice from the pool. The maximum number of dice you can spend at once equals your Charisma modifier (minimum of one die). Roll the dice you spend, and restore a umber of Hit Points equal to the roll's total.
 
 Your pool regains all expended dice when you finish a Long Rest.
 
@@ -41,4 +41,4 @@ You gain Temporary Hit Points whenever you use your Magical Cunning feature or f
 
 The radiant energy you channel allows you to resist death. When you have to make a death saving throw at the start of your turn, you can instead spring to your feet with a burst of radiant energy. You regain Hit Points equal to half your Hit Point Maximum and then stand if you so choose. Each creature of your choice that is within 30 feet of you takes :dmg-radiant: Radiant damage equal to 2d8 plus your Charisma modifier, and each has the Blinded condition until the end of the current turn.
 
-Once you use this feature, you can’t use it again until you finish a Long Rest.
+Once you use this feature, you can't use it again until you finish a Long Rest.

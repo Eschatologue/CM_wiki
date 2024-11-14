@@ -51,7 +51,7 @@ The Witchblade Features table shows how many spell slots you have to cast your W
 
 You prepare a list of spells of level 1 and higher that are available for you to cast with this feature. To start, choose two level 1 spell from the [Warlock spell list].
 
-The number of spells on your list increases as you gain Fighter levels, as shown in the Prepared Spells column of the Witchblade Spellcasting table. Whenever that number increases, choose additional Warlock spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level no higher than what’s shown in the table’s Slot Level column for your level. When you reach level 7, for example, you learn a new Warlock spell, which can be of levels 1-2.
+The number of spells on your list increases as you gain Fighter levels, as shown in the Prepared Spells column of the Witchblade Spellcasting table. Whenever that number increases, choose additional Warlock spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach level 7, for example, you learn a new Warlock spell, which can be of levels 1-2.
 
 #### Changing your Prepared Spells
 

@@ -39,7 +39,7 @@ You command intangible constructs made of pure energy to assist you in battle. T
 | 13 | :die-d10: **D10** | 5 |
 | 17 | :die-d12: **D12** | 6 |
 
-Each feature that uses *Threadlings* expends these dice as specified in the feature’s description. You cannot use a feature requiring *Threadling Dice* if all your dice are expended.
+Each feature that uses *Threadlings* expends these dice as specified in the feature's description. You cannot use a feature requiring *Threadling Dice* if all your dice are expended.
 
 ***Regaining Threadling Dice.*** You regain one expended *Threadling Die* when you finish a Short Rest, and you regain all expended *Threadling Dice* after a Long Rest. Additionally, after you cast a [Mindspun Invocation] spell, you regain a number of *Threadling Die* equal to the expended spell slot.
 

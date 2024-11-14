@@ -6,13 +6,13 @@ status: adapted
 
 > *Don Magical and Customisable Armour*
 
-An artificer who specializes as an Armourer modifies armour to function almost like a second skin. The armour is enhanced to hone the Artificer’s magic, unleash potent attacks, and generate a formidable defense. The Artificer bonds with this armour, becoming one with it even as they experiment with it and refine its magical capabilities.
+An artificer who specializes as an Armourer modifies armour to function almost like a second skin. The armour is enhanced to hone the Artificer's magic, unleash potent attacks, and generate a formidable defense. The Artificer bonds with this armour, becoming one with it even as they experiment with it and refine its magical capabilities.
 
 ### Level 3: Tools of the Trade
 
-You have Training with Heavy Armour and proficiency with Smith’s Tools. If you already have this proficiency, you gain proficiency with one other type of Artisan’s Tools of your choice.
+You have Training with Heavy Armour and proficiency with Smith's Tools. If you already have this proficiency, you gain proficiency with one other type of Artisan's Tools of your choice.
 
-In addition, whenever you make an ability check with Smith’s Tools, you can use your Intelligence as the ability, instead of Strength.
+In addition, whenever you make an ability check with Smith's Tools, you can use your Intelligence as the ability, instead of Strength.
 
 ### Level 3: Armourer Spells
 Your tinkering with Arcane Armour ensures you always have certain spells ready. When you reach an Artificer level specified in the Armourer Spells table, you thereafter always have the listed spells prepared.
@@ -29,7 +29,7 @@ Your tinkering with Arcane Armour ensures you always have certain spells ready. 
 
 ### Level 3: Arcane Armour
 
-Your metallurgical pursuits have led to you making armour a conduit for your magic. As a Magic action, you can turn a suit of armour you are wearing into Arcane Armour, provided you have Smith’s Tools in hand. The armour continues to be Arcane Armour until you don another suit of armour or you die.
+Your metallurgical pursuits have led to you making armour a conduit for your magic. As a Magic action, you can turn a suit of armour you are wearing into Arcane Armour, provided you have Smith's Tools in hand. The armour continues to be Arcane Armour until you don another suit of armour or you die.
 
 You gain the following benefits while wearing this armour:
 
@@ -39,7 +39,7 @@ You gain the following benefits while wearing this armour:
 
  You can use the Arcane Armour as a spellcasting focus for your Artificer spells.
 
-***Second Skin.*** The armour attaches to you and can’t be removed against your will. It also expands to cover your entire body, although you can retract or deploy the helmet as a Bonus Action. The armour replaces any missing limbs, functioning identically to a limb it replaces.
+***Second Skin.*** The armour attaches to you and can't be removed against your will. It also expands to cover your entire body, although you can retract or deploy the helmet as a Bonus Action. The armour replaces any missing limbs, functioning identically to a limb it replaces.
 
 ***Quick Don/Doff.*** You can doff or don the armour as an Action.
 
@@ -49,13 +49,13 @@ You can customize your Arcane Armour. When you do so, choose one of the followin
 
 ***Special Weapon.*** Each model includes a special weapon. You can only use the Mastery property of the weapon if another feature allows you to use it, as normal.
 
-***Changing the Model.*** You can change the armour’s model whenever you finish a Short or Long Rest, provided you have Smith’s Tools in hand.
+***Changing the Model.*** You can change the armour's model whenever you finish a Short or Long Rest, provided you have Smith's Tools in hand.
 
 #### Guardian
 
 You design your armour to be in the front line of conflict. It has the following features:
 
-***Thunder Gauntlets.*** Each of the armour’s gauntlets counts as a Simple Melee weapon while you aren’t holding anything in it, and it deals 1d8 Thunder damage on a hit. The gauntlets have the Push Mastery property.
+***Thunder Gauntlets.*** Each of the armour's gauntlets counts as a Simple Melee weapon while you aren't holding anything in it, and it deals 1d8 Thunder damage on a hit. The gauntlets have the Push Mastery property.
 
 ***Distracting Pulse.*** When you hit a creature with a melee attack, it has Disadvantage on attack rolls against targets other than you until the start of your next turn, as the armour magically emits a distracting pulse when the creature attacks someone else.
 
@@ -79,7 +79,7 @@ In addition, you can cast one of your cantrip that has the casting time of an ac
 
 You learn how to use your Infusions to specially modify your Arcane Armour.
 
-***Infusing the Armour.*** Your Arcane Armour now counts as separate items for the purposes of your Infuse Item feature: armour (the chest piece), boots, helmet, and the armour’s special weapon. Each of those items can bear one of your Infusions, and the Infusions transfer over if you change your armour’s model with the Armour Model feature.
+***Infusing the Armour.*** Your Arcane Armour now counts as separate items for the purposes of your Infuse Item feature: armour (the chest piece), boots, helmet, and the armour's special weapon. Each of those items can bear one of your Infusions, and the Infusions transfer over if you change your armour's model with the Armour Model feature.
 
 ***Free Infusions.*** The maximum number of items you can Infuse at once increases by 2, but those extra items must be part of your Arcane Armour.
 

@@ -43,13 +43,13 @@ Your connection to the Void allows you to undo arcane magic, giving your the fol
 
 :spell-level-3: ***Counterspell.*** When you cast *Counterspell* you can subtract the result of the target's save by a number equal to your Charisma modifier (minimum of +1).
 
-Once you use one of this feature, you can’t use it again until you finish a Short Rest unless you spend 1 Sorcery Points (no action required) to restore your use of it.
+Once you use one of this feature, you can't use it again until you finish a Short Rest unless you spend 1 Sorcery Points (no action required) to restore your use of it.
 
 ### Level 14: Ray of Annihilation
 
 Your connection to the Void grants you the power to unmake creation itself. You learn the :spell-level-6 *Disintegrate* spell and you can cast it at its lowest level without expending a spell slot.
 
-Once you use one of this feature, you can’t use it again until you finish a Short Rest unless you spend 7 Sorcery Points (no action required) to restore your use of it.
+Once you use one of this feature, you can't use it again until you finish a Short Rest unless you spend 7 Sorcery Points (no action required) to restore your use of it.
 
 ### Level 18: Disciple of the Void
 

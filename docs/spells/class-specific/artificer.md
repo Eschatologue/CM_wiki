@@ -24,7 +24,7 @@ This Artificer spell list includes all spells available from `PHB'24`, `TCE`, `X
     | *Lightning Lure* | Evocation | Action | Self (15-foot radius) | Instantaneous | V | TCE |
     | *Mage Hand* | Conjuration | Action | 30 feet | 1 minute | V, S | PHB'24 |
     | *Magic Stone* | Transmutation | Bonus | Touch | 1 minute | V, S | XGE |
-    | *Magical Tinkering**^new^ | Transmutation | Action | Touch | Instantaneous | S, M (a set of Artisan’s Tools) | CM |
+    | *Magical Tinkering**^new^ | Transmutation | Action | Touch | Instantaneous | S, M (a set of Artisan's Tools) | CM |
     | *Mending* | Transmutation | 1 Min. | Touch | Instantaneous | V, S, M (two lodestones) | PHB'24 |
     | *Message* | Transmutation | Action | 120 feet | 1 round | S, M (a copper wire) | PHB'24 |
     | *Poison Spray* | Necromancy | Action | 30 feet | Instantaneous | V, S | PHB'24 |

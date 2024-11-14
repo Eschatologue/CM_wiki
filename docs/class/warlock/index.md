@@ -17,27 +17,27 @@ title: Warlock
 | **Skill Proficiencies** | Choose 2: Arcana, Deception, History, Intimidation, Investigation, Nature, or Religion |
 | **Weapon Proficiencies** | Simple weapons |
 | **Armour Training** | Light armo |
-| **Starting Equipment** | Choose A or B: (A) Leather Armour, Sickle, 2 Daggers, Arcane Focus (orb), Book (occult lore), Scholar’s Pack, and 15 GP; or (B) 100 GP |
+| **Starting Equipment** | Choose A or B: (A) Leather Armour, Sickle, 2 Daggers, Arcane Focus (orb), Book (occult lore), Scholar's Pack, and 15 GP; or (B) 100 GP |
 
 Warlocks quest for knowledge that lies hidden in the fabric of the multiverse. They often begin their search for magical power by delving into tomes of forbidden lore, dabbling in invocations meant to attract the power of extraplanar beings, or seeking places of power where the influence of these beings can be felt. In no time, each Warlock is drawn into a binding pact with a powerful patron. Drawing on the ancient knowledge of beings such as angels, archfey, demons, devils, hags, and alien entities of the Far Realm, Warlocks piece together arcane secrets to bolster their own power.
 
 Warlocks view their patrons as resources, as means to the end of achieving magical power. Some Warlocks respect, revere, or even love their patrons; some serve their patrons grudgingly; and some seek to undermine their patrons even as they wield the power their patrons have given them.
 
-Once a pact is made, a Warlock’s thirst for knowledge and power can’t be slaked with mere study. Most Warlocks spend their days pursuing greater power and deeper knowledge, which typically means some kind of adventure.
+Once a pact is made, a Warlock's thirst for knowledge and power can't be slaked with mere study. Most Warlocks spend their days pursuing greater power and deeper knowledge, which typically means some kind of adventure.
 
 ## Becoming a Warlock...
 
 ### As a Level 1 Character
 
 - Gain all the traits in the Core Warlock Traits table.
-- Gain the Warlock’s level 1 features, which are listed in the Warlock Features table.
+- Gain the Warlock's level 1 features, which are listed in the Warlock Features table.
 
 ### As a Multiclass Character
 
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
 
 - Gain the following traits from the Core Warlock Traits table: Hit Point Die and training with Light armour.
-- Gain the Warlock’s level 1 features, which are listed in the Warlock Features table. See the multiclassing rules in chapter 2 to determine your available spell slots.
+- Gain the Warlock's level 1 features, which are listed in the Warlock Features table. See the multiclassing rules in chapter 2 to determine your available spell slots.
 
 ## Warlock Class Features
 
@@ -72,15 +72,15 @@ You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbu
 
 ***Prerequisites.*** If an invocation has a prerequisite, you must meet it to learn that invocation. For example, if an invocation requires you to be a level 5+ Warlock, you can select the invocation once you reach Warlock level 5.
 
-***Replacing and Gaining Invocations.*** Whenever you gain a Warlock level, you can replace one of your invocations with another one for which you qualify. You can’t replace an invocation if it’s a prerequisite for another invocation that you have.
+***Replacing and Gaining Invocations.*** Whenever you gain a Warlock level, you can replace one of your invocations with another one for which you qualify. You can't replace an invocation if it's a prerequisite for another invocation that you have.
 
 When you gain certain Warlock levels, you gain more invocations of your choice, as shown in the Invocations column of the Warlock Features table.
 
-You can’t pick the same invocation more than once unless its description says otherwise.
+You can't pick the same invocation more than once unless its description says otherwise.
 
 ### Level 1: Pact Magic
 
-Through occult ceremony, you have formed a pact with a mysterious entity to gain magical powers. The entity is a voice in the shadows—its identity unclear—but its boon to you is concrete: the ability to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Warlock spells, which appear in the [Warlock spell list](../../spells/class-specific/warlock.md) later in the class’s description.
+Through occult ceremony, you have formed a pact with a mysterious entity to gain magical powers. The entity is a voice in the shadows—its identity unclear—but its boon to you is concrete: the ability to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Warlock spells, which appear in the [Warlock spell list](../../spells/class-specific/warlock.md) later in the class's description.
 
 ***Cantrips***. You know two Warlock cantrips of your choice. Eldritch Blast and Prestidigitation are recommended. Whenever you gain a Warlock level, you can replace one of your cantrips from this feature with another Warlock cantrip of your choice.
 
@@ -90,15 +90,15 @@ When you reach Warlock levels 4 and 10, you learn another Warlock cantrip of you
 
 The Warlock Features table shows how many spell slots you have to cast your Warlock spells of levels 1-5. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a Short or Long Rest.
 
-For example, when you’re a level 5 Warlock, you have two level 3 spell slots. To cast the level 1 spell Witch Bolt, you must spend one of those slots, and you cast it as a level 3 spell.
+For example, when you're a level 5 Warlock, you have two level 3 spell slots. To cast the level 1 spell Witch Bolt, you must spend one of those slots, and you cast it as a level 3 spell.
 
 #### Prepared Spells of Level 1+
 
  You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Warlock spells. Charm Person and Hex are recommended.
 
-The number of spells on your list increases as you gain Warlock levels, as shown in the Prepared Spells column of the Warlock Features table. Whenever that number increases, choose additional Warlock spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level no higher than what’s shown in the table’s Slot Level column for your level. When you reach level 6, for example, you learn a new Warlock spell, which can be of levels 1-3.
+The number of spells on your list increases as you gain Warlock levels, as shown in the Prepared Spells column of the Warlock Features table. Whenever that number increases, choose additional Warlock spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach level 6, for example, you learn a new Warlock spell, which can be of levels 1-3.
 
-If another Warlock feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Warlock spells for you.
+If another Warlock feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Warlock spells for you.
 
 #### Changing Your Prepared Spells
 
@@ -114,11 +114,11 @@ You can use an Arcane Focus as a Spellcasting Focus for your Warlock spells.
 
 ### Level 2: Magical Cunning
 
-You can perform an esoteric rite for 1 minute. At the end of it, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can’t do so again until you finish a Long Rest.
+You can perform an esoteric rite for 1 minute. At the end of it, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can't do so again until you finish a Long Rest.
 
 ### Level 3: Warlock Subclass
 
-You gain a Warlock subclass of your choice. A subclass is a specialization that grants you features at certain Warlock levels. For the rest of your career, you gain each of your subclass’s features that are of your Warlock level or lower.
+You gain a Warlock subclass of your choice. A subclass is a specialization that grants you features at certain Warlock levels. For the rest of your career, you gain each of your subclass's features that are of your Warlock level or lower.
 
 ### Level 4: Ability Score Improvement
 
@@ -126,9 +126,9 @@ You gain the Ability Score Improvement feat (see chapter 5) or another feat of y
 
 ### Level 9: Contact Patron
 
-In the past, you usually contacted your patron through intermediaries. Now you can communicate directly; you always have the Contact Other Plane spell prepared. With this feature, you can cast the spell without expending a spell slot to contact your patron, and you automatically succeed on the spell’s saving throw.
+In the past, you usually contacted your patron through intermediaries. Now you can communicate directly; you always have the Contact Other Plane spell prepared. With this feature, you can cast the spell without expending a spell slot to contact your patron, and you automatically succeed on the spell's saving throw.
 
-Once you cast the spell with this feature, you can’t do so in this way again until you finish a Long Rest.
+Once you cast the spell with this feature, you can't do so in this way again until you finish a Long Rest.
 
 ### Level 11: Mystic Arcanum
 

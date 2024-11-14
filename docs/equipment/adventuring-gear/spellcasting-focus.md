@@ -4,7 +4,7 @@ icon: material/star-three-points
 
 # Spellcasting Focus
 
-Spellcasting focus is an item that allows certain spellcasters to cast spells without needing to use Material components. These Material components are often small items like herbs, gems, or specific objects that are part of the spell's requirements. Instead of carrying around and managing these materials, a spellcaster can use a focus as a substitute, provided the components don’t have a specific cost or it is consumed by the spell.
+Spellcasting focus is an item that allows certain spellcasters to cast spells without needing to use Material components. These Material components are often small items like herbs, gems, or specific objects that are part of the spell's requirements. Instead of carrying around and managing these materials, a spellcaster can use a focus as a substitute, provided the components don't have a specific cost or it is consumed by the spell.
 
 ## Arcane Focus
 

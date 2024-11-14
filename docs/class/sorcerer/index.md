@@ -17,7 +17,7 @@ title: Sorcerer
 | **Skill Proficiencies** | Choose 2: Arcana, Deception, Insight, Intimidation, Persuasion, or Religion |
 | **Weapon Proficiencies** | Simple weapons |
 | **Armour Training** | None |
-| **Starting Equipment** | Choose A or B: (A) Spear, 2 Daggers, Arcane Focus (crystal), Dungeoneer’s Pack, and 28 GP; or (B) 50 GP |
+| **Starting Equipment** | Choose A or B: (A) Spear, 2 Daggers, Arcane Focus (crystal), Dungeoneer's Pack, and 28 GP; or (B) 50 GP |
 
 
 Sorcerers wield innate magic that is stamped into their being. Some Sorcerers can't name the origin of their power, while others trace it to strange events in their personal or family history. The touch of a dragon, the blessing of a dryad at a baby's birth, or the strike of lightning from a clear sky might spark a Sorcerer's gift. So too might the gift of a deity, exposure to the strange magic of another plane of existence, or a glimpse into the inner workings of reality. Whatever the origin, the result is an indelible mark on the mortal Sorcerer, a churning magic that can even be passed down through generations. 
@@ -31,14 +31,14 @@ Sorcerers are rare. Some family lines produce exactly one Sorcerer in every gene
 ### As a Level 1 Character
 
 - Gain all the traits in the Core Sorcerer Traits table.
-- Gain the Sorcerer’s level 1 features, which are listed in the Sorcerer Features table.
+- Gain the Sorcerer's level 1 features, which are listed in the Sorcerer Features table.
 
 ### As a Multiclass Character
 
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
 
 - Gain the Hit Point Die from the Core Sorcerer Traits table.
-- Gain the Sorcerer’s level 1 features, which are listed in the Sorcerer Features table. See the multiclassing rules in chapter 2 to determine your available spell slots.
+- Gain the Sorcerer's level 1 features, which are listed in the Sorcerer Features table. See the multiclassing rules in chapter 2 to determine your available spell slots.
 
 ## Sorcerer Class Features
 As a Sorcerer, you gain the following class features when you reach the specified Sorcerer levels. These features are listed in the Sorcerer Features table.
@@ -71,7 +71,7 @@ As a Sorcerer, you gain the following class features when you reach the specifie
 
 ### Level 1: Spellcasting
 
-Drawing from your innate magic, you can cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Sorcerer spells, which appear in the [Sorcerer spell list](../../spells/class-specific/sorcerer.md) later in the class’s description.
+Drawing from your innate magic, you can cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Sorcerer spells, which appear in the [Sorcerer spell list](../../spells/class-specific/sorcerer.md) later in the class's description.
 
 #### Cantrips
 
@@ -87,9 +87,9 @@ The Sorcerer Features table shows how many spell slots you have to cast your lev
 
  You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Sorcerer spells. Burning Hands and Detect Magic are recommended.
 
-The number of spells on your list increases as you gain Sorcerer levels, as shown in the Prepared Spells column of the Sorcerer Features table. Whenever that number increases, choose additional Sorcerer spells until the number of spells on your list matches the number in the Sorcerer Features table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 3 Sorcerer, your list of prepared spells can include six Sorcerer spells of level 1 or 2 in any combination.
+The number of spells on your list increases as you gain Sorcerer levels, as shown in the Prepared Spells column of the Sorcerer Features table. Whenever that number increases, choose additional Sorcerer spells until the number of spells on your list matches the number in the Sorcerer Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Sorcerer, your list of prepared spells can include six Sorcerer spells of level 1 or 2 in any combination.
 
-If another Sorcerer feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Sorcerer spells for you.
+If another Sorcerer feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Sorcerer spells for you.
 
 #### Changing Your Prepared Spells
 Whenever you gain a Sorcerer level, you can replace one spell on your list with another Sorcerer spell for which you have spell slots.
@@ -114,11 +114,11 @@ An event in your past left an indelible mark on you, infusing you with simmering
 
 You can tap into the wellspring of magic within yourself. This wellspring is represented by Sorcery Points, which allow you to create a variety of magical effects.
 
-You have 2 Sorcery Points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer Features table. You can’t have more Sorcery Points than the number shown in the table for your level. You regain all expended Sorcery Points when you finish a Long Rest.
+You have 2 Sorcery Points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer Features table. You can't have more Sorcery Points than the number shown in the table for your level. You regain all expended Sorcery Points when you finish a Long Rest.
 
 You can use your Sorcery Points to fuel the options below, along with other features, such as Metamagic, that use those points.
 
-***Converting Spell Slots to Sorcery Points.*** You can expend a spell slot to gain a number of Sorcery Points equal to the slot’s level (no action required).
+***Converting Spell Slots to Sorcery Points.*** You can expend a spell slot to gain a number of Sorcery Points equal to the slot's level (no action required).
 
 ***Creating Spell Slots.*** As a Bonus Action, you can transform unexpended Sorcery Points into one spell slot. The Creating Spell Slots table shows the cost of creating a spell slot of a given level, and it lists the minimum Sorcerer level you must be to create a slot. You can create a spell slot no higher than level 5.
 
@@ -140,7 +140,7 @@ Because your magic flows from within, you can alter your spells to suit your nee
 
 You can use only one Metamagic option on a spell when you cast it unless otherwise noted in one of those options.
 
-Whenever you gain a Sorcerer level, you can replace one of your Metamagic options with one you don’t know. You gain two more options at Sorcerer level 10 and two more at Sorcerer level 17.
+Whenever you gain a Sorcerer level, you can replace one of your Metamagic options with one you don't know. You gain two more options at Sorcerer level 10 and two more at Sorcerer level 17.
 
 ### Level 3: Sorcerer Subclass
 
@@ -154,7 +154,7 @@ You gain the Ability Score Improvement feat (see chapter 5) or another feat of y
 
 ### Level 5: Sorcerous Restoration
 
-When you finish a Short Rest, you can regain expended Sorcery Points, but no more than a number equal to half your Sorcerer level (round down). Once you use this feature, you can’t do so again until you finish a Long Rest.
+When you finish a Short Rest, you can regain expended Sorcery Points, but no more than a number equal to half your Sorcerer level (round down). Once you use this feature, you can't do so again until you finish a Long Rest.
 
 ### Level 7: Sorcery Incarnate
 

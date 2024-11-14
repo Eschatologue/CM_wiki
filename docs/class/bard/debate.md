@@ -6,7 +6,7 @@ search:
 
 # College of Debate
 
-Bards of the College of Debate view rhetoric as a weapon. They don’t merely persuade—they dismantle, deconstruct, and devastate opposition with words alone. Known for their logical precision and mental agility, these bards thrive in situations where they can engage in rapid exchanges, battering foes with their unassailable logic.
+Bards of the College of Debate view rhetoric as a weapon. They don't merely persuade—they dismantle, deconstruct, and devastate opposition with words alone. Known for their logical precision and mental agility, these bards thrive in situations where they can engage in rapid exchanges, battering foes with their unassailable logic.
 
 ### Level 3: Debater's Implement
 
@@ -36,7 +36,7 @@ Your unyielding arguments wear down even the most resolute minds, leaving them c
 
 When you deal :dmg-psychic: Psychic damage to a creature, you can impose one of the following effects to that creature (your choice):
 
-***Doubtful Step.*** The target’s :rsc-speed: Speed is reduced by 10 feet until the start of your next turn.
+***Doubtful Step.*** The target's :rsc-speed: Speed is reduced by 10 feet until the start of your next turn.
 
 ***Clouded Judgement.*** The target has :d20-disadv: **Disadvantage** on Wisdom and Intelligence saving throws until the start of your next turn.
 

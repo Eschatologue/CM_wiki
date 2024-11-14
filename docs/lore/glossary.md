@@ -55,7 +55,7 @@ The Book of Grudge is not an actual book but a legendary compilation of civilisa
 
 *Infrastructure, London*
 
-The Brabazon Fleet is a series of colossal mobile penal colonies, constructed by London, that also function as mobile factories. These massive vessels house convicts, debtors, the poor, and the sick, all forced into relentless labour to fuel London’s industrial might. The denizens of the Fleet often refer to it as the "Brabazon Workworld," as once you enter, it becomes your entire world for life. Inhabitants work in brutal conditions, producing goods, maintaining machinery, and extracting resources from hazardous regions
+The Brabazon Fleet is a series of colossal mobile penal colonies, constructed by London, that also function as mobile factories. These massive vessels house convicts, debtors, the poor, and the sick, all forced into relentless labour to fuel London's industrial might. The denizens of the Fleet often refer to it as the "Brabazon Workworld," as once you enter, it becomes your entire world for life. Inhabitants work in brutal conditions, producing goods, maintaining machinery, and extracting resources from hazardous regions
 
 > See Also: [Nomadic Cities](#nomadic-cities)
 
@@ -284,6 +284,6 @@ The **Toulouse Exodus** was a mass emmigration of Gallian scholars from the city
 
 *Substance*
 
-Warp Crystals, also known as *Voidite*, are crystal-like minerals formed in the aftermath of Warp Storms or growing on the corpses of aberrations. These crystals possess immense energy, and when harnessed correctly, they can power entire industries. In western Antares, particulary Myrkheim and London, they serve as the primary fuel source for numerous machines and factories, including the Valinor's Generator (Irminsul), which sustains the region’s survival in the harsh northern wastes.
+Warp Crystals, also known as *Voidite*, are crystal-like minerals formed in the aftermath of Warp Storms or growing on the corpses of aberrations. These crystals possess immense energy, and when harnessed correctly, they can power entire industries. In western Antares, particulary Myrkheim and London, they serve as the primary fuel source for numerous machines and factories, including the Valinor's Generator (Irminsul), which sustains the region's survival in the harsh northern wastes.
 
 ---

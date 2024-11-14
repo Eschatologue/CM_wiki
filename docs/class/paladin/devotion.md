@@ -8,7 +8,7 @@ title: Oath of Devotion
 
 The Oath of Devotion binds Paladins to the ideals of justice and order. These Paladins meet the archetype of the knight in shining armour. They hold themselves to the highest standards of conduct, and some—for better or worse—hold the rest of the world to the same standards.
 
-Many who swear this oath are devoted to gods of law and good and use their gods’ tenets as the measure of personal devotion. Others hold angels as their ideals and incorporate images of angelic wings into their helmets or coats of arms.
+Many who swear this oath are devoted to gods of law and good and use their gods' tenets as the measure of personal devotion. Others hold angels as their ideals and incorporate images of angelic wings into their helmets or coats of arms.
 
 These paladins share the following tenets:
 
@@ -35,7 +35,7 @@ When you take the Attack action, you can expend one use of your Channel Divinity
 
 The weapon also emits Bright Light in a 20-foot radius and Dim Light 20 feet beyond that.
 
-You can end this effect early (no action required). This effect also ends if you aren’t carrying the weapon.
+You can end this effect early (no action required). This effect also ends if you aren't carrying the weapon.
 
 ### Level 7: Aura of Devotion
 
@@ -47,7 +47,7 @@ Your magical smite now radiates protective energy. Whenever you cast Divine Smit
 
 ### Level 20: Holy Nimbus
 
-As a Bonus Action, you can imbue your Aura of Protection with holy power, granting the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can’t use it again until you finish a Long Rest. You can also restore your use of it by expending a level 5 spell slot (no action required).
+As a Bonus Action, you can imbue your Aura of Protection with holy power, granting the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 ***Holy Ward.*** You have Advantage on any saving throw you are forced to make by a Fiend or an Undead.
 

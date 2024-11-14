@@ -23,7 +23,7 @@ Art, education, and even private life were shaped by propaganda, distorting the 
 
 During the height of the war between the elves and Londoners, internal resistance to the conflict was growing. The war, viewed by many as unjust, silenced dissent by conscripting critics and sending them to the frontlines. Elven resistance groups, however, managed to seize a significant military asset: an abandoned Dreadnought left behind by retreating London forces.
 
-Despite the language barriers and the complexity of the technology, the resistance captured London soldiers and pieced together the dreadnought’s operations, transforming it into a tool of escape and survival.
+Despite the language barriers and the complexity of the technology, the resistance captured London soldiers and pieced together the dreadnought's operations, transforming it into a tool of escape and survival.
 
 ### The Escape
 
@@ -45,15 +45,15 @@ However, with this expansion came new challenges. As Valinor's influence and siz
 
 ## Government Structure
 
-Valinor, though a city of scholars, keeps its government simple and efficient. As a small city-state, it doesn’t need the complex bureaucracy of larger nations. Instead, it operates through several councils—representing scholars, artisans, military leaders, etc—that work together to govern the city.
+Valinor, though a city of scholars, keeps its government simple and efficient. As a small city-state, it doesn't need the complex bureaucracy of larger nations. Instead, it operates through several councils—representing scholars, artisans, military leaders, etc—that work together to govern the city.
 
-Major decisions are often put to a vote, allowing citizens to have a direct say in important matters. This decentralised system ensures that power is shared, maintaining a balance between leadership and the city’s academic spirit, while keeping Valinor independent and stable.
+Major decisions are often put to a vote, allowing citizens to have a direct say in important matters. This decentralised system ensures that power is shared, maintaining a balance between leadership and the city's academic spirit, while keeping Valinor independent and stable.
 
 ## Culture
 
 ### The Counter
 
-Due to their long lifespans, elves perceive time quite differently from shorter-lived races. While a human might consider a decade to be significant, for an elf, it is but a drop in the ocean of their existence. However, during Valinor’s first colonisation attempt, this perception proved fatal. In the deadly cold of Antares' northern wastes, where a single misstep could mean death within days, the elves were forced to change their way of thinking.
+Due to their long lifespans, elves perceive time quite differently from shorter-lived races. While a human might consider a decade to be significant, for an elf, it is but a drop in the ocean of their existence. However, during Valinor's first colonisation attempt, this perception proved fatal. In the deadly cold of Antares' northern wastes, where a single misstep could mean death within days, the elves were forced to change their way of thinking.
 
 Their solution was a timekeeping system known as **The Counter**. Unlike traditional measures of time, The Counter does not track the passage of days or years. Instead, it counts each life lost. Every death raises The Counter by one, serving as a brutal yet effective reminder that they no longer live in the lush green forests of their past. This system reinforces the harsh reality of their new environment, where survival takes precedence over all else.
 
@@ -67,4 +67,4 @@ Valinor needed a lifeline to the outside world if it was to do more than merely 
 
 What the elves did possess were vast troves of books, scrolls, and records from their fallen empire—too valuable to destroy, yet useless for their immediate survival. Faced with these circumstances, the elves made a decision to send ambassadors to other nations and opened their archives to the world.
 
-As a result, grand libraries and halls of learning were constructed, towering above all else the elves had built in the frozen wastes. These majestic structures symbolised Valinor’s gamble—whether their decision to embrace academia would succeed or fail. In the end, it paid off, and Valinor emerged as the great city of knowledge it is known as today.
+As a result, grand libraries and halls of learning were constructed, towering above all else the elves had built in the frozen wastes. These majestic structures symbolised Valinor's gamble—whether their decision to embrace academia would succeed or fail. In the end, it paid off, and Valinor emerged as the great city of knowledge it is known as today.

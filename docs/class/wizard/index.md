@@ -17,9 +17,9 @@ title: Wizard
 | **Skill Proficiencies** | Choose 2: Arcana, History, Insight, Investigation, Medicine, Nature, or Religion |
 | **Weapon Proficiencies** | Simple weapons |
 | **Armour Training** | None |
-| **Starting Equipment** | Choose A or B: (A) 2 Daggers, Arcane Focus (Quarterstaff), Robe, Spellbook, Scholar’s Pack, and 5 GP; or (B) 55 GP |
+| **Starting Equipment** | Choose A or B: (A) 2 Daggers, Arcane Focus (Quarterstaff), Robe, Spellbook, Scholar's Pack, and 5 GP; or (B) 55 GP |
 
-Wizards are defined by their exhaustive study of magic’s inner workings. They cast spells of explosive fire, arcing lightning, subtle deception, and spectacular transformations. Their magic conjures monsters from other planes of existence, glimpses the future, or forms protective barriers. Their mightiest spells change one substance into another, call meteors from the sky, or open portals to other worlds.
+Wizards are defined by their exhaustive study of magic's inner workings. They cast spells of explosive fire, arcing lightning, subtle deception, and spectacular transformations. Their magic conjures monsters from other planes of existence, glimpses the future, or forms protective barriers. Their mightiest spells change one substance into another, call meteors from the sky, or open portals to other worlds.
 
 Most Wizards share a scholarly approach to magic. They examine the theoretical underpinnings of magic, particularly the categorization of spells into schools of magic. Renowned Wizards such as Bigby, Tasha, Mordenkainen, and Yolande have built on their studies to invent iconic spells now used across the multiverse.
 
@@ -32,14 +32,14 @@ But the lure of knowledge calls even the most unadventurous Wizards from the saf
 ### As a Level 1 Character
 
 - Gain all the traits in the Core Wizard Traits table.
-- Gain the Wizard’s level 1 features, which are listed in the Wizard Features table.
+- Gain the Wizard's level 1 features, which are listed in the Wizard Features table.
 
 ### As a Multiclass Character
 
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
 
 - Gain the Hit Point Die from the Core Wizard Traits table.
-- Gain the Wizard’s level 1 features, which are listed in the Wizard Features table. See the multiclassing rules in chapter 2 to determine your available spell slots.
+- Gain the Wizard's level 1 features, which are listed in the Wizard Features table. See the multiclassing rules in chapter 2 to determine your available spell slots.
 
 ## Wizard Class Features
 As a Wizard, you gain the following class features when you reach the specified Wizard levels. These features are listed in the Wizard Features table.
@@ -79,7 +79,7 @@ You know three Wizard cantrips of your choice. Light, Mage Hand, and Ray of Fros
 
 When you reach Wizard levels 4 and 10, you learn another Wizard cantrip of your choice, as shown in the Cantrips column of the Wizard Features table.
 
-***Spellbook.*** Your wizardly apprenticeship culminated in the creation of a unique book: your spellbook. It is a Tiny object that weighs 3 pounds, contains 100 pages, and can be read only by you or someone casting Identify. You determine the book’s appearance and materials, such as a gilt-edged tome or a collection of vellum bound with twine.
+***Spellbook.*** Your wizardly apprenticeship culminated in the creation of a unique book: your spellbook. It is a Tiny object that weighs 3 pounds, contains 100 pages, and can be read only by you or someone casting Identify. You determine the book's appearance and materials, such as a gilt-edged tome or a collection of vellum bound with twine.
 
 The book contains the level 1+ spells you know. It starts with six level 1 Wizard spells of your choice. Detect Magic, Feather Fall, Mage Armour, Magic Missile, Sleep, and Thunderwave are recommended.
 
@@ -93,9 +93,9 @@ The Wizard Features table shows how many spell slots you have to cast your level
 
 You prepare the list of level 1+ spells that are available for you to cast with this feature. To do so, choose four spells from your spellbook. The chosen spells must be of a level for which you have spell slots.
 
-The number of spells on your list increases as you gain Wizard levels, as shown in the Prepared Spells column of the Wizard Features table. Whenever that number increases, choose additional Wizard spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 3 Wizard, your list of prepared spells can include six spells of levels 1 and 2 in any combination, chosen from your spellbook.
+The number of spells on your list increases as you gain Wizard levels, as shown in the Prepared Spells column of the Wizard Features table. Whenever that number increases, choose additional Wizard spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Wizard, your list of prepared spells can include six spells of levels 1 and 2 in any combination, chosen from your spellbook.
 
-If another Wizard feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Wizard spells for you.
+If another Wizard feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Wizard spells for you.
 
 #### Changing Your Prepared Spells
 Whenever you finish a Long Rest, you can change your list of prepared spells, replacing any of the spells there with spells from your spellbook.
@@ -112,7 +112,7 @@ You can use an Arcane Focus or your spellbook as a Spellcasting Focus for your W
 
     The spells you add to your spellbook as you gain levels reflect your ongoing magical research, but you might find other spells during your adventures that you can add to the book. You could discover a Wizard spell on a Spell Scroll, for example, and then copy it into your spellbook.
 
-    ***Copying a Spell into the Book.*** When you find a level 1+ Wizard spell, you can copy it into your spellbook if it’s of a level you can prepare and if you have time to copy it. For each level of the spell, the transcription takes 2 hours and costs 50 GP. Afterward you can prepare the spell like the other spells in your spellbook.
+    ***Copying a Spell into the Book.*** When you find a level 1+ Wizard spell, you can copy it into your spellbook if it's of a level you can prepare and if you have time to copy it. For each level of the spell, the transcription takes 2 hours and costs 50 GP. Afterward you can prepare the spell like the other spells in your spellbook.
 
     ***Copying the Book.*** You can copy a spell from your spellbook into another book. This is like copying a new spell into your spellbook but faster, since you already know how to cast the spell. You need spend only 1 hour and 10 GP for each level of the copied spell.
 
@@ -120,13 +120,13 @@ You can use an Arcane Focus or your spellbook as a Spellcasting Focus for your W
 
 ### Level 1: Ritual Adept
 
-You can cast any spell as a Ritual if that spell has the Ritual tag and the spell is in your spellbook. You needn’t have the spell prepared, but you must read from the book to cast a spell in this way.
+You can cast any spell as a Ritual if that spell has the Ritual tag and the spell is in your spellbook. You needn't have the spell prepared, but you must read from the book to cast a spell in this way.
 
 ### Level 1: Arcane Recovery
 
-You can regain some of your magical energy by studying your spellbook. When you finish a Short Rest, you can choose expended spell slots to recover. The spell slots can have a combined level equal to no more than half your Wizard level (round up), and none of the slots can be level 6 or higher. For example, if you’re a level 4 Wizard, you can recover up to two levels’ worth of spell slots, regaining either one level 2 spell slot or two level 1 spell slots.
+You can regain some of your magical energy by studying your spellbook. When you finish a Short Rest, you can choose expended spell slots to recover. The spell slots can have a combined level equal to no more than half your Wizard level (round up), and none of the slots can be level 6 or higher. For example, if you're a level 4 Wizard, you can recover up to two levels' worth of spell slots, regaining either one level 2 spell slot or two level 1 spell slots.
 
-Once you use this feature, you can’t do so again until you finish a Long Rest.
+Once you use this feature, you can't do so again until you finish a Long Rest.
 
 ### Level 2: Scholar
 
@@ -134,7 +134,7 @@ While studying magic, you also specialized in another field of study. Choose one
 
 ### Level 3: Wizard Subclass
 
-You gain a Wizard subclass of your choice. A subclass is a specialization that grants you features at certain Wizard levels. For the rest of your career, you gain each of your subclass’s features that are of your Wizard level or lower.
+You gain a Wizard subclass of your choice. A subclass is a specialization that grants you features at certain Wizard levels. For the rest of your career, you gain each of your subclass's features that are of your Wizard level or lower.
 
 ### Level 4: Ability Score Improvement
 
@@ -156,6 +156,6 @@ You gain an Epic Boon feat (see chapter 5) or another feat of your choice for wh
 
 ### Level 20: Signature Spells
 
-Choose two level 3 spells in your spellbook as your signature spells. You always have these spells prepared, and you can cast each of them once at level 3 without expending a spell slot. When you do so, you can’t cast them in this way again until you finish a Short or Long Rest. To cast either spell at a higher level, you must expend a spell slot.
+Choose two level 3 spells in your spellbook as your signature spells. You always have these spells prepared, and you can cast each of them once at level 3 without expending a spell slot. When you do so, you can't cast them in this way again until you finish a Short or Long Rest. To cast either spell at a higher level, you must expend a spell slot.
 
 --8<-- "includes/snippets/skills.md"

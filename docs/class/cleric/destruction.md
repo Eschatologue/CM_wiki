@@ -46,4 +46,4 @@ The Destruction has finally acknowledged your existence. You gain the following 
 
 ***Expanded Aura.*** The radius of your Accretion Disk aura expands to 30 feet, and the distance you can push or pull creatures using your Gravitational Shift feature increases to 10 feet.
 
-***Gravity’s Domination.*** Whenever a creature you choose starts its turn within your Accretion Disk, you can force it to make a Strength saving throw against your spell save DC. On a failed save, it takes 2d10 Force damage, and its Speed is reduced to 0 until the start of its next turn. On a successful save, it takes half as much damage, and every foot it moves this turn costs 2 extra feet of movement.
+***Gravity's Domination.*** Whenever a creature you choose starts its turn within your Accretion Disk, you can force it to make a Strength saving throw against your spell save DC. On a failed save, it takes 2d10 Force damage, and its Speed is reduced to 0 until the start of its next turn. On a successful save, it takes half as much damage, and every foot it moves this turn costs 2 extra feet of movement.

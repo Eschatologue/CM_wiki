@@ -6,13 +6,13 @@ status: adapted
 
 > *Fight Deliberately and Precisely. Be Unwavering*
 
-The Samurai is a fighter who draws on an implacable fighting spirit to overcome enemies. A samurai’s resolve is nearly unbreakable, and the enemies in a samurai’s path have two choices: yield or die fighting.
+The Samurai is a fighter who draws on an implacable fighting spirit to overcome enemies. A samurai's resolve is nearly unbreakable, and the enemies in a samurai's path have two choices: yield or die fighting.
 
 > Written by PerfectlyCircularSeal*
 
 ### Level 3: Brush and Blade
 
-You gain a set of Calligrapher’s Tools and you have proficiency in it and two of the following skills of your choice: History, Insight, Performance, or Persuasion.
+You gain a set of Calligrapher's Tools and you have proficiency in it and two of the following skills of your choice: History, Insight, Performance, or Persuasion.
 
 ### Level 3: Fighting Spirit
 
@@ -20,7 +20,7 @@ Your intensive training in battle grants you unparalleled focus.
 
 ***Precision.*** Before you make an attack, you can choose to enter a focus state giving yourself Advantage on attacks until the start of your next turn. When you do so, you also gain Temporary Hit Points equal to your Wisdom modifier + half of your Fighter level (minimum of 1). You can use this feature 4 times. You regain 1 expended use when you finish a Short Rest and all expended uses when you finish a Long Rest.
 
-***Stamina.*** As a Bonus Action, you can regain half of your [Second Wind](index.md#level-1-second-wind) uses (rounded up). Once you do so, you can’t do it again until you finish a Long Rest.
+***Stamina.*** As a Bonus Action, you can regain half of your [Second Wind](index.md#level-1-second-wind) uses (rounded up). Once you do so, you can't do it again until you finish a Long Rest.
 
 ### Level 7: Elegant Courtier
 
@@ -40,4 +40,4 @@ You learn to trade accuracy for swift strikes. Once per turn, if you make an att
 
 ### Level 18: Strength Before Death
 
-Your fighting spirit can delay the grasp of death. If you are reduced to 0 Hit Points, you can use your Reaction to delay having the Unconscious condition, and you can immediately take an extra turn. While you have 0 Hit Points during that extra turn, taking damage causes Death Save failures as normal, and three Death Save failures can still kill you. When the extra turn ends, you have the Unconscious condition if you still have 0 hit points. Once you use this feature, you can’t use it again until you finish a Long Rest.
+Your fighting spirit can delay the grasp of death. If you are reduced to 0 Hit Points, you can use your Reaction to delay having the Unconscious condition, and you can immediately take an extra turn. While you have 0 Hit Points during that extra turn, taking damage causes Death Save failures as normal, and three Death Save failures can still kill you. When the extra turn ends, you have the Unconscious condition if you still have 0 hit points. Once you use this feature, you can't use it again until you finish a Long Rest.

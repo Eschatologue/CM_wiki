@@ -23,7 +23,7 @@ The recent Dwarvish-London War highlights this fragile balance, though many grou
 
 ### Technology
 
-Technology in Antares varies drastically across its nations, from medieval standards to the equivalent of the 1960s. Some nations still rely on horse-drawn transport, while others boast voidite-powered aircraft. Magic is present, though its accessibility depends on the region. This variance shapes how weapons and tools are used, with Gallian spellcasters, Myrkheim’s mechanical gadgets, Valinor’s magical archers, and London’s firearms setting each apart.
+Technology in Antares varies drastically across its nations, from medieval standards to the equivalent of the 1960s. Some nations still rely on horse-drawn transport, while others boast voidite-powered aircraft. Magic is present, though its accessibility depends on the region. This variance shapes how weapons and tools are used, with Gallian spellcasters, Myrkheim's mechanical gadgets, Valinor's magical archers, and London's firearms setting each apart.
 
 ### Weapons & Warfare
 
@@ -31,4 +31,4 @@ Cold weapons—swords, spears, shields, and bows—remain the norm in Antares, o
 
 ### Culture
 
-Antares' cultures mirror those of our world. London reflects the industrial strength of the British Empire, while Myrkheim is rooted in Norse and Germanic traditions. Valinor’s elves draw from Uralic cultures, blending mysticism with their connection to nature. Gallia’s aristocracy and rigid societal structures resemble post-revolutionary France. Soterrano fuses Swiss neutrality with the spiritual authority of Roman Catholicism, and Karakorum is a blend of Japanese, Chinese, and Mongolian cultures, represented in its seafaring fleets.
+Antares' cultures mirror those of our world. London reflects the industrial strength of the British Empire, while Myrkheim is rooted in Norse and Germanic traditions. Valinor's elves draw from Uralic cultures, blending mysticism with their connection to nature. Gallia's aristocracy and rigid societal structures resemble post-revolutionary France. Soterrano fuses Swiss neutrality with the spiritual authority of Roman Catholicism, and Karakorum is a blend of Japanese, Chinese, and Mongolian cultures, represented in its seafaring fleets.

@@ -85,6 +85,6 @@ Dragonborn are a proud species, valuing clan loyalty and personal prowess above 
 
 Now, with the Aeginae all but extinct, the Dragonborn remain resolute in their desire for independence. Determined to maintain self-sufficiency, they refuse to owe allegiance to anyone—not even the gods, and certainly not the Spires.
 
-Most Dragonborn are found either aboard the Karakorum Arks or in Soterrano, where they live between 80 to 100 years. Their physical traits make them uniquely suited to harsh environments, where other species might perish. While they are often perceived as intimidating or gruff by unfamiliar races, a Dragonborn’s greatest gift to an ally is their unwavering loyalty. Their sense of humour is equally dry, no matter where they are from.
+Most Dragonborn are found either aboard the Karakorum Arks or in Soterrano, where they live between 80 to 100 years. Their physical traits make them uniquely suited to harsh environments, where other species might perish. While they are often perceived as intimidating or gruff by unfamiliar races, a Dragonborn's greatest gift to an ally is their unwavering loyalty. Their sense of humour is equally dry, no matter where they are from.
 
 --> 

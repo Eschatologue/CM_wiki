@@ -13,7 +13,7 @@ While all Monks are able to wield the weapons of their style to great effect, th
 
 ### Level 3: Wuxia's Artistry 
 
-You gain a set of Calligrapher’s Supplies and a set of Painter’s Supplies. You have proficiency with both of these.
+You gain a set of Calligrapher's Supplies and a set of Painter's Supplies. You have proficiency with both of these.
 
 ### Level 3: The Study of Iron
 
@@ -35,7 +35,7 @@ Your focus empowers your Wuxia weapons, granting you the following benefits.
 
 ***Deft Strike.*** Once per turn, when you hit a creature with a Wuxia weapon, you can spend 1 Focus Point to deal additional damage equal to a roll of your Martial Arts die.
 
-***Magic Wuxia Weapons.*** When you attack with a Wuxia weapon, you can choose to deal the weapon’s damage type or Force damage.
+***Magic Wuxia Weapons.*** When you attack with a Wuxia weapon, you can choose to deal the weapon's damage type or Force damage.
 
 ***Rapid Strikes.*** When you use Flurry of Blows, you can replace your [Unarmed Strike]s with melee Wuxia Weapon attacks
 

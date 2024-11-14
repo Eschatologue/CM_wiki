@@ -17,27 +17,27 @@ title: Barbarian
 | **Skill Proficiencies**        | Choose 2: Animal Handling, Athletics, Intimidation, Nature, Perception, or Survival |
 | **Weapon Proficiencies**       | Simple and Martial weapons                                                          |
 | **Armour Training**            | Light and Medium armour and Shields                                                 |
-| **Starting Equipment**         | Choose A or B: (A) Greataxe, 4 Handaxes, Explorer’s Pack, and 15 GP; or (B) 75 GP   |
+| **Starting Equipment**         | Choose A or B: (A) Greataxe, 4 Handaxes, Explorer's Pack, and 15 GP; or (B) 75 GP   |
 
-Barbarians are mighty warriors who are powered by primal forces of the multiverse that manifest as a Rage. More than a mere emotion—and not limited to anger—this Rage is an incarnation of a predator’s ferocity, a storm’s fury, and a sea’s turmoil.
+Barbarians are mighty warriors who are powered by primal forces of the multiverse that manifest as a Rage. More than a mere emotion—and not limited to anger—this Rage is an incarnation of a predator's ferocity, a storm's fury, and a sea's turmoil.
 
 Some Barbarians personify their Rage as a fierce spirit or revered forebear. Others see it as a connection to the pain and anguish of the world, as an impersonal tangle of wild magic, or as an expression of their own deepest self. For every Barbarian, their Rage is a power that fuels not just battle prowess, but also uncanny reflexes and heightened senses.
 
-Barbarians often serve as protectors and leaders in their communities. They charge headlong into danger so those under their protection don’t have to. Their courage in the face of danger makes Barbarians perfectly suited for adventure.
+Barbarians often serve as protectors and leaders in their communities. They charge headlong into danger so those under their protection don't have to. Their courage in the face of danger makes Barbarians perfectly suited for adventure.
 
 ## Becoming a Barbarian...
 
 ### As a Level 1 Character
 
 - Gain all the traits in the Core Barbarian Traits table.
-- Gain the Barbarian’s level 1 features, which are listed in the Barbarian Features table.
+- Gain the Barbarian's level 1 features, which are listed in the Barbarian Features table.
 
 ### As a Multiclass Character
 
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
 
 - Gain the following traits from the Core Barbarian Traits table: Hit Point Die, proficiency with Martial weapons, and training with Shields.
-- Gain the Barbarian’s level 1 features, which are listed in the Barbarian Features table.
+- Gain the Barbarian's level 1 features, which are listed in the Barbarian Features table.
 
 ## Barbarian Class Features
 As a Barbarian, you gain the following class features when you reach the specified Barbarian levels. These features are listed in the Barbarian Features table.
@@ -70,7 +70,7 @@ As a Barbarian, you gain the following class features when you reach the specifi
 
 ### Level 1: Rage
 
-You can imbue yourself with a primal power called Rage, a force that grants you extraordinary might and resilience. You can enter it as a :rsc-b: Bonus Action if you aren’t wearing Heavy armour.
+You can imbue yourself with a primal power called Rage, a force that grants you extraordinary might and resilience. You can enter it as a :rsc-b: Bonus Action if you aren't wearing Heavy armour.
 
 You can enter your Rage the number of times shown for your Barbarian level in the Rages column of the Barbarian Features table. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
 
@@ -82,7 +82,7 @@ While active, your Rage follows the rules below.
 
 ***Strength Advantage.*** You have :d20-adv: **Advantage** on Strength checks and Strength saving throws.
 
-***No Concentration or Spells.*** You can’t maintain Concentration, and you can’t cast spells.
+***No Concentration or Spells.*** You can't maintain Concentration, and you can't cast spells.
 
 ***Duration.*** The Rage lasts until the end of your next turn, and it ends early if you don Heavy armour or have the Incapacitated condition. If your Rage is still active on your next turn, you can extend the Rage for another round by doing one of the following:
 
@@ -109,7 +109,7 @@ Your training with weapons allows you to use the mastery properties of two kinds
 You can practice weapon drills and change *one* of those weapon choices
 
 ***Replace Weapon Mastery^*CM*^***  
-You can choose *one* kind of Mastery weapons you’re using and replace its Mastery property of with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Longsword’s Sap property with the Push property.
+You can choose *one* kind of Mastery weapons you're using and replace its Mastery property of with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Longsword's Sap property with the Push property.
 
 --8<-- "includes/snippets/item-mastery.md"
 
@@ -117,7 +117,7 @@ When you reach certain Barbarian levels, you gain the ability to use the mastery
 
 ### Level 2: Danger Sense
 
-You gain an uncanny sense of when things aren’t as they should be, giving you an edge when you dodge perils. You have :d20-adv: **Advantage** on :d20-save: Dexterity saving throws unless you have the Incapacitated condition.
+You gain an uncanny sense of when things aren't as they should be, giving you an edge when you dodge perils. You have :d20-adv: **Advantage** on :d20-save: Dexterity saving throws unless you have the Incapacitated condition.
 
 ### Level 2: Reckless Attack
 
@@ -125,7 +125,7 @@ You can throw aside all concern for defense to attack with increased ferocity. W
 
 ### Level 3: Barbarian Subclass
 
-You gain a Barbarian subclass of your choice. A subclass is a specialization that grants you features at certain Barbarian levels. For the rest of your career, you gain each of your subclass’s features that are of your Barbarian level or lower.
+You gain a Barbarian subclass of your choice. A subclass is a specialization that grants you features at certain Barbarian levels. For the rest of your career, you gain each of your subclass's features that are of your Barbarian level or lower.
 
 ### Level 3: Primal Knowledge
 
@@ -143,7 +143,7 @@ You can attack twice instead of once whenever you take the Attack action on your
 
 ### Level 5: Fast Movement
 
-Your speed increases by 10 feet while you aren’t wearing Heavy armour.
+Your speed increases by 10 feet while you aren't wearing Heavy armour.
 
 ### Level 7: Feral Instinct
 
@@ -155,17 +155,17 @@ As part of the :rsc-b: Bonus Action you take to enter your Rage, you can move up
 
 ### Level 9: Brutal Strike
 
-If you use Reckless Attack, you can forgo any :d20-adv: **Advantage** on one :ability-str: Strength-based attack roll of your choice on your turn. The chosen attack roll mustn’t have :d20-disadv: **Disadvantage**. 
+If you use Reckless Attack, you can forgo any :d20-adv: **Advantage** on one :ability-str: Strength-based attack roll of your choice on your turn. The chosen attack roll mustn't have :d20-disadv: **Disadvantage**. 
 
 If the chosen attack roll hits, the target takes an extra 1d10 damage of the same type dealt by the weapon or Unarmed Strike, and you can cause one Brutal Strike effect of your choice. You have the following effect options.
 
 ***Forceful Blow.*** The target is pushed 15 feet straight away from you. You can then move up to half your :rsc-speed: Speed straight toward the target without provoking Opportunity Attacks.
 
-***Hamstring Blow.*** The target’s :rsc-speed: Speed is reduced by 15 feet until the start of your next turn. A target can be affected by only one Hamstring Blow at a time—the most recent one.
+***Hamstring Blow.*** The target's :rsc-speed: Speed is reduced by 15 feet until the start of your next turn. A target can be affected by only one Hamstring Blow at a time—the most recent one.
 
 ### Level 11: Relentless Rage
 
-Your Rage can keep you fighting despite grievous wounds. If you drop to 0 Hit Points while your Rage is active and don’t die outright, you can make a :d20-save: DC 10 Constitution saving throw. If you succeed, your Hit Points instead change to a number equal to twice your Barbarian level.
+Your Rage can keep you fighting despite grievous wounds. If you drop to 0 Hit Points while your Rage is active and don't die outright, you can make a :d20-save: DC 10 Constitution saving throw. If you succeed, your Hit Points instead change to a number equal to twice your Barbarian level.
 
 Each time you use this feature after the first, the DC increases by 5. When you finish a Short or Long Rest, the DC resets to 10.
 
@@ -173,13 +173,13 @@ Each time you use this feature after the first, the DC increases by 5. When you 
 
 You have honed new ways to attack furiously. The following effects are now among your Brutal Strike options.
 
-***Staggering Blow.*** The target has :d20-disadv: **Disadvantage** on the next saving throw it makes, and it can’t make :rsc-r: Opportunity Attacks until the start of your next turn.
+***Staggering Blow.*** The target has :d20-disadv: **Disadvantage** on the next saving throw it makes, and it can't make :rsc-r: Opportunity Attacks until the start of your next turn.
 
 ***Sundering Blow.*** Before the start of your next turn, the next attack roll made by another creature against the target gains a +5 bonus to the roll. An attack roll can gain only one Sundering Blow bonus.
 
 ### Level 15: Persistent Rage
 
-When you roll :d20-initiative: Initiative, you can regain all expended uses of Rage. After you regain uses of Rage in this way, you can’t do so again until you finish a Long Rest.
+When you roll :d20-initiative: Initiative, you can regain all expended uses of Rage. After you regain uses of Rage in this way, you can't do so again until you finish a Long Rest.
 
 In addition, your Rage is so fierce that it now lasts for 10 minutes without you needing to do anything to extend it from round to round. Your Rage ends early if you have the Unconscious condition (not just the Incapacitated condition) or don Heavy armour.
 

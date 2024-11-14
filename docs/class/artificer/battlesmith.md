@@ -10,9 +10,9 @@ Armies require protection, and someone has to put things back together if defens
 
 ### Level 3: Tool of the Trade
 
-You have proficiency with Smith’s Tools. If you already have this proficiency, you gain proficiency with one other type of Artisan’s Tools of your choice.
+You have proficiency with Smith's Tools. If you already have this proficiency, you gain proficiency with one other type of Artisan's Tools of your choice.
 
-In addition, whenever you make an ability check with Smith’s Tools, you can use your Intelligence as the ability, instead of Strength.
+In addition, whenever you make an ability check with Smith's Tools, you can use your Intelligence as the ability, instead of Strength.
 
 ### Level 3: Battle Smith Spells
 
@@ -38,13 +38,13 @@ Your combat training and your experiments with magic have paid off in two ways:
 
 ### Level 3: Steel Defender
 
-Your tinkering has borne you a companion, a steel defender. It’s friendly to you and your companions, and it obeys your commands. See its game statistics in the Steel Defender stat block. You determine the creature’s appearance and whether it has two legs or four; your choice has no effect on its game statistics.
+Your tinkering has borne you a companion, a steel defender. It's friendly to you and your companions, and it obeys your commands. See its game statistics in the Steel Defender stat block. You determine the creature's appearance and whether it has two legs or four; your choice has no effect on its game statistics.
 
 ***The Defender in Combat.*** In combat, the Defender shares your Initiative count, but it takes its turn immediately after yours. It can move and use its Reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a Bonus Action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you have the Incapacitated condition, the Defender can take any action of its choice, not just Dodge.
 
-***Repairing or Replacing the Defender.*** If the Mending spell is cast on the Defender, it regains 2d6 Hit Points. If it has died within the last hour, you can use your Smith’s Tools as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of level 1 or higher. The Steel Defender returns to life after 1 minute with all its Hit Points restored.
+***Repairing or Replacing the Defender.*** If the Mending spell is cast on the Defender, it regains 2d6 Hit Points. If it has died within the last hour, you can use your Smith's Tools as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of level 1 or higher. The Steel Defender returns to life after 1 minute with all its Hit Points restored.
 
-At the end of a Long Rest, you can create a new Steel Defender if you have Smith’s Tools with you. If you already have a Defender from this feature, the first one immediately perishes. The Defender also perishes if you die.
+At the end of a Long Rest, you can create a new Steel Defender if you have Smith's Tools with you. If you already have a Defender from this feature, the first one immediately perishes. The Defender also perishes if you die.
 
 ??? note "Steel Defender"
 

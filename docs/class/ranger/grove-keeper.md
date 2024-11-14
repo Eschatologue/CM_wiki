@@ -63,4 +63,4 @@ Once during your turn, You can command it to move up to 30 feet (No action requi
 
 ***Guardian Aura.*** While in the aura, you and your allies have Advantage on all saving throws against spells. Additionally, At the start of each of your or your allies turn, regain 2d6 hit points.
 
-Once you use this feature, you can’t use it again until you finish a long rest. You can also restore your use of it by expending a level 4 spell slot.
+Once you use this feature, you can't use it again until you finish a long rest. You can also restore your use of it by expending a level 4 spell slot.

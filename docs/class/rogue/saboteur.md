@@ -15,11 +15,11 @@ No matter their focus, they all delight in violent destruction, and due to the r
 
 ### Level 3: Explosives
 
-You gain proficiency with Alchemist’s Supplies, along with the secrets of creating explosives from Cordites:
+You gain proficiency with Alchemist's Supplies, along with the secrets of creating explosives from Cordites:
 
 #### Cordite Charges 
 
-At the end of each Long Rest, you can use your Alchemist’s Supplies to create a number of Cordite Charges equal to your proficiency bonus + your Intelligence modifier (minimum of 1). These Charges are used to craft explosives. Unused Cordite Charges or explosives made from them become inert and unusable at the end of your next Long Rest.
+At the end of each Long Rest, you can use your Alchemist's Supplies to create a number of Cordite Charges equal to your proficiency bonus + your Intelligence modifier (minimum of 1). These Charges are used to craft explosives. Unused Cordite Charges or explosives made from them become inert and unusable at the end of your next Long Rest.
 
 #### Explosives Known
 

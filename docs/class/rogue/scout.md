@@ -13,7 +13,7 @@ Ambusher, spy, bounty hunter — these are just a few of the roles that Scouts a
 
 ### Level 3: Skirmisher
 
-You are difficult to pin down during a fight. When a creature Moves into a space within 5 feet of you or ends its turn there, you can use your Reaction to Move up to half your Speed. This movement doesn’t provoke Opportunity Attacks.
+You are difficult to pin down during a fight. When a creature Moves into a space within 5 feet of you or ends its turn there, you can use your Reaction to Move up to half your Speed. This movement doesn't provoke Opportunity Attacks.
 
 Starting at level 5, you can move in this way when you use [Uncanny Dodge], as part of the same Reaction. 
 
@@ -35,7 +35,7 @@ You excel at leading ambushes and acting first in a fight. You have Advantage on
 
 ### Level 17: Sudden Strike
 
-You can strike with deadly speed. If you take the Attack action on your turn, you can make one additional attack as a Bonus Action. This attack can benefit from your Sneak Attack even if you have already used it this turn, but you can’t use your Sneak Attack against the same target more than once in a turn.
+You can strike with deadly speed. If you take the Attack action on your turn, you can make one additional attack as a Bonus Action. This attack can benefit from your Sneak Attack even if you have already used it this turn, but you can't use your Sneak Attack against the same target more than once in a turn.
 
 
 [Uncanny Dodge]: index.md#level-5-uncanny-dodge

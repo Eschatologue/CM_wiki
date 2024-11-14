@@ -106,7 +106,7 @@ The Standard Languages table lists languages that are widespread on D&D worlds. 
 
     #### Crown & Misery Languages
 
-    Languages in Crown & Misery are based on the country of origin rather than a creature’s species. However a creature of a specific species may culturally know the language given by the RAW. Typically a person knows Common, the language of their nation, and the language of their culture or people.
+    Languages in Crown & Misery are based on the country of origin rather than a creature's species. However a creature of a specific species may culturally know the language given by the RAW. Typically a person knows Common, the language of their nation, and the language of their culture or people.
 
     Compiled is a list of languages, the races that commonly speak it and which nation uses it primarily. 
 

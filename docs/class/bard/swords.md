@@ -44,6 +44,6 @@ You gain additional method to use your Bardic Inspiration as follow:
 
 ***Piercing Flourish.*** As a Bonus Action, you can expend one use of your Bardic Inspiration and take the Dash action. If you move at least 10 feet in a straight line immediately before hitting with a melee attack as part of the Attack action on this turn, the attack deals extra damage equals the number you roll on the Bardic Inspiration die.
 
-### Level 14: Master’s Flourish
+### Level 14: Master's Flourish
 
 Whenever you use a Blade Flourish or a Blade Technique options, you can roll a d6 and use it instead of expending a Bardic Inspiration die.

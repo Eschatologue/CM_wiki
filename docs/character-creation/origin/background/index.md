@@ -13,7 +13,7 @@ Choosing a background provides you with important story cues about your characte
 
 Your character's background is the collection of characteristics that they picked up during the formative years of their life. These are the experiences and occupations your character engaged in separate from their upbringing and species, and prior to their life as an adventurer.
 
-Each background includes the following elements, which you can either choose from existing options or customize to fit your character’s story.
+Each background includes the following elements, which you can either choose from existing options or customize to fit your character's story.
 
 Mechanically, your background contains six plus one aspects detailed as follow, a **Custom Background** follows the same formula:
 
@@ -31,7 +31,7 @@ Mechanically, your background contains six plus one aspects detailed as follow, 
 
 :material-tools: ***Tool Proficiency***
 
-:   Gain ^^proficiency with 1 tool^^. This can be a specific tool (Musical Instrument, or other tools) or one from the **Artisan’s Tools** category.
+:   Gain ^^proficiency with 1 tool^^. This can be a specific tool (Musical Instrument, or other tools) or one from the **Artisan's Tools** category.
 
 :trait-language: ***Languages Known***
 

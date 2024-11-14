@@ -8,7 +8,7 @@ While most Artificers are primarily inventors who take up the life of adventure 
 
 ### Level 3: Tools of the Trade
 
-You gain proficiency with Martial Weapons and Smith's Tools. If you already have proficiency with Smith's Tool, you gain proficiency with one other type of artisan’s tools of your choice.
+You gain proficiency with Martial Weapons and Smith's Tools. If you already have proficiency with Smith's Tool, you gain proficiency with one other type of artisan's tools of your choice.
 
 In addition, whenever you make an ability check with Smith's Tools, you can use your Intelligence as the ability, instead of Dexterity.
 

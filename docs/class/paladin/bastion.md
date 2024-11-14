@@ -24,7 +24,7 @@ As :rsc-b: **Bonus Action**, you can expend one use of your Channel Divinity to 
 - A fixed point on the ground, or
 - A creature (including yourself), which causes the zone to move with them.
 
-This protective zone lasts for **1 minute**. While active, whenever a creature within **15 feet** of the marked point takes any action or moves, you can make a ranged weapon attack against them using a **Bastion Weapon** (if within normal range). This attack doesn’t require any action and can be made up to a number of times equal to your **Charisma modifier** (minimum of 1).
+This protective zone lasts for **1 minute**. While active, whenever a creature within **15 feet** of the marked point takes any action or moves, you can make a ranged weapon attack against them using a **Bastion Weapon** (if within normal range). This attack doesn't require any action and can be made up to a number of times equal to your **Charisma modifier** (minimum of 1).
 
 You cannot take any :rsc-r: **Reactions** until the start of your next turn after using this attack. The effect ends early if you either:
 

@@ -33,7 +33,7 @@ You can draw or stow two weapons that lack the :weapon-prop-two-handed: **Two-Ha
 
 *Advanced Feat (Prerequisites: Level 8+, Extra Attack feature)*
 
-You’ve learned the art of channeling the Weave with your weapon. Strength or Dexterity is your spellcasting ability for this feat's spells (choose when you select this feat). 
+You've learned the art of channeling the Weave with your weapon. Strength or Dexterity is your spellcasting ability for this feat's spells (choose when you select this feat). 
 
 You gain the following benefits:
 
@@ -130,7 +130,7 @@ When a creature you can see hits you *or* an ally within 5 feet of you with an a
 A shield has the :weapon-prop-thrown: **Thrown (30/60)** property and has the Topple and Push Mastery property for you. You can only use one Mastery property per attack. Whether a Ranged attack with a shield hits or misses, the shield bounces back to you harmlessly.
 
 **Transforming Shield**  
-As a :rsc-b: **Bonus Action**, while wielding both a shield and a melee weapon, you can combine the two, transforming the weapon. The melee weapon gains the :weapon-prop-two-handed: **Two-handed** property and deals extra damage the Shield's Damage on Hit. You lose the Shield’s AC bonus in this form. 
+As a :rsc-b: **Bonus Action**, while wielding both a shield and a melee weapon, you can combine the two, transforming the weapon. The melee weapon gains the :weapon-prop-two-handed: **Two-handed** property and deals extra damage the Shield's Damage on Hit. You lose the Shield's AC bonus in this form. 
 
 You can take a :rsc-b: **Bonus Action** to end this transformation, reverting both the weapon and shield, to its original form.
 

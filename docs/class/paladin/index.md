@@ -52,7 +52,7 @@ As a Paladin, you gain the following class features when you reach the specified
 | Paladin Level | PB | Class Feature | Channel Divinity | Spell Prepared | I | II | III | IV | V |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | +2 | Lay On Hands, Spellcasting, Weapon Mastery | — | 2 | 2 | — | — | — | — |
-| 2 | +2 | Fighting Style, Paladin’s Smite | — | 3 | 2 | — | — | — | — |
+| 2 | +2 | Fighting Style, Paladin's Smite | — | 3 | 2 | — | — | — | — |
 | 3 | +2 | Channel Divinity, Paladin Subclass | 2 | 4 | 3 | — | — | — | — |
 | 4 | +2 | Ability Score Improvement | 2 | 5 | 3 | — | — | — | — |
 | 5 | +3 | Extra Attack, Faithful Steed | 2 | 6 | 4 | 2 | — | — | — |
@@ -93,9 +93,9 @@ The Paladin Features table shows how many spell slots you have to cast your leve
 
  You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Paladin spells. Heroism and Searing Smite are recommended.
 
-The number of spells on your list increases as you gain Paladin levels, as shown in the Prepared Spells column of the Paladin Features table. Whenever that number increases, choose additional Paladin spells until the number of spells on your list matches the number in the Paladin Features table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 5 Paladin, your list of prepared spells can include six Paladin spells of level 1 or 2 in any combination.
+The number of spells on your list increases as you gain Paladin levels, as shown in the Prepared Spells column of the Paladin Features table. Whenever that number increases, choose additional Paladin spells until the number of spells on your list matches the number in the Paladin Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Paladin, your list of prepared spells can include six Paladin spells of level 1 or 2 in any combination.
 
-If another Paladin feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Paladin spells for you.
+If another Paladin feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Paladin spells for you.
 
 #### Changing Your Prepared Spells
 Whenever you finish a Long Rest, you can replace one spell on your list with another Paladin spell for which you have spell slots.
@@ -120,7 +120,7 @@ Whenever you finish a Long Rest, you can do **one** of the following:
 
 ***Replace Weapon Mastery^*CM*^*** 
 
-:   You can choose any of the kinds of Mastery weapons you’re using and replace the Mastery property of each with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Halberd's Cleave property with the Topple property.
+:   You can choose any of the kinds of Mastery weapons you're using and replace the Mastery property of each with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Halberd's Cleave property with the Topple property.
 
 --8<-- "includes/snippets/item-mastery.md"
 
@@ -128,7 +128,7 @@ Whenever you finish a Long Rest, you can do **one** of the following:
 
 You gain a Fighting Style feat of your choice (see chapter 5 for feats). Instead of choosing one of those feats, you can choose the option below.
 
-***Blessed Warrior.*** You learn two Cleric cantrips of your choice (see the Cleric class’s section for a list of Cleric spells). Guidance and Sacred Flame are recommended. The chosen cantrips count as Paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip.
+***Blessed Warrior.*** You learn two Cleric cantrips of your choice (see the Cleric class's section for a list of Cleric spells). Guidance and Sacred Flame are recommended. The chosen cantrips count as Paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip.
 
 ### Level 2: Paladin's Smite
 
@@ -156,7 +156,7 @@ As a Bonus Action, you can open your awareness to detect Celestials, Fiends, and
 
 ### Level 3: Paladin Subclass
 
-You gain a Paladin subclass of your choice. A subclass is a specialization that grants you features at certain Paladin levels. For the rest of your career, you gain each of your subclass’s features that are of your Paladin level or lower.
+You gain a Paladin subclass of your choice. A subclass is a specialization that grants you features at certain Paladin levels. For the rest of your career, you gain each of your subclass's features that are of your Paladin level or lower.
 
 !!! danger "Breaking Your Oath"
 
@@ -190,7 +190,7 @@ If another Paladin is present, a creature can benefit from only one Aura of Prot
 
 ### Level 9: Abjure Foes
 
-As a Magic action, you can expend one use of this class’s Channel Divinity to overwhelm foes with awe. As you present your Holy Symbol or weapon, you can target a number of creatures equal to your Charisma modifier (minimum of one creature) that you can see within 60 feet of yourself. Each target must succeed on a Wisdom saving throw or have the Frightened condition for 1 minute or until it takes any damage. While Frightened in this way, a target can do only one of the following on its turns: move, take an action, or take a Bonus Action.
+As a Magic action, you can expend one use of this class's Channel Divinity to overwhelm foes with awe. As you present your Holy Symbol or weapon, you can target a number of creatures equal to your Charisma modifier (minimum of one creature) that you can see within 60 feet of yourself. Each target must succeed on a Wisdom saving throw or have the Frightened condition for 1 minute or until it takes any damage. While Frightened in this way, a target can do only one of the following on its turns: move, take an action, or take a Bonus Action.
 
 ### Level 10: Aura of Courage
 
@@ -202,7 +202,7 @@ Your strikes now carry supernatural power. When you hit a target with an attack 
 
 ### Level 14: Restoring Touch
 
-When you use Lay On Hands on a creature, you can also remove one or more of the following conditions from the creature: Blinded, Charmed, Deafened, Frightened, Paralyzed, or Stunned. You must expend 5 Hit Points from the healing pool of Lay On Hands for each of these conditions you remove; those points don’t also restore Hit Points to the creature.
+When you use Lay On Hands on a creature, you can also remove one or more of the following conditions from the creature: Blinded, Charmed, Deafened, Frightened, Paralyzed, or Stunned. You must expend 5 Hit Points from the healing pool of Lay On Hands for each of these conditions you remove; those points don't also restore Hit Points to the creature.
 
 ### Level 18: Aura Expansion
 

@@ -101,7 +101,7 @@ Whenever you finish a Long Rest, you can do one of the following:
 
 ***Replace Weapon Mastery^*CM*^*** 
 
-:   You can choose any of the kinds of Mastery weapons you’re using and replace the Mastery property of each with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Dagger's Nick property with the Slow property.
+:   You can choose any of the kinds of Mastery weapons you're using and replace the Mastery property of each with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Dagger's Nick property with the Slow property.
 
 --8<-- "includes/snippets/item-mastery.md"
 

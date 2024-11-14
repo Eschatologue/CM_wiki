@@ -11,7 +11,7 @@ Barbarians who walk the Path of the Giant draw strength from the same primal for
 
 > *Written by PerfectlyCircularSeal*
 
-### Level 3: Giant’s Power
+### Level 3: Giant's Power
 
 The primal force of giants wreaths within you.
 
@@ -19,13 +19,13 @@ The primal force of giants wreaths within you.
 
 ***Giant Magic.*** You learn the *Elementalism* cantrip and one other cantrip of your choice: either [Druidcraft]* or *[Thaumaturgy]*. Wisdom is your spellcasting ability for these spells.
 
-### Level 3: Giant’s Havoc
+### Level 3: Giant's Havoc
 
 Your rage pulls strength from the primal might of giants, transforming you into a hulking force of destruction. When your Rage is active, you gain the following benefits:
 
 ***Giant's Cleaver.*** You choose one weapon you are holding and infuse it with primordial power. It gains the Thrown (20/60) property and if it already has the Thrown property its normal and long range increase by 20 feet. If you throw the weapon, it instantly reappears in your hand after you hit or miss a target. The weapon's infusion is suppressed while a creature other than you wields it.
 
-***Giant Stature.*** Your reach increases by 5 feet, and if you are smaller than Large, you can choose to become Large, along with anything you are wearing. If there isn’t enough room for you to increase your size, your size doesn’t change.
+***Giant Stature.*** Your reach increases by 5 feet, and if you are smaller than Large, you can choose to become Large, along with anything you are wearing. If there isn't enough room for you to increase your size, your size doesn't change.
 
 ### Level 6: Element of Power
 
@@ -39,7 +39,7 @@ Your physique is bolstered by the primordial elements.
 
 Your connection to giant strength allows you to hurl both allies and enemies on the battlefield. 
 
-As a Bonus Action while your Rage is active, you can choose one Medium or smaller creature within your reach and move it to an unoccupied space you can see within 30 feet of you. An unwilling creature must succeed on a Strength save (DC equals 8 plus your Proficiency Bonus plus your Strength modifier) to avoid the effect. If, at the end of this movement, the thrown creature isn’t on a surface or liquid that can support it, the creature falls, taking damage as normal and landing with the Prone condition.
+As a Bonus Action while your Rage is active, you can choose one Medium or smaller creature within your reach and move it to an unoccupied space you can see within 30 feet of you. An unwilling creature must succeed on a Strength save (DC equals 8 plus your Proficiency Bonus plus your Strength modifier) to avoid the effect. If, at the end of this movement, the thrown creature isn't on a surface or liquid that can support it, the creature falls, taking damage as normal and landing with the Prone condition.
 
 ### Level 14: Demiurgic Colossus
 

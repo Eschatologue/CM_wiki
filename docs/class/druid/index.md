@@ -18,7 +18,7 @@ title: Druid
 | **Weapon Proficiencies** | Simple weapons |
 | **Tool Proficiencies** | Herbalism Kit |
 | **Armour Training** | Light armour and Shields |
-| **Starting Equipment** | Choose A or B: (A) Leather Armour, Shield, Sickle, Druidic Focus (Quarterstaff), Explorer’s Pack, Herbalism Kit, and 9 GP; or (B) 50 GP |
+| **Starting Equipment** | Choose A or B: (A) Leather Armour, Shield, Sickle, Druidic Focus (Quarterstaff), Explorer's Pack, Herbalism Kit, and 9 GP; or (B) 50 GP |
 
 Druids belong to ancient orders that call on the forces of nature. Harnessing the magic of animals, plants, weather, and the four elements, Druids can heal, transform themselves, and wield elemental destruction.
 
@@ -39,14 +39,14 @@ Druids are often found guarding sacred sites or watching over regions of unspoil
 ### As a Level 1 Druid
 
 - Gain all the traits in the Core Druid Traits table.
-- Gain the Druid’s level 1 features, which are listed in the Druid Features table.
+- Gain the Druid's level 1 features, which are listed in the Druid Features table.
 
 ### As a Multiclass Druid
 
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
 
 - Gain the following traits from the Core Druid Traits table: Hit Point Die and training with Light armour and Shields.
-- Gain the Druid’s level 1 features, which are listed in the Druid Features table. See the multiclassing rules in chapter 2 to determine your available spell slots.
+- Gain the Druid's level 1 features, which are listed in the Druid Features table. See the multiclassing rules in chapter 2 to determine your available spell slots.
 
 ## Druid Class Features
 
@@ -79,7 +79,7 @@ As a Druid, you gain the following class features when you reach the specified D
 
 ### Level 1: Spellcasting
 
-You have learned to cast spells through studying the mystical forces of nature. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Druid spells, which appear on the [Druid spell list](../../spells/class-specific/druid.md) later in the class’s description.
+You have learned to cast spells through studying the mystical forces of nature. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Druid spells, which appear on the [Druid spell list](../../spells/class-specific/druid.md) later in the class's description.
 
 #### Cantrips
 
@@ -97,9 +97,9 @@ The Druid Features table shows how many spell slots you have to cast your level 
 
 You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Druid spell list. Animal Friendship, Cure Wounds, Faerie Fire, and Thunderwave are recommended.
 
-The number of spells on your list increases as you gain Druid levels, as shown in the Prepared Spells column of the Druid Features table. Whenever that number increases, choose additional spells from the Druid spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 3 Druid, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
+The number of spells on your list increases as you gain Druid levels, as shown in the Prepared Spells column of the Druid Features table. Whenever that number increases, choose additional spells from the Druid spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Druid, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
-If another Druid feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Druid spells for you.
+If another Druid feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Druid spells for you.
 
 #### Changing Your Prepared Spells
 Whenever you finish a Long Rest, you can change your list of prepared spells, replacing any of the spells with other Druid spells for which you have spell slots.
@@ -116,7 +116,7 @@ You can use a Druidic Focus as a Spellcasting Focus for your Druid spells.
 
 You know Druidic, the secret language of Druids. While learning this ancient tongue, you also unlocked the magic of communicating with animals; you always have the Speak with Animals spell prepared.
 
-You can use Druidic to leave hidden messages. You and others who know Druidic automatically spot such a message. Others spot the message’s presence with a successful DC 15 Intelligence (Investigation) check but can’t decipher it without magic.
+You can use Druidic to leave hidden messages. You and others who know Druidic automatically spot such a message. Others spot the message's presence with a successful DC 15 Intelligence (Investigation) check but can't decipher it without magic.
 
 ### Level 1: Primal Order
 
@@ -154,11 +154,11 @@ While in a form, you retain your personality, memories, and ability to speak, an
 
 ***Temporary Hit Points.*** When you assume a Wild Shape form, you gain a number of Temporary Hit Points equal to your Druid level.
 
-***Game Statistics.*** Your game statistics are replaced by the Beast’s stat block, but you retain your creature type; Hit Points; Hit Point Dice; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your skill and saving throw proficiencies and use your Proficiency Bonus for them, in addition to gaining the proficiencies of the creature. If a skill or saving throw modifier in the Beast’s stat block is higher than yours, use the one in the stat block.
+***Game Statistics.*** Your game statistics are replaced by the Beast's stat block, but you retain your creature type; Hit Points; Hit Point Dice; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your skill and saving throw proficiencies and use your Proficiency Bonus for them, in addition to gaining the proficiencies of the creature. If a skill or saving throw modifier in the Beast's stat block is higher than yours, use the one in the stat block.
 
-***No Spellcasting.*** You can’t cast spells, but shape-shifting doesn’t break your Concentration or otherwise interfere with a spell you’ve already cast.
+***No Spellcasting.*** You can't cast spells, but shape-shifting doesn't break your Concentration or otherwise interfere with a spell you've already cast.
 
-***Objects.*** Your ability to handle objects is determined by the form’s limbs rather than your own. In addition, you choose whether your equipment falls in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it’s practical for the new form to wear a piece of equipment based on the creature’s size and shape. Your equipment doesn’t change size or shape to match the new form, and any equipment that the new form can’t wear must either fall to the ground or merge with the form. Equipment that merges with the form has no effect while you’re in that form.
+***Objects.*** Your ability to handle objects is determined by the form's limbs rather than your own. In addition, you choose whether your equipment falls in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it's practical for the new form to wear a piece of equipment based on the creature's size and shape. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with the form. Equipment that merges with the form has no effect while you're in that form.
 
 ### Level 2: Wild Companion
 
@@ -168,7 +168,7 @@ When you cast the spell in this way, the familiar is Fey and disappears when you
 
 ### Level 3: Druid Subclass
 
-You gain a Druid subclass of your choice. A subclass is a specialization that grants you features at certain Druid levels. For the rest of your career, you gain each of your subclass’s features that are of your Druid level or lower.
+You gain a Druid subclass of your choice. A subclass is a specialization that grants you features at certain Druid levels. For the rest of your career, you gain each of your subclass's features that are of your Druid level or lower.
 
 ### Level 4: Ability Score Improvement
 
@@ -178,7 +178,7 @@ You gain the Ability Score Improvement feat (see chapter 5) or another feat of y
 
 Once on each of your turns, if you have no uses of Wild Shape left, you can give yourself one use by expending a spell slot (no action required).
 
-In addition, you can expend one use of Wild Shape (no action required) to give yourself a level 1 spell slot, but you can’t do so again until you finish a Long Rest.
+In addition, you can expend one use of Wild Shape (no action required) to give yourself a level 1 spell slot, but you can't do so again until you finish a Long Rest.
 
 ### Level 7: Elemental Fury
 
@@ -186,13 +186,13 @@ The might of the elements flows through you. You gain one of the following optio
 
 ***Potent Spellcasting.*** Add your Wisdom modifier to the damage you deal with any Druid cantrip.
 
-***Primal Strike.*** Once on each of your turns when you hit a creature with an attack roll using a weapon or a Beast form’s attack in Wild Shape, you can cause the target to take an extra 1d8 Cold, Fire, Lightning, or Thunder damage (choose when you hit).
+***Primal Strike.*** Once on each of your turns when you hit a creature with an attack roll using a weapon or a Beast form's attack in Wild Shape, you can cause the target to take an extra 1d8 Cold, Fire, Lightning, or Thunder damage (choose when you hit).
 
 ### Level 15: Improved Elemental Fury
 
 The option you chose for Elemental Fury grows more powerful, as detailed below.
 
-***Potent Spellcasting.*** When you cast a Druid cantrip with a range of 10 feet or greater, the spell’s range increases by 300 feet.
+***Potent Spellcasting.*** When you cast a Druid cantrip with a range of 10 feet or greater, the spell's range increases by 300 feet.
 
 ***Primal Strike.*** The extra damage of your Primal Strike increases to 2d8.
 
@@ -210,7 +210,7 @@ The vitality of nature constantly blooms within you, granting you the following 
 
 ***Evergreen Wild Shape.*** Whenever you roll Initiative and have no uses of Wild Shape left, you regain one expended use of it.
 
-***Nature Magician.*** You can convert uses of Wild Shape into a spell slot (no action required). Choose a number of your unexpended uses of Wild Shape and convert them into a single spell slot, with each use contributing 2 spell levels. For example, if you convert two uses of Wild Shape, you produce a level 4 spell slot. Once you use this benefit, you can’t do so again until you finish a Long Rest.
+***Nature Magician.*** You can convert uses of Wild Shape into a spell slot (no action required). Choose a number of your unexpended uses of Wild Shape and convert them into a single spell slot, with each use contributing 2 spell levels. For example, if you convert two uses of Wild Shape, you produce a level 4 spell slot. Once you use this benefit, you can't do so again until you finish a Long Rest.
 
 ***Longevity.*** The primal magic that you wield causes you to age more slowly. For every ten years that pass, your body ages only one year.
 

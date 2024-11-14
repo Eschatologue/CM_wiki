@@ -12,7 +12,7 @@ Existence itself relies on the positive energy associated with this domain, so a
 
 ### Level 3: Disciple of Life
 
-When a spell you cast with a spell slot restores Hit Points to a creature, that creature regains additional Hit Points on the turn you cast the spell. The additional Hit Points equal 2 plus the spell slot’s level.
+When a spell you cast with a spell slot restores Hit Points to a creature, that creature regains additional Hit Points on the turn you cast the spell. The additional Hit Points equal 2 plus the spell slot's level.
 
 ### Level 3: Life Domain Spells
 

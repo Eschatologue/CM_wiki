@@ -11,6 +11,6 @@
 *[Reload]: Reload after a set number of attacks. Proficient: Bonus Action; otherwise, Action.
 *[Scatter]: Within half range, deals damage in parenthesis.
 *[Sighted]: Disadvantage on attacks within 20 ft.; Advantage against targets that haven't moved 15 ft.
-*[Thrown]: Throw to make a ranged attack using the melee attack’s ability modifier.
+*[Thrown]: Throw to make a ranged attack using the melee attack's ability modifier.
 *[Two-Handed]: Requires two hands to attack.
 *[Versatile]: Can be used with one or two hands; deals damage in parenthesis with two hands.

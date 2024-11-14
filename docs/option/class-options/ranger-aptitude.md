@@ -306,10 +306,6 @@ You have spent endless days surviving desolate wasteland
 
 [Enhanced Senses I]: #enhanced-senses-i
 
-[Spellbreaker I]: #spellbreaker-i
-[Spellbreaker II]: #spellbreaker-ii
-[Spellbreaker III]: #spellbreaker-iii
-
 [Origin: Ranger Knight]: #origin-ranger-knight
 [Origin: Bounty Hunter]: #origin-bounty-hunter
 [Origin: Deathwatch]: #origin-deathwatch

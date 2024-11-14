@@ -19,7 +19,7 @@ One day, the statue guarding the gate illuminated, and its doors unexpectedly op
 
 As London's presence expanded, relations with the elves deteriorated. Initially, the elves had offered sanctuary to the refugees, but their rapid growth soon raised concerns. During this period, elven politics took a sharp turn towards nationalism and fanaticism. As the Londoners lacked the arcane abilities that the elves wielded, the latter began to view their technological advancements with suspicion. 
 
-Under the pretext of reclaiming ancestral lands, elven forces began encroaching on Albion’s territory. The elves demanded access to London's technological secrets, and when these demands were refused, they resorted to increasingly aggressive tactics, including the abduction and enslavement of London citizens.
+Under the pretext of reclaiming ancestral lands, elven forces began encroaching on Albion's territory. The elves demanded access to London's technological secrets, and when these demands were refused, they resorted to increasingly aggressive tactics, including the abduction and enslavement of London citizens.
 
 The expansion of London's urban landscape also contributed to the rising tensions. Forests that had stood for centuries were cleared to accommodate new settlements, an act initially dismissed by the elves. However, as deforestation continued, it sparked outrage among elven communities who viewed it as an assault on their sacred lands. The mounting hostilities eventually led to open warfare between the two factions.
 
@@ -27,7 +27,7 @@ The expansion of London's urban landscape also contributed to the rising tension
 
 The ensuing conflict, later known as **The Great Split**, is widely regarded as one of the bloodiest and most consequential wars in Antares' history. The war pitted the fey magic and nature-based forces of the elves against London's industrial might. It marked the first time that a non-magical force successfully challenged the dominance of powers in the region.
 
-The war was characterised by brutal, large-scale battles that devastated much of the land. In a decisive and final act, London's forces succeeded in breaching one of the elves' most sacred sites and felling **Yggdrasil**, the tree of life. This not only crippled the elves’ morale but also marked the symbolic end of their supremacy, ushering in a new era dominated by technological might.
+The war was characterised by brutal, large-scale battles that devastated much of the land. In a decisive and final act, London's forces succeeded in breaching one of the elves' most sacred sites and felling **Yggdrasil**, the tree of life. This not only crippled the elves' morale but also marked the symbolic end of their supremacy, ushering in a new era dominated by technological might.
 
 ## Society
 

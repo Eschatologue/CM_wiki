@@ -91,7 +91,7 @@ Your Arcane Armoury can hold a total number of objects equal to 1 + your Intelli
 
 You gain a Fighting Style feat of your choice (see chapter 5 for feats). Instead of choosing one of those feats, you can choose the option below.
 
-***Arcane Warrior.*** You learn two Wizard cantrips of your choice (see the Wizard class’s section for a list of Wizard spells). The chosen cantrips count as Magus spells for you, and Intelligence is your spellcasting ability for them. Whenever you gain a Magus level, you can replace one of these cantrips with another Wizard cantrip.
+***Arcane Warrior.*** You learn two Wizard cantrips of your choice (see the Wizard class's section for a list of Wizard spells). The chosen cantrips count as Magus spells for you, and Intelligence is your spellcasting ability for them. Whenever you gain a Magus level, you can replace one of these cantrips with another Wizard cantrip.
 
 ### Level 1: Spellcasting
 
@@ -111,9 +111,9 @@ The Magus Features table shows how many spell slots you have to cast your level 
 
 You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Magus spells.
 
-The number of spells on your list increases as you gain Magus levels, as shown in the Prepared Spells column of the Magus Features table. Whenever that number increases, choose additional Magus spells until the number of spells on your list matches the number in the Magus Features table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 5 Magus, your list of prepared spells can include six Magus spells of level 1 or 2 in any combination.
+The number of spells on your list increases as you gain Magus levels, as shown in the Prepared Spells column of the Magus Features table. Whenever that number increases, choose additional Magus spells until the number of spells on your list matches the number in the Magus Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Magus, your list of prepared spells can include six Magus spells of level 1 or 2 in any combination.
 
-If another Magus feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Magus spells for you.
+If another Magus feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Magus spells for you.
 
 #### Changing Your Prepared Spells
 
@@ -139,7 +139,7 @@ Whenever you finish a Long Rest, you can do one of the following:
 You can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Longswords, or
 
 ***Replace Weapon Mastery^*CM*^***  
-You can choose any of the kinds of Mastery weapons you’re using and replace the Mastery property of each with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Scimitar's Nick property with the Vex property.
+You can choose any of the kinds of Mastery weapons you're using and replace the Mastery property of each with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Scimitar's Nick property with the Vex property.
 
 --8<-- "includes/snippets/item-mastery.md"
 
@@ -176,11 +176,11 @@ If your attack misses, the spell fails and has no effect. On a hit, the spell ta
 
 You can meditate on your knowledge of the arcane to regenerate magic potential. When you finish a Short Rest, you can recover spell slots of a combined level equal to your Intelligence modifier. 
 
-Once you use this feature, you can’t do so again until you finish a Long Rest.
+Once you use this feature, you can't do so again until you finish a Long Rest.
 
 ### Level 3: Magus Subclass
 
-You gain a Magus subclass of your choice. A subclass is a specialization that grants you features at certain Magus levels. For the rest of your career, you gain each of your subclass’s features that are of your Magus level or lower.
+You gain a Magus subclass of your choice. A subclass is a specialization that grants you features at certain Magus levels. For the rest of your career, you gain each of your subclass's features that are of your Magus level or lower.
 
 ### Level 4: Ability Score Improvement
 

@@ -46,18 +46,18 @@ Complications that arise while training typically involve the teacher. Every ten
 | 6  | Your instructor requests help dealing with a personal threat. |
 | 7  | Your instructor believes in “character-building” through harsh treatment, like waking you up at dawn by dumping cold water on you. |
 | 8  | Your instructor has an endless list of personal grievances and regularly ropes you into long rants. |
-| 9  | Local guards mistake your training for a “disturbance” and drop by often to make sure "no one’s in trouble." |
+| 9  | Local guards mistake your training for a “disturbance” and drop by often to make sure "no one's in trouble." |
 | 10 | Your instructor insists you train in random public places, leading to awkward encounters with curious townsfolk. |
-| 11 | Your instructor gets injured halfway through your training, but insists it’s “just a scratch.”* |
+| 11 | Your instructor gets injured halfway through your training, but insists it's “just a scratch.”* |
 | 12 | Your instructor decides that learning through riddles and puzzles is the best way forward, turning your training into a cryptic nightmare. |
-| 13 | Your instructor’s pet (a troublesome creature of the DM's choice) is constantly underfoot, tripping you up and stealing your supplies. |
+| 13 | Your instructor's pet (a troublesome creature of the DM's choice) is constantly underfoot, tripping you up and stealing your supplies. |
 | 14 | Your instructor insists on a “holistic approach” that involves singing and dancing, much to your chagrin. |
-| 15 | The training location is suddenly overrun by pests. You’ll need to handle this infestation before proceeding.* |
+| 15 | The training location is suddenly overrun by pests. You'll need to handle this infestation before proceeding.* |
 | 16 | Your instructor has a dramatic falling-out with a local guild, complicating your access to necessary resources. |
-| 17 | Your instructor’s old rival shows up, interrupting sessions to mock their techniques and challenge them to petty duels.* |
-| 18 | The town’s bard catches wind of your training and writes a satirical song about it that quickly becomes popular. |
-| 19 | A local noble decides to observe your training... and won’t stop making “helpful” suggestions.* |
-| 20 | Your instructor reveals they are, in fact, your arch-nemesis you didn’t know you had. Roll initiative.* |
+| 17 | Your instructor's old rival shows up, interrupting sessions to mock their techniques and challenge them to petty duels.* |
+| 18 | The town's bard catches wind of your training and writes a satirical song about it that quickly becomes popular. |
+| 19 | A local noble decides to observe your training... and won't stop making “helpful” suggestions.* |
+| 20 | Your instructor reveals they are, in fact, your arch-nemesis you didn't know you had. Roll initiative.* |
 
 *Might involve a [rival]
 
