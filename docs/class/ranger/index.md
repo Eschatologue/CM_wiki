@@ -51,9 +51,9 @@ As a Ranger, you gain the following class features when you reach the specified 
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | +2 | Favoured Enemy, Ranger’s Aptitude, Spellcasting, Weapon Mastery | 2 | 1 | 2 | 2 | — | — | — | — |
 | 2 | +2 | Deft Explorer, Fighting Style | 2 | 2 | 3 | 2 | — | — | — | — |
-| 3 | +2 | Ranger Subclass | 2 | 2 | 4 | 3 | — | — | — | — |
-| 4 | +2 | Ability Score Improvement | 2 | 2 | 5 | 3 | — | — | — | — |
-| 5 | +3 | Extra Attack | 3 | 3 | 6 | 4 | 2 | — | — | — |
+| 3 | +2 | Ranger Subclass | 2 | 3 | 4 | 3 | — | — | — | — |
+| 4 | +2 | Ability Score Improvement | 2 | 3 | 5 | 3 | — | — | — | — |
+| 5 | +3 | Extra Attack | 3 | 3 | 6 | 4 | 3 | — | — | — |
 | 6 | +3 | Roving | 3 | 3 | 6 | 4 | 2 | — | — | — |
 | 7 | +3 | Subclass feature | 3 | 3 | 7 | 4 | 3 | — | — | — |
 | 8 | +3 | Ability Score Improvement | 3 | 3 | 7 | 4 | 3 | — | — | — |
