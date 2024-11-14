@@ -193,10 +193,9 @@ When you roll Initiative, you can take a :rsc-r: **Reaction** to cast *[:spell-l
 
 ### Enhanced Senses
 
-**Prerequisite:** Level 5+ Ranger
+**Prerequisite:** Level 7+ Ranger
 
 You can't have :d20-disadv: **Disadvantage** on attack rolls against the target of your *[:spell-level-1: Hunter's Mark]*.
-
 
 ---
 
@@ -274,13 +273,7 @@ You gain the following benefits:
 
 **Prerequisite:** Level 11+ Ranger, [Ambush's Mark](#ambush-tactic)
 
-Once per turn, when you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can cause it to take an additional effect until the start of your next turn. These effects are as follow:
-
-:   ***Blind and Silenced.*** The target must succeed a :d20-save: Constitution saving throw, or it has the ^^Blinded^^ and ^^Silenced^^ condition.
-
-:   ***Fright.*** The target must succeed a :d20-save: Wisdom saving throw, or it has the ^^Frightened^^ condition.
-
-:   ***Coerce.*** The target must succeed a :d20-save: Charisma saving throw, or it has the ^^Charmed^^ condition.
+Once per turn, when you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can force the target must succeed a :d20-save: Constitution saving throw, or it has the ^^Blinded^^ and ^^Silenced^^ condition.
 
 ---
 
@@ -316,7 +309,7 @@ When you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon 
 
 **Prerequisite:** Level 15+ Ranger, [Martial Excellence](#martial-excellence)
 
-Your combat techniques are improved
+Your combat techniques are improved.
 
 ***Superiority Die.*** You gain two additional Superiority Die and all your Superiority Die improves to :die-d10: d10.
 
@@ -332,18 +325,34 @@ You can't have :d20-disadv: **Disadvantage** on attack rolls against any target 
 
 ---
 
-## Level 20+ Aptitude
+## Level 19+ Aptitude
 
-You must be at least Ranger level 20 to gain these Aptitudes.
+You must be at least Ranger level 19 to gain these Aptitudes.
+
+### Aggression
+
+**Prerequisite:** Level 19+ Ranger, [Adrenaline](#adrenaline)
+
+When you cast *[:spell-level-3: Haste]* from the Adrenaline Aptidude, it does not require :spell-concentration: Concentration. The spell's last for the Duration stated in the spell.
+
+---
+
+### Binding Blade
+
+**Prerequisite:** Level 19+ Ranger
+
+You can cast *[:spell-level-1: Ensnaring Strike]* without expending a spell slot.
+
+---
 
 ### Remove from Existence
 
-**Prerequisite:** Level 20+ Ranger
+**Prerequisite:** Level 19+ Ranger
 
 Whenever you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can immediately end the spell and cause that attack to deal maximum damage instead of rolling. If the attack reduces the creature to 50 Hit Points or fewer, it must succeed on a Constitution saving throw against your Spell save DC or it instantly dies.
 
 ---
-
+[:spell-level-1: Ensnaring Strike]: ../../spells/description/core/level-1.md#ensnaring-strike
 [:spell-level-1: Hunter's Mark]: ../../spells/description/core/level-1.md#hunters-mark
 [:spell-level-3: Haste]: ../../spells/description/core/level-3.md#haste
 [:spell-level-4: Freedom of Movement]: ../../spells/description/core/level-4.md#freedom-of-movement
