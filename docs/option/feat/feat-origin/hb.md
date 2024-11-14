@@ -40,6 +40,20 @@ Choose one of the following actions: *Dash*, *Disengage*, *Hide* or *Utilise*. Y
 
 ---
 
+### Dominion's Armaments
+
+*Origin Feat (Prerequisite: Dexterity or Intelligence 13+, English Language Proficiency, Crown & Misery Setting)*  
+
+London's reach extends far, and with it, their influence upon you. You gain the benefits below:
+
+**Firearm Proficiency**  
+You gain proficiency with Short-Arms. If you already has proficiency with Short-Arms, you gain proficiency with all Firearms.
+
+**Efficient Augmentation**  
+You gain Proficiency with Gunsmith's Tool. If you are already proficient with it, your Firearm Augmentation Limit is increased by half of your Proficiency Bonus (rounded down).
+
+---
+
 ### Eldritch Initiate
 
 *Origin Feat (Prerequisites: Spellcasting or Pact Magic feature)*
@@ -148,31 +162,13 @@ You gain 2 :class-phb24-sorcerer: **Sorcery Point(s)**, which you can convert to
 
 *Origin Feat (Prerequisites: Wisdom 11+)*
 
-You have been trained to survive, track, and explore in the wild, much like a Ranger would.
+Though you might not be a Ranger, your past experiences with them teaches you important lessons.
 
-**Knacks of Survival**  
+**Ranger's Knacks**  
 You learn one Ranger's Aptitude option of your choice from the Ranger class. If the aptitude has a prerequisite of any kind, you can choose that aptitude only if you're a Ranger who meets the prerequisite. Whenever you gain a level, you can replace the invocation with another one from the Ranger class.
 
 **Repeatable**  
 Choose a different aptitude each time.
-
----
-
-### Dominion's Armaments
-
-*Origin Feat (Prerequisite: Dexterity or Intelligence 13+, English Language Proficiency)*  
-
-London's reach extends far, and with it, their influence upon you. You gain the benefits below:
-
-**Firearm Proficiency**  
-You gain proficiency with Short-Arms. If you already has proficiency with Short-Arms, you gain proficiency with all Firearms.
-
-**Efficient Augmentation**  
-You gain Proficiency with Gunsmith's Tool. If you are already proficient with it, your Firearm Augmentation Limit is increased by half of your Proficiency Bonus (rounded down).
-
-!!! danger "Campaign Restriction"
-
-    This feat is tailored to Crown & Misery campaign. Ask the respective DM if you want to use in other campaign.
 
 ---
 
