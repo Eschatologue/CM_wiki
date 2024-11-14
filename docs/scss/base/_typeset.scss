@@ -89,7 +89,7 @@ $h4Size: $defaultFontSize * 1.1;
         letter-spacing: $h4Size * 0.03;
         font-weight: 500;
         margin: convert.px2rem(8px) 0 convert.px2rem(-2px) 0;
-        text-transform: small-caps !important;
+        font-variant: small-caps !important;
     }
 
     h5 {
