@@ -514,7 +514,7 @@
   letter-spacing: 0.0231rem;
   font-weight: 500;
   margin: 0.4rem 0 -0.1rem 0;
-  text-transform: small-caps !important;
+  font-variant: small-caps !important;
 }
 .md-typeset h5 {
   font-size: 0.7rem;
