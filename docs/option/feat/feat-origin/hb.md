@@ -144,6 +144,20 @@ You gain 2 :class-phb24-sorcerer: **Sorcery Point(s)**, which you can convert to
 
 ---
 
+### Survivalist Initiate
+
+*Origin Feat (Prerequisites: Wisdom 11+)*
+
+You have been trained to survive, track, and explore in the wild, much like a Ranger would.
+
+**Knacks of Survival**  
+You learn one Ranger's Aptitude option of your choice from the Ranger class. If the aptitude has a prerequisite of any kind, you can choose that aptitude only if you're a Ranger who meets the prerequisite. Whenever you gain a level, you can replace the invocation with another one from the Ranger class.
+
+**Repeatable**  
+Choose a different aptitude each time.
+
+---
+
 ### Dominion's Armaments
 
 *Origin Feat (Prerequisite: Dexterity or Intelligence 13+, English Language Proficiency)*  
