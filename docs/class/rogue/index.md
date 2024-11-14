@@ -119,7 +119,7 @@ As a Bonus Action, you give yourself Advantage on your next attack roll on the c
 
 ### Level 4: Ability Score Improvement
 
-You gain the Ability Score Improvement feat (see chapter 5) or another feat of your choice for which you qualify. You gain this feature again at Rogue levels 8, 10, 12, and 16.
+You gain the [Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another feat of your choice for which you qualify. You gain this feature again at Rogue levels 8, 10, 12, and 16.
 
 ### Level 5: Cunning Strike
 
@@ -171,7 +171,7 @@ You're so evasive that attackers rarely gain the upper hand against you. No atta
 
 ### Level 19: Epic Boon
 
-You gain an Epic Boon feat (see chapter 5) or another feat of your choice for which you qualify. Boon of the Night Spirit is recommended.
+You gain an [Epic Boon feat](../../option/feat/feat-boon.md) or another feat of your choice for which you qualify. Boon of the Night Spirit is recommended.
 
 ### Level 20: Stroke of Luck
 

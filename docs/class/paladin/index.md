@@ -128,7 +128,7 @@ Whenever you finish a Long Rest, you can do **one** of the following:
 
 You gain a Fighting Style feat of your choice (see chapter 5 for feats). Instead of choosing one of those feats, you can choose the option below.
 
-***Blessed Warrior.*** You learn two Cleric cantrips of your choice (see the Cleric class's section for a list of Cleric spells). Guidance and Sacred Flame are recommended. The chosen cantrips count as Paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip.
+***Blessed Warrior.*** You learn two Cleric cantrips of your choice (see the Cleric class's section for a list of Cleric spells). *Guidance* and *Sacred Flame* are recommended. The chosen cantrips count as Paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip.
 
 ### Level 2: Paladin's Smite
 
@@ -168,7 +168,7 @@ You gain a Paladin subclass of your choice. A subclass is a specialization that 
 
 ### Level 4: Ability Score Improvement
 
-You gain the Ability Score Improvement feat (see chapter 5) or another feat of your choice for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16.
+You gain the [Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another feat of your choice for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16.
 
 ### Level 5: Extra Attack
 
@@ -210,6 +210,6 @@ Your Aura of Protection is now a 30-foot Emanation.
 
 ### Level 19: Epic Boon
 
-You gain an Epic Boon feat (see chapter 5) or another feat of your choice for which you qualify. Boon of Truesight is recommended.
+You gain an [Epic Boon feat](../../option/feat/feat-boon.md) or another feat of your choice for which you qualify. Boon of Truesight is recommended.
 
 --8<-- "includes/snippets/skills.md"

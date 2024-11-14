@@ -5,7 +5,7 @@ title: Oath of Vengeance
 
 # Oath of Vengeance
 
-*Punish Evildoers at Any Cost*
+> *Punish Evildoers at Any Cost*
 
 The Oath of Vengeance is a solemn commitment to punish those who have committed grievously evil acts. When evil armies slaughter helpless villagers, when a tyrant defies the will of the gods, when a thieves' guild grows too violent and powerful, when a dragon rampages through the countryside—at times like these, paladins arise and swear an Oath of Vengeance to set right what has gone wrong.
 

@@ -144,7 +144,7 @@ A subclass is a specialization that grants you special abilities at certain Cler
 
 ### Level 4: Ability Score Improvement
 
-You gain the Ability Score Improvement feat (see chapter 5) or another feat of your choice for which you qualify. You gain this feature again at Cleric levels 8, 12, and 16.
+You gain the [Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another feat of your choice for which you qualify. You gain this feature again at Cleric levels 8, 12, and 16.
 
 ### Level 5: Smite Undead
 
@@ -183,7 +183,7 @@ The option you chose for Blessed Strikes grows more powerful.
 
 ### Level 19: Epic Boon
 
-You gain an Epic Boon feat (see chapter 5) or another feat of your choice for which you qualify. Boon of Fate is recommended.
+You gain an [Epic Boon feat](../../option/feat/feat-boon.md) or another feat of your choice for which you qualify. Boon of Fate is recommended.
 
 ### Level 20: Greater Divine Intervention
 

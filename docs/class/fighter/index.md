@@ -109,7 +109,7 @@ You gain a Fighter subclass of your choice. A subclass is a specialization that 
 
 ### Level 4: Ability Score Improvement
 
-You gain the Ability Score Improvement feat (see chapter 5) or another feat of your choice for which you qualify. You gain this feature again at Fighter levels 6, 8, 12, 14, and 16.
+You gain the [Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another feat of your choice for which you qualify. You gain this feature again at Fighter levels 6, 8, 12, 14, and 16.
 
 ### Level 5: Extra Attack
 
@@ -139,7 +139,7 @@ You study your opponents and learn from each attack you make. If you make an att
 
 ### Level 19: Epic Boon
 
-You gain an Epic Boon feat (see chapter 5) or another feat of your choice for which you qualify. Boon of Combat Prowess is recommended.
+You gain an [Epic Boon feat](../../option/feat/feat-boon.md) or another feat of your choice for which you qualify. Boon of Combat Prowess is recommended.
 
 ### Level 20: Three Extra Attacks
 

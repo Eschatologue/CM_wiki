@@ -135,7 +135,7 @@ In addition, while your Rage is active, you can channel primal power when you at
 
 ### Level 4: Ability Score Improvement
 
-You gain the Ability Score Improvement feat (see chapter 5) or another feat of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another feat of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 
 ### Level 5: Extra Attack
 
@@ -193,7 +193,7 @@ If your total for a :d20-check: Strength check or :d20-save: Strength saving thr
 
 ### Level 19: Epic Boon
 
-You gain an Epic Boon feat (see chapter 5) or another feat of your choice for which you qualify. Boon of Irresistible Offense is recommended.
+You gain an [Epic Boon feat](../../option/feat/feat-boon.md) or another feat of your choice for which you qualify. Boon of Irresistible Offense is recommended.
 
 ### Level 20: Primal Champion
 

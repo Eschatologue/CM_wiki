@@ -172,7 +172,7 @@ You gain a Druid subclass of your choice. A subclass is a specialization that gr
 
 ### Level 4: Ability Score Improvement
 
-You gain the Ability Score Improvement feat (see chapter 5) or another feat of your choice for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.
+You gain the [Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another feat of your choice for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.
 
 ### Level 5: Wild Resurgence
 
@@ -202,7 +202,7 @@ While using Wild Shape, you can cast spells in Beast form, except for any spell 
 
 ### Level 19: Epic Boon
 
-You gain an Epic Boon feat (see chapter 5) or another feat of your choice for which you qualify. Boon of Dimensional Travel is recommended.
+You gain an [Epic Boon feat](../../option/feat/feat-boon.md) or another feat of your choice for which you qualify. Boon of Dimensional Travel is recommended.
 
 ### Level 20: Archdruid
 

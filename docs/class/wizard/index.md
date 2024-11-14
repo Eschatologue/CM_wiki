@@ -138,7 +138,7 @@ You gain a Wizard subclass of your choice. A subclass is a specialization that g
 
 ### Level 4: Ability Score Improvement
 
-You gain the Ability Score Improvement feat (see chapter 5) or another feat of your choice for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
+You gain the [Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another feat of your choice for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
 
 ### Level 5: Memorize Spell
 
@@ -152,7 +152,7 @@ Whenever you finish a Long Rest, you can study your spellbook and replace one of
 
 ### Level 19: Epic Boon
 
-You gain an Epic Boon feat (see chapter 5) or another feat of your choice for which you qualify. Boon of Spell Recall is recommended.
+You gain an [Epic Boon feat](../../option/feat/feat-boon.md) or another feat of your choice for which you qualify. Boon of Spell Recall is recommended.
 
 ### Level 20: Signature Spells
 

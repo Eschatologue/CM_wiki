@@ -143,7 +143,7 @@ You gain a Bard subclass of your choice. A subclass is a specialization that gra
 
 ### Level 4: Ability Score Improvement
 
-You gain the Ability Score Improvement feat (see chapter 5) or another feat of your choice for which you qualify. You gain this feature again at Bard levels 8, 12, and 16.
+You gain the [Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another feat of your choice for which you qualify. You gain this feature again at Bard levels 8, 12, and 16.
 
 ### Level 5: Font of Inspiration
 
@@ -165,7 +165,7 @@ When you roll Initiative, you regain expended uses of Bardic Inspiration until y
 
 ### Level 19: Epic Boon
 
-You gain an Epic Boon feat (see chapter 5) or another feat of your choice for which you qualify. Boon of Spell Recall is recommended.
+You gain an [Epic Boon feat](../../option/feat/feat-boon.md) or another feat of your choice for which you qualify. Boon of Spell Recall is recommended.
 
 ### Level 20: Words of Creation
 

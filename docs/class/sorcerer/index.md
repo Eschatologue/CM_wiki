@@ -150,7 +150,7 @@ A subclass is a specialization that grants you special features at certain Sorce
 
 ### Level 4: Ability Score Improvement
 
-You gain the Ability Score Improvement feat (see chapter 5) or another feat of your choice for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.
+You gain the [Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another feat of your choice for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.
 
 ### Level 5: Sorcerous Restoration
 
@@ -164,7 +164,7 @@ In addition, while your Innate Sorcery feature is active, you can use up to two 
 
 ### Level 19: Epic Boon
 
-You gain an Epic Boon feat (see chapter 5) or another feat of your choice for which you qualify. Boon of Dimensional Travel is recommended.
+You gain an [Epic Boon feat](../../option/feat/feat-boon.md) or another feat of your choice for which you qualify. Boon of Dimensional Travel is recommended.
 
 ### Level 20: Arcane Apotheosis
 
