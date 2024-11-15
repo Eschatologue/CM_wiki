@@ -408,7 +408,7 @@
 .md-typeset .admonition,
 .md-typeset details {
   border-width: 0;
-  border-left-width: 0.3rem;
+  border-left-width: 7px;
 }
 
 /* Add Shadow */
