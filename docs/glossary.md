@@ -788,7 +788,7 @@ A nonplayer character (NPC) is a monster that has a personal name and a distinct
 
 <!-- --8<-- [start:object] -->
 
-An object is a nonliving, distinct thing. Composite things, like buildings, comprise more than one object. An Object is immue to all condition that would affect a creature.
+An object is a nonliving, distinct thing. Composite things, like buildings, comprise more than one object. An Object has Immunity to all conditions or effect that would affect a creature.
 
 <!-- --8<-- [end:object] -->
 

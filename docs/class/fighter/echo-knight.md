@@ -17,7 +17,7 @@ Your echo is considered an Object, but uses your game statistics, except it has 
 
 On your turn, you can mentally command the echo to move in any direction. If your echo is ever more than 30 feet from you at the end of your turn, it is destroyed. As a :rsc-b: **Bonus Action**, magically swap places with your echo at a cost of 15 feet of your movement, regardless of the distance between the two of you.
 
-When you take the :rsc-a: **Attack** action, any attack you make can originate from your space or the echo's space. You make this choice for each attack. When a creature that you can see within 5 feet of your echo moves at least 5 feet away from it, you can use your :rsc-r: **Reaction** to make an :rsc-r: Opportunity Attack against that creature as if you were in the echo's space.
+When you take the :rsc-a: **Attack** action, any attack you make can originate from your space or the echo's space. You make this choice for each attack. When a creature that you can see within the reach of your echo moves away from it, you can use your :rsc-r: **Reaction** to make an :rsc-r: Opportunity Attack against that creature as if you were in the echo's space.
 
 !!! glossary "What is an Object?"
 
