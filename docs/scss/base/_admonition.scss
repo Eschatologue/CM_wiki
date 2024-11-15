@@ -21,9 +21,11 @@
 
 //-------------------------------------------------------------------------------------------//
 
-// Homebrew
 .md-typeset {
     $colorAdmonition_homebrew: convert.hex3hsl(#ffb624);
+    $colorAdmonition_glossary: convert.hex3hsl(#4DB6AC);
+
+    // Homebrew
     .admonition.homebrew,
     details.homebrew {
         border-color: $colorAdmonition_homebrew;
@@ -42,4 +44,27 @@
             mask-image: var(--md-icon--homebrew);
         }
     }
+
+    // Glossary
+    .admonition.glossary,
+    details.glossary {
+        border-color: $colorAdmonition_glossary;
+    }
+
+    .glossary {
+        > .admonition-title,
+        > summary {
+            background-color: color.adjust($colorAdmonition_glossary, $alpha: -0.9);
+        }
+
+        > .admonition-title::before,
+        > summary::before {
+            background-color: $colorAdmonition_glossary;
+            -webkit-mask-image: var(--md-icon--glossary);
+            mask-image: var(--md-icon--glossary);
+        }
+    }
+
 }
+
+

@@ -13,15 +13,16 @@ The Echo Knight is a feared frontline fighter who has mastered a rare derivative
 
 You can use a :rsc-b: **Bonus Action** to magically manifest an echo of yourself in an unoccupied space you can see within 15 feet of you. It is a magical, translucent, gray image of you that lasts until it is destroyed, until you dismiss it (no action required), until you manifest another echo, or until you have the Incapacitated condition.
 
-Your echo is considered an object, but uses your game statistics, except for the following:
-
-**HP:** 1  
-**AC:** 12 plus your Constitution modifier  
-**Immunity:** All Conditions
+Your echo is considered an Object, but uses your game statistics, except it has **HP** of 1 and an **AC** of 12 plus your :ability-cons: Constitution modifier.
 
 On your turn, you can mentally command the echo to move in any direction. If your echo is ever more than 30 feet from you at the end of your turn, it is destroyed. As a :rsc-b: **Bonus Action**, magically swap places with your echo at a cost of 15 feet of your movement, regardless of the distance between the two of you.
 
 When you take the :rsc-a: **Attack** action, any attack you make can originate from your space or the echo's space. You make this choice for each attack. When a creature that you can see within 5 feet of your echo moves at least 5 feet away from it, you can use your :rsc-r: **Reaction** to make an :rsc-r: Opportunity Attack against that creature as if you were in the echo's space.
+
+!!! glossary "What is an Object?"
+
+    --8<-- "docs/glossary.md:object"
+
 
 ### Level 3: Unleash Incarnation
 
@@ -33,7 +34,7 @@ You can temporarily transfer your consciousness to your echo. As an :rsc-a: **Ac
 
 ### Level 10: Shadow Martyr
 
-You can make your echo throw itself in front of an attack directed at another creature that you can see within 30 feet of you. Before the attack roll is made, you can use your :rsc-r: **Reaction** to teleport the echo to an unoccupied space within 5 feet of the targeted creature. The attack roll that triggered the :rsc-r: **Reaction** is instead made against your echo. Once you use this feature, you can't use it again until you finish a Short or Long Rest.
+You can make your echo throw itself in front of an attack directed at another creature that you can see within 30 feet of you. Before the attack roll is made, you can use your :rsc-r: **Reaction** to teleport the echo to an unoccupied space within 5 feet of the targeted creature. The attack roll that triggered the *Reaction* is instead made against your echo. Once you use this feature, you can't use it again until you finish a Short or Long Rest.
 
 ### Level 15: Reclaim Potential
 
