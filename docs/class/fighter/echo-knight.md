@@ -13,7 +13,7 @@ The Echo Knight is a feared frontline fighter who has mastered a rare derivative
 
 You can use a :rsc-b: **Bonus Action** to magically manifest an echo of yourself in an unoccupied space you can see within 15 feet of you. It is a magical, translucent, gray image of you that lasts until it is destroyed, until you dismiss it (no action required), until you manifest another echo, or until you have the Incapacitated condition.
 
-Your echo is considered an Object, but uses your game statistics, except it has **HP** of 1 and an **AC** of 12 plus your :ability-cons: Constitution modifier.
+Your echo is considered an **Object**, but uses your game statistics, except it has :material-heart: **HP** of 1 and an :material-shield: **AC** of 12 plus your :ability-cons: Constitution modifier.
 
 On your turn, you can mentally command the echo to move in any direction. If your echo is ever more than 30 feet from you at the end of your turn, it is destroyed. As a :rsc-b: **Bonus Action**, magically swap places with your echo at a cost of 15 feet of your movement, regardless of the distance between the two of you.
 
