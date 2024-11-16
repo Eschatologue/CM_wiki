@@ -27,7 +27,7 @@ You specialise in hunting those not native to Antares.
 
 ***Proficiency.***  You gain proficiency in Arcana and Religion.
 
-***Protection.*** You can cast *Protection from Evil and Good* without expending a spell slot once per Long Rest.
+***Protection.*** You can cast [:spell-level-1: Protection from Evil and Good](../../spells/description/core/level-1.md#protection-from-evil-and-good) without expending a spell slot once per Long Rest.
 
 ---
 
@@ -45,7 +45,7 @@ You have a background in battling spellcasters.
 
 ***Proficiency.*** You gain proficiency in Arcana and Insight.
 
-***Cantrip.*** You know the *True Strike* cantrip.
+***Cantrip.*** You know the [:spell-level-0: True Strike](../../spells/description/core/cantrip.md#true-strike) cantrip.
 
 ---
 
@@ -65,7 +65,7 @@ You have sworn to hunt the enemies of a holy or druidic order.
 
 ***Proficiency.*** You gain proficiency in Investigation and Religion.
 
-***Cantrip.*** You know the *Sacred Flame* cantrip.
+***Cantrip.*** You know the [:spell-level-0: Sacred Flame](../../spells/description/core/cantrip.md#sacred-flame) cantrip.
 
 ---
 
@@ -81,7 +81,7 @@ You have cultivated a strong bond with animals and nature.
 
 ***Improved Ability Checks.*** Whenever you would make an Intelligence (Nature), you can choose to make a Wisdom (Nature) check instead.
 
-***Ritual Spells.*** You can cast *[:spell-level-1: Find Familiar](../../spells/description/core/level-1.md#find-familiar)*, but only as a ritual.
+***Ritual Spells.*** You can cast [:spell-level-1: Find Familiar](../../spells/description/core/level-1.md#find-familiar), but only as a ritual.
 
 ---
 
@@ -157,7 +157,7 @@ Though you wander the wilds, you still understood the intricacy of politics.
 
 You learn how to utilise divine magic.
 
-***Mark of Judgement.*** When you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can change the spell's bonus damage type to :dmg-radiant: Radiant or :dmg-necrotic: Necrotic damage (choose each time) instead of :dmg-force: Force.
+***Mark of Judgement.*** When you hit the target of your [:spell-level-1: Hunter's Mark] with a weapon attack or Unarmed Strike, you can change the spell's bonus damage type to :dmg-radiant: Radiant or :dmg-necrotic: Necrotic damage (choose each time) instead of :dmg-force: Force.
 
 ---
 
@@ -175,7 +175,7 @@ You are trained to use complex combat techniques.
 
 **Prerequisite:** Level 3+ Ranger
 
-When you hit a creature with a weapon attack or Unarmed Strike you can cast *[:spell-level-1: Hunter's Mark]* at the target as part of the attack, applying its damage bonus and other benefits (if any) to the damage roll.
+When you hit a creature with a weapon attack or Unarmed Strike you can cast [:spell-level-1: Hunter's Mark] at the target as part of the attack, applying its damage bonus and other benefits (if any) to the damage roll.
 
 ---
 
@@ -187,7 +187,7 @@ You must be at least Ranger level 7 to gain these Aptitudes.
 
 **Prerequisite:** Level 7+ Ranger, [Slayer](#slayer)
 
-When you roll Initiative, you can take a :rsc-r: **Reaction** to cast *[:spell-level-1: Hunter's Mark]*.
+When you roll Initiative, you can take a :rsc-r: **Reaction** to cast [:spell-level-1: Hunter's Mark].
 
 ---
 
@@ -195,7 +195,7 @@ When you roll Initiative, you can take a :rsc-r: **Reaction** to cast *[:spell-l
 
 **Prerequisite:** Level 7+ Ranger
 
-You can't have :d20-disadv: **Disadvantage** on attack rolls against the target of your *[:spell-level-1: Hunter's Mark]*.
+You can't have :d20-disadv: **Disadvantage** on attack rolls against the target of your [:spell-level-1: Hunter's Mark].
 
 ---
 
@@ -253,7 +253,7 @@ You must be at least Ranger level 11 to gain these Aptitudes.
 
 **Prerequisite:** Level 11+ Ranger
 
-You can expend one use of your *Favoured Foe* to cast *[:spell-level-3: Haste]* without expending a spell slot.
+You can expend one use of your *Favoured Foe* to cast [:spell-level-3: Haste] without expending a spell slot.
 
 ---
 
@@ -263,7 +263,7 @@ You can expend one use of your *Favoured Foe* to cast *[:spell-level-3: Haste]* 
 
 You gain the following benefits:
 
-***Improved Critical.*** When you attack the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, the number you need to roll to for a Critical Hit is reduced by 1. This effect can stack.
+***Improved Critical.*** When you attack the target of your [:spell-level-1: Hunter's Mark] with a weapon attack or Unarmed Strike, the number you need to roll to for a Critical Hit is reduced by 1. This effect can stack.
 
 ***Weakness Exploit.*** Each time you score a Critical Hit against a creature, the number you need roll for another Critical Hit against that creature is reduced by 1. This effect can stack for 2 instances.
 
@@ -273,7 +273,7 @@ You gain the following benefits:
 
 **Prerequisite:** Level 11+ Ranger, [Ambush's Mark](#ambush-tactic)
 
-Once per turn, when you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can force the target must succeed a :d20-save: Constitution saving throw, or it has the ^^Blinded^^ and ^^Silenced^^ condition.
+Once per turn, when you hit the target of your [:spell-level-1: Hunter's Mark] with a weapon attack or Unarmed Strike, you can force the target must succeed a :d20-save: Constitution saving throw, or it has the ^^Blinded^^ and ^^Silenced^^ condition.
 
 ---
 
@@ -289,7 +289,7 @@ When you make a Death Saving Throw, you add your Wisdom modifier to the roll (mi
 
 **Prerequisite:** Level 11+ Ranger, [Unhindered Steps](#unhindered-steps)
 
-You always under the effect of *[:spell-level-4: Freedom of Movement]* spell so long you don't have the ^^Unconcious^^ condition.
+You always under the effect of [:spell-level-4: Freedom of Movement] spell so long you don't have the ^^Unconcious^^ condition.
 
 ---
 
@@ -301,7 +301,7 @@ You must be at least Ranger level 15 to gain these Aptitudes.
 
 **Prerequisite:** Level 15+ Ranger, [Sharpened Focus](#sharpened-focus)
 
-When you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can choose to end the spell and make the attack score a Critical Hit.
+When you hit the target of your [:spell-level-1: Hunter's Mark] with a weapon attack or Unarmed Strike, you can choose to end the spell and make the attack score a Critical Hit.
 
 ---
 
@@ -333,7 +333,7 @@ You must be at least Ranger level 19 to gain these Aptitudes.
 
 **Prerequisite:** Level 19+ Ranger, [Adrenaline](#adrenaline)
 
-When you cast *[:spell-level-3: Haste]* from the Adrenaline Aptidude, it does not require :spell-concentration: Concentration. The spell's last for the Duration stated in the spell.
+When you cast [:spell-level-3: Haste] from the Adrenaline Aptidude, it does not require :spell-concentration: Concentration. The spell's last for the Duration stated in the spell.
 
 ---
 
@@ -341,7 +341,7 @@ When you cast *[:spell-level-3: Haste]* from the Adrenaline Aptidude, it does no
 
 **Prerequisite:** Level 19+ Ranger
 
-You can cast *[:spell-level-1: Ensnaring Strike]* without expending a spell slot.
+You can cast [:spell-level-1: Ensnaring Strike] without expending a spell slot.
 
 ---
 
@@ -349,7 +349,7 @@ You can cast *[:spell-level-1: Ensnaring Strike]* without expending a spell slot
 
 **Prerequisite:** Level 19+ Ranger
 
-Whenever you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can immediately end the spell and cause that attack to deal maximum damage instead of rolling. If the attack reduces the creature to 50 Hit Points or fewer, it must succeed on a Constitution saving throw against your Spell save DC or it instantly dies.
+Whenever you hit the target of your [:spell-level-1: Hunter's Mark] with a weapon attack or Unarmed Strike, you can immediately end the spell and cause that attack to deal maximum damage instead of rolling. If the attack reduces the creature to 50 Hit Points or fewer, it must succeed on a Constitution saving throw against your Spell save DC or it instantly dies.
 
 ---
 
