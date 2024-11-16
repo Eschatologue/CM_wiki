@@ -85,7 +85,7 @@ You are an expert at navigating the labyrinthine Citadel Cities as well as the w
 
 ***Proficiency.*** You gain Proficiency in Acrobatics and Sleight of Hand.
 
-***Thieve's Cant.*** You learn the Thieve's Cant language.
+***Thieves' Cant.*** You learn the Thieves' Cant language.
 
 ---
 
@@ -107,7 +107,7 @@ You must be at least Ranger level 3 to gain these Aptitudes.
 
 ### Cunning Technique
 
-**Prerequisite:** Level 3+ Ranger; [Bounty Hunter], [Deathwatch], or [Generalist]
+***Prerequisite:** Level 3+ Ranger; [Bounty Hunter], [Deathwatch], or [Generalist]*
 
 You learn some rougish techniques.
 
@@ -119,7 +119,7 @@ You learn some rougish techniques.
 
 ### Hedge Knight
 
-**Prerequisite:** Level 3+ Ranger; [Ranger Knight] or [Sanctified Hunter]
+***Prerequisite:** Level 3+ Ranger; [Ranger Knight] or [Sanctified Hunter]*
 
 Though you wander the wilds, you still understood the intricacy of politics.
 
@@ -129,7 +129,7 @@ Though you wander the wilds, you still understood the intricacy of politics.
 
 ### Inquisitor
 
-**Prerequisite:** Level 3+ Ranger; [Deathwatch], [Bounty Hunter], or [Mage Breaker]
+***Prerequisite:** Level 3+ Ranger; [Deathwatch], [Bounty Hunter], or [Mage Breaker]*
 
 You learn how to utilise divine magic.
 
@@ -139,7 +139,7 @@ You learn how to utilise divine magic.
 
 ### Martial Superiority
 
-**Prerequisite:** Level 3+ Ranger; [Bounty Hunter], [Generalist], or [Mage Breaker]
+***Prerequisite:** Level 3+ Ranger; [Bounty Hunter], [Generalist], or [Mage Breaker]*
 
 You are trained to use complex combat techniques. 
 
@@ -149,7 +149,7 @@ You are trained to use complex combat techniques.
 
 ### Self-Regeneration
 
-**Prerequisite:** Level 3+ Ranger, Any [Level 1+ Aptitude]
+***Prerequisite:** Level 3+ Ranger, Any [Level 1+ Aptitude]*
 
 During a Short Rest, you can recover spell slots of a combined level equal to your Wisdom modifier. Once you do, you must finish a Long Rest before you can use this feature again.
 
@@ -157,7 +157,7 @@ During a Short Rest, you can recover spell slots of a combined level equal to yo
 
 ### Slayer
 
-**Prerequisite:** Level 3+ Ranger, Any [Level 1+ Aptitude]
+***Prerequisite:** Level 3+ Ranger, Any [Level 1+ Aptitude]*
 
 When you hit a creature with a weapon attack or Unarmed Strike you can cast [:spell-level-1: Hunter's Mark] at the target as part of the attack, applying its damage bonus and other benefits (if any) to the damage roll.
 
@@ -165,7 +165,7 @@ When you hit a creature with a weapon attack or Unarmed Strike you can cast [:sp
 
 ### Strider
 
-**Prerequisite:** Level 3+ Ranger, Any [Level 1+ Aptitude]
+***Prerequisite:** Level 3+ Ranger, Any [Level 1+ Aptitude]*
 
 You ignore the effects of Difficult Terrain caused by natural environments or terrain.
 
@@ -177,7 +177,7 @@ You must be at least Ranger level 7 to gain these Aptitudes.
 
 ### Enhanced Senses
 
-**Prerequisite:** Level 7+ Ranger
+***Prerequisite:** Level 7+ Ranger*
 
 You can't have :d20-disadv: **Disadvantage** on attack rolls against the target of your [:spell-level-1: Hunter's Mark].
 
@@ -185,7 +185,7 @@ You can't have :d20-disadv: **Disadvantage** on attack rolls against the target 
 
 ### Martial Excellence
 
-**Prerequisite:** Level 7+ Ranger, [Martial Superiority](#martial-superiority)
+***Prerequisite:** Level 7+ Ranger, [Martial Superiority](#martial-superiority)*
 
 Your combat techniques are improved
 
@@ -197,7 +197,7 @@ Your combat techniques are improved
 
 ### Planar Wanderer
 
-**Prerequisite:** Level 7+ Ranger
+***Prerequisite:** Level 7+ Ranger*
 
 Choose one of the following damage types: :dmg-force: Force, :dmg-necrotic: Necrotic, :dmg-psychic: Psychic, or :dmg-radiant: Radiant. You gain :dmg-res: Resistance to the chosen damage type. 
 
@@ -207,7 +207,7 @@ Choose one of the following damage types: :dmg-force: Force, :dmg-necrotic: Necr
 
 ### Primal Focus
 
-**Prerequisite:** Level 7+ Ranger
+***Prerequisite:** Level 7+ Ranger*
 
 When you score a Critical Hit against a creature, all creature have :d20-adv: **Advantage** on the next attack they make against that creature before the end of your next turn.
 
@@ -215,7 +215,7 @@ When you score a Critical Hit against a creature, all creature have :d20-adv: **
 
 ### Slayer II
 
-**Prerequisite:** Level 7+ Ranger, [Slayer](#slayer)
+***Prerequisite:** Level 7+ Ranger, [Slayer](#slayer)*
 
 When you roll Initiative, you can take a :rsc-r: **Reaction** to cast [:spell-level-1: Hunter's Mark].
 
@@ -223,7 +223,7 @@ When you roll Initiative, you can take a :rsc-r: **Reaction** to cast [:spell-le
 
 ### Strider II
 
-**Prerequisite:** Level 7+ Ranger, [Strider](#strider)
+***Prerequisite:** Level 7+ Ranger, [Strider](#strider)*
 
 You ignore the effects of any Difficult Terrain imposed by spells, magical phenomena, or any other supernatural effect.
 
@@ -231,7 +231,7 @@ You ignore the effects of any Difficult Terrain imposed by spells, magical pheno
 
 ### Survivor
 
-**Prerequisite:** Level 7+ Ranger
+***Prerequisite:** Level 7+ Ranger*
 
 Your body can rapidly recover from injury. When you expend a Hit Die to regain hit points, you regain additional Hit Points equal to your Wisdom modifier (minimum of 1 hit point).
 
@@ -243,7 +243,7 @@ You must be at least Ranger level 11 to gain these Aptitudes.
 
 ### Adrenaline
 
-**Prerequisite:** Level 11+ Ranger
+***Prerequisite:** Level 11+ Ranger*
 
 You can expend one use of your *Favoured Foe* to cast [:spell-level-3: Haste] without expending a spell slot.
 
@@ -251,7 +251,7 @@ You can expend one use of your *Favoured Foe* to cast [:spell-level-3: Haste] wi
 
 ### Primal Focus II
 
-**Prerequisite:** Level 11+ Ranger, [Primal Focus](#primal-focus)
+***Prerequisite:** Level 11+ Ranger, [Primal Focus](#primal-focus)*
 
 You gain the following benefits:
 
@@ -263,7 +263,7 @@ You gain the following benefits:
 
 ### Slayer III
 
-**Prerequisite:** Level 11+ Ranger, [Slayer II](#slayer-ii)
+***Prerequisite:** Level 11+ Ranger, [Slayer II](#slayer-ii)*
 
 Once per turn, when you hit the target of your [:spell-level-1: Hunter's Mark] with a weapon attack or Unarmed Strike, you can force the target must succeed a :d20-save: Constitution saving throw, or it has the ^^Blinded^^ and ^^Silenced^^ condition.
 
@@ -271,7 +271,7 @@ Once per turn, when you hit the target of your [:spell-level-1: Hunter's Mark] w
 
 ### Iron Will
 
-**Prerequisite:** Level 11+ Ranger, [Survivor](#survivor)
+***Prerequisite:** Level 11+ Ranger, [Survivor](#survivor)*
 
 When you make a Death Saving Throw, you add your Wisdom modifier to the roll (minimum of +1). If the result of your roll is 20 or higher, you gain two Death Saving Throw success.
 
@@ -279,7 +279,7 @@ When you make a Death Saving Throw, you add your Wisdom modifier to the roll (mi
 
 ### Trailblazer
 
-**Prerequisite:** Level 11+ Ranger, [Strider II](#strider-ii)
+***Prerequisite:** Level 11+ Ranger, [Strider II](#strider-ii)*
 
 You always under the effect of [:spell-level-4: Freedom of Movement] spell so long you don't have the ^^Unconcious^^ condition.
 
@@ -291,7 +291,7 @@ You must be at least Ranger level 15 to gain these Aptitudes.
 
 ### Fatal Intent
 
-**Prerequisite:** Level 15+ Ranger, [Primal Focus II](#primal-focus-ii)
+***Prerequisite:** Level 15+ Ranger, [Primal Focus II](#primal-focus-ii)*
 
 When you hit the target of your [:spell-level-1: Hunter's Mark] with a weapon attack or Unarmed Strike, you can choose to end the spell and make the attack score a Critical Hit.
 
@@ -299,7 +299,7 @@ When you hit the target of your [:spell-level-1: Hunter's Mark] with a weapon at
 
 ### Martial Perfection
 
-**Prerequisite:** Level 15+ Ranger, [Martial Excellence](#martial-excellence)
+***Prerequisite:** Level 15+ Ranger, [Martial Excellence](#martial-excellence)*
 
 Your combat techniques are improved.
 
@@ -311,7 +311,7 @@ Your combat techniques are improved.
 
 ### Enhanced Senses II
 
-**Prerequisite:** Level 15+ Ranger, [Enhanced Senses](#enhanced-senses)
+***Prerequisite:** Level 15+ Ranger, [Enhanced Senses](#enhanced-senses)*
 
 You can't have :d20-disadv: **Disadvantage** on attack rolls against any target within 30 feet of you.
 
@@ -323,7 +323,7 @@ You must be at least Ranger level 19 to gain these Aptitudes.
 
 ### Aggression
 
-**Prerequisite:** Level 19+ Ranger, [Adrenaline](#adrenaline)
+***Prerequisite:** Level 19+ Ranger, [Adrenaline](#adrenaline)*
 
 When you cast [:spell-level-3: Haste] from the Adrenaline Aptidude, it does not require :spell-concentration: Concentration. The spell's last for the Duration stated in the spell.
 
@@ -331,7 +331,7 @@ When you cast [:spell-level-3: Haste] from the Adrenaline Aptidude, it does not 
 
 ### Binding Blade
 
-**Prerequisite:** Level 19+ Ranger
+***Prerequisite:** Level 19+ Ranger*
 
 You can cast [:spell-level-1: Ensnaring Strike] without expending a spell slot.
 
@@ -339,7 +339,7 @@ You can cast [:spell-level-1: Ensnaring Strike] without expending a spell slot.
 
 ### Remove from Existence
 
-**Prerequisite:** Level 19+ Ranger
+***Prerequisite:** Level 19+ Ranger*
 
 Whenever you hit the target of your [:spell-level-1: Hunter's Mark] with a weapon attack or Unarmed Strike, you can immediately end the spell and cause that attack to deal maximum damage instead of rolling. If the attack reduces the creature to 50 Hit Points or fewer, it must succeed on a Constitution saving throw against your Spell save DC or it instantly dies.
 
