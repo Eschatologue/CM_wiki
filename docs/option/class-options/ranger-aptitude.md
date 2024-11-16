@@ -7,10 +7,6 @@ status: homebrew
 
 Below are the Aptitudes available to the Ranger. If an Aptitude has a prerequisite, like your Ranger level or another Aptitude, you can learn it at the same time that you meet all of that Aptitude's prerequisites.
 
-## Level 1+ Aptitude
-
-These Aptitude lacks any prerequisites, which you can gain immediately when you reach Ranger Level 1.
-
 ### Origin: Bounty Hunter 
 
 Your expertise in hunting bounties stands out.
@@ -99,12 +95,6 @@ You have spent endless days surviving desolate wasteland
 
 ---
 
-## Level 3+ Aptitude
-
-You must be at least Ranger level 3 to gain these Aptitudes.
-
----
-
 ### Cunning Technique
 
 ***Prerequisite:** Level 3+ Ranger; [Bounty Hunter], [Deathwatch], or [Generalist]*
@@ -129,7 +119,7 @@ Though you wander the wilds, you still understood the intricacy of politics.
 
 ### Inquisitor
 
-***Prerequisite:** Level 3+ Ranger; [Deathwatch], [Bounty Hunter], or [Mage Breaker]*
+***Prerequisite:** Level 3+ Ranger; [Deathwatch], [Ranger Knight], or [Mage Breaker]*
 
 You learn how to utilise divine magic.
 
@@ -137,7 +127,7 @@ You learn how to utilise divine magic.
 
 ---
 
-### Martial Superiority
+### Martial Superiority I
 
 ***Prerequisite:** Level 3+ Ranger; [Bounty Hunter], [Generalist], or [Mage Breaker]*
 
@@ -147,33 +137,85 @@ You are trained to use complex combat techniques.
 
 ---
 
+### Martial Superiority II: Exellence
+
+***Prerequisite:** Level 7+ Ranger, [Martial Superiority](#martial-superiority)*
+
+Your combat techniques are improved
+
+***Superiority Die.*** You gain two additional Superiority Die and all your Superiority Die improves to :die-d8: d8.
+
+***Manoeuvre.*** You learn two additional Combat Manoeuvre from the Battle Master (Fighter) subclass of you choice. 
+
+---
+
+### Martial Superiority III: Perfection
+
+***Prerequisite:** Level 15+ Ranger, [Martial Excellence III](#martial-superiority-ii-exellence)*
+
+Your combat techniques are improved.
+
+***Superiority Die.*** You gain two additional Superiority Die and all your Superiority Die improves to :die-d10: d10.
+
+***Manoeuvre.*** You learn two additional Combat Manoeuvre from the Battle Master (Fighter) subclass of you choice.
+
+---
+
 ### Self-Regeneration
 
-***Prerequisite:** Level 3+ Ranger, Any [Level 1+ Aptitude]*
+***Prerequisite:** Level 3+ Ranger, [Any Level 1+ Aptitude]*
 
 During a Short Rest, you can recover spell slots of a combined level equal to your Wisdom modifier. Once you do, you must finish a Long Rest before you can use this feature again.
 
 ---
 
-### Slayer
+### Slayer I
 
-***Prerequisite:** Level 3+ Ranger, Any [Level 1+ Aptitude]*
+***Prerequisite:** Level 3+ Ranger, [Any Level 1+ Aptitude]*
 
 When you hit a creature with a weapon attack or Unarmed Strike you can cast [:spell-level-1: Hunter's Mark] at the target as part of the attack, applying its damage bonus and other benefits (if any) to the damage roll.
 
 ---
 
-### Strider
+### Slayer II: Ambush Tactics
 
-***Prerequisite:** Level 3+ Ranger, Any [Level 1+ Aptitude]*
+***Prerequisite:** Level 7+ Ranger, [Slayer I](#slayer-i)*
+
+When you roll Initiative, you can take a :rsc-r: **Reaction** to cast [:spell-level-1: Hunter's Mark].
+
+---
+
+### Slayer III: Isolation
+
+***Prerequisite:** Level 11+ Ranger, [Slayer II](#slayer-ii-ambush-tactics)*
+
+Once per turn, when you hit the target of your [:spell-level-1: Hunter's Mark] with a weapon attack or Unarmed Strike, you can force the target must succeed a :d20-save: Constitution saving throw, or it has the ^^Blinded^^ and ^^Silenced^^ condition.
+
+---
+
+### Strider I
+
+***Prerequisite:** Level 3+ Ranger, [Any Level 1+ Aptitude]*
 
 You ignore the effects of Difficult Terrain caused by natural environments or terrain.
 
 ---
 
-## Level 7+ Aptitude
+### Strider II: Unhindered Steps
 
-You must be at least Ranger level 7 to gain these Aptitudes.
+***Prerequisite:** Level 7+ Ranger, [Strider I](#strider-i)*
+
+You ignore the effects of any Difficult Terrain imposed by spells, magical phenomena, or any other supernatural effect.
+
+---
+
+### Strider III: Trailblazer
+
+***Prerequisite:** Level 11+ Ranger, [Strider II](#strider-ii-unhindered-steps)*
+
+You always under the effect of [:spell-level-4: Freedom of Movement] spell so long you don't have the ^^Unconcious^^ condition.
+
+---
 
 ### Enhanced Senses
 
@@ -183,15 +225,11 @@ You can't have :d20-disadv: **Disadvantage** on attack rolls against the target 
 
 ---
 
-### Martial Excellence
+### Enhanced Senses II
 
-***Prerequisite:** Level 7+ Ranger, [Martial Superiority](#martial-superiority)*
+***Prerequisite:** Level 15+ Ranger, [Enhanced Senses](#enhanced-senses)*
 
-Your combat techniques are improved
-
-***Superiority Die.*** You gain two additional Superiority Die and all your Superiority Die improves to :die-d8: d8.
-
-***Manoeuvre.*** You learn two additional Combat Manoeuvre from the Battle Master (Fighter) subclass of you choice. 
+You can't have :d20-disadv: **Disadvantage** on attack rolls against any target within 30 feet of you.
 
 ---
 
@@ -213,43 +251,7 @@ When you score a Critical Hit against a creature, all creature have :d20-adv: **
 
 ---
 
-### Slayer II
-
-***Prerequisite:** Level 7+ Ranger, [Slayer](#slayer)*
-
-When you roll Initiative, you can take a :rsc-r: **Reaction** to cast [:spell-level-1: Hunter's Mark].
-
----
-
-### Strider II
-
-***Prerequisite:** Level 7+ Ranger, [Strider](#strider)*
-
-You ignore the effects of any Difficult Terrain imposed by spells, magical phenomena, or any other supernatural effect.
-
----
-
-### Survivor
-
-***Prerequisite:** Level 7+ Ranger*
-
-Your body can rapidly recover from injury. When you expend a Hit Die to regain hit points, you regain additional Hit Points equal to your Wisdom modifier (minimum of 1 hit point).
-
----
-
-## Level 11+ Aptitude
-
-You must be at least Ranger level 11 to gain these Aptitudes.
-
-### Adrenaline
-
-***Prerequisite:** Level 11+ Ranger*
-
-You can expend one use of your *Favoured Foe* to cast [:spell-level-3: Haste] without expending a spell slot.
-
----
-
-### Primal Focus II
+### Primal Focus II: Feral Eyes
 
 ***Prerequisite:** Level 11+ Ranger, [Primal Focus](#primal-focus)*
 
@@ -261,15 +263,23 @@ You gain the following benefits:
 
 ---
 
-### Slayer III
+### Primal Focus III: Predatory Intent
 
-***Prerequisite:** Level 11+ Ranger, [Slayer II](#slayer-ii)*
+***Prerequisite:** Level 15+ Ranger, [Primal Focus II](#primal-focus-ii-feral-eyes)*
 
-Once per turn, when you hit the target of your [:spell-level-1: Hunter's Mark] with a weapon attack or Unarmed Strike, you can force the target must succeed a :d20-save: Constitution saving throw, or it has the ^^Blinded^^ and ^^Silenced^^ condition.
+When you hit the target of your [:spell-level-1: Hunter's Mark] with a weapon attack or Unarmed Strike, you can choose to end the spell and make the attack score a Critical Hit.
 
 ---
 
-### Iron Will
+### Survivor I
+
+***Prerequisite:** Level 7+ Ranger*
+
+Your body can rapidly recover from injury. When you expend a Hit Die to regain hit points, you regain additional Hit Points equal to your Wisdom modifier (minimum of 1 hit point).
+
+---
+
+### Survivor II: Iron Will
 
 ***Prerequisite:** Level 11+ Ranger, [Survivor](#survivor)*
 
@@ -277,53 +287,17 @@ When you make a Death Saving Throw, you add your Wisdom modifier to the roll (mi
 
 ---
 
-### Trailblazer
+### Adrenaline I
 
-***Prerequisite:** Level 11+ Ranger, [Strider II](#strider-ii)*
+***Prerequisite:** Level 11+ Ranger*
 
-You always under the effect of [:spell-level-4: Freedom of Movement] spell so long you don't have the ^^Unconcious^^ condition.
-
----
-
-## Level 15+ Aptitude
-
-You must be at least Ranger level 15 to gain these Aptitudes.
-
-### Fatal Intent
-
-***Prerequisite:** Level 15+ Ranger, [Primal Focus II](#primal-focus-ii)*
-
-When you hit the target of your [:spell-level-1: Hunter's Mark] with a weapon attack or Unarmed Strike, you can choose to end the spell and make the attack score a Critical Hit.
+You can expend one use of your *Favoured Foe* to cast [:spell-level-3: Haste] without expending a spell slot.
 
 ---
 
-### Martial Perfection
+### Adrenaline II: Aggression
 
-***Prerequisite:** Level 15+ Ranger, [Martial Excellence](#martial-excellence)*
-
-Your combat techniques are improved.
-
-***Superiority Die.*** You gain two additional Superiority Die and all your Superiority Die improves to :die-d10: d10.
-
-***Manoeuvre.*** You learn two additional Combat Manoeuvre from the Battle Master (Fighter) subclass of you choice.
-
----
-
-### Enhanced Senses II
-
-***Prerequisite:** Level 15+ Ranger, [Enhanced Senses](#enhanced-senses)*
-
-You can't have :d20-disadv: **Disadvantage** on attack rolls against any target within 30 feet of you.
-
----
-
-## Level 19+ Aptitude
-
-You must be at least Ranger level 19 to gain these Aptitudes.
-
-### Aggression
-
-***Prerequisite:** Level 19+ Ranger, [Adrenaline](#adrenaline)*
+***Prerequisite:** Level 19+ Ranger, [Adrenaline I](#adrenaline-i)*
 
 When you cast [:spell-level-3: Haste] from the Adrenaline Aptidude, it does not require :spell-concentration: Concentration. The spell's last for the Duration stated in the spell.
 
@@ -352,7 +326,7 @@ Whenever you hit the target of your [:spell-level-1: Hunter's Mark] with a weapo
 [Ranger Knight]: #origin-ranger-knight
 [Sanctified Hunter]: #origin-sanctified-hunter
 
-[Level 1+ Aptitude]: #level-1-aptitude
+[Any Level 1+ Aptitude]: #level-1-aptitude
 
 [:spell-level-1: Ensnaring Strike]: ../../spells/description/core/level-1.md#ensnaring-strike
 [:spell-level-1: Hunter's Mark]: ../../spells/description/core/level-1.md#hunters-mark
