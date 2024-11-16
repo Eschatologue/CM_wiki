@@ -206,7 +206,7 @@ This section presents this gimmick spell list. The spells are organized by spell
     | *Magic Weapon* | Transmutation | Bonus | Touch | 1 hour | V, S | PHB'24 |
     | *Misty Step* | Conjuration | Bonus | Self | Instantaneous | V | PHB'24 |
     | *Ray of Enfeeblement* | Necromancy | Action | 60 feet | Concentration, up to 1 minute | V, S | PHB'24 |
-    | *Scorching Ray*^DS^ | Evocation | Action | 120 feet | Instantaneous | V, S | PHB'24 |
+    | *Scorching Ray* | Evocation | Action | 120 feet | Instantaneous | V, S | PHB'24 |
     | *Shatter*^DS^ | Evocation | Action | 60 feet | Instantaneous | V, S, M (a chip of mica) | PHB'24 |
     | *Silence*^DS^ | Illusion (ritual) | Action | 120 feet | Concentration, up to 10 minutes | V, S | PHB'24 |
     | *Spray of Cards*^DS^ | Conjuration | Action | Self (15-foot cone) | Instantaneous | V, S, M (a deck of cards) | BMT |
