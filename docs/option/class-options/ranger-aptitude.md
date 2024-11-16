@@ -131,7 +131,7 @@ You must be at least Ranger level 3 to gain these Aptitudes.
 
 ### Cunning Technique
 
-**Prerequisite:** Level 3+ Ranger, Any [Level 1+ Aptitude]
+**Prerequisite:** Level 3+ Ranger; [Bounty Hunter], [Deathwatch], or [Generalist]
 
 You learn some rougish techniques.
 
@@ -143,7 +143,7 @@ You learn some rougish techniques.
 
 ### Hedge Knight
 
-**Prerequisite:** Level 3+ Ranger, Any [Level 1+ Aptitude]
+**Prerequisite:** Level 3+ Ranger; [Ranger Knight] or [Sanctified Hunter]
 
 Though you wander the wilds, you still understood the intricacy of politics.
 
@@ -153,7 +153,7 @@ Though you wander the wilds, you still understood the intricacy of politics.
 
 ### Inquisitor
 
-**Prerequisite:** Level 3+ Ranger, Any [Level 1+ Aptitude]
+**Prerequisite:** Level 3+ Ranger; [Deathwatch], [Bounty Hunter], or [Mage Breaker]
 
 You learn how to utilise divine magic.
 
@@ -163,11 +163,18 @@ You learn how to utilise divine magic.
 
 ### Martial Superiority
 
-**Prerequisite:** Level 3+ Ranger, Any [Level 1+ Aptitude]
+**Prerequisite:** Level 3+ Ranger; [Bounty Hunter], [Generalist], or [Mage Breaker]
 
 You are trained to use complex combat techniques. 
 
 ***Fighting Style.*** You gain the [Superior Technique](../feat/feat-fighting-style/hb.md#superior-technique) Feat. Each time you learn new Manoeuvre, you can also replace one Manoeuvre you know with a different one.
+
+[Deathwatch]: #deathwatch
+[Generalist]: #generalist
+[Bounty Hunter]: #bounty-hunter
+[Mage Breaker]: #mage-breaker
+[Ranger Knight]: #ranger-knight
+[Sanctified Hunter]: #sanctified-hunter
 
 ---
 
