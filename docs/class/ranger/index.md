@@ -49,7 +49,7 @@ As a Ranger, you gain the following class features when you reach the specified 
 
 | Level | PB | Class Features | Favoured Enemy | Ranger's Aptitude | Prepared Spells | I | II | III | IV | V |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | +2 | Favoured Enemy, Ranger’s Aptitude, Spellcasting, Weapon Mastery | 2 | 1 | 2 | 2 | — | — | — | — |
+| 1 | +2 | Favoured Enemy, Ranger’s Aptitude, Spellcasting, Weapon Mastery | 2 | 2 | 2 | 2 | — | — | — | — |
 | 2 | +2 | Deft Explorer, Fighting Style | 2 | 2 | 3 | 2 | — | — | — | — |
 | 3 | +2 | Ranger Subclass | 2 | 3 | 4 | 3 | — | — | — | — |
 | 4 | +2 | Ability Score Improvement | 2 | 3 | 5 | 3 | — | — | — | — |

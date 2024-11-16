@@ -11,7 +11,7 @@ Below are the Aptitudes available to the Ranger. If an Aptitude has a prerequisi
 
 These Aptitude lacks any prerequisites, which you can gain immediately when you reach Ranger Level 1.
 
-### Bounty Hunter 
+### Origin: Bounty Hunter 
 
 Your expertise in hunting bounties stands out.
 
@@ -21,7 +21,7 @@ Your expertise in hunting bounties stands out.
 
 ---
 
-### Deathwatch 
+### Origin: Deathwatch 
 
 You specialise in hunting those not native to Antares.
 
@@ -31,7 +31,7 @@ You specialise in hunting those not native to Antares.
 
 ---
 
-### Generalist
+### Origin: Generalist
 
 Rather than specialise, you rather adjust acording to situations.
 
@@ -39,7 +39,7 @@ Rather than specialise, you rather adjust acording to situations.
 
 ---
 
-### Mage Breaker 
+### Origin: Mage Breaker 
 
 You have a background in battling spellcasters.
 
@@ -49,7 +49,7 @@ You have a background in battling spellcasters.
 
 ---
 
-### Ranger Knight 
+### Origin: Ranger Knight 
 
 You have sworn to serve a crown or nation and aim to bring its foes to ruin.
 
@@ -59,7 +59,7 @@ You have sworn to serve a crown or nation and aim to bring its foes to ruin.
 
 ---
 
-### Sanctified Hunter
+### Origin: Sanctified Hunter
 
 You have sworn to hunt the enemies of a holy or druidic order.
 
@@ -69,13 +69,7 @@ You have sworn to hunt the enemies of a holy or druidic order.
 
 ---
 
-## Level 2+ Aptitude
-
-You must be at least Ranger level 2 to gain these Aptitudes.
-
-### Naturalist
-
-**Prerequisite:** Level 2+ Ranger, Any [Level 1+ Aptitude]
+### Natural Explorer: Beast Tamer
 
 You have cultivated a strong bond with animals and nature. 
 
@@ -85,25 +79,7 @@ You have cultivated a strong bond with animals and nature.
 
 ---
 
-### Self-Regeneration
-
-**Prerequisite:** Level 2+ Ranger, Any [Level 1+ Aptitude]
-
-During a Short Rest, you can recover spell slots of a combined level equal to your Wisdom modifier. Once you do, you must finish a Long Rest before you can use this feature again.
-
----
-
-### Strider
-
-**Prerequisite:** Level 2+ Ranger, Any [Level 1+ Aptitude]
-
-You ignore the effects of Difficult Terrain caused by natural environments or terrain.
-
----
-
-### Urban Tracker
-
-**Prerequisite:** Level 2+ Ranger, Any [Level 1+ Aptitude]
+### Natural Explorer: Urban Tracker
 
 You are an expert at navigating the labyrinthine Citadel Cities as well as the wilds. 
 
@@ -113,9 +89,7 @@ You are an expert at navigating the labyrinthine Citadel Cities as well as the w
 
 ---
 
-### Wasteland Wanderer
-
-**Prerequisite:** Level 2+ Ranger, Any [Level 1+ Aptitude]
+### Natural Explorer: Wasteland Wanderer
 
 You have spent endless days surviving desolate wasteland
 
@@ -128,6 +102,8 @@ You have spent endless days surviving desolate wasteland
 ## Level 3+ Aptitude
 
 You must be at least Ranger level 3 to gain these Aptitudes.
+
+---
 
 ### Cunning Technique
 
@@ -169,20 +145,29 @@ You are trained to use complex combat techniques.
 
 ***Fighting Style.*** You gain the [Superior Technique](../feat/feat-fighting-style/hb.md#superior-technique) Feat. Each time you learn new Manoeuvre, you can also replace one Manoeuvre you know with a different one.
 
-[Deathwatch]: #deathwatch
-[Generalist]: #generalist
-[Bounty Hunter]: #bounty-hunter
-[Mage Breaker]: #mage-breaker
-[Ranger Knight]: #ranger-knight
-[Sanctified Hunter]: #sanctified-hunter
+---
+
+### Self-Regeneration
+
+**Prerequisite:** Level 3+ Ranger, Any [Level 1+ Aptitude]
+
+During a Short Rest, you can recover spell slots of a combined level equal to your Wisdom modifier. Once you do, you must finish a Long Rest before you can use this feature again.
 
 ---
 
 ### Slayer
 
-**Prerequisite:** Level 3+ Ranger
+**Prerequisite:** Level 3+ Ranger, Any [Level 1+ Aptitude]
 
 When you hit a creature with a weapon attack or Unarmed Strike you can cast [:spell-level-1: Hunter's Mark] at the target as part of the attack, applying its damage bonus and other benefits (if any) to the damage roll.
+
+---
+
+### Strider
+
+**Prerequisite:** Level 3+ Ranger, Any [Level 1+ Aptitude]
+
+You ignore the effects of Difficult Terrain caused by natural environments or terrain.
 
 ---
 
@@ -190,27 +175,11 @@ When you hit a creature with a weapon attack or Unarmed Strike you can cast [:sp
 
 You must be at least Ranger level 7 to gain these Aptitudes.
 
-### Ambusher
-
-**Prerequisite:** Level 7+ Ranger, [Slayer](#slayer)
-
-When you roll Initiative, you can take a :rsc-r: **Reaction** to cast [:spell-level-1: Hunter's Mark].
-
----
-
 ### Enhanced Senses
 
 **Prerequisite:** Level 7+ Ranger
 
 You can't have :d20-disadv: **Disadvantage** on attack rolls against the target of your [:spell-level-1: Hunter's Mark].
-
----
-
-### Honed Focus
-
-**Prerequisite:** Level 7+ Ranger
-
-When you score a Critical Hit against a creature, all creature have :d20-adv: **Advantage** on the next attack they make against that creature before the end of your next turn.
 
 ---
 
@@ -236,19 +205,35 @@ Choose one of the following damage types: :dmg-force: Force, :dmg-necrotic: Necr
 
 ---
 
+### Primal Focus
+
+**Prerequisite:** Level 7+ Ranger
+
+When you score a Critical Hit against a creature, all creature have :d20-adv: **Advantage** on the next attack they make against that creature before the end of your next turn.
+
+---
+
+### Slayer II
+
+**Prerequisite:** Level 7+ Ranger, [Slayer](#slayer)
+
+When you roll Initiative, you can take a :rsc-r: **Reaction** to cast [:spell-level-1: Hunter's Mark].
+
+---
+
+### Strider II
+
+**Prerequisite:** Level 7+ Ranger, [Strider](#strider)
+
+You ignore the effects of any Difficult Terrain imposed by spells, magical phenomena, or any other supernatural effect.
+
+---
+
 ### Survivor
 
 **Prerequisite:** Level 7+ Ranger
 
 Your body can rapidly recover from injury. When you expend a Hit Die to regain hit points, you regain additional Hit Points equal to your Wisdom modifier (minimum of 1 hit point).
-
----
-
-### Unhindered Steps
-
-**Prerequisite:** Level 7+ Ranger, [Strider](#strider)
-
-You ignore the effects of any Difficult Terrain imposed by spells, magical phenomena, or any other supernatural effect.
 
 ---
 
@@ -264,9 +249,9 @@ You can expend one use of your *Favoured Foe* to cast [:spell-level-3: Haste] wi
 
 ---
 
-### Sharpened Focus
+### Primal Focus II
 
-**Prerequisite:** Level 11+ Ranger, [Honed Focus](#honed-focus)
+**Prerequisite:** Level 11+ Ranger, [Primal Focus](#primal-focus)
 
 You gain the following benefits:
 
@@ -276,9 +261,9 @@ You gain the following benefits:
 
 ---
 
-### Predatory Mark
+### Slayer III
 
-**Prerequisite:** Level 11+ Ranger, [Ambush's Mark](#ambush-tactic)
+**Prerequisite:** Level 11+ Ranger, [Slayer II](#slayer-ii)
 
 Once per turn, when you hit the target of your [:spell-level-1: Hunter's Mark] with a weapon attack or Unarmed Strike, you can force the target must succeed a :d20-save: Constitution saving throw, or it has the ^^Blinded^^ and ^^Silenced^^ condition.
 
@@ -294,7 +279,7 @@ When you make a Death Saving Throw, you add your Wisdom modifier to the roll (mi
 
 ### Trailblazer
 
-**Prerequisite:** Level 11+ Ranger, [Unhindered Steps](#unhindered-steps)
+**Prerequisite:** Level 11+ Ranger, [Strider II](#strider-ii)
 
 You always under the effect of [:spell-level-4: Freedom of Movement] spell so long you don't have the ^^Unconcious^^ condition.
 
@@ -306,7 +291,7 @@ You must be at least Ranger level 15 to gain these Aptitudes.
 
 ### Fatal Intent
 
-**Prerequisite:** Level 15+ Ranger, [Sharpened Focus](#sharpened-focus)
+**Prerequisite:** Level 15+ Ranger, [Primal Focus II](#primal-focus-ii)
 
 When you hit the target of your [:spell-level-1: Hunter's Mark] with a weapon attack or Unarmed Strike, you can choose to end the spell and make the attack score a Critical Hit.
 
@@ -324,7 +309,7 @@ Your combat techniques are improved.
 
 ---
 
-### Unerring Focus
+### Enhanced Senses II
 
 **Prerequisite:** Level 15+ Ranger, [Enhanced Senses](#enhanced-senses)
 
@@ -360,6 +345,12 @@ Whenever you hit the target of your [:spell-level-1: Hunter's Mark] with a weapo
 
 ---
 
+[Deathwatch]: #origin-deathwatch
+[Generalist]: #origin-generalist
+[Bounty Hunter]: #origin-bounty-hunter
+[Mage Breaker]: #origin-mage-breaker
+[Ranger Knight]: #origin-ranger-knight
+[Sanctified Hunter]: #origin-sanctified-hunter
 
 [Level 1+ Aptitude]: #level-1-aptitude
 
