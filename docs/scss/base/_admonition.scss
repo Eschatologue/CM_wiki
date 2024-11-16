@@ -9,23 +9,22 @@
 .md-typeset .admonition,
 .md-typeset details {
     border-width: 0;
-    border-left-width: 7px;
+    border-left-width: 5px;
 }
 
 /* Add Shadow */
 .md-typeset .admonition {
+    border-radius: convert.px2rem(6px);
     border-color: var(--md-admonition-icon-color--note);
     box-shadow: var(--md-shadow-z3);
-    
 }
 
 //-------------------------------------------------------------------------------------------//
 
 .md-typeset {
-    $colorAdmonition_homebrew: convert.hex3hsl(#ffb624);
-    $colorAdmonition_glossary: convert.hex3hsl(#4DB6AC);
-
     // Homebrew
+    $colorAdmonition_homebrew: convert.hex3hsl(#ffb624);
+
     .admonition.homebrew,
     details.homebrew {
         border-color: $colorAdmonition_homebrew;
@@ -46,6 +45,8 @@
     }
 
     // Glossary
+    $colorAdmonition_glossary: convert.hex3hsl(#4DB6AC);
+
     .admonition.glossary,
     details.glossary {
         border-color: $colorAdmonition_glossary;
