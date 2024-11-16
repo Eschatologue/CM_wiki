@@ -469,6 +469,11 @@
   -webkit-mask-image: var(--md-icon--adapted);
 }
 
+.md-typeset .lgh3 {
+  --md-icon-size: convert.px2em(24px);
+  padding-right: 0.35em;
+}
+
 .md-typeset {
   font-weight: 300;
   font-size: 0.7rem;
@@ -549,12 +554,6 @@
 .ich1 {
   font-size: 4.5rem;
   margin: 0.25em 0 -0.25em;
-}
-
-.centre {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .xxxxl {
