@@ -89,7 +89,7 @@ If the creator of an area of effect places it at an unseen point and an obstruct
 
 The descriptions of many spells and other features specify that they have an area of effect, which typically has one of six shapes: 
 
-### :aoe-cone:{ .lgh3 } Cone
+### :aoe-cone:{ .lg .pad-r } Cone
 
 --8<-- "docs/glossary.md:aoe-cone"
 

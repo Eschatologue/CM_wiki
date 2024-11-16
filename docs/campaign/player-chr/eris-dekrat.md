@@ -4,6 +4,8 @@ title: Eris Decrat's Gimmick
 
 # Arts & Swash
 
+**Base Class:** *[Swashbuckler](../../class/rogue/swashbuckler.md)*
+
 > *A man born into nobility, with a legacy of great achievements, yet devoid of the qualifications, for he carries the weight of his lineage.*
 
 "Sortilege," a Gallian word used for sorcerers, are unlike wizards or others; they're given the power to weave magic as their birthright. You too are this so-called "Sortilege," but your way of weaving spells are quite different from your peers; you combine the power of spells, excessive guile, and the right amount of audacity.
@@ -24,7 +26,7 @@ Choose one of the following skills: *Arcana*, *History*, *Investigation*, *Natur
 
 *You've learned how to break the normal rules and conventions of casting spells, bending them to your will and channeling them through your weapon strikes*
 
-Once per turn when you make an attack that adds your Sneak Attack damage, you can simultaneously cast a spell to be channeled through it.
+Once per turn when you make an attack that adds your :class-phb24-rogue: ^^Sneak Attack^^ damage, you can simultaneously cast a spell to be channeled through it.
 
 To be channeled this way, the spell must met the following requirements:
 
@@ -108,19 +110,19 @@ Whenever you finish a Long Rest, you can replace one spell on your list with ano
 
 #### Spellcasting Focus
 
-You brandish your weapon when you cast spells; weapons that are listed in **Weapon Proficiency** row in the [Core Rogue Trait](../../class/rogue/index.md#core-rogue-traits) table are spellcasting focus for you. Those weapon can also be used to perform the spell's Somatic components. Any other arcane focuses is restricted for any Arts & Swash spell.
+You brandish your weapon when you cast spells; weapons that are listed in **Weapon Proficiency** row in the [Core Rogue Trait](../../class/rogue/index.md#core-rogue-traits) table are spellcasting focus for you. Those weapon can also be used to perform the spell's Somatic components. Any other spellcasting focuses is restricted for any Arts & Swash spell.
 
 ### Level 3: Spellbreaker's Mark
 
-You learn the [Hunter's Mark](../../spells/description/core/level-1.md#hunters-mark) spell and you can cast it without expending a spell slot. The target of this spell is considered your Quarry.
+You learn the [Hunter's Mark](../../spells/description/core/level-1.md#hunters-mark) spell and you can cast it without expending a spell slot. When you make an attack that deals :class-phb24-rogue: ^^Sneak Attack^^ damage, you can also cast this spell at the target as part of the attack. The target of this spell is considered your Quarry.
 
-When it is cast this way, you gain additional benefits against your Quarry:
+You also gain additional benefits against your Quarry:
 
 ***Spellcasting Type.*** You know your Quarry spellcasting ability (Intelligence, Wisdom, or Charisma), if any, and the level of the highest level spell it can cast.
 
 ***Mage Breaker.*** Your Quarry has :d20-disadv: **Disadvantage** on Concentration Checks against your attacks.
 
-***New Sneak Attack.*** You gain an additional way to use your Sneak Attack: You can add your Sneak Attack damage the damage roll on your weapon attack against your Quarry as long as you don't have :d20-disadv: **Disadvantage** on the attack. 
+***New Sneak Attack.*** You gain an additional way to use your :class-phb24-rogue: ^^Sneak Attack^^: You can add your :class-phb24-rogue: ^^Sneak Attack^^ damage the damage roll on your weapon attack against your Quarry as long as you don't have :d20-disadv: **Disadvantage** on the attack. 
 
 ***No Concentration.*** The spell does not require you to :spell-concentration: Concentrate on it, though it ends early if you have the Incapacitated condition. All other rules, such as the spell's Duration still applies.
 
@@ -130,9 +132,11 @@ You can use this feature a number of times equals to your Proficiency bonus. You
 
 *With a simple raise of your eyebrow, you possess the uncanny ability to disrupt and foil a spellcaster's magic.*
 
-When you see your Quarry casting a spell or teleporting within 60 feet of you, you can take a Reaction to expend a spell slot to try magically foils it.
+When you see a creature cast a spell or teleporting within 60 feet of you, you can take a :rsc-r: **Reaction** to do one of the following:
 
-If the spell was cast at a level equal to the level of the spell slot you expended or lower, the spell fails and has no effect. If it was cast at a level higher than the slot you expended, make a Charisma ability check against DC of 10 + the level of the spell, the spell fails and has no effect when you succeed the check.
+***Mark Target.*** Use your [Spellbreaker's Mark](#level-3-spellbreakers-mark), targeting the creature, or move already existing mark to the creature.
+
+***Nullify Magic.*** You can expend a spell slot, if the spell was cast at a level equal to the level of the spell slot you expended or lower, the spell fails and has no effect. If it was cast at a level higher than the slot you expended, make a Charisma ability check against DC of 10 + the level of the spell, the spell fails and has no effect when you succeed the check.
 
 [spell list]: #arts--swash-spell-list
 

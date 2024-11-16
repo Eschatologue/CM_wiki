@@ -75,7 +75,7 @@ You must be at least Ranger level 2 to gain these Aptitudes.
 
 ### Naturalist
 
-**Prerequisite:** Level 2+ Ranger
+**Prerequisite:** Level 2+ Ranger, Any [Level 1+ Aptitude]
 
 You have cultivated a strong bond with animals and nature. 
 
@@ -87,7 +87,7 @@ You have cultivated a strong bond with animals and nature.
 
 ### Self-Regeneration
 
-**Prerequisite:** Level 2+ Ranger
+**Prerequisite:** Level 2+ Ranger, Any [Level 1+ Aptitude]
 
 During a Short Rest, you can recover spell slots of a combined level equal to your Wisdom modifier. Once you do, you must finish a Long Rest before you can use this feature again.
 
@@ -95,7 +95,7 @@ During a Short Rest, you can recover spell slots of a combined level equal to yo
 
 ### Strider
 
-**Prerequisite:** Level 2+ Ranger
+**Prerequisite:** Level 2+ Ranger, Any [Level 1+ Aptitude]
 
 You ignore the effects of Difficult Terrain caused by natural environments or terrain.
 
@@ -103,7 +103,7 @@ You ignore the effects of Difficult Terrain caused by natural environments or te
 
 ### Urban Tracker
 
-**Prerequisite:** Level 2+ Ranger
+**Prerequisite:** Level 2+ Ranger, Any [Level 1+ Aptitude]
 
 You are an expert at navigating the labyrinthine Citadel Cities as well as the wilds. 
 
@@ -115,7 +115,7 @@ You are an expert at navigating the labyrinthine Citadel Cities as well as the w
 
 ### Wasteland Wanderer
 
-**Prerequisite:** Level 2+ Ranger
+**Prerequisite:** Level 2+ Ranger, Any [Level 1+ Aptitude]
 
 You have spent endless days surviving desolate wasteland
 
@@ -131,7 +131,7 @@ You must be at least Ranger level 3 to gain these Aptitudes.
 
 ### Cunning Technique
 
-**Prerequisite:** Level 3+ Ranger
+**Prerequisite:** Level 3+ Ranger, Any [Level 1+ Aptitude]
 
 You learn some rougish techniques.
 
@@ -143,7 +143,7 @@ You learn some rougish techniques.
 
 ### Hedge Knight
 
-**Prerequisite:** Level 3+ Ranger
+**Prerequisite:** Level 3+ Ranger, Any [Level 1+ Aptitude]
 
 Though you wander the wilds, you still understood the intricacy of politics.
 
@@ -153,7 +153,7 @@ Though you wander the wilds, you still understood the intricacy of politics.
 
 ### Inquisitor
 
-**Prerequisite:** Level 3+ Ranger
+**Prerequisite:** Level 3+ Ranger, Any [Level 1+ Aptitude]
 
 You learn how to utilise divine magic.
 
@@ -163,7 +163,7 @@ You learn how to utilise divine magic.
 
 ### Martial Superiority
 
-**Prerequisite:** Level 3+ Ranger
+**Prerequisite:** Level 3+ Ranger, Any [Level 1+ Aptitude]
 
 You are trained to use complex combat techniques. 
 
@@ -183,7 +183,7 @@ When you hit a creature with a weapon attack or Unarmed Strike you can cast *[:s
 
 You must be at least Ranger level 7 to gain these Aptitudes.
 
-### Ambush Mark
+### Ambusher
 
 **Prerequisite:** Level 7+ Ranger, [Slayer](#slayer)
 
@@ -352,6 +352,10 @@ You can cast *[:spell-level-1: Ensnaring Strike]* without expending a spell slot
 Whenever you hit the target of your *[:spell-level-1: Hunter's Mark]* with a weapon attack or Unarmed Strike, you can immediately end the spell and cause that attack to deal maximum damage instead of rolling. If the attack reduces the creature to 50 Hit Points or fewer, it must succeed on a Constitution saving throw against your Spell save DC or it instantly dies.
 
 ---
+
+
+[Level 1+ Aptitude]: #level-1-aptitude
+
 [:spell-level-1: Ensnaring Strike]: ../../spells/description/core/level-1.md#ensnaring-strike
 [:spell-level-1: Hunter's Mark]: ../../spells/description/core/level-1.md#hunters-mark
 [:spell-level-3: Haste]: ../../spells/description/core/level-3.md#haste
