@@ -4,7 +4,7 @@ title: Eris Decrat's Gimmick
 
 # Arts & Swash
 
-**Base Class:** *[Swashbuckler](../../class/rogue/swashbuckler.md)*
+**Base Sublass:** *[Swashbuckler](../../class/rogue/swashbuckler.md)*
 
 > *A man born into nobility, with a legacy of great achievements, yet devoid of the qualifications, for he carries the weight of his lineage.*
 

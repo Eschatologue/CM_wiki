@@ -4,9 +4,11 @@ title: Ydastriel Khaine's Gimmick
 
 # Parable of the Stars
 
-Seven Spires with seven Ascent, each represents a concept and in some ways a purpose, and those who follows a specific Ascent can draw powers from it. The spires are beings of higher power, some can say they even trancends the concept of God that we once has.* 
+**Base Sublass:** *[Circle of the Stars](../../class/druid/star.md)*
 
-*You, child of the star are chosen with the purpose to reveal the secrets behind the Spires and their influences upon this world, will you bring this forsaken world salvation it needs or the destruction it deserves?
+Seven Spires with seven Ascent, each represents a concept and in some ways a purpose, and those who follows a specific Ascent can draw powers from it. The spires are beings of higher power, some can say they even trancends the concept of God that we once has.
+
+You, child of the star are chosen with the purpose to reveal the secrets behind the Spires and their influences upon this world, will you bring this forsaken world salvation it needs or the destruction it deserves?
 
 > "Ambitious, arrogant, and seemingly all-knowing, much like the number zero. It's the void from which all other thing begin.”
 
@@ -30,7 +32,7 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 :   ***Searing Flare (Chalice Form).*** Once per turn, when you restore Hit Points to a creature using the Chalice Form feature, each creatures within 5 feet of the target must make a :d20-save: Constitution saving throw. On a failed save, they take :dmg-radiant: Radiant damage equals to the Chalice Form's healing roll.
 
-:   ***Accretion Disk (Dragon Form).*** While :spell-concetration: Concentrating on a Druid spell, you can add your Wisdom modifier to all :dmg-radiant: Radiant or :dmg-fire: Fire damage rolls you make.
+:   ***Accretion Disk (Dragon Form).*** While :spell-concentration: Concentrating on a Druid spell, you can add your Wisdom modifier to all :dmg-radiant: Radiant or :dmg-fire: Fire damage rolls you make.
 
 ***Resonance of Perseverance***  
 
