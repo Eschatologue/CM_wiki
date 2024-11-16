@@ -408,11 +408,12 @@
 .md-typeset .admonition,
 .md-typeset details {
   border-width: 0;
-  border-left-width: 7px;
+  border-left-width: 5px;
 }
 
 /* Add Shadow */
 .md-typeset .admonition {
+  border-radius: 0.3rem;
   border-color: var(--md-admonition-icon-color--note);
   box-shadow: var(--md-shadow-z3);
 }
