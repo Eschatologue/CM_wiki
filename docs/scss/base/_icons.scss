@@ -1,0 +1,10 @@
+@use "../utility/convert";
+
+.md-typeset {
+
+    .lgh3 {
+        --md-icon-size: convert.px2em(24px);
+        padding-right: convert.px2em(0.35em);
+    }
+
+}
