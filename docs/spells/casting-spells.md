@@ -89,27 +89,27 @@ If the creator of an area of effect places it at an unseen point and an obstruct
 
 The descriptions of many spells and other features specify that they have an area of effect, which typically has one of six shapes: 
 
-#### :aoe-cone: Cone
+### :aoe-cone:{ .lg .pad-r } Cone
 
 --8<-- "docs/glossary.md:aoe-cone"
 
-#### :aoe-cube: Cube
+### :aoe-cube:{ .lg .pad-r } Cube
 
 --8<-- "docs/glossary.md:aoe-cube"
 
-#### :aoe-cylinder: Cylinder
+### :aoe-cylinder:{ .lg .pad-r } Cylinder
 
 --8<-- "docs/glossary.md:aoe-cylinder"
 
-#### :aoe-emanation: Emanation
+### :aoe-emanation:{ .lg .pad-r } Emanation
 
 --8<-- "docs/glossary.md:aoe-emanation"
 
-#### :aoe-line: Line
+### :aoe-line:{ .lg .pad-r } Line
 
 --8<-- "docs/glossary.md:aoe-line"
 
-#### :aoe-sphere: Sphere
+### :aoe-sphere:{ .lg .pad-r } Sphere
 
 --8<-- "docs/glossary.md:aoe-sphere"
 
