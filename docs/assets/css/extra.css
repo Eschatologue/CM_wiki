@@ -411,11 +411,17 @@
   border-left-width: 5px;
 }
 
-/* Add Shadow */
+.md-typeset {
+  /* Add Shadow */
+  /* Semi-Transparent Bar */
+}
 .md-typeset .admonition {
-  border-radius: 0.3rem;
+  border-radius: 0.25rem;
   border-color: var(--md-admonition-icon-color--note);
   box-shadow: var(--md-shadow-z3);
+}
+.md-typeset .admonition-title {
+  border-radius: 0, 0.25rem, 0, 0;
 }
 
 .md-typeset .admonition.homebrew,
