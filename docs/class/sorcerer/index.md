@@ -1,6 +1,6 @@
 ---
 icon: class/sorcerer
-title: Sorcerer
+title: Sorcerer (Class)
 ---
 
 :class-sorcerer:{ .xxxxl }

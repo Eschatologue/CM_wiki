@@ -1,6 +1,6 @@
 ---
 icon: class/cleric
-title: Cleric
+title: Cleric (Class)
 ---
 
 :class-cleric:{ .xxxxl }

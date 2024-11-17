@@ -1,6 +1,6 @@
 ---
 icon: class/ranger
-title: Ranger
+title: Ranger (Class)
 ---
 
 :class-ranger:{ .xxxxl }

@@ -36,7 +36,7 @@ You can attack twice, instead of once, whenever you take the Attack action on yo
 
 In addition, you can cast one of your cantrip that has the casting time of an action in place of those attack.
 
-### Level 6: Blade Technique (Optional)
+### Level 6: Blade Technique
 
 You gain additional method to use your Bardic Inspiration as follow:
 

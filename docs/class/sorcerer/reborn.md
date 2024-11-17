@@ -1,8 +1,6 @@
 ---
 title: The Reborn
 status: homebrew
-search:
-  exclude: true
 ---
 
 # The Reborn

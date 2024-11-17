@@ -1,6 +1,6 @@
 ---
 icon: class/artificer
-title: Artificer
+title: Artificer (Class)
 ---
 
 :class-artificer:{ .xxxxl }

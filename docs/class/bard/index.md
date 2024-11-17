@@ -1,6 +1,6 @@
 ---
 icon: class/bard
-title: Bard
+title: Bard (Class)
 ---
 
 :class-bard:{ .xxxxl }

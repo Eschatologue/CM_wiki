@@ -245,7 +245,9 @@ nav:
         - Glamour: class/bard/glamour.md
         - Lore: class/bard/lore.md
         - Valour: class/bard/valour.md
+        - Debate: class/bard/debate.md
         - Skald: class/bard/skald.md
+        - Tragedy: class/bard/tragedy.md
       - Ranger: 
         - class/ranger/index.md
         - Beast Master: class/ranger/beast-master.md
