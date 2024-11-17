@@ -9,20 +9,14 @@
 .md-typeset .admonition,
 .md-typeset details {
     border-width: 0;
-    border-left-width: 5px;
+    border-left-width: 4px;
 }
 
 .md-typeset {
     /* Add Shadow */
     .admonition {
-        border-radius: convert.px2rem(5px);
         border-color: var(--md-admonition-icon-color--note);
         box-shadow: var(--md-shadow-z3);
-    }
-
-    /* Semi-Transparent Bar */
-    .admonition-title {
-        border-radius: 0, convert.px2rem(5px), 0, 0;
     }
 }
 //-------------------------------------------------------------------------------------------//

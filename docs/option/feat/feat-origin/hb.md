@@ -19,7 +19,7 @@ You have spent many days tinkering with various inventions, tool sets, and arcan
 You gain proficiency with Tinker's Tools. If you are already proficient, then whenever you make an ability check with Tinker's Tools you treat a d20 roll of 9 or lower as a 10.
 
 **Infusions**  
-You learn one Infusion of your choice from those available to the Artificer class. At the end of each long rest, you can infuse this Infusion into one object, following the Infusion rules outlined by the Artificer class.
+You learn one Infusion of your choice from those available to the Artificer class. At the end of each long rest, you can infuse this Infusion into one object. You can only learn an Infusion if you reach a level in a class that has this feat.
 
 ---
 
