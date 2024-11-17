@@ -12,13 +12,19 @@
     border-left-width: 5px;
 }
 
-/* Add Shadow */
-.md-typeset .admonition {
-    border-radius: convert.px2rem(6px);
-    border-color: var(--md-admonition-icon-color--note);
-    box-shadow: var(--md-shadow-z3);
-}
+.md-typeset {
+    /* Add Shadow */
+    .admonition {
+        border-radius: convert.px2rem(5px);
+        border-color: var(--md-admonition-icon-color--note);
+        box-shadow: var(--md-shadow-z3);
+    }
 
+    /* Semi-Transparent Bar */
+    .admonition-title {
+        border-radius: 0, convert.px2rem(5px), 0, 0;
+    }
+}
 //-------------------------------------------------------------------------------------------//
 
 .md-typeset {
@@ -45,7 +51,7 @@
     }
 
     // Glossary
-    $colorAdmonition_glossary: convert.hex3hsl(#4DB6AC);
+    $colorAdmonition_glossary: convert.hex3hsl(#4db6ac);
 
     .admonition.glossary,
     details.glossary {
@@ -65,7 +71,4 @@
             mask-image: var(--md-icon--glossary);
         }
     }
-
 }
-
-
