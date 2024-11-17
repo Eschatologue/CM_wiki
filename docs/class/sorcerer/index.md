@@ -7,6 +7,8 @@ title: Sorcerer
 
 # Sorcerer
 
+*Sorcerers are natural spellcasters, drawing on inherent magic from a gift or bloodline.*
+
 ##### Core Sorcerer Trait
 
 | Trait | Detail |

@@ -9,7 +9,7 @@ status: adapted
 
 The Tempest domain offers power from the forces of storms, sea, and sky. These divine forces represent the awe-inspiring power of lightning and thunder, the turbulent strength of the ocean, and the unpredictable nature of storms. They embody natural phenomena such as earthquakes and volcanic fury, as well as the raw power of violence, courage, and strength. Tempest clerics are often tasked with delivering swift justice, inspiring reverence, or instilling fear to ensure that mortals respect the might of these forces. 
 
-Some Tempest clerics are honoured as protectors of seafarers, while others serve as reminders of nature’s wrath, channelling their divine power to keep the faithful on the righteous path or to prevent divine fury through propitiation.
+Some Tempest clerics are honoured as protectors of seafarers, while others serve as reminders of nature's wrath, channelling their divine power to keep the faithful on the righteous path or to prevent divine fury through propitiation.
 
 ### Level 3: Domain Spells
 

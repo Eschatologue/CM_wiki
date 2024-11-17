@@ -28,7 +28,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 You gain the ability to imbue magic into a weapon or armour. 
 
-***Bonus Proficiency.*** You gain a set of Smith’s Tools and have proficiency with it.
+***Bonus Proficiency.*** You gain a set of Smith's Tools and have proficiency with it.
 
 ***Blessed Smithing.*** At the end of a Long Rest, you can touch one nonmagical object that is a suit of armour or a weapon. Until the end of your next Long Rest or until you die, the object becomes a magical, granting a +1 bonus to AC if it's armour or a +1 bonus to attack and damage rolls if it's a weapon. Once you use this feature, you can't use it again until you finish a Long Rest.
 

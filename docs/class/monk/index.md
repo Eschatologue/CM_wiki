@@ -7,6 +7,8 @@ title: Monk
 
 # Monk
 
+*Some reach enlightenment by languid meditation - others do so in the heat of battle. Monks manipulate ki to empower their own strikes and debilitate their foes.*
+
 ##### Core Monk Trait
 
 | Trait | Detail |

@@ -5,7 +5,9 @@ status: homebrew
 
 # Ranger's Aptitude
 
-Below are the Aptitudes available to the Ranger. If an Aptitude has a prerequisite, like your Ranger level or another Aptitude, you can learn it at the same time that you meet all of that Aptitude's prerequisites.
+Below are the Aptitudes available to the [Ranger]. If an Aptitude has a prerequisite, like your [Ranger] level or another Aptitude, you can learn it at the same time that you meet all of that Aptitude's prerequisites.
+
+[Ranger]: ../../class/ranger/index.md
 
 ### Origin: Bounty Hunter 
 
@@ -139,7 +141,7 @@ You are trained to use complex combat techniques.
 
 ### Martial Superiority II: Exellence
 
-***Prerequisite:** Level 7+ Ranger, [Martial Superiority](#martial-superiority)*
+***Prerequisite:** Level 7+ Ranger, [Martial Superiority I](#martial-superiority-i)*
 
 Your combat techniques are improved
 
@@ -151,7 +153,7 @@ Your combat techniques are improved
 
 ### Martial Superiority III: Perfection
 
-***Prerequisite:** Level 15+ Ranger, [Martial Excellence III](#martial-superiority-ii-exellence)*
+***Prerequisite:** Level 15+ Ranger, [Martial Superiority II: Exellence](#martial-superiority-ii-exellence)*
 
 Your combat techniques are improved.
 

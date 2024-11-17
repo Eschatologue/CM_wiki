@@ -7,6 +7,8 @@ title: Bard
 
 # Bard
 
+*Bards know music is more than idle fancy - it is power. Through study and adventure, these travelling troubadours master song, speech, and the magic within.*
+
 ##### Core Bard Trait
 
 | Trait | Detail |

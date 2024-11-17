@@ -7,6 +7,8 @@ title: Warlock
 
 # Warlock
 
+*Bound by a pact to an all-powerful patron, warlocks trade their loyalty for supernatural abilities and unique magic.*
+
 ##### Core Warlock Trait
 
 | Trait | Detail |

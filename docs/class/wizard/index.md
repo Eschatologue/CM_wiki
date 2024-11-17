@@ -7,6 +7,8 @@ title: Wizard
 
 # Wizard
 
+*Wizards master the arcane by specialising in individual schools of magic, combining ancient spells with modern research.*
+
 ##### Core Wizard Trait
 
 | Trait | Detail |

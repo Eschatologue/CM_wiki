@@ -7,6 +7,8 @@ title: Cleric
 
 # Cleric
 
+*Clerics are representatives of the gods they worship, wielding potent divine magic for good or ill*
+
 ##### Core Cleric Traits
 
 | Trait | Detail |

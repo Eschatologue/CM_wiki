@@ -7,6 +7,8 @@ title: Ranger
 
 # Ranger
 
+*Rangers are unrivalled scouts and trackers, honing a deep connection with nature in order to hunt their favoured prey.*
+
 ##### Core Ranger Trait
 
 | Trait | Detail |
@@ -49,7 +51,7 @@ As a Ranger, you gain the following class features when you reach the specified 
 
 | Level | PB | Class Features | Favoured Enemy | Ranger's Aptitude | Prepared Spells | I | II | III | IV | V |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | +2 | Favoured Enemy, Ranger’s Aptitude, Spellcasting, Weapon Mastery | 2 | 2 | 2 | 2 | — | — | — | — |
+| 1 | +2 | Favoured Enemy, Ranger's Aptitude, Spellcasting, Weapon Mastery | 2 | 2 | 2 | 2 | — | — | — | — |
 | 2 | +2 | Deft Explorer, Fighting Style | 2 | 2 | 3 | 2 | — | — | — | — |
 | 3 | +2 | Ranger Subclass | 2 | 3 | 4 | 3 | — | — | — | — |
 | 4 | +2 | Ability Score Improvement | 2 | 3 | 5 | 3 | — | — | — | — |
@@ -62,7 +64,7 @@ As a Ranger, you gain the following class features when you reach the specified 
 | 11 | +4 | Subclass feature | 4 | 5 | 10 | 4 | 3 | 3 | — | — |
 | 12 | +4 | Ability Score Improvement | 4 | 5 | 10 | 4 | 3 | 3 | — | — |
 | 13 | +5 | Relentless Hunter | 5 | 5 | 11 | 4 | 3 | 3 | 1 | — |
-| 14 | +5 | Nature’s Veil | 5 | 5 | 11 | 4 | 3 | 3 | 1 | — |
+| 14 | +5 | Nature's Veil | 5 | 5 | 11 | 4 | 3 | 3 | 1 | — |
 | 15 | +5 | Subclass feature | 5 | 6 | 12 | 4 | 3 | 3 | 2 | — |
 | 16 | +5 | Ability Score Improvement | 5 | 6 | 12 | 4 | 3 | 3 | 2 | — |
 | 17 | +6 | Precise Hunter | 6 | 6 | 14 | 4 | 3 | 3 | 3 | 1 |
@@ -136,7 +138,7 @@ Whenever you finish a Long Rest, you can do one of the following:
 ***Change Weapon***  
 You can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Longswords, or
 
-***Replace Weapon Mastery^*CM*^**  
+**Replace Weapon Mastery^*CM*^**  
 You can choose any of the kinds of Mastery weapons you're using and replace the Mastery property of each with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Scimitar's Nick property with the Vex property.
 
 --8<-- "includes/snippets/item-mastery.md"

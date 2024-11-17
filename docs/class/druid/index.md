@@ -7,6 +7,8 @@ title: Druid
 
 # Druid
 
+*Druids channel the elemental forces of nature and share a deep kinship with animals. Mastery of Wild Shape allows them to transform into beasts from all over the Realms.*
+
 ##### Core Druid Trait
 
 | Trait | Detail |
