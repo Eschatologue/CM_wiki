@@ -32,24 +32,21 @@ You gain the ability to channel the lethal repercussion of speaking Celestial to
 
 ***Maledict Die Saving Throw.*** If a power requires a :d20-save: saving throw, the DC equals 8 plus your Strength or Constitution modifier (your choice) and Proficiency Bonus.
 
-***Using Maledict Die.*** Any features in this gimmick that use a Maledict Die use only the dice from this gimmick. Some of your powers expend the Maledict Die, as specified in a power's description. When you use a power that uses a ^^Maledict Die^^ while you have none remaining, you take :dmg-necrotic: Necrotic damage equals to the roll result, you have to roll the die even if the power itself doesn't call for rolling. You regain all of them when you finish a Long Rest.
+***Using Maledict Die.*** Some of your powers expend the Maledict Die, as specified in a power's description. When you use a power that uses a ^^Maledict Die^^ while you have none remaining, you take :dmg-necrotic: Necrotic damage equals to the roll result, you have to roll the die even if the power itself doesn't call for rolling. You regain all of them when you finish a Long Rest.
 
 #### Maledict Die Powers
 
-***Cauterising Flame.*** As a :rsc-a: Magic action, you can expend a number of ^^Maledict Die^^ up to your Rage Damage bonus, rolling them and regain a number of Hit Points equal to the roll's total. This power can't be used if you have no ^^Maledict Die^^ remaining. If your **Rage** is active, add your Rage Damage bonus to the result.
+***Cauterising Flame.*** As a :rsc-a: **Magic** action, you can expend a number of ^^Maledict Die^^ up to your Rage Damage bonus, rolling them and regain a number of Hit Points equal to the roll's total. This power can't be used if you have no ^^Maledict Die^^ remaining. If your **Rage** is active, add your Rage Damage bonus to the result.
 
-***Flames of Creation.*** When you take the Attack action on your turn, you can expend a number of ^^Maledict Die^^ up to your Rage Damage bonus, rolling them and replace one of your attacks to stomp the ground, causing a 15-foot :aoe-cone: Cone fiery explosion originating from you. Each creature in the area must make a Dexterity saving throw, taking :dmg-fire: Fire damage equal to the roll result on a failed save or half as much damage on a successful one. This benefits from your Rage damage bonus if your **Rage** is active.
+***Flames of Creation.*** When you take the :rsc-a: **Attack** action on your turn, you can expend a number of ^^Maledict Die^^ up to your Rage Damage bonus, rolling them and replace one of your attacks to stomp the ground, causing a 15-foot :aoe-cone: Cone fiery explosion originating from you. Each creature in the area must make a Dexterity saving throw, taking :dmg-fire: Fire damage equal to the roll result on a failed save or half as much damage on a successful one. This benefits from your Rage damage bonus if your **Rage** is active. Flammable objects in the Cone that aren't being worn or carried start **Burning**. 
 
-Flammable objects in the Cone that aren't being worn or carried start **Burning**. 
+***Smite of Origin.*** Immediately after you hit a target with a Strength-based attack, you can expend a number of ^^Maledict Die^^ up to your Rage Damage bonus, rolling them and dealing :dmg-fire: Fire damage to the target equal to the number rolled.
 
 ??? glossary "Burning?"
 
     Burning is **NOT** a Condition, but a Hazard
 
     --8<-- "docs/glossary.md:haz-burning"
-
-
-***Smite of Origin.*** Immediately after you hit a target with a Strength-based attack, you can expend a number of ^^Maledict Die^^ up to your Rage Damage bonus, rolling them and dealing :dmg-fire: Fire damage to the target equal to the number rolled.
 
 ### Level 6: Primordial Flare
 

@@ -19,11 +19,11 @@ You've created a star chart as part of your heavenly studies. It is a Tiny objec
 
 While holding this map, you have these benefits:
 
-- You know the *[Guidance]* cantrip and *[Guiding Bolt]* spell prepared. They counts as a Druid spell for you, and it doesn't count against the number of spells you can have prepared.
-- You can cast *[Guiding Bolt]* without expending a spell slot. You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
+- You know the [:spell-level-0: Guidance]* cantrip and [:spell-level-1: Guiding Bolt] spell prepared. They counts as a Druid spell for you, and it doesn't count against the number of spells you can have prepared.
+- You can cast [:spell-level-1: Guiding Bolt] without expending a spell slot. You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
 
-[Guidance]: ../../spells/description/core/cantrip.md#guidance
-[Guiding Bolt]: ../../spells/description/core/level-1.md#guiding-bolt
+[:spell-level-0: Guidance]: ../../spells/description/core/cantrip.md#guidance
+[:spell-level-1: Guiding Bolt]: ../../spells/description/core/level-1.md#guiding-bolt
   
 If you lose the map, you can perform a 1-hour ceremony to magically create a replacement. This ceremony can be performed during a Short Rest or Long Rest, and it destroys the previous map.
 
@@ -52,7 +52,7 @@ Whenever you assume your starry form, choose which of the following constellatio
 
 ***Dragon.*** A constellation of a wise dragon appears on you. When you make an Intelligence or a Wisdom check or a Constitution saving throw to maintain concentration on a spell, you can treat a roll of 9 or lower on the d20 as a 10.
 
-At Druid **level 14**, while in your Starry Form, you become partially incorporeal, giving you Resistance to Bludgeoning, Piercing, and Slashing damage.
+At Druid **level 14**, while in your Starry Form, you become partially incorporeal, giving you :dmg-res: Resistance to :dmg-blunt: Bludgeoning, :dmg-piercing: Piercing, and :dmg-slashing: Slashing damage.
 
 ### Level 6: Cosmic Omen
 
@@ -72,8 +72,8 @@ Moreover, at the start of each of your turns while in your Starry Form, you can 
 
 ### Level 14: Star Flare
 
-Your connection to the cosmos lets you summon radiant starlight. As a Magic action, you conjure a burst of light in a 30-foot-radius sphere centered on a point within 120 feet of you. You can teleport each willing creature in the area to an unoccupied space within 30 feet of its current location.
+Your connection to the cosmos lets you summon radiant starlight. As a :rsc-a: **Magic** action, you conjure a burst of light in a 30-foot-radius :aoe-sphere: sphere centered on a point within 120 feet of you. You can teleport each willing creature in the area to an unoccupied space within 30 feet of its current location.
 
-Any creature remaining in the Sphere must make a Constitution saving throw against your spell save DC. On a failed save, the creature takes Radiant damage and has the Blinded condition until the end of your next turn. On a successful save, the creature only takes half damage. To determine the damage, roll a number of d10s equal to your Wisdom modifier and add them together.
+Any creature remaining in the Sphere must make a :d20-save: Constitution saving throw against your Spell Save DC. On a failed save, the creature takes Radiant damage and has the Blinded condition until the end of your next turn. On a successful save, the creature only takes half damage. To determine the damage, roll a number of d10s equal to your Wisdom modifier and add them together.
 
 Once you use this feature, you can't use it again until you finish a Long Rest, or you can expend a level 5+ spell slot to regain your use of it (no action required).

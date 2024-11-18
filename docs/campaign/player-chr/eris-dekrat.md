@@ -116,7 +116,7 @@ You brandish your weapon when you cast spells; weapons that are listed in **Weap
 
 You learn the [Hunter's Mark](../../spells/description/core/level-1.md#hunters-mark) spell and you can cast it without expending a spell slot. When you make an attack that deals :class-phb24-rogue: ^^Sneak Attack^^ damage, you can also cast this spell at the target as part of the attack. The target of this spell is considered your Quarry.
 
-You also gain additional benefits against your Quarry:
+You the following benefits against your Quarry:
 
 ***Spellcasting Type.*** You know your Quarry spellcasting ability (Intelligence, Wisdom, or Charisma), if any, and the level of the highest level spell it can cast.
 

@@ -37,12 +37,13 @@ In addition, you gain a Swim Speed equal to your Speed.
 
 Your Wrath of the Sea confers two more benefits while active:
 
-- **Flight.** You gain a Fly Speed equal to your Speed.
-- **Resistance.** You have resistance to Cold, Lighting, and Thunder damage.
+***Flight.*** You gain a Fly Speed equal to your Speed.
+
+***Resistance.*** You have :dmg-res: Resistance to :dmg-cold: Cold, :dmg-lightning: Lightning, and :dmg-thunder: Thunder damage.
 
 ### Level 14: Oceanic Gift
 
-Instead of manifesting the Emanation Wrath of the Sea around yourself,, you can manifest it around one willing creature within 60 feet of you. That creature gains all the benefits of the aura and uses your Spell Save DC and Wisdom modifier for it.
+Instead of manifesting the Emanation Wrath of the Sea around yourself, you can manifest it around one willing creature within 60 feet of you. That creature gains all the benefits of the aura and uses your Spell Save DC and Wisdom modifier for it.
 
 In addition, you can manifest the Emanation around both the other creature and yourself if you expend two uses of your Wildshape instead of one when manifesting it.
 
