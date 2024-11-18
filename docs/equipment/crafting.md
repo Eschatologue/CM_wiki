@@ -53,11 +53,13 @@ If the scribed spell is a cantrip, the version on the scroll works as if the cas
 |:-:|:-:|:-:|
 | Cantrip | 1 day | 150 SP |
 | 1 | 1 day | 250 SP |
-| 2 | 3 days | 1000 SP |
-| 3 | 5 days | 1500 SP |
-| 4 | 10 days | 1,0000 SP |
-| 5 | 25 days | 1,5000 SP |
-| 6 | 40 days | 10,0000 SP |
-| 7 | 50 days | 12,5000 SP |
-| 8 | 60 days | 15,0000 SP |
-| 9 | 120 days | 50,0000 SP |
+| 2 | 3 days | 1,000 SP |
+| 3 | 5 days | 1,500 SP |
+| 4 | 10 days | 10,000 SP |
+| 5 | 25 days | 15,000 SP |
+| 6 | 40 days | 100,000 SP |
+| 7 | 50 days | 125,000 SP |
+| 8 | 60 days | 150,000 SP |
+| 9 | 120 days | 500,000 SP |
+
+\<test\>

@@ -11,7 +11,7 @@ These Origin feats are made for Crown & Misery campaign.
 
 ### Artifice Initiate
 
-*Origin Feat (Prerequisites: Intelligence of 13 or higher)*
+*Origin Feat (Prerequisites: Intelligence 13+)*
 
 You have spent many days tinkering with various inventions, tool sets, and arcane forces. You gain the following benefits:
 
@@ -25,7 +25,7 @@ You learn one Infusion of your choice from those available to the Artificer clas
 
 ### Burglar
 
-*Origin Feat (Prerequisites: Dexterity of 13 or higher)*
+*Origin Feat (Prerequisites: Dexterity 13+)*
 
 You pride yourself on your quickness and your close study of certain clandestine activities. You gain the following benefits:
 
