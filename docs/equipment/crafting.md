@@ -62,4 +62,4 @@ If the scribed spell is a cantrip, the version on the scroll works as if the cas
 | 8 | 60 days | 150,000 SP |
 | 9 | 120 days | 500,000 SP |
 
-\<test\>
+<test\>
