@@ -630,19 +630,19 @@
   border-color: transparent;
 }
 @media screen and (max-width: 768px) {
-  .md-typeset table.responsive {
+  .md-typeset table {
     display: block;
   }
-  .md-typeset table.responsive thead {
+  .md-typeset thead {
     display: none;
   }
-  .md-typeset table.responsive tbody tr {
+  .md-typeset tbody tr {
     display: block;
     width: 100%;
     margin-bottom: 16px;
     padding: 12px;
   }
-  .md-typeset table.responsive td {
+  .md-typeset td {
     display: block;
     position: relative;
     padding: 12px 16px;
@@ -652,7 +652,7 @@
     overflow-wrap: break-word;
     white-space: normal;
   }
-  .md-typeset table.responsive td::before {
+  .md-typeset td::before {
     content: attr(data-label);
     font-weight: bold;
     margin-right: 8px;
