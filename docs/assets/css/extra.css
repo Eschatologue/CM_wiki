@@ -641,8 +641,6 @@
     width: 100%;
     margin-bottom: 16px;
     padding: 12px;
-    border: 1px solid #ccc;
-    border-radius: 8px;
     background-color: rgba(0, 0, 0, 0.05);
   }
   .md-typeset td {
@@ -655,7 +653,6 @@
   .md-typeset td::before {
     content: attr(data-label);
     font-weight: bold;
-    color: #333;
     margin-right: 8px;
     display: inline-block;
     text-transform: capitalize;
