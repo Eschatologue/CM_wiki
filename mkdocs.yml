@@ -48,7 +48,6 @@ extra:
     adapted: Adapted to PHB'24
 
 ## JS
-
 extra_javascript:
   - javascript/responsiveTable.js
 
