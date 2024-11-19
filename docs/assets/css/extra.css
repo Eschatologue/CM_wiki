@@ -630,29 +630,29 @@
   border-color: transparent;
 }
 @media screen and (max-width: 768px) {
-  .md-typeset table {
+  .md-typeset table.responsive {
     display: block;
   }
-  .md-typeset thead {
+  .md-typeset table.responsive thead {
     display: none;
   }
-  .md-typeset tbody tr {
+  .md-typeset table.responsive tbody tr {
     display: block;
     width: 100%;
-    margin-bottom: 12px;
-    padding: 8px;
+    margin-bottom: 16px;
+    padding: 12px;
   }
-  .md-typeset td {
+  .md-typeset table.responsive td {
     display: block;
     position: relative;
-    padding: 8px 12px;
+    padding: 12px 16px;
     border-bottom: none;
     text-align: left !important;
     word-wrap: break-word;
     overflow-wrap: break-word;
     white-space: normal;
   }
-  .md-typeset td::before {
+  .md-typeset table.responsive td::before {
     content: attr(data-label);
     font-weight: bold;
     margin-right: 8px;
