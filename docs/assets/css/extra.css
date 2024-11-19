@@ -629,20 +629,21 @@
   display: table;
   border-color: transparent;
 }
+
 @media screen and (max-width: 768px) {
-  .md-typeset table.responsive {
+  table.responsive {
     display: block;
   }
-  .md-typeset table.responsive thead {
+  table.responsive thead {
     display: none;
   }
-  .md-typeset table.responsive tbody tr {
+  table.responsive tbody tr {
     display: block;
     width: 100%;
     margin-bottom: 0.4rem;
     padding: 0.3rem;
   }
-  .md-typeset table.responsive td {
+  table.responsive td {
     display: block;
     position: relative;
     padding: 0.3rem 0.4rem;
@@ -652,7 +653,7 @@
     overflow-wrap: break-word;
     white-space: normal;
   }
-  .md-typeset table.responsive td::before {
+  table.responsive td::before {
     content: attr(data-label);
     font-size: 0.525rem;
     color: var(--md-default-fg-color--light);
@@ -663,7 +664,6 @@
     margin-bottom: 0.2rem;
   }
 }
-
 /*------------------------------------------------------- 
     MKdocs Material theme edits
 --------------------------------------------------------*/
