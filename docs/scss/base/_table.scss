@@ -60,33 +60,33 @@ $th-padding: $paddingScale * 1.4;
 
   // Responsive behaviour for smaller screens
   @media screen and (max-width: 768px) {
-    table {
+    table.responsive {
       display: block; // Responsive layout
     }
-
-    thead {
+  
+    table.responsive thead {
       display: none; // Hide headers for responsive view
     }
-
-    tbody tr {
+  
+    table.responsive tbody tr {
       display: block;
       width: 100%;
-      margin-bottom: 12px; // Add spacing between rows
-      padding: 8px;
+      margin-bottom: 16px; // Add spacing between rows
+      padding: 12px;
     }
-
-    td {
+  
+    table.responsive td {
       display: block;
       position: relative;
-      padding: 8px 12px;
+      padding: 12px 16px;
       border-bottom: none;
       text-align: left !important; // Force left alignment
       word-wrap: break-word; // Break long text to fit within container
-      overflow-wrap: break-word; // Ensure content wraps nicely
-      white-space: normal; // Allow wrapping for long text
+      overflow-wrap: break-word;
+      white-space: normal;
     }
-
-    td::before {
+  
+    table.responsive td::before {
       content: attr(data-label);
       font-weight: bold; // Keep labels bold
       margin-right: 8px;
@@ -96,4 +96,5 @@ $th-padding: $paddingScale * 1.4;
       margin-bottom: 4px; // Add spacing between label and value
     }
   }
+  
 }
