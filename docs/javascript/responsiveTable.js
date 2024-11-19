@@ -10,14 +10,9 @@ document.addEventListener("DOMContentLoaded", () => {
       (th) => th.textContent.trim() // Get the text content of each <th> and trim whitespace
     );
 
-    // Step 2: Add 'responsive' class if the table has more than 4 columns
-    if (headers.length > 4) {
-      table.classList.add("responsive");
-    }
-
-    // Step 3: Iterate over all rows in the <tbody>
+    // Step 2: Iterate over all rows in the <tbody>
     table.querySelectorAll("tbody tr").forEach((row) => {
-      // Step 4: Iterate over each cell (<td>) in the current row
+      // Step 3: Iterate over each cell (<td>) in the current row
       Array.from(row.children).forEach((cell, index) => {
         // If a header exists for this cell's column, add it as a data-label attribute
         if (headers[index]) {
@@ -27,3 +22,4 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
 });
+

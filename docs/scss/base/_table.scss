@@ -60,33 +60,33 @@ $th-padding: $paddingScale * 1.4;
 
   // Responsive behaviour for smaller screens
   @media screen and (max-width: 768px) {
-    table.responsive {
+    table {
       display: block; // Responsive layout
     }
   
-    table.responsive thead {
+    thead {
       display: none; // Hide headers for responsive view
     }
   
-    table.responsive tbody tr {
+    tbody tr {
       display: block;
       width: 100%;
       margin-bottom: 16px; // Add spacing between rows
       padding: 12px;
     }
   
-    table.responsive td {
+    td {
       display: block;
       position: relative;
       padding: 12px 16px;
       border-bottom: none;
       text-align: left !important; // Force left alignment
       word-wrap: break-word; // Break long text to fit within container
-      overflow-wrap: break-word;
-      white-space: normal;
+      overflow-wrap: break-word; // Ensure content wraps nicely
+      white-space: normal; // Allow wrapping for long text
     }
   
-    table.responsive td::before {
+    td::before {
       content: attr(data-label);
       font-weight: bold; // Keep labels bold
       margin-right: 8px;
