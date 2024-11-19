@@ -594,43 +594,6 @@
 /*------------------------------------------------------- 
     Tables
 --------------------------------------------------------*/
-.md-typeset {
-  /*
-      // Responsive behaviour for smaller screens
-      @media screen and (max-width: 768px) {
-          table {
-            display: block; // Responsive layout
-          }
-
-          thead {
-            display: none; // Hide headers for responsive view
-          }
-
-          tbody tr {
-            display: block;
-            width: 100%;
-            margin-bottom: 16px; // Add spacing between rows
-            padding: 12px; // Optional: Add padding inside rows
-          }
-
-          td {
-            display: block;
-            position: relative;
-            padding: 12px 16px;
-            border-bottom: none;
-            text-align: left !important; // Force left alignment
-          }
-
-          td::before {
-            content: attr(data-label);
-            font-weight: bold; // Keep labels bold
-            margin-right: 8px;
-            display: inline-block;
-            text-transform: capitalize;
-          }
-        }
-           */
-}
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
   padding: 0.4375em 1em;
@@ -665,6 +628,39 @@
   margin-top: 0.2rem;
   display: table;
   border-color: transparent;
+}
+@media screen and (max-width: 768px) {
+  .md-typeset table {
+    display: block;
+  }
+  .md-typeset thead {
+    display: none;
+  }
+  .md-typeset tbody tr {
+    display: block;
+    width: 100%;
+    margin-bottom: 12px;
+    padding: 8px;
+  }
+  .md-typeset td {
+    display: block;
+    position: relative;
+    padding: 8px 12px;
+    border-bottom: none;
+    text-align: left !important;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: normal;
+  }
+  .md-typeset td::before {
+    content: attr(data-label);
+    font-weight: bold;
+    margin-right: 8px;
+    display: inline-block;
+    text-transform: capitalize;
+    width: 100%;
+    margin-bottom: 4px;
+  }
 }
 
 /*------------------------------------------------------- 
