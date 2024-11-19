@@ -60,25 +60,25 @@ $th-padding: $paddingScale * 1.4;
 
   // Responsive behaviour for smaller screens
   @media screen and (max-width: 768px) {
-    table {
+    .responsive table {
       display: block; // Responsive layout
     }
   
-    thead {
+    .responsive thead {
       display: none; // Hide headers for responsive view
     }
   
-    tbody tr {
+    .responsive tbody tr {
       display: block;
       width: 100%;
-      margin-bottom: 16px; // Add spacing between rows
-      padding: 12px;
+      margin-bottom: convert.px2rem(8px); // Add spacing between rows
+      padding: convert.px2rem(6px);
     }
   
-    td {
+    .responsive td {
       display: block;
       position: relative;
-      padding: 12px 16px;
+      padding: convert.px2rem(6px), convert.px2rem(8px);
       border-bottom: none;
       text-align: left !important; // Force left alignment
       word-wrap: break-word; // Break long text to fit within container
@@ -86,14 +86,16 @@ $th-padding: $paddingScale * 1.4;
       white-space: normal; // Allow wrapping for long text
     }
   
-    td::before {
+    .responsive td::before {
       content: attr(data-label);
+      font-size: typeset.$defaultFontSize * 0.75;
+      color: var(--md-default-fg-color--light);
       font-weight: bold; // Keep labels bold
-      margin-right: 8px;
+      margin-right: convert.px2rem(8px);
       display: inline-block;
       text-transform: capitalize;
       width: 100%; // Ensure label takes up its own line
-      margin-bottom: 4px; // Add spacing between label and value
+      margin-bottom: convert.px2rem(4px); // Add spacing between label and value
     }
   }
   
