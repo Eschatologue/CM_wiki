@@ -46,12 +46,14 @@ $th-padding: $paddingScale * 1.4;
             background-color: transparent;
         }
 
-        // Responsive behaviour
-        @media screen and (max-width: 580px) {
-            display: block;
+       // Responsive behaviour only
+       & table:not([class]) {
+        // Responsive styling for smaller screens
+        @media screen and (max-width: 520px) {
+            display: block; // Transform table to block layout
 
             thead {
-                display: none; // Hide the table header on smaller screens
+                display: none; // Hide table header
             }
 
             tbody,
@@ -62,9 +64,9 @@ $th-padding: $paddingScale * 1.4;
 
             td {
                 display: flex;
-                justify-content: space-between;
+                align-items: left;
                 padding: convert.px2em($paddingScale * 0.8) convert.px2em($paddings * 0.8);
-                border-bottom: none; // Remove borders for mobile view
+                border-bottom: none; // Remove borders for a cleaner look
             }
 
             td:before {
@@ -77,9 +79,10 @@ $th-padding: $paddingScale * 1.4;
 
             tbody tr {
                 margin-bottom: convert.px2em($paddings * 0.5); // Add spacing between rows
-                background-color: rgba(255, 255, 255, 0.05); // Optional: Alternate background for mobile rows
+                background-color: rgba(255, 255, 255, 0.05); // Optional: Alternate row background for mobile view
             }
         }
+    }
 
     }
 
