@@ -41,17 +41,22 @@ You can use a :rsc-b: **Bonus Action** to take the **Attack** action using a Shi
 
 You specialise one weapon rather than many. Choose one Weapon or Firearm that you are Proficient with to be your Signature Weapon. When you make an attack with that type of weapon, you gain the following benefit:
 
+***Damage Die Increase.*** The weapon's damage die that is in the Original Damage Die column changes to the die in the Signature Damage Die column.
+
 ***Improved Attack Roll.*** When you make a weapon attack with the weapon, you can treat a roll equal to your Proficiency Bonus or lower on the d20 as your Proficiency Bonus.
 
-***Damage Die Increase.*** The weapon's damage or damage die increases by one size as shown on the Signature Weapon Die table below.
+***Mastery Property.*** The chosen weapon type can benefit from two different eligible [Mastery](../../../equipment/weapon/index.md#mastery-properties) property.
 
 ##### Signature Weapon Die
 
-| Orginal Damage Die |  | Signature Damage Die | Orginal Damage Die |  | Signature Damage Die |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | --> | 1d4 | 2d4 / 1d8 | --> | 1d10 |
-| 1d4 | --> | 1d6 | 1d10 | --> | 1d12 |
-| 1d6 | --> | 1d8 | 2d6 or 1d12 | --> | 2d6 / 1d12 + 1* |
+| Orginal Damage Die | Signature Damage Die |
+|---|---|
+| 1 | 1d4 |
+| 1d4 | 1d6 |
+| 1d6 | 1d8 |
+| 2d4 / 1d8 | 1d10 |
+| 1d10 | 1d12 |
+| 2d6 or 1d12 | 2d6 / 1d12 + 1* |
 
 You can change your Signature Weapon when you gain a level in a class that has this feat.
 

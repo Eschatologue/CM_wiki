@@ -10,86 +10,90 @@ $paddingScale: 7px;
 $th-padding: $paddingScale * 1.4;
 
 .md-typeset {
-    // Table without a class
-    & table:not([class]) {
-        th,
-        td {
-            padding: convert.px2em($paddingScale) convert.px2em($paddings);
-            min-width: convert.px2em(1px);
-        }
-
-        th {
-            font-size: typeset.$defaultFontSize * 0.9;
-            font-weight: bold !important;
-            text-transform: capitalize !important;
-            vertical-align: bottom;
-            color: var(--md-text-color);
-            border-bottom: convert.px2rem(3px) solid var(--md-primary-fg-color);
-            background-color: rgba(0, 0, 0, 0.5);
-            padding: convert.px2em($th-padding) convert.px2em($paddings);
-        }
-
-        td {
-            font-size: typeset.$defaultFontSize * 0.85;
-            border-bottom: rgba(255, 255, 255, 0.12);
-            background-color: rgba(255, 255, 255, 0.025);
-
-            // Bold text in <td> elements
-            b,
-            strong {
-                font-weight: typeset.$defaultFontWeight * 1.8;
-            }
-        }
-
-        // Hover effect for table rows
-        tbody tr:hover {
-            background-color: transparent;
-        }
+  // Table without a class
+  & table:not([class]) {
+    th,
+    td {
+      padding: convert.px2em($paddingScale) convert.px2em($paddings);
+      min-width: convert.px2em(1px);
     }
 
-    // BEM Element for tables within .md-typeset
-    &__table {
-        width: 100%;
-
-        table:not([class]) {
-            margin-top: convert.px2rem(4px);
-            display: table;
-            border-color: transparent;
-        }
+    th {
+      font-size: typeset.$defaultFontSize * 0.9;
+      font-weight: bold !important;
+      text-transform: capitalize !important;
+      vertical-align: bottom;
+      color: var(--md-text-color);
+      border-bottom: convert.px2rem(3px) solid var(--md-primary-fg-color);
+      background-color: rgba(0, 0, 0, 0.5);
+      padding: convert.px2em($th-padding) convert.px2em($paddings);
     }
-/*
-    // Responsive behaviour for smaller screens
-    @media screen and (max-width: 768px) {
-        table {
-          display: block; // Responsive layout
-        }
-      
-        thead {
-          display: none; // Hide headers for responsive view
-        }
-      
-        tbody tr {
-          display: block;
-          width: 100%;
-          margin-bottom: 16px; // Add spacing between rows
-          padding: 12px; // Optional: Add padding inside rows
-        }
-      
-        td {
-          display: block;
-          position: relative;
-          padding: 12px 16px;
-          border-bottom: none;
-          text-align: left !important; // Force left alignment
-        }
-      
-        td::before {
-          content: attr(data-label);
-          font-weight: bold; // Keep labels bold
-          margin-right: 8px;
-          display: inline-block;
-          text-transform: capitalize;
-        }
+
+    td {
+      font-size: typeset.$defaultFontSize * 0.85;
+      border-bottom: rgba(255, 255, 255, 0.12);
+      background-color: rgba(255, 255, 255, 0.025);
+
+      // Bold text in <td> elements
+      b,
+      strong {
+        font-weight: typeset.$defaultFontWeight * 1.8;
       }
-         */
+    }
+
+    // Hover effect for table rows
+    tbody tr:hover {
+      background-color: transparent;
+    }
+  }
+
+  // BEM Element for tables within .md-typeset
+  &__table {
+    width: 100%;
+
+    table:not([class]) {
+      margin-top: convert.px2rem(4px);
+      display: table;
+      border-color: transparent;
+    }
+  }
+
+  // Responsive behaviour for smaller screens
+  @media screen and (max-width: 768px) {
+    table {
+      display: block; // Responsive layout
+    }
+
+    thead {
+      display: none; // Hide headers for responsive view
+    }
+
+    tbody tr {
+      display: block;
+      width: 100%;
+      margin-bottom: 12px; // Add spacing between rows
+      padding: 8px;
+    }
+
+    td {
+      display: block;
+      position: relative;
+      padding: 8px 12px;
+      border-bottom: none;
+      text-align: left !important; // Force left alignment
+      word-wrap: break-word; // Break long text to fit within container
+      overflow-wrap: break-word; // Ensure content wraps nicely
+      white-space: normal; // Allow wrapping for long text
+    }
+
+    td::before {
+      content: attr(data-label);
+      font-weight: bold; // Keep labels bold
+      margin-right: 8px;
+      display: inline-block;
+      text-transform: capitalize;
+      width: 100%; // Ensure label takes up its own line
+      margin-bottom: 4px; // Add spacing between label and value
+    }
+  }
 }
