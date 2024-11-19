@@ -60,22 +60,22 @@ $th-padding: $paddingScale * 1.4;
 
   // Responsive behaviour for smaller screens
   @media screen and (max-width: 768px) {
-    .responsive table {
+    table {
       display: block; // Responsive layout
     }
   
-    .responsive thead {
+    thead {
       display: none; // Hide headers for responsive view
     }
   
-    .responsive tbody tr {
+    tbody tr {
       display: block;
       width: 100%;
       margin-bottom: convert.px2rem(8px); // Add spacing between rows
       padding: convert.px2rem(6px);
     }
   
-    .responsive td {
+    td {
       display: block;
       position: relative;
       padding: convert.px2rem(6px), convert.px2rem(8px);
@@ -86,7 +86,7 @@ $th-padding: $paddingScale * 1.4;
       white-space: normal; // Allow wrapping for long text
     }
   
-    .responsive td::before {
+    td::before {
       content: attr(data-label);
       font-size: typeset.$defaultFontSize * 0.75;
       color: var(--md-default-fg-color--light);

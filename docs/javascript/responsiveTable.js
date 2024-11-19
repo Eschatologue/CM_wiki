@@ -22,18 +22,3 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
 });
-
-// Add another DOMContentLoaded listener for handling table responsiveness
-document.addEventListener("DOMContentLoaded", () => {
-  // Select all tables on the page
-  document.querySelectorAll("table").forEach((table) => {
-    // Step 1: Count the number of columns (headers) in the table
-    const columnCount = table.querySelectorAll("thead th").length;
-
-    // Step 2: Check if the table has more than 4 columns
-    if (columnCount > 4) {
-      // If true, add the "responsive" class to the table
-      table.classList.add("responsive");
-    }
-  });
-});
