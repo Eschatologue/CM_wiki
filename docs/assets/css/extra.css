@@ -621,36 +621,6 @@
 .md-typeset table:not([class]) tbody tr:hover {
   background-color: transparent;
 }
-@media screen and (max-width: 520px) {
-  .md-typeset table:not([class]) table:not([class]) {
-    display: block;
-  }
-  .md-typeset table:not([class]) table:not([class]) thead {
-    display: none;
-  }
-  .md-typeset table:not([class]) table:not([class]) tbody,
-  .md-typeset table:not([class]) table:not([class]) tr {
-    display: block;
-    width: 100%;
-  }
-  .md-typeset table:not([class]) table:not([class]) td {
-    display: flex;
-    align-items: left;
-    padding: 0.35em 0.8em;
-    border-bottom: none;
-  }
-  .md-typeset table:not([class]) table:not([class]) td:before {
-    content: attr(data-title);
-    font-weight: bold;
-    color: var(--md-text-color-secondary);
-    margin-right: 0.21875em;
-    text-transform: capitalize;
-  }
-  .md-typeset table:not([class]) table:not([class]) tbody tr {
-    margin-bottom: 0.5em;
-    background-color: rgba(255, 255, 255, 0.05);
-  }
-}
 .md-typeset__table {
   width: 100%;
 }
@@ -658,6 +628,34 @@
   margin-top: 0.2rem;
   display: table;
   border-color: transparent;
+}
+@media screen and (max-width: 580px) {
+  .md-typeset table {
+    display: block;
+  }
+  .md-typeset thead {
+    display: none;
+  }
+  .md-typeset tbody,
+  .md-typeset tr {
+    display: block;
+    width: 100%;
+  }
+  .md-typeset td {
+    display: block;
+    position: relative;
+    padding: 12px 16px;
+    border-bottom: none;
+    text-align: left;
+  }
+  .md-typeset td::before {
+    content: attr(data-label);
+    font-weight: bold;
+    color: #969696;
+    margin-right: 8px;
+    display: inline-block;
+    text-transform: capitalize;
+  }
 }
 
 /*------------------------------------------------------- 
