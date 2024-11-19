@@ -91,7 +91,7 @@ $th-padding: $paddingScale * 1.4;
       font-size: typeset.$defaultFontSize * 0.75; // Reduce font size for labels
       color: var(--md-default-fg-color--light); // Lighter text for labels
       font-weight: bold; // Keep labels bold for clarity
-      margin-right: convert.px2rem(0); // Remove side margins for a clean line
+      margin-right: convert.px2rem(0px); // Remove side margins for a clean line
       display: block; // Force label to take its own line
       text-transform: capitalize; // Capitalise labels
       margin-bottom: convert.px2rem(4px); // Add spacing between label and value
