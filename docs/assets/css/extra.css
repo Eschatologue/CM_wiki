@@ -629,29 +629,33 @@
   display: table;
   border-color: transparent;
 }
-@media screen and (max-width: 580px) {
+@media screen and (max-width: 768px) {
   .md-typeset table {
     display: block;
   }
   .md-typeset thead {
     display: none;
   }
-  .md-typeset tbody,
-  .md-typeset tr {
+  .md-typeset tbody tr {
     display: block;
     width: 100%;
+    margin-bottom: 16px;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: rgba(0, 0, 0, 0.05);
   }
   .md-typeset td {
     display: block;
     position: relative;
     padding: 12px 16px;
     border-bottom: none;
-    text-align: left;
+    text-align: left !important;
   }
   .md-typeset td::before {
     content: attr(data-label);
     font-weight: bold;
-    color: #969696;
+    color: #333;
     margin-right: 8px;
     display: inline-block;
     text-transform: capitalize;
