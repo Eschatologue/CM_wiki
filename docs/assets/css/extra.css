@@ -621,32 +621,32 @@
 .md-typeset table:not([class]) tbody tr:hover {
   background-color: transparent;
 }
-@media screen and (max-width: 580px) {
-  .md-typeset table:not([class]) {
+@media screen and (max-width: 520px) {
+  .md-typeset table:not([class]) table:not([class]) {
     display: block;
   }
-  .md-typeset table:not([class]) thead {
+  .md-typeset table:not([class]) table:not([class]) thead {
     display: none;
   }
-  .md-typeset table:not([class]) tbody,
-  .md-typeset table:not([class]) tr {
+  .md-typeset table:not([class]) table:not([class]) tbody,
+  .md-typeset table:not([class]) table:not([class]) tr {
     display: block;
     width: 100%;
   }
-  .md-typeset table:not([class]) td {
+  .md-typeset table:not([class]) table:not([class]) td {
     display: flex;
-    justify-content: space-between;
+    align-items: left;
     padding: 0.35em 0.8em;
     border-bottom: none;
   }
-  .md-typeset table:not([class]) td:before {
+  .md-typeset table:not([class]) table:not([class]) td:before {
     content: attr(data-title);
     font-weight: bold;
     color: var(--md-text-color-secondary);
     margin-right: 0.21875em;
     text-transform: capitalize;
   }
-  .md-typeset table:not([class]) tbody tr {
+  .md-typeset table:not([class]) table:not([class]) tbody tr {
     margin-bottom: 0.5em;
     background-color: rgba(255, 255, 255, 0.05);
   }
