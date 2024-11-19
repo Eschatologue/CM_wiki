@@ -73,8 +73,6 @@ $th-padding: $paddingScale * 1.4;
           width: 100%;
           margin-bottom: 16px; // Add spacing between rows
           padding: 12px; // Optional: Add padding inside rows
-          border: 1px solid #ccc; // Optional: Add a subtle border around rows
-          border-radius: 8px; // Optional: Round row corners
           background-color: rgba(0, 0, 0, 0.05); // Optional: Light background for rows
         }
       
@@ -89,7 +87,6 @@ $th-padding: $paddingScale * 1.4;
         td::before {
           content: attr(data-label);
           font-weight: bold; // Keep labels bold
-          color: #333; // Adjust label colour
           margin-right: 8px;
           display: inline-block;
           text-transform: capitalize;
