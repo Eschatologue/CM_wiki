@@ -630,19 +630,19 @@
   border-color: transparent;
 }
 @media screen and (max-width: 768px) {
-  .md-typeset .responsive table {
+  .md-typeset table {
     display: block;
   }
-  .md-typeset .responsive thead {
+  .md-typeset thead {
     display: none;
   }
-  .md-typeset .responsive tbody tr {
+  .md-typeset tbody tr {
     display: block;
     width: 100%;
     margin-bottom: 0.4rem;
     padding: 0.3rem;
   }
-  .md-typeset .responsive td {
+  .md-typeset td {
     display: block;
     position: relative;
     padding: 0.3rem, 0.4rem;
@@ -652,7 +652,7 @@
     overflow-wrap: break-word;
     white-space: normal;
   }
-  .md-typeset .responsive td::before {
+  .md-typeset td::before {
     content: attr(data-label);
     font-size: 0.525rem;
     color: var(--md-default-fg-color--light);
