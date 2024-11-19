@@ -57,7 +57,7 @@ $th-padding: $paddingScale * 1.4;
             border-color: transparent;
         }
     }
-
+/*
     // Responsive behaviour for smaller screens
     @media screen and (max-width: 768px) {
         table {
@@ -73,7 +73,6 @@ $th-padding: $paddingScale * 1.4;
           width: 100%;
           margin-bottom: 16px; // Add spacing between rows
           padding: 12px; // Optional: Add padding inside rows
-          background-color: rgba(0, 0, 0, 0.05); // Optional: Light background for rows
         }
       
         td {
@@ -92,5 +91,5 @@ $th-padding: $paddingScale * 1.4;
           text-transform: capitalize;
         }
       }
-         
+         */
 }
