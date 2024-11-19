@@ -39,28 +39,30 @@ Similarly, the Warlock's Thirsting Blade invocation, which grants you the Extra 
 ***Spellcasting.*** Your capacity for spellcasting depends partly on your combined levels in all your spellcasting classes and partly on your individual levels in those classes. Once you have the Spellcasting feature from more than one class, use the rules below. If you multiclass but have the Spellcasting feature from only one class, follow the rules for that class.
 
 ##### Multiclass Spellcaster: Spell Slots per Spell Level
-| Lvl | I | **II** | **III** | **IV** | **V** | **VI** | **VII** | **VIII** | **IX** |
-|:-----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|   1   |  2  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
-|   2   |  3  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
-|   3   |  4  |  2  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
-|   4   |  4  |  3  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
-|   5   |  4  |  3  |  2  |  —  |  —  |  —  |  —  |  —  |  —  |
-|   6   |  4  |  3  |  3  |  —  |  —  |  —  |  —  |  —  |  —  |
-|   7   |  4  |  3  |  3  |  1  |  —  |  —  |  —  |  —  |  —  |
-|   8   |  4  |  3  |  3  |  2  |  —  |  —  |  —  |  —  |  —  |
-|   9   |  4  |  3  |  3  |  3  |  1  |  —  |  —  |  —  |  —  |
-|   10  |  4  |  3  |  3  |  3  |  2  |  —  |  —  |  —  |  —  |
-|   11  |  4  |  3  |  3  |  3  |  2  |  1  |  —  |  —  |  —  |
-|   12  |  4  |  3  |  3  |  3  |  2  |  1  |  —  |  —  |  —  |
-|   13  |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  —  |  —  |
-|   14  |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  —  |  —  |
-|   15  |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  —  |
-|   16  |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  —  |
-|   17  |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  1  |
-|   18  |  4  |  3  |  3  |  3  |  3  |  1  |  1  |  1  |  1  |
-|   19  |  4  |  3  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |
-|   20  |  4  |  3  |  3  |  3  |  3  |  2  |  2  |  1  |  1  |
+
+| Total Chr. Level | I | II | III | IV | V | VI | VII | VIII | IX |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1 | 2 | — | — | — | — | — | — | — | — |
+| 2 | 3 | — | — | — | — | — | — | — | — |
+| 3 | 4 | 2 | — | — | — | — | — | — | — |
+| 4 | 4 | 3 | — | — | — | — | — | — | — |
+| 5 | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6 | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7 | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+
 
 ***Spells Prepared.*** You determine what spells you can prepare for each class individually, as if you were a single-classed member of that class. If you are a level 4 Ranger / level 3 Sorcerer, for example, you can prepare five level 1 Ranger spells, and you can prepare six Sorcerer spells of level 1 or 2 (as well as four Sorcerer cantrips).
 

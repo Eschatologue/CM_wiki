@@ -59,42 +59,43 @@ $th-padding: $paddingScale * 1.4;
   }
 
   // Responsive behaviour for smaller screens
-  @media screen and (max-width: 768px) {
-    table.responsive {
-      display: block; // Apply responsive layout
-    }
+}
 
-    table.responsive thead {
-      display: none; // Hide table headers for responsive view
-    }
+@media screen and (max-width: 768px) {
+  table.responsive {
+    display: block; // Apply responsive layout
+  }
 
-    table.responsive tbody tr {
-      display: block;
-      width: 100%;
-      margin-bottom: convert.px2rem(8px); // Spacing between rows
-      padding: convert.px2rem(6px); // Padding inside rows
-    }
+  table.responsive thead {
+    display: none; // Hide table headers for responsive view
+  }
 
-    table.responsive td {
-      display: block;
-      position: relative;
-      padding: convert.px2rem(6px) convert.px2rem(8px); // Padding within cells
-      border-bottom: none; // Remove bottom border for rows
-      text-align: left !important; // Force left alignment
-      word-wrap: break-word; // Ensure text wraps within cell
-      overflow-wrap: break-word; // Break long words as needed
-      white-space: normal; // Allow wrapping for long text
-    }
+  table.responsive tbody tr {
+    display: block;
+    width: 100%;
+    margin-bottom: convert.px2rem(8px); // Spacing between rows
+    padding: convert.px2rem(6px); // Padding inside rows
+  }
 
-    table.responsive td::before {
-      content: attr(data-label); // Display column label
-      font-size: typeset.$defaultFontSize * 0.75; // Reduce font size for labels
-      color: var(--md-default-fg-color--light); // Lighter text for labels
-      font-weight: bold; // Keep labels bold for clarity
-      margin-right: convert.px2rem(0px); // Remove side margins for a clean line
-      display: block; // Force label to take its own line
-      text-transform: capitalize; // Capitalise labels
-      margin-bottom: convert.px2rem(4px); // Add spacing between label and value
-    }
+  table.responsive td {
+    display: block;
+    position: relative;
+    padding: convert.px2rem(6px) convert.px2rem(8px); // Padding within cells
+    border-bottom: none; // Remove bottom border for rows
+    text-align: left !important; // Force left alignment
+    word-wrap: break-word; // Ensure text wraps within cell
+    overflow-wrap: break-word; // Break long words as needed
+    white-space: normal; // Allow wrapping for long text
+  }
+
+  table.responsive td::before {
+    content: attr(data-label); // Display column label
+    font-size: typeset.$defaultFontSize * 0.75; // Reduce font size for labels
+    color: var(--md-default-fg-color--light); // Lighter text for labels
+    font-weight: bold; // Keep labels bold for clarity
+    margin-right: convert.px2rem(0px); // Remove side margins for a clean line
+    display: block; // Force label to take its own line
+    text-transform: capitalize; // Capitalise labels
+    margin-bottom: convert.px2rem(4px); // Add spacing between label and value
   }
 }
