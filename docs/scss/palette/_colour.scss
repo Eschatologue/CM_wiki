@@ -62,5 +62,9 @@ $defaultHue: 215;
         /* Link and Secondary Colours */
         --md-primary-bg-color: var(--md-default-bg-color);
         --md-primary-bg-color-light: var(--md-default-bg-color--light);
+
+        /* Table Colour */
+        --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
+        --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
     }
 }

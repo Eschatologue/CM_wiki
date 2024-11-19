@@ -51,7 +51,7 @@ As a Paladin, you gain the following class features when you reach the specified
 
 ##### Paladin Features
 
-| Paladin Level | PB | Class Feature | Channel Divinity | Spell Prepared | I | II | III | IV | V |
+| Level | PB | Class Feature | Channel Divinity | Spell Prepared | I | II | III | IV | V |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | +2 | Lay On Hands, Spellcasting, Weapon Mastery | — | 2 | 2 | — | — | — | — |
 | 2 | +2 | Fighting Style, Paladin's Smite | — | 3 | 2 | — | — | — | — |

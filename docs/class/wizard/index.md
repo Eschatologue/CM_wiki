@@ -48,7 +48,7 @@ As a Wizard, you gain the following class features when you reach the specified 
 
 ##### Wizard Features
 
-| Wizard Level | PB | Class Feature | Cantrips | Spells Prepared | I | II | III | IV | V | VI | VII | VIII | IX |
+| Level | PB | Class Feature | Cantrips | Spells Prepared | I | II | III | IV | V | VI | VII | VIII | IX |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | +2 | Spellcasting, Ritual Adept, Arcane Recovery | 3 | 4 | 2 | — | — | — | — | — | — | — | — |
 | 2 | +2 | Scholar | 3 | 5 | 3 | — | — | — | — | — | — | — | — |

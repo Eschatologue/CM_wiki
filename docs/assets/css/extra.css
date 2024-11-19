@@ -39,6 +39,9 @@
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
+  /* Table Colour */
+  --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
+  --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=pink] {
@@ -63,6 +66,9 @@
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
+  /* Table Colour */
+  --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
+  --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=purple] {
@@ -87,6 +93,9 @@
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
+  /* Table Colour */
+  --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
+  --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=deep-purple] {
@@ -111,6 +120,9 @@
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
+  /* Table Colour */
+  --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
+  --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=blue] {
@@ -135,6 +147,9 @@
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
+  /* Table Colour */
+  --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
+  --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=indigo] {
@@ -159,6 +174,9 @@
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
+  /* Table Colour */
+  --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
+  --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=light-blue] {
@@ -183,6 +201,9 @@
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
+  /* Table Colour */
+  --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
+  --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=cyan] {
@@ -207,6 +228,9 @@
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
+  /* Table Colour */
+  --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
+  --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=teal] {
@@ -231,6 +255,9 @@
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
+  /* Table Colour */
+  --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
+  --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=green] {
@@ -255,6 +282,9 @@
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
+  /* Table Colour */
+  --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
+  --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=light-green] {
@@ -279,6 +309,9 @@
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
+  /* Table Colour */
+  --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
+  --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=lime] {
@@ -303,6 +336,9 @@
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
+  /* Table Colour */
+  --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
+  --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=yellow] {
@@ -327,6 +363,9 @@
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
+  /* Table Colour */
+  --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
+  --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=amber] {
@@ -351,6 +390,9 @@
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
+  /* Table Colour */
+  --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
+  --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=orange] {
@@ -375,6 +417,9 @@
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
+  /* Table Colour */
+  --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
+  --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=deep-orange] {
@@ -399,6 +444,9 @@
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
+  /* Table Colour */
+  --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
+  --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
 }
 
 /*------------------------------------------------------- 
@@ -594,6 +642,10 @@
 /*------------------------------------------------------- 
     Tables
 --------------------------------------------------------*/
+.md-typeset table:not([class]) {
+  /* Reset hover effect */
+  /* Preserve striped rows */
+}
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
   padding: 0.4375em 1em;
@@ -606,64 +658,78 @@
   vertical-align: bottom;
   color: var(--md-text-color);
   border-bottom: 0.15rem solid var(--md-primary-fg-color);
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: var(--md-mod-table-color--darkest);
   padding: 0.6125em 1em;
 }
 .md-typeset table:not([class]) td {
   font-size: 0.595rem;
-  border-bottom: rgba(255, 255, 255, 0.12);
-  background-color: rgba(255, 255, 255, 0.025);
+  border: 0rem transparent !important;
 }
 .md-typeset table:not([class]) td b,
 .md-typeset table:not([class]) td strong {
   font-weight: 540;
 }
-.md-typeset table:not([class]) tbody tr:hover {
-  background-color: transparent;
+.md-typeset table:not([class]) table tr:hover {
+  background-color: inherit !important; /* Ensures no change on hover */
+}
+.md-typeset table:not([class]) tr:nth-child(odd) {
+  background-color: transparent !important; /* Adjust to match your striped colour */
+}
+.md-typeset table:not([class]) tr:nth-child(even) {
+  background-color: var(--md-mod-table-color--light) !important;
 }
 .md-typeset__table {
   width: 100%;
 }
 .md-typeset__table table:not([class]) {
+  box-shadow: var(--md-shadow-z2);
   margin-top: 0.2rem;
   display: table;
-  border-color: transparent;
+  border-color: transparent !important;
 }
 
+/*
+
 @media screen and (max-width: 768px) {
-  table.responsive {
-    display: block;
-  }
-  table.responsive thead {
-    display: none;
-  }
-  table.responsive tbody tr {
-    display: block;
-    width: 100%;
-    margin-bottom: 0.4rem;
-    padding: 0.3rem;
-  }
-  table.responsive td {
-    display: block;
-    position: relative;
-    padding: 0.3rem 0.4rem;
-    border-bottom: none;
-    text-align: left !important;
-    word-wrap: break-word;
-    overflow-wrap: break-word;
-    white-space: normal;
-  }
-  table.responsive td::before {
-    content: attr(data-label);
-    font-size: 0.525rem;
-    color: var(--md-default-fg-color--light);
-    font-weight: bold;
-    margin-right: 0rem;
-    display: block;
-    text-transform: capitalize;
-    margin-bottom: 0.2rem;
-  }
+    table {
+        display: block;
+    }
+
+    table thead {
+        display: none;
+    }
+
+    table tbody tr {
+        display: block;
+        width: 100%;
+        margin-bottom: convert.px2rem(8px);
+        padding: convert.px2rem(6px);
+    }
+
+    table td {
+        display: block;
+        position: relative;
+        padding: convert.px2rem(5px) convert.px2rem(5px);
+        text-align: left !important; 
+        word-wrap: break-word; 
+        overflow-wrap: break-word;
+        white-space: normal; 
+        border: none !important;
+    }
+
+    table td::before {
+        display: block;
+        content: attr(data-label);
+        font-size: typeset.$defaultFontSize * 0.7 !important;
+        text-transform: uppercase !important;
+        color: var(--md-default-fg-color--light);
+        font-weight: bold;
+        margin-right: convert.px2rem(0px);
+        margin-bottom: convert.px2rem(4px);
+    }
 }
+
+    */
 /*------------------------------------------------------- 
     MKdocs Material theme edits
 --------------------------------------------------------*/

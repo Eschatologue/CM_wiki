@@ -10,92 +10,102 @@ $paddingScale: 7px;
 $th-padding: $paddingScale * 1.4;
 
 .md-typeset {
-  // Table without a class
-  & table:not([class]) {
-    th,
-    td {
-      padding: convert.px2em($paddingScale) convert.px2em($paddings);
-      min-width: convert.px2em(1px);
+    // Table without a class
+    & table:not([class]) {
+        th,
+        td {
+            padding: convert.px2em($paddingScale) convert.px2em($paddings);
+            min-width: convert.px2em(1px);
+        }
+
+        th {
+            font-size: typeset.$defaultFontSize * 0.9;
+            font-weight: bold !important;
+            text-transform: capitalize !important;
+            vertical-align: bottom;
+            color: var(--md-text-color);
+            border-bottom: convert.px2rem(3px) solid var(--md-primary-fg-color);
+            background-color: var(--md-mod-table-color--darkest);
+            padding: convert.px2em($th-padding) convert.px2em($paddings);
+        }
+
+        td {
+            font-size: typeset.$defaultFontSize * 0.85;
+            border: convert.px2rem(0px) transparent !important; // No Bottom Border
+
+            b,
+            strong {
+                font-weight: typeset.$defaultFontWeight * 1.8;
+            }
+        }
+
+        /* Reset hover effect */
+        table tr:hover {
+            background-color: inherit !important; /* Ensures no change on hover */
+        }
+
+        /* Preserve striped rows */
+        tr:nth-child(odd) {
+            background-color: transparent !important; /* Adjust to match your striped colour */
+        }
+        tr:nth-child(even) {
+            background-color: var(--md-mod-table-color--light) !important;
+        }
     }
 
-    th {
-      font-size: typeset.$defaultFontSize * 0.9;
-      font-weight: bold !important;
-      text-transform: capitalize !important;
-      vertical-align: bottom;
-      color: var(--md-text-color);
-      border-bottom: convert.px2rem(3px) solid var(--md-primary-fg-color);
-      background-color: rgba(0, 0, 0, 0.5);
-      padding: convert.px2em($th-padding) convert.px2em($paddings);
+    // BEM Element for tables within .md-typeset
+    &__table {
+        width: 100%;
+
+        table:not([class]) {
+            box-shadow: var(--md-shadow-z2);
+            margin-top: convert.px2rem(4px);
+            display: table;
+            border-color: transparent !important;
+        }
     }
 
-    td {
-      font-size: typeset.$defaultFontSize * 0.85;
-      border-bottom: rgba(255, 255, 255, 0.12);
-      background-color: rgba(255, 255, 255, 0.025);
-
-      // Bold text in <td> elements
-      b,
-      strong {
-        font-weight: typeset.$defaultFontWeight * 1.8;
-      }
-    }
-
-    // Hover effect for table rows
-    tbody tr:hover {
-      background-color: transparent;
-    }
-  }
-
-  // BEM Element for tables within .md-typeset
-  &__table {
-    width: 100%;
-
-    table:not([class]) {
-      margin-top: convert.px2rem(4px);
-      display: table;
-      border-color: transparent;
-    }
-  }
-
-  // Responsive behaviour for smaller screens
+    // Responsive behaviour for smaller screens
 }
+/*
 
 @media screen and (max-width: 768px) {
-  table.responsive {
-    display: block; // Apply responsive layout
-  }
+    table {
+        display: block;
+    }
 
-  table.responsive thead {
-    display: none; // Hide table headers for responsive view
-  }
+    table thead {
+        display: none;
+    }
 
-  table.responsive tbody tr {
-    display: block;
-    width: 100%;
-    margin-bottom: convert.px2rem(8px); // Spacing between rows
-    padding: convert.px2rem(6px); // Padding inside rows
-  }
+    table tbody tr {
+        display: block;
+        width: 100%;
+        margin-bottom: convert.px2rem(8px);
+        padding: convert.px2rem(6px);
+    }
 
-  table.responsive td {
-    display: block;
-    position: relative;
-    padding: convert.px2rem(6px) convert.px2rem(8px); // Padding within cells
-    border-bottom: none; // Remove bottom border for rows
-    text-align: left !important; // Force left alignment
-    word-wrap: break-word; // Ensure text wraps within cell
-    overflow-wrap: break-word; // Break long words as needed
-    white-space: normal; // Allow wrapping for long text
-  }
+    table td {
+        display: block;
+        position: relative;
+        padding: convert.px2rem(5px) convert.px2rem(5px);
+        text-align: left !important; 
+        word-wrap: break-word; 
+        overflow-wrap: break-word;
+        white-space: normal; 
+        border: none !important;
+    }
 
-  table.responsive td::before {
-    content: attr(data-label); // Display column label
-    font-size: typeset.$defaultFontSize * 0.75; // Reduce font size for labels
-    color: var(--md-default-fg-color--light); // Lighter text for labels
-    font-weight: bold; // Keep labels bold for clarity
-    margin-right: convert.px2rem(0px); // Remove side margins for a clean line
-    display: block; // Force label to take its own line
-    text-transform: capitalize; // Capitalise labels
-    margin-bottom: convert.px2rem(4px); // Add spacing between label and value
-  }
+    table td::before {
+        display: block;
+        content: attr(data-label);
+        font-size: typeset.$defaultFontSize * 0.7 !important;
+        text-transform: uppercase !important;
+        color: var(--md-default-fg-color--light);
+        font-weight: bold;
+        margin-right: convert.px2rem(0px);
+        margin-bottom: convert.px2rem(4px);
+    }
 }
+
+    */

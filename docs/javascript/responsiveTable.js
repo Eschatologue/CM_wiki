@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
 });
-
+/*
 // Wait for the DOM to fully load before running the script
 document.addEventListener("DOMContentLoaded", () => {
   // Select all tables on the page
@@ -53,3 +53,4 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
 });
+*/
