@@ -45,45 +45,6 @@ $th-padding: $paddingScale * 1.4;
         tbody tr:hover {
             background-color: transparent;
         }
-
-       // Responsive behaviour only
-       & table:not([class]) {
-        // Responsive styling for smaller screens
-        @media screen and (max-width: 520px) {
-            display: block; // Transform table to block layout
-
-            thead {
-                display: none; // Hide table header
-            }
-
-            tbody,
-            tr {
-                display: block;
-                width: 100%;
-            }
-
-            td {
-                display: flex;
-                align-items: left;
-                padding: convert.px2em($paddingScale * 0.8) convert.px2em($paddings * 0.8);
-                border-bottom: none; // Remove borders for a cleaner look
-            }
-
-            td:before {
-                content: attr(data-title); // Use `data-title` for labels
-                font-weight: bold;
-                color: var(--md-text-color-secondary);
-                margin-right: convert.px2em($paddingScale * 0.5);
-                text-transform: capitalize;
-            }
-
-            tbody tr {
-                margin-bottom: convert.px2em($paddings * 0.5); // Add spacing between rows
-                background-color: rgba(255, 255, 255, 0.05); // Optional: Alternate row background for mobile view
-            }
-        }
-    }
-
     }
 
     // BEM Element for tables within .md-typeset
@@ -96,4 +57,38 @@ $th-padding: $paddingScale * 1.4;
             border-color: transparent;
         }
     }
+
+    // Responsive behaviour for smaller screens
+    @media screen and (max-width: 580px) {
+        table {
+          display: block; // Convert table to block layout
+        }
+      
+        thead {
+          display: none; // Hide headers
+        }
+      
+        tbody,
+        tr {
+          display: block;
+          width: 100%;
+        }
+      
+        td {
+          display: block;
+          position: relative;
+          padding: 12px 16px; // Adjust padding for mobile
+          border-bottom: none;
+          text-align: left;
+        }
+      
+        td::before {
+          content: attr(data-label); // Use the dynamically added data-label attribute
+          font-weight: bold;
+          color: #969696; // Adjust label colour
+          margin-right: 8px; // Add spacing
+          display: inline-block;
+          text-transform: capitalize;
+        }
+      }      
 }

@@ -47,6 +47,11 @@ extra:
     homebrew: Homebrew material
     adapted: Adapted to PHB'24
 
+## JS
+
+extra_javascript:
+  - javascript/responsiveTable.js
+
 # Markdown Extentions
 markdown_extensions:
   - abbr
