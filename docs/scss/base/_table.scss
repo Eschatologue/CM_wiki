@@ -45,6 +45,42 @@ $th-padding: $paddingScale * 1.4;
         tbody tr:hover {
             background-color: transparent;
         }
+
+        // Responsive behaviour
+        @media screen and (max-width: 580px) {
+            display: block;
+
+            thead {
+                display: none; // Hide the table header on smaller screens
+            }
+
+            tbody,
+            tr {
+                display: block;
+                width: 100%;
+            }
+
+            td {
+                display: flex;
+                justify-content: space-between;
+                padding: convert.px2em($paddingScale * 0.8) convert.px2em($paddings * 0.8);
+                border-bottom: none; // Remove borders for mobile view
+            }
+
+            td:before {
+                content: attr(data-title); // Use `data-title` for labels
+                font-weight: bold;
+                color: var(--md-text-color-secondary);
+                margin-right: convert.px2em($paddingScale * 0.5);
+                text-transform: capitalize;
+            }
+
+            tbody tr {
+                margin-bottom: convert.px2em($paddings * 0.5); // Add spacing between rows
+                background-color: rgba(255, 255, 255, 0.05); // Optional: Alternate background for mobile rows
+            }
+        }
+
     }
 
     // BEM Element for tables within .md-typeset
