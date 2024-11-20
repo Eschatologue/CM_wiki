@@ -7,13 +7,9 @@ status: homebrew
 
 > "A good blade's worth more than any fire-spitter. A gun's only as strong as its powder and steel, but a sword or an axe? Aye, that's as strong as the arm that swings it—and there's no arm stronger than a dwarf's!" - *A Dwarven Blacksmith*
 
-Firearms are uncommon and challenging to use in Antares, often considered impractical and requiring specific prerequisites and maintenance. Other weapons like bows, crossbows, or arcane staves are easier to use and cheaper, while cold steel weapons are much stronger.
+Firearms are uncommon and challenging to use in Antares, often considered impractical and requiring specific prerequisites and maintenance. Other weapons like bows, crossbows, or arcane staves are easier to use and cheaper, while melee weapons are much stronger.
 
 **Gun weapons**, shortened as **guns** and often referred to as **firearms**, are unique mid-range to long-range weapons that use a special explosive charge known as '**cordite**' to propel projectiles over long distances. These weapons were brought over by the Londoners and are used exclusively by their people.
-
-## Firearm Rule
-
-Firearms are considered ranged weapons for the purposes of effects, abilities, feats, and spells that refer to weapons unless a restriction or limitation explicitly prevents their use. If an ability or spell refers to “ranged weapons” or simply “weapons,” firearms are included unless stated otherwise. However, if an ability specifies melee or non-ranged weapons, firearms do not apply
 
 ## Firearm Table
 
@@ -24,6 +20,8 @@ The Firearm tables in this section shows the game's main weapons. These table li
 ***Damage.*** The table lists the amount of damage a weapon deals when an attacker hits with it as well as the type of that damage.
 
 ***Properties.*** Any properties a weapon has are listed in the Properties column. Each property is defined in the [Properties](index.md#weapon-properties) section.
+
+***Category.*** Firearms are considered ranged weapons for the purposes of effects, abilities, feats, and spells that refer to weapons unless a restriction or limitation explicitly prevents their use. If an ability or spell refers to “ranged weapons” or simply “weapons,” firearms are included unless stated otherwise.
 
 ### Short-Arm
 
@@ -75,9 +73,9 @@ Advanced Firearms Table include rocket launchers, flamethrowers, machine guns, a
 
 ## Firearm Proficiency
 
-In Antares, firearms are known but not commonly used. Many find them impractical compared to magic or cold weapons like swords, hammers, or bows, which are generally stronger in the hands of skilled users. Consequently, proficiency in firearms is not automatic, even for those experienced with other weapons.
+In Antares, arcane staves are common, while firearms are rare due to their reliance on *Cordite*, a substance rendered inert near creatures attuned to the Weave. This includes all Antares races except Londoners. 
 
-To wield firearms effectively, characters must undergo specialized training. Even creatures proficient with martial weapons need to train to use firearms.
+Using firearms requires suppressing one’s connection to the Weave, a difficult skill that few pursue, as traditional ranged weapons like bows are more practical for most.
 
 ### Basic Understanding
 
