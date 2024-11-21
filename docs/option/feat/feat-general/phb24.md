@@ -6,8 +6,6 @@ title: PHB'24 General Feat
 
 These General feats are included in the PHB'24
 
----
-
 ### Ability Scores Improvement
 
 *General Feat (Prerequisite: Level 4+)*

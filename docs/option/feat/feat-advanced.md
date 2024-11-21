@@ -7,8 +7,6 @@ status: homebrew
 
 These feats are in the Advanced Feats category.
 
----
-
 ### Ambidexterous
 
 *Advanced Feat (Prerequisites: Level 8+, Strength or Dexterity 15+, [Two-weapon Fighting](./feat-fighting-style/phb24.md#two-weapon-fighting) feat)*

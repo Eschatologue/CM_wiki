@@ -1,5 +1,5 @@
 ---
-title: Path of the Ruffian
+title: Path of the Ruffian (Barbarian Subclass)
 status: homebrew
 ---
 

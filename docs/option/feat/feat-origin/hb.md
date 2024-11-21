@@ -7,8 +7,6 @@ status: homebrew
 
 These Origin feats are made for Crown & Misery campaign.
 
----
-
 ### Artifice Initiate
 
 *Origin Feat (Prerequisites: Intelligence 13+)*

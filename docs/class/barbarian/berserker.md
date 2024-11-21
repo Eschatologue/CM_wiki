@@ -1,5 +1,5 @@
 ---
-title: Path of the Berserker
+title: Path of the Berserker (Barbarian)
 ---
 
 # Path of the Berserker

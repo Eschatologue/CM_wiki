@@ -2,8 +2,6 @@
 
 These feat are included within PHB'24.
 
----
-
 ### Archery
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*

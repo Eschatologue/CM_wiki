@@ -1,5 +1,5 @@
 ---
-title: Path of the Giant
+title: Path of the Giant (Barbarian Subclass)
 status: adapted
 ---
 

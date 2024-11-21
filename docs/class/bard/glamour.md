@@ -2,7 +2,6 @@
 title: College of Glamour
 ---
 
-
 # College of Glamour
 
 > *Weave Beguiling Fey Magic*

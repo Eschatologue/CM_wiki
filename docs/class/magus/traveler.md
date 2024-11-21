@@ -63,7 +63,7 @@ As a Magic action, expend a level 3+ spell slot to conjure your **Future Self**,
 
 Your **Future Self** has your Hit Point Maximum, Ability Scores, and all features from your Species, Class, and other sources, including independent uses of [Temporal Shift], but shares your spell slots. It aids you independently to the best of its abilities.
 
-You can ask your **Future Self** one question about the future, answered per the *[Commune]* spell guidelines. The DM determines their knowledge, limited to what you may know in the future.
+You can ask your **Future Self** one question about the future, answered per the *[:spell-level-5: Commune]* spell guidelines. The DM determines their knowledge, limited to what you may know in the future.
 
 The duration of their stay depends on the spell slot used: level 3 (1 minute), level 4 (1 hour), or level 5 (8 hours). They return to their time when the duration ends or when reduced to 0 hit points.
 
@@ -73,13 +73,13 @@ Only one **Future Self** can exist at a time. Summoning a new one ends the previ
 
 *Your use of Chronomancy has caused you to become adrift in the flow of time, seeing and experiencing it radically different from those around you.*
 
-As a Magic action, you can cast a modified version of the *[Time Stop]* spell where you and your **Future Self** can both act, but you each only get one additional turn.
+As a Magic action, you can cast a modified version of the *[:spell-level-9: Time Stop]* spell where you and your **Future Self** can both act, but you each only get one additional turn.
 
-Once you use this feature you must finish a Long Rest before you can cast this modified version of *[Time Stop]* again. You can also restore your use of it by expending a level 5 spell slot (no action required).
+Once you use this feature you must finish a Long Rest before you can cast this modified version of *[:spell-level-9: Time Stop]* again. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 [Temporal Shift]: #level-3-temporal-shift 
 
-[Commune]: ../../spells/description/core/level-5.md#commune
-[Time Stop]: ../../spells/description/core/level-9.md#time-stop
+[:spell-level-5: Commune]: ../../spells/description/core/level-5.md#commune
+[:spell-level-9: Time Stop]: ../../spells/description/core/level-9.md#time-stop
 
 --8<--- "includes\snippets\skills.md"

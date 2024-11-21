@@ -10,7 +10,7 @@ Bards of the College of Debate view rhetoric as a weapon. They don't merely pers
 
 Your sharp retorts can disrupt and unnerve your opponents in the heat of battle. You gain the following benefits:
 
-***Debate Time.*** You have the *True Strike* and *Vicious Mockery* cantrips always prepared. You can choose to change their damage type to :dmg-psychic: Psychic damage whenever you cast them.
+***Debate Cantrip.*** You have the *True Strike* and *Vicious Mockery* cantrips always prepared. You can choose to change their damage type to :dmg-psychic: Psychic damage whenever you cast them.
 
 ***Seething Words.*** When you deal :dmg-psychic: Psychic damage from a spell or class feature, it ignores :dmg-res: Resistance. Creature that are immune to :dmg-psychic: Psychic damage still takes half damage. 
 

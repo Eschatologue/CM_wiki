@@ -2,8 +2,6 @@
 
 These Fighting Style Feature are homebrew.
 
----
-
 ### Gallian Swordplay
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*

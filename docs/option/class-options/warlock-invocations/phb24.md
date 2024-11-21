@@ -52,7 +52,7 @@ Stitching together strands of shadow, you conjure forth a book in your hand at t
 
 ### Agonizing Blast
 
-**Prerequisite:** Level 2+ Warlock, a Warlock Cantrip That Deals Damage
+***Prerequisite:** Level 2+ Warlock, a Warlock Cantrip That Deals Damage*
 
 Choose one of your known Warlock cantrips that deals damage. You can add your Spellcasting modifier to that spell's damage rolls.
 
@@ -62,7 +62,7 @@ Choose one of your known Warlock cantrips that deals damage. You can add your Sp
 
 ### Devil's Sight
 
-**Prerequisite:** Level 2+ Warlock
+***Prerequisite:** Level 2+ Warlock*
 
 You can see normally in Dim Light and Darkness—both magical and nonmagical—within 120 feet of yourself.
 
@@ -70,7 +70,7 @@ You can see normally in Dim Light and Darkness—both magical and nonmagical—w
 
 ### Eldritch Spear
 
-**Prerequisite:** Level 2+ Warlock, a Warlock Cantrip That Deals Damage
+***Prerequisite:** Level 2+ Warlock, a Warlock Cantrip That Deals Damage*
 
 Choose one of your known Warlock cantrips that deals damage and has a range of 10+ feet. When you cast that spell, its range increases by a number of feet equal to 30 times your Warlock level.
 
@@ -80,7 +80,7 @@ Choose one of your known Warlock cantrips that deals damage and has a range of 1
 
 ### Fiendish Vigor
 
-**Prerequisite:** Level 2+ Warlock
+***Prerequisite:** Level 2+ Warlock*
 
 You can cast *False Life* on yourself without expending a spell slot. When you cast the spell with this feature, you don't roll the die for the Temporary Hit Points; you automatically get the highest number on the die.
 
@@ -88,7 +88,7 @@ You can cast *False Life* on yourself without expending a spell slot. When you c
 
 ### Lessons of the First Ones
 
-**Prerequisite:** Level 2+ Warlock
+_**Prerequisite:** Level 2+ Warlock_
 
 You have received knowledge from an elder entity of the multiverse, allowing you to gain one Origin feat of your choice.
 
@@ -98,7 +98,7 @@ You have received knowledge from an elder entity of the multiverse, allowing you
 
 ### Mask of Many Faces
 
-**Prerequisite:** Level 2+ Warlock
+_**Prerequisite:** Level 2+ Warlock_
 
 You can cast *Disguise Self* without expending a spell slot.
 
@@ -106,7 +106,7 @@ You can cast *Disguise Self* without expending a spell slot.
 
 ### Misty Visions
 
-**Prerequisite:** Level 2+ Warlock
+_**Prerequisite:** Level 2+ Warlock_
 
 You can cast *Silent Image* without expending a spell slot.
 
@@ -114,7 +114,7 @@ You can cast *Silent Image* without expending a spell slot.
 
 ### Otherworldly Leap
 
-**Prerequisite:** Level 2+ Warlock
+_**Prerequisite:** Level 2+ Warlock_
 
 You can cast *Jump* on yourself without expending a spell slot.
 
@@ -122,7 +122,7 @@ You can cast *Jump* on yourself without expending a spell slot.
 
 ### Repelling Blast
 
-**Prerequisite:** Level 2+ Warlock, a Warlock Cantrip That Deals Damage via an Attack Roll
+_**Prerequisite:** Level 2+ Warlock, a Warlock Cantrip That Deals Damage via an Attack Roll_
 
 Choose one of your known Warlock cantrips that requires an attack roll. When you hit a Large or smaller creature with that cantrip, you can push the creature up to 10 feet straight away from you.
 
@@ -132,7 +132,7 @@ Choose one of your known Warlock cantrips that requires an attack roll. When you
 
 ### Ascendant Step
 
-**Prerequisite:** Level 5+ Warlock
+_**Prerequisite:** Level 5+ Warlock_
 
 You can cast *Levitate* on yourself without expending a spell slot.
 
@@ -140,7 +140,7 @@ You can cast *Levitate* on yourself without expending a spell slot.
 
 ### Eldritch Smite
 
-**Prerequisite:** Level 5+ Warlock, [Pact of the Blade](#pact-of-the-blade)
+_**Prerequisite:** Level 5+ Warlock, [Pact of the Blade](#pact-of-the-blade)_
 
 Once per turn when you hit a creature with your pact weapon, you can expend a Pact Magic spell slot to deal an extra 1d8 Force damage to the target, plus another 1d8 per level of the spell slot, and you can give the target the Prone condition if it is Huge or smaller.
 
@@ -148,7 +148,7 @@ Once per turn when you hit a creature with your pact weapon, you can expend a Pa
 
 ### Gaze of Two Minds
 
-**Prerequisite:** Level 5+ Warlock
+_**Prerequisite:** Level 5+ Warlock_
 
 You can use a Bonus Action to touch a willing creature and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can take a Bonus Action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. The connection ends if you don't maintain it in this way.
 
@@ -158,7 +158,7 @@ While perceiving through the other creature's senses, you benefit from any speci
 
 ### Gift of the Depths
 
-**Prerequisite:** Level 5+ Warlock
+_**Prerequisite:** Level 5+ Warlock_
 
 You can breathe underwater, and you gain a Swim Speed equal to your Speed.
 
@@ -168,7 +168,7 @@ You can also cast *Water Breathing* once without expending a spell slot. You reg
 
 ### Investment of the Chain Master
 
-**Prerequisite:** Level 5+ Warlock, [Pact of the Chain](#pact-of-the-chain)
+_**Prerequisite:** Level 5+ Warlock, [Pact of the Chain](#pact-of-the-chain)_
 
 When you cast *Find Familiar*, you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits.
 
@@ -186,7 +186,7 @@ When you cast *Find Familiar*, you infuse the summoned familiar with a measure o
 
 ### Master of Myriad Forms
 
-**Prerequisite:** Level 5+ Warlock
+_**Prerequisite:** Level 5+ Warlock_
 
 You can cast *Alter Self* without expending a spell slot.
 
@@ -194,7 +194,7 @@ You can cast *Alter Self* without expending a spell slot.
 
 ### One with Shadows
 
-**Prerequisite:** Level 5+ Warlock
+_**Prerequisite:** Level 5+ Warlock_
 
 While you're in an area of Dim Light or Darkness, you can cast *Invisibility* on yourself without expending a spell slot.
 
@@ -202,7 +202,7 @@ While you're in an area of Dim Light or Darkness, you can cast *Invisibility* on
 
 ### Thirsting Blade
 
-**Prerequisite:** Level 5+ Warlock, [Pact of the Blade](#pact-of-the-blade)
+_**Prerequisite:** Level 5+ Warlock, [Pact of the Blade](#pact-of-the-blade)_
 
 You gain the Extra Attack feature for your pact weapon only. With that feature, you can attack twice with the weapon instead of once when you take the Attack action on your turn.
 
@@ -210,7 +210,7 @@ You gain the Extra Attack feature for your pact weapon only. With that feature, 
 
 ### Whispers of the Grave
 
-**Prerequisite:** Level 7+ Warlock
+_**Prerequisite:** Level 7+ Warlock_
 
 You can cast *Speak with Dead* without expending a spell slot.
 
@@ -218,7 +218,7 @@ You can cast *Speak with Dead* without expending a spell slot.
 
 ### Gift of the Protectors
 
-**Prerequisite:** Level 9+ Warlock, [Pact of the Tome](#pact-of-the-tome)
+_**Prerequisite:** Level 9+ Warlock, [Pact of the Tome](#pact-of-the-tome)_
 
 A new page appears in your Book of Shadows when you conjure it. With your permission, a creature can take a Magic action to write its name on that page, which can contain a number of names equal to your Spellcasting modifier (minimum of one name).
 
@@ -230,7 +230,7 @@ As a Magic action, you can erase a name on the page by touching it.
 
 ### Lifedrinker
 
-**Prerequisite:** Level 9+ Warlock, [Pact of the Blade](#pact-of-the-blade)
+_**Prerequisite:** Level 9+ Warlock, [Pact of the Blade](#pact-of-the-blade)_
 
 Once per turn when you hit a creature with your pact weapon, you can deal an extra 1d6 Necrotic, Psychic, or Radiant damage (your choice) to the creature, and you can expend one of your Hit Point Dice to roll it and regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1 Hit Point).
 
@@ -238,7 +238,7 @@ Once per turn when you hit a creature with your pact weapon, you can deal an ext
 
 ### Visions of Distant Realms
 
-**Prerequisite:** Level 9+ Warlock
+_**Prerequisite:** Level 9+ Warlock_
 
 You can cast *Arcane Eye* without expending a spell slot.
 
@@ -246,7 +246,7 @@ You can cast *Arcane Eye* without expending a spell slot.
 
 ### Devouring Blade
 
-**Prerequisite:** Level 12+ Warlock, [Thirsting Blade](#thirsting-blade)
+_**Prerequisite:** Level 12+ Warlock, [Thirsting Blade](#thirsting-blade)_
 
 The Extra Attack of your Thirsting Blade invocation confers two extra attacks rather than one.
 
@@ -254,7 +254,7 @@ The Extra Attack of your Thirsting Blade invocation confers two extra attacks ra
 
 ### Witch Sight
 
-**Prerequisite:** Level 15+ Warlock
+_**Prerequisite:** Level 15+ Warlock_
 
 You have Truesight with a range of 30 feet.
 

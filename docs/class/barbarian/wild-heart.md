@@ -1,5 +1,5 @@
 ---
-title: Path of the Wild Heart
+title: Path of the Wild Heart (Barbarian)
 ---
 
 # Path of the Wild Heart

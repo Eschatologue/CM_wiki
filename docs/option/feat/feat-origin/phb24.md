@@ -6,8 +6,6 @@ title: PHB'24 Origin Feats
 
 These Origin feats are included in the PHB'24
 
----
-
 ### Alert
 
 *Origin Feat*

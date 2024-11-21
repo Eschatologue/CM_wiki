@@ -136,13 +136,11 @@ You roll an additional d8 when you reach certain Cleric levels: 7th level (2d8),
 
 As a Magic action, you present your Holy Symbol and speak a prayer censuring Undead creatures. Each Undead within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it has the Frightened and Incapacitated conditions for 1 minute. This effect ends early on the creature if it takes any damage, you have the Incapacitated condition, or you die.
 
-### Level 3: Ckeric Subclass
+### Level 3: Cleric Subclass
 
 You gain a Cleric subclass of your choice: 
 
-You gain a Cleric subclass of your choice.A subclass is a specialization that grants you features at certain Cleric levels. For the rest of your career, you gain each of your subclass's features that are of your Cleric level or lower
-
-A subclass is a specialization that grants you special abilities at certain Cleric levels. For the rest of your career, you gain each of your subclass's features that are of your Cleric level and lower.
+You gain a Cleric subclass of your choice. A subclass is a specialization that grants you features at certain Cleric levels. For the rest of your career, you gain each of your subclass's features that are of your Cleric level or lower
 
 ### Level 4: Ability Score Improvement
 
@@ -151,11 +149,8 @@ You gain the [Ability Score Improvement](../../option/feat/feat-general/phb24.md
 ### Level 5: Smite Undead
 
 You can cause your Turn Undead feature to smite the undying; whenever you use Turn Undead, you can roll a number of d8s equal to your Wisdom modifier (minimum of 1d8) and add the rolls together. Each Undead that fails its saving throw against that use of Turn Undead takes Radiant damage equal to the roll's total.
+
 This damage doesn't end the turn effect.
-
-### Level 6: Subclass Feature
-
-You gain a feature from your Cleric subclass.
 
 ### Level 7: Blesssed Strike
 

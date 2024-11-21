@@ -7,8 +7,6 @@ status: homebrew
 
 These General feats are homebrew.
 
----
-
 ### Battlecaster
 
 *General Feat (Prerequisite: Level 4+, Ability to cast a Spell)*

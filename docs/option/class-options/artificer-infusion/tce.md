@@ -6,7 +6,7 @@ Below are Artificer's Infusion available from Tasha's Cauldron of Everything.
 
 ### Armour of Magical Strength
 
-*Prerequisite: A suit of armour (requires attunement)*
+_**Prerequisite:** A suit of armour (requires attunement)_
 
 This armour has 6 charges. The wearer can expend the armour's charges in the following ways:
 
@@ -19,7 +19,7 @@ The armour regains 1d6 expended charges daily at dawn.
 
 ### Enhanced Arcane Focus
 
-*Prerequisite: A rod, staff, or wand (requires attunement)*
+_**Prerequisite:** A rod, staff, or wand (requires attunement)_
 
 While holding this item, a creature gains a +1 bonus to spell attack rolls. In addition, the creature ignores Half Cover when making a spell attack.
 
@@ -29,7 +29,7 @@ The bonus increases to +2 when you reach level 10 in this class.
 
 ### Enhanced Defense
 
-*Prerequisite: A suit of armour or a shield*
+_**Prerequisite:** A suit of armour or a shield_
 
 A creature gains a +1 bonus to Armour Class while wearing (armour) or wielding (shield) the infused item.
 
@@ -39,7 +39,7 @@ The bonus increases to +2 when you reach level 10 in this class.
 
 ### Enhanced Weapon
 
-*Prerequisite: A simple or martial weapon*
+_**Prerequisite:** A simple or martial weapon_
 
 This magic weapon grants a +1 bonus to attack and damage rolls made with it.
 
@@ -49,7 +49,7 @@ The bonus increases to +2 when you reach level 10 in this class.
 
 ### Homunculus Servant
 
-*Prerequisite: A gem or crystal worth at least 100 gp*
+_**Prerequisite:** A gem or crystal worth at least 100 gp_
 
 You learn intricate methods for magically creating a special **homunculus** that serves you. The item you infuse serves as the creature's heart, around which the creature's body instantly forms.
 
@@ -63,7 +63,7 @@ The homunculus regains 2d6 hit points if the *mending* spell is cast on it. If y
 
 ??? note "Homonculus Servant"
 
-    *Tiny Construct*
+    *Tiny Construct_
 
     **AC** 13 (natural armour)  
     **HP** 1 + your Intelligence modifier + your artificer level (the homunculus has a number of Hit Dice [d4s] equal to your artificer level)  
@@ -98,7 +98,7 @@ The homunculus regains 2d6 hit points if the *mending* spell is cast on it. If y
 
 ### Mind Sharpener
 
-*Prerequisite: A suit of armour or robes*
+_**Prerequisite:** A suit of armour or robes_
 
 The infused item can send a jolt to the wearer to refocus their mind. The item has 4 charges. When the wearer fails a Constitution saving throw to maintain concentration on a spell, the wearer can use its reaction to expend 1 of the item's charges to succeed instead. The item regains 1d4 expended charges daily at dawn.
 
@@ -106,7 +106,7 @@ The infused item can send a jolt to the wearer to refocus their mind. The item h
 
 ### Repeating Shot
 
-*Prerequisite: A Simple or Martial weapon with the :weapon-prop-ammunition: Ammunition property (requires attunement)*
+_**Prerequisite:** A Simple or Martial weapon with the :weapon-prop-ammunition: Ammunition property (requires attunement)_
 
 This magic weapon grants a +1 bonus to attack and damage rolls made with it when it's used to make a ranged attack, and it ignores the loading property if it has it.
 
@@ -197,7 +197,7 @@ In the tables, an item's entry tells you whether the item requires attunement. S
 
 ### Returning Weapon
 
-*Prerequisite: A Simple or Martial weapon with the :weapon-prop-thrown: Thrown property*
+_**Prerequisite:** A Simple or Martial weapon with the :weapon-prop-thrown: Thrown property_
 
 This magic weapon grants a +1 bonus to attack and damage rolls made with it, and it returns to the wielder's hand immediately after it is used to make a ranged attack.
 
@@ -205,7 +205,7 @@ This magic weapon grants a +1 bonus to attack and damage rolls made with it, and
 
 ### Boots of the Winding Path
 
-*Prerequisite: Level 6+, A pair of boots (requires attunement)*
+_**Prerequisite:** Level 6+, A pair of boots (requires attunement)_
 
 While wearing these boots, a creature can teleport up to 15 feet as a Bonus Action to an unoccupied space the creature can see. The creature must have occupied that space at some point during the current turn.
 
@@ -213,7 +213,7 @@ While wearing these boots, a creature can teleport up to 15 feet as a Bonus Acti
 
 ### Radiant Weapon
 
-*Prerequisite: Level 6+ ; A simple or martial weapon (requires attunement)*
+_**Prerequisite:** Level 6+ ; A simple or martial weapon (requires attunement)_
 
 This magic weapon grants a +1 bonus to attack and damage rolls made with it. While holding it, the wielder can take a Bonus Action to cause it to shed bright light in a 30-foot radius and dim light for an additional 30 feet. The wielder can extinguish the light as a Bonus Action.
 
@@ -221,7 +221,7 @@ The weapon has 4 charges. As a reaction immediately after being hit by an attack
 
 ### Repulsion Shield
 
-*Prerequisite: Level 6+, A shield (requires attunement)*
+_**Prerequisite:** Level 6+, A shield (requires attunement)_
 
 A creature gains a +1 bonus to Armour Class while wielding this shield.
 
@@ -231,7 +231,7 @@ The shield has 4 charges. While holding it, the wielder can use a reaction immed
 
 ### Resistant Armour
 
-*Prerequisite: Level 6+, A suit of armour (requires attunement)*
+_**Prerequisite:** Level 6+, A suit of armour (requires attunement)_
 
 While wearing this armour, a creature has resistance to one of the following damage types, which you choose when you infuse the item: Acid, Cold, Fire, Force, Lightning, Necrotic, Poison, Psychic, Radiant, or Thunder.
 
@@ -239,7 +239,7 @@ While wearing this armour, a creature has resistance to one of the following dam
 
 ### Spell-Refueling Ring
 
-*Prerequisite: Level 6+, A ring (requires attunement)*
+_**Prerequisite:** Level 6+, A ring (requires attunement)_
 
 While wearing this ring, the creature can recover one expended spell slot as an action. The recovered slot can be of 3rd level or lower. Once used, the ring can't be used again until the next dawn.
 
@@ -247,7 +247,7 @@ While wearing this ring, the creature can recover one expended spell slot as an 
 
 ### Helm of Awareness
 
-*Prerequisite: Level 10+, A helmet (requires attunement)*
+_**Prerequisite:** Level 10+, A helmet (requires attunement)_
 
 While wearing this helmet, a creature has advantage on initiative rolls. In addition, the wearer can't be surprised, provided it isn't incapacitated.
 
@@ -255,7 +255,7 @@ While wearing this helmet, a creature has advantage on initiative rolls. In addi
 
 ### Arcane Propulsion Armour
 
-*Prerequisite: Level 14+, A suit of armour (requires attunement)*
+_**Prerequisite:** Level 14+, A suit of armour (requires attunement)_
 
 The wearer of this armour gains these benefits:
 

@@ -1,5 +1,5 @@
 ---
-title: Path of the Zealot
+title: Path of the Zealot (Barbarian Subclass)
 ---
 
 # Path of the Zealot

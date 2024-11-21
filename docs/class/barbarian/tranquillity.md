@@ -1,5 +1,5 @@
 ---
-title: Path of Tranquilty
+title: 'Subclass: Path of Tranquilty (Barbarian)
 status: homebrew
 ---
 

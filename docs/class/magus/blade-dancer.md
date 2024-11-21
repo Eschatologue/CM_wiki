@@ -17,21 +17,13 @@ Your Order's style of combat is an art. You gain proficiency in Performance, and
 
 So long as you are not wearing Heavy armour or wielding a weapon with :weapon-prop-heavy: Heavy Property, you can use your Bonus Action to enter the trance known as the **Blade Dance**. This trance lasts for 1 minute, and while it is active, you gain the benefits below:
 
-***Speed Increase***
+***Speed Increase.*** Your Speed increases by 10 feet.
 
-:   Your Speed increases by 10 feet.
+***Bonus AC.***  You gain a +1 bonus to your Armour Class.
 
-***Bonus AC***
+***Improved Damage.*** Once per turn, when you roll damage for an attack or spell, you can roll the damage dice twice and use the higher result.
 
-:   You gain a +1 bonus to your Armour Class.
-
-***Improved Damage***
-
-:   Once per turn, when you roll damage for an attack or spell, you can roll the damage dice twice and use the higher result.
-
-***Bonus to Checks***
-
-:   You add your Intelligence modifier (minimum of +1) to all Strength (Athletics) and Dexterity (Acrobatics) checks
+***Bonus to Checks.*** You add your Intelligence modifier (minimum of +1) to all Strength (Athletics) and Dexterity (Acrobatics) checks
 
 Your Blade Dance ends if you have the Incapacitated condition, if you don Heavy armour or a weapon with :weapon-prop-heavy: Heavy Property, or if you end it (no action required). 
 
@@ -55,33 +47,21 @@ When you reach a Magus level specified in the Blade Dancer Spells table, you the
 
 Your Order's emphasis on fluidity and martial skill has honed your reflexes. You gain the following benefits:
 
-***Save Proficiencies***
+***Save Proficiencies.*** You gain proficiency in Dexterity saving throws 
 
-:   You gain proficiency in Dexterity saving throws 
+***Initiative Bonus.*** You add your Intelligence modifier to Initiative rolls.
 
-***Initiative Bonus***
-
-:   You add your Intelligence modifier to Initiative rolls.
-
-***Improved AC***
-
-:   Your [Blade Dance] Armour Class bonus becomes +2.
+***Improved AC.*** Your [Blade Dance] Armour Class bonus becomes +2.
 
 ### Level 15: Deadly Dance
 
 You have become an expert of the [Blade Dance], and while you are in this trance you gain the additional benefits below:
 
-***Uncanny Dodge***
+***Uncanny Dodge.*** Whenever you are forced to make a Dexterity saving throw to take half damage, you take no damage on a successful save, and only have damage on a failed save.
 
-:   Whenever you are forced to make a Dexterity saving throw to take half damage, you take no damage on a successful save, and only have damage on a failed save.
+***Improved Spellsunder.*** Whenever you use [Spellsunder], you add your Intelligence modifier (minimum of +1) to the attack roll you make.
 
-***Improved Spellsunder***
-
-:   Whenever you use [Spellsunder], you add your Intelligence modifier (minimum of +1) to the attack roll you make.
-
-***Improved AC***
-
-:   Your [Blade Dance] Armour Class bonus becomes +3.
+***Improved AC.*** Your [Blade Dance] Armour Class bonus becomes +3.
 
 ### Level 20: Master of Blades
 

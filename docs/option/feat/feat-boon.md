@@ -6,8 +6,6 @@ icon: material/cards-playing
 
 These feats are in Epic Boon category
 
----
-
 ### Boon of Combat Prowess
 
 *Epic Boon Feat (Prerequisite: Level 19+)*

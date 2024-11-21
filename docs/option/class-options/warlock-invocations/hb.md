@@ -81,7 +81,7 @@ Any special rations you have prepared become inert at the end of your next Long 
 
 ### Arcane Gunslinger
 
-**Prerequisite:** [Pact of the Blade]
+***Prerequisite:** [Pact of the Blade]*
 
 You can create a Pact Weapon that is a Short-Arm or Long-Arm. Firearms created from this invocations can't gain the benefit of any Augmentations.
 
@@ -89,7 +89,7 @@ You can create a Pact Weapon that is a Short-Arm or Long-Arm. Firearms created f
 
 ### Harmonic Spellcasting
 
-**Prerequisite:** [Pact of the Instrument]
+***Prerequisite:** [Pact of the Instrument]*
 
 When you cast a Warlock spell with a verbal component or deals :dmg-thunder: Thunder damage while using your pact instrument as your spellcasting focus, the save DC for that spell increases by 1
 
@@ -97,7 +97,7 @@ When you cast a Warlock spell with a verbal component or deals :dmg-thunder: Thu
 
 ### Knowledge of Antiquity
 
-**Prerequisite:** [Pact of the Hourglass]
+***Prerequisite:** [Pact of the Hourglass]*
 
 When you make an Intelligence (Arcana), Intelligence (History), or Intelligence (Religion), you can use your Charisma modifier instead of Intelligence.
 
@@ -105,7 +105,7 @@ When you make an Intelligence (Arcana), Intelligence (History), or Intelligence 
 
 ### Mirror of Fates
 
-**Prerequisite:** [Pact of the Chalice]
+***Prerequisite:** [Pact of the Chalice]*
 
 You can peer into the uncertain future. Using your Pact Chalice as a spellcasting focus, you can cast *Augury* at-will, without expending a spell slot or material components.
 
@@ -113,7 +113,7 @@ You can peer into the uncertain future. Using your Pact Chalice as a spellcastin
 
 ### Deep Fry
 
-**Prerequisite:** [Pact of the Wok]
+***Prerequisite:** [Pact of the Wok]*
 
 You can cast *Grease* with a Warlock spell slot.
 
@@ -121,7 +121,7 @@ You can cast *Grease* with a Warlock spell slot.
 
 ### Cup of Recovery
 
-**Prerequisite:** Level 2+ Warlock, [Pact of the Chalice]
+***Prerequisite:** Level 2+ Warlock, [Pact of the Chalice]*
 
 You can cast *Lesser Restoration* once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Long Rest.
 
@@ -129,7 +129,7 @@ You can cast *Lesser Restoration* once without expending a spell slot. You regai
 
 ### Time Acceleration
 
-**Prerequisite:** Level 2+ Warlock, [Pact of the Hourglass]
+***Prerequisite:** Level 2+ Warlock, [Pact of the Hourglass]*
 
 You can cast *Gift of Alacrity* once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Long Rest.
 
@@ -137,7 +137,7 @@ You can cast *Gift of Alacrity* once without expending a spell slot. You regain 
 
 ### Blasphemous Prayer
 
-**Prerequisite:** Level 5+ Warlock, [Pact of the Tome]
+***Prerequisite:** Level 5+ Warlock, [Pact of the Tome]*
 
 Choose one level 3 Cleric subclass feature that expend a use of Channel Divinity. A new page appears in your Book of Shadow detailing prayers of how to use that feature. You use your Warlock level and Spell save DC for Cleric level or Spell save DC.
 
@@ -147,7 +147,7 @@ You can invoke this level 3 Cleric subclass feature once and you must finish a S
 
 ### Blink of The Destruction
 
-**Prerequisite:** Level 5+ Warlock
+***Prerequisite:** Level 5+ Warlock*
 
 You can cast *[Fireball](../../../spells/description/core/level-3.md#fireball)* centred on yourself, using a Warlock spell slot. When you do, you gain Temporary Hit Points equal to the damage you take from the spell. If you use this invocation again while you still have Temporary Hit Points from it, any damage from the spell is instead applied to your actual Hit Points.
 
@@ -155,7 +155,7 @@ You can cast *[Fireball](../../../spells/description/core/level-3.md#fireball)* 
 
 ### Kiss of Mephistopheles
 
-**Prerequisite:** Level 5+ Warlock, a Warlock Cantrip That Deals Damage
+***Prerequisite:** Level 5+ Warlock, a Warlock Cantrip That Deals Damage*
 
 Choose one of your known Warlock cantrips that deals damage. When that cantrip deals damage, you can take a Bonus Action to cast *Fireball* using a Pact Magic spell slot. The spell must be centered on the creature you hit with cantrip.
 
@@ -165,7 +165,7 @@ Choose one of your known Warlock cantrips that deals damage. When that cantrip d
 
 ### Mire the Mind
 
-**Prerequisite:** Level 5+ Warlock
+***Prerequisite:** Level 5+ Warlock*
 
 You can cast *Slow* with a Warlock spell slot.
 
@@ -173,7 +173,7 @@ You can cast *Slow* with a Warlock spell slot.
 
 ### Plates of Null
 
-**Prerequisite:** Level 5+, [Armour of Shadow]
+***Prerequisite:** Level 5+, [Armour of Shadow]*
 
 When you cast *[Mage Armour](../../../spells/description/core/level-1.md#mage-armour)* using [Armour of Shadow] Invocation, your base AC is 15 + your Dexterity modifier instead of the normal effect.
 
@@ -181,7 +181,7 @@ When you cast *[Mage Armour](../../../spells/description/core/level-1.md#mage-ar
 
 ### Cup of Protection
 
-**Prerequisite:** Level 7+ Warlock, [Pact of the Chalice] 
+***Prerequisite:** Level 7+ Warlock, [Pact of the Chalice] *
 
 A creature of your choice can take a :rsc-b: **Bonus Action** to drink from your Pact Chalice, gaining the effects of *Death Ward* spell. Once used, you must finish a Long Rest to use this feature again.
 
@@ -189,7 +189,7 @@ A creature of your choice can take a :rsc-b: **Bonus Action** to drink from your
 
 ### Time Dilation
 
-**Prerequisite:** Level 7+ Warlock, [Pact of the Hourglass]
+***Prerequisite:** Level 7+ Warlock, [Pact of the Hourglass]*
 
 You can cast *Haste* once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Short or Long Rest.
 
@@ -197,7 +197,7 @@ You can cast *Haste* once without expending a spell slot. You regain the ability
 
 ### Sculptor of Flesh
 
-**Prerequisite:** Level 7+ Warlock
+***Prerequisite:** Level 7+ Warlock*
 
 You can cast *Polymorph* with a Warlock spell slot.
 
@@ -205,7 +205,7 @@ You can cast *Polymorph* with a Warlock spell slot.
 
 ### Enchanting Melody
 
-**Prerequisite:** Level 9+ Warlock
+***Prerequisite:** Level 9+ Warlock*
 
 You can cast *Charm Person* once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Long Rest.
 
@@ -213,7 +213,7 @@ You can cast *Charm Person* once without expending a spell slot. You regain the 
 
 ### Temporal Rewind
 
-**Prerequisite:** Level 15+ Warlock, [Pact of the Hourglass]
+***Prerequisite:** Level 15+ Warlock, [Pact of the Hourglass]*
 
 When you finish your turn, you can take a :rsc-r: **Reaction** to undo everything that happened on your turn. You return to the space you began that turn in and you regain all resources you expended. You can then immediately repeat your turn.
 
