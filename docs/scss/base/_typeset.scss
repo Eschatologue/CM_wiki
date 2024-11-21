@@ -68,21 +68,38 @@ $h4Size: $defaultFontSize * 1.05;
         padding-bottom: convert.px2rem(2px);
     }
 
+    // h3 {
+    //     font-size: $h3Size;
+    //     font-weight: $defaultFontWeight * 1.4;
+    //     letter-spacing: $h3Size * 0.04;
+    //     margin: convert.px2rem(12px) 0 convert.px2rem(4px) 0;
+    //     display: flex;
+
+    //     &::after {
+    //         content: " ";
+    //         padding-bottom: convert.px2rem(2px);
+    //         border-bottom: convert.px2rem(2.25px) solid rgba(255, 255, 255, 0.15);
+    //         margin: 0 0 convert.px2rem(6px) convert.px2rem(10px);
+    //         flex: 20 0 convert.px2rem(20px);
+    //     }
+    // }
+
     h3 {
         font-size: $h3Size;
         font-weight: $defaultFontWeight * 1.4;
         letter-spacing: $h3Size * 0.04;
         margin: convert.px2rem(12px) 0 convert.px2rem(4px) 0;
-        display: flex;
-
+        position: relative;
+    
         &::after {
-            content: " ";
-            padding-bottom: convert.px2rem(2px);
-            border-bottom: convert.px2rem(2.25px) solid rgba(255, 255, 255, 0.15);
-            margin: 0 0 convert.px2rem(6px) convert.px2rem(10px);
-            flex: 20 0 convert.px2rem(20px);
+            content: "";
+            display: block; 
+            margin-top: convert.px2rem(6px); 
+            height: convert.px2rem(2.25px); 
+            background-color: rgba(255, 255, 255, 0.15); 
+            width: 100%;
         }
-    }
+    }    
 
     h4 {
         font-size: $h4Size;
