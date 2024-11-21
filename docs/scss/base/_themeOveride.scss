@@ -21,4 +21,15 @@
 /* Divider Line */
 .md-typeset hr {
     border-bottom: convert.px2em(3px) dashed rgba(255, 255, 255, 0.15);
+
+    &::after {
+        content: "§";
+        display: inline-block;
+        position: absolute;
+        left: 50%;
+        transform: translate(-50%, -50%) rotate(60deg);
+        transform-origin: 50% 50%;
+        padding: 1rem;
+        background-color: var(--md-default-bg-color);
+    }
 }
