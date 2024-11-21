@@ -1,5 +1,5 @@
 ---
-title: ': Path of the World Tree (Barbarian Subclass)
+title: Path of the World Tree (Barbarian Subclass)
 ---
 
 # Path of the World Tree

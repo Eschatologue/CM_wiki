@@ -1,5 +1,5 @@
 ---
-title: Path of the Wild Heart (Barbarian)
+title: Path of the Wild Heart (Barbarian Subclass)
 ---
 
 # Path of the Wild Heart

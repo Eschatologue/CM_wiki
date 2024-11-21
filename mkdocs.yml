@@ -394,7 +394,7 @@ nav:
           - Cantrip: spells/description/additional/homebrew/cantrip.md
           - Level 2: spells/description/additional/homebrew/level-2.md
           - Level 3: spells/description/additional/homebrew/level-3.md
-  - Current Campaign:
+  - Campaign:
     - Player's Gimmick:
       - John K. Godsmith: campaign/player-chr/john-godsmith.md
       - Ydastriel Khaine: campaign/player-chr/ydastriel-khaine.md
