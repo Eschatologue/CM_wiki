@@ -89,16 +89,8 @@ $h4Size: $defaultFontSize * 1.05;
         font-weight: $defaultFontWeight * 1.4;
         letter-spacing: $h3Size * 0.04;
         margin: convert.px2rem(12px) 0 convert.px2rem(4px) 0;
-        position: relative;
-    
-        &::after {
-            content: "";
-            display: block; 
-            margin-top: convert.px2rem(6px); 
-            height: convert.px2rem(2.25px); 
-            background-color: rgba(255, 255, 255, 0.15); 
-            width: 100%;
-        }
+        border-bottom: convert.px2rem(2.35px) dotted rgba(255, 255, 255, 0.25);
+        padding-bottom: convert.px2rem(2px);
     }    
 
     h4 {
