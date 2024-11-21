@@ -24,6 +24,8 @@
 
     &::after {
         content: "§";
+        font-weight: bold;
+        color: rgba(255, 255, 255, 0.15);
         display: inline-block;
         position: absolute;
         left: 50%;
