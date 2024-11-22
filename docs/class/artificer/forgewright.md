@@ -1,4 +1,5 @@
 ---
+title: Forgewright (Artificer Subclass)
 status: homebrew
 ---
 
@@ -28,13 +29,14 @@ When you reach an Artificer level specified in the Forgewright Spells table, you
 
 Your battlefield research has resulted in the invention of your signature Arcane Armament, which uses the following rules:
 
-***Forging the Armament.*** During a Long Rest, you can spend 1 hour using Smith's Tools to reforge one melee weapon that you are holding into an Arcane Armament. You can only have one Arcane Armament at a time, and forging another causes any previous Armaments to revert to their normal state.
+***Forging the Armament.*** During a Long Rest, you can spend 1 hour using Smith's Tools to reforge one melee weapon that you are holding into an Arcane Armament. You can only have one Arcane Armament at a time, and forging another causes any previous Armaments to revert to their normal state. Your Arcane Armament gain the following traits in addition to its default trait. You can use your Intelligence, in place of Strength or Dexterity for its attack and damage rolls. 
 
-***Properties.*** When you are wielding the Arcane Armament, it counts as a magical weapon, and you can use Intelligence, in place of Strength or Dexterity, for attack and damage rolls. It also gains the Thrown (20/60) property, and after you make a thrown attack with it, it instantly returns to your hand. Last, it can be used as a Spellcasting focus for Artificer spells.
+**Weapon Category:** The orignal weapon's category  
+**Damage on a Hit:** The weapon's orignal damage plus the ability modifier used for the attack roll   
+**Properties:** The weapon's orignal property + :weapon-prop-thrown: ^^Thrown (20/60)^^  
+**Infusion:** Returning Weapon (Doesn't count torwards your maximum infusions)
 
-***Mastery Properties.*** You can use the mastery properties of your Arcane Armament.
-
-***Infusions.*** Your Arcane Armament can bear one Infusion, even though it is a magic weapon. Your number of Infusions Known also increases by 1, but this bonus Infusion
+Your Arcane Armament can bear one additional infusion, even though it is a magic weapon. Your number of Infusions Known also increases by 1, but this bonus Infusion
 must be applied to your Arcane Armament.
 
 ### Level 5: Arcane Jolt
@@ -53,7 +55,7 @@ In addition, you can cast one of your cantrip that has the casting time of an ac
 
 The magic of your Arcane Armament empowers its strikes. Whenever you hit with an Arcane Armament attack you can deal a bonus 1d8 force damage on hit. Each time you attack with your Arcane Armament, you can forgo this potential bonus damage to instead make your attack with Advantage.
 
-### Level 15: Master Forgewright
+### Level 15: Saint of the Forge
 
 You have become a master Forgewright and extend the power of your Arcane Armament to others. As a Bonus Action, you can flood a number of weapons equal to your Intelligence modifier (minimum of 1) within 30 feet, one of which can be your Arcane Armament, with raw power. For 1 minute, these weapons deal a bonus 1d8 Force damage on hit.
 

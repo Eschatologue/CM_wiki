@@ -889,6 +889,22 @@ If two or more things happen at the same time on a turn, the person at the game 
 
 ---
 
+## Special Items^*CM*^ { data-toc-label="Special Items" }
+
+In *Crown and Misery*, items are classified differently from standard D&D. The concept of "magical" items is not an inherent designation unless explicitly stated in an item’s description. Instead, enhanced items are referred to as **Special Items**.
+
+***Definition.*** Special Items are any items improved beyond their basic, mundane (or "stock") versions, such as a +1 Longsword or superior-quality armour (+1 Chainmail). While these items are not explicitly magical by nature, they are treated as magical for gameplay purposes, such as for attunement (if required) or Infusion restrictions.
+
+***Stock Configuration.*** An item is considered mundane only in its original, unmodified state (e.g., a standard longsword or basic chainmail). Once an item has been improved in any way—whether through craftsmanship or magical means—it becomes a Special Item and is no longer considered mundane.
+
+***Interactions with Spells.*** Effects such as the *[:spell-level-2: Magic Weapon](./spells/description/core/level-2.md#magic-weapon)* spell, which targets non-magical items, only work on items in their stock configuration. For example, a +1 Longsword is a Special Item and does not qualify for this spell, even if its enhancement comes from superior craftsmanship rather than enchantment.
+
+***Traits.*** Unlike standard D&D, Special Items do not automatically gain properties such as ignoring resistance (for weapons) or granting damage reduction (for armour). Any additional effects or capabilities are explicitly stated in the item’s description.
+
+***Attunement.*** In Crown and Misery, attunement reflects the mental focus and attention needed to wield multiple complex or enhanced items effectively, rather than forming a magical bond. The limit of three attuned items remains unchanged unless a class feature increases it. This approach ties attunement to a character’s capacity to manage and balance powerful items, not to their magical nature.
+
+---
+
 ## Size
 
 A creature or an object belongs to a size category: Tiny, Small, Medium, Large, Huge, or Gargantuan. A creature's size determines how much space the creature occupies in combat. An object's size affects its Hit Points.

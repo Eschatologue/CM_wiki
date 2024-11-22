@@ -1,5 +1,5 @@
 ---
-title: Path of the Berserker (Barbarian)
+title: Path of the Berserker (Barbarian Subclass)
 ---
 
 # Path of the Berserker

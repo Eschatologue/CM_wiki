@@ -1,4 +1,5 @@
 ---
+title: Alchemist (Artificer Subclass)
 status: adapted
 ---
 

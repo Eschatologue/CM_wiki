@@ -1,4 +1,5 @@
 ---
+title: Armourer (Artificer Subclass)
 status: adapted
 ---
 

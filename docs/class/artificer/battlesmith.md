@@ -1,4 +1,5 @@
 ---
+title: Battlesmith (Artificer Subclass)
 status: adapted
 ---
 
