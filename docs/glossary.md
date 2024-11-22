@@ -891,7 +891,7 @@ If two or more things happen at the same time on a turn, the person at the game 
 
 ## Special Items^*CM*^ { data-toc-label="Special Items" }
 
-In *Crown and Misery*, items are classified differently from standard D&D. The concept of "magical" items is not an inherent designation unless explicitly stated in an item’s description. Instead, enhanced items are referred to as **Special Items**.
+In *Crown and Misery*, items are classified differently than in standard D&D. While magical items exist in the world for **lore purposes**, they do not have a functional impact on the game mechanics unless explicitly stated in an item’s description. The concept of "magical" items, as commonly understood in D&D, is not applied here. Instead, enhanced items are referred to as *Special Items*
 
 ***Definition.*** Special Items are any items improved beyond their basic, mundane (or "stock") versions, such as a +1 Longsword or superior-quality armour (+1 Chainmail). While these items are not explicitly magical by nature, they are treated as magical for gameplay purposes, such as for attunement (if required) or Infusion restrictions.
 
