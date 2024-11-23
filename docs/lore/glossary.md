@@ -236,14 +236,6 @@ A vast and perilous ocean surrounding Antares, notorious for its violent storms,
 
 ---
 
-### Technomancy
-
-*School of Magic*
-
-**Technomancy** is a revolutionary school of magic that studies the interaction between non-Weave-based technology—primarily from London—and the Gallian standard of spellcasting. Although it promised a new era of magical advancement, the Gallian Imperial Court banned it for undisclosed reasons. The discipline was pioneered by the infamous Three Traitors: Grimwald Hialtisson (Dwarf, Myrkheim), Varlassan "Arthur" Lahti (High-Elf, London), and Évelyne Montagne (Human, Gallian).
-
----
-
 ### The Mist Veil
 
 *Phenomenon*
