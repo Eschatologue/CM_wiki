@@ -82,7 +82,7 @@ These Mastery property are homebrew.
 
 ### Cripple
 
-_**Prerequisite:** Melee weapon that deals :dmg-blunt: Bludgeoning damage_
+_**Prerequisite:** Melee weapon that deals :dmg-blunt: Bludgeoning damage or Ranged weapon with :weapon-prop-heavy: ^^Heavy^^ property_
 
 If you hit a creature with this weapon, you can choose to deal only half damage and the target's :rsc-speed: Speed becomes 0 until the start of your next turn.
 
