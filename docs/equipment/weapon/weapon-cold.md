@@ -83,7 +83,7 @@ Martial weapons require more training to use effectively but offer greater damag
 | *Arbalest* | 2d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 180/360), Heavy, Loading, Mounted, Two-handed, Sighted | [Brace] | XL. | 950 SP |
 | *Crossbow, Hand* | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 30/120; Bolt), Light, Loading | [Vex] | M. | 750 SP |
 | *Crossbow, Heavy* | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 100/400; Bolt), Heavy, Loading, Two-handed | [Push] | M. | 500 SP |
-| *Heavy Repeating Crossbow* | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 90/360; Bolt), Automatic (1), Heavy, Reload (6), Two-handed | [Follow Up] | M. | 700 SP |
+| *Heavy Repeating Crossbow* | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 90/360; Bolt), Automatic (1), Heavy, Reload (6), Two-handed | [Tap] | M. | 700 SP |
 | *Compound Bow* | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 100/400; Arrow), Heavy, Two-handed | [Brace] | M. | 850 SP |
 | *Longbow* | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 150/600; Arrow), Heavy, Two-handed | [Slow] | M. | 500 SP |
 
@@ -107,7 +107,7 @@ Martial weapons require more training to use effectively but offer greater damag
 
 [Cripple]: mastery.md#cripple
 [Brace]: mastery.md#brace
-[Follow Up]: mastery.md#follow-up
+[Tap]: mastery.md#tap
 [Spray]: mastery.md#spray
 
 [properties]: index.md#weapon-properties

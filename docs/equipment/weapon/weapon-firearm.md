@@ -45,8 +45,8 @@ The Long-arm Table encompass rifles and other longer-range weapons. These are de
 |---|---|---|:-:|:-:|--:|
 | *Automatic Rifle* | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 80/240), Automatic (3), Heavy, Reload (12), Two-handed | [Spray] | L. | 6,500 SP |
 | *Markesmen Rifle* | 2d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 120/360), Heavy, Reload (6), Sighted, Two-handed | [Brace] | L. | 8,000 SP |
-| *Semi-Auto Rifle* | 2d4 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 100/300), Automatic (1), Heavy, Reload (8), Two-handed | [Follow Up] | L. | 5,000 SP |
-| *Over-under Shotgun* | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 30/90), Automatic (1), Reload (2), Scatter (2d8), Two-handed | [Follow Up] | M. | 4,000 SP |
+| *Semi-Auto Rifle* | 2d4 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 100/300), Automatic (1), Heavy, Reload (8), Two-handed | [Tap] | L. | 5,000 SP |
+| *Over-under Shotgun* | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 30/90), Automatic (1), Reload (2), Scatter (2d8), Two-handed | [Tap] | M. | 4,000 SP |
 | *Pump Shotgun* | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 40/120), Automatic (3), Heavy, Reload (7), Scatter (1d12), Two-handed | [Push] | M. | 6,000 SP |
 
 ### Advanced Firearms
@@ -99,7 +99,7 @@ Once a creature successfully understands how a firearm operates, they can spend 
 [Sap]: mastery.md#sap
 
 [Brace]: mastery.md#brace
-[Follow Up]: mastery.md#follow-up
+[Tap]: mastery.md#tap
 [Spray]: mastery.md#spray
 
 --8<-- "includes/snippets/inv-notation.md"

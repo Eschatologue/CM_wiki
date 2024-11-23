@@ -96,7 +96,7 @@ When you make an attack with this weapon, you can expend half of your total :rsc
 
 ---
 
-### Follow Up
+### Tap
 
 _**Prerequisite:** :weapon-prop-automatic: ^^Automatic^^ property_
 
