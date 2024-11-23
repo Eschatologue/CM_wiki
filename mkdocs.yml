@@ -214,6 +214,7 @@ nav:
         - Armour: equipment/armour.md 
         - Weapons: 
           - equipment/weapon/index.md
+          - Mastery properties: equipment/weapon/mastery.md
           - Cold Weapons: equipment/weapon/weapon-cold.md
           - Firearms: equipment/weapon/weapon-firearm.md 
       - Tools: 
@@ -278,7 +279,6 @@ nav:
         - Draconic Sorcery: class/sorcerer/draconic.md
         - Wild Magic Sorcery: class/sorcerer/wild.md
         - Stone Sorcery: class/sorcerer/stone.md
-        - Reborn: class/sorcerer/reborn.md
         - Voidwielder: class/sorcerer/voidwielder.md
       - Warlock:
         - class/warlock/index.md

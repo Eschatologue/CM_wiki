@@ -1,5 +1,5 @@
 ---
-title: Order of Warder
+title: Order of Warder (Magus Subclass)
 status: homebrew
 ---
 

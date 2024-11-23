@@ -43,7 +43,7 @@ After a Long Rest, you can choose a number of weapon [Mastery properties] equal 
 
 You may choose a new set of Mastery properties after each Long Rest.
 
-[Mastery properties]: ../../equipment/weapon/index.md#mastery-properties
+[Mastery properties]: ../../equipment/weapon/mastery.md
 
 ### Level 10: Adamantine Hide 
 

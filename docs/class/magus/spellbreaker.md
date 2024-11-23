@@ -1,5 +1,5 @@
 ---
-title: Order of Spellbreaker
+title: Order of Spellbreaker (Magus Subclass)
 status: homebrew
 ---
 

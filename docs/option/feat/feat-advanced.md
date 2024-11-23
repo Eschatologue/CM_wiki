@@ -111,7 +111,7 @@ Your journey are full of experience.
 You gain two General Feats of your choice. You can't benefit from a Feat's feature that grants increase to ability scores (e.g [Ability Score Improvement](./feat-general/phb24.md#ability-scores-improvement)). All other rules related to gaining Feats still apply. Replacing this Feat will forgo all the General Feats gained from this Feat.
 
 **Repeatable**  
-You can take this feat more than once. Choose different General Feats each time. All other rules related to gaining Feats still apply.
+You can take this feat more than once. Choose another two eligible General Feats each time. All other rules related to gaining Feats still apply. 
 
 ---
 

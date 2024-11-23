@@ -16,7 +16,7 @@ The Weapons tables in this section shows the game's main weapons. These table li
 
 ***Properties.*** Any properties a weapon has are listed in the Properties column. Each property is defined in the [Properties](index.md#weapon-properties) section.
 
-***Mastery.*** Each weapon has a mastery property, which is defined in the [Mastery Properties](index.md#mastery-properties) section. To use that property, you must have a feature that lets you use it.
+***Mastery.*** Each weapon has a mastery property, which is defined in the [Mastery Properties](mastery.md) section. To use that property, you must have a feature that lets you use it.
 
 ## Cold Weapon Table
 
@@ -46,7 +46,7 @@ Simple weapons are easy to use and require minimal training, making them accessi
 | *Blowgun* | 1 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 25/100; Needle), Loading | [Vex] | S. | 100 SP |
 | *Dart* (2) | 1d4 :dmg-piercing: Piercing | Finesse, Thrown (:weapon-prop-range: Range 20/60) | [Vex] | XS. | 1 SP |
 | *Light Crossbow* | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 80/320; Bolt), Loading, Two-Handed | [Slow] | M-| 250 SP |
-| *Light Repeating Crossbow* | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 60/240; Bolt), Automatic (2), Reload (6), Two-handed | [Slow] | L | 400 SP |
+| *Light Repeating Crossbow* | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 60/240; Bolt), Automatic (2), Reload (8), Two-handed | [Spray] | L | 400 SP |
 | *Shortbow* | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 80/320; Arrow), Two-Handed | [Vex] | M-| 250 SP |
 | *Sling* | 1d4 :dmg-blunt: Bludgeoning | Ammunition (:weapon-prop-range: Range 30/120; Bullet) | [Slow] | M-| 1 SP |
 
@@ -65,7 +65,7 @@ Martial weapons require more training to use effectively but offer greater damag
 | *Halberd* | 1d10 :dmg-slashing: Slashing | Heavy, Reach, Two-Handed | [Cleave]  | L. | 200 SP |
 | *Lance* | 1d10 :dmg-piercing: Piercing | Heavy, Reach, Two-Handed (unless mounted) | [Topple] | L. | 100 SP |
 | *Longsword* | 1d8 :dmg-slashing: Slashing | Versatile (1d10) | [Sap] | M. | 150 SP |
-| *Lucerne* | 1d10 :dmg-blunt: Bludgeoning | Heavy, Reach, Two-Handed | [Push] | L. | 200 SP |
+| *Lucerne* | 1d10 :dmg-blunt: Bludgeoning | Heavy, Reach, Two-Handed | [Cripple] | L. | 200 SP |
 | *Maul* | 2d6 :dmg-blunt: Bludgeoning | Heavy, Two-Handed | [Topple] | L. | 100 SP |
 | *Morningstar* | 1d8 :dmg-piercing: Piercing | — | [Sap] | M. | 150 SP |
 | *Pike* | 1d10 :dmg-piercing: Piercing | Heavy, Reach, Two-Handed | [Push] | L. | 50 SP |
@@ -80,11 +80,11 @@ Martial weapons require more training to use effectively but offer greater damag
 
 | Ranged Martial Weapons | damage | properties | mastery | weight | cost |
 |:--|---|---|---|:-:|--:|
-| *Arbalest* | 2d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 180/360), Heavy, Loading, Mounted, Two-handed, Sighted | [Push] | XL. | 950 SP |
+| *Arbalest* | 2d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 180/360), Heavy, Loading, Mounted, Two-handed, Sighted | [Brace] | XL. | 950 SP |
 | *Crossbow, Hand* | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 30/120; Bolt), Light, Loading | [Vex] | M. | 750 SP |
 | *Crossbow, Heavy* | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 100/400; Bolt), Heavy, Loading, Two-handed | [Push] | M. | 500 SP |
-| *Heavy Repeating Crossbow* | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 90/360; Bolt), Automatic (1), Heavy, Reload (4), Two-handed | [Push] | M. | 700 SP |
-| *Compound Bow* | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 100/400; Arrow), Heavy, Two-handed | [Slow] | M. | 850 SP |
+| *Heavy Repeating Crossbow* | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 90/360; Bolt), Automatic (1), Heavy, Reload (6), Two-handed | [Follow Up] | M. | 700 SP |
+| *Compound Bow* | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 100/400; Arrow), Heavy, Two-handed | [Brace] | M. | 850 SP |
 | *Longbow* | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 150/600; Arrow), Heavy, Two-handed | [Slow] | M. | 500 SP |
 
 ##### Ammunition
@@ -96,19 +96,22 @@ Martial weapons require more training to use effectively but offer greater damag
 | Crossbow bolts (20) | 10 SP |
 | Sling bullets (50) | 10 SP |
 
-[Lance]:weapon-cold.md#lance
+[Push]: mastery.md#push
+[Slow]: mastery.md#slow
+[Vex]: mastery.md#vex
+[Cleave]: mastery.md#cleave
+[Nick]: mastery.md#nick
+[Topple]: mastery.md#topple
+[Graze]: mastery.md#graze
+[Sap]: mastery.md#sap
 
-[Push]: index.md#push
-[Slow]: index.md#slow
-[Vex]: index.md#vex
-[Cleave]: index.md#cleave
-[Nick]: index.md#nick
-[Topple]: index.md#topple
-[Graze]: index.md#graze
-[Sap]: index.md#sap
+[Cripple]: mastery.md#cripple
+[Brace]: mastery.md#brace
+[Follow Up]: mastery.md#follow-up
+[Spray]: mastery.md#spray
 
 [properties]: index.md#weapon-properties
-[mastery]: index.md#mastery-properties
+[mastery]: mastery.md
 
 --8<-- "includes/snippets/inv-notation.md"
 --8<-- "includes/snippets/item-mastery.md"

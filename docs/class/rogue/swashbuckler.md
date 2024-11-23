@@ -11,7 +11,7 @@ As a Swashbuckler, you focus on the art of the blade, bringing speed, elegance, 
 
 ### Level 3: Fancy Footwork
 
-You've learned how to land a strike then slip away without reprisal. If you make a melee attack against a creature during your turn, that creature can't make Opportunity Attacks against you for the rest of that turn. 
+You've learned how to land a strike then slip away without reprisal. If you make a melee attack against a creature during your turn, that creature can't make :rsc-r: Opportunity Attacks against you for the rest of that turn. 
 
 ### Level 3: Suave Defence
 
@@ -21,17 +21,17 @@ While you aren't wearing any armour or wielding a Shield, your base Armour Class
 
 You have honed your skills in one to one battles.
 
-***Initiative.*** You have Advantage on Initiative rolls.
+***Initiative.*** You have :d20-adv: Advantage on Initiative rolls.
 
-***Dueling***. You also gain an additional way to use your Sneak Attack; you don't need Advantage on the attack roll to use your Sneak Attack against a creature if you are within 5 feet of it, no other creatures are within 5 feet of you, and you don't have Disadvantage on the attack roll. All the other rules for Sneak Attack still apply to you. 
+***Dueling***. You also gain an additional way to use your Sneak Attack; you don't need :d20-adv: Advantage on the attack roll to use your Sneak Attack against a creature if you are within 5 feet of it, no other creatures are within 5 feet of you, and you don't have :d20-disadv: Disadvantage on the attack roll. All the other rules for Sneak Attack still apply to you. 
 
 ### Level 9: Panache
 
 You have practiced new ways to use your Sneak Attack. The following effects are now among your Cunning Strike options.
 
-***Goad (Cost: 1d6).*** The target must succeed on a Wisdom saving throw, or until the end of its next turn, the target has Disadvantage on attack rolls against targets other than you and can't make Opportunity Attacks against targets other than you.
+***Goad (Cost: 1d6).*** The target must succeed on a Wisdom saving throw, or until the end of its next turn, the target has :d20-disadv: Disadvantage on attack rolls against targets other than you and can't make :rsc-r: Opportunity Attacks against targets other than you.
 
-***Awe (Cost: 3d6).*** Each creature of your choice within 30 feet of you must succeed on a Wisdom saving throw or have the Charmed condition until the end of your next turn.
+***Awe (Cost: 3d6).*** Each creature of your choice within 30 feet of you must succeed on a Wisdom saving throw or have the ^^Charmed^^ condition until the end of your next turn.
 
 ### Level 13: Dashing Strikes
 

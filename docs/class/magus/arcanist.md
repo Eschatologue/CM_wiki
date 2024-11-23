@@ -1,5 +1,5 @@
 ---
-title: Order of Arcanist
+title: Order of Arcanist (Magus Subclass)
 status: homebrew
 ---
 

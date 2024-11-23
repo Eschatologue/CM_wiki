@@ -15,11 +15,7 @@ You have studied martial techniques to enhance your skill in battle. You learn M
 
 #### Manoeuvre
 
-You learn two different Manoeuvre of your choice from the "[Manoeuvre Options]" section from the Battle Master subclass. Many Manoeuvre enhance an attack in some way. You can use only one Manoeuvre per attack.
-
-You learn two additional Manoeuvre of your choice when you reach Barbarian level 6, 10, and 14. Each time you learn new Manoeuvre, you can also replace one Manoeuvre you know with a different one.
-
-[Manoeuvre Options]: ../../option/class-options/fighter-manoeuvre.md
+You learn two different Manoeuvre of your choice from the "[Manoeuvre Options]" section from the Battle Master subclass. Many Manoeuvre enhance an attack in some way. You can use only one Manoeuvre per attack. Each time you learn new Manoeuvre, you can also replace one Manoeuvre you know with a different one.
 
 #### Superiority Dice
 
@@ -47,7 +43,11 @@ When you activate your Rage, you can choose one of the following benefits:
 
 ### Level 6: Improved Superiority
 
-Your Superiority Die becomes a :die-d8: **d8**.
+You gain the following benefits:
+
+***Bigger Dice.*** Your Superiority Die becomes a :die-d8: **d8**.
+
+***More Manoeuvre.*** You learn two additional manoeuvre from the "[Manoeuvre Options]" section from the Battle Master subclass.
 
 ### Level 10: Relentless and Unstopable
 
@@ -59,8 +59,14 @@ Your seething fury is unstopable. You gain the following benefits:
 
 ### Level 10: Masterful Superiority
 
-Your Superiority Die becomes a :die-d10: **d10**.
+You gain the following benefits:
+
+***Bigger Dice.*** Your Superiority Die becomes a :die-d10: **d10**.
+
+***More Manoeuvre.*** You learn two additional manoeuvre from the "[Manoeuvre Options]" section from the Battle Master subclass.
 
 ### Level 14: Flurry of Steel
 
 Once per turn, when your Rage is active, you can roll a **d6** in place of expending a Superiority Die. This d6 is not affected by any features that improve your Superiority Die.
+
+[Manoeuvre Options]: ../../option/class-options/fighter-manoeuvre.md

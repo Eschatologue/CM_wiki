@@ -192,7 +192,7 @@ Increase one ability score of your by 1, to a maximum of 20.
 You gain two Origin Feats of your choice, all other rules related to gaining Feats still apply. Replacing this Feat will forgo all the Origin Feats gained from this Feat.
 
 **Repeatable**  
-You can take this feat more than once. Choose different Origin Feats each time. All other rules related to gaining Feats still apply.
+You can take this feat more than once. Choose another two eligible Origin Feats each time. All other rules related to gaining Feats still apply.
 
 ---
 

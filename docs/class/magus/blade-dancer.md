@@ -1,5 +1,5 @@
 ---
-title: Order of Blade Dancers
+title: Order of Blade Dancers (Magus Subclass)
 status: homebrew
 ---
 

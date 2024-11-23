@@ -43,7 +43,7 @@ You specialise one weapon rather than many. Choose one Weapon or Firearm that yo
 
 ***Improved Attack Roll.*** When you make a weapon attack with the weapon, you can treat a roll equal to your Proficiency Bonus or lower on the d20 as your Proficiency Bonus.
 
-***Mastery Property.*** The chosen weapon type can benefit from two different eligible [Mastery](../../../equipment/weapon/index.md#mastery-properties) property.
+***Mastery Property.*** The chosen weapon type can benefit from two different eligible [Mastery](../../../equipment/weapon/mastery.md) property.
 
 ##### Signature Weapon Die
 

@@ -8,11 +8,11 @@ A Champion focuses on the development of martial prowess in a relentless pursuit
 
 ### Level 3: Improved Critical
 
-The number you need to roll for a Critical Hit is reduced by 1 for attack rolls with weapons and Unarmed Strike. This effect can stack.
+The number you need to roll for a Critical Hit is reduced by 1 for attack rolls with weapons or Unarmed Strike. This effect can stack.
  
 ### Level 3: Remarkable Athlete
 
-Thanks to your athleticism, you have :d20-adv: **Advantage** on Initiative rolls and Strength (Athletics) checks.
+Thanks to your athleticism, you have :d20-adv: Advantage on Initiative rolls and Strength (Athletics) checks.
 
 In addition, when you make a running [Long Jump](../../glossary.md#long-jump), the distance you can cover increases by a number of feet equal to your Strength modifier.
 
@@ -26,12 +26,12 @@ The thrill of battle drives you toward victory. During combat, you can give your
 
 ### Level 15: Superior Critical
 
-The number you need to roll for a Critical Hit is reduced by 1 for attack rolls with weapons and Unarmed Strike. This effect can stack.
+The number you need to roll for a Critical Hit is reduced by 1 for attack rolls with weapons or Unarmed Strike. This effect can stack.
 
 ### Level 18: Survivor
 
 You attain the pinnacle of resilience in battle, giving you these benefits:
 
-***Defy Death.*** You have :d20-adv: **Advantage** on Death Saving Throws. Moreover, when you roll 18-20 on a death save, you gain the benefit of rolling a 20 on a death save.
+***Defy Death.*** You have :d20-adv: Advantage on Death Saving Throws. Moreover, when you roll 18-20 on a death save, you gain the benefit of rolling a 20 on a death save.
 
 ***Heroic Rally.*** At the start of each of your turns, you regain Hit Points equal to 5 + your Constitution modifier if you have no more than half your Hit Points remaining. You don't gain this benefit if you have 0 Hit Points.

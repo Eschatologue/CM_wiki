@@ -29,11 +29,11 @@ The Short-Arm Table include pistols, revolvers, and other small, easily conceala
 
 ##### Short-Arm
 
-| Short-Arms Firearms | damage | properties| weight | cost |
-|---|---|---|:-:|--:|
-| Revolver | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 60/180), Reload (6) | M. | 2,500 SP |
-| Semi-Auto Pistol | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 60/180), Automatic (2), Light, Reload (8) | M. | 3,000 SP |
-| Submachine Gun | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 40/120), Automatic (4), Reload (28), Two-handed | M. | 4,500 SP |
+| Short-Arms Firearms | damage | properties | mastery | weight | cost |
+|---|---|---|:-:|:-:|--:|
+| *Revolver* | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 60/180), Reload (6) | [Sap] | M. | 2,500 SP |
+| *Semi-Auto Pistol* | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 60/180), Automatic (2), Light, Reload (8) | [Vex] | M. | 3,000 SP |
+| *Submachine Gun* | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 40/120), Automatic (4), Reload (28), Two-handed | [Spray] | M. | 4,500 SP |
 
 ### Long-Arm
 
@@ -41,13 +41,13 @@ The Long-arm Table encompass rifles and other longer-range weapons. These are de
 
 ##### Long-Arm 
 
-| Long-Arms Firearms | damage | properties| weight | cost |
-|---|---|---|:-:|--:|
-| Automatic Rifle | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 80/240), Automatic (3), Heavy, Reload (12), Two-handed | L. | 6,500 SP |
-| Markesmen Rifle | 2d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 120/360), Heavy, Reload (6), Sighted, Two-handed | L. | 8,000 SP |
-| Semi-Auto Rifle | 2d4 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 100/300), Automatic (1), Heavy, Reload (8), Two-handed | L. | 5,000 SP |
-| Over-under Shotgun | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 30/90), Automatic (1), Reload (2), Scatter (2d8), Two-handed | M. | 4,000 SP |
-| Pump Shotgun | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 40/120), Automatic (3), Heavy, Reload (7), Scatter (1d12), Two-handed | M. | 6,000 SP |
+| Long-Arms Firearms | damage | properties | mastery | weight | cost |
+|---|---|---|:-:|:-:|--:|
+| *Automatic Rifle* | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 80/240), Automatic (3), Heavy, Reload (12), Two-handed | [Spray] | L. | 6,500 SP |
+| *Markesmen Rifle* | 2d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 120/360), Heavy, Reload (6), Sighted, Two-handed | [Brace] | L. | 8,000 SP |
+| *Semi-Auto Rifle* | 2d4 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 100/300), Automatic (1), Heavy, Reload (8), Two-handed | [Follow Up] | L. | 5,000 SP |
+| *Over-under Shotgun* | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 30/90), Automatic (1), Reload (2), Scatter (2d8), Two-handed | [Follow Up] | M. | 4,000 SP |
+| *Pump Shotgun* | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 40/120), Automatic (3), Heavy, Reload (7), Scatter (1d12), Two-handed | [Push] | M. | 6,000 SP |
 
 ### Advanced Firearms
 
@@ -55,11 +55,11 @@ Advanced Firearms Table include rocket launchers, flamethrowers, machine guns, a
 
 ##### Advanced Firearms
 
-| Advanced Firearms | damage | properties| weight | cost |
-|---|---|---|:-:|--:|
-| Machine Gun | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 120/360), Automatic (4), Heavy, Mounted, Reload (50), Two-Handed | XL. | 15,000  SP |
-| Rocket Launcher | 8d6 :dmg-fire: Fire | Ammunition (:weapon-prop-range: Range 120/360), Explosive (20ft. :aoe-sphere: sphere), Heavy, Reload (1), Two-Handed | XL. | 12,500 SP |
-| Grenade Launcher | 1 :dmg-blunt: Bludgeoning | Ammunition (:weapon-prop-range: Range 120; [Grenade](../consumeables/grenade.md)), Heavy, Loading | M. | 9,000 SP |
+| Advanced Firearms | damage | properties | mastery | weight | cost |
+|---|---|---|:-:|:-:|--:|
+| *Machine Gun* | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 120/360), Automatic (4), Heavy, Mounted, Reload (50), Two-Handed | [Spray] | XL. | 15,000  SP |
+| *Rocket Launcher* | 8d6 :dmg-fire: Fire | Ammunition (:weapon-prop-range: Range 120/360), Explosive (20ft. :aoe-sphere: sphere), Heavy, Reload (1), Two-Handed | -- | XL. | 12,500 SP |
+| *Grenade Launcher* | 1 :dmg-blunt: Bludgeoning | Ammunition (:weapon-prop-range: Range 120; [Grenade](../consumeables/grenade.md)), Heavy, Loading | -- | M. | 9,000 SP |
 
 ##### Ammunitions
 
@@ -89,8 +89,18 @@ Most creatures are aware of how firearms work, but using them effectively requir
 
 Once a creature successfully understands how a firearm operates, they can spend downtime training with it to gain proficiency. Only after this training can they use the weapon effectively without further checks. This training follows the rules written in [Downtime Activity: Training](../../gameplay/downtime/training.md).
 
-## Firearms Augmentation
+[Push]: mastery.md#push
+[Slow]: mastery.md#slow
+[Vex]: mastery.md#vex
+[Cleave]: mastery.md#cleave
+[Nick]: mastery.md#nick
+[Topple]: mastery.md#topple
+[Graze]: mastery.md#graze
+[Sap]: mastery.md#sap
 
-Firearms do not possess Mastery properties like conventional weapons; however, they can be augmented to increase their effectiveness. For detailed options and mechanics regarding firearm Augmentations, see "[Augmentation Options](../adventuring-gear/firearm-augment.md)".
+[Brace]: mastery.md#brace
+[Follow Up]: mastery.md#follow-up
+[Spray]: mastery.md#spray
 
 --8<-- "includes/snippets/inv-notation.md"
+--8<-- "includes/snippets/item-mastery.md"

@@ -1,5 +1,5 @@
 ---
-title: Order of Travelers
+title: Order of Travelers (Magus Subclass)
 status: homebrew
 ---
 

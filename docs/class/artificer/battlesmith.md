@@ -47,7 +47,7 @@ Your tinkering has borne you a companion, a steel defender. It's friendly to you
 
 At the end of a Long Rest, you can create a new Steel Defender if you have Smith's Tools with you. If you already have a Defender from this feature, the first one immediately perishes. The Defender also perishes if you die.
 
-??? note "Steel Defender"
+!!! note "Steel Defender"
 
     *Medium Construct*
 
