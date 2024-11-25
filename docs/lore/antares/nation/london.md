@@ -9,6 +9,15 @@ search:
 
 The **Dominion of Albion**, officially referred to as **Albion** and commonly known as **London**, is a nation located in the northwestern part of Antares, characterised by its sprawling metropolis of steel and glass, and bleeding-edge technology, built over the former elven forests. Albion is widely regarded as a bastion of industrial might and military prowess, standing among the most influential nations in Antares.
 
+| General Information | |
+|---|---|
+| **Capital & Largest City** | New London |
+| **Type** | Federal Dominant-party Stratocracy |
+| **Head of State** | Chancellor |
+| **Head of Goverment** | High Minister |
+| **Demonym** | Londoners <br>Londiniers <br>British |
+| **Military Strength** | Dominion's Army |
+
 ## History
 
 ### Origins and Emergence
