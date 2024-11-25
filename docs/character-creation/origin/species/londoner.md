@@ -46,4 +46,8 @@ You gain additional ways to gain Heroic Inspiration:
 
 You have :dmg-res: Resistance to :dmg-psychic: Psychic damage. You also have :d20-adv: Advantage on saving throws you make to avoid or end the ^^Charmed^^ and ^^Frightened^^ condition.
 
+### British Ingenuity
+
+You gain proficiency in one skill of your choice.
+
 [Dominion's Armaments]: ../../../option/feat/feat-origin/hb.md#dominions-armaments
