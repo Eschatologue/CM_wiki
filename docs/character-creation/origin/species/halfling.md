@@ -14,7 +14,7 @@ As a Halfling, you have these special traits.
 
 ### Brave
 
-You have Advantage on saving throws you make to avoid or end the Frightened condition.
+You have :d20-adv: Advantage on saving throws you make to avoid or end the ^^Frightened^^ condition.
 
 ### Halfling Nimbleness
 
@@ -26,4 +26,4 @@ When you roll a 1 on the d20 of a D20 Test, you can reroll the die, and you must
 
 ### Naturally Stealthy
 
-You can take the Hide action even when you are obscured only by a creature that is at least one size larger than you.
+You can take the :rsc-a: **Hide** action even when you are obscured only by a creature that is at least one size larger than you.

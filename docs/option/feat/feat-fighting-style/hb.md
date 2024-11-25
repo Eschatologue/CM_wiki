@@ -52,7 +52,7 @@ You specialise one weapon rather than many. Choose one Weapon or Firearm that yo
 | 1 | 1d4 |
 | 1d4 | 1d6 |
 | 1d6 | 1d8 |
-| 2d4 / 1d8 | 1d10 |
+| 2d4 or 1d8 | 1d10 |
 | 1d10 | 1d12 |
 | 2d6 or 1d12 | 2d6 / 1d12 + 1* |
 
@@ -76,7 +76,7 @@ You gain **2 Superiority Die**, which are :die-d6: d6s (this die is added to any
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*  
 
-Having the Prone condition doesn't impose :d20-disadv: **Disadvantage** on your Ranged weapon attacks. Moreover, while Prone, when you hit the target within your Ranged weapon's normal range you can treat any 1 or 2 on a damage die as a 3.
+Having the ^^Prone^^ condition doesn't impose :d20-disadv: **Disadvantage** on your Ranged weapon attacks. Moreover, while ^^Prone^^, when you hit the target within your Ranged weapon's normal range you can treat any 1 or 2 on a damage die as a 3.
 
 Moreover, your attack with Ranged weapon doesn't have :d20-disadv: **Disadvantage** if your target has the Prone condition so long your target is within your weapon normal range.
 

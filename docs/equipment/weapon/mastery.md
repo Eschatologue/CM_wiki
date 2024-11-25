@@ -84,7 +84,7 @@ These Mastery property are homebrew.
 
 _**Prerequisite:** Melee weapon that deals :dmg-blunt: Bludgeoning damage or Ranged weapon with :weapon-prop-heavy: ^^Heavy^^ property_
 
-If you hit a creature with this weapon, you can choose to deal only half damage and the target's :rsc-speed: Speed becomes 0 until the start of your next turn.
+If you hit a creature with this weapon, you can choose to deal only half damage and make the target's :rsc-speed: Speed becomes 0 until the start of your next turn.
 
 ---
 
@@ -100,7 +100,7 @@ When you make an attack with this weapon, you can expend half of your total :rsc
 
 _**Prerequisite:** :weapon-prop-automatic: ^^Automatic^^ property_
 
-When make an Automatic attack using this weapon, you can add your ability modifier to the damage roll of the second attack.
+When you make an :weapon-prop-automatic: Automatic attack using this weapon, you can add your ability modifier to the damage roll of the second attack.
 
 ---
 
@@ -108,7 +108,7 @@ When make an Automatic attack using this weapon, you can add your ability modifi
 
 _**Prerequisite:** :weapon-prop-versatile: ^^Versatile^^ property_
 
-When you hit a melee attack using this weapon, you deal its Versatile damage even if you're wielding it with one hand.
+When you hit a melee attack using this weapon, you deal its :weapon-prop-versatile: Versatile damage even if you're wielding it with one hand.
 
 ---
 
@@ -116,7 +116,7 @@ When you hit a melee attack using this weapon, you deal its Versatile damage eve
 
 _**Prerequisite:** :weapon-prop-reach: ^^Reach^^ or :weapon-prop-versatile: ^^Versatile^^ property_
 
-As an Attack action, you can choose a target within your :rsc: Speed and move torwards it in a straight line without provoking :rsc-r: Opportunity Attack and make an attack against it with :d20-adv: Advantage. 
+As an :rsc-a: **Attack** action, you can choose a target within your :rsc: Speed and move torwards it in a straight line and make an attack against it with :d20-adv: Advantage. This movement does not provoking :rsc-r: Opportunity Attack
 
 ---
 
@@ -124,7 +124,7 @@ As an Attack action, you can choose a target within your :rsc: Speed and move to
 
 _**Prerequisite:** Ranged weapon that lacks :weapon-prop-two-handed: ^^Two-Handed^^ property_
 
-When you take the Dash or Disengage action, you can make Ranged attack as a :rsc-b: Bonus Action. 
+When you take the :rsc-a: **Dash** or :rsc-a: **Disengage** action, you can make one Ranged attack as a part of the same action. 
 
 ---
 
@@ -132,6 +132,6 @@ When you take the Dash or Disengage action, you can make Ranged attack as a :rsc
 
 _**Prerequisite:** :weapon-prop-automatic: ^^Automatic^^ property and :weapon-prop-reload: ^^Reload (8+)^^_
 
-When you take the Attack action, you can choose to expend 8 pieces of the weapon's ammunition to spray shots in a 15-foot Cube within the weapon's normal range. Each creature in that area must succeed on a Dexterity saving throw with a DC equal to 8 + your Proficiency Bonus + your Dexterity modifier or take damage. Roll the weapon's damage, and apply it to each creature that failed the save. You can't make this special attack if you have less than 8 ammunition in the weapon.
+When you take the :rsc-a: **Attack** action, you can choose to expend 8 pieces of the weapon's ammunition to spray shots in a 15-foot Cube within the weapon's normal range. Each creature in that area must succeed on a Dexterity saving throw with a DC equal to 8 + your Proficiency Bonus + your Dexterity modifier or take damage. Roll the weapon's damage, and apply it to each creature that failed the save. You can't make this special attack if you have less than 8 ammunition in the weapon.
 
 ---

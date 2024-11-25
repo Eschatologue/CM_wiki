@@ -6,12 +6,6 @@ status: homebrew
 
 The Londoners arrived from beyond Antares through the Northern Gate, bringing with them their ingenuity, advanced technology, and strong ideologies. Highly intelligent and deeply nationalistic, these humans have a mysterious past, their will tempered by constant warfare and perpetual threats to their existence—a reality that persists even in Antares.
 
-!!! warning "Class Restriction"
-
-    Humans from the London lineage are outsiders to the continent of Antares. As a result, the Weave of magic does not interact with them in the same way it does with the native races, rendering them unable to perform direct spellcraft. However, a small number of Londoners have found ways to wield magic, often through the use of technological innovations, casting units, or ancient artifacts that contain magical properties.
-
-    When you choose this race, you are restricted from the **Bard**, **Cleric**, **Druid**, **Sorcerer**, and **Wizard** classes.
-
 ## Londoner Traits
 
 *Crown & Misery Species*
@@ -20,28 +14,36 @@ The Londoners arrived from beyond Antares through the Northern Gate, bringing wi
 :trait-size: **Size:** Medium (about 4-7 feet tall) or Small (about 2-4 feet tall)  
 :rsc-speed: **Speed:** Standard (30 feet)
 
-As a Londoner, you have these following traits. Moreover, you are considered a **Human** for the purpose of features or effects that requires you to be Human.
+You are unfortunate enough to have roots in Albion. You have these following traits. 
 
-### Additional Language
+Moreover, you are considered a **Human** for the purpose of features or effects that requires you to be Human.
 
-You learn an additional language; *English*
+### Class Restriction
 
-### British Ingenuity
+You are restricted from choosing the **Bard**, **Cleric**, **Druid**, **Sorcerer**, and **Wizard** classes.
 
-You have proficiency with :weapon-pistol: Short-Arms. If you are proficient in :prof-wp-martial: Martial weapons, it grants you proficiency with all Firearms.
+??? info "Why Restriction?"
 
-### Inferior Athleticism
+    Humans from the Albion are outsiders in Antares. As a result, the Weave of magic does not interact with them in the same way it does with the native races, rendering them unable to perform direct spellcraft. However, a small number of Londoners have found ways to wield magic, often through the use of technological innovations, casting units, or ancient artifacts that contain magical properties.
 
-You have :d20-disadv: **Disadvantage** on Strength-based D20 Test against creatures other than your own species.
+### Ability Score Change
+
+Your Strength score is reduced by 2 and your Intelligence score is increased by 2.
+
+### Bri'ish
+
+You know the *English* language and you gain the [Dominion's Armaments] Origin feat.
+
+### Desperate Inspiration
+
+You gain additional ways to gain Heroic Inspiration:
+
+***Critical.*** When a creature scores a Critical Hit against you, you gain Heroic Inspiration and regain Hit Points equal to your character level.
+
+***Death.*** When an ally that you can see or hear drops to 0 hit points, you gain Heroic Inspiration and regain Hit Points equal to your character level.
 
 ### Mental Resilience
 
-You have Resistance to :dmg-psychic: Psychic damage. You also have :d20-adv: **Advantage** on saving throws you make to avoid or end the Frightened condition.
+You have :dmg-res: Resistance to :dmg-psychic: Psychic damage. You also have :d20-adv: Advantage on saving throws you make to avoid or end the ^^Charmed^^ and ^^Frightened^^ condition.
 
-### Skillful
-
-You gain proficiency in one skill of your choice.
-
-### Versatile
-
-You gain an Origin feat of your choice. Skilled is recommended.
+[Dominion's Armaments]: ../../../option/feat/feat-origin/hb.md#dominions-armaments

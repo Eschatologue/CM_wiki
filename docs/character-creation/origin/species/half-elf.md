@@ -31,7 +31,7 @@ You have Darkvision with a range of 60 feet.
 
 ### Fey Ancestry
 
-You have Advantage on saving throws you make to avoid or end the Charmed condition.
+You have :d20-adv: Advantage on saving throws you make to avoid or end the ^^Charmed^^ condition.
 
 ### Skillful
 
