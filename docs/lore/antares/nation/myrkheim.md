@@ -1,9 +1,10 @@
 ---
 search:
   boost: 0.25
+status: draft
 ---
 
-:nation-myrkheim:
+:nation-myrkheim:{ .xxxxl }
 
 # Myrkheim
 

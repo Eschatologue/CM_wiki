@@ -1,9 +1,10 @@
 ---
 search:
   boost: 0.25
+status: draft
 ---
 
-:nation-lothringen:
+:nation-lothringen:{ .xxxxl }
 
 # Lothringen
 

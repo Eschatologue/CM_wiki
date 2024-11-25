@@ -1,8 +1,9 @@
 ---
 search:
   boost: 0.25
+status: draft
 ---
 
-:nation-tartessia:
+:nation-tartessia:{ .xxxxl }
 
 # Tartessia

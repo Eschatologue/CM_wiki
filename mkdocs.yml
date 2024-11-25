@@ -46,6 +46,7 @@ extra:
   status:
     homebrew: Homebrew material
     adapted: Adapted to PHB'24
+    draft: Draft
 
 ## JS
 extra_javascript:
@@ -404,9 +405,12 @@ nav:
       - Continent: lore/antares/continent.md
       - Nation:
         - Gallia: lore/antares/nation/gallia.md
+        - Karakorum: lore/antares/nation/karakorum.md
         - London: lore/antares/nation/london.md
         - Lothringen: lore/antares/nation/lothringen.md
         - Myrkheim: lore/antares/nation/myrkheim.md
+        - Soterrano: lore/antares/nation/soterrano.md
+        - Tartessia: lore/antares/nation/tartessia.md
         - Valinor: lore/antares/nation/valinor.md
       - Life: lore/antares/life.md
       - Race: 

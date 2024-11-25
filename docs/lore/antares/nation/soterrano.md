@@ -1,8 +1,9 @@
 ---
 search:
   boost: 0.25
+status: draft
 ---
 
-:nation-soterrano:
+:nation-soterrano:{ .xxxxl }
 
 # Soterrano

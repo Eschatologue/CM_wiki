@@ -1,9 +1,10 @@
 ---
 search:
   boost: 0.25
+status: draft
 ---
 
-:nation-kamikaze: :nation-tianming: :nation-urga:
+:nation-kamikaze:{ .xxxxl } :nation-tianming:{ .xxxxl } :nation-urga:{ .xxxxl }
 
 # Karakorum  
 
