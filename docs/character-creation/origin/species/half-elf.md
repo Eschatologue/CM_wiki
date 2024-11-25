@@ -6,6 +6,66 @@ status: adapted
 
 Half-Elves walk a delicate line, inheriting the blessings of both their human and elven lineage while grappling with a sense of not truly belonging. They blend the inquisitiveness, ingenuity, and drive of humans with the heightened senses, appreciation for nature, and artistic inclinations of elves.
 
+## Half Elf Traits
+
+*PHB'14 Species*
+
+:material-human: **Creature Type:** Humanoid  
+:trait-size: **Size:** Medium (about 4-7 feet tall)  
+:rsc-speed: **Speed:** Standard (30 feet)
+
+As a Half Elf, you have these special traits.
+
+### Mixed Ancestry
+
+As a Half-Elf, you combine both the traits of Humans and Elves, each Half Elf is unique in its own way.
+
+You may choose traits from the Elf Traits and Human Traits lists below. Each trait has a point value (shown in parentheses), and the total points from your chosen traits **cannot exceed 7**.
+
+### Elf Traits
+
+The following are traits from the Elf species.
+
+#### Darkvision (1)
+
+You have Darkvision with a range of 60 feet.
+
+#### Fey Ancestry (1)
+
+You have :d20-adv: Advantage on saving throws you make to avoid or end the ^^Charmed^^ condition.
+
+#### Keen Senses (1)
+
+You have proficiency in the Insight, Perception, or Survival skill.
+
+#### Trance (1)
+
+You don't need to sleep, and magic can't put you to sleep. You can finish a Long Rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
+
+#### Elven Lineage (5)
+
+Choose a lineage from the Elven Lineages table to gain its level 1 benefit. At levels 3 and 5, you learn higher-level spells from the table, which are always prepared. You can cast each spell once per Long Rest without a slot or using spell slots. Choose Intelligence, Wisdom, or Charisma as your spellcasting ability for these spells.
+
+--8<-- "docs\character-creation\origin\species\elf.md:species-elven-lineage-table"
+
+### Human Traits
+
+The following are traits from the Human species.
+
+#### Resourceful (2)
+
+You gain Heroic Inspiration whenever you finish a Long Rest.
+
+#### Skillful (1)
+
+You gain proficiency in one skill of your choice.
+
+#### Versatile (4)
+ 
+You gain an Origin feat of your choice.
+
+<!--
+
 ***Drow Heritage***  
 When the majority of humans moved to the depths of the Underdark for protection, cultures from myriad of nations and races began to intermingle. Thankfully, the severe trust issues of the Drow did not pass down to these Half-elves
 
@@ -15,40 +75,4 @@ A faint echo of the Ancient Forest's grace lingers in half-elves with this blood
 ***Wood-Elf Heritage***  
 Inheriting the nimble grace and stealthy nature of their wood elf parents, these half-elves move with a quickened stride and possess an acute awareness of their surroundings, making them adept at navigating both natural and urban environments unseen.
 
-## Half Elf Traits
-
-*PHB'14 Species*
-
-:material-human: **Creature Type:** Humanoid  
-:trait-size: **Size:** Medium (about 4-7 feet tall)  
-:rsc-speed: **Speed:** Standard (30 feet)
-
-As a Half-Elf, you have these special traits.
-
-### Darkvision
-
-You have Darkvision with a range of 60 feet.
-
-### Fey Ancestry
-
-You have :d20-adv: Advantage on saving throws you make to avoid or end the ^^Charmed^^ condition.
-
-### Skillful
-
-You gain proficiency in one skill of your choice.
-
-### Half Elf Versatility
-
-Choose one of the following options, whichever one you choose, Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait, if any. (Choose the ability when you select the lineage):
-
-***Cantrip (High Elf Heritage)***  
-You know the *Prestidigitation* cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list.
-
-***Drow Magic (Drow)***  
-The range of your Darkvision increases to 120 feet. You also know the *Dancing Lights* cantrip.
-
-***Fleet of Foot (Wood Elf)***  
-Your :rsc-speed: Speed increases to 35 feet. You also know the *Druidcraft* cantrip. 
-
-***Skill Versatility (General)***  
-You gain proficiency in two skills of your choice.
+-->

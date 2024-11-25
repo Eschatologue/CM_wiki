@@ -49,14 +49,17 @@ You have proficiency in the Insight, Perception, or Survival skill.
 
 You don't need to sleep, and magic can't put you to sleep. You can finish a Long Rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
 
+<!-- --8<-- [start:species-elven-lineage-table] -->
+
 ##### Elven Lineage
 
 | Lineage | Level 1 | Level 3 | Level 5 |
 |---|---|---|---|
-| Drow | The range of your Darkvision increases to 120 feet. You also know the *Dancing Lights* cantrip. | *Faerie Fire* | *Darkness* |
-| High Elf | You know the *Prestidigitation* cantrip. Can :material-reload: Replace on Long Rest with another Wizard's cantrip. | *Detect Magic* | *Misty Step* |
-| Sea Elf^*CM*^ | You have Swim speed equals to your :rsc-speed: Speed and :dmg-res: Resistance to :dmg-cold: Cold damage | *Create or Destroy Water* | *Water Walk* |
-| Wood Elf | Your :rsc-speed: Speed increases to 35 feet. You also know the *Druidcraft* cantrip. | *Longstrider* | *Pass without Trace* |
+| Drow | The range of your Darkvision increases to 120 feet. <br>You also know the *Dancing Lights* cantrip. | *Faerie Fire* | *Darkness* |
+| High Elf | You know the *Prestidigitation* cantrip. <br>Can :material-reload: Replace on Long Rest with another Wizard's cantrip. | *Detect Magic* | *Misty Step* |
+| Wood Elf | Your :rsc-speed: Speed increases to 35 feet. <br>You also know the *Druidcraft* cantrip. | *Longstrider* | *Pass without Trace* |
+
+<!-- --8<-- [end:species-elven-lineage-table] -->
 
 <!--
 ## Lore

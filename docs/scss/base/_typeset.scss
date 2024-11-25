@@ -15,7 +15,7 @@ $defaultFontWeight: 300;
 $h1Size: $defaultFontSize * 2.25;
 $h2Size: $defaultFontSize * 1.5;
 $h3Size: $defaultFontSize * 1.3;
-$h4Size: $defaultFontSize * 1.05;
+$h4Size: $defaultFontSize * 1.15;
 
 // Main Typeset
 .md-typeset {
@@ -95,7 +95,7 @@ $h4Size: $defaultFontSize * 1.05;
 
     h4 {
         font-size: $h4Size;
-        letter-spacing: $h4Size * 0.03;
+        letter-spacing: $h4Size * 0.05;
         font-weight: 600;
         margin: convert.px2rem(12px) 0 convert.px2rem(-6px) 0;
         padding-bottom: convert.px2rem(-2px);
