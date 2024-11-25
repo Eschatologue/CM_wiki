@@ -3,6 +3,8 @@ search:
   boost: 0.25
 ---
 
+:nation-gallia:
+
 # Gallia
 
 The **Empire of Gallia**, also referred to as the **Gallian Empire**, is an empire located in the south-east of the Antares continent. Once the dominant power in the region, with its capital **Lyon** serving as the heart of Antares, the empire's supremacy was severely weakened by a violent revolution and the devastation of the Second Rapture.

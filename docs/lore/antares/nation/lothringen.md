@@ -3,6 +3,8 @@ search:
   boost: 0.25
 ---
 
+:nation-lothringen:
+
 # Lothringen
 
 **Lothringen**, officially known as the **Empire of Lothringen**, is renowned for its rich cultural heritage, encompassing vibrant arts, literature, and a unique magical discipline known as **Artifice**, which blends magic and technology. Its openness to innovation and diverse ideas sets it apart from most nations in Antares, and its celebrated **Minstrel** are esteemed across the continent.

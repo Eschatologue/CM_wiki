@@ -3,6 +3,8 @@ search:
   boost: 0.25
 ---
 
+:nation-kamikaze: :nation-tianming: :nation-urga:
+
 # Karakorum  
 
 The **Karakorum Alliance**, often referred to simply as **Karakorum**, is a nomadic coalition of colossal arks traversing the coastlines of Antares. Each of the three remaining arks is renowned for its unique role and identity: one is celebrated for the bravery of its warriors, acting as a stronghold and a source of legendary mercenaries; another is distinguished by its intricate trade network, serving as a hub of commerce and diplomacy for nations across Antares; and the final ark, the seat of power for the alliance, is famed for its grand architecture, which inspires scholars and artisans alike.  

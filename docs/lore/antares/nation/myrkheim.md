@@ -3,6 +3,8 @@ search:
   boost: 0.25
 ---
 
+:nation-myrkheim:
+
 # Myrkheim
 
 The **Federal Republic of Myrkheim**, commonly known as **Myrkheim**, is a dwarf-dominated nation located in the mountainous regions of Antares. Known for its expertise in mining and craftsmanship, the dwarves have transformed their rugged terrain into formidable fortresses and industrial cities. Once fractured by internal conflicts, Myrkheim is now a major supplier of raw materials to nations across Antares, bolstered by technological partnerships with London.

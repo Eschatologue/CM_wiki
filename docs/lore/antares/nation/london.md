@@ -15,8 +15,10 @@ The **Dominion of Albion**, officially referred to as **Albion** and commonly kn
 | **Type** | Federal Dominant-party Stratocracy |
 | **Head of State** | Chancellor |
 | **Head of Goverment** | High Minister |
-| **Demonym** | Londoners <br>Londiniers <br>British |
-| **Military Strength** | Dominion's Army |
+| **Demonym** | Londoners <br>Londiniers <br>British <br>Abhuman (Derogatory) |
+| **Military Strength** | Dominion's Army, Ministry of War |
+| **Currency** | British Sovereign <br>Gallian Silver |
+| **Races** | Predominantly Londoners <br>Dwarves <br>Elves <br>Halflings |
 
 ## History
 
