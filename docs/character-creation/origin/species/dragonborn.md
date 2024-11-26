@@ -59,7 +59,7 @@ Breath Weapon damage is 1d10 with its damage type determined based on Dragonborn
 A Breath Weapon attack targets an area of a *15 ft. :aoe-cone: Cone* or a *5 by 30 ft. :aoe-line: Line* (choose the shape each time), originating from you. 
 
 ***Saving Throw***  
-A Breath Weapon attack forces a Dexterity Saving Throw at its targets. The DC is equals 8 + your Constitution Modifier + your Proficiency Bonus. Targets still takes half damage on a successful Save.
+A Breath Weapon attack forces a Dexterity saving throw at its targets. The DC is equals 8 + your Constitution Modifier + your Proficiency Bonus. Targets still takes half damage on a successful Save.
 
 ***Usage***  
 You can use your Breath Weapon a number of times equal to your Proficiency Bonus, and you regain all expended use when you finish a Long Rest.

@@ -404,9 +404,9 @@ nav:
     - Antares: 
       - Continent: lore/antares/continent.md
       - Nation:
+        - Albion: lore/antares/nation/london.md
         - Gallia: lore/antares/nation/gallia.md
         - Karakorum: lore/antares/nation/karakorum.md
-        - London: lore/antares/nation/london.md
         - Lothringen: lore/antares/nation/lothringen.md
         - Myrkheim: lore/antares/nation/myrkheim.md
         - Soterrano: lore/antares/nation/soterrano.md
