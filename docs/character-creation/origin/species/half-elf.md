@@ -46,7 +46,13 @@ You don't need to sleep, and magic can't put you to sleep. You can finish a Long
 
 Choose a lineage from the Elven Lineages table to gain its level 1 benefit. At levels 3 and 5, you learn higher-level spells from the table, which are always prepared. You can cast each spell once per Long Rest without a slot or using spell slots. Choose Intelligence, Wisdom, or Charisma as your spellcasting ability for these spells.
 
---8<-- "docs\character-creation\origin\species\elf.md:species-elven-lineage-table"
+##### Elven Lineage
+
+| Lineage | Level 1 | Level 3 | Level 5 |
+|---|---|---|---|
+| Drow | The range of your Darkvision increases to 120 feet. <br>You also know the *Dancing Lights* cantrip. | *Faerie Fire* | *Darkness* |
+| High Elf | You know the *Prestidigitation* cantrip. <br>Can :material-reload: Replace on Long Rest with another Wizard's cantrip. | *Detect Magic* | *Misty Step* |
+| Wood Elf | Your :rsc-speed: Speed increases to 35 feet. <br>You also know the *Druidcraft* cantrip. | *Longstrider* | *Pass without Trace* |
 
 ### Human Traits
 
