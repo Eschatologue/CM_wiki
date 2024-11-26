@@ -9,13 +9,13 @@ search:
 
 #### General Information
 
-- **CAPITAL:** New London
-- **TYPE:** Federal Dominant-party Stratocracy
-- **DEMONYM:** Londoners, Londiniers, British
-- **HEAD OF STATE:** Chancellor
-- **HEAD OF GOVERMENT:** High Minister
-- **MILITARY STRENGTH:** Dominion's Army (Air Force & Land Fleet)
-- **CURRENCY:** British Sovereign, Gallian Silver
+- **Capital:** New London
+- **Type:** Federal Dominant-party Stratocracy
+- **Demonym:** Londoners, Londiniers, British
+- **Head of State:** Chancellor
+- **Head of Government:** High Minister
+- **Military Strength:** Dominion's Army (Air Force & Land Fleet)
+- **Currency:** British Sovereign, Gallian Silver
 
 ## Overview
 

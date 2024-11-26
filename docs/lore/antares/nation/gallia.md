@@ -10,15 +10,15 @@ search:
 #### General Information
 
 - **Capital:** Lyon
-- **Type:** Imperial Monarchy
+- **Type:** Unitary Semi-Constitutional Monarchy
 - **Demonym:** Gallian, Gaul
 - **Head of State:** Emperor/Empress of Gallia
-- **Military Strength:** Imperial Knights, Imperial Casters
+- **Military Strength:** Imperial Custodes, Gallian Légionnaire
 - **Currency:** Gallian Silver
 
 ## Overview
 
-The **Empire of Gallia**, also referred to as the **Gallian Empire**, is an empire located in the south-east of the Antares continent. Once the dominant power in the region, with its capital **Lyon** serving as the heart of Antares, the empire's supremacy was severely weakened by a violent revolution and the devastation of the Second Rapture.
+The **Empire of Gallia**, also referred to as the **Gallian Empire**, is an empire located in the south-east of the Antares continent. Once the dominant power in the region, with its capital **Lyon** serving as the heart of Antares, the empire's supremacy was severely weakened by the Second Rapture and aa violent revolution soon after.
 
 Despite these challenges, Gallia remains a significant centre of arcane knowledge, renowned for its magical traditions. The empire continues to influence arcane warfare and hosts Antares' most prestigious military academy, where noble-born mages and sorcerers are trained in both magic and strategy. Though no longer commanding the largest military, Gallia focuses on preserving its remaining territories and protecting its magical heritage.
 
@@ -61,8 +61,6 @@ For centuries, the region of **Lothringen** (formerly known as Lorraine) was a s
 With Gallia preoccupied by widespread unrest and mass protests in its core territories, Lothringen faced little resistance. Minor skirmishes occurred along the borders, but Gallia lacked the resources and focus to mount a coordinated response. As a result, Lothringen successfully detached itself from the empire's rule and established itself as an independent political entity, led by its newly crowned **Kaiser**. 
 
 In the modern era, relations between Gallia and Lothringen remain shaky at best. By the time Gallia somewhat recovered its stability, Lothringen had already developed into a well-established and functioning nation. With a sophisticated military and a strategic political presence in Antares, retaking the territory has become increasingly difficult, especially as Gallia no longer had its former strength. 
-
-Complicating matters further is Lothringen’s close alliance with Albion. As a centre of a new school of magic—**Artifice**, or **Technomancy**—and a region rich in natural resources, Lothringen's position is firmly backed by Albion. Any attack on the territory would risk sparking a conflict with Albion, a prospect that no nation in Antares is willing to entertain (see Destruction of Essen). 
 
 ## Government Structure
 

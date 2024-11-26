@@ -42,13 +42,12 @@ Choose one of the following actions: *Dash*, *Disengage*, *Hide* or *Utilise*. Y
 
 *Origin Feat (Prerequisite: Dexterity or Intelligence 13+, English Language Proficiency, Crown & Misery Setting)*  
 
-London's reach extends far, and with it, their influence upon you. You gain the benefits below:
+Albion's reach extends far, and with it, their influence upon you. You gain the benefits below:
 
 **Firearm Proficiency**  
 You gain proficiency with Short-Arms. If you are proficient with :prof-wp-martial: Martial weapons, you gain proficiency with all Firearms.
 
-**Efficient Augmentation**  
-You gain Proficiency with Gunsmith's Tool. If you are already proficient with it, your Firearm Augmentation Limit is increased by half of your Proficiency Bonus (rounded down).
+aaaa
 
 ---
 
