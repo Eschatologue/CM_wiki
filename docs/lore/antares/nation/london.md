@@ -9,17 +9,17 @@ search:
 
 #### General Information
 
-- **Capital & Largest City:** New London
-- **Type:** Federal Dominant-party Stratocracy
-- **Demonym:** Londoners, Londiniers, British
-- **Head of State:** Chancellor
-- **Head of Government:** High Minister
-- **Military Strength:** Dominion's Army, Ministry of War
-- **Currency:** British Sovereign, Gallian Silver
+- **CAPITAL:** New London
+- **TYPE:** Federal Dominant-party Stratocracy
+- **DEMONYM:** Londoners, Londiniers, British
+- **HEAD OF STATE:** Chancellor
+- **HEAD OF GOVERMENT:** High Minister
+- **MILITARY STRENGTH:** Dominion's Army (Air Force & Land Fleet)
+- **CURRENCY:** British Sovereign, Gallian Silver
 
 ## Overview
 
-The **Dominion of Albion**, officially referred to as **Albion** and commonly known as **London**, is a nation located in the northwestern part of Antares, characterised by its sprawling metropolises made of steel and glass, and its bleeding-edge technology. Albion is widely regarded as a bastion of industrial might and military prowess, standing as the most influential nation in Antares.
+The **Dominion of Albion**, officially referred to as **Albion** and commonly known as **London**, is a nation located in the northwestern part of Antares, characterised by its sprawling metropolises of steel and glass, and its bleeding-edge technology. Albion is widely regarded as a bastion of industrial might and military prowess, standing as the most influential nation in Antares.
 
 ## History
 
