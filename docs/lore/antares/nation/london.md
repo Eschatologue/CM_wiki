@@ -14,14 +14,8 @@ The **Dominion of Albion**, officially referred to as **Albion** and commonly kn
 - **Capital & Largest City:** New London
 - **Type:** Federal Dominant-party Stratocracy
 - **Demonym:** Londoners, Londiniers, British
-
-#### Leadership
-
 - **Head of State:** Chancellor
 - **Head of Government:** High Minister
-
-#### Military & Economy
-
 - **Military Strength:** Dominion's Army, Ministry of War
 - **Currency:** British Sovereign, Gallian Silver
 
