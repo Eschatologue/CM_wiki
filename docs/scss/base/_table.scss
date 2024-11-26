@@ -56,7 +56,6 @@ $th-padding: $paddingScale * 1.4;
     // BEM Element for tables within .md-typeset
     &__table {
         width: 100%;
-
         table:not([class]) {
             box-shadow: var(--md-shadow-z2);
             margin-top: convert.px2rem(4px);

@@ -1,6 +1,6 @@
 ---
 title: Origin Feat
-icon: material/cards-diamond
+icon: option/feat-origin
 hide:
     - toc
 ---
@@ -11,44 +11,40 @@ These feats are in **Origin** Category
 
 The table below lists available General Feats, divided into two categories: *PHB '24* and *Homebrew*.
 
-##### PHB'24 Origin Feats
+### PHB'24 Origin Feats
 
-| PHB'24 Feats | | | |
-|---|---|---|---|
-| [Alert] | [Magic Initiate] | [Tavern Brawler] | |
-| [Crafter] | [Musician] | [Tough] | |
-| [Healer] | [Savage Attacker] |  | |
-| [Lucky] | [Skilled] |  | |
+<div class="grid cards" markdown>
 
-##### Homebrew Origin Feats
+- :option-feat-origin: [Alert](phb24.md#alert)
+- :option-feat-origin: [Crafter](phb24.md#crafter)
+- :option-feat-origin: [Healer](phb24.md#healer)
+- :option-feat-origin: [Lucky](phb24.md#lucky)
+- :option-feat-origin: [Magic Initiate](phb24.md#magic-initiate)
+- :option-feat-origin: [Musician](phb24.md#musician)
+- :option-feat-origin: [Savage Attacker](phb24.md#savage-attacker)
+- :option-feat-origin: [Skilled](phb24.md#skilled)
+- :option-feat-origin: [Tavern Brawler](phb24.md#tavern-brawler)
+- :option-feat-origin: [Tough](phb24.md#tough)
 
-| Homebrew Feats |  |  |  |
-|---|---|---|---|
-| [Artifice Initiate] | [Fighting Initiate] | [Psychoanalyst] |  |
-| [Burglar] | [Historian] | [Sorcerous Spark] |  |
-| [Dominion's Armaments] | [Lifelong Learner] | [Surivalist Initiate] |  |
-| [Eldritch Initiate] | [Linguist] | [Wise One] |  |
+</div>
 
-[Alert]: phb24.md#alert
-[Crafter]: phb24.md#crafter
-[Healer]: phb24.md#healer
-[Lucky]: phb24.md#lucky
-[Magic Initiate]: phb24.md#magic-initiate
-[Musician]: phb24.md#musician
-[Savage Attacker]: phb24.md#savage-attacker
-[Skilled]: phb24.md#skilled
-[Tavern Brawler]: phb24.md#tavern-brawler
-[Tough]: phb24.md#tough
+### Homebrew Origin Feats
 
-[Artifice Initiate]: hb.md#artifice-initiate
-[Burglar]: hb.md#burglar
-[Eldritch Initiate]: hb.md#eldritch-initiate
-[Fighting Initiate]: hb.md#fighting-initiate
-[Historian]: hb.md#historian
-[Lifelong Learner]: hb.md#lifelong-learner
-[Linguist]: hb.md#linguist
-[Psychoanalyst]: hb.md#psychoanalyst
-[Sorcerous Spark]: hb.md#sorcerous-spark
-[Surivalist Initiate]: hb.md#survivalist-initiate
-[Dominion's Armaments]: hb.md#dominions-armaments
-[Wise One]: hb.md#wise-one
+<div class="grid cards" markdown>
+
+- :option-feat-origin: [Artifice Initiate](hb.md#artifice-initiate)
+- :option-feat-origin: [Burglar](hb.md#burglar)
+- :option-feat-origin: [Dominion's Armaments](hb.md#dominions-armaments)
+- :option-feat-origin: [Eldritch Initiate](hb.md#eldritch-initiate)
+- :option-feat-origin: [Fighting Initiate](hb.md#fighting-initiate)
+- :option-feat-origin: [Historian](hb.md#historian)
+- :option-feat-origin: [Lifelong Learner](hb.md#lifelong-learner)
+- :option-feat-origin: [Linguist](hb.md#linguist)
+- :option-feat-origin: [Psychoanalyst](hb.md#psychoanalyst)
+- :option-feat-origin: [Sorcerous Spark](hb.md#sorcerous-spark)
+- :option-feat-origin: [Survivalist Initiate](hb.md#survivalist-initiate)
+- :option-feat-origin: [Wise One](hb.md#wise-one)
+
+</div>
+
+

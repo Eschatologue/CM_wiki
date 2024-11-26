@@ -1,5 +1,5 @@
 ---
-icon: material/cards-playing-diamond-multiple
+icon: option/feat-advanced
 status: homebrew
 ---
 

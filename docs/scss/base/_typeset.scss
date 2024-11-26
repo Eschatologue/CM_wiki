@@ -63,33 +63,17 @@ $h4Size: $defaultFontSize * 1.15;
         font-size: $h2Size;
         font-weight: $defaultFontWeight * 1.5;
         letter-spacing: $h2Size * 0.03;
-        border-bottom: convert.px2rem(2.5px) solid rgba(255, 255, 255, 0.25);
+        border-bottom: convert.px2rem(2.5px) solid var(--md-default-wht--025);
         margin: convert.px2rem(18px) 0 convert.px2rem(4px) 0;
         padding-bottom: convert.px2rem(2px);
     }
-
-    // h3 {
-    //     font-size: $h3Size;
-    //     font-weight: $defaultFontWeight * 1.4;
-    //     letter-spacing: $h3Size * 0.04;
-    //     margin: convert.px2rem(12px) 0 convert.px2rem(4px) 0;
-    //     display: flex;
-
-    //     &::after {
-    //         content: " ";
-    //         padding-bottom: convert.px2rem(2px);
-    //         border-bottom: convert.px2rem(2.25px) solid rgba(255, 255, 255, 0.15);
-    //         margin: 0 0 convert.px2rem(6px) convert.px2rem(10px);
-    //         flex: 20 0 convert.px2rem(20px);
-    //     }
-    // }
 
     h3 {
         font-size: $h3Size;
         font-weight: $defaultFontWeight * 1.4;
         letter-spacing: $h3Size * 0.04;
         margin: convert.px2rem(12px) 0 convert.px2rem(4px) 0;
-        border-bottom: convert.px2rem(2.35px) dotted rgba(255, 255, 255, 0.25);
+        border-bottom: convert.px2rem(2.35px) dotted var(--md-default-wht--025);
         padding-bottom: convert.px2rem(2px);
     }    
 
@@ -107,19 +91,26 @@ $h4Size: $defaultFontSize * 1.15;
         letter-spacing: $defaultFontSize * 0.03;
         font-weight: 500;
         text-transform: capitalize !important;
-        margin-bottom: convert.px2rem(-8px);
+        margin-bottom: convert.px2rem(-4px);
+        padding-bottom: convert.px2rem(-4px);
     }
 }
 
-.italic-text {
-    font-style: italic;
-    font-weight: $defaultFontWeight * 1.25
-}
-
-// Custom Font Size Classes
-.ich1 {
-    font-size: 4.5rem;
-    margin: 0.25em 0 -0.25em;
+/* Divider Line */
+.md-typeset hr {
+    border-bottom: convert.px2em(3px) dashed rgba(255, 255, 255, 0.15);
+    &::after {
+        content: "§";
+        font-weight: 700;
+        color: rgba(255, 255, 255, 0.15);
+        display: inline-block;
+        position: absolute;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        transform-origin: 50% 50%;
+        padding: convert.px2rem(2px) convert.px2rem(8px);
+        background-color: var(--md-default-bg-color);
+    }
 }
 
 .xxxxl {

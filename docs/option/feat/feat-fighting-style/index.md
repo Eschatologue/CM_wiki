@@ -1,6 +1,6 @@
 ---
 title: Fighting Style Feat
-icon: material/sword-cross
+icon: option/feat-fighting
 hide:
     - toc
 ---
@@ -11,41 +11,35 @@ These feats are in **Fighting Style** category.
 
 You can't take the same Fighting Style feat option more than once, even if you get to choose again.
 
-##### PHB'24 Fighting Style
+### PHB'24 Fighting Style
 
-| PHB'24 |  |  |
-|---|---|---|
-| [Archery] | [Great Weapon Fighting] | [Two-Weapon Fighting] |
-| [Blind Fighting] | [Interception] | [Unarmed Fighting] |
-| [Defense] | [Protection] |  |
-| [Dueling] | [Thrown-Weapon Fighting] |  |
+<div class="grid cards" markdown>
 
-#### Homebrew Fighting Style
+- :option-feat-fighting: [Archery](phb24.md#archery)
+- :option-feat-fighting: [Blind Fighting](phb24.md#blind-fighting)
+- :option-feat-fighting: [Defense](phb24.md#defense)
+- :option-feat-fighting: [Dueling](phb24.md#dueling)
+- :option-feat-fighting: [Great Weapon Fighting](phb24.md#great-weapon-fighting)
+- :option-feat-fighting: [Interception](phb24.md#interception)
+- :option-feat-fighting: [Protection](phb24.md#protection)
+- :option-feat-fighting: [Thrown-Weapon Fighting](phb24.md#thrown-weapon-fighting)
+- :option-feat-fighting: [Two-Weapon Fighting](phb24.md#two-weapon-fighting)
+- :option-feat-fighting: [Unarmed Fighting](phb24.md#unarmed-fighting)
+  
+</div>
 
-| Homebrew |  |  |
-|---|---|---|
-| [Gallian Swordplay] | [Signature Weapon] | [Standard Bearer] |
-| [Heavy Weapon Fighting] | [Superior Technique] | [Strongbow] |
-| [Shield Warrior] | [Sniper] | [Versatile Fighting] | [Trench Fighting] |
+### Homebrew Fighting Style
 
-[Archery]: phb24.md#archery  
-[Blind Fighting]: phb24.md#blind-fighting  
-[Defense]: phb24.md#defense  
-[Dueling]: phb24.md#dueling  
-[Great Weapon Fighting]: phb24.md#great-weapon-fighting  
-[Interception]: phb24.md#interception  
-[Protection]: phb24.md#protection  
-[Thrown-Weapon Fighting]: phb24.md#thrown-weapon-fighting  
-[Two-Weapon Fighting]: phb24.md#two-weapon-fighting  
-[Unarmed Fighting]: phb24.md#unarmed-fighting  
+<div class="grid cards" markdown>
 
-[Gallian Swordplay]: hb.md#gallian-swordplay  
-[Heavy Weapon Fighting]: hb.md#heavy-weapon-fighting  
-[Shield Warrior]: hb.md#shield-warrior  
-[Signature Weapon]: hb.md#signature-weapon  
-[Superior Technique]: hb.md#superior-technique  
-[Sniper]: hb.md#sniper  
-[Standard Bearer]: hb.md#standard-bearer  
-[Strongbow]: hb.md#strongbow  
-[Trench Fighting]: hb.md#trench-fighting
-[Versatile Fighting]: hb.md#versatile-fighting  
+- :option-feat-fighting: [Gallian Swordplay](hb.md#gallian-swordplay)
+- :option-feat-fighting: [Heavy Weapon Fighting](hb.md#heavy-weapon-fighting)
+- :option-feat-fighting: [Shield Warrior](hb.md#shield-warrior)
+- :option-feat-fighting: [Signature Weapon](hb.md#signature-weapon)
+- :option-feat-fighting: [Superior Technique](hb.md#superior-technique)
+- :option-feat-fighting: [Sniper](hb.md#sniper)
+- :option-feat-fighting: [Standard Bearer](hb.md#standard-bearer)
+- :option-feat-fighting: [Strongbow](hb.md#strongbow)
+- :option-feat-fighting: [Versatile Fighting](hb.md#versatile-fighting)
+
+</div>

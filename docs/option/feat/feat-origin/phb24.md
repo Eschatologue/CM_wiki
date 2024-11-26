@@ -39,7 +39,7 @@ When you finish a Long Rest, you can craft one piece of hear from the Fast Craft
 | Artisan's Tools | Crafted Gear |
 |---|---|
 | Carpenter's Tools | Ladder, Torch |
-| Gunsmith's Tools^New^ | Firearm Augmentation that cost below 1,500 SP |
+| Gunsmith's Tools^New^ | Pistol Cartridges, Rifle Cartridges, Shotgun Cartridges |
 | Leatherworker's Tools | Case, Pouch |
 | Mason's Tools | Block and Tackle |
 | Potter's Tools | Jug, Lamp |

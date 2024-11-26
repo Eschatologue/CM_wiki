@@ -38,6 +38,10 @@
   --md-default-bg-color--25: hsla(215, 15%, 14%, 0.25);
   --md-default-bg-color--50: hsla(215, 15%, 14%, 0.5);
   --md-default-bg-color--75: hsla(215, 15%, 14%, 0.75);
+  /* Transparent White Colour */
+  --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
+  --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
+  --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -65,6 +69,10 @@
   --md-default-bg-color--25: hsla(215, 15%, 14%, 0.25);
   --md-default-bg-color--50: hsla(215, 15%, 14%, 0.5);
   --md-default-bg-color--75: hsla(215, 15%, 14%, 0.75);
+  /* Transparent White Colour */
+  --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
+  --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
+  --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -92,6 +100,10 @@
   --md-default-bg-color--25: hsla(215, 15%, 14%, 0.25);
   --md-default-bg-color--50: hsla(215, 15%, 14%, 0.5);
   --md-default-bg-color--75: hsla(215, 15%, 14%, 0.75);
+  /* Transparent White Colour */
+  --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
+  --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
+  --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -119,6 +131,10 @@
   --md-default-bg-color--25: hsla(215, 15%, 14%, 0.25);
   --md-default-bg-color--50: hsla(215, 15%, 14%, 0.5);
   --md-default-bg-color--75: hsla(215, 15%, 14%, 0.75);
+  /* Transparent White Colour */
+  --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
+  --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
+  --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -146,6 +162,10 @@
   --md-default-bg-color--25: hsla(215, 15%, 14%, 0.25);
   --md-default-bg-color--50: hsla(215, 15%, 14%, 0.5);
   --md-default-bg-color--75: hsla(215, 15%, 14%, 0.75);
+  /* Transparent White Colour */
+  --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
+  --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
+  --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -173,6 +193,10 @@
   --md-default-bg-color--25: hsla(215, 15%, 14%, 0.25);
   --md-default-bg-color--50: hsla(215, 15%, 14%, 0.5);
   --md-default-bg-color--75: hsla(215, 15%, 14%, 0.75);
+  /* Transparent White Colour */
+  --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
+  --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
+  --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -200,6 +224,10 @@
   --md-default-bg-color--25: hsla(215, 15%, 14%, 0.25);
   --md-default-bg-color--50: hsla(215, 15%, 14%, 0.5);
   --md-default-bg-color--75: hsla(215, 15%, 14%, 0.75);
+  /* Transparent White Colour */
+  --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
+  --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
+  --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -227,6 +255,10 @@
   --md-default-bg-color--25: hsla(215, 15%, 14%, 0.25);
   --md-default-bg-color--50: hsla(215, 15%, 14%, 0.5);
   --md-default-bg-color--75: hsla(215, 15%, 14%, 0.75);
+  /* Transparent White Colour */
+  --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
+  --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
+  --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -254,6 +286,10 @@
   --md-default-bg-color--25: hsla(215, 15%, 14%, 0.25);
   --md-default-bg-color--50: hsla(215, 15%, 14%, 0.5);
   --md-default-bg-color--75: hsla(215, 15%, 14%, 0.75);
+  /* Transparent White Colour */
+  --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
+  --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
+  --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -281,6 +317,10 @@
   --md-default-bg-color--25: hsla(215, 15%, 14%, 0.25);
   --md-default-bg-color--50: hsla(215, 15%, 14%, 0.5);
   --md-default-bg-color--75: hsla(215, 15%, 14%, 0.75);
+  /* Transparent White Colour */
+  --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
+  --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
+  --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -308,6 +348,10 @@
   --md-default-bg-color--25: hsla(215, 15%, 14%, 0.25);
   --md-default-bg-color--50: hsla(215, 15%, 14%, 0.5);
   --md-default-bg-color--75: hsla(215, 15%, 14%, 0.75);
+  /* Transparent White Colour */
+  --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
+  --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
+  --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -335,6 +379,10 @@
   --md-default-bg-color--25: hsla(215, 15%, 14%, 0.25);
   --md-default-bg-color--50: hsla(215, 15%, 14%, 0.5);
   --md-default-bg-color--75: hsla(215, 15%, 14%, 0.75);
+  /* Transparent White Colour */
+  --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
+  --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
+  --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -362,6 +410,10 @@
   --md-default-bg-color--25: hsla(215, 15%, 14%, 0.25);
   --md-default-bg-color--50: hsla(215, 15%, 14%, 0.5);
   --md-default-bg-color--75: hsla(215, 15%, 14%, 0.75);
+  /* Transparent White Colour */
+  --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
+  --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
+  --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -389,6 +441,10 @@
   --md-default-bg-color--25: hsla(215, 15%, 14%, 0.25);
   --md-default-bg-color--50: hsla(215, 15%, 14%, 0.5);
   --md-default-bg-color--75: hsla(215, 15%, 14%, 0.75);
+  /* Transparent White Colour */
+  --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
+  --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
+  --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -416,6 +472,10 @@
   --md-default-bg-color--25: hsla(215, 15%, 14%, 0.25);
   --md-default-bg-color--50: hsla(215, 15%, 14%, 0.5);
   --md-default-bg-color--75: hsla(215, 15%, 14%, 0.75);
+  /* Transparent White Colour */
+  --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
+  --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
+  --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -443,6 +503,10 @@
   --md-default-bg-color--25: hsla(215, 15%, 14%, 0.25);
   --md-default-bg-color--50: hsla(215, 15%, 14%, 0.5);
   --md-default-bg-color--75: hsla(215, 15%, 14%, 0.75);
+  /* Transparent White Colour */
+  --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
+  --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
+  --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -569,7 +633,7 @@
   font-size: 1.05rem;
   font-weight: 450;
   letter-spacing: 0.0315rem;
-  border-bottom: 0.125rem solid rgba(255, 255, 255, 0.25);
+  border-bottom: 0.125rem solid var(--md-default-wht--025);
   margin: 0.9rem 0 0.2rem 0;
   padding-bottom: 0.1rem;
 }
@@ -578,7 +642,7 @@
   font-weight: 420;
   letter-spacing: 0.0364rem;
   margin: 0.6rem 0 0.2rem 0;
-  border-bottom: 0.1175rem dotted rgba(255, 255, 255, 0.25);
+  border-bottom: 0.1175rem dotted var(--md-default-wht--025);
   padding-bottom: 0.1rem;
 }
 .md-typeset h4 {
@@ -594,17 +658,25 @@
   letter-spacing: 0.021rem;
   font-weight: 500;
   text-transform: capitalize !important;
-  margin-bottom: -0.4rem;
+  margin-bottom: -0.2rem;
+  padding-bottom: -0.2rem;
 }
 
-.italic-text {
-  font-style: italic;
-  font-weight: 375;
+/* Divider Line */
+.md-typeset hr {
+  border-bottom: 0.1875em dashed rgba(255, 255, 255, 0.15);
 }
-
-.ich1 {
-  font-size: 4.5rem;
-  margin: 0.25em 0 -0.25em;
+.md-typeset hr::after {
+  content: "§";
+  font-weight: 700;
+  color: rgba(255, 255, 255, 0.15);
+  display: inline-block;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transform-origin: 50% 50%;
+  padding: 0.1rem 0.4rem;
+  background-color: var(--md-default-bg-color);
 }
 
 .xxxxl {
@@ -631,26 +703,23 @@
   border-radius: 0.25em;
 }
 
-/* Grid Layout */
+/* Site Layout */
 .md-grid {
   max-width: 90%; /* Or 100% for full-width */
 }
 
-/* Divider Line */
-.md-typeset hr {
-  border-bottom: 0.1875em dashed rgba(255, 255, 255, 0.15);
+/* Content Grids */
+.md-typeset .grid {
+  grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+  grid-gap: 0.25em;
 }
-.md-typeset hr::after {
-  content: "§";
-  font-weight: 700;
-  color: rgba(255, 255, 255, 0.15);
-  display: inline-block;
-  position: absolute;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  transform-origin: 50% 50%;
-  padding: 0.5rem;
-  background-color: var(--md-default-bg-color);
+.md-typeset .grid.cards > :is(ul, ol) {
+  display: contents;
+}
+.md-typeset .grid.cards > :is(ul, ol) > li,
+.md-typeset .grid > .card {
+  border: 0.075rem solid var(--md-default-wht--0125);
+  padding: 0.5rem 0.8rem;
 }
 
 /*------------------------------------------------------- 

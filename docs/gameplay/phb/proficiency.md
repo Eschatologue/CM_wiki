@@ -1,5 +1,5 @@
 ---
-icon: dnd/stat-prof
+icon: trait/prof
 ---
 
 # Proficiency

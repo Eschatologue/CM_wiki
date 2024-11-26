@@ -13,25 +13,23 @@
     border-radius: convert.px2em(4px);
 }
 
-/* Grid Layout */
+/* Site Layout */
 .md-grid {
     max-width: 90%; /* Or 100% for full-width */
 }
 
-/* Divider Line */
-.md-typeset hr {
-    border-bottom: convert.px2em(3px) dashed rgba(255, 255, 255, 0.15);
+/* Content Grids */
 
-    &::after {
-        content: "§";
-        font-weight: 700;
-        color: rgba(255, 255, 255, 0.15);
-        display: inline-block;
-        position: absolute;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        transform-origin: 50% 50%;
-        padding: 0.5rem;
-        background-color: var(--md-default-bg-color);
+.md-typeset .grid {
+    grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(240px), 1fr));
+    grid-gap: convert.px2em(4px);
+
+    &.cards > :is(ul, ol) {
+        display: contents;
+    }
+    &.cards > :is(ul, ol) > li,
+    > .card {
+        border: convert.px2rem(1.5px) solid var(--md-default-wht--0125);
+        padding: convert.px2rem(10px) convert.px2rem(16px);
     }
 }

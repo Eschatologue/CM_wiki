@@ -1,5 +1,5 @@
 ---
-icon: material/cards-playing
+icon: option/feat-boon
 ---
 
 # Epic Boons

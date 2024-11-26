@@ -94,7 +94,7 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 
 **Ability:** Intelligence or Dexterity  
 **Utilize:** Discern and fix a firearm (DC 15), or perform an Augmentation on a Firearm.  
-**Craft:** [Firearms Augmentations](../adventuring-gear/firearm-augment.md), Pistol Cartridges, Rifle Cartridges, Shotgun Cartridges  
+**Craft:** Pistol Cartridges, Rifle Cartridges, Shotgun Cartridges  
 
 ---
 

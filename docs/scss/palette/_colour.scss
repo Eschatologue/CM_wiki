@@ -59,6 +59,11 @@ $defaultHue: 215;
         --md-default-bg-color--50: hsla(#{$defaultHue}, 15%, 14%, 0.5);
         --md-default-bg-color--75: hsla(#{$defaultHue}, 15%, 14%, 0.75);
 
+        /* Transparent White Colour */
+        --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
+        --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
+        --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
+
         /* Link and Secondary Colours */
         --md-primary-bg-color: var(--md-default-bg-color);
         --md-primary-bg-color-light: var(--md-default-bg-color--light);

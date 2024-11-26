@@ -1,5 +1,7 @@
 ---
 title: Feats
+hide:
+    - toc
 ---
 
 # Feats
