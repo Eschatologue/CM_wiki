@@ -1,5 +1,5 @@
 ---
-icon: class/fighter
+icon: class/phb24-fighter
 ---
 
 # Combat Manoeuvre

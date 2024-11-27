@@ -1,6 +1,6 @@
 ---
 title: Wu Jen's Spell List
-icon: class/monk
+icon: class/phb24-monk
 status: homebrew
 hide:
     - toc

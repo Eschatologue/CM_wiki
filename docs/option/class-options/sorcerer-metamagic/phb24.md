@@ -90,4 +90,6 @@ When you cast a spell that deals a type of damage from the following list, you c
 
 _**Cost:** 1 :class-phb24-sorcerer: Sorcery Point_
 
-When you cast a spell, such as Charm Person, that can be cast with a higher-level spell slot to target an additional creature, you can spend 1 Sorcery Point to increase the spell's effective level by 1.
+When you cast a spell, such as [:spell--level-1: Charm Person], that can be cast with a higher-level spell slot to target an additional creature, you can spend 1 Sorcery Point to increase the spell's effective level by 1.
+
+[:spell--level-1: Charm Person]: ../../../spells/description/core/level-1.md#charm-person

@@ -1,5 +1,5 @@
 ---
-icon: class/ranger
+icon: class/phb24-ranger
 status: homebrew
 ---
 

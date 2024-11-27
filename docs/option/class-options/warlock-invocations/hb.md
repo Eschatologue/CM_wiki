@@ -83,7 +83,7 @@ Any special rations you have prepared become inert at the end of your next Long 
 
 ***Prerequisite:** [Pact of the Blade]*
 
-You can create a Pact Weapon that is a Short-Arm or Long-Arm. Firearms created from this invocations can't gain the benefit of any Augmentations.
+You can create a Pact Weapon that is a Short-Arm or Long-Arm.
 
 ---
 

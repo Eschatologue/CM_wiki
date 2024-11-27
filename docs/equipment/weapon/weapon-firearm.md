@@ -67,7 +67,7 @@ Advanced Firearms Table include rocket launchers, flamethrowers, machine guns, a
 |---|---|--:|
 | Pistol Cartridges (20) | Pistols and SMGs | 300 SP |
 | Rifle Cartridges (20) | Rifles and Machine Gun | 500 SP |
-| Shotgun Cartridges (20) | Shotguns | 150 SP |
+| Shotgun Cartridges (20) | Shotguns | 200 SP |
 | Grenade (1) | Grenade Launcher | Varies |
 | Rocket Propelled Grenade (1) | Rocket Launchers | 1,000 SP |
 

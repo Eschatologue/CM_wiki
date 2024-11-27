@@ -39,12 +39,12 @@ $th-padding: $paddingScale * 1.4;
             }
         }
 
-        /* Reset hover effect */
+        // Reset hover effect 
         table tr:hover {
             background-color: inherit !important; /* Ensures no change on hover */
         }
 
-        /* Preserve striped rows */
+        // Preserve striped rows
         tr:nth-child(odd) {
             background-color: transparent !important; /* Adjust to match your striped colour */
         }

@@ -7,9 +7,9 @@ hide:
 
 # Origin Feats
 
-These feats are in **Origin** Category
+This section offers a collection of Origin Feats, which are special features not tied to a single class. At level 1, provided you finished your background, you can choose one of the following Origin Feats granted by said background..
 
-The table below lists available General Feats, divided into two categories: *PHB '24* and *Homebrew*.
+The list below contains Origin Feats, divided into two categories: `PHB'24` and `Homebrew`.
 
 ### PHB'24 Origin Feats
 

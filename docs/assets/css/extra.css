@@ -525,9 +525,7 @@
   border-left-width: 4px;
 }
 
-.md-typeset {
-  /* Add Shadow */
-}
+/* Add Shadow */
 .md-typeset .admonition {
   border-color: var(--md-admonition-icon-color--note);
   box-shadow: var(--md-shadow-z3);
@@ -694,7 +692,7 @@
 /*------------------------------------------------------- 
     MKdocs Material Theme Overrides
 --------------------------------------------------------*/
-/* Tool Tips */
+/* Tool Tips adjustment to account for site size*/
 [role=tooltip] > .md-tooltip2__inner {
   padding: 0.45em 1.5em;
   max-width: 35rem;
@@ -703,9 +701,8 @@
   border-radius: 0.25em;
 }
 
-/* Site Layout */
 .md-grid {
-  max-width: 90%; /* Or 100% for full-width */
+  max-width: 90%; /* Changes site size. 100% for full-width */
 }
 
 /* Content Grids */
@@ -713,8 +710,10 @@
   grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
   grid-gap: 0.25em;
 }
-.md-typeset .grid.cards > :is(ul, ol) {
-  display: contents;
+@media screen and (max-width: 768px) {
+  .md-typeset .grid {
+    grid-template-columns: repeat(auto-fit, minmax(6rem, 1fr)); /* Change Grid Size on smaller screen, grid sizes fails to render properly */
+  }
 }
 .md-typeset .grid.cards > :is(ul, ol) > li,
 .md-typeset .grid > .card {
@@ -725,10 +724,6 @@
 /*------------------------------------------------------- 
     Tables
 --------------------------------------------------------*/
-.md-typeset table:not([class]) {
-  /* Reset hover effect */
-  /* Preserve striped rows */
-}
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
   padding: 0.4375em 1em;

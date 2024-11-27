@@ -47,7 +47,16 @@ Albion's reach extends far, and with it, their influence upon you. You gain the 
 **Firearm Proficiency**  
 You gain proficiency with Short-Arms. If you are proficient with :prof-wp-martial: Martial weapons, you gain proficiency with all Firearms.
 
-aaaa
+**Bullet Crafting**  
+You gain Proficiency with Gunsmith's Tools. When you finish a Short Rest, you can craft a total number of Pistol, Rifle, or Shotgun cartridges equal to four times your proficiency bonus in any combination following the Bullet Crafting table.
+
+##### Bullet Crafting
+
+| name | used for... | cost per item | total cost (20) |
+|---|---|--:|
+| Pistol Cartridges (20) | Pistols and SMGs | 15 SP | 300 SP |
+| Rifle Cartridges (20) | Rifles and Machine Gun | 25 SP | 500 SP |
+| Shotgun Cartridges (20) | Shotguns | 10 SP | 200 SP |
 
 ---
 
@@ -61,7 +70,7 @@ You have studied occult lore and perhaps, forbidden knowledge.
 You learn one Eldritch Invocation option of your choice from the Warlock class. If the invocation has a prerequisite of any kind, you can choose that invocation only if you're a Warlock who meets the prerequisite. Whenever you gain a level, you can replace the invocation with another one from the Warlock class.
 
 **Repeatable**  
-Choose a different Invocations each time.
+You can take this Origin feat multiple times, all other [rules](../../../class/warlock/index.md#level-1-eldritch-invocations) of choosing an Invocations still applies.
 
 ---
 
@@ -86,7 +95,7 @@ Choose a different Fighting Style Feat each time.
 Your study of history rewards you with the following benefits:
 
 **History Buff**  
-You gain Proficiency in the History skill. If you are already proficient in the skill, you add double your Proficiency Bonus to checks you make with it.
+You gain Proficiency in the History skill. If you are already proficient in the skill, you gain Expertise instead.
     
 **An Example for Every Situation**  
 When you take the Help action to aid another creature's ability check, you can make a DC 15 Intelligence (History) check. On a success, that creature's check gains a bonus equal to your Proficiency Bonus, as you share pertinent advice and historical examples. To receive this bonus, the creature must be able to understand what you're saying.
@@ -119,20 +128,20 @@ You gain the benefits from the table below that correspond to your Intelligence 
 
 You have studied languages and codes, gaining the following benefits:
 
-**Linguistic Prodigy**  
-You learn three languages of your choice.
+**Polygot**  
+You learn a number of additional languages of your choice equal to your Intelligence modifier. Whenever your base Intelligence modifier increases thereafter, you may learn a new language.
     
-**Cipher-builder**  
-You can create written ciphers. Others can't decipher a code you create unless you teach them, they succeed on an Intelligence check (DC equals 8 plus your Intelligence modifier and your Proficiency Bonus), or they use magic to decipher it.
-    
-**Analyze and Empathize**  
-If you spend 1 minute analyzing a language you do not know, you can discern small bits of information such as intent, direction, and emotion.
+**Linguistic Insight**  
+You have :d20-adv: Advantage on skill checks made to discern information from a language or text you don't understand.
+
+**Lip Reader**  
+If you can see a creature's mouth while it is speaking a language you understand, you can interpret what it's saying by reading its lips.
 
 ---
 
 ### Psychoanalyst
 
-*Origin Feat (Prerequisite: Wisdom and Intelligence 11+)*
+*Origin Feat (Prerequisite: Wisdom or Intelligence 11+)*
 
 You have knack for studying and exploiting mannerisms and thought patterns:
 
@@ -165,7 +174,7 @@ Though you might not be a Ranger, your past experiences with them teaches you im
 You learn one Ranger's Aptitude option of your choice from the Ranger class. If the aptitude has a prerequisite of any kind, you can choose that aptitude only if you're a Ranger who meets the prerequisite. Whenever you gain a level, you can replace the invocation with another one from the Ranger class.
 
 **Repeatable**  
-Choose a different aptitude each time.
+You can take this Origin feat multiple times, all other [rules](../../../class/ranger/index.md#level-1-rangers-aptitude) of choosing an Aptitude still applies.
 
 ---
 

@@ -33,13 +33,12 @@ You gain Tool Proficiency with three different Artisan's Tools of your choice fr
 Whenever you buy a nonmagical item, you receive a 20 percent discount on it.
     
 **Faster Crafting**  
-When you finish a Long Rest, you can craft one piece of hear from the Fast Crafting table, provided you have the Artisan's Tools associated with that item and have proficiency with those tools. The item lasts until you finish another Long Rest, at which point the item falls apart.
+When you finish a Long Rest, you can craft one piece of gear from the Fast Crafting table, provided you have the Artisan's Tools associated with that item and have proficiency with those tools. The item lasts until you finish another Long Rest, at which point the item falls apart.
 
 ##### Fast Crafting
 | Artisan's Tools | Crafted Gear |
 |---|---|
 | Carpenter's Tools | Ladder, Torch |
-| Gunsmith's Tools^New^ | Pistol Cartridges, Rifle Cartridges, Shotgun Cartridges |
 | Leatherworker's Tools | Case, Pouch |
 | Mason's Tools | Block and Tackle |
 | Potter's Tools | Jug, Lamp |
