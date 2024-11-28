@@ -707,7 +707,7 @@
 
 /* Content Grids */
 .md-typeset .grid {
-  grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
   grid-gap: 0.25em;
 }
 @media screen and (max-width: 768px) {
