@@ -12,7 +12,7 @@ These items are unique to the world that Crown & Misery takes place
 
 ### Blueprint (Machine)
 
-Adventuring gear, 30 sp, S.
+_Adventuring gear, 30 sp, S._
 
 A detailed technical drawing of a machine, providing insight into its design and operation. Grants Advantage on Intelligence checks related to understanding or replicating machines.
 
@@ -20,7 +20,7 @@ A detailed technical drawing of a machine, providing insight into its design and
 
 ### Scrap Metal (5 pieces)
 
-Adventuring gear, 25 sp, S.
+_Adventuring gear, 25 sp, S._
 
 Useful for repairing or constructing small mechanical devices. Can be used in place of raw metal for crafting or repair projects.
 
@@ -28,7 +28,7 @@ Useful for repairing or constructing small mechanical devices. Can be used in pl
 
 ### Goggles
 
-Adventuring gear, 20 sp, S.
+_Adventuring gear, 20 sp, S._
 
 Protective eyewear designed to shield the eyes from debris, sparks, and bright lights while working with machinery. Grants Advantage on saving throws to avoid the Blinded condition.
 
@@ -36,7 +36,7 @@ Protective eyewear designed to shield the eyes from debris, sparks, and bright l
 
 ### Gas Detector
 
-Adventuring gear, 250 sp, S.
+_Adventuring gear, 250 sp, S._
 
 A compact electronic device designed to detect hazardous gases. It emits a series of beeping noise audible up to 30 feet when harmful gas is detected within 15 feet.
 
@@ -44,7 +44,7 @@ A compact electronic device designed to detect hazardous gases. It emits a serie
 
 ### Radiation Counter
 
-Adventuring gear, 500 sp, S. 
+_Adventuring gear, 500 sp, S._
 
 A compact electronic device, designed to detect harmful radiation and corruption levels. It emits a series of clicking noises that increase in frequency as radiation or corruption levels rise when radiation or corruption is detected within 15 feet.
 
