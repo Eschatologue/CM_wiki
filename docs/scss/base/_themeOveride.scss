@@ -19,12 +19,12 @@
 
 /* Content Grids */
 .md-typeset .grid {
-    grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(320px), 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(260px), 1fr));
     grid-gap: convert.px2em(4px);
 
     
     @media screen and (max-width: 768px) {
-        grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(120px), 1fr)); /* Change Grid Size on smaller screen, grid sizes fails to render properly */
+        grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(120px), 1fr)); /* Change Grid Size on smaller screen, stuff looks ugly on phones */
     }
 
     &.cards > :is(ul, ol) > li,

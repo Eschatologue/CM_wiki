@@ -154,7 +154,7 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 
 **Ability:** Dexterity  
 **Utilize:** Assemble a Tiny item composed of scrap, which falls apart in 1 minute (DC 20)  
-**Craft:** Bell, Bullseye Lantern, Flask, Hooded Lantern, Hunter's Trap, Lock, Manacles, Mirror, Shovel, Signal Whistle, Tinderbox  
+**Craft:** Bell, Bullseye Lantern, Flask, Hooded Lantern, Hunter's Trap, Lock, Manacles, Mirror, Shovel, Signal Whistle, Tinderbox, [Proximity Mines^CM^](../consumeables/grenade.md#plant)  
 
 ---
 
@@ -186,6 +186,6 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 
 **Ability:** Intelligence or Dexterity  
 **Utilize:** Discern and fix a firearm (DC 15)  
-**Craft:** Pistol Cartridges, Rifle Cartridges, Shotgun Cartridges  
+**Craft:** Pistol Cartridges, Rifle Cartridges, Shotgun Cartridges, [Proximity Mines](../consumeables/grenade.md#plant)
 
 ---
