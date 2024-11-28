@@ -1,7 +1,5 @@
 ---
 icon: ui/grenade
-hide:
-    - toc
 status: homebrew
 ---
 
@@ -15,7 +13,7 @@ When you take the **Attack** action, you can replace one of your attacks to eith
 
 ## Grenade Effects
 
-#### Conccussion Grenade
+### Conccussion Grenade
 
 _Grenade, 500 sp, S._
 
@@ -23,7 +21,7 @@ This grenade explodes in a concussive blast that fills a 20-foot-radius :aoe-sph
 
 ---
 
-#### Cryogenic Grenade
+### Cryogenic Grenade
 
 _Grenade, 300 sp, S._
 
@@ -33,7 +31,7 @@ Creatures with :dmg-res: Resistance to :dmg-cold: Cold damage have :d20-adv: Adv
 
 ---
 
-#### Fragmentation Grenade
+### Fragmentation Grenade
 
 _Grenade, 250 sp, S._
 
@@ -41,7 +39,7 @@ This grenade explodes, unleashing a hail of metal fragments that fills a 20-foot
 
 ---
 
-#### Incendiary Grenade
+### Incendiary Grenade
 
 _Grenade, 300 sp, S._
 
@@ -51,7 +49,7 @@ The ground within the Sphere is set ablaze for 1 minute and its is considered a 
 
 ---
 
-#### Flashbang Grenade
+### Flashbang Grenade
 
 _Grenade, 300 sp, S._
 
@@ -61,7 +59,7 @@ Affected creatures can repeat the :d20-save: saving throw at the start of each o
 
 ---
 
-#### Smoke Grenade
+### Smoke Grenade
 
 _Grenade, 500 sp, S._
 
