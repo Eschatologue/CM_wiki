@@ -1,7 +1,5 @@
 ---
 icon: ui/grenade
-hide:
-    - toc
 status: homebrew
 ---
 
@@ -19,6 +17,11 @@ When you take the **Attack** action, you can replace one of your attacks to eith
 <div class="grid cards" markdown>
 
 - :ui-grenade: [Conccussion Grenade](#conccussion-grenade)
+
+    **AoE** 20-ft :aoe-sphere Sphere   
+    **Save** :d20-save: DC 14 DEX save (Half Damage on Success)
+    **Damage** 4d6 :dmg-force: Force.
+
 - :ui-grenade: [Cryogenic Grenade](#cryogenic-grenade)
 - :ui-grenade: [Flashbang Grenade](flashbang-grenade)
 - :ui-grenade: [Fragmentation Grenade](#fragmentation-grenade)
@@ -36,7 +39,7 @@ Below are the effects of each grenade.
 
 _Grenade, 500 sp, S._
 
-This grenade explodes in a concussive blast that fills a 20-foot-radius :aoe-sphere: sphere. Each creature in that area must make a :d20-save: DC 14 Dexterity saving throw, taking 4d6 :dmg-force: force damage on a failed save or half as much damage on a successful one.
+This grenade explodes in a concussive blast that fills a 20-foot-radius :aoe-sphere: Sphere. Each creature in that area must make a :d20-save: DC 14 Dexterity saving throw, taking 4d6 :dmg-force: force damage on a failed save or half as much damage on a successful one.
 
 ---
 
