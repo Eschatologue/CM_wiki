@@ -53,7 +53,7 @@ You gain Proficiency with Gunsmith's Tools. When you finish a Short Rest, you ca
 ##### Bullet Crafting
 
 | name | used for... | cost per item | total cost (20) |
-|---|---|--:|
+|---|---|--:|--:|
 | Pistol Cartridges (20) | Pistols and SMGs | 15 SP | 300 SP |
 | Rifle Cartridges (20) | Rifles and Machine Gun | 25 SP | 500 SP |
 | Shotgun Cartridges (20) | Shotguns | 10 SP | 200 SP |
