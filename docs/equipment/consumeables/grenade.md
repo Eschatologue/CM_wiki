@@ -18,9 +18,9 @@ When you take the **Attack** action, you can replace one of your attacks to eith
 
 - :ui-grenade: [Conccussion Grenade](#conccussion-grenade)
 
-    **AoE** 20-ft :aoe-sphere Sphere   
-    **Save** :d20-save: DC 14 DEX save (Half Damage on Success)
-    **Damage** 4d6 :dmg-force: Force.
+    **AoE** 20-ft :aoe-sphere: Sphere   
+    **Save** :d20-save: DC 14 DEX save (Half Damage on Success)  
+    **Damage** 4d6 :dmg-force: Force  
 
 - :ui-grenade: [Cryogenic Grenade](#cryogenic-grenade)
 - :ui-grenade: [Flashbang Grenade](flashbang-grenade)

@@ -19,7 +19,7 @@
 
 /* Content Grids */
 .md-typeset .grid {
-    grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(240px), 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(320px), 1fr));
     grid-gap: convert.px2em(4px);
 
     
