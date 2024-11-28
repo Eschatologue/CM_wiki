@@ -6,7 +6,7 @@ icon: material/wrench
 
 Artisan's Tools are each focused on crafting items and pursuing a trade. Each of these tools requires a separate proficiency.
 
----
+## 2024 Player's Handbook Artisan Tools
 
 ### Alchemist's Supplies
 
@@ -85,16 +85,6 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 **Ability:** Intelligence  
 **Utilize:** Discern what a glass object held in the past 24 hours (DC 15)  
 **Craft:** Glass Bottle, Magnifying Glass, Spyglass, Vial  
-
----
-
-### Gunsmith's Tools
-
-*Artisan's Tool, 400 SP, M.*  
-
-**Ability:** Intelligence or Dexterity  
-**Utilize:** Discern and fix a firearm (DC 15), or perform an Augmentation on a Firearm.  
-**Craft:** Pistol Cartridges, Rifle Cartridges, Shotgun Cartridges  
 
 ---
 
@@ -185,5 +175,17 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 **Ability:** Dexterity  
 **Utilize:** Carve a pattern in wood (DC 10)  
 **Craft:** Club, Greatclub, Quarterstaff, Ranged weapons (except Pistol, Musket, and Sling), Arcane Focus, Arrows, Bolts, Druidic Focus, Ink Pen, Needles  
+
+---
+
+## Crown & Misery Artisan's Tools
+
+### Gunsmith's Tools
+
+*Artisan's Tool, 400 SP, M.*  
+
+**Ability:** Intelligence or Dexterity  
+**Utilize:** Discern and fix a firearm (DC 15)  
+**Craft:** Pistol Cartridges, Rifle Cartridges, Shotgun Cartridges  
 
 ---

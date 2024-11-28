@@ -1,19 +1,38 @@
 ---
 icon: ui/grenade
+hide:
+    - toc
 status: homebrew
 ---
 
-# Grenandes & Explosives
+# Grenandes
 
 Grenades are handheld explosive devices introduced to Antares by the Londoners. While the concept of delivering explosives in a throwable form isn't entirely new—often achieved through slinging spells or using crude, rudimentary versions—the Londoners have perfected and standardised these weapons. Their grenades offer a precise and reliable way to unleash destructive power, making them a valuable, though expensive, tool on the battlefield.
 
 ## Using a Grenade
 
-When you take the **Attack** action, you can replace one of your attacks to either throw a grenade at a point up to 60 feet away or use a [Grenade Launcher] to propel the grenade to a point up to 120 feet away. The grenade explodes at that point, creating a particular effect depending on the grenade's effect.
+When you take the **Attack** action, you can replace one of your attacks to either throw a grenade at a point up to 60 feet away or use a [Grenade Launcher] to propel the grenade to a point up to 120 feet away. The grenade explodes at that point, creating a particular effect depending on the grenade's effect. 
 
-## Grenade Effects
+## Grenade List
 
-### Conccussion Grenade
+
+<div class="grid cards" markdown>
+
+- :ui-grenade: [Conccussion Grenade](#conccussion-grenade)
+- :ui-grenade: [Cryogenic Grenade](#cryogenic-grenade)
+- :ui-grenade: [Flashbang Grenade](flashbang-grenade)
+- :ui-grenade: [Fragmentation Grenade](#fragmentation-grenade)
+- :ui-grenade: [Incendiary Grenade](#incendiary-grenade)
+- :ui-grenade: [Sleep Grenade](#sleep-grenade)
+- :ui-grenade: [Smoke Grenade](#smoke-grenade)
+
+</div>
+
+## Grenade Descriptions
+
+Below are the effects of each grenade.
+
+#### Conccussion Grenade
 
 _Grenade, 500 sp, S._
 
@@ -21,7 +40,7 @@ This grenade explodes in a concussive blast that fills a 20-foot-radius :aoe-sph
 
 ---
 
-### Cryogenic Grenade
+#### Cryogenic Grenade
 
 _Grenade, 300 sp, S._
 
@@ -31,7 +50,7 @@ Creatures with :dmg-res: Resistance to :dmg-cold: Cold damage have :d20-adv: Adv
 
 ---
 
-### Fragmentation Grenade
+#### Fragmentation Grenade
 
 _Grenade, 250 sp, S._
 
@@ -39,17 +58,7 @@ This grenade explodes, unleashing a hail of metal fragments that fills a 20-foot
 
 ---
 
-### Incendiary Grenade
-
-_Grenade, 300 sp, S._
-
-This grenade bursts into flames that fills a 20-foot-radius :aoe-sphere: Sphere. Each creature in the affected area must make a :d20-save: DC 14 Dexterity saving throw taking 3d6 :dmg-fire: Fire damage on a failed save. 
-
-The ground within the Sphere is set ablaze for 1 minute and its is considered a [Burning](../../gameplay/phb/exploration.md#burning) hazard. 
-
----
-
-### Flashbang Grenade
+#### Flashbang Grenade
 
 _Grenade, 300 sp, S._
 
@@ -59,7 +68,25 @@ Affected creatures can repeat the :d20-save: saving throw at the start of each o
 
 ---
 
-### Smoke Grenade
+#### Incendiary Grenade
+
+_Grenade, 300 sp, S._
+
+This grenade bursts into flames that fills a 20-foot-radius :aoe-sphere: Sphere. Each creature in the affected area must make a :d20-save: DC 14 Dexterity saving throw taking 3d6 :dmg-fire: Fire damage on a failed save. 
+
+The ground within the Sphere is set ablaze for 1 minute and its is considered a [Burning](../../gameplay/phb/exploration.md#burning) hazard. 
+
+---
+
+#### Sleep Grenade
+
+_Grenade, 800 sp, S._
+
+This grenade releases a cloud of sedative mist that fills a 20-foot-radius :aoe-sphere: Sphere, then dissipates. Each creature in that area must succeed on a :d20-save: DC 14 Constitution saving throw or have the ^^Unconscious^^ condition for 1 hour. The condition ends on a creature early if the creature takes damage or if another creature uses an Action to shake it awake.
+
+---
+
+#### Smoke Grenade
 
 _Grenade, 500 sp, S._
 

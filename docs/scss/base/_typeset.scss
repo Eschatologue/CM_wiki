@@ -70,7 +70,7 @@ $h4Size: $defaultFontSize * 1.15;
 
     h3 {
         font-size: $h3Size;
-        font-weight: $defaultFontWeight * 1.4;
+        font-weight: $defaultFontWeight * 1.5;
         letter-spacing: $h3Size * 0.04;
         margin: convert.px2rem(12px) 0 convert.px2rem(4px) 0;
         border-bottom: convert.px2rem(2.35px) dotted var(--md-default-wht--025);
