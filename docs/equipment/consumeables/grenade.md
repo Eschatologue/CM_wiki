@@ -9,19 +9,13 @@ Grenades are handheld explosive devices introduced to Antares by the Londoners. 
 
 ## Using a Grenade
 
-When you take the **Attack** action, you can replace one of your attacks to either throw a grenade at a point up to 60 feet away or use a [Grenade Launcher] to propel the grenade to a point up to 120 feet away. The grenade explodes at that point, creating a particular effect depending on the grenade's effect. 
+***Throwing.*** When you take the :rsc-a: **Attack** action, you can replace one of your attacks to either throw a grenade at a point up to 60 feet away or use a Grenade Launcher to propel the grenade to a point up to 120 feet away. The grenade explodes at that point, creating a particular effect depending on the grenade's effect. 
 
 ## Grenade List
-
 
 <div class="grid cards" markdown>
 
 - :ui-grenade: [Conccussion Grenade](#conccussion-grenade)
-
-    **AoE** 20-ft :aoe-sphere: Sphere   
-    **Save** :d20-save: DC 14 DEX save (Half Damage on Success)  
-    **Damage** 4d6 :dmg-force: Force  
-
 - :ui-grenade: [Cryogenic Grenade](#cryogenic-grenade)
 - :ui-grenade: [Flashbang Grenade](flashbang-grenade)
 - :ui-grenade: [Fragmentation Grenade](#fragmentation-grenade)
