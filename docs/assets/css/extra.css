@@ -707,12 +707,12 @@
 
 /* Content Grids */
 .md-typeset .grid {
-  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
   grid-gap: 0.25em;
 }
 @media screen and (max-width: 768px) {
   .md-typeset .grid {
-    grid-template-columns: repeat(auto-fit, minmax(6rem, 1fr)); /* Change Grid Size on smaller screen, grid sizes fails to render properly */
+    grid-template-columns: repeat(auto-fit, minmax(6rem, 1fr)); /* Change Grid Size on smaller screen, stuff looks ugly on phones */
   }
 }
 .md-typeset .grid.cards > :is(ul, ol) > li,
