@@ -10,17 +10,17 @@ Using the rules below, characters can make nonmagical items, Potions of Healing,
 
 To craft a nonmagical item, you need tools, raw materials, and time, each of which is detailed below. If you meet the requirements, you make the item, and you can use it or sell it at its normal price.
 
-#### Tools
+### Tools
 
-This chapter's “Tools” section lists which tools are required to make certain items. The DM assigns required tools for items not listed there.
+This chapter's "[Tools](./tools/index.md)" section lists which tools are required to make certain items. The DM assigns required tools for items not listed there.
 
 You must use the required tool to make an item and have proficiency with that tool. Anyone who helps you must also have proficiency with it.
 
-#### Raw Materials
+### Raw Materials
 
 To make an item, you need raw materials worth half its purchase cost (round down). For example, you need 7,500 SP of raw materials to make Plate Armour, which sells for 15,000 SP. The DM determines whether appropriate raw materials are available.
 
-#### Time
+### Time
 
 To determine how many days (working 8 hours a day) it takes to make an item, divide its purchase cost in SP by 100 (round a fraction up to a day). For example, you need 5 days to make a Heavy Crossbow, which sells for 500 SP.
 
@@ -50,7 +50,7 @@ If the scribed spell is a cantrip, the version on the scroll works as if the cas
 
 ##### Spell Scroll Costs
 | Spell Level | Time | Cost |
-|:-:|:-:|:-:|
+|:-:|:-:|-:|
 | Cantrip | 1 day | 150 SP |
 | 1 | 1 day | 250 SP |
 | 2 | 3 days | 1,000 SP |
@@ -61,5 +61,3 @@ If the scribed spell is a cantrip, the version on the scroll works as if the cas
 | 7 | 50 days | 125,000 SP |
 | 8 | 60 days | 150,000 SP |
 | 9 | 120 days | 500,000 SP |
-
-<test\>

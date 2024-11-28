@@ -14,31 +14,45 @@ At the start of each week or month (DM's choice), choose a lifestyle below—Wre
 
 Lifestyles have no inherent consequences, but the DM might take them into account when determining risks or how others perceive your character.
 
-### Wretched (Free)
+#### Wretched 
+
+*Free*
 
 You survive via chance and charity. You're often exposed to natural dangers as a result of sleeping outside.
 
-### Squalid (1 SP per Day)
+#### Squalid 
+
+*1 SP per Day*
 
 You spend the bare minimum for your necessities. You might be exposed to unhealthy conditions and opportunistic criminals.
 
-### Poor (2 SP per Day)
+#### Poor 
+
+*2 SP per Day*
 
 You spend frugally for your necessities.
 
-### Modest (1 GP per Day)
+#### Modest 
+
+*1 GP per Day*
 
 You support yourself at an average level.
 
-### Comfortable (2 GP per Day)
+#### Comfortable 
+
+*2 GP per Day*
 
 You spend modestly for your necessities and enjoy a few luxuries.
 
-### Wealthy (4 GP per Day)
+#### Wealthy 
+
+*4 GP per Day*
 
 You're accustomed to the finer things in life and might have servants.
 
-### Aristocratic (10 GP per Day)
+#### Aristocratic 
+
+*10 GP per Day*
 
 You pay for the best and might have a staff that supports your lifestyle. Others notice your wealth and might encourage you to share it, either legally or otherwise.
 
@@ -46,30 +60,51 @@ You pay for the best and might have a staff that supports your lifestyle. Others
 
 The Food, Drink, and Lodging table gives prices for food and a single night's lodging. Prices for daily lodging and meals are included in your lifestyle's expenses.
 
-##### Food, Drink, and Lodging
+#### Food
 
-| Item | Cost |
-|---|--:|
-| Ale (mug) | 4 CP |
-| Bread (loaf) | 2 CP |
-| Cheese (wedge) | 1 SP |
-| **Inn Stay per Day** |  |
-| Squalid | 7 CP |
-| Poor | 1 SP |
-| Modest | 5 SP |
-| Comfortable | 8 SP |
-| Wealthy | 2 GP |
-| Aristocratic | 4 GP |
-| **Meal** |  |
-| Squalid | 1 CP |
-| Poor | 2 CP |
-| Modest | 1 SP |
-| Comfortable | 2 SP |
-| Wealthy | 3 SP |
-| Aristocratic | 6 SP |
-| **Wine (bottle)** |  |
-| Common | 2 SP |
-| Fine | 10 GP |
+<div class="grid cards" markdown>
+
+- **Bread (loaf)** 2 CP 
+- **Cheese (wedge)** 1 SP 
+- **Cheese (wheel)** 8 SP
+
+</div>
+
+#### Inn Stay per Day
+
+<div class="grid cards" markdown>
+
+- **Squalid** 7 CP
+- **Poor** 1 SP
+- **Modest** 5 SP
+- **Comfortable** 8 SP
+- **Wealthy** 2 GP
+- **Aristocratic** 4 GP
+
+</div>
+
+#### Meal
+
+<div class="grid cards" markdown>
+
+- **Squalid** 1 CP 
+- **Poor** 2 CP 
+- **Modest** 1 SP 
+- **Comfortable** 2 SP 
+- **Wealthy** 3 SP 
+- **Aristocratic** 6 SP 
+
+</div>
+
+#### Drink
+
+<div class="grid cards" markdown>
+
+- **Ale (Mug)** 4 CP
+- **Wine, Common** 2 SP 
+- **Wine, Fine** 10 GP 
+
+</div>
 
 ## Travel
 

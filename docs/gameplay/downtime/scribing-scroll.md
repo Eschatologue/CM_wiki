@@ -2,6 +2,8 @@
 icon: ability/wis
 hide:
     - toc
+search:
+  exclude: true
 ---
 
 # Downtime Activity: Scribing a Spell Scroll

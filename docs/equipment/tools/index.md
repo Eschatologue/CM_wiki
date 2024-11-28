@@ -1,3 +1,9 @@
+---
+title: Tools
+hide:
+    -toc
+---
+
 # Tools
 
 A tool helps you make specialized ability checks, craft certain items, or both. A tool's description includes the tool's cost and weight, as well as the following entries:

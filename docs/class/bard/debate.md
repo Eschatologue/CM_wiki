@@ -4,6 +4,8 @@ status: homebrew
 
 # College of Debate
 
+> *Wear Your Opponent with Facts and Logic*
+
 Bards of the College of Debate view rhetoric as a weapon. They don't merely persuade—they dismantle, deconstruct, and devastate opposition with words alone. Known for their logical precision and mental agility, these bards thrive in situations where they can engage in rapid exchanges, battering foes with their unassailable logic.
 
 ### Level 3: Debater's Implement

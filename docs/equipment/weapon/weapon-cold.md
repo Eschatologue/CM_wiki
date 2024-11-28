@@ -80,7 +80,7 @@ Martial weapons require more training to use effectively but offer greater damag
 
 | Ranged Martial Weapons | damage | properties | mastery | weight | cost |
 |:--|---|---|---|:-:|--:|
-| *Arbalest* | 2d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 180/360), Heavy, Loading, Mounted, Two-handed, Sighted | [Brace] | XL. | 950 SP |
+| *Arbalest* | 2d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 180/360; Bolt), Heavy, Loading, Mounted, Two-handed, Sighted | [Brace] | XL. | 950 SP |
 | *Crossbow, Hand* | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 30/120; Bolt), Light, Loading | [Vex] | M. | 750 SP |
 | *Crossbow, Heavy* | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 100/400; Bolt), Heavy, Loading, Two-handed | [Push] | M. | 500 SP |
 | *Heavy Repeating Crossbow* | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 90/360; Bolt), Automatic (1), Heavy, Reload (6), Two-handed | [Tap] | M. | 700 SP |

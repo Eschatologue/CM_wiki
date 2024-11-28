@@ -23,6 +23,8 @@ The Firearm tables in this section shows the game's main weapons. These table li
 
 ***Category.*** Firearms are considered ranged weapons for the purposes of effects, abilities, feats, and spells that refer to weapons unless a restriction or limitation explicitly prevents their use. If an ability or spell refers to “ranged weapons” or simply “weapons,” firearms are included unless stated otherwise.
 
+***Mastery.*** Each weapon has a mastery property, which is defined in the [Mastery Properties](mastery.md) section. To use that property, you must have a feature that lets you use it.
+
 ### Short-Arm
 
 The Short-Arm Table include pistols, revolvers, and other small, easily concealable weapons. These are ideal for close-quarters combat and provide a good balance between firepower and maneuverability.
