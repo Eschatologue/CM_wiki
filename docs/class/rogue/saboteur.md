@@ -15,7 +15,7 @@ No matter their focus, they all delight in violent destruction, and due to the r
 
 ### Level 3: Explosives
 
-You gain proficiency with Alchemist's Supplies, along with the secrets of creating explosives from Cordites:
+You gain a set with Alchemist's Supplies and profficiency with it, along with the secrets of creating explosives from Cordites:
 
 #### Cordite Charges 
 
@@ -23,19 +23,19 @@ At the end of each Long Rest, you can use your Alchemist's Supplies to create a 
 
 #### Explosives Known
 
-You learn how to make three types of explosives; the Hand Bomb, and two other explosives of your choice from the list at the end of this subclass description.
+You learn how to make three types of explosives; the [Basic Bomb](#basic-bomb), and two other explosives of your choice from the list at the end of this subclass description.
 
 When you gain a level in this class, you can replace one explosive you know with another explosive of your choice.
 
 You learn to craft two additional explosives of your choice when you reach level 9 (total of five), 13 (total of seven), and 17 (total of nine) in this class.
 
+#### Using Explosives 
+
+A creature can take the :rsc-a: **Utilise** action to throw one of your Saboteur Explosives at a point it can see within 60 feet of it. It explodes on impact, generating the effects in its description centered on the point of impact.
+
 #### Explosive Save DC
 
-Some of your explosives require your target to make a saving throw to resist their explosive effects. Your Explosive Save DC is calculated as follows:
-
-<p style="text-align:center;">
-<strong>Explosive save DC</strong> = 8 + your Intelligence modifier + your Proficiency Bonus
-</p>
+Some of your explosives require your target to make a saving throw to resist their explosive effects. Your Explosive Save DC is ^^8 plus your Intelligence modifier and your Proficiency Bonus^^.
 
 ### Level 3: Destructive Strikes
 
@@ -57,7 +57,7 @@ Your mastery of alchemy allows you to alter the explosives you make in the follo
 
 ### Level 13: Sabotage
 
-Creatures that has the Surprised condition have :d20-disadv: **Disadvantage** on saving throws against your Explosives.
+Creatures that has the Surprised condition have :d20-disadv: Disadvantage on saving throws against your Explosives.
 
 ### Level 17: Hair Trigger
 
@@ -65,29 +65,92 @@ You have learned to detonate your Explosives from afar. When you craft an Explos
 
 ---
 
-## Explosives
+### Saboteur Explosives
 
-The following Explosives are available for a Saboteur rogue to learn. As an Action, you can craft an explosive, using the amount of Cordite Charges detailed in the description. Any explosives become inert at the end of your next long rest.
+The following Explosives are available for a Saboteur rogue to learn. As an :rsc-a: **Action**, you can craft an explosive, using the amount of Cordite Charges detailed in the description. Any explosives become inert at the end of your next Long Rest.
 
-***Hand Bomb (1 Charge)*** 
+??? info "Not Grenades"
 
-:   Using Utilise action you ignite the explosive and throw it at a creature you can see within 60 feet, forcing it to make a Dexterity saving throw. They take 2d6 Fire damage on a failed save, and half as much damage on a success. You add your Sneak Attack bonus to the Fire damage even if you don't meet the normal requirements.
+    Explosive in this subclass aren't considered Grenades; therefore item such as Grenade Launcher or other related feature is incompatible with explosives in this subclass.
 
-***Arcane Explosives*** 
+#### Basic Bomb
 
-:   The Arcane Explosives table below details spell effects you can replicate with your Explosives. Each time you learn a new Explosive, you can choose one spell effect from the list below to learn, so long as you meet the prerequisite level, which refers to your rogue level. If a spell normally requires Concentration, the explosive version of that spell does not and lasts the full duration.
+_**Prerequisite:** Level 3 Rogue_
+
+:material-car-turbocharger: **Charge:** 1 Cordite charge(s)  
+:die-d6: **Damage:** :class-phb24-rogue: Sneak Attack damage as :dmg-fire: Fire damage  
+:d20-save: **Save:** Dex Save (Half damage on success)
+
+On impact, forces targets within 5-foot-radius :aoe-sphere: Sphere to make a :save-dex: Dexterity saving throw. They take :dmg-fire: Fire damage on a failed save, and half as much :dmg-fire: Fire damage on a success.
+
+When you reach Rogue level 5, these explosive can benefit from your [Cunning Strike](index.md#level-5-cunning-strike) feature, provided they're used by you.
+
+#### Glitter Dust
+
+_**Prerequisite:** Level 3 Rogue_
+
+:material-car-turbocharger: **Charge:** 1 Cordite charge(s)  
+:die-d6: **Damage:** None  
+:d20-save: **Save:** Dex. Save (No adt. effect on Success)
+
+On impact, forces targets within 20-foot :aoe-cube: Cube to make a :save-dex: Dexterity saving throw. On a failed save, creatures are covered with glitter dust, and any ttack roll made against them is made with :d20-adv: Advantage.
+
+A creature can use its Action to scrape all these reflective particles off of it, ending the effects of this Explosive.
+
+#### Seismic Charge
+
+_**Prerequisite:** Level 3 Rogue_
+
+:material-car-turbocharger: **Charge:** 1 Cordite charge(s)  
+:die-d6: **Damage:** :class-phb24-rogue: Sneak Attack damage as :dmg-blunt: Bludgeoning damage    
+:d20-save: **Save:** Str. Save (Half damage on Success with no adt. effect)
+
+On impact, this explosive distrupts the earth, forcing targets within 10-feet to make a :save-str: Strength saving throw. On a failed save, it :dmg-blunt: Bludgeoning damage and has the Prone condition. The affected area becomes Difficult Terrain for 1 minute.
+
+#### Fog Bombs
+
+_**Prerequisite:** Level 3 Rogue_
+
+:material-car-turbocharger: **Charge:** 1 Cordite charge(s)  
+:die-d6: **Damage:** None  
+:d20-save: **Save:** None
+
+On impact, a 20-foot-radius :aoe-sphere: Sphere appears. The Sphere is Heavily Obscured. It lasts for the 1 minute or until a strong wind (such as one created by *Gust of Wind* spell) disperses it.
+
+#### Thunder Pulse
+
+_**Prerequisite:** Level 3 Rogue_
+
+:material-car-turbocharger: **Charge:** 1 Cordite charge(s)  
+:die-d6: **Damage:** :class-phb24-rogue: Sneak Attack damage as :dmg-thunder: Thunder damage    
+:d20-save: **Save:** Con. Save (Half damage on Success with no adt. effect)
+
+On impact, a wave of thunderous force bursts forth, forcing targets within 15-foot-radius :aoe-sphere: Sphere to make :d20-save: Constitution saving throw. On a failure, they take :dmg-thunder: Thunder damage and are pushed 10 feet away from the point of impact. On a success, they take half as much damage and are not moved
 
 ##### Arcane Explosives
 
 | Rogue Level | Charges | Spell Effects |
 |:-:|:-:|---|
-| 3 | 1 | *Earth Tremor*, *Fog Cloud*, *Grease* |
-| 5 | 3 | *Blindness/Deafness*, *Enlarge/Reduce*, *Pyrotechnics*, *Web* |
-| 9 | 5 | *Erupting Earth*, *Fireball*, *Stinking Cloud* |
-| 13 | 7 | *Banishment*, *Sickening Radiance*, *Vitriolic Sphere* |
-| 17 | 9 | *Cloudkill*, *Immolation*, *Insect Plague*, *Maelstrom*, *Synaptic Static* |
+| 5 | 3 | [:spell-level-2: Blindness/Deafness], [:spell-level-2: Enlarge/Reduce], [:spell-level-2: Pyrotechnics], [:spell-level-2: Web] |
+| 9 | 5 | [:spell-level-3: Erupting Earth], [:spell-level-3: Fireball], [:spell-level-3: Stinking Cloud] |
+| 13 | 7 | [:spell-level-4: Banishment], [Sickening Radiance], [Vitriolic Sphere] |
+| 17 | 9 | [:spell-level-5: Cloudkill], [:spell-level-5: Immolation], [:spell-level-5: Insect Plague], [:spell-level-5: Maelstrom], [:spell-level-5: Synaptic Static] |
 
+[:spell-level-2: Blindness/Deafness]: ../../spells/description/core/level-2.md#blindnessdeafness
+[:spell-level-2: Enlarge/Reduce]: ../../spells/description/core/level-2.md#enlargereduce
+[:spell-level-2: Pyrotechnics]: ../../spells/description/core/level-2.md#pyrotechnics
+[:spell-level-2: Web]: ../../spells/description/core/level-2.md#web
 
+[:spell-level-3: Erupting Earth]: ../../spells/description/core/level-3.md#erupting-earth
+[:spell-level-3: Fireball]: ../../spells/description/core/level-3.md#fireball
+[:spell-level-3: Stinking Cloud]: ../../spells/description/core/level-3.md#stinking-cloud
 
+[:spell-level-4: Banishment]: ../../spells/description/core/level-4.md#banishment
+[:spell-level-4: Sickening Radiance]: ../../spells/description/core/level-4.md#sickening-radiance
+[:spell-level-4: Vitriolic Sphere]: ../../spells/description/core/level-4.md#vitriolic-sphere
 
-
+[:spell-level-5: Cloudkill]: ../../spells/description/core/level-5.md#cloudkill
+[:spell-level-5: Immolation]: ../../spells/description/core/level-5.md#immolation
+[:spell-level-5: Insect Plague]: ../../spells/description/core/level-5.md#insect-plague
+[:spell-level-5: Maelstrom]: ../../spells/description/core/level-5.md#maelstrom
+[:spell-level-5: Synaptic Static]: ../../spells/description/core/level-5.md#synaptic-static
