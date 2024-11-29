@@ -77,7 +77,7 @@ The following Explosives are available for a Saboteur rogue to learn. As an :rsc
 
     #### Basic Bomb
 
-    _**Prerequisite:** Level 3+ Rogue, **Cost:** 1 Cordite charge(s) _
+    _**Prerequisite:** Level 3+ Rogue, **Cost:** 1 Cordite charge(s)_
 
     On impact, forces targets within 5-foot-radius :aoe-sphere: Sphere to make a :d20-save: Dexterity saving throw. They take :dmg-fire: Fire damage equal to your :class-phb24-rogue: Sneak Attack bonus to on a failed save, and half as much :dmg-fire: Fire damage on a success.
 
@@ -164,7 +164,6 @@ The following Explosives are available for a Saboteur rogue to learn. As an :rsc
     ---
 
 === "Level 13+ Rogue"
-
 
     #### Banish to Desolation
 
