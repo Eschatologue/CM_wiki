@@ -61,7 +61,7 @@ Creatures that has the Surprised condition have :d20-disadv: Disadvantage on sav
 
 ### Level 17: Hair Trigger
 
-You have learned to detonate your Explosives from afar. When you craft an Explosive, you can create a rudimentary arcane remote to trigger the Explosive from afar. As a Utilise action, you can trigger the Explosive as long as you are within 100 feet.
+You have learned to detonate your Explosives from afar. When you craft an Explosive, you can create a rudimentary arcane remote to trigger the Explosive from afar. As a :rsc-a: **Utilise** action, you can trigger the Explosive as long as you are within 100 feet.
 
 ---
 
@@ -99,7 +99,7 @@ The following Explosives are available for a Saboteur rogue to learn. As an :rsc
 
     _**Prerequisite:** Level 3+ Rogue, **Cost:** 1 Cordite charge(s)_
 
-    On impact, this explosive distrupts the earth, forcing targets within 10-feet to make a :save-str: Strength saving throw. On a failed save, it takes :dmg-blunt: Bludgeoning damage equal to your :class-phb24-rogue: Sneak Attack bonus and has the Prone condition. The affected area becomes Difficult Terrain for 1 minute.
+    On impact, this explosive distrupts the earth, forcing targets within 10-feet to make a :d20-save: Strength saving throw. On a failed save, it takes :dmg-blunt: Bludgeoning damage equal to your :class-phb24-rogue: Sneak Attack bonus and has the Prone condition. The affected area becomes Difficult Terrain for 1 minute.
 
     ---
 

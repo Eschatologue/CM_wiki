@@ -86,17 +86,23 @@ When one of your Upgrades requires a creature to make a saving throw, it makes i
 
 #### Close Shot
 
+_**Prerequisite:** Level 3+ Artificer_
+
 When you make a ranged attack with your Arcane Firearm while you have a hostile creature within 5 feet of you, you do not have Disadvantage on your attack roll.
 
 ---
 
 #### Deadly Accuracy
 
+_**Prerequisite:** Level 3+ Artificer_
+
 You gain a +2 bonus to your Arcane Firearm attack rolls. This Upgrade does not stack with the Archery Fighting Style Feat.
 
 ---
 
 #### Elemental Shot
+
+_**Prerequisite:** Level 3+ Artificer_
 
 As a Bonus Action, you can touch your Arcane Firearm and expend a level 1+ spell slot and choose either :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-lightning: Lighting, or :dmg-thunder: Thunder. For the next minute, your Arcane Firearm deals additional damage of that type on hit.
 
@@ -106,11 +112,15 @@ The elemental damage is 1d4 for a level 1 spell slot, plus an additional 1d4 for
 
 #### Grooved Barrel
 
+_**Prerequisite:** Level 3+ Artificer_
+
 You modify your Arcane Firearm to be especially accurate. You ignore the Disadvantage imposed on Arcane Firearm attacks that you make at the weapon's long range.
 
 ---
 
 #### High Caliber
+
+_**Prerequisite:** Level 3+ Artificer_
 
 You increase the firepower of the Arcane Firearm. Its range increases to (100/400), its damage die increases from 1d10 to 2d6, and it gains the :weapon-prop-heavy: Heavy and :weapon-prop-two-handed: Two-handed properties.
 
@@ -118,13 +128,15 @@ You increase the firepower of the Arcane Firearm. Its range increases to (100/40
 
 #### Replaceable Parts
 
+_**Prerequisite:** Level 3+ Artificer_
+
 Your Arcane Firearm is crafted so you can adjust it on the fly. You can spend 10 minutes using Smith's Tools to replace one of your Arcane Firearm's Upgrades with another Upgrade that you meet the prerequisites for. You can do so during a short rest.
 
 ---
 
 #### Blinding Rounds
 
-_**Prerequisite:** Level 5 Artificer_
+_**Prerequisite:** Level 5+ Artificer_
 
 Once per turn when you hit a target with an Arcane Firearm attack, you can force it to make a Constitution saving throw. On a failure, it has the Blinded condition until the start of your next turn.
 
@@ -132,7 +144,7 @@ Once per turn when you hit a target with an Arcane Firearm attack, you can force
 
 #### Concussive Rounds
 
-_**Prerequisite:** Level 5 Artificer_
+_**Prerequisite:** Level 5+ Artificer_
 
 Once per turn when you hit a target with an Arcane Firearm attack, you can force it to make a Constitution saving throw. On a failure, the target cannot take reactions, and its Speed is halved until the beginning of your next turn.
 
@@ -140,7 +152,7 @@ Once per turn when you hit a target with an Arcane Firearm attack, you can force
 
 #### Explosive Rounds
 
-_**Prerequisite:** Level 5 Artificer_
+_**Prerequisite:** Level 5+ Artificer_
 
 Once per turn when you hit a target with an Arcane Firearm attack, you can force all creatures within 5 feet of it to make a Dexterity saving throw. On a failed save, they take damage as if they had also been hit by your Arcane Firearm attack.
 
@@ -148,7 +160,7 @@ Once per turn when you hit a target with an Arcane Firearm attack, you can force
 
 #### Incapacitating Rounds
 
-_**Prerequisite:** Level 9 Artificer_
+_**Prerequisite:** Level 9+ Artificer_
 
 Once per turn when you hit a target with an Arcane Firearm attack, you can force it to make a Strength saving throw. On a failed save, it has the Incapacitated condition until the start of your next turn, or until it takes damage or is forced to make a saving throw.
 
@@ -158,7 +170,7 @@ Large and larger creatures have Advantage on the Strength saving throw to resist
 
 #### Arcane Railgun
 
-_**Prerequisite:** Level 15 Artificer_
+_**Prerequisite:** Level 15+ Artificer_
 
 Once on your turn in place of making an Arcane Firearm attack, you can force creatures in a 60-foot line originating from your Arcane Firearm to make a Dexterity saving throw. Targets take 4d6 Force damage on a failed save, and half as much Force damage on a successful save.
 
@@ -166,7 +178,7 @@ Once on your turn in place of making an Arcane Firearm attack, you can force cre
 
 #### Independent Turret
 
-_**Prerequisite:** Level 15 Artificer_
+_**Prerequisite:** Level 15+ Artificer_
 
 As a Magic action, you can set your Arcane Firearm up as a turret in an unoccupied 5-foot space. While you are within 120 feet of your Arcane Firearm, you can use a Bonus Action to cause your Arcane Firearm to make an attack, or use another one of its abilities, targeting a creature you can see in its range.
 
