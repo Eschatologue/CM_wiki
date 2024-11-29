@@ -93,3 +93,5 @@ These tools support adventure and other pursuits.
 **Utilize:** Pick a lock (DC 15), or disarm a trap (DC 15)
 
 ---
+
+--8<-- "includes/snippets/inv-notation.md"

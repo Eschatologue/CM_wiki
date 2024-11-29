@@ -189,3 +189,5 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 **Craft:** Pistol Cartridges, Rifle Cartridges, Shotgun Cartridges, [Proximity Mines](../consumeables/grenade.md#plant)
 
 ---
+
+--8<-- "includes/snippets/inv-notation.md"

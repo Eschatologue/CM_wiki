@@ -31,7 +31,7 @@ The Short-Arm Table include pistols, revolvers, and other small, easily conceala
 
 ##### Short-Arm
 
-| Short-Arms Firearms | damage | properties | mastery | weight | cost |
+| Name | damage | properties | mastery | weight | cost |
 |---|---|---|:-:|:-:|--:|
 | *Revolver* | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 60/180), Reload (6) | [Sap] | M. | 1,250 SP |
 | *Semi-Auto Pistol* | 1d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 60/180), Automatic (2), Light, Reload (12) | [Vex] | M. | 1,500 SP |
@@ -44,13 +44,14 @@ The Long-arm Table encompass rifles and other longer-range weapons. These are de
 
 ##### Long-Arm 
 
-| Long-Arms Firearms | damage | properties | mastery | weight | cost |
+| Name | damage | properties | mastery | weight | cost |
 |---|---|---|:-:|:-:|--:|
 | *Automatic Rifle* | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 80/240), Automatic (3), Heavy, Reload (12), Two-handed | [Spray] | L. | 3,250 SP |
 | *Markesmen Rifle* | 2d6 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 120/360), Heavy, Reload (6), Sighted, Two-handed | [Brace] | L. | 4,000 SP |
 | *Semi-Auto Rifle* | 2d4 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 100/300), Automatic (1), Heavy, Reload (8), Two-handed | [Tap] | L. | 2,500 SP |
 | *Over-under Shotgun* | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 30/90), Automatic (1), Reload (2), Scatter (2d8), Two-handed | [Tap] | M. | 2,000 SP |
-| *Pump Shotgun* | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 40/120), Automatic (3), Heavy, Reload (7), Scatter (1d12), Two-handed | [Push] | M. | 3,000 SP |
+| *Pump Shotgun* | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 40/120), Automatic (2), Heavy, Reload (7), Scatter (1d12), Two-handed | [Push] | M. | 3,000 SP |
+| *Machine Gun* | 1d8 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 120/360), Automatic (4), Heavy, Reload (50), Two-Handed | [Spray] | XL. | 7,500  SP |
 
 ### Advanced Firearms
 
@@ -60,8 +61,7 @@ Advanced Firearms Table include rocket launchers, machine guns, and other large,
 
 | Advanced Firearms | damage | properties | mastery | weight | cost |
 |---|---|---|:-:|:-:|--:|
-| *Machine Gun* | 1d10 :dmg-piercing: Piercing | Ammunition (:weapon-prop-range: Range 120/360), Automatic (4), Heavy, Mounted, Reload (50), Two-Handed | [Spray] | XL. | 7,500  SP |
-| *Rocket Launcher* | 8d6 :dmg-fire: Fire | Ammunition (:weapon-prop-range: Range 120/360), Explosive (20ft. :aoe-sphere: sphere), Heavy, Reload (1), Two-Handed | -- | XL. | 6,500 SP |
+| *Rocket Launcher* | 8d6 :dmg-fire: Fire | Ammunition (:weapon-prop-range: Range 120/360), Explosive (20ft. :aoe-sphere: Sphere), Heavy, Reload (1), Two-Handed | -- | XL. | 6,500 SP |
 | *Grenade Launcher* | 1 :dmg-blunt: Bludgeoning | Ammunition (:weapon-prop-range: Range 120; [Grenade](../consumeables/grenade.md)), Heavy, Loading | -- | M. | 4,500 SP |
 
 ##### Ammunitions

@@ -32,7 +32,7 @@ Main article: [Cold Weapons](weapon-cold.md)
 
 Firearms are weapons that use an explosive charge to propel projectiles called "bullets" at incredible speed. These new types of weaponry were brought over by the Londoners when they first arrived in Antares, making them more adept at using firearms due to their long experience with them. 
 
-Firearms are very rare, and you will rarely see one outside of London-controlled territories. Even if you do, they won't sell it to you unless you are a London citizen.
+Firearms are very rare, and you will rarely see one outside of Albion-controlled territories. Even if you do, they won't sell it to you unless you are a Albion citizen.
 
 Main article: [Firearms](weapon-firearm.md) 
 
@@ -54,7 +54,7 @@ You can use a weapon that has the ammunition property to make a ranged attack on
 
 ### :weapon-prop-automatic:{ .lg } Automatic
 
-When you take the **Attack** Action on your turn and attack with an Automatic weapon, you can make extra attacks up to the number in the parenthesis later on the same turn. That extra attack must be made with the ^^same weapon^^ provided the weapon has enough Ammunition for the attacks, and you don't add your ability modifier to the extra attack's damage, unless that modifier is negative.
+When you take the **Attack** Action on your turn, you can make extra attacks up to the number in the parenthesis later on the same turn. That extra attack must be made with the ^^same weapon^^ provided the weapon has enough Ammunition for the attacks, and you don't add your ability modifier to the additional attack's damage rolls, unless that modifier is negative.
 
 ---
 
@@ -138,7 +138,7 @@ You can throw the weapon to make a ranged attack. If the weapon is a melee weapo
 
 ### :weapon-prop-two-handed:{ .lg } Two-Handed
 
-This weapon requires two hands when you attack with it. This property is relevant only when you attack with the weapon, not when you simply hold it.
+This weapon requires two hands when you attack with it. This property is relevant only when you tries to attack with the weapon, not when you simply hold it.
 
 ---
 

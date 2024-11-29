@@ -19,7 +19,9 @@ When you take the :rsc-a: **Attack** action, you can replace one of your attacks
 
 You can convert your grenades to proximity mines, provided you are proficient with [Tinker's Tools](../tools/artisan-tools.md#tinkers-tools) or [Gunsmith's Tools](../tools/artisan-tools.md#gunsmiths-tools). 
 
-When you finish a Long Rest, you can convert a number of Grenades up to your Proficiency Bonus into a proximity mine using the aforementioned tools. As a :rsc-a: **Utilise** action, you can plant them in the ground in your space. On the next turn, whenever a creature enters a space within 20 feet of the proximity mine for the first time on a turn or ends its turn there, it explodes at that point, creating a particular effect depending on the grenade's effect.
+***Making the Mines.*** When you finish a Long Rest, you can convert a number of Grenades up to your Proficiency Bonus into a proximity mine using the aforementioned tools. 
+
+***Planting the Mines.*** As a :rsc-a: **Utilise** action, you can plant them in the ground in your space. On the next turn, whenever a creature (includes you) enters a space within 20 feet of the proximity mine for the first time on a turn or ends its turn there, it explodes at that point, creating a particular effect depending on the grenade's effect.
 
 It's obvious to observers that you're doing something when you take this Action.
 

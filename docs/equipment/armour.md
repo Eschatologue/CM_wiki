@@ -53,14 +53,16 @@ The Armour table lists the game's main armour. The table includes the cost and w
 
 Anyone can don armour or hold a Shield, but only those with training can use them effectively, as explained below. A character's class and other features determine the character's armour training. A monster has training with any armour in its stat block.
 
-#### Light, Medium, or Heavy Armour
+### Light, Medium, or Heavy Armour
 
 If you wear Light, Medium, or Heavy armour and lack training with it, you have :d20-disadv: **Disadvantage** on any D20 Test that involves Strength or Dexterity, and you can't cast spells.
 
-#### Shield
+### Shield
 
 You gain the Armour Class benefit of a Shield only if you have training with it.
 
-***Buckler.*** When wielding a Buckler, you can still use the weapon's :weapon-prop-versatile: ^^Versatile^^ property.
+***Buckler.*** When wielding a Buckler, a creature can still use a weapon's :weapon-prop-versatile: ^^Versatile^^ property.
+
+***Tower Shield.*** As a :rsc-a: **Utilise** action, a creature can plant the Tower Shield in the ground in an empty space within 5 feet, losing the benefit of the shield. Until it is removed (:rsc-a: **Utilise**), it acts as a Half Cover for creature within 5 feet of it.
 
 --8<-- "includes/snippets/inv-notation.md"
