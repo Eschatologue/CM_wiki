@@ -73,7 +73,7 @@ The following Explosives are available for a Saboteur rogue to learn. As an :rsc
 
     Explosive in this subclass aren't considered Grenades; therefore item such as Grenade Launcher or other related feature is incompatible with explosives in this subclass.
 
-#### Basic Bomb
+### Basic Bomb
 
 _**Prerequisite:** Level 3 Rogue_
 
@@ -85,7 +85,9 @@ On impact, forces targets within 5-foot-radius :aoe-sphere: Sphere to make a :sa
 
 When you reach Rogue level 5, these explosive can benefit from your [Cunning Strike](index.md#level-5-cunning-strike) feature, provided they're used by you.
 
-#### Glitter Dust
+---
+
+### Glitter Dust
 
 _**Prerequisite:** Level 3 Rogue_
 
@@ -97,7 +99,9 @@ On impact, forces targets within 20-foot :aoe-cube: Cube to make a :save-dex: De
 
 A creature can use its Action to scrape all these reflective particles off of it, ending the effects of this Explosive.
 
-#### Seismic Charge
+---
+
+### Seismic Charge
 
 _**Prerequisite:** Level 3 Rogue_
 
@@ -107,7 +111,9 @@ _**Prerequisite:** Level 3 Rogue_
 
 On impact, this explosive distrupts the earth, forcing targets within 10-feet to make a :save-str: Strength saving throw. On a failed save, it :dmg-blunt: Bludgeoning damage and has the Prone condition. The affected area becomes Difficult Terrain for 1 minute.
 
-#### Fog Bombs
+---
+
+### Fog Bombs
 
 _**Prerequisite:** Level 3 Rogue_
 
@@ -117,7 +123,9 @@ _**Prerequisite:** Level 3 Rogue_
 
 On impact, a 20-foot-radius :aoe-sphere: Sphere appears. The Sphere is Heavily Obscured. It lasts for the 1 minute or until a strong wind (such as one created by *Gust of Wind* spell) disperses it.
 
-#### Thunder Pulse
+---
+
+### Thunder Pulse
 
 _**Prerequisite:** Level 3 Rogue_
 
@@ -125,9 +133,35 @@ _**Prerequisite:** Level 3 Rogue_
 :die-d6: **Damage:** :class-phb24-rogue: Sneak Attack damage as :dmg-thunder: Thunder damage    
 :d20-save: **Save:** Con. Save (Half damage on Success with no adt. effect)
 
-On impact, a wave of thunderous force bursts forth, forcing targets within 15-foot-radius :aoe-sphere: Sphere to make :d20-save: Constitution saving throw. On a failure, they take :dmg-thunder: Thunder damage and are pushed 10 feet away from the point of impact. On a success, they take half as much damage and are not moved
+On impact, a wave of thunderous force bursts forth, forcing targets within 15-foot-radius :aoe-sphere: Sphere to make :d20-save: Constitution saving throw. On a failure, they take :dmg-thunder: Thunder damage and are pushed 10 feet away from the point of impact. On a success, they take half as much damage and are not moved.
 
-##### Arcane Explosives
+---
+
+### Sticky Web
+
+:material-car-turbocharger: **Charge:** 3 Cordite charge(s)  
+:die-d6: **Damage:** None  
+:d20-save: **Save:** Dex. Save
+
+On impact, sticky white coating covers a 20-foot :aoe-square: Square. Any creature that starts its turn in the square, or enters the area during its turn must succeed on a Dexterity saving throw or have the Restrained condition. Affected creature can take an Action to make Strength or Dexterity saving throw, ending the effect on success.
+
+The coating dissolves after 1 minute. If it takes any :dmg-fire: Fire damage, it instantly disolves.
+
+---
+
+### Incendiary Bomb
+
+_**Prerequisite:** Level 3 Rogue_
+
+:material-car-turbocharger: **Charge:** 1 Cordite charge(s)  
+:die-d6: **Damage:** :class-phb24-rogue: Sneak Attack damage as :dmg-fire: Fire damage    
+:d20-save: **Save:** Dex. Save (Half damage on Success)
+
+On impact, a ball of fire rushes outwards filling a 30-foot-radius :aoe-sphere: Sphere, forcing creatures within the area to make a Dexterity saving throw. On a failure, creatures take :dmg-fire: damage or half as much on Success.
+
+Any flammable objects in this area are ignited and become Burning hazard.
+
+#### Arcane Explosives
 
 | Rogue Level | Charges | Spell Effects |
 |:-:|:-:|---|
