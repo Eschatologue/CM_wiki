@@ -32,7 +32,7 @@ Please choose a class from the available options listed.
 
 You can also choose to Multiclass when the prerequisites are met.
 
-#### Write Your Level
+#### 1.1: Write Your Level
 
 Write your character's level on your character sheet. Typically, a character starts at level 1 and advances in level by adventuring and gaining Experience Points (XP) or by **milestones**.
 
@@ -40,25 +40,25 @@ Write your character's level on your character sheet. Typically, a character sta
 
 ***Starting at a Higher Level.*** Your DM might start you at a higher level. If you start at level 3 or higher, write your chosen subclass on your character sheet. See the “Starting at Higher Levels” section later in the chapter for more information.
 
-#### Note Armour Training
+#### 1.2: Note Armour Training
 
 Your class might give you training with certain categories of armour. Note your armour training on your character sheet. Armour training with a kind of armour means you can wear that armour effectively, gaining defensive bonuses from it.
 
-#### Hold That Thought
+#### 1.3: Hold That Thought
 
 You'll fill in more details about your class later. Choosing your class is the most important decision you make in creating a character, and it informs many of the decisions you make in later steps. You'll return to your class's description in chapter 3 several more times before you're done.
 
 ### Step 2: Determine Origin
 
-#### Choose a Background
+#### 2.1: Choose a Background
 
 Choose your character's background, and write it on your character sheet. You can choose any of the backgrounds detailed in chapter 4, or your DM might offer additional backgrounds as options. For Crown & Misery, this campaign uses the **Custom Background** ruling, available in Background section.
 
-#### Choose Starting Equipment
+#### 2.2: Choose Starting Equipment
 
 Your background and class both provide starting equipment. Any coins that you gain at this step can be immediately spent on equipment. In addition, you can have one [trinket](trinket.md) at no cost.
 
-#### Choose a Species
+#### 2.3: Choose a Species
 
 Choose a [Species] for your character. Once you've chosen a species, write it on your character sheet. Then record your species' traits.
 
@@ -66,7 +66,7 @@ Your character's size and Speed are determined by the character's species; recor
 
 [Species]: ./origin/species/index.md
 
-#### Imagine Your Past and Present
+#### 2.4: Imagine Your Past and Present
 
 Let your character's background and species inspire how you imagine their past. That past fed into the character's present. With that in mind, consider answers to the following questions as your character:
 
@@ -79,7 +79,7 @@ Let your character's background and species inspire how you imagine their past. 
  
 This [article](http://dnd5e.wikidot.com/this-is-your-life) provides a good example of how to construct your backstory.
 
-#### Choose Languages
+#### 2.5: Choose Languages
 
 Your character knows at least three languages: **Common plus two languages** you roll or choose from the Standard Languages table. Knowledge of a language means your character can communicate in it, read it, and write it. Your class and other features might also give you languages.
 
@@ -163,7 +163,7 @@ In this setting, we uses the Standard Array as follow: 15, 14, 13, 12, 10, 8
 
 Simply assign one number to each Ability Score (one to Strength, one to Dexterity, one to Constitution, and so on). Then, you'll be able to determine your character's modifier for each score.
 
-#### Ability Scores
+#### 3.1: Ability Scores
 
 Each of a creature's abilities has a score, a number that defines the magnitude of that ability. An Ability Score is not just a measure of innate capabilities, but also encompasses a creature's training and competence in activities related to that ability.
 
@@ -254,7 +254,7 @@ Choose your character's alignment from the options below, and note it on your ch
 
 D&D assumes that player characters aren't of an evil alignment. Check with your DM before making an evil character. 
 
-#### The Nine Alignments
+#### 4.1: The Nine Alignments
 
 A creature's alignment broadly describes its ethical attitudes and ideals. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward order (lawful, chaotic, or neutral).
 
@@ -300,33 +300,30 @@ The summaries of the alignments below describe the typical behavior of a creatur
 
 Now fill in the rest of your character sheet.
 
-#### Record Class Features
+#### 5.1: Record Class Features
 
 Look at your class's feature table in chapter 3, and write down the level 1 features. The class features are detailed in that same chapter.
 
 Some class features offer choices. Make sure to read all your features and make any offered choices.
 
-#### Fill In Numbers
+#### 5.2: Fill In Numbers
 
 Note these numbers on your character sheet.
 
-***Saving Throws*** 
+***Saving Throws***  
+For the saving throws you have proficiency in, add your Proficiency Bonus to the appropriate ability modifier and note the total. Some players also like to note the modifier for saving throws they're not proficient in, which is just the relevant ability modifier.
 
-:   For the saving throws you have proficiency in, add your Proficiency Bonus to the appropriate ability modifier and note the total. Some players also like to note the modifier for saving throws they're not proficient in, which is just the relevant ability modifier.
+***Skills***  
+For skills you have proficiency in, add your Proficiency Bonus to the ability modifier associated with that skill, and note the total. You might also wish to note the modifier for skills you're not proficient in, which is just the relevant ability modifier.
 
-***Skills*** 
+***Passive Perception***  
+Sometimes your DM will determine whether your character notices something without asking you to make a Wisdom (Perception) check; the DM uses your Passive Perception instead. Passive Perception is a score that reflects a general awareness of your surroundings when you're not actively looking for something. Use this formula to determine your Passive Perception score:
 
-:   For skills you have proficiency in, add your Proficiency Bonus to the ability modifier associated with that skill, and note the total. You might also wish to note the modifier for skills you're not proficient in, which is just the relevant ability modifier.
+``` title="Passive Perception"
 
-***Passive Perception*** 
+10 + Wisdom (Perception) check modifier
 
-:   Sometimes your DM will determine whether your character notices something without asking you to make a Wisdom (Perception) check; the DM uses your Passive Perception instead. Passive Perception is a score that reflects a general awareness of your surroundings when you're not actively looking for something. Use this formula to determine your Passive Perception score:
-
-<p style="text-align:center;">
-
-<strong>Passive Perception</strong> = 10 + Wisdom (Perception) check modifier
-
-</p>
+```
 
 :   Include all modifiers that apply to your Wisdom (Perception) checks. For example, if your character has a Wisdom of 15 and proficiency in the Perception skill, you have a Passive Perception of 14 (10 + 2 for your Wisdom modifier + 2 for proficiency).
 
@@ -334,23 +331,23 @@ Note these numbers on your character sheet.
 
 :   Your class and Constitution modifier determine your Hit Point maximum at level 1, as shown on the Level 1 Hit Points by Class table.
 
-##### Level 1 Hit Points by Class
+##### Hit Points by Class
 
-| **Class** | **Hit Die** | **Hit Points at 1st Level** |
-|---|---|---|
-| Barbarian | d12 | 12 + Constitution modifier |
-| Fighter | d10 | 10 + Constitution modifier |
-| Paladin | d10 | 10 + Constitution modifier |
-| Ranger | d10 | 10 + Constitution modifier |
-| Artificer | d8 | 8 + Constitution modifier |
-| Bard | d8 | 8 + Constitution modifier |
-| Cleric | d8 | 8 + Constitution modifier |
-| Druid | d8 | 8 + Constitution modifier |
-| Monk | d8 | 8 + Constitution modifier |
-| Rogue | d8 | 8 + Constitution modifier |
-| Warlock | d8 | 8 + Constitution modifier |
-| Sorcerer | d6 | 6 + Constitution modifier |
-| Wizard | d6 | 6 + Constitution modifier |
+| Class | Hit Die | HP at Level 1 | HP per Level |
+|---|:-:|---|---|
+| Barbarian | d12 | 12 + :ability-cons: CON modifier | 7 + :ability-cons: CON modifier |
+| Fighter | d10 | 10 + :ability-cons: CON modifier | 6 + :ability-cons: CON modifier |
+| Paladin | d10 | 10 + :ability-cons: CON modifier | 6 + :ability-cons: CON modifier |
+| Ranger | d10 | 10 + :ability-cons: CON modifier | 6 + :ability-cons: CON modifier |
+| Artificer | d8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
+| Bard | d8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
+| Cleric | d8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
+| Druid | d8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
+| Monk | d8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
+| Rogue | d8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
+| Warlock | d8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
+| Sorcerer | d6 | 6 + :ability-cons: CON modifier | 4 + :ability-cons: CON modifier |
+| Wizard | d6 | 6 + :ability-cons: CON modifier | 4 + :ability-cons: CON modifier |
 
 ***Hit Point Dice*** 
 
@@ -394,6 +391,6 @@ Note these numbers on your character sheet.
 
 :   If your class gives you the Spellcasting or Pact Magic feature, your class features table shows the number of spell slots you have available, how many cantrips you know, and how many spells you can prepare. Choose your cantrips and prepared spells, and note them—along with your number of spell slots—on your character sheet.
 
-#### Name Your Character
+#### 5.3: Name Your Character
 
 Choose a name for your character, and write it on your character sheet. The name can be whatever you like. Was it the name of an ancestor? Does it have religious or other significance? Is it a name you chose for yourself?
