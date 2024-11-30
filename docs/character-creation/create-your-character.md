@@ -321,49 +321,44 @@ Sometimes your DM will determine whether your character notices something withou
 
 ``` title="Passive Perception"
 
-10 + Wisdom (Perception) check modifier
+10 + Wisdom modifier + PB (if profficient with Perception)
 
 ```
 
-:   Include all modifiers that apply to your Wisdom (Perception) checks. For example, if your character has a Wisdom of 15 and proficiency in the Perception skill, you have a Passive Perception of 14 (10 + 2 for your Wisdom modifier + 2 for proficiency).
-
 ***Hit Points*** 
 
-:   Your class and Constitution modifier determine your Hit Point maximum at level 1, as shown on the Level 1 Hit Points by Class table.
+Your class and Constitution modifier determine your Hit Point maximum at level 1, as shown on the Hit Points by Class table.
 
 ##### Hit Points by Class
 
 | Class | Hit Die | HP at Level 1 | HP per Level |
 |---|:-:|---|---|
-| Barbarian | d12 | 12 + :ability-cons: CON modifier | 7 + :ability-cons: CON modifier |
-| Fighter | d10 | 10 + :ability-cons: CON modifier | 6 + :ability-cons: CON modifier |
-| Paladin | d10 | 10 + :ability-cons: CON modifier | 6 + :ability-cons: CON modifier |
-| Ranger | d10 | 10 + :ability-cons: CON modifier | 6 + :ability-cons: CON modifier |
-| Artificer | d8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
-| Bard | d8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
-| Cleric | d8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
-| Druid | d8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
-| Monk | d8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
-| Rogue | d8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
-| Warlock | d8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
-| Sorcerer | d6 | 6 + :ability-cons: CON modifier | 4 + :ability-cons: CON modifier |
-| Wizard | d6 | 6 + :ability-cons: CON modifier | 4 + :ability-cons: CON modifier |
+| Barbarian | D12 | 12 + :ability-cons: CON modifier | 7 + :ability-cons: CON modifier |
+| Fighter | D10 | 10 + :ability-cons: CON modifier | 6 + :ability-cons: CON modifier |
+| Paladin | D10 | 10 + :ability-cons: CON modifier | 6 + :ability-cons: CON modifier |
+| Ranger | D10 | 10 + :ability-cons: CON modifier | 6 + :ability-cons: CON modifier |
+| Artificer^*TCE*^ | D8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
+| Bard | D8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
+| Cleric | D8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
+| Druid | D8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
+| Magus^CM/LL^ | D8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
+| Monk | D8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
+| Rogue | D8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
+| Warlock | D8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
+| Sorcerer | D6 | 6 + :ability-cons: CON modifier | 4 + :ability-cons: CON modifier |
+| Wizard | D6 | 6 + :ability-cons: CON modifier | 4 + :ability-cons: CON modifier |
 
-***Hit Point Dice*** 
+***Hit Point Dice***  
+Your class's description tells you the die type of your character's Hit Point Dice (or Hit Dice for short); write this on your character sheet. At level 1, your character has 1 Hit Die. You can spend Hit Dice during a Short Rest to recover Hit Points. Your character sheet also includes space to note how many Hit Dice you've spent.
 
-:   Your class's description tells you the die type of your character's Hit Point Dice (or Hit Dice for short); write this on your character sheet. At level 1, your character has 1 Hit Die. You can spend Hit Dice during a Short Rest to recover Hit Points. Your character sheet also includes space to note how many Hit Dice you've spent.
+***Initiative***  
+Write your Dexterity modifier in the space for Initiative on your character sheet.
 
-***Initiative*** 
+***Armour Class***  
+Without armour or a shield, your base Armour Class is ^^10 plus your Dexterity modifier^^. If your starting equipment includes armour or a Shield (or both), calculate your AC using the rules in [chapter 6](../equipment/armour.md). A class feature might give you a different way to calculate your AC.
 
-:   Write your Dexterity modifier in the space for Initiative on your character sheet.
-
-***Armour Class*** 
-
-:   Without armour or a shield, your base Armour Class is 10 plus your Dexterity modifier. If your starting equipment includes armour or a Shield (or both), calculate your AC using the rules in chapter 6. A class feature might give you a different way to calculate your AC.
-
-***Attacks*** 
-
-:   In the Weapons & Damage Cantrips section of the character sheet, write your starting weapons. The attack roll bonus for a weapon with which you have proficiency is one of the following unless a weapon's property says otherwise:
+***Attacks***  
+In the Weapons & Damage Cantrips section of the character sheet, write your starting weapons. The attack roll bonus for a weapon with which you have proficiency is one of the following unless a weapon's property says otherwise:
 
 <p style="text-align:center;">
 <strong>Melee attack bonus</strong> = Strength modifier + Proficiency Bonus
@@ -372,7 +367,7 @@ Sometimes your DM will determine whether your character notices something withou
 <strong>Ranged attack bonus</strong> = Dexterity modifier + Proficiency Bonus
 </p>
 
-:   Look up the damage and properties of your weapons in chapter 6. You add the same ability modifier you use for attacks with a weapon to your damage rolls with that weapon.
+Look up the damage and properties of your weapons in chapter 6. You add the same ability modifier you use for attacks with a weapon to your damage rolls with that weapon.
 
 ***Spellcasting*** 
 
