@@ -38,7 +38,7 @@ Your battlefield research has resulted in the invention of your signature Arcane
 | **Weapon Category** | The base weapon's category |
 | **Base Damage** | The weapon's base damage + Ability Modifier used for the attack roll |
 | **Properties** | The weapon's base property + :weapon-prop-thrown: ^^Thrown (20/60)^^ | 
-| **Infusion** | [:class-phb24-artificer: Returning Weapon] <br>You can't replace this property, but it doesn't count torwards your maximum known |
+| **Infusion** | [:class-phb24-artificer: Returning Weapon] <br>You can't replace this property, but it doesn't count torwards your maximum known. |
 
 The number of additional :class-phb24-artificer: Infusion your Arcane Armament can bear increases, on top of the [:class-phb24-artificer: Returning Weapon] infusion when you reach level 5 (+1 Infusion), Level 9 (+2 Infusion), and Level 15 (+3 Infusion)
 

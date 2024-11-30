@@ -34,15 +34,15 @@ Your metallurgical pursuits have led to you making armour a conduit for your mag
 
 You gain the following benefits while wearing this armour:
 
-***Self Supporting.*** If the armour normally has a Strength requirement, the Arcane Armour lacks this requirement for you.
+***Self Supporting.*** If the armour normally has a Strength requirement, you can use Intelligence to fufill the requirement.
 
 #### Spellcasting Focus
 
  You can use the Arcane Armour as a spellcasting focus for your Artificer spells.
 
-***Second Skin.*** The armour attaches to you and can't be removed against your will. It also expands to cover your entire body, although you can retract or deploy the helmet as a Bonus Action. The armour replaces any missing limbs, functioning identically to a limb it replaces.
+***Second Skin.*** The armour attaches to you and can't be removed against your will. It also expands to cover your entire body, although you can retract or deploy the helmet as a :rsc-b: Bonus Action. The armour replaces any missing limbs, functioning identically to a limb it replaces.
 
-***Quick Don/Doff.*** You can doff or don the armour as an Action.
+***Quick Don/Doff.*** You can doff or don the armour as an :rsc-a: **Action**.
 
 ### Level 3: Armour Model
 
@@ -56,7 +56,7 @@ You can customize your Arcane Armour. When you do so, choose one of the followin
 
 You design your armour to be in the front line of conflict. It has the following features:
 
-***Thunder Gauntlets.*** Each of the armour's gauntlets counts as a Simple Melee weapon while you aren't holding anything in it, and it deals 1d8 Thunder damage on a hit. The gauntlets have the Push Mastery property.
+***Thunder Gauntlets.*** Each of the armour's gauntlets counts as a Simple Melee weapon while you aren't holding anything in it, and it deals 1d8 Thunder damage on a hit. The gauntlets have the Push Mastery property, in which you can use.
 
 ***Distracting Pulse.*** When you hit a creature with a melee attack, it has Disadvantage on attack rolls against targets other than you until the start of your next turn, as the armour magically emits a distracting pulse when the creature attacks someone else.
 

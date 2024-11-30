@@ -6,7 +6,9 @@ Below are Artificer's Infusion available from Tasha's Cauldron of Everything.
 
 ### Armour of Magical Strength
 
-_**Prerequisite:** A suit of armour (requires attunement), **Charge:** 6 (:material-reload: **Recharge:** 1d6/Day)_
+_**Prerequisite:** Level 2+_
+_**Item:** A suit of armour (requires attunement)_  
+_**Charge:** 6 (:material-reload: **Recharge:** 1d6/Day)_
 
 This armour has 6 charges. The wearer can expend the armour's charges in the following ways:
 
@@ -19,7 +21,7 @@ The armour regains 1d6 expended charges daily at dawn.
 
 ### Enhanced Arcane Focus
 
-_**Prerequisite:** A rod, staff, or wand (requires attunement)_
+_**Prerequisite:** An Arcane Focus (requires attunement)_
 
 While holding this item, a creature gains a +1 bonus to spell attack rolls. In addition, the creature ignores Half Cover when making a spell attack.
 
@@ -29,7 +31,7 @@ The bonus increases to +2 when you reach level 10 in this class.
 
 ### Enhanced Defense
 
-_**Prerequisite:** A suit of armour or a shield_
+_**Prerequisite:** A suit of Armour or a Shield_
 
 A creature gains a +1 bonus to Armour Class while wearing (armour) or wielding (shield) the infused item.
 
@@ -39,7 +41,7 @@ The bonus increases to +2 when you reach level 10 in this class.
 
 ### Enhanced Weapon
 
-_**Prerequisite:** A simple or martial weapon_
+_**Prerequisite:** A Weapon_
 
 This magic weapon grants a +1 bonus to attack and damage rolls made with it.
 
@@ -269,13 +271,14 @@ The wearer of this armour gains these benefits:
 |---|---|
 | **Weapon Category** | Simple Melee |
 | **Base Damage** | 1d8 :dmg-force: Force + Ability Modifier used for the attack roll |
-| **Properties** | :weapon-prop-thrown: ^^Thrown (20/60)^^ | 
-| **Infusion** | [:class-phb24-artificer: Returning Weapon] <br>You can't replace this property, but it doesn't count torwards your maximum known |
+| **Properties** | :weapon-prop-thrown: ^^Thrown (20/60)^^<br>When thrown, the gauntlet detaches and flies at the attack's target, then immediately returns to the wearer and reattaches. | 
 | **Mastery** | Push (you can use this property, and it doesn't count against the number of properties you can use with Weapon Mastery) |
 
 ***Second Skin.*** The armour can't be removed against the wearer's will.
 
 ***Prosthesis.*** If the wearer is missing any limbs, the armour replaces those limbs—hands, arms, feet, legs, or similar appendages. The replacements function identically to the body parts they replace.
+
+[:class-phb24-artificer: Returning Weapon]: #returning-weapon
 
 ---
 
