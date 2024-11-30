@@ -260,41 +260,32 @@ A creature's alignment broadly describes its ethical attitudes and ideals. Align
 
 The summaries of the alignments below describe the typical behavior of a creature with that alignment; individuals can vary from that behavior.
 
-***Lawful Good (LG)*** 
+***Lawful Good (LG)***  
+Lawful Good creatures endeavor to do the right thing as expected by society. Someone who fights injustice and protects the innocent without hesitation is probably Lawful Good.
 
-:   Lawful Good creatures endeavor to do the right thing as expected by society. Someone who fights injustice and protects the innocent without hesitation is probably Lawful Good.
+***Neutral Good (NG)***  
+Neutral Good creatures do the best they can, working within rules but not feeling bound by them. A kindly person who helps others according to their needs is probably Neutral Good.
 
-***Neutral Good (NG)*** 
+***Chaotic Good (CG)***  
+Chaotic Good creatures act as their conscience directs with little regard for what others expect. A rebel who waylays a cruel baron's tax collectors and uses the stolen money to help the poor is probably Chaotic Good.
 
-:   Neutral Good creatures do the best they can, working within rules but not feeling bound by them. A kindly person who helps others according to their needs is probably Neutral Good.
+***Lawful Neutral (LN)***  
+Lawful Neutral individuals act in accordance with law, tradition, or personal codes. Someone who follows a disciplined rule of life—and isn't swayed either by the demands of those in need or by the temptations of evil—is probably Lawful Neutral.
 
-***Chaotic Good (CG)*** 
+***Neutral (N)***  
+Neutral is the alignment of those who prefer to avoid moral questions and don't take sides, doing what seems best at the time. Someone who's bored by moral debate is probably Neutral.
 
-:   Chaotic Good creatures act as their conscience directs with little regard for what others expect. A rebel who waylays a cruel baron's tax collectors and uses the stolen money to help the poor is probably Chaotic Good.
+***Chaotic Neutral (CN)***  
+Chaotic Neutral creatures follow their whims, valuing their personal freedom above all else. A scoundrel who wanders the land living by their wits is probably Chaotic Neutral.
 
-***Lawful Neutral (LN)*** 
+***Lawful Evil (LE)***  
+Lawful Evil creatures methodically take what they want within the limits of a code of tradition, loyalty, or order. An aristocrat exploiting citizens while scheming for power is probably Lawful Evil.
 
-:   Lawful Neutral individuals act in accordance with law, tradition, or personal codes. Someone who follows a disciplined rule of life—and isn't swayed either by the demands of those in need or by the temptations of evil—is probably Lawful Neutral.
+***Neutral Evil (NE)***  
+Neutral Evil is the alignment of those who are untroubled by the harm they cause as they pursue their desires. A criminal who robs and murders as they please is probably Neutral Evil.
 
-***Neutral (N)*** 
-
-:   Neutral is the alignment of those who prefer to avoid moral questions and don't take sides, doing what seems best at the time. Someone who's bored by moral debate is probably Neutral.
-
-***Chaotic Neutral (CN)*** 
-
-:   Chaotic Neutral creatures follow their whims, valuing their personal freedom above all else. A scoundrel who wanders the land living by their wits is probably Chaotic Neutral.
-
-***Lawful Evil (LE)*** 
-
-:   Lawful Evil creatures methodically take what they want within the limits of a code of tradition, loyalty, or order. An aristocrat exploiting citizens while scheming for power is probably Lawful Evil.
-
-***Neutral Evil (NE)*** 
-
-:   Neutral Evil is the alignment of those who are untroubled by the harm they cause as they pursue their desires. A criminal who robs and murders as they please is probably Neutral Evil.
-
-***Chaotic Evil (CE)*** 
-
-:   Chaotic Evil creatures act with arbitrary violence, spurred by their hatred or bloodlust. A villain pursuing schemes of vengeance and havoc is probably Chaotic Evil.
+***Chaotic Evil (CE)***  
+Chaotic Evil creatures act with arbitrary violence, spurred by their hatred or bloodlust. A villain pursuing schemes of vengeance and havoc is probably Chaotic Evil.
 
 ### Step 5: Fill In Details
 
@@ -321,7 +312,7 @@ Sometimes your DM will determine whether your character notices something withou
 
 ``` title="Passive Perception"
 
-10 + Wisdom modifier + PB (if profficient with Perception)
+10 + Wisdom modifier + PB (if proficient with Perception)
 
 ```
 
@@ -341,7 +332,7 @@ Your class and Constitution modifier determine your Hit Point maximum at level 1
 | Bard | D8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
 | Cleric | D8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
 | Druid | D8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
-| Magus^CM/LL^ | D8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
+| Magus^*CM/LL*^ | D8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
 | Monk | D8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
 | Rogue | D8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
 | Warlock | D8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
@@ -360,31 +351,43 @@ Without armour or a shield, your base Armour Class is ^^10 plus your Dexterity m
 ***Attacks***  
 In the Weapons & Damage Cantrips section of the character sheet, write your starting weapons. The attack roll bonus for a weapon with which you have proficiency is one of the following unless a weapon's property says otherwise:
 
-<p style="text-align:center;">
-<strong>Melee attack bonus</strong> = Strength modifier + Proficiency Bonus
-</p>
-<p style="text-align:center;">
-<strong>Ranged attack bonus</strong> = Dexterity modifier + Proficiency Bonus
-</p>
+``` title="Melee Attack Bonus"
+
+Strength Modifier + Proficiency Bonus + Additional Bonuses (If applicable)
+
+```
+
+``` title="Ranged Attack Bonus"
+
+Dexterity modifier + Proficiency Bonus + Additional Bonuses (If applicable)
+
+```
+
+See [Attack Roll](../gameplay/phb/d20-test.md#attack-roll) for more info.
 
 Look up the damage and properties of your weapons in chapter 6. You add the same ability modifier you use for attacks with a weapon to your damage rolls with that weapon.
 
 ***Spellcasting*** 
 
-:   Note both the saving throw DC for your spells and the attack bonus for attacks you make with them, using these formulas:
+Note both the saving throw DC for your spells and the attack bonus for attacks you make with them, using these formulas:
 
-<p style="text-align:center;">
-<strong>Spell save DC</strong> = 8 + spellcasting ability modifier + Proficiency Bonus
-</p>
-<p style="text-align:center;">
-<strong>Spell attack bonus</strong> = spellcasting ability modifier + Proficiency Bonus
-</p>
+``` title="Spell Save DC"
 
-:   Your spellcasting ability modifier for a spell is determined by whatever feature gives you the ability to cast the spell.
+8 + Spellcasting ability modifier + Proficiency Bonus
+
+```
+
+``` title="Spell Attack Bonus"
+
+Spellcasting ability modifier + Proficiency Bonus
+
+```
+
+Your spellcasting ability modifier for a spell is determined by whatever feature gives you the ability to cast the spell.
 
 ***Spell Slots, Cantrips, and Prepared Spells*** 
 
-:   If your class gives you the Spellcasting or Pact Magic feature, your class features table shows the number of spell slots you have available, how many cantrips you know, and how many spells you can prepare. Choose your cantrips and prepared spells, and note them—along with your number of spell slots—on your character sheet.
+If your class gives you the Spellcasting or Pact Magic feature, your class features table shows the number of spell slots you have available, how many cantrips you know, and how many spells you can prepare. Choose your cantrips and prepared spells, and note them—along with your number of spell slots—on your character sheet.
 
 #### 5.3: Name Your Character
 

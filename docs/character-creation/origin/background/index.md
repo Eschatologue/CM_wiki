@@ -17,36 +17,20 @@ Each background includes the following elements, which you can either choose fro
 
 Mechanically, your background contains six plus one aspects detailed as follow, a **Custom Background** follows the same formula:
 
-:material-arrow-up-bold-box: ***Ability Scores***
-
-:   Increase ^^one ability score by +2 and another by +1^^, or increase ^^three ability scores by +1 each^^. These increases cannot raise any score above **20**.
-
-:material-cards-diamond: ***Feat***
-
-:   Gain an ^^Origin Feat^^. This feat represents a talent your character developed or had during their background.
-
-:material-account-star: ***Skill Proficiencies***
-
-:   Gain ^^proficiency in 2 skills^^ related to your character's background experiences.
-
-:material-tools: ***Tool Proficiency***
-
-:   Gain ^^proficiency with 1 tool^^. This can be a specific tool (Musical Instrument, or other tools) or one from the **Artisan's Tools** category.
-
-:trait-language: ***Languages Known***
-
-:   Your character knows ^^3 languages^^: **Common** plus two additional languages chosen or rolled from the **Standard Languages** table. See [Character Creation](../../create-your-character.md#choose-languages) for more details.
-
-:weapon-spear: ***Equipment***
-
-:   Start with either an ^^equipment package^^ from any background or **500 SP** to spend on equipment of your choice (e.g., weapons, tools, clothing, etc.).
-
-:material-transit-connection-variant: ***Affiliation*** ^*CM*^
-
-:   You have ^^5 points^^ to distribute between 4 **Affiliations**: **Academe, Bohemia, Establishment, Villainy**. Affiliation connects your character's **past** to their **present**.
+| Component | Details |
+|:--|--|
+| :material-arrow-up-bold-box: ***Ability Scores*** | Increase ^^one ability score by +2 and another by +1^^, or <br>Increase ^^three ability scores by +1 each^^. These increases cannot raise any score above **20**. |
+| :material-cards-diamond: ***Feat*** | Gain an [Origin Feat](../../../option/feat/feat-origin/index.md). This feat represents a talent your character developed or had during their background. |
+| :material-account-star: ***Skill Proficiencies*** | Gain ^^proficiency in 2 skills^^ of your choice |
+| :material-tools: ***Tool Proficiency*** | Gain ^^proficiency with 1 tool^^. This can be a: <br>- **Specific tool** (Musical Instrument, or other tools), or <br>- One from the **Artisan's Tools** category.|
+| :trait-language: ***Languages Known*** | Your character knows ^^3 languages^^: **Common** plus two additional languages chosen or rolled from the [Standard Languages](../../create-your-character.md#25-choose-languages) table. |
+| :weapon-spear: ***Equipment*** | Start with either an [Equipment Package] or **500 SP** to spend on equipment of your choice (e.g., weapons, tools, clothing, etc.). |
+| :material-transit-connection-variant: ***Affiliation*** ^*CM*^ | You have ^^5 points^^ to distribute between 4 **Affiliations**: **Academe, Bohemia, Establishment, Villainy**. Affiliation connects your character's **past** to their **present**. |
 
 ## Backstory
 
 Not to be confused with Backgrounds, a Backstory is the actual story that your character experienced before the present. Who are they? Where were they born? What inspires them to take up the adventuring way of life? What is the background reason for your character being in a certain class? The backstory can be as simple or as elaborate as you like, but please keep it grounded under the [Three Core Principles](../../create-your-character.md#the-core-principles).
 
 This [article](https://5e.tools/book.html#XGE,1,this%20is%20your%20life,0) provides a good example of how to construct your backstory.
+
+[Equipment Package]: ../../../equipment/adventuring-gear/equipment-packs.md
