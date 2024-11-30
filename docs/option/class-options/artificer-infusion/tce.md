@@ -6,7 +6,7 @@ Below are Artificer's Infusion available from Tasha's Cauldron of Everything.
 
 ### Armour of Magical Strength
 
-_**Prerequisite:** A suit of armour (requires attunement)_
+_**Prerequisite:** A suit of armour (requires attunement), **Charge:** 6 (:material-reload: **Recharge:** 1d6/Day)_
 
 This armour has 6 charges. The wearer can expend the armour's charges in the following ways:
 
@@ -98,7 +98,7 @@ The homunculus regains 2d6 hit points if the *mending* spell is cast on it. If y
 
 ### Mind Sharpener
 
-_**Prerequisite:** A suit of armour or robes_
+_**Prerequisite:** A suit of armour or robes, **Charge:** 4 (:material-reload: **Recharge:** 1d4/Day)_
 
 The infused item can send a jolt to the wearer to refocus their mind. The item has 4 charges. When the wearer fails a Constitution saving throw to maintain concentration on a spell, the wearer can use its reaction to expend 1 of the item's charges to succeed instead. The item regains 1d4 expended charges daily at dawn.
 
@@ -213,7 +213,7 @@ While wearing these boots, a creature can teleport up to 15 feet as a Bonus Acti
 
 ### Radiant Weapon
 
-_**Prerequisite:** Level 6+ ; A simple or martial weapon (requires attunement)_
+_**Prerequisite:** Level 6+ ; A simple or martial weapon (requires attunement), **Charge:** 4 (:material-reload: **Recharge:** 1d4/Day)_
 
 This magic weapon grants a +1 bonus to attack and damage rolls made with it. While holding it, the wielder can take a Bonus Action to cause it to shed bright light in a 30-foot radius and dim light for an additional 30 feet. The wielder can extinguish the light as a Bonus Action.
 
@@ -221,7 +221,7 @@ The weapon has 4 charges. As a reaction immediately after being hit by an attack
 
 ### Repulsion Shield
 
-_**Prerequisite:** Level 6+, A shield (requires attunement)_
+_**Prerequisite:** Level 6+, A shield (requires attunement), **Charge:** 4 (:material-reload: **Recharge:** 1d4/Day)_
 
 A creature gains a +1 bonus to Armour Class while wielding this shield.
 
@@ -233,7 +233,7 @@ The shield has 4 charges. While holding it, the wielder can use a reaction immed
 
 _**Prerequisite:** Level 6+, A suit of armour (requires attunement)_
 
-While wearing this armour, a creature has resistance to one of the following damage types, which you choose when you infuse the item: Acid, Cold, Fire, Force, Lightning, Necrotic, Poison, Psychic, Radiant, or Thunder.
+While wearing this armour, a creature has :dmg-res: Resistance to one of the following damage types, which you choose when you infuse the item: Acid, Cold, Fire, Force, Lightning, Necrotic, Poison, Psychic, Radiant, or Thunder.
 
 ---
 
@@ -241,7 +241,7 @@ While wearing this armour, a creature has resistance to one of the following dam
 
 _**Prerequisite:** Level 6+, A ring (requires attunement)_
 
-While wearing this ring, the creature can recover one expended spell slot as an action. The recovered slot can be of 3rd level or lower. Once used, the ring can't be used again until the next dawn.
+While wearing this ring, the creature can recover one expended spell slot as an action. The recovered slot can be of level 3 slot or lower. Once used, the ring can't be used again until the next dawn.
 
 ---
 
@@ -249,7 +249,7 @@ While wearing this ring, the creature can recover one expended spell slot as an 
 
 _**Prerequisite:** Level 10+, A helmet (requires attunement)_
 
-While wearing this helmet, a creature has advantage on initiative rolls. In addition, the wearer can't be surprised, provided it isn't incapacitated.
+While wearing this helmet, a creature has :d20-adv: Advantage on Initiative rolls. In addition, the wearer is immune to the Surprised condition, provided it doesn't have the Incapacitated condition.
 
 ---
 
@@ -261,12 +261,17 @@ The wearer of this armour gains these benefits:
 
 ***Speed Increase.*** The wearer's Speed increases by 5 feet.
 
-***Power Gauntlet.*** The armour includes gauntlets, each of which is a melee weapon that can be wielded only when the hand is holding nothing. The wearer is proficient with the gauntlets. The Gauntlets has the following properties.
+***Power Gauntlet.*** The armour includes gauntlets, each of which is a melee weapon that can be wielded only when the hand is holding nothing. The wearer is proficient with the gauntlets. The Gauntlets has traits as described in the Power Gauntlet table.
 
-:   **Weapon Category**: Simple Melee  
-:   **Damage on a Hit**: 1d8 :dmg-force: Force plus the ability modifier used for the attack roll  
-:   **Properties:** :weapon-prop-thrown: Thrown (20/60); the gauntlet detaches and flies at the attack's target, then immediately returns to the wearer and reattaches  
-:   **Mastery:** Push (you can use this property, and it doesn't count against the number of properties you can use with Weapon Mastery)
+##### Power Gauntlet
+
+| Trait | Details |
+|---|---|
+| **Weapon Category** | Simple Melee |
+| **Base Damage** | 1d8 :dmg-force: Force + Ability Modifier used for the attack roll |
+| **Properties** | :weapon-prop-thrown: ^^Thrown (20/60)^^ | 
+| **Infusion** | [:class-phb24-artificer: Returning Weapon] <br>You can't replace this property, but it doesn't count torwards your maximum known |
+| **Mastery** | Push (you can use this property, and it doesn't count against the number of properties you can use with Weapon Mastery) |
 
 ***Second Skin.*** The armour can't be removed against the wearer's will.
 
