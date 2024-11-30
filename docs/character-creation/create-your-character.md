@@ -363,7 +363,7 @@ Dexterity modifier + Proficiency Bonus + Additional Bonuses (If applicable)
 
 ```
 
-See [Attack Roll](../gameplay/phb/d20-test.md#attack-roll) for more info.
+_See **[Attack Roll](../gameplay/phb/d20-test.md#attack-roll)** for more info._
 
 Look up the damage and properties of your weapons in chapter 6. You add the same ability modifier you use for attacks with a weapon to your damage rolls with that weapon.
 

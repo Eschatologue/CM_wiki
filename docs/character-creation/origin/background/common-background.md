@@ -66,7 +66,6 @@ You've spent your life on either a literal or proverbial stage, performing for w
 
 ### Farmer
 
-
 You've tilled the soil or raised animals as livestock or to aid you in cultivating your fields. You've gained a healthy respect for nature, in both its bounty and its wrath.
 
 - **Ability Scores:** Strength, Constitution, Wisdom

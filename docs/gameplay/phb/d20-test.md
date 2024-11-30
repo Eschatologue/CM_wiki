@@ -101,7 +101,7 @@ The Difficulty Class for a Saving Throw is determined by the effect that causes 
 
 When a creature attacks a target, it makes an attack roll against the target's AC to determine whether the attack is a hit or a miss. If the attack is a hit, it generally deals damage, and the attacker rolls for damage.
 
-Creatures generally make their attacks with their equipped weapon (including unarmed), but some spells - such as a Warlock's *[Eldritch Blast](../../spells/description/core/cantrip.md#eldritch-blast)* - require the caster to make spell attack rolls.
+Creatures generally make their attacks with their equipped weapon (including unarmed), but some spells - such as a Warlock's [:spell-level-0: Eldritch Blast](../../spells/description/core/cantrip.md#eldritch-blast) - require the caster to make spell attack rolls.
 
 !!! quote ""
 
