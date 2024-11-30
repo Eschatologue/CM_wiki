@@ -66,9 +66,19 @@ At level 10, this armour grants its wearer a +1 bonus to Armour Class. This bonu
 
 ---
 
+### Mastery Module
+
+_**Prerequisite:** Level 6+, A Weapon_
+
+This weapon gain one extra eligible Mastery property (choose when you infuse this weapon) which its wielder can use even without Weapon Mastery class feature.
+
+After a Long Rest, the Artificer can tinker with the weapon and change the Mastery property with a different eligible one.
+
+---
+
 ### Wall Shield
 
-_**Prerequisite:** Level 6+, shield (requires attunement)_
+_**Prerequisite:** Level 6+, Shield (requires attunement)_
 
 As a Utilise action, the wielder can slam this magic shield into the ground, expending Charges to produce the effects of *[Wall of Stone](../../spells/description/core/level-5.md#wall-of-stone)* centered on the shield, which remains in the ground. However, this effect only creates a number of panels equal to the Charges spent, it doesn't require Concentration, and lasts for 1 minute. The wall is destroyed if the shield is removed.
 
@@ -80,7 +90,7 @@ At level 10, this magic shield grants a +1 bonus to Armour Class. This Armour Cl
 
 ### Wildfire Cannon
 
-_**Prerequisite:** Level 6+; gauntlet, arcane focus, or metal rod_
+_**Prerequisite:** Level 6+; Gauntlet, Arcane Focus, or Metal Rod_
 
 As an action, the wielder of this magical object can expend Charges and use your Artificer Spellcasting modifier to cast these spells: *Firebolt* (0 Charges), *Burning Hands* (1 Charge), *Scorching Ray* (2 Charges), or *Fireball* (3 Charges).
 
@@ -92,16 +102,18 @@ This magical item has a number of Charges equal to your Intelligence modifier (m
 
 _**Prerequisite:** Level 6+; A sword hilt or wand (requires attunement)_
 
-While holding the item, the wielder can take a Bonus Action to cause a blade of pure radiance to spring into existence, or disappear, from the end of the item. While the blade exists, this magic item is a has the following property:
+While holding the item, the wielder can take a Bonus Action to cause a blade of pure radiance to spring into existence, or disappear, from the end of the item. While the blade exists, this magic item is a has the trait in the Light Blade table:
 
-**Weapon Category**: +1 (+2 at level 14) Simple Melee  
-**Damage on a Hit**: 1d8 :dmg-radiant: Radiant plus the ability modifier used for the attack roll  
-**Properties:** :weapon-prop-finesse: Finesse  
-**Mastery:** Vex (you can use this property, and it doesn't count against the number of properties you can use with Weapon Mastery)
+##### Light Blade
+
+| Trait | Details |
+|---|---|
+| **Weapon Category** | Simple Melee |
+| **Damage on a Hit** | 1d8+1 (1d8+2 at level 14) :dmg-radiant: Radiant + Ability Modifier used for the attack roll |
+| **Properties** | :weapon-prop-finesse: ^^Finesse^^ | 
+| **Mastery** | Vex <br>You can use this property, and it doesn't count against the number of properties you can use with Weapon Mastery |
 
 The luminous blade emits bright light in a 15-foot radius and dim light for an additional 15 feet. The light is considered sunlight.
-
-Undead take an additional 1d8 :dmg-radiant: Radiant damage from this weapon.
 
 ---
 

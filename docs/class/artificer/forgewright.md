@@ -36,7 +36,7 @@ Your battlefield research has resulted in the invention of your signature Arcane
 | Trait | Details |
 |---|---|
 | **Weapon Category** | The base weapon's category |
-| **Damage on a Hit** | The weapon's base damage + Ability Modifier used for the attack roll |
+| **Base Damage** | The weapon's base damage + Ability Modifier used for the attack roll |
 | **Properties** | The weapon's base property + :weapon-prop-thrown: ^^Thrown (20/60)^^ | 
 | **Infusion** | [:class-phb24-artificer: Returning Weapon] <br>You can't replace this property, but it doesn't count torwards your maximum known |
 
