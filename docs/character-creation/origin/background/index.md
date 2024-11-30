@@ -20,12 +20,21 @@ Mechanically, your background contains six plus one aspects detailed as follow, 
 | Component | Details |
 |:--|--|
 | :material-arrow-up-bold-box: ***Ability Scores*** | Increase ^^one ability score by +2 and another by +1^^, or <br>Increase ^^three ability scores by +1 each^^. These increases cannot raise any score above **20**. |
-| :material-cards-diamond: ***Feat*** | Gain an [Origin Feat](../../../option/feat/feat-origin/index.md). This feat represents a talent your character developed or had during their background. |
-| :material-account-star: ***Skill Proficiencies*** | Gain ^^proficiency in 2 skills^^ of your choice |
-| :material-tools: ***Tool Proficiency*** | Gain ^^proficiency with 1 tool^^. This can be a: <br>- **Specific tool** (Musical Instrument, or other tools), or <br>- One from the **Artisan's Tools** category.|
-| :trait-language: ***Languages Known*** | Your character knows ^^3 languages^^: **Common** plus two additional languages chosen or rolled from the [Standard Languages](../../create-your-character.md#25-choose-languages) table. |
+| :material-cards-diamond: ***Feat*** | Gain an [Origin Feat]. This feat represents a talent your character developed or had during their background. |
+| :material-account-star: ***Skill Prof.*** | Gain ^^Proficiency in 2 skills^^ of your choice |
+| :material-tools: ***Tool Prof.*** | Gain ^^Proficiency with 1 tool^^. This can be a: <br>- **Specific tool** ([:material-guitar-acoustic: Musical Instrument], or [:material-google-nearby: other tools]), or <br>- One from the [:material-wrench: Artisan's Tools] category.|
+| :trait-language: ***Languages*** | Your character knows ^^3 languages^^: **Common** plus two additional languages chosen or rolled from the [Standard Languages] table. |
 | :weapon-spear: ***Equipment*** | Start with either an [Equipment Package] or **500 SP** to spend on equipment of your choice (e.g., weapons, tools, clothing, etc.). |
 | :material-transit-connection-variant: ***Affiliation*** ^*CM*^ | You have ^^5 points^^ to distribute between 4 **Affiliations**: **Academe, Bohemia, Establishment, Villainy**. Affiliation connects your character's **past** to their **present**. |
+
+[Origin Feat]: ../../../option/feat/feat-origin/index.md
+[Equipment Package]: ../../../equipment/adventuring-gear/equipment-packs.md
+
+[Standard Languages]: ../../create-your-character.md#25-choose-languages
+
+[:material-wrench: Artisan's Tools]: ../../../equipment/tools/artisan-tools.md
+[:material-guitar-acoustic: Musical Instrument]: ../../../equipment/tools/other-tools.md#musical-instrument
+[:material-google-nearby: other tools]: ../../../equipment/tools/other-tools.md
 
 ## Backstory
 
@@ -33,4 +42,3 @@ Not to be confused with Backgrounds, a Backstory is the actual story that your c
 
 This [article](https://5e.tools/book.html#XGE,1,this%20is%20your%20life,0) provides a good example of how to construct your backstory.
 
-[Equipment Package]: ../../../equipment/adventuring-gear/equipment-packs.md
