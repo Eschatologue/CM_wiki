@@ -87,14 +87,14 @@ You always have the ***Hunter's Mark*** spell prepared. You can cast it twice wi
 
 The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favoured Enemy column of the Ranger Features table. When the spell is cast this way, it does not require :spell-concentration: Concentration, though it ends early if you have the ^^Incapacitated^^ condition.
 
-#### Ranger's Archetype
+#### Hunting Style
 
-Each Ranger's specialise in specific hunting style called "Archetype". Choose one of the following benefits:
+Each Ranger's specialise in specific Hunting Style. Choose one of the following benefits:
 
 ***Bounty Hunter.*** Your expertise in hunting bounties stands out.
 
 - ***Proficiency.*** You gain proficiency in Insight and Investigation
-- ***Improved Restraining.*** Creatures has :d20-disadv: **Disadvantage** on saves to resist or end the ^^Grappled^^ or ^^Restrained^^ condition caused by you.
+- ***Improved Restraining.*** Creatures has :d20-disadv: Disadvantage on saves to resist or end the ^^Grappled^^ or ^^Restrained^^ condition caused by you.
 
 ***Deathwatch.*** You specialise in hunting those not native to your plane of existence.
 
@@ -116,7 +116,7 @@ Each Ranger's specialise in specific hunting style called "Archetype". Choose on
 - ***Proficiency.*** You gain proficiency in Investigation and Religion.
 - ***Cantrip.*** You know the [:spell-level-0: Sacred Flame](../../spells/description/core/cantrip.md#sacred-flame) cantrip.
 
----
+The number of Hunting Style you can benefit from increases when you reach Ranger's level 6 (2 total), level 10 (3 total), and finally level 14 (4 total). 
 
 ### Level 1: Ranger's Aptitude
 
@@ -185,7 +185,7 @@ Thanks to your travels, you gain the following benefits.
 
 ***Expertise.*** Choose one of your skill proficiencies with which you lack Expertise. You gain Expertise in that skill.
 
-***Languages.*** You know two languages of your choice from the language tables in chapter 2.
+***Languages.*** You know two languages of your choice from the language tables.
 
 ### Level 2: Fighting Style
 
