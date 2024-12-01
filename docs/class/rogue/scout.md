@@ -13,7 +13,7 @@ Ambusher, spy, bounty hunter — these are just a few of the roles that Scouts a
 
 ### Level 3: Skirmisher
 
-You are difficult to pin down during a fight. When a creature Moves into a space within 5 feet of you or ends its turn there, you can use your Reaction to Move up to half your Speed. This movement doesn't provoke Opportunity Attacks.
+You are difficult to pin down during a fight. When a creature Moves into a space within 5 feet of you or ends its turn there, you can use your :rsc-r: Reaction to Move up to half your Speed. This movement doesn't provoke :rsc-r: Opportunity Attacks.
 
 Starting at level 5, you can move in this way when you use [Uncanny Dodge], as part of the same Reaction. 
 

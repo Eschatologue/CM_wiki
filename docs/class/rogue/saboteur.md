@@ -61,7 +61,7 @@ Creatures that has the Surprised condition have :d20-disadv: Disadvantage on sav
 
 ### Level 17: Hair Trigger
 
-You have learned to detonate your Explosives from afar. When you craft an Explosive, you can create a rudimentary arcane remote to trigger the Explosive from afar. As a :rsc-a: **Utilise** action, you can trigger the Explosive as long as you are within 100 feet.
+You have learned to detonate your Explosives from afar. When you craft an Explosive, you can create a rudimentary remote to trigger the Explosive from afar. As a :rsc-a: **Utilise** action, you can trigger the Explosive as long as you are within 100 feet.
 
 ---
 

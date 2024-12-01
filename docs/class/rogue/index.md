@@ -17,7 +17,7 @@ title: Rogue (Class)
 | **Hit Point Die** | D8 per Rogue level |
 | **Saving Throw Proficiencies** | :ability-dex: Dexterity and :ability-int: Intelligence |
 | **Skill Proficiencies** | Choose 4: Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Persuasion, Sleight of Hand, or Stealth |
-| **Weapon Proficiencies** | Simple weapons and Martial weapons that have the :weapon-prop-finnesse: ^^Finesse^^ or :weapon-prop-light: ^^Light^^ property |
+| **Weapon Proficiencies** | Simple weapons and Martial weapons that have the :weapon-prop-finesse: ^^Finesse^^ or :weapon-prop-light: ^^Light^^ property |
 | **Tool Proficiencies** | Thieves' Tools |
 | **Armour Training** | Light armour |
 | **Starting Equipment** | Choose **A** or **B**: <br>**(A)** Leather Armour, 2 Daggers, Shortsword, Shortbow, 20 Arrows, Quiver, Thieves' Tools, Burglar's Pack, and 80 SP; or <br>**(B)** 1.000 SP |
@@ -125,31 +125,22 @@ You've developed cunning ways to use your Sneak Attack. When you deal Sneak Atta
 
 If a Cunning Strike effect requires a saving throw, the DC equals 8 plus your Dexterity modifier and Proficiency Bonus.
 
-#### Poison 
-
-_**Cost:** :class-phb24-rogue: 1d6_
-
+***Poison (Cost: 1d6).***  
 You add a toxin to your strike, forcing the target to make a Constitution saving throw. On a failed save, the target has the Poisoned condition for 1 minute. At the end of each of its turns, the Poisoned target repeats the save, ending the effect on itself on a success. To use this effect, you must have a Poisoner's Kit on your person.
 
-#### Trip 
-    
-_**Cost:** :class-phb24-rogue: 1d6_
-
+***Trip (Cost: 1d6).***  
 If the target is Large or smaller, it must succeed on a Dexterity saving throw or have the Prone condition.
 
-#### Withdraw 
-    
-_**Cost:** :class-phb24-rogue: 1d6_
-
+***Withdraw (Cost: 1d6)***  
 Immediately after the attack, you move up to half your Speed without provoking Opportunity Attacks.
 
 ### Level 5: Uncanny Dodge
 
-When an attacker that you can see hits you with an attack roll, you can take a Reaction to halve the attack's damage against you (round down).
+When an attacker that you can see hits you with an attack roll, you can take a :rsc-r: Reaction to halve the attack's damage against you (round down).
 
 ### Level 7: Evasion
 
-You can nimbly dodge out of the way of certain dangers. When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this feature if you have the Incapacitated condition.
+You can nimbly dodge out of the way of certain dangers. When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this feature if you have the ^^Incapacitated^^ condition.
 
 ### Level 7: Reliable Talent
 
@@ -164,10 +155,10 @@ You can use up to two Cunning Strike effects when you deal Sneak Attack damage, 
 You've practiced new ways to use your Sneak Attack deviously. The following effects are now among your Cunning Strike options.
 
 ***Daze (Cost: 2d6)***  
-The target must succeed on a Constitution saving throw, or on its next turn, it can do only one of the following: move or take an action or a Bonus Action.
+The target must succeed on a Constitution saving throw, or on its next turn, it can do only one of the following: move or take an action or a :rsc-b: Bonus Action.
 
 ***Knock Out (Cost: 6d6)***  
-The target must succeed on a Constitution saving throw, or it has the Unconscious condition for 1 minute or until it takes any damage. The Unconscious target repeats the save at the end of each of its turns, ending the effect on itself on a success.
+The target must succeed on a Constitution saving throw, or it has the ^^Unconscious^^ condition for 1 minute or until it takes any damage. The Unconscious target repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
 ***Obscure (Cost: 3d6)***  
 The target must succeed on a Dexterity saving throw, or it has the Blinded condition until the end of its next turn.

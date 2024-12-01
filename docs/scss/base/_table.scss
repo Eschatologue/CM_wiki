@@ -23,10 +23,15 @@ $th-padding: $paddingScale * 1.4;
             font-weight: bold !important;
             text-transform: capitalize !important;
             vertical-align: bottom;
+            
             color: var(--md-text-color);
             border-bottom: convert.px2rem(3px) solid var(--md-primary-fg-color);
             background-color: var(--md-mod-table-color--darkest);
             padding: convert.px2em($th-padding) convert.px2em($paddings);
+
+            @media screen and (max-width: 768px) {
+                font-size: typeset.$defaultFontSize * 0.75;
+            }
         }
 
         td {
