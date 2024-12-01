@@ -28,10 +28,6 @@ $th-padding: $paddingScale * 1.4;
             border-bottom: convert.px2rem(3px) solid var(--md-primary-fg-color);
             background-color: var(--md-mod-table-color--darkest);
             padding: convert.px2em($th-padding) convert.px2em($paddings);
-
-            @media screen and (max-width: 768px) {
-                font-size: typeset.$defaultFontSize * 0.75;
-            }
         }
 
         td {
@@ -42,13 +38,16 @@ $th-padding: $paddingScale * 1.4;
             strong {
                 font-weight: typeset.$defaultFontWeight * 1.8;
             }
+
+            @media screen and (max-width: 768px) {
+                font-size: typeset.$defaultFontSize * 0.7;
+            }
         }
 
         // Reset hover effect 
         table tr:hover {
             background-color: inherit !important; /* Ensures no change on hover */
         }
-
         // Preserve striped rows
         tr:nth-child(odd) {
             background-color: transparent !important; /* Adjust to match your striped colour */

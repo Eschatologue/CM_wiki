@@ -23,8 +23,9 @@ $h4Size: $defaultFontSize * 1.15;
     font-weight: $defaultFontWeight;
     font-size: $defaultFontSize;
 
-    @media screen and (max-width: 768px) {
-        font-size: $defaultFontSize * 0.80;
+    @media screen and (max-width: 768px) { 
+        /* Make Font Size Smaller for mobile devices */
+        font-size: $defaultFontSize * 0.85;
     }
 
     strong {

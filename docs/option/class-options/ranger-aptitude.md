@@ -9,63 +9,6 @@ Below are the Aptitudes available to the [Ranger]. If an Aptitude has a prerequi
 
 [Ranger]: ../../class/ranger/index.md
 
-### Origin: Bounty Hunter 
-
-Your expertise in hunting bounties stands out.
-
-***Proficiency.*** You gain proficiency in Insight and Investigation. 
-
-***Improved Restraining.*** Creatures has :d20-disadv: **Disadvantage** on saves to resist or end the ^^Grappled^^ or ^^Restrained^^ condition caused by you.
-
----
-
-### Origin: Deathwatch 
-
-You specialise in hunting those not native to Antares.
-
-***Proficiency.***  You gain proficiency in Arcana and Religion.
-
-***Protection.*** You can cast [:spell-level-1: Protection from Evil and Good](../../spells/description/core/level-1.md#protection-from-evil-and-good) without expending a spell slot once per Long Rest.
-
----
-
-### Origin: Generalist
-
-Rather than specialise, you rather adjust acording to situations.
-
-***Change Aptitude.*** You can change one Ranger's Aptitude of your choice when you finish a Long Rest. All other rules of choosing an Aptitude still applies.
-
----
-
-### Origin: Mage Breaker 
-
-You have a background in battling spellcasters.
-
-***Proficiency.*** You gain proficiency in Arcana and Insight.
-
-***Cantrip.*** You know the [:spell-level-0: True Strike](../../spells/description/core/cantrip.md#true-strike) cantrip.
-
----
-
-### Origin: Ranger Knight 
-
-You have sworn to serve a crown or nation and aim to bring its foes to ruin.
-
-***Proficiency.*** You gain proficiency in History and Perception.
-
-***Armour Training.*** You gain training with with Heavy armour.
-
----
-
-### Origin: Sanctified Hunter
-
-You have sworn to hunt the enemies of a holy or druidic order.
-
-***Proficiency.*** You gain proficiency in Investigation and Religion.
-
-***Cantrip.*** You know the [:spell-level-0: Sacred Flame](../../spells/description/core/cantrip.md#sacred-flame) cantrip.
-
----
 
 ### Natural Explorer: Beast Tamer
 

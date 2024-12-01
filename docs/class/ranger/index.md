@@ -53,24 +53,25 @@ As a Ranger, you gain the following class features when you reach the specified 
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | +2 | Favoured Enemy, Ranger's Aptitude, Spellcasting, Weapon Mastery | 2 | 2 | 2 | 2 | — | — | — | — |
 | 2 | +2 | Deft Explorer, Fighting Style | 2 | 2 | 3 | 2 | — | — | — | — |
-| 3 | +2 | Ranger Subclass | 2 | 3 | 4 | 3 | — | — | — | — |
-| 4 | +2 | Ability Score Improvement | 2 | 3 | 5 | 3 | — | — | — | — |
+| 3 | +2 | Ranger Subclass | 2 | 2 | 4 | 3 | — | — | — | — |
+| 4 | +2 | Ability Score Improvement | 2 | 2 | 5 | 3 | — | — | — | — |
 | 5 | +3 | Extra Attack | 3 | 3 | 6 | 4 | 3 | — | — | — |
 | 6 | +3 | Roving | 3 | 3 | 6 | 4 | 2 | — | — | — |
-| 7 | +3 | Subclass feature | 3 | 4 | 7 | 4 | 3 | — | — | — |
-| 8 | +3 | Ability Score Improvement | 3 | 4 | 7 | 4 | 3 | — | — | — |
+| 7 | +3 | Subclass feature | 3 | 3 | 7 | 4 | 3 | — | — | — |
+| 8 | +3 | Ability Score Improvement | 3 | 3 | 7 | 4 | 3 | — | — | — |
 | 9 | +4 | Expertise | 4 | 4 | 9 | 4 | 3 | 2 | — | — |
 | 10 | +4 | Tireless | 4 | 4 | 9 | 4 | 3 | 2 | — | — |
-| 11 | +4 | Subclass feature | 4 | 5 | 10 | 4 | 3 | 3 | — | — |
-| 12 | +4 | Ability Score Improvement | 4 | 5 | 10 | 4 | 3 | 3 | — | — |
+| 11 | +4 | Subclass feature | 4 | 4 | 10 | 4 | 3 | 3 | — | — |
+| 12 | +4 | Ability Score Improvement | 4 | 4 | 10 | 4 | 3 | 3 | — | — |
 | 13 | +5 | Relentless Hunter | 5 | 5 | 11 | 4 | 3 | 3 | 1 | — |
 | 14 | +5 | Nature's Veil | 5 | 5 | 11 | 4 | 3 | 3 | 1 | — |
-| 15 | +5 | Subclass feature | 5 | 6 | 12 | 4 | 3 | 3 | 2 | — |
-| 16 | +5 | Ability Score Improvement | 5 | 6 | 12 | 4 | 3 | 3 | 2 | — |
+| 15 | +5 | Subclass feature | 5 | 5 | 12 | 4 | 3 | 3 | 2 | — |
+| 16 | +5 | Ability Score Improvement | 5 | 5 | 12 | 4 | 3 | 3 | 2 | — |
 | 17 | +6 | Precise Hunter | 6 | 6 | 14 | 4 | 3 | 3 | 3 | 1 |
 | 18 | +6 | Feral Senses | 6 | 6 | 14 | 4 | 3 | 3 | 3 | 1 |
-| 19 | +6 | Epic Boon | 6 | 7 | 15 | 4 | 3 | 3 | 3 | 2 |
-| 20 | +6 | Foe Slayer | 6 | 8 | 15 | 4 | 3 | 3 | 3 | 2 |
+| 19 | +6 | Epic Boon | 6 | 6 | 15 | 4 | 3 | 3 | 3 | 2 |
+| 20 | +6 | Foe Slayer | 6 | 6 | 15 | 4 | 3 | 3 | 3 | 2 |
+
 
 !!! homebrew "Not Official"
 
@@ -78,9 +79,61 @@ As a Ranger, you gain the following class features when you reach the specified 
 
 ### Level 1: Favoured Enemy
 
+You gain knowledge hunting your prey
+
+#### Hunter's Mark
+
 You always have the ***Hunter's Mark*** spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a Long Rest.
 
 The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favoured Enemy column of the Ranger Features table. When the spell is cast this way, it does not require :spell-concentration: Concentration, though it ends early if you have the ^^Incapacitated^^ condition.
+
+#### Ranger's Archetype
+
+Each Ranger's specialise in specific hunting style called "Archetype". Choose one of the following benefits:
+
+***Bounty Hunter.*** Your expertise in hunting bounties stands out. 
+- ***Proficiency.*** You gain proficiency in Insight and Investigation
+- ***Improved Restraining.*** Creatures has :d20-disadv: **Disadvantage** on saves to resist or end the ^^Grappled^^ or ^^Restrained^^ condition caused by you.
+
+---
+
+### Origin: Deathwatch 
+
+You specialise in hunting those not native to Antares.
+
+***Proficiency.***  You gain proficiency in Arcana and Religion.
+
+***Protection.*** You can cast [:spell-level-1: Protection from Evil and Good](../../spells/description/core/level-1.md#protection-from-evil-and-good) without expending a spell slot once per Long Rest.
+
+### Origin: Mage Breaker 
+
+You have a background in battling spellcasters.
+
+***Proficiency.*** You gain proficiency in Arcana and Insight.
+
+***Cantrip.*** You know the [:spell-level-0: True Strike](../../spells/description/core/cantrip.md#true-strike) cantrip.
+
+---
+
+### Origin: Ranger Knight 
+
+You have sworn to serve a crown or nation and aim to bring its foes to ruin.
+
+***Proficiency.*** You gain proficiency in History and Perception.
+
+***Armour Training.*** You gain training with with Heavy armour.
+
+---
+
+### Origin: Sanctified Hunter
+
+You have sworn to hunt the enemies of a holy or druidic order.
+
+***Proficiency.*** You gain proficiency in Investigation and Religion.
+
+***Cantrip.*** You know the [:spell-level-0: Sacred Flame](../../spells/description/core/cantrip.md#sacred-flame) cantrip.
+
+---
 
 ### Level 1: Ranger's Aptitude
 
@@ -92,7 +145,7 @@ You gain invaluable knowledge, experiences, or hard-earned lessons, which is rep
 
 ***Spell.*** If an aptidude grants a spell, it is considered a Ranger spell for you, and Wisdom is your spellcasting ability.
 
-***Proficiency.*** If an aptidude grants proficiency in a skill you already have, choose a different proficiency available to the [Core Ranger Trait](#core-ranger-trait) table:
+***Proficiency.*** If an aptidude grants proficiency in a skill you already have, choose a different proficiency available to the [Core Ranger Trait](#core-ranger-trait) table
 
 When you gain certain Ranger levels, you gain more aptidudes of your choice, as shown in the Aptidudes column of the Ranger Features table.
 

@@ -16,9 +16,19 @@ You gain a set of Calligrapher's Tools and you have proficiency in it and two of
 
 Your intensive training in battle grants you unparalleled focus.
 
-***Precision.*** Before you attack, you can enter a focused state, giving you :d20-adv: Advantage on all your attacks until the start of your next turn. You also gain **Temporary Hit Points** equal to your Wisdom modifier + half your Fighter level (minimum 1). You can do this **4 times**, regaining 1 use after a Short Rest and all uses after a Long Rest.  
+#### Precision
+
+When you make an attack, you can enter a focused state (no action required), giving you the following benefits:
+
+***Advantage.*** You gain :d20-adv: Advantage on all your attacks until the start of your next turn. 
+
+***Temporary HP.*** You gain Temporary Hit Points equal to your Wisdom modifier + half your Fighter level (minimum 1). 
+
+You can do this **4 times**, regaining **1 use** after a Short Rest and all uses after a Long Rest.  
    
-***Stamina.*** As a :rsc-b: Bonus Action, you can restore **half** of your Second Wind uses (round up). You can only use this feature **once per Long Rest**.
+#### Stamina
+
+As a :rsc-b: Bonus Action, you can restore half of your Second Wind uses (round up). You can only use this feature once per Long Rest.
 
 ### Level 7: Elegant Courtier
 
