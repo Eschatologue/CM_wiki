@@ -15,12 +15,12 @@ title: Rogue (Class)
 |---|---|
 | **Primary Ability** | Dexterity |
 | **Hit Point Die** | D8 per Rogue level |
-| **Saving Throw Proficiencies** | Dexterity and Intelligence |
+| **Saving Throw Proficiencies** | :ability-dex: Dexterity and :ability-int: Intelligence |
 | **Skill Proficiencies** | Choose 4: Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Persuasion, Sleight of Hand, or Stealth |
-| **Weapon Proficiencies** | Simple weapons and Martial weapons that have the Finesse or Light property |
+| **Weapon Proficiencies** | Simple weapons and Martial weapons that have the :weapon-prop-finnesse: ^^Finesse^^ or :weapon-prop-light: ^^Light^^ property |
 | **Tool Proficiencies** | Thieves' Tools |
 | **Armour Training** | Light armour |
-| **Starting Equipment** | Choose A or B: <br>(A) Leather Armour, 2 Daggers, Shortsword, Shortbow, 20 Arrows, Quiver, Thieves' Tools, Burglar's Pack, and 8 GP; or <br>(B) 100 GP |
+| **Starting Equipment** | Choose **A** or **B**: <br>**(A)** Leather Armour, 2 Daggers, Shortsword, Shortbow, 20 Arrows, Quiver, Thieves' Tools, Burglar's Pack, and 80 SP; or <br>**(B)** 1.000 SP |
 
 Rogues rely on cunning, stealth, and their foes' vulnerabilities to get the upper hand in any situation. They have a knack for finding the solution to just about any problem, demonstrating a versatility that is the cornerstone of any successful adventuring party.
 
@@ -83,7 +83,7 @@ At Rogue level 6, you gain Expertise in two more of your skill proficiencies of 
 
 You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack roll if you have Advantage on the roll and the attack uses a Finesse or a Ranged weapon. The extra damage's type is the same as the weapon's type.
 
-You don't need Advantage on the attack roll if at least one of your allies is within 5 feet of the target, the ally doesn't have the Incapacitated condition, and you don't have Disadvantage on the attack roll.
+You don't need :d20-adv: Advantage on the attack roll if at least one of your allies is within 5 feet of the target, the ally doesn't have the ^^Incapacitated^^ condition, and you don't have :d20-disadv Disadvantage on the attack roll.
 
 The extra damage increases as you gain Rogue levels, as shown in the Sneak Attack column of the Rogue Features table.
 
@@ -105,7 +105,7 @@ Whenever you finish a Long Rest, you can do one of the following:
 
 ### Level 2: Cunning Action
 
-Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a Bonus Action: Dash, Disengage, or Hide.
+Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a :rsc-b: Bonus Action: Dash, Disengage, or Hide.
 
 ### Level 3: Rogue Subclass
 
@@ -125,13 +125,22 @@ You've developed cunning ways to use your Sneak Attack. When you deal Sneak Atta
 
 If a Cunning Strike effect requires a saving throw, the DC equals 8 plus your Dexterity modifier and Proficiency Bonus.
 
-***Poison (Cost: 1d6)***  
+#### Poison 
+
+_**Cost:** :class-phb24-rogue: 1d6_
+
 You add a toxin to your strike, forcing the target to make a Constitution saving throw. On a failed save, the target has the Poisoned condition for 1 minute. At the end of each of its turns, the Poisoned target repeats the save, ending the effect on itself on a success. To use this effect, you must have a Poisoner's Kit on your person.
 
-***Trip (Cost: 1d6)***  
+#### Trip 
+    
+_**Cost:** :class-phb24-rogue: 1d6_
+
 If the target is Large or smaller, it must succeed on a Dexterity saving throw or have the Prone condition.
 
-***Withdraw (Cost: 1d6)***  
+#### Withdraw 
+    
+_**Cost:** :class-phb24-rogue: 1d6_
+
 Immediately after the attack, you move up to half your Speed without provoking Opportunity Attacks.
 
 ### Level 5: Uncanny Dodge

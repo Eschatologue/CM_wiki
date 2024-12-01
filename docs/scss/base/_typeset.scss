@@ -4,16 +4,11 @@
 
 @use "../utility/convert";
 
-@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap");
 
 // General Typeset Variables
 $headingFont: "Jost", sans-serif;
 $defaultFontSize: convert.px2rem(14px);
-
-@media screen and (max-width: 768px) {
-    $defaultFontSize: convert.px2rem(12px);
-}
-
 $defaultFontWeight: 300;
 
 // Heading Size Variables
@@ -26,6 +21,10 @@ $h4Size: $defaultFontSize * 1.15;
 .md-typeset {
     font-weight: $defaultFontWeight;
     font-size: $defaultFontSize;
+
+    @media screen and (max-width: 768px) {
+        font-size: $defaultFontSize * 0.75;
+    }
 
     strong {
         letter-spacing: $defaultFontSize * 0.03;
@@ -50,7 +49,7 @@ $h4Size: $defaultFontSize * 1.15;
         text-transform: uppercase;
     }
 
-    h3  {
+    h3 {
         font-family: $headingFont;
         text-transform: none !important;
         font-variant: small-caps !important;
@@ -80,7 +79,7 @@ $h4Size: $defaultFontSize * 1.15;
         margin: convert.px2rem(12px) 0 convert.px2rem(4px) 0;
         border-bottom: convert.px2rem(2.35px) dotted var(--md-default-wht--025);
         padding-bottom: convert.px2rem(2px);
-    }    
+    }
 
     h4 {
         font-size: $h4Size;
