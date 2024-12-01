@@ -143,30 +143,6 @@ You are trained to use complex combat techniques.
 
 ---
 
-### Martial Superiority II: Exellence
-
-***Prerequisite:** Level 7+ Ranger, [Martial Superiority I](#martial-superiority-i)*
-
-Your combat techniques are improved
-
-***Superiority Die.*** You gain two additional Superiority Die and all your Superiority Die improves to :die-d8: d8.
-
-***Manoeuvre.*** You learn two additional Combat Manoeuvre from the Battle Master (Fighter) subclass of you choice. 
-
----
-
-### Martial Superiority III: Perfection
-
-***Prerequisite:** Level 15+ Ranger, [Martial Superiority II: Exellence](#martial-superiority-ii-exellence)*
-
-Your combat techniques are improved.
-
-***Superiority Die.*** You gain two additional Superiority Die and all your Superiority Die improves to :die-d10: d10.
-
-***Manoeuvre.*** You learn two additional Combat Manoeuvre from the Battle Master (Fighter) subclass of you choice.
-
----
-
 ### Self-Regeneration
 
 ***Prerequisite:** Level 3+ Ranger, [Any Level 1+ Aptitude]*
@@ -183,22 +159,6 @@ When you hit a creature with a weapon attack or Unarmed Strike you can cast [:sp
 
 ---
 
-### Slayer II: Ambush Tactics
-
-***Prerequisite:** Level 7+ Ranger, [Slayer I](#slayer-i)*
-
-When you roll Initiative, you can take a :rsc-r: **Reaction** to cast [:spell-level-1: Hunter's Mark].
-
----
-
-### Slayer III: Isolation
-
-***Prerequisite:** Level 11+ Ranger, [Slayer II](#slayer-ii-ambush-tactics)*
-
-Once per turn, when you hit the target of your [:spell-level-1: Hunter's Mark] with a weapon attack or Unarmed Strike, you can force the target must succeed a :d20-save: Constitution saving throw, or it has the ^^Blinded^^ and ^^Silenced^^ condition.
-
----
-
 ### Strider I
 
 ***Prerequisite:** Level 3+ Ranger, [Any Level 1+ Aptitude]*
@@ -207,21 +167,7 @@ You ignore the effects of Difficult Terrain caused by natural environments or te
 
 ---
 
-### Strider II: Unhindered Steps
-
-***Prerequisite:** Level 7+ Ranger, [Strider I](#strider-i)*
-
-You ignore the effects of any Difficult Terrain imposed by spells, magical phenomena, or any other supernatural effect.
-
----
-
-### Strider III: Trailblazer
-
-***Prerequisite:** Level 11+ Ranger, [Strider II](#strider-ii-unhindered-steps)*
-
-You always under the effect of [:spell-level-4: Freedom of Movement] spell so long you don't have the ^^Unconcious^^ condition.
-
----
+## Level 7+ Aptitude
 
 ### Enhanced Senses
 
@@ -231,12 +177,31 @@ You can't have :d20-disadv: **Disadvantage** on attack rolls against the target 
 
 ---
 
-### Enhanced Senses II
+### Martial Superiority II: Exellence
 
-***Prerequisite:** Level 15+ Ranger, [Enhanced Senses](#enhanced-senses)*
+***Prerequisite:** Level 7+ Ranger, [Martial Superiority I](#martial-superiority-i)*
 
-You can't have :d20-disadv: **Disadvantage** on attack rolls against any target within 30 feet of you.
+Your combat techniques are improved
 
+***Superiority Die.*** You gain two additional Superiority Die and all your Superiority Die improves to :die-d8: d8.
+
+***Manoeuvre.*** You learn two additional Combat Manoeuvre from the Battle Master (Fighter) subclass of you choice. 
+
+---
+
+### Slayer II: Ambush Tactics
+
+***Prerequisite:** Level 7+ Ranger, [Slayer I](#slayer-i)*
+
+When you roll Initiative, you can take a :rsc-r: **Reaction** to cast [:spell-level-1: Hunter's Mark].
+
+---
+
+### Strider II: Unhindered Steps
+
+***Prerequisite:** Level 7+ Ranger, [Strider I](#strider-i)*
+
+You ignore the effects of any Difficult Terrain imposed by spells, magical phenomena, or any other supernatural effect.
 ---
 
 ### Planar Wanderer
@@ -257,6 +222,32 @@ When you score a Critical Hit against a creature, all creature have :d20-adv: **
 
 ---
 
+### Survivor I
+
+***Prerequisite:** Level 7+ Ranger*
+
+Your body can rapidly recover from injury. When you expend a Hit Die to regain hit points, you regain additional Hit Points equal to your Wisdom modifier (minimum of 1 hit point).
+
+---
+
+## Level 11+ Aptitude
+
+### Slayer III: Isolation
+
+***Prerequisite:** Level 11+ Ranger, [Slayer II](#slayer-ii-ambush-tactics)*
+
+Once per turn, when you hit the target of your [:spell-level-1: Hunter's Mark] with a weapon attack or Unarmed Strike, you can force the target must succeed a :d20-save: Constitution saving throw, or it has the ^^Blinded^^ and ^^Silenced^^ condition.
+
+---
+
+### Strider III: Trailblazer
+
+***Prerequisite:** Level 11+ Ranger, [Strider II](#strider-ii-unhindered-steps)*
+
+You always under the effect of [:spell-level-4: Freedom of Movement] spell so long you don't have the ^^Unconcious^^ condition.
+
+---
+
 ### Primal Focus II: Feral Eyes
 
 ***Prerequisite:** Level 11+ Ranger, [Primal Focus](#primal-focus)*
@@ -266,22 +257,6 @@ You gain the following benefits:
 ***Improved Critical.*** When you attack the target of your [:spell-level-1: Hunter's Mark] with a weapon attack or Unarmed Strike, the number you need to roll to for a Critical Hit is reduced by 1. This effect can stack.
 
 ***Weakness Exploit.*** Each time you score a Critical Hit against a creature, the number you need roll for another Critical Hit against that creature is reduced by 1. This effect can stack for 2 instances.
-
----
-
-### Primal Focus III: Predatory Intent
-
-***Prerequisite:** Level 15+ Ranger, [Primal Focus II](#primal-focus-ii-feral-eyes)*
-
-When you hit the target of your [:spell-level-1: Hunter's Mark] with a weapon attack or Unarmed Strike, you can choose to end the spell and make the attack score a Critical Hit.
-
----
-
-### Survivor I
-
-***Prerequisite:** Level 7+ Ranger*
-
-Your body can rapidly recover from injury. When you expend a Hit Die to regain hit points, you regain additional Hit Points equal to your Wisdom modifier (minimum of 1 hit point).
 
 ---
 
@@ -300,6 +275,39 @@ When you make a Death Saving Throw, you add your Wisdom modifier to the roll (mi
 You can expend one use of your *Favoured Foe* to cast [:spell-level-3: Haste] without expending a spell slot.
 
 ---
+
+## Level 15+ Aptitude
+
+### Martial Superiority III: Perfection
+
+***Prerequisite:** Level 15+ Ranger, [Martial Superiority II: Exellence](#martial-superiority-ii-exellence)*
+
+Your combat techniques are improved.
+
+***Superiority Die.*** You gain two additional Superiority Die and all your Superiority Die improves to :die-d10: d10.
+
+***Manoeuvre.*** You learn two additional Combat Manoeuvre from the Battle Master (Fighter) subclass of you choice.
+
+
+---
+
+### Enhanced Senses II
+
+***Prerequisite:** Level 15+ Ranger, [Enhanced Senses](#enhanced-senses)*
+
+You can't have :d20-disadv: **Disadvantage** on attack rolls against any target within 30 feet of you.
+
+---
+
+### Primal Focus III: Predatory Intent
+
+***Prerequisite:** Level 15+ Ranger, [Primal Focus II](#primal-focus-ii-feral-eyes)*
+
+When you hit the target of your [:spell-level-1: Hunter's Mark] with a weapon attack or Unarmed Strike, you can choose to end the spell and make the attack score a Critical Hit.
+
+---
+
+## Level 19+
 
 ### Adrenaline II: Aggression
 
