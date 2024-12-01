@@ -10,17 +10,11 @@ title: Eris Decrat's Gimmick
 
 "Sortilege," a Gallian word used for sorcerers, are unlike wizards or others; they're given the power to weave magic as their birthright. You too are this so-called "Sortilege," but your way of weaving spells are quite different from your peers; you combine the power of spells, excessive guile, and the right amount of audacity.
 
-~~This gimmick can also be called "Spells & Blades", but the name is too cool for Eris, so we stick with "Arts & Swash" instead.~~
-
 ### Level 3: Based Arcane Knowledge 
 
 *Not knowing much about magic, whatever you believe in is considered facts for you.*
 
-Choose one of the following skills: *Arcana*, *History*, *Investigation*, *Nature*, or *Religion*. You gain proficiency with that skill and can use your Charisma instead of Intelligence for ability checks with the chosen skill. You can change the chosen skill when you finish a Long Rest.
-
-!!! info "Proficiency and Expertise"
-
-    Proficiency and Expertise are tied to each other, whenever a skill has Expertise, it also has Proficiency. If you lose a proficiency with certain skill that also has Expertise, you can't benefit from that Expertise until you regain your Proficiency.
+Choose one of the following skills: Arcana, History, Investigation, Nature, or Religion. You gain proficiency with that skill and can use your Charisma instead of Intelligence for ability checks with the chosen skill. You can change the chosen skill when you finish a Long Rest.
 
 ### Level 3: Dekrat's Special:material-trademark:
 
@@ -35,25 +29,20 @@ To be channeled this way, the spell must met the following requirements:
 
 On a hit, the spell takes effect immediately in addition of the normal effects and damage from your weapon attack, under the rules below:
 
-:aoe-rad: ***Area of Effects*** 
+:aoe-rad: ***Area of Effect***  
+If the spell targets an area greater than a 10-foot Cube, it takes effect as a 15-foot :aoe-cone: Cone originating from you, which must include your target, or it is contained to only affect the target of your attack (your choice on hit). Using a ranged weapon, your spell is contained to only affect the target of your attack.
 
-:   If the spell targets an area greater than a 10 ft. :aoe-cube: cube, it takes effect as a 15 ft. :aoe-cone: cone originating from you, which must include your target. Alternatively, it can be contained to only affect the target of your attack (your choice). Using a ranged weapon, your spell is contained to only affect the target of your attack.
+:spell-level-0: ***Cantrips***  
+The Cantrip does not deal damage. Instead, your weapon attack deals the damage type dealt by the cantrip, and applies the cantrip's additional effects, other than damage, on hit.
 
-:spell-level-0: ***Cantrip*** 
+:spell-concentration: ***Concentration***  
+If the spell requires your concentration, you must concentrate on it as soon as it takes effect on hit.
 
-:   The cantrip **does not deal damage.** Instead, your weapon attack deals the damage type dealt by the cantrip, and applies the cantrip additional effects on hit, except for damage.
+:d20-save: ***Saving Throw***  
+If the spell requires a saving throw when cast, the target makes the first save at a :d20-disadv: Disadvantage on hit. On a Critical Hit, the target automatically fails the save. Other target (if any) make this save as normal.
 
-:spell-concentration: ***Concentration*** 
-
-:   If the spell requires your concentration, you must Concentrate on it as soon as it takes effect on hit.
-
-:d20-save: ***Saving Throw*** 
-
-:   If the spell requires a saving throw when cast, the target makes the first save at a :d20-disadv: **Disadvantage** on hit. If you score a Critical Hit on the attack, the target automatically fails the save. Other target (if any) make this save as normal.
-
-:d20-attack: ***Attack Roll*** 
-
-:   If the spell requires an attack roll, it instantly take effect when you hit with a weapon attack.
+:d20-attack: ***Attack Roll***  
+If the spell requires an attack roll, it instantly take effect when you hit with a weapon attack.
 
 ### Level 3: Self Taught Sorcery
 

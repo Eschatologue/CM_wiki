@@ -202,6 +202,7 @@ When you roll Initiative, you can take a :rsc-r: **Reaction** to cast [:spell-le
 ***Prerequisite:** Level 7+ Ranger, [Strider I](#strider-i)*
 
 You ignore the effects of any Difficult Terrain imposed by spells, magical phenomena, or any other supernatural effect.
+
 ---
 
 ### Planar Wanderer

@@ -8,7 +8,7 @@ These Fighting Style Feature are homebrew.
 
 While wielding a :weapon-prop-finesse: ^^Finesse^^ weapon and no other weapon, you gain a +2 bonus to your attack rolls with the weapon and +1 to your AC. 
 
-You only have these benefits so long you are not wearing Heavy Armour or wielding Shield.
+You only gain these benefits so long you are not wearing Heavy Armour or wielding Shield.
 
 ---
 
@@ -49,7 +49,7 @@ You specialise one weapon rather than many. Choose one Weapon or Firearm that yo
 
 ***Improved Attack Roll.*** When you make a weapon attack with the weapon, you can treat a roll equal to your Proficiency Bonus or lower on the d20 as your Proficiency Bonus.
 
-***Mastery Property.*** You can use the weapon Mastery property even if you don't have the class feature to do so. If you have a class feature that allows you to use it, the weapon can benefit from two different eligible Mastery properties of your choice.
+***Mastery Property.*** You can use the weapon Mastery property even if you don't have the class feature to do so. If you have a class feature that allows you to use it, the weapon can benefit from one additional eligible Mastery properties of your choice.
 
 ##### Signature Weapon Die
 
@@ -92,7 +92,7 @@ Moreover, your attack with Ranged weapon doesn't have :d20-disadv: Disadvantage 
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-When a creature within 5 feet of you makes an attack against a creature that you can see, you can take a :rsc-r: Reaction to grant it :d20-adv: Advantage on its attack roll. You must be carrying a banner, flag, or standard in your hand. A holy symbol emblazoned on a Shield also suffice.
+When a creature within 10 feet of you makes an attack against a creature that you can see, you can take a :rsc-r: Reaction to grant it :d20-adv: Advantage on its attack roll. You must be carrying a banner, flag, or standard in your hand. A holy symbol emblazoned on a Shield also suffice.
 
 ---
 

@@ -74,7 +74,6 @@ As a Paladin, you gain the following class features when you reach the specified
 | 19 | +6 | Epic Boon | 3 | 15 | 4 | 3 | 3 | 3 | 2 |
 | 20 | +6 | Subclass feature | 3 | 15 | 4 | 3 | 3 | 3 | 2 |
 
-
 ### Level 1: Lay On Hands
 
 Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a Long Rest. With that pool, you can restore a total number of Hit Points equal to five times your Paladin level.
@@ -116,9 +115,11 @@ Your training with weapons allows you to use the Mastery property of two kinds o
 
 Whenever you finish a Long Rest, you can do **one** of the following:
 
-***Change Weapon.*** You can change the kinds of weapons you chose. For example, you could switch to using the Mastery properties of Halberds and Flails
+***Change Weapon***  
+You can change the kinds of weapons you chose. For example, you could switch to using the Mastery properties of Halberds and Flails
 
-***Replace Weapon Mastery.^CM^*** You can choose any of the kinds of Mastery weapons you're using and replace the Mastery property of each with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Halberd's Cleave property with the Topple property.
+_**Replace Weapon Mastery**^CM^_  
+You can choose any of the kinds of Mastery weapons you're using and replace the Mastery property of each with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Halberd's Cleave property with the Topple property.
 
 --8<-- "includes/snippets/item-mastery.md"
 
@@ -208,6 +209,6 @@ Your Aura of Protection is now a 30-foot Emanation.
 
 ### Level 19: Epic Boon
 
-You gain an [Epic Boon feat](../../option/feat/feat-boon.md) or another feat of your choice for which you qualify. Boon of Truesight is recommended.
+You gain an [:option-feat-boon: Epic Boon feat](../../option/feat/feat-boon.md) or another feat of your choice for which you qualify. Boon of Truesight is recommended.
 
 --8<-- "includes/snippets/skills.md"

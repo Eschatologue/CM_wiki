@@ -138,7 +138,7 @@ Whenever you finish a Long Rest, you can do one of the following:
 ***Change Weapon***  
 You can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Longswords, or
 
-**Replace Weapon Mastery^*CM*^**  
+_**Replace Weapon Mastery**^CM^_  
 You can choose any of the kinds of Mastery weapons you're using and replace the Mastery property of each with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Scimitar's Nick property with the Vex property.
 
 --8<-- "includes/snippets/item-mastery.md"
@@ -155,7 +155,7 @@ Thanks to your travels, you gain the following benefits.
 
 You gain a Fighting Style feat of your choice (see chapter 5). Instead of choosing one of those feats, you can choose the option below.
 
-***Druidic Warrior.*** You learn two Druid cantrips of your choice (see the Druid class's section for a list of Druid spells). *[:spell-level-0: Guidance](../../spells/description/core/cantrip.md#guidance)* and *[:spell-level-0: Starry Wisp](../../spells/description/core/cantrip.md#starry-wisp)* are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
+***Druidic Warrior.*** You learn two Druid cantrips of your choice (see the Druid class's section for a list of Druid spells). [:spell-level-0: Guidance](../../spells/description/core/cantrip.md#guidance) and [:spell-level-0: Starry Wisp](../../spells/description/core/cantrip.md#starry-wisp) are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
 
 ### Level 3: Ranger Subclass
 

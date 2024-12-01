@@ -8,6 +8,8 @@ status: homebrew
 
 # Magus
 
+*To face a Magus, is to experience the flurry of both spells and blades.*
+
 ##### Core Magus Trait
 
 | Trait | Detail |
@@ -23,8 +25,6 @@ status: homebrew
 Feared and respected by many, those who wield both blade and spell are collectively known as Magi. Rather than commit their lives solely to the study of arcane lore or the perfection of martial prowess, the Magi walk a path between the two. They may never unleash the cataclysmic power of an archmage nor rival the raw skill of a seasoned swordmaster, but a Magus commands the art of blending magic with steel, forging a deadly and elegant form of arcane combat known only to their Order.
 
 With this unique discipline, they channel their spells through their weapons, fusing magic with every strike. Their heightened senses can detect the weave of arcane energy in the world around them, and they can even sever spells from the air before they even manifest. 
-
-It is said that to face a Magus is to experience the flurry of both spells and blades.
 
 > Written by Laserllama, Adapted to 2024 PHB by Eschatologue
 
@@ -50,7 +50,7 @@ As a Magus, you gain the following class features when you reach the specified M
 
 | Level | PB | Features | Cantrips Known | Spell Prepared | I | II | III | IV | V |
 |:-:|:-:|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 1 | +2 | Arcane Armoury, Fighting Style, Spellcasting, Weapon Mastery | 2 | 2 | 2 | — | — | — | — |
+| 1 | +2 | Arcane Armoury, Fighting Style, Spellcasting | 2 | 2 | 2 | — | — | — | — |
 | 2 | +2 | Spellstrike | 2 | 3 | 2 | — | — | — | — |
 | 3 | +2 | Arcane Regeneration, Subclass Feature | 2 | 4 | 3 | — | — | — | — |
 | 4 | +2 | Ability Score Improvement | 3 | 5 | 3 | — | — | — | — |
@@ -129,48 +129,29 @@ You can use any Weapon or Shield within your Arcane Armoury as a spellcasting fo
 
 You can also use an Arcane Focus as a spellcasting focus.
 
-### Level 1: Weapon Mastery
-
-Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Longbows and Shortswords.
-
-Whenever you finish a Long Rest, you can do one of the following:
-
-***Change Weapon***  
-You can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Longswords, or
-
-**Replace Weapon Mastery^*CM*^**  
-You can choose any of the kinds of Mastery weapons you're using and replace the Mastery property of each with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Scimitar's Nick property with the Vex property.
-
---8<-- "includes/snippets/item-mastery.md"
-
 ### Level 2: Spellstrike
 
-You learn to channel your spells through weapons. Once per turn when you would make an attack, you can cast a Magus spell, expending a spell slot as normal, and make an attack with a melee Arcane Armoury weapon. To be channeled through a Spellstrike attack in this way, the spell must meet the following requirements:
+You learn to channel your spells through weapons. Once per turn, when you make an attack with a melee weapon from your Arcane Armoury, you can cast a Magus spell by expending a spell slot. The spell must meet the following criteria:
 
 - The Magus spell must have a casting time of an Action.
 - The Magus spell must require a single spell attack roll, force its target to make a saving throw, or affect a total number of hit points worth of creatures (like *Sleep*).
 
 If your attack misses, the spell fails and has no effect. On a hit, the spell takes effect immediately after the normal effects and damage of your weapon attack, using the rules below:
 
-:aoe-rad: ***Area of Effect***
+:aoe-rad: ***Area of Effect***  
+If the spell targets an area greater than a 10-foot Cube, it takes effect as a 15-foot :aoe-cone: Cone originating from you, which must include your target, or it is contained to only affect the target of your attack (your choice on hit).
 
-:   If the spell targets an area greater than a 10-foot cube, it takes effect as a 15-foot :aoe-cone: cone originating from you, which must include your target, or it is contained to only affect the target of your attack (your choice on hit).
+:spell-level-0: ***Cantrips***  
+The Cantrip does not deal damage. Instead, your weapon attack deals the damage type dealt by the cantrip, and applies the cantrip's additional effects, other than damage, on hit.
 
-:spell-level-0: ***Cantrips***
+:spell-concentration: ***Concentration***  
+If the spell requires your concentration, you must concentrate on it as soon as it takes effect on hit.
 
-:   You do not deal the damage of the cantrip along with the damage of your weapon attack. Instead, your weapon attack deals the damage type dealt by the cantrip, and applies the cantrip's additional effects, other than damage, on hit.
+:d20-save: ***Saving Throw***  
+If the spell requires a saving throw when cast, the target makes the first save at a :d20-disadv: Disadvantage on hit. On a Critical Hit, the target automatically fails the save. Other target (if any) make this save as normal.
 
-:spell-concentration: ***Concentration***
-
-:   If the spell requires your concentration, you must concentrate on it as soon as it takes effect on hit.
-
-:d20-save: ***Saving Throw*** 
-
-:   If the spell requires a saving throw when cast, the target makes the first save at a :d20-disadv: **Disadvantage** on hit. If you score a Critical Hit on the attack, the target automatically fails the save. Other target (if any) make this save as normal.
-
-:d20-attack: ***Attack Roll*** 
-
-:   If the spell requires an attack roll, it instantly take effect when you hit with a weapon attack.
+:d20-attack: ***Attack Roll***  
+If the spell requires an attack roll, it instantly take effect when you hit with a weapon attack.
 
 ### Level 3: Arcane Regeneration
 
@@ -194,12 +175,12 @@ You can still only make one [Spellstrike] attack per turn.
 
 ### Level 5: Spellsight
 
-As a Magic action, you can awaken your senses to the presence of magic within 30 feet as if you had cast *[Detect Magic]*. While this sense is active, you can touch an object and gain knowledge as if you had cast *[Identify]*. This special sense requires your Concentration, and it lasts for 1 minute.
+As a Magic action, you can awaken your senses to the presence of magic within 30 feet as if you had cast [:spell-level-1: Detect Magic]. While this sense is active, you can touch an object and gain knowledge as if you had cast [:spell-level-1: Identify]. This special sense requires your Concentration, and it lasts for 1 minute.
 
 You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
-[Detect Magic]: ../../spells/description/core/level-1.md#detect-magic 
-[Identify]: ../../spells/description/core/level-1.md#identify 
+[:spell-level-1: Detect Magic]: ../../spells/description/core/level-1.md#detect-magic 
+[:spell-level-1: Identify]: ../../spells/description/core/level-1.md#identify 
 
 ### Level 6: Ethereal Jaunt
 

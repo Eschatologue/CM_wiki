@@ -98,8 +98,11 @@ Each time the Rage is extended, it lasts until the end of your next turn. You ca
 
 While you aren't wearing any armour, you can determine your base Armour Class one of the following ways:
 
-:   **Dexterity Based:** 10 + your :ability-dex: Dexterity and :ability-cons: Constitution modifiers
-:   **Strength Based:^*CM*^** 10 + your :ability-str: Strength and :ability-cons: Constitution modifiers. 
+_**Dexterity Based**_  
+10 + your :ability-dex: Dexterity and :ability-cons: Constitution modifiers
+
+_****Strength Based**^CM^_  
+10 + your :ability-str: Strength and :ability-cons: Constitution modifiers. 
 
 You can use a Shield and still gain these benefit.
 
@@ -110,7 +113,7 @@ Your training with weapons allows you to use the mastery properties of two kinds
 ***Change Weapon***  
 You can practice weapon drills and change *one* of those weapon choices
 
-**Replace Weapon Mastery^*CM*^**  
+_**Replace Weapon Mastery**^CM^_   
 You can choose *one* kind of Mastery weapons you're using and replace its Mastery property of with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Longsword's Sap property with the Push property.
 
 --8<-- "includes/snippets/item-mastery.md"
