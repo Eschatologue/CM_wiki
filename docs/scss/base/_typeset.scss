@@ -9,6 +9,11 @@
 // General Typeset Variables
 $headingFont: "Jost", sans-serif;
 $defaultFontSize: convert.px2rem(14px);
+
+@media screen and (max-width: 768px) {
+    $defaultFontSize: convert.px2rem(12px);
+}
+
 $defaultFontWeight: 300;
 
 // Heading Size Variables
@@ -27,7 +32,7 @@ $h4Size: $defaultFontSize * 1.15;
     }
 
     p {
-        margin: convert.px2rem(6px) 0 convert.px2rem(6px) 0;
+        margin: convert.px2rem(8px) 0 convert.px2rem(8px) 0;
     }
 
     ul,
