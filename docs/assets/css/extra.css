@@ -599,7 +599,7 @@
 }
 @media screen and (max-width: 768px) {
   .md-typeset {
-    font-size: 0.525rem;
+    font-size: 0.56rem;
   }
 }
 .md-typeset strong {
@@ -743,6 +743,11 @@
   border-bottom: 0.15rem solid var(--md-primary-fg-color);
   background-color: var(--md-mod-table-color--darkest);
   padding: 0.6125em 1em;
+}
+@media screen and (max-width: 768px) {
+  .md-typeset table:not([class]) th {
+    font-size: 0.525rem;
+  }
 }
 .md-typeset table:not([class]) td {
   font-size: 0.595rem;
