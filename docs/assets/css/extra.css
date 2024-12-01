@@ -599,7 +599,8 @@
 }
 @media screen and (max-width: 768px) {
   .md-typeset {
-    font-size: 0.56rem;
+    /* Make Font Size Smaller for mobile devices */
+    font-size: 0.595rem;
   }
 }
 .md-typeset strong {
@@ -744,11 +745,6 @@
   background-color: var(--md-mod-table-color--darkest);
   padding: 0.6125em 1em;
 }
-@media screen and (max-width: 768px) {
-  .md-typeset table:not([class]) th {
-    font-size: 0.525rem;
-  }
-}
 .md-typeset table:not([class]) td {
   font-size: 0.595rem;
   border: 0rem transparent !important;
@@ -756,6 +752,11 @@
 .md-typeset table:not([class]) td b,
 .md-typeset table:not([class]) td strong {
   font-weight: 540;
+}
+@media screen and (max-width: 768px) {
+  .md-typeset table:not([class]) td {
+    font-size: 0.49rem;
+  }
 }
 .md-typeset table:not([class]) table tr:hover {
   background-color: inherit !important; /* Ensures no change on hover */
