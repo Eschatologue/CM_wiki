@@ -20,7 +20,7 @@ title: Rogue (Class)
 | **Weapon Proficiencies** | Simple weapons and Martial weapons that have the Finesse or Light property |
 | **Tool Proficiencies** | Thieves' Tools |
 | **Armour Training** | Light armour |
-| **Starting Equipment** | Choose A or B: (A) Leather Armour, 2 Daggers, Shortsword, Shortbow, 20 Arrows, Quiver, Thieves' Tools, Burglar's Pack, and 8 GP; or (B) 100 GP |
+| **Starting Equipment** | Choose A or B: <br>(A) Leather Armour, 2 Daggers, Shortsword, Shortbow, 20 Arrows, Quiver, Thieves' Tools, Burglar's Pack, and 8 GP; or <br>(B) 100 GP |
 
 Rogues rely on cunning, stealth, and their foes' vulnerabilities to get the upper hand in any situation. They have a knack for finding the solution to just about any problem, demonstrating a versatility that is the cornerstone of any successful adventuring party.
 
@@ -99,7 +99,7 @@ Whenever you finish a Long Rest, you can do one of the following:
 
 ***Change Weapon.*** You can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Shortswords.
 
-***Replace Weapon Mastery.^CM^*** You can choose any of the kinds of Mastery weapons you're using and replace the Mastery property of each with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Dagger's Nick property with the Slow property.
+***Replace Weapon Mastery^CM^.*** You can choose any of the kinds of Mastery weapons you're using and replace the Mastery property of each with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Dagger's Nick property with the Slow property.
 
 --8<-- "includes/snippets/item-mastery.md"
 
@@ -125,13 +125,14 @@ You've developed cunning ways to use your Sneak Attack. When you deal Sneak Atta
 
 If a Cunning Strike effect requires a saving throw, the DC equals 8 plus your Dexterity modifier and Proficiency Bonus.
 
-***Poison (Cost: 1d6).*** You add a toxin to your strike, forcing the target to make a Constitution saving throw. On a failed save, the target has the Poisoned condition for 1 minute. At the end of each of its turns, the Poisoned target repeats the save, ending the effect on itself on a success.
+***Poison (Cost: 1d6)***  
+You add a toxin to your strike, forcing the target to make a Constitution saving throw. On a failed save, the target has the Poisoned condition for 1 minute. At the end of each of its turns, the Poisoned target repeats the save, ending the effect on itself on a success. To use this effect, you must have a Poisoner's Kit on your person.
 
-To use this effect, you must have a Poisoner's Kit on your person.
+***Trip (Cost: 1d6)***  
+If the target is Large or smaller, it must succeed on a Dexterity saving throw or have the Prone condition.
 
-***Trip (Cost: 1d6).*** If the target is Large or smaller, it must succeed on a Dexterity saving throw or have the Prone condition.
-
-***Withdraw (Cost: 1d6).*** Immediately after the attack, you move up to half your Speed without provoking Opportunity Attacks.
+***Withdraw (Cost: 1d6)***  
+Immediately after the attack, you move up to half your Speed without provoking Opportunity Attacks.
 
 ### Level 5: Uncanny Dodge
 
@@ -153,11 +154,14 @@ You can use up to two Cunning Strike effects when you deal Sneak Attack damage, 
 
 You've practiced new ways to use your Sneak Attack deviously. The following effects are now among your Cunning Strike options.
 
-***Daze (Cost: 2d6).*** The target must succeed on a Constitution saving throw, or on its next turn, it can do only one of the following: move or take an action or a Bonus Action.
+***Daze (Cost: 2d6)***  
+The target must succeed on a Constitution saving throw, or on its next turn, it can do only one of the following: move or take an action or a Bonus Action.
 
-***Knock Out (Cost: 6d6).*** The target must succeed on a Constitution saving throw, or it has the Unconscious condition for 1 minute or until it takes any damage. The Unconscious target repeats the save at the end of each of its turns, ending the effect on itself on a success.
+***Knock Out (Cost: 6d6)***  
+The target must succeed on a Constitution saving throw, or it has the Unconscious condition for 1 minute or until it takes any damage. The Unconscious target repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
-***Obscure (Cost: 3d6).*** The target must succeed on a Dexterity saving throw, or it has the Blinded condition until the end of its next turn.
+***Obscure (Cost: 3d6)***  
+The target must succeed on a Dexterity saving throw, or it has the Blinded condition until the end of its next turn.
 
 ### Level 15: Slippery Mind
 
@@ -169,7 +173,7 @@ You're so evasive that attackers rarely gain the upper hand against you. No atta
 
 ### Level 19: Epic Boon
 
-You gain an [Epic Boon feat](../../option/feat/feat-boon.md) or another feat of your choice for which you qualify. Boon of the Night Spirit is recommended.
+You gain an [:option-feat-boon: Epic Boon feat](../../option/feat/feat-boon.md) or another feat of your choice for which you qualify. Boon of the Night Spirit is recommended.
 
 ### Level 20: Stroke of Luck
 
