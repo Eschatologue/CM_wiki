@@ -91,47 +91,30 @@ The number of times you can cast the spell without a spell slot increases when y
 
 Each Ranger's specialise in specific hunting style called "Archetype". Choose one of the following benefits:
 
-***Bounty Hunter.*** Your expertise in hunting bounties stands out. 
+***Bounty Hunter.*** Your expertise in hunting bounties stands out.
+
 - ***Proficiency.*** You gain proficiency in Insight and Investigation
 - ***Improved Restraining.*** Creatures has :d20-disadv: **Disadvantage** on saves to resist or end the ^^Grappled^^ or ^^Restrained^^ condition caused by you.
 
----
+***Deathwatch.*** You specialise in hunting those not native to your plane of existence.
 
-### Origin: Deathwatch 
+- ***Proficiency.*** You gain proficiency in Arcana and Religion.
+- ***Protection.*** You can cast [:spell-level-1: Protection from Evil and Good](../../spells/description/core/level-1.md#protection-from-evil-and-good) without expending a spell slot once per Long Rest.
 
-You specialise in hunting those not native to Antares.
+***Mage Breaker.*** You have a background in battling spellcasters.
 
-***Proficiency.***  You gain proficiency in Arcana and Religion.
+- ***Proficiency.*** You gain proficiency in Arcana and Insight.
+- ***Cantrip.*** You know the [:spell-level-0: True Strike](../../spells/description/core/cantrip.md#true-strike) cantrip.
 
-***Protection.*** You can cast [:spell-level-1: Protection from Evil and Good](../../spells/description/core/level-1.md#protection-from-evil-and-good) without expending a spell slot once per Long Rest.
+***Ranger Knight.*** You have sworn to serve a crown or nation and aim to bring its foes to ruin.
 
-### Origin: Mage Breaker 
+- ***Proficiency.*** You gain proficiency in History and Perception.
+- ***Armour Training.*** You gain training with with Heavy armour.
 
-You have a background in battling spellcasters.
+***Sanctified Hunter.*** You have sworn to hunt the enemies of a holy or druidic order.
 
-***Proficiency.*** You gain proficiency in Arcana and Insight.
-
-***Cantrip.*** You know the [:spell-level-0: True Strike](../../spells/description/core/cantrip.md#true-strike) cantrip.
-
----
-
-### Origin: Ranger Knight 
-
-You have sworn to serve a crown or nation and aim to bring its foes to ruin.
-
-***Proficiency.*** You gain proficiency in History and Perception.
-
-***Armour Training.*** You gain training with with Heavy armour.
-
----
-
-### Origin: Sanctified Hunter
-
-You have sworn to hunt the enemies of a holy or druidic order.
-
-***Proficiency.*** You gain proficiency in Investigation and Religion.
-
-***Cantrip.*** You know the [:spell-level-0: Sacred Flame](../../spells/description/core/cantrip.md#sacred-flame) cantrip.
+- ***Proficiency.*** You gain proficiency in Investigation and Religion.
+- ***Cantrip.*** You know the [:spell-level-0: Sacred Flame](../../spells/description/core/cantrip.md#sacred-flame) cantrip.
 
 ---
 
@@ -191,7 +174,7 @@ Whenever you finish a Long Rest, you can do one of the following:
 ***Change Weapon***  
 You can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Longswords, or
 
-**Replace Weapon Mastery^*CM*^**  
+_**Replace Weapon Mastery^*CM*^**_  
 You can choose any of the kinds of Mastery weapons you're using and replace the Mastery property of each with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Scimitar's Nick property with the Vex property.
 
 --8<-- "includes/snippets/item-mastery.md"
