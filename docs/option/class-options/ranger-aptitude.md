@@ -9,6 +9,65 @@ Below are the Aptitudes available to the [Ranger]. If an Aptitude has a prerequi
 
 [Ranger]: ../../class/ranger/index.md
 
+## Level 1+ Aptitudes
+
+### Origin: Bounty Hunter 
+
+Your expertise in hunting bounties stands out.
+
+***Proficiency.*** You gain proficiency in Insight and Investigation. 
+
+***Improved Restraining.*** Creatures has :d20-disadv: **Disadvantage** on saves to resist or end the ^^Grappled^^ or ^^Restrained^^ condition caused by you.
+
+---
+
+### Origin: Deathwatch 
+
+You specialise in hunting those not native to Antares.
+
+***Proficiency.***  You gain proficiency in Arcana and Religion.
+
+***Protection.*** You can cast [:spell-level-1: Protection from Evil and Good](../../spells/description/core/level-1.md#protection-from-evil-and-good) without expending a spell slot once per Long Rest.
+
+---
+
+### Origin: Generalist
+
+Rather than specialise, you rather adjust acording to situations.
+
+***Change Aptitude.*** You can change one Ranger's Aptitude of your choice when you finish a Long Rest. All other rules of choosing an Aptitude still applies.
+
+---
+
+### Origin: Mage Breaker 
+
+You have a background in battling spellcasters.
+
+***Proficiency.*** You gain proficiency in Arcana and Insight.
+
+***Cantrip.*** You know the [:spell-level-0: True Strike](../../spells/description/core/cantrip.md#true-strike) cantrip.
+
+---
+
+### Origin: Ranger Knight 
+
+You have sworn to serve a crown or nation and aim to bring its foes to ruin.
+
+***Proficiency.*** You gain proficiency in History and Perception.
+
+***Armour Training.*** You gain training with with Heavy armour.
+
+---
+
+### Origin: Sanctified Hunter
+
+You have sworn to hunt the enemies of a holy or druidic order.
+
+***Proficiency.*** You gain proficiency in Investigation and Religion.
+
+***Cantrip.*** You know the [:spell-level-0: Sacred Flame](../../spells/description/core/cantrip.md#sacred-flame) cantrip.
+
+---
 
 ### Natural Explorer: Beast Tamer
 
@@ -40,9 +99,11 @@ You have spent endless days surviving desolate wasteland
 
 ---
 
+## Level 3+ Aptitudes
+
 ### Cunning Technique
 
-***Prerequisite:** Level 3+ Ranger*
+***Prerequisite:** Level 3+ Ranger; [Bounty Hunter], [Deathwatch], or [Generalist]*
 
 You learn some rougish techniques.
 
@@ -54,7 +115,7 @@ You learn some rougish techniques.
 
 ### Hedge Knight
 
-***Prerequisite:** Level 3+ Ranger*
+***Prerequisite:** Level 3+ Ranger; [Ranger Knight] or [Sanctified Hunter]*
 
 Though you wander the wilds, you still understood the intricacy of politics.
 
@@ -64,7 +125,7 @@ Though you wander the wilds, you still understood the intricacy of politics.
 
 ### Inquisitor
 
-***Prerequisite:** Level 3+ Ranger*
+***Prerequisite:** Level 3+ Ranger; [Deathwatch], [Ranger Knight], or [Mage Breaker]*
 
 You learn how to utilise divine magic.
 
@@ -74,7 +135,7 @@ You learn how to utilise divine magic.
 
 ### Martial Superiority I
 
-***Prerequisite:** Level 3+ Ranger*
+***Prerequisite:** Level 3+ Ranger; [Bounty Hunter], [Generalist], or [Mage Breaker]*
 
 You are trained to use complex combat techniques. 
 
@@ -108,7 +169,7 @@ Your combat techniques are improved.
 
 ### Self-Regeneration
 
-***Prerequisite:** Level 3+ Ranger*
+***Prerequisite:** Level 3+ Ranger, [Any Level 1+ Aptitude]*
 
 During a Short Rest, you can recover spell slots of a combined level equal to your Wisdom modifier. Once you do, you must finish a Long Rest before you can use this feature again.
 
@@ -116,7 +177,7 @@ During a Short Rest, you can recover spell slots of a combined level equal to yo
 
 ### Slayer I
 
-***Prerequisite:** Level 3+ Ranger*
+***Prerequisite:** Level 3+ Ranger, [Any Level 1+ Aptitude]*
 
 When you hit a creature with a weapon attack or Unarmed Strike you can cast [:spell-level-1: Hunter's Mark] at the target as part of the attack, applying its damage bonus and other benefits (if any) to the damage roll.
 
@@ -140,7 +201,7 @@ Once per turn, when you hit the target of your [:spell-level-1: Hunter's Mark] w
 
 ### Strider I
 
-***Prerequisite:** Level 3+ Ranger*
+***Prerequisite:** Level 3+ Ranger, [Any Level 1+ Aptitude]*
 
 You ignore the effects of Difficult Terrain caused by natural environments or terrain.
 
@@ -263,6 +324,15 @@ You can cast [:spell-level-1: Ensnaring Strike] without expending a spell slot.
 Whenever you hit the target of your [:spell-level-1: Hunter's Mark] with a weapon attack or Unarmed Strike, you can immediately end the spell and cause that attack to deal maximum damage instead of rolling. If the attack reduces the creature to 50 Hit Points or fewer, it must succeed on a Constitution saving throw against your Spell save DC or it instantly dies.
 
 ---
+
+[Deathwatch]: #origin-deathwatch
+[Generalist]: #origin-generalist
+[Bounty Hunter]: #origin-bounty-hunter
+[Mage Breaker]: #origin-mage-breaker
+[Ranger Knight]: #origin-ranger-knight
+[Sanctified Hunter]: #origin-sanctified-hunter
+
+[Any Level 1+ Aptitude]: #level-1-aptitude
 
 [:spell-level-1: Ensnaring Strike]: ../../spells/description/core/level-1.md#ensnaring-strike
 [:spell-level-1: Hunter's Mark]: ../../spells/description/core/level-1.md#hunters-mark
