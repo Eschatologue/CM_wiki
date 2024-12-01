@@ -597,6 +597,11 @@
   font-weight: 300;
   font-size: 0.7rem;
 }
+@media screen and (max-width: 768px) {
+  .md-typeset {
+    font-size: 0.525rem;
+  }
+}
 .md-typeset strong {
   letter-spacing: 0.021rem;
 }
