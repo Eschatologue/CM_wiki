@@ -11,15 +11,15 @@ title: Barbarian (Class)
 
 ##### Core Barbarian Trait
 
-| Trait                          | Detail                                                                              |
-| ------------------------------ | ----------------------------------------------------------------------------------- |
-| **Primary Ability**            | Strength                                                                            |
-| **Hit Point Die**              | D12 per Barbarian level                                                             |
-| **Saving Throw Proficiencies** | Strength and Constitution                                                           |
-| **Skill Proficiencies**        | Choose 2: Animal Handling, Athletics, Intimidation, Nature, Perception, or Survival |
-| **Weapon Proficiencies**       | Simple and Martial weapons                                                          |
-| **Armour Training**            | Light and Medium armour and Shields                                                 |
-| **Starting Equipment**         | Choose A or B: (A) Greataxe, 4 Handaxes, Explorer's Pack, and 15 GP; or (B) 75 GP   |
+| Trait | Detail |
+| --- | --- |
+| **Primary Ability** | Strength |
+| **Hit Point Die** | D12 per Barbarian level |
+| **Saving Throw Proficiencies** | Strength and Constitution |
+| **Skill Proficiencies** | Choose 2: Animal Handling, Athletics, Intimidation, Nature, Perception, or Survival |
+| **Weapon Proficiencies** | Simple and Martial weapons |
+| **Armour Training** | Light and Medium armour and Shields |
+| **Starting Equipment** | Choose A or B: (A) Greataxe, 4 Handaxes, Explorer's Pack, and 15 GP; or (B) 75 GP   |
 
 Barbarians are mighty warriors who are powered by primal forces of the multiverse that manifest as a Rage. More than a mere emotion—and not limited to anger—this Rage is an incarnation of a predator's ferocity, a storm's fury, and a sea's turmoil.
 

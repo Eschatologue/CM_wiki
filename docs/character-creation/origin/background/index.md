@@ -17,9 +17,11 @@ Each background includes the following elements, which you can either choose fro
 
 Mechanically, your background contains six plus one aspects detailed as follow, a **Custom Background** follows the same formula:
 
+##### Custom Background Table
+
 | Component | Details |
 |:--|--|
-| :material-arrow-up-bold-box: ***Ability Scores*** | Increase your Ability Score, choose between: <br>- Increase **_one_ Ability Score by +2 and _another_ by +1**, or <br>- Increase **_three_ Ability Scores by +1 each**. <br>These increases cannot raise any score above **20**. |
+| :material-arrow-up-bold-box: ***Ability Scores*** | Increase your Ability Score, choose **(A)** or **(B)**: <br>**(A)** Increase **_one_ Ability Score by +2 and _another_ by +1**, or <br>**(B)** Increase **_three_ Ability Scores by +1 each**. <br>These increases cannot raise any score above **20**. |
 | :material-cards-diamond: ***Feat*** | Gain an [Origin Feat]. This feat represents a talent your character developed or had during their background. |
 | :material-account-star: ***Skill Prof.*** | Gain ^^Proficiency in 2 skills^^ of your choice |
 | :material-tools: ***Tool Prof.*** | Gain ^^Proficiency with 1 tool^^. This can be a: <br>- **Specific tool** ([:material-guitar-acoustic: Musical Instrument], or [:material-google-nearby: other tools]), or <br>- One from the [:material-wrench: Artisan's Tools] category.|

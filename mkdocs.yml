@@ -44,7 +44,7 @@ theme:
 ## Additional Configuration
 extra:
   status:
-    homebrew: Homebrew material
+    homebrew: Homebrew Material
     adapted: Adapted to PHB'24
     draft: Draft
 
