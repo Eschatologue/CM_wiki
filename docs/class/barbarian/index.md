@@ -14,12 +14,12 @@ title: Barbarian (Class)
 | Trait | Detail |
 | --- | --- |
 | **Primary Ability** | Strength |
-| **Hit Point Die** | D12 per Barbarian level |
+| **Hit Point Die** | D12 per Barbarian level <br>**HP at Level 1:** 12 + CON modifier. <br>**HP per Barbarian Level:** 7 + your Con. modifier |
 | **Saving Throw Proficiencies** | Strength and Constitution |
 | **Skill Proficiencies** | Choose 2: Animal Handling, Athletics, Intimidation, Nature, Perception, or Survival |
 | **Weapon Proficiencies** | Simple and Martial weapons |
 | **Armour Training** | Light and Medium armour and Shields |
-| **Starting Equipment** | Choose A or B: (A) Greataxe, 4 Handaxes, Explorer's Pack, and 15 GP; or (B) 75 GP   |
+| **Starting Equipment** | Choose A or B: <br>**(A)** Greataxe, 4 Handaxes, Explorer's Pack, and 150 SP; or <br>**(B)** 750 SP   |
 
 Barbarians are mighty warriors who are powered by primal forces of the multiverse that manifest as a Rage. More than a mere emotion—and not limited to anger—this Rage is an incarnation of a predator's ferocity, a storm's fury, and a sea's turmoil.
 
@@ -101,7 +101,7 @@ While you aren't wearing any armour, you can determine your base Armour Class on
 _**Dexterity Based**_  
 10 + your :ability-dex: Dexterity and :ability-cons: Constitution modifiers
 
-_****Strength Based**^CM^_  
+_**Strength Based**^CM^_  
 10 + your :ability-str: Strength and :ability-cons: Constitution modifiers. 
 
 You can use a Shield and still gain these benefit.
