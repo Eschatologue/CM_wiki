@@ -11,14 +11,16 @@ title: Artificer (Class)
 
 | Trait | Detail |
 |---|---|
-| **Primary Ability** | Intelligence |
+| **Primary Ability** | :ability-int: Intelligence |
 | **Hit Point Die** | D8 per Artificer level |
-| **Saving Throw Proficiencies** | Constitution and Intelligence |
+| **HP at Level 1** | 8 + :ability-cons: Con. modifier. |
+| **HP per Artificer Level** | 5 + :ability-cons: Con. modifier |
+| **Saving Throw Proficiencies** | :ability-cons: Constitution and :ability-int: Intelligence |
 | **Skill Proficiencies** | Choose 2: Arcana, History, Investigation, Medicine, Nature, Perception, or Sleight of Hand. |
 | **Weapon Proficiencies** | Simple weapons |
 | **Tool Proficiencies** | Thieves' Tools, Tinker's Tools and choose 1 type of Artisan's Tools. |
 | **Armour Training** | Light and Medium armour and Shields |
-| **Starting Equipment** | Choose A or B: (A) Chain Shirt, Shield, a Simple weapon of your choice, Thieves' Tools, Tinker's Tools, Scholar's Pack and 3 GP or (B) 180 GP |
+| **Starting Equipment** | Choose **A** or **B**: <br>**(A)** Chain Shirt, Shield, a Simple weapon of your choice, Thieves' Tools, Tinker's Tools, Scholar's Pack and 30 SP or <br>**(B)** 180 SP |
 
 Masters of unlocking magic in everyday objects, Artificers are supreme inventors. They see magic as a complex system waiting to be decoded and controlled. Artificers use tools to channel arcane power, crafting magical objects. To cast a spell, an Artificer could use alchemist's supplies to create a potent elixir, calligrapher's supplies to inscribe a sigil of power on an ally's armour, or tinker's tools to craft a temporary charm. The magic of Artificers is tied to their tools and their talents.
 
@@ -74,8 +76,6 @@ Whenever you finish a Short Rest, you can regain one expended spell slot of your
 Your knack for tinkering has taught you to store minor magical effects in mundane objects. You know the [:spell-level-0: Magical Tinkering] cantrip, which doesn't count against the number of cantrips you know.
 
 Further, whenever you make an ability check with Tinker's Tools, you can use your Intelligence as the ability, instead of Dexterity.
-
-[:spell-level-0: Magical Tinkering]: ../../spells/description/core/cantrip.md#magical-tinkering
 
 ### Level 1: Spellcasting
 
@@ -233,3 +233,4 @@ You have developed a mystical connection to your magic items, which you can draw
 ***Infusion Contingency.*** If you're reduced to 0 Hit Points but not killed out-right, you can use your Reaction to end one of your Infusions, causing you to drop to 1 hit point instead of 0, and you instantly regain 30 Hit Points.
 
 --8<-- "includes/snippets/skills.md"
+--8<-- "includes/snippets/spells-phb-2.md"

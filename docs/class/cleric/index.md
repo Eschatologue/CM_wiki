@@ -13,13 +13,15 @@ title: Cleric (Class)
 
 | Trait | Detail |
 |---|---|
-| **Primary Ability** | Wisdom |
+| **Primary Ability** | :ability-wis: Wisdom |
 | **Hit Point Die** | D8 per Cleric level |
-| **Saving Throw Proficiencies** | Wisdom and Charisma |
+| **HP at Level 1** | 8 + :ability-cons: Con. modifier. |
+| **HP per Cleric Level** | 5 + :ability-cons: Con. modifier |
+| **Saving Throw Proficiencies** | :ability-wis: Wisdom and :ability-cha: Charisma |
 | **Skill Proficiencies** | Choose 2: History, Insight, Medicine, Persuasion, or Religion |
 | **Weapon Proficiencies** | Simple weapons |
 | **Armour Training** | Light and Medium armour and Shields |
-| **Starting Equipment** | Choose A or B: (A) Chain Shirt, Shield, Mace, Holy Symbol, Priest's Pack, and 7 GP; or (B) 110 GP |
+| **Starting Equipment** | Choose **A** or **B**: <br>**(A)** Chain Shirt, Shield, Mace, Holy Symbol, Priest's Pack, and 70 SP; or <br>**(B)** 1.100 SP |
 
 Clerics draw power from the realms of the gods and harness it to work miracles. Blessed by a deity, a pantheon, or another immortal entity, a Cleric can reach out to the divine magic of the Outer Planes—where gods dwell—and channel it to bolster people and battle foes.
 
@@ -100,7 +102,12 @@ The Cleric Features table shows how many spell slots you have to cast your level
 
 #### Prepared Spells of level 1+
 
-You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Cleric spell list. Bless, Cure Wounds, Guiding Bolt, and Shield of Faith are recommended.
+You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Cleric spell list. [:spell-level-1: Bless], [:spell-level-1: Cure Wounds], [:spell-level-1: Guiding Bolt], and [:spell-level-1: Shield of Faith] are recommended.
+
+[:spell-level-1: Bless]
+[:spell-level-1: Cure Wounds]
+[:spell-level-1: Guiding Bolt]
+[:spell-level-1: Shield of Faith]
 
 The number of spells on your list increases as you gain Cleric levels, as shown in the Prepared Spells column of the Cleric Features table. Whenever that number increases, choose additional spells from the Cleric spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Cleric, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 

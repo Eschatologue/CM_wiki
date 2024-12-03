@@ -19,7 +19,7 @@ title: Wizard (Class)
 | **Skill Proficiencies** | Choose 2: Arcana, History, Insight, Investigation, Medicine, Nature, or Religion |
 | **Weapon Proficiencies** | Simple weapons |
 | **Armour Training** | None |
-| **Starting Equipment** | Choose A or B: (A) 2 Daggers, Arcane Focus (Quarterstaff), Robe, Spellbook, Scholar's Pack, and 5 GP; or (B) 55 GP |
+| **Starting Equipment** | Choose A or B: <br>**(A)** 2 Daggers, Arcane Focus (Quarterstaff), Robe, Spellbook, Scholar's Pack, and 5 GP; or <br>**(B)** 55 GP |
 
 Wizards are defined by their exhaustive study of magic's inner workings. They cast spells of explosive fire, arcing lightning, subtle deception, and spectacular transformations. Their magic conjures monsters from other planes of existence, glimpses the future, or forms protective barriers. Their mightiest spells change one substance into another, call meteors from the sky, or open portals to other worlds.
 

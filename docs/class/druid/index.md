@@ -20,7 +20,7 @@ title: Druid (Class)
 | **Weapon Proficiencies** | Simple weapons |
 | **Tool Proficiencies** | Herbalism Kit |
 | **Armour Training** | Light armour and Shields |
-| **Starting Equipment** | Choose A or B: (A) Leather Armour, Shield, Sickle, Druidic Focus (Quarterstaff), Explorer's Pack, Herbalism Kit, and 9 GP; or (B) 50 GP |
+| **Starting Equipment** | Choose A or B: <br>**(A)** Leather Armour, Shield, Sickle, Druidic Focus (Quarterstaff), Explorer's Pack, Herbalism Kit, and 9 GP; or <br>**(B)** 50 GP |
 
 Druids belong to ancient orders that call on the forces of nature. Harnessing the magic of animals, plants, weather, and the four elements, Druids can heal, transform themselves, and wield elemental destruction.
 

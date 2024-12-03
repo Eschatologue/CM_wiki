@@ -13,14 +13,16 @@ title: Bard (Class)
 
 | Trait | Detail |
 |---|---|
-| **Primary Ability** | Charisma |
+| **Primary Ability** | :ability-cha: Charisma |
 | **Hit Point Die** | D8 per Bard level |
-| **Saving Throw Proficiencies** | Dexterity and Charisma |
-| **Skill Proficiencies** | Choose any 3 skills (see chapter 1) |
+| **HP at Level 1** | 8 + :ability-cons: Con. modifier. |
+| **HP per Bard Level** | 5 + :ability-cons: Con. modifier |
+| **Saving Throw Proficiencies** | :ability-dex: Dexterity and :ability-cha: Charisma |
+| **Skill Proficiencies** | Choose any 3 [skills](../../gameplay/phb/proficiency.md#skill-list) |
 | **Weapon Proficiencies** | Simple weapons |
-| **Tool Proficiencies** | Choose 3 Musical Instruments (see chapter 6) |
+| **Tool Proficiencies** | Choose 3 [Musical Instruments](../../equipment/tools/other-tools.md#musical-instrument) |
 | **Armour Training** | Light armour |
-| **Starting Equipment** | Choose A or B: (A) Leather Armour, 2 Daggers, Musical Instrument of your choice, Entertainer's Pack, and 19 GP; or (B) 90 GP |
+| **Starting Equipment** | Choose **A** or **B**: <br>**(A)** Leather Armour, 2 Daggers, Musical Instrument of your choice, Entertainer's Pack, and 190 SP; or <br>**(B)** 900 SP |
 
 Invoking magic through music, dance, and verse, Bards are expert at inspiring others, soothing hurts, disheartening foes, and creating illusions.
 Bards believe that the creators of the multiverse spoke and signed it into existence and that remnants of those Words of Creation still resound and glimmer on every plane of existence. The magic of Bards is an attempt to harness those words—which transcend any language—and direct them to create new wonders.
@@ -91,11 +93,14 @@ You have learned to cast spells through your bardic arts. See chapter 7 for the 
 
 #### Cantrips
 
-You know two cantrips of your choice from the Bard spell list. *Dancing Lights* and *Vicious Mockery* are recommended.
+You know two cantrips of your choice from the Bard spell list. [:spell-level-0: Dancing Lights] and [:spell-level-0: Vicious Mockery] are recommended.
 
 Whenever you gain a Bard level, you can replace one of your cantrips with another cantrip of your choice from the Bard spell list.
 
 When you reach Bard levels 4 and 10, you learn another cantrip of your choice from the Bard spell list, as shown in the Cantrips column of the Bard Features table.
+
+[:spell-level-0: Dancing Lights]: ../../spells/description/core/cantrip.md#dancing-lights
+[:spell-level-0: Vicious Mockery]: ../../spells/description/core/cantrip.md#vicious-mockery
 
 #### Spell Slots
 
@@ -103,11 +108,16 @@ The Bard Features table shows how many spell slots you have to cast your level 1
 
 #### Prepared Spells of Level 1+
 
-You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Bard spell list. Charm Person, Color Spray, Dissonant Whispers, and Healing Word are recommended.
+You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Bard spell list. [:spell-level-1: Charm Person], [:spell-level-1: Color Spray], [:spell-level-1: Dissonant Whispers], and [:spell-level-1: Healing Word] are recommended.
 
 The number of spells on your list increases as you gain Bard levels, as shown in the Prepared Spells column of the Bard Features table. Whenever that number increases, choose additional spells from the Bard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Bard, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
 If another Bard feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Bard spells for you.
+
+[:spell-level-1: Charm Person]: ../../spells/description/core/level-1.md#charm-person
+[:spell-level-1: Color Spray]: ../../spells/description/core/level-1.md#charm-person
+[:spell-level-1: Dissonant Whispers]: ../../spells/description/core/level-1.md#dissonant-whispers
+[:spell-level-1: Healing Word]: ../../spells/description/core/level-1.md#healing-word
 
 #### Changing Your Prepared Spells
 
@@ -171,6 +181,9 @@ You gain an [Epic Boon feat](../../option/feat/feat-boon.md) or another feat of 
 
 ### Level 20: Words of Creation
 
-You have mastered two of the Words of Creation: the words of life and death. You therefore always have the *Power Word Heal* and *Power Word Kill* spells prepared. When you cast either spell, you can target a second creature with it if that creature is within 10 feet of the first target.
+You have mastered two of the Words of Creation: the words of life and death. You therefore always have the [:spell-level-9: Power Word Heal] and [:spell-level-9: Power Word Kill] spells prepared. When you cast either spell, you can target a second creature with it if that creature is within 10 feet of the first target.
+
+[:spell-level-9: Power Word Heal]: ../../spells/description/core/level-9.md#power-word-heal
+[:spell-level-9: Power Word Kill]: ../../spells/description/core/level-9.md#power-word-kill
 
 --8<-- "includes/snippets/skills.md"

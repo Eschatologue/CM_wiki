@@ -19,7 +19,7 @@ title: Paladin (Class)
 | **Skill Proficiencies** | Choose 2: Athletics, Insight, Intimidation, Medicine, Persuasion, or Religion |
 | **Weapon Proficiencies** | Simple weapons and Martial weapons |
 | **Armour Training** | Light, Medium, and Heavy armour and Shields |
-| **Starting Equipment** | Choose A or B: (A) Chain Mail, Shield, Longsword, 6 Javelins, Holy Symbol, Priest's Pack, and 9 GP, or (B) 150 GP |
+| **Starting Equipment** | Choose A or B: <br>**(A)** Chain Mail, Shield, Longsword, 6 Javelins, Holy Symbol, Priest's Pack, and 9 GP, or <br>**(B)** 150 GP |
 
 Paladins are united by their oaths to stand against the forces of annihilation and corruption. Whether sworn before a god's altar, in a sacred glade before nature spirits and fey beings, or in a moment of desperation and grief with the dead as the only witnesses, a Paladin's oath is a powerful bond. It is a source of power that turns a devout warrior into a blessed champion.
 

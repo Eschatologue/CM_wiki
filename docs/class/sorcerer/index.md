@@ -19,7 +19,7 @@ title: Sorcerer (Class)
 | **Skill Proficiencies** | Choose 2: Arcana, Deception, Insight, Intimidation, Persuasion, or Religion |
 | **Weapon Proficiencies** | Simple weapons |
 | **Armour Training** | None |
-| **Starting Equipment** | Choose A or B: (A) Spear, 2 Daggers, Arcane Focus (crystal), Dungeoneer's Pack, and 28 GP; or (B) 50 GP |
+| **Starting Equipment** | Choose A or B: <br>**(A)** Spear, 2 Daggers, Arcane Focus (crystal), Dungeoneer's Pack, and 28 GP; or <br>**(B)** 50 GP |
 
 
 Sorcerers wield innate magic that is stamped into their being. Some Sorcerers can't name the origin of their power, while others trace it to strange events in their personal or family history. The touch of a dragon, the blessing of a dryad at a baby's birth, or the strike of lightning from a clear sky might spark a Sorcerer's gift. So too might the gift of a deity, exposure to the strange magic of another plane of existence, or a glimpse into the inner workings of reality. Whatever the origin, the result is an indelible mark on the mortal Sorcerer, a churning magic that can even be passed down through generations. 

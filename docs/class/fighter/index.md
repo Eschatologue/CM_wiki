@@ -19,7 +19,7 @@ title: Fighter (Class)
 | **Skill Proficiencies** | Choose 2: Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Persuasion, Perception, or Survival |
 | **Weapon Proficiencies** | Simple and Martial weapons |
 | **Armour Training** | Light, Medium, and Heavy armour and Shields |
-| **Starting Equipment** | Choose A, B, or C: (A) Chain Mail, Greatsword, Flail, 8 Javelins, Dungeoneer's Pack, and 4 GP; (B) Studded Leather Armour, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Dungeoneer's Pack, and 11 GP; or (C) 155 GP |
+| **Starting Equipment** | Choose A, B, or C: <br>**(A)** Chain Mail, Greatsword, Flail, 8 Javelins, Dungeoneer's Pack, and 40 SP; <br>**(B)** Studded Leather Armour, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Dungeoneer's Pack, and 110 SP; or <br>**(C)** 1.550 SP |
 
 Fighters rule many battlefields. Questing knights, royal champions, elite soldiers, and hardened mercenaries—as Fighters, they all share an unparalleled prowess with weapons and armour. And they are well acquainted with death, both meting it out and staring it defiantly in the face.
 

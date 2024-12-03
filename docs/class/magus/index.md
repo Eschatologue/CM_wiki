@@ -20,7 +20,7 @@ status: homebrew
 | **Skill Proficiencies** | Choose 2: Acrobatics, Arcana, Athletics, History, Investigation, Nature, or Performance. |
 | **Weapon Proficiencies** | Simple and Martial weapons |
 | **Armour Training**| Light and Medium armour and Shields |
-| **Starting Equipment** | Choose A or B: (A) Studded Leather Armour, Scimitar, Light Crossbow, 20 Bolts, Bolt Case, Arcane Focus, Dungeoneer's Pack, and 7 GP; or (B) 100 GP |
+| **Starting Equipment** | Choose A or B: <br>**(A)** Studded Leather Armour, Scimitar, Light Crossbow, 20 Bolts, Bolt Case, Arcane Focus, Dungeoneer's Pack, and 7 GP; or <br>**(B)** 100 GP |
 
 Feared and respected by many, those who wield both blade and spell are collectively known as Magi. Rather than commit their lives solely to the study of arcane lore or the perfection of martial prowess, the Magi walk a path between the two. They may never unleash the cataclysmic power of an archmage nor rival the raw skill of a seasoned swordmaster, but a Magus commands the art of blending magic with steel, forging a deadly and elegant form of arcane combat known only to their Order.
 

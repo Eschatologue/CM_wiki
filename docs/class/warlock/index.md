@@ -19,7 +19,7 @@ title: Warlock (Class)
 | **Skill Proficiencies** | Choose 2: Arcana, Deception, History, Intimidation, Investigation, Nature, or Religion |
 | **Weapon Proficiencies** | Simple weapons |
 | **Armour Training** | Light armo |
-| **Starting Equipment** | Choose A or B: (A) Leather Armour, Sickle, 2 Daggers, Arcane Focus (orb), Book (occult lore), Scholar's Pack, and 15 GP; or (B) 100 GP |
+| **Starting Equipment** | Choose A or B: <br>**(A)** Leather Armour, Sickle, 2 Daggers, Arcane Focus (orb), Book (occult lore), Scholar's Pack, and 15 GP; or <br>**(B)** 100 GP |
 
 Warlocks quest for knowledge that lies hidden in the fabric of the multiverse. They often begin their search for magical power by delving into tomes of forbidden lore, dabbling in invocations meant to attract the power of extraplanar beings, or seeking places of power where the influence of these beings can be felt. In no time, each Warlock is drawn into a binding pact with a powerful patron. Drawing on the ancient knowledge of beings such as angels, archfey, demons, devils, hags, and alien entities of the Far Realm, Warlocks piece together arcane secrets to bolster their own power.
 

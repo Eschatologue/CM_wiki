@@ -15,9 +15,9 @@ title: Barbarian (Class)
 | --- | --- |
 | **Primary Ability** | :ability-str: Strength |
 | **Hit Point Die** | D12 per Barbarian level |
-| **HP at Level 1:** 12 + Con. modifier. |
-| **HP per Barbarian Level:** 7 + your Con. modifier |
-| **Saving Throw Proficiencies** | Strength and Constitution |
+| **HP at Level 1** | 12 + :ability-cons: Con. modifier. |
+| **HP per Barbarian Level** | 7 + :ability-cons: Con. modifier |
+| **Saving Throw Proficiencies** | :ability-str: Strength and :ability-cons: Constitution |
 | **Skill Proficiencies** | Choose 2: Animal Handling, Athletics, Intimidation, Nature, Perception, or Survival |
 | **Weapon Proficiencies** | Simple and Martial weapons |
 | **Armour Training** | Light and Medium armour and Shields |
@@ -71,7 +71,6 @@ As a Barbarian, you gain the following class features when you reach the specifi
 | 19 | +6 | Epic Boon | 6 | +4 | 4 |
 | 20 | +6 | Primal Champion | 6 | +4 | 4 |
 
-
 ### Level 1: Rage
 
 You can imbue yourself with a primal power called Rage, a force that grants you extraordinary might and resilience. You can enter it as a :rsc-b: Bonus Action if you aren't wearing Heavy armour.
@@ -112,7 +111,7 @@ You can use a Shield and still gain these benefit.
 
 Your training with weapons allows you to use the mastery properties of two kinds of Simple or Martial Melee weapons of your choice, such as Greataxes and Handaxes. Whenever you finish a Long Rest, you can do *one* of the following:
 
-***Change Weapon***  
+_**Change Weapon**_  
 You can practice weapon drills and change *one* of those weapon choices
 
 _**Replace Weapon Mastery**^CM^_   
@@ -154,7 +153,7 @@ Your :rsc-speed: Speed increases by 10 feet while you aren't wearing Heavy armou
 
 ### Level 7: Feral Instinct
 
-Your instincts are so honed that you have :d20-adv: **Advantage** on :d20-initiative: Initiative rolls.
+Your instincts are so honed that you have :d20-adv: **Advantage** on Initiative rolls.
 
 ### Level 7: Instinctive Pounce
 

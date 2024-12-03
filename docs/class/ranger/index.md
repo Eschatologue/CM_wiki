@@ -19,7 +19,7 @@ title: Ranger (Class)
 | **Skill Proficiencies** | Choose 3: Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, or Survival |
 | **Weapon Proficiencies** | Simple and Martial weapons |
 | **Armour Training** | Light and Medium armour and Shields |
-| **Starting Equipment** | Choose A or B: (A) Studded Leather Armour, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Druidic Focus (sprig of mistletoe), Explorer's Pack, and 7 GP; or (B) 150 GP |
+| **Starting Equipment** | Choose A or B: <br>**(A)** Studded Leather Armour, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Druidic Focus (sprig of mistletoe), Explorer's Pack, and 7 GP; or <br>**(B)** 150 GP |
 
 Far from the bustle of cities, amid the trees of trackless forests and across wide plains, Rangers keep their unending watch.
 
