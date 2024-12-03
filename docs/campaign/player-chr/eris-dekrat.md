@@ -20,14 +20,14 @@ Choose one of the following skills: Arcana, History, Investigation, Nature, or R
 
 *You've learned how to break the normal rules and conventions of casting spells, bending them to your will and channeling them through your weapon strikes*
 
-Once per turn when you make an attack that adds your :class-phb24-rogue: ^^Sneak Attack^^ damage, you can simultaneously cast a spell to be channeled through it.
+Once per turn when you hit an attack that adds your :class-phb24-rogue: ^^Sneak Attack^^ damage, you can cast a spell to be channeled through it.
 
 To be channeled this way, the spell must met the following requirements:
 
 - The Arts & Swash spell must have a casting time of an :rsc-a: **Action**.
 - The Arts & Swash spell must require only a single spell *attack roll* or force its target to make a *saving throw*.
 
-On a hit, the spell takes effect immediately in addition of the normal effects and damage from your weapon attack, under the rules below:
+The spell takes effect immediately in addition of the normal effects and damage from your weapon attack, under the rules below:
 
 :aoe-rad: ***Area of Effect***  
 If the spell targets an area greater than a 10-foot Cube, it takes effect as a 15-foot :aoe-cone: Cone originating from you, which must include your target, or it is contained to only affect the target of your attack (your choice on hit). Using a ranged weapon, your spell is contained to only affect the target of your attack.
