@@ -634,17 +634,17 @@
   margin-bottom: 0.45rem;
 }
 .md-typeset h2 {
-  font-size: 1.05rem;
+  font-size: 1.12rem;
   font-weight: 450;
-  letter-spacing: 0.0315rem;
+  letter-spacing: 0.0336rem;
   border-bottom: 0.125rem solid var(--md-default-wht--025);
   margin: 0.9rem 0 0.2rem 0;
   padding-bottom: 0.1rem;
 }
 .md-typeset h3 {
-  font-size: 0.91rem;
+  font-size: 0.98rem;
   font-weight: 450;
-  letter-spacing: 0.0364rem;
+  letter-spacing: 0.0392rem;
   margin: 0.6rem 0 0.2rem 0;
   border-bottom: 0.1175rem dotted var(--md-default-wht--025);
   padding-bottom: 0.1rem;
