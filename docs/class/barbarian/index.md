@@ -13,13 +13,15 @@ title: Barbarian (Class)
 
 | Trait | Detail |
 | --- | --- |
-| **Primary Ability** | Strength |
-| **Hit Point Die** | D12 per Barbarian level <br>**HP at Level 1:** 12 + CON modifier. <br>**HP per Barbarian Level:** 7 + your Con. modifier |
+| **Primary Ability** | :ability-str: Strength |
+| **Hit Point Die** | D12 per Barbarian level |
+| **HP at Level 1:** 12 + Con. modifier. |
+| **HP per Barbarian Level:** 7 + your Con. modifier |
 | **Saving Throw Proficiencies** | Strength and Constitution |
 | **Skill Proficiencies** | Choose 2: Animal Handling, Athletics, Intimidation, Nature, Perception, or Survival |
 | **Weapon Proficiencies** | Simple and Martial weapons |
 | **Armour Training** | Light and Medium armour and Shields |
-| **Starting Equipment** | Choose A or B: <br>**(A)** Greataxe, 4 Handaxes, Explorer's Pack, and 150 SP; or <br>**(B)** 750 SP   |
+| **Starting Equipment** | Choose **A** or **B**: <br>**(A)** Greataxe, 4 Handaxes, Explorer's Pack, and 150 SP; or <br>**(B)** 750 SP   |
 
 Barbarians are mighty warriors who are powered by primal forces of the multiverse that manifest as a Rage. More than a mere emotion—and not limited to anger—this Rage is an incarnation of a predator's ferocity, a storm's fury, and a sea's turmoil.
 
@@ -46,28 +48,28 @@ As a Barbarian, you gain the following class features when you reach the specifi
 
 ##### Barbarian Features
 
-| Level | PB | Class Features                           | Rages | Rage Damage | Weapon Mastery |
-| :---: | :-: | --------------------------------------- | :---: | :---------: | :------------: |
-|   1   | +2 | Rage, Unarmoured Defense, Weapon Mastery |   2   |     +2      |       2        |
-|   2   | +2 | Danger Sense, Reckless Attack            |   2   |     +2      |       2        |
-|   3   | +2 | Barbarian Subclass, Primal Knowledge     |   3   |     +2      |       2        |
-|   4   | +2 | Ability Score Improvement                |   3   |     +2      |       3        |
-|   5   | +3 | Extra Attack, Fast Movement              |   3   |     +2      |       3        |
-|   6   | +3 | Subclass feature                         |   4   |     +2      |       3        |
-|   7   | +3 | Feral Instinct, Instinctive Pounce       |   4   |     +2      |       3        |
-|   8   | +3 | Ability Score Improvement                |   4   |     +2      |       3        |
-|   9   | +4 | Brutal Strike                            |   4   |     +3      |       3        |
-|  10   | +4 | Subclass feature                         |   4   |     +3      |       4        |
-|  11   | +4 | Relentless Rage                          |   4   |     +3      |       4        |
-|  12   | +4 | Ability Score Improvement                |   5   |     +3      |       4        |
-|  13   | +5 | Improved Brutal Strike                   |   5   |     +3      |       4        |
-|  14   | +5 | Subclass feature                         |   5   |     +3      |       4        |
-|  15   | +5 | Persistent Rage                          |   5   |     +3      |       4        |
-|  16   | +5 | Ability Score Improvement                |   5   |     +4      |       4        |
-|  17   | +6 | Improved Brutal Strike                   |   6   |     +4      |       4        |
-|  18   | +6 | Indomitable Might                        |   6   |     +4      |       4        |
-|  19   | +6 | Epic Boon                                |   6   |     +4      |       4        |
-|  20   | +6 | Primal Champion                          |   6   |     +4      |       4        |
+| Level | PB | Class Features | Rages | Rage Damage | Weapon Mastery |
+|:-:|:-:|---|:-:|:-:|:-:|
+| 1 | +2 | Rage, Unarmoured Defense, Weapon Mastery | 2 | +2 | 2 |
+| 2 | +2 | Danger Sense, Reckless Attack | 2 | +2 | 2 |
+| 3 | +2 | Barbarian Subclass, Primal Knowledge | 3 | +2 | 2 |
+| 4 | +2 | Ability Score Improvement | 3 | +2 | 3 |
+| 5 | +3 | Extra Attack, Fast Movement | 3 | +2 | 3 |
+| 6 | +3 | Subclass feature | 4 | +2 | 3 |
+| 7 | +3 | Feral Instinct, Instinctive Pounce | 4 | +2 | 3 |
+| 8 | +3 | Ability Score Improvement | 4 | +2 | 3 |
+| 9 | +4 | Brutal Strike | 4 | +3 | 3 |
+| 10 | +4 | Subclass feature | 4 | +3 | 4 |
+| 11 | +4 | Relentless Rage | 4 | +3 | 4 |
+| 12 | +4 | Ability Score Improvement | 5 | +3 | 4 |
+| 13 | +5 | Improved Brutal Strike | 5 | +3 | 4 |
+| 14 | +5 | Subclass feature | 5 | +3 | 4 |
+| 15 | +5 | Persistent Rage | 5 | +3 | 4 |
+| 16 | +5 | Ability Score Improvement | 5 | +4 | 4 |
+| 17 | +6 | Improved Brutal Strike | 6 | +4 | 4 |
+| 18 | +6 | Indomitable Might | 6 | +4 | 4 |
+| 19 | +6 | Epic Boon | 6 | +4 | 4 |
+| 20 | +6 | Primal Champion | 6 | +4 | 4 |
 
 
 ### Level 1: Rage
@@ -88,8 +90,8 @@ While active, your Rage follows the rules below.
 
 ***Duration.*** The Rage lasts until the end of your next turn, and it ends early if you don Heavy armour or have the Incapacitated condition. If your Rage is still active on your next turn, you can extend the Rage for another round by doing one of the following:
 
-- Make an attack roll against an enemy.
-- Force an enemy to make a :d20-save: saving throw.
+- Make an ^^attack roll^^ against an enemy.
+- Force an enemy to make a ^^saving throw^^.
 - Take a :rsc-b: Bonus Action to extend your Rage.
 
 Each time the Rage is extended, it lasts until the end of your next turn. You can maintain a Rage for up to 10 minutes.
@@ -148,7 +150,7 @@ You can attack twice instead of once whenever you take the Attack action on your
 
 ### Level 5: Fast Movement
 
-Your speed increases by 10 feet while you aren't wearing Heavy armour.
+Your :rsc-speed: Speed increases by 10 feet while you aren't wearing Heavy armour.
 
 ### Level 7: Feral Instinct
 
@@ -184,7 +186,7 @@ You have honed new ways to attack furiously. The following effects are now among
 
 ### Level 15: Persistent Rage
 
-When you roll :d20-initiative: Initiative, you can regain all expended uses of Rage. After you regain uses of Rage in this way, you can't do so again until you finish a Long Rest.
+When you roll Initiative, you can regain all expended uses of Rage. After you regain uses of Rage in this way, you can't do so again until you finish a Long Rest.
 
 In addition, your Rage is so fierce that it now lasts for 10 minutes without you needing to do anything to extend it from round to round. Your Rage ends early if you have the Unconscious condition (not just the Incapacitated condition) or don Heavy armour.
 
