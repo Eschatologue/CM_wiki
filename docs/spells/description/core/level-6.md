@@ -1,5 +1,5 @@
 ---
-icon: spell/level-6
+icon: spell/lv6
 search:
   boost: 1.2
 ---
