@@ -39,15 +39,15 @@ When you reach a Sorcerer level specified in the Voidwielder Spells table, you t
 
 Your connection to the Void allows you to undo arcane magic, giving your the following benefit:
 
-:spell-level-3: ***Dispel Magic.*** When you cast *Dispel Magic* and you need to make a spellcasting ability check to determine the result, you can treat a roll of 9 or lower as a 10.
+:spell-lv3: ***Dispel Magic.*** When you cast *Dispel Magic* and you need to make a spellcasting ability check to determine the result, you can treat a roll of 9 or lower as a 10.
 
-:spell-level-3: ***Counterspell.*** When you cast *Counterspell* you can subtract the result of the target's save by a number equal to your Charisma modifier (minimum of +1).
+:spell-lv3: ***Counterspell.*** When you cast *Counterspell* you can subtract the result of the target's save by a number equal to your Charisma modifier (minimum of +1).
 
 Once you use one of this feature, you can't use it again until you finish a Short Rest unless you spend 1 Sorcery Points (no action required) to restore your use of it.
 
 ### Level 14: Ray of Annihilation
 
-Your connection to the Void grants you the power to unmake creation itself. You learn the :spell-level-6 *Disintegrate* spell and you can cast it at its lowest level without expending a spell slot.
+Your connection to the Void grants you the power to unmake creation itself. You learn the :spell-lv6 *Disintegrate* spell and you can cast it at its lowest level without expending a spell slot.
 
 Once you use one of this feature, you can't use it again until you finish a Short Rest unless you spend 7 Sorcery Points (no action required) to restore your use of it.
 

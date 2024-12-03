@@ -33,7 +33,7 @@ You have learned to cast spells. The information below details how you use those
 
 #### Cantrips
 
-You know three cantrips: [:spell-level-0: Mage Hand] and two other cantrips of your choice from the [Wizard spell list]. Whenever you gain a Rogue level, you can replace one of your cantrips, except [:spell-level-0: Mage Hand], with another cantrip of your choice from the [Wizard spell list].
+You know three cantrips: [:spell-lv0: Mage Hand] and two other cantrips of your choice from the [Wizard spell list]. Whenever you gain a Rogue level, you can replace one of your cantrips, except [:spell-lv0: Mage Hand], with another cantrip of your choice from the [Wizard spell list].
 
 When you reach level 10 in this class, you learn another Wizard cantrip of your choice.
 
@@ -63,7 +63,7 @@ You can use an Arcane Focus as a Spellcasting Focus for the spells you prepare f
 
 ### Level 3: Mage Hand Legerdemain
 
-When you cast [:spell-level-0: Mage Hand], you can make the spectral hand invisible. You can control the hand as a :rsc-b: Bonus Action, instead of an action, and through it, you can use Thieves' Tools and make Dexterity (Sleight of Hand) checks.
+When you cast [:spell-lv0: Mage Hand], you can make the spectral hand invisible. You can control the hand as a :rsc-b: Bonus Action, instead of an action, and through it, you can use Thieves' Tools and make Dexterity (Sleight of Hand) checks.
 
 ### Level 9: Magical Ambush
 
@@ -81,5 +81,5 @@ Immediately after a creature casts a spell that targets you or includes you in i
 
 Once you steal a spell with this feature, you can't use this feature again until you finish a Long Rest.
 
-[:spell-level-0: Mage Hand]: ../../spells/description/core/cantrip.md#mage-hand
+[:spell-lv0: Mage Hand]: ../../spells/description/core/cantrip.md#mage-hand
 [Wizard spell list]: ../../spells/class-specific/wizard.md

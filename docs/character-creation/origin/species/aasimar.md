@@ -28,7 +28,7 @@ As a :rsc-a: **Magic** action, you touch a creature and roll a number of :die-d4
 
 ### Light Bearer
 
-You know the :spell-level-0: *Light* cantrip. Charisma is your spellcasting ability for it.
+You know the :spell-lv0: *Light* cantrip. Charisma is your spellcasting ability for it.
 
 ### Celestial Revelation
 

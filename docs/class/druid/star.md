@@ -19,11 +19,11 @@ You've created a star chart as part of your heavenly studies. It is a Tiny objec
 
 While holding this map, you have these benefits:
 
-- You know the [:spell-level-0: Guidance]* cantrip and [:spell-level-1: Guiding Bolt] spell prepared. They counts as a Druid spell for you, and it doesn't count against the number of spells you can have prepared.
-- You can cast [:spell-level-1: Guiding Bolt] without expending a spell slot. You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
+- You know the [:spell-lv0: Guidance]* cantrip and [:spell-lv1: Guiding Bolt] spell prepared. They counts as a Druid spell for you, and it doesn't count against the number of spells you can have prepared.
+- You can cast [:spell-lv1: Guiding Bolt] without expending a spell slot. You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
 
-[:spell-level-0: Guidance]: ../../spells/description/core/cantrip.md#guidance
-[:spell-level-1: Guiding Bolt]: ../../spells/description/core/level-1.md#guiding-bolt
+[:spell-lv0: Guidance]: ../../spells/description/core/cantrip.md#guidance
+[:spell-lv1: Guiding Bolt]: ../../spells/description/core/level-1.md#guiding-bolt
   
 If you lose the map, you can perform a 1-hour ceremony to magically create a replacement. This ceremony can be performed during a Short Rest or Long Rest, and it destroys the previous map.
 

@@ -17,7 +17,7 @@ Also, when you see a creature casting a spell with Verbal, Somatic, or Material 
 
 ### Level 3: Spellsight
 
-You have learned to see the arcane potential of others. When you mark a creature using :spell-level-1: *Hunter's Mark*, you instantly learn its spellcasting ability (if it has one) and the highest level spell that it has the ability to cast. If it is hidden from divination magic, such as by :spell-level-3: *Nondetection*, this feature fails.
+You have learned to see the arcane potential of others. When you mark a creature using :spell-lv1: *Hunter's Mark*, you instantly learn its spellcasting ability (if it has one) and the highest level spell that it has the ability to cast. If it is hidden from divination magic, such as by :spell-lv3: *Nondetection*, this feature fails.
 
 ### Level 3: Spellbreaker Magic
 
@@ -43,11 +43,11 @@ Moreover, whenever you are subjected you to a spell or magical effect that allow
 
 You are an unparalleled hunter of mages. Whenever you hit a creature with a weapon attack, you can expend a level 1+ spell slot to deal bonus :dmg-force: Force damage to your target equal to 1d8 per level of the spell slot you expended. 
 
-Moreover, when you cast *[:spell-level-3: Dispel Magic]* or *[:spell-level-3: Counterspell]*, it gains the following effects.
+Moreover, when you cast *[:spell-lv3: Dispel Magic]* or *[:spell-lv3: Counterspell]*, it gains the following effects.
 
-:spell-level-3: ***Dispel Magic.*** When you cast *[:spell-level-3: Dispel Magic]* and you need to make a spellcasting ability check to determine the result, you can treat a roll of 9 or lower as a 10. 
+:spell-lv3: ***Dispel Magic.*** When you cast *[:spell-lv3: Dispel Magic]* and you need to make a spellcasting ability check to determine the result, you can treat a roll of 9 or lower as a 10. 
 
-:spell-level-3: ***Counterspell.*** When you cast *[:spell-level-3: Counterspell]*, your target has :d20-disadv: **Disadvantage** on the :d20-save: saving throw.
+:spell-lv3: ***Counterspell.*** When you cast *[:spell-lv3: Counterspell]*, your target has :d20-disadv: **Disadvantage** on the :d20-save: saving throw.
 
 ### Level 15: Mantle of the Master
 
@@ -55,8 +55,8 @@ Your Spellbreaker training has reached its pinnacle. You are resistant to damage
 
 ### Level 15: Reflect Spell
 
-Your training allows you to strike spells from the weave. You can cast *[:spell-level-1: Absorb Elements]* at will. After you cast the spell, if your next weapon attack—melee or ranged—is against the creature whose spell or damage you absorbed, the bonus damage from the spell is treated as its maximum possible amount.
+Your training allows you to strike spells from the weave. You can cast *[:spell-lv1: Absorb Elements]* at will. After you cast the spell, if your next weapon attack—melee or ranged—is against the creature whose spell or damage you absorbed, the bonus damage from the spell is treated as its maximum possible amount.
 
-[:spell-level-1: Absorb Elements]: ../../spells/description/core/level-1.md#absorb-elements
-[:spell-level-3: Dispel Magic]: ../../spells/description/core/level-3.md#dispel-magic
-[:spell-level-3: Counterspell]: ../../spells/description/core/level-3.md#counterspell
+[:spell-lv1: Absorb Elements]: ../../spells/description/core/level-1.md#absorb-elements
+[:spell-lv3: Dispel Magic]: ../../spells/description/core/level-3.md#dispel-magic
+[:spell-lv3: Counterspell]: ../../spells/description/core/level-3.md#counterspell

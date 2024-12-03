@@ -73,7 +73,7 @@ Whenever you finish a Short Rest, you can regain one expended spell slot of your
 
 ### Level 1: Arcane Tinkerer 
 
-Your knack for tinkering has taught you to store minor magical effects in mundane objects. You know the [:spell-level-0: Magical Tinkering] cantrip, which doesn't count against the number of cantrips you know.
+Your knack for tinkering has taught you to store minor magical effects in mundane objects. You know the [:spell-lv0: Magical Tinkering] cantrip, which doesn't count against the number of cantrips you know.
 
 Further, whenever you make an ability check with Tinker's Tools, you can use your Intelligence as the ability.
 
@@ -85,7 +85,7 @@ You cast spells by channeling the magic through objects. To observers, you don't
 
 #### Cantrips 
 
-You know two cantrips of your choice from the [Artificer spell list]. [:spell-level-0: Fire Bolt] and [:spell-level-0: Mending] are recommended.
+You know two cantrips of your choice from the [Artificer spell list]. [:spell-lv0: Fire Bolt] and [:spell-lv0: Mending] are recommended.
 
 Whenever you gain an Artificer level, you can replace one of your cantrips with another cantrip of your choice from the [Artificer spell list].
 
@@ -95,7 +95,7 @@ The Artificer Features table shows how many spell slots you have to cast your le
 
 #### Prepared Spells of Level 1+
 
-You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Artificer spells. [:spell-level-1: Faerie Fire] and [:spell-level-1: Identify] are recommended.
+You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Artificer spells. [:spell-lv1: Faerie Fire] and [:spell-lv1: Identify] are recommended.
 
 The number of spells on your list increases as you gain Artificer levels, as shown in the Prepared Spells column of the Artificer Features table. Whenever that number increases, choose additional Artificer spells until the number of spells on your list matches the number in the Artificer Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Artificer, your list of prepared spells can include six Artificer spells of level 1 or 2 in any combination.
 

@@ -32,7 +32,7 @@ The spell takes effect immediately in addition of the normal effects and damage 
 :aoe-rad: ***Area of Effect***  
 If the spell targets an area greater than a 10-foot Cube, it takes effect as a 15-foot :aoe-cone: Cone originating from you, which must include your target, or it is contained to only affect the target of your attack (your choice on hit). Using a ranged weapon, your spell is contained to only affect the target of your attack.
 
-:spell-level-0: ***Cantrips***  
+:spell-lv0: ***Cantrips***  
 The Cantrip does not deal damage. Instead, your weapon attack deals the damage type dealt by the cantrip, and applies the cantrip's additional effects, other than damage, on hit.
 
 :spell-concentration: ***Concentration***  

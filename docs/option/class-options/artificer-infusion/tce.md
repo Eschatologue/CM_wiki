@@ -59,7 +59,7 @@ The homunculus is friendly to you and your companions, and it obeys your command
 
 In combat, the homunculus shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a Bonus Action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the homunculus can take any action of its choice, not just Dodge.
 
-The homunculus regains 2d6 hit points if the [:spell-level-0: Mending](../../../spells/description/core/cantrip.md#mending) spell is cast on it. If you or the homunculus dies, it vanishes, leaving its heart in its space.
+The homunculus regains 2d6 hit points if the [:spell-lv0: Mending](../../../spells/description/core/cantrip.md#mending) spell is cast on it. If you or the homunculus dies, it vanishes, leaving its heart in its space.
 
 ??? note "Homonculus Servant"
 

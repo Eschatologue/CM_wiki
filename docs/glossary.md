@@ -897,7 +897,7 @@ In *Crown and Misery*, items are classified differently than in standard D&D. Wh
 
 ***Stock Configuration.*** An item is considered mundane only in its original, unmodified state (e.g., a standard longsword or basic chainmail). Once an item has been upgraded in any way—whether through craftsmanship, magical enhancement, or other means—it becomes a Special Item and is no longer considered mundane.
 
-***Interactions with Spells.*** Effects such as the *[:spell-level-2: Magic Weapon](./spells/description/core/level-2.md#magic-weapon)* spell, which targets non-magical weapons, do not work on Special Items. For example, a +1 Longsword is a Special Item, not a "magical" one in the mechanical sense, and cannot be affected by spells or abilities that specifically target non-magical weapons, even if its enhancement comes from superior craftsmanship or magical lore.
+***Interactions with Spells.*** Effects such as the [:spell-lv2: Magic Weapon](./spells/description/core/level-2.md#magic-weapon) spell, which targets non-magical weapons, do not work on Special Items. For example, a +1 Longsword is a Special Item, not a "magical" one in the mechanical sense, and cannot be affected by spells or abilities that specifically target non-magical weapons, even if its enhancement comes from superior craftsmanship or magical lore.
 
 ***Traits.*** Unlike standard D&D, Special Items do not automatically gain additional properties like ignoring Resistance (for weapons) or granting damage Resistance (for armour) unless explicitly stated in their description. These properties are only granted when the item’s description clearly outlines them.
 

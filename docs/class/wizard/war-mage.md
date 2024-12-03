@@ -27,11 +27,11 @@ Your keen ability to assess tactical situations allows you to act quickly in bat
 
 You can store magical energy within yourself to later empower your damaging spells. In its stored form, this energy is called a Power Surge.
 
-***Free Preparations.*** You add the :spell-level-3: *Counterspell* and :spell-level-3: *Dispel Magic* spells to your spellbook for free, if they weren't there already, and you always have them prepared.
+***Free Preparations.*** You add the :spell-lv3: *Counterspell* and :spell-lv3: *Dispel Magic* spells to your spellbook for free, if they weren't there already, and you always have them prepared.
 
 ***Number of Power Surges.*** You can store a maximum number of Power Surges equal to your Intelligence modifier (minimum of one). Whenever you finish a Long Rest, your number of Power Surges resets to one. If you end a Short Rest with no power surges, you gain one Power surge.
 
-***Gaining Power Surges.*** Whenever you successfully end a spell with :spell-level-3: *Dispel Magic* or :spell-level-3: *Counterspell*, you gain one Power Surge, as you steal magic from the spell you foiled. You also gain one Power Surge when you reduce a creature to 0 Hit Points with a Wizard spell that used a spell slot, but only once per casting. 
+***Gaining Power Surges.*** Whenever you successfully end a spell with :spell-lv3: *Dispel Magic* or :spell-lv3: *Counterspell*, you gain one Power Surge, as you steal magic from the spell you foiled. You also gain one Power Surge when you reduce a creature to 0 Hit Points with a Wizard spell that used a spell slot, but only once per casting. 
 
 ***Spell Empowerment.*** Once per turn when you deal damage to a creature or object with a Wizard spell, you can spend one Power Surge to deal extra :dmg-force: Force damage to that target. The extra damage equals your Wizard level.
 

@@ -22,15 +22,15 @@ Your tinkering with Arcane Armour ensures you always have certain spells ready. 
 
 | Artificer Level | Spells |
 |:-:|:--|
-| 3 | *Magic Missile*, *Thunderwave* |
-| 5 | *Mirror Image*, *Shatter* |
-| 9 | *Hypnotic Pattern*, *Lightning Bolt* |
-| 13 | *Fire Shield*, *Greater Invisibility* |
-| 17 | *Passwall*, *Wall of Force* |
+| 3 | [:spell-lv1: Magic Missile], [:spell-lv1: Thunderwave] |
+| 5 | [:spell-lv2: Mirror Image], [:spell-lv2: Shatter] |
+| 9 | [:spell-lv3: Hypnotic Pattern], [:spell-lv3: Lightning Bolt] |
+| 13 | [:spell-lv4: Fire Shield], [:spell-lv4: Greater Invisibility] |
+| 17 | [:spell-lv5: Passwall], [:spell-lv5: Wall of Force] |
 
 ### Level 3: Arcane Armour
 
-Your metallurgical pursuits have led to you making armour a conduit for your magic. As a Magic action, you can turn a suit of armour you are wearing into Arcane Armour, provided you have Smith's Tools in hand. The armour continues to be Arcane Armour until you don another suit of armour or you die.
+Your metallurgical pursuits have led to you making armour a conduit for your magic. As a :rsc-a: **Magic** action, you can turn a suit of armour you are wearing into Arcane Armour, provided you have Smith's Tools in hand. The armour continues to be Arcane Armour until you don another suit of armour or you die.
 
 You gain the following benefits while wearing this armour:
 
@@ -38,11 +38,11 @@ You gain the following benefits while wearing this armour:
 
 #### Spellcasting Focus
 
- You can use the Arcane Armour as a spellcasting focus for your Artificer spells.
+You can use the Arcane Armour as a spellcasting focus for your Artificer spells.
 
-***Second Skin.*** The armour attaches to you and can't be removed against your will. It also expands to cover your entire body, although you can retract or deploy the helmet as a :rsc-b: Bonus Action. The armour replaces any missing limbs, functioning identically to a limb it replaces.
+***Second Skin.*** The armour attaches to you and can't be removed against your will. It also expands to cover your entire body. You can retract or deploy the helmet as a :rsc-b: Bonus Action. The armour replaces any missing limbs, functioning identically to a limb it replaces.
 
-***Quick Don/Doff.*** You can doff or don the armour as an :rsc-a: **Action**.
+***Quick Don/Doff.*** You can doff or don the armour as an :rsc-a: Utilise action.
 
 ### Level 3: Armour Model
 
@@ -56,7 +56,7 @@ You can customize your Arcane Armour. When you do so, choose one of the followin
 
 You design your armour to be in the front line of conflict. It has the following features:
 
-***Thunder Gauntlets.*** Each of the armour's gauntlets counts as a Simple Melee weapon while you aren't holding anything in it, and it deals 1d8 Thunder damage on a hit. The gauntlets have the Push Mastery property, in which you can use.
+***Thunder Gauntlets.*** Each of the armour's gauntlets counts as a Simple Melee weapon while you aren't holding anything in it, and it deals 1d8 :dmg-thunder: Thunder damage on a hit. The gauntlets have the Push Mastery property, in which you can use.
 
 ***Distracting Pulse.*** When you hit a creature with a melee attack, it has Disadvantage on attack rolls against targets other than you until the start of your next turn, as the armour magically emits a distracting pulse when the creature attacks someone else.
 
@@ -64,7 +64,7 @@ You design your armour to be in the front line of conflict. It has the following
 
 You customize your armour for subtle undertakings. It has the following features:
 
-***Lightning Launcher***. A gemlike node appears on one of your armoured fists or on the chest (your choice). It counts as a Simple Ranged weapon, with a normal range of 90 feet and a long range of 300 feet, and it deals 1d6 Lightning damage on a hit. The Lightning Launcher has the Vex Mastery property.
+***Lightning Launcher***. A gemlike node appears on one of your armoured fists or on the chest (your choice). It counts as a Simple Ranged weapon, with a normal range of 90 feet and a long range of 270 feet, and it deals 1d6 :dmg-lightning: Lightning damage on a hit. The Lightning Launcher has the Vex Mastery property.
 
 ***Lightning Arc.*** Once per turn when you hit a creature with a ranged attack, you can deal an extra 1d6 Lightning damage to that target, as your armour arcs electricity between itself and the target.
 
@@ -90,10 +90,16 @@ Your Arcane Armour gains additional benefits based on its model, as shown below.
 
 #### Guardian
 
-When a Huge or smaller creature you can see ends its turn within 30 feet of you, you can use your Reaction to magically force it to make a Strength saving throw against your spell save DC. On a failed save, you pull the creature up to 25 feet directly to an unoccupied space. If you pull the target to a space within 5 feet of you, you can make a melee weapon attack against it as part of this reaction.
+When a Huge or smaller creature you can see ends its turn within 30 feet of you, you can use your :rsc-r: Reaction to magically force it to make a Strength saving throw against your Spell Save DC. On a failed save, you pull the creature up to 25 feet directly to an unoccupied space. If you pull the target to a space within 5 feet of you, you can make a melee weapon attack against it as part of this reaction.
 
-You can use this Reaction a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a Long Rest.
+You can use this Reaction a number of times equal to your Intelligence modifier, and you regain all expended uses of it when you finish a Long Rest.
 
 #### Infiltrator
 
-Any creature that takes lightning damage from your Lightning Launcher glimmers with magical light until the start of your next turn. The glimmering creature sheds dim light in a 5-foot radius, and it has Disadvantage on attack rolls against you, as the light jolts it if it attacks you. In addition, the next attack roll against it has advantage, and if that attack hits, the target takes an extra 1d6 lightning damage.
+Any creature that takes :dmg-light: Lightning damage from your Lightning Launcher glimmers with magical light until the start of your next turn. The glimmering creature sheds dim light in a 5-foot radius, and it has :d20-disadv: Disadvantage on attack rolls against you, as the light jolts it if it attacks you. In addition, the next attack roll against it has :d20-adv: Advantage, and if that attack hits, the target takes an extra 1d6 :dmg-lightning: Lightning damage.
+
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"

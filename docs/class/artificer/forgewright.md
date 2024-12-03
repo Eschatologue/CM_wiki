@@ -19,17 +19,19 @@ When you reach an Artificer level specified in the Forgewright Spells table, you
 
 | Artificer Level | Spell |
 |:-:|---|
-| 3 | *Compelled Duel*, *Zephyr Strike* |
-| 5 | *Foreign Ironwind*, *Misty Step* |
-| 9 | *Blinding Smite*, *Conjure Volley* |
-| 13 | *Fire Shield*, *Staggering Smite* |
-| 17 | *Banishing Smite*, *Destructive Wave* |
+| 3 | [:spell-lv1: Compelled Duel], [:spell-lv1: Zephyr Strike] |
+| 5 | [:spell-lv2: Foreign Ironwind]^*CM*^, [:spell-lv2: Misty Step] |
+| 9 | [:spell-lv3: Blinding Smite], [:spell-lv3: Conjure Volley] |
+| 13 | [:spell-lv4: Fire Shield], [:spell-lv4: Staggering Smite] |
+| 17 | [:spell-lv5: Banishing Smite], [:spell-lv5: Destructive Wave] |
+
+[:spell-lv2: Foreign Ironwind]: ../../spells/description/additional/homebrew/level-2.md#foreign-ironwind
 
 ### Level 3: Arcane Armament
 
 Your battlefield research has resulted in the invention of your signature Arcane Armament, which uses the following rules:
 
-***Forging the Armament.*** During a Long Rest, you can spend 1 hour using Smith's Tools to reforge one melee weapon that you are holding into an Arcane Armament. You can only have one Arcane Armament at a time, and forging another causes any previous Armaments to revert to their normal state. Your Arcane Armament gain the following traits in addition to its default trait in the [Arcane Armament table]. You can use your Intelligence, in place of Strength or Dexterity for its attack and damage rolls. 
+***Forging the Armament.*** During a Long Rest, you can spend 1 hour using Smith's Tools to reforge one melee weapon that you are holding into an Arcane Armament. You can only have one Arcane Armament at a time, and forging another causes any previous Armaments to revert to their normal state. Your Arcane Armament gain the following traits in addition to its default trait in the [Arcane Armament table](#arcane-armament). You can use your Intelligence, in place of Strength or Dexterity for its attack and damage rolls. 
 
 ##### Arcane Armament
 
@@ -65,3 +67,9 @@ The magic of your Arcane Armament empowers its strikes. Whenever you hit with an
 You have become a master Forgewright and extend the power of your Arcane Armament to others. As a Bonus Action, you can flood a number of weapons equal to your Intelligence modifier (minimum of 1) within 30 feet, one of which can be your Arcane Armament, with raw power. For 1 minute, these weapons deal a bonus 1d8 :dmg-force: Force damage on hit.
 
 Once you use this feature you must finish a Long Rest before you can use it again. If you have no uses left, you can expend a level 3+ spell slot to use it again.
+
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"

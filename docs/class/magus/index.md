@@ -141,7 +141,7 @@ If your attack misses, the spell fails and has no effect. On a hit, the spell ta
 :aoe-rad: ***Area of Effect***  
 If the spell targets an area greater than a 10-foot Cube, it takes effect as a 15-foot :aoe-cone: Cone originating from you, which must include your target, or it is contained to only affect the target of your attack (your choice on hit).
 
-:spell-level-0: ***Cantrips***  
+:spell-lv0: ***Cantrips***  
 The Cantrip does not deal damage. Instead, your weapon attack deals the damage type dealt by the cantrip, and applies the cantrip's additional effects, other than damage, on hit.
 
 :spell-concentration: ***Concentration***  
@@ -175,12 +175,12 @@ You can still only make one [Spellstrike] attack per turn.
 
 ### Level 5: Spellsight
 
-As a Magic action, you can awaken your senses to the presence of magic within 30 feet as if you had cast [:spell-level-1: Detect Magic]. While this sense is active, you can touch an object and gain knowledge as if you had cast [:spell-level-1: Identify]. This special sense requires your Concentration, and it lasts for 1 minute.
+As a Magic action, you can awaken your senses to the presence of magic within 30 feet as if you had cast [:spell-lv1: Detect Magic]. While this sense is active, you can touch an object and gain knowledge as if you had cast [:spell-lv1: Identify]. This special sense requires your Concentration, and it lasts for 1 minute.
 
 You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
-[:spell-level-1: Detect Magic]: ../../spells/description/core/level-1.md#detect-magic 
-[:spell-level-1: Identify]: ../../spells/description/core/level-1.md#identify 
+[:spell-lv1: Detect Magic]: ../../spells/description/core/level-1.md#detect-magic 
+[:spell-lv1: Identify]: ../../spells/description/core/level-1.md#identify 
 
 ### Level 6: Ethereal Jaunt
 

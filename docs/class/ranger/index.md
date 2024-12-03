@@ -108,14 +108,14 @@ The Ranger Features table shows how many spell slots you have to cast your level
 
 #### Prepared Spells of Level 1+
 
-You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Ranger spells. *[:spell-level-1: Cure Wounds]* and *[:spell-level-1: Ensnaring Strike]* are recommended.
+You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Ranger spells. *[:spell-lv1: Cure Wounds]* and *[:spell-lv1: Ensnaring Strike]* are recommended.
 
 The number of spells on your list increases as you gain Ranger levels, as shown in the Prepared Spells column of the Ranger Features table. Whenever that number increases, choose additional Ranger spells until the number of spells on your list matches the number in the Ranger Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Ranger, your list of prepared spells can include six Ranger spells of level 1 or 2 in any combination.
 
 If another Ranger feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Ranger spells for you.
 
-[:spell-level-1: Cure Wounds]: ../../spells/description/core/level-1.md#cure-wounds
-[:spell-level-1: Ensnaring Strike]: ../../spells/description/core/level-1.md#ensnaring-strike
+[:spell-lv1: Cure Wounds]: ../../spells/description/core/level-1.md#cure-wounds
+[:spell-lv1: Ensnaring Strike]: ../../spells/description/core/level-1.md#ensnaring-strike
 
 #### Changing Your Prepared Spells
 
@@ -155,7 +155,7 @@ Thanks to your travels, you gain the following benefits.
 
 You gain a Fighting Style feat of your choice (see chapter 5). Instead of choosing one of those feats, you can choose the option below.
 
-***Druidic Warrior.*** You learn two Druid cantrips of your choice (see the Druid class's section for a list of Druid spells). [:spell-level-0: Guidance](../../spells/description/core/cantrip.md#guidance) and [:spell-level-0: Starry Wisp](../../spells/description/core/cantrip.md#starry-wisp) are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
+***Druidic Warrior.*** You learn two Druid cantrips of your choice (see the Druid class's section for a list of Druid spells). [:spell-lv0: Guidance](../../spells/description/core/cantrip.md#guidance) and [:spell-lv0: Starry Wisp](../../spells/description/core/cantrip.md#starry-wisp) are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
 
 ### Level 3: Ranger Subclass
 

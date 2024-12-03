@@ -11,7 +11,7 @@ An Alchemist is an expert at combining reagents to produce mystical effects. Alc
 
 ### Level 3: Tool Proficiency
 
-When you adopt this specialization, you gain proficiency with alchemist's supplies. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.
+When you adopt this specialization, you gain proficiency with Alchemist's Supplies. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.
 
 ### Level 3: Alchemist Spells
 
@@ -19,11 +19,11 @@ You always have certain spells prepared after you reach particular levels in thi
 
 | Artificer Level | Spells |
 |:-:|:--|
-| 3 | [:spell-level-1: Healing Word], [:spell-level-1: Ray of Sickness] |
-| 5 | [:spell-level-2: Flaming Sphere], [:spell-level-2: Melf's Acid Arrow] |
-| 9 | [:spell-level-3: Gaseous Form], [:spell-level-3: Mass Healing Word] |
-| 13 | [:spell-level-4: Blight], [:spell-level-4: Death Ward] |
-| 17 | [:spell-level-5: Cloudkill], [:spell-level-5: Raise Dead] |
+| 3 | [:spell-lv1: Healing Word], [:spell-lv1: Ray of Sickness] |
+| 5 | [:spell-lv2: Flaming Sphere], [:spell-lv2: Melf's Acid Arrow] |
+| 9 | [:spell-lv3: Gaseous Form], [:spell-lv3: Mass Healing Word] |
+| 13 | [:spell-lv4: Blight], [:spell-lv4: Death Ward] |
+| 17 | [:spell-lv5: Cloudkill], [:spell-lv5: Raise Dead] |
 
 ### Level 3: Experimental Elixir
 
@@ -46,7 +46,7 @@ You have learned to produce magical potions called Experimental Elixirs, which s
 | 3 | *Resilience* | The drinker gains a +1 bonus to AC for 10 minutes. |
 | 4 | *Boldness* |  The drinker can roll a d4 and add the number rolled to every attack roll and saving throw they make for the next minute. |
 | 5 | *Flight* | The drinker gains a flying speed of 10 feet for 10 minutes. |
-| 6 | *Transformation* | The drinker's body is transformed as if by the [:spell-level-2: Alter Self] spell. The drinker determines the transformation caused by the spell, the effects of which last for 10 minutes. |
+| 6 | *Transformation* | The drinker's body is transformed as if by the [:spell-lv2: Alter Self] spell. The drinker determines the transformation caused by the spell, the effects of which last for 10 minutes. |
 
 ### Level 3: Alchemical Grenades
 
@@ -72,7 +72,7 @@ You can incorporate restorative reagents into some of your works:
 
 ***Fortifying Elixirs.*** Whenever a creature drinks an experimental elixir you created, the creature gains Temporary Hit Points equal to 2d6 + your Intelligence modifier (minimum of 1 Temporary Hit Point).
 
-***Lesser Restoration.*** You always have the [:spell-level-2: Lesser Restoration] spell prepared, and you cast it without expending a spell slot, provided you use Alchemist's Supplies as the spellcasting focus. You can do so a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+***Lesser Restoration.*** You always have the [:spell-lv2: Lesser Restoration] spell prepared, and you cast it without expending a spell slot, provided you use Alchemist's Supplies as the spellcasting focus. You can do so a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
 ### Level 15: Chemical Mastery
 
@@ -80,7 +80,7 @@ You have been exposed to so many chemicals that they pose little risk to you, an
 
 ***Chemical Resistance.*** You gain Resistance to Acid damage and Poison damage, and you have immunity to the Poisoned condition.
 
-***Mastered Alchemy.*** You can cast the [:spell-level-5: Greater Restoration] and [:spell-level-6: Tasha's Bubbling Cauldron] spells without expending a spell slot, without preparing the spell, and without material components, provided you use Alchemist's Supplies as the spellcasting focus. Once you cast either spell with this feature, you can't cast that spell with it again until you finish a Long Rest.
+***Mastered Alchemy.*** You can cast the [:spell-lv5: Greater Restoration] and [:spell-lv6: Tasha's Bubbling Cauldron] spells without expending a spell slot, without preparing the spell, and without material components, provided you use Alchemist's Supplies as the spellcasting focus. Once you cast either spell with this feature, you can't cast that spell with it again until you finish a Long Rest.
 
 --8<-- "includes/snippets/spells2/lv1.md"
 --8<-- "includes/snippets/spells2/lv2.md"

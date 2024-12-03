@@ -23,11 +23,11 @@ Your combat training as a Battle Smith ensures you always have certain spells re
 
 | Level | Spells |
 |:-:|:--|
-| 3 | *Heroism*, *Shield* |
-| 5 | *Aid*, *Warding Bond* |
-| 9 | *Aura of Vitality*, *Elemental Weapon* |
-| 13 | *Aura of Purity*, *Fire Shield* |
-| 17 | *Animate Objects*, *Mass Cure Wounds* |
+| 3 | [:spell-lv1: Heroism], [:spell-lv1: Shield] |
+| 5 | [:spell-lv2: Aid], [:spell-lv2: Warding Bond] |
+| 9 | [:spell-lv3: Aura of Vitality], [:spell-lv3: Elemental Weapon] |
+| 13 | [:spell-lv4: Aura of Purity], [:spell-lv4: Fire Shield] |
+| 17 | [:spell-lv5: Animate Objects], [:spell-lv5: Mass Cure Wounds] |
 
 ### Level 3: Battle Ready
 
@@ -35,7 +35,7 @@ Your combat training and your experiments with magic have paid off in two ways:
 
 ***Extra Proficiencies.*** You have proficiency with Martial weapons. 
 
-***Intelligent Attacks.*** When you make an attack with a magic weapon with which you have proficiency, you can choose to use your Intelligence modifier for the attack and damage rolls, instead of Strength or Dexterity. 
+***Intelligent Attacks.*** When you make an attack with a Magic weapon or a weapon that bears an Artificer Infusion with which you have proficiency, you can choose to use your Intelligence modifier for the attack and damage rolls, instead of Strength or Dexterity. 
 
 ### Level 3: Steel Defender
 
@@ -43,44 +43,44 @@ Your tinkering has borne you a companion, a steel defender. It's friendly to you
 
 ***The Defender in Combat.*** In combat, the Defender shares your Initiative count, but it takes its turn immediately after yours. It can move and use its Reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a Bonus Action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you have the Incapacitated condition, the Defender can take any action of its choice, not just Dodge.
 
-***Repairing or Replacing the Defender.*** If the Mending spell is cast on the Defender, it regains 2d6 Hit Points. If it has died within the last hour, you can use your Smith's Tools as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of level 1 or higher. The Steel Defender returns to life after 1 minute with all its Hit Points restored.
+***Repairing or Replacing the Defender.*** If the [:spell-lv0: Mending] spell is cast on the Defender, it regains 2d6 Hit Points. If it has died within the last hour, you can use your Smith's Tools as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of level 1 or higher. The Steel Defender returns to life after 1 minute with all its Hit Points restored.
 
 At the end of a Long Rest, you can create a new Steel Defender if you have Smith's Tools with you. If you already have a Defender from this feature, the first one immediately perishes. The Defender also perishes if you die.
 
-!!! note "Steel Defender"
+### Steel Defender
 
-    *Medium Construct*
+*Medium Construct*
 
-    **AC** 15 (natural armour)
-    **HP** 2 + your Intelligence modifier + five times your artificer level (the defender has a number of Hit Dice [d8s] equal to your artificer level)
-    **Speed** 40 ft.
+**AC** 15 (natural armour)  
+**HP** 2 + your Int. modifier + 5x your Artificer level  
+**Speed** 40 ft.  
 
-    |  |  |  |  |  |  |
-    |---|:-:|:-:|---|:-:|:-:|
-    |  | **MOD** | **SAVE** |  | **MOD** | **SAVE** |
-    | **STR** 14 | +2 | +2 | **INT** 4 | -3 | +0 |
-    | **DEX** 12 | +1 | +1 + PB | **WIS** 10 | +0 | +0 |
-    | **CON** 14 | +2 | +2 + PB | **CHA** 6 | -2 | -2 |
+:ability-str: **STR** 14 (+2) :d20-save: **Save** +2  
+:ability-dex: **DEX** 12 (+1) :d20-save: **Save** +1 + PB  
+:ability-cons: **CON** 14 (+2) :d20-save: **Save** +1 + PB  
+:ability-int: **INT** 4 (-3) :d20-save: **Save** -3  
+:ability-wis: **WIS** 10 (+0) :d20-save: **Save** +0  
+:ability-cha: **CHA** 6 (-2) :d20-save: **Save** -2  
 
-    **Senses** Darkvision 60 ft., Passive Perception 10 + (PB × 2)  
-    **Skills** Athletics +2 plus PB, Perception +0 plus PB × 2  
-    **Immunities** Poison, Charmed, Exhaustion, Poisoned  
-    **Languages** understands the languages you speak  
-    **Proficiency Bonus** equals your bonus  
+**Senses** Darkvision 60 ft., Passive Perception 10 + (PB x 2)  
+**Skills** Athletics +2 plus PB, Perception +0 plus PB x 2  
+**Immunities** Poison, Charmed, Exhaustion, Poisoned  
+**Languages** understands the languages you speak  
+**Proficiency Bonus** equals your bonus  
 
-    #### Traits
+#### Traits
 
-    ***Vigilant.*** The defender can't be surprised.  
+***Vigilant.*** The defender can't be surprised.  
 
-    #### Actions (Requires Your Bonus Action)
+#### Actions (Requires Your :rsc-b: Bonus Action)
 
-    ***Force-Empowered Rend.*** *Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target you can see. *Hit:* 1d8 + PB force damage.  
+***Force-Empowered Rend.*** *Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target you can see. *Hit:* 1d8 + PB force damage.  
 
-    ***Repair (3/Day).*** The magical mechanisms inside the defender restore 2d8 + PB hit points to itself or to one construct or object within 5 feet of it.  
+***Repair (3/Day).*** The magical mechanisms inside the defender restore 2d8 + PB hit points to itself or to one construct or object within 5 feet of it.  
 
-    #### Reactions
+#### Reactions
 
-    ***Deflect Attack.*** The defender imposes Disadvantage on the attack roll of one creature it can see that is within 5 feet of it, provided the attack roll is against a creature other than the defender.
+***Deflect Attack.*** The defender imposes :d20-disadv: Disadvantage on the attack roll of one creature it can see that is within 5 feet of it, provided the attack roll is against a creature other than the defender.
 
 ### Level 5: Extra Attack
 
@@ -92,7 +92,7 @@ In addition, you can cast one of your cantrip that has the casting time of an ac
 
 You've learned new ways to channel arcane energy to harm or heal. Once per turn when you hit a target with an attack, when a creature fails a save against your one of your spells, or your Steel Defender hits a target, you can channel magical energy through the strike to create one of the following effects:
 
-***Damaging Jolt.*** The target takes an extra 2d6 Force damage.
+***Damaging Jolt.*** The target takes an extra 2d6 :dmg-force: Force damage.
 
 ***Healing Jolt.*** Choose one creature or object you can see within 30 feet of the target. Healing energy flows into the chosen recipient, restoring 2d6 Hit Points to it.
 
@@ -108,4 +108,9 @@ Your Arcane Jolt and Steel Defender become more powerful:
 
 ***Forceful Deflect.*** Whenever your Steel Defender uses its Deflect Attack, the attacker takes Force damage equal to 1d4 + your Intelligence modifier.
 
-
+--8<-- "includes/snippets/spells2/lv0.md"
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"

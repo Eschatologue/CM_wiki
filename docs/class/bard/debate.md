@@ -30,7 +30,7 @@ Only one target can be in a debate at any given time, choosing a different targe
 
 Your unyielding arguments wear down even the most resolute minds, leaving them confused and vulnerable. 
 
-Targets that are under the effect of ^^Engaging Discourse^^ is also under the effect of the [:spell-level-4: Confusion](../../spells/description/core/level-4.md#confusion) spell.
+Targets that are under the effect of ^^Engaging Discourse^^ is also under the effect of the [:spell-lv4: Confusion](../../spells/description/core/level-4.md#confusion) spell.
 
 ### Level 14: Infallible Logic
 
