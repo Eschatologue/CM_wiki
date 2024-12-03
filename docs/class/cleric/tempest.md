@@ -19,10 +19,10 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 | Cleric Level | Prepared Spells |
 | :-: | --- |
-| 3 | *Fog Cloud*, *Gust of Wind*, *Shatter*, *Thunderwave* |
-| 5 | *Call Lightning,*, *Sleet Storm* |
-| 7 | *Control Water*, *Ice Storm* |
-| 9 | *Destructive Wave*, *Insect Plague* |
+| 3 | [:spell-lv1: Fog Cloud], [:spell-lv2: Gust of Wind], [:spell-lv2: Shatter], [:spell-lv1: Thunderwave] |
+| 5 | [:spell-lv3: Call Lightning], [:spell-lv3: Sleet Storm] |
+| 7 | [:spell-lv4: Control Water], [:spell-lv4: Ice Storm] |
+| 9 | [:spell-lv5: Destructive Wave], [:spell-lv5: Insect Plague] |
 
 ### Level 3: Wrath of the Storm
 
@@ -41,3 +41,9 @@ When you deal :dmg-lighting: Lightning or :dmg-thunder: Thunder damage to a Larg
 ### Level 17: Stormborn
 
 The winds of the tempest lift your form into the air. You have a Fly speed equal to your :rsc-speed: Speed.
+
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"

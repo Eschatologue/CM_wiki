@@ -19,10 +19,10 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 | Cleric Level | Prepared Spells |
 | :-: | --- |
-| 3 | *Heat Metal*, *Identify*, *Magic Weapon*, *Burning Hands* |
-| 5 | *Elemental Weapon*, *Protection from Energy* |
-| 7 | *Fabricate*, *Wall of Fire* |
-| 9 | *Animate Objects*, *Creation* |
+| 3 | [:spell-lv1: Burning Hands], [:spell-lv1: Identify], [:spell-lv2: Heat Metal], [:spell-lv2: Magic Weapon] |
+| 5 | [:spell-lv3: Elemental Weapon], [:spell-lv3: Protection from Energy] |
+| 7 | [:spell-lv4: Fabricate], [:spell-lv4: Wall of Fire] |
+| 9 | [:spell-lv5: Animate Objects], [:spell-lv5: Creation] |
 
 ### Level 3: Blessing of the Forge
 
@@ -43,3 +43,9 @@ Your mastery of the forge grants you special abilities. You have :dmg-res: Resis
 ### Level 17: Saint of Forge and Fire
 
 Your blessed affinity with fire and metal becomes more powerful. You have :dmg-imm: Immunity to :dmg-fire: Fire damage and while wearing metal armour, you have :dmg-res: Resistance to :dmg-blunt: Bludgeoning, :dmg-piercing: Piercing, and :dmg-slashing: Slashing damage.
+
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"

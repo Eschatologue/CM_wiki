@@ -22,11 +22,13 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells |
 |:-:|---|
-| 3 | Hellish Rebuke, Shackles of Pain^*CM*^ |
-| 5 | Crown of Madness, Darkness |
-| 9 | Bestow Curse, Summon Undead |
-| 13 | Blight, Confusion |
-| 17 | Contagion, Dominate Person |
+| 3 | [:spell-lv1: Hellish Rebuke], [:spell-lv3: Inflict Wounds] |
+| 5 | [:spell-lv2: Crown of Madness], [:spell-lv2: Darkness] |
+| 9 | [:spell-lv3: Bestow Curse], [:spell-lv3: Shackles of Pain]^*CM*^ |
+| 13 | [:spell-lv4: Blight], [:spell-lv4: Confusion] |
+| 17 | [:spell-lv5: Contagion], [:spell-lv5: Dominate Person] |
+
+[:spell-lv3: Shackles of Pain](../../spells/description/additional/homebrew/level-3.md#shackles-of-pain)
 
 ### Level 3: Corrupting Will
 
@@ -50,4 +52,8 @@ Unholy magic courses through you. You have Resistance to Bludgeoning, Piercing a
 
 Your connection to the unholy grants you a shroud of gloom. As a Bonus Action, you can surround yourself in gloom in a 30-foot Emanation. This Emanation lasts for 10 minutes. Bright light in this area becomes dim light. Whenever a creature hits another creature with a weapon attack while it is within this Emanation, you can choose to have that creature deal half damage. Once you use this feature, you cannot use it again until you finish a Long Rest, or you expend a level 5 spell slot to use it again.
 
-
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"

@@ -29,7 +29,7 @@ Your tinkering with Arcane Firearm ensures you always have certain spells ready.
 |:-:|:--|
 | 3 | [:spell-lv1: Chaos Bolt], [:spell-lv1: Guiding Bolt] |
 | 5 | [:spell-lv2: Melf's Acid Arrow], [:spell-lv2: Arcane Scorcher] |
-| 9 | [:spell-lv3: Conjure Volley], [:spell-lv3: Lightning Arrow] |
+| 9 | [:spell-lv3: Conjure Barrage], [:spell-lv3: Lightning Arrow] |
 | 13 | [:spell-lv4: Banishment], [:spell-lv4: Fire Shield] |
 | 17 | [:spell-lv5: Skill Empowerment], [:spell-lv5: Swift Quiver] |
 

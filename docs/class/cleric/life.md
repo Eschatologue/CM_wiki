@@ -18,12 +18,14 @@ When a spell you cast with a spell slot restores Hit Points to a creature, that 
 
 Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Life Domain Spells table, you thereafter always have the listed spells prepared.
 
+##### Life Domain Spells
+
 | Cleric Level | Prepared Spells |
 | :-: | --- |
-| 3 | *Aid*, *Bless*, *Cure Wounds*, *Lesser Restoration* |
-| 5 | *Mass Healing Word*, *Revivify* |
-| 7 | *Aura of Life*, *Death Ward* |
-| 9 | *Greater Restoration*, *Mass Cure Wounds* |
+| 3 | [:spell-lv2: Aid], [:spell-lv1: Bless], [:spell-lv1: Cure Wounds], [:spell-lv2: Lesser Restoration] |
+| 5 | [:spell-lv3: Mass Healing Word], [:spell-lv3: Revivify] |
+| 7 | [:spell-lv4: Aura of Life], [:spell-lv4: Death Ward] |
+| 9 | [:spell-lv5: Greater Restoration], [:spell-lv5: Mass Cure Wounds] |
 
 ### Level 3: Preserve Life
 
@@ -36,3 +38,9 @@ The healing spells you cast on others heal you as well. Immediately after you ca
 ### Level 17: Supreme Healing
 
 When you would normally roll one or more dice to restore Hit Points to a creature with a spell or Channel Divinity, don't roll those dice for the healing; instead use the highest number possible for each die. For example, instead of restoring 2d6 Hit Points to a creature with a spell, you restore 12.
+
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"

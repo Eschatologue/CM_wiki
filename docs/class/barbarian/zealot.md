@@ -14,7 +14,7 @@ You can channel divine power into your strikes. On each of your turns while your
 
 ### Level 3: Warrior of the Gods
 
-A divine entity helps ensure you can continue to fight. You have a pool of four :die-d12: **d12**s that you can spend to heal yourself. As a Bonus Action, you can expend dice from the pool, roll them, and regain a number of Hit Points equal to the roll's total.
+A divine entity helps ensure you can continue to fight. You have a pool of four :die-d12: d12s that you can spend to heal yourself. As a :rsc-b: Bonus Action, you can expend dice from the pool, roll them, and regain a number of Hit Points equal to the roll's total.
 
 Your pool regains all expended dice when you finish a Long Rest.
 
@@ -26,7 +26,7 @@ If you fail a saving throw while your Rage is active, you can reroll it, and you
 
 ### Level 10: Zealous Presence
 
-As a Bonus Action, you unleash a battle cry infused with divine energy. Up to ten other creatures of your choice within 60 feet of you gain Advantage on attack rolls and saving throws until the start of your next turn.
+As a :rsc-b: Bonus Action, you unleash a battle cry infused with divine energy. Up to ten other creatures of your choice within 60 feet of you gain Advantage on attack rolls and saving throws until the start of your next turn.
 
 Once you use this feature, you can't use it again until you finish a Long Rest. If you've run out of uses of this feature, you can expend a use of your Rage to activate Zealous Presence instead of Rage.
 
@@ -36,7 +36,7 @@ When you activate tyour Rage, you can assume the form of a divine warrior. This 
 
 ***Fly Speed.*** You have a Fly Speed equal to your Speed and can hover.
 
-***Resistance.*** You have Resistance to Necrotic, Psychic and Radiang damage
+***Resistance.*** You have :dmg-res: Resistance to :dmg-necrotic: Necrotic, :dmg-psychic: Psychic and :dmg-radiant: Radiant damage
 
-***Revification.*** When a creature within 30 feet of you would drop to 0 Hit Points, you can take a Reaction to expend a use of your Rage to instead change the target's hit point to a number equal to your Barbarian level.
+***Revification.*** When a creature within 30 feet of you would drop to 0 Hit Points, you can take a :rscr-r: Reaction to expend a use of your Rage to instead change the target's hit point to a number equal to your Barbarian level.
 

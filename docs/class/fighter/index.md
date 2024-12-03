@@ -13,9 +13,11 @@ title: Fighter (Class)
 
 | Trait | Detail |
 |---|---|
-| **Primary Ability** | Strength or Dexterity |
+| **Primary Ability** | :ability-str: Strength or :ability-dex: Dexterity |
 | **Hit Point Die** | D10 per Fighter level |
-| **Saving Throw Proficiencies** | Strength and Constitution |
+| **HP at Level 1** | 10 + :ability-cons: Con. modifier. |
+| **HP per Fighter Level** | 6 + :ability-cons: Con. modifier |
+| **Saving Throw Proficiencies** | :ability-str: Strength and :ability-cons: Constitution |
 | **Skill Proficiencies** | Choose 2: Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Persuasion, Perception, or Survival |
 | **Weapon Proficiencies** | Simple and Martial weapons |
 | **Armour Training** | Light, Medium, and Heavy armour and Shields |

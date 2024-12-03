@@ -10,15 +10,15 @@ Barbarians who follow the Path of the Wild Heart view themselves as kin to anima
 
 ### Level 3: Animal Speaker
 
-You can cast the *Beast Sense* and *Speak with Animals* spells, but only as Rituals. Wisdom is your spellcasting ability for them.
+You can cast the [:spell-lv2: Beast Sense] and [:spell-lv1: Speak with Animals] spells, but only as Rituals. :ability-wis: Wisdom is your spellcasting ability for them.
 
 ### Level 3: Rage of the Wilds
 
 Your Rage taps into the primal power of animals. You gain one of the following options of your choice.
 
-***Bear.*** While your Rage is active, you have Resistance to every damage type except :dmg-force: Force, :dmg-necrotic: Necrotic, :dmg-psychic: Psychic and :dmg-radiant: Radiant.
+***Bear.*** While your Rage is active, you have :dmg-res: Resistance to every damage type except :dmg-force: Force, :dmg-necrotic: Necrotic, :dmg-psychic: Psychic and :dmg-radiant: Radiant.
 
-***Eagle.*** When you activate your Rage, you can take the Disengage and Dash actions as part of that Bonus Action, While your Rage is active, you can take a Bonus Action to take both of those actions.
+***Eagle.*** When you activate your Rage, you can take the Disengage and Dash actions as part of that :rsc-b: Bonus Action, While your Rage is active, you can take a :rsc-b: Bonus Action to take both of those actions.
 
 ***Wolf.*** While your Rage is active, your allies have Advantage on melee attack rolls against any enemy of yours within 5 feet of you.
 
@@ -34,14 +34,18 @@ You gain one of the following options of your choice. Whenever you finish a Long
 
 ### Level 10: Nature Speaker 
 
-You can cast the *Commune with Nature* spell, but only as a Ritual. Wisdom is your spellcasting ability for it.
+You can cast the [:spell-lv5: Commune with Nature] spell, but only as a Ritual. :ability-wis: Wisdom is your spellcasting ability for them.
 
 ### Level 14: Power of the Wilds  
 
 You gain one of the following options of your choice. Whenever you gain a Barbarian level, you can change your choice.
 
-**Falcon.*** While your Rage is active, you have a Fly Speed equal to your Speed, provided you aren't wearing any armour.
+***Falcon.*** While your Rage is active, you have a Fly Speed equal to your Speed, provided you aren't wearing any armour.
 
 ***Lion.*** While your Rage is active, any of your enemies within 5 feet of you have Disadvantage on attack rolls against targets other than you or another Barbarian with this option active.
 
 ***Ram.*** While your Rage is active, you can cause a Large or smaller creature to have the Prone condition when you hit it with a melee attack.
+
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv5.md"

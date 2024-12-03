@@ -54,11 +54,11 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells |
 |:---:|:---|
-| 3 | *Gift of Alacrity*, *Sanctuary* |
-| 5 | *Cordon of Arrows*, *Warding Bond* |
-| 9 | *Conjure Barrage*, *Lightning Arrow* |
-| 13 | *Arcane Eye*, *Stoneskin* |
-| 17 | *Swift Quiver*, *Wall of Stone* |
+| 3 | [:spell-lv1: Gift of Alacrity], [:spell-lv1: Sanctuary] |
+| 5 | [:spell-lv2: Cordon of Arrows], [:spell-lv2: Warding Bond] |
+| 9 | [:spell-lv3: Conjure Barrage], [:spell-lv3: Lightning Arrow] |
+| 13 | [:spell-lv4: Arcane Eye], [:spell-lv4: Stoneskin] |
+| 17 | [:spell-lv5: Swift Quiver], [:spell-lv5: Wall of Stone] |
 
 ### Level 7: Phalanx Formation
 
@@ -85,3 +85,9 @@ You become an unyielding bulwark, turning aside threats and protecting those wit
 ***Protection.*** No creature can make an attack with :d20-adv: **Advantage** against you or your allies that is within your Aura of Protection.
 
 ***Damage Reduction.*** When you or your ally are hit by an attack, that attack damage is reduced by an amount equal to your **Charisma modifier**.
+
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"

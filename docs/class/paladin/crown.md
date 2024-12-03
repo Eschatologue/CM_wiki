@@ -27,11 +27,11 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells |
 |:-:|---|
-| 3 | *Command*, *Shield of Faith* |
-| 5 | *Warding Bond*, *Zone of Truth* |
-| 9 | *Aura of Vitality*, *Spirit Guardians* |
-| 13 | *Banishment*, *Guardian of Faith* |
-| 17 | *Circle of Power*, *Geas* |
+| 3 | [:spell-lv1: Command], [:spell-lv1: Shield of Faith] |
+| 5 | [:spell-lv2: Warding Bond], [:spell-lv2: Zone of Truth] |
+| 9 | [:spell-lv3: Aura of Vitality], [:spell-lv3: Spirit Guardians] |
+| 13 | [:spell-lv4: Banishment], [:spell-lv4: Guardian of Faith] |
+| 17 | [:spell-lv5: Circle of Power], [:spell-lv5: Geas] |
 
 ### Level 3: Champion Challenge
 
@@ -60,3 +60,9 @@ Your presence on the field of battle is an inspiration to those dedicated to you
 ***Regal Presence.*** When a creature starts its turn within 10 feet of you, you can force it to make a Wisdom saving throw against your spell save DC. On a failed save, it takes 10 Psychic damage and has the Prone condition and cannot stand up. At the end of each of its turns, the creature can repeat this save, ending the effect preventing it from removing the Prone condition from itself on a successful save, and taking 10 Psychic damage on a failed save.
 
 Once you use this feature, you cannot use it again until you finish a Long Rest, or you expend a level 5 spell slot to use it again.
+
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"

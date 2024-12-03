@@ -23,11 +23,11 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells |
 |:-:|---|
-| 3 | *Protection from Evil and Good*, *Shield of Faith* |
-| 5 | *Aid*, *Zone of Truth* |
-| 9 | *Beacon of Hope*, *Dispel Magic* |
-| 13 | *Freedom of Movement*, *Guardian of Faith* |
-| 17 | *Commune*, *Flame Strike* |
+| 3 | [:spell-lv1: Protection from Evil and Good], [:spell-lv1: Shield of Faith] |
+| 5 | [:spell-lv2: Aid], [:spell-lv2: Zone of Truth] |
+| 9 | [:spell-lv3: Beacon of Hope], [:spell-lv3: Dispel Magic] |
+| 13 | [:spell-lv4: Freedom of Movement], [:spell-lv4: Guardian of Faith] |
+| 17 | [:spell-lv5: Commune], [:spell-lv5: Flame Strike] |
 
 ### Level 3: Sacred Weapon
 
@@ -54,6 +54,12 @@ As a Bonus Action, you can imbue your Aura of Protection with holy power, granti
 ***Radiant Damage.*** Whenever an enemy starts its turn in the aura, that creature takes Radiant damage equal to your Charisma modifier plus your Proficiency Bonus.
 
 ***Sunlight.*** The aura is filled with Bright Light that is sunlight.
+
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"
 
 
 

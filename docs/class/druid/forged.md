@@ -13,11 +13,9 @@ What does it mean to be truly natural? Can a being made of wood and steel posses
 
 You have attuned yourself to both nature and the spirits that presides inside machines, granting you the following benefits:
 
-***Mending.*** You know the *[Mending]* cantrip. While in your Wild Shape form, when a *[Mending]* cantrip is cast on you, you restore Hit Points equal to 1d6 + the caster's spellcasting ability. Your own body becomes the Material component for this purpose. You can cast this cantrip at yourself even while in Wild Shape form. 
+***Mending.*** You know the [:spell-lv-0: Mending] cantrip. While in your Wild Shape form, when a [:spell-lv-0: Mending] cantrip is cast on you, you restore Hit Points equal to 1d6 + the caster's spellcasting ability. Your own body becomes the Material component for this purpose. You can cast this cantrip at yourself even while in Wild Shape form. 
 
 ***Proficiency.*** You gain proficiency with Tinker's Tool or Smith's Tool, and one type of Artisan's Tools of your choice. You can use your Wisdom when you make ability checks using those tools.
-
-[Mending]: ../../spells/description/core/cantrip.md#mending
 
 ### Level 3: Skin of Steel  
 
@@ -52,3 +50,5 @@ While you are in Wild Shape form, you gain Resistance to :dmg-blunt: Bludgeoning
 ### Level 14: Constructed Perfection
 
 While you are in Wild Shape form, you are immune to conditions such as: Charmed, Frightened, Paralyzed, Petrified, and Poisoned. In addition, you have Immunity to :dmg-poison: Poison damage.
+
+--8<-- "includes/snippets/spells2/lv0.md"

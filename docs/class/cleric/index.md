@@ -90,7 +90,7 @@ You have learned to cast spells through prayer and meditation. See chapter 7 for
 
 #### Cantrips
 
-You know three cantrips of your choice from the Cleric spell list. Guidance, Sacred Flame, and Thaumaturgy are recommended.
+You know three cantrips of your choice from the Cleric spell list. [:spell-lv0: Guidance], [:spell-lv0: Sacred Flame], and [:spell-lv0: Thaumaturgy] are recommended.
 
 Whenever you gain a Cleric level, you can replace one of your cantrips with another cantrip of your choice from the Cleric spell list.
 
@@ -190,3 +190,6 @@ You gain an [Epic Boon feat](../../option/feat/feat-boon.md) or another feat of 
 You can call on even more powerful divine intervention. When you use your Divine Intervention feature, you can choose Wish when you select a spell. If you do so, you can't use Divine Intervention again until you finish 2d4 Long Rests.
 
 --8<-- "includes/snippets/skills.md"
+
+--8<-- "includes/snippets/spells2/lv0.md"
+--8<-- "includes/snippets/spells2/lv1.md"

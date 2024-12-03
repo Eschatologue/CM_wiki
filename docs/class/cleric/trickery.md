@@ -35,12 +35,14 @@ While the illusion persists, you gain the following benefits:
 
 Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Trickery Domain Spells table, you thereafter always have the listed spells prepared.
 
+##### Trickery Domain Spells
+
 | Cleric Level | Spells Prepared |
 | :---: | --- |
-| 3 | Charm Person, Disguise Self, Invisibility, Pass without Trace |
-| 5 | Hypnotic Pattern, Nondetection |
-| 7 | Confusion, Dimension Door |
-| 9 | Hold Monster, Mislead |
+| 3 | [:spell-lv1: Charm Person], [:spell-lv1: Disguise Self], [:spell-lv2: Invisibility], [:spell-lv2: Pass without Trace] |
+| 5 | [:spell-lv3: Hypnotic Pattern], [:spell-lv3: Nondetection] |
+| 7 | [:spell-lv4: Confusion], [:spell-lv4: Dimension Door] |
+| 9 | [:spell-lv5: Hold Monster], [:spell-lv5: Mislead] |
 
 ### Level 6: Trickster's Transposition
 
@@ -53,3 +55,9 @@ The illusion of your Invoke Duplicity has grown more powerful in the following w
 ***Shared Distraction.*** When you and your allies make attack rolls against a creature within 5 feet of the illusion, the attack rolls have Advantage
 
 ***Healing Illusion.*** When the illusion ends, you or a creature of your chice within 5 feet of it regains a number of Hit Points equal to your CLeric level.
+
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"

@@ -13,9 +13,11 @@ title: Druid (Class)
 
 | Trait | Detail |
 |---|---|
-| **Primary Ability** | Wisdom |
+| **Primary Ability** | :ability-wis: Wisdom |
 | **Hit Point Die** | D8 per Druid level |
-| **Saving Throw Proficiencies** | Intelligence and Wisdom |
+| **HP at Level 1** | 8 + :ability-cons: Con. modifier. |
+| **HP per Druid Level** | 5 + :ability-cons: Con. modifier |
+| **Saving Throw Proficiencies** | :ability-int: Intelligence and :ability-wis: Wisdom |
 | **Skill Proficiencies** | Choose 2: Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, or Survival |
 | **Weapon Proficiencies** | Simple weapons |
 | **Tool Proficiencies** | Herbalism Kit |

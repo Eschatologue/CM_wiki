@@ -32,10 +32,10 @@ In addition, you can cast the spells from this feature while you are in Wild Sha
 
 | Druid Level | Spells Prepared |
 |:---:|:---|
-| 3 | *Cure Wounds*, *Moonbeam*, *Starry Wisp* |
-| 5 | *Vampiric Touch* |
-| 7 | *Fount of Moonlight* |
-| 9 | *Dawn* |
+| 3 | [:spell-lv1: Cure Wounds], [:spell-lv2: Moonbeam], [:spell-lv0: Starry Wisp] |
+| 5 | [:spell-lv3: Vampiric Touch] |
+| 7 | [:spell-lv4: Fount of Moonlight] |
+| 9 | [:spell-lv5: Dawn] |
 
 ### Level 6: Improved Circle Forms
 
@@ -58,3 +58,10 @@ The power of the moon suffuses you, granting you the following benefits:
 ***Improved Lunar Radiance.*** Once per turn, you can deal an extra 2d10 Radiang damage to a targety ou hit with a Wild Shape Form's attack.
 
 ***Shared Moonlight.*** Whenever you use Moonlight Step, you can also teleport one willing creature. That creature must be within 10 feet of you, and you teleport it to an unoccupied space you can see within 10 feet of your destination space
+
+--8<-- "includes/snippets/spells2/lv0.md"
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"

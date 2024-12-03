@@ -13,14 +13,16 @@ title: Monk (Class)
 
 | Trait | Detail |
 |---|---|
-| **Primary Ability** | Dexterity and Wisdom |
+| **Primary Ability** | :ability-dex: Dexterity and :ability-wis: Wisdom |
 | **Hit Point Die** | D8 per Monk level |
-| **Saving Throw Proficiencies** | Strength and Dexterity |
+| **HP at Level 1** | 8 + :ability-cons: Con. modifier. |
+| **HP per Monk Level** | 5 + :ability-cons: Con. modifier |
+| **Saving Throw Proficiencies** | :ability-str: Strength and :ability-dex: Dexterity |
 | **Skill Proficiencies** | Choose 2: Acrobatics, Athletics, History, Insight, Religion, or Stealth |
 | **Weapon Proficiencies** | Simple weapons and Martial weapons that have the Light property |
 | **Tool Proficiencies** | Choose one type of Artisan's Tools or Musical Instrument (see chapter 6) |
 | **Armour Training** | None |
-| **Starting Equipment** | Choose A or B: <br>**(A)** Spear, 5 Daggers, Artisan's Tools or Musical Instrument chosen for the tool proficiency above, Explorer's Pack, and 11 GP; or <br>**(B)** 50 GP |
+| **Starting Equipment** | Choose A or B: <br>**(A)** Spear, 5 Daggers, Artisan's Tools or Musical Instrument chosen for the tool proficiency above, Explorer's Pack, and 110 SP; or <br>**(B)** 500 SP |
 
 Monks use rigorous combat training and mental discipline to align themselves with the multiverse and tap into internal reservoirs of power. Different Monks conceptualize this power in various ways: as breath, energy, life force, essence, or self, for example. Whether channeled as a striking display of martial prowess or as a subtler focus of defense and speed, this power infuses all that a Monk does.
 

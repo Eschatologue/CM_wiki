@@ -23,13 +23,15 @@ As a Magic action, you can expend one use of your Channel Divinity to conjure gr
 
 The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of the Ancients Spells table, you thereafter always have the listed spells prepared.
 
+##### Oath the Ancients Spells
+
 | Paladin Level | Spells |
 |:---:|:---|
-| 3 | *Ensnaring Strike*, *Speak with Animal* |
-| 5 | *Misty Step*, *Moonbeam* |
-| 9 | *Plant Growth*, *Protection from Energy* |
-| 13 | *Ice Storm*, *Stoneskin* |
-| 17 | *Commune with Nature*, *Tree Stride* |
+| 3 | [:spell-lv1: Ensnaring Strike], [:spell-lv1: Speak with Animal] |
+| 5 | [:spell-lv2: Misty Step], [:spell-lv2: Moonbeam] |
+| 9 | [:spell-lv3: Plant Growth], [:spell-lv3: Protection from Energy] |
+| 13 | [:spell-lv4: Ice Storm], [:spell-lv4: Stoneskin] |
+| 17 | [:spell-lv5: Commune with Nature], [:spell-lv5: Tree Stride] |
 
 ### Level 7: Aura Of Warding
 
@@ -50,3 +52,9 @@ As a Bonus Action, you can imbue your Aura of Protection with primal power, gran
 ***Regeneration.*** At the start of each of your turns, you regain 10 Hit Points.
 
 ***Swift Spells.*** Whenever you cast a spell that has a casting time of 1n action, you can cast it using a Bonus Action instead.
+
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"

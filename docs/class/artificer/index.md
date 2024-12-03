@@ -20,7 +20,7 @@ title: Artificer (Class)
 | **Weapon Proficiencies** | Simple weapons |
 | **Tool Proficiencies** | Thieves' Tools, Tinker's Tools and choose 1 type of Artisan's Tools. |
 | **Armour Training** | Light and Medium armour and Shields |
-| **Starting Equipment** | Choose **A** or **B**: <br>**(A)** Chain Shirt, Shield, a Simple weapon of your choice, Thieves' Tools, Tinker's Tools, Scholar's Pack and 30 SP or <br>**(B)** 180 SP |
+| **Starting Equipment** | Choose **A** or **B**: <br>**(A)** Studded Leather Armour, Shield, a Simple weapon of your choice, Thieves' Tools, Tinker's Tools, Scholar's Pack and 30 SP or <br>**(B)** 1.250 SP |
 
 Masters of unlocking magic in everyday objects, Artificers are supreme inventors. They see magic as a complex system waiting to be decoded and controlled. Artificers use tools to channel arcane power, crafting magical objects. To cast a spell, an Artificer could use alchemist's supplies to create a potent elixir, calligrapher's supplies to inscribe a sigil of power on an ally's armour, or tinker's tools to craft a temporary charm. The magic of Artificers is tied to their tools and their talents.
 

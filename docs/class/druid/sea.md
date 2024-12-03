@@ -16,10 +16,10 @@ Your connection to this circle ensures that you always have certain spells ready
 
 | Druid Level | Spells Prepared |
 |:-:|---|
-| 3 | *Fog Cloud*, *Gust of Wind*, *Ray of Frost*, *Shatter*, *Thunderwave* |
-| 5	| *Lightning Bolt*, *Water Breathing* | 
-| 7	| *Control Water*, *Ice Storm* |
-| 9	| *Conjure Elemental*, *Hold Monster* |
+| 3 | [:spell-lv1: Fog Cloud], [:spell-lv2: Gust of Wind], [:spell-lv0: Ray of Frost], [:spell-lv2: Shatter], [:spell-lv1: Thunderwave] |
+| 5 | [:spell-lv3: Lightning Bolt], [:spell-lv3: Water Breathing] |
+| 7 | [:spell-lv4: Control Water], [:spell-lv4: Ice Storm] |
+| 9 | [:spell-lv5: Conjure Elemental], [:spell-lv5: Hold Monster] |
 
 ### Level 3: Wrath Of The Sea 
 
@@ -47,4 +47,9 @@ Instead of manifesting the Emanation Wrath of the Sea around yourself, you can m
 
 In addition, you can manifest the Emanation around both the other creature and yourself if you expend two uses of your Wildshape instead of one when manifesting it.
 
-
+--8<-- "includes/snippets/spells2/lv0.md"
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"

@@ -31,11 +31,11 @@ When you reach a Magus level specified in the Spellbreaker Spells table, you the
 
 | Level | Spells |
 |:-:|:--|
-| 3 | *Bane*, *Detect Evil & Good* |
-| 5 | *Blindness/Deafness*, *Silence* |
-| 9 | *Counterspell*, *Magic Circle* |
-| 13 | *Banishment*, *Otiluke's Resilient Sphere* |
-| 17 | *Dispel Evil & Good*, *Planar Binding* |
+| 3 | [:spell-lv1: Bane], [:spell-lv1: Detect Evil & Good] |
+| 5 | [:spell-lv2: Blindness/Deafness], [:spell-lv2: Silence] |
+| 9 | [:spell-lv3: Counterspell], [:spell-lv3: Magic Circle] |
+| 13 | [:spell-lv4: Banishment], [:spell-lv4: Otiluke's Resilient Sphere] |
+| 17 | [:spell-lv5: Dispel Evil & Good], [:spell-lv5: Planar Binding] |
 
 ### Level 7: Mantle of Defense
 
@@ -71,3 +71,9 @@ You have risen through the ranks of your Order to become an unparalleled hunter 
 [Baleful Mark]: #level-3-baleful-mark
 [Spellsight]: index.md#level-5-spellsight
 [Spellsunder]: index.md#level-9-spellsunder
+
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"

@@ -24,11 +24,11 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells |
 |:---:|:---|
-| 3 | *Guiding Bolt*, *Heroism* |
-| 5 | *Enhance Ability*, *Magic Weapon* |
-| 9 | *Haste*, *Protection from Energy* |
-| 13 | *Compulsion*, *Freedom of Movement* |
-| 17 | *Commune*, *Yolande's Regal Presence* |
+| 3 | [:spell-lv1: Guiding Bolt], [:spell-lv1: Heroism] |
+| 5 | [:spell-lv2: Enhance Ability], [:spell-lv2: Magic Weapon] |
+| 9 | [:spell-lv3: Haste], [:spell-lv3: Protection from Energy] |
+| 13 | [:spell-lv4: Compulsion], [:spell-lv4: Freedom of Movement] |
+| 17 | [:spell-lv5: Commune], [:spell-lv5: Yolande's Regal Presence] |
 
 ### Level 3: Peerless Athlete
 
@@ -54,3 +54,8 @@ You can empower yourself with the legends— whether true or exaggerated—of yo
 
 ***Uneerring Strike.*** Once on each of your turns when you make a weapon attack and miss, you can cause that attack to hit instead.
 
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"

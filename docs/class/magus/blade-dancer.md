@@ -37,11 +37,11 @@ When you reach a Magus level specified in the Blade Dancer Spells table, you the
 
 | Magus Level | Spells |
 |:-:|---|
-| 3 | *Compelled Duel*, *Zephyr Strike* |
-| 5 | *Blur*, *Misty Step* |
-| 9 | *Elemental Weapon*, *Haste* |
-| 13 | *Fire Shield*, *Freedom of Movement* |
-| 17 | *Steel Wind Strike*, *Holy Weapon* |
+| 3 | [:spell-lv1: Compelled Duel], [:spell-lv1: Zephyr Strike] |
+| 5 | [:spell-lv2: Blur], [:spell-lv2: Misty Step] |
+| 9 | [:spell-lv3: Elemental Weapon], [:spell-lv3: Haste] |
+| 13 | [:spell-lv4: Fire Shield], [:spell-lv4: Freedom of Movement] |
+| 17 | [:spell-lv5: Steel Wind Strike], [:spell-lv5: Holy Weapon] |
 
 ### Level 7: Fluid Steps
 
@@ -73,3 +73,9 @@ Also, when you take the Attack action while in your [Blade Dance], you make one 
 
 [Blade Dance]: #level-3-blade-dance
 [Spellsunder]: index.md#level-9-spellsunder
+
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"

@@ -10,13 +10,13 @@ Not all grand stories conclude in triumphant victory. Many tales end with death 
 
 ### Level 3: Poetry in Misery
 
-You learn to harness the beauty in failure, finding inspiration in even the direst twists of fate. 
+*You learn to harness the beauty in failure, finding inspiration in even the direst twists of fate.* 
 
-Whenever you or an ally within 30 feet of you rolls a 1 on the d20 for D20 Test, you can use your :rsc-r: **Reaction** to soliloquize and regain one expended use of your Bardic Inspiration feature.
+Whenever you or an ally within 30 feet of you rolls a 1 on the d20 for D20 Test, you can use your :rsc-r: Reaction to soliloquize and regain one expended use of your Bardic Inspiration feature.
 
 ### Level 3: Sorrowful Fate
 
-You exploit a foe's peril to instill deep feelings of sorrow and doom. 
+*You exploit a foe's peril to instill deep feelings of sorrow and doom.*
 
 When you or an ally you can see forces a creature to make a saving throw, you can expend one use of your Bardic Inspiration to change the type of saving throw to a Charisma save instead.
 
@@ -26,23 +26,25 @@ Once you use this feature, you can't use it again until you finish a Short or Lo
 
 ### Level 6: Tale of Hubris
 
-You learn to weave a magical narrative that draws out the fatal arrogance of your foes. 
+*You learn to weave a magical narrative that draws out the fatal arrogance of your foes.*
 
-When a creature scores a Critical Hit against you or an ally within 60 feet of you that you can see, you can use your :rsc-r: **Reaction** and expend one use of your Bardic Inspiration to target the attacking creature and evoke the story of their downfall. For 1 minute or until the target suffers a Critical Hit, the number needed to roll with weapon attacks or Unarmed strike for a Critical Hit against the target is reduced by 2 (reduced by 3 at Bard Level 14).
+When a creature scores a Critical Hit against you or an ally within 60 feet of you that you can see, you can use your :rsc-r: Reaction and expend one use of your Bardic Inspiration to target the attacking creature and evoke the story of their downfall. For 1 minute or until the target suffers a Critical Hit, the number needed to roll with weapon attacks or Unarmed strike for a Critical Hit against the target is reduced by 2 (reduced by 3 at Bard Level 14).
 
 ### Level 6: Impending Misfortune
 
-Your words can twist the power of fate to create triumph from the promise of future despair. When you make an attack roll or a saving throw, you can gain a +10 bonus to the roll, but the next attack roll or saving throw you make takes a −10 penalty. If not used, this penalty disappears when you finish a short or long rest.
+*Your words can twist the power of fate to create triumph from the promise of future despair*. 
 
-You can't use this feature again until you finish a short or long rest, or until you are reduced to 0 hit points.
+When you make an attack roll or a saving throw, you can gain a +10 bonus to the roll, but the next attack roll or saving throw you make takes a -10 penalty. If not used, this penalty disappears when you finish a short or long rest.
+
+You can't use this feature again until you finish a Short or Long Rest, or until you are reduced to 0 hit points.
 
 ### Level 14: Nimbus of Pathos
 
-As an :rsc-a: **Action**, you can touch a willing creature and empower it with tragic heroism. For 1 minute, the creature is surrounded by mournful music and ghostly singing, granting it the following benefits and drawbacks:
+As an :rsc-a: Action, you can touch a willing creature and empower it with tragic heroism. For 1 minute, the creature is surrounded by mournful music and ghostly singing, granting it the following benefits and drawbacks:
 
 ***Bonus AC.*** The creature has a +4 bonus to AC.
 
-***Attack and Save Advantage.*** It has :d20-adv: **Advantage** on attack rolls and saving throws.
+***Attack and Save Advantage.*** It has :d20-adv: Advantage on attack rolls and saving throws.
 
 ***Extra Damage.*** When the creature hits a target with an attack roll, that target takes an extra 1d10 radiant damage.
 

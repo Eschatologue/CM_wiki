@@ -14,12 +14,15 @@ The Light Domain is associated with gods of truth, vigilance, beauty, insight, a
 
 Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Light Domain Spells table, you thereafter always have the listed spells prepared. 
 
+##### Light Domain Spells
+
 | Cleric Level | Spells Prepared |
 |:-:|---|
-| 3 | Burning Hands, Faerie Fire, Scorching Ray, See Invisibility |
-| 5 | Daylight, Fireball |
-| 7 | Arcane Eye, Wall of Fire |
-| 9 | Flame Strike, Scrying |
+| 3 | [:spell-lv1: Burning Hands], [:spell-lv1: Faerie Fire], [:spell-lv2: Scorching Ray], [:spell-lv2: See Invisibility] |
+| 5 | [:spell-lv3: Daylight], [:spell-lv3: Fireball] |
+| 7 | [:spell-lv4: Arcane Eye], [:spell-lv4: Wall of Fire] |
+| 9 | [:spell-lv5: Flame Strike], [:spell-lv5: Scrying] |
+
 
 ### Level 3: Radiance of Dawn
 
@@ -42,3 +45,9 @@ In addition, whenever you use Warding Flare, you can give thet arger of the trig
 As a Magic action, you cause yourself to emit an aura of sunlight that lasts for 1 minute or until you dismiss it (no action required). You emit Bright Light in a 60-foot radius and Dim Light for an additional 30 feet. Your enemies in the Bright Light have Disadvantage on saving throws against your Radiance of the Dawn and any spell that deals Fire or Radiant damage.
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a Long Rest.
+
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"

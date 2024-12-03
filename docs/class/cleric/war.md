@@ -10,21 +10,22 @@ War has many manifestations. It can make heroes of ordinary people. It can be de
 
 Gods of the War Domain watch over warriors and reward them for their great deeds. They include champions of honor and chivalry as well as gods of destruction and pillage. Other war gods take a more neutral stance, promoting war in all its manifestations and supporting warriors in any circumstance.
 
-
 ### Level 3: Guided Strike
 
-When you or a creature within 30 feet of you misses with an attack roll, you can expend one use of your Channel Divinity and give that roll a +10 bonus, potentially causing it to hit. When you use this feature to benefit another creature's attack roll, you must take a Reaction to so.
+When you or a creature within 30 feet of you misses with an attack roll, you can expend one use of your Channel Divinity and give that roll a +10 bonus, potentially causing it to hit. When you use this feature to benefit another creature's attack roll, you must take a Reaction to do so.
 
 ### Level 3: War Domain Spells
 
 Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Life Domain Spells table, you thereafter always have the listed spells prepared.
 
+##### War Domain Spells
+
 | Cleric Level | Spells Prepared |
 | :-: | --- |
-| 3 | Divine Favor, Magic Weapon, Shield of Faith, Spiritual Weapon |
-| 5 | Crusader's Mantle, Spirit Guardians |
-| 7 | Freedom of Movement, Stoneskin |
-| 9 | Destructive Wave, Hold Monster |
+| 3 | [:spell-lv1: Divine Favor], [:spell-lv2: Magic Weapon], [:spell-lv1: Shield of Faith], [:spell-lv2: Spiritual Weapon] |
+| 5 | [:spell-lv3: Crusader's Mantle], [:spell-lv3: Spirit Guardians] |
+| 7 | [:spell-lv4: Freedom of Movement], [:spell-lv4: Stoneskin] |
+| 9 | [:spell-lv5: Destructive Wave], [:spell-lv5: Hold Monster] |
 
 ### Level 3: War Priest
 
@@ -32,8 +33,14 @@ As a Bonus Action, you can make one attack with a weapon or an Unarmed Strike, y
 
 ### Level 6: War God's Blessing
 
-You can expend one of your Channel Divinity to cast **Shield of Faith** or **Spiritual Weapon** rather than expending a spell slot. When you cast either spell in this way, the sepll doesn't require Concentration. Instead the spell lasts for 1 minute, but it ends earlt if you cast that spell again, have the Incapacitated condition, or die.
+You can expend one of your Channel Divinity to cast [:spell-lv1: Shield of Faith] or [:spell-lv2: Spiritual Weapon] rather than expending a spell slot. When you cast either spell in this way, the sepll doesn't require Concentration. Instead the spell lasts for 1 minute, but it ends earlt if you cast that spell again, have the Incapacitated condition, or die.
 
 ### Level 17: Avatar of Battle
 
-You gain resistance to Bludgeoning, Piercing, and Slashing damage.
+You gain :dmg-res: Resistance to :dmg-blunt: Bludgeoning, :dmg-piercing: Piercing, and :dmg-slashing: Slashing damage.
+
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"

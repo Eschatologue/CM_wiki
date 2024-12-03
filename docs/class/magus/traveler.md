@@ -19,11 +19,11 @@ When you reach a Magus level specified in the Traveler Spells table, you thereaf
 
 | Magus Level | Spells |
 |:-:|---|
-| 3 | *Expeditious Retreat, Featherfall* |
-| 5 | *Hold Person, Misty Step* |
-| 9 | *Haste, Slow* |
-| 13 | *Banishment, Dimension Door* |
-| 17 | *Hold Monster, Modify Memory* |
+| 3 | [:spell-lv1: Expeditious Retreat], [:spell-lv1: Featherfall] |
+| 5 | [:spell-lv2: Hold Person], [:spell-lv2: Misty Step] |
+| 9 | [:spell-lv3: Haste], [:spell-lv3: Slow] |
+| 13 | [:spell-lv4: Banishment], [:spell-lv4: Dimension Door] |
+| 17 | [:spell-lv5: Hold Monster], [:spell-lv5: Modify Memory] |
 
 ### Level 3: Temporal Shift
 
@@ -63,7 +63,7 @@ As a Magic action, expend a level 3+ spell slot to conjure your **Future Self**,
 
 Your **Future Self** has your Hit Point Maximum, Ability Scores, and all features from your Species, Class, and other sources, including independent uses of [Temporal Shift], but shares your spell slots. It aids you independently to the best of its abilities.
 
-You can ask your **Future Self** one question about the future, answered per the *[:spell-lv5: Commune]* spell guidelines. The DM determines their knowledge, limited to what you may know in the future.
+You can ask your **Future Self** one question about the future, answered per the [:spell-lv5: Commune] spell guidelines. The DM determines their knowledge, limited to what you may know in the future.
 
 The duration of their stay depends on the spell slot used: level 3 (1 minute), level 4 (1 hour), or level 5 (8 hours). They return to their time when the duration ends or when reduced to 0 hit points.
 
@@ -73,13 +73,18 @@ Only one **Future Self** can exist at a time. Summoning a new one ends the previ
 
 *Your use of Chronomancy has caused you to become adrift in the flow of time, seeing and experiencing it radically different from those around you.*
 
-As a Magic action, you can cast a modified version of the *[:spell-lv9: Time Stop]* spell where you and your **Future Self** can both act, but you each only get one additional turn.
+As a Magic action, you can cast a modified version of the [:spell-lv9: Time Stop] spell where you and your **Future Self** can both act, but you each only get one additional turn.
 
-Once you use this feature you must finish a Long Rest before you can cast this modified version of *[:spell-lv9: Time Stop]* again. You can also restore your use of it by expending a level 5 spell slot (no action required).
+Once you use this feature you must finish a Long Rest before you can cast this modified version of [:spell-lv9: Time Stop] again. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 [Temporal Shift]: #level-3-temporal-shift 
 
-[:spell-lv5: Commune]: ../../spells/description/core/level-5.md#commune
-[:spell-lv9: Time Stop]: ../../spells/description/core/level-9.md#time-stop
 
 --8<--- "includes\snippets\skills.md"
+
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"
+--8<-- "includes/snippets/spells2/lv9.md"
