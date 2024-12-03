@@ -19,11 +19,11 @@ You always have certain spells prepared after you reach particular levels in thi
 
 | Artificer Level | Spells |
 |:-:|:--|
-| 3 | *Healing Word*, *Ray of Sickness* |
-| 5 | *Flaming Sphere*, *Melf's Acid Arrow* |
-| 9 | *Gaseous Form*, *Mass Healing Word* |
-| 13 | *Blight*, *Death Ward* |
-| 17 | *Cloudkill*, *Raise Dead* |
+| 3 | [:spell-level-1: Healing Word], [:spell-level-1: Ray of Sickness] |
+| 5 | [:spell-level-2: Flaming Sphere], [:spell-level-2: Melf's Acid Arrow] |
+| 9 | [:spell-level-3: Gaseous Form], [:spell-level-3: Mass Healing Word] |
+| 13 | [:spell-level-4: Blight], [:spell-level-4: Death Ward] |
+| 17 | [:spell-level-5: Cloudkill], [:spell-level-5: Raise Dead] |
 
 ### Level 3: Experimental Elixir
 
@@ -41,18 +41,18 @@ You have learned to produce magical potions called Experimental Elixirs, which s
 
 | d6 | Name | Effect |
 |:-:|---|---|
-| 1 | Healing | The drinker regains a number of Hit Points equal to 2d4 + your Intelligence Modifier |
-| 2 | Swiftness | The drinker's walking speed increases by 10 feet for 1 hour. |
-| 3 | Resilience | The drinker gains a +1 bonus to AC for 10 minutes. |
-| 4 | Boldness |  The drinker can roll a d4 and add the number rolled to every attack roll and saving throw they make for the next minute. |
-| 5 | Flight | The drinker gains a flying speed of 10 feet for 10 minutes. |
-| 6 | Transformation | The drinker's body is transformed as if by the *Alter Self* spell. The drinker determines the transformation caused by the spell, the effects of which last for 10 minutes. |
+| 1 | *Healing* | The drinker regains a number of Hit Points equal to 2d4 + your Intelligence Modifier |
+| 2 | *Swiftness* | The drinker's walking speed increases by 10 feet for 1 hour. |
+| 3 | *Resilience* | The drinker gains a +1 bonus to AC for 10 minutes. |
+| 4 | *Boldness* |  The drinker can roll a d4 and add the number rolled to every attack roll and saving throw they make for the next minute. |
+| 5 | *Flight* | The drinker gains a flying speed of 10 feet for 10 minutes. |
+| 6 | *Transformation* | The drinker's body is transformed as if by the [:spell-level-2: Alter Self] spell. The drinker determines the transformation caused by the spell, the effects of which last for 10 minutes. |
 
 ### Level 3: Alchemical Grenades
 
 Through your explorations into alchemy you have learned to make explosive concoctions that can be lobbed at groups of enemies.
 
-***Creating a Grenade.*** When you start casting a spell using your Alchemist's Supplies as the spellcasting focus, you can turn that casting into an Alchemical Grenade. The spell must deal Acid, Fire, Necrotic or Poison damage. You can ignore any verbal components for this casting of the spell.
+***Creating a Grenade.*** When you start casting a spell using your Alchemist's Supplies as the spellcasting focus, you can turn that casting into an Alchemical Grenade. The spell must deal :dmg-acid: Acid, :dmg-fire: Fire, :dmg-necrotic: Necrotic or :dmg-poison: Poison damage. You can ignore any verbal components for this casting of the spell.
 
 ***Alchemical Explosion.*** When you cast a spell in this way and only target one creature with it, each creature within 5 feet of the target, other than the target itself, must make a Dexterity saving throw against your spell save DC. A creature that fails its saving throw takes damage of the spell's type equal to half your Artificer level (rounded up). The spell does not gain this benefit if it already targets an area.
 
@@ -72,7 +72,7 @@ You can incorporate restorative reagents into some of your works:
 
 ***Fortifying Elixirs.*** Whenever a creature drinks an experimental elixir you created, the creature gains Temporary Hit Points equal to 2d6 + your Intelligence modifier (minimum of 1 Temporary Hit Point).
 
-***Lesser Restoration.*** You always have the Lesser Restoration spell prepared, and you cast it without expending a spell slot, provided you use Alchemist's Supplies as the spellcasting focus. You can do so a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+***Lesser Restoration.*** You always have the [:spell-level-2: Lesser Restoration] spell prepared, and you cast it without expending a spell slot, provided you use Alchemist's Supplies as the spellcasting focus. You can do so a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
 ### Level 15: Chemical Mastery
 
@@ -80,6 +80,11 @@ You have been exposed to so many chemicals that they pose little risk to you, an
 
 ***Chemical Resistance.*** You gain Resistance to Acid damage and Poison damage, and you have immunity to the Poisoned condition.
 
-***Mastered Alchemy.*** You can cast the *Greater Restoration* and *Tasha's Bubbling Cauldron* spells without expending a spell slot, without preparing the spell, and without material components, provided you use Alchemist's Supplies as the spellcasting focus. Once you cast either spell with this feature, you can't cast that spell with it again until you finish a Long Rest.
+***Mastered Alchemy.*** You can cast the [:spell-level-5: Greater Restoration] and [:spell-level-6: Tasha's Bubbling Cauldron] spells without expending a spell slot, without preparing the spell, and without material components, provided you use Alchemist's Supplies as the spellcasting focus. Once you cast either spell with this feature, you can't cast that spell with it again until you finish a Long Rest.
 
-
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"
+--8<-- "includes/snippets/spells2/lv6.md"

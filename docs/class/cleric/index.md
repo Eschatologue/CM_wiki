@@ -104,10 +104,6 @@ The Cleric Features table shows how many spell slots you have to cast your level
 
 You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Cleric spell list. [:spell-level-1: Bless], [:spell-level-1: Cure Wounds], [:spell-level-1: Guiding Bolt], and [:spell-level-1: Shield of Faith] are recommended.
 
-[:spell-level-1: Bless]
-[:spell-level-1: Cure Wounds]
-[:spell-level-1: Guiding Bolt]
-[:spell-level-1: Shield of Faith]
 
 The number of spells on your list increases as you gain Cleric levels, as shown in the Prepared Spells column of the Cleric Features table. Whenever that number increases, choose additional spells from the Cleric spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Cleric, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 

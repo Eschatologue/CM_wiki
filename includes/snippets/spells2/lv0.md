@@ -48,9 +48,3 @@
 [:spell-level-0: True Strike]: ../../spells/description/core/cantrip.md#true-strike  
 [:spell-level-0: Vicious Mockery]: ../../spells/description/core/cantrip.md#vicious-mockery  
 [:spell-level-0: Word of Radiance]: ../../spells/description/core/cantrip.md#word-of-radiance  
-
-
-[:spell-level-1: Bless]: ../../spells/description/core/level-1.md#bless
-[:spell-level-1: Cure Wounds]: .../../spells/description/core/level-1.md#cure-wounds
-[:spell-level-1: Guiding Bolt]: .../../spells/description/core/level-1.md#guiding-bolt
-[:spell-level-1: Shield of Faith]: .../../spells/description/core/level-1.md#shield-of-faith

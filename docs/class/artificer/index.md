@@ -101,10 +101,6 @@ The number of spells on your list increases as you gain Artificer levels, as sho
 
 If another Artificer feature gives you spells that you may always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Artificer spells for you.
 
-[:spell-level-1: Faerie Fire]: ../../spells/description/core/level-1.md#faerie-fire
-[:spell-level-1: Identify]: ../../spells/description/core/level-1.md#identify
-
-
 #### Changing Your Prepared Spells
 
 Whenever you finish a Long Rest, you can replace one spell on your list with another Artificer spell for which you have spell slots.
@@ -147,7 +143,7 @@ You gain the ability to imbue mundane items with certain magical infusions. The 
 
 #### Infusions Known 
 
-When you gain this feature, pick four Infusions to learn, choosing from the “Artificer Infusions” section in Tasha's Cauldron of Everything. You learn additional Infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the Artificer Features table.
+When you gain this feature, pick four Infusions to learn, choosing from the "[Artificer Infusions]" section. You learn additional Infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the Artificer Features table.
 
 Whenever you gain a level in this class, you can replace one of the Infusions you learned with a new one.
 
@@ -230,4 +226,5 @@ You have developed a mystical connection to your magic items, which you can draw
 ***Infusion Contingency.*** If you're reduced to 0 Hit Points but not killed out-right, you can use your Reaction to end one of your Infusions, causing you to drop to 1 hit point instead of 0, and you instantly regain 30 Hit Points.
 
 --8<-- "includes/snippets/skills.md"
---8<-- "includes/snippets/spells-phb-2.md"
+--8<-- "includes/snippets/spells2/lv0.md"
+--8<-- "includes/snippets/spells2/lv1.md"
