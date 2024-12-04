@@ -18,10 +18,10 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells |
 |:-:|---|
-| 3 | *Burning Hands*, *Command*, *Scorching Ray*, *Suggestion* |
-| 5 | *Fireball*, *Stinking Cloud* |
-| 7 | *Fire Shield*, *Wall of Fire* |
-| 9 | *Geas*, *Insect Plague* |
+| 3 | [:spell-lv1: Burning Hands], [:spell-lv1: Command], [:spell-lv1: Scorching Ray], [:spell-lv2: Suggestion] |
+| 5 | [:spell-lv3: Fireball], [:spell-lv3: Stinking Cloud] |
+| 7 | [:spell-lv4: Fire Shield], [:spell-lv4: Wall of Fire] |
+| 9 | [:spell-lv5: Geas], [:spell-lv5: Insect Plague] |
 
 ### Level 6: Dark One's Own Luck
 
@@ -38,3 +38,9 @@ Choose one damage type, other than Force, whenever you finish a Short or Long Re
 Once per turn when you hit a creature with an attack roll, you can try to instantly transport the target through the Lower Planes. The target must succeed on a Charisma saving throw against your spell save DC, or the target disappears and hurtles through a nightmare landscape. The target takes 8d10 Psychic damage if it isn't a Fiend, and it has the Incapacitated condition until the end of your next turn, when it returns to the space it previously occupied or the nearest unoccupied space.
 
 Once you use this feature, you can't use it again until you finish a Long Rest unless you expend a Pact Magic spell slot (no action required) to restore your use of it.
+
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"

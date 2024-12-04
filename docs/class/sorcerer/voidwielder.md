@@ -30,10 +30,10 @@ When you reach a Sorcerer level specified in the Voidwielder Spells table, you t
 ##### Voidwielder Spells
 | Sorcerer Level | Spell |
 |:-:|---|
-| 3 | *Ray of Sickness*, *Inflict Wounds*, *Darkness*, *Ray of Enfeeblement* |
-| 5 | *Counterspell*, *Dispel Magic* |
-| 7 | *Blight*, *Sickening Radiance* |
-| 9 | *Antilife Shell*, *Maelstrom* |
+| 3 | [:spell-lv1: Ray of Sickness], [:spell-lv1: Inflict Wounds], [:spell-lv2: Darkness], [:spell-lv2: Ray of Enfeeblement] |
+| 5 | [:spell-lv3: Counterspell], [:spell-lv3: Dispel Magic] |
+| 7 | [:spell-lv4: Blight], [:spell-lv4: Sickening Radiance] |
+| 9 | [:spell-lv5: Antilife Shell], [:spell-lv5: Maelstrom] |
 
 ### Level 6: Negate Spell
 
@@ -58,3 +58,9 @@ As a Bonus Action, you can spend 1 Sorcery Point to partially discorporate until
 ***Force Damage.*** You can cause any Sorcerer spells you cast to deal Force damage.
 
 ***Move Through Object.*** You can move through solid objects and creatures as if they were Difficult Terrain. If you end your turn inside a solid object or creature you are instantly shunted to the nearest unoccupied space, taking 1d10 Force damage for every 5 feet you were forced to travel. If you pass through a creature, you can force it to make a Constitution saving throw against your Spell save DC or take 1d10 Force damage. A creature can only be forced to make this Constitution saving throw once per turn.
+
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"

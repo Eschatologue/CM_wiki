@@ -16,10 +16,10 @@ When you reach a Sorcerer level specified in the Psionic Spells table, you there
 
 | Sorcerer Level | Spells |
 |:-:|---|
-| 3 | *Arms of Hadar*, *Calm Emotions*, *Dissonant Whispers*, *Detect Thoughts*, *Mind Sliver* |
-| 5 | *Hunger of Hadar*, *Sending* |
-| 7 | *Evard's Black Tentacles*, *Summon Aberration* |
-| 9 | *Rary's Telepathic Bond*, *Telekinesis* |
+| 3 | [:spell-lv1: Arms of Hadar], [:spell-lv2: Calm Emotions], [:spell-lv1: Dissonant Whispers], [:spell-lv2: Detect Thoughts], [:spell-lv0: Mind Sliver] |
+| 5 | [:spell-lv3: Hunger of Hadar], [:spell-lv3: Sending] |
+| 7 | [:spell-lv4: Evard's Black Tentacles], [:spell-lv4: Summon Aberration] |
+| 9 | [:spell-lv5: Rary's Telepathic Bond], [:spell-lv5: Telekinesis] |
 
 ### Level 3: Telepathic Speech
 
@@ -52,3 +52,9 @@ You can unleash the aberrant truth hidden within yourself. As a Bonus Action, yo
 You can unleash your aberrant power as a space-warping anomaly. As Magic action, you can teleport to an unoccupied space you can see within 120 feet of you. Immediately after you disappear, each creature within 30 feet of the space you left must make a Strength saving throw against your spell save DC. On a failed save, a creature takes 3d10 force damage and is pulled straight toward the space you left, ending in an unoccupied space as close to your former space as possible. On a successful save, the creature takes half as much damage and isn't pulled.
 
 Once you use this feature, you can't do so again until you finish a Long Rest, unless you spend 5 Sorcery Points to use it again.
+
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"

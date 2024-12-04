@@ -24,12 +24,14 @@ Your affinity for metal gives you the option to learn some non-sorcerer spells t
 You must otherwise obey all the restrictions for selecting the spell, and it becomes a Sorcerer spell for you.
 
 ##### Metal Magic
+
 | Spell Level | Spell |
 |:-:|---|
-| 1 | *Compelled Duel*, *Searing Smite*, *Thunderous Smite*, *Wrathful Smite* |
-| 2 | *Elemental Weapon*, *Magic Weapon*, *Shinning Smite* |
-| 3 | *Blinding Smite* |
-| 4 | *Staggering Smite* |
+| 1 | [:spell-lv1: Compelled Duel], [:spell-lv1: Searing Smite], [:spell-lv1: Thunderous Smite], [:spell-lv1: Wrathful Smite] |
+| 2 | [:spell-lv2: Elemental Weapon], [:spell-lv2: Magic Weapon], [:spell-lv2: Shining Smite] |
+| 3 | [:spell-lv3: Blinding Smite] |
+| 4 | [:spell-lv4: Staggering Smite] |
+| 5 | [:spell-lv5: Banishing Smite] |
 
 ### Level 3: Stone's Durability
 
@@ -52,3 +54,9 @@ When you cast a spell that deals damage, choose one creature damaged by that spe
 ### Level 18: Earth Master's Aegis
 
 When you use your Stone's Aegis to protect an ally, you can choose up to three creatures to gain its benefits.
+
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"

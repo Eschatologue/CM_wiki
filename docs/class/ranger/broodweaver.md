@@ -17,11 +17,11 @@ When you reach a Ranger level specified in the Mindspun Invocation Spells Table,
 
 | Ranger Level | Spells |
 |:---:|:---|
-| 3 | *Faerie Fire*, *Zephyr Strike* |
-| 5 | *Misty Step*, *Web* |
-| 9 | *Haste*, *Mass Healing Word* |
-| 13 | *Divination*, *Greater Invisibility* |
-| 17 | *Hold Monster*, *Telekinesis* |
+| 3 | [:spell-lv1: Faerie Fire], [:spell-lv1: Zephyr Strike] |
+| 5 | [:spell-lv2: Misty Step], [:spell-lv2: Web] |
+| 9 | [:spell-lv3: Haste], [:spell-lv3: Mass Healing Word] |
+| 13 | [:spell-lv4: Divination], [:spell-lv4: Greater Invisibility] |
+| 17 | [:spell-lv5: Hold Monster], [:spell-lv5: Telekinesis] |
 
 ### Level 3: Weaver's Call
 
@@ -81,10 +81,14 @@ Once you use this feature, you can't use it again until you finish a Long Rest. 
 
 ### Level 17: Weavewalk
 
-You gain the ability to enter and exit the Weave at will. You always have the *[Blink]* spell prepared, and you can cast it once without expending a spell slot. When you cast *[Blink]* using this feature, it lasts for the usual duration, but instead of rolling a d6 each turn, you can choose to vanish to the Ethereal Plane or reappear on the Material Plane as a :rsc-b: **Bonus Action** on each of your turns.
+You gain the ability to enter and exit the Weave at will. You always have the [:spell-lv3: Blink] spell prepared, and you can cast it once without expending a spell slot. When you cast [:spell-lv3: Blink] using this feature, it lasts for the usual duration, but instead of rolling a d6 each turn, you can choose to vanish to the Ethereal Plane or reappear on the Material Plane as a :rsc-b: **Bonus Action** on each of your turns.
 
 While on the Ethereal Plane, you perceive the Material Plane in shades of grey and can see up to 120 feet (instead of 60 feet). When you take a :rsc-b: **Bonus Action** to vanish or reappear, you can make one weapon attack or an Unarmed Strike as part of the same Bonus Action.
 
 Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending 3 Threadling Dice (no action required).
 
-[Blink]: ../../spells/description/core/level-3.md#blink
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"

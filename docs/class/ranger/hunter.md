@@ -28,11 +28,13 @@ When you reach a Ranger level specified in the Hunter Spells Table, you thereaft
 
 | Ranger Level | Spells |
 |:---:|:---|
-| 3 | *Expeditious Retreat*, *Snare*  |
-| 5 | *Locate Animals or Plants*, *Pass without Trace* |
-| 9 | *Ballistic Shot*^*CM*^, *Nondetection*  |
-| 13 | *Freedom of Movement*, *Mordenkainen's Faithful Hound* | 
-| 17 | *Swift Quiver*, *Tree Stride* |
+| 3 | [:spell-lv1: Expeditious Retreat], [:spell-lv1: Snare] |
+| 5 | [:spell-lv2: Locate Animals or Plants], [:spell-lv2: Pass without Trace] |
+| 9 | [:spell-lv3: Ballistic Shot]^*CM*^, [:spell-lv3: Nondetection] |
+| 13 | [:spell-lv4: Freedom of Movement], [:spell-lv4: Mordenkainen's Faithful Hound] |
+| 17 | [:spell-lv5: Swift Quiver], [:spell-lv5: Tree Stride] |
+
+[:spell-lv3: Ballistic Shot]: ../../spells/description/additional/homebrew/level-3.md#ballistic-shot
 
 ### Level 7: Defensive Tactics
 
@@ -49,3 +51,9 @@ Once per turn when you deal damage to a creature marked by your Hunter's Mark, y
 ### Level 15: Superior Hunter's Defense
 
 When you take damage, you can take a Reaction to give yourself Resistance to that damage and any other damage of the same type until the end of the current turn.
+
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"

@@ -16,10 +16,10 @@ When you reach a Sorcerer level specified in the Clockwork Spells table, you the
 
 | Sorcerer Level | Spells |
 |:-:|---|
-| 3 | *Aid*, *Alarm*, *Protection from Evil and Good*, *Lesser Restoration* |
-| 5 | *Dispel Magic*, *Protection from Energy* |
-| 7 | *Freedom of Movement*, *Summon Construct* |
-| 9 | *Greater Restoration*, *Wall of Force* |
+| 3 | [:spell-lv2: Aid], [:spell-lv1: Alarm], [:spell-lv1: Protection from Evil and Good], [:spell-lv2: Lesser Restoration] |
+| 5 | [:spell-lv3: Dispel Magic], [:spell-lv3: Protection from Energy] |
+| 7 | [:spell-lv4: Freedom of Movement], [:spell-lv4: Summon Construct] |
+| 9 | [:spell-lv5: Greater Restoration], [:spell-lv5: Wall of Force] |
 
 In addition, consult the Manifestations of Order table and choose or randomly determine a way your connection to order manifests while you are casting any of your sorcerer spells.
 
@@ -63,3 +63,9 @@ You momentarily summon spirits of order to expunge disorder around you. As an Ma
 ***Dispel.*** Every spell of level 6 or lower ends on creatures and objects of your choice in the Cube.
 
 Once you use this action, you can't use it again until you finish a Long Rest, unless you spend 7 sorcery points to use it again.
+
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"

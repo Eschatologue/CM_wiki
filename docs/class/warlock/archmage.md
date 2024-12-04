@@ -19,10 +19,10 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells |
 |:-:|---|
-| 3 | *Magic Missile*, *Magic Weapon*, *Arcane Vigor*, *Shield* |
-| 5 | *Lightning Bolt*, *Tiny Servant* |
-| 7 | *Arcane Eye*, *Otiluke's Resilient Sphere* |
-| 9 | *Arcane Hand*, *Wall of Force* |
+| 3 | [:spell-lv1: Magic Missile], [:spell-lv2: Magic Weapon], [:spell-lv2: Arcane Vigor], [:spell-lv1: Shield] |
+| 5 | [:spell-lv3: Lightning Bolt], [:spell-lv3: Tiny Servant] |
+| 7 | [:spell-lv4: Arcane Eye], [:spell-lv4: Otiluke's Resilient Sphere] |
+| 9 | [:spell-lv5: Arcane Hand], [:spell-lv5: Wall of Force] |
 
 ### Level 3: Arcane Apprentice
 
@@ -57,3 +57,9 @@ Your understanding of the arcane allows you to resist magical effects, giving yo
 ### Level 14: Improved Arcanum
 
 When you choose a spell for your Mystic Arcanum, you can select a spell from the Wizard spell list instead of the Warlock spell list. This choice applies when you first select the Mystic Arcanum spell and when you replace it at later level
+
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"

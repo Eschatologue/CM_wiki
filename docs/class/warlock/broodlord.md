@@ -15,10 +15,10 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells |
 |:-:|---|
-| 3 | *Blindness/Deafness*, *Ray of Sickness*, *Sleep*, *Web* |
-| 5 | *Slow*, *Stinking Cloud* |
-| 7 | *Dominate Beast*, *Phantasmal Killer* |
-| 9 | *Cloudkill*, *Dominate Person* |
+| 3 | [:spell-lv2: Blindness/Deafness], [:spell-lv2: Ray of Sickness], [:spell-lv1: Sleep], [:spell-lv1: Web] |
+| 5 | [:spell-lv3: Slow], [:spell-lv3: Stinking Cloud] |
+| 7 | [:spell-lv4: Dominate Beast], [:spell-lv4: Phantasmal Killer] |
+| 9 | [:spell-lv5: Cloudkill], [:spell-lv5: Dominate Person] |
 
 ### Level 3: Gathering Swarm
 

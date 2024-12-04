@@ -16,10 +16,10 @@ The magic of your otherworldly patron ensures you always have certain spells rea
 
 | Warlock Level | Spells |
 |---|---|
-| 3 | *Aid*, *Cure Wounds*, *Guiding Bolt*, *Lesser Restoration*, *Light*, *Sacred Flame* |
-| 5 | *Daylight*, *Revivify* |
-| 7 | *Guardian of Faith*, *Wall of Fire* |
-| 9 | *Greater Restoration*, *Summon Celestial* |
+| 3 | [:spell-lv2: Aid], [:spell-lv1: Cure Wounds], [:spell-lv1: Guiding Bolt], [:spell-lv2: Lesser Restoration], [:spell-lv0: Light], [:spell-lv0: Sacred Flame] |
+| 5 | [:spell-lv3: Daylight], [:spell-lv3: Revivify] |
+| 7 | [:spell-lv4: Guardian of Faith], [:spell-lv4: Wall of Fire] |
+| 9 | [:spell-lv5: Greater Restoration], [:spell-lv5: Summon Celestial] |
 
 ### Level 3: Healing Light
 
@@ -42,3 +42,9 @@ You gain Temporary Hit Points whenever you use your Magical Cunning feature or f
 The radiant energy you channel allows you to resist death. When you have to make a death saving throw at the start of your turn, you can instead spring to your feet with a burst of radiant energy. You regain Hit Points equal to half your Hit Point Maximum and then stand if you so choose. Each creature of your choice that is within 30 feet of you takes :dmg-radiant: Radiant damage equal to 2d8 plus your Charisma modifier, and each has the Blinded condition until the end of the current turn.
 
 Once you use this feature, you can't use it again until you finish a Long Rest.
+
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"

@@ -22,10 +22,10 @@ The magic of your otherworldly patron ensures you always have certain spells rea
 
 | Warlock Level | Spells |
 |:-:|---|
-| 3 | *Detect Thoughts*, *Dissonant Whispers*, *Phantasmal Force*, *Tasha's Hideous Laughter* |
-| 5 | *Clairvoyance*, *Hunger of Hadar* |
-| 7 | *Confusion*, *Summon Aberration* |
-| 9 | *Modify Memory*, *Telekinesis* |
+| 3 | [:spell-lv1: Detect Thoughts], [:spell-lv1: Dissonant Whispers], [:spell-lv2: Phantasmal Force], [:spell-lv2: Tasha's Hideous Laughter] |
+| 5 | [:spell-lv3: Clairvoyance], [:spell-lv3: Hunger of Hadar] |
+| 7 | [:spell-lv4: Confusion], [:spell-lv4: Summon Aberration] |
+| 9 | [:spell-lv5: Modify Memory], [:spell-lv5: Telekinesis] |
 
 ### Level 3: Psychic Spells
 
@@ -49,3 +49,9 @@ Your thoughts can't be read by telepathy or other means unless you allow it. You
 Your patron grants you the ability to manifest a part of itself. You always have the Summon Aberration spell prepared. When you cast the spell, you can modify it so that it doesn't require Concentration. If you do so, the spell's duration becomes 1 minute for that casting and when summoned, the Aberration has a number of Temporary Hit Points equal to your Warlock level plus your Charisma modifier.
 
 In addition, the first time each turn the Aberration hits a creature under the effect of your *Hex*, the Aberration deals extra :dmg-psychic: Psychic damage to the target equal to the bonus damage of that spell.
+
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"

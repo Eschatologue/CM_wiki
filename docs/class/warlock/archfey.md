@@ -13,12 +13,13 @@ Your pact draws on the power of the Feywild, the mysterious realm of the Fey. Wh
 The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Archfey Spells table, you thereafter always have the listed spells prepared.
 
 ##### Archfey Spells 
+
 | Warlock Level | Spells |
 |:-:|---|
-| 3 | *Calm Emotions*, *Faerie Fire*, *Misty Step*, *Phantasmal Force*, *Sleep*  |
-| 5 | *Blink*, *Plant Growth* |
-| 7 | *Dominate Beast*, *Greater Invisibility*  |
-| 9 | *Dominate Person*, *Seeming* |
+| 3 | [:spell-lv1: Calm Emotions], [:spell-lv1: Faerie Fire], [:spell-lv2: Misty Step], [:spell-lv2: Phantasmal Force], [:spell-lv1: Sleep] |
+| 5 | [:spell-lv3: Blink], [:spell-lv3: Plant Growth] |
+| 7 | [:spell-lv4: Dominate Beast], [:spell-lv4: Greater Invisibility] |
+| 9 | [:spell-lv5: Dominate Person], [:spell-lv5: Seeming] |
 
 ### Level 3: Steps Of The Fey
 
@@ -32,7 +33,7 @@ In addition, whenever you cast that spell, you can choose one of the following a
 
 ### Level 6: Misty Escape
 
-You can cast *Misty Step* as a Reaction in response to taking damage.
+You can cast [:spell-lv2: Misty Step] as a Reaction in response to taking damage.
 
 In addition, the following effects are now among your Steps of the Fey options.
 
@@ -50,4 +51,10 @@ Once you use this Reaction, you can't use it again until you finish a Long Rest 
 
 ### Level 14: Bewitching Magic
 
-Your patron bestows on you the ability to weave your magic with teleportation. Immediately after you cast an Enchantment or Illusion spell using an action and a spell slot, you can cast *Misty Step* as part of the same action and without expending a spell slot.
+Your patron bestows on you the ability to weave your magic with teleportation. Immediately after you cast an Enchantment or Illusion spell using an action and a spell slot, you can cast [:spell-lv2: Misty Step] as part of the same action and without expending a spell slot.
+
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"

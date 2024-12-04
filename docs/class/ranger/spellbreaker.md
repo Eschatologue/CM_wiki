@@ -17,7 +17,7 @@ Also, when you see a creature casting a spell with Verbal, Somatic, or Material 
 
 ### Level 3: Spellsight
 
-You have learned to see the arcane potential of others. When you mark a creature using :spell-lv1: *Hunter's Mark*, you instantly learn its spellcasting ability (if it has one) and the highest level spell that it has the ability to cast. If it is hidden from divination magic, such as by :spell-lv3: *Nondetection*, this feature fails.
+You have learned to see the arcane potential of others. When you mark a creature using [:spell-lv1: Hunter's Mark], you instantly learn its spellcasting ability (if it has one) and the highest level spell that it has the ability to cast. If it is hidden from divination magic, such as by [:spell-lv3: Nondetection], this feature fails.
 
 ### Level 3: Spellbreaker Magic
 
@@ -27,11 +27,11 @@ When you reach a Ranger level specified in the Spellbreaker Spells Table, you th
 
 | Ranger Level | Spell |
 |:-:|---|
-| 3 | *Absorb Elements*, *Detect Magic* |
-| 5 | *Blindness/Deafness*, *Silence* |
-| 9 | *Counterspell*, *Dispel Magic* |
-| 13 | *Arcane Eye*, *Otiluke's Resilient Sphere* |
-| 17 | *Dispel Evil and Good*, *Wall of Force* |
+| 3 | [:spell-lv1: Absorb Elements], [:spell-lv1: Detect Magic] |
+| 5 | [:spell-lv2: Blindness/Deafness], [:spell-lv2: Silence] |
+| 9 | [:spell-lv3: Counterspell], [:spell-lv3: Dispel Magic] |
+| 13 | [:spell-lv4: Arcane Eye], [:spell-lv4: Otiluke's Resilient Sphere] |
+| 17 | [:spell-lv5: Dispel Evil and Good], [:spell-lv5: Wall of Force] |
 
 ### Level 7: Arcane Defense
 
@@ -43,11 +43,11 @@ Moreover, whenever you are subjected you to a spell or magical effect that allow
 
 You are an unparalleled hunter of mages. Whenever you hit a creature with a weapon attack, you can expend a level 1+ spell slot to deal bonus :dmg-force: Force damage to your target equal to 1d8 per level of the spell slot you expended. 
 
-Moreover, when you cast *[:spell-lv3: Dispel Magic]* or *[:spell-lv3: Counterspell]*, it gains the following effects.
+Moreover, when you cast [:spell-lv3: Dispel Magic] or [:spell-lv3: Counterspell], it gains the following effects.
 
-:spell-lv3: ***Dispel Magic.*** When you cast *[:spell-lv3: Dispel Magic]* and you need to make a spellcasting ability check to determine the result, you can treat a roll of 9 or lower as a 10. 
+***Dispel Magic.*** When you cast [:spell-lv3: Dispel Magic] and you need to make a spellcasting ability check to determine the result, you can treat a roll of 9 or lower as a 10. 
 
-:spell-lv3: ***Counterspell.*** When you cast *[:spell-lv3: Counterspell]*, your target has :d20-disadv: **Disadvantage** on the :d20-save: saving throw.
+***Counterspell.*** When you cast [:spell-lv3: Counterspell], your target has :d20-disadv: **Disadvantage** on the :d20-save: saving throw.
 
 ### Level 15: Mantle of the Master
 
@@ -55,8 +55,10 @@ Your Spellbreaker training has reached its pinnacle. You are resistant to damage
 
 ### Level 15: Reflect Spell
 
-Your training allows you to strike spells from the weave. You can cast *[:spell-lv1: Absorb Elements]* at will. After you cast the spell, if your next weapon attack—melee or ranged—is against the creature whose spell or damage you absorbed, the bonus damage from the spell is treated as its maximum possible amount.
+Your training allows you to strike spells from the weave. You can cast [:spell-lv1: Absorb Elements] at will. After you cast the spell, if your next weapon attack—melee or ranged—is against the creature whose spell or damage you absorbed, the bonus damage from the spell is treated as its maximum possible amount.
 
-[:spell-lv1: Absorb Elements]: ../../spells/description/core/level-1.md#absorb-elements
-[:spell-lv3: Dispel Magic]: ../../spells/description/core/level-3.md#dispel-magic
-[:spell-lv3: Counterspell]: ../../spells/description/core/level-3.md#counterspell
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"

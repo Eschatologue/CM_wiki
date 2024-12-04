@@ -35,23 +35,23 @@ Primal energy flows through you. When you reach a ranger level specified in the 
 
 | Level | Spells |
 |:-:|---|
-| 3 | *Faerie Fire*, *Sanctuary* |
-| 5 |*Find Steed*, *Misty Step*|
-| 9 |*Aura of Vitality*, *Erupting Earth*|
-| 13| *Giant Insect*, *Stone Shape*|
-| 17| *Hold Monster*, *Commune*|
+| 3 | [:spell-lv1: Faerie Fire], [:spell-lv1: Sanctuary] |
+| 5 | [:spell-lv2: Find Steed], [:spell-lv2: Misty Step] |
+| 9 | [:spell-lv3: Aura of Vitality], [:spell-lv3: Erupting Earth] |
+| 13 | [:spell-lv4: Giant Insect], [:spell-lv4: Stone Shape] |
+| 17 | [:spell-lv5: Hold Monster], [:spell-lv5: Commune] |
 
 ### Level 7: Wild Resurgence
 
-You gain proficiency in constitution saving throws. If you already have this proficiency, you instead gain proficiency in Wisdom or charisma saving throw.
+You gian the following benefits:
 
-You can cast the Spike Growth without expending a Spell Slot at its lowest level. 
+***Constitution Save.*** You gain proficiency in Constitution saving throws. If you already have this proficiency, you instead gain proficiency in Wisdom or Charisma saving throw.
 
-You can use this feature a number of times up to your Wisdom modifier. You regain all expended use after a Long Rest. Moreover, the creature you choose up to your Wisdom modifier is not affected by this spell.
+***Spike Growth.*** You can cast the [:spell-lv2: Spike Growth] without expending a Spell Slot at its lowest level. You can use this feature a number of times up to your Wisdom modifier. You regain all expended use after a Long Rest. Moreover, the creature you choose up to your Wisdom modifier is not affected by this spell.
 
 ### Level 11: Rooted Defense
 
-When you or a creature you can see within 30 feet is hit by an attack, you can use your reaction to cover that creature in hard barks & thornsThe target gains Temporary Hit Points equal to half your Ranger level, and the triggering damage is allocated to the Temporary Hit Point instead.
+When you or a creature you can see within 30 feet is hit by an attack, you can use your :rsc-r: Reaction to cover that creature in hard barks & thorns. The target gains Temporary Hit Points equal to half your Ranger level, and the triggering damage is allocated to the Temporary Hit Point instead.
 
 ### Level 15: Consecrated Grounds
 
@@ -59,8 +59,14 @@ As a Bonus Action, You beckon the Avatar of Nature to aid you in combat. A large
 
 Once during your turn, You can command it to move up to 30 feet (No action required). An aura radiates from the avatar in a 20-foot emanation for the duration and has the following features:
 
-***Overgrowth.*** The ground within the aura is difficult terrain for your enemies. When an enemy creature moves into or within the area, it takes 2d6 piercing damage for every 5 feet it travels.
+***Overgrowth.*** The ground within the aura is Difficult Terrain for your enemies. When an enemy creature moves into or within the area, it takes 2d6 :dmg-piercing: Piercing damage for every 5 feet it travels.
 
-***Guardian Aura.*** While in the aura, you and your allies have Advantage on all saving throws against spells. Additionally, At the start of each of your or your allies turn, regain 2d6 hit points.
+***Guardian Aura.*** While in the aura, you and your allies have Advantage on all saving throws against spells. Additionally, At the start of each of your or your allies turn, regain 2d6 Hit Points.
 
 Once you use this feature, you can't use it again until you finish a long rest. You can also restore your use of it by expending a level 4 spell slot.
+
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"

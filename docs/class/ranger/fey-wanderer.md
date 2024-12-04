@@ -22,11 +22,11 @@ When you reach a Ranger level specified in the Fey Wanderer Spells Table, you th
 
 | Ranger Level | Spells | Bonus Spells^*CM*^ |
 |:---:|:---|---|
-| 3 | *Charm Person* | *Cause Fear* |
-| 5 | *Misty Step* | *Enthrall* |
-| 9 | *Summon Fey* | *Dispel Magic* |
-| 13 | *Dimension Door* | *Charm Person* |
-| 17 | *Mislead* | *Geas* |
+| 3 | [:spell-lv1: Charm Person] | [:spell-lv1: Cause Fear] |
+| 5 | [:spell-lv2: Misty Step] | [:spell-lv2: Enthrall] |
+| 9 | [:spell-lv3: Summon Fey] | [:spell-lv3: Dispel Magic] |
+| 13 | [:spell-lv4: Dimension Door] | [:spell-lv4: Charm Monster] |
+| 17 | [:spell-lv5: Mislead] | [:spell-lv5: Geas] |
 
 You also possess a preternatural blessing from a fey ally or a place of fey power. Choose your blessing from the Feywild Gifts table or determine it randomly.
 
@@ -59,6 +59,12 @@ Whenever you start casting the spell, you can modify it so that it doesn't requi
 
 ### Level 15: Misty Wanderer
 
-You can cast Misty Step without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+You can cast [:spell-lv2: Misty Step] without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
-In addition, whenever you cast Misty Step, you can bring along one willing creature you can see within 5 feet of you. That creature teleports to an unoccupied space of your choice within 5 feet of your destination space.
+In addition, whenever you cast [:spell-lv2: Misty Step], you can bring along one willing creature you can see within 5 feet of you. That creature teleports to an unoccupied space of your choice within 5 feet of your destination space.
+
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"

@@ -37,7 +37,7 @@ Once you use this feature, you can't do so again until you finish a Long Rests.
 ### Wild Magic Surge
 
 | 1d100 | Effect |
-|---|---|
+|:-:|---|
 | 01-04 | Roll on this table at the start of each of your turns for the next minute, ignoring this result on subsequent rolls. |
 | 05-08 | A creature that is Friendly toward you appears in a random unoccupied space within 60 feet of you. The creature is under the DM's control and disappears 1 minute later. Roll 1d4 to determine the creature: on a 1, a Modron Duodrone appears; on a 2, a Flumph appears; on a 3, a Modron Monodrone appears; on a 4, a Unicorn appears. See the Monster Manual for the creature's stat block. |
 | 09-12 | For the next minute, you regain 5 Hit Points at the start of each of your turns. |
@@ -63,4 +63,5 @@ Once you use this feature, you can't do so again until you finish a Long Rests.
 | 89-92 | Up to three creatures of your choice that you can see within 30 feet of you take 4d10 Lightning damage. |
 | 93-96 | You and all creatures within 30 feet of you have Vulnerability to Piercing damage for the next minute. |
 | 97-00 | Roll 1d6 On a 1, you regain 2d10 Hit Points; on a 2, one ally of your choice within 300 feet of you regains 2d10 Hit Points; on a 3, you regain your lowest-level expended spell slot; on a 4, one ally of your choice within 300 feet of you regains their lowest-level expended spell slot; on a 5, you regain all your expended Sorcery Points; on a 6, all the effects of row 17-20 affect you simultaneously. |
+
 

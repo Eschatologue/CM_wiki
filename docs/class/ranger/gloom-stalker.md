@@ -24,11 +24,11 @@ The magic of the Shadowfell ensures you always have certain spells ready; when y
 
 | Ranger Level | Spells | Bonus Spells^*CM*^ |
 |:---:|:---|:---|
-| 3 | *Disguise Self* | *Cause Fear* |
-| 5 | *Rope Trick* | *Darkness* |
-| 9 | *Fear* | *Nondetection* |
-| 13 | *Greater Invisibility* | *Phantasmal Killer* |
-| 17 | *Seeming* | *Mislead* |
+| 3 | [:spell-lv1: Disguise Self] | [:spell-lv1: Cause Fear] |
+| 5 | [:spell-lv2: Rope Trick] | [:spell-lv2: Darkness] |
+| 9 | [:spell-lv3: Fear] | [:spell-lv3: Nondetection] |
+| 13 | [:spell-lv4: Greater Invisibility] | [:spell-lv4: Phantasmal Killer] |
+| 17 | [:spell-lv5: Seeming] | [:spell-lv5: Mislead] |
 
 ### Level 3: Umbral Sight
 
@@ -51,3 +51,9 @@ The Psychic damage of your Dreadful Strike becomes 2d8. In addition, when you us
 ### Level 17: Shadowy Dodge
 
 When a creature makes an attack roll against you, you can use your Reaction to impose Disadvantage on that roll. If the attack then misses, you can teleport up to 30 feet to an unoccupied space you can see.
+
+--8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv3.md"
+--8<-- "includes/snippets/spells2/lv4.md"
+--8<-- "includes/snippets/spells2/lv5.md"
