@@ -15,7 +15,9 @@ title: Wizard (Class)
 |---|---|
 | **Primary Ability** | Intelligence |
 | **Hit Point Die** | D6 per Wizard level |
-| **Saving Throw Proficiencies** | Intelligence and Wisdom |
+| **HP at Level 1** | 6 + :ability-cons: Con. modifier. |
+| **HP per Wizard Level** | 4 + :ability-cons: Con. modifier |
+| **Saving Throw Proficiencies** | :ability-int: Intelligence and :ability-wis: Wisdom |
 | **Skill Proficiencies** | Choose 2: Arcana, History, Insight, Investigation, Medicine, Nature, or Religion |
 | **Weapon Proficiencies** | Simple weapons |
 | **Armour Training** | None |

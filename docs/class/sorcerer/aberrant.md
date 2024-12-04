@@ -53,6 +53,7 @@ You can unleash your aberrant power as a space-warping anomaly. As Magic action,
 
 Once you use this feature, you can't do so again until you finish a Long Rest, unless you spend 5 Sorcery Points to use it again.
 
+--8<-- "includes/snippets/spells2/lv0.md"
 --8<-- "includes/snippets/spells2/lv1.md"
 --8<-- "includes/snippets/spells2/lv2.md"
 --8<-- "includes/snippets/spells2/lv3.md"

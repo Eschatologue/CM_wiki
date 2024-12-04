@@ -13,9 +13,11 @@ title: Warlock (Class)
 
 | Trait | Detail |
 |---|---|
-| **Primary Ability** | Charisma |
+| **Primary Ability** | :ability-cha: Charisma |
 | **Hit Point Die** | D8 per Warlock level |
-| **Saving Throw Proficiencies** | Wisdom and Charisma |
+| **HP at Level 1** | 8 + :ability-cons: Con. modifier. |
+| **HP per Warlock Level** | 6 + :ability-cons: Con. modifier |
+| **Saving Throw Proficiencies** | :ability-wis: Wisdom and :ability-cha: Charisma |
 | **Skill Proficiencies** | Choose 2: Arcana, Deception, History, Intimidation, Investigation, Nature, or Religion |
 | **Weapon Proficiencies** | Simple weapons |
 | **Armour Training** | Light armo |

@@ -28,8 +28,8 @@ You must otherwise obey all the restrictions for selecting the spell, and it bec
 | Spell Level | Spell |
 |:-:|---|
 | 1 | [:spell-lv1: Compelled Duel], [:spell-lv1: Searing Smite], [:spell-lv1: Thunderous Smite], [:spell-lv1: Wrathful Smite] |
-| 2 | [:spell-lv2: Elemental Weapon], [:spell-lv2: Magic Weapon], [:spell-lv2: Shining Smite] |
-| 3 | [:spell-lv3: Blinding Smite] |
+| 2 | [:spell-lv2: Magic Weapon], [:spell-lv2: Shining Smite] |
+| 3 | [:spell-lv3: Blinding Smite], [:spell-lv3: Elemental Weapon] |
 | 4 | [:spell-lv4: Staggering Smite] |
 | 5 | [:spell-lv5: Banishing Smite] |
 

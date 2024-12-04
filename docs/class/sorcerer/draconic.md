@@ -23,9 +23,9 @@ When you reach a Sorcerer level specified in the Draconic Spells table, you ther
 | Sorcerer Level | Spells |
 |:-:|---|
 | 3 | [:spell-lv1: Alter Self], [:spell-lv1: Chromatic Orb], [:spell-lv1: Command], [:spell-lv1: Dragon's Breath] |
-| 5 | [:spell-lv2: Fear], [:spell-lv2: Fly] |
-| 7 | [:spell-lv3: Arcane Eye], [:spell-lv3: Charm Monster] |
-| 9 | [:spell-lv4: Legend Lore], [:spell-lv4: Summon Dragon] |
+| 5 | [:spell-lv3: Fear], [:spell-lv3: Fly] |
+| 7 | [:spell-lv4: Arcane Eye], [:spell-lv4: Charm Monster] |
+| 9 | [:spell-lv5: Legend Lore], [:spell-lv5: Summon Dragon] |
 
 ### Level 6: Elemental Affinity
 
@@ -41,9 +41,9 @@ Once you use this feature, you can't use it again until you finish a Long Rest u
 
 ### Level 18: Dragon Companion
 
-You can cast [:spell-lv4: Summon Dragon] without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a Long Rest.
+You can cast [:spell-lv5: Summon Dragon] without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a Long Rest.
 
-Whenever you start casting [:spell-lv4: Summon Dragon], you can modify it so that it doesn't require Concentration. If you do so, the spell's duration becomes 1 minute for that casting.
+Whenever you start casting [:spell-lv5: Summon Dragon], you can modify it so that it doesn't require Concentration. If you do so, the spell's duration becomes 1 minute for that casting.
 
 --8<-- "includes/snippets/spells2/lv1.md"
 --8<-- "includes/snippets/spells2/lv2.md"

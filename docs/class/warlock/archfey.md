@@ -16,7 +16,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells |
 |:-:|---|
-| 3 | [:spell-lv1: Calm Emotions], [:spell-lv1: Faerie Fire], [:spell-lv2: Misty Step], [:spell-lv2: Phantasmal Force], [:spell-lv1: Sleep] |
+| 3 | [:spell-lv2: Calm Emotions], [:spell-lv1: Faerie Fire], [:spell-lv2: Misty Step], [:spell-lv2: Phantasmal Force], [:spell-lv1: Sleep] |
 | 5 | [:spell-lv3: Blink], [:spell-lv3: Plant Growth] |
 | 7 | [:spell-lv4: Dominate Beast], [:spell-lv4: Greater Invisibility] |
 | 9 | [:spell-lv5: Dominate Person], [:spell-lv5: Seeming] |

@@ -13,8 +13,10 @@ title: Rogue (Class)
 
 | Trait | Detail |
 |---|---|
-| **Primary Ability** | Dexterity |
+| **Primary Ability** | :ability-dex: Dexterity |
 | **Hit Point Die** | D8 per Rogue level |
+| **HP at Level 1** | 8 + :ability-cons: Con. modifier. |
+| **HP per Cleric Level** | 5 + :ability-cons: Con. modifier |
 | **Saving Throw Proficiencies** | :ability-dex: Dexterity and :ability-int: Intelligence |
 | **Skill Proficiencies** | Choose 4: Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Persuasion, Sleight of Hand, or Stealth |
 | **Weapon Proficiencies** | Simple weapons and Martial weapons that have the :weapon-prop-finesse: ^^Finesse^^ or :weapon-prop-light: ^^Light^^ property |

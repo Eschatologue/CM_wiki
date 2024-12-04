@@ -13,9 +13,11 @@ title: Sorcerer (Class)
 
 | Trait | Detail |
 |---|---|
-| **Primary Ability** | Charisma |
+| **Primary Ability** | :ability-cha: Charisma |
 | **Hit Point Die** | D6 per Sorcerer level |
-| **Saving Throw Proficiencies** | Constitution and Charisma |
+| **HP at Level 1** | 6 + :ability-cons: Con. modifier. |
+| **HP per Sorcerer Level** | 4 + :ability-cons: Con. modifier |
+| **Saving Throw Proficiencies** | :ability-cons: Constitution and :ability-cha: Charisma |
 | **Skill Proficiencies** | Choose 2: Arcana, Deception, Insight, Intimidation, Persuasion, or Religion |
 | **Weapon Proficiencies** | Simple weapons |
 | **Armour Training** | None |

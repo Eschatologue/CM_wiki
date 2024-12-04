@@ -22,7 +22,7 @@ The magic of your otherworldly patron ensures you always have certain spells rea
 
 | Warlock Level | Spells |
 |:-:|---|
-| 3 | [:spell-lv1: Detect Thoughts], [:spell-lv1: Dissonant Whispers], [:spell-lv2: Phantasmal Force], [:spell-lv2: Tasha's Hideous Laughter] |
+| 3 | [:spell-lv2: Detect Thoughts], [:spell-lv1: Dissonant Whispers], [:spell-lv2: Phantasmal Force], [:spell-lv2: Tasha's Hideous Laughter] |
 | 5 | [:spell-lv3: Clairvoyance], [:spell-lv3: Hunger of Hadar] |
 | 7 | [:spell-lv4: Confusion], [:spell-lv4: Summon Aberration] |
 | 9 | [:spell-lv5: Modify Memory], [:spell-lv5: Telekinesis] |

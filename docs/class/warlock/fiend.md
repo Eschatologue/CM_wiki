@@ -18,7 +18,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells |
 |:-:|---|
-| 3 | [:spell-lv1: Burning Hands], [:spell-lv1: Command], [:spell-lv1: Scorching Ray], [:spell-lv2: Suggestion] |
+| 3 | [:spell-lv1: Burning Hands], [:spell-lv1: Command], [:spell-lv2: Scorching Ray], [:spell-lv2: Suggestion] |
 | 5 | [:spell-lv3: Fireball], [:spell-lv3: Stinking Cloud] |
 | 7 | [:spell-lv4: Fire Shield], [:spell-lv4: Wall of Fire] |
 | 9 | [:spell-lv5: Geas], [:spell-lv5: Insect Plague] |

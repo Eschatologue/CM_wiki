@@ -58,6 +58,7 @@ Your understanding of the arcane allows you to resist magical effects, giving yo
 
 When you choose a spell for your Mystic Arcanum, you can select a spell from the Wizard spell list instead of the Warlock spell list. This choice applies when you first select the Mystic Arcanum spell and when you replace it at later level
 
+--8<-- "includes/snippets/spells2/lv0.md"
 --8<-- "includes/snippets/spells2/lv1.md"
 --8<-- "includes/snippets/spells2/lv2.md"
 --8<-- "includes/snippets/spells2/lv3.md"

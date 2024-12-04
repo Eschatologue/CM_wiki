@@ -13,9 +13,11 @@ title: Ranger (Class)
 
 | Trait | Detail |
 |---|---|
-| **Primary Ability** | Strength/Dexterity, and Wisdom |
+| **Primary Ability** | :ability-str: Strength or :ability-dex: Dexterity, and :ability-wis: Wisdom |
 | **Hit Point Die** | D10 per Ranger level |
-| **Saving Throw Proficiencies** | Strength and Dexterity |
+| **HP at Level 1** | 8 + :ability-cons: Con. modifier. |
+| **HP per Cleric Level** | 5 + :ability-cons: Con. modifier |
+| **Saving Throw Proficiencies** | :ability-str: Strength and :ability-dex: Dexterity |
 | **Skill Proficiencies** | Choose 3: Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, or Survival |
 | **Weapon Proficiencies** | Simple and Martial weapons |
 | **Armour Training** | Light and Medium armour and Shields |
