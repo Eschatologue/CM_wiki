@@ -80,7 +80,7 @@ After a Long Rest, the Artificer can tinker with the weapon and change the Maste
 
 _**Prerequisite:** Level 6+, Shield (requires attunement)_
 
-As a Utilise action, the wielder can slam this magic shield into the ground, expending Charges to produce the effects of *[Wall of Stone](../../spells/description/core/level-5.md#wall-of-stone)* centered on the shield, which remains in the ground. However, this effect only creates a number of panels equal to the Charges spent, it doesn't require Concentration, and lasts for 1 minute. The wall is destroyed if the shield is removed.
+As a Utilise action, the wielder can slam this magic shield into the ground, expending Charges to produce the effects of [:spell-lv5: Wall of Stone] centered on the shield, which remains in the ground. However, this effect only creates a number of panels equal to the Charges spent, it doesn't require Concentration, and lasts for 1 minute. The wall is destroyed if the shield is removed.
 
 This magical shield has a number of Charges equal to your Intelligence modifier (a minimum of 1 Charge), and it regains all of its expended Charges each day at dawn.
 
@@ -92,7 +92,7 @@ At level 10, this magic shield grants a +1 bonus to Armour Class. This Armour Cl
 
 _**Prerequisite:** Level 6+; Gauntlet, Arcane Focus, or Metal Rod_
 
-As an action, the wielder of this magical object can expend Charges and use your Artificer Spellcasting modifier to cast these spells: *Firebolt* (0 Charges), *Burning Hands* (1 Charge), *Scorching Ray* (2 Charges), or *Fireball* (3 Charges).
+As an action, the wielder of this magical object can expend Charges and use your Artificer Spellcasting modifier to cast these spells: [:spell-lv0: Firebolt] (0 Charges), [:spell-lv1:  Burning Hands] (1 Charge), [:spell-lv2: Scorching Ray] (2 Charges), or [:spell-lv3: Fireball] (3 Charges).
 
 This magical item has a number of Charges equal to your Intelligence modifier (minimum of 1 Charge), and it regains all of its expended Charges each day at dawn.
 
@@ -121,7 +121,7 @@ The luminous blade emits bright light in a 15-foot radius and dim light for an a
 
 _**Prerequisite:** Level 14+; A helm, or diadem_
 
-The wearer of this magic helm has Resistance to Psychic damage, Immunity to the Charmed and Frightened conditions, and any magic that allows another creature to read their thoughts or telepathically communicate with them.
+The wearer of this magic helm has :dmg-res: Resistance to :dmg-psychic: Psychic damage, :dmg-imm: Immunity to the Charmed and Frightened conditions, and any magic that allows another creature to read their thoughts or telepathically communicate with them.
 
 ---
 
@@ -129,7 +129,7 @@ The wearer of this magic helm has Resistance to Psychic damage, Immunity to the 
 
 _**Prerequisite:** Level 14+, A melee weapon (requires attunement)_
 
-This item has 4 charges. While wielding this magic weapon, the user can take a Magic action to cast the *Foreign Ironwind* spell as a level 5 spell, using the Infused weapon as the spellcasting focus, without expending a spell slot. The weapon regains all expended charges at the end of a Long Rest.
+This item has 4 charges. While wielding this magic weapon, the user can take a Magic action to cast the [:spell-lv2: Foreign Ironwind]^*CM*^ spell as a level 5 spell, using the Infused weapon as the spellcasting focus, without expending a spell slot. The weapon regains all expended charges at the end of a Long Rest.
 
 ---
 
@@ -137,11 +137,18 @@ This item has 4 charges. While wielding this magic weapon, the user can take a M
 
 _**Prerequisite:** Level 14+, A ranged weapon (requires attunement)_
 
-While wielding this magic weapon, the user can take a Magic action to cast *Swift Quiver*, using the Infused weapon as the spellcasting focus, without expending a spell slot.
+While wielding this magic weapon, the user can take a Magic action to cast [:spell-lv5: Swift Quiver], using the Infused weapon as the spellcasting focus, without expending a spell slot.
 
-Once activated, the wielder must finish a Short or Long Rest before they can cast *Swift Quiver* with this weapon again.
+Once activated, the wielder must finish a Short or Long Rest before they can cast [:spell-lv5: Swift Quiver] with this weapon again.
 
 ---
 
+[:spell-lv2: Foreign Ironwind]: ../../../spells/description/additional/homebrew/level-2.md#foreign-ironwind
+
 --8<-- "includes/snippets/item-mastery.md"
 
+--8<-- "includes/snippets/spells3/lv1.md"
+--8<-- "includes/snippets/spells3/lv2.md"
+--8<-- "includes/snippets/spells3/lv3.md"
+--8<-- "includes/snippets/spells3/lv4.md"
+--8<-- "includes/snippets/spells3/lv5.md"

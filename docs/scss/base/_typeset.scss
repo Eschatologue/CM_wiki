@@ -105,18 +105,18 @@ $h4Size: $defaultFontSize * 1.15;
 /* Divider Line */
 .md-typeset hr {
     border-bottom: convert.px2em(3px) dashed rgba(255, 255, 255, 0.15);
-    &::after {
-        content: "§";
-        font-weight: 700;
-        color: rgba(255, 255, 255, 0.15);
-        display: inline-block;
-        position: absolute;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        transform-origin: 50% 50%;
-        padding: convert.px2rem(2px) convert.px2rem(8px);
-        background-color: var(--md-default-bg-color);
-    }
+    // &::after {
+    //     content: "§";
+    //     font-weight: 700;
+    //     color: rgba(255, 255, 255, 0.15);
+    //     display: inline-block;
+    //     position: absolute;
+    //     left: 50%;
+    //     transform: translate(-50%, -50%);
+    //     transform-origin: 50% 50%;
+    //     padding: convert.px2rem(2px) convert.px2rem(8px);
+    //     background-color: var(--md-default-bg-color);
+    // }
 }
 
 .xxxxl {

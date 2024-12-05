@@ -147,7 +147,7 @@ You gain a Cleric subclass of your choice. A subclass is a specialization that g
 
 ### Level 4: Ability Score Improvement
 
-You gain the [Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another feat of your choice for which you qualify. You gain this feature again at Cleric levels 8, 12, and 16.
+You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Cleric levels 8, 12, and 16.
 
 ### Level 5: Smite Undead
 

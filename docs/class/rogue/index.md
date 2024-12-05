@@ -121,7 +121,7 @@ As a Bonus Action, you give yourself Advantage on your next attack roll on the c
 
 ### Level 4: Ability Score Improvement
 
-You gain the [Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another feat of your choice for which you qualify. You gain this feature again at Rogue levels 8, 10, 12, and 16.
+You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Rogue levels 8, 10, 12, and 16.
 
 ### Level 5: Cunning Strike
 
