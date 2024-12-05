@@ -32,7 +32,7 @@ You gain the ability to channel the lethal repercussion of speaking Celestial to
 
 #### Maledict Die Saving Throw  
 
-If a power requires a :d20-save: saving throw, the DC equals 8 plus your Strength or Constitution modifier (your choice) and Proficiency Bonus.
+If a power requires a :d20-save: saving throw, the DC equals 8 plus your Strength or Constitution modifier and Proficiency Bonus, whichever is the highest.
 
 #### Maledict Die Damage
 
