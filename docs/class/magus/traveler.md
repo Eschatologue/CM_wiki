@@ -19,7 +19,7 @@ When you reach a Magus level specified in the Traveler Spells table, you thereaf
 
 | Magus Level | Spells |
 |:-:|---|
-| 3 | [:spell-lv1: Expeditious Retreat], [:spell-lv1: Featherfall] |
+| 3 | [:spell-lv1: Expeditious Retreat], [:spell-lv1: Feather Fall] |
 | 5 | [:spell-lv2: Hold Person], [:spell-lv2: Misty Step] |
 | 9 | [:spell-lv3: Haste], [:spell-lv3: Slow] |
 | 13 | [:spell-lv4: Banishment], [:spell-lv4: Dimension Door] |

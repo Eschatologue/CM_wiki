@@ -20,7 +20,7 @@ When you reach a Magus level specified in the Warder Spells table, you thereafte
 | 3 | [:spell-lv1: Compelled Duel], [:spell-lv1: Sanctuary] |
 | 5 | [:spell-lv2: Aid], [:spell-lv2: Warding Bond] |
 | 9 | [:spell-lv3: Beacon of Hope], [:spell-lv3: Life Transference] |
-| 13 | [:spell-lv4: Faithful Hound], [:spell-lv4: Death Ward] |
+| 13 | [:spell-lv4: Mordenkainen's Faithful Hound], [:spell-lv4: Death Ward] |
 | 17 | [:spell-lv5: Antilife Shell], [:spell-lv5: Circle of Power] |
 
 ### Level 3: Warder's Bond
@@ -56,6 +56,7 @@ In addition, while you are within 10 feet of your Ward you are both immune to th
 At the end of each Long Rest, you can bond up to five willing creatures as your Wards with Warder's Bond. All other rules for your Warder's Bond still apply for you.
 
 Also, when you use your Warder's Bond Reaction because your Ward was targeted by a spell, you can use Spellsunder as part of the same Reaction. When you do so, you have advantage on your Spellsunder attack roll. If your Spellsunder fails, you can still use Arcane Aegis to reduce the damage.
+
 --8<-- "includes/snippets/spells2/lv1.md"
 --8<-- "includes/snippets/spells2/lv2.md"
 --8<-- "includes/snippets/spells2/lv3.md"
