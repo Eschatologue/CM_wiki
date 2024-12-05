@@ -36,7 +36,7 @@ If a power requires a :d20-save: saving throw, the DC equals 8 plus your Strengt
 
 #### Maledict Die Damage
 
-If a Maledict Die Powers does damage, it is equals to the number of dice rolled that each of its power calls. If your **Rage** is active, you can add your Rage Damage bonus to the result, only if the power cause damage.
+If a Maledict Die Powers does damage, it is equals to the number of dice rolled that each of its power calls. If your **Rage** is active, Maledict Die powers can benefit from your Rage damage bonus, provided it initially haven't already benefiting from one.
 
 #### Using Maledict Die
 
