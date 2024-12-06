@@ -9,13 +9,11 @@ $paddings: 16px;
 $paddingScale: 7px;
 $th-padding: $paddingScale * 1.4;
 
-$tableFontSize: 14px;
+$tableFontSize: 12px;
 
 .md-typeset {
-
     // Table without a class
     & table:not([class]) {
-
         th,
         td {
             padding: convert.px2em($paddingScale) convert.px2em($paddings);
@@ -24,16 +22,9 @@ $tableFontSize: 14px;
 
         th {
             font-size: $tableFontSize * 0.9;
-
-            // Font Size on Smaller Screen
-            @media screen and (max-width: 768px) {
-                font-size: $tableFontSize * 0.80;
-            }
-
             font-weight: bold !important;
             text-transform: capitalize !important;
             vertical-align: bottom;
-
             color: var(--md-text-color);
             border-bottom: convert.px2rem(3px) solid var(--md-primary-fg-color);
             background-color: var(--md-mod-table-color--darkest);
@@ -41,14 +32,8 @@ $tableFontSize: 14px;
         }
 
         td {
-
             // Default Font Size
             font-size: $tableFontSize * 0.85;
-
-            // Font Size on Smaller Screen
-            @media screen and (max-width: 768px) {
-                font-size: $tableFontSize * 0.70;
-            }
 
             border: convert.px2rem(0px) transparent !important; // No Bottom Border
 
@@ -56,10 +41,20 @@ $tableFontSize: 14px;
             strong {
                 font-weight: typeset.$defaultFontWeight * 1.8;
             }
-
         }
 
-        // Reset hover effect 
+        // Adjust font sizes for smaller screens
+        @media screen and (max-width: 768px) {
+            th {
+                font-size: $tableFontSize * 0.8;
+            }
+
+            td {
+                font-size: $tableFontSize * 0.7;
+            }
+        }
+
+        // Reset hover effect
         table tr:hover {
             background-color: inherit !important;
             /* Ensures no change on hover */
@@ -89,47 +84,42 @@ $tableFontSize: 14px;
     }
 
     // Responsive behaviour for smaller screens
+    // @media screen and (max-width: 768px) {
+    //     table {
+    //         display: block;
+    //     }
+
+    //     table thead {
+    //         display: none;
+    //     }
+
+    //     table tbody tr {
+    //         display: block;
+    //         width: 100%;
+    //         margin-bottom: convert.px2rem(8px);
+    //         padding: convert.px2rem(6px);
+    //     }
+
+    //     table td {
+    //         display: block;
+    //         position: relative;
+    //         padding: convert.px2rem(5px) convert.px2rem(5px);
+    //         text-align: left !important;
+    //         word-wrap: break-word;
+    //         overflow-wrap: break-word;
+    //         white-space: normal;
+    //         border: none !important;
+    //     }
+
+    //     table td::before {
+    //         display: block;
+    //         content: attr(data-label);
+    //         font-size: $tableFontSize * 0.7 !important;
+    //         text-transform: uppercase !important;
+    //         color: var(--md-default-fg-color--light);
+    //         font-weight: bold;
+    //         margin-right: convert.px2rem(0px);
+    //         margin-bottom: convert.px2rem(4px);
+    //     }
+    // }
 }
-
-/*
-
-@media screen and (max-width: 768px) {
-    table {
-        display: block;
-    }
-
-    table thead {
-        display: none;
-    }
-
-    table tbody tr {
-        display: block;
-        width: 100%;
-        margin-bottom: convert.px2rem(8px);
-        padding: convert.px2rem(6px);
-    }
-
-    table td {
-        display: block;
-        position: relative;
-        padding: convert.px2rem(5px) convert.px2rem(5px);
-        text-align: left !important; 
-        word-wrap: break-word; 
-        overflow-wrap: break-word;
-        white-space: normal; 
-        border: none !important;
-    }
-
-    table td::before {
-        display: block;
-        content: attr(data-label);
-        font-size: $tableFontSize * 0.7 !important;
-        text-transform: uppercase !important;
-        color: var(--md-default-fg-color--light);
-        font-weight: bold;
-        margin-right: convert.px2rem(0px);
-        margin-bottom: convert.px2rem(4px);
-    }
-}
-
-    */

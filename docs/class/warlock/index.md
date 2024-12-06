@@ -49,26 +49,26 @@ As a Warlock, you gain the following class features when you reach the specified
 
 | Level | PB | Class Features | Invocations | Cantrips | Spells Prepared | Spell Slots | Slot Level |
 |:-:|:-:|---|:-:|:-:|:-:|:-:|:-:|
-| 1 | +2 | Eldritch Invocations, Pact Magic | 1 | 2 | 2 | 1 | 1 |
-| 2 | +2 | Magical Cunning | 3 | 2 | 3 | 2 | 1 |
-| 3 | +2 | Warlock Subclass | 3 | 2 | 4 | 2 | 2 |
-| 4 | +2 | Ability Score Improvement | 3 | 3 | 5 | 2 | 2 |
-| 5 | +3 | — | 5 | 3 | 6 | 2 | 3 |
-| 6 | +3 | Subclass feature | 5 | 3 | 7 | 2 | 3 |
-| 7 | +3 | — | 6 | 3 | 8 | 2 | 4 |
-| 8 | +3 | Ability Score Improvement | 6 | 3 | 9 | 2 | 4 |
-| 9 | +4 | Contact Patron | 7 | 3 | 10 | 2 | 5 |
-| 10 | +4 | Subclass feature | 7 | 4 | 10 | 2 | 5 |
-| 11 | +4 | Mystic Arcanum (level 6 spell) | 7 | 4 | 11 | 3 | 5 |
-| 12 | +4 | Ability Score Improvement | 8 | 4 | 11 | 3 | 5 |
-| 13 | +5 | Mystic Arcanum (level 7 spell) | 8 | 4 | 12 | 3 | 5 |
-| 14 | +5 | Subclass feature | 8 | 4 | 12 | 3 | 5 |
-| 15 | +5 | Mystic Arcanum (level 8 spell) | 9 | 4 | 13 | 3 | 5 |
-| 16 | +5 | Ability Score Improvement | 9 | 4 | 13 | 3 | 5 |
-| 17 | +6 | Mystic Arcanum (level 9 spell) | 9 | 4 | 14 | 4 | 5 |
-| 18 | +6 | — | 10 | 4 | 14 | 4 | 5 |
-| 19 | +6 | Epic Boon | 10 | 4 | 15 | 4 | 5 |
-| 20 | +6 | Eldritch Maste | 10 | 4 | 15 | 4 | 5 |
+| 1 | +2 | Eldritch Invocations, Pact Magic | 1 | 2 | 2 | 1 | I |
+| 2 | +2 | Magical Cunning | 3 | 2 | 3 | 2 | I |
+| 3 | +2 | Warlock Subclass | 3 | 2 | 4 | 2 | II |
+| 4 | +2 | Ability Score Improvement | 3 | 3 | 5 | 2 | II |
+| 5 | +3 | — | 5 | 3 | 6 | 2 | III |
+| 6 | +3 | Subclass feature | 5 | 3 | 7 | 2 | III |
+| 7 | +3 | — | 6 | 3 | 8 | 2 | IV |
+| 8 | +3 | Ability Score Improvement | 6 | 3 | 9 | 2 | IV |
+| 9 | +4 | Contact Patron | 7 | 3 | 10 | 2 | V |
+| 10 | +4 | Subclass feature | 7 | 4 | 10 | 2 | V |
+| 11 | +4 | Mystic Arcanum (level 6 spell) | 7 | 4 | 11 | 3 | V |
+| 12 | +4 | Ability Score Improvement | 8 | 4 | 11 | 3 | V |
+| 13 | +5 | Mystic Arcanum (level 7 spell) | 8 | 4 | 12 | 3 | V |
+| 14 | +5 | Subclass feature | 8 | 4 | 12 | 3 | V |
+| 15 | +5 | Mystic Arcanum (level 8 spell) | 9 | 4 | 13 | 3 | V |
+| 16 | +5 | Ability Score Improvement | 9 | 4 | 13 | 3 | V |
+| 17 | +6 | Mystic Arcanum (level 9 spell) | 9 | 4 | 14 | 4 | V |
+| 18 | +6 | — | 10 | 4 | 14 | 4 | V |
+| 19 | +6 | Epic Boon | 10 | 4 | 15 | 4 | V |
+| 20 | +6 | Eldritch Maste | 10 | 4 | 15 | 4 | V |
 
 ### Level 1: Eldritch Invocations
 

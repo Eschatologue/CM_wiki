@@ -1,0 +1,70 @@
+@use "sass:color";
+@use "../utility/convert";
+@use "./admonition";
+
+.md-typeset {
+    // Statblock
+    $colorAdmonition_statblock: convert.hex3hsl(#ffb624);
+
+    .admonition.statblock,
+    details.statblock {
+        border-color: $colorAdmonition_statblock;
+
+        & table:not([class]) {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+            font-size: 14px;
+            text-align: left;
+
+            th {
+                background-color: transparent;
+                border-bottom: transparent;
+                text-transform: capitalize;
+                font-weight: bold;
+            }
+
+            td {
+                padding: 6px;
+            }
+
+            tr:nth-child(odd) td {
+                background-color: transparent !important;
+            }
+
+            tr:nth-child(even) td {
+                background-color: var(--md-mod-table-color--light) !important;
+            }
+
+            td:nth-child(1),
+            td:nth-child(2) {
+                font-weight: bold;
+                font-variant: small-caps;
+            }
+
+            td:nth-child(3),
+            td:nth-child(4) {
+                background-color: var(--md-mod-table-color--light) !important;;
+            }
+
+            .strong {
+                background-color: #e6f7d9; /* Light green */
+                font-weight: bold;
+            }
+        }
+    }
+
+    .statblock {
+        > .admonition-title,
+        > summary {
+            background-color: color.adjust($colorAdmonition_statblock, $alpha: -0.9);
+        }
+
+        > .admonition-title::before,
+        > summary::before {
+            background-color: $colorAdmonition_statblock;
+            -webkit-mask-image: var(--md-icon--statblock);
+            mask-image: var(--md-icon--statblock);
+        }
+    }
+}
