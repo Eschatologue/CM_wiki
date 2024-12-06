@@ -78,7 +78,7 @@ Advanced Firearms Table include rocket launchers, machine guns, and other large,
 
 In Antares, arcane staves are common, while firearms are rare due to their reliance on *Cordite*, a substance rendered inert near creatures attuned to the Weave. This includes all Antares races except Londoners. 
 
-Using firearms requires suppressing one’s connection to the Weave, a difficult skill that few pursue, as traditional ranged weapons like bows are more practical for most.
+Using firearms requires suppressing one's connection to the Weave, a difficult skill that few pursue, as traditional ranged weapons like bows are more practical for most.
 
 ### Basic Understanding
 

@@ -10,8 +10,10 @@ $paddingScale: 7px;
 $th-padding: $paddingScale * 1.4;
 
 .md-typeset {
+
     // Table without a class
     & table:not([class]) {
+
         th,
         td {
             padding: convert.px2em($paddingScale) convert.px2em($paddings);
@@ -20,10 +22,16 @@ $th-padding: $paddingScale * 1.4;
 
         th {
             font-size: typeset.$defaultFontSize * 0.9;
+
+            // Font Size on Smaller Screen
+            @media screen and (max-width: 768px) {
+                font-size: typeset.$defaultFontSize * 0.85;
+            }
+
             font-weight: bold !important;
             text-transform: capitalize !important;
             vertical-align: bottom;
-            
+
             color: var(--md-text-color);
             border-bottom: convert.px2rem(3px) solid var(--md-primary-fg-color);
             background-color: var(--md-mod-table-color--darkest);
@@ -31,7 +39,15 @@ $th-padding: $paddingScale * 1.4;
         }
 
         td {
+
+            // Default Font Size
             font-size: typeset.$defaultFontSize * 0.85;
+
+            // Font Size on Smaller Screen
+            @media screen and (max-width: 768px) {
+                font-size: typeset.$defaultFontSize * 0.75;
+            }
+
             border: convert.px2rem(0px) transparent !important; // No Bottom Border
 
             b,
@@ -39,19 +55,20 @@ $th-padding: $paddingScale * 1.4;
                 font-weight: typeset.$defaultFontWeight * 1.8;
             }
 
-            @media screen and (max-width: 768px) {
-                font-size: typeset.$defaultFontSize * 0.7;
-            }
         }
 
         // Reset hover effect 
         table tr:hover {
-            background-color: inherit !important; /* Ensures no change on hover */
+            background-color: inherit !important;
+            /* Ensures no change on hover */
         }
+
         // Preserve striped rows
         tr:nth-child(odd) {
-            background-color: transparent !important; /* Adjust to match your striped colour */
+            background-color: transparent !important;
+            /* Adjust to match your striped colour */
         }
+
         tr:nth-child(even) {
             background-color: var(--md-mod-table-color--light) !important;
         }
@@ -60,6 +77,7 @@ $th-padding: $paddingScale * 1.4;
     // BEM Element for tables within .md-typeset
     &__table {
         width: 100%;
+
         table:not([class]) {
             box-shadow: var(--md-shadow-z2);
             margin-top: convert.px2rem(4px);
@@ -70,6 +88,7 @@ $th-padding: $paddingScale * 1.4;
 
     // Responsive behaviour for smaller screens
 }
+
 /*
 
 @media screen and (max-width: 768px) {

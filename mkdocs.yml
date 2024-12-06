@@ -228,7 +228,6 @@ nav:
           - Items: equipment/adventuring-gear/item.md
           - Homebrew Items: equipment/adventuring-gear/item-hb.md
       - Other: 
-        - Casting Units: equipment/consumeables/casting-unit.md
         - Grenade: equipment/consumeables/grenade.md
         - Potion: equipment/consumeables/potion.md
         - Spell Scroll: equipment/consumeables/spell-scroll.md

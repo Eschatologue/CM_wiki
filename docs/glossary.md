@@ -891,7 +891,7 @@ If two or more things happen at the same time on a turn, the person at the game 
 
 ## Special Items^*CM*^ { data-toc-label="Special Items" }
 
-In *Crown and Misery*, items are classified differently than in standard D&D. While magical items exist in the world for **lore purposes**, they do not have a functional impact on the game mechanics unless explicitly stated in an item’s description. The concept of "magical" items, as commonly understood in D&D, is not applied here. Instead, enhanced items are referred to as *Special Items*
+In *Crown and Misery*, items are classified differently than in standard D&D. While magical items exist in the world for **lore purposes**, they do not have a functional impact on the game mechanics unless explicitly stated in an item's description. The concept of "magical" items, as commonly understood in D&D, is not applied here. Instead, enhanced items are referred to as *Special Items*
 
 ***Definition.*** Special Items are objects that have been improved beyond their basic, mundane (or "stock") versions, such as a +1 Longsword or superior-quality armour. These items may have magical origins or significance in the lore, but for gameplay, they are treated like any other enhanced item with specific mechanical properties.
 
@@ -899,7 +899,7 @@ In *Crown and Misery*, items are classified differently than in standard D&D. Wh
 
 ***Interactions with Spells.*** Effects such as the [:spell-lv2: Magic Weapon](./spells/description/core/level-2.md#magic-weapon) spell, which targets non-magical weapons, do not work on Special Items. For example, a +1 Longsword is a Special Item, not a "magical" one in the mechanical sense, and cannot be affected by spells or abilities that specifically target non-magical weapons, even if its enhancement comes from superior craftsmanship or magical lore.
 
-***Traits.*** Unlike standard D&D, Special Items do not automatically gain additional properties like ignoring Resistance (for weapons) or granting damage Resistance (for armour) unless explicitly stated in their description. These properties are only granted when the item’s description clearly outlines them.
+***Traits.*** Unlike standard D&D, Special Items do not automatically gain additional properties like ignoring Resistance (for weapons) or granting damage Resistance (for armour) unless explicitly stated in their description. These properties are only granted when the item's description clearly outlines them.
 
 ***Attunement.*** In Crown and Misery, attunement is tied to the mental focus required to manage powerful or enhanced items. It is not a magical connection. The limit of three attuned items remains unchanged unless a class feature increases it.
 

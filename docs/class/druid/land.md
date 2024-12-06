@@ -12,7 +12,7 @@ The Circle of the Land comprises mystics and sages who safeguard ancient knowled
 
 Whenever you finish a Long Rest, choose one type of land: arid, polar, temperate, or tropical. Consult the table below that corresponds to the chosen type; you have the spells listed for your Druid level and lower prepared.
 
-Here’s the converted table:
+Here's the converted table:
 
 | Druid Level | Arid Land | Polar Land | Temperate Land | Tropical Land |
 |:-:|---|---|---|---|

@@ -31,7 +31,7 @@ It's obvious to observers that you're doing something when you take this Action.
 
 - :ui-grenade: [Conccussion Grenade](#conccussion-grenade)
 - :ui-grenade: [Cryogenic Grenade](#cryogenic-grenade)
-- :ui-grenade: [Flashbang Grenade](flashbang-grenade)
+- :ui-grenade: [Flashbang Grenade](#flashbang-grenade)
 - :ui-grenade: [Fragmentation Grenade](#fragmentation-grenade)
 - :ui-grenade: [Incendiary Grenade](#incendiary-grenade)
 - :ui-grenade: [Sleep Grenade](#sleep-grenade)

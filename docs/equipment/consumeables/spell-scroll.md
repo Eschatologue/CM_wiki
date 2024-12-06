@@ -5,14 +5,14 @@ status: homebrew
 
 !!! homebrew "This ain't Vanilla"
 
-    The following rules are homebrew intended to simplify using spell scrolls, because I certainly don’t have enough time to remember which class has which spells. So, I made it so that everyone can use them.
+    The following rules are homebrew intended to simplify using spell scrolls, because I certainly don't have enough time to remember which class has which spells. So, I made it so that everyone can use them.
 
-    These rules replace the original spell scroll rules. Crown & Misery uses it, but if you’re using this at another table, make sure to ask your DM.
+    These rules replace the original spell scroll rules. Crown & Misery uses it, but if you're using this at another table, make sure to ask your DM.
 
 
 # Spell Scrolls (Revised)
 
-A spell scroll contains the written words of a single spell in a mystical cipher. Any class can use a spell scroll, but how it is used depends on whether the spell is on your class's spell list.
+A spell scroll contains the written words of a single spell in a mystical cipher. Any class can use a spell scroll.
 
 ### Casting a Spell Scroll
 
@@ -20,7 +20,7 @@ Casting a spell from a spell scroll is simple and does not require any specific 
 
 ### Using a Spell Scroll
 
-To cast a spell from a spell scroll, you read the scroll and cast the spell. You do not need to make any checks, and no spellcasting ability is required. Material components are not needed unless the spell specifically consumes them (e.g., diamonds for *Revivify*). The spell’s casting time, range, and other properties remain unchanged.
+To cast a spell from a spell scroll, you read the scroll and cast the spell. You do not need to make any checks, and no spellcasting ability is required. Material components are not needed unless the spell specifically consumes them (e.g., diamonds for *Revivify*). The spell's casting time, range, and other properties remain unchanged.
 
 If the spell requires an attack roll or imposes a saving throw, use the following values in the [Spell Scroll Table](#spell-scroll-table).  
 
