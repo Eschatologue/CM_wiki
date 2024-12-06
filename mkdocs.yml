@@ -50,7 +50,7 @@ extra:
 
 ## JS
 extra_javascript:
-  - javascript/responsiveTable.js
+  - javascript/inlSub.js
 
 # Markdown Extentions
 markdown_extensions:
