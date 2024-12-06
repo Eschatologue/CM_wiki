@@ -11,7 +11,7 @@ With sufficient free time and the guidance of an instructor, a character may use
 
 ## Resources
 
-Receiving training for a specific <inlSub>proficiency</inlSub> typically takes the following amount of time:
+Receiving training for a specific <inl-sub>proficiency</inl-sub> typically takes the following amount of time:
 
 ``` title="Training Time"
 10 Workweek - (your Int. Mod + any additional bonuses)
