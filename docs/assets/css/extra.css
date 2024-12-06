@@ -701,7 +701,12 @@
 }
 
 .md-grid {
-  max-width: 90%; /* Changes site size. 100% for full-width */
+  max-width: 90%;
+}
+@media screen and (max-width: 768px) {
+  .md-grid {
+    max-width: 98%;
+  }
 }
 
 /* Content Grids */
@@ -711,7 +716,8 @@
 }
 @media screen and (max-width: 768px) {
   .md-typeset .grid {
-    grid-template-columns: repeat(auto-fit, minmax(6rem, 1fr)); /* Change Grid Size on smaller screen, stuff looks ugly on phones */
+    grid-template-columns: repeat(auto-fit, minmax(6rem, 1fr));
+    /* Change Grid Size on smaller screen, stuff looks ugly on phones */
   }
 }
 .md-typeset .grid.cards > :is(ul, ol) > li,
@@ -738,24 +744,31 @@
   background-color: var(--md-mod-table-color--darkest);
   padding: 0.6125em 1em;
 }
+@media screen and (max-width: 768px) {
+  .md-typeset table:not([class]) th {
+    font-size: 0.595rem;
+  }
+}
 .md-typeset table:not([class]) td {
   font-size: 0.595rem;
   border: 0rem transparent !important;
+}
+@media screen and (max-width: 768px) {
+  .md-typeset table:not([class]) td {
+    font-size: 0.525rem;
+  }
 }
 .md-typeset table:not([class]) td b,
 .md-typeset table:not([class]) td strong {
   font-weight: 540;
 }
-@media screen and (max-width: 768px) {
-  .md-typeset table:not([class]) td {
-    font-size: 0.49rem;
-  }
-}
 .md-typeset table:not([class]) table tr:hover {
-  background-color: inherit !important; /* Ensures no change on hover */
+  background-color: inherit !important;
+  /* Ensures no change on hover */
 }
 .md-typeset table:not([class]) tr:nth-child(odd) {
-  background-color: transparent !important; /* Adjust to match your striped colour */
+  background-color: transparent !important;
+  /* Adjust to match your striped colour */
 }
 .md-typeset table:not([class]) tr:nth-child(even) {
   background-color: var(--md-mod-table-color--light) !important;
