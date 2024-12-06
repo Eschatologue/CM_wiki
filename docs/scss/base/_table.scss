@@ -9,6 +9,8 @@ $paddings: 16px;
 $paddingScale: 7px;
 $th-padding: $paddingScale * 1.4;
 
+$tableFontSize: 14px;
+
 .md-typeset {
 
     // Table without a class
@@ -21,11 +23,11 @@ $th-padding: $paddingScale * 1.4;
         }
 
         th {
-            font-size: typeset.$defaultFontSize * 0.9;
+            font-size: $tableFontSize * 0.9;
 
             // Font Size on Smaller Screen
             @media screen and (max-width: 768px) {
-                font-size: typeset.$defaultFontSize * 0.85;
+                font-size: $tableFontSize * 0.85;
             }
 
             font-weight: bold !important;
@@ -41,11 +43,11 @@ $th-padding: $paddingScale * 1.4;
         td {
 
             // Default Font Size
-            font-size: typeset.$defaultFontSize * 0.85;
+            font-size: $tableFontSize * 0.85;
 
             // Font Size on Smaller Screen
             @media screen and (max-width: 768px) {
-                font-size: typeset.$defaultFontSize * 0.75;
+                font-size: $tableFontSize * 0.75;
             }
 
             border: convert.px2rem(0px) transparent !important; // No Bottom Border
@@ -121,7 +123,7 @@ $th-padding: $paddingScale * 1.4;
     table td::before {
         display: block;
         content: attr(data-label);
-        font-size: typeset.$defaultFontSize * 0.7 !important;
+        font-size: $tableFontSize * 0.7 !important;
         text-transform: uppercase !important;
         color: var(--md-default-fg-color--light);
         font-weight: bold;

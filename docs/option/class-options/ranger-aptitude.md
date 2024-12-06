@@ -133,16 +133,6 @@ You learn how to utilise divine magic.
 
 ---
 
-### Martial Superiority I
-
-***Prerequisite:** Level 3+ Ranger; [Bounty Hunter], [Generalist], or [Mage Breaker]*
-
-You are trained to use complex combat techniques. 
-
-***Fighting Style.*** You gain the [Superior Technique](../feat/feat-fighting-style/hb.md#superior-technique) Feat. Each time you learn new Manoeuvre, you can also replace one Manoeuvre you know with a different one.
-
----
-
 ### Self-Regeneration
 
 ***Prerequisite:** Level 3+ Ranger, [Any Level 1+ Aptitude]*
@@ -174,18 +164,6 @@ You ignore the effects of Difficult Terrain caused by natural environments or te
 ***Prerequisite:** Level 7+ Ranger*
 
 You can't have :d20-disadv: **Disadvantage** on attack rolls against the target of your [:spell-lv1: Hunter's Mark].
-
----
-
-### Martial Superiority II: Exellence
-
-***Prerequisite:** Level 7+ Ranger, [Martial Superiority I](#martial-superiority-i)*
-
-Your combat techniques are improved
-
-***Superiority Die.*** You gain two additional Superiority Die and all your Superiority Die improves to :die-d8: d8.
-
-***Manoeuvre.*** You learn two additional Combat Manoeuvre from the Battle Master (Fighter) subclass of you choice. 
 
 ---
 
@@ -279,19 +257,6 @@ You can expend one use of your *Favoured Foe* to cast [:spell-lv3: Haste] withou
 
 ## Level 15+ Aptitude
 
-### Martial Superiority III: Perfection
-
-***Prerequisite:** Level 15+ Ranger, [Martial Superiority II: Exellence](#martial-superiority-ii-exellence)*
-
-Your combat techniques are improved.
-
-***Superiority Die.*** You gain two additional Superiority Die and all your Superiority Die improves to :die-d10: d10.
-
-***Manoeuvre.*** You learn two additional Combat Manoeuvre from the Battle Master (Fighter) subclass of you choice.
-
-
----
-
 ### Enhanced Senses II
 
 ***Prerequisite:** Level 15+ Ranger, [Enhanced Senses](#enhanced-senses)*
@@ -341,7 +306,7 @@ Whenever you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon at
 [Ranger Knight]: #origin-ranger-knight
 [Sanctified Hunter]: #origin-sanctified-hunter
 
-[Any Level 1+ Aptitude]: #level-1-aptitude
+[Any Level 1+ Aptitude]: #level-1-aptitudes
 
 [:spell-lv1: Ensnaring Strike]: ../../spells/description/core/level-1.md#ensnaring-strike
 [:spell-lv1: Hunter's Mark]: ../../spells/description/core/level-1.md#hunters-mark
