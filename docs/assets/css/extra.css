@@ -746,7 +746,7 @@
 }
 @media screen and (max-width: 768px) {
   .md-typeset table:not([class]) th {
-    font-size: 11.9px;
+    font-size: 11.2px;
   }
 }
 .md-typeset table:not([class]) td {
@@ -755,7 +755,7 @@
 }
 @media screen and (max-width: 768px) {
   .md-typeset table:not([class]) td {
-    font-size: 10.5px;
+    font-size: 9.8px;
   }
 }
 .md-typeset table:not([class]) td b,
