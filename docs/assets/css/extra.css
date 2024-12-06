@@ -701,9 +701,9 @@
 }
 
 .md-grid {
-  max-width: 90%;
+  max-width: 92%;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
   .md-grid {
     max-width: 98%;
   }
@@ -735,7 +735,7 @@
   min-width: 0.0625em;
 }
 .md-typeset table:not([class]) th {
-  font-size: 0.63rem;
+  font-size: 12.6px;
   font-weight: bold !important;
   text-transform: capitalize !important;
   vertical-align: bottom;
@@ -746,16 +746,16 @@
 }
 @media screen and (max-width: 768px) {
   .md-typeset table:not([class]) th {
-    font-size: 0.595rem;
+    font-size: 11.9px;
   }
 }
 .md-typeset table:not([class]) td {
-  font-size: 0.595rem;
+  font-size: 11.9px;
   border: 0rem transparent !important;
 }
 @media screen and (max-width: 768px) {
   .md-typeset table:not([class]) td {
-    font-size: 0.525rem;
+    font-size: 10.5px;
   }
 }
 .md-typeset table:not([class]) td b,
@@ -815,7 +815,7 @@
     table td::before {
         display: block;
         content: attr(data-label);
-        font-size: typeset.$defaultFontSize * 0.7 !important;
+        font-size: $tableFontSize * 0.7 !important;
         text-transform: uppercase !important;
         color: var(--md-default-fg-color--light);
         font-weight: bold;
