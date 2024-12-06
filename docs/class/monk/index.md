@@ -83,7 +83,7 @@ Your practice of martial arts gives you mastery of combat styles that use your U
 
 You gain the following benefits while you are unarmed or wielding only Monk weapons and you aren't wearing armour or wielding a Shield.
 
-***Bonus Unarmed Strike.*** You can make an Unarmed Strike as a Bonus Action.
+***Bonus Unarmed Strike.*** You can make an Unarmed Strike as a :rsc-b: Bonus Action.
 
 ***Martial Arts Die.*** You can roll 1d6 in place of the normal damage of your Unarmed Strike or Monk weapons. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk Features table.
 
@@ -103,15 +103,15 @@ When you expend a Focus Point, it is unavailable until you finish a Short or Lon
 
 Some features that use Focus Points require your target to make a saving throw. The save DC equals 8 plus your Wisdom modifier and Proficiency Bonus.
 
-***Flurry of Blows.*** You can expend 1 Focus Point to make two Unarmed Strikes as a Bonus Action.
+***Flurry of Blows.*** You can expend 1 Focus Point to make two Unarmed Strikes as a :rsc-b: Bonus Action.
 
-***Patient Defense.*** You can take the Disengage action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and the Dodge actions as a Bonus Action.
+***Patient Defense.*** You can take the Disengage action as a :rsc-b: Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and the Dodge actions as a :rsc-b: Bonus Action.
 
-***Step of the Wind.*** You can take the Dash action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and Dash actions as a Bonus Action, and your jump distance is doubled for the turn.
+***Step of the Wind.*** You can take the Dash action as a :rsc-b: Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and Dash actions as a :rsc-b: Bonus Action, and your jump distance is doubled for the turn.
 
 ### Level 2: Unarmoured Movement
 
-Your speed increases by 10 feet while you aren't wearing armour or wielding a Shield. This bonus increases when you reach certain Monk levels, as shown on the Monk Features table.
+Your :rsc-speed: Speed increases by 10 feet while you aren't wearing armour or wielding a Shield. This bonus increases when you reach certain Monk levels, as shown on the Monk Features table.
 
 ### Level 2: Uncanny Metabolism
 
@@ -121,7 +121,7 @@ Once you use this feature, you can't use it again until you finish a Long Rest.
 
 ### Level 3: Deflect Attacks
 
-When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a Reaction to reduce the attack's total damage against you. The reduction equals 1d10 plus your Dexterity modifier and Monk level.
+When an attack roll hits you and its damage includes :dmg-blunt: Bludgeoning, :dmg-pierce: Piercing, or :dmg-slashing: Slashing damage, you can take a :rsc-r: Reaction to reduce the attack's total damage against you. The reduction equals 1d10 plus your Dexterity modifier and Monk level.
 
 If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of the attack's force. If you do so, choose a creature you can see within 5 feet of yourself if the attack was a melee attack or a creature you can see within 60 feet of yourself that isn't behind Total Cover if the attack was a ranged attack. That creature must succeed on a Dexterity saving throw or take damage equal to two rolls of your Martial Arts die plus your Dexterity modifier. The damage is the same type dealt by the attack.
 
@@ -135,7 +135,7 @@ You gain the [:option-feat-general: Ability Score Improvement](../../option/feat
 
 ### Level 4: Slow Fall
 
-You can take a Reaction when you fall to reduce any damage you take from the fall by an amount equal to five times your Monk level.
+You can take a :rsc-r: Reaction when you fall to reduce any damage you take from the fall by an amount equal to five times your Monk level.
 
 ### Level 5: Extra Attack
 
