@@ -27,7 +27,7 @@ $tableFontSize: 14px;
 
             // Font Size on Smaller Screen
             @media screen and (max-width: 768px) {
-                font-size: $tableFontSize * 0.85;
+                font-size: $tableFontSize * 0.80;
             }
 
             font-weight: bold !important;
@@ -47,7 +47,7 @@ $tableFontSize: 14px;
 
             // Font Size on Smaller Screen
             @media screen and (max-width: 768px) {
-                font-size: $tableFontSize * 0.75;
+                font-size: $tableFontSize * 0.70;
             }
 
             border: convert.px2rem(0px) transparent !important; // No Bottom Border
