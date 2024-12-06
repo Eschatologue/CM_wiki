@@ -683,9 +683,9 @@
 }
 
 .inl-sub {
-  font-weight: 600;
   text-transform: none !important;
   font-variant: small-caps !important;
+  font-weight: 600 !important;
 }
 
 /*------------------------------------------------------- 
