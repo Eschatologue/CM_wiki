@@ -682,6 +682,12 @@
   padding-left: 0.35em;
 }
 
+.inlSub {
+  font-weight: 600;
+  text-transform: none !important;
+  font-variant: small-caps !important;
+}
+
 /*------------------------------------------------------- 
     MKdocs Material Theme Overrides
 --------------------------------------------------------*/
