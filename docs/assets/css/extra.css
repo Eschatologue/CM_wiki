@@ -735,7 +735,7 @@
 }
 .md-typeset .admonition.statblock table:not([class]) tr:nth-child(even) td,
 .md-typeset details.statblock table:not([class]) tr:nth-child(even) td {
-  background-color: var(--md-mod-table-color--light) !important;
+  background-color: transparent !important;
 }
 .md-typeset .admonition.statblock table:not([class]) td:nth-child(1),
 .md-typeset .admonition.statblock table:not([class]) td:nth-child(2),
@@ -745,6 +745,7 @@
 .md-typeset details.statblock table:not([class]) td:nth-child(2),
 .md-typeset details.statblock table:not([class]) td:nth-child(5),
 .md-typeset details.statblock table:not([class]) td:nth-child(6) {
+  background-color: var(--md-mod-table-color--light) !important;
   font-weight: strong;
   color: var(--md-text-color);
   font-variant: small-caps;
