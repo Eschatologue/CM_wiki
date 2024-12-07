@@ -767,6 +767,7 @@
 .md-typeset .admonition.statblock,
 .md-typeset details.statblock {
   border-color: hsl(40, 100%, 57%);
+  border-width: 2px !important;
 }
 .md-typeset .admonition.statblock table:not([class]),
 .md-typeset details.statblock table:not([class]) {

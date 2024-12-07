@@ -13,6 +13,7 @@
     .admonition.statblock,
     details.statblock {
         border-color: $colorAdmonition_statblock;
+        border-width: 2px !important;
 
         & table:not([class]) {
             box-shadow: none !important;
