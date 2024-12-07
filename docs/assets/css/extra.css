@@ -42,6 +42,9 @@
   --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
   --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
   --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
+  --md-default-blk--0125: hsla(0, 0%, 0%, 0.125);
+  --md-default-blk--025: hsla(0, 0%, 0%, 0.25);
+  --md-default-blk--050: hsla(0, 0%, 0%, 0.5);
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -73,6 +76,9 @@
   --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
   --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
   --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
+  --md-default-blk--0125: hsla(0, 0%, 0%, 0.125);
+  --md-default-blk--025: hsla(0, 0%, 0%, 0.25);
+  --md-default-blk--050: hsla(0, 0%, 0%, 0.5);
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -104,6 +110,9 @@
   --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
   --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
   --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
+  --md-default-blk--0125: hsla(0, 0%, 0%, 0.125);
+  --md-default-blk--025: hsla(0, 0%, 0%, 0.25);
+  --md-default-blk--050: hsla(0, 0%, 0%, 0.5);
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -135,6 +144,9 @@
   --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
   --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
   --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
+  --md-default-blk--0125: hsla(0, 0%, 0%, 0.125);
+  --md-default-blk--025: hsla(0, 0%, 0%, 0.25);
+  --md-default-blk--050: hsla(0, 0%, 0%, 0.5);
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -166,6 +178,9 @@
   --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
   --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
   --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
+  --md-default-blk--0125: hsla(0, 0%, 0%, 0.125);
+  --md-default-blk--025: hsla(0, 0%, 0%, 0.25);
+  --md-default-blk--050: hsla(0, 0%, 0%, 0.5);
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -197,6 +212,9 @@
   --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
   --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
   --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
+  --md-default-blk--0125: hsla(0, 0%, 0%, 0.125);
+  --md-default-blk--025: hsla(0, 0%, 0%, 0.25);
+  --md-default-blk--050: hsla(0, 0%, 0%, 0.5);
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -228,6 +246,9 @@
   --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
   --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
   --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
+  --md-default-blk--0125: hsla(0, 0%, 0%, 0.125);
+  --md-default-blk--025: hsla(0, 0%, 0%, 0.25);
+  --md-default-blk--050: hsla(0, 0%, 0%, 0.5);
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -259,6 +280,9 @@
   --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
   --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
   --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
+  --md-default-blk--0125: hsla(0, 0%, 0%, 0.125);
+  --md-default-blk--025: hsla(0, 0%, 0%, 0.25);
+  --md-default-blk--050: hsla(0, 0%, 0%, 0.5);
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -290,6 +314,9 @@
   --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
   --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
   --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
+  --md-default-blk--0125: hsla(0, 0%, 0%, 0.125);
+  --md-default-blk--025: hsla(0, 0%, 0%, 0.25);
+  --md-default-blk--050: hsla(0, 0%, 0%, 0.5);
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -321,6 +348,9 @@
   --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
   --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
   --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
+  --md-default-blk--0125: hsla(0, 0%, 0%, 0.125);
+  --md-default-blk--025: hsla(0, 0%, 0%, 0.25);
+  --md-default-blk--050: hsla(0, 0%, 0%, 0.5);
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -352,6 +382,9 @@
   --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
   --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
   --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
+  --md-default-blk--0125: hsla(0, 0%, 0%, 0.125);
+  --md-default-blk--025: hsla(0, 0%, 0%, 0.25);
+  --md-default-blk--050: hsla(0, 0%, 0%, 0.5);
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -383,6 +416,9 @@
   --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
   --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
   --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
+  --md-default-blk--0125: hsla(0, 0%, 0%, 0.125);
+  --md-default-blk--025: hsla(0, 0%, 0%, 0.25);
+  --md-default-blk--050: hsla(0, 0%, 0%, 0.5);
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -414,6 +450,9 @@
   --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
   --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
   --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
+  --md-default-blk--0125: hsla(0, 0%, 0%, 0.125);
+  --md-default-blk--025: hsla(0, 0%, 0%, 0.25);
+  --md-default-blk--050: hsla(0, 0%, 0%, 0.5);
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -445,6 +484,9 @@
   --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
   --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
   --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
+  --md-default-blk--0125: hsla(0, 0%, 0%, 0.125);
+  --md-default-blk--025: hsla(0, 0%, 0%, 0.25);
+  --md-default-blk--050: hsla(0, 0%, 0%, 0.5);
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -476,6 +518,9 @@
   --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
   --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
   --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
+  --md-default-blk--0125: hsla(0, 0%, 0%, 0.125);
+  --md-default-blk--025: hsla(0, 0%, 0%, 0.25);
+  --md-default-blk--050: hsla(0, 0%, 0%, 0.5);
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -507,6 +552,9 @@
   --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
   --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
   --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
+  --md-default-blk--0125: hsla(0, 0%, 0%, 0.125);
+  --md-default-blk--025: hsla(0, 0%, 0%, 0.25);
+  --md-default-blk--050: hsla(0, 0%, 0%, 0.5);
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
@@ -719,7 +767,7 @@
 }
 .md-typeset .admonition.statblock table:not([class]),
 .md-typeset details.statblock table:not([class]) {
-  font-size: 1.125em;
+  font-size: 1.125em !important;
   box-shadow: none !important;
 }
 .md-typeset .admonition.statblock table:not([class]) th,
@@ -730,13 +778,13 @@
   color: var(--md-default-wht--050);
   text-transform: capitalize !important;
 }
-.md-typeset .admonition.statblock table:not([class]) tr:nth-child(odd) td,
-.md-typeset details.statblock table:not([class]) tr:nth-child(odd) td {
-  background-color: none;
+.md-typeset .admonition.statblock table:not([class]) tr:nth-child(even),
+.md-typeset details.statblock table:not([class]) tr:nth-child(even) {
+  background-color: transparent !important;
 }
-.md-typeset .admonition.statblock table:not([class]) tr:nth-child(even) td,
-.md-typeset details.statblock table:not([class]) tr:nth-child(even) td {
-  background-color: none;
+.md-typeset .admonition.statblock table:not([class]) tr:nth-child(odd),
+.md-typeset details.statblock table:not([class]) tr:nth-child(odd) {
+  background-color: var(--md-mod-table-color--light) !important;
 }
 .md-typeset .admonition.statblock table:not([class]) td:nth-child(1),
 .md-typeset .admonition.statblock table:not([class]) td:nth-child(2),
@@ -746,7 +794,7 @@
 .md-typeset details.statblock table:not([class]) td:nth-child(2),
 .md-typeset details.statblock table:not([class]) td:nth-child(5),
 .md-typeset details.statblock table:not([class]) td:nth-child(6) {
-  background-color: var(--md-default-bg-color--dark) !important;
+  background-color: var(--md-default-blk--0125) !important;
   font-weight: strong;
   color: var(--md-text-color);
 }
