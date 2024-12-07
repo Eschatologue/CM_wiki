@@ -719,23 +719,24 @@
 }
 .md-typeset .admonition.statblock table:not([class]),
 .md-typeset details.statblock table:not([class]) {
+  font-size: 1.125em;
   box-shadow: none !important;
 }
 .md-typeset .admonition.statblock table:not([class]) th,
 .md-typeset details.statblock table:not([class]) th {
-  text-transform: capitalize !important;
   background-color: transparent;
   border-bottom: transparent;
   font-weight: bold;
   color: var(--md-default-wht--050);
+  text-transform: capitalize !important;
 }
 .md-typeset .admonition.statblock table:not([class]) tr:nth-child(odd) td,
 .md-typeset details.statblock table:not([class]) tr:nth-child(odd) td {
-  background-color: transparent !important;
+  background-color: none;
 }
 .md-typeset .admonition.statblock table:not([class]) tr:nth-child(even) td,
 .md-typeset details.statblock table:not([class]) tr:nth-child(even) td {
-  background-color: transparent !important;
+  background-color: none;
 }
 .md-typeset .admonition.statblock table:not([class]) td:nth-child(1),
 .md-typeset .admonition.statblock table:not([class]) td:nth-child(2),
@@ -745,16 +746,21 @@
 .md-typeset details.statblock table:not([class]) td:nth-child(2),
 .md-typeset details.statblock table:not([class]) td:nth-child(5),
 .md-typeset details.statblock table:not([class]) td:nth-child(6) {
-  background-color: var(--md-mod-table-color--light) !important;
+  background-color: var(--md-default-bg-color--dark) !important;
   font-weight: strong;
   color: var(--md-text-color);
+}
+.md-typeset .admonition.statblock table:not([class]) td:nth-child(1),
+.md-typeset .admonition.statblock table:not([class]) td:nth-child(5),
+.md-typeset details.statblock table:not([class]) td:nth-child(1),
+.md-typeset details.statblock table:not([class]) td:nth-child(5) {
   font-variant: small-caps;
 }
 .md-typeset .admonition.statblock table:not([class]) th:nth-child(4),
 .md-typeset .admonition.statblock table:not([class]) td:nth-child(4),
 .md-typeset details.statblock table:not([class]) th:nth-child(4),
 .md-typeset details.statblock table:not([class]) td:nth-child(4) {
-  border-right: 8px solid var(--md-default-bg-color) !important;
+  border-right: 12px solid var(--md-default-bg-color) !important;
 }
 .md-typeset .statblock > .admonition-title,
 .md-typeset .statblock > summary {
