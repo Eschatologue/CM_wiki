@@ -22,11 +22,9 @@
                 border-bottom: transparent;
                 text-transform: capitalize;
                 font-weight: bold;
+                color: var(--md-default-wht--050);
             }
 
-            td {
-                padding: 6px;
-            }
 
             tr:nth-child(odd) td {
                 background-color: transparent !important;
@@ -37,39 +35,40 @@
             }
 
             td:nth-child(1),
-            td:nth-child(2) {
-                background-color: #5a32327e !important;
+            td:nth-child(2),
+            td:nth-child(5),
+            td:nth-child(6) {
+                font-size: 16px;
                 font-weight: bold;
+                color: var(--md-text-color);
                 font-variant: small-caps;
             }
-            .strong {
-                background-color: #e6f7d9;
-                font-weight: bold;
+
+            th:nth-child(4),
+            td:nth-child(4) {
+                border-right: 4px solid var(--md-default-bg-color) !important;
             }
-            .table td:nth-child(4n) {
-                border-right: 4px solid #b22222 !important;
-              }
         }
-    }
-
-    &__table {
-        width: 100%;
-
-        table:not([class]) {
-            box-shadow: transparent !important;
-            display: inherit;
-            border-color: inherit;
+        &__table {
+            width: 100%;
+    
+            table:not([class]) {
+                box-shadow: transparent !important;
+                display: inherit;
+                border-color: inherit;
+            }
         }
     }
 
     .statblock {
-        > .admonition-title,
-        > summary {
+
+        >.admonition-title,
+        >summary {
             background-color: color.adjust($colorAdmonition_statblock, $alpha: -0.9);
         }
 
-        > .admonition-title::before,
-        > summary::before {
+        >.admonition-title::before,
+        >summary::before {
             background-color: $colorAdmonition_statblock;
             -webkit-mask-image: var(--md-icon--statblock);
             mask-image: var(--md-icon--statblock);
