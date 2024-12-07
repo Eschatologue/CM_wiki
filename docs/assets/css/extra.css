@@ -597,6 +597,7 @@
 .md-typeset .admonition.statblock table:not([class]) td:nth-child(2),
 .md-typeset details.statblock table:not([class]) td:nth-child(1),
 .md-typeset details.statblock table:not([class]) td:nth-child(2) {
+  background-color: rgba(90, 50, 50, 0.4941176471);
   font-weight: bold;
   font-variant: small-caps;
 }
