@@ -12,15 +12,19 @@
         border-color: $colorAdmonition_statblock;
 
         & table:not([class]) {
-            font-size: convert.px2em(table.$tableFontSize * 1.8) !important;
             box-shadow: none !important;
 
             th {
+                font-size: convert.px2em(table.$tableFontSize * 1.5) !important;
                 background-color: transparent !important;
                 border-bottom: transparent;
-                font-weight: bold;
+                font-weight: normal;
                 color: var(--md-default-wht--050);
                 text-transform: capitalize !important;
+            }
+
+            td {
+                font-size: convert.px2em(table.$tableFontSize * 1.8) !important;
             }
 
             tr:nth-child(odd),
@@ -60,14 +64,13 @@
     }
 
     .statblock {
-
-        >.admonition-title,
-        >summary {
+        > .admonition-title,
+        > summary {
             background-color: color.adjust($colorAdmonition_statblock, $alpha: -0.9);
         }
 
-        >.admonition-title::before,
-        >summary::before {
+        > .admonition-title::before,
+        > summary::before {
             background-color: $colorAdmonition_statblock;
             -webkit-mask-image: var(--md-icon--statblock);
             mask-image: var(--md-icon--statblock);
