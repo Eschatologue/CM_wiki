@@ -27,13 +27,14 @@
             }
 
             tr:nth-child(even) td {
-                background-color: var(--md-mod-table-color--light) !important;
+                background-color: transparent !important;
             }
 
             td:nth-child(1),
             td:nth-child(2),
             td:nth-child(5),
             td:nth-child(6) {
+                background-color: var(--md-mod-table-color--light) !important;
                 font-weight: strong;
                 color: var(--md-text-color);
                 font-variant: small-caps;
