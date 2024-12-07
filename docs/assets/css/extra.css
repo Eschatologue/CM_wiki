@@ -562,107 +562,9 @@
   mask-image: var(--md-icon--glossary);
 }
 
-.md-typeset .admonition.statblock,
-.md-typeset details.statblock {
-  border-color: hsl(40, 100%, 57%);
-}
-.md-typeset .admonition.statblock table:not([class]),
-.md-typeset details.statblock table:not([class]) {
-  width: 100%;
-  border-collapse: collapse;
-  margin-top: 10px;
-  font-size: 14px;
-  text-align: left;
-}
-.md-typeset .admonition.statblock table:not([class]) th,
-.md-typeset details.statblock table:not([class]) th {
-  background-color: transparent;
-  border-bottom: transparent;
-  text-transform: capitalize;
-  font-weight: bold;
-  color: var(--md-default-wht--050);
-}
-.md-typeset .admonition.statblock table:not([class]) tr:nth-child(odd) td,
-.md-typeset details.statblock table:not([class]) tr:nth-child(odd) td {
-  background-color: transparent !important;
-}
-.md-typeset .admonition.statblock table:not([class]) tr:nth-child(even) td,
-.md-typeset details.statblock table:not([class]) tr:nth-child(even) td {
-  background-color: var(--md-mod-table-color--light) !important;
-}
-.md-typeset .admonition.statblock table:not([class]) td:nth-child(1),
-.md-typeset .admonition.statblock table:not([class]) td:nth-child(2),
-.md-typeset .admonition.statblock table:not([class]) td:nth-child(5),
-.md-typeset .admonition.statblock table:not([class]) td:nth-child(6),
-.md-typeset details.statblock table:not([class]) td:nth-child(1),
-.md-typeset details.statblock table:not([class]) td:nth-child(2),
-.md-typeset details.statblock table:not([class]) td:nth-child(5),
-.md-typeset details.statblock table:not([class]) td:nth-child(6) {
-  font-size: 16px;
-  font-weight: bold;
-  color: var(--md-text-color);
-  font-variant: small-caps;
-}
-.md-typeset .admonition.statblock table:not([class]) th:nth-child(4),
-.md-typeset .admonition.statblock table:not([class]) td:nth-child(4),
-.md-typeset details.statblock table:not([class]) th:nth-child(4),
-.md-typeset details.statblock table:not([class]) td:nth-child(4) {
-  border-right: 4px solid var(--md-default-bg-color) !important;
-}
-.md-typeset .admonition.statblock__table,
-.md-typeset details.statblock__table {
-  width: 100%;
-}
-.md-typeset .admonition.statblock__table table:not([class]),
-.md-typeset details.statblock__table table:not([class]) {
-  box-shadow: transparent !important;
-  display: inherit;
-  border-color: inherit;
-}
-.md-typeset .statblock > .admonition-title,
-.md-typeset .statblock > summary {
-  background-color: hsla(40, 100%, 57%, 0.1);
-}
-.md-typeset .statblock > .admonition-title::before,
-.md-typeset .statblock > summary::before {
-  background-color: hsl(40, 100%, 57%);
-  -webkit-mask-image: var(--md-icon--statblock);
-  mask-image: var(--md-icon--statblock);
-}
-
 /*------------------------------------------------------- 
-    Statuses
+    Tables
 --------------------------------------------------------*/
-.md-status::after {
-  width: px2em(18px);
-  height: px2em(18px);
-  vertical-align: baseline;
-  mask-position: center;
-}
-
-/* Homebrew Status */
-.md-status--homebrew::after {
-  mask-image: var(--md-icon--homebrew);
-  -webkit-mask-image: var(--md-icon--homebrew);
-}
-
-/* Draft Status */
-.md-status--draft::after {
-  mask-image: var(--md-icon--draft);
-  -webkit-mask-image: var(--md-icon--draft);
-}
-
-/* Adapted Status */
-.md-status--adapted::after {
-  mask-image: var(--md-icon--adapted);
-  -webkit-mask-image: var(--md-icon--adapted);
-}
-
-.md-typeset .lgh3 {
-  font-size: 1.5em;
-  padding-right: 0.35em;
-}
-
 .md-typeset {
   font-weight: 300;
   font-size: 0.7rem;
@@ -759,47 +661,6 @@
   font-weight: 600 !important;
 }
 
-/*------------------------------------------------------- 
-    MKdocs Material Theme Overrides
---------------------------------------------------------*/
-/* Tool Tips adjustment to account for site size*/
-[role=tooltip] > .md-tooltip2__inner {
-  padding: 0.45em 1.5em;
-  max-width: 35rem;
-  font-size: 0.7rem;
-  font-weight: normal;
-  border-radius: 0.25em;
-}
-
-.md-grid {
-  max-width: 92%;
-}
-@media screen and (max-width: 1024px) {
-  .md-grid {
-    max-width: 98%;
-  }
-}
-
-/* Content Grids */
-.md-typeset .grid {
-  grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
-  grid-gap: 0.25em;
-}
-@media screen and (max-width: 768px) {
-  .md-typeset .grid {
-    grid-template-columns: repeat(auto-fit, minmax(6rem, 1fr));
-    /* Change Grid Size on smaller screen, stuff looks ugly on phones */
-  }
-}
-.md-typeset .grid.cards > :is(ul, ol) > li,
-.md-typeset .grid > .card {
-  border: 0.075rem solid var(--md-default-wht--0125);
-  padding: 0.5rem 0.8rem;
-}
-
-/*------------------------------------------------------- 
-    Tables
---------------------------------------------------------*/
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
   padding: 0.4375em 1em;
@@ -850,6 +711,142 @@
   margin-top: 0.2rem;
   display: table;
   border-color: transparent !important;
+}
+
+.md-typeset .admonition.statblock,
+.md-typeset details.statblock {
+  border-color: hsl(40, 100%, 57%);
+}
+.md-typeset .admonition.statblock table:not([class]),
+.md-typeset details.statblock table:not([class]) {
+  width: inherit;
+  margin-top: inherit;
+}
+.md-typeset .admonition.statblock table:not([class]) th,
+.md-typeset details.statblock table:not([class]) th {
+  background-color: transparent;
+  border-bottom: transparent;
+  text-transform: capitalize !important;
+  font-weight: bold;
+  color: var(--md-default-wht--050);
+}
+.md-typeset .admonition.statblock table:not([class]) tr:nth-child(odd) td,
+.md-typeset details.statblock table:not([class]) tr:nth-child(odd) td {
+  background-color: transparent !important;
+}
+.md-typeset .admonition.statblock table:not([class]) tr:nth-child(even) td,
+.md-typeset details.statblock table:not([class]) tr:nth-child(even) td {
+  background-color: var(--md-mod-table-color--light) !important;
+}
+.md-typeset .admonition.statblock table:not([class]) td:nth-child(1),
+.md-typeset .admonition.statblock table:not([class]) td:nth-child(2),
+.md-typeset .admonition.statblock table:not([class]) td:nth-child(5),
+.md-typeset .admonition.statblock table:not([class]) td:nth-child(6),
+.md-typeset details.statblock table:not([class]) td:nth-child(1),
+.md-typeset details.statblock table:not([class]) td:nth-child(2),
+.md-typeset details.statblock table:not([class]) td:nth-child(5),
+.md-typeset details.statblock table:not([class]) td:nth-child(6) {
+  font-size: 13.8px;
+  font-weight: 500;
+  color: var(--md-text-color);
+  font-variant: small-caps;
+}
+.md-typeset .admonition.statblock table:not([class]) th:nth-child(4),
+.md-typeset .admonition.statblock table:not([class]) td:nth-child(4),
+.md-typeset details.statblock table:not([class]) th:nth-child(4),
+.md-typeset details.statblock table:not([class]) td:nth-child(4) {
+  border-right: 8px solid var(--md-default-bg-color) !important;
+}
+.md-typeset .admonition.statblock__table,
+.md-typeset details.statblock__table {
+  width: 100%;
+}
+.md-typeset .admonition.statblock__table table:not([class]),
+.md-typeset details.statblock__table table:not([class]) {
+  box-shadow: transparent !important;
+  display: inherit;
+  border-color: inherit;
+}
+.md-typeset .statblock > .admonition-title,
+.md-typeset .statblock > summary {
+  background-color: hsla(40, 100%, 57%, 0.1);
+}
+.md-typeset .statblock > .admonition-title::before,
+.md-typeset .statblock > summary::before {
+  background-color: hsl(40, 100%, 57%);
+  -webkit-mask-image: var(--md-icon--statblock);
+  mask-image: var(--md-icon--statblock);
+}
+
+/*------------------------------------------------------- 
+    Statuses
+--------------------------------------------------------*/
+.md-status::after {
+  width: px2em(18px);
+  height: px2em(18px);
+  vertical-align: baseline;
+  mask-position: center;
+}
+
+/* Homebrew Status */
+.md-status--homebrew::after {
+  mask-image: var(--md-icon--homebrew);
+  -webkit-mask-image: var(--md-icon--homebrew);
+}
+
+/* Draft Status */
+.md-status--draft::after {
+  mask-image: var(--md-icon--draft);
+  -webkit-mask-image: var(--md-icon--draft);
+}
+
+/* Adapted Status */
+.md-status--adapted::after {
+  mask-image: var(--md-icon--adapted);
+  -webkit-mask-image: var(--md-icon--adapted);
+}
+
+.md-typeset .lgh3 {
+  font-size: 1.5em;
+  padding-right: 0.35em;
+}
+
+/*------------------------------------------------------- 
+    MKdocs Material Theme Overrides
+--------------------------------------------------------*/
+/* Tool Tips adjustment to account for site size*/
+[role=tooltip] > .md-tooltip2__inner {
+  padding: 0.45em 1.5em;
+  max-width: 35rem;
+  font-size: 0.7rem;
+  font-weight: normal;
+  border-radius: 0.25em;
+}
+
+.md-grid {
+  max-width: 92%;
+}
+@media screen and (max-width: 1024px) {
+  .md-grid {
+    max-width: 98%;
+  }
+}
+
+/* Content Grids */
+.md-typeset .grid {
+  grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
+  grid-gap: 0.25em;
+}
+@media screen and (max-width: 768px) {
+  .md-typeset .grid {
+    grid-template-columns: repeat(auto-fit, minmax(6rem, 1fr));
+    /* Change Grid Size on smaller screen, stuff looks ugly on phones */
+  }
+}
+.md-typeset .grid.cards > :is(ul, ol) > li,
+.md-typeset .grid > .card {
+  border: 0.075rem solid var(--md-default-wht--0125);
+  padding: 0.5rem 0.8rem;
 }
 
 /*------------------------------------------------------- 
