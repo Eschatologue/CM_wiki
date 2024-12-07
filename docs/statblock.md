@@ -9,6 +9,13 @@ icon: material/crown-circle
 
 !!! statblock " "
 
+    ## The Missingno
+
+    *Medium Meme*
+
+    **HP** 200
+    **AC** 200
+
     | | | MOD | SAVE | | | MOD | SAVE |
     |--:|:-:|:-:|:-:|--:|:-:|:-:|:-:|
     | **Str** | 18 | +4 | +4 | **Int** | 18 | 12 | 12 |

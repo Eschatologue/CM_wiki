@@ -12,11 +12,11 @@
         border-color: $colorAdmonition_statblock;
 
         & table:not([class]) {
-            font-size: convert.px2em(table.$tableFontSize * 1.5) !important;
+            font-size: convert.px2em(table.$tableFontSize * 1.8) !important;
             box-shadow: none !important;
 
             th {
-                background-color: transparent;
+                background-color: transparent !important;
                 border-bottom: transparent;
                 font-weight: bold;
                 color: var(--md-default-wht--050);
