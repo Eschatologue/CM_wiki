@@ -12,7 +12,7 @@
         border-color: $colorAdmonition_statblock;
 
         & table:not([class]) {
-            font-size: convert.px2em(table.$tableFontSize * 1.5);
+            font-size: convert.px2em(table.$tableFontSize * 1.5) !important;
             box-shadow: none !important;
 
             th {
@@ -23,19 +23,19 @@
                 text-transform: capitalize !important;
             }
 
-            tr:nth-child(odd) td {
-                background-color: none;
+            tr:nth-child(even) {
+                background-color: transparent !important;
             }
 
-            tr:nth-child(even) td {
-                background-color: none;
+            tr:nth-child(odd) {
+                background-color: var(--md-mod-table-color--light) !important;
             }
 
             td:nth-child(1),
             td:nth-child(2),
             td:nth-child(5),
             td:nth-child(6) {
-                background-color: var(--md-default-bg-color--dark) !important;
+                background-color: var(--md-default-blk--0125) !important;
                 font-weight: strong;
                 color: var(--md-text-color);
             }
