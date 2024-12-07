@@ -38,7 +38,7 @@
 
             td:nth-child(1),
             td:nth-child(2) {
-                background-color: #5a32327e;
+                background-color: #5a32327e !important;
                 font-weight: bold;
                 font-variant: small-caps;
             }
@@ -47,7 +47,7 @@
                 font-weight: bold;
             }
             .table td:nth-child(4n) {
-                border-right: 4px solid #b22222; /* Add red border on every 4th column */
+                border-right: 4px solid #b22222 !important;
               }
         }
     }
