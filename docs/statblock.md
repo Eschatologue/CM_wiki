@@ -7,9 +7,9 @@ icon: material/crown-circle
 
 # Iconography
 
-!!! statblock "TESt"
+!!! statblock " "
 
-    | | | Mod | Save | | | Mod | Save |
+    | | | MOD | SAVE | | | MOD | SAVE |
     |--:|:-:|:-:|:-:|--:|:-:|:-:|:-:|
     | **Str** | 18 | +4 | +4 | **Int** | 18 | 12 | 12 |
     | **Dex** | 18 | 12 | 12 | **Wis** | 18 | 12 | 12 |

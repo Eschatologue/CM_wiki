@@ -12,37 +12,42 @@
         border-color: $colorAdmonition_statblock;
 
         & table:not([class]) {
+            font-size: convert.px2em(table.$tableFontSize * 1.5);
             box-shadow: none !important;
 
             th {
-                text-transform: capitalize !important;
                 background-color: transparent;
                 border-bottom: transparent;
                 font-weight: bold;
                 color: var(--md-default-wht--050);
+                text-transform: capitalize !important;
             }
 
             tr:nth-child(odd) td {
-                background-color: transparent !important;
+                background-color: none;
             }
 
             tr:nth-child(even) td {
-                background-color: transparent !important;
+                background-color: none;
             }
 
             td:nth-child(1),
             td:nth-child(2),
             td:nth-child(5),
             td:nth-child(6) {
-                background-color: var(--md-mod-table-color--light) !important;
+                background-color: var(--md-default-bg-color--dark) !important;
                 font-weight: strong;
                 color: var(--md-text-color);
+            }
+
+            td:nth-child(1),
+            td:nth-child(5) {
                 font-variant: small-caps;
             }
 
             th:nth-child(4),
             td:nth-child(4) {
-                border-right: 8px solid var(--md-default-bg-color) !important;
+                border-right: 12px solid var(--md-default-bg-color) !important;
             }
         }
     }
