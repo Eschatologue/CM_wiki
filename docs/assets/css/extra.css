@@ -772,19 +772,19 @@
 }
 .md-typeset .admonition.statblock table:not([class]) th,
 .md-typeset details.statblock table:not([class]) th {
-  background-color: transparent !important;
+  background-color: none !important;
   border-bottom: transparent;
   font-weight: bold;
   color: var(--md-default-wht--050);
   text-transform: capitalize !important;
 }
+.md-typeset .admonition.statblock table:not([class]) tr:nth-child(odd),
+.md-typeset details.statblock table:not([class]) tr:nth-child(odd) {
+  background-color: transparent !important;
+}
 .md-typeset .admonition.statblock table:not([class]) tr:nth-child(even),
 .md-typeset details.statblock table:not([class]) tr:nth-child(even) {
   background-color: transparent !important;
-}
-.md-typeset .admonition.statblock table:not([class]) tr:nth-child(odd),
-.md-typeset details.statblock table:not([class]) tr:nth-child(odd) {
-  background-color: var(--md-mod-table-color--light) !important;
 }
 .md-typeset .admonition.statblock table:not([class]) td:nth-child(1),
 .md-typeset .admonition.statblock table:not([class]) td:nth-child(2),
