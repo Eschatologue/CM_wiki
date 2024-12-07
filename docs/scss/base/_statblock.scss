@@ -15,7 +15,7 @@
             box-shadow: none !important;
 
             th {
-                font-size: convert.px2em(table.$tableFontSize * 1.5) !important;
+                font-size: convert.px2em(table.$tableFontSize * 1.25) !important;
                 background-color: transparent !important;
                 border-bottom: transparent;
                 font-weight: normal;
@@ -24,7 +24,7 @@
             }
 
             td {
-                font-size: convert.px2em(table.$tableFontSize * 1.8) !important;
+                font-size: convert.px2em(table.$tableFontSize * 1.4) !important;
             }
 
             tr:nth-child(odd),
