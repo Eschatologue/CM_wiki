@@ -580,10 +580,7 @@
   border-bottom: transparent;
   text-transform: capitalize;
   font-weight: bold;
-}
-.md-typeset .admonition.statblock table:not([class]) td,
-.md-typeset details.statblock table:not([class]) td {
-  padding: 6px;
+  color: var(--md-default-wht--050);
 }
 .md-typeset .admonition.statblock table:not([class]) tr:nth-child(odd) td,
 .md-typeset details.statblock table:not([class]) tr:nth-child(odd) td {
@@ -595,25 +592,29 @@
 }
 .md-typeset .admonition.statblock table:not([class]) td:nth-child(1),
 .md-typeset .admonition.statblock table:not([class]) td:nth-child(2),
+.md-typeset .admonition.statblock table:not([class]) td:nth-child(5),
+.md-typeset .admonition.statblock table:not([class]) td:nth-child(6),
 .md-typeset details.statblock table:not([class]) td:nth-child(1),
-.md-typeset details.statblock table:not([class]) td:nth-child(2) {
-  background-color: rgba(90, 50, 50, 0.4941176471) !important;
+.md-typeset details.statblock table:not([class]) td:nth-child(2),
+.md-typeset details.statblock table:not([class]) td:nth-child(5),
+.md-typeset details.statblock table:not([class]) td:nth-child(6) {
+  font-size: 16px;
   font-weight: bold;
+  color: var(--md-text-color);
   font-variant: small-caps;
 }
-.md-typeset .admonition.statblock table:not([class]) .strong,
-.md-typeset details.statblock table:not([class]) .strong {
-  background-color: #e6f7d9;
-  font-weight: bold;
+.md-typeset .admonition.statblock table:not([class]) th:nth-child(4),
+.md-typeset .admonition.statblock table:not([class]) td:nth-child(4),
+.md-typeset details.statblock table:not([class]) th:nth-child(4),
+.md-typeset details.statblock table:not([class]) td:nth-child(4) {
+  border-right: 4px solid var(--md-default-bg-color) !important;
 }
-.md-typeset .admonition.statblock table:not([class]) .table td:nth-child(4n),
-.md-typeset details.statblock table:not([class]) .table td:nth-child(4n) {
-  border-right: 4px solid #b22222 !important;
-}
-.md-typeset__table {
+.md-typeset .admonition.statblock__table,
+.md-typeset details.statblock__table {
   width: 100%;
 }
-.md-typeset__table table:not([class]) {
+.md-typeset .admonition.statblock__table table:not([class]),
+.md-typeset details.statblock__table table:not([class]) {
   box-shadow: transparent !important;
   display: inherit;
   border-color: inherit;
