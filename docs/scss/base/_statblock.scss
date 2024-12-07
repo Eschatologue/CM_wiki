@@ -1,10 +1,13 @@
+/*------------------------------------------------------- 
+    Monster Statblock
+--------------------------------------------------------*/
+
 @use "sass:color";
 @use "../utility/convert";
 @use "./admonition";
 @use "./table";
 
 .md-typeset {
-    // Statblock
     $colorAdmonition_statblock: convert.hex3hsl(#ffb624);
 
     .admonition.statblock,
@@ -13,6 +16,11 @@
 
         & table:not([class]) {
             box-shadow: none !important;
+
+            td,
+            th {
+                padding: convert.px2em(8px) !important;
+            }
 
             th {
                 font-size: convert.px2em(table.$tableFontSize * 1.25) !important;
@@ -59,6 +67,22 @@
             th:nth-child(4),
             td:nth-child(4) {
                 border-right: 12px solid var(--md-default-bg-color) !important;
+            }
+
+            // Adjust font sizes for smaller screens
+            @media screen and (max-width: 768px) {
+                th {
+                    font-size: convert.px2em(table.$tableFontSize) !important;
+                }
+
+                td {
+                    font-size: convert.px2em(table.$tableFontSize * 1.15) !important;
+                }
+
+                th:nth-child(4),
+                td:nth-child(4) {
+                    border-right: convert.px2rem(6px) solid var(--md-default-bg-color) !important;
+                }
             }
         }
     }

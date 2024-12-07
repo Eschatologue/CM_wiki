@@ -611,6 +611,9 @@
 }
 
 /*------------------------------------------------------- 
+    Monster Statblock
+--------------------------------------------------------*/
+/*------------------------------------------------------- 
     Tables
 --------------------------------------------------------*/
 .md-typeset {
@@ -769,6 +772,12 @@
 .md-typeset details.statblock table:not([class]) {
   box-shadow: none !important;
 }
+.md-typeset .admonition.statblock table:not([class]) td,
+.md-typeset .admonition.statblock table:not([class]) th,
+.md-typeset details.statblock table:not([class]) td,
+.md-typeset details.statblock table:not([class]) th {
+  padding: 0.5em !important;
+}
 .md-typeset .admonition.statblock table:not([class]) th,
 .md-typeset details.statblock table:not([class]) th {
   font-size: 0.9375em !important;
@@ -821,6 +830,22 @@
 .md-typeset details.statblock table:not([class]) th:nth-child(4),
 .md-typeset details.statblock table:not([class]) td:nth-child(4) {
   border-right: 12px solid var(--md-default-bg-color) !important;
+}
+@media screen and (max-width: 768px) {
+  .md-typeset .admonition.statblock table:not([class]) th,
+  .md-typeset details.statblock table:not([class]) th {
+    font-size: 0.75em !important;
+  }
+  .md-typeset .admonition.statblock table:not([class]) td,
+  .md-typeset details.statblock table:not([class]) td {
+    font-size: 0.8625em !important;
+  }
+  .md-typeset .admonition.statblock table:not([class]) th:nth-child(4),
+  .md-typeset .admonition.statblock table:not([class]) td:nth-child(4),
+  .md-typeset details.statblock table:not([class]) th:nth-child(4),
+  .md-typeset details.statblock table:not([class]) td:nth-child(4) {
+    border-right: 0.3rem solid var(--md-default-bg-color) !important;
+  }
 }
 .md-typeset .statblock > .admonition-title,
 .md-typeset .statblock > summary {
