@@ -41,16 +41,23 @@
                 font-weight: bold;
                 font-variant: small-caps;
             }
-
-            td:nth-child(3),
-            td:nth-child(4) {
-                background-color: var(--md-mod-table-color--light) !important;;
-            }
-
             .strong {
-                background-color: #e6f7d9; /* Light green */
+                background-color: #e6f7d9;
                 font-weight: bold;
             }
+            .table td:nth-child(4n) {
+                border-right: 4px solid #b22222; /* Add red border on every 4th column */
+              }
+        }
+    }
+
+    &__table {
+        width: 100%;
+
+        table:not([class]) {
+            box-shadow: transparent !important;
+            display: inherit;
+            border-color: inherit;
         }
     }
 
