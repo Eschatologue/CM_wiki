@@ -597,7 +597,7 @@
 .md-typeset .admonition.statblock table:not([class]) td:nth-child(2),
 .md-typeset details.statblock table:not([class]) td:nth-child(1),
 .md-typeset details.statblock table:not([class]) td:nth-child(2) {
-  background-color: rgba(90, 50, 50, 0.4941176471);
+  background-color: rgba(90, 50, 50, 0.4941176471) !important;
   font-weight: bold;
   font-variant: small-caps;
 }
@@ -608,7 +608,7 @@
 }
 .md-typeset .admonition.statblock table:not([class]) .table td:nth-child(4n),
 .md-typeset details.statblock table:not([class]) .table td:nth-child(4n) {
-  border-right: 4px solid #b22222; /* Add red border on every 4th column */
+  border-right: 4px solid #b22222 !important;
 }
 .md-typeset__table {
   width: 100%;
