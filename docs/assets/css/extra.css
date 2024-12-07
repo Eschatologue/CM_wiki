@@ -719,14 +719,13 @@
 }
 .md-typeset .admonition.statblock table:not([class]),
 .md-typeset details.statblock table:not([class]) {
-  width: inherit;
-  margin-top: inherit;
+  box-shadow: none !important;
 }
 .md-typeset .admonition.statblock table:not([class]) th,
 .md-typeset details.statblock table:not([class]) th {
+  text-transform: capitalize !important;
   background-color: transparent;
   border-bottom: transparent;
-  text-transform: capitalize !important;
   font-weight: bold;
   color: var(--md-default-wht--050);
 }
@@ -746,8 +745,7 @@
 .md-typeset details.statblock table:not([class]) td:nth-child(2),
 .md-typeset details.statblock table:not([class]) td:nth-child(5),
 .md-typeset details.statblock table:not([class]) td:nth-child(6) {
-  font-size: 13.8px;
-  font-weight: 500;
+  font-weight: strong;
   color: var(--md-text-color);
   font-variant: small-caps;
 }
@@ -756,16 +754,6 @@
 .md-typeset details.statblock table:not([class]) th:nth-child(4),
 .md-typeset details.statblock table:not([class]) td:nth-child(4) {
   border-right: 8px solid var(--md-default-bg-color) !important;
-}
-.md-typeset .admonition.statblock__table,
-.md-typeset details.statblock__table {
-  width: 100%;
-}
-.md-typeset .admonition.statblock__table table:not([class]),
-.md-typeset details.statblock__table table:not([class]) {
-  box-shadow: transparent !important;
-  display: inherit;
-  border-color: inherit;
 }
 .md-typeset .statblock > .admonition-title,
 .md-typeset .statblock > summary {
