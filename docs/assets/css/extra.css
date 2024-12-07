@@ -767,12 +767,12 @@
 }
 .md-typeset .admonition.statblock table:not([class]),
 .md-typeset details.statblock table:not([class]) {
-  font-size: 1.125em !important;
+  font-size: 1.35em !important;
   box-shadow: none !important;
 }
 .md-typeset .admonition.statblock table:not([class]) th,
 .md-typeset details.statblock table:not([class]) th {
-  background-color: transparent;
+  background-color: transparent !important;
   border-bottom: transparent;
   font-weight: bold;
   color: var(--md-default-wht--050);
