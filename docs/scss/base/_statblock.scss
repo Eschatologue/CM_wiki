@@ -16,21 +16,22 @@
             box-shadow: none !important;
 
             th {
-                background-color: transparent !important;
+                background-color: none !important;
                 border-bottom: transparent;
                 font-weight: bold;
                 color: var(--md-default-wht--050);
                 text-transform: capitalize !important;
             }
 
+            tr:nth-child(odd) {
+                background-color: transparent !important;
+            }
+
             tr:nth-child(even) {
                 background-color: transparent !important;
             }
 
-            tr:nth-child(odd) {
-                background-color: var(--md-mod-table-color--light) !important;
-            }
-
+            // Ability Names & Score
             td:nth-child(1),
             td:nth-child(2),
             td:nth-child(5),
@@ -40,11 +41,13 @@
                 color: var(--md-text-color);
             }
 
+            // Ability Name Only
             td:nth-child(1),
             td:nth-child(5) {
                 font-variant: small-caps;
             }
 
+            // Divider after 4th column
             th:nth-child(4),
             td:nth-child(4) {
                 border-right: 12px solid var(--md-default-bg-color) !important;
