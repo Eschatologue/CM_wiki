@@ -24,7 +24,7 @@
             }
 
             th {
-                font-size: convert.px2em(table.$tableFontSize * 1.25) !important;
+                font-size: convert.px2em(table.$tableFontSize) !important;
                 background-color: transparent !important;
                 border-bottom: transparent;
                 font-weight: normal;
@@ -33,7 +33,7 @@
             }
 
             td {
-                font-size: convert.px2em(table.$tableFontSize * 1.4) !important;
+                font-size: convert.px2em(table.$tableFontSize * 1.15) !important;
             }
 
             tr:nth-child(odd),
@@ -73,11 +73,11 @@
             // Adjust font sizes for smaller screens
             @media screen and (max-width: 768px) {
                 th {
-                    font-size: convert.px2em(table.$tableFontSize) !important;
+                    font-size: convert.px2em(table.$tableFontSize * 0.8) !important;
                 }
 
                 td {
-                    font-size: convert.px2em(table.$tableFontSize * 1.15) !important;
+                    font-size: convert.px2em(table.$tableFontSize) !important;
                 }
 
                 th:nth-child(4),
