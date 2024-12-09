@@ -718,7 +718,7 @@
   min-width: 0.0625em;
 }
 .md-typeset table:not([class]) th {
-  font-size: 10.8px;
+  font-size: 12.6px;
   font-weight: bold !important;
   text-transform: capitalize !important;
   vertical-align: bottom;
@@ -728,7 +728,7 @@
   padding: 0.6125em 1em;
 }
 .md-typeset table:not([class]) td {
-  font-size: 10.2px;
+  font-size: 11.9px;
   border: 0rem transparent !important;
 }
 .md-typeset table:not([class]) td b,
@@ -737,10 +737,10 @@
 }
 @media screen and (max-width: 768px) {
   .md-typeset table:not([class]) th {
-    font-size: 9.6px;
+    font-size: 11.2px;
   }
   .md-typeset table:not([class]) td {
-    font-size: 8.4px;
+    font-size: 9.8px;
   }
 }
 .md-typeset table:not([class]) table tr:hover {
@@ -777,11 +777,11 @@
 .md-typeset .admonition.statblock table:not([class]) th,
 .md-typeset details.statblock table:not([class]) td,
 .md-typeset details.statblock table:not([class]) th {
-  padding: 0.5em !important;
+  padding: 0.75em !important;
 }
 .md-typeset .admonition.statblock table:not([class]) th,
 .md-typeset details.statblock table:not([class]) th {
-  font-size: 0.9375em !important;
+  font-size: 1.09375em !important;
   background-color: transparent !important;
   border-bottom: transparent;
   font-weight: normal;
@@ -790,7 +790,7 @@
 }
 .md-typeset .admonition.statblock table:not([class]) td,
 .md-typeset details.statblock table:not([class]) td {
-  font-size: 1.05em !important;
+  font-size: 1.225em !important;
 }
 .md-typeset .admonition.statblock table:not([class]) tr:nth-child(odd),
 .md-typeset .admonition.statblock table:not([class]) tr:nth-child(even),
@@ -835,11 +835,11 @@
 @media screen and (max-width: 768px) {
   .md-typeset .admonition.statblock table:not([class]) th,
   .md-typeset details.statblock table:not([class]) th {
-    font-size: 0.75em !important;
+    font-size: 0.875em !important;
   }
   .md-typeset .admonition.statblock table:not([class]) td,
   .md-typeset details.statblock table:not([class]) td {
-    font-size: 0.8625em !important;
+    font-size: 1.00625em !important;
   }
   .md-typeset .admonition.statblock table:not([class]) th:nth-child(4),
   .md-typeset .admonition.statblock table:not([class]) td:nth-child(4),
@@ -863,8 +863,8 @@
     Statuses
 --------------------------------------------------------*/
 .md-status::after {
-  width: px2em(18px);
-  height: px2em(18px);
+  width: 1.125em;
+  height: 1.125em;
   vertical-align: baseline;
   mask-position: center;
 }
