@@ -11,27 +11,27 @@ A variety of arcane colleges specialize in training Wizards for war. The traditi
 
 Followers of this tradition are known as War Mages. They see their magic as both a weapon and armor, a resource superior to any piece of steel. War mages act fast in battle, using their spells to seize tactical control of a situation. Their spells strike hard, while their defensive skills foil their opponents' attempts to counterattack. War Mages are also adept at turning other spellcasters' magical energy against them.
 
-In great battles, a War Mage often works with evokers, abjurers, and other types of wizards. Evokers, in particular, sometimes tease War Mages for splitting their attention between offense and defense. A war mage's typical response: “What good is being able to throw a mighty fireball if I die before I can cast it?”
+In great battles, a War Mage often works with evokers, abjurers, and other types of wizards. Evokers, in particular, sometimes tease War Mages for splitting their attention between offense and defense. A war mage's typical response: "What good is being able to throw a mighty fireball if I die before I can cast it?"
 
 ### Level 3: Arcane Deflection
 
-You have learned to weave your magic to fortify yourself against harm. When you are hit by an attack or you fail a saving throw, you can use your Reaction to gain bonus to your AC or bonus to the saving throws equals to your Intelligence modifier, potentially turning the hit into a miss or a failure into a success. The bonus lasts until the start of your next turn. 
+You have learned to weave your magic to fortify yourself against harm. When you are hit by an attack or you fail a saving throw, you can use your :rsc-r: Reaction to gain bonus to your AC or bonus to the saving throws equals to your Intelligence modifier, potentially turning the hit into a miss or a failure into a success. The bonus lasts until the start of your next turn. 
 
 When you use this feature, you can't cast spells other than cantrips until the end of your next turn. 
 
 ### Level 3: Tactical Wit
 
-Your keen ability to assess tactical situations allows you to act quickly in battle. You have Advantage on Initiative rolls.
+Your keen ability to assess tactical situations allows you to act quickly in battle. You have :d20-adv: Advantage on Initiative rolls.
 
 ### Level 6: Power Surge
 
 You can store magical energy within yourself to later empower your damaging spells. In its stored form, this energy is called a Power Surge.
 
-***Free Preparations.*** You add the :spell-lv3: *Counterspell* and :spell-lv3: *Dispel Magic* spells to your spellbook for free, if they weren't there already, and you always have them prepared.
+***Free Preparations.*** You add the [:spell-lv3: Counterspell] and [:spell-lv3: Dispel Magic] spells to your spellbook for free, if they weren't there already, and you always have them prepared.
 
 ***Number of Power Surges.*** You can store a maximum number of Power Surges equal to your Intelligence modifier (minimum of one). Whenever you finish a Long Rest, your number of Power Surges resets to one. If you end a Short Rest with no power surges, you gain one Power surge.
 
-***Gaining Power Surges.*** Whenever you successfully end a spell with :spell-lv3: *Dispel Magic* or :spell-lv3: *Counterspell*, you gain one Power Surge, as you steal magic from the spell you foiled. You also gain one Power Surge when you reduce a creature to 0 Hit Points with a Wizard spell that used a spell slot, but only once per casting. 
+***Gaining Power Surges.*** Whenever you successfully end a spell with [:spell-lv3: Dispel Magic] or [:spell-lv3: Counterspell], you gain one Power Surge, as you steal magic from the spell you foiled. You also gain one Power Surge when you reduce a creature to 0 Hit Points with a Wizard spell that used a spell slot, but only once per casting. 
 
 ***Spell Empowerment.*** Once per turn when you deal damage to a creature or object with a Wizard spell, you can spend one Power Surge to deal extra :dmg-force: Force damage to that target. The extra damage equals your Wizard level.
 
@@ -42,3 +42,5 @@ The magic you channel helps ward off harm. While you maintain :spell-concentrati
 ### Level 14: Deflecting Shroud
 
 Your Arcane Deflection becomes infused with deadly magic. When you use your Arcane Deflection feature, you can cause magical energy to arc from you. Up to three creatures of your choice that you can see within 60 feet of you each take :dmg-force: Force damage equal to half your Wizard level (rounded up).
+
+--8<-- "includes/snippets/spells2/lv3.md"
