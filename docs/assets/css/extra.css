@@ -771,6 +771,7 @@
 }
 .md-typeset .admonition.statblock table:not([class]),
 .md-typeset details.statblock table:not([class]) {
+  white-space: nowrap !important;
   box-shadow: none !important;
 }
 .md-typeset .admonition.statblock table:not([class]) td,
