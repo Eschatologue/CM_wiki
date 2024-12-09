@@ -72,8 +72,4 @@ You have risen through the ranks of your Order to become an unparalleled hunter 
 [Spellsight]: index.md#level-5-spellsight
 [Spellsunder]: index.md#level-9-spellsunder
 
---8<-- "includes/snippets/spells2/lv1.md"
---8<-- "includes/snippets/spells2/lv2.md"
---8<-- "includes/snippets/spells2/lv3.md"
---8<-- "includes/snippets/spells2/lv4.md"
---8<-- "includes/snippets/spells2/lv5.md"
+--8<-- "includes/snippets/spells2/lv0-5.md"

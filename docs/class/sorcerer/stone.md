@@ -55,8 +55,4 @@ When you cast a spell that deals damage, choose one creature damaged by that spe
 
 When you use your Stone's Aegis to protect an ally, you can choose up to three creatures to gain its benefits.
 
---8<-- "includes/snippets/spells2/lv1.md"
---8<-- "includes/snippets/spells2/lv2.md"
---8<-- "includes/snippets/spells2/lv3.md"
---8<-- "includes/snippets/spells2/lv4.md"
---8<-- "includes/snippets/spells2/lv5.md"
+--8<-- "includes/snippets/spells2/lv0-5.md"

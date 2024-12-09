@@ -56,8 +56,4 @@ The illusion of your Invoke Duplicity has grown more powerful in the following w
 
 ***Healing Illusion.*** When the illusion ends, you or a creature of your chice within 5 feet of it regains a number of Hit Points equal to your CLeric level.
 
---8<-- "includes/snippets/spells2/lv1.md"
---8<-- "includes/snippets/spells2/lv2.md"
---8<-- "includes/snippets/spells2/lv3.md"
---8<-- "includes/snippets/spells2/lv4.md"
---8<-- "includes/snippets/spells2/lv5.md"
+--8<-- "includes/snippets/spells2/lv0-5.md"

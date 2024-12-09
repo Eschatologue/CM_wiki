@@ -16,6 +16,7 @@
         border-width: 2px !important;
 
         & table:not([class]) {
+            white-space: nowrap !important;
             box-shadow: none !important;
 
             td,

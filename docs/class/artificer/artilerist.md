@@ -74,9 +74,4 @@ You're a master at forming well-defended emplacements using Eldritch Cannon:
 
 ***Two Cannons.*** You can now have two Cannons at the same time. You can create two with the same action, and you can activate both of them with the same Bonus Action. You determine whether the cannons are identical to each other or different. You can't create a third cannon while you have two.
 
---8<-- "includes/snippets/spells2/lv0.md"
---8<-- "includes/snippets/spells2/lv1.md"
---8<-- "includes/snippets/spells2/lv2.md"
---8<-- "includes/snippets/spells2/lv3.md"
---8<-- "includes/snippets/spells2/lv4.md"
---8<-- "includes/snippets/spells2/lv5.md"
+--8<-- "includes/snippets/spells2/lv0-5.md"

@@ -74,8 +74,4 @@ Also, when you take the Attack action while in your [Blade Dance], you make one 
 [Blade Dance]: #level-3-blade-dance
 [Spellsunder]: index.md#level-9-spellsunder
 
---8<-- "includes/snippets/spells2/lv1.md"
---8<-- "includes/snippets/spells2/lv2.md"
---8<-- "includes/snippets/spells2/lv3.md"
---8<-- "includes/snippets/spells2/lv4.md"
---8<-- "includes/snippets/spells2/lv5.md"
+--8<-- "includes/snippets/spells2/lv0-5.md"

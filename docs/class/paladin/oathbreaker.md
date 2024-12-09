@@ -52,8 +52,4 @@ Unholy magic courses through you. You have Resistance to Bludgeoning, Piercing a
 
 Your connection to the unholy grants you a shroud of gloom. As a Bonus Action, you can surround yourself in gloom in a 30-foot Emanation. This Emanation lasts for 10 minutes. Bright light in this area becomes dim light. Whenever a creature hits another creature with a weapon attack while it is within this Emanation, you can choose to have that creature deal half damage. Once you use this feature, you cannot use it again until you finish a Long Rest, or you expend a level 5 spell slot to use it again.
 
---8<-- "includes/snippets/spells2/lv1.md"
---8<-- "includes/snippets/spells2/lv2.md"
---8<-- "includes/snippets/spells2/lv3.md"
---8<-- "includes/snippets/spells2/lv4.md"
---8<-- "includes/snippets/spells2/lv5.md"
+--8<-- "includes/snippets/spells2/lv0-5.md"

@@ -28,7 +28,7 @@ Your tinkering with Arcane Firearm ensures you always have certain spells ready.
 | Artificer Level | Spells |
 |:-:|:--|
 | 3 | [:spell-lv1: Chaos Bolt], [:spell-lv1: Guiding Bolt] |
-| 5 | [:spell-lv2: Melf's Acid Arrow], [:spell-lv2: Arcane Scorcher] |
+| 5 | [:spell-lv2: Melf's Acid Arrow], [:spell-lv2: Aganazzar's Scorcher] |
 | 9 | [:spell-lv3: Conjure Barrage], [:spell-lv3: Lightning Arrow] |
 | 13 | [:spell-lv4: Banishment], [:spell-lv4: Fire Shield] |
 | 17 | [:spell-lv5: Skill Empowerment], [:spell-lv5: Swift Quiver] |
@@ -183,9 +183,4 @@ When one of your Upgrades requires a creature to make a saving throw, it makes i
     As a Magic action, you can set your Arcane Firearm up as a turret in an unoccupied 5-foot space. While you are within 120 feet of your Arcane Firearm, you can use a Bonus Action to cause your Arcane Firearm to make an attack, or use another one of its abilities, targeting a creature you can see in its range.
 
     ---
-
---8<-- "includes/snippets/spells2/lv1.md"
---8<-- "includes/snippets/spells2/lv2.md"
---8<-- "includes/snippets/spells2/lv3.md"
---8<-- "includes/snippets/spells2/lv4.md"
---8<-- "includes/snippets/spells2/lv5.md"
+--8<-- "includes/snippets/spells2/lv0-5.md"

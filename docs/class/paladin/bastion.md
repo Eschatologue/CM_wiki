@@ -86,8 +86,4 @@ You become an unyielding bulwark, turning aside threats and protecting those wit
 
 ***Damage Reduction.*** When you or your ally are hit by an attack, that attack damage is reduced by an amount equal to your **Charisma modifier**.
 
---8<-- "includes/snippets/spells2/lv1.md"
---8<-- "includes/snippets/spells2/lv2.md"
---8<-- "includes/snippets/spells2/lv3.md"
---8<-- "includes/snippets/spells2/lv4.md"
---8<-- "includes/snippets/spells2/lv5.md"
+--8<-- "includes/snippets/spells2/lv0-5.md"

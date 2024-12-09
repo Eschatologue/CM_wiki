@@ -82,9 +82,5 @@ You have been exposed to so many chemicals that they pose little risk to you, an
 
 ***Mastered Alchemy.*** You can cast the [:spell-lv5: Greater Restoration] and [:spell-lv6: Tasha's Bubbling Cauldron] spells without expending a spell slot, without preparing the spell, and without material components, provided you use Alchemist's Supplies as the spellcasting focus. Once you cast either spell with this feature, you can't cast that spell with it again until you finish a Long Rest.
 
---8<-- "includes/snippets/spells2/lv1.md"
---8<-- "includes/snippets/spells2/lv2.md"
---8<-- "includes/snippets/spells2/lv3.md"
---8<-- "includes/snippets/spells2/lv4.md"
---8<-- "includes/snippets/spells2/lv5.md"
+--8<-- "includes/snippets/spells2/lv0-5.md"
 --8<-- "includes/snippets/spells2/lv6.md"
