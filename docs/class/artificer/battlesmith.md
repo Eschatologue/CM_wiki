@@ -47,40 +47,6 @@ Your tinkering has borne you a companion, a steel defender. It's friendly to you
 
 At the end of a Long Rest, you can create a new Steel Defender if you have Smith's Tools with you. If you already have a Defender from this feature, the first one immediately perishes. The Defender also perishes if you die.
 
-### Steel Defender
-
-*Medium Construct*
-
-**AC** 15 (natural armour)  
-**HP** 2 + your Int. modifier + 5x your Artificer level  
-**Speed** 40 ft.  
-
-:ability-str: **STR** 14 (+2) :d20-save: **Save** +2  
-:ability-dex: **DEX** 12 (+1) :d20-save: **Save** +1 + PB  
-:ability-cons: **CON** 14 (+2) :d20-save: **Save** +1 + PB  
-:ability-int: **INT** 4 (-3) :d20-save: **Save** -3  
-:ability-wis: **WIS** 10 (+0) :d20-save: **Save** +0  
-:ability-cha: **CHA** 6 (-2) :d20-save: **Save** -2  
-
-**Senses** Darkvision 60 ft., Passive Perception 10 + (PB x 2)  
-**Skills** Athletics +2 plus PB, Perception +0 plus PB x 2  
-**Immunities** Poison, Charmed, Exhaustion, Poisoned  
-**Languages** understands the languages you speak  
-**Proficiency Bonus** equals your bonus  
-
-#### Traits
-
-***Vigilant.*** The defender can't be surprised.  
-
-#### Actions (Requires Your :rsc-b: Bonus Action)
-
-***Force-Empowered Rend.*** *Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target you can see. *Hit:* 1d8 + PB force damage.  
-
-***Repair (3/Day).*** The magical mechanisms inside the defender restore 2d8 + PB hit points to itself or to one construct or object within 5 feet of it.  
-
-#### Reactions
-
-***Deflect Attack.*** The defender imposes :d20-disadv: Disadvantage on the attack roll of one creature it can see that is within 5 feet of it, provided the attack roll is against a creature other than the defender.
 
 ### Level 5: Extra Attack
 
@@ -107,6 +73,42 @@ Your Arcane Jolt and Steel Defender become more powerful:
 ***Protected Defender.*** Your Steel Defender gains a +2 bonus to Armour Class.
 
 ***Forceful Deflect.*** Whenever your Steel Defender uses its Deflect Attack, the attacker takes Force damage equal to 1d4 + your Intelligence modifier.
+
+!!! statblock "Steel Defender"
+
+    ## Steel Defender
+
+    *Medium Construct*
+
+    **AC** 15 (natural armour)  
+    **HP** 2 + your Int. modifier + 5x your Artificer level  
+    **Speed** 40 ft.  
+
+    | | | MOD | SAVE | | | MOD | SAVE |
+    |--:|:-:|:-:|:-:|--:|:-:|:-:|:-:|
+    | **Str** | 14 | +2 | +2 | **Int** | 4 | -3 | -3 |
+    | **Dex** | 12 | +1 | +1 + PB | **Wis** | 10 | +0 | +0 |
+    | **Con** | 14 | +2 | +2 + PB | **Cha** | 6 | -2 | -2 |
+
+    **Senses** Darkvision 60 ft., Passive Perception 10 + (PB x 2)  
+    **Skills** Athletics +2 plus PB, Perception +0 plus PB x 2  
+    **Immunities** Poison, Charmed, Exhaustion, Poisoned  
+    **Languages** understands the languages you speak  
+    **Proficiency Bonus** equals your bonus   
+
+    #### Traits
+
+    ***Vigilant.*** The defender can't be surprised.  
+
+    #### Actions (Requires Your :rsc-b: Bonus Action)
+
+    ***Force-Empowered Rend.*** *Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target you can see. *Hit:* 1d8 + PB force damage.  
+
+    ***Repair (3/Day).*** The magical mechanisms inside the defender restore 2d8 + PB hit points to itself or to one construct or object within 5 feet of it.  
+
+    #### Reactions
+
+    ***Deflect Attack.*** The defender imposes :d20-disadv: Disadvantage on the attack roll of one creature it can see that is within 5 feet of it, provided the attack roll is against a creature other than the defender.
 
 --8<-- "includes/snippets/spells2/lv0.md"
 --8<-- "includes/snippets/spells2/lv1.md"

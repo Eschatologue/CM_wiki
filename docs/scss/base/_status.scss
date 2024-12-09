@@ -2,11 +2,13 @@
     Statuses
 --------------------------------------------------------*/
 
+@use "../utility/convert";
+
 .md-status {
     // Status icon
     &::after {
-        width: px2em(18px);
-        height: px2em(18px);
+        width: convert.px2em(18px);
+        height: convert.px2em(18px);
         vertical-align: baseline;
         mask-position: center;
     }
