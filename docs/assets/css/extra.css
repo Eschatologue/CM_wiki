@@ -781,7 +781,7 @@
 }
 .md-typeset .admonition.statblock table:not([class]) th,
 .md-typeset details.statblock table:not([class]) th {
-  font-size: 1.09375em !important;
+  font-size: 0.875em !important;
   background-color: transparent !important;
   border-bottom: transparent;
   font-weight: normal;
@@ -790,7 +790,7 @@
 }
 .md-typeset .admonition.statblock table:not([class]) td,
 .md-typeset details.statblock table:not([class]) td {
-  font-size: 1.225em !important;
+  font-size: 1.00625em !important;
 }
 .md-typeset .admonition.statblock table:not([class]) tr:nth-child(odd),
 .md-typeset .admonition.statblock table:not([class]) tr:nth-child(even),
@@ -835,11 +835,11 @@
 @media screen and (max-width: 768px) {
   .md-typeset .admonition.statblock table:not([class]) th,
   .md-typeset details.statblock table:not([class]) th {
-    font-size: 0.875em !important;
+    font-size: 0.7em !important;
   }
   .md-typeset .admonition.statblock table:not([class]) td,
   .md-typeset details.statblock table:not([class]) td {
-    font-size: 1.00625em !important;
+    font-size: 0.875em !important;
   }
   .md-typeset .admonition.statblock table:not([class]) th:nth-child(4),
   .md-typeset .admonition.statblock table:not([class]) td:nth-child(4),
