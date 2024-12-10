@@ -9,7 +9,7 @@
 [:spell-lv2: Augury]: ../../../spells/description/core/level-2.md#augury  
 [:spell-lv2: Barkskin]: ../../../spells/description/core/level-2.md#barkskin  
 [:spell-lv2: Beast Sense]: ../../../spells/description/core/level-2.md#beast-sense  
-[:spell-lv2: Blindness/Deafness]: ../../../spells/description/core/level-2.md#blindness-deafness  
+[:spell-lv2: Blindness/Deafness]: ../../../spells/description/core/level-2.md#blindnessdeafness  
 [:spell-lv2: Blur]: ../../../spells/description/core/level-2.md#blur  
 [:spell-lv2: Calm Emotions]: ../../../spells/description/core/level-2.md#calm-emotions  
 [:spell-lv2: Cloud of Daggers]: ../../../spells/description/core/level-2.md#cloud-of-daggers  

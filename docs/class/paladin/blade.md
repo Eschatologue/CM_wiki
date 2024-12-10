@@ -16,7 +16,7 @@ These paladins share the following tenets:
 
 ### Level 3: Sacred Duel
 
-As a Bonus Action, you can expend one use of your Channel Divinity to force a creature within 30 feet of you to make a Wisdom saving throw, on a failed save they are locked in a Sacred duel with you, designating you and your target as Duelists for 1 minute, or until one of you have the ^^Unconcious^^ condition. Your use of Channel Divinity is not expended if the creature succeed the saving throw.
+As a :rsc-b: Bonus Action, you can expend one use of your Channel Divinity to begin a Sacred Duel between you and another creature that agrees to the duel within 30 feet of you, designating you as duelists for 1 minute, or until one of you have the ^^Unconcious^^ condition. Your use of Channel Divinity is not expended if the creature succeed the saving throw.
 
 Duelists are under the following effects:
 
@@ -24,7 +24,7 @@ Duelists are under the following effects:
 
 ***Limited Targeting.*** Duelists can only target each other with attacks, spells, and other features during this Sacred Duel.
 
-***Improved Critical.*** The number that Duelists needs to roll for a Critical Hit is reduced by 1. This effect can stack.
+***Improved Critical.*** The number that Duelists needs to roll for a Critical Hit against other Duelist is reduced by 1. This effect can stack.
 
 ### Level 3: Combat Superiority
 
