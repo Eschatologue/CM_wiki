@@ -1,0 +1,105 @@
+/*------------------------------------------------------- 
+    Monster Statblock
+--------------------------------------------------------*/
+
+@use "sass:color";
+@use "../utility/convert";
+@use "./admonition";
+@use "./table";
+
+.md-typeset {
+    $colorAdmonition_statblock: convert.hex3hsl(#ffb624);
+
+    .admonition.statblock,
+    details.statblock {
+        border-color: $colorAdmonition_statblock;
+        border-width: 2px !important;
+
+        & table:not([class]) {
+            white-space: nowrap !important;
+            box-shadow: none !important;
+
+            td,
+            th {
+                padding: convert.px2em(12px) !important;
+            }
+
+            th {
+                font-size: convert.px2em(table.$tableFontSize) !important;
+                background-color: transparent !important;
+                border-bottom: transparent;
+                font-weight: normal;
+                color: var(--md-default-wht--050);
+                text-transform: capitalize !important;
+            }
+
+            td {
+                font-size: convert.px2em(table.$tableFontSize * 1.15) !important;
+            }
+
+            tr:nth-child(odd),
+            tr:nth-child(even) {
+                background-color: transparent !important;
+            }
+
+            // Ability Names & Score
+            td:nth-child(1),
+            td:nth-child(2),
+            td:nth-child(5),
+            td:nth-child(6) {
+                background-color: var(--md-default-blk--0125) !important;
+                font-weight: strong;
+                color: var(--md-text-color);
+            }
+
+            // Ability Name Only
+            td:nth-child(1),
+            td:nth-child(5) {
+                font-variant: small-caps;
+            }
+
+            td:nth-child(3),
+            td:nth-child(4),
+            td:nth-child(7),
+            td:nth-child(8) {
+                background-color: var(--md-primary-bg-color-light) !important;
+            }
+
+            // Divider after 4th column
+            th:nth-child(4),
+            td:nth-child(4) {
+                border-right: 12px solid var(--md-default-bg-color) !important;
+            }
+
+            // Adjust font sizes for smaller screens
+            @media screen and (max-width: 768px) {
+                th {
+                    font-size: convert.px2em(table.$tableFontSize * 0.8) !important;
+                }
+
+                td {
+                    font-size: convert.px2em(table.$tableFontSize) !important;
+                }
+
+                th:nth-child(4),
+                td:nth-child(4) {
+                    border-right: convert.px2rem(6px) solid var(--md-default-bg-color) !important;
+                }
+            }
+        }
+    }
+
+    .statblock {
+        > .admonition-title,
+        > summary {
+            background-color: color.adjust($colorAdmonition_statblock, $alpha: -0.9);
+        }
+
+        > .admonition-title::before,
+        > summary::before {
+            background-color: $colorAdmonition_statblock;
+            -webkit-mask-image: var(--md-icon--statblock);
+            mask-image: var(--md-icon--statblock);
+        }
+    }
+}
