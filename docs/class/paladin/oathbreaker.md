@@ -1,5 +1,5 @@
 ---
-title: Oathbreaker
+title: Oathbreaker (Paladin Subclass)
 status: adapted
 ---
 

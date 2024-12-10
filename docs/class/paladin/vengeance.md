@@ -1,5 +1,5 @@
 ---
-title: Oath of Vengeance
+title: Oath of Vengeance (Paladin Subclass)
 ---
 
 
@@ -41,7 +41,7 @@ Your supernatural focus helps you close off a foe's retreat. When you hit a crea
 
 Immediately after a creature under the effect of your Vow of Enmity hits or misses with an attack, you can use your Reaction to make a melee attack against that creature if it's within range.
 
-### Level: Avenging Angel
+### Level 20: Avenging Angel
 
 As a Bonus Action, you gain the following benefits for 10 minutes. Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending a level 5 spell slot (no action required).
 

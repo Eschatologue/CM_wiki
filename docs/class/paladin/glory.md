@@ -1,5 +1,5 @@
 ---
-title: Oath of Glory
+title: Oath of Glory (Paladin Subclass)
 ---
 
 # Oath of Glory
@@ -16,9 +16,9 @@ These paladins share the following tenets:
 
 ### Level 3: Inspiring Smite
 
-Immediately after you deal damage to a creature with *Divine Smite*, you can expend one use of your Channel Divinity and distribute Temporary Hit Points to creatures of your choice within 30 feet of yourself, which can include you. The total number of Temporary Hit Points equals 2d8 plus your Paladin level, divided among the chosen creatures however you like.
+Immediately after you deal damage to a creature with [:spell-lv1: Divine Smite], you can expend one use of your Channel Divinity and distribute Temporary Hit Points to creatures of your choice within 30 feet of yourself, which can include you. The total number of Temporary Hit Points equals 2d8 plus your Paladin level, divided among the chosen creatures however you like.
 
-### Level 3: Oath of GLory Spells
+### Level 3: Oath of Glory Spells
 
 The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of Glory Spells table, you thereafter always have the listed spells prepared.
 

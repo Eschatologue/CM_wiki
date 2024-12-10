@@ -177,7 +177,7 @@ You can attack twice instead of once whenever you take the Attack action on your
 
 ### Level 5: Faithful Steed
 
-You can call on the aid of an otherworldly steed. You always have the *Find Steed* spell prepared.
+You can call on the aid of an otherworldly steed. You always have the [:spell-lv2: Find Steed] spell prepared.
 
 You can also cast the spell once without expending a spell slot, and you regain the ability to do so when you finish a Long Rest.
 
@@ -214,3 +214,5 @@ Your Aura of Protection is now a 30-foot Emanation.
 You gain an [:option-feat-boon: Epic Boon feat](../../option/feat/feat-boon.md) or another feat of your choice for which you qualify. Boon of Truesight is recommended.
 
 --8<-- "includes/snippets/skills.md"
+
+--8<-- "includes/snippets/spells2/lv2.md"

@@ -1,5 +1,5 @@
 ---
-title: Oath of Devotion
+title: Oath of Devotion (Paladin Subclass)
 ---
 
 # Oath of Devotion

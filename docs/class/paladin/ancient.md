@@ -1,5 +1,5 @@
 ---
-title: Oath of the Ancients
+title: Oath of the Ancients (Paladin Subclass)
 ---
 
 

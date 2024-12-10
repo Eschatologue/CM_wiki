@@ -1,5 +1,5 @@
 ---
-title: Oath of the Bastion
+title: Oath of the Bastion (Paladin Subclass)
 status: homebrew
 ---
 

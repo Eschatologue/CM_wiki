@@ -21,7 +21,7 @@ $tableFontSize: 14px;
         }
 
         th {
-            font-size: $tableFontSize * 0.9;
+            font-size: $tableFontSize;
             font-weight: bold !important;
             text-transform: capitalize !important;
             vertical-align: bottom;
@@ -33,7 +33,7 @@ $tableFontSize: 14px;
 
         td {
             // Default Font Size
-            font-size: $tableFontSize * 0.85;
+            font-size: $tableFontSize * 0.9;
 
             border: convert.px2rem(0px) transparent !important; // No Bottom Border
 
@@ -46,11 +46,11 @@ $tableFontSize: 14px;
         // Adjust font sizes for smaller screens
         @media screen and (max-width: 768px) {
             th {
-                font-size: $tableFontSize * 0.8;
+                font-size: $tableFontSize * 0.9;
             }
 
             td {
-                font-size: $tableFontSize * 0.7;
+                font-size: $tableFontSize * 0.8;
             }
         }
 
