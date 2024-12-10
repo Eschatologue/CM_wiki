@@ -5,6 +5,8 @@ status: homebrew
 
 # Oath of the Blade
 
+> *Fight with Honour and Martial Superiority*
+
 Paladins who swear the Oath of the Blade dedicate their lives to becoming masters of combat. Often given the title of Blade Master, these paragons of battle strive for mastery with the armaments of war. Some serve as mercenaries, and others as guardians or bodyguards. However, no matter their station Paladins of the Blade always look to test their martial skills.
 
 These paladins share the following tenets:
