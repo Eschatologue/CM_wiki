@@ -229,22 +229,21 @@ Instead of using a weapon to make a melee attack, you can use a punch, kick, hea
 
 Whenever you use your Unarmed Strike, choose one of the following options for its effect.
 
-***Damage***
+#### Damage
 
-: You make an attack roll against the target. Your bonus to the roll equals your Strength modifier plus your Proficiency Bonus. On a hit, the target takes :dmg-blunt: Bludgeoning damage equal to 1 plus your Strength modifier.
+You make an attack roll against the target. Your bonus to the roll equals your Strength modifier plus your Proficiency Bonus. On a hit, the target takes :dmg-blunt: Bludgeoning damage equal to 1 plus your Strength modifier.
 
-***Grapple*** 
+#### Grapple
 
-: The target must succeed on a Strength or Dexterity saving throw (it chooses which), or it has the Grappled condition. The DC for the saving throw and any escape attempts equals 8 plus your Strength modifier and Proficiency Bonus. This grapple is possible only if the target is no more than one size larger than you and if you have a hand free to grab it.
+The target must succeed on a Strength or Dexterity saving throw (it chooses which), or it has the Grappled condition. The DC for the saving throw and any escape attempts equals 8 plus your Strength modifier and Proficiency Bonus. This grapple is possible only if the target is no more than one size larger than you and if you have a hand free to grab it.
 
-:   ??? info "Grappling"
+??? info "Grappling"
 
-        --8<-- "docs/glossary.md:grappling"
+    --8<-- "docs/glossary.md:grappling"
 
+#### Shove
 
-***Shove***
-
-: The target must succeed on a Strength or Dexterity saving throw (it chooses which), or you either push it 5 feet away or cause it to have the Prone condition. The DC for the saving throw equals 8 plus your Strength modifier and Proficiency Bonus. This shove is possible only if the target is no more than one size larger than you.
+The target must succeed on a Strength or Dexterity saving throw (it chooses which), or you either push it 5 feet away or cause it to have the Prone condition. The DC for the saving throw equals 8 plus your Strength modifier and Proficiency Bonus. This shove is possible only if the target is no more than one size larger than you.
 
 ---
 

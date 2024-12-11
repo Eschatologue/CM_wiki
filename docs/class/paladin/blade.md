@@ -14,6 +14,10 @@ These paladins share the following tenets:
 - Level the playing field for a fair fight.
 - All warriors deserve respect, even the most bitter foes.
 
+### Level 3: Martial Focus
+
+When you take the :rsc-a: **Attack** action, you can expend one use of your Channel Divinity to nullify any :d20-disadv: Disadvantage (if any) and give yourself :d20-adv: Advantage on all Melee weapon attack and Unarmed Strike until the start of your next turn.
+
 ### Level 3: Sacred Duel
 
 As a :rsc-b: Bonus Action, you can expend one use of your Channel Divinity to begin a Sacred Duel between you and another creature that agrees to the duel within 30 feet of you, designating you as duelists for 1 minute, or until one of you have the ^^Unconcious^^ condition. Your use of Channel Divinity is not expended if the creature succeed the saving throw.
@@ -32,7 +36,7 @@ You have honed your martial skill. You learn Manoeuvre that are fueled by specia
 
 #### Manoeuvre
 
-You learn two different Manoeuvre of your choice from the "[Manoeuvre Options]" section of the Battle Master subclass. Many Manoeuvre enhance an attack in some way. You can use only one Manoeuvre per attack. Each time you gain a Paladin level you can replace a Manoeuvre you know with another Manoeuvre of your choice.
+You learn two different Manoeuvre of your choice from the "[Manoeuvre Options]" section of the Battle Master Subclass. Many Manoeuvre enhance an attack in some way. You can use only one Manoeuvre per attack. Each time you gain a Paladin level you can replace a Manoeuvre you know with another Manoeuvre of your choice.
 
 [Manoeuvre Options]: ../../option/class-options/fighter-manoeuvre.md
 
@@ -48,7 +52,7 @@ If a Manoeuvre requires a saving throw, the DC equals 8 + your Proficiency Bonus
 
 Your skill with the weapons of war has grown. 
 
-***Improved Superiority.*** You gain one additional Superiority Die, and your Superiority Dice become :die-d6: d8s. You also learn two additional Manoeuvres of your choice. When you reach Paladin level 15 you gain another Superiority Die (for a total of five), and your Superiority Dice become :die-d10: d10s. You also learn two additional Manoeuvres.
+***Improved Superiority.*** You gain one additional Superiority Die, and your Superiority Dice become :die-d8: d8s. You also learn two additional Manoeuvres of your choice. When you reach Paladin level 15 you gain another Superiority Die (for a total of five), and your Superiority Dice become :die-d10: d10s. You also learn two additional Manoeuvres.
 
 ***Improved Mastery.*** You learn the Mastery property of two kinds of additional weapons of your choice with which you have proficiency.
 
