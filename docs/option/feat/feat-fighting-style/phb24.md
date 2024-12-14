@@ -78,6 +78,6 @@ When you make the extra attack of the :weapon-prop-light: **Light** weapon prope
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-When you do damage with Unarmed Strikes, it deals :dmg-blunt: Bludgeoning damage equal to :die-d6: 1d6 + your Strength modifier on a hit. If you have two free hands, the :die-d6: d6 damage die becomes a :die-d8: d8.
+When you do damage with Unarmed Strikes, it deals :dmg-bldg: Bludgeoning damage equal to :die-d6: 1d6 + your Strength modifier on a hit. If you have two free hands, the :die-d6: d6 damage die becomes a :die-d8: d8.
 
-At the start of each of your turns, you can deal 1d4 :dmg-blunt: Bludgeoning damage to one creature that receive the Grappled condition from you.
+At the start of each of your turns, you can deal 1d4 :dmg-bldg: Bludgeoning damage to one creature that receive the Grappled condition from you.

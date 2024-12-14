@@ -587,7 +587,7 @@ A creature requires an amount of water per day based on its size, as shown in th
 
 <!-- --8<-- [start:haz-falling] -->
 
-A creature that falls take 1d6 :dmg-blunt: Bludgeoning damage at the end of the fall for every 10 feet it fell, to a maximum of 20d6. When the creature lands, it has the Prone condition unless it avoids taking damage from the fall.
+A creature that falls take 1d6 :dmg-bldg: Bludgeoning damage at the end of the fall for every 10 feet it fell, to a maximum of 20d6. When the creature lands, it has the Prone condition unless it avoids taking damage from the fall.
 
 A creature that falls into water or another liquid can use its REaction to make a DC 15 Strength (Athlethics) or Dexterity (Acrobatics) check to hit the surface head or feet first. On a successful check, any damage resulting from the fall is halved.
 

@@ -37,7 +37,7 @@ Whenever you deal damage with your Unarmed Strike, it can deal your choice of :d
 
 Your fists becomes devastating to whoever at the receiving end. Your Unarmed Strike is improved in the following ways:
 
-***Hurl.*** As a :rsc-b: Bonus Action, you can end a Grapple to throw the creature to a point you can see within 30 feet. If the creature lands in an unoccupied space, it has the ^^Prone^^ condition. If it collides with another creature, that creature must succeed on a Dexterity saving throw (DC = 8 + your Prof. Bonus + your Str. modifier) or take :dmg-blunt: Bludgeoning damage equal to your Unarmed Strike damage.
+***Hurl.*** As a :rsc-b: Bonus Action, you can end a Grapple to throw the creature to a point you can see within 30 feet. If the creature lands in an unoccupied space, it has the ^^Prone^^ condition. If it collides with another creature, that creature must succeed on a Dexterity saving throw (DC = 8 + your Prof. Bonus + your Str. modifier) or take :dmg-bldg: Bludgeoning damage equal to your Unarmed Strike damage.
 
 ***Concussion.*** When you hit a creature with an Unarmed Strike, you can force it to make a Constitution saving throw (DC = 8 + your Prof. Bonus + your Str. modifier). On a failure, it has the ^^Stunned^^ condition until the start of your next turn. On a success, its Speed is halved until the start of your next turn, and the next attack against it has Advantage.
 
@@ -47,7 +47,7 @@ You can use this class feature a number of times equal to your Strength modifier
 
 Your expertise in hand-to-hand combat reaches new heights: your unarmed attacks are deadlier and more punishing. While your Rage is active, you gain the following benefits:
 
-***Backbreaker.*** At the start of each of your turns while your Rage is active, you can deal 1d6 :dmg-blunt: Bludgeoning damage to one creature that receive the ^^Grappled^^ condition from you, instead of 1d4. **At level 14**, this damage die becomes 1d8.
+***Backbreaker.*** At the start of each of your turns while your Rage is active, you can deal 1d6 :dmg-bldg: Bludgeoning damage to one creature that receive the ^^Grappled^^ condition from you, instead of 1d4. **At level 14**, this damage die becomes 1d8.
 
 ***Improved Damage.*** While your Rage is active, when you do damage with Unarmed Strike, its damage die becomes 1d8, or 1d10 if you have two free hands. **At level 14**, this damage die becomes 1d10, or 1d12 if you have two free hands.
 

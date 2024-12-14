@@ -52,7 +52,7 @@ Whenever you assume your starry form, choose which of the following constellatio
 
 ***Dragon.*** A constellation of a wise dragon appears on you. When you make an Intelligence or a Wisdom check or a Constitution saving throw to maintain concentration on a spell, you can treat a roll of 9 or lower on the d20 as a 10.
 
-At Druid **level 14**, while in your Starry Form, you become partially incorporeal, giving you :dmg-res: Resistance to :dmg-blunt: Bludgeoning, :dmg-piercing: Piercing, and :dmg-slashing: Slashing damage.
+At Druid **level 14**, while in your Starry Form, you become partially incorporeal, giving you :dmg-res: Resistance to :dmg-bldg: Bludgeoning, :dmg-pier: Piercing, and :dmg-slsh: Slashing damage.
 
 ### Level 6: Cosmic Omen
 

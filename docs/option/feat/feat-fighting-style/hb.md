@@ -31,7 +31,7 @@ You gain training with all shields and it gains the following trait in the Shiel
 | Trait | Details |
 |---|---|
 | **Weapon Category** | Martial Melee |
-| **Base Damage** | d4 (Buckler); d6 (Shield); d8 (Tower Shield) :dmg-blunt: Bludgeoning damage plus Strength modifier |
+| **Base Damage** | d4 (Buckler); d6 (Shield); d8 (Tower Shield) :dmg-bldg: Bludgeoning damage plus Strength modifier |
 | **Properties** | None | 
 | **Mastery** | None |
 

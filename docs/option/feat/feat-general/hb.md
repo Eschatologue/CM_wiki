@@ -226,7 +226,7 @@ One-handed weapons and blades are an extension of your arm, graceful as the wind
 You increase your Dexterity by 1, up to a maximum of 20.
     
 **Dynamic Swordplay**  
-When you take the Attack action and attack with melee weapon that has the :weapon-prop-finesse: **Finesse** property, you can choose to deal either :dmg-slashing: **Slashing** or :dmg-piercing: **Piercing** damage.
+When you take the Attack action and attack with melee weapon that has the :weapon-prop-finesse: **Finesse** property, you can choose to deal either :dmg-slsh: **Slashing** or :dmg-pier: **Piercing** damage.
 
 **Fleuret**  
 The first creature you hit on your turn has :d20-disadv: **Disadvantage** on any attack against you until the start of your next turn.

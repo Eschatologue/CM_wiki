@@ -231,7 +231,7 @@ Whenever you use your Unarmed Strike, choose one of the following options for it
 
 #### Damage
 
-You make an attack roll against the target. Your bonus to the roll equals your Strength modifier plus your Proficiency Bonus. On a hit, the target takes :dmg-blunt: Bludgeoning damage equal to 1 plus your Strength modifier.
+You make an attack roll against the target. Your bonus to the roll equals your Strength modifier plus your Proficiency Bonus. On a hit, the target takes :dmg-bldg: Bludgeoning damage equal to 1 plus your Strength modifier.
 
 #### Grapple
 

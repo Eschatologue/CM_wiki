@@ -118,10 +118,10 @@ You are practiced in the art of crushing your enemies, granting you the followin
 Increase your Strength or Constitution by 1, to a maximum of 20.
 
 **Push**  
-Once per turn, when you hit a creature with an attack that deals :dmg-blunt: Bludgeoning damage, you can move it 5 feet to an unoccupied space if the target is no more than one size larger than you.
+Once per turn, when you hit a creature with an attack that deals :dmg-bldg: Bludgeoning damage, you can move it 5 feet to an unoccupied space if the target is no more than one size larger than you.
 
 **Enhanced Critical**  
-When you score a Critical Hit that deals :dmg-blunt: Bludgeoning damage to a creature, attack rolls against that creature have Advantage until the start of your next turn.
+When you score a Critical Hit that deals :dmg-bldg: Bludgeoning damage to a creature, attack rolls against that creature have Advantage until the start of your next turn.
 
 ---
 
@@ -415,10 +415,10 @@ You gain the following benefits.
 Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
 **Puncture**  
-Once per turn, when you hit a creature with an attack that deals :dmg-piercing: Piercing damage, you can reroll one of the attack's damage dice, and you must use the new roll.
+Once per turn, when you hit a creature with an attack that deals :dmg-pier: Piercing damage, you can reroll one of the attack's damage dice, and you must use the new roll.
 
 **Enhanced Critical**  
-When you score a Critical Hit that deals :dmg-piercing: Piercing damage to a creature, you can roll one additional damage die when determining the extra :dmg-piercing: Piercing damage the target takes.
+When you score a Critical Hit that deals :dmg-pier: Piercing damage to a creature, you can roll one additional damage die when determining the extra :dmg-pier: Piercing damage the target takes.
 
 --- 
 
@@ -602,7 +602,7 @@ Increase your Strength or Dexterity score by 1, to a maximum of 20.
 Once per turn, when you hit a creature with an attack that deals :rsc-slashing: Slashing damage, you can reduce that Speed of that creature by 10 feet until the start of your next turn.
 
 **Enhanced Critical**  
-When you score a Critical Hit that deals :dmg-slashing: Slashing damage to a creature, you can roll one additional damage die when determining the extra :dmg-slashing: Slashing damage the target takes.
+When you score a Critical Hit that deals :dmg-slsh: Slashing damage to a creature, you can roll one additional damage die when determining the extra :dmg-slsh: Slashing damage the target takes.
 
 ---
 

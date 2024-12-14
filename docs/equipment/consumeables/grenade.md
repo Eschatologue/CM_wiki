@@ -65,7 +65,7 @@ Creatures with :dmg-res: Resistance to :dmg-cold: Cold damage have :d20-adv: Adv
 
 _Grenade, 250 sp, S._
 
-This grenade explodes, unleashing a hail of metal fragments that fills a 20-foot-radius :aoe-sphere: Sphere. Each creature in the area must make on a :d20-save: DC 14 Dexterity saving throw,  taking 3d6 :dmg-piercing: Piercing damage on a failed save or half as much damage on a successful one.
+This grenade explodes, unleashing a hail of metal fragments that fills a 20-foot-radius :aoe-sphere: Sphere. Each creature in the area must make on a :d20-save: DC 14 Dexterity saving throw,  taking 3d6 :dmg-pier: Piercing damage on a failed save or half as much damage on a successful one.
 
 ---
 

@@ -35,13 +35,13 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 ### Level 3: Champion Challenge
 
-When you take the Attack action, you can use your Channel Divinity to issue a challenge that compels other creatures to do battle with you. Each creature of your choice that you can see within 30 feet of you must make a Wisdom saving throw. On a failed save, a creature can't willingly move more than 30 feet away from you, and has Disadvantage on attack rolls against creatures other than you. 
+When you take the :rsc-a: **Attack** action, you can use your Channel Divinity to issue a challenge that compels other creatures to do battle with you. Each creature of your choice that you can see within 30 feet of you must make a Wisdom saving throw. On a failed save, a creature can't willingly move more than 30 feet away from you, and has :d20-disadv: Disadvantage on attack rolls against creatures other than you. 
 
 This effect ends on the creature after 1 minute, and ends early if you have the Incapacitated condition, die, or if the creature is more than 30 feet away from you.
 
 ### Level 3: Turn the Tide
 
-As a Bonus Action, you can bolster injured creatures with your Channel Divinity. Each creature of your choice that can hear you within 30 feet of you regains hit points equal to 1d6 + your Charisma modifier (minimum of 1).
+As a :rsc-b: Bonus Action, you can bolster injured creatures with your Channel Divinity. Each creature of your choice that can hear you within 30 feet of you regains hit points equal to 1d6 + your Charisma modifier (minimum of 1).
 
 ### Level 7: Aura of Allegiance
 
@@ -49,15 +49,15 @@ You exude an aura that bolsters the resolve of your allies. When a creature that
 
 ### Level 15: Unyielding Saint
 
-You are an unstoppable force for your cause. You have Immunity to the Paralyzed and Stunned conditions, you cannot unwillingly gain the Prone or Unconscious conditions, and you cannot be forcefully moved against your will.
+You are an unstoppable force for your cause. You have :dmg-imm: Immunity to the Paralyzed and Stunned conditions, you cannot unwillingly gain the Prone or Unconscious conditions, and you cannot be forcefully moved against your will.
 
 ### Level 20: Exalted Champion
 
-Your presence on the field of battle is an inspiration to those dedicated to your cause. As a Bonus Action, you can gain the following benefits for 10 minutes:
+Your presence on the field of battle is an inspiration to those dedicated to your cause. As a :rsc-b: Bonus Action, you can gain the following benefits for 10 minutes:
 
-***Damage Resistance.*** You gain resistance to Bludgeoning, Piercing and Slashing damage.
+***Damage Resistance.*** You have :dmg-res: Resistance to :dmg-bldg: Bludgeoning, :dmg-pier: Piercing and :dmg-slsh: Slashing damage.
 
-***Regal Presence.*** When a creature starts its turn within 10 feet of you, you can force it to make a Wisdom saving throw against your spell save DC. On a failed save, it takes 10 Psychic damage and has the Prone condition and cannot stand up. At the end of each of its turns, the creature can repeat this save, ending the effect preventing it from removing the Prone condition from itself on a successful save, and taking 10 Psychic damage on a failed save.
+***Regal Presence.*** When a creature starts its turn within 10 feet of you, you can force it to make a Wisdom saving throw against your spell save DC. On a failed save, it takes 10 :dmg-psychic: Psychic damage and has the ^^Prone^^ condition and cannot stand up. At the end of each of its turns, the creature can repeat this save, ending the effect preventing it from removing the ^^Prone^^ condition from itself on a successful save, and taking 10 :dmg-psychic: Psychic damage on a failed save.
 
 Once you use this feature, you cannot use it again until you finish a Long Rest, or you expend a level 5 spell slot to use it again.
 

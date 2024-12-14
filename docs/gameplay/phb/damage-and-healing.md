@@ -46,9 +46,9 @@ Each instance of damage has a type, like Fire or Slashing as defined in the Dama
 
 |symbol|physical damage|description|
 |:-:|:--|:--|
-|:dmg-blunt:{ .xxl }| **Bludgeoning** | Damage from blunt force, such as from clubs, hammers, or falling. This type of damage crushes bones and armour. |
-|:dmg-piercing:{ .xxl }| **Piercing**| Damage from pointed weapons, such as arrows, spears, or teeth. This type of damage punctures and penetrates flesh and armour. |
-|:dmg-slashing:{ .xxl }|**Slashing**| Damage from edged weapons, such as swords, axes, or claws. This type of damage cuts and slices through flesh and armour. |
+|:dmg-bldg:{ .xxl }| **Bludgeoning** | Damage from blunt force, such as from clubs, hammers, or falling. This type of damage crushes bones and armour. |
+|:dmg-pier:{ .xxl }| **Piercing**| Damage from pointed weapons, such as arrows, spears, or teeth. This type of damage punctures and penetrates flesh and armour. |
+|:dmg-slsh:{ .xxl }|**Slashing**| Damage from edged weapons, such as swords, axes, or claws. This type of damage cuts and slices through flesh and armour. |
 
 |symbol|elemental damage|description|
 |:-:|:--|:--|

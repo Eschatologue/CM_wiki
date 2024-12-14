@@ -53,7 +53,7 @@ Your mastery of alchemy allows you to alter the explosives you make in the follo
 
 ***Color.*** You alter the color of both explosive itself, the color of the explosion, and the color of the smoke it produces.
 
-***Damage Type.*** You alter the damage type of any explosive you craft to :dmg-blunt: Bludgeoning, :dmg-piercing: Piercing, :dmg-fire: Fire, :dmg-thunder: Thunder, or :dmg-lightning: Lightning.
+***Damage Type.*** You alter the damage type of any explosive you craft to :dmg-bldg: Bludgeoning, :dmg-pier: Piercing, :dmg-fire: Fire, :dmg-thunder: Thunder, or :dmg-lightning: Lightning.
 
 ### Level 13: Sabotage
 
@@ -99,7 +99,7 @@ The following Explosives are available for a Saboteur rogue to learn. As an :rsc
 
     _**Prerequisite:** Level 3+ Rogue, **Cost:** 1 Cordite charge(s)_
 
-    On impact, this explosive distrupts the earth, forcing targets within 10-feet to make a :d20-save: Strength saving throw. On a failed save, it takes :dmg-blunt: Bludgeoning damage equal to your :class-phb24-rogue: Sneak Attack bonus and has the Prone condition. The affected area becomes Difficult Terrain for 1 minute.
+    On impact, this explosive distrupts the earth, forcing targets within 10-feet to make a :d20-save: Strength saving throw. On a failed save, it takes :dmg-bldg: Bludgeoning damage equal to your :class-phb24-rogue: Sneak Attack bonus and has the Prone condition. The affected area becomes Difficult Terrain for 1 minute.
 
     ---
 

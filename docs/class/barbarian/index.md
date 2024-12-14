@@ -79,7 +79,7 @@ You can enter your Rage the number of times shown for your Barbarian level in th
 
 While active, your Rage follows the rules below.
 
-***Damage Resistance.*** You have :dmg-res: **Resistance** to :dmg-blunt: Bludgeoning, :dmg-piercing: Piercing, and :dmg-slashing: Slashing damage.
+***Damage Resistance.*** You have :dmg-res: **Resistance** to :dmg-bldg: Bludgeoning, :dmg-pier: Piercing, and :dmg-slsh: Slashing damage.
 
 ***Rage Damage.*** When you make an attack using Strength—with either a weapon or an Unarmed Strike—and deal damage to the target, you gain a bonus to the damage that increases as you gain levels as a Barbarian, as shown in the Rage Damage column of the Barbarian Features table.
 
