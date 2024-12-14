@@ -56,15 +56,21 @@ Your skill with the weapons of war has grown.
 
 ***Improved Mastery.*** You learn the Mastery property of two kinds of additional weapons of your choice with which you have proficiency.
 
-### Level 15: Skillful Counter
+### Level 15: Incredible Alacrity
 
-When a creature you can see hits you with a melee attack, you can use a Reaction to make one melee attack against it with :d20-adv: Advantage.
+You possess an unnatural level of awareness.
+
+***Blindsight.*** You have Blindsight equals to your Aura of Protection's :aoe-emanation: Emanation
+
+***Improved Opportunity Attack.*** You have :d20-adv: Advantage when you make an Opportunity Attack. Moreover, when a creature you can see hits you with a melee attack, it triggers an Opportunity Attack from you.
 
 ### Level 20: Warrior of Legend
 
 As Bonus Action, you can enter a battle trance that enhances your combat skills to legendary levels, granting the benefits below for 1 minute, until you end them (no action required). Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 ***Free Manoeuvre.*** Once per turn, when you use a Manoeuvre, you can roll a :die-d6: d6 and use the number rolled instead of expending a Superiority Die.
+
+***Saving Throw Advantage.*** You have :d20-adv: Advantage on all saving throws so long you don't have the Incapacitated condition.
 
 ***Hybrid Manoeuvre.*** You can use *two* Manoeuvre per attack instead of one normally. However, only one Manoeuvre can benefit from _**Free Manoeuvre**_ subfeature.
 

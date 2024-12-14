@@ -33,18 +33,16 @@ You cannot take any :rsc-r: **Reactions** until the start of your next turn afte
 
 ### Level 3: Heavy Archer
 
-You can select one of the Fighting Style feats of your choice from the following options: Strongbow or Thrown Weapon Fighting. Whenever you gain a level in this class, you can exchange your selection for another option.
+Unlike other Paladins, you have improved training with Ranged weapons.
 
-Moreover, your training gives you mastery of combat styles that uses **Bastion Weapons**, which are the following:
+***Fighting Style.*** You can select one of the Fighting Style feats of your choice from the following options: [Strongbow] or [Thrown Weapon Fighting]. Whenever you gain a level in this class, you can exchange your selection for another option.
 
-- Ranged Simple or Martial Weapon with the :weapon-prop-two-handed: **Two-Handed** property.
-- Weapon that has the :weapon-prop-thrown: **Thrown** property and *lacks* the :weapon-prop-light: **Light** property 
+***Bastion Weapons.*** Your training gives you mastery of combat styles that uses **Bastion Weapons**, which are Ranged or Thrown weapon that lacks the :weapon-prop-light: Light property. You gain the following benefit with **Bastion Weapons**:
 
-You gain the following benefit with **Bastion Weapons**:
+:   ***Ranged Smites.*** When you hit a target with a ranged attack using a **Bastion Weapon**, you can apply your Divine Smite or Paladin Smite spells (such as *Searing Smite* or *Shining Smite*) to that attack. However, the damage die for these smites is reduced by one size (e.g. from a d10 to a d8). When you reach level 11 in this class, your **Radiant Strikes** feature can also be applied to ranged attacks with **Bastion Weapons**, but the damage die becomes a d6 instead of a d8.
 
-***Ranged Smites.*** When you hit a target with a ranged attack using a **Bastion Weapon**, you can apply your *Divine Smite* or Paladin Smite spells (such as *Searing Smite* or *Shining Smite*) to that attack. However, the damage die for these smites is reduced by one size (e.g. from a d10 to a d8).
-
-When you reach level 11 in this class, your **Radiant Strikes** feature can also be applied to ranged attacks with **Bastion Weapons**, but the damage die becomes a d6 instead of a d8.
+[Strongbow]: ../../option/feat/feat-fighting-style/hb.md#strongbow
+[Thrown Weapon Fighting]: ./../option/feat/feat-fighting-style/phb24.md#thrown-weapon-fighting
 
 ### Level 3: Oath of Bastion Spells
 
@@ -62,7 +60,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 ### Level 7: Phalanx Formation
 
-You and your allies has Immunity to [Forced Movement](../../glossary.md#forced-movement) while within your Aura of Protection. 
+You and your allies has Immunity to Forced Movement[^1] while within your Aura of Protection. 
 
 Moreover, you and your allies gain the benefit of Half Cover while within the aura, so long you haven't moved more than half your Speed for this turn.
 
@@ -80,10 +78,10 @@ You become an unyielding bulwark, turning aside threats and protecting those wit
 
 ***Truesight***. You gain *Truesight* with a range of 120 feet.
 
-***Saving Throw Advantage.*** You have :d20-adv: **Advantage** on all saving throws so long you don't have the Incapacitated condition.
+***Saving Throw Advantage.*** You have :d20-adv: Advantage on all saving throws so long you don't have the Incapacitated condition.
 
-***Protection.*** No creature can make an attack with :d20-adv: **Advantage** against you or your allies that is within your Aura of Protection.
+***Protection.*** No creature can make an attack with :d20-adv: Advantage against you or your allies that is within your Aura of Protection.
 
-***Damage Reduction.*** When you or your ally are hit by an attack, that attack damage is reduced by an amount equal to your **Charisma modifier**.
+[^1]: *Forced Movement* occurs when a creature is moved by an external force, such as a spell or ability, without using its own movement, Actions, or Reactions. Common examples include being pushed, pulled, or moved by effects like *Thunderwave* or a Battle Master's *Pushing Attack*. Forced movement does **not** provoke Opportunity Attacks and is not limited by a creature's movement speed.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
