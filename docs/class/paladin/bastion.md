@@ -24,22 +24,19 @@ As :rsc-b: **Bonus Action**, you can expend one use of your Channel Divinity to 
 - A fixed point on the ground, or
 - A creature (including yourself), which causes the zone to move with them.
 
-This protective zone lasts for **1 minute**. While active, whenever a creature within **15 feet** of the marked point takes any action or moves, you can make a ranged weapon attack against them using a **Bastion Weapon** (if within normal range). This attack doesn't require any action and can be made up to a number of times equal to your **Charisma modifier** (minimum of 1).
+This protective zone lasts for 1 minute. While active, each time a creature within 15 feet of the marked point takes :rsc-a: Action, :rsc-b: Bonus Action, :rsc-r: Reaction, or moves, you can make a Ranged weapon attack against them using a Heavy Archer weapon (if within normal range). This attack doesn't require any action and can be made up to a number of times equal to your :ability-cha: Charisma modifier (minimum of 1). You cannot take any :rsc-r: Reactions until the start of your next turn after using this attack. 
 
-You cannot take any :rsc-r: **Reactions** until the start of your next turn after using this attack. The effect ends early if you either:
-
-- Use up all the allowed attacks, or
-- You have the *Incapacitated* condition.
+This protective zone ends early if you either if you sse up all the allowed attacks, or when you have the ^^Incapacitated^^ condition.
 
 ### Level 3: Heavy Archer
 
 Unlike other Paladins, you have improved training with Ranged weapons.
 
-***Fighting Style.*** You can select one of the Fighting Style feats of your choice from the following options: [Strongbow] or [Thrown Weapon Fighting]. Whenever you gain a level in this class, you can exchange your selection for another option.
+***Fighting Style.*** You gain one of the Fighting Style feats of your choice from the following options: [Strongbow] or [Thrown Weapon Fighting]. Whenever you gain a level in this class, you can exchange your selection for another option.
 
-***Bastion Weapons.*** Your training gives you mastery of combat styles that uses **Bastion Weapons**, which are Ranged or Thrown weapon that lacks the :weapon-prop-light: Light property. You gain the following benefit with **Bastion Weapons**:
+***Heavy Archer Weapons.*** Your have special training with Heavy Archer weapons, which are Ranged or Thrown weapon that lacks the :weapon-prop-light: Light property. You gain the following benefit with Heavy Archer weapons:
 
-:   ***Ranged Smites.*** When you hit a target with a ranged attack using a **Bastion Weapon**, you can apply your Divine Smite or Paladin Smite spells (such as *Searing Smite* or *Shining Smite*) to that attack. However, the damage die for these smites is reduced by one size (e.g. from a d10 to a d8). When you reach level 11 in this class, your **Radiant Strikes** feature can also be applied to ranged attacks with **Bastion Weapons**, but the damage die becomes a d6 instead of a d8.
+:   ***Ranged Smites.*** When you hit a target with a ranged attack using a Heavy Archer weapon, you can apply your Divine Smite or Paladin Smite spells (such as *Searing Smite* or *Shining Smite*) to that attack. However, the damage die for these smites is reduced by one size (e.g. from a d10 to a d8). When you reach level 11 in this class, your **Radiant Strikes** feature can also be applied to ranged attacks with Heavy Archer weapons, but the damage die becomes a d6 instead of a d8.
 
 [Strongbow]: ../../option/feat/feat-fighting-style/hb.md#strongbow
 [Thrown Weapon Fighting]: ./../option/feat/feat-fighting-style/phb24.md#thrown-weapon-fighting
@@ -52,7 +49,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells |
 |:---:|:---|
-| 3 | [:spell-lv1: Gift of Alacrity], [:spell-lv1: Sanctuary] |
+| 3 | [:spell-lv1: Gift of Alacrity](../../spells/description/additional/dunamancy.md#gift-of-alacrity), [:spell-lv1: Sanctuary] |
 | 5 | [:spell-lv2: Cordon of Arrows], [:spell-lv2: Warding Bond] |
 | 9 | [:spell-lv3: Conjure Barrage], [:spell-lv3: Lightning Arrow] |
 | 13 | [:spell-lv4: Arcane Eye], [:spell-lv4: Stoneskin] |
@@ -62,19 +59,19 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 You and your allies has Immunity to Forced Movement[^1] while within your Aura of Protection. 
 
-Moreover, you and your allies gain the benefit of Half Cover while within the aura, so long you haven't moved more than half your Speed for this turn.
+Moreover, you and your allies gain the benefit of Half Cover while within the aura, so long you haven't moved more than 15 feet for this turn.
 
 *[Half Cover]: +2 bonus to AC and Dexterity saving throws
 
 ### Level 15: Rapid Reaction
 
-When a hostile creaure ends their turn within your Aura of Protection, you can take a :rsc-r: **Reactions** to move up to half of your Speed, without provoking Opportunity Attack and make a Ranged weapon attack using a **Bastion Weapon** at the creature.
+When a hostile creaure ends their turn within your Aura of Protection, you can take a :rsc-r: Reactions to move up to half of your Speed, without provoking Opportunity Attack and make a Ranged weapon attack using a Heavy Archer weapon at the creature.
 
-You can use this feature a number of time equals to your **Charisma modifier** (minimum of once). You regain all expended uses whenever you finish a Long Rest.
+You can use this feature a number of time equals to your :ability-cha: Charisma modifier (minimum of once). You regain all expended uses whenever you finish a Long Rest.
 
 ### Level 20: Hold the Line
 
-You become an unyielding bulwark, turning aside threats and protecting those within your shielded presence. As a :rsc-b: **Bonus Action**, you gain the following benefits for 10 minutes. Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending a level 5 spell slot (no action required).
+You become an unyielding bulwark, turning aside threats and protecting those within your shielded presence. As a :rsc-b: Bonus Action, you gain the following benefits for 10 minutes. Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 ***Truesight***. You gain *Truesight* with a range of 120 feet.
 
