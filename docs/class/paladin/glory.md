@@ -1,6 +1,10 @@
 ---
-title: Oath of Glory (Paladin Subclass)
+title: "Subclass: Oath of Glory (Paladin)"
 ---
+
+<p style="display:none">
+Strive for Heights of Heroism
+</p>
 
 # Oath of Glory
 

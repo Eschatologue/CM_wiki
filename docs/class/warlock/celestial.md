@@ -1,6 +1,10 @@
 ---
-title: The Celestial Patron
+title: "Subclass: The Celestial Patron (Warlock)"
 ---
+
+<p style="display:none">
+Call on the Power of the Heavens
+</p>
 
 # The Celestial Patron
 

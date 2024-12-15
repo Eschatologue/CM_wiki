@@ -1,6 +1,10 @@
 ---
-title: Light Domain
+title: "Subclass: Light Domain (Cleric)"
 ---
+
+<p style="display:none">
+Bring Light to Banish Darkness
+</p>
 
 # Light Domain
 

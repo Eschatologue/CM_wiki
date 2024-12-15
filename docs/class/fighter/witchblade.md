@@ -1,6 +1,11 @@
 ---
+title: "Subclass: Witchblade (Fighter)"
 status: homebrew
 ---
+
+<p style="display:none">
+Enhance Martial Prowess with Eldritch Macic
+</p>
 
 # Witchblade
 

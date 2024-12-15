@@ -1,9 +1,14 @@
 ---
-title: Beast Master Conclave
+title: "Subclass: Beast Master Conclave (Ranger)"
 ---
+
+<p style="display:none">
+Bond with a Primal Beast
+</p>
 
 # Beast Master Conclave
 
+> *Bond with a Primal Beast*
 A Beast Master ranger forms a mystical bond with a special beast, drawing on primal magic and a deep attunement to the natural world.
 
 ### Level 3: Beast Master Spells (Optional)

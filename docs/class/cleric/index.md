@@ -1,7 +1,11 @@
 ---
 icon: class/cleric
-title: Cleric (Class)
+title: "Class: Cleric"
 ---
+
+<p style="display:none">
+Clerics are representatives of the gods they worship, wielding potent divine magic for good or ill
+</p>
 
 :class-cleric:{ .xxxxl }
 

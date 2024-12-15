@@ -1,7 +1,11 @@
 ---
-title: War Mage
+title: "Subclass: War Mage (Wizard)"
 status: adapted
 ---
+
+<p style="display:none">
+Mix Protective and Destructive Magic to Master the Battlefield
+</p>
 
 # War Mage
 

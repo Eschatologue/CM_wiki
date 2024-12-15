@@ -1,6 +1,10 @@
 ---
-title: Diviner
+title: "Subclass: Diviner (Wizard)"
 ---
+
+<p style="display:none">
+Learn the Secrets of the Multiverse
+</p>
 
 # Diviner
 

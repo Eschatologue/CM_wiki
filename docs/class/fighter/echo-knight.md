@@ -1,11 +1,16 @@
 ---
-title: Echo Knight
+title: "Subclass: Echo Knight (Fighter)"
 status: adapted
 ---
+
+<p style="display:none">
+Conjure a Mirrored Self from Alternate Timelines
+</p>
 
 # Echo Knight
 
 > *Conjure a Mirrored Self from Alternate Timelines*
+
 
 The Echo Knight is a feared frontline fighter who has mastered a rare derivative power of the Weave, enabling them to summon shades of alternate, unrealised timelines. These echoes of potential selves fight alongside the knight, creating a shifting, unpredictable presence on the battlefield. With these spectral doubles, the Echo Knight charges forward as a whirlwind of shadows and strikes, overwhelming foes with a blend of martial prowess and temporal magic.
 

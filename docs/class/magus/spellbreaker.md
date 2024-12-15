@@ -1,11 +1,16 @@
 ---
-title: Order of Spellbreaker (Magus Subclass)
+title: "Subclass: Order of Spellbreaker (Magus)"
 status: homebrew
 ---
 
+<p style="display:none">
+Fight Magic with Magic
+</p>
+
 # Order of Spellbreaker
 
-> *Rid the World of Magic*
+> *Fight Magic with Magic*
+
 
 Known for their ruthless dedication to achieving their goals. This fraternity of arcane warriors and mage hunters use their Order's abilities to slay any who abuse magic power. While most Spellbreakers are discerning as they deliver judgment, some swear an oath to destroy any who utilize the arcane arts.
 

@@ -1,7 +1,11 @@
 ---
-title: Oath of the Bastion (Paladin Subclass)
+title: "Subclass: Oath of the Bastion (Paladin)"
 status: homebrew
 ---
+
+<p style="display:none">
+Stand Unbreakable
+</p>
 
 # Oath of the Bastion
 
@@ -39,7 +43,7 @@ Unlike other Paladins, you have improved training with Ranged weapons.
 :   ***Ranged Smites.*** When you hit a target with a ranged attack using a Heavy Archer weapon, you can apply your Divine Smite or Paladin Smite spells (such as *Searing Smite* or *Shining Smite*) to that attack. However, the damage die for these smites is reduced by one size (e.g. from a d10 to a d8). When you reach level 11 in this class, your **Radiant Strikes** feature can also be applied to ranged attacks with Heavy Archer weapons, but the damage die becomes a d6 instead of a d8.
 
 [Strongbow]: ../../option/feat/feat-fighting-style/hb.md#strongbow
-[Thrown Weapon Fighting]: ./../option/feat/feat-fighting-style/phb24.md#thrown-weapon-fighting
+[Thrown Weapon Fighting]: ../../option/feat/feat-fighting-style/phb24.md#thrown-weapon-fighting
 
 ### Level 3: Oath of Bastion Spells
 

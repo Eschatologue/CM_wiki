@@ -1,6 +1,10 @@
 ---
-title: Evoker
+title: "Subclass: Evoker (Wizard)"
 ---
+
+<p style="display:none">
+Create Explosive Elemental Effects
+</p>
 
 # Evoker
 

@@ -1,7 +1,13 @@
 ---
-title: Scout
+title: "Subclass: Scout (Rogue)"
 status: adapted
 ---
+
+<p style="display:none">
+Skirmish with Speed and Skill
+</p>
+
+# Scout
 
 > *Skirmish with Speed and Skill*
 

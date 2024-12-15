@@ -1,6 +1,10 @@
 ---
-title: Trickery Domain
+title: "Subclass: Trickery Domain (Cleric)"
 ---
+
+<p style="display:none">
+Make Mischief and Challenge Authority
+</p>
 
 # Trickery Domain
 

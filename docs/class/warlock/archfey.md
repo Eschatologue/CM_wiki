@@ -1,6 +1,10 @@
 ---
-title: The Archfey Patron
+title: "Subclass: The Archfey Patron (Warlock)"
 ---
+
+<p style="display:none">
+Bargain with Whimsical Fey
+</p>
 
 # The Archfey Patron
 

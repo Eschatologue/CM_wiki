@@ -1,6 +1,10 @@
 ---
-title: Oath of Devotion (Paladin Subclass)
+title: "Subclass: Oath of Devotion (Paladin)"
 ---
+
+<p style="display:none">
+Uphold the Ideals of Justice and Order
+</p>
 
 # Oath of Devotion
 

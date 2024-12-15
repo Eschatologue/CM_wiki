@@ -1,7 +1,11 @@
 ---
 icon: class/barbarian
-title: Barbarian (Class)
+title: "Class: Barbarian"
 ---
+
+<p style="display:none">
+The strong embrace the wild that hides inside - keen instincts, primal physicality, and most of all, an unbridled, unquenchable rage.
+</p>
 
 :class-barbarian:{ .xxxxl }
 

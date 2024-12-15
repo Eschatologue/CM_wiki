@@ -1,7 +1,11 @@
 ---
-title: Stone Sorcery
+title: "Subclass: Stone Sorcery (Sorcerer)"
 status: adapted
 ---
+
+<p style="display:none">
+Master the Magic from the Earth
+</p>
 
 # Stone Sorcery
 

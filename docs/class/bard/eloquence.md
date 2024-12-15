@@ -1,7 +1,11 @@
 ---
-title: College of Eloquence (Bard Subclass)
+title: "Subclass: College of Eloquence (Bard)"
 status: adapted
 ---
+
+<p style="display:none">
+Command Mastery over the Spoken Word
+</p>
 
 # College of Eloquence
 

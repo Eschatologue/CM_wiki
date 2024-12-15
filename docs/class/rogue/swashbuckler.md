@@ -1,7 +1,11 @@
 ---
-title: Swashbuckler
+title: "Subclass: Swashbuckler (Rogue)"
 status: adapted
 ---
+
+<p style="display:none">
+Delivers deadly strikes with speed and panache
+</p>
 
 # Swashbuckler
 

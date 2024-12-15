@@ -1,7 +1,11 @@
 ---
-title: Order of Arcanist (Magus Subclass)
+title: "Subclass: Order of Arcanist (Magus)"
 status: homebrew
 ---
+
+<p style="display:none">
+Master the Way of Magic
+</p>
 
 # Order of Arcanist
 

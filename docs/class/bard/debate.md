@@ -1,6 +1,11 @@
 ---
+title: "Subclass: College of Debate (Bard)"
 status: homebrew
 ---
+
+<p style="display:none">
+Wear Your Opponent with Facts and Logic
+</p>
 
 # College of Debate
 

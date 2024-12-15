@@ -1,8 +1,12 @@
 ---
 icon: class/magus
-title: Magus (Class)
+title: "Class: Magus"
 status: homebrew
 ---
+
+<p style="display:none">
+To face a Magus, is to experience the flurry of both spells and blades.
+</p>
 
 :class-magus:{ .xxxxl }
 

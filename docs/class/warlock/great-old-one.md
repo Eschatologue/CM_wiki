@@ -1,6 +1,10 @@
 ---
-title: The Great Old One Patron
+title: "Subclass: The Great Old One Patron (Warlock)"
 ---
+
+<p style="display:none">
+Unearth Forbidden Lore of Ineffable Beings
+</p>
 
 # The Great Old One Patron
 

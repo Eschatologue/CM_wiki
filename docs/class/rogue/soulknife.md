@@ -1,3 +1,11 @@
+---
+title: "Subclass: Soulknife (Rogue)"
+---
+
+<p style="display:none">
+Strike Foes with Psionic Blades
+</p>
+
 # Soulknife
 
 > *Strike Foes with Psionic Blades*

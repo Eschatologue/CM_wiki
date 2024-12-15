@@ -1,6 +1,10 @@
 ---
-title: Clockwork Sorcery
+title: "Subclass: Clockwork Sorcery (Sorcerer)"
 ---
+
+<p style="display:none">
+Channel Cosmic Forces of Order
+</p>
 
 # Clockwork Sorcery
 

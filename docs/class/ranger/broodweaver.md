@@ -1,7 +1,11 @@
 ---
-title: Broodweaver Conclave
+title: "Subclass: Broodweaver Conclave (Ranger)"
 status: homebrew
 ---
+
+<p style="display:none">
+Summon Arcane Constructs to Weave Control
+</p>
 
 # Broodweaver Conclave
 

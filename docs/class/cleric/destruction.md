@@ -1,11 +1,15 @@
 ---
-title: Destruction Domain
+title: "Subclass: Destruction Domain (Cleric)"
 status: homebrew
 ---
 
+<p style="display:none">
+Through Destruction, Balance is Restored 
+</p>
+
 # Destruction Domain
 
-> *Through Destruction, Balance is Restored - Written by Eschathologue*
+> *Through Destruction, Balance is Restored*
 
 The Spire of Destruction governs the natural force of entropy that drives the cycle of existence. Destruction is not an act of malice, but a necessary stage in the cosmic balance. It is the counterpart to creation, ensuring that from the ashes of what was, new growth and renewal may arise.
 

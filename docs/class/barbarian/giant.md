@@ -1,7 +1,11 @@
 ---
-title: Path of the Giant (Barbarian Subclass)
+title: "Subclass: Path of the Giant (Barbarian)"
 status: adapted
 ---
+
+<p style="display:none">
+Channel the Stature and Power of Giants
+</p>
 
 # Path of the Giant
 

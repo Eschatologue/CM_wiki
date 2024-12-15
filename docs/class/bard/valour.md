@@ -1,6 +1,10 @@
 ---
-title: College of Valour
+title: "Subclass: College of Valour (Bard)"
 ---
+
+<p style="display:none">
+Sing the Deeds of Ancient Hero
+</p>
 
 # College of Valour
 

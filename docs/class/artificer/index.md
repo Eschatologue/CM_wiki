@@ -1,7 +1,11 @@
 ---
 icon: class/artificer
-title: Artificer (Class)
+title: "Class: Artificer"
 ---
+
+<p style="display:none">
+Class: Artificer
+</p>
 
 :class-artificer:{ .xxxxl }
 
@@ -46,7 +50,7 @@ As a Artificer, you gain the following class features when you reach the specifi
 
 | Level | PB | Features | Infusions Known (Infused Items) | Cantrips Known | Spells Prepared | I | II | III | IV | V |
 |:-:|:-:|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 1 | +2 | Arcane Recovery, Arcane Tinkerer, Spellcasting | - | 2 | 2 | 2 | - | - | - | - |
+| 1 | +2 | Arcane Tinkerer, Spellcasting | - | 2 | 2 | 2 | - | - | - | - |
 | 2 | +2 | Infuse Item | 4 (2) | 2 | 3 | 2 | - | - | - | - |
 | 3 | +2 | Artificer Specialist, The Right Tool for the Job | 4 (2) | 2 | 4 | 3 | - | - | - | - |
 | 4 | +2 | Ability Score Improvement | 4 (2) | 2 | 5 | 3 | - | - | - | - |
@@ -67,15 +71,11 @@ As a Artificer, you gain the following class features when you reach the specifi
 | 19 | +6 | Ability Score Improvement | 12 (6) | 4 | 15 | 4 | 3 | 3 | 3 | 2 |
 | 20 | +6 | Soul of Artifice | 12 (6) | 4 | 15 | 4 | 3 | 3 | 3 | 2 |
 
-### Level 1: Arcane Recovery
-
-Whenever you finish a Short Rest, you can regain one expended spell slot of your choice. The level of the spell slot cannot exceed your highest spell slot level as shown on the Artificer Features table, even if you are a multiclassed character. 
-
 ### Level 1: Arcane Tinkerer 
 
 Your knack for tinkering has taught you to store minor magical effects in mundane objects. You know the [:spell-lv0: Magical Tinkering] cantrip, which doesn't count against the number of cantrips you know.
 
-Further, whenever you make an ability check with Tinker's Tools, you can use your Intelligence as the ability.
+Further, whenever you make an ability check with Artisan's Tools, you can use your Intelligence as the ability, provided you are proficient with it.
 
 ### Level 1: Spellcasting
 
@@ -177,7 +177,7 @@ You've learned how to produce exactly the tool you need: with [Thieves' Tools] o
 
 ### Level 4: Ability Score Improvement
 
-You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Artificer levels 8, 12, 16, and 19.
+You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Artificer levels 8, 12, 16, and 19.
 
 ### Level 6: Tool Expertise
 
@@ -187,7 +187,7 @@ Your proficiency bonus is now doubled for any ability check you make that uses y
 
 You've gained the ability to come up with solutions under pressure. When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your Reaction to add your Intelligence modifier to the roll.
 
-You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest.
+You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a Long Rest.
 
 ### Level 10: Magic Item Adept
 
@@ -199,9 +199,9 @@ You've achieved a profound understanding of how to use and make magic items:
 
 ### Level 11: Spell-Storing Item
 
-You can now store a spell in an object. Whenever you finish a long rest, you can touch one simple or martial weapon or one item that you can use as a spellcasting focus, and you store a spell in it, choosing a level 1 or 2 spell from the [Artificer spell list] that requires an Action to cast (you needn't have it prepared).
+You can now store a spell in an object. Whenever you finish a Long Rest, you can touch one Simple or Martial weapon or one item that you can use as a spellcasting focus, and you store a spell in it, choosing a level 1 or 2 spell from the [Artificer spell list] that requires an :rsc-a: Action to cast (you needn't have it prepared).
 
-While holding the object, a creature can take an action to produce the spell's effect from it, using your spellcasting ability modifier. If the spell requires concentration, the creature must concentrate. The spell stays in the object until it's been used a number of times equal to twice your Intelligence modifier (minimum of twice) or until you use this feature again to store a spell in an object.
+While holding the object, a creature can take an :rsc-a: **Magic** action to produce the spell's effect from it, using your spellcasting ability modifier. If the spell requires Concentration, the creature must concentrate. The spell stays in the object until it's been used a number of times equal to twice your :ability-int: Intelligence modifier (minimum of 1) or until you use this feature again to store a spell in an object.
 
 ### Level 14: Magic Item Savant
 
@@ -223,7 +223,7 @@ You have developed a mystical connection to your magic items, which you can draw
 
 ***Armoured Soul.*** You gain a +1 bonus to all saving throws per magic item you are currently attuned to.
 
-***Infusion Contingency.*** If you're reduced to 0 Hit Points but not killed out-right, you can use your Reaction to end one of your Infusions, causing you to drop to 1 hit point instead of 0, and you instantly regain 30 Hit Points.
+***Infusion Contingency.*** If you're reduced to 0 Hit Points but not killed out-right, you can use your :rsc-r: Reaction to end one of your Infusions, causing you to drop to 1 hit point instead of 0, and you instantly regain 30 Hit Points.
 
 --8<-- "includes/snippets/skills.md"
 --8<-- "includes/snippets/spells2/lv0.md"

@@ -1,6 +1,10 @@
 ---
-title: Life Domain
+title: "Subclass: Life Domain (Cleric)"
 ---
+
+<p style="display:none">
+Soothe the Hurts of the World
+</p>
 
 # Life Domain
 

@@ -1,6 +1,10 @@
 ---
-title: College of Glamour
+title: "Subclass: College of Glamour (Bard)"
 ---
+
+<p style="display:none">
+Weave Beguiling Fey Magic
+</p>
 
 # College of Glamour
 

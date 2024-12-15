@@ -1,7 +1,11 @@
 ---
 icon: class/rogue
-title: Rogue (Class)
+title: "Class: Rogue"
 ---
+
+<p style="display:none">
+With stealth, skill, and uncanny reflexes, rogues' versatility lets them get the upper hand in almost any situation.
+</p>
 
 :class-rogue:{ .xxxxl }
 

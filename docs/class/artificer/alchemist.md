@@ -1,7 +1,11 @@
 ---
-title: Alchemist (Artificer Subclass)
+title: "Subclass: Alchemist (Artificer)"
 status: adapted
 ---
+
+<p style="display:none">
+Brew and Administer Magical Elixirs
+</p>
 
 # Alchemist
 

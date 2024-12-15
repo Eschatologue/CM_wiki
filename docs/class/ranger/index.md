@@ -1,7 +1,11 @@
 ---
 icon: class/ranger
-title: Ranger (Class)
+title: "Class: Ranger"
 ---
+
+<p style="display:none">
+Rangers are unrivalled scouts and trackers, honing a deep connection with nature in order to hunt their favoured prey
+</p>
 
 :class-ranger:{ .xxxxl }
 

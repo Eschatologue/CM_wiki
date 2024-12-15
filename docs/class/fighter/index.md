@@ -1,7 +1,11 @@
 ---
 icon: class/fighter
-title: Fighter (Class)
+title: "Class: Fighter"
 ---
+
+<p style="display:none">
+Fighters have mastered the art of combat, wielding weapons with unmatched skill and wearing armour like a second skin.
+</p>
 
 :class-fighter:{ .xxxxl }
 

@@ -1,7 +1,11 @@
 ---
 icon: class/bard
-title: Bard (Class)
+title: "Class: Bard"
 ---
+
+<p style="display:none">
+Bards know music is more than idle fancy - it is power. Through study and adventure, these travelling troubadours master song, speech, and the magic within.
+</p>
 
 :class-bard:{ .xxxxl }
 

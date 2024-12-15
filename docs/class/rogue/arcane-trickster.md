@@ -1,6 +1,16 @@
+---
+title: "Subclass: Arcane Trickster (Rogue)"
+---
+
+<p style="display:none">
+Enhance Stealth with Arcane Spells
+</p>
+
 # Arcane Trickster
 
-> *As quick with a spell as you are with a lockpick, your illusions and enchantments keep opponents on the back foot.*
+> *Enhance Stealth with Arcane Spells*
+ 
+As quick with a spell as you are with a lockpick, your illusions and enchantments keep opponents on the back foot.
 
 Some Rogues enhance their fine-honed skills of stealth and agility with Arcane spells, learning magical tricks to aid them in their trade. Some Arcane Tricksters use their talents as pickpockets and burglars, while others are pranksters, mischief-makers, or adventurers.
 

@@ -1,6 +1,10 @@
 ---
-title: The Fiend Patron
+title: "Subclass: The Fiend Patron (Warlock)"
 ---
+
+<p style="display:none">
+Make a Deal with the Lower Planes
+</p>
 
 # The Fiend Patron
 

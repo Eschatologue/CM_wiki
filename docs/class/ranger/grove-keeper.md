@@ -1,7 +1,11 @@
 ---
-title: Grove Keeper
+title: "Subclass: Grove Keeper Conclave (Ranger)"
 status: homebrew
 ---
+
+<p style="display:none">
+Protect the Sacred Grove
+</p>
 
 # Grove Keeper Conclave
 

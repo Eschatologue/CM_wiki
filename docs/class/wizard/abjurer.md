@@ -1,6 +1,10 @@
 ---
-title: Abjurer
+title: "Subclass: Abjurer (Wizard)"
 ---
+
+<p style="display:none">
+Shield Companions and Banish Foes
+</p>
 
 # Abjurer
 

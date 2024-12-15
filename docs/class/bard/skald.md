@@ -1,7 +1,11 @@
 ---
-title: College of Skald
+title: "Subclass: College of Skald (Bard)"
 status: homebrew
 ---
+
+<p style="display:none">
+Forge Legends with Blade and Verse
+</p>
 
 # College of Skald
 

@@ -1,10 +1,14 @@
 ---
-title: Warrior of the Elements
+title: "Subclass: Warrior of the Elements (Monk)"
 ---
+
+<p style="display:none">
+Wield Strikes and Bursts of Elemental Power
+</p>
 
 # Warrior of the Elements
 
-*Wield Strikes and Bursts of Elemental Power*
+> *Wield Strikes and Bursts of Elemental Power*
 
 The tradition of the Four Elements encompasses Monks who tap into the power of the Elemental Planes through their practice of martial arts.
 

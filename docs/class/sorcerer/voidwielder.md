@@ -1,7 +1,11 @@
 ---
-title: Voidwielder
-status: homebrew
+title: "Subclass: Voidwielder (Sorcerer)"
+status: adapted
 ---
+
+<p style="display:none">
+Channel the Chaotic Power of Chaos - Written by Laserllama - Adapted to 2024 PHB by Eschatologue
+</p>
 
 # Voidwielder
 

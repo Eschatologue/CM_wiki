@@ -1,3 +1,11 @@
+---
+title: "Subclass: Thief (Rogue)"
+---
+
+<p style="display:none">
+Hunt for Treasure as a Classic Adventurer
+</p>
+
 # Thief
 
 > *Hunt for Treasure as a Classic Adventurer*

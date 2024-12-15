@@ -1,7 +1,11 @@
 ---
-title: War Mage
+title: "Subclass: Hedge Mage (Wizard)"
 status: homebrew
 ---
+
+<p style="display:none">
+Master the Practical Magic
+</p>
 
 # Hedge Mage
 

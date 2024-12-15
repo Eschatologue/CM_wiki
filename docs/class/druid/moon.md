@@ -1,10 +1,15 @@
 ---
-title: Circle of the Moon
+title: "Subclass: Circle of the Moon (Druid)"
 ---
+
+<p style="display:none">
+Adopt Animal Forms to Guard the Wilds
+</p>
 
 # Circle of the Moon
 
 > *Adopt Animal Forms to Guard the Wilds*
+
 
 Druids of the Circle of the Moon draw on the magic of the moon to transform themselves and to guard the wilds. Their order gathers under the full moon to share news and perform rituals.
 

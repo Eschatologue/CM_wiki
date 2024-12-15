@@ -1,7 +1,11 @@
 ---
-title: Oath of the Blade (Paladin Subclass)
+title: "Subclass: Oath of the Blade (Paladin)"
 status: homebrew
 ---
+
+<p style="display:none">
+Fight with Honour and Martial Superiority
+</p>
 
 # Oath of the Blade
 

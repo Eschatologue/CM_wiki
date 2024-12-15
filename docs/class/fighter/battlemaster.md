@@ -1,3 +1,11 @@
+---
+title: "Subclass: Battle Master (Fighter)"
+---
+
+<p style="display:none">
+Master Sophisticated Battle Manoeuvres
+</p>
+
 # Battle Master
 
 > *Master Sophisticated Battle Manoeuvres*

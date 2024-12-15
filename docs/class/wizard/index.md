@@ -1,7 +1,11 @@
 ---
 icon: class/wizard
-title: Wizard (Class)
+title: "Class: Wizard"
 ---
+
+<p style="display:none">
+Wizards master the arcane by specialising in individual schools of magic, combining ancient spells with modern research.
+</p>
 
 :class-wizard:{ .xxxxl }
 

@@ -1,6 +1,10 @@
 ---
-title: Illusionist
+title: "Subclass: Illusionist (Wizard)"
 ---
+
+<p style="display:none">
+Weave Subtle Spells of Deception
+</p>
 
 # Illusionist
 

@@ -1,7 +1,11 @@
 ---
 icon: class/warlock
-title: Warlock (Class)
+title: "Class: Warlock"
 ---
+
+<p style="display:none">
+Bound by a pact to an all-powerful patron, warlocks trade their loyalty for supernatural abilities and unique magic.
+</p>
 
 :class-warlock:{ .xxxxl }
 

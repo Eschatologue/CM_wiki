@@ -1,6 +1,10 @@
 ---
-title: Path of the Zealot (Barbarian Subclass)
+title: "Subclass: Path of the Zealot (Barbarian)"
 ---
+
+<p style="display:none">
+Rage in Ecstatic Union with a God
+</p>
 
 # Path of the Zealot
 

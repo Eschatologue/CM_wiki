@@ -1,7 +1,11 @@
 ---
-title: Battlesmith (Artificer Subclass)
+title: "Subclass: Battlesmith (Artificer)"
 status: adapted
 ---
+
+<p style="display:none">
+Arm and Protect your Allies with a Mechanical Companion
+</p>
 
 # Battlesmith
 

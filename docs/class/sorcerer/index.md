@@ -1,7 +1,11 @@
 ---
 icon: class/sorcerer
-title: Sorcerer (Class)
+title: "Class: Sorcerer"
 ---
+
+<p style="display:none">
+Sorcerers are natural spellcasters, drawing on inherent magic from a gift or bloodline.
+</p>
 
 :class-sorcerer:{ .xxxxl }
 

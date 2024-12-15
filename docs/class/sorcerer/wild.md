@@ -1,6 +1,10 @@
 ---
-title: Wild Magic Sorcery
+title: "Subclass: Wild Magic Sorcery (Sorcerer)"
 ---
+
+<p style="display:none">
+Unleash Chaotic Magic
+</p>
 
 # Wild Magic Sorcery
 

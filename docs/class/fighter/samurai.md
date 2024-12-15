@@ -1,10 +1,16 @@
 ---
+title: "Subclass: Samurai (Fighter)"
 status: homebrew
 ---
+
+<p style="display:none">
+Fight Deliberately and Precisely. Be Unwavering
+</p>
 
 # Samurai
 
 > *Fight Deliberately and Precisely. Be Unwavering*
+
 
 Every army needs warriors whose specialty is victory. The Samurai is a warrior who channels an indomitable fighting spirit to overcome any foe. Their resolve is unshakable, their discipline unmatched, and their skill honed to perfection. Those who stand in a Samurai's path face a simple choice: yield or die fighting.
 

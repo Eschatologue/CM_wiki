@@ -1,6 +1,10 @@
 ---
-title: Fey Wanderer Conclave
+title: "Subclass: Fey Wanderer Conclave (Ranger)"
 ---
+
+<p style="display:none">
+Wield Fey Mirth and Fury
+</p>
 
 # Fey Wanderer Conclave
 

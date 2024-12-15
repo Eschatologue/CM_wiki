@@ -1,10 +1,16 @@
 ---
-title: The Broodlord Patron
+title: "Subclass: The Broodlord Patron (Warlock)"
 status: homebrew
 ---
 
+<p style="display:none">
+Command Your Patron's Swarms
+</p>
+
 # The Broodlord Patron
 
+> *Command Your Patron's Swarms*
+> 
 You have been bestowed great powers by an ancient beast. You might make a deal with such a terrifying creature, such as: A Fate Weaver; Adragzzar, the Scorpion King; Sephira of the Feather Court; The Rat Mother, Plaguise; An extraterrestrial creature. Or other powerful creatures that you might have encountered. Your patron's goal is simple, to preserve their brood and expand. And your path is a journey to stop a great threat from destroying their broods.
 
 > Written by Drowny

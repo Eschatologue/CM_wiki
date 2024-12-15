@@ -1,6 +1,15 @@
+---
+title: "Subclass: Eldritch Knight (Fighter)"
+---
+
+<p style="display:none">
+Support Combat Skills with Arcane Magic
+</p>
+
 # Eldritch Knight
 
 > *Support Combat Skills with Arcane Magic*
+
 
 You are a warrior of spell and sword, weaving incantations that supplement your extensive martial expertise.
 

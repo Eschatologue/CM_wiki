@@ -1,7 +1,11 @@
 ---
-title: Chronurgist
+title: "Subclass: Chronurgist (Wizard)"
 status: adapted
 ---
+
+<p style="display:none">
+Exercise Influence over Time - Updated by PerfectlyCircularSeal
+</p>
 
 # Chronurgist
 

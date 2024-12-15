@@ -1,7 +1,11 @@
 ---
-title: Gunslinger (Artificer Subclass)
+title: "Subclass: Gunslinger (Artificer)"
 status: homebrew
 ---
+
+<p style="display:none">
+Gun Down your Adversaries
+</p>
 
 # Gunslinger
 

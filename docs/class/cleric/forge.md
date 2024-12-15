@@ -1,7 +1,11 @@
 ---
-title: Forge Domain
+title: "Subclass: Forge Domain (Cleric)"
 status: adapted
 ---
+
+<p style="display:none">
+Create Divine Masterwork
+</p>
 
 # Forge Domain
 

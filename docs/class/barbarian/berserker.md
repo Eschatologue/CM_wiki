@@ -1,6 +1,10 @@
 ---
-title: Path of the Berserker (Barbarian Subclass)
+title: "Subclass: Path of the Berserker (Barbarian)"
 ---
+
+<p style="display:none">
+Channel Rage into Violent Fury
+</p>
 
 # Path of the Berserker
 

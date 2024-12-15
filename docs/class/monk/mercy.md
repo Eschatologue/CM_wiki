@@ -1,10 +1,14 @@
 ---
-title: Warrior of Mercy
+title: "Subclass: Warrior of Mercy (Monk)"
 ---
+
+<p style="display:none">
+Manipulate Forces of Life and Death
+</p>
 
 # Warrior of Mercy
 
-*Manipulate Forces of Life and Death*
+> *Manipulate Forces of Life and Death*
 
 Warriors of Mercy manipulate the life force of others. These monks are wandering physicians but they bring a swift end to their enemies. They often wear masks, presenting themselves as facelless bringgers of life and death.
 

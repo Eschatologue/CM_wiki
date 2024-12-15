@@ -1,6 +1,10 @@
 ---
-title: Aberrant Sorcery
+title: "Subclass: Aberrant Sorcery (Sorcerer)"
 ---
+
+<p style="display:none">
+Wield Unnatural Psionic Power
+</p>
 
 # Aberrant Sorcery
 

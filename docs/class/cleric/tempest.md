@@ -1,7 +1,11 @@
 ---
-title: Tempest Domain
+title: "Subclass: Tempest Domain (Cleric)"
 status: adapted
 ---
+
+<p style="display:none">
+Smite Foes with the Wrath of the Sky
+</p>
 
 # Tempest Domain
 

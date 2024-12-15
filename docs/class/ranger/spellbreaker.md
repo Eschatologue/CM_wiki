@@ -1,13 +1,18 @@
 ---
-title: Spellbreaker Conclave
-status: homebrew
+title: "Subclass: Spellbreaker Conclave (Ranger)"
 ---
+
+<p style="display:none">
+Destroy Enemy Spellcaster
+</p>
 
 # Spellbreaker Conclave
 
-> *Destroy Enemy Spellcaster - Written by Laserllama - Updated to 2024 PHB by Eschatologue*
+> *Destroy Enemy Spellcaster*
 
 Spellbreakers are a small but dedicated group of Rangers that specialize in hunting mages who use their arcane power for evil. While most pursue the life of a Spellbreaker for noble reasons, there are some who seek to destroy anyone with the potential to use magic. Most Spellbreakers work in secrecy, only striking when success is a certainty. If a wrong move could end in disintegration, there is no room for error.
+
+> Written by Laserllama - Updated to 2024 PHB by Eschatologue
 
 ### Level 3: Mage Breaker
 

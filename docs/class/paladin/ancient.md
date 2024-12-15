@@ -1,7 +1,10 @@
 ---
-title: Oath of the Ancients (Paladin Subclass)
+title: "Subclass: Oath of the Ancients (Paladin)"
 ---
 
+<p style="display:none">
+Preserve Life and Light in the World
+</p>
 
 # Oath of the Ancients
 

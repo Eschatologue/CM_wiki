@@ -1,6 +1,10 @@
 ---
-title: Path of the World Tree (Barbarian Subclass)
+title: "Subclass: Path of the World Tree (Barbarian)"
 ---
+
+<p style="display:none">
+Trace the Roots and Branches of the World
+</p>
 
 # Path of the World Tree
 

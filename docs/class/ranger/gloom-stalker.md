@@ -1,6 +1,10 @@
 ---
-title: Gloom Stalker Conclave
+title: "Subclass: Gloom Stalker Conclave (Ranger)"
 ---
+
+<p style="display:none">
+Draw on Shadow Magic to Fight Your Foes
+</p>
 
 # Gloom Stalker Conclave
 

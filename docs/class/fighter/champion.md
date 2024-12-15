@@ -1,3 +1,11 @@
+---
+title: "Subclass: Champion (Fighter)"
+---
+
+<p style="display:none">
+Pursue Physical Excellence in Combat
+</p>
+
 # Champion
 
 > *Pursue Physical Excellence in Combat*

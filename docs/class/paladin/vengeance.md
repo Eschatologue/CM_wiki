@@ -1,7 +1,10 @@
 ---
-title: Oath of Vengeance (Paladin Subclass)
+title: "Subclass: Oath of Vengeance (Paladin)"
 ---
 
+<p style="display:none">
+Punish Evildoers at Any Cost
+</p>
 
 # Oath of Vengeance
 

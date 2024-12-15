@@ -1,7 +1,11 @@
 ---
-title: Oath of the Crown (Paladin Subclass)
+title: "Subclass: Oath of the Crown  (Paladin)"
 status: adapted
 ---
+
+<p style="display:none">
+Defend Civilization and Law from Tyranny
+</p>
 
 # Oath of the Crown 
 

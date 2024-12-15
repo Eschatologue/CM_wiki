@@ -1,7 +1,11 @@
 ---
-title: The Archmage Patron
+title: "Subclass: The Archmage Patron (Warlock)"
 status: homebrew
 ---
+
+<p style="display:none">
+Unearth the secret of the Arcana
+</p>
 
 # The Archmage Patron
 

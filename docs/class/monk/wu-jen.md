@@ -1,11 +1,16 @@
 ---
-title: Way of the Wu Jen
+title: "Subclass: Way of the Wu Jen (Monk)"
 status: homebrew
 ---
+
+<p style="display:none">
+Channel the Primal Power of the Elements
+</p>
 
 # Way of the Wu Jen
 
 > *Channel the Primal Power of the Elements*
+
 
 Rather than focus inward, some Monks attune themselves to the forces of nature. Known as Wu Jens, these primal sages augment their skills with the power of the five elements; Air, Earth, Fire, Water, and Wood. Through meditation, they can learn to channel their Ki into amazing displays of elemental prowess.
 

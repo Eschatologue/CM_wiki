@@ -1,11 +1,16 @@
 ---
-title: Order of Warder (Magus Subclass)
+title: "Subclass: Order of Warder (Magus)"
 status: homebrew
 ---
+
+<p style="display:none">
+Become a Shield for your Ally
+</p>
 
 # Order of Warder
 
 > *Become a Shield for your Ally*
+
 
 Magi who join the Order of Warders almost always do so for noble reasons. Combing their talent for the arcane with their signature style of defensive combat to serve as guardians for mages, nobles, and other important figures. While they are ultimately loyal to their Order, Warders make fierce friends and will stand side by side with their allies against any foe.
 

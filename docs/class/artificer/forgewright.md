@@ -1,9 +1,15 @@
 ---
-title: Forgewright (Artificer Subclass)
+title: "Subclass: Forgewright (Artificer)"
 status: homebrew
 ---
 
+<p style="display:none">
+Forge And Wield Magic-Infused Weapons in Battle.
+</p>
+
 # Forgewright
+
+> *Forge And Wield Magic-Infused Weapons in Battle.*
 
 While most Artificers are primarily inventors who take up the life of adventure to test experiments in the field, those known as Forgewrights seek out battle for its own sake. Reveling in the thrill of combat, they combine their innovation with their skill as warriors to forge their signature Arcane Armament.
 

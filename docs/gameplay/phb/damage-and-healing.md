@@ -1,5 +1,5 @@
 ---
-icon: dmg/slashing
+icon: dmg/slsh
 ---
 
 # Damage and Healing

@@ -1,7 +1,11 @@
 ---
-title: Artilerist (Artificer Subclass)
+title: "Subclass: Artilerist (Artificer)"
 status: adapted
 ---
+
+<p style="display:none">
+Blow Enemies Away with Magical Artillery
+</p>
 
 # Artilerist
 

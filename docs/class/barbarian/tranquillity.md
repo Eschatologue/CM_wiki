@@ -1,11 +1,15 @@
 ---
-title: Path of Tranquilty (Barbarian Subclass)
+title: "Subclass: Path of Tranquilty (Barbarian)"
 status: homebrew
 ---
 
+<p style="display:none">
+Forge Serenity into Unstoppable Force
+</p>
+
 # Path of Tranquilty
 
-> *Forge Serenity into Unstoppable Force - Written by Eschatologue*
+> *Forge Serenity into Unstoppable Force*
 
 For Barbarians who walk the Path of Tranquillity, Rage is a bottomless well of calm and reason. They draw upon this power to achieve extraordinary focus in battle and they channel this clarity into devastating effects.
 

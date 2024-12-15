@@ -1,8 +1,15 @@
 ---
+title: "Subclass: College of Tragedy (Bard)"
 status: homebrew
 ---
 
+<p style="display:none">
+Turn Despair into Hope
+</p>
+
 # College of Tragedy
+
+> *Turn Despair into Hope*
 
 Not all grand stories conclude in triumphant victory. Many tales end with death and despair, and bards of the College of Tragedy know that sorrow and pathos are emotions just as potent as joy and delight. These bards specialize in the power of tragic storytelling, weaving words and spells together to dramatic and devastating effect.
 

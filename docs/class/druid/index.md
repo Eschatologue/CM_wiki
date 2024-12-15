@@ -1,7 +1,11 @@
 ---
 icon: class/druid
-title: Druid (Class)
+title: "Class: Druid"
 ---
+
+<p style="display:none">
+Druids channel the elemental forces of nature and share a deep kinship with animals. Mastery of Wild Shape allows them to transform into beasts from all over the Realms.
+</p>
 
 :class-druid:{ .xxxxl }
 

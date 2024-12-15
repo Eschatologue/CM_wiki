@@ -1,10 +1,14 @@
 ---
-title: Warrior of the Hand
+title: "Subclass: Warrior of the Hand (Monk)"
 ---
+
+<p style="display:none">
+Master Unarmed Combat Techniques
+</p>
 
 # Warrior of the Hand
 
-*Master Unarmed Combat Techniques*
+> *Master Unarmed Combat Techniques*
 
 Warriors of the Open Hand are masters of unarmed combat. They learn techniques to push and trip their opponents and manipulate their own energy to protect themselves from harm.
 

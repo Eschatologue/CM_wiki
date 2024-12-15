@@ -1,11 +1,16 @@
 ---
-title: Order of Travelers (Magus Subclass)
+title: "Subclass: Order of Travelers (Magus)"
 status: homebrew
 ---
+
+<p style="display:none">
+Traverse the Flow of Time
+</p>
 
 # Order of Travelers
 
 > *Traverse the Flow of Time*
+
 
 Practitioners of what many consider a forbidden school of magic, Magi of the Order of Travelers augment their skills with Chronomancy magic, the magic of time. As they grow in their understanding of these secret magic, Travelers become increasingly detached from their place in time, and turning to become strange wanderers who safeguard the flow of time.
 

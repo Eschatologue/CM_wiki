@@ -1,7 +1,11 @@
 ---
-title: Path of the Ruffian (Barbarian Subclass)
+title: "Subclass: Path of the Ruffian (Barbarian)"
 status: homebrew
 ---
+
+<p style="display:none">
+Rage Born in the Streets
+</p>
 
 # Path of the Ruffian
 

@@ -1,6 +1,10 @@
 ---
-title: Path of the Wild Heart (Barbarian Subclass)
+title: "Subclass: Path of the Wild Heart (Barbarian)"
 ---
+
+<p style="display:none">
+Walk in Community with the Animal World
+</p>
 
 # Path of the Wild Heart
 

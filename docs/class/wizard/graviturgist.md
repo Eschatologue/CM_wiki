@@ -1,7 +1,11 @@
 ---
-title: Graviturgist
+title: "Subclass: Graviturgist (Wizard)"
 status: adapted
 ---
+
+<p style="display:none">
+Exert Mastery over the Laws of Attraction - Updated by PerfectlyCircularSeal
+</p>
 
 # Graviturgist
 

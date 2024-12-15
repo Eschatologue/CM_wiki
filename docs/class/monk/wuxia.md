@@ -1,7 +1,11 @@
 ---
-title: Way of the Wuxia
+title: "Subclass: Way of the Wuxia (Monk)"
 status: homebrew
 ---
+
+<p style="display:none">
+Masterfully Mix Weapons with Martial Arts
+</p>
 
 # Way of the Wuxia
 

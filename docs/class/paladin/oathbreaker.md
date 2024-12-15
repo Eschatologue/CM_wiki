@@ -1,7 +1,10 @@
 ---
-title: Oathbreaker (Paladin Subclass)
-status: adapted
+title: "Subclass: Oathbreaker (Paladin)"
 ---
+
+<p style="display:none">
+Forsake your Sacred Vow and Embrace Evil
+</p>
 
 # Oathbreaker
 

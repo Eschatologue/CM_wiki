@@ -1,6 +1,10 @@
 ---
-title: War Domain
+title: "Subclass:  War Domain (Cleric)"
 ---
+
+<p style="display:none">
+Inspire Valor and Smite Foes
+</p>
 
 #  War Domain
 

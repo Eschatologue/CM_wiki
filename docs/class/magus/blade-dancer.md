@@ -1,11 +1,16 @@
 ---
-title: Order of Blade Dancers (Magus Subclass)
+title: "Subclass: Order of Blade Dancers (Magus)"
 status: homebrew
 ---
+
+<p style="display:none">
+Enter a Trance of Focus and Storms of Steel
+</p>
 
 # Order of Blade Dancers
 
 > *Enter a Trance of Focus and Storms of Steel*
+
 
 The Magi known as Blade Dancers dedicate their lives to the art of the Blade Dance. This mystical trance allows the Magi to empty their mind of all emotion and distraction to become one their blade. Masters of this trance are deadly whirlwinds of arcane power and savage steel in battle.
 

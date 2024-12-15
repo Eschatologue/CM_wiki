@@ -1,6 +1,10 @@
 ---
-title: Hunter Conclave
+title: "Subclass: Hunter Conclave (Ranger)"
 ---
+
+<p style="display:none">
+Protect Nature and People from Destruction
+</p>
 
 # Hunter Conclave
 

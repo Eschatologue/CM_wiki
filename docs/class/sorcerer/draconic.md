@@ -1,6 +1,10 @@
 ---
-title: Draconic Sorcery
+title: "Subclass: Draconic Sorcery (Sorcerer)"
 ---
+
+<p style="display:none">
+Breathe the Magic of Dragons
+</p>
 
 # Draconic Sorcery
 

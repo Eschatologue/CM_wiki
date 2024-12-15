@@ -1,6 +1,10 @@
 ---
-title: College of Dance
+title: "Subclass: College of Dance (Bard)"
 ---
+
+<p style="display:none">
+Move in HARMONY with the Cosmos
+</p>
 
 # College of Dance
 

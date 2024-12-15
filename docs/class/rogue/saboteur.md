@@ -1,7 +1,11 @@
 ---
-title: Saboteur
+title: "Subclass: Saboteur (Rogue)"
 status: homebrew
 ---
+
+<p style="display:none">
+Demolish Targets with Explosives
+</p>
 
 # Saboteur
 

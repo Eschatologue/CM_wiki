@@ -1,7 +1,11 @@
 ---
 icon: class/paladin
-title: Paladin (Class)
+title: "Class: Paladin"
 ---
+
+<p style="display:none">
+A promise made so deeply that it becomes divine in itself flows through a paladin, burning bright enough to inspire allies and smite foes
+</p>
 
 :class-paladin:{ .xxxxl }
 

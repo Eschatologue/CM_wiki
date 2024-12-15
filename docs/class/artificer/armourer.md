@@ -1,7 +1,11 @@
 ---
-title: Armourer (Artificer Subclass)
+title: "Subclass: Armourer (Artificer)"
 status: adapted
 ---
+
+<p style="display:none">
+Don Magical and Customisable Armour
+</p>
 
 # Armourer
 
