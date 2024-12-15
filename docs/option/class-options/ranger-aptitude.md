@@ -241,7 +241,7 @@ You gain the following benefits:
 
 ### Survivor II: Iron Will
 
-***Prerequisite:** Level 11+ Ranger, [Survivor](#survivor)*
+***Prerequisite:** Level 11+ Ranger, [Survivor](#survivor-i)*
 
 When you make a Death Saving Throw, you add your Wisdom modifier to the roll (minimum of +1). If the result of your roll is 20 or higher, you gain two Death Saving Throw success.
 

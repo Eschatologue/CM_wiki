@@ -331,9 +331,12 @@ nav:
         - Wild Heart: class/barbarian/wild-heart.md
         - World Tree: class/barbarian/world-tree.md
         - Zealot: class/barbarian/zealot.md
+        - Ancestral Guardian: class/barbarian/ancestral-guardian.md
+        - Battlerager: class/barbarian/battlerager.md
         - Giant: class/barbarian/giant.md
-        - Ruffian: class/barbarian/ruffian.md
-        - Tranquillity : class/barbarian/tranquillity.md
+        - Storm Herald: class/barbarian/storm-herald.md
+        - Ruffian: class/barbarian/ruffian.md 
+        - Tranquillity: class/barbarian/tranquillity.md    
       - Fighter:
         - class/fighter/index.md
         - Battlemaster: class/fighter/battlemaster.md

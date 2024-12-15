@@ -57,7 +57,7 @@ Your mastery of alchemy allows you to alter the explosives you make in the follo
 
 ***Color.*** You alter the color of both explosive itself, the color of the explosion, and the color of the smoke it produces.
 
-***Damage Type.*** You alter the damage type of any explosive you craft to :dmg-bldg: Bludgeoning, :dmg-pier: Piercing, :dmg-fire: Fire, :dmg-thunder: Thunder, or :dmg-lightning: Lightning.
+***Damage Type.*** You alter the damage type of any explosive you craft to :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, :dmg-fire: Fire, :dmg-thunder: Thunder, or :dmg-lightning: Lightning.
 
 ### Level 13: Sabotage
 

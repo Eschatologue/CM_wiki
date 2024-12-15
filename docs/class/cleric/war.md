@@ -41,7 +41,7 @@ You can expend one of your Channel Divinity to cast [:spell-lv1: Shield of Faith
 
 ### Level 17: Avatar of Battle
 
-You gain :dmg-res: Resistance to :dmg-bldg: Bludgeoning, :dmg-pier: Piercing, and :dmg-slsh: Slashing damage.
+You gain :dmg-res: Resistance to :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, and :dmg-slsh: Slashing damage.
 
 --8<-- "includes/snippets/spells2/lv1.md"
 --8<-- "includes/snippets/spells2/lv2.md"

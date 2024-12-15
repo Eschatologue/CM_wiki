@@ -46,7 +46,7 @@ Your mastery of the forge grants you special abilities. You have :dmg-res: Resis
 
 ### Level 17: Saint of Forge and Fire
 
-Your blessed affinity with fire and metal becomes more powerful. You have :dmg-imm: Immunity to :dmg-fire: Fire damage and while wearing metal armour, you have :dmg-res: Resistance to :dmg-bldg: Bludgeoning, :dmg-pier: Piercing, and :dmg-slsh: Slashing damage.
+Your blessed affinity with fire and metal becomes more powerful. You have :dmg-imm: Immunity to :dmg-fire: Fire damage and while wearing metal armour, you have :dmg-res: Resistance to :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, and :dmg-slsh: Slashing damage.
 
 --8<-- "includes/snippets/spells2/lv1.md"
 --8<-- "includes/snippets/spells2/lv2.md"

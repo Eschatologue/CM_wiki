@@ -415,10 +415,10 @@ You gain the following benefits.
 Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
 **Puncture**  
-Once per turn, when you hit a creature with an attack that deals :dmg-pier: Piercing damage, you can reroll one of the attack's damage dice, and you must use the new roll.
+Once per turn, when you hit a creature with an attack that deals :dmg-prcg: Piercing damage, you can reroll one of the attack's damage dice, and you must use the new roll.
 
 **Enhanced Critical**  
-When you score a Critical Hit that deals :dmg-pier: Piercing damage to a creature, you can roll one additional damage die when determining the extra :dmg-pier: Piercing damage the target takes.
+When you score a Critical Hit that deals :dmg-prcg: Piercing damage to a creature, you can roll one additional damage die when determining the extra :dmg-prcg: Piercing damage the target takes.
 
 --- 
 

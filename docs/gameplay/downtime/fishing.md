@@ -79,7 +79,7 @@ A great fishermen is not just that is lucky, but those who both lucky and came p
 
 **Mod. Slot:** Each fishing rod can be modified and tinkered to the fisherman's desire. To equip a [modification], you must have a slot available. Some [modification]s can take multiple slots.
 
-[modification]: #fishing-rods-modification
+[modification]: #fishing-rod-modifications
 
 ### Fishing Supplies
 

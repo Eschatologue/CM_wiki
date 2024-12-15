@@ -15,7 +15,7 @@ The table below lists available General Feats, divided into two categories: *PHB
 
 <div class="grid cards" markdown>
 
-- :option-feat-general: [Ability Score Improvement](phb24.md#ability-score-improvement)
+- :option-feat-general: [Ability Scores Improvement](phb24.md#ability-scores-improvement)
 - :option-feat-general: [Actor](phb24.md#actor)
 - :option-feat-general: [Athlete](phb24.md#athlete)
 - :option-feat-general: [Charger](phb24.md#charger)

@@ -77,7 +77,7 @@ Most of the complications involved in creating something, especially a magic ite
 
 ## Brewing Potions of Healing
 
-[Potions of Healing](../../equipment/consumeables/potion.md#healing-potion) fall into a special category for item crafting, separate from other magic items. A character who has proficiency with the [herbalism kit] can create these potions. The times and costs for doing so are summarized on the Potion of Healing Creation table.
+[Potions of Healing](../../equipment/consumeables/potion.md#potion-of-healing) fall into a special category for item crafting, separate from other magic items. A character who has proficiency with the [herbalism kit] can create these potions. The times and costs for doing so are summarized on the Potion of Healing Creation table.
 
 ##### Potion of Healing Creation
 
@@ -89,7 +89,7 @@ Most of the complications involved in creating something, especially a magic ite
 | Supreme healing | 4 workweeks | 100,000 SP |
 
 [Healing Potion]: ../../equipment/consumeables/potion.md#healing-potion
-[Herbalism Kit]: ../../equipment/tools/artisan-tools.md#herbalism-kit
+[Herbalism Kit]: ../../equipment/tools/other-tools.md#herbalism-kit
 [Leatherworker's Tools]: ../../equipment/tools/artisan-tools.md#leatherworkers-tools
 [Smith's Tools]: ../../equipment/tools/artisan-tools.md#smiths-tools
 [Weaver's Tools]: ../../equipment/tools/artisan-tools.md#weavers-tools

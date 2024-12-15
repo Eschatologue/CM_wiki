@@ -63,7 +63,7 @@ As a Bonus Action, You beckon the Avatar of Nature to aid you in combat. A large
 
 Once during your turn, You can command it to move up to 30 feet (No action required). An aura radiates from the avatar in a 20-foot emanation for the duration and has the following features:
 
-***Overgrowth.*** The ground within the aura is Difficult Terrain for your enemies. When an enemy creature moves into or within the area, it takes 2d6 :dmg-pier: Piercing damage for every 5 feet it travels.
+***Overgrowth.*** The ground within the aura is Difficult Terrain for your enemies. When an enemy creature moves into or within the area, it takes 2d6 :dmg-prcg: Piercing damage for every 5 feet it travels.
 
 ***Guardian Aura.*** While in the aura, you and your allies have Advantage on all saving throws against spells. Additionally, At the start of each of your or your allies turn, regain 2d6 Hit Points.
 
