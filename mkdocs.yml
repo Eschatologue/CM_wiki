@@ -249,6 +249,8 @@ nav:
         - Lore: class/bard/lore.md
         - Valour: class/bard/valour.md
         - Eloquence: class/bard/eloquence.md
+        - Spirits: class/bard/spirits.md
+        - Swords: class/bard/swords.md
         - Debate: class/bard/debate.md
         - Skald: class/bard/skald.md
         - Tragedy: class/bard/tragedy.md
@@ -320,10 +322,10 @@ nav:
         - Glory: class/paladin/glory.md
         - The Ancient: class/paladin/ancient.md
         - Vengeance: class/paladin/vengeance.md
-        - Bastion: class/paladin/bastion.md
-        - The Blade: class/paladin/blade.md
         - The Crown: class/paladin/crown.md
         - Oathbreaker: class/paladin/oathbreaker.md
+        - Bastion: class/paladin/bastion.md
+        - The Blade: class/paladin/blade.md
     - Warrior Group:
       - Barbarian:  
         - class/barbarian/index.md

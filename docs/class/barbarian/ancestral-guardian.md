@@ -13,7 +13,7 @@ Defend your Allies with Ancestral Spirits
 
 Some barbarians hail from cultures that revere their ancestors. These traditions teach that the honoured spirits of the past linger in the world, guiding and protecting the living. When a barbarian who follows this path rages, they reach into the spirit world, calling upon their ancestors for aid.
 
-Barbarians who draw upon their ancestral guardians embody the strength and virtues of their forebears, fighting to protect their kin and allies. To honour their ancestors, they often inscribe their bodies with intricate markings that recount their lineage’s deeds. These symbols tell tales of battles against monstrous foes, triumphs over rival clans, and the wisdom of generations past.
+Barbarians who draw upon their ancestral guardians embody the strength and virtues of their forebears, fighting to protect their kin and allies. To honour their ancestors, they often inscribe their bodies with intricate markings that recount their lineage's deeds. These symbols tell tales of battles against monstrous foes, triumphs over rival clans, and the wisdom of generations past.
 
 ### Level 3: Ancestral Protectors
 

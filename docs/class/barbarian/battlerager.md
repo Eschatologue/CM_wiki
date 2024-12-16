@@ -29,7 +29,7 @@ While wearing your Ravager Armor, you gain the following benefits:
 
 Your furious grip becomes extremely tight as you press your spiked armor into your enemies. When your Rage is active, you gain the following benefits:
 
-***Tight Grip.*** You add half of your Constitution modifier (rounded up, minimum +1) to the saving throw DC of your Unarmed Strikes.
+***Tight Grip.*** You add your Rage Damage bonus to the saving throw DC of your Unarmed Strikes.
 
 ***Raging Hold.*** You add your Rage Damage bonus to the damage of your Spiky Embrace.
 

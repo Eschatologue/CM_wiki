@@ -64,7 +64,7 @@ Your skill with the weapons of war has grown.
 
 You possess an unnatural level of awareness.
 
-***Blindsight.*** You have Blindsight equals to your Aura of Protection's :aoe-emanation: Emanation
+***Blindsight.*** You have Blindsight equals to your Aura of Protection's range.
 
 ***Improved Opportunity Attack.*** You have :d20-adv: Advantage when you make an Opportunity Attack. Moreover, when a creature you can see hits you with a melee attack, it triggers an Opportunity Attack from you.
 

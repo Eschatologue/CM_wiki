@@ -4,7 +4,7 @@ status: adapted
 ---
 
 <p style="display:none">
-Command Mastery over the Spoken Word
+Command Mastery over the Spoken Word.
 </p>
 
 # College of Eloquence
