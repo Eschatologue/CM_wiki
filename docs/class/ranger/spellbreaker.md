@@ -1,5 +1,6 @@
 ---
 title: "Subclass: Spellbreaker Conclave (Ranger)"
+status: homebrew
 ---
 
 <p style="display:none">

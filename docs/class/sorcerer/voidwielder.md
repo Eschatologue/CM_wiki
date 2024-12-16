@@ -1,17 +1,19 @@
 ---
 title: "Subclass: Voidwielder (Sorcerer)"
-status: adapted
+status: homebrew
 ---
 
 <p style="display:none">
-Channel the Chaotic Power of Chaos - Written by Laserllama - Adapted to 2024 PHB by Eschatologue
+Channel the Chaotic Power of Creation
 </p>
 
 # Voidwielder
 
-> *Channel the Chaotic Power of Chaos - Written by Laserllama - Adapted to 2024 PHB by Eschatologue*
+> *Channel the Chaotic Power of Creation*
 
 Before the primordial gods formed the world, there was only the Void. This formless, lightless, writhing chaos desires that all creation should return to it. Voidwielders are Sorcerers who wield the entropic power of the Void, working to undo the very acts of creation. They are often nihilistic in their outlook on life, resigned to the fact that all will eventually dissolve into the nothingness of the great primordial Void.
+
+> *Written by Laserllama - Adapted to 2024 PHB by Eschatologue*
 
 ### Level 3: Entropic Touch
 
