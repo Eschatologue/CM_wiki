@@ -20,7 +20,7 @@ icon: material/math-integral-box
 | VI | *Gravity Fissure* | Evocation | Action | Self (100-foot line) | Instantaneous | V, S, M (a fistful of iron filings) | EGW |
 | VII | *Tether Essence* | Necromancy | Action | 60 feet | Concentration, up to 1 hour | V, S, M (a spool of platinum cord worth at least 250 gp, which the spell consumes) | EGW |
 | VIII | *Dark Star* | Evocation | Action | 150 feet | Concentration, up to 1 minute | V, S, M (a shard of onyx and a drop of the caster's blood, both of which the spell consumes) | EGW |
-| VII | *Reality Break* | Conjuration | Action | 60 feet | Concentration, up to 1 minute | V, S, M (a crystal prism) | EGW |
+| VIII | *Reality Break* | Conjuration | Action | 60 feet | Concentration, up to 1 minute | V, S, M (a crystal prism) | EGW |
 | IX | *Ravenous Void* | Evocation | Action | 1000 feet | Concentration, up to 1 minute | V, S, M (a small, nine-pointed star made of iron) | EGW |
 | IX | *Time Ravage* | Necromancy | Action | 90 feet | Instantaneous | V, S, M (an hourglass filled with diamond dust worth at least 5,000 gp, which the spell consumes) | EGW |
 

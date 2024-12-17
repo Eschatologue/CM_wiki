@@ -78,7 +78,7 @@ You customize your armour for subtle undertakings. It has the following features
 
 You can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-In addition, you can cast one of your cantrip that has the casting time of an action in place of those attack.
+In addition, you can cast one of your Artificer cantrip that has the casting time of an action in place of those attack.
 
 ### Level 9: Armour Modifications
 

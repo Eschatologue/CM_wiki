@@ -51,7 +51,6 @@ Your tinkering has borne you a companion, a steel defender. It's friendly to you
 
 At the end of a Long Rest, you can create a new Steel Defender if you have Smith's Tools with you. If you already have a Defender from this feature, the first one immediately perishes. The Defender also perishes if you die.
 
-
 ### Level 5: Extra Attack
 
 You can attack twice, instead of once, whenever you take the Attack action on your turn.

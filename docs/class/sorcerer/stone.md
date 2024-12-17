@@ -4,12 +4,12 @@ status: adapted
 ---
 
 <p style="display:none">
-Master the Magic from the Earth
+Master Magic from the Earth
 </p>
 
 # Stone Sorcery
 
-> *Master the Magic from the Earth*
+> *Master Magic from the Earth*
 
 Your magic springs from a mystical link between your soul and the magic of elemental earth. You might trace a distant ancestor to the Plane of Earth, or your family might have earned a mighty boon in return for a service to the dao lords. Whatever your past, the magic of elemental earth is yours to command.
 
@@ -17,39 +17,46 @@ Your link to earth magic grants you extraordinary resilience, and stone sorcerer
 
 ### Level 3: Stoneblood
 
-Your connection to the earth grants Martial Weapon proficiency and training with Shields.
+Your connection to the earth grants you the following benefits:
 
-Moreover, your training with weapons allows you to use the Mastery property of one kind of Simple or Martial weapon with which you have proficiency. Whenever you finish a Long Rest, you can change the kind of weapon you chose to another eligible kind.
+***Extra Hit Points.*** Your Hit Point maximum increases by 3 and increases by 1 whenever you gain another Sorcerer level.
+
+***Proficiencies.*** You gain proficiency with Martial Weapon proficiency and training with Shields.
+
+***Reinforce.*** As :rsc-a: **Magic** action, you can gain a base AC of 13 + your Charisma Modifier if you aren't wearing armour, and your skin assumes a stony appearance. This effect ends if you end it (no action required), you have the Incapacitated condition, or you don armour other than a Shield.
 
 ### Level 3: Metal Magic
 
-Your affinity for metal gives you the option to learn some non-sorcerer spells that focus on weapon attacks. When your Spellcasting feature lets you learn a level 1+ Sorcerer spell, you can select the spell from the Metal Magic table, in addition to the Sorcerer spell list. 
+When you reach a Sorcerer level specified in the Metal Magic Spells table, you thereafter always have the listed spells prepared.
 
-You must otherwise obey all the restrictions for selecting the spell, and it becomes a Sorcerer spell for you.
-
-##### Metal Magic
+##### Metal Magic Spells
 
 | Spell Level | Spell |
 |:-:|---|
-| 1 | [:spell-lv1: Compelled Duel], [:spell-lv1: Searing Smite], [:spell-lv1: Thunderous Smite], [:spell-lv1: Wrathful Smite] |
-| 2 | [:spell-lv2: Magic Weapon], [:spell-lv2: Shining Smite] |
-| 3 | [:spell-lv3: Blinding Smite], [:spell-lv3: Elemental Weapon] |
-| 4 | [:spell-lv4: Staggering Smite] |
-| 5 | [:spell-lv5: Banishing Smite] |
+| 3 | [:spell-lv1: Earth Tremor], [:spell-lv1: Sanctuary], [:spell-lv2: Magic Weapon], [:spell-lv2: Spike Growth]|
+| 5 | [:spell-lv3: Erupting Earth], [:spell-lv3: Meld into Stone] |
+| 7 | [:spell-lv4: Stone Shape], [:spell-lv4: Summon Elemental] (Earth only) |
+| 9 | [:spell-lv5: Banishing Smite] |
 
-### Level 3: Stone's Durability
+### Level 6: Extra Attack
 
-Your connection to stone gives you extra fortitude. Your Hit Point maximum increases by 3 and increases by 1 whenever you gain another Sorcerer level.
+You can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-As Magic action, you can gain a base AC of 13 + your Charisma Modifier if you aren't wearing armour, and your skin assumes a stony appearance. This effect lasts until you end it (no action required), you have the Incapacitated condition, or you don armour other than a Shield.
+In addition, you can cast one of your Sorcerer cantrip that has the casting time of an action in place of those attack.
 
 ### Level 6: Stone Aegis
 
 Your command of earth magic grows stronger, allowing you to harness it for your allies' protection.
 
-As a Bonus Action, you grant yourself or an ally within 60 feet an aegis of earth magic. For 1 minute, Bludgeoning, Piercing, or Slashing damage the target takes is reduced by an amount equal to your Charisma modifier. This effect ends early if you use it again or when you have Incapacitated condition.
+As a :rsc-b: Bonus Action, you grant yourself or an ally within 60 feet an aegis of earth magic. For 1 minute, :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, or :dmg-slsh: Slashing damage the target takes is reduced by an amount equal to your Charisma modifier. This effect ends early if you use it again or when you have Incapacitated condition.
 
-Additionally, when an enemy hits the protected target with a melee attack, you can use your Reaction to teleport within 5 feet of the attacker (if on the same surface) and make a melee attack. On a hit, the attack deals an extra 1d10 Force damage (increases to 2d10 at level 11, and 3d10 at level 17).
+Additionally, when an enemy hits the protected target with a melee attack, you can use your :rsc-r: Reaction to teleport within 5 feet of the attacker (if on the same surface) and make a melee attack. On a hit, the attack deals an extra 2d6 Force damage (increases to 3d6 at level 11, and 4d6 at level 17).
+
+### Level 14: Crushing Blow
+
+You strikes is empowered with crushing force. Once per turn when you hit with a Melee weapon attack or Unarmed Strike you can expend a spell slot to deal bonus :dmg-force: Force damage to the target. 
+
+This bonus damage is 2d6 for a level 1 spell slot and it increases by 1d6 for each spell slot level above 1.
 
 ### Level 14: Stone's Edge
 

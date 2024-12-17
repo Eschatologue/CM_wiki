@@ -4,7 +4,7 @@ status: adapted
 ---
 
 <p style="display:none">
-Exercise Influence over Time - Updated by PerfectlyCircularSeal
+Exercise Influence over Time
 </p>
 
 # Chronurgist
@@ -17,9 +17,30 @@ Focusing on the manipulation of time, those who follow the Chronurgy tradition l
 
 Your study the flow of time. The [Dunamancy spells](../../spells/description/additional/dunamancy.md) are added to your class' spell list.
 
+### Level 3: Chronurgy Savant
+
+*You studied the flow of time.*
+
+Choose two Wizard spells from the Dunamancy spells table, each of which must be no higher than level 2, and add them to your spellbook for free.
+
+In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Dunamancy spells table to your spellbook for free. The chosen spell must be of a level for which you have spell slots.
+
+##### Dunamancy Spells 
+
+| Level | Name | School | Time | Range | Duration | Components | Source |
+|:-:|---|---|---|---|---|---|---|
+| Cantrip | *Sapping Sting* | Necromancy | Action | 30 feet | Instantaneous | V, S | EGW |
+| I | *Gift of Alacrity* | Divination | 1 Min. | Touch | 8 hours | V, S | EGW |
+| II | *Fortune's Favor* | Divination | 1 Min. | 60 feet | 1 hour | V, S, M (a white pearl worth at least 100 gp, which the spell consumes) | EGW |
+| II | *Wristpocket* | Conjuration (ritual) | Action | Self | Concentration, up to 1 hour | S | EGW |
+| V | *Temporal Shunt* | Transmutation | Reaction | 120 feet | 1 round | V, S | EGW |
+| VII | *Tether Essence* | Necromancy | Action | 60 feet | Concentration, up to 1 hour | V, S, M (a spool of platinum cord worth at least 250 GP, which the spell consumes) | EGW |
+| VIII | *Reality Break* | Conjuration | Action | 60 feet | Concentration, up to 1 minute | V, S, M (a crystal prism) | EGW |
+| IX | *Time Ravage* | Necromancy | Action | 90 feet | Instantaneous | V, S, M (an hourglass filled with diamond dust worth at least 5,000 gp, which the spell consumes) | EGW |
+
 ### Level 3: Chronal Shift
 
-You can magically exert limited control over the flow of time around a creature. As a Reaction, after you or a creature you can see within 30 feet of you makes a D20 Test, you can force the creature to reroll. The target must use the result of the second roll. You can use this ability twice, and you regain any expended uses when you finish a Long Rest.
+You can magically exert limited control over the flow of time around a creature. As a :rsc-r: Reaction, after you or a creature you can see within 30 feet of you makes a D20 Test, you can force the creature to reroll. The target must use the result of the second roll. You can use this ability twice, and you regain any expended uses when you finish a Long Rest.
 
 ### Level 3: Temporal Awareness
 

@@ -276,10 +276,10 @@ nav:
     - Mage Group:
       - Sorcerer:
         - class/sorcerer/index.md
-        - Abberant Sorcery: class/sorcerer/aberrant.md
-        - Clockwork Sorcery: class/sorcerer/clockwork.md
+        - Abberant Mind: class/sorcerer/aberrant.md
+        - Clockwork Soul: class/sorcerer/clockwork.md
         - Draconic Sorcery: class/sorcerer/draconic.md
-        - Wild Magic Sorcery: class/sorcerer/wild.md
+        - Wild Magic: class/sorcerer/wild.md
         - Stone Sorcery: class/sorcerer/stone.md
         - Voidwielder: class/sorcerer/voidwielder.md
       - Warlock:
@@ -298,8 +298,8 @@ nav:
         - Illusionist: class/wizard/illusionist.md
         - Chronurgist: class/wizard/chronurgist.md
         - Graviturgist: class/wizard/graviturgist.md
-        - Hedge Mage: class/wizard/hedge-mage.md
         - War Mage: class/wizard/war-mage.md
+        - Hedge Mage: class/wizard/hedge-mage.md
     - Priest Group:
       - Cleric:
         - class/cleric/index.md
