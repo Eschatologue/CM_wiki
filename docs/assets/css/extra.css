@@ -808,6 +808,8 @@
 .md-typeset details.statblock table:not([class]) td:nth-child(2),
 .md-typeset details.statblock table:not([class]) td:nth-child(5),
 .md-typeset details.statblock table:not([class]) td:nth-child(6) {
+  padding-left: 0.75em !important;
+  padding-right: 0.75em !important;
   background-color: var(--md-default-blk--0125) !important;
   font-weight: strong;
   color: var(--md-text-color);
@@ -835,6 +837,10 @@
   border-right: 8px solid var(--md-default-bg-color) !important;
 }
 @media screen and (max-width: 768px) {
+  .md-typeset .admonition.statblock table:not([class]),
+  .md-typeset details.statblock table:not([class]) {
+    width: 100% !important;
+  }
   .md-typeset .admonition.statblock table:not([class]) th,
   .md-typeset details.statblock table:not([class]) th {
     font-size: 0.7em !important;
