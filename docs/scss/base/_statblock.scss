@@ -48,6 +48,8 @@
             td:nth-child(2),
             td:nth-child(5),
             td:nth-child(6) {
+                padding-left: convert.px2em(12px) !important;
+                padding-right: convert.px2em(12px) !important;
                 background-color: var(--md-default-blk--0125) !important;
                 font-weight: strong;
                 color: var(--md-text-color);
@@ -74,6 +76,9 @@
 
             // Adjust font sizes for smaller screens
             @media screen and (max-width: 768px) {
+
+                width: 100% !important;
+
                 th {
                     font-size: convert.px2em(table.$tableFontSize * 0.8) !important;
                 }
@@ -91,13 +96,14 @@
     }
 
     .statblock {
-        > .admonition-title,
-        > summary {
+
+        >.admonition-title,
+        >summary {
             background-color: color.adjust($colorAdmonition_statblock, $alpha: -0.9);
         }
 
-        > .admonition-title::before,
-        > summary::before {
+        >.admonition-title::before,
+        >summary::before {
             background-color: $colorAdmonition_statblock;
             -webkit-mask-image: var(--md-icon--statblock);
             mask-image: var(--md-icon--statblock);
