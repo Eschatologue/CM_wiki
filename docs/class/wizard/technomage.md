@@ -21,11 +21,11 @@ Each Technomancer walks a fine line between discovery and destruction, knowing t
 
 Your spellbook appearance changes into a cutting-edge gadget, replacing traditional pages with a sleek, illuminated interface of shifting glyphs and symbols. The future is now old man.
 
-### Level 3: Mastery the Cordite
+### Level 3: Mastery of the Cordite
 
-To master technomancy, you learn to balance magic and Cordite—a substance that rejects the Weave yet fuels Albion's firearms. This duality defines your craft.
+To master technomancy, you learn to balance magic and Cordite—a substance that rejects the Weave yet fuels Albion's firearms. Just because you're out of spells, does not mean you're out of shells.
 
-***Short-Arms proficiency.*** You gain proficiency with Short-Arms, and you can use it as a spellcasting focus for your Wizard spells.
+You gain proficiency with Short-Arms. When you reach level 10 in this class, you gain proficiency with Long-Arms.
 
 ### Level 3: Deploy Drone
 
@@ -67,7 +67,7 @@ You can use any of the following options, expending one use of this feature per 
 
 Your technological mastery allows you to enhance your control systems, enabling more complex operations with your drones.
 
-***Extra Drone.*** At the end of a Long Rest, you can construct and control an additional drone. Both drones act on your turn, sharing the same initiative count and following the same rules as your original drone.
+***Extra Drone.*** At the end of a Long Rest, you can construct and control an additional drone. Both drones act on your turn, sharing the same Initiative count and following the same rules as your original drone.
 
 ***Protocol 3.*** When you are hit by an attack roll, you can use your Reaction to command a drone within 60 feet of you to intercept it. The drone immediately moves to an unoccupied space within 10 feet of you, and the attack is redirected to target the drone instead. You avoid all damage and effects associated with the attack.
 
