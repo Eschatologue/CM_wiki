@@ -771,6 +771,7 @@
 }
 .md-typeset .admonition.statblock table:not([class]),
 .md-typeset details.statblock table:not([class]) {
+  width: auto !important;
   white-space: nowrap !important;
   box-shadow: none !important;
 }
@@ -778,7 +779,7 @@
 .md-typeset .admonition.statblock table:not([class]) th,
 .md-typeset details.statblock table:not([class]) td,
 .md-typeset details.statblock table:not([class]) th {
-  padding: 0.75em !important;
+  padding: 0.5em !important;
 }
 .md-typeset .admonition.statblock table:not([class]) th,
 .md-typeset details.statblock table:not([class]) th {
@@ -831,7 +832,7 @@
 .md-typeset .admonition.statblock table:not([class]) td:nth-child(4),
 .md-typeset details.statblock table:not([class]) th:nth-child(4),
 .md-typeset details.statblock table:not([class]) td:nth-child(4) {
-  border-right: 12px solid var(--md-default-bg-color) !important;
+  border-right: 8px solid var(--md-default-bg-color) !important;
 }
 @media screen and (max-width: 768px) {
   .md-typeset .admonition.statblock table:not([class]) th,
