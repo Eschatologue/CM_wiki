@@ -19,7 +19,7 @@ Each Technomancer walks a fine line between discovery and destruction, knowing t
 
 ### Level 3: Advanced "Spellbook"
 
-*The future is now old man.*
+*The future is now, old man.*
 
 Your spellbook appearance changes into a cutting-edge gadget, replacing traditional pages with a sleek, illuminated interface of shifting glyphs and symbols. 
 
@@ -47,11 +47,11 @@ At the end of a Long Rest, you can construct a new drone, which appears in an un
 
 *Your continued advancements enhance your drone with new capabilities.*
 
-These following upgrades function as long as you and the drone are within a range equal to 50 feet times your Wizard level.
+These following features function as long as you and the drone are within a range equal to 50 feet times your Wizard level.
+
+***Media Module.*** While holding your spellbook, you can see and hear through the drone as if you were in its space.
 
 ***Spellcasting Module.*** When you cast a Wizard spell on your turn, you can cast it as though you were in the drone's space, using its senses.
-
-***Visual Module.*** While holding your spellbook, you can see and hear through the drone as if you were in its space.
 
 ### Level 10: Spells Computation
 
@@ -71,7 +71,9 @@ You can use any of the following options, expending one use of this feature per 
 
 ***Extra Drone.*** At the end of a Long Rest, you can construct and control an additional drone. Both drones act on your turn, sharing the same Initiative count and following the same rules as your original drone.
 
-***Protocol 3.*** When you are hit by an attack roll, you can use your Reaction to command a drone within 60 feet of you to intercept it. The drone immediately moves to an unoccupied space within 10 feet of you, and the attack is redirected to target the drone instead. You avoid all damage and effects associated with the attack.
+***Intercept Attack.*** When you are hit by an attack roll, you can use your Reaction to command a drone within 60 feet of you to intercept it. The drone immediately moves to an unoccupied space within 10 feet of you, and the attack is redirected to target the drone instead. You avoid all damage and effects associated with the attack.
+
+***Emulate Concentration.*** When you cast a Wizard spell that requires concentration on your turn using the ***Spellcasting Module*** subfeature, you can make the drone concentrate on it instead of you instead. Though the drone has :d20-disadv: Disadvantage on the save it makes to maintain concentration and the spell duration is halved.
 
 !!! statblock "Drone"
 
