@@ -21,9 +21,9 @@ Each Technomancer walks a fine line between discovery and destruction, knowing t
 
 Your spellbook appearance changes into a cutting-edge gadget, replacing traditional pages with a sleek, illuminated interface of shifting glyphs and symbols. The future is now old man.
 
-### Level 3: Mastery of the Cordite
+### Level 3: Out of Spells, not Shells
 
-To master technomancy, you learn to balance magic and Cordite—a substance that rejects the Weave yet fuels Albion's firearms. Just because you're out of spells, does not mean you're out of shells.
+To master technomancy, you learn to balance magic and Cordite—a substance that rejects the Weave yet fuels Albion's firearms.
 
 You gain proficiency with Short-Arms. When you reach level 10 in this class, you gain proficiency with Long-Arms.
 
