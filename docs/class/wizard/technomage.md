@@ -90,7 +90,7 @@ You can use any of the following options, expending one use of this feature per 
     | **Con** | 10 | +0 | +0 | **Cha** | 8 | -1 | -1 |
 
     **Senses** Darkvision 60 ft., Passive Perception 12  
-    **Immunities** :dmg-poison: Poison; Charmed, Exhaustion, Poisoned  
+    **Immunities** :dmg-poison: Poison, :dmg-psychic: Psychic; Charmed, Frightened, Exhaustion, Poisoned  
     **Languages** understands the languages you speak  
     **Proficiency Bonus** equals your bonus   
 
