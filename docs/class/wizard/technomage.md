@@ -3,7 +3,7 @@ title: "Subclass: Technomancer (Wizard)"
 status: adapted
 ---
 
-<p> style="display:none"
+<p style="display:none" >
 Pioneer the Forbidden Frontier
 </p>
 
@@ -19,11 +19,13 @@ Each Technomancer walks a fine line between discovery and destruction, knowing t
 
 ### Level 3: Advanced "Spellbook"
 
-Your spellbook appearance changes into a cutting-edge gadget, replacing traditional pages with a sleek, illuminated interface of shifting glyphs and symbols. The future is now old man.
+*The future is now old man.*
+
+Your spellbook appearance changes into a cutting-edge gadget, replacing traditional pages with a sleek, illuminated interface of shifting glyphs and symbols. 
 
 ### Level 3: Out of Spells, not Shells
 
-To master technomancy, you learn to balance magic and Cordite—a substance that rejects the Weave yet fuels Albion's firearms.
+*To master technomancy, you learn to balance magic and Cordite—a substance that rejects the Weave yet fuels Albion's firearms.*
 
 You gain proficiency with Short-Arms. When you reach level 10 in this class, you gain proficiency with Long-Arms.
 
@@ -65,7 +67,7 @@ You can use any of the following options, expending one use of this feature per 
 
 ### Level 14: Dual-core Processor
 
-Your technological mastery allows you to enhance your control systems, enabling more complex operations with your drones.
+*Your technological mastery allows you to enhance your control systems, enabling more complex operations with your drones.*
 
 ***Extra Drone.*** At the end of a Long Rest, you can construct and control an additional drone. Both drones act on your turn, sharing the same Initiative count and following the same rules as your original drone.
 
