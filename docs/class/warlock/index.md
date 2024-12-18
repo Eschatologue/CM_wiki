@@ -11,21 +11,7 @@ Bound by a pact to an all-powerful patron, warlocks trade their loyalty for supe
 
 # Warlock
 
-*Bound by a pact to an all-powerful patron, warlocks trade their loyalty for supernatural abilities and unique magic.*
-
-##### Core Warlock Trait
-
-| Trait | Detail |
-|---|---|
-| **Primary Ability** | :ability-cha: Charisma |
-| **Hit Point Die** | D8 per Warlock level |
-| **HP at Level 1** | 8 + :ability-cons: Con. modifier. |
-| **HP per Warlock Level** | 6 + :ability-cons: Con. modifier |
-| **Saving Throw Proficiencies** | :ability-wis: Wisdom and :ability-cha: Charisma |
-| **Skill Proficiencies** | Choose 2: Arcana, Deception, History, Intimidation, Investigation, Nature, or Religion |
-| **Weapon Proficiencies** | Simple weapons |
-| **Armour Training** | Light armo |
-| **Starting Equipment** | Choose A or B: <br>**(A)** Leather Armour, Sickle, 2 Daggers, Arcane Focus (orb), Book (occult lore), Scholar's Pack, and 15 GP; or <br>**(B)** 100 GP |
+> *Bound by a pact to an all-powerful patron, warlocks trade their loyalty for supernatural abilities and unique magic.*
 
 Warlocks quest for knowledge that lies hidden in the fabric of the multiverse. They often begin their search for magical power by delving into tomes of forbidden lore, dabbling in invocations meant to attract the power of extraplanar beings, or seeking places of power where the influence of these beings can be felt. In no time, each Warlock is drawn into a binding pact with a powerful patron. Drawing on the ancient knowledge of beings such as angels, archfey, demons, devils, hags, and alien entities of the Far Realm, Warlocks piece together arcane secrets to bolster their own power.
 
@@ -33,9 +19,32 @@ Warlocks view their patrons as resources, as means to the end of achieving magic
 
 Once a pact is made, a Warlock's thirst for knowledge and power can't be slaked with mere study. Most Warlocks spend their days pursuing greater power and deeper knowledge, which typically means some kind of adventure.
 
+??? info "Core Warlock Trait"
+
+    **Primary Ability:** :ability-cha: Charisma  
+
+    **Hit Point Die:** D8 per Warlock level  
+    **HP at Level 1:** 8 + :ability-cons: Con. modifier.  
+    **HP per Warlock Level:** 6 + :ability-cons: Con. modifier  
+
+    **Saving Throw Proficiencies:** :ability-wis: Wisdom and :ability-cha: Charisma  
+
+    **Skill Proficiencies:** Choose 2: Arcana, Deception, History, Intimidation, Investigation, Nature, or Religion  
+
+    **Weapon Proficiencies:** Simple weapons  
+
+    **Armour Training:** Light armour  
+
+    **Starting Equipment:** Choose A or B:  
+    **(A)** Leather Armour, Sickle, 2 Daggers, Arcane Focus (orb), Book (occult lore), Scholar's Pack, and 15 GP; or  
+    **(B)** 100 GP  
+
+
 ## Becoming a Warlock...
 
 ### As a Level 1 Character
+
+As a Level 1 Character you gain the following:
 
 - Gain all the traits in the Core Warlock Traits table.
 - Gain the Warlock's level 1 features, which are listed in the Warlock Features table.

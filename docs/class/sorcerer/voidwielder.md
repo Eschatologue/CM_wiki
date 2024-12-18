@@ -65,8 +65,4 @@ As a Bonus Action, you can spend 1 Sorcery Point to partially discorporate until
 
 ***Move Through Object.*** You can move through solid objects and creatures as if they were Difficult Terrain. If you end your turn inside a solid object or creature you are instantly shunted to the nearest unoccupied space, taking 1d10 Force damage for every 5 feet you were forced to travel. If you pass through a creature, you can force it to make a Constitution saving throw against your Spell save DC or take 1d10 Force damage. A creature can only be forced to make this Constitution saving throw once per turn.
 
---8<-- "includes/snippets/spells2/lv1.md"
---8<-- "includes/snippets/spells2/lv2.md"
---8<-- "includes/snippets/spells2/lv3.md"
---8<-- "includes/snippets/spells2/lv4.md"
---8<-- "includes/snippets/spells2/lv5.md"
+--8<-- "includes/snippets/spells2/lv0-5.md"

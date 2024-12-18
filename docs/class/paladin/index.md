@@ -11,21 +11,7 @@ A promise made so deeply that it becomes divine in itself flows through a paladi
 
 # Paladin
 
-*A promise made so deeply that it becomes divine in itself flows through a paladin, burning bright enough to inspire allies and smite foes.*
-
-##### Core Paladin Traits
-
-| Trait | Detail |
-|---|---|
-| **Primary Ability** | :ability-str: Strength & :ability-cha: Charisma |
-| **Hit Point Die** | D10 per Paladin level |
-| **HP at Level 1** | 10 + :ability-cons: Con. modifier. |
-| **HP per Paladin Level** | 6 + :ability-cons: Con. modifier |
-| **Saving Throw Proficiencies** | :ability-wis: Wisdom and :ability-cha: Charisma |
-| **Skill Proficiencies** | Choose 2: Athletics, Insight, Intimidation, Medicine, Persuasion, or Religion |
-| **Weapon Proficiencies** | Simple weapons and Martial weapons |
-| **Armour Training** | Light, Medium, and Heavy armour and Shields |
-| **Starting Equipment** | Choose A or B: <br>**(A)** Chain Mail, Shield, Longsword, 6 Javelins, Holy Symbol, Priest's Pack, and 90 SP, or <br>**(B)** 1.500 SP |
+> *A promise made so deeply that it becomes divine in itself flows through a paladin, burning bright enough to inspire allies and smite foes.*
 
 Paladins are united by their oaths to stand against the forces of annihilation and corruption. Whether sworn before a god's altar, in a sacred glade before nature spirits and fey beings, or in a moment of desperation and grief with the dead as the only witnesses, a Paladin's oath is a powerful bond. It is a source of power that turns a devout warrior into a blessed champion.
 
@@ -37,9 +23,31 @@ Almost by definition, the life of a Paladin is an adventuring life, for every Pa
 
 Adventuring Paladins take their work seriously. A delve into an ancient ruin or a dusty crypt can be a quest driven by a higher purpose than the acquisition of treasure. Malign forces lurk in dungeons, and even the smallest victory against them can tilt the cosmic balance away from oblivion.
 
+??? info "Core Paladin Traits"
+
+    **Primary Ability:** :ability-str: Strength & :ability-cha: Charisma  
+
+    **Hit Point Die:** D10 per Paladin level  
+    **HP at Level 1:** 10 + :ability-cons: Con. modifier.  
+    **HP per Paladin Level:** 6 + :ability-cons: Con. modifier  
+
+    **Saving Throw Proficiencies:** :ability-wis: Wisdom and :ability-cha: Charisma  
+
+    **Skill Proficiencies:** Choose 2: Athletics, Insight, Intimidation, Medicine, Persuasion, or Religion  
+
+    **Weapon Proficiencies:** Simple weapons and Martial weapons  
+
+    **Armour Training:** Light, Medium, and Heavy armour and Shields  
+
+    **Starting Equipment:** Choose A or B:  
+    **(A)** Chain Mail, Shield, Longsword, 6 Javelins, Holy Symbol, Priest's Pack, and 90 SP, or  
+    **(B)** 1.500 SP
+
 ## Becoming a Paladin...
 
 ### As a Level 1 Character
+
+As a Level 1 Character you gain the following:
 
 - Gain all the traits in the Core Paladin Traits table.
 - Gain the Paladin's level 1 features, which are listed in the Paladin Features table.

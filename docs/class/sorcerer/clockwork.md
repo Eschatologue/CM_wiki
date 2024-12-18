@@ -68,8 +68,4 @@ You momentarily summon spirits of order to expunge disorder around you. As an Ma
 
 Once you use this action, you can't use it again until you finish a Long Rest, unless you spend 7 sorcery points to use it again.
 
---8<-- "includes/snippets/spells2/lv1.md"
---8<-- "includes/snippets/spells2/lv2.md"
---8<-- "includes/snippets/spells2/lv3.md"
---8<-- "includes/snippets/spells2/lv4.md"
---8<-- "includes/snippets/spells2/lv5.md"
+--8<-- "includes/snippets/spells2/lv0-5.md"

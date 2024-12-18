@@ -11,27 +11,33 @@ Fighters have mastered the art of combat, wielding weapons with unmatched skill 
 
 # Fighter
 
-*Fighters have mastered the art of combat, wielding weapons with unmatched skill and wearing armour like a second skin.*
-
-##### Core Fighter Trait
-
-| Trait | Detail |
-|---|---|
-| **Primary Ability** | :ability-str: Strength or :ability-dex: Dexterity |
-| **Hit Point Die** | D10 per Fighter level |
-| **HP at Level 1** | 10 + :ability-cons: Con. modifier. |
-| **HP per Fighter Level** | 6 + :ability-cons: Con. modifier |
-| **Saving Throw Proficiencies** | :ability-str: Strength and :ability-cons: Constitution |
-| **Skill Proficiencies** | Choose 2: Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Persuasion, Perception, or Survival |
-| **Weapon Proficiencies** | Simple and Martial weapons |
-| **Armour Training** | Light, Medium, and Heavy armour and Shields |
-| **Starting Equipment** | Choose A, B, or C: <br>**(A)** Chain Mail, Greatsword, Flail, 8 Javelins, Dungeoneer's Pack, and 40 SP; <br>**(B)** Studded Leather Armour, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Dungeoneer's Pack, and 110 SP; or <br>**(C)** 1.550 SP |
+> *Fighters have mastered the art of combat, wielding weapons with unmatched skill and wearing armour like a second skin.*
 
 Fighters rule many battlefields. Questing knights, royal champions, elite soldiers, and hardened mercenaries—as Fighters, they all share an unparalleled prowess with weapons and armour. And they are well acquainted with death, both meting it out and staring it defiantly in the face.
 
 Fighters learn the basics of all combat styles. Every Fighter can swing an axe, fence with a rapier, wield a longsword or a greatsword, and use a bow. Fighters master various weapon techniques, allowing them to get the best use from a wide variety of weapons, and a well equipped Fighter always has the right tool at hand for any combat situation. Likewise, a Fighter is adept with shields and every form of armour. Beyond that basic degree of familiarity, each Fighter specializes in certain styles of combat. Some concentrate on archery, some on fighting with two weapons at once, and some on augmenting their martial skills with magic. This combination of broad general ability and extensive specialization makes Fighters superior combatants everywhere.
 
 The dungeon delving, monster slaying, and other dangerous work common among adventurers is second nature for a Fighter. There are great risks but also great rewards: gold, magic weaponry, and glory.
+
+??? info "Core Fighter Trait"
+
+    **Primary Ability:** :ability-str: Strength or :ability-dex: Dexterity  
+
+    **Hit Point Die:** D10 per Fighter level  
+    **HP at Level 1:** 10 + :ability-cons: Con. modifier.  
+    **HP per Fighter Level:** 6 + :ability-cons: Con. modifier  
+    **Saving Throw Proficiencies:** :ability-str: Strength and :ability-cons: Constitution  
+
+    **Skill Proficiencies:** Choose 2: Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Persuasion, Perception, or Survival  
+
+    **Weapon Proficiencies:** Simple and Martial weapons  
+
+    **Armour Training:** Light, Medium, and Heavy armour and Shields  
+
+    **Starting Equipment:** Choose A, B, or C:  
+    **(A)** Chain Mail, Greatsword, Flail, 8 Javelins, Dungeoneer's Pack, and 40 SP;  
+    **(B)** Studded Leather Armour, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Dungeoneer's Pack, and 110 SP; or  
+    **(C)** 1.550 SP |
 
 ## Becoming a Fighter...
 

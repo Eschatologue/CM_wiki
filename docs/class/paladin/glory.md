@@ -58,8 +58,4 @@ You can empower yourself with the legends— whether true or exaggerated—of yo
 
 ***Uneerring Strike.*** Once on each of your turns when you make a weapon attack and miss, you can cause that attack to hit instead.
 
---8<-- "includes/snippets/spells2/lv1.md"
---8<-- "includes/snippets/spells2/lv2.md"
---8<-- "includes/snippets/spells2/lv3.md"
---8<-- "includes/snippets/spells2/lv4.md"
---8<-- "includes/snippets/spells2/lv5.md"
+--8<-- "includes/snippets/spells2/lv0-5.md"

@@ -48,8 +48,4 @@ Your mastery of the forge grants you special abilities. You have :dmg-res: Resis
 
 Your blessed affinity with fire and metal becomes more powerful. You have :dmg-imm: Immunity to :dmg-fire: Fire damage and while wearing metal armour, you have :dmg-res: Resistance to :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, and :dmg-slsh: Slashing damage.
 
---8<-- "includes/snippets/spells2/lv1.md"
---8<-- "includes/snippets/spells2/lv2.md"
---8<-- "includes/snippets/spells2/lv3.md"
---8<-- "includes/snippets/spells2/lv4.md"
---8<-- "includes/snippets/spells2/lv5.md"
+--8<-- "includes/snippets/spells2/lv0-5.md"

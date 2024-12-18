@@ -11,22 +11,7 @@ Druids channel the elemental forces of nature and share a deep kinship with anim
 
 # Druid
 
-*Druids channel the elemental forces of nature and share a deep kinship with animals. Mastery of Wild Shape allows them to transform into beasts from all over the Realms.*
-
-##### Core Druid Trait
-
-| Trait | Detail |
-|---|---|
-| **Primary Ability** | :ability-wis: Wisdom |
-| **Hit Point Die** | D8 per Druid level |
-| **HP at Level 1** | 8 + :ability-cons: Con. modifier. |
-| **HP per Druid Level** | 5 + :ability-cons: Con. modifier |
-| **Saving Throw Proficiencies** | :ability-int: Intelligence and :ability-wis: Wisdom |
-| **Skill Proficiencies** | Choose 2: Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, or Survival |
-| **Weapon Proficiencies** | Simple weapons |
-| **Tool Proficiencies** | Herbalism Kit |
-| **Armour Training** | Light armour and Shields |
-| **Starting Equipment** | Choose A or B: <br>**(A)** Leather Armour, Shield, Sickle, Druidic Focus (Quarterstaff), Explorer's Pack, Herbalism Kit, and 9 GP; or <br>**(B)** 50 GP |
+> *Druids channel the elemental forces of nature and share a deep kinship with animals. Mastery of Wild Shape allows them to transform into beasts from all over the Realms.*
 
 Druids belong to ancient orders that call on the forces of nature. Harnessing the magic of animals, plants, weather, and the four elements, Druids can heal, transform themselves, and wield elemental destruction.
 
@@ -41,6 +26,27 @@ For Druids, nature exists in a precarious balance. The four elements that make u
 Druids are also concerned with the delicate ecological balance that sustains plant and animal life and with the need for people to live in harmony with nature, not in opposition to it.
 
 Druids are often found guarding sacred sites or watching over regions of unspoiled nature. But when a significant danger arises, threatening nature's balance or the lands they protect, Druids take a more active role as adventurers who combat the threat.
+
+??? info "Core Druid Trait"
+
+    **Primary Ability:** :ability-wis: Wisdom  
+
+    **Hit Point Die:** D8 per Druid level  
+    **HP at Level 1:** 8 + :ability-cons: Con. modifier.  
+    **HP per Druid Level:** 5 + :ability-cons: Con. modifier  
+    **Saving Throw Proficiencies:** :ability-int: Intelligence and :ability-wis: Wisdom  
+
+    **Skill Proficiencies:** Choose 2: Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, or Survival  
+
+    **Weapon Proficiencies:** Simple weapons  
+
+    **Tool Proficiencies:** Herbalism Kit  
+
+    **Armour Training:** Light armour and Shields  
+
+    **Starting Equipment:** Choose A or B:  
+    **(A)** Leather Armour, Shield, Sickle, Druidic Focus (Quarterstaff), Explorer's Pack, Herbalism Kit, and 90 SP; or  
+    **(B)** 500 SP 
 
 ## Becoming a Druid...
 

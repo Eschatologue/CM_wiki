@@ -49,8 +49,4 @@ You can cast [:spell-lv5: Summon Dragon] without a Material component. You can a
 
 Whenever you start casting [:spell-lv5: Summon Dragon], you can modify it so that it doesn't require Concentration. If you do so, the spell's duration becomes 1 minute for that casting.
 
---8<-- "includes/snippets/spells2/lv1.md"
---8<-- "includes/snippets/spells2/lv2.md"
---8<-- "includes/snippets/spells2/lv3.md"
---8<-- "includes/snippets/spells2/lv4.md"
---8<-- "includes/snippets/spells2/lv5.md"
+--8<-- "includes/snippets/spells2/lv0-5.md"

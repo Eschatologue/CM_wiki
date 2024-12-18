@@ -74,8 +74,4 @@ You have become a master Forgewright and extend the power of your Arcane Armamen
 
 Once you use this feature you must finish a Long Rest before you can use it again. If you have no uses left, you can expend a level 3+ spell slot to use it again.
 
---8<-- "includes/snippets/spells2/lv1.md"
---8<-- "includes/snippets/spells2/lv2.md"
---8<-- "includes/snippets/spells2/lv3.md"
---8<-- "includes/snippets/spells2/lv4.md"
---8<-- "includes/snippets/spells2/lv5.md"
+--8<-- "includes/snippets/spells2/lv0-5.md"

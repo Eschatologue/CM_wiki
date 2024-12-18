@@ -11,22 +11,7 @@ With stealth, skill, and uncanny reflexes, rogues' versatility lets them get the
 
 # The Rogue
 
-*With stealth, skill, and uncanny reflexes, rogues' versatility lets them get the upper hand in almost any situation.*
-
-##### Core Rogue Traits
-
-| Trait | Detail |
-|---|---|
-| **Primary Ability** | :ability-dex: Dexterity |
-| **Hit Point Die** | D8 per Rogue level |
-| **HP at Level 1** | 8 + :ability-cons: Con. modifier. |
-| **HP per Cleric Level** | 5 + :ability-cons: Con. modifier |
-| **Saving Throw Proficiencies** | :ability-dex: Dexterity and :ability-int: Intelligence |
-| **Skill Proficiencies** | Choose 4: Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Persuasion, Sleight of Hand, or Stealth |
-| **Weapon Proficiencies** | Simple weapons and Martial weapons that have the :weapon-prop-finesse: ^^Finesse^^ or :weapon-prop-light: ^^Light^^ property |
-| **Tool Proficiencies** | Thieves' Tools |
-| **Armour Training** | Light armour |
-| **Starting Equipment** | Choose **A** or **B**: <br>**(A)** Leather Armour, 2 Daggers, Shortsword, Shortbow, 20 Arrows, Quiver, Thieves' Tools, Burglar's Pack, and 80 SP; or <br>**(B)** 1.000 SP |
+> *With stealth, skill, and uncanny reflexes, rogues' versatility lets them get the upper hand in almost any situation.*
 
 Rogues rely on cunning, stealth, and their foes' vulnerabilities to get the upper hand in any situation. They have a knack for finding the solution to just about any problem, demonstrating a versatility that is the cornerstone of any successful adventuring party.
 
@@ -36,9 +21,33 @@ When it comes to combat, Rogues prioritize subtle strikes over brute strength. A
 
 Some Rogues began their careers as criminals, while others used their cunning to fight crime. Whatever a Rogue's relation to the law, no common criminal or officer of the law can match the subtle brilliance of the greatest Rogues.
 
+??? info "Core Rogue Traits"
+
+    **Primary Ability:** :ability-dex: Dexterity  
+
+    **Hit Point Die:** D8 per Rogue level  
+    **HP at Level 1:** 8 + :ability-cons: Con. modifier.  
+    **HP per Cleric Level:** 5 + :ability-cons: Con. modifier  
+
+    **Saving Throw Proficiencies:** :ability-dex: Dexterity and :ability-int: Intelligence  
+
+    **Skill Proficiencies:** Choose 4: Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Persuasion, Sleight of Hand, or Stealth  
+
+    **Weapon Proficiencies:** Simple weapons and Martial weapons that have the :weapon-prop-finesse: ^^Finesse^^ or :weapon-prop-light: ^^Light^^ property  
+
+    **Tool Proficiencies:** Thieves' Tools  
+
+    **Armour Training:** Light armour  
+    
+    **Starting Equipment:** Choose **A** or **B**:  
+    **(A)** Leather Armour, 2 Daggers, Shortsword, Shortbow, 20 Arrows, Quiver, Thieves' Tools, Burglar's Pack, and 80 SP; or  
+    **(B)** 1.000 SP  
+
 ## Becoming a Rogue...
 
 ### As a Level 1 Character
+
+As a Level 1 Character you gain the following:
 
 - Gain all the traits in the Core Rogue Traits table.
 - Gain the Rogue's level 1 features, which are listed in the Rogue Features table.

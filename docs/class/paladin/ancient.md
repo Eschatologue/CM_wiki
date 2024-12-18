@@ -56,8 +56,4 @@ As a Bonus Action, you can imbue your Aura of Protection with primal power, gran
 
 ***Swift Spells.*** Whenever you cast a spell that has a casting time of 1n action, you can cast it using a Bonus Action instead.
 
---8<-- "includes/snippets/spells2/lv1.md"
---8<-- "includes/snippets/spells2/lv2.md"
---8<-- "includes/snippets/spells2/lv3.md"
---8<-- "includes/snippets/spells2/lv4.md"
---8<-- "includes/snippets/spells2/lv5.md"
+--8<-- "includes/snippets/spells2/lv0-5.md"

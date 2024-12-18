@@ -46,8 +46,4 @@ When you deal :dmg-lighting: Lightning or :dmg-thunder: Thunder damage to a Larg
 
 The winds of the tempest lift your form into the air. You have a Fly speed equal to your :rsc-speed: Speed.
 
---8<-- "includes/snippets/spells2/lv1.md"
---8<-- "includes/snippets/spells2/lv2.md"
---8<-- "includes/snippets/spells2/lv3.md"
---8<-- "includes/snippets/spells2/lv4.md"
---8<-- "includes/snippets/spells2/lv5.md"
+--8<-- "includes/snippets/spells2/lv0-5.md"

@@ -12,25 +12,31 @@ To face a Magus, is to experience the flurry of both spells and blades.
 
 # Magus
 
-*To face a Magus, is to experience the flurry of both spells and blades.*
-
-##### Core Magus Trait
-
-| Trait | Detail |
-|---|---|
-| **Primary Ability** | :ability-str: Strength or :ability-dex: Dexterity, and :ability-int: Intelligence |
-| **Hit Point Die** | D8 per Magus level |
-| **HP at Level 1** | 8 + :ability-cons: Con. modifier. |
-| **HP per Magus Level** | 5 + :ability-cons: Con. modifier |
-| **Saving Throw Proficiencies** | :ability-cons: Constitution and :ability-int: Intelligence |
-| **Skill Proficiencies** | Choose 2: Acrobatics, Arcana, Athletics, History, Investigation, Nature, or Performance. |
-| **Weapon Proficiencies** | Simple and Martial weapons |
-| **Armour Training**| Light and Medium armour and Shields |
-| **Starting Equipment** | Choose A or B: <br>**(A)** Studded Leather Armour, Scimitar, Light Crossbow, 20 Bolts, Bolt Case, Arcane Focus, Dungeoneer's Pack, and 70 SP; or <br>**(B)** 1.000 SP |
+> *To face a Magus, is to experience the flurry of both spells and blades.*
 
 Feared and respected by many, those who wield both blade and spell are collectively known as Magi. Rather than commit their lives solely to the study of arcane lore or the perfection of martial prowess, the Magi walk a path between the two. They may never unleash the cataclysmic power of an archmage nor rival the raw skill of a seasoned swordmaster, but a Magus commands the art of blending magic with steel, forging a deadly and elegant form of arcane combat known only to their Order.
 
 With this unique discipline, they channel their spells through their weapons, fusing magic with every strike. Their heightened senses can detect the weave of arcane energy in the world around them, and they can even sever spells from the air before they even manifest. 
+
+??? info "Core Magus Trait"
+
+    **Primary Ability:** :ability-str: Strength or :ability-dex: Dexterity, and :ability-int: Intelligence  
+
+    **Hit Point Die:** D8 per Magus level  
+    **HP at Level 1:** 8 + :ability-cons: Con. modifier.  
+    **HP per Magus Level:** 5 + :ability-cons: Con. modifier  
+
+    **Saving Throw Proficiencies:** :ability-cons: Constitution and :ability-int: Intelligence  
+
+    **Skill Proficiencies:** Choose 2: Acrobatics, Arcana, Athletics, History, Investigation, Nature, or Performance.  
+
+    **Weapon Proficiencies:** Simple and Martial weapons  
+
+    **Armour Training:** Light and Medium armour and Shields
+
+    **Starting Equipment:** Choose A or B:  
+    **(A)** Studded Leather Armour, Scimitar, Light Crossbow, 20 Bolts, Bolt Case, Arcane Focus, Dungeoneer's Pack, and 70 SP; or  
+    **(B)** 1.000 SP
 
 > Written by Laserllama, Adapted to 2024 PHB by Eschatologue
 

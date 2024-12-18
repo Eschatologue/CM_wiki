@@ -52,9 +52,4 @@ Instead of manifesting the Emanation Wrath of the Sea around yourself, you can m
 
 In addition, you can manifest the Emanation around both the other creature and yourself if you expend two uses of your Wildshape instead of one when manifesting it.
 
---8<-- "includes/snippets/spells2/lv0.md"
---8<-- "includes/snippets/spells2/lv1.md"
---8<-- "includes/snippets/spells2/lv2.md"
---8<-- "includes/snippets/spells2/lv3.md"
---8<-- "includes/snippets/spells2/lv4.md"
---8<-- "includes/snippets/spells2/lv5.md"
+--8<-- "includes/snippets/spells2/lv0-5.md"

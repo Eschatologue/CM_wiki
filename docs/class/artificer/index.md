@@ -4,33 +4,44 @@ title: "Class: Artificer"
 ---
 
 <p style="display:none">
-Class: Artificer
+A Magical Crafter and an Inventor of Wonders
 </p>
 
 :class-artificer:{ .xxxxl }
 
 # Artificer
 
-##### Core Artificer Traits
-
-| Trait | Detail |
-|---|---|
-| **Primary Ability** | :ability-int: Intelligence |
-| **Hit Point Die** | D8 per Artificer level |
-| **HP at Level 1** | 8 + :ability-cons: Con. modifier. |
-| **HP per Artificer Level** | 5 + :ability-cons: Con. modifier |
-| **Saving Throw Proficiencies** | :ability-cons: Constitution and :ability-int: Intelligence |
-| **Skill Proficiencies** | Choose 2: Arcana, History, Investigation, Medicine, Nature, Perception, or Sleight of Hand. |
-| **Weapon Proficiencies** | Simple weapons |
-| **Tool Proficiencies** | Thieves' Tools, Tinker's Tools and choose 1 type of Artisan's Tools. |
-| **Armour Training** | Light and Medium armour and Shields |
-| **Starting Equipment** | Choose **A** or **B**: <br>**(A)** Studded Leather Armour, Shield, a Simple weapon of your choice, Thieves' Tools, Tinker's Tools, Scholar's Pack and 30 SP or <br>**(B)** 1.250 SP |
+> *A Magical Crafter and an Inventor of Wonders*
 
 Masters of unlocking magic in everyday objects, Artificers are supreme inventors. They see magic as a complex system waiting to be decoded and controlled. Artificers use tools to channel arcane power, crafting magical objects. To cast a spell, an Artificer could use alchemist's supplies to create a potent elixir, calligrapher's supplies to inscribe a sigil of power on an ally's armour, or tinker's tools to craft a temporary charm. The magic of Artificers is tied to their tools and their talents.
+
+??? info "Core Artificer Traits"
+
+    **Primary Ability:** :ability-int: Intelligence
+
+    **Hit Point Die:** D8 per Artificer level  
+    **HP at Level 1:** 8 + :ability-cons: Con. modifier  
+    **HP per Artificer Level:** 5 + :ability-cons: Con. modifier
+
+    **Saving Throw Proficiencies:** :ability-cons: Constitution and :ability-int: Intelligence
+
+    **Skill Proficiencies:** Choose 2: Arcana, History, Investigation, Medicine, Nature, Perception, or Sleight of Hand.
+
+    **Weapon Proficiencies:** Simple weapons
+
+    **Tool Proficiencies:** Thieves' Tools, Tinker's Tools and choose 1 type of Artisan's Tools.
+
+    **Armour Training:** Light and Medium armour and Shields
+
+    **Starting Equipment:** Choose **A** or **B**:  
+    **(A)** Studded Leather Armor, Dagger, Thieves’ Tools, Tinker’s Tools, Dungeoneer’s Pack, and 160 SP; or  
+    **(B)** 1.500 SP
 
 ## Becoming a Artificer...
 
 ### As a Level 1 Character
+
+As a Level 1 Character you gain the following:
 
 - Gain all the traits in the Core Artificer Traits table.
 - Gain the Artificer's level 1 features, which are listed in the Artificer Features table.
@@ -48,7 +59,7 @@ As a Artificer, you gain the following class features when you reach the specifi
 
 ##### Artificer Feature Table
 
-| Level | PB | Features | Infusions Known (Infused Items) | Cantrips Known | Spells Prepared | I | II | III | IV | V |
+| Level | PB | Features | Infusions Known <br>(Infused Items) | Cantrips Known | Spells Prepared | I | II | III | IV | V |
 |:-:|:-:|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 1 | +2 | [Arcane Tinkerer](#level-1-arcane-tinkerer), [Spellcasting](#level-1-spellcasting) | - | 2 | 2 | 2 | - | - | - | - |
 | 2 | +2 | Infuse Item | 4 (2) | 2 | 3 | 2 | - | - | - | - |

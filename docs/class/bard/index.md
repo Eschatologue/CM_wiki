@@ -11,22 +11,7 @@ Bards know music is more than idle fancy - it is power. Through study and advent
 
 # Bard
 
-*Bards know music is more than idle fancy - it is power. Through study and adventure, these travelling troubadours master song, speech, and the magic within.*
-
-##### Core Bard Trait
-
-| Trait | Detail |
-|---|---|
-| **Primary Ability** | :ability-cha: Charisma |
-| **Hit Point Die** | D8 per Bard level |
-| **HP at Level 1** | 8 + :ability-cons: Con. modifier. |
-| **HP per Bard Level** | 5 + :ability-cons: Con. modifier |
-| **Saving Throw Proficiencies** | :ability-dex: Dexterity and :ability-cha: Charisma |
-| **Skill Proficiencies** | Choose any 3 [skills](../../gameplay/phb/proficiency.md#skill-list) |
-| **Weapon Proficiencies** | Simple weapons |
-| **Tool Proficiencies** | Choose 3 [Musical Instruments](../../equipment/tools/other-tools.md#musical-instrument) |
-| **Armour Training** | Light armour |
-| **Starting Equipment** | Choose **A** or **B**: <br>**(A)** Leather Armour, 2 Daggers, Musical Instrument of your choice, Entertainer's Pack, and 190 SP; or <br>**(B)** 900 SP |
+> *Bards know music is more than idle fancy - it is power. Through study and adventure, these travelling troubadours master song, speech, and the magic within.*
 
 Invoking magic through music, dance, and verse, Bards are expert at inspiring others, soothing hurts, disheartening foes, and creating illusions.
 Bards believe that the creators of the multiverse spoke and signed it into existence and that remnants of those Words of Creation still resound and glimmer on every plane of existence. The magic of Bards is an attempt to harness those words—which transcend any language—and direct them to create new wonders.
@@ -36,6 +21,29 @@ Because the Words of Creation resonate throughout the cosmos, different Bards ch
 Anything can inspire a new song or tale, so Bards are fascinated by almost everything. They have a wide-ranging knowledge of many subjects and develop an aptitude to do almost anything well. Bards become masters of many things, including performing music, working magic, and making jests.
 
 Not every singer or poet in a tavern or jester in a royal court is a Bard. Harnessing the Words of Creation requires hard work and some measure of natural talent that most troubadours and jongleurs lack. A Bard's life is spent wandering across the land gathering lore, telling stories, and living on the gratitude of audiences, much like any other entertainer. But Bards' depth of knowledge and mastery of magic sets them apart.
+
+??? info "Core Bard Trait"
+
+    **Primary Ability:** :ability-cha: Charisma  
+
+    **Hit Point Die:** D8 per Bard level  
+    **HP at Level 1:** 8 + :ability-cons: Con. modifier.  
+    **HP per Bard Level:** 5 + :ability-cons: Con. modifier  
+
+    **Saving Throw Proficiencies:** :ability-dex: Dexterity and :ability-cha: Charisma  
+
+    **Skill Proficiencies:** Choose any 3 [skills](../../gameplay/phb/proficiency.md#skill-list)  
+
+    **Weapon Proficiencies:** Simple weapons  
+
+    **Tool Proficiencies:** Choose 3 [Musical Instruments](../../equipment/tools/other-tools.md#musical-instrument)  
+
+    **Armour Training:** Light armour  
+
+    **Starting Equipment:** Choose **A** or **B**:  
+    **(A)** Leather Armour, 2 Daggers, Musical Instrument of your choice, Entertainer's Pack, and 190 SP; or  
+    **(B)** 900 SP  
+
 
 ## Becoming a Bard...
 

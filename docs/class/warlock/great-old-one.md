@@ -54,8 +54,4 @@ Your patron grants you the ability to manifest a part of itself. You always have
 
 In addition, the first time each turn the Aberration hits a creature under the effect of your *Hex*, the Aberration deals extra :dmg-psychic: Psychic damage to the target equal to the bonus damage of that spell.
 
---8<-- "includes/snippets/spells2/lv1.md"
---8<-- "includes/snippets/spells2/lv2.md"
---8<-- "includes/snippets/spells2/lv3.md"
---8<-- "includes/snippets/spells2/lv4.md"
---8<-- "includes/snippets/spells2/lv5.md"
+--8<-- "includes/snippets/spells2/lv0-5.md"

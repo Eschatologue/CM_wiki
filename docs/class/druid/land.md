@@ -53,12 +53,7 @@ As a Magic action, you can expend a use of your Wild Shape and cause spectral tr
 
 As a Bonus Action, you can move the Cube up to 60 feet to ground within 120 feet of yourself.
 
---8<-- "includes/snippets/spells2/lv0.md"
---8<-- "includes/snippets/spells2/lv1.md"
---8<-- "includes/snippets/spells2/lv2.md"
---8<-- "includes/snippets/spells2/lv3.md"
---8<-- "includes/snippets/spells2/lv4.md"
---8<-- "includes/snippets/spells2/lv5.md"
+--8<-- "includes/snippets/spells2/lv0-5.md"
 
 
 

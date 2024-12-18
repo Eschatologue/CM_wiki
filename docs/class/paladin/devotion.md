@@ -59,11 +59,7 @@ As a Bonus Action, you can imbue your Aura of Protection with holy power, granti
 
 ***Sunlight.*** The aura is filled with Bright Light that is sunlight.
 
---8<-- "includes/snippets/spells2/lv1.md"
---8<-- "includes/snippets/spells2/lv2.md"
---8<-- "includes/snippets/spells2/lv3.md"
---8<-- "includes/snippets/spells2/lv4.md"
---8<-- "includes/snippets/spells2/lv5.md"
+--8<-- "includes/snippets/spells2/lv0-5.md"
 
 
 

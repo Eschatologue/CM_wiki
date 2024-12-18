@@ -54,8 +54,4 @@ The Destruction has finally acknowledged your existence. You gain the following 
 
 ***Gravity's Domination.*** Whenever a creature you choose starts its turn within your Accretion Disk, you can force it to make a Strength saving throw against your spell save DC. On a failed save, it takes 2d10 :dmg-force: Force damage, and its Speed is reduced to 0 until the start of its next turn. On a successful save, it takes half as much damage, and every foot it moves this turn costs 2 extra feet of movement.
 
---8<-- "includes/snippets/spells2/lv1.md"
---8<-- "includes/snippets/spells2/lv2.md"
---8<-- "includes/snippets/spells2/lv3.md"
---8<-- "includes/snippets/spells2/lv4.md"
---8<-- "includes/snippets/spells2/lv5.md"
+--8<-- "includes/snippets/spells2/lv0-5.md"

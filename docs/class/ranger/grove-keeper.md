@@ -69,8 +69,4 @@ Once during your turn, You can command it to move up to 30 feet (No action requi
 
 Once you use this feature, you can't use it again until you finish a long rest. You can also restore your use of it by expending a level 4 spell slot.
 
---8<-- "includes/snippets/spells2/lv1.md"
---8<-- "includes/snippets/spells2/lv2.md"
---8<-- "includes/snippets/spells2/lv3.md"
---8<-- "includes/snippets/spells2/lv4.md"
---8<-- "includes/snippets/spells2/lv5.md"
+--8<-- "includes/snippets/spells2/lv0-5.md"

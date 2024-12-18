@@ -11,21 +11,7 @@ Wizards master the arcane by specialising in individual schools of magic, combin
 
 # Wizard
 
-*Wizards master the arcane by specialising in individual schools of magic, combining ancient spells with modern research.*
-
-##### Core Wizard Trait
-
-| Trait | Detail |
-|---|---|
-| **Primary Ability** | Intelligence |
-| **Hit Point Die** | D6 per Wizard level |
-| **HP at Level 1** | 6 + :ability-cons: Con. modifier. |
-| **HP per Wizard Level** | 4 + :ability-cons: Con. modifier |
-| **Saving Throw Proficiencies** | :ability-int: Intelligence and :ability-wis: Wisdom |
-| **Skill Proficiencies** | Choose 2: Arcana, History, Insight, Investigation, Medicine, Nature, or Religion |
-| **Weapon Proficiencies** | Simple weapons |
-| **Armour Training** | None |
-| **Starting Equipment** | Choose A or B: <br>**(A)** 2 Daggers, Arcane Focus (Quarterstaff), Robe, Spellbook, Scholar's Pack, and 5 GP; or <br>**(B)** 55 GP |
+> *Wizards master the arcane by specialising in individual schools of magic, combining ancient spells with modern research.* 
 
 Wizards are defined by their exhaustive study of magic's inner workings. They cast spells of explosive fire, arcing lightning, subtle deception, and spectacular transformations. Their magic conjures monsters from other planes of existence, glimpses the future, or forms protective barriers. Their mightiest spells change one substance into another, call meteors from the sky, or open portals to other worlds.
 
@@ -35,9 +21,31 @@ The closest a Wizard is likely to come to an ordinary life is working as a sage 
 
 But the lure of knowledge calls even the most unadventurous Wizards from the safety of their libraries and laboratories and into crumbling ruins and lost cities. Most Wizards believe that their counterparts in ancient civilizations knew secrets of magic that have been lost to the ages, and discovering those secrets could unlock the path to a power greater than any magic available in the present age.
 
+??? info "Core Wizard Trait"
+
+    **Primary Ability:** :ability-INT: Intelligence  
+
+    **Hit Point Die:** D6 per Wizard level  
+    **HP at Level 1:** 6 + :ability-cons: Con. modifier.  
+    **HP per Wizard Level:** 4 + :ability-cons: Con. modifier  
+
+    **Saving Throw Proficiencies:** :ability-int: Intelligence and :ability-wis: Wisdom  
+
+    **Skill Proficiencies:** Choose 2: Arcana, History, Insight, Investigation, Medicine, Nature, or Religion  
+
+    **Weapon Proficiencies:** Simple weapons  
+    
+    **Armour Training:** None  
+
+    **Starting Equipment:** Choose A or B:  
+    **(A)** 2 Daggers, Arcane Focus (Quarterstaff), Robe, Spellbook, Scholar's Pack, and 50 SP; or  
+    **(B)** 550 SP 
+
 ## Becoming a Wizard...
 
 ### As a Level 1 Character
+
+As a Level 1 Character you gain the following:
 
 - Gain all the traits in the Core Wizard Traits table.
 - Gain the Wizard's level 1 features, which are listed in the Wizard Features table.

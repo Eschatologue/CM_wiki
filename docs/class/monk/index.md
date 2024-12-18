@@ -11,22 +11,7 @@ Some reach enlightenment by languid meditation - others do so in the heat of bat
 
 # Monk
 
-*Some reach enlightenment by languid meditation - others do so in the heat of battle. Monks manipulate ki to empower their own strikes and debilitate their foes.*
-
-##### Core Monk Trait
-
-| Trait | Detail |
-|---|---|
-| **Primary Ability** | :ability-dex: Dexterity and :ability-wis: Wisdom |
-| **Hit Point Die** | D8 per Monk level |
-| **HP at Level 1** | 8 + :ability-cons: Con. modifier. |
-| **HP per Monk Level** | 5 + :ability-cons: Con. modifier |
-| **Saving Throw Proficiencies** | :ability-str: Strength and :ability-dex: Dexterity |
-| **Skill Proficiencies** | Choose 2: Acrobatics, Athletics, History, Insight, Religion, or Stealth |
-| **Weapon Proficiencies** | Simple weapons and Martial weapons that have the Light property |
-| **Tool Proficiencies** | Choose one type of Artisan's Tools or Musical Instrument (see chapter 6) |
-| **Armour Training** | None |
-| **Starting Equipment** | Choose A or B: <br>**(A)** Spear, 5 Daggers, Artisan's Tools or Musical Instrument chosen for the tool proficiency above, Explorer's Pack, and 110 SP; or <br>**(B)** 500 SP |
+> *Some reach enlightenment by languid meditation - others do so in the heat of battle. Monks manipulate ki to empower their own strikes and debilitate their foes.*
 
 Monks use rigorous combat training and mental discipline to align themselves with the multiverse and tap into internal reservoirs of power. Different Monks conceptualize this power in various ways: as breath, energy, life force, essence, or self, for example. Whether channeled as a striking display of martial prowess or as a subtler focus of defense and speed, this power infuses all that a Monk does.
 
@@ -36,9 +21,33 @@ Many Monks find that a structured life of ascetic withdrawal from the mundane wo
 
 Monks generally view their adventures as personal tests of their physical and mental development. They are driven by a desire to accomplish a greater mission than merely slaying monsters and plundering treasure; they strive to hone themselves into living weapons.
 
+??? info "Core Monk Trait"
+
+    **Primary Ability:** :ability-dex: Dexterity and :ability-wis: Wisdom  
+
+    **Hit Point Die:** D8 per Monk level  
+
+    **HP at Level 1:** 8 + :ability-cons: Con. modifier  
+    **HP per Monk Level:** 5 + :ability-cons: Con. modifier  
+    **Saving Throw Proficiencies:** :ability-str: Strength and :ability-dex: Dexterity  
+
+    **Skill Proficiencies:** Choose 2: Acrobatics, Athletics, History, Insight, Religion, or Stealth  
+
+    **Weapon Proficiencies:** Simple weapons and Martial weapons that have the Light property  
+
+    **Tool Proficiencies:** Choose one type of Artisan's Tools or Musical Instrument (see chapter 6)  
+
+    **Armour Training:** None  
+
+    **Starting Equipment:** Choose A or B:  
+    **(A)** Spear, 5 Daggers, Artisan's Tools or Musical Instrument chosen for the tool proficiency above, Explorer's Pack, and 110 SP; or  
+    **(B)** 500 SP |
+
 ## Becoming a Monk...
 
 ### As a Level 1 Character
+
+As a Level 1 Character you gain the following:
 
 - Gain all the traits in the Core Monk Traits table.
 - Gain the Monk's level 1 features, which are listed in the Monk Features table.

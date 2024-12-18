@@ -11,21 +11,7 @@ The strong embrace the wild that hides inside - keen instincts, primal physicali
 
 # Barbarian
 
-*The strong embrace the wild that hides inside - keen instincts, primal physicality, and most of all, an unbridled, unquenchable rage.*
-
-##### Core Barbarian Trait
-
-| Trait | Detail |
-| --- | --- |
-| **Primary Ability** | :ability-str: Strength |
-| **Hit Point Die** | D12 per Barbarian level |
-| **HP at Level 1** | 12 + :ability-cons: Con. modifier. |
-| **HP per Barbarian Level** | 7 + :ability-cons: Con. modifier |
-| **Saving Throw Proficiencies** | :ability-str: Strength and :ability-cons: Constitution |
-| **Skill Proficiencies** | Choose 2: Animal Handling, Athletics, Intimidation, Nature, Perception, or Survival |
-| **Weapon Proficiencies** | Simple and Martial weapons |
-| **Armour Training** | Light and Medium armour and Shields |
-| **Starting Equipment** | Choose **A** or **B**: <br>**(A)** Greataxe, 4 Handaxes, Explorer's Pack, and 150 SP; or <br>**(B)** 750 SP   |
+> *The strong embrace the wild that hides inside - keen instincts, primal physicality, and most of all, an unbridled, unquenchable rage.*
 
 Barbarians are mighty warriors who are powered by primal forces of the multiverse that manifest as a Rage. More than a mere emotion—and not limited to anger—this Rage is an incarnation of a predator's ferocity, a storm's fury, and a sea's turmoil.
 
@@ -33,9 +19,31 @@ Some Barbarians personify their Rage as a fierce spirit or revered forebear. Oth
 
 Barbarians often serve as protectors and leaders in their communities. They charge headlong into danger so those under their protection don't have to. Their courage in the face of danger makes Barbarians perfectly suited for adventure.
 
+??? info "Core Barbarian Trait"
+
+    **Primary Ability:** :ability-str: Strength
+
+    **Hit Point Die:** D12 per Barbarian level  
+    **HP at Level 1:** 12 + :ability-cons: Con. modifier  
+    **HP per Barbarian Level:** 7 + :ability-cons: Con. modifier  
+
+    **Saving Throw Proficiencies:** :ability-str: Strength and :ability-cons: Constitution
+
+    **Skill Proficiencies:** Choose 2: Animal Handling, Athletics, Intimidation, Nature, Perception, or Survival
+
+    **Weapon Proficiencies:** Simple and Martial weapons
+
+    **Armour Training:** Light and Medium armour and Shields
+
+    **Starting Equipment:** Choose **A** or **B**:  
+    **(A)** Greataxe, 4 Handaxes, Explorer's Pack, and 150 SP; or  
+    **(B)** 750 SP  
+
 ## Becoming a Barbarian...
 
 ### As a Level 1 Character
+
+As a Level 1 Character you gain the following:
 
 - Gain all the traits in the Core Barbarian Traits table.
 - Gain the Barbarian's level 1 features, which are listed in the Barbarian Features table.
@@ -207,6 +215,6 @@ You gain an [Epic Boon feat](../../option/feat/feat-boon.md) or another feat of 
 
 ### Level 20: Primal Champion
 
-You embody primal power. Your :ability-str: Strength and :ability-con: Constitution scores increase by 4, to a maximum of 25.
+You embody primal power. Your :ability-str: Strength and :ability-cons: Constitution scores increase by 4, to a maximum of 25.
 
 --8<-- "includes/snippets/skills.md"
