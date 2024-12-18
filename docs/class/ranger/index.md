@@ -243,7 +243,7 @@ Your connection to the forces of nature grants you Blindsight with a range of 30
 
 ### Level 19: Epic Boon
 
-You gain an [Epic Boon feat](../../option/feat/feat-boon.md) or another feat of your choice for which you qualify. Boon of Dimensional Travel is recommended.
+You gain an [:option-feat-boon: Epic Boon](../../option/feat/feat-boon.md) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. Boon of Dimensional Travel is recommended.
 
 ### Level 20: Foe Slayer
 

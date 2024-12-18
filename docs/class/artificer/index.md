@@ -79,7 +79,7 @@ As a Artificer, you gain the following class features when you reach the specifi
 | 16 | +5 | Ability Score Improvement | 10 (5) | 4 | 12 | 4 | 3 | 3 | 2 | - |
 | 17 | +6 | - | 10 (5) | 4 | 14 | 4 | 3 | 3 | 3 | 1 |
 | 18 | +6 | Magic Item Master | 12 (6) | 4 | 14 | 4 | 3 | 3 | 3 | 1 |
-| 19 | +6 | Ability Score Improvement | 12 (6) | 4 | 15 | 4 | 3 | 3 | 3 | 2 |
+| 19 | +6 | Epic Boon | 12 (6) | 4 | 15 | 4 | 3 | 3 | 3 | 2 |
 | 20 | +6 | Soul of Artifice | 12 (6) | 4 | 15 | 4 | 3 | 3 | 3 | 2 |
 
 ### Level 1: Arcane Tinkerer 
@@ -227,6 +227,10 @@ Your skill with magic items deepens:
 Your mastery over magic items reaches its zenith.
 
 ***Six Attunements.*** You can attune to up to six magic items at once.
+
+### Level 19: Epic Boon
+
+You gain an [:option-feat-boon: Epic Boon](../../option/feat/feat-boon.md) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify.
 
 ### Level 20: Soul of Artifice
 

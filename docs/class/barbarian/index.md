@@ -211,7 +211,7 @@ If your total for a :d20-check: Strength check or :d20-save: Strength saving thr
 
 ### Level 19: Epic Boon
 
-You gain an [Epic Boon feat](../../option/feat/feat-boon.md) or another feat of your choice for which you qualify. Boon of Irresistible Offense is recommended.
+You gain an [:option-feat-boon: Epic Boon](../../option/feat/feat-boon.md) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. Boon of Irresistible Offense is recommended.
 
 ### Level 20: Primal Champion
 

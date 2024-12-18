@@ -223,7 +223,7 @@ Your Aura of Protection is now a 30-foot Emanation.
 
 ### Level 19: Epic Boon
 
-You gain an [:option-feat-boon: Epic Boon feat](../../option/feat/feat-boon.md) or another feat of your choice for which you qualify. Boon of Truesight is recommended.
+You gain an [:option-feat-boon: Epic Boon feat](../../option/feat/feat-boon.md) or another [feat](../../option/feat/index.md) of your choice for which you qualify. Boon of Truesight is recommended.
 
 --8<-- "includes/snippets/skills.md"
 

@@ -29,15 +29,15 @@ You have proficiency with these weapons if you don't already have it and you can
 
 You also gain the following benefits:
 
-***Masterful Aim.*** As a Bonus Action you can focus your spirit to increase your accuracy. For the next Wuxia Weapon attack roll you make before the start of your next turn, you can treat a d20 roll of 7 or lower as an 8. You can spend 2 Focus Point to instead treat that d20 roll of 9 or lower as a 10.
+***Masterful Aim.*** As a Bonus Action you can focus your spirit to increase your accuracy. For the next Wuxia Weapon attack roll you make before the start of your next turn, you can treat a d20 roll of 7 or lower as an 8. You can spend 2 :class-phb24-monk: **Focus Point** to instead treat that d20 roll of 9 or lower as a 10.
 
-***Masterful Parry.*** While you are wielding a melee Wuxia Weapon and a creature you can see hits you with a melee attack, you can take a :rsc-r: Reaction to add your Wisdom modifier (minimum of +1) to your Armour Class against that attack. If the Attack misses, you can spend 2 Focus Point to make a melee attack against the creature that attacks you as part of the same Reaction.
+***Masterful Parry.*** While you are wielding a melee Wuxia Weapon and a creature you can see hits you with a melee attack, you can take a :rsc-r: Reaction to add your Wisdom modifier (minimum of +1) to your Armour Class against that attack. If the Attack misses, you can spend 2 :class-phb24-monk: **Focus Point** to make a melee attack against the creature that attacks you as part of the same Reaction.
 
 ### Level 6: One with the Steel
 
 Your focus empowers your Wuxia weapons, granting you the following benefits.
 
-***Deft Strike.*** Once per turn, when you hit a creature with a Wuxia weapon, you can spend 1 Focus Point to deal additional damage equal to a roll of your Martial Arts die.
+***Deft Strike.*** Once per turn, when you hit a creature with a Wuxia weapon, you can spend 1 :class-phb24-monk: **Focus Point** to deal additional damage equal to a roll of your Martial Arts die.
 
 ***Magic Wuxia Weapons.*** When you attack with a Wuxia weapon, you can choose to deal the weapon's damage type or Force damage.
 
@@ -45,11 +45,11 @@ Your focus empowers your Wuxia weapons, granting you the following benefits.
 
 ### Level 11: Soul of the Blade
 
-As a Bonus Action, you can touch one of your Wuxia Weapons and infuse it with 1 to 3 Focus Points to reduce the number you need to roll for critical hit an amount equal to the number of Focus Points expended.
+As a Bonus Action, you can touch one of your Wuxia Weapons and infuse it with 1 to 3 :class-phb24-monk: **Focus Points** to reduce the number you need to roll for critical hit an amount equal to the number of :class-phb24-monk: **Focus Points** expended.
 
-For example, if you infused a normal weapon with 3 Focus Point, its attacks would score a critical hit on a roll of 17-20 on the d20.
+For example, if you infused a normal weapon with 3 :class-phb24-monk: **Focus Point**, its attacks would score a critical hit on a roll of 17-20 on the d20.
 
-This bonus is only usable by you and it lasts for 1 minute. It ends early if you imbue your Focus Point into another weapon.
+This bonus is only usable by you and it lasts for 1 minute. It ends early if you imbue your :class-phb24-monk: **Focus Point** into another weapon.
 
 ### Level 17: Master of Armaments
 

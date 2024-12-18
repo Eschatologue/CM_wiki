@@ -20,7 +20,7 @@ You have attuned yourself with the elemental forces of the multiverse. You know 
 
 ### Level 3: Elemental Attunement
 
-At the start of your turn, you can spend 1 Focus Point to imbue yourself with elemental energy. The energy lasts for 10 minutes or until you have the Incapacitated condition. You gain the following benefits for the duration:
+At the start of your turn, you can spend 1 :class-phb24-monk: **Focus Point** to imbue yourself with elemental energy. The energy lasts for 10 minutes or until you have the Incapacitated condition. You gain the following benefits for the duration:
 
 ***Reach.*** When you make an [Unarmed Strike], your reach is 10 feet greater than normal, as elemental energy extends from you.
  
@@ -28,7 +28,7 @@ At the start of your turn, you can spend 1 Focus Point to imbue yourself with el
 
 ### Level 6: Environmental Burst
 
-As a Magic action, you can spend 2 Focus Points to cause environmental energy to burst in a 20-foot-radius sphere centered on a point within 120 feet of yourself. Choose a damage type :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-lightning: Lightning or :dmg-thunder: Thunder.
+As a Magic action, you can spend 2 :class-phb24-monk: **Focus Points** to cause environmental energy to burst in a 20-foot-radius sphere centered on a point within 120 feet of yourself. Choose a damage type :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-lightning: Lightning or :dmg-thunder: Thunder.
 
 Each creature in the sphere must make a Dexterity saving throw. On a failed save, a creature takes damage of the chosen type equal to three rolls of your Martial Arts die. On a successful save, a creature takes half as much damage.
 

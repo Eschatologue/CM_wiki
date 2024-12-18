@@ -159,7 +159,7 @@ Whenever you gain a Warlock level, you can replace one of your arcanum spells wi
 
 ### Level 19: Epic Boon
 
-You gain an [Epic Boon feat](../../option/feat/feat-boon.md) or another feat of your choice for which you qualify. Boon of Fate is recommended.
+You gain an [:option-feat-boon: Epic Boon](../../option/feat/feat-boon.md) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. Boon of Fate is recommended.
 
 ### Level 20: Eldritch Master
 

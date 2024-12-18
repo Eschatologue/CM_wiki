@@ -32,9 +32,9 @@ The Wu Jen Features table shows how many spell slots you have to cast your Wu Je
 
 You can draw upon your Ki to augment and regain your elemental powers. 
 
-***Changing Cantrip.*** As a Bonus Action you can expend 1 Focus Points to replace one of this feature's cantrips with another cantrip of your choice from the Wu Jen spell list.
+***Changing Cantrip.*** As a Bonus Action you can expend 1 :class-phb24-monk: **Focus Points** to replace one of this feature's cantrips with another cantrip of your choice from the Wu Jen spell list.
 
-***Restoring Spell Slots.*** As a Bonus Action on your turn, you can expend a number of Focus Points equal to your Spell Slot Level to regain one of your expended Wu Jen spell slots.
+***Restoring Spell Slots.*** As a Bonus Action on your turn, you can expend a number of :class-phb24-monk: **Focus Points** equal to your Spell Slot Level to regain one of your expended Wu Jen spell slots.
 
 ##### Wu Jen Spellcasting
 
@@ -86,7 +86,7 @@ When you take the Attack action to attack with a Monk Weapon or an [Unarmed Stri
 
 When you do, your reach for that attack increases by 5 feet, and on hit, it deals the damage type dealt by the cantrip, and applies the cantrip additional effects on hit, except for damage. The cantrip itself does not deal damage.
 
-When you hit your target with an attack using this feature, you can spend 1 Focus Point to choose one of the following effects:
+When you hit your target with an attack using this feature, you can spend 1 :class-phb24-monk: **Focus Point** to choose one of the following effects:
 
 ***Forced Movement.*** You can move it 5 feet to an unoccupied space, provided the target is no more than one size larger than you.
 
@@ -96,7 +96,7 @@ When you hit your target with an attack using this feature, you can spend 1 Focu
 
 ### Level 11: Spiritual Flow
 
-You weave your martial arts with spiritual magic. When you cast a Wu Jen spell with a casting time of an Action, you can expend 2 Focus Points to cast it as a Bonus Action instead. 
+You weave your martial arts with spiritual magic. When you cast a Wu Jen spell with a casting time of an Action, you can expend 2 :class-phb24-monk: **Focus Points** to cast it as a Bonus Action instead. 
 
 Moreover, when you start your turn and are Concentrating on a spell that you cast on yourself (such as *Haste*), you gain Temporary Hit Points equal to twice the level of that spell.
 
@@ -112,4 +112,4 @@ As a Bonus Action, you can draw all five elements into yourself to take on an El
 
 ***Forced Teleportation.*** Whenever you teleport with a Wu Jen feature or spell, you can touch a creature equal to you in size (or smaller) and teleport it with you (no action required). This includes grappled creatures.
 
-Your Elemental Form lasts for 1 minute, but it ends early if you have the Incapacitated condition or when you choose to end it (no action required). Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending 6 Focus Points (no action required).
+Your Elemental Form lasts for 1 minute, but it ends early if you have the Incapacitated condition or when you choose to end it (no action required). Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending 6 :class-phb24-monk: **Focus Points** (no action required).

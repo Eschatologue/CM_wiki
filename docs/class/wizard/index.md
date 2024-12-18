@@ -170,7 +170,7 @@ Whenever you finish a Long Rest, you can study your spellbook and replace one of
 
 ### Level 19: Epic Boon
 
-You gain an [Epic Boon feat](../../option/feat/feat-boon.md) or another feat of your choice for which you qualify. Boon of Spell Recall is recommended.
+You gain an [:option-feat-boon: Epic Boon](../../option/feat/feat-boon.md) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. Boon of Spell Recall is recommended.
 
 ### Level 20: Signature Spells
 

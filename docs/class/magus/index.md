@@ -80,7 +80,7 @@ As a Magus, you gain the following class features when you reach the specified M
 | 16 | +5 | Ability Score Improvement | 4 | 12 | 4 | 3 | 3 | 2 | — |
 | 17 | +6 | — | 4 | 14 | 4 | 3 | 3 | 3 | 1 |
 | 18 | +6 | — | 4 | 14 | 4 | 3 | 3 | 3 | 1 |
-| 19 | +6 | Ability Score Improvement | 4 | 15 | 4 | 3 | 3 | 3 | 2 |
+| 19 | +6 | Epic Boon | 4 | 15 | 4 | 3 | 3 | 3 | 2 |
 | 20 | +6 | Subclass Feature | 4 | 15 | 4 | 3 | 3 | 3 | 2 |
 
 ### Level 1: Arcane Armoury
@@ -177,7 +177,7 @@ You gain a Magus subclass of your choice. A subclass is a specialization that gr
 
 ### Level 4: Ability Score Improvement
 
-You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Magus level 8, 12, 16, and 19.
+You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Magus level 8, 12, and 16.
 
 ### Level 5: Extra Attack
 
@@ -227,6 +227,10 @@ This bonus damage must be the damage type dealt by a Magus spell you know, and i
 ### Level 14: Superior Spellsunder
 
 When a creature you can see within 30 feet is targeted by a spell you can see, you can take a Reaction to teleport to an unoccupied space within 5 feet of it and use your Spellsunder reaction against the triggering spell.
+
+### Level 19: Epic Boon
+
+You gain an [:option-feat-boon: Epic Boon](../../option/feat/feat-boon.md) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. Boon of Irresistible Offense is recommended.
 
 [Magus Spell List]: ../../spells/class-specific/magus.md
 [Spellstrike]: #level-2-spellstrike

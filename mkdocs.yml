@@ -359,7 +359,10 @@ nav:
         - Shadow: class/monk/shadow.md
         - Hand: class/monk/hand.md
         - Elements: class/monk/element.md
+        - Ascendant Dragon: class/monk/dragon.md
         - Astral Self: class/monk/astral.md
+        - Drunken Warrior: class/monk/drunken.md
+        - Sun Soul: class/monk/sun-soul.md
         - Wu Jen: class/monk/wu-jen.md
         - Wuxia: class/monk/wuxia.md
       - Magus:
