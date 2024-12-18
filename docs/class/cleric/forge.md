@@ -11,9 +11,9 @@ Create Divine Masterwork
 
 > *Create Divine Masterwork*
 
-The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithral have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can be transformed from a lump of ore to a beautifully wrought object. 
+The Forge Domain celebrates the mastery of craftsmanship and the power of creation. Whether it is the village smith fashioning tools of utility or a master artisan crafting legendary works, the forge represents dedication, patience, and the potential to shape raw materials into wonders.
 
-Clerics of these deities search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items. 
+Clerics of this domain strive to recover what has been lost to destruction, reclaim resources from hostile forces, and seek out rare and extraordinary materials to bring their creations to life, blending the mundane and the magical into objects of great purpose
 
 ### Level 3: Domain Spells
 
@@ -38,11 +38,15 @@ You gain the ability to imbue magic into a weapon or armour.
 
 ### Level 3: Artisan's Blessing
 
-You can use your Channel Divinity to create nonmagical metal items. Over an hour, you conduct a ritual to craft a metal-based item, such as a weapon, armour, ten pieces of ammunition, a set of tools, or another object containing metal. The item appears in an unoccupied space within 5 feet of you and cannot be worth more than 1.000 SP. To create it, you must provide metal of equal value, which can include coins, which is consumed during the ritual. You can even create a copy of a nonmagical metal item, like a key, if you have the original.
+You can use your :class-phb24-cleric: **Channel Divinity** to create nonmagical metal items. Over an hour, you conduct a ritual to craft a metal-based item, such as a weapon, armour, ten pieces of ammunition, a set of tools, or another object containing metal. The item appears in an unoccupied space within 5 feet of you and cannot be worth more than 1.000 SP. To create it, you must provide metal of equal value, which can include coins, which is consumed during the ritual. You can even create a copy of a nonmagical metal item, like a key, if you have the original.
 
 ### Level 6: Soul of the Forge
 
 Your mastery of the forge grants you special abilities. You have :dmg-res: Resistance to :dmg-fire: Fire damage and while wearing metal armour, you have a +1 bonus to your Armour Class.
+
+### Level 7: Burning Smite (Optional)
+
+Whenever you use *[Divine Strike (Blessed Strike)](index.md#level-7-blesssed-strike)* feature, you can change the damage type to :dmg-fire: Fire damage. 
 
 ### Level 17: Saint of Forge and Fire
 

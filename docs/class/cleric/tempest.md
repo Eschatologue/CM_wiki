@@ -30,17 +30,21 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 ### Level 3: Wrath of the Storm
 
-You can :dmg-thunder: thunderously rebuke attackers. When a creature within 5 feet of you that you can see hits you with an attack, you can use your :rsc-r: **Reaction** to force the creature to make a Dexterity save. On a failed save, the creature takes :dmg-lighting: Lightning or :dmg-thunder: Thunder (your choice) damage equal to 1d8 plus your Cleric level, or half as much damage on a successful save. 
+You can thunderously rebuke attackers. When a creature within 5 feet of you that you can see hits you with an attack, you can use your :rsc-r: **Reaction** to force the creature to make a Dexterity save. On a failed save, the creature takes :dmg-lightning: Lightning or :dmg-thunder: Thunder (your choice) damage equal to 1d8 plus your Cleric level, or half as much damage on a successful save. 
 
 You can use this feature a number of times equal to your Wisdom modifier (a minimum of 1). You regain all expended uses when you finish a Long Rest.
 
 ### Level 3: Destructive Wrath
 
-You can use your Channel Divinity to wield the power of the storm with unchecked ferocity. When you roll :dmg-lighting: Lightning or :dmg-thunder: Thunder damage, you can use your Channel Divinity to deal maximum damage, instead of rolling.
+You can use your :class-phb24-cleric: **Channel Divinity** to wield the power of the storm with unchecked ferocity. When you roll :dmg-lightning: Lightning or :dmg-thunder: Thunder damage, you can use your :class-phb24-cleric: **Channel Divinity** to deal maximum damage, instead of rolling.
 
 ### Level 6: Thunderous Strike
 
-When you deal :dmg-lighting: Lightning or :dmg-thunder: Thunder damage to a Large or smaller creature, you can also push it up to 10 feet away from you.
+When you deal :dmg-lightning: Lightning or :dmg-thunder: Thunder damage to a Large or smaller creature, you can also push it up to 10 feet away from you.
+
+### Level 7: Thundering Smite (Optional)
+
+Whenever you use *[Divine Strike (Blessed Strike)](index.md#level-7-blesssed-strike)* feature, you can change the damage type to either :dmg-lightning: Lightning or :dmg-thunder: Thunder damage. 
 
 ### Level 17: Stormborn
 

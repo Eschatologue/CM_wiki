@@ -33,7 +33,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 ### Level 3: Preserve Life
 
-As a Magic action, you present your Holy Symbol and expend a use of your Channel Divinity to evoke healing energy that can restore a number of Hit Points equal to five times your Cleric level. Choose Bloodied creatures within 30 feet of yourself (which can include you), and divide those Hit Points among them. This feature can restore a creature to no more than half its Hit Point maximum.
+As a Magic action, you present your Holy Symbol and expend a use of your :class-phb24-cleric: **Channel Divinity** to evoke healing energy that can restore a number of Hit Points equal to five times your Cleric level. Choose Bloodied creatures within 30 feet of yourself (which can include you), and divide those Hit Points among them. This feature can restore a creature to no more than half its Hit Point maximum.
 
 ### Level 6: Blessed Healer
 
@@ -41,6 +41,6 @@ The healing spells you cast on others heal you as well. Immediately after you ca
 
 ### Level 17: Supreme Healing
 
-When you would normally roll one or more dice to restore Hit Points to a creature with a spell or Channel Divinity, don't roll those dice for the healing; instead use the highest number possible for each die. For example, instead of restoring 2d6 Hit Points to a creature with a spell, you restore 12.
+When you would normally roll one or more dice to restore Hit Points to a creature with a spell or :class-phb24-cleric: **Channel Divinity**, don't roll those dice for the healing; instead use the highest number possible for each die. For example, instead of restoring 2d6 Hit Points to a creature with a spell, you restore 12.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"

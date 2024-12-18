@@ -16,7 +16,7 @@ Gods of the War Domain watch over warriors and reward them for their great deeds
 
 ### Level 3: Guided Strike
 
-When you or a creature within 30 feet of you misses with an attack roll, you can expend one use of your Channel Divinity and give that roll a +10 bonus, potentially causing it to hit. When you use this feature to benefit another creature's attack roll, you must take a Reaction to do so.
+When you or a creature within 30 feet of you misses with an attack roll, you can expend one use of your :class-phb24-cleric: **Channel Divinity** and give that roll a +10 bonus, potentially causing it to hit. When you use this feature to benefit another creature's attack roll, you must take a Reaction to do so.
 
 ### Level 3: War Domain Spells
 
@@ -37,7 +37,7 @@ As a Bonus Action, you can make one attack with a weapon or an Unarmed Strike, y
 
 ### Level 6: War God's Blessing
 
-You can expend one of your Channel Divinity to cast [:spell-lv1: Shield of Faith] or [:spell-lv2: Spiritual Weapon] rather than expending a spell slot. When you cast either spell in this way, the sepll doesn't require Concentration. Instead the spell lasts for 1 minute, but it ends earlt if you cast that spell again, have the Incapacitated condition, or die.
+You can expend one of your :class-phb24-cleric: **Channel Divinity** to cast [:spell-lv1: Shield of Faith] or [:spell-lv2: Spiritual Weapon] rather than expending a spell slot. When you cast either spell in this way, the sepll doesn't require Concentration. Instead the spell lasts for 1 minute, but it ends earlt if you cast that spell again, have the Incapacitated condition, or die.
 
 ### Level 17: Avatar of Battle
 

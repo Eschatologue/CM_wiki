@@ -23,9 +23,9 @@ As a Magic action, you can choose yourself or a willing creature within 30 feet 
 
 ### Level 3: Invoke Duplicity
 
-You can use your Channel Divinity to create an illusory duplicate of yourself.
+You can use your :class-phb24-cleric: **Channel Divinity** to create an illusory duplicate of yourself.
 
-As a Bonus Action, you can expend one use of your Channel Divinity to teleport up to 30 feet to an unoccupied space you can see, and you create a perfect visual illusion of yourself in the space you left. The illusion lasts for 1 minute, but it ends early if you have the Incapacitated condition or dismiss it as a Bonus Action.
+As a Bonus Action, you can expend one use of your :class-phb24-cleric: **Channel Divinity** to teleport up to 30 feet to an unoccupied space you can see, and you create a perfect visual illusion of yourself in the space you left. The illusion lasts for 1 minute, but it ends early if you have the Incapacitated condition or dismiss it as a Bonus Action.
 
 While the illusion persists, you gain the following benefits:
 
