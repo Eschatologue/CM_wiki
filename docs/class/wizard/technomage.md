@@ -1,5 +1,5 @@
 ---
-title: "Subclass: Technomancer (Wizard)"
+title: "Subclass: Technomage (Wizard)"
 status: adapted
 ---
 
@@ -7,7 +7,7 @@ status: adapted
 Pioneer the Forbidden Frontier
 </p>
 
-# Technomancer
+# Technomage
 
 > *Pioneer the Forbidden Frontier*
 
@@ -15,7 +15,7 @@ The rise of Albion as a superpower has ushered in an era of unparalleled innovat
 
 Technomancy is a controversial school of magic, seeking to fuse Albion's alien technology with the arcane; an act often decreed as a highest-degree of heresy. Practitioners of this art—technomages—are renegades, visionaries, and innovators. They are the ones who dare to dismantle the boundaries of the weave and redefine what magic can achieve.
 
-Each Technomancer walks a fine line between discovery and destruction, knowing that their path may either illuminate the future or doom it to chaos.
+Each Technomage walks a fine line between discovery and destruction, knowing that their path may either illuminate the future or doom it to chaos.
 
 ### Level 3: Advanced "Spellbook"
 
@@ -25,7 +25,7 @@ Your spellbook appearance changes into a cutting-edge gadget, replacing traditio
 
 ### Level 3: Out of Spells, not Shells
 
-*To master technomancy, you learn to balance magic and Cordite—a substance that rejects the Weave yet fuels Albion's firearms.*
+*To master technomancy, you learn to balance magic and Cordite—a substance that fuels Albion's firearms.*
 
 You gain proficiency with Short-Arms. When you reach level 10 in this class, you gain proficiency with Long-Arms.
 
@@ -61,7 +61,7 @@ You can use any of the following options, expending one use of this feature per 
 
 ***Accelerated Ritual.*** You can cast a Wizard spell as a ritual using its normal casting time, rather than adding 10 minutes.
 
-***Improved Potency.*** Choose a level 1 or 2 spell in your spellbook (it need not be prepared) with a casting time of an Action. When you cast this spell, it is treated as if cast using a spell slot one level higher.
+***Improved Potency.*** Choose a level 1 or 2 spell in your spellbook (it needn't to be prepared) with a casting time of an Action. When you cast this spell, it is treated as if cast using a spell slot one level higher.
 
 ***Replace Damage.*** When you cast a Wizard spell using a spell slot, you can replace its damage type with a type from another spell in your spellbook. The chosen spell must be of the same level as the slot you expend.
 
@@ -69,11 +69,11 @@ You can use any of the following options, expending one use of this feature per 
 
 *Your technological mastery allows you to enhance your control systems, enabling more complex operations with your drones.*
 
-***Extra Drone.*** At the end of a Long Rest, you can construct and control an additional drone. Both drones act on your turn, sharing the same Initiative count and following the same rules as your original drone.
+***Extra Drone.*** At the end of a Long Rest, you can construct and control an additional drone. Both drones act on your turn, sharing the same Initiative count and following the same rules as your original drone. You can use the same Bonus Action to control both drones.
 
 ***Intercept Attack.*** When you are hit by an attack roll, you can use your Reaction to command a drone within 60 feet of you to intercept it. The drone immediately moves to an unoccupied space within 10 feet of you, and the attack is redirected to target the drone instead. You avoid all damage and effects associated with the attack.
 
-***Emulate Concentration.*** When you cast a Wizard spell that requires concentration on your turn using the ***Spellcasting Module*** subfeature, you can make the drone concentrate on it instead of you instead. Though the drone has :d20-disadv: Disadvantage on the save it makes to maintain concentration and the spell duration is halved.
+***Emulate Concentration.*** When you cast a Wizard spell that requires concentration on your turn using the ***Spellcasting Module*** subfeature, you can make the drone concentrate on it instead of you. Though the drone has :d20-disadv: Disadvantage on the save it makes to maintain concentration and the spell duration is halved.
 
 !!! statblock "Drone"
 

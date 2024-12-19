@@ -300,6 +300,7 @@ nav:
         - Graviturgist: class/wizard/graviturgist.md
         - War Mage: class/wizard/war-mage.md
         - Hedge Mage: class/wizard/hedge-mage.md
+        - Technomage: class/wizard/technomage.md
     - Priest Group:
       - Cleric:
         - class/cleric/index.md

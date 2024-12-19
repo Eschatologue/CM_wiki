@@ -91,7 +91,7 @@ As a student of arcane magic, you have learned to cast spells. See chapter 7 for
 
 #### Cantrips
 
-You know three Wizard cantrips of your choice. Light, Mage Hand, and Ray of Frost are recommended. Whenever you finish a Long Rest, you can replace one of your cantrips from this feature with another Wizard cantrip of your choice.
+You know three Wizard cantrips of your choice. [:spell-lv0: Light], [:spell-lv0: Mage Hand], and [:spell-lv0: Ray of Frost] are recommended. Whenever you finish a Long Rest, you can replace one of your cantrips from this feature with another Wizard cantrip of your choice.
 
 When you reach Wizard levels 4 and 10, you learn another Wizard cantrip of your choice, as shown in the Cantrips column of the Wizard Features table.
 
@@ -99,7 +99,7 @@ When you reach Wizard levels 4 and 10, you learn another Wizard cantrip of your 
 
 Your wizardly apprenticeship culminated in the creation of a unique book: your spellbook. It is a Tiny object that weighs 3 pounds, contains 100 pages, and can be read only by you or someone casting Identify. You determine the book's appearance and materials, such as a gilt-edged tome or a collection of vellum bound with twine.
 
-The book contains the level 1+ spells you know. It starts with six level 1 Wizard spells of your choice. Detect Magic, Feather Fall, Mage Armour, Magic Missile, Sleep, and Thunderwave are recommended.
+The book contains the level 1+ spells you know. It starts with six level 1 Wizard spells of your choice. [:spell-lv1: Detect Magic], [:spell-lv1: Feather Fall], [:spell-lv1: Mage Armour], [:spell-lv1: Magic Missile], [:spell-lv1: Sleep], and [:spell-lv1: Thunderwave] are recommended.
 
 Whenever you gain a Wizard level after 1, add two Wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown in the Wizard Features table. The spells are the culmination of arcane research you do regularly.
 
@@ -116,11 +116,12 @@ The number of spells on your list increases as you gain Wizard levels, as shown 
 If another Wizard feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Wizard spells for you.
 
 #### Changing Your Prepared Spells
+
 Whenever you finish a Long Rest, you can change your list of prepared spells, replacing any of the spells there with spells from your spellbook.
 
 #### Spellcasting Ability
 
-Intelligence is your spellcasting ability for your Wizard spells.
+:ability-int: **Intelligence** is your spellcasting ability for your Wizard spells.
 
 #### Spellcasting Focus
 
@@ -176,4 +177,8 @@ You gain an [:option-feat-boon: Epic Boon](../../option/feat/feat-boon.md) feat 
 
 Choose two level 3 spells in your spellbook as your signature spells. You always have these spells prepared, and you can cast each of them once at level 3 without expending a spell slot. When you do so, you can't cast them in this way again until you finish a Short or Long Rest. To cast either spell at a higher level, you must expend a spell slot.
 
---8<-- "includes/snippets/skills.md"
+--8<-- 
+includes/snippets/skills.md
+includes/snippets/spells2/lv0.md
+includes/snippets/spells2/lv1.md
+--8<-- 
