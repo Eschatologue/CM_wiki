@@ -7,7 +7,7 @@ status: homebrew
 Unleash Pure, Unfiltered, Arcane Power
 </p>
 
-# Voidwielder
+# Arcane Soul
 
 > *Unleash Pure, Unfiltered, Arcane Power*
 

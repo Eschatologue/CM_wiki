@@ -7,7 +7,7 @@ status: adapted
 Unleash the Radiant Power of the Moon
 </p>
 
-# Stone Sorcery
+# Lunar Sorcery
 
 > *Unleash the Radiant Power of the Moon*
 
@@ -23,7 +23,7 @@ Your connection to your current Lunar Phase ensures you have certain spells read
 
 | Sorcerer Level | Full Moon Spells | New Moon Spells | Crescent Moon Spells |
 |:-:|---|---|---|
-| 3 | [:spell-lv2: Lesser Restoration], [:spell-lv1: hield] | [:spell-lv2: Blindness/Deafness], [:spell-lv1: Ray of Sickness] | [:spell-lv2: Alter Self], [:spell-lv1: Color Spray] |
+| 3 | [:spell-lv2: Lesser Restoration], [:spell-lv1: Shield] | [:spell-lv2: Blindness/Deafness], [:spell-lv1: Ray of Sickness] | [:spell-lv2: Alter Self], [:spell-lv1: Color Spray] |
 | 5 | [:spell-lv3: Dispel Magic] | [:spell-lv3: Vampiric Touch] | [:spell-lv3: Phantom Steed] |
 | 7 | [:spell-lv4: Death Ward] | [:spell-lv4: Confusion] | [:spell-lv4: Hallucinatory Terrain] |
 | 9 | [:spell-lv5: Rary's Telepathic Bond] | [:spell-lv5: Hold Monster] | [:spell-lv5: Mislead] |
