@@ -13,8 +13,6 @@ Protect the Sacred Grove
 
 Grove Keepers are protectors of ancient forests and sacred sites. Their deep connection with the natural world allows them to tap into primal and spiritual magic, helping them fend off those who dare desecrate their lands.
 
-> Written by Drowny
-
 ### Level 3: Natural Bond
 
 Your bond with the natural world gives you the following benefits:
@@ -70,3 +68,5 @@ Once during your turn, You can command it to move up to 30 feet (No action requi
 Once you use this feature, you can't use it again until you finish a long rest. You can also restore your use of it by expending a level 4 spell slot.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
+
+###### :material-book-edit: Written by *Drowny*

@@ -79,3 +79,5 @@ As a Bonus Action, you can tap into a special power of your current Lunar Embodi
 Once you use one of these benefits, you can't use that benefit again until you finish a Long Rest, unless you spend 5 Sorcery Points to use it again.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
+
+###### :material-book-arrow-up: Updated by *Spaghetti0*

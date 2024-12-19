@@ -11,7 +11,6 @@ Union of Flesh and Steel
 
 > *Union of Flesh and Steel*
 
-
 What does it mean to be truly natural? Can a being made of wood and steel possess the spark of life? Druids of the Circle of the Forged challenge these boundaries, embracing the fusion of living creatures and machines. This circle represents a radical sect of druids who are deeply devoted to Valinor's generator-which they revere as the new form of the Tree of Life. In their quest for greater attunement with their Omnissiah, whom they see as the embodiment of Harmony, they have replaced their own organic parts with mechanical augmentations.
 
 ### Level 3: Caretaker of Irminsul
@@ -57,3 +56,5 @@ While you are in Wild Shape form, you gain Resistance to :dmg-bldg: Bludgeoning,
 While you are in Wild Shape form, you are immune to conditions such as: Charmed, Frightened, Paralyzed, Petrified, and Poisoned. In addition, you have Immunity to :dmg-poison: Poison damage.
 
 --8<-- "includes/snippets/spells2/lv0.md"
+
+###### :material-book-arrow-up: Updated by *Eschatologue*

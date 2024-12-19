@@ -46,3 +46,5 @@ Your mind has become a bastion of reason and self-rightousness, giving you the f
 ***Saving Throw Bonus.*** You gain bonus to your Intelligence and Wisdom saving throw equals to your Charisma modifier.
 
 ***Psychic Retort.*** When you cast a spell that deals :dmg-psychic: Psychic damage, it deals extra damage equals to your Charisma modifier.
+
+###### :material-book-edit: Written by *Eschatologue*

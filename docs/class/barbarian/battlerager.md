@@ -48,3 +48,5 @@ Once per turn, while your Rage is active and you have one or more creatures Grap
 ***Roundhouse Sweep.*** You spin one of the Grappled creatures around you. Each creature within 10 feet of you must make a Dexterity saving throw (DC equal to 8 plus your Proficiency Bonus plus your Strength modifier). On a failed save, a creature takes 3d8 :dmg-bldg: Bludgeoning damage and is pushed 10 feet away from you. The Grappled creature takes 2d8 :dmg-bldg: Bludgeoning damage.
 
 ***Seismic Toss.*** You throw one of the Grappled creatures at a target you can see within 20 feet of you. The Grappled creature and the target make a Strength save (DC equal to 8 plus your Proficiency Bonus plus your Strength modifier). On a failed save, a creature takes 2d8 :dmg-bldg: Bludgeoning damage and has the Prone condition.
+
+###### :material-book-arrow-up: Updated by *PerfectlyCircularSeal* 

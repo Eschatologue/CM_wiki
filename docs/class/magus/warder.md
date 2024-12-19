@@ -11,7 +11,6 @@ Become a Shield for your Ally
 
 > *Become a Shield for your Ally*
 
-
 Magi who join the Order of Warders almost always do so for noble reasons. Combing their talent for the arcane with their signature style of defensive combat to serve as guardians for mages, nobles, and other important figures. While they are ultimately loyal to their Order, Warders make fierce friends and will stand side by side with their allies against any foe.
 
 ### Level 3: Warder Spell
@@ -63,3 +62,5 @@ At the end of each Long Rest, you can bond up to five willing creatures as your 
 Also, when you use your Warder's Bond Reaction because your Ward was targeted by a spell, you can use Spellsunder as part of the same Reaction. When you do so, you have advantage on your Spellsunder attack roll. If your Spellsunder fails, you can still use Arcane Aegis to reduce the damage.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
+
+###### :material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*

@@ -43,3 +43,5 @@ You gain the ability to make an overwhelming number of attacks against a group o
 [Flurry of Blows]: index.md#flurry-of-blows
 
 --8<-- "includes\snippets\spells2\lv3.md"
+
+###### :material-book-arrow-up: Updated by *PerfectlyCircularSeal*

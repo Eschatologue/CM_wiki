@@ -92,3 +92,5 @@ While on the Ethereal Plane, you perceive the Material Plane in shades of grey a
 Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending 3 Threadling Dice (no action required).
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
+
+###### :material-book-edit: Written by *Eschatologue*

@@ -9,7 +9,7 @@ Exert Mastery over the Laws of Attraction
 
 # Graviturgist
 
-> *Exert Mastery over the Laws of Attraction - Updated by PerfectlyCircularSeal*
+> *Exert Mastery over the Laws of Attraction*
 
 Understanding and mastering the forces that draw bodies of matter together or drive them apart, the students of the Graviturgy arcane tradition learn to further bend and manipulate the violent energy of gravity to their benefit, and the terrible detriment of their enemies.
 
@@ -17,9 +17,7 @@ Understanding and mastering the forces that draw bodies of matter together or dr
 
 *You studied the natural laws of attraction.*
 
-Choose two Wizard spells from the Dunamancy spells table, each of which must be no higher than level 2, and add them to your spellbook for free.
-
-In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Dunamancy spells table to your spellbook for free. The chosen spell must be of a level for which you have spell slots.
+The spells in Dunamancy Spells Table are added to your class spell list.
 
 ##### Dunamancy Spells
 
@@ -62,3 +60,5 @@ You can use this feature a number of times equal to your Intelligence modifier (
 As a Magic action, you can emit a powerful field of gravitational energy that tugs at other creatures for up to 1 minute or until your Concentration ends (as if you were Concentrating on a spell). For the duration, whenever a creature hostile to you starts its turn within 30 feet of you, it must make a Strength saving throw against your spell save DC. On a failed save, it takes 2d10 Force damage, and its Speed is reduced to 0 until the start of its next turn. On a successful save, it takes half as much damage, and every foot it moves this turn costs 2 extra feet of movement.
 
 Once you use this feature, you can't do so again until you finish a Long Rest or until you expend a spell slot of level 3 or higher to use it again.
+
+###### :material-book-arrow-up: Updated by *PerfectlyCircularSeal* :material-book-arrow-up: Modified by *Eschatologue*

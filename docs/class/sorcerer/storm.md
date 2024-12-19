@@ -22,7 +22,7 @@ Your connection to the storm ensures you always have certain spells ready; when 
 ##### Storm Spells
 
 | Sorcerer Level | Spells |
-|---|---|
+|:-:|---|
 | 3 | [:spell-lv1: Fog Cloud], [:spell-lv2: Gust of Wind], [:spell-lv1: Thunderwave], [:spell-lv2: Warding Wind] |
 | 5 | [:spell-lv3: Call Lightning], [:spell-lv3: Sleet Storm] |
 | 7 | [:spell-lv4: Storm Sphere], [:spell-lv4: Ice Storm] |
@@ -67,3 +67,5 @@ The storm inside of you becomes more powerful.
 ***Blessing of the Tempest.*** As a Magic action, you can reduce your Fly Speed to 30 feet for 1 hour and choose a number of creatures within 30 feet of you equal to 3 + your Charisma modifier. The chosen creatures gain a Fly Speed of 30 feet for 1 hour. Once you use this feature, you can’t use it again until you finish a Short or Long Rest.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
+
+###### :material-book-arrow-up: Updated by *Spaghetti0* and *PerfectlyCircularSeal*

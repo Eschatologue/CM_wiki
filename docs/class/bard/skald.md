@@ -48,3 +48,5 @@ When you roll Initiative, you can expend one use of your Bardic Inspiration. You
 Whenever you hit with a weapon attack you deal bonus :dmg-thunder: Thunder damage on hit equal to your Bardic Die. This roll doesn't expend the die.
 
 Moreover, when a creature that has a Bardic Inspiration die from you uses it for a D20 Test, that creature gains Temporary Hit Points equals to the number rolled.
+
+###### :material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*

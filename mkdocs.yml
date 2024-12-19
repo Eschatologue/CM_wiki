@@ -331,7 +331,9 @@ nav:
         - Glory: class/paladin/glory.md
         - The Ancient: class/paladin/ancient.md
         - Vengeance: class/paladin/vengeance.md
+        - Conquest: class/paladin/conquest.md
         - The Crown: class/paladin/crown.md
+        - Watchers: class/paladin/watchers.md
         - Oathbreaker: class/paladin/oathbreaker.md
         - Bastion: class/paladin/bastion.md
         - The Blade: class/paladin/blade.md
@@ -346,7 +348,6 @@ nav:
         - Battlerager: class/barbarian/battlerager.md
         - Giant: class/barbarian/giant.md
         - Storm Herald: class/barbarian/storm-herald.md
-        - Wild Magic: class/barbarian/wild-magic.md
         - Ruffian: class/barbarian/ruffian.md 
         - Tranquillity: class/barbarian/tranquillity.md    
       - Fighter:

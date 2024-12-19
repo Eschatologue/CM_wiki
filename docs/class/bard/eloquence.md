@@ -38,3 +38,5 @@ When you successfully inspire someone, the power of your eloquence can now sprea
 You can use this Reaction a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
 --8<-- "includes/snippets/skills.md"
+
+###### :material-book-arrow-up: Updated by *Spaghetti0* 

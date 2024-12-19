@@ -49,4 +49,4 @@ The charmed creature obeys your commands for fear that you will reveal its secre
 
 Once you use this feature, you can't use it again until you finish a Long Rest.
 
-
+###### :material-book-arrow-up: Updated by *Spaghetti0* 

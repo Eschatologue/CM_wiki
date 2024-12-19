@@ -15,8 +15,6 @@ Some rogues combine their various skills with an interest in alchemy to produce 
 
 No matter their focus, they all delight in violent destruction, and due to the rarity of their talents, Saboteurs are invaluable allies or dangerous foes.
 
-> Written by Laserllama - Adapted to 2024 PHB & C&M by Eschathologue
-
 ### Level 3: Explosives
 
 You gain a set with Alchemist's Supplies and profficiency with it, along with the secrets of creating explosives from Cordites:
@@ -202,3 +200,5 @@ The following Explosives are available for a Saboteur rogue to learn. As an :rsc
     The Sphere moves 10 feet away from you at the start of each of your turns.
 
     ---
+
+###### :material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*

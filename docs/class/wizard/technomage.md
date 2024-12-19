@@ -105,3 +105,5 @@ You can use any of the following options, expending one use of this feature per 
     #### Actions (Requires Your :rsc-b: Bonus Action)
 
     ***Piercing Shot.*** *Ranged Weapon Attack:* Bonus equals your spell attack modifier, range 60 ft., one target you can see. *Hit:* 1d6 plus Int. mod :dmg-prcg: Piercing damage.  
+
+###### :material-book-edit: Written by *Eschatologue*

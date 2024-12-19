@@ -26,7 +26,7 @@ In addition, your connection to a Divine source of magic ensures that you always
 ##### Divine Spells
 
 | Sorcerer Level | Spells |
-|---|---|
+|:-:|---|
 | 3 | [:spell-lv1: Cure Wounds], [:spell-lv2: Enhance Ability], [:spell-lv1: Protection from Evil and Good], [:spell-lv2: Spiritual Weapon] |
 | 5 | [:spell-lv3: Mass Healing Word], [:spell-lv3: Revivify] |
 | 7 | [:spell-lv4: Death Ward], [:spell-lv4: Guardian of Faith] |
@@ -57,3 +57,5 @@ You gain the ability to overcome grievous injuries. As a Bonus Action when you a
 Once you use this feature, you can't use it again until you finish a long rest, unless you spend 6 Sorcery Points to restore its use (no action required).
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
+
+###### :material-book-arrow-up: Updated by *Spaghetti0*

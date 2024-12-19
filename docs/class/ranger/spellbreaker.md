@@ -64,3 +64,5 @@ Your Spellbreaker training has reached its pinnacle. You are resistant to damage
 Your training allows you to strike spells from the weave. You can cast [:spell-lv1: Absorb Elements] at will. After you cast the spell, if your next weapon attack—melee or ranged—is against the creature whose spell or damage you absorbed, the bonus damage from the spell is treated as its maximum possible amount.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
+
+###### :material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*

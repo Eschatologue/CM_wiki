@@ -10,10 +10,8 @@ Command Your Patron's Swarms
 # The Broodlord Patron
 
 > *Command Your Patron's Swarms*
-> 
-You have been bestowed great powers by an ancient beast. You might make a deal with such a terrifying creature, such as: A Fate Weaver; Adragzzar, the Scorpion King; Sephira of the Feather Court; The Rat Mother, Plaguise; An extraterrestrial creature. Or other powerful creatures that you might have encountered. Your patron's goal is simple, to preserve their brood and expand. And your path is a journey to stop a great threat from destroying their broods.
 
-> Written by Drowny
+You have been bestowed great powers by an ancient beast. You might make a deal with such a terrifying creature, such as: A Fate Weaver; Adragzzar, the Scorpion King; Sephira of the Feather Court; The Rat Mother, Plaguise; An extraterrestrial creature. Or other powerful creatures that you might have encountered. Your patron's goal is simple, to preserve their brood and expand. And your path is a journey to stop a great threat from destroying their broods.
 
 ### Level 3: Broodlord Spells
 
@@ -57,3 +55,5 @@ You are always under the effect of the *Spider Climb* spell. As a :rsc-b: **Bonu
 Once you use this feature, you can't use it again until you finish a Long Rest unless you expend a Pact Magic spell slot (no action required) to restore your use of it.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
+
+###### :material-book-edit: Written by *Drowny*

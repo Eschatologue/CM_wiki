@@ -56,3 +56,5 @@ When you activate your Mantle of the Astral Self, you can expend an additional 2
 ***Astral Barrage.*** Whenever you use the Extra Attack feature to attack twice, you can instead attack three times.     
 
 [Unarmed Strike]: ../../gameplay/phb/action.md#unarmed-strike
+
+###### :material-book-arrow-up: Updated by *PerfectlyCircularSeal*

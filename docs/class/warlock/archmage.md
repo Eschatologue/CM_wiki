@@ -9,7 +9,7 @@ Unearth the secret of the Arcana
 
 # The Archmage Patron
 
-> *Unearth the secret of the Arcana* - Written by Eschathologue
+> *Unearth the secret of the Arcana*
 
 Your pact is forged with the lingering essence of a long-dead Archmage—one who sacrificed everything in the pursuit of ultimate mastery over the Weave. Though their physical form has faded, their consciousness remains trapped within the currents of magic, sentient enough to seek an ally to complete their unfinished research. 
 
@@ -32,7 +32,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 When you make your pact with the Archmage, you gain the following benefits:
 
-***Knowledge of the Weave.*** Choose one of the following skills: *Arcana*, *History*, *Investigation*, *Nature*, or *Religion*. You can use your Charisma instead of Intelligence for ability checks with the chosen skill.
+***Knowledge of the Weave.*** Choose one of the following skills: Arcana, History, Investigation, Nature, or Religion. You can use your Charisma instead of Intelligence for ability checks with the chosen skill.
 
 ***Bonus Cantrip.*** You learn one cantrip of your choice from the Wizard spell list.
 
@@ -63,3 +63,5 @@ Your understanding of the arcane allows you to resist magical effects, giving yo
 When you choose a spell for your Mystic Arcanum, you can select a spell from the Wizard spell list instead of the Warlock spell list. This choice applies when you first select the Mystic Arcanum spell and when you replace it at later level
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
+
+###### :material-book-edit: Written by *Eschatologue*

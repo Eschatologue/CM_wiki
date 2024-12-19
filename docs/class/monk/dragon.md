@@ -56,3 +56,5 @@ Your draconic spirit reaches its peak. You gain the following benefits:
 ***Blindsight.*** You have Blindsight with a range of 30 feet.
 
 ***Explosive Fury.*** When you activate your Aspect of the Wyrm, draconic fury explodes from you. Choose any number of creatures you can see in your Emanation. Each of those creatures must succeed on a Dexterity save against your Focus save DC or take 3d10 :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-lightning: Lightning, or :dmg-poison: Poison damage (your choice).
+
+###### :material-book-arrow-up: Updated by *PerfectlyCircularSeal*

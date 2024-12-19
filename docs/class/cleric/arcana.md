@@ -45,3 +45,5 @@ When you restore Hit Points to an ally with a spell of level 1 or higher, you ca
 You choose four spells from the Wizard spell list, one from each of the following levels: 6, 7, 8, and 9. You add them to your list of Domain spells. Like your other Domain spells, they are always prepared and count as Cleric spells for you.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
+
+###### :material-book-arrow-up: Updated by *PerfectlyCircularSeal* 

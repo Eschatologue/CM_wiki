@@ -56,3 +56,5 @@ You add one level 6 and one level 7 Wizard spell of your choice to your Spellboo
 
 [Spellsight]: index.md#level-5-spellsight
 [Spellsunder]: index.md#level-9-spellsunder
+
+###### :material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*

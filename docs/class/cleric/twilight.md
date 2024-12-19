@@ -57,3 +57,5 @@ You can use this feature a number of times equal to your Wisdom modifier and reg
 While you and any creature of your choice is within your Twilight Sanctuary Emanation, it has Half Cover.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
+
+###### :material-book-arrow-up: Updated by *PerfectlyCircularSeal* 

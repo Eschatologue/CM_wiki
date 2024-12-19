@@ -11,7 +11,6 @@ Conjure a Mirrored Self from Alternate Timelines
 
 > *Conjure a Mirrored Self from Alternate Timelines*
 
-
 The Echo Knight is a feared frontline fighter who has mastered a rare derivative power of the Weave, enabling them to summon shades of alternate, unrealised timelines. These echoes of potential selves fight alongside the knight, creating a shifting, unpredictable presence on the battlefield. With these spectral doubles, the Echo Knight charges forward as a whirlwind of shadows and strikes, overwhelming foes with a blend of martial prowess and temporal magic.
 
 ### Level 3: Manifest Echo
@@ -52,3 +51,5 @@ Your summoning powers have grown more potent.
 ***Endless Echoes.*** When you roll Initiative and are missing any uses of your Unleash Incarnation feature, you regain one use of it.
 
 ***Double Up.*** You can use a :rsc-b: Bonus Action to create two echos with your Manifest Echo feature, and these echoes can co-exist. If you try to create a third echo, the previous two echoes are destroyed. Anything you can do from one echo's position can be done from the other's instead.
+
+###### :material-book-arrow-up: Updated by *PerfectlyCircularSeal* 

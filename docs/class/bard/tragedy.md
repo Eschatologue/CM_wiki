@@ -58,3 +58,5 @@ As an :rsc-a: Action, you can touch a willing creature and empower it with tragi
 ***Critical Hit Vulnerability.*** The number needed to roll for a Critical Hit against the creature using weapon attack or Unarmed Strike is reduced by 2.
 
 When this effect ends, the creature immediately drops to 0 hit points and has the Unconcious condition. Once you use this feature, you can't use it again until you finish a long rest.
+
+###### :material-book: Source from *Tal'Dorei Campaign Setting Reborn* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*

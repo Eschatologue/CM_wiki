@@ -30,3 +30,5 @@ You gain the ability to consult with your ancestral spirits. You can cast the [:
 ### Level 14: Vengeful Ancestors
 
 Your ancestral spirits grow powerful enough to retaliate. When you use your Spirit Shield to reduce the damage of an attack, the attacker takes the same amount of :dmg-force: Force damage.
+
+###### :material-book-arrow-up: Updated by *PerfectlyCircularSeal* 

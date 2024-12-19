@@ -1,6 +1,6 @@
 ---
 title: "Subclass: Circle of the Stars (Druid)"
-status: homebrew
+status: adapted
 ---
 
 <p style="display:none">
@@ -10,7 +10,6 @@ Harness Secrets Hidden in Constellations
 # Circle of the Stars
 
 > *Harness Secrets Hidden in Constellations*
-
 
 Druids of the Circle of Stars draws power from starlight. These druids have tracked heavenly patterns since time immemorial, discovering secrets hidden amid the constellations. By revealing and understanding these secrets, the Circle of the Stars seeks to harness the powers of the cosmos.
 
@@ -82,3 +81,5 @@ Your connection to the cosmos lets you summon radiant starlight. As a :rsc-a: **
 Any creature remaining in the Sphere must make a :d20-save: Constitution saving throw against your Spell Save DC. On a failed save, the creature takes Radiant damage and has the Blinded condition until the end of your next turn. On a successful save, the creature only takes half damage. To determine the damage, roll a number of d10s equal to your Wisdom modifier and add them together.
 
 Once you use this feature, you can't use it again until you finish a Long Rest, or you can expend a level 5+ spell slot to regain your use of it (no action required).
+
+###### :material-book-arrow-up: Updated by *Eschatologue*

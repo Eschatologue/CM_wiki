@@ -21,8 +21,6 @@ These Paladins share the following tenets:
 - Have courage to face threats, even against overwhelming odds.
 - Take responsibility for the consequences of your actions. 
 
-> Updated by Shades the Mothman, slightly modified by Eschatologue
-
 ### Level 3: Oath Spells
 
 The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of the Crown Spells table, you thereafter always have the listed spells prepared.
@@ -66,3 +64,5 @@ Your presence on the field of battle is an inspiration to those dedicated to you
 Once you use this feature, you cannot use it again until you finish a Long Rest, or you expend a level 5 spell slot to use it again.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
+
+###### :material-book-arrow-up: Updated by *Shades the Mothman*

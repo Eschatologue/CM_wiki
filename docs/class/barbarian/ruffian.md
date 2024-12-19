@@ -13,8 +13,6 @@ Rage Born in the Streets
 
 While most Barbarians draw their Rage from the untamed wilderness, those who follow the Path of the Ruffian find their Rage in the shadowy underbelly of civilisation, in the slums of sprawling cities and among the forgotten corners of society. Unlike others who fight for honour or noble causes, a Ruffian battles for the thrill of it—or simply to survive another day. Whatever drives them, Ruffians share one thing in common: when trouble arises, they prefer to settle matters with their fists.
 
-> Written by Eschatologue
-
 ### Level 3: The Wrong Crowd
 
 You have a way of connecting with the less savoury members of society. 
@@ -65,4 +63,4 @@ You can shrug off physical blows that would devastate lesser warriors. When you 
 
 Should you roll a 20 or higher on a Death Saving Throw, you instantly regain consciousness and stand up with 1 Hit Point.
 
-
+###### :material-book-edit: Written by *Eschatologue*

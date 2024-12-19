@@ -11,7 +11,6 @@ Fight Magic with Magic
 
 > *Fight Magic with Magic*
 
-
 Known for their ruthless dedication to achieving their goals. This fraternity of arcane warriors and mage hunters use their Order's abilities to slay any who abuse magic power. While most Spellbreakers are discerning as they deliver judgment, some swear an oath to destroy any who utilize the arcane arts.
 
 ### Level 3: Baleful Mark
@@ -78,3 +77,5 @@ You have risen through the ranks of your Order to become an unparalleled hunter 
 [Spellsunder]: index.md#level-9-spellsunder
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
+
+###### :material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*

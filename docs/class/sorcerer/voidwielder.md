@@ -13,8 +13,6 @@ Channel the Chaotic Power of Creation
 
 Before the primordial gods formed the world, there was only the Void. This formless, lightless, writhing chaos desires that all creation should return to it. Voidwielders are Sorcerers who wield the entropic power of the Void, working to undo the very acts of creation. They are often nihilistic in their outlook on life, resigned to the fact that all will eventually dissolve into the nothingness of the great primordial Void.
 
-> *Written by Laserllama - Adapted to 2024 PHB by Eschatologue*
-
 ### Level 3: Entropic Touch
 
 You can channel your sorcerous power to annihilate objects with a touch. As an action, you can expend 2 Sorcery Points and touch a Small or smaller non-magical object that is not being worn or carried, instantly reducing it to a pile of dust.
@@ -67,3 +65,5 @@ As a Bonus Action, you can spend 1 Sorcery Point to partially discorporate until
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 --8<-- "includes/snippets/spells2/lv6.md"
+
+###### :material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*

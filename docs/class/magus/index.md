@@ -38,8 +38,6 @@ With this unique discipline, they channel their spells through their weapons, fu
     **(A)** Studded Leather Armour, Scimitar, Light Crossbow, 20 Bolts, Bolt Case, Arcane Focus, Dungeoneer's Pack, and 70 SP; or  
     **(B)** 1.000 SP
 
-> Written by Laserllama, Adapted to 2024 PHB by Eschatologue
-
 ## Becoming a Magus...
 
 ### As a Level 1 Magus
@@ -236,3 +234,5 @@ You gain an [:option-feat-boon: Epic Boon](../../option/feat/feat-boon.md) feat 
 [Spellstrike]: #level-2-spellstrike
 
 --8<-- "includes/snippets/skills.md"
+
+###### :material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*

@@ -51,3 +51,5 @@ Whenever you use *[Divine Strike (Blessed Strike)](index.md#level-7-blesssed-str
 The winds of the tempest lift your form into the air. You have a Fly speed equal to your :rsc-speed: Speed.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
+
+###### :material-book-arrow-up: Updated by *PerfectlyCircularSeal* 

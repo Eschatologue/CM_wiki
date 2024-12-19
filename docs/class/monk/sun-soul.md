@@ -39,6 +39,6 @@ You become wreathed in a luminous, magical aura. You shed bright light in a 30-f
 
 When you use your [Deflect Attacks](index.md#level-3-deflect-attacks) feature to reduce the damage of an attack made by a creature within the bright light of this feature, the attacker takes Radiant damage equal to one roll of your Martial Arts die + your Wisdom modifier (minimum 1 damage). If you spend a :class-phb24-monk: **Focus Point** to redirect the attack, the target of the redirected attack also takes this damage on a failed save, in addition to the normal damage of Deflect Attacks.
 
-
-
 --8<-- "includes\snippets\spells2\lv3.md"
+
+###### :material-book-arrow-up: Updated by *Spaghetti0* & *PerfectlyCircularSeal*

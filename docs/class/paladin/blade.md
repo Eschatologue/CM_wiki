@@ -58,7 +58,7 @@ Your skill with the weapons of war has grown.
 
 ***Improved Superiority.*** You gain one additional Superiority Die, and your Superiority Dice become :die-d8: d8s. You also learn two additional Manoeuvres of your choice. When you reach Paladin level 15 you gain another Superiority Die (for a total of five), and your Superiority Dice become :die-d10: d10s. You also learn two additional Manoeuvres.
 
-***Improved Mastery.*** You learn the Mastery property of two kinds of additional weapons of your choice with which you have proficiency.
+***Improved Mastery.*** You learn the Mastery property of two additional kinds of weapons of your choice with which you have proficiency.
 
 ### Level 15: Incredible Alacrity
 
@@ -66,7 +66,7 @@ You possess an unnatural level of awareness.
 
 ***Blindsight.*** You have Blindsight equals to your Aura of Protection's range.
 
-***Improved Opportunity Attack.*** You have :d20-adv: Advantage when you make an Opportunity Attack. Moreover, when a creature you can see hits you with a melee attack, it triggers an Opportunity Attack from you.
+***Improved Opportunity Attack.*** You have :d20-adv: Advantage when you make an :rsc-r: Opportunity Attack. Moreover, when a creature you can see hits you with a melee attack, you can make an :rsc-r: Opportunity Attack against it.
 
 ### Level 20: Warrior of Legend
 
@@ -78,3 +78,4 @@ As Bonus Action, you can enter a battle trance that enhances your combat skills 
 
 ***Hybrid Manoeuvre.*** You can use *two* Manoeuvre per attack instead of one normally. However, only one Manoeuvre can benefit from _**Free Manoeuvre**_ subfeature.
 
+###### :material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*

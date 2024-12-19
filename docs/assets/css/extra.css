@@ -688,6 +688,10 @@
   margin-bottom: -0.2rem;
   padding-bottom: -0.2rem;
 }
+.md-typeset h6 {
+  font-size: 0.6375rem;
+  font-weight: 350;
+}
 
 /* Divider Line */
 .md-typeset hr {

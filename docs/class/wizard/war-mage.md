@@ -48,3 +48,5 @@ The magic you channel helps ward off harm. While you maintain :spell-concentrati
 Your Arcane Deflection becomes infused with deadly magic. When you use your Arcane Deflection feature, you can cause magical energy to arc from you. Up to three creatures of your choice that you can see within 60 feet of you each take :dmg-force: Force damage equal to half your Wizard level (rounded up).
 
 --8<-- "includes/snippets/spells2/lv3.md"
+
+###### :material-book-arrow-up: Updated by *Spaghetti0*

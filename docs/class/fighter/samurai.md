@@ -1,6 +1,6 @@
 ---
 title: "Subclass: Samurai (Fighter)"
-status: homebrew
+status: adapted
 ---
 
 <p style="display:none">
@@ -10,7 +10,6 @@ Fight Deliberately and Precisely. Be Unwavering
 # Samurai
 
 > *Fight Deliberately and Precisely. Be Unwavering*
-
 
 Every army needs warriors whose specialty is victory. The Samurai is a warrior who channels an indomitable fighting spirit to overcome any foe. Their resolve is unshakable, their discipline unmatched, and their skill honed to perfection. Those who stand in a Samurai's path face a simple choice: yield or die fighting.
 
@@ -57,3 +56,5 @@ If you're reduced to **0 Hit Points**, you can use your :rsc-r: Reaction to avoi
 You can use this feature **once per Long Rest**.
 
 --8<-- "includes/snippets/skills.md"
+
+###### :material-book-arrow-up: Updated by *Eschatologue*

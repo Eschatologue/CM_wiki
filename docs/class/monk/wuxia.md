@@ -13,8 +13,6 @@ Masterfully Mix Weapons with Martial Arts
 
 While all Monks are able to wield the weapons of their style to great effect, those who follow the Way of Wuxia dedicate their lives to complete mastery over a chosen few weapons. These warriors are known for their extreme focus and are always seeking progressively stronger warriors to challenge and test their skill with their chosen weapons of war.
 
-> Written by Laserllama - Adapted to 2024 PHB by Eschatologue
-
 ### Level 3: Wuxia's Artistry 
 
 You gain a set of Calligrapher's Supplies and a set of Painter's Supplies. You have proficiency with both of these.
@@ -58,3 +56,5 @@ When you make an attack roll with a Wuxia weapon, you can choose to use your Mon
 Once you use this feature you must finish a Short or Long Rest before you can use it again.
 
 [Unarmed Strike]: ../../gameplay/phb/action.md#unarmed-strike
+
+###### :material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*

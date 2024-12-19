@@ -60,3 +60,5 @@ Your seething fury is unstopable. You gain the following benefits:
 You gain one additional Superiority Die (Five total) and all your Superiority Die becomes :die-d10: **d10**s. Moreover, once per turn, when your Rage is active, you can roll a :die-d6: d6 in place of expending a Superiority Die.
 
 [Manoeuvre Options]: ../../option/class-options/fighter-manoeuvre.md
+
+###### :material-book-edit: Written by *Eschatologue*

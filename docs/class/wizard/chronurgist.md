@@ -9,21 +9,15 @@ Exercise Influence over Time
 
 # Chronurgist
 
-> *Exercise Influence over Time - Updated by PerfectlyCircularSeal*
+> *Exercise Influence over Time*
 
 Focusing on the manipulation of time, those who follow the Chronurgy tradition learn to alter the pace of reality to their liking. Using the ramping of anticipatory dunamis energy, these mages can bend the flow of time as adroitly as a skilled musician plays an instrument, lending themselves and their allies an advantage in the blink of an eye.
 
-### Level 3: Dunamancy Spells
-
-Your study the flow of time. The [Dunamancy spells](../../spells/description/additional/dunamancy.md) are added to your class' spell list.
-
-### Level 3: Chronurgy Savant
+### Level 3: Chronurgy Spells
 
 *You studied the flow of time.*
 
-Choose two Wizard spells from the Dunamancy spells table, each of which must be no higher than level 2, and add them to your spellbook for free.
-
-In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Dunamancy spells table to your spellbook for free. The chosen spell must be of a level for which you have spell slots.
+The spells in Dunamancy Spells Table are added to your class spell list.
 
 ##### Dunamancy Spells 
 
@@ -63,3 +57,5 @@ Once you create a bead with this feature, you can't do so again until you finish
 You can peer through possible futures and magically pull one of them into events around you, ensuring a particular outcome. When you or a creature you can see within 60 feet of you makes a D20 Test, you can use your Reaction to ignore the die roll and decide whether the number rolled is the minimum needed to succeed or one less than that number (your choice).
 
 When you use this feature, you gain one level of Exhaustion. Only by finishing a Long Rest can you remove a level of exhaustion gained in this way. 
+
+###### :material-book-arrow-up: Updated by *PerfectlyCircularSeal* :material-book-arrow-up: Modified by *Eschatologue*

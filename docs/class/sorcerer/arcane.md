@@ -11,9 +11,7 @@ Unleash Pure, Unfiltered, Arcane Power
 
 > *Unleash Pure, Unfiltered, Arcane Power*
 
-Your sorcerous power are drawn from an innate connection with the Weave, the very foundation of magic itself. Where a wizard would tap into the Weave through precise incanatation and careful study, you are the one with it, shaping it through instinct and willpower.
-
-> *Written by [Ungsy](https://www.gmbinder.com/share/-MseG602S4oVxuRROJle/-MuG9-FUws2E9PRYM1OL) - Adapted to 2024 PHB by Eschatologue*
+Your sorcerous power are drawn from an innate connection with the Weave, the very foundation of magic itself. Where a wizard would tap into the Weave through precise incanatation and careful study, you are the one with it, shaping it through sheer instinct and willpower.
 
 ### Level 3: Arcane Attunement
 
@@ -59,3 +57,5 @@ Once you grant a metamagic option to a creature with this feature, you can't gra
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 --8<-- "includes/snippets/spells2/lv6.md"
+
+> :material-book-edit: Written by [*Ungsy*](https://www.gmbinder.com/share/-MseG602S4oVxuRROJle/-MuG9-FUws2E9PRYM1OL) <br>:material-book-arrow-up: Adapted to 2024 PHB by *Eschatologue*

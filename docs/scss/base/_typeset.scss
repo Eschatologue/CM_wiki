@@ -100,6 +100,11 @@ $h4Size: $defaultFontSize * 1.15;
         margin-bottom: convert.px2rem(-4px);
         padding-bottom: convert.px2rem(-4px);
     }
+
+    h6 {
+        font-size: $defaultFontSize * 0.85;
+        font-weight: 350;
+    }
 }
 
 /* Divider Line */

@@ -4,12 +4,12 @@ status: adapted
 ---
 
 <p style="display:none">
-Delivers deadly strikes with speed and panache
+Delivers Deadly Strikes with Speed and Panache
 </p>
 
 # Swashbuckler
 
-> *Delivers deadly strikes with speed and panache*
+> *Delivers Deadly Strikes with Speed and Panache*
 
 As a Swashbuckler, you focus on the art of the blade, bringing speed, elegance, and charm to your combat style—topped off with an exquisite flourish of panache. You excel in single combat, and your methods make a duel look like a flamboyant performance.
 
@@ -54,3 +54,5 @@ Choose a creature you can see within 30 feet of yourself. Until the end of that 
 ### Level 17: Master Duelist
 
 Immediately after you use your Sneak Attack, you can make another attack against the same target, provided you are within 5 feet of it and no other creatures are within 5 feet of you.
+
+###### :material-book-arrow-up: Updated by *Wizards of the Coast* :material-book-arrow-up: Modified by *Eschatologue*

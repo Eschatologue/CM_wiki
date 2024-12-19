@@ -11,7 +11,6 @@ Channel the Primal Power of the Elements
 
 > *Channel the Primal Power of the Elements*
 
-
 Rather than focus inward, some Monks attune themselves to the forces of nature. Known as Wu Jens, these primal sages augment their skills with the power of the five elements; Air, Earth, Fire, Water, and Wood. Through meditation, they can learn to channel their Ki into amazing displays of elemental prowess.
 
 ### Level 3: Disciple of the Elements
@@ -113,3 +112,5 @@ As a Bonus Action, you can draw all five elements into yourself to take on an El
 ***Forced Teleportation.*** Whenever you teleport with a Wu Jen feature or spell, you can touch a creature equal to you in size (or smaller) and teleport it with you (no action required). This includes grappled creatures.
 
 Your Elemental Form lasts for 1 minute, but it ends early if you have the Incapacitated condition or when you choose to end it (no action required). Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending 6 :class-phb24-monk: **Focus Points** (no action required).
+
+###### :material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*

@@ -11,7 +11,6 @@ Enter a Trance of Focus and Storms of Steel
 
 > *Enter a Trance of Focus and Storms of Steel*
 
-
 The Magi known as Blade Dancers dedicate their lives to the art of the Blade Dance. This mystical trance allows the Magi to empty their mind of all emotion and distraction to become one their blade. Masters of this trance are deadly whirlwinds of arcane power and savage steel in battle.
 
 Typically, Magi of this Order take on a single apprentice, teaching them, and only them, the secrets of their Order.
@@ -80,3 +79,5 @@ Also, when you take the Attack action while in your [Blade Dance], you make one 
 [Spellsunder]: index.md#level-9-spellsunder
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
+
+###### :material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*

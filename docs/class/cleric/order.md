@@ -49,3 +49,5 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 Enemies you designate for destruction wilt under the combined efforts of you and your allies. When you use your Voice of Authority feature to allow an ally to make an attack, you empower that attack with the power of law. If the attack hits, it deals an extra 2d10 Psychic damage.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
+
+###### :material-book-arrow-up: Updated by *Spaghetti0* 

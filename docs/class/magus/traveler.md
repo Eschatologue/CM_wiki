@@ -11,7 +11,6 @@ Traverse the Flow of Time
 
 > *Traverse the Flow of Time*
 
-
 Practitioners of what many consider a forbidden school of magic, Magi of the Order of Travelers augment their skills with Chronomancy magic, the magic of time. As they grow in their understanding of these secret magic, Travelers become increasingly detached from their place in time, and turning to become strange wanderers who safeguard the flow of time.
 
 Legends speak of Travelers so skillful in their use of time magic who can conjure future versions of themselves to aid in combat and offer cryptic knowledge from the future. How will your Traveler Magus safeguard the flow of time?
@@ -89,3 +88,5 @@ Once you use this feature you must finish a Long Rest before you can cast this m
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 --8<-- "includes/snippets/spells2/lv9.md"
+
+###### :material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*
