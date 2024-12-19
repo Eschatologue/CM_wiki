@@ -15,9 +15,9 @@ The transition from light to darkness often carries a sense of calm and renewal,
 
 Clerics of the Twilight Domain bring reassurance and protection, offering comfort to those seeking peace and venturing into the shadows to ensure the night remains a time of safety and rest, rather than fear.
 
-### Level 3: Domain Spells
+### Level 3: Twilight Domain Spells
 
-Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Order Domain Spells table, you thereafter always have the listed spells prepared.
+Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Twilight Domain Spells table, you thereafter always have the listed spells prepared.
 
 ##### Order Domain Spells
 

@@ -13,7 +13,7 @@ Tap into the Roiling Storm Within
 
 Typical barbarians harbor a fury that dwells within. Their rage grants them superior strength, durability, and speed. Barbarians who follow the Path of the Storm Herald learn instead to transform their rage into a mantle of primal magic that swirls around them. When in a fury, a barbarian of this path taps into nature to create powerful, magical effects.
 
-Storm heralds are typically elite champions who train alongside druids, rangers, and others sworn to protect the natural realm. Other storm heralds hone their craft in elite lodges founded in regions wracked by storms, in the frozen reaches at the world’s end, or deep in the hottest deserts.
+Storm heralds are typically elite champions who train alongside druids, rangers, and others sworn to protect the natural realm. Other storm heralds hone their craft in elite lodges founded in regions wracked by storms, in the frozen reaches at the world's end, or deep in the hottest deserts.
 
 ### Level 3: Storm Aura
 
@@ -29,11 +29,11 @@ While your Rage is active, a storm whips around you in a 10 foot Emanation. As p
 
 The storm grants you benefits even when your Storm Aura isn't active. Whenever you finish a Short or Long Rest choose one of the following effects, which lasts until you finish your next Short or Long Rest:
 
-***Desert.*** You have :dmg-res: Resistance to :dmg-fire: Fire damage and you don’t suffer effects caused by extreme heat, and as an action you can touch a flammable object that isn't being worn or carried by anyone else and set it on fire.
+***Desert.*** You have :dmg-res: Resistance to :dmg-fire: Fire damage and you don't suffer effects caused by extreme heat, and as an action you can touch a flammable object that isn't being worn or carried by anyone else and set it on fire.
 
 ***Sea.*** You have :dmg-res: Resistance to :dmg-lightning: Lightning damage, you can breathe underwater, and you have a Swim Speed equal to your Speed.
 
-***Tundra.*** You have :dmg-res: Resistance to :dmg-cold: Cold damage and you don’t suffer effects caused by extreme cold, and as an action you can touch a 5-foot Cube of water and turn it into ice, which melts after 1 minute. This action fails if a creature is in the Cube.
+***Tundra.*** You have :dmg-res: Resistance to :dmg-cold: Cold damage and you don't suffer effects caused by extreme cold, and as an action you can touch a 5-foot Cube of water and turn it into ice, which melts after 1 minute. This action fails if a creature is in the Cube.
 
 ### Level 10: Shielding Storm
 

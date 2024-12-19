@@ -15,7 +15,7 @@ The Forge Domain celebrates the mastery of craftsmanship and the power of creati
 
 Clerics of this domain strive to recover what has been lost to destruction, reclaim resources from hostile forces, and seek out rare and extraordinary materials to bring their creations to life, blending the mundane and the magical into objects of great purpose
 
-### Level 3: Domain Spells
+### Level 3: Forge Domain Spells
 
 Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Forge Domain Spells table, you thereafter always have the listed spells prepared.
 

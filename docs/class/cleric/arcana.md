@@ -7,17 +7,17 @@ status: adapted
 Channel Magic from its Divine Origin
 </p>
 
-# Tempest Domain
+# Arcana Domain
 
 > *Channel Magic from its Divine Origin*
 
-Magic is a force that permeates existence, capable of creating and destroying in equal measure. Deities of the Arcana Domain hold profound understanding of magic’s secrets and its limitless potential. For some, magical knowledge is a sacred responsibility tied to a deeper comprehension of reality. Others view magic as raw power, wielded freely to shape the world.
+Magic is a force that permeates existence, capable of creating and destroying in equal measure. Deities of the Arcana Domain hold profound understanding of magic's secrets and its limitless potential. For some, magical knowledge is a sacred responsibility tied to a deeper comprehension of reality. Others view magic as raw power, wielded freely to shape the world.
 
 These gods are often associated with the pursuit of knowledge, recognising the connection between learning and arcane mastery. Clerics of this domain serve as stewards of magical understanding, balancing the responsibilities and the power that come with wielding the arcane.
 
-### Level 3: Domain Spells
+### Level 3: Arcana Domain Spells
 
-Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Tempest Domain Spells table, you thereafter always have the listed spells prepared.
+Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Arcana Domain Spells table, you thereafter always have the listed spells prepared.
 
 ##### Arcana Domain Spells
 

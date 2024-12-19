@@ -15,7 +15,7 @@ Often followers of gods of war, these furious Barbarians pride themselves in ver
 
 ### Level 3: Ravager Armor
 
-You adorn your armor with crude spikes with which you can slam your enemies. You gain a set of Smith’s Tools and you have proficiency with them. You can spend 1 minute using the Smith’s Tools to turn a set of Light or Medium Armor into your Ravager Armor, fastening metal spikes to it. 
+You adorn your armor with crude spikes with which you can slam your enemies. You gain a set of Smith's Tools and you have proficiency with them. You can spend 1 minute using the Smith's Tools to turn a set of Light or Medium Armor into your Ravager Armor, fastening metal spikes to it. 
 
 While wearing your Ravager Armor, you gain the following benefits:
 
@@ -25,7 +25,7 @@ While wearing your Ravager Armor, you gain the following benefits:
 
 ***Spiky Embrace.*** At the start of each of your turns while you have a creature Grappled, it takes :dmg-prcg: Piercing damage equal to your Strength modifier (minimum 1 damage).
 
-### Level 3: Ravager’s Hold
+### Level 3: Ravager's Hold
 
 Your furious grip becomes extremely tight as you press your spiked armor into your enemies. When your Rage is active, you gain the following benefits:
 
@@ -39,9 +39,9 @@ When a creature hits you with a melee attack, you can use your Reaction to make 
 
 ### Level 10: Death Roll
 
-While your Rage is active and you have one or more creatures Grappled, you can use your :rsc-b: Bonus Action to perform a Death Roll. You move yourself to an unoccupied space you can see within 10 feet of you, dragging the Grappled creatures along with you. This movement doesn’t provoke Opportunity Attacks. During this movement, you violently spin and slam your Grappled targets around you, dealing 2d8 :dmg-prcg: Piercing damage to each target. The damage increases by 1d8 at level 15 (3d8) and at level 20 (4d8).
+While your Rage is active and you have one or more creatures Grappled, you can use your :rsc-b: Bonus Action to perform a Death Roll. You move yourself to an unoccupied space you can see within 10 feet of you, dragging the Grappled creatures along with you. This movement doesn't provoke Opportunity Attacks. During this movement, you violently spin and slam your Grappled targets around you, dealing 2d8 :dmg-prcg: Piercing damage to each target. The damage increases by 1d8 at level 15 (3d8) and at level 20 (4d8).
 
-### Level 14: Ravager’s Might
+### Level 14: Ravager's Might
 
 Once per turn, while your Rage is active and you have one or more creatures Grappled, you can forgo one of your attacks to use the Grappled creature as a weapon, provided the creature is the same size as you or smaller and you have nothing in your hands. You choose one of the following options:
 
