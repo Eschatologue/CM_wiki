@@ -15,11 +15,11 @@ Monks of the Way of the Sun Soul learn to channel their own life energy into sea
 
 ### Level 3: Radiant Sun Bolt
 
-Whenever you make an [Unarmed Strike] (Damage), you can make a ranged attack roll as you shoot a bolt of radiant energy from your fists, instead of the normal strike. When you do, the strike deals :dmg-radiant: Radiant damage instead of the normal damage type, and the attack has a normal range of 30 feet and a long range of 60 feet. Being within 5 feet of an enemy does not impose Disadvantage on this attack.
+Whenever you make an [Unarmed Strike (Damage)](../../gameplay/phb/action.md#damage), you can make a ranged attack roll as you shoot a bolt of radiant energy from your fists, instead of the normal strike. When you do, the strike deals :dmg-radiant: Radiant damage instead of the normal damage type, and the attack has a normal range of 30 feet and a long range of 60 feet. Being within 5 feet of an enemy does not impose Disadvantage on this attack.
 
 ### Level 6: Blinding Light
 
-When you use your Patient Defense feature, you can expend 1 :class-phb24-monk: **Focus Point** to create a bright, flashing light. Choose a number of creatures that you can see within 10 feet of you equal to your Wisdom modifier (minimum 1 creature). Each creature must succeed on a Constitution save against your Focus save DC or have the Blinded condition until the end of its next turn.
+When you use your [Patient Defense](index.md#patient-defense) feature, you can expend 1 :class-phb24-monk: **Focus Point** to create a bright, flashing light. Choose a number of creatures that you can see within 10 feet of you equal to your Wisdom modifier (minimum 1 creature). Each creature must succeed on a Constitution save against your Focus save DC or have the Blinded condition until the end of its next turn.
 
 ### Level 11: Searing Radiance
 
@@ -37,8 +37,8 @@ The spells use your Focus save DC. Once you use this feature, you can't do so ag
 
 You become wreathed in a luminous, magical aura. You shed bright light in a 30-foot Emanation and dim light for an additional 30 feet. You can extinguish or restore the light as a Bonus Action.
 
-When you use your Deflect Attacks feature to reduce the damage of an attack made by a creature within the bright light of this feature, the attacker takes Radiant damage equal to one roll of your Martial Arts die + your Wisdom modifier (minimum 1 damage). If you spend a :class-phb24-monk: **Focus Point** to redirect the attack, the target of the redirected attack also takes this damage on a failed save, in addition to the normal damage of Deflect Attacks.
+When you use your [Deflect Attacks](index.md#level-3-deflect-attacks) feature to reduce the damage of an attack made by a creature within the bright light of this feature, the attacker takes Radiant damage equal to one roll of your Martial Arts die + your Wisdom modifier (minimum 1 damage). If you spend a :class-phb24-monk: **Focus Point** to redirect the attack, the target of the redirected attack also takes this damage on a failed save, in addition to the normal damage of Deflect Attacks.
 
-[Unarmed Strike]: ../../gameplay/phb/action.md#unarmed-strike
+
 
 --8<-- "includes\snippets\spells2\lv3.md"

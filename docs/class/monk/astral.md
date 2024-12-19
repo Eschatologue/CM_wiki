@@ -16,15 +16,17 @@ A monk who follows the Way of the Astral Self believes their body is an illusion
 
 ### Level 3: Arms of the Astral Self
 
-As a Bonus Action, you can spend 1 :class-phb24-monk: **Focus Point** to manifest your astral self as a set of spectral arms that hover near your shoulders or surround your arms (your choice). The arms last for 10 minutes and vanish early if you have the Incapacitated condition or die. While the arms are active, you gain the following benefits:
+As a Bonus Action, you can spend 1 :class-phb24-monk: **Focus Point** to manifest your astral self as a set of spectral arms that hover near your shoulders or surround your arms (your choice). The arms last for 10 minutes and vanish early if you have the Incapacitated condition or die. 
 
-***Arms of Spirit.*** The reach of your [Unarmed Strike] increases by 5 feet and you can choose to deal Force damage instead of Bludgeoning damage when you make an [Unarmed Strike].
+While the arms are active, you gain the following benefits:
+
+***Arms of Spirit.*** The reach of your [Unarmed Strike] increases by 5 feet and you can choose to deal :dmg-force: Force damage instead of :dmg-bldg: Bludgeoning damage when you make an [Unarmed Strike].
 
 ***Astral Strike.*** You can use the spectral arms to make [Unarmed Strike]. When you do, you can use your Wisdom modifier instead of your Dexterity or Strength modifier for the attack and damage rolls.
 
 ***Astral Touch.*** You can use your Wisdom modifier in place of your Strength modifier when making Strength checks and saves.
 
-Sidereal Sweep. As part of the Bonus Action you use to summon the astral arms, you swipe your arms around you. Each creature of your choice that you can see within 10 feet of you must succeed on a Dexterity save or take Force damage equal to two rolls of your Martial Arts die and be pushed 10 feet away from you. You can repeat this attack as a Bonus Action on each of your turns by spending 1 :class-phb24-monk: **Focus Point**.
+***Sidereal Sweep.*** As part of the Bonus Action you use to summon the astral arms, you swipe your arms around you. Each creature of your choice that you can see within 10 feet of you must succeed on a Dexterity save or take Force damage equal to two rolls of your Martial Arts die and be pushed 10 feet away from you. You can repeat this attack as a Bonus Action on each of your turns by spending 1 :class-phb24-monk: **Focus Point**.
 
 ### Level 6: Visage of the Astral Self
 
