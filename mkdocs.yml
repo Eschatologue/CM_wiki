@@ -280,7 +280,11 @@ nav:
         - Clockwork Soul: class/sorcerer/clockwork.md
         - Draconic Sorcery: class/sorcerer/draconic.md
         - Wild Magic: class/sorcerer/wild.md
+        - Divine Soul: class/sorcerer/divine.md
+        - Lunar Sorcery: class/sorcerer/lunar.md
         - Stone Sorcery: class/sorcerer/stone.md
+        - Storm Sorcery: class/sorcerer/storm.md
+        - Arcane Soul: class/sorcerer/arcane.md
         - Voidwielder: class/sorcerer/voidwielder.md
       - Warlock:
         - class/warlock/index.md

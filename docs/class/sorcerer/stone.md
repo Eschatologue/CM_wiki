@@ -36,7 +36,7 @@ When you reach a Sorcerer level specified in the Metal Magic Spells table, you t
 | 3 | [:spell-lv1: Earth Tremor], [:spell-lv1: Sanctuary], [:spell-lv2: Magic Weapon], [:spell-lv2: Spike Growth]|
 | 5 | [:spell-lv3: Erupting Earth], [:spell-lv3: Meld into Stone] |
 | 7 | [:spell-lv4: Stone Shape], [:spell-lv4: Summon Elemental] (Earth only) |
-| 9 | [:spell-lv5: Banishing Smite] |
+| 9 | [:spell-lv5: Banishing Smite], [:spell-lv5: Wall of Stone] |
 
 ### Level 6: Extra Attack
 

@@ -45,15 +45,15 @@ When you reach a Sorcerer level specified in the Voidwielder Spells table, you t
 
 Your connection to the Void allows you to undo arcane magic, giving your the following benefit:
 
-:spell-lv3: ***Dispel Magic.*** When you cast *Dispel Magic* and you need to make a spellcasting ability check to determine the result, you can treat a roll of 9 or lower as a 10.
+***Dispel Magic.*** When you cast [:spell-lv3: Dispel Magic], and you need to make a spellcasting ability check to determine the result, you can treat a roll of 9 or lower as a 10.
 
-:spell-lv3: ***Counterspell.*** When you cast *Counterspell* you can subtract the result of the target's save by a number equal to your Charisma modifier (minimum of +1).
+***Counterspell.*** When you cast [:spell-lv3: Counterspell] you can subtract the result of the target's save by a number equal to your Charisma modifier (minimum of +1).
 
 Once you use one of this feature, you can't use it again until you finish a Short Rest unless you spend 1 Sorcery Points (no action required) to restore your use of it.
 
 ### Level 14: Ray of Annihilation
 
-Your connection to the Void grants you the power to unmake creation itself. You learn the :spell-lv6 *Disintegrate* spell and you can cast it at its lowest level without expending a spell slot.
+Your connection to the Void grants you the power to unmake creation itself. You learn the [:spell-lv6: Disintegrate] spell and you can cast it at its lowest level without expending a spell slot.
 
 Once you use one of this feature, you can't use it again until you finish a Short Rest unless you spend 7 Sorcery Points (no action required) to restore your use of it.
 
@@ -66,3 +66,4 @@ As a Bonus Action, you can spend 1 Sorcery Point to partially discorporate until
 ***Move Through Object.*** You can move through solid objects and creatures as if they were Difficult Terrain. If you end your turn inside a solid object or creature you are instantly shunted to the nearest unoccupied space, taking 1d10 Force damage for every 5 feet you were forced to travel. If you pass through a creature, you can force it to make a Constitution saving throw against your Spell save DC or take 1d10 Force damage. A creature can only be forced to make this Constitution saving throw once per turn.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
+--8<-- "includes/snippets/spells2/lv6.md"

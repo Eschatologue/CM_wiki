@@ -1,6 +1,6 @@
 ---
 title: "Subclass: Technomage (Wizard)"
-status: adapted
+status: homebrew
 ---
 
 <p style="display:none" >
