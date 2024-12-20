@@ -13,6 +13,10 @@ Purge the heretics. Silence the blasphemers. Let the faithless tremble
  
 Not all servants of the gods work in the light. Justiciars are zealous enforcers of divine will; ruthless at rooting out heresy and crushing the faithless. Operating in shadows and answering only to their god, they use any means necessary to ensure no sin goes unpunished. Faith drives them, terror follows them, and judgement is their blade
 
+### Level 3: Bonus Proficiency
+
+You gain proficiency with the Religion skill. Whenever you would make an Intelligence (Religion) check, you can choose to make a Charisma (Religion) check instead.
+
 ### Level 3: Spellcasting
 
 You have learned to cast spells. The information below details how you use those rules as a Justiciar.
@@ -20,7 +24,7 @@ You have learned to cast spells. The information below details how you use those
 ##### Justiciar Spellcasting
 
 | Rogue level | Channel Divinity | Spells Prepared | I | II | III | IV |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 3 | 1 | 3 | 2 | — | — | — |
 | 4 | 1 | 4 | 3 | — | — | — |
 | 5 | 1 | 4 | 3 | — | — | — |
@@ -31,10 +35,10 @@ You have learned to cast spells. The information below details how you use those
 | 10 | 2 | 7 | 4 | 3 | — | — |
 | 11 | 2 | 8 | 4 | 3 | — | — |
 | 12 | 2 | 8 | 4 | 3 | — | — |
-| 13 | 3 | 9 | 4 | 3 | 2 | — |
-| 14 | 3 | 10 | 4 | 3 | 2 | — |
-| 15 | 3 | 10 | 4 | 3 | 2 | — |
-| 16 | 3 | 11 | 4 | 3 | 3 | — |
+| 13 | 2 | 9 | 4 | 3 | 2 | — |
+| 14 | 2 | 10 | 4 | 3 | 2 | — |
+| 15 | 2 | 10 | 4 | 3 | 2 | — |
+| 16 | 2 | 11 | 4 | 3 | 3 | — |
 | 17 | 3 | 11 | 4 | 3 | 3 | — |
 | 18 | 3 | 11 | 4 | 3 | 3 | — |
 | 19 | 3 | 12 | 4 | 3 | 3 | 1 |
@@ -98,7 +102,7 @@ When you hit a creature with an attack that includes Sneak Attack damage, you ca
 
 *Nothing stands between you and those you hunt.*
 
-You have the [:spell-lv2: Misty Step] spell always prepared. When you cast this spell, you can make one weapon attack or cast [:spell-lv0: True Strike] as part of the same action of casting it. You have :d20-adv: Advantage on this attack or cantrip.
+You have the [:spell-lv2: Misty Step] spell always prepared. When you cast this spell, you can make one weapon attack or cast [:spell-lv0: True Strike] with as part of the same action of casting [:spell-lv2: Misty Step]. You have :d20-adv: Advantage on this attack.
 
 ### Level 17: Will of the Gods
 
