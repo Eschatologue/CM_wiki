@@ -13,11 +13,9 @@ Enhance Martial Prowess with Eldritch Macic
 
 Those who walk the dark path of the Witchblade are driven by an overwhelming desire to destroy the great evils of the world. Those especially dedicated, those willing to give up anything, are often approached by Eldritch Powers, beings of otherworldly might. These benefactors offer power in return for a fraction of the warrior's soul or unquestioning fealty.
 
-> Written by Laserllama - Adapted to 2024 PHB by Eschatologue
-
 ### Level 3: Pact Magic
 
-You have learned to cast spells. See the chapter 7 for rules on spellcasting. The information below details how you use those rules as an Witchblade.
+You have learned to cast spells. See the chapter 7 for rules on spellcasting. The information below details how you use those rules as a Witchblade.
 
 #### Cantrips 
 
@@ -84,7 +82,7 @@ The Eldritch magic within your blood seeps into your weapon strikes. When you hi
 
 ### Level 15: Greater Offering
 
-You can restore your own vitality by inflicting pain on others. When you use *Sanguine Offering*, you gain Temporary Hit Points equal to the :dmg-necrotic: Necrotic damage dealt to the creature.
+You can restore your own vitality by inflicting pain on others. When you use [Sanguine Offering](#level-3-sanguine-offering), you gain Temporary Hit Points equal to the :dmg-necrotic: Necrotic damage dealt to the creature.
 
 Temporary Hit Points you gain from this feature last for 1 minute, or until you gain temporary hit points again.
 
@@ -96,4 +94,4 @@ Once you use this feature you must finish a Short or Long Rest before you can us
 
 [Warlock spell list]: ../../spells/class-specific/warlock.md
 
-###### :material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*
+###### :material-book-edit: Written by *Laserllama* :material-book-arrow-up: Adapted to PHB'24 by *Eschatologue*
