@@ -26,7 +26,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 | 3 | [:spell-lv1: Magic Missile], [:spell-lv2: Magic Weapon], [:spell-lv2: Arcane Vigor], [:spell-lv1: Shield] |
 | 5 | [:spell-lv3: Lightning Bolt], [:spell-lv3: Tiny Servant] |
 | 7 | [:spell-lv4: Arcane Eye], [:spell-lv4: Otiluke's Resilient Sphere] |
-| 9 | [:spell-lv5: Arcane Hand], [:spell-lv5: Wall of Force] |
+| 9 | [:spell-lv5: Scrying], [:spell-lv5: Wall of Force] |
 
 ### Level 3: Arcane Apprentice
 

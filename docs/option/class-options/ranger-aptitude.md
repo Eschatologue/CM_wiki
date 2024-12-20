@@ -14,7 +14,7 @@ Below are the Aptitudes available to the [Ranger]. If an Aptitude has a prerequi
 
 ### Cunning Technique
 
-***Prerequisite:** Level 3+ Ranger; [Bounty Hunter], [Deathwatch], or [Generalist]*
+_**Prerequisite:** Level 3+ Ranger_
 
 You learn some rougish techniques.
 
@@ -26,7 +26,7 @@ You learn some rougish techniques.
 
 ### Hedge Knight
 
-***Prerequisite:** Level 3+ Ranger; [Ranger Knight] or [Sanctified Hunter]*
+_**Prerequisite:** Level 3+ Ranger_
 
 Though you wander the wilds, you still understood the intricacy of politics.
 
@@ -36,7 +36,7 @@ Though you wander the wilds, you still understood the intricacy of politics.
 
 ### Inquisitor
 
-***Prerequisite:** Level 3+ Ranger; [Deathwatch], [Ranger Knight], or [Mage Breaker]*
+_**Prerequisite:** Level 3+ Ranger_
 
 You learn how to utilise divine magic.
 
@@ -46,7 +46,7 @@ You learn how to utilise divine magic.
 
 ### Self-Regeneration
 
-***Prerequisite:** Level 3+ Ranger, [Any Level 1+ Aptitude]*
+_**Prerequisite:** Level 3+ Ranger_
 
 During a Short Rest, you can recover spell slots of a combined level equal to your Wisdom modifier. Once you do, you must finish a Long Rest before you can use this feature again.
 
@@ -54,7 +54,7 @@ During a Short Rest, you can recover spell slots of a combined level equal to yo
 
 ### Slayer I
 
-***Prerequisite:** Level 3+ Ranger, [Any Level 1+ Aptitude]*
+_**Prerequisite:** Level 3+ Ranger_
 
 When you hit a creature with a weapon attack or Unarmed Strike you can cast [:spell-lv1: Hunter's Mark] at the target as part of the attack, applying its damage bonus and other benefits (if any) to the damage roll.
 
@@ -62,7 +62,7 @@ When you hit a creature with a weapon attack or Unarmed Strike you can cast [:sp
 
 ### Strider I
 
-***Prerequisite:** Level 3+ Ranger, [Any Level 1+ Aptitude]*
+_**Prerequisite:** Level 3+ Ranger_
 
 You ignore the effects of Difficult Terrain caused by natural environments or terrain.
 
@@ -72,7 +72,7 @@ You ignore the effects of Difficult Terrain caused by natural environments or te
 
 ### Enhanced Senses
 
-***Prerequisite:** Level 7+ Ranger*
+_**Prerequisite:** Level 7+ Ranger_
 
 You can't have :d20-disadv: **Disadvantage** on attack rolls against the target of your [:spell-lv1: Hunter's Mark].
 
@@ -80,7 +80,7 @@ You can't have :d20-disadv: **Disadvantage** on attack rolls against the target 
 
 ### Slayer II: Ambush Tactics
 
-***Prerequisite:** Level 7+ Ranger, [Slayer I](#slayer-i)*
+_**Prerequisite:** Level 7+ Ranger, [Slayer I](#slayer-i)_
 
 When you roll Initiative, you can take a :rsc-r: **Reaction** to cast [:spell-lv1: Hunter's Mark].
 
@@ -88,7 +88,7 @@ When you roll Initiative, you can take a :rsc-r: **Reaction** to cast [:spell-lv
 
 ### Strider II: Unhindered Steps
 
-***Prerequisite:** Level 7+ Ranger, [Strider I](#strider-i)*
+_**Prerequisite:** Level 7+ Ranger, [Strider I](#strider-i)_
 
 You ignore the effects of any Difficult Terrain imposed by spells, magical phenomena, or any other supernatural effect.
 
@@ -96,7 +96,7 @@ You ignore the effects of any Difficult Terrain imposed by spells, magical pheno
 
 ### Planar Wanderer
 
-***Prerequisite:** Level 7+ Ranger*
+_**Prerequisite:** Level 7+ Ranger_
 
 Choose one of the following damage types: :dmg-force: Force, :dmg-necrotic: Necrotic, :dmg-psychic: Psychic, or :dmg-radiant: Radiant. You gain :dmg-res: Resistance to the chosen damage type. 
 
@@ -106,7 +106,7 @@ Choose one of the following damage types: :dmg-force: Force, :dmg-necrotic: Necr
 
 ### Primal Focus
 
-***Prerequisite:** Level 7+ Ranger*
+_**Prerequisite:** Level 7+ Ranger_
 
 When you score a Critical Hit against a creature, all creature have :d20-adv: **Advantage** on the next attack they make against that creature before the end of your next turn.
 
@@ -114,7 +114,7 @@ When you score a Critical Hit against a creature, all creature have :d20-adv: **
 
 ### Survivor I
 
-***Prerequisite:** Level 7+ Ranger*
+_**Prerequisite:** Level 7+ Ranger_
 
 Your body can rapidly recover from injury. When you expend a Hit Die to regain hit points, you regain additional Hit Points equal to your Wisdom modifier (minimum of 1 hit point).
 
@@ -124,7 +124,7 @@ Your body can rapidly recover from injury. When you expend a Hit Die to regain h
 
 ### Slayer III: Isolation
 
-***Prerequisite:** Level 11+ Ranger, [Slayer II](#slayer-ii-ambush-tactics)*
+_**Prerequisite:** Level 11+ Ranger, [Slayer II](#slayer-ii-ambush-tactics)_
 
 Once per turn, when you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or Unarmed Strike, you can force the target must succeed a :d20-save: Constitution saving throw, or it has the ^^Blinded^^ and ^^Silenced^^ condition.
 
@@ -132,7 +132,7 @@ Once per turn, when you hit the target of your [:spell-lv1: Hunter's Mark] with 
 
 ### Strider III: Trailblazer
 
-***Prerequisite:** Level 11+ Ranger, [Strider II](#strider-ii-unhindered-steps)*
+_**Prerequisite:** Level 11+ Ranger, [Strider II](#strider-ii-unhindered-steps)_
 
 You always under the effect of [:spell-lv4: Freedom of Movement] spell so long you don't have the ^^Unconcious^^ condition.
 
@@ -140,7 +140,7 @@ You always under the effect of [:spell-lv4: Freedom of Movement] spell so long y
 
 ### Primal Focus II: Feral Eyes
 
-***Prerequisite:** Level 11+ Ranger, [Primal Focus](#primal-focus)*
+_**Prerequisite:** Level 11+ Ranger, [Primal Focus](#primal-focus)_
 
 You gain the following benefits:
 
@@ -152,7 +152,7 @@ You gain the following benefits:
 
 ### Survivor II: Iron Will
 
-***Prerequisite:** Level 11+ Ranger, [Survivor](#survivor-i)*
+_**Prerequisite:** Level 11+ Ranger, [Survivor](#survivor-i)_
 
 When you make a Death Saving Throw, you add your Wisdom modifier to the roll (minimum of +1). If the result of your roll is 20 or higher, you gain two Death Saving Throw success.
 
@@ -160,7 +160,7 @@ When you make a Death Saving Throw, you add your Wisdom modifier to the roll (mi
 
 ### Adrenaline I
 
-***Prerequisite:** Level 11+ Ranger*
+_**Prerequisite:** Level 11+ Ranger_
 
 You can expend one use of your *Favoured Foe* to cast [:spell-lv3: Haste] without expending a spell slot.
 
@@ -170,7 +170,7 @@ You can expend one use of your *Favoured Foe* to cast [:spell-lv3: Haste] withou
 
 ### Enhanced Senses II
 
-***Prerequisite:** Level 15+ Ranger, [Enhanced Senses](#enhanced-senses)*
+_**Prerequisite:** Level 15+ Ranger, [Enhanced Senses](#enhanced-senses)_
 
 You can't have :d20-disadv: **Disadvantage** on attack rolls against any target within 30 feet of you.
 
@@ -178,7 +178,7 @@ You can't have :d20-disadv: **Disadvantage** on attack rolls against any target 
 
 ### Primal Focus III: Predatory Intent
 
-***Prerequisite:** Level 15+ Ranger, [Primal Focus II](#primal-focus-ii-feral-eyes)*
+_**Prerequisite:** Level 15+ Ranger, [Primal Focus II](#primal-focus-ii-feral-eyes)_
 
 When you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or Unarmed Strike, you can choose to end the spell and make the attack score a Critical Hit.
 
@@ -188,7 +188,7 @@ When you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack
 
 ### Adrenaline II: Aggression
 
-***Prerequisite:** Level 19+ Ranger, [Adrenaline I](#adrenaline-i)*
+_**Prerequisite:** Level 19+ Ranger, [Adrenaline I](#adrenaline-i)_
 
 When you cast [:spell-lv3: Haste] from the Adrenaline Aptidude, it does not require :spell-concentration: Concentration. The spell's last for the Duration stated in the spell.
 
@@ -196,7 +196,7 @@ When you cast [:spell-lv3: Haste] from the Adrenaline Aptidude, it does not requ
 
 ### Binding Blade
 
-***Prerequisite:** Level 19+ Ranger*
+_**Prerequisite:** Level 19+ Ranger_
 
 You can cast [:spell-lv1: Ensnaring Strike] without expending a spell slot.
 
@@ -204,22 +204,10 @@ You can cast [:spell-lv1: Ensnaring Strike] without expending a spell slot.
 
 ### Remove from Existence
 
-***Prerequisite:** Level 19+ Ranger*
+_**Prerequisite:** Level 19+ Ranger_
 
 Whenever you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or Unarmed Strike, you can immediately end the spell and cause that attack to deal maximum damage instead of rolling. If the attack reduces the creature to 50 Hit Points or fewer, it must succeed on a Constitution saving throw against your Spell save DC or it instantly dies.
 
 ---
 
-[Deathwatch]: #origin-deathwatch
-[Generalist]: #origin-generalist
-[Bounty Hunter]: #origin-bounty-hunter
-[Mage Breaker]: #origin-mage-breaker
-[Ranger Knight]: #origin-ranger-knight
-[Sanctified Hunter]: #origin-sanctified-hunter
-
-[Any Level 1+ Aptitude]: #level-1-aptitudes
-
-[:spell-lv1: Ensnaring Strike]: ../../spells/description/core/level-1.md#ensnaring-strike
-[:spell-lv1: Hunter's Mark]: ../../spells/description/core/level-1.md#hunters-mark
-[:spell-lv3: Haste]: ../../spells/description/core/level-3.md#haste
-[:spell-lv4: Freedom of Movement]: ../../spells/description/core/level-4.md#freedom-of-movement
+--8<-- "includes/snippets/spells2/lv0-5.md"
