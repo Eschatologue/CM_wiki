@@ -13,8 +13,6 @@ Master the Practical Magic
 
 While almost all wizards study in formal schools under the tutelage of a wise master, some wizards reject traditional arcane schooling and ventures arround the world to master magic through experience and ingenuity. These rare few who hone their craft out in the wilds are referred to as Hedge Wizards. Though their methods are frowned upon by formal wizarding schools, any archmage worthy of his station will reluctantly recognize that Hedge Wizards are the true masters of the low magics.
 
-> *Written by Laserllama, Updated to PHB'24 by Eschatologue* 
-
 !!! tip "Hedge Wizards"
 
     Regardless of their origins, all Hedge Wizards shun or outright reject traditional wizardry. When creating your Hedge Wizard, consider how their spellcasting style and spellbook might differ from those of a formally trained wizard. What unique practices, tools, or methods set them apart from their academically taught peers?  

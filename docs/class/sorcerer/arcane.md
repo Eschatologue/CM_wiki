@@ -58,4 +58,4 @@ Once you grant a metamagic option to a creature with this feature, you can't gra
 --8<-- "includes/snippets/spells2/lv0-5.md"
 --8<-- "includes/snippets/spells2/lv6.md"
 
-> :material-book-edit: Written by [*Ungsy*](https://www.gmbinder.com/share/-MseG602S4oVxuRROJle/-MuG9-FUws2E9PRYM1OL) <br>:material-book-arrow-up: Adapted to 2024 PHB by *Eschatologue*
+###### :material-book-edit: Written by [*Ungsy*](https://www.gmbinder.com/share/-MseG602S4oVxuRROJle/-MuG9-FUws2E9PRYM1OL) :material-book-arrow-up: Modified & Adapted to 2024 PHB by *Eschatologue*
