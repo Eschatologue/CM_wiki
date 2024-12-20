@@ -4,45 +4,51 @@ status: homebrew
 ---
 
 <p style="display:none">
-Purge the heretics. Silence the blasphemers. Let the faithless tremble
+Purge the heretics. Silence the blasphemers. Let the faithless tremble.
 </p>
 
 # Justiciar
 
-> *Purge the heretics. Silence the blasphemers. Let the faithless tremble*
+> *Purge the heretics. Silence the blasphemers. Let the faithless tremble.*
  
-Not all servants of the gods work in the light. Justiciars are zealous enforcers of divine will; ruthless at rooting out heresy and crushing the faithless. Operating in shadows and answering only to their god, they use any means necessary to ensure no sin goes unpunished. Faith drives them, terror follows them, and judgement is their blade
+Not all servants of the gods work in the light. Justiciars are zealous enforcers of divine will; ruthless at rooting out heresy and crushing the faithless. Operating in shadows and answering only to their god, they use any means necessary to ensure no sin goes unpunished. Faith drives them, terror follows them, and judgement is their blade.
 
-### Level 3: Bonus Proficiency
+##### Justiciar Feature
 
-You gain proficiency with the Religion skill. Whenever you would make an Intelligence (Religion) check, you can choose to make a Charisma (Religion) check instead.
+| Rogue level | Subclass Feature | Channel Divinity | Spells Prepared | I | II | III | IV |
+|:-:|---|:-:|:-:|:-:|:-:|:-:|:-:|
+| 3 | Channel Divinity, Spellcasting, Zealous Ire | 1 | 3 | 2 | — | — | — |
+| 4 | — | 1 | 4 | 3 | — | — | — |
+| 5 | — | 1 | 4 | 3 | — | — | — |
+| 6 | — | 1 | 4 | 3 | — | — | — |
+| 7 | — | 2 | 5 | 4 | 2 | — | — |
+| 8 | — | 2 | 6 | 4 | 2 | — | — |
+| 9 | Wrathful Strikes | 2 | 6 | 4 | 2 | — | — |
+| 10 | — | 2 | 7 | 4 | 3 | — | — |
+| 11 | — | 2 | 8 | 4 | 3 | — | — |
+| 12 | — | 2 | 8 | 4 | 3 | — | — |
+| 13 | Divine Step | 2 | 9 | 4 | 3 | 2 | — |
+| 14 | — | 2 | 10 | 4 | 3 | 2 | — |
+| 15 | — | 2 | 10 | 4 | 3 | 2 | — |
+| 16 | — | 2 | 11 | 4 | 3 | 3 | — |
+| 17 | Will of the Gods | 3 | 11 | 4 | 3 | 3 | — |
+| 18 | — | 3 | 11 | 4 | 3 | 3 | — |
+| 19 | — | 3 | 12 | 4 | 3 | 3 | 1 |
+| 20 | — | 3 | 13 | 4 | 3 | 3 | 1 |
+
+### Level 3: Channel Divinity
+
+You gain the ability to channel divine energy directly from your god, and can use it to fuel magical effects. You start with two such divine effect, Divine Sense and Shroud of Faith.
+
+You can use Channel Divinity once. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest. You gain additional uses when you reach certain Rogue levels, as shown in the Channel Divinity column of the [Justiciar Feature table].
+
+***Divine Sense.*** As a :rsc-b: Bonus Action, you open your awareness to detect extraplanar creatures in your presence. For 1 minutes, you sense the location of any Aberration, Celestial, Elemental, Fey, Fiend, or Undead within 60 feet of yourself. You also sense whether the [:spell-lv5: Hallow] spell is active there and, if so, where.
+
+***Shroud of Faith.*** As an :rsc-b: Bonus action, you grip your holy symbol and invoke the protection of your god. You have the ^^Invisible^^ condition for 1 minute. This effect ends early if you attack or cast a spell.
 
 ### Level 3: Spellcasting
 
 You have learned to cast spells. The information below details how you use those rules as a Justiciar.
-
-##### Justiciar Spellcasting
-
-| Rogue level | Channel Divinity | Spells Prepared | I | II | III | IV |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 3 | 1 | 3 | 2 | — | — | — |
-| 4 | 1 | 4 | 3 | — | — | — |
-| 5 | 1 | 4 | 3 | — | — | — |
-| 6 | 1 | 4 | 3 | — | — | — |
-| 7 | 2 | 5 | 4 | 2 | — | — |
-| 8 | 2 | 6 | 4 | 2 | — | — |
-| 9 | 2 | 6 | 4 | 2 | — | — |
-| 10 | 2 | 7 | 4 | 3 | — | — |
-| 11 | 2 | 8 | 4 | 3 | — | — |
-| 12 | 2 | 8 | 4 | 3 | — | — |
-| 13 | 2 | 9 | 4 | 3 | 2 | — |
-| 14 | 2 | 10 | 4 | 3 | 2 | — |
-| 15 | 2 | 10 | 4 | 3 | 2 | — |
-| 16 | 2 | 11 | 4 | 3 | 3 | — |
-| 17 | 3 | 11 | 4 | 3 | 3 | — |
-| 18 | 3 | 11 | 4 | 3 | 3 | — |
-| 19 | 3 | 12 | 4 | 3 | 3 | 1 |
-| 20 | 3 | 13 | 4 | 3 | 3 | 1 |
 
 #### Cantrips
 
@@ -52,15 +58,13 @@ When you reach level 10 in this class, you learn another Cleric cantrip of your 
 
 #### Spell Slots
 
-The [Justiciar Spellcasting table] shows how many spell slots you have to cast your spells of level 1 and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a Long Rest.
+The [Justiciar Feature table] shows how many spell slots you have to cast your spells of level 1 and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a Long Rest.
 
 #### Prepared Spells of Level 1+
 
 You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 Cleric spells.
 
-The number of spells on your list increases as you gain Rogue levels, as shown in the Prepared Spells column of the [Justiciar Spellcasting table]. Whenever that number increases, choose additional Cleric spells until the number of spells on your list matches the number in the [Justiciar Spellcasting table]. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 7 Rogue, your list of prepared spells can include five Cleric spells of level 1 or 2 in any combination.
-
-[Justiciar Spellcasting table]: #justiciar-spellcasting
+The number of spells on your list increases as you gain Rogue levels, as shown in the Prepared Spells column of the [Justiciar Feature table]. Whenever that number increases, choose additional Cleric spells until the number of spells on your list matches the number in the [Justiciar Feature table]. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 7 Rogue, your list of prepared spells can include five Cleric spells of level 1 or 2 in any combination.
 
 #### Changing your Prepared Spells
 
@@ -74,25 +78,13 @@ Whenever you gain a level in this class, you can replace one of the spells you k
 
 You can use a Holy Symbol as a Spellcasting Focus for the spells you prepare for this subclass.
 
-### Level 3: Channel Divinity
+### Level 3: Zealous Ire
 
-You gain the ability to channel divine energy directly from your god, and can use it to fuel magical effects. You start with two such divine effect, Divine Sense and Shroud of Faith.
+You and your weapons are blessed by the heavens to smite heretics and blasphemers, giving you the following benefits:
 
-You can use Channel Divinity once. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest. You gain additional uses when you reach certain Rogue levels, as shown in the Channel Divinity column of the [Justiciar Spellcasting table].
+***Bonus Proficiency.*** You gain proficiency with the Religion skill. Whenever you would make an Intelligence (Religion) check, you can choose to make a Charisma (Religion) check instead.
 
-***Divine Sense.*** As a :rsc-b: Bonus Action, you open your awareness to detect extraplanar creatures in your presence. For 1 minutes, you sense the location of any Aberration, Celestial, Elemental, Fey, Fiend, or Undead within 60 feet of yourself. You also sense whether the [:spell-lv5: Hallow] spell is active there and, if so, where.
-
-***Shroud of Faith.*** As an :rsc-b: Bonus action, you grip your holy symbol and invoke the protection of your god. You have the ^^Invisible^^ condition for 1 minute. This effect ends early if you attack or cast a spell.
-
-### Level 3: Consecrated Weapon
-
-*Your weapons are blessed by the heavens to smite heretics and blasphemers.*
-
-As part of a Short or Long Rest, you can perform a ritual and touch a weapon that you are proficient with and perform a special ritual to Consecrate it.
-
-This Consecrated weapon becomes a Holy Symbol and can be used as a spellcasting focus for your Cleric spells. You can also add your Sneak Attack bonus to attacks with it even if it does not have the :weapon-prop-finesse: Finesse property. However, all other rules of for Sneak Attack bonus still apply.
-
-You can have only one Consecrated weapon at a time.
+***Concecrated Weapons.*** As part of a Short or Long Rest, you can perform a ritual and touch a weapon that you are proficient with and Consecrate it. This Consecrated weapon becomes a Holy Symbol and can be used as a spellcasting focus for your Cleric spells. You can also add your Sneak Attack bonus to attacks with it even if it does not have the :weapon-prop-finesse: Finesse property. However, all other rules of for Sneak Attack bonus still apply. You can have only one Consecrated weapon at a time.
 
 ### Level 9: Wrathful Strikes
 
@@ -113,3 +105,4 @@ When you roll Initiative with no uses of your Channel Divinity remaining, you in
 --8<-- "includes/snippets/spells2/lv0-5.md"
 
 [Cleric spell list]: ../../spells/class-specific/cleric.md
+[Justiciar Feature table]: #justiciar-feature
