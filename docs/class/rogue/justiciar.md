@@ -100,7 +100,7 @@ When you roll Initiative with no uses of your Channel Divinity remaining, you in
 
 ###### :material-book-edit: Written by *Eschatologue*
 
---8<-- "includes/snippets/spells2/lv0.md"
+--8<-- "includes/snippets/spells2/lv0-5.md"
 
 [Cleric spell list]: ../../spells/class-specific/cleric.md
 [Justiciar Feature table]: #justiciar-feature

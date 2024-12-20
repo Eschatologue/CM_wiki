@@ -56,23 +56,23 @@ You can customize your Arcane Armour. When you do so, choose one of the followin
 
 ***Changing the Model.*** You can change the armour's model whenever you finish a Short or Long Rest, provided you have Smith's Tools in hand.
 
-#### Guardian
+=== "Guardian"
 
-You design your armour to be in the front line of conflict. It has the following features:
+    You design your armour to be in the front line of conflict. It has the following features:
 
-***Thunder Gauntlets.*** Each of the armour's gauntlets counts as a Simple Melee weapon while you aren't holding anything in it, and it deals 1d8 :dmg-thunder: Thunder damage on a hit. The gauntlets have the Push Mastery property, in which you can use.
+    ***Thunder Gauntlets.*** Each of the armour's gauntlets counts as a Simple Melee weapon while you aren't holding anything in it, and it deals 1d8 :dmg-thunder: Thunder damage on a hit. The gauntlets have the Push Mastery property, in which you can use.
 
-***Distracting Pulse.*** When you hit a creature with a melee attack, it has Disadvantage on attack rolls against targets other than you until the start of your next turn, as the armour magically emits a distracting pulse when the creature attacks someone else.
+    ***Distracting Pulse.*** When you hit a creature with a melee attack, it has Disadvantage on attack rolls against targets other than you until the start of your next turn, as the armour magically emits a distracting pulse when the creature attacks someone else.
 
-#### Infiltrator
+=== "Infiltrator"
 
-You customize your armour for subtle undertakings. It has the following features:
+    You customize your armour for subtle undertakings. It has the following features:
 
-***Lightning Launcher***. A gemlike node appears on one of your armoured fists or on the chest (your choice). It counts as a Simple Ranged weapon, with a normal range of 90 feet and a long range of 270 feet, and it deals 1d6 :dmg-lightning: Lightning damage on a hit. The Lightning Launcher has the Vex Mastery property.
+    ***Lightning Launcher***. A gemlike node appears on one of your armoured fists or on the chest (your choice). It counts as a Simple Ranged weapon, with a normal range of 90 feet and a long range of 270 feet, and it deals 1d6 :dmg-lightning: Lightning damage on a hit. The Lightning Launcher has the Vex Mastery property.
 
-***Lightning Arc.*** Once per turn when you hit a creature with a ranged attack, you can deal an extra 1d6 Lightning damage to that target, as your armour arcs electricity between itself and the target.
+    ***Lightning Arc.*** Once per turn when you hit a creature with a ranged attack, you can deal an extra 1d6 Lightning damage to that target, as your armour arcs electricity between itself and the target.
 
-***Dampening Field.*** You have Advantage on Dexterity (Stealth) checks. If the armour normally imposes Disadvantage on such checks, the Advantage and Disadvantage cancel each other, as normal.
+    ***Dampening Field.*** You have Advantage on Dexterity (Stealth) checks. If the armour normally imposes Disadvantage on such checks, the Advantage and Disadvantage cancel each other, as normal.
 
 ### Level 5: Extra Attack
 
@@ -92,14 +92,14 @@ You learn how to use your Infusions to specially modify your Arcane Armour.
 
 Your Arcane Armour gains additional benefits based on its model, as shown below.
 
-#### Guardian
+=== "Guardian"
 
-When a Huge or smaller creature you can see ends its turn within 30 feet of you, you can use your :rsc-r: Reaction to magically force it to make a Strength saving throw against your Spell Save DC. On a failed save, you pull the creature up to 25 feet directly to an unoccupied space. If you pull the target to a space within 5 feet of you, you can make a melee weapon attack against it as part of this reaction.
+    When a Huge or smaller creature you can see ends its turn within 30 feet of you, you can use your :rsc-r: Reaction to magically force it to make a Strength saving throw against your Spell Save DC. On a failed save, you pull the creature up to 25 feet directly to an unoccupied space. If you pull the target to a space within 5 feet of you, you can make a melee weapon attack against it as part of this reaction.
 
-You can use this Reaction a number of times equal to your Intelligence modifier, and you regain all expended uses of it when you finish a Long Rest.
+    You can use this Reaction a number of times equal to your Intelligence modifier, and you regain all expended uses of it when you finish a Long Rest.
 
-#### Infiltrator
+=== "Infiltrator"
 
-Any creature that takes :dmg-light: Lightning damage from your Lightning Launcher glimmers with magical light until the start of your next turn. The glimmering creature sheds dim light in a 5-foot radius, and it has :d20-disadv: Disadvantage on attack rolls against you, as the light jolts it if it attacks you. In addition, the next attack roll against it has :d20-adv: Advantage, and if that attack hits, the target takes an extra 1d6 :dmg-lightning: Lightning damage.
+    Any creature that takes :dmg-light: Lightning damage from your Lightning Launcher glimmers with magical light until the start of your next turn. The glimmering creature sheds dim light in a 5-foot radius, and it has :d20-disadv: Disadvantage on attack rolls against you, as the light jolts it if it attacks you. In addition, the next attack roll against it has :d20-adv: Advantage, and if that attack hits, the target takes an extra 1d6 :dmg-lightning: Lightning damage.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
