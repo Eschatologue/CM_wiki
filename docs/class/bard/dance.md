@@ -16,7 +16,7 @@ Bards of the College of Dance know that the Words of Creation can't be contained
 
 While you aren't wearing armour or wielding a Shield, you gain the following benefits:
 
-***Dance Virtuoso.*** You have :d20-adv: **Advantage** on any Charisma (Perfomance) check you make that involves dancing.
+***Dance Virtuoso.*** You have :d20-adv: Advantage on any Charisma (Perfomance) check you make that involves dancing.
 
 ***Unarmoured Defense.*** Your base Armour Class equals 10 + your Dexterity modifier + your Charisma modifier.
 

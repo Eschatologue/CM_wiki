@@ -14,7 +14,7 @@ For Barbarians who walk the Path of the Zealot, their Rage is not merely a conne
 
 ### Level 3: Divine Fury
 
-You can channel divine power into your strikes. On each of your turns while your Rage is active, the first creature you hit with a weapon or an Unarmed Strike takes extra damage equal to 1d6 plus half your Barbarian level (round down). The extra damage is :dmg-necrotic: Necrotic or :dmg-radiant: Radiant; you choose the type each time you deal the damage.
+You can channel divine power into your strikes. On each of your turns while your Rage is active, the first creature you hit with a weapon or an Unarmed Strike takes extra damage equal to 1d6 plus half your Barbarian level (round down). The extra damage is :dmg-necr: Necrotic or :dmg-radi: Radiant; you choose the type each time you deal the damage.
 
 ### Level 3: Warrior of the Gods
 
@@ -40,7 +40,7 @@ When you activate tyour Rage, you can assume the form of a divine warrior. This 
 
 ***Fly Speed.*** You have a Fly Speed equal to your Speed and can hover.
 
-***Resistance.*** You have :dmg-res: Resistance to :dmg-necrotic: Necrotic, :dmg-psychic: Psychic and :dmg-radiant: Radiant damage
+***Resistance.*** You have :dmg-res: Resistance to :dmg-necr: Necrotic, :dmg-psyc: Psychic and :dmg-radi: Radiant damage
 
 ***Revification.*** When a creature within 30 feet of you would drop to 0 Hit Points, you can take a :rscr-r: Reaction to expend a use of your Rage to instead change the target's hit point to a number equal to your Barbarian level.
 

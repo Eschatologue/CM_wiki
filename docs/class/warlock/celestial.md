@@ -43,7 +43,7 @@ You gain Temporary Hit Points whenever you use your Magical Cunning feature or f
 
 ### Level 14: Searing Vengeance
 
-The radiant energy you channel allows you to resist death. When you have to make a death saving throw at the start of your turn, you can instead spring to your feet with a burst of radiant energy. You regain Hit Points equal to half your Hit Point Maximum and then stand if you so choose. Each creature of your choice that is within 30 feet of you takes :dmg-radiant: Radiant damage equal to 2d8 plus your Charisma modifier, and each has the Blinded condition until the end of the current turn.
+The radiant energy you channel allows you to resist death. When you have to make a death saving throw at the start of your turn, you can instead spring to your feet with a burst of radiant energy. You regain Hit Points equal to half your Hit Point Maximum and then stand if you so choose. Each creature of your choice that is within 30 feet of you takes :dmg-radi: Radiant damage equal to 2d8 plus your Charisma modifier, and each has the Blinded condition until the end of the current turn.
 
 Once you use this feature, you can't use it again until you finish a Long Rest.
 

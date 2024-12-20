@@ -56,7 +56,7 @@ You have learned to produce magical potions called Experimental Elixirs, which s
 
 Through your explorations into alchemy you have learned to make explosive concoctions that can be lobbed at groups of enemies.
 
-***Creating a Grenade.*** When you start casting a spell using your Alchemist's Supplies as the spellcasting focus, you can turn that casting into an Alchemical Grenade. The spell must deal :dmg-acid: Acid, :dmg-fire: Fire, :dmg-necrotic: Necrotic or :dmg-poison: Poison damage. You can ignore any verbal components for this casting of the spell.
+***Creating a Grenade.*** When you start casting a spell using your Alchemist's Supplies as the spellcasting focus, you can turn that casting into an Alchemical Grenade. The spell must deal :dmg-acid: Acid, :dmg-fire: Fire, :dmg-necr: Necrotic or :dmg-posn: Poison damage. You can ignore any verbal components for this casting of the spell.
 
 ***Alchemical Explosion.*** When you cast a spell in this way and only target one creature with it, each creature within 5 feet of the target, other than the target itself, must make a Dexterity saving throw against your spell save DC. A creature that fails its saving throw takes damage of the spell's type equal to half your Artificer level (rounded up). The spell does not gain this benefit if it already targets an area.
 

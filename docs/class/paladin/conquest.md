@@ -43,11 +43,11 @@ You can use your Channel Divinity to guide attacks with supernatural accuracy. W
 
 ### Level 7: Aura of Conquest
 
-By your mere presence your foes are frozen in fear. If a creature has the Frightened condition and you are the source of its fear, its Speed is reduced to 0 while in your Aura of Protection, and that creature takes :dmg-psychic: Psychic damage equal to half your Paladin level if it starts its turn there.
+By your mere presence your foes are frozen in fear. If a creature has the Frightened condition and you are the source of its fear, its Speed is reduced to 0 while in your Aura of Protection, and that creature takes :dmg-psyc: Psychic damage equal to half your Paladin level if it starts its turn there.
 
 ### Level 15: Scornful Rebuke
 
-Those who dare to strike you are psychically punished for their audacity. Whenever a creature hits you with an attack, that creature takes :dmg-psychic: Psychic damage equal to your Charisma modifier (minimum of 1) if you do not have the Incapacitated condition
+Those who dare to strike you are psychically punished for their audacity. Whenever a creature hits you with an attack, that creature takes :dmg-psyc: Psychic damage equal to your Charisma modifier (minimum of 1) if you do not have the Incapacitated condition
 
 ### Level 20: Invincible Conqueror
 

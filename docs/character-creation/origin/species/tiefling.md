@@ -30,8 +30,8 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells yo
 
 | Legacy | Level 1 | Level 3 | Level 5 |
 |---|---|---|---|
-| Abyssal | You have :dmg-res: Resistance to :dmg-poison: Poison Damage. <br>You also know the *Poison Spray* Cantrip | *Ray of Sickness* | *Hold Person* |
-| Chthonic | You have :dmg-res: Resistance to :dmg-necrotic: Necrotic Damage. <br>You also know the *Chill Touch* Cantrip | *False Life* | *Ray of Enfeeblement* |
+| Abyssal | You have :dmg-res: Resistance to :dmg-posn: Poison Damage. <br>You also know the *Poison Spray* Cantrip | *Ray of Sickness* | *Hold Person* |
+| Chthonic | You have :dmg-res: Resistance to :dmg-necr: Necrotic Damage. <br>You also know the *Chill Touch* Cantrip | *False Life* | *Ray of Enfeeblement* |
 | Infernal | You have :dmg-res: Resistance to :dmg-fire: Fire Damage. <br>You also know the *Fire Bolt* Cantrip | *Hellish Rebuke* | *Darkness* |
-| Eldritch^*CM*^ | You have :dmg-res: Resistance to :dmg-psychic: Psychic Damage. <br>You also know the *Vicious Mockery* Cantrip | *Dissonant Whispers* | *Mirror Image* |
+| Eldritch^*CM*^ | You have :dmg-res: Resistance to :dmg-psyc: Psychic Damage. <br>You also know the *Vicious Mockery* Cantrip | *Dissonant Whispers* | *Mirror Image* |
 | Stygian^*CM*^ | You have :dmg-res: Resistance to :dmg-cold: Cold Damage. <br>You also know the *Ray of Frost* Cantrip | *Cause Fear* | *Phantasmal Force* |

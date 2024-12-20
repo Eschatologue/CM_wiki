@@ -30,9 +30,9 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 ***Collapsing Star (Archer Form).*** Once per turn, when you hit a target with your :rsc-b: Archer Form's Bonus Action attack, all creatures within 5 feet of the target must make a :d20-save: Dexterity saving throw. On a failed save, they take damage as if they were also hit by your Archer Form's attack.
 
-***Searing Flare (Chalice Form).*** Once per turn, when you restore Hit Points to a creature using the Chalice Form feature, each creatures within 5 feet of the target must make a :d20-save: Constitution saving throw. On a failed save, they take :dmg-radiant: Radiant damage equals to the Chalice Form's healing roll.
+***Searing Flare (Chalice Form).*** Once per turn, when you restore Hit Points to a creature using the Chalice Form feature, each creatures within 5 feet of the target must make a :d20-save: Constitution saving throw. On a failed save, they take :dmg-radi: Radiant damage equals to the Chalice Form's healing roll.
 
-***Accretion Disk (Dragon Form).*** While :spell-concentration: Concentrating on a Druid spell, you can add your Wisdom modifier to all :dmg-radiant: Radiant or :dmg-fire: Fire damage rolls you make.
+***Accretion Disk (Dragon Form).*** While :spell-concentration: Concentrating on a Druid spell, you can add your Wisdom modifier to all :dmg-radi: Radiant or :dmg-fire: Fire damage rolls you make.
 
 #### Resonance of Perseverance
 

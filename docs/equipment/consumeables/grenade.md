@@ -73,7 +73,7 @@ This grenade explodes, unleashing a hail of metal fragments that fills a 20-foot
 
 _Grenade, 300 sp, S._
 
-This grenade explodes in a blinding flash and a deafening bang that affect a 20-foot-radius :aoe-sphere: Sphere. Each creature in the area must make a :d20-save: DC 14 Constitution saving throw, taking 2d6 :dmg-thunder: Thunder damage and have the ^^Blinded^^ and ^^Deafened^^ condition for 1 minute on a failed save, or half as much on a successful save with no additional effects. 
+This grenade explodes in a blinding flash and a deafening bang that affect a 20-foot-radius :aoe-sphere: Sphere. Each creature in the area must make a :d20-save: DC 14 Constitution saving throw, taking 2d6 :dmg-thun: Thunder damage and have the ^^Blinded^^ and ^^Deafened^^ condition for 1 minute on a failed save, or half as much on a successful save with no additional effects. 
 
 Affected creatures can repeat the :d20-save: saving throw at the start of each of their turns, ending the effect on a success. On a successful save, the creature takes only half damage and suffers no additional effects.
 

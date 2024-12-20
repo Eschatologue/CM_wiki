@@ -31,7 +31,7 @@ When you hit a target with an attack roll and deal damage to it, you can give th
 When you take damage, you can take a Reaction to roll 1d12. Add your Constitution to the number rolled and reduce the damage by that total.
 
 ***Storm's Thunder (Storm Giant)***  
-When you take damage from a creature within 60 feet of you, you can take a Reaction to deal 1d8 :dmg-thunder: Thunder damage to that creature.
+When you take damage from a creature within 60 feet of you, you can take a Reaction to deal 1d8 :dmg-thun: Thunder damage to that creature.
 
 ### Large Form
 

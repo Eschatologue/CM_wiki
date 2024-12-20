@@ -109,7 +109,7 @@ While holding the item, the wielder can take a Bonus Action to cause a blade of 
 | Trait | Details |
 |---|---|
 | **Weapon Category** | Simple Melee |
-| **Damage on a Hit** | 1d8+1 (1d8+2 at level 14) :dmg-radiant: Radiant + Ability Modifier used for the attack roll |
+| **Damage on a Hit** | 1d8+1 (1d8+2 at level 14) :dmg-radi: Radiant + Ability Modifier used for the attack roll |
 | **Properties** | :weapon-prop-finesse: ^^Finesse^^ | 
 | **Mastery** | Vex <br>You can use this property, and it doesn't count against the number of properties you can use with Weapon Mastery |
 
@@ -121,7 +121,7 @@ The luminous blade emits bright light in a 15-foot radius and dim light for an a
 
 _**Prerequisite:** Level 14+; A helm, or diadem_
 
-The wearer of this magic helm has :dmg-res: Resistance to :dmg-psychic: Psychic damage, :dmg-imm: Immunity to the Charmed and Frightened conditions, and any magic that allows another creature to read their thoughts or telepathically communicate with them.
+The wearer of this magic helm has :dmg-res: Resistance to :dmg-psyc: Psychic damage, :dmg-imm: Immunity to the Charmed and Frightened conditions, and any magic that allows another creature to read their thoughts or telepathically communicate with them.
 
 ---
 

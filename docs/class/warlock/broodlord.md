@@ -26,15 +26,15 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 ### Level 3: Gathering Swarm
 
-As an :rsc-a: **Action**, choose an area you can see within 60 feet, your patron's brood gathers in the area in a 10-foot cube. You can move the swarm up to 30 feet during your turn (no action required). Whenever the Brood Swarm moves within a creature's space you can see and whenever a creature you can see enters the Brood Swarm's space or ends its turn there, you can force that creature to make a Dexterity saving throw. On a failed save, the creature takes 2d10 :dmg-poison: Poison damage or takes only half damage on a successful save. A creature makes this save only once per turn.
+As an :rsc-a: **Action**, choose an area you can see within 60 feet, your patron's brood gathers in the area in a 10-foot cube. You can move the swarm up to 30 feet during your turn (no action required). Whenever the Brood Swarm moves within a creature's space you can see and whenever a creature you can see enters the Brood Swarm's space or ends its turn there, you can force that creature to make a Dexterity saving throw. On a failed save, the creature takes 2d10 :dmg-posn: Poison damage or takes only half damage on a successful save. A creature makes this save only once per turn.
 
 This feature lasts for 1 minute or until you end it early (no action required). you can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
 ### Level 6: Venomous Gift
 
-Your patron's lethal poison courses through your magic. When you cast a spell that deals :dmg-poison: Poison damage, it ignores :dmg-res: Resistance to :dmg-poison: Poison damage and you can add your Charisma modifier to one damage roll of that spell against one of its targets
+Your patron's lethal poison courses through your magic. When you cast a spell that deals :dmg-posn: Poison damage, it ignores :dmg-res: Resistance to :dmg-posn: Poison damage and you can add your Charisma modifier to one damage roll of that spell against one of its targets
 
-Additionally, You have :dmg-res: Resistance to :dmg-poison: Poison damage and you have :dmg-imm: Immunity to the Poisoned condition.
+Additionally, You have :dmg-res: Resistance to :dmg-posn: Poison damage and you have :dmg-imm: Immunity to the Poisoned condition.
 
 ### Level 10: Protect the Hive
 
@@ -48,7 +48,7 @@ You are always under the effect of the *Spider Climb* spell. As a :rsc-b: **Bonu
 
 ***Monstrous Form.*** You gain a bonus +2 to your AC and your size increases by one category. Your Strength and Dexterity score is equal to your Charisma score. You are also considered to be a Monstrosity for the purpose of gameplay mechanics and magical effects.
 
-***Natural Weapon.*** You have natural weapons such as talons or stingers. As a Magic Action, You make a melee spell attack against one creature within 5 feet of you. On a hit, the target takes 1d10 :dmg-poison: Poison damage. After using this action, you can attack again with your Natural Weapon as a Bonus Action this turn.
+***Natural Weapon.*** You have natural weapons such as talons or stingers. As a Magic Action, You make a melee spell attack against one creature within 5 feet of you. On a hit, the target takes 1d10 :dmg-posn: Poison damage. After using this action, you can attack again with your Natural Weapon as a Bonus Action this turn.
 
 ***Writhing Tide.*** When you transform or use the *Protect the Hive* feature, you can gain Temporary Hit Points equal to your Warlock level. 
 

@@ -87,7 +87,7 @@ Increase the :weapon-prop-reload: **Reload** property value by half of the defau
 **Prerequisite:** None  
 **Stackable:** No
 
-Choose one of the following damage types: :dmg-force: Force, :dmg-radiant: Radiant, or :dmg-necrotic: Necrotic. The firearm deals the chosen damage type instead of its regular damage type.
+Choose one of the following damage types: :dmg-force: Force, :dmg-radi: Radiant, or :dmg-necr: Necrotic. The firearm deals the chosen damage type instead of its regular damage type.
 
 ---
 
@@ -189,6 +189,6 @@ Removes the :weapon-prop-sighted: **Heavy** property from this firearm. If the f
 **Prerequisite:** None  
 **Stackable:** No
 
-Choose one of the following damage types: :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, or :dmg-lightning: Lightning. The firearm deals the chosen damage type instead of its regular damage type.
+Choose one of the following damage types: :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, or :dmg-lgtn: Lightning. The firearm deals the chosen damage type instead of its regular damage type.
 
 ---

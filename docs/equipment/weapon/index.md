@@ -124,7 +124,7 @@ If you make an attack against a target that is within half this weapon's normal 
 
 ### :weapon-prop-sighted:{ .lg } Sighted
 
-This weapon has :d20-disadv: **Disadvantage** on attack rolls made against targets within 20 feet and has :d20-adv: **Advantage** against target that has not moved at least 15 feet for this before the start of your current turn.
+This weapon has :d20-disadv: **Disadvantage** on attack rolls made against targets within 20 feet and has :d20-adv: Advantage against target that has not moved at least 15 feet for this before the start of your current turn.
 
 ---
 

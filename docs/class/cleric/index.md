@@ -169,7 +169,7 @@ This damage doesn't end the turn effect.
 
 Divine power infuses you in battle. You gain one of the following options of your choice:
 
-***Divine Strike.*** Once on each of your turns when you hit a creature with an attack with a weapon, you can cause the target to take an extra 1d8 :dmg-necrotic: Necrotic or :dmg-radiant: Radiant damage (your choice).
+***Divine Strike.*** Once on each of your turns when you hit a creature with an attack with a weapon, you can cause the target to take an extra 1d8 :dmg-necr: Necrotic or :dmg-radi: Radiant damage (your choice).
 
 ***Potent Spellcasting.*** You add your Wisdom modifier to the damage you deal with any Cleric cantrip.
  

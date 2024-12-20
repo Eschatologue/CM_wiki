@@ -68,11 +68,11 @@ Multiple variations of this item exist. When you drink this potion, you gain Res
 | *Potion of Resistance (Acid)* | Uncommon | :dmg-acid: Acid damage | Liquid is a viscous, green substance. |
 | *Potion of Resistance (Cold)* | Uncommon | :dmg-cold: Cold damage | Liquid is a pale, icy-blue fluid. |
 | *Potion of Resistance (Fire)* | Uncommon | :dmg-fire: Fire damage | Liquid is a warm, red-orange liquid. |
-| *Potion of Resistance (Lightning)* | Uncommon | :dmg-lightning: Lightning damage | Liquid crackles with a faint yellow glow. |
-| *Potion of Resistance (Thunder)* | Uncommon | :dmg-thunder: Thunder damage | Liquid rumbles and vibrates inside the container. |
-| *Potion of Resistance (Necrotic)* | Rare | :dmg-necrotic: Necrotic damage | Liquid is dark and swirls with shadowy wisps. |
-| *Potion of Resistance (Psychic)* | Rare | :dmg-psychic: Psychic damage | Liquid shimmers with an iridescent purple hue. |
-| *Potion of Resistance (Radiant)* | Rare | :dmg-radiant: Radiant damage | Liquid glows faintly with a soft golden light. |
+| *Potion of Resistance (Lightning)* | Uncommon | :dmg-lgtn: Lightning damage | Liquid crackles with a faint yellow glow. |
+| *Potion of Resistance (Thunder)* | Uncommon | :dmg-thun: Thunder damage | Liquid rumbles and vibrates inside the container. |
+| *Potion of Resistance (Necrotic)* | Rare | :dmg-necr: Necrotic damage | Liquid is dark and swirls with shadowy wisps. |
+| *Potion of Resistance (Psychic)* | Rare | :dmg-psyc: Psychic damage | Liquid shimmers with an iridescent purple hue. |
+| *Potion of Resistance (Radiant)* | Rare | :dmg-radi: Radiant damage | Liquid glows faintly with a soft golden light. |
 | *Potion of Resistance (Force)* | Rare | :dmg-force: Force damage | Liquid appears translucent with a slight shimmer. |
 
 ---
@@ -93,7 +93,7 @@ Grants Temporary Hit Points equals to 4d4 plus your Constitution modifier.
 
 ---
 
-### Potion of Advantage
+### Potion of Advantage 
 
 *Potion, Uncommon, M-*
 

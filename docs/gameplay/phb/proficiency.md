@@ -72,4 +72,4 @@ A character gains proficiency with various weapons and tools from their class an
 
 ***Weapon.*** Anyone can wield a weapon, but prodiciency makes you better at wielding it. If you have proficiency with a weapon, you add your Proficiency Bonus to Attack Rolls made with it.
 
-***Tools.*** If you have proficiency with a tool, you can add your Proficiency Bonus to any Ability Check you make that uses the tool. If you have Proficiency in the skill that's also used with that check, you have :d20-adv: **Advantage** on the check too. This means tou can benefit from both skill proficiency and tool proficiency on the same ability check.
+***Tools.*** If you have proficiency with a tool, you can add your Proficiency Bonus to any Ability Check you make that uses the tool. If you have Proficiency in the skill that's also used with that check, you have :d20-adv: Advantage on the check too. This means tou can benefit from both skill proficiency and tool proficiency on the same ability check.

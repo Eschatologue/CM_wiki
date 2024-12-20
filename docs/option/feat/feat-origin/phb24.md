@@ -72,8 +72,8 @@ You have inexplicable luck that can kick in at just the right moment, granting y
 **Luck Points**  
 You have a number of Luck Points equal to your Proficiency Bonus. You can spend the points on the benefits below, and you regain your expended Luck Points when you finish a Long Rest.
     
-**Advantage**  
-Immediately after you roll a d20, you can spend 1 Luck Point to give yourself :d20-adv: **Advantage** on the roll.
+Advantage 
+Immediately after you roll a d20, you can spend 1 Luck Point to give yourself :d20-adv: Advantage on the roll.
     
 **Disadvantage**  
 When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to impose :d20-disadv: **Disadvantage** on that roll.

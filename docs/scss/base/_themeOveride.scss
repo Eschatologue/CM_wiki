@@ -5,7 +5,7 @@
 @use "../utility/convert";
 
 /* Tool Tips adjustment to account for site size*/
-[role="tooltip"]>.md-tooltip2__inner {
+[role="tooltip"] > .md-tooltip2__inner {
     padding: 0.45em 1.5em;
     max-width: 35rem;
     font-size: 0.7rem;
@@ -19,7 +19,6 @@
     @media screen and (max-width: 1024px) {
         max-width: 98%;
     }
-    
 }
 
 /* Content Grids */
@@ -27,14 +26,13 @@
     grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(260px), 1fr));
     grid-gap: convert.px2em(4px);
 
-
     @media screen and (max-width: 768px) {
         grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(120px), 1fr));
         /* Change Grid Size on smaller screen, stuff looks ugly on phones */
     }
 
-    &.cards> :is(ul, ol)>li,
-    >.card {
+    &.cards > :is(ul, ol) > li,
+    > .card {
         border: convert.px2rem(1.5px) solid var(--md-default-wht--0125);
         padding: convert.px2rem(10px) convert.px2rem(16px);
     }

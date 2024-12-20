@@ -6,7 +6,7 @@
 @use "../utility/convert";
 
 $paddings: 16px;
-$paddingScale: 7px;
+$paddingScale: 6px;
 $th-padding: $paddingScale * 1.4;
 
 $tableFontSize: (typeset.$defaultFontSize * 0.9);
@@ -26,7 +26,7 @@ $tableFontSize: (typeset.$defaultFontSize * 0.9);
             text-transform: capitalize !important;
             vertical-align: bottom;
             color: var(--md-text-color);
-            border-bottom: convert.px2rem(3px) solid var(--md-primary-fg-color);
+            border-bottom: convert.px2rem(2.5px) solid var(--md-primary-fg-color);
             background-color: var(--md-mod-table-color--darkest);
             padding: convert.px2em($th-padding) convert.px2em($paddings);
         }
@@ -34,8 +34,8 @@ $tableFontSize: (typeset.$defaultFontSize * 0.9);
         td {
             // Default Font Size
             font-size: $tableFontSize * 0.9;
-
-            border: convert.px2rem(0px) transparent !important; // No Bottom Border
+            border: convert.px2rem(0px) transparent !important;
+            vertical-align: middle;
 
             b,
             strong {
@@ -76,8 +76,8 @@ $tableFontSize: (typeset.$defaultFontSize * 0.9);
         width: 100%;
 
         table:not([class]) {
-            box-shadow: var(--md-shadow-z2);
-            margin-top: convert.px2rem(4px);
+            //box-shadow: var(--md-shadow-z2);
+            margin: convert.px2rem(0px);
             display: table;
             border-color: transparent !important;
         }

@@ -1,5 +1,5 @@
 ---
-icon: dmg/necrotic
+icon: dmg/posn
 ---
 
 # Conditions
@@ -24,7 +24,7 @@ While you have the **Blinded** condition, you experience the following effects.
 
 ***Can't See.*** You can't see and automatically fail any ability check that requires sight.
 
-***Attacks Affected.*** Attack rolls against you have Advantage, and your attack rolls have Disadvantage.
+***Attacks Affected.*** Attack rolls against you have Advantage , and your attack rolls have Disadvantage.
 
 ---
 
@@ -172,7 +172,7 @@ While you have the **Restrained** condition, you experience the following effect
 
 ***Speed 0.*** Your Speed is 0 and can't increase.
 
-***Attacks Affected.*** Attack rolls against you have Advantage, and your attack rolls have Disadvantage.
+***Attacks Affected.*** Attack rolls against you have Advantage , and your attack rolls have Disadvantage.
 
 ***Saving Throws Affected.*** You have Disadvantage on Dexterity saving throws.
 
@@ -184,7 +184,7 @@ While you have the **Silenced** condition, you experience the following effects.
 
 ***No Verbal Components.*** You can't cast spell that requires Verbal component.
 
-***Resistance.*** You have :dmg-res: **Resistance** to :dmg-thunder: **Thunder** damage.
+***Resistance.*** You have :dmg-res: **Resistance** to :dmg-thun: **Thunder** damage.
 
 ***Speechless.*** You can't speak.
 

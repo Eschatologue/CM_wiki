@@ -95,7 +95,7 @@ Your Arcane Jolt and Steel Defender become more powerful:
 
     **Senses** Darkvision 60 ft., Passive Perception 10 + (PB x 2)  
     **Skills** Athletics +2 plus PB, Perception +0 plus (PB x 2)  
-    **Immunities** :dmg-poison: Poison; Charmed, Exhaustion, Poisoned  
+    **Immunities** :dmg-posn: Poison; Charmed, Exhaustion, Poisoned  
     **Languages** understands the languages you speak  
     **Proficiency Bonus** equals your bonus   
 

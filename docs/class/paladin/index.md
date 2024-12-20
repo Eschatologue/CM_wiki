@@ -151,7 +151,7 @@ You always have the Divine Smite spell prepared. In addition, you can cast it wi
 
 If you take this feature, you must forgo the **Paladin's Smite** feature from Level 2 and the *Divine Smite* spell is removed from your spell list.
 
-When you damage a creature with a melee weapon attack or an Unarmed Strike, you can expend a spell slot to cause that attack to deal bonus :dmg-radiant: Radiant damage to the target.
+When you damage a creature with a melee weapon attack or an Unarmed Strike, you can expend a spell slot to cause that attack to deal bonus :dmg-radi: Radiant damage to the target.
 
 This bonus damage is 2d8 for a level 1 spell slot and it increases by 1d8 for each spell slot level above 1, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend, to a maximum of 6d8.
 
@@ -211,7 +211,7 @@ You and your allies have Immunity to the Frightened condition while in your Aura
 
 ### Level 11: Radiant Strikes
 
-Your strikes now carry supernatural power. When you hit a target with an attack roll using a Melee weapon or an Unarmed Strike, the target takes an extra 1d8 :dmg-radiant: Radiant damage.
+Your strikes now carry supernatural power. When you hit a target with an attack roll using a Melee weapon or an Unarmed Strike, the target takes an extra 1d8 :dmg-radi: Radiant damage.
 
 ### Level 14: Restoring Touch
 

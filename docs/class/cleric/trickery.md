@@ -56,7 +56,7 @@ Whenever you take the Bonus Action to create or move the illusion of your Invoke
 
 The illusion of your Invoke Duplicity has grown more powerful in the following ways: 
 
-***Shared Distraction.*** When you and your allies make attack rolls against a creature within 5 feet of the illusion, the attack rolls have Advantage
+***Shared Distraction.*** When you and your allies make attack rolls against a creature within 5 feet of the illusion, the attack rolls have Advantage 
 
 ***Healing Illusion.*** When the illusion ends, you or a creature of your chice within 5 feet of it regains a number of Hit Points equal to your CLeric level.
 

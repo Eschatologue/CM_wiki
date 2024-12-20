@@ -70,7 +70,7 @@ You can use an Arcane Focus as a Spellcasting Focus for the spells you prepare f
 
 ### Level 3: Sanguine Offering
 
-Once per turn, when you hit a creature with a weapon attack or an Unarmed Strike (Damage), you can expend one of your Fighter Hit Dice as part of the attack to deal an additional 1d10 :dmg-necrotic: Necrotic damage to the target, in addition to the normal damage of your weapon.
+Once per turn, when you hit a creature with a weapon attack or an Unarmed Strike (Damage), you can expend one of your Fighter Hit Dice as part of the attack to deal an additional 1d10 :dmg-necr: Necrotic damage to the target, in addition to the normal damage of your weapon.
 
 ### Level 7: Otherworldly Step
 
@@ -82,7 +82,7 @@ The Eldritch magic within your blood seeps into your weapon strikes. When you hi
 
 ### Level 15: Greater Offering
 
-You can restore your own vitality by inflicting pain on others. When you use [Sanguine Offering](#level-3-sanguine-offering), you gain Temporary Hit Points equal to the :dmg-necrotic: Necrotic damage dealt to the creature.
+You can restore your own vitality by inflicting pain on others. When you use [Sanguine Offering](#level-3-sanguine-offering), you gain Temporary Hit Points equal to the :dmg-necr: Necrotic damage dealt to the creature.
 
 Temporary Hit Points you gain from this feature last for 1 minute, or until you gain temporary hit points again.
 

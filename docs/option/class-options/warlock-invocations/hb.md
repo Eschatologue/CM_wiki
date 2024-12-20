@@ -47,7 +47,7 @@ This timekeeping device disappears if you conjure another device with this featu
 
 As a :rsc-b: **Bonus Action**, you can conjure a pact instrument in your hand—a musical instrument of your choice with which you bond—or create a bond with a musical instrument you touch. Until the bond ends, it grants you the following benefits:
 
-***Bonus Damage.*** When you use it to cast a Warlock spell with a Verbal component, or a spell that deals :dmg-thunder: Thunder damage, you gain a bonus to one of the spell's damage rolls equal to 1d8.
+***Bonus Damage.*** When you use it to cast a Warlock spell with a Verbal component, or a spell that deals :dmg-thun: Thunder damage, you gain a bonus to one of the spell's damage rolls equal to 1d8.
 
 ***Expertise.*** You have Expertise with it, and it uses your spellcasting modifier for ability checks made with it.
 
@@ -91,7 +91,7 @@ You can create a Pact Weapon that is a Short-Arm or Long-Arm.
 
 ***Prerequisite:** [Pact of the Instrument]*
 
-When you cast a Warlock spell with a verbal component or deals :dmg-thunder: Thunder damage while using your pact instrument as your spellcasting focus, the save DC for that spell increases by 1
+When you cast a Warlock spell with a verbal component or deals :dmg-thun: Thunder damage while using your pact instrument as your spellcasting focus, the save DC for that spell increases by 1
 
 ---
 

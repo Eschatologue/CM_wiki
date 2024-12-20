@@ -13,7 +13,7 @@ When you do something other than moving or communicating, you typically take an 
 | **Attack** | Attack with a weapon or an Unarmed Strike |
 | **Dash** | For the rest of the turn, give yourself extra movement equal to your Speed |
 | **Disengage** | Your movement doesn't provoke Opportunity Attack for the rest of the turn | 
-| **Dodge** | Until the start of your next turn, Attack Rolls against you have :d20-disadv: **Disadvantage**, and you make Dexterity saving throw with :d20-adv: **Advantage**. You lost this benefit if you have the Incapacitated condition or if your Speed is 0 |
+| **Dodge** | Until the start of your next turn, Attack Rolls against you have :d20-disadv: **Disadvantage**, and you make Dexterity saving throw with :d20-adv: **Advantage **. You lost this benefit if you have the Incapacitated condition or if your Speed is 0 |
 | **Help** | Help another creature Ability Check or Attack Roll, or administer first aid |
 | **Hide** | Make a Dexterity (Stealth) check | 
 | **Influence** | Make Charisma (Deception, Intimidation, Perfomance, or Persuassion) or Wisdom (Animal Handling) check to alter a creature's attitude |

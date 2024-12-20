@@ -40,9 +40,7 @@ You gain the following benefits while wearing this armour:
 
 ***Self Supporting.*** If the armour normally has a Strength requirement, you can use Intelligence to fufill the requirement.
 
-#### Spellcasting Focus
-
-You can use the Arcane Armour as a spellcasting focus for your Artificer spells.
+***Spellcasting Focus.***You can use the Arcane Armour as a spellcasting focus for your Artificer spells.
 
 ***Second Skin.*** The armour attaches to you and can't be removed against your will. It also expands to cover your entire body. You can retract or deploy the helmet as a :rsc-b: Bonus Action. The armour replaces any missing limbs, functioning identically to a limb it replaces.
 
@@ -63,7 +61,7 @@ You design your armour to be in the front line of conflict. It has the following
 ***Thunder Gauntlets.*** Each of the armour's gauntlets has the following trait:
 
 :   **Weapon Category:** Simple Melee
-:   **Damage on a Hit:** 1d8 :dmg-thunder: Thunder (1d10 at level 15) plus the ability modifier used for the attack roll
+:   **Damage on a Hit:** 1d8 :dmg-thun: Thunder (1d10 at level 15) plus the ability modifier used for the attack roll
 
 ***Distracting Pulse.*** When you hit a creature with a melee attack, it has Disadvantage on attack rolls against targets other than you until the start of your next turn, as the armour magically emits a distracting pulse when the creature attacks someone else.
 
@@ -76,10 +74,10 @@ You customize your armour for subtle undertakings. It has the following features
 ***Lightning Launcher.*** A gemlike node appears on one of your armoured gauntlet. It has the following trait:
 
 :   **Weapon Category:** Simple Ranged
-:   **Damage on a Hit:** 1d6 :dmg-lightning: Lightning (2d6 at level 15) plus the ability modifier used for the attack roll
+:   **Damage on a Hit:** 1d6 :dmg-lgtn: Lightning (2d6 at level 15) plus the ability modifier used for the attack roll
 :   **Properties:** Ranged (90/270)
 
-***Lightning Arc.*** Once per turn when you hit a creature with a ranged attack, you can deal an extra 1d6 :dmg-lightning: Lightning damage to that target, as your armour arcs electricity between itself and the target.
+***Lightning Arc.*** Once per turn when you hit a creature with a ranged attack, you can deal an extra 1d6 :dmg-lgtn: Lightning damage to that target, as your armour arcs electricity between itself and the target.
 
 ***Dampening Field.*** You have Advantage on Dexterity (Stealth) checks. If the armour normally imposes Disadvantage on such checks, the Advantage and Disadvantage cancel each other, as normal.
 
@@ -109,6 +107,6 @@ You can use this Reaction a number of times equal to your Intelligence modifier,
 
 #### Infiltrator
 
-Any creature that takes :dmg-lightning: Lightning damage from your Lightning Launcher glimmers with magical light until the start of your next turn. The glimmering creature sheds dim light in a 5-foot radius, and it has :d20-disadv: Disadvantage on attack rolls against you, as the light jolts it if it attacks you. In addition, the next attack roll against it has :d20-adv: Advantage, and if that attack hits, the target takes an extra 1d6 :dmg-lightning: Lightning damage.
+Any creature that takes :dmg-lgtn: Lightning damage from your Lightning Launcher glimmers with magical light until the start of your next turn. The glimmering creature sheds dim light in a 5-foot radius, and it has :d20-disadv: Disadvantage on attack rolls against you, as the light jolts it if it attacks you. In addition, the next attack roll against it has :d20-adv: Advantage , and if that attack hits, the target takes an extra 1d6 :dmg-lgtn: Lightning damage.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"

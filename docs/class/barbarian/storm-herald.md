@@ -21,7 +21,7 @@ While your Rage is active, a storm whips around you in a 10 foot Emanation. As p
 
 ***Desert.*** All other creatures within the Emanation take :dmg-fire: Fire damage equal to 1d4 plus your Rage Damage bonus.
 
-***Sea.*** You choose one other creature you can see within the Emanation. It must make a Dexterity save. On a failure, it takes :dmg-lightning: Lightning damage equal to 1d6 plus your Strength modifier and half as much on a successful save. This damage increases by 1d6 at level 10, level 15, and at level 20.
+***Sea.*** You choose one other creature you can see within the Emanation. It must make a Dexterity save. On a failure, it takes :dmg-lgtn: Lightning damage equal to 1d6 plus your Strength modifier and half as much on a successful save. This damage increases by 1d6 at level 10, level 15, and at level 20.
 
 ***Tundra.*** Each creature of your choice within the Emanation gains Temporary Hit Points equal to 1d4 plus your Rage Damage bonus, which last until your Rage ends.
 
@@ -31,7 +31,7 @@ The storm grants you benefits even when your Storm Aura isn't active. Whenever y
 
 ***Desert.*** You have :dmg-res: Resistance to :dmg-fire: Fire damage and you don't suffer effects caused by extreme heat, and as an action you can touch a flammable object that isn't being worn or carried by anyone else and set it on fire.
 
-***Sea.*** You have :dmg-res: Resistance to :dmg-lightning: Lightning damage, you can breathe underwater, and you have a Swim Speed equal to your Speed.
+***Sea.*** You have :dmg-res: Resistance to :dmg-lgtn: Lightning damage, you can breathe underwater, and you have a Swim Speed equal to your Speed.
 
 ***Tundra.*** You have :dmg-res: Resistance to :dmg-cold: Cold damage and you don't suffer effects caused by extreme cold, and as an action you can touch a 5-foot Cube of water and turn it into ice, which melts after 1 minute. This action fails if a creature is in the Cube.
 

@@ -55,7 +55,7 @@ Your mastery of alchemy allows you to alter the explosives you make in the follo
 
 ***Color.*** You alter the color of both explosive itself, the color of the explosion, and the color of the smoke it produces.
 
-***Damage Type.*** You alter the damage type of any explosive you craft to :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, :dmg-fire: Fire, :dmg-thunder: Thunder, or :dmg-lightning: Lightning.
+***Damage Type.*** You alter the damage type of any explosive you craft to :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, :dmg-fire: Fire, :dmg-thun: Thunder, or :dmg-lgtn: Lightning.
 
 ### Level 13: Sabotage
 
@@ -117,7 +117,7 @@ The following Explosives are available for a Saboteur rogue to learn. As an :rsc
 
     _**Prerequisite:** Level 3+ Rogue, **Cost:** 1 Cordite charge(s)_
 
-    On impact, a wave of thunderous force bursts forth, forcing targets within 15-foot-radius :aoe-sphere: Sphere to make :d20-save: Strength saving throw. On a failure, they take :dmg-thunder: Thunder damage equal to your :class-phb24-rogue: Sneak Attack bonus and are pushed 10 feet away from the point of impact. On a success, they take half as much damage and are not moved.
+    On impact, a wave of thunderous force bursts forth, forcing targets within 15-foot-radius :aoe-sphere: Sphere to make :d20-save: Strength saving throw. On a failure, they take :dmg-thun: Thunder damage equal to your :class-phb24-rogue: Sneak Attack bonus and are pushed 10 feet away from the point of impact. On a success, they take half as much damage and are not moved.
 
     ---
 
@@ -151,7 +151,7 @@ The following Explosives are available for a Saboteur rogue to learn. As an :rsc
 
     On impact, dim, greenish light spreads within a 30-foot-radius :aoe-sphere: Sphere. The light spreads around corners, and it lasts for 1 minute.
 
-    When a creature moves into the Sphere for the first time on a turn or starts its turn there, that creature must succeed on a :d20-save: Constitution saving throw or take :dmg-radiant: Radiant damage equal to your :class-phb24-rogue: Sneak Attack bonus, and it suffers one level of Exhaustion and emits a dim, greenish light in a 5-foot radius. This light makes it impossible for the creature to benefit from being invisible. The light and any levels of exhaustion caused by this explosive go away when the it ends.
+    When a creature moves into the Sphere for the first time on a turn or starts its turn there, that creature must succeed on a :d20-save: Constitution saving throw or take :dmg-radi: Radiant damage equal to your :class-phb24-rogue: Sneak Attack bonus, and it suffers one level of Exhaustion and emits a dim, greenish light in a 5-foot radius. This light makes it impossible for the creature to benefit from being invisible. The light and any levels of exhaustion caused by this explosive go away when the it ends.
 
     ---
 
@@ -181,7 +181,7 @@ The following Explosives are available for a Saboteur rogue to learn. As an :rsc
 
     _**Prerequisite:** Level 13+ Rogue, **Cost:** 4 Cordite charge(s)_
 
-    On impact, psychic energy to erupts, forcing creature in a 20-foot-radius :aoe-sphere: Sphere to make an Intelligence saving throw, taking :dmg-psychic: Psychic damage equal to your :class-phb24-rogue: Sneak Attack bonus on a failed save or half as much damage on a successful one.
+    On impact, psychic energy to erupts, forcing creature in a 20-foot-radius :aoe-sphere: Sphere to make an Intelligence saving throw, taking :dmg-psyc: Psychic damage equal to your :class-phb24-rogue: Sneak Attack bonus on a failed save or half as much damage on a successful one.
 
     On a failed save, a target also has muddled thoughts for 1 minute. During that time, it subtracts 1d6 from all its attack rolls and ability checks, as well as any Constitution saving throws to maintain Concentration. The target makes an Intelligence saving throw at the end of each of its turns, ending the effect on itself on a success.
 
@@ -195,7 +195,7 @@ The following Explosives are available for a Saboteur rogue to learn. As an :rsc
 
     On impact, a 20-foot-radius :aoe-sphere: Sphere of yellow-green fog appears. The fog lasts for the duration or until strong wind (such as the one created by *Gust of Wind*) disperses it, ending the effect. Its area is Heavily Obscured.
 
-    Each creature in the Sphere makes a :d20-save: Constitution saving throw, taking :dmg-poison: Poison damage equal to your :class-phb24-rogue: Sneak Attack bonus on a failed save or half as much damage on a successful one. A creature must also make this save when the Sphere moves into its space and when it enters the Sphere or ends its turn there. A creature makes this save only once per turn.
+    Each creature in the Sphere makes a :d20-save: Constitution saving throw, taking :dmg-posn: Poison damage equal to your :class-phb24-rogue: Sneak Attack bonus on a failed save or half as much damage on a successful one. A creature must also make this save when the Sphere moves into its space and when it enters the Sphere or ends its turn there. A creature makes this save only once per turn.
 
     The Sphere moves 10 feet away from you at the start of each of your turns.
 

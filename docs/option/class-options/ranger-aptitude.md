@@ -40,7 +40,7 @@ _**Prerequisite:** Level 3+ Ranger_
 
 You learn how to utilise divine magic.
 
-***Mark of Judgement.*** When you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or Unarmed Strike, you can change the spell's bonus damage type to :dmg-radiant: Radiant or :dmg-necrotic: Necrotic damage (choose each time) instead of :dmg-force: Force.
+***Mark of Judgement.*** When you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or Unarmed Strike, you can change the spell's bonus damage type to :dmg-radi: Radiant or :dmg-necr: Necrotic damage (choose each time) instead of :dmg-force: Force.
 
 ---
 
@@ -98,7 +98,7 @@ You ignore the effects of any Difficult Terrain imposed by spells, magical pheno
 
 _**Prerequisite:** Level 7+ Ranger_
 
-Choose one of the following damage types: :dmg-force: Force, :dmg-necrotic: Necrotic, :dmg-psychic: Psychic, or :dmg-radiant: Radiant. You gain :dmg-res: Resistance to the chosen damage type. 
+Choose one of the following damage types: :dmg-force: Force, :dmg-necr: Necrotic, :dmg-psyc: Psychic, or :dmg-radi: Radiant. You gain :dmg-res: Resistance to the chosen damage type. 
 
 ***Repeatable.*** You can choose this Aptitude again, choosing different damage type each time.
 
@@ -108,7 +108,7 @@ Choose one of the following damage types: :dmg-force: Force, :dmg-necrotic: Necr
 
 _**Prerequisite:** Level 7+ Ranger_
 
-When you score a Critical Hit against a creature, all creature have :d20-adv: **Advantage** on the next attack they make against that creature before the end of your next turn.
+When you score a Critical Hit against a creature, all creature have :d20-adv: Advantage on the next attack they make against that creature before the end of your next turn.
 
 ---
 

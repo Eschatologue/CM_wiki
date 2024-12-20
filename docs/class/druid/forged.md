@@ -53,7 +53,7 @@ While you are in Wild Shape form, you gain Resistance to :dmg-bldg: Bludgeoning,
 
 ### Level 14: Constructed Perfection
 
-While you are in Wild Shape form, you are immune to conditions such as: Charmed, Frightened, Paralyzed, Petrified, and Poisoned. In addition, you have Immunity to :dmg-poison: Poison damage.
+While you are in Wild Shape form, you are immune to conditions such as: Charmed, Frightened, Paralyzed, Petrified, and Poisoned. In addition, you have Immunity to :dmg-posn: Poison damage.
 
 --8<-- "includes/snippets/spells2/lv0.md"
 

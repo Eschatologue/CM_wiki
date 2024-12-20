@@ -82,11 +82,11 @@ Using firearms requires suppressing one's connection to the Weave, a difficult s
 
 ### Basic Understanding
 
-Most creatures are aware of how firearms work, but using them effectively requires specific knowledge. When attempting to use a firearm for the first time, a creature must make a **DC 15 Intelligence check** to figure out how the weapon functions. The creature's existing weapon proficiencies can provide an :d20-adv: **Advantage** on this check:
+Most creatures are aware of how firearms work, but using them effectively requires specific knowledge. When attempting to use a firearm for the first time, a creature must make a **DC 15 Intelligence check** to figure out how the weapon functions. The creature's existing weapon proficiencies can provide an :d20-adv: Advantage on this check:
 
-- **Short-Arms:** Creatures proficient with *Light Crossbows*, *Repeating Light Crossbows*, *Shortbows*, *Hand Crossbows* or *Martial Weapons* have :d20-adv: **Advantage** on this check with Short-Arms.
-- **Long-Arms:** Creatures proficient with *Arbalests*, *Longbows*, *Heavy Crossbows*, *Repeating Heavy Crossbows* or *Martial Weapons* have :d20-adv: **Advantage** on this check with Long-Arms.
-- **Advanced Firearms:** Creatures proficient with **Martial Weapons** have :d20-adv: **Advantage** on this check with Advanced Firearms (e.g., rocket launchers, flamethrowers).
+- **Short-Arms:** Creatures proficient with *Light Crossbows*, *Repeating Light Crossbows*, *Shortbows*, *Hand Crossbows* or *Martial Weapons* have :d20-adv: Advantage on this check with Short-Arms.
+- **Long-Arms:** Creatures proficient with *Arbalests*, *Longbows*, *Heavy Crossbows*, *Repeating Heavy Crossbows* or *Martial Weapons* have :d20-adv: Advantage on this check with Long-Arms.
+- **Advanced Firearms:** Creatures proficient with **Martial Weapons** have :d20-adv: Advantage on this check with Advanced Firearms (e.g., rocket launchers, flamethrowers).
 
 #### Training and Proficiency
 

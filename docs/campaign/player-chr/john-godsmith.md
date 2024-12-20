@@ -40,7 +40,7 @@ If a Maledict Die Powers does damage, it is equals to the number of dice rolled 
 
 #### Using Maledict Die
 
-Some of your powers expend the Maledict Die, as specified in a power's description. When you use a power that uses a ^^Maledict Die^^ while you have none remaining, you take :dmg-necrotic: Necrotic damage equals to the roll result, you have to roll the die even if the power itself doesn't call for rolling. 
+Some of your powers expend the Maledict Die, as specified in a power's description. When you use a power that uses a ^^Maledict Die^^ while you have none remaining, you take :dmg-necr: Necrotic damage equals to the roll result, you have to roll the die even if the power itself doesn't call for rolling. 
 
 You regain all of them when you finish a Long Rest.
 

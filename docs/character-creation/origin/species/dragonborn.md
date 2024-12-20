@@ -23,12 +23,12 @@ You have an ancestry tied to a specific aeiginae. Choose the kind of dragon or a
     | Dragon | Damage Type |
     |--------|-------------|
     | Black  | :dmg-acid: **Acid** |
-    | Blue   | :dmg-lightning: **Lightning** |
+    | Blue   | :dmg-lgtn: **Lightning** |
     | Brass  | :dmg-fire: **Fire** |
-    | Bronze | :dmg-lightning: **Lightning** |
+    | Bronze | :dmg-lgtn: **Lightning** |
     | Copper | :dmg-acid: **Acid** |
     | Gold   | :dmg-fire: **Fire** |
-    | Green  | :dmg-poison: **Poison** |
+    | Green  | :dmg-posn: **Poison** |
     | Red    | :dmg-fire: **Fire** |
     | Silver | :dmg-cold: **Cold** |
     | White  | :dmg-cold: **Cold** |
@@ -37,13 +37,13 @@ You have an ancestry tied to a specific aeiginae. Choose the kind of dragon or a
 
     | Aeginae | Damage Type |
     |:--|:--|
-    | Jörmungandr | :dmg-thunder: **Thunder** |
+    | Jörmungandr | :dmg-thun: **Thunder** |
     | Ouroboros | :dmg-acid: **Acid** |
-    | Raijin | :dmg-lightning: **Lightning** |
-    | Tartarus | :dmg-necrotic: **Necrotic** |
+    | Raijin | :dmg-lgtn: **Lightning** |
+    | Tartarus | :dmg-necr: **Necrotic** |
     | Thabat | :dmg-fire: **Fire** |
     | Thalassa | :dmg-cold: **Cold** |
-    | Vorthalas | :dmg-radiant: **Radiant** |
+    | Vorthalas | :dmg-radi: **Radiant** |
     | Xanthous | :dmg-force: **Force** |
 
 ### Breath Weapon 

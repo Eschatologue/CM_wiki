@@ -171,7 +171,7 @@ Choose one of the following benefits, you can choose one additional benefit when
 
 ***Wasteland Wanderer (Desert).*** You have spent endless days surviving forbidding deserts. You gain :dmg-res: Resistance to :dmg-fire: Fire damage.
 
-***Wasteland Wanderer (Swamp).*** You have spent endless days surviving fetid swamps. You gain :dmg-res: Resistance to :dmg-poison: Poison damage.
+***Wasteland Wanderer (Swamp).*** You have spent endless days surviving fetid swamps. You gain :dmg-res: Resistance to :dmg-posn: Poison damage.
 
 ### Level 2: Fighting Style
 

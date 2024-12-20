@@ -17,9 +17,9 @@ Many other Bards hate the College of Whispers, viewing it as a parasite that use
 
 ### Level 3: Psychic Blades
 
-When you hit a creature with an attack roll or when a creature fails a saving throw against one of your Bard spells,, you can expend one use of your Bardic Inspiration to deal extra :dmg-psychic: Psychic damage to that target. The damage equals two rolls of the Bardic Inspiration die. You can do so only once per round on your turn.
+When you hit a creature with an attack roll or when a creature fails a saving throw against one of your Bard spells,, you can expend one use of your Bardic Inspiration to deal extra :dmg-psyc: Psychic damage to that target. The damage equals two rolls of the Bardic Inspiration die. You can do so only once per round on your turn.
 
-The :dmg-psychic: Psychic damage increases to 3 rolls of your Bardic Inspiration die when you reach level 6 in this class, and to 4 rolls when you reach level 14.
+The :dmg-psyc: Psychic damage increases to 3 rolls of your Bardic Inspiration die when you reach level 6 in this class, and to 4 rolls when you reach level 14.
 
 ### Level 3: Words of Terror
 

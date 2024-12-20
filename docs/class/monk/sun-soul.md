@@ -15,7 +15,7 @@ Monks of the Way of the Sun Soul learn to channel their own life energy into sea
 
 ### Level 3: Radiant Sun Bolt
 
-Whenever you make an [Unarmed Strike (Damage)](../../gameplay/phb/action.md#damage), you can make a ranged attack roll as you shoot a bolt of radiant energy from your fists, instead of the normal strike. When you do, the strike deals :dmg-radiant: Radiant damage instead of the normal damage type, and the attack has a normal range of 30 feet and a long range of 60 feet. Being within 5 feet of an enemy does not impose Disadvantage on this attack.
+Whenever you make an [Unarmed Strike (Damage)](../../gameplay/phb/action.md#damage), you can make a ranged attack roll as you shoot a bolt of radiant energy from your fists, instead of the normal strike. When you do, the strike deals :dmg-radi: Radiant damage instead of the normal damage type, and the attack has a normal range of 30 feet and a long range of 60 feet. Being within 5 feet of an enemy does not impose Disadvantage on this attack.
 
 ### Level 6: Blinding Light
 
@@ -25,7 +25,7 @@ When you use your [Patient Defense](index.md#patient-defense) feature, you can e
 
 You have gained the ability to create tremendous blasts of radiant energy, flowing directly from your essence. As a Magic action, you can produce the effects of the [:spell-lv3: Fireball] or [:spell-lv3: Lightning Bolt] spells without components or expending a spell slot, with the following alterations:
 
-***Radiant Damage.*** The effects deal :dmg-radiant: Radiant damage, instead of the usual damage type.
+***Radiant Damage.*** The effects deal :dmg-radi: Radiant damage, instead of the usual damage type.
 
 ***Extra Damage.*** You add half your Monk level (rounded down) to the damage roll of the spell.
 

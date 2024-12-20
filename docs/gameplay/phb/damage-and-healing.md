@@ -42,46 +42,57 @@ Many saving throw effects deal half damage (round down) to a target when the tar
 
 Each instance of damage has a type, like Fire or Slashing as defined in the Damage Type table.
 
-##### Damage Type
+=== "Physical Damage"
 
-|symbol|physical damage|description|
-|:-:|:--|:--|
-|:dmg-bldg:{ .xxl }| **Bludgeoning** | Damage from blunt force, such as from clubs, hammers, or falling. This type of damage crushes bones and armour. |
-|:dmg-prcg:{ .xxl }| **Piercing**| Damage from pointed weapons, such as arrows, spears, or teeth. This type of damage punctures and penetrates flesh and armour. |
-|:dmg-slsh:{ .xxl }|**Slashing**| Damage from edged weapons, such as swords, axes, or claws. This type of damage cuts and slices through flesh and armour. |
+    |symbol| Name |description|
+    |:-:|:--|:--|
+    |:dmg-bldg:{ .xxl }| **Bludgeoning** | Damage from blunt force, such as from clubs, hammers, or falling. This type of damage crushes bones and armour. |
+    |:dmg-prcg:{ .xxl }| **Piercing**| Damage from pointed weapons, such as arrows, spears, or teeth. This type of damage punctures and penetrates flesh and armour. |
+    |:dmg-slsh:{ .xxl }|**Slashing**| Damage from edged weapons, such as swords, axes, or claws. This type of damage cuts and slices through flesh and armour. |
 
-|symbol|elemental damage|description|
-|:-:|:--|:--|
-|:dmg-acid:{ .xxl }| **Acid**| Damage from corrosive substances that can eat through materials and flesh. Acid damage can dissolve objects and inflict severe burns. |
-|:dmg-cold:{ .xxl }| **Cold**| Damage from extreme cold, such as ice and freezing temperatures. Cold damage can freeze enemies, slow movements, and cause frostbite. |
-|:dmg-fire:{ .xxl }| **Fire**| Damage from flames and intense heat. Fire damage can ignite objects, cause burns, and spread rapidly. |
-|:dmg-lightning:{ .xxl }| **Lightning**| Damage from electrical energy, such as a lightning bolt. Lightning damage can shock, paralyze, and cause severe burns. |
-|:dmg-poison:{ .xxl }| **Poison** | Damage from toxic substances, which can also inflict various conditions. Poison damage can cause illness, weakness, and death over time. |
-|:dmg-thunder:{ .xxl }| **Thunder** | Damage from sonic energy, often causing concussive force. Thunder damage can deafen, knock back, and crush enemies. |
+=== "Elemental Damage"
 
-|symbol| magical damage|description|
-|:-:|:--|:--|
-|:dmg-force:{ .xxl }| **Force** | Damage from pure magical energy. Force damage is highly effective against all targets and bypasses many defenses. |
-|:dmg-necrotic:{ .xxl }| **Necrotic** | Damage from deathly energy, draining life force. Necrotic damage can wither flesh, drain vitality, and is particularly effective against living creatures. |
-|:dmg-psychic:{ .xxl }| **Psychic** | Damage from mental energy, affecting the mind. Psychic damage can cause confusion, insanity, and severe mental trauma. |
-|:dmg-radiant:{ .xxl }| **Radiant** | Damage from intense, often holy or celestial, energy that can come from divine sources or powerful light-based effects. Radiant damage can purify and is particularly effective against undead and fiends. |
+    |symbol| name |description|
+    |:-:|:--|:--|
+    |:dmg-acid:{ .xxl }| **Acid**| Damage from corrosive substances that can eat through materials and flesh. Acid damage can dissolve objects and inflict severe burns. |
+    |:dmg-cold:{ .xxl }| **Cold**| Damage from extreme cold, such as ice and freezing temperatures. Cold damage can freeze enemies, slow movements, and cause frostbite. |
+    |:dmg-fire:{ .xxl }| **Fire**| Damage from flames and intense heat. Fire damage can ignite objects, cause burns, and spread rapidly. |
+    |:dmg-lgtn:{ .xxl }| **Lightning**| Damage from electrical energy, such as a lightning bolt. Lightning damage can shock, paralyze, and cause severe burns. |
+    |:dmg-posn:{ .xxl }| **Poison** | Damage from toxic substances, which can also inflict various conditions. Poison damage can cause illness, weakness, and death over time. |
+    |:dmg-thun:{ .xxl }| **Thunder** | Damage from sonic energy, often causing concussive force. Thunder damage can deafen, knock back, and crush enemies. |
 
-## Resistance and Vulnerability
-Some creatures and objects have Resistance or Vulnerability to certain damage types. If you have Resistance to a damage type, damage of that type is halved against you (round down). If you have Vulnerability to a damage type, damage of that type is doubled against you. For example, if you have Resistance to Cold damage, such damage is halved against you, and if you have Vulnerability to Fire damage, such damage is doubled against you.
+=== "Magical Damage"
+
+    |symbol| name |description|
+    |:-:|:--|:--|
+    |:dmg-force:{ .xxl }| **Force** | Damage from pure magical energy. Force damage is highly effective against all targets and bypasses many defenses. |
+    |:dmg-necr:{ .xxl }| **Necrotic** | Damage from deathly energy, draining life force. Necrotic damage can wither flesh, drain vitality, and is particularly effective against living creatures. |
+    |:dmg-psyc:{ .xxl }| **Psychic** | Damage from mental energy, affecting the mind. Psychic damage can cause confusion, insanity, and severe mental trauma. |
+    |:dmg-radi:{ .xxl }| **Radiant** | Damage from intense, often holy or celestial, energy that can come from divine sources or powerful light-based effects. Radiant damage can purify and is particularly effective against undead and fiends. |
+
+## :dmg-res: Resistance and :dmg-vul: Vulnerability
+
+Some creatures and objects have :dmg-res: Resistance or :dmg-vul: Vulnerability to certain damage types. 
+
+If you have :dmg-res: Resistance to a damage type, damage of that type is **halved** against you (round down). 
+
+If you have :dmg-vul: Vulnerability to a damage type, damage of that type is **doubled** against you. 
+
+For example, if you have :dmg-res: Resistance to Cold damage, such damage is halved against you, and if you have :dmg-vul: Vulnerability to Fire damage, such damage is doubled against you.
 
 ### No Stacking
 
-Multiple instances of Resistance or Vulnerability that affect the same damage type count as only one instance. For example, if you have Resistance to Necrotic damage as well as Resistance to all damage, Necrotic damage is reduced by half against you.
+Multiple instances of :dmg-res: Resistance or :dmg-vul: Vulnerability that affect the same damage type count as only one instance. For example, if you have :dmg-res: Resistance to Necrotic damage as well as :dmg-res: Resistance to all damage, Necrotic damage is reduced by half against you.
 
 ### Order of Application
 
-Modifiers to damage are applied in the following order: adjustments such as bonuses, penalties, or multipliers are applied first; Resistance is applied second; and Vulnerability is applied third.
+Modifiers to damage are applied in the following order: adjustments such as bonuses, penalties, or multipliers are applied first; :dmg-res: Resistance is applied second; and :dmg-vul: Vulnerability is applied third.
 
-For example, a creature has Resistance to all damage and Vulnerability to Fire damage, and it's within a magical aura that reduces all damage by 5. If it takes 28 Fire damage, the damage is first reduced by 5 (to 23), then halved for the creature's Resistance (and rounded down to 11), then doubled for its Vulnerability (to 22).
+For example, a creature has :dmg-res: Resistance to all damage and :dmg-vul: Vulnerability to Fire damage, and it's within a magical aura that reduces all damage by 5. If it takes 28 Fire damage, the damage is first reduced by 5 (to 23), then halved for the creature's :dmg-res: Resistance (and rounded down to 11), then doubled for its :dmg-vul: Vulnerability (to 22).
 
-## Immunity
+## :dmg-imm: Immunity
 
-Some creatures and objects have Immunity to certain damage types and conditions. Immunity to a damage type means you don't take damage of that type, and Immunity to a condition means you aren't affected by it.
+Some creatures and objects have :dmg-imm: Immunity to certain damage types and conditions. :dmg-imm: Immunity to a damage type means you don't take damage of that type, and :dmg-imm: Immunity to a condition means you aren't affected by it.
 
 ## Healing
 

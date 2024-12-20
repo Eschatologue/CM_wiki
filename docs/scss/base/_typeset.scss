@@ -16,14 +16,14 @@ $defaultFontSize: convert.px2rem(15px);
 $h1Size: $defaultFontSize * 2.25;
 $h2Size: $defaultFontSize * 1.6;
 $h3Size: $defaultFontSize * 1.4;
-$h4Size: $defaultFontSize * 1.15;
+$h4Size: $defaultFontSize * 1.1;
 
 // Main Typeset
 .md-typeset {
     font-weight: $defaultFontWeight;
     font-size: $defaultFontSize;
 
-    @media screen and (max-width: 768px) { 
+    @media screen and (max-width: 768px) {
         /* Make Font Size Smaller for mobile devices */
         font-size: $defaultFontSize * 0.85;
     }
@@ -79,17 +79,28 @@ $h4Size: $defaultFontSize * 1.15;
         font-weight: $defaultFontWeight * 1.5;
         letter-spacing: $h3Size * 0.04;
         margin: convert.px2rem(12px) 0 convert.px2rem(4px) 0;
-        border-bottom: convert.px2rem(2.35px) dotted var(--md-default-wht--025);
+        border-bottom: convert.px2rem(2.55px) dotted var(--md-default-wht--025);
         padding-bottom: convert.px2rem(2px);
     }
 
     h4 {
         font-size: $h4Size;
         letter-spacing: $h4Size * 0.0525;
-        font-weight: 600;
+        font-weight: 550;
         margin: convert.px2rem(12px) 0 convert.px2rem(-3px) 0;
         padding-bottom: convert.px2rem(-2px);
         font-variant: small-caps !important;
+
+        &::before {
+            content: "";
+            display: inline-block;
+            border-radius: $h4Size * 0.15;
+            width: $h4Size * 0.65;
+            height: $h4Size * 0.65;
+            background-color: var(--md-default-wht--025);
+            margin-right: convert.px2rem(8px);
+            vertical-align: middle;
+        }
     }
 
     h5 {

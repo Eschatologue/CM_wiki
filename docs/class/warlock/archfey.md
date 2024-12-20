@@ -43,7 +43,7 @@ In addition, the following effects are now among your Steps of the Fey options.
 
 ***Disappearing Step.*** You have the Invisible condition until the start of your next turn or until immediately after you make an attack roll or cast a spell.
 
-***Dreadful Step.*** Creatures within 5 feet of the space you left or the space you appear in (your choice) must succeed on a Wisdom saving throw against your spell save DC or take 2d10 :dmg-psychic: Psychic damage.
+***Dreadful Step.*** Creatures within 5 feet of the space you left or the space you appear in (your choice) must succeed on a Wisdom saving throw against your spell save DC or take 2d10 :dmg-psyc: Psychic damage.
 
 ### Level 10: Beguiling Defenses
 

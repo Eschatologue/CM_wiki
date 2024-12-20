@@ -216,7 +216,7 @@ Increase your Strength or Dexterity score by 1, to a maximum of 20.
 **Punch and Grab**  
 When you hit a creature with an Unarmed Strike as part of the Attack action on your turn, you can use both the Damage and the Grapple option. You can use this benefit only once per turn.
 
-**Attack Advantage**  
+**Attack Advantage **  
 You have Advantage on attack rolls against a creature Grappled by you.
 
 **Fast Wrestler**  
