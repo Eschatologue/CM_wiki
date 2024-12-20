@@ -15,7 +15,7 @@ Your sorcerous power are drawn from an innate connection with the Weave, the ver
 
 ### Level 3: Arcane Attunement
 
-You gain proficiency in the Arcana skill if you don't have it already. When you make an Intelligence (Arcana) check, you can use your Charisma modifier in place of Intelligence. 
+You gain proficiency in the Arcana skill if you don't have it already. Whenever you would make an Intelligence (Arcana) check, you can choose to make a Charisma (Arcana) check instead.
 
 When you cast a Sorcerer spell, you can ignore any material component that isn't consumed by the spell and doesn't have a gold cost
 

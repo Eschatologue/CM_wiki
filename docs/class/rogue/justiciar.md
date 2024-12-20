@@ -21,8 +21,8 @@ Not all servants of the gods work in the light. Justiciars are zealous enforcers
 | 4 | — | 1 | 4 | 3 | — | — | — |
 | 5 | — | 1 | 4 | 3 | — | — | — |
 | 6 | — | 1 | 4 | 3 | — | — | — |
-| 7 | — | 2 | 5 | 4 | 2 | — | — |
-| 8 | — | 2 | 6 | 4 | 2 | — | — |
+| 7 | — | 1 | 5 | 4 | 2 | — | — |
+| 8 | — | 1 | 6 | 4 | 2 | — | — |
 | 9 | Wrathful Strikes | 2 | 6 | 4 | 2 | — | — |
 | 10 | — | 2 | 7 | 4 | 3 | — | — |
 | 11 | — | 2 | 8 | 4 | 3 | — | — |
@@ -84,15 +84,13 @@ You and your weapons are blessed by the heavens to smite heretics and blasphemer
 
 ***Bonus Proficiency.*** You gain proficiency with the Religion skill. Whenever you would make an Intelligence (Religion) check, you can choose to make a Charisma (Religion) check instead.
 
-***Concecrated Weapons.*** As part of a Short or Long Rest, you can perform a ritual and touch a weapon that you are proficient with and Consecrate it. This Consecrated weapon becomes a Holy Symbol and can be used as a spellcasting focus for your Cleric spells. You can also add your Sneak Attack bonus to attacks with it even if it does not have the :weapon-prop-finesse: Finesse property. However, all other rules of for Sneak Attack bonus still apply. You can have only one Consecrated weapon at a time.
+***Concecrated Weapons.*** As part of a Short or Long Rest, you can perform a ritual and touch a weapon that you are proficient with to Consecrate it. This Consecrated weapon becomes a Holy Symbol and can be used as a spellcasting focus for your Cleric spells. You can also add your Sneak Attack bonus to attacks with it even if it does not have the :weapon-prop-finesse: Finesse property. However, all other rules of for Sneak Attack bonus still apply. You can have only one Consecrated weapon at a time.
 
 ### Level 9: Wrathful Strikes
 
 When you hit a creature with an attack that includes Sneak Attack damage, you can expend a level 1+ spell slot to empower your strike with divine judgment. The additional damage from your Sneak Attack becomes :dmg-radiant: Radiant or :dmg-necrotic: Necrotic damage (choose each time), and you can treat any 1 or 2 on the Sneak Attack damage roll as a 3.
 
 ### Level 13: Divine Step
-
-*Nothing stands between you and those you hunt.*
 
 You have the [:spell-lv2: Misty Step] spell always prepared. When you cast this spell, you can make one weapon attack or cast [:spell-lv0: True Strike] with as part of the same action of casting [:spell-lv2: Misty Step]. You have :d20-adv: Advantage on this attack.
 
@@ -102,7 +100,7 @@ When you roll Initiative with no uses of your Channel Divinity remaining, you in
 
 ###### :material-book-edit: Written by *Eschatologue*
 
---8<-- "includes/snippets/spells2/lv0-5.md"
+--8<-- "includes/snippets/spells2/lv0.md"
 
 [Cleric spell list]: ../../spells/class-specific/cleric.md
 [Justiciar Feature table]: #justiciar-feature
