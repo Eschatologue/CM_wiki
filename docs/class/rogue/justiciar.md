@@ -19,7 +19,7 @@ You gain the ability to channel divine energy directly from your god, and can us
 
 You can use Channel Divinity once. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest. You gain additional uses when you reach certain Rogue levels, as shown in the Channel Divinity column of the [Justiciar Spellcasting table].
 
-***Divine Sense.*** As a :rsc-b: Bonus Action, you open your awareness to detect extraplanar creatures in your presence. For 1 minutes, you sense the location of any Aberration, Celestial, Elemental, Fey, Fiend, or Undead within 60 feet of yourself. You also sense whether the [:spell-lv5: Hallow] spell is active there and, if so, where.
+***Divine Sense.*** As a :rsc-b: Bonus Action, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the Incapacitated condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [:spell-lv5: Hallow] spell.
 
 ***Shroud of Faith.*** As an :rsc-b: Bonus action, you grip your holy symbol and invoke the protection of your god. You have the ^^Invisible^^ condition for 1 minute. This effect ends early if you attack or cast a spell.
 

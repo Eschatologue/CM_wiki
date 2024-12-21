@@ -106,7 +106,7 @@ The Paladin Features table shows how many spell slots you have to cast your leve
 
 #### Prepared Spells of Level 1+
 
- You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Paladin spells. Heroism and Searing Smite are recommended.
+You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Paladin spells. Heroism and Searing Smite are recommended.
 
 The number of spells on your list increases as you gain Paladin levels, as shown in the Prepared Spells column of the Paladin Features table. Whenever that number increases, choose additional Paladin spells until the number of spells on your list matches the number in the Paladin Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Paladin, your list of prepared spells can include six Paladin spells of level 1 or 2 in any combination.
 
@@ -121,19 +121,19 @@ Whenever you finish a Long Rest, you can replace one spell on your list with ano
 
 #### Spellcasting Focus
 
- You can use a Holy Symbol as a Spellcasting Focus for your Paladin spells.
+You can use a Holy Symbol as a Spellcasting Focus for your Paladin spells.
 
 ### Level 1: Weapon Mastery
 
 Your training with weapons allows you to use the Mastery property of two kinds of weapons of your choice with which you have proficiency, such as Longswords and Javelins.
 
-Whenever you finish a Long Rest, you can do **one** of the following:
+Whenever you finish a Long Rest, you can do *one* of the following:
 
-***Change Weapon***  
-You can change the kinds of weapons you chose. For example, you could switch to using the Mastery properties of Halberds and Flails
+_**Change Weapon**_  
+You can change the kinds of weapons you choose. For example, you could switch to using the Mastery properties of Halberds and Flails.
 
-_**Replace Weapon Mastery**^CM^_  
-You can choose any of the kinds of Mastery weapons you're using and replace the Mastery property of each with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Halberd's Cleave property with the Topple property.
+_**Replace Weapon Mastery**^CM^_   
+You can choose any weapon with a Mastery property that you're using and replace its Mastery property with another eligible Mastery property. For example, you could replace the Halberd's Cleave property with the Topple property.
 
 --8<-- "includes/snippets/item-mastery.md"
 
@@ -141,19 +141,19 @@ You can choose any of the kinds of Mastery weapons you're using and replace the 
 
 You gain a Fighting Style feat of your choice (see chapter 5 for feats). Instead of choosing one of those feats, you can choose the option below.
 
-***Blessed Warrior.*** You learn two Cleric cantrips of your choice (see the Cleric class's section for a list of Cleric spells). *Guidance* and *Sacred Flame* are recommended. The chosen cantrips count as Paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip.
+***Blessed Warrior.*** You learn two Cleric cantrips of your choice (see the Cleric class's section for a list of Cleric spells). [:spell-lv0: Guidance] and *[:spell-lv0: Sacred Flame] are recommended. The chosen cantrips count as Paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip.
 
 ### Level 2: Paladin's Smite
 
-You always have the Divine Smite spell prepared. In addition, you can cast it without expending a spell slot, but you must finish a Long Rest before you can cast it in this way again.
+You always have the [:spell-lv1: Divine Smite] spell prepared. In addition, you can cast it without expending a spell slot, but you must finish a Long Rest before you can cast it in this way again.
 
 ### Level 2: Divine Smite (Optional)
 
-If you take this feature, you must forgo the **Paladin's Smite** feature from Level 2 and the *Divine Smite* spell is removed from your spell list.
+If you take this feature, you must forgo the Paladin's Smite feature and the [:spell-lv1: Divine Smite] spell is removed from your spell list.
 
 When you damage a creature with a melee weapon attack or an Unarmed Strike, you can expend a spell slot to cause that attack to deal bonus :dmg-radi: Radiant damage to the target.
 
-This bonus damage is 2d8 for a level 1 spell slot and it increases by 1d8 for each spell slot level above 1, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend, to a maximum of 6d8.
+This bonus damage is 2d8 for a level 1 spell slot and it increases by 1d8 for each spell slot level above 1, to a maximum of 5d8. The damage increases by 1d8 if the target is an Undead or a Fiend, to a maximum of 6d8.
 
 ### Level 3: Channel Divinity
 
@@ -163,9 +163,7 @@ You can use Channel Divinity twice. You regain one expended use when you finish 
 
 If a Channel Divinity effect requires a saving throw, the DC equals the Spell Save DC from this class's Spellcasting feature.
 
-#### Divine Sense
-
-As a Bonus Action, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the Incapacitated condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the Hallow spell.
+***Divine Sense.*** As a :rsc-b: Bonus Action, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the Incapacitated condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [:spell-lv5: Hallow] spell.
 
 ### Level 3: Paladin Subclass
 
@@ -227,4 +225,4 @@ You gain an [:option-feat-boon: Epic Boon feat](../../option/feat/feat-boon.md) 
 
 --8<-- "includes/snippets/skills.md"
 
---8<-- "includes/snippets/spells2/lv2.md"
+--8<-- "includes/snippets/spells2/lv0-5.md"

@@ -121,13 +121,13 @@ You can use a Shield and still gain these benefit.
 
 ### Level 1: Weapon Mastery
 
-Your training with weapons allows you to use the mastery properties of two kinds of Simple or Martial Melee weapons of your choice, such as Greataxes and Handaxes. Whenever you finish a Long Rest, you can do *one* of the following:
+Your training with weapons allows you to use the mastery properties of two kinds of Simple or Martial Melee weapons of your choice, such as Greataxes and Handaxes. Whenever you finish a Long Rest, you can do one of the following:
 
 _**Change Weapon**_  
-You can practice weapon drills and change *one* of those weapon choices
+You can practice weapon drills and change *one* of those weapon choices.
 
 _**Replace Weapon Mastery**^CM^_   
-You can choose *one* kind of Mastery weapons you're using and replace its Mastery property of with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Longsword's Sap property with the Push property.
+You can choose *one* weapon with a Mastery property that you're using and replace its Mastery property with another eligible Mastery property. For example, you could replace the Longsword's Sap property with the Push property.
 
 --8<-- "includes/snippets/item-mastery.md"
 

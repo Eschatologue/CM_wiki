@@ -6,7 +6,27 @@ title: Mastery Properties
 
 Each weapon has a mastery property, which is usable only by a character who has a feature, such as Weapon Mastery, that unlocks the property for the character. The properties are defined below.
 
-If a game feature lets you replace a weapon's Mastery property with another one, that weapon must meet any prerequisite specified for the new property.
+## Changing a Weapon’s Mastery Property
+
+This homebrew rule reinstates a mechanic initially introduced in *Unearthed Arcana 2023 Playtest 7*, which allowed classes with the Weapon Mastery feature to change a weapon's Mastery property to another eligible one. In the final release, this flexibility was removed, restricting players to a weapon's pre-existing Mastery property. This homebrew aims to bring back that flexibility.
+
+Currently, only five classes have the Weapon Mastery feature: Fighter, Barbarian, Rogue, Ranger, and Paladin. These classes can be divided into two groups based on their proficiency with Weapon Mastery, referred to here as **Full Mastery** and **Partial Mastery** (note: these terms are not part of official mechanics).
+
+### Full Mastery
+
+_**Classes**: Fighter, Barbarian_  
+
+These classes are the most adept with Weapon Mastery. They have a dedicated "Weapon Mastery" column in their class feature table and can typically learn more Mastery properties than other classes.  
+
+***Mechanic.*** When a class with Full Mastery finishes a **Long Rest**, it can change the Mastery property of **one weapon** they are proficient with and are currently using, replacing it with another eligible Mastery property.  
+
+### Partial Mastery
+
+_**Classes** Rogue, Ranger, Paladin_  
+
+These classes have more limited access to Weapon Mastery. They lack a dedicated "Weapon Mastery" column in their class feature table and are usually restricted to only *two* Mastery properties for their weapons over the course of their career. Certain subclasses (e.g., Oath of the Blade) may grant additional Weapon Mastery options.  
+
+***Mechanic.*** When a class with Partial Mastery finishes a **Long Rest**, it can change the Mastery properties of **all weapons** they are proficient with and are currently using, replacing them with other eligible Mastery properties.  
 
 ## PHB'24 Mastery Property
 
