@@ -6,11 +6,15 @@ title: Mastery Properties
 
 Each weapon has a mastery property, which is usable only by a character who has a feature, such as Weapon Mastery, that unlocks the property for the character. The properties are defined below.
 
-## Changing a Weapon’s Mastery Property
+## Changing a Weapon's Mastery Property
 
 This homebrew rule reinstates a mechanic initially introduced in *Unearthed Arcana 2023 Playtest 7*, which allowed classes with the Weapon Mastery feature to change a weapon's Mastery property to another eligible one. In the final release, this flexibility was removed, restricting players to a weapon's pre-existing Mastery property. This homebrew aims to bring back that flexibility.
 
 Currently, only five classes have the Weapon Mastery feature: Fighter, Barbarian, Rogue, Ranger, and Paladin. These classes can be divided into two groups based on their proficiency with Weapon Mastery, referred to here as **Full Mastery** and **Partial Mastery** (note: these terms are not part of official mechanics).
+
+***Character Exclusive.*** These Mastery property changes apply only to the character that makes them and do not affect other characters. For example, if a Barbarian changes a Glaive's Graze property to Cleave, another Barbarian using the same Glaive would still use its default Graze property.
+
+***Defaults on Long Rest.*** Any changes made to a weapon's Mastery property end for the character when they finish a Long Rest.
 
 ### Full Mastery
 
