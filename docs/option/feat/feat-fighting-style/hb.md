@@ -57,7 +57,7 @@ You can use a :rsc-b: **Bonus Action** to take the **Attack** action using a Shi
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-You specialise one weapon rather than many. Choose one Weapon that you are Proficient with to be your Signature Weapon. When you make an attack with that type of weapon, you gain the following benefit:
+You specialise one weapon rather than many. Choose one Weapon that you are Proficient with to be your Signature Weapon. When you make an attack with that type of weapon, you gain the following benefit, you can change your Signature Weapon when you gain a level:
 
 ***Damage Die Increase.*** The weapon's damage die that is in the Original Damage Die column changes to the die in the Signature Damage Die column.
 
@@ -71,15 +71,11 @@ You specialise one weapon rather than many. Choose one Weapon that you are Profi
 
 | Orginal Damage Die | Signature Damage Die |
 |:-:|:-:|
-| 2d4 or 1d8 | 1d10 |
+| 2d4 and 1d8 | 1d10 |
 | 1d10 | 1d12 |
-| 2d6 or 1d12 | 2d6 / 1d12 + 1* |
+| 2d6 and 1d12 | 2d6 + 1 or 1d12 + 1 |
 
 </div>
-
-You can change your Signature Weapon when you gain a level in a class that has this feat.
-
-*When you hit an attack with this weapon, you can choose to roll either 2d6 or 1d12 and gain +1 bonus to its damage.
 
 ***Improved Attack Roll.*** When you make a weapon attack with the weapon, you can treat a roll equal to your Proficiency Bonus or lower on the d20 as your Proficiency Bonus.
 
