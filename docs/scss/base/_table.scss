@@ -76,7 +76,7 @@ $tableFontSize: (typeset.$defaultFontSize * 0.9);
         width: 100%;
 
         table:not([class]) {
-            //box-shadow: var(--md-shadow-z2);
+            box-shadow: var(--md-shadow-z2);
             margin: convert.px2rem(0px);
             display: table;
             border-color: transparent !important;
