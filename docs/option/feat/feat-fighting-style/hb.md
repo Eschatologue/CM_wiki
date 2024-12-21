@@ -28,9 +28,9 @@ You have studied combat techniques that allow you to perform Combat.
 
 You learn two [Manoeuvre](../../class-options/fighter-manoeuvre.md) of your choice from among those available to the Battle Master archetype. If a manoeuvre forces a saving throw, the DC equals to 8 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice). Each time you gain a level you can replace a Manoeuvre you know with another Manoeuvre of your choice.
 
-You gain three d6 Superiority Die. This die is used to fuel your manoeuvres. A Superiority Die is expended when you use it. You regain your expended Superiority Dice when you finish a Short Rest or Long Rest.
+You gain three d4 Superiority Die. This die is used to fuel your manoeuvres. A Superiority Die is expended when you use it. You regain your expended Superiority Dice when you finish a Short Rest or Long Rest.
 
-These Superiority Dice die is added to any existing pool you have from another source. They also increase in size if you have a feature that do so.
+If you already have a pool of Superiority Dice, these dice are added to that pool. Their size matches the largest die in your pool, increasing to match if you have a feature that improves your Superiority Dice.
 
 ---
 
@@ -68,7 +68,7 @@ You specialise one weapon rather than many. Choose one Weapon or Firearm that yo
 ##### Signature Weapon Die
 
 | Orginal Damage Die | Signature Damage Die |
-|::-|:-:|
+|:-:|:-:|
 | 1 | 1d4 |
 | 1d4 | 1d6 |
 | 1d6 | 1d8 |
