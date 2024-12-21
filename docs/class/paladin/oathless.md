@@ -25,7 +25,7 @@ In most societies, the Oathless are met with distrust or outright hostility. In 
 
 ### Level 3: Illusory Escape
 
-*You fight without honour or respect.*
+###### *You fight without honour or respect.*
 
 When you take damage from a source you can see, you can use your Channel Divnity to take a :rsc-r: Reaction to give yourself the Invisible condition, and move up to your Speed. You have the Invisible condition until the start of your next turn, or until you attack or force a creature to make a saving throw. 
 
@@ -40,7 +40,7 @@ The magic of your oath, or in this case, a lack of one, ensures you always have 
 | 3 | [:spell-lv1: Charm Person], [:spell-lv1: False Life] |
 | 5 | [:spell-lv2: Pass without Trace], [:spell-lv2: Suggestion] |
 | 9 | [:spell-lv3: Gaseous Form], [:spell-lv3: Vampiric Touch] |
-| 13 | [:spell-lv4: Charm Person], [:spell-lv4: Greater Invisibility] |
+| 13 | [:spell-lv4: Charm Monster], [:spell-lv4: Greater Invisibility] |
 | 17 | [:spell-lv5: Dominate Person], [:spell-lv5: Passwall] |
 
 ### Level 3: Persona non Grata
@@ -75,4 +75,4 @@ As a Bonus Action, you gain the following benefits for 1 minute. Once you use th
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 
-###### :material-book-edit: Written by *Eschatologue*
+###### :material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*
