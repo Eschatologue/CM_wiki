@@ -40,7 +40,7 @@ You have honed your martial skill. You learn Manoeuvre that are fueled by specia
 
 #### Manoeuvre
 
-You learn two different Manoeuvre of your choice from the "[Manoeuvre Options]" section of the Battle Master Subclass. Many Manoeuvre enhance an attack in some way. You can use only one Manoeuvre per attack. Each time you gain a Paladin level you can replace a Manoeuvre you know with another Manoeuvre of your choice.
+You learn two different Manoeuvre of your choice from the "[Manoeuvre Options]" section of the Battle Master Archetype. Many Manoeuvre enhance an attack in some way. You can use only one Manoeuvre per attack. Each time you gain a Paladin level you can replace a Manoeuvre you know with another Manoeuvre of your choice.
 
 [Manoeuvre Options]: ../../option/class-options/fighter-manoeuvre.md
 

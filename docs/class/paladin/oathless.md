@@ -25,7 +25,7 @@ In most societies, the Oathless are met with distrust or outright hostility. In 
 
 ### Level 3: Illusory Escape
 
-###### *You fight without honour or respect.*
+*You fight without honour or respect.*
 
 When you take damage from a source you can see, you can use your Channel Divnity to take a :rsc-r: Reaction to give yourself the Invisible condition, and move up to your Speed. You have the Invisible condition until the start of your next turn, or until you attack or force a creature to make a saving throw. 
 
