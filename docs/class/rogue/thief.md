@@ -44,7 +44,7 @@ In your treasure hunting, you have learned how to maximize use of magic items, g
 
 ***Scrolls.*** You can use any Spell Scroll, using Intelligence as your Spellcasting Ability for the spell. If the spell is a cantrip or a 1st-level spell, you can cast it reliably. If the scroll contains a higher-level spell, you must first succeed on an Intelligence (Arcana) check with a DC equal to 10 plus the spell's level. On a successful check, you cast the spell from the scroll. On a failed check, the scroll disintegrates.
 
-### Level 17: Thief'S Reflexes
+### Level 17: Thieves' Reflexes
 
 You are adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal Initiative and your second turn at your Initiative minus 10.
  

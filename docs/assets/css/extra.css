@@ -644,48 +644,47 @@
   font-family: "Jost", sans-serif;
   text-transform: uppercase;
 }
-.md-typeset h3 {
+.md-typeset h3, .md-typeset h4 {
   font-family: "Jost", sans-serif;
   text-transform: none !important;
   font-variant: small-caps !important;
 }
 .md-typeset h1 {
-  font-size: 1.6875rem;
-  letter-spacing: 0.03375rem;
+  font-size: 1.65rem;
+  letter-spacing: 0.033rem;
   font-weight: 495;
   margin-top: 0.45rem;
   margin-bottom: 0.45rem;
 }
 .md-typeset h2 {
-  font-size: 1.2rem;
+  font-size: 1.125rem;
   font-weight: 450;
-  letter-spacing: 0.036rem;
+  letter-spacing: 0.084375rem;
   border-bottom: 0.125rem solid var(--md-default-wht--025);
   margin: 0.9rem 0 0.2rem 0;
   padding-bottom: 0.1rem;
 }
 .md-typeset h3 {
-  font-size: 1.05rem;
-  font-weight: 450;
-  letter-spacing: 0.042rem;
+  font-size: 0.9375rem;
+  font-weight: 500;
+  letter-spacing: 0.0796875rem;
   margin: 0.6rem 0 0.2rem 0;
   border-bottom: 0.1275rem dotted var(--md-default-wht--025);
   padding-bottom: 0.1rem;
 }
 .md-typeset h4 {
-  font-size: 0.825rem;
-  letter-spacing: 0.0433125rem;
-  font-weight: 550;
+  font-size: 0.84375rem;
+  letter-spacing: 0.07171875rem;
+  font-weight: 525;
   margin: 0.6rem 0 -0.15rem 0;
   padding-bottom: -0.1rem;
-  font-variant: small-caps !important;
 }
 .md-typeset h4::before {
   content: "";
   display: inline-block;
-  border-radius: 0.12375rem;
-  width: 0.53625rem;
-  height: 0.53625rem;
+  border-radius: 0.1265625rem;
+  width: 0.5484375rem;
+  height: 0.5484375rem;
   background-color: var(--md-default-wht--025);
   margin-right: 0.4rem;
   vertical-align: middle;
@@ -923,7 +922,7 @@
 }
 
 .md-grid {
-  max-width: 92%;
+  max-width: 95%;
 }
 @media screen and (max-width: 1024px) {
   .md-grid {

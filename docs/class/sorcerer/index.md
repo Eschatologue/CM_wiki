@@ -61,28 +61,28 @@ As a Sorcerer, you gain the following class features when you reach the specifie
 
 ##### Sorcerer Features
 
-| Level | PB | Class Features | Metamagics | Sorcery Points | Cantrips | Prepared Spells | I | II | III | IV | V | VI | VII | VIII | IX |
-|:---:|:---:|:---|:-:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | +2 | Spellcasting, Innate Sorcery | 2 | — | 4 | 2 | 2 | — | — | — | — | — | — | — | — |
-| 2 | +2 | Font of Magic, Metamagic | 2 | 2 | 4 | 4 | 3 | — | — | — | — | — | — | — | — |
-| 3 | +2 | Sorcerer Subclass | 2 | 3 | 4 | 6 | 4 | 2 | — | — | — | — | — | — | — |
-| 4 | +2 | Ability Score Improvement | 2 | 4 | 5 | 7 | 4 | 3 | — | — | — | — | — | — | — |
-| 5 | +3 | Sorcerous Restoration | 2 | 5 | 5 | 9 | 4 | 3 | 2 | — | — | — | — | — | — |
-| 6 | +3 | Subclass feature | 2 | 6 | 5 | 10 | 4 | 3 | 3 | — | — | — | — | — | — |
-| 7 | +3 | Sorcery Incarnate | 2 | 7 | 5 | 11 | 4 | 3 | 3 | 1 | — | — | — | — | — |
-| 8 | +3 | Ability Score Improvement | 2 | 8 | 5 | 12 | 4 | 3 | 3 | 2 | — | — | — | — | — |
-| 9 | +4 | — | 4 | 9 | 5 | 14 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
-| 10 | +4 | Metamagic | 4 | 10 | 6 | 15 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
-| 11 | +4 | — | 4 | 11 | 6 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 12 | +4 | Ability Score Improvement | 4 | 12 | 6 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 13 | +5 | — | 4 | 13 | 6 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 14 | +5 | Subclass feature | 4 | 14 | 6 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 15 | +5 | — | 4 | 15 | 6 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 16 | +5 | Ability Score Improvement | 6 | 16 | 6 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 17 | +6 | Metamagic | 6 | 17 | 6 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
-| 18 | +6 | Subclass feature | 6 | 18 | 6 | 20 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
-| 19 | +6 | Epic Boon | 6 | 19 | 6 | 21 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
-| 20 | +6 | Arcane Apotheosis | 6 | 20 | 6 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+| Level | PB | Class Features | Sorcery Points | Cantrips | Prepared Spells | I | II | III | IV | V | VI | VII | VIII | IX |
+|:---:|:---:|:---|:-:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 | +2 | Spellcasting, Innate Sorcery | — | 4 | 2 | 2 | — | — | — | — | — | — | — | — |
+| 2 | +2 | Font of Magic, Metamagic (2) | 2 | 4 | 4 | 3 | — | — | — | — | — | — | — | — |
+| 3 | +2 | Sorcerer Subclass | 3 | 4 | 6 | 4 | 2 | — | — | — | — | — | — | — |
+| 4 | +2 | Ability Score Improvement | 4 | 5 | 7 | 4 | 3 | — | — | — | — | — | — | — |
+| 5 | +3 | Sorcerous Restoration | 5 | 5 | 9 | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6 | +3 | Subclass feature | 6 | 5 | 10 | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7 | +3 | Sorcery Incarnate | 7 | 5 | 11 | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8 | +3 | Ability Score Improvement | 8 | 5 | 12 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9 | +4 | — | 9 | 5 | 14 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10 | +4 | Metamagic (4) | 10 | 6 | 15 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11 | +4 | — | 11 | 6 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12 | +4 | Ability Score Improvement | 12 | 6 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13 | +5 | — | 13 | 6 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14 | +5 | Subclass feature | 14 | 6 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15 | +5 | — | 15 | 6 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16 | +5 | Ability Score Improvement | 16 | 6 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17 | +6 | Metamagic (6) | 17 | 6 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18 | +6 | Subclass feature | 18 | 6 | 20 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19 | +6 | Epic Boon | 19 | 6 | 21 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20 | +6 | Arcane Apotheosis | 20 | 6 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
 
 ### Level 1: Spellcasting
@@ -152,11 +152,11 @@ Any spell slot you create with this feature vanishes when you finish a Long Rest
 
 ### Level 2: Metamagic
 
-Because your magic flows from within, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from “Metamagic Options”. You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs.
+Because your magic flows from within, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from "Metamagic Options" later in this class's description. You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs.
 
 You can use only one Metamagic option on a spell when you cast it unless otherwise noted in one of those options.
 
-Whenever you gain a Sorcerer level, you can replace one of your Metamagic options with one you don't know. You gain two more options at Sorcerer level 10 and two more at Sorcerer level 17.
+Whenever you gain a Sorcerer level, you can replace one of your Metamagic options with one you don't know. You gain two more options at Sorcerer level 10 (4 total) and two more at Sorcerer level 17 (6 total).
 
 ### Level 3: Sorcerer Subclass
 

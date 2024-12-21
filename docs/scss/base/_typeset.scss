@@ -13,10 +13,10 @@ $defaultFontWeight: 300;
 $defaultFontSize: convert.px2rem(15px);
 
 // Heading Size Variables
-$h1Size: $defaultFontSize * 2.25;
-$h2Size: $defaultFontSize * 1.6;
-$h3Size: $defaultFontSize * 1.4;
-$h4Size: $defaultFontSize * 1.1;
+$h1Size: $defaultFontSize * 2.2;
+$h2Size: $defaultFontSize * 1.5;
+$h3Size: $defaultFontSize * 1.25;
+$h4Size: $defaultFontSize * 1.125;
 
 // Main Typeset
 .md-typeset {
@@ -51,7 +51,7 @@ $h4Size: $defaultFontSize * 1.1;
         text-transform: uppercase;
     }
 
-    h3 {
+    h3, h4 {
         font-family: $headingFont;
         text-transform: none !important;
         font-variant: small-caps !important;
@@ -68,7 +68,7 @@ $h4Size: $defaultFontSize * 1.1;
     h2 {
         font-size: $h2Size;
         font-weight: $defaultFontWeight * 1.5;
-        letter-spacing: $h2Size * 0.03;
+        letter-spacing: $h2Size * 0.075;
         border-bottom: convert.px2rem(2.5px) solid var(--md-default-wht--025);
         margin: convert.px2rem(18px) 0 convert.px2rem(4px) 0;
         padding-bottom: convert.px2rem(2px);
@@ -76,8 +76,8 @@ $h4Size: $defaultFontSize * 1.1;
 
     h3 {
         font-size: $h3Size;
-        font-weight: $defaultFontWeight * 1.5;
-        letter-spacing: $h3Size * 0.04;
+        font-weight: 500;
+        letter-spacing: $h3Size * 0.085;
         margin: convert.px2rem(12px) 0 convert.px2rem(4px) 0;
         border-bottom: convert.px2rem(2.55px) dotted var(--md-default-wht--025);
         padding-bottom: convert.px2rem(2px);
@@ -85,11 +85,10 @@ $h4Size: $defaultFontSize * 1.1;
 
     h4 {
         font-size: $h4Size;
-        letter-spacing: $h4Size * 0.0525;
-        font-weight: 550;
+        letter-spacing: $h4Size * 0.085;
+        font-weight: 525;
         margin: convert.px2rem(12px) 0 convert.px2rem(-3px) 0;
         padding-bottom: convert.px2rem(-2px);
-        font-variant: small-caps !important;
 
         &::before {
             content: "";

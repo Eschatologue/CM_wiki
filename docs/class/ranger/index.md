@@ -68,26 +68,26 @@ As a Ranger, you gain the following class features when you reach the specified 
 ##### Ranger Features
 | Level | PB | Class Features | Favoured Enemy | Prepared Spells | I | II | III | IV | V | Aptitudes |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | +2 | Favoured Enemy, Spellcasting, Weapon Mastery | 2 | 2 | 2 | — | — | — | — | — |
-| 2 | +2 | Deft Explorer, Fighting Style, Natural Explorer | 2 | 3 | 2 | — | — | — | — | — |
-| 3 | +2 | Ranger Subclass, Ranger's Aptitude | 2 | 4 | 3 | — | — | — | — | 2 |
-| 4 | +2 | Ability Score Improvement | 2 | 5 | 3 | — | — | — | — | 2 |
+| 1 | +2 | Favoured Enemy, Ranger's Aptitude, Spellcasting, Weapon Mastery | 2 | 2 | 2 | — | — | — | — | 1 |
+| 2 | +2 | Deft Explorer, Fighting Style | 2 | 3 | 2 | — | — | — | — | 2 |
+| 3 | +2 | Ranger Subclass | 2 | 4 | 3 | — | — | — | — | 3 |
+| 4 | +2 | Ability Score Improvement | 2 | 5 | 3 | — | — | — | — | 3 |
 | 5 | +3 | Extra Attack | 3 | 6 | 4 | 3 | — | — | — | 3 |
-| 6 | +3 | Roving | 3 | 6 | 4 | 2 | — | — | — | 3 |
-| 7 | +3 | Subclass feature | 3 | 7 | 4 | 3 | — | — | — | 3 |
-| 8 | +3 | Ability Score Improvement | 3 | 7 | 4 | 3 | — | — | — | 3 |
-| 9 | +4 | Expertise | 4 | 9 | 4 | 3 | 2 | — | — | 4 |
-| 10 | +4 | Tireless | 4 | 9 | 4 | 3 | 2 | — | — | 4 |
-| 11 | +4 | Subclass feature | 4 | 10 | 4 | 3 | 3 | — | — | 4 |
-| 12 | +4 | Ability Score Improvement | 4 | 10 | 4 | 3 | 3 | — | — | 4 |
-| 13 | +5 | Relentless Hunter | 5 | 11 | 4 | 3 | 3 | 1 | — | 5 |
-| 14 | +5 | Nature's Veil | 5 | 11 | 4 | 3 | 3 | 1 | — | 5 |
-| 15 | +5 | Subclass feature | 5 | 12 | 4 | 3 | 3 | 2 | — | 5 |
-| 16 | +5 | Ability Score Improvement | 5 | 12 | 4 | 3 | 3 | 2 | — | 5 |
-| 17 | +6 | Precise Hunter | 6 | 14 | 4 | 3 | 3 | 3 | 1 | 6 |
-| 18 | +6 | Feral Senses | 6 | 14 | 4 | 3 | 3 | 3 | 1 | 6 |
-| 19 | +6 | Epic Boon | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 6 |
-| 20 | +6 | Foe Slayer | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 6 |
+| 6 | +3 | Roving | 3 | 6 | 4 | 2 | — | — | — | 4 |
+| 7 | +3 | Subclass feature | 3 | 7 | 4 | 3 | — | — | — | 4 |
+| 8 | +3 | Ability Score Improvement | 3 | 7 | 4 | 3 | — | — | — | 4 |
+| 9 | +4 | Expertise | 4 | 9 | 4 | 3 | 2 | — | — | 5 |
+| 10 | +4 | Tireless | 4 | 9 | 4 | 3 | 2 | — | — | 5 |
+| 11 | +4 | Subclass feature | 4 | 10 | 4 | 3 | 3 | — | — | 5 |
+| 12 | +4 | Ability Score Improvement | 4 | 10 | 4 | 3 | 3 | — | — | 6 |
+| 13 | +5 | Relentless Hunter | 5 | 11 | 4 | 3 | 3 | 1 | — | 6 |
+| 14 | +5 | Nature's Veil | 5 | 11 | 4 | 3 | 3 | 1 | — | 7 |
+| 15 | +5 | Subclass feature | 5 | 12 | 4 | 3 | 3 | 2 | — | 7 |
+| 16 | +5 | Ability Score Improvement | 5 | 12 | 4 | 3 | 3 | 2 | — | 8 |
+| 17 | +6 | Precise Hunter | 6 | 14 | 4 | 3 | 3 | 3 | 1 | 8 |
+| 18 | +6 | Feral Senses | 6 | 14 | 4 | 3 | 3 | 3 | 1 | 9 |
+| 19 | +6 | Epic Boon | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 9 |
+| 20 | +6 | Foe Slayer | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 10 |
 
 ### Level 1: Favoured Enemy
 
@@ -95,19 +95,21 @@ You always have the [:spell-lv1: Hunter's Mark] spell prepared. You can cast it 
 
 The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favoured Enemy column of the Ranger Features table. When the spell is cast this way, it does not require :spell-concentration: Concentration, though it ends early if you have the ^^Incapacitated^^ condition.
 
-### Level 1: Ranger's Origin
+### Level 1: Ranger's Aptitude
 
-The mantle of a Ranger is gained through a particular experience. Choose one of the following benefits, you can choose one additional benefit when you reach level 6, 10, and 14 in this class.
+You gain invaluable knowledge, experiences, or hard-earned lessons, which is represented by Ranger's Aptidude. You gain one aptidude of your choice. Aptidude are described in the "[Ranger's Aptitude Options](../../option/class-options/ranger-aptitude.md)" section later in this class's description.
 
-***Bounty Hunter.*** Your expertise in hunting bounties stands out. You gain proficiency in Insight and Investigation. In addition, creatures has :d20-disadv: Disadvantage on saves to resist or end the ^^Grappled^^ or ^^Restrained^^ condition caused by you.
+***Prerequisites.*** If an aptidude has a prerequisite, you must meet it to learn that aptidude. For example, if an aptidude requires you to be a level 5+ Ranger, you can select the aptidude once you reach Ranger level 5.
 
-***Deathwatch.*** You specialise in hunting those not native to your realm. You gain proficiency in Arcana and Religion. In addition, you can cast [:spell-lv1: Protection from Evil and Good] without expending a spell slot once per Long Rest.
+***Replacing and Gaining Aptidudes.*** Whenever you gain a Ranger level, you can replace one of your aptidudes with another one for which you qualify. You can't replace an aptidude if it's a prerequisite for another aptidude that you have.
 
-***Mage Breaker.*** You have a background in battling spellcasters. You gain proficiency in Arcana and Insight. In addition, you know the [:spell-lv0: True Strike] cantrip.
+***Spell.*** If an aptidude grants a spell, it is considered a Ranger spell for you, and Wisdom is your spellcasting ability.
 
-***Ranger Knight.*** You have sworn to serve a crown or nation and aim to bring its foes to ruin. You gain proficiency in History and Perception, In addition, you gain training with with Heavy armour.
+***Proficiency.*** If an aptidude grants proficiency in a skill you already have, choose a different proficiency available to the Core Ranger Trait table.
 
-***Sanctified Hunter.*** You have sworn to hunt the enemies of a holy or druidic order. You gain proficiency in Investigation and Religion. In addition, you know the [:spell-lv0: Sacred Flame] cantrip.
+When you gain certain Ranger levels, you gain more aptidudes of your choice, as shown in the Aptidudes column of the Ranger Features table.
+
+You can't pick the same aptidude more than once unless its description says otherwise.
 
 ### Level 1: Spellcasting
 
@@ -159,45 +161,15 @@ Thanks to your travels, you gain the following benefits.
 
 ***Languages.*** You know two languages of your choice from the language tables in chapter 2.
 
-### Level 2: Natural Explorer
-
-Choose one of the following benefits, you can choose one additional benefit when you reach level 6, 10, and 14 in this class.
-
-***Beast Tamer.*** You have cultivated a strong bond with animals and nature. Whenever you would make an Intelligence (Nature), you can choose to make a Wisdom (Nature) check instead. In addition, you can cast [:spell-lv1: Find Familiar](../../spells/description/core/level-1.md#find-familiar), but only as a ritual.
-
-***Urban Tracker.*** You are an expert at navigating the urban labyrinth as well as the wilds. You gain Proficiency in Acrobatics and Sleight of Hand. In addition, you learn the Thieves' Cant language.
-
-***Wasteland Wanderer (Artic).*** You have spent endless days surviving desolate tundras. You gain :dmg-res: Resistance to :dmg-cold: Cold damage.
-
-***Wasteland Wanderer (Desert).*** You have spent endless days surviving forbidding deserts. You gain :dmg-res: Resistance to :dmg-fire: Fire damage.
-
-***Wasteland Wanderer (Swamp).*** You have spent endless days surviving fetid swamps. You gain :dmg-res: Resistance to :dmg-posn: Poison damage.
-
 ### Level 2: Fighting Style
 
 You gain a Fighting Style feat of your choice (see chapter 5). Instead of choosing one of those feats, you can choose the option below.
 
-***Druidic Warrior.*** You learn two Druid cantrips of your choice (see the Druid class's section for a list of Druid spells). [:spell-lv0: Guidance](../../spells/description/core/cantrip.md#guidance) and [:spell-lv0: Starry Wisp](../../spells/description/core/cantrip.md#starry-wisp) are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
+***Druidic Warrior.*** You learn two Druid cantrips of your choice (see the Druid class's section for a list of Druid spells). [:spell-lv0: Guidance] and [:spell-lv0: Starry Wisp] are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
 
 ### Level 3: Ranger Subclass
 
 You gain a Ranger subclass of your choice. The Hunter subclass is detailed after this class's description. A subclass is a specialization that grants you features at certain Ranger levels. For the rest of your career, you gain each of your subclass's features that are of your Ranger level or lower.
-
-### Level 3: Ranger's Aptitude
-
-You gain invaluable knowledge, experiences, or hard-earned lessons, which is represented by Ranger's Aptidude. You gain one aptidude of your choice. Aptidude are described in the "[Ranger's Aptitude Options](../../option/class-options/ranger-aptitude.md)" section later in this class's description.
-
-***Prerequisites.*** If an aptidude has a prerequisite, you must meet it to learn that aptidude. For example, if an aptidude requires you to be a level 5+ Ranger, you can select the aptidude once you reach Ranger level 5.
-
-***Replacing and Gaining Aptidudes.*** Whenever you gain a Ranger level, you can replace one of your aptidudes with another one for which you qualify. You can't replace an aptidude if it's a prerequisite for another aptidude that you have.
-
-***Spell.*** If an aptidude grants a spell, it is considered a Ranger spell for you, and Wisdom is your spellcasting ability.
-
-***Proficiency.*** If an aptidude grants proficiency in a skill you already have, choose a different proficiency available to the [Core Ranger Trait](#core-ranger-trait) table:
-
-When you gain certain Ranger levels, you gain more aptidudes of your choice, as shown in the Aptidudes column of the Ranger Features table.
-
-You can't pick the same aptidude more than once unless its description says otherwise.
 
 ### Level 4: Ability Score Improvement
 
