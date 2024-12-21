@@ -24,7 +24,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells |
 |:-:|---|
-| 3 | [:spell-lv1: Hellish Rebuke], [:spell-lv3: Inflict Wounds] |
+| 3 | [:spell-lv1: Hellish Rebuke], [:spell-lv1: Inflict Wounds] |
 | 5 | [:spell-lv2: Crown of Madness], [:spell-lv2: Darkness] |
 | 9 | [:spell-lv3: Bestow Curse], [:spell-lv3: Shackles of Pain]^*CM*^ |
 | 13 | [:spell-lv4: Blight], [:spell-lv4: Confusion] |
@@ -36,7 +36,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 Your blasphemous will can corrupt and conquer the souls of others. As a Bonus Action, you can expend a use of your Channel Divinity to force a creature you can see within 30 feet of you to make a Wisdom saving throw. On a failed save, the target has the Charmed condition for 1 minute. For the duration, you can take a Bonus Action to issue one of the following commands to an affected creature.
 
-***Enforce.*** You can issue a one word command to the creature as if by the *Command* spell.
+***Enforce.*** You can issue a one word command to the creature as if by the [:spell-lv1: Command] spell.
 
 ***Madness.*** You can command the creature to use its action to attack a creature other than itself of your choice.
 
@@ -48,7 +48,7 @@ Your presence weakens your enemies who dare attempt to escape your wrath. When a
 
 ### Level 15: Unholy Resistance
 
-Unholy magic courses through you. You have Resistance to Bludgeoning, Piercing and Slashing damage.
+Unholy magic courses through you. You have :dmg-res: Resistance to :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing and :dmg-slsh: Slashing damage.
 
 ### Level 20: Dread Lord
 

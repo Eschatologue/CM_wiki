@@ -144,24 +144,19 @@ You can also use an Arcane Focus as a spellcasting focus.
 You learn to channel your spells through weapons. Once per turn, when you make an attack with a melee weapon from your Arcane Armoury, you can cast a Magus spell by expending a spell slot. The spell must meet the following criteria:
 
 - The Magus spell must have a casting time of an Action.
-- The Magus spell must require a single spell attack roll, force its target to make a saving throw, or affect a total number of hit points worth of creatures (like *Sleep*).
+- The Magus spell must require a single spell attack roll, force its target to make a saving throw, or affect a total number of hit points worth of creatures (like [:spell-lv1: Sleep]).
 
 If your attack misses, the spell fails and has no effect. On a hit, the spell takes effect immediately after the normal effects and damage of your weapon attack, using the rules below:
 
-:aoe-rad: ***Area of Effect***  
-If the spell targets an area greater than a 10-foot Cube, it takes effect as a 15-foot :aoe-cone: Cone originating from you, which must include your target, or it is contained to only affect the target of your attack (your choice on hit).
+:aoe-rad: ***Area of Effect.*** If the spell targets an area greater than a 10-foot Cube, it takes effect as a 15-foot :aoe-cone: Cone originating from you, which must include your target, or it is contained to only affect the target of your attack (your choice on hit).
 
-:spell-lv0: ***Cantrips***  
-The Cantrip does not deal damage. Instead, your weapon attack deals the damage type dealt by the cantrip, and applies the cantrip's additional effects, other than damage, on hit.
+:spell-lv0: ***Cantrips.*** The Cantrip does not deal damage. Instead, your weapon attack deals the damage type dealt by the cantrip, and applies the cantrip's additional effects, other than damage, on hit.
 
-:spell-concentration: ***Concentration***  
-If the spell requires your concentration, you must concentrate on it as soon as it takes effect on hit.
+:spell-concentration: ***Concentration.*** If the spell requires your Concentration, you must Concentrate on it as soon as it takes effect on hit.
 
-:d20-save: ***Saving Throw***  
-If the spell requires a saving throw when cast, the target makes the first save at a :d20-disadv: Disadvantage on hit. On a Critical Hit, the target automatically fails the save. Other target (if any) make this save as normal.
+:d20-save: ***Saving Throw.*** If the spell requires a saving throw when cast, the target makes the first save at a :d20-disadv: Disadvantage on hit. On a Critical Hit, the target automatically fails the save. Other target (if any) make this save as normal.
 
-:d20-attack: ***Attack Roll***  
-If the spell requires an attack roll, it instantly take effect when you hit with a weapon attack.
+:d20-attack: ***Attack Roll.*** If the spell requires an attack roll, it instantly take effect when you hit with a weapon attack.
 
 ### Level 3: Arcane Regeneration
 
@@ -188,9 +183,6 @@ You can still only make one [Spellstrike] attack per turn.
 As a Magic action, you can awaken your senses to the presence of magic within 30 feet as if you had cast [:spell-lv1: Detect Magic]. While this sense is active, you can touch an object and gain knowledge as if you had cast [:spell-lv1: Identify]. This special sense requires your Concentration, and it lasts for 1 minute.
 
 You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
-
-[:spell-lv1: Detect Magic]: ../../spells/description/core/level-1.md#detect-magic 
-[:spell-lv1: Identify]: ../../spells/description/core/level-1.md#identify 
 
 ### Level 6: Ethereal Jaunt
 
@@ -228,10 +220,12 @@ When a creature you can see within 30 feet is targeted by a spell you can see, y
 
 ### Level 19: Epic Boon
 
-You gain an [:option-feat-boon: Epic Boon](../../option/feat/feat-boon.md) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. Boon of Irresistible Offense is recommended.
+You gain an [:option-feat-boon: Epic Boon](../../option/feat/feat-boon.md) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify.
 
 [Magus Spell List]: ../../spells/class-specific/magus.md
 [Spellstrike]: #level-2-spellstrike
+
+--8<-- "includes/snippets/spells2/lv0-5.md"
 
 --8<-- "includes/snippets/skills.md"
 
