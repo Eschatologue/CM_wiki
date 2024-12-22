@@ -17,9 +17,9 @@ Spellbreakers are a small but dedicated group of Rangers that specialize in hunt
 
 ### Level 3: Mage Breaker
 
-You ward your weapons with antimagic enchantments. When you hit a creature with a weapon attack, it has :d20-disadv: **Disadvantage** on its :d20-save: Constitution saving throw to maintain :spell-concentration: Concentration.
+You ward your weapons with antimagic enchantments. When you hit a creature with a weapon attack, it has :d20-disadv: Disadvantage on its :d20-save: Constitution saving throw to maintain :spell-concentration: Concentration.
 
-Also, when you see a creature casting a spell with Verbal, Somatic, or Material components, or attempt to teleport, you can take a Reaction to make one weapon attack or one Unarmed Strike against it.
+Also, when you see a creature casting a spell with Verbal, Somatic, or Material components, or attempt to teleport, you can take a :rsc-r: Reaction to make one weapon attack or one Unarmed Strike against it.
 
 ### Level 3: Spellsight
 
@@ -47,21 +47,21 @@ Moreover, whenever you are subjected you to a spell or magical effect that allow
 
 ### Level 11: Spellbane
 
-You are an unparalleled hunter of mages. Whenever you hit a creature with a weapon attack, you can expend a level 1+ spell slot to deal bonus :dmg-force: Force damage to your target equal to 1d8 per level of the spell slot you expended. 
+You are an unparalleled hunter of mages. Whenever you hit a creature with a weapon attack or Unarmed Strike (Damage), you can expend a level 1+ spell slot to deal bonus :dmg-force: Force damage to your target equal to 1d8 per level of the spell slot you expended. 
 
 Moreover, when you cast [:spell-lv3: Dispel Magic] or [:spell-lv3: Counterspell], it gains the following effects.
 
 ***Dispel Magic.*** When you cast [:spell-lv3: Dispel Magic] and you need to make a spellcasting ability check to determine the result, you can treat a roll of 9 or lower as a 10. 
 
-***Counterspell.*** When you cast [:spell-lv3: Counterspell], your target has :d20-disadv: **Disadvantage** on the :d20-save: saving throw.
+***Counterspell.*** When you cast [:spell-lv3: Counterspell], your target has :d20-disadv: Disadvantage on the :d20-save: saving throw.
 
 ### Level 15: Mantle of the Master
 
-Your Spellbreaker training has reached its pinnacle. You are resistant to damage from spells and all other magical effects so long you don't have the Unconscious or Incapacitated condition.
+Your Spellbreaker training has reached its pinnacle. You have :dmg-res: Resistance to damage from spells and all other magical effects so long you don't have the Unconscious or Incapacitated condition.
 
 ### Level 15: Reflect Spell
 
-Your training allows you to strike spells from the weave. You can cast [:spell-lv1: Absorb Elements] at will. After you cast the spell, if your next weapon attack—melee or ranged—is against the creature whose spell or damage you absorbed, the bonus damage from the spell is treated as its maximum possible amount.
+Your training allows you to strike spells from the weave. You can cast [:spell-lv1: Absorb Elements] at will. After you cast the spell, if your next Unarmed Strike (Damage) or Weapon attack—melee or ranged—is against the creature whose spell or damage you absorbed, the bonus damage from the spell is treated as its maximum possible amount.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 

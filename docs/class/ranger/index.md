@@ -99,7 +99,7 @@ The number of times you can cast the spell without a spell slot increases when y
 
 You gain invaluable knowledge, experiences, or hard-earned lessons, which is represented by Ranger's Aptidude. You gain one aptidude of your choice. Aptidude are described in the "[Ranger's Aptitude Options](../../option/class-options/ranger-aptitude.md)" section later in this class's description.
 
-***Prerequisites.*** If an aptidude has a prerequisite, you must meet it to learn that aptidude. For example, if an aptidude requires you to be a level 5+ Ranger, you can select the aptidude once you reach Ranger level 5.
+***Prerequisites.*** If an aptidude has a prerequisite, you must meet it to learn that aptidude. For example, if an aptidude requires you to be a level 5+ Ranger, you can select the aptidude once you reach Ranger level 5. If another Ranger feature gives you Aptitude, those Aptitude don't count against the number of Aptitudes you know with this feature
 
 ***Replacing and Gaining Aptidudes.*** Whenever you gain a Ranger level, you can replace one of your aptidudes with another one for which you qualify. You can't replace an aptidude if it's a prerequisite for another aptidude that you have.
 
@@ -201,7 +201,7 @@ The damage die of your [:spell-lv1: Hunter's Mark] improves to d8 when it is cas
 
 ### Level 14: Nature's Veil
 
-You invoke spirits of nature to magically hide yourself. As a :rsc-b: **Bonus Action**, you can give yourself the ^^Invisible^^ condition until the end of your next turn.
+You invoke spirits of nature to magically hide yourself. As a :rsc-b: Bonus Action, you can give yourself the ^^Invisible^^ condition until the end of your next turn.
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
