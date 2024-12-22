@@ -21,9 +21,11 @@ You gain a set of Calligrapher's Supplies and a set of Painter's Supplies. You h
 
 Your special martial arts training leads you to master the use of certain weapons.
 
-***Wuxia Weapons.*** Choose one melee weapon and one ranged weapon which can be Simple or Martial weapon that lacks the :weapon-prop-heavy: **Heavy** or :weapon-prop-special: **Special** properties. The Longbow is also a valid choice.  
+***Wuxia Weapons.*** Choose one melee weapon and one ranged weapon which can be Simple or Martial weapon that lacks the :weapon-prop-heavy: ^^Heavy^^ property. The Longbow is also a valid choice.  
 
-You have proficiency with these weapons if you don't already have it and you can use its **Mastery** property. These weapons are monk weapons for you. When you finish a Long Rest, you can change each of your Wuxia weapons for a different weapon of your choice, following the criteria above. You can choose one more weapon - either melee or ranged - to be a Wuxia weapon for you, following the criteria above, at levels 6, 11 and 17.
+:   You have proficiency with these weapons if you don't already have it and you can use its **Mastery** property. These weapons are monk weapons for you. When you finish a Long Rest, you can change each of your Wuxia weapons for a different weapon of your choice, following the criteria above. 
+
+:   You can choose one more weapon - either melee or ranged - to be a Wuxia weapon for you, following the criteria above, at levels 6, 11 and 17.
 
 You also gain the following benefits:
 
@@ -37,21 +39,21 @@ Your focus empowers your Wuxia weapons, granting you the following benefits.
 
 ***Deft Strike.*** Once per turn, when you hit a creature with a Wuxia weapon, you can spend 1 :class-phb24-monk: **Focus Point** to deal additional damage equal to a roll of your Martial Arts die.
 
-***Magic Wuxia Weapons.*** When you attack with a Wuxia weapon, you can choose to deal the weapon's damage type or Force damage.
+***Magic Wuxia Weapons.*** When you attack with a Wuxia weapon, you can choose to deal the weapon's damage type or :dmg-force: Force damage.
 
 ***Rapid Strikes.*** When you use Flurry of Blows, you can replace your [Unarmed Strike]s with melee Wuxia Weapon attacks
 
 ### Level 11: Soul of the Blade
 
-As a Bonus Action, you can touch one of your Wuxia Weapons and infuse it with 1 to 3 :class-phb24-monk: **Focus Points** to reduce the number you need to roll for critical hit an amount equal to the number of :class-phb24-monk: **Focus Points** expended.
+As a :rsc-b: Bonus Action, you can touch one of your Wuxia Weapons and infuse it with 1 to 3 :class-phb24-monk: **Focus Points** to reduce the number you need to roll for critical hit an amount equal to the number of :class-phb24-monk: **Focus Points** expended.
 
 For example, if you infused a normal weapon with 3 :class-phb24-monk: **Focus Point**, its attacks would score a critical hit on a roll of 17-20 on the d20.
 
 This bonus is only usable by you and it lasts for 1 minute. It ends early if you imbue your :class-phb24-monk: **Focus Point** into another weapon.
 
-### Level 17: Master of Armaments
+### Level 17: Master of the Blade
 
-When you make an attack roll with a Wuxia weapon, you can choose to use your Monk level in place of rolling the d20. If using your Monk level would result in a critical hit for that attack roll, then the attack becomes a critical hit.
+When you make an attack roll with a Wuxia weapon, you can choose to use your Monk level in place of rolling the d20. If using your Monk level would result in a Critical Hit for that attack roll, then the attack becomes a critical hit.
 
 Once you use this feature you must finish a Short or Long Rest before you can use it again.
 

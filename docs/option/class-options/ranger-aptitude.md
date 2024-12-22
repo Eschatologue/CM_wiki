@@ -83,7 +83,7 @@ When you roll Initiative, you can take a :rsc-r: **Reaction** to cast [:spell-lv
 
 ### Slayer III: Isolation
 
-_**Prerequisite:** Level 12+ Ranger, [Slayer II](#slayer-ii-ambush-tactics)_
+_**Prerequisite:** Level 14+ Ranger, [Slayer II](#slayer-ii-ambush-tactics)_
 
 Once per turn, when you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or Unarmed Strike, you can force the target must succeed a :d20-save: Constitution saving throw, or it has the ^^Blinded^^ and ^^Silenced^^ condition.
 
@@ -155,7 +155,7 @@ Your body can rapidly recover from injury. When you expend a Hit Die to regain h
 
 ### Survivor II: Iron Will
 
-_**Prerequisite:** Level 12+ Ranger, [Survivor](#survivor-i)_
+_**Prerequisite:** Level 9+ Ranger, [Survivor](#survivor-i)_
 
 When you make a Death Saving Throw, you add your Wisdom modifier to the roll (minimum of +1). If the result of your roll is 20 or higher, you gain two Death Saving Throw success.
 

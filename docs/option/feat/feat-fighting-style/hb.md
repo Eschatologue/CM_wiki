@@ -61,6 +61,8 @@ You specialise one weapon rather than many. Choose one Weapon that you are Profi
 
 ***Damage Die Increase.*** The weapon's damage die that is in the Original Damage Die column changes to the die in the Signature Damage Die column.
 
+##### Signature Weapon Die
+
 <div class="grid" markdown>
 
 | Orginal Damage Die | Signature Damage Die |
@@ -115,6 +117,6 @@ Moreover, you also use your Strength instead of your Dexterity to fufill the :we
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-While wielding a single weapon with the :weapon-prop-versatile: ^^Versatile^^ property and no Shield, you gain a +1 bonus to your attack roll and damage roll with that weapon. While doing so, you can take one of the following actions as a :rsc-b: Bonus Action: Grapple, Shove, or Utilise.
+While wielding a single weapon with the :weapon-prop-versatile: ^^Versatile^^ property and no Shield, you gain a +1 bonus to your attack roll and damage roll with that weapon. While doing so, you can take one of the following actions as a :rsc-b: Bonus Action: Unarmed Strike (Grapple or Shove only), or Utilise action.
 
 ---

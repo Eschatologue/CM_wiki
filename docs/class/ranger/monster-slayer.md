@@ -39,7 +39,7 @@ Your [:spell-lv1: Hunter's Mark] spell improves in the following ways:
 
 ### Level 3: Slayer's Cunning
 
-You are always prepared to hunt. You gain the [Slayer I](../../option/class-options/ranger-aptitude.md#slayer-i) Aptitude.
+You are always prepared to hunt. You gain the [:class-phb24-ranger: Slayer I](../../option/class-options/ranger-aptitude.md#slayer-i) Aptitude.
 
 ### Level 7: Supernatural Defense
 
@@ -64,3 +64,5 @@ When you see your the target of your [:spell-lv1: Hunter's Mark] attempt to cast
 When you use this feature and your attack hits, you can choose to instantly end [:spell-lv1: Hunter's Mark] to cause the creature to automatically fail its Wisdom saving throw.
 
 ###### :material-book-arrow-up: Updated by *Eschatologue*
+
+--8<-- "includes/snippets/spells2/lv0-5.md"

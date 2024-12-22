@@ -65,7 +65,7 @@ As a Monk, you gain the following class features when you reach the specified Mo
 
 ##### Monk Features
 
-| Level | PB | Class Features | Martial Arts | :class-phb24-monk: **Focus Points** | Unarmoured <br>Movement |
+| Level | PB | Class Features | Martial Arts | Focus Points | Unarmoured <br>Movement |
 |:-:|:-:|---|:-:|:-:|:-:|
 | 1 | +2 | Martial Arts, Unarmoured Defense | 1d6 | — | — |
 | 2 | +2 | Monk's Focus, Unarmoured Movement, Uncanny Metabolism | 1d6 | 2 | +10 ft. |
@@ -166,7 +166,7 @@ Once per turn when you hit a creature with a Monk weapon or an Unarmed Strike, y
 
 ### Level 6: Empowered Strikes
 
-Whenever you deal damage with your Unarmed Strike, it can deal your choice of Force damage or its normal damage type.
+Whenever you deal damage with your Unarmed Strike, it can deal your choice of :dmg-force: Force damage or its normal damage type.
 
 ### Level 7: Evasion
 
@@ -182,11 +182,11 @@ While you aren't wearing armour or wielding a Shield, you gain the ability to mo
 
 Your Flurry of Blows, Patient Defense, and Step of the Wind gain the following benefits.
 
-***Flurry of Blows.*** You can expend 1 :class-phb24-monk: **Focus Point** to use Flurry of Blows and make three Unarmed Strikes with it instead of two.
+***Flurry of Blows.*** You can expend 1 :class-phb24-monk: **Focus Point** to use [Flurry of Blows](#flurry-of-blows) and make three Unarmed Strikes with it instead of two.
 
-***Patient Defense.*** When you expend a :class-phb24-monk: **Focus Point** to use Patient Defense, you gain a number of Temporary Hit Points equal to two rolls of your Martial Arts die.
+***Patient Defense.*** When you expend a :class-phb24-monk: **Focus Point** to use [Patient Defense](#patient-defense), you gain a number of Temporary Hit Points equal to two rolls of your Martial Arts die.
 
-***Step of the Wind.*** When you expend a :class-phb24-monk: **Focus Point** to use Step of the Wind, you can choose a willing creature within 5 feet of yourself that is Large or smaller. You move the creature with you until the end of your turn. The creature's movement doesn't provoke Opportunity Attacks.
+***Step of the Wind.*** When you expend a :class-phb24-monk: **Focus Point** to use [Step of the Wind](#step-of-the-wind), you can choose a willing creature within 5 feet of yourself that is Large or smaller. You move the creature with you until the end of your turn. The creature's movement doesn't provoke Opportunity Attacks.
 
 ### Level 10: Self-Restoration
 
@@ -210,7 +210,7 @@ When you roll Initiative and don't use Uncanny Metabolism, you regain expended :
 
 ### Level 18: Superior Defense
 
-At the start of your turn, you can expend 3 :class-phb24-monk: **Focus Points** to bolster yourself against harm for 1 minute or until you have the Incapacitated condition. During that time, you have Resistance to all damage except Force damage.
+At the start of your turn, you can expend 3 :class-phb24-monk: **Focus Points** to bolster yourself against harm for 1 minute or until you have the Incapacitated condition. During that time, you have :dmg-res: Resistance to all damage except :dmg-force: Force damage.
 
 ### Level 19: Epic Boon
 
