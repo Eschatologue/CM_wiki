@@ -719,12 +719,6 @@
   padding-left: 0.35em;
 }
 
-.inl-sub {
-  text-transform: none !important;
-  font-variant: small-caps !important;
-  font-weight: 600 !important;
-}
-
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
   padding: 0.375em 1em;
