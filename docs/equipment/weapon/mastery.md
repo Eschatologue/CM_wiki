@@ -22,15 +22,12 @@ _**Classes**: Fighter, Barbarian_
 
 These classes are the most adept with Weapon Mastery. They have a dedicated "Weapon Mastery" column in their class feature table and can typically learn more Mastery properties than other classes.  
 
-***Mechanic.*** When a class with Full Mastery finishes a **Long Rest**, it can change the Mastery property of **one weapon** they are proficient with and are currently using, replacing it with another eligible Mastery property.  
-
 ### Partial Mastery
 
 _**Classes** Rogue, Ranger, Paladin_  
 
 These classes have more limited access to Weapon Mastery. They lack a dedicated "Weapon Mastery" column in their class feature table and are usually restricted to only *two* Mastery properties for their weapons over the course of their career. Certain subclasses (e.g., Oath of the Blade) may grant additional Weapon Mastery options.  
 
-***Mechanic.*** When a class with Partial Mastery finishes a **Long Rest**, it can change the Mastery properties of **all weapons** they are proficient with and are currently using, replacing them with other eligible Mastery properties.  
 
 ## PHB'24 Mastery Property
 

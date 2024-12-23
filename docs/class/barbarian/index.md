@@ -126,8 +126,8 @@ Your training with weapons allows you to use the mastery properties of two kinds
 _**Change Weapon**_  
 You can practice weapon drills and change *one* of those weapon choices.
 
-_**Replace Weapon Mastery**^CM^_   
-You can choose *one* weapon with a Mastery property that you're using and replace its Mastery property with another eligible Mastery property. For example, you could replace the Longsword's Sap property with the Push property.
+_**Replace Weapon Mastery**^CM^_  
+You can choose any weapon with a Mastery property that you're using and replace its Mastery property with another eligible Mastery property. For example, you could replace the Longsword's Sap property with the Push property.
 
 --8<-- "includes/snippets/item-mastery.md"
 

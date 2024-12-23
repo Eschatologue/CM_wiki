@@ -132,7 +132,7 @@ Whenever you finish a Long Rest, you can do *one* of the following:
 _**Change Weapon**_  
 You can change the kinds of weapons you choose. For example, you could switch to using the Mastery properties of Halberds and Flails.
 
-_**Replace Weapon Mastery**^CM^_   
+_**Replace Weapon Mastery**^CM^_  
 You can choose any weapon with a Mastery property that you're using and replace its Mastery property with another eligible Mastery property. For example, you could replace the Halberd's Cleave property with the Topple property.
 
 --8<-- "includes/snippets/item-mastery.md"

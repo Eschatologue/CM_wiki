@@ -47,11 +47,11 @@ Your training with weapons allows you to use the mastery properties of two kinds
 
 Whenever you finish a Long Rest, you can do one of the following:
 
-***Change Weapon***  
+_**Change Weapon**_  
 You can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Shortswords.
 
-_**Replace Weapon Mastery**^CM^_  
-You can choose any of the kinds of Mastery weapons you're using and replace the Mastery property of each with another Mastery property. The chosen kind of weapon must qualify for the new property. For example, you could replace the Dagger's Nick property with the Slow property.
+_**Replace Weapon Mastery**^CM^_   
+You can choose any weapon with a Mastery property that you're using and replace its Mastery property with another eligible Mastery property. For example, you could replace the Dagger's Nick property with the Slow property.
 
 --8<-- "includes/snippets/item-mastery.md"
 
