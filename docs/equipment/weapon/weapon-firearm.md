@@ -5,7 +5,7 @@ status: homebrew
 
 # Firearms
 
-> "A good blade's worth more than any fire-spitter. A gun's only as strong as its powder and steel, but a sword or an axe? Aye, that's as strong as the arm that swings it—and there's no arm stronger than a dwarf's!" <br><p align="right"> – *A Dwarven Blacksmith* </p>
+###### "A good blade's worth more than any fire-spitter. A gun's only as strong as its powder and steel, but a sword or an axe? Aye, that's as strong as the arm that swings it—and there's no arm stronger than a dwarf's!"* <br><p align="right"> – *A Dwarven Blacksmith* </p>
 
 **Gun weapons**, shortened as **guns** and often referred to as **firearms**, are unique mid-range to long-range weapons that use a special explosive charge known as '**cordite**' to propel projectiles over long distances. These weapons were brought over by the Londoners and are used exclusively by their people.
 
@@ -74,7 +74,7 @@ Advanced Firearms Table include rocket launchers, machine guns, and other large,
 
 ## Firearm Proficiency
 
-In **Antares**, firearms are rare, relying on *Cordite*, a substance rendered inert near creatures attuned to the Weave—a trait of all Antares races except **Londoners**. Using firearms requires suppressing one's connection to the Weave, a skill few pursue as traditional ranged weapons are more practical.
+In Antares, firearms are rare, relying on *Cordite*, a substance rendered inert near creatures attuned to the Weave—a trait of all Antares races except **Londoners**. Using firearms requires suppressing one's connection to the Weave, a skill few pursue as traditional ranged weapons are more practical.
 
 Firearms require a unique proficiency distinct from :prof-wp-simple: Simple or :prof-wp-martial: Martial weapons. Most classes lack this Proficiency unless granted by a specific background, racial feature, or similar trait. They are also excluded from mechanics involving Cold weapons. 
 
@@ -95,8 +95,6 @@ Characters with spell slots up to level 4 suffer a penalty equal to 1/3 of their
 
 :material-circle-outline: ***Warlocks*** & ***Non-Casters*** (e.g., Fighter, Barbarian, Rogue)  
 These classes face no penalty when using Firearms with no proficiency. 
-
-
 
 [Push]: mastery.md#push
 [Slow]: mastery.md#slow
