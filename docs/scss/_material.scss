@@ -43,8 +43,8 @@
 
     // Tabs (Under the tile with Nav)
     .md-tabs {
-        color: var(--md-text-color);
-        background-color: var(--md-primary-fg-color-transparent);
+        color: var(--md-text-color); /* Changes Text Colour */
+        background-color: var(--md-primary-fg-color-transparent); /* Changes the Top navigation bar to theme colour */
 
         &__link--active {
             color: var(--md-primary-fg-color);
@@ -55,25 +55,23 @@
         }
     }
 
-    /* Search Input */
     .md-search__input {
-        color: var(--md-text-color);
-        background-color: var(--md-default-bg-color--50);
+        color: var(--md-text-color);  /* Idk what this does, but changing it mess some shit  */
+        background-color: var(--md-default-bg-color--50);  /* Searh Bar Background,  */
 
         &:hover {
-            background-color: var(--md-default-bg-color--50);
+            background-color: var(--md-default-bg-color--50); /* Colour when hovering */
         }
 
         ~ .md-search__icon {
-            color: var(--md-text-color);
+            color: var(--md-text-color); /* Searh Icon Colour */
         }
         &::placeholder {
-            color: var(--md-default-fg-color--light);
+            color: var(--md-default-fg-color--light); /* "Search Text Colour" */
         }
     }
 
-    /* Links */
     .md-content {
-        --md-typeset-a-color: #42A5F5;
+        --md-typeset-a-color: #42A5F5; /* Links */
     }
 }

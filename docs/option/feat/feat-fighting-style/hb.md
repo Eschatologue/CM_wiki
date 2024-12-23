@@ -73,9 +73,9 @@ You specialise one weapon rather than many. Choose one Weapon that you are Profi
 
 | Orginal Damage Die | Signature Damage Die |
 |:-:|:-:|
-| 2d4 and 1d8 | 1d10 |
+| 2d4 / 1d8 | 1d10 |
 | 1d10 | 1d12 |
-| 2d6 and 1d12 | 2d6 + 1 or 1d12 + 1 |
+| 2d6 / 1d12 | 2d6 + 1 |
 
 </div>
 

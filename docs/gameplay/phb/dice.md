@@ -10,9 +10,20 @@ Dices are the core mechanics of D&D. In every situation, dice are rolled to dete
 
 D&D uses the d20 system—a role-playing game system published in 2000 by Wizards of the Coast, originally developed for the 3rd edition of Dungeons & Dragons. Though the name is d20, it often includes other dice notations as well—usually notated with a `d` followed by the number of sides on that specific die.
 
-:die-d4:{ .lg .middle } `d4` - :die-d6:{ .lg .middle } `d6` - :die-d8:{ .lg .middle } `d8` - :die-d10:{ .lg .middle } `d10` - :die-d12:{ .lg .middle } `d12` - :die-d20:{ .lg .middle } `d20`
+:die-d4:{ .lg .middle } `d4` --> :die-d6:{ .lg .middle } `d6` --> :die-d8:{ .lg .middle } `d8` --> :die-d10:{ .lg .middle } `d10` --> :die-d12:{ .lg .middle } `d12` --> :die-d20:{ .lg .middle } `d20`
 
 The number of dice to be rolled is notated immediately before the `d`. Any applicable modifiers for the roll are given as an addition (if it is a bonus) or subtraction (if it is a penalty) after the dice notation. When a single twenty-sided die (d20) is rolled with no modifiers, it is notated as `1d20`. When two six-sided dice (d6) are rolled with a modifier of +3, the roll is notated as `2d6+3`.
+
+### Die Size Adjustment
+
+Certain game mechanics or features may cause the size of a die to increase or decrease. When a die increases by one size, it moves to the next larger die in the sequence (e.g., `d4` increases to `d6`). Conversely, when a die decreases by one size, it moves to the next smaller die (e.g., `d6` decreases to `d4`). 
+
+Occasionally, a mechanic may specify an increase or decrease by two sizes, though this is rare. For example, an increase by two sizes would change a `d4` to a `d8`, while a decrease by two sizes would change a `d10` to a `d6`.
+
+The sequence of die sizes is as follows:  
+:die-d4:{ .lg .middle } `d4` --> :die-d6:{ .lg .middle } `d6` --> :die-d8:{ .lg .middle } `d8` --> :die-d10:{ .lg .middle } `d10` --> :die-d12:{ .lg .middle } `d12`
+
+***Limits on Die Size Changes.*** The size of a die cannot be increased beyond a `d12` or decreased below a `d4`. If an effect would increase a `d12` or decrease a `d4`, the die size remains unchanged at the respective limit.
 
 ### Percentile Dice
 
