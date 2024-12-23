@@ -5,9 +5,7 @@ status: homebrew
 
 # Firearms
 
-> "A good blade's worth more than any fire-spitter. A gun's only as strong as its powder and steel, but a sword or an axe? Aye, that's as strong as the arm that swings it—and there's no arm stronger than a dwarf's!" - *A Dwarven Blacksmith*
-
-Firearms are uncommon and challenging to use in Antares, often considered impractical and requiring specific prerequisites and maintenance. Other weapons like bows, crossbows, or arcane staves are easier to use and cheaper, while melee weapons are much stronger.
+> "A good blade's worth more than any fire-spitter. A gun's only as strong as its powder and steel, but a sword or an axe? Aye, that's as strong as the arm that swings it—and there's no arm stronger than a dwarf's!" <br><p align="right"> – *A Dwarven Blacksmith* </p>
 
 **Gun weapons**, shortened as **guns** and often referred to as **firearms**, are unique mid-range to long-range weapons that use a special explosive charge known as '**cordite**' to propel projectiles over long distances. These weapons were brought over by the Londoners and are used exclusively by their people.
 
@@ -21,9 +19,9 @@ The Firearm tables in this section shows the game's main weapons. These table li
 
 ***Properties.*** Any properties a weapon has are listed in the Properties column. Each property is defined in the [Properties](index.md#weapon-properties) section.
 
-***Category.*** Firearms are considered ranged weapons for the purposes of effects, abilities, feats, and spells that refer to weapons unless a restriction or limitation explicitly prevents their use. If an ability or spell refers to “ranged weapons” or simply “weapons,” firearms are included unless stated otherwise.
+***Category.*** Firearms are considered Ranged weapons for the purposes of effects, abilities, feats, and spells that refer to weapons unless a restriction or limitation explicitly prevents their use. If an ability or spell refers to "ranged weapons" or simply "weapons," firearms are included unless stated otherwise.
 
-***Mastery.*** Each weapon has a mastery property, which is defined in the [Mastery Properties](mastery.md) section. To use that property, you must have a feature that lets you use it.
+***Mastery.*** Each weapon has a mastery property, which is defined in the [Mastery Properties](mastery.md) section. To use or replace that property, you must have a feature that lets you use it.
 
 ### Short-Arm
 
@@ -76,21 +74,29 @@ Advanced Firearms Table include rocket launchers, machine guns, and other large,
 
 ## Firearm Proficiency
 
-In Antares, arcane staves are common, while firearms are rare due to their reliance on *Cordite*, a substance rendered inert near creatures attuned to the Weave. This includes all Antares races except Londoners. 
+In **Antares**, firearms are rare, relying on *Cordite*, a substance rendered inert near creatures attuned to the Weave—a trait of all Antares races except **Londoners**. Using firearms requires suppressing one's connection to the Weave, a skill few pursue as traditional ranged weapons are more practical.
 
-Using firearms requires suppressing one's connection to the Weave, a difficult skill that few pursue, as traditional ranged weapons like bows are more practical for most.
+Firearms require a unique proficiency distinct from :prof-wp-simple: Simple or :prof-wp-martial: Martial weapons. Most classes lack this Proficiency unless granted by a specific background, racial feature, or similar trait. They are also excluded from mechanics involving Cold weapons. 
 
-### Basic Understanding
+While most creatures understand the basic operation of firearms—*pull the trigger, it fires*—those attuned to the Weave, especially spellcasters users, struggle to wield them effectively. Non-magical individuals are better suited to mastering these weapons.
 
-Most creatures are aware of how firearms work, but using them effectively requires specific knowledge. When attempting to use a firearm for the first time, a creature must make a **DC 15 Intelligence check** to figure out how the weapon functions. The creature's existing weapon proficiencies can provide an :d20-adv: Advantage on this check:
+### Using Firearms
 
-- **Short-Arms:** Creatures proficient with *Light Crossbows*, *Repeating Light Crossbows*, *Shortbows*, *Hand Crossbows* or *Martial Weapons* have :d20-adv: Advantage on this check with Short-Arms.
-- **Long-Arms:** Creatures proficient with *Arbalests*, *Longbows*, *Heavy Crossbows*, *Repeating Heavy Crossbows* or *Martial Weapons* have :d20-adv: Advantage on this check with Long-Arms.
-- **Advanced Firearms:** Creatures proficient with **Martial Weapons** have :d20-adv: Advantage on this check with Advanced Firearms (e.g., rocket launchers, flamethrowers).
+When a character without Firearm proficiency attempts to make an attack using Firearms, they roll the attack as normal, but a penalty applies. This penalty reflects their reliance on magic and is determined by their spellcasting type:
 
-#### Training and Proficiency
+:material-circle-slice-8: **Full Casters** (e.g., Wizard, Druid, Cleric, Sorcerer): Characters with spell slots up to level 9 suffer a penalty equal to their class level.  
 
-Once a creature successfully understands how a firearm operates, they can spend downtime training with it to gain proficiency. Only after this training can they use the weapon effectively without further checks. This training follows the rules written in [Downtime Activity: Training](../../gameplay/downtime/training.md).
+:   *Example*: A level 12 Wizard attempting the check has a -12 penalty, making it exceptionally difficult to succeed.  
+
+:material-circle-slice-4: **Half Casters** (e.g., Artificer, Magus, Paladin, Ranger): Characters with spell slots up to level 5 suffer a penalty equal to half their class level (rounded up).  
+
+:   *Example*: A level 10 Paladin would have a -5 penalty (10 × 1/2 = 5).  
+
+:material-circle-slice-3: **One-Third Casters** (e.g., Rogue (Arcane Trickster), Fighter (Eldritch Knight)): Characters with spell slots up to level 4 suffer a penalty equal to 1/3 of their class level (rounded up).  
+
+:   *Example*: A level 9 Arcane Trickster would have a -3 penalty (9 × 1/3 = 3).  
+
+:material-circle-outline: **Non-Casters** (e.g., Fighter, Barbarian, Rogue) & **Warlocks**: These classes face no penalty when using Firearms with no proficiency. 
 
 [Push]: mastery.md#push
 [Slow]: mastery.md#slow

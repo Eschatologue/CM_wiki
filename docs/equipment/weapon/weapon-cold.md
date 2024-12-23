@@ -16,7 +16,7 @@ The Weapons tables in this section shows the game's main weapons. These table li
 
 ***Properties.*** Any properties a weapon has are listed in the Properties column. Each property is defined in the [Properties](index.md#weapon-properties) section.
 
-***Mastery.*** Each weapon has a mastery property, which is defined in the [Mastery Properties](mastery.md) section. To use that property, you must have a feature that lets you use it.
+***Mastery.*** Each weapon has a mastery property, which is defined in the [Mastery Properties](mastery.md) section. To use or replace that property, you must have a feature that lets you use it.
 
 ## Cold Weapon Table
 
