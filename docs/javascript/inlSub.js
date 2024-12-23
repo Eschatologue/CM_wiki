@@ -13,9 +13,10 @@ class InlineSub extends HTMLElement {
       const style = document.createElement('style');
       style.textContent = `
           .inl-sub {
-              font-weight: bold; /* Default behaviour like <strong> */
-              color: var(--inl-sub-color, black); /* Default colour */
-              font-style: italic; /* Example modification */
+                color: var(--md-text-color);
+                text-transform: capitalize !important;
+                font-variant: small-caps !important;
+                font-weight: 500 !important;
           }
       `;
 

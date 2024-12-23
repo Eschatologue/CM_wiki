@@ -82,21 +82,21 @@ While most creatures understand the basic operation of firearms—*pull the trig
 
 ### Using Firearms
 
-When a character without Firearm proficiency attempts to make an attack using Firearms, they roll the attack as normal, but a penalty applies. This penalty reflects their reliance on magic and is determined by their spellcasting type:
+When a character without Firearm proficiency attempts to make an attack using Firearms, a penalty applies. This penalty reflects their reliance on magic and is determined by their spellcaster type:
 
-:material-circle-slice-8: **Full Casters** (e.g., Wizard, Druid, Cleric, Sorcerer): Characters with spell slots up to level 9 suffer a penalty equal to their class level.  
+:material-circle-slice-8: ***Full Casters*** (e.g., Wizard, Druid, Cleric, Sorcerer)  
+Characters with spell slots up to level 9 suffer a penalty equal to their class level. For example, A level 12 Wizard attempting the check has a -12 penalty, making it exceptionally difficult to succeed.  
 
-:   *Example*: A level 12 Wizard attempting the check has a -12 penalty, making it exceptionally difficult to succeed.  
+:material-circle-slice-4: ***Half Casters*** (e.g., Artificer, Magus, Paladin, Ranger)  
+Characters with spell slots up to level 5 suffer a penalty equal to half their class level (rounded up). For example, A level 10 Paladin would have a -5 penalty (10 × 1/2 = 5).  
 
-:material-circle-slice-4: **Half Casters** (e.g., Artificer, Magus, Paladin, Ranger): Characters with spell slots up to level 5 suffer a penalty equal to half their class level (rounded up).  
+:material-circle-slice-3: ***One-Third Casters*** (e.g., Rogue (Arcane Trickster), Fighter (Eldritch Knight))  
+Characters with spell slots up to level 4 suffer a penalty equal to 1/3 of their class level (rounded up). For example, A level 9 Arcane Trickster would have a -3 penalty (9 × 1/3 = 3).  
 
-:   *Example*: A level 10 Paladin would have a -5 penalty (10 × 1/2 = 5).  
+:material-circle-outline: ***Warlocks*** & ***Non-Casters*** (e.g., Fighter, Barbarian, Rogue)  
+These classes face no penalty when using Firearms with no proficiency. 
 
-:material-circle-slice-3: **One-Third Casters** (e.g., Rogue (Arcane Trickster), Fighter (Eldritch Knight)): Characters with spell slots up to level 4 suffer a penalty equal to 1/3 of their class level (rounded up).  
 
-:   *Example*: A level 9 Arcane Trickster would have a -3 penalty (9 × 1/3 = 3).  
-
-:material-circle-outline: **Non-Casters** (e.g., Fighter, Barbarian, Rogue) & **Warlocks**: These classes face no penalty when using Firearms with no proficiency. 
 
 [Push]: mastery.md#push
 [Slow]: mastery.md#slow
