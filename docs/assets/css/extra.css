@@ -719,6 +719,14 @@
   padding-left: 0.35em;
 }
 
+.inl-sub {
+  font-size: 0.825rem;
+  color: var(--md-text-color);
+  text-transform: capitalize;
+  font-variant: small-caps;
+  font-weight: 600;
+}
+
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
   padding: 0.375em 1em;
