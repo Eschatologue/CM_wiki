@@ -960,6 +960,8 @@
 [data-md-color-scheme=slate] {
   --md-text-color: var(--md-default-fg-color);
   background-color: var(--md-default-bg-color);
+  /* Search Input */
+  /* Links */
 }
 [data-md-color-scheme=slate] .md-header {
   color: var(--md-text-color);
@@ -970,7 +972,8 @@
   box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15), 0 0 0.2rem 0.4rem rgba(0, 0, 0, 0.2);
 }
 [data-md-color-scheme=slate] .md-top {
-  background-color: var(--md-default-bg-color--50);
+  background-color: var(--md-default-bg-color);
+  box-shadow: var(--md-shadow-z2);
 }
 [data-md-color-scheme=slate] .md-top:hover {
   background-color: var(--md-primary-fg-color);
@@ -996,7 +999,7 @@
   color: var(--md-text-color);
 }
 [data-md-color-scheme=slate] .md-search__input::placeholder {
-  color: var(--md-default-bg-color);
+  color: var(--md-default-fg-color--light);
 }
 [data-md-color-scheme=slate] .md-content {
   --md-typeset-a-color: #42A5F5;
