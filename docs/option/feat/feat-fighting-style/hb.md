@@ -16,7 +16,7 @@ You only gain these benefits so long you are not wearing Heavy Armour or wieldin
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*  
 
-When you make an attack with a Cold Weapon that has :weapon-prop-heavy: ^^Heavy^^ and :weapon-prop-two-handed: ^^Two-handed^^ property as part of your Attack action and the ^^total^^ damage roll from your weapon is 5 or lower, you treat it as 6
+When you make an attack with a Cold weapon that has :weapon-prop-heavy: ^^Heavy^^ and :weapon-prop-two-handed: ^^Two-handed^^ property as part of your Attack action and the ^^total^^ damage roll from your weapon is 5 or lower, you treat it as 6
 
 ---
 
@@ -38,18 +38,10 @@ If you already have a pool of Superiority Dice, these dice are added to that poo
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-You gain training with all shields and it gains the following trait in the Shield Weapon table.
+You gain training with all Shields and it can be used as a weapon while wielding one, following the trait below. Morover, you can also take a :rsc-b: Bonus Action to make a single attack with a Shield.
 
-##### Shield Weapon
-
-| Trait | Details |
-|---|---|
-| **Weapon Category** | Martial Melee |
-| **Base Damage** | d4 (Buckler); d6 (Shield); d8 (Tower Shield) :dmg-bldg: Bludgeoning damage plus Strength modifier |
-| **Properties** | None | 
-| **Mastery** | None |
-
-You can use a :rsc-b: **Bonus Action** to take the **Attack** action using a Shield.
+**Weapon Category:** Martial Melee  
+**Base Damage:** d4 (Buckler); d6 (Shield); d8 (Tower Shield) :dmg-bldg: Bludgeoning damage plus Strength modifier
 
 ---
 
@@ -107,7 +99,7 @@ When a creature within 10 feet of you makes an attack against a creature that yo
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-You can use your Strength modifier, in place of Dexterity for attack and damage rolls with Ranged Weapon, such as Longbow or Heavy Crossbows. When you do so, you gain +1 to damage rolls with those weapons.
+You can use your Strength modifier, in place of Dexterity for attack and damage rolls with Ranged weapon that lacks the :weapon-prop-automatic: ^^Automatic^^ property. When you do so, you gain +1 to damage rolls with those weapons.
 
 Moreover, you also use your Strength instead of your Dexterity to fufill the :weapon-prop-heavy: ^^Heavy^^ weapon property requirement for those weapons.
 
