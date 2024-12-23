@@ -33,7 +33,8 @@
 
     // Go to Top Button
     .md-top {
-        background-color: var(--md-default-bg-color--50);
+        background-color: var(--md-default-bg-color);
+        box-shadow: var(--md-shadow-z2);
 
         &:hover {
             background-color: var(--md-primary-fg-color);
@@ -54,7 +55,7 @@
         }
     }
 
-    // Search
+    /* Search Input */
     .md-search__input {
         color: var(--md-text-color);
         background-color: var(--md-default-bg-color--50);
@@ -67,9 +68,11 @@
             color: var(--md-text-color);
         }
         &::placeholder {
-            color: var(--md-default-bg-color);
+            color: var(--md-default-fg-color--light);
         }
     }
+
+    /* Links */
     .md-content {
         --md-typeset-a-color: #42A5F5;
     }
