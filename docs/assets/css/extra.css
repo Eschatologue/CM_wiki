@@ -719,6 +719,7 @@
   padding-left: 0.35em;
 }
 
+/* Inline Sub */
 .inl-sub {
   font-size: 0.825rem;
   color: var(--md-text-color);
