@@ -32,7 +32,7 @@ Your bond with the weapon ends if you use this feature's :rsc-b: Bonus Action ag
 
 ### Pact of the Chain
 
-You learn the [:spell-lv1: Find Familiar] spell and can cast it as a :rsc-a: <inl-sub>Magic</inl-sub> action without expending a spell slot.
+You learn the [:spell-lv1: Find Familiar] spell and can cast it as a :rsc-a: **Magic** action without expending a spell slot.
 
 When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: **Imp**, **Pseudodragon**, **Quasit**, **Skeleton**, **Slaad Tadpole**, **Sphinx of Wonder**, **Sprite**, or **Venomous Snake** (see appendix B for the familiar's stat block).
 

@@ -1,5 +1,6 @@
 ---
 title: Mastery Properties
+icon: material/tailwind
 ---
 
 # Mastery Properties
@@ -8,30 +9,22 @@ Each weapon has a mastery property, which is usable only by a character who has 
 
 ## Changing a Weapon's Mastery Property
 
-This homebrew rule reinstates a mechanic initially introduced in *Unearthed Arcana 2023 Playtest 7*, which allowed classes with the Weapon Mastery feature to change a weapon's Mastery property to another eligible one. In the final release, this flexibility was removed, restricting players to a weapon's pre-existing Mastery property. This homebrew aims to bring back that flexibility.
+This homebrew rule reinstates a mechanic initially introduced in *Unearthed Arcana 2023 Playtest 7*, which allowed classes with the Weapon Mastery feature to change a weapon's Mastery property to another eligible one.
 
-Currently, only five classes have the Weapon Mastery feature: Fighter, Barbarian, Rogue, Ranger, and Paladin. These classes can be divided into two groups based on their proficiency with Weapon Mastery, referred to here as **Full Mastery** and **Partial Mastery** (note: these terms are not part of official mechanics).
+***Changing Mastery Properties.*** When you finish a Long Rest, provided you have Weapon Mastery feature, you can choose any weapon with a Mastery property that you're using and replace its Mastery property with another eligible Mastery property. For example, you could replace the Longsword's [Sap](#sap) property with the [Flex](#flex) property. This follows the rules below:
 
-***Character Exclusive.*** These Mastery property changes apply only to the character that makes them and do not affect other characters. For example, if a Barbarian changes a Glaive's Graze property to Cleave, another Barbarian using the same Glaive would still use its default Graze property.
+- ***Character Exclusive.*** These Mastery property changes apply only to the character that makes them and do not affect other characters. For example, if a Barbarian changes a Glaive's Graze property to Cleave, another Barbarian or any other class using the same Glaive would still use its default Graze property.
 
-***Defaults on Long Rest.*** Any changes made to a weapon's Mastery property end for the character when they finish a Long Rest.
-
-### Full Mastery
-
-_**Classes**: Fighter, Barbarian_  
-
-These classes are the most adept with Weapon Mastery. They have a dedicated "Weapon Mastery" column in their class feature table and can typically learn more Mastery properties than other classes.  
-
-### Partial Mastery
-
-_**Classes** Rogue, Ranger, Paladin_  
-
-These classes have more limited access to Weapon Mastery. They lack a dedicated "Weapon Mastery" column in their class feature table and are usually restricted to only *two* Mastery properties for their weapons over the course of their career. Certain subclasses (e.g., Oath of the Blade) may grant additional Weapon Mastery options.  
+- ***Defaults on Long Rest.*** Any changes made to a weapon's Mastery property end for the character when they finish a Long Rest.
 
 
 ## PHB'24 Mastery Property
 
 These Mastery property are available in the PHB'24.
+
+<div class="grid" markdown>
+
+<div>
 
 ### Cleave
 
@@ -39,13 +32,19 @@ _**Prerequisite:** Melee Weapon, :weapon-prop-heavy: ^^Heavy^^ property_
 
 If you hit a creature with a melee attack using this weapon, you can make an attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon's damage, but don't add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.
 
----
+</div>
+
+<div>
 
 ### Graze
 
 _**Prerequisite:** Melee Weapon, :weapon-prop-heavy: ^^Heavy^^ property_
 
 If your attack roll with this weapon misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the attack roll. This damage is the same type dealt by the weapon, and the damage can't be increased in any way, other than increasing the ability modifier.
+
+</div>
+
+</div>
 
 ---
 
