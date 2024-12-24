@@ -644,7 +644,8 @@
   font-family: "Jost", sans-serif;
   text-transform: uppercase;
 }
-.md-typeset h3, .md-typeset h4 {
+.md-typeset h3,
+.md-typeset h4 {
   font-family: "Jost", sans-serif;
   text-transform: none !important;
   font-variant: small-caps !important;
@@ -720,13 +721,14 @@
 }
 
 /* Inline Sub */
+/*
 .inl-sub {
-  font-size: 0.825rem;
-  color: var(--md-text-color);
-  font-variant: small-caps;
-  font-weight: 550;
+    font-size: $defaultFontSize * 1.1;
+    color: var(--md-text-color);
+    font-variant: small-caps;
+    font-weight: 550;
 }
-
+    */
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
   padding: 0.375em 1em;
