@@ -3,15 +3,17 @@ search:
   boost: 0.25
 ---
 
-> *“Under the gaze of Falcone, justice is not just a concept but a cosmic truth, guiding or coercing us to uphold fairness and righteousness in all our actions. In a way, this Spire made all our actions, even unseen one are accountable in the karmic wheel's of life"* -Valinorian scholar.
+# Spire of Judgement
+
+###### *“Under the gaze of Falcone, justice is not just a concept but a cosmic truth, guiding or coercing us to uphold fairness and righteousness in all our actions. In a way, this Spire made all our actions, even unseen one are accountable in the karmic wheel's of life* <br><p align="right"> - Valinorian scholar </p>
 
 ## Profile
 
 Falcone embodies the essence of justice and judgment, ascending to Spirehood after THEIR mortal demise. THEY preside over the cosmic scales of justice, guiding souls through the process of reckoning and moral evaluation. Falcone's domain is the realm of divine justice, where fairness and righteousness prevail above all else. Adherents of The Judgment revere Falcone for THEIR sheer commitment to justice, which transcends even the boundaries of death.
 
-**Other Titles:**
+#### Other Titles:
 
-- Cosmic Arbiter
+- Radiant Arbiter
 - Ascended Judge
 
 ## Appearance

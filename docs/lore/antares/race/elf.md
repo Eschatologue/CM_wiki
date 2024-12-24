@@ -22,9 +22,9 @@ As one of the oldest races on Antares, the Elves once wielded dominance througho
 
 Being the earliest race to dwell on Antares, they emerged alongside the formation of the world itself. According to ancient lore, the goddess Ilmatar shaped the skies and seas, and from these forces arose the high elves. Meanwhile, the god Väinämöinen brought forth forests and life to the once-barren lands, from which the wood elves emerged. These lands eventually become the Antares continent we knew.
 
-However, a period known as the "Dissolution of Eons," or the First Rapture occurs, causing the extinction of these gods. With their creator now gone, the high elves and wood elves, turned against one another. Their conflict plunged the continent into war, fracturing their once-shared legacy.
+However, a period known as the "Dissolution of Eons," or the First Maelstorm occurs, causing the extinction of these gods. With their creator now gone, the high elves and wood elves, turned against one another. Their conflict plunged the continent into war, fracturing their once-shared legacy.
 
-Those who did not partake in the war, were cast out. Exiled into the deep caverns formed by the aftermath of the First Rapture, these outcasts encountered a colossal leviathan known as Ouroboros. This ancient being, now called "Aeginae" granted them attunement to the underground world, allowing them to survive in the harsh and shadowy depths. From this encounter, the first Drows were born.
+Those who did not partake in the war, were cast out. Exiled into the deep caverns formed by the aftermath of the First Maelstorm, these outcasts encountered a colossal leviathan known as Ouroboros. This ancient being, now called "Aeginae" granted them attunement to the underground world, allowing them to survive in the harsh and shadowy depths. From this encounter, the first Drows were born.
 
 ### The Tree of Life
 

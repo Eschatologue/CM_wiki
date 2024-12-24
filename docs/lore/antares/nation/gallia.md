@@ -18,7 +18,7 @@ search:
 
 ## Overview
 
-The **Empire of Gallia**, also referred to as the **Gallian Empire**, is an empire located in the south-east of the Antares continent. Once the dominant power in the region, with its capital **Lyon** serving as the heart of Antares, the empire's supremacy was severely weakened by the Second Rapture and aa violent revolution soon after.
+The **Empire of Gallia**, also referred to as the **Gallian Empire**, is an empire located in the south-east of the Antares continent. Once the dominant power in the region, with its capital **Lyon** serving as the heart of Antares, the empire's supremacy was severely weakened by the Second Maelstorm and aa violent revolution soon after.
 
 Despite these challenges, Gallia remains a significant centre of arcane knowledge, renowned for its magical traditions. The empire continues to influence arcane warfare and hosts Antares' most prestigious military academy, where noble-born mages and sorcerers are trained in both magic and strategy. Though no longer commanding the largest military, Gallia focuses on preserving its remaining territories and protecting its magical heritage.
 

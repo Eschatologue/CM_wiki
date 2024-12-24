@@ -6,7 +6,7 @@ search:
 
 # Antares' Pantheon
 
-In Crown & Misery, beings we once referred to as 'Gods' are now relics of a bygone era when deities roamed the lands. All traces of these beings vanished after the First Warp Rapture. However, entities of immense power that govern the natural laws of Antares still remain. 
+In Crown & Misery, beings we once referred to as 'Gods' are now relics of a bygone era when deities roamed the lands. All traces of these beings vanished after the First Warp Maelstorm. However, entities of immense power that govern the natural laws of Antares still remain. 
 
 Antares boasts many religions, some with structured rules and others that closely resemble cults, all revolving around two distinct pantheons or types of deities: the Aeginae and the Spire. The Aeginae are leviathans, while the Spire are higher-dimensional eldritch beings. The Spire, in particular, wield more power than the Aeginae and transcend the concept of 'Gods.' Both are not just beings who declare laws; both are the very embodiment of the laws themselves.
 
@@ -14,15 +14,15 @@ Antares boasts many religions, some with structured rules and others that closel
 
 The Spires are godlike, higher-dimensional beings that govern and enact a philosophical concept called an Ascent. These beings manifest during events of great importance tied to their Ascent. Mortals can draw power from a Spire if granted permission, usually by adhering to the Ascent or concept the Spire represents to a degree deemed adequate by the Spire. While this is rare, when it happens, it is akin to a mortal gaining the power of a deity.
 
-| Name | Ascent | Suggested Domains | Status |
-|:--|:--|:--|:--|
-| Aaraau | Destruction | Arcana, Grave, Light, Tempest | Alive |
-| Etemenanki | Perseverance | Forge, Order, Twilight, War | Alive |
-| Falcone | Judgement | Light, Order, Zeal | Alive |
-| Sri | Harmony | Life, Nature, Peace, Twilight | Deceased |
-| Antero Vipunen | Enlightenment  | Arcana, Forge, Knowledge, Nature, Tempest | Unknown |
-| Caishen | Prosperity | Knowledge, Life, Trickery  | Alive |
-| Trutinius | Equilibrium | Death, Knowledge, Order, Twilight | Alive |
+| Name | Ascent | Status |
+|:--|:--|:--|
+| Aaraau | Destruction | Alive |
+| Etemenanki | Perseverance | Alive |
+| Falcone | Judgement | Alive |
+| Sri | Harmony |  Deceased |
+| Antero Vipunen | Enlightenment | Unknown |
+| Caishen | Prosperity | Alive |
+| Trutinius | Equilibrium | Alive |
 
 ## Aeginae
 

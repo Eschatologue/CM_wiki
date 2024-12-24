@@ -23,7 +23,7 @@ Most, if not all of Aasimar are born in Soterrano, where they comprise the major
 
 ## Legacy of Vorthalas
 
-Centuries before the Second Rapture, Aasimar were ordinary mortals from various species who were blessed an aeginae called Vorthalas, *The Engraver*. Mortals who demonstrated extraordinary commitment to justice, or to what Vorthalas defined as justice, were blessed with divine power, transforming them an Aasimar. Many became paladins, while others unlocked latent sorcerous abilities.
+Centuries before the Second Maelstorm, Aasimar were ordinary mortals from various species who were blessed an aeginae called Vorthalas, *The Engraver*. Mortals who demonstrated extraordinary commitment to justice, or to what Vorthalas defined as justice, were blessed with divine power, transforming them an Aasimar. Many became paladins, while others unlocked latent sorcerous abilities.
 
 As the Aasimar spread across Antares, so did the teachings of Vorthalas. Though teachings spreads, the Aeginae themselves were dwindling. Some succumbs to age, conflicts, or other causes. Vorthalas itself was overtaken by an Aasimar named Falcone, who ultimately ascended to become the Spire of Judgement. This ascension marked the end of the Aasimar's link to the Vorthalas, yet it also introduced new powers and restrictions. Aasimar gained the ability to manifest angelic wings and, under certain conditions, to fly, but became bound to the Spire's influence. When travelling far from Soterrano, Aasimar experience effects such as; memory loss, emotional detachment, and sociopathic tendencies. The full extent of these effects remains unclear.
 

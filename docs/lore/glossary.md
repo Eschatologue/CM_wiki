@@ -120,7 +120,7 @@ Colossal land-based ships. **Dreadnoughts** are vital for trade, transport, and 
 
 *Historical Event*
 
-The **Gallian Revolution** erupted as a response to centuries of mounting dissatisfaction towards the Gallian royal family. Their inaction in the aftermath of the Second Rapture, combined with severe civil inequality, fuelled the unrest that culminated in one of the bloodiest events in Gallian history. 
+The **Gallian Revolution** erupted as a response to centuries of mounting dissatisfaction towards the Gallian royal family. Their inaction in the aftermath of the Second Maelstorm, combined with severe civil inequality, fuelled the unrest that culminated in one of the bloodiest events in Gallian history. 
 
 In the aftermath, many commoners fled the empire, seeking refuge in other nations, while the nobility both tightened and loosened their grip on society—cementing their rule yet adopting measures to maintain control in a fractured and uneasy Gallia.
 
@@ -196,7 +196,7 @@ Any relic from the Murashu that is found is considered priceless, with the poten
 
 *Era*
 
-The Millennium Dawn marks the age that began 200 years after the Second Rapture, characterised by the fall of the Tahdenvalta Empire and the aftermath of the Great Split. 
+The Millennium Dawn marks the age that began 200 years after the Second Maelstorm, characterised by the fall of the Tahdenvalta Empire and the aftermath of the Great Split. 
 
 This era signifies a new period for Antares, as societies adapt to the new balance of power, technology slowly replaces magic in every part of societies, and the remnants of the old world collide with the burgeoning innovations of the Londoners.
 
@@ -248,7 +248,7 @@ The **Mist Veil** is a dense, white wall of mist surrounding the outer edge of A
 
 *System, Gallia*
 
-The Gallian Standard System, or *Le Système Gallien*, is a foundational framework for nation-building that served as a baseline for many nations prior to the Second Rapture. Originating from the imperial policies of Gallia, it encompasses guidelines for economic structures, political governance, and social organisation, promoting stability and order among diverse cultures. The system emphasises centralised authority, resource management, and a hierarchical approach to governance. 
+The Gallian Standard System, or *Le Système Gallien*, is a foundational framework for nation-building that served as a baseline for many nations prior to the Second Maelstorm. Originating from the imperial policies of Gallia, it encompasses guidelines for economic structures, political governance, and social organisation, promoting stability and order among diverse cultures. The system emphasises centralised authority, resource management, and a hierarchical approach to governance. 
 
 Although largely abandoned, its influence can still be observed across various nations, manifesting in remnants of its economic models and governance structures.
 

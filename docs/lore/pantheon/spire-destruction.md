@@ -3,7 +3,9 @@ search:
   boost: 0.25
 ---
 
-> *“Oh the shattered one, oh the blemished one, grant us thy blessings and salvation of thy earth-shattering ivory lance” —* Unknown Priest of Entropy.
+# Spire of Destruction
+
+###### *“Oh the shattered one, oh the blemished one, grant us thy blessings and salvation of thy earth-shattering ivory lance”* <br><p align="right"> - Priest of Entropy </p>
 
 ## Profile
 
@@ -11,7 +13,7 @@ After the event of the First Warp Maelstrom, Antares continent experienced chaos
 
 This event was so chaotic that it not only shattered the continent but also shattered the moon, turning the once radiant spherical body in the sky into the ivory arc we see today. This scale of destruction tore a rift in the cosmic weave, giving birth to a Spire known as **Aaraau, The Destruction**.
 
-**Other Titles:**
+#### Other Titles
 
 - The Collapsing Star
 - Lord of Entropy

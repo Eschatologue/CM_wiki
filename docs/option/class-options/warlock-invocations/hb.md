@@ -107,7 +107,7 @@ When you make an Intelligence (Arcana), Intelligence (History), or Intelligence 
 
 ***Prerequisite:** [Pact of the Chalice]*
 
-You can peer into the uncertain future. Using your Pact Chalice as a spellcasting focus, you can cast *Augury* at-will, without expending a spell slot or material components.
+You can peer into the uncertain future. Using your Pact Chalice as a spellcasting focus, you can cast [:spell-lv1: Augury] at-will, without expending a spell slot or material components.
 
 ---
 
@@ -115,7 +115,7 @@ You can peer into the uncertain future. Using your Pact Chalice as a spellcastin
 
 ***Prerequisite:** [Pact of the Wok]*
 
-You can cast *Grease* with a Warlock spell slot.
+You can cast [:spell-lv1: Grease] with a Warlock spell slot.
 
 ---
 
@@ -123,7 +123,7 @@ You can cast *Grease* with a Warlock spell slot.
 
 ***Prerequisite:** Level 2+ Warlock, [Pact of the Chalice]*
 
-You can cast *Lesser Restoration* once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Long Rest.
+You can cast [:spell-lv2: Lesser Restoration] once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Long Rest.
 
 ---
 
@@ -131,7 +131,7 @@ You can cast *Lesser Restoration* once without expending a spell slot. You regai
 
 ***Prerequisite:** Level 2+ Warlock, [Pact of the Hourglass]*
 
-You can cast *Gift of Alacrity* once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Long Rest.
+You can cast [:spell-lv1: Gift of Alacrity](../../../spells/description/additional/dunamancy.md#gift-of-alacrity) once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Long Rest.
 
 ---
 
@@ -149,7 +149,7 @@ You can invoke this level 3 Cleric subclass feature once and you must finish a S
 
 ***Prerequisite:** Level 5+ Warlock*
 
-You can cast *[Fireball](../../../spells/description/core/level-3.md#fireball)* centred on yourself, using a Warlock spell slot. When you do, you gain Temporary Hit Points equal to the damage you take from the spell. If you use this invocation again while you still have Temporary Hit Points from it, any damage from the spell is instead applied to your actual Hit Points.
+You can cast [:spell-lv3: Fireball] centred on yourself, using a Warlock spell slot. When you do, you gain Temporary Hit Points equal to the damage you take from the spell. If you use this invocation again while you still have Temporary Hit Points from it, any damage from the spell is instead applied to your actual Hit Points.
 
 ---
 
@@ -157,7 +157,7 @@ You can cast *[Fireball](../../../spells/description/core/level-3.md#fireball)* 
 
 ***Prerequisite:** Level 5+ Warlock, a Warlock Cantrip That Deals Damage*
 
-Choose one of your known Warlock cantrips that deals damage. When that cantrip deals damage, you can take a Bonus Action to cast *Fireball* using a Pact Magic spell slot. The spell must be centered on the creature you hit with cantrip.
+Choose one of your known Warlock cantrips that deals damage. When that cantrip deals damage, you can take a Bonus Action to cast [:spell-lv3: Fireball] using a Pact Magic spell slot. The spell must be centered on the creature you hit with cantrip.
 
 ***Repeatable.*** You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
 
@@ -167,7 +167,7 @@ Choose one of your known Warlock cantrips that deals damage. When that cantrip d
 
 ***Prerequisite:** Level 5+ Warlock*
 
-You can cast *Slow* with a Warlock spell slot.
+You can cast [:spell-lv3: Slow] with a Warlock spell slot.
 
 ---
 
@@ -175,7 +175,7 @@ You can cast *Slow* with a Warlock spell slot.
 
 ***Prerequisite:** Level 5+, [Armour of Shadow]*
 
-When you cast *[Mage Armour](../../../spells/description/core/level-1.md#mage-armour)* using [Armour of Shadow] Invocation, your base AC is 15 + your Dexterity modifier instead of the normal effect.
+When you cast [:spell-lv1: Mage Armour] using [Armour of Shadow] Invocation, your base AC is 15 + your Dexterity modifier instead of the normal effect.
 
 ---
 
@@ -191,7 +191,7 @@ A creature of your choice can take a :rsc-b: **Bonus Action** to drink from your
 
 ***Prerequisite:** Level 7+ Warlock, [Pact of the Hourglass]*
 
-You can cast *Haste* once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Short or Long Rest.
+You can cast [:spell-lv3: Haste] once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Short or Long Rest.
 
 ---
 
@@ -199,7 +199,7 @@ You can cast *Haste* once without expending a spell slot. You regain the ability
 
 ***Prerequisite:** Level 7+ Warlock*
 
-You can cast *Polymorph* with a Warlock spell slot.
+You can cast [:spell-lv4: Polymorph] with a Warlock spell slot.
 
 ---
 
@@ -207,7 +207,7 @@ You can cast *Polymorph* with a Warlock spell slot.
 
 ***Prerequisite:** Level 9+ Warlock*
 
-You can cast *Charm Person* once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Long Rest.
+You can cast [:spell-lv1: Charm Person] once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Long Rest.
 
 ---
 
@@ -228,3 +228,5 @@ Once you use this feature you must finish a Short or Long Rest before you can us
 [Pact of the Instrument]: #pact-of-the-instrument
 [Pact of the Hourglass]: #pact-of-the-hourglass
 [Pact of the Chalice]: #pact-of-the-chalice
+
+--8<-- "includes/snippets/spells3/lv0-5.md"

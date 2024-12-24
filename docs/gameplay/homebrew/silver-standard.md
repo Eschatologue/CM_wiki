@@ -9,7 +9,7 @@ status: homebrew
 
 # The Silver Standard
 
-Long before London ascended to prominence, before Antares was shattered by the Second Warp Rapture, and before Abberations prowled the lands, Gallia stood as the very visage of Antares. Its dominion stretched across nearly half the continent, with its capital, Lyon, pulsating as the heart of the entire realm.
+Long before London ascended to prominence, before Antares was shattered by the Second Warp Maelstorm, and before Abberations prowled the lands, Gallia stood as the very visage of Antares. Its dominion stretched across nearly half the continent, with its capital, Lyon, pulsating as the heart of the entire realm.
 
 Though time has eroded Gallia's grandeur, its population, and its influence, its legacy endures. It survives in the form of *Le Système Gallien* (The Gallian Standard), which encompasses Standardised Spellcasting System and, most crucially, the *Gallian Silver Standard*—a system still in use today, even by the most formidable of contemporary nations.
 

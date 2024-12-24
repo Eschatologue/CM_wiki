@@ -3,15 +3,17 @@ search:
   boost: 0.25
 ---
 
-> *“Here lies the foundation of the Earth and the Sky, the torch enlighten our souls against the Darkness. Hear the songs and cries of our ancestors, let our blood and their toils forge our future!”*  —a wood elf engineer, laying the foundations of “Irminsul” generator.
+# Spire of Perseverance
+
+###### *“Here lies the foundation of the Earth and the Sky, the torch enlighten our souls against the Darkness. Hear the songs and cries of our ancestors, let our blood and their toils forge our future!* <br><p align="right"> - Wood Elf Engineer </p>
 
 ## Profile
 
-Etemenanki, known as the Spire of Perseverance, embodies qualities of resilience, hope, and sheer will. Followers of Etemenanki adhere to these virtues often with amazing zealotry. This Spire is formed from a combination of many souls and deceased deities, making it one of the most powerful spires known today. As long as there is hope in this [redacted] continent, Etemenanki will endure in perpetuity.
+**Etemenanki**, known as the Spire of Perseverance, embodies qualities of resilience, hope, and sheer will. Followers of Etemenanki adhere to these virtues often with amazing zealotry. This Spire is formed from a combination of many souls and deceased deities, making it one of the most powerful spires known today. As long as there is hope in this [redacted] continent, Etemenanki will endure in perpetuity.
 
 Unlike the primordial gods of old so-called “Ares”, this Spire does not inspire the dumb foolishness of victory in war, but the wisdom and determination to see it through.
 
-**Other Titles:**
+#### Other Titles:
 
 - Herald of Hope
 - The Steelheart

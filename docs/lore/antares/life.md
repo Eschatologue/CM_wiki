@@ -13,7 +13,7 @@ Beyond these races, god-like beings or dragons called Aeginae once roamed the co
 
 ## Civilisation
 
-Ancient civilisations predating the *Ancient* have largely faded into obscurity. Discoveries hint at a lost society called the *Precursors*, believed to have come from a place known as '**Eridu**'. However, the First Rapture erased much of their knowledge, pushing nearly all life to the edge of extinction.
+Ancient civilisations predating the *Ancient* have largely faded into obscurity. Discoveries hint at a lost society called the *Precursors*, believed to have come from a place known as '**Eridu**'. However, the First Maelstorm erased much of their knowledge, pushing nearly all life to the edge of extinction.
 
 ### Politics
 

@@ -19,13 +19,13 @@ As a Bonus Action on your turn, you can place a **Baleful Mark** on a creature y
 
 This Mark is only visible to you, and while it is active, you gain the benefits listed below:
 
-***Tracking.*** You know the exact direction of your Mark, so long as you both remain on the same plane of existence.
+***Mage Breaker.*** Whenever you damage your Mark, it has :d20-disadv: Disadvantage on its subsequent saving throw to maintain Concentration
+
+***Mage Slayer.*** If your Mark attempts to cast a spell while it is within your reach, it provokes :rsc-r: Opportunity Attack from you.
 
 ***Spellcaster Type.*** You learn its spellcasting ability and the level of the highest level spell it can cast, if any.
 
-***Mage Slayer.*** If your Mark attempts to cast a spell while it is within your reach, it provokes Opportunity Attack from you.
-
-Whenever you damage your Mark, it has Disadvantage on its subsequent saving throw to maintain Concentration.
+***Tracking.*** You know the exact direction of your Mark, so long as you both remain on the same plane of existence.
 
 ### Level 3: Spellbrearker's Magic
 
@@ -70,7 +70,6 @@ You have risen through the ranks of your Order to become an unparalleled hunter 
 ***Attack Advantage.*** You have Advantage on any weapon attack rolls you make as part of [Spellstrike] and [Spellsunder] against your Mark.
 
 ***Maximum Damage.*** When you hit your Mark with a [Spellstrike] attack, you can end your [Baleful Mark] to cause your attack, including the spell, to deal maximum damage. After you do so, you can't Mark that creature again until you finish a Long Rest.
-
 
 [Baleful Mark]: #level-3-baleful-mark
 [Spellsight]: index.md#level-5-spellsight

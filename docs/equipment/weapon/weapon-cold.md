@@ -22,7 +22,7 @@ The Weapons tables in this section shows the game's main weapons. These table li
 
 Weapons in D&D are categorized into simple and martial weapons, each serving different roles and offering distinct advantages in combat. 
 
-### Simple Weapons
+### :prof-wp-simple: Simple Weapons
 
 Simple weapons are easy to use and require minimal training, making them accessible to most characters. They are commonly found and typically less expensive than martial weapons.
 
@@ -54,7 +54,7 @@ Simple weapons are easy to use and require minimal training, making them accessi
     | *Shortbow* | 1d6 :dmg-prcg: Piercing | Ammunition (:weapon-prop-range: Range 80/320; Arrow), Two-Handed | [Vex] | M-| 250 SP |
     | *Sling* | 1d4 :dmg-bldg: Bludgeoning | Ammunition (:weapon-prop-range: Range 30/120; Bullet) | [Slow] | M-| 1 SP |
 
-### Martial Weapons
+### :prof-wp-martial: Martial Weapons
 
 Martial weapons require more training to use effectively but offer greater damage and versatility. These are often preferred by trained warriors and adventurers.
 

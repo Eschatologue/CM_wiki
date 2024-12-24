@@ -40,6 +40,7 @@ $h4Size: $defaultFontSize * 1.125;
     ol {
         margin: convert.px2rem(5px) 0 convert.px2rem(5px) 0;
     }
+
     dd {
         margin: convert.px2rem(-2px) 0 convert.px2rem(3px) 0;
     }
@@ -51,7 +52,8 @@ $h4Size: $defaultFontSize * 1.125;
         text-transform: uppercase;
     }
 
-    h3, h4 {
+    h3,
+    h4 {
         font-family: $headingFont;
         text-transform: none !important;
         font-variant: small-caps !important;
@@ -148,9 +150,11 @@ $h4Size: $defaultFontSize * 1.125;
 }
 
 /* Inline Sub */
+/*
 .inl-sub {
     font-size: $defaultFontSize * 1.1;
     color: var(--md-text-color);
     font-variant: small-caps;
     font-weight: 550;
 }
+    */
