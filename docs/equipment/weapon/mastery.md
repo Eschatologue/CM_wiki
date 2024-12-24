@@ -21,7 +21,7 @@ This homebrew rule reinstates a mechanic initially introduced in *Unearthed Arca
 
 These Mastery property are available in the PHB'24.
 
-/// html | div[style='float: left; width: 48%;']
+/// html | div[style='float: left; width: 48.5%; @media screen and (max-width: 768px) {clear: both;}']
 
 ### Cleave
 
@@ -31,7 +31,7 @@ If you hit a creature with a melee attack using this weapon, you can make an att
 
 ///
 
-/// html | div[style='float: right;width: 48%;']
+/// html | div[style='float: right; width: 48.5%; @media screen and (max-width: 768px) {clear: both;}']
 
 ### Graze
 
@@ -44,17 +44,17 @@ If your attack roll with this weapon misses a creature, you can deal damage to t
 /// html | div[style='clear: both;']
 ///
 
-/// html | div[style='float: left; width: 48%;']
+/// html | div[style='float: left;  width: 48.5%; @media screen and (max-width: 768px) {clear: both;}']
 
 ### Nick
 
 _**Prerequisite:** :weapon-prop-light: ^^Light^^ property_
 
-When you make the extra attack of the :weapon-prop-light: ^^Light^^ property, you can make it as part of the Attack action instead of as a Bonus Action. You can make this extra attack only once per turn.
+When you make the extra attack of the :weapon-prop-light: ^^Light^^ property, you can make it as part of the Attack action instead of as a :rsc-b: Bonus Action. You can make this extra attack only once per turn.
 
 ///
 
-/// html | div[style='float: right;width: 48%;']
+/// html | div[style='float: right; width: 48.5%; @media screen and (max-width: 768px) {clear: both;}']
 
 ### Push
 
@@ -67,7 +67,7 @@ If you hit a creature with this weapon, you can push the creature up to 10 feet 
 /// html | div[style='clear: both;']
 ///
 
-/// html | div[style='float: left; width: 48%;']
+/// html | div[style='float: left;  width: 48.5%; @media screen and (max-width: 768px) {clear: both;}']
 
 ### Sap
 
@@ -77,7 +77,7 @@ If you hit a creature with this weapon, that creature has :d20-disadv: Disadvant
 
 ///
 
-/// html | div[style='float: right;width: 48%;']
+/// html | div[style='float: right; width: 48.5%; @media screen and (max-width: 768px) {clear: both;}']
 
 ### Slow
 
@@ -90,7 +90,7 @@ If you hit a creature with this weapon and deal damage to the creature, you can 
 /// html | div[style='clear: both;']
 ///
 
-/// html | div[style='float: left; width: 48%;']
+/// html | div[style='float: left;  width: 48.5%; @media screen and (max-width: 768px) {clear: both;}']
 
 ### Topple
 
@@ -100,7 +100,7 @@ If you hit a creature with this weapon, you can force the creature to make a Con
 
 ///
 
-/// html | div[style='float: right;width: 48%;']
+/// html | div[style='float: right; width: 48.5%; @media screen and (max-width: 768px) {clear: both;}']
 
 ### Vex
 
@@ -153,7 +153,7 @@ When you hit a melee attack using this weapon, you deal its :weapon-prop-versati
 
 _**Prerequisite:** :weapon-prop-reach: ^^Reach^^ or :weapon-prop-versatile: ^^Versatile^^ property_
 
-As an :rsc-a: **Attack** action, you can choose a target within your :rsc: Speed and move torwards it in a straight line and make an attack against it with :d20-adv: Advantage. This movement does not provoking :rsc-r: Opportunity Attack
+When you take the :rsc-a: **Dash** action, you can target a creature within your :rsc-speed: Speed, move torwards it in a straight line, and make a Melee attack against it with :d20-adv: Advantage.
 
 ---
 
