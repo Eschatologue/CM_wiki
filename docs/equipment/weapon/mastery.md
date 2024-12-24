@@ -17,14 +17,9 @@ This homebrew rule reinstates a mechanic initially introduced in *Unearthed Arca
 
 - ***Defaults on Long Rest.*** Any changes made to a weapon's Mastery property end for the character when they finish a Long Rest.
 
-
 ## PHB'24 Mastery Property
 
 These Mastery property are available in the PHB'24.
-
-<div class="grid" markdown>
-
-<div>
 
 ### Cleave
 
@@ -32,19 +27,13 @@ _**Prerequisite:** Melee Weapon, :weapon-prop-heavy: ^^Heavy^^ property_
 
 If you hit a creature with a melee attack using this weapon, you can make an attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon's damage, but don't add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.
 
-</div>
-
-<div>
+---
 
 ### Graze
 
 _**Prerequisite:** Melee Weapon, :weapon-prop-heavy: ^^Heavy^^ property_
 
 If your attack roll with this weapon misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the attack roll. This damage is the same type dealt by the weapon, and the damage can't be increased in any way, other than increasing the ability modifier.
-
-</div>
-
-</div>
 
 ---
 
