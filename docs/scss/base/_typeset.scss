@@ -146,3 +146,10 @@ $h4Size: $defaultFontSize * 1.125;
 .pad-l {
     padding-left: 0.35em;
 }
+
+.inl-sub {
+    font-size: $defaultFontSize * 1.1;
+    color: var(--md-text-color);
+    font-variant: small-caps;
+    font-weight: 550;
+}
