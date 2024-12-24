@@ -21,7 +21,7 @@ This homebrew rule reinstates a mechanic initially introduced in *Unearthed Arca
 
 These Mastery property are available in the PHB'24.
 
-/// html | div[style='float: left; width: 45%;']
+/// html | div[style='float: left; width: 47.5%;']
 
 ### Cleave
 
@@ -31,7 +31,7 @@ If you hit a creature with a melee attack using this weapon, you can make an att
 
 ///
 
-/// html | div[style='float: right;width: 45%;']
+/// html | div[style='float: right;width: 47.5%;']
 
 ### Graze
 
@@ -44,7 +44,7 @@ If your attack roll with this weapon misses a creature, you can deal damage to t
 /// html | div[style='clear: both;']
 ///
 
-/// html | div[style='float: left; width: 45%;']
+/// html | div[style='float: left; width: 47.5%;']
 
 ### Nick
 
@@ -54,7 +54,7 @@ When you make the extra attack of the :weapon-prop-light: ^^Light^^ property, yo
 
 ///
 
-/// html | div[style='float: right;width: 45%;']
+/// html | div[style='float: right;width: 47.5%;']
 
 ### Push
 
@@ -67,13 +67,17 @@ If you hit a creature with this weapon, you can push the creature up to 10 feet 
 /// html | div[style='clear: both;']
 ///
 
+/// html | div[style='float: left; width: 47.5%;']
+
 ### Sap
 
 _**Prerequisite:** :weapon-prop-versatile: ^^Versatile^^ property or No Weapon property_
 
 If you hit a creature with this weapon, that creature has :d20-disadv: Disadvantage on its next attack roll before the start of your next turn.
 
----
+///
+
+/// html | div[style='float: right;width: 47.5%;']
 
 ### Slow
 
@@ -81,7 +85,12 @@ _**Prerequisite:** None_
 
 If you hit a creature with this weapon and deal damage to the creature, you can reduce its Speed by 10 feet until the start of your next turn. If you hit the creature more than once with this property, the Speed reduction doesn't exceed 10 feet.
 
----
+///
+
+/// html | div[style='clear: both;']
+///
+
+/// html | div[style='float: left; width: 47.5%;']
 
 ### Topple
 
@@ -89,7 +98,9 @@ _**Prerequisite:** :weapon-prop-heavy: ^^Heavy^^, :weapon-prop-reach: ^^Reach^^,
 
 If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw with a DC equal to 8 + your Proficiency Bonus + the ability modifier used to make the attack roll. On a failed save, the creature has the Prone condition.
 
----
+///
+
+/// html | div[style='float: right;width: 47.5%;']
 
 ### Vex
 
@@ -97,7 +108,10 @@ _**Prerequisite:** :weapon-prop-ammunition: ^^Ammunition^^, :weapon-prop-finesse
 
 If you hit a creature with this weapon and deal damage to the creature, you have :d20-adv: Advantage on your next attack roll against that creature before the end of your next turn.
 
----
+///
+
+/// html | div[style='clear: both;']
+///
 
 ## Homebrew Mastery Property
 
