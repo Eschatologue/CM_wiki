@@ -21,7 +21,7 @@ This homebrew rule reinstates a mechanic initially introduced in *Unearthed Arca
 
 These Mastery property are available in the PHB'24.
 
-/// html | div[style='float: left; width: 47.5%;']
+/// html | div[style='float: left; width: 48%;']
 
 ### Cleave
 
@@ -31,7 +31,7 @@ If you hit a creature with a melee attack using this weapon, you can make an att
 
 ///
 
-/// html | div[style='float: right;width: 47.5%;']
+/// html | div[style='float: right;width: 48%;']
 
 ### Graze
 
@@ -44,7 +44,7 @@ If your attack roll with this weapon misses a creature, you can deal damage to t
 /// html | div[style='clear: both;']
 ///
 
-/// html | div[style='float: left; width: 47.5%;']
+/// html | div[style='float: left; width: 48%;']
 
 ### Nick
 
@@ -54,7 +54,7 @@ When you make the extra attack of the :weapon-prop-light: ^^Light^^ property, yo
 
 ///
 
-/// html | div[style='float: right;width: 47.5%;']
+/// html | div[style='float: right;width: 48%;']
 
 ### Push
 
@@ -67,7 +67,7 @@ If you hit a creature with this weapon, you can push the creature up to 10 feet 
 /// html | div[style='clear: both;']
 ///
 
-/// html | div[style='float: left; width: 47.5%;']
+/// html | div[style='float: left; width: 48%;']
 
 ### Sap
 
@@ -77,7 +77,7 @@ If you hit a creature with this weapon, that creature has :d20-disadv: Disadvant
 
 ///
 
-/// html | div[style='float: right;width: 47.5%;']
+/// html | div[style='float: right;width: 48%;']
 
 ### Slow
 
@@ -90,7 +90,7 @@ If you hit a creature with this weapon and deal damage to the creature, you can 
 /// html | div[style='clear: both;']
 ///
 
-/// html | div[style='float: left; width: 47.5%;']
+/// html | div[style='float: left; width: 48%;']
 
 ### Topple
 
@@ -100,7 +100,7 @@ If you hit a creature with this weapon, you can force the creature to make a Con
 
 ///
 
-/// html | div[style='float: right;width: 47.5%;']
+/// html | div[style='float: right;width: 48%;']
 
 ### Vex
 
