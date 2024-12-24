@@ -12,7 +12,7 @@ class InlineSub extends HTMLElement {
         // Link to the external CSS
         const link = document.createElement('link');
         link.rel = 'stylesheet';
-        link.href = '../assets/css/extra.css';  // Correct relative path to extra.css
+        link.href = '../../../assets/css/extra.css';  // Correct relative path to extra.css
   
         // Append the link and the wrapper to the shadow DOM
         shadow.appendChild(link);
