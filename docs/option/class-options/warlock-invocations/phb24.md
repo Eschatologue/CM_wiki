@@ -10,29 +10,29 @@ This page contains a list of all Eldritch Invocations from the PHB'24.
 
 ### Armour of Shadows
 
-You can cast *[Mage Armour](../../../spells/description/core/level-1.md#mage-armour)* on yourself without expending a spell slot.
+You can cast [:spell-lv1: Mage Armour] on yourself without expending a spell slot.
 
 ---
 
 ### Eldritch Mind
 
-You have Advantage on Constitution saving throws that you make to maintain Concentration.
+You have :d20-adv: Advantage on Constitution saving throws that you make to maintain Concentration.
 
 ---
 
 ### Pact of the Blade
 
-As a Bonus Action, you can conjure a pact weapon in your hand—a Simple or Martial Melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch; you can't bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a Spellcasting Focus.
+As a :rsc-b: Bonus Action, you can conjure a pact weapon in your hand—a Simple or Martial Melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch; you can't bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a Spellcasting Focus.
 
 Whenever you attack with the bonded weapon, you can use your Spellcasting modifier for the attack and damage rolls instead of using Strength or Dexterity; and you can cause the weapon to deal Necrotic, Psychic, or Radiant damage or its normal damage type.
 
-Your bond with the weapon ends if you use this feature's Bonus Action again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
+Your bond with the weapon ends if you use this feature's :rsc-b: Bonus Action again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
 
 ---
 
 ### Pact of the Chain
 
-You learn the *Find Familiar* spell and can cast it as a Magic action without expending a spell slot.
+You learn the [:spell-lv1: Find Familiar] spell and can cast it as a Magic action without expending a spell slot.
 
 When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: **Imp**, **Pseudodragon**, **Quasit**, **Skeleton**, **Slaad Tadpole**, **Sphinx of Wonder**, **Sprite**, or **Venomous Snake** (see appendix B for the familiar's stat block).
 
@@ -52,7 +52,7 @@ Stitching together strands of shadow, you conjure forth a book in your hand at t
 
 ### Agonizing Blast
 
-***Prerequisite:** Level 2+ Warlock, a Warlock Cantrip That Deals Damage*
+_**Prerequisite:** Level 2+ Warlock, a Warlock Cantrip That Deals Damage_
 
 Choose one of your known Warlock cantrips that deals damage. You can add your Spellcasting modifier to that spell's damage rolls.
 
@@ -62,7 +62,7 @@ Choose one of your known Warlock cantrips that deals damage. You can add your Sp
 
 ### Devil's Sight
 
-***Prerequisite:** Level 2+ Warlock*
+_**Prerequisite:** Level 2+ Warlock_
 
 You can see normally in Dim Light and Darkness—both magical and nonmagical—within 120 feet of yourself.
 
@@ -70,7 +70,7 @@ You can see normally in Dim Light and Darkness—both magical and nonmagical—w
 
 ### Eldritch Spear
 
-***Prerequisite:** Level 2+ Warlock, a Warlock Cantrip That Deals Damage*
+_**Prerequisite:** Level 2+ Warlock, a Warlock Cantrip That Deals Damage_
 
 Choose one of your known Warlock cantrips that deals damage and has a range of 10+ feet. When you cast that spell, its range increases by a number of feet equal to 30 times your Warlock level.
 
@@ -82,7 +82,7 @@ Choose one of your known Warlock cantrips that deals damage and has a range of 1
 
 ***Prerequisite:** Level 2+ Warlock*
 
-You can cast *False Life* on yourself without expending a spell slot. When you cast the spell with this feature, you don't roll the die for the Temporary Hit Points; you automatically get the highest number on the die.
+You can cast [:spell-lv1: False Life] on yourself without expending a spell slot. When you cast the spell with this feature, you don't roll the die for the Temporary Hit Points; you automatically get the highest number on the die.
 
 ---
 
@@ -100,7 +100,7 @@ You have received knowledge from an elder entity of the multiverse, allowing you
 
 _**Prerequisite:** Level 2+ Warlock_
 
-You can cast *Disguise Self* without expending a spell slot.
+You can cast [:spell-lv1: Disguise Self] without expending a spell slot.
 
 ---
 
@@ -108,7 +108,7 @@ You can cast *Disguise Self* without expending a spell slot.
 
 _**Prerequisite:** Level 2+ Warlock_
 
-You can cast *Silent Image* without expending a spell slot.
+You can cast [:spell-lv1: Silent Image] without expending a spell slot.
 
 ---
 
@@ -116,7 +116,7 @@ You can cast *Silent Image* without expending a spell slot.
 
 _**Prerequisite:** Level 2+ Warlock_
 
-You can cast *Jump* on yourself without expending a spell slot.
+You can cast [:spell-lv1: Jump] on yourself without expending a spell slot.
 
 ---
 
@@ -134,7 +134,7 @@ Choose one of your known Warlock cantrips that requires an attack roll. When you
 
 _**Prerequisite:** Level 5+ Warlock_
 
-You can cast *Levitate* on yourself without expending a spell slot.
+You can cast [:spell-lv1: Levitate] on yourself without expending a spell slot.
 
 ---
 
@@ -142,7 +142,7 @@ You can cast *Levitate* on yourself without expending a spell slot.
 
 _**Prerequisite:** Level 5+ Warlock, [Pact of the Blade](#pact-of-the-blade)_
 
-Once per turn when you hit a creature with your pact weapon, you can expend a Pact Magic spell slot to deal an extra 1d8 Force damage to the target, plus another 1d8 per level of the spell slot, and you can give the target the Prone condition if it is Huge or smaller.
+Once per turn when you hit a creature with your pact weapon, you can expend a Pact Magic spell slot to deal an extra 1d8 :dmg-force: Force damage to the target, plus another 1d8 per level of the spell slot, and you can give the target the Prone condition if it is Huge or smaller.
 
 ---
 
@@ -150,7 +150,7 @@ Once per turn when you hit a creature with your pact weapon, you can expend a Pa
 
 _**Prerequisite:** Level 5+ Warlock_
 
-You can use a Bonus Action to touch a willing creature and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can take a Bonus Action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. The connection ends if you don't maintain it in this way.
+You can use a :rsc-b: Bonus Action to touch a willing creature and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can take a :rsc-b: Bonus Action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. The connection ends if you don't maintain it in this way.
 
 While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you can cast spells as if you were in your space or the other creature's space if the two of you are within 60 feet of each other.
 
@@ -162,7 +162,7 @@ _**Prerequisite:** Level 5+ Warlock_
 
 You can breathe underwater, and you gain a Swim Speed equal to your Speed.
 
-You can also cast *Water Breathing* once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Long Rest.
+You can also cast [:spell-lv3: Water Breathing] once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Long Rest.
 
 ---
 
@@ -170,17 +170,17 @@ You can also cast *Water Breathing* once without expending a spell slot. You reg
 
 _**Prerequisite:** Level 5+ Warlock, [Pact of the Chain](#pact-of-the-chain)_
 
-When you cast *Find Familiar*, you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits.
+When you cast [:spell-lv1: Find Familiar], you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits.
 
 ***Aerial or Aquatic.*** The familiar gains either a Fly Speed or a Swim Speed (your choice) of 40 feet.
 
-***Quick Attack.*** As a Bonus Action, you can command the familiar to take the Attack action.
+***Quick Attack.*** As a :rsc-b: Bonus Action, you can command the familiar to take the Attack action.
 
-***Necrotic or Radiant Damage.*** Whenever the familiar deals Bludgeoning, Piercing, or Slashing damage, you can make it deal Necrotic or Radiant damage instead.
+***Necrotic or Radiant Damage.*** Whenever the familiar deals :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, or :dmg-slsh: Slashing damage, you can make it deal :dmg-necr: Necrotic or :dmg-radi: Radiant damage instead.
 
 ***Your Save DC.*** If the familiar forces a creature to make a saving throw, it uses your spell save DC.
 
-***Resistance.*** When the familiar takes damage, you can take a Reaction to grant it Resistance against that damage.
+***Resistance.*** When the familiar takes damage, you can take a :rsc-r: Reaction to grant it :dmg-res: Resistance against that damage.
 
 ---
 
@@ -188,7 +188,7 @@ When you cast *Find Familiar*, you infuse the summoned familiar with a measure o
 
 _**Prerequisite:** Level 5+ Warlock_
 
-You can cast *Alter Self* without expending a spell slot.
+You can cast [:spell-lv2: Alter Self] without expending a spell slot.
 
 ---
 
@@ -212,7 +212,7 @@ You gain the Extra Attack feature for your pact weapon only. With that feature, 
 
 _**Prerequisite:** Level 7+ Warlock_
 
-You can cast *Speak with Dead* without expending a spell slot.
+You can cast [:spell-lv3: Speak with Dead] without expending a spell slot.
 
 ---
 
@@ -232,7 +232,7 @@ As a Magic action, you can erase a name on the page by touching it.
 
 _**Prerequisite:** Level 9+ Warlock, [Pact of the Blade](#pact-of-the-blade)_
 
-Once per turn when you hit a creature with your pact weapon, you can deal an extra 1d6 Necrotic, Psychic, or Radiant damage (your choice) to the creature, and you can expend one of your Hit Point Dice to roll it and regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1 Hit Point).
+Once per turn when you hit a creature with your pact weapon, you can deal an extra 1d6 :dmg-necr: Necrotic, :dmg-psyc: Psychic, or :dmg-radi: Radiant damage (your choice) to the creature, and you can expend one of your Hit Point Dice to roll it and regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1 Hit Point).
 
 ---
 
@@ -240,15 +240,15 @@ Once per turn when you hit a creature with your pact weapon, you can deal an ext
 
 _**Prerequisite:** Level 9+ Warlock_
 
-You can cast *Arcane Eye* without expending a spell slot.
+You can cast [:spell-lv4: Arcane Eye] without expending a spell slot.
 
 ---
 
 ### Devouring Blade
 
-_**Prerequisite:** Level 12+ Warlock, [Thirsting Blade](#thirsting-blade)_
+_**Prerequisite:** Level 12+ Warlock, [Thirsting Blade]_
 
-The Extra Attack of your Thirsting Blade invocation confers two extra attacks rather than one.
+The Extra Attack of your [Thirsting Blade] invocation confers two extra attacks rather than one.
 
 ---
 
@@ -258,3 +258,6 @@ _**Prerequisite:** Level 15+ Warlock_
 
 You have Truesight with a range of 30 feet.
 
+[Thirsting Blade]: #thirsting-blade
+
+--8<-- "includes/snippets/spells3/lv0-5.md"
