@@ -14,8 +14,8 @@ class InlineSub extends HTMLElement {
         style.textContent = `
             .inl-sub {
                   color: var(--md-text-color);
-                  font-size: 15px !important
                   font-variant: small-caps !important;
+                  font-size: 15px !important
                   font-weight: 600 !important;
             }
         `;
