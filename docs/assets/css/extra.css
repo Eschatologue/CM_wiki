@@ -622,8 +622,7 @@
 }
 @media screen and (max-width: 768px) {
   .md-typeset {
-    /* Make Font Size Smaller for mobile devices */
-    font-size: 0.6375rem;
+    font-size: 0.6375rem; /* Make Font Size Smaller for mobile devices */
   }
 }
 .md-typeset strong {
@@ -706,6 +705,8 @@
 /* Divider Line */
 .md-typeset hr {
   border-bottom: 0.1875em dashed rgba(255, 255, 255, 0.15);
+  padding-top: 0.2rem;
+  padding-top: 0.2rem;
 }
 
 .xxxxl {
@@ -720,15 +721,6 @@
   padding-left: 0.35em;
 }
 
-/* Inline Sub */
-/*
-.inl-sub {
-    font-size: $defaultFontSize * 1.1;
-    color: var(--md-text-color);
-    font-variant: small-caps;
-    font-weight: 550;
-}
-    */
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
   padding: 0.375em 1em;
