@@ -31,6 +31,11 @@
         /* Change Grid Size on smaller screen, stuff looks ugly on phones */
     }
 
+    @media screen and (max-width: 384px) {
+        grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(260px), 1fr));
+        /* Change Grid Size on smaller screen, stuff looks ugly on phones */
+    }
+
     &.cards > :is(ul, ol) > li,
     > .card {
         border: convert.px2rem(1.5px) solid var(--md-default-wht--0125);
