@@ -12,18 +12,13 @@ The Warp is a malevolent force in Antares, producing dangerous phenomena and ent
 
 The Warp is the source of many crises faced by all nations in Antares. It is a violent, unyielding force that cannot be negotiated with, stretching its influence across the wilderness. Some consider it the manifestation of the Nine Hells, though even those infernal realms have been consumed by The Warp at some point in history. It is an all-consuming entity, preying upon all life within the continent.
 
-The Warp can manifest in numerous forms, presenting both potential benefits and overwhelming detriments:
-
-- **Aberrations:** Twisted and horrific creatures born of its chaotic influence, varying in shape and size, each more grotesque and dangerous than the last.
-- **Warp Storms:** Violent and unpredictable tempests that bring chaos and destruction wherever they appear.
-
 ## Warp Contamination
 
 Cities overtaken by Warp Storms often experience severe mutations among their inhabitants, transforming once-normal citizens into monstrous beings. These mutations are unpredictable and usually catastrophic, warping bodies and minds beyond recognition. The landscape itself can become corrupted, with plants and animals mutating into deadly and unnatural forms.
 
 ### Environmental Pollution
 
-The Warp can convert even the most pristine landscapes into a twisted eldritch hell when not contained quickly.
+The Warp can convert even the most pristine landscapes into a twisted hell when not contained quickly.
 
 - **Warp Crystals:** Crystalline growths usually start to sprout from the ground, incorporeal at first but eventually becoming solid and acting as anchors for further pollution.
 - **Black Rain:** Areas affected by the Warp will experience unending rain made of black viscous liquid, pouring out of nowhere, even indoors and underground. These liquids seemingly phase through inorganic matter while colliding with organic material, making observation and research difficult. The harder the rain, the more polluted the area is.

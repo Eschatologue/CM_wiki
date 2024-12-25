@@ -5,15 +5,7 @@ icon: material/tailwind
 
 # Mastery Properties
 
-Each weapon has a mastery property, which is usable only by a character who has a feature, such as Weapon Mastery, that unlocks the property for the character. The properties are defined below.
-
-### Parts of a Mastery Property
-
-The description of a Mastery property includes the following sections, presented after the Mastery property name:
-
-***Prerequisite.*** The weapon must meet any prerequisites specified in the Mastery property to be eligible for its use, unless a special feature overrides this requirement.
-
-***Cost.*** Some Mastery properties specify a cost, indicating the type of action required to activate or use the property.
+Each weapon has a mastery property, which is usable only by a character who has a feature, such as Weapon Mastery, that unlocks the property for the character. The properties are defined below. 
 
 ## Changing a Weapon's Mastery Property
 
@@ -65,7 +57,7 @@ These Mastery property are available in the PHB'24.
 
 - ### Sap
 
-    **Prerequisite:** :weapon-prop-versatile: **Versatile** property or No property
+    **Prerequisite:** :weapon-prop-versatile: **Versatile** property or No Weapon Property
 
     If you hit a creature with this weapon, that creature has :d20-disadv: Disadvantage on its next attack roll before the start of your next turn.
 
@@ -141,7 +133,7 @@ These Mastery property are homebrew.
 
     **Prerequisite:** :weapon-prop-automatic: **Automatic** property and :weapon-prop-reload: **Reload (8+)**
 
-    When you take the :rsc-a: **Attack** action, you can choose to expend 8 pieces of the weapon's ammunition to spray shots in a 15-foot Cube within the weapon's normal range. Each creature in that area must succeed on a Dexterity saving throw against your Weapon Save DC or take damage. Roll the weapon's damage, and apply it to each creature that failed the save. You can't make this special attack if you have less than 8 ammunition in the weapon.
+    When you take the :rsc-a: **Attack** action, you can choose to expend 8 pieces of the weapon's ammunition to spray shots in a 15-foot Cube within the weapon's normal range. Each creature in that area must succeed on a Dexterity saving throw against your Weapon Save DC or take the Weapon's damage. You can't make this special attack if you have less than 8 ammunition in the weapon.
 
 - ### Tap
 

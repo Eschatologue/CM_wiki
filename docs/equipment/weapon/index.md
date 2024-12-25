@@ -133,7 +133,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 - ### :weapon-prop-thrown:{ .lg } Thrown
 
-    You can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon.
+    You can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. 
 
     ***Salvaging Ammunitions.*** At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. Firearms and weapon with [:weapon-prop-explosive: Explosive](#explosive) property can't benefit from this.
 
