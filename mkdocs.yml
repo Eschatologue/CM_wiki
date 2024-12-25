@@ -444,8 +444,8 @@ nav:
         - Londoner: lore/antares/race/londoner.md
     - The Warp:
       - lore/warp/index.md
-      - Warp Storm: lore/warp/warp-storm.md
       - Entities: lore/warp/warp-entities.md
+      - Warp Storm: lore/warp/warp-storm.md
     - Pantheon: 
       - lore/pantheon/index.md
       - Spires:
