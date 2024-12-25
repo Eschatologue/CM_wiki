@@ -21,30 +21,21 @@ This homebrew rule reinstates a mechanic initially introduced in *Unearthed Arca
 
 These Mastery property are available in the PHB'24.
 
-/// html | div[style='float: left; width: 48.5%; @media screen and (max-width: 768px) {clear: both;}']
+<div class="grid cards" markdown>
 
-### Cleave
+- ### Cleave
 
-_**Prerequisite:** Melee Weapon, :weapon-prop-heavy: ^^Heavy^^ property_
+    _**Prerequisite:** Melee Weapon, :weapon-prop-heavy: ^^Heavy^^ property_
 
-If you hit a creature with a melee attack using this weapon, you can make an attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon's damage, but don't add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.
+    If you hit a creature with a melee attack using this weapon, you can make an attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon's damage, but don't add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.
 
-///
+- ### Graze
 
-/// html | div[style='float: right; width: 48.5%; @media screen and (max-width: 768px) {clear: both;}']
+    _**Prerequisite:** Melee Weapon, :weapon-prop-heavy: ^^Heavy^^ property_
 
-### Graze
+    If your attack roll with this weapon misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the attack roll. This damage is the same type dealt by the weapon, and the damage can't be increased in any way, other than increasing the ability modifier.
 
-_**Prerequisite:** Melee Weapon, :weapon-prop-heavy: ^^Heavy^^ property_
-
-If your attack roll with this weapon misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the attack roll. This damage is the same type dealt by the weapon, and the damage can't be increased in any way, other than increasing the ability modifier.
-
-///
-
-/// html | div[style='clear: both;']
-///
-
-/// html | div[style='float: left;  width: 48.5%; @media screen and (max-width: 768px) {clear: both;}']
+</div>
 
 ### Nick
 
@@ -52,32 +43,17 @@ _**Prerequisite:** :weapon-prop-light: ^^Light^^ property_
 
 When you make the extra attack of the :weapon-prop-light: ^^Light^^ property, you can make it as part of the Attack action instead of as a :rsc-b: Bonus Action. You can make this extra attack only once per turn.
 
-///
-
-/// html | div[style='float: right; width: 48.5%; @media screen and (max-width: 768px) {clear: both;}']
-
 ### Push
 
 _**Prerequisite:** :weapon-prop-heavy: ^^Heavy^^, :weapon-prop-two-handed: ^^Two-Handed^^, or :weapon-prop-versatile: ^^Versatile^^ property_
 
 If you hit a creature with this weapon, you can push the creature up to 10 feet straight away from yourself if it is Large or smaller.
  
-///
-
-/// html | div[style='clear: both;']
-///
-
-/// html | div[style='float: left;  width: 48.5%; @media screen and (max-width: 768px) {clear: both;}']
-
 ### Sap
 
 _**Prerequisite:** :weapon-prop-versatile: ^^Versatile^^ property or No Weapon property_
 
 If you hit a creature with this weapon, that creature has :d20-disadv: Disadvantage on its next attack roll before the start of your next turn.
-
-///
-
-/// html | div[style='float: right; width: 48.5%; @media screen and (max-width: 768px) {clear: both;}']
 
 ### Slow
 
@@ -85,33 +61,17 @@ _**Prerequisite:** None_
 
 If you hit a creature with this weapon and deal damage to the creature, you can reduce its Speed by 10 feet until the start of your next turn. If you hit the creature more than once with this property, the Speed reduction doesn't exceed 10 feet.
 
-///
-
-/// html | div[style='clear: both;']
-///
-
-/// html | div[style='float: left;  width: 48.5%; @media screen and (max-width: 768px) {clear: both;}']
-
 ### Topple
 
 _**Prerequisite:** :weapon-prop-heavy: ^^Heavy^^, :weapon-prop-reach: ^^Reach^^, or :weapon-prop-versatile: ^^Versatile^^ property_
 
 If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw with a DC equal to 8 + your Proficiency Bonus + the ability modifier used to make the attack roll. On a failed save, the creature has the Prone condition.
 
-///
-
-/// html | div[style='float: right; width: 48.5%; @media screen and (max-width: 768px) {clear: both;}']
-
 ### Vex
 
 _**Prerequisite:** :weapon-prop-ammunition: ^^Ammunition^^, :weapon-prop-finesse: ^^Finesse^^, or :weapon-prop-light: ^^Light^^ property_
 
 If you hit a creature with this weapon and deal damage to the creature, you have :d20-adv: Advantage on your next attack roll against that creature before the end of your next turn.
-
-///
-
-/// html | div[style='clear: both;']
-///
 
 ## Homebrew Mastery Property
 
