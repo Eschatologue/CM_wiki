@@ -926,14 +926,17 @@
   }
 }
 
-/* Content Grids */
+/* 
+    Content Grids 
+    See: https://github.com/squidfunk/mkdocs-material/blob/master/src/templates/assets/stylesheets/main/modifiers/_grid.scss#L28
+*/
 .md-typeset .grid {
   grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
   grid-gap: 0.25em;
 }
 @media screen and (max-width: 768px) {
   .md-typeset .grid {
-    grid-template-columns: repeat(auto-fit, minmax(6rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));
     /* Change Grid Size on smaller screen, stuff looks ugly on phones */
   }
 }
