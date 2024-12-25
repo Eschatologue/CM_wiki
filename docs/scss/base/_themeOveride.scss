@@ -3,6 +3,7 @@
 --------------------------------------------------------*/
 
 @use "../utility/convert";
+@use "./typeset";
 
 /* Tool Tips adjustment to account for site size*/
 [role="tooltip"] > .md-tooltip2__inner {
@@ -21,13 +22,17 @@
     }
 }
 
-/* Content Grids */
+/* 
+    Content Grids 
+    See: https://github.com/squidfunk/mkdocs-material/blob/master/src/templates/assets/stylesheets/main/modifiers/_grid.scss#L28
+*/
+
 .md-typeset .grid {
     grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(280px), 1fr));
     grid-gap: convert.px2em(4px);
 
     @media screen and (max-width: 768px) {
-        grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(120px), 1fr));
+        grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(160px), 1fr));
         /* Change Grid Size on smaller screen, stuff looks ugly on phones */
     }
 

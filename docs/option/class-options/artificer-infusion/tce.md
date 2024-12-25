@@ -61,9 +61,9 @@ In combat, the homunculus shares your initiative count, but it takes its turn im
 
 The homunculus regains 2d6 hit points if the [:spell-lv0: Mending](../../../spells/description/core/cantrip.md#mending) spell is cast on it. If you or the homunculus dies, it vanishes, leaving its heart in its space.
 
-??? note "Homonculus Servant"
+??? statblock "Homonculus Servant"
 
-    *Tiny Construct_
+    _Tiny Construct_
 
     **AC** 13 (natural armour)  
     **HP** 1 + your Intelligence modifier + your artificer level (the homunculus has a number of Hit Dice [d4s] equal to your artificer level)  
