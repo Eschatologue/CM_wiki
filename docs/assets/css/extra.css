@@ -928,7 +928,7 @@
 
 /* Content Grids */
 .md-typeset .grid {
-  grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
   grid-gap: 0.25em;
 }
 @media screen and (max-width: 768px) {
@@ -937,7 +937,7 @@
     /* Change Grid Size on smaller screen, stuff looks ugly on phones */
   }
 }
-@media screen and (max-width: 384px) {
+@media screen and (max-width: 512px) {
   .md-typeset .grid {
     grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
   }
