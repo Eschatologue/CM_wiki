@@ -23,7 +23,7 @@
 
 /* Content Grids */
 .md-typeset .grid {
-    grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(260px), 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(280px), 1fr));
     grid-gap: convert.px2em(4px);
 
     @media screen and (max-width: 768px) {
@@ -31,7 +31,7 @@
         /* Change Grid Size on smaller screen, stuff looks ugly on phones */
     }
 
-    @media screen and (max-width: 384px) {
+    @media screen and (max-width: 512px) {
         grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(320px), 1fr));
     }
 
