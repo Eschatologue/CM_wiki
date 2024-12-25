@@ -15,7 +15,7 @@ Your race, class, and feats can grant you Proficiency with certain weapons or ca
 
 Proficiency with a weapon allows you to add your Proficiency Bonus to the attack roll for any attack you make with that weapon. If you make an attack roll using a weapon with which you lack Proficiency, you do not add your Proficiency Bonus to the attack roll.
 
-### Weapon Saving Throw
+### Weapon Save DC
 
 When a weapon requires its target to make a saving throw—whether through its Property, Mastery property, or other effects—the DC is as follow:
 
@@ -65,7 +65,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 - ### :weapon-prop-explosive:{ .lg } Explosive
 
-    When this weapon's hits a target, it explodes and affect an area of effect on the parenthesis, this area of effect must include your target and away from you. The weapon can target a point within its range. Each creature in the area of effect centered on the point or the target must make a :d20-save: Dexterity Saving Throw. The creature takes the weapon's damage on a failed save, or half as much damage on a successful one. 
+    When this weapon's hits a target, it explodes and affect an area of effect on the parenthesis, originating from the target. The weapon can target a point within its range. Each creature in the area of effect centered on the point or the target must make a :d20-save: Dexterity Saving Throw against your Weapon Save DC. The creature takes the weapon's damage on a failed save, or half as much damage on a successful one. 
 
     Your initial target makes this :d20-save: **Saving Throw** at a :d20-disadv: **Disadvantage**.
 
@@ -96,7 +96,6 @@ Many weapons have special properties related to their use, as shown in the Weapo
 - ### :weapon-prop-mounted:{ .lg } Mounted
 
     This weapon is normally used while attached to a tripod, vehicle, or other bracing mount. You can mount or unmount this weapon as an :rsc-a: **Action**. While it is mounted, it can't be moved. It can only be used to make an attack while unmounted if held by a creature with a Strength score of at least 15.
-
 
 </div>
 
