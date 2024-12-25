@@ -937,6 +937,12 @@
     /* Change Grid Size on smaller screen, stuff looks ugly on phones */
   }
 }
+@media screen and (max-width: 384px) {
+  .md-typeset .grid {
+    grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
+    /* Change Grid Size on smaller screen, stuff looks ugly on phones */
+  }
+}
 .md-typeset .grid.cards > :is(ul, ol) > li,
 .md-typeset .grid > .card {
   border: 0.075rem solid var(--md-default-wht--0125);
