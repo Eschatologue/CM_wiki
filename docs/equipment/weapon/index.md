@@ -15,6 +15,12 @@ Your race, class, and feats can grant you Proficiency with certain weapons or ca
 
 Proficiency with a weapon allows you to add your Proficiency Bonus to the attack roll for any attack you make with that weapon. If you make an attack roll using a weapon with which you lack Proficiency, you do not add your Proficiency Bonus to the attack roll.
 
+### Weapon Saving Throw
+
+When a weapon requires its target to make a saving throw—whether through its Property, Mastery property, or other effects—the DC is as follow:
+
+<p style="text-align: center;"><strong>Weapon Save DC:</strong> 8 + ability modifier used in the attack + Proficiency Bonus (if proficient)</p>
+
 ## Weapon Categories
 
 ### Cold Weapons
@@ -23,8 +29,9 @@ A cold weapon is a weapon that does not involve fire or explosions resulting fro
 
 Cold weapons can be categorized into two types as per base D&D: Simple Weapons and Martial Weapons.
 
-- **Simple Weapnos**. Most people can use simple weapons with Proficiency, often found in the hands of commoners.
-- **Martial Weapons**. Requires more specialized training to use effectively. Most warriors use martial weapons because these weapons put their fighting style and training to best use.
+***Simple Weapnos***. Most people can use simple weapons with Proficiency, often found in the hands of commoners.
+
+***Martial Weapons***. Requires more specialized training to use effectively. Most warriors use martial weapons because these weapons put their fighting style and training to best use.
 
 Main article: [Cold Weapons](weapon-cold.md)
 
@@ -58,7 +65,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 - ### :weapon-prop-explosive:{ .lg } Explosive
 
-    When this weapon's hits a target, it explodes and affect an area of effect on the parenthesis, this area of effect must include your target and away from you. The weapon can target a point within its range. Each creature in the area of effect centered on the point or the target must make a :d20-save: Dexterity Saving Throw. The DC equal to ^^8 + your Proficiency Bonus + the ability modifier used to make the attack^^. The creature takes the weapon's damage on a failed save, or half as much damage on a successful one. 
+    When this weapon's hits a target, it explodes and affect an area of effect on the parenthesis, this area of effect must include your target and away from you. The weapon can target a point within its range. Each creature in the area of effect centered on the point or the target must make a :d20-save: Dexterity Saving Throw. The creature takes the weapon's damage on a failed save, or half as much damage on a successful one. 
 
     Your initial target makes this :d20-save: **Saving Throw** at a :d20-disadv: **Disadvantage**.
 
@@ -103,7 +110,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 - ### :weapon-prop-reach:{ .lg } Reach
 
-  This weapon adds 5 feet to your reach when you attack with it. This property also determines your reach for :rsc-r: Opportunity Attacks with a reach weapon.
+    This weapon adds 5 feet to your reach when you attack with it. This property also determines your reach for :rsc-r: Opportunity Attacks with a reach weapon.
 
 </div>
 
