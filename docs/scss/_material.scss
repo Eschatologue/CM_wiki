@@ -15,7 +15,7 @@
 
 // Main Theme Colour
 [data-md-color-scheme="slate"] {
-    --md-text-color: var(--md-default-fg-color);
+    --md-text-color: var(--md-gbl-text-color);
     background-color: var(--md-default-bg-color);
 
     // Header (The one with Title)

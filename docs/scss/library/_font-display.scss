@@ -1,0 +1,26 @@
+/*------------------------------------------------------- 
+    Text Emphasisation
+--------------------------------------------------------*/
+
+@use "../base/typeset";
+@use "../utility/convert";
+
+/* Basic Form of emphasiation with Small Caps */
+
+.em {
+    color: hsla(0, 0%, 100%, 0.85);
+    white-space: nowrap;
+    font-weight: 550 !important;
+}
+
+.sc {
+    @extend .em;
+    
+    font-size: typeset.$defaultFontSize * 1.05;
+    letter-spacing: typeset.$defaultFontSize * 0.04 !important;
+
+    font-variant: small-caps !important;
+    @media screen and (max-width: 768px) {
+        font-size: typeset.$defaultFontSize * 0.9 !important; /* Make Font Size Smaller for mobile devices */
+    }
+}

@@ -11,7 +11,7 @@ With sufficient free time and the guidance of an instructor, a character may use
 
 ## Resources
 
-Receiving training for a specific <inl-sub>Proficiency</inl-sub> typically takes the `10 Workweek - (your Int. Mod + any additional bonuses)`
+Receiving training for a specific Proficiency typically takes the `10 Workweek - (your Int. Mod + any additional bonuses)`
 
 The Training Price Table below shows the types of training available, as well as the silver cost per workweek for each proficiency. In addition to the monetary cost, training requires the character to meet the prerequisite and also the availability of a qualified instructor.
 

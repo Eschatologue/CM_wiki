@@ -6,13 +6,13 @@ icon: material/shield
 
 The Armour table lists the game's main armour. The table includes the cost and weight of armour, as well as the following details:
 
-***Category.*** Every type of armour falls into a category: Light, Medium, or Heavy. The category determines how long it takes to don or doff the armour (as shown in the table).
+***Category.*** Every type of Armour falls into a category: Light, Medium, or Heavy. The category determines how long it takes to don or doff the armour (as shown in the table).
 
 ***Armour Class (AC).*** The table's Armour Class column tells you what your base AC is when you wear a type of armour. For example, if you wear Leather Armour, your base AC is 11 plus your Dexterity modifier, whereas your AC is 16 in Chain Mail.
 
 ***Strength.*** If the table shows a Strength score in the Strength column for an armour type, that armour reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
 
-***Stealth.*** If the table shows “Disadvantage” in the Stealth column for an armour type, the wearer has :d20-disadv: Disadvantage on Dexterity (Stealth) checks.
+***Stealth.*** If the table shows “Disadvantage” in the Stealth column for an armour type, the wearer has **:d20-disadv: Disadvantage**{ .emp } on Dexterity (Stealth) checks.
 
 ##### Light Armour Table (1 Minute to Don or Doff)
 

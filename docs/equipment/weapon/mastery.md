@@ -119,21 +119,26 @@ These Mastery property are homebrew.
 
     While holding the weapon, when you take the :rsc-a: **Dash** action, you can choose a creature that you can see and move torwards it in a straight line without provoking Opportunity Attack, and make one Melee attack against as part of the same action. 
 
+
+</div>
+
+<div class="grid cards" markdown>
+
 - ### Skeet
 
     **Prerequisite:** Ranged weapon with no :weapon-prop-two-handed: **Two-Handed** property
 
     When you take the :rsc-a: **Dash** or :rsc-a: **Disengage** action, you can make one Ranged attack as a part of the same action. 
 
-</div>
-
-<div class="grid cards" markdown>
-
 - ### Spray
 
     **Prerequisite:** :weapon-prop-automatic: **Automatic** property and :weapon-prop-reload: **Reload (8+)**
 
     When you take the :rsc-a: **Attack** action, you can choose to expend 8 pieces of the weapon's ammunition to spray shots in a 15-foot Cube within the weapon's normal range. Each creature in that area must succeed on a Dexterity saving throw against your Weapon Save DC or take the Weapon's damage. You can't make this special attack if you have less than 8 ammunition in the weapon.
+
+</div>
+
+<div class="grid cards" markdown>
 
 - ### Tap
 

@@ -6,17 +6,17 @@ class InlineSub extends HTMLElement {
   
         // Create a wrapper for the content
         const wrapper = document.createElement('span');
-        wrapper.className = 'inl-sub';
+        wrapper.className = 'inl';
         wrapper.innerHTML = this.innerHTML; // Copy inner content
   
         // Add styles
         const style = document.createElement('style');
         style.textContent = `
-            .inl-sub {
+            .inl {
                   color: var(--md-text-color);
                   font-variant: small-caps !important;
-                  font-size: 15px !important
-                  font-weight: 600 !important;
+                  font-size: 0.813rem;
+                  font-weight: 525;
             }
         `;
   
@@ -30,4 +30,4 @@ class InlineSub extends HTMLElement {
   }
   
   // Define the custom element
-  customElements.define('inl-sub', InlineSub);
+  customElements.define('inl', InlineSub);

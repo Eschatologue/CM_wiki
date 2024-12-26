@@ -48,10 +48,6 @@ extra:
     adapted: Adapted to PHB'24
     draft: Draft
 
-## JS
-extra_javascript:
-  - javascript/inlSub.js
-
 # Markdown Extentions
 markdown_extensions:
   - abbr

@@ -53,7 +53,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
     You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). 
 
-    ***Salvaging Ammunitions.*** At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. Firearms and weapon with [:weapon-prop-explosive: Explosive](#explosive) property can't benefit from this.
+    At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. Firearms and weapon with [:weapon-prop-explosive: Explosive](#explosive) property can't benefit from this.
 
 - ### :weapon-prop-automatic:{ .lg } Automatic
 
@@ -65,13 +65,13 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 - ### :weapon-prop-explosive:{ .lg } Explosive
 
-    When this weapon's hits a target, it explodes and affect an area of effect on the parenthesis, originating from the target. The weapon can target a point within its range. Each creature in the area of effect centered on the point or the target must make a :d20-save: Dexterity Saving Throw against your Weapon Save DC. The creature takes the weapon's damage on a failed save, or half as much damage on a successful one. 
+    When this weapon's hits a target, it explodes and affect an area of effect on the parenthesis, originating from the target. The weapon can target a point within its range. Each creature in the area of effect centered on the point or the target must make a :d20-save: Dexterity Saving Throw against your Weapon Save DC. The creature takes the weapon's damage on a failed save, or half as much damage on a successful one.
 
     Your initial target makes this :d20-save: **Saving Throw** at a :d20-disadv: **Disadvantage**.
 
 - ### :weapon-prop-finesse:{ .lg } Finesse
 
-    When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
+    When making an attack with a Finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 
 </div>
 
@@ -134,8 +134,6 @@ Many weapons have special properties related to their use, as shown in the Weapo
 - ### :weapon-prop-thrown:{ .lg } Thrown
 
     You can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. 
-
-    ***Salvaging Ammunitions.*** At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. Firearms and weapon with [:weapon-prop-explosive: Explosive](#explosive) property can't benefit from this.
 
 </div>
 

@@ -37,10 +37,16 @@ $defaultHue: 215;
 {
     // Colour palette for each primary theme
     [data-md-color-scheme="slate"][data-md-color-primary="#{$name}"] {
+
+        /* Global Text Colour */
+        --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+
         /* Primary Colour Variants */
         --md-primary-fg-color: hsla(#{convert.hex2hsl(list.nth($colors, 1))}, 1);
+
         --md-primary-fg-color-light: hsla(#{convert.hex2hsl(list.nth($colors, 2))}, 1);
         --md-primary-fg-color-dark: hsla(#{convert.hex2hsl(list.nth($colors, 3))}, 1);
+
         --md-primary-fg-color-transparent: hsla(#{convert.hex2hsl(list.nth($colors, 1))}, 0.15);
 
         /* Background Colours */
