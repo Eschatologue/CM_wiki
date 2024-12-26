@@ -11,11 +11,11 @@ Warp Storms are a term used to describe the common and cataclysmic natural disas
 
 ## Overview
 
-Warp Storms are a common and catastrophic phenomenon in Antares. Despite the name, they encompass a variety of disasters, including earthquakes, meteor strikes, thunderstorms, massive typhoons, and coastal tsunamis. These events are visually marked by a distinctive "tear" in the sky, revealing a seemingly infinite void of stars. While the weather effects themselves are severe, the true danger of Warp Storms lies in the emergence of Warp Entities, which manifest as a direct consequence of these storms.
+Warp Storms are a common and catastrophic phenomenon in Antares. Despite the name, they encompass a variety of disasters, including earthquakes, meteor strikes, thunderstorms, typhoons, and tsunamis. These events are visually marked by a distinctive "tear" in the sky, or a pillar materialising in the epicentre of the storm, forming a seemingly infinite void of stars. While the weather effects themselves are severe, the true danger of Warp Storms lies in the emergence of Warp Entities, which manifest as a direct consequence of these storms.
 
 The frequency and intensity of Warp Storms have increased over the past centuries, posing an existential threat to civilisations across Antares. Many of the societies founded after the Second Maelstrom have either been destroyed or absorbed into larger powers. To stave off annihilation by Warp Entities, most surviving civilisations have built Citadel Cities—large urban conglomerations fortified by towering walls or other formidable defences designed to withstand both the initial calamity and the onslaught of aberrations that follow.
 
-Despite their deadly nature, Warp Storms leave behind deposits of Voidite Crystals, also referred to as Warp Crystals. These crystals, while imbued with the corruptive properties of the Warp, are highly sought after as a fuel source. Mined and processed, Voidite powers much of Antares’ industry.
+Despite their deadly nature, Warp Storms leave behind deposits of Voidite Crystals, also referred to as Warp Crystals. These crystals, while imbued with the corruptive properties of the Warp, are highly sought after as a fuel source. Mined and processed, Voidite powers much of Antares growing industry.
 
 ### Warp Maelstorms
 
