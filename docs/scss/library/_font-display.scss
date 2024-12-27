@@ -35,3 +35,17 @@
     @extend .em;
     font-size: typeset.$defaultFontSize * 1.05;
 }
+
+.inl-test {
+    font-size: typeset.$defaultFontSize * 1.05;
+
+    &::before {
+        content: '<';
+        margin-right: 0.2em; // Optional spacing
+      }
+    
+      &::after {
+        content: '>';
+        margin-left: 0.2em; // Optional spacing
+      }
+}
