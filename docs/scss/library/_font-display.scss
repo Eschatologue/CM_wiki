@@ -1,25 +1,24 @@
+@use "../base/typeset";
+@use "../utility/convert";
+
 /*------------------------------------------------------- 
     Text Emphasisation
 --------------------------------------------------------*/
 
-@use "../base/typeset";
-@use "../utility/convert";
-
-/* Basic Form of emphasiation with Small Caps */
-
-.em {
-    color: hsla(0, 0%, 100%, 0.85);
-    white-space: nowrap;
-    font-weight: 550 !important;
+.em { 
+    color: hsla(0, 0%, 100%, 0.85); /* Make Text slightly brighter so its easier to see */ 
+    white-space: nowrap; /* Prevent selected block to split on smaller screen sizes, used in conjuction with icons */
+    font-weight: 550 !important; /* Bold */
 }
 
 .sc {
-    @extend .em;
+    /* Mostly used for Inline Subheading */
+    @extend .em; /* Uses .em so no repetion */
     
-    font-size: typeset.$defaultFontSize * 1.05;
-    letter-spacing: typeset.$defaultFontSize * 0.04 !important;
+    font-size: typeset.$defaultFontSize * 1.05; /* Make text slightly bigger to take account for Small Caps */
+    letter-spacing: typeset.$defaultFontSize * 0.04 !important; /* Wider letterspacing for easier read */
+    font-variant: small-caps !important; /* Make font smallcaps so it looks different than the rest */
 
-    font-variant: small-caps !important;
     @media screen and (max-width: 768px) {
         font-size: typeset.$defaultFontSize * 0.9 !important; /* Make Font Size Smaller for mobile devices */
     }

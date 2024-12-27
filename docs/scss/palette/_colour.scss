@@ -51,6 +51,7 @@ $defaultHue: 215;
 
         /* Background Colours */
         --md-default-bg-color: hsla(#{$defaultHue}, 15%, 14%, 1);
+        
         --md-default-bg-color--dark: hsla(#{$defaultHue}, 15%, 10%, 1);
         --md-default-bg-color--darker: hsla(#{$defaultHue}, 15%, 7%, 1);
         --md-default-bg-color--darkest: hsla(#{$defaultHue}, 15%, 4%, 1);
