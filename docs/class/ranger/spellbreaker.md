@@ -17,7 +17,7 @@ Spellbreakers are a small but dedicated group of Rangers that specialize in hunt
 
 ### Level 3: Mage Breaker
 
-You ward your weapons with antimagic enchantments. When you hit a creature with a weapon attack, it has :d20-disadv: Disadvantage on its :d20-save: Constitution saving throw to maintain :spell-concentration: Concentration.
+You ward your weapons with antimagic enchantments. When you hit a creature with a weapon attack, it has **:d20-disadv: Disadvantage**{ .em } on its :d20-save: Constitution saving throw to maintain :spell-concentration: Concentration.
 
 Also, when you see a creature casting a spell with Verbal, Somatic, or Material components, or attempt to teleport, you can take a :rsc-r: Reaction to make one weapon attack or one Unarmed Strike against it.
 
@@ -53,7 +53,7 @@ Moreover, when you cast [:spell-lv3: Dispel Magic] or [:spell-lv3: Counterspell]
 
 ***Dispel Magic.*** When you cast [:spell-lv3: Dispel Magic] and you need to make a spellcasting ability check to determine the result, you can treat a roll of 9 or lower as a 10. 
 
-***Counterspell.*** When you cast [:spell-lv3: Counterspell], your target has :d20-disadv: Disadvantage on the :d20-save: saving throw.
+***Counterspell.*** When you cast [:spell-lv3: Counterspell], your target has **:d20-disadv: Disadvantage**{ .em } on the :d20-save: saving throw.
 
 ### Level 15: Mantle of the Master
 

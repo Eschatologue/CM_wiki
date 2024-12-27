@@ -95,7 +95,7 @@ While active, your Rage follows the rules below.
 
 ***Rage Damage.*** When you make an attack using Strength—with either a weapon or an Unarmed Strike—and deal damage to the target, you gain a bonus to the damage that increases as you gain levels as a Barbarian, as shown in the Rage Damage column of the Barbarian Features table.
 
-***Strength Advantage.*** You have :d20-adv: Advantage on Strength checks and Strength saving throws.
+***Strength Advantage.*** You have **:d20-adv: Advantage**{ .em } on Strength checks and Strength saving throws.
 
 ***No Concentration or Spells.*** You can't maintain Concentration, and you can't cast spells.
 
@@ -135,11 +135,11 @@ When you reach certain Barbarian levels, you gain the ability to use the mastery
 
 ### Level 2: Danger Sense
 
-You gain an uncanny sense of when things aren't as they should be, giving you an edge when you dodge perils. You have :d20-adv: Advantage on :d20-save: Dexterity saving throws unless you have the Incapacitated condition.
+You gain an uncanny sense of when things aren't as they should be, giving you an edge when you dodge perils. You have **:d20-adv: Advantage**{ .em } on :d20-save: Dexterity saving throws unless you have the Incapacitated condition.
 
 ### Level 2: Reckless Attack
 
-You can throw aside all concern for defense to attack with increased ferocity. When you make your first attack roll on your turn, you can decide to attack recklessly. Doing so gives you :d20-adv: Advantage on attack rolls using :ability-str: Strength until the start of your next turn, but attack rolls against you have :d20-adv: Advantage during that time.
+You can throw aside all concern for defense to attack with increased ferocity. When you make your first attack roll on your turn, you can decide to attack recklessly. Doing so gives you **:d20-adv: Advantage**{ .em } on attack rolls using :ability-str: Strength until the start of your next turn, but attack rolls against you have **:d20-adv: Advantage**{ .em } during that time.
 
 ### Level 3: Barbarian Subclass
 
@@ -165,7 +165,7 @@ Your :rsc-speed: Speed increases by 10 feet while you aren't wearing Heavy armou
 
 ### Level 7: Feral Instinct
 
-Your instincts are so honed that you have :d20-adv: Advantage on Initiative rolls.
+Your instincts are so honed that you have **:d20-adv: Advantage**{ .em } on Initiative rolls.
 
 ### Level 7: Instinctive Pounce
 
@@ -173,7 +173,7 @@ As part of the :rsc-b: Bonus Action you take to enter your Rage, you can move up
 
 ### Level 9: Brutal Strike
 
-If you use Reckless Attack, you can forgo any :d20-adv: Advantage on one :ability-str: Strength-based attack roll of your choice on your turn. The chosen attack roll mustn't have :d20-disadv: **Disadvantage**. 
+If you use Reckless Attack, you can forgo any **:d20-adv: Advantage**{ .em } on one :ability-str: Strength-based attack roll of your choice on your turn. The chosen attack roll mustn't have :d20-disadv: **Disadvantage**. 
 
 If the chosen attack roll hits, the target takes an extra 1d10 damage of the same type dealt by the weapon or Unarmed Strike, and you can cause one Brutal Strike effect of your choice. You have the following effect options.
 

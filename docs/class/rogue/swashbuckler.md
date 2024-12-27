@@ -23,7 +23,7 @@ You have honed your skills in one to one battles with brash confidence.
 
 ***Initiative.***{ .sc } You have **:d20-adv: Advantage**{ .em } on Initiative rolls.
 
-***Dueling.***{ .sc } You also gain an additional way to use your Sneak Attack; you don't need :d20-adv: Advantage on the attack roll to use your Sneak Attack against a creature if you are within 5 feet of it, no other creatures are within 5 feet of you, and you don't have :d20-disadv: Disadvantage on the attack roll. All the other rules for Sneak Attack still apply to you. 
+***Dueling.***{ .sc } You also gain an additional way to use your Sneak Attack; you don't need **:d20-adv: Advantage**{ .em } on the attack roll to use your Sneak Attack against a creature if you are within 5 feet of it, no other creatures are within 5 feet of you, and you don't have **:d20-disadv: Disadvantage**{ .em } on the attack roll. All the other rules for Sneak Attack still apply to you. 
 
 ### Level 3: Suave Defence
 
@@ -33,7 +33,7 @@ Your brash confidence allows you to avoid harm. While you aren't wearing any arm
 
 You have practiced new ways to use your Sneak Attack. The following effects are now among your Cunning Strike options.
 
-***Goad (Cost: 1d6).***{ .sc } The target must succeed on a Wisdom saving throw, or until the end of its next turn, the target has :d20-disadv: Disadvantage on attack rolls against targets other than you and can't make :rsc-r: Opportunity Attacks against targets other than you.
+***Goad (Cost: 1d6).***{ .sc } The target must succeed on a Wisdom saving throw, or until the end of its next turn, the target has **:d20-disadv: Disadvantage**{ .em } on attack rolls against targets other than you and can't make :rsc-r: Opportunity Attacks against targets other than you.
 
 ***Awe (Cost: 3d6).***{ .sc } Each creature of your choice within 30 feet of you must succeed on a Wisdom saving throw or have the ^^Charmed^^ condition until the end of your next turn.
 

@@ -107,6 +107,6 @@ You can use this Reaction a number of times equal to your Intelligence modifier,
 
 #### Infiltrator
 
-Any creature that takes :dmg-lgtn: Lightning damage from your Lightning Launcher glimmers with magical light until the start of your next turn. The glimmering creature sheds dim light in a 5-foot radius, and it has :d20-disadv: Disadvantage on attack rolls against you, as the light jolts it if it attacks you. In addition, the next attack roll against it has :d20-adv: Advantage , and if that attack hits, the target takes an extra 1d6 :dmg-lgtn: Lightning damage.
+Any creature that takes :dmg-lgtn: Lightning damage from your Lightning Launcher glimmers with magical light until the start of your next turn. The glimmering creature sheds dim light in a 5-foot radius, and it has **:d20-disadv: Disadvantage**{ .em } on attack rolls against you, as the light jolts it if it attacks you. In addition, the next attack roll against it has **:d20-adv: Advantage**{ .em } , and if that attack hits, the target takes an extra 1d6 :dmg-lgtn: Lightning damage.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"

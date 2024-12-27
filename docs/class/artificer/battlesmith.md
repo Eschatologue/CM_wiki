@@ -111,6 +111,6 @@ Your Arcane Jolt and Steel Defender become more powerful:
 
     #### Reactions
 
-    ***Deflect Attack.*** The defender imposes :d20-disadv: Disadvantage on the attack roll of one creature it can see that is within 5 feet of it, provided the attack roll is against a creature other than the defender.
+    ***Deflect Attack.*** The defender imposes **:d20-disadv: Disadvantage**{ .em } on the attack roll of one creature it can see that is within 5 feet of it, provided the attack roll is against a creature other than the defender.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"

@@ -12,7 +12,7 @@ When the outcome of an action is uncertain, the game uses a d20 roll to determin
 
 They follow these steps:
 
-1. **Roll a 1d20.** You always want to roll high. If the roll has :d20-adv: Advantage or :d20-disadv: **Disadvantage**, you roll two d20s, but you use the number from only one of them-the higher once if you have :d20-adv: Advantage or the lower one if you have :d20-disadv: **Disdvantage**.
+1. **Roll a 1d20.** You always want to roll high. If the roll has **:d20-adv: Advantage**{ .em } or :d20-disadv: **Disadvantage**, you roll two d20s, but you use the number from only one of them-the higher once if you have **:d20-adv: Advantage**{ .em } or the lower one if you have :d20-disadv: **Disdvantage**.
 
 2. **Add Modifiers.** Add these modifiers to the number rolled on the d20:
 
@@ -144,15 +144,15 @@ If you roll a 1 on the d20 (called a "natural 1) for an attack roll, the attack 
 
 ## Advantage & Disadvantage
 
-A number of situations and conditions give creatures :d20-adv: Advantage or :d20-disadv: **Disadvantage** on d20 rolls.
+A number of situations and conditions give creatures **:d20-adv: Advantage**{ .em } or :d20-disadv: **Disadvantage** on d20 rolls.
 
-A creature that makes a roll with :d20-adv: Advantage rolls two d20 dice separately, and uses the higher of the two results. If they have :d20-disadv: **Disadvantage**, they choose the lower of the two.
+A creature that makes a roll with **:d20-adv: Advantage**{ .em } rolls two d20 dice separately, and uses the higher of the two results. If they have :d20-disadv: **Disadvantage**, they choose the lower of the two.
 
-When multiple instances of :d20-adv: Advantage or :d20-disadv: **Disadvantage** occcurs, each instance beyond the first adds a `+2` or `-2` modifier to the roll, respectively.
+When multiple instances of **:d20-adv: Advantage**{ .em } or :d20-disadv: **Disadvantage** occcurs, each instance beyond the first adds a `+2` or `-2` modifier to the roll, respectively.
 
 ### Interactions with Rerolls
 
-When you have :d20-adv: Advantage or :d20-disadv: **Disadvantage** and something in the game lets you reroll or replace the d20, you can reroll or replace only one die, not both. You choose which one.
+When you have **:d20-adv: Advantage**{ .em } or :d20-disadv: **Disadvantage** and something in the game lets you reroll or replace the d20, you can reroll or replace only one die, not both. You choose which one.
 
 ### Heroic Inspiration
 

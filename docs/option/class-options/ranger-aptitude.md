@@ -13,7 +13,7 @@ Below are the Aptitudes available to the [Ranger]. If an Aptitude has a prerequi
 
 ### Bounty Hunter
 
-Your expertise in hunting bounties stands out. You gain proficiency in Insight and Investigation. In addition, creatures has :d20-disadv: Disadvantage on saves to resist or end the ^^Grappled^^ or ^^Restrained^^ condition caused by you.
+Your expertise in hunting bounties stands out. You gain proficiency in Insight and Investigation. In addition, creatures has **:d20-disadv: Disadvantage**{ .em } on saves to resist or end the ^^Grappled^^ or ^^Restrained^^ condition caused by you.
 
 ---
 
@@ -173,7 +173,7 @@ Choose one of the following damage types: :dmg-force: Force, :dmg-necr: Necrotic
 
 _**Prerequisite:** Level 6+ Ranger_
 
-When you score a Critical Hit against a creature, all creature have :d20-adv: Advantage on the next attack they make against that creature before the end of your next turn.
+When you score a Critical Hit against a creature, all creature have **:d20-adv: Advantage**{ .em } on the next attack they make against that creature before the end of your next turn.
 
 ---
 

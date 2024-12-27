@@ -42,7 +42,7 @@ The DM decides when circumstances are appropriate for hiding. When you try to hi
  
 You can't hide from a creature that can see you clearly, and you give away your position if you make noise, such as shouting a warning or knocking over a vase. An invisible creature can always try to hide. Signs of its passage might still be noticed, and it does have to stay quiet.
  
-In combat, most creatures stay alert for signs of danger all around, so if you come out of hiding and approach a creature, it usually sees you. However, under certain circumstances, the DM might allow you to stay hidden as you approach a creature that is distracted, allowing you to gain :d20-adv: Advantage on an attack roll before you are seen.
+In combat, most creatures stay alert for signs of danger all around, so if you come out of hiding and approach a creature, it usually sees you. However, under certain circumstances, the DM might allow you to stay hidden as you approach a creature that is distracted, allowing you to gain **:d20-adv: Advantage**{ .em } on an attack roll before you are seen.
  
 ??? info "Passive Perception"
 

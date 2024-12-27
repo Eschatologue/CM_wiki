@@ -59,7 +59,7 @@ These Mastery property are available in the PHB'24.
 
     **Prerequisite:** :weapon-prop-versatile: **Versatile** property or No Weapon Property
 
-    If you hit a creature with this weapon, that creature has :d20-disadv: Disadvantage on its next attack roll before the start of your next turn.
+    If you hit a creature with this weapon, that creature has **:d20-disadv: Disadvantage**{ .em } on its next attack roll before the start of your next turn.
 
 - ### Slow
 
@@ -81,7 +81,7 @@ These Mastery property are available in the PHB'24.
 
     **Prerequisite:** :weapon-prop-ammunition: **Ammunition**, :weapon-prop-finesse: **Finesse**, or :weapon-prop-light: **Light** property
 
-    If you hit a creature with this weapon and deal damage to the creature, you have :d20-adv: Advantage on your next attack roll against that creature before the end of your next turn.
+    If you hit a creature with this weapon and deal damage to the creature, you have **:d20-adv: Advantage**{ .em } on your next attack roll against that creature before the end of your next turn.
 
 </div>
 

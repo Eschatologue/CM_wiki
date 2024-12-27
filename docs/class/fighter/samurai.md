@@ -21,7 +21,7 @@ You gain a set of Calligrapher's Tools and you have proficiency in it and two of
 
 Your intensive training in battle grants you unparalleled focus.
 
-***Precision.*** When you make an attack, you can grant yourself :d20-adv: Advantage on all your attacks until the start of your next turn. You also gain Temporary Hit Points equal to your Wisdom modifier + half your Fighter level (minimum 1). 
+***Precision.*** When you make an attack, you can grant yourself **:d20-adv: Advantage**{ .em } on all your attacks until the start of your next turn. You also gain Temporary Hit Points equal to your Wisdom modifier + half your Fighter level (minimum 1). 
    
 ***Counter.*** When a creature you can see hit or misses you with a Melee attack, you can take a :rsc-r: Reaction to make a melee weapon attack or an Unarmed Strike against the creature.
 
@@ -43,9 +43,9 @@ When you use your [Tactical Shift](index.md#level-5-tactical-shift), you can mak
 
 Your training has reached extraordinary heights, allowing you to combine speed and precision with devastating results. You gain the following benefits: 
 
-***Rapid Strikes.*** You trade accuracy for swift strikes. Once per turn, if you make an attack and have :d20-adv: Advantage on it, you can forgo the :d20-adv: Advantage for that roll to immediately make an additional attack as part of the same :rsc-a: Action, :rsc-b: Bonus Action or :rsc-r: Reaction.
+***Rapid Strikes.*** You trade accuracy for swift strikes. Once per turn, if you make an attack and have **:d20-adv: Advantage**{ .em } on it, you can forgo the **:d20-adv: Advantage**{ .em } for that roll to immediately make an additional attack as part of the same :rsc-a: Action, :rsc-b: Bonus Action or :rsc-r: Reaction.
 
-***Helm Splitter.*** You trade accuracy for a powerful blow. Once per turn, if you make an attack and have :d20-adv: Advantage on it, you can forgo the :d20-adv: Advantage for that roll. On hit, the attack deals maximum damage.
+***Helm Splitter.*** You trade accuracy for a powerful blow. Once per turn, if you make an attack and have **:d20-adv: Advantage**{ .em } on it, you can forgo the **:d20-adv: Advantage**{ .em } for that roll. On hit, the attack deals maximum damage.
 
 ### Level 18: Strength Before Death
 

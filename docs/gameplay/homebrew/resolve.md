@@ -134,7 +134,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 
 - Once per turn when you roll damage for a weapon attack or spell attack, you can choose one of the die and make it roll the maximum amount possible.
 - When you force a creature to make a :d20-save: **Saving Throw** or a contested :d20-check: **Ability Check**, it make the :d20-save: **Saving Throw** or the :d20-check: **Ability Check** at a:d20-disadv: **Disadvantage**.
-- You have :d20-adv: Advantage on Strength checks and Strength :d20-save: **Saving Throws**.
+- You have **:d20-adv: Advantage**{ .em } on Strength checks and Strength :d20-save: **Saving Throws**.
 
 ### Stalwart
 
@@ -142,7 +142,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 
 - You reduce all damage received by a number equal to twice of your Proficiency Bonus (minimum of 1 damage).
 - You can't be moved or being *prone* against your will.
-- You have :d20-adv: Advantage on Strength checks, Strength :d20-save: **Saving Throws** and Constitution :d20-save: **Saving Throws**.
+- You have **:d20-adv: Advantage**{ .em } on Strength checks, Strength :d20-save: **Saving Throws** and Constitution :d20-save: **Saving Throws**.
 
 ### Vigorous
 
@@ -158,7 +158,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 
 *“Frustration and fury, more destructive than a hundred cannons”*
 
-- You have :d20-adv: Advantage on attack made using Strength and :d20-disadv: **Disadvantage** on attack made using Dexterity.
+- You have **:d20-adv: Advantage**{ .em } on attack made using Strength and :d20-disadv: **Disadvantage** on attack made using Dexterity.
 - On each of your turn, you must make an attack to any creature that is within your reach.
 - All creatures, including your ally can provoke opportunity attack from you, and you must use your :rsc-r: **Reaction** when available to make an attack.
 

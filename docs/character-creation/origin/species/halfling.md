@@ -14,7 +14,7 @@ As a Halfling, you have these special traits.
 
 ### Brave
 
-You have :d20-adv: Advantage on saving throws you make to avoid or end the ^^Frightened^^ condition.
+You have **:d20-adv: Advantage**{ .em } on saving throws you make to avoid or end the ^^Frightened^^ condition.
 
 ### Halfling Nimbleness
 
