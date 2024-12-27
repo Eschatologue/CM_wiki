@@ -19,18 +19,18 @@
 }
 @media screen and (max-width: 768px) {
   .md-typeset {
-    font-size: 0.6375rem; /* Make Font Size Smaller for mobile devices */
+    font-size: 0.6375rem;
   }
 }
 .md-typeset strong {
   letter-spacing: 0.0225rem;
 }
 .md-typeset p {
-  margin: 0.4rem 0 0.4rem 0;
+  margin: 0.4rem 0;
 }
 .md-typeset ul,
 .md-typeset ol {
-  margin: 0.25rem 0 0.25rem 0;
+  margin: 0.25rem 0;
 }
 .md-typeset dd {
   margin: -0.1rem 0 0.15rem 0;
@@ -50,8 +50,7 @@
   font-size: 1.65rem;
   letter-spacing: 0.033rem;
   font-weight: 495;
-  margin-top: 0.45rem;
-  margin-bottom: 0.45rem;
+  margin: 0.45rem 0;
 }
 .md-typeset h2 {
   font-size: 1.125rem;
@@ -121,23 +120,50 @@
 /*------------------------------------------------------- 
     Text Emphasisation
 --------------------------------------------------------*/
-.em, .d20, .sc {
-  color: hsla(0, 0%, 100%, 0.85); /* Make Text slightly brighter so its easier to see */
+/* 
+    * Base style for emphasised text
+    * Makes text slightly brighter, prevents wrapping, and uses semi-bold weight.
+*/
+.em, .d20 {
+  color: var(--md-gbl-text-color-strong); /* Make Text slightly brighter so its easier to see */
   white-space: nowrap; /* Prevent selected block to split on smaller screen sizes, used in conjuction with icons */
-  font-weight: 550 !important; /* Bold */
+  font-weight: 550 !important;
 }
 
+/*
+    * General Jost font style 
+    * Applies Jost font for headings or specific elements.
+*/
 .jost, .sc {
   font-family: "Jost", sans-serif !important; /* Changes font to Jost */
 }
 
-.d20, .sc {
+/* 
+    * Styling for d20 roll elements, such as Advantage and Disadvantage
+    * Extends ".em" for base styles, adds small-caps, and adjusts size/spacing.
+*/
+.d20 {
   font-size: 0.7875rem; /* Make text slightly bigger to take account for Small Caps */
   letter-spacing: 0.03rem !important; /* Wider letterspacing for easier read */
   font-variant: small-caps !important; /* Make font smallcaps so it looks different than the rest */
 }
 @media screen and (max-width: 768px) {
-  .d20, .sc {
+  .d20 {
+    font-size: 0.675rem !important; /* Make Font Size Smaller for mobile devices */
+  }
+}
+
+/*
+    * Combined styles for "sc"
+    * Extends both ".jost" for font and ".d20" for small-caps and spacing.
+*/
+.sc {
+  font-size: 0.825rem; /* Make text slightly bigger to take account for Small Caps */
+  letter-spacing: 0.03rem !important; /* Wider letterspacing for easier read */
+  font-variant: small-caps !important; /* Make font smallcaps so it looks different than the rest */
+}
+@media screen and (max-width: 768px) {
+  .sc {
     font-size: 0.675rem !important; /* Make Font Size Smaller for mobile devices */
   }
 }
@@ -151,6 +177,7 @@
 [data-md-color-scheme=slate][data-md-color-primary=red] {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+  --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(4deg, 90%, 58%, 1);
   --md-primary-fg-color-light: hsla(4deg, 90%, 63%, 1);
@@ -187,6 +214,7 @@
 [data-md-color-scheme=slate][data-md-color-primary=pink] {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+  --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(340deg, 82%, 52%, 1);
   --md-primary-fg-color-light: hsla(340deg, 82%, 57%, 1);
@@ -223,6 +251,7 @@
 [data-md-color-scheme=slate][data-md-color-primary=purple] {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+  --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(291deg, 64%, 42%, 1);
   --md-primary-fg-color-light: hsla(291deg, 64%, 47%, 1);
@@ -259,6 +288,7 @@
 [data-md-color-scheme=slate][data-md-color-primary=deep-purple] {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+  --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(262deg, 52%, 47%, 1);
   --md-primary-fg-color-light: hsla(262deg, 52%, 52%, 1);
@@ -295,6 +325,7 @@
 [data-md-color-scheme=slate][data-md-color-primary=blue] {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+  --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(207deg, 90%, 54%, 1);
   --md-primary-fg-color-light: hsla(207deg, 90%, 59%, 1);
@@ -331,6 +362,7 @@
 [data-md-color-scheme=slate][data-md-color-primary=indigo] {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+  --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(231deg, 48%, 48%, 1);
   --md-primary-fg-color-light: hsla(231deg, 48%, 53%, 1);
@@ -367,6 +399,7 @@
 [data-md-color-scheme=slate][data-md-color-primary=light-blue] {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+  --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(199deg, 98%, 48%, 1);
   --md-primary-fg-color-light: hsla(199deg, 98%, 53%, 1);
@@ -403,6 +436,7 @@
 [data-md-color-scheme=slate][data-md-color-primary=cyan] {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+  --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(187deg, 100%, 42%, 1);
   --md-primary-fg-color-light: hsla(187deg, 100%, 47%, 1);
@@ -439,6 +473,7 @@
 [data-md-color-scheme=slate][data-md-color-primary=teal] {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+  --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(174deg, 100%, 29%, 1);
   --md-primary-fg-color-light: hsla(174deg, 100%, 34%, 1);
@@ -475,6 +510,7 @@
 [data-md-color-scheme=slate][data-md-color-primary=green] {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+  --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(122deg, 39%, 49%, 1);
   --md-primary-fg-color-light: hsla(122deg, 39%, 54%, 1);
@@ -511,6 +547,7 @@
 [data-md-color-scheme=slate][data-md-color-primary=light-green] {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+  --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(88deg, 50%, 53%, 1);
   --md-primary-fg-color-light: hsla(88deg, 50%, 58%, 1);
@@ -547,6 +584,7 @@
 [data-md-color-scheme=slate][data-md-color-primary=lime] {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+  --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(66deg, 70%, 54%, 1);
   --md-primary-fg-color-light: hsla(66deg, 70%, 59%, 1);
@@ -583,6 +621,7 @@
 [data-md-color-scheme=slate][data-md-color-primary=yellow] {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+  --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(54deg, 100%, 62%, 1);
   --md-primary-fg-color-light: hsla(54deg, 100%, 67%, 1);
@@ -619,6 +658,7 @@
 [data-md-color-scheme=slate][data-md-color-primary=amber] {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+  --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(45deg, 100%, 51%, 1);
   --md-primary-fg-color-light: hsla(45deg, 100%, 56%, 1);
@@ -655,6 +695,7 @@
 [data-md-color-scheme=slate][data-md-color-primary=orange] {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+  --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(36deg, 100%, 50%, 1);
   --md-primary-fg-color-light: hsla(36deg, 100%, 55%, 1);
@@ -691,6 +732,7 @@
 [data-md-color-scheme=slate][data-md-color-primary=deep-orange] {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+  --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(14deg, 100%, 57%, 1);
   --md-primary-fg-color-light: hsla(14deg, 100%, 62%, 1);
