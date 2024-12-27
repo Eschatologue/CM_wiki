@@ -11,11 +11,10 @@
     font-weight: 550 !important; /* Bold */
 }
 
-.sc {
-    /* Mostly used for Inline Subheading */
+.sc { /* Used for Inline Subheading */
     @extend .em; /* Uses .em so no repetion */
     
-    font-family: typeset.$headingFont; /* Changes font to Jost */
+    font-family: typeset.$headingFont !important; /* Changes font to Jost */
     font-size: typeset.$defaultFontSize * 1.05; /* Make text slightly bigger to take account for Small Caps */
     letter-spacing: typeset.$defaultFontSize * 0.04 !important; /* Wider letterspacing for easier read */
     font-variant: small-caps !important; /* Make font smallcaps so it looks different than the rest */

@@ -1,9 +1,9 @@
+@use "../utility/convert";
+@use "./typeset";
+
 /*------------------------------------------------------- 
     MKdocs Material Theme Overrides
 --------------------------------------------------------*/
-
-@use "../utility/convert";
-@use "./typeset";
 
 /* Tool Tips adjustment to account for site size*/
 [role="tooltip"] > .md-tooltip2__inner {
@@ -22,10 +22,9 @@
     }
 }
 
-/* 
-    Content Grids 
-    See: https://github.com/squidfunk/mkdocs-material/blob/master/src/templates/assets/stylesheets/main/modifiers/_grid.scss#L28
-*/
+/* Content Grids */
+
+// See: https://github.com/squidfunk/mkdocs-material/blob/master/src/templates/assets/stylesheets/main/modifiers/_grid.scss#L28
 
 .md-typeset .grid {
     grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(280px), 1fr));
@@ -33,7 +32,6 @@
 
     @media screen and (max-width: 768px) {
         grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(160px), 1fr));
-        /* Change Grid Size on smaller screen, stuff looks ugly on phones */
     }
 
     @media screen and (max-width: 512px) {

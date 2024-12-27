@@ -21,13 +21,13 @@ You've learned how to land a strike then slip away without reprisal. If you make
 
 You have honed your skills in one to one battles with brash confidence.
 
-***Initiative.***{ .sc } You have :d20-adv: Advantage on Initiative rolls.
+***Initiative.***{ .sc } You have **:d20-adv: Advantage**{ .em } on Initiative rolls.
 
 ***Dueling.***{ .sc } You also gain an additional way to use your Sneak Attack; you don't need :d20-adv: Advantage on the attack roll to use your Sneak Attack against a creature if you are within 5 feet of it, no other creatures are within 5 feet of you, and you don't have :d20-disadv: Disadvantage on the attack roll. All the other rules for Sneak Attack still apply to you. 
 
 ### Level 3: Suave Defence
 
-While you aren't wearing any armour or wielding a Shield, your base Armour Class equals 10 plus your Dexterity and Charisma modifiers.
+Your brash confidence allows you to avoid harm. While you aren't wearing any armour or wielding a Shield, your base Armour Class equals 10 plus your Dexterity and Charisma modifiers.
 
 ### Level 9: Panache
 
