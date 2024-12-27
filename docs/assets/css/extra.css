@@ -148,6 +148,18 @@
   font-size: 0.7875rem;
 }
 
+.inl-test {
+  font-size: 0.7875rem;
+}
+.inl-test::before {
+  content: "<";
+  margin-right: 0.2em;
+}
+.inl-test::after {
+  content: ">";
+  margin-left: 0.2em;
+}
+
 /* Accent Colours */
 /* Colours */
 [data-md-color-scheme=slate] {
