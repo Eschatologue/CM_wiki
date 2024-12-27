@@ -26,14 +26,21 @@
   letter-spacing: 0.0225rem;
 }
 .md-typeset p {
-  margin: 0.4rem 0;
+  margin: 0.5rem 0;
 }
 .md-typeset ul,
 .md-typeset ol {
-  margin: 0.25rem 0;
+  margin: 0rem 0;
+}
+.md-typeset li {
+  margin: -0.2rem 0;
+}
+.md-typeset dl,
+.md-typeset dd {
+  margin: -0.1rem 0;
 }
 .md-typeset dd {
-  margin: -0.1rem 0 0.15rem 0;
+  margin-left: -0.4rem;
 }
 .md-typeset h1,
 .md-typeset h2 {
@@ -42,6 +49,7 @@
 }
 .md-typeset h3,
 .md-typeset h4 {
+  color: var(--md-gbl-text-color-strong);
   font-family: "Jost", sans-serif;
   text-transform: none !important;
   font-variant: small-caps !important;
@@ -61,29 +69,19 @@
   padding-bottom: 0.1rem;
 }
 .md-typeset h3 {
-  font-size: 0.9375rem;
-  font-weight: 550;
-  letter-spacing: 0.0796875rem;
-  margin: 0.6rem 0 0.2rem 0;
+  font-size: 0.975rem;
+  font-weight: 530;
+  letter-spacing: 0.082875rem;
+  margin: 0.5rem 0;
   border-bottom: 0.1275rem dotted var(--md-default-wht--025);
-  padding-bottom: 0.1rem;
+  padding-bottom: 0.2rem;
 }
 .md-typeset h4 {
-  font-size: 0.84375rem;
-  letter-spacing: 0.07171875rem;
-  font-weight: 525;
-  margin: 0.6rem 0 -0.15rem 0;
+  font-size: 0.8625rem;
+  letter-spacing: 0.025875rem;
+  font-weight: 550;
+  margin: 0.6rem 0 -0.3rem 0;
   padding-bottom: -0.1rem;
-}
-.md-typeset h4::before {
-  content: "";
-  display: inline-block;
-  border-radius: 0.1265625rem;
-  width: 0.6328125rem;
-  height: 0.6328125rem;
-  background-color: var(--md-default-wht--025);
-  margin-right: 0.4rem;
-  vertical-align: middle;
 }
 .md-typeset h5 {
   font-size: 0.75rem;
@@ -150,11 +148,11 @@
 }
 .inl::before {
   content: "<";
-  margin-right: 0.15em;
+  margin-right: 0.1em;
 }
 .inl::after {
   content: ">";
-  margin-left: 0.15em;
+  margin-left: 0.1em;
 }
 
 /*------------------------------------------------------- 
@@ -169,7 +167,7 @@
 
 [data-md-color-scheme=slate][data-md-color-primary=red] {
   /* Global Text Colour */
-  --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+  --md-gbl-text-color: hsla(0, 0%, 100%, 0.75);
   --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(4deg, 90%, 58%, 1);
@@ -206,7 +204,7 @@
 
 [data-md-color-scheme=slate][data-md-color-primary=pink] {
   /* Global Text Colour */
-  --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+  --md-gbl-text-color: hsla(0, 0%, 100%, 0.75);
   --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(340deg, 82%, 52%, 1);
@@ -243,7 +241,7 @@
 
 [data-md-color-scheme=slate][data-md-color-primary=purple] {
   /* Global Text Colour */
-  --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+  --md-gbl-text-color: hsla(0, 0%, 100%, 0.75);
   --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(291deg, 64%, 42%, 1);
@@ -280,7 +278,7 @@
 
 [data-md-color-scheme=slate][data-md-color-primary=deep-purple] {
   /* Global Text Colour */
-  --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+  --md-gbl-text-color: hsla(0, 0%, 100%, 0.75);
   --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(262deg, 52%, 47%, 1);
@@ -317,7 +315,7 @@
 
 [data-md-color-scheme=slate][data-md-color-primary=blue] {
   /* Global Text Colour */
-  --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+  --md-gbl-text-color: hsla(0, 0%, 100%, 0.75);
   --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(207deg, 90%, 54%, 1);
@@ -354,7 +352,7 @@
 
 [data-md-color-scheme=slate][data-md-color-primary=indigo] {
   /* Global Text Colour */
-  --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+  --md-gbl-text-color: hsla(0, 0%, 100%, 0.75);
   --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(231deg, 48%, 48%, 1);
@@ -391,7 +389,7 @@
 
 [data-md-color-scheme=slate][data-md-color-primary=light-blue] {
   /* Global Text Colour */
-  --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+  --md-gbl-text-color: hsla(0, 0%, 100%, 0.75);
   --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(199deg, 98%, 48%, 1);
@@ -428,7 +426,7 @@
 
 [data-md-color-scheme=slate][data-md-color-primary=cyan] {
   /* Global Text Colour */
-  --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+  --md-gbl-text-color: hsla(0, 0%, 100%, 0.75);
   --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(187deg, 100%, 42%, 1);
@@ -465,7 +463,7 @@
 
 [data-md-color-scheme=slate][data-md-color-primary=teal] {
   /* Global Text Colour */
-  --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+  --md-gbl-text-color: hsla(0, 0%, 100%, 0.75);
   --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(174deg, 100%, 29%, 1);
@@ -502,7 +500,7 @@
 
 [data-md-color-scheme=slate][data-md-color-primary=green] {
   /* Global Text Colour */
-  --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+  --md-gbl-text-color: hsla(0, 0%, 100%, 0.75);
   --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(122deg, 39%, 49%, 1);
@@ -539,7 +537,7 @@
 
 [data-md-color-scheme=slate][data-md-color-primary=light-green] {
   /* Global Text Colour */
-  --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+  --md-gbl-text-color: hsla(0, 0%, 100%, 0.75);
   --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(88deg, 50%, 53%, 1);
@@ -576,7 +574,7 @@
 
 [data-md-color-scheme=slate][data-md-color-primary=lime] {
   /* Global Text Colour */
-  --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+  --md-gbl-text-color: hsla(0, 0%, 100%, 0.75);
   --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(66deg, 70%, 54%, 1);
@@ -613,7 +611,7 @@
 
 [data-md-color-scheme=slate][data-md-color-primary=yellow] {
   /* Global Text Colour */
-  --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+  --md-gbl-text-color: hsla(0, 0%, 100%, 0.75);
   --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(54deg, 100%, 62%, 1);
@@ -650,7 +648,7 @@
 
 [data-md-color-scheme=slate][data-md-color-primary=amber] {
   /* Global Text Colour */
-  --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+  --md-gbl-text-color: hsla(0, 0%, 100%, 0.75);
   --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(45deg, 100%, 51%, 1);
@@ -687,7 +685,7 @@
 
 [data-md-color-scheme=slate][data-md-color-primary=orange] {
   /* Global Text Colour */
-  --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+  --md-gbl-text-color: hsla(0, 0%, 100%, 0.75);
   --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(36deg, 100%, 50%, 1);
@@ -724,7 +722,7 @@
 
 [data-md-color-scheme=slate][data-md-color-primary=deep-orange] {
   /* Global Text Colour */
-  --md-gbl-text-color: hsla(0, 0%, 100%, 0.7);
+  --md-gbl-text-color: hsla(0, 0%, 100%, 0.75);
   --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(14deg, 100%, 57%, 1);

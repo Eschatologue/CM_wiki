@@ -13,8 +13,8 @@ $defaultFontSize: convert.px2rem(15px); // Base font size converted to rem
 // Heading Size Variables
 $h1Size: $defaultFontSize * 2.2; // Size for H1
 $h2Size: $defaultFontSize * 1.5; // Size for H2
-$h3Size: $defaultFontSize * 1.25; // Size for H3
-$h4Size: $defaultFontSize * 1.125; // Size for H4
+$h3Size: $defaultFontSize * 1.30; // Size for H3
+$h4Size: $defaultFontSize * 1.15; // Size for H4
 
 // Main Typeset Styles
 .md-typeset {
@@ -32,18 +32,27 @@ $h4Size: $defaultFontSize * 1.125; // Size for H4
 
     // Paragraph styles
     p {
-        margin: convert.px2rem(8px) 0;
+        margin: convert.px2rem(10px) 0;
     }
 
     // List styles (unordered and ordered)
     ul,
     ol {
-        margin: convert.px2rem(5px) 0;
+        margin: convert.px2rem(0px) 0;
+    }
+
+    li {
+        margin: convert.px2rem(-4px) 0;
     }
 
     // Definition list styles
+    dl, 
     dd {
-        margin: convert.px2rem(-2px) 0 convert.px2rem(3px) 0;
+        margin: convert.px2rem(-2px) 0;
+    }
+
+    dd {
+        margin-left: convert.px2rem(-8px);
     }
 
     // Heading Styles
@@ -55,6 +64,7 @@ $h4Size: $defaultFontSize * 1.125; // Size for H4
 
     h3,
     h4 {
+        color: var(--md-gbl-text-color-strong);
         font-family: $headingFont;
         text-transform: none !important;
         font-variant: small-caps !important;
@@ -81,31 +91,32 @@ $h4Size: $defaultFontSize * 1.125; // Size for H4
     // H3 Specific Styles
     h3 {
         font-size: $h3Size;
-        font-weight: 550;
+        font-weight: 530;
         letter-spacing: $h3Size * 0.085;
-        margin: convert.px2rem(12px) 0 convert.px2rem(4px) 0;
+        margin: convert.px2rem(10px) 0;
         border-bottom: convert.px2rem(2.55px) dotted var(--md-default-wht--025);
-        padding-bottom: convert.px2rem(2px);
+
+        padding-bottom: convert.px2rem(4px);
     }
 
     // H4 Specific Styles
     h4 {
         font-size: $h4Size;
-        letter-spacing: $h4Size * 0.085;
-        font-weight: 525;
-        margin: convert.px2rem(12px) 0 convert.px2rem(-3px) 0;
+        letter-spacing: $h4Size * 0.030;
+        font-weight: 550;
+        margin: convert.px2rem(12px) 0 convert.px2rem(-6px) 0;
         padding-bottom: convert.px2rem(-2px);
 
-        &::before {
-            content: "";
-            display: inline-block;
-            border-radius: $h4Size * 0.15;
-            width: $h4Size * 0.75;
-            height: $h4Size * 0.75;
-            background-color: var(--md-default-wht--025);
-            margin-right: convert.px2rem(8px);
-            vertical-align: middle;
-        }
+        // &::before {
+        //     content: "";
+        //     display: inline-block;
+        //     border-radius: $h4Size * 0.15;
+        //     width: $h4Size * 0.75;
+        //     height: $h4Size * 0.75;
+        //     background-color: var(--md-default-wht--025);
+        //     margin-right: convert.px2rem(8px);
+        //     vertical-align: middle;
+        // }
     }
 
     // H5 Specific Styles

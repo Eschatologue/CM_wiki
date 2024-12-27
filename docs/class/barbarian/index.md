@@ -91,31 +91,39 @@ You can enter your Rage the number of times shown for your Barbarian level in th
 
 While active, your Rage follows the rules below.
 
-**Damage Resistance**{ .inl } You have :dmg-res: **Resistance** to :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, and :dmg-slsh: Slashing damage.
+#### Damage Resistance 
 
-**Rage Damage**{ .inl } When you make an attack using Strength—with either a weapon or an Unarmed Strike—and deal damage to the target, you gain a bonus to the damage that increases as you gain levels as a Barbarian, as shown in the Rage Damage column of the Barbarian Features table.
+You have **:dmg-res: Resistance** to :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, and :dmg-slsh: Slashing damage.
 
-**Strength Advantage**{ .inl } You have **:d20-adv: Advantage**{ .d20 } on Strength checks and Strength saving throws.
+#### Rage Damage 
 
-**No Concentration or Spells**{ .inl } You can't maintain Concentration, and you can't cast spells.
+When you make an attack using Strength—with either a weapon or an Unarmed Strike—and deal damage to the target, you gain a bonus to the damage that increases as you gain levels as a Barbarian, as shown in the Rage Damage column of the Barbarian Features table.
 
-**Duration**{ .inl } The Rage lasts until the end of your next turn, and it ends early if you don Heavy armour or have the Incapacitated condition. If your Rage is still active on your next turn, you can extend the Rage for another round by doing one of the following:
+#### Strength Advantage 
 
-- Make an ^^attack roll^^ against an enemy.
-- Force an enemy to make a ^^saving throw^^.
+You have **:d20-adv: Advantage**{ .d20 } on Strength checks and Strength saving throws.
+
+#### No Concentration or Spells
+
+You can't maintain Concentration, and you can't cast spells.
+
+#### Duration 
+
+The Rage lasts until the end of your next turn, and it ends early if you don Heavy armour or have the Incapacitated condition. If your Rage is still active on your next turn, you can extend the Rage for another round by doing one of the following:
+
+- Make an attack roll against an enemy.
+- Force an enemy to make a saving throw.
 - Take a :rsc-b: Bonus Action to extend your Rage.
 
 Each time the Rage is extended, it lasts until the end of your next turn. You can maintain a Rage for up to 10 minutes.
 
 ### Level 1: Unarmoured Defence
 
-While you aren't wearing any armour, you can determine your base Armour Class one of the following ways:
+While you aren't wearing any armour, you can choose the following option to determine your base **Armour Class**:
 
-_**Dexterity Based**_  
-10 + your :ability-dex: Dexterity and :ability-cons: Constitution modifiers
+:   **Dexterity Based**{ .inl } 10 plus your :ability-dex: Dexterity and :ability-cons: Constitution modifiers; or
 
-_**Strength Based**^CM^_  
-10 + your :ability-str: Strength and :ability-cons: Constitution modifiers. 
+:   **Strength Based**{ .inl } 10 plus your :ability-str: Strength and :ability-cons: Constitution modifiers.
 
 You can use a Shield and still gain these benefit.
 
@@ -123,11 +131,9 @@ You can use a Shield and still gain these benefit.
 
 Your training with weapons allows you to use the mastery properties of two kinds of Simple or Martial Melee weapons of your choice, such as Greataxes and Handaxes. Whenever you finish a Long Rest, you can do one of the following:
 
-_**Change Weapon**_  
-You can practice weapon drills and change *one* of those weapon choices.
+:   **Change Weapon**{ .inl } You can practice weapon drills and change *one* of those weapon choices; or
 
-_**Replace Weapon Mastery**^CM^_  
-You can choose any weapon with a Mastery property that you're using and replace its Mastery property with another eligible Mastery property. For example, you could replace the Longsword's Sap property with the Push property.
+:   **Replace Mastery Property**{ .inl } You can choose any weapon with a Mastery property that you're using and replace its Mastery property with another eligible Mastery property (e.g. Replace the Greataxe's Cleave property with the Graze property).
 
 --8<-- "includes/snippets/item-mastery.md"
 
@@ -135,7 +141,9 @@ When you reach certain Barbarian levels, you gain the ability to use the mastery
 
 ### Level 2: Danger Sense
 
-You gain an uncanny sense of when things aren't as they should be, giving you an edge when you dodge perils. You have **:d20-adv: Advantage**{ .d20 } on :d20-save: Dexterity saving throws unless you have the Incapacitated condition.
+You gain an uncanny sense of when things aren't as they should be, giving you an edge when you dodge perils. 
+
+You have **:d20-adv: Advantage**{ .d20 } on :d20-save: Dexterity saving throws unless you have the Incapacitated condition.
 
 ### Level 2: Reckless Attack
 
@@ -173,7 +181,7 @@ As part of the :rsc-b: Bonus Action you take to enter your Rage, you can move up
 
 ### Level 9: Brutal Strike
 
-If you use Reckless Attack, you can forgo any **:d20-adv: Advantage**{ .d20 } on one :ability-str: Strength-based attack roll of your choice on your turn. The chosen attack roll mustn't have :d20-disadv: **Disadvantage**. 
+If you use Reckless Attack, you can forgo any **:d20-adv: Advantage**{ .d20 } on one :ability-str: Strength-based attack roll of your choice on your turn. The chosen attack roll mustn't have **:d20-disadv: Disadvantage**{ .d20 }. 
 
 If the chosen attack roll hits, the target takes an extra 1d10 damage of the same type dealt by the weapon or Unarmed Strike, and you can cause one Brutal Strike effect of your choice. You have the following effect options.
 
@@ -183,7 +191,7 @@ If the chosen attack roll hits, the target takes an extra 1d10 damage of the sam
 
 ### Level 11: Relentless Rage
 
-Your Rage can keep you fighting despite grievous wounds. If you drop to 0 Hit Points while your Rage is active and don't die outright, you can make a :d20-save: DC 10 Constitution saving throw. If you succeed, your Hit Points instead change to a number equal to twice your Barbarian level.
+Your Rage can keep you fighting despite grievous wounds. If you drop to 0 Hit Points while your Rage is active and don't die outright, you can make a DC 10 :d20-save: Constitution saving throw. If you succeed, your Hit Points instead change to a number equal to twice your Barbarian level.
 
 Each time you use this feature after the first, the DC increases by 5. When you finish a Short or Long Rest, the DC resets to 10.
 

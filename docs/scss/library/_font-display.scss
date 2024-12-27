@@ -39,11 +39,11 @@
 
     &::before {
         content: '<';
-        margin-right: 0.15em;
+        margin-right: 0.1em;
     }
 
     &::after {
         content: '>';
-        margin-left: 0.15em;
+        margin-left: 0.1em;
     }
 }
