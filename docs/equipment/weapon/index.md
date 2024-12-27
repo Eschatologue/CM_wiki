@@ -129,7 +129,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 - ### :weapon-prop-sighted:{ .lg } Sighted
 
-    This weapon has :d20-disadv: **Disadvantage** on attack rolls made against targets within 20 feet and has **:d20-adv: Advantage**{ .em } against target that has not moved at least 15 feet for this before the start of your current turn.
+    This weapon has :d20-disadv: **Disadvantage** on attack rolls made against targets within 20 feet and has **:d20-adv: Advantage**{ .d20 } against target that has not moved at least 15 feet for this before the start of your current turn.
 
 - ### :weapon-prop-thrown:{ .lg } Thrown
 

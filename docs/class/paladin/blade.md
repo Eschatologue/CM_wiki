@@ -20,7 +20,7 @@ These paladins share the following tenets:
 
 ### Level 3: Martial Focus
 
-When you take the :rsc-a: **Attack** action, you can expend one use of your Channel Divinity to nullify any **:d20-disadv: Disadvantage**{ .em } (if any) and give yourself **:d20-adv: Advantage**{ .em } on all Melee weapon attack and Unarmed Strike until the start of your next turn.
+When you take the :rsc-a: **Attack** action, you can expend one use of your Channel Divinity to nullify any **:d20-disadv: Disadvantage**{ .d20 } (if any) and give yourself **:d20-adv: Advantage**{ .d20 } on all Melee weapon attack and Unarmed Strike until the start of your next turn.
 
 ### Level 3: Sacred Duel
 
@@ -66,7 +66,7 @@ You possess an unnatural level of awareness.
 
 ***Blindsight.*** You have Blindsight equals to your Aura of Protection's range.
 
-***Improved Opportunity Attack.*** You have **:d20-adv: Advantage**{ .em } when you make an :rsc-r: Opportunity Attack. Moreover, when a creature you can see hits you with a melee attack, you can make an :rsc-r: Opportunity Attack against it.
+***Improved Opportunity Attack.*** You have **:d20-adv: Advantage**{ .d20 } when you make an :rsc-r: Opportunity Attack. Moreover, when a creature you can see hits you with a melee attack, you can make an :rsc-r: Opportunity Attack against it.
 
 ### Level 20: Warrior of Legend
 
@@ -74,7 +74,7 @@ As Bonus Action, you can enter a battle trance that enhances your combat skills 
 
 ***Free Manoeuvre.*** Once per turn, when you use a Manoeuvre, you can roll a :die-d6: d6 and use the number rolled instead of expending a Superiority Die.
 
-***Saving Throw Advantage.*** You have **:d20-adv: Advantage**{ .em } on all saving throws so long you don't have the Incapacitated condition.
+***Saving Throw Advantage.*** You have **:d20-adv: Advantage**{ .d20 } on all saving throws so long you don't have the Incapacitated condition.
 
 ***Hybrid Manoeuvre.*** You can use *two* Manoeuvre per attack instead of one normally. However, only one Manoeuvre can benefit from _**Free Manoeuvre**_ subfeature.
 

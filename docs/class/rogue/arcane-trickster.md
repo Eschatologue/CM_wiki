@@ -77,7 +77,7 @@ When you cast [:spell-lv0: Mage Hand], you can make the spectral hand invisible.
 
 ### Level 9: Magical Ambush
 
-If you have the ^^Invisible^^ condition when you cast a spell on a creature, it has **:d20-disadv: Disadvantage**{ .em } on any saving throw it makes against the spell on the same turn.
+If you have the ^^Invisible^^ condition when you cast a spell on a creature, it has **:d20-disadv: Disadvantage**{ .d20 } on any saving throw it makes against the spell on the same turn.
 
 ### Level 13: Versatile Trickster
 

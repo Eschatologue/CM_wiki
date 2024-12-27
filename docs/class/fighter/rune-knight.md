@@ -27,7 +27,7 @@ The following Runes are available to you when you learn a Rune. If a Rune has a 
 
 ***Cloud Rune.*** This Rune emulates the deceptive magic used by some cloud giants.
 
-- While wearing or carrying an object inscribed with this Rune, you have **:d20-adv: Advantage**{ .em } on Sleight of Hand checks and Deception checks.
+- While wearing or carrying an object inscribed with this Rune, you have **:d20-adv: Advantage**{ .d20 } on Sleight of Hand checks and Deception checks.
 - When you or a creature you can see within 30 feet of you is hit by an attack roll, you can take a Reaction to invoke the Rune and choose a different creature within 30 feet of you, other than the attacker. The chosen creature becomes the target of the attack, using the same roll. This magic can transfer the attack's effects regardless of the attack's range.
 
 ***Fire Rune.*** This Rune's magic channels the masterful craftsmanship of great smiths.
@@ -37,30 +37,30 @@ The following Runes are available to you when you learn a Rune. If a Rune has a 
 
 ***Frost Rune.*** This Rune's magic evokes the might of those who survive in the wintry wilderness, such as frost giants.
 
-- While wearing or carrying an object inscribed with this Rune, you have **:d20-adv: Advantage**{ .em } on Animal Handling checks and Intimidation checks.
+- While wearing or carrying an object inscribed with this Rune, you have **:d20-adv: Advantage**{ .d20 } on Animal Handling checks and Intimidation checks.
 - You can invoke the Rune as a Bonus Action to increase your sturdiness. For 10 minutes, you gain a +2 bonus to all ability checks and saving throws that use Strength or Constitution, as well as to the saving throw DC of your Unarmed Strikes.
 
 ***Stone Rune.*** This Rune's magic channels the judiciousness associated with stone giants.
 
-- While wearing or carrying an object inscribed with this rune, you have **:d20-adv: Advantage**{ .em } on Insight checks, and you have Darkvision with a range of 120 feet.
+- While wearing or carrying an object inscribed with this rune, you have **:d20-adv: Advantage**{ .d20 } on Insight checks, and you have Darkvision with a range of 120 feet.
 - When a creature you can see ends its turn within 30 feet of you, you can use your Reaction to invoke the Rune and force the creature to make a Wisdom saving throw. Unless the save succeeds, the creature has the Charmed condition for 1 minute. While Charmed in this way, the creature has a speed of 0 and has the Incapacitated condition, descending into a dreamy stupor. The creature repeats the saving throw at the end of each of its turns, ending the effect on a success.
 
 ***Hill Rune (Level 7 or Higher).*** This Rune's magic bestows a resilience reminiscent of a hill giant.
 
-- While wearing or carrying an object that bears this Rune, you have **:d20-adv: Advantage**{ .em } on saves against having the Poisoned condition, and you have Resistance against Poison damage.
+- While wearing or carrying an object that bears this Rune, you have **:d20-adv: Advantage**{ .d20 } on saves against having the Poisoned condition, and you have Resistance against Poison damage.
 - You can invoke the Rune as a Bonus Action, gaining Resistance to Bludgeoning, Piercing, and Slashing damage for 1 minute.
 
 ***Storm Rune (Level 7 or Higher).*** Using this rune, you can glimpse the future like a storm giant seer.
 
-- While wearing or carrying an object inscribed with this Rune, you have **:d20-adv: Advantage**{ .em } on Arcana checks, and you can't be Surprised as long as you don't have the Incapacitated condition.
-- You can invoke the Rune as a Bonus Action to enter a prophetic state for 1 minute or until you have the Incapacitated condition. Until the state ends, when you or another creature you can see within 60 feet of you makes an attack roll, a saving throw, or an ability check, you can use your reaction to cause the roll to have **:d20-adv: Advantage**{ .em } or :d20-disadv: Disdvantage.
+- While wearing or carrying an object inscribed with this Rune, you have **:d20-adv: Advantage**{ .d20 } on Arcana checks, and you can't be Surprised as long as you don't have the Incapacitated condition.
+- You can invoke the Rune as a Bonus Action to enter a prophetic state for 1 minute or until you have the Incapacitated condition. Until the state ends, when you or another creature you can see within 60 feet of you makes an attack roll, a saving throw, or an ability check, you can use your reaction to cause the roll to have **:d20-adv: Advantage**{ .d20 } or :d20-disadv: Disdvantage.
 
 ### Level 3: Giant's Might
 You have learned how to imbue yourself with the might of giants. As a Bonus Action, you magically gain the following benefits for 1 minute:
 
 ***Giant Sized.*** If you are smaller than Large, you become Large, along with anything you are wearing. If you lack the room to become Large, your size doesn't change.
 
-***Giant's Strength.*** You have **:d20-adv: Advantage**{ .em } on Strength checks and Strength saving throws.
+***Giant's Strength.*** You have **:d20-adv: Advantage**{ .d20 } on Strength checks and Strength saving throws.
 
 ***Gigantic Force.*** Once per turn, when you make an attack you deal an extra 1d6 damage to a target on a hit.
 

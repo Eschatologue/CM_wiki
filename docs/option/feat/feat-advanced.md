@@ -91,7 +91,7 @@ You gain proficiency in two skill of your choice. When you finish a Short Rest, 
 Through your repeated exposure to the natural flow of arcane magic throughout your world and beyond, you've adapted to attune with additional enchantments, though the process can be physically taxing. You gain the following benefits:
 
 **Experienced**  
-You have **:d20-adv: Advantage**{ .em } on Intelligence (Arcana) checks when investigating the nature of a magical object or device.
+You have **:d20-adv: Advantage**{ .d20 } on Intelligence (Arcana) checks when investigating the nature of a magical object or device.
     
 **Increased Attunement**  
 Your magical item attunement limit is increased by one. All other magical attunement rule still applies.

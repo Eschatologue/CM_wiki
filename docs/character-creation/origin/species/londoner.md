@@ -44,7 +44,7 @@ You gain additional ways to gain Heroic Inspiration:
 
 ### Mental Resilience
 
-You have :dmg-res: Resistance to :dmg-psyc: Psychic damage. You also have **:d20-adv: Advantage**{ .em } on saving throws you make to avoid or end the ^^Charmed^^ and ^^Frightened^^ condition.
+You have :dmg-res: Resistance to :dmg-psyc: Psychic damage. You also have **:d20-adv: Advantage**{ .d20 } on saving throws you make to avoid or end the ^^Charmed^^ and ^^Frightened^^ condition.
 
 ### British Ingenuity
 

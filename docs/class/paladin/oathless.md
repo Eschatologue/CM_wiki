@@ -59,7 +59,7 @@ When you use Illusory Escape, you can force a creature of your choice within you
 
 *You use your presence to dominate instead of aiding others.*
   
-When you force a creature within your Aura of Protection to make a saving throw to resist the effects of an Oathless Spell or an Enchanment Spell spell, it has **:d20-disadv: Disadvantage**{ .em } on its initial saving throw.
+When you force a creature within your Aura of Protection to make a saving throw to resist the effects of an Oathless Spell or an Enchanment Spell spell, it has **:d20-disadv: Disadvantage**{ .d20 } on its initial saving throw.
 
 ### Level 20: No Honour
 

@@ -19,7 +19,7 @@ As a Bonus Action on your turn, you can place a **Baleful Mark** on a creature y
 
 This Mark is only visible to you, and while it is active, you gain the benefits listed below:
 
-***Mage Breaker.*** Whenever you damage your Mark, it has **:d20-disadv: Disadvantage**{ .em } on its subsequent saving throw to maintain Concentration
+***Mage Breaker.*** Whenever you damage your Mark, it has **:d20-disadv: Disadvantage**{ .d20 } on its subsequent saving throw to maintain Concentration
 
 ***Mage Slayer.*** If your Mark attempts to cast a spell while it is within your reach, it provokes :rsc-r: Opportunity Attack from you.
 

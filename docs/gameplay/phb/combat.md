@@ -144,7 +144,7 @@ You can't willingly end a move in a space occupied by another creature. If you s
 When you take the Attack action, you make an attack. Some other actions, Bonus Actions, and Reactions also let you make an attack. Whether you strike with a Melee weapon, fire a Ranged weapon, or make an attack roll as part of a spell, an attack has the following structure:
 
 1. **Choose a Target.** Pick a target within your attack's range: a creature, an object, or a location.
-2. **Determine Modifiers.** The DM determines whether the target has Cover (see the next section) and whether you have **:d20-adv: Advantage**{ .em } or :d20-disadv: **Disadvantage** against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll.
+2. **Determine Modifiers.** The DM determines whether the target has Cover (see the next section) and whether you have **:d20-adv: Advantage**{ .d20 } or :d20-disadv: **Disadvantage** against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll.
 3. **Resolve the Attack.** Make the attack roll, as detailed earlier in this chapter. On a hit, you roll damage unless the particular attack has rules that specify otherwise. Some attacks cause special effects in addition to or instead of damage.
 
 ## Cover
@@ -165,7 +165,7 @@ A target can benefit from cover only when an attack or other effect originates o
 
     When you make an attack roll against a target you can't see, you have :d20-disadv: **Disadvantage** on the roll. This is true whether you're guessing the target's location or targeting a creature you can hear but not see. If the target isn't in the location you targeted, you miss.
 
-    When a creature can't see you, you have **:d20-adv: Advantage**{ .em } on attack rolls against it.
+    When a creature can't see you, you have **:d20-adv: Advantage**{ .d20 } on attack rolls against it.
 
     If you are hidden when you make an attack roll, you give away your location when the attack hits or misses.
 

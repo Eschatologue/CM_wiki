@@ -81,9 +81,9 @@ You specialise one weapon rather than many. Choose one Weapon that you are Profi
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*  
 
-Having the ^^Prone^^ condition doesn't impose **:d20-disadv: Disadvantage**{ .em } on your Ranged weapon attacks. Moreover, while ^^Prone^^, when you hit the target within your Ranged weapon's normal range you can treat any 1 or 2 on a damage die as a 3.
+Having the ^^Prone^^ condition doesn't impose **:d20-disadv: Disadvantage**{ .d20 } on your Ranged weapon attacks. Moreover, while ^^Prone^^, when you hit the target within your Ranged weapon's normal range you can treat any 1 or 2 on a damage die as a 3.
 
-Moreover, your attack with Ranged weapon doesn't have **:d20-disadv: Disadvantage**{ .em } if your target has the Prone condition so long your target is within your weapon normal range.
+Moreover, your attack with Ranged weapon doesn't have **:d20-disadv: Disadvantage**{ .d20 } if your target has the Prone condition so long your target is within your weapon normal range.
 
 ---
 
@@ -91,7 +91,7 @@ Moreover, your attack with Ranged weapon doesn't have **:d20-disadv: Disadvantag
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-When a creature within 10 feet of you makes an attack against a creature that you can see, you can take a :rsc-r: Reaction to grant it **:d20-adv: Advantage**{ .em } on its attack roll. You must be carrying a banner, flag, or standard in your hand. A holy symbol emblazoned on a Shield also suffice.
+When a creature within 10 feet of you makes an attack against a creature that you can see, you can take a :rsc-r: Reaction to grant it **:d20-adv: Advantage**{ .d20 } on its attack roll. You must be carrying a banner, flag, or standard in your hand. A holy symbol emblazoned on a Shield also suffice.
 
 ---
 

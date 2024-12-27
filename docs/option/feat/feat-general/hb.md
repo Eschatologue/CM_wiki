@@ -91,7 +91,7 @@ You increase your Intelligence or Wisdom score by 1, up to a maximum of 20.
 **Swift Help**  
 You can take the Help action as a :rsc-b: **Bonus Action**.
 
-If you use a Help action to give **:d20-adv: Advantage**{ .em } on an ability check with a skill or tool you are proficient in, the target can treat a result of 7 or lower on the d20 as an 8.
+If you use a Help action to give **:d20-adv: Advantage**{ .d20 } on an ability check with a skill or tool you are proficient in, the target can treat a result of 7 or lower on the d20 as an 8.
 
 ---
 

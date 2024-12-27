@@ -37,7 +37,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 ### Level 3: Watcher’s Will
 
-You invest your presence with the warding power of your faith. As a :rsc-b: Bonus Action, you can expend a use of your Channel Divinity to choose a number of creatures you can see within 30 feet of you, up to a number equal to your Charisma modifier (minimum of one creature). For 1 minute, you and the chosen creatures have **:d20-adv: Advantage**{ .em } on Intelligence, Wisdom, and Charisma saving throws.
+You invest your presence with the warding power of your faith. As a :rsc-b: Bonus Action, you can expend a use of your Channel Divinity to choose a number of creatures you can see within 30 feet of you, up to a number equal to your Charisma modifier (minimum of one creature). For 1 minute, you and the chosen creatures have **:d20-adv: Advantage**{ .d20 } on Intelligence, Wisdom, and Charisma saving throws.
 
 ### Level 7: Aura of the Sentinel
 
@@ -53,7 +53,7 @@ You manifest a spark of divine power in defense of the mortal realms. As a :rsc-
 
 ***Truesight.*** You gain Truesight with a range of 120 feet.
 
-***Invader’s Bane.*** You have **:d20-adv: Advantage**{ .em } on attack rolls against Aberrations, Celestials, Elementals, Fey, and Fiends.
+***Invader’s Bane.*** You have **:d20-adv: Advantage**{ .d20 } on attack rolls against Aberrations, Celestials, Elementals, Fey, and Fiends.
 
 ***Extraplanar Banishment***. When you hit a creature with an attack roll and deal damage to it, you can also force it to make a Charisma saving throw against your spell save DC. On a failed save, the creature is magically banished to its native plane of existence if it’s currently not there. On a successful save, the creature can’t be banished by this feature for 24 hours.
 

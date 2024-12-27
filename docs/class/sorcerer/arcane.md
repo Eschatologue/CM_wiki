@@ -45,7 +45,7 @@ The deflected spell must be of a level you can cast. This ability cannot be used
 
 ### Level 14: Magic Avoidance
 
-You have **:d20-adv: Advantage**{ .em } on saving throws against spells. Furthermore, when you use your Spell Deflection ability, any effect of the triggering spell against you is negated.
+You have **:d20-adv: Advantage**{ .d20 } on saving throws against spells. Furthermore, when you use your Spell Deflection ability, any effect of the triggering spell against you is negated.
 
 ### Level 18: Share Metamagic
 

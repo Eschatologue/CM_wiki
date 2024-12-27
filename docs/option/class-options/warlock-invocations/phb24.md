@@ -16,7 +16,7 @@ You can cast [:spell-lv1: Mage Armour] on yourself without expending a spell slo
 
 ### Eldritch Mind
 
-You have **:d20-adv: Advantage**{ .em } on Constitution saving throws that you make to maintain Concentration.
+You have **:d20-adv: Advantage**{ .d20 } on Constitution saving throws that you make to maintain Concentration.
 
 ---
 

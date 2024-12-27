@@ -92,7 +92,7 @@ When you hit a creature with an attack that includes Sneak Attack damage, you ca
 
 ### Level 13: Divine Step
 
-You have the [:spell-lv2: Misty Step] spell always prepared. When you cast this spell, you can make one weapon attack or cast [:spell-lv0: True Strike] with as part of the same action of casting [:spell-lv2: Misty Step]. You have **:d20-adv: Advantage**{ .em } on this attack.
+You have the [:spell-lv2: Misty Step] spell always prepared. When you cast this spell, you can make one weapon attack or cast [:spell-lv0: True Strike] with as part of the same action of casting [:spell-lv2: Misty Step]. You have **:d20-adv: Advantage**{ .d20 } on this attack.
 
 ### Level 17: Will of the Gods
 

@@ -39,7 +39,7 @@ The Cantrip does not deal damage. Instead, your weapon attack deals the damage t
 If the spell requires your concentration, you must concentrate on it as soon as it takes effect on hit.
 
 :d20-save: ***Saving Throw***  
-If the spell requires a saving throw when cast, the target makes the first save at a **:d20-disadv: Disadvantage**{ .em } on hit. On a Critical Hit, the target automatically fails the save. Other target (if any) make this save as normal.
+If the spell requires a saving throw when cast, the target makes the first save at a **:d20-disadv: Disadvantage**{ .d20 } on hit. On a Critical Hit, the target automatically fails the save. Other target (if any) make this save as normal.
 
 :d20-attack: ***Attack Roll***  
 If the spell requires an attack roll, it instantly take effect when you hit with a weapon attack.

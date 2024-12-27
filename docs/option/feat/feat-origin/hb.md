@@ -132,7 +132,7 @@ You have studied languages and codes, gaining the following benefits:
 You learn a number of additional languages of your choice equal to your Intelligence modifier. Whenever your base Intelligence modifier increases thereafter, you may learn a new language.
     
 **Linguistic Insight**  
-You have **:d20-adv: Advantage**{ .em } on skill checks made to discern information from a language or text you don't understand.
+You have **:d20-adv: Advantage**{ .d20 } on skill checks made to discern information from a language or text you don't understand.
 
 **Lip Reader**  
 If you can see a creature's mouth while it is speaking a language you understand, you can interpret what it's saying by reading its lips.

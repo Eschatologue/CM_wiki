@@ -74,9 +74,9 @@ You always seem to shoot first. You can add your Intelligence modifier (minimum 
 
 ### Level 15: Master Gunslinger
 
-Your skill with your Arcane Firearm is nearly supernatural in battle. You can take a :rsc-b: Bonus Action on your turn to steady your breathing, granting you **:d20-adv: Advantage**{ .em } on any attacks you make with your Arcane Firearm until the end of your current turn.
+Your skill with your Arcane Firearm is nearly supernatural in battle. You can take a :rsc-b: Bonus Action on your turn to steady your breathing, granting you **:d20-adv: Advantage**{ .d20 } on any attacks you make with your Arcane Firearm until the end of your current turn.
 
-Finally, once per turn when you make an attack with your Arcane Firearm with **:d20-adv: Advantage**{ .em } , you can forgo the **:d20-adv: Advantage**{ .em } to instead make one additional Arcane Firearm attack.
+Finally, once per turn when you make an attack with your Arcane Firearm with **:d20-adv: Advantage**{ .d20 } , you can forgo the **:d20-adv: Advantage**{ .d20 } to instead make one additional Arcane Firearm attack.
 
 ---
 
@@ -118,7 +118,7 @@ When one of your Upgrades requires a creature to make a saving throw, it makes i
 
     _**Prerequisite:** Level 3+ Artificer_
 
-    You modify your Arcane Firearm to be especially accurate. You ignore the **:d20-disadv: Disadvantage**{ .em } imposed on Arcane Firearm attacks that you make at the weapon's long range.
+    You modify your Arcane Firearm to be especially accurate. You ignore the **:d20-disadv: Disadvantage**{ .d20 } imposed on Arcane Firearm attacks that you make at the weapon's long range.
 
     ---
 

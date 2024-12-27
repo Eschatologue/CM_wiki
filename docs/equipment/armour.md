@@ -18,7 +18,7 @@ The Armour table lists the game's main armour. The table includes the cost and w
 
 | Light Armour | Armour Class (AC) | Strength | Stealth | Weight | Cost |
 |---|:-:|:-:|:-:|:-:|--:|
-| *Padded Armour* | 11 + Dex modifier | — | **:d20-disadv: Disadvantage**{ .em } | M. | 50 SP |
+| *Padded Armour* | 11 + Dex modifier | — | **:d20-disadv: Disadvantage**{ .d20 } | M. | 50 SP |
 | *Leather Armour* | 11 + Dex modifier | — | — | M. | 100 SP |
 | *Studded Leather Armour* | 12 + Dex modifier | — | — | L. | 450 SP |
 
@@ -28,18 +28,18 @@ The Armour table lists the game's main armour. The table includes the cost and w
 |---|:-:|:-:|:-:|:-:|--:|
 | *Hide Armour* | 12 + Dex modifier (max 2) | — | — | L. | 100 SP |
 | *Chain Shirt* | 13 + Dex modifier (max 2) | — | — | L. | 500 SP |
-| *Scale Mail* | 14 + Dex modifier (max 2) | — | **:d20-disadv: Disadvantage**{ .em } | XXL. | 500 SP |
+| *Scale Mail* | 14 + Dex modifier (max 2) | — | **:d20-disadv: Disadvantage**{ .d20 } | XXL. | 500 SP |
 | *Breastplate* | 14 + Dex modifier (max 2) | — | — | L. | 4,000 SP |
-| *Half Plate Armour* | 15 + Dex modifier (max 2) | — | **:d20-disadv: Disadvantage**{ .em } | XXL. | 7,500 SP |
+| *Half Plate Armour* | 15 + Dex modifier (max 2) | — | **:d20-disadv: Disadvantage**{ .d20 } | XXL. | 7,500 SP |
 
 ##### Heavy Armour Table (10 Minutes to Don and 5 Minutes to Doff)
 
 | Heavy Armour | Armour Class (AC) | Strength | Stealth | Weight | Cost |
 |---|:-:|:-:|:-:|:-:|--:|
-| *Ring Mail* | 14 | — | **:d20-disadv: Disadvantage**{ .em } | XXL. | 300 SP |
-| *Chain Mail* | 16 | Str 13 | **:d20-disadv: Disadvantage**{ .em } | 3L. | 750 SP |
-| *Splint Armour* | 17 | Str 15 | **:d20-disadv: Disadvantage**{ .em } | 3L. | 2,000 SP |
-| *Plate Armour* | 18 | Str 15 | **:d20-disadv: Disadvantage**{ .em } | 3L. | 15,000 SP |
+| *Ring Mail* | 14 | — | **:d20-disadv: Disadvantage**{ .d20 } | XXL. | 300 SP |
+| *Chain Mail* | 16 | Str 13 | **:d20-disadv: Disadvantage**{ .d20 } | 3L. | 750 SP |
+| *Splint Armour* | 17 | Str 15 | **:d20-disadv: Disadvantage**{ .d20 } | 3L. | 2,000 SP |
+| *Plate Armour* | 18 | Str 15 | **:d20-disadv: Disadvantage**{ .d20 } | 3L. | 15,000 SP |
 
 ##### Shield Table (Utilize Action to Don or Doff)
 
@@ -47,7 +47,7 @@ The Armour table lists the game's main armour. The table includes the cost and w
 |---|:-:|:-:|:-:|:-:|--:|
 | *Buckler* | +1 | — | - | M. | 50 SP |
 | *Shield* | +2 | — | - | M. | 100 SP |
-| *Tower Shield* | +3 | Str 15 | **:d20-disadv: Disadvantage**{ .em } | L. | 1,000 SP |
+| *Tower Shield* | +3 | Str 15 | **:d20-disadv: Disadvantage**{ .d20 } | L. | 1,000 SP |
 
 ## Armour Training
 
@@ -55,7 +55,7 @@ Anyone can don armour or hold a Shield, but only those with training can use the
 
 ### Light, Medium, or Heavy Armour
 
-If you wear Light, Medium, or Heavy armour and lack training with it, you have **:d20-disadv: Disadvantage**{ .em } on any D20 Test that involves Strength or Dexterity, and you can't cast spells.
+If you wear Light, Medium, or Heavy armour and lack training with it, you have **:d20-disadv: Disadvantage**{ .d20 } on any D20 Test that involves Strength or Dexterity, and you can't cast spells.
 
 ### Shield
 
