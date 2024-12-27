@@ -127,10 +127,9 @@
   font-weight: 550 !important; /* Bold */
 }
 
-.sc {
-  /* Mostly used for Inline Subheading */
+.sc { /* Used for Inline Subheading */
   /* Uses .em so no repetion */
-  font-family: "Jost", sans-serif; /* Changes font to Jost */
+  font-family: "Jost", sans-serif !important; /* Changes font to Jost */
   font-size: 0.7875rem; /* Make text slightly bigger to take account for Small Caps */
   letter-spacing: 0.03rem !important; /* Wider letterspacing for easier read */
   font-variant: small-caps !important; /* Make font smallcaps so it looks different than the rest */
@@ -981,10 +980,7 @@
   }
 }
 
-/* 
-    Content Grids 
-    See: https://github.com/squidfunk/mkdocs-material/blob/master/src/templates/assets/stylesheets/main/modifiers/_grid.scss#L28
-*/
+/* Content Grids */
 .md-typeset .grid {
   grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
   grid-gap: 0.25em;
@@ -992,7 +988,6 @@
 @media screen and (max-width: 768px) {
   .md-typeset .grid {
     grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));
-    /* Change Grid Size on smaller screen, stuff looks ugly on phones */
   }
 }
 @media screen and (max-width: 512px) {
