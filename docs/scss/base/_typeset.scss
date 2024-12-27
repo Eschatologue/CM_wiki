@@ -1,10 +1,9 @@
+@use "../utility/convert";
+@import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap");
+
 /*------------------------------------------------------- 
     Basic Typesets
 --------------------------------------------------------*/
-
-@use "../utility/convert";
-
-@import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap");
 
 // General Typeset Variables
 $headingFont: "Jost", sans-serif; // Font for headings

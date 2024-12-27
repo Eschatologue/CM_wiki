@@ -21,10 +21,11 @@
         transition: box-shadow 250ms;
     }
 }
-//-------------------------------------------------------------------------------------------//
 
 .md-typeset {
-    // Homebrew
+
+    /* Homebrew */
+
     $colorAdmonition_homebrew: convert.hex3hsl(#ffb624);
 
     .admonition.homebrew,
@@ -46,7 +47,8 @@
         }
     }
 
-    // Glossary
+    /* Glossary */
+
     $colorAdmonition_glossary: convert.hex3hsl(#4db6ac);
 
     .admonition.glossary,

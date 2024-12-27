@@ -39,11 +39,11 @@
 
     &::before {
         content: '<';
-        margin-right: 0.12em; // Optional spacing
+        margin-right: 0.15em;
     }
 
     &::after {
         content: '>';
-        margin-left: 0.12em; // Optional spacing
+        margin-left: 0.15em;
     }
 }

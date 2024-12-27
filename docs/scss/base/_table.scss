@@ -1,9 +1,9 @@
+@use "./typeset";
+@use "../utility/convert";
+
 /*------------------------------------------------------- 
     Tables
 --------------------------------------------------------*/
-
-@use "./typeset";
-@use "../utility/convert";
 
 $paddings: 16px;
 $paddingScale: 6px;
