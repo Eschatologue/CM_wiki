@@ -11,27 +11,23 @@
     font-weight: 550 !important; /* Bold */
 }
 
+.jost {
+    font-family: typeset.$headingFont !important; /* Changes font to Jost */
+}
+
 .d20 {
     @extend .em;
     
     font-size: typeset.$defaultFontSize * 1.05; /* Make text slightly bigger to take account for Small Caps */
     letter-spacing: typeset.$defaultFontSize * 0.04 !important; /* Wider letterspacing for easier read */
     font-variant: small-caps !important; /* Make font smallcaps so it looks different than the rest */
-    
+
     @media screen and (max-width: 768px) {
         font-size: typeset.$defaultFontSize * 0.9 !important; /* Make Font Size Smaller for mobile devices */
     }
 }
 
-.sc { /* Used for Inline Subheading */
-    @extend .em; /* Uses .em so no repetion */
-    
-    font-family: typeset.$headingFont !important; /* Changes font to Jost */
-    font-size: typeset.$defaultFontSize * 1.05; /* Make text slightly bigger to take account for Small Caps */
-    letter-spacing: typeset.$defaultFontSize * 0.04 !important; /* Wider letterspacing for easier read */
-    font-variant: small-caps !important; /* Make font smallcaps so it looks different than the rest */
-
-    @media screen and (max-width: 768px) {
-        font-size: typeset.$defaultFontSize * 0.9 !important; /* Make Font Size Smaller for mobile devices */
-    }
+.sc { 
+    @extend .jost;
+    @extend .d20;
 }
