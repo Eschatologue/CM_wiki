@@ -7,39 +7,42 @@
 @import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap");
 
 // General Typeset Variables
-$headingFont: "Jost", sans-serif;
-$defaultFontWeight: 300;
-
-$defaultFontSize: convert.px2rem(15px);
+$headingFont: "Jost", sans-serif; // Font for headings
+$defaultFontWeight: 300; // Default font weight for text
+$defaultFontSize: convert.px2rem(15px); // Base font size converted to rem
 
 // Heading Size Variables
-$h1Size: $defaultFontSize * 2.2;
-$h2Size: $defaultFontSize * 1.5;
-$h3Size: $defaultFontSize * 1.25;
-$h4Size: $defaultFontSize * 1.125;
+$h1Size: $defaultFontSize * 2.2; // Size for H1
+$h2Size: $defaultFontSize * 1.5; // Size for H2
+$h3Size: $defaultFontSize * 1.25; // Size for H3
+$h4Size: $defaultFontSize * 1.125; // Size for H4
 
-// Main Typeset
+// Main Typeset Styles
 .md-typeset {
     font-weight: $defaultFontWeight;
     font-size: $defaultFontSize;
 
     @media screen and (max-width: 768px) {
-        font-size: $defaultFontSize * 0.85; /* Make Font Size Smaller for mobile devices */
+        font-size: $defaultFontSize * 0.85; // Adjust font size for smaller screens
     }
 
+    // Strong text styles
     strong {
         letter-spacing: $defaultFontSize * 0.03;
     }
 
+    // Paragraph styles
     p {
-        margin: convert.px2rem(8px) 0 convert.px2rem(8px) 0;
+        margin: convert.px2rem(8px) 0;
     }
 
+    // List styles (unordered and ordered)
     ul,
     ol {
-        margin: convert.px2rem(5px) 0 convert.px2rem(5px) 0;
+        margin: convert.px2rem(5px) 0;
     }
 
+    // Definition list styles
     dd {
         margin: convert.px2rem(-2px) 0 convert.px2rem(3px) 0;
     }
@@ -58,14 +61,15 @@ $h4Size: $defaultFontSize * 1.125;
         font-variant: small-caps !important;
     }
 
+    // H1 Specific Styles
     h1 {
         font-size: $h1Size;
         letter-spacing: $h1Size * 0.02;
         font-weight: $defaultFontWeight * 1.65;
-        margin-top: convert.px2rem(9px);
-        margin-bottom: convert.px2rem(9px);
+        margin: convert.px2rem(9px) 0;
     }
 
+    // H2 Specific Styles
     h2 {
         font-size: $h2Size;
         font-weight: $defaultFontWeight * 1.5;
@@ -75,6 +79,7 @@ $h4Size: $defaultFontSize * 1.125;
         padding-bottom: convert.px2rem(2px);
     }
 
+    // H3 Specific Styles
     h3 {
         font-size: $h3Size;
         font-weight: 550;
@@ -84,6 +89,7 @@ $h4Size: $defaultFontSize * 1.125;
         padding-bottom: convert.px2rem(2px);
     }
 
+    // H4 Specific Styles
     h4 {
         font-size: $h4Size;
         letter-spacing: $h4Size * 0.085;
@@ -103,6 +109,7 @@ $h4Size: $defaultFontSize * 1.125;
         }
     }
 
+    // H5 Specific Styles
     h5 {
         font-size: $defaultFontSize;
         letter-spacing: $defaultFontSize * 0.03;
@@ -112,6 +119,7 @@ $h4Size: $defaultFontSize * 1.125;
         padding-bottom: convert.px2rem(-4px);
     }
 
+    // H6 Specific Styles
     h6 {
         font-size: $defaultFontSize * 0.85;
         font-weight: 350;
