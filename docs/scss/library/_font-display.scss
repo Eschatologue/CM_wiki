@@ -5,52 +5,33 @@
     Text Emphasisation
 --------------------------------------------------------*/
 
-/* 
-    * Base style for emphasised text
-    * Makes text slightly brighter, prevents wrapping, and uses semi-bold weight.
-*/
 .em { 
     color: var(--md-gbl-text-color-strong); /* Make Text slightly brighter so its easier to see */ 
     white-space: nowrap; /* Prevent selected block to split on smaller screen sizes, used in conjuction with icons */
     font-weight: 550 !important;
 }
 
-/*
-    * General Jost font style 
-    * Applies Jost font for headings or specific elements.
-*/
 .jost {
     font-family: typeset.$headingFont !important; /* Changes font to Jost */
 }
 
-/* 
-    * Styling for d20 roll elements, such as Advantage and Disadvantage
-    * Extends ".em" for base styles, adds small-caps, and adjusts size/spacing.
-*/
+.smallcap {
+    font-variant: small-caps !important; /* Make font smallcaps so it looks different than the rest */
+}
+
 .d20 {
     @extend .em;
+    @extend .smallcap;
     
     font-size: typeset.$defaultFontSize * 1.05; /* Make text slightly bigger to take account for Small Caps */
     letter-spacing: typeset.$defaultFontSize * 0.04 !important; /* Wider letterspacing for easier read */
-    font-variant: small-caps !important; /* Make font smallcaps so it looks different than the rest */
 
     @media screen and (max-width: 768px) {
         font-size: typeset.$defaultFontSize * 0.9 !important; /* Make Font Size Smaller for mobile devices */
     }
 }
 
-/*
-    * Combined styles for "sc"
-    * Extends both ".jost" for font and ".d20" for small-caps and spacing.
-*/
-.sc { 
-    @extend .jost;
-    
-    font-size: typeset.$defaultFontSize * 1.10; /* Make text slightly bigger to take account for Small Caps */
-    letter-spacing: typeset.$defaultFontSize * 0.04 !important; /* Wider letterspacing for easier read */
-    font-variant: small-caps !important; /* Make font smallcaps so it looks different than the rest */
-
-    @media screen and (max-width: 768px) {
-        font-size: typeset.$defaultFontSize * 0.9 !important; /* Make Font Size Smaller for mobile devices */
-    }
+.inl {
+    @extend .em;
+    font-size: typeset.$defaultFontSize * 1.05;
 }
