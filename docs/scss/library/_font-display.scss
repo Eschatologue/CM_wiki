@@ -5,29 +5,36 @@
     Text Emphasisation
 --------------------------------------------------------*/
 
-.em { 
-    color: var(--md-gbl-text-color-strong); /* Make Text slightly brighter so its easier to see */ 
-    white-space: nowrap; /* Prevent selected block to split on smaller screen sizes, used in conjuction with icons */
+.em {
+    color: var(--md-gbl-text-color-strong);
+    /* Make Text slightly brighter so its easier to see */
+    white-space: nowrap;
+    /* Prevent selected block to split on smaller screen sizes, used in conjuction with icons */
     font-weight: 550 !important;
 }
 
 .jost {
-    font-family: typeset.$headingFont !important; /* Changes font to Jost */
+    font-family: typeset.$headingFont !important;
+    /* Changes font to Jost */
 }
 
 .smallcap {
-    font-variant: small-caps !important; /* Make font smallcaps so it looks different than the rest */
+    font-variant: small-caps !important;
+    /* Make font smallcaps so it looks different than the rest */
 }
 
 .d20 {
     @extend .em;
     @extend .smallcap;
-    
-    font-size: typeset.$defaultFontSize * 1.05; /* Make text slightly bigger to take account for Small Caps */
-    letter-spacing: typeset.$defaultFontSize * 0.04 !important; /* Wider letterspacing for easier read */
+
+    font-size: typeset.$defaultFontSize * 1.05;
+    /* Make text slightly bigger to take account for Small Caps */
+    letter-spacing: typeset.$defaultFontSize * 0.04 !important;
+    /* Wider letterspacing for easier read */
 
     @media screen and (max-width: 768px) {
-        font-size: typeset.$defaultFontSize * 0.9 !important; /* Make Font Size Smaller for mobile devices */
+        font-size: typeset.$defaultFontSize * 0.9 !important;
+        /* Make Font Size Smaller for mobile devices */
     }
 }
 
@@ -38,14 +45,16 @@
 
 .inl-test {
     font-size: typeset.$defaultFontSize * 1.05;
+    display: inline-block;
+    position: relative;
 
     &::before {
         content: '<';
         margin-right: 0.2em; // Optional spacing
-      }
-    
-      &::after {
+    }
+
+    &::after {
         content: '>';
         margin-left: 0.2em; // Optional spacing
-      }
+    }
 }
