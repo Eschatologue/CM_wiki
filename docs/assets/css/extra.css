@@ -63,7 +63,7 @@
 }
 .md-typeset h3 {
   font-size: 0.9375rem;
-  font-weight: 500;
+  font-weight: 550;
   letter-spacing: 0.0796875rem;
   margin: 0.6rem 0 0.2rem 0;
   border-bottom: 0.1275rem dotted var(--md-default-wht--025);
@@ -121,32 +121,23 @@
 /*------------------------------------------------------- 
     Text Emphasisation
 --------------------------------------------------------*/
-.em, .sc, .d20 {
+.em, .d20, .sc {
   color: hsla(0, 0%, 100%, 0.85); /* Make Text slightly brighter so its easier to see */
   white-space: nowrap; /* Prevent selected block to split on smaller screen sizes, used in conjuction with icons */
   font-weight: 550 !important; /* Bold */
 }
 
-.d20 {
-  font-size: 0.7875rem; /* Make text slightly bigger to take account for Small Caps */
-  letter-spacing: 0.03rem !important; /* Wider letterspacing for easier read */
-  font-variant: small-caps !important; /* Make font smallcaps so it looks different than the rest */
-}
-@media screen and (max-width: 768px) {
-  .d20 {
-    font-size: 0.675rem !important; /* Make Font Size Smaller for mobile devices */
-  }
+.jost, .sc {
+  font-family: "Jost", sans-serif !important; /* Changes font to Jost */
 }
 
-.sc { /* Used for Inline Subheading */
-  /* Uses .em so no repetion */
-  font-family: "Jost", sans-serif !important; /* Changes font to Jost */
+.d20, .sc {
   font-size: 0.7875rem; /* Make text slightly bigger to take account for Small Caps */
   letter-spacing: 0.03rem !important; /* Wider letterspacing for easier read */
   font-variant: small-caps !important; /* Make font smallcaps so it looks different than the rest */
 }
 @media screen and (max-width: 768px) {
-  .sc {
+  .d20, .sc {
     font-size: 0.675rem !important; /* Make Font Size Smaller for mobile devices */
   }
 }
