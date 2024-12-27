@@ -121,26 +121,33 @@
     Text Emphasisation
 --------------------------------------------------------*/
 .em, .inl, .d20 {
-  color: var(--md-gbl-text-color-strong); /* Make Text slightly brighter so its easier to see */
-  white-space: nowrap; /* Prevent selected block to split on smaller screen sizes, used in conjuction with icons */
+  color: var(--md-gbl-text-color-strong);
+  /* Make Text slightly brighter so its easier to see */
+  white-space: nowrap;
+  /* Prevent selected block to split on smaller screen sizes, used in conjuction with icons */
   font-weight: 550 !important;
 }
 
 .jost {
-  font-family: "Jost", sans-serif !important; /* Changes font to Jost */
+  font-family: "Jost", sans-serif !important;
+  /* Changes font to Jost */
 }
 
 .smallcap, .d20 {
-  font-variant: small-caps !important; /* Make font smallcaps so it looks different than the rest */
+  font-variant: small-caps !important;
+  /* Make font smallcaps so it looks different than the rest */
 }
 
 .d20 {
-  font-size: 0.7875rem; /* Make text slightly bigger to take account for Small Caps */
-  letter-spacing: 0.03rem !important; /* Wider letterspacing for easier read */
+  font-size: 0.7875rem;
+  /* Make text slightly bigger to take account for Small Caps */
+  letter-spacing: 0.03rem !important;
+  /* Wider letterspacing for easier read */
 }
 @media screen and (max-width: 768px) {
   .d20 {
-    font-size: 0.675rem !important; /* Make Font Size Smaller for mobile devices */
+    font-size: 0.675rem !important;
+    /* Make Font Size Smaller for mobile devices */
   }
 }
 
@@ -150,6 +157,8 @@
 
 .inl-test {
   font-size: 0.7875rem;
+  display: inline-block;
+  position: relative;
 }
 .inl-test::before {
   content: "<";
