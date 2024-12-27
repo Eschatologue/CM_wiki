@@ -1,11 +1,11 @@
-/*------------------------------------------------------- 
-    Monster Statblock
---------------------------------------------------------*/
-
 @use "sass:color";
 @use "../utility/convert";
 @use "./admonition";
 @use "./table";
+
+/*------------------------------------------------------- 
+    Monster Statblock
+--------------------------------------------------------*/
 
 .md-typeset {
     $colorAdmonition_statblock: convert.hex3hsl(#ffb624);
