@@ -141,10 +141,11 @@
   margin-left: 0.1em;
 }
 
-/* Damage Types */
+/* Damage-type Dynamic Class Generati0n */
 /* Damage type: acid */
 .dmg-acid {
   color: hsl(88, 50%, 67%);
+  white-space: nowrap;
   font-weight: 400 !important;
   font-style: none !important;
 }
@@ -152,6 +153,7 @@
 /* Damage type: cold */
 .dmg-cold {
   color: hsl(199, 91%, 64%);
+  white-space: nowrap;
   font-weight: 400 !important;
   font-style: none !important;
 }
@@ -159,6 +161,7 @@
 /* Damage type: fire */
 .dmg-fire {
   color: hsl(30, 100%, 63%);
+  white-space: nowrap;
   font-weight: 400 !important;
   font-style: none !important;
 }
@@ -166,6 +169,7 @@
 /* Damage type: posn */
 .dmg-posn {
   color: hsl(123, 38%, 57%);
+  white-space: nowrap;
   font-weight: 400 !important;
   font-style: none !important;
 }
@@ -173,6 +177,7 @@
 /* Damage type: thun */
 .dmg-thun {
   color: hsl(265, 57%, 64%);
+  white-space: nowrap;
   font-weight: 400 !important;
   font-style: none !important;
 }
@@ -180,6 +185,7 @@
 /* Damage type: psyc */
 .dmg-psyc {
   color: hsl(328, 71%, 61%);
+  white-space: nowrap;
   font-weight: 400 !important;
   font-style: none !important;
 }
@@ -187,6 +193,7 @@
 /* Damage type: lgtn */
 .dmg-lgtn {
   color: hsl(203, 53%, 56%);
+  white-space: nowrap;
   font-weight: 400 !important;
   font-style: none !important;
 }
@@ -194,6 +201,7 @@
 /* Damage type: necr */
 .dmg-necr {
   color: hsl(174, 42%, 51%);
+  white-space: nowrap;
   font-weight: 400 !important;
   font-style: none !important;
 }
@@ -201,6 +209,7 @@
 /* Damage type: radi */
 .dmg-radi {
   color: hsl(54, 100%, 62%);
+  white-space: nowrap;
   font-weight: 400 !important;
   font-style: none !important;
 }
@@ -208,6 +217,7 @@
 /* Damage type: force */
 .dmg-force {
   color: hsl(4, 100%, 71%);
+  white-space: nowrap;
   font-weight: 400 !important;
   font-style: none !important;
 }
@@ -215,6 +225,7 @@
 /* Damage type: phsy */
 .dmg-phsy {
   color: hsl(200, 15%, 73%);
+  white-space: nowrap;
   font-weight: 400 !important;
   font-style: none !important;
 }
