@@ -92,7 +92,7 @@ On a grid, each square represents 5 feet. A character with 30 feet of movement s
 
 #### Speed
 
-Rather than moving foot by foot, move square by square on the Grid using your Speed in 5-foot segments. You can translate your Speed into squares by dividing it by 5. For example, a Speed of 30 feet translate into 6 squuares. Consider writing your Speed in sqyares on your character sheet
+Rather than moving foot by foot, move square by square on the Grid using your **:rsc-spd: Speed**{ .rsc } in 5-foot segments. You can translate your **:rsc-spd: Speed**{ .rsc } into squares by dividing it by 5. For example, a Speed of 30 feet translate into 6 squuares. Consider writing your **:rsc-spd: Speed**{ .rsc } in sqyares on your character sheet
 
 #### Entering a Square
 
@@ -208,7 +208,7 @@ A willing creature that is at least one size larger than a rider and that has an
 
 ### Mounting and Dismounting
 
-During your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of movement equal to half your Speed (round down). For example, if your Speed is 30 feet, you spend 15 feet of movement to mount a horse.
+During your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of movement equal to half your **:rsc-spd: Speed**{ .rsc } (round down). For example, if your **:rsc-spd: Speed**{ .rsc } is 30 feet, you spend 15 feet of movement to mount a horse.
 
 ### Controlling a Mount
 

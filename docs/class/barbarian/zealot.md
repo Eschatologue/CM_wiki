@@ -38,9 +38,9 @@ Once you use this feature, you can't use it again until you finish a Long Rest. 
 
 When you activate tyour Rage, you can assume the form of a divine warrior. This form lasts for 1 minute or until you drop to 0 Hit Points. Once you use this feature, you can't do so again until you finish a Long Rest.
 
-***Fly Speed.*** You have a Fly Speed equal to your Speed and can hover.
+***Fly Speed.*** You have a Fly Speed equal to your **:rsc-spd: Speed**{ .rsc } and can hover.
 
-***Resistance.*** You have :dmg-res: Resistance to :dmg-necr: Necrotic, :dmg-psyc: Psychic and :dmg-radi: Radiant damage
+***Resistance.*** You have **:dmg-res: Resistance**{ .em } to :dmg-necr: Necrotic, :dmg-psyc: Psychic and :dmg-radi: Radiant damage
 
 ***Revification.*** When a creature within 30 feet of you would drop to 0 Hit Points, you can take a :rscr-r: Reaction to expend a use of your Rage to instead change the target's hit point to a number equal to your Barbarian level.
 

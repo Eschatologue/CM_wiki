@@ -55,7 +55,7 @@ You are an expert at navigating the urban labyrinth as well as the wilds. You ga
 
 ### Wasteland Wanderer
 
-You have spent endless days surviving desolate wastelands. Choose one of the following damage types: :dmg-cold: Cold, :dmg-fire: Fire, :dmg-lgtn: Lightning, or :dmg-posn: Poison. You gain :dmg-res: Resistance to the chosen damage type. 
+You have spent endless days surviving desolate wastelands. Choose one of the following damage types: :dmg-cold: Cold, :dmg-fire: Fire, :dmg-lgtn: Lightning, or :dmg-posn: Poison. You gain **:dmg-res: Resistance**{ .em } to the chosen damage type. 
 
 ***Repeatable.*** You can choose this Aptitude again, choosing different damage type each time.
 
@@ -163,7 +163,7 @@ You can't have **:d20-disadv: Disadvantage**{ .d20 } on attack rolls against any
 
 _**Prerequisite:** Level 6+ Ranger_
 
-Choose one of the following damage types: :dmg-force: Force, :dmg-necr: Necrotic, :dmg-psyc: Psychic, or :dmg-radi: Radiant. You gain :dmg-res: Resistance to the chosen damage type. 
+Choose one of the following damage types: :dmg-force: Force, :dmg-necr: Necrotic, :dmg-psyc: Psychic, or :dmg-radi: Radiant. You gain **:dmg-res: Resistance**{ .em } to the chosen damage type. 
 
 ***Repeatable.*** You can choose this Aptitude again, choosing different damage type each time.
 

@@ -28,7 +28,7 @@ As a :rsc-b: Bonus Action, you can expend one use of your Channel Divinity to be
 
 Duelists are under the following effects:
 
-***Resistance.*** Duelists have :dmg-res: Resistance to all damage from creatures, except for the other Duelist. 
+***Resistance.*** Duelists have **:dmg-res: Resistance**{ .em } to all damage from creatures, except for the other Duelist. 
 
 ***Limited Targeting.*** Duelists can only target each other with attacks, spells, and other features during this Sacred Duel.
 

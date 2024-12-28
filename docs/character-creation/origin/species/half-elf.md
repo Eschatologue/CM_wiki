@@ -52,7 +52,7 @@ Choose a lineage from the Elven Lineages table to gain its level 1 benefit. At l
 |---|---|---|---|
 | Drow | The range of your Darkvision increases to 120 feet. <br>You also know the *Dancing Lights* cantrip. | *Faerie Fire* | *Darkness* |
 | High Elf | You know the *Prestidigitation* cantrip. Can :material-reload: Replace on Long Rest with another Wizard's cantrip. | *Detect Magic* | *Misty Step* |
-| Wood Elf | Your :rsc-spd: Speed increases to 35 feet. <br>You also know the *Druidcraft* cantrip. | *Longstrider* | *Pass without Trace* |
+| Wood Elf | Your **:rsc-spd: Speed**{ .rsc } increases to 35 feet. <br>You also know the *Druidcraft* cantrip. | *Longstrider* | *Pass without Trace* |
 
 ### Human Traits
 

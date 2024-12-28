@@ -180,7 +180,7 @@ When you cast [:spell-lv1: Find Familiar], you infuse the summoned familiar with
 
 ***Your Save DC.*** If the familiar forces a creature to make a saving throw, it uses your spell save DC.
 
-***Resistance.*** When the familiar takes damage, you can take a :rsc-r: Reaction to grant it :dmg-res: Resistance against that damage.
+***Resistance.*** When the familiar takes damage, you can take a :rsc-r: Reaction to grant it **:dmg-res: Resistance**{ .em } against that damage.
 
 ---
 

@@ -95,13 +95,13 @@ These Mastery property are homebrew.
 
     **Prerequisite:** :dmg-bldg: Bludgeoning Melee weapon or Ranged weapon with :weapon-prop-heavy: **Heavy** property
 
-    If you hit a creature with this weapon, you can choose to deal only half damage and make the target's :rsc-spd: Speed becomes 0 until the start of your next turn.
+    If you hit a creature with this weapon, you can choose to deal only half damage and make the target's **:rsc-spd: Speed**{ .rsc } becomes 0 until the start of your next turn.
 
 - ### Brace
 
     **Prerequisite:** :weapon-prop-heavy: **Heavy** or :weapon-prop-versatile: **Versatile** property
 
-    When you make an attack with this weapon, you can expend half of your total :rsc-spd: Speed. On hit, you roll the weapon damage dice twice and you can use either result. If the attack misses, your :rsc-spd: Speed isn't reduced. 
+    When you make an attack with this weapon, you can expend half of your total :rsc-spd: Speed. On hit, you roll the weapon damage dice twice and you can use either result. If the attack misses, your **:rsc-spd: Speed**{ .rsc } isn't reduced. 
 
 </div>
 

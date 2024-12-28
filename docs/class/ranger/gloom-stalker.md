@@ -16,7 +16,7 @@ Gloom Stalkers are at home in the darkest places, wielding magic drawn from the 
 
 You have mastered the art of creating frightening ambushes, granting you the following benefits:
 
-***Ambusher's Leap.*** At the start of the first turn of each combat, your Speed increases by 30 feet until the end of that turn.
+***Ambusher's Leap.*** At the start of the first turn of each combat, your **:rsc-spd: Speed**{ .rsc } increases by 30 feet until the end of that turn.
 
 ***Frighten.*** When you attack a creature and hit it with a weapon, you can deal an extra 2d6 Psychic damage. You can use this benefit only once per turn, you can use it a number of times equal a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 

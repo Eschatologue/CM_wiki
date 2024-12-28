@@ -130,7 +130,7 @@ You can take the Dash action as a :rsc-b: Bonus Action. Alternatively, you can e
 
 ### Level 2: Unarmoured Movement
 
-Your :rsc-spd: Speed increases by 10 feet while you aren't wearing armour or wielding a Shield. This bonus increases when you reach certain Monk levels, as shown on the Monk Features table.
+Your **:rsc-spd: Speed**{ .rsc } increases by 10 feet while you aren't wearing armour or wielding a Shield. This bonus increases when you reach certain Monk levels, as shown on the Monk Features table.
 
 ### Level 2: Uncanny Metabolism
 
@@ -210,7 +210,7 @@ When you roll Initiative and don't use Uncanny Metabolism, you regain expended :
 
 ### Level 18: Superior Defense
 
-At the start of your turn, you can expend 3 :class-phb24-monk: **Focus Points** to bolster yourself against harm for 1 minute or until you have the Incapacitated condition. During that time, you have :dmg-res: Resistance to all damage except :dmg-force: Force damage.
+At the start of your turn, you can expend 3 :class-phb24-monk: **Focus Points** to bolster yourself against harm for 1 minute or until you have the Incapacitated condition. During that time, you have **:dmg-res: Resistance**{ .em } to all damage except :dmg-force: Force damage.
 
 ### Level 19: Epic Boon
 

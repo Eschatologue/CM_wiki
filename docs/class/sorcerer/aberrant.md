@@ -45,7 +45,7 @@ You can unleash the aberrant truth hidden within yourself. As a Bonus Action, yo
 
 ***Aquatic Adaptation.*** You gain a Swim Speed equal to twice your Speed, and you can breathe underwater. Moreover, gills grow from your neck or fan out from behind your ears, your fingers become webbed, or you grow writhing cilia that extend through your clothing.
 
-***Glistening Flight.***  You gain a Fly Speed equal to your Speed and can hover. As you fly, your skin glistens with mucus or shines with an otherworldly light.
+***Glistening Flight.***  You gain a Fly Speed equal to your **:rsc-spd: Speed**{ .rsc } and can hover. As you fly, your skin glistens with mucus or shines with an otherworldly light.
 
 ***See the Invisible.*** You can see any invisible creature within 60 feet of you, provided it isn't behind total cover. Your eyes also turn black or become writhing sensory tendrils.
 

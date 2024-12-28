@@ -59,7 +59,7 @@ Advanced Firearms Table include rocket launchers, machine guns, and other large,
 
 | Advanced Firearms | damage | properties | mastery | weight | cost |
 |---|---|---|:-:|:-:|--:|
-| *Rocket Launcher* | 8d6 :dmg-fire: Fire | Ammunition (:weapon-prop-range: Range 120/360), Explosive (20ft. :aoe-sphere: Sphere), Heavy, Reload (1), Two-Handed | -- | XL. | 6,500 SP |
+| *Rocket Launcher* | **8d6 :dmg-fire: Fire**{ .dmg-fire } | Ammunition (:weapon-prop-range: Range 120/360), Explosive (20ft. :aoe-sphere: Sphere), Heavy, Reload (1), Two-Handed | -- | XL. | 6,500 SP |
 | *Grenade Launcher* | 1 :dmg-bldg: Bludgeoning | Ammunition (:weapon-prop-range: Range 120; [Grenade](../consumeables/grenade.md)), Heavy, Loading | -- | M. | 4,500 SP |
 
 ##### Ammunitions

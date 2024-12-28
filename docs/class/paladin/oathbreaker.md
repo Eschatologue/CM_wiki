@@ -48,7 +48,7 @@ Your presence weakens your enemies who dare attempt to escape your wrath. When a
 
 ### Level 15: Unholy Resistance
 
-Unholy magic courses through you. You have :dmg-res: Resistance to :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing and :dmg-slsh: Slashing damage.
+Unholy magic courses through you. You have **:dmg-res: Resistance**{ .em } to :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing and :dmg-slsh: Slashing damage.
 
 ### Level 20: Dread Lord
 

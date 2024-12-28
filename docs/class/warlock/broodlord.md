@@ -32,9 +32,9 @@ This feature lasts for 1 minute or until you end it early (no action required). 
 
 ### Level 6: Venomous Gift
 
-Your patron's lethal poison courses through your magic. When you cast a spell that deals :dmg-posn: Poison damage, it ignores :dmg-res: Resistance to :dmg-posn: Poison damage and you can add your Charisma modifier to one damage roll of that spell against one of its targets
+Your patron's lethal poison courses through your magic. When you cast a spell that deals :dmg-posn: Poison damage, it ignores **:dmg-res: Resistance**{ .em } to :dmg-posn: Poison damage and you can add your Charisma modifier to one damage roll of that spell against one of its targets
 
-Additionally, You have :dmg-res: Resistance to :dmg-posn: Poison damage and you have :dmg-imm: Immunity to the Poisoned condition.
+Additionally, You have **:dmg-res: Resistance**{ .em } to :dmg-posn: Poison damage and you have :dmg-imm: Immunity to the Poisoned condition.
 
 ### Level 10: Protect the Hive
 

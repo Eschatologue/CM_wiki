@@ -22,7 +22,7 @@ You are descended from Giants. Choose one of the following benefits-a supernatur
 As a Bonus Action, you magically teleport up to 30 feet to an unoccupied space you can see.
 
 ***Fire's Burn (Fire Giant)***  
-When you hit a target with an attack roll and deal damage to it, you can also deal 1d10 :dmg-fire: Fire damage to that target.
+When you hit a target with an attack roll and deal damage to it, you can also deal **1d10 :dmg-fire: Fire**{ .dmg-fire } damage to that target.
 
 ***Frost's Chill (Frost Giant)***  
 When you hit a target with an attack roll and deal damage to it, you can give that target the Prone condition.
@@ -35,7 +35,7 @@ When you take damage from a creature within 60 feet of you, you can take a React
 
 ### Large Form
 
-Starting at character level 5, you can change your size to Large as a Bonus Action if you're in big enough space. This transformation lasts for 10 minutes or until you end it (no action required). For that duration, you have Advantage on Strength checks, and your Speed increases by 10 feet. Once you use this trait, you can't use it again until you finish a Long Rest.
+Starting at character level 5, you can change your size to Large as a Bonus Action if you're in big enough space. This transformation lasts for 10 minutes or until you end it (no action required). For that duration, you have Advantage on Strength checks, and your **:rsc-spd: Speed**{ .rsc } increases by 10 feet. Once you use this trait, you can't use it again until you finish a Long Rest.
 
 ### Powerful Build
 

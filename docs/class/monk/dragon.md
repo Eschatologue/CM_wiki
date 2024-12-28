@@ -43,7 +43,7 @@ As a :rsc-b: Bonus Action, you can create an Emanation of draconic power that ra
 
 ***Frightful Presence.*** When you create the Emanation and as a :rsc-b: Bonus Action on subsequent turns, you can choose a creature within the Emanation. The target must succeed on a Wisdom save against your Focus save DC or have the Frightened condition for 1 minute. The target can repeat its saving throw at the end of each of its turns, ending the effect on itself on a successful save.
 
-***Resistance***. Choose a damage type when you activate the Emanation: :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-lgtn: Lightning, or :dmg-posn: Poison. You and your allies within the Emanation have :dmg-res: Resistance to that damage type.
+***Resistance***. Choose a damage type when you activate the Emanation: :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-lgtn: Lightning, or :dmg-posn: Poison. You and your allies within the Emanation have **:dmg-res: Resistance**{ .em } to that damage type.
 
 Once you create the Emanation, you can't create it again until you finish a Long Rest, unless you expend 3 :class-phb24-monk: **Focus Points** to create it again.
 

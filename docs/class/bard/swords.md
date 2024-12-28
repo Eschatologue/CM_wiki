@@ -35,7 +35,7 @@ Whenever you take the Attack action on your turn, your walking speed increases b
 
 ***Slashing Flourish.*** You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit and to any number of other creatures of your choice that you can see within 5 feet of you. The damage equals the number you roll on the Bardic Inspiration die.
 
-***Mobile Flourish.*** You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit. The damage equals the number you roll on the Bardic Inspiration die. You can also push the target up to a number of feet equal to three times the number you roll on that die, rounded to the nearest 5 foot increment. You can then immediately take a Reaction to move up to your Speed to an unoccupied space within 5 feet of the target.
+***Mobile Flourish.*** You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit. The damage equals the number you roll on the Bardic Inspiration die. You can also push the target up to a number of feet equal to three times the number you roll on that die, rounded to the nearest 5 foot increment. You can then immediately take a Reaction to move up to your **:rsc-spd: Speed**{ .rsc } to an unoccupied space within 5 feet of the target.
 
 ### Level 6: Extra Attack
 

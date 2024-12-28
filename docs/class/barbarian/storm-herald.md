@@ -29,15 +29,15 @@ While your Rage is active, a storm whips around you in a 10 foot Emanation. As p
 
 The storm grants you benefits even when your Storm Aura isn't active. Whenever you finish a Short or Long Rest choose one of the following effects, which lasts until you finish your next Short or Long Rest:
 
-***Desert.*** You have :dmg-res: Resistance to :dmg-fire: Fire damage and you don't suffer effects caused by extreme heat, and as an action you can touch a flammable object that isn't being worn or carried by anyone else and set it on fire.
+***Desert.*** You have **:dmg-res: Resistance**{ .em } to :dmg-fire: Fire damage and you don't suffer effects caused by extreme heat, and as an action you can touch a flammable object that isn't being worn or carried by anyone else and set it on fire.
 
-***Sea.*** You have :dmg-res: Resistance to :dmg-lgtn: Lightning damage, you can breathe underwater, and you have a Swim Speed equal to your Speed.
+***Sea.*** You have **:dmg-res: Resistance**{ .em } to :dmg-lgtn: Lightning damage, you can breathe underwater, and you have a Swim Speed equal to your Speed.
 
-***Tundra.*** You have :dmg-res: Resistance to :dmg-cold: Cold damage and you don't suffer effects caused by extreme cold, and as an action you can touch a 5-foot Cube of water and turn it into ice, which melts after 1 minute. This action fails if a creature is in the Cube.
+***Tundra.*** You have **:dmg-res: Resistance**{ .em } to :dmg-cold: Cold damage and you don't suffer effects caused by extreme cold, and as an action you can touch a 5-foot Cube of water and turn it into ice, which melts after 1 minute. This action fails if a creature is in the Cube.
 
 ### Level 10: Shielding Storm
 
-You learn to use your mastery of the storm to protect others. Each creature of your choice has :dmg-res: Resistance to the damage type of your Storm Soul feature while it is within your Storm Aura.
+You learn to use your mastery of the storm to protect others. Each creature of your choice has **:dmg-res: Resistance**{ .em } to the damage type of your Storm Soul feature while it is within your Storm Aura.
 
 ### Level 14: Raging Storm
 

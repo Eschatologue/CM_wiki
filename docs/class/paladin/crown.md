@@ -57,7 +57,7 @@ You are an unstoppable force for your cause. You have :dmg-imm: Immunity to the 
 
 Your presence on the field of battle is an inspiration to those dedicated to your cause. As a :rsc-b: Bonus Action, you can gain the following benefits for 10 minutes:
 
-***Damage Resistance.*** You have :dmg-res: Resistance to :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing and :dmg-slsh: Slashing damage.
+***Damage Resistance.*** You have **:dmg-res: Resistance**{ .em } to :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing and :dmg-slsh: Slashing damage.
 
 ***Regal Presence.*** When a creature starts its turn within 10 feet of you, you can force it to make a Wisdom saving throw against your spell save DC. On a failed save, it takes 10 :dmg-psyc: Psychic damage and has the ^^Prone^^ condition and cannot stand up. At the end of each of its turns, the creature can repeat this save, ending the effect preventing it from removing the ^^Prone^^ condition from itself on a successful save, and taking 10 :dmg-psyc: Psychic damage on a failed save.
 

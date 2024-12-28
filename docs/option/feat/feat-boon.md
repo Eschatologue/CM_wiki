@@ -143,7 +143,7 @@ Increase one ability score of your choice by 1, to a maximum of 30.
 As a Bonus Action, you can take the Disengage action, which also ends the Grappled condition on you.
 
 ***Quickness***  
-Your Speed increases by 30 feet.
+Your **:rsc-spd: Speed**{ .rsc } increases by 30 feet.
 
 ---
 

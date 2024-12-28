@@ -66,7 +66,7 @@ You can use your Breath Weapon a number of times equal to your Proficiency Bonus
 
 ### Resistances
 
-You have :dmg-res: Resistance to the damage type determined by your *Draconic Ancestry* trait.
+You have **:dmg-res: Resistance**{ .em } to the damage type determined by your *Draconic Ancestry* trait.
 
 ### Draconic Flight
 

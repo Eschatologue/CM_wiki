@@ -41,7 +41,7 @@ When you activate your Rage, you can choose one of the following benefits:
   
 ***Temporary Hit Points.*** You gain a number of Temporary Hit Points equal to one roll of your Superiority Die.
  
-***Improved Speed.*** Opportunity Attack against you have **:d20-disadv: Disadvantage**{ .d20 } and your :rsc-spd: Speed is doubled for your current turn.
+***Improved Speed.*** Opportunity Attack against you have **:d20-disadv: Disadvantage**{ .d20 } and your **:rsc-spd: Speed**{ .rsc } is doubled for your current turn.
 
 ### Level 6: Improved Superiority
 
@@ -51,7 +51,7 @@ You gain one additional Superiority Die (Four total) and all your Superiority Di
 
 Your seething fury is unstopable. You gain the following benefits:
 
-***Freedom of Movement.*** While your Rage is active, your movement is unaffected by Difficult Terrain, and spells and other magical effects can neither reduce your Speed nor cause you to have the Paralyzed or Restrained conditions.
+***Freedom of Movement.*** While your Rage is active, your movement is unaffected by Difficult Terrain, and spells and other magical effects can neither reduce your **:rsc-spd: Speed**{ .rsc } nor cause you to have the Paralyzed or Restrained conditions.
 
 ***More Manoeuvre.*** You learn one additional Combat Manoeuvre of your choice.
 

@@ -16,7 +16,7 @@ As an Aasimar, you have these following traits.
 
 ### Celestial Resistance
 
-You have :dmg-res: Resistance to **:dmg-necr: Necrotic**{ .dmg-necr } damage and **:dmg-radi: Radiant**{ .dmg-radi } damage.
+You have **:dmg-res: Resistance**{ .em } to **:dmg-necr: Necrotic**{ .dmg-necr } damage and **:dmg-radi: Radiant**{ .dmg-radi } damage.
 
 ### Darkvision
 

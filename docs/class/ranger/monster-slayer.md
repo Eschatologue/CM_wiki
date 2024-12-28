@@ -35,7 +35,7 @@ Your [:spell-lv1: Hunter's Mark] spell improves in the following ways:
 
 ***Slayer's Strike.*** Once per turn when you deal the extra damage of your Hunter's Mark, the damage increases by 1d6.
 
-***Hunter's Sense.*** When you mark a creature, you immediately learn whether it has any damage :dmg-imm: Immunities, :dmg-res: Resistances, or :dmg-vul: Vulnerabilities and what they are. If the creature is hidden from Divination magic, you sense that it has no damage :dmg-imm: Immunities, :dmg-res: Resistances, or :dmg-vul: Vulnerabilities.
+***Hunter's Sense.*** When you mark a creature, you immediately learn whether it has any damage :dmg-imm: Immunities, **:dmg-res: Resistance**{ .em }s, or :dmg-vul: Vulnerabilities and what they are. If the creature is hidden from Divination magic, you sense that it has no damage :dmg-imm: Immunities, **:dmg-res: Resistance**{ .em }s, or :dmg-vul: Vulnerabilities.
 
 ### Level 3: Slayer's Cunning
 
@@ -51,7 +51,7 @@ Whenever the target of your [:spell-lv1: Hunter's Mark] forces you to make a, ab
 
 Your [:spell-lv1: Hunter's Mark] spell improves in the following ways:
 
-***Bypass.*** Your attacks Weapon attack and Unarmed Strike against the spell's target ignores the target's :dmg-res: Resistance, and :dmg-imm: Immunity is treated as :dmg-res: Resistance.
+***Bypass.*** Your attacks Weapon attack and Unarmed Strike against the spell's target ignores the target's **:dmg-res: Resistance**{ .em }, and :dmg-imm: Immunity is treated as **:dmg-res: Resistance**{ .em }.
 
 ***Slayer's Strike Improvement.*** The extra damage of your Slayer's Strike increases to 2d6.
 

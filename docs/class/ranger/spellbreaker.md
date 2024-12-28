@@ -57,7 +57,7 @@ Moreover, when you cast [:spell-lv3: Dispel Magic] or [:spell-lv3: Counterspell]
 
 ### Level 15: Mantle of the Master
 
-Your Spellbreaker training has reached its pinnacle. You have :dmg-res: Resistance to damage from spells and all other magical effects so long you don't have the Unconscious or Incapacitated condition.
+Your Spellbreaker training has reached its pinnacle. You have **:dmg-res: Resistance**{ .em } to damage from spells and all other magical effects so long you don't have the Unconscious or Incapacitated condition.
 
 ### Level 15: Reflect Spell
 

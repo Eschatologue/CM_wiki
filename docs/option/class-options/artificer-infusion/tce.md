@@ -238,7 +238,7 @@ The shield has 4 charges. While holding it, the wielder can use a reaction immed
 
 _**Prerequisite:** Level 6+, **Item:** A suit of Armour (requires attunement)_
 
-While wearing this armour, a creature has :dmg-res: Resistance to one of the following damage types, which you choose when you infuse the item: Acid, Cold, Fire, Force, Lightning, Necrotic, Poison, Psychic, Radiant, or Thunder.
+While wearing this armour, a creature has **:dmg-res: Resistance**{ .em } to one of the following damage types, which you choose when you infuse the item: Acid, Cold, Fire, Force, Lightning, Necrotic, Poison, Psychic, Radiant, or Thunder.
 
 ---
 
@@ -264,7 +264,7 @@ _**Prerequisite:** Level 14+, **Item:** A suit of Armour (requires attunement)_
 
 The wearer of this armour gains these benefits:
 
-***Speed Increase.*** The wearer's :rsc-spd: Speed increases by 5 feet.
+***Speed Increase.*** The wearer's **:rsc-spd: Speed**{ .rsc } increases by 5 feet.
 
 ***Power Gauntlet.*** The armour includes gauntlets, each of which is a melee weapon that can be wielded only when the hand is holding nothing. The wearer is proficient with the gauntlets. The Gauntlets has traits as described in the Power Gauntlet table.
 

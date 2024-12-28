@@ -51,7 +51,7 @@ Here are the most common uses of dice in D&D.
 
 In D&D, the twenty-sided die (:die-d20: d20) is central to the game's mechanics, determining the success or failure of a wide range of actions. Whenever a creature attempts an action with a chance of failure, it rolls a d20 and adds any applicable modifiers. The result is compared to a target number to see if the attempt succeeds.
 
-The term d20 Test encompasses the three main d20 rolls of the game: attack rolls - which are rolled against the target's **Armour Class** (**AC**), :d20-check:**Ability Check** - which are rolled against the check's Difficulty Class (DC), and :d20-save:**Saving Throws** - which are rolled against a save DC.
+The term d20 Test encompasses the three main d20 rolls of the game: attack rolls - which are rolled against the target's **Armour Class** (**AC**), :d20-check: **Ability Check** - which are rolled against the check's Difficulty Class (DC), and :d20-save: **Saving Throws** - which are rolled against a save DC.
 
 ### Damage
 

@@ -181,7 +181,7 @@ You can attack twice instead of once whenever you take the Attack action on your
 
 ### Level 6: Roving
 
-Your :rsc-spd: Speed increases by 10 feet while you aren't wearing Heavy armour. You also have a Climb Speed and a Swim Speed equal to your :rsc-spd: Speed.
+Your **:rsc-spd: Speed**{ .rsc } increases by 10 feet while you aren't wearing Heavy armour. You also have a Climb Speed and a Swim Speed equal to your :rsc-spd: Speed.
 
 ### Level 9: Expertise
 

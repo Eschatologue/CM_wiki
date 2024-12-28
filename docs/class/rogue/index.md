@@ -130,7 +130,7 @@ You gain a Rogue subclass of your choice. A subclass is a specialization that gr
 
 ### Level 3: Steady Aim
 
-As a Bonus Action, you give yourself Advantage on your next attack roll on the current turn. You can use this feature only if you haven't moved during this turn, and after you use it, your Speed is 0 until the end of the current turn.
+As a Bonus Action, you give yourself Advantage on your next attack roll on the current turn. You can use this feature only if you haven't moved during this turn, and after you use it, your **:rsc-spd: Speed**{ .rsc } is 0 until the end of the current turn.
 
 ### Level 4: Ability Score Improvement
 
@@ -149,7 +149,7 @@ You add a toxin to your strike, forcing the target to make a Constitution saving
 If the target is Large or smaller, it must succeed on a Dexterity saving throw or have the Prone condition.
 
 ***Withdraw (Cost: 1d6)***  
-Immediately after the attack, you move up to half your Speed without provoking Opportunity Attacks.
+Immediately after the attack, you move up to half your **:rsc-spd: Speed**{ .rsc } without provoking Opportunity Attacks.
 
 ### Level 5: Uncanny Dodge
 

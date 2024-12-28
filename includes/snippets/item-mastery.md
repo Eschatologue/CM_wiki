@@ -8,7 +8,7 @@
 *[Vex]: On a hit, gain Advantage on your next attack against the same target before your next turn ends.
 
 *[Cripple]: Halve damage to make a creature's Speed 0 until your next turn.  
-*[Brace]: Sacrifice half your Speed to roll damage dice twice on a hit, with no Speed loss on a miss.  
+*[Brace]: Sacrifice half your **:rsc-spd: Speed**{ .rsc } to roll damage dice twice on a hit, with no Speed loss on a miss.  
 *[Tap]: Add your ability modifier to the damage of the second attack with an Automatic weapon.  
 *[Flex]: Deal Versatile damage with one-handed attacks using a Versatile weapon.  
 *[Rush]: Move in a straight line to a target and attack with Advantage without provoking Opportunity Attacks.  

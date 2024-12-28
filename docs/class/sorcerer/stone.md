@@ -56,7 +56,7 @@ When a creature with these Temporary Hit Points within 60 feet of you that you c
 
 *Your sorcerous magic is as hard as the bedrock of mountains.*
 
-When creatures have Stone Aegis' Temporary Hit Points, they have :dmg-res: Resistance to :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, and :dmg-slsh: Slashing damage. They also has :dmg-imm: Immunity to Forced Movement[^1].
+When creatures have Stone Aegis' Temporary Hit Points, they have **:dmg-res: Resistance**{ .em } to :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, and :dmg-slsh: Slashing damage. They also has :dmg-imm: Immunity to Forced Movement[^1].
 
 ### Level 18: Earth Master's Aegis
 

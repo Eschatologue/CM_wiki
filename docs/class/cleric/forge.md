@@ -42,7 +42,7 @@ You can use your :class-phb24-cleric: **Channel Divinity** to create nonmagical 
 
 ### Level 6: Soul of the Forge
 
-Your mastery of the forge grants you special abilities. You have :dmg-res: Resistance to :dmg-fire: Fire damage and while wearing metal armour, you have a +1 bonus to your Armour Class.
+Your mastery of the forge grants you special abilities. You have **:dmg-res: Resistance**{ .em } to :dmg-fire: Fire damage and while wearing metal armour, you have a +1 bonus to your Armour Class.
 
 ### Level 7: Burning Smite (Optional)
 
@@ -50,7 +50,7 @@ Whenever you use *[Divine Strike (Blessed Strike)](index.md#level-7-blesssed-str
 
 ### Level 17: Saint of Forge and Fire
 
-Your blessed affinity with fire and metal becomes more powerful. You have :dmg-imm: Immunity to :dmg-fire: Fire damage and while wearing metal armour, you have :dmg-res: Resistance to :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, and :dmg-slsh: Slashing damage.
+Your blessed affinity with fire and metal becomes more powerful. You have :dmg-imm: Immunity to :dmg-fire: Fire damage and while wearing metal armour, you have **:dmg-res: Resistance**{ .em } to :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, and :dmg-slsh: Slashing damage.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 

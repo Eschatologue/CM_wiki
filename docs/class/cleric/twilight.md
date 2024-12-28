@@ -46,7 +46,7 @@ You can use your :class-phb24-cleric: **Channel Divinity** to refresh your allie
 
 *You can draw on the mystical power of night to rise into the air.* 
 
-When you are in dim light or darkness you can use your Bonus Action to give yourself a Fly Speed equal to your Speed for 1 minute. You can do so as part of the same Bonus Action you use to activate Twilight Sanctuary.
+When you are in dim light or darkness you can use your Bonus Action to give yourself a Fly Speed equal to your **:rsc-spd: Speed**{ .rsc } for 1 minute. You can do so as part of the same Bonus Action you use to activate Twilight Sanctuary.
 
 You can use this feature a number of times equal to your Wisdom modifier and regain all expended uses when you finish a Long Rest.
 

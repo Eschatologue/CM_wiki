@@ -20,7 +20,7 @@ You can cast the [:spell-lv2: Beast Sense] and [:spell-lv1: Speak with Animals] 
 
 Your Rage taps into the primal power of animals. You gain one of the following options of your choice.
 
-***Bear.*** While your Rage is active, you have :dmg-res: Resistance to every damage type except :dmg-force: Force, :dmg-necr: Necrotic, :dmg-psyc: Psychic and :dmg-radi: Radiant.
+***Bear.*** While your Rage is active, you have **:dmg-res: Resistance**{ .em } to every damage type except :dmg-force: Force, :dmg-necr: Necrotic, :dmg-psyc: Psychic and :dmg-radi: Radiant.
 
 ***Eagle.*** When you activate your Rage, you can take the Disengage and Dash actions as part of that :rsc-b: Bonus Action, While your Rage is active, you can take a :rsc-b: Bonus Action to take both of those actions.
 

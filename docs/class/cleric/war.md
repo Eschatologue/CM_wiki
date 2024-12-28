@@ -41,6 +41,6 @@ You can expend one of your :class-phb24-cleric: **Channel Divinity** to cast [:s
 
 ### Level 17: Avatar of Battle
 
-You gain :dmg-res: Resistance to :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, and :dmg-slsh: Slashing damage.
+You gain **:dmg-res: Resistance**{ .em } to :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, and :dmg-slsh: Slashing damage.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"

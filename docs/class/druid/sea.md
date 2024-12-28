@@ -44,7 +44,7 @@ Your Wrath of the Sea confers two more benefits while active:
 
 ***Flight.*** You gain a Fly Speed equal to your Speed.
 
-***Resistance.*** You have :dmg-res: Resistance to :dmg-cold: Cold, :dmg-lgtn: Lightning, and :dmg-thun: Thunder damage.
+***Resistance.*** You have **:dmg-res: Resistance**{ .em } to :dmg-cold: Cold, :dmg-lgtn: Lightning, and :dmg-thun: Thunder damage.
 
 ### Level 14: Oceanic Gift
 
