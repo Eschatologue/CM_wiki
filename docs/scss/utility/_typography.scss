@@ -76,6 +76,6 @@ $damage-types: (
     .dmg-#{$type} {
         color: convert.hex3hsl($color);
         font-weight: 350;
-        font-style: none;
+        font-style: none !important;
     }
 }
