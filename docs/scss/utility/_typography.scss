@@ -55,7 +55,9 @@
     }
 }
 
-/* Damage Types */
+//-----------------------------------------------------//
+
+/* Damage-type Dynamic Class Generati0n */
 
 $damage-types: (
     acid: #AED581,
@@ -75,6 +77,7 @@ $damage-types: (
     /* Damage type: #{$type} */
     .dmg-#{$type} {
         color: convert.hex3hsl($color);
+        white-space: nowrap;
         font-weight: 400 !important;
         font-style: none !important;
     }

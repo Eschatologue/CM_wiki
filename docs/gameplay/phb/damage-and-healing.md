@@ -47,48 +47,54 @@ Each instance of damage has a type, like Fire or Slashing as defined in the Dama
     |symbol| Name |description|
     |:-:|:--|:--|
     |:dmg-bldg:{ .xxl }| **Bludgeoning** | Damage from blunt force, such as from clubs, hammers, or falling. This type of damage crushes bones and armour. |
-    |:dmg-prcg:{ .xxl }| **Piercing**| Damage from pointed weapons, such as arrows, spears, or teeth. This type of damage punctures and penetrates flesh and armour. |
-    |:dmg-slsh:{ .xxl }|**Slashing**| Damage from edged weapons, such as swords, axes, or claws. This type of damage cuts and slices through flesh and armour. |
+    |:dmg-prcg:{ .xxl }| **Piercing** | Damage from pointed weapons, such as arrows, spears, or teeth. This type of damage punctures and penetrates flesh and armour. |
+    |:dmg-slsh:{ .xxl }|**Slashing** | Damage from edged weapons, such as swords, axes, or claws. This type of damage cuts and slices through flesh and armour. |
 
 === "Elemental Damage"
 
     |symbol| name |description|
     |:-:|:--|:--|
-    |:dmg-acid:{ .xxl }| **Acid**| Damage from corrosive substances that can eat through materials and flesh. Acid damage can dissolve objects and inflict severe burns. |
-    |:dmg-cold:{ .xxl }| **Cold**| Damage from extreme cold, such as ice and freezing temperatures. Cold damage can freeze enemies, slow movements, and cause frostbite. |
-    |:dmg-fire:{ .xxl }| **Fire**| Damage from flames and intense heat. Fire damage can ignite objects, cause burns, and spread rapidly. |
-    |:dmg-lgtn:{ .xxl }| **Lightning**| Damage from electrical energy, such as a lightning bolt. Lightning damage can shock, paralyze, and cause severe burns. |
-    |:dmg-posn:{ .xxl }| **Poison** | Damage from toxic substances, which can also inflict various conditions. Poison damage can cause illness, weakness, and death over time. |
-    |:dmg-thun:{ .xxl }| **Thunder** | Damage from sonic energy, often causing concussive force. Thunder damage can deafen, knock back, and crush enemies. |
+    |:dmg-acid:{ .xxl .dmg-acid }| **Acid**{ .dmg-acid } | Damage from corrosive substances that can eat through materials and flesh. Acid damage can dissolve objects and inflict severe burns. |
+    |:dmg-cold:{ .xxl .dmg-cold }| **Cold**{ .dmg-cold } | Damage from extreme cold, such as ice and freezing temperatures. Cold damage can freeze enemies, slow movements, and cause frostbite. |
+    |:dmg-fire:{ .xxl .dmg-fire }| **Fire**{ .dmg-fire } | Damage from flames and intense heat. Fire damage can ignite objects, cause burns, and spread rapidly. |
+    |:dmg-lgtn:{ .xxl .dmg-lgtn }| **Lightning**{ .dmg-lgtn } | Damage from electrical energy, such as a lightning bolt. Lightning damage can shock, paralyze, and cause severe burns. |
+    |:dmg-posn:{ .xxl .dmg-posn }| **Poison**{ .dmg-posn } | Damage from toxic substances, which can also inflict various conditions. Poison damage can cause illness, weakness, and death over time. |
+    |:dmg-thun:{ .xxl .dmg-thun }| **Thunder**{ .dmg-thun } | Damage from sonic energy, often causing concussive force. Thunder damage can deafen, knock back, and crush enemies. |
 
 === "Magical Damage"
 
     |symbol| name |description|
     |:-:|:--|:--|
-    |:dmg-force:{ .xxl }| **Force** | Damage from pure magical energy. Force damage is highly effective against all targets and bypasses many defenses. |
-    |:dmg-necr:{ .xxl }| **Necrotic** | Damage from deathly energy, draining life force. Necrotic damage can wither flesh, drain vitality, and is particularly effective against living creatures. |
-    |:dmg-psyc:{ .xxl }| **Psychic** | Damage from mental energy, affecting the mind. Psychic damage can cause confusion, insanity, and severe mental trauma. |
-    |:dmg-radi:{ .xxl }| **Radiant** | Damage from intense, often holy or celestial, energy that can come from divine sources or powerful light-based effects. Radiant damage can purify and is particularly effective against undead and fiends. |
+    |:dmg-force:{ .xxl .dmg-force }| **Force**{ .dmg-force } | Damage from pure magical energy. Force damage is highly effective against all targets and bypasses many defenses. |
+    |:dmg-necr:{ .xxl .dmg-necr }| **Necrotic**{ .dmg-necr } | Damage from deathly energy, draining life force. Necrotic damage can wither flesh, drain vitality, and is particularly effective against living creatures. |
+    |:dmg-psyc:{ .xxl .dmg-psyc }| **Psychic**{ .dmg-psyc } | Damage from mental energy, affecting the mind. Psychic damage can cause confusion, insanity, and severe mental trauma. |
+    |:dmg-radi:{ .xxl .dmg-radi }| **Radiant**{ .dmg-radi } | Damage from intense, often holy or celestial, energy that can come from divine sources or powerful light-based effects. Radiant damage can purify and is particularly effective against undead and fiends. |
 
 ## :dmg-res: Resistance and :dmg-vul: Vulnerability
 
-Some creatures and objects have :dmg-res: Resistance or :dmg-vul: Vulnerability to certain damage types. 
+Some creatures and objects have **:dmg-res: Resistance**{ .em } or **:dmg-vul: Vulnerability**{ .em } to certain damage types. 
 
-If you have :dmg-res: Resistance to a damage type, damage of that type is **halved** against you (round down). 
+If you have **:dmg-res: Resistance**{ .em } to a damage type, damage of that type is **halved** against you (round down). 
 
-If you have :dmg-vul: Vulnerability to a damage type, damage of that type is **doubled** against you. 
+If you have **:dmg-vul: Vulnerability**{ .em } to a damage type, damage of that type is **doubled** against you. 
 
-For example, if you have :dmg-res: Resistance to Cold damage, such damage is halved against you, and if you have :dmg-vul: Vulnerability to Fire damage, such damage is doubled against you.
+For example, if you have **:dmg-res: Resistance**{ .em } to Cold damage, such damage is halved against you, and if you have **:dmg-vul: Vulnerability**{ .em } to **:dmg-fire: Fire**{ .dmg-fire } damage, such damage is doubled against you.
 
 ### No Stacking
 
-Multiple instances of :dmg-res: Resistance or :dmg-vul: Vulnerability that affect the same damage type count as only one instance. For example, if you have :dmg-res: Resistance to Necrotic damage as well as :dmg-res: Resistance to all damage, Necrotic damage is reduced by half against you.
+Multiple instances of **:dmg-res: Resistance**{ .em } or **:dmg-vul: Vulnerability**{ .em } that affect the same damage type count as only one instance. For example, if you have **:dmg-res: Resistance**{ .em } to Necrotic damage as well as **:dmg-res: Resistance**{ .em } to all damage, Necrotic damage is reduced by half against you.
 
 ### Order of Application
 
-Modifiers to damage are applied in the following order: adjustments such as bonuses, penalties, or multipliers are applied first; :dmg-res: Resistance is applied second; and :dmg-vul: Vulnerability is applied third.
+Modifiers to damage are applied in the following order: 
 
-For example, a creature has :dmg-res: Resistance to all damage and :dmg-vul: Vulnerability to Fire damage, and it's within a magical aura that reduces all damage by 5. If it takes 28 Fire damage, the damage is first reduced by 5 (to 23), then halved for the creature's :dmg-res: Resistance (and rounded down to 11), then doubled for its :dmg-vul: Vulnerability (to 22).
+1. Adjustments are applied **First**; such as Bonuses, Penalties, or Multipliers
+2. **:dmg-res: Resistance**{ .em } is applied **Second** 
+3. **:dmg-vul: Vulnerability**{ .em } is applied **Third**.
+
+For example, a creature has **:dmg-res: Resistance**{ .em } to all damage, **:dmg-vul: Vulnerability**{ .em } to **:dmg-fire: Fire**{ .dmg-fire } damage, and a magical aura that reduces all damage by **5**. If it takes **28 :dmg-fire: Fire**{ .dmg-fire } damage, the calculation is as follows: first, the damage is reduced by 5 (28 --> 23). Next, **:dmg-res: Resistance**{ .em } halves the remaining damage (23 --> 11, rounded down). Finally, **:dmg-vul: Vulnerability**{ .em } doubles the damage (11 --> 22). The creature takes **22 :dmg-fire: Fire** in total.  
+
+---  
 
 ## :dmg-imm: Immunity
 
