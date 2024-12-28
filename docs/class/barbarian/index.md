@@ -85,7 +85,7 @@ As a Barbarian, you gain the following class features when you reach the specifi
 
 ### Level 1: Rage
 
-You can imbue yourself with a primal power called Rage, a force that grants you extraordinary might and resilience. You can enter it as a :rsc-b: Bonus Action if you aren't wearing Heavy armour.
+You can imbue yourself with a primal power called Rage, a force that grants you extraordinary might and resilience. You can enter it as a **:rsc-b: Bonus Action**{ .em } if you aren't wearing Heavy armour.
 
 You can enter your Rage the number of times shown for your Barbarian level in the Rages column of the Barbarian Features table. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
 
@@ -113,7 +113,7 @@ The Rage lasts until the end of your next turn, and it ends early if you don Hea
 
 - Make an attack roll against an enemy.
 - Force an enemy to make a saving throw.
-- Take a :rsc-b: Bonus Action to extend your Rage.
+- Take a **:rsc-b: Bonus Action**{ .em } to extend your Rage.
 
 Each time the Rage is extended, it lasts until the end of your next turn. You can maintain a Rage for up to 10 minutes.
 
@@ -177,7 +177,7 @@ Your instincts are so honed that you have **:d20-adv: Advantage**{ .d20 } on Ini
 
 ### Level 7: Instinctive Pounce
 
-As part of the :rsc-b: Bonus Action you take to enter your Rage, you can move up to half your :rsc-speed: Speed.
+As part of the **:rsc-b: Bonus Action**{ .em } you take to enter your Rage, you can move up to half your :rsc-speed: Speed.
 
 ### Level 9: Brutal Strike
 
