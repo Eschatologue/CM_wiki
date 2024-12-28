@@ -106,17 +106,6 @@ $h4Size: $defaultFontSize * 1.15; // Size for H4
         font-weight: 550;
         margin: convert.px2rem(12px) 0 convert.px2rem(-6px) 0;
         padding-bottom: convert.px2rem(-2px);
-
-        // &::before {
-        //     content: "";
-        //     display: inline-block;
-        //     border-radius: $h4Size * 0.15;
-        //     width: $h4Size * 0.75;
-        //     height: $h4Size * 0.75;
-        //     background-color: var(--md-default-wht--025);
-        //     margin-right: convert.px2rem(8px);
-        //     vertical-align: middle;
-        // }
     }
 
     // H5 Specific Styles
@@ -145,13 +134,4 @@ $h4Size: $defaultFontSize * 1.15; // Size for H4
 
 .xxxxl {
     font-size: 5.5rem;
-}
-
-// Padding Classes
-.pad-r {
-    padding-right: 0.35em;
-}
-
-.pad-l {
-    padding-left: 0.35em;
 }
