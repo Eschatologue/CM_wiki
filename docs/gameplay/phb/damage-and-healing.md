@@ -24,7 +24,7 @@ When attacking with a weapon, you add your ability modifier—the same modifier 
 
 Scoring a Critical Hit on an attack roll results in dealing double damage.
  
-**Example**: A ranger scoring a Critical Hit with a short sword (1d6 piercing damage) + 3 (Dexterity modifier). The ranger rolled 3 on the :die-d6: d6, dealing a total of 6 damage and it is doubled to 12 Piercing damage as a result.
+**Example**: A ranger scoring a Critical Hit with a short sword (1d6 :dmg-prcg: Piercing damage) + 3 (Dexterity modifier). The ranger rolled 3 on the :die-d6: d6, dealing a total of 6 damage and it is doubled to 12 :dmg-prcg: Piercing damage as a result.
 
 ## Saving Throws and Damage
 
@@ -78,11 +78,11 @@ If you have **:dmg-res: Resistance**{ .em } to a damage type, damage of that typ
 
 If you have **:dmg-vul: Vulnerability**{ .em } to a damage type, damage of that type is **doubled** against you. 
 
-For example, if you have **:dmg-res: Resistance**{ .em } to Cold damage, such damage is halved against you, and if you have **:dmg-vul: Vulnerability**{ .em } to **:dmg-fire: Fire**{ .dmg-fire } damage, such damage is doubled against you.
+For example, if you have **:dmg-res: Resistance**{ .em } to **:dmg-cold: Cold**{ .dmg-cold } damage, such damage is halved against you, and if you have **:dmg-vul: Vulnerability**{ .em } to **:dmg-fire: Fire**{ .dmg-fire } damage, such damage is doubled against you.
 
 ### No Stacking
 
-Multiple instances of **:dmg-res: Resistance**{ .em } or **:dmg-vul: Vulnerability**{ .em } that affect the same damage type count as only one instance. For example, if you have **:dmg-res: Resistance**{ .em } to Necrotic damage as well as **:dmg-res: Resistance**{ .em } to all damage, Necrotic damage is reduced by half against you.
+Multiple instances of **:dmg-res: Resistance**{ .em } or **:dmg-vul: Vulnerability**{ .em } that affect the same damage type count as only one instance. For example, if you have **:dmg-res: Resistance**{ .em } to **:dmg-necr: Necrotic**{ .dmg-necr } damage as well as **:dmg-res: Resistance**{ .em } to all damage, **:dmg-necr: Necrotic**{ .dmg-necr } damage is reduced by half against you.
 
 ### Order of Application
 
@@ -92,13 +92,13 @@ Modifiers to damage are applied in the following order:
 2. **:dmg-res: Resistance**{ .em } is applied **Second** 
 3. **:dmg-vul: Vulnerability**{ .em } is applied **Third**.
 
-For example, a creature has **:dmg-res: Resistance**{ .em } to all damage, **:dmg-vul: Vulnerability**{ .em } to **:dmg-fire: Fire**{ .dmg-fire } damage, and a magical aura that reduces all damage by **5**. If it takes **28 :dmg-fire: Fire**{ .dmg-fire } damage, the calculation is as follows: first, the damage is reduced by 5 (28 --> 23). Next, **:dmg-res: Resistance**{ .em } halves the remaining damage (23 --> 11, rounded down). Finally, **:dmg-vul: Vulnerability**{ .em } doubles the damage (11 --> 22). The creature takes **22 :dmg-fire: Fire** in total.  
+For example, a creature has **:dmg-res: Resistance**{ .em } to all damage, **:dmg-vul: Vulnerability**{ .em } to **:dmg-fire: Fire**{ .dmg-fire } damage, and a magical aura that reduces all damage by **5**. If it takes **28 :dmg-fire: Fire**{ .dmg-fire } damage, the calculation is as follows: first, the damage is reduced by 5 (28 --> 23). Next, **:dmg-res: Resistance**{ .em } halves the remaining damage (23 --> 11, rounded down). Finally, **:dmg-vul: Vulnerability**{ .em } doubles the damage (11 --> 22). The creature takes **22 :dmg-fire: Fire**{ .dmg-fire } in total.  
 
 ---  
 
 ## :dmg-imm: Immunity
 
-Some creatures and objects have :dmg-imm: Immunity to certain damage types and conditions. :dmg-imm: Immunity to a damage type means you don't take damage of that type, and :dmg-imm: Immunity to a condition means you aren't affected by it.
+Some creatures and objects have **:dmg-imm: Immunity**{ .em } to certain damage types and conditions. **:dmg-imm: Immunity**{ .em } to a damage type means you don't take damage of that type, and **:dmg-imm: Immunity**{ .em } to a condition means you aren't affected by it.
 
 ## Healing
 
