@@ -54,3 +54,28 @@
         margin-left: 0.1em;
     }
 }
+
+/* Damage Types */
+
+$damage-types: (
+    acid: #AED581,
+    cold: #4FC3F7,
+    fire: #FFA344, 
+    posn: #66BB6A,
+    thun: #9a6dd7,
+    psyc: #e255a1,
+    lgtn: #529cca,
+    necr: #26A69A,
+    radi: #FFEB3B,
+    force: #ff7369,
+    phsy: #B0BEC5
+);
+
+@each $type, $color in $damage-types {
+    /* Damage type: #{$type} */
+    .dmg-#{$type} {
+        color: convert.hex2hsl($color);
+        font-weight: 350;
+        font-style: none;
+    }
+}

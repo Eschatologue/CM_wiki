@@ -93,7 +93,7 @@ While active, your Rage follows the rules below.
 
 #### Damage Resistance 
 
-You have **:dmg-res: Resistance** to :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, and :dmg-slsh: Slashing damage.
+You have :dmg-res: Resistance to :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, and :dmg-slsh: Slashing damage.
 
 #### Rage Damage 
 
