@@ -74,27 +74,25 @@ Advanced Firearms Table include rocket launchers, machine guns, and other large,
 
 ## Firearm Proficiency
 
-In Antares, firearms are rare, relying on *Cordite*, a substance rendered inert near creatures attuned to the Weave—a trait of all Antares races except **Londoners**. Using firearms requires suppressing one's connection to the Weave, a skill few pursue as traditional ranged weapons are more practical.
+In the *Crown & Misery* setting, firearms are rare weapons powered by *Cordite*, a volatile substance rendered inert near creatures attuned to the Weave. This unique interaction makes firearms largely ineffective for most Antares races, except **Londoners**, who are not inherently tied to the Weave. 
 
-Firearms require a unique proficiency distinct from :prof-wp-simple: Simple or :prof-wp-martial: Martial weapons. Most classes lack this Proficiency unless granted by a specific background, racial feature, or similar trait. They are also excluded from mechanics involving Cold weapons. 
+Firearms require a special proficiency distinct from :prof-wp-simple: Simple or :prof-wp-martial: Martial weapons. They are unaffected by mechanics that apply to Cold weapons, such as certain enchantments or abilities. 
 
-While most creatures understand the basic operation of firearms—*pull the trigger, it fires*—those attuned to the Weave, especially spellcasters users, struggle to wield them effectively. Non-magical individuals are better suited to mastering these weapons.
+Most classes lack Firearm proficiency unless specifically granted by a background, racial feature, or other exceptional trait. While the basic operation of firearms—*pull the trigger, it fires*—is widely understood, wielding them effectively requires suppressing one’s connection to the Weave, making them particularly challenging for magic users. Non-magical individuals are more adept at mastering these weapons.
 
-### Using Firearms
+### Lack of Proficiency
 
-When a character without Firearm proficiency attempts to make an attack using Firearms, a penalty applies. This penalty reflects their reliance on magic and is determined by their spellcaster type:
+If a character isn’t proficient with firearms, their ability to use them is hindered by their magical connection to the Weave. This restriction affects mechanics associated with firearms with the following rules below. These rules is obviously ignored whenever a character gain Proficiency with Firearms.
 
-:material-circle-slice-8: ***Full Casters*** (e.g., Wizard, Druid, Cleric, Sorcerer)  
-Characters with spell slots up to level 9 suffer a penalty equal to their class level. For example, A level 12 Wizard attempting the check has a -12 penalty, making it exceptionally difficult to succeed.  
+#### Attack Rolls 
 
-:material-circle-slice-4: ***Half Casters*** (e.g., Artificer, Magus, Paladin, Ranger)  
-Characters with spell slots up to level 5 suffer a penalty equal to half their class level (rounded up). For example, A level 10 Paladin would have a -5 penalty (10 × 1/2 = 5).  
+When making an attack roll with a Firearm without proficiency, the roll is reduced by twice a number equal to the highest spell slot level the character can expend or use. 
 
-:material-circle-slice-3: ***One-Third Casters*** (e.g., Rogue (Arcane Trickster), Fighter (Eldritch Knight))  
-Characters with spell slots up to level 4 suffer a penalty equal to 1/3 of their class level (rounded up). For example, A level 9 Arcane Trickster would have a -3 penalty (9 × 1/3 = 3).  
+For example, a Wizard who can use a level 5 spell slot at its respective level will have -10 to their attack roll using Firearms. If the Wizard gain a level which allows it to use a level 6 spell slots, this penalty increases to -12.
 
-:material-circle-outline: ***Warlocks*** & ***Non-Casters*** (e.g., Fighter, Barbarian, Rogue)  
-These classes face no penalty when using Firearms with no proficiency. 
+#### Mastery Properties
+
+Creature that lacks proficiency with Firearms can't use its Mastery property, regardless if it has a class feature that allows it.
 
 [Push]: mastery.md#push
 [Slow]: mastery.md#slow

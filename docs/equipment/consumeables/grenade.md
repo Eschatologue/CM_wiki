@@ -47,7 +47,7 @@ Below are the effects of each grenade.
 
 _Grenade, 500 sp, S._
 
-This grenade explodes in a concussive blast that fills a 20-foot-radius :aoe-sphere: Sphere. Each creature in that area must make a :d20-save: DC 14 Dexterity saving throw, taking 4d6 :dmg-force: force damage on a failed save or half as much damage on a successful one.
+This grenade explodes in a concussive blast that fills a 20-foot-radius :aoe-sphere: Sphere. Each creature in that area must make a :d20-save: DC 14 Dexterity saving throw, taking **4d6 :dmg-force: Force**{ .dmg-force } damage on a failed save or half as much damage on a successful one.
 
 ---
 
@@ -55,7 +55,7 @@ This grenade explodes in a concussive blast that fills a 20-foot-radius :aoe-sph
 
 _Grenade, 300 sp, S._
 
-This grenade detonates in a burst of frost that fills 20-foot-radius :aoe-sphere: Sphere. Each creature in that area must make a :d20-save: DC 14 Constitution saving throw, taking 2d6 :dmg-cold: Cold damage from the grenade and have its **:rsc-spd: Speed**{ .rsc } halved for 1 minute on a failed save. Affected creatures can repeat this save at the start of each of their turns, ending the slowing effect on a success. On a successful save, the creature takes only half damage and suffers no additional effects. 
+This grenade detonates in a burst of frost that fills 20-foot-radius :aoe-sphere: Sphere. Each creature in that area must make a :d20-save: DC 14 Constitution saving throw, taking **2d6 :dmg-cold: Cold**{ .dmg-cold } damage from the grenade and have its **:rsc-spd: Speed**{ .rsc } halved for 1 minute on a failed save. Affected creatures can repeat this save at the start of each of their turns, ending the slowing effect on a success. On a successful save, the creature takes only half damage and suffers no additional effects. 
 
 Creatures with **:dmg-res: Resistance**{ .em } to :dmg-cold: Cold damage have **:d20-adv: Advantage**{ .d20 } on the saving throw, while those with :dmg-imm: Immunity automatically succeed.
 
@@ -65,7 +65,7 @@ Creatures with **:dmg-res: Resistance**{ .em } to :dmg-cold: Cold damage have **
 
 _Grenade, 250 sp, S._
 
-This grenade explodes, unleashing a hail of metal fragments that fills a 20-foot-radius :aoe-sphere: Sphere. Each creature in the area must make on a :d20-save: DC 14 Dexterity saving throw,  taking 3d6 :dmg-prcg: Piercing damage on a failed save or half as much damage on a successful one.
+This grenade explodes, unleashing a hail of metal fragments that fills a 20-foot-radius :aoe-sphere: Sphere. Each creature in the area must make on a :d20-save: DC 14 Dexterity saving throw,  taking **3d6 :dmg-prcg: Piercing**{ .dmg-phys } damage on a failed save or half as much damage on a successful one.
 
 ---
 
@@ -73,7 +73,7 @@ This grenade explodes, unleashing a hail of metal fragments that fills a 20-foot
 
 _Grenade, 300 sp, S._
 
-This grenade explodes in a blinding flash and a deafening bang that affect a 20-foot-radius :aoe-sphere: Sphere. Each creature in the area must make a :d20-save: DC 14 Constitution saving throw, taking 2d6 :dmg-thun: Thunder damage and have the ^^Blinded^^ and ^^Deafened^^ condition for 1 minute on a failed save, or half as much on a successful save with no additional effects. 
+This grenade explodes in a blinding flash and a deafening bang that affect a 20-foot-radius :aoe-sphere: Sphere. Each creature in the area must make a :d20-save: DC 14 Constitution saving throw, taking **2d6 :dmg-thun: Thunder**{ .dmg-thun } damage and have the ^^Blinded^^ and ^^Deafened^^ condition for 1 minute on a failed save, or half as much on a successful save with no additional effects. 
 
 Affected creatures can repeat the :d20-save: saving throw at the start of each of their turns, ending the effect on a success. On a successful save, the creature takes only half damage and suffers no additional effects.
 
