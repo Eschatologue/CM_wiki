@@ -9,6 +9,11 @@
     color: var(--md-gbl-text-color-strong); /* Make Text slightly brighter so its easier to see */
     white-space: nowrap; /* Prevent selected block to split on smaller screen sizes, used in conjuction with icons */
     font-weight: 550 !important;
+
+    // Disable dotted line
+    abbr {
+        border-bottom: none !important;
+      }
 }
 
 .jost {
