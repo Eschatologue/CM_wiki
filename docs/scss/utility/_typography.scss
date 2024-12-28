@@ -65,7 +65,7 @@ $damage-types: (
     thun: #9a6dd7,
     psyc: #e255a1,
     lgtn: #529cca,
-    necr: #26A69A,
+    necr: #4DB6AC,
     radi: #FFEB3B,
     force: #ff7369,
     phsy: #B0BEC5
@@ -75,7 +75,7 @@ $damage-types: (
     /* Damage type: #{$type} */
     .dmg-#{$type} {
         color: convert.hex3hsl($color);
-        font-weight: 350;
+        font-weight: 400 !important;
         font-style: none !important;
     }
 }
