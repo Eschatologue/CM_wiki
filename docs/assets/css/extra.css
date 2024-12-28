@@ -99,12 +99,12 @@
 /*------------------------------------------------------- 
     Typography
 --------------------------------------------------------*/
-.em, .inl, .d20 {
+.em, .inl, .rsc, .d20 {
   color: var(--md-gbl-text-color-strong); /* Make Text slightly brighter so its easier to see */
   white-space: nowrap; /* Prevent selected block to split on smaller screen sizes, used in conjuction with icons */
   font-weight: 550 !important;
 }
-.em abbr, .inl abbr, .d20 abbr {
+.em abbr, .inl abbr, .rsc abbr, .d20 abbr {
   border-bottom: none !important;
 }
 
@@ -112,7 +112,7 @@
   font-family: "Jost", sans-serif !important; /* Changes font to Jost */
 }
 
-.smallcap, .d20 {
+.smallcap, .rsc, .d20 {
   font-variant: small-caps !important; /* Make font smallcaps so it looks different than the rest */
 }
 
@@ -124,6 +124,10 @@
   .d20 {
     font-size: 0.675rem !important; /* Make Font Size Smaller for mobile devices */
   }
+}
+
+.rsc {
+  font-family: "Roboto Condensed", sans-serif;
 }
 
 .inl {
@@ -141,7 +145,7 @@
   margin-left: 0.1em;
 }
 
-/* Damage-type Dynamic Class Generati0n */
+/* Damage-type Dynamic Class Generation */
 /* Damage type: acid */
 .dmg-acid {
   color: hsl(88, 50%, 67%);
