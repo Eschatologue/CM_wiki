@@ -146,77 +146,77 @@
 .dmg-acid {
   color: hsl(88, 50%, 67%);
   font-weight: 350;
-  font-style: none;
+  font-style: none !important;
 }
 
 /* Damage type: cold */
 .dmg-cold {
   color: hsl(199, 91%, 64%);
   font-weight: 350;
-  font-style: none;
+  font-style: none !important;
 }
 
 /* Damage type: fire */
 .dmg-fire {
   color: hsl(30, 100%, 63%);
   font-weight: 350;
-  font-style: none;
+  font-style: none !important;
 }
 
 /* Damage type: posn */
 .dmg-posn {
   color: hsl(123, 38%, 57%);
   font-weight: 350;
-  font-style: none;
+  font-style: none !important;
 }
 
 /* Damage type: thun */
 .dmg-thun {
   color: hsl(265, 57%, 64%);
   font-weight: 350;
-  font-style: none;
+  font-style: none !important;
 }
 
 /* Damage type: psyc */
 .dmg-psyc {
   color: hsl(328, 71%, 61%);
   font-weight: 350;
-  font-style: none;
+  font-style: none !important;
 }
 
 /* Damage type: lgtn */
 .dmg-lgtn {
   color: hsl(203, 53%, 56%);
   font-weight: 350;
-  font-style: none;
+  font-style: none !important;
 }
 
 /* Damage type: necr */
 .dmg-necr {
   color: hsl(174, 63%, 40%);
   font-weight: 350;
-  font-style: none;
+  font-style: none !important;
 }
 
 /* Damage type: radi */
 .dmg-radi {
   color: hsl(54, 100%, 62%);
   font-weight: 350;
-  font-style: none;
+  font-style: none !important;
 }
 
 /* Damage type: force */
 .dmg-force {
   color: hsl(4, 100%, 71%);
   font-weight: 350;
-  font-style: none;
+  font-style: none !important;
 }
 
 /* Damage type: phsy */
 .dmg-phsy {
   color: hsl(200, 15%, 73%);
   font-weight: 350;
-  font-style: none;
+  font-style: none !important;
 }
 
 /*------------------------------------------------------- 
