@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap");
 /*------------------------------------------------------- 
     Basic Typesets
 --------------------------------------------------------*/
@@ -98,6 +97,62 @@
 }
 
 /*------------------------------------------------------- 
+    Tables
+--------------------------------------------------------*/
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+  padding: 0.375em 1em;
+  min-width: 0.0625em;
+}
+.md-typeset table:not([class]) th {
+  font-size: 0.675rem;
+  font-weight: bold !important;
+  text-transform: capitalize !important;
+  vertical-align: bottom;
+  color: var(--md-text-color);
+  border-bottom: 0.125rem solid var(--md-primary-fg-color);
+  background-color: var(--md-mod-table-color--darkest);
+  padding: 0.525em 1em;
+}
+.md-typeset table:not([class]) td {
+  font-size: 0.6075rem;
+  border: 0rem transparent !important;
+  vertical-align: middle;
+}
+.md-typeset table:not([class]) td b,
+.md-typeset table:not([class]) td strong {
+  font-weight: 540;
+}
+@media screen and (max-width: 768px) {
+  .md-typeset table:not([class]) th {
+    font-size: 0.6075rem;
+  }
+  .md-typeset table:not([class]) td {
+    font-size: 0.54rem;
+  }
+}
+.md-typeset table:not([class]) table tr:hover {
+  background-color: inherit !important;
+  /* Ensures no change on hover */
+}
+.md-typeset table:not([class]) tr:nth-child(odd) {
+  background-color: transparent !important;
+  /* Adjust to match your striped colour */
+}
+.md-typeset table:not([class]) tr:nth-child(even) {
+  background-color: var(--md-mod-table-color--light) !important;
+}
+.md-typeset__table {
+  width: 100%;
+}
+.md-typeset__table table:not([class]) {
+  box-shadow: var(--md-shadow-z2);
+  margin: 0rem;
+  display: table;
+  border-color: transparent !important;
+}
+
+/*------------------------------------------------------- 
     Typography
 --------------------------------------------------------*/
 .em, .inl, .rsc, .d20 {
@@ -114,17 +169,20 @@
 }
 
 .smallcap, .d20 {
+  font-size: 115%;
   font-variant: small-caps !important; /* Make font smallcaps so it looks different than the rest */
-}
-
-.d20 {
-  font-size: 0.7875rem; /* Make text slightly bigger to take account for Small Caps */
   letter-spacing: 0.03rem !important; /* Wider letterspacing for easier read */
 }
+.smallcap :is(.emojione, .twemoji, .gemoji), .d20 :is(.emojione, .twemoji, .gemoji) {
+  font-size: 0.75rem;
+}
 @media screen and (max-width: 768px) {
-  .d20 {
-    font-size: 0.675rem !important; /* Make Font Size Smaller for mobile devices */
+  .smallcap, .d20 {
+    font-size: 108% !important; /* Make Font Size Smaller for mobile devices */
   }
+}
+table .smallcap :is(.emojione, .twemoji, .gemoji), table .d20 :is(.emojione, .twemoji, .gemoji) {
+  font-size: 0.675rem;
 }
 
 .rsc {
@@ -893,62 +951,6 @@
   background-color: hsl(174, 42%, 51%);
   -webkit-mask-image: var(--md-icon--glossary);
   mask-image: var(--md-icon--glossary);
-}
-
-/*------------------------------------------------------- 
-    Tables
---------------------------------------------------------*/
-.md-typeset table:not([class]) th,
-.md-typeset table:not([class]) td {
-  padding: 0.375em 1em;
-  min-width: 0.0625em;
-}
-.md-typeset table:not([class]) th {
-  font-size: 0.675rem;
-  font-weight: bold !important;
-  text-transform: capitalize !important;
-  vertical-align: bottom;
-  color: var(--md-text-color);
-  border-bottom: 0.125rem solid var(--md-primary-fg-color);
-  background-color: var(--md-mod-table-color--darkest);
-  padding: 0.525em 1em;
-}
-.md-typeset table:not([class]) td {
-  font-size: 0.6075rem;
-  border: 0rem transparent !important;
-  vertical-align: middle;
-}
-.md-typeset table:not([class]) td b,
-.md-typeset table:not([class]) td strong {
-  font-weight: 540;
-}
-@media screen and (max-width: 768px) {
-  .md-typeset table:not([class]) th {
-    font-size: 0.6075rem;
-  }
-  .md-typeset table:not([class]) td {
-    font-size: 0.54rem;
-  }
-}
-.md-typeset table:not([class]) table tr:hover {
-  background-color: inherit !important;
-  /* Ensures no change on hover */
-}
-.md-typeset table:not([class]) tr:nth-child(odd) {
-  background-color: transparent !important;
-  /* Adjust to match your striped colour */
-}
-.md-typeset table:not([class]) tr:nth-child(even) {
-  background-color: var(--md-mod-table-color--light) !important;
-}
-.md-typeset__table {
-  width: 100%;
-}
-.md-typeset__table table:not([class]) {
-  box-shadow: var(--md-shadow-z2);
-  margin: 0rem;
-  display: table;
-  border-color: transparent !important;
 }
 
 /*------------------------------------------------------- 

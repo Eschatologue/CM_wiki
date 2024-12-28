@@ -32,8 +32,8 @@ $tableFontSize: (typeset.$defaultFontSize * 0.9);
         }
 
         td {
-            // Default Font Size
-            font-size: $tableFontSize * 0.9;
+            $tableFontSize: (typeset.$defaultFontSize * 0.9) * 0.9;
+            font-size: $tableFontSize;
             border: convert.px2rem(0px) transparent !important;
             vertical-align: middle;
 

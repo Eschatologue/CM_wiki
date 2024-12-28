@@ -82,7 +82,7 @@ Casting a spell is, therefore, not necessarily an **:rsc-a: Action**{ .rsc }. Mo
 
 When you take the **Dash**{ .rsc } action, you gain extra movement for the current turn. The increase equals your **:rsc-spd: Speed**{ .rsc }, after applying any modifiers. With a speed of 30 feet, for example, you can move up to 60 feet on your turn if you Dash.
 
-Any increase or decrease to your **:rsc-spd: Speed** changes this additional movement by the same amount. If your **:rsc-spd: Speed** of 30 feet is reduced to 15 feet, for instance, you can move up to 30 feet this turn if you Dash.
+Any increase or decrease to your **:rsc-spd: Speed**{ .rsc } changes this additional movement by the same amount. If your **:rsc-spd: Speed**{ .rsc } of 30 feet is reduced to 15 feet, for instance, you can move up to 30 feet this turn if you Dash.
 
 ---
 

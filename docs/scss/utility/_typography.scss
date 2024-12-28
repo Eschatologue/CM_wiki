@@ -1,7 +1,6 @@
 @use "../base/typeset";
+@use "../base/table";
 @use "../utility/convert";
-
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
 
 /*------------------------------------------------------- 
     Typography
@@ -15,7 +14,7 @@
     // Disable dotted line
     abbr {
         border-bottom: none !important;
-      }
+    }
 }
 
 .jost {
@@ -23,20 +22,29 @@
 }
 
 .smallcap {
+    :is(.emojione, .twemoji, .gemoji) {
+        font-size: #{typeset.$defaultFontSize};
+    }
+    font-size: 115%;
     font-variant: small-caps !important; /* Make font smallcaps so it looks different than the rest */
+
+    letter-spacing: typeset.$defaultFontSize * 0.04 !important; /* Wider letterspacing for easier read */
+
+    @media screen and (max-width: 768px) {
+        font-size: 108% !important; /* Make Font Size Smaller for mobile devices */
+    }
+
+    table & {
+        :is(.emojione, .twemoji, .gemoji) {
+            font-size: #{table.$tableFontSize};
+        }
+    }
 }
 
 // Used for D20 rolls, Initiative, Ability Cheks, Saving Throws etc
 .d20 {
     @extend .em;
     @extend .smallcap;
-
-    font-size: typeset.$defaultFontSize * 1.05; /* Make text slightly bigger to take account for Small Caps */
-    letter-spacing: typeset.$defaultFontSize * 0.04 !important; /* Wider letterspacing for easier read */
-
-    @media screen and (max-width: 768px) {
-        font-size: typeset.$defaultFontSize * 0.9 !important; /* Make Font Size Smaller for mobile devices */
-    }
 }
 
 // RSC or Resource. Anything that players need to "expend" to do something
@@ -54,13 +62,13 @@
 
     &::before {
         color: var(--md-default-fg-color--light);
-        content: '<';
+        content: "<";
         margin-right: 0.1em;
     }
 
     &::after {
         color: var(--md-default-fg-color--light);
-        content: '>';
+        content: ">";
         margin-left: 0.1em;
     }
 }
@@ -70,17 +78,17 @@
 /* Damage-type Dynamic Class Generation */
 
 $damage-types: (
-    acid: #AED581,
-    cold: #4FC3F7,
-    fire: #FFA344, 
-    posn: #66BB6A,
+    acid: #aed581,
+    cold: #4fc3f7,
+    fire: #ffa344,
+    posn: #66bb6a,
     thun: #9a6dd7,
     psyc: #e255a1,
     lgtn: #529cca,
-    necr: #4DB6AC,
-    radi: #FFEB3B,
+    necr: #4db6ac,
+    radi: #ffeb3b,
     force: #ff7369,
-    phys: #B0BEC5
+    phys: #b0bec5
 );
 
 @each $type, $color in $damage-types {
@@ -92,5 +100,3 @@ $damage-types: (
         font-style: none !important;
     }
 }
-
-
