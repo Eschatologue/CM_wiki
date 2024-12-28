@@ -1,6 +1,8 @@
 @use "../base/typeset";
 @use "../utility/convert";
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
 /*------------------------------------------------------- 
     Typography
 --------------------------------------------------------*/
@@ -40,9 +42,7 @@
 // RSC or Resource. Anything that players need to "expend" to do something
 .rsc {
     @extend .em;
-    @extend .smallcap;
-    
-    font-family: "Roboto Condensed", sans-serif;
+    font-family: "Roboto Condensed", serif;
 }
 
 // Inline Sub for options and features
