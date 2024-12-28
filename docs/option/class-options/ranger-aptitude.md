@@ -65,7 +65,7 @@ You have spent endless days surviving desolate wastelands. Choose one of the fol
 
 _**Prerequisite:** Level 3+ Ranger_
 
-You learn some rougish techniques. Choose one of the following Actions, you can use a :rsc-b: **Bonus Action** to take it: Dodge, Disengage, or Hide.
+You learn some rougish techniques. Choose one of the following Actions, you can use a **:rsc-b: Bonus Action**{ .rsc } to take it: Dodge, Disengage, or Hide.
 
 ***Repeatable.*** You can choose this Aptitude again, choosing a different action each time.
 
@@ -107,7 +107,7 @@ When you hit a creature with a weapon attack or Unarmed Strike you can cast [:sp
 
 _**Prerequisite:** Level 6+ Ranger, [Slayer I](#slayer-i)_
 
-When you roll Initiative, you can take a :rsc-r: **Reaction** to cast [:spell-lv1: Hunter's Mark].
+When you roll Initiative, you can take a **:rsc-r: Reaction**{ .rsc } to cast [:spell-lv1: Hunter's Mark].
 
 ---
 
@@ -147,7 +147,7 @@ You always under the effect of [:spell-lv4: Freedom of Movement] spell so long y
 
 _**Prerequisite:** Level 6+ Ranger_
 
-You can't have :d20-disadv: **Disadvantage** on attack rolls against the target of your [:spell-lv1: Hunter's Mark].
+You can't have **:d20-disadv: Disadvantage**{ .d20 } on attack rolls against the target of your [:spell-lv1: Hunter's Mark].
 
 ---
 
@@ -155,7 +155,7 @@ You can't have :d20-disadv: **Disadvantage** on attack rolls against the target 
 
 _**Prerequisite:** Level 15+ Ranger, [Enhanced Senses](#enhanced-senses)_
 
-You can't have :d20-disadv: **Disadvantage** on attack rolls against any target within 30 feet of you.
+You can't have **:d20-disadv: Disadvantage**{ .d20 } on attack rolls against any target within 30 feet of you.
 
 ---
 

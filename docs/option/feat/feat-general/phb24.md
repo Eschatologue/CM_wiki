@@ -101,7 +101,7 @@ Increase your Dexterity score by 1, to a maximum of 20.
 You ignore the Loading property of crossbows.
 
 **Firing in Melee**  
-Being within 5 feet of an enemy doesn't impose :d20-disadv: **Disadvantage** on your attack rolls with crossbows.
+Being within 5 feet of an enemy doesn't impose **:d20-disadv: Disadvantage**{ .d20 } on your attack rolls with crossbows.
 
 **Dual Wielding**  
 When you make the extra attack of the :weapon-prop-light: Light property, you can add your ability modifier to the damage of the extra attack if that attack is with a crossbow that has the :weapon-prop-light: Light property and you aren't already adding that modifier to the damage.

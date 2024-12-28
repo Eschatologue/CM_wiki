@@ -50,7 +50,7 @@ You have an ancestry tied to a specific aeiginae. Choose the kind of dragon or a
 
 Each ancestry provides a damage resistance and a Breath Weapon, which shares the same range and area of effect but different damage type and :d20-save: **Saving Throws**, all breath weapon also increases in damage at certain levels.
 
-When you take the :rsc-a: **Attack** Action on your turn, you can replace one of your attacks with an exhalation of destructive energy determined by your Ancestry, under the rules below:
+When you take the **:rsc-a: Attack**{ .rsc } Action on your turn, you can replace one of your attacks with an exhalation of destructive energy determined by your Ancestry, under the rules below:
 
 ***Breath Weapon Damage***  
 Breath Weapon damage is 1d10 with its damage type determined based on Dragonborn Ancestry. The damage increases by 1d10 when you reach character Level 6 (2d10), Level 11 (3d10), and Level 17 (4d10). 
@@ -70,7 +70,7 @@ You have :dmg-res: Resistance to the damage type determined by your *Draconic An
 
 ### Draconic Flight
 
-When you reach character level 5, you can channel draconic magic to gice yourself temporary flight. As a :rsc-b: **Bonus Action**, you sprout spectral wings on yourback that last for 10 minutes or until you retract the wings (no action required) or have the Incapacitated condition. During that time, you have Fly Speed equal to your :rsc-spd: Speed.
+When you reach character level 5, you can channel draconic magic to gice yourself temporary flight. As a **:rsc-b: Bonus Action**{ .rsc }, you sprout spectral wings on yourback that last for 10 minutes or until you retract the wings (no action required) or have the Incapacitated condition. During that time, you have Fly Speed equal to your :rsc-spd: Speed.
 
 Your wings appear to be made of the same energy as your Breath Weapon. Once you use this trait, you can't use it again until you finish a Long Rest.
 

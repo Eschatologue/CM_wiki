@@ -33,7 +33,7 @@ You regain one of your expended Psionic Energy Die when you finish a Short Rest,
 
 ***Psi-Bolstered Knack.*** If you fail an ability check using a skill or tool with which you have proficiency, you can roll one Psionic Energy Die and add the number rolled to the check, potentially turning failure into success. The die is expended only if the roll them succeeds.
 
-***Psychic Whispers.*** You can establish telepathic communication between yourself and others — perfect for quiet infiltration. As a :rsc-a: **Magic** action, choose one or more creatures you can see, up to a number of creatures equal to your proficiency bonus, and then roll one Psionic Energy Die. For a number of hours equal to the number rolled, the chosen creatures can speak telepathically with you, and you can speak telepathically with them. To send or receive a message (no action required), you and the other creature must be within 1 mile of each other. A creature can't use this telepathy if it can't speak any languages, and a creature can end the telepathic connection at any time (no action required). You and the creature don't need to speak a common language to understand each other.
+***Psychic Whispers.*** You can establish telepathic communication between yourself and others — perfect for quiet infiltration. As a **:rsc-a: Magic**{ .rsc } action, choose one or more creatures you can see, up to a number of creatures equal to your proficiency bonus, and then roll one Psionic Energy Die. For a number of hours equal to the number rolled, the chosen creatures can speak telepathically with you, and you can speak telepathically with them. To send or receive a message (no action required), you and the other creature must be within 1 mile of each other. A creature can't use this telepathy if it can't speak any languages, and a creature can end the telepathic connection at any time (no action required). You and the creature don't need to speak a common language to understand each other.
 
 The first time you use this power after each Long Rest, you don't expend the Psionic Energy Die. All other times you use the power, you expend the die.
 
@@ -64,7 +64,7 @@ Your Psychic Blades are now an expression of your psi-suffused soul, giving you 
 
 ### Level 13: Psychic Veil
 
-You can weave a veil of psychic static to mask yourself. As a :rsc-a: **Magic** action, you gain the ^^Invisible^^ condition for 1 hour or until you dismiss this effect (no action required). This invisibility ends early immediately after you deal damage to a creature or you force a creature to make a saving throw.
+You can weave a veil of psychic static to mask yourself. As a **:rsc-a: Magic**{ .rsc } action, you gain the ^^Invisible^^ condition for 1 hour or until you dismiss this effect (no action required). This invisibility ends early immediately after you deal damage to a creature or you force a creature to make a saving throw.
 
 Once you use this feature, you can't do so again until you finish a Long Rest unless you expend a Psionic Energy Die (no action required) to restore your use of it.
 

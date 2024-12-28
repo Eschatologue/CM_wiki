@@ -33,7 +33,7 @@ You learn to craft two additional explosives of your choice when you reach level
 
 #### Using Explosives 
 
-A creature can take the :rsc-a: **Utilise** action to throw one of your Saboteur Explosives at a point it can see within 60 feet of it. It explodes on impact, generating the effects in its description centered on the point of impact.
+A creature can take the **:rsc-a: Utilise**{ .rsc } action to throw one of your Saboteur Explosives at a point it can see within 60 feet of it. It explodes on impact, generating the effects in its description centered on the point of impact.
 
 #### Explosive Save DC
 
@@ -63,13 +63,13 @@ Creatures that has the Surprised condition have **:d20-disadv: Disadvantage**{ .
 
 ### Level 17: Hair Trigger
 
-You have learned to detonate your Explosives from afar. When you craft an Explosive, you can create a rudimentary remote to trigger the Explosive from afar. As a :rsc-a: **Utilise** action, you can trigger the Explosive as long as you are within 100 feet.
+You have learned to detonate your Explosives from afar. When you craft an Explosive, you can create a rudimentary remote to trigger the Explosive from afar. As a **:rsc-a: Utilise**{ .rsc } action, you can trigger the Explosive as long as you are within 100 feet.
 
 ---
 
 ### Saboteur Explosives
 
-The following Explosives are available for a Saboteur rogue to learn. As an :rsc-a: **Action**, you can craft an explosive, using the amount of Cordite Charges detailed in the description. Any explosives become inert at the end of your next Long Rest.
+The following Explosives are available for a Saboteur rogue to learn. As an **:rsc-a: Action**{ .rsc }, you can craft an explosive, using the amount of Cordite Charges detailed in the description. Any explosives become inert at the end of your next Long Rest.
 
 ??? info "Not Grenades"
 

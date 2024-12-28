@@ -76,7 +76,7 @@ Moreover, at the start of each of your turns while in your Starry Form, you can 
 
 ### Level 14: Star Flare
 
-Your connection to the cosmos lets you summon radiant starlight. As a :rsc-a: **Magic** action, you conjure a burst of light in a 30-foot-radius :aoe-sphere: sphere centered on a point within 120 feet of you. You can teleport each willing creature in the area to an unoccupied space within 30 feet of its current location.
+Your connection to the cosmos lets you summon radiant starlight. As a **:rsc-a: Magic**{ .rsc } action, you conjure a burst of light in a 30-foot-radius :aoe-sphere: sphere centered on a point within 120 feet of you. You can teleport each willing creature in the area to an unoccupied space within 30 feet of its current location.
 
 Any creature remaining in the Sphere must make a :d20-save: Constitution saving throw against your Spell Save DC. On a failed save, the creature takes Radiant damage and has the Blinded condition until the end of your next turn. On a successful save, the creature only takes half damage. To determine the damage, roll a number of d10s equal to your Wisdom modifier and add them together.
 

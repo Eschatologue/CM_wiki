@@ -78,7 +78,7 @@ You can use Eldritch power to slip through cracks in reality. When you use Secon
 
 ### Level 10: Enchanted Strikes
 
-The Eldritch magic within your blood seeps into your weapon strikes. When you hit a creature with a weapon attack, it has :d20-disadv: **Disadvantage** on the first Saving Throw you force it to make against a Witchblade spell before the end of your next turn.
+The Eldritch magic within your blood seeps into your weapon strikes. When you hit a creature with a weapon attack, it has **:d20-disadv: Disadvantage**{ .d20 } on the first Saving Throw you force it to make against a Witchblade spell before the end of your next turn.
 
 ### Level 15: Greater Offering
 

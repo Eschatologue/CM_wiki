@@ -199,7 +199,7 @@ Each time you use this feature after the first, the DC increases by 5. When you 
 
 You have honed new ways to attack furiously. The following effects are now among your Brutal Strike options.
 
-**Staggering Blow**{ .inl } The target has :d20-disadv: **Disadvantage** on the next saving throw it makes, and it can't make :rsc-r: Opportunity Attacks until the start of your next turn.
+**Staggering Blow**{ .inl } The target has **:d20-disadv: Disadvantage**{ .d20 } on the next saving throw it makes, and it can't make :rsc-r: Opportunity Attacks until the start of your next turn.
 
 **Sundering Blow**{ .inl } Before the start of your next turn, the next attack roll made by another creature against the target gains a +5 bonus to the roll. An attack roll can gain only one Sundering Blow bonus.
 

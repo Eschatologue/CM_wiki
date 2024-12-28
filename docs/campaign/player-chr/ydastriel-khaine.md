@@ -22,7 +22,7 @@ While holding your Star Map, you can add your Wisdom modifier to this cantrip's 
 
 Your growing understanding of the Spires and their role in Antares has granted you the ability to draw powers from the ascents they represent.
 
-When you enter your Starry Form, or as a :rsc-b: **Bonus Action** thereafter, you can enhance its abilities by choosing one of the following Resonances. Each Resonance boosts a specific aspect of your Starry Form.
+When you enter your Starry Form, or as a **:rsc-b: Bonus Action**{ .rsc } thereafter, you can enhance its abilities by choosing one of the following Resonances. Each Resonance boosts a specific aspect of your Starry Form.
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and regain all expended uses after a Long Rest. Alternatively, you can regain all expended uses by expending one use of Wild Shape (no action required). 
 
@@ -44,7 +44,7 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 #### Resonance of Judgement (Locked)
 
-***Fist of Conviction (Archer Form).*** You gain a bonus to your AC equal to your Wisdom modifier so long you are not wearing Medium or Heavy Armour or using a Shield. Additionally, as a :rsc-a: **Magic** action, you can make a melee spell attack using your Archer Form's attack. At Druid level 6, whenever you take this Magic action on your turn, you can attack twice, instead of once.
+***Fist of Conviction (Archer Form).*** You gain a bonus to your AC equal to your Wisdom modifier so long you are not wearing Medium or Heavy Armour or using a Shield. Additionally, as a **:rsc-a: Magic**{ .rsc } action, you can make a melee spell attack using your Archer Form's attack. At Druid level 6, whenever you take this Magic action on your turn, you can attack twice, instead of once.
 
 ***Shape of Spite (Chalice Form).*** Once per turn, when you restore Hit Points to a creature using the Chalice Form feature, it gains a bonus to its next D20 Test equal to your Wisdom modifier.
 

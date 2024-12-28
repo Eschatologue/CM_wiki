@@ -130,7 +130,7 @@ A shield has the :weapon-prop-thrown: ^^Thrown (30/60)^^ property and has the To
 **Transforming Shield**  
 As a :rsc-b: Bonus Action, while wielding both a shield and a melee weapon, you can combine the two, transforming the weapon. The melee weapon gains the :weapon-prop-two-handed: ^^Two-handed^^ property and deals extra damage the equals to the Shield's damage die on hit. You lose the Shield's AC bonus in this form. 
 
-You can take a :rsc-b: **Bonus Action** to end this transformation, reverting both the weapon and shield, to its original form.
+You can take a **:rsc-b: Bonus Action**{ .rsc } to end this transformation, reverting both the weapon and shield, to its original form.
 
 ---
 

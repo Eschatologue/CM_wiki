@@ -23,7 +23,7 @@ You gain proficiency with Martial weapon and training with Shields.
 
 Elemental earth fortifies your body. Your Hit Point maximum increases by 3 and increases by 1 whenever you gain another Sorcerer level.
 
-Moreover, as :rsc-a: **Magic** action, you can gain a base AC of 10 plus your Constitution and Charisma modifier if you aren't wearing armour, and your skin assumes a stony appearance. This effect ends if you end it (no action required), you have the Unconcious condition, or you don armour other than a Shield.
+Moreover, as **:rsc-a: Magic**{ .rsc } action, you can gain a base AC of 10 plus your Constitution and Charisma modifier if you aren't wearing armour, and your skin assumes a stony appearance. This effect ends if you end it (no action required), you have the Unconcious condition, or you don armour other than a Shield.
 
 ### Level 3: Metal Magic
 

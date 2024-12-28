@@ -48,7 +48,7 @@ You regain all of them when you finish a Long Rest.
 
 ***Cauterising Flame***  
 
-:   As a :rsc-a: **Magic** action, you can expend a number of ^^Maledict Die^^ up to your Rage Damage bonus, rolling them and regain a number of Hit Points equal to the roll's total. This power can't be used if you have no ^^Maledict Die^^ remaining.
+:   As a **:rsc-a: Magic**{ .rsc } action, you can expend a number of ^^Maledict Die^^ up to your Rage Damage bonus, rolling them and regain a number of Hit Points equal to the roll's total. This power can't be used if you have no ^^Maledict Die^^ remaining.
 
 ***Flames of Creation***  
 

@@ -20,7 +20,7 @@ These paladins share the following tenets:
 
 ### Level 3: Martial Focus
 
-When you take the :rsc-a: **Attack** action, you can expend one use of your Channel Divinity to nullify any **:d20-disadv: Disadvantage**{ .d20 } (if any) and give yourself **:d20-adv: Advantage**{ .d20 } on all Melee weapon attack and Unarmed Strike until the start of your next turn.
+When you take the **:rsc-a: Attack**{ .rsc } action, you can expend one use of your Channel Divinity to nullify any **:d20-disadv: Disadvantage**{ .d20 } (if any) and give yourself **:d20-adv: Advantage**{ .d20 } on all Melee weapon attack and Unarmed Strike until the start of your next turn.
 
 ### Level 3: Sacred Duel
 

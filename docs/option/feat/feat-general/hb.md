@@ -56,7 +56,7 @@ You've developed the ability to instantly recall an unprepared spell in moments 
 You increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
     
 **Compartmentalize**  
-As an :rsc-a: **Action**, you can instantly learn a spell from your available class spell list (or spellbook, if your class prepare spells from one) that you did not know or have prepared. This spell choice must be of a level for which you have :rsc-spell-slot: **Spell Slots**. You then lose the knowledge or preparation of a different spell of your choice of equal or higher spell level. 
+As an **:rsc-a: Action**{ .rsc }, you can instantly learn a spell from your available class spell list (or spellbook, if your class prepare spells from one) that you did not know or have prepared. This spell choice must be of a level for which you have :rsc-spell-slot: **Spell Slots**. You then lose the knowledge or preparation of a different spell of your choice of equal or higher spell level. 
     
 Once you use this ability, you must finish a Short Rest or Long Rest before you can use it again.
 
@@ -89,7 +89,7 @@ You always seem to have helpful advice for any situation. You gain the benefits 
 You increase your Intelligence or Wisdom score by 1, up to a maximum of 20.
 
 **Swift Help**  
-You can take the Help action as a :rsc-b: **Bonus Action**.
+You can take the Help action as a **:rsc-b: Bonus Action**{ .rsc }.
 
 If you use a Help action to give **:d20-adv: Advantage**{ .d20 } on an ability check with a skill or tool you are proficient in, the target can treat a result of 7 or lower on the d20 as an 8.
 
@@ -144,7 +144,7 @@ You are considered to be one size larger to determine your [Carrying Capacity](.
 Whenever you make a Strength-based D20 Test, you can treat a roll of 7 or lower on the d20 as an 8.
 
 **Iron Grip**  
-Creatures with the same size as you and smaller has :d20-disadv: **Disadvantage** on the saving throw of escaping your Grapple.
+Creatures with the same size as you and smaller has **:d20-disadv: Disadvantage**{ .d20 } on the saving throw of escaping your Grapple.
 
 ---
 
@@ -229,7 +229,7 @@ You increase your Dexterity by 1, up to a maximum of 20.
 When you take the Attack action and attack with melee weapon that has the :weapon-prop-finesse: **Finesse** property, you can choose to deal either :dmg-slsh: **Slashing** or :dmg-prcg: **Piercing** damage.
 
 **Fleuret**  
-The first creature you hit on your turn has :d20-disadv: **Disadvantage** on any attack against you until the start of your next turn.
+The first creature you hit on your turn has **:d20-disadv: Disadvantage**{ .d20 } on any attack against you until the start of your next turn.
 
 ---
 
@@ -263,6 +263,6 @@ You gain the following benefits:
 Increase your Dexterity by 1, to a maximum of 20.
 
 **Return Fire**   
-When a creature you can see hits or misses you with a ranged attack, you can take a :rsc-r: **Reaction** and make one ranged weapon attack against that creature with ranged or thrown weapon that has the :weapon-prop-light: **Light** property.
+When a creature you can see hits or misses you with a ranged attack, you can take a **:rsc-r: Reaction**{ .rsc } and make one ranged weapon attack against that creature with ranged or thrown weapon that has the :weapon-prop-light: **Light** property.
 
 ---

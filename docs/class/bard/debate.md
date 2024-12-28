@@ -25,7 +25,7 @@ Your sharp retorts can disrupt and unnerve your opponents in the heat of battle.
 
 You can drag a creature into a mentally exhausting debate, wearing it down with your relentless arguments.
 
-As a :rsc-b: **Bonus Action**, you can expend one use of your Bardic Inspiration to target a creature within 60 feet. The creature must succeed a Wisdom saving throw against your Spell Save DC or it becomes locked in debate with you so long you and the target are within 60 feet and either of you has the Incapacitated condition. At the end of each of its turns, an affected target repeats the save, ending the effect on itself on a success.
+As a **:rsc-b: Bonus Action**{ .rsc }, you can expend one use of your Bardic Inspiration to target a creature within 60 feet. The creature must succeed a Wisdom saving throw against your Spell Save DC or it becomes locked in debate with you so long you and the target are within 60 feet and either of you has the Incapacitated condition. At the end of each of its turns, an affected target repeats the save, ending the effect on itself on a success.
 
 While in the debate, when the target makes a D20 Test, you can take a :rsc-reaction: **Reaction** to deal :dmg-psyc: Psychic damage to the target. The damage is equal to your Bardic Die.
 

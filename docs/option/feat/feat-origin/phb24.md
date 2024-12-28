@@ -76,7 +76,7 @@ Advantage
 Immediately after you roll a d20, you can spend 1 Luck Point to give yourself **:d20-adv: Advantage**{ .d20 } on the roll.
     
 **Disadvantage**  
-When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to impose :d20-disadv: **Disadvantage** on that roll.
+When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to impose **:d20-disadv: Disadvantage**{ .d20 } on that roll.
 
 ---
 

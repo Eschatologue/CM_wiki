@@ -63,6 +63,6 @@ You gain the Armour Class benefit of a Shield only if you have training with it.
 
 ***Buckler.*** When wielding a Buckler, a creature can still use a weapon's :weapon-prop-versatile: ^^Versatile^^ property.
 
-***Tower Shield.*** As a :rsc-a: **Utilise** action, a creature can plant the Tower Shield in the ground in an empty space within 5 feet, losing the benefit of the shield. Until it is removed (:rsc-a: **Utilise**), it acts as a Half Cover for creature within 5 feet of it.
+***Tower Shield.*** As a **:rsc-a: Utilise**{ .rsc } action, a creature can plant the Tower Shield in the ground in an empty space within 5 feet, losing the benefit of the shield. Until it is removed (**:rsc-a: Utilise**{ .rsc }), it acts as a Half Cover for creature within 5 feet of it.
 
 --8<-- "includes/snippets/inv-notation.md"

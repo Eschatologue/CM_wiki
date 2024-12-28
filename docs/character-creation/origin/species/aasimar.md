@@ -24,7 +24,7 @@ You have Darkvision with a range of 60 feet.
 
 ### Healing Hands
 
-As a :rsc-a: **Magic** action, you touch a creature and roll a number of :die-d4: d4s equal to your Proficiency Bonus. The creature regains a number of Hit Points to the total rolled. Once you use this trait, you can't use it again until you finish a Long Rest.
+As a **:rsc-a: Magic**{ .rsc } action, you touch a creature and roll a number of :die-d4: d4s equal to your Proficiency Bonus. The creature regains a number of Hit Points to the total rolled. Once you use this trait, you can't use it again until you finish a Long Rest.
 
 ### Light Bearer
 

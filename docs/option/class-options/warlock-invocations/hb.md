@@ -45,7 +45,7 @@ This timekeeping device disappears if you conjure another device with this featu
 
 ### Pact of the Instrument
 
-As a :rsc-b: **Bonus Action**, you can conjure a pact instrument in your hand—a musical instrument of your choice with which you bond—or create a bond with a musical instrument you touch. Until the bond ends, it grants you the following benefits:
+As a **:rsc-b: Bonus Action**{ .rsc }, you can conjure a pact instrument in your hand—a musical instrument of your choice with which you bond—or create a bond with a musical instrument you touch. Until the bond ends, it grants you the following benefits:
 
 ***Bonus Damage.*** When you use it to cast a Warlock spell with a Verbal component, or a spell that deals :dmg-thun: Thunder damage, you gain a bonus to one of the spell's damage rolls equal to 1d8.
 
@@ -63,7 +63,7 @@ You can conjure a Pact Wok; a venerable cooking implement in your hand at the en
 
 ***Artisan Tools.*** It counts as Cooking Utensil, and it uses your spellcasting modifier for ability checks made with it.
 
-***Eldritch Rations.*** When you finish a Long Rest, you can prepare a number of **special rations** up to your spellcasting modifier. A creature can take a :rsc-b: **Bonus Action** to consume one of these **special rations** and it gains one of the following benefits:
+***Eldritch Rations.*** When you finish a Long Rest, you can prepare a number of **special rations** up to your spellcasting modifier. A creature can take a **:rsc-b: Bonus Action**{ .rsc } to consume one of these **special rations** and it gains one of the following benefits:
 
 :   ***Bolster.*** The creature chooses either Strength, Dexterity, or Constitution. For 1 minute, the creature can add your spellcasting modifier to any ability check or saving throws it makes with the chosen ability score.
 
@@ -183,7 +183,7 @@ When you cast [:spell-lv1: Mage Armour] using [Armour of Shadow] Invocation, you
 
 ***Prerequisite:** Level 7+ Warlock, [Pact of the Chalice] *
 
-A creature of your choice can take a :rsc-b: **Bonus Action** to drink from your Pact Chalice, gaining the effects of *Death Ward* spell. Once used, you must finish a Long Rest to use this feature again.
+A creature of your choice can take a **:rsc-b: Bonus Action**{ .rsc } to drink from your Pact Chalice, gaining the effects of *Death Ward* spell. Once used, you must finish a Long Rest to use this feature again.
 
 ---
 
@@ -215,7 +215,7 @@ You can cast [:spell-lv1: Charm Person] once without expending a spell slot. You
 
 ***Prerequisite:** Level 15+ Warlock, [Pact of the Hourglass]*
 
-When you finish your turn, you can take a :rsc-r: **Reaction** to undo everything that happened on your turn. You return to the space you began that turn in and you regain all resources you expended. You can then immediately repeat your turn.
+When you finish your turn, you can take a **:rsc-r: Reaction**{ .rsc } to undo everything that happened on your turn. You return to the space you began that turn in and you regain all resources you expended. You can then immediately repeat your turn.
 
 Once you use this feature you must finish a Short or Long Rest before you can use it again.
 

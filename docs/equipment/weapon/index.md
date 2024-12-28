@@ -67,7 +67,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
     When this weapon's hits a target, it explodes and affect an area of effect on the parenthesis, originating from the target. The weapon can target a point within its range. Each creature in the area of effect centered on the point or the target must make a :d20-save: Dexterity Saving Throw against your Weapon Save DC. The creature takes the weapon's damage on a failed save, or half as much damage on a successful one.
 
-    Your initial target makes this :d20-save: **Saving Throw** at a :d20-disadv: **Disadvantage**.
+    Your initial target makes this :d20-save: **Saving Throw** at a **:d20-disadv: Disadvantage**{ .d20 }.
 
 - ### :weapon-prop-finesse:{ .lg } Finesse
 
@@ -79,11 +79,11 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 - ### :weapon-prop-heavy:{ .lg } Heavy
 
-    Heavy weapon is unwieldy compared to other weapons. You have :d20-disadv: **Disadvantage** on your attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13, and if it's a Ranged weapon and your Dexterity score isn't at least 13.
+    Heavy weapon is unwieldy compared to other weapons. You have **:d20-disadv: Disadvantage**{ .d20 } on your attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13, and if it's a Ranged weapon and your Dexterity score isn't at least 13.
 
 - ### :weapon-prop-light:{ .lg } Light
 
-    When you take the **Attack** Action on your turn and attack with a Light weapon, you can make one extra attack as a :rsc-b: **Bonus Action** later on the same turn. That extra attack must be made with a ^^different Light weapon^^, and you don't add your ability modifier to the extra attack's damage, unless that modifier is negative.
+    When you take the **Attack** Action on your turn and attack with a Light weapon, you can make one extra attack as a **:rsc-b: Bonus Action**{ .rsc } later on the same turn. That extra attack must be made with a ^^different Light weapon^^, and you don't add your ability modifier to the extra attack's damage, unless that modifier is negative.
 
 </div>
 
@@ -91,11 +91,11 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 - ### :weapon-prop-loading:{ .lg } Loading
 
-    Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an :rsc-a: **Action**, :rsc-b: **Bonus Action**, or :rsc-r: **Reaction** to fire it, regardless of the number of attacks you can normally make.
+    Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an **:rsc-a: Action**{ .rsc }, **:rsc-b: Bonus Action**{ .rsc }, or **:rsc-r: Reaction**{ .rsc } to fire it, regardless of the number of attacks you can normally make.
 
 - ### :weapon-prop-mounted:{ .lg } Mounted
 
-    This weapon is normally used while attached to a tripod, vehicle, or other bracing mount. You can mount or unmount this weapon as an :rsc-a: **Action**. While it is mounted, it can't be moved. It can only be used to make an attack while unmounted if held by a creature with a Strength score of at least 15.
+    This weapon is normally used while attached to a tripod, vehicle, or other bracing mount. You can mount or unmount this weapon as an **:rsc-a: Action**{ .rsc }. While it is mounted, it can't be moved. It can only be used to make an attack while unmounted if held by a creature with a Strength score of at least 15.
 
 </div>
 
@@ -105,7 +105,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
     This weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. 
 
-    The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's long range. When attacking a target beyond normal range, you have :d20-disadv: **Disadvantage** on the attack roll. You can't attack a target beyond the weapon's long range.
+    The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's long range. When attacking a target beyond normal range, you have **:d20-disadv: Disadvantage**{ .d20 } on the attack roll. You can't attack a target beyond the weapon's long range.
 
 - ### :weapon-prop-reach:{ .lg } Reach
 
@@ -117,7 +117,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 - ### :weapon-prop-reload:{ .lg } Reload
 
-    This weapon can be used to make a number of attacks before it must be reloaded. If you are proficient with the weapon, reloading it takes a :rsc-b: **Bonus Action**; otherwise, reloading it takes an :rsc-a: **Action**. Some weapons require an :rsc-a: **Action** or longer to reload, even if you have Proficiency, which is specified in the Reload property. If reloading a weapon requires longer than one action, the weapon can't be used to make attacks until reloading is finished.
+    This weapon can be used to make a number of attacks before it must be reloaded. If you are proficient with the weapon, reloading it takes a **:rsc-b: Bonus Action**{ .rsc }; otherwise, reloading it takes an **:rsc-a: Action**{ .rsc }. Some weapons require an **:rsc-a: Action**{ .rsc } or longer to reload, even if you have Proficiency, which is specified in the Reload property. If reloading a weapon requires longer than one action, the weapon can't be used to make attacks until reloading is finished.
 
 - ### :weapon-prop-scatter:{ .lg } Scatter
 
@@ -129,7 +129,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 - ### :weapon-prop-sighted:{ .lg } Sighted
 
-    This weapon has :d20-disadv: **Disadvantage** on attack rolls made against targets within 20 feet and has **:d20-adv: Advantage**{ .d20 } against target that has not moved at least 15 feet for this before the start of your current turn.
+    This weapon has **:d20-disadv: Disadvantage**{ .d20 } on attack rolls made against targets within 20 feet and has **:d20-adv: Advantage**{ .d20 } against target that has not moved at least 15 feet for this before the start of your current turn.
 
 - ### :weapon-prop-thrown:{ .lg } Thrown
 

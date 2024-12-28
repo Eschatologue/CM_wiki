@@ -12,7 +12,7 @@ Below are homebrew Artificer Infusion
 
 _**Prerequisite:** A set of artisan's tools (requires attunement)_
 
-The wielder is considered proficient with this magical set of tools, and as an :rsc-a: **Action**, they can transform this set of tools into another set of *Artisan's Tools* of their choice.
+The wielder is considered proficient with this magical set of tools, and as an **:rsc-a: Action**{ .rsc }, they can transform this set of tools into another set of *Artisan's Tools* of their choice.
 
 ---
 

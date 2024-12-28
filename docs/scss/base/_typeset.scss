@@ -92,7 +92,7 @@ $h4Size: $defaultFontSize * 1.15; // Size for H4
     h3 {
         font-size: $h3Size;
         font-weight: 530;
-        letter-spacing: $h3Size * 0.085;
+        letter-spacing: $h3Size * 0.045;
         margin: convert.px2rem(10px) 0;
         border-bottom: convert.px2rem(2.55px) dotted var(--md-default-wht--025);
 

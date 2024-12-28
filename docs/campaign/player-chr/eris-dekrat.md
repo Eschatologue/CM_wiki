@@ -24,7 +24,7 @@ Once per turn when you hit an attack that adds your :class-phb24-rogue: ^^Sneak 
 
 To be channeled this way, the spell must met the following requirements:
 
-- The Arts & Swash spell must have a casting time of an :rsc-a: **Action**.
+- The Arts & Swash spell must have a casting time of an **:rsc-a: Action**{ .rsc }.
 - The Arts & Swash spell must require only a single spell *attack roll* or force its target to make a *saving throw*.
 
 The spell takes effect immediately in addition of the normal effects and damage from your weapon attack, under the rules below:
@@ -109,9 +109,9 @@ You the following benefits against your Quarry:
 
 ***Spellcasting Type.*** You know your Quarry spellcasting ability (Intelligence, Wisdom, or Charisma), if any, and the level of the highest level spell it can cast.
 
-***Mage Breaker.*** Your Quarry has :d20-disadv: **Disadvantage** on Concentration Checks against your attacks.
+***Mage Breaker.*** Your Quarry has **:d20-disadv: Disadvantage**{ .d20 } on Concentration Checks against your attacks.
 
-***New Sneak Attack.*** You gain an additional way to use your :class-phb24-rogue: ^^Sneak Attack^^: You can add your :class-phb24-rogue: ^^Sneak Attack^^ damage the damage roll on your weapon attack against your Quarry as long as you don't have :d20-disadv: **Disadvantage** on the attack. 
+***New Sneak Attack.*** You gain an additional way to use your :class-phb24-rogue: ^^Sneak Attack^^: You can add your :class-phb24-rogue: ^^Sneak Attack^^ damage the damage roll on your weapon attack against your Quarry as long as you don't have **:d20-disadv: Disadvantage**{ .d20 } on the attack. 
 
 ***No Concentration.*** The spell does not require you to :spell-concentration: Concentrate on it, though it ends early if you have the Incapacitated condition. All other rules, such as the spell's Duration still applies.
 
@@ -121,7 +121,7 @@ You can use this feature a number of times equals to your Proficiency bonus. You
 
 *With a simple raise of your eyebrow, you possess the uncanny ability to disrupt and foil a spellcaster's magic.*
 
-When you see a creature cast a spell or teleporting within 60 feet of you, you can take a :rsc-r: **Reaction** to do one of the following:
+When you see a creature cast a spell or teleporting within 60 feet of you, you can take a **:rsc-r: Reaction**{ .rsc } to do one of the following:
 
 ***Mark Target.*** Use your [Spellbreaker's Mark](#level-3-spellbreakers-mark), targeting the creature, or move already existing mark to the creature.
 

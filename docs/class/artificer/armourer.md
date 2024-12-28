@@ -34,7 +34,7 @@ Your tinkering with Arcane Armour ensures you always have certain spells ready. 
 
 ### Level 3: Arcane Armour
 
-Your metallurgical pursuits have led to you making armour a conduit for your magic. As a :rsc-a: **Magic** action, you can turn a suit of armour you are wearing into Arcane Armour, provided you have Smith's Tools in hand. The armour continues to be Arcane Armour until you don another suit of armour or you die.
+Your metallurgical pursuits have led to you making armour a conduit for your magic. As a **:rsc-a: Magic**{ .rsc } action, you can turn a suit of armour you are wearing into Arcane Armour, provided you have Smith's Tools in hand. The armour continues to be Arcane Armour until you don another suit of armour or you die.
 
 You gain the following benefits while wearing this armour:
 
