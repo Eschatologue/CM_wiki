@@ -33,30 +33,30 @@ Actions can come up in other situations too: In a social interactions, you can t
 
 ## Bonus Actions
 
-Various class features, spells, and other abilities let you take an additional action on your turn called a :rsc-b: **Bonus Action**. The Cunning Action feature for a Rogue, allows it to take a Bonus Action. You can take a Bonus Action **only** when a special ability, a spell, or another feature of the game states that you can do something as a Bonus Action. You otherwise don't have a Bonus Action to take.
+Various class features, spells, and other abilities let you take an additional action on your turn called a **:rsc-b: Bonus Action**{ .rsc }. The Cunning Action feature for a Rogue, allows it to take a **:rsc-b: Bonus Action**{ .rsc }. You can take a this action **only** when a special ability, a spell, or another feature of the game states that you can do something as a **:rsc-b: Bonus Action**{ .rsc }. You otherwise don't have a **:rsc-b: Bonus Action**{ .rsc } to take.
 
-You choose when to take a Bonus Action during your turn unless the Bonus Action's timing is specified. Anything that deprives you of the ability to take Actions also prevents you from taking a Bonus Action.
+You choose when to take a **:rsc-b: Bonus Action**{ .rsc } during your turn unless the **:rsc-b: Bonus Action**{ .rsc }'s timing is specified. Anything that deprives you of the ability to take **:rsc-a: Action**{ .rsc } also prevents you from taking a **:rsc-b: Bonus Action**{ .rsc }.
 
 ## Reactions
 
-Certain special abilities, spells, and situations allow yout ake special actions called a **:rsc-r: Reaction**{ .em }. A **Reaction** is an instant response to a trigger of some kind, which can occur on your turn or on someeone else's. The :rsc-r: Opportunity Attack is the most common type of **Reactions**.
+Certain special abilities, spells, and situations allow yout ake special actions called a **:rsc-r: Reaction**{ .rsc }, which is an instant response to a trigger of some kind, which can occur on your turn or on someeone else's. The :rsc-r: Opportunity Attack is the most common type of **Reactions**.
 
-When you take a Reaction, you can't take another one until the start of your next turn. If the reaction interrupts another creature's turn, tjat creature can continue its turn right after the Reaction.
+When you take a **:rsc-r: Reaction**{ .rsc }, you can't take another one until the start of your next turn. If the reaction interrupts another creature's turn, that creature can continue its turn right after the Reaction.
 
-In terms of timing, a Reaction takes place immediatelt after its trigger unless the Reaction's description says otherwise.
+In terms of timing, a **:rsc-r: Reaction**{ .rsc } takes place immediatelt after its trigger unless the **:rsc-r: Reaction**{ .rsc }'s description says otherwise.
 
 
 ## Action Lists
 
 Below is a list of all actions you can take, along with relevant details:
 
-**Cost**: Each action requires using one of your available resources—**:rsc-a: Action**{ .em }, **:rsc-b: Bonus Action**{ .em }, or **:rsc-r: Reaction**{ .em }. To perform a specific action, you must have the appropriate resource available. For example, you cannot take the Attack action (which requires an Action) if you have already used your Action to take the Dash action.
+**Cost**: Each action requires using one of your available resources—**:rsc-a: Action**{ .rsc }, **:rsc-b: Bonus Action**{ .rsc }, or **:rsc-r: Reaction**{ .rsc }. To perform a specific action, you must have the appropriate resource available. For example, you cannot take the Attack action (which requires an Action) if you have already used your Action to take the Dash action.
 
 ---
 
 ### Attack
 
-**Cost:** **:rsc-a: Action**{ .em }
+**Cost:** **:rsc-a: Action**{ .rsc }
 
 The most common action to take in combat is the **Attack** action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists. With this action, you make one melee or ranged attack. This action often requires you to make an attack roll against the target's AC.
 
@@ -66,7 +66,7 @@ Certain features, such as the Extra Attack feature of the Fighter, allow you to 
 
 ### Cast a Spell
 
-**Cost:** **:rsc-a: Action**{ .em }, **:rsc-b: Bonus Action**{ .em }, or **:rsc-r: Reaction**{ .em }
+**Cost:** **:rsc-a: Action**{ .rsc }, **:rsc-b: Bonus Action**{ .rsc }, or **:rsc-r: Reaction**{ .rsc }
 
 Spellcasters such as Wizards and Clerics, as well as many monsters, have access to spells and can use them to great effect in combat. 
 
@@ -78,7 +78,7 @@ Casting a spell is, therefore, not necessarily an action. Most spells do have a 
 
 ### Dash
 
-**Cost:** **:rsc-a: Action**{ .em }
+**Cost:** **:rsc-a: Action**{ .rsc }
 
 When you take the **Dash** action, you gain extra movement for the current turn. The increase equals your speed, after applying any modifiers. With a speed of 30 feet, for example, you can move up to 60 feet on your turn if you dash.
 
@@ -88,7 +88,7 @@ Any increase or decrease to your speed changes this additional movement by the s
 
 ### Disengage
 
-**Cost:** **:rsc-a: Action**{ .em }
+**Cost:** **:rsc-a: Action**{ .rsc }
 
 If you take the **Disengage** action, your movement doesn't provoke Opportunity Attacks for the rest of the turn.
 
@@ -96,7 +96,7 @@ If you take the **Disengage** action, your movement doesn't provoke Opportunity 
 
 ### Dodge
 
-**Cost:** **:rsc-a: Action**{ .em }
+**Cost:** **:rsc-a: Action**{ .rsc }
 
 When you take the **Dodge** action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity :d20-save: **Saving Throw**s with advantage. You lose this benefit if you are incapacitated (as explained in the appendix) or if your speed drops to 0.
 
@@ -112,7 +112,7 @@ If a spell must be maintained with concentration, that fact appears in its Durat
 
 ### Help
 
-**Cost:** **:rsc-a: Action**{ .em }
+**Cost:** **:rsc-a: Action**{ .rsc }
 
 When you take the **Help** action, you do one of the following:
 
@@ -124,7 +124,7 @@ When you take the **Help** action, you do one of the following:
 
 ### Hide 
 
-**Cost:** **:rsc-a: Action**{ .em }
+**Cost:** **:rsc-a: Action**{ .rsc }
 
 With the Hide action, you try to conceal yourself. To do so stealthily, you must succeed on a DC 15 Dexterity (Stealth) check while you're Heavily Obscured or behind Three-Quarters Cover or Total Cover, and you must be out of any visible enemy's line of sight; if you can see a creature, you can discern whether it can see you.
 
@@ -140,7 +140,7 @@ The condition ends on you immediately after any of the following occurrences:
 
 ### Identify a Spell
 
-**Cost:** **:rsc-a: Action**{ .em } or **:rsc-r: Reaction**{ .em }
+**Cost:** **:rsc-a: Action**{ .rsc } or **:rsc-r: Reaction**{ .rsc }
 
 A character can use their reaction to identify a spell as it's being cast, or they can use an action on their turn to identify a spell by its effect after it is cast.
 
@@ -152,9 +152,9 @@ This Intelligence (Arcana) check represents the fact that identifying a spell re
 
 ### Magic
 
-**Cost:** **:rsc-a: Action**{ .em }
+**Cost:** **:rsc-a: Action**{ .rsc }
 
-When you take the Magic action, you magic something by casting a spell that has a casting time of an **:rsc-a: Action**{ .em } or by using a feature or Magic Item that requires a Magic action to be activated.
+When you take the Magic action, you magic something by casting a spell that has a casting time of an **:rsc-a: Action**{ .rsc } or by using a feature or Magic Item that requires a Magic action to be activated.
 
 If you cast a spell that has a casting time of 1 minute or longer, you must take the Magic action on each turn of that casting, and you must maintain Concentration while you do so. If your Concentration is broken, the spell fails, but you don't expend a spell slot.
 
@@ -162,11 +162,11 @@ If you cast a spell that has a casting time of 1 minute or longer, you must take
 
 ### Opportunity Attack
 
-**Cost:** **:rsc-r: Reaction**{ .em }
+**Cost:** **:rsc-r: Reaction**{ .rsc }
 
 In a fight, everyone is constantly watching for enemies to drop their guard. You can rarely move heedlessly past your foes without putting yourself in danger; doing so provokes an Opportunity Attack.
 
-You can make an **:rsc-r: Opportunity Attack**{ .em } when a hostile creature that you can see moves out of your reach. To make the Opportunity Attack, you use your **:rsc-r: Reaction**{ .em } to make one melee attack against the provoking creature. The attack interrupts the provoking creature's movement, occurring right before the creature leaves your reach.
+You can make an **:rsc-r: Opportunity Attack**{ .em } when a hostile creature that you can see moves out of your reach. To make the Opportunity Attack, you use your **:rsc-r: Reaction**{ .rsc } to make one melee attack against the provoking creature. The attack interrupts the provoking creature's movement, occurring right before the creature leaves your reach.
 
 Opportunity Attack is also often referred to as 'Attack of Opportunity', they are both the same.
 
@@ -174,21 +174,21 @@ Opportunity Attack is also often referred to as 'Attack of Opportunity', they ar
 
 ### Ready
 
-**Cost:** **:rsc-a: Action**{ .em }
+**Cost:** **:rsc-a: Action**{ .rsc }
 
-You take the **Ready** action to wait for a particular circumstance before you act. To do so, you take this action on your turn, which lets you act by taking a **:rsc-r: Reaction**{ .em } before the start of your next turn.
+You take the **Ready** action to wait for a particular circumstance before you act. To do so, you take this action on your turn, which lets you act by taking a **:rsc-r: Reaction**{ .rsc } before the start of your next turn.
 
 First, you decide what perceivable circumstance will trigger your Reaction. Then, you choose the action you will take in response to that trigger, or you choose to move up to your Speed in response to it. Examples include "If the cultist steps on the trapdoor, I'll pull the lever that opens it," and "If the zombie steps next to me, I move away."
 
 When the trigger occurs, you can either take your Reaction right after the trigger finishes or ignore the trigger.
 
-***Readying a Spell.*** When you Ready a spell, you cast it as normal (expending any resources used to cast it) but hold its energy, which you release with your **:rsc-r: Reaction**{ .em } when the trigger occurs. To be readied, a spell must have a casting time of an action, and holding on to the spell's magic requires Concentration, which you can maintain up to the start of your next turn. If your Concentration is broken, the spell dissipates without taking effect.
+***Readying a Spell.*** When you Ready a spell, you cast it as normal (expending any resources used to cast it) but hold its energy, which you release with your **:rsc-r: Reaction**{ .rsc } when the trigger occurs. To be readied, a spell must have a casting time of an action, and holding on to the spell's magic requires Concentration, which you can maintain up to the start of your next turn. If your Concentration is broken, the spell dissipates without taking effect.
 
 ---
 
 ### Search 
 
-**Cost:** **:rsc-a: Action**{ .em }
+**Cost:** **:rsc-a: Action**{ .rsc }
 
 When you take the Search action, you make a Wisdom check to discern something that isn't obvious. The Search table suggests which skills are applicable when you take this action, depending on what you're trying to detect.
 
@@ -205,7 +205,7 @@ When you take the Search action, you make a Wisdom check to discern something th
 
 ### Study
 
-**Cost:** **:rsc-a: Action**{ .em }
+**Cost:** **:rsc-a: Action**{ .rsc }
 
 When you take the Study action, you make an Intelligence check to study your memory, a book, a creature, a clue, an object, or another source of
 knowledge and call to mind an important piece of information about it.
@@ -226,7 +226,7 @@ The Areas of Knowledge table suggests which skills are applicable when you take 
 
 ### Unarmed Strike
 
-**Cost:** **:rsc-a: Action**{ .em }
+**Cost:** **:rsc-a: Action**{ .rsc }
 
 Instead of using a weapon to make a melee attack, you can use a punch, kick, head-butt, or similar forceful blow. In game terms, this is an Unarmed Strike—a melee attack that involves you using your body to damage, grapple, or shove a target within 5 feet of you.
 
@@ -252,7 +252,7 @@ The target must succeed on a Strength or Dexterity saving throw (it chooses whic
 
 ### Utilise
 
-**Cost:** **:rsc-a: Action**{ .em }
+**Cost:** **:rsc-a: Action**{ .rsc }
 
 You normally interact with an object while doing something else, such as when you draw a sword as part of the Attack action. When an object requires an action for its use, you take the Utilize action.
 

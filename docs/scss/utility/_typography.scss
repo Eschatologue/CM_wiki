@@ -24,6 +24,7 @@
     font-variant: small-caps !important; /* Make font smallcaps so it looks different than the rest */
 }
 
+// Used for D20 rolls, Initiative, Ability Cheks, Saving Throws etc
 .d20 {
     @extend .em;
     @extend .smallcap;
@@ -36,6 +37,15 @@
     }
 }
 
+// RSC or Resource. Anything that players need to "expend" to do something
+.rsc {
+    @extend .em;
+    @extend .smallcap;
+    
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+// Inline Sub for options and features
 .inl {
     @extend .em;
 
@@ -57,7 +67,7 @@
 
 //-----------------------------------------------------//
 
-/* Damage-type Dynamic Class Generati0n */
+/* Damage-type Dynamic Class Generation */
 
 $damage-types: (
     acid: #AED581,
@@ -82,3 +92,5 @@ $damage-types: (
         font-style: none !important;
     }
 }
+
+
