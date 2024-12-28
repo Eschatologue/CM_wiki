@@ -41,7 +41,7 @@ When you activate your Rage, you can choose one of the following benefits:
   
 ***Temporary Hit Points.*** You gain a number of Temporary Hit Points equal to one roll of your Superiority Die.
  
-***Improved Speed.*** Opportunity Attack against you have :d20-disadv: **Disadvantage** and your :rsc-speed: Speed is doubled for your current turn.
+***Improved Speed.*** Opportunity Attack against you have :d20-disadv: **Disadvantage** and your :rsc-spd: Speed is doubled for your current turn.
 
 ### Level 6: Improved Superiority
 

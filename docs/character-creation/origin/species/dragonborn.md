@@ -10,7 +10,7 @@ Dragonborn look like wingless, bipedal dragons—scaly, bright-eyed, and thick-b
 
 :material-human: **Creature Type:** Humanoid  
 :trait-size: **Size:** Medium (about 5-7 feet tall)  
-:rsc-speed: **Speed:** Standard (30 feet)
+:rsc-spd: **Speed:** Standard (30 feet)
 
 As a Dragonborn, you have these special traits.
 
@@ -70,7 +70,7 @@ You have :dmg-res: Resistance to the damage type determined by your *Draconic An
 
 ### Draconic Flight
 
-When you reach character level 5, you can channel draconic magic to gice yourself temporary flight. As a :rsc-b: **Bonus Action**, you sprout spectral wings on yourback that last for 10 minutes or until you retract the wings (no action required) or have the Incapacitated condition. During that time, you have Fly Speed equal to your :rsc-speed: Speed.
+When you reach character level 5, you can channel draconic magic to gice yourself temporary flight. As a :rsc-b: **Bonus Action**, you sprout spectral wings on yourback that last for 10 minutes or until you retract the wings (no action required) or have the Incapacitated condition. During that time, you have Fly Speed equal to your :rsc-spd: Speed.
 
 Your wings appear to be made of the same energy as your Breath Weapon. Once you use this trait, you can't use it again until you finish a Long Rest.
 

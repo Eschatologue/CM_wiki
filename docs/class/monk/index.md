@@ -130,7 +130,7 @@ You can take the Dash action as a :rsc-b: Bonus Action. Alternatively, you can e
 
 ### Level 2: Unarmoured Movement
 
-Your :rsc-speed: Speed increases by 10 feet while you aren't wearing armour or wielding a Shield. This bonus increases when you reach certain Monk levels, as shown on the Monk Features table.
+Your :rsc-spd: Speed increases by 10 feet while you aren't wearing armour or wielding a Shield. This bonus increases when you reach certain Monk levels, as shown on the Monk Features table.
 
 ### Level 2: Uncanny Metabolism
 

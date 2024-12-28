@@ -10,7 +10,7 @@ Gnomes are petite folk with big eyes and pointed ears, who live around 425 years
 
 :material-human: **Creature Type:** Humanoid  
 :trait-size: **Size:** Small (about 3-4 feet tall)  
-:rsc-speed: **Speed:** Standard (30 feet)
+:rsc-spd: **Speed:** Standard (30 feet)
 
 As a Gnome, you have these following traits. 
 

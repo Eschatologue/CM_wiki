@@ -23,7 +23,7 @@ Wood elves carry the magic of primeval forests within themselves. They are known
 
 :material-human: **Creature Type:** Humanoid  
 :trait-size: **Size:** Medium (about 5-6 feet tall)  
-:rsc-speed: **Speed:** Standard (30 feet)
+:rsc-spd: **Speed:** Standard (30 feet)
 
 As an Elf, you have these special traits.
 
@@ -55,7 +55,7 @@ You don't need to sleep, and magic can't put you to sleep. You can finish a Long
 |---|---|---|---|
 | Drow | The range of your Darkvision increases to 120 feet. <br>You also know the *Dancing Lights* cantrip. | *Faerie Fire* | *Darkness* |
 | High Elf | You know the *Prestidigitation* cantrip. Can :material-reload: Replace on Long Rest with another Wizard's cantrip. | *Detect Magic* | *Misty Step* |
-| Wood Elf | Your :rsc-speed: Speed increases to 35 feet. <br>You also know the *Druidcraft* cantrip. | *Longstrider* | *Pass without Trace* |
+| Wood Elf | Your :rsc-spd: Speed increases to 35 feet. <br>You also know the *Druidcraft* cantrip. | *Longstrider* | *Pass without Trace* |
 
 <!--
 ## Lore

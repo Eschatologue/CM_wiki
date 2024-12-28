@@ -12,7 +12,7 @@ On some worlds in the multiverse, the first settlements of dwarves were built in
 
 :material-human: **Creature Type:** Humanoid  
 :trait-size: **Size:** Medium (about 4-5 feet tall)  
-:rsc-speed: **Speed:** Standard (30 feet)
+:rsc-spd: **Speed:** Standard (30 feet)
 
 As a Dwarf, you have these special traits.
 
@@ -30,4 +30,4 @@ As a Bonus Action, you gain Tremorsense with a range of 60 feet for 10 minutes. 
 
 ### Stocky
 
-Your :rsc-speed: **Speed** is not reduce by wearing Heavy armour.
+Your :rsc-spd: **Speed** is not reduce by wearing Heavy armour.

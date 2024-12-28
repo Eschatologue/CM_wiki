@@ -50,7 +50,7 @@ In terms of timing, a **:rsc-r: Reaction**{ .rsc } takes place immediatelt after
 
 Below is a list of all actions you can take, along with relevant details:
 
-**Cost**: Each action requires using one of your available resources—**:rsc-a: Action**{ .rsc }, **:rsc-b: Bonus Action**{ .rsc }, or **:rsc-r: Reaction**{ .rsc }. To perform a specific action, you must have the appropriate resource available. For example, you cannot take the Attack action (which requires an Action) if you have already used your Action to take the Dash action.
+**Cost:** Each action requires using one of your available resources—**:rsc-a: Action**{ .rsc }, **:rsc-b: Bonus Action**{ .rsc }, or **:rsc-r: Reaction**{ .rsc }. To perform a specific action, you must have the appropriate resource available. For example, you cannot take the **Attack**{ .rsc } action (which requires an Action) if you have already used your Action to take the Dash action.
 
 ---
 
@@ -80,9 +80,9 @@ Casting a spell is, therefore, not necessarily an **:rsc-a: Action**{ .rsc }. Mo
 
 **Cost:** **:rsc-a: Action**{ .rsc }
 
-When you take the **:rsc-a: Dash**{ .rsc } action, you gain extra movement for the current turn. The increase equals your **:rsc-speed: Speed**{ .rsc }, after applying any modifiers. With a speed of 30 feet, for example, you can move up to 60 feet on your turn if you Dash.
+When you take the **Dash**{ .rsc } action, you gain extra movement for the current turn. The increase equals your **:rsc-spd: Speed**{ .rsc }, after applying any modifiers. With a speed of 30 feet, for example, you can move up to 60 feet on your turn if you Dash.
 
-Any increase or decrease to your **:rsc-speed: Speed** changes this additional movement by the same amount. If your **:rsc-speed: Speed** of 30 feet is reduced to 15 feet, for instance, you can move up to 30 feet this turn if you Dash.
+Any increase or decrease to your **:rsc-spd: Speed** changes this additional movement by the same amount. If your **:rsc-spd: Speed** of 30 feet is reduced to 15 feet, for instance, you can move up to 30 feet this turn if you Dash.
 
 ---
 
@@ -90,7 +90,7 @@ Any increase or decrease to your **:rsc-speed: Speed** changes this additional m
 
 **Cost:** **:rsc-a: Action**{ .rsc }
 
-If you take the **Disengage** action, your movement doesn't provoke Opportunity Attacks for the rest of the turn.
+If you take the **Disengage**{ .rsc } action, your movement doesn't provoke Opportunity Attacks for the rest of the turn.
 
 ---
 
@@ -98,7 +98,7 @@ If you take the **Disengage** action, your movement doesn't provoke Opportunity 
 
 **Cost:** **:rsc-a: Action**{ .rsc }
 
-When you take the **Dodge** action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make **:d20-save: Dexterity saving throws**{ .d20 } with Advantage. You lose this benefit if you have the Incapacitated condition (as explained in the appendix) or if your speed drops to 0.
+When you take the **Dodge**{ .rsc } action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make **:d20-save: Dexterity saving throws**{ .d20 } with Advantage. You lose this benefit if you have the Incapacitated condition (as explained in the appendix) or if your speed drops to 0.
 
 ---
 
@@ -126,7 +126,7 @@ When you take the **Help**{ .rsc } action, you do one of the following:
 
 **Cost:** **:rsc-a: Action**{ .rsc }
 
-With the Hide action, you try to conceal yourself. To do so stealthily, you must succeed on a DC 15 Dexterity (Stealth) check while you're Heavily Obscured or behind Three-Quarters Cover or Total Cover, and you must be out of any visible enemy's line of sight; if you can see a creature, you can discern whether it can see you.
+With the **Hide**{ .rsc } action, you try to conceal yourself. To do so stealthily, you must succeed on a DC 15 Dexterity (Stealth) check while you're Heavily Obscured or behind Three-Quarters Cover or Total Cover, and you must be out of any visible enemy's line of sight; if you can see a creature, you can discern whether it can see you.
 
 On a successful check, you have the Invisible condition. Make note of your check's total, which becomes the DC for a creature to find you with a Wisdom (Perception) check.
 
@@ -144,9 +144,19 @@ The condition ends on you immediately after any of the following occurrences:
 
 A character can use their **:rsc-r: Reaction**{ .rsc } to identify a spell as it's being cast, or they can use an **:rsc-a: Action**{ .rsc } on their turn to identify a spell by its effect after it is cast.
 
-If the character perceived the casting, the spell's effect, or both, the character can make an Intelligence (Arcana) check with the reaction or action. The DC equals 15 + the spell's level. If the spell is cast as a class spell and the character is a member of that class, the check is made with **:d20-adv: Advantage**{ .d20 }. For example, if the spellcaster casts a spell as a cleric, another cleric has **:d20-adv: Advantage**{ .d20 } on the check to identify the spell. Some spells aren't associated with any class when they're cast, such as when a monster uses its Innate Spellcasting trait.
+If the character perceived the casting, the spell's effect, or both, the character can make an :d20-check: Intelligence (Arcana) check (DC 12 + the spell's level) with **:rsc-a: Action**{ .rsc } or **:rsc-r: Reaction**{ .rsc }, following the rule below:
 
-This Intelligence (Arcana) check represents the fact that identifying a spell requires a quick mind and familiarity with the theory and practice of casting. This is true even for a character whose spellcasting ability is Wisdom or Charisma. Being able to cast spells doesn't by itself make you adept at deducing exactly what others are doing when they cast their spells.
+#### Class Spell
+
+If the spell is cast as a class spell and the character is a member of that class, the check is made with **:d20-adv: Advantage**{ .d20 }. For example, if the spellcaster casts a spell as a cleric, another cleric has **:d20-adv: Advantage**{ .d20 } on the check to identify the spell. 
+
+#### Innate Spellcasting
+
+Some spells aren't associated with any class when they're cast, this includes when a monster uses its Innate Spellcasting trait. Checks made to indentify an Innate Spellcasting trait is made with a **:d20-disadv: Disdvantage**{ .d20 }.
+
+??? question "Why Arcana?"
+
+    This Intelligence (Arcana) check represents the fact that identifying a spell requires a quick mind and familiarity with the theory and practice of casting. This is true even for a character whose spellcasting ability is Wisdom or Charisma. Being able to cast spells doesn't by itself make you adept at deducing exactly what others are doing when they cast their spells.
 
 ---
 
@@ -154,7 +164,7 @@ This Intelligence (Arcana) check represents the fact that identifying a spell re
 
 **Cost:** **:rsc-a: Action**{ .rsc }
 
-When you take the Magic action, you magic something by casting a spell that has a casting time of an **:rsc-a: Action**{ .rsc } or by using a feature or Magic Item that requires a Magic action to be activated.
+When you take the **Magic**{ .rsc } action, you magic something by casting a spell that has a casting time of an **:rsc-a: Action**{ .rsc } or by using a feature or Magic Item that requires a Magic action to be activated.
 
 If you cast a spell that has a casting time of 1 minute or longer, you must take the Magic action on each turn of that casting, and you must maintain Concentration while you do so. If your Concentration is broken, the spell fails, but you don't expend a spell slot.
 
@@ -164,11 +174,9 @@ If you cast a spell that has a casting time of 1 minute or longer, you must take
 
 **Cost:** **:rsc-r: Reaction**{ .rsc }
 
-In a fight, everyone is constantly watching for enemies to drop their guard. You can rarely move heedlessly past your foes without putting yourself in danger; doing so provokes an Opportunity Attack.
+In a fight, everyone is constantly watching for enemies to drop their guard. You can rarely move heedlessly past your foes without putting yourself in danger; doing so provokes an **Opportunity Attack** (also often referred to as 'Attack of Opportunity').
 
 You can make an **:rsc-r: Opportunity Attack**{ .em } when a hostile creature that you can see moves out of your reach. To make the Opportunity Attack, you use your **:rsc-r: Reaction**{ .rsc } to make one melee attack against the provoking creature. The attack interrupts the provoking creature's movement, occurring right before the creature leaves your reach.
-
-Opportunity Attack is also often referred to as 'Attack of Opportunity', they are both the same.
 
 ---
 
@@ -178,9 +186,9 @@ Opportunity Attack is also often referred to as 'Attack of Opportunity', they ar
 
 You take the **Ready**{ .rsc } action to wait for a particular circumstance before you act. To do so, you take this action on your turn, which lets you act by taking a **:rsc-r: Reaction**{ .rsc } before the start of your next turn.
 
-First, you decide what perceivable circumstance will trigger your Reaction. Then, you choose the action you will take in response to that trigger, or you choose to move up to your Speed in response to it. Examples include "If the cultist steps on the trapdoor, I'll pull the lever that opens it," and "If the zombie steps next to me, I move away."
+First, you decide what perceivable circumstance will trigger your **:rsc-r: Reaction**{ .rsc }. Then, you choose the action you will take in response to that trigger, or you choose to move up to your **:rsc-spd: Speed**{ .rsc } in response to it. Examples include "If the cultist steps on the trapdoor, I'll pull the lever that opens it," and "If the zombie steps next to me, I move away."
 
-When the trigger occurs, you can either take your Reaction right after the trigger finishes or ignore the trigger.
+When the trigger occurs, you can either take your **:rsc-r: Reaction**{ .rsc } right after the trigger finishes or ignore the trigger.
 
 ***Readying a Spell.*** When you Ready a spell, you cast it as normal (expending any resources used to cast it) but hold its energy, which you release with your **:rsc-r: Reaction**{ .rsc } when the trigger occurs. To be readied, a spell must have a casting time of an action, and holding on to the spell's magic requires Concentration, which you can maintain up to the start of your next turn. If your Concentration is broken, the spell dissipates without taking effect.
 
@@ -190,7 +198,7 @@ When the trigger occurs, you can either take your Reaction right after the trigg
 
 **Cost:** **:rsc-a: Action**{ .rsc }
 
-When you take the Search action, you make a Wisdom check to discern something that isn't obvious. The Search table suggests which skills are applicable when you take this action, depending on what you're trying to detect.
+When you take the **Search**{ .rsc } action, you make a Wisdom check to discern something that isn't obvious. The Search table suggests which skills are applicable when you take this action, depending on what you're trying to detect.
 
 ##### Search
 
@@ -207,7 +215,7 @@ When you take the Search action, you make a Wisdom check to discern something th
 
 **Cost:** **:rsc-a: Action**{ .rsc }
 
-When you take the Study action, you make an Intelligence check to study your memory, a book, a creature, a clue, an object, or another source of
+When you take the **Study**{ .rsc} action, you make an Intelligence check to study your memory, a book, a creature, a clue, an object, or another source of
 knowledge and call to mind an important piece of information about it.
 
 The Areas of Knowledge table suggests which skills are applicable when you take this action, depending on the area of knowledge the Intelligence check is about.
@@ -228,7 +236,7 @@ The Areas of Knowledge table suggests which skills are applicable when you take 
 
 **Cost:** **:rsc-a: Action**{ .rsc }
 
-Instead of using a weapon to make a melee attack, you can use a punch, kick, head-butt, or similar forceful blow. In game terms, this is an Unarmed Strike—a melee attack that involves you using your body to damage, grapple, or shove a target within 5 feet of you.
+Instead of using a weapon to make a melee attack, you can use a punch, kick, head-butt, or similar forceful blow. In game terms, this is an **Unarmed Strike**{ .rsc }—a melee attack that involves you using your body to damage, grapple, or shove a target within 5 feet of you.
 
 Whenever you use your Unarmed Strike, choose one of the following options for its effect.
 

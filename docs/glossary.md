@@ -969,7 +969,7 @@ Tremorsense can't detect creatures or objects in the air, and it doesn't count a
 
 ## Speed
 
-A creature has a :rsc-speed: **Speed**, which is the distance in feet the creature can cover when it moves on its turn.
+A creature has a :rsc-spd: **Speed**, which is the distance in feet the creature can cover when it moves on its turn.
 
 ***Special Speeds.*** Some creatures have special speeds, such as a **Burrow Speed**, **Climb Speed**, **Fly Speed**, or **Swim Speed**. If you have more than one speed, choose which one to use when you move; you can switch between the speeds during your move. Whenever you switch, subtract the distance already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can't use the new speed during the current move. For example, if you have a Speed of 30 and a Fly Speed of 40, you could fly 10 feet, walk 10 feet, and leap into the air to fly 20 feet more.
 

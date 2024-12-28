@@ -10,7 +10,7 @@ Orcs are, on average, tall and broad. They have gray skin, ears that are sharply
 
 :material-human: **Creature Type:** Humanoid  
 :trait-size: **Size:** Medium (about 6-7 feet tall)  
-:rsc-speed: **Speed:** Standard (30 feet)
+:rsc-spd: **Speed:** Standard (30 feet)
 
 As an Orc, you have these following traits. 
 

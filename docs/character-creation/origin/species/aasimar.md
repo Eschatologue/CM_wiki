@@ -10,7 +10,7 @@ Aasimar can arise among any population of mortals. They resemble their parents, 
 
 :material-human: **Creature Type:** Humanoid  
 :trait-size: **Size:** Medium (about 4-7 feet tall) or Small (about 2-4 feet tall)  
-:rsc-speed: **Speed:** Standard (30 feet)
+:rsc-spd: **Speed:** Standard (30 feet)
 
 As an Aasimar, you have these following traits.
 
@@ -38,7 +38,7 @@ Once on each of your turns before that transformation ends, you can deal extra d
 
 Here are the transformation options:
 
-**Heavenly Wings**{ .inl } Two spectral wings sprout from your back temporarily. Until the transformation ends, you have a Fly Speed equal to your :rsc-speed: Speed.
+**Heavenly Wings**{ .inl } Two spectral wings sprout from your back temporarily. Until the transformation ends, you have a Fly Speed equal to your :rsc-spd: Speed.
 
 **Inner Radiance**{ .inl } Searing light temporarily radiates from your eyes and mouth. For the duration, you shed Bright Light in a 10-foot radius and Dim Light for an additional 10 feet, and at the end of each of your turn, each creature within 10 feet of you takes **:dmg-radi: Radiant**{ .dmg-radi } damage equal to your Proficiency Bonus.
 

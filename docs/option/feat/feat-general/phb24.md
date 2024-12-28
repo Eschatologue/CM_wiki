@@ -44,7 +44,7 @@ You gain the following benefits.
 Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.
 
 **Climb Speed**  
-You gain a Climb Speed equal to your :rsc-speed: Speed.
+You gain a Climb Speed equal to your :rsc-spd: Speed.
 
 **Hop Up**  
 When you are Prone, you can right yourself with only 5 feet of movement.
@@ -64,7 +64,7 @@ You gain the following benefits.
 Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
 **Improved Dash**  
-When you take the Dash Action, your :rsc-speed: Speed increases by 10 feet for that Action.
+When you take the Dash Action, your :rsc-spd: Speed increases by 10 feet for that Action.
 
 **Charge Attack**  
 If you move at least 10 feet in a straight line toward a target immediately before hitting it with a melee attack roll as part of the Attack action, choose one of the following effects: gain a 1d8 bonus to the attack's damage roll, or push the target up to 10 feet away if it is no more than one size larger than you. You can use this benefit only once on each of your turns.
@@ -220,7 +220,7 @@ When you hit a creature with an Unarmed Strike as part of the Attack action on y
 You have Advantage on attack rolls against a creature Grappled by you.
 
 **Fast Wrestler**  
-Your :rsc-speed: Speed isn't halved when you move a creature Grappled by you if the creature is your size or smaller.
+Your :rsc-spd: Speed isn't halved when you move a creature Grappled by you if the creature is your size or smaller.
 
 ---
 
@@ -616,7 +616,7 @@ You gain the following benefits.
 Increase your Dexterity or Constitution score by 1, to a maximum of 20.
 
 **Speed Increase**  
-Your :rsc-speed: Speed increases by 10 feet.
+Your :rsc-spd: Speed increases by 10 feet.
 
 **Dash Over Difficult Terrain**  
 When you take the Dash action on your turn, Difficult Terrain doesn't cost you extra movement for the rest of that turn.

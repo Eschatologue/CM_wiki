@@ -10,7 +10,7 @@ Goliaths have physical charateristic that are reminiscent of the giants in their
 
 :material-human: **Creature Type:** Humanoid  
 :trait-size: **Size:** Medium (about 7-8 feet tall)  
-:rsc-speed: **Speed:** Fast (35 feet)
+:rsc-spd: **Speed:** Fast (35 feet)
 
 As a Goliath, you have these following traits. 
 

@@ -264,7 +264,7 @@ _**Prerequisite:** Level 14+, **Item:** A suit of Armour (requires attunement)_
 
 The wearer of this armour gains these benefits:
 
-***Speed Increase.*** The wearer's :rsc-speed: Speed increases by 5 feet.
+***Speed Increase.*** The wearer's :rsc-spd: Speed increases by 5 feet.
 
 ***Power Gauntlet.*** The armour includes gauntlets, each of which is a melee weapon that can be wielded only when the hand is holding nothing. The wearer is proficient with the gauntlets. The Gauntlets has traits as described in the Power Gauntlet table.
 

@@ -45,7 +45,7 @@ If a combatant is suprised by combat starting, that combatant has :d20-disadv: :
 
 During your turn, you can do the following on any order:
 
-- Move up to your :rsc-speed: **Speed**
+- Move up to your :rsc-spd: **Speed**
 - Take one :rsc-a: **Action**
 - Take one :rsc-b: **Bonus Action** (If you have a feature that uses it)
 

@@ -55,7 +55,7 @@ This grenade explodes in a concussive blast that fills a 20-foot-radius :aoe-sph
 
 _Grenade, 300 sp, S._
 
-This grenade detonates in a burst of frost that fills 20-foot-radius :aoe-sphere: Sphere. Each creature in that area must make a :d20-save: DC 14 Constitution saving throw, taking 2d6 :dmg-cold: Cold damage from the grenade and have its :rsc-speed: Speed halved for 1 minute on a failed save. Affected creatures can repeat this save at the start of each of their turns, ending the slowing effect on a success. On a successful save, the creature takes only half damage and suffers no additional effects. 
+This grenade detonates in a burst of frost that fills 20-foot-radius :aoe-sphere: Sphere. Each creature in that area must make a :d20-save: DC 14 Constitution saving throw, taking 2d6 :dmg-cold: Cold damage from the grenade and have its :rsc-spd: Speed halved for 1 minute on a failed save. Affected creatures can repeat this save at the start of each of their turns, ending the slowing effect on a success. On a successful save, the creature takes only half damage and suffers no additional effects. 
 
 Creatures with :dmg-res: Resistance to :dmg-cold: Cold damage have **:d20-adv: Advantage**{ .d20 } on the saving throw, while those with :dmg-imm: Immunity automatically succeed.
 

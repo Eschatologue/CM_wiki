@@ -10,7 +10,7 @@ A tiefling chooses whether to emprace or lament their fiendish legacy. The three
 
 :material-human: **Creature Type:** Humanoid  
 :trait-size: **Size:** Medium (about 4-7 feet tall) or Small (about -4 feet tall)  
-:rsc-speed: **Speed:** Standard (30 feet)
+:rsc-spd: **Speed:** Standard (30 feet)
 
 As a Tiefling, you have the following special traits.
 

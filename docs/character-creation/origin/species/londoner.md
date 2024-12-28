@@ -12,7 +12,7 @@ The Londoners arrived from beyond Antares through the Northern Gate, bringing wi
 
 :material-human: **Creature Type:** Humanoid  
 :trait-size: **Size:** Medium (about 4-7 feet tall) or Small (about 2-4 feet tall)  
-:rsc-speed: **Speed:** Standard (30 feet)
+:rsc-spd: **Speed:** Standard (30 feet)
 
 You are unfortunate enough to have roots in Albion. You have these following traits. 
 

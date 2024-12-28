@@ -27,7 +27,7 @@ Additionally, while you aren't wearing Medium or Heavy armour, you gain the foll
 
 ***Bonus Unarmed Strike.*** You can make an Unarmed Strike as a :rsc-b: Bonus Action.
 
-***Climbing Speed.*** You gain a Climbing Speed equal to your :rsc-speed: Speed.
+***Climbing Speed.*** You gain a Climbing Speed equal to your :rsc-spd: Speed.
 
 ***Quick Jab.*** When you activate your Rage, you can make an Unarmed Strike as part of the same :rsc-b: Bonus Action.
 
@@ -53,9 +53,9 @@ Your expertise in hand-to-hand combat reaches new heights: your unarmed attacks 
 
 Once you have a hold of something it is nearly impossible for it to escape. You gain the following benefit:
 
-***Improved Grappling.*** The size of creatures that you can Grapple increases by one size. When you Grapple a creature more than one size larger than you, its :rsc-speed: Speed is halved, but you move with it so long as there is an unoccupied space adjacent to it.
+***Improved Grappling.*** The size of creatures that you can Grapple increases by one size. When you Grapple a creature more than one size larger than you, its :rsc-spd: Speed is halved, but you move with it so long as there is an unoccupied space adjacent to it.
 
-***No Speed Reduction.*** While you are moving or dragging a Grappled creature that is one size larger than you or smaller, your :rsc-speed: Speed isn't reduced.
+***No Speed Reduction.*** While you are moving or dragging a Grappled creature that is one size larger than you or smaller, your :rsc-spd: Speed isn't reduced.
 
 ### Level 14: Unyielding
 

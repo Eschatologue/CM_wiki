@@ -8,7 +8,7 @@ Halflings are naturally joyful and sociable, enjoying the comforts of home but p
 
 :material-human: **Creature Type:** Humanoid  
 :trait-size: **Size:** Small (about 2-3 feet tall)  
-:rsc-speed: **Speed:** Standard (30 feet)
+:rsc-spd: **Speed:** Standard (30 feet)
 
 As a Halfling, you have these special traits.
 

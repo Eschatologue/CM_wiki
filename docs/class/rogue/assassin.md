@@ -32,7 +32,7 @@ You are expert at the following techniques that aid your infiltrations.
 
 ***Masterful Mimicry.*** You can unerringly mimic another person's speech, handwriting, or both. if you have spent at least 1 hour studying them.
 
-***Roving Aim.*** Your :rsc-speed: Speed isn't reduced to 0 by using [Steady Aim](index.md#level-3-steady-aim).
+***Roving Aim.*** Your :rsc-spd: Speed isn't reduced to 0 by using [Steady Aim](index.md#level-3-steady-aim).
 
 ### Level 13: Envenom Weapons
 
