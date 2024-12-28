@@ -80,7 +80,7 @@ $damage-types: (
     necr: #4DB6AC,
     radi: #FFEB3B,
     force: #ff7369,
-    phsy: #B0BEC5
+    phys: #B0BEC5
 );
 
 @each $type, $color in $damage-types {
