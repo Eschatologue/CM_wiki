@@ -97,7 +97,7 @@
 }
 
 /*------------------------------------------------------- 
-    Typograph
+    Typography
 --------------------------------------------------------*/
 .em, .inl, .d20 {
   color: var(--md-gbl-text-color-strong); /* Make Text slightly brighter so its easier to see */
@@ -769,10 +769,6 @@
   transition: box-shadow 250ms;
 }
 
-.md-typeset {
-  /* Homebrew */
-  /* Glossary */
-}
 .md-typeset .admonition.homebrew,
 .md-typeset details.homebrew {
   border-color: hsl(40, 100%, 57%);
