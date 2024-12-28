@@ -13,7 +13,7 @@ When you do something other than moving or communicating, you typically take an 
 | **Attack** | Attack with a weapon or an Unarmed Strike |
 | **Dash** | For the rest of the turn, give yourself extra movement equal to your Speed |
 | **Disengage** | Your movement doesn't provoke Opportunity Attack for the rest of the turn | 
-| **Dodge** | Until the start of your next turn, Attack Rolls against you have **:d20-disadv: Disadvantage**{ .d20 }, and you make Dexterity saving throw with :d20-adv: **Advantage **. You lost this benefit if you have the Incapacitated condition or if your Speed is 0 |
+| **Dodge** | Until the start of your next turn, Attack Rolls against you have **:d20-disadv: Disadvantage**{ .d20 }, and you make Dexterity saving throw with **:d20-adv: Advantage**{ .d20 }. You lost this benefit if you have the Incapacitated condition or if your Speed is 0 |
 | **Help** | Help another creature Ability Check or Attack Roll, or administer first aid |
 | **Hide** | Make a Dexterity (Stealth) check | 
 | **Influence** | Make Charisma (Deception, Intimidation, Perfomance, or Persuassion) or Wisdom (Animal Handling) check to alter a creature's attitude |
@@ -39,7 +39,7 @@ You choose when to take a **:rsc-b: Bonus Action**{ .rsc } during your turn unle
 
 ## Reactions
 
-Certain special abilities, spells, and situations allow yout ake special actions called a **:rsc-r: Reaction**{ .rsc }, which is an instant response to a trigger of some kind, which can occur on your turn or on someeone else's. The :rsc-r: Opportunity Attack is the most common type of **Reactions**.
+Certain special abilities, spells, and situations allow yout ake special actions called a **:rsc-r: Reaction**{ .rsc }, which is an instant response to a trigger of some kind, which can occur on your turn or on someeone else's. The **:rsc-r: Opportunity Attack**{ .em } is the most common type of Reactions.
 
 When you take a **:rsc-r: Reaction**{ .rsc }, you can't take another one until the start of your next turn. If the reaction interrupts another creature's turn, that creature can continue its turn right after the Reaction.
 
@@ -58,7 +58,7 @@ Below is a list of all actions you can take, along with relevant details:
 
 **Cost:** **:rsc-a: Action**{ .rsc }
 
-The most common action to take in combat is the **Attack** action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists. With this action, you make one melee or ranged attack. This action often requires you to make an attack roll against the target's AC.
+The most common action to take in combat is the **Attack**{ .rsc } action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists. With this action, you make one melee or ranged attack. This action often requires you to make an attack roll against the target's AC.
 
 Certain features, such as the Extra Attack feature of the Fighter, allow you to make more than one attack with this action.
 
@@ -70,9 +70,9 @@ Certain features, such as the Extra Attack feature of the Fighter, allow you to 
 
 Spellcasters such as Wizards and Clerics, as well as many monsters, have access to spells and can use them to great effect in combat. 
 
-Each spell has a casting time, which specifies whether the caster must use an action, a reaction, minutes, or even hours to cast the spell. 
+Each spell has a casting time, which specifies whether the caster must use an **:rsc-a: Action**{ .rsc }, **:rsc-b: Bonus Action**{ .rsc }, or **:rsc-r: Reaction**{ .rsc }, minutes, or even hours to cast the spell. 
 
-Casting a spell is, therefore, not necessarily an action. Most spells do have a casting time of Action, so a spellcaster often uses their action in combat to cast such a spell. 
+Casting a spell is, therefore, not necessarily an **:rsc-a: Action**{ .rsc }. Most spells do have a casting time of **:rsc-a: Action**{ .rsc }, so a spellcaster often uses their action in combat to cast such a spell. 
 
 ---
 
@@ -80,9 +80,9 @@ Casting a spell is, therefore, not necessarily an action. Most spells do have a 
 
 **Cost:** **:rsc-a: Action**{ .rsc }
 
-When you take the **Dash** action, you gain extra movement for the current turn. The increase equals your speed, after applying any modifiers. With a speed of 30 feet, for example, you can move up to 60 feet on your turn if you dash.
+When you take the **:rsc-a: Dash**{ .rsc } action, you gain extra movement for the current turn. The increase equals your **:rsc-speed: Speed**{ .rsc }, after applying any modifiers. With a speed of 30 feet, for example, you can move up to 60 feet on your turn if you Dash.
 
-Any increase or decrease to your speed changes this additional movement by the same amount. If your speed of 30 feet is reduced to 15 feet, for instance, you can move up to 30 feet this turn if you dash.
+Any increase or decrease to your **:rsc-speed: Speed** changes this additional movement by the same amount. If your **:rsc-speed: Speed** of 30 feet is reduced to 15 feet, for instance, you can move up to 30 feet this turn if you Dash.
 
 ---
 
@@ -98,7 +98,7 @@ If you take the **Disengage** action, your movement doesn't provoke Opportunity 
 
 **Cost:** **:rsc-a: Action**{ .rsc }
 
-When you take the **Dodge** action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity :d20-save: **Saving Throw**s with advantage. You lose this benefit if you are incapacitated (as explained in the appendix) or if your speed drops to 0.
+When you take the **Dodge** action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make **:d20-save: Dexterity saving throws**{ .d20 } with Advantage. You lose this benefit if you have the Incapacitated condition (as explained in the appendix) or if your speed drops to 0.
 
 ---
 
@@ -114,11 +114,11 @@ If a spell must be maintained with concentration, that fact appears in its Durat
 
 **Cost:** **:rsc-a: Action**{ .rsc }
 
-When you take the **Help** action, you do one of the following:
+When you take the **Help**{ .rsc } action, you do one of the following:
 
-***Assist Ability Check.*** Choose one of your skill or tool proficiencies and one ally who can perceive you. You give Advantage to the next ability check that ally makes with the chosen skill or tool. This benefit expires if the ally doesn't use it before the start of your next turn. To give this assistance, you must be near enough to the ally to assist verbally or physically when the ally makes the check. The DM has final say on whether your assistance is possible.
+**Assist Ability Check**{ .inl } Choose one of your skill or tool proficiencies and one ally who can perceive you. You give **:d20-adv: Advantage**{ .d20 } to the next ability check that ally makes with the chosen skill or tool. This benefit expires if the ally doesn't use it before the start of your next turn. To give this assistance, you must be near enough to the ally to assist verbally or physically when the ally makes the check. The DM has final say on whether your assistance is possible.
 
-***Assist Attack Roll.*** You momentarily distract an enemy within 5 feet of you, giving Advantage to the next attack roll by one of your allies against that enemy. This benefit expires at the start of your next turn.
+**Assist Attack Roll**{ .inl } You momentarily distract an enemy within 5 feet of you, giving **:d20-adv: Advantage**{ .d20 } to the next attack roll by one of your allies against that enemy. This benefit expires at the start of your next turn.
 
 ---
 
@@ -142,9 +142,9 @@ The condition ends on you immediately after any of the following occurrences:
 
 **Cost:** **:rsc-a: Action**{ .rsc } or **:rsc-r: Reaction**{ .rsc }
 
-A character can use their reaction to identify a spell as it's being cast, or they can use an action on their turn to identify a spell by its effect after it is cast.
+A character can use their **:rsc-r: Reaction**{ .rsc } to identify a spell as it's being cast, or they can use an **:rsc-a: Action**{ .rsc } on their turn to identify a spell by its effect after it is cast.
 
-If the character perceived the casting, the spell's effect, or both, the character can make an Intelligence (Arcana) check with the reaction or action. The DC equals 15 + the spell's level. If the spell is cast as a class spell and the character is a member of that class, the check is made with advantage. For example, if the spellcaster casts a spell as a cleric, another cleric has advantage on the check to identify the spell. Some spells aren't associated with any class when they're cast, such as when a monster uses its Innate Spellcasting trait.
+If the character perceived the casting, the spell's effect, or both, the character can make an Intelligence (Arcana) check with the reaction or action. The DC equals 15 + the spell's level. If the spell is cast as a class spell and the character is a member of that class, the check is made with **:d20-adv: Advantage**{ .d20 }. For example, if the spellcaster casts a spell as a cleric, another cleric has **:d20-adv: Advantage**{ .d20 } on the check to identify the spell. Some spells aren't associated with any class when they're cast, such as when a monster uses its Innate Spellcasting trait.
 
 This Intelligence (Arcana) check represents the fact that identifying a spell requires a quick mind and familiarity with the theory and practice of casting. This is true even for a character whose spellcasting ability is Wisdom or Charisma. Being able to cast spells doesn't by itself make you adept at deducing exactly what others are doing when they cast their spells.
 
@@ -176,7 +176,7 @@ Opportunity Attack is also often referred to as 'Attack of Opportunity', they ar
 
 **Cost:** **:rsc-a: Action**{ .rsc }
 
-You take the **Ready** action to wait for a particular circumstance before you act. To do so, you take this action on your turn, which lets you act by taking a **:rsc-r: Reaction**{ .rsc } before the start of your next turn.
+You take the **Ready**{ .rsc } action to wait for a particular circumstance before you act. To do so, you take this action on your turn, which lets you act by taking a **:rsc-r: Reaction**{ .rsc } before the start of your next turn.
 
 First, you decide what perceivable circumstance will trigger your Reaction. Then, you choose the action you will take in response to that trigger, or you choose to move up to your Speed in response to it. Examples include "If the cultist steps on the trapdoor, I'll pull the lever that opens it," and "If the zombie steps next to me, I move away."
 
