@@ -104,6 +104,9 @@
   white-space: nowrap; /* Prevent selected block to split on smaller screen sizes, used in conjuction with icons */
   font-weight: 550 !important;
 }
+.em abbr, .inl abbr, .d20 abbr {
+  border-bottom: none !important;
+}
 
 .jost {
   font-family: "Jost", sans-serif !important; /* Changes font to Jost */
