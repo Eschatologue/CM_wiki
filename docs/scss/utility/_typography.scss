@@ -74,7 +74,7 @@ $damage-types: (
 @each $type, $color in $damage-types {
     /* Damage type: #{$type} */
     .dmg-#{$type} {
-        color: convert.hex2hsl($color);
+        color: convert.hex3hsl($color);
         font-weight: 350;
         font-style: none;
     }
