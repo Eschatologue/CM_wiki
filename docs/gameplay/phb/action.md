@@ -98,7 +98,7 @@ If you take the **Disengage**{ .rsc } action, your movement doesn't provoke Oppo
 
 **Cost:** **:rsc-a: Action**{ .rsc }
 
-When you take the **Dodge**{ .rsc } action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make **:d20-save: Dexterity saving throws**{ .d20 } with Advantage. You lose this benefit if you have the Incapacitated condition (as explained in the appendix) or if your speed drops to 0.
+When you take the **Dodge**{ .rsc } action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has **:d20-disadv: Disadvantage**{ .d20 } if you can see the attacker, and you make **:d20-save: Dexterity saving throws** with **:d20-adv: Advantage**{ .d20 }. You lose this benefit if you have the Incapacitated condition or if your **:rsc-spd: Speed**{ .rsc } is 0.
 
 ---
 
@@ -106,7 +106,7 @@ When you take the **Dodge**{ .rsc } action, you focus entirely on avoiding attac
 
 **Cost:** None
 
-If a spell must be maintained with concentration, that fact appears in its Duration entry, and the spell specifies how long you can concentrate on it. You can end concentration at any time (no action required).
+If a spell must be maintained with Concentration, that fact appears in its Duration entry, and the spell specifies how long you can concentrate on it. You can end Concentration at any time (no action required).
 
 ---
 
@@ -126,7 +126,7 @@ When you take the **Help**{ .rsc } action, you do one of the following:
 
 **Cost:** **:rsc-a: Action**{ .rsc }
 
-With the **Hide**{ .rsc } action, you try to conceal yourself. To do so stealthily, you must succeed on a DC 15 Dexterity (Stealth) check while you're Heavily Obscured or behind Three-Quarters Cover or Total Cover, and you must be out of any visible enemy's line of sight; if you can see a creature, you can discern whether it can see you.
+With the **Hide**{ .rsc } action, you try to conceal yourself. To do so stealthily, you must succeed on a :d20-check: DC 15 Dexterity (Stealth) check while you're Heavily Obscured or behind Three-Quarters Cover or Total Cover, and you must be out of any visible enemy's line of sight; if you can see a creature, you can discern whether it can see you.
 
 On a successful check, you have the Invisible condition. Make note of your check's total, which becomes the DC for a creature to find you with a Wisdom (Perception) check.
 
