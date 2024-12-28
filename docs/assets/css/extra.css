@@ -147,10 +147,12 @@
   position: relative;
 }
 .inl::before {
+  color: var(--md-default-fg-color--light);
   content: "<";
   margin-right: 0.1em;
 }
 .inl::after {
+  color: var(--md-default-fg-color--light);
   content: ">";
   margin-left: 0.1em;
 }
