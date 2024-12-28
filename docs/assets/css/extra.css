@@ -144,77 +144,77 @@
 /* Damage Types */
 /* Damage type: acid */
 .dmg-acid {
-  color: 88deg, 50%, 67%;
+  color: hsl(88, 50%, 67%);
   font-weight: 350;
   font-style: none;
 }
 
 /* Damage type: cold */
 .dmg-cold {
-  color: 199deg, 91%, 64%;
+  color: hsl(199, 91%, 64%);
   font-weight: 350;
   font-style: none;
 }
 
 /* Damage type: fire */
 .dmg-fire {
-  color: 30deg, 100%, 63%;
+  color: hsl(30, 100%, 63%);
   font-weight: 350;
   font-style: none;
 }
 
 /* Damage type: posn */
 .dmg-posn {
-  color: 123deg, 38%, 57%;
+  color: hsl(123, 38%, 57%);
   font-weight: 350;
   font-style: none;
 }
 
 /* Damage type: thun */
 .dmg-thun {
-  color: 265deg, 57%, 64%;
+  color: hsl(265, 57%, 64%);
   font-weight: 350;
   font-style: none;
 }
 
 /* Damage type: psyc */
 .dmg-psyc {
-  color: 328deg, 71%, 61%;
+  color: hsl(328, 71%, 61%);
   font-weight: 350;
   font-style: none;
 }
 
 /* Damage type: lgtn */
 .dmg-lgtn {
-  color: 203deg, 53%, 56%;
+  color: hsl(203, 53%, 56%);
   font-weight: 350;
   font-style: none;
 }
 
 /* Damage type: necr */
 .dmg-necr {
-  color: 174deg, 63%, 40%;
+  color: hsl(174, 63%, 40%);
   font-weight: 350;
   font-style: none;
 }
 
 /* Damage type: radi */
 .dmg-radi {
-  color: 54deg, 100%, 62%;
+  color: hsl(54, 100%, 62%);
   font-weight: 350;
   font-style: none;
 }
 
 /* Damage type: force */
 .dmg-force {
-  color: 4deg, 100%, 71%;
+  color: hsl(4, 100%, 71%);
   font-weight: 350;
   font-style: none;
 }
 
 /* Damage type: phsy */
 .dmg-phsy {
-  color: 200deg, 15%, 73%;
+  color: hsl(200, 15%, 73%);
   font-weight: 350;
   font-style: none;
 }
