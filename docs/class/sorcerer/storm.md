@@ -64,7 +64,7 @@ The storm inside of you becomes more powerful.
 
 ***One with the Storm.*** You have immunity to Lightning and Thunder damage and you have a Fly Speed of 60 feet.
 
-***Blessing of the Tempest.*** As a Magic action, you can reduce your Fly Speed to 30 feet for 1 hour and choose a number of creatures within 30 feet of you equal to 3 + your Charisma modifier. The chosen creatures gain a Fly Speed of 30 feet for 1 hour. Once you use this feature, you can’t use it again until you finish a Short or Long Rest.
+***Blessing of the Tempest.*** As a **:rsc-a: Magic**{ .rsc } action, you can reduce your Fly Speed to 30 feet for 1 hour and choose a number of creatures within 30 feet of you equal to 3 + your Charisma modifier. The chosen creatures gain a Fly Speed of 30 feet for 1 hour. Once you use this feature, you can’t use it again until you finish a Short or Long Rest.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 

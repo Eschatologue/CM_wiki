@@ -96,7 +96,7 @@ Your practice of martial arts gives you mastery of combat styles that use your U
 
 You gain the following benefits while you are unarmed or wielding only Monk weapons and you aren't wearing armour or wielding a Shield.
 
-***Bonus Unarmed Strike.*** You can make an Unarmed Strike as a :rsc-b: Bonus Action.
+***Bonus Unarmed Strike.*** You can make an Unarmed Strike as a **:rsc-b: Bonus Action**{ .rsc }.
 
 ***Martial Arts Die.*** You can roll 1d6 in place of the normal damage of your Unarmed Strike or Monk weapons. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk Features table.
 
@@ -118,19 +118,19 @@ Some features that use :class-phb24-monk: **Focus Points** require your target t
 
 #### Flurry of Blows 
 
-You can expend 1 :class-phb24-monk: **Focus Point** to make two Unarmed Strikes as a :rsc-b: Bonus Action.
+You can expend 1 :class-phb24-monk: **Focus Point** to make two Unarmed Strikes as a **:rsc-b: Bonus Action**{ .rsc }.
 
 #### Patient Defense 
 
-You can take the Disengage action as a :rsc-b: Bonus Action. Alternatively, you can expend 1 :class-phb24-monk: **Focus Point** to take both the Disengage and the Dodge actions as a :rsc-b: Bonus Action.
+You can take the Disengage action as a **:rsc-b: Bonus Action**{ .rsc }. Alternatively, you can expend 1 :class-phb24-monk: **Focus Point** to take both the Disengage and the Dodge actions as a **:rsc-b: Bonus Action**{ .rsc }.
 
 #### Step of the Wind 
 
-You can take the Dash action as a :rsc-b: Bonus Action. Alternatively, you can expend 1 :class-phb24-monk: **Focus Point** to take both the Disengage and Dash actions as a :rsc-b: Bonus Action, and your jump distance is doubled for the turn.
+You can take the Dash action as a **:rsc-b: Bonus Action**{ .rsc }. Alternatively, you can expend 1 :class-phb24-monk: **Focus Point** to take both the Disengage and Dash actions as a **:rsc-b: Bonus Action**{ .rsc }, and your jump distance is doubled for the turn.
 
 ### Level 2: Unarmoured Movement
 
-Your **:rsc-spd: Speed**{ .rsc } increases by 10 feet while you aren't wearing armour or wielding a Shield. This bonus increases when you reach certain Monk levels, as shown on the Monk Features table.
+Your **:rsc-spd: Speed**{ .em } increases by 10 feet while you aren't wearing armour or wielding a Shield. This bonus increases when you reach certain Monk levels, as shown on the Monk Features table.
 
 ### Level 2: Uncanny Metabolism
 
@@ -140,7 +140,7 @@ Once you use this feature, you can't use it again until you finish a Long Rest.
 
 ### Level 3: Deflect Attacks
 
-When an attack roll hits you and its damage includes :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, or :dmg-slsh: Slashing damage, you can take a :rsc-r: Reaction to reduce the attack's total damage against you. The reduction equals 1d10 plus your Dexterity modifier and Monk level.
+When an attack roll hits you and its damage includes :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, or :dmg-slsh: Slashing damage, you can take a **:rsc-r: Reaction**{ .rsc } to reduce the attack's total damage against you. The reduction equals 1d10 plus your Dexterity modifier and Monk level.
 
 If you reduce the damage to 0, you can expend 1 :class-phb24-monk: **Focus Point** to redirect some of the attack's force. If you do so, choose a creature you can see within 5 feet of yourself if the attack was a melee attack or a creature you can see within 60 feet of yourself that isn't behind Total Cover if the attack was a ranged attack. That creature must succeed on a Dexterity saving throw or take damage equal to two rolls of your Martial Arts die plus your Dexterity modifier. The damage is the same type dealt by the attack.
 
@@ -154,7 +154,7 @@ You gain the [:option-feat-general: Ability Score Improvement](../../option/feat
 
 ### Level 4: Slow Fall
 
-You can take a :rsc-r: Reaction when you fall to reduce any damage you take from the fall by an amount equal to five times your Monk level.
+You can take a **:rsc-r: Reaction**{ .rsc } when you fall to reduce any damage you take from the fall by an amount equal to five times your Monk level.
 
 ### Level 5: Extra Attack
 

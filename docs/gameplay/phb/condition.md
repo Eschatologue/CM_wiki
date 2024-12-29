@@ -54,7 +54,7 @@ While you have the **Exhaustion** condition, you experience the following effect
 
 ***D20 Tests Affected.*** When you make a D20 Test, the roll is reduced by 2 times your Exhaustion level.
 
-***Speed Reduced.*** Your **:rsc-spd: Speed**{ .rsc } is reduced by a number of feet equal to 5 times your Exhaustion level.
+***Speed Reduced.*** Your **:rsc-spd: Speed**{ .em } is reduced by a number of feet equal to 5 times your Exhaustion level.
 
 ***Removing Exhaustion Levels.*** Finishing a Long Rest removes 1 of your Exhaustion levels. When your Exhaustion level reaches 0, the condition ends.
 
@@ -74,7 +74,7 @@ While you have the **Frightened** condition, you experience the following effect
 
 While you have the **Grappled** condition, you experience the following effects.
 
-***Speed 0.*** Your **:rsc-spd: Speed**{ .rsc } is 0 and can't increase.
+***Speed 0.*** Your **:rsc-spd: Speed**{ .em } is 0 and can't increase.
 
 ***Attacks Affected.*** You have Disadvantage on attack rolls against any target other than the grappler.
 
@@ -118,7 +118,7 @@ While you have the **Paralyzed** condition, you experience the following effects
 
 ***Incapacitated.*** You have the ^^[Incapacitated]^^ condition.
 
-***Speed 0.*** Your **:rsc-spd: Speed**{ .rsc } is 0 and can't increase.
+***Speed 0.*** Your **:rsc-spd: Speed**{ .em } is 0 and can't increase.
 
 ***Saving Throws Affected.*** You automatically fail Strength and Dexterity saving throws.
 
@@ -136,7 +136,7 @@ While you have the **Petrified** condition, you experience the following effects
 
 ***Incapacitated.*** You have the ^^[Incapacitated]^^ condition.
 
-***Speed 0.*** Your **:rsc-spd: Speed**{ .rsc } is 0 and can't increase.
+***Speed 0.*** Your **:rsc-spd: Speed**{ .em } is 0 and can't increase.
 
 ***Attacks Affected.*** Attack rolls against you have Advantage.
 
@@ -160,7 +160,7 @@ While you have the **Poisoned** condition, you experience the following effect.
 
 While you have the **Prone** condition, you experience the following effects.
 
-***Restricted Movement.*** Your only movement options are to crawl or to spend an amount of movement equal to half your **:rsc-spd: Speed**{ .rsc } (round down) to right yourself and thereby end the condition. If your **:rsc-spd: Speed**{ .rsc } is 0, you can't right yourself.
+***Restricted Movement.*** Your only movement options are to crawl or to spend an amount of movement equal to half your **:rsc-spd: Speed**{ .em } (round down) to right yourself and thereby end the condition. If your **:rsc-spd: Speed**{ .em } is 0, you can't right yourself.
 
 ***Attacks Affected.*** You have Disadvantage on attack rolls. An attack roll against you has Advantage if the attacker is within 5 feet of you. Otherwise, that attack roll has Disadvantage.
 
@@ -170,7 +170,7 @@ While you have the **Prone** condition, you experience the following effects.
 
 While you have the **Restrained** condition, you experience the following effects.
 
-***Speed 0.*** Your **:rsc-spd: Speed**{ .rsc } is 0 and can't increase.
+***Speed 0.*** Your **:rsc-spd: Speed**{ .em } is 0 and can't increase.
 
 ***Attacks Affected.*** Attack rolls against you have Advantage , and your attack rolls have Disadvantage.
 
@@ -208,7 +208,7 @@ While you have the **Unconscious** condition, you experience the following effec
 
 ***Inert.*** You have the ^^[Incapacitated]^^ and Prone conditions, and you drop whatever you're holding. When this condition ends, you remain Prone.
 
-***Speed 0.*** Your **:rsc-spd: Speed**{ .rsc } is 0 and can't increase.
+***Speed 0.*** Your **:rsc-spd: Speed**{ .em } is 0 and can't increase.
 
 ***Attacks Affected.*** Attack rolls against you have Advantage.
 

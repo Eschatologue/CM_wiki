@@ -29,7 +29,7 @@ The magic of your otherworldly patron ensures you always have certain spells rea
 
 You gain the ability to channel celestial energy to heal wounds. You have a pool of d6s that you spend to fuel this healing. The number of dice in the pool equals 1 plus your Warlock level.
 
-As a Bonus Action, you can heal yourself or one creature that you can see within 60 feet of yourself, spending dice from the pool. The maximum number of dice you can spend at once equals your Charisma modifier (minimum of one die). Roll the dice you spend, and restore a umber of Hit Points equal to the roll's total.
+As a **:rsc-b: Bonus Action**{ .rsc }, you can heal yourself or one creature that you can see within 60 feet of yourself, spending dice from the pool. The maximum number of dice you can spend at once equals your Charisma modifier (minimum of one die). Roll the dice you spend, and restore a umber of Hit Points equal to the roll's total.
 
 Your pool regains all expended dice when you finish a Long Rest.
 

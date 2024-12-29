@@ -70,7 +70,7 @@ The magic of your Arcane Armament empowers its strikes. Whenever you hit with an
 
 ### Level 15: Saint of the Forge
 
-You have become a master Forgewright and extend the power of your Arcane Armament to others. As a Bonus Action, you can flood a number of weapons equal to your Intelligence modifier (minimum of 1) within 30 feet, one of which can be your Arcane Armament, with raw power. For 1 minute, these weapons deal a bonus 1d8 :dmg-force: Force damage on hit.
+You have become a master Forgewright and extend the power of your Arcane Armament to others. As a **:rsc-b: Bonus Action**{ .rsc }, you can flood a number of weapons equal to your Intelligence modifier (minimum of 1) within 30 feet, one of which can be your Arcane Armament, with raw power. For 1 minute, these weapons deal a bonus 1d8 :dmg-force: Force damage on hit.
 
 Once you use this feature you must finish a Long Rest before you can use it again. If you have no uses left, you can expend a level 3+ spell slot to use it again.
 

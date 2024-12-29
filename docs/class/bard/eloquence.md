@@ -19,7 +19,7 @@ You are a master at saying the right thing at the right time. When you make a Ch
 
 ### Level 3: Unsettling Words
 
-You can spin words laced with magic that unsettle a creature and cause it to doubt itself. As a :rsc-b: Bonus Action, you can expend one use of your Bardic Inspiration and choose one creature you can see within 60 feet of you. Roll the Bardic Inspiration die. The creature must subtract the number rolled from the next saving throw it makes before the start of your next turn.
+You can spin words laced with magic that unsettle a creature and cause it to doubt itself. As a **:rsc-b: Bonus Action**{ .rsc }, you can expend one use of your Bardic Inspiration and choose one creature you can see within 60 feet of you. Roll the Bardic Inspiration die. The creature must subtract the number rolled from the next saving throw it makes before the start of your next turn.
 
 ### Level 6: Unfailing Inspiration
 
@@ -33,9 +33,9 @@ Once you use this feature, you can't use it again until you finish a Long Rest, 
 
 ### Level 14: Infectious Inspiration
 
-When you successfully inspire someone, the power of your eloquence can now spread to someone else. When a creature within 60 feet of you adds one of your Bardic Inspiration dice to a D20 Test and the roll succeeds, you can take a :rsc-r: Reaction to encourage a different creature (other than yourself) that can hear you within 60 feet of you, giving it a Bardic Inspiration die without expending any of your Bardic Inspiration uses.
+When you successfully inspire someone, the power of your eloquence can now spread to someone else. When a creature within 60 feet of you adds one of your Bardic Inspiration dice to a D20 Test and the roll succeeds, you can take a **:rsc-r: Reaction**{ .rsc } to encourage a different creature (other than yourself) that can hear you within 60 feet of you, giving it a Bardic Inspiration die without expending any of your Bardic Inspiration uses.
 
-You can use this Reaction a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+You can use this **:rsc-r: Reaction**{ .rsc } a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
 --8<-- "includes/snippets/skills.md"
 

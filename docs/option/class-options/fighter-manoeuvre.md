@@ -22,7 +22,7 @@ When you're within 5 feet of a creature on your turn, you can expend **one** Sup
 
 ### Commander's Strike
 
-When you take the Attack action on your turn, you can replace one of your attacks to direct one of your companions to strike. When you do so, choose a willing creature who can see or hear you and expend **one** Superiority Die. That creature can immediately use its :rsc-r: Reaction to make one attack with a weapon or an Unarmed Strike, adding the Superiority Die to the attack's damage roll on a hit.
+When you take the Attack action on your turn, you can replace one of your attacks to direct one of your companions to strike. When you do so, choose a willing creature who can see or hear you and expend **one** Superiority Die. That creature can immediately use its **:rsc-r: Reaction**{ .rsc } to make one attack with a weapon or an Unarmed Strike, adding the Superiority Die to the attack's damage roll on a hit.
 
 ### Commanding Presence
 
@@ -42,7 +42,7 @@ When you move at least 5 feet on your turn, you can expend **one** Superiority D
 
 ### Feinting Attack
 
-As a :rsc-b: Bonus Action, you can expend **one** Superiority Die to feint, choosing one creature within 5 feet of yourself as your target. You have Advantage on your next attack roll against that target this turn. If that attack hits, add the Superiority Die to the attack's damage roll.
+As a **:rsc-b: Bonus Action**{ .rsc }, you can expend **one** Superiority Die to feint, choosing one creature within 5 feet of yourself as your target. You have Advantage on your next attack roll against that target this turn. If that attack hits, add the Superiority Die to the attack's damage roll.
 
 ### Goading Attack
 
@@ -50,11 +50,11 @@ When you hit a creature with an attack roll, you can expend **one** Superiority 
 
 ### Lunging Attack
 
-As a :rsc-b: Bonus Action, you can expend **one** Superiority Die and take the Dash action. If you move at least 10 feet in a straight line immediately before hitting with a melee attack as part of the Attack action on this turn, you can add the Superiority Die to the attack's damage roll.
+As a **:rsc-b: Bonus Action**{ .rsc }, you can expend **one** Superiority Die and take the Dash action. If you move at least 10 feet in a straight line immediately before hitting with a melee attack as part of the Attack action on this turn, you can add the Superiority Die to the attack's damage roll.
 
 ### Manoeuvering Attack
 
-When you hit a creature with an attack roll, you can expend **one** Superiority Die to maneuver one of your comrades into another position. Add the Superiority Die roll to the attack's damage roll, and choose a willing creature who can see or hear you. That creature can use its :rsc-r: Reaction to move up to half its Speed without provoking an Opportunity Attack from the target of your attack.
+When you hit a creature with an attack roll, you can expend **one** Superiority Die to maneuver one of your comrades into another position. Add the Superiority Die roll to the attack's damage roll, and choose a willing creature who can see or hear you. That creature can use its **:rsc-r: Reaction**{ .rsc } to move up to half its Speed without provoking an Opportunity Attack from the target of your attack.
 
 ### Menacing Attack
 
@@ -62,7 +62,7 @@ When you hit a creature with an attack roll, you can expend **one** Superiority 
 
 ### Parry
 
-When another creature damages you with a melee attack, you can use your :rsc-r: Reaction and expend **one** Superiority Die to reduce the damage by the number you roll on your Superiority Die plus your Strength or Dexterity modifier (your choice).
+When another creature damages you with a melee attack, you can use your **:rsc-r: Reaction**{ .rsc } and expend **one** Superiority Die to reduce the damage by the number you roll on your Superiority Die plus your Strength or Dexterity modifier (your choice).
 
 ### Precision Attack
 
@@ -74,11 +74,11 @@ When you hit a creature with an attack using a weapon or an Unarmed Strike, you 
 
 ### Rally
 
-As a :rsc-b: Bonus Action, you can expend **one** Superiority Die to bolster the resolve of a companion. Choose an ally of yours who can see or hear you. That creature gains Temporary Hit Points equal to the Superiority Die roll plus your Intelligence, Wisdom, or Charisma modifier (your choice).
+As a **:rsc-b: Bonus Action**{ .rsc }, you can expend **one** Superiority Die to bolster the resolve of a companion. Choose an ally of yours who can see or hear you. That creature gains Temporary Hit Points equal to the Superiority Die roll plus your Intelligence, Wisdom, or Charisma modifier (your choice).
 
 ### Riposte
 
-When a creature misses you with a melee attack, you can use your :rsc-r: Reaction and expend **one** Superiority Die to make a melee attack with a weapon or an Unarmed Strike against the creature. If you hit, add the Superiority Die to the attack's damage.
+When a creature misses you with a melee attack, you can use your **:rsc-r: Reaction**{ .rsc } and expend **one** Superiority Die to make a melee attack with a weapon or an Unarmed Strike against the creature. If you hit, add the Superiority Die to the attack's damage.
 
 ### Sweeping Attack
 

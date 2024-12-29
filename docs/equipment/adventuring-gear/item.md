@@ -43,7 +43,7 @@ Ammunition is required by a weapon that has the Ammunition property. A weapon's 
 
 Adventuring gear, 50 gp
 
-As a Bonus Action, you can drink a vial of Antitoxin to gain Advantage on saving throws to avoid or end the Poisoned condition for 1 hour.
+As a **:rsc-b: Bonus Action**{ .rsc }, you can drink a vial of Antitoxin to gain Advantage on saving throws to avoid or end the Poisoned condition for 1 hour.
 
 ---
 
@@ -59,7 +59,7 @@ As a Utilize action, you can spill Ball Bearings from their pouch. They spread t
 
 Adventuring gear, poison, 100 gp
 
-As a Bonus Action, you can use a vial of Basic Poison to coat one weapon or up to three pieces of ammunition. A creature that takes Piercing or Slashing damage from the poisoned weapon or ammunition takes an extra 1d4 Poison damage. Once applied, the poison retains potency for 1 minute or until its damage is dealt, whichever comes first.
+As a **:rsc-b: Bonus Action**{ .rsc }, you can use a vial of Basic Poison to coat one weapon or up to three pieces of ammunition. A creature that takes Piercing or Slashing damage from the poisoned weapon or ammunition takes an extra 1d4 Poison damage. Once applied, the poison retains potency for 1 minute or until its damage is dealt, whichever comes first.
 
 ---
 
@@ -155,7 +155,7 @@ A Chest holds up to 12 cubic feet of contents.
 
 Adventuring gear, 250 sp, L.
 
-A Climber's Kit includes boot tips, gloves, pitons, and a harness. As a Utilize action, you can use the Climber's Kit to anchor yourself; when you do, you can't fall more than 25 feet from the anchor point, and you can't move more than 25 feet from there without undoing the anchor as a Bonus Action.
+A Climber's Kit includes boot tips, gloves, pitons, and a harness. As a Utilize action, you can use the Climber's Kit to anchor yourself; when you do, you can't fall more than 25 feet from the anchor point, and you can't move more than 25 feet from there without undoing the anchor as a  **:rsc-b: Bonus Action**{ .rsc }.
 
 ---
 
@@ -233,7 +233,7 @@ When you take the Attack action, you can replace one of your attacks with throwi
 
 Adventuring gear, 50 sp, S.
 
-A Hooded Lantern burns Oil as fuel to cast Bright Light in a 30-foot radius and Dim Light for an additional 30 feet. As a Bonus Action, you can lower the hood, reducing the light to Dim Light in a 5-foot radius, or raise it again.
+A Hooded Lantern burns Oil as fuel to cast Bright Light in a 30-foot radius and Dim Light for an additional 30 feet. As a **:rsc-b: Bonus Action**{ .rsc }, you can lower the hood, reducing the light to Dim Light in a 5-foot radius, or raise it again.
 
 ---
 
@@ -496,7 +496,7 @@ A Tent sleeps up to two Small or Medium creatures.
 
 Adventuring gear, 5 sp, S.
 
-A Tinderbox is a small container holding flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a Candle, Lamp, Lantern, or Torch—or anything else with exposed fuel—takes a Bonus Action. Lighting any other fire takes 1 minute.
+A Tinderbox is a small container holding flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a Candle, Lamp, Lantern, or Torch—or anything else with exposed fuel—takes a  **:rsc-b: Bonus Action**{ .rsc }. Lighting any other fire takes 1 minute.
 
 ---
 

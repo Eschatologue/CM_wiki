@@ -60,7 +60,7 @@ At certain Artificer levels, your Arcane Firearm gains more Upgrades: at level 5
 
 You can attack twice, instead of once, whenever you take the Attack action on your turn.
       
-Moreover, if you use your action to cast a spell, you can make one Arcane Firearm attack as a :rsc-b: Bonus Action on that turn.
+Moreover, if you use your action to cast a spell, you can make one Arcane Firearm attack as a **:rsc-b: Bonus Action**{ .rsc } on that turn.
 
 ### Level 9: Overcharge
 
@@ -70,11 +70,11 @@ This bonus damage is 2d6 for a level 1 spell slot and it increases by 1d6 for ea
 
 ### Level 9: Quickdraw
 
-You always seem to shoot first. You can add your Intelligence modifier (minimum of +1) to your Initiative rolls. Also, if you roll Initiative and don't have the Surprised or the Incapacitated conditon, you can use a Reaction to make one attack with your Arcane Firearm.
+You always seem to shoot first. You can add your Intelligence modifier (minimum of +1) to your Initiative rolls. Also, if you roll Initiative and don't have the Surprised or the Incapacitated conditon, you can use a **:rsc-r: Reaction**{ .rsc } to make one attack with your Arcane Firearm.
 
 ### Level 15: Master Gunslinger
 
-Your skill with your Arcane Firearm is nearly supernatural in battle. You can take a :rsc-b: Bonus Action on your turn to steady your breathing, granting you **:d20-adv: Advantage**{ .d20 } on any attacks you make with your Arcane Firearm until the end of your current turn.
+Your skill with your Arcane Firearm is nearly supernatural in battle. You can take a **:rsc-b: Bonus Action**{ .rsc } on your turn to steady your breathing, granting you **:d20-adv: Advantage**{ .d20 } on any attacks you make with your Arcane Firearm until the end of your current turn.
 
 Finally, once per turn when you make an attack with your Arcane Firearm with **:d20-adv: Advantage**{ .d20 } , you can forgo the **:d20-adv: Advantage**{ .d20 } to instead make one additional Arcane Firearm attack.
 
@@ -108,7 +108,7 @@ When one of your Upgrades requires a creature to make a saving throw, it makes i
 
     _**Prerequisite:** Level 3+ Artificer_
 
-    As a Bonus Action, you can touch your Arcane Firearm and expend a level 1+ spell slot and choose either :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-lgtn: Lighting, or :dmg-thun: Thunder. For the next minute, your Arcane Firearm deals additional damage of that type on hit.
+    As a **:rsc-b: Bonus Action**{ .rsc }, you can touch your Arcane Firearm and expend a level 1+ spell slot and choose either :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-lgtn: Lighting, or :dmg-thun: Thunder. For the next minute, your Arcane Firearm deals additional damage of that type on hit.
 
     The elemental damage is 1d4 for a level 1 spell slot, plus an additional 1d4 for each spell slot above level 1.
 
@@ -184,7 +184,7 @@ When one of your Upgrades requires a creature to make a saving throw, it makes i
 
     _**Prerequisite:** Level 15+ Artificer_
 
-    As a Magic action, you can set your Arcane Firearm up as a turret in an unoccupied 5-foot space. While you are within 120 feet of your Arcane Firearm, you can use a Bonus Action to cause your Arcane Firearm to make an attack, or use another one of its abilities, targeting a creature you can see in its range.
+    As a **:rsc-a: Magic**{ .rsc } action, you can set your Arcane Firearm up as a turret in an unoccupied 5-foot space. While you are within 120 feet of your Arcane Firearm, you can use a **:rsc-b: Bonus Action**{ .rsc } to cause your Arcane Firearm to make an attack, or use another one of its abilities, targeting a creature you can see in its range.
 
     ---
 --8<-- "includes/snippets/spells2/lv0-5.md"

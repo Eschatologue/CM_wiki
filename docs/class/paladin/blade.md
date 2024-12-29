@@ -24,7 +24,7 @@ When you take the **:rsc-a: Attack**{ .rsc } action, you can expend one use of y
 
 ### Level 3: Sacred Duel
 
-As a :rsc-b: Bonus Action, you can expend one use of your Channel Divinity to begin a Sacred Duel between you and another creature that agrees to the duel within 30 feet of you, designating you as duelists for 1 minute, or until one of you have the ^^Unconcious^^ condition.
+As a **:rsc-b: Bonus Action**{ .rsc }, you can expend one use of your Channel Divinity to begin a Sacred Duel between you and another creature that agrees to the duel within 30 feet of you, designating you as duelists for 1 minute, or until one of you have the ^^Unconcious^^ condition.
 
 Duelists are under the following effects:
 

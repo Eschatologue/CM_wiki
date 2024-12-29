@@ -42,7 +42,7 @@ You gain the following benefits while wearing this armour:
 
 ***Spellcasting Focus.***You can use the Arcane Armour as a spellcasting focus for your Artificer spells.
 
-***Second Skin.*** The armour attaches to you and can't be removed against your will. It also expands to cover your entire body. You can retract or deploy the helmet as a :rsc-b: Bonus Action. The armour replaces any missing limbs, functioning identically to a limb it replaces.
+***Second Skin.*** The armour attaches to you and can't be removed against your will. It also expands to cover your entire body. You can retract or deploy the helmet as a **:rsc-b: Bonus Action**{ .rsc }. The armour replaces any missing limbs, functioning identically to a limb it replaces.
 
 ***Quick Don/Doff.*** You can doff or don the armour as an :rsc-a: Utilise action.
 
@@ -65,7 +65,7 @@ You design your armour to be in the front line of conflict. It has the following
 
 ***Distracting Pulse.*** When you hit a creature with a melee attack, it has Disadvantage on attack rolls against targets other than you until the start of your next turn, as the armour magically emits a distracting pulse when the creature attacks someone else.
 
-***Defensive Field.*** While you are Bloodied, you can take a :rsc-b: Bonus Action to gain Temporary Hit Points equal to your Artificer level. You lose these Temporary Hit Points if you doff the armour
+***Defensive Field.*** While you are Bloodied, you can take a **:rsc-b: Bonus Action**{ .rsc } to gain Temporary Hit Points equal to your Artificer level. You lose these Temporary Hit Points if you doff the armour
 
 #### Infiltrator
 
@@ -101,9 +101,9 @@ Your Arcane Armour gains additional benefits based on its model, as shown below.
 
 #### Guardian
 
-When a Huge or smaller creature you can see ends its turn within 30 feet of you, you can use your :rsc-r: Reaction to magically force it to make a Strength saving throw against your Spell Save DC. On a failed save, you pull the creature up to 25 feet directly to an unoccupied space. If you pull the target to a space within 5 feet of you, you can make a melee weapon attack against it as part of this reaction.
+When a Huge or smaller creature you can see ends its turn within 30 feet of you, you can use your **:rsc-r: Reaction**{ .rsc } to magically force it to make a Strength saving throw against your Spell Save DC. On a failed save, you pull the creature up to 25 feet directly to an unoccupied space. If you pull the target to a space within 5 feet of you, you can make a melee weapon attack against it as part of this reaction.
 
-You can use this Reaction a number of times equal to your Intelligence modifier, and you regain all expended uses of it when you finish a Long Rest.
+You can use this **:rsc-r: Reaction**{ .rsc } a number of times equal to your Intelligence modifier, and you regain all expended uses of it when you finish a Long Rest.
 
 #### Infiltrator
 

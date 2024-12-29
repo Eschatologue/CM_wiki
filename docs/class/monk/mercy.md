@@ -42,7 +42,7 @@ You can use these benefits a total number of times equal to your Wisdom modifie 
 
 ### Level 17: Hand of Ultimate Mercy
 
-Your mastery of life energy opens the door to the ultimate mercy. As a Magic action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 :class-phb24-monk: **Focus Points**. The creature then returns to life, regaining a number of hit points equal to 4d10 + your Wisdom modifier. If the creature died while subject to any of the following conditions, it revives with them removed: Blinded, Deafened, Paralyzed, Poisoned, or Stunned.
+Your mastery of life energy opens the door to the ultimate mercy. As a **:rsc-a: Magic**{ .rsc } action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 :class-phb24-monk: **Focus Points**. The creature then returns to life, regaining a number of hit points equal to 4d10 + your Wisdom modifier. If the creature died while subject to any of the following conditions, it revives with them removed: Blinded, Deafened, Paralyzed, Poisoned, or Stunned.
 
 Once you use this feature, you can't use it again until you finish a long rest.
 

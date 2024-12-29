@@ -7,27 +7,23 @@
 
 // General Typeset Variables
 $headingFont: "Jost", sans-serif; // Font for headings
-$defaultFontWeight: 300; // Default font weight for text
-$defaultFontSize: convert.px2rem(15px); // Base font size converted to rem
-
-// Heading Size Variables
-$h1Size: $defaultFontSize * 2.2; // Size for H1
-$h2Size: $defaultFontSize * 1.5; // Size for H2
-$h3Size: $defaultFontSize * 1.30; // Size for H3
-$h4Size: $defaultFontSize * 1.15; // Size for H4
+$defaultFontSize: convert.px2rem(15px); // Base font size
 
 // Main Typeset Styles
 .md-typeset {
-    font-weight: $defaultFontWeight;
-    font-size: $defaultFontSize;
+    --default-font-size: #{convert.px2rem(15px)};
+    --default-font-weight: 300;
 
-    @media screen and (max-width: 768px) {
-        font-size: $defaultFontSize * 0.85; // Adjust font size for smaller screens
+    @media screen and (max-width: 720px) {
+        --default-font-size: #{convert.px2rem(13px)};
     }
+
+    font-size: var(--default-font-size);
 
     // Strong text styles
     strong {
         letter-spacing: $defaultFontSize * 0.03;
+        color: var(--md-gbl-text-color-strong);
     }
 
     // Paragraph styles
@@ -46,7 +42,7 @@ $h4Size: $defaultFontSize * 1.15; // Size for H4
     }
 
     // Definition list styles
-    dl, 
+    dl,
     dd {
         margin: convert.px2rem(-2px) 0;
     }
@@ -72,66 +68,65 @@ $h4Size: $defaultFontSize * 1.15; // Size for H4
 
     // H1 Specific Styles
     h1 {
-        font-size: $h1Size;
-        letter-spacing: $h1Size * 0.02;
-        font-weight: $defaultFontWeight * 1.65;
-        margin: convert.px2rem(9px) 0;
+        font-size: calc(var(--default-font-size) * 2.2);
+        letter-spacing: calc(var(--default-font-size) * 0.02);
+        font-weight: #{calc(var(--default-font-weight) * 1.65)}; // Ensure var(--default-font-weight) is numeric
+        margin: #{convert.px2rem(9px)} 0;
     }
 
     // H2 Specific Styles
     h2 {
-        font-size: $h2Size;
-        font-weight: $defaultFontWeight * 1.5;
-        letter-spacing: $h2Size * 0.075;
-        border-bottom: convert.px2rem(2.5px) solid var(--md-default-wht--025);
-        margin: convert.px2rem(18px) 0 convert.px2rem(4px) 0;
-        padding-bottom: convert.px2rem(2px);
+        font-size: calc(var(--default-font-size) * 1.75);
+        font-weight: #{calc(var(--default-font-weight) * 1.5)};
+        letter-spacing: calc(var(--default-font-size) * 0.075);
+        border-bottom: #{convert.px2rem(2.5px)} solid var(--md-default-wht--025);
+        margin: #{convert.px2rem(18px)} 0 #{convert.px2rem(4px)} 0;
+        padding-bottom: #{convert.px2rem(2px)};
     }
 
     // H3 Specific Styles
     h3 {
-        font-size: $h3Size;
+        font-size: calc(var(--default-font-size) * 1.5);
         font-weight: 530;
-        letter-spacing: $h3Size * 0.045;
-        margin: convert.px2rem(10px) 0;
-        border-bottom: convert.px2rem(2.55px) dotted var(--md-default-wht--025);
-
-        padding-bottom: convert.px2rem(4px);
+        letter-spacing: calc(var(--default-font-size) * 0.045);
+        margin: #{convert.px2rem(10px)} 0;
+        border-bottom: #{convert.px2rem(2.55px)} dotted var(--md-default-wht--025);
+        padding-bottom: #{convert.px2rem(4px)};
     }
 
     // H4 Specific Styles
     h4 {
-        font-size: $h4Size;
-        letter-spacing: $h4Size * 0.030;
+        font-size: calc(var(--default-font-size) * 1.25);
+        letter-spacing: calc(var(--default-font-size) * 0.03);
         font-weight: 550;
-        margin: convert.px2rem(12px) 0 convert.px2rem(-6px) 0;
-        padding-bottom: convert.px2rem(-2px);
+        margin: #{convert.px2rem(12px)} 0 #{convert.px2rem(-6px)} 0;
+        padding-bottom: #{convert.px2rem(-2px)};
     }
 
     // H5 Specific Styles
     h5 {
-        font-size: $defaultFontSize;
-        letter-spacing: $defaultFontSize * 0.03;
+        font-size: var(--default-font-size);
+        letter-spacing: calc(var(--default-font-size) * 0.03);
         font-weight: 500;
         text-transform: capitalize !important;
-        margin-bottom: convert.px2rem(-4px);
-        padding-bottom: convert.px2rem(-4px);
+        margin-bottom: #{convert.px2rem(-4px)};
+        padding-bottom: #{convert.px2rem(-4px)};
     }
 
     // H6 Specific Styles
     h6 {
-        font-size: $defaultFontSize * 0.85;
+        font-size: calc(var(--default-font-size) * 0.85);
         font-weight: 350;
     }
 }
 
-/* Divider Line */
+// Divider Line
 .md-typeset hr {
-    border-bottom: convert.px2em(3px) dashed rgba(255, 255, 255, 0.15);
-    padding-top: convert.px2rem(4px);
-    padding-top: convert.px2rem(4px);
+    border-bottom: #{convert.px2em(3px)} dashed rgba(255, 255, 255, 0.15);
+    padding-top: #{convert.px2rem(4px)};
 }
 
+// Large Font Size
 .xxxxl {
     font-size: 5.5rem;
 }

@@ -51,7 +51,7 @@ You have mastered new ways to use your telekinetic abilities, detailed below.
 
 ***Psi-Powered Leap***
 
-:   As a Bonus Action, you can propel your body with your mind. You gain a flying speed equal to twice your walking speed until the end of the current turn. Once you take this Bonus Action, you can't do so again until you finish a Short Rest or Long Rest, unless you expend a Psionic Energy die to take it again.
+:   As a **:rsc-b: Bonus Action**{ .rsc }, you can propel your body with your mind. You gain a flying speed equal to twice your walking speed until the end of the current turn. Once you take this Bonus Action, you can't do so again until you finish a Short Rest or Long Rest, unless you expend a Psionic Energy die to take it again.
 
 ***Telekinetic Thrust***
 
@@ -63,12 +63,12 @@ The psionic energy flowing through you has bolstered your mind. You have Resista
 
 ### Level 15: Bulwark of Force
 
-You can shield yourself and others with telekinetic force. As a Bonus Action, you can choose creatures, including yourself, within 30 feet of yourself, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures has Half Cover for 1 minute or until you have the Incapacitated condition.
+You can shield yourself and others with telekinetic force. As a **:rsc-b: Bonus Action**{ .rsc }, you can choose creatures, including yourself, within 30 feet of yourself, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures has Half Cover for 1 minute or until you have the Incapacitated condition.
 
 Once you use this feature, you can't do so again until you finish a Long Rest unless you expend a Psionic Energy Die (no action required) to restore your use of it.
 
 ### Level 18: Telekinetic Master
 
-You always have the [:spell-lv5: Telekinesis](../../spells/description/core/level-5.md#telekinesis) spell prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Intelligence. On each of your turns while you maintain Concentration on it, including the turn when you cast it, you can make one attack with a weapon as a Bonus Action.
+You always have the [:spell-lv5: Telekinesis](../../spells/description/core/level-5.md#telekinesis) spell prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Intelligence. On each of your turns while you maintain Concentration on it, including the turn when you cast it, you can make one attack with a weapon as a  **:rsc-b: Bonus Action**{ .rsc }.
 
 Once you cast the spell with this feature, you can't do so in this way again until you finish a Long Rest unless you expend a Psionic Energy Die (no action required) to restore your use of it.

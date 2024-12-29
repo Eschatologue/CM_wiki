@@ -88,7 +88,7 @@ Temporary Hit Points you gain from this feature last for 1 minute, or until you 
 
 ### Level 18: Legendary Witchblade
 
-You siphon power from death. When a creature dies within 30 feet of you, you can take a Reaction to regain one expended Pact Magic spell slot, or 1d4 of your expended Hit Dice.
+You siphon power from death. When a creature dies within 30 feet of you, you can take a **:rsc-r: Reaction**{ .rsc } to regain one expended Pact Magic spell slot, or 1d4 of your expended Hit Dice.
 
 Once you use this feature you must finish a Short or Long Rest before you can use it again.
 

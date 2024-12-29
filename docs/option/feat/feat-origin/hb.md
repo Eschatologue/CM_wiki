@@ -34,7 +34,7 @@ You gain Proficiency with Thieves' Tools.
 As part of a Short Rest, you can use scavenged or acquired materials to build a temporary set of Thieves' Tools for when you lack access to a permanent one. This temporary set ceases to function after 1 hour.
     
 **Slightly Cunning Action**  
-Choose one of the following actions: *Dash*, *Disengage*, *Hide* or *Utilise*. You can use the chosen action as a :rsc-b: Bonus Action.
+Choose one of the following actions: *Dash*, *Disengage*, *Hide* or *Utilise*. You can use the chosen action as a **:rsc-b: Bonus Action**{ .rsc }.
 
 ---
 

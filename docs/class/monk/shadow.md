@@ -24,7 +24,7 @@ Through rigorous training, you have learned to draw on the power of the Shadowfe
 
 ### Level 6: Shadow Step
 
-While entirely within Dim Light or Darkness, you can use a Bonus Action to teleport up to 60 feet to an unoccupied space you can see that is also in Dim Light or Darkness. You then have Advantage on the next melee attack you make before the end of the turn.
+While entirely within Dim Light or Darkness, you can use a **:rsc-b: Bonus Action**{ .rsc } to teleport up to 60 feet to an unoccupied space you can see that is also in Dim Light or Darkness. You then have Advantage on the next melee attack you make before the end of the turn.
 
 ### Level 11: Improved Shadow Step
 
@@ -32,7 +32,7 @@ You can draw on your connection to shadow to empower your teleportation. When yo
 
 ### Level 17: Cloak Of Shadows
 
-As a Magic action while entirely within Dim Light or Darkness, you can spend 3 :class-phb24-monk: **Focus Points** to shroud yourself with magical darkness for 1 minute, until you have the Incapacitated condition, or until you end your turn in Bright Light. While shrouded in darkness, you gain the following benefits:
+As a **:rsc-a: Magic**{ .rsc } action while entirely within Dim Light or Darkness, you can spend 3 :class-phb24-monk: **Focus Points** to shroud yourself with magical darkness for 1 minute, until you have the Incapacitated condition, or until you end your turn in Bright Light. While shrouded in darkness, you gain the following benefits:
 
 ***Invisibility.*** You have the Invisible condition.
 

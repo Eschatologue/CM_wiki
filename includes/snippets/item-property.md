@@ -3,7 +3,7 @@
 *[Explosive]: On a hit, explodes in an area. Creatures make a Dexterity save (DC = 8 + Proficiency + modifier); target has Disadvantage.
 *[Finesse]: Use Strength or Dexterity for attack and damage rolls (same modifier for both).
 *[Heavy]: Disadvantage on attack rolls if Strength (melee) or Dexterity (ranged) is below 13.
-*[Light]: Extra attack with a different Light weapon as a Bonus Action, without adding your ability modifier (unless negative).
+*[Light]: Extra attack with a different Light weapon as a **:rsc-b: Bonus Action**{ .rsc }, without adding your ability modifier (unless negative).
 *[Loading]: Can only fire one piece of ammunition per Action, Bonus Action, or Reaction.
 *[Mounted]: Requires mounting; unmounted use needs Strength 15.
 *[Range]: Two numbers show normal and long range; Disadvantage beyond normal range.

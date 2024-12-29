@@ -70,7 +70,7 @@ You have **:dmg-res: Resistance**{ .em } to the damage type determined by your *
 
 ### Draconic Flight
 
-When you reach character level 5, you can channel draconic magic to gice yourself temporary flight. As a **:rsc-b: Bonus Action**{ .rsc }, you sprout spectral wings on yourback that last for 10 minutes or until you retract the wings (no action required) or have the Incapacitated condition. During that time, you have Fly Speed equal to your :rsc-spd: Speed.
+When you reach character level 5, you can channel draconic magic to gice yourself temporary flight. As a **:rsc-b: Bonus Action**{ .rsc }, you sprout spectral wings on yourback that last for 10 minutes or until you retract the wings (no action required) or have the Incapacitated condition. During that time, you have Fly Speed equal to your **:rsc-spd: Speed**{ .em }.
 
 Your wings appear to be made of the same energy as your Breath Weapon. Once you use this trait, you can't use it again until you finish a Long Rest.
 

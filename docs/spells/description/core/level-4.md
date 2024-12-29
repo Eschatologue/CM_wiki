@@ -18,7 +18,7 @@ search:
 
 You create an Invisible, invulnerable eye within range that hovers for the duration. You mentally receive visual information from the eye, which can see in every direction. It also has Darkvision with a range of 30 feet.
 
-As a Bonus Action, you can move the eye up to 30 feet in any direction. A solid barrier blocks the eye's movement, but the eye can pass through an opening as small as 1 inch in diameter.
+As a **:rsc-b: Bonus Action**{ .rsc }, you can move the eye up to 30 feet in any direction. A solid barrier blocks the eye's movement, but the eye can pass through an opening as small as 1 inch in diameter.
 
 > **Classes:** Artificer, Wizard
 
@@ -114,7 +114,7 @@ One creature you can see within range makes a Wisdom saving throw. It does so wi
 
 Each creature of your choice that you can see within range must succeed on a Wisdom saving throw or have the Charmed condition until the spell ends.
 
-For the duration, you can take a Bonus Action to designate a direction that is horizontal to you. Each Charmed target must use as much of its movement as possible to move in that direction on its next turn, taking the safest route. After moving in this way, a target repeats the save, ending the spell on itself on a success.
+For the duration, you can take a **:rsc-b: Bonus Action**{ .rsc } to designate a direction that is horizontal to you. Each Charmed target must use as much of its movement as possible to move in that direction on its next turn, taking the safest route. After moving in this way, a target repeats the save, ending the spell on itself on a success.
 
 > **Classes:** Bard
 
@@ -173,7 +173,7 @@ In addition, the ground in the Emanation is Difficult Terrain for your enemies.
 
 You conjure nature spirits that flit around you in a 10-foot Emanation for the duration. Whenever the Emanation enters the space of a creature you can see and whenever a creature you can see enters the Emanation or ends its turn there, you can force that creature to make a Wisdom saving throw. The creature takes 5d8 Force damage on a failed save or half as much damage on a successful one. A creature makes this save only once per turn.
 
-In addition, you can take the Disengage action as a Bonus Action for the spell's duration.
+In addition, you can take the Disengage action as a **:rsc-b: Bonus Action**{ .rsc } for the spell's duration.
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 4.
 
@@ -189,7 +189,7 @@ In addition, you can take the Disengage action as a Bonus Action for the spell's
 **Components:** V, S, M (a mixture of water and dust)   
 **Duration:** Concentration, up to 10 minutes
 
-Until the spell ends, you control any water inside an area you choose that is a Cube up to 100 feet on a side, using one of the following effects. As a Magic action on your later turns, you can repeat the same effect or choose a different one.
+Until the spell ends, you control any water inside an area you choose that is a Cube up to 100 feet on a side, using one of the following effects. As a **:rsc-a: Magic**{ .rsc } action on your later turns, you can repeat the same effect or choose a different one.
 
 ***Flood.*** You cause the water level of all standing water in the area to rise by as much as 20 feet. If you choose an area in a large body of water, you instead create a 20-foot tall wave that travels from one side of the area to the other and then crashes. Any Huge or smaller vehicles in the wave's path are carried with it to the other side. Any Huge or smaller vehicles struck by the wave have a 25 percent chance of capsizing.
 
@@ -267,7 +267,7 @@ One Beast you can see within range must succeed on a Wisdom saving throw or have
 
 You have a telepathic link with the Charmed target while the two of you are on the same plane of existence. On your turn, you can use this link to issue commands to the target (no action required), such as "Attack that creature," "Move over there," or "Fetch that object." The target does its best to obey on its turn. If it completes an order and doesn't receive further direction from you, it acts and moves as it likes, focusing on protecting itself.
 
-You can command the target to take a Reaction but must take your own Reaction to do so.
+You can command the target to take a **:rsc-r: Reaction**{ .rsc } but must take your own Reaction to do so.
 
 ***Using a Higher-Level Spell Slot.*** Your Concentration can last longer with a spell slot of level 5 (up to 10 minutes), 6 (up to 1 hour), or 7+ (up to 8 hours).
 
@@ -384,7 +384,7 @@ A cool light wreathes your body for the duration, emitting Bright Light in a 20-
 
 Until the spell ends, you have Resistance to Radiant damage, and your melee attacks deal an extra 2d6 Radiant damage on a hit.
 
-In addition, immediately after you take damage from a creature you can see within 60 feet of yourself, you can take a Reaction to force the creature to make a Constitution saving throw. On a failed save, the creature has the Blinded condition until the end of your next turn.
+In addition, immediately after you take damage from a creature you can see within 60 feet of yourself, you can take a **:rsc-r: Reaction**{ .rsc } to force the creature to make a Constitution saving throw. On a failed save, the creature has the Blinded condition until the end of your next turn.
 
 > **Classes:** Bard, Druid
 
@@ -438,7 +438,7 @@ You conjure a vine that sprouts from a surface in an unoccupied space that you c
 
 Make a melee spell attack against a creature within 30 feet of the vine. On a hit, the target takes 4d8 Bludgeoning damage and is pulled up to 30 feet toward the vine; if the target is Huge or smaller, it has the Grappled condition (escape DC equal to your spell save DC). The vine can grapple only one creature at a time, and you can cause the vine to release a Grappled creature (no action required).
 
-As a Bonus Action on your later turns, you can repeat the attack against a creature within 30 feet of the vine.
+As a **:rsc-b: Bonus Action**{ .rsc } on your later turns, you can repeat the attack against a creature within 30 feet of the vine.
 
 ***Using a Higher-Level Spell Slot.*** The number of creatures the vine can grapple increases by one for each spell slot level above 4.
 
@@ -548,7 +548,7 @@ Hailstones turn ground in the Cylinder into Difficult Terrain until the end of y
 
 You hide a chest and all its contents on the Ethereal Plane. You must touch the chest and the miniature replica that serve as Material components for the spell. The chest can contain up to 12 cubic feet of nonliving material (3 feet by 2 feet by 2 feet).
 
-While the chest remains on the Ethereal Plane, you can take a Magic action and touch the replica to recall the chest. It appears in an unoccupied space on the ground within 5 feet of you. You can send the chest back to the Ethereal Plane by taking a Magic action to touch the chest and the replica.
+While the chest remains on the Ethereal Plane, you can take a **:rsc-a: Magic**{ .rsc } action and touch the replica to recall the chest. It appears in an unoccupied space on the ground within 5 feet of you. You can send the chest back to the Ethereal Plane by taking a **:rsc-a: Magic**{ .rsc } action to touch the chest and the replica.
 
 After 60 days, there is a cumulative 5 percent chance at the end of each day that the spell ends. The spell also ends if you cast this spell again or if the Tiny replica chest is destroyed. If the spell ends and the larger chest is on the Ethereal Plane, the chest remains there for you or someone else to find.
 
@@ -588,7 +588,7 @@ No one but you can see the hound, and it is intangible and invulnerable. When a 
 
 At the start of each of your turns, the hound attempts to bite one enemy within 5 feet of it. That enemy must succeed on a Dexterity saving throw or take 4d8 Force damage.
 
-On your later turns, you can take a Magic action to move the hound up to 30 feet.
+On your later turns, you can take a **:rsc-a: Magic**{ .rsc } action to move the hound up to 30 feet.
 
 > **Classes:** Artificer, Wizard
 
@@ -799,7 +799,7 @@ Until the spell ends, one willing creature you touch has Resistance to Bludgeoni
 
 A 20-foot-radius sphere of whirling air springs into existence, centered on a point you choose within range. The sphere remains for the spell's duration. Each creature in the sphere when it appears or that ends its turn there must succeed on a Strength saving throw or take 2d6 bludgeoning damage. The sphere's space is difficult terrain.
 
-Until the spell ends, you can use a Bonus Action on each of your turns to cause a bolt of lightning to leap from the center of the sphere toward one creature you choose within 60 feet of the center. Make a ranged spell attack. You have advantage on the attack roll if the target is in the sphere. On a hit, the target takes 4d6 lightning damage.
+Until the spell ends, you can use a **:rsc-b: Bonus Action**{ .rsc } on each of your turns to cause a bolt of lightning to leap from the center of the sphere toward one creature you choose within 60 feet of the center. Make a ranged spell attack. You have advantage on the attack roll if the target is in the sphere. On a hit, the target takes 4d6 lightning damage.
 
 Creatures within 30 feet of the sphere have disadvantage on Wisdom (Perception) checks made to listen.
 

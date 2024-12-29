@@ -28,7 +28,7 @@ Here's the converted table:
 Let me know if you need further adjustments!
 
 ### Level 3: Land's Aid
-As a Magic action, you can expend a use of your Wild Shape and choose a point within 60 feet of yourself. Vitality-giving flowers and life-draining thorns appear for a moment in a 10-foot-radius Sphere centered on that point. Each creature of your choice in the Sphere must make a Constitution saving throw against your spell save DC, taking 2d6 Necrotic damage on a failed save or half as much damage on a successful one. One creature of your choice in that area regains 2d6 Hit Points.
+As a **:rsc-a: Magic**{ .rsc } action, you can expend a use of your Wild Shape and choose a point within 60 feet of yourself. Vitality-giving flowers and life-draining thorns appear for a moment in a 10-foot-radius Sphere centered on that point. Each creature of your choice in the Sphere must make a Constitution saving throw against your spell save DC, taking 2d6 Necrotic damage on a failed save or half as much damage on a successful one. One creature of your choice in that area regains 2d6 Hit Points.
 
 The damage and healing increase by 1d6 when you reach Druid levels 10 (3d6) and 14 (4d6).
 
@@ -49,9 +49,9 @@ You are immune to the Poisoned condition, and you have Resistance to a damage ty
 
 ### Level 14: Nature's Sanctuary
 
-As a Magic action, you can expend a use of your Wild Shape and cause spectral trees and vines to appear in a 15-foot Cube on the ground within 120 feet of yourself. They last there for 1 minute or until you have the Incapacitated condition or die. You and your allies have Half Cover while in that area, and your allies gain the current Resistance of your Nature's Ward while there.
+As a **:rsc-a: Magic**{ .rsc } action, you can expend a use of your Wild Shape and cause spectral trees and vines to appear in a 15-foot Cube on the ground within 120 feet of yourself. They last there for 1 minute or until you have the Incapacitated condition or die. You and your allies have Half Cover while in that area, and your allies gain the current Resistance of your Nature's Ward while there.
 
-As a Bonus Action, you can move the Cube up to 60 feet to ground within 120 feet of yourself.
+As a **:rsc-b: Bonus Action**{ .rsc }, you can move the Cube up to 60 feet to ground within 120 feet of yourself.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 

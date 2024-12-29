@@ -37,7 +37,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 ### Level 3: Watcher’s Will
 
-You invest your presence with the warding power of your faith. As a :rsc-b: Bonus Action, you can expend a use of your Channel Divinity to choose a number of creatures you can see within 30 feet of you, up to a number equal to your Charisma modifier (minimum of one creature). For 1 minute, you and the chosen creatures have **:d20-adv: Advantage**{ .d20 } on Intelligence, Wisdom, and Charisma saving throws.
+You invest your presence with the warding power of your faith. As a **:rsc-b: Bonus Action**{ .rsc }, you can expend a use of your Channel Divinity to choose a number of creatures you can see within 30 feet of you, up to a number equal to your Charisma modifier (minimum of one creature). For 1 minute, you and the chosen creatures have **:d20-adv: Advantage**{ .d20 } on Intelligence, Wisdom, and Charisma saving throws.
 
 ### Level 7: Aura of the Sentinel
 
@@ -45,11 +45,11 @@ When you or a creature of your choice within your Aura of Protection rolls for I
 
 ### Level 15: Vigilant Rebuke
 
-You’ve learned how to chastise anyone who dares wield beguilements against you and your wards. Whenever you or a creature you can see within 30 feet of you succeeds on an Intelligence, a Wisdom, or a Charisma saving throw, you can use your Reaction to deal 2d8 + your Charisma modifier Force damage to the creature that forced the saving throw.
+You’ve learned how to chastise anyone who dares wield beguilements against you and your wards. Whenever you or a creature you can see within 30 feet of you succeeds on an Intelligence, a Wisdom, or a Charisma saving throw, you can use your **:rsc-r: Reaction**{ .rsc } to deal 2d8 + your Charisma modifier Force damage to the creature that forced the saving throw.
 
 ### Level 20: Mortal Bulwark
 
-You manifest a spark of divine power in defense of the mortal realms. As a :rsc-b: Bonus Action, you gain the following benefits for 10 minutes:
+You manifest a spark of divine power in defense of the mortal realms. As a **:rsc-b: Bonus Action**{ .rsc }, you gain the following benefits for 10 minutes:
 
 ***Truesight.*** You gain Truesight with a range of 120 feet.
 
@@ -57,7 +57,7 @@ You manifest a spark of divine power in defense of the mortal realms. As a :rsc-
 
 ***Extraplanar Banishment***. When you hit a creature with an attack roll and deal damage to it, you can also force it to make a Charisma saving throw against your spell save DC. On a failed save, the creature is magically banished to its native plane of existence if it’s currently not there. On a successful save, the creature can’t be banished by this feature for 24 hours.
 
-Once you use this :rsc-b: Bonus Action, you can’t use it again until you finish a Long Rest, unless you expend a level 5 spell slot to use it again.
+Once you use this **:rsc-b: Bonus Action**{ .rsc }, you can’t use it again until you finish a Long Rest, unless you expend a level 5 spell slot to use it again.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 

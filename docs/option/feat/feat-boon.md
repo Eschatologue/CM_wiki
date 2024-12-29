@@ -30,7 +30,7 @@ You gain the following benefits.
 Increase one ability score of your choice by 1, to a maximum of 30.
 
 ***Blink Steps***  
-Immediately after you take the Attack action or the Magic action, you can teleport up to 30 feet to an unoccupied space you can see.
+Immediately after you take the Attack action or the **:rsc-a: Magic**{ .rsc } action, you can teleport up to 30 feet to an unoccupied space you can see.
 
 ---
 
@@ -47,7 +47,7 @@ Increase one ability score of your choice by 1, to a maximum of 30.
 You gain Resistance to two of the following damage types of your choice: Acid, Cold, Fire, Lightning, Necrotic, Poison, Psychic, Radiant, or Thunder. Whenever you finish a Long Rest, you can change your choices.
 
 ***Energy Redirection***  
-When you take damage of one of the types chosen for the Energy Resistances benefit, you can take a Reaction to direct damage of the same type toward another creature you can see within 60 feet of yourself that isn't behind Total Cover. If you do so, that creature must succeed on a Dexterity saving throw (DC 8 plus your Constitution modifier and Proficiency Bonus) or take damage equal to 2d12 plus your Constitution modifier.
+When you take damage of one of the types chosen for the Energy Resistances benefit, you can take a **:rsc-r: Reaction**{ .rsc } to direct damage of the same type toward another creature you can see within 60 feet of yourself that isn't behind Total Cover. If you do so, that creature must succeed on a Dexterity saving throw (DC 8 plus your Constitution modifier and Proficiency Bonus) or take damage equal to 2d12 plus your Constitution modifier.
 
 ---
 
@@ -109,7 +109,7 @@ Increase one ability score of your choice by 1, to a maximum of 30.
 When you would be reduced to 0 Hit Points, you can drop to 1 Hit Point instead and regain a number of Hit Points equal to half your Hit Point maximum. Once you use this benefit, you can't use it again until you finish a Long Rest.
 
 ***Recover Vitality***  
-You have a pool of ten d10s. As a Bonus Action, you can expend dice from the pool, roll those dice, and regain a number of Hit Points equal to the roll's total. You regain all the expended dice when you finish a Long Rest.
+You have a pool of ten d10s. As a **:rsc-b: Bonus Action**{ .rsc }, you can expend dice from the pool, roll those dice, and regain a number of Hit Points equal to the roll's total. You regain all the expended dice when you finish a Long Rest.
 
 ---
 
@@ -140,10 +140,10 @@ You gain the following benefits.
 Increase one ability score of your choice by 1, to a maximum of 30.
 
 ***Escape Artist***  
-As a Bonus Action, you can take the Disengage action, which also ends the Grappled condition on you.
+As a **:rsc-b: Bonus Action**{ .rsc }, you can take the Disengage action, which also ends the Grappled condition on you.
 
 ***Quickness***  
-Your **:rsc-spd: Speed**{ .rsc } increases by 30 feet.
+Your **:rsc-spd: Speed**{ .em } increases by 30 feet.
 
 ---
 
@@ -157,7 +157,7 @@ You gain the following benefits.
 Increase one ability score of your choice by 1, to a maximum of 30.
 
 ***Merge with Shadows***  
-While within Dim Light or Darkness, you can give yourself the Invisible condition as a Bonus Action. The condition ends on you immediately after you take an action, a Bonus Action, or a Reaction.
+While within Dim Light or Darkness, you can give yourself the Invisible condition as a  **:rsc-b: Bonus Action**{ .rsc }. The condition ends on you immediately after you take an action, a **:rsc-b: Bonus Action**{ .rsc }, or a **:rsc-r: Reaction**{ .rsc }.
 
 ***Shadowy Form***  
 While within Dim Light or Darkness, you have Resistance to all damage except Psychic and Radiant.

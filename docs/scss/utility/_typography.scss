@@ -2,12 +2,13 @@
 @use "../base/table";
 @use "../utility/convert";
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
 /*------------------------------------------------------- 
     Typography
 --------------------------------------------------------*/
 
-.em {
-    color: var(--md-gbl-text-color-strong); /* Make Text slightly brighter so its easier to see */
+.em { 
     white-space: nowrap; /* Prevent selected block to split on smaller screen sizes, used in conjuction with icons */
     font-weight: 550 !important;
 
@@ -17,26 +18,26 @@
     }
 }
 
-.jost {
-    font-family: typeset.$headingFont !important; /* Changes font to Jost */
+.background {
+    background-color: hsla(0, 0%, 0%, 0.15);
+    padding: convert.px2em(2px) convert.px2em(4.5px);
+    border-radius: 0.25em;
 }
 
 .smallcap {
     :is(.emojione, .twemoji, .gemoji) {
-        font-size: #{typeset.$defaultFontSize};
+        font-size: #{var(--default-font-size)};
+        vertical-align: convert.px2em(-3px);
     }
-    font-size: 115%;
+    font-size: #{calc(var(--default-font-size) * 1.05)};
     font-variant: small-caps !important; /* Make font smallcaps so it looks different than the rest */
+    letter-spacing: calc(var(--default-font-size) * 0.04) !important; /* Wider letterspacing for easier read */
 
-    letter-spacing: typeset.$defaultFontSize * 0.04 !important; /* Wider letterspacing for easier read */
-
-    @media screen and (max-width: 768px) {
-        font-size: 108% !important; /* Make Font Size Smaller for mobile devices */
-    }
-
-    table & {
+    table:not([class]) & {
+        font-size: #{calc(var(--table-font-size))} !important;
         :is(.emojione, .twemoji, .gemoji) {
-            font-size: #{table.$tableFontSize};
+            font-size: #{var(--table-font-size)};
+            vertical-align: convert.px2em(-3px);
         }
     }
 }
@@ -48,9 +49,20 @@
 }
 
 // RSC or Resource. Anything that players need to "expend" to do something
+
 .rsc {
     @extend .em;
-    font-family: "Roboto Condensed", serif;
+
+
+    font-family: "Roboto", serif;
+
+}
+
+.rsc-h {
+    @extend .em;
+    :is(.emojione, .twemoji, .gemoji) {
+        vertical-align: convert.px2em(-3px);
+    }
 }
 
 // Inline Sub for options and features
@@ -60,16 +72,17 @@
     display: inline-block;
     position: relative;
 
-    &::before {
-        color: var(--md-default-fg-color--light);
-        content: "<";
-        margin-right: 0.1em;
+    &::before{
+        content: "‹";
+    }
+    &::after{
+        content: "›";
     }
 
+    &::before,
     &::after {
         color: var(--md-default-fg-color--light);
-        content: ">";
-        margin-left: 0.1em;
+        margin: 0 0.1em;
     }
 }
 

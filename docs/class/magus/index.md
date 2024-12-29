@@ -89,7 +89,7 @@ Objects in your **Arcane Armoury** gain the following benefits:
 
 - They count as Magical Weapons, Shields, or sets of Armour.
 - You can use your Intelligence, in place of Dexterity, when calculating Armour Class in this Light and Medium armour, so long as you do not already add it to your Armour Class.
-- As a Bonus Action, you can shunt or summon any number of objects of your choice from within your Arcane Armoury, instantly equipping, donning, or doffing those items.
+- As a **:rsc-b: Bonus Action**{ .rsc }, you can shunt or summon any number of objects of your choice from within your Arcane Armoury, instantly equipping, donning, or doffing those items.
 
 Your Arcane Armoury can hold a total number of objects equal to 1 + your Intelligence modifier (a minimum of 1) at one time, but one of those objects must always be a weapon. If you perform this ritual on another object while the Armoury is at its maximum, one object of your choice is removed.
 
@@ -180,7 +180,7 @@ You can still only make one [Spellstrike] attack per turn.
 
 ### Level 5: Spellsight
 
-As a Magic action, you can awaken your senses to the presence of magic within 30 feet as if you had cast [:spell-lv1: Detect Magic]. While this sense is active, you can touch an object and gain knowledge as if you had cast [:spell-lv1: Identify]. This special sense requires your Concentration, and it lasts for 1 minute.
+As a **:rsc-a: Magic**{ .rsc } action, you can awaken your senses to the presence of magic within 30 feet as if you had cast [:spell-lv1: Detect Magic]. While this sense is active, you can touch an object and gain knowledge as if you had cast [:spell-lv1: Identify]. This special sense requires your Concentration, and it lasts for 1 minute.
 
 You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
@@ -192,7 +192,7 @@ The range of this feature is 10 feet, plus an extra 10 feet for each level of th
 
 ### Level 9: Spellsunder
 
-You can use [Spellstrike] to cut down hostile spells. When you see a creature cast a spell that will affect you, you can take a Reaction to expend a spell slot and use an Arcane Armoury weapon to attack the spell as it takes effect.
+You can use [Spellstrike] to cut down hostile spells. When you see a creature cast a spell that will affect you, you can take a **:rsc-r: Reaction**{ .rsc } to expend a spell slot and use an Arcane Armoury weapon to attack the spell as it takes effect.
 
 If the spell was cast at a level equal to the level of the spell slot you expended or lower, the spell fails and has no effect. If it was cast at a level higher than the slot you expended, make an attack roll with your weapon. If your attack roll exceeds 12 + twice the level of the spell, the spell fails and has no effect.
 
@@ -216,7 +216,7 @@ This bonus damage must be the damage type dealt by a Magus spell you know, and i
 
 ### Level 14: Superior Spellsunder
 
-When a creature you can see within 30 feet is targeted by a spell you can see, you can take a Reaction to teleport to an unoccupied space within 5 feet of it and use your Spellsunder reaction against the triggering spell.
+When a creature you can see within 30 feet is targeted by a spell you can see, you can take a **:rsc-r: Reaction**{ .rsc } to teleport to an unoccupied space within 5 feet of it and use your Spellsunder reaction against the triggering spell.
 
 ### Level 19: Epic Boon
 

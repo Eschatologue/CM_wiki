@@ -43,7 +43,7 @@ This effect ends on the creature after 1 minute, and ends early if you have the 
 
 ### Level 3: Turn the Tide
 
-As a :rsc-b: Bonus Action, you can bolster injured creatures with your Channel Divinity. Each creature of your choice that can hear you within 30 feet of you regains hit points equal to 1d6 + your Charisma modifier (minimum of 1).
+As a **:rsc-b: Bonus Action**{ .rsc }, you can bolster injured creatures with your Channel Divinity. Each creature of your choice that can hear you within 30 feet of you regains hit points equal to 1d6 + your Charisma modifier (minimum of 1).
 
 ### Level 7: Aura of Allegiance
 
@@ -55,7 +55,7 @@ You are an unstoppable force for your cause. You have :dmg-imm: Immunity to the 
 
 ### Level 20: Exalted Champion
 
-Your presence on the field of battle is an inspiration to those dedicated to your cause. As a :rsc-b: Bonus Action, you can gain the following benefits for 10 minutes:
+Your presence on the field of battle is an inspiration to those dedicated to your cause. As a **:rsc-b: Bonus Action**{ .rsc }, you can gain the following benefits for 10 minutes:
 
 ***Damage Resistance.*** You have **:dmg-res: Resistance**{ .em } to :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing and :dmg-slsh: Slashing damage.
 

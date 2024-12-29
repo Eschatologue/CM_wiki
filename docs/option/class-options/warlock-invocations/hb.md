@@ -53,7 +53,7 @@ As a **:rsc-b: Bonus Action**{ .rsc }, you can conjure a pact instrument in your
 
 ***Spellcasting Focus.*** You can use the musical instrument as a Spellcasting Focus.
 
-Your bond with the musical instrument ends if you use this feature's Bonus Action again, if the musical instrument is more than 5 feet away from you for 1 minute or more, or if you die. A conjured musical instrument disappears when the bond ends.
+Your bond with the musical instrument ends if you use this feature's **:rsc-b: Bonus Action**{ .rsc } again, if the musical instrument is more than 5 feet away from you for 1 minute or more, or if you die. A conjured musical instrument disappears when the bond ends.
 
 ---
 
@@ -157,7 +157,7 @@ You can cast [:spell-lv3: Fireball] centred on yourself, using a Warlock spell s
 
 ***Prerequisite:** Level 5+ Warlock, a Warlock Cantrip That Deals Damage*
 
-Choose one of your known Warlock cantrips that deals damage. When that cantrip deals damage, you can take a Bonus Action to cast [:spell-lv3: Fireball] using a Pact Magic spell slot. The spell must be centered on the creature you hit with cantrip.
+Choose one of your known Warlock cantrips that deals damage. When that cantrip deals damage, you can take a **:rsc-b: Bonus Action**{ .rsc } to cast [:spell-lv3: Fireball] using a Pact Magic spell slot. The spell must be centered on the creature you hit with cantrip.
 
 ***Repeatable.*** You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
 

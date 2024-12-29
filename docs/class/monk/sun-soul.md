@@ -23,7 +23,7 @@ When you use your [Patient Defense](index.md#patient-defense) feature, you can e
 
 ### Level 11: Searing Radiance
 
-You have gained the ability to create tremendous blasts of radiant energy, flowing directly from your essence. As a Magic action, you can produce the effects of the [:spell-lv3: Fireball] or [:spell-lv3: Lightning Bolt] spells without components or expending a spell slot, with the following alterations:
+You have gained the ability to create tremendous blasts of radiant energy, flowing directly from your essence. As a **:rsc-a: Magic**{ .rsc } action, you can produce the effects of the [:spell-lv3: Fireball] or [:spell-lv3: Lightning Bolt] spells without components or expending a spell slot, with the following alterations:
 
 ***Radiant Damage.*** The effects deal :dmg-radi: Radiant damage, instead of the usual damage type.
 
@@ -35,7 +35,7 @@ The spells use your Focus save DC. Once you use this feature, you can't do so ag
 
 ### Level 17: Sun Shield
 
-You become wreathed in a luminous, magical aura. You shed bright light in a 30-foot Emanation and dim light for an additional 30 feet. You can extinguish or restore the light as a Bonus Action.
+You become wreathed in a luminous, magical aura. You shed bright light in a 30-foot Emanation and dim light for an additional 30 feet. You can extinguish or restore the light as a  **:rsc-b: Bonus Action**{ .rsc }.
 
 When you use your [Deflect Attacks](index.md#level-3-deflect-attacks) feature to reduce the damage of an attack made by a creature within the bright light of this feature, the attacker takes Radiant damage equal to one roll of your Martial Arts die + your Wisdom modifier (minimum 1 damage). If you spend a :class-phb24-monk: **Focus Point** to redirect the attack, the target of the redirected attack also takes this damage on a failed save, in addition to the normal damage of Deflect Attacks.
 

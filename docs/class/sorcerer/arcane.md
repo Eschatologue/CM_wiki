@@ -35,7 +35,7 @@ When you reach a Sorcerer level specified in the Arcane Spells table, you therea
 
 *You learn to twist the spells of your enemies to your will.* 
 
-When you succeed on a saving throw against a spell, or a spell attack misses you, you can use your Reaction to spend a number of sorcery points equal to the spell's level and partially redirect that spell at a creature you can see within 60 feet of you (1 sorcery point if the spell is a cantrip), under the following rules:
+When you succeed on a saving throw against a spell, or a spell attack misses you, you can use your **:rsc-r: Reaction**{ .rsc } to spend a number of sorcery points equal to the spell's level and partially redirect that spell at a creature you can see within 60 feet of you (1 sorcery point if the spell is a cantrip), under the following rules:
 
 ***Attack Roll.*** If the triggering effect was an attack roll, the roll is repeated against that creature, using your Sorcerer spell attack modifier. 
 
@@ -51,7 +51,7 @@ You have **:d20-adv: Advantage**{ .d20 } on saving throws against spells. Furthe
 
 *Your mastery over magic allows you to empower the spells of your allies.*
 
-When a willing creature you can see within 60 feet of you casts a spell, you can use your Reaction to apply a Metamagic option that you know to that spell. You determine how to use the Metamagic option you grant the caster. You must obey all other restrictions for that Metamagic option and spend sorcery points as normal.
+When a willing creature you can see within 60 feet of you casts a spell, you can use your **:rsc-r: Reaction**{ .rsc } to apply a Metamagic option that you know to that spell. You determine how to use the Metamagic option you grant the caster. You must obey all other restrictions for that Metamagic option and spend sorcery points as normal.
 
 Once you grant a metamagic option to a creature with this feature, you can't grant that creature a metamagic option again until it finishes a short or long rest
 

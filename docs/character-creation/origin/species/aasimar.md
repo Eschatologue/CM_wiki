@@ -32,13 +32,13 @@ You know the [:spell-lv0: Light] cantrip. Charisma is your spellcasting ability 
 
 ### Celestial Revelation
 
-When you reach character level 3, you can transform as a **:rsc-b: Bonus Action**{ .em } using one of the options below (choose the option each time you transform). That transformation lasts for 2 minute or until you end it (no action required). Once you transform, you can't do so again until you finish a Long Rest.
+When you reach character level 3, you can transform as a **:rsc-b: Bonus Action**{ .rsc } using one of the options below (choose the option each time you transform). That transformation lasts for 2 minute or until you end it (no action required). Once you transform, you can't do so again until you finish a Long Rest.
 
 Once on each of your turns before that transformation ends, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your Proficiency Bonus, and the extra damage's type is either **:dmg-necr: Necrotic**{ .dmg-necr } for **Necrotic Shroud**{ .inl } or **:dmg-radi: Radiant**{ .dmg-radi } for **Heavenly Wings**{ .inl } and **Inner Radiance**{ .inl }.
 
 Here are the transformation options:
 
-**Heavenly Wings**{ .inl } Two spectral wings sprout from your back temporarily. Until the transformation ends, you have a Fly Speed equal to your :rsc-spd: Speed.
+**Heavenly Wings**{ .inl } Two spectral wings sprout from your back temporarily. Until the transformation ends, you have a Fly Speed equal to your **:rsc-spd: Speed**{ .em }.
 
 **Inner Radiance**{ .inl } Searing light temporarily radiates from your eyes and mouth. For the duration, you shed Bright Light in a 10-foot radius and Dim Light for an additional 10 feet, and at the end of each of your turn, each creature within 10 feet of you takes **:dmg-radi: Radiant**{ .dmg-radi } damage equal to your Proficiency Bonus.
 

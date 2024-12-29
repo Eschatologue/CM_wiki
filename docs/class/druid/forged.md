@@ -49,7 +49,7 @@ You may choose a new set of Mastery properties after each Long Rest.
 
 ### Level 10: Adamantine Hide 
 
-While you are in Wild Shape form, you gain Resistance to :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, and :dmg-slsh: Slashing damage. In addition, you gain the ability to use Wild Shape as a Reaction when you take damage, and the damage from that attack is applied to the Temporariy Hit Points granted by your Wild Shape.
+While you are in Wild Shape form, you gain Resistance to :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, and :dmg-slsh: Slashing damage. In addition, you gain the ability to use Wild Shape as a **:rsc-r: Reaction**{ .rsc } when you take damage, and the damage from that attack is applied to the Temporariy Hit Points granted by your Wild Shape.
 
 ### Level 14: Constructed Perfection
 

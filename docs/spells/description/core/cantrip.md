@@ -119,7 +119,7 @@ The bonfire ignites flammable objects in its area that aren't being worn or carr
 
 You create up to four torch-size lights within range, making them appear as torches, lanterns, or glowing orbs that hover for the duration. Alternatively, you combine the four lights into one glowing Medium form that is vaguely humanlike. Whichever form you choose, each light sheds Dim Light in a 10-foot radius.
 
-As a Bonus Action, you can move the lights up to 60 feet to a space within range. A light must be within 20 feet of another light created by this spell, and a light vanishes if it exceeds the spell's range.
+As a **:rsc-b: Bonus Action**{ .rsc }, you can move the lights up to 60 feet to a space within range. A light must be within 20 feet of another light created by this spell, and a light vanishes if it exceeds the spell's range.
 
 > **Classes:** Artificer, Bard, Sorcerer, Wizard
 
@@ -343,7 +343,7 @@ A spectral, floating hand appears at a point you choose within range. The hand l
 
 When you cast the spell, you can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial.
 
-As a Magic action on your later turns, you can control the hand thus again. As part of that action, you can move the hand up to 30 feet.
+As a **:rsc-a: Magic**{ .rsc } action on your later turns, you can control the hand thus again. As part of that action, you can move the hand up to 30 feet.
 
 The hand can't attack, activate magic items, or carry more than 10 pounds.
 
@@ -386,7 +386,7 @@ You touch a Tiny nonmagical object with a set of Artisan's Tools and invest a sp
 ***Visual Effect.*** A static visual effect appears on one of the object's surfaces. This effect can be a picture, up to 25 words of text, lines and shapes, or a mixture of these elements, as you like.
 
 
-The chosen property lasts indefinitely. As a Magic action, you can touch the object and end the property early.
+The chosen property lasts indefinitely. As a **:rsc-a: Magic**{ .rsc } action, you can touch the object and end the property early.
 
 
 You can affect multiple objects with this spell, touching one object each time you cast the spell, though a single object can only bear one property at a time. The maximum number of objects you can affect with this feature at one time is equal to your spellcasting modifier (minimum of one object). If you try to exceed your maximum, the oldest property immediately ends, and then the new property applies.
@@ -551,7 +551,7 @@ You channel primal magic to cause your teeth or fingernails to sharpen, ready to
 
 A flickering flame appears in your hand and remains there for the duration. While there, the flame emits no heat and ignites nothing, and it sheds Bright Light in a 20-foot radius and Dim Light for an additional 20 feet. The spell ends if you cast it again.
 
-Until the spell ends, you can take a Magic action to hurl fire at a creature or an object within 60 feet of you. Make a ranged spell attack. On a hit, the target takes 1d8 Fire damage.
+Until the spell ends, you can take a **:rsc-a: Magic**{ .rsc } action to hurl fire at a creature or an object within 60 feet of you. Make a ranged spell attack. On a hit, the target takes 1d8 Fire damage.
 
 ***Cantrip Upgrade.*** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 

@@ -17,7 +17,7 @@ In Crown & Misery, where combat can be exceptionally lethal, rules regarding pot
 
 *Potion, Common, M-*
 
-When you drink this potion, you gain a Clim Speed equal to your **:rsc-spd: Speed**{ .rsc } for 1 hour. During this time, you have Advantage on Strength (Athletics) checks you make to climb. The potion is separated into brown, silver, and gray layers resembling bands of stone. Shaking the bottle fails to mix the colors.
+When you drink this potion, you gain a Clim Speed equal to your **:rsc-spd: Speed**{ .em } for 1 hour. During this time, you have Advantage on Strength (Athletics) checks you make to climb. The potion is separated into brown, silver, and gray layers resembling bands of stone. Shaking the bottle fails to mix the colors.
 
 ---
 

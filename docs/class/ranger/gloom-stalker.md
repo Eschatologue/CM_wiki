@@ -16,7 +16,7 @@ Gloom Stalkers are at home in the darkest places, wielding magic drawn from the 
 
 You have mastered the art of creating frightening ambushes, granting you the following benefits:
 
-***Ambusher's Leap.*** At the start of the first turn of each combat, your **:rsc-spd: Speed**{ .rsc } increases by 30 feet until the end of that turn.
+***Ambusher's Leap.*** At the start of the first turn of each combat, your **:rsc-spd: Speed**{ .em } increases by 30 feet until the end of that turn.
 
 ***Frighten.*** When you attack a creature and hit it with a weapon, you can deal an extra 2d6 Psychic damage. You can use this benefit only once per turn, you can use it a number of times equal a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
@@ -54,6 +54,6 @@ The Psychic damage of your Dreadful Strike becomes 2d8. In addition, when you us
 
 ### Level 17: Shadowy Dodge
 
-When a creature makes an attack roll against you, you can use your Reaction to impose Disadvantage on that roll. If the attack then misses, you can teleport up to 30 feet to an unoccupied space you can see.
+When a creature makes an attack roll against you, you can use your **:rsc-r: Reaction**{ .rsc } to impose Disadvantage on that roll. If the attack then misses, you can teleport up to 30 feet to an unoccupied space you can see.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"

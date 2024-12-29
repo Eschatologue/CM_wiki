@@ -196,7 +196,7 @@ Your proficiency bonus is now doubled for any ability check you make that uses y
 
 ### Level 7: Flash of Genius
 
-You've gained the ability to come up with solutions under pressure. When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your Reaction to add your Intelligence modifier to the roll.
+You've gained the ability to come up with solutions under pressure. When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your **:rsc-r: Reaction**{ .rsc } to add your Intelligence modifier to the roll.
 
 You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a Long Rest.
 
@@ -238,7 +238,7 @@ You have developed a mystical connection to your magic items, which you can draw
 
 ***Armoured Soul.*** You gain a +1 bonus to all saving throws per magic item you are currently attuned to.
 
-***Infusion Contingency.*** If you're reduced to 0 Hit Points but not killed out-right, you can use your :rsc-r: Reaction to end one of your Infusions, causing you to drop to 1 hit point instead of 0, and you instantly regain 30 Hit Points.
+***Infusion Contingency.*** If you're reduced to 0 Hit Points but not killed out-right, you can use your **:rsc-r: Reaction**{ .rsc } to end one of your Infusions, causing you to drop to 1 hit point instead of 0, and you instantly regain 30 Hit Points.
 
 --8<-- "includes/snippets/skills.md"
 --8<-- "includes/snippets/spells2/lv0.md"

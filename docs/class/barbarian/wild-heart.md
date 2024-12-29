@@ -10,21 +10,21 @@ Walk in Community with the Animal World
 
 > *Walk in Community with the Animal World*
 
-Barbarians who follow the Path of the Wild Heart view themselves as kin to animals. These Barbarians learn magical means to communicate with animals, and their Rage heightens their connection to animals as it fills them with supernatural might.
+Barbarians who follow the Path of the Wild Heart view themselves as kin to animals. These Barbarians learn magical means to communicate with animals, and their **:class-abl-rage: Rage**{ .em } heightens their connection to animals as it fills them with supernatural might.
 
 ### Level 3: Animal Speaker
 
 You can cast the [:spell-lv2: Beast Sense] and [:spell-lv1: Speak with Animals] spells, but only as Rituals. :ability-wis: Wisdom is your spellcasting ability for them.
 
-### Level 3: Rage of the Wilds
+### Level 3: **:class-abl-rage: Rage**{ .em } of the Wilds
 
-Your Rage taps into the primal power of animals. You gain one of the following options of your choice.
+Your **:class-abl-rage: Rage**{ .em } taps into the primal power of animals. You gain one of the following options of your choice.
 
-***Bear.*** While your Rage is active, you have **:dmg-res: Resistance**{ .em } to every damage type except :dmg-force: Force, :dmg-necr: Necrotic, :dmg-psyc: Psychic and :dmg-radi: Radiant.
+***Bear.*** While your **:class-abl-rage: Rage**{ .em } is active, you have **:dmg-res: Resistance**{ .em } to every damage type except :dmg-force: Force, :dmg-necr: Necrotic, :dmg-psyc: Psychic and :dmg-radi: Radiant.
 
-***Eagle.*** When you activate your Rage, you can take the Disengage and Dash actions as part of that :rsc-b: Bonus Action, While your Rage is active, you can take a :rsc-b: Bonus Action to take both of those actions.
+***Eagle.*** When you activate your **:class-abl-rage: Rage**{ .em }, you can take the Disengage and Dash actions as part of that **:rsc-b: Bonus Action**{ .rsc }, While your **:class-abl-rage: Rage**{ .em } is active, you can take a **:rsc-b: Bonus Action**{ .rsc } to take both of those actions.
 
-***Wolf.*** While your Rage is active, your allies have Advantage on melee attack rolls against any enemy of yours within 5 feet of you.
+***Wolf.*** While your **:class-abl-rage: Rage**{ .em } is active, your allies have Advantage on melee attack rolls against any enemy of yours within 5 feet of you.
 
 ### Level 6: Aspect of the Wilds
 
@@ -44,11 +44,11 @@ You can cast the [:spell-lv5: Commune with Nature] spell, but only as a Ritual. 
 
 You gain one of the following options of your choice. Whenever you gain a Barbarian level, you can change your choice.
 
-***Falcon.*** While your Rage is active, you have a Fly Speed equal to your Speed, provided you aren't wearing any armour.
+***Falcon.*** While your **:class-abl-rage: Rage**{ .em } is active, you have a Fly Speed equal to your Speed, provided you aren't wearing any armour.
 
-***Lion.*** While your Rage is active, any of your enemies within 5 feet of you have Disadvantage on attack rolls against targets other than you or another Barbarian with this option active.
+***Lion.*** While your **:class-abl-rage: Rage**{ .em } is active, any of your enemies within 5 feet of you have Disadvantage on attack rolls against targets other than you or another Barbarian with this option active.
 
-***Ram.*** While your Rage is active, you can cause a Large or smaller creature to have the Prone condition when you hit it with a melee attack.
+***Ram.*** While your **:class-abl-rage: Rage**{ .em } is active, you can cause a Large or smaller creature to have the Prone condition when you hit it with a melee attack.
 
 --8<-- "includes/snippets/spells2/lv1.md"
 --8<-- "includes/snippets/spells2/lv2.md"

@@ -51,7 +51,7 @@ Those who dare to strike you are psychically punished for their audacity. Whenev
 
 ### Level 20: Invincible Conqueror
 
-You gain the ability to harness extraordinary martial prowess. As a Bonus Action, you can magically become an avatar of conquest, gaining the following benefits for 10 minutes:
+You gain the ability to harness extraordinary martial prowess. As a **:rsc-b: Bonus Action**{ .rsc }, you can magically become an avatar of conquest, gaining the following benefits for 10 minutes:
 
 ***Damage Resistance.*** You have resistance to all damage.
 

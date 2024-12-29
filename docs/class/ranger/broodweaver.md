@@ -87,7 +87,7 @@ Once you use this feature, you can't use it again until you finish a Long Rest. 
 
 You gain the ability to enter and exit the Weave at will. You always have the [:spell-lv3: Blink] spell prepared, and you can cast it once without expending a spell slot. When you cast [:spell-lv3: Blink] using this feature, it lasts for the usual duration, but instead of rolling a d6 each turn, you can choose to vanish to the Ethereal Plane or reappear on the Material Plane as a **:rsc-b: Bonus Action**{ .rsc } on each of your turns.
 
-While on the Ethereal Plane, you perceive the Material Plane in shades of grey and can see up to 120 feet (instead of 60 feet). When you take a **:rsc-b: Bonus Action**{ .rsc } to vanish or reappear, you can make one weapon attack or an Unarmed Strike as part of the same Bonus Action.
+While on the Ethereal Plane, you perceive the Material Plane in shades of grey and can see up to 120 feet (instead of 60 feet). When you take a **:rsc-b: Bonus Action**{ .rsc } to vanish or reappear, you can make one weapon attack or an Unarmed Strike as part of the same  **:rsc-b: Bonus Action**{ .rsc }.
 
 Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending 3 Threadling Dice (no action required).
 

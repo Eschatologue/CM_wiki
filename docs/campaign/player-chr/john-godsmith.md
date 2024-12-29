@@ -74,7 +74,7 @@ You gain new way to use your Heaven's Maledict. The following options are added 
 
 ***Phoenix Dive***  
 
-:   As a :rsc-b: Bonus Action, you can expend a number of ^^Maledict Dice^^ up to your Rage Damage bonus. Roll the dice and teleport to a point you can see within 60 feet. Upon arriving, a blazing wave erupts in a 10-foot :aoe-emanation: Emanation around you. Each creature in the area must make a :d20-save: Dexterity saving throw, taking :dmg-fire: Fire damage equal to the total rolled (halved on a success).
+:   As a **:rsc-b: Bonus Action**{ .rsc }, you can expend a number of ^^Maledict Dice^^ up to your Rage Damage bonus. Roll the dice and teleport to a point you can see within 60 feet. Upon arriving, a blazing wave erupts in a 10-foot :aoe-emanation: Emanation around you. Each creature in the area must make a :d20-save: Dexterity saving throw, taking :dmg-fire: Fire damage equal to the total rolled (halved on a success).
 
 ***Searing Enigma***  
 

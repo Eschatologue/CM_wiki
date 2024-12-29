@@ -37,7 +37,7 @@ Whenever the Cylinder moves into the space of a creature you can see and wheneve
 **Components:** V, S   
 **Duration:** 1 hour
 
-Seven star-like motes of light appear and orbit your head until the spell ends. You can use a Bonus Action to send one of the motes streaking toward one creature or object within 120 feet of you. When you do so, make a ranged spell attack. On a hit, the target takes 4d12 radiant damage. Whether you hit or miss, the mote is expended. The spell ends early if you expend the last mote.
+Seven star-like motes of light appear and orbit your head until the spell ends. You can use a **:rsc-b: Bonus Action**{ .rsc } to send one of the motes streaking toward one creature or object within 120 feet of you. When you do so, make a ranged spell attack. On a hit, the target takes 4d12 radiant damage. Whether you hit or miss, the mote is expended. The spell ends early if you expend the last mote.
 
 If you have four or more motes remaining, they shed bright light in a 30-foot radius and dim light for an additional 30 feet. If you have one to three motes remaining, they shed dim light in a 30-foot radius.
 
@@ -102,7 +102,7 @@ You utter a word imbued with power from the Upper Planes. Each creature of your 
 With a roar, you draw on the magic of dragons to transform yourself, taking on draconic features. You gain the following benefits until the spell ends:
 
 - **Blindsight.** You have blindsight with a range of 30 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see an invisible creature, unless the creature successfully hides from you.
-- **Breath Weapon.** When you cast this spell, and as a Bonus Action on subsequent turns for the duration, you can exhale shimmering energy in a 60-foot cone. Each creature in that area must make a Dexterity saving throw, taking 6d8 force damage on a failed save, or half as much damage on a successful one.
+- **Breath Weapon.** When you cast this spell, and as a **:rsc-b: Bonus Action**{ .rsc } on subsequent turns for the duration, you can exhale shimmering energy in a 60-foot cone. Each creature in that area must make a Dexterity saving throw, taking 6d8 force damage on a failed save, or half as much damage on a successful one.
 - **Wings.** Incorporeal wings sprout from your back, giving you a flying speed of 60 feet.
 
 > **Classes:** Druid, Sorcerer, Wizard
@@ -255,7 +255,7 @@ You create a spectral sword that hovers within range. It lasts for the duration.
 
 When the sword appears, you make a melee spell attack against a target within 5 feet of the sword. On a hit, the target takes Force damage equal to 4d12 plus your spellcasting ability modifier.
 
-On your later turns, you can take a Bonus Action to move the sword up to 30 feet to a spot you can see and repeat the attack against the same target or a different one.
+On your later turns, you can take a **:rsc-b: Bonus Action**{ .rsc } to move the sword up to 30 feet to a spot you can see and repeat the attack against the same target or a different one.
 
 > **Classes:** Bard, Wizard
 
@@ -345,7 +345,7 @@ Eight rays of light flash from you in a 60-foot Cone. Each creature in the Cone 
 
 You create an illusory copy of yourself that lasts for the duration. The copy can appear at any location within range that you have seen before, regardless of intervening obstacles. The illusion looks and sounds like you, but it is intangible. If the illusion takes any damage, it disappears, and the spell ends.
 
-You can see through the illusion's eyes and hear through its ears as if you were in its space. As a Magic action, you can move it up to 60 feet and make it gesture, speak, and behave in whatever way you choose. It mimics your mannerisms perfectly.
+You can see through the illusion's eyes and hear through its ears as if you were in its space. As a **:rsc-a: Magic**{ .rsc } action, you can move it up to 60 feet and make it gesture, speak, and behave in whatever way you choose. It mimics your mannerisms perfectly.
 
 Physical interaction with the image reveals it to be illusory, since things can pass through it. A creature that takes the Study action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.
 

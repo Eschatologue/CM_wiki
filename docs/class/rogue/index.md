@@ -122,7 +122,7 @@ You can choose any weapon with a Mastery property that you're using and replace 
 
 ### Level 2: Cunning Action
 
-Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a :rsc-b: Bonus Action: Dash, Disengage, or Hide.
+Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a **:rsc-b: Bonus Action**{ .rsc }: Dash, Disengage, or Hide.
 
 ### Level 3: Rogue Subclass
 
@@ -130,7 +130,7 @@ You gain a Rogue subclass of your choice. A subclass is a specialization that gr
 
 ### Level 3: Steady Aim
 
-As a Bonus Action, you give yourself Advantage on your next attack roll on the current turn. You can use this feature only if you haven't moved during this turn, and after you use it, your **:rsc-spd: Speed**{ .rsc } is 0 until the end of the current turn.
+As a **:rsc-b: Bonus Action**{ .rsc }, you give yourself Advantage on your next attack roll on the current turn. You can use this feature only if you haven't moved during this turn, and after you use it, your **:rsc-spd: Speed**{ .em } is 0 until the end of the current turn.
 
 ### Level 4: Ability Score Improvement
 
@@ -149,11 +149,11 @@ You add a toxin to your strike, forcing the target to make a Constitution saving
 If the target is Large or smaller, it must succeed on a Dexterity saving throw or have the Prone condition.
 
 ***Withdraw (Cost: 1d6)***  
-Immediately after the attack, you move up to half your **:rsc-spd: Speed**{ .rsc } without provoking Opportunity Attacks.
+Immediately after the attack, you move up to half your **:rsc-spd: Speed**{ .em } without provoking Opportunity Attacks.
 
 ### Level 5: Uncanny Dodge
 
-When an attacker that you can see hits you with an attack roll, you can take a :rsc-r: Reaction to halve the attack's damage against you (round down).
+When an attacker that you can see hits you with an attack roll, you can take a **:rsc-r: Reaction**{ .rsc } to halve the attack's damage against you (round down).
 
 ### Level 7: Evasion
 
@@ -172,7 +172,7 @@ You can use up to two Cunning Strike effects when you deal Sneak Attack damage, 
 You've practiced new ways to use your Sneak Attack deviously. The following effects are now among your Cunning Strike options.
 
 ***Daze (Cost: 2d6)***  
-The target must succeed on a Constitution saving throw, or on its next turn, it can do only one of the following: move or take an action or a :rsc-b: Bonus Action.
+The target must succeed on a Constitution saving throw, or on its next turn, it can do only one of the following: move or take an action or a **:rsc-b: Bonus Action**{ .rsc }.
 
 ***Knock Out (Cost: 6d6)***  
 The target must succeed on a Constitution saving throw, or it has the ^^Unconscious^^ condition for 1 minute or until it takes any damage. The Unconscious target repeats the save at the end of each of its turns, ending the effect on itself on a success.

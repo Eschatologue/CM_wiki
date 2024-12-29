@@ -14,18 +14,18 @@ Violence is both a means and an end. You follow a path of untrammelled fury, sli
 
 ### Level 3: Frenzy
 
-If you use Reckless Attack while your Rage is active, you deal extra damage to the first target you hit on your turn with a Strength-based attack. To determine the extra damage, roll a number of d6s equal to your Rage Damage bonus, and add them together. The damage has the same type as the weapon or Unarmed Strike used for the attack.
+If you use Reckless Attack while your **:class-abl-rage: Rage**{ .em } is active, you deal extra damage to the first target you hit on your turn with a Strength-based attack. To determine the extra damage, roll a number of d6s equal to your **:class-abl-rage: Rage**{ .em } Damage bonus, and add them together. The damage has the same type as the weapon or Unarmed Strike used for the attack.
 
 ### Level 6: Mindless Rage
 
-You have :dmg-imm: Immunity to the ^^Charmed^^ and ^^Frightened^^ conditions while your Rage is active. If you're ^^Charmed^^ or ^^Frightened^^ when you enter your Rage, the condition ends on you.
+You have :dmg-imm: Immunity to the ^^Charmed^^ and ^^Frightened^^ conditions while your **:class-abl-rage: Rage**{ .em } is active. If you're ^^Charmed^^ or ^^Frightened^^ when you enter your **:class-abl-rage: Rage**{ .em }, the condition ends on you.
 
 ### Level 10: Retaliation
 
-When you take damage from a creature that is within 5 feet of you, you can take a :rsc-r: Reaction to make one melee attack against that creature, using a weapon or an Unarmed Strike.
+When you take damage from a creature that is within 5 feet of you, you can take a **:rsc-r: Reaction**{ .rsc } to make one melee attack against that creature, using a weapon or an Unarmed Strike.
 
 ### Level 14: Intimidating Presence
 
-As a :rsc-b: Bonus Action, you can strike terror into others with your menacing presence and primal power. When you do so, each creature of your choice in a 30-foot :aoe-emmanation: Emanation originating from you must make a Wisdom saving throw (DC 8 plus your Strength modifier and Proficiency Bonus). On a failed save, a creature has the ^^Frightened^^ condition for 1 minute. At the end of each of the Frightened creature's turns, the creature repeats the save, ending the effect on itself on a success.
+As a **:rsc-b: Bonus Action**{ .rsc }, you can strike terror into others with your menacing presence and primal power. When you do so, each creature of your choice in a 30-foot :aoe-emmanation: Emanation originating from you must make a Wisdom saving throw (DC 8 plus your Strength modifier and Proficiency Bonus). On a failed save, a creature has the ^^Frightened^^ condition for 1 minute. At the end of each of the Frightened creature's turns, the creature repeats the save, ending the effect on itself on a success.
 
-Once you use this feature, you can't use it again until you finish a Long Rest unless you expend a use of your Rage (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a Long Rest unless you expend a use of your **:class-abl-rage: Rage**{ .em } (no action required) to restore your use of it.

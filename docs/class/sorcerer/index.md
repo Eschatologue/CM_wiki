@@ -120,7 +120,7 @@ Whenever you gain a Sorcerer level, you can replace one spell on your list with 
 
 ### Level 1: Innate Sorcery
 
-An event in your past left an indelible mark on you, infusing you with simmering magic. As a Bonus Action, you can unleash that magic for 1 minute, during which you gain the following benefits:
+An event in your past left an indelible mark on you, infusing you with simmering magic. As a **:rsc-b: Bonus Action**{ .rsc }, you can unleash that magic for 1 minute, during which you gain the following benefits:
 
 - The spell save DC of your Sorcerer spells increases by 1.
 - You have Advantage on the attack rolls of Sorcerer spells you cast.
@@ -136,7 +136,7 @@ You can use your Sorcery Points to fuel the options below, along with other feat
 
 ***Converting Spell Slots to Sorcery Points.*** You can expend a spell slot to gain a number of Sorcery Points equal to the slot's level (no action required).
 
-***Creating Spell Slots.*** As a Bonus Action, you can transform unexpended Sorcery Points into one spell slot. The Creating Spell Slots table shows the cost of creating a spell slot of a given level, and it lists the minimum Sorcerer level you must be to create a slot. You can create a spell slot no higher than level 5.
+***Creating Spell Slots.*** As a **:rsc-b: Bonus Action**{ .rsc }, you can transform unexpended Sorcery Points into one spell slot. The Creating Spell Slots table shows the cost of creating a spell slot of a given level, and it lists the minimum Sorcerer level you must be to create a slot. You can create a spell slot no higher than level 5.
 
 Any spell slot you create with this feature vanishes when you finish a Long Rest.
 
@@ -174,7 +174,7 @@ When you finish a Short Rest, you can regain expended Sorcery Points, but no mor
 
 ### Level 7: Sorcery Incarnate
 
-If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcery Points when you take the Bonus Action to activate it.
+If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcery Points when you take the **:rsc-b: Bonus Action**{ .rsc } to activate it.
 
 In addition, while your Innate Sorcery feature is active, you can use up to two of your Metamagic options on each spell you cast.
 

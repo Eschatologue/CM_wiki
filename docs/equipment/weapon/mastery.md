@@ -43,7 +43,7 @@ These Mastery property are available in the PHB'24.
 
     **Prerequisite:** :weapon-prop-light: **Light** property
 
-    When you make the extra attack of the :weapon-prop-light: Light property, you can make it as part of the Attack action instead of as a :rsc-b: Bonus Action. You can make this extra attack only once per turn.
+    When you make the extra attack of the :weapon-prop-light: Light property, you can make it as part of the Attack action instead of as a **:rsc-b: Bonus Action**{ .rsc }. You can make this extra attack only once per turn.
 
 - ### Push
 
@@ -95,13 +95,13 @@ These Mastery property are homebrew.
 
     **Prerequisite:** :dmg-bldg: Bludgeoning Melee weapon or Ranged weapon with :weapon-prop-heavy: **Heavy** property
 
-    If you hit a creature with this weapon, you can choose to deal only half damage and make the target's **:rsc-spd: Speed**{ .rsc } becomes 0 until the start of your next turn.
+    If you hit a creature with this weapon, you can choose to deal only half damage and make the target's **:rsc-spd: Speed**{ .em } becomes 0 until the start of your next turn.
 
 - ### Brace
 
     **Prerequisite:** :weapon-prop-heavy: **Heavy** or :weapon-prop-versatile: **Versatile** property
 
-    When you make an attack with this weapon, you can expend half of your total :rsc-spd: Speed. On hit, you roll the weapon damage dice twice and you can use either result. If the attack misses, your **:rsc-spd: Speed**{ .rsc } isn't reduced. 
+    When you make an attack with this weapon, you can expend half of your total **:rsc-spd: Speed**{ .em }. On hit, you roll the weapon damage dice twice and you can use either result. If the attack misses, your **:rsc-spd: Speed**{ .em } isn't reduced. 
 
 </div>
 

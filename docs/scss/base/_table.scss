@@ -9,61 +9,59 @@ $paddings: 16px;
 $paddingScale: 6px;
 $th-padding: $paddingScale * 1.4;
 
-$tableFontSize: (typeset.$defaultFontSize * 0.9);
-
 .md-typeset {
-    // Table without a class
+    
     & table:not([class]) {
+
+        --table-font-size: #{calc(var(--default-font-size) * 0.9)};
+        
         th,
         td {
-            padding: convert.px2em($paddingScale) convert.px2em($paddings);
-            min-width: convert.px2em(1px);
+            padding: #{convert.px2em($paddingScale)} #{convert.px2em($paddings)};
+            min-width: #{convert.px2em(1px)};
         }
 
         th {
-            font-size: $tableFontSize;
+            font-size: var(--table-font-size);
             font-weight: bold !important;
             text-transform: capitalize !important;
             vertical-align: bottom;
             color: var(--md-text-color);
-            border-bottom: convert.px2rem(2.5px) solid var(--md-primary-fg-color);
+            border-bottom: #{convert.px2rem(2.5px)} solid var(--md-primary-fg-color);
             background-color: var(--md-mod-table-color--darkest);
-            padding: convert.px2em($th-padding) convert.px2em($paddings);
+            padding: #{convert.px2em($th-padding)} #{convert.px2em($paddings)};
         }
 
         td {
-            $tableFontSize: (typeset.$defaultFontSize * 0.9) * 0.9;
-            font-size: $tableFontSize;
-            border: convert.px2rem(0px) transparent !important;
+            font-size: calc(var(--table-font-size) * 0.9);
+            border: #{convert.px2rem(0px)} transparent !important;
             vertical-align: middle;
 
             b,
             strong {
-                font-weight: typeset.$defaultFontWeight * 1.8;
+                font-weight: calc(var(--default-font-weight, 400) * 1.8); // Fallback for default weight
             }
         }
 
         // Adjust font sizes for smaller screens
         @media screen and (max-width: 768px) {
             th {
-                font-size: $tableFontSize * 0.9;
+                font-size: calc(var(--table-font-size) * 0.9);
             }
 
             td {
-                font-size: $tableFontSize * 0.8;
+                font-size: calc(var(--table-font-size) * 0.8);
             }
         }
 
         // Reset hover effect
-        table tr:hover {
-            background-color: inherit !important;
-            /* Ensures no change on hover */
+        tr:hover {
+            background-color: inherit !important; // Ensures no change on hover
         }
 
         // Preserve striped rows
         tr:nth-child(odd) {
-            background-color: transparent !important;
-            /* Adjust to match your striped colour */
+            background-color: transparent !important; // Adjust for striped colour
         }
 
         tr:nth-child(even) {
@@ -77,49 +75,9 @@ $tableFontSize: (typeset.$defaultFontSize * 0.9);
 
         table:not([class]) {
             box-shadow: var(--md-shadow-z2);
-            margin: convert.px2rem(0px);
+            margin: #{convert.px2rem(0px)};
             display: table;
             border-color: transparent !important;
         }
     }
-
-    // Responsive behaviour for smaller screens
-    // @media screen and (max-width: 768px) {
-    //     table {
-    //         display: block;
-    //     }
-
-    //     table thead {
-    //         display: none;
-    //     }
-
-    //     table tbody tr {
-    //         display: block;
-    //         width: 100%;
-    //         margin-bottom: convert.px2rem(8px);
-    //         padding: convert.px2rem(6px);
-    //     }
-
-    //     table td {
-    //         display: block;
-    //         position: relative;
-    //         padding: convert.px2rem(5px) convert.px2rem(5px);
-    //         text-align: left !important;
-    //         word-wrap: break-word;
-    //         overflow-wrap: break-word;
-    //         white-space: normal;
-    //         border: none !important;
-    //     }
-
-    //     table td::before {
-    //         display: block;
-    //         content: attr(data-label);
-    //         font-size: $tableFontSize * 0.7 !important;
-    //         text-transform: uppercase !important;
-    //         color: var(--md-default-fg-color--light);
-    //         font-weight: bold;
-    //         margin-right: convert.px2rem(0px);
-    //         margin-bottom: convert.px2rem(4px);
-    //     }
-    // }
 }

@@ -17,7 +17,7 @@ Magi who join the Order of Arcanists often find themselves in the service of Wiz
 
 *Your Order has taught you to expand your Arcane Armoury to hold more than the armaments of war.*
 
-You can perform your Arcane Armoury ritual on potions, spell scrolls, staffs, wands, Tiny wondrous items, and other Tiny items, storing them in your Arcane Armoury. As normal, you can use a Bonus Action to shunt or summon these items from your Arcane Armoury, but you must have a free hand to do so.
+You can perform your Arcane Armoury ritual on potions, spell scrolls, staffs, wands, Tiny wondrous items, and other Tiny items, storing them in your Arcane Armoury. As normal, you can use a **:rsc-b: Bonus Action**{ .rsc } to shunt or summon these items from your Arcane Armoury, but you must have a free hand to do so.
 
 Also, the maximum number of objects you can have as part of your Arcane Armoury is equal to your Intelligence modifier (minimum of 1) + your Magus level. All other rules for your Arcane Armoury still apply.
 
@@ -39,7 +39,7 @@ You can also copy any Magus or Wizard spell from a spell scroll or Spellbook int
 
 *You can seamlessly weave minor spells with weapon attacks.*
 
-After you cast a Magus spell that has a casting time of an Action, you can make one attack with a weapon as a Bonus Action.
+After you cast a Magus spell that has a casting time of an Action, you can make one attack with a weapon as a  **:rsc-b: Bonus Action**{ .rsc }.
 
 ### Level 15: Esoteric Sight
 

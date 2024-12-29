@@ -38,9 +38,9 @@ When you make your pact with the Archmage, you gain the following benefits:
 
 ### Level 6: Astral Slip
 
-You can draw on the arcane power of your patron to shield yourself from harm. When a creature you can see hits you with an attack, you can use your Reaction to teleport up to 30 feet to an unoccupied space you can see, causing the attack to miss.
+You can draw on the arcane power of your patron to shield yourself from harm. When a creature you can see hits you with an attack, you can use your **:rsc-r: Reaction**{ .rsc } to teleport up to 30 feet to an unoccupied space you can see, causing the attack to miss.
 
-Once you use this Reaction to evade an attack, you must finish a Short or Long Rest before you can use it again.
+Once you use this **:rsc-r: Reaction**{ .rsc } to evade an attack, you must finish a Short or Long Rest before you can use it again.
 
 ### Level 6: Arcane Savant
 

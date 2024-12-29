@@ -44,13 +44,13 @@ If you lose the map, you can perform a 1-hour ceremony to magically create a rep
 
 ### Level 3: Starry Form
 
-As a Bonus Action, you can expend a use of your Wild Shape feature to take on a starry form, rather than shape shifting.
+As a **:rsc-b: Bonus Action**{ .rsc }, you can expend a use of your Wild Shape feature to take on a starry form, rather than shape shifting.
 
 While in your starry form, you retain your game statistics, but your body becomes luminous; your joints glimmer like stars, and glowing lines connect them as on a star chart. This form sheds Bright Light in a 10-foot radius and Dim Light for an additional 10 feet. The form lasts for 10 minutes. It ends early if you dismiss it (no action required), have the Incapacitated condition, or use this feature again.
 
 Whenever you assume your starry form, choose which of the following constellations glimmers on your body; your choice gives you certain benefits while in the form:
 
-***Archer.*** A constellation of an archer appears on you. When you activate this form, and as a Bonus Action on your subsequent turns while it lasts, you can make a ranged spell attack, hurling a luminous arrow that targets one creature within 60 feet of you. On a hit, the attack deals Radiant damage equal to 1d8 + your Wisdom modifier.
+***Archer.*** A constellation of an archer appears on you. When you activate this form, and as a **:rsc-b: Bonus Action**{ .rsc } on your subsequent turns while it lasts, you can make a ranged spell attack, hurling a luminous arrow that targets one creature within 60 feet of you. On a hit, the attack deals Radiant damage equal to 1d8 + your Wisdom modifier.
 
 ***Chalice.*** A constellation of a life-giving goblet appears on you. Whenever you cast a spell using a spell slot that restores Hit Points to a creature, you or another creature within 30 feet of you can regain Hit Points equal to 1d8 + your Wisdom modifier.
 
@@ -62,11 +62,11 @@ At Druid **level 14**, while in your Starry Form, you become partially incorpore
 
 You learn to use your star map to divine the will of the cosmos. Whenever you finish a Long Rest, you can consult your Star Map for omens. When you do so, roll a die. Until you finish your next Long Rest, you gain access to a special Reaction based on whether you rolled an even or an odd number on the die:
 
-***Weal (even).*** Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a Reaction to roll 1d6 and add the number rolled to the total.
+***Weal (even).*** Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a **:rsc-r: Reaction**{ .rsc } to roll 1d6 and add the number rolled to the total.
 
-***Woe (odd).*** Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a Reaction to roll 1d6 and subtract the number rolled from the total.
+***Woe (odd).*** Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a **:rsc-r: Reaction**{ .rsc } to roll 1d6 and subtract the number rolled from the total.
 
-You can use use this Reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
+You can use use this **:rsc-r: Reaction**{ .rsc } a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
 
 ### Level 10: Twinkling Constellations
 

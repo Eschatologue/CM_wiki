@@ -19,7 +19,7 @@ In great battles, a War Mage often works with evokers, abjurers, and other types
 
 ### Level 3: Arcane Deflection
 
-You have learned to weave your magic to fortify yourself against harm. When you are hit by an attack or you fail a saving throw, you can use your :rsc-r: Reaction to gain bonus to your AC or bonus to the saving throws equals to your Intelligence modifier, potentially turning the hit into a miss or a failure into a success. The bonus lasts until the start of your next turn. 
+You have learned to weave your magic to fortify yourself against harm. When you are hit by an attack or you fail a saving throw, you can use your **:rsc-r: Reaction**{ .rsc } to gain bonus to your AC or bonus to the saving throws equals to your Intelligence modifier, potentially turning the hit into a miss or a failure into a success. The bonus lasts until the start of your next turn. 
 
 When you use this feature, you can't cast spells other than cantrips until the end of your next turn. 
 

@@ -76,7 +76,7 @@ When the wearer of your talisman is hit by an attacker you can see within 30 fee
 
 _**Prerequisite:** Level 5+ Warlock_
 
-As a Bonus Action, you can surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you're incapacitated or you dismiss it as a Bonus Action.
+As a **:rsc-b: Bonus Action**{ .rsc }, you can surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you're incapacitated or you dismiss it as a  **:rsc-b: Bonus Action**{ .rsc }.
 
 The aura grants you advantage on Charisma (Intimidation) checks but disadvantage on all other Charisma checks. Any other creature that starts its turn in the aura takes poison damage equal to your Charisma modifier (minimum of 0 damage).
 
@@ -92,7 +92,7 @@ A new page appears in your Book of Shadows. With your permission, a creature can
 
 You can cast the *Sending* spell, targeting a creature whose name is on the page, without using a spell slot and without using material components. To do so, you must write the message on the page. The target hears the message in their mind, and if the target replies, their message appears on the page, rather than in your mind. The writing disappears after 1 minute.
 
-As a Magic action, you can magically erase a name on the page by touching it.
+As a **:rsc-a: Magic**{ .rsc } action, you can magically erase a name on the page by touching it.
 
 ---
 
@@ -100,7 +100,7 @@ As a Magic action, you can magically erase a name on the page by touching it.
 
 _**Prerequisite:** Level 5+ Warlock; *Hex* spell or a Warlock feature that curses_
 
-As a Bonus Action, you cause a psychic disturbance around the target cursed by your *Hex* spell or by a Warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. When you do so, you deal psychic damage to the cursed target and each creature of your choice that you can see within 5 feet of it. The psychic damage equals your Charisma modifier (minimum of 1 damage). To use this Invocation, you must be able to see the cursed target, and it must be within 30 feet of you.
+As a **:rsc-b: Bonus Action**{ .rsc }, you cause a psychic disturbance around the target cursed by your *Hex* spell or by a Warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. When you do so, you deal psychic damage to the cursed target and each creature of your choice that you can see within 5 feet of it. The psychic damage equals your Charisma modifier (minimum of 1 damage). To use this Invocation, you must be able to see the cursed target, and it must be within 30 feet of you.
 
 ---
 
@@ -116,7 +116,7 @@ You can cast [Bestow Curse](../../../spells/description/core/level-3.md#bestow-c
 
 _**Prerequisite:** Level 5+ Warlock_
 
-As a Reaction when you take damage, you can entomb yourself in ice, which melts away at the end of your next turn. You gain 10 Temporary Hit Points per Warlock level, which take as much of the triggering damage as possible. Immediately after you take the damage, you are Vulnerabile to fire damage, your **:rsc-spd: speed**{ .rsc } is reduced to 0, and you gain the Incapacitated condition. These effects, including any remaining Temporary Hit Points, all end when the ice melts.
+As a **:rsc-r: Reaction**{ .rsc } when you take damage, you can entomb yourself in ice, which melts away at the end of your next turn. You gain 10 Temporary Hit Points per Warlock level, which take as much of the triggering damage as possible. Immediately after you take the damage, you are Vulnerabile to fire damage, your **:rsc-spd: Speed**{ .em } is reduced to 0, and you gain the Incapacitated condition. These effects, including any remaining Temporary Hit Points, all end when the ice melts.
 
 Once you use this Invocation, you can't use it again until you finish a short or Long Rest.
 
@@ -152,7 +152,7 @@ When the wearer of your talisman fails a saving throw, they can add a d4 to the 
 
 _**Prerequisite:** Level 7+ Warlock; *Hex* spell or a Warlock feature that curses_
 
-Your curse creates a temporary bond between you and your target. As a Bonus Action, you can magically teleport up to 30 feet to an unoccupied space you can see within 5 feet of the target cursed by your *Hex* spell or by a Warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. To teleport in this way, you must be able to see the cursed target.
+Your curse creates a temporary bond between you and your target. As a **:rsc-b: Bonus Action**{ .rsc }, you can magically teleport up to 30 feet to an unoccupied space you can see within 5 feet of the target cursed by your *Hex* spell or by a Warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. To teleport in this way, you must be able to see the cursed target.
 
 ---
 

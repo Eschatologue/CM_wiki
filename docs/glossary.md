@@ -163,7 +163,7 @@ A creature is Bloodied while it has half its Hit Points or fewer remaining.
 
 ## Bonus Action
 
-A Bonus Action is a special action that you can take on the same turn that you take an action. You can't take more than one Bonus Action on a turn, and you have a Bonus Action to take only if a rule explicitly says so.
+A **:rsc-b: Bonus Action**{ .rsc } is a special action that you can take on the same turn that you take an action. You can't take more than one **:rsc-b: Bonus Action**{ .rsc } on a turn, and you have a **:rsc-b: Bonus Action**{ .rsc } to take only if a rule explicitly says so.
 
 ---
 
@@ -232,7 +232,7 @@ A cantrip is a level 0 spell, which is cast without a spell slot.
 
 Your size and Strength score determine the amount of inventory slots that you have, as shown in the Carrying Capacity table. The table also shows the maximum weight you can drag, lift, or push.
 
-While dragging, lifting, or pushing weight in excess of the maximum weight you can carry, your **:rsc-spd: Speed**{ .rsc } can be no more than 5 feet.
+While dragging, lifting, or pushing weight in excess of the maximum weight you can carry, your **:rsc-spd: Speed**{ .em } can be no more than 5 feet.
 
 ##### Carrying Capacity 
 
@@ -830,7 +830,7 @@ If you have proficiency with something, you can add your Proficiency Bonus to an
 
 ## Reaction
 
-A Reaction is a special action taken in response to a trigger defined in the Reaction's description. You can take a Reaction on another creature's turn, and if you take it on your turn, you can do so even if you also take an action, a Bonus Action, or both. Once you take a Reaction, you can't take another one until the start of your next turn. The Opportunity Attack is a Reaction available to all creatures.
+A Reaction is a special action taken in response to a trigger defined in the Reaction's description. You can take a **:rsc-r: Reaction**{ .rsc } on another creature's turn, and if you take it on your turn, you can do so even if you also take an action, a **:rsc-b: Bonus Action**{ .rsc }, or both. Once you take a **:rsc-r: Reaction**{ .rsc }, you can't take another one until the start of your next turn. The Opportunity Attack is a **:rsc-r: Reaction**{ .rsc } available to all creatures.
 
 ---
 
@@ -973,7 +973,7 @@ A creature has a :rsc-spd: **Speed**, which is the distance in feet the creature
 
 ***Special Speeds.*** Some creatures have special speeds, such as a **Burrow Speed**, **Climb Speed**, **Fly Speed**, or **Swim Speed**. If you have more than one speed, choose which one to use when you move; you can switch between the speeds during your move. Whenever you switch, subtract the distance already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can't use the new speed during the current move. For example, if you have a Speed of 30 and a Fly Speed of 40, you could fly 10 feet, walk 10 feet, and leap into the air to fly 20 feet more.
 
-***Changes to Your Speeds.*** If an effect increases or decreases your **:rsc-spd: Speed**{ .rsc } for a time, any special speed you have increases or decreases by an equal amount for the same duration. For example, if your **:rsc-spd: Speed**{ .rsc } is reduced to 0 and you have a Climb Speed, your Climb Speed is also reduced to 0. Similarly, if your **:rsc-spd: Speed**{ .rsc } is halved and you have a Fly Speed, your Fly Speed is also halved.
+***Changes to Your Speeds.*** If an effect increases or decreases your **:rsc-spd: Speed**{ .em } for a time, any special speed you have increases or decreases by an equal amount for the same duration. For example, if your **:rsc-spd: Speed**{ .em } is reduced to 0 and you have a Climb Speed, your Climb Speed is also reduced to 0. Similarly, if your **:rsc-spd: Speed**{ .em } is halved and you have a Fly Speed, your Fly Speed is also halved.
 
 ### Burrow Speed
 
@@ -1051,7 +1051,7 @@ A stat block contains the game slatistics of a monster. Each stat block includes
 
 ***Actions.*** The monster can take these actions in addition to those detailed in this glossary.
 
-***Bonus Actions.*** If the monster has Bonus Action options, they are listed in this section.
+***Bonus Actions.*** If the monster has **:rsc-b: Bonus Action**{ .rsc } options, they are listed in this section.
 
 ***Reactions.*** If the monster can take special Reactions, those are listed in this section.
 

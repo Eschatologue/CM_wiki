@@ -28,7 +28,7 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 #### Resonance of Destruction
 
-***Collapsing Star (Archer Form).*** Once per turn, when you hit a target with your :rsc-b: Archer Form's Bonus Action attack, all creatures within 5 feet of the target must make a :d20-save: Dexterity saving throw. On a failed save, they take damage as if they were also hit by your Archer Form's attack.
+***Collapsing Star (Archer Form).*** Once per turn, when you hit a target with your :rsc-b: Archer Form's **:rsc-b: Bonus Action**{ .rsc } attack, all creatures within 5 feet of the target must make a :d20-save: Dexterity saving throw. On a failed save, they take damage as if they were also hit by your Archer Form's attack.
 
 ***Searing Flare (Chalice Form).*** Once per turn, when you restore Hit Points to a creature using the Chalice Form feature, each creatures within 5 feet of the target must make a :d20-save: Constitution saving throw. On a failed save, they take :dmg-radi: Radiant damage equals to the Chalice Form's healing roll.
 
@@ -44,7 +44,7 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 #### Resonance of Judgement (Locked)
 
-***Fist of Conviction (Archer Form).*** You gain a bonus to your AC equal to your Wisdom modifier so long you are not wearing Medium or Heavy Armour or using a Shield. Additionally, as a **:rsc-a: Magic**{ .rsc } action, you can make a melee spell attack using your Archer Form's attack. At Druid level 6, whenever you take this Magic action on your turn, you can attack twice, instead of once.
+***Fist of Conviction (Archer Form).*** You gain a bonus to your AC equal to your Wisdom modifier so long you are not wearing Medium or Heavy Armour or using a Shield. Additionally, as a **:rsc-a: Magic**{ .rsc } action, you can make a melee spell attack using your Archer Form's attack. At Druid level 6, whenever you take this **:rsc-a: Magic**{ .rsc } action on your turn, you can attack twice, instead of once.
 
 ***Shape of Spite (Chalice Form).*** Once per turn, when you restore Hit Points to a creature using the Chalice Form feature, it gains a bonus to its next D20 Test equal to your Wisdom modifier.
 

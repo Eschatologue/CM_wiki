@@ -28,7 +28,7 @@ At the start of your turn, you can spend 1 :class-phb24-monk: **Focus Point** to
 
 ### Level 6: Environmental Burst
 
-As a Magic action, you can spend 2 :class-phb24-monk: **Focus Points** to cause environmental energy to burst in a 20-foot-radius sphere centered on a point within 120 feet of yourself. Choose a damage type :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-lgtn: Lightning or :dmg-thun: Thunder.
+As a **:rsc-a: Magic**{ .rsc } action, you can spend 2 :class-phb24-monk: **Focus Points** to cause environmental energy to burst in a 20-foot-radius sphere centered on a point within 120 feet of yourself. Choose a damage type :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-lgtn: Lightning or :dmg-thun: Thunder.
 
 Each creature in the sphere must make a Dexterity saving throw. On a failed save, a creature takes damage of the chosen type equal to three rolls of your Martial Arts die. On a successful save, a creature takes half as much damage.
 
@@ -42,7 +42,7 @@ When your Elemental Attunement is active, you also gain the following benefits f
 
 ***Damage Resistance.*** You gain resistance to one of the following damage types of your choice: Acid, Cold, Fire, or Lightning. At the start of each of your turns, you can change this choice.
 
-***Destructive Stride.*** When you use your Step of the Wind, your **:rsc-spd: Speed**{ .rsc } increases by 20 feet until the end of the turn. For that duration, any creature of your choice takes damage equal to one roll of your Martial Arts die when you enter a space within 5 feet of it. The damage type is your choice of :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-lgtn: Lightning or :dmg-thun: Thunder. A creature can take this damage only once per turn.
+***Destructive Stride.*** When you use your Step of the Wind, your **:rsc-spd: Speed**{ .em } increases by 20 feet until the end of the turn. For that duration, any creature of your choice takes damage equal to one roll of your Martial Arts die when you enter a space within 5 feet of it. The damage type is your choice of :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-lgtn: Lightning or :dmg-thun: Thunder. A creature can take this damage only once per turn.
 
 ***Empowered Strikes.*** Once on each of your turns, you can deal extra damage to a target equal to one roll of your Martial Arts die when you hit it with an [Unarmed Strike]. The extra damage is the same type dealt by that strike.
 

@@ -89,7 +89,7 @@ Whenever you gain a Fighter level, you can replace the feat you chose with a dif
 
 ### Level 1: Second Wind
 
-You have a limited well of physical and mental stamina that you can draw on. As a Bonus Action, you can use it to regain Hit Points equal to 1d10 plus your Fighter level.
+You have a limited well of physical and mental stamina that you can draw on. As a **:rsc-b: Bonus Action**{ .rsc }, you can use it to regain Hit Points equal to 1d10 plus your Fighter level.
 
 You can use this feature twice. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
 
@@ -109,7 +109,7 @@ When you reach certain Fighter levels, you gain the ability to use the mastery p
 
 ### Level 2: Action Surge
 
-You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the Magic action.
+You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the **:rsc-a: Magic**{ .rsc } action.
 
 Once you use this feature, you can't do so again until you finish a Short or Long Rest. Starting at level 17, you can use it twice before a rest but only once on a turn.
 
@@ -131,7 +131,7 @@ You can attack twice instead of once whenever you take the Attack action on your
 
 ### Level 5: Tactical Shift
 
-Whenever you activate your Second Wind with a Bonus Action, you can move up to half your **:rsc-spd: Speed**{ .rsc } without provoking Opportunity Attacks.
+Whenever you activate your Second Wind with a **:rsc-b: Bonus Action**{ .rsc }, you can move up to half your **:rsc-spd: Speed**{ .em } without provoking Opportunity Attacks.
 
 ### Level 9: Indomitable
 

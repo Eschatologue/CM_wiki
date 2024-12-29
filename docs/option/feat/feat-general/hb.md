@@ -42,7 +42,7 @@ You learn the *Thaumaturgy* and *Guidance* cantrip. When you cast those cantrips
 **Hidden Ace**  
 When you finish a Long Rest, you can choose two spell from your class's spell list and imbue those spell into cards. The chosen spell must have a casting time of 1 action, and it must be a level for which you have :rsc-spell-slot: Spell Slots. The card remains imbued with this spell for 8 hours. 
     
-While the card is imbued with the spell, you can use a :rsc-b: Bonus Action to flourish the card and cast the spell within. The card then immediately loses its magic.
+While the card is imbued with the spell, you can use a **:rsc-b: Bonus Action**{ .rsc } to flourish the card and cast the spell within. The card then immediately loses its magic.
 
 ---
 
@@ -75,7 +75,7 @@ Increase your Dexterity score by 1, to a maximum of 20.
 When you make the extra attack of the :weapon-prop-light: **Light** weapon property, you can add your Ability Modifier to the damage of the extra attack if that attack is with a Firearm that has the :weapon-prop-light: **Light** property.
     
 **Quickshot**  
-After you roll for Initiative, you can take a :rsc-r: Reaction to make a single attack with a Firearm.
+After you roll for Initiative, you can take a **:rsc-r: Reaction**{ .rsc } to make a single attack with a Firearm.
 
 ---
 
@@ -107,7 +107,7 @@ You increase your Strength, Dexterity, or Constitution score by 1, to a maximum 
 **Stance Change**  
 You learn a Fighting Style feat of your choice. You do not gain the benefit of the Fighting Style.
 
-As a :rsc-b: Bonus Action, you can choose to benefit from the Fighting Style feat you gained from this feat, losing the benefit of one other Fighting Style feat you currently have. To regain the benefit of another Fighting Style, you must use a Bonus Action to switch back.
+As a **:rsc-b: Bonus Action**{ .rsc }, you can choose to benefit from the Fighting Style feat you gained from this feat, losing the benefit of one other Fighting Style feat you currently have. To regain the benefit of another Fighting Style, you must use a **:rsc-b: Bonus Action**{ .rsc } to switch back.
 
 ---
 

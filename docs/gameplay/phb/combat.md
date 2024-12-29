@@ -48,7 +48,7 @@ If a combatant is suprised by combat starting, that combatant has **:d20-disadv:
 
 During your turn, you can do the following on any order:
 
-- Move up to your **:rsc-spd: Speed**{ .rsc }
+- Move up to your **:rsc-spd: Speed**{ .em }
 - Take one **:rsc-a: Action**{ .rsc }
 - Take one **:rsc-b: Bonus Action**{ .rsc } (If you have a feature that uses it)
 
@@ -92,7 +92,7 @@ On a grid, each square represents 5 feet. A character with 30 feet of movement s
 
 #### Speed
 
-Rather than moving foot by foot, move square by square on the Grid using your **:rsc-spd: Speed**{ .rsc } in 5-foot segments. You can translate your **:rsc-spd: Speed**{ .rsc } into squares by dividing it by 5. For example, a Speed of 30 feet translate into 6 squuares. Consider writing your **:rsc-spd: Speed**{ .rsc } in sqyares on your character sheet
+Rather than moving foot by foot, move square by square on the Grid using your **:rsc-spd: Speed**{ .em } in 5-foot segments. You can translate your **:rsc-spd: Speed**{ .em } into squares by dividing it by 5. For example, a Speed of 30 feet translate into 6 squuares. Consider writing your **:rsc-spd: Speed**{ .em } in sqyares on your character sheet
 
 #### Entering a Square
 
@@ -119,7 +119,7 @@ Speed of 30 feet, you could go 10 feet, take an action, and then go 20 feet.
 
 ### Dropping Prone
 
-On your turn, you can give yourself the Prone condition without using an action or any of your **:rsc-spd: Speed**{ .rsc }, but you can't do so if your **:rsc-spd: Speed**{ .rsc } is 0.
+On your turn, you can give yourself the Prone condition without using an action or any of your **:rsc-spd: Speed**{ .em }, but you can't do so if your **:rsc-spd: Speed**{ .em } is 0.
 
 ### Creature Size
 
@@ -200,7 +200,7 @@ Combatants watch for enemies to drop their guard. If you move heedlessly past yo
 
 ***Avoiding Opportunity Attack.*** You can avoid provoking an Opportunity Attack by taking the Disengage action. You also don't provoke an Opportunity Attack when you Teleport or when you are moved without using your movement, action, Bonus Action, or Reaction. For example, you don't provoke an Opportunity Attack if an explosion hurls you out of a foe's reach or if you fall past an enemy.
 
-***Making an Opportunity Attack.*** You can make an Opportunity Attack when a creature that you can see leaves your reach. To make the attack, take a Reaction to make one melee attack with a weapon or an Unarmed Strike against that creature. The attack occurs right before it leaves your reach.
+***Making an Opportunity Attack.*** You can make an Opportunity Attack when a creature that you can see leaves your reach. To make the attack, take a **:rsc-r: Reaction**{ .rsc } to make one melee attack with a weapon or an Unarmed Strike against that creature. The attack occurs right before it leaves your reach.
 
 ### Mounted Combat
 
@@ -208,7 +208,7 @@ A willing creature that is at least one size larger than a rider and that has an
 
 ### Mounting and Dismounting
 
-During your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of movement equal to half your **:rsc-spd: Speed**{ .rsc } (round down). For example, if your **:rsc-spd: Speed**{ .rsc } is 30 feet, you spend 15 feet of movement to mount a horse.
+During your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of movement equal to half your **:rsc-spd: Speed**{ .em } (round down). For example, if your **:rsc-spd: Speed**{ .em } is 30 feet, you spend 15 feet of movement to mount a horse.
 
 ### Controlling a Mount
 

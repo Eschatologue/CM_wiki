@@ -2,28 +2,9 @@
 icon: rsc/a
 ---
 
-# Action
+# Actions
 
-When you do something other than moving or communicating, you typically take an Action. The Action table lists the game's main actions, which are defined more detail here.
-
-##### Actions
-
-| Action | Summary | 
-|---|---|
-| **Attack** | Attack with a weapon or an Unarmed Strike |
-| **Dash** | For the rest of the turn, give yourself extra movement equal to your **:rsc-spd: Speed**{ .rsc } |
-| **Disengage** | Your movement doesn't provoke Opportunity Attack for the rest of the turn | 
-| **Dodge** | Until the start of your next turn, Attack Rolls against you have **:d20-disadv: Disadvantage**{ .d20 }, and you make Dexterity saving throw with **:d20-adv: Advantage**{ .d20 }. You lost this benefit if you have the Incapacitated condition or if your **:rsc-spd: Speed**{ .rsc } is 0 |
-| **Help** | Help another creature Ability Check or Attack Roll, or administer first aid |
-| **Hide** | Make a Dexterity (Stealth) check | 
-| **Influence** | Make Charisma (Deception, Intimidation, Perfomance, or Persuassion) or Wisdom (Animal Handling) check to alter a creature's attitude |
-| **Magic** | Cast a Spell, use a magic item, or use a magical feature |
-| **Ready** | Prepare to take an action in response to a trigger you define |
-| **Search**| Make a Wisdom (Insight, Medicine, Perception, or Survival) check |
-| **Study** | Make an Intelligence (Arcana, History, Investigation, or Survival) check | 
-| **Utilise** | Use nonmagical object |
-
-Player characters and monster can also do things not covered by these actuibs, Many ckass features and other abilities provide additional action options, and you can improvise other actions. When you describe an action not detailed elsewhere in the rules, the DM tells you wheter that action is possible and what kind of D20 Test you need to make, if any.
+When you do something other than moving or communicating, you typically take an action. They are acts taken by creatures on their turns. Actions are generally taken in order to deal damage, cast spells, make ability checks or inflict harmful conditions, but they can also be taken to heal or aid allies.
 
 ## One Thing at a Time
 
@@ -31,24 +12,39 @@ The game uses actions to govern how much you can do at one time. **You can take 
 
 Actions can come up in other situations too: In a social interactions, you can try to Influence a creature or use the Search action to read the creature's body language, but you can't do both at the same time. And when you're exploring a dungeon, you can't simultaneously use the Search action to look for traps and use the Help action to aid another character who's trying to open a stuck door (with Utilise action)
 
-## Bonus Actions
+## Resources
 
-Various class features, spells, and other abilities let you take an additional action on your turn called a **:rsc-b: Bonus Action**{ .rsc }. The Cunning Action feature for a Rogue, allows it to take a **:rsc-b: Bonus Action**{ .rsc }. You can take a this action **only** when a special ability, a spell, or another feature of the game states that you can do something as a **:rsc-b: Bonus Action**{ .rsc }. You otherwise don't have a **:rsc-b: Bonus Action**{ .rsc } to take.
+For a creature to perform an action, particularly in combat scenarios, it must expend one of three resources. These resources allow a creature to perform various activities such as attacking, casting spells, or using special features. The three primary resources are:
 
-You choose when to take a **:rsc-b: Bonus Action**{ .rsc } during your turn unless the **:rsc-b: Bonus Action**{ .rsc }'s timing is specified. Anything that deprives you of the ability to take **:rsc-a: Action**{ .rsc } also prevents you from taking a **:rsc-b: Bonus Action**{ .rsc }.
+<center>
+**:rsc-a: Action**{ .rsc } - **:rsc-b: Bonus Action**{ .rsc } - **:rsc-r: Reaction**{ .rsc }
+</center>
 
-## Reactions
+### **:rsc-a: Action**{ .rsc-h }
 
-Certain special abilities, spells, and situations allow yout ake special actions called a **:rsc-r: Reaction**{ .rsc }, which is an instant response to a trigger of some kind, which can occur on your turn or on someeone else's. The **:rsc-r: Opportunity Attack**{ .em } is the most common type of Reactions.
+An **:rsc-a: Action**{ .rsc } is one of the three primary resources that a creature can expend during its turn. Actions like **Attack**{ .rsc }, **Dash**{ .rsc },  **Magic**{ .rsc }, or **Unarmed Strike**{ .rsc } typically require an **:rsc-a: Action**{ .rsc }. 
 
-When you take a **:rsc-r: Reaction**{ .rsc }, you can't take another one until the start of your next turn. If the reaction interrupts another creature's turn, that creature can continue its turn right after the Reaction.
+You can **only** use an **:rsc-a: Action**{ .rsc } for activities that explicitly require one. If an activity requires an **:rsc-a: Action**{ .rsc }, no other resources (**:rsc-b: Bonus Action**{ .rsc } or **:rsc-r: Reaction**{ .rsc }) can be used for that activity.
 
-In terms of timing, a **:rsc-r: Reaction**{ .rsc } takes place immediatelt after its trigger unless the **:rsc-r: Reaction**{ .rsc }'s description says otherwise.
+### **:rsc-b: Bonus Action**{ .rsc-h }
 
+A **:rsc-b: Bonus Action**{ .rsc } is an additional action a creature can take during its turn, granted by certain class features, spells, or other abilities. 
+
+You can only take a **:rsc-b: Bonus Action**{ .rsc } if a specific feature, spell, or ability states that it requires one. Otherwise, you do not have a **:rsc-b: Bonus Action**{ .rsc } to use.
+
+The **:rsc-b: Bonus Action**{ .rsc } can be taken at any point during your turn unless its timing is specifically stated. If something prevents you from taking an **:rsc-a: Action**{ .rsc }, it also prevents you from taking a **:rsc-b: Bonus Action**{ .rsc }.
+
+### **:rsc-r: Reaction**{ .rsc-h }
+
+A **:rsc-r: Reaction**{ .rsc } is a special action that occurs in response to a specific trigger, which can happen either on your turn or on another creature's turn. The most common type of **:rsc-r: Reaction**{ .rsc } is the **Opportunity Attack**{ .em }.
+
+Once you take a **:rsc-r: Reaction**{ .rsc }, you cannot take another **:rsc-r: Reaction**{ .rsc } until the start of your next turn. If the **:rsc-r: Reaction**{ .rsc } interrupts another creature’s turn, that creature can continue its turn immediately after it has been completed.
+
+In terms of timing, a **:rsc-r: Reaction**{ .rsc } occurs immediately after its trigger, unless the specific description of the **:rsc-r: Reaction**{ .rsc } states otherwise.
 
 ## Action Lists
 
-Below is a list of all actions you can take, along with relevant details:
+Below is a list of common actions you can take, along with relevant details:
 
 **Cost:** Each action requires using one of your available resources—**:rsc-a: Action**{ .rsc }, **:rsc-b: Bonus Action**{ .rsc }, or **:rsc-r: Reaction**{ .rsc }. To perform a specific action, you must have the appropriate resource available. For example, you cannot take the **Attack**{ .rsc } action (which requires an Action) if you have already used your Action to take the Dash action.
 
@@ -80,9 +76,9 @@ Casting a spell is, therefore, not necessarily an **:rsc-a: Action**{ .rsc }. Mo
 
 **Cost:** **:rsc-a: Action**{ .rsc }
 
-When you take the **Dash**{ .rsc } action, you gain extra movement for the current turn. The increase equals your **:rsc-spd: Speed**{ .rsc }, after applying any modifiers. With a speed of 30 feet, for example, you can move up to 60 feet on your turn if you Dash.
+When you take the **Dash**{ .rsc } action, you gain extra movement for the current turn. The increase equals your **:rsc-spd: Speed**{ .em }, after applying any modifiers. With a speed of 30 feet, for example, you can move up to 60 feet on your turn if you Dash.
 
-Any increase or decrease to your **:rsc-spd: Speed**{ .rsc } changes this additional movement by the same amount. If your **:rsc-spd: Speed**{ .rsc } of 30 feet is reduced to 15 feet, for instance, you can move up to 30 feet this turn if you Dash.
+Any increase or decrease to your **:rsc-spd: Speed**{ .em } changes this additional movement by the same amount. If your **:rsc-spd: Speed**{ .em } of 30 feet is reduced to 15 feet, for instance, you can move up to 30 feet this turn if you Dash.
 
 ---
 
@@ -98,7 +94,7 @@ If you take the **Disengage**{ .rsc } action, your movement doesn't provoke Oppo
 
 **Cost:** **:rsc-a: Action**{ .rsc }
 
-When you take the **Dodge**{ .rsc } action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has **:d20-disadv: Disadvantage**{ .d20 } if you can see the attacker, and you make **:d20-save: Dexterity saving throws** with **:d20-adv: Advantage**{ .d20 }. You lose this benefit if you have the Incapacitated condition or if your **:rsc-spd: Speed**{ .rsc } is 0.
+When you take the **Dodge**{ .rsc } action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has **:d20-disadv: Disadvantage**{ .d20 } if you can see the attacker, and you make **:d20-save: Dexterity saving throws** with **:d20-adv: Advantage**{ .d20 }. You lose this benefit if you have the Incapacitated condition or if your **:rsc-spd: Speed**{ .em } is 0.
 
 ---
 
@@ -164,9 +160,9 @@ Some spells aren't associated with any class when they're cast, this includes wh
 
 **Cost:** **:rsc-a: Action**{ .rsc }
 
-When you take the **Magic**{ .rsc } action, you magic something by casting a spell that has a casting time of an **:rsc-a: Action**{ .rsc } or by using a feature or Magic Item that requires a Magic action to be activated.
+When you take the **Magic**{ .rsc } action, you magic something by casting a spell that has a casting time of an **:rsc-a: Action**{ .rsc } or by using a feature or Magic Item that requires a **:rsc-a: Magic**{ .rsc } action to be activated.
 
-If you cast a spell that has a casting time of 1 minute or longer, you must take the Magic action on each turn of that casting, and you must maintain Concentration while you do so. If your Concentration is broken, the spell fails, but you don't expend a spell slot.
+If you cast a spell that has a casting time of 1 minute or longer, you must take the **:rsc-a: Magic**{ .rsc } action on each turn of that casting, and you must maintain Concentration while you do so. If your Concentration is broken, the spell fails, but you don't expend a spell slot.
 
 ---
 
@@ -186,11 +182,11 @@ You can make an **:rsc-r: Opportunity Attack**{ .em } when a hostile creature th
 
 You take the **Ready**{ .rsc } action to wait for a particular circumstance before you act. To do so, you take this action on your turn, which lets you act by taking a **:rsc-r: Reaction**{ .rsc } before the start of your next turn.
 
-First, you decide what perceivable circumstance will trigger your **:rsc-r: Reaction**{ .rsc }. Then, you choose the action you will take in response to that trigger, or you choose to move up to your **:rsc-spd: Speed**{ .rsc } in response to it. Examples include "If the cultist steps on the trapdoor, I'll pull the lever that opens it," and "If the zombie steps next to me, I move away."
+First, you decide what perceivable circumstance will trigger your **:rsc-r: Reaction**{ .rsc }. Then, you choose the action you will take in response to that trigger, or you choose to move up to your **:rsc-spd: Speed**{ .em } in response to it. Examples include "If the cultist steps on the trapdoor, I'll pull the lever that opens it," and "If the zombie steps next to me, I move away."
 
 When the trigger occurs, you can either take your **:rsc-r: Reaction**{ .rsc } right after the trigger finishes or ignore the trigger.
 
-***Readying a Spell.*** When you Ready a spell, you cast it as normal (expending any resources used to cast it) but hold its energy, which you release with your **:rsc-r: Reaction**{ .rsc } when the trigger occurs. To be readied, a spell must have a casting time of an action, and holding on to the spell's magic requires Concentration, which you can maintain up to the start of your next turn. If your Concentration is broken, the spell dissipates without taking effect.
+**Readying a Spell**{ .inl } When you Ready a spell, you cast it as normal (expending any resources used to cast it) but hold its energy, which you release with your **:rsc-r: Reaction**{ .rsc } when the trigger occurs. To be readied, a spell must have a casting time of an action, and holding on to the spell's magic requires Concentration, which you can maintain up to the start of your next turn. If your Concentration is broken, the spell dissipates without taking effect.
 
 ---
 

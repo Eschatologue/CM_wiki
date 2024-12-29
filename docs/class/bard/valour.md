@@ -34,4 +34,4 @@ In addition, you can cast one of your cantrips that has a casting time of an act
 
 ### Level 14: Battle Magic
 
-After you cast a spell that has a casting time of an action, you can make one attack with a weapon as a Bonus Action.
+After you cast a spell that has a casting time of an action, you can make one attack with a weapon as a  **:rsc-b: Bonus Action**{ .rsc }.

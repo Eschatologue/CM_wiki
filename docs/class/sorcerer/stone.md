@@ -48,9 +48,9 @@ In addition, you can cast one of your Sorcerer cantrip that has the casting time
 
 *Your command of earth magic grows stronger, allowing you to harness it for your allies' protection.*
 
-As a :rsc-b: Bonus Action, you can touch a willing creature (including yourself) and and expend Sorcery Points to grant it 1d6 Temporary Hit Points per Sorcery Point.
+As a **:rsc-b: Bonus Action**{ .rsc }, you can touch a willing creature (including yourself) and and expend Sorcery Points to grant it 1d6 Temporary Hit Points per Sorcery Point.
 
-When a creature with these Temporary Hit Points within 60 feet of you that you can see is hit by a melee attack, you can use your :rsc-r: Reaction to teleport within 5 feet of the attacker and make a Melee attack or Unarmed Strike against it.
+When a creature with these Temporary Hit Points within 60 feet of you that you can see is hit by a melee attack, you can use your **:rsc-r: Reaction**{ .rsc } to teleport within 5 feet of the attacker and make a Melee attack or Unarmed Strike against it.
 
 ### Level 14: Mountain's Heart
 

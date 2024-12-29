@@ -19,9 +19,9 @@ Typically, Magi of this Order take on a single apprentice, teaching them, and on
 
 Your Order's style of combat is an art. You gain proficiency in Performance, and you can use your Strength or Dexterity, in place of Charisma, when making a Performance check.
 
-So long as you are not wearing Heavy armour or wielding a weapon with :weapon-prop-heavy: Heavy Property, you can use your Bonus Action to enter the trance known as the **Blade Dance**. This trance lasts for 1 minute, and while it is active, you gain the benefits below:
+So long as you are not wearing Heavy armour or wielding a weapon with :weapon-prop-heavy: Heavy Property, you can use your **:rsc-b: Bonus Action**{ .rsc } to enter the trance known as the **Blade Dance**. This trance lasts for 1 minute, and while it is active, you gain the benefits below:
 
-***Speed Increase.*** Your **:rsc-spd: Speed**{ .rsc } increases by 10 feet.
+***Speed Increase.*** Your **:rsc-spd: Speed**{ .em } increases by 10 feet.
 
 ***Bonus AC.***  You gain a +1 bonus to your Armour Class.
 

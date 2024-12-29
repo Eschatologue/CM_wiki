@@ -21,7 +21,7 @@ You also gain additional benefits using your Monk Weapons:
 
 ***Masterful Aim.*** When you take the Attack action with a Monk Weapon you can imbue your soul into the weapon to increase its accuracy. Until the start of your next turn, you can treat a d20 roll of 7 or lower as 8. **Enhance.** You can spend 1 :class-phb24-monk: **Focus Point** to instead treat a d20 roll of 9 or lower as 10.
 
-***Masterful Parry.*** While you are wielding a Melee Monk Weapon and a creature you can see hits you with a melee attack, you can take a :rsc-r: Reaction to add your Wisdom modifier (minimum of +1) to your Armour Class against that attack. **Counter.** If the Attack misses, you can spend 1 :class-phb24-monk: **Focus Point** to make a Melee attack against the creature that attacks you as part of the same Reaction.
+***Masterful Parry.*** While you are wielding a Melee Monk Weapon and a creature you can see hits you with a melee attack, you can take a **:rsc-r: Reaction**{ .rsc } to add your Wisdom modifier (minimum of +1) to your Armour Class against that attack. **Counter.** If the Attack misses, you can spend 1 :class-phb24-monk: **Focus Point** to make a Melee attack against the creature that attacks you as part of the same Reaction.
 
 ### Level 3: Wuxia's Artistry 
 
@@ -39,7 +39,7 @@ Your focus empowers your Monk Weapons, granting you the following benefits.
 
 ### Level 11: Soul of the Blade
 
-As a :rsc-b: Bonus Action, you can touch one of your Monk Weapons and infuse it with 1 to 3 :class-phb24-monk: **Focus Points** to reduce the number you need to roll for critical hit an amount equal to the number of :class-phb24-monk: **Focus Points** expended. For example, if you infused a normal weapon with 3 :class-phb24-monk: **Focus Point**, its attacks would score a Critical Hit on a roll of 17-20 on the d20.
+As a **:rsc-b: Bonus Action**{ .rsc }, you can touch one of your Monk Weapons and infuse it with 1 to 3 :class-phb24-monk: **Focus Points** to reduce the number you need to roll for critical hit an amount equal to the number of :class-phb24-monk: **Focus Points** expended. For example, if you infused a normal weapon with 3 :class-phb24-monk: **Focus Point**, its attacks would score a Critical Hit on a roll of 17-20 on the d20.
 
 This bonus is only usable by you and it lasts for 1 minute. It ends early if you imbue your :class-phb24-monk: **Focus Point** into another Monk Weapon.
 

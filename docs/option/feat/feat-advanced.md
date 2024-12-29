@@ -20,7 +20,7 @@ You gain a +1 bonus to your AC while you are wielding a separate melee weapon in
 While you are wielding two Melee weapons, both are treated as if they had the :weapon-prop-light: **Light** property.
 
 **Flurry**  
-When you make the extra off-hand attack using the :weapon-prop-light: **Light** property, you can make it as part of the Attack action, instead of as a Bonus Action. You can still make this extra attack only once per turn.
+When you make the extra off-hand attack using the :weapon-prop-light: **Light** property, you can make it as part of the Attack action, instead of as a  **:rsc-b: Bonus Action**{ .rsc }. You can still make this extra attack only once per turn.
 
 **Quick Draw**  
 You can draw or stow two weapons that lack the :weapon-prop-two-handed: **Two-Handed** property when you would normally be able to draw or stow only one.
@@ -50,7 +50,7 @@ When you take the Attack action, you can replace one of the attack with a cantri
 Countless hours have been spent training your mind to maintain focus on concurrent incantations, taxing as the process may be.
 
 **Manifest power**  
-If you attempt to cast a spell that requires Concentration while already Concentrating on an existing spell, you can maintain Concentration on both spells simultaneously. You must take a Magic action on each subsequent round on maintaining this Concentration, or lose it for both spells.
+If you attempt to cast a spell that requires Concentration while already Concentrating on an existing spell, you can maintain Concentration on both spells simultaneously. You must take a **:rsc-a: Magic**{ .rsc } action on each subsequent round on maintaining this Concentration, or lose it for both spells.
     
 **Burden**  
 At the end of each turn where you have two spells you are Concentrating on, you must make a :d20-save: Constitution saving throw (DC equals 10 + both spells' levels combined). On a failure, you lose Concentration for both spells. You can end Concentration on one of your spells during your turn to avoid this save.
@@ -122,13 +122,13 @@ You can take this feat more than once. Choose another two eligible General Feats
 Through meticulous refinement and tinkering of your equipment, you gain unique abilities with shields. **While wielding a Shield**, you gain the following benefits:
 
 **Damage Reduction**  
-When a creature you can see hits you *or* an ally within 5 feet of you with an attack roll, you can take a :rsc-r: Reaction to reduce the damage dealt equals your Proficiency Bonus.
+When a creature you can see hits you *or* an ally within 5 feet of you with an attack roll, you can take a **:rsc-r: Reaction**{ .rsc } to reduce the damage dealt equals your Proficiency Bonus.
 
 **Shield Expert**  
 A shield has the :weapon-prop-thrown: ^^Thrown (30/60)^^ property and has the Topple and Push Mastery property for you. You can only use one Mastery property per attack. Whether a Ranged attack with a shield hits or misses, the shield bounces back to you harmlessly.
 
 **Transforming Shield**  
-As a :rsc-b: Bonus Action, while wielding both a shield and a melee weapon, you can combine the two, transforming the weapon. The melee weapon gains the :weapon-prop-two-handed: ^^Two-handed^^ property and deals extra damage the equals to the Shield's damage die on hit. You lose the Shield's AC bonus in this form. 
+As a **:rsc-b: Bonus Action**{ .rsc }, while wielding both a shield and a melee weapon, you can combine the two, transforming the weapon. The melee weapon gains the :weapon-prop-two-handed: ^^Two-handed^^ property and deals extra damage the equals to the Shield's damage die on hit. You lose the Shield's AC bonus in this form. 
 
 You can take a **:rsc-b: Bonus Action**{ .rsc } to end this transformation, reverting both the weapon and shield, to its original form.
 

@@ -161,7 +161,7 @@ The following Explosives are available for a Saboteur rogue to learn. As an **:r
 
     On impact, a cloud of putrid yellow gas spreads outward in a 20-foot-radius :aoe-sphere: Sphere. The cloud is Heavily Obscured. The cloud lingers in the air for 1 minute or until a strong wind (such as the one created by *Gust of Wind*) disperses it.
 
-    Each creature that starts its turn in the Sphere must succeed on a :d20-cons: Constitution saving throw or have the Poisoned condition until the end of the current turn. While Poisoned in this way, the creature can't take an action or a Bonus Action.
+    Each creature that starts its turn in the Sphere must succeed on a :d20-cons: Constitution saving throw or have the Poisoned condition until the end of the current turn. While Poisoned in this way, the creature can't take an action or a  **:rsc-b: Bonus Action**{ .rsc }.
 
     ---
 

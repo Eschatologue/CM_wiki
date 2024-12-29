@@ -27,7 +27,7 @@ When you reach a Sorcerer level specified in the Psionic Spells table, you there
 
 ### Level 3: Telepathic Speech
 
-You can form a telepathic connection between your mind and the mind of another. As a Bonus Action, choose one creature you can see within 30 feet of you. You and the chosen creature can speak telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). To understand each other, you each must speak mentally in a language the other knows.
+You can form a telepathic connection between your mind and the mind of another. As a **:rsc-b: Bonus Action**{ .rsc }, choose one creature you can see within 30 feet of you. You and the chosen creature can speak telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). To understand each other, you each must speak mentally in a language the other knows.
 
 The telepathic connection lasts for a number of minutes equal to your sorcerer level. It ends early if you use this ability to form a connection with a different creature.
 
@@ -41,11 +41,11 @@ You gain Resistance to :dmg-psyc: Psychic damage, and you have Advantage on savi
 
 ### Level 14: Revelation in Flesh
 
-You can unleash the aberrant truth hidden within yourself. As a Bonus Action, you can spend 1 or more Sorcery Points to magically transform your body for 10 minutes. For each Sorcery Point you spend, you can gain one of the following benefits of your choice, the effects of which last until the transformation ends:
+You can unleash the aberrant truth hidden within yourself. As a **:rsc-b: Bonus Action**{ .rsc }, you can spend 1 or more Sorcery Points to magically transform your body for 10 minutes. For each Sorcery Point you spend, you can gain one of the following benefits of your choice, the effects of which last until the transformation ends:
 
 ***Aquatic Adaptation.*** You gain a Swim Speed equal to twice your Speed, and you can breathe underwater. Moreover, gills grow from your neck or fan out from behind your ears, your fingers become webbed, or you grow writhing cilia that extend through your clothing.
 
-***Glistening Flight.***  You gain a Fly Speed equal to your **:rsc-spd: Speed**{ .rsc } and can hover. As you fly, your skin glistens with mucus or shines with an otherworldly light.
+***Glistening Flight.***  You gain a Fly Speed equal to your **:rsc-spd: Speed**{ .em } and can hover. As you fly, your skin glistens with mucus or shines with an otherworldly light.
 
 ***See the Invisible.*** You can see any invisible creature within 60 feet of you, provided it isn't behind total cover. Your eyes also turn black or become writhing sensory tendrils.
 
@@ -53,7 +53,7 @@ You can unleash the aberrant truth hidden within yourself. As a Bonus Action, yo
 
 ### Level 18: Warping Implosion
 
-You can unleash your aberrant power as a space-warping anomaly. As Magic action, you can teleport to an unoccupied space you can see within 120 feet of you. Immediately after you disappear, each creature within 30 feet of the space you left must make a Strength saving throw against your spell save DC. On a failed save, a creature takes 3d10 force damage and is pulled straight toward the space you left, ending in an unoccupied space as close to your former space as possible. On a successful save, the creature takes half as much damage and isn't pulled.
+You can unleash your aberrant power as a space-warping anomaly. As **:rsc-a: Magic**{ .rsc } action, you can teleport to an unoccupied space you can see within 120 feet of you. Immediately after you disappear, each creature within 30 feet of the space you left must make a Strength saving throw against your spell save DC. On a failed save, a creature takes 3d10 force damage and is pulled straight toward the space you left, ending in an unoccupied space as close to your former space as possible. On a successful save, the creature takes half as much damage and isn't pulled.
 
 Once you use this feature, you can't do so again until you finish a Long Rest, unless you spend 5 Sorcery Points to use it again.
 

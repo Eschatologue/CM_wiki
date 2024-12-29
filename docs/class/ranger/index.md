@@ -181,7 +181,7 @@ You can attack twice instead of once whenever you take the Attack action on your
 
 ### Level 6: Roving
 
-Your **:rsc-spd: Speed**{ .rsc } increases by 10 feet while you aren't wearing Heavy armour. You also have a Climb Speed and a Swim Speed equal to your :rsc-spd: Speed.
+Your **:rsc-spd: Speed**{ .em } increases by 10 feet while you aren't wearing Heavy armour. You also have a Climb Speed and a Swim Speed equal to your **:rsc-spd: Speed**{ .em }.
 
 ### Level 9: Expertise
 
@@ -191,7 +191,7 @@ Choose two of your skill proficiencies with which you lack Expertise. You gain E
 
 Primal forces now help fuel you on your journeys, granting you the following benefits.
 
-***Temporary Hit Points.*** As a Magic action, you can give yourself a number of Temporary Hit Points equal to 1d8 plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+***Temporary Hit Points.*** As a **:rsc-a: Magic**{ .rsc } action, you can give yourself a number of Temporary Hit Points equal to 1d8 plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
 ***Decrease Exhaustion.*** Whenever you finish a Short Rest, your Exhaustion level, if any, decreases by 1.
 
@@ -201,7 +201,7 @@ The damage die of your [:spell-lv1: Hunter's Mark] improves to d8 when it is cas
 
 ### Level 14: Nature's Veil
 
-You invoke spirits of nature to magically hide yourself. As a :rsc-b: Bonus Action, you can give yourself the ^^Invisible^^ condition until the end of your next turn.
+You invoke spirits of nature to magically hide yourself. As a **:rsc-b: Bonus Action**{ .rsc }, you can give yourself the ^^Invisible^^ condition until the end of your next turn.
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 

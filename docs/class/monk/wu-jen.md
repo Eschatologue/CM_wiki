@@ -31,9 +31,9 @@ The Wu Jen Features table shows how many spell slots you have to cast your Wu Je
 
 You can draw upon your Ki to augment and regain your elemental powers. 
 
-***Changing Cantrip.*** As a :rsc-b: Bonus Action you can expend 1 :class-phb24-monk: **Focus Points** to replace one of this feature's cantrips with another cantrip of your choice from the Wu Jen spell list.
+***Changing Cantrip.*** As a **:rsc-b: Bonus Action**{ .rsc } you can expend 1 :class-phb24-monk: **Focus Points** to replace one of this feature's cantrips with another cantrip of your choice from the Wu Jen spell list.
 
-***Restoring Spell Slots.*** As a :rsc-b: Bonus Action on your turn, you can expend a number of :class-phb24-monk: **Focus Points** equal to your Spell Slot Level to regain one of your expended Wu Jen spell slots.
+***Restoring Spell Slots.*** As a **:rsc-b: Bonus Action**{ .rsc } on your turn, you can expend a number of :class-phb24-monk: **Focus Points** equal to your Spell Slot Level to regain one of your expended Wu Jen spell slots.
 
 ##### Wu Jen Spellcasting
 
@@ -95,13 +95,13 @@ When you hit your target with an attack using this feature, you can spend 1 :cla
 
 ### Level 11: Spiritual Flow
 
-You weave your martial arts with spiritual magic. When you cast a Wu Jen spell with a casting time of an Action, you can expend 2 :class-phb24-monk: **Focus Points** to cast it as a Bonus Action instead. 
+You weave your martial arts with spiritual magic. When you cast a Wu Jen spell with a casting time of an Action, you can expend 2 :class-phb24-monk: **Focus Points** to cast it as a **:rsc-b: Bonus Action**{ .rsc } instead. 
 
 Moreover, when you start your turn and are Concentrating on a spell that you cast on yourself (such as *Haste*), you gain Temporary Hit Points equal to twice the level of that spell.
 
 ### Level 15: Ancension of the Elements
 
-As a Bonus Action, you can draw all five elements into yourself to take on an Elemental Form. You gain the following benefits:
+As a **:rsc-b: Bonus Action**{ .rsc }, you can draw all five elements into yourself to take on an Elemental Form. You gain the following benefits:
 
 ***Fly Speed.*** You gain Fly Speed equals to your Speed.
 

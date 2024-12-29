@@ -20,7 +20,7 @@ These paladins share the following tenets:
 
 ### Level 3: Nature's Wrath
 
-As a Magic action, you can expend one use of your Channel Divinity to conjure grasping spectral vines around nearby creatures. Each creature of your choice that you can see within 15 feet of you must succeed on a Strength saving throw or have the Restrained condition for 1 minute. A Restrained creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success.
+As a **:rsc-a: Magic**{ .rsc } action, you can expend one use of your Channel Divinity to conjure grasping spectral vines around nearby creatures. Each creature of your choice that you can see within 15 feet of you must succeed on a Strength saving throw or have the Restrained condition for 1 minute. A Restrained creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ### Level 3: Oath the Ancients Spells
 
@@ -48,12 +48,12 @@ Additionally, you suffer none of the drawbacks of old age, and you can't be aged
  
 ### Level 20: Elder Champion
 
-As a Bonus Action, you can imbue your Aura of Protection with primal power, granting the following benefits for 1 minute or until you end them (no action required). Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending a level 5 spell slot (no action required).
+As a **:rsc-b: Bonus Action**{ .rsc }, you can imbue your Aura of Protection with primal power, granting the following benefits for 1 minute or until you end them (no action required). Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 ***Diminish Defiance.*** Enemies in the aura have Disadvantage on saving throws against your spells and Channel Divinity options.
 
 ***Regeneration.*** At the start of each of your turns, you regain 10 Hit Points.
 
-***Swift Spells.*** Whenever you cast a spell that has a casting time of 1n action, you can cast it using a Bonus Action instead.
+***Swift Spells.*** Whenever you cast a spell that has a casting time of 1n action, you can cast it using a **:rsc-b: Bonus Action**{ .rsc } instead.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"

@@ -178,7 +178,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 - You have **:d20-disadv: Disadvantage**{ .d20 } on all attack rolls and :d20-check: **Ability Checks**.
 - Whenever you regain Hit Point, the amount total is halved. This does not affect the progress in which **Meltdown** can be ended early.
 - You are resistant to Psychic damage.
-- Your **:rsc-spd: Speed**{ .rsc } is halved.
+- Your **:rsc-spd: Speed**{ .em } is halved.
 
 ### Irrational
 

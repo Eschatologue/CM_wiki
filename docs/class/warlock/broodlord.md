@@ -48,7 +48,7 @@ You are always under the effect of the *Spider Climb* spell. As a **:rsc-b: Bonu
 
 ***Monstrous Form.*** You gain a bonus +2 to your AC and your size increases by one category. Your Strength and Dexterity score is equal to your Charisma score. You are also considered to be a Monstrosity for the purpose of gameplay mechanics and magical effects.
 
-***Natural Weapon.*** You have natural weapons such as talons or stingers. As a Magic Action, You make a melee spell attack against one creature within 5 feet of you. On a hit, the target takes 1d10 :dmg-posn: Poison damage. After using this action, you can attack again with your Natural Weapon as a Bonus Action this turn.
+***Natural Weapon.*** You have natural weapons such as talons or stingers. As a Magic Action, You make a melee spell attack against one creature within 5 feet of you. On a hit, the target takes 1d10 :dmg-posn: Poison damage. After using this action, you can attack again with your Natural Weapon as a **:rsc-b: Bonus Action**{ .rsc } this turn.
 
 ***Writhing Tide.*** When you transform or use the *Protect the Hive* feature, you can gain Temporary Hit Points equal to your Warlock level. 
 

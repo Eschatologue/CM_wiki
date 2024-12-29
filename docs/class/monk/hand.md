@@ -24,13 +24,13 @@ Whenever you hit a creature with an attack granted by your Flurry of Blows, you 
 
 ### Level 6: Wholeness of Body
 
-You gain the ability to heal yourself. As a Bonus Action, you can roll your Martial Arts die. You regain a number of Hit Points equal to the number rolled plus your Wisdom modifier (minimum of 1 Hit Point regained).
+You gain the ability to heal yourself. As a **:rsc-b: Bonus Action**{ .rsc }, you can roll your Martial Arts die. You regain a number of Hit Points equal to the number rolled plus your Wisdom modifier (minimum of 1 Hit Point regained).
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
 ### Level 11: Fleet Step
 
-When you take a Bonus Action other than Step of the Wind, you can also use Step of the Wind immediately after that Bonus Action.
+When you take a **:rsc-b: Bonus Action**{ .rsc } other than Step of the Wind, you can also use Step of the Wind immediately after that  **:rsc-b: Bonus Action**{ .rsc }.
 
 ### Level 17: Quivering Palm
 

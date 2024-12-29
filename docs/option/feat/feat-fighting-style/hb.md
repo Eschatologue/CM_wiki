@@ -38,7 +38,7 @@ If you already have a pool of Superiority Dice, these dice are added to that poo
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-You gain training with all Shields and it can be used as a weapon while wielding one, following the trait below. Morover, you can also take a :rsc-b: Bonus Action to make a single attack with a Shield.
+You gain training with all Shields and it can be used as a weapon while wielding one, following the trait below. Morover, you can also take a **:rsc-b: Bonus Action**{ .rsc } to make a single attack with a Shield.
 
 **Weapon Category:** Martial Melee  
 **Base Damage:** d4 (Buckler); d6 (Shield); d8 (Tower Shield) :dmg-bldg: Bludgeoning damage plus Strength modifier
@@ -91,7 +91,7 @@ Moreover, your attack with Ranged weapon doesn't have **:d20-disadv: Disadvantag
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-When a creature within 10 feet of you makes an attack against a creature that you can see, you can take a :rsc-r: Reaction to grant it **:d20-adv: Advantage**{ .d20 } on its attack roll. You must be carrying a banner, flag, or standard in your hand. A holy symbol emblazoned on a Shield also suffice.
+When a creature within 10 feet of you makes an attack against a creature that you can see, you can take a **:rsc-r: Reaction**{ .rsc } to grant it **:d20-adv: Advantage**{ .d20 } on its attack roll. You must be carrying a banner, flag, or standard in your hand. A holy symbol emblazoned on a Shield also suffice.
 
 ---
 
@@ -109,6 +109,6 @@ Moreover, you also use your Strength instead of your Dexterity to fufill the :we
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-While wielding a single weapon with the :weapon-prop-versatile: ^^Versatile^^ property and no Shield, you gain a +1 bonus to your attack roll and damage roll with that weapon. While doing so, you can take one of the following actions as a :rsc-b: Bonus Action: Unarmed Strike (Grapple or Shove only), or Utilise action.
+While wielding a single weapon with the :weapon-prop-versatile: ^^Versatile^^ property and no Shield, you gain a +1 bonus to your attack roll and damage roll with that weapon. While doing so, you can take one of the following actions as a **:rsc-b: Bonus Action**{ .rsc }: Unarmed Strike (Grapple or Shove only), or Utilise action.
 
 ---

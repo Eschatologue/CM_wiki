@@ -44,7 +44,7 @@ You gain the following benefits.
 Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.
 
 **Climb Speed**  
-You gain a Climb Speed equal to your :rsc-spd: Speed.
+You gain a Climb Speed equal to your **:rsc-spd: Speed**{ .em }.
 
 **Hop Up**  
 When you are Prone, you can right yourself with only 5 feet of movement.
@@ -64,7 +64,7 @@ You gain the following benefits.
 Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
 **Improved Dash**  
-When you take the Dash Action, your **:rsc-spd: Speed**{ .rsc } increases by 10 feet for that Action.
+When you take the Dash Action, your **:rsc-spd: Speed**{ .em } increases by 10 feet for that Action.
 
 **Charge Attack**  
 If you move at least 10 feet in a straight line toward a target immediately before hitting it with a melee attack roll as part of the Attack action, choose one of the following effects: gain a 1d8 bonus to the attack's damage roll, or push the target up to 10 feet away if it is no more than one size larger than you. You can use this benefit only once on each of your turns.
@@ -84,7 +84,7 @@ Increase your Constitution or Wisdom score by 1, to a maximum of 20.
 As part of a Short Rest, you can cook special food if you have ingredients and Cook's Utensils on hand. You can prepare enough of this food for a number of creatures equal to 4 plus your Proficiency Bonus. At the end of the Short Rest, any creature who eats the food and spends one or more Hit Dice to regain Hit Points regains an extra 1d8 Hit Points.
 
 **Bolstering Treats**  
-With 1 hour of work or when you finish a Long Rest, you can cook a number of treats equal to your Proficiency Bonus if you have ingredients and Cook's Utensils on hand. These special treats last 8 hours after being made. A creature can use a Bonus Action to eat one of those treats to gain a number of Temporary Hit Points equal to your Proficiency Bonus.
+With 1 hour of work or when you finish a Long Rest, you can cook a number of treats equal to your Proficiency Bonus if you have ingredients and Cook's Utensils on hand. These special treats last 8 hours after being made. A creature can use a **:rsc-b: Bonus Action**{ .rsc } to eat one of those treats to gain a number of Temporary Hit Points equal to your Proficiency Bonus.
 
 ---
 
@@ -135,7 +135,7 @@ You gain the following benefits.
 Increase your Dexterity score by 1, to a maximum of 20.
 
 **Parry**  
-If you're holding a :weapon-prop-finesse: Finesse weapon and another creature hits you with a melee attack, you can take a Reaction to add your Proficiency Bonus to your Armour Class, potentially causing the attack to miss you. You gain this bonus to your AC against melee attacks until the start of your next turn.
+If you're holding a :weapon-prop-finesse: Finesse weapon and another creature hits you with a melee attack, you can take a **:rsc-r: Reaction**{ .rsc } to add your Proficiency Bonus to your Armour Class, potentially causing the attack to miss you. You gain this bonus to your AC against melee attacks until the start of your next turn.
 
 ---
 
@@ -149,7 +149,7 @@ You gain the following benefits.
 Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
 **Enhanced Dual Wielding**  
-When you take the Attack action on your turn and attack with a weapon that has the :weapon-prop-light: Light property, you can make one extra attack as a Bonus Action later on the same turn with a different weapon, which must be a Melee weapon that lacks the :weapon-prop-two-handed: Two-Handed property. You don't add your ability modifier to the extra attack's damage unless that modifier is negative.
+When you take the Attack action on your turn and attack with a weapon that has the :weapon-prop-light: Light property, you can make one extra attack as a **:rsc-b: Bonus Action**{ .rsc } later on the same turn with a different weapon, which must be a Melee weapon that lacks the :weapon-prop-two-handed: Two-Handed property. You don't add your ability modifier to the extra attack's damage unless that modifier is negative.
 
 **Quick Draw**  
 You can draw or stow two weapons that lack the Two-Handed property when you would normally be able to draw or stow only one.
@@ -169,7 +169,7 @@ Increase your Constitution score by 1, to a maximum of 20.
 You have Advantage on Death Saving Throws.
 
 **Speedy Recovery**  
-As a Bonus Action, you can expend one of your Hit Point Dice, roll the die, and regain a number of Hit Points equal to the roll.
+As a **:rsc-b: Bonus Action**{ .rsc }, you can expend one of your Hit Point Dice, roll the die, and regain a number of Hit Points equal to the roll.
 
 ---
 
@@ -220,7 +220,7 @@ When you hit a creature with an Unarmed Strike as part of the Attack action on y
 You have Advantage on attack rolls against a creature Grappled by you.
 
 **Fast Wrestler**  
-Your **:rsc-spd: Speed**{ .rsc } isn't halved when you move a creature Grappled by you if the creature is your size or smaller.
+Your **:rsc-spd: Speed**{ .em } isn't halved when you move a creature Grappled by you if the creature is your size or smaller.
 
 ---
 
@@ -237,7 +237,7 @@ Increase your Strength score by 1, to a maximum of 20.
 When you hit a creature with a weapon that has the Heavy property as part of the Attack Action on your turn, you can cause the weapon to deal extra damage to the target. The extra damage equals your Proficiency Bonus.
 
 **Hew**  
-Immediately after you score a Critical Hit with a Melee weapon or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a Bonus Action.
+Immediately after you score a Critical Hit with a Melee weapon or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a  **:rsc-b: Bonus Action**{ .rsc }.
 
 ---
 
@@ -294,7 +294,7 @@ Increase your Intelligence score by 1, to a maximum of 20.
 Lore Knowledge. Choose one of the following skills: Arcana, History, Investigation, Nature, or Religion. If you lack proficiency in the chosen skill, you gain proficiency in it, and if you have proficiency in it, you gain Expertise in it.
 
 **Quick Study**  
-You can take the Study Action as a Bonus Action.
+You can take the Study Action as a  **:rsc-b: Bonus Action**{ .rsc }.
 
 ---
 
@@ -400,7 +400,7 @@ Increase your Intelligenve or Wisdom score by 1, to a maximum of 20.
 Choose one of the following skills: Insight, Investigation, or Perception. If you lack proficiency with the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain Expertise in it.
 
 **Quick Search**  
-You can take the Search action as a Bonus Action.
+You can take the Search action as a  **:rsc-b: Bonus Action**{ .rsc }.
 
 ---
 
@@ -435,7 +435,7 @@ Increase your Dexterity or Intelligence score by 1, to a maximum of 20.
 When you make a damage roll that deals Poison damage, it ignores Resistance to Poison damage.
 
 **Brew Poison**  
-You gain proficiency with the Poisoner's Kit. With 1 hour of work using such a kit and expending 50 GP worth of materials, you can create a number of poison doses equal to your Proficiency Bonus. As a Bonus Action, you can apply a poison dose to a weapon or piece of ammunition. Once applied, the poison retains its potency for 1 minute or until you hit with the poisoned item, whichever is shorter. When a creature takes damage from the poisoned item, that creature must succeed on a Constitution saving throw (DC 8 plus the modifier of the ability increased by this feat and your Proficiency Bonus) or take 2d8 Poison damage and have the Poisoned condition until the end of your next turn.
+You gain proficiency with the Poisoner's Kit. With 1 hour of work using such a kit and expending 50 GP worth of materials, you can create a number of poison doses equal to your Proficiency Bonus. As a **:rsc-b: Bonus Action**{ .rsc }, you can apply a poison dose to a weapon or piece of ammunition. Once applied, the poison retains its potency for 1 minute or until you hit with the poisoned item, whichever is shorter. When a creature takes damage from the poisoned item, that creature must succeed on a Constitution saving throw (DC 8 plus the modifier of the ability increased by this feat and your Proficiency Bonus) or take 2d8 Poison damage and have the Poisoned condition until the end of your next turn.
 
 ---
 
@@ -449,10 +449,10 @@ You gain the following benefits.
 Increase your Dexterity or Strength score by 1, to a maximum of 20.
 
 **Pole Strike**  
-Immediately after you take the Attack action and attack with a Quarterstaff, a Spear, a War Scythe, or a weapon that has the :weapon-prop-heavy: Heavy and :weapon-prop-reach: Reach properties, you can use a Bonus Action to make a melee attack with the opposite end of the weapon. The weapon deals Bludgeoning damage, and the weapon's damage die for this attack is a d4.
+Immediately after you take the Attack action and attack with a Quarterstaff, a Spear, a War Scythe, or a weapon that has the :weapon-prop-heavy: Heavy and :weapon-prop-reach: Reach properties, you can use a **:rsc-b: Bonus Action**{ .rsc } to make a melee attack with the opposite end of the weapon. The weapon deals Bludgeoning damage, and the weapon's damage die for this attack is a d4.
 
 **Reactive Strike**  
-While you are holding a Quarterstaff, a Spear, a War Scythe, or a weapon that has the :weapon-prop-heavy: Heavy and :weapon-prop-reach: Reach properties, you can use a Reaction to make one melee attack against a creature that enters the reach you have with that weapon.
+While you are holding a Quarterstaff, a Spear, a War Scythe, or a weapon that has the :weapon-prop-heavy: Heavy and :weapon-prop-reach: Reach properties, you can use a **:rsc-r: Reaction**{ .rsc } to make one melee attack against a creature that enters the reach you have with that weapon.
 
 ---
 
@@ -551,7 +551,7 @@ Increase your Strength score by 1, to a maximum of 20.
 If you attack a creature within 5 feet of you as part of the Attack action and hit with a Melee weapon, you can immediately bash the target with your Shield if it's equipped, forcing the target to make a Strength saving throw (DC 8 plus your Strength modifier and Proficiency Bonus). On a failed save, you either push the target 5 feet from you or cause it to have the Prone condition (your choice). You can use this benefit only once on each of your turns.
 
 **Interpose Shield**  
-If you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can take a Reaction to take no damage if you succeed on the saving throw and are wielding a Shield.
+If you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can take a **:rsc-r: Reaction**{ .rsc } to take no damage if you succeed on the saving throw and are wielding a Shield.
 
 ---
 
@@ -616,7 +616,7 @@ You gain the following benefits.
 Increase your Dexterity or Constitution score by 1, to a maximum of 20.
 
 **Speed Increase**  
-Your **:rsc-spd: Speed**{ .rsc } increases by 10 feet.
+Your **:rsc-spd: Speed**{ .em } increases by 10 feet.
 
 **Dash Over Difficult Terrain**  
 When you take the Dash action on your turn, Difficult Terrain doesn't cost you extra movement for the rest of that turn.
@@ -659,7 +659,7 @@ Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 You learn the Mage Hand cantrip. You can cast it without verbal or somatic components, and you can make the spectral hand invisible. If you already know this spell, its range increases by 30 feet when you cast it. Its spellcasting ability is the ability increased by this feat.
 
 **Telekinetic Shove**  
-As a Bonus Action, you can try to telekinetically shove one creature you can see within 30 feet of you. When you do so, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + the ability modifier of the score increased by this feat) or be moved 5 feet toward you or away from you.
+As a **:rsc-b: Bonus Action**{ .rsc }, you can try to telekinetically shove one creature you can see within 30 feet of you. When you do so, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + the ability modifier of the score increased by this feat) or be moved 5 feet toward you or away from you.
 
 ---
 
@@ -693,7 +693,7 @@ Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 You have Advantage on Constitution saving throws that you make to maintain your Concentration.
 
 **Reactive Spell**  
-When a creature provokes an Opportunity Attack from you by leaving your reach, you can take a Reaction to cast a spell at the creature, rather than making an Opportunity Attack. The spell must have a casting time of one action and must target only that creature.
+When a creature provokes an Opportunity Attack from you by leaving your reach, you can take a **:rsc-r: Reaction**{ .rsc } to cast a spell at the creature, rather than making an Opportunity Attack. The spell must have a casting time of one action and must target only that creature.
 
 **Somatic Components**   
 You can perform the Somatic components of spells even when you have weapons or a Shield in one or both hands.

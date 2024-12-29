@@ -56,7 +56,7 @@ This Metamagic only changes the initial save. Any subsequent :d20-save: Saving T
 
 _**Cost:** 1 :class-phb24-sorcerer: Sorcery Point(s)_
 
-When you fail an :d20-check: Ability Check, you can take a :rsc-r: Reaction to spend 1 Sorcery Point(s) to re-roll the :die-d20: d20. You must use the new :die-d20: d20 roll, potentially turning a failure into a success.
+When you fail an :d20-check: Ability Check, you can take a **:rsc-r: Reaction**{ .rsc } to spend 1 Sorcery Point(s) to re-roll the :die-d20: d20. You must use the new :die-d20: d20 roll, potentially turning a failure into a success.
 
 ---
 
@@ -98,7 +98,7 @@ When you cast a spell that requires you to make a ranged spell attack while ther
 
 _**Cost:** 1 :class-phb24-sorcerer: Sorcery Point(s)_
 
-When you cast a spell, you can spend 1 Sorcery Point to possibly conserve your arcane energy. If the spell misses or fails to take effect, you can take a Reaction to regain an expended spell slot of at least one level lower then the spell slot you use to cast the spell.
+When you cast a spell, you can spend 1 Sorcery Point to possibly conserve your arcane energy. If the spell misses or fails to take effect, you can take a **:rsc-r: Reaction**{ .rsc } to regain an expended spell slot of at least one level lower then the spell slot you use to cast the spell.
 
 ---
 

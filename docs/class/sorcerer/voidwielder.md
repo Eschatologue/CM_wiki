@@ -57,7 +57,7 @@ Once you use one of this feature, you can't use it again until you finish a Shor
 
 ### Level 18: Disciple of the Void
 
-As a Bonus Action, you can spend 1 Sorcery Point to partially discorporate until the end of your current turn. While you are in this state, you gain the following benefits:
+As a **:rsc-b: Bonus Action**{ .rsc }, you can spend 1 Sorcery Point to partially discorporate until the end of your current turn. While you are in this state, you gain the following benefits:
 
 ***Force Damage.*** You can cause any Sorcerer spells you cast to deal Force damage.
 

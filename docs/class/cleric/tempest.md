@@ -48,7 +48,7 @@ Whenever you use *[Divine Strike (Blessed Strike)](index.md#level-7-blesssed-str
 
 ### Level 17: Stormborn
 
-The winds of the tempest lift your form into the air. You have a Fly speed equal to your :rsc-spd: Speed.
+The winds of the tempest lift your form into the air. You have a Fly speed equal to your **:rsc-spd: Speed**{ .em }.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 

@@ -23,15 +23,15 @@ The :dmg-psyc: Psychic damage increases to 3 rolls of your Bardic Inspiration di
 
 ### Level 3: Words of Terror
 
-You have learned to infuse innocent-seeming words with an insidious magic that can inspire terror. As a Magic action, you can attempt to seed paranoia into the mind of a creature within 5 feet. The target must succeed on a Wisdom saving throw against your spell save DC or have the Frightened condition for 1 hour. You can choose for the source of the fear to be yourself or another creature of your choice. The condition ends early if you or your allies attack it, damage it, or force it to make a saving throw. If the target succeeds on its saving throw, it has no hint that you tried to frighten it.
+You have learned to infuse innocent-seeming words with an insidious magic that can inspire terror. As a **:rsc-a: Magic**{ .rsc } action, you can attempt to seed paranoia into the mind of a creature within 5 feet. The target must succeed on a Wisdom saving throw against your spell save DC or have the Frightened condition for 1 hour. You can choose for the source of the fear to be yourself or another creature of your choice. The condition ends early if you or your allies attack it, damage it, or force it to make a saving throw. If the target succeeds on its saving throw, it has no hint that you tried to frighten it.
 
 Once you use this feature, you can't use it again until you finish a Short or Long Rest.
 
 ### Level 6: Mantle of Whispers
 
-You gain the ability to adopt a humanoid's persona. When a creature dies within 30 feet of you, you can take a Reaction to magically capture its shadow. The creature must be a Humanoid, or it must have the general appearance and size of a Humanoid (for example, a Night Hag). You retain this shadow until you use it or you finish a Long Rest.
+You gain the ability to adopt a humanoid's persona. When a creature dies within 30 feet of you, you can take a **:rsc-r: Reaction**{ .rsc } to magically capture its shadow. The creature must be a Humanoid, or it must have the general appearance and size of a Humanoid (for example, a Night Hag). You retain this shadow until you use it or you finish a Long Rest.
 
-You can use the shadow as a Magic action. When you do so, it vanishes, magically transforming into a disguise that appears on you. You now look like the dead person, but healthy and alive. This disguise lasts for 1 hour or until you dismiss it as a Bonus Action.
+You can use the shadow as a **:rsc-a: Magic**{ .rsc } action. When you do so, it vanishes, magically transforming into a disguise that appears on you. You now look like the dead person, but healthy and alive. This disguise lasts for 1 hour or until you dismiss it as a  **:rsc-b: Bonus Action**{ .rsc }.
 
 While you're in the disguise, you gain access to all information that the creature would freely share with a casual acquaintance. Such information includes general details on its background and personal life, but doesn't include secrets. The information is enough that you can pass yourself off as the person by drawing on its memories.
 
@@ -41,7 +41,7 @@ Once you capture a shadow with this feature, you can't capture another one with 
 
 ### Level 14: Shadow Lore
 
-You gain the ability to weave dark magic into your words and tap into a creature's deepest fears. As a Magic action, you can whisper a phrase that only one creature of your choice within 30 feet of you can hear. The target must make a Wisdom saving throw against your spell save DC. It automatically succeeds if it doesn't share a language with you or if it can't hear you. On a successful saving throw, your whisper sounds like unintelligible mumbling and has no effect.
+You gain the ability to weave dark magic into your words and tap into a creature's deepest fears. As a **:rsc-a: Magic**{ .rsc } action, you can whisper a phrase that only one creature of your choice within 30 feet of you can hear. The target must make a Wisdom saving throw against your spell save DC. It automatically succeeds if it doesn't share a language with you or if it can't hear you. On a successful saving throw, your whisper sounds like unintelligible mumbling and has no effect.
 
 On a failed saving throw, the target has the Charmed condition for the next 8 hours or until you or your allies attack it, damage it, or force it to make a saving throw. It interprets the whispers as a description of its most mortifying secret. You gain no knowledge of this secret, but the target is convinced you know it.
 

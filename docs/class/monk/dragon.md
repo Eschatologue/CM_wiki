@@ -17,7 +17,7 @@ The fundamental teaching of this tradition holds that by emulating dragons, a mo
 
 You can channel draconic power to magnify your presence and imbue your unarmed strikes with the essence of a dragon's breath. You gain the following benefits:
 
-***Draconic Presence.*** If you fail an Intimidation or Persuasion check, you can use your :rsc-r: Reaction to reroll the check and add a roll of your Martial Arts die to the result, as you tap into the mighty presence of dragons. Once this feature turns a failure into a success, you can't use it again until you finish a Short or Long Rest.
+***Draconic Presence.*** If you fail an Intimidation or Persuasion check, you can use your **:rsc-r: Reaction**{ .rsc } to reroll the check and add a roll of your Martial Arts die to the result, as you tap into the mighty presence of dragons. Once this feature turns a failure into a success, you can't use it again until you finish a Short or Long Rest.
 
 ***Draconic Strike.*** When you make an attack with a Monk weapon or an Unarmed Strike, you can change the damage type to :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-lgtn: Lightning, or :dmg-posn: Poison.
 
@@ -39,9 +39,9 @@ When you use your Step of the Wind, you can unfurl spectral draconic wings from 
 
 *The power of your draconic spirit now radiates from you, warding your allies or inspiring fear in your enemies.* 
 
-As a :rsc-b: Bonus Action, you can create an Emanation of draconic power that radiates 10 feet from you for 1 minute. For the duration, you gain one of the following effects of your choice:
+As a **:rsc-b: Bonus Action**{ .rsc }, you can create an Emanation of draconic power that radiates 10 feet from you for 1 minute. For the duration, you gain one of the following effects of your choice:
 
-***Frightful Presence.*** When you create the Emanation and as a :rsc-b: Bonus Action on subsequent turns, you can choose a creature within the Emanation. The target must succeed on a Wisdom save against your Focus save DC or have the Frightened condition for 1 minute. The target can repeat its saving throw at the end of each of its turns, ending the effect on itself on a successful save.
+***Frightful Presence.*** When you create the Emanation and as a **:rsc-b: Bonus Action**{ .rsc } on subsequent turns, you can choose a creature within the Emanation. The target must succeed on a Wisdom save against your Focus save DC or have the Frightened condition for 1 minute. The target can repeat its saving throw at the end of each of its turns, ending the effect on itself on a successful save.
 
 ***Resistance***. Choose a damage type when you activate the Emanation: :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-lgtn: Lightning, or :dmg-posn: Poison. You and your allies within the Emanation have **:dmg-res: Resistance**{ .em } to that damage type.
 

@@ -16,7 +16,7 @@ Gods of the War Domain watch over warriors and reward them for their great deeds
 
 ### Level 3: Guided Strike
 
-When you or a creature within 30 feet of you misses with an attack roll, you can expend one use of your :class-phb24-cleric: **Channel Divinity** and give that roll a +10 bonus, potentially causing it to hit. When you use this feature to benefit another creature's attack roll, you must take a Reaction to do so.
+When you or a creature within 30 feet of you misses with an attack roll, you can expend one use of your :class-phb24-cleric: **Channel Divinity** and give that roll a +10 bonus, potentially causing it to hit. When you use this feature to benefit another creature's attack roll, you must take a **:rsc-r: Reaction**{ .rsc } to do so.
 
 ### Level 3: War Domain Spells
 
@@ -33,7 +33,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 ### Level 3: War Priest
 
-As a Bonus Action, you can make one attack with a weapon or an Unarmed Strike, you can use this Bonus Action a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a Short or Long Rest
+As a **:rsc-b: Bonus Action**{ .rsc }, you can make one attack with a weapon or an Unarmed Strike, you can use this **:rsc-b: Bonus Action**{ .rsc } a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a Short or Long Rest
 
 ### Level 6: War God's Blessing
 

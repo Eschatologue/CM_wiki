@@ -45,7 +45,7 @@ Your combat training and your experiments with magic have paid off in two ways:
 
 Your tinkering has borne you a companion, a steel defender. It's friendly to you and your companions, and it obeys your commands. See its game statistics in the Steel Defender stat block. You determine the creature's appearance and whether it has two legs or four; your choice has no effect on its game statistics.
 
-***The Defender in Combat.*** In combat, the Defender shares your Initiative count, but it takes its turn immediately after yours. It can move and use its Reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a Bonus Action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you have the Incapacitated condition, the Defender can take any action of its choice, not just Dodge.
+***The Defender in Combat.*** In combat, the Defender shares your Initiative count, but it takes its turn immediately after yours. It can move and use its Reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a **:rsc-b: Bonus Action**{ .rsc } on your turn to command it to take another action. That action can be one in its stat block or some other action. If you have the Incapacitated condition, the Defender can take any action of its choice, not just Dodge.
 
 ***Repairing or Replacing the Defender.*** If the [:spell-lv0: Mending] spell is cast on the Defender, it regains 2d6 Hit Points. If it has died within the last hour, you can use your Smith's Tools as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of level 1 or higher. The Steel Defender returns to life after 1 minute with all its Hit Points restored.
 
@@ -103,7 +103,7 @@ Your Arcane Jolt and Steel Defender become more powerful:
 
     ***Vigilant.*** The defender can't be surprised.  
 
-    #### Actions (Requires Your :rsc-b: Bonus Action)
+    #### Actions (Requires Your **:rsc-b: Bonus Action**{ .rsc })
 
     ***Force-Empowered Rend.*** *Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target you can see. *Hit:* 1d8 + PB force damage.  
 

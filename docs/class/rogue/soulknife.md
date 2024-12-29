@@ -52,7 +52,7 @@ You can manifest your psionic power as shimmering blades of psychic energy. When
 
 The blade vanishses immediately after it hits or misses its target, and leaves no mark if it deals damage.
 
-After you attack with the blade, you can make a melee or ranged weapon attack with a second psychic blade as a :rsc-b: Bonus Action on the same turn, provided your other hand is free to create it. The damage die of this bonus attack is 1d4, instead of 1d6.
+After you attack with the blade, you can make a melee or ranged weapon attack with a second psychic blade as a **:rsc-b: Bonus Action**{ .rsc } on the same turn, provided your other hand is free to create it. The damage die of this bonus attack is 1d4, instead of 1d6.
 
 ### Level 9: Soul Blades
 
@@ -60,7 +60,7 @@ Your Psychic Blades are now an expression of your psi-suffused soul, giving you 
 
 ***Homing Strikes.*** If you make an attack roll with your Psychic Blade and miss the target, you can roll one Psionic Energy Die and add the number rolled to the attack roll. If this causes the attack to hit, the die is expended.
 
-***Psychic Teleportation.*** As a :rsc-b: Bonus Action, you manifest a Psychic Blade, expend one Psionic Energy Die and roll it, and throw the blade at an unoccupied space you can see up to a number of feet away equal to 10 times the number rolled. You then teleport to that space, and the blade vanishes.
+***Psychic Teleportation.*** As a **:rsc-b: Bonus Action**{ .rsc }, you manifest a Psychic Blade, expend one Psionic Energy Die and roll it, and throw the blade at an unoccupied space you can see up to a number of feet away equal to 10 times the number rolled. You then teleport to that space, and the blade vanishes.
 
 ### Level 13: Psychic Veil
 

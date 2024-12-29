@@ -1,18 +1,22 @@
+@charset "UTF-8";
 @import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
 /*------------------------------------------------------- 
     Basic Typesets
 --------------------------------------------------------*/
 .md-typeset {
-  font-weight: 300;
-  font-size: 0.75rem;
+  --default-font-size: 0.75rem;
+  --default-font-weight: 300;
+  font-size: var(--default-font-size);
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 720px) {
   .md-typeset {
-    font-size: 0.6375rem;
+    --default-font-size: 0.65rem;
   }
 }
 .md-typeset strong {
   letter-spacing: 0.0225rem;
+  color: var(--md-gbl-text-color-strong);
 }
 .md-typeset p {
   margin: 0.5rem 0;
@@ -44,51 +48,49 @@
   font-variant: small-caps !important;
 }
 .md-typeset h1 {
-  font-size: 1.65rem;
-  letter-spacing: 0.033rem;
-  font-weight: 495;
+  font-size: calc(var(--default-font-size) * 2.2);
+  letter-spacing: calc(var(--default-font-size) * 0.02);
+  font-weight: calc(var(--default-font-weight) * 1.65);
   margin: 0.45rem 0;
 }
 .md-typeset h2 {
-  font-size: 1.125rem;
-  font-weight: 450;
-  letter-spacing: 0.084375rem;
+  font-size: calc(var(--default-font-size) * 1.75);
+  font-weight: calc(var(--default-font-weight) * 1.5);
+  letter-spacing: calc(var(--default-font-size) * 0.075);
   border-bottom: 0.125rem solid var(--md-default-wht--025);
   margin: 0.9rem 0 0.2rem 0;
   padding-bottom: 0.1rem;
 }
 .md-typeset h3 {
-  font-size: 0.975rem;
+  font-size: calc(var(--default-font-size) * 1.5);
   font-weight: 530;
-  letter-spacing: 0.043875rem;
+  letter-spacing: calc(var(--default-font-size) * 0.045);
   margin: 0.5rem 0;
   border-bottom: 0.1275rem dotted var(--md-default-wht--025);
   padding-bottom: 0.2rem;
 }
 .md-typeset h4 {
-  font-size: 0.8625rem;
-  letter-spacing: 0.025875rem;
+  font-size: calc(var(--default-font-size) * 1.25);
+  letter-spacing: calc(var(--default-font-size) * 0.03);
   font-weight: 550;
   margin: 0.6rem 0 -0.3rem 0;
   padding-bottom: -0.1rem;
 }
 .md-typeset h5 {
-  font-size: 0.75rem;
-  letter-spacing: 0.0225rem;
+  font-size: var(--default-font-size);
+  letter-spacing: calc(var(--default-font-size) * 0.03);
   font-weight: 500;
   text-transform: capitalize !important;
   margin-bottom: -0.2rem;
   padding-bottom: -0.2rem;
 }
 .md-typeset h6 {
-  font-size: 0.6375rem;
+  font-size: calc(var(--default-font-size) * 0.85);
   font-weight: 350;
 }
 
-/* Divider Line */
 .md-typeset hr {
   border-bottom: 0.1875em dashed rgba(255, 255, 255, 0.15);
-  padding-top: 0.2rem;
   padding-top: 0.2rem;
 }
 
@@ -99,13 +101,16 @@
 /*------------------------------------------------------- 
     Tables
 --------------------------------------------------------*/
+.md-typeset table:not([class]) {
+  --table-font-size: calc(var(--default-font-size) * 0.9);
+}
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
   padding: 0.375em 1em;
   min-width: 0.0625em;
 }
 .md-typeset table:not([class]) th {
-  font-size: 0.675rem;
+  font-size: var(--table-font-size);
   font-weight: bold !important;
   text-transform: capitalize !important;
   vertical-align: bottom;
@@ -115,29 +120,27 @@
   padding: 0.525em 1em;
 }
 .md-typeset table:not([class]) td {
-  font-size: 0.6075rem;
+  font-size: calc(var(--table-font-size) * 0.9);
   border: 0rem transparent !important;
   vertical-align: middle;
 }
 .md-typeset table:not([class]) td b,
 .md-typeset table:not([class]) td strong {
-  font-weight: 540;
+  font-weight: calc(var(--default-font-weight, 400) * 1.8);
 }
 @media screen and (max-width: 768px) {
   .md-typeset table:not([class]) th {
-    font-size: 0.6075rem;
+    font-size: calc(var(--table-font-size) * 0.9);
   }
   .md-typeset table:not([class]) td {
-    font-size: 0.54rem;
+    font-size: calc(var(--table-font-size) * 0.8);
   }
 }
-.md-typeset table:not([class]) table tr:hover {
+.md-typeset table:not([class]) tr:hover {
   background-color: inherit !important;
-  /* Ensures no change on hover */
 }
 .md-typeset table:not([class]) tr:nth-child(odd) {
   background-color: transparent !important;
-  /* Adjust to match your striped colour */
 }
 .md-typeset table:not([class]) tr:nth-child(even) {
   background-color: var(--md-mod-table-color--light) !important;
@@ -155,38 +158,43 @@
 /*------------------------------------------------------- 
     Typography
 --------------------------------------------------------*/
-.em, .inl, .rsc, .d20 {
-  color: var(--md-gbl-text-color-strong); /* Make Text slightly brighter so its easier to see */
+.em, .inl, .rsc-h, .rsc, .d20 {
   white-space: nowrap; /* Prevent selected block to split on smaller screen sizes, used in conjuction with icons */
   font-weight: 550 !important;
 }
-.em abbr, .inl abbr, .rsc abbr, .d20 abbr {
+.em abbr, .inl abbr, .rsc-h abbr, .rsc abbr, .d20 abbr {
   border-bottom: none !important;
 }
 
-.jost {
-  font-family: "Jost", sans-serif !important; /* Changes font to Jost */
+.background {
+  background-color: hsla(0, 0%, 0%, 0.15);
+  padding: 0.125em 0.28125em;
+  border-radius: 0.25em;
 }
 
 .smallcap, .d20 {
-  font-size: 115%;
+  font-size: calc(var(--default-font-size) * 1.05);
   font-variant: small-caps !important; /* Make font smallcaps so it looks different than the rest */
-  letter-spacing: 0.03rem !important; /* Wider letterspacing for easier read */
+  letter-spacing: calc(var(--default-font-size) * 0.04) !important; /* Wider letterspacing for easier read */
 }
 .smallcap :is(.emojione, .twemoji, .gemoji), .d20 :is(.emojione, .twemoji, .gemoji) {
-  font-size: 0.75rem;
+  font-size: var(--default-font-size);
+  vertical-align: -0.1875em;
 }
-@media screen and (max-width: 768px) {
-  .smallcap, .d20 {
-    font-size: 108% !important; /* Make Font Size Smaller for mobile devices */
-  }
+table:not([class]) .smallcap, table:not([class]) .d20 {
+  font-size: calc(var(--table-font-size)) !important;
 }
-table .smallcap :is(.emojione, .twemoji, .gemoji), table .d20 :is(.emojione, .twemoji, .gemoji) {
-  font-size: 0.675rem;
+table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class]) .d20 :is(.emojione, .twemoji, .gemoji) {
+  font-size: var(--table-font-size);
+  vertical-align: -0.1875em;
 }
 
 .rsc {
-  font-family: "Roboto Condensed", serif;
+  font-family: "Roboto", serif;
+}
+
+.rsc-h :is(.emojione, .twemoji, .gemoji) {
+  vertical-align: -0.1875em;
 }
 
 .inl {
@@ -194,14 +202,14 @@ table .smallcap :is(.emojione, .twemoji, .gemoji), table .d20 :is(.emojione, .tw
   position: relative;
 }
 .inl::before {
-  color: var(--md-default-fg-color--light);
-  content: "<";
-  margin-right: 0.1em;
+  content: "‹";
 }
 .inl::after {
+  content: "›";
+}
+.inl::before, .inl::after {
   color: var(--md-default-fg-color--light);
-  content: ">";
-  margin-left: 0.1em;
+  margin: 0 0.1em;
 }
 
 /* Damage-type Dynamic Class Generation */
@@ -975,7 +983,7 @@ table .smallcap :is(.emojione, .twemoji, .gemoji), table .d20 :is(.emojione, .tw
 }
 .md-typeset .admonition.statblock table:not([class]) th,
 .md-typeset details.statblock table:not([class]) th {
-  font-size: 0.675rem !important;
+  font-size: var(--table-font-size) !important;
   background-color: transparent !important;
   border-bottom: transparent;
   font-weight: normal;
@@ -984,7 +992,7 @@ table .smallcap :is(.emojione, .twemoji, .gemoji), table .d20 :is(.emojione, .tw
 }
 .md-typeset .admonition.statblock table:not([class]) td,
 .md-typeset details.statblock table:not([class]) td {
-  font-size: 0.77625rem !important;
+  font-size: calc(var(--table-font-size) * 1.15) !important;
 }
 .md-typeset .admonition.statblock table:not([class]) tr:nth-child(odd),
 .md-typeset .admonition.statblock table:not([class]) tr:nth-child(even),
@@ -1035,11 +1043,11 @@ table .smallcap :is(.emojione, .twemoji, .gemoji), table .d20 :is(.emojione, .tw
   }
   .md-typeset .admonition.statblock table:not([class]) th,
   .md-typeset details.statblock table:not([class]) th {
-    font-size: 0.54rem !important;
+    font-size: calc(var(--table-font-size) * 0.8) !important;
   }
   .md-typeset .admonition.statblock table:not([class]) td,
   .md-typeset details.statblock table:not([class]) td {
-    font-size: 0.675rem !important;
+    font-size: var(--table-font-size) !important;
   }
   .md-typeset .admonition.statblock table:not([class]) th:nth-child(4),
   .md-typeset .admonition.statblock table:not([class]) td:nth-child(4),

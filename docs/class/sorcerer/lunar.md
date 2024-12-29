@@ -32,7 +32,7 @@ Your connection to your current Lunar Phase ensures you have certain spells read
 
 *You can call down the radiant light of the moon on command.*
 
-You always have the [:spell-lv2: Moonbeam] spell prepared, and when you cast it, you can do so by expending two Sorcery Points instead of a spell slot. When you do so, you can move the Cylinder on your subsequent turns using a Bonus Action instead of an action.
+You always have the [:spell-lv2: Moonbeam] spell prepared, and when you cast it, you can do so by expending two Sorcery Points instead of a spell slot. When you do so, you can move the Cylinder on your subsequent turns using a **:rsc-b: Bonus Action**{ .rsc } instead of an action.
 
 Starting when you reach level 5 as a Sorcerer, you can cast [:spell-lv2: Moonbeam] as if with a higher level spell slot than level 2, at a rate of 1 extra Sorcery Point per level above 2. The maximum number of Sorcery Points you can spend is equal to  half your Sorcerer level (rounded up) to an overall maximum of 5 Sorcery Points.
 
@@ -54,13 +54,13 @@ You gain greater control over the phases of your lunar magic.
 
 ***Short Rest Phase Shift.*** You can change your current Lunar Phase to a different one when you finish a Short Rest.
 
-***Rapid Phase Shift.*** As a Bonus Action, you can expend 1 Sorcery Point to change your current Lunar Phase to a different one.
+***Rapid Phase Shift.*** As a **:rsc-b: Bonus Action**{ .rsc }, you can expend 1 Sorcery Point to change your current Lunar Phase to a different one.
 
 ### Level 14: Lunar Empowerment
 
 The power of a lunar phase saturates your being. While you are in a Lunar Embodiment phase, you also gain the following benefit associated with that phase:
 
-***Full Moon.*** You can use a Bonus Action to shed bright light in a 10 foot Emanation and dim light for an additional 10 feet, or to douse the light. In addition, you and creatures of your choice have Advantage on Intelligence (Investigation) and Wisdom (Perception) checks while within the bright light you shed.
+***Full Moon.*** You can use a **:rsc-b: Bonus Action**{ .rsc } to shed bright light in a 10 foot Emanation and dim light for an additional 10 feet, or to douse the light. In addition, you and creatures of your choice have Advantage on Intelligence (Investigation) and Wisdom (Perception) checks while within the bright light you shed.
 
 ***New Moon.*** You have Advantage on Dexterity (Stealth) checks. In addition, while you are entirely in darkness, attack rolls have Disadvantage against you.
 
@@ -68,7 +68,7 @@ The power of a lunar phase saturates your being. While you are in a Lunar Embodi
 
 ### Level 18: Lunar Phenomenon
 
-As a Bonus Action, you can tap into a special power of your current Lunar Embodiment phase. Alternatively, as part of the Bonus Action you take to change your Lunar Phase using the Waxing and Waning feature, you can immediately use the power of the lunar phase you are entering:
+As a **:rsc-b: Bonus Action**{ .rsc }, you can tap into a special power of your current Lunar Embodiment phase. Alternatively, as part of the **:rsc-b: Bonus Action**{ .rsc } you take to change your Lunar Phase using the Waxing and Waning feature, you can immediately use the power of the lunar phase you are entering:
 
 ***Full Moon.*** You radiate moonlight for a moment. Each creature of your choice within a 30 foot Emanation from you must succeed on a Constitution saving throw against your spell save DC or have the Blinded condition until the end of its next turn. In addition, one creature of your choice in the Emanation regains 3d8 Hit Points.
 

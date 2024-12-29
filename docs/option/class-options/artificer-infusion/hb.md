@@ -102,7 +102,7 @@ This magical item has a number of Charges equal to your Intelligence modifier (m
 
 _**Prerequisite:** Level 6+; A sword hilt or wand (requires attunement)_
 
-While holding the item, the wielder can take a Bonus Action to cause a blade of pure radiance to spring into existence, or disappear, from the end of the item. While the blade exists, this magic item is a has the trait in the Light Blade table:
+While holding the item, the wielder can take a **:rsc-b: Bonus Action**{ .rsc } to cause a blade of pure radiance to spring into existence, or disappear, from the end of the item. While the blade exists, this magic item is a has the trait in the Light Blade table:
 
 ##### Light Blade
 
@@ -129,7 +129,7 @@ The wearer of this magic helm has **:dmg-res: Resistance**{ .em } to :dmg-psyc: 
 
 _**Prerequisite:** Level 14+, A melee weapon (requires attunement)_
 
-This item has 4 charges. While wielding this magic weapon, the user can take a Magic action to cast the [:spell-lv2: Foreign Ironwind]^*CM*^ spell as a level 5 spell, using the Infused weapon as the spellcasting focus, without expending a spell slot. The weapon regains all expended charges at the end of a Long Rest.
+This item has 4 charges. While wielding this magic weapon, the user can take a **:rsc-a: Magic**{ .rsc } action to cast the [:spell-lv2: Foreign Ironwind]^*CM*^ spell as a level 5 spell, using the Infused weapon as the spellcasting focus, without expending a spell slot. The weapon regains all expended charges at the end of a Long Rest.
 
 ---
 
@@ -137,7 +137,7 @@ This item has 4 charges. While wielding this magic weapon, the user can take a M
 
 _**Prerequisite:** Level 14+, A ranged weapon (requires attunement)_
 
-While wielding this magic weapon, the user can take a Magic action to cast [:spell-lv5: Swift Quiver], using the Infused weapon as the spellcasting focus, without expending a spell slot.
+While wielding this magic weapon, the user can take a **:rsc-a: Magic**{ .rsc } action to cast [:spell-lv5: Swift Quiver], using the Infused weapon as the spellcasting focus, without expending a spell slot.
 
 Once activated, the wielder must finish a Short or Long Rest before they can cast [:spell-lv5: Swift Quiver] with this weapon again.
 
