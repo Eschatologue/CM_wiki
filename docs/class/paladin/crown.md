@@ -61,7 +61,7 @@ Your presence on the field of battle is an inspiration to those dedicated to you
 
 ***Regal Presence.*** When a creature starts its turn within 10 feet of you, you can force it to make a Wisdom saving throw against your spell save DC. On a failed save, it takes 10 :dmg-psyc: Psychic damage and has the ^^Prone^^ condition and cannot stand up. At the end of each of its turns, the creature can repeat this save, ending the effect preventing it from removing the ^^Prone^^ condition from itself on a successful save, and taking 10 :dmg-psyc: Psychic damage on a failed save.
 
-Once you use this feature, you cannot use it again until you finish a Long Rest, or you expend a level 5 spell slot to use it again.
+Once you use this feature, you cannot use it again until you finish a **:rest-long: Long Rest**, or you expend a level 5 spell slot to use it again.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 

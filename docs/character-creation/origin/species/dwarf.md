@@ -22,11 +22,11 @@ You have Darkvision with a range of 120 feet.
 
 ### Dwarven Resilience
 
-You have **:dmg-res: Resistance**{ .em } to :dmg-posn: Poison damage. You also have **:d20-adv: Advantage**{ .d20 } on saving throws you make to avoid or end the ^^Poisoned^^ condition.
+You have **:dmg-res: Resistance**{ .em } to **:dmg-posn: Poison**{ .dmg-posn } damage. You also have **:d20-adv: Advantage**{ .d20 } on **:d20-save: Saving Throws**{ .em } you make to avoid or end the ^^Poisoned^^ condition.
 
 ### Stonecunning 
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you gain Tremorsense with a range of 60 feet for 10 minutes. You must be on a stone surface or touching a stone surface to use this Tremorsense. The stone can be natural or worked. You can use this **:rsc-b: Bonus Action**{ .rsc } a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
+As a **:rsc-b: Bonus Action**{ .rsc }, you gain Tremorsense with a range of 60 feet for 10 minutes. You must be on a stone surface or touching a stone surface to use this Tremorsense. The stone can be natural or worked. You can use this **:rsc-b: Bonus Action**{ .rsc } a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 ### Stocky
 

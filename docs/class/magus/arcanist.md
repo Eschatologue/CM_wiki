@@ -27,7 +27,7 @@ Unlike other Magi who memorize spells for use in battle, you maintain a spellboo
 
 ***Spellbook.*** You gain a Spellbook that contains a number of spells of your choice equal to your number of Spells Known, which replace your current Spells Known. You choose these new spells from the [Magus] or [Wizard] spell list, but they must be of a level that you have the spell slots for as shown on the Magus table. Your Arcane Spellbook is a Tiny item that can be enchanted as part of your Arcane Armoury.
 
-***Preparing Spells.***  When you finish a Long Rest, you can spend 1 hour preparing your spells for the day. You prepare a number of spells from your Spellbook equal to half your level + your Intelligence modifier + your proficiency bonus. These are the only spells you can cast until you prepare other spells, and while prepared they count as Magus spells for you.
+***Preparing Spells.***  When you finish a **:rest-long: Long Rest**, you can spend 1 hour preparing your spells for the day. You prepare a number of spells from your Spellbook equal to half your level + your Intelligence modifier + your proficiency bonus. These are the only spells you can cast until you prepare other spells, and while prepared they count as Magus spells for you.
 
 ***Ritual Casting.*** You can cast the ritual version of any spell in your Spellbook even if you do not have the spell prepared.
 
@@ -49,7 +49,7 @@ The duration of your [Spellsight] increases to 10 minutes, it no longer requires
 
 *You wield arcane magic that rivals an archmage.*
 
-You add one level 6 and one level 7 Wizard spell of your choice to your Spellbook. You can cast each spell once without expending a spell slot, and regain the ability to do so after a long rest.
+You add one level 6 and one level 7 Wizard spell of your choice to your Spellbook. You can cast each spell once without expending a spell slot, and regain the ability to do so after a **:rest-long: Long Rest**.
 
 [Magus]: ../../spells/class-specific/magus.md
 [Wizard]: ../../spells/class-specific/wizard.md

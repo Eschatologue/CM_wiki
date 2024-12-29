@@ -47,7 +47,7 @@ This bonus is only usable by you and it lasts for 1 minute. It ends early if you
 
 When you make an attack roll with a Monk Weapon, you can choose to use your Monk level in place of rolling the d20. If using your Monk level would result in a Critical Hit for that attack roll, then the attack becomes a critical hit.
 
-Once you use this feature you must finish a Short or Long Rest before you can use it again.
+Once you use this feature you must finish a **:rest-short: Short** or **:rest-long: Long Rest** before you can use it again.
 
 [Unarmed Strike]: ../../gameplay/phb/action.md#unarmed-strike
 

@@ -21,7 +21,7 @@ You gain a set with Alchemist's Supplies and profficiency with it, along with th
 
 #### Cordite Charges 
 
-At the end of each Short Rest, you can use your Alchemist's Supplies to create a number of Cordite Charges equal to your Proficiency Bonus. These Charges are used to craft explosives. Unused Cordite Charges or explosives made from them become inert and unusable at the end of your next Long Rest.
+At the end of each **:rest-short: Short Rest**, you can use your Alchemist's Supplies to create a number of Cordite Charges equal to your Proficiency Bonus. These Charges are used to craft explosives. Unused Cordite Charges or explosives made from them become inert and unusable at the end of your next Long Rest.
 
 #### Explosives Known
 

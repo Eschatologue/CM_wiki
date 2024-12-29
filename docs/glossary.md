@@ -646,7 +646,7 @@ If you gain Heroic Inspiration but already have it, it's lost unless you give it
 
 ## Hit Point Dice
 
-Hit Point Dice, or Hit Dice for short, help determine a player character's Hit Point maximum, as explained in *chapter 2*. Most monsters also have Hit Dice. A creature can spend Hit Dice during a Short Rest to regain Hit Points.
+Hit Point Dice, or Hit Dice for short, help determine a player character's Hit Point maximum, as explained in *chapter 2*. Most monsters also have Hit Dice. A creature can spend Hit Dice during a **:rest-short: Short Rest** to regain Hit Points.
 
 ---
 
@@ -724,7 +724,7 @@ You can extend your arms half your height above yourself during the jump. Thus, 
 
 ## Knocking Out a Creature
 
-When you would reduce a creature to 0 Hit Points with a melee attack, you can instead reduce the creature to 1 Hit Point. The creature then has the Unconscious condition and starts a Short Rest.
+When you would reduce a creature to 0 Hit Points with a melee attack, you can instead reduce the creature to 1 Hit Point. The creature then has the Unconscious condition and starts a **:rest-short: Short Rest**.
 
 The creature remains Unconscious until it regains any Hit Points or until someone uses an action to administer first aid to it, which requires a successful DC 10 Wisdom (Medicine) check.
 
@@ -738,27 +738,27 @@ You have Disadvantage on Wisdom (Perception) checks to see something in a Lightl
 
 ## Long Rest
 
-A Long Rest is a period of extended downtime—at least 8 hours—available to any creature. During a Long Rest, you sleep for at least 6 hours and perform no more than 2 hours of light activity, such as reading, talking, eating, or standing watch.
+a **:rest-long: Long Rest** is a period of extended downtime—at least 8 hours—available to any creature. During a **:rest-long: Long Rest**, you sleep for at least 6 hours and perform no more than 2 hours of light activity, such as reading, talking, eating, or standing watch.
 
-During sleep, you have the Unconscious condition. After you finish a Long Rest, you must wait at least 16 hours before starting another one.
+During sleep, you have the Unconscious condition. After you finish a **:rest-long: Long Rest**, you must wait at least 16 hours before starting another one.
 
-***Benefits of the Rest.*** To start a Long Rest, you must have at least 1 Hit Point. When you finish the rest, you gain the following benefits:
+***Benefits of the Rest.*** To start a **:rest-long: Long Rest**, you must have at least 1 Hit Point. When you finish the rest, you gain the following benefits:
 
 - **Regain All HP.** You regain all lost Hit Points and all spent Hit Point Dice. If your Hit Point maximum was reduced, it returns to normal.
 - **Ability Scores Restored.** If any of your ability scores were reduced, they return to normal.
 - **Exhaustion Reduced.** If you have the Exhaustion condition, its level decreases by 1.
-- **Special Feature.** Some features are recharged by a Long Rest. If you have such a feature, it recharges in the way specified in its description.
+- **Special Feature.** Some features are recharged by a **:rest-long: Long Rest**. If you have such a feature, it recharges in the way specified in its description.
 
-***Interrupting the Rest.*** A Long Rest is stopped by the following interruptions:
+***Interrupting the Rest.*** a **:rest-long: Long Rest** is stopped by the following interruptions:
 
 - Rolling Initiative
 - Casting a spell other than a cantrip
 - Taking any damage
 - 1 hour of walking or other physical exertion.
 
-If you rested at least 1 hour before the interruption you gain the benefits of a Short Rest.
+If you rested at least 1 hour before the interruption you gain the benefits of a **:rest-short: Short Rest**.
 
-You can resume a Long Rest immediately after an interruption. If you do so, the rest requires 1 additional hour per interruption to finish.
+You can resume a **:rest-long: Long Rest** immediately after an interruption. If you do so, the rest requires 1 additional hour per interruption to finish.
 
 ---
 
@@ -806,7 +806,7 @@ A creature's Passive Perception equals 10 plus the creature's Wisdom (Perception
 
 ## Per Day
 
-If a rule says you can use something a certain number of times per day, that means you must finish a Long Rest to use it again after you run out of uses.
+If a rule says you can use something a certain number of times per day, that means you must finish a **:rest-long: Long Rest** to use it again after you run out of uses.
 
 ---
 
@@ -866,20 +866,20 @@ If an effect, such as Wild Shape or the *Polymorph* spell, lets you shape-shift,
 
 ## Short Rest
 
-A Short Rest is a 1-hour period of downtime, during which a creature does nothing more strenuous than reading, talking, eating, or standing watch. To start a Short Rest, you must have at least 1 Hit Point.
+A **:rest-short: Short Rest** is a 1-hour period of downtime, during which a creature does nothing more strenuous than reading, talking, eating, or standing watch. To start a **:rest-short: Short Rest**, you must have at least 1 Hit Point.
 
 ***Benefits of the Rest.*** When you finish the rest, you gain the following benefits:
 
 - **Spend Hit Point Dice.** You can spend one or more of your Hit Point Dice to regain Hit Points. For each Hit Point Die you spend in this way, roll the die and add your Constitution modifier to it. You regain Hit Points equal to the total (minimum of 1 Hit Point). You can decide to spend an additional Hit Point Die after each roll.
-- **Special Feature.** Some features are recharged by a Short Rest. If you have such a feature, it recharges in the way specified in its description.
+- **Special Feature.** Some features are recharged by a **:rest-short: Short Rest**. If you have such a feature, it recharges in the way specified in its description.
 
-***Interrupting the Rest.*** A Short Rest is stopped by the following interruptions:
+***Interrupting the Rest.*** A **:rest-short: Short Rest** is stopped by the following interruptions:
 
 - Rolling Initiative
 - Casting a spell other than a cantrip
 - Taking any damage
 
-An interrupted Short Rest confers no benefits.
+An interrupted **:rest-short: Short Rest** confers no benefits.
 
 ---
 

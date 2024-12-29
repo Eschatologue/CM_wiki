@@ -102,7 +102,7 @@ Whenever you gain an Artificer level, you can replace one of your cantrips with 
 
 #### Spell Slots
 
-The Artificer Features table shows how many spell slots you have to cast your level 1 spells. You regain all expended slots when you finish a Long Rest.
+The Artificer Features table shows how many spell slots you have to cast your level 1 spells. You regain all expended slots when you finish a **:rest-long: Long Rest**.
 
 #### Prepared Spells of Level 1+
 
@@ -114,7 +114,7 @@ If another Artificer feature gives you spells that you may always have prepared,
 
 #### Changing Your Prepared Spells
 
-Whenever you finish a Long Rest, you can replace one spell on your list with another Artificer spell for which you have spell slots.
+Whenever you finish a **:rest-long: Long Rest**, you can replace one spell on your list with another Artificer spell for which you have spell slots.
 
 #### Spellcasting Ability
 
@@ -160,7 +160,7 @@ Whenever you gain a level in this class, you can replace one of the Infusions yo
 
 #### Infusing an Item
 
-After completing a Long Rest, you can touch a non-magical (also called mundane) object and imbue it with one of your Infusions, transforming it into a magical item. Each Infusion specifies the types of objects it can be applied to.
+After completing a **:rest-long: Long Rest**, you can touch a non-magical (also called mundane) object and imbue it with one of your Infusions, transforming it into a magical item. Each Infusion specifies the types of objects it can be applied to.
 
 If the item requires attunement, you can attune to it instantly when you infuse it. Alternatively, you may attune to it later through the standard attunement process.
 
@@ -169,7 +169,7 @@ An Infusion remains active indefinitely but ends if:
 - You die, after a number of days equal to your Intelligence modifier (minimum of 1 day).
 - You replace the Infusion with another one.
 
-At the end of a Long Rest, you may infuse multiple non-magical objects, up to the limit indicated in the Infusions Known column of the Artificer Features table. Each Infusion can only be applied to one object, and no object may bear more than one Infusion at a time. If applying a new Infusion would exceed your maximum, you must choose one active Infusion to end before applying the new one.
+At the end of a **:rest-long: Long Rest**, you may infuse multiple non-magical objects, up to the limit indicated in the Infusions Known column of the Artificer Features table. Each Infusion can only be applied to one object, and no object may bear more than one Infusion at a time. If applying a new Infusion would exceed your maximum, you must choose one active Infusion to end before applying the new one.
 
 If an Infusion ends on an object with contents (such as a Bag of Holding), its contents appear harmlessly in and around the item's location.
 
@@ -181,7 +181,7 @@ You gain an Artificer subclass of your choice. A subclass is a specialization th
 
 ### Level 3: The Right Tool for the Job
 
-You've learned how to produce exactly the tool you need: with [Thieves' Tools] or [Artisan's Tools] in hand, you can magically create one set of [Artisan's Tools] in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a Short or Long Rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.
+You've learned how to produce exactly the tool you need: with [Thieves' Tools] or [Artisan's Tools] in hand, you can magically create one set of [Artisan's Tools] in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a **:rest-short: Short** or **:rest-long: Long Rest**. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.
 
 [Thieves' Tools]: ../../equipment/tools/other-tools.md#thieves-tools
 [Artisan's Tools]: ../../equipment/tools/artisan-tools.md
@@ -198,7 +198,7 @@ Your proficiency bonus is now doubled for any ability check you make that uses y
 
 You've gained the ability to come up with solutions under pressure. When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your **:rsc-r: Reaction**{ .rsc } to add your Intelligence modifier to the roll.
 
-You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a Long Rest.
+You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 ### Level 10: Magic Item Adept
 
@@ -210,7 +210,7 @@ You've achieved a profound understanding of how to use and make magic items:
 
 ### Level 11: Spell-Storing Item
 
-You can now store a spell in an object. Whenever you finish a Long Rest, you can touch one Simple or Martial weapon or one item that you can use as a spellcasting focus, and you store a spell in it, choosing a level 1 or 2 spell from the [Artificer spell list] that requires an :rsc-a: Action to cast (you needn't have it prepared).
+You can now store a spell in an object. Whenever you finish a **:rest-long: Long Rest**, you can touch one Simple or Martial weapon or one item that you can use as a spellcasting focus, and you store a spell in it, choosing a level 1 or 2 spell from the [Artificer spell list] that requires an :rsc-a: Action to cast (you needn't have it prepared).
 
 While holding the object, a creature can take an **:rsc-a: Magic**{ .rsc } action to produce the spell's effect from it, using your spellcasting ability modifier. If the spell requires Concentration, the creature must concentrate. The spell stays in the object until it's been used a number of times equal to twice your :ability-int: Intelligence modifier (minimum of 1) or until you use this feature again to store a spell in an object.
 

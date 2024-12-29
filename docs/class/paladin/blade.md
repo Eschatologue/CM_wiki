@@ -46,7 +46,7 @@ You learn two different Manoeuvre of your choice from the "[Manoeuvre Options]" 
 
 #### Superiority Dice
 
-You have three Superiority Dice, which are :die-d6: d6s. A Superiority Die is expended when you use it. You regain all expended Superiority Dice when you finish a Short Rest or Long Rest.
+You have three Superiority Dice, which are :die-d6: d6s. A Superiority Die is expended when you use it. You regain all expended Superiority Dice when you finish a **:rest-short: Short Rest** or Long Rest.
 
 #### Saving Throws
 
@@ -70,7 +70,7 @@ You possess an unnatural level of awareness.
 
 ### Level 20: Warrior of Legend
 
-As Bonus Action, you can enter a battle trance that enhances your combat skills to legendary levels, granting the benefits below for 1 minute, until you end them (no action required). Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending a level 5 spell slot (no action required).
+As Bonus Action, you can enter a battle trance that enhances your combat skills to legendary levels, granting the benefits below for 1 minute, until you end them (no action required). Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 ***Free Manoeuvre.*** Once per turn, when you use a Manoeuvre, you can roll a :die-d6: d6 and use the number rolled instead of expending a Superiority Die.
 

@@ -65,7 +65,7 @@ When you force a creature within your Aura of Protection to make a saving throw 
 
 *You use self-serving power to become a grey shade of the righteous Paladin you could have been.*
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you gain the following benefits for 1 minute. Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending a level 5 spell slot (no action required).
+As a **:rsc-b: Bonus Action**{ .rsc }, you gain the following benefits for 1 minute. Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 ***Cunning Escape.*** You can take the Dash or Hide action as a  **:rsc-b: Bonus Action**{ .rsc }.
 

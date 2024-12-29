@@ -24,12 +24,12 @@ You've created a star chart as part of your heavenly studies. It is a Tiny objec
 While holding this map, you have these benefits:
 
 - You know the [:spell-lv0: Guidance]* cantrip and [:spell-lv1: Guiding Bolt] spell prepared. They counts as a Druid spell for you, and it doesn't count against the number of spells you can have prepared.
-- You can cast [:spell-lv1: Guiding Bolt] without expending a spell slot. You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
+- You can cast [:spell-lv1: Guiding Bolt] without expending a spell slot. You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 [:spell-lv0: Guidance]: ../../spells/description/core/cantrip.md#guidance
 [:spell-lv1: Guiding Bolt]: ../../spells/description/core/level-1.md#guiding-bolt
   
-If you lose the map, you can perform a 1-hour ceremony to magically create a replacement. This ceremony can be performed during a Short Rest or Long Rest, and it destroys the previous map.
+If you lose the map, you can perform a 1-hour ceremony to magically create a replacement. This ceremony can be performed during a **:rest-short: Short Rest** or Long Rest, and it destroys the previous map.
 
 ##### Star Map 
 
@@ -60,13 +60,13 @@ At Druid **level 14**, while in your Starry Form, you become partially incorpore
 
 ### Level 6: Cosmic Omen
 
-You learn to use your star map to divine the will of the cosmos. Whenever you finish a Long Rest, you can consult your Star Map for omens. When you do so, roll a die. Until you finish your next Long Rest, you gain access to a special Reaction based on whether you rolled an even or an odd number on the die:
+You learn to use your star map to divine the will of the cosmos. Whenever you finish a **:rest-long: Long Rest**, you can consult your Star Map for omens. When you do so, roll a die. Until you finish your next Long Rest, you gain access to a special Reaction based on whether you rolled an even or an odd number on the die:
 
 ***Weal (even).*** Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a **:rsc-r: Reaction**{ .rsc } to roll 1d6 and add the number rolled to the total.
 
 ***Woe (odd).*** Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a **:rsc-r: Reaction**{ .rsc } to roll 1d6 and subtract the number rolled from the total.
 
-You can use use this **:rsc-r: Reaction**{ .rsc } a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
+You can use use this **:rsc-r: Reaction**{ .rsc } a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 ### Level 10: Twinkling Constellations
 
@@ -80,6 +80,6 @@ Your connection to the cosmos lets you summon radiant starlight. As a **:rsc-a: 
 
 Any creature remaining in the Sphere must make a :d20-save: Constitution saving throw against your Spell Save DC. On a failed save, the creature takes Radiant damage and has the Blinded condition until the end of your next turn. On a successful save, the creature only takes half damage. To determine the damage, roll a number of d10s equal to your Wisdom modifier and add them together.
 
-Once you use this feature, you can't use it again until you finish a Long Rest, or you can expend a level 5+ spell slot to regain your use of it (no action required).
+Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**, or you can expend a level 5+ spell slot to regain your use of it (no action required).
 
 ###### :material-book-arrow-up: Updated by *Eschatologue*

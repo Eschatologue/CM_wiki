@@ -33,7 +33,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 ### Level 3: War Priest
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can make one attack with a weapon or an Unarmed Strike, you can use this **:rsc-b: Bonus Action**{ .rsc } a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a Short or Long Rest
+As a **:rsc-b: Bonus Action**{ .rsc }, you can make one attack with a weapon or an Unarmed Strike, you can use this **:rsc-b: Bonus Action**{ .rsc } a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a **:rest-short: Short** or **:rest-long: Long Rest**
 
 ### Level 6: War God's Blessing
 

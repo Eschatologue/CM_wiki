@@ -33,7 +33,7 @@ You gain Tool Proficiency with three different Artisan's Tools of your choice fr
 Whenever you buy a nonmagical item, you receive a 20 percent discount on it.
     
 **Faster Crafting**  
-When you finish a Long Rest, you can craft one piece of gear from the Fast Crafting table, provided you have the Artisan's Tools associated with that item and have proficiency with those tools. The item lasts until you finish another Long Rest, at which point the item falls apart.
+When you finish a **:rest-long: Long Rest**, you can craft one piece of gear from the Fast Crafting table, provided you have the Artisan's Tools associated with that item and have proficiency with those tools. The item lasts until you finish another Long Rest, at which point the item falls apart.
 
 ##### Fast Crafting
 | Artisan's Tools | Crafted Gear |
@@ -70,7 +70,7 @@ Whenever you roll a die to determine the number of Hit Points you restore with a
 You have inexplicable luck that can kick in at just the right moment, granting you the following benefits:
 
 **Luck Points**  
-You have a number of Luck Points equal to your Proficiency Bonus. You can spend the points on the benefits below, and you regain your expended Luck Points when you finish a Long Rest.
+You have a number of Luck Points equal to your Proficiency Bonus. You can spend the points on the benefits below, and you regain your expended Luck Points when you finish a **:rest-long: Long Rest**.
     
 Advantage 
 Immediately after you roll a d20, you can spend 1 Luck Point to give yourself **:d20-adv: Advantage**{ .d20 } on the roll.
@@ -90,7 +90,7 @@ You gain the following benefits.
 You learn two cantrips of your choice from the Cleric, Druid, or Wizard spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat's spells (choose when you select this feat)
 
 **Level 1 Spell**  
-Choose a level 1 spell from the same list you selected for this feat's cantrips. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have.
+Choose a level 1 spell from the same list you selected for this feat's cantrips. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a **:rest-long: Long Rest**. You can also cast the spell using any spell slots you have.
 
 **Spell Change**  
 Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list.
@@ -110,7 +110,7 @@ You gain the following benefits.
 You gain Tool Proficiency with three Musical Instruments of your choice.
 
 **Encouraging Song**  
-As you finish a Short Rest or a Long Rest, you can play a song on a Musical Instrument with which you have Tool Proficiency and give Heroic Inspiration to allies who hear the song. The number of allies you can affect in this way equals your Proficiency Bonus.
+As you finish a **:rest-short: Short Rest** or a **:rest-long: Long Rest**, you can play a song on a Musical Instrument with which you have Tool Proficiency and give Heroic Inspiration to allies who hear the song. The number of allies you can affect in this way equals your Proficiency Bonus.
 
 ---
 

@@ -91,7 +91,7 @@ A great fishermen is not just that is lucky, but those who both lucky and came p
 
 Fishing rod modifications are augmentations that enhance your fishing rod to yield better results. These modifications work similarly to the Artificer Infusion mechanic, being tied to whichever fishing rod you modify. To modify your fishing rod, you must be proficient with [Fishing Supplies].
 
-You can change your fishing rod modifications as part of a Short Rest or before a Long Rest.
+You can change your fishing rod modifications as part of a **:rest-short: Short Rest** or before a **:rest-long: Long Rest**.
 
 ## Fishing Loot
 

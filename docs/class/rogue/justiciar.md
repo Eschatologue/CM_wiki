@@ -17,7 +17,7 @@ Not all servants of the gods work in the light. Justiciars are zealous enforcers
 
 You gain the ability to channel divine energy directly from your god, and can use it to fuel magical effects. You start with two such divine effect, Divine Sense and Shroud of Faith.
 
-You can use Channel Divinity once. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest. You gain additional uses when you reach certain Rogue levels, as shown in the Channel Divinity column of the [Justiciar Spellcasting table].
+You can use Channel Divinity once. You regain one expended use when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**. You gain additional uses when you reach certain Rogue levels, as shown in the Channel Divinity column of the [Justiciar Spellcasting table].
 
 ***Divine Sense.*** As a **:rsc-b: Bonus Action**{ .rsc }, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the Incapacitated condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [:spell-lv5: Hallow] spell.
 
@@ -58,7 +58,7 @@ When you reach level 10 in this class, you learn another Cleric cantrip of your 
 
 #### Spell Slots
 
-The [Justiciar Spellcasting table] shows how many spell slots you have to cast your spells of level 1 and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a Long Rest.
+The [Justiciar Spellcasting table] shows how many spell slots you have to cast your spells of level 1 and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a **:rest-long: Long Rest**.
 
 #### Prepared Spells of Level 1+
 
@@ -84,7 +84,7 @@ You and your weapons are blessed by the heavens to smite heretics and blasphemer
 
 ***Bonus Proficiency.*** You gain proficiency with the Religion skill. Whenever you would make an Intelligence (Religion) check, you can choose to make a Charisma (Religion) check instead.
 
-***Concecrated Weapons.*** As part of a Short or Long Rest, you can perform a ritual and touch a weapon that you are proficient with to Consecrate it. This Consecrated weapon becomes a Holy Symbol and can be used as a spellcasting focus for your Cleric spells. You can also add your Sneak Attack bonus to attacks with it even if it does not have the :weapon-prop-finesse: Finesse property. However, all other rules of for Sneak Attack bonus still apply. You can have only one Consecrated weapon at a time.
+***Concecrated Weapons.*** As part of a **:rest-short: Short** or **:rest-long: Long Rest**, you can perform a ritual and touch a weapon that you are proficient with to Consecrate it. This Consecrated weapon becomes a Holy Symbol and can be used as a spellcasting focus for your Cleric spells. You can also add your Sneak Attack bonus to attacks with it even if it does not have the :weapon-prop-finesse: Finesse property. However, all other rules of for Sneak Attack bonus still apply. You can have only one Consecrated weapon at a time.
 
 ### Level 9: Wrathful Strikes
 

@@ -33,7 +33,7 @@ Each Casting Unit holds a set number of charges and has a maximum spell level it
 
 ### Reloading and Recharging
 
-:material-folder-download: **Store Spells:** A spellcaster can load or change the spells it prepares or know into the unit during a Long Rest.  
+:material-folder-download: **Store Spells:** A spellcaster can load or change the spells it prepares or know into the unit during a **:rest-long: Long Rest**.  
 :material-battery-charging-10: **Recharge:** Spend spell slots to restore charges (1 charge per spell slot level).
 
 ##### Casting Unit Table

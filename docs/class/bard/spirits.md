@@ -23,7 +23,7 @@ You employ tools that aid you in channeling spirits, be they historical figures 
 
 ### Level 3: Tales from Beyond
 
-You reach out to spirits who tell their tales through you. While you are holding your Spiritual Focus, you can use a **:rsc-b: Bonus Action**{ .rsc } to expend one use of your Bardic Inspiration and roll on the Spirit Tales table using your Bardic Inspiration die to determine the tale the spirits direct you to tell. You retain the tale in mind until you bestow the tale's effect or you finish a short or long rest.
+You reach out to spirits who tell their tales through you. While you are holding your Spiritual Focus, you can use a **:rsc-b: Bonus Action**{ .rsc } to expend one use of your Bardic Inspiration and roll on the Spirit Tales table using your Bardic Inspiration die to determine the tale the spirits direct you to tell. You retain the tale in mind until you bestow the tale's effect or you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
 You can use a **:rsc-a: Magic**{ .rsc } action to choose one creature you can see within 30 feet of you (this can be you) to be the target of the tale's effect. Once you do so, you can't bestow the tale's effect again until you roll it again.
 
@@ -50,13 +50,13 @@ When you cast a Bard spell that deals damage or restores Hit Points while you ar
 
 ### Level 6: Spirit Session
 
-Spirits provide you with supernatural insights. You can conduct an hour-long ritual channeling spirits (which can be done during a Short or Long Rest) using your Spiritual Focus.
+Spirits provide you with supernatural insights. You can conduct an hour-long ritual channeling spirits (which can be done during a **:rest-short: Short** or **:rest-long: Long Rest**) using your Spiritual Focus.
 
 ***Ritual Participants.*** You can conduct the ritual with a number of willing creatures equal to half your Bard level (rounded down, maximum 9, including yourself).
 
 ***Spell Knowledge.*** At the end of the ritual, you temporarily learn one spell of your choice from any class. The spell you choose must be of a level equal to the number of creatures that conducted the ritual or less, the spell must be of a level you can cast, and it must be in the school of Divination or Necromancy. You always have the spell prepared until you use this feature again.
 
-***Once per Long Rest.*** Once you perform the ritual, you can't do so again until you start a Long Rest.
+***Once per Long Rest.*** Once you perform the ritual, you can't do so again until you start a **:rest-long: Long Rest**.
 
 ### Level 14: Mystical Connection
 

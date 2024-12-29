@@ -53,7 +53,7 @@ You have **:d20-adv: Advantage**{ .d20 } on saving throws against spells. Furthe
 
 When a willing creature you can see within 60 feet of you casts a spell, you can use your **:rsc-r: Reaction**{ .rsc } to apply a Metamagic option that you know to that spell. You determine how to use the Metamagic option you grant the caster. You must obey all other restrictions for that Metamagic option and spend sorcery points as normal.
 
-Once you grant a metamagic option to a creature with this feature, you can't grant that creature a metamagic option again until it finishes a short or long rest
+Once you grant a metamagic option to a creature with this feature, you can't grant that creature a metamagic option again until it finishes a **:rest-short: Short** or **:rest-long: Long Rest**
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 --8<-- "includes/snippets/spells2/lv6.md"

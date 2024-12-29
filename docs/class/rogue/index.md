@@ -110,7 +110,7 @@ You picked up various languages in the communities where you plied your roguish 
 
 Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Daggers and Shortbows.
 
-Whenever you finish a Long Rest, you can do one of the following:
+Whenever you finish a **:rest-long: Long Rest**, you can do one of the following:
 
 _**Change Weapon**_  
 You can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Shortswords.
@@ -196,6 +196,6 @@ You gain an [:option-feat-boon: Epic Boon feat](../../option/feat/feat-boon.md) 
 
 You have a marvelous knack for succeeding when you need to. If you fail a D20 Test, you can turn the roll into a 20.
 
-Once you use this feature, you can't use it again until you finish a Short or Long Rest.
+Once you use this feature, you can't use it again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
 --8<-- "includes/snippets/skills.md"

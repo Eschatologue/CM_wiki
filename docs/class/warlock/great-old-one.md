@@ -40,7 +40,7 @@ When you cast a Warlock spell that deals damage, you can change its damage type 
 You learn to read the attacks of minds you touch. When you form a telepathic bond with a creature using your Awakened Mind, you can force that creature to make a Wisdom saving throw against your spell save DC. On a failed save, the creature has Disadvantage on attack rolls against you, and you have Advantage on attack rolls against that
 creature for the duration of the bond.
 
-Once you use this feature, you can't use it again until you finish a Short Rest or Long Rest. You can also restore your use of it by expending a spell slot of level 2 or higher (no action required).
+Once you use this feature, you can't use it again until you finish a **:rest-short: Short Rest** or Long Rest. You can also restore your use of it by expending a spell slot of level 2 or higher (no action required).
 
 ### Level 10: Eldritch Hex
 

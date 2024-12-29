@@ -41,11 +41,11 @@ You have Resistance to that damage type, and when you cast a spell that deals da
 
 As a **:rsc-b: Bonus Action**{ .rsc }, you can cause draconic wings to appear on your back. The wings last for 1 hour or until you dismiss them (no action required). For the duration, you have a Fly Speed of 60 feet.
 
-Once you use this feature, you can't use it again until you finish a Long Rest unless you spend 3 Sorcery Points (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest** unless you spend 3 Sorcery Points (no action required) to restore your use of it.
 
 ### Level 18: Dragon Companion
 
-You can cast [:spell-lv5: Summon Dragon] without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a Long Rest.
+You can cast [:spell-lv5: Summon Dragon] without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a **:rest-long: Long Rest**.
 
 Whenever you start casting [:spell-lv5: Summon Dragon], you can modify it so that it doesn't require Concentration. If you do so, the spell's duration becomes 1 minute for that casting.
 

@@ -90,7 +90,7 @@ As a Paladin, you gain the following class features when you reach the specified
 
 ### Level 1: Lay On Hands
 
-Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a Long Rest. With that pool, you can restore a total number of Hit Points equal to five times your Paladin level.
+Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a **:rest-long: Long Rest**. With that pool, you can restore a total number of Hit Points equal to five times your Paladin level.
 
 As a **:rsc-b: Bonus Action**{ .rsc }, you can touch a creature (which could be yourself) and draw power from the pool of healing to restore a number of Hit Points to that creature, up to the maximum amount remaining in the pool.
 
@@ -102,7 +102,7 @@ You have learned to cast spells through prayer and meditation. See chapter 7 for
 
 #### Spell Slots
 
-The Paladin Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
+The Paladin Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a **:rest-long: Long Rest**.
 
 #### Prepared Spells of Level 1+
 
@@ -113,7 +113,7 @@ The number of spells on your list increases as you gain Paladin levels, as shown
 If another Paladin feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Paladin spells for you.
 
 #### Changing Your Prepared Spells
-Whenever you finish a Long Rest, you can replace one spell on your list with another Paladin spell for which you have spell slots.
+Whenever you finish a **:rest-long: Long Rest**, you can replace one spell on your list with another Paladin spell for which you have spell slots.
 
 #### Spellcasting Ability
 
@@ -127,7 +127,7 @@ You can use a Holy Symbol as a Spellcasting Focus for your Paladin spells.
 
 Your training with weapons allows you to use the Mastery property of two kinds of weapons of your choice with which you have proficiency, such as Longswords and Javelins.
 
-Whenever you finish a Long Rest, you can do *one* of the following:
+Whenever you finish a **:rest-long: Long Rest**, you can do *one* of the following:
 
 _**Change Weapon**_  
 You can change the kinds of weapons you choose. For example, you could switch to using the Mastery properties of Halberds and Flails.
@@ -145,7 +145,7 @@ You gain a Fighting Style feat of your choice (see chapter 5 for feats). Instead
 
 ### Level 2: Paladin's Smite
 
-You always have the [:spell-lv1: Divine Smite] spell prepared. In addition, you can cast it without expending a spell slot, but you must finish a Long Rest before you can cast it in this way again.
+You always have the [:spell-lv1: Divine Smite] spell prepared. In addition, you can cast it without expending a spell slot, but you must finish a **:rest-long: Long Rest** before you can cast it in this way again.
 
 ### Level 2: Divine Smite (Optional)
 
@@ -159,7 +159,7 @@ This bonus damage is 2d8 for a level 1 spell slot and it increases by 1d8 for ea
 
 You can channel divine energy directly from the Outer Planes, using that energy to fuel magical effects. You start with one such effect: Divine Sense, which is described below. Other Paladin features give additional Channel Divinity effect options. Each time you use this Channel Divinity, you choose which effect to create from among those you have from this class.
 
-You can use Channel Divinity twice. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest. You gain additional uses when you reach certain Paladin levels, as shown in the Channel Divinity column of the Paladin table.
+You can use Channel Divinity twice. You regain one expended use when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**. You gain additional uses when you reach certain Paladin levels, as shown in the Channel Divinity column of the Paladin table.
 
 If a Channel Divinity effect requires a saving throw, the DC equals the Spell Save DC from this class's Spellcasting feature.
 
@@ -189,7 +189,7 @@ You can attack twice instead of once whenever you take the Attack action on your
 
 You can call on the aid of an otherworldly steed. You always have the [:spell-lv2: Find Steed] spell prepared.
 
-You can also cast the spell once without expending a spell slot, and you regain the ability to do so when you finish a Long Rest.
+You can also cast the spell once without expending a spell slot, and you regain the ability to do so when you finish a **:rest-long: Long Rest**.
 
 ### Level 6: Aura of Protection
 

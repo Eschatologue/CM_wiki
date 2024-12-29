@@ -26,7 +26,7 @@ When you reach level 10 in this class, you learn another Wizard cantrip of your 
 
 #### Spell Slots
 
-The Eldritch Knight Spellcasting table shows how many spell slots you have to cast your spells of level 1 and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a Long Rest.
+The Eldritch Knight Spellcasting table shows how many spell slots you have to cast your spells of level 1 and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a **:rest-long: Long Rest**.
 
 ##### Eldritch Knight Spellcasting
 
@@ -71,7 +71,7 @@ You can use an Arcane Focus as a Spellcasting Focus for the spells you prepare f
 
 ### Level 3: War Bond
 
-You learn a ritual that creates a magical bond between yourself and one weapon. You perform the ritual over the course of 1 hour, which can be done during a Short Rest. The weapon must be within your reach throughout the ritual, at the conclusion of which you touch the weapon and forge the bond.
+You learn a ritual that creates a magical bond between yourself and one weapon. You perform the ritual over the course of 1 hour, which can be done during a **:rest-short: Short Rest**. The weapon must be within your reach throughout the ritual, at the conclusion of which you touch the weapon and forge the bond.
 
 Once you have bonded a weapon to yourself, you can't be disarmed of that weapon unless you have the Incapacitated condition. If it is on the same plane of existence, you can summon that weapon as a **:rsc-b: Bonus Action**{ .rsc }, causing it to teleport instantly to your hand.
 

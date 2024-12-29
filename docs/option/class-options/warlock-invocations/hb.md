@@ -11,11 +11,11 @@ These Invocations are for Crown & Misery campaign
 
 ### Pact of the Chalice
 
-You can conjure a Pact Chalice; a vessel for the creation of potions and poultices in your hand at the end of a Short or Long Rest. It takes the form of a tiny object of your choice that is capable of holding liquids, and it grants you the following benefits:
+You can conjure a Pact Chalice; a vessel for the creation of potions and poultices in your hand at the end of a **:rest-short: Short** or **:rest-long: Long Rest**. It takes the form of a tiny object of your choice that is capable of holding liquids, and it grants you the following benefits:
 
 ***Artisan Tools.*** It can counts as a Herbalism Kit, an Alchemist's Supplies or a Brewer's Supplies (your choice), and it uses your spellcasting modifier for ability checks made with it.
 
-***Potion Creation.*** At the end of a Short or Long Rest, you can use the Pact Chalice to conjure a vial of the following: [Alchemist's Fire], [Acid], [Holy Water], [Potion of Healing], or [Potion of Climbing]. The liquid retains its potency until the end of your next long rest, at which point it becomes inert and unusable.
+***Potion Creation.*** At the end of a **:rest-short: Short** or **:rest-long: Long Rest**, you can use the Pact Chalice to conjure a vial of the following: [Alchemist's Fire], [Acid], [Holy Water], [Potion of Healing], or [Potion of Climbing]. The liquid retains its potency until the end of your next long rest, at which point it becomes inert and unusable.
 
 ***Spellcasting Focus.*** You can use the device as a Spellcasting Focus.
 
@@ -31,11 +31,11 @@ This object disappears if you conjure another object with this feature or if you
 
 ### Pact of the Hourglass
 
-You can conjure a Pact Hourglass; a mystical timekeeping device in your hand at the end of a Short or Long Rest. It takes the form of a timekeeping device of your choice, and it grants you the following benefits:
+You can conjure a Pact Hourglass; a mystical timekeeping device in your hand at the end of a **:rest-short: Short** or **:rest-long: Long Rest**. It takes the form of a timekeeping device of your choice, and it grants you the following benefits:
 
 ***Initiative Bonus.*** So long you don't have the Surprised condition, you gain bonus to your Initiative rolls equal to your spellcasting modifier (minimum of +1).
 
-***Rewind Time.*** When you make a D20 Test, you can choose to re-roll. You can use this feature after you roll, but before you know if you succeed. Once you use this feature to turn failure into success, you must finish a Short or Long Rest before you can use it again.
+***Rewind Time.*** When you make a D20 Test, you can choose to re-roll. You can use this feature after you roll, but before you know if you succeed. Once you use this feature to turn failure into success, you must finish a **:rest-short: Short** or **:rest-long: Long Rest** before you can use it again.
 
 ***Spellcasting Focus.*** You can use the device as a Spellcasting Focus.
 
@@ -59,11 +59,11 @@ Your bond with the musical instrument ends if you use this feature's **:rsc-b: B
 
 ### Pact of the Wok
 
-You can conjure a Pact Wok; a venerable cooking implement in your hand at the end of a Short or Long Rest. It takes the form of a set kitchen utensil of your choice, and it grants you the following benefits:
+You can conjure a Pact Wok; a venerable cooking implement in your hand at the end of a **:rest-short: Short** or **:rest-long: Long Rest**. It takes the form of a set kitchen utensil of your choice, and it grants you the following benefits:
 
 ***Artisan Tools.*** It counts as Cooking Utensil, and it uses your spellcasting modifier for ability checks made with it.
 
-***Eldritch Rations.*** When you finish a Long Rest, you can prepare a number of **special rations** up to your spellcasting modifier. A creature can take a **:rsc-b: Bonus Action**{ .rsc } to consume one of these **special rations** and it gains one of the following benefits:
+***Eldritch Rations.*** When you finish a **:rest-long: Long Rest**, you can prepare a number of **special rations** up to your spellcasting modifier. A creature can take a **:rsc-b: Bonus Action**{ .rsc } to consume one of these **special rations** and it gains one of the following benefits:
 
 :   ***Bolster.*** The creature chooses either Strength, Dexterity, or Constitution. For 1 minute, the creature can add your spellcasting modifier to any ability check or saving throws it makes with the chosen ability score.
 
@@ -123,7 +123,7 @@ You can cast [:spell-lv1: Grease] with a Warlock spell slot.
 
 ***Prerequisite:** Level 2+ Warlock, [Pact of the Chalice]*
 
-You can cast [:spell-lv2: Lesser Restoration] once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Long Rest.
+You can cast [:spell-lv2: Lesser Restoration] once without expending a spell slot. You regain the ability to cast it in this way again when you finish a **:rest-long: Long Rest**.
 
 ---
 
@@ -131,7 +131,7 @@ You can cast [:spell-lv2: Lesser Restoration] once without expending a spell slo
 
 ***Prerequisite:** Level 2+ Warlock, [Pact of the Hourglass]*
 
-You can cast [:spell-lv1: Gift of Alacrity](../../../spells/description/additional/dunamancy.md#gift-of-alacrity) once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Long Rest.
+You can cast [:spell-lv1: Gift of Alacrity](../../../spells/description/additional/dunamancy.md#gift-of-alacrity) once without expending a spell slot. You regain the ability to cast it in this way again when you finish a **:rest-long: Long Rest**.
 
 ---
 
@@ -141,7 +141,7 @@ You can cast [:spell-lv1: Gift of Alacrity](../../../spells/description/addition
 
 Choose one level 3 Cleric subclass feature that expend a use of Channel Divinity. A new page appears in your Book of Shadow detailing prayers of how to use that feature. You use your Warlock level and Spell save DC for Cleric level or Spell save DC.
 
-You can invoke this level 3 Cleric subclass feature once and you must finish a Short or Long rest before you can invoke it again.
+You can invoke this level 3 Cleric subclass feature once and you must finish a **:rest-short: Short** or **:rest-long: Long Rest** before you can invoke it again.
 
 ---
 
@@ -183,7 +183,7 @@ When you cast [:spell-lv1: Mage Armour] using [Armour of Shadow] Invocation, you
 
 ***Prerequisite:** Level 7+ Warlock, [Pact of the Chalice] *
 
-A creature of your choice can take a **:rsc-b: Bonus Action**{ .rsc } to drink from your Pact Chalice, gaining the effects of *Death Ward* spell. Once used, you must finish a Long Rest to use this feature again.
+A creature of your choice can take a **:rsc-b: Bonus Action**{ .rsc } to drink from your Pact Chalice, gaining the effects of *Death Ward* spell. Once used, you must finish a **:rest-long: Long Rest** to use this feature again.
 
 ---
 
@@ -191,7 +191,7 @@ A creature of your choice can take a **:rsc-b: Bonus Action**{ .rsc } to drink f
 
 ***Prerequisite:** Level 7+ Warlock, [Pact of the Hourglass]*
 
-You can cast [:spell-lv3: Haste] once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Short or Long Rest.
+You can cast [:spell-lv3: Haste] once without expending a spell slot. You regain the ability to cast it in this way again when you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
 ---
 
@@ -207,7 +207,7 @@ You can cast [:spell-lv4: Polymorph] with a Warlock spell slot.
 
 ***Prerequisite:** Level 9+ Warlock*
 
-You can cast [:spell-lv1: Charm Person] once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Long Rest.
+You can cast [:spell-lv1: Charm Person] once without expending a spell slot. You regain the ability to cast it in this way again when you finish a **:rest-long: Long Rest**.
 
 ---
 
@@ -217,7 +217,7 @@ You can cast [:spell-lv1: Charm Person] once without expending a spell slot. You
 
 When you finish your turn, you can take a **:rsc-r: Reaction**{ .rsc } to undo everything that happened on your turn. You return to the space you began that turn in and you regain all resources you expended. You can then immediately repeat your turn.
 
-Once you use this feature you must finish a Short or Long Rest before you can use it again.
+Once you use this feature you must finish a **:rest-short: Short** or **:rest-long: Long Rest** before you can use it again.
 
 ---
 

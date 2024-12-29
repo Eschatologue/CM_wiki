@@ -40,13 +40,13 @@ When you make your pact with the Archmage, you gain the following benefits:
 
 You can draw on the arcane power of your patron to shield yourself from harm. When a creature you can see hits you with an attack, you can use your **:rsc-r: Reaction**{ .rsc } to teleport up to 30 feet to an unoccupied space you can see, causing the attack to miss.
 
-Once you use this **:rsc-r: Reaction**{ .rsc } to evade an attack, you must finish a Short or Long Rest before you can use it again.
+Once you use this **:rsc-r: Reaction**{ .rsc } to evade an attack, you must finish a **:rest-short: Short** or **:rest-long: Long Rest** before you can use it again.
 
 ### Level 6: Arcane Savant
 
 Your patron grants you enhanced insight into the theories of arcane magic. You gain the following benefits:
 
-***Rapid Preparation.*** Each time you finish a Long Rest you can replace one Warlock spell you know of with another Warlock spell of your choice.
+***Rapid Preparation.*** Each time you finish a **:rest-long: Long Rest** you can replace one Warlock spell you know of with another Warlock spell of your choice.
 
 ***Expanded Spell List.*** Each time you gain a Warlock level, you can replace one Warlock spell you know of with one spell from the Wizard spell list.
 
@@ -56,7 +56,7 @@ Your understanding of the arcane allows you to resist magical effects, giving yo
 
 ***Resistance.*** You gain Resistance to :dmg-force: Force damage.
 
-***Change Save.*** WWhen you are forced to make a saving throw to resist a magical effect or a spell, you can make a Charisma saving throw instead of the normal save. You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+***Change Save.*** WWhen you are forced to make a saving throw to resist a magical effect or a spell, you can make a Charisma saving throw instead of the normal save. You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 ### Level 14: Improved Arcanum
 

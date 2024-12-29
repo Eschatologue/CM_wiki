@@ -41,7 +41,7 @@ The drone is friendly to you and your companions. It vanishes if it is destroyed
 
 ***Restoring or Replacing the Drone.*** If the drone has been destroyed within the last hour, you can use an action to repair it, expending a level 1+ spell slot. The drone returns to life with all its Hit Points restored after 1 minute.
 
-At the end of a Long Rest, you can construct a new drone, which appears in an unoccupied space within 5 feet of you. If you already have a drone from this feature, the old one is dismantled when the new one is created.
+At the end of a **:rest-long: Long Rest**, you can construct a new drone, which appears in an unoccupied space within 5 feet of you. If you already have a drone from this feature, the old one is dismantled when the new one is created.
 
 ### Level 6: Upgraded Drone
 
@@ -57,7 +57,7 @@ These following features function as long as you and the drone are within a rang
 
 *With the computational power of your spellbook and drone, you've discovered methods to enhance and modify your spells through advanced formulas.*
 
-You can use any of the following options, expending one use of this feature per activation to a maximum number of times equal to your Intelligence modifier, regaining all expended uses when you finish a Long Rest:
+You can use any of the following options, expending one use of this feature per activation to a maximum number of times equal to your Intelligence modifier, regaining all expended uses when you finish a **:rest-long: Long Rest**:
 
 ***Accelerated Ritual.*** You can cast a Wizard spell as a ritual using its normal casting time, rather than adding 10 minutes.
 
@@ -69,7 +69,7 @@ You can use any of the following options, expending one use of this feature per 
 
 *Your technological mastery allows you to enhance your control systems, enabling more complex operations with your drones.*
 
-***Extra Drone.*** At the end of a Long Rest, you can construct and control an additional drone. Both drones act on your turn, sharing the same Initiative count and following the same rules as your original drone. You can use the same **:rsc-b: Bonus Action**{ .rsc } to control both drones.
+***Extra Drone.*** At the end of a **:rest-long: Long Rest**, you can construct and control an additional drone. Both drones act on your turn, sharing the same Initiative count and following the same rules as your original drone. You can use the same **:rsc-b: Bonus Action**{ .rsc } to control both drones.
 
 ***Intercept Attack.*** When you are hit by an attack roll, you can use your **:rsc-r: Reaction**{ .rsc } to command a drone within 60 feet of you to intercept it. The drone immediately moves to an unoccupied space within 10 feet of you, and the attack is redirected to target the drone instead. You avoid all damage and effects associated with the attack.
 

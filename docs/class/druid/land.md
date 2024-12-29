@@ -14,7 +14,7 @@ The Circle of the Land comprises mystics and sages who safeguard ancient knowled
 
 ### Level 3: Circle of the Land Spells
 
-Whenever you finish a Long Rest, choose one type of land: arid, polar, temperate, or tropical. Consult the table below that corresponds to the chosen type; you have the spells listed for your Druid level and lower prepared.
+Whenever you finish a **:rest-long: Long Rest**, choose one type of land: arid, polar, temperate, or tropical. Consult the table below that corresponds to the chosen type; you have the spells listed for your Druid level and lower prepared.
 
 Here's the converted table:
 
@@ -33,9 +33,9 @@ As a **:rsc-a: Magic**{ .rsc } action, you can expend a use of your Wild Shape a
 The damage and healing increase by 1d6 when you reach Druid levels 10 (3d6) and 14 (4d6).
 
 ### Level 6: Natural Recovery
-You can cast one of the level 1+ spells that you have prepared from your Circle Spells feature without expending a spell slot, and you must finish a Long Rest before you do so again.
+You can cast one of the level 1+ spells that you have prepared from your Circle Spells feature without expending a spell slot, and you must finish a **:rest-long: Long Rest** before you do so again.
 
-In addition, when you finish a Short Rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your Druid level (round up), and none of them can be level 6+. For example, if you're a level 6 Druid, you can recover up to three levels' worth of spell slots. You can recover a level 3 spell slot, a level 2 and a level 1 spell slot, or three level 1 spell slots. Once you recover spell slots with this feature, you can't do so again until you finish a Long Rest.
+In addition, when you finish a **:rest-short: Short Rest**, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your Druid level (round up), and none of them can be level 6+. For example, if you're a level 6 Druid, you can recover up to three levels' worth of spell slots. You can recover a level 3 spell slot, a level 2 and a level 1 spell slot, or three level 1 spell slots. Once you recover spell slots with this feature, you can't do so again until you finish a **:rest-long: Long Rest**.
 
 ### Level 10: Nature's Ward
 You are immune to the Poisoned condition, and you have Resistance to a damage type associated with your current land choice in the Circle Spells feature, as shown in the Nature's Ward table.

@@ -53,12 +53,12 @@ You can manipulate the velocity of creatures and objects.
 
 ***Decrease Velocity.*** If a creature within 60 feet of you takes damage from a fall, you can use your **:rsc-r: Reaction**{ .rsc } to increase the fall's damage by 2d10.
 
-You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain all expended uses when you finish a Long Rest.
+You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 ### Level 14: Event Horizon
 
 As a **:rsc-a: Magic**{ .rsc } action, you can emit a powerful field of gravitational energy that tugs at other creatures for up to 1 minute or until your Concentration ends (as if you were Concentrating on a spell). For the duration, whenever a creature hostile to you starts its turn within 30 feet of you, it must make a Strength saving throw against your spell save DC. On a failed save, it takes 2d10 Force damage, and its Speed is reduced to 0 until the start of its next turn. On a successful save, it takes half as much damage, and every foot it moves this turn costs 2 extra feet of movement.
 
-Once you use this feature, you can't do so again until you finish a Long Rest or until you expend a spell slot of level 3 or higher to use it again.
+Once you use this feature, you can't do so again until you finish a **:rest-long: Long Rest** or until you expend a spell slot of level 3 or higher to use it again.
 
 ###### :material-book-arrow-up: Updated by *PerfectlyCircularSeal* :material-book-arrow-up: Modified by *Eschatologue*

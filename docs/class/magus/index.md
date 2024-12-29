@@ -83,7 +83,7 @@ As a Magus, you gain the following class features when you reach the specified M
 
 ### Level 1: Arcane Armoury
 
-You learn the signature enchantment of the Magi, marking you as a member of their ranks. Over the course of 1 hour, which can be during a Short or Long Rest, you can touch one melee weapon, shield, or set of armour to perform a ritual adding the item to your **Arcane Armoury**. Your Arcane Armoury is an extradimensional space that only its Magus can access.
+You learn the signature enchantment of the Magi, marking you as a member of their ranks. Over the course of 1 hour, which can be during a **:rest-short: Short** or **:rest-long: Long Rest**, you can touch one melee weapon, shield, or set of armour to perform a ritual adding the item to your **Arcane Armoury**. Your Arcane Armoury is an extradimensional space that only its Magus can access.
 
 Objects in your **Arcane Armoury** gain the following benefits:
 
@@ -115,7 +115,7 @@ Whenever you gain an Magus level, you can replace one of your cantrips with anot
 
 #### Spell Slots
 
-The Magus Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
+The Magus Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a **:rest-long: Long Rest**.
 
 #### Prepared Spells of Level 1+
 
@@ -127,7 +127,7 @@ If another Magus feature gives you spells that you always have prepared, those s
 
 #### Changing Your Prepared Spells
 
-Whenever you finish a Long Rest, you can replace one spell on your list with another Magus spell for which you have spell slots.
+Whenever you finish a **:rest-long: Long Rest**, you can replace one spell on your list with another Magus spell for which you have spell slots.
 
 #### Spellcasting Ability
 
@@ -160,9 +160,9 @@ If your attack misses, the spell fails and has no effect. On a hit, the spell ta
 
 ### Level 3: Arcane Regeneration
 
-You can meditate on your knowledge of the arcane to regenerate magic potential. When you finish a Short Rest, you can recover spell slots of a combined level equal to your Intelligence modifier. 
+You can meditate on your knowledge of the arcane to regenerate magic potential. When you finish a **:rest-short: Short Rest**, you can recover spell slots of a combined level equal to your Intelligence modifier. 
 
-Once you use this feature, you can't do so again until you finish a Long Rest.
+Once you use this feature, you can't do so again until you finish a **:rest-long: Long Rest**.
 
 ### Level 3: Magus Subclass
 
@@ -182,7 +182,7 @@ You can still only make one [Spellstrike] attack per turn.
 
 As a **:rsc-a: Magic**{ .rsc } action, you can awaken your senses to the presence of magic within 30 feet as if you had cast [:spell-lv1: Detect Magic]. While this sense is active, you can touch an object and gain knowledge as if you had cast [:spell-lv1: Identify]. This special sense requires your Concentration, and it lasts for 1 minute.
 
-You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 ### Level 6: Ethereal Jaunt
 

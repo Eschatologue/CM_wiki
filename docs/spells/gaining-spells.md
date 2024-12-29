@@ -14,16 +14,16 @@ If you have a list of level 1+ spells you prepare, your spellcasting feature spe
 
 | Class | Change When You... | Number of Spells |
 |---|---|:-:|
-| Artificer^TCE^ | Finish a Long Rest | Any |
+| Artificer^TCE^ | Finish a **:rest-long: Long Rest** | Any |
 | Bard | Gain a Level | One |
-| Cleric | Finish a Long Rest | Any |
-| Druid | Finish a Long Rest | Any |
-| Magus^LL^ | Finish a Long Rest | Any |
-| Paladin | Finish a Long Rest | One |
-| Ranger | Finish a Long Rest | One |
+| Cleric | Finish a **:rest-long: Long Rest** | Any |
+| Druid | Finish a **:rest-long: Long Rest** | Any |
+| Magus^LL^ | Finish a **:rest-long: Long Rest** | Any |
+| Paladin | Finish a **:rest-long: Long Rest** | One |
+| Ranger | Finish a **:rest-long: Long Rest** | One |
 | Sorcerer | Gain a Level | One |
 | Warlock | Gain a Level | One |
-| Wizard | Finish a Long Rest | Any |
+| Wizard | Finish a **:rest-long: Long Rest** | Any |
 
 Most spellcasting monsters don't change their lists of prepared spells, but the DM is free to alter them.
 

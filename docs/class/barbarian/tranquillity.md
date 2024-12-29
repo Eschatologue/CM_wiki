@@ -23,7 +23,7 @@ You learn two different Manoeuvre of your choice from the "[Manoeuvre Options]" 
 
 #### Superiority Dice
 
-You have three Superiority Dice, which are :die-d6: d6s. A Superiority Die is expended when you use it. You regain all expended Superiority Dice when you finish a Short Rest or Long Rest.
+You have three Superiority Dice, which are :die-d6: d6s. A Superiority Die is expended when you use it. You regain all expended Superiority Dice when you finish a **:rest-short: Short Rest** or Long Rest.
 
 #### Saving Throws
 

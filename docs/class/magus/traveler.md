@@ -35,7 +35,7 @@ When you reach a Magus level specified in the Traveler Spells table, you thereaf
 
 Whenever you fail a D20 Test, you can take a **:rsc-r: Reaction**{ .rsc } to re-roll your d20. You must use this new result.
 
-You can use this feature a number of times equal to your Intelligence modifier (a minimum of once) and regain all expended use when you finish a Long Rest. You can also restore all usage by expending a level 1+ spell slot (no action required).
+You can use this feature a number of times equal to your Intelligence modifier (a minimum of once) and regain all expended use when you finish a **:rest-long: Long Rest**. You can also restore all usage by expending a level 1+ spell slot (no action required).
 
 ### Level 3: Visions of the Past
 
@@ -79,7 +79,7 @@ Only one **Future Self** can exist at a time. Summoning a new one ends the previ
 
 As a **:rsc-a: Magic**{ .rsc } action, you can cast a modified version of the [:spell-lv9: Time Stop] spell where you and your **Future Self** can both act, but you each only get one additional turn.
 
-Once you use this feature you must finish a Long Rest before you can cast this modified version of [:spell-lv9: Time Stop] again. You can also restore your use of it by expending a level 5 spell slot (no action required).
+Once you use this feature you must finish a **:rest-long: Long Rest** before you can cast this modified version of [:spell-lv9: Time Stop] again. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 [Temporal Shift]: #level-3-temporal-shift 
 

@@ -37,7 +37,7 @@ The time you must spend to copy any spell of a level equal to half your Proficie
 
 As a **:rsc-a: Magic**{ .rsc } action, you can cast any spell that is :spell-lv2: level 2 or lower from your spellbook, even if you don't have the spell prepared, expending the appropriate spell slot. The spell must have a casting time of action.
 
-You can cast a spell in this way a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.
+You can cast a spell in this way a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 As you gain levels in this class, you can cast more powerful spells with this feature: :spell-lv3: level 3 spells at level 10, :spell-lv4: level 4 spells at level 14, and finally :spell-lv5: level 5 spells at level 18.
 

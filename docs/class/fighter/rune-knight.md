@@ -21,7 +21,7 @@ You can use magic runes to enhance your gear.
 
 ***Learning Runes.*** You learn two Runes of your choice, from among the Runes described below, and each time you gain a level in this class, you can replace one Rune you know with a different one from this feature. You learn an additional Rune when you reach certain levels in this class: level 7 (3 uses), level 10 (4 uses) and level 15 (5 uses).
 
-***Inscribing Runes.*** Whenever you finish a Long Rest, you can touch a number of objects equal to the number of Runes you know, and you inscribe a different Rune onto each of the objects. To be eligible, an object must be a Weapon, a suit of Armor, a Shield, a piece of jewelry, or something else you can wear or hold in a hand. Your Rune remains on an object until you finish a Long Rest, and an object can bear only one of your Runes at a time. A Rune can be invoked for an effect detailed in its description, once you do so, you can't invoke the same Rune again until you finish a Short or Long Rest.
+***Inscribing Runes.*** Whenever you finish a **:rest-long: Long Rest**, you can touch a number of objects equal to the number of Runes you know, and you inscribe a different Rune onto each of the objects. To be eligible, an object must be a Weapon, a suit of Armor, a Shield, a piece of jewelry, or something else you can wear or hold in a hand. Your Rune remains on an object until you finish a **:rest-long: Long Rest**, and an object can bear only one of your Runes at a time. A Rune can be invoked for an effect detailed in its description, once you do so, you can't invoke the same Rune again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
 The following Runes are available to you when you learn a Rune. If a Rune has a level requirement, you must be at least that level in this class to learn the Rune. If a Rune requires a saving throw, your Rune Magic save DC equals 8 plus your Proficiency Bonus plus your Constitution modifier.
 
@@ -64,11 +64,11 @@ You have learned how to imbue yourself with the might of giants. As a **:rsc-b: 
 
 ***Gigantic Force.*** Once per turn, when you make an attack you deal an extra 1d6 damage to a target on a hit.
 
-You can use this feature a number of times equal to your Constitution modifier (minimum of 1), and you regain all expended uses of it when you finish a Long Rest.
+You can use this feature a number of times equal to your Constitution modifier (minimum of 1), and you regain all expended uses of it when you finish a **:rest-long: Long Rest**.
 
 ### Level 7: Runic Shield
 
-You learn to invoke your rune magic to protect your allies. When another creature you can see within 60 feet of you is hit by an attack, you can use your **:rsc-r: Reaction**{ .rsc } to force the attacker to reroll the d20 and use the new roll. You can use this feature a number of times equal to your Constitution modifier (minimum of 1), and you regain all expended uses when you finish a Long Rest.
+You learn to invoke your rune magic to protect your allies. When another creature you can see within 60 feet of you is hit by an attack, you can use your **:rsc-r: Reaction**{ .rsc } to force the attacker to reroll the d20 and use the new roll. You can use this feature a number of times equal to your Constitution modifier (minimum of 1), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 ### Level 10: Great Stature
 
@@ -80,7 +80,7 @@ The magic of your runes permanently alters you.
 
 ### Level 15: Master of Runes
 
-You can invoke each Rune you know from your Rune Carver feature twice, rather than once, and you regain all expended uses when you finish a Short or Long Rest.
+You can invoke each Rune you know from your Rune Carver feature twice, rather than once, and you regain all expended uses when you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
 ### Level 18: Runic Juggernaut
 

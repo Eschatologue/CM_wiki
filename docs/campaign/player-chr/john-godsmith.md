@@ -14,7 +14,7 @@ Your name, your family, and your tribe all converge at a singular point in histo
 
 ### Level 1: The Joy of Fishing
 
-Memories from somewhere beyond *somehow* gives you Proficiency with [Fishing Supplies](../../equipment/tools/other-tools.md#fishings-supplies) if you don't already have it. Moreover, when you don't have Fishing Supplies, you can spend 1 hour and 150 SP worth of material to create one. This can be done as part of a Short Rest.
+Memories from somewhere beyond *somehow* gives you Proficiency with [Fishing Supplies](../../equipment/tools/other-tools.md#fishings-supplies) if you don't already have it. Moreover, when you don't have Fishing Supplies, you can spend 1 hour and 150 SP worth of material to create one. This can be done as part of a **:rest-short: Short Rest**.
 
 ### Level 3: Heaven's Maledict
 
@@ -42,7 +42,7 @@ If a Maledict Die Powers does damage, it is equals to the number of dice rolled 
 
 Some of your powers expend the Maledict Die, as specified in a power's description. When you use a power that uses a ^^Maledict Die^^ while you have none remaining, you take :dmg-necr: Necrotic damage equals to the roll result, you have to roll the die even if the power itself doesn't call for rolling. 
 
-You regain all of them when you finish a Long Rest.
+You regain all of them when you finish a **:rest-long: Long Rest**.
 
 #### Maledict Die Powers
 

@@ -49,7 +49,7 @@ You gian the following benefits:
 
 ***Constitution Save.*** You gain proficiency in Constitution saving throws. If you already have this proficiency, you instead gain proficiency in Wisdom or Charisma saving throw.
 
-***Spike Growth.*** You can cast the [:spell-lv2: Spike Growth] without expending a Spell Slot at its lowest level. You can use this feature a number of times up to your Wisdom modifier. You regain all expended use after a Long Rest. Moreover, the creature you choose up to your Wisdom modifier is not affected by this spell.
+***Spike Growth.*** You can cast the [:spell-lv2: Spike Growth] without expending a Spell Slot at its lowest level. You can use this feature a number of times up to your Wisdom modifier. You regain all expended use after a **:rest-long: Long Rest**. Moreover, the creature you choose up to your Wisdom modifier is not affected by this spell.
 
 ### Level 11: Rooted Defense
 
@@ -65,7 +65,7 @@ Once during your turn, You can command it to move up to 30 feet (No action requi
 
 ***Guardian Aura.*** While in the aura, you and your allies have Advantage on all saving throws against spells. Additionally, At the start of each of your or your allies turn, regain 2d6 Hit Points.
 
-Once you use this feature, you can't use it again until you finish a long rest. You can also restore your use of it by expending a level 4 spell slot.
+Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. You can also restore your use of it by expending a level 4 spell slot.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 

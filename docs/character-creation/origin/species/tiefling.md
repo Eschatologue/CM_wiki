@@ -22,7 +22,7 @@ You have Darkvision with a range of 60 feet.
 
 You are the recipient of a legacy that grants you supernatural abilities. Choose a legacy from the Fiendish Legacies table. You gain the level 1 benefit of the chosen legacy.
 
-When you reach characyer levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without expending a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have of the apporpriate level.
+When you reach characyer levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without expending a spell slot, and you regain the ability to cast it in that way when you finish a **:rest-long: Long Rest**. You can also cast the spell using any spell slots you have of the apporpriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the legacy)
 

@@ -39,7 +39,7 @@ Your fists becomes devastating to whoever at the receiving end. Your Unarmed Str
 
 ***Concussion.*** When you hit a creature with an Unarmed Strike, you can force it to make a Constitution saving throw (DC = 8 + Prof. Bonus + Str. modifier). On a failure, it has the ^^Stunned^^ condition until the start of your next turn. On a success, its Speed is halved until the start of your next turn, and the next attack against it has :d20-adv: Advantage.
 
-You can use this class feature a number of times equal to your Strength modifier (a minimum of once), and you regain all expended uses when you finish a Short or Long Rest.
+You can use this class feature a number of times equal to your Strength modifier (a minimum of once), and you regain all expended uses when you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
 ### Level 10: Crushing Strength
 

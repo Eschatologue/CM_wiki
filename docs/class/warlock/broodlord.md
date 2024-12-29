@@ -28,7 +28,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 As an **:rsc-a: Action**{ .rsc }, choose an area you can see within 60 feet, your patron's brood gathers in the area in a 10-foot cube. You can move the swarm up to 30 feet during your turn (no action required). Whenever the Brood Swarm moves within a creature's space you can see and whenever a creature you can see enters the Brood Swarm's space or ends its turn there, you can force that creature to make a Dexterity saving throw. On a failed save, the creature takes 2d10 :dmg-posn: Poison damage or takes only half damage on a successful save. A creature makes this save only once per turn.
 
-This feature lasts for 1 minute or until you end it early (no action required). you can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+This feature lasts for 1 minute or until you end it early (no action required). you can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 ### Level 6: Venomous Gift
 
@@ -52,7 +52,7 @@ You are always under the effect of the *Spider Climb* spell. As a **:rsc-b: Bonu
 
 ***Writhing Tide.*** When you transform or use the *Protect the Hive* feature, you can gain Temporary Hit Points equal to your Warlock level. 
 
-Once you use this feature, you can't use it again until you finish a Long Rest unless you expend a Pact Magic spell slot (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest** unless you expend a Pact Magic spell slot (no action required) to restore your use of it.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 

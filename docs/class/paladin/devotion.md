@@ -51,7 +51,7 @@ Your magical smite now radiates protective energy. Whenever you cast Divine Smit
 
 ### Level 20: Holy Nimbus
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can imbue your Aura of Protection with holy power, granting the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending a level 5 spell slot (no action required).
+As a **:rsc-b: Bonus Action**{ .rsc }, you can imbue your Aura of Protection with holy power, granting the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 ***Holy Ward.*** You have Advantage on any saving throw you are forced to make by a Fiend or an Undead.
 

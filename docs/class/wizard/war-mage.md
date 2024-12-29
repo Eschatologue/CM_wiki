@@ -33,7 +33,7 @@ You can store magical energy within yourself to later empower your damaging spel
 
 ***Free Preparations.*** You add the [:spell-lv3: Counterspell] and [:spell-lv3: Dispel Magic] spells to your spellbook for free, if they weren't there already, and you always have them prepared.
 
-***Number of Power Surges.*** You can store a maximum number of Power Surges equal to your Intelligence modifier (minimum of one). Whenever you finish a Long Rest, your number of Power Surges resets to one. If you end a Short Rest with no power surges, you gain one Power surge.
+***Number of Power Surges.*** You can store a maximum number of Power Surges equal to your Intelligence modifier (minimum of one). Whenever you finish a **:rest-long: Long Rest**, your number of Power Surges resets to one. If you end a **:rest-short: Short Rest** with no power surges, you gain one Power surge.
 
 ***Gaining Power Surges.*** Whenever you successfully end a spell with [:spell-lv3: Dispel Magic] or [:spell-lv3: Counterspell], you gain one Power Surge, as you steal magic from the spell you foiled. You also gain one Power Surge when you reduce a creature to 0 Hit Points with a Wizard spell that used a spell slot, but only once per casting. 
 

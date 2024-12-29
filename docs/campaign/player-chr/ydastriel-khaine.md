@@ -24,7 +24,7 @@ Your growing understanding of the Spires and their role in Antares has granted y
 
 When you enter your Starry Form, or as a **:rsc-b: Bonus Action**{ .rsc } thereafter, you can enhance its abilities by choosing one of the following Resonances. Each Resonance boosts a specific aspect of your Starry Form.
 
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and regain all expended uses after a Long Rest. Alternatively, you can regain all expended uses by expending one use of Wild Shape (no action required). 
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and regain all expended uses after a **:rest-long: Long Rest**. Alternatively, you can regain all expended uses by expending one use of Wild Shape (no action required). 
 
 #### Resonance of Destruction
 

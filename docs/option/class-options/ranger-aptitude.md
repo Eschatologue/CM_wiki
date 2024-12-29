@@ -91,7 +91,7 @@ You learn how to utilise divine magic. When you hit the target of your [:spell-l
 
 _**Prerequisite:** Level 3+ Ranger_
 
-During a Short Rest, you can recover spell slots of a combined level equal to your Wisdom modifier. Once you do, you must finish a Long Rest before you can use this feature again.
+During a **:rest-short: Short Rest**, you can recover spell slots of a combined level equal to your Wisdom modifier. Once you do, you must finish a **:rest-long: Long Rest** before you can use this feature again.
 
 ---
 

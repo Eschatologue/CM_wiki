@@ -25,7 +25,7 @@ The guardian spirits that aid you can provide supernatural protection to those y
 
 ### Level 10: Consult the Spirits
 
-You gain the ability to consult with your ancestral spirits. You can cast the [:spell-lv2: Augury](../../spells/description/core/level-2.md#augury) or [:spell-lv2: Clairvoyance](../../spells/description/core/level-3.md#clairvoyance) spell without using a spell slot or material components. :ability-wis: Wisdom is your spellcasting ability for these spells. After you cast either spell in this way, you can't do so again until you finish a Short or Long Rest.
+You gain the ability to consult with your ancestral spirits. You can cast the [:spell-lv2: Augury](../../spells/description/core/level-2.md#augury) or [:spell-lv2: Clairvoyance](../../spells/description/core/level-3.md#clairvoyance) spell without using a spell slot or material components. :ability-wis: Wisdom is your spellcasting ability for these spells. After you cast either spell in this way, you can't do so again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
 ### Level 14: Vengeful Ancestors
 

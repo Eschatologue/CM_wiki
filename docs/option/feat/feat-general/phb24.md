@@ -81,10 +81,10 @@ You gain the following benefits.
 Increase your Constitution or Wisdom score by 1, to a maximum of 20.
 
 **Replenishing Meal**  
-As part of a Short Rest, you can cook special food if you have ingredients and Cook's Utensils on hand. You can prepare enough of this food for a number of creatures equal to 4 plus your Proficiency Bonus. At the end of the Short Rest, any creature who eats the food and spends one or more Hit Dice to regain Hit Points regains an extra 1d8 Hit Points.
+As part of a **:rest-short: Short Rest**, you can cook special food if you have ingredients and Cook's Utensils on hand. You can prepare enough of this food for a number of creatures equal to 4 plus your Proficiency Bonus. At the end of the **:rest-short: Short Rest**, any creature who eats the food and spends one or more Hit Dice to regain Hit Points regains an extra 1d8 Hit Points.
 
 **Bolstering Treats**  
-With 1 hour of work or when you finish a Long Rest, you can cook a number of treats equal to your Proficiency Bonus if you have ingredients and Cook's Utensils on hand. These special treats last 8 hours after being made. A creature can use a **:rsc-b: Bonus Action**{ .rsc } to eat one of those treats to gain a number of Temporary Hit Points equal to your Proficiency Bonus.
+With 1 hour of work or when you finish a **:rest-long: Long Rest**, you can cook a number of treats equal to your Proficiency Bonus if you have ingredients and Cook's Utensils on hand. These special treats last 8 hours after being made. A creature can use a **:rsc-b: Bonus Action**{ .rsc } to eat one of those treats to gain a number of Temporary Hit Points equal to your Proficiency Bonus.
 
 ---
 
@@ -200,7 +200,7 @@ Your exposure to the Feywild's magic has changed you, granting you the following
 Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
 
 **Fey Magic**  
-Choone one level 1 spell from the Divination or Enchantment school of magic. You always have that and the *Misty Step* spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
+Choone one level 1 spell from the Divination or Enchantment school of magic. You always have that and the *Misty Step* spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a **:rest-long: Long Rest**. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
 
 ---
 
@@ -279,7 +279,7 @@ You gain the following benefits.
 Increase your Wisdom or Charisma score by 1, to a maximum of 20.
 
 **Bolstering Performance**  
-When you finish a Short Rest or a Long Rest, you can give an inspiring performance: a speech, song, or dance. When you do so, choose up to six allies (which can include yourself) within 30 feet of yourself who witness the performance. The chosen creatures each gain Temporary Hit Points equal to your character level plus the modifier of the ability you increased with this feat.
+When you finish a **:rest-short: Short Rest** or a **:rest-long: Long Rest**, you can give an inspiring performance: a speech, song, or dance. When you do so, choose up to six allies (which can include yourself) within 30 feet of yourself who witness the performance. The chosen creatures each gain Temporary Hit Points equal to your character level plus the modifier of the ability you increased with this feat.
 
 ---
 
@@ -323,7 +323,7 @@ Increase your Strength or Dexterity score by 1, to a maximum of 20.
 When you damage a creature that is concentrating, it has Disadvantage on the saving throw it makes to maintain Concentration.
 
 **Guarded Mind**  
-If you fail an Intelligence, a Wisdom, or a Charisma saving throw, you can cause yourself to succeed instead. Once you use this benefit, you can't use it again until you finish a Short or Long Rest.
+If you fail an Intelligence, a Wisdom, or a Charisma saving throw, you can cause yourself to succeed instead. Once you use this benefit, you can't use it again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
 ---
 
@@ -483,7 +483,7 @@ Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
 Choose a number of level 1 spells equal to your Proficiency Bonus that have the Ritual tag. You always have those spells prepared, and you can cast them with any spell slots you have. The spells' spellcasting ability is the ability increased by this feat. Whenever your Proficiency Bonus increases thereafter, you can add an additional level 1 spell with the Ritual tag to the spells always prepared with this feature.
 
 **Quick Ritual**  
-With this benefit, you can cast a Ritual spell that you have prepared using its regular casting time rather than the extended time for a Ritual. Doing so doesn't require a spell slot. Once you cast the spell in this way, you can't use this benefit again until you finish a Long Rest.
+With this benefit, you can cast a Ritual spell that you have prepared using its regular casting time rather than the extended time for a Ritual. Doing so doesn't require a spell slot. Once you cast the spell in this way, you can't use this benefit again until you finish a **:rest-long: Long Rest**.
 
 ---
 
@@ -514,7 +514,7 @@ You gain the following benefits.
 Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
 
 **Shadow Magic**  
-Choone one level 1 spell from the Illusion or Necromancy school of magic. You always have that spell and the *Invisibility* spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
+Choone one level 1 spell from the Illusion or Necromancy school of magic. You always have that spell and the *Invisibility* spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a **:rest-long: Long Rest**. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
 
 ---
 
@@ -676,7 +676,7 @@ Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
 You can speak telepathically to any creature you can see within 60 feet of you. Your telepathic utterances are in a language you know, and the creature understands you only if it knows that language. Your communication doesn't give the creature the ability to respond to you telepathically.
 
 **Telepathic Uttrance**  
-You can cast the Detect Thoughts spell, requiring no spell slot or components, and you must finish a Long Rest before you can cast it this way again. You can also cast it using spell slots you have of the appropriate level. Your spellcasting ability for the spell is the ability increased by this feat.
+You can cast the Detect Thoughts spell, requiring no spell slot or components, and you must finish a **:rest-long: Long Rest** before you can cast it this way again. You can also cast it using spell slots you have of the appropriate level. Your spellcasting ability for the spell is the ability increased by this feat.
 
 ---
 
@@ -710,6 +710,6 @@ You gain the following benefits.
 Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
 **Mastery Property**  
-Your training with weapons allows you to use the mastery property of one kind of Simple or Martial weapon of your choice, provided you are proficient with it. Whenever you finish a Long Rest, you can change the kind of weapon to another eligible kind or change the weapon's mastery property to other eligible kind.
+Your training with weapons allows you to use the mastery property of one kind of Simple or Martial weapon of your choice, provided you are proficient with it. Whenever you finish a **:rest-long: Long Rest**, you can change the kind of weapon to another eligible kind or change the weapon's mastery property to other eligible kind.
 
 ---

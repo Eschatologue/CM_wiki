@@ -49,7 +49,7 @@ Your tinkering has borne you a companion, a steel defender. It's friendly to you
 
 ***Repairing or Replacing the Defender.*** If the [:spell-lv0: Mending] spell is cast on the Defender, it regains 2d6 Hit Points. If it has died within the last hour, you can use your Smith's Tools as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of level 1 or higher. The Steel Defender returns to life after 1 minute with all its Hit Points restored.
 
-At the end of a Long Rest, you can create a new Steel Defender if you have Smith's Tools with you. If you already have a Defender from this feature, the first one immediately perishes. The Defender also perishes if you die.
+At the end of a **:rest-long: Long Rest**, you can create a new Steel Defender if you have Smith's Tools with you. If you already have a Defender from this feature, the first one immediately perishes. The Defender also perishes if you die.
 
 ### Level 5: Extra Attack
 
@@ -65,7 +65,7 @@ You've learned new ways to channel arcane energy to harm or heal. Once per turn 
 
 ***Healing Jolt.*** Choose one creature or object you can see within 30 feet of the target. Healing energy flows into the chosen recipient, restoring 2d6 Hit Points to it.
 
-You can use this energy a number of times equal to your Intelligence modifier (minimum of once), but you can do so no more than once on a turn. You regain all expended uses when you finish a long rest.
+You can use this energy a number of times equal to your Intelligence modifier (minimum of once), but you can do so no more than once on a turn. You regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 ### Level 15: Improved Defender
 

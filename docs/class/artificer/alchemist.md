@@ -33,13 +33,13 @@ You always have certain spells prepared after you reach particular levels in thi
 
 You have learned to produce magical potions called Experimental Elixirs, which sometimes have random effects:
 
-***Random Elixirs.*** Whenever you finish a Short or Long Rest, you can magically produce an Elixir in an empty flask you touch. Roll on the Experimental Elixir table for the elixir's effect, which is triggered when someone drinks the elixir. The number of Elixirs you can make in this way increases to two at level 10, rolling for each elixir separately, and containing each in its own flask.  
+***Random Elixirs.*** Whenever you finish a **:rest-short: Short** or **:rest-long: Long Rest**, you can magically produce an Elixir in an empty flask you touch. Roll on the Experimental Elixir table for the elixir's effect, which is triggered when someone drinks the elixir. The number of Elixirs you can make in this way increases to two at level 10, rolling for each elixir separately, and containing each in its own flask.  
 
-***Controlled Elixirs.*** As a **:rsc-a: Magic**{ .rsc } action, you can produce one Elixir in a flask you touch. Instead of rolling, you choose the desired effect from the Experimental Elixir table. You can do this once per Short Rest.  
+***Controlled Elixirs.*** As a **:rsc-a: Magic**{ .rsc } action, you can produce one Elixir in a flask you touch. Instead of rolling, you choose the desired effect from the Experimental Elixir table. You can do this once per **:rest-short: Short Rest**.  
 
 ***Drinking and Administering Elixirs.*** As a **:rsc-b: Bonus Action**{ .rsc }, a creature can drink the elixir or administer it to an Incapacitated creature.
 
-***Alchemical Limitations.*** Creating an Experimental Elixir requires you to have alchemist's supplies on your person, and any Elixir you create with this feature lasts until it is drunk or until the end of your next Short or Long Rest.
+***Alchemical Limitations.*** Creating an Experimental Elixir requires you to have alchemist's supplies on your person, and any Elixir you create with this feature lasts until it is drunk or until the end of your next **:rest-short: Short** or **:rest-long: Long Rest**.
 
 ##### Experimental Elixir Table
 
@@ -76,7 +76,7 @@ You can incorporate restorative reagents into some of your works:
 
 ***Fortifying Elixirs.*** Whenever a creature drinks an experimental elixir you created, the creature gains Temporary Hit Points equal to 2d6 + your Intelligence modifier (minimum of 1 Temporary Hit Point).
 
-***Lesser Restoration.*** You always have the [:spell-lv2: Lesser Restoration] spell prepared, and you cast it without expending a spell slot, provided you use Alchemist's Supplies as the spellcasting focus. You can do so a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+***Lesser Restoration.*** You always have the [:spell-lv2: Lesser Restoration] spell prepared, and you cast it without expending a spell slot, provided you use Alchemist's Supplies as the spellcasting focus. You can do so a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 ### Level 15: Chemical Mastery
 
@@ -84,7 +84,7 @@ You have been exposed to so many chemicals that they pose little risk to you, an
 
 ***Chemical Resistance.*** You gain Resistance to Acid damage and Poison damage, and you have immunity to the Poisoned condition.
 
-***Mastered Alchemy.*** You can cast the [:spell-lv5: Greater Restoration] and [:spell-lv6: Tasha's Bubbling Cauldron] spells without expending a spell slot, without preparing the spell, and without material components, provided you use Alchemist's Supplies as the spellcasting focus. Once you cast either spell with this feature, you can't cast that spell with it again until you finish a Long Rest.
+***Mastered Alchemy.*** You can cast the [:spell-lv5: Greater Restoration] and [:spell-lv6: Tasha's Bubbling Cauldron] spells without expending a spell slot, without preparing the spell, and without material components, provided you use Alchemist's Supplies as the spellcasting focus. Once you cast either spell with this feature, you can't cast that spell with it again until you finish a **:rest-long: Long Rest**.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 --8<-- "includes/snippets/spells2/lv6.md"

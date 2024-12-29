@@ -36,11 +36,11 @@ As a **:rsc-a: Magic**{ .rsc } action, you present your Holy Symbol and expend a
 
 When a creature that you can see within 30 feet of yourself makes an attack eoll, you can take a **:rsc-r: Reaction**{ .rsc } to impose Disadvantage on the attack roll, causing a light to flare before it hits or misses.
 
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a Long Rest.
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 ### Level 6: Improved Warding Flare
 
-You regain all expended use of your Warding Flare when you finish a Short or Long Rest.
+You regain all expended use of your Warding Flare when you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
 In addition, whenever you use Warding Flare, you can give thet arger of the triggering attack a number of Temporary Hit Points equal to 2d6 plus your Wisdom Modifier.
 
@@ -48,6 +48,6 @@ In addition, whenever you use Warding Flare, you can give thet arger of the trig
 
 As a **:rsc-a: Magic**{ .rsc } action, you cause yourself to emit an aura of sunlight that lasts for 1 minute or until you dismiss it (no action required). You emit Bright Light in a 60-foot radius and Dim Light for an additional 30 feet. Your enemies in the Bright Light have Disadvantage on saving throws against your Radiance of the Dawn and any spell that deals Fire or Radiant damage.
 
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a Long Rest.
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"

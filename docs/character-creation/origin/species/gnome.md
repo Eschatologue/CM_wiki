@@ -28,12 +28,14 @@ You are part of a lineage that grants you supernatural abilities. Choose one of 
 
 #### Forest Gnome
 
-You know the *Minor Illusion* cantrip. You also always have the *Speak with Animals* spell prepared. You can cast it without a spell slot a number of times equal your Proficiency Bonus, and you regain all expended use when you finish a Long Rest. You can also use any spell slots you have to cast the spell.
+You know the [:spell-lv0: Minor Illusion] cantrip. You also always have the [:spell-lv1: Speak with Animals] spell prepared. You can cast it without a spell slot a number of times equal your Proficiency Bonus, and you regain all expended use when you finish a **:rest-long: Long Rest**. You can also use any spell slots you have to cast the spell.
 
 #### Rock Gnome
 
-You know the *Mending* and *Prestidigitation* cantrips. 
+You know the [:spell-lv0: Mending] and [:spell-lv0: Prestidigitation] cantrips. 
 
-Additionally, you can spend 10 minutes using *Prestidigitation* to create a tiny clockwork device (AC 5, 1 HP), such as a toy, fire starter, or music box. The device mimics one *Prestidigitation* effect, which activates when you or another creature uses a **:rsc-b: Bonus Action**{ .rsc } to touch it. If the effect has options (e.g. igniting or extinguishing a fire), you choose which option when you create the device.
+Additionally, you can spend 10 minutes using [:spell-lv0: Prestidigitation] to create a tiny clockwork device (AC 5, 1 HP), such as a toy, fire starter, or music box. The device mimics one [:spell-lv0: Prestidigitation] effect, which activates when you or another creature uses a **:rsc-b: Bonus Action**{ .rsc } to touch it. If the effect has options (e.g. igniting or extinguishing a fire), you choose which option when you create the device.
 
-You can have up to three devices at a time. Each device lasts 8 hours or until you dismantle it using Utilise action.
+You can have up to three devices at a time. Each device lasts 8 hours or until you dismantle it using **:rsc-a: Utilise**{ .rsc } action.
+
+--8<-- "includes\snippets\spells3\lv0-5.md"

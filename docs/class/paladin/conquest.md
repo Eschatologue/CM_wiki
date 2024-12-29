@@ -59,7 +59,7 @@ You gain the ability to harness extraordinary martial prowess. As a **:rsc-b: Bo
 
 ***Brutal Attacks.*** Your melee weapon attacks score a critical hit on a roll of 19 or 20 on the d20.
 
-Once you use this feature, you can’t use it again until you finish a long rest, or you expend a level 5 spell slot to use it again.
+Once you use this feature, you can’t use it again until you finish a **:rest-long: Long Rest**, or you expend a level 5 spell slot to use it again.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 

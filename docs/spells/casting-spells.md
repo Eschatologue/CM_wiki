@@ -16,7 +16,7 @@ Spellcasting is taxing, so a spellcaster can cast only a limited number of level
 
 When you cast a spell, you expend a slot of that spell's level or higher, effectively “filling” a slot with the spell. Imagine a spell slot is a groove of a certain size—small for a level 1 slot and larger for a higher-level spell. A level 1 spell fits into a slot of any size, but a level 2 spell fits only into a slot that's at least level 2. So when a level 3 Wizard casts Magic Missile, a level 1 spell, that Wizard spends one of four level 1 slots and has three remaining.
 
-Finishing a Long Rest restores any expended spell slots.
+Finishing a **:rest-long: Long Rest** restores any expended spell slots.
 
 ## Casting without Slots
 

@@ -128,7 +128,7 @@ You receive an omen from an otherworldly entity about the results of a course of
 
 The spell doesn't account for circumstances, such as other spells, that might change the results.
 
-If you cast the spell more than once before finishing a Long Rest, there is a cumulative 25 percent chance for each casting after the first that you get no answer.
+If you cast the spell more than once before finishing a **:rest-long: Long Rest**, there is a cumulative 25 percent chance for each casting after the first that you get no answer.
 
 > **Classes:** Cleric, Druid, Wizard
 
@@ -917,7 +917,7 @@ An affected target can even take damage from the illusion if the phantasm repres
 **Components:** V  
 **Duration:** Instantaneous
 
-Up to five creatures of your choice who remain within range for the spell's entire casting gain the benefits of a Short Rest and also regain 2d8 Hit Points. A creature can't be affected by this spell again until that creature finishes a Long Rest.
+Up to five creatures of your choice who remain within range for the spell's entire casting gain the benefits of a **:rest-short: Short Rest** and also regain 2d8 Hit Points. A creature can't be affected by this spell again until that creature finishes a **:rest-long: Long Rest**.
 
 ***Using a Higher-Level Spell Slot.*** The healing increases by 1d8 for each spell slot level above 2.
 

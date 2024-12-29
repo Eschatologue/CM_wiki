@@ -71,11 +71,11 @@ Moreover, you and your allies gain the benefit of Half Cover while within the au
 
 When a hostile creaure ends their turn within your Aura of Protection, you can take a :rsc-r: Reactions to move up to half of your Speed, without provoking Opportunity Attack and make a Ranged weapon attack using a Heavy Archer weapon at the creature.
 
-You can use this feature a number of time equals to your :ability-cha: Charisma modifier (minimum of once). You regain all expended uses whenever you finish a Long Rest.
+You can use this feature a number of time equals to your :ability-cha: Charisma modifier (minimum of once). You regain all expended uses whenever you finish a **:rest-long: Long Rest**.
 
 ### Level 20: Hold the Line
 
-You become an unyielding bulwark, turning aside threats and protecting those within your shielded presence. As a **:rsc-b: Bonus Action**{ .rsc }, you gain the following benefits for 10 minutes. Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending a level 5 spell slot (no action required).
+You become an unyielding bulwark, turning aside threats and protecting those within your shielded presence. As a **:rsc-b: Bonus Action**{ .rsc }, you gain the following benefits for 10 minutes. Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 ***Truesight***. You gain *Truesight* with a range of 120 feet.
 

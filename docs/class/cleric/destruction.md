@@ -38,7 +38,7 @@ As a **:rsc-a: Magic**{ .rsc } action, you can use your :class-phb24-cleric: **C
 
 ***Damage.*** When a creature you choose enters the aura for the first time on its turn or starts its turn there, you can roll a number of d4s equal to your Wisdom modifier (minimum of 1d4) and add the rolls together. It takes :dmg-radi: Radiant damage equal to the roll result. A creature can only take this damage once per turn.
 
-***Gravitational Shift.*** You can use your **:rsc-b: Bonus Action**{ .rsc } to manipulate the energies within the aura to push or pull creatures. You can choose a number of creatures up to your Wisdom modifier (minimum of one) that are Large or smaller within the aura and either push them up to 5 feet away from you or pull them 5 feet closer to you. This movement does not provoke opportunity attacks. You can do this a number of time equal to your Wisdom modifier. You regain all expended use when you finish a Long Rest.
+***Gravitational Shift.*** You can use your **:rsc-b: Bonus Action**{ .rsc } to manipulate the energies within the aura to push or pull creatures. You can choose a number of creatures up to your Wisdom modifier (minimum of one) that are Large or smaller within the aura and either push them up to 5 feet away from you or pull them 5 feet closer to you. This movement does not provoke opportunity attacks. You can do this a number of time equal to your Wisdom modifier. You regain all expended use when you finish a **:rest-long: Long Rest**.
 
 ### Level 6: Distruptive Pulse
 

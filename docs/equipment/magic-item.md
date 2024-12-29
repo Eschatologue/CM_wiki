@@ -10,7 +10,7 @@ Adventures hold the promise—but not a guarantee—of finding magic items. Hund
 
 Some magic items are indistinguishable from their nonmagical counterparts, while others are conspicuously magical. Handling a magic item is enough to give you a sense that it is extraordinary, but learning a magic item's properties isn't automatic.
 
-The Identify spell is the fastest way to reveal an item's properties. Alternatively, you can focus on one magic item during a Short Rest while being in physical contact with the item. At the end of the rest, you learn its properties and how to use them (but not any curse the item might bear).
+The Identify spell is the fastest way to reveal an item's properties. Alternatively, you can focus on one magic item during a **:rest-short: Short Rest** while being in physical contact with the item. At the end of the rest, you learn its properties and how to use them (but not any curse the item might bear).
 
 Sometimes a magic item carries a clue to its properties. The command word to activate a ring might be etched inside the band, or a feathered design might hint that it's a Ring of Feather Falling.
 
@@ -20,9 +20,9 @@ Wearing or experimenting with an item can also offer hints about its properties.
 
 Some magic items require a creature to form a bond—called Attunement—with them before the creature can use an item's magical properties. Without becoming attuned to an item that requires Attunement, you gain only its nonmagical benefits unless its description states otherwise. For example, a magic Shield that requires Attunement provides the benefits of a normal Shield if you aren't attuned to it, but none of its magical properties.
 
-### Attune during a Short Rest
+### Attune during a **:rest-short: Short Rest**
 
-Attuning to an item requires you to spend a Short Rest focused on only that item while being in physical contact with it (this can't be the same Short Rest used to learn the item's properties). This focus can take the form of weapon practice (for a Weapon), meditation (for a Wand), or some other appropriate activity. If the Short Rest is interrupted, the Attunement attempt fails. Otherwise, at the end of the Short Rest, you're attuned to the magic item and can access its full magical capabilities.
+Attuning to an item requires you to spend a **:rest-short: Short Rest** focused on only that item while being in physical contact with it (this can't be the same **:rest-short: Short Rest** used to learn the item's properties). This focus can take the form of weapon practice (for a Weapon), meditation (for a Wand), or some other appropriate activity. If the **:rest-short: Short Rest** is interrupted, the Attunement attempt fails. Otherwise, at the end of the **:rest-short: Short Rest**, you're attuned to the magic item and can access its full magical capabilities.
 
 ### No More Than Three Items
 
@@ -30,7 +30,7 @@ You can be attuned to no more than three magic items at a time. Any attempt to a
 
 ### Ending Attunement
 
-Your Attunement to an item ends if you no longer satisfy the prerequisites for Attunement, if the item has been more than 100 feet away for at least 24 hours, if you die, or if another creature attunes to the item. You can also voluntarily end Attunement by spending another Short Rest focused on the item unless the item is cursed.
+Your Attunement to an item ends if you no longer satisfy the prerequisites for Attunement, if the item has been more than 100 feet away for at least 24 hours, if you die, or if another creature attunes to the item. You can also voluntarily end Attunement by spending another **:rest-short: Short Rest** focused on the item unless the item is cursed.
 
 ## Wearing and Wielding Items
 

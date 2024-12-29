@@ -36,7 +36,7 @@ Your experimentation with explosive magic ensures you always have certain spells
 
 You've learned how to create a magical cannon.
 
-***Creating a Cannon.*** Using Woodcarver's Tools or Smith's Tools, you can take a **:rsc-a: Magic**{ .rsc } action to magically create a Small or Tiny Eldritch Cannon in an unoccupied space on a horizontal surface within 5 feet of you. A Small Eldritch Cannon occupies its space, and a Tiny one can be held in one hand. You can have only one cannon at a time and can't create one while your cannon is present. Once you create a Cannon, you cannot do so again until you finish a Short or Long Rest.
+***Creating a Cannon.*** Using Woodcarver's Tools or Smith's Tools, you can take a **:rsc-a: Magic**{ .rsc } action to magically create a Small or Tiny Eldritch Cannon in an unoccupied space on a horizontal surface within 5 feet of you. A Small Eldritch Cannon occupies its space, and a Tiny one can be held in one hand. You can have only one cannon at a time and can't create one while your cannon is present. Once you create a Cannon, you cannot do so again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
 ***Cannon's Statistics.*** The cannon is a magical object. Regardless of size, the cannon has an AC of 18 and a number of Hit Points equal to five times your Artificer level. It has :dmg-imm: Immunity to :dmg-posn: Poison damage and :dmg-psyc: Psychic damage. If it is forced to make an ability check or a saving throw, treat all its ability scores as 10 (+0). If the [:spell-lv0: Mending] spell is cast on it, it regains 2d6 Hit Points. It disappears if it is reduced to 0 Hit Points or after 1 hour. You can dismiss it early as an action.
 
@@ -52,7 +52,7 @@ You've learned how to create a magical cannon.
 
 Your research has resulted in the creation of a Arcane Sidearm, which uses the following rules:
 
-***Crafting your Sidearm.*** During a long rest, you can spend 1 hour crafting an Arcane Sidearm using woodcarver's tools. You can only have one Arcane Sidearm, and crafting another causes previous Arcane Sidearms to lose their power.
+***Crafting your Sidearm.*** During a **:rest-long: Long Rest**, you can spend 1 hour crafting an Arcane Sidearm using woodcarver's tools. You can only have one Arcane Sidearm, and crafting another causes previous Arcane Sidearms to lose their power.
 
 ***Appearance.*** An Arcane Sidearm is a Tiny object that can be used as a spellcasting focus for Artificer spells. You choose its appearance, though this has no effect on its abilities. Many Artilerists craft Sidearms that resemble delicate wands of wood, ornate metallic rods, or even runic iron cannons.
 

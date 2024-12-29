@@ -32,7 +32,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 *You can see through the deepest gloom.* 
 
-You have Darkvision with a range of 120 feet and as a **:rsc-a: Magic**{ .rsc } action, you can share it with willing creatures you can see within 10 feet of you, up to a number of creatures equal to your Wisdom modifier (minimum of 1), which lasts for 1 hour. Once you share it, you can't do so again until you finish a Long Rest, unless you expend a spell slot of any level to share it again.
+You have Darkvision with a range of 120 feet and as a **:rsc-a: Magic**{ .rsc } action, you can share it with willing creatures you can see within 10 feet of you, up to a number of creatures equal to your Wisdom modifier (minimum of 1), which lasts for 1 hour. Once you share it, you can't do so again until you finish a **:rest-long: Long Rest**, unless you expend a spell slot of any level to share it again.
 
 ### Level 3: Twilight Sanctuary
 
@@ -48,7 +48,7 @@ You can use your :class-phb24-cleric: **Channel Divinity** to refresh your allie
 
 When you are in dim light or darkness you can use your **:rsc-b: Bonus Action**{ .rsc } to give yourself a Fly Speed equal to your **:rsc-spd: Speed**{ .em } for 1 minute. You can do so as part of the same **:rsc-b: Bonus Action**{ .rsc } you use to activate Twilight Sanctuary.
 
-You can use this feature a number of times equal to your Wisdom modifier and regain all expended uses when you finish a Long Rest.
+You can use this feature a number of times equal to your Wisdom modifier and regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 ### Level 17: Twilight Shroud
 

@@ -95,7 +95,7 @@ You can supernaturally inspire others through words, music, or dance. This inspi
 
 Once within the next hour when the creature fails a D20 Test, the creature can roll the Bardic Inspiration die and add the number rolled to the d20, potentially turning the failure into a success. A Bardic Inspiration die is expended when it's rolled.
 
-***Number of Uses.*** You can confer a Bardic Inspiration die a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+***Number of Uses.*** You can confer a Bardic Inspiration die a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 ***At Higher Levels.*** Your Bardic Inspiration die changes when you reach certain Bard levels, as shown in the Bardic Die column of the Bard Features table. The die becomes a d8 at level 5, a d10 at level 10, and a d12 at level 15.
 
@@ -116,7 +116,7 @@ When you reach Bard levels 4 and 10, you learn another cantrip of your choice fr
 
 #### Spell Slots
 
-The Bard Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
+The Bard Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a **:rest-long: Long Rest**.
 
 #### Prepared Spells of Level 1+
 
@@ -171,7 +171,7 @@ You gain the [:option-feat-general: Ability Score Improvement](../../option/feat
 
 ### Level 5: Font of Inspiration
 
-You now regain all your expended uses of Bardic Inspiration when you finish a Short or Long Rest.
+You now regain all your expended uses of Bardic Inspiration when you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
 In addition, you can expend a spell slot (no action required) to regain one expended use of Bardic Inspiration.
 

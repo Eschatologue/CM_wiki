@@ -102,7 +102,7 @@ Some creatures and objects have **:dmg-imm: Immunity**{ .em } to certain damage 
 
 ## Healing
 
-Hit Points can be restored by magic, such as the Cure Wounds spell or a Potion of Healing, or by a Short or Long Rest.
+Hit Points can be restored by magic, such as the Cure Wounds spell or a Potion of Healing, or by a **:rest-short: Short** or **:rest-long: Long Rest**.
 
 When you receive healing, add the restored Hit Points to your current Hit Points. Your Hit Points can't exceed your Hit Point maximum, so any Hit Points regained in excess of the maximum are lost. For example, if you receive 8 Hit Points of healing and have 14 Hit Points and a Hit Point maximum of 20, you regain 6 Hit Points, not 8.
 
@@ -114,7 +114,7 @@ Some spells and other effects confer Temporary Hit Points, which are a buffer ag
 If you have Temporary Hit Points and take damage, those points are lost first, and any leftover damage carries over to your Hit Points. For example, if you have 5 Temporary Hit Points and take 7 damage, you lose those points and then lose 2 Hit Points.
 
 ### Duration
-Temporary Hit Points last until they're depleted or you finish a Long Rest (see the rules glossary).
+Temporary Hit Points last until they're depleted or you finish a **:rest-long: Long Rest** (see the rules glossary).
 
 ### Temporary Hit Points Don't Stack
 

@@ -41,7 +41,7 @@ While in your Wild Shape form, your body is visibly artificial, with muscles rep
 
 You can transform the natural weapons of your Wild Shape form into fearsome, mechanical-like enhancements. For example, you might reshape claws into chainsaws, turn tails into bladed whips, or convert fangs into piercing drills.
 
-After a Long Rest, you can choose a number of weapon [Mastery properties] equal to half your Wisdom modifier (rounded down). While in your Wild Shape form, when you make a melee or ranged attack using the creature's feature, you can apply one of the chosen Mastery properties to that attack, even if you do not meet its usual prerequisites. However, you cannot select the Nick Mastery property.
+After a **:rest-long: Long Rest**, you can choose a number of weapon [Mastery properties] equal to half your Wisdom modifier (rounded down). While in your Wild Shape form, when you make a melee or ranged attack using the creature's feature, you can apply one of the chosen Mastery properties to that attack, even if you do not meet its usual prerequisites. However, you cannot select the Nick Mastery property.
 
 You may choose a new set of Mastery properties after each Long Rest.
 

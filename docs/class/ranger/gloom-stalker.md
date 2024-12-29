@@ -18,7 +18,7 @@ You have mastered the art of creating frightening ambushes, granting you the fol
 
 ***Ambusher's Leap.*** At the start of the first turn of each combat, your **:rsc-spd: Speed**{ .em } increases by 30 feet until the end of that turn.
 
-***Frighten.*** When you attack a creature and hit it with a weapon, you can deal an extra 2d6 Psychic damage. You can use this benefit only once per turn, you can use it a number of times equal a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+***Frighten.*** When you attack a creature and hit it with a weapon, you can deal an extra 2d6 Psychic damage. You can use this benefit only once per turn, you can use it a number of times equal a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 ***Initiative Bonus.*** When you roll Initiative, you can add your Wisdom modifier to the roll.
 

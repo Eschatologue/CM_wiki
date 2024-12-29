@@ -40,7 +40,7 @@ You can use a Card Deck as your spellcasting focus.
 You learn the *Thaumaturgy* and *Guidance* cantrip. When you cast those cantrips through card deck and you can use it to create illusions that duplicate the effects of stage magic or use it to reveal a divination to a target. You can conceal the Verbal and Somatic components of the spell as ordinary conversation or card handling.
     
 **Hidden Ace**  
-When you finish a Long Rest, you can choose two spell from your class's spell list and imbue those spell into cards. The chosen spell must have a casting time of 1 action, and it must be a level for which you have :rsc-spell-slot: Spell Slots. The card remains imbued with this spell for 8 hours. 
+When you finish a **:rest-long: Long Rest**, you can choose two spell from your class's spell list and imbue those spell into cards. The chosen spell must have a casting time of 1 action, and it must be a level for which you have :rsc-spell-slot: Spell Slots. The card remains imbued with this spell for 8 hours. 
     
 While the card is imbued with the spell, you can use a **:rsc-b: Bonus Action**{ .rsc } to flourish the card and cast the spell within. The card then immediately loses its magic.
 
@@ -58,7 +58,7 @@ You increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 
 **Compartmentalize**  
 As an **:rsc-a: Action**{ .rsc }, you can instantly learn a spell from your available class spell list (or spellbook, if your class prepare spells from one) that you did not know or have prepared. This spell choice must be of a level for which you have :rsc-spell-slot: **Spell Slots**. You then lose the knowledge or preparation of a different spell of your choice of equal or higher spell level. 
     
-Once you use this ability, you must finish a Short Rest or Long Rest before you can use it again.
+Once you use this ability, you must finish a **:rest-short: Short Rest** or Long Rest before you can use it again.
 
 ---
 
@@ -124,7 +124,7 @@ Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
 You learn two Metamagic options of your choice. You can use only one Metamagic option on a spell when you cast it, unless the option says otherwise. Whenever you reach a level that grants the Ability Score Improvement feature, you can replace one of these Metamagic options with another one.
 
 **Two Sorcery Points**  
-You gain 2 sorcery points to spend on Metamagic (these points are added to any sorcery points you have from another source but can be used only on Metamagic). You regain all spent sorcery points when you finish a long rest
+You gain 2 sorcery points to spend on Metamagic (these points are added to any sorcery points you have from another source but can be used only on Metamagic). You regain all spent sorcery points when you finish a **:rest-long: Long Rest**
 
 ---
 

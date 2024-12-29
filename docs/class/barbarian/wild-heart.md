@@ -28,7 +28,7 @@ Your **:class-abl-rage: Rage**{ .em } taps into the primal power of animals. You
 
 ### Level 6: Aspect of the Wilds
 
-You gain one of the following options of your choice. Whenever you finish a Long Rest, you can change your choice.
+You gain one of the following options of your choice. Whenever you finish a **:rest-long: Long Rest**, you can change your choice.
 
 ***Owl.*** You have Darkvision with a range of 60 feet. If you already have Darkvision, its range increases by 60 feet.
 

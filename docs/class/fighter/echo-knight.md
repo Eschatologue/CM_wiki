@@ -30,7 +30,7 @@ When you take the **:rsc-a: Attack**{ .rsc } action, any attack you make can ori
 
 ### Level 3: Unleash Incarnation
 
-You can heighten your echo's fury. Whenever you take the **:rsc-a: Attack**{ .rsc } action, you can make one additional attack from the echo's position. You can use this feature a number of times equal to your Constitution modifier (a minimum of 1). You regain all expended uses when you finish a Long Rest.
+You can heighten your echo's fury. Whenever you take the **:rsc-a: Attack**{ .rsc } action, you can make one additional attack from the echo's position. You can use this feature a number of times equal to your Constitution modifier (a minimum of 1). You regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 ### Level 7: Echo Avatar
 
@@ -38,11 +38,11 @@ You can temporarily transfer your consciousness to your echo. As an **:rsc-a: Ac
 
 ### Level 10: Shadow Martyr
 
-You can make your echo throw itself in front of an attack directed at another creature that you can see within 30 feet of you. Before the attack roll is made, you can use your **:rsc-r: Reaction**{ .rsc } to teleport the echo to an unoccupied space within 5 feet of the targeted creature. The attack roll that triggered the *Reaction* is instead made against your echo. Once you use this feature, you can't use it again until you finish a Short or Long Rest.
+You can make your echo throw itself in front of an attack directed at another creature that you can see within 30 feet of you. Before the attack roll is made, you can use your **:rsc-r: Reaction**{ .rsc } to teleport the echo to an unoccupied space within 5 feet of the targeted creature. The attack roll that triggered the *Reaction* is instead made against your echo. Once you use this feature, you can't use it again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
 ### Level 15: Reclaim Potential
 
-You've learned to absorb the fleeting magic of your echo. When an echo of yours is destroyed by taking damage, you can gain a number of Temporary Hit Points equal to 1d8 + your Constitution modifier. You can use this feature a number of times equal to your Constitution modifier (a minimum of 1). You regain all expended uses when you finish a Long Rest.
+You've learned to absorb the fleeting magic of your echo. When an echo of yours is destroyed by taking damage, you can gain a number of Temporary Hit Points equal to 1d8 + your Constitution modifier. You can use this feature a number of times equal to your Constitution modifier (a minimum of 1). You regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 ### Level 18: Legion of One
 

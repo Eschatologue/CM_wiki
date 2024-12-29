@@ -12,7 +12,7 @@ This page contains a list of all Eldritch Invocations from the supplemental book
 
 _**Prerequisite:** Pact of the Tome_
 
-You no longer need to sleep and can't be forced to sleep by any means. To gain the benefits of a Long Rest, you can spend all 8 hours doing light activity, such as reading your Book of Shadows and keeping watch.
+You no longer need to sleep and can't be forced to sleep by any means. To gain the benefits of a **:rest-long: Long Rest**, you can spend all 8 hours doing light activity, such as reading your Book of Shadows and keeping watch.
 
 ---
 
@@ -28,9 +28,9 @@ Whenever you regain hit points while your familiar is within 100 feet of you, tr
 
 Your patron gives you an amulet, a talisman that can aid the wearer when the need is great. 
 
-When the wearer fails an ability check, they can add a d4 to the roll, potentially turning the roll into a success. This benefit can be used a number of times equal to your Proficiency Bonus, and all expended uses are restored when you finish a Long Rest.
+When the wearer fails an ability check, they can add a d4 to the roll, potentially turning the roll into a success. This benefit can be used a number of times equal to your Proficiency Bonus, and all expended uses are restored when you finish a **:rest-long: Long Rest**.
 
-If you lose the talisman, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous amulet. The talisman turns to ash when you die.
+If you lose the talisman, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a **:rest-short: Short** or **:rest-long: Long Rest**, and it destroys the previous amulet. The talisman turns to ash when you die.
 
 ---
 
@@ -80,7 +80,7 @@ As a **:rsc-b: Bonus Action**{ .rsc }, you can surround yourself with a magical 
 
 The aura grants you advantage on Charisma (Intimidation) checks but disadvantage on all other Charisma checks. Any other creature that starts its turn in the aura takes poison damage equal to your Charisma modifier (minimum of 0 damage).
 
-Once you use this Invocation, you can't use it again until you finish a short or Long Rest.
+Once you use this Invocation, you can't use it again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
 ---
 
@@ -118,7 +118,7 @@ _**Prerequisite:** Level 5+ Warlock_
 
 As a **:rsc-r: Reaction**{ .rsc } when you take damage, you can entomb yourself in ice, which melts away at the end of your next turn. You gain 10 Temporary Hit Points per Warlock level, which take as much of the triggering damage as possible. Immediately after you take the damage, you are Vulnerabile to fire damage, your **:rsc-spd: Speed**{ .em } is reduced to 0, and you gain the Incapacitated condition. These effects, including any remaining Temporary Hit Points, all end when the ice melts.
 
-Once you use this Invocation, you can't use it again until you finish a short or Long Rest.
+Once you use this Invocation, you can't use it again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
 ---
 
@@ -126,7 +126,7 @@ Once you use this Invocation, you can't use it again until you finish a short or
 
 _**Prerequisite:** Level 5+ Warlock_
 
-You can cast *Animate Dead* without using a spell slot. Once you do so, you can't cast it in this way again until you finish a Long Rest.
+You can cast *Animate Dead* without using a spell slot. Once you do so, you can't cast it in this way again until you finish a **:rest-long: Long Rest**.
 
 ---
 
@@ -136,7 +136,7 @@ _**Prerequisite:** Level 7+ Warlock_
 
 As an action, you gain the ability to see through solid objects to a range of 30 feet. Within that range, you have darkvision if you don't already have it. This special sight lasts for 1 minute or until your concentration ends (as if you were concentrating on a spell). During that time, you perceive objects as ghostly, transparent images.
 
-Once you use this Invocation, you can't use it again until you finish a short or Long Rest.
+Once you use this Invocation, you can't use it again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
 ---
 
@@ -144,7 +144,7 @@ Once you use this Invocation, you can't use it again until you finish a short or
 
 _**Prerequisite:** Level 7+ Warlock, Pact of the Talisman_
 
-When the wearer of your talisman fails a saving throw, they can add a d4 to the roll, potentially turning the save into a success. This benefit can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a Long Rest.
+When the wearer of your talisman fails a saving throw, they can add a d4 to the roll, potentially turning the save into a success. This benefit can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a **:rest-long: Long Rest**.
 
 ---
 
@@ -160,7 +160,7 @@ Your curse creates a temporary bond between you and your target. As a **:rsc-b: 
 
 _**Prerequisite:** Level 7+ Warlock_
 
-You can cast *Freedom of Movement* once on yourself without expending a spell slot. You regain the ability to do so when you finish a Long Rest.
+You can cast *Freedom of Movement* once on yourself without expending a spell slot. You regain the ability to do so when you finish a **:rest-long: Long Rest**.
 
 ---
 
@@ -168,7 +168,7 @@ You can cast *Freedom of Movement* once on yourself without expending a spell sl
 
 _**Prerequisite:** Level 12+ Warlock, Pact of the Talisman_
 
-While someone else is wearing your talisman, you can use your action to teleport to the unoccupied space closest to them, provided the two of you are on the same plane of existence. The wearer of your talisman can do the same thing, using their action to teleport to you. The teleportation can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a Long Rest.
+While someone else is wearing your talisman, you can use your action to teleport to the unoccupied space closest to them, provided the two of you are on the same plane of existence. The wearer of your talisman can do the same thing, using their action to teleport to you. The teleportation can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a **:rest-long: Long Rest**.
 
 ---
 

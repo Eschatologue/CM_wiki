@@ -52,7 +52,7 @@ Unholy magic courses through you. You have **:dmg-res: Resistance**{ .em } to :d
 
 ### Level 20: Dread Lord
 
-Your connection to the unholy grants you a shroud of gloom. As a **:rsc-b: Bonus Action**{ .rsc }, you can surround yourself in gloom in a 30-foot Emanation. This Emanation lasts for 10 minutes. Bright light in this area becomes dim light. Whenever a creature hits another creature with a weapon attack while it is within this Emanation, you can choose to have that creature deal half damage. Once you use this feature, you cannot use it again until you finish a Long Rest, or you expend a level 5 spell slot to use it again.
+Your connection to the unholy grants you a shroud of gloom. As a **:rsc-b: Bonus Action**{ .rsc }, you can surround yourself in gloom in a 30-foot Emanation. This Emanation lasts for 10 minutes. Bright light in this area becomes dim light. Whenever a creature hits another creature with a weapon attack while it is within this Emanation, you can choose to have that creature deal half damage. Once you use this feature, you cannot use it again until you finish a **:rest-long: Long Rest**, or you expend a level 5 spell slot to use it again.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 

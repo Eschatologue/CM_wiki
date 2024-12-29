@@ -29,13 +29,13 @@ Your inspiring words are so persuasive that others feel driven to succeed. When 
 
 You have gained the ability to make your speech intelligible to any creature. As a **:rsc-a: Magic**{ .rsc } action, choose one or more creatures within 60 feet of you, up to a number equal to your Charisma modifier (minimum of one creature). The chosen creatures can magically understand you, regardless of the language you speak, for 1 hour.
 
-Once you use this feature, you can't use it again until you finish a Long Rest, unless you expend a spell slot of level 1 or higher to restore its use (no action required).
+Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**, unless you expend a spell slot of level 1 or higher to restore its use (no action required).
 
 ### Level 14: Infectious Inspiration
 
 When you successfully inspire someone, the power of your eloquence can now spread to someone else. When a creature within 60 feet of you adds one of your Bardic Inspiration dice to a D20 Test and the roll succeeds, you can take a **:rsc-r: Reaction**{ .rsc } to encourage a different creature (other than yourself) that can hear you within 60 feet of you, giving it a Bardic Inspiration die without expending any of your Bardic Inspiration uses.
 
-You can use this **:rsc-r: Reaction**{ .rsc } a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+You can use this **:rsc-r: Reaction**{ .rsc } a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 --8<-- "includes/snippets/skills.md"
 

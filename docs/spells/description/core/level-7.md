@@ -379,9 +379,9 @@ With a touch, you revive a dead creature that has been dead for no more than a c
 
 The creature returns to life with all its Hit Points. This spell also neutralizes any poisons that affected the creature at the time of death. This spell closes all mortal wounds and restores any missing body parts.
 
-Coming back from the dead is an ordeal. The target takes a -4 penalty to D20 Tests. Every time the target finishes a Long Rest, the penalty is reduced by 1 until it becomes 0.
+Coming back from the dead is an ordeal. The target takes a -4 penalty to D20 Tests. Every time the target finishes a **:rest-long: Long Rest**, the penalty is reduced by 1 until it becomes 0.
 
-Casting this spell to revive a creature that has been dead for 365 days or longer taxes you. Until you finish a Long Rest, you can't cast spells again, and you have Disadvantage on D20 Tests.
+Casting this spell to revive a creature that has been dead for 365 days or longer taxes you. Until you finish a **:rest-long: Long Rest**, you can't cast spells again, and you have Disadvantage on D20 Tests.
 
 > **Classes:** Bard, Cleric
 
@@ -431,9 +431,9 @@ You can set a condition for the spell to end early. The condition can be anythin
 
 You create a simulacrum of one Beast or Humanoid that is within 10 feet of you for the entire casting of the spell. You finish the casting by touching both the creature and a pile of ice or snow that is the same size as that creature, and the pile turns into the simulacrum, which is a creature. It uses the game statistics of the original creature at the time of casting, except it is a Construct, its Hit Point maximum is half as much, and it can't cast this spell.
 
-The simulacrum is Friendly to you and creatures you designate. It obeys your commands and acts on your turn in combat. The simulacrum can't gain levels, and it can't take Short or Long Rests.
+The simulacrum is Friendly to you and creatures you designate. It obeys your commands and acts on your turn in combat. The simulacrum can't gain levels, and it can't take **:rest-short: Short** or **:rest-long: Long Rest**s.
 
-If the simulacrum takes damage, the only way to restore its Hit Points is to repair it as you take a Long Rest, during which you expend components worth 100 GP per Hit Point restored. The simulacrum must stay within 5 feet of you for the repair.
+If the simulacrum takes damage, the only way to restore its Hit Points is to repair it as you take a **:rest-long: Long Rest**, during which you expend components worth 100 GP per Hit Point restored. The simulacrum must stay within 5 feet of you for the repair.
 
 The simulacrum lasts until it drops to 0 Hit Points, at which point it reverts to snow and melts away. If you cast this spell again, any simulacrum you created with this spell is instantly destroyed.
 

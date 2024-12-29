@@ -38,12 +38,12 @@ When you use Flurry of Blows, you can now replace each of the [Unarmed Strike] w
 
 In addition, when you make an [Unarmed Strike] with Flurry of Blows and deal damage, you can use Hand of Harm with that strike without spending the :class-phb24-monk: **Focus Points** for Hand of Harm. You can still use Hand of Harm only once per turn.
 
-You can use these benefits a total number of times equal to your Wisdom modifie (minimum of once). You regain all expended use when you finish a Long Rest.
+You can use these benefits a total number of times equal to your Wisdom modifie (minimum of once). You regain all expended use when you finish a **:rest-long: Long Rest**.
 
 ### Level 17: Hand of Ultimate Mercy
 
 Your mastery of life energy opens the door to the ultimate mercy. As a **:rsc-a: Magic**{ .rsc } action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 :class-phb24-monk: **Focus Points**. The creature then returns to life, regaining a number of hit points equal to 4d10 + your Wisdom modifier. If the creature died while subject to any of the following conditions, it revives with them removed: Blinded, Deafened, Paralyzed, Poisoned, or Stunned.
 
-Once you use this feature, you can't use it again until you finish a long rest.
+Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**.
 
 [Unarmed Strike]: ../../gameplay/phb/action.md#unarmed-strike

@@ -57,7 +57,7 @@ You manifest a spark of divine power in defense of the mortal realms. As a **:rs
 
 ***Extraplanar Banishment***. When you hit a creature with an attack roll and deal damage to it, you can also force it to make a Charisma saving throw against your spell save DC. On a failed save, the creature is magically banished to its native plane of existence if it’s currently not there. On a successful save, the creature can’t be banished by this feature for 24 hours.
 
-Once you use this **:rsc-b: Bonus Action**{ .rsc }, you can’t use it again until you finish a Long Rest, unless you expend a level 5 spell slot to use it again.
+Once you use this **:rsc-b: Bonus Action**{ .rsc }, you can’t use it again until you finish a **:rest-long: Long Rest**, unless you expend a level 5 spell slot to use it again.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 

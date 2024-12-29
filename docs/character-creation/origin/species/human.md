@@ -14,7 +14,7 @@ As a Human, you have these special traits.
 
 ### Resourceful
 
-You gain Heroic Inspiration whenever you finish a Long Rest.
+You gain Heroic Inspiration whenever you finish a **:rest-long: Long Rest**.
 
 ### Skillful
 

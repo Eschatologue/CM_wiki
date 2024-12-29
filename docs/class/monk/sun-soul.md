@@ -31,7 +31,7 @@ You have gained the ability to create tremendous blasts of radiant energy, flowi
 
 ***Upcasting.*** When you use this feature, you can spend :class-phb24-monk: **Focus Points** to increase the effective level that the spell is cast at, at a rate of 1 :class-phb24-monk: **Focus Points** per spell level above 3. The maximum effective level you can cast the spell at is equal to 1 + your Monk level divided by 4 (rounded down).
 
-The spells use your Focus save DC. Once you use this feature, you can't do so again until you finish a Short or Long Rest, or until you spend 4 :class-phb24-monk: **Focus Points** to use it again.
+The spells use your Focus save DC. Once you use this feature, you can't do so again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**, or until you spend 4 :class-phb24-monk: **Focus Points** to use it again.
 
 ### Level 17: Sun Shield
 

@@ -20,7 +20,7 @@ If the magical effect is a spell, it is too wild to be affected by your Metamagi
 
 ### Level 3: Tides Of Chaos
 
-You can manipulate the forces of chance and chaos to gain Advantage on one d20 Test. Once you do so, you must cast a Sorcerer spell with a spell slot or finish a Long Rest before you can use this feature again.
+You can manipulate the forces of chance and chaos to gain Advantage on one d20 Test. Once you do so, you must cast a Sorcerer spell with a spell slot or finish a **:rest-long: Long Rest** before you can use this feature again.
 
 If you do cast a Sorcerer spell with a spell slot, you automatically roll on the Wild Magic Surge table and regain the use of this feature.
 
@@ -36,7 +36,7 @@ You gain a modicum of control over the surges of your wild magic. Whenever you r
 
 Immediately after you cast a Sorcerer spell with a spell slot, you can create an effect of your choice from the Wild Magic Surge table instead of rolling on that table. You can choose any effect in the table except for the final row, and if the chosen effect involves a roll, you must make it.
 
-Once you use this feature, you can't do so again until you finish a Long Rests.
+Once you use this feature, you can't do so again until you finish a **:rest-long: Long Rest**s.
 
 ### Wild Magic Surge
 

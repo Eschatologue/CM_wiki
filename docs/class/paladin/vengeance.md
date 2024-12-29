@@ -46,7 +46,7 @@ Immediately after a creature under the effect of your Vow of Enmity hits or miss
 
 ### Level 20: Avenging Angel
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you gain the following benefits for 10 minutes. Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending a level 5 spell slot (no action required).
+As a **:rsc-b: Bonus Action**{ .rsc }, you gain the following benefits for 10 minutes. Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 ***Flight.*** You sprout spectral wings on your back. You have a Fly Speed equal to your **:rsc-spd: Speed**{ .em } and can Hover.
 

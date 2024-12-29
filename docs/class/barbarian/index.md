@@ -87,7 +87,7 @@ As a Barbarian, you gain the following class features when you reach the specifi
 
 You can imbue yourself with a primal power called **:class-abl-rage: Rage**{ .em }, a force that grants you extraordinary might and resilience. You can enter it as a **:rsc-b: Bonus Action**{ .rsc } if you aren't wearing Heavy armour.
 
-You can enter your **:class-abl-rage: Rage**{ .em } the number of times shown for your Barbarian level in the Rages column of the Barbarian Features table. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
+You can enter your **:class-abl-rage: Rage**{ .em } the number of times shown for your Barbarian level in the Rages column of the Barbarian Features table. You regain one expended use when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 While active, your **:class-abl-rage: Rage**{ .em } follows the rules below.
 
@@ -129,7 +129,7 @@ You can use a Shield and still gain these benefit.
 
 ### Level 1: Weapon Mastery
 
-Your training with weapons allows you to use the mastery properties of two kinds of Simple or Martial Melee weapons of your choice, such as Greataxes and Handaxes. Whenever you finish a Long Rest, you can do one of the following:
+Your training with weapons allows you to use the mastery properties of two kinds of Simple or Martial Melee weapons of your choice, such as Greataxes and Handaxes. Whenever you finish a **:rest-long: Long Rest**, you can do one of the following:
 
 :   **Change Weapon**{ .inl } You can practice weapon drills and change *one* of those weapon choices; or
 
@@ -193,7 +193,7 @@ If the chosen attack roll hits, the target takes an extra 1d10 damage of the sam
 
 Your **:class-abl-rage: Rage**{ .em } can keep you fighting despite grievous wounds. If you drop to 0 Hit Points while your **:class-abl-rage: Rage**{ .em } is active and don't die outright, you can make a DC 10 :d20-save: Constitution saving throw. If you succeed, your Hit Points instead change to a number equal to twice your Barbarian level.
 
-Each time you use this feature after the first, the DC increases by 5. When you finish a Short or Long Rest, the DC resets to 10.
+Each time you use this feature after the first, the DC increases by 5. When you finish a **:rest-short: Short** or **:rest-long: Long Rest**, the DC resets to 10.
 
 ### Level 13: Brutal Strike Improvement
 
@@ -205,7 +205,7 @@ You have honed new ways to attack furiously. The following effects are now among
 
 ### Level 15: Persistent Rage
 
-When you roll Initiative, you can regain all expended uses of **:class-abl-rage: Rage**{ .em }. After you regain uses of **:class-abl-rage: Rage**{ .em } in this way, you can't do so again until you finish a Long Rest.
+When you roll Initiative, you can regain all expended uses of **:class-abl-rage: Rage**{ .em }. After you regain uses of **:class-abl-rage: Rage**{ .em } in this way, you can't do so again until you finish a **:rest-long: Long Rest**.
 
 In addition, your **:class-abl-rage: Rage**{ .em } is so fierce that it now lasts for 10 minutes without you needing to do anything to extend it from round to round. Your **:class-abl-rage: Rage**{ .em } ends early if you have the Unconscious condition (not just the Incapacitated condition) or don Heavy armour.
 

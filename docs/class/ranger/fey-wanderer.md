@@ -36,7 +36,7 @@ You also possess a preternatural blessing from a fey ally or a place of fey powe
 
 | 1d6 | Gift |
 |:---:|:---|
-| 1 | Illusory butterflies flutter around you while you take a Short Rest or Long Rest. |
+| 1 | Illusory butterflies flutter around you while you take a **:rest-short: Short Rest** or Long Rest. |
 | 2 | Fresh, seasonal flowers sprout from your hair each dawn. |
 | 3 | You faintly smell of cinnamon, lavender, nutmeg, or another comforting herb or spice. |
 | 4 | Your shadow dances while no one is looking directly at it. |
@@ -57,13 +57,13 @@ In addition, whenever you or a creature you can see within 120 feet of you succe
 
 ### Level 11: Fey Reinforcement
 
-You can cast ***Summon Fey*** without a MAterial component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a Long Rest. 
+You can cast ***Summon Fey*** without a MAterial component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a **:rest-long: Long Rest**. 
 
 Whenever you start casting the spell, you can modify it so that it doesn't require Concentration. If you do so, the spell;s duration becomes 1 minute for that casting.
 
 ### Level 15: Misty Wanderer
 
-You can cast [:spell-lv2: Misty Step] without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+You can cast [:spell-lv2: Misty Step] without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 In addition, whenever you cast [:spell-lv2: Misty Step], you can bring along one willing creature you can see within 5 feet of you. That creature teleports to an unoccupied space of your choice within 5 feet of your destination space.
 

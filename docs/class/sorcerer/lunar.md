@@ -15,7 +15,7 @@ You or someone from your lineage has been exposed to the concentrated magic of t
 
 ### Level 3: Lunar Embodiment
 
-Whenever you finish a Long Rest, you can choose what Lunar Phase manifests its power through your magic: Full Moon, New Moon, or Crescent Moon.
+Whenever you finish a **:rest-long: Long Rest**, you can choose what Lunar Phase manifests its power through your magic: Full Moon, New Moon, or Crescent Moon.
 
 Your connection to your current Lunar Phase ensures you have certain spells ready; when you reach a Sorcerer level specified in the Lunar Spells table, you thereafter always have the spells listed under the column of your current Lunar Phase prepared.
 
@@ -46,13 +46,13 @@ The current phase of your Lunar Embodiment can affect your Metamagic feature. Ea
 
 ***Crescent Moon.*** Illusion and Transmutation spells.
 
-Whenever you use Metamagic on a spell of a school of magic associated with your current Lunar Embodiment phase, you can reduce the Sorcery Points spent by 1 (minimum 0). You can reduce the Sorcery Points spent for your Metamagic a number of times equal to your Charisma modifier (minimum once), and you regain all expended uses when you finish a Long Rest.
+Whenever you use Metamagic on a spell of a school of magic associated with your current Lunar Embodiment phase, you can reduce the Sorcery Points spent by 1 (minimum 0). You can reduce the Sorcery Points spent for your Metamagic a number of times equal to your Charisma modifier (minimum once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 ### Level 6: Waxing and Waning
 
 You gain greater control over the phases of your lunar magic.
 
-***Short Rest Phase Shift.*** You can change your current Lunar Phase to a different one when you finish a Short Rest.
+***Short Rest Phase Shift.*** You can change your current Lunar Phase to a different one when you finish a **:rest-short: Short Rest**.
 
 ***Rapid Phase Shift.*** As a **:rsc-b: Bonus Action**{ .rsc }, you can expend 1 Sorcery Point to change your current Lunar Phase to a different one.
 
@@ -76,7 +76,7 @@ As a **:rsc-b: Bonus Action**{ .rsc }, you can tap into a special power of your 
 
 ***Crescent Moon.*** You can magically Teleport to an unoccupied space you can see within 60 feet of yourself. You can bring along one willing creature you can see within 5 feet of yourself. That creature Teleports to an unoccupied space of your choice that you can see within 5 feet of your destination space. In addition, you and that creature have Resistance to all damage until the start of your next turn.
 
-Once you use one of these benefits, you can't use that benefit again until you finish a Long Rest, unless you spend 5 Sorcery Points to use it again.
+Once you use one of these benefits, you can't use that benefit again until you finish a **:rest-long: Long Rest**, unless you spend 5 Sorcery Points to use it again.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 

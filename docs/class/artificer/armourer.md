@@ -52,7 +52,7 @@ You can customize your Arcane Armour. When you do so, choose one of the followin
 
 ***Special Weapon.*** Each model includes a special weapon. You can only use the Mastery property of the weapon if another feature allows you to use it, as normal.
 
-***Changing the Model.*** You can change the armour's model whenever you finish a Short or Long Rest, provided you have Smith's Tools in hand.
+***Changing the Model.*** You can change the armour's model whenever you finish a **:rest-short: Short** or **:rest-long: Long Rest**, provided you have Smith's Tools in hand.
 
 #### Guardian
 
@@ -103,7 +103,7 @@ Your Arcane Armour gains additional benefits based on its model, as shown below.
 
 When a Huge or smaller creature you can see ends its turn within 30 feet of you, you can use your **:rsc-r: Reaction**{ .rsc } to magically force it to make a Strength saving throw against your Spell Save DC. On a failed save, you pull the creature up to 25 feet directly to an unoccupied space. If you pull the target to a space within 5 feet of you, you can make a melee weapon attack against it as part of this reaction.
 
-You can use this **:rsc-r: Reaction**{ .rsc } a number of times equal to your Intelligence modifier, and you regain all expended uses of it when you finish a Long Rest.
+You can use this **:rsc-r: Reaction**{ .rsc } a number of times equal to your Intelligence modifier, and you regain all expended uses of it when you finish a **:rest-long: Long Rest**.
 
 #### Infiltrator
 

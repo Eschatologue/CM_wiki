@@ -42,7 +42,7 @@ You have become remarkably adept at channeling magical energy to compel others.
 
 If you cast a spell of the Enchantment school of level 1 or higher, you can change the spell's casting time to a **:rsc-b: Bonus Action**{ .rsc } for this casting, provided the spell's casting time is normally an action.
 
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a Long Rest.
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a **:rest-long: Long Rest**.
 
 ### Level 17: Order's Wrath
 

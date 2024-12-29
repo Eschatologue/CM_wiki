@@ -55,6 +55,6 @@ You can unleash the aberrant truth hidden within yourself. As a **:rsc-b: Bonus 
 
 You can unleash your aberrant power as a space-warping anomaly. As **:rsc-a: Magic**{ .rsc } action, you can teleport to an unoccupied space you can see within 120 feet of you. Immediately after you disappear, each creature within 30 feet of the space you left must make a Strength saving throw against your spell save DC. On a failed save, a creature takes 3d10 force damage and is pulled straight toward the space you left, ending in an unoccupied space as close to your former space as possible. On a successful save, the creature takes half as much damage and isn't pulled.
 
-Once you use this feature, you can't do so again until you finish a Long Rest, unless you spend 5 Sorcery Points to use it again.
+Once you use this feature, you can't do so again until you finish a **:rest-long: Long Rest**, unless you spend 5 Sorcery Points to use it again.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"

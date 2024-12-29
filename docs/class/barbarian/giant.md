@@ -35,7 +35,7 @@ Your rage pulls strength from the primal might of giants, transforming you into 
 
 Your physique is bolstered by the primordial elements.
 
-***Elemental Fortitude.*** You have Resistance to one of the following damage types of your choice: :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-thun: Thunder, or :dmg-lgtn: Lightning. You can choose a different type when you finish a Short or Long Rest.
+***Elemental Fortitude.*** You have Resistance to one of the following damage types of your choice: :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-thun: Thunder, or :dmg-lgtn: Lightning. You can choose a different type when you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
 ***Elemental Cleaver.*** When you use your Giant's Cleaver, the weapon is infused with one of the following damage types: :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-thun: Thunder, or :dmg-lgtn: Lightning Its damage type changes to the chosen type and it deals an extra 1d6 damage on a hit. You can use your **:rsc-b: Bonus Action**{ .rsc } to change the damage type.
 

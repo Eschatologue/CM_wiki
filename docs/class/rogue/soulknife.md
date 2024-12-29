@@ -29,7 +29,7 @@ You harbor a wellspring of psionic energy within yourself. This energy is repres
 
 Any features in this sublass that usea Psionic Energy Die use only the dice from this subclass. Some of your powers expend the Psionic Energy Die as specified in a power;s description, and you can't use a power if it requires you to use a dice when all your Psionic Energy Dice are expended.
 
-You regain one of your expended Psionic Energy Die when you finish a Short Rest, and you regain all of them when you finish a Long Rest.
+You regain one of your expended Psionic Energy Die when you finish a **:rest-short: Short Rest**, and you regain all of them when you finish a **:rest-long: Long Rest**.
 
 ***Psi-Bolstered Knack.*** If you fail an ability check using a skill or tool with which you have proficiency, you can roll one Psionic Energy Die and add the number rolled to the check, potentially turning failure into success. The die is expended only if the roll them succeeds.
 
@@ -66,7 +66,7 @@ Your Psychic Blades are now an expression of your psi-suffused soul, giving you 
 
 You can weave a veil of psychic static to mask yourself. As a **:rsc-a: Magic**{ .rsc } action, you gain the ^^Invisible^^ condition for 1 hour or until you dismiss this effect (no action required). This invisibility ends early immediately after you deal damage to a creature or you force a creature to make a saving throw.
 
-Once you use this feature, you can't do so again until you finish a Long Rest unless you expend a Psionic Energy Die (no action required) to restore your use of it.
+Once you use this feature, you can't do so again until you finish a **:rest-long: Long Rest** unless you expend a Psionic Energy Die (no action required) to restore your use of it.
 
 ### Level 17: Rend Mind
 
@@ -74,4 +74,4 @@ Once you use this feature, you can't do so again until you finish a Long Rest un
 
 When you use your Psychic Blades to deal Sneak Attack damage to a creature, you can force that target to make a Wisdom saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus). If the save fails, the target has the Stunned condition for 1 minute. The Stunned target repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
-Once you use this feature, you can't do so again until you finish a Long Rest unless you expend three Psionic Energy Dice (no action required) to restore your use of it.
+Once you use this feature, you can't do so again until you finish a **:rest-long: Long Rest** unless you expend three Psionic Energy Dice (no action required) to restore your use of it.

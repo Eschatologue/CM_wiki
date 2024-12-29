@@ -34,7 +34,7 @@ In addition, your connection to a Divine source of magic ensures that you always
 
 ### Level 3: Favored by the Gods
 
-Divine power guards your destiny. If you fail a D20 Test, you can roll 2d4 and add it to the total, possibly changing the outcome. You can use this feature a number of times equal to your Charisma modifier (minimum once) and you regain all expended uses when you finish a Long Rest. You cannot use this feature multiple times on the same roll.
+Divine power guards your destiny. If you fail a D20 Test, you can roll 2d4 and add it to the total, possibly changing the outcome. You can use this feature a number of times equal to your Charisma modifier (minimum once) and you regain all expended uses when you finish a **:rest-long: Long Rest**. You cannot use this feature multiple times on the same roll.
 
 ### Level 6: Potent Healing
 
@@ -54,7 +54,7 @@ The wings have an appearance of your choice, and may take on an appearance fitti
 
 You gain the ability to overcome grievous injuries. As a **:rsc-b: Bonus Action**{ .rsc } when you are Bloodied, you can regain a number of Hit Points equal to half your Hit Point Maximum.
 
-Once you use this feature, you can't use it again until you finish a long rest, unless you spend 6 Sorcery Points to restore its use (no action required).
+Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**, unless you spend 6 Sorcery Points to restore its use (no action required).
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 

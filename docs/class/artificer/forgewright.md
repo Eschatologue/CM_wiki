@@ -37,7 +37,7 @@ When you reach an Artificer level specified in the Forgewright Spells table, you
 
 Your battlefield research has resulted in the invention of your signature Arcane Armament, which uses the following rules:
 
-***Forging the Armament.*** During a Long Rest, you can spend 1 hour using Smith's Tools to reforge one melee weapon that you are holding into an Arcane Armament. You can only have one Arcane Armament at a time, and forging another causes any previous Armaments to revert to their normal state. Your Arcane Armament gain the following traits in addition to its default trait in the [Arcane Armament table](#arcane-armament). You can use your Intelligence, in place of Strength or Dexterity for its attack and damage rolls. 
+***Forging the Armament.*** During a **:rest-long: Long Rest**, you can spend 1 hour using Smith's Tools to reforge one melee weapon that you are holding into an Arcane Armament. You can only have one Arcane Armament at a time, and forging another causes any previous Armaments to revert to their normal state. Your Arcane Armament gain the following traits in addition to its default trait in the [Arcane Armament table](#arcane-armament). You can use your Intelligence, in place of Strength or Dexterity for its attack and damage rolls. 
 
 ##### Arcane Armament
 
@@ -72,6 +72,6 @@ The magic of your Arcane Armament empowers its strikes. Whenever you hit with an
 
 You have become a master Forgewright and extend the power of your Arcane Armament to others. As a **:rsc-b: Bonus Action**{ .rsc }, you can flood a number of weapons equal to your Intelligence modifier (minimum of 1) within 30 feet, one of which can be your Arcane Armament, with raw power. For 1 minute, these weapons deal a bonus 1d8 :dmg-force: Force damage on hit.
 
-Once you use this feature you must finish a Long Rest before you can use it again. If you have no uses left, you can expend a level 3+ spell slot to use it again.
+Once you use this feature you must finish a **:rest-long: Long Rest** before you can use it again. If you have no uses left, you can expend a level 3+ spell slot to use it again.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"

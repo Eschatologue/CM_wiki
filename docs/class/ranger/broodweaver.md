@@ -45,7 +45,7 @@ You command intangible constructs made of pure energy to assist you in battle. T
 
 Each feature that uses *Threadlings* expends these dice as specified in the feature's description. You cannot use a feature requiring *Threadling Dice* if all your dice are expended.
 
-***Regaining Threadling Dice.*** You regain one expended *Threadling Die* when you finish a Short Rest, and you regain all expended *Threadling Dice* after a Long Rest. Additionally, after you cast a [Mindspun Invocation] spell, you regain a number of *Threadling Die* equal to the expended spell slot.
+***Regaining Threadling Dice.*** You regain one expended *Threadling Die* when you finish a **:rest-short: Short Rest**, and you regain all expended *Threadling Dice* after a **:rest-long: Long Rest**. Additionally, after you cast a [Mindspun Invocation] spell, you regain a number of *Threadling Die* equal to the expended spell slot.
 
 #### Threadling Die Uses
 
@@ -81,7 +81,7 @@ You gain new way to use your Threadlings, detailed below:
 
 When the target of your *Hunter's Mark* or creatures affected by *Suspend* or *Unravel* subfeature dies, you can take a **:rsc-r: Reaction**{ .rsc } and detonate its body. Each creature within 20 feet of the point must succeed on a Strength saving throw or take :dmg-force: **Force** damage equals to a number of *Threadling Die* up to your Wisdom modifier, have the Restrained condition, and lifted 5 feet off the ground for 1 minute. On a successful save, the targets only takes half damage. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success.
 
-Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending 3 Threadling Die (no action required).
+Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. You can also restore your use of it by expending 3 Threadling Die (no action required).
 
 ### Level 17: Weavewalk
 
@@ -89,7 +89,7 @@ You gain the ability to enter and exit the Weave at will. You always have the [:
 
 While on the Ethereal Plane, you perceive the Material Plane in shades of grey and can see up to 120 feet (instead of 60 feet). When you take a **:rsc-b: Bonus Action**{ .rsc } to vanish or reappear, you can make one weapon attack or an Unarmed Strike as part of the same  **:rsc-b: Bonus Action**{ .rsc }.
 
-Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending 3 Threadling Dice (no action required).
+Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. You can also restore your use of it by expending 3 Threadling Dice (no action required).
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 

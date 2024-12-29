@@ -27,7 +27,7 @@ While your **:class-abl-rage: Rage**{ .em } is active, a storm whips around you 
 
 ### Level 6: Storm Soul
 
-The storm grants you benefits even when your Storm Aura isn't active. Whenever you finish a Short or Long Rest choose one of the following effects, which lasts until you finish your next Short or Long Rest:
+The storm grants you benefits even when your Storm Aura isn't active. Whenever you finish a **:rest-short: Short** or **:rest-long: Long Rest** choose one of the following effects, which lasts until you finish your next **:rest-short: Short** or **:rest-long: Long Rest**:
 
 ***Desert.*** You have **:dmg-res: Resistance**{ .em } to :dmg-fire: Fire damage and you don't suffer effects caused by extreme heat, and as an action you can touch a flammable object that isn't being worn or carried by anyone else and set it on fire.
 

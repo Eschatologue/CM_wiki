@@ -36,7 +36,7 @@ You gain the following benefits.
 
 ***Charmed Resistance.*** You have **:d20-adv: Advantage**{ .d20 } on saving throws you make to avoid or end the ^^Charmed^^ condition.
 
-***Trance.*** You don't need to sleep, and magic can't put you to sleep. You can finish a Long Rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
+***Trance.*** You don't need to sleep, and magic can't put you to sleep. You can finish a **:rest-long: Long Rest** in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
 
 #### Keen Senses (1)
 
@@ -60,7 +60,7 @@ The following are traits from the Human species.
 
 #### Resourceful (2)
 
-You gain Heroic Inspiration whenever you finish a Long Rest.
+You gain Heroic Inspiration whenever you finish a **:rest-long: Long Rest**.
 
 #### Skillful (1)
 

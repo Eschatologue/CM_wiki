@@ -25,7 +25,7 @@ When you reach level 10 in this class, you learn another Warlock cantrip of your
 
 #### Spell Slots
 
-The Witchblade Features table shows how many spell slots you have to cast your Warlock spells of levels 1-4. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a Short or Long Rest.
+The Witchblade Features table shows how many spell slots you have to cast your Warlock spells of levels 1-4. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
 ##### Witchblade Spellcasting
 
@@ -90,7 +90,7 @@ Temporary Hit Points you gain from this feature last for 1 minute, or until you 
 
 You siphon power from death. When a creature dies within 30 feet of you, you can take a **:rsc-r: Reaction**{ .rsc } to regain one expended Pact Magic spell slot, or 1d4 of your expended Hit Dice.
 
-Once you use this feature you must finish a Short or Long Rest before you can use it again.
+Once you use this feature you must finish a **:rest-short: Short** or **:rest-long: Long Rest** before you can use it again.
 
 [Warlock spell list]: ../../spells/class-specific/warlock.md
 

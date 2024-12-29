@@ -25,7 +25,7 @@ Your intensive training in battle grants you unparalleled focus.
    
 ***Counter.*** When a creature you can see hit or misses you with a Melee attack, you can take a **:rsc-r: Reaction**{ .rsc } to make a melee weapon attack or an Unarmed Strike against the creature.
 
-You can use your Fighting Spirit feature a total of 4 times, expending one use each time you use either *Precision* or *Counter*. You regain 1 expended use at the end of a Short Rest, and all expended uses at the end of a Long Rest. 
+You can use your Fighting Spirit feature a total of 4 times, expending one use each time you use either *Precision* or *Counter*. You regain 1 expended use at the end of a **:rest-short: Short Rest**, and all expended uses at the end of a **:rest-long: Long Rest**. 
 
 ### Level 7: Elegant Courtier
 

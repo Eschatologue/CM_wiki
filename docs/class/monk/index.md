@@ -112,7 +112,7 @@ Your focus and martial training allow you to harness a well of extraordinary ene
 
 You can expend these points to enhance or fuel certain Monk features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind, each of which is detailed below.
 
-When you expend a :class-phb24-monk: **Focus Point**, it is unavailable until you finish a Short or Long Rest, at the end of which you regain all your expended points.
+When you expend a :class-phb24-monk: **Focus Point**, it is unavailable until you finish a **:rest-short: Short** or **:rest-long: Long Rest**, at the end of which you regain all your expended points.
 
 Some features that use :class-phb24-monk: **Focus Points** require your target to make a saving throw. The save DC equals 8 plus your Wisdom modifier and Proficiency Bonus.
 
@@ -136,7 +136,7 @@ Your **:rsc-spd: Speed**{ .em } increases by 10 feet while you aren't wearing ar
 
 When you roll Initiative, you can regain all expended :class-phb24-monk: **Focus Points**. When you do so, roll your Martial Arts die, and regain a number of Hit Points equal to your Monk level plus the number rolled.
 
-Once you use this feature, you can't use it again until you finish a Long Rest.
+Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**.
 
 ### Level 3: Deflect Attacks
 

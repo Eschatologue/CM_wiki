@@ -97,7 +97,7 @@ When you reach Sorcerer levels 4 and 10, you learn another Sorcerer cantrip of y
 
 #### Spell Slots
 
-The Sorcerer Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
+The Sorcerer Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a **:rest-long: Long Rest**.
 
 #### Prepared Spells of Level 1+
 
@@ -124,13 +124,13 @@ An event in your past left an indelible mark on you, infusing you with simmering
 
 - The spell save DC of your Sorcerer spells increases by 1.
 - You have Advantage on the attack rolls of Sorcerer spells you cast.
-- You can use this feature twice, and you regain all expended uses of it when you finish a Long Rest.
+- You can use this feature twice, and you regain all expended uses of it when you finish a **:rest-long: Long Rest**.
 
 ### Level 2: Font Of Magic
 
 You can tap into the wellspring of magic within yourself. This wellspring is represented by Sorcery Points, which allow you to create a variety of magical effects.
 
-You have 2 Sorcery Points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer Features table. You can't have more Sorcery Points than the number shown in the table for your level. You regain all expended Sorcery Points when you finish a Long Rest.
+You have 2 Sorcery Points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer Features table. You can't have more Sorcery Points than the number shown in the table for your level. You regain all expended Sorcery Points when you finish a **:rest-long: Long Rest**.
 
 You can use your Sorcery Points to fuel the options below, along with other features, such as Metamagic, that use those points.
 
@@ -138,7 +138,7 @@ You can use your Sorcery Points to fuel the options below, along with other feat
 
 ***Creating Spell Slots.*** As a **:rsc-b: Bonus Action**{ .rsc }, you can transform unexpended Sorcery Points into one spell slot. The Creating Spell Slots table shows the cost of creating a spell slot of a given level, and it lists the minimum Sorcerer level you must be to create a slot. You can create a spell slot no higher than level 5.
 
-Any spell slot you create with this feature vanishes when you finish a Long Rest.
+Any spell slot you create with this feature vanishes when you finish a **:rest-long: Long Rest**.
 
 ##### Creating Spell Slots
 
@@ -170,7 +170,7 @@ You gain the [:option-feat-general: Ability Score Improvement](../../option/feat
 
 ### Level 5: Sorcerous Restoration
 
-When you finish a Short Rest, you can regain expended Sorcery Points, but no more than a number equal to half your Sorcerer level (round down). Once you use this feature, you can't do so again until you finish a Long Rest.
+When you finish a **:rest-short: Short Rest**, you can regain expended Sorcery Points, but no more than a number equal to half your Sorcerer level (round down). Once you use this feature, you can't do so again until you finish a **:rest-long: Long Rest**.
 
 ### Level 7: Sorcery Incarnate
 

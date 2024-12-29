@@ -91,7 +91,7 @@ As a student of arcane magic, you have learned to cast spells. See chapter 7 for
 
 #### Cantrips
 
-You know three Wizard cantrips of your choice. [:spell-lv0: Light], [:spell-lv0: Mage Hand], and [:spell-lv0: Ray of Frost] are recommended. Whenever you finish a Long Rest, you can replace one of your cantrips from this feature with another Wizard cantrip of your choice.
+You know three Wizard cantrips of your choice. [:spell-lv0: Light], [:spell-lv0: Mage Hand], and [:spell-lv0: Ray of Frost] are recommended. Whenever you finish a **:rest-long: Long Rest**, you can replace one of your cantrips from this feature with another Wizard cantrip of your choice.
 
 When you reach Wizard levels 4 and 10, you learn another Wizard cantrip of your choice, as shown in the Cantrips column of the Wizard Features table.
 
@@ -105,7 +105,7 @@ Whenever you gain a Wizard level after 1, add two Wizard spells of your choice t
 
 #### Spell Slots
 
-The Wizard Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
+The Wizard Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a **:rest-long: Long Rest**.
 
 #### Prepared Spells of Level 1+
 
@@ -117,7 +117,7 @@ If another Wizard feature gives you spells that you always have prepared, those 
 
 #### Changing Your Prepared Spells
 
-Whenever you finish a Long Rest, you can change your list of prepared spells, replacing any of the spells there with spells from your spellbook.
+Whenever you finish a **:rest-long: Long Rest**, you can change your list of prepared spells, replacing any of the spells there with spells from your spellbook.
 
 #### Spellcasting Ability
 
@@ -143,9 +143,9 @@ You can cast any spell as a Ritual if that spell has the Ritual tag and the spel
 
 ### Level 1: Arcane Recovery
 
-You can regain some of your magical energy by studying your spellbook. When you finish a Short Rest, you can choose expended spell slots to recover. The spell slots can have a combined level equal to no more than half your Wizard level (round up), and none of the slots can be level 6 or higher. For example, if you're a level 4 Wizard, you can recover up to two levels' worth of spell slots, regaining either one level 2 spell slot or two level 1 spell slots.
+You can regain some of your magical energy by studying your spellbook. When you finish a **:rest-short: Short Rest**, you can choose expended spell slots to recover. The spell slots can have a combined level equal to no more than half your Wizard level (round up), and none of the slots can be level 6 or higher. For example, if you're a level 4 Wizard, you can recover up to two levels' worth of spell slots, regaining either one level 2 spell slot or two level 1 spell slots.
 
-Once you use this feature, you can't do so again until you finish a Long Rest.
+Once you use this feature, you can't do so again until you finish a **:rest-long: Long Rest**.
 
 ### Level 2: Scholar
 
@@ -161,13 +161,13 @@ You gain the [:option-feat-general: Ability Score Improvement](../../option/feat
 
 ### Level 5: Memorize Spell
 
-Whenever you finish a Short Rest, you can study your spellbook and replace one of the level 1+ Wizard spells you have prepared for your Spellcasting feature with another level 1+ spell from the book.
+Whenever you finish a **:rest-short: Short Rest**, you can study your spellbook and replace one of the level 1+ Wizard spells you have prepared for your Spellcasting feature with another level 1+ spell from the book.
 
 ### Level 18: Spell Mastery
 
 You have achieved such mastery over certain spells that you can cast them at will. Choose a level 1 and a level 2 spell in your spellbook that have a casting time of an action. You always have those spells prepared, and you can cast them at their lowest level without expending a spell slot. To cast either spell at a higher level, you must expend a spell slot.
 
-Whenever you finish a Long Rest, you can study your spellbook and replace one of those spells with an eligible spell of the same level from the book.
+Whenever you finish a **:rest-long: Long Rest**, you can study your spellbook and replace one of those spells with an eligible spell of the same level from the book.
 
 ### Level 19: Epic Boon
 
@@ -175,7 +175,7 @@ You gain an [:option-feat-boon: Epic Boon](../../option/feat/feat-boon.md) feat 
 
 ### Level 20: Signature Spells
 
-Choose two level 3 spells in your spellbook as your signature spells. You always have these spells prepared, and you can cast each of them once at level 3 without expending a spell slot. When you do so, you can't cast them in this way again until you finish a Short or Long Rest. To cast either spell at a higher level, you must expend a spell slot.
+Choose two level 3 spells in your spellbook as your signature spells. You always have these spells prepared, and you can cast each of them once at level 3 without expending a spell slot. When you do so, you can't cast them in this way again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**. To cast either spell at a higher level, you must expend a spell slot.
 
 --8<-- "includes/snippets/skills.md"
 --8<-- "includes/snippets/spells2/lv0.md"

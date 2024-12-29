@@ -91,13 +91,13 @@ Whenever you gain a Fighter level, you can replace the feat you chose with a dif
 
 You have a limited well of physical and mental stamina that you can draw on. As a **:rsc-b: Bonus Action**{ .rsc }, you can use it to regain Hit Points equal to 1d10 plus your Fighter level.
 
-You can use this feature twice. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
+You can use this feature twice. You regain one expended use when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 When you reach certain Fighter levels, you gain more uses of this feature, as shown in the Second Wind column of the Fighter Features table.
 
 ### Level 1: Weapon Mastery
 
-Your training with weapons allows you to use the Mastery properties of three kinds of Simple or Martial weapons of your choice. Whenever you finish a Long Rest, you can do one of the following:
+Your training with weapons allows you to use the Mastery properties of three kinds of Simple or Martial weapons of your choice. Whenever you finish a **:rest-long: Long Rest**, you can do one of the following:
 
 _**Change Weapon**_  
 You can practice weapon drills and change *one* of those weapon choices.
@@ -111,7 +111,7 @@ When you reach certain Fighter levels, you gain the ability to use the mastery p
 
 You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the **:rsc-a: Magic**{ .rsc } action.
 
-Once you use this feature, you can't do so again until you finish a Short or Long Rest. Starting at level 17, you can use it twice before a rest but only once on a turn.
+Once you use this feature, you can't do so again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**. Starting at level 17, you can use it twice before a rest but only once on a turn.
 
 ### Level 2: Tactical Mind
 
@@ -135,9 +135,9 @@ Whenever you activate your Second Wind with a **:rsc-b: Bonus Action**{ .rsc }, 
 
 ### Level 9: Indomitable
 
-If you fail a saving throw, you can reroll it with a bonus equal to your Fighter level. You must use the new roll, and you can't use this feature again until you finish a Long Rest.
+If you fail a saving throw, you can reroll it with a bonus equal to your Fighter level. You must use the new roll, and you can't use this feature again until you finish a **:rest-long: Long Rest**.
 
-You can use this feature twice before a Long Rest starting at level 13 and three times before a Long Rest starting at level 17.
+You can use this feature twice before a **:rest-long: Long Rest** starting at level 13 and three times before a **:rest-long: Long Rest** starting at level 17.
 
 ### Level 9: Tactical Master
 

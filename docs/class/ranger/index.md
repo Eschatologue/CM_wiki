@@ -91,7 +91,7 @@ As a Ranger, you gain the following class features when you reach the specified 
 
 ### Level 1: Favoured Enemy
 
-You always have the [:spell-lv1: Hunter's Mark] spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a Long Rest.
+You always have the [:spell-lv1: Hunter's Mark] spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a **:rest-long: Long Rest**.
 
 The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favoured Enemy column of the Ranger Features table. When the spell is cast this way, it does not require :spell-concentration: Concentration, though it ends early if you have the ^^Incapacitated^^ condition.
 
@@ -117,7 +117,7 @@ You have learned to channel the magical essence of nature to cast spells. See ch
 
 #### Spell Slots
 
-The Ranger Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
+The Ranger Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a **:rest-long: Long Rest**.
 
 #### Prepared Spells of Level 1+
 
@@ -129,7 +129,7 @@ If another Ranger feature gives you spells that you always have prepared, those 
 
 #### Changing Your Prepared Spells
 
-Whenever you finish a Long Rest, you can replace one spell on your list with another Ranger spell for which you have spell slots.
+Whenever you finish a **:rest-long: Long Rest**, you can replace one spell on your list with another Ranger spell for which you have spell slots.
 
 #### Spellcasting Ability
 
@@ -143,7 +143,7 @@ You can use a Druidic Focus as a Spellcasting Focus for your Ranger spells.
 
 Your training with weapons allows you to use the mastery properties of *two* kinds of weapons of your choice with which you have proficiency, such as Longbows and Shortswords.
 
-Whenever you finish a Long Rest, you can do *one* of the following:
+Whenever you finish a **:rest-long: Long Rest**, you can do *one* of the following:
 
 _**Change Weapon**_  
 You can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Longswords, or
@@ -191,9 +191,9 @@ Choose two of your skill proficiencies with which you lack Expertise. You gain E
 
 Primal forces now help fuel you on your journeys, granting you the following benefits.
 
-***Temporary Hit Points.*** As a **:rsc-a: Magic**{ .rsc } action, you can give yourself a number of Temporary Hit Points equal to 1d8 plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+***Temporary Hit Points.*** As a **:rsc-a: Magic**{ .rsc } action, you can give yourself a number of Temporary Hit Points equal to 1d8 plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
-***Decrease Exhaustion.*** Whenever you finish a Short Rest, your Exhaustion level, if any, decreases by 1.
+***Decrease Exhaustion.*** Whenever you finish a **:rest-short: Short Rest**, your Exhaustion level, if any, decreases by 1.
 
 ### Level 13: Relentless Hunter
 
@@ -203,7 +203,7 @@ The damage die of your [:spell-lv1: Hunter's Mark] improves to d8 when it is cas
 
 You invoke spirits of nature to magically hide yourself. As a **:rsc-b: Bonus Action**{ .rsc }, you can give yourself the ^^Invisible^^ condition until the end of your next turn.
 
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 ### Level 17: Precise Hunter
 

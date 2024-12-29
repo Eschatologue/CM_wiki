@@ -29,7 +29,7 @@ When you or an ally you can see forces a creature to make a saving throw, you ca
 
 If the target fails this save, roll a Bardic Inspiration die. The target takes psychic damage equal to the result, and is plagued with regret for 1 minute. If the target is reduced to 0 hit points during this time and can speak, they are magically compelled to utter darkly poetic final words before succumbing to their injuries.
 
-Once you use this feature, you can't use it again until you finish a Short or Long rest.
+Once you use this feature, you can't use it again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
 ### Level 6: Tale of Hubris
 
@@ -41,9 +41,9 @@ When a creature scores a Critical Hit against you or an ally within 60 feet of y
 
 *Your words can twist the power of fate to create triumph from the promise of future despair*. 
 
-When you make an attack roll or a saving throw, you can gain a +10 bonus to the roll, but the next attack roll or saving throw you make takes a -10 penalty. If not used, this penalty disappears when you finish a short or long rest.
+When you make an attack roll or a saving throw, you can gain a +10 bonus to the roll, but the next attack roll or saving throw you make takes a -10 penalty. If not used, this penalty disappears when you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
-You can't use this feature again until you finish a Short or Long Rest, or until you are reduced to 0 hit points.
+You can't use this feature again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**, or until you are reduced to 0 hit points.
 
 ### Level 14: Nimbus of Pathos
 
@@ -57,6 +57,6 @@ As an :rsc-a: Action, you can touch a willing creature and empower it with tragi
 
 ***Critical Hit Vulnerability.*** The number needed to roll for a Critical Hit against the creature using weapon attack or Unarmed Strike is reduced by 2.
 
-When this effect ends, the creature immediately drops to 0 hit points and has the Unconcious condition. Once you use this feature, you can't use it again until you finish a long rest.
+When this effect ends, the creature immediately drops to 0 hit points and has the Unconcious condition. Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**.
 
 ###### :material-book: Source from *Tal'Dorei Campaign Setting Reborn* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*

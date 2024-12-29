@@ -42,7 +42,7 @@ Additionally, when you take the Attack action, you can forgo one of your own att
 
 ### Pact of the Tome
 
-Stitching together strands of shadow, you conjure forth a book in your hand at the end of a Short or Long Rest. This Book of Shadows (you determine its appearance) contains eldritch magic that only you can access, granting you the benefits below. The book disappears if you conjure another book with this feature or if you die.
+Stitching together strands of shadow, you conjure forth a book in your hand at the end of a **:rest-short: Short** or **:rest-long: Long Rest**. This Book of Shadows (you determine its appearance) contains eldritch magic that only you can access, granting you the benefits below. The book disappears if you conjure another book with this feature or if you die.
 
 ***Cantrips and Rituals.*** When the book appears, choose three cantrips, and choose two level 1 spells that have the Ritual tag. The spells can be from any class's spell list, and they must be spells you don't already have prepared. While the book is on your person, you have the chosen spells prepared, and they function as Warlock spells for you.
 
@@ -162,7 +162,7 @@ _**Prerequisite:** Level 5+ Warlock_
 
 You can breathe underwater, and you gain a Swim Speed equal to your Speed.
 
-You can also cast [:spell-lv3: Water Breathing] once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Long Rest.
+You can also cast [:spell-lv3: Water Breathing] once without expending a spell slot. You regain the ability to cast it in this way again when you finish a **:rest-long: Long Rest**.
 
 ---
 
@@ -222,7 +222,7 @@ _**Prerequisite:** Level 9+ Warlock, [Pact of the Tome](#pact-of-the-tome)_
 
 A new page appears in your Book of Shadows when you conjure it. With your permission, a creature can take a **:rsc-a: Magic**{ .rsc } action to write its name on that page, which can contain a number of names equal to your Spellcasting modifier (minimum of one name).
 
-When any creature whose name is on the page is reduced to 0 Hit Points but not killed outright, the creature magically drops to 1 Hit Point instead. Once this magic is triggered, no creature can benefit from it until you finish a Long Rest.
+When any creature whose name is on the page is reduced to 0 Hit Points but not killed outright, the creature magically drops to 1 Hit Point instead. Once this magic is triggered, no creature can benefit from it until you finish a **:rest-long: Long Rest**.
 
 As a **:rsc-a: Magic**{ .rsc } action, you can erase a name on the page by touching it.
 

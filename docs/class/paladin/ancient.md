@@ -42,13 +42,13 @@ Ancient magic lies so heavily upon you that it forms an eldritch ward, blunting 
 
 ### Level 15: Undying Sentinel
 
-When you are reduced to 0 Hit Points and not killed outright, you can choose to drop to 1 Hit Point instead, and you regain a number of Hit Points equal to three times your Paladin level. Once you use this feature, you can't do so again until you finish a Long Rest.
+When you are reduced to 0 Hit Points and not killed outright, you can choose to drop to 1 Hit Point instead, and you regain a number of Hit Points equal to three times your Paladin level. Once you use this feature, you can't do so again until you finish a **:rest-long: Long Rest**.
 
 Additionally, you suffer none of the drawbacks of old age, and you can't be aged magically.
  
 ### Level 20: Elder Champion
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can imbue your Aura of Protection with primal power, granting the following benefits for 1 minute or until you end them (no action required). Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending a level 5 spell slot (no action required).
+As a **:rsc-b: Bonus Action**{ .rsc }, you can imbue your Aura of Protection with primal power, granting the following benefits for 1 minute or until you end them (no action required). Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 ***Diminish Defiance.*** Enemies in the aura have Disadvantage on saving throws against your spells and Channel Divinity options.
 

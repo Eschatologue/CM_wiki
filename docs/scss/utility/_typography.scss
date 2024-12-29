@@ -81,8 +81,7 @@
 
     &::before,
     &::after {
-        color: var(--md-default-fg-color--light);
-        margin: 0 0.1em;
+        margin: 0 0.25em;
     }
 }
 
@@ -91,15 +90,15 @@
 /* Damage-type Dynamic Class Generation */
 
 $damage-types: (
-    acid: #aed581,
+    acid: #D4E157,
     cold: #4fc3f7,
     fire: #ffa344,
     posn: #66bb6a,
-    thun: #9a6dd7,
+    thun: #9575CD,
     psyc: #e255a1,
-    lgtn: #529cca,
-    necr: #4db6ac,
-    radi: #ffeb3b,
+    lgtn: #1E88E5,
+    necr: #80CBC4,
+    radi: #FFEE58,
     force: #ff7369,
     phys: #b0bec5
 );
@@ -107,9 +106,9 @@ $damage-types: (
 @each $type, $color in $damage-types {
     /* Damage type: #{$type} */
     .dmg-#{$type} {
-        color: convert.hex3hsl($color);
+        color: convert.hex3hsl($color) !important;
         white-space: nowrap;
-        font-weight: 400 !important;
+        font-weight: 500 !important;
         font-style: none !important;
     }
 }

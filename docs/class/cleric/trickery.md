@@ -19,7 +19,7 @@ Religious orders that operate in secret, especially those that seek to undermine
 
 ### Level 3: Blessing of the Trickster
 
-As a **:rsc-a: Magic**{ .rsc } action, you can choose yourself or a willing creature within 30 feet of yourself to gain Advantage on Dexterity (Stealth) checks. This blessing lasts until you finish a Long Rest or until you use this feature again.
+As a **:rsc-a: Magic**{ .rsc } action, you can choose yourself or a willing creature within 30 feet of yourself to gain Advantage on Dexterity (Stealth) checks. This blessing lasts until you finish a **:rest-long: Long Rest** or until you use this feature again.
 
 ### Level 3: Invoke Duplicity
 

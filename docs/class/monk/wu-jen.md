@@ -25,7 +25,7 @@ You learn one additional Wu Jen cantrip when you reach Monk level 10 and 17.
 
 #### Spell Slots
 
-The Wu Jen Features table shows how many spell slots you have to cast your Wu Jen spells of levels 1-4. The table also shows the level of those slots, all of which are the same level. You regain all expended Wu Jen spell slots when you finish a Short or Long Rest.
+The Wu Jen Features table shows how many spell slots you have to cast your Wu Jen spells of levels 1-4. The table also shows the level of those slots, all of which are the same level. You regain all expended Wu Jen spell slots when you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
 #### Ki Casting
 
@@ -111,7 +111,7 @@ As a **:rsc-b: Bonus Action**{ .rsc }, you can draw all five elements into yours
 
 ***Forced Teleportation.*** Whenever you teleport with a Wu Jen feature or spell, you can touch a creature equal to you in size (or smaller) and teleport it with you (no action required). This includes grappled creatures.
 
-Your Elemental Form lasts for 1 minute, but it ends early if you have the Incapacitated condition or when you choose to end it (no action required). Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending 6 :class-phb24-monk: **Focus Points** (no action required).
+Your Elemental Form lasts for 1 minute, but it ends early if you have the Incapacitated condition or when you choose to end it (no action required). Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. You can also restore your use of it by expending 6 :class-phb24-monk: **Focus Points** (no action required).
 
 ---
 

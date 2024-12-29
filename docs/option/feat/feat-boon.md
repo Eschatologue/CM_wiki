@@ -44,7 +44,7 @@ You gain the following benefits.
 Increase one ability score of your choice by 1, to a maximum of 30.
 
 ***Energy Resistances***  
-You gain Resistance to two of the following damage types of your choice: Acid, Cold, Fire, Lightning, Necrotic, Poison, Psychic, Radiant, or Thunder. Whenever you finish a Long Rest, you can change your choices.
+You gain Resistance to two of the following damage types of your choice: Acid, Cold, Fire, Lightning, Necrotic, Poison, Psychic, Radiant, or Thunder. Whenever you finish a **:rest-long: Long Rest**, you can change your choices.
 
 ***Energy Redirection***  
 When you take damage of one of the types chosen for the Energy Resistances benefit, you can take a **:rsc-r: Reaction**{ .rsc } to direct damage of the same type toward another creature you can see within 60 feet of yourself that isn't behind Total Cover. If you do so, that creature must succeed on a Dexterity saving throw (DC 8 plus your Constitution modifier and Proficiency Bonus) or take damage equal to 2d12 plus your Constitution modifier.
@@ -61,7 +61,7 @@ You gain the following benefits.
 Increase one ability score of your choice by 1, to a maximum of 30.
 
 ***Improve Fate***  
-When you or another creature within 60 feet of you succeeds on or fails a D20 Test, you can roll 2d4 and apply the total rolled as a bonus or penalty to the d20 roll. Once you use this benefit, you can't use it again until you roll Initiative or finish a Short or Long Rest.
+When you or another creature within 60 feet of you succeeds on or fails a D20 Test, you can roll 2d4 and apply the total rolled as a bonus or penalty to the d20 roll. Once you use this benefit, you can't use it again until you roll Initiative or finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
 ---
 
@@ -106,10 +106,10 @@ You gain the following benefits.
 Increase one ability score of your choice by 1, to a maximum of 30.
 
 ***Last Stand***  
-When you would be reduced to 0 Hit Points, you can drop to 1 Hit Point instead and regain a number of Hit Points equal to half your Hit Point maximum. Once you use this benefit, you can't use it again until you finish a Long Rest.
+When you would be reduced to 0 Hit Points, you can drop to 1 Hit Point instead and regain a number of Hit Points equal to half your Hit Point maximum. Once you use this benefit, you can't use it again until you finish a **:rest-long: Long Rest**.
 
 ***Recover Vitality***  
-You have a pool of ten d10s. As a **:rsc-b: Bonus Action**{ .rsc }, you can expend dice from the pool, roll those dice, and regain a number of Hit Points equal to the roll's total. You regain all the expended dice when you finish a Long Rest.
+You have a pool of ten d10s. As a **:rsc-b: Bonus Action**{ .rsc }, you can expend dice from the pool, roll those dice, and regain a number of Hit Points equal to the roll's total. You regain all the expended dice when you finish a **:rest-long: Long Rest**.
 
 ---
 

@@ -80,7 +80,7 @@ When you attack with a Melee Weapon that you are holding with two hands whose ma
 You gain the following benefit:
 
 **Adaptive Proficiencies**  
-You gain proficiency in two skill of your choice. When you finish a Short Rest, you may change the chosen skill proficiencies to a different one.
+You gain proficiency in two skill of your choice. When you finish a **:rest-short: Short Rest**, you may change the chosen skill proficiencies to a different one.
 
 ---
 
@@ -97,7 +97,7 @@ You have **:d20-adv: Advantage**{ .d20 } on Intelligence (Arcana) checks when in
 Your magical item attunement limit is increased by one. All other magical attunement rule still applies.
     
 **Examine**  
-You can cast the *Identify* spell without expending a spell slot or Material components. You must finish a Long Rest before you can do so again.
+You can cast the *Identify* spell without expending a spell slot or Material components. You must finish a **:rest-long: Long Rest** before you can do so again.
 
 ---
 
@@ -197,7 +197,7 @@ When a creature's saving throw result on the d20 is equal or lower than your Pro
 You learn how to channel divine power given by the divine.
     
 **Channel Divinity**  
-Choose one Channel Divinity option from a Cleric or Paladin subclass. You can use this Channel Divinity once per Short Rest and it uses your Intelligence, Wisdom, or Charisma (choose one) modifier for it.
+Choose one Channel Divinity option from a Cleric or Paladin subclass. You can use this Channel Divinity once per **:rest-short: Short Rest** and it uses your Intelligence, Wisdom, or Charisma (choose one) modifier for it.
 
 **Repeatable**  
 Pick a different Channel Divinity option from a different Cleric or Paladin domain each time.

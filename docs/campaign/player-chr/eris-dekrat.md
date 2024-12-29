@@ -14,7 +14,7 @@ title: Eris Decrat's Gimmick
 
 *Not knowing much about magic, whatever you believe in is considered facts for you.*
 
-Choose one of the following skills: Arcana, History, Investigation, Nature, or Religion. You gain proficiency with that skill and can use your Charisma instead of Intelligence for ability checks with the chosen skill. You can change the chosen skill when you finish a Long Rest.
+Choose one of the following skills: Arcana, History, Investigation, Nature, or Religion. You gain proficiency with that skill and can use your Charisma instead of Intelligence for ability checks with the chosen skill. You can change the chosen skill when you finish a **:rest-long: Long Rest**.
 
 ### Level 3: Dekrat's Special:material-trademark:
 
@@ -79,7 +79,7 @@ When you reach Rogue level 10 and 17, you learn another Arts & Swash cantrip of 
 
 #### Spell Slots
 
-The Arts & Swash Spellcasting table shows how many :rsc-spell-slot: **Spell Slot** you have to cast an Arts spells of level 1-5. The table also shows the level of those slots, all of which are the same level. You regain all expended spell slots from this gimmick when you finish a Short or Long Rest.
+The Arts & Swash Spellcasting table shows how many :rsc-spell-slot: **Spell Slot** you have to cast an Arts spells of level 1-5. The table also shows the level of those slots, all of which are the same level. You regain all expended spell slots from this gimmick when you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
 #### Prepared Spells of Level 1+.
 
@@ -91,7 +91,7 @@ If another Arts & Swash feature gives you spells that you always have prepared o
 
 #### Changing Your Prepared Spells
 
-Whenever you finish a Long Rest, you can replace one spell on your list with another Arts & Swash spell of an eligible level.
+Whenever you finish a **:rest-long: Long Rest**, you can replace one spell on your list with another Arts & Swash spell of an eligible level.
 
 #### Spellcasting Ability
 
@@ -115,7 +115,7 @@ You the following benefits against your Quarry:
 
 ***No Concentration.*** The spell does not require you to :spell-concentration: Concentrate on it, though it ends early if you have the Incapacitated condition. All other rules, such as the spell's Duration still applies.
 
-You can use this feature a number of times equals to your Proficiency bonus. You regain one of its expended uses when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
+You can use this feature a number of times equals to your Proficiency bonus. You regain one of its expended uses when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 ### Level 5: The People's Eyebrow
 

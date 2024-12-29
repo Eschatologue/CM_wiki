@@ -108,7 +108,7 @@ When you reach Cleric levels 4 and 10, you learn another cantrip of your choice 
 
 #### Spell Slots
 
-The Cleric Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
+The Cleric Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a **:rest-long: Long Rest**.
 
 #### Prepared Spells of level 1+
 
@@ -121,7 +121,7 @@ If another Cleric feature gives you spells that you always have prepared, those 
 
 #### Changing Your Prepared Spells
 
-Whenever you finish a Long Rest, you can change your list of prepared spells, replacing one or more of the spells there with other Divine spells for which you have spell slots. Preparing a new list requires time spent in prayer and meditation: at least 1 minute per spell level for each spell you add to the list.
+Whenever you finish a **:rest-long: Long Rest**, you can change your list of prepared spells, replacing one or more of the spells there with other Divine spells for which you have spell slots. Preparing a new list requires time spent in prayer and meditation: at least 1 minute per spell level for each spell you add to the list.
 
 #### Spellcasting Ability
 
@@ -135,7 +135,7 @@ You can use a Holy Symbol as a Spellcasting Focus for the spells you prepare for
 
 You gain the ability to channel divine energy directly from the Outer Planes, using that energy to fuel magical effects. You start with two such effects: Divine Spark and Turn Undead, each of which is described below. Each time you use your Channel Divinity, you choose which effect to create, and you gain additional effect options at higher levels in this class.
 
-You can use Channel Divinity twice. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest. You gain additional uses when you reach certain Cleric levels, as shown in the Channel Divinity column of the Cleric table.
+You can use Channel Divinity twice. You regain one expended use when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**. You gain additional uses when you reach certain Cleric levels, as shown in the Channel Divinity column of the Cleric table.
 
 If a Channel Divinity effect requires a saving throw, the DC equals the Spell Save DC from this class's Spellcasting feature.
 
@@ -181,7 +181,7 @@ In the past, you have reached the divine source of your power through prayer. No
 
 ### Level 10: Divine Intervention
 
-You can call on your deity or pantheon to intervene on your behalf. As a **:rsc-a: Magic**{ .rsc } action, choose any Cleric spell of level 5 or lower that doesn't require a **:rsc-r: Reaction**{ .rsc } to cast. As part of the same action, you cast that spell without expending a spell slot or needing Material components. You can't use this feature again until you finish a Long Rest.
+You can call on your deity or pantheon to intervene on your behalf. As a **:rsc-a: Magic**{ .rsc } action, choose any Cleric spell of level 5 or lower that doesn't require a **:rsc-r: Reaction**{ .rsc } to cast. As part of the same action, you cast that spell without expending a spell slot or needing Material components. You can't use this feature again until you finish a **:rest-long: Long Rest**.
 
 ### Level 14: Improved Blessed Strikes
 

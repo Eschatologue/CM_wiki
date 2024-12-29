@@ -335,7 +335,7 @@ Your class and Constitution modifier determine your Hit Point maximum at level 1
 | Wizard | D6 | 6 + :ability-cons: CON modifier | 4 + :ability-cons: CON modifier |
 
 ***Hit Point Dice***  
-Your class's description tells you the die type of your character's Hit Point Dice (or Hit Dice for short); write this on your character sheet. At level 1, your character has 1 Hit Die. You can spend Hit Dice during a Short Rest to recover Hit Points. Your character sheet also includes space to note how many Hit Dice you've spent.
+Your class's description tells you the die type of your character's Hit Point Dice (or Hit Dice for short); write this on your character sheet. At level 1, your character has 1 Hit Die. You can spend Hit Dice during a **:rest-short: Short Rest** to recover Hit Points. Your character sheet also includes space to note how many Hit Dice you've spent.
 
 ***Initiative***  
 Write your Dexterity modifier in the space for Initiative on your character sheet.

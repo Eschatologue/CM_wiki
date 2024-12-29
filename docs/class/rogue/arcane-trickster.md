@@ -49,7 +49,7 @@ When you reach level 10 in this class, you learn another Wizard cantrip of your 
 
 #### Spell Slots
 
-The [Arcane Trickster Spellcasting table] shows how many spell slots you have to cast your spells of level 1 and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a Long Rest.
+The [Arcane Trickster Spellcasting table] shows how many spell slots you have to cast your spells of level 1 and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a **:rest-long: Long Rest**.
 
 #### Prepared Spells of Level 1+
 
@@ -89,7 +89,7 @@ You gain the ability to magically steal the knowledge of how to cast a spell fro
 
 Immediately after a creature casts a spell that targets you or includes you in its area of effect, you can take a **:rsc-r: Reaction**{ .rsc } to force the creature to make an Intelligence saving throw. The DC equals your spell save DC. On a failed save, you negate the spell's effect against you, and you steal the knowledge of the spell if it is at least level 1 and of a level you can cast (it doesn't need to be a Wizard spell). For the next 8 hours, you have the spell prepared. The creature can't cast it until the 8 hours have passed.
 
-Once you steal a spell with this feature, you can't use this feature again until you finish a Long Rest.
+Once you steal a spell with this feature, you can't use this feature again until you finish a **:rest-long: Long Rest**.
 
 [:spell-lv0: Mage Hand]: ../../spells/description/core/cantrip.md#mage-hand
 [Wizard spell list]: ../../spells/class-specific/wizard.md

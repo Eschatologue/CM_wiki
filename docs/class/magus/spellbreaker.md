@@ -51,7 +51,7 @@ Whenever your Mark forces you to make a saving throw to resist a spell or anothe
 
 Whenever you see your Mark make a D20 Test and you are within 30 feet, you can use your **:rsc-r: Reaction**{ .rsc } to end your [Baleful Mark] and impose Disadvantage on its roll.
 
-However, when you end your [Baleful Mark] in this way, you cannot Mark that creature again until you finish a Long Rest.
+However, when you end your [Baleful Mark] in this way, you cannot Mark that creature again until you finish a **:rest-long: Long Rest**.
 
 ### Level 15: Reflective Spellsunder
 
@@ -69,7 +69,7 @@ You have risen through the ranks of your Order to become an unparalleled hunter 
 
 ***Attack Advantage.*** You have Advantage on any weapon attack rolls you make as part of [Spellstrike] and [Spellsunder] against your Mark.
 
-***Maximum Damage.*** When you hit your Mark with a [Spellstrike] attack, you can end your [Baleful Mark] to cause your attack, including the spell, to deal maximum damage. After you do so, you can't Mark that creature again until you finish a Long Rest.
+***Maximum Damage.*** When you hit your Mark with a [Spellstrike] attack, you can end your [Baleful Mark] to cause your attack, including the spell, to deal maximum damage. After you do so, you can't Mark that creature again until you finish a **:rest-long: Long Rest**.
 
 [Baleful Mark]: #level-3-baleful-mark
 [Spellsight]: index.md#level-5-spellsight

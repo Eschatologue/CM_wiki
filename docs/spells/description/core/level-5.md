@@ -145,7 +145,7 @@ You contact a deity or a divine proxy and ask up to three questions that can be 
 
 Divine beings aren't necessarily omniscient, so you might receive "unclear" as an answer if a question pertains to information that lies beyond the deity's knowledge. In a case where a one-word answer could be misleading or contrary to the deity's interests, the DM might offer a short phrase as an answer instead.
 
-If you cast the spell more than once before finishing a Long Rest, there is a cumulative 25 percent chance for each casting after the first that you get no answer.
+If you cast the spell more than once before finishing a **:rest-long: Long Rest**, there is a cumulative 25 percent chance for each casting after the first that you get no answer.
 
 > **Classes:** Cleric
 
@@ -233,7 +233,7 @@ You brandish the weapon used to cast the spell and choose a point within range. 
 
 You mentally contact a demigod, the spirit of a long-dead sage, or some other knowledgeable entity from another plane. Contacting this otherworldly intelligence can break your mind. When you cast this spell, make a DC 15 Intelligence saving throw. On a successful save, you can ask the entity up to five questions. You must ask your questions before the spell ends. The DM answers each question with one word, such as "yes," "no," "maybe," "never," "irrelevant," or "unclear" (if the entity doesn't know the answer to the question). If a one-word answer would be misleading, the DM might instead offer a short phrase as an answer.
 
-On a failed save, you take 6d6 Psychic damage and have the Incapacitated condition until you finish a Long Rest. A *Greater Restoration* spell cast on you ends this effect.
+On a failed save, you take 6d6 Psychic damage and have the Incapacitated condition until you finish a **:rest-long: Long Rest**. A *Greater Restoration* spell cast on you ends this effect.
 
 > **Classes:** Warlock, Wizard
 
@@ -795,7 +795,7 @@ The creature returns to life with 1 Hit Point. This spell also neutralizes any p
 
 This spell closes all mortal wounds, but it doesn't restore missing body parts. If the creature is lacking body parts or organs integral for its survival—its head, for instance—the spell automatically fails.
 
-Coming back from the dead is an ordeal. The target takes a -4 penalty to D20 Tests. Every time the target finishes a Long Rest, the penalty is reduced by 1 until it becomes 0.
+Coming back from the dead is an ordeal. The target takes a -4 penalty to D20 Tests. Every time the target finishes a **:rest-long: Long Rest**, the penalty is reduced by 1 until it becomes 0.
 
 > **Classes:** Bard, Cleric, Paladin
 

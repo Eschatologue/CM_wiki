@@ -27,7 +27,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 ### Level 3: Steps Of The Fey
 
-Your patron bestows on you the ability to move between the boundaries of the planes. You can cast Misty Step without expending a spell slot a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+Your patron bestows on you the ability to move between the boundaries of the planes. You can cast Misty Step without expending a spell slot a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
  
 In addition, whenever you cast that spell, you can choose one of the following additional effects.
 
@@ -51,7 +51,7 @@ Your patron teaches you how to guard your mind and body. You are immune to the C
 
 In addition, immediately after a creature you can see hits you with an attack roll, you can use your **:rsc-r: Reaction**{ .rsc } to reduce the damage you take by half (round down), and you can force the attacker to make a Wisdom saving throw against your spell save DC. On a failed save, the attacker takes Psychic damage equal to the damage you take.
 
-Once you use this **:rsc-r: Reaction**{ .rsc }, you can't use it again until you finish a Long Rest unless you expend a spell slot when you use it again.
+Once you use this **:rsc-r: Reaction**{ .rsc }, you can't use it again until you finish a **:rest-long: Long Rest** unless you expend a spell slot when you use it again.
 
 ### Level 14: Bewitching Magic
 
