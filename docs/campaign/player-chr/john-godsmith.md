@@ -48,12 +48,10 @@ You regain one of your expended Maledict Dice when you finish a **:rest-short: S
 
 #### Maledict Die Powers
 
-**Cauterising Flame**{ .inl } As a **:rsc-a: Magic**{ .rsc } action, you can expend a number of ^^Maledict Die^^ up to your Rage Damage bonus, rolling them and regain a number of **:dmg-heal: Hit Points**{ .dmg-heal } equal to the roll's total. If your **:class-abl-rage: Rage** is active, add your Rage Damage bonus to the total.
-
+**Cauterising Flame**{ .inl } As a **:rsc-a: Magic**{ .rsc } action, you can expend a number of ^^Maledict Die^^ up to your Rage Damage bonus, rolling them and regain a number of **:dmg-heal: Hit Points**{ .dmg-heal } equal to the roll's total. If your **:class-abl-rage: Rage** is active, add your Rage Damage bonus to the total.  
 &emsp; This power can't be used if you have no ^^Maledict Die^^ remaining. 
 
-**Flames of Creation**{ .inl } When you take the **:rsc-a: Attack**{ .rsc } action on your turn, you can expend a number of ^^Maledict Dice^^ up to your Rage Damage bonus. Roll the dice and replace one of your attacks to stomp the ground, creating a fiery explosion in a **15-foot :aoe-cone: Cone** originating from you. Each affected targets must make a :d20-save: Dexterity saving throw, taking **:dmg-fire: Fire**{ .dmg-fire } damage equal to the total rolled (halved on a success). If your **:class-abl-rage: Rage** is active, add your Rage Damage bonus to the total rolled. 
-
+**Flames of Creation**{ .inl } When you take the **:rsc-a: Attack**{ .rsc } action on your turn, you can expend a number of ^^Maledict Dice^^ up to your Rage Damage bonus. Roll the dice and replace one of your attacks to stomp the ground, creating a fiery explosion in a **15-foot :aoe-cone: Cone** originating from you. Each affected targets must make a :d20-save: Dexterity saving throw, taking **:dmg-fire: Fire**{ .dmg-fire } damage equal to the total rolled (halved on a success). If your **:class-abl-rage: Rage** is active, add your Rage Damage bonus to the total rolled.  
 &emsp; Flammable objects in the area that aren't being worn or carried starts **Burning**(1).
 { .annotate }
 
