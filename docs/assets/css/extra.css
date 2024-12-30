@@ -204,13 +204,12 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
 .inl::before {
   content: "‹";
   color: var(--md-default-fg-color--light);
+  margin-right: 0.25em;
 }
 .inl::after {
   content: "›";
   color: var(--md-default-fg-color--light);
-}
-.inl::before, .inl::after {
-  margin: 0 0.25em;
+  margin-left: 0.25em;
 }
 
 /* Damage-type Dynamic Class Generation */
