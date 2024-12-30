@@ -8,14 +8,25 @@ Characters and monster are good at various things. Some are skilled with many we
 
 This bonus is applied to a D20 Test when the creature has proficiency in a skill, in a :d20-save: Saving Throw, or a with an item that the creature uses to make the D20 Test. The Bonus is also used for spell attacks and for calculationg the DC of saving throws spells.
 
-##### Proficiency bonus
+##### Proficiency Bonus
 
-| Level or CR | Bonus | | Level or CR | Bonus |
-|:-:|:-:|---|:-:|:-:|
-| Up to 4 | +2 | | 17-20 | +6 |
-| 5-8 | +3 | | 21-24 | +7 |
-| 9-12 | +4 | | 25-28 | +8 |
-| 13-16| +5 | | 29-30 | +9 |
+<div class="grid" markdown>
+
+| Level or CR | Bonus | 
+|:-:|:-:|
+| Up to 4 | +2 | 
+| 5-8 | +3 | 
+| 9-12 | +4 | 
+| 13-16| +5 | 
+
+| Level or CR | Bonus |
+|:-:|:-:|
+| 17-20 | +6 |
+| 21-24 | +7 |
+| 25-28 | +8 |
+| 29-30 | +9 |
+
+</div>
 
 ## The Bonus Doesn't Stack
 
