@@ -29,7 +29,7 @@ You harbor a wellspring of psionic energy within yourself. This energy is repres
 | 13 | :die-d10: **D10** | 10 |
 | 17 | :die-d12: **D12** | 12 |
 
-Any features in this sublass that usea Psionic Energy Die use only the dice from this subclass. Some of your powers expend the Psionic Energy Die as specified in a power;s description, and you can't use a power if it requires you to use a dice when all your Psionic Energy Dice are expended.
+Any features in this sublass that usea Psionic Energy Die use only the dice from this subclass. Some of your powers expend the Psionic Energy Die as specified in a power's description, and you can't use a power if it requires you to use a dice when all your Psionic Energy Dice are expended.
 
 You regain one of your expended Psionic Energy Die when you finish a **:rest-short: Short Rest**, and you regain all of them when you finish a **:rest-long: Long Rest**.
 
