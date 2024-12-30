@@ -75,12 +75,12 @@
     &::before{
         content: "‹";
         color: var(--md-default-fg-color--light);
-        margin-right: 0.25em;
+        margin-right: 0.2em;
     }
     &::after{
         content: "›";
         color: var(--md-default-fg-color--light);
-        margin-left: 0.25em;
+        margin-left: 0.2em;
     }
 }
 

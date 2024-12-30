@@ -4,7 +4,7 @@ title: Path of the Finality
 
 <p style="display:none">
 
-John K, Godsmith Gimmick
+John K. Gimmick
 
 </p>
 
@@ -17,10 +17,6 @@ You stand as the last remnant of a lineage that has long perished—a relic from
 Your name, your family, and your tribe all converge at a singular point in history—a history the Spires played a part in erasing. What secrets lie beyond the stars? What mysteries rest beneath this continent? And what awaits at the journey's end?
 
 > *“May your blade be swift, your judgment just, and your decisions resolute.”*
-
-### Level 1: The Joy of Fishing
-
-Memories from somewhere beyond *somehow* gives you Proficiency with [Fishing Supplies](../../equipment/tools/other-tools.md#fishings-supplies) if you don't already have it. Moreover, when you don't have Fishing Supplies, you can spend 1 hour and 150 SP worth of material to create one. This can be done as part of a **:rest-short: Short Rest**.
 
 ### Level 3: Heaven's Maledict
 
@@ -48,10 +44,14 @@ You regain one of your expended Maledict Dice when you finish a **:rest-short: S
 
 #### Maledict Die Powers
 
-**Cauterising Flame**{ .inl } As a **:rsc-a: Magic**{ .rsc } action, you can expend a number of ^^Maledict Die^^ up to your Rage Damage bonus, rolling them and regain a number of **:dmg-heal: Hit Points**{ .dmg-heal } equal to the roll's total. If your **:class-abl-rage: Rage** is active, add your Rage Damage bonus to the total.  
-&emsp; This power can't be used if you have no ^^Maledict Die^^ remaining. 
+**Cauterising Flame**{ .inl }  
+As a **:rsc-a: Magic**{ .rsc } action, you can roll a number of Maledict Die up to your Rage Damage Bonus and regain a number of **:dmg-heal: Hit Points**{ .dmg-heal } equal to the result.
 
-**Flames of Creation**{ .inl } When you take the **:rsc-a: Attack**{ .rsc } action on your turn, you can expend a number of ^^Maledict Dice^^ up to your Rage Damage bonus. Roll the dice and replace one of your attacks to stomp the ground, creating a fiery explosion in a **15-foot :aoe-cone: Cone** originating from you. Each affected targets must make a :d20-save: Dexterity saving throw, taking **:dmg-fire: Fire**{ .dmg-fire } damage equal to the total rolled (halved on a success). If your **:class-abl-rage: Rage** is active, add your Rage Damage bonus to the total rolled.  
+**Smite of Origin**{ .inl }  
+After you hit a target with a Strength-based attack, you can roll a number of Maledict Die up to your Rage Damage bonus, and deal extra **:dmg-fire: Fire**{ .dmg-fire } damage to the target equal to the number rolled.
+
+**Flames of Creation**{ .inl }  
+When you take the **:rsc-a: Attack**{ .rsc } action, you can replace one of your attack to roll a number of Maledict Die up to your Rage Damage Bonus and cause a burst of flame in a **15-foot :aoe-cone: Cone** originating from you. Each affected creature must succeed a :d20-save: Dexterity saving throw, or take **:dmg-fire: Fire**{ .dmg-fire } damage equal to the total rolled.  
 &emsp; Flammable objects in the area that aren't being worn or carried starts **Burning**(1).
 { .annotate }
 
@@ -59,15 +59,29 @@ You regain one of your expended Maledict Dice when you finish a **:rest-short: S
     
     --8<-- "docs/glossary.md:haz-burning"
 
-**Smite of Origin**{ .inl } After you hit a target with a Strength-based attack, you can expend a number of ^^Maledict Die^^ up to your Rage Damage bonus, roll them, and deal extra **:dmg-fire: Fire**{ .dmg-fire } damage to the target equal to the number rolled.
+### Level 3: The Joy of Fishing
 
-### Level 6: Primordial Flare
+Memories from somewhere beyond *somehow* gives you Proficiency with [Fishing Supplies](../../equipment/tools/other-tools.md#fishings-supplies) if you don't already have it. Moreover, when you don't have Fishing Supplies, you can spend 1 hour and 150 SP worth of material to create one. This can be done as part of a **:rest-short: Short Rest**.
 
-You gain new way to use your Heaven's Maledict. The following options are added to your [Maledict Die Powers](#maledict-die-powers).
+Moreover, while fishing, you can expend a Maledict Die and add the die to the dice rolls you make to fish before any multipliers.
 
-**Lure of Blaze**{ .inl } While fishing, you can expend a ^^Maledict Die^^ and add the die to the dice rolls you make to fish before any multipliers.
+### Level 6: Potent Flames
 
-**Phoenix Dive**{ .inl } As a **:rsc-b: Bonus Action**{ .rsc }, you can expend a number of ^^Maledict Dice^^ up to your Rage Damage bonus, roll the dice, and teleport to a point you can see within 60 feet. Upon appearing, a blazing wave erupts in a **10-foot :aoe-emanation: Emanation** around you. Each creature in the area must make a :d20-save: Dexterity saving throw, taking **:dmg-fire: Fire**{ .dmg-fire } damage equal to the total rolled (halved on a success). If your **:class-abl-rage: Rage** is active, add your Rage Damage bonus to the total rolled.
+The searing curse from Celestial is anything but a normal fire, you gain the following benefits: 
 
-**Searing Enigma**{ .inl }  When you fail an **:d20-check: Ability Check** you can expend a ^^Maledict Die^^, roll it and add the result to the check, potentialy turning a failure to a success. The Dice is not expended if you still fail.
+**Bypass Resistances**{ .inl } When you deal **:dmg-fire: Fire**( .dmg-fire ) damage from a class feature, it ignores **:dmg-res: Resistance**. 
 
+**Healing Suppresion**{ .inl } When you deal **:dmg-fire: Fire**( .dmg-fire ) damage from a class feature to a creature, it can't regain **Hit Points**{ .dmg-heal } until the end of your next turn.
+
+### Level 6: Improved Maledict Powers
+
+You gain new way to use your Heaven's Maledict, detailed below.
+
+**Cauterising Flame: Conflagaration**{ .inl }  
+When you use **Cauterising Flame**{ .inl }, conditions such as Charmed or Frightened instantly ends. Your **:class-abl-rage: Rage** is also extended this way.
+
+**Smite of Origin: Flame Blitz**{ .inl }  
+After you use **Smite of Origin**{ .inl }, you can Teleport up to 15 feet to an unoccupied space you can see. After you teleport, each creature of your choice within 5 feet of the space you appear in takes **:dmg-fire: Fire**( .dmg-fire ) damage equal to one roll of your Maledict Die (this teleport does not expend Maledict Die).
+
+**Flames of Creation: Supernal Force**{ .inl }  
+Creature that fails the saving throw of your **Flame of Creation**{ .inl } have the Prone condition.
