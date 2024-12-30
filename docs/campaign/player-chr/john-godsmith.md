@@ -38,23 +38,23 @@ You gain the ability to channel the lethal repercussion of speaking Celestial to
 
 #### Maledict Die Saving Throw  
 
-If a power requires a **:d20-save: Saving Throw**, is calculated as follow:
-
-<center>
-**Maledict Die Save DC:** 8 plus your :ability-str: Strength or :ability-cons: Constitution modifier (whichever is the highest) and Proficiency Bonus.
-</center>
+If a power requires a **:d20-save: Saving Throw**, the DC is equals 8 + your Strength or Constitution Modifier + your Proficiency Bonus. Targets still takes half damage on a successful Save.
 
 #### Using Maledict Die
 
 Some of your powers expend the Maledict Die, as specified in a power's description. When you use a power that uses a ^^Maledict Die^^ while you have none remaining, you take **:dmg-necr: Necrotic**{ .dmg-necr } damage equals to the roll result, you have to roll the die even if the power itself doesn't call for rolling. 
 
-one of your expended Maledict Dice when you finish a **:rest-short: Short Rest**, and you regain all of them when you finish a **:rest-long: Long Rest**
+You regain one of your expended Maledict Dice when you finish a **:rest-short: Short Rest**, and you regain all of them when you finish a **:rest-long: Long Rest**
 
 #### Maledict Die Powers
 
-**Cauterising Flame**{ .inl } As a **:rsc-a: Magic**{ .rsc } action, you can expend a number of ^^Maledict Die^^ up to your Rage Damage bonus, rolling them and regain a number of **:dmg-heal: Hit Points**{ .dmg-heal } equal to the roll's total. This power can't be used if you have no ^^Maledict Die^^ remaining. If your **:class-abl-rage: Rage** is active, add your Rage Damage bonus to the total.
+**Cauterising Flame**{ .inl } As a **:rsc-a: Magic**{ .rsc } action, you can expend a number of ^^Maledict Die^^ up to your Rage Damage bonus, rolling them and regain a number of **:dmg-heal: Hit Points**{ .dmg-heal } equal to the roll's total. If your **:class-abl-rage: Rage** is active, add your Rage Damage bonus to the total.
 
-**Flames of Creation**{ .inl } When you take the **:rsc-a: Attack**{ .rsc } action on your turn, you can expend a number of ^^Maledict Dice^^ up to your Rage Damage bonus. Roll the dice and replace one of your attacks to stomp the ground, creating a fiery explosion in a **15-foot :aoe-cone: Cone** originating from you. Each affected targets must make a :d20-save: Dexterity saving throw, taking **:dmg-fire: Fire**{ .dmg-fire } damage equal to the total rolled (halved on a success). If your **:class-abl-rage: Rage** is active, add your Rage Damage bonus to the total rolled. Flammable objects in the area that aren't being worn or carried starts **Burning**(1).
+&emsp; This power can't be used if you have no ^^Maledict Die^^ remaining. 
+
+**Flames of Creation**{ .inl } When you take the **:rsc-a: Attack**{ .rsc } action on your turn, you can expend a number of ^^Maledict Dice^^ up to your Rage Damage bonus. Roll the dice and replace one of your attacks to stomp the ground, creating a fiery explosion in a **15-foot :aoe-cone: Cone** originating from you. Each affected targets must make a :d20-save: Dexterity saving throw, taking **:dmg-fire: Fire**{ .dmg-fire } damage equal to the total rolled (halved on a success). If your **:class-abl-rage: Rage** is active, add your Rage Damage bonus to the total rolled. 
+
+&emsp; Flammable objects in the area that aren't being worn or carried starts **Burning**(1).
 { .annotate }
 
 1. Burning is **NOT** a Condition, but a Hazard
@@ -69,7 +69,7 @@ You gain new way to use your Heaven's Maledict. The following options are added 
 
 **Lure of Blaze**{ .inl } While fishing, you can expend a ^^Maledict Die^^ and add the die to the dice rolls you make to fish before any multipliers.
 
-**Phoenix Dive**{ .inl }  As a **:rsc-b: Bonus Action**{ .rsc }, you can expend a number of ^^Maledict Dice^^ up to your Rage Damage bonus. Roll the dice and teleport to a point you can see within 60 feet. Upon arriving, a blazing wave erupts in a **10-foot :aoe-emanation: Emanation** around you. Each creature in the area must make a :d20-save: Dexterity saving throw, taking **:dmg-fire: Fire**{ .dmg-fire } damage equal to the total rolled (halved on a success). If your **:class-abl-rage: Rage** is active, add your Rage Damage bonus to the total rolled.
+**Phoenix Dive**{ .inl } As a **:rsc-b: Bonus Action**{ .rsc }, you can expend a number of ^^Maledict Dice^^ up to your Rage Damage bonus, roll the dice, and teleport to a point you can see within 60 feet. Upon appearing, a blazing wave erupts in a **10-foot :aoe-emanation: Emanation** around you. Each creature in the area must make a :d20-save: Dexterity saving throw, taking **:dmg-fire: Fire**{ .dmg-fire } damage equal to the total rolled (halved on a success). If your **:class-abl-rage: Rage** is active, add your Rage Damage bonus to the total rolled.
 
 **Searing Enigma**{ .inl }  When you fail an **:d20-check: Ability Check** you can expend a ^^Maledict Die^^, roll it and add the result to the check, potentialy turning a failure to a success. The Dice is not expended if you still fail.
 

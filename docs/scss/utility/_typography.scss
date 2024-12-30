@@ -74,9 +74,11 @@
 
     &::before{
         content: "‹";
+        color: var(--md-default-fg-color--light)
     }
     &::after{
         content: "›";
+        color: var(--md-default-fg-color--light)
     }
 
     &::before,
