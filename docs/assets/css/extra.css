@@ -300,6 +300,14 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
   font-style: none !important;
 }
 
+/* Damage type: heal */
+.dmg-heal {
+  color: hsl(180, 80%, 67%) !important;
+  white-space: nowrap;
+  font-weight: 500 !important;
+  font-style: none !important;
+}
+
 /*------------------------------------------------------- 
     Accent Colours
 --------------------------------------------------------*/
