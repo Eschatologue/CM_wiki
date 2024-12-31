@@ -216,8 +216,8 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
 }
 
 .indent {
-  text-indent: -1em;
-  padding-left: 1.1875em;
+  text-indent: -1.1875em;
+  padding-left: 1em;
 }
 
 /* Damage-type Dynamic Class Generation */
