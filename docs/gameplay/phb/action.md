@@ -20,13 +20,13 @@ For a creature to perform an action, particularly in combat scenarios, it must e
 **:rsc-a: Action**{ .rsc } - **:rsc-b: Bonus Action**{ .rsc } - **:rsc-r: Reaction**{ .rsc }
 </center>
 
-### **:rsc-a: Action**{ .rsc-h }
+### **:rsc-a: Action**{ .icon-head }
 
 An **:rsc-a: Action**{ .rsc } is one of the three primary resources that a creature can expend during its turn. Actions like **Attack**{ .rsc }, **Dash**{ .rsc },  **Magic**{ .rsc }, or **Unarmed Strike**{ .rsc } typically require an **:rsc-a: Action**{ .rsc }. 
 
 You can **only** use an **:rsc-a: Action**{ .rsc } for activities that explicitly require one. If an activity requires an **:rsc-a: Action**{ .rsc }, no other resources (**:rsc-b: Bonus Action**{ .rsc } or **:rsc-r: Reaction**{ .rsc }) can be used for that activity.
 
-### **:rsc-b: Bonus Action**{ .rsc-h }
+### **:rsc-b: Bonus Action**{ .icon-head }
 
 A **:rsc-b: Bonus Action**{ .rsc } is an additional action a creature can take during its turn, granted by certain class features, spells, or other abilities. 
 
@@ -34,7 +34,7 @@ You can only take a **:rsc-b: Bonus Action**{ .rsc } if a specific feature, spel
 
 The **:rsc-b: Bonus Action**{ .rsc } can be taken at any point during your turn unless its timing is specifically stated. If something prevents you from taking an **:rsc-a: Action**{ .rsc }, it also prevents you from taking a **:rsc-b: Bonus Action**{ .rsc }.
 
-### **:rsc-r: Reaction**{ .rsc-h }
+### **:rsc-r: Reaction**{ .icon-head }
 
 A **:rsc-r: Reaction**{ .rsc } is a special action that occurs in response to a specific trigger, which can happen either on your turn or on another creature's turn. The most common type of **:rsc-r: Reaction**{ .rsc } is the **Opportunity Attack**{ .em }.
 
@@ -112,9 +112,9 @@ If a spell must be maintained with Concentration, that fact appears in its Durat
 
 When you take the **Help**{ .rsc } action, you do one of the following:
 
-**Assist Ability Check**{ .inl } Choose one of your skill or tool proficiencies and one ally who can perceive you. You give **:d20-adv: Advantage**{ .d20 } to the next ability check that ally makes with the chosen skill or tool. This benefit expires if the ally doesn't use it before the start of your next turn. To give this assistance, you must be near enough to the ally to assist verbally or physically when the ally makes the check. The DM has final say on whether your assistance is possible.
+***Assist Ability Check***{ .inl } Choose one of your skill or tool proficiencies and one ally who can perceive you. You give **:d20-adv: Advantage**{ .d20 } to the next ability check that ally makes with the chosen skill or tool. This benefit expires if the ally doesn't use it before the start of your next turn. To give this assistance, you must be near enough to the ally to assist verbally or physically when the ally makes the check. The DM has final say on whether your assistance is possible.
 
-**Assist Attack Roll**{ .inl } You momentarily distract an enemy within 5 feet of you, giving **:d20-adv: Advantage**{ .d20 } to the next attack roll by one of your allies against that enemy. This benefit expires at the start of your next turn.
+***Assist Attack Roll***{ .inl } You momentarily distract an enemy within 5 feet of you, giving **:d20-adv: Advantage**{ .d20 } to the next attack roll by one of your allies against that enemy. This benefit expires at the start of your next turn.
 
 ---
 
@@ -186,7 +186,7 @@ First, you decide what perceivable circumstance will trigger your **:rsc-r: Reac
 
 When the trigger occurs, you can either take your **:rsc-r: Reaction**{ .rsc } right after the trigger finishes or ignore the trigger.
 
-**Readying a Spell**{ .inl } When you Ready a spell, you cast it as normal (expending any resources used to cast it) but hold its energy, which you release with your **:rsc-r: Reaction**{ .rsc } when the trigger occurs. To be readied, a spell must have a casting time of an action, and holding on to the spell's magic requires Concentration, which you can maintain up to the start of your next turn. If your Concentration is broken, the spell dissipates without taking effect.
+***Readying a Spell***{ .inl } When you Ready a spell, you cast it as normal (expending any resources used to cast it) but hold its energy, which you release with your **:rsc-r: Reaction**{ .rsc } when the trigger occurs. To be readied, a spell must have a casting time of an action, and holding on to the spell's magic requires Concentration, which you can maintain up to the start of your next turn. If your Concentration is broken, the spell dissipates without taking effect.
 
 ---
 

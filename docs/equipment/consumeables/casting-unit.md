@@ -22,7 +22,7 @@ Each Casting Unit holds a set number of charges and has a maximum spell level it
 ### Using Casting Units
 
 :material-timer: **Casting Time:** Follows the normal casting time of the stored spell (Action, Bonus Action, Reaction).  
-:spell-concentration: **Concentration:** If the spell requires Concentration, the user must maintain it.  
+:spell-conc: **Concentration:** If the spell requires Concentration, the user must maintain it.  
 :material-target-variant: **Bonus to Hit and Save DC:** Spells use the unit's bonus to hit and Save DC. The user's own spellcasting ability isn't applied.
 
 ### Storing Spells

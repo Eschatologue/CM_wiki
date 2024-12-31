@@ -93,7 +93,7 @@ As a Ranger, you gain the following class features when you reach the specified 
 
 You always have the [:spell-lv1: Hunter's Mark] spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a **:rest-long: Long Rest**.
 
-The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favoured Enemy column of the Ranger Features table. When the spell is cast this way, it does not require :spell-concentration: Concentration, though it ends early if you have the ^^Incapacitated^^ condition.
+The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favoured Enemy column of the Ranger Features table. When the spell is cast this way, it does not require :spell-conc: Concentration, though it ends early if you have the ^^Incapacitated^^ condition.
 
 ### Level 1: Ranger's Aptitude
 

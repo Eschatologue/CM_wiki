@@ -225,7 +225,7 @@ You can expend one use of your *Favoured Foe* to cast [:spell-lv3: Haste] withou
 
 _**Prerequisite:** Level 19+ Ranger, [Adrenaline I](#adrenaline-i)_
 
-When you cast [:spell-lv3: Haste] from the Adrenaline Aptidude, it does not require :spell-concentration: Concentration. The spell's last for the Duration stated in the spell.
+When you cast [:spell-lv3: Haste] from the Adrenaline Aptidude, it does not require :spell-conc: Concentration. The spell's last for the Duration stated in the spell.
 
 ---
 

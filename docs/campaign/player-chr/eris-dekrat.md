@@ -2,7 +2,7 @@
 title: Eris Decrat's Gimmick
 ---
 
-# Arts & Swash
+# Dekrat's Anti-Spellcasting Measures:material-trademark:
 
 **Base Sublass:** *[Swashbuckler](../../class/rogue/swashbuckler.md)*
 
@@ -10,7 +10,7 @@ title: Eris Decrat's Gimmick
 
 "Sortilege," a Gallian word used for sorcerers, are unlike wizards or others; they're given the power to weave magic as their birthright. You too are this so-called "Sortilege," but your way of weaving spells are quite different from your peers; you combine the power of spells, excessive guile, and the right amount of audacity.
 
-### Level 3: Based Arcane Knowledge 
+### Level 3: Arcane Knowledge 
 
 *Not knowing much about magic, whatever you believe in is considered facts for you.*
 
@@ -20,35 +20,30 @@ Choose one of the following skills: Arcana, History, Investigation, Nature, or R
 
 *You've learned how to break the normal rules and conventions of casting spells, bending them to your will and channeling them through your weapon strikes*
 
-Once per turn when you hit an attack that adds your :class-phb24-rogue: ^^Sneak Attack^^ damage, you can cast a spell to be channeled through it.
+Once per turn when you hit an attack that adds your **:class-phb24-rogue: Sneak Attack**{ .em } damage, you can cast a spell to be channeled through it.
 
 To be channeled this way, the spell must met the following requirements:
 
-- The Arts & Swash spell must have a casting time of an **:rsc-a: Action**{ .rsc }.
-- The Arts & Swash spell must require only a single spell *attack roll* or force its target to make a *saving throw*.
+- The Dekrat's spell must have a casting time of an **:rsc-a: Action**{ .rsc }.
+- The Dekrat's spell must require only a single spell *attack roll* or force its target to make a *saving throw*.
 
 The spell takes effect immediately in addition of the normal effects and damage from your weapon attack, under the rules below:
 
-:aoe-rad: ***Area of Effect***  
-If the spell targets an area greater than a 10-foot Cube, it takes effect as a 15-foot :aoe-cone: Cone originating from you, which must include your target, or it is contained to only affect the target of your attack (your choice on hit). Using a ranged weapon, your spell is contained to only affect the target of your attack.
+***:aoe-rad: Area of Effect***{ .inl } If the spell targets an area greater than a **10-foot :aoe-cube: Cube**, it takes effect as a **15-foot :aoe-cone: Cone** originating from you, which must include your target, or it is contained to only affect the target of your attack (your choice on hit). Using a ranged weapon, your spell is contained to only affect the target of your attack.
 
-:spell-lv0: ***Cantrips***  
-The Cantrip does not deal damage. Instead, your weapon attack deals the damage type dealt by the cantrip, and applies the cantrip's additional effects, other than damage, on hit.
+***:spell-lv0: Cantrips***{ .inl } The Cantrip does not deal damage. Instead, your weapon attack deals the damage type dealt by the cantrip, and applies the cantrip's additional effects, other than damage, on hit.
 
-:spell-concentration: ***Concentration***  
-If the spell requires your concentration, you must concentrate on it as soon as it takes effect on hit.
+***:spell-conc: Concentration***{ .inl } If the spell requires your :spell-conc: Concentration, you must concentrate on it as soon as it takes effect on hit.
 
-:d20-save: ***Saving Throw***  
-If the spell requires a saving throw when cast, the target makes the first save at a **:d20-disadv: Disadvantage**{ .d20 } on hit. On a Critical Hit, the target automatically fails the save. Other target (if any) make this save as normal.
+***:d20-save: Saving Throw***{ .inl } If the spell requires a saving throw when cast, the target makes the first save at a **:d20-disadv: Disadvantage**{ .d20 } on hit. On a Critical Hit, the target automatically fails the save. Other target (if any) make this save as normal.
 
-:d20-attack: ***Attack Roll***  
-If the spell requires an attack roll, it instantly take effect when you hit with a weapon attack.
+***:d20-attack: Attack Roll***{ .inl } If the spell requires an attack roll, it instantly take effect when you hit with a weapon attack.
 
-### Level 3: Self Taught Sorcery
+### Level 3: Dekrat's Spells:material-trademark:
 
 The weave of magic courses through you, yet you've never bothered to learn how to cast spells or study them. With the cost of teachers being quite high nowadays, you've forged your own path instead of adhering to your nation's tradition. While it may be seen as an insult to the old ways, your methods are just as, if not more, effective.
 
-##### Arts & Swash Spellcasting
+##### Dekrat's Spellcasting
 
 | rogue level | cantrips known | spells known | spell slots | slot level |
 | :-: | :-: | :-: | :-: | :-: |
@@ -73,25 +68,23 @@ The weave of magic courses through you, yet you've never bothered to learn how t
 
 #### Cantrip
 
-You learn two cantrip of your choice from the Arts [spell list], these cantrips counts as Arts & Swash spells for you. Whenever you gain a Rogue level, you can replace one of these cantrips with another cantrip of your choice from the Arts [spell list].
+You learn two cantrip of your choice from the [Dekrat's spell list], these cantrips counts as Dekrat's spells for you. Whenever you gain a Rogue level, you can replace one of these cantrips with another cantrip of your choice from the [Dekrat's spell list].
 
-When you reach Rogue level 10 and 17, you learn another Arts & Swash cantrip of your choice.
+When you reach Rogue level 10 and 17, you learn another cantrip from the list of your choice.
 
 #### Spell Slots
 
-The Arts & Swash Spellcasting table shows how many :rsc-spell-slot: **Spell Slot** you have to cast an Arts spells of level 1-5. The table also shows the level of those slots, all of which are the same level. You regain all expended spell slots from this gimmick when you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
+The Dekrat's Spellcasting table shows how many **:rsc-spell-slot: Spell Slot** you have to cast an Arts spells of level 1-5. The table also shows the level of those slots, all of which are the same level. You regain all expended spell slots from this gimmick when you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
 #### Prepared Spells of Level 1+.
 
 You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 spells from this gimmick spell list.
 
-The number of spells on your list increases as you gain Rogue levels, as shown in the Prepared Spells column of the Arts & Swash Spellcasting table. Whenever that number increases, choose additional spells from the Arts & Swash spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level no higher than what's shown in the table's Slot Level column for your level.
-
-If another Arts & Swash feature gives you spells that you always have prepared or know, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Arts & Swash spells for you.
+The number of spells on your list increases as you gain Rogue levels, as shown in the Prepared Spells column of the Dekrat's Spellcasting table. Whenever that number increases, choose additional spells from the Dekrat's spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level no higher than what's shown in the table's Slot Level column for your level.
 
 #### Changing Your Prepared Spells
 
-Whenever you finish a **:rest-long: Long Rest**, you can replace one spell on your list with another Arts & Swash spell of an eligible level.
+Whenever you finish a **:rest-long: Long Rest**, you can replace one spell on your list with another Dekrat's spell of an eligible level.
 
 #### Spellcasting Ability
 
@@ -99,43 +92,41 @@ Whenever you finish a **:rest-long: Long Rest**, you can replace one spell on yo
 
 #### Spellcasting Focus
 
-You brandish your weapon when you cast spells; weapons that are listed in **Weapon Proficiency** row in the [Core Rogue Trait](../../class/rogue/index.md#core-rogue-traits) table are spellcasting focus for you. Those weapon can also be used to perform the spell's Somatic components. Any other spellcasting focuses is restricted for any Arts & Swash spell.
+You brandish your weapon when you cast spells; weapons that are listed in **Weapon proficiency** row in the Core Rogue Trait table are spellcasting focus for you. Those weapon can also be used to perform the spell's Somatic components. Any other spellcasting focuses is restricted for any Dekrat's spell.
 
 ### Level 3: Spellbreaker's Mark
 
-You learn the [Hunter's Mark](../../spells/description/core/level-1.md#hunters-mark) spell and you can cast it without expending a spell slot. When you make an attack that deals :class-phb24-rogue: ^^Sneak Attack^^ damage, you can also cast this spell at the target as part of the attack. The target of this spell is considered your Quarry.
+When you roll for **Initiative** or as **:rsc-b: Bonus Action**{ .rsc } on your subsequent turn, you can place a **Spellbreaker's Mark** on a creature you can see. This Mark lasts until you use this feature on another creature or the target dies. 
 
-You the following benefits against your Quarry:
+You the following benefits against your Mark:
 
-***Spellcasting Type.*** You know your Quarry spellcasting ability (Intelligence, Wisdom, or Charisma), if any, and the level of the highest level spell it can cast.
+***Spellcasting Type***{ .inl } You know your Mark spellcasting ability (Intelligence, Wisdom, or Charisma), if any, and the level of the highest level spell it can cast.
 
-***Mage Breaker.*** Your Quarry has **:d20-disadv: Disadvantage**{ .d20 } on Concentration Checks against your attacks.
+***Mage Breaker***{ .inl } Your Mark has **:d20-disadv: Disadvantage**{ .d20 } on to maintain Concentration on its spells against your attacks.
 
-***New Sneak Attack.*** You gain an additional way to use your :class-phb24-rogue: ^^Sneak Attack^^: You can add your :class-phb24-rogue: ^^Sneak Attack^^ damage the damage roll on your weapon attack against your Quarry as long as you don't have **:d20-disadv: Disadvantage**{ .d20 } on the attack. 
+***New Sneak Attack***{ .inl } You can add your **:class-phb24-rogue: Sneak Attack**{ .em } damage the damage roll on your weapon attack against your Mark as long as you don't have **:d20-disadv: Disadvantage**{ .d20 } on the attack. 
 
-***No Concentration.*** The spell does not require you to :spell-concentration: Concentrate on it, though it ends early if you have the Incapacitated condition. All other rules, such as the spell's Duration still applies.
-
-You can use this feature a number of times equals to your Proficiency bonus. You regain one of its expended uses when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**.
+You can use this feature a number of times equals to your Proficiency Bonus. You regain one of its expended uses when you finish a **:rest-short: Short Rest**{ .em }, and you regain all expended uses when you finish a **:rest-long: Long Rest**{ .em }.
 
 ### Level 5: The People's Eyebrow
 
 *With a simple raise of your eyebrow, you possess the uncanny ability to disrupt and foil a spellcaster's magic.*
 
-When you see a creature cast a spell or teleporting within 60 feet of you, you can take a **:rsc-r: Reaction**{ .rsc } to do one of the following:
+When a creature you can see cast a spell or attempt to Teleport while within 60 feet of you, you can do one of the following:
 
-***Mark Target.*** Use your [Spellbreaker's Mark](#level-3-spellbreakers-mark), targeting the creature, or move already existing mark to the creature.
+***Mark Target***{ .inl } You can take a **:rsc-r: Reaction**{ .rsc } to use [Spellbreaker's Mark](#level-3-spellbreakers-mark), targeting the creature, or move already existing mark to the creature that triggered this reaction.
 
-***Nullify Magic.*** You can expend a spell slot, if the spell was cast at a level equal to the level of the spell slot you expended or lower, the spell fails and has no effect. If it was cast at a level higher than the slot you expended, make a Charisma ability check against DC of 10 + the level of the spell, the spell fails and has no effect when you succeed the check.
-
-[spell list]: #arts--swash-spell-list
+***Thwart Magic***{ .inl } You can take a **:rsc-r: Reaction**{ .rsc } to make Weapon attack against it, provided you are within your weapon's range. On hit, the target must succeed on a :d20-save: Constitution saving throw against your Spell Save DC or its spell or its Teleport fails.
 
 --8<-- "includes/snippets/skills.md"
 
+[Dekrat's spell list]: #dekrats-spell-list
+
 ---
 
-## Arts & Swash' Spell List
+## Dekrat's' Spell List
 
-This section presents this gimmick spell list. The spells are organized by spell level and then alphabetized. **DC** means the spell fufill the prerequisites to be channeled through Dekrat's Special.
+This section presents this gimmick spell list. The spells are organized by spell level and then alphabetized. **DS** means the spell fufill the prerequisites to be channeled through Dekrat's Special.
 
 === "Cantrip (Level 0 spells)"
 

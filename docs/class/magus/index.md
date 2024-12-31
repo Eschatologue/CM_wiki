@@ -152,7 +152,7 @@ If your attack misses, the spell fails and has no effect. On a hit, the spell ta
 
 :spell-lv0: ***Cantrips.*** The Cantrip does not deal damage. Instead, your weapon attack deals the damage type dealt by the cantrip, and applies the cantrip's additional effects, other than damage, on hit.
 
-:spell-concentration: ***Concentration.*** If the spell requires your Concentration, you must Concentrate on it as soon as it takes effect on hit.
+:spell-conc: ***Concentration.*** If the spell requires your Concentration, you must Concentrate on it as soon as it takes effect on hit.
 
 :d20-save: ***Saving Throw.*** If the spell requires a saving throw when cast, the target makes the first save at a **:d20-disadv: Disadvantage**{ .d20 } on hit. On a Critical Hit, the target automatically fails the save. Other target (if any) make this save as normal.
 

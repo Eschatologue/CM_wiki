@@ -18,6 +18,11 @@
   letter-spacing: 0.0225rem;
   color: var(--md-gbl-text-color-strong);
 }
+@media screen and (max-width: 720px) {
+  .md-typeset strong {
+    white-space: nowrap;
+  }
+}
 .md-typeset p {
   margin: 0.5rem 0;
 }
@@ -63,8 +68,8 @@
 }
 .md-typeset h3 {
   font-size: calc(var(--default-font-size) * 1.5);
-  font-weight: 530;
-  letter-spacing: calc(var(--default-font-size) * 0.045);
+  letter-spacing: calc(var(--default-font-size) * 0.03);
+  font-weight: 550;
   margin: 0.5rem 0;
   border-bottom: 0.1275rem dotted var(--md-default-wht--025);
   padding-bottom: 0.2rem;
@@ -128,7 +133,7 @@
 .md-typeset table:not([class]) td strong {
   font-weight: calc(var(--default-font-weight, 400) * 1.8);
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 720px) {
   .md-typeset table:not([class]) th {
     font-size: calc(var(--table-font-size) * 0.9);
   }
@@ -158,11 +163,11 @@
 /*------------------------------------------------------- 
     Typography
 --------------------------------------------------------*/
-.em, .inl, .rsc-h, .rsc, .d20 {
+.em, .inl, .rsc, .d20 {
   white-space: nowrap; /* Prevent selected block to split on smaller screen sizes, used in conjuction with icons */
   font-weight: 550 !important;
 }
-.em abbr, .inl abbr, .rsc-h abbr, .rsc abbr, .d20 abbr {
+.em abbr, .inl abbr, .rsc abbr, .d20 abbr {
   border-bottom: none !important;
 }
 
@@ -195,7 +200,20 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
   font-family: "Roboto", serif;
 }
 
-.rsc-h :is(.emojione, .twemoji, .gemoji) {
+.icon-head :is(.emojione, .twemoji, .gemoji) {
+  vertical-align: -0.1875em;
+}
+
+.indent, .inl {
+  text-indent: 1.125em;
+}
+@media screen and (max-width: 720px) {
+  .indent, .inl {
+    text-indent: 0.5625em;
+  }
+}
+
+.centre {
   vertical-align: -0.1875em;
 }
 
@@ -203,20 +221,24 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
   display: inline-block;
   position: relative;
 }
-.inl::before {
-  content: "«";
-  color: var(--md-default-fg-color--light);
-  margin-right: 0.1875em;
-}
 .inl::after {
+  font-style: normal !important;
+  font-weight: 400 !important;
   content: "»";
   color: var(--md-default-fg-color--light);
-  margin-left: 0.1875em;
+  margin-left: 0.25em;
+}
+.inl::before {
+  font-style: normal !important;
+  font-weight: 400 !important;
+  content: "«";
+  color: var(--md-default-fg-color--light);
+  margin-right: 0.25em;
 }
 
-.indent {
-  text-indent: -0.5em;
-  padding-left: 1.5em;
+.inl-idt {
+  text-indent: -1.125em;
+  padding-left: 2.25em;
 }
 
 /* Damage-type Dynamic Class Generation */
@@ -224,7 +246,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
 .dmg-acid {
   color: hsl(129, 69%, 54%) !important;
   white-space: nowrap;
-  font-weight: 500 !important;
+  font-weight: 550 !important;
   font-style: none !important;
 }
 
@@ -232,15 +254,15 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
 .dmg-cold {
   color: hsl(199, 91%, 64%) !important;
   white-space: nowrap;
-  font-weight: 500 !important;
+  font-weight: 550 !important;
   font-style: none !important;
 }
 
 /* Damage type: fire */
 .dmg-fire {
-  color: hsl(28, 96%, 47%) !important;
+  color: hsl(28, 75%, 53%) !important;
   white-space: nowrap;
-  font-weight: 500 !important;
+  font-weight: 550 !important;
   font-style: none !important;
 }
 
@@ -248,7 +270,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
 .dmg-posn {
   color: hsl(104, 58%, 42%) !important;
   white-space: nowrap;
-  font-weight: 500 !important;
+  font-weight: 550 !important;
   font-style: none !important;
 }
 
@@ -256,7 +278,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
 .dmg-thun {
   color: hsl(262, 47%, 63%) !important;
   white-space: nowrap;
-  font-weight: 500 !important;
+  font-weight: 550 !important;
   font-style: none !important;
 }
 
@@ -264,7 +286,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
 .dmg-psyc {
   color: hsl(328, 71%, 61%) !important;
   white-space: nowrap;
-  font-weight: 500 !important;
+  font-weight: 550 !important;
   font-style: none !important;
 }
 
@@ -272,7 +294,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
 .dmg-lgtn {
   color: hsl(208, 79%, 51%) !important;
   white-space: nowrap;
-  font-weight: 500 !important;
+  font-weight: 550 !important;
   font-style: none !important;
 }
 
@@ -280,7 +302,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
 .dmg-necr {
   color: hsl(174, 42%, 65%) !important;
   white-space: nowrap;
-  font-weight: 500 !important;
+  font-weight: 550 !important;
   font-style: none !important;
 }
 
@@ -288,7 +310,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
 .dmg-radi {
   color: hsl(54, 100%, 67%) !important;
   white-space: nowrap;
-  font-weight: 500 !important;
+  font-weight: 550 !important;
   font-style: none !important;
 }
 
@@ -296,7 +318,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
 .dmg-force {
   color: hsl(4, 100%, 71%) !important;
   white-space: nowrap;
-  font-weight: 500 !important;
+  font-weight: 550 !important;
   font-style: none !important;
 }
 
@@ -304,7 +326,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
 .dmg-phys {
   color: hsl(200, 15%, 73%) !important;
   white-space: nowrap;
-  font-weight: 500 !important;
+  font-weight: 550 !important;
   font-style: none !important;
 }
 
@@ -312,7 +334,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
 .dmg-heal {
   color: hsl(180, 80%, 67%) !important;
   white-space: nowrap;
-  font-weight: 500 !important;
+  font-weight: 550 !important;
   font-style: none !important;
 }
 
@@ -1051,7 +1073,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
 .md-typeset details.statblock table:not([class]) td:nth-child(4) {
   border-right: 8px solid var(--md-default-bg-color) !important;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 720px) {
   .md-typeset .admonition.statblock table:not([class]),
   .md-typeset details.statblock table:not([class]) {
     width: 100% !important;
@@ -1136,7 +1158,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
   grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
   grid-gap: 0.25em;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 720px) {
   .md-typeset .grid {
     grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));
   }

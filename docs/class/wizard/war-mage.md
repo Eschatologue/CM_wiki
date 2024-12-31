@@ -41,7 +41,7 @@ You can store magical energy within yourself to later empower your damaging spel
 
 ### Level 10: Durable Magic
 
-The magic you channel helps ward off harm. While you maintain :spell-concentration: Concentration on a spell, you have a +2 bonus to AC and all saving throws.
+The magic you channel helps ward off harm. While you maintain :spell-conc: Concentration on a spell, you have a +2 bonus to AC and all saving throws.
 
 ### Level 14: Deflecting Shroud
 

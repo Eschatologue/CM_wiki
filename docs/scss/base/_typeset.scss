@@ -24,6 +24,9 @@ $defaultFontSize: convert.px2rem(15px); // Base font size
     strong {
         letter-spacing: $defaultFontSize * 0.03;
         color: var(--md-gbl-text-color-strong);
+        @media screen and (max-width: 720px) {
+            white-space: nowrap;
+        }
     }
 
     // Paragraph styles
@@ -87,8 +90,8 @@ $defaultFontSize: convert.px2rem(15px); // Base font size
     // H3 Specific Styles
     h3 {
         font-size: calc(var(--default-font-size) * 1.5);
-        font-weight: 530;
-        letter-spacing: calc(var(--default-font-size) * 0.045);
+        letter-spacing: calc(var(--default-font-size) * 0.03);
+        font-weight: 550;
         margin: #{convert.px2rem(10px)} 0;
         border-bottom: #{convert.px2rem(2.55px)} dotted var(--md-default-wht--025);
         padding-bottom: #{convert.px2rem(4px)};

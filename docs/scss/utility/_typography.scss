@@ -56,41 +56,58 @@
 
 .rsc {
     @extend .em;
-
     font-family: "Roboto", serif;
 }
 
-.rsc-h {
-    @extend .em;
 
+.icon-head {
     :is(.emojione, .twemoji, .gemoji) {
         vertical-align: convert.px2em(-3px);
     }
 }
 
-// Inline Sub for options and features
-.inl {
-    @extend .em;
+$indent: 18px;
+.indent {
+    text-indent: convert.px2em($indent);
 
-    display: inline-block;
-    position: relative;
-
-    &::before {
-        content: "«";
-        color: var(--md-default-fg-color--light);
-        margin-right: convert.px2em(3px);
-    }
-
-    &::after {
-        content: "»";
-        color: var(--md-default-fg-color--light);
-        margin-left: convert.px2em(3px);
+    @media screen and (max-width: 720px) {
+        text-indent: convert.px2em($indent * 0.5);
     }
 }
 
-.indent {
-    text-indent: convert.px2em(-8px);
-    padding-left: convert.px2em(24px);
+.centre {
+    vertical-align: convert.px2em(-3px);
+}
+
+// Inline Sub for options and features
+.inl {
+    @extend .em;
+    @extend .indent;
+    
+    display: inline-block;
+    position: relative;
+
+    &::after {
+        font-style: normal !important;
+        font-weight: 400 !important;
+        content: "»";
+        color: var(--md-default-fg-color--light);
+        margin-left: convert.px2em(4px);
+    }
+
+    &::before {
+        font-style: normal !important;
+        font-weight: 400 !important;
+        content: "«";
+        color: var(--md-default-fg-color--light);
+        margin-right: convert.px2em(4px);
+    }
+}
+
+.inl-idt {
+    // Scales is Padding Left = Text Indent x 2. Text Indent is minus
+    text-indent: convert.px2em(-$indent);
+    padding-left: convert.px2em($indent * 2);
 }
 
 //-----------------------------------------------------//
@@ -100,7 +117,7 @@
 $damage-types: (
     acid: #38da4f,
     cold: #4fc3f7,
-    fire: #e96f05,
+    fire: #e1822e,
     posn: #4eaa2d,
     thun: #9575CD,
     psyc: #e255a1,
@@ -119,7 +136,7 @@ $damage-types: (
     .dmg-#{$type} {
         color: convert.hex3hsl($color) !important;
         white-space: nowrap;
-        font-weight: 500 !important;
+        font-weight: 550 !important;
         font-style: none !important;
     }
 }

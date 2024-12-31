@@ -44,14 +44,11 @@ You regain one of your expended ^^Maledict Dice^^ when you finish a **:rest-shor
 
 #### Maledict Die Powers
 
-**Cauterising Flame**{ .inl }  
-As a **:rsc-a: Magic**{ .rsc } action, you can roll a number of Maledict Die up to your Rage Damage Bonus and regain a number of **:dmg-heal: Hit Points**{ .dmg-heal } equal to the result.
+***Cauterising Flame***{ .inl } As a **:rsc-a: Magic**{ .rsc } action, you can roll a number of Maledict Die up to your Rage Damage Bonus and regain a number of **:dmg-heal: Hit Points**{ .dmg-heal } equal to the result.
 
-**Smite of Origin**{ .inl }  
-After you hit a target with a Strength-based attack, you can roll a number of Maledict Die up to your Rage Damage bonus, and deal extra **:dmg-fire: Fire**{ .dmg-fire } damage to the target equal to the number rolled.
+***Smite of Origin***{ .inl } After you hit a target with a Strength-based attack, you can roll a number of Maledict Die up to your Rage Damage bonus, and deal extra **:dmg-fire: Fire**{ .dmg-fire } damage to the target equal to the number rolled.
 
-**Flames of Creation**{ .inl }  
-When you take the **:rsc-a: Attack**{ .rsc } action, you can replace one of your attack to roll a number of Maledict Die up to your Rage Damage Bonus and cause a burst of flame in a **15-foot :aoe-cone: Cone** originating from you. Each affected creature must succeed a :d20-save: Dexterity saving throw, or take **:dmg-fire: Fire**{ .dmg-fire } damage equal to the total rolled. Flammable objects in the area that aren't being worn or carried starts **Burning**(1).
+***Flames of Creation***{ .inl } When you take the **:rsc-a: Attack**{ .rsc } action, you can replace one of your attack to roll a number of Maledict Die up to your Rage Damage Bonus and cause a burst of flame in a **15-foot :aoe-cone: Cone** originating from you. Each affected creature must succeed a :d20-save: Dexterity saving throw, or take **:dmg-fire: Fire**{ .dmg-fire } damage equal to the total rolled. Flammable objects in the area that aren't being worn or carried starts **Burning**(1).
 { .annotate }
 
 1. !!! glossary "Burning" 
@@ -68,19 +65,16 @@ Moreover, while fishing, you can expend a Maledict Die and add the die to the di
 
 The searing curse from Celestial is anything but a normal fire, you gain the following benefits: 
 
-**Bypass Resistances**{ .inl } When you deal **:dmg-fire: Fire**{ .dmg-fire } damage from a class feature, it ignores **:dmg-res: Resistance**. 
+***Bypass Resistances***{ .inl } When you deal **:dmg-fire: Fire**{ .dmg-fire } damage from a class feature, it ignores **:dmg-res: Resistance**. 
 
-**Healing Suppresion**{ .inl } When you deal **:dmg-fire: Fire**{ .dmg-fire } damage from a class feature to a creature, it can't regain **:dmg-heal: Hit Points**{ .dmg-heal } until the end of your next turn.
+***Healing Suppresion***{ .inl } When you deal **:dmg-fire: Fire**{ .dmg-fire } damage from a class feature to a creature, it can't regain **:dmg-heal: Hit Points**{ .dmg-heal } until the end of your next turn.
 
 ### Level 6: Improved Maledict Powers
 
 You gain new way to use your Heaven's Maledict, detailed below.
 
-**Cauterising Flame: Conflagaration**{ .inl }  
-When you use **Cauterising Flame**{ .inl }, conditions such as Charmed or Frightened instantly ends. Your **:class-abl-rage: Rage** is also extended this way.
+***Cauterising Flame: Conflagaration***{ .inl } When you use **Cauterising Flame**, conditions such as Charmed or Frightened instantly ends. Your **:class-abl-rage: Rage** is also extended this way.
 
-**Smite of Origin: Flame Blitz**{ .inl }  
-Once per turn, immediately after you deal damage with **Smite of Origin**{ .inl }, you can Teleport up to 15 feet to an unoccupied space you can see. After you teleport, each creature of your choice within 5 feet of the space you appear in takes **:dmg-fire: Fire**{ .dmg-fire } damage equal to one roll of your Maledict Die (this teleport does not expend Maledict Die).
+***Smite of Origin: Flame Blitz***{ .inl } Once per turn, immediately after you deal damage with **Smite of Origin**, you can Teleport up to 15 feet to an unoccupied space you can see. After you teleport, each creature of your choice within 5 feet of the space you appear in takes **:dmg-fire: Fire**{ .dmg-fire } damage equal to one roll of your Maledict Die (this teleport does not expend Maledict Die).
 
-**Flames of Creation: Supernal Force**{ .inl }  
-Creature that fails the saving throw of your **Flame of Creation**{ .inl } have the Prone condition.
+***Flames of Creation: Supernal Force***{ .inl } Creature that fails the saving throw of your **Flame of Creation** have the Prone condition.
