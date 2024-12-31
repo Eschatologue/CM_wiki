@@ -24,25 +24,31 @@ Your connection to the Ascent of Destruction ensures you always have certain spe
 | Cleric Level | Prepared Spells |
 | :-: | --- |
 | 3 | [:spell-lv1: Magnify Gravity](../../spells/description/additional/dunamancy.md#magnify-gravity), [:spell-lv1: Tenser's Floating Disk], [:spell-lv2: Moonbeam], [:spell-lv2: Shatter] |
-| 5 | [:spell-lv3: Daylight], [:spell-lv3: Erupting Earth] |
+| 5 | [:spell-lv3: Erupting Earth], [:spell-lv3: Thunderstep] |
 | 7 | [:spell-lv4: Fount of Moonlight], [:spell-lv4: Sickening Radiance] |
-| 9 | [:spell-lv5: Jallarzi's Storm of Radiance], [:spell-lv5: Wall of Light] |
+| 9 | [:spell-lv5: Jallarzi's Storm of Radiance], [:spell-lv5: Immolation] |
+
+### Level 3: Helium Flash
+
+When you cast a Cleric spell that deals damage, you can change its damage type to **:dmg-force: Force**{ .dmg-force }.
 
 ### Level 3: Accretion Disk  
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can use your **:class-abl-chdiv-cleric: Channel Divinity**{ .em } to create a **10-foot :aoe-emanation: Emanation** of a swirling ring of light and spinning dust that surrounds you for 1 minute. It ends early if you dismiss it (no action required), manifest it again, or have the Incapacitated condition.  
+As a **:rsc-b: Bonus Action**{ .rsc }, you can use your **:class-abl-chdiv-cleric: Channel Divinity**{ .em } to create a **15-foot :aoe-emanation: Emanation** of a swirling ring of light and spinning dust that surrounds you for 1 minute. It ends early if you dismiss it (no action required), manifest it again, or have the Incapacitated condition.  
 
-When you manifest the Emanation and as a **:rsc-b: Bonus Action**{ .rsc } on your subsequent turns, you can force all creatures of your choice within this Emanation to make a Constitution saving throw against your Spell Save DC. On a failed save, the creatures take **:dmg-radi: Radiant**{ .dmg-radi } damage and, its Speed is halved until the end of its next turn. To determine the damage, roll a number of d4s equal to your Wisdom modifier (minimum of one die).  
+When you manifest the Emanation and as a **:rsc-b: Bonus Action**{ .rsc } on your subsequent turns, you can force all creatures of your choice within this Emanation to make a :d20-save: Constitution saving throw against your Spell Save DC. On a failed save, the creatures take **:dmg-force: Force**{ .dmg-force } damage, and their Speed is halved until the end of their next turn. To determine the damage, roll a number of d4s equal to your Wisdom modifier (minimum of one die).  
 
-### Level 6: Quasar Jet
+### Level 6: Quasar Jet  
 
-When you or a creature hit a target that is within your Accretion Disk's Emanation, it takes **:dmg-radi: Radiant**{ .dmg-radi } damage equals to the Accretion Disk's damage and you can move it 5 feet to an unoccupied space of your choice.
+When you or a creature hit a target that is within your Accretion Disk's Emanation, the target takes **:dmg-force: Force**{ .dmg-force } damage equal to the Accretion Disk's damage, and you can move it 5 feet to an unoccupied space of your choice.  
 
-### Level 17: Gaze of Aaraau
+### Level 17: Catastrophic Resonance  
 
-The Spire of Destruction has laid its gaze upon you.
+When you cast a Cleric spell that deals damage while your Accretion Disk is active, you can dismiss the Emanation on yourself and manifest the Accretion Disk centred on the spell's target. This special Accretion Disk affects a **15-foot :aoe-sphere: Sphere** centred on the spell's target and has the same effect and duration as the Emanation.  
 
-**Resistance**{ .inl } You gain **:dmg-res: Resistance**{ .phys } to **:dmg-radi: Radiant**{ .dmg-radi } damage, and have **:dmg-imm: Immunity** to any Cleric spell you cast that deals **:dmg-radi: Radiant**{ .dmg-radi } damage.
+Each time you cast a Cleric spell that deals damage, you can move one of these special Accretion Disks to its new location, following the same rulings.  
+
+You can still manifest another Accretion Disk Emanation on yourself as normal. Only two Accretion Disks can exist at any given point, and you use the same **:rsc-b: Bonus Action**{ .rsc } to activate both.  
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 

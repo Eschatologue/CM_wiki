@@ -44,7 +44,7 @@ When you deal :dmg-lgtn: Lightning or :dmg-thun: Thunder damage to a Large or sm
 
 ### Level 7: Thundering Smite (Optional)
 
-Whenever you use *[Divine Strike (Blessed Strike)](index.md#level-7-blesssed-strike)* feature, you can change the damage type to either :dmg-lgtn: Lightning or :dmg-thun: Thunder damage. 
+Whenever you use [Divine Strike (Blessed Strike)](index.md#level-7-blesssed-strike) feature, you can change the damage type to either :dmg-lgtn: Lightning or :dmg-thun: Thunder damage. 
 
 ### Level 17: Stormborn
 

@@ -23,7 +23,7 @@ $defaultFontSize: convert.px2rem(15px); // Base font size
     // Strong text styles
     strong {
         letter-spacing: $defaultFontSize * 0.03;
-        color: hsla(0, 0%, 87%, 0.775);
+        color: var(--md-gbl-text-color-strong);
     }
 
     // Paragraph styles
