@@ -36,7 +36,7 @@ You can use this feature a number of times equal to your Wisdom modifier (a mini
 
 ### Level 3: Destructive Wrath
 
-You can use your :class-phb24-cleric: **Channel Divinity** to wield the power of the storm with unchecked ferocity. When you roll :dmg-lgtn: Lightning or :dmg-thun: Thunder damage, you can use your :class-phb24-cleric: **Channel Divinity** to deal maximum damage, instead of rolling.
+You can use your **:class-abl-chdiv-cleric: Channel Divinity**{ .em } to wield the power of the storm with unchecked ferocity. When you roll :dmg-lgtn: Lightning or :dmg-thun: Thunder damage, you can use your **:class-abl-chdiv-cleric: Channel Divinity**{ .em } to deal maximum damage, instead of rolling.
 
 ### Level 6: Thunderous Strike
 
@@ -44,7 +44,7 @@ When you deal :dmg-lgtn: Lightning or :dmg-thun: Thunder damage to a Large or sm
 
 ### Level 7: Thundering Smite (Optional)
 
-Whenever you use *[Divine Strike (Blessed Strike)](index.md#level-7-blesssed-strike)* feature, you can change the damage type to either :dmg-lgtn: Lightning or :dmg-thun: Thunder damage. 
+Whenever you use [Divine Strike (Blessed Strike)](index.md#level-7-blesssed-strike) feature, you can change the damage type to either :dmg-lgtn: Lightning or :dmg-thun: Thunder damage. 
 
 ### Level 17: Stormborn
 

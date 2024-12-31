@@ -38,9 +38,9 @@ If a power requires a **:d20-save: Saving Throw**, the DC is equals 8 + your Str
 
 #### Using Maledict Die
 
-Some of your powers expend the Maledict Die, as specified in a power's description. When you use a power that uses a ^^Maledict Die^^ while you have none remaining, you take **:dmg-necr: Necrotic**{ .dmg-necr } damage equals to the roll result, you have to roll the die even if the power itself doesn't call for rolling. 
+Some of your powers expend the ^^Maledict Die^^, as specified in a power's description. When you use a power that uses a ^^Maledict Die^^ while you have none remaining, you take **:dmg-necr: Necrotic**{ .dmg-necr } damage equals to the roll result, you have to roll the die even if the power itself doesn't call for rolling. 
 
-You regain one of your expended Maledict Dice when you finish a **:rest-short: Short Rest**, and you regain all of them when you finish a **:rest-long: Long Rest**
+You regain one of your expended ^^Maledict Dice^^ when you finish a **:rest-short: Short Rest**, and you regain all of them when you finish a **:rest-long: Long Rest**
 
 #### Maledict Die Powers
 
@@ -54,9 +54,9 @@ After you hit a target with a Strength-based attack, you can roll a number of Ma
 When you take the **:rsc-a: Attack**{ .rsc } action, you can replace one of your attack to roll a number of Maledict Die up to your Rage Damage Bonus and cause a burst of flame in a **15-foot :aoe-cone: Cone** originating from you. Each affected creature must succeed a :d20-save: Dexterity saving throw, or take **:dmg-fire: Fire**{ .dmg-fire } damage equal to the total rolled. Flammable objects in the area that aren't being worn or carried starts **Burning**(1).
 { .annotate }
 
-1. Burning is **NOT** a Condition, but a Hazard
-    
-    --8<-- "docs/glossary.md:haz-burning"
+1. !!! glossary "Burning" 
+
+        --8<-- "docs/glossary.md:haz-burning"
 
 ### Level 3: The Joy of Fishing
 
@@ -80,7 +80,7 @@ You gain new way to use your Heaven's Maledict, detailed below.
 When you use **Cauterising Flame**{ .inl }, conditions such as Charmed or Frightened instantly ends. Your **:class-abl-rage: Rage** is also extended this way.
 
 **Smite of Origin: Flame Blitz**{ .inl }  
-After you use **Smite of Origin**{ .inl }, you can Teleport up to 15 feet to an unoccupied space you can see. After you teleport, each creature of your choice within 5 feet of the space you appear in takes **:dmg-fire: Fire**{ .dmg-fire } damage equal to one roll of your Maledict Die (this teleport does not expend Maledict Die).
+Once per turn, immediately after you deal damage with **Smite of Origin**{ .inl }, you can Teleport up to 15 feet to an unoccupied space you can see. After you teleport, each creature of your choice within 5 feet of the space you appear in takes **:dmg-fire: Fire**{ .dmg-fire } damage equal to one roll of your Maledict Die (this teleport does not expend Maledict Die).
 
 **Flames of Creation: Supernal Force**{ .inl }  
 Creature that fails the saving throw of your **Flame of Creation**{ .inl } have the Prone condition.

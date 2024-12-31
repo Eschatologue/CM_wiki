@@ -61,7 +61,7 @@ As a Sorcerer, you gain the following class features when you reach the specifie
 
 ##### Sorcerer Features
 
-| Level | PB | Class Features | Sorcery Points | Cantrips | Prepared Spells | I | II | III | IV | V | VI | VII | VIII | IX |
+| Level | PB | Class Features | Sorcery <br>Points | Cantrips | Prepared <br>Spells | I | II | III | IV | V | VI | VII | VIII | IX |
 |:---:|:---:|:---|:-:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | +2 | Spellcasting, Innate Sorcery | — | 4 | 2 | 2 | — | — | — | — | — | — | — | — |
 | 2 | +2 | Font of Magic, Metamagic (2) | 2 | 4 | 4 | 3 | — | — | — | — | — | — | — | — |
@@ -116,7 +116,7 @@ Whenever you gain a Sorcerer level, you can replace one spell on your list with 
 
 #### Spellcasting Focus
 
- You can use an Arcane Focus as a Spellcasting Focus for your Sorcerer spells.
+You can use an Arcane Focus as a Spellcasting Focus for your Sorcerer spells.
 
 ### Level 1: Innate Sorcery
 

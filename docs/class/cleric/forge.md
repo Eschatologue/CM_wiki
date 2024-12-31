@@ -38,7 +38,7 @@ You gain the ability to imbue magic into a weapon or armour.
 
 ### Level 3: Artisan's Blessing
 
-You can use your :class-phb24-cleric: **Channel Divinity** to create nonmagical metal items. Over an hour, you conduct a ritual to craft a metal-based item, such as a weapon, armour, ten pieces of ammunition, a set of tools, or another object containing metal. The item appears in an unoccupied space within 5 feet of you and cannot be worth more than 1.000 SP. To create it, you must provide metal of equal value, which can include coins, which is consumed during the ritual. You can even create a copy of a nonmagical metal item, like a key, if you have the original.
+You can use your **:class-abl-chdiv-cleric: Channel Divinity**{ .em } to create nonmagical metal items. Over an hour, you conduct a ritual to craft a metal-based item, such as a weapon, armour, ten pieces of ammunition, a set of tools, or another object containing metal. The item appears in an unoccupied space within 5 feet of you and cannot be worth more than 1.000 SP. To create it, you must provide metal of equal value, which can include coins, which is consumed during the ritual. You can even create a copy of a nonmagical metal item, like a key, if you have the original.
 
 ### Level 6: Soul of the Forge
 
