@@ -54,9 +54,9 @@ After you hit a target with a Strength-based attack, you can roll a number of Ma
 When you take the **:rsc-a: Attack**{ .rsc } action, you can replace one of your attack to roll a number of Maledict Die up to your Rage Damage Bonus and cause a burst of flame in a **15-foot :aoe-cone: Cone** originating from you. Each affected creature must succeed a :d20-save: Dexterity saving throw, or take **:dmg-fire: Fire**{ .dmg-fire } damage equal to the total rolled. Flammable objects in the area that aren't being worn or carried starts **Burning**(1).
 { .annotate }
 
-1. Burning is **NOT** a Condition, but a Hazard
-    
-    --8<-- "docs/glossary.md:haz-burning"
+1. ??? glossary "Burning" 
+
+        --8<-- "docs/glossary.md:haz-burning"
 
 ### Level 3: The Joy of Fishing
 
