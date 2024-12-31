@@ -8,8 +8,9 @@
     Typography
 --------------------------------------------------------*/
 
-.em { 
-    white-space: nowrap; /* Prevent selected block to split on smaller screen sizes, used in conjuction with icons */
+.em {
+    white-space: nowrap;
+    /* Prevent selected block to split on smaller screen sizes, used in conjuction with icons */
     font-weight: 550 !important;
 
     // Disable dotted line
@@ -29,12 +30,16 @@
         font-size: #{var(--default-font-size)};
         vertical-align: convert.px2em(-3px);
     }
+
     font-size: #{calc(var(--default-font-size) * 1.05)};
-    font-variant: small-caps !important; /* Make font smallcaps so it looks different than the rest */
-    letter-spacing: calc(var(--default-font-size) * 0.04) !important; /* Wider letterspacing for easier read */
+    font-variant: small-caps !important;
+    /* Make font smallcaps so it looks different than the rest */
+    letter-spacing: calc(var(--default-font-size) * 0.04) !important;
+    /* Wider letterspacing for easier read */
 
     table:not([class]) & {
         font-size: #{calc(var(--table-font-size))} !important;
+
         :is(.emojione, .twemoji, .gemoji) {
             font-size: #{var(--table-font-size)};
             vertical-align: convert.px2em(-3px);
@@ -58,6 +63,7 @@
 
 .rsc-h {
     @extend .em;
+
     :is(.emojione, .twemoji, .gemoji) {
         vertical-align: convert.px2em(-3px);
     }
@@ -70,16 +76,22 @@
     display: inline-block;
     position: relative;
 
-    &::before{
+    &::before {
         content: "«";
         color: var(--md-default-fg-color--light);
         margin-right: 0.2em;
     }
-    &::after{
+
+    &::after {
         content: "»";
         color: var(--md-default-fg-color--light);
         margin-left: 0.2em;
     }
+}
+
+.indent {
+    text-indent: convert.px2em(-16px);
+    padding-left: convert.px2em(16px);
 }
 
 //-----------------------------------------------------//
@@ -103,6 +115,7 @@ $damage-types: (
 );
 
 @each $type, $color in $damage-types {
+
     /* Damage type: #{$type} */
     .dmg-#{$type} {
         color: convert.hex3hsl($color) !important;
