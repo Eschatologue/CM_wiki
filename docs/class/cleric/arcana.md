@@ -23,7 +23,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 | Cleric Level | Prepared Spells |
 | :-: | --- |
-| 3 | [:spell-lv1: Detect Magic], [:spell-lv2: Magic Missile], [:spell-lv2: Magic Weapon], [:spell-lv1: Nystul's Magic Aura] |
+| 3 | [:spell-lv1: Detect Magic], [:spell-lv1: Magic Missile], [:spell-lv2: Magic Weapon], [:spell-lv2: Nystul's Magic Aura] |
 | 5 | [:spell-lv3: Dispel Magic], [:spell-lv3: Magic Circle] |
 | 7 | [:spell-lv4: Arcane Eye], [:spell-lv4: Leomund's Secret Chest] |
 | 9 | [:spell-lv5: Planar Binding], [:spell-lv5: Teleportation Circle] |

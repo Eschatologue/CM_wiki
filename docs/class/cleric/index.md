@@ -133,7 +133,7 @@ You can use a Holy Symbol as a Spellcasting Focus for the spells you prepare for
 
 ### Level 2: Channel Divinity
 
-You gain the ability to channel divine energy directly from the Outer Planes, using that energy to fuel magical effects. You start with two such effects: Divine Spark and Turn Undead, each of which is described below. Each time you use your Channel Divinity, you choose which effect to create, and you gain additional effect options at higher levels in this class.
+You gain the ability to channel divine energy directly from the Outer Planes, using that energy to fuel magical effects. You start with two such effects: [:class-abl-chdiv-cleric: Divine Spark](#class-abl-chdiv-cleric-divine-spark) and [:class-abl-chdiv-cleric: Turn Undead](#class-abl-chdiv-cleric-turn-undead), each of which is described below. Each time you use your Channel Divinity, you choose which effect to create, and you gain additional effect options at higher levels in this class.
 
 You can use **:class-abl-chdiv-cleric: Channel Divinity**{ .em } twice. You regain one expended use when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**. You gain additional uses when you reach certain Cleric levels, as shown in the Channel Divinity column of the Cleric table.
 
