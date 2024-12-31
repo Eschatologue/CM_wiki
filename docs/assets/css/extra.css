@@ -159,8 +159,7 @@
     Typography
 --------------------------------------------------------*/
 .em, .inl, .rsc-h, .rsc, .d20 {
-  white-space: nowrap;
-  /* Prevent selected block to split on smaller screen sizes, used in conjuction with icons */
+  white-space: nowrap; /* Prevent selected block to split on smaller screen sizes, used in conjuction with icons */
   font-weight: 550 !important;
 }
 .em abbr, .inl abbr, .rsc-h abbr, .rsc abbr, .d20 abbr {
@@ -216,8 +215,8 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
 }
 
 .indent {
-  text-indent: -1.1875em;
-  padding-left: 1em;
+  text-indent: -0.75em;
+  padding-left: 1.125em;
 }
 
 /* Damage-type Dynamic Class Generation */
