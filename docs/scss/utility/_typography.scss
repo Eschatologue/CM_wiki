@@ -53,9 +53,7 @@
 .rsc {
     @extend .em;
 
-
     font-family: "Roboto", serif;
-
 }
 
 .rsc-h {
@@ -73,12 +71,12 @@
     position: relative;
 
     &::before{
-        content: "‹";
+        content: "«";
         color: var(--md-default-fg-color--light);
         margin-right: 0.2em;
     }
     &::after{
-        content: "›";
+        content: "»";
         color: var(--md-default-fg-color--light);
         margin-left: 0.2em;
     }
@@ -89,10 +87,10 @@
 /* Damage-type Dynamic Class Generation */
 
 $damage-types: (
-    acid: #D4E157,
+    acid: #38da4f,
     cold: #4fc3f7,
-    fire: #ffa344,
-    posn: #66bb6a,
+    fire: #e96f05,
+    posn: #4eaa2d,
     thun: #9575CD,
     psyc: #e255a1,
     lgtn: #1E88E5,

@@ -38,8 +38,8 @@ $defaultHue: 215;
     [data-md-color-scheme="slate"][data-md-color-primary="#{$name}"] {
 
         /* Global Text Colour */
-        --md-gbl-text-color: hsla(0, 0%, 100%, 0.775);
-        --md-gbl-text-color-strong: hsla(0, 0%, 100%, 0.85);
+        --md-gbl-text-color: hsla(0, 0%, 100%, 0.75);
+        --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.85);
 
         /* Primary Colour Variants */
         --md-primary-fg-color: hsla(#{convert.hex2hsl(list.nth($colors, 1))}, 1);

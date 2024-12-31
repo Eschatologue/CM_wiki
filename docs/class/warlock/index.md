@@ -60,7 +60,7 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 
 As a Warlock, you gain the following class features when you reach the specified Warlock levels. These features are listed in the Warlock Features table.
 
-| Level | PB | Class Features | Invocations | Cantrips | Spells Prepared | Spell Slots | Slot Level |
+| Level | PB | Class Features | Invocations | Cantrips | Spells <br>Prepared | Spell <br>Slots | Slot <br>Level |
 |:-:|:-:|---|:-:|:-:|:-:|:-:|:-:|
 | 1 | +2 | Eldritch Invocations, Pact Magic | 1 | 2 | 2 | 1 | I |
 | 2 | +2 | Magical Cunning | 3 | 2 | 3 | 2 | I |
@@ -81,15 +81,15 @@ As a Warlock, you gain the following class features when you reach the specified
 | 17 | +6 | Mystic Arcanum (level 9 spell) | 9 | 4 | 14 | 4 | V |
 | 18 | +6 | — | 10 | 4 | 14 | 4 | V |
 | 19 | +6 | Epic Boon | 10 | 4 | 15 | 4 | V |
-| 20 | +6 | Eldritch Maste | 10 | 4 | 15 | 4 | V |
+| 20 | +6 | Eldritch Master | 10 | 4 | 15 | 4 | V |
 
 ### Level 1: Eldritch Invocations
 
 You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Tome. Invocations are described in the “[Eldritch Invocation Options](../../option/class-options/warlock-invocations/index.md)”.
 
-***Prerequisites.*** If an invocation has a prerequisite, you must meet it to learn that invocation. For example, if an invocation requires you to be a level 5+ Warlock, you can select the invocation once you reach Warlock level 5.
+**Prerequisites**{ .inl } If an invocation has a prerequisite, you must meet it to learn that invocation. For example, if an invocation requires you to be a level 5+ Warlock, you can select the invocation once you reach Warlock level 5.
 
-***Replacing and Gaining Invocations.*** Whenever you gain a Warlock level, you can replace one of your invocations with another one for which you qualify. You can't replace an invocation if it's a prerequisite for another invocation that you have.
+**Replacing and Gaining Invocations**{ .inl } Whenever you gain a Warlock level, you can replace one of your invocations with another one for which you qualify. You can't replace an invocation if it's a prerequisite for another invocation that you have.
 
 When you gain certain Warlock levels, you gain more invocations of your choice, as shown in the Invocations column of the Warlock Features table.
 
@@ -99,7 +99,9 @@ You can't pick the same invocation more than once unless its description says ot
 
 Through occult ceremony, you have formed a pact with a mysterious entity to gain magical powers. The entity is a voice in the shadows—its identity unclear—but its boon to you is concrete: the ability to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Warlock spells, which appear in the [Warlock spell list](../../spells/class-specific/warlock.md) later in the class's description.
 
-***Cantrips***. You know two Warlock cantrips of your choice. Eldritch Blast and Prestidigitation are recommended. Whenever you gain a Warlock level, you can replace one of your cantrips from this feature with another Warlock cantrip of your choice.
+#### Cantrips 
+
+You know two Warlock cantrips of your choice. Eldritch Blast and Prestidigitation are recommended. Whenever you gain a Warlock level, you can replace one of your cantrips from this feature with another Warlock cantrip of your choice.
 
 When you reach Warlock levels 4 and 10, you learn another Warlock cantrip of your choice, as shown in the Cantrips column of the Warlock Features table.
 
