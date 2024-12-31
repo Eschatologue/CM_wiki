@@ -135,23 +135,21 @@ You can use a Holy Symbol as a Spellcasting Focus for the spells you prepare for
 
 You gain the ability to channel divine energy directly from the Outer Planes, using that energy to fuel magical effects. You start with two such effects: Divine Spark and Turn Undead, each of which is described below. Each time you use your Channel Divinity, you choose which effect to create, and you gain additional effect options at higher levels in this class.
 
-You can use Channel Divinity twice. You regain one expended use when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**. You gain additional uses when you reach certain Cleric levels, as shown in the Channel Divinity column of the Cleric table.
+You can use **:class-abl-chdiv-cleric: Channel Divinity**{ .em } twice. You regain one expended use when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**. You gain additional uses when you reach certain Cleric levels, as shown in the Channel Divinity column of the Cleric table.
 
 If a Channel Divinity effect requires a saving throw, the DC equals the Spell Save DC from this class's Spellcasting feature.
 
-#### Divine Spark
+#### :class-abl-chdiv-cleric: Divine Spark
 
 As a **:rsc-a: Magic**{ .rsc } action, you point your Holy Symbol at another creature you can see within 30 feet of yourself and focus divine energy at them. Roll 1d8 and add your Wisdom modifier. You either restore Hit Points to the creature equal to that total or force the creature to make a Constitution saving throw. On a failed save, the creature takes Necrotic or Radiant (your choice) damage equal to that total. On a successful save, the creature takes half as much damage (round down).
  
 You roll an additional d8 when you reach certain Cleric levels: 7th level (2d8), 13th level (3d8), and 18th level (4d8).
 
-#### Turn Undead
+#### :class-abl-chdiv-cleric: Turn Undead
 
 As a **:rsc-a: Magic**{ .rsc } action, you present your Holy Symbol and speak a prayer censuring Undead creatures. Each Undead within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it has the Frightened and Incapacitated conditions for 1 minute. This effect ends early on the creature if it takes any damage, you have the Incapacitated condition, or you die.
 
 ### Level 3: Cleric Subclass
-
-You gain a Cleric subclass of your choice: 
 
 You gain a Cleric subclass of your choice. A subclass is a specialization that grants you features at certain Cleric levels. For the rest of your career, you gain each of your subclass's features that are of your Cleric level or lower
 
@@ -169,9 +167,9 @@ This damage doesn't end the turn effect.
 
 Divine power infuses you in battle. You gain one of the following options of your choice:
 
-***Divine Strike.*** Once on each of your turns when you hit a creature with an attack with a weapon, you can cause the target to take an extra 1d8 :dmg-necr: Necrotic or :dmg-radi: Radiant damage (your choice).
+**Divine Strike**{ .inl } Once on each of your turns when you hit a creature with an attack with a weapon, you can cause the target to take an extra 1d8 **:dmg-necr: Necrotic**{ .dmg-necr } or **:dmg-radi: Radiant**{ .dmg-radi } damage (your choice).
 
-***Potent Spellcasting.*** You add your Wisdom modifier to the damage you deal with any Cleric cantrip.
+**Potent Spellcasting**{ .inl } You add your Wisdom modifier to the damage you deal with any Cleric cantrip.
  
 If you get either option from another source, you use only the option you chose for this feature.
 
@@ -187,9 +185,9 @@ You can call on your deity or pantheon to intervene on your behalf. As a **:rsc-
 
 The option you chose for Blessed Strikes grows more powerful.
 
-***Divine Strike.*** The extra damage of your Divine Strike increases to 2d8.
+**Divine Strike**{ .inl } The extra damage of your Divine Strike increases to 2d8.
 
-***Potent Spellcasting.*** When you cast a Cleric cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of Temporary Hit Points equal to twice your Wisdom modifier.
+**Potent Spellcasting**{ .inl } When you cast a Cleric cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of **:dmg-temp: Temporary Hit Points**{ .dmg-heal } equal to twice your Wisdom modifier.
 
 ### Level 19: Epic Boon
 

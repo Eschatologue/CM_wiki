@@ -34,7 +34,7 @@ Whenever you do damage using a Cleric class feature or a Cleric spell that deals
 
 ### Level 3: Accretion Disk
 
-As a **:rsc-a: Magic**{ .rsc } action, you can use your :class-phb24-cleric: **Channel Divinity** to create an aura of destructive energy in a 15-foot radius around you for 1 minute, which ends early if you have the Incapacitated condition, or when you choose to end it early (no action required). While this aura is active, the following effects occur:
+As a **:rsc-a: Magic**{ .rsc } action, you can use your **:class-abl-chdiv-cleric: Channel Divinity**{ .em } to create an aura of destructive energy in a 15-foot radius around you for 1 minute, which ends early if you have the Incapacitated condition, or when you choose to end it early (no action required). While this aura is active, the following effects occur:
 
 ***Damage.*** When a creature you choose enters the aura for the first time on its turn or starts its turn there, you can roll a number of d4s equal to your Wisdom modifier (minimum of 1d4) and add the rolls together. It takes :dmg-radi: Radiant damage equal to the roll result. A creature can only take this damage once per turn.
 
