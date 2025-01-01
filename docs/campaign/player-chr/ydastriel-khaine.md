@@ -14,7 +14,7 @@ You, child of the star are chosen with the purpose to reveal the secrets behind 
 
 ### Level 2: Bonus Cantrip
 
-You gain to unleash the power which Spires draws from. You learn the :spell-lv0: *Cosmic Flare* cantrip, it counts as Druid cantrip for you and it doesn't count against the number of Druid cantrips you know.
+You gain to unleash the power which Spires draws from. You learn the [:spell-lv0: Cosmic Flare](../../spells/description/additional/homebrew/cantrip.md#cosmic-flare) cantrip.
 
 While holding your Star Map, you can add your Wisdom modifier to this cantrip's damage roll.
 
@@ -22,9 +22,9 @@ While holding your Star Map, you can add your Wisdom modifier to this cantrip's 
 
 Your growing understanding of the Spires and their role in Antares has granted you the ability to draw powers from the ascents they represent.
 
-When you enter your Starry Form, or as a **:rsc-b: Bonus Action**{ .rsc } thereafter, you can enhance its abilities by choosing one of the following Resonances. Each Resonance boosts a specific aspect of your Starry Form.
+When you activate your Starry Form, or as a **:rsc-b: Bonus Action**{ .rsc } thereafter, you can enhance its abilities by choosing one of the following Resonances. Each Resonance boosts a specific aspect of your Starry Form.
 
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and regain all expended uses after a **:rest-long: Long Rest**. Alternatively, you can regain all expended uses by expending one use of Wild Shape (no action required). 
+You can use this enhance this your Starry Form this way a number of times equal to your Wisdom modifier (minimum of once), and regain all expended uses after a **:rest-long: Long Rest**. Alternatively, you can regain all expended uses by expending one use of Wild Shape (no action required). 
 
 #### Resonance of Destruction
 

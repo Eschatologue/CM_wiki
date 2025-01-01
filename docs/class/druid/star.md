@@ -48,37 +48,41 @@ As a **:rsc-b: Bonus Action**{ .rsc }, you can expend a use of your Wild Shape f
 
 While in your starry form, you retain your game statistics, but your body becomes luminous; your joints glimmer like stars, and glowing lines connect them as on a star chart. This form sheds Bright Light in a 10-foot radius and Dim Light for an additional 10 feet. The form lasts for 10 minutes. It ends early if you dismiss it (no action required), have the Incapacitated condition, or use this feature again.
 
-Whenever you assume your starry form, choose which of the following constellations glimmers on your body; your choice gives you certain benefits while in the form:
+Whenever you assume your starry form, choose which of the following constellations glimmers on your body; your choice gives you certain benefits while in the form.
 
-***Archer.*** A constellation of an archer appears on you. When you activate this form, and as a **:rsc-b: Bonus Action**{ .rsc } on your subsequent turns while it lasts, you can make a ranged spell attack, hurling a luminous arrow that targets one creature within 60 feet of you. On a hit, the attack deals Radiant damage equal to 1d8 + your Wisdom modifier.
+***Archer***{ .inl } A constellation of an archer appears on you. When you activate this form, and as a **:rsc-b: Bonus Action**{ .rsc } on your subsequent turns while it lasts, you can make a ranged spell attack, hurling a luminous arrow that targets one creature within 60 feet of you. On a hit, the attack deals **:dmg-radi: Radiant**{ .dmg-radi } damage equal to 1d8 plus your Wisdom modifier.
 
-***Chalice.*** A constellation of a life-giving goblet appears on you. Whenever you cast a spell using a spell slot that restores Hit Points to a creature, you or another creature within 30 feet of you can regain Hit Points equal to 1d8 + your Wisdom modifier.
+***Chalice***{ .inl } A constellation of a life-giving goblet appears on you. Whenever you cast a spell using a spell slot that restores Hit Points to a creature, you or another creature within 30 feet of you can regain Hit Points equal to 1d8 plus your Wisdom modifier.
 
-***Dragon.*** A constellation of a wise dragon appears on you. When you make an Intelligence or a Wisdom check or a Constitution saving throw to maintain concentration on a spell, you can treat a roll of 9 or lower on the d20 as a 10.
+***Dragon***{ .inl } A constellation of a wise dragon appears on you. When you make an Intelligence or a Wisdom check or a Constitution saving throw to maintain concentration on a spell, you can treat a roll of 9 or lower on the d20 as a 10.
 
-At Druid **level 14**, while in your Starry Form, you become partially incorporeal, giving you **:dmg-res: Resistance**{ .em } to :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, and :dmg-slsh: Slashing damage.
+When you reach level 14 in this class, while in your Starry Form, you become partially incorporeal, giving you **:dmg-res: Resistance**{ .em } to **:dmg-bldg: Bludgeoning**, **:dmg-prcg: Piercing**, and **:dmg-slsh: Slashing** damage.
 
 ### Level 6: Cosmic Omen
 
 You learn to use your star map to divine the will of the cosmos. Whenever you finish a **:rest-long: Long Rest**, you can consult your Star Map for omens. When you do so, roll a die. Until you finish your next Long Rest, you gain access to a special Reaction based on whether you rolled an even or an odd number on the die:
 
-***Weal (even).*** Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a **:rsc-r: Reaction**{ .rsc } to roll 1d6 and add the number rolled to the total.
+***Weal (even)***{ .opt } Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a **:rsc-r: Reaction**{ .rsc } to roll 1d6 and add the number rolled to the total.
+{ .idnt }
 
-***Woe (odd).*** Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a **:rsc-r: Reaction**{ .rsc } to roll 1d6 and subtract the number rolled from the total.
+***Woe (odd)***{ .opt } Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a **:rsc-r: Reaction**{ .rsc } to roll 1d6 and subtract the number rolled from the total.
+{ .idnt }
 
-You can use use this **:rsc-r: Reaction**{ .rsc } a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a **:rest-long: Long Rest**.
+You can use use this **:rsc-r: Reaction**{ .rsc } a number of times equal to your Wisdom modifier (minimum of once),, and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 ### Level 10: Twinkling Constellations
 
-The constellations of your Starry Form improve. The 1d8 of the Archer and the Chalice becomes 2d8, and while the Dragon is active, you have a flying speed of 20 feet and can hover.
+The constellations of your Starry Form improve. The 1d8 of the Archer and the Chalice becomes 2d8, and while the Dragon is active, you have a Fly Speed of 20 feet and can hover.
 
 Moreover, at the start of each of your turns while in your Starry Form, you can change which constellation glimmers on your body.
 
 ### Level 14: Star Flare
 
-Your connection to the cosmos lets you summon radiant starlight. As a **:rsc-a: Magic**{ .rsc } action, you conjure a burst of light in a 30-foot-radius :aoe-sphere: sphere centered on a point within 120 feet of you. You can teleport each willing creature in the area to an unoccupied space within 30 feet of its current location.
+*Your connection to the cosmos lets you summon radiant starlight.*
 
-Any creature remaining in the Sphere must make a :d20-save: Constitution saving throw against your Spell Save DC. On a failed save, the creature takes Radiant damage and has the Blinded condition until the end of your next turn. On a successful save, the creature only takes half damage. To determine the damage, roll a number of d10s equal to your Wisdom modifier and add them together.
+As a **:rsc-a: Magic**{ .rsc } action, you conjure a burst of light in a **30-foot :aoe-sphere: Sphere**{ .em } centered on a point within **120 feet** of you. You can Teleport each willing creature in the area to an unoccupied space within 30 feet of its current location.
+
+Any creature remaining in the Sphere must make a **:d20-save: Constitution saving throw** against your Spell Save DC. On a failed save, the creature takes Radiant damage and has the Blinded condition until the end of your next turn. On a successful save, the creature only takes half damage. To determine the damage, roll a number of d10s equal to your Wisdom modifier and add them together.
 
 Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**, or you can expend a level 5+ spell slot to regain your use of it (no action required).
 
