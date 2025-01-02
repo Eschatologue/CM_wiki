@@ -61,15 +61,18 @@ Your bond with the musical instrument ends if you use this feature's **:rsc-b: B
 
 You can conjure a Pact Wok; a venerable cooking implement in your hand at the end of a **:rest-short: Short** or **:rest-long: Long Rest**. It takes the form of a set kitchen utensil of your choice, and it grants you the following benefits:
 
-***Artisan Tools.*** It counts as Cooking Utensil, and it uses your spellcasting modifier for ability checks made with it.
+***Artisan Tools***{.inl} It counts as Cooking Utensil, and it uses your spellcasting modifier for ability checks made with it.
 
-***Eldritch Rations.*** When you finish a **:rest-long: Long Rest**, you can prepare a number of **special rations** up to your spellcasting modifier. A creature can take a **:rsc-b: Bonus Action**{ .rsc } to consume one of these **special rations** and it gains one of the following benefits:
+***Eldritch Rations***{ .inl } When you finish a **:rest-long: Long Rest**, you can prepare a number of **special rations** up to your spellcasting modifier. A creature can take a **:rsc-b: Bonus Action**{ .rsc } to consume one of these **special rations** and it gains one of the following benefits:
 
-:   ***Bolster.*** The creature chooses either Strength, Dexterity, or Constitution. For 1 minute, the creature can add your spellcasting modifier to any ability check or saving throws it makes with the chosen ability score.
+***Bolster***{ .opt } The creature chooses either Strength, Dexterity, or Constitution. For 1 minute, the creature can add your spellcasting modifier to any ability check or saving throws it makes with the chosen ability score.
+{ .idnt }
 
-:   ***Heal.*** The creature ends one of the following conditions currently affecting it: Charmed, Blindness, Frightened, Deafened, Poisoned, or it can reduce its current Exhaustion level by 1.
+***Heal***{ .opt } The creature ends one of the following conditions currently affecting it: Charmed, Blindness, Frightened, Deafened, Poisoned, or it can reduce its current Exhaustion level by 1.
+{ .idnt }
 
-:   ***Invigorate.*** The creature regain Hit Points equals to 1d10 + your spellcasting modifier.
+***Invigorate***{ .opt } The creature regain Hit Points equals to 1d10 + your spellcasting modifier.
+{ .idnt }
 
 ***Spellcasting Focus.*** You can use the device as a Spellcasting Focus.
 
@@ -132,6 +135,14 @@ You can cast [:spell-lv2: Lesser Restoration] once without expending a spell slo
 ***Prerequisite:** Level 2+ Warlock, [Pact of the Hourglass]*
 
 You can cast [:spell-lv1: Gift of Alacrity](../../../spells/description/additional/dunamancy.md#gift-of-alacrity) once without expending a spell slot. You regain the ability to cast it in this way again when you finish a **:rest-long: Long Rest**.
+
+---
+
+### Improved Pact Weapon
+
+_**Prerequisite:** Level 3+ Warlock, Pact of the Blade_
+
+You learn the [:spell-lv2: Magic Weapon] spell, and you can cast it on your Pact Weapon. When you do so, the spell does not require **:spell-conc: Concentration**{ .em }.
 
 ---
 

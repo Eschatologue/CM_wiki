@@ -44,13 +44,7 @@ Choose one of your known Warlock cantrips that requires an attack roll and has a
 
 ---
 
-### Improved Pact Weapon
 
-_**Prerequisite:** Pact of the Blade_
-
-The weapon you summon with your Pact of the Blade Invocation gains a +1 bonus to its attack and damage rolls, unless it is a magic weapon that already has a bonus to those rolls.
-
-***Repeatable.*** You can take this invocation multiple times, up to a maximum of three times. The second instance is available at level 9 or higher, and the third at level 13 or higher. Each time you take this invocation, your Pact Weapon receives an additional +1 bonus to attack and damage rolls.
 
 ---
 
