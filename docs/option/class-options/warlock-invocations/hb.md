@@ -13,11 +13,11 @@ These Invocations are for Crown & Misery campaign
 
 You can conjure a Pact Chalice; a vessel for the creation of potions and poultices in your hand at the end of a **:rest-short: Short** or **:rest-long: Long Rest**. It takes the form of a tiny object of your choice that is capable of holding liquids, and it grants you the following benefits:
 
-***Artisan Tools.*** It can counts as a Herbalism Kit, an Alchemist's Supplies or a Brewer's Supplies (your choice), and it uses your spellcasting modifier for ability checks made with it.
+***Artisan Tools***{ .inl } It can counts as a Herbalism Kit, an Alchemist's Supplies or a Brewer's Supplies (your choice), and it uses your spellcasting modifier for ability checks made with it.
 
-***Potion Creation.*** At the end of a **:rest-short: Short** or **:rest-long: Long Rest**, you can use the Pact Chalice to conjure a vial of the following: [Alchemist's Fire], [Acid], [Holy Water], [Potion of Healing], or [Potion of Climbing]. The liquid retains its potency until the end of your next long rest, at which point it becomes inert and unusable.
+***Potion Creation***{ .inl } At the end of a **:rest-short: Short** or **:rest-long: Long Rest**, you can use the Pact Chalice to conjure a vial of the following: [Alchemist's Fire], [Acid], [Holy Water], [Potion of Healing], or [Potion of Climbing]. The liquid retains its potency until the end of your next long rest, at which point it becomes inert and unusable.
 
-***Spellcasting Focus.*** You can use the device as a Spellcasting Focus.
+***Spellcasting Focus***{ .inl } You can use the device as a Spellcasting Focus.
 
 This object disappears if you conjure another object with this feature or if you die.
 
@@ -33,11 +33,11 @@ This object disappears if you conjure another object with this feature or if you
 
 You can conjure a Pact Hourglass; a mystical timekeeping device in your hand at the end of a **:rest-short: Short** or **:rest-long: Long Rest**. It takes the form of a timekeeping device of your choice, and it grants you the following benefits:
 
-***Initiative Bonus.*** So long you don't have the Surprised condition, you gain bonus to your Initiative rolls equal to your spellcasting modifier (minimum of +1).
+***Initiative Bonus***{ .inl } So long you don't have the Surprised condition, you gain bonus to your Initiative rolls equal to your spellcasting modifier (minimum of +1).
 
-***Rewind Time.*** When you make a D20 Test, you can choose to re-roll. You can use this feature after you roll, but before you know if you succeed. Once you use this feature to turn failure into success, you must finish a **:rest-short: Short** or **:rest-long: Long Rest** before you can use it again.
+***Rewind Time***{ .inl } When you make a D20 Test, you can choose to re-roll. You can use this feature after you roll, but before you know if you succeed. Once you use this feature to turn failure into success, you must finish a **:rest-short: Short** or **:rest-long: Long Rest** before you can use it again.
 
-***Spellcasting Focus.*** You can use the device as a Spellcasting Focus.
+***Spellcasting Focus***{ .inl } You can use the device as a Spellcasting Focus.
 
 This timekeeping device disappears if you conjure another device with this feature or if you die.
 
@@ -47,11 +47,11 @@ This timekeeping device disappears if you conjure another device with this featu
 
 As a **:rsc-b: Bonus Action**{ .rsc }, you can conjure a pact instrument in your hand—a musical instrument of your choice with which you bond—or create a bond with a musical instrument you touch. Until the bond ends, it grants you the following benefits:
 
-***Bonus Damage.*** When you use it to cast a Warlock spell with a Verbal component, or a spell that deals :dmg-thun: Thunder damage, you gain a bonus to one of the spell's damage rolls equal to 1d8.
+***Bonus Damage***{ .inl } When you use it to cast a Warlock spell with a Verbal component, or a spell that deals :dmg-thun: Thunder damage, you gain a bonus to one of the spell's damage rolls equal to 1d8.
 
-***Expertise.*** You have Expertise with it, and it uses your spellcasting modifier for ability checks made with it.
+***Expertise***{ .inl } You have Expertise with it, and it uses your spellcasting modifier for ability checks made with it.
 
-***Spellcasting Focus.*** You can use the musical instrument as a Spellcasting Focus.
+***Spellcasting Focus***{ .inl } You can use the musical instrument as a Spellcasting Focus.
 
 Your bond with the musical instrument ends if you use this feature's **:rsc-b: Bonus Action**{ .rsc } again, if the musical instrument is more than 5 feet away from you for 1 minute or more, or if you die. A conjured musical instrument disappears when the bond ends.
 
@@ -63,44 +63,55 @@ You can conjure a Pact Wok; a venerable cooking implement in your hand at the en
 
 ***Artisan Tools***{.inl} It counts as Cooking Utensil, and it uses your spellcasting modifier for ability checks made with it.
 
-***Eldritch Rations***{ .inl } When you finish a **:rest-long: Long Rest**, you can prepare a number of **special rations** up to your spellcasting modifier. A creature can take a **:rsc-b: Bonus Action**{ .rsc } to consume one of these **special rations** and it gains one of the following benefits:
+***Eldritch Rations***{ .inl } When you finish a **:rest-long: Long Rest**, you can prepare a number of Eldritch Rations up to your spellcasting modifier as shown in the Eldritch Rations table in any combination. A creature can take a **:rsc-b: Bonus Action**{ .rsc } to consume one of these rations to gain the associated benefit. 
 
-:   ***Bolster***{ .opt } The creature chooses either Strength, Dexterity, or Constitution. For 1 minute, the creature can add your spellcasting modifier to any ability check or saving throws it makes with the chosen ability score.
-    { .idnt }
+***Spellcasting Focus***{ .inl } You can use the device as a Spellcasting Focus.
 
-:   ***Heal***{ .opt } The creature ends one of the following conditions currently affecting it: Charmed, Blindness, Frightened, Deafened, Poisoned, or it can reduce its current Exhaustion level by 1.
-    { .idnt }
+##### Eldritch Rations
 
-:   ***Invigorate***{ .opt } The creature regain Hit Points equals to 1d10 + your spellcasting modifier.
-    { .idnt }
+| Ration Name | Benefit |
+|---|---|
+| *Bolstering Ration* | The creature chooses either Strength, Dexterity, or Constitution. For 1 minute, the creature can add your spellcasting modifier to any Ability Check or Saving Throws it makes with the chosen ability score. |
+| *Healing Ration* | The creature ends one of the following conditions currently affecting it: Charmed, Blindness, Frightened, Deafened, Poisoned, or it can reduce its current Exhaustion level by 1. |
+| *Invigorating Ration* | The creature regain Hit Points equals to 1d10 + your spellcasting modifier. |
 
-***Spellcasting Focus.*** You can use the device as a Spellcasting Focus.
+These kitchen utensil and the Eldritch rations disappears if you conjure another kitchen utensils with this feature or if you die.
 
-These kitchen utensil and the special rations disappears if you conjure another kitchen utensils with this feature or if you die.
-
-Any special rations you have prepared become inert at the end of your next Long Rest.
+Any rations you have prepared become inert at the end of your next Long Rest.
 
 ---
 
 ### Arcane Gunslinger
 
-***Prerequisite:** [Pact of the Blade]*
+_**Prerequisite:** [Pact of the Blade]_
 
-You can create a Pact Weapon that is a Short-Arm or Long-Arm.
+You can create a Pact Weapon that is a [Short-Arm](../../../equipment/weapon/weapon-firearm.md#short-arm) or [Long-Arm](../../../equipment/weapon/weapon-firearm.md#long-arm).
 
 ---
 
 ### Harmonic Spellcasting
 
-***Prerequisite:** [Pact of the Instrument]*
+_**Prerequisite:** [Pact of the Instrument]_
 
-When you cast a Warlock spell with a verbal component or deals :dmg-thun: Thunder damage while using your pact instrument as your spellcasting focus, the save DC for that spell increases by 1
+When you cast a Warlock spell with a Verbal component or deals **:dmg-thun: Thunder**{ .dmg-thun } damage while using your pact instrument as your spellcasting focus, the save DC for that spell increases by 1
+
+---
+
+### Improved Pact Weapon
+
+_**Prerequisite:** [Pact of the Blade]_
+
+Your bond with your Pact Weapon improves.
+
+***Enhancement I***{ .inl } Your Pact Weapon gains a +1 bonus to its attack and damage rolls. If it already has a pre-existing bonus to those rolls, only the highest instance take effect.
+
+***Ranged Pact Weapon***{ .inl } The weapon you conjure or make a bond with using Pact of the Blade can be Ranged cold weapon.
 
 ---
 
 ### Knowledge of Antiquity
 
-***Prerequisite:** [Pact of the Hourglass]*
+_**Prerequisite:** [Pact of the Hourglass]_
 
 When you make an Intelligence (Arcana), Intelligence (History), or Intelligence (Religion), you can use your Charisma modifier instead of Intelligence.
 
@@ -108,7 +119,7 @@ When you make an Intelligence (Arcana), Intelligence (History), or Intelligence 
 
 ### Mirror of Fates
 
-***Prerequisite:** [Pact of the Chalice]*
+_**Prerequisite:** [Pact of the Chalice]_
 
 You can peer into the uncertain future. Using your Pact Chalice as a spellcasting focus, you can cast [:spell-lv1: Augury] at-will, without expending a spell slot or material components.
 
@@ -116,7 +127,7 @@ You can peer into the uncertain future. Using your Pact Chalice as a spellcastin
 
 ### Deep Fry
 
-***Prerequisite:** [Pact of the Wok]*
+_**Prerequisite:** [Pact of the Wok]_
 
 You can cast [:spell-lv1: Grease] with a Warlock spell slot.
 
@@ -124,7 +135,7 @@ You can cast [:spell-lv1: Grease] with a Warlock spell slot.
 
 ### Cup of Recovery
 
-***Prerequisite:** Level 2+ Warlock, [Pact of the Chalice]*
+_**Prerequisite:** Level 2+ Warlock, [Pact of the Chalice]_
 
 You can cast [:spell-lv2: Lesser Restoration] once without expending a spell slot. You regain the ability to cast it in this way again when you finish a **:rest-long: Long Rest**.
 
@@ -132,25 +143,17 @@ You can cast [:spell-lv2: Lesser Restoration] once without expending a spell slo
 
 ### Time Acceleration
 
-***Prerequisite:** Level 2+ Warlock, [Pact of the Hourglass]*
+_**Prerequisite:** Level 2+ Warlock, [Pact of the Hourglass]_
 
 You can cast [:spell-lv1: Gift of Alacrity](../../../spells/description/additional/dunamancy.md#gift-of-alacrity) once without expending a spell slot. You regain the ability to cast it in this way again when you finish a **:rest-long: Long Rest**.
 
 ---
 
-### Improved Pact Weapon
-
-_**Prerequisite:** Level 3+ Warlock, Pact of the Blade_
-
-You learn the [:spell-lv2: Magic Weapon] spell, and you can cast it on your Pact Weapon. When you do so, the spell does not require **:spell-conc: Concentration**{ .em }.
-
----
-
 ### Blasphemous Prayer
 
-***Prerequisite:** Level 5+ Warlock, [Pact of the Tome]*
+_**Prerequisite:** Level 5+ Warlock, [Pact of the Tome]_
 
-Choose one level 3 Cleric subclass feature that expend a use of Channel Divinity. A new page appears in your Book of Shadow detailing prayers of how to use that feature. You use your Warlock level and Spell save DC for Cleric level or Spell save DC.
+Choose one level 3 Cleric subclass feature that uses Channel Divinity (e.g. [Preserve Life](../../../class/cleric/life.md#level-3-preserve-life)). A new page appears in your Book of Shadow detailing prayers of how to use that feature. You use your Warlock level and Spell Save DC for Cleric level or Spell Save DC if required.
 
 You can invoke this level 3 Cleric subclass feature once and you must finish a **:rest-short: Short** or **:rest-long: Long Rest** before you can invoke it again.
 
@@ -158,7 +161,7 @@ You can invoke this level 3 Cleric subclass feature once and you must finish a *
 
 ### Blink of The Destruction
 
-***Prerequisite:** Level 5+ Warlock*
+_**Prerequisite:** Level 5+ Warlock_
 
 You can cast [:spell-lv3: Fireball] centred on yourself, using a Warlock spell slot. When you do, you gain Temporary Hit Points equal to the damage you take from the spell. If you use this invocation again while you still have Temporary Hit Points from it, any damage from the spell is instead applied to your actual Hit Points.
 
@@ -166,25 +169,25 @@ You can cast [:spell-lv3: Fireball] centred on yourself, using a Warlock spell s
 
 ### Kiss of Mephistopheles
 
-***Prerequisite:** Level 5+ Warlock, a Warlock Cantrip That Deals Damage*
+_**Prerequisite:** Level 5+ Warlock, a Warlock Cantrip That Deals Damage_
 
-Choose one of your known Warlock cantrips that deals damage. When that cantrip deals damage, you can take a **:rsc-b: Bonus Action**{ .rsc } to cast [:spell-lv3: Fireball] using a Pact Magic spell slot. The spell must be centered on the creature you hit with cantrip.
+Choose one of your known Warlock cantrips that deals damage. When that cantrip deals damage, you can take a **:rsc-b: Bonus Action**{ .rsc } to cast [:spell-lv3: Fireball] using a Pact Magic spell slot. The spell must be centered on the creature you damaged by the cantrip.
 
-***Repeatable.*** You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
+***Repeatable***{ .inl } You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
 
 ---
 
 ### Mire the Mind
 
-***Prerequisite:** Level 5+ Warlock*
+_**Prerequisite:** Level 5+ Warlock_
 
-You can cast [:spell-lv3: Slow] with a Warlock spell slot.
+You learn the [:spell-lv3: Slow] spell.
 
 ---
 
 ### Plates of Null
 
-***Prerequisite:** Level 5+, [Armour of Shadow]*
+_**Prerequisite:** Level 5+, [Armour of Shadow]_
 
 When you cast [:spell-lv1: Mage Armour] using [Armour of Shadow] Invocation, your base AC is 15 + your Dexterity modifier instead of the normal effect.
 
@@ -192,15 +195,15 @@ When you cast [:spell-lv1: Mage Armour] using [Armour of Shadow] Invocation, you
 
 ### Cup of Protection
 
-***Prerequisite:** Level 7+ Warlock, [Pact of the Chalice] *
+_**Prerequisite:** Level 7+ Warlock, [Pact of the Chalice]_
 
-A creature of your choice can take a **:rsc-b: Bonus Action**{ .rsc } to drink from your Pact Chalice, gaining the effects of *Death Ward* spell. Once used, you must finish a **:rest-long: Long Rest** to use this feature again.
+A creature of your choice can take a **:rsc-b: Bonus Action**{ .rsc } to drink from your Pact Chalice, gaining the effects of [:spell-lv4: Death Ward] spell. Once used, you must finish a **:rest-long: Long Rest** to use this feature again.
 
 ---
 
 ### Time Dilation
 
-***Prerequisite:** Level 7+ Warlock, [Pact of the Hourglass]*
+_**Prerequisite:** Level 7+ Warlock, [Pact of the Hourglass]_
 
 You can cast [:spell-lv3: Haste] once without expending a spell slot. You regain the ability to cast it in this way again when you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
@@ -208,23 +211,35 @@ You can cast [:spell-lv3: Haste] once without expending a spell slot. You regain
 
 ### Sculptor of Flesh
 
-***Prerequisite:** Level 7+ Warlock*
+_**Prerequisite:** Level 7+ Warlock_
 
-You can cast [:spell-lv4: Polymorph] with a Warlock spell slot.
+You learn the [:spell-lv4: Polymorph] spell.
 
 ---
 
 ### Enchanting Melody
 
-***Prerequisite:** Level 9+ Warlock*
+_**Prerequisite:** Level 9+ Warlock_
 
 You can cast [:spell-lv1: Charm Person] once without expending a spell slot. You regain the ability to cast it in this way again when you finish a **:rest-long: Long Rest**.
 
 ---
 
+### Superior Pact Weapon
+
+_**Prerequisite:** Level 9+ Warlock, [Improved Pact Weapon](#improved-pact-weapon)_
+
+Your bond with your Pact Weapon improves further.
+
+***Enhancement II***{ .inl } The bonus to attack and damage rolls that Improved Pact Weapon grants increases to +2. This bonus improves to +3 when you reach Warlock level 15.
+
+***Prismatic Blade***{ .inl } Whenever you attack with the Pact Weapon, you can cause the weapon to deal **:dmg-acid: Acid**{ .dmg-acid }, **:dmg-cold: Cold**{ .dmg-cold }, **:dmg-fire: Fire**{ .dmg-fire }, **:dmg-lgtn: Lightning**{ .dmg-lgtn }, or **:dmg-thun: Thunder**{ .dmg-thun } damage or its normal damage type.
+
+---
+
 ### Temporal Rewind
 
-***Prerequisite:** Level 15+ Warlock, [Pact of the Hourglass]*
+_**Prerequisite:** Level 15+ Warlock, [Pact of the Hourglass]_
 
 When you finish your turn, you can take a **:rsc-r: Reaction**{ .rsc } to undo everything that happened on your turn. You return to the space you began that turn in and you regain all resources you expended. You can then immediately repeat your turn.
 

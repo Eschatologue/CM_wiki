@@ -22,9 +22,9 @@ You have **:d20-adv: Advantage**{ .d20 } on Constitution saving throws that you 
 
 ### Pact of the Blade
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can conjure a pact weapon in your hand—a Simple or Martial Melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch; you can't bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a Spellcasting Focus.
+As a **:rsc-b: Bonus Action**{ .rsc }, you can conjure a Pact Weapon in your hand—a Simple or Martial Melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch; you can't bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a Spellcasting Focus.
 
-Whenever you attack with the bonded weapon, you can use your Spellcasting modifier for the attack and damage rolls instead of using Strength or Dexterity; and you can cause the weapon to deal Necrotic, Psychic, or Radiant damage or its normal damage type.
+Whenever you attack with the bonded weapon, you can use your Spellcasting modifier for the attack and damage rolls instead of using Strength or Dexterity; and you can cause the weapon to deal **:dmg-necr: Necrotic**{ .dmg-necr }, **:dmg-psyc: Psychic**{ .dmg-psyc }, or **:dmg-radi: Radiant**{ .dmg-radi } damage or its normal damage type.
 
 Your bond with the weapon ends if you use this feature's **:rsc-b: Bonus Action**{ .rsc } again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
 
@@ -44,9 +44,9 @@ Additionally, when you take the Attack action, you can forgo one of your own att
 
 Stitching together strands of shadow, you conjure forth a book in your hand at the end of a **:rest-short: Short** or **:rest-long: Long Rest**. This Book of Shadows (you determine its appearance) contains eldritch magic that only you can access, granting you the benefits below. The book disappears if you conjure another book with this feature or if you die.
 
-***Cantrips and Rituals.*** When the book appears, choose three cantrips, and choose two level 1 spells that have the Ritual tag. The spells can be from any class's spell list, and they must be spells you don't already have prepared. While the book is on your person, you have the chosen spells prepared, and they function as Warlock spells for you.
+***Cantrips and Rituals***{ .inl } When the book appears, choose three cantrips, and choose two level 1 spells that have the Ritual tag. The spells can be from any class's spell list, and they must be spells you don't already have prepared. While the book is on your person, you have the chosen spells prepared, and they function as Warlock spells for you.
 
-***Spellcasting Focus.*** You can use the book as a Spellcasting Focus.
+***Spellcasting Focus***{ .inl } You can use the book as a Spellcasting Focus.
 
 ---
 
@@ -56,7 +56,7 @@ _**Prerequisite:** Level 2+ Warlock, a Warlock Cantrip That Deals Damage_
 
 Choose one of your known Warlock cantrips that deals damage. You can add your Spellcasting modifier to that spell's damage rolls.
 
-***Repeatable.*** You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
+***Repeatable***{ .inl } You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
 
 ---
 
@@ -74,7 +74,7 @@ _**Prerequisite:** Level 2+ Warlock, a Warlock Cantrip That Deals Damage_
 
 Choose one of your known Warlock cantrips that deals damage and has a range of 10+ feet. When you cast that spell, its range increases by a number of feet equal to 30 times your Warlock level.
 
-***Repeatable.*** You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
+***Repeatable***{ .inl } You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
 
 ---
 
@@ -92,7 +92,7 @@ _**Prerequisite:** Level 2+ Warlock_
 
 You have received knowledge from an elder entity of the multiverse, allowing you to gain one Origin feat of your choice.
 
-***Repeatable.*** You can gain this invocation more than once. Each time you do so, choose a different Origin feat.
+***Repeatable***{ .inl } You can gain this invocation more than once. Each time you do so, choose a different Origin feat.
 
 ---
 
@@ -126,7 +126,7 @@ _**Prerequisite:** Level 2+ Warlock, a Warlock Cantrip That Deals Damage via an 
 
 Choose one of your known Warlock cantrips that requires an attack roll. When you hit a Large or smaller creature with that cantrip, you can push the creature up to 10 feet straight away from you.
 
-***Repeatable.*** You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
+***Repeatable***{ .inl } You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
 
 ---
 
@@ -134,7 +134,7 @@ Choose one of your known Warlock cantrips that requires an attack roll. When you
 
 _**Prerequisite:** Level 5+ Warlock_
 
-You can cast [:spell-lv1: Levitate] on yourself without expending a spell slot.
+You can cast [:spell-lv2: Levitate] on yourself without expending a spell slot.
 
 ---
 
@@ -142,7 +142,7 @@ You can cast [:spell-lv1: Levitate] on yourself without expending a spell slot.
 
 _**Prerequisite:** Level 5+ Warlock, [Pact of the Blade](#pact-of-the-blade)_
 
-Once per turn when you hit a creature with your pact weapon, you can expend a Pact Magic spell slot to deal an extra 1d8 :dmg-force: Force damage to the target, plus another 1d8 per level of the spell slot, and you can give the target the Prone condition if it is Huge or smaller.
+Once per turn when you hit a creature with your Pact Weapon, you can expend a Pact Magic spell slot to deal an extra **1d8 :dmg-force: Force**{ .dmg-force } damage to the target, plus another 1d8 per level of the spell slot, and you can give the target the Prone condition if it is Huge or smaller.
 
 ---
 
@@ -172,15 +172,15 @@ _**Prerequisite:** Level 5+ Warlock, [Pact of the Chain](#pact-of-the-chain)_
 
 When you cast [:spell-lv1: Find Familiar], you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits.
 
-***Aerial or Aquatic.*** The familiar gains either a Fly Speed or a Swim Speed (your choice) of 40 feet.
+***Aerial or Aquatic***{ .inl } The familiar gains either a Fly Speed or a Swim Speed (your choice) of 40 feet.
 
-***Quick Attack.*** As a **:rsc-b: Bonus Action**{ .rsc }, you can command the familiar to take the Attack action.
+***Quick Attack***{ .inl } As a **:rsc-b: Bonus Action**{ .rsc }, you can command the familiar to take the Attack action.
 
-***Necrotic or Radiant Damage.*** Whenever the familiar deals :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, or :dmg-slsh: Slashing damage, you can make it deal :dmg-necr: Necrotic or :dmg-radi: Radiant damage instead.
+***Necrotic or Radiant Damage***{ .inl } Whenever the familiar deals :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, or :dmg-slsh: Slashing damage, you can make it deal :dmg-necr: Necrotic or :dmg-radi: Radiant damage instead.
 
-***Your Save DC.*** If the familiar forces a creature to make a saving throw, it uses your spell save DC.
+***Your Save DC***{ .inl } If the familiar forces a creature to make a saving throw, it uses your spell save DC.
 
-***Resistance.*** When the familiar takes damage, you can take a **:rsc-r: Reaction**{ .rsc } to grant it **:dmg-res: Resistance**{ .em } against that damage.
+***Resistance***{ .inl } When the familiar takes damage, you can take a **:rsc-r: Reaction**{ .rsc } to grant it **:dmg-res: Resistance**{ .em } against that damage.
 
 ---
 
@@ -196,7 +196,7 @@ You can cast [:spell-lv2: Alter Self] without expending a spell slot.
 
 _**Prerequisite:** Level 5+ Warlock_
 
-While you're in an area of Dim Light or Darkness, you can cast *Invisibility* on yourself without expending a spell slot.
+While you're in an area of Dim Light or Darkness, you can cast [:spell-lv2: Invisibility] on yourself without expending a spell slot.
 
 ---
 
@@ -204,7 +204,7 @@ While you're in an area of Dim Light or Darkness, you can cast *Invisibility* on
 
 _**Prerequisite:** Level 5+ Warlock, [Pact of the Blade](#pact-of-the-blade)_
 
-You gain the Extra Attack feature for your pact weapon only. With that feature, you can attack twice with the weapon instead of once when you take the Attack action on your turn.
+You gain the Extra Attack feature for your Pact Weapon only. With that feature, you can attack twice with the weapon instead of once when you take the Attack action on your turn.
 
 ---
 
@@ -232,7 +232,7 @@ As a **:rsc-a: Magic**{ .rsc } action, you can erase a name on the page by touch
 
 _**Prerequisite:** Level 9+ Warlock, [Pact of the Blade](#pact-of-the-blade)_
 
-Once per turn when you hit a creature with your pact weapon, you can deal an extra 1d6 :dmg-necr: Necrotic, :dmg-psyc: Psychic, or :dmg-radi: Radiant damage (your choice) to the creature, and you can expend one of your Hit Point Dice to roll it and regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1 Hit Point).
+Once per turn when you hit a creature with your Pact Weapon, you can deal an extra 1d6 :dmg-necr: Necrotic, :dmg-psyc: Psychic, or :dmg-radi: Radiant damage (your choice) to the creature, and you can expend one of your Hit Point Dice to roll it and regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1 Hit Point).
 
 ---
 
@@ -246,9 +246,9 @@ You can cast [:spell-lv4: Arcane Eye] without expending a spell slot.
 
 ### Devouring Blade
 
-_**Prerequisite:** Level 12+ Warlock, [Thirsting Blade]_
+_**Prerequisite:** Level 12+ Warlock, [Thirsting Blade](#thirsting-blade)_
 
-The Extra Attack of your [Thirsting Blade] invocation confers two extra attacks rather than one.
+The Extra Attack of your [Thirsting Blade](#thirsting-blade) invocation confers two extra attacks rather than one.
 
 ---
 
@@ -257,7 +257,5 @@ The Extra Attack of your [Thirsting Blade] invocation confers two extra attacks 
 _**Prerequisite:** Level 15+ Warlock_
 
 You have Truesight with a range of 30 feet.
-
-[Thirsting Blade]: #thirsting-blade
 
 --8<-- "includes/snippets/spells3/lv0-5.md"

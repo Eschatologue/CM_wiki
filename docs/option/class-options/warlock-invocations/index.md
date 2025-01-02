@@ -52,6 +52,8 @@ The table below lists available General Feats, divided into three categories: *P
 
 </div>
 
+<!--
+
 ### Supplemental
 
 <div class="grid cards" markdown>
@@ -77,6 +79,8 @@ The table below lists available General Feats, divided into three categories: *P
 
 </div>
 
+-->
+
 ### Homebrew
 
 <div class="grid cards" markdown>
@@ -100,6 +104,7 @@ The table below lists available General Feats, divided into three categories: *P
 - :class-phb24-warlock: [Pact of the Wok](hb.md#pact-of-the-wok)
 - :class-phb24-warlock: [Plates of Null](hb.md#plates-of-null)
 - :class-phb24-warlock: [Sculptor of Flesh](hb.md#sculptor-of-flesh)
+- :class-phb24-warlock: [Superior Pact Weapon](hb.md#superior-pact-weapon)
 - :class-phb24-warlock: [Temporal Rewind](hb.md#temporal-rewind)
 - :class-phb24-warlock: [Time Acceleration](hb.md#time-acceleration)
 - :class-phb24-warlock: [Time Dilation](hb.md#time-dilation)
