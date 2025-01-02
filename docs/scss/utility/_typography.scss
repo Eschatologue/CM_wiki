@@ -78,6 +78,11 @@
     @extend .chevron-right;
 }
 
+.inl-dt {
+    @extend .inl;
+    @extend .indent;
+}
+
 // Options
 .opt {
     @extend .em;

@@ -65,14 +65,14 @@ You can conjure a Pact Wok; a venerable cooking implement in your hand at the en
 
 ***Eldritch Rations***{ .inl } When you finish a **:rest-long: Long Rest**, you can prepare a number of **special rations** up to your spellcasting modifier. A creature can take a **:rsc-b: Bonus Action**{ .rsc } to consume one of these **special rations** and it gains one of the following benefits:
 
-***Bolster***{ .opt } The creature chooses either Strength, Dexterity, or Constitution. For 1 minute, the creature can add your spellcasting modifier to any ability check or saving throws it makes with the chosen ability score.
-{ .idnt }
+:   ***Bolster***{ .opt } The creature chooses either Strength, Dexterity, or Constitution. For 1 minute, the creature can add your spellcasting modifier to any ability check or saving throws it makes with the chosen ability score.
+    { .idnt }
 
-***Heal***{ .opt } The creature ends one of the following conditions currently affecting it: Charmed, Blindness, Frightened, Deafened, Poisoned, or it can reduce its current Exhaustion level by 1.
-{ .idnt }
+:   ***Heal***{ .opt } The creature ends one of the following conditions currently affecting it: Charmed, Blindness, Frightened, Deafened, Poisoned, or it can reduce its current Exhaustion level by 1.
+    { .idnt }
 
-***Invigorate***{ .opt } The creature regain Hit Points equals to 1d10 + your spellcasting modifier.
-{ .idnt }
+:   ***Invigorate***{ .opt } The creature regain Hit Points equals to 1d10 + your spellcasting modifier.
+    { .idnt }
 
 ***Spellcasting Focus.*** You can use the device as a Spellcasting Focus.
 
