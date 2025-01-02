@@ -163,11 +163,11 @@
 /*------------------------------------------------------- 
     Typography
 --------------------------------------------------------*/
-.em, .opt, .inl, .rsc, .d20 {
+.em, .opt, .inl, .inl-dt, .rsc, .d20 {
   white-space: nowrap; /* Prevent selected block to split on smaller screen sizes, used in conjuction with icons */
   font-weight: 550 !important;
 }
-.em abbr, .opt abbr, .inl abbr, .rsc abbr, .d20 abbr {
+.em abbr, .opt abbr, .inl abbr, .inl-dt abbr, .rsc abbr, .d20 abbr {
   border-bottom: none !important;
 }
 
@@ -204,7 +204,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
   vertical-align: -0.1875em;
 }
 
-.inl {
+.inl, .inl-dt {
   display: inline-block;
   position: relative;
 }
@@ -214,7 +214,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
   position: relative;
 }
 
-.chevron-right::after, .inl::after, .opt::after {
+.chevron-right::after, .inl::after, .inl-dt::after, .opt::after {
   font-style: normal !important;
   font-weight: 400 !important;
   content: "»";
@@ -222,7 +222,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
   margin-left: 0.25em;
 }
 
-.chevron-left::before, .inl::before {
+.chevron-left::before, .inl::before, .inl-dt::before {
   font-style: normal !important;
   font-weight: 400 !important;
   content: "«";
@@ -230,11 +230,11 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
   margin-right: 0.25em;
 }
 
-.indent, .inl {
+.indent, .inl, .inl-dt {
   text-indent: 1.125em;
 }
 @media screen and (max-width: 720px) {
-  .indent, .inl {
+  .indent, .inl, .inl-dt {
     text-indent: 0.5625em;
   }
 }
