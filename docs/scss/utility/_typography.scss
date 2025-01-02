@@ -69,7 +69,6 @@
 // Inline Sub
 .inl {
     @extend .em;
-    @extend .indent;
     
     display: inline-block;
     position: relative;
