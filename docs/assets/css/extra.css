@@ -230,11 +230,11 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
   margin-right: 0.25em;
 }
 
-.indent, .inl, .inl-dt {
+.indent, .inl-dt {
   text-indent: 1.125em;
 }
 @media screen and (max-width: 720px) {
-  .indent, .inl, .inl-dt {
+  .indent, .inl-dt {
     text-indent: 0.5625em;
   }
 }
