@@ -30,7 +30,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 | 13 | [:spell-lv4: Blight], [:spell-lv4: Confusion] |
 | 17 | [:spell-lv5: Contagion], [:spell-lv5: Dominate Person] |
 
-[:spell-lv3: Shackles of Pain]: ../../spells/description/additional/homebrew/level-3.md#shackles-of-pain
+[:spell-lv3: Shackles of Pain]: ../../spells/description/additional/homebrew.md#shackles-of-pain
 
 ### Level 3: Corrupting Will
 

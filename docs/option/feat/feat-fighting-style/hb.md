@@ -41,7 +41,7 @@ If you already have a pool of Superiority Dice, these dice are added to that poo
 You gain training with all Shields and it can be used as a weapon while wielding one, following the trait below. Morover, you can also take a **:rsc-b: Bonus Action**{ .rsc } to make a single attack with a Shield.
 
 **Weapon Category:** Martial Melee  
-**Base Damage:** d4 (Buckler); d6 (Shield); d8 (Tower Shield) :dmg-bldg: Bludgeoning damage plus Strength modifier
+**Base Damage:** d4 (Buckler); d6 (Shield); d8 (Pavise) damage plus Strength modifier **:dmg-bldg: Bludgeoning**{ .dmg-phys }
 
 ---
 
@@ -52,6 +52,10 @@ You gain training with all Shields and it can be used as a weapon while wielding
 You specialise one weapon rather than many. Choose one Weapon that you are Proficient with to be your Signature Weapon. When you make an attack with that type of weapon, you gain the following benefit, you can change your Signature Weapon when you gain a level:
 
 ***Damage Die Increase.*** The weapon's damage die that is in the Original Damage Die column changes to the die in the Signature Damage Die column.
+
+***Improved Attack Roll.*** When you make a weapon attack with the weapon, you can treat a roll equal to your Proficiency Bonus or lower on the d20 as your Proficiency Bonus.
+
+***Mastery Property.*** You can use the weapon Mastery property even if you don't have the class feature to do so. If you have a class feature that allows you to use it, the weapon can benefit from one additional eligible Mastery properties of your choice. (e.g, a Longsword can have both the Vex and Flex property)
 
 ##### Signature Weapon Die
 
@@ -70,10 +74,6 @@ You specialise one weapon rather than many. Choose one Weapon that you are Profi
 | 2d6 / 1d12 | 2d6 + 1 |
 
 </div>
-
-***Improved Attack Roll.*** When you make a weapon attack with the weapon, you can treat a roll equal to your Proficiency Bonus or lower on the d20 as your Proficiency Bonus.
-
-***Mastery Property.*** You can use the weapon Mastery property even if you don't have the class feature to do so. If you have a class feature that allows you to use it, the weapon can benefit from one additional eligible Mastery properties of your choice. (e.g, a Longsword can have both the Vex and Flex property)
 
 ---
 

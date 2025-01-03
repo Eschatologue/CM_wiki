@@ -31,7 +31,7 @@ When you reach an Artificer level specified in the Forgewright Spells table, you
 | 13 | [:spell-lv4: Fire Shield], [:spell-lv4: Staggering Smite] |
 | 17 | [:spell-lv5: Banishing Smite], [:spell-lv5: Destructive Wave] |
 
-[:spell-lv2: Foreign Ironwind]: ../../spells/description/additional/homebrew/level-2.md#foreign-ironwind
+[:spell-lv2: Foreign Ironwind]: ../../spells/description/additional/homebrew.md#foreign-ironwind
 
 ### Level 3: Arcane Armament
 

@@ -38,7 +38,7 @@ When you reach a Ranger level specified in the Hunter Spells Table, you thereaft
 | 13 | [:spell-lv4: Freedom of Movement], [:spell-lv4: Mordenkainen's Faithful Hound] |
 | 17 | [:spell-lv5: Swift Quiver], [:spell-lv5: Tree Stride] |
 
-[:spell-lv3: Ballistic Shot]: ../../spells/description/additional/homebrew/level-3.md#ballistic-shot
+[:spell-lv3: Ballistic Shot]: ../../spells/description/additional/homebrew.md#ballistic-shot
 
 ### Level 7: Defensive Tactics
 

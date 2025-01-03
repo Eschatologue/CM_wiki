@@ -143,7 +143,7 @@ Once activated, the wielder must finish a **:rest-short: Short** or **:rest-long
 
 ---
 
-[:spell-lv2: Foreign Ironwind]: ../../../spells/description/additional/homebrew/level-2.md#foreign-ironwind
+[:spell-lv2: Foreign Ironwind]: ../../../spells/description/additional/homebrew.md#foreign-ironwind
 
 --8<-- "includes/snippets/item-mastery.md"
 

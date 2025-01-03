@@ -14,7 +14,7 @@ You, child of the star are chosen with the purpose to reveal the secrets behind 
 
 ### Level 2: Bonus Cantrip
 
-You gain to unleash the power which Spires draws from. You learn the [:spell-lv0: Cosmic Flare](../../spells/description/additional/homebrew/cantrip.md#cosmic-flare) cantrip.
+You gain to unleash the power which Spires draws from. You learn the [:spell-lv0: Cosmic Flare](../../spells/description/additional/homebrew.md#cosmic-flare) cantrip.
 
 While holding your Star Map, you can add your Wisdom modifier to this cantrip's damage roll.
 
