@@ -40,6 +40,9 @@
 .md-typeset dd {
   margin-left: -0.4rem;
 }
+.md-typeset blockquote strong {
+  color: var(--md-default-fg-color--light) !important;
+}
 .md-typeset h1,
 .md-typeset h2 {
   font-family: "Jost", sans-serif;
