@@ -42,6 +42,7 @@ This Paladin spell list includes all spells available from `PHB'24`, `TCE`, `XGE
     | *Magic Weapon* | Transmutation | Bonus | Touch | 1 hour | V, S | PHB'24 |
     | *Prayer of Healing* | Abjuration | 10 Min. | 30 feet | Instantaneous | V | PHB'24 |
     | *Protection from Poison* | Abjuration | Action | Touch | 1 hour | V, S | PHB'24 |
+    | *Protection from Missiles* | Abjuration | Action | Self | Concentration, up to 1 minute | V, M (a tortoise or turtle shell, or a metal shield) | CM |
     | *Shining Smite* | Transmutation | Bonus | Self | Concentration, up to 1 minute | V | PHB'24 |
     | *Warding Bond* | Abjuration | Action | Touch | 1 hour | V, S, M (a pair of platinum rings worth 50+ GP each, which you and the target must wear for the duration) | PHB'24 |
     | *Zone of Truth* | Enchantment | Action | 60 feet | 10 minutes | V, S | PHB'24 |

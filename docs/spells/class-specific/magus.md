@@ -86,6 +86,7 @@ Any spells on the list below that are marked by an **S** are compatible with the
     | *Misty Step* | Conjuration | Bonus | Self | Instantaneous | V | PHB'24 |
     | *Nystul's Magic Aura* | Illusion | Action | Touch | 24 hours | V, S, M (a small square of silk) | PHB'24 |
     | *Prayer of Healing* | Abjuration | 10 Min. | 30 feet | Instantaneous | V | PHB'24 |
+    | *Protection from Missiles* | Abjuration | Action | Self | Concentration, up to 1 minute | V, M (a tortoise or turtle shell, or a metal shield) | CM |
     | *Ray of Enfeeblement* | Necromancy | Action | 60 feet | Concentration, up to 1 minute | V, S | PHB'24 |
     | *Scorching Ray*^S^ | Evocation | Action | 120 feet | Instantaneous | V, S | PHB'24 |
     | *Shatter*^S^ | Evocation | Action | 60 feet | Instantaneous | V, S, M (a chip of mica) | PHB'24 |

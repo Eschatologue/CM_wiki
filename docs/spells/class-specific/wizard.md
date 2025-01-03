@@ -127,6 +127,7 @@ This Wizard spell list includes all spells available from `PHB'24`, `TCE`, `XGE`
     | *Nathair's Mischief* | Illusion | Action | 60 feet | Concentration, up to 1 minute | S, M (a piece of crust from an apple pie) | FTD |
     | *Nystul's Magic Aura* | Illusion | Action | Touch | 24 hours | V, S, M (a small square of silk) | PHB'24 |
     | *Phantasmal Force* | Illusion | Action | 60 feet | Concentration, up to 1 minute | V, S, M (a bit of fleece) | PHB'24 |
+    | *Protection from Missiles* | Abjuration | Action | Self | Concentration, up to 1 minute | V, M (a tortoise or turtle shell, or a metal shield) | CM |
     | *Pyrotechnics* | Transmutation | Action | 60 feet | Instantaneous | V, S | XGE |
     | *Ray of Enfeeblement* | Necromancy | Action | 60 feet | Concentration, up to 1 minute | V, S | PHB'24 |
     | *Rime's Binding Ice* | Evocation | Action | Self (30-foot cone) | Instantaneous | S, M (a vial of meltwater) | FTD |

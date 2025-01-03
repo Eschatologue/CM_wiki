@@ -78,6 +78,7 @@ This Artificer spell list includes all spells available from `PHB'24`, `TCE`, `X
     | *Levitate* | Transmutation | Action | 60 feet | Concentration, up to 10 minutes | V, S, M (a metal spring) | PHB'24 |
     | *Magic Mouth* | Illusion (ritual) | 1 Min. | 30 feet | Until dispelled | V, S, M (jade dust worth 10+ GP, which the spell consumes) | PHB'24 |
     | *Magic Weapon* | Transmutation | Bonus | Touch | 1 hour | V, S | PHB'24 |
+    | *Protection from Missiles* | Abjuration | Action | Self | Concentration, up to 1 minute | V, M (a tortoise or turtle shell, or a metal shield) | CM |
     | *Protection from Poison* | Abjuration | Action | Touch | 1 hour | V, S | PHB'24 |
     | *Pyrotechnics* | Transmutation | Action | 60 feet | Instantaneous | V, S | XGE |
     | *Rope Trick* | Transmutation | Action | Touch | 1 hour | V, S, M (a segment of rope) | PHB'24 |

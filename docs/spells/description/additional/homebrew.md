@@ -68,12 +68,12 @@ You can then teleport to an unoccupied space you can see within 5 feet of one of
 
 You create an distruptive field around yourself. For the duration, Ranged attacks using weapons against you that deals **:dmg-bldg: Bludgeoning**{ .dmg-phys }, **:dmg-prcg: Piercing**{ .dmg-phys }, or **:dmg-slsh: Slashing**{ .dmg-phys } damage have **:d20-disadv: Disadvantage**{ .d20 }. You also have **:dmg-res: Resistance** to **:dmg-bldg: Bludgeoning**{ .dmg-phys }, **:dmg-prcg: Piercing**{ .dmg-phys }, or **:dmg-slsh: Slashing**{ .dmg-phys } damage from Ranged weapons.
 
-> **Classes:** Artificer, Ranger, Paladin, Sorcerer, Wizard
+> **Classes:** Artificer, Magus, Ranger, Paladin, Wizard
 
 *As many nation stepped down into the path of industrialisation, warfare soon evolved to the point where many mages found themselves very vulnerable the sheer amount of arrows and bolts used. This spell was devised to counteract such threats.*
 { .quote }
 
-*Just to clarify, when we say 'missiles,' we’re talking about projectiles—like arrows, crossbow bolts, javelins, thrown spears, etc. Not the kind that Albion fond of which can flatten cities half of continent away. For those, you'll need a miracle.*
+*Just to clarify, when we say 'missiles,' we’re talking about projectiles—like arrows, crossbow bolts, javelins, thrown spears, etc. Not the kind that Albion fond of. For those, you'll need a miracle.*
 { .quote }
 
 ---

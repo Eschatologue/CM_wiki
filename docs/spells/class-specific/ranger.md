@@ -52,6 +52,7 @@ This Ranger spell list includes all spells available from `PHB'24`, `TCE`, `XGE`
     | *Magic Weapon* | Transmutation | Bonus | Touch | 1 hour | V, S | PHB'24 |
     | *Pass without Trace* | Abjuration | Action | Self (30-foot emanation) | Concentration, up to 1 hour | V, S, M (ashes from burned mistletoe) | PHB'24 |
     | *Protection from Poison* | Abjuration | Action | Touch | 1 hour | V, S | PHB'24 |
+    | *Protection from Missiles* | Abjuration | Action | Self | Concentration, up to 1 minute | V, M (a tortoise or turtle shell, or a metal shield) | CM |
     | *Silence* | Illusion (ritual) | Action | 120 feet | Concentration, up to 10 minutes | V, S | PHB'24 |
     | *Spike Growth* | Transmutation | Action | 150 feet | Concentration, up to 10 minutes | V, S, M (seven thorns) | PHB'24 |
     | *Summon Beast* | Conjuration | Action | 90 feet | Concentration, up to 1 hour | V, S, M (a feather, tuft of fur, and fish tail inside a gilded acorn worth 200+ GP) | PHB'24 |
