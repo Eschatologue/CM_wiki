@@ -24,6 +24,7 @@ $defaultFontSize: convert.px2rem(15px); // Base font size
     strong {
         letter-spacing: $defaultFontSize * 0.03;
         color: var(--md-gbl-text-color-strong);
+
         @media screen and (max-width: 720px) {
             white-space: nowrap;
         }
@@ -52,6 +53,12 @@ $defaultFontSize: convert.px2rem(15px); // Base font size
 
     dd {
         margin-left: convert.px2rem(-8px);
+    }
+
+    blockquote {
+        strong {
+            color: var(--md-default-fg-color--light) !important;
+        }
     }
 
     // Heading Styles
