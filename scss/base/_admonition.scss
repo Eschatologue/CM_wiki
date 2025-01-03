@@ -1,0 +1,72 @@
+@use "sass:color";
+@use "../utility/convert";
+
+/*------------------------------------------------------- 
+    Admonitions
+--------------------------------------------------------*/
+
+/* Revert to Legacy */
+.md-typeset .admonition,
+.md-typeset details {
+    border-width: 0;
+    border-left-width: 4px;
+    box-shadow: var(--md-shadow-z3);
+}
+
+/* Add Shadow */
+.md-typeset {
+    .admonition {
+        border-color: var(--md-admonition-icon-color--note);
+        box-shadow: var(--md-shadow-z3);
+        transition: box-shadow 250ms;
+    }
+}
+
+.md-typeset {
+
+    // Homebrew
+
+    $colorAdmonition_homebrew: convert.hex3hsl(#ffb624);
+
+    .admonition.homebrew,
+    details.homebrew {
+        border-color: $colorAdmonition_homebrew;
+    }
+
+    .homebrew {
+        > .admonition-title,
+        > summary {
+            background-color: color.adjust($colorAdmonition_homebrew, $alpha: -0.9);
+        }
+
+        > .admonition-title::before,
+        > summary::before {
+            background-color: $colorAdmonition_homebrew;
+            -webkit-mask-image: var(--md-icon--homebrew);
+            mask-image: var(--md-icon--homebrew);
+        }
+    }
+
+    // Glossary
+
+    $colorAdmonition_glossary: convert.hex3hsl(#4db6ac);
+
+    .admonition.glossary,
+    details.glossary {
+        border-color: $colorAdmonition_glossary;
+    }
+
+    .glossary {
+        > .admonition-title,
+        > summary {
+            background-color: color.adjust($colorAdmonition_glossary, $alpha: -0.9);
+        }
+
+        > .admonition-title::before,
+        > summary::before {
+            background-color: $colorAdmonition_glossary;
+            -webkit-mask-image: var(--md-icon--glossary);
+            mask-image: var(--md-icon--glossary);
+        }
+    }
+}

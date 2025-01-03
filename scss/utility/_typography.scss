@@ -1,0 +1,166 @@
+@use "../base/typeset";
+@use "../base/table";
+@use "../utility/convert";
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+/*------------------------------------------------------- 
+    Typography
+--------------------------------------------------------*/
+
+.em {
+    white-space: nowrap;
+    /* Prevent selected block to split on smaller screen sizes, used in conjuction with icons */
+    font-weight: 550 !important;
+
+    // Disable dotted line
+    abbr {
+        border-bottom: none !important;
+    }
+}
+
+.background {
+    background-color: hsla(0, 0%, 0%, 0.15);
+    padding: convert.px2em(2px) convert.px2em(4.5px);
+    border-radius: 0.25em;
+}
+
+.smallcap {
+    :is(.emojione, .twemoji, .gemoji) {
+        font-size: #{var(--default-font-size)};
+        vertical-align: convert.px2em(-3px);
+    }
+
+    font-size: #{calc(var(--default-font-size) * 1.05)};
+    font-variant: small-caps !important;
+    /* Make font smallcaps so it looks different than the rest */
+    letter-spacing: calc(var(--default-font-size) * 0.04) !important;
+    /* Wider letterspacing for easier read */
+
+    table:not([class]) & {
+        font-size: #{calc(var(--table-font-size))} !important;
+
+        :is(.emojione, .twemoji, .gemoji) {
+            font-size: #{var(--table-font-size)};
+            vertical-align: convert.px2em(-3px);
+        }
+    }
+}
+
+// Used for D20 rolls, Initiative, Ability Cheks, Saving Throws etc
+.d20 {
+    @extend .em;
+    @extend .smallcap;
+}
+
+// RSC or Resource. Anything that players need to "expend" to do something
+
+.rsc {
+    @extend .em;
+    font-family: "Roboto", serif;
+}
+
+.quote {
+    color: var(--md-default-fg-color--light);
+    font-size: calc(var(--default-font-size) * 0.85);
+    font-weight: 350;
+}
+
+.icon-head {
+    :is(.emojione, .twemoji, .gemoji) {
+        vertical-align: convert.px2em(-3px);
+    }
+}
+
+// Inline Sub
+.inl {
+    @extend .em;
+
+    display: inline-block;
+    position: relative;
+
+    @extend .chevron-left;
+    @extend .chevron-right;
+}
+
+.inl-dt {
+    @extend .inl;
+    @extend .indent;
+}
+
+// Options
+.opt {
+    @extend .em;
+
+    display: inline-block;
+    position: relative;
+
+    @extend .chevron-right;
+}
+
+.chevron-right {
+    &::after {
+        font-style: normal !important;
+        font-weight: 400 !important;
+        content: "»";
+        color: var(--md-default-fg-color--light);
+        margin-left: convert.px2em(4px);
+    }
+}
+
+.chevron-left {
+    &::before {
+        font-style: normal !important;
+        font-weight: 400 !important;
+        content: "«";
+        color: var(--md-default-fg-color--light);
+        margin-right: convert.px2em(4px);
+    }
+}
+
+$indent: 18px;
+
+.indent {
+    text-indent: convert.px2em($indent);
+
+    @media screen and (max-width: 720px) {
+        text-indent: convert.px2em($indent * 0.5);
+    }
+}
+
+.idnt {
+    // Scales is Padding Left = Text Indent x 2. Text Indent is minus
+    text-indent: convert.px2em(-$indent);
+    padding-left: convert.px2em($indent * 2);
+}
+
+//-----------------------------------------------------//
+
+/* Damage-type Dynamic Class Generation */
+
+$damage-types: (
+    acid: #38da4f,
+    cold: #4fc3f7,
+    fire: #e1822e,
+    posn: #4eaa2d,
+    thun: #9575CD,
+    psyc: #e255a1,
+    lgtn: #1E88E5,
+    necr: #80CBC4,
+    radi: #FFEE58,
+    force: #ff7369,
+    phys: #b0bec5,
+
+    heal: #69eeee
+);
+
+@each $type, $color in $damage-types {
+
+    /* Damage type: #{$type} */
+    .dmg-#{$type} {
+        color: convert.hex3hsl($color) !important;
+        white-space: nowrap;
+        font-weight: 550 !important;
+        font-style: none !important;
+    }
+}
