@@ -39,7 +39,7 @@ theme:
     - 404.html
   icon: 
     logo: fontawesome/solid/dice-d20
-    annotation: material/timeline-question
+    annotation: material/star-four-points-circle
   
 ## Additional Configuration
 extra:

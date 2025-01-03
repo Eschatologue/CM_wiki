@@ -68,14 +68,14 @@ You can then teleport to an unoccupied space you can see within 5 feet of one of
 **Components:** V, M (a tortoise or turtle shell, or a metal shield)  
 **Duration:** Concentration, up to 1 minute  
 
-You create an distruptive field around yourself. For the duration, Ranged weapon attacks against you have **:d20-disadv: Disadvantage**{ .d20 } and you have **:dmg-res: Resistance**{ .em } to **:dmg-bldg: Bludgeoning**{ .dmg-phys }, **:dmg-prcg: Piercing**{ .dmg-phys }, and **:dmg-slsg: Slashing**{ .dmg-phys } damage from attack roll using Ranged weapons.
+You create an distruptive field around yourself. For the duration, Ranged attacks using weapons against you that deals **:dmg-bldg: Bludgeoning**{ .dmg-phys }, **:dmg-prcg: Piercing**{ .dmg-phys }, or **:dmg-slsh: Slashing**{ .dmg-phys } damage have **:d20-disadv: Disadvantage**{ .d20 }. If the attack hits, you have **:dmg-res: Resistance** to it.
 
 > **Classes:** Artificer, Ranger, Paladin, Sorcerer, Wizard
 
 *As many nation stepped down into the path of industrialisation, warfare soon evolved to the point where many mages found themselves very vulnerable the sheer amount of arrows and bolts used. This spell was devised to counteract such threats.*
 { .quote }
 
-*Note: This spell won’t save you from explosions, siege engines, or a catapult to the face. And if Albion’s firing actual missiles at you? Well, let’s just say this spell isn’t that kind of miracle*
+*Just to clarify, when we say 'missiles,' we’re talking about projectiles—like arrows, crossbow bolts, javelins, thrown spears, etc. Not the kind that Albion fond of which can flatten cities half of continent away. For those, you'll need a miracle.*
 { .quote }
 
 ---
