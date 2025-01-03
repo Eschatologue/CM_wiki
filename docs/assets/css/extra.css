@@ -167,7 +167,8 @@
     Typography
 --------------------------------------------------------*/
 .em, .opt, .inl, .inl-dt, .rsc, .d20 {
-  white-space: nowrap; /* Prevent selected block to split on smaller screen sizes, used in conjuction with icons */
+  white-space: nowrap;
+  /* Prevent selected block to split on smaller screen sizes, used in conjuction with icons */
   font-weight: 550 !important;
 }
 .em abbr, .opt abbr, .inl abbr, .inl-dt abbr, .rsc abbr, .d20 abbr {
@@ -201,6 +202,12 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
 
 .rsc {
   font-family: "Roboto", serif;
+}
+
+.quote {
+  color: var(--md-default-fg-color--light);
+  font-size: calc(var(--default-font-size) * 0.85);
+  font-weight: 350;
 }
 
 .icon-head :is(.emojione, .twemoji, .gemoji) {
