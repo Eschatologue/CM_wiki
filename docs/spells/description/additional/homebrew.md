@@ -33,6 +33,7 @@ You summon a fragment of the heart from a distant star, and hurl it toward a cre
 > **Classes:** Cleric, Druid
 
 *"The spell earned its name when a Spire first laid its gaze upon a mortal, granting them permission to draw power from the lingering energy of Antares' now shattered moon. However, a particularly self-centered elf insists on calling it "Khaine's Kalamity"—because it has a much cooler ring to it and makes for a better story at parties."*
+{ .quote }
 
 ---
 
@@ -54,6 +55,7 @@ You can then teleport to an unoccupied space you can see within 5 feet of one of
 > **Classes:** Ranger, Wizard
 
 *"A spell that is made by a wandering ronin from Karakorum, the Kamikaze. The sage who unearthed its teaching decided to give this spell a this fitting name due to how 'foreign' its teachings compared to the Gallian Standard System."*
+{ .quote }
 
 ---
 
@@ -71,8 +73,10 @@ You create an distruptive field around yourself. For the duration, Ranged weapon
 > **Classes:** Artificer, Ranger, Paladin, Sorcerer, Wizard
 
 *As many nation stepped down into the path of industrialisation, warfare soon evolved to the point where many mages found themselves very vulnerable the sheer amount of arrows and bolts used. This spell was devised to counteract such threats.*
+{ .quote }
 
 *Note: This spell won’t save you from explosions, siege engines, or a catapult to the face. And if Albion’s firing actual missiles at you? Well, let’s just say this spell isn’t that kind of miracle*
+{ .quote }
 
 ---
 
