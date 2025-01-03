@@ -73,7 +73,7 @@ You create an distruptive field around yourself. For the duration, Ranged attack
 *As many nation stepped down into the path of industrialisation, warfare soon evolved to the point where many mages found themselves very vulnerable the sheer amount of arrows and bolts used. This spell was devised to counteract such threats.*
 { .quote }
 
-*Just to clarify, when we say 'missiles,' we’re talking about projectiles—like arrows, crossbow bolts, javelins, thrown spears, etc. Not the kind that Albion fond of. For those, you'll need a miracle.*
+*"Just to clarify, when we say 'missiles,' we’re talking about projectiles—like arrows, crossbow bolts, javelins, thrown spears, etc. Not the kind that Albion fond of. For those, you'll need a miracle."*
 { .quote }
 
 ---
