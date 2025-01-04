@@ -99,13 +99,13 @@ The number of times you can cast the spell without a spell slot increases when y
 
 You gain invaluable knowledge, experiences, or hard-earned lessons, which is represented by Ranger's Aptidude. You gain one aptidude of your choice. Aptidude are described in the "[Ranger's Aptitude Options](../../option/class-options/ranger-aptitude.md)" section later in this class's description.
 
-***Prerequisites.*** If an aptidude has a prerequisite, you must meet it to learn that aptidude. For example, if an aptidude requires you to be a level 5+ Ranger, you can select the aptidude once you reach Ranger level 5. If another Ranger feature gives you Aptitude, those Aptitude don't count against the number of Aptitudes you know with this feature
+***Prerequisites***{ .inl } If an aptidude has a prerequisite, you must meet it to learn that aptidude. For example, if an aptidude requires you to be a level 5+ Ranger, you can select the aptidude once you reach Ranger level 5. If another Ranger feature gives you Aptitude, those Aptitude don't count against the number of Aptitudes you know with this feature
 
-***Replacing and Gaining Aptidudes.*** Whenever you gain a Ranger level, you can replace one of your aptidudes with another one for which you qualify. You can't replace an aptidude if it's a prerequisite for another aptidude that you have.
+***Replacing and Gaining Aptidudes***{ .inl } Whenever you gain a Ranger level, you can replace one of your aptidudes with another one for which you qualify. You can't replace an aptidude if it's a prerequisite for another aptidude that you have.
 
-***Spell.*** If an aptidude grants a spell, it is considered a Ranger spell for you, and Wisdom is your spellcasting ability.
+***Spell***{ .inl } If an aptidude grants a spell, it is considered a Ranger spell for you, and Wisdom is your spellcasting ability.
 
-***Proficiency.*** If an aptidude grants proficiency in a skill you already have, choose a different proficiency available to the Core Ranger Trait table.
+***Proficiency***{ .inl } If an aptidude grants proficiency in a skill you already have, choose a different proficiency available to the Core Ranger Trait table.
 
 When you gain certain Ranger levels, you gain more aptidudes of your choice, as shown in the Aptidudes column of the Ranger Features table.
 
@@ -145,11 +145,9 @@ Your training with weapons allows you to use the mastery properties of *two* kin
 
 Whenever you finish a **:rest-long: Long Rest**, you can do *one* of the following:
 
-_**Change Weapon**_  
-You can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Longswords, or
+:   ***Change Weapon***{ .inl } You can practice weapon drills and change the kinds of weapons you chose; or
 
-_**Replace Weapon Mastery**^CM^_   
-You can choose any weapon with a Mastery property that you're using and replace its Mastery property with another eligible Mastery property. For example, you could replace the Scimitar's Nick property with the Vex property.
+:   ***Replace Mastery Property***{ .inl } You can choose any weapon with a Mastery property that you're using and replace its Mastery property with another eligible Mastery property (e.g. Replace the Greataxe's Cleave property with the Graze property).
 
 --8<-- "includes/snippets/item-mastery.md"
 
@@ -157,15 +155,15 @@ You can choose any weapon with a Mastery property that you're using and replace 
 
 Thanks to your travels, you gain the following benefits.
 
-***Expertise.*** Choose one of your skill proficiencies with which you lack Expertise. You gain Expertise in that skill.
+***Expertise***{ .inl } Choose one of your skill proficiencies with which you lack Expertise. You gain Expertise in that skill.
 
-***Languages.*** You know two languages of your choice from the language tables in chapter 2.
+***Languages***{ .inl } You know two languages of your choice from the language tables in chapter 2.
 
 ### Level 2: Fighting Style
 
 You gain a Fighting Style feat of your choice (see chapter 5). Instead of choosing one of those feats, you can choose the option below.
 
-***Druidic Warrior.*** You learn two Druid cantrips of your choice (see the Druid class's section for a list of Druid spells). [:spell-lv0: Guidance] and [:spell-lv0: Starry Wisp] are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
+***Druidic Warrior***{ .inl } You learn two Druid cantrips of your choice (see the Druid class's section for a list of Druid spells). [:spell-lv0: Guidance] and [:spell-lv0: Starry Wisp] are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
 
 ### Level 3: Ranger Subclass
 
@@ -191,9 +189,9 @@ Choose two of your skill proficiencies with which you lack Expertise. You gain E
 
 Primal forces now help fuel you on your journeys, granting you the following benefits.
 
-***Temporary Hit Points.*** As a **:rsc-a: Magic**{ .rsc } action, you can give yourself a number of Temporary Hit Points equal to 1d8 plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
+***Temporary Hit Points***{ .inl } As a **:rsc-a: Magic**{ .rsc } action, you can give yourself a number of Temporary Hit Points equal to 1d8 plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
-***Decrease Exhaustion.*** Whenever you finish a **:rest-short: Short Rest**, your Exhaustion level, if any, decreases by 1.
+***Decrease Exhaustion***{ .inl } Whenever you finish a **:rest-short: Short Rest**, your Exhaustion level, if any, decreases by 1.
 
 ### Level 13: Relentless Hunter
 
