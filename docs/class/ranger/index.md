@@ -145,9 +145,9 @@ Your training with weapons allows you to use the mastery properties of *two* kin
 
 Whenever you finish a **:rest-long: Long Rest**, you can do *one* of the following:
 
-:   ***Change Weapon***{ .inl } You can practice weapon drills and change the kinds of weapons you chose; or
+***Change Weapon***{ .inl } You can practice weapon drills and change the kinds of weapons you chose; or
 
-:   ***Replace Mastery Property***{ .inl } You can choose any weapon with a Mastery property that you're using and replace its Mastery property with another eligible Mastery property (e.g. Replace the Greataxe's Cleave property with the Graze property).
+***Replace Mastery Property***{ .inl } You can choose any weapon with a Mastery property that you're using and replace its Mastery property with another eligible Mastery property (e.g. Replace the Greataxe's Cleave property with the Graze property).
 
 --8<-- "includes/snippets/item-mastery.md"
 

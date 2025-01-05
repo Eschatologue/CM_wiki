@@ -19,7 +19,7 @@ Your expertise in hunting bounties stands out. You gain proficiency in Insight a
 
 ### Deathwatch
 
-You specialise in hunting those not native to your realm. You gain proficiency in Arcana and Religion. In addition, you can cast [:spell-lv1: Protection from Evil and Good] without expending a spell slot once per Long Rest.
+You specialise in hunting those not native to your realm. You gain proficiency in Arcana and Religion. In addition, you can also cast  [:spell-lv1: Protection from Evil and Good] once without expending a spell slot
 
 ---
 
