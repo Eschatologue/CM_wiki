@@ -99,6 +99,7 @@
     @extend .chevron-right;
 }
 
+// Chevrons 
 .chevron-right {
     &::after {
         font-style: normal !important;
@@ -120,6 +121,10 @@
 }
 
 $indent: 18px;
+
+.align-center {
+    text-align: center
+}
 
 .indent {
     text-indent: convert.px2em($indent);
