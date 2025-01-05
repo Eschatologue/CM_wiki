@@ -11,11 +11,11 @@ Each weapon has a mastery property, which is usable only by a character who has 
 
 This homebrew rule reinstates a mechanic initially introduced in *Unearthed Arcana 2023 Playtest 7*, which allowed classes with the Weapon Mastery feature to change a weapon's Mastery property to another eligible one.
 
-***Changing Mastery Properties.*** When you finish a **:rest-long: Long Rest**, provided you have Weapon Mastery feature, you can choose any weapon with a Mastery property that you're using and replace its Mastery property with another eligible Mastery property. For example, you could replace the Longsword's [Sap](#sap) property with the [Flex](#flex) property. This follows the rules below:
+***Changing Mastery Properties***{ .inl } When you finish a **:rest-long: Long Rest**, provided you have Weapon Mastery feature, you can choose any weapon with a Mastery property that you're using and replace its Mastery property with another eligible Mastery property. For example, you could replace the Longsword's [Sap](#sap) property with the [Flex](#flex) property. This follows the rules below:
 
-- ***Character Exclusive.*** These Mastery property changes apply only to the character that makes them and do not affect other characters. For example, if a Barbarian changes a Glaive's Graze property to Cleave, another Barbarian or any other class using the same Glaive would still use its default Graze property.
+- ***Character Exclusive***{ .inl } These Mastery property changes apply only to the character that makes them and do not affect other characters. For example, if a Barbarian changes a Glaive's Graze property to Cleave, another Barbarian or any other class using the same Glaive would still use its default Graze property.
 
-- ***Defaults on Long Rest.*** Any changes made to a weapon's Mastery property end for the character when they finish a **:rest-long: Long Rest**.
+- ***Defaults on Long Rest***{ .inl } Any changes made to a weapon's Mastery property end for the character when they finish a **:rest-long: Long Rest**.
 
 ## PHB'24 Mastery Property
 
@@ -25,13 +25,13 @@ These Mastery property are available in the PHB'24.
 
 - ### Cleave
 
-    **Prerequisite:** Melee Weapon, :weapon-prop-heavy: **Heavy** property
+    _**Prerequisite:** Melee Weapon, **:weapon-prop-heavy: Heavy** property_
 
     If you hit a creature with a melee attack using this weapon, you can make an attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon's damage, but don't add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.
 
 - ### Graze
 
-    **Prerequisite:** Melee Weapon, :weapon-prop-heavy: **Heavy** property
+    _**Prerequisite:** Melee Weapon, **:weapon-prop-heavy: Heavy** property_
 
     If your attack roll with this weapon misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the attack roll. This damage is the same type dealt by the weapon, and the damage can't be increased in any way, other than increasing the ability modifier.
 
@@ -41,13 +41,13 @@ These Mastery property are available in the PHB'24.
 
 - ### Nick
 
-    **Prerequisite:** :weapon-prop-light: **Light** property
+    _**Prerequisite:** **:weapon-prop-light: Light** property_
 
-    When you make the extra attack of the :weapon-prop-light: Light property, you can make it as part of the Attack action instead of as a **:rsc-b: Bonus Action**{ .rsc }. You can make this extra attack only once per turn.
+    When you make the [extra attack](index.md#light) of the **:weapon-prop-light: Light** property, you can make it as part of the **:rsc-a: Attack**{ .rsc } action instead of as a **:rsc-b: Bonus Action**{ .rsc }. You can make this extra attack only once per turn.
 
 - ### Push
 
-    **Prerequisite:** :weapon-prop-heavy: **Heavy**, :weapon-prop-two-handed: **Two-Handed**, or :weapon-prop-versatile: **Versatile** property
+    _**Prerequisite:** **:weapon-prop-heavy: Heavy**, **:weapon-prop-two-handed: Two-Handed**, or **:weapon-prop-versatile: Versatile** property_
 
     If you hit a creature with this weapon, you can push the creature up to 10 feet straight away from yourself if it is Large or smaller.
  
@@ -57,13 +57,13 @@ These Mastery property are available in the PHB'24.
 
 - ### Sap
 
-    **Prerequisite:** :weapon-prop-versatile: **Versatile** property or No Weapon Property
+    _**Prerequisite:** **:weapon-prop-versatile: Versatile** property or No Weapon Property_
 
     If you hit a creature with this weapon, that creature has **:d20-disadv: Disadvantage**{ .d20 } on its next attack roll before the start of your next turn.
 
 - ### Slow
 
-    **Prerequisite:** None
+    _**Prerequisite:** None_
 
     If you hit a creature with this weapon and deal damage to the creature, you can reduce its Speed by 10 feet until the start of your next turn. If you hit the creature more than once with this property, the Speed reduction doesn't exceed 10 feet.
 
@@ -73,13 +73,13 @@ These Mastery property are available in the PHB'24.
 
 - ### Topple
 
-    **Prerequisite:** :weapon-prop-heavy: **Heavy**, :weapon-prop-reach: **Reach**, or :weapon-prop-versatile: **Versatile** property
+    _**Prerequisite:** **:weapon-prop-heavy: Heavy**, **:weapon-prop-reach: Reach**, or **:weapon-prop-versatile: Versatile** property_
 
     If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw with a DC equal to 8 + your Proficiency Bonus + the ability modifier used to make the attack roll. On a failed save, the creature has the Prone condition.
 
 - ### Vex
 
-    **Prerequisite:** :weapon-prop-ammunition: **Ammunition**, :weapon-prop-finesse: **Finesse**, or :weapon-prop-light: **Light** property
+    _**Prerequisite:** **:weapon-prop-ammunition: Ammunition**, **:weapon-prop-finesse: Finesse**, or **:weapon-prop-light: Light** property_
 
     If you hit a creature with this weapon and deal damage to the creature, you have **:d20-adv: Advantage**{ .d20 } on your next attack roll against that creature before the end of your next turn.
 
@@ -93,13 +93,13 @@ These Mastery property are homebrew.
 
 - ### Cripple
 
-    **Prerequisite:** :dmg-bldg: Bludgeoning Melee weapon or Ranged weapon with :weapon-prop-heavy: **Heavy** property
+    _**Prerequisite:** **:dmg-bldg: Bludgeoning**{ .dmg-phys} Melee weapon or Ranged weapon with **:weapon-prop-heavy: Heavy** property_
 
     If you hit a creature with this weapon, you can choose to deal only half damage and make the target's **:rsc-spd: Speed**{ .em } becomes 0 until the start of your next turn.
 
 - ### Brace
 
-    **Prerequisite:** :weapon-prop-heavy: **Heavy** or :weapon-prop-versatile: **Versatile** property
+    _**Prerequisite:** **:weapon-prop-heavy: Heavy** or **:weapon-prop-versatile: Versatile** property_
 
     When you make an attack with this weapon, you can expend half of your total **:rsc-spd: Speed**{ .em }. On hit, you roll the weapon damage dice twice and you can use either result. If the attack misses, your **:rsc-spd: Speed**{ .em } isn't reduced. 
 
@@ -109,13 +109,13 @@ These Mastery property are homebrew.
 
 - ### Flex
 
-    **Prerequisite:** :weapon-prop-versatile: **Versatile** property
+    _**Prerequisite:** **:weapon-prop-versatile: Versatile** property_
 
-    When you hit a melee attack using this weapon, you deal its :weapon-prop-versatile: **Versatile** damage even if you're wielding it with one hand.
+    When you hit a melee attack using this weapon, you deal its **:weapon-prop-versatile: Versatile** damage even if you're wielding it with one hand.
 
 - ### Rush
 
-    **Prerequisite:** :weapon-prop-reach: **Reach** or :weapon-prop-versatile: **Versatile** property; No :weapon-prop-heavy: **Heavy** property
+    _**Prerequisite:** **:weapon-prop-reach: Reach** or **:weapon-prop-versatile: Versatile** property; No **:weapon-prop-heavy: Heavy** property_
 
     While holding the weapon, when you take the **:rsc-a: Dash**{ .rsc } action, you can choose a creature that you can see and move torwards it in a straight line without provoking Opportunity Attack, and make one Melee attack against as part of the same action. 
 
@@ -126,13 +126,13 @@ These Mastery property are homebrew.
 
 - ### Skeet
 
-    **Prerequisite:** Ranged weapon with no :weapon-prop-two-handed: **Two-Handed** property
+    _**Prerequisite:** Ranged weapon with no **:weapon-prop-two-handed: Two-Handed** property_
 
     When you take the **:rsc-a: Dash**{ .rsc } or **:rsc-a: Disengage**{ .rsc } action, you can make one Ranged attack as a part of the same action. 
 
 - ### Spray
 
-    **Prerequisite:** :weapon-prop-automatic: **Automatic** property and :weapon-prop-reload: **Reload (8+)**
+    _**Prerequisite:** **:weapon-prop-automatic: Automatic** property and **:weapon-prop-reload: Reload (8+)**_
 
     When you take the **:rsc-a: Attack**{ .rsc } action, you can choose to expend 8 pieces of the weapon's ammunition to spray shots in a 15-foot Cube within the weapon's normal range. Each creature in that area must succeed on a Dexterity saving throw against your Weapon Save DC or take the Weapon's damage. You can't make this special attack if you have less than 8 ammunition in the weapon.
 
@@ -142,8 +142,8 @@ These Mastery property are homebrew.
 
 - ### Tap
 
-    **Prerequisite:** :weapon-prop-automatic: **Automatic** property
+    _**Prerequisite:** **:weapon-prop-automatic: Automatic** property_
 
-    When you make an :weapon-prop-automatic: Automatic attack using this weapon, you can add your ability modifier to the damage roll of the second attack.
+    When you make an **:weapon-prop-automatic: Automatic attack using this weapon, you can add your ability modifier to the damage roll of the second attack.
 
 </div>
