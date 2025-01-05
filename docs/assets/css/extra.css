@@ -241,6 +241,10 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
   margin-right: 0.25em;
 }
 
+.align-center {
+  text-align: center;
+}
+
 .indent, .inl-dt {
   text-indent: 1.125em;
 }
