@@ -217,6 +217,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
 .inl, .inl-dt {
   display: inline-block;
   position: relative;
+  font-size: calc(var(--default-font-size) * 1.05);
 }
 
 .opt {
