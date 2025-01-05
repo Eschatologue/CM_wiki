@@ -5,9 +5,10 @@ status: homebrew
 
 # Firearms
 
-**Gun weapons**, shortened as **guns** and often referred to as **firearms**, are unique mid-range to long-range weapons that use a special explosive charge known as '**cordite**' to propel projectiles over long distances. These weapons were brought over by the Londoners and are used exclusively by their people.
+*"A good blade's worth more than any fire-spitter. A gun's only as strong as its powder and steel, but a sword or an axe? Aye, that's as strong as the arm that swings it—and there's no arm stronger than a dwarf's!"*
+{ .quote }
 
-###### *"A good blade's worth more than any fire-spitter. A gun's only as strong as its powder and steel, but a sword or an axe? Aye, that's as strong as the arm that swings it—and there's no arm stronger than a dwarf's!"* <br><p align="right"> – A Dwarven Blacksmith </p>
+**Gun weapons**, shortened as **guns** and often referred to as **firearms**, are unique mid-range to long-range weapons that use a special explosive charge known as '**cordite**' to propel projectiles known as "bullets" over long distances. These weapons were brought over by the Londoners and are used exclusively by their people.
 
 ## Firearm Table
 

@@ -29,9 +29,9 @@ A cold weapon is a weapon that does not involve fire or explosions resulting fro
 
 Cold weapons can be categorized into two types as per base D&D: Simple Weapons and Martial Weapons.
 
-***Simple Weapnos***. Most people can use simple weapons with Proficiency, often found in the hands of commoners.
+***Simple Weapons***{ .inl } Most people can use simple weapons with Proficiency, often found in the hands of commoners.
 
-***Martial Weapons***. Requires more specialized training to use effectively. Most warriors use martial weapons because these weapons put their fighting style and training to best use.
+***Martial Weapons***{ .inl } Requires more specialized training to use effectively. Most warriors use martial weapons because these weapons put their fighting style and training to best use.
 
 Main article: [Cold Weapons](weapon-cold.md)
 
@@ -39,7 +39,7 @@ Main article: [Cold Weapons](weapon-cold.md)
 
 Firearms are weapons that use an explosive charge to propel projectiles called "bullets" at incredible speed. These new types of weaponry were brought over by the Londoners when they first arrived in Antares, making them more adept at using firearms due to their long experience with them. 
 
-Firearms are very rare, and you will rarely see one outside of Albion-controlled territories. Even if you do, they won't sell it to you unless you are a Albion citizen.
+Firearms are very rare, and you will rarely see one outside of Albion-controlled territories. Even if you do, they won't sell it to you unless you are an Albion citizen.
 
 Main article: [Firearms](weapon-firearm.md) 
 
@@ -47,107 +47,75 @@ Main article: [Firearms](weapon-firearm.md)
 
 Many weapons have special properties related to their use, as shown in the Weapons table.
 
-<div class="grid cards" markdown>
+### :weapon-prop-ammunition:{ .lg } Ammunition
 
-- ### :weapon-prop-ammunition:{ .lg } Ammunition
+You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). 
 
-    You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). 
+At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. Firearms and weapon with [:weapon-prop-explosive: Explosive](#explosive) property can't benefit from this.
 
-    At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. Firearms and weapon with [:weapon-prop-explosive: Explosive](#explosive) property can't benefit from this.
+### :weapon-prop-automatic:{ .lg } Automatic
 
-- ### :weapon-prop-automatic:{ .lg } Automatic
+When you take the **Attack** Action on your turn, you can make extra attacks up to the number in the parenthesis later on the same turn. That extra attack must be made with the ^^same weapon^^ provided the weapon has enough Ammunition for the attacks, and you don't add your ability modifier to the additional attack's damage rolls, unless that modifier is negative.
 
-    When you take the **Attack** Action on your turn, you can make extra attacks up to the number in the parenthesis later on the same turn. That extra attack must be made with the ^^same weapon^^ provided the weapon has enough Ammunition for the attacks, and you don't add your ability modifier to the additional attack's damage rolls, unless that modifier is negative.
+### :weapon-prop-explosive:{ .lg } Explosive
 
-</div>
+When this weapon's hits a target, it explodes and affect an area of effect on the parenthesis, originating from the target. The weapon can target a point within its range. Each creature in the area of effect centered on the point or the target must make a :d20-save: Dexterity Saving Throw against your Weapon Save DC. The creature takes the weapon's damage on a failed save, or half as much damage on a successful one.
 
-<div class="grid cards" markdown>
+Your initial target makes this :d20-save: **Saving Throw** at a **:d20-disadv: Disadvantage**{ .d20 }.
 
-- ### :weapon-prop-explosive:{ .lg } Explosive
+### :weapon-prop-finesse:{ .lg } Finesse
 
-    When this weapon's hits a target, it explodes and affect an area of effect on the parenthesis, originating from the target. The weapon can target a point within its range. Each creature in the area of effect centered on the point or the target must make a :d20-save: Dexterity Saving Throw against your Weapon Save DC. The creature takes the weapon's damage on a failed save, or half as much damage on a successful one.
+When making an attack with a Finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 
-    Your initial target makes this :d20-save: **Saving Throw** at a **:d20-disadv: Disadvantage**{ .d20 }.
+### :weapon-prop-heavy:{ .lg } Heavy
 
-- ### :weapon-prop-finesse:{ .lg } Finesse
+Heavy weapon is unwieldy compared to other weapons. You have **:d20-disadv: Disadvantage**{ .d20 } on your attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13, and if it's a Ranged weapon and your Dexterity score isn't at least 13.
 
-    When making an attack with a Finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
+### :weapon-prop-light:{ .lg } Light
 
-</div>
+When you take the **Attack** Action on your turn and attack with a Light weapon, you can make one extra attack as a **:rsc-b: Bonus Action**{ .rsc } later on the same turn. That extra attack must be made with a ^^different Light weapon^^, and you don't add your ability modifier to the extra attack's damage, unless that modifier is negative.
 
-<div class="grid cards" markdown>
+### :weapon-prop-loading:{ .lg } Loading
 
-- ### :weapon-prop-heavy:{ .lg } Heavy
+Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an **:rsc-a: Action**{ .rsc }, **:rsc-b: Bonus Action**{ .rsc }, or **:rsc-r: Reaction**{ .rsc } to fire it, regardless of the number of attacks you can normally make.
 
-    Heavy weapon is unwieldy compared to other weapons. You have **:d20-disadv: Disadvantage**{ .d20 } on your attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13, and if it's a Ranged weapon and your Dexterity score isn't at least 13.
+### :weapon-prop-mounted:{ .lg } Mounted
 
-- ### :weapon-prop-light:{ .lg } Light
+This weapon is normally used while attached to a tripod, vehicle, or other bracing mount. You can mount or unmount this weapon as an **:rsc-a: Action**{ .rsc }. While it is mounted, it can't be moved. It can only be used to make an attack while unmounted if held by a creature with a Strength score of at least 15.
 
-    When you take the **Attack** Action on your turn and attack with a Light weapon, you can make one extra attack as a **:rsc-b: Bonus Action**{ .rsc } later on the same turn. That extra attack must be made with a ^^different Light weapon^^, and you don't add your ability modifier to the extra attack's damage, unless that modifier is negative.
+### :weapon-prop-range:{ .lg } Range
 
-</div>
+This weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. 
 
-<div class="grid cards" markdown>
+The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's long range. When attacking a target beyond normal range, you have **:d20-disadv: Disadvantage**{ .d20 } on the attack roll. You can't attack a target beyond the weapon's long range.
 
-- ### :weapon-prop-loading:{ .lg } Loading
+### :weapon-prop-reach:{ .lg } Reach
 
-    Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an **:rsc-a: Action**{ .rsc }, **:rsc-b: Bonus Action**{ .rsc }, or **:rsc-r: Reaction**{ .rsc } to fire it, regardless of the number of attacks you can normally make.
+This weapon adds 5 feet to your reach when you attack with it. This property also determines your reach for :rsc-r: Opportunity Attacks with a reach weapon.
 
-- ### :weapon-prop-mounted:{ .lg } Mounted
+### :weapon-prop-reload:{ .lg } Reload
 
-    This weapon is normally used while attached to a tripod, vehicle, or other bracing mount. You can mount or unmount this weapon as an **:rsc-a: Action**{ .rsc }. While it is mounted, it can't be moved. It can only be used to make an attack while unmounted if held by a creature with a Strength score of at least 15.
+This weapon can be used to make a number of attacks before it must be reloaded. If you are proficient with the weapon, reloading it takes a **:rsc-b: Bonus Action**{ .rsc }; otherwise, reloading it takes an **:rsc-a: Action**{ .rsc }. Some weapons require an **:rsc-a: Action**{ .rsc } or longer to reload, even if you have Proficiency, which is specified in the Reload property. If reloading a weapon requires longer than one action, the weapon can't be used to make attacks until reloading is finished.
 
-</div>
+### :weapon-prop-scatter:{ .lg } Scatter
 
-<div class="grid cards" markdown>
+If you make an attack against a target that is within half this weapon's normal range (round up), you deal the damage value listed in parenthesis instead of the weapon's normal damage dice.
 
-- ### :weapon-prop-range:{ .lg } Range
+### :weapon-prop-sighted:{ .lg } Sighted
 
-    This weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. 
+This weapon has **:d20-disadv: Disadvantage**{ .d20 } on attack rolls made against targets within 20 feet and has **:d20-adv: Advantage**{ .d20 } against target that has not moved at least 15 feet for this before the start of your current turn.
 
-    The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's long range. When attacking a target beyond normal range, you have **:d20-disadv: Disadvantage**{ .d20 } on the attack roll. You can't attack a target beyond the weapon's long range.
+### :weapon-prop-thrown:{ .lg } Thrown
 
-- ### :weapon-prop-reach:{ .lg } Reach
+You can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. 
 
-    This weapon adds 5 feet to your reach when you attack with it. This property also determines your reach for :rsc-r: Opportunity Attacks with a reach weapon.
+### :weapon-prop-two-handed:{ .lg } Two-Handed
 
-</div>
+This weapon requires two hands when you attack with it. This property is relevant only when you tries to attack with the weapon, not when you simply hold it.
 
-<div class="grid cards" markdown>
+### :weapon-prop-versatile:{ .lg } Versatile
 
-- ### :weapon-prop-reload:{ .lg } Reload
-
-    This weapon can be used to make a number of attacks before it must be reloaded. If you are proficient with the weapon, reloading it takes a **:rsc-b: Bonus Action**{ .rsc }; otherwise, reloading it takes an **:rsc-a: Action**{ .rsc }. Some weapons require an **:rsc-a: Action**{ .rsc } or longer to reload, even if you have Proficiency, which is specified in the Reload property. If reloading a weapon requires longer than one action, the weapon can't be used to make attacks until reloading is finished.
-
-- ### :weapon-prop-scatter:{ .lg } Scatter
-
-    If you make an attack against a target that is within half this weapon's normal range (round up), you deal the damage value listed in parenthesis instead of the weapon's normal damage dice.
-
-</div>
-
-<div class="grid cards" markdown>
-
-- ### :weapon-prop-sighted:{ .lg } Sighted
-
-    This weapon has **:d20-disadv: Disadvantage**{ .d20 } on attack rolls made against targets within 20 feet and has **:d20-adv: Advantage**{ .d20 } against target that has not moved at least 15 feet for this before the start of your current turn.
-
-- ### :weapon-prop-thrown:{ .lg } Thrown
-
-    You can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. 
-
-</div>
-
-<div class="grid cards" markdown>
-
-- ### :weapon-prop-two-handed:{ .lg } Two-Handed
-
-    This weapon requires two hands when you attack with it. This property is relevant only when you tries to attack with the weapon, not when you simply hold it.
-
-- ### :weapon-prop-versatile:{ .lg } Versatile
-
-    This weapon can be used with one or two hands. A damage value in parentheses appears with the property--the damage when the weapon is used with two hands to make a melee attack.
-
-</div>
+This weapon can be used with one or two hands. A damage value in parentheses appears with the property--the damage when the weapon is used with two hands to make a melee attack.
 
 ## Unique Properties
 

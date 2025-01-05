@@ -78,6 +78,7 @@
 
     display: inline-block;
     position: relative;
+    font-size: #{calc(var(--default-font-size) * 1.05)};
 
     @extend .chevron-left;
     @extend .chevron-right;

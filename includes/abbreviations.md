@@ -12,9 +12,7 @@
 
 *[Critical Hit]: Total damage roll result is doubled.
 
-*[Proficiency Bonus]: Additional bonus that is applied to most D20 Tests (and Saving Throw DCs). Scales with your total character level. 
-
-*[Concentration Check]: Constitution Saving Throw to maintain spell's Concentration.
+*[Proficiency Bonus]: Additional bonus that is applied to most D20 Tests (and Saving Throw DCs). Scales with your total character level.
 
 
 

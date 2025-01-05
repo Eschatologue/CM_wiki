@@ -37,11 +37,11 @@ You enter a state of heightened focus when you **:class-abl-rage: Rage**{ .em }.
 
 When you activate your **:class-abl-rage: Rage**{ .em }, you can choose one of the following benefits:
 
-***Restoration.*** You regain one of your expended Superiority Dice.
+***Restoration***{ .inl } You regain one of your expended Superiority Dice.
   
-***Temporary Hit Points.*** You gain a number of Temporary Hit Points equal to one roll of your Superiority Die.
+***Temporary Hit Points***{ .inl } You gain a number of Temporary Hit Points equal to one roll of your Superiority Die.
  
-***Improved Speed.*** Opportunity Attack against you have **:d20-disadv: Disadvantage**{ .d20 } and your **:rsc-spd: Speed**{ .em } is doubled for your current turn.
+***Improved Speed***{ .inl } Opportunity Attack against you have **:d20-disadv: Disadvantage**{ .d20 } and your **:rsc-spd: Speed**{ .em } is doubled for your current turn.
 
 ### Level 6: Improved Superiority
 
@@ -51,9 +51,9 @@ You gain one additional Superiority Die (Four total) and all your Superiority Di
 
 Your seething fury is unstopable. You gain the following benefits:
 
-***Freedom of Movement.*** While your **:class-abl-rage: Rage**{ .em } is active, your movement is unaffected by Difficult Terrain, and spells and other magical effects can neither reduce your **:rsc-spd: Speed**{ .em } nor cause you to have the Paralyzed or Restrained conditions.
+***Freedom of Movement***{ .inl } While your **:class-abl-rage: Rage**{ .em } is active, your movement is unaffected by Difficult Terrain, and spells and other magical effects can neither reduce your **:rsc-spd: Speed**{ .em } nor cause you to have the Paralyzed or Restrained conditions.
 
-***More Manoeuvre.*** You learn one additional Combat Manoeuvre of your choice.
+***More Manoeuvre***{ .inl } You learn one additional Combat Manoeuvre of your choice.
 
 ### Level 14: Flurry of Steel
 
