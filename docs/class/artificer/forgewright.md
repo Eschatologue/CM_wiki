@@ -37,36 +37,34 @@ When you reach an Artificer level specified in the Forgewright Spells table, you
 
 Your battlefield research has resulted in the invention of your signature Arcane Armament, which uses the following rules:
 
-***Forging the Armament***{ .inl } During a **:rest-long: Long Rest**, you can spend 1 hour using Smith's Tools to reforge one melee weapon that you are holding into an Arcane Armament. You can only have one Arcane Armament at a time, and forging another causes any previous Armaments to revert to their normal state. Your Arcane Armament gain the following traits in addition to its default trait in the [Arcane Armament table](#arcane-armament). You can use your Intelligence, in place of Strength or Dexterity for its attack and damage rolls. 
+***Forging the Armament***{ .inl } During a **:rest-long: Long Rest**, you can spend 1 hour using Smith's Tools to reforge one melee weapon that you are holding into an Arcane Armament. You can only have one Arcane Armament at a time, and forging another causes any previous Armaments to revert to their normal state. Your Arcane Armament gain additional following traits in addition to its default trait below. 
 
-##### Arcane Armament
+:   **Weapon Category:** The base weapon's category  
+    **Base Damage:** The weapon's base damage + Ability Modifier used for the attack roll  
+    **Properties:** The weapon's base property + **:weapon-prop-thrown: Thrown (20/60)**  
+    **Infusion:** [:class-phb24-artificer: Returning Weapon]. You can't replace this property, but it doesn't count torwards your maximum known.
 
-| Trait | Details |
-|---|---|
-| **Weapon Category** | The base weapon's category |
-| **Base Damage** | The weapon's base damage + Ability Modifier used for the attack roll |
-| **Properties** | The weapon's base property + :weapon-prop-thrown: ^^Thrown (20/60)^^ | 
-| **Infusion** | [:class-phb24-artificer: Returning Weapon] <br>You can't replace this property, but it doesn't count torwards your maximum known. |
+***Ability Modifier***{ .inl } You can use your Intelligence, in place of Strength or Dexterity for its attack and damage rolls. 
 
-The number of additional :class-phb24-artificer: Infusion your Arcane Armament can bear increases, on top of the [:class-phb24-artificer: Returning Weapon] infusion when you reach level 5 (+1 Infusion), Level 9 (+2 Infusion), and Level 15 (+3 Infusion)
+The number of additional **:class-phb24-artificer: Infusion** your Arcane Armament can bear increases, on top of the [:class-phb24-artificer: Returning Weapon] infusion when you reach level 5 (+1 Infusion), Level 9 (+2 Infusion), and Level 15 (+3 Infusion)
 
 [:class-phb24-artificer: Returning Weapon]: ../../option/class-options/artificer-infusion/tce.md#returning-weapon
 
 ### Level 5: Arcane Jolt
 
-You can channel pure destructive magic through your strikes. Once per turn when you hit with an Arcane Armament attack you can expend a spell slot to deal bonus :dmg-force: Force damage to the target. 
+You can channel pure destructive magic through your strikes. Once per turn when you hit with an Arcane Armament attack you can expend a spell slot to deal bonus **:dmg-force: Force**{ .dmg-force } damage to the target. 
 
-This bonus damage is 2d8 for a level 1 spell slot and it increases by 1d8 for each spell slot level above 1.
+This bonus damage is **2d8**{ .dmg-force } for a level 1 spell slot and it increases by **1d8**{ .dmg-force } for each spell slot level above 1.
 
 ### Level 5: Extra Attack
 
 You can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-In addition, you can cast one of your Artificer cantrip that has the casting time of an action in place of those attack.
+In addition, you can cast one of your Artificer cantrip that has the casting time of an Action in place of those attack.
 
 ### Level 9: Arcane Surge
 
-The magic of your Arcane Armament empowers its strikes. Whenever you hit with an Arcane Armament attack you can deal a bonus 1d8 force damage on hit. Each time you attack with your Arcane Armament, you can forgo this potential bonus damage to instead make your attack with Advantage.
+The magic of your Arcane Armament empowers its strikes. Whenever you hit with an Arcane Armament attack you can deal a bonus **1d8 :dmg-force: Force**{ .dmg-force } damage on hit. Each time you attack with your Arcane Armament, you can forgo this potential bonus damage to instead make your attack with Advantage.
 
 ### Level 15: Saint of the Forge
 
