@@ -63,4 +63,5 @@ You can shrug off physical blows that would devastate lesser warriors. When you 
 
 Should you roll a 20 or higher on a Death Saving Throw, you instantly regain consciousness and stand up with 1 Hit Point.
 
-###### :material-book-edit: Written by *Eschatologue*
+:material-book-edit: Written by *Eschatologue*
+{ .quote }

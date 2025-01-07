@@ -81,3 +81,6 @@ As a **:rsc-b: Bonus Action**{ .rsc }, you can flood a number of weapons equal t
 Once you use this feature you must finish a **:rest-long: Long Rest** before you can use it again. If you have no uses left, you can expend a level 3+ spell slot to use it again.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
+
+:material-book-edit: Written by *Eschatologue*
+{ .quote }

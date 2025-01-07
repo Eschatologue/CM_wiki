@@ -205,7 +205,7 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 ### Level 17: Precise Hunter
 
-You have Advantage on attack rolls against the creature currently marked by your [:spell-lv1: Hunter's Mark].
+You have **:d20-adv: Advantage**{ .rsc } on attack rolls against the creature currently marked by your [:spell-lv1: Hunter's Mark].
 
 ### Level 18: Feral Senses
 
