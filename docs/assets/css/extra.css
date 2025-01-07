@@ -267,7 +267,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
 .dmg-acid {
   color: hsl(129, 69%, 54%) !important;
   white-space: nowrap;
-  font-weight: 550 !important;
+  font-weight: 400 !important;
   font-style: none !important;
 }
 
@@ -275,7 +275,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
 .dmg-cold {
   color: hsl(199, 91%, 64%) !important;
   white-space: nowrap;
-  font-weight: 550 !important;
+  font-weight: 400 !important;
   font-style: none !important;
 }
 
@@ -283,7 +283,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
 .dmg-fire {
   color: hsl(28, 75%, 53%) !important;
   white-space: nowrap;
-  font-weight: 550 !important;
+  font-weight: 400 !important;
   font-style: none !important;
 }
 
@@ -291,15 +291,15 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
 .dmg-posn {
   color: hsl(104, 58%, 42%) !important;
   white-space: nowrap;
-  font-weight: 550 !important;
+  font-weight: 400 !important;
   font-style: none !important;
 }
 
 /* Damage type: thun */
 .dmg-thun {
-  color: hsl(262, 47%, 63%) !important;
+  color: hsl(262, 43%, 65%) !important;
   white-space: nowrap;
-  font-weight: 550 !important;
+  font-weight: 400 !important;
   font-style: none !important;
 }
 
@@ -307,7 +307,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
 .dmg-psyc {
   color: hsl(328, 64%, 64%) !important;
   white-space: nowrap;
-  font-weight: 550 !important;
+  font-weight: 400 !important;
   font-style: none !important;
 }
 
@@ -315,7 +315,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
 .dmg-lgtn {
   color: hsl(208, 79%, 51%) !important;
   white-space: nowrap;
-  font-weight: 550 !important;
+  font-weight: 400 !important;
   font-style: none !important;
 }
 
@@ -323,7 +323,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
 .dmg-necr {
   color: hsl(174, 42%, 65%) !important;
   white-space: nowrap;
-  font-weight: 550 !important;
+  font-weight: 400 !important;
   font-style: none !important;
 }
 
@@ -331,7 +331,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
 .dmg-radi {
   color: hsl(54, 100%, 67%) !important;
   white-space: nowrap;
-  font-weight: 550 !important;
+  font-weight: 400 !important;
   font-style: none !important;
 }
 
@@ -339,7 +339,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
 .dmg-force {
   color: hsl(4, 100%, 71%) !important;
   white-space: nowrap;
-  font-weight: 550 !important;
+  font-weight: 400 !important;
   font-style: none !important;
 }
 
@@ -347,7 +347,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
 .dmg-phys {
   color: hsl(200, 15%, 73%) !important;
   white-space: nowrap;
-  font-weight: 550 !important;
+  font-weight: 400 !important;
   font-style: none !important;
 }
 
@@ -355,7 +355,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
 .dmg-heal {
   color: hsl(180, 80%, 67%) !important;
   white-space: nowrap;
-  font-weight: 550 !important;
+  font-weight: 400 !important;
   font-style: none !important;
 }
 
