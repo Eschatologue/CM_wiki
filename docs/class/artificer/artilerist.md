@@ -36,11 +36,11 @@ Your experimentation with explosive magic ensures you always have certain spells
 
 You've learned how to create a magical cannon.
 
-***Creating a Cannon.*** Using Woodcarver's Tools or Smith's Tools, you can take a **:rsc-a: Magic**{ .rsc } action to magically create a Small or Tiny Eldritch Cannon in an unoccupied space on a horizontal surface within 5 feet of you. A Small Eldritch Cannon occupies its space, and a Tiny one can be held in one hand. You can have only one cannon at a time and can't create one while your cannon is present. Once you create a Cannon, you cannot do so again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
+***Creating a Cannon***{ .inl } Using Woodcarver's Tools or Smith's Tools, you can take a **:rsc-a: Magic**{ .rsc } action to magically create a Small or Tiny Eldritch Cannon in an unoccupied space on a horizontal surface within 5 feet of you. A Small Eldritch Cannon occupies its space, and a Tiny one can be held in one hand. You can have only one cannon at a time and can't create one while your cannon is present. Once you create a Cannon, you cannot do so again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
-***Cannon's Statistics.*** The cannon is a magical object. Regardless of size, the cannon has an AC of 18 and a number of Hit Points equal to five times your Artificer level. It has :dmg-imm: Immunity to :dmg-posn: Poison damage and :dmg-psyc: Psychic damage. If it is forced to make an ability check or a saving throw, treat all its ability scores as 10 (+0). If the [:spell-lv0: Mending] spell is cast on it, it regains 2d6 Hit Points. It disappears if it is reduced to 0 Hit Points or after 1 hour. You can dismiss it early as an action.
+***Cannon's Statistics***{ .inl } The cannon is a magical object. Regardless of size, the cannon has an AC of 18 and a number of Hit Points equal to five times your Artificer level. It has :dmg-imm: Immunity to :dmg-posn: Poison damage and :dmg-psyc: Psychic damage. If it is forced to make an ability check or a saving throw, treat all its ability scores as 10 (+0). If the [:spell-lv0: Mending] spell is cast on it, it regains 2d6 Hit Points. It disappears if it is reduced to 0 Hit Points or after 1 hour. You can dismiss it early as an action.
 
-***Cannon Model.*** When you create the cannon, you determine its appearance and whether it has legs. You also decide which type it is, choosing from the Flamethrower, Force Ballista and Protector. On each of your turns, you can take a **:rsc-b: Bonus Action**{ .rsc } to cause the cannon to activate if you are within 60 feet of it. As part of the same Bonus Action, you can direct the cannon to walk or climb up to 15 feet to an unoccupied space, provided it has legs.
+***Cannon Model***{ .inl } When you create the cannon, you determine its appearance and whether it has legs. You also decide which type it is, choosing from the Flamethrower, Force Ballista and Protector. On each of your turns, you can take a **:rsc-b: Bonus Action**{ .rsc } to cause the cannon to activate if you are within 60 feet of it. As part of the same Bonus Action, you can direct the cannon to walk or climb up to 15 feet to an unoccupied space, provided it has legs.
 
 | Cannon | Activation (:rsc-b: Bonus Action) |
 |---|---|
@@ -52,30 +52,30 @@ You've learned how to create a magical cannon.
 
 Your research has resulted in the creation of a Arcane Sidearm, which uses the following rules:
 
-***Crafting your Sidearm.*** During a **:rest-long: Long Rest**, you can spend 1 hour crafting an Arcane Sidearm using woodcarver's tools. You can only have one Arcane Sidearm, and crafting another causes previous Arcane Sidearms to lose their power.
+***Crafting your Sidearm***{ .inl } During a **:rest-long: Long Rest**, you can spend 1 hour crafting an Arcane Sidearm using woodcarver's tools. You can only have one Arcane Sidearm, and crafting another causes previous Arcane Sidearms to lose their power.
 
-***Appearance.*** An Arcane Sidearm is a Tiny object that can be used as a spellcasting focus for Artificer spells. You choose its appearance, though this has no effect on its abilities. Many Artilerists craft Sidearms that resemble delicate wands of wood, ornate metallic rods, or even runic iron cannons.
+***Appearance***{ .inl } An Arcane Sidearm is a Tiny object that can be used as a spellcasting focus for Artificer spells. You choose its appearance, though this has no effect on its abilities. Many Artilerists craft Sidearms that resemble delicate wands of wood, ornate metallic rods, or even runic iron cannons.
 
-***Infusions.*** Your Arcane Sidearm can bear a single Infusion that is meant for an Spellcasting Focus.
+***Infusions***{ .inl } Your Arcane Sidearm can bear a single Infusion that is meant for an Spellcasting Focus.
 
-***Using your Sidearm.***  When you cast an artificer spell through the sidearm, roll a d8, and you gain a bonus to one of the spell's damage rolls equal to the number rolled.
+***Using your Sidearm***{ .inl }  When you cast an artificer spell through the sidearm, roll a d8, and you gain a bonus to one of the spell's damage rolls equal to the number rolled.
 
 ### Level 9: Explosive Cannon
 
 Every eldritch cannon you create is more destructive:
 
-***Extra Damage.*** The cannon's rolls all increase by 1d8.
+***Extra Damage***{ .inl } The cannon's rolls all increase by 1d8.
 
-***Remote Spells.*** When you cast one of your Artificer spells, you can cast it as if you were in the Cannon's space, using your senses.
+***Remote Spells***{ .inl } When you cast one of your Artificer spells, you can cast it as if you were in the Cannon's space, using your senses.
 
-***Self Destruct.*** As a **:rsc-a: Magic**{ .rsc } action, you can command the cannon to detonate if you are within 60 feet of it. Doing so destroys the cannon and forces each creature within 20 feet of it to make a Dexterity saving throw against your Spell Save DC, taking 4d8 :dmg-force: Force damage on a failed save or half as much damage on a successful one.
+***Self Destruct***{ .inl } As a **:rsc-a: Magic**{ .rsc } action, you can command the cannon to detonate if you are within 60 feet of it. Doing so destroys the cannon and forces each creature within 20 feet of it to make a Dexterity saving throw against your Spell Save DC, taking 4d8 :dmg-force: Force damage on a failed save or half as much damage on a successful one.
 
 ### Level 15: Fortified Position
 
 You're a master at forming well-defended emplacements using Eldritch Cannon:
 
-***Half Cover.*** You and your allies have Half Cover while within 10 feet of a Cannon you create with Eldritch Cannon, as a result of a shimmering field of magical protection that the cannon emits.
+***Half Cover***{ .inl } You and your allies have Half Cover while within 10 feet of a Cannon you create with Eldritch Cannon, as a result of a shimmering field of magical protection that the cannon emits.
 
-***Two Cannons.*** You can now have two Cannons at the same time. You can create two with the same action, and you can activate both of them with the same  **:rsc-b: Bonus Action**{ .rsc }. You determine whether the cannons are identical to each other or different. You can't create a third cannon while you have two.
+***Two Cannons***{ .inl } You can now have two Cannons at the same time. You can create two with the same action, and you can activate both of them with the same  **:rsc-b: Bonus Action**{ .rsc }. You determine whether the cannons are identical to each other or different. You can't create a third cannon while you have two.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"

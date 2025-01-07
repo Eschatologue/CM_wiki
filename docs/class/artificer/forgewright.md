@@ -37,7 +37,7 @@ When you reach an Artificer level specified in the Forgewright Spells table, you
 
 Your battlefield research has resulted in the invention of your signature Arcane Armament, which uses the following rules:
 
-***Forging the Armament.*** During a **:rest-long: Long Rest**, you can spend 1 hour using Smith's Tools to reforge one melee weapon that you are holding into an Arcane Armament. You can only have one Arcane Armament at a time, and forging another causes any previous Armaments to revert to their normal state. Your Arcane Armament gain the following traits in addition to its default trait in the [Arcane Armament table](#arcane-armament). You can use your Intelligence, in place of Strength or Dexterity for its attack and damage rolls. 
+***Forging the Armament***{ .inl } During a **:rest-long: Long Rest**, you can spend 1 hour using Smith's Tools to reforge one melee weapon that you are holding into an Arcane Armament. You can only have one Arcane Armament at a time, and forging another causes any previous Armaments to revert to their normal state. Your Arcane Armament gain the following traits in addition to its default trait in the [Arcane Armament table](#arcane-armament). You can use your Intelligence, in place of Strength or Dexterity for its attack and damage rolls. 
 
 ##### Arcane Armament
 

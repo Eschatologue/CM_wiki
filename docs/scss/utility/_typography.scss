@@ -9,14 +9,17 @@
 --------------------------------------------------------*/
 
 .em {
-    white-space: nowrap;
-    /* Prevent selected block to split on smaller screen sizes, used in conjuction with icons */
+    white-space: nowrap; /* Prevent selected block to split on smaller screen sizes, used in conjuction with icons */
     font-weight: 550 !important;
 
     // Disable dotted line
     abbr {
         border-bottom: none !important;
     }
+}
+
+.nowrap {
+    white-space: nowrap;
 }
 
 .background {
@@ -150,7 +153,7 @@ $damage-types: (
     fire: #e1822e,
     posn: #4eaa2d,
     thun: #9575CD,
-    psyc: #e255a1,
+    psyc: #de68a7,
     lgtn: #1E88E5,
     necr: #80CBC4,
     radi: #FFEE58,

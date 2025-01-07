@@ -204,9 +204,9 @@ You can use this feature a number of times equal to your Intelligence modifier (
 
 You've achieved a profound understanding of how to use and make magic items:
 
-***Five Magic Items.*** You can attune to up to four magic items at once.
+***Five Magic Items***{ .inl } You can attune to up to four magic items at once.
 
-***Magic Crafting.*** If you craft a magic item with a rarity of common or uncommon, it takes you a quarter of the normal time, and it costs you half as much of the usual gold.
+***Magic Crafting***{ .inl } If you craft a magic item with a rarity of common or uncommon, it takes you a quarter of the normal time, and it costs you half as much of the usual gold.
 
 ### Level 11: Spell-Storing Item
 
@@ -218,15 +218,15 @@ While holding the object, a creature can take an **:rsc-a: Magic**{ .rsc } actio
 
 Your skill with magic items deepens:
 
-***Five Magic Items.*** You can attune to up to five magic items at once.
+***Five Magic Items***{ .inl } You can attune to up to five magic items at once.
 
-***Attunement Master.*** You ignore all class, race, spell, and level requirements on attuning to or using a magic item.
+***Attunement Master***{ .inl } You ignore all class, race, spell, and level requirements on attuning to or using a magic item.
 
 ### Level 18: Magic Item Master
 
 Your mastery over magic items reaches its zenith.
 
-***Six Attunements.*** You can attune to up to six magic items at once.
+***Six Attunements***{ .inl } You can attune to up to six magic items at once.
 
 ### Level 19: Epic Boon
 
@@ -236,9 +236,9 @@ You gain an [:option-feat-boon: Epic Boon](../../option/feat/feat-boon.md) feat 
 
 You have developed a mystical connection to your magic items, which you can draw on for protection:
 
-***Armoured Soul.*** You gain a +1 bonus to all saving throws per magic item you are currently attuned to.
+***Armoured Soul***{ .inl } You gain a +1 bonus to all saving throws per magic item you are currently attuned to.
 
-***Infusion Contingency.*** If you're reduced to 0 Hit Points but not killed out-right, you can use your **:rsc-r: Reaction**{ .rsc } to end one of your Infusions, causing you to drop to 1 hit point instead of 0, and you instantly regain 30 Hit Points.
+***Infusion Contingency***{ .inl } If you're reduced to 0 Hit Points but not killed out-right, you can use your **:rsc-r: Reaction**{ .rsc } to end one of your Infusions, causing you to drop to 1 hit point instead of 0, and you instantly regain 30 Hit Points.
 
 --8<-- "includes/snippets/skills.md"
 --8<-- "includes/snippets/spells2/lv0.md"
