@@ -167,12 +167,15 @@
     Typography
 --------------------------------------------------------*/
 .em, .opt, .inl, .inl-dt, .rsc, .d20 {
-  white-space: nowrap;
-  /* Prevent selected block to split on smaller screen sizes, used in conjuction with icons */
+  white-space: nowrap; /* Prevent selected block to split on smaller screen sizes, used in conjuction with icons */
   font-weight: 550 !important;
 }
 .em abbr, .opt abbr, .inl abbr, .inl-dt abbr, .rsc abbr, .d20 abbr {
   border-bottom: none !important;
+}
+
+.nowrap {
+  white-space: nowrap;
 }
 
 .background {
@@ -302,7 +305,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji), table:not([class
 
 /* Damage type: psyc */
 .dmg-psyc {
-  color: hsl(328, 71%, 61%) !important;
+  color: hsl(328, 64%, 64%) !important;
   white-space: nowrap;
   font-weight: 550 !important;
   font-style: none !important;
