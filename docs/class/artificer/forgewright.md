@@ -25,11 +25,11 @@ When you reach an Artificer level specified in the Forgewright Spells table, you
 
 | Artificer Level | Spell |
 |:-:|---|
-| 3 | [:spell-lv1: Compelled Duel], [:spell-lv1: Zephyr Strike] |
+| 3 | [:spell-lv1: Compelled Duel], [:spell-lv1: Thunderous Smite] |
 | 5 | [:spell-lv2: Foreign Ironwind]^*CM*^, [:spell-lv2: Misty Step] |
-| 9 | [:spell-lv3: Blinding Smite], [:spell-lv3: Conjure Barrage] |
+| 9 | [:spell-lv3: Conjure Barrage], [:spell-lv3: Elemental Weapon] |
 | 13 | [:spell-lv4: Fire Shield], [:spell-lv4: Staggering Smite] |
-| 17 | [:spell-lv5: Banishing Smite], [:spell-lv5: Destructive Wave] |
+| 17 | [:spell-lv5: Destructive Wave], [:spell-lv5: Holy Weapon] |
 
 [:spell-lv2: Foreign Ironwind]: ../../spells/description/additional/homebrew.md#foreign-ironwind
 
