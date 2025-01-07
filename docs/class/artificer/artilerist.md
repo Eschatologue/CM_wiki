@@ -40,12 +40,12 @@ You've learned how to create a magical cannon.
 
 ***Cannon's Statistics***{ .inl } The cannon is a magical object. Regardless of size, the cannon has an AC of 18 and a number of Hit Points equal to five times your Artificer level. It has :dmg-imm: Immunity to :dmg-posn: Poison damage and :dmg-psyc: Psychic damage. If it is forced to make an ability check or a saving throw, treat all its ability scores as 10 (+0). If the [:spell-lv0: Mending] spell is cast on it, it regains 2d6 Hit Points. It disappears if it is reduced to 0 Hit Points or after 1 hour. You can dismiss it early as an action.
 
-***Cannon Model***{ .inl } When you create the cannon, you determine its appearance and whether it has legs. You also decide which type it is, choosing from the Flamethrower, Force Ballista and Protector. On each of your turns, you can take a **:rsc-b: Bonus Action**{ .rsc } to cause the cannon to activate if you are within 60 feet of it. As part of the same Bonus Action, you can direct the cannon to walk or climb up to 15 feet to an unoccupied space, provided it has legs.
+***Cannon Model***{ .inl } When you create the cannon, you determine its appearance and whether it has legs. You also decide which type it is, choosing from the Flamethrower, Force Ballista and Protector. On each of your turns, you can take a **:rsc-b: Bonus Action**{ .rsc } to cause the cannon to activate if you are within 60 feet of it. As part of the same **:rsc-b: Bonus Action**{ .rsc }, you can direct the cannon to walk or climb up to 15 feet to an unoccupied space, provided it has legs.
 
-| Cannon | Activation (:rsc-b: Bonus Action) |
+| Cannon | Activation (**:rsc-b: Bonus Action**{ .rsc }) |
 |---|---|
-| *Flamethrower* | The cannon exhales fire in an adjacent 15-foot :aoe-cone: Cone that you designate. Each creature in that area must make a Dexterity saving throw against your spell save DC, taking **2d8 :dmg-fire: Fire**{ .dmg-fire } damage on a failed save or half as much damage on a successful one. The fire ignites any flammable objects in the area that aren't being worn or carried. |
-| *Force Ballista* | Make a ranged spell attack, originating from the cannon, at one creature or object within 120 feet of it. On a hit, the target takes 2d8 :dmg-force: Force damage, and if the target is a creature, it is pushed up to 5 feet away from the cannon. |
+| *Flamethrower* | The cannon exhales fire in an adjacent **15-foot :aoe-cone: Cone** that you designate. Each creature in that area must make a :d20-save: Dexterity saving throw against your spell save DC, taking **2d8 :dmg-fire: Fire**{ .dmg-fire } damage on a failed save or half as much damage on a successful one. The fire ignites any flammable objects in the area that aren't being worn or carried. |
+| *Force Ballista* | Make a :: Ranged spell attack, originating from the cannon, at one creature or object within 120 feet of it. On a hit, the target takes **2d8 :dmg-force: Force**{ .dmg-force } damage, and if the target is a creature, it is pushed up to 5 feet away from the cannon. |
 | *Protector* | The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of it a number of temporary Hit Points equal to 1d8 + your Intelligence modifier (minimum of +1). |
 
 ### Level 5: Arcane Sidearm
@@ -56,9 +56,9 @@ Your research has resulted in the creation of a Arcane Sidearm, which uses the f
 
 ***Appearance***{ .inl } An Arcane Sidearm is a Tiny object that can be used as a spellcasting focus for Artificer spells. You choose its appearance, though this has no effect on its abilities. Many Artilerists craft Sidearms that resemble delicate wands of wood, ornate metallic rods, or even runic iron cannons.
 
-***Infusions***{ .inl } Your Arcane Sidearm can bear a single Infusion that is meant for an Spellcasting Focus.
+***Infusions***{ .inl } Your Arcane Sidearm can bear a single [Infusion](../../option/class-options/artificer-infusion/index.md) that is meant for an Spellcasting Focus or a Metal Rod.
 
-***Using your Sidearm***{ .inl }  When you cast an artificer spell through the sidearm, roll a d8, and you gain a bonus to one of the spell's damage rolls equal to the number rolled.
+***Using your Sidearm***{ .inl }  When you cast an Artificer spell through the Sidearm, roll a d8, and you gain a bonus to one of the spell's damage rolls equal to the number rolled.
 
 ### Level 9: Explosive Cannon
 

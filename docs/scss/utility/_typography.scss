@@ -152,7 +152,7 @@ $damage-types: (
     cold: #4fc3f7,
     fire: #e1822e,
     posn: #4eaa2d,
-    thun: #9575CD,
+    thun: #9b7fcc,
     psyc: #de68a7,
     lgtn: #1E88E5,
     necr: #80CBC4,
@@ -169,7 +169,7 @@ $damage-types: (
     .dmg-#{$type} {
         color: convert.hex3hsl($color) !important;
         white-space: nowrap;
-        font-weight: 550 !important;
+        font-weight: 400 !important;
         font-style: none !important;
     }
 }

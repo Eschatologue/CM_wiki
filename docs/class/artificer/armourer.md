@@ -79,7 +79,7 @@ You customize your armour for subtle undertakings. It has the following features
 
 ***Lightning Arc***{ .inl } Once per turn when you hit a creature with a ranged attack, you can deal an extra **1d6 :dmg-lgtn: Lightning**{ .dmg-lgtn } damage to that target, as your armour arcs electricity between itself and the target.
 
-***Dampening Field***{ .inl } You have Advantage on Dexterity (Stealth) checks. If the armour normally imposes **:d20-disadv: Disadvantage**{ .d20 } on such checks, it cancel each other as normal.
+***Dampening Field***{ .inl } You have **:d20-adv: Advantage**{ .d20 }  on Dexterity (Stealth) checks. If the armour normally imposes **:d20-disadv: Disadvantage**{ .d20 } on such checks, it cancel each other as normal.
 
 ### Level 5: Extra Attack
 
@@ -107,6 +107,6 @@ You can use this **:rsc-r: Reaction**{ .rsc } a number of times equal to your In
 
 #### Infiltrator
 
-Any creature that takes **:dmg-lgtn: Lightning** damage from your Lightning Launcher glimmers with magical light until the start of your next turn. The glimmering creature sheds dim light in a 5-foot radius, and it has **:d20-disadv: Disadvantage**{ .d20 } on attack rolls against you, as the light jolts it if it attacks you. In addition, the next attack roll against it has **:d20-adv: Advantage**{ .d20 }, and if that attack hits, the target takes an extra **1d6 :dmg-lgtn: Lightning** damage.
+Any creature that takes **:dmg-lgtn: Lightning**{ .dmg-lgtn } damage from your Lightning Launcher glimmers with magical light until the start of your next turn. The glimmering creature sheds dim light in a 5-foot radius, and it has **:d20-disadv: Disadvantage**{ .d20 } on attack rolls against you, as the light jolts it if it attacks you. In addition, the next attack roll against it has **:d20-adv: Advantage**{ .d20 }, and if that attack hits, the target takes an extra **1d6 :dmg-lgtn: Lightning**{ .dmg-lgtn } damage.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
