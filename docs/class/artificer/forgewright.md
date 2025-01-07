@@ -37,30 +37,36 @@ When you reach an Artificer level specified in the Forgewright Spells table, you
 
 Your battlefield research has resulted in the invention of your signature Arcane Armament, which uses the following rules:
 
-***Forging the Armament***{ .inl } During a **:rest-long: Long Rest**, you can spend 1 hour using Smith's Tools to reforge one melee weapon that you are holding into an Arcane Armament. You can only have one Arcane Armament at a time, and forging another causes any previous Armaments to revert to their normal state. Your Arcane Armament gain additional following traits in addition to its default trait below. 
-
-:   **Weapon Category:** The base weapon's category  
-    **Base Damage:** The weapon's base damage + Ability Modifier used for the attack roll  
-    **Properties:** The weapon's base property + **:weapon-prop-thrown: Thrown (20/60)**  
-    **Infusion:** [:class-phb24-artificer: Returning Weapon]. You can't replace this property, but it doesn't count torwards your maximum known.
+***Forging the Armament***{ .inl } During a **:rest-long: Long Rest**, you can spend 1 hour using Smith's Tools to reforge one melee weapon that you are holding into an Arcane Armament. You can only have one Arcane Armament at a time, and forging another causes any previous Armaments to revert to their normal state. Your Arcane Armament gain additional following traits in addition to its default trait in the Arcane Armament table. 
 
 ***Ability Modifier***{ .inl } You can use your Intelligence, in place of Strength or Dexterity for its attack and damage rolls. 
+
+##### Arcane Armament
+
+| Trait | Details |
+|---|---|
+| **Weapon Category** | The base weapon's category |
+| **Base Damage** | The weapon's base damage + Ability Modifier used for the attack roll |
+| **Properties** | The weapon's base property + :weapon-prop-thrown: ^^Thrown (30/90)^^ | 
+| **Infusion** | [:class-phb24-artificer: Returning Weapon] <br>You can't replace this property, but it doesn't count torwards your maximum known. |
 
 The number of additional **:class-phb24-artificer: Infusion** your Arcane Armament can bear increases, on top of the [:class-phb24-artificer: Returning Weapon] infusion when you reach level 5 (+1 Infusion), Level 9 (+2 Infusion), and Level 15 (+3 Infusion)
 
 [:class-phb24-artificer: Returning Weapon]: ../../option/class-options/artificer-infusion/tce.md#returning-weapon
 
-### Level 5: Arcane Jolt
-
-You can channel pure destructive magic through your strikes. Once per turn when you hit with an Arcane Armament attack you can expend a spell slot to deal bonus **:dmg-force: Force**{ .dmg-force } damage to the target. 
-
-This bonus damage is **2d8**{ .dmg-force } for a level 1 spell slot and it increases by **1d8**{ .dmg-force } for each spell slot level above 1.
-
 ### Level 5: Extra Attack
 
 You can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-In addition, you can cast one of your Artificer cantrip that has the casting time of an Action in place of those attack.
+### Level 5: Weapon Mastery
+
+Your training with weapons allows you to use the mastery properties of *two* kinds of weapons of your choice with which you have proficiency, such as Battleaxes and Maul.
+
+Whenever you finish a **:rest-long: Long Rest**, you can do *one* of the following:
+
+***Change Weapon***{ .inl } You can practice weapon drills and change the kinds of weapons you chose; or
+
+***Replace Mastery Property***{ .inl } You can choose any weapon with a Mastery property that you're using and replace its Mastery property with another eligible Mastery property (e.g. Replace the Battleaxe's Topple property with the Push property).
 
 ### Level 9: Arcane Surge
 
@@ -68,7 +74,9 @@ The magic of your Arcane Armament empowers its strikes. Whenever you hit with an
 
 ### Level 15: Saint of the Forge
 
-You have become a master Forgewright and extend the power of your Arcane Armament to others. As a **:rsc-b: Bonus Action**{ .rsc }, you can flood a number of weapons equal to your Intelligence modifier (minimum of 1) within 30 feet, one of which can be your Arcane Armament, with raw power. For 1 minute, these weapons deal a bonus 1d8 :dmg-force: Force damage on hit.
+*You have become a master Forgewright and extend the power of your Arcane Armament to others.*
+
+As a **:rsc-b: Bonus Action**{ .rsc }, you can flood a number of weapons equal to your Intelligence modifier (minimum of 1) within 30 feet, one of which can be your Arcane Armament, with raw power. For 1 minute, these weapons deal a bonus **1d8 :dmg-force: Force**{ .dmg-force } damage on hit.
 
 Once you use this feature you must finish a **:rest-long: Long Rest** before you can use it again. If you have no uses left, you can expend a level 3+ spell slot to use it again.
 

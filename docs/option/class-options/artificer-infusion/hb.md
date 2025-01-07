@@ -66,16 +66,6 @@ At level 10, this armour grants its wearer a +1 bonus to Armour Class. This bonu
 
 ---
 
-### Mastery Module
-
-_**Prerequisite:** Level 6+, A Weapon_
-
-This weapon gain one extra eligible Mastery property (choose when you infuse this weapon) which its wielder can use even without Weapon Mastery class feature.
-
-After a **:rest-long: Long Rest**, the Artificer can tinker with the weapon and change the Mastery property with a different eligible one.
-
----
-
 ### Wall Shield
 
 _**Prerequisite:** Level 6+, Shield (requires attunement)_
