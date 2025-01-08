@@ -37,7 +37,7 @@ When you reach an Artificer level specified in the Forgewright Spells table, you
 
 Your battlefield research has resulted in the invention of your signature Arcane Armament, which uses the following rules:
 
-***Forging the Armament***{ .inl } During a **:rest-long: Long Rest**, you can spend 1 hour using Smith's Tools to reforge one melee weapon that you are holding into an Arcane Armament. You can only have one Arcane Armament at a time, and forging another causes any previous Armaments to revert to their normal state. Your Arcane Armament gain additional following traits in addition to its default trait in the Arcane Armament table. 
+***Forging the Armament***{ .inl } During a **:rest-long: Long Rest**, you can spend 1 hour using Smith's Tools to reforge one Melee weapon that you are holding and proficienct with into an Arcane Armament. You can only have one Arcane Armament at a time, and forging another causes any previous Armaments to revert to their normal state. Your Arcane Armament gain additional following traits in addition to its default trait in the Arcane Armament table. 
 
 ***Ability Modifier***{ .inl } You can use your Intelligence, in place of Strength or Dexterity for its attack and damage rolls. 
 
@@ -60,17 +60,15 @@ You can attack twice, instead of once, whenever you take the Attack action on yo
 
 ### Level 5: Weapon Mastery
 
-Your training with weapons allows you to use the mastery properties of *two* kinds of weapons of your choice with which you have proficiency, such as Battleaxes and Maul.
+Your training and bond with your Arcane Armament allows you to use its Mastery properties.
 
-Whenever you finish a **:rest-long: Long Rest**, you can do *one* of the following:
+Moreover, when you finish **:rest-long: Long Rest** you can replace your Arcane Armament's Mastery property with another eligible Mastery property (e.g. Replace the Battleaxe's Topple property with the Vex property).
 
-***Change Weapon***{ .inl } You can practice weapon drills and change the kinds of weapons you chose; or
+### Level 9: Weapon Masterwork 
 
-***Replace Mastery Property***{ .inl } You can choose any weapon with a Mastery property that you're using and replace its Mastery property with another eligible Mastery property (e.g. Replace the Battleaxe's Topple property with the Push property).
+When you attack with an Arcane Weapon whose Mastery property you can use, you can replace that property with the Push, Sap, or Slow property for that attack.
 
-### Level 9: Arcane Surge
-
-The magic of your Arcane Armament empowers its strikes. Whenever you hit with an Arcane Armament attack you can deal a bonus **1d8 :dmg-force: Force**{ .dmg-force } damage on hit. Each time you attack with your Arcane Armament, you can forgo this potential bonus damage to instead make your attack with Advantage.
+Moreover, whenever you hit with an Arcane Armament attack you can deal a bonus **1d8 :dmg-force: Force**{ .dmg-force } damage on hit. Each time you attack with your Arcane Armament, you can forgo this potential bonus damage to instead make your attack with **:d20-adv: Advantage**{ .d20 }.
 
 ### Level 15: Saint of the Forge
 
@@ -81,6 +79,7 @@ As a **:rsc-b: Bonus Action**{ .rsc }, you can flood a number of weapons equal t
 Once you use this feature you must finish a **:rest-long: Long Rest** before you can use it again. If you have no uses left, you can expend a level 3+ spell slot to use it again.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
+--8<-- "includes/snippets/item-mastery.md"
 
 :material-book-edit: Written by *Eschatologue*
 { .quote }

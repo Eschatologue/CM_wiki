@@ -219,5 +219,7 @@ You gain an [:option-feat-boon: Epic Boon](../../option/feat/feat-boon.md) feat 
 
 The damage die of your [:spell-lv1: Hunter's Mark] improves even further to d10 when it is cast using Favoured Enemy feature.
 
+--8<-- "includes/snippets/item-mastery.md"
+
 --8<-- "includes/snippets/spells2/lv0.md"
 --8<-- "includes/snippets/spells2/lv1.md"
