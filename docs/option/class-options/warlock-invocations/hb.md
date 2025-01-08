@@ -13,11 +13,11 @@ These Invocations are for Crown & Misery campaign
 
 You can conjure a Pact Chalice; a vessel for the creation of potions and poultices in your hand at the end of a **:rest-short: Short** or **:rest-long: Long Rest**. It takes the form of a tiny object of your choice that is capable of holding liquids, and it grants you the following benefits:
 
-***Artisan Tools***{ .inl } It can counts as a Herbalism Kit, an Alchemist's Supplies or a Brewer's Supplies (your choice), and it uses your spellcasting modifier for ability checks made with it.
+**Artisan Tools**{ .inl } It can counts as a Herbalism Kit, an Alchemist's Supplies or a Brewer's Supplies (your choice), and it uses your spellcasting modifier for ability checks made with it.
 
-***Potion Creation***{ .inl } At the end of a **:rest-short: Short** or **:rest-long: Long Rest**, you can use the Pact Chalice to conjure a vial of the following: [Alchemist's Fire], [Acid], [Holy Water], [Potion of Healing], or [Potion of Climbing]. The liquid retains its potency until the end of your next long rest, at which point it becomes inert and unusable.
+**Potion Creation**{ .inl } At the end of a **:rest-short: Short** or **:rest-long: Long Rest**, you can use the Pact Chalice to conjure a vial of the following: [Alchemist's Fire], [Acid], [Holy Water], [Potion of Healing], or [Potion of Climbing]. The liquid retains its potency until the end of your next long rest, at which point it becomes inert and unusable.
 
-***Spellcasting Focus***{ .inl } You can use the device as a Spellcasting Focus.
+**Spellcasting Focus**{ .inl } You can use the device as a Spellcasting Focus.
 
 This object disappears if you conjure another object with this feature or if you die.
 
@@ -33,11 +33,11 @@ This object disappears if you conjure another object with this feature or if you
 
 You can conjure a Pact Hourglass; a mystical timekeeping device in your hand at the end of a **:rest-short: Short** or **:rest-long: Long Rest**. It takes the form of a timekeeping device of your choice, and it grants you the following benefits:
 
-***Initiative Bonus***{ .inl } So long you don't have the Surprised condition, you gain bonus to your Initiative rolls equal to your spellcasting modifier (minimum of +1).
+**Initiative Bonus**{ .inl } So long you don't have the Surprised condition, you gain bonus to your Initiative rolls equal to your spellcasting modifier (minimum of +1).
 
-***Rewind Time***{ .inl } When you make a D20 Test, you can choose to re-roll. You can use this feature after you roll, but before you know if you succeed. Once you use this feature to turn failure into success, you must finish a **:rest-short: Short** or **:rest-long: Long Rest** before you can use it again.
+**Rewind Time**{ .inl } When you make a D20 Test, you can choose to re-roll. You can use this feature after you roll, but before you know if you succeed. Once you use this feature to turn failure into success, you must finish a **:rest-short: Short** or **:rest-long: Long Rest** before you can use it again.
 
-***Spellcasting Focus***{ .inl } You can use the device as a Spellcasting Focus.
+**Spellcasting Focus**{ .inl } You can use the device as a Spellcasting Focus.
 
 This timekeeping device disappears if you conjure another device with this feature or if you die.
 
@@ -47,11 +47,11 @@ This timekeeping device disappears if you conjure another device with this featu
 
 As a **:rsc-b: Bonus Action**{ .rsc }, you can conjure a pact instrument in your hand—a musical instrument of your choice with which you bond—or create a bond with a musical instrument you touch. Until the bond ends, it grants you the following benefits:
 
-***Bonus Damage***{ .inl } When you use it to cast a Warlock spell with a Verbal component, or a spell that deals :dmg-thun: Thunder damage, you gain a bonus to one of the spell's damage rolls equal to 1d8.
+**Bonus Damage**{ .inl } When you use it to cast a Warlock spell with a Verbal component, or a spell that deals :dmg-thun: Thunder damage, you gain a bonus to one of the spell's damage rolls equal to 1d8.
 
-***Expertise***{ .inl } You have Expertise with it, and it uses your spellcasting modifier for ability checks made with it.
+**Expertise**{ .inl } You have Expertise with it, and it uses your spellcasting modifier for ability checks made with it.
 
-***Spellcasting Focus***{ .inl } You can use the musical instrument as a Spellcasting Focus.
+**Spellcasting Focus**{ .inl } You can use the musical instrument as a Spellcasting Focus.
 
 Your bond with the musical instrument ends if you use this feature's **:rsc-b: Bonus Action**{ .rsc } again, if the musical instrument is more than 5 feet away from you for 1 minute or more, or if you die. A conjured musical instrument disappears when the bond ends.
 
@@ -63,9 +63,9 @@ You can conjure a Pact Wok; a venerable cooking implement in your hand at the en
 
 ***Artisan Tools***{.inl} It counts as Cooking Utensil, and it uses your spellcasting modifier for ability checks made with it.
 
-***Eldritch Rations***{ .inl } When you finish a **:rest-long: Long Rest**, you can prepare a number of Eldritch Rations up to your spellcasting modifier as shown in the Eldritch Rations table in any combination. A creature can take a **:rsc-b: Bonus Action**{ .rsc } to consume one of these rations to gain the associated benefit. 
+**Eldritch Rations**{ .inl } When you finish a **:rest-long: Long Rest**, you can prepare a number of Eldritch Rations up to your spellcasting modifier as shown in the Eldritch Rations table in any combination. A creature can take a **:rsc-b: Bonus Action**{ .rsc } to consume one of these rations to gain the associated benefit. 
 
-***Spellcasting Focus***{ .inl } You can use the device as a Spellcasting Focus.
+**Spellcasting Focus**{ .inl } You can use the device as a Spellcasting Focus.
 
 ##### Eldritch Rations
 
@@ -103,9 +103,9 @@ _**Prerequisite:** [Pact of the Blade]_
 
 Your bond with your Pact Weapon improves.
 
-***Enhancement I***{ .inl } Your Pact Weapon gains a +1 bonus to its attack and damage rolls. If it already has a pre-existing bonus to those rolls, only the highest instance take effect.
+**Enhancement I**{ .inl } Your Pact Weapon gains a +1 bonus to its attack and damage rolls. If it already has a pre-existing bonus to those rolls, only the highest instance take effect.
 
-***Ranged Pact Weapon***{ .inl } The weapon you conjure or make a bond with using Pact of the Blade can be Ranged cold weapon.
+**Ranged Pact Weapon**{ .inl } The weapon you conjure or make a bond with using Pact of the Blade can be Ranged cold weapon.
 
 ---
 
@@ -173,7 +173,7 @@ _**Prerequisite:** Level 5+ Warlock, a Warlock Cantrip That Deals Damage_
 
 Choose one of your known Warlock cantrips that deals damage. When that cantrip deals damage, you can take a **:rsc-b: Bonus Action**{ .rsc } to cast [:spell-lv3: Fireball] using a Pact Magic spell slot. The spell must be centered on the creature you damaged by the cantrip.
 
-***Repeatable***{ .inl } You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
+**Repeatable**{ .inl } You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
 
 ---
 
@@ -231,9 +231,9 @@ _**Prerequisite:** Level 9+ Warlock, [Improved Pact Weapon](#improved-pact-weapo
 
 Your bond with your Pact Weapon improves further.
 
-***Enhancement II***{ .inl } The bonus to attack and damage rolls that Improved Pact Weapon grants increases to +2. This bonus improves to +3 when you reach Warlock level 15.
+**Enhancement II**{ .inl } The bonus to attack and damage rolls that Improved Pact Weapon grants increases to +2. This bonus improves to +3 when you reach Warlock level 15.
 
-***Prismatic Blade***{ .inl } Whenever you attack with the Pact Weapon, you can cause the weapon to deal **:dmg-acid: Acid**{ .dmg-acid }, **:dmg-cold: Cold**{ .dmg-cold }, **:dmg-fire: Fire**{ .dmg-fire }, **:dmg-lgtn: Lightning**{ .dmg-lgtn }, or **:dmg-thun: Thunder**{ .dmg-thun } damage or its normal damage type.
+**Prismatic Blade**{ .inl } Whenever you attack with the Pact Weapon, you can cause the weapon to deal **:dmg-acid: Acid**{ .dmg-acid }, **:dmg-cold: Cold**{ .dmg-cold }, **:dmg-fire: Fire**{ .dmg-fire }, **:dmg-lgtn: Lightning**{ .dmg-lgtn }, or **:dmg-thun: Thunder**{ .dmg-thun } damage or its normal damage type.
 
 ---
 

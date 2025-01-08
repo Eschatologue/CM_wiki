@@ -11,11 +11,11 @@ Each weapon has a mastery property, which is usable only by a character who has 
 
 This homebrew rule reinstates a mechanic initially introduced in *Unearthed Arcana 2023 Playtest 7*, which allowed classes with the Weapon Mastery feature to change a weapon's Mastery property to another eligible one.
 
-***Changing Mastery Properties***{ .inl } When you finish a **:rest-long: Long Rest**, provided you have Weapon Mastery feature, you can choose any weapon with a Mastery property that you're using and replace its Mastery property with another eligible Mastery property. For example, you could replace the Longsword's [Sap](#sap) property with the [Flex](#flex) property. This follows the rules below:
+**Changing Mastery Properties**{ .inl } When you finish a **:rest-long: Long Rest**, provided you have Weapon Mastery feature, you can choose any weapon with a Mastery property that you're using and replace its Mastery property with another eligible Mastery property. For example, you could replace the Longsword's [Sap](#sap) property with the [Flex](#flex) property. This follows the rules below:
 
-- ***Character Exclusive***{ .inl } These Mastery property changes apply only to the character that makes them and do not affect other characters. For example, if a Barbarian changes a Glaive's Graze property to Cleave, another Barbarian or any other class using the same Glaive would still use its default Graze property.
+- **Character Exclusive**{ .inl } These Mastery property changes apply only to the character that makes them and do not affect other characters. For example, if a Barbarian changes a Glaive's Graze property to Cleave, another Barbarian or any other class using the same Glaive would still use its default Graze property.
 
-- ***Defaults on Long Rest***{ .inl } Any changes made to a weapon's Mastery property end for the character when they finish a **:rest-long: Long Rest**.
+- **Defaults on Long Rest**{ .inl } Any changes made to a weapon's Mastery property end for the character when they finish a **:rest-long: Long Rest**.
 
 ## PHB'24 Mastery Property
 

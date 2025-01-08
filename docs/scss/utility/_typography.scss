@@ -3,6 +3,8 @@
 @use "../utility/convert";
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
 
 /*------------------------------------------------------- 
     Typography
@@ -34,7 +36,7 @@
         vertical-align: convert.px2em(-3px);
     }
 
-    font-size: #{calc(var(--default-font-size) * 1.05)};
+    font-size: #{calc(var(--default-font-size) * 1.1)};
     font-variant: small-caps !important;
     /* Make font smallcaps so it looks different than the rest */
     letter-spacing: calc(var(--default-font-size) * 0.04) !important;
@@ -53,7 +55,8 @@
 // Used for D20 rolls, Initiative, Ability Cheks, Saving Throws etc
 .d20 {
     @extend .em;
-    @extend .smallcap;
+    font-family: "Lexend", serif;
+    font-weight: 500 !important;
 }
 
 // RSC or Resource. Anything that players need to "expend" to do something
@@ -78,13 +81,20 @@
 // Inline Sub
 .inl {
     @extend .em;
+    @extend .smallcap;
 
     display: inline-block;
     position: relative;
-    font-size: #{calc(var(--default-font-size) * 1.05)};
+    font-family: "Jost", serif;
+    font-weight: 600 !important;
 
-    @extend .chevron-left;
-    @extend .chevron-right;
+    &::after {
+        font-style: normal !important;
+        font-weight: 400 !important;
+        content:"–";
+        color: var(--md-default-fg-color--light);
+        margin-left: convert.px2em(4px);
+    }
 }
 
 .inl-dt {
@@ -107,7 +117,8 @@
     &::after {
         font-style: normal !important;
         font-weight: 400 !important;
-        content: "»";
+        //content: "»";
+        content:"-";
         color: var(--md-default-fg-color--light);
         margin-left: convert.px2em(4px);
     }

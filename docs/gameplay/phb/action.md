@@ -112,9 +112,9 @@ If a spell must be maintained with Concentration, that fact appears in its Durat
 
 When you take the **Help**{ .rsc } action, you do one of the following:
 
-***Assist Ability Check***{ .inl } Choose one of your skill or tool proficiencies and one ally who can perceive you. You give **:d20-adv: Advantage**{ .d20 } to the next ability check that ally makes with the chosen skill or tool. This benefit expires if the ally doesn't use it before the start of your next turn. To give this assistance, you must be near enough to the ally to assist verbally or physically when the ally makes the check. The DM has final say on whether your assistance is possible.
+**Assist Ability Check**{ .inl } Choose one of your skill or tool proficiencies and one ally who can perceive you. You give **:d20-adv: Advantage**{ .d20 } to the next ability check that ally makes with the chosen skill or tool. This benefit expires if the ally doesn't use it before the start of your next turn. To give this assistance, you must be near enough to the ally to assist verbally or physically when the ally makes the check. The DM has final say on whether your assistance is possible.
 
-***Assist Attack Roll***{ .inl } You momentarily distract an enemy within 5 feet of you, giving **:d20-adv: Advantage**{ .d20 } to the next attack roll by one of your allies against that enemy. This benefit expires at the start of your next turn.
+**Assist Attack Roll**{ .inl } You momentarily distract an enemy within 5 feet of you, giving **:d20-adv: Advantage**{ .d20 } to the next attack roll by one of your allies against that enemy. This benefit expires at the start of your next turn.
 
 ---
 
@@ -186,7 +186,7 @@ First, you decide what perceivable circumstance will trigger your **:rsc-r: Reac
 
 When the trigger occurs, you can either take your **:rsc-r: Reaction**{ .rsc } right after the trigger finishes or ignore the trigger.
 
-***Readying a Spell***{ .inl } When you Ready a spell, you cast it as normal (expending any resources used to cast it) but hold its energy, which you release with your **:rsc-r: Reaction**{ .rsc } when the trigger occurs. To be readied, a spell must have a casting time of an action, and holding on to the spell's magic requires Concentration, which you can maintain up to the start of your next turn. If your Concentration is broken, the spell dissipates without taking effect.
+**Readying a Spell**{ .inl } When you Ready a spell, you cast it as normal (expending any resources used to cast it) but hold its energy, which you release with your **:rsc-r: Reaction**{ .rsc } when the trigger occurs. To be readied, a spell must have a casting time of an action, and holding on to the spell's magic requires Concentration, which you can maintain up to the start of your next turn. If your Concentration is broken, the spell dissipates without taking effect.
 
 ---
 

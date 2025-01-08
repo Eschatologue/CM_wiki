@@ -30,9 +30,9 @@ A cold weapon is a weapon that does not involve fire or explosions resulting fro
 
 Cold weapons can be categorized into two types as per base D&D: Simple Weapons and Martial Weapons.
 
-***Simple Weapons***{ .inl } Most people can use simple weapons with proficiency, often found in the hands of commoners.
+**Simple Weapons**{ .inl } Most people can use simple weapons with proficiency, often found in the hands of commoners.
 
-***Martial Weapons***{ .inl } Requires more specialized training to use effectively. Most warriors use martial weapons because these weapons put their fighting style and training to best use.
+**Martial Weapons**{ .inl } Requires more specialized training to use effectively. Most warriors use martial weapons because these weapons put their fighting style and training to best use.
 
 Main article: [Cold Weapons](weapon-cold.md)
 

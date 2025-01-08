@@ -167,9 +167,9 @@ This damage doesn't end the turn effect.
 
 Divine power infuses you in battle. You gain one of the following options of your choice:
 
-***Divine Strike***{ .inl } Once on each of your turns when you hit a creature with an attack with a weapon, you can cause the target to take an extra 1d8 **:dmg-necr: Necrotic**{ .dmg-necr } or **:dmg-radi: Radiant**{ .dmg-radi } damage (your choice).
+**Divine Strike**{ .inl } Once on each of your turns when you hit a creature with an attack with a weapon, you can cause the target to take an extra 1d8 **:dmg-necr: Necrotic**{ .dmg-necr } or **:dmg-radi: Radiant**{ .dmg-radi } damage (your choice).
 
-***Potent Spellcasting***{ .inl } You add your Wisdom modifier to the damage you deal with any Cleric cantrip.
+**Potent Spellcasting**{ .inl } You add your Wisdom modifier to the damage you deal with any Cleric cantrip.
  
 If you get either option from another source, you use only the option you chose for this feature.
 
@@ -185,9 +185,9 @@ You can call on your deity or pantheon to intervene on your behalf. As a **:rsc-
 
 The option you chose for Blessed Strikes grows more powerful.
 
-***Divine Strike***{ .inl } The extra damage of your Divine Strike increases to 2d8.
+**Divine Strike**{ .inl } The extra damage of your Divine Strike increases to 2d8.
 
-***Potent Spellcasting***{ .inl } When you cast a Cleric cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of **:dmg-temp: Temporary Hit Points**{ .dmg-heal } equal to twice your Wisdom modifier.
+**Potent Spellcasting**{ .inl } When you cast a Cleric cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of **:dmg-temp: Temporary Hit Points**{ .dmg-heal } equal to twice your Wisdom modifier.
 
 ### Level 19: Epic Boon
 

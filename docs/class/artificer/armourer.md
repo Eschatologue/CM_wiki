@@ -38,48 +38,48 @@ Your metallurgical pursuits have led to you making armour a conduit for your mag
 
 You gain the following benefits while wearing this armour:
 
-***Self Supporting***{ .inl } If the armour normally has a Strength requirement, you can use Intelligence to fufill the requirement.
+**Self Supporting**{ .inl } If the armour normally has a Strength requirement, you can use Intelligence to fufill the requirement.
 
-***Spellcasting Focus***{ .inl }You can use the Arcane Armour as a spellcasting focus for your Artificer spells.
+**Spellcasting Focus**{ .inl }You can use the Arcane Armour as a spellcasting focus for your Artificer spells.
 
-***Second Skin***{ .inl } The armour attaches to you and can't be removed against your will. It also expands to cover your entire body. You can retract or deploy the helmet as a **:rsc-b: Bonus Action**{ .rsc }. The armour replaces any missing limbs, functioning identically to a limb it replaces.
+**Second Skin**{ .inl } The armour attaches to you and can't be removed against your will. It also expands to cover your entire body. You can retract or deploy the helmet as a **:rsc-b: Bonus Action**{ .rsc }. The armour replaces any missing limbs, functioning identically to a limb it replaces.
 
-***Quick Don/Doff***{ .inl } You can doff or don the armour as an :rsc-a: Utilise action.
+**Quick Don/Doff**{ .inl } You can doff or don the armour as an :rsc-a: Utilise action.
 
 ### Level 3: Armour Model
 
 You can customize your Arcane Armour. When you do so, choose one of the following armour models: Guardian or Infiltrator. The model you choose gives you special benefits while you wear it.
 
-***Special Weapon***{ .inl } Each model includes a special weapon. You can only use the Mastery property of the weapon if another feature allows you to use it, as normal.
+**Special Weapon**{ .inl } Each model includes a special weapon. You can only use the Mastery property of the weapon if another feature allows you to use it, as normal.
 
-***Changing the Model***{ .inl } You can change the armour's model whenever you finish a **:rest-short: Short** or **:rest-long: Long Rest**, provided you have Smith's Tools in hand.
+**Changing the Model**{ .inl } You can change the armour's model whenever you finish a **:rest-short: Short** or **:rest-long: Long Rest**, provided you have Smith's Tools in hand.
 
 #### Guardian
 
 You design your armour to be in the front line of conflict. It has the following features:
 
-***Thunder Gauntlets***{ .inl } Each of the armour's gauntlets has the following trait:
+**Thunder Gauntlets**{ .inl } Each of the armour's gauntlets has the following trait:
 
 :   **Weapon Category:** Simple Melee  
     **Damage on a Hit:** **1d8 :dmg-thun: Thunder**{ .dmg-thun } (2d8 at level 15) plus the ability modifier used for the attack roll
 
-***Distracting Pulse***{ .inl } When you hit a creature with a melee attack, it has Disadvantage on attack rolls against targets other than you until the start of your next turn, as the armour magically emits a distracting pulse when the creature attacks someone else.
+**Distracting Pulse**{ .inl } When you hit a creature with a melee attack, it has Disadvantage on attack rolls against targets other than you until the start of your next turn, as the armour magically emits a distracting pulse when the creature attacks someone else.
 
-***Defensive Field***{ .inl } While you are Bloodied, you can take a **:rsc-b: Bonus Action**{ .rsc } to gain Temporary Hit Points equal to your Artificer level. You lose these Temporary Hit Points if you doff the armour.
+**Defensive Field**{ .inl } While you are Bloodied, you can take a **:rsc-b: Bonus Action**{ .rsc } to gain Temporary Hit Points equal to your Artificer level. You lose these Temporary Hit Points if you doff the armour.
 
 #### Infiltrator
 
 You customize your armour for subtle undertakings. It has the following features:
 
-***Lightning Launcher***{ .inl } A gemlike node appears on one of your armoured gauntlet. It has the following trait:
+**Lightning Launcher**{ .inl } A gemlike node appears on one of your armoured gauntlet. It has the following trait:
 
 :   **Weapon Category:** Simple Ranged  
     **Damage on a Hit:** **1d6 :dmg-lgtn: Lightning**{ .dmg-lgtn } (2d6 at level 15) plus the ability modifier used for the attack roll  
     **Properties:** Ranged (90/270)
 
-***Lightning Arc***{ .inl } Once per turn when you hit a creature with a ranged attack, you can deal an extra **1d6 :dmg-lgtn: Lightning**{ .dmg-lgtn } damage to that target, as your armour arcs electricity between itself and the target.
+**Lightning Arc**{ .inl } Once per turn when you hit a creature with a ranged attack, you can deal an extra **1d6 :dmg-lgtn: Lightning**{ .dmg-lgtn } damage to that target, as your armour arcs electricity between itself and the target.
 
-***Dampening Field***{ .inl } You have **:d20-adv: Advantage**{ .d20 }  on Dexterity (Stealth) checks. If the armour normally imposes **:d20-disadv: Disadvantage**{ .d20 } on such checks, it cancel each other as normal.
+**Dampening Field**{ .inl } You have **:d20-adv: Advantage**{ .d20 }  on Dexterity (Stealth) checks. If the armour normally imposes **:d20-disadv: Disadvantage**{ .d20 } on such checks, it cancel each other as normal.
 
 ### Level 5: Extra Attack
 
@@ -91,9 +91,9 @@ In addition, you can cast one of your Artificer cantrip that has the casting tim
 
 You learn how to use your Infusions to specially modify your Arcane Armour.
 
-***Infusing the Armour***{ .inl } Your Arcane Armour now counts as separate items for the purposes of your Infuse Item feature: armour (the chest piece), boots, helmet, and the armour's special weapon. Each of those items can bear one of your Infusions, and the Infusions transfer over if you change your armour's model with the Armour Model feature.
+**Infusing the Armour**{ .inl } Your Arcane Armour now counts as separate items for the purposes of your Infuse Item feature: armour (the chest piece), boots, helmet, and the armour's special weapon. Each of those items can bear one of your Infusions, and the Infusions transfer over if you change your armour's model with the Armour Model feature.
 
-***Free Infusions***{ .inl } The maximum number of items you can Infuse at once increases by 2, but those extra items must be part of your Arcane Armour.
+**Free Infusions**{ .inl } The maximum number of items you can Infuse at once increases by 2, but those extra items must be part of your Arcane Armour.
 
 ### Level 15: Perfected Armour
 

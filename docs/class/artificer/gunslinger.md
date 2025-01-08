@@ -41,9 +41,9 @@ Your tinkering with Arcane Firearm ensures you always have certain spells ready.
 
 Your groundbreaking research has led to the development of your signature Arcane Firearm, which uses the rules below:
 
-***Crafting your Firearm***{ .inl } During the course of a **:rest-long: Long Rest**, you can spend 1 hour using smith's tools to craft one Arcane Firearm. It is only usable by you, you are proficient with it, and crafting another causes the magic of the previous Firearm to instantly dispel. You can use your Intelligence, in place of Dexterity for its attack and damage rolls. 
+**Crafting your Firearm**{ .inl } During the course of a **:rest-long: Long Rest**, you can spend 1 hour using smith's tools to craft one Arcane Firearm. It is only usable by you, you are proficient with it, and crafting another causes the magic of the previous Firearm to instantly dispel. You can use your Intelligence, in place of Dexterity for its attack and damage rolls. 
 
-***Infusions***{ .inl } Your Firearm can bear one Infusion for a ranged weapon or an arcane focus. At Artificer level 9 it can bear one additional Infusion.
+**Infusions**{ .inl } Your Firearm can bear one Infusion for a ranged weapon or an arcane focus. At Artificer level 9 it can bear one additional Infusion.
 
 ***Upgrades***. Upon creation, your Arcane Firearm gains two Upgrades of your choice from the list of Upgrades at the end of this subclass.
 
@@ -136,6 +136,8 @@ When one of your Upgrades requires a creature to make a saving throw, it makes i
 
     Your Arcane Firearm is crafted so you can adjust it on the fly. You can spend 10 minutes using Smith's Tools to replace one of your Arcane Firearm's Upgrades with another Upgrade that you meet the prerequisites for. You can do so during a **:rest-short: Short Rest**.
 
+    ---
+
 === "Level 5+ Artificer"
 
     #### Blinding Rounds
@@ -160,6 +162,8 @@ When one of your Upgrades requires a creature to make a saving throw, it makes i
 
     Once per turn when you hit a target with an Arcane Firearm attack, you can force all creatures within 5 feet of it to make a Dexterity saving throw. On a failed save, they take damage as if they had also been hit by your Arcane Firearm attack.
 
+    ---
+
 === "Level 9+ Artificer"
 
     #### Incapacitating Rounds
@@ -169,6 +173,8 @@ When one of your Upgrades requires a creature to make a saving throw, it makes i
     Once per turn when you hit a target with an Arcane Firearm attack, you can force it to make a Strength saving throw. On a failed save, it has the Incapacitated condition until the start of your next turn, or until it takes damage or is forced to make a saving throw.
 
     Large and larger creatures have Advantage on the Strength saving throw to resist the effects of this Upgrade.
+
+    ---
 
 === "Level 15+ Artificer"
 
@@ -187,4 +193,5 @@ When one of your Upgrades requires a creature to make a saving throw, it makes i
     As a **:rsc-a: Magic**{ .rsc } action, you can set your Arcane Firearm up as a turret in an unoccupied 5-foot space. While you are within 120 feet of your Arcane Firearm, you can use a **:rsc-b: Bonus Action**{ .rsc } to cause your Arcane Firearm to make an attack, or use another one of its abilities, targeting a creature you can see in its range.
 
     ---
+
 --8<-- "includes/snippets/spells2/lv0-5.md"

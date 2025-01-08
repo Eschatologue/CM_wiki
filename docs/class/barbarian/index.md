@@ -121,9 +121,9 @@ Each time the **:class-abl-rage: Rage**{ .em } is extended, it lasts until the e
 
 While you aren't wearing any armour, you can choose the following option to determine your base **Armour Class**:
 
-:   ***Dexterity Based***{ .inl } 10 plus your :ability-dex: Dexterity and :ability-cons: Constitution modifiers; or
+:   **Dexterity Based**{ .inl } 10 plus your :ability-dex: Dexterity and :ability-cons: Constitution modifiers; or
 
-:   ***Strength Based***{ .inl } 10 plus your :ability-str: Strength and :ability-cons: Constitution modifiers.
+:   **Strength Based**{ .inl } 10 plus your :ability-str: Strength and :ability-cons: Constitution modifiers.
 
 You can use a Shield and still gain these benefit.
 
@@ -131,9 +131,9 @@ You can use a Shield and still gain these benefit.
 
 Your training with weapons allows you to use the mastery properties of two kinds of Simple or Martial Melee weapons of your choice, such as Greataxes and Handaxes. Whenever you finish a **:rest-long: Long Rest**, you can do one of the following:
 
-:   ***Change Weapon***{ .inl } You can practice weapon drills and change *one* of those weapon choices; or
+:   **Change Weapon**{ .inl } You can practice weapon drills and change *one* of those weapon choices; or
 
-:   ***Replace Mastery Property***{ .inl } You can choose any weapon with a Mastery property that you're using and replace its Mastery property with another eligible Mastery property (e.g. Replace the Greataxe's Cleave property with the Graze property).
+:   **Replace Mastery Property**{ .inl } You can choose any weapon with a Mastery property that you're using and replace its Mastery property with another eligible Mastery property (e.g. Replace the Greataxe's Cleave property with the Graze property).
 
 --8<-- "includes/snippets/item-mastery.md"
 
@@ -185,9 +185,9 @@ If you use Reckless Attack, you can forgo any **:d20-adv: Advantage**{ .d20 } on
 
 If the chosen attack roll hits, the target takes an extra 1d10 damage of the same type dealt by the weapon or Unarmed Strike, and you can cause one Brutal Strike effect of your choice. You have the following effect options.
 
-***Forceful Blow***{ .inl } The target is pushed 15 feet straight away from you. You can then move up to half your **:rsc-spd: Speed**{ .em } straight toward the target without provoking Opportunity Attacks.
+**Forceful Blow**{ .inl } The target is pushed 15 feet straight away from you. You can then move up to half your **:rsc-spd: Speed**{ .em } straight toward the target without provoking Opportunity Attacks.
 
-***Hamstring Blow***{ .inl } The target's **:rsc-spd: Speed**{ .em } is reduced by 15 feet until the start of your next turn. A target can be affected by only one Hamstring Blow at a time—the most recent one.
+**Hamstring Blow**{ .inl } The target's **:rsc-spd: Speed**{ .em } is reduced by 15 feet until the start of your next turn. A target can be affected by only one Hamstring Blow at a time—the most recent one.
 
 ### Level 11: Relentless Rage
 
@@ -199,9 +199,9 @@ Each time you use this feature after the first, the DC increases by 5. When you 
 
 You have honed new ways to attack furiously. The following effects are now among your Brutal Strike options.
 
-***Staggering Blow***{ .inl } The target has **:d20-disadv: Disadvantage**{ .d20 } on the next saving throw it makes, and it can't make **:rsc-r: Opportunity Attacks**{ .rsc } until the start of your next turn.
+**Staggering Blow**{ .inl } The target has **:d20-disadv: Disadvantage**{ .d20 } on the next saving throw it makes, and it can't make **:rsc-r: Opportunity Attacks**{ .rsc } until the start of your next turn.
 
-***Sundering Blow***{ .inl } Before the start of your next turn, the next attack roll made by another creature against the target gains a +5 bonus to the roll. An attack roll can gain only one Sundering Blow bonus.
+**Sundering Blow**{ .inl } Before the start of your next turn, the next attack roll made by another creature against the target gains a +5 bonus to the roll. An attack roll can gain only one Sundering Blow bonus.
 
 ### Level 15: Persistent Rage
 

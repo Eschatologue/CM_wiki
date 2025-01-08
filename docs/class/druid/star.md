@@ -23,7 +23,7 @@ You've created a star chart as part of your heavenly studies. It is a Tiny objec
 
 While holding this map, you have these benefits:
 
-- You know the [:spell-lv0: Guidance]* cantrip and [:spell-lv1: Guiding Bolt] spell prepared. They counts as a Druid spell for you, and it doesn't count against the number of spells you can have prepared.
+- You know the [:spell-lv0: Guidance] cantrip and [:spell-lv1: Guiding Bolt] spell prepared. They counts as a Druid spell for you, and it doesn't count against the number of spells you can have prepared.
 - You can cast [:spell-lv1: Guiding Bolt] without expending a spell slot. You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 [:spell-lv0: Guidance]: ../../spells/description/core/cantrip.md#guidance
@@ -50,11 +50,11 @@ While in your starry form, you retain your game statistics, but your body become
 
 Whenever you assume your starry form, choose which of the following constellations glimmers on your body; your choice gives you certain benefits while in the form.
 
-***Archer***{ .inl } A constellation of an archer appears on you. When you activate this form, and as a **:rsc-b: Bonus Action**{ .rsc } on your subsequent turns while it lasts, you can make a ranged spell attack, hurling a luminous arrow that targets one creature within 60 feet of you. On a hit, the attack deals **:dmg-radi: Radiant**{ .dmg-radi } damage equal to 1d8 plus your Wisdom modifier.
+**Archer**{ .inl } A constellation of an archer appears on you. When you activate this form, and as a **:rsc-b: Bonus Action**{ .rsc } on your subsequent turns while it lasts, you can make a ranged spell attack, hurling a luminous arrow that targets one creature within 60 feet of you. On a hit, the attack deals **:dmg-radi: Radiant**{ .dmg-radi } damage equal to 1d8 plus your Wisdom modifier.
 
-***Chalice***{ .inl } A constellation of a life-giving goblet appears on you. Whenever you cast a spell using a spell slot that restores Hit Points to a creature, you or another creature within 30 feet of you can regain Hit Points equal to 1d8 plus your Wisdom modifier.
+**Chalice**{ .inl } A constellation of a life-giving goblet appears on you. Whenever you cast a spell using a spell slot that restores Hit Points to a creature, you or another creature within 30 feet of you can regain Hit Points equal to 1d8 plus your Wisdom modifier.
 
-***Dragon***{ .inl } A constellation of a wise dragon appears on you. When you make an Intelligence or a Wisdom check or a Constitution saving throw to maintain concentration on a spell, you can treat a roll of 9 or lower on the d20 as a 10.
+**Dragon**{ .inl } A constellation of a wise dragon appears on you. When you make an Intelligence or a Wisdom check or a Constitution saving throw to maintain concentration on a spell, you can treat a roll of 9 or lower on the d20 as a 10.
 
 When you reach level 14 in this class, while in your Starry Form, you become partially incorporeal, giving you **:dmg-res: Resistance**{ .em } to **:dmg-bldg: Bludgeoning**, **:dmg-prcg: Piercing**, and **:dmg-slsh: Slashing** damage.
 
@@ -62,11 +62,9 @@ When you reach level 14 in this class, while in your Starry Form, you become par
 
 You learn to use your star map to divine the will of the cosmos. Whenever you finish a **:rest-long: Long Rest**, you can consult your Star Map for omens. When you do so, roll a die. Until you finish your next Long Rest, you gain access to a special Reaction based on whether you rolled an even or an odd number on the die:
 
-***Weal (even)***{ .opt } Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a **:rsc-r: Reaction**{ .rsc } to roll 1d6 and add the number rolled to the total.
-{ .idnt }
+**Weal (even)**{ .inl } Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a **:rsc-r: Reaction**{ .rsc } to roll 1d6 and add the number rolled to the total.
 
-***Woe (odd)***{ .opt } Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a **:rsc-r: Reaction**{ .rsc } to roll 1d6 and subtract the number rolled from the total.
-{ .idnt }
+**Woe (odd)**{ .inl } Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a **:rsc-r: Reaction**{ .rsc } to roll 1d6 and subtract the number rolled from the total.
 
 You can use use this **:rsc-r: Reaction**{ .rsc } a number of times equal to your Wisdom modifier (minimum of once),, and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
@@ -86,4 +84,5 @@ Any creature remaining in the Sphere must make a **:d20-save: Constitution savin
 
 Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**, or you can expend a level 5+ spell slot to regain your use of it (no action required).
 
-###### :material-book-arrow-up: Updated by *Eschatologue*
+:material-book-arrow-up: Updated by *Eschatologue*
+{ .quote }
