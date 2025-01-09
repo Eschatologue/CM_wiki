@@ -37,18 +37,19 @@ When you reach an Artificer level specified in the Forgewright Spells table, you
 
 Your battlefield research has resulted in the invention of your signature Arcane Armament, which uses the following rules:
 
-**Forging the Armament**{ .inl } During a **:rest-long: Long Rest**, you can spend 1 hour using Smith's Tools to reforge one Melee weapon that you are holding and proficienct with into an Arcane Armament. You can only have one Arcane Armament at a time, and forging another causes any previous Armaments to revert to their normal state. Your Arcane Armament gain additional following traits in addition to its default trait in the Arcane Armament table. 
+***Forging the Armament***{ .inl } During a **:rest-long: Long Rest**, you can spend 1 hour using Smith's Tools to reforge one Melee weapon that you are holding and proficienct with into an Arcane Armament. You can only have one Arcane Armament at a time, and forging another causes any previous Armaments to revert to their normal state. Your Arcane Armament gain additional following traits in addition to its default trait. You can use your Intelligence, in place of Strength or Dexterity for its attack and damage rolls.
 
-**Ability Modifier**{ .inl } You can use your Intelligence, in place of Strength or Dexterity for its attack and damage rolls. 
+**Weapon Category:** The base weapon's category
+{ .idnt .shrink-bottom }
 
-##### Arcane Armament
+**Base Damage:** The weapon's base damage plus ability modifier used for the attack roll
+{ .idnt .shrink-bottom }
 
-| Trait | Details |
-|---|---|
-| **Weapon Category** | The base weapon's category |
-| **Base Damage** | The weapon's base damage + Ability Modifier used for the attack roll |
-| **Properties** | The weapon's base property + :weapon-prop-thrown: ^^Thrown (30/90)^^ | 
-| **Infusion** | [:class-phb24-artificer: Returning Weapon] <br>You can't replace this property, but it doesn't count torwards your maximum known. |
+**Properties:** The weapon's base property + :weapon-prop-thrown: Thrown (30/90)
+{ .idnt .shrink-bottom }
+
+**Infusion:** [:class-phb24-artificer: Returning Weapon]. You can't replace this Infusion, but it doesn't count torwards your maximum known.
+{ .idnt }
 
 The number of additional **:class-phb24-artificer: Infusion** your Arcane Armament can bear increases, on top of the [:class-phb24-artificer: Returning Weapon] infusion when you reach level 5 (+1 Infusion), Level 9 (+2 Infusion), and Level 15 (+3 Infusion)
 

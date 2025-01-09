@@ -6,6 +6,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
 
+//⟨⟩
+
+/*------------------------------------------------------- 
+    Font
+--------------------------------------------------------*/
+
+.jost {
+    font-family: "Jost", serif;
+}
+
+.lexend {
+    font-family: "Lexend", serif;
+}
+
 /*------------------------------------------------------- 
     Typography
 --------------------------------------------------------*/
@@ -55,7 +69,7 @@
 // Used for D20 rolls, Initiative, Ability Cheks, Saving Throws etc
 .d20 {
     @extend .em;
-    font-family: "Lexend", serif;
+    @extend .lexend;
     font-weight: 500 !important;
 }
 
@@ -81,34 +95,12 @@
 // Inline Sub
 .inl {
     @extend .em;
-    @extend .smallcap;
 
     display: inline-block;
-    position: relative;
-    font-family: "Jost", serif;
-    font-weight: 600 !important;
-
-    &::after {
-        font-style: normal !important;
-        font-weight: 400 !important;
-        content:"–";
-        color: var(--md-default-fg-color--light);
-        margin-left: convert.px2em(4px);
-    }
-}
-
-.inl-dt {
-    @extend .inl;
-    @extend .indent;
-}
-
-// Options
-.opt {
-    @extend .em;
-
-    display: inline-block;
+    font-style: italic;
     position: relative;
 
+    @extend .chevron-left;
     @extend .chevron-right;
 }
 
@@ -117,8 +109,7 @@
     &::after {
         font-style: normal !important;
         font-weight: 400 !important;
-        //content: "»";
-        content:"-";
+        content: "»";
         color: var(--md-default-fg-color--light);
         margin-left: convert.px2em(4px);
     }
@@ -151,7 +142,11 @@ $indent: 18px;
 .idnt {
     // Scales is Padding Left = Text Indent x 2. Text Indent is minus
     text-indent: convert.px2em(-$indent);
-    padding-left: convert.px2em($indent * 2);
+    padding-left: convert.px2em($indent);
+}
+
+.shrink-bottom{
+    margin-bottom: convert.px2em(-9px) !important;
 }
 
 //-----------------------------------------------------//
@@ -164,7 +159,7 @@ $damage-types: (
     fire: #e1822e,
     posn: #4eaa2d,
     thun: #9b7fcc,
-    psyc: #de68a7,
+    psyc: #dd73ac,
     lgtn: #1E88E5,
     necr: #80CBC4,
     radi: #FFEE58,
@@ -180,7 +175,6 @@ $damage-types: (
     .dmg-#{$type} {
         color: convert.hex3hsl($color) !important;
         white-space: nowrap;
-        font-weight: 400 !important;
         font-style: none !important;
     }
 }

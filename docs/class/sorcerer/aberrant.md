@@ -37,7 +37,7 @@ When you cast any spell of level 1+ spell from your Psionic Spells feature, you 
 
 ### Level 6: Psychic Defenses
 
-You gain Resistance to :dmg-psyc: Psychic damage, and you have Advantage on saving throws to avoid or end the Charmed and Frightnened condition.
+You gain **:dmg-res: Resistance** to **:dmg-psyc: Psychic**{ .dmg-psyc } damage, and you have **:d20-adv: Advantage**{ .d20 } on saving throws to avoid or end the Charmed and Frightnened condition.
 
 ### Level 14: Revelation in Flesh
 
@@ -49,12 +49,12 @@ You can unleash the aberrant truth hidden within yourself. As a **:rsc-b: Bonus 
 
 **See the Invisible**{ .inl } You can see any invisible creature within 60 feet of you, provided it isn't behind total cover. Your eyes also turn black or become writhing sensory tendrils.
 
-***Wormlike Movement*** Your body, along with any equipment you are wearing or carrying, becomes slimy and pliable. You can move through any space as narrow as 1 inch without squeezing, and you can spend 5 feet of movement to escape from nonmagical restraints or the Grappled condition.
+**Wormlike Movement**{ .inl } Your body, along with any equipment you are wearing or carrying, becomes slimy and pliable. You can move through any space as narrow as 1 inch without squeezing, and you can spend 5 feet of movement to escape from nonmagical restraints or the Grappled condition.
 
 ### Level 18: Warping Implosion
 
-You can unleash your aberrant power as a space-warping anomaly. As **:rsc-a: Magic**{ .rsc } action, you can teleport to an unoccupied space you can see within 120 feet of you. Immediately after you disappear, each creature within 30 feet of the space you left must make a Strength saving throw against your spell save DC. On a failed save, a creature takes 3d10 force damage and is pulled straight toward the space you left, ending in an unoccupied space as close to your former space as possible. On a successful save, the creature takes half as much damage and isn't pulled.
+You can unleash your aberrant power as a space-warping anomaly. As **:rsc-a: Magic**{ .rsc } action, you teleport to an unoccupied space you can see within 120 feet of yourself. Immediately after you disappear, each creature within 30 feet of the space you left must make a Strength saving throw against your spell save DC. On a failed save, a creature takes 3d10 Force damage and is pulled straight toward the space you left, ending in an unoccupied space as close to your former space as possible. On a successful save, the creature takes half as much damage only.
 
-Once you use this feature, you can't do so again until you finish a **:rest-long: Long Rest**, unless you spend 5 Sorcery Points to use it again.
+Once you use this feature, you can't do so again until you finish a **:rest-long: Long Rest** unless you spend 5 Sorcery Points (no action required) to restore your use of it.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"

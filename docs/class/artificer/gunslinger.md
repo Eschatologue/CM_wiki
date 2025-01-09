@@ -13,8 +13,6 @@ Gun Down your Adversaries
 
 You have dedicated your great intellect to the development of a one-of-a-kind weapon of war, the Arcane Firearm. Marked by this signature weapon, you enter the fray with the swagger and guile only found in one kind of Artificer, the Gunslinger
 
-> Written by Laserllama - Adapted to 2024 PHB by Eschatologue*
-
 ### Level 3: Tools of the Trade
 
 You gain proficiency with Alchemist's supplies and Smith's tools. If you already have this proficiency, you gain proficiency with one other type of Artisan's Tools of your choice.
@@ -45,14 +43,18 @@ Your groundbreaking research has led to the development of your signature Arcane
 
 **Infusions**{ .inl } Your Firearm can bear one Infusion for a ranged weapon or an arcane focus. At Artificer level 9 it can bear one additional Infusion.
 
-***Upgrades***. Upon creation, your Arcane Firearm gains two Upgrades of your choice from the list of Upgrades at the end of this subclass.
+**Upgrades**{ .inl } Upon creation, your Arcane Firearm gains two Upgrades of your choice from the list of Upgrades at the end of this subclass.
 
-Your Arcane Firearm has the following property:
+Your Arcane Firearm has the following traits:
 
-**Weapon Category:** Martial Ranged  
-**Damage on a Hit:** 1d10 :dmg-force: Force plus the ability modifier used for the attack roll  
-**Properties:** :weapon-prop-reload: Reload (6), :weapon-prop-range: Ranged (80/320)  
-**Mastery:** None
+**Weapon Category:** Simple Ranged
+{ .idnt .shrink-bottom }
+
+**Damage on a Hit:** **1d10 :dmg-force: Force**{ .dmg-force } plus ability modifier used in the attack roll
+{ .idnt .shrink-bottom }
+
+**Properties:** :weapon-prop-reload: Reload (6), :weapon-prop-range: Ranged (80/320) 
+{ .idnt } 
 
 At certain Artificer levels, your Arcane Firearm gains more Upgrades: at level 5 (3), 10 (4), and 15 (5)
 
@@ -193,5 +195,8 @@ When one of your Upgrades requires a creature to make a saving throw, it makes i
     As a **:rsc-a: Magic**{ .rsc } action, you can set your Arcane Firearm up as a turret in an unoccupied 5-foot space. While you are within 120 feet of your Arcane Firearm, you can use a **:rsc-b: Bonus Action**{ .rsc } to cause your Arcane Firearm to make an attack, or use another one of its abilities, targeting a creature you can see in its range.
 
     ---
+
+:material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*
+{ .quote }
 
 --8<-- "includes/snippets/spells2/lv0-5.md"

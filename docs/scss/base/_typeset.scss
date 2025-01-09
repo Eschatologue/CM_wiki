@@ -13,13 +13,14 @@ $defaultFontSize: convert.px2rem(15px); // Base font size
 .md-typeset {
     --default-font-size: #{convert.px2rem(15px)};
     --default-font-weight: 300;
+    
     font-optical-sizing: auto;
+
+    font-size: var(--default-font-size);
 
     @media screen and (max-width: 720px) {
         --default-font-size: #{convert.px2rem(13px)};
     }
-
-    font-size: var(--default-font-size);
 
     // Strong text styles
     strong {
