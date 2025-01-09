@@ -53,11 +53,11 @@ Those who dare to strike you are psychically punished for their audacity. Whenev
 
 You gain the ability to harness extraordinary martial prowess. As a **:rsc-b: Bonus Action**{ .rsc }, you can magically become an avatar of conquest, gaining the following benefits for 10 minutes:
 
-***Damage Resistance.*** You have resistance to all damage.
+**Damage Resistance**  You have resistance to all damage.
 
-***Extra Attack.*** When you take the Attack action on your turn, you can make one additional attack as part of that action.
+**Extra Attack**  When you take the Attack action on your turn, you can make one additional attack as part of that action.
 
-***Brutal Attacks.*** Your melee weapon attacks score a critical hit on a roll of 19 or 20 on the d20.
+**Brutal Attacks**  Your melee weapon attacks score a critical hit on a roll of 19 or 20 on the d20.
 
 Once you use this feature, you can’t use it again until you finish a **:rest-long: Long Rest**, or you expend a level 5 spell slot to use it again.
 

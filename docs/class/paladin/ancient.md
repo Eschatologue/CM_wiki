@@ -50,10 +50,10 @@ Additionally, you suffer none of the drawbacks of old age, and you can't be aged
 
 As a **:rsc-b: Bonus Action**{ .rsc }, you can imbue your Aura of Protection with primal power, granting the following benefits for 1 minute or until you end them (no action required). Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
-***Diminish Defiance.*** Enemies in the aura have Disadvantage on saving throws against your spells and Channel Divinity options.
+**Diminish Defiance**  Enemies in the aura have Disadvantage on saving throws against your spells and Channel Divinity options.
 
-***Regeneration.*** At the start of each of your turns, you regain 10 Hit Points.
+**Regeneration**  At the start of each of your turns, you regain 10 Hit Points.
 
-***Swift Spells.*** Whenever you cast a spell that has a casting time of 1n action, you can cast it using a **:rsc-b: Bonus Action**{ .rsc } instead.
+**Swift Spells**  Whenever you cast a spell that has a casting time of 1n action, you can cast it using a **:rsc-b: Bonus Action**{ .rsc } instead.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"

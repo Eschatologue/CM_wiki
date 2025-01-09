@@ -28,9 +28,9 @@ You gain proficiency in the Insight and Medicine skill and proficiency with Herb
 
 Your Hand of Harm and Hand of Healing improve as detailed below:
 
-***Hand of Healing.*** When you use Hand of Healing on a creature, you can also end one disease or one of the following conditions affecting the creature: Blinded, Deafened, Paralyzed, Poisoned, or Stunned.
+**Hand of Healing**  When you use Hand of Healing on a creature, you can also end one disease or one of the following conditions affecting the creature: Blinded, Deafened, Paralyzed, Poisoned, or Stunned.
 
-***Hand of Harm.*** When you use Hand of Harm on a creature, you can subject that creature to the Poisoned condition until the end of your next turn.
+**Hand of Harm**  When you use Hand of Harm on a creature, you can subject that creature to the Poisoned condition until the end of your next turn.
 
 ### Level 11: Flurry of Healing and Harm
 

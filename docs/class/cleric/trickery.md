@@ -29,11 +29,11 @@ As a **:rsc-b: Bonus Action**{ .rsc }, you can expend one use of your **:class-a
 
 While the illusion persists, you gain the following benefits:
 
-***Cast Spells.*** You can cast spells as though you were in the illusion's space, but you must use your own senses.
+**Cast Spells**  You can cast spells as though you were in the illusion's space, but you must use your own senses.
 
-***Distract.*** When both you and your illusion are within 5 feet of a creature that can see the illusion, you have Advantage on attack rolls against that creature, given how distracting the illusion is to the target.
+**Distract**  When both you and your illusion are within 5 feet of a creature that can see the illusion, you have Advantage on attack rolls against that creature, given how distracting the illusion is to the target.
 
-***Move.*** As a **:rsc-b: Bonus Action**{ .rsc }, you can move the illusion up to 30 feet to an unoccupied space you can see that is within 120 feet of yourself, and you can then teleport, swapping places with the illusion.
+**Move**  As a **:rsc-b: Bonus Action**{ .rsc }, you can move the illusion up to 30 feet to an unoccupied space you can see that is within 120 feet of yourself, and you can then teleport, swapping places with the illusion.
 
 ### Level 3: Trickery Domain Spells
 
@@ -56,8 +56,8 @@ Whenever you take the **:rsc-b: Bonus Action**{ .rsc } to create or move the ill
 
 The illusion of your Invoke Duplicity has grown more powerful in the following ways: 
 
-***Shared Distraction.*** When you and your allies make attack rolls against a creature within 5 feet of the illusion, the attack rolls have Advantage 
+**Shared Distraction**  When you and your allies make attack rolls against a creature within 5 feet of the illusion, the attack rolls have Advantage 
 
-***Healing Illusion.*** When the illusion ends, you or a creature of your chice within 5 feet of it regains a number of Hit Points equal to your CLeric level.
+**Healing Illusion**  When the illusion ends, you or a creature of your chice within 5 feet of it regains a number of Hit Points equal to your CLeric level.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"

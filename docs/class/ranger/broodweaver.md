@@ -31,7 +31,7 @@ When you reach a Ranger level specified in the Mindspun Invocation Spells Table,
 
 You command intangible constructs made of pure energy to assist you in battle. These entities, known as *Threadlings*, act as a resource for the various features in this subclass. 
 
-***Threadling Die.*** Your *Threadlings* are represented by a die, known as the *Threadling Die*, and a pool of dice that increases with your Ranger level. The Threadling Die table below shows the size and number of dice you have available.
+**Threadling Die**  Your *Threadlings* are represented by a die, known as the *Threadling Die*, and a pool of dice that increases with your Ranger level. The Threadling Die table below shows the size and number of dice you have available.
 
 ##### Threadling Die Table
 
@@ -45,7 +45,7 @@ You command intangible constructs made of pure energy to assist you in battle. T
 
 Each feature that uses *Threadlings* expends these dice as specified in the feature's description. You cannot use a feature requiring *Threadling Dice* if all your dice are expended.
 
-***Regaining Threadling Dice.*** You regain one expended *Threadling Die* when you finish a **:rest-short: Short Rest**, and you regain all expended *Threadling Dice* after a **:rest-long: Long Rest**. Additionally, after you cast a [Mindspun Invocation] spell, you regain a number of *Threadling Die* equal to the expended spell slot.
+**Regaining Threadling Dice**  You regain one expended *Threadling Die* when you finish a **:rest-short: Short Rest**, and you regain all expended *Threadling Dice* after a **:rest-long: Long Rest**. Additionally, after you cast a [Mindspun Invocation] spell, you regain a number of *Threadling Die* equal to the expended spell slot.
 
 #### Threadling Die Uses
 

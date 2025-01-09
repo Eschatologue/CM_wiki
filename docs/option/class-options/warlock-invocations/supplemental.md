@@ -40,7 +40,7 @@ _**Prerequisite:** Level 2+ Warlock, a Warlock Cantrip That Deals Damage via an 
 
 Choose one of your known Warlock cantrips that requires an attack roll and has a range of 15+ feet. When you hit a Large or smaller creature with that cantrip, you can push the creature up to 10 feet straight torwards you.
 
-***Repeatable.*** You can gain this Invocation more than once. Each time you do so, choose a different eligible cantrip.
+**Repeatable**  You can gain this Invocation more than once. Each time you do so, choose a different eligible cantrip.
 
 ---
 
@@ -54,7 +54,7 @@ _**Prerequisite:** A Warlock Cantrip That Deals Damage_
 
 Choose one of your known Warlock cantrips that deals damage. When you hit a creature with that cantrip, you can reduce that creature's Speed by 10 feet until the end of your next turn. If you hit the creature more than once with the cantrip, the Speed reduction doesn't exceed 10 feet.
 
-***Repeatable.*** You can gain this Invocation more than once. Each time you do so, choose a different eligible cantrip.
+**Repeatable**  You can gain this Invocation more than once. Each time you do so, choose a different eligible cantrip.
 
 ---
 

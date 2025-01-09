@@ -31,9 +31,9 @@ Your patron bestows on you the ability to move between the boundaries of the pla
  
 In addition, whenever you cast that spell, you can choose one of the following additional effects.
 
-***Refreshing Step.*** Immediately after you teleport, one creature you can see within 10 feet of you gains 1d10 Temporary Hit Points.
+**Refreshing Step**  Immediately after you teleport, one creature you can see within 10 feet of you gains 1d10 Temporary Hit Points.
 
-***Taunting Step.*** Creatures within 5 feet of the space you left must succeed on a Wisdom saving throw against your spell save DC or have Disadvantage on attack rolls against creatures other than you until the start of your next turn.
+**Taunting Step**  Creatures within 5 feet of the space you left must succeed on a Wisdom saving throw against your spell save DC or have Disadvantage on attack rolls against creatures other than you until the start of your next turn.
 
 ### Level 6: Misty Escape
 
@@ -41,9 +41,9 @@ You can cast [:spell-lv2: Misty Step] as a **:rsc-r: Reaction**{ .rsc } in respo
 
 In addition, the following effects are now among your Steps of the Fey options.
 
-***Disappearing Step.*** You have the Invisible condition until the start of your next turn or until immediately after you make an attack roll or cast a spell.
+**Disappearing Step**  You have the Invisible condition until the start of your next turn or until immediately after you make an attack roll or cast a spell.
 
-***Dreadful Step.*** Creatures within 5 feet of the space you left or the space you appear in (your choice) must succeed on a Wisdom saving throw against your spell save DC or take 2d10 :dmg-psyc: Psychic damage.
+**Dreadful Step**  Creatures within 5 feet of the space you left or the space you appear in (your choice) must succeed on a Wisdom saving throw against your spell save DC or take 2d10 :dmg-psyc: Psychic damage.
 
 ### Level 10: Beguiling Defenses
 

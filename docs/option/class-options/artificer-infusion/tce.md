@@ -84,15 +84,15 @@ The homunculus regains 2d6 hit points if the [:spell-lv0: Mending](../../../spel
 
     #### Traits
 
-    ***Evasion.*** If the homunculus is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It can't use this trait if it's incapacitated.  
+    **Evasion**  If the homunculus is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It can't use this trait if it's incapacitated.  
 
     #### Actions (Requires Your Bonus Action)
 
-    ***Force Strike.*** *Ranged Weapon Attack:*  your spell attack modifier to hit, range 30 ft., one target you can see. *Hit:* 1d4 + PB force damage.  
+    **Force Strike**  *Ranged Weapon Attack:*  your spell attack modifier to hit, range 30 ft., one target you can see. *Hit:* 1d4 + PB force damage.  
 
     #### Reactions
 
-    ***Channel Magic.*** The homunculus delivers a spell you cast that has a range of touch. The homunculus must be within 120 feet of you.
+    **Channel Magic**  The homunculus delivers a spell you cast that has a range of touch. The homunculus must be within 120 feet of you.
 
 ---
 
@@ -264,9 +264,9 @@ _**Prerequisite:** Level 14+, **Item:** A suit of Armour (requires attunement)_
 
 The wearer of this armour gains these benefits:
 
-***Speed Increase.*** The wearer's **:rsc-spd: Speed**{ .em } increases by 5 feet.
+**Speed Increase**  The wearer's **:rsc-spd: Speed**{ .em } increases by 5 feet.
 
-***Power Gauntlet.*** The armour includes gauntlets, each of which is a melee weapon that can be wielded only when the hand is holding nothing. The wearer is proficient with the gauntlets. The Gauntlets has traits as described in the Power Gauntlet table.
+**Power Gauntlet**  The armour includes gauntlets, each of which is a melee weapon that can be wielded only when the hand is holding nothing. The wearer is proficient with the gauntlets. The Gauntlets has traits as described in the Power Gauntlet table.
 
 ##### Power Gauntlet
 
@@ -277,9 +277,9 @@ The wearer of this armour gains these benefits:
 | **Properties** | :weapon-prop-thrown: ^^Thrown (20/60)^^<br>When thrown, the gauntlet detaches and flies at the attack's target, then immediately returns to the wearer and reattaches. | 
 | **Mastery** | Push (you can use this property, and it doesn't count against the number of properties you can use with Weapon Mastery) |
 
-***Second Skin.*** The armour can't be removed against the wearer's will.
+**Second Skin**  The armour can't be removed against the wearer's will.
 
-***Prosthesis.*** If the wearer is missing any limbs, the armour replaces those limbs—hands, arms, feet, legs, or similar appendages. The replacements function identically to the body parts they replace.
+**Prosthesis**  If the wearer is missing any limbs, the armour replaces those limbs—hands, arms, feet, legs, or similar appendages. The replacements function identically to the body parts they replace.
 
 [:class-phb24-artificer: Returning Weapon]: #returning-weapon
 

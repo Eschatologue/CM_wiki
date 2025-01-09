@@ -37,7 +37,7 @@ In addition, you no longer need to forgo any Sneak Attack dice in order to use t
 
 You excel at leading ambushes and acting first in a fight. You have Advantage on Initiative rolls. In addition, the following effect is now among your [Cunning Strike] options.
 
-***Ambush Strike (Cost: 1d6).*** All attack rolls made against the target have Advantage until the start of your next turn. You can only use this option during the first round of a combat. 
+**Ambush Strike (Cost: 1d6)**  All attack rolls made against the target have Advantage until the start of your next turn. You can only use this option during the first round of a combat. 
 
 ### Level 17: Sudden Strike
 

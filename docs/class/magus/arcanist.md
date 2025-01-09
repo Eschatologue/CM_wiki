@@ -25,13 +25,13 @@ Also, the maximum number of objects you can have as part of your Arcane Armoury 
 
 Unlike other Magi who memorize spells for use in battle, you maintain a spellbook from which you can prepare spells:
 
-***Spellbook.*** You gain a Spellbook that contains a number of spells of your choice equal to your number of Spells Known, which replace your current Spells Known. You choose these new spells from the [Magus] or [Wizard] spell list, but they must be of a level that you have the spell slots for as shown on the Magus table. Your Arcane Spellbook is a Tiny item that can be enchanted as part of your Arcane Armoury.
+**Spellbook**  You gain a Spellbook that contains a number of spells of your choice equal to your number of Spells Known, which replace your current Spells Known. You choose these new spells from the [Magus] or [Wizard] spell list, but they must be of a level that you have the spell slots for as shown on the Magus table. Your Arcane Spellbook is a Tiny item that can be enchanted as part of your Arcane Armoury.
 
-***Preparing Spells.***  When you finish a **:rest-long: Long Rest**, you can spend 1 hour preparing your spells for the day. You prepare a number of spells from your Spellbook equal to half your level + your Intelligence modifier + your proficiency bonus. These are the only spells you can cast until you prepare other spells, and while prepared they count as Magus spells for you.
+**Preparing Spells**   When you finish a **:rest-long: Long Rest**, you can spend 1 hour preparing your spells for the day. You prepare a number of spells from your Spellbook equal to half your level + your Intelligence modifier + your proficiency bonus. These are the only spells you can cast until you prepare other spells, and while prepared they count as Magus spells for you.
 
-***Ritual Casting.*** You can cast the ritual version of any spell in your Spellbook even if you do not have the spell prepared.
+**Ritual Casting**  You can cast the ritual version of any spell in your Spellbook even if you do not have the spell prepared.
 
-***Learning New Spells.*** Whenever you gain a Magus level, you add another Magus or Wizard spell of your choice to your Spellbook. It must be of a level for which you have spell slots.
+**Learning New Spells**  Whenever you gain a Magus level, you add another Magus or Wizard spell of your choice to your Spellbook. It must be of a level for which you have spell slots.
 
 You can also copy any Magus or Wizard spell from a spell scroll or Spellbook into your Aracane Spellbook by spending 1 hour and 100 SP for rare inks, per spell level, so long as the spell is of a level for which you have spell slots.
 

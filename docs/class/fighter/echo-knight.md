@@ -48,8 +48,8 @@ You've learned to absorb the fleeting magic of your echo. When an echo of yours 
 
 Your summoning powers have grown more potent.
 
-***Endless Echoes.*** When you roll Initiative and are missing any uses of your Unleash Incarnation feature, you regain one use of it.
+**Endless Echoes**  When you roll Initiative and are missing any uses of your Unleash Incarnation feature, you regain one use of it.
 
-***Double Up.*** You can use a **:rsc-b: Bonus Action**{ .rsc } to create two echos with your Manifest Echo feature, and these echoes can co-exist. If you try to create a third echo, the previous two echoes are destroyed. Anything you can do from one echo's position can be done from the other's instead.
+**Double Up**  You can use a **:rsc-b: Bonus Action**{ .rsc } to create two echos with your Manifest Echo feature, and these echoes can co-exist. If you try to create a third echo, the previous two echoes are destroyed. Anything you can do from one echo's position can be done from the other's instead.
 
 ###### :material-book-arrow-up: Updated by *PerfectlyCircularSeal* 

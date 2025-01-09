@@ -19,9 +19,9 @@ Your special martial arts training leads you to master the use more weapons. You
 
 You also gain additional benefits using your Monk Weapons:
 
-***Masterful Aim.*** When you take the Attack action with a Monk Weapon you can imbue your soul into the weapon to increase its accuracy. Until the start of your next turn, you can treat a d20 roll of 7 or lower as 8. **Enhance.** You can spend 1 :class-phb24-monk: **Focus Point** to instead treat a d20 roll of 9 or lower as 10.
+**Masterful Aim**  When you take the Attack action with a Monk Weapon you can imbue your soul into the weapon to increase its accuracy. Until the start of your next turn, you can treat a d20 roll of 7 or lower as 8. **Enhance.** You can spend 1 :class-phb24-monk: **Focus Point** to instead treat a d20 roll of 9 or lower as 10.
 
-***Masterful Parry.*** While you are wielding a Melee Monk Weapon and a creature you can see hits you with a melee attack, you can take a **:rsc-r: Reaction**{ .rsc } to add your Wisdom modifier (minimum of +1) to your Armour Class against that attack. **Counter.** If the Attack misses, you can spend 1 :class-phb24-monk: **Focus Point** to make a Melee attack against the creature that attacks you as part of the same Reaction.
+**Masterful Parry**  While you are wielding a Melee Monk Weapon and a creature you can see hits you with a melee attack, you can take a **:rsc-r: Reaction**{ .rsc } to add your Wisdom modifier (minimum of +1) to your Armour Class against that attack. **Counter.** If the Attack misses, you can spend 1 :class-phb24-monk: **Focus Point** to make a Melee attack against the creature that attacks you as part of the same Reaction.
 
 ### Level 3: Wuxia's Artistry 
 
@@ -31,11 +31,11 @@ You gain a set of Calligrapher's Supplies and a set of Painter's Supplies. You h
 
 Your focus empowers your Monk Weapons, granting you the following benefits.
 
-***Deft Strike.*** Once per turn, when you hit a creature with a Monk Weapon, you can spend 1 :class-phb24-monk: **Focus Point** to deal additional damage equal to a roll of your Martial Arts die.
+**Deft Strike**  Once per turn, when you hit a creature with a Monk Weapon, you can spend 1 :class-phb24-monk: **Focus Point** to deal additional damage equal to a roll of your Martial Arts die.
 
-***Magic Monk Weapons.*** When you attack with a Monk Weapon, you can choose to deal the weapon's damage type or :dmg-force: Force damage.
+**Magic Monk Weapons**  When you attack with a Monk Weapon, you can choose to deal the weapon's damage type or :dmg-force: Force damage.
 
-***Rapid Strikes.*** When you use [Flurry of Blows](index.md#flurry-of-blows), you can replace your Unarmed Strike with melee Monk Weapon attacks.
+**Rapid Strikes**  When you use [Flurry of Blows](index.md#flurry-of-blows), you can replace your Unarmed Strike with melee Monk Weapon attacks.
 
 ### Level 11: Soul of the Blade
 

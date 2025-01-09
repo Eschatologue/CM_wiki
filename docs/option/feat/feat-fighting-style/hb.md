@@ -26,9 +26,9 @@ When you make an attack with a Cold weapon that has :weapon-prop-heavy: ^^Heavy^
 
 You have studied combat techniques that allow you to perform Combat Manoeuvre.
 
-***Combat Manoeuvre.*** You learn two [Manoeuvre](../../class-options/fighter-manoeuvre.md) of your choice from among those available to the Battle Master archetype. If a manoeuvre forces a saving throw, the DC equals to 8 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice). Each time you gain a level you can replace a Manoeuvre you know with another Manoeuvre of your choice.
+**Combat Manoeuvre**  You learn two [Manoeuvre](../../class-options/fighter-manoeuvre.md) of your choice from among those available to the Battle Master archetype. If a manoeuvre forces a saving throw, the DC equals to 8 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice). Each time you gain a level you can replace a Manoeuvre you know with another Manoeuvre of your choice.
 
-***Three Superiority Die.*** You gain three :die-d4: d4 Superiority Die. This die is used to fuel your manoeuvres. A Superiority Die is expended when you use it. You regain your expended Superiority Dice when you finish a **:rest-short: Short Rest** or Long Rest.
+**Three Superiority Die**  You gain three :die-d4: d4 Superiority Die. This die is used to fuel your manoeuvres. A Superiority Die is expended when you use it. You regain your expended Superiority Dice when you finish a **:rest-short: Short Rest** or Long Rest.
 
 If you already have a pool of Superiority Dice, these dice are added to that pool. Their size matches the largest die in your pool, increasing to match if you have a feature that improves your Superiority Dice.
 
@@ -51,11 +51,11 @@ You gain training with all Shields and it can be used as a weapon while wielding
 
 You specialise one weapon rather than many. Choose one Weapon that you are Proficient with to be your Signature Weapon. When you make an attack with that type of weapon, you gain the following benefit, you can change your Signature Weapon when you gain a level:
 
-***Damage Die Increase.*** The weapon's damage die that is in the Original Damage Die column changes to the die in the Signature Damage Die column.
+**Damage Die Increase**  The weapon's damage die that is in the Original Damage Die column changes to the die in the Signature Damage Die column.
 
-***Improved Attack Roll.*** When you make a weapon attack with the weapon, you can treat a roll equal to your Proficiency Bonus or lower on the d20 as your Proficiency Bonus.
+**Improved Attack Roll**  When you make a weapon attack with the weapon, you can treat a roll equal to your Proficiency Bonus or lower on the d20 as your Proficiency Bonus.
 
-***Mastery Property.*** You can use the weapon Mastery property even if you don't have the class feature to do so. If you have a class feature that allows you to use it, the weapon can benefit from one additional eligible Mastery properties of your choice. (e.g, a Longsword can have both the Vex and Flex property)
+**Mastery Property**  You can use the weapon Mastery property even if you don't have the class feature to do so. If you have a class feature that allows you to use it, the weapon can benefit from one additional eligible Mastery properties of your choice. (e.g, a Longsword can have both the Vex and Flex property)
 
 ##### Signature Weapon Die
 

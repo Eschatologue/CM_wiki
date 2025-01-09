@@ -16,13 +16,13 @@ Bards of the College of Dance know that the Words of Creation can't be contained
 
 While you aren't wearing armour or wielding a Shield, you gain the following benefits:
 
-***Dance Virtuoso.*** You have **:d20-adv: Advantage**{ .d20 } on any Charisma (Perfomance) check you make that involves dancing.
+**Dance Virtuoso**  You have **:d20-adv: Advantage**{ .d20 } on any Charisma (Perfomance) check you make that involves dancing.
 
-***Unarmoured Defense.*** Your base Armour Class equals 10 + your Dexterity modifier + your Charisma modifier.
+**Unarmoured Defense**  Your base Armour Class equals 10 + your Dexterity modifier + your Charisma modifier.
 
-***Agile Strikes.*** When you expend a use of your Bardic Inspiration as part of an action, a **:rsc-b: Bonus Action**{ .rsc }, or a **:rsc-r: Reaction**{ .rsc }, you can make one Unarmed Strike as part of that action, Bonus Action, or Reaction.
+**Agile Strikes**  When you expend a use of your Bardic Inspiration as part of an action, a **:rsc-b: Bonus Action**{ .rsc }, or a **:rsc-r: Reaction**{ .rsc }, you can make one Unarmed Strike as part of that action, Bonus Action, or Reaction.
  
-***Bardic Damage.*** You can use Dexterity instead of Strength for the attack rolls of your Unarmed Strikes. When you deal damage with an Unarmed Strike, you can deal Bludgeoning damage equal to a roll of your Bardic Inspiration die plus your Dexterity modifier. This roll doesn't expend the die.
+**Bardic Damage**  You can use Dexterity instead of Strength for the attack rolls of your Unarmed Strikes. When you deal damage with an Unarmed Strike, you can deal Bludgeoning damage equal to a roll of your Bardic Inspiration die plus your Dexterity modifier. This roll doesn't expend the die.
 
 ### Level 6: Inspiring Movement
 

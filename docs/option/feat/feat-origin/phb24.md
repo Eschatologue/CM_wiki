@@ -128,7 +128,7 @@ You've trained to deal particularly damaging strikes. Once per turn when you hit
 
 You gain proficiency in any combination of three skills or tools of your choice.
 
-***Repeatable.*** You can take this feat more than once.
+**Repeatable**  You can take this feat more than once.
 
 ---
 

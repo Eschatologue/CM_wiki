@@ -16,9 +16,9 @@ Barbarians who follow the Path of the World Tree believe that their **:class-abl
 
 Your **:class-abl-rage: Rage**{ .em } taps into the lifeforce of the World Tree. You gain the following benefits: 
 
-***Vitality Surge.*** When you activate your **:class-abl-rage: Rage**{ .em }, you gain a number of Temporary Hit Points equal to your Barbarian level. 
+**Vitality Surge**  When you activate your **:class-abl-rage: Rage**{ .em }, you gain a number of Temporary Hit Points equal to your Barbarian level. 
 
-***Life-Giving Force.*** At the start of each of your turns while your **:class-abl-rage: Rage**{ .em } is active, you can choose another creature within 10 feet of yourself to gain Temporary Hit Points. To determine the number of Temporary Hit Points, roll a number of d6s equal to your **:class-abl-rage: Rage**{ .em } Damage bonus, and add them together. If any of these Temporary Hit Points remain when your **:class-abl-rage: Rage**{ .em } ends, they vanish. 
+**Life-Giving Force**  At the start of each of your turns while your **:class-abl-rage: Rage**{ .em } is active, you can choose another creature within 10 feet of yourself to gain Temporary Hit Points. To determine the number of Temporary Hit Points, roll a number of d6s equal to your **:class-abl-rage: Rage**{ .em } Damage bonus, and add them together. If any of these Temporary Hit Points remain when your **:class-abl-rage: Rage**{ .em } ends, they vanish. 
 
 ### Level 6: Branches of the Tree
 

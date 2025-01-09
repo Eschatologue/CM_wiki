@@ -14,15 +14,15 @@ status: homebrew
 
 The Firearm tables in this section shows the game's main weapons. These table lists the cost and weight of each weapon, as well as the following details:
 
-***Category.*** Every weapon falls into a category: Short-Arm, Long-Arm, Advanced. Weapon proficiencies are usually tied to one of these categories. For example, you might have proficiency with Simple weapons.
+**Category**  Every weapon falls into a category: Short-Arm, Long-Arm, Advanced. Weapon proficiencies are usually tied to one of these categories. For example, you might have proficiency with Simple weapons.
 
-***Damage.*** The table lists the amount of damage a weapon deals when an attacker hits with it as well as the type of that damage.
+**Damage**  The table lists the amount of damage a weapon deals when an attacker hits with it as well as the type of that damage.
 
-***Properties.*** Any properties a weapon has are listed in the Properties column. Each property is defined in the [Properties](index.md#weapon-properties) section.
+**Properties**  Any properties a weapon has are listed in the Properties column. Each property is defined in the [Properties](index.md#weapon-properties) section.
 
-***Category.*** Firearms are considered Ranged weapons for the purposes of effects, abilities, feats, and spells that refer to weapons unless a restriction or limitation explicitly prevents their use. If an ability or spell refers to "ranged weapons" or simply "weapons," firearms are included unless stated otherwise.
+**Category**  Firearms are considered Ranged weapons for the purposes of effects, abilities, feats, and spells that refer to weapons unless a restriction or limitation explicitly prevents their use. If an ability or spell refers to "ranged weapons" or simply "weapons," firearms are included unless stated otherwise.
 
-***Mastery.*** Each weapon has a mastery property, which is defined in the [Mastery Properties](mastery.md) section. To use or replace that property, you must have a feature that lets you use it.
+**Mastery**  Each weapon has a mastery property, which is defined in the [Mastery Properties](mastery.md) section. To use or replace that property, you must have a feature that lets you use it.
 
 ### Short-Arm
 

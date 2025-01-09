@@ -34,9 +34,9 @@ You have Darkvision with a range of 60 feet.
 
 You gain the following benefits.
 
-***Charmed Resistance.*** You have **:d20-adv: Advantage**{ .d20 } on saving throws you make to avoid or end the ^^Charmed^^ condition.
+**Charmed Resistance**  You have **:d20-adv: Advantage**{ .d20 } on saving throws you make to avoid or end the ^^Charmed^^ condition.
 
-***Trance.*** You don't need to sleep, and magic can't put you to sleep. You can finish a **:rest-long: Long Rest** in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
+**Trance**  You don't need to sleep, and magic can't put you to sleep. You can finish a **:rest-long: Long Rest** in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
 
 #### Keen Senses (1)
 

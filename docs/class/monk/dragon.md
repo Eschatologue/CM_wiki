@@ -17,11 +17,11 @@ The fundamental teaching of this tradition holds that by emulating dragons, a mo
 
 You can channel draconic power to magnify your presence and imbue your unarmed strikes with the essence of a dragon's breath. You gain the following benefits:
 
-***Draconic Presence.*** If you fail an Intimidation or Persuasion check, you can use your **:rsc-r: Reaction**{ .rsc } to reroll the check and add a roll of your Martial Arts die to the result, as you tap into the mighty presence of dragons. Once this feature turns a failure into a success, you can't use it again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
+**Draconic Presence**  If you fail an Intimidation or Persuasion check, you can use your **:rsc-r: Reaction**{ .rsc } to reroll the check and add a roll of your Martial Arts die to the result, as you tap into the mighty presence of dragons. Once this feature turns a failure into a success, you can't use it again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
-***Draconic Strike.*** When you make an attack with a Monk weapon or an Unarmed Strike, you can change the damage type to :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-lgtn: Lightning, or :dmg-posn: Poison.
+**Draconic Strike**  When you make an attack with a Monk weapon or an Unarmed Strike, you can change the damage type to :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-lgtn: Lightning, or :dmg-posn: Poison.
 
-***Tongue of Dragons.*** You learn to speak, read, and write Draconic or one other language of your choice.
+**Tongue of Dragons**  You learn to speak, read, and write Draconic or one other language of your choice.
 
 ### Level 3: Breath of the Dragon
 
@@ -41,7 +41,7 @@ When you use your Step of the Wind, you can unfurl spectral draconic wings from 
 
 As a **:rsc-b: Bonus Action**{ .rsc }, you can create an Emanation of draconic power that radiates 10 feet from you for 1 minute. For the duration, you gain one of the following effects of your choice:
 
-***Frightful Presence.*** When you create the Emanation and as a **:rsc-b: Bonus Action**{ .rsc } on subsequent turns, you can choose a creature within the Emanation. The target must succeed on a Wisdom save against your Focus save DC or have the Frightened condition for 1 minute. The target can repeat its saving throw at the end of each of its turns, ending the effect on itself on a successful save.
+**Frightful Presence**  When you create the Emanation and as a **:rsc-b: Bonus Action**{ .rsc } on subsequent turns, you can choose a creature within the Emanation. The target must succeed on a Wisdom save against your Focus save DC or have the Frightened condition for 1 minute. The target can repeat its saving throw at the end of each of its turns, ending the effect on itself on a successful save.
 
 ***Resistance***. Choose a damage type when you activate the Emanation: :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-lgtn: Lightning, or :dmg-posn: Poison. You and your allies within the Emanation have **:dmg-res: Resistance**{ .em } to that damage type.
 
@@ -51,10 +51,10 @@ Once you create the Emanation, you can't create it again until you finish a **:r
 
 Your draconic spirit reaches its peak. You gain the following benefits:
 
-***Augment Breath.*** When you use your Breath of the Dragon, you can spend 1 :class-phb24-monk: **Focus Point** to augment its shape and power. The exhalation of draconic energy becomes either a 60 ft. :aoe-cone: Cone or a 90 ft. by 5 ft. :aoe-line: Line (your choice), and each creature in that area takes damage equal to four rolls of your Martial Arts die on a failed save, or half as much damage on a successful one.
+**Augment Breath**  When you use your Breath of the Dragon, you can spend 1 :class-phb24-monk: **Focus Point** to augment its shape and power. The exhalation of draconic energy becomes either a 60 ft. :aoe-cone: Cone or a 90 ft. by 5 ft. :aoe-line: Line (your choice), and each creature in that area takes damage equal to four rolls of your Martial Arts die on a failed save, or half as much damage on a successful one.
 
-***Blindsight.*** You have Blindsight with a range of 30 feet.
+**Blindsight**  You have Blindsight with a range of 30 feet.
 
-***Explosive Fury.*** When you activate your Aspect of the Wyrm, draconic fury explodes from you. Choose any number of creatures you can see in your Emanation. Each of those creatures must succeed on a Dexterity save against your Focus save DC or take 3d10 :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-lgtn: Lightning, or :dmg-posn: Poison damage (your choice).
+**Explosive Fury**  When you activate your Aspect of the Wyrm, draconic fury explodes from you. Choose any number of creatures you can see in your Emanation. Each of those creatures must succeed on a Dexterity save against your Focus save DC or take 3d10 :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-lgtn: Lightning, or :dmg-posn: Poison damage (your choice).
 
 ###### :material-book-arrow-up: Updated by *PerfectlyCircularSeal*

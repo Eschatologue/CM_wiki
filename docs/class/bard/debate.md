@@ -17,9 +17,9 @@ Bards of the College of Debate view rhetoric as a weapon. They don't merely pers
 
 Your sharp retorts can disrupt and unnerve your opponents in the heat of battle. You gain the following benefits:
 
-***Debate Cantrip.*** You have the *True Strike* and *Vicious Mockery* cantrips always prepared. You can choose to change their damage type to :dmg-psyc: Psychic damage whenever you cast them.
+**Debate Cantrip**  You have the *True Strike* and *Vicious Mockery* cantrips always prepared. You can choose to change their damage type to :dmg-psyc: Psychic damage whenever you cast them.
 
-***Seething Words.*** When you deal :dmg-psyc: Psychic damage from a spell or class feature, it ignores **:dmg-res: Resistance**{ .em }. Creature that are immune to :dmg-psyc: Psychic damage still takes half damage. 
+**Seething Words**  When you deal :dmg-psyc: Psychic damage from a spell or class feature, it ignores **:dmg-res: Resistance**{ .em }. Creature that are immune to :dmg-psyc: Psychic damage still takes half damage. 
 
 ### Level 3: Engaging Discourse
 
@@ -41,10 +41,10 @@ Targets that are under the effect of ^^Engaging Discourse^^ is also under the ef
 
 Your mind has become a bastion of reason and self-rightousness, giving you the following benefits:
 
-***Resistance.*** You have **:dmg-res: Resistance**{ .em } to :dmg-psyc: Psychic damage.
+**Resistance**  You have **:dmg-res: Resistance**{ .em } to :dmg-psyc: Psychic damage.
 
-***Saving Throw Bonus.*** You gain bonus to your Intelligence and Wisdom saving throw equals to your Charisma modifier.
+**Saving Throw Bonus**  You gain bonus to your Intelligence and Wisdom saving throw equals to your Charisma modifier.
 
-***Psychic Retort.*** When you cast a spell that deals :dmg-psyc: Psychic damage, it deals extra damage equals to your Charisma modifier.
+**Psychic Retort**  When you cast a spell that deals :dmg-psyc: Psychic damage, it deals extra damage equals to your Charisma modifier.
 
 ###### :material-book-edit: Written by *Eschatologue*

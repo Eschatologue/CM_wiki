@@ -19,9 +19,9 @@ You gain the ability to channel divine energy directly from your god, and can us
 
 You can use Channel Divinity once. You regain one expended use when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**. You gain additional uses when you reach certain Rogue levels, as shown in the Channel Divinity column of the [Justiciar Spellcasting table].
 
-***Divine Sense.*** As a **:rsc-b: Bonus Action**{ .rsc }, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the Incapacitated condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [:spell-lv5: Hallow] spell.
+**Divine Sense**  As a **:rsc-b: Bonus Action**{ .rsc }, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the Incapacitated condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [:spell-lv5: Hallow] spell.
 
-***Shroud of Faith.*** As an :rsc-b: Bonus action, you grip your holy symbol and invoke the protection of your god. You have the ^^Invisible^^ condition for 1 minute. This effect ends early if you attack or cast a spell.
+**Shroud of Faith**  As an :rsc-b: Bonus action, you grip your holy symbol and invoke the protection of your god. You have the ^^Invisible^^ condition for 1 minute. This effect ends early if you attack or cast a spell.
 
 ### Level 3: Spellcasting
 
@@ -82,9 +82,9 @@ You can use a Holy Symbol as a Spellcasting Focus for the spells you prepare for
 
 You and your weapons are blessed by the heavens to smite heretics and blasphemers, giving you the following benefits:
 
-***Bonus Proficiency.*** You gain proficiency with the Religion skill. Whenever you would make an Intelligence (Religion) check, you can choose to make a Charisma (Religion) check instead.
+**Bonus Proficiency**  You gain proficiency with the Religion skill. Whenever you would make an Intelligence (Religion) check, you can choose to make a Charisma (Religion) check instead.
 
-***Concecrated Weapons.*** As part of a **:rest-short: Short** or **:rest-long: Long Rest**, you can perform a ritual and touch a weapon that you are proficient with to Consecrate it. This Consecrated weapon becomes a Holy Symbol and can be used as a spellcasting focus for your Cleric spells. You can also add your Sneak Attack bonus to attacks with it even if it does not have the :weapon-prop-finesse: Finesse property. However, all other rules of for Sneak Attack bonus still apply. You can have only one Consecrated weapon at a time.
+**Concecrated Weapons**  As part of a **:rest-short: Short** or **:rest-long: Long Rest**, you can perform a ritual and touch a weapon that you are proficient with to Consecrate it. This Consecrated weapon becomes a Holy Symbol and can be used as a spellcasting focus for your Cleric spells. You can also add your Sneak Attack bonus to attacks with it even if it does not have the :weapon-prop-finesse: Finesse property. However, all other rules of for Sneak Attack bonus still apply. You can have only one Consecrated weapon at a time.
 
 ### Level 9: Wrathful Strikes
 

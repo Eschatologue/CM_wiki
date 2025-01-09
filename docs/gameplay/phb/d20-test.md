@@ -16,9 +16,9 @@ They follow these steps:
 
 2. **Add Modifiers.** Add these modifiers to the number rolled on the d20:
 
-    - ***The Relevant Ability Modifier.*** This chapter and the rules glossary explain which ability modifiers to use for various D20 Tests.
-    - ***Your Proficiency Bonus If Relevant.*** Each creature has a Proficiency Bonys, a number added when making a D20 Test that uses something such as a skill, in which the creature has prodiciency.
-    - ***Circumstantial Bonuses and Penalties.*** A class feature, a spell, or another rule might give a bonus or penalty to the die roll.
+    - **The Relevant Ability Modifier**  This chapter and the rules glossary explain which ability modifiers to use for various D20 Tests.
+    - **Your Proficiency Bonus If Relevant**  Each creature has a Proficiency Bonys, a number added when making a D20 Test that uses something such as a skill, in which the creature has prodiciency.
+    - **Circumstantial Bonuses and Penalties**  A class feature, a spell, or another rule might give a bonus or penalty to the die roll.
 
 3. **Compare the Total to a Target Number.** If the total of the d20 and its modifiers **equals** or **exceeds** the target humber, the D20 Test succeeds. Otherwise, it fails. The Dungeon Master determines the target number and tells players whenever their roll are successfull. The target number for an Ability Check or a Saving Throw is called a Difficulty Class (Dc). The number for an Attack Roll is called an Armour Class (AC), which appears on a character sheet or in a stat block.
 
@@ -126,7 +126,7 @@ A Creature's Armour Class represents how will the creature avoids wounded in com
 
 #### Calculating AC
 
-***Calculating AC.*** All creatures start with the same base AC calculation:
+**Calculating AC**  All creatures start with the same base AC calculation:
 
 **Base AC** = 10 + the creature's Dexterity modifier.
 

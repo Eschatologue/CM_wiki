@@ -32,9 +32,9 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 When you make your pact with the Archmage, you gain the following benefits:
 
-***Knowledge of the Weave.*** Choose one of the following skills: Arcana, History, Investigation, Nature, or Religion. You can use your Charisma instead of Intelligence for ability checks with the chosen skill.
+**Knowledge of the Weave**  Choose one of the following skills: Arcana, History, Investigation, Nature, or Religion. You can use your Charisma instead of Intelligence for ability checks with the chosen skill.
 
-***Bonus Cantrip.*** You learn one cantrip of your choice from the Wizard spell list.
+**Bonus Cantrip**  You learn one cantrip of your choice from the Wizard spell list.
 
 ### Level 6: Astral Slip
 
@@ -46,17 +46,17 @@ Once you use this **:rsc-r: Reaction**{ .rsc } to evade an attack, you must fini
 
 Your patron grants you enhanced insight into the theories of arcane magic. You gain the following benefits:
 
-***Rapid Preparation.*** Each time you finish a **:rest-long: Long Rest** you can replace one Warlock spell you know of with another Warlock spell of your choice.
+**Rapid Preparation**  Each time you finish a **:rest-long: Long Rest** you can replace one Warlock spell you know of with another Warlock spell of your choice.
 
-***Expanded Spell List.*** Each time you gain a Warlock level, you can replace one Warlock spell you know of with one spell from the Wizard spell list.
+**Expanded Spell List**  Each time you gain a Warlock level, you can replace one Warlock spell you know of with one spell from the Wizard spell list.
 
 ### Level 10: Magical Ward
 
 Your understanding of the arcane allows you to resist magical effects, giving you the following benefit:
 
-***Resistance.*** You gain Resistance to :dmg-force: Force damage.
+**Resistance**  You gain Resistance to :dmg-force: Force damage.
 
-***Change Save.*** WWhen you are forced to make a saving throw to resist a magical effect or a spell, you can make a Charisma saving throw instead of the normal save. You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
+**Change Save**  WWhen you are forced to make a saving throw to resist a magical effect or a spell, you can make a Charisma saving throw instead of the normal save. You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 ### Level 14: Improved Arcanum
 

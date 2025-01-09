@@ -19,25 +19,25 @@ As the name suggests, firearm Augmentations are available only to firearms that 
 
 ### Tools and Proficiency
 
-***Gunsmith's Tools.*** You must have a Gunsmith's Tools to modify firearms. Your Gunsmith's Tool acts as a storage for your Augmentation
+**Gunsmith's Tools**  You must have a Gunsmith's Tools to modify firearms. Your Gunsmith's Tool acts as a storage for your Augmentation
 
-***Proficiency.*** You must be proficient with both the firearm you wish to Augment and Gunsmith's Tools.
+**Proficiency**  You must be proficient with both the firearm you wish to Augment and Gunsmith's Tools.
 
 ### Time Requirements
 
-***Creating an Augmentation.*** Creating a new Augmentation follows the rulings in [Equipment Crafting](../crafting.md#time).
+**Creating an Augmentation**  Creating a new Augmentation follows the rulings in [Equipment Crafting](../crafting.md#time).
 
-***Changing an Augmentation.*** Attatching or changing any number of Augmentation on a firearm requires a **:rest-long: Long Rest**, unless you have Expertise with Gunsmith's Tools, in which case it takes a **:rest-short: Short Rest**.
+**Changing an Augmentation**  Attatching or changing any number of Augmentation on a firearm requires a **:rest-long: Long Rest**, unless you have Expertise with Gunsmith's Tools, in which case it takes a **:rest-short: Short Rest**.
 
 ### Cost
 
-***Material Costs.*** The cost of an Augmentation represents its base purchase price.
+**Material Costs**  The cost of an Augmentation represents its base purchase price.
 
 :   Once you have crafted or bought an Augmentation for a particular firearm category, you can reuse that same Augmentation for other firearms of the same category without additional cost.
 
 ### Stackable
 
-***Stacking Benefits.***  If an Augmentation is marked as "stackable," you can apply two or more of the same Augmentation to a single firearm, and their benefits will stack.
+**Stacking Benefits**   If an Augmentation is marked as "stackable," you can apply two or more of the same Augmentation to a single firearm, and their benefits will stack.
 
 :   Keep in mind that stackable Augmentations can change the parameters of specific weapon properties, such as  :weapon-prop-reload: **Reload** or  :weapon-prop-automatic: **Automatic**, allowing those properties to function more effectively.
 

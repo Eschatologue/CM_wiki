@@ -17,9 +17,9 @@ What does it mean to be truly natural? Can a being made of wood and steel posses
 
 You have attuned yourself to both nature and the spirits that presides inside machines, granting you the following benefits:
 
-***Mending.*** You know the [:spell-lv-0: Mending] cantrip. While in your Wild Shape form, when a [:spell-lv-0: Mending] cantrip is cast on you, you restore Hit Points equal to 1d6 + the caster's spellcasting ability. Your own body becomes the Material component for this purpose. You can cast this cantrip at yourself even while in Wild Shape form. 
+**Mending**  You know the [:spell-lv-0: Mending] cantrip. While in your Wild Shape form, when a [:spell-lv-0: Mending] cantrip is cast on you, you restore Hit Points equal to 1d6 + the caster's spellcasting ability. Your own body becomes the Material component for this purpose. You can cast this cantrip at yourself even while in Wild Shape form. 
 
-***Proficiency.*** You gain proficiency with Tinker's Tool or Smith's Tool, and one type of Artisan's Tools of your choice. You can use your Wisdom when you make ability checks using those tools.
+**Proficiency**  You gain proficiency with Tinker's Tool or Smith's Tool, and one type of Artisan's Tools of your choice. You can use your Wisdom when you make ability checks using those tools.
 
 ### Level 3: Skin of Steel  
 
@@ -27,13 +27,13 @@ Through the fusion of ancient druidic techniques and advanced technology, you en
 
 You gain the benefit of the [Circle Forms](moon.md#level-3-circle-forms) feature granted by Level 3 Moon Druid subclass, in addition of the following benefits:
 
-***Creature Type.*** While in your Wild Shape, you're also considered a Construct in addition of the type of the creature you turn into. 
+**Creature Type**  While in your Wild Shape, you're also considered a Construct in addition of the type of the creature you turn into. 
 
-***Resistance.*** You have Advantage on saves to gain and end the Poisoned condition, and you gain Resistance to Poison damage.
+**Resistance**  You have Advantage on saves to gain and end the Poisoned condition, and you gain Resistance to Poison damage.
 
-***Machine Body.*** While transformed, you do not need to eat, drink, or breathe.
+**Machine Body**  While transformed, you do not need to eat, drink, or breathe.
 
-***Immunities.*** You have Immunity to be put to sleep by magical means.
+**Immunities**  You have Immunity to be put to sleep by magical means.
 
 While in your Wild Shape form, your body is visibly artificial, with muscles replaced by root-like tendrils and reinforced by metallic plates. It is clear to an observer that you are not a normal animal, but a unique blend of life and machine.
 

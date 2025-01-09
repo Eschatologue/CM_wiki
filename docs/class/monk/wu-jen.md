@@ -31,9 +31,9 @@ The Wu Jen Features table shows how many spell slots you have to cast your Wu Je
 
 You can draw upon your Ki to augment and regain your elemental powers. 
 
-***Changing Cantrip.*** As a **:rsc-b: Bonus Action**{ .rsc } you can expend 1 :class-phb24-monk: **Focus Points** to replace one of this feature's cantrips with another cantrip of your choice from the Wu Jen spell list.
+**Changing Cantrip**  As a **:rsc-b: Bonus Action**{ .rsc } you can expend 1 :class-phb24-monk: **Focus Points** to replace one of this feature's cantrips with another cantrip of your choice from the Wu Jen spell list.
 
-***Restoring Spell Slots.*** As a **:rsc-b: Bonus Action**{ .rsc } on your turn, you can expend a number of :class-phb24-monk: **Focus Points** equal to your Spell Slot Level to regain one of your expended Wu Jen spell slots.
+**Restoring Spell Slots**  As a **:rsc-b: Bonus Action**{ .rsc } on your turn, you can expend a number of :class-phb24-monk: **Focus Points** equal to your Spell Slot Level to regain one of your expended Wu Jen spell slots.
 
 ##### Wu Jen Spellcasting
 
@@ -87,9 +87,9 @@ When you do, your reach for that attack increases by 5 feet, and on hit, it deal
 
 When you hit your target with an attack using this feature, you can spend 1 :class-phb24-monk: **Focus Point** to choose one of the following effects:
 
-***Forced Movement.*** You can move it 5 feet to an unoccupied space, provided the target is no more than one size larger than you.
+**Forced Movement**  You can move it 5 feet to an unoccupied space, provided the target is no more than one size larger than you.
 
-***Teleport.*** You instantly teleport to an unoccupied space you can see within 5 feet of your target.
+**Teleport**  You instantly teleport to an unoccupied space you can see within 5 feet of your target.
 
 [Unarmed Strike]: ../../gameplay/phb/action.md#unarmed-strike
 
@@ -103,13 +103,13 @@ Moreover, when you start your turn and are Concentrating on a spell that you cas
 
 As a **:rsc-b: Bonus Action**{ .rsc }, you can draw all five elements into yourself to take on an Elemental Form. You gain the following benefits:
 
-***Fly Speed.*** You gain Fly Speed equals to your Speed.
+**Fly Speed**  You gain Fly Speed equals to your Speed.
 
-***Rapid Strikes.*** When you attack with a Monk Weapon or Unarmed Strike, you can make two additional Monk Weapon or Unarmed Strikes attacks as part of that attack action (for a total of four attacks).
+**Rapid Strikes**  When you attack with a Monk Weapon or Unarmed Strike, you can make two additional Monk Weapon or Unarmed Strikes attacks as part of that attack action (for a total of four attacks).
 
-***Temporary Hit Points.*** Whenever you cast a Wu Jen spell you gain Temporary Hit Points equal to twice the level of the spell slot expended.
+**Temporary Hit Points**  Whenever you cast a Wu Jen spell you gain Temporary Hit Points equal to twice the level of the spell slot expended.
 
-***Forced Teleportation.*** Whenever you teleport with a Wu Jen feature or spell, you can touch a creature equal to you in size (or smaller) and teleport it with you (no action required). This includes grappled creatures.
+**Forced Teleportation**  Whenever you teleport with a Wu Jen feature or spell, you can touch a creature equal to you in size (or smaller) and teleport it with you (no action required). This includes grappled creatures.
 
 Your Elemental Form lasts for 1 minute, but it ends early if you have the Incapacitated condition or when you choose to end it (no action required). Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. You can also restore your use of it by expending 6 :class-phb24-monk: **Focus Points** (no action required).
 

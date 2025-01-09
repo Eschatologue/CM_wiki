@@ -16,11 +16,11 @@ Warriors of the Open Hand are masters of unarmed combat. They learn techniques t
 
 Whenever you hit a creature with an attack granted by your Flurry of Blows, you can impose one of the following effects on that target.
 
-***Addle.*** The target can't make Opportunity Attacks until the start of its next turn.
+**Addle**  The target can't make Opportunity Attacks until the start of its next turn.
 
-***Push.*** The target must succeed on a Strength saving throw or be pushed up to 15 feet away from you.
+**Push**  The target must succeed on a Strength saving throw or be pushed up to 15 feet away from you.
 
-***Topple.*** The target must succeed on a Dexterity saving throw or have the Prone condition.
+**Topple**  The target must succeed on a Dexterity saving throw or have the Prone condition.
 
 ### Level 6: Wholeness of Body
 

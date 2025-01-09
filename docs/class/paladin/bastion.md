@@ -36,11 +36,11 @@ This protective zone ends early if you either if you sse up all the allowed atta
 
 Unlike other Paladins, you have improved training with Ranged weapons.
 
-***Fighting Style.*** You gain one of the Fighting Style feats of your choice from the following options: [Strongbow] or [Thrown Weapon Fighting]. Whenever you gain a level in this class, you can exchange your selection for another option.
+**Fighting Style**  You gain one of the Fighting Style feats of your choice from the following options: [Strongbow] or [Thrown Weapon Fighting]. Whenever you gain a level in this class, you can exchange your selection for another option.
 
-***Heavy Archer Weapons.*** Your have special training with Heavy Archer weapons, which are Ranged or Thrown weapon that lacks the :weapon-prop-light: Light property. You gain the following benefit with Heavy Archer weapons:
+**Heavy Archer Weapons**  Your have special training with Heavy Archer weapons, which are Ranged or Thrown weapon that lacks the :weapon-prop-light: Light property. You gain the following benefit with Heavy Archer weapons:
 
-:   ***Ranged Smites.*** When you hit a target with a ranged attack using a Heavy Archer weapon, you can apply your Divine Smite or Paladin Smite spells (such as *Searing Smite* or *Shining Smite*) to that attack. However, the damage die for these smites is reduced by one size (e.g. from a d10 to a d8). When you reach level 11 in this class, your **Radiant Strikes** feature can also be applied to ranged attacks with Heavy Archer weapons, but the damage die becomes a d6 instead of a d8.
+:   **Ranged Smites**  When you hit a target with a ranged attack using a Heavy Archer weapon, you can apply your Divine Smite or Paladin Smite spells (such as *Searing Smite* or *Shining Smite*) to that attack. However, the damage die for these smites is reduced by one size (e.g. from a d10 to a d8). When you reach level 11 in this class, your **Radiant Strikes** feature can also be applied to ranged attacks with Heavy Archer weapons, but the damage die becomes a d6 instead of a d8.
 
 [Strongbow]: ../../option/feat/feat-fighting-style/hb.md#strongbow
 [Thrown Weapon Fighting]: ../../option/feat/feat-fighting-style/phb24.md#thrown-weapon-fighting
@@ -79,9 +79,9 @@ You become an unyielding bulwark, turning aside threats and protecting those wit
 
 ***Truesight***. You gain *Truesight* with a range of 120 feet.
 
-***Saving Throw Advantage.*** You have **:d20-adv: Advantage**{ .d20 } on all saving throws so long you don't have the Incapacitated condition.
+**Saving Throw Advantage**  You have **:d20-adv: Advantage**{ .d20 } on all saving throws so long you don't have the Incapacitated condition.
 
-***Protection.*** No creature can make an attack with **:d20-adv: Advantage**{ .d20 } against you or your allies that is within your Aura of Protection.
+**Protection**  No creature can make an attack with **:d20-adv: Advantage**{ .d20 } against you or your allies that is within your Aura of Protection.
 
 [^1]: *Forced Movement* occurs when a creature is moved by an external force, such as a spell or ability, without using its own movement, Actions, or Reactions. Common examples include being pushed, pulled, or moved by effects like *Thunderwave* or a Battle Master's *Pushing Attack*. Forced movement does **not** provoke Opportunity Attacks and is not limited by a creature's movement speed.
 
