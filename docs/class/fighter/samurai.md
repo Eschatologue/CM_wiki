@@ -21,9 +21,9 @@ You gain a set of Calligrapher's Tools and you have proficiency in it and two of
 
 Your intensive training in battle grants you unparalleled focus.
 
-**Precision**  When you make an attack, you can grant yourself **:d20-adv: Advantage**{ .d20 } on all your attacks until the start of your next turn. You also gain Temporary Hit Points equal to your Wisdom modifier + half your Fighter level (minimum 1). 
+**Precision**{ .inl } When you make an attack, you can grant yourself **:d20-adv: Advantage**{ .d20 } on all your attacks until the start of your next turn. You also gain Temporary Hit Points equal to your Wisdom modifier + half your Fighter level (minimum 1). 
    
-**Counter**  When a creature you can see hit or misses you with a Melee attack, you can take a **:rsc-r: Reaction**{ .rsc } to make a melee weapon attack or an Unarmed Strike against the creature.
+**Counter**{ .inl } When a creature you can see hit or misses you with a Melee attack, you can take a **:rsc-r: Reaction**{ .rsc } to make a melee weapon attack or an Unarmed Strike against the creature.
 
 You can use your Fighting Spirit feature a total of 4 times, expending one use each time you use either *Precision* or *Counter*. You regain 1 expended use at the end of a **:rest-short: Short Rest**, and all expended uses at the end of a **:rest-long: Long Rest**. 
 
@@ -31,9 +31,9 @@ You can use your Fighting Spirit feature a total of 4 times, expending one use e
 
 Your discipline and attention to detail allow you to excel in social situations.
 
-**Well Mannered**  Whenever you make a Persuasion check, you can add your Wisdom modifier to the result.
+**Well Mannered**{ .inl } Whenever you make a Persuasion check, you can add your Wisdom modifier to the result.
 
-**Self Control**  You have proficiency in Wisdom saving throws. If you already have this proficiency, you instead have proficiency in Intelligence or Charisma saving throws (your choice).
+**Self Control**{ .inl } You have proficiency in Wisdom saving throws. If you already have this proficiency, you instead have proficiency in Intelligence or Charisma saving throws (your choice).
 
 ### Level 10: Tactical Strike
 
@@ -43,9 +43,9 @@ When you use your [Tactical Shift](index.md#level-5-tactical-shift), you can mak
 
 Your training has reached extraordinary heights, allowing you to combine speed and precision with devastating results. You gain the following benefits: 
 
-**Rapid Strikes**  You trade accuracy for swift strikes. Once per turn, if you make an attack and have **:d20-adv: Advantage**{ .d20 } on it, you can forgo the **:d20-adv: Advantage**{ .d20 } for that roll to immediately make an additional attack as part of the same :rsc-a: Action, **:rsc-b: Bonus Action**{ .rsc } or **:rsc-r: Reaction**{ .rsc }.
+**Rapid Strikes**{ .inl } You trade accuracy for swift strikes. Once per turn, if you make an attack and have **:d20-adv: Advantage**{ .d20 } on it, you can forgo the **:d20-adv: Advantage**{ .d20 } for that roll to immediately make an additional attack as part of the same :rsc-a: Action, **:rsc-b: Bonus Action**{ .rsc } or **:rsc-r: Reaction**{ .rsc }.
 
-**Helm Splitter**  You trade accuracy for a powerful blow. Once per turn, if you make an attack and have **:d20-adv: Advantage**{ .d20 } on it, you can forgo the **:d20-adv: Advantage**{ .d20 } for that roll. On hit, the attack deals maximum damage.
+**Helm Splitter**{ .inl } You trade accuracy for a powerful blow. Once per turn, if you make an attack and have **:d20-adv: Advantage**{ .d20 } on it, you can forgo the **:d20-adv: Advantage**{ .d20 } for that roll. On hit, the attack deals maximum damage.
 
 ### Level 18: Strength Before Death
 

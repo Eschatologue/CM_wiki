@@ -221,24 +221,24 @@ Below is the Fishing table for each different biome you can fish within Antares.
 
 Let's walk through a fishing example with our beloved special character, the legendary fishermen: Antagoni.
 
-1. **Prepare to Fish**  
+1. **Prepare to Fish**{ .inl } 
 Antagoni decides to go fishing. He spends some time preparing his gear, attaching the bait and tackle, and finding a good spot. Fishing will take at least 1 hour.
 
-2. **Roll the Dice**  
+2. **Roll the Dice**{ .inl } 
 Antagoni is ready to fish for 1 hour. He rolls 5d6 to determine his catch. His rolls are: `4, 6, 6, 6, 2`.
 
-3. **Check for Proficiency and Reroll**  
+3. **Check for Proficiency and Reroll**{ .inl } 
 Antagoni has Proficiency in Wisdom (Survival) with a Wisdom score modifier of +2, skil. This allows him to reroll up to 2 dice. He chooses to reroll the 2 dice showing 4 and 2. His new rolls are 6 and 3. Now his dice results are: `6, 6, 6, 6, 3`.
 
-4. **Calculate Special Results**  
+4. **Calculate Special Results**{ .inl } 
 Antagoni checks if he has a special result. He rolled a Four-of-a-kind (four 6s), which has a multiplier of ×4.
 
-5. **Calculate Final Result**  
+5. **Calculate Final Result**{ .inl } 
 Antagoni sums his dice results: `6 + 6 + 6 + 6 + 3 = 27`.
 
 He then multiplies the sum by the Four-of-a-kind multiplier (×4): `27 × 4 = 108`.
 
-**Determine the Catch**  
+**Determine the Catch**{ .inl } 
 Antagoni consults the fishing table to determine what he caught based on the final result of 108, for this example purpose; A magical longsword. The specifics of the catch would depend on the fishing table.
 
 

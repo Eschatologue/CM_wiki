@@ -25,11 +25,11 @@ When you use your [Patient Defense](index.md#patient-defense) feature, you can e
 
 You have gained the ability to create tremendous blasts of radiant energy, flowing directly from your essence. As a **:rsc-a: Magic**{ .rsc } action, you can produce the effects of the [:spell-lv3: Fireball] or [:spell-lv3: Lightning Bolt] spells without components or expending a spell slot, with the following alterations:
 
-**Radiant Damage**  The effects deal :dmg-radi: Radiant damage, instead of the usual damage type.
+**Radiant Damage**{ .inl } The effects deal :dmg-radi: Radiant damage, instead of the usual damage type.
 
-**Extra Damage**  You add half your Monk level (rounded down) to the damage roll of the spell.
+**Extra Damage**{ .inl } You add half your Monk level (rounded down) to the damage roll of the spell.
 
-**Upcasting**  When you use this feature, you can spend :class-phb24-monk: **Focus Points** to increase the effective level that the spell is cast at, at a rate of 1 :class-phb24-monk: **Focus Points** per spell level above 3. The maximum effective level you can cast the spell at is equal to 1 + your Monk level divided by 4 (rounded down).
+**Upcasting**{ .inl } When you use this feature, you can spend :class-phb24-monk: **Focus Points** to increase the effective level that the spell is cast at, at a rate of 1 :class-phb24-monk: **Focus Points** per spell level above 3. The maximum effective level you can cast the spell at is equal to 1 + your Monk level divided by 4 (rounded down).
 
 The spells use your Focus save DC. Once you use this feature, you can't do so again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**, or until you spend 4 :class-phb24-monk: **Focus Points** to use it again.
 

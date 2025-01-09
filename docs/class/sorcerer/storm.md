@@ -32,9 +32,9 @@ Your connection to the storm ensures you always have certain spells ready; when 
 
 You have an arcane storm whirling through your body. Immediately before or after you cast a spell of level 1 or higher, you can cause your inner storm to manifest in one of the following ways.
 
-**Tempestuous Ascent**  Elemental air carries you aloft. You fly up to 10 feet without provoking Opportunity Attacks. You safely descend at the start of your next turn.
+**Tempestuous Ascent**{ .inl } Elemental air carries you aloft. You fly up to 10 feet without provoking Opportunity Attacks. You safely descend at the start of your next turn.
 
-**Arcane Tempest**  You whip up an arcane storm around you. Each creature within 10 feet of you must make a Strength save. On a failed save, they are pushed 10 feet away from you in a straight line.
+**Arcane Tempest**{ .inl } You whip up an arcane storm around you. Each creature within 10 feet of you must make a Strength save. On a failed save, they are pushed 10 feet away from you in a straight line.
 
 If your Innate Sorcery is active, the distance you can fly or push creatures away is doubled.
 
@@ -42,9 +42,9 @@ If your Innate Sorcery is active, the distance you can fly or push creatures awa
 
 You are overflowing with storming energy.
 
-**Lightning Rod**  You have Resistance to Lightning and Thunder damage.
+**Lightning Rod**{ .inl } You have Resistance to Lightning and Thunder damage.
 
-**Storm Transmutation**  When you cast a spell  that deals Acid, Cold, Fire or Poison damage, you can change that damage type to Lightning or Thunder.
+**Storm Transmutation**{ .inl } When you cast a spell  that deals Acid, Cold, Fire or Poison damage, you can change that damage type to Lightning or Thunder.
 
 ### Level 6: Arcane Conductivity
 
@@ -54,17 +54,17 @@ Whenever you deal Lightning or Thunder damage with a Sorcerer spell that require
 
 Whenever you use your Storm Within feature, you can spend 2 Sorcery Points to gain the following benefits.
 
-**Armor of Winds**  When you choose your Tempestuous Ascent option, you gain a +2 bonus to your Armor Class and Dexterity saving throws until the start of your next turn. If your Innate Sorcery is active, the bonus is +3 instead.
+**Armor of Winds**{ .inl } When you choose your Tempestuous Ascent option, you gain a +2 bonus to your Armor Class and Dexterity saving throws until the start of your next turn. If your Innate Sorcery is active, the bonus is +3 instead.
 
-**Triboelectric**  When you choose your Arcane Tempest option, any creature that failed its save also takes 2d6 Lightning or Thunder damage (your choice). If your Innate Sorcery is active, the damage is 3d6 instead.
+**Triboelectric**{ .inl } When you choose your Arcane Tempest option, any creature that failed its save also takes 2d6 Lightning or Thunder damage (your choice). If your Innate Sorcery is active, the damage is 3d6 instead.
 
 ### Level 18: Wind Soul
 
 The storm inside of you becomes more powerful.
 
-**One with the Storm**  You have immunity to Lightning and Thunder damage and you have a Fly Speed of 60 feet.
+**One with the Storm**{ .inl } You have immunity to Lightning and Thunder damage and you have a Fly Speed of 60 feet.
 
-**Blessing of the Tempest**  As a **:rsc-a: Magic**{ .rsc } action, you can reduce your Fly Speed to 30 feet for 1 hour and choose a number of creatures within 30 feet of you equal to 3 + your Charisma modifier. The chosen creatures gain a Fly Speed of 30 feet for 1 hour. Once you use this feature, you can’t use it again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
+**Blessing of the Tempest**{ .inl } As a **:rsc-a: Magic**{ .rsc } action, you can reduce your Fly Speed to 30 feet for 1 hour and choose a number of creatures within 30 feet of you equal to 3 + your Charisma modifier. The chosen creatures gain a Fly Speed of 30 feet for 1 hour. Once you use this feature, you can’t use it again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 

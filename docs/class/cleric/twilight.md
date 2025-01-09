@@ -38,9 +38,9 @@ You have Darkvision with a range of 120 feet and as a **:rsc-a: Magic**{ .rsc } 
 
 You can use your **:class-abl-chdiv-cleric: Channel Divinity**{ .em } to refresh your allies with soothing twilight. As a **:rsc-b: Bonus Action**{ .rsc }, you present your holy symbol, and a 30-foot Emanation of dim light appears around you. It lasts for 1 minute or until you are incapacitated or die. When you activate this feature, and as a **:rsc-b: Bonus Action**{ .rsc } while it is active, you can grant one the following benefits to one creature within the Emanation of your choice:
 
-**Fortitude**  It gains Temporary Hit Points equal to 1d6 plus your Cleric level.
+**Fortitude**{ .inl } It gains Temporary Hit Points equal to 1d6 plus your Cleric level.
 
-**Relief**  You end the Charmed or Frightened condition on it.
+**Relief**{ .inl } You end the Charmed or Frightened condition on it.
 
 ### Level 6: Steps of Night
 

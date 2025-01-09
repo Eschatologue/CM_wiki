@@ -10,15 +10,15 @@ This D&D campaign setting uses the same rulings as what you would find in other 
 
 When creating your character, you must adhere to three core principles that apply at all times, both during roleplaying and gameplay.
 
-**Team Cooperation**  Your character must consistently work with and support the rest of the party.
+**Team Cooperation**{ .inl } Your character must consistently work with and support the rest of the party.
 
 :   A rogue who steals from party members or sabotages plans undermines group cohesion. Instead, create a rogue who uses their skills to benefit the party, like scouting ahead, gathering intelligence, or disarming traps to ensure safe passage for the group. Another example is a bard who not only performs to inspire allies but also uses their charm and wit to negotiate and forge alliances that benefit the entire party.
 
-**Plot Engagement**  Your character must be consistently willing to engage with the campaign's plot.
+**Plot Engagement**{ .inl } Your character must be consistently willing to engage with the campaign's plot.
 
 :   A character who refuses to participate in the main quest or constantly separates from the group disrupts the story. Instead, design a character with personal motivations that align with the campaign's goals, such as a ranger seeking revenge on the antagonist responsible for the apocalypse or a cleric on a mission to restore order and help survivors. These motivations should naturally lead the character to be involved in key events and conflicts of the campaign.
 
-**Setting and Tone**  Your character must plausibly fit into the campaign's setting and align with the overall tone of the campaign.
+**Setting and Tone**{ .inl } Your character must plausibly fit into the campaign's setting and align with the overall tone of the campaign.
  
 :   This setting uses a post-apocalyptic dystopian science fantasy world, characters should blend modern and fantasy elements. A traditional medieval knight would be out of place. Instead, create a knight equipped armour combining modern technology enchanted with ancient runes. Similarly, a mage might use arcane spells alongside gadgets, and a ranger could be adept at surviving in both urban ruins and wild wastelands, utilizing a mix of traditional skills and contemporary tools.
 
@@ -36,9 +36,9 @@ You can also choose to Multiclass when the prerequisites are met.
 
 Write your character's level on your character sheet. Typically, a character starts at level 1 and advances in level by adventuring and gaining Experience Points (XP) or by **milestones**.
 
-**Write Your XP**  Also record your Experience Points. A level 1 character has 0 XP.
+**Write Your XP**{ .inl } Also record your Experience Points. A level 1 character has 0 XP.
 
-**Starting at a Higher Level**  Your DM might start you at a higher level. If you start at level 3 or higher, write your chosen subclass on your character sheet. See the “Starting at Higher Levels” section later in the chapter for more information.
+**Starting at a Higher Level**{ .inl } Your DM might start you at a higher level. If you start at level 3 or higher, write your chosen subclass on your character sheet. See the “Starting at Higher Levels” section later in the chapter for more information.
 
 #### 1.2: Note Armour Training
 
@@ -262,23 +262,23 @@ The summaries of the alignments below describe the typical behavior of a creatur
 
 <div class="grid cards" markdown>
 
-- **Lawful Good (LG)**  Lawful Good creatures endeavor to do the right thing as expected by society. Someone who fights injustice and protects the innocent without hesitation is probably Lawful Good.
+- **Lawful Good (LG)**{ .inl } Lawful Good creatures endeavor to do the right thing as expected by society. Someone who fights injustice and protects the innocent without hesitation is probably Lawful Good.
 
-- **Neutral Good (NG)**  Neutral Good creatures do the best they can, working within rules but not feeling bound by them. A kindly person who helps others according to their needs is probably Neutral Good.
+- **Neutral Good (NG)**{ .inl } Neutral Good creatures do the best they can, working within rules but not feeling bound by them. A kindly person who helps others according to their needs is probably Neutral Good.
 
-- **Chaotic Good (CG)**  Chaotic Good creatures act as their conscience directs with little regard for what others expect. A rebel who waylays a cruel baron's tax collectors and uses the stolen money to help the poor is probably Chaotic Good.
+- **Chaotic Good (CG)**{ .inl } Chaotic Good creatures act as their conscience directs with little regard for what others expect. A rebel who waylays a cruel baron's tax collectors and uses the stolen money to help the poor is probably Chaotic Good.
 
-- **Lawful Neutral (LN)**  Lawful Neutral individuals act in accordance with law, tradition, or personal codes. Someone who follows a disciplined rule of life—and isn't swayed either by the demands of those in need or by the temptations of evil—is probably Lawful Neutral.
+- **Lawful Neutral (LN)**{ .inl } Lawful Neutral individuals act in accordance with law, tradition, or personal codes. Someone who follows a disciplined rule of life—and isn't swayed either by the demands of those in need or by the temptations of evil—is probably Lawful Neutral.
 
-- **Neutral (N)**  Neutral is the alignment of those who prefer to avoid moral questions and don't take sides, doing what seems best at the time. Someone who's bored by moral debate is probably Neutral.
+- **Neutral (N)**{ .inl } Neutral is the alignment of those who prefer to avoid moral questions and don't take sides, doing what seems best at the time. Someone who's bored by moral debate is probably Neutral.
 
-- **Chaotic Neutral (CN)**  Chaotic Neutral creatures follow their whims, valuing their personal freedom above all else. A scoundrel who wanders the land living by their wits is probably Chaotic Neutral.
+- **Chaotic Neutral (CN)**{ .inl } Chaotic Neutral creatures follow their whims, valuing their personal freedom above all else. A scoundrel who wanders the land living by their wits is probably Chaotic Neutral.
 
-- **Lawful Evil (LE)**  Lawful Evil creatures methodically take what they want within the limits of a code of tradition, loyalty, or order. An aristocrat exploiting citizens while scheming for power is probably Lawful Evil.
+- **Lawful Evil (LE)**{ .inl } Lawful Evil creatures methodically take what they want within the limits of a code of tradition, loyalty, or order. An aristocrat exploiting citizens while scheming for power is probably Lawful Evil.
 
-- **Neutral Evil (NE)**  Neutral Evil is the alignment of those who are untroubled by the harm they cause as they pursue their desires. A criminal who robs and murders as they please is probably Neutral Evil.
+- **Neutral Evil (NE)**{ .inl } Neutral Evil is the alignment of those who are untroubled by the harm they cause as they pursue their desires. A criminal who robs and murders as they please is probably Neutral Evil.
 
-- **Chaotic Evil (CE)**  Chaotic Evil creatures act with arbitrary violence, spurred by their hatred or bloodlust. A villain pursuing schemes of vengeance and havoc is probably Chaotic Evil.
+- **Chaotic Evil (CE)**{ .inl } Chaotic Evil creatures act with arbitrary violence, spurred by their hatred or bloodlust. A villain pursuing schemes of vengeance and havoc is probably Chaotic Evil.
 
 </div>
 
@@ -296,13 +296,13 @@ Some class features offer choices. Make sure to read all your features and make 
 
 Note these numbers on your character sheet.
 
-***Saving Throws***  
+***Saving Throws***{ .inl } 
 For the saving throws you have proficiency in, add your Proficiency Bonus to the appropriate ability modifier and note the total. Some players also like to note the modifier for saving throws they're not proficient in, which is just the relevant ability modifier.
 
-***Skills***  
+***Skills***{ .inl } 
 For skills you have proficiency in, add your Proficiency Bonus to the ability modifier associated with that skill, and note the total. You might also wish to note the modifier for skills you're not proficient in, which is just the relevant ability modifier.
 
-***Passive Perception***  
+***Passive Perception***{ .inl } 
 Sometimes your DM will determine whether your character notices something without asking you to make a Wisdom (Perception) check; the DM uses your Passive Perception instead. Passive Perception is a score that reflects a general awareness of your surroundings when you're not actively looking for something. Use this formula to determine your Passive Perception score:
 
 ``` title="Passive Perception"
@@ -334,16 +334,16 @@ Your class and Constitution modifier determine your Hit Point maximum at level 1
 | Sorcerer | D6 | 6 + :ability-cons: CON modifier | 4 + :ability-cons: CON modifier |
 | Wizard | D6 | 6 + :ability-cons: CON modifier | 4 + :ability-cons: CON modifier |
 
-***Hit Point Dice***  
+***Hit Point Dice***{ .inl } 
 Your class's description tells you the die type of your character's Hit Point Dice (or Hit Dice for short); write this on your character sheet. At level 1, your character has 1 Hit Die. You can spend Hit Dice during a **:rest-short: Short Rest** to recover Hit Points. Your character sheet also includes space to note how many Hit Dice you've spent.
 
-***Initiative***  
+***Initiative***{ .inl } 
 Write your Dexterity modifier in the space for Initiative on your character sheet.
 
-***Armour Class***  
+***Armour Class***{ .inl } 
 Without armour or a shield, your base Armour Class is ^^10 plus your Dexterity modifier^^. If your starting equipment includes armour or a Shield (or both), calculate your AC using the rules in [chapter 6](../equipment/armour.md). A class feature might give you a different way to calculate your AC.
 
-***Attacks***  
+***Attacks***{ .inl } 
 In the Weapons & Damage Cantrips section of the character sheet, write your starting weapons. The attack roll bonus for a weapon with which you have proficiency is one of the following unless a weapon's property says otherwise:
 
 ``` title="Melee Attack Bonus"

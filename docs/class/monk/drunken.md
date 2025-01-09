@@ -21,15 +21,15 @@ Your martial arts technique mixes combat training with the precision of a dancer
 
 ***Homebrewed***. You gain a set of Brewer's Supplies and you have proficiency with it. You also have proficiency with the Performance skill.
 
-**Twist and Turn**  Whenever you use [Flurry of Blows], you gain the benefit of the Disengage action, and your **:rsc-spd: Speed**{ .em } increases by 10 feet until the start of your next turn.
+**Twist and Turn**{ .inl } Whenever you use [Flurry of Blows], you gain the benefit of the Disengage action, and your **:rsc-spd: Speed**{ .em } increases by 10 feet until the start of your next turn.
 
 ### Level 6: Tipsy Sway
 
 You can move in sudden, swaying ways. You gain the following benefits.
 
-**Leap to Your Feet**  When you have the Prone condition, you can stand up by spending 5 feet of movement, rather than half your speed.
+**Leap to Your Feet**{ .inl } When you have the Prone condition, you can stand up by spending 5 feet of movement, rather than half your speed.
 
-**Redirect Attack**  You can subtract your Wisdom modifier when reducing the damage for your [Deflect Attacks] feature. In addition, even when a creature misses you with the attack, you can spend 1 :class-phb24-monk: **Focus Point** to use your [Deflect Attacks] feature to redirect it.
+**Redirect Attack**{ .inl } You can subtract your Wisdom modifier when reducing the damage for your [Deflect Attacks] feature. In addition, even when a creature misses you with the attack, you can spend 1 :class-phb24-monk: **Focus Point** to use your [Deflect Attacks] feature to redirect it.
 
 ### Level 11: Drunkard's Luck
 

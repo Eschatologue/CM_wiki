@@ -28,11 +28,11 @@ As a **:rsc-b: Bonus Action**{ .rsc }, you can expend one use of your Channel Di
 
 Duelists are under the following effects:
 
-**Resistance**  Duelists have **:dmg-res: Resistance**{ .em } to all damage from creatures, except for the other Duelist. 
+**Resistance**{ .inl } Duelists have **:dmg-res: Resistance**{ .em } to all damage from creatures, except for the other Duelist. 
 
-**Limited Targeting**  Duelists can only target each other with attacks, spells, and other features during this Sacred Duel.
+**Limited Targeting**{ .inl } Duelists can only target each other with attacks, spells, and other features during this Sacred Duel.
 
-**Improved Critical**  The number that Duelists needs to roll for a Critical Hit against other Duelist is reduced by 1. This effect can stack.
+**Improved Critical**{ .inl } The number that Duelists needs to roll for a Critical Hit against other Duelist is reduced by 1. This effect can stack.
 
 ### Level 3: Combat Superiority
 
@@ -56,26 +56,26 @@ If a Manoeuvre requires a saving throw, the DC equals 8 + your Proficiency Bonus
 
 Your skill with the weapons of war has grown. 
 
-**Improved Superiority**  You gain one additional Superiority Die, and your Superiority Dice become :die-d8: d8s. You also learn two additional Manoeuvres of your choice. When you reach Paladin level 15 you gain another Superiority Die (for a total of five), and your Superiority Dice become :die-d10: d10s. You also learn two additional Manoeuvres.
+**Improved Superiority**{ .inl } You gain one additional Superiority Die, and your Superiority Dice become :die-d8: d8s. You also learn two additional Manoeuvres of your choice. When you reach Paladin level 15 you gain another Superiority Die (for a total of five), and your Superiority Dice become :die-d10: d10s. You also learn two additional Manoeuvres.
 
-**Improved Mastery**  You learn the Mastery property of two additional kinds of weapons of your choice with which you have proficiency.
+**Improved Mastery**{ .inl } You learn the Mastery property of two additional kinds of weapons of your choice with which you have proficiency.
 
 ### Level 15: Incredible Alacrity
 
 You possess an unnatural level of awareness.
 
-**Blindsight**  You have Blindsight equals to your Aura of Protection's range.
+**Blindsight**{ .inl } You have Blindsight equals to your Aura of Protection's range.
 
-**Improved Opportunity Attack**  You have **:d20-adv: Advantage**{ .d20 } when you make an :rsc-r: Opportunity Attack. Moreover, when a creature you can see hits you with a melee attack, you can make an :rsc-r: Opportunity Attack against it.
+**Improved Opportunity Attack**{ .inl } You have **:d20-adv: Advantage**{ .d20 } when you make an :rsc-r: Opportunity Attack. Moreover, when a creature you can see hits you with a melee attack, you can make an :rsc-r: Opportunity Attack against it.
 
 ### Level 20: Warrior of Legend
 
 As Bonus Action, you can enter a battle trance that enhances your combat skills to legendary levels, granting the benefits below for 1 minute, until you end them (no action required). Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
-**Free Manoeuvre**  Once per turn, when you use a Manoeuvre, you can roll a :die-d6: d6 and use the number rolled instead of expending a Superiority Die.
+**Free Manoeuvre**{ .inl } Once per turn, when you use a Manoeuvre, you can roll a :die-d6: d6 and use the number rolled instead of expending a Superiority Die.
 
-**Saving Throw Advantage**  You have **:d20-adv: Advantage**{ .d20 } on all saving throws so long you don't have the Incapacitated condition.
+**Saving Throw Advantage**{ .inl } You have **:d20-adv: Advantage**{ .d20 } on all saving throws so long you don't have the Incapacitated condition.
 
-**Hybrid Manoeuvre**  You can use *two* Manoeuvre per attack instead of one normally. However, only one Manoeuvre can benefit from _**Free Manoeuvre**_ subfeature.
+**Hybrid Manoeuvre**{ .inl } You can use *two* Manoeuvre per attack instead of one normally. However, only one Manoeuvre can benefit from _**Free Manoeuvre**_ subfeature.
 
 ###### :material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*

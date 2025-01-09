@@ -19,41 +19,41 @@ As a **:rsc-b: Bonus Action**{ .rsc }, you can spend 1 :class-phb24-monk: **Focu
 
 While the arms are active, you gain the following benefits:
 
-**Arms of Spirit**  The reach of your [Unarmed Strike] increases by 5 feet and you can choose to deal :dmg-force: Force damage instead of :dmg-bldg: Bludgeoning damage when you make an [Unarmed Strike].
+**Arms of Spirit**{ .inl } The reach of your [Unarmed Strike] increases by 5 feet and you can choose to deal :dmg-force: Force damage instead of :dmg-bldg: Bludgeoning damage when you make an [Unarmed Strike].
 
-**Astral Strike**  You can use the spectral arms to make [Unarmed Strike]. When you do, you can use your Wisdom modifier instead of your Dexterity or Strength modifier for the attack and damage rolls.
+**Astral Strike**{ .inl } You can use the spectral arms to make [Unarmed Strike]. When you do, you can use your Wisdom modifier instead of your Dexterity or Strength modifier for the attack and damage rolls.
 
-**Astral Touch**  You can use your Wisdom modifier in place of your Strength modifier when making Strength checks and saves.
+**Astral Touch**{ .inl } You can use your Wisdom modifier in place of your Strength modifier when making Strength checks and saves.
 
-**Sidereal Sweep**  As part of the **:rsc-b: Bonus Action**{ .rsc } you use to summon the astral arms, you swipe your arms around you. Each creature of your choice that you can see within 10 feet of you must succeed on a Dexterity save or take Force damage equal to two rolls of your Martial Arts die and be pushed 10 feet away from you. You can repeat this attack as a **:rsc-b: Bonus Action**{ .rsc } on each of your turns by spending 1 :class-phb24-monk: **Focus Point**.
+**Sidereal Sweep**{ .inl } As part of the **:rsc-b: Bonus Action**{ .rsc } you use to summon the astral arms, you swipe your arms around you. Each creature of your choice that you can see within 10 feet of you must succeed on a Dexterity save or take Force damage equal to two rolls of your Martial Arts die and be pushed 10 feet away from you. You can repeat this attack as a **:rsc-b: Bonus Action**{ .rsc } on each of your turns by spending 1 :class-phb24-monk: **Focus Point**.
 
 ### Level 6: Visage of the Astral Self
 
 A spectral visage covers your face like a helmet or mask. You determine its appearance. You gain the following benefits:
 
-**Astral Sight**  You have Darkvision with a range of 120 feet. If you already have Darkvision, its range increases by 60 feet.
+**Astral Sight**{ .inl } You have Darkvision with a range of 120 feet. If you already have Darkvision, its range increases by 60 feet.
 
-**Word of the Spirit**  When you speak, you can direct your words to a creature of your choice that you can see within 60 feet of you, making it so only that creature can hear you. Alternatively, you can amplify your voice so that all creatures within 600 feet can hear you.
+**Word of the Spirit**{ .inl } When you speak, you can direct your words to a creature of your choice that you can see within 60 feet of you, making it so only that creature can hear you. Alternatively, you can amplify your voice so that all creatures within 600 feet can hear you.
 
-**Augmented Visage**  As a **:rsc-b: Bonus Action**{ .rsc }, you can spend 1 :class-phb24-monk: **Focus Points** to augment the visage for 1 hour. When you do so, your Darkvision allows you to see normally in magical darkness and you gain Advantage on Insight, Intimidation and Perception checks.
+**Augmented Visage**{ .inl } As a **:rsc-b: Bonus Action**{ .rsc }, you can spend 1 :class-phb24-monk: **Focus Points** to augment the visage for 1 hour. When you do so, your Darkvision allows you to see normally in magical darkness and you gain Advantage on Insight, Intimidation and Perception checks.
 
 ### Level 11: Mantle of the Astral Self
 
 When you activate your Arms of the Astral Self feature, you can spend an additional 2 :class-phb24-monk: **Focus Points** to drape yourself in a mantle of cosmic light. You gain the following benefits:
 
-**Antigravitational**  Your jump distance is tripled and you don't take fall damage if you fall less than 60 feet.
+**Antigravitational**{ .inl } Your jump distance is tripled and you don't take fall damage if you fall less than 60 feet.
 
-**Extended Self**  The reach of your [Unarmed Strike] increases by an additional 5 feet.
+**Extended Self**{ .inl } The reach of your [Unarmed Strike] increases by an additional 5 feet.
 
-**Comet Strike**  Once per turn, when a creature takes damage from your [Unarmed Strike] or Sidereal Sweep, you can deal extra damage equal to half of your Monk level.
+**Comet Strike**{ .inl } Once per turn, when a creature takes damage from your [Unarmed Strike] or Sidereal Sweep, you can deal extra damage equal to half of your Monk level.
 
 ### Level 17: Awakened Astral Self      
 
 When you activate your Mantle of the Astral Self, you can expend an additional 2 :class-phb24-monk: **Focus Points** to fully awaken your astral self. You gain the following benefits:
 
-**Armour of the Spirit**  You gain a +2 bonus to your Armour Class.
+**Armour of the Spirit**{ .inl } You gain a +2 bonus to your Armour Class.
 
-**Astral Barrage**  Whenever you use the Extra Attack feature to attack twice, you can instead attack three times.     
+**Astral Barrage**{ .inl } Whenever you use the Extra Attack feature to attack twice, you can instead attack three times.     
 
 [Unarmed Strike]: ../../gameplay/phb/action.md#unarmed-strike
 

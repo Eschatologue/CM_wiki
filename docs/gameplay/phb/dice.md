@@ -23,7 +23,7 @@ Occasionally, a mechanic may specify an increase or decrease by two sizes, thoug
 The sequence of die sizes is as follows:  
 :die-d4:{ .lg .middle } `d4` --> :die-d6:{ .lg .middle } `d6` --> :die-d8:{ .lg .middle } `d8` --> :die-d10:{ .lg .middle } `d10` --> :die-d12:{ .lg .middle } `d12`
 
-**Limits on Die Size Changes**  The size of a die cannot be increased beyond a `d12` or decreased below a `d4`. If an effect would increase a `d12` or decrease a `d4`, the die size remains unchanged at the respective limit.
+**Limits on Die Size Changes**{ .inl } The size of a die cannot be increased beyond a `d12` or decreased below a `d4`. If an effect would increase a `d12` or decrease a `d4`, the die size remains unchanged at the respective limit.
 
 ### Percentile Dice
 

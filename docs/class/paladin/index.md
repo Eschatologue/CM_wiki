@@ -141,7 +141,7 @@ You can choose any weapon with a Mastery property that you're using and replace 
 
 You gain a Fighting Style feat of your choice (see chapter 5 for feats). Instead of choosing one of those feats, you can choose the option below.
 
-**Blessed Warrior**  You learn two Cleric cantrips of your choice (see the Cleric class's section for a list of Cleric spells). [:spell-lv0: Guidance] and *[:spell-lv0: Sacred Flame] are recommended. The chosen cantrips count as Paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip.
+**Blessed Warrior**{ .inl } You learn two Cleric cantrips of your choice (see the Cleric class's section for a list of Cleric spells). [:spell-lv0: Guidance] and *[:spell-lv0: Sacred Flame] are recommended. The chosen cantrips count as Paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip.
 
 ### Level 2: Paladin's Smite
 
@@ -163,7 +163,7 @@ You can use Channel Divinity twice. You regain one expended use when you finish 
 
 If a Channel Divinity effect requires a saving throw, the DC equals the Spell Save DC from this class's Spellcasting feature.
 
-**Divine Sense**  As a **:rsc-b: Bonus Action**{ .rsc }, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the Incapacitated condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [:spell-lv5: Hallow] spell.
+**Divine Sense**{ .inl } As a **:rsc-b: Bonus Action**{ .rsc }, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the Incapacitated condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [:spell-lv5: Hallow] spell.
 
 ### Level 3: Paladin Subclass
 

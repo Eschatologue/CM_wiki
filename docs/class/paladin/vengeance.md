@@ -48,8 +48,8 @@ Immediately after a creature under the effect of your Vow of Enmity hits or miss
 
 As a **:rsc-b: Bonus Action**{ .rsc }, you gain the following benefits for 10 minutes. Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
-**Flight**  You sprout spectral wings on your back. You have a Fly Speed equal to your **:rsc-spd: Speed**{ .em } and can Hover.
+**Flight**{ .inl } You sprout spectral wings on your back. You have a Fly Speed equal to your **:rsc-spd: Speed**{ .em } and can Hover.
 
-**Frightful Aura**  Whenever an enemy starts its turn in the aura, that creature must succeed on a Wisdom saving throw or have the Frightened condition for 1 minute or until it takes any damage. Attack rolls against the Frightened creature have Advantage.
+**Frightful Aura**{ .inl } Whenever an enemy starts its turn in the aura, that creature must succeed on a Wisdom saving throw or have the Frightened condition for 1 minute or until it takes any damage. Attack rolls against the Frightened creature have Advantage.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"

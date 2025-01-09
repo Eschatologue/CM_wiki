@@ -40,9 +40,9 @@ If a combatant is suprised by combat starting, that combatant has **:d20-disadv:
 
 #### Initiative Order
 
-**Turn Order**  The DM organizes all participants from highest to lowest initiative roll. This order dictates who acts first, second, and so on, throughout each round of combat.
+**Turn Order**{ .inl } The DM organizes all participants from highest to lowest initiative roll. This order dictates who acts first, second, and so on, throughout each round of combat.
 
-**Tie-Breakers**  If two or more participants have the same initiative roll, the participant with the higher Dexterity score goes first.
+**Tie-Breakers**{ .inl } If two or more participants have the same initiative roll, the participant with the higher Dexterity score goes first.
 
 ### Your Turn
 
@@ -198,9 +198,9 @@ A creature has a 5-foot reach and can thus attack targets within 5 feet when mak
 
 Combatants watch for enemies to drop their guard. If you move heedlessly past your foes, you put yourself in danger by provoking an Opportunity Attack.
 
-**Avoiding Opportunity Attack**  You can avoid provoking an Opportunity Attack by taking the Disengage action. You also don't provoke an Opportunity Attack when you Teleport or when you are moved without using your movement, action, Bonus Action, or Reaction. For example, you don't provoke an Opportunity Attack if an explosion hurls you out of a foe's reach or if you fall past an enemy.
+**Avoiding Opportunity Attack**{ .inl } You can avoid provoking an Opportunity Attack by taking the Disengage action. You also don't provoke an Opportunity Attack when you Teleport or when you are moved without using your movement, action, Bonus Action, or Reaction. For example, you don't provoke an Opportunity Attack if an explosion hurls you out of a foe's reach or if you fall past an enemy.
 
-**Making an Opportunity Attack**  You can make an Opportunity Attack when a creature that you can see leaves your reach. To make the attack, take a **:rsc-r: Reaction**{ .rsc } to make one melee attack with a weapon or an Unarmed Strike against that creature. The attack occurs right before it leaves your reach.
+**Making an Opportunity Attack**{ .inl } You can make an Opportunity Attack when a creature that you can see leaves your reach. To make the attack, take a **:rsc-r: Reaction**{ .rsc } to make one melee attack with a weapon or an Unarmed Strike against that creature. The attack occurs right before it leaves your reach.
 
 ### Mounted Combat
 

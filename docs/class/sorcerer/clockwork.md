@@ -60,11 +60,11 @@ Once you use this feature, you can't use it again until you finish a **:rest-lon
 
 You momentarily summon spirits of order to expunge disorder around you. As an **:rsc-a: Magic**{ .rsc } action, you summon the spirits in a 30-foot Cube originating from you. The spirits look like modrons or other constructs of your choice. The spirits are intangible and invulnerable, and they create the following effects within the Cube before vanishing:
 
-**Heal**  The spirits restore up to 100 Hit Points, divided as you choose among any number of creatures of your choice in the Cube.
+**Heal**{ .inl } The spirits restore up to 100 Hit Points, divided as you choose among any number of creatures of your choice in the Cube.
 
-**Repair**  Any damaged objects entirely in the Cube are repaired instantly.
+**Repair**{ .inl } Any damaged objects entirely in the Cube are repaired instantly.
 
-**Dispel**  Every spell of level 6 or lower ends on creatures and objects of your choice in the Cube.
+**Dispel**{ .inl } Every spell of level 6 or lower ends on creatures and objects of your choice in the Cube.
 
 Once you use this action, you can't use it again until you finish a **:rest-long: Long Rest**, unless you spend 7 sorcery points to use it again.
 

@@ -37,9 +37,9 @@ When you reach a Sorcerer level specified in the Arcane Spells table, you therea
 
 When you succeed on a saving throw against a spell, or a spell attack misses you, you can use your **:rsc-r: Reaction**{ .rsc } to spend a number of sorcery points equal to the spell's level and partially redirect that spell at a creature you can see within 60 feet of you (1 sorcery point if the spell is a cantrip), under the following rules:
 
-**Attack Roll**  If the triggering effect was an attack roll, the roll is repeated against that creature, using your Sorcerer spell attack modifier. 
+**Attack Roll**{ .inl } If the triggering effect was an attack roll, the roll is repeated against that creature, using your Sorcerer spell attack modifier. 
 
-**Saving Throw**  If the triggering effect was a saving throw, the creature makes its own saving throw against that effect, using your Sorcerer spell save DC. The deflected effect treats you as its caster for all other purposes. The initial effects of the spell are otherwise unchanged.
+**Saving Throw**{ .inl } If the triggering effect was a saving throw, the creature makes its own saving throw against that effect, using your Sorcerer spell save DC. The deflected effect treats you as its caster for all other purposes. The initial effects of the spell are otherwise unchanged.
 
 The deflected spell must be of a level you can cast. This ability cannot be used against area effects, such as the explosion of a [:spell-lv3: Fireball].
 

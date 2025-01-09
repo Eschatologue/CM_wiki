@@ -17,9 +17,9 @@ Grove Keepers are protectors of ancient forests and sacred sites. Their deep con
 
 Your bond with the natural world gives you the following benefits:
 
-**Wayfinder**  Your **:rsc-spd: Speed**{ .em } increases by 5 feet. You are not affected by difficult terrain and effects caused by nature such as rocky terrain or overgrown plants..
+**Wayfinder**{ .inl } Your **:rsc-spd: Speed**{ .em } increases by 5 feet. You are not affected by difficult terrain and effects caused by nature such as rocky terrain or overgrown plants..
 
-**Beast Tongue**  You can cast the *Speak with Animals* spell as rituals. Wisdom is your spellcasting ability for them.
+**Beast Tongue**{ .inl } You can cast the *Speak with Animals* spell as rituals. Wisdom is your spellcasting ability for them.
 
 ***Naturalist***. Choose 2 skills from: Animal Handling, Nature, Survival, or Perception. Whenever you make a check that uses those skills, you can treat a d20 roll of 7 or lower as an 8.
 
@@ -47,9 +47,9 @@ Primal energy flows through you. When you reach a ranger level specified in the 
 
 You gian the following benefits:
 
-**Constitution Save**  You gain proficiency in Constitution saving throws. If you already have this proficiency, you instead gain proficiency in Wisdom or Charisma saving throw.
+**Constitution Save**{ .inl } You gain proficiency in Constitution saving throws. If you already have this proficiency, you instead gain proficiency in Wisdom or Charisma saving throw.
 
-**Spike Growth**  You can cast the [:spell-lv2: Spike Growth] without expending a Spell Slot at its lowest level. You can use this feature a number of times up to your Wisdom modifier. You regain all expended use after a **:rest-long: Long Rest**. Moreover, the creature you choose up to your Wisdom modifier is not affected by this spell.
+**Spike Growth**{ .inl } You can cast the [:spell-lv2: Spike Growth] without expending a Spell Slot at its lowest level. You can use this feature a number of times up to your Wisdom modifier. You regain all expended use after a **:rest-long: Long Rest**. Moreover, the creature you choose up to your Wisdom modifier is not affected by this spell.
 
 ### Level 11: Rooted Defense
 
@@ -61,9 +61,9 @@ As a **:rsc-b: Bonus Action**{ .rsc }, You beckon the Avatar of Nature to aid yo
 
 Once during your turn, You can command it to move up to 30 feet (No action required). An aura radiates from the avatar in a 20-foot emanation for the duration and has the following features:
 
-**Overgrowth**  The ground within the aura is Difficult Terrain for your enemies. When an enemy creature moves into or within the area, it takes 2d6 :dmg-prcg: Piercing damage for every 5 feet it travels.
+**Overgrowth**{ .inl } The ground within the aura is Difficult Terrain for your enemies. When an enemy creature moves into or within the area, it takes 2d6 :dmg-prcg: Piercing damage for every 5 feet it travels.
 
-**Guardian Aura**  While in the aura, you and your allies have Advantage on all saving throws against spells. Additionally, At the start of each of your or your allies turn, regain 2d6 Hit Points.
+**Guardian Aura**{ .inl } While in the aura, you and your allies have Advantage on all saving throws against spells. Additionally, At the start of each of your or your allies turn, regain 2d6 Hit Points.
 
 Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. You can also restore your use of it by expending a level 4 spell slot.
 

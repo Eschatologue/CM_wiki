@@ -173,7 +173,7 @@ A **:rsc-b: Bonus Action**{ .rsc } is a special action that you can take on the 
 
 Objects can be harmed by attacks and by some spells, using the rules below. If an object is exceedingly fragile, the DM may allow a creature to break it automatically with the Attack or Utilize action.
 
-**Armour Class**  The Object Armour Class table suggests ACs for various substances.
+**Armour Class**{ .inl } The Object Armour Class table suggests ACs for various substances.
 
 ##### Object Armour Class
 
@@ -187,7 +187,7 @@ Objects can be harmed by attacks and by some spells, using the rules below. If a
 | 21 | Mithral |
 | 23 | Adamantine |
 
-**Hit Points**  An object is destroyed when it has 0 Hit Points. The Object Hit Points table suggests Hit Points for fragile and resilient objects that are Large or smaller. To track Hit Points for a Huge or Gargantuan object, divide it into Large or smaller sections, and track each section's Hit Points separately. The DM determines whether destroying part of an object causes the whole thing to collapse.
+**Hit Points**{ .inl } An object is destroyed when it has 0 Hit Points. The Object Hit Points table suggests Hit Points for fragile and resilient objects that are Large or smaller. To track Hit Points for a Huge or Gargantuan object, divide it into Large or smaller sections, and track each section's Hit Points separately. The DM determines whether destroying part of an object causes the whole thing to collapse.
 
 ##### Object Hit Points
 
@@ -198,11 +198,11 @@ Objects can be harmed by attacks and by some spells, using the rules below. If a
 | Medium (Barrel, Chandelier) | 4 (1d8) | 18 (4d8) |
 | Large (Cart, Dining Table) | 5 (1d10) | 27 (5d10) |
 
-**Damage Types and Objects**  Objects have Immunity to Poison and Psychic damage. The DM might decide that some damage types are more or less effective against an object. For example, Bludgeoning damage works well for smashing things but not for cutting. Paper or cloth objects might have Vulnerability to Fire damage.
+**Damage Types and Objects**{ .inl } Objects have Immunity to Poison and Psychic damage. The DM might decide that some damage types are more or less effective against an object. For example, Bludgeoning damage works well for smashing things but not for cutting. Paper or cloth objects might have Vulnerability to Fire damage.
 
-**Damage Threshold**  Big objects, such as castle walls, often have extra resilience represented by a damage threshold.
+**Damage Threshold**{ .inl } Big objects, such as castle walls, often have extra resilience represented by a damage threshold.
 
-**No Ability Scores**  An object lacks ability scores unless a rule assigns scores to the object. Without ability scores, an object can't make ability checks, and it fails all saving throws.
+**No Ability Scores**{ .inl } An object lacks ability scores unless a rule assigns scores to the object. Without ability scores, an object can't make ability checks, and it fails all saving throws.
 
 <!-- --8<-- [end:breaking-objects] -->
 
@@ -244,7 +244,7 @@ While dragging, lifting, or pushing weight in excess of the maximum weight you c
 | Huge | Str. × 4 | Str. × 8 |
 | Gargantuan | Str. × 8 | Str. × 16 |
 
-**Weight to Slots Calculations**  Each item in your inventory occupies a certain number of slots based on its weight based on the Item Weight table. This system simplifies item management by categorising items into four weight classes:
+**Weight to Slots Calculations**{ .inl } Each item in your inventory occupies a certain number of slots based on its weight based on the Item Weight table. This system simplifies item management by categorising items into four weight classes:
 
 ##### Item Weight
 
@@ -542,11 +542,11 @@ If forced into hazardous terrain (e.g. pits or lava), the creature suffers any c
 
 A creature can grapple another creature. Characters typically grapple by using an Unarmed Strike. Many monsters have special attacks that allow them to quickly grapple prey. However a grapple is initiated, it follows these rules.
 
-**Grappled Condition**  Successfully grappling a creature gives it the Grappled condition.
+**Grappled Condition**{ .inl } Successfully grappling a creature gives it the Grappled condition.
 
-**One Grapple per Hand**  A creature must have a hand free to grapple another creature. Some stat blocks and game effects allow a creature to grapple using a tentacle, a maw, or another body part. Whatever part a grappler uses, it can grapple only one creature at a time with that part, and the grappler can't use that part to target another creature unless it ends the grapple.
+**One Grapple per Hand**{ .inl } A creature must have a hand free to grapple another creature. Some stat blocks and game effects allow a creature to grapple using a tentacle, a maw, or another body part. Whatever part a grappler uses, it can grapple only one creature at a time with that part, and the grappler can't use that part to target another creature unless it ends the grapple.
 
-**Escaping a Grapple**  A Grappled creature can use its action to make a Strength (Athletics) or Dexterity (Acrobatics) check against the grapple's escape DC, ending the condition on itself on a success. The condition also ends if the grappler has the Incapacitated condition or if the distance between the Grappled target and the grappler exceeds the grapple's range.
+**Escaping a Grapple**{ .inl } A Grappled creature can use its action to make a Strength (Athletics) or Dexterity (Acrobatics) check against the grapple's escape DC, ending the condition on itself on a success. The condition also ends if the grappler has the Incapacitated condition or if the distance between the Grappled target and the grappler exceeds the grapple's range.
 
 <!-- --8<-- [end:grappling] -->
 
@@ -680,13 +680,13 @@ If you have Immunity to a damage type or a condition, it doesn't affect you in a
 
 An improvised weapon is an object wielded as a makeshift weapon, such as broken glass, a table leg, or a frying pan. A Simple or Martial weapon also counts as an improvised weapon if it's wielded in a way contrary to its design; if you use a Ranged weapon to make a melee attack or throw a Melee weapon that lacks the Thrown property, the weapon counts as an improvised weapon. An improvised weapon follows the rules below.
 
-**Proficiency**  Don't add your Proficiency Bonus to attack rolls with an improvised weapon.
+**Proficiency**{ .inl } Don't add your Proficiency Bonus to attack rolls with an improvised weapon.
 
-**Damage**  On a hit, the weapon deals 1d4 damage of a type the DM thinks is appropriate for the object.
+**Damage**{ .inl } On a hit, the weapon deals 1d4 damage of a type the DM thinks is appropriate for the object.
 
-**Range**  If you throw the weapon, it has a normal range of 20 feet and a long range of 60 feet.
+**Range**{ .inl } If you throw the weapon, it has a normal range of 20 feet and a long range of 60 feet.
 
-**Weapon Equivalents**  If an improvised weapon resembles a Simple or Martial weapon, the DM may say it functions as that weapon and uses that weapon's rules. For example, the DM could treat a table leg as a *Club*.
+**Weapon Equivalents**{ .inl } If an improvised weapon resembles a Simple or Martial weapon, the DM may say it functions as that weapon and uses that weapon's rules. For example, the DM could treat a table leg as a *Club*.
 
 ---
 
@@ -742,14 +742,14 @@ a **:rest-long: Long Rest** is a period of extended downtime—at least 8 hours�
 
 During sleep, you have the Unconscious condition. After you finish a **:rest-long: Long Rest**, you must wait at least 16 hours before starting another one.
 
-**Benefits of the Rest**  To start a **:rest-long: Long Rest**, you must have at least 1 Hit Point. When you finish the rest, you gain the following benefits:
+**Benefits of the Rest**{ .inl } To start a **:rest-long: Long Rest**, you must have at least 1 Hit Point. When you finish the rest, you gain the following benefits:
 
 - **Regain All HP.** You regain all lost Hit Points and all spent Hit Point Dice. If your Hit Point maximum was reduced, it returns to normal.
 - **Ability Scores Restored.** If any of your ability scores were reduced, they return to normal.
 - **Exhaustion Reduced.** If you have the Exhaustion condition, its level decreases by 1.
 - **Special Feature.** Some features are recharged by a **:rest-long: Long Rest**. If you have such a feature, it recharges in the way specified in its description.
 
-**Interrupting the Rest**  a **:rest-long: Long Rest** is stopped by the following interruptions:
+**Interrupting the Rest**{ .inl } a **:rest-long: Long Rest** is stopped by the following interruptions:
 
 - Rolling Initiative
 - Casting a spell other than a cantrip
@@ -868,12 +868,12 @@ If an effect, such as Wild Shape or the *Polymorph* spell, lets you shape-shift,
 
 A **:rest-short: Short Rest** is a 1-hour period of downtime, during which a creature does nothing more strenuous than reading, talking, eating, or standing watch. To start a **:rest-short: Short Rest**, you must have at least 1 Hit Point.
 
-**Benefits of the Rest**  When you finish the rest, you gain the following benefits:
+**Benefits of the Rest**{ .inl } When you finish the rest, you gain the following benefits:
 
 - **Spend Hit Point Dice.** You can spend one or more of your Hit Point Dice to regain Hit Points. For each Hit Point Die you spend in this way, roll the die and add your Constitution modifier to it. You regain Hit Points equal to the total (minimum of 1 Hit Point). You can decide to spend an additional Hit Point Die after each roll.
 - **Special Feature.** Some features are recharged by a **:rest-short: Short Rest**. If you have such a feature, it recharges in the way specified in its description.
 
-**Interrupting the Rest**  A **:rest-short: Short Rest** is stopped by the following interruptions:
+**Interrupting the Rest**{ .inl } A **:rest-short: Short Rest** is stopped by the following interruptions:
 
 - Rolling Initiative
 - Casting a spell other than a cantrip
@@ -893,15 +893,15 @@ If two or more things happen at the same time on a turn, the person at the game 
 
 In *Crown and Misery*, items are classified differently than in standard D&D. While magical items exist in the world for **lore purposes**, they do not have a functional impact on the game mechanics unless explicitly stated in an item's description. The concept of "magical" items, as commonly understood in D&D, is not applied here. Instead, enhanced items are referred to as *Special Items*
 
-**Definition**  Special Items are objects that have been improved beyond their basic, mundane (or "stock") versions, such as a +1 Longsword or superior-quality armour. These items may have magical origins or significance in the lore, but for gameplay, they are treated like any other enhanced item with specific mechanical properties.
+**Definition**{ .inl } Special Items are objects that have been improved beyond their basic, mundane (or "stock") versions, such as a +1 Longsword or superior-quality armour. These items may have magical origins or significance in the lore, but for gameplay, they are treated like any other enhanced item with specific mechanical properties.
 
-**Stock Configuration**  An item is considered mundane only in its original, unmodified state (e.g., a standard longsword or basic chainmail). Once an item has been upgraded in any way—whether through craftsmanship, magical enhancement, or other means—it becomes a Special Item and is no longer considered mundane.
+**Stock Configuration**{ .inl } An item is considered mundane only in its original, unmodified state (e.g., a standard longsword or basic chainmail). Once an item has been upgraded in any way—whether through craftsmanship, magical enhancement, or other means—it becomes a Special Item and is no longer considered mundane.
 
-**Interactions with Spells**  Effects such as the [:spell-lv2: Magic Weapon](./spells/description/core/level-2.md#magic-weapon) spell, which targets non-magical weapons, do not work on Special Items. For example, a +1 Longsword is a Special Item, not a "magical" one in the mechanical sense, and cannot be affected by spells or abilities that specifically target non-magical weapons, even if its enhancement comes from superior craftsmanship or magical lore.
+**Interactions with Spells**{ .inl } Effects such as the [:spell-lv2: Magic Weapon](./spells/description/core/level-2.md#magic-weapon) spell, which targets non-magical weapons, do not work on Special Items. For example, a +1 Longsword is a Special Item, not a "magical" one in the mechanical sense, and cannot be affected by spells or abilities that specifically target non-magical weapons, even if its enhancement comes from superior craftsmanship or magical lore.
 
-**Traits**  Unlike standard D&D, Special Items do not automatically gain additional properties like ignoring Resistance (for weapons) or granting damage Resistance (for armour) unless explicitly stated in their description. These properties are only granted when the item's description clearly outlines them.
+**Traits**{ .inl } Unlike standard D&D, Special Items do not automatically gain additional properties like ignoring Resistance (for weapons) or granting damage Resistance (for armour) unless explicitly stated in their description. These properties are only granted when the item's description clearly outlines them.
 
-**Attunement**  In Crown and Misery, attunement is tied to the mental focus required to manage powerful or enhanced items. It is not a magical connection. The limit of three attuned items remains unchanged unless a class feature increases it.
+**Attunement**{ .inl } In Crown and Misery, attunement is tied to the mental focus required to manage powerful or enhanced items. It is not a magical connection. The limit of three attuned items remains unchanged unless a class feature increases it.
 
 ---
 
@@ -945,13 +945,13 @@ If you have Truesight, your vision is enhanced within a specified range. Within 
 
 ***Darkness***. You can see in normal and magical Darkness.
 
-**Invisibility**  You see creatures and objects that have the Invisible condition.
+**Invisibility**{ .inl } You see creatures and objects that have the Invisible condition.
 
-**Visual Illusions**  Visual illusions appear transparent to you, and you automatically succeed on saving throws against them.
+**Visual Illusions**{ .inl } Visual illusions appear transparent to you, and you automatically succeed on saving throws against them.
 
-**Transformations**  You discern the true form of any creature or object you see that has been transformed by magic.
+**Transformations**{ .inl } You discern the true form of any creature or object you see that has been transformed by magic.
 
-**Ethereal Plane**  You see into the Ethereal Plane.
+**Ethereal Plane**{ .inl } You see into the Ethereal Plane.
 
 <!-- --8<-- [end:sense-truesight] -->
 
@@ -971,9 +971,9 @@ Tremorsense can't detect creatures or objects in the air, and it doesn't count a
 
 A creature has a :rsc-spd: **Speed**, which is the distance in feet the creature can cover when it moves on its turn.
 
-**Special Speeds**  Some creatures have special speeds, such as a **Burrow Speed**, **Climb Speed**, **Fly Speed**, or **Swim Speed**. If you have more than one speed, choose which one to use when you move; you can switch between the speeds during your move. Whenever you switch, subtract the distance already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can't use the new speed during the current move. For example, if you have a Speed of 30 and a Fly Speed of 40, you could fly 10 feet, walk 10 feet, and leap into the air to fly 20 feet more.
+**Special Speeds**{ .inl } Some creatures have special speeds, such as a **Burrow Speed**, **Climb Speed**, **Fly Speed**, or **Swim Speed**. If you have more than one speed, choose which one to use when you move; you can switch between the speeds during your move. Whenever you switch, subtract the distance already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can't use the new speed during the current move. For example, if you have a Speed of 30 and a Fly Speed of 40, you could fly 10 feet, walk 10 feet, and leap into the air to fly 20 feet more.
 
-**Changes to Your Speeds**  If an effect increases or decreases your **:rsc-spd: Speed**{ .em } for a time, any special speed you have increases or decreases by an equal amount for the same duration. For example, if your **:rsc-spd: Speed**{ .em } is reduced to 0 and you have a Climb Speed, your Climb Speed is also reduced to 0. Similarly, if your **:rsc-spd: Speed**{ .em } is halved and you have a Fly Speed, your Fly Speed is also halved.
+**Changes to Your Speeds**{ .inl } If an effect increases or decreases your **:rsc-spd: Speed**{ .em } for a time, any special speed you have increases or decreases by an equal amount for the same duration. For example, if your **:rsc-spd: Speed**{ .em } is reduced to 0 and you have a Climb Speed, your Climb Speed is also reduced to 0. Similarly, if your **:rsc-spd: Speed**{ .em } is halved and you have a Fly Speed, your Fly Speed is also halved.
 
 ### Burrow Speed
 
@@ -1021,45 +1021,45 @@ A creature is Stable if it has 0 Hit Points but isn't required to make Death Sav
 
 A stat block contains the game slatistics of a monster. Each stat block includes the following information presented after the monster's name.
 
-**Size**  A monster is Tiny, Small, Med ium, Large, Huge, or Gargantuan.
+**Size**{ .inl } A monster is Tiny, Small, Med ium, Large, Huge, or Gargantuan.
 
-**Creature Type**  This entry notes the family of beings a monster belongs to, along with any descriptive tags.
+**Creature Type**{ .inl } This entry notes the family of beings a monster belongs to, along with any descriptive tags.
 
-**Alignment**  An alignment is suggested for the monster, with the DM determining its actual alignment.
+**Alignment**{ .inl } An alignment is suggested for the monster, with the DM determining its actual alignment.
 
-**AC, Initiative, and HP**  These entries give the monster's Armour Class, Initiative, and Hit Points, which are detailed in *chapter 1*. In parentheses after the Hit Points, the monster's Hit Point Dice are provided, along with the contribution of its Constitution, if any, to its Hit Points. Following the Initiative modifier is an Initiative score. Some creatures that are created by magic lack Hit Dice and Initiative information.
+**AC, Initiative, and HP**{ .inl } These entries give the monster's Armour Class, Initiative, and Hit Points, which are detailed in *chapter 1*. In parentheses after the Hit Points, the monster's Hit Point Dice are provided, along with the contribution of its Constitution, if any, to its Hit Points. Following the Initiative modifier is an Initiative score. Some creatures that are created by magic lack Hit Dice and Initiative information.
 
-**Speed**  Here the monster's Speed is provided, along with any special speeds.
+**Speed**{ .inl } Here the monster's Speed is provided, along with any special speeds.
 
-**Ability Scores**  A table provides the monster's ability scores, modifiers, and saving throw modifiers, all of which are detailed in *chapter 1*.
+**Ability Scores**{ .inl } A table provides the monster's ability scores, modifiers, and saving throw modifiers, all of which are detailed in *chapter 1*.
 
-**Skills**  This entry lists the monster's skill proficiencies, if any.
+**Skills**{ .inl } This entry lists the monster's skill proficiencies, if any.
 
-**Resistances and Vulnerabilities**  These entries list the monster's Resistances and Vulnerabilities, if any.
+**Resistances and Vulnerabilities**{ .inl } These entries list the monster's Resistances and Vulnerabilities, if any.
 
-**Immunities**  This section lists the monster's damage and condition Immunities, if any.
+**Immunities**{ .inl } This section lists the monster's damage and condition Immunities, if any.
 
-**Gear**  If the monster has any equipment that can be given away or retrieved, it's listed in this entry.
+**Gear**{ .inl } If the monster has any equipment that can be given away or retrieved, it's listed in this entry.
 
-**Senses**  This entry lists the monster's special senses, such as Darkvision, and its Passive Perception.
+**Senses**{ .inl } This entry lists the monster's special senses, such as Darkvision, and its Passive Perception.
 
-**Languages**  This entry lists any languages the monster knows.
+**Languages**{ .inl } This entry lists any languages the monster knows.
 
-**CR**  Challenge Rating summarizes the threat a monster poses and is detailed in the *Monster Manual*. The Experience Points characters receive for defeating a monster and its Proficiency Bonus follow. Some creatures that are created by magic have no CR.
+**CR**{ .inl } Challenge Rating summarizes the threat a monster poses and is detailed in the *Monster Manual*. The Experience Points characters receive for defeating a monster and its Proficiency Bonus follow. Some creatures that are created by magic have no CR.
 
-**Traits**  The monster's traits, if any, are features that are active at all times or in certain situations.
+**Traits**{ .inl } The monster's traits, if any, are features that are active at all times or in certain situations.
 
-**Actions**  The monster can take these actions in addition to those detailed in this glossary.
+**Actions**{ .inl } The monster can take these actions in addition to those detailed in this glossary.
 
-**Bonus Actions**  If the monster has **:rsc-b: Bonus Action**{ .rsc } options, they are listed in this section.
+**Bonus Actions**{ .inl } If the monster has **:rsc-b: Bonus Action**{ .rsc } options, they are listed in this section.
 
-**Reactions**  If the monster can take special Reactions, those are listed in this section.
+**Reactions**{ .inl } If the monster can take special Reactions, those are listed in this section.
 
-**Attack Notation**  The entry for a monster's attack starts by identifying whether the attack is a melee or a ranged attack and then provides the attack roll's bonus, its reach or range, and what happens on a hit. An attack is against one target unless its entry says otherwise.
+**Attack Notation**{ .inl } The entry for a monster's attack starts by identifying whether the attack is a melee or a ranged attack and then provides the attack roll's bonus, its reach or range, and what happens on a hit. An attack is against one target unless its entry says otherwise.
 
-**Saving Throw Effect Notation**  If an effect forces a saving throw, the effect's entry starts by identifying the kind of saving throw required and then provides the save's DC, a description of which creatures must make the save, and what happens on a failed or a successful save.
+**Saving Throw Effect Notation**{ .inl } If an effect forces a saving throw, the effect's entry starts by identifying the kind of saving throw required and then provides the save's DC, a description of which creatures must make the save, and what happens on a failed or a successful save.
 
-**Damage Notation**  A stat block usually provides both a static number and a die expression for each instance of damage. For example, an attack might deal 4 (1d4 + 2) damage on a hit. The DM determines whether you use the static number or the die expression in parentheses; you don't use both.
+**Damage Notation**{ .inl } A stat block usually provides both a static number and a die expression for each instance of damage. For example, an attack might deal 4 (1d4 + 2) damage on a hit. The DM determines whether you use the static number or the die expression in parentheses; you don't use both.
 
 ---
 

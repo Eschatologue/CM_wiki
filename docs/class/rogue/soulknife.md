@@ -31,9 +31,9 @@ Any features in this sublass that usea Psionic Energy Die use only the dice from
 
 You regain one of your expended Psionic Energy Die when you finish a **:rest-short: Short Rest**, and you regain all of them when you finish a **:rest-long: Long Rest**.
 
-**Psi-Bolstered Knack**  If you fail an ability check using a skill or tool with which you have proficiency, you can roll one Psionic Energy Die and add the number rolled to the check, potentially turning failure into success. The die is expended only if the roll them succeeds.
+**Psi-Bolstered Knack**{ .inl } If you fail an ability check using a skill or tool with which you have proficiency, you can roll one Psionic Energy Die and add the number rolled to the check, potentially turning failure into success. The die is expended only if the roll them succeeds.
 
-**Psychic Whispers**  You can establish telepathic communication between yourself and others — perfect for quiet infiltration. As a **:rsc-a: Magic**{ .rsc } action, choose one or more creatures you can see, up to a number of creatures equal to your proficiency bonus, and then roll one Psionic Energy Die. For a number of hours equal to the number rolled, the chosen creatures can speak telepathically with you, and you can speak telepathically with them. To send or receive a message (no action required), you and the other creature must be within 1 mile of each other. A creature can't use this telepathy if it can't speak any languages, and a creature can end the telepathic connection at any time (no action required). You and the creature don't need to speak a common language to understand each other.
+**Psychic Whispers**{ .inl } You can establish telepathic communication between yourself and others — perfect for quiet infiltration. As a **:rsc-a: Magic**{ .rsc } action, choose one or more creatures you can see, up to a number of creatures equal to your proficiency bonus, and then roll one Psionic Energy Die. For a number of hours equal to the number rolled, the chosen creatures can speak telepathically with you, and you can speak telepathically with them. To send or receive a message (no action required), you and the other creature must be within 1 mile of each other. A creature can't use this telepathy if it can't speak any languages, and a creature can end the telepathic connection at any time (no action required). You and the creature don't need to speak a common language to understand each other.
 
 The first time you use this power after each Long Rest, you don't expend the Psionic Energy Die. All other times you use the power, you expend the die.
 
@@ -58,9 +58,9 @@ After you attack with the blade, you can make a melee or ranged weapon attack wi
 
 Your Psychic Blades are now an expression of your psi-suffused soul, giving you these powers that use your Psionic Energy dice:
 
-**Homing Strikes**  If you make an attack roll with your Psychic Blade and miss the target, you can roll one Psionic Energy Die and add the number rolled to the attack roll. If this causes the attack to hit, the die is expended.
+**Homing Strikes**{ .inl } If you make an attack roll with your Psychic Blade and miss the target, you can roll one Psionic Energy Die and add the number rolled to the attack roll. If this causes the attack to hit, the die is expended.
 
-**Psychic Teleportation**  As a **:rsc-b: Bonus Action**{ .rsc }, you manifest a Psychic Blade, expend one Psionic Energy Die and roll it, and throw the blade at an unoccupied space you can see up to a number of feet away equal to 10 times the number rolled. You then teleport to that space, and the blade vanishes.
+**Psychic Teleportation**{ .inl } As a **:rsc-b: Bonus Action**{ .rsc }, you manifest a Psychic Blade, expend one Psionic Energy Die and roll it, and throw the blade at an unoccupied space you can see up to a number of feet away equal to 10 times the number rolled. You then teleport to that space, and the blade vanishes.
 
 ### Level 13: Psychic Veil
 

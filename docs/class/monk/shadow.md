@@ -16,11 +16,11 @@ Warriors of Shadow practice stealth and subterfuge, channeling their reservoirs 
 
 Through rigorous training, you have learned to draw on the power of the Shadowfell, gaining the following benefits:
 
-**Darkness**  You can spend 1 :class-phb24-monk: **Focus Point** to cast the *Darkness* spell without any spell components. You can see within the spell's area when you cast it with this feature. While the spell persists, you can move its area of darkness to a space within 60 feet of you at the start of each of your turns.
+**Darkness**{ .inl } You can spend 1 :class-phb24-monk: **Focus Point** to cast the *Darkness* spell without any spell components. You can see within the spell's area when you cast it with this feature. While the spell persists, you can move its area of darkness to a space within 60 feet of you at the start of each of your turns.
 
-**Darkvision**  You gain Darkvision with a range of 60 feet. If you already have Darkvision, its range increases by 60 feet.
+**Darkvision**{ .inl } You gain Darkvision with a range of 60 feet. If you already have Darkvision, its range increases by 60 feet.
 
-**Shadowy Figments**  You know the *Minor Illusion* cantrip and use Wisdom as the spellcasting ability for it.
+**Shadowy Figments**{ .inl } You know the *Minor Illusion* cantrip and use Wisdom as the spellcasting ability for it.
 
 ### Level 6: Shadow Step
 
@@ -34,10 +34,10 @@ You can draw on your connection to shadow to empower your teleportation. When yo
 
 As a **:rsc-a: Magic**{ .rsc } action while entirely within Dim Light or Darkness, you can spend 3 :class-phb24-monk: **Focus Points** to shroud yourself with magical darkness for 1 minute, until you have the Incapacitated condition, or until you end your turn in Bright Light. While shrouded in darkness, you gain the following benefits:
 
-**Invisibility**  You have the Invisible condition.
+**Invisibility**{ .inl } You have the Invisible condition.
 
-**Partially Incorporeal**  You can move through creatures and objects as if they were difficult terrain, but you take 1d10 Force damage if you end your turn inside a creature or an object.
+**Partially Incorporeal**{ .inl } You can move through creatures and objects as if they were difficult terrain, but you take 1d10 Force damage if you end your turn inside a creature or an object.
 
-**Shadow Flurry**  You can use your Flurry of Blows without spending any :class-phb24-monk: **Focus Points**
+**Shadow Flurry**{ .inl } You can use your Flurry of Blows without spending any :class-phb24-monk: **Focus Points**
 
 [Unarmed Strike]: ../../gameplay/phb/action.md#unarmed-strike

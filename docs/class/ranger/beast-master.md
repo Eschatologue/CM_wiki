@@ -32,9 +32,9 @@ You magically summon a primal beast, which draws strength from your bond with na
 
 The beast is Firendly to you and your allies and obeys your commands. It vanishes when you die.
 
-**The Beast in Combat**  In combat, the beast acts during your turn. It can move and use its Reaction on its own, but the only action it takes its the Dodge action unless you take a **:rsc-b: Bonus Action**{ .rsc } to combat it to take an action in its stat block or some other action. You can also sacrifice one of your attacks when you take the Attack action to command the beast to take the Beast's Strike action. If you have the Incapacitated condition, the beast acts on its own and isn't limited to the Dodge action.
+**The Beast in Combat**{ .inl } In combat, the beast acts during your turn. It can move and use its Reaction on its own, but the only action it takes its the Dodge action unless you take a **:rsc-b: Bonus Action**{ .rsc } to combat it to take an action in its stat block or some other action. You can also sacrifice one of your attacks when you take the Attack action to command the beast to take the Beast's Strike action. If you have the Incapacitated condition, the beast acts on its own and isn't limited to the Dodge action.
 
-**Restoring or Replacing the Beast**  If the beast has died within the last hour, you can take a **:rsc-a: Magic**{ .rsc } action to touch it and expend a spell slot. The beast reutrns to life after 1 minute with all its Hit Points restored.
+**Restoring or Replacing the Beast**{ .inl } If the beast has died within the last hour, you can take a **:rsc-a: Magic**{ .rsc } action to touch it and expend a spell slot. The beast reutrns to life after 1 minute with all its Hit Points restored.
 
 Whenever you finish a **:rest-long: Long Rest**, you can summon a different primal beast, which appears in an unccoupied space within 5 feet of you. You choose its stat block and appearance. If you already have a beast form from this feature, the old one vanishes when the new one appears.
 

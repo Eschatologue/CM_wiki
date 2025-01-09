@@ -30,13 +30,13 @@ When you gain a new level in a class, you get its features for that level. A few
 
 Special rules apply to Extra Attack, Spellcasting, and features (such as Unarmoured Defense) that give you alternative ways to calculate your Armour Class.
 
-**Armour Class**  If you have multiple ways to calculate your Armour Class, you can benefit from only one at a time. For example, a Monk/Sorcerer with a Monk's Unarmoured Defense feature and a Sorcerer's Draconic Resilience feature must choose only one of those features as a way to calculate Armour Class.
+**Armour Class**{ .inl } If you have multiple ways to calculate your Armour Class, you can benefit from only one at a time. For example, a Monk/Sorcerer with a Monk's Unarmoured Defense feature and a Sorcerer's Draconic Resilience feature must choose only one of those features as a way to calculate Armour Class.
 
-**Extra Attack**  If you gain the Extra Attack feature from more than one class, the features don't stack. You can't make more than two attacks with this feature unless you have a feature that says you can (such as the Fighter's Two Extra Attacks feature).
+**Extra Attack**{ .inl } If you gain the Extra Attack feature from more than one class, the features don't stack. You can't make more than two attacks with this feature unless you have a feature that says you can (such as the Fighter's Two Extra Attacks feature).
 
 Similarly, the Warlock's Thirsting Blade invocation, which grants you the Extra Attack feature with your pact weapon, doesn't give you additional attacks if you also have Extra Attack.
 
-**Spellcasting**  Your capacity for spellcasting depends partly on your combined levels in all your spellcasting classes and partly on your individual levels in those classes. Once you have the Spellcasting feature from more than one class, use the rules below. If you multiclass but have the Spellcasting feature from only one class, follow the rules for that class.
+**Spellcasting**{ .inl } Your capacity for spellcasting depends partly on your combined levels in all your spellcasting classes and partly on your individual levels in those classes. Once you have the Spellcasting feature from more than one class, use the rules below. If you multiclass but have the Spellcasting feature from only one class, follow the rules for that class.
 
 ##### Multiclass Spellcaster: Spell Slots per Spell Level
 
@@ -64,13 +64,13 @@ Similarly, the Warlock's Thirsting Blade invocation, which grants you the Extra 
 | 20 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
 
-**Spells Prepared**  You determine what spells you can prepare for each class individually, as if you were a single-classed member of that class. If you are a level 4 Ranger / level 3 Sorcerer, for example, you can prepare five level 1 Ranger spells, and you can prepare six Sorcerer spells of level 1 or 2 (as well as four Sorcerer cantrips).
+**Spells Prepared**{ .inl } You determine what spells you can prepare for each class individually, as if you were a single-classed member of that class. If you are a level 4 Ranger / level 3 Sorcerer, for example, you can prepare five level 1 Ranger spells, and you can prepare six Sorcerer spells of level 1 or 2 (as well as four Sorcerer cantrips).
 
 Each spell you prepare is associated with one of your classes, and you use the spellcasting ability of that class when you cast the spell.
 
-**Cantrips**  If a cantrip of yours increases in power at higher levels, the increase is based on your total character level, not your level in a particular class, unless the spell says otherwise.
+**Cantrips**{ .inl } If a cantrip of yours increases in power at higher levels, the increase is based on your total character level, not your level in a particular class, unless the spell says otherwise.
 
-**Spell Slots**  You determine your available spell slots by adding together the following:
+**Spell Slots**{ .inl } You determine your available spell slots by adding together the following:
 
 - All your levels in the Bard, Cleric, Druid, Sorcerer, and Wizard classes
 - Two third of your levels (round up) in the Artificer or Magus classes 
@@ -83,4 +83,4 @@ This table might give you spell slots of a higher level than the spells you prep
 
 For example, if you are a level 4 Ranger / level 3 Sorcerer, you count as a level 5 character when determining your spell slots, counting all your levels as a Sorcerer and half your Ranger levels. As shown in the Multiclass Spellcaster table, you have four level 1 spell slots, three level 2 slots, and two level 3 slots. However, you can't prepare any level 3 spells, nor can you prepare any level 2 Ranger spells. You can use the spell slots of those levels to cast the spells you do prepare—and potentially enhance their effects.
 
-**Pact Magic**  If you have the Pact Magic feature from the Warlock class and the Spellcasting feature, you can use the spell slots you gain from Pact Magic to cast spells you have prepared from classes with the Spellcasting feature, and you can use the spell slots you gain from the Spellcasting feature to cast Warlock spells you have prepared.
+**Pact Magic**{ .inl } If you have the Pact Magic feature from the Warlock class and the Spellcasting feature, you can use the spell slots you gain from Pact Magic to cast spells you have prepared from classes with the Spellcasting feature, and you can use the spell slots you gain from the Spellcasting feature to cast Warlock spells you have prepared.

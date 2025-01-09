@@ -23,9 +23,9 @@ At certain Sorcerer levels, you are able to destroy objects of greater size with
 
 Your innate connection to the primordial void grants you the following benefit: 
 
-**Primordial Language**  You gain the ability to speak, read, and write Primordial.
+**Primordial Language**{ .inl } You gain the ability to speak, read, and write Primordial.
 
-**Null Magic**  Whenever you damage a creature with a Voidwielder Spell, it cannot regain Hit Points or gain Temporary Hit Points until the beginning of your next turn.
+**Null Magic**{ .inl } Whenever you damage a creature with a Voidwielder Spell, it cannot regain Hit Points or gain Temporary Hit Points until the beginning of your next turn.
 
 ### Level 3: Voidwielder Spells
 
@@ -43,9 +43,9 @@ When you reach a Sorcerer level specified in the Voidwielder Spells table, you t
 
 Your connection to the Void allows you to undo arcane magic, giving your the following benefit:
 
-**Dispel Magic**  When you cast [:spell-lv3: Dispel Magic], and you need to make a spellcasting ability check to determine the result, you can treat a roll of 9 or lower as a 10.
+**Dispel Magic**{ .inl } When you cast [:spell-lv3: Dispel Magic], and you need to make a spellcasting ability check to determine the result, you can treat a roll of 9 or lower as a 10.
 
-**Counterspell**  When you cast [:spell-lv3: Counterspell] you can subtract the result of the target's save by a number equal to your Charisma modifier (minimum of +1).
+**Counterspell**{ .inl } When you cast [:spell-lv3: Counterspell] you can subtract the result of the target's save by a number equal to your Charisma modifier (minimum of +1).
 
 Once you use one of this feature, you can't use it again until you finish a **:rest-short: Short Rest** unless you spend 1 Sorcery Points (no action required) to restore your use of it.
 
@@ -59,9 +59,9 @@ Once you use one of this feature, you can't use it again until you finish a **:r
 
 As a **:rsc-b: Bonus Action**{ .rsc }, you can spend 1 Sorcery Point to partially discorporate until the end of your current turn. While you are in this state, you gain the following benefits:
 
-**Force Damage**  You can cause any Sorcerer spells you cast to deal Force damage.
+**Force Damage**{ .inl } You can cause any Sorcerer spells you cast to deal Force damage.
 
-**Move Through Object**  You can move through solid objects and creatures as if they were Difficult Terrain. If you end your turn inside a solid object or creature you are instantly shunted to the nearest unoccupied space, taking 1d10 Force damage for every 5 feet you were forced to travel. If you pass through a creature, you can force it to make a Constitution saving throw against your Spell save DC or take 1d10 Force damage. A creature can only be forced to make this Constitution saving throw once per turn.
+**Move Through Object**{ .inl } You can move through solid objects and creatures as if they were Difficult Terrain. If you end your turn inside a solid object or creature you are instantly shunted to the nearest unoccupied space, taking 1d10 Force damage for every 5 feet you were forced to travel. If you pass through a creature, you can force it to make a Constitution saving throw against your Spell save DC or take 1d10 Force damage. A creature can only be forced to make this Constitution saving throw once per turn.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 --8<-- "includes/snippets/spells2/lv6.md"

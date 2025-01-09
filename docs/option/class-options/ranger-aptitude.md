@@ -57,7 +57,7 @@ You are an expert at navigating the urban labyrinth as well as the wilds. You ga
 
 You have spent endless days surviving desolate wastelands. Choose one of the following damage types: :dmg-cold: Cold, :dmg-fire: Fire, :dmg-lgtn: Lightning, or :dmg-posn: Poison. You gain **:dmg-res: Resistance**{ .em } to the chosen damage type. 
 
-**Repeatable**  You can choose this Aptitude again, choosing different damage type each time.
+**Repeatable**{ .inl } You can choose this Aptitude again, choosing different damage type each time.
 
 ---
 
@@ -67,7 +67,7 @@ _**Prerequisite:** Level 3+ Ranger_
 
 You learn some rougish techniques. Choose one of the following Actions, you can use a **:rsc-b: Bonus Action**{ .rsc } to take it: Dodge, Disengage, or Hide.
 
-**Repeatable**  You can choose this Aptitude again, choosing a different action each time.
+**Repeatable**{ .inl } You can choose this Aptitude again, choosing a different action each time.
 
 ---
 
@@ -165,7 +165,7 @@ _**Prerequisite:** Level 6+ Ranger_
 
 Choose one of the following damage types: :dmg-force: Force, :dmg-necr: Necrotic, :dmg-psyc: Psychic, or :dmg-radi: Radiant. You gain **:dmg-res: Resistance**{ .em } to the chosen damage type. 
 
-**Repeatable**  You can choose this Aptitude again, choosing different damage type each time.
+**Repeatable**{ .inl } You can choose this Aptitude again, choosing different damage type each time.
 
 ---
 
@@ -183,9 +183,9 @@ _**Prerequisite:** Level 12+ Ranger, [Primal Focus](#primal-focus)_
 
 You gain the following benefits:
 
-**Improved Critical**  When you attack the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or Unarmed Strike, the number you need to roll to for a Critical Hit is reduced by 1. This effect can stack.
+**Improved Critical**{ .inl } When you attack the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or Unarmed Strike, the number you need to roll to for a Critical Hit is reduced by 1. This effect can stack.
 
-**Weakness Exploit**  Each time you score a Critical Hit against a creature, the number you need roll for another Critical Hit against that creature is reduced by 1. This effect can stack for 2 instances.
+**Weakness Exploit**{ .inl } Each time you score a Critical Hit against a creature, the number you need roll for another Critical Hit against that creature is reduced by 1. This effect can stack for 2 instances.
 
 ---
 

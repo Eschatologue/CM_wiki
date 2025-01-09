@@ -67,11 +67,11 @@ When you force a creature within your Aura of Protection to make a saving throw 
 
 As a **:rsc-b: Bonus Action**{ .rsc }, you gain the following benefits for 1 minute. Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
-**Cunning Escape**  You can take the Dash or Hide action as a  **:rsc-b: Bonus Action**{ .rsc }.
+**Cunning Escape**{ .inl } You can take the Dash or Hide action as a  **:rsc-b: Bonus Action**{ .rsc }.
 
-**Invisible**  You have the Invisible condition.
+**Invisible**{ .inl } You have the Invisible condition.
 
-**Misdirect**  When a creature misses you with an attack, you can force it to repeat its attack against another creature of your choice within the normal range of its attack.
+**Misdirect**{ .inl } When a creature misses you with an attack, you can force it to repeat its attack against another creature of your choice within the normal range of its attack.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 
