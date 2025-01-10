@@ -13,7 +13,7 @@ $defaultFontSize: convert.px2rem(15px); // Base font size
 .md-typeset {
     --default-font-size: #{convert.px2rem(15px)};
     --default-font-weight: 300;
-    
+
     font-optical-sizing: auto;
 
     font-size: var(--default-font-size);
@@ -63,11 +63,23 @@ $defaultFontSize: convert.px2rem(15px); // Base font size
         }
     }
 
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        abbr {
+            border-bottom: none !important;
+        }
+    }
+
     // Heading Styles
     h1,
     h2 {
         font-family: $headingFont;
         text-transform: uppercase;
+
     }
 
     h3,

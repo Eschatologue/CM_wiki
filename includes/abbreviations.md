@@ -12,7 +12,8 @@
 
 *[Critical Hit]: Total damage roll result is doubled.
 
-*[Proficiency Bonus]: Additional bonus that is applied to most D20 Tests (and Saving Throw DCs). Scales with your total character level.
+*[Advantage]: Roll two d20s, and use the _higher_ roll.
+*[Disadvantage]: Roll two d20s, and use the _lower_ roll.
 
 
 
