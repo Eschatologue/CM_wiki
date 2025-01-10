@@ -16,16 +16,40 @@ icon: material/crown-circle
 
     <div class="grid cards" markdown>
 
-    - **Move**{ .inl } **Cost:** 5 feet per square
+    - #### Move { .inl } 
+    
+        _**Cost:** 5 feet per square_
 
         Change position. Duh. The Cost is doubled when you attempt to move into a Difficult Terrain square.
     
-    - **Prone**{ .inl } _+**Cost:** 0 feet_+
+    - #### Prone { .inl } 
+    
+        _**Cost:** 0 feet_
 
         Give yourself the ^^Prone^^ condition.
 
-    - **Climb**{ .inl } **Cost:** 10 feet per square or 5 feet per square if using Climb Speed
+    - #### Stand Up { .inl } 
+    
+        _**Cost:** half of base :rsc-spd: Speed_
+
+        End the ^^Prone^^ condition.
+
+    - #### Climb { .inl } 
+    
+        _**Cost:** 10 feet per square (5 feet if using Climb Speed)_
 
         Scale a vertical surface. 
+
+    - #### Swim { .inl } 
+    
+        _**Cost:** 10 feet per square (5 feet if using Swim Speed)_
+
+        Move on deep liquid. 
+
+    - #### Move while Grappling { .inl } 
+    
+        _**Modifier:** :rsc-spd: Speed is halved_
+
+        Change position, but bringing someone with you.
 
     </div>
