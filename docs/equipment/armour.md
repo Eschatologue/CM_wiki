@@ -69,6 +69,8 @@ When wielding a Buckler, a creature can still use a weapon's **:weapon-prop-vers
 
 #### Pavise
 
-A heavy shield, large enough to almost cover the entire body. While wielding the Pavise, you can take the **:rsc-a: Utilise**{ .rsc } action to plant the Pavise into the ground in an unoccupied space of your choice within 5 feet, losing the benefit of the shield. Until it is removed (**:rsc-a: Utilise**{ .rsc }), it acts as a Half Cover for creatures behind it.
+A heavy shield, large enough to almost cover the entire body. 
+
+While wielding the Pavise, you can take the **:rsc-a: Utilise**{ .rsc } action to plant the Pavise into the ground in an unoccupied space of your choice within 5 feet, losing the benefit of the shield. Until it is removed (**:rsc-a: Utilise**{ .rsc }), it acts as a Half Cover for creatures behind it.
 
 --8<-- "includes/snippets/inv-notation.md"

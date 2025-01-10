@@ -24,49 +24,39 @@
 
 .md-typeset {
 
-    // Homebrew
-
-    $colorAdmonition_homebrew: convert.hex3hsl(#ffb624);
-
-    .admonition.homebrew,
-    details.homebrew {
-        border-color: $colorAdmonition_homebrew;
+    // Function to convert hex to HSL
+    @function hexToHsl($hex) {
+        @return convert.hex3hsl($hex);
     }
 
-    .homebrew {
-        > .admonition-title,
-        > summary {
-            background-color: color.adjust($colorAdmonition_homebrew, $alpha: -0.9);
+    // Mixin for admonition styles
+    @mixin admonitionStyles($type, $colour) {
+        $convertedColour: hexToHsl($colour);
+
+        .admonition.#{$type},
+        details.#{$type} {
+            border-color: $convertedColour;
         }
 
-        > .admonition-title::before,
-        > summary::before {
-            background-color: $colorAdmonition_homebrew;
-            -webkit-mask-image: var(--md-icon--homebrew);
-            mask-image: var(--md-icon--homebrew);
-        }
-    }
+        .#{$type} {
+            > .admonition-title,
+            > summary {
+                background-color: color.adjust($convertedColour, $alpha: -0.9);
+            }
 
-    // Glossary
-
-    $colorAdmonition_glossary: convert.hex3hsl(#4db6ac);
-
-    .admonition.glossary,
-    details.glossary {
-        border-color: $colorAdmonition_glossary;
-    }
-
-    .glossary {
-        > .admonition-title,
-        > summary {
-            background-color: color.adjust($colorAdmonition_glossary, $alpha: -0.9);
-        }
-
-        > .admonition-title::before,
-        > summary::before {
-            background-color: $colorAdmonition_glossary;
-            -webkit-mask-image: var(--md-icon--glossary);
-            mask-image: var(--md-icon--glossary);
+            > .admonition-title::before,
+            > summary::before {
+                background-color: $convertedColour;
+                -webkit-mask-image: var(--md-icon--#{$type});
+                mask-image: var(--md-icon--#{$type});
+            }
         }
     }
+
+    // Applying the mixin for Homebrew
+    @include admonitionStyles('homebrew', #ffb624);
+
+    // Applying the mixin for Glossary
+    @include admonitionStyles('glossary', #4db6ac);
 }
+
