@@ -192,11 +192,11 @@
 /*------------------------------------------------------- 
     Typography
 --------------------------------------------------------*/
-.em, .inl, .inl2, .rsc, .d20 {
+.em, .inl, .rsc, .d20 {
   white-space: nowrap; /* Prevent selected block to split on smaller screen sizes, used in conjuction with icons */
   font-weight: 550 !important;
 }
-.em abbr, .inl abbr, .inl2 abbr, .rsc abbr, .d20 abbr {
+.em abbr, .inl abbr, .rsc abbr, .d20 abbr {
   border-bottom: none !important;
 }
 
@@ -247,17 +247,13 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   vertical-align: -0.1875em;
 }
 
-.inl, .inl2 {
+.inl {
   display: inline-block;
   font-style: italic;
   position: relative;
 }
 
-.inl2 {
-  font-style: normal !important;
-}
-
-.chevron-right::after, .inl::after, .inl2::after {
+.chevron-right::after, .inl::after {
   font-style: normal !important;
   font-weight: 400 !important;
   content: "»";
@@ -265,7 +261,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   margin-left: 0.25em;
 }
 
-.chevron-left::before, .inl::before, .inl2::before {
+.chevron-left::before, .inl::before {
   font-style: normal !important;
   font-weight: 400 !important;
   content: "«";
@@ -1012,6 +1008,9 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   border-color: var(--md-admonition-icon-color--note);
   box-shadow: var(--md-shadow-z3);
   transition: box-shadow 250ms;
+}
+.md-typeset hr {
+  padding-top: -0.2rem !important;
 }
 
 .md-typeset .admonition.homebrew,
