@@ -24,14 +24,9 @@
 
 .md-typeset {
 
-    // Function to convert hex to HSL
-    @function hexToHsl($hex) {
-        @return convert.hex3hsl($hex);
-    }
-
     // Mixin for admonition styles
     @mixin admonitionStyles($type, $colour) {
-        $convertedColour: hexToHsl($colour);
+        $convertedColour: convert.hex3hsl($colour);
 
         .admonition.#{$type},
         details.#{$type} {
@@ -53,10 +48,14 @@
         }
     }
 
-    // Applying the mixin for Homebrew
+    // Infos
     @include admonitionStyles('homebrew', #ffb624);
+    @include admonitionStyles('glossary', #4db6ac); 
 
-    // Applying the mixin for Glossary
-    @include admonitionStyles('glossary', #4db6ac);
+    // Quick Refrences
+    @include admonitionStyles('action', #00BFA5);
+    @include admonitionStyles('bonusaction', #FFAB00);
+    @include admonitionStyles('reaction', #7C4DFF);
+    @include admonitionStyles('move', #FFD600);
 }
 
