@@ -46,6 +46,14 @@
 .md-typeset blockquote strong {
   color: var(--md-default-fg-color--light) !important;
 }
+.md-typeset h1 abbr,
+.md-typeset h2 abbr,
+.md-typeset h3 abbr,
+.md-typeset h4 abbr,
+.md-typeset h5 abbr,
+.md-typeset h6 abbr {
+  border-bottom: none !important;
+}
 .md-typeset h1,
 .md-typeset h2 {
   font-family: "Jost", sans-serif;
