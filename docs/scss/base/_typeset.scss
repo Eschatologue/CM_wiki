@@ -18,6 +18,10 @@ $defaultFontSize: convert.px2rem(15px); // Base font size
 
     font-size: var(--default-font-size);
 
+    .admonition {
+        --default-font-size: #{convert.px2rem(13px)};
+    }
+
     @media screen and (max-width: 720px) {
         --default-font-size: #{convert.px2rem(13px)};
     }
