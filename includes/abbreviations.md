@@ -12,8 +12,8 @@
 
 *[Critical Hit]: Total damage roll result is doubled.
 
-*[Advantage]: Roll two d20s, and use the _higher_ roll.
-*[Disadvantage]: Roll two d20s, and use the _lower_ roll.
+*[Advantage]: Roll two d20s, and use the <strong>higher</strong> roll.
+*[Disadvantage]: Roll two d20s, and use the <strong>lower</strong> roll.
 
 
 
