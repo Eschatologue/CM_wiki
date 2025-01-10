@@ -1010,7 +1010,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   transition: box-shadow 250ms;
 }
 .md-typeset hr {
-  padding-top: -0.2rem !important;
+  padding: -0.2rem !important;
 }
 
 .md-typeset .admonition.homebrew,
