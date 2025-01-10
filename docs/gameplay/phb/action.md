@@ -16,9 +16,8 @@ Actions can come up in other situations too: In a social interactions, you can t
 
 For a creature to perform an action, particularly in combat scenarios, it must expend one of three resources. These resources allow a creature to perform various activities such as attacking, casting spells, or using special features. The three primary resources are:
 
-<center>
-**:rsc-a: Action**{ .rsc } - **:rsc-b: Bonus Action**{ .rsc } - **:rsc-r: Reaction**{ .rsc }
-</center>
+**:rsc-a: Action**{ .rsc } – **:rsc-b: Bonus Action**{ .rsc } – **:rsc-r: Reaction**{ .rsc }
+{ .align-center }
 
 ### **:rsc-a: Action**{ .icon-head }
 

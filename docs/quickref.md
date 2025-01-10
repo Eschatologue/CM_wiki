@@ -39,12 +39,16 @@ icon: material/crown-circle
         _**Cost:** half of base :rsc-spd: Speed_
         { .idnt }
 
+        ---
+
         End the ^^Prone^^ condition.
 
     - #### Climb
     
         _**Cost:** 10 feet per square (5 feet if using Climb Speed)_
         { .idnt }
+
+        ---
 
         Scale a vertical surface. 
 
@@ -53,6 +57,8 @@ icon: material/crown-circle
         _**Cost:** 10 feet per square (5 feet if using Swim Speed)_
         { .idnt }
 
+        ---
+
         Move on deep liquid. 
 
     - #### Move while Grappling
@@ -60,12 +66,22 @@ icon: material/crown-circle
         _**Modifier:** :rsc-spd: Speed is halved_
         { .idnt }
 
+        ---
+
         Change position while Grappling a creature. 
 
     </div>
 
 !!! action "Actions"
 
-    TBA
+    - #### Attack
+
+        **Cost:** **:rsc-a: Action**{ .rsc }
+
+        Make a Melee or Ranged attack.
+
+        :die-d20: D20 + Ability Modifier + Proficiency Bonus(if proficient) + Bonuses(if applicable)
 
 !!! bonusaction "Bonus Actions"
+
+    TBA
