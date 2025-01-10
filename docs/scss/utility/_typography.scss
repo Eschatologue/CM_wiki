@@ -103,13 +103,6 @@
     @extend .chevron-left;
     @extend .chevron-right;
 }
-
-.inl2 {
-    @extend .inl;
-
-    font-style: normal !important;
-}
-
 // Chevrons 
 .chevron-right {
     &::after {

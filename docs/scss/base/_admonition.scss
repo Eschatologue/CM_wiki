@@ -20,6 +20,10 @@
         box-shadow: var(--md-shadow-z3);
         transition: box-shadow 250ms;
     }
+
+    hr {
+        padding-top: #{convert.px2rem(-4px)} !important;
+    }
 }
 
 .md-typeset {
