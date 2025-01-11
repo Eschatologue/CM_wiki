@@ -16,13 +16,14 @@
 /* Add Shadow */
 .md-typeset {
     .admonition {
+        --default-font-size: #{convert.px2rem(13px)};
         border-color: var(--md-admonition-icon-color--note);
         box-shadow: var(--md-shadow-z3);
         transition: box-shadow 250ms;
     }
 
     hr {
-        padding: #{convert.px2rem(-4px)} !important;
+        margin: #{convert.px2rem(8px)} 0 !important;
     }
 }
 

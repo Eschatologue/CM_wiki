@@ -3,6 +3,7 @@
 @use "../utility/convert";
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
 
@@ -36,12 +37,6 @@
 
 .nowrap {
     white-space: nowrap;
-}
-
-.background {
-    background-color: hsla(0, 0%, 0%, 0.15);
-    padding: convert.px2em(2px) convert.px2em(4.5px);
-    border-radius: 0.25em;
 }
 
 .smallcap {
@@ -92,6 +87,14 @@
     }
 }
 
+// Dice Rolls
+
+.roll {
+    background-color: var(--md-default-blk--025);
+    padding: convert.px2em(8px) !important;
+    border-radius: convert.px2em(8px) !important;
+}
+
 // Inline Sub
 .inl {
     @extend .em;
@@ -113,7 +116,6 @@
         margin-left: convert.px2em(4px);
     }
 }
-
 .chevron-left {
     &::before {
         font-style: normal !important;
@@ -124,12 +126,11 @@
     }
 }
 
-$indent: 18px;
-
 .align-center {
     text-align: center
 }
 
+$indent: 18px;
 .indent {
     text-indent: convert.px2em($indent);
 

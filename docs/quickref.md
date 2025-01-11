@@ -17,71 +17,59 @@ icon: material/crown-circle
     <div class="grid cards" markdown>
 
     - #### Move 
-    
-        _**Cost:** 5 feet per square_
-        { .idnt }
 
-        ---
+        _**Cost:** 5 feet per square_
 
         Change position. Duh. The Cost is doubled when you attempt to move into a Difficult Terrain square.
     
     - #### Prone 
     
         _**Cost:** 0 feet_
-        { .idnt }
-
-        ---
-
+    
         Give yourself the ^^Prone^^ condition.
 
     - #### Stand Up
     
         _**Cost:** half of base :rsc-spd: Speed_
-        { .idnt }
-
-        ---
-
+        
         End the ^^Prone^^ condition.
+    
+    </div>
+
+    <div class="grid cards" markdown>
 
     - #### Climb
     
         _**Cost:** 10 feet per square (5 feet if using Climb Speed)_
-        { .idnt }
-
-        ---
 
         Scale a vertical surface. 
 
     - #### Swim 
-    
+        
         _**Cost:** 10 feet per square (5 feet if using Swim Speed)_
-        { .idnt }
-
-        ---
 
         Move on deep liquid. 
 
     - #### Move while Grappling
-    
+        
         _**Modifier:** :rsc-spd: Speed is halved_
-        { .idnt }
 
-        ---
-
-        Change position while Grappling a creature. 
+        Move while Grappling a creature. 
 
     </div>
 
 !!! action "Actions"
 
-    - #### Attack
+    #### Attack
 
-        **Cost:** **:rsc-a: Action**{ .rsc }
+    **Cost:** **:rsc-a: Action**{ .rsc }
 
-        Make a Melee or Ranged attack.
+    Make a Melee or Ranged attack.
 
-        :die-d20: D20 + Ability Modifier + Proficiency Bonus(if proficient) + Bonuses(if applicable)
+    **:die-d20: D20 + Ability Modifier + Proficiency Bonus (if proficient) + Bonuses (if applicable)**{ .roll }
 
 !!! bonusaction "Bonus Actions"
 
     TBA
+
+</div>
