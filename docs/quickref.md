@@ -66,7 +66,11 @@ icon: material/crown-circle
 
     Target a creature and make an **:d20-attack: Attack Roll**{ .d20 } against it. 
 
-    **:die-d20: D20 + Ability Modifier + PB**{ .roll }
+    :   **Roll**  
+        **:die-d20: D20 + Ability Modifier + PB**{ .roll }
+
+    :   **Damage**  
+        **Weapon Damage Die + Ability Modifier**{ .roll }  
 
 !!! action ""
 
@@ -76,12 +80,21 @@ icon: material/crown-circle
 
     You punch, kick, head-butt, or make a similar forceful blow to a target. Choose one of the following option:
 
-    **Damage**{ .inl } Make an Attack Roll against the target.
+    **Damage**{ .inl } Make an **:d20-attack: Attack Roll**{ .d20 } against the target.
 
-    :   **Roll:** **:die-d20: D20 + Str. Mod + PB**{ .roll }  
-        **Damage:** **:die-d4: D4 + Str. Mod __:dmg-bldg: Bludgeoning__**{ .roll }  
+    :   **Roll**  
+        **:die-d20: D20 + Str. Mod + PB**{ .roll }
 
+    :   **Damage**  
+        **:die-d4: D4 + Str. Mod __:dmg-bldg: Bludgeoning__**{ .roll }  
 
+    **Grapple**{ .inl } Attempts to Grapple the target
+
+    :   **:d20-save: STR or DEX save** (On Fail: The target has Grappled(1) condition)
+
+        1. !!! glossary "Grappled" 
+
+            --8<-- "docs/glossary.md:grappling"
 
 !!! bonusaction "Bonus Actions"
 
