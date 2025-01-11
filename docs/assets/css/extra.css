@@ -240,7 +240,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 }
 
 .roll {
-  background-color: var(--md-default-blk--025);
+  background-color: var(--md-code-fg-color-dark);
   padding: 0.5em !important;
   border-radius: 0.5em !important;
 }
@@ -388,6 +388,8 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 90%, 0.7);
   --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.85);
+  /* Code */
+  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(4deg, 90%, 58%, 1);
   --md-primary-fg-color-light: hsla(4deg, 90%, 63%, 1);
@@ -425,6 +427,8 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 90%, 0.7);
   --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.85);
+  /* Code */
+  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(340deg, 82%, 52%, 1);
   --md-primary-fg-color-light: hsla(340deg, 82%, 57%, 1);
@@ -462,6 +466,8 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 90%, 0.7);
   --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.85);
+  /* Code */
+  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(291deg, 64%, 42%, 1);
   --md-primary-fg-color-light: hsla(291deg, 64%, 47%, 1);
@@ -499,6 +505,8 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 90%, 0.7);
   --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.85);
+  /* Code */
+  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(262deg, 52%, 47%, 1);
   --md-primary-fg-color-light: hsla(262deg, 52%, 52%, 1);
@@ -536,6 +544,8 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 90%, 0.7);
   --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.85);
+  /* Code */
+  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(207deg, 90%, 54%, 1);
   --md-primary-fg-color-light: hsla(207deg, 90%, 59%, 1);
@@ -573,6 +583,8 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 90%, 0.7);
   --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.85);
+  /* Code */
+  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(231deg, 48%, 48%, 1);
   --md-primary-fg-color-light: hsla(231deg, 48%, 53%, 1);
@@ -610,6 +622,8 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 90%, 0.7);
   --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.85);
+  /* Code */
+  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(199deg, 98%, 48%, 1);
   --md-primary-fg-color-light: hsla(199deg, 98%, 53%, 1);
@@ -647,6 +661,8 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 90%, 0.7);
   --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.85);
+  /* Code */
+  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(187deg, 100%, 42%, 1);
   --md-primary-fg-color-light: hsla(187deg, 100%, 47%, 1);
@@ -684,6 +700,8 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 90%, 0.7);
   --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.85);
+  /* Code */
+  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(174deg, 100%, 29%, 1);
   --md-primary-fg-color-light: hsla(174deg, 100%, 34%, 1);
@@ -721,6 +739,8 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 90%, 0.7);
   --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.85);
+  /* Code */
+  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(122deg, 39%, 49%, 1);
   --md-primary-fg-color-light: hsla(122deg, 39%, 54%, 1);
@@ -758,6 +778,8 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 90%, 0.7);
   --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.85);
+  /* Code */
+  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(88deg, 50%, 53%, 1);
   --md-primary-fg-color-light: hsla(88deg, 50%, 58%, 1);
@@ -795,6 +817,8 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 90%, 0.7);
   --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.85);
+  /* Code */
+  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(66deg, 70%, 54%, 1);
   --md-primary-fg-color-light: hsla(66deg, 70%, 59%, 1);
@@ -832,6 +856,8 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 90%, 0.7);
   --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.85);
+  /* Code */
+  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(54deg, 100%, 62%, 1);
   --md-primary-fg-color-light: hsla(54deg, 100%, 67%, 1);
@@ -869,6 +895,8 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 90%, 0.7);
   --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.85);
+  /* Code */
+  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(45deg, 100%, 51%, 1);
   --md-primary-fg-color-light: hsla(45deg, 100%, 56%, 1);
@@ -906,6 +934,8 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 90%, 0.7);
   --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.85);
+  /* Code */
+  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(36deg, 100%, 50%, 1);
   --md-primary-fg-color-light: hsla(36deg, 100%, 55%, 1);
@@ -943,6 +973,8 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 90%, 0.7);
   --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.85);
+  /* Code */
+  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(14deg, 100%, 57%, 1);
   --md-primary-fg-color-light: hsla(14deg, 100%, 62%, 1);
