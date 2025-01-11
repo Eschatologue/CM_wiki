@@ -66,11 +66,9 @@ icon: material/crown-circle
 
     Target a creature and make an **:d20-attack: Attack Roll**{ .d20 } against it. 
 
-    :   **Roll**  
-        **:die-d20: D20 + Ability Modifier + PB**{ .roll }
+    :   **Roll:** **:die-d20: D20 + Ability Modifier + PB**{ .roll }
 
-    :   **Damage**  
-        **Weapon Damage Die + Ability Modifier**{ .roll }  
+    :   **Damage:** **Weapon Damage Die + Ability Modifier**{ .roll }  
 
 !!! action ""
 
@@ -78,23 +76,29 @@ icon: material/crown-circle
 
     **Cost:** **:rsc-a: Action**{ .rsc }
 
-    You punch, kick, head-butt, or make a similar forceful blow to a target. Choose one of the following option:
+    You punch, kick, head-butt, or make a similar forceful blow to a target. 
+
+    Unarmed Strike has the Save DC of **8 + Str. Mod + PB**{ .d20 }
+    
+    Choose one of the following option:
 
     **Damage**{ .inl } Make an **:d20-attack: Attack Roll**{ .d20 } against the target.
 
-    :   **Roll**  
-        **:die-d20: D20 + Str. Mod + PB**{ .roll }
+    :   **Roll:** **:die-d20: D20 + Str. Mod + PB**{ .roll }
 
-    :   **Damage**  
-        **:die-d4: D4 + Str. Mod __:dmg-bldg: Bludgeoning__**{ .roll }  
+    :   **Damage:** **:die-d4: D4 + Str. Mod __:dmg-bldg: Bludgeoning__**{ .roll }  
 
-    **Grapple**{ .inl } Attempts to Grapple the target
+    **Grapple**{ .inl } Attempts to Grapple(1) the target. Requires an empty hand.
 
-    :   **:d20-save: STR or DEX save** (On Fail: The target has Grappled(1) condition)
+        1. !!! glossary "Grappling" 
 
-        1. !!! glossary "Grappled" 
+                --8<-- "docs/glossary.md:grappling"
 
-            --8<-- "docs/glossary.md:grappling"
+    :   **:d20-save: STR or DEX save** (On Fail: The target has Grappled condition)
+
+    **Shove**{ .inl } Attempts to Move the target or give it the Prone condition.
+
+    :   **:d20-save: STR or DEX save** (On Fail: The target is pushed 5 ft. away or has the Prone condition (your choice))
 
 !!! bonusaction "Bonus Actions"
 
