@@ -58,15 +58,14 @@ icon: material/crown-circle
 
     </div>
 
-!!! action "Actions"
-
-    #### Attack
+!!! action "#### Attack"
 
     **Cost:** **:rsc-a: Action**{ .rsc }
 
-    Make a Melee or Ranged attack.
+    Target a creature and make an **:d20-attack: Attack Roll**{ .d20 } against it.
 
     **:die-d20: D20 + Ability Modifier + Proficiency Bonus (if proficient) + Bonuses (if applicable)**{ .roll }
+
 
 !!! bonusaction "Bonus Actions"
 
