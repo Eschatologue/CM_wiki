@@ -58,13 +58,29 @@ icon: material/crown-circle
 
     </div>
 
-!!! action "#### Attack"
+!!! action ""
+
+    #### Attack
 
     **Cost:** **:rsc-a: Action**{ .rsc }
 
-    Target a creature and make an **:d20-attack: Attack Roll**{ .d20 } against it.
+    Target a creature and make an **:d20-attack: Attack Roll**{ .d20 } against it. 
 
-    **:die-d20: D20 + Ability Modifier + Proficiency Bonus (if proficient) + Bonuses (if applicable)**{ .roll }
+    **:die-d20: D20 + Ability Modifier + PB**{ .roll }
+
+!!! action ""
+
+    #### Unarmed Strike
+
+    **Cost:** **:rsc-a: Action**{ .rsc }
+
+    You punch, kick, head-butt, or make a similar forceful blow to a target. Choose one of the following option:
+
+    **Damage**{ .inl } Make an Attack Roll against the target.
+
+    :   **Roll:** **:die-d20: D20 + Str. Mod + PB**{ .roll }  
+        **Damage:** **:die-d4: D4 + Str. Mod __:dmg-bldg: Bludgeoning__**{ .roll }  
+
 
 
 !!! bonusaction "Bonus Actions"
