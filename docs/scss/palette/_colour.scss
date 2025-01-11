@@ -41,6 +41,9 @@ $defaultHue: 215;
         --md-gbl-text-color: hsla(0, 0%, 90%, 0.7);
         --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.85);
 
+        /* Code */
+        --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
+
         /* Primary Colour Variants */
         --md-primary-fg-color: hsla(#{convert.hex2hsl(list.nth($colors, 1))}, 1);
 

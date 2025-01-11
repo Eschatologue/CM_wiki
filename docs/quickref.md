@@ -8,7 +8,7 @@ icon: material/crown-circle
 
 # Quick Reference
 
-!!! move "Movement"
+??? move "Movement"
 
     _**Resource:** :rsc-spd: Speed_
 
@@ -69,7 +69,7 @@ icon: material/crown-circle
     :   **Roll:** **:die-d20: D20 + Ability Modifier + PB**{ .roll }
 
     :   **Damage:** **Weapon Damage Die + Ability Modifier**{ .roll }  
-
+    
 !!! action ""
 
     #### Unarmed Strike
@@ -88,17 +88,13 @@ icon: material/crown-circle
 
     :   **Damage:** **:die-d4: D4 + Str. Mod __:dmg-bldg: Bludgeoning__**{ .roll }  
 
-    **Grapple**{ .inl } Attempts to Grapple(1) the target. Requires an empty hand.
+    **Grapple**{ .inl } Attempts to Grapple the target. Requires an empty hand.
 
-        1. !!! glossary "Grappling" 
-
-                --8<-- "docs/glossary.md:grappling"
-
-    :   **:d20-save: STR or DEX save** (On Fail: The target has Grappled condition)
+    :   **:d20-save: STR / DEX save** (On Fail: The target has Grappled condition)
 
     **Shove**{ .inl } Attempts to Move the target or give it the Prone condition.
 
-    :   **:d20-save: STR or DEX save** (On Fail: The target is pushed 5 ft. away or has the Prone condition (your choice))
+    :   **:d20-save: STR / DEX save** (On Fail: The target is pushed 5 ft. away or has the Prone condition (your choice))
 
 !!! bonusaction "Bonus Actions"
 
