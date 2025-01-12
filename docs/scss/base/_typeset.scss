@@ -26,10 +26,6 @@ $defaultFontSize: convert.px2rem(15px); // Base font size
     strong {
         letter-spacing: $defaultFontSize * 0.03;
         color: var(--md-gbl-text-color-strong);
-
-        @media screen and (max-width: 720px) {
-            white-space: nowrap;
-        }
     }
 
     // Paragraph styles
@@ -147,8 +143,8 @@ $defaultFontSize: convert.px2rem(15px); // Base font size
 // Divider Line
 .md-typeset hr {
     border-bottom: #{convert.px2em(3px)} dashed rgba(255, 255, 255, 0.15);
-    padding-top: #{convert.px2rem(4px)};
-    margin: #{convert.px2rem(0px)};
+    padding: 0 0 !important;
+    margin: #{convert.px2em(2px)} 0;
 }
 
 // Large Font Size

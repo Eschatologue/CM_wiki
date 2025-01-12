@@ -29,10 +29,6 @@
     grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(280px), 1fr));
     grid-gap: convert.px2em(4px);
 
-    @media screen and (max-width: 720px) {
-        grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(160px), 1fr));
-    }
-
     @media screen and (max-width: 512px) {
         grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(320px), 1fr));
     }

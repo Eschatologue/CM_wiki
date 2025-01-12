@@ -4,7 +4,24 @@ icon: rsc/a
 
 # Actions
 
-When you do something other than moving or communicating, you typically take an action. They are acts taken by creatures on their turns. Actions are generally taken in order to deal damage, cast spells, make ability checks or inflict harmful conditions, but they can also be taken to heal or aid allies.
+When you do something other than moving or communicating, you typically take an action. They are acts taken by creatures on their turns. Actions are generally taken in order to deal damage, cast spells, make ability checks or inflict harmful conditions, but they can also be taken to heal or aid allies. The Action table lists the game’s main actions.
+
+##### Actions
+
+| Action | Summary |
+|---|---|
+| Attack | Attack with a weapon or an [Unarmed Strike](#unarmed-strike). |
+| Dash | For the rest of the turn, give yourself extra movement equal to your **:rsc-spd: Speed**. |
+| Disengage | Your movement doesn't provoke Opportunity Attack for the rest of the turn. |
+| Dodge | Until the start of your next turn, attack rolls against you have Disadvantage, and you make Dexterity saving throws with Advantage. You lose this benefit if you have the Incapacitated condition or if your Speed is 0. |
+| Help | Help another creature's ability check or attack roll, or administer first aid. |
+| Hide | Make a Dexterity (Stealth) check. |
+| Influence | Make a Charisma (Deception, Intimidation, Performance, or Persuasion) or Wisdom (Animal Handling) check to alter a creature's attitude. |
+| Magic | Cast a spell, use a magic item, or use a magical feature. |
+| Ready | Prepare to take an action in response to a trigger you define. |
+| Search | Make a Wisdom (Insight, Medicine, Perception, or Survival) check. |
+| Study | Make an Intelligence (Arcana, History, Investigation, Nature, or Religion) check. |
+| Utilize | Use a nonmagical object. |
 
 ## One Thing at a Time
 
@@ -130,28 +147,6 @@ The condition ends on you immediately after any of the following occurrences:
 - You make a sound louder than a whisper 
 - An enemy finds you, you make an attack roll
 - You cast a spell with a verbal component.
-
----
-
-### Identify a Spell
-
-**Cost:** **:rsc-a: Action**{ .rsc } or **:rsc-r: Reaction**{ .rsc }
-
-A character can use their **:rsc-r: Reaction**{ .rsc } to identify a spell as it's being cast, or they can use an **:rsc-a: Action**{ .rsc } on their turn to identify a spell by its effect after it is cast.
-
-If the character perceived the casting, the spell's effect, or both, the character can make an :d20-check: Intelligence (Arcana) check (DC 12 + the spell's level) with **:rsc-a: Action**{ .rsc } or **:rsc-r: Reaction**{ .rsc }, following the rule below:
-
-#### Class Spell
-
-If the spell is cast as a class spell and the character is a member of that class, the check is made with **:d20-adv: Advantage**{ .d20 }. For example, if the spellcaster casts a spell as a cleric, another cleric has **:d20-adv: Advantage**{ .d20 } on the check to identify the spell. 
-
-#### Innate Spellcasting
-
-Some spells aren't associated with any class when they're cast, this includes when a monster uses its Innate Spellcasting trait. Checks made to indentify an Innate Spellcasting trait is made with a **:d20-disadv: Disdvantage**{ .d20 }.
-
-??? question "Why Arcana?"
-
-    This Intelligence (Arcana) check represents the fact that identifying a spell requires a quick mind and familiarity with the theory and practice of casting. This is true even for a character whose spellcasting ability is Wisdom or Charisma. Being able to cast spells doesn't by itself make you adept at deducing exactly what others are doing when they cast their spells.
 
 ---
 

@@ -16,19 +16,22 @@
 /* Add Shadow */
 .md-typeset {
     .admonition {
-        --default-font-size: #{convert.px2rem(13px)};
+        --default-font-size: #{convert.px2rem(14px)};
         border-color: var(--md-admonition-icon-color--note);
         box-shadow: var(--md-shadow-z3);
         transition: box-shadow 250ms;
-    }
 
-    hr {
-        margin: #{convert.px2rem(8px)} 0 !important;
+        hr {
+            border-bottom: #{convert.px2em(3px)} solid rgba(255, 255, 255, 0.15);
+            padding: 0 0 !important;
+        }
+        .grid {
+            grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(320px), 1fr));
+        }
     }
 }
 
 .md-typeset {
-
     // Mixin for admonition styles
     @mixin admonitionStyles($type, $colour) {
         $convertedColour: convert.hex3hsl($colour);
@@ -54,13 +57,13 @@
     }
 
     // Infos
-    @include admonitionStyles('homebrew', #ffb624);
-    @include admonitionStyles('glossary', #4db6ac); 
+    @include admonitionStyles("homebrew", #ffb624);
+    @include admonitionStyles("glossary", #4db6ac);
+    @include admonitionStyles("dice", #FF5252);
 
     // Quick Refrences
-    @include admonitionStyles('action', #00BFA5);
-    @include admonitionStyles('bonusaction', #FFAB00);
-    @include admonitionStyles('reaction', #7C4DFF);
-    @include admonitionStyles('move', #FFD600);
+    @include admonitionStyles("action", #00bfa5);
+    @include admonitionStyles("bonusaction", #ffab00);
+    @include admonitionStyles("reaction", #7c4dff);
+    @include admonitionStyles("move", #ffd600);
 }
-

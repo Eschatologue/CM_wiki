@@ -3,101 +3,199 @@ title: Quick Reference
 hide:
     - navigation
     - toc
+search:
+  exclude: true
 icon: material/crown-circle
 ---
 
 # Quick Reference
 
-??? move "Movement"
 
-    _**Resource:** :rsc-spd: Speed_
+=== "Dice Rolls"
 
-    The following section is designed for play on a grid. Each square or tile represents 5 feet.
+    !!! dice "D20 Test"
 
-    <div class="grid cards" markdown>
+        <div class="grid cards" markdown>
 
-    - #### Move 
+        - ### :d20-attack:{ .lg } Attack Roll
 
-        _**Cost:** 5 feet per square_
+            **Attack Roll** is a D20 Test. It is made to hit a target and is contested by the target's **Armour Class (AC)**.
+            
+            **Roll:** **:die-d20: D20 + Ability Modifier + PB (if proficient) + other Bonuses**{ .roll }
 
-        Change position. Duh. The Cost is doubled when you attempt to move into a Difficult Terrain square.
-    
-    - #### Prone 
-    
-        _**Cost:** 0 feet_
-    
-        Give yourself the ^^Prone^^ condition.
+            **Damage Roll**{ .inl } When an attack or attempt to harm is successful, the creature often makes a Damage Roll to determine how much damage it causes to its victim.
+            
+            :   **Roll:** **:die-d6: Damage Die + Ability Modifier + other Bonuses**{ .roll }
 
-    - #### Stand Up
-    
-        _**Cost:** half of base :rsc-spd: Speed_
+        </div>
+
+        <div class="grid cards" markdown>
+
+        - ### :d20-save:{ .lg } Saving Throws
+
+            **Saving Throw** or simply 'Save' is a D20 Test. It is made to resist an effect and is contested by **Dificulty Class (DC)**
+
+            **Roll:** **:die-d20: D20 + Ability Modifier + PB (if proficient) + other Bonuses**{ .roll }
+
+        </div>
+
+        <div class="grid cards" markdown>
+
+        - ### :d20-check:{ .lg } Ability Check
+
+            **Ability Check** or simply 'Check' is a D20 Test. It is made to see if a creature succeed a particular task and is contested by **Dificulty Class (DC)**
+
+            **Roll:** **:die-d20: D20 + Ability Modifier +  other Bonuses**{ .roll }
+
+            **Skill Check**{ .inl } Skill checks are Ability Checks made using skills (e.g. Perception, Intimidation, History, etc)
+
+            :   **Roll:** **:die-d20: D20 + Ability Modifier + PB (if proficient) +  other Bonuses**{ .roll }
+
+        </div>
+
+
+=== "Your Turn" 
+
+    !!! move "Movement"
+
+        <div class="grid cards" markdown>
+
+        - #### Move { .inl }
+
+            **Cost:** *5 ft. per tile* / *10 ft. per tile (Difficult Terrain)*
+
+            Change your position.
+
+        - #### Prone { .inl }
+
+            Give yourself the ^^Prone^^ condition.
+
+        - #### Stand Up { .inl }
+
+            **Cost:** *half your max __:rsc-spd: Speed__*
+
+            End the ^^Prone^^ condition
+
+        - #### Climb { .inl }
+
+            **Cost:** *10 ft. per tile*
+
+            Scale a vertical surface. 
+
+        - #### Swim { .inl }
+
+            **Cost:** *10 ft. per tile*
+
+            Move on deep liquid. 
+
+        - #### Move while Grappling { .inl }
         
-        End the ^^Prone^^ condition.
+            _**Modifier:** :rsc-spd: Speed is halved_
+
+            Move while Grappling a creature. 
+
+        </div>
+
+
+    !!! action "Action"
+
+        <div class="grid cards" markdown>
+
+        - #### **:material-sword-cross: Attack**{ .inl } 
+
+            Perform a Melee or Ranged attack with your weapon or perform Unarmed Strike.
+
+        - #### **:action-dash: Dash**{ .inl }
+
+            For the rest of the turn, give yourself extra movement equal to your **:rsc-spd: Speed**.
+
+        - #### **:material-arrange-send-to-back: Disengage**{ .inl } 
     
-    </div>
+            Your movement doesn't provoke Opportunity Attack for the rest of the turn.
 
-    <div class="grid cards" markdown>
+        - #### **:material-arrow-expand: Dodge**{ .inl } 
 
-    - #### Climb
+            Focus entirely on avoiding attacks.  
+            Attack Rolls against you have **:d20-disadv: Disadvantage**{ .d20 } & you have **:d20-adv: Advantage**{ .d20 } on **:d20-save: Dex Save**
+            
+        - #### **:material-handshake: Help**{ .inl } 
     
-        _**Cost:** 10 feet per square (5 feet if using Climb Speed)_
+            Give **:d20-adv: Advantage**{ .d20 } on another creature's Ability Check or Attack Roll.
 
-        Scale a vertical surface. 
+        - #### **:action-hide: Hide**{ .inl }
 
-    - #### Swim 
+            Make a DC 15 Dexterity (Stealth) check. Gain Invisible condition on success.
+
+        - #### **:material-translate-variant: Influence**{ .inl }
+    
+            Make a Charisma (Deception, Intimidation, Performance, or Persuasion) or Wisdom (Animal Handling) check to alter a creature's attitude.
+
+        - #### **:material-spa: Magic**{ .inl }
+
+            Cast a spell that has a casting time of an Action or use a feature or magic item that requires a Magic action to be activated. 
+
+        - #### **:material-timer-alert: Ready**{ .inl }
+
+            Prepare to take an action or Move in response to a trigger you define.
+
+        - #### **:material-magnify: Search**{ .inl }
+
+            Make a Wisdom (Insight, Medicine, Perception, or Survival) check to discern something that isn't obvious.
+
+        - #### **:material-book-clock: Study**{ .inl }
+
+            Make an Intelligence (Arcana, History, Investigation, Nature, or Religion) check to call to mind an important piece of information about it.
         
-        _**Cost:** 10 feet per square (5 feet if using Swim Speed)_
+        - #### **:material-cog-box: Utilise**{ .inl }
+            
+            Use a nonmagical object, equip Shield.
 
-        Move on deep liquid. 
+        </div>
 
-    - #### Move while Grappling
-        
-        _**Modifier:** :rsc-spd: Speed is halved_
+    !!! bonusaction "**Bonus Action**{ .em }"
 
-        Move while Grappling a creature. 
+        <div class="grid cards" markdown>
 
-    </div>
+        - #### :material-sword-cross: Off-Hand Attack { .inl }
 
-!!! action ""
+            If you attack with a **:weapon-prop-light: Light weapon** weapon, you can make one Extra Attack with a different **:weapon-prop-light: Light weapon** weapon. Ability modifier is not added to damage roll (unless negative).
 
-    #### Attack
+        - #### :fontawesome-solid-hand-sparkles: Cast a Spell { .inl }
 
-    **Cost:** **:rsc-a: Action**{ .rsc }
+            Cast a spell with a casting time of a **:rsc-b: Bonus Action**{ .rsc }.
 
-    Target a creature and make an **:d20-attack: Attack Roll**{ .d20 } against it. 
+        - #### :simple-sparkfun: Use Class Feature { .inl }
 
-    :   **Roll:** **:die-d20: D20 + Ability Modifier + PB**{ .roll }
+            Activate a class feature that uses a a **:rsc-b: Bonus Action**{ .rsc }.
 
-    :   **Damage:** **Weapon Damage Die + Ability Modifier**{ .roll }  
+        </div>
+
+    !!! reaction "**Reaction**{ .em }"
+
+        <div class="grid cards" markdown>
+
+        - #### Opportunity Attack { .inl }
+
+            _**Trigger:** a Creature leaves your reach_
+
+            Make one Melee attack against the triggering creature.
+
+        - #### Readied Action { .inl }
+
+            _**Trigger:** specified by your **:rsc-a: Ready**{ .rsc } action_
+
+            Execute the reaction specified by your **:rsc-a: Ready**{ .rsc } action.
+
+        - #### :fontawesome-solid-hand-sparkles: Cast a Spell { .inl }
     
-!!! action ""
+            _**Trigger:** specified by the spell_
 
-    #### Unarmed Strike
+            Cast a spell with a casting time of a **:rsc-r: Reaction**{ .rsc }.
 
-    **Cost:** **:rsc-a: Action**{ .rsc }
+        - #### :simple-sparkfun: Use Class Feature { .inl }
 
-    You punch, kick, head-butt, or make a similar forceful blow to a target. 
+            _**Trigger:** specified by the class feature_
+            
+            Activate a class feature that uses a a **:rsc-r: Reaction**{ .rsc }.
 
-    Unarmed Strike has the Save DC of **8 + Str. Mod + PB**{ .d20 }
-    
-    Choose one of the following option:
-
-    **Damage**{ .inl } Make an **:d20-attack: Attack Roll**{ .d20 } against the target.
-
-    :   **Roll:** **:die-d20: D20 + Str. Mod + PB**{ .roll }
-
-    :   **Damage:** **:die-d4: D4 + Str. Mod __:dmg-bldg: Bludgeoning__**{ .roll }  
-
-    **Grapple**{ .inl } Attempts to Grapple the target. Requires an empty hand.
-
-    :   **:d20-save: STR / DEX save** (On Fail: The target has Grappled condition)
-
-    **Shove**{ .inl } Attempts to Move the target or give it the Prone condition.
-
-    :   **:d20-save: STR / DEX save** (On Fail: The target is pushed 5 ft. away or has the Prone condition (your choice))
-
-!!! bonusaction "Bonus Actions"
-
-    TBA
-
-</div>
+        </div>
