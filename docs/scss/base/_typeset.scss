@@ -143,8 +143,7 @@ $defaultFontSize: convert.px2rem(15px); // Base font size
 // Divider Line
 .md-typeset hr {
     border-bottom: #{convert.px2em(3px)} dashed rgba(255, 255, 255, 0.15);
-    padding: 0 0 !important;
-    margin: #{convert.px2em(2px)} 0;
+    margin: #{convert.px2em(14px)} 0;
 }
 
 // Large Font Size

@@ -21,11 +21,11 @@ icon: material/crown-circle
 
             **Attack Roll** is a D20 Test. It is made to hit a target and is contested by the target's **Armour Class (AC)**.
             
-            **Roll:** **:die-d20: D20 + Ability Modifier + PB (if proficient) + other Bonuses**{ .roll }
+            **Roll:** **:die-d20: D20 + Ability Modifier + PB (if proficient) + other Bonuses**{ .back }
 
             **Damage Roll**{ .inl } When an attack or attempt to harm is successful, the creature often makes a Damage Roll to determine how much damage it causes to its victim.
             
-            :   **Roll:** **:die-d6: Damage Die + Ability Modifier + other Bonuses**{ .roll }
+            :   **Roll:** **:die-d6: Damage Die + Ability Modifier + other Bonuses**{ .back }
 
         </div>
 
@@ -35,7 +35,7 @@ icon: material/crown-circle
 
             **Saving Throw** or simply 'Save' is a D20 Test. It is made to resist an effect and is contested by **Dificulty Class (DC)**
 
-            **Roll:** **:die-d20: D20 + Ability Modifier + PB (if proficient) + other Bonuses**{ .roll }
+            **Roll:** **:die-d20: D20 + Ability Modifier + PB (if proficient) + other Bonuses**{ .back }
 
         </div>
 
@@ -45,11 +45,11 @@ icon: material/crown-circle
 
             **Ability Check** or simply 'Check' is a D20 Test. It is made to see if a creature succeed a particular task and is contested by **Dificulty Class (DC)**
 
-            **Roll:** **:die-d20: D20 + Ability Modifier +  other Bonuses**{ .roll }
+            **Roll:** **:die-d20: D20 + Ability Modifier +  other Bonuses**{ .back }
 
             **Skill Check**{ .inl } Skill checks are Ability Checks made using skills (e.g. Perception, Intimidation, History, etc)
 
-            :   **Roll:** **:die-d20: D20 + Ability Modifier + PB (if proficient) +  other Bonuses**{ .roll }
+            :   **Roll:** **:die-d20: D20 + Ability Modifier + PB (if proficient) +  other Bonuses**{ .back }
 
         </div>
 
