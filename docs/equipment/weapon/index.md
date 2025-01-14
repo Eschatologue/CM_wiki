@@ -28,11 +28,7 @@ When a weapon requires its target to make a saving throw—whether through its P
 
 A cold weapon is a weapon that does not involve fire or explosions resulting from the use of gunpowder or other explosive materials. These are the most common weapons found in this setting, and they are most useful to the average inhabitants of Antares.
 
-Cold weapons can be categorized into two types as per base D&D: Simple Weapons and Martial Weapons.
-
-**Simple Weapons**{ .inl } Most people can use simple weapons with proficiency, often found in the hands of commoners.
-
-**Martial Weapons**{ .inl } Requires more specialized training to use effectively. Most warriors use martial weapons because these weapons put their fighting style and training to best use.
+Cold weapons can be categorized into two as per standard D&D: **Simple Weapons** and **Martial Weapons**.
 
 Main article: [Cold Weapons](weapon-cold.md)
 
@@ -40,7 +36,7 @@ Main article: [Cold Weapons](weapon-cold.md)
 
 Firearms are weapons that use an explosive charge to propel projectiles called "bullets" at incredible speed. These new types of weaponry were brought over by the Londoners when they first arrived in Antares, making them more adept at using firearms due to their long experience with them. 
 
-Firearms are very rare, and you will rarely see one outside of Albion-controlled territories. Even if you do, they won't sell it to you unless you are an Albion citizen.
+Firearms are very rare, and rarely sold outside of Albion-controlled territories. Even if you find one, it is almost impractical compared to other weapons due to their reliance on [Cordites](../../lore/glossary.md#cordite).
 
 Main article: [Firearms](weapon-firearm.md) 
 
@@ -54,9 +50,13 @@ You can use a weapon that has the **:weapon-prop-ammunition: Ammunition** proper
 
 At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. Firearms and weapon with **[:weapon-prop-explosive: Explosive](#explosive)**{ .nowrap } property can't benefit from this.
 
+---
+
 ### :weapon-prop-automatic:{ .lg } Automatic
 
-When you take the **:rsc-a: Attack**{ .rsc } action on your turn, you can make extra attacks up to the number in the parenthesis later on the same turn. That extra attack must be made with the ^^same weapon^^ provided the weapon has enough Ammunition for the attacks, and you don't add your ability modifier to the additional attack's damage rolls, unless that modifier is negative.
+When you take the **:rsc-a: Attack**{ .rsc } action on your turn and attack with an Automatic weapon, you can make extra attacks up to the number in the parenthesis later on the same turn. That extra attack must be made with the *same weapon* provided the weapon has enough Ammunition for the attacks, and you don't add your ability modifier to the additional attack's damage rolls, unless that modifier is negative.
+
+---
 
 ### :weapon-prop-explosive:{ .lg } Explosive
 
@@ -64,25 +64,37 @@ When this weapon's hits a target, it explodes and affect an area of effect on th
 
 Your initial target makes this **:d20-save: Saving Throw** at a **:d20-disadv: Disadvantage**{ .d20 }.
 
+---
+
 ### :weapon-prop-finesse:{ .lg } Finesse
 
 When making an attack with a **:weapon-prop-finesse: Finesse** weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
+
+---
 
 ### :weapon-prop-heavy:{ .lg } Heavy
 
 Heavy weapon is unwieldy compared to other weapons. You have **:d20-disadv: Disadvantage**{ .d20 } on your attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13, and if it's a Ranged weapon and your Dexterity score isn't at least 13.
 
+---
+
 ### :weapon-prop-light:{ .lg } Light
 
-When you take the **:rsc-a: Attack**{ .rsc } action on your turn and attack with a Light weapon, you can make one extra attack as a **:rsc-b: Bonus Action**{ .rsc } later on the same turn. That extra attack must be made with a ^^different Light weapon^^, and you don't add your ability modifier to the extra attack's damage, unless that modifier is negative.
+When you take the **:rsc-a: Attack**{ .rsc } action on your turn and attack with a Light weapon, you can make one extra attack as a **:rsc-b: Bonus Action**{ .rsc } later on the same turn. That extra attack must be made with a *different Light weapon*, and you don't add your ability modifier to the extra attack's damage, unless that modifier is negative.
+
+---
 
 ### :weapon-prop-loading:{ .lg } Loading
 
 Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an **:rsc-a: Action**{ .rsc }, **:rsc-b: Bonus Action**{ .rsc }, or **:rsc-r: Reaction**{ .rsc } to fire it, regardless of the number of attacks you can normally make.
 
+---
+
 ### :weapon-prop-mounted:{ .lg } Mounted
 
 This weapon is normally used while attached to a tripod, vehicle, or other bracing mount. You can mount or unmount this weapon as an **:rsc-a: Action**{ .rsc }. While it is mounted, it can't be moved. It can only be used to make an attack while unmounted if held by a creature with a Strength score of at least 15.
+
+---
 
 ### :weapon-prop-range:{ .lg } Range
 
@@ -90,33 +102,49 @@ This weapon that can be used to make a ranged attack has a range shown in parent
 
 The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's long range. When attacking a target beyond normal range, you have **:d20-disadv: Disadvantage**{ .d20 } on the attack roll. You can't attack a target beyond the weapon's long range.
 
+---
+
 ### :weapon-prop-reach:{ .lg } Reach
 
 This weapon adds 5 feet to your reach when you attack with it. This property also determines your reach for **:rsc-r: Opportunity Attacks** with a reach weapon.
+
+---
 
 ### :weapon-prop-reload:{ .lg } Reload
 
 This weapon can be used to make a number of attacks before it must be reloaded. If you are proficient with the weapon, reloading it takes a **:rsc-b: Bonus Action**{ .rsc }; otherwise, reloading it takes an **:rsc-a: Action**{ .rsc }. Some weapons require an **:rsc-a: Action**{ .rsc } or longer to reload, even if you have Proficiency, which is specified in the Reload property. If reloading a weapon requires longer than one action, the weapon can't be used to make attacks until reloading is finished.
 
+---
+
 ### :weapon-prop-scatter:{ .lg } Scatter
 
 If you make an attack against a target that is within half this weapon's normal range (round up), you deal the damage value listed in parenthesis instead of the weapon's normal damage dice.
+
+---
 
 ### :weapon-prop-sighted:{ .lg } Sighted
 
 This weapon has **:d20-disadv: Disadvantage**{ .d20 } on attack rolls made against targets within 20 feet and has **:d20-adv: Advantage**{ .d20 } against target that has not moved at least 15 feet for this before the start of your current turn.
 
+---
+
 ### :weapon-prop-thrown:{ .lg } Thrown
 
 You can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. If the weapon has the **[:weapon-prop-finesse: Finesse](#finesse)** property, you can use your choice of your Strength or Dexterity modifier for the attack and damage rolls.
+
+---
 
 ### :weapon-prop-two-handed:{ .lg } Two-Handed
 
 This weapon requires two hands when you attack with it. This property is relevant only when you attack with the weapon, not when you simply hold it.
 
+---
+
 ### :weapon-prop-versatile:{ .lg } Versatile
 
 This weapon can be used with one or two hands. A damage value in parentheses appears with the property–the damage when the weapon is used with two hands to make a melee attack.
+
+---
 
 ## Unique Properties
 

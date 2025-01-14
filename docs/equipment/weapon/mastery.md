@@ -134,7 +134,7 @@ When you hit a melee attack using this weapon, you deal its **:weapon-prop-versa
 **Type:** Melee weapon  
 **Properties:** **:weapon-prop-reach: Reach**, **:weapon-prop-versatile: Versatile**; No **:weapon-prop-heavy: Heavy** property
 
-While holding the weapon, when you take the **:rsc-a: Dash**{ .rsc } action, you can choose a creature that you can see and move torwards it in a straight line without provoking Opportunity Attack, and make one Melee attack against as part of the same action. 
+While holding the weapon, when you take the **:rsc-a: Dash**{ .rsc } action, you can choose a creature that you can see and move torwards it in a straight line without provoking Opportunity Attack, and make one Melee attack against as part of the same action. You have **:d20-adv: Advantage**{ .d20 } on this attack 
 
 ---
 

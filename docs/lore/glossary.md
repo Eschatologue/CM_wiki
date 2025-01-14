@@ -65,7 +65,7 @@ The Brabazon Fleet is a series of colossal mobile penal colonies, constructed by
 
 *Weaponry*
 
-**Cataphract** are heavily armoured walkers equipped with powerful cannons and lethal close-combat weaponry, designed to withstand both physical damage and magical spells. These piloted machines form the backbone of London's assault spearheads. Encountering a Cataphract on the battlefield is a situation no one wants to be in.
+**Cataphract** are heavily armoured walkers equipped with powerful cannons and lethal close-combat weaponry, designed to withstand both physical damage and spells. These piloted machines form the backbone of London's assault spearheads. Encountering a Cataphract on the battlefield is a situation no one wants to be in.
 
 ---
 
@@ -82,13 +82,15 @@ The Brabazon Fleet is a series of colossal mobile penal colonies, constructed by
 
 *Substance*
 
-*Cordite* is a powerful, volatile substance used to propel projectiles in firearms and other London-based weaponry. Refined from rare minerals found only in certain regions of Antares, it burns with immense energy, enabling the magic-less Londoners to rival the magical capabilities of other nations.
+*Cordite* is a volatile substance used to propel projectiles in firearms and other London-based weaponry. Refined from rare minerals found only in certain regions of Antares, it burns with immense energy, enabling the magic-less Londoners to rival the magical capabilities of other nations.
 
 Interestingly, Cordite rapidly becomes inert when in close proximity to those attuned to the Weave. This unique trait makes it unreliable for most non-Londoners, as even minor magical attunement neutralises its potency.
 
-*"The discovery of Cordite was, ironically, an accident. Produced by Elven alchemists as a weapon to obliterate Londoners, it was designed to be stable only in the hands of those bonded with the Weave, but volatile when near those who not. Yet, the plan backfired spectacularly when the Londoners learned to tame and weaponise it. What was intended to bring their ruin instead became the key to their military might—turning the tides and sealing the elves fate."*
+*"The discovery of Cordite was, ironically, an accident. Produced by Elven alchemists as a weapon to obliterate their invaders, it was designed to be stable only in the hands of those bonded with the Weave, but volatile when near those who not. Yet, the plan backfired spectacularly when the Londoners learned to tame and weaponise it. What was intended to bring their ruin instead became the key to their military might—turning the tides and sealing the elves fate."*
+{ .quote }
 
 *"Blud made racist gunpowder. Truly a skill issue"* —London Scientiest
+{ .quote }
 
 ---
 
