@@ -37,8 +37,7 @@ For example, a Level 1 Barbarian may instead of using the Mastery property with 
 
 These Mastery property are available in the PHB'24.
 
-### Cleave 
-{ .noborder }
+### Cleave { .noborder }
 
 **Type:** Melee Weapon  
 **Properties:** **:weapon-prop-heavy: Heavy**
