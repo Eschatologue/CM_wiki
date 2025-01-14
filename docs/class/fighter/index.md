@@ -97,13 +97,13 @@ When you reach certain Fighter levels, you gain more uses of this feature, as sh
 
 ### Level 1: Weapon Mastery
 
-Your training with weapons allows you to use the Mastery properties of three kinds of Simple or Martial weapons of your choice. Whenever you finish a **:rest-long: Long Rest**, you can do one of the following:
+Your training with weapons allows you to use the Mastery properties of three kinds of Simple or Martial Melee weapons of your choice. Whenever you finish a **:rest-long: Long Rest**, you can do one of the following:
 
-_**Change Weapon**_  
-You can practice weapon drills and change *one* of those weapon choices.
+:   **Change Weapon**{ .inl } You can practice weapon drills and change *one* of those weapon choices; or
 
-_**Replace Weapon Mastery**^CM^_  
-You can choose any weapon with a Mastery property that you're using and replace its Mastery property with another eligible Mastery property. For example, you could replace the Longsword's Sap property with the Push property.
+:   **Replace Mastery Property**{ .inl } You can choose any weapon with a Mastery property that you're using and replace its Mastery property with another eligible Mastery property (e.g. Replace Longsword's Sap property with the Push property.).
+
+--8<-- "includes/snippets/item-mastery.md"
 
 When you reach certain Fighter levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Fighter Features table.
 

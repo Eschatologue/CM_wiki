@@ -125,15 +125,11 @@ You can use a Holy Symbol as a Spellcasting Focus for your Paladin spells.
 
 ### Level 1: Weapon Mastery
 
-Your training with weapons allows you to use the Mastery property of two kinds of weapons of your choice with which you have proficiency, such as Longswords and Javelins.
+Your training with weapons allows you to use the Mastery property of two kinds of weapons of your choice with which you have proficiency, such as Longswords and Javelins. Whenever you finish a **:rest-long: Long Rest**, you can do one of the following:
 
-Whenever you finish a **:rest-long: Long Rest**, you can do *one* of the following:
+:   **Change Weapon**{ .inl } You can practice weapon drills and change the kinds of weapons you chose; or
 
-_**Change Weapon**_  
-You can change the kinds of weapons you choose. For example, you could switch to using the Mastery properties of Halberds and Flails.
-
-_**Replace Weapon Mastery**^CM^_  
-You can choose any weapon with a Mastery property that you're using and replace its Mastery property with another eligible Mastery property. For example, you could replace the Halberd's Cleave property with the Topple property.
+:   **Replace Mastery Property**{ .inl } You can choose any weapon with a Mastery property that you're using and replace its Mastery property with another eligible Mastery property (e.g. Replace Halberd's Cleave property with the Topple property.).
 
 --8<-- "includes/snippets/item-mastery.md"
 
