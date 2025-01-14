@@ -31,13 +31,14 @@ This homebrew rule reinstates a mechanic initially introduced in *Unearthed Arca
 
 When you choose weapons for the Weapon Mastery feature, you may instead gain the ability to use more Mastery properties with the same weapon. You choose a weapon you already chose as part of Weapon Mastery and another type of eligible Mastery property. You may now benefit from that Mastery property when you make attacks with this weapon. You must choose which Mastery property applies before making an attack roll and the weapon must satisfy the Mastery property requirement.
 
-For example, a Level 1 Barbarian may instead of using the Mastery property with Greataxe and Handaxe, choose to apply either Cleave or Graze when making attacks with Greataxe. A Level 1 Rogue may instead of using the Mastery property with Dagger and Shortbow, choose to apply either [Nick](#nick) or [Slow](#slow) with Dagger .
+For example, a Level 1 Barbarian may instead of using the Mastery property with Greataxe and Handaxe, choose to apply either [Cleave](#cleave) or [Graze](#graze) when making attacks with Greataxe. A Level 1 Rogue may instead of using the Mastery property with Dagger and Shortbow, choose to apply either [Nick](#nick) or [Slow](#slow) with Dagger.
 
 ## PHB'24 Mastery property
 
 These Mastery property are available in the PHB'24.
 
-### Cleave { .noborder }
+### Cleave 
+{ .noborder }
 
 **Type:** Melee Weapon  
 **Properties:** **:weapon-prop-heavy: Heavy**
