@@ -19,7 +19,7 @@ Proficiency with a weapon allows you to add your Proficiency Bonus to the attack
 
 When a weapon requires its target to make a saving throw—whether through its Property, Mastery property, or other effects—the DC is as follow:
 
-**Weapon Save DC:** 8 + ability modifier used in the attack + Proficiency Bonus (if proficient)
+**Weapon Save DC:** 8 + Ability Modifier used in the attack + Proficiency Bonus (if proficient)
 { .align-center }
 
 ## Weapon Categories
@@ -54,7 +54,9 @@ At the end of the battle, you can recover half your expended ammunition by takin
 
 ### :weapon-prop-automatic:{ .lg } Automatic
 
-When you take the **:rsc-a: Attack**{ .rsc } action on your turn and attack with an Automatic weapon, you can make extra attacks up to the number in the parenthesis later on the same turn. That extra attack must be made with the *same weapon* provided the weapon has enough Ammunition for the attacks, and you don't add your ability modifier to the additional attack's damage rolls, unless that modifier is negative.
+Each time you make an attack with an **:weapon-prop-automatic: Automatic** weapon, you can make one extra attack later on the same turn. This extra attack must be made with the *same weapon* provided it has enough Ammunition for the attack, and you don't add your ability modifier to the additional attack's damage roll, unless that modifier is negative. 
+
+If the Automatic property includes a number (e.g., Automatic (3)), that number determines the maximum additional attacks you can make each time you attack with the weapon. For example, a Sub-Machine Gun with Automatic (3) allows up to 3 extra attacks per attack.
 
 ---
 
@@ -145,6 +147,20 @@ This weapon requires two hands when you attack with it. This property is relevan
 This weapon can be used with one or two hands. A damage value in parentheses appears with the property–the damage when the weapon is used with two hands to make a melee attack.
 
 ---
+
+<!--- 
+
+### Automatic (Legacy)
+
+When you take the Attack action on your turn and attack with an Automatic weapon, you can make extra attacks up to the number in the parenthesis later on the same turn. That extra attack must be made with the *same weapon* provided the weapon has enough Ammunition for the attacks, and you don't add your ability modifier to the additional attack's damage rolls, unless that modifier is negative.
+
+### Automatic (Ver 1.1)
+
+Each time you make an attack with an Automatic weapon, you can make one extra attacks later on the same turn. This extra attack must be made with the same weapon provided the weapon has enough Ammunition for the attacks, and you don't add your ability modifier to the additional attack's damage rolls, unless that modifier is negative. 
+
+When an Automatic property has a number in parenthesis (e.g. Automatic (2)), the amount of additional attacks you can make each time you make an attack increases corresponding to the number in the parenthesis. For example, a Sub-Machine gun with Automatic (2), can make a total of 2 additional attack each time the wielder attack using it.
+
+--->
 
 ## Unique Properties
 

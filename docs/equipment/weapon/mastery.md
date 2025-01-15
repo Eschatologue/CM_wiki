@@ -19,15 +19,13 @@ To give more options for martial classess, the folowing homebrew rules are imple
 
 This homebrew rule reinstates a mechanic initially introduced in *Unearthed Arcana 2023 Playtest 7*, which allowed classes with the Weapon Mastery feature to change a weapon's Mastery property to another eligible one.
 
-When you finish a **:rest-long: Long Rest**, provided you have Weapon Mastery feature, you can choose any weapon with a Mastery property that you're using and replace its Mastery property with another eligible Mastery property. For example, you could replace the Longsword's [Sap](#sap) property with the [Flex](#flex) property. This follows the rules below:
+When you finish a **:rest-long: Long Rest**, provided you have Weapon Mastery feature, you can choose any weapon with a Mastery property that you're using and replace its Mastery property with another eligible Mastery property. For example, you could replace the Longsword's [Sap](#sap) property with the [Flex](#flex) property.
 
-- **Character Exclusive**{ .inl } These Mastery property changes apply only to the character that makes them and do not affect other characters. For example, if a Barbarian changes a Glaive's Graze property to Cleave, another Barbarian or any other class using the same Glaive would still use its default Graze property.
-
-- **Defaults on Long Rest**{ .inl } Any changes made to a weapon's Mastery property end for the character when they finish a **:rest-long: Long Rest**.
+**Character Exclusive**{ .inl } These Mastery property changes apply only to the character that makes them and do not affect other characters. For example, if a Barbarian changes a Glaive's Graze property to Cleave, another Barbarian or any other class using the same Glaive would still use its default Graze property.
 
 ### More Mastery on One Weapon
 
-This homebrew rule reinstates a mechanic initially introduced in *Unearthed Arcana 2023 Playtest 5*, which allowed Fighters to benefit from multiple Mastery properties for one weapon. Now, its given to every classes that has Mastery property feature.
+This homebrew rule reinstates a mechanic initially introduced in *Unearthed Arcana 2023 Playtest 5*, which allowed Fighters to benefit from multiple Mastery properties for one weapon. Now, its given to every classes that has Weapon Mastery feature.
 
 When you choose weapons for the Weapon Mastery feature, you may instead gain the ability to use more Mastery properties with the same weapon. You choose a weapon you already chose as part of Weapon Mastery and another type of eligible Mastery property. You may now benefit from that Mastery property when you make attacks with this weapon. You must choose which Mastery property applies before making an attack roll and the weapon must satisfy the Mastery property requirement.
 
@@ -113,15 +111,6 @@ If you hit a creature with this weapon and deal damage to the creature, you have
 
 These Mastery property are homebrew.
 
-### Cripple { .noborder }
-
-**Type:** **:dmg-bldg: Bludgeoning**{ .dmg-phys } Melee weapon or **:weapon-prop-heavy: Heavy** Ranged weapon  
-**Properties:** Any
-
-If you hit a creature with this weapon, you can choose to deal only half damage and make the target's **:rsc-spd: Speed**{ .em } becomes 0 until the start of your next turn.
-
----
-
 ### Brace { .noborder }
 
 **Type:** Any  
@@ -163,7 +152,7 @@ When you take the **:rsc-a: Dash**{ .rsc } or **:rsc-a: Disengage**{ .rsc } acti
 **Type:** Ranged weapon  
 **Properties:** **:weapon-prop-automatic: Automatic** and **:weapon-prop-reload: Reload (8+)**
 
-When you take the **:rsc-a: Attack**{ .rsc } action, you can choose to expend 8 pieces of the weapon's ammunition to spray shots in a 15-foot Cube within the weapon's normal range. Each creature in that area must succeed on a Dexterity saving throw against your Weapon Save DC or take the Weapon's damage. You can't make this special attack if you have less than 8 ammunition in the weapon.
+When you take the **:rsc-a: Attack**{ .rsc } action, you can choose to expend 8 pieces of the weapon's ammunition to spray shots in a 15-foot Cube within the weapon's normal range. Each creature in that area must succeed on a Dexterity saving throw against your [Weapon Save DC](index.md#weapon-save-dc) or take the Weapon's damage. You can't make this special attack if you have less than 8 ammunition in the weapon.
 
 ---
 
@@ -175,3 +164,5 @@ When you take the **:rsc-a: Attack**{ .rsc } action, you can choose to expend 8 
 When you make an **:weapon-prop-automatic: Automatic** attack using this weapon, you can add your ability modifier to the damage roll of the second attack.
 
 ---
+
+
