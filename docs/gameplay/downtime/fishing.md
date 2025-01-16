@@ -101,29 +101,55 @@ Below is the Fishing table for each different biome you can fish within Antares.
 
 === "Freshwater"
 
-    | overall score | loot | sell price | overall score | loot | sell price |
-    |:-:|---|--:|:-:|---|--:|
-    | 5-19 | Junk (Roll on Junk Table) |  SP | 66 | 1d4 Giant Mudcrab | 900 SP |
-    | 20-21 | 2d6 Fanged Strangler | 20 SP | 67-70 | Sallow Burbot | 1,170 SP |
-    | 22-23 | 2d6 Blast Tadpole | 20 SP | 71-74 | Fiddler Crab | 1,230 SP |
-    | 24-25 | 1d8 Ball Snail | 40 SP | 75-78 | Vortex Sturgeon | 1,280 SP |
-    | 26-27 | 1d8 Fatheaded Slurper | 50 SP | 79-82 | Voltaic Carp | 1,350 SP |
-    | 28-29 | 2d4 Deviltailed Slapper | 60 SP | 83-86 | Dubstep Trout | 1,400 SP |
-    | 30-31 | 1d6 Bearded Trout | 100 SP | 87-90 | Entangled Crab | 1,460 SP |
-    | 32-33 | 1d6 Clockwork Catfish | 110 SP | 91-94 | Furry Catfish | 1,510 SP |
-    | 34-35 | Blistered Tarpon | 450 SP | 95 | Gar | 3,140 SP |
-    | 36-37 | 1d4 Halberd Pike | 200 SP | 96-99 | Tusked Carp | 1,620 SP |
-    | 38-40 | All-seeing Salmon | 560 SP | 100 | Rare Item from DM |  SP |
-    | 41-43 | 1d4 Host Eel | 250 SP | 101-106 | Crystal Eel | 1,730 SP |
-    | 44-46 | 1d4 Common Crab | 270 SP | 107-113 | Seizing Snailfish | 1,800 SP |
-    | 47-49 | Decaying Blackmouth | 720 SP | 114-120 | Longfin Eel | 1,850 SP |
-    | 50 | Uncommon Item from DM |  SP | 121-124 | Blue Mackarell | 3,820 SP |
-    | 51-53 | 1d4 Rust Eel | 340 SP | 125 | Epic Item from DM |  SP |
-    | 54-56 | Cantankerous Piranha | 900 SP | 126-133 | Wagyu Trout | 3,030 SP |
-    | 57-59 | Based Bass | 950 SP | 134-141 | Arowana | 3,105 SP |
-    | 60-62 | Twinned Eels | 1,010 SP | 142-149 | Knifefish | 4,260 SP |
-    | 63-65 | Cortex Crab | 1,060 SP | 150 | Legendary Item from DM |  SP |
- 
+    <div class="grid" markdown>
+
+    | Overall Score | Loot | Sell Price |
+    |:-:|---|--:|
+    | 5-19 | Junk (Roll on Junk Table) | - SP |
+    | 20-21 | 2d6 Fanged Strangler | 20 SP |
+    | 22-23 | 2d6 Blast Tadpole | 20 SP |
+    | 24-25 | 1d8 Ball Snail | 40 SP |
+    | 26-27 | 1d8 Fatheaded Slurper | 50 SP |
+    | 28-29 | 2d4 Deviltailed Slapper | 60 SP |
+    | 30-31 | 1d6 Bearded Trout | 100 SP |
+    | 32-33 | 1d6 Clockwork Catfish | 110 SP |
+    | 34-35 | Blistered Tarpon | 450 SP |
+    | 36-37 | 1d4 Halberd Pike | 200 SP |
+    | 38-40 | All-seeing Salmon | 560 SP |
+    | 41-43 | 1d4 Host Eel | 250 SP |
+    | 44-46 | 1d4 Common Crab | 270 SP |
+    | 47-49 | Decaying Blackmouth | 720 SP |
+    | 50 | Uncommon Item from DM | SP |
+    | 51-53 | 1d4 Rust Eel | 340 SP |
+    | 54-56 | Cantankerous Piranha | 900 SP |
+    | 57-59 | Based Bass | 950 SP |
+    | 60-62 | Twinned Eels | 1,010 SP |
+    | 63-65 | Cortex Crab | 1,060 SP |
+
+    | Overall Score | Loot | Sell Price |
+    |---|---|---|
+    | 66 | 1d4 Giant Mudcrab | 900 SP |
+    | 67-70 | Sallow Burbot | 1,170 SP |
+    | 71-74 | Fiddler Crab | 1,230 SP |
+    | 75-78 | Vortex Sturgeon | 1,280 SP |
+    | 79-82 | Voltaic Carp | 1,350 SP |
+    | 83-86 | Dubstep Trout | 1,400 SP |
+    | 87-90 | Entangled Crab | 1,460 SP |
+    | 91-94 | Furry Catfish | 1,510 SP |
+    | 95 | Gar | 3,140 SP |
+    | 96-99 | Tusked Carp | 1,620 SP |
+    | 100 | Rare Item from DM | SP |
+    | 101-106 | Crystal Eel | 1,730 SP |
+    | 107-113 | Seizing Snailfish | 1,800 SP |
+    | 114-120 | Longfin Eel | 1,850 SP |
+    | 121-124 | Blue Mackarell | 3,820 SP |
+    | 125 | Epic Item from DM | SP |
+    | 126-133 | Wagyu Trout | 3,030 SP |
+    | 134-141 | Arowana | 3,105 SP |
+    | 142-149 | Knifefish | 4,260 SP |
+    | 150 | Legendary Item from DM | - SP |
+
+    </div>
 
 === "Saltwater"
 

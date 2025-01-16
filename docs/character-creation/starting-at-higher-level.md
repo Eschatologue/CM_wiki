@@ -12,7 +12,7 @@ Your DM might start your group's characters at a level higher than 1. It is part
 
 The DM decides whether your character starts with more than the standard equipment for a level 1 character, possibly even one or more magic items. The Starting Equipment at Higher Levels table is a guide for the DM.
 
-Also, check with your DM about what equipment is available for you to buy with your starting money. For example, the firearms described in chapter 6 are too expensive for level 1 characters, but they might be available for purchase if your DM allows them.
+Also, check with your DM about what equipment is available for you to buy with your starting money.
 
 ##### Starting Equipment at Higher Levels
 | Starting Level | Equipment and Money | Magic Items |
