@@ -244,6 +244,8 @@ Below is the Fishing table for each different biome you can fish within Antares.
     | 147-149 | Sleeper Shark | 3,030 SP |
     | 150 | Legendary Item from DM | SP |
 
+    </div>
+
 === "Abyssal"
 
     <div class="grid" markdown>
@@ -266,7 +268,7 @@ Below is the Fishing table for each different biome you can fish within Antares.
     | 50 | Uncommon Item from the DM | SP |
     | 51-54 | Perished Loosejaw | 1,890 SP |
     | 55-59 | Decrepit Viperfish | 2,020 SP |
-    | 60-64 | 2d6 Splintered Crab | 310 SP |
+    | 60-64 | 2d6 Splintered Crab | 350 SP |
     | 65-69 | Shattered Wreckfish | 2,290 SP |
     | 70-74 | 1d4 Imperious Lobster | 980 SP |
     | 75-79 | Rapt Shark | 2,560 SP |
@@ -287,7 +289,7 @@ Below is the Fishing table for each different biome you can fish within Antares.
     | 117-122 | Umbral Puppet | 4,180 SP |
     | 123-124 | 1d2 Spider Crab | 4,320 SP |
     | 125 | Epic Item from the DM | SP |
-    | 126-127 | Oarfish | 6,890 SP |
+    | 126-127 | Oarfish | 6,900 SP |
     | 128-136 | Medusa Octopus | 4,720 SP |
     | 137-145 | 3d6 Anchovy King | 470 SP |
     | 146-147 | 1d4 Snailfish | 2,400 SP |
