@@ -337,3 +337,5 @@ Antagoni consults the fishing table to determine what he caught based on the fin
 
 
 [Fishing Supplies]: ../../equipment/tools/other-tools.md#fishings-supplies
+
+*[Flayed Mackarel]: Rended flesh with muscle and bone exposed. This gory mess of a fish can't have lived like this for long.
