@@ -12,33 +12,35 @@ In the days before the devastation caused by the warp storms and the emergence o
 
 Antares' natural rivers and waters, now severely tainted by the Warp, saw most of its fish population undergo mutations, giving them grotesque features akin to the aberrations roaming the land. While many former fishermen and anglers turned to fish farming to preserve the dwindling population of untainted fish, a few individuals remained steadfast in their love for the excitement and adrenaline that only fishing could provide. 
 
-### Update from Previous Version
-
-- **Different Baits:** Baits are no longer required to fish. Instead, having [Fishing Supplies] is now necessary as they contain your fishing equipment, including your baits. Specially made baits do exist, but they act more similarly to magical or special ammunition for ranged weapons.
-
-- **D20 Wisdom (Survival) Checks:** You can fish wherever you see water without needing to make a Survival check. However, if you attempt to fish in an obscure place, such as a well, a puddle in a cave, or someone's drinking water, the DM will require a Wisdom check. Proficiency with [Fishing Supplies] allows you to add your Proficiency Bonus to this check.
-
-- **Aberrant and Untainted Fish:** These categorizations no longer exist. Instead, each fish has been adjusted in price to reflect its rarity.
-
 ## Resources
 
 This newly designed fishing mechanic is completely different from what you might remember in the previous version. Forget the old rules and refer to this version from now on.
 
-**Time.**{ .inl } Fishing takes time. From preparing your gear, attaching the bait and tackles, luring the rod, and of course, waiting. Each fishing attempt will take at least **1 hour**.
+**Time**{ .inl } Fishing takes time. From preparing your gear, attaching the bait and tackles, luring the rod, and of course, waiting. Each fishing attempt will take at least **1 hour**.
 
-**Equipment.**{ .inl } To fish you need two things; A Fishing Rod and a Fishing supplies. A Fishing Rod is required to reel in your fish while Fishing supplies contains various items to such as bait, hook, lines etc to help said fishing.
+**Equipment**{ .inl } To fish you need two things; A Fishing Rod and a Fishing supplies. A Fishing Rod is required to reel in your fish while Fishing supplies contains various items to such as bait, hook, lines etc to help said fishing.
 
 ## Resolution
 
 ### Rolling Dice
 
-For every 1 hour you spend fishing, roll five :die-d6: d6s. The process varies slightly depending on your skills:
+You can attempt to fish up to 3 times within the span of 1 hour. For each fishing attempt, roll five :die-d6: d6s. You may reroll dice based on the rules outlined in the Fishing Die Reroll table, as explained below:
 
-- **Proficiency in [Fishing Supplies]:** You can reroll a number of dice up to your Wisdom modifier.
-- **Proficiency in Wisdom (Survival) or Intelligence (Arcana):** You can reroll a number of dice up to your Wisdom or Intelligence modifier.
-- **Proficiency in both [Fishing Supplies] and either Wisdom (Survival) or Intelligence (Arcana):** You can reroll a number of dice equal to your Wisdom or Intelligence modifier plus your Proficiency Bonus.
+**Proficiency**{ .inl } This column specifies the proficiency required for rerolls.
 
-You can reroll the same die more than once. After rerolling, keep each final die result.
+**Reroll Count**{ .inl } This indicates the number of rerolls available based on the corresponding proficiency.
+
+##### Fishing Die Reroll
+
+| Proficiency | Reroll Count |
+|:--|:-:|
+| Fishing Supplies | + Equals to Proficiency Bonus |
+| Wisdom (Survival) | + Equals to Wisdom Modifier |
+| Intelligence (Arcana) | + Equals to Intelligence Modifier |
+
+These reroll counts are **additive**. If you meet multiple proficiency prerequisites, add the reroll counts together to determine your total number of rerolls.
+
+You may reroll the same die more than once. After rerolling, final results for each die must be kept
 
 ### Calculating Final Result
 
@@ -48,7 +50,6 @@ Before summing your results, check if you rolled a special result. Multiply your
 
 | Special Result | Multiplier | Description | Example |
 |---|:-:|---|:-:|
-| Two-of-a-kind | ×1.5 | Three dice of the same number. | `1 1 6 2 5` |
 | Three-of-a-kind | ×2 | Three dice of the same number. | `5 5 5 2 4` |
 | Full House | ×2.5 | Three dice of one number and two of another. | `3 3 3 5 5` |
 | Straight | ×3 | Five sequential numbers. | `5 4 3 2 1` |
