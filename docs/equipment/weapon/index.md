@@ -52,15 +52,15 @@ At the end of the battle, you can recover half your expended ammunition by takin
 
 ---
 
-### :weapon-prop-automatic:{ .lg } Automatic
+### :weapon-prop-automatic: Automatic { .noborder }
 
 Each time you make an attack with an **:weapon-prop-automatic: Automatic** weapon, you can make one extra attack later on the same turn. This extra attack must be made with the *same weapon* provided it has enough Ammunition for the attack, and you don't add your ability modifier to the additional attack's damage roll, unless that modifier is negative. 
 
-If the Automatic property includes a number (e.g., Automatic (3)), that number determines the maximum additional attacks you can make each time you attack with the weapon. For example, a Sub-Machine Gun with Automatic (3) allows up to 3 extra attacks per attack.
+If the Automatic property includes a plus and a number (e.g., Automatic (+3)), that number determines the maximum additional attacks you can make each time you attack with the weapon. For example, a Sub-Machine Gun with Automatic (+3) allows up to 3 extra attacks per attack.
 
 ---
 
-### :weapon-prop-explosive:{ .lg } Explosive
+### :weapon-prop-explosive: Explosive { .noborder }
 
 When this weapon's hits a target, it explodes and affect an area of effect on the parenthesis, originating from the target. The weapon can target a point within its range. Each creature in the area of effect centered on the point or the target must make a **:d20-save: Dexterity saving throw**{ .d20 } against your Weapon Save DC. The creature takes the weapon's damage on a failed save, or half as much damage on a successful one.
 
@@ -68,37 +68,37 @@ Your initial target makes this **:d20-save: Saving Throw** at a **:d20-disadv: D
 
 ---
 
-### :weapon-prop-finesse:{ .lg } Finesse
+### :weapon-prop-finesse: Finesse { .noborder }
 
 When making an attack with a **:weapon-prop-finesse: Finesse** weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 
 ---
 
-### :weapon-prop-heavy:{ .lg } Heavy
+### :weapon-prop-heavy: Heavy { .noborder }
 
 Heavy weapon is unwieldy compared to other weapons. You have **:d20-disadv: Disadvantage**{ .d20 } on your attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13, and if it's a Ranged weapon and your Dexterity score isn't at least 13.
 
 ---
 
-### :weapon-prop-light:{ .lg } Light
+### :weapon-prop-light: Light { .noborder }
 
 When you take the **:rsc-a: Attack**{ .rsc } action on your turn and attack with a Light weapon, you can make one extra attack as a **:rsc-b: Bonus Action**{ .rsc } later on the same turn. That extra attack must be made with a *different Light weapon*, and you don't add your ability modifier to the extra attack's damage, unless that modifier is negative.
 
 ---
 
-### :weapon-prop-loading:{ .lg } Loading
+### :weapon-prop-loading: Loading { .noborder }
 
 Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an **:rsc-a: Action**{ .rsc }, **:rsc-b: Bonus Action**{ .rsc }, or **:rsc-r: Reaction**{ .rsc } to fire it, regardless of the number of attacks you can normally make.
 
 ---
 
-### :weapon-prop-mounted:{ .lg } Mounted
+### :weapon-prop-mounted: Mounted { .noborder }
 
 This weapon is normally used while attached to a tripod, vehicle, or other bracing mount. You can mount or unmount this weapon as an **:rsc-a: Action**{ .rsc }. While it is mounted, it can't be moved. It can only be used to make an attack while unmounted if held by a creature with a Strength score of at least 15.
 
 ---
 
-### :weapon-prop-range:{ .lg } Range
+### :weapon-prop-range: Range { .noborder }
 
 This weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. 
 
@@ -106,45 +106,45 @@ The range lists two numbers. The first is the weapon's normal range in feet, and
 
 ---
 
-### :weapon-prop-reach:{ .lg } Reach
+### :weapon-prop-reach: Reach { .noborder }
 
 This weapon adds 5 feet to your reach when you attack with it. This property also determines your reach for **:rsc-r: Opportunity Attacks** with a reach weapon.
 
 ---
 
-### :weapon-prop-reload:{ .lg } Reload
+### :weapon-prop-reload: Reload { .noborder }
 
 This weapon can be used to make a number of attacks before it must be reloaded. If you are proficient with the weapon, reloading it takes a **:rsc-b: Bonus Action**{ .rsc }; otherwise, reloading it takes an **:rsc-a: Action**{ .rsc }. Some weapons require an **:rsc-a: Action**{ .rsc } or longer to reload, even if you have Proficiency, which is specified in the Reload property. If reloading a weapon requires longer than one action, the weapon can't be used to make attacks until reloading is finished.
 
 ---
 
-### :weapon-prop-scatter:{ .lg } Scatter
+### :weapon-prop-scatter: Scatter { .noborder }
 
 If you make an attack against a target that is within half this weapon's normal range (round up), you deal the damage value listed in parenthesis instead of the weapon's normal damage dice.
 
 ---
 
-### :weapon-prop-sighted:{ .lg } Sighted
+### :weapon-prop-sighted: Sighted { .noborder }
 
-This weapon has **:d20-disadv: Disadvantage**{ .d20 } on attack rolls made against targets within 20 feet and has **:d20-adv: Advantage**{ .d20 } against target that has not moved at least 15 feet for this before the start of your current turn.
+This weapon has **:d20-disadv: Disadvantage**{ .d20 } on attack rolls made against targets within 20 feet and has **:d20-adv: Advantage**{ .d20 } against target that has not moved at least 15 feet for this before the start of your turn.
 
 ---
-
-### :weapon-prop-thrown:{ .lg } Thrown
+ 
+### :weapon-prop-thrown: Thrown { .noborder }
 
 You can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. If the weapon has the **[:weapon-prop-finesse: Finesse](#finesse)** property, you can use your choice of your Strength or Dexterity modifier for the attack and damage rolls.
 
 ---
 
-### :weapon-prop-two-handed:{ .lg } Two-Handed
+### :weapon-prop-two-handed: Two-Handed { .noborder }
 
 This weapon requires two hands when you attack with it. This property is relevant only when you attack with the weapon, not when you simply hold it.
 
 ---
 
-### :weapon-prop-versatile:{ .lg } Versatile
+### :weapon-prop-versatile: Versatile { .noborder }
 
-This weapon can be used with one or two hands. A damage value in parentheses appears with the property–the damage when the weapon is used with two hands to make a melee attack.
+A Versatile weapon can be used with one or two hands. A damage value in parentheses appears with the property. The weapon deals that damage when used with two hands to make a melee attack.
 
 ---
 
