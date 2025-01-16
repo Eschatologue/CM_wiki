@@ -48,6 +48,7 @@ Before summing your results, check if you rolled a special result. Multiply your
 
 | Special Result | Multiplier | Description | Example |
 |---|:-:|---|:-:|
+| Two-of-a-kind | ×1.5 | Three dice of the same number. | `1 1 6 2 5` |
 | Three-of-a-kind | ×2 | Three dice of the same number. | `5 5 5 2 4` |
 | Full House | ×2.5 | Three dice of one number and two of another. | `3 3 3 5 5` |
 | Straight | ×3 | Five sequential numbers. | `5 4 3 2 1` |
@@ -98,8 +99,6 @@ You can change your fishing rod modifications as part of a **:rest-short: Short 
 Below is the Fishing table for each different biome you can fish within Antares. Refer to the table after calculating your final result:
 
 === "Freshwater"
-
-    ##### Freshwater
 
     <div class="grid" markdown>
 
@@ -153,8 +152,6 @@ Below is the Fishing table for each different biome you can fish within Antares.
 
 === "Saltwater"
 
-    ##### Saltwater
-
     <div class="grid" markdown>
 
     | Overall Score | Loot | Sell Price |
@@ -207,8 +204,6 @@ Below is the Fishing table for each different biome you can fish within Antares.
 
 === "Tundra"
 
-    ##### Tundra
-
     <div class="grid" markdown>
 
     | Overall Score | Loot | Sell Price |
@@ -250,8 +245,6 @@ Below is the Fishing table for each different biome you can fish within Antares.
     | 150 | Legendary Item from DM | SP |
 
 === "Abyssal"
-
-    ##### Abyssal
 
     <div class="grid" markdown>
 
@@ -303,7 +296,7 @@ Below is the Fishing table for each different biome you can fish within Antares.
 
     </div>
 
-### Junk Table
+##### Junk 
 
 | d8 | Loot |
 |:-:|---|
