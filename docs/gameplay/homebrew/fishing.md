@@ -26,11 +26,9 @@ To start fishing, you need the [Fishing Supplies] tool. This is a box equipped w
 
 Baits are used to attract fish. While it’s possible to fish without bait, the likelihood of catching something other than fish increases significantly. Baits are consumed when used and can only be equipped on fishing rods with a bait slot.  
 
-The Bait table lists commonly available baits for purchase at most establishments. Special baits may exist but are subject to the DM's discretion.  
+The Common Bait table outlines commonly available baits for purchase at most establishments.
 
-##### Bait
-
-<div class="grid" markdown>
+##### Common Bait
 
 | Bait | Effect | Cost |
 |---|---|--:|
@@ -39,12 +37,12 @@ The Bait table lists commonly available baits for purchase at most establishment
 | Exotic Bait | Adds +12 bonus to Fishing Roll, *after* multiplier | 400 SP | 
 | Master Bait | Adds +24 bonus to Fishing Roll, *after* multiplier | 1,200 SP |
 
-| Bait | Effect | Cost |
-|---|---|--:|
-| Wild Bait | After Fishing Roll's final result is calculated, roll a d8. On 7 or 8, you get two Fish instead of one | 150 SP |
-| Gambler's Bait | Choose a Special Result. If the fishing attempt results in a chosen Special result, you get three Fish instead of one. If not, you get nothing | 500 SP |
+#### Special Baits
 
-</div>
+The list below outlines Bait that acts differently than the Baits listed in the Common Bait table.
+
+**Bonar**{ .em }  
+Cancels this D&D session.
 
 ### Tackles
 
