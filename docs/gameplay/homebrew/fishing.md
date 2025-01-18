@@ -21,32 +21,48 @@ To start fishing, you need the [Fishing Supplies] tool. This is a box equipped w
 
 ### Baits  
 
-*Don't dip yer' hand there—fish go crazy over that.*  
+*"Don't dip yer' hand there—fish go crazy over that."*  
 { .quote }  
 
 Baits are used to attract fish. While it’s possible to fish without bait, the likelihood of catching something other than fish increases significantly. Baits are consumed when used and can only be equipped on fishing rods with a bait slot.  
 
-The Common Bait table outlines commonly available baits for purchase at most establishments.
+The Bait table outlines commonly available baits for purchase at most establishments.
 
-##### Common Bait
+##### Bait
 
-| Bait | Effect | Cost |
+<div class="grid" markdown>
+
+| Common Bait | Effect | Cost |
 |---|---|--:|
-| Bait | Adds +3 bonus to Fishing Roll, *after* multiplier | 10 SP | 
-| Deluxe Bait | Adds +6 bonus to Fishing Roll, *after* multiplier | 100 SP | 
-| Exotic Bait | Adds +12 bonus to Fishing Roll, *after* multiplier | 400 SP | 
-| Master Bait | Adds +24 bonus to Fishing Roll, *after* multiplier | 1,200 SP |
+| Bait | Adds +3 bonus to Overall Score | 10 SP | 
+| Deluxe Bait | Adds +6 bonus to Overall Score | 100 SP | 
+| Exotic Bait | Adds +12 bonus to Overall Score | 400 SP | 
+| Master Bait | Adds +24 bonus to Overall Score | 1,200 SP |
 
-#### Special Baits
+| Special Bait | Effect | Cost |
+|---|---|--:|
+| Arcane Bait | *See Fishing Appendix A* | 300 SP |
+| Gambler's Bait | *See Fishing Appendix A* | 500 SP | 
+| Target Bait | *See Fishing Appendix A* | 250 SP | 
+| Wild Bait | *See Fishing Appendix A* | 250 SP | 
 
-The list below outlines Bait that acts differently than the Baits listed in the Common Bait table.
+</div>
 
-**Bonar**{ .em }  
-Cancels this D&D session.
+### Tackle
 
-### Tackles
+*"A clever angler knows: the right tackle makes all the difference."*
+{ .quote }
 
-Tackles
+Tackles enhance the functionality of your fishing rod. While baits improve the **Overall Score** or allow you to target specific fish, tackles modify the mechanics of fishing itself. Each tackle has a unique functionality, as outlined in the Tackle table
+
+##### Tackles
+
+| Tackle | Effects | Cost |
+|---|---|--:|
+| Spinner | You can reroll 1 extra dice when fishing | 800 SP |
+| Dressed Spinner | You can reroll 2 extra dice when fishing | 2,000 SP |
+| Adjustable Hook | When determing your loot from the Fishing Loot table, you can change your loot into one that is in the row above or below | 2,000 SP |
+| Multi-hook | When determing your loot from the Fishing Loot table, you get one more loot determined from your Overall Score minus 30 | 2,000 SP |
 
 ### Fishing Rods
 
@@ -63,8 +79,10 @@ The Fishing Rods table below lists various fishing rods along with their associa
 | Crude Angler's Rod | 0 | 0 | - |
 | Novice Angler's Rod | 1 | 0 | 700 SP |
 | Journeymen Angler's Rod | 1 | 1 | 1,400 SP |
-| Adept Angler's Rod | 1 | 2 | 2,800 SP |
-| Master Angler's Rod | 2 | 2 | 5,600 SP |
+| Adept Angler's Rod | 1 | 2 | 3,200 SP |
+| Master Angler's Rod | 2 | 2 | 6,800 SP |
+
+---
 
 ## Step by Step
 
