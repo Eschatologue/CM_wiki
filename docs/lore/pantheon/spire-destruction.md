@@ -5,7 +5,8 @@ search:
 
 # Spire of Destruction
 
-###### *“Oh the shattered one, oh the blemished one, grant us thy blessings and salvation of thy earth-shattering ivory lance”* <br><p align="right"> - Priest of Entropy </p>
+*“Oh the shattered one, oh the blemished one, grant us thy blessings and salvation of thy earth-shattering ivory lance”* <br><p align="right"> - Priest of Entropy </p>
+{ .quote }
 
 ## Profile
 

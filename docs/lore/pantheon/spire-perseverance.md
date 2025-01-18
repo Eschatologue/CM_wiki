@@ -5,7 +5,8 @@ search:
 
 # Spire of Perseverance
 
-###### *“Here lies the foundation of the Earth and the Sky, the torch enlighten our souls against the Darkness. Hear the songs and cries of our ancestors, let our blood and their toils forge our future!* <br><p align="right"> - Wood Elf Engineer </p>
+*“Here lies the foundation of the Earth and the Sky, the torch enlighten our souls against the Darkness. Hear the songs and cries of our ancestors, let our blood and their toils forge our future!* <br><p align="right"> - Wood Elf Engineer </p>
+{ .quote }
 
 ## Profile
 

@@ -5,7 +5,8 @@ search:
 
 # Spire of Harmony
 
-###### *“Our unity has once given birth to a source, a symbol of our unity and elvenhood, and yet the same unity eventually shatters us”* <br><p align="right"> - High Elf Priest </p>
+*“Our unity has once given birth to a source, a symbol of our unity and elvenhood, and yet the same unity eventually shatters us”* <br><p align="right"> - High Elf Priest </p>
+{ .quote }
 
 ## Profile
 

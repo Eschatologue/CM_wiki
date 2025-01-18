@@ -63,9 +63,13 @@ Before summing your results, check if you rolled a special result. Multiply your
 
 ## Fishing Equipment
 
-A great fishermen is not just that is lucky, but those who both lucky and came prepared. This part right here defines some fishing equipment that you can come across in the world. These equipemnt can help you get better result when pulling something from the depths.
+A great fishermen is not just that is lucky, but those who both lucky and came prepared. The Fishing Rods table outlines some fishing equipment that you can come across in the world. These equipment can help you get better result when pulling something from the depths with the addition of the following details.
 
-### Fishing Rods
+**Overall Score Bonus**{ .inl } Each fishing rod provides a score bonus to determine what loot you pull from the depths. This score bonus is added *after* any additional multiplier.
+
+**Mod. Slot**{ .inl } Each fishing rod can be modified and tinkered to the fisherman's desire. To equip a [modification], you must have a slot available. Some [modification]s can take multiple slots.
+
+##### Fishing Rods
 
 | Rods | overall score bonus | mod.slot | cost |
 | --- | :-: | --: | --: |
@@ -75,9 +79,6 @@ A great fishermen is not just that is lucky, but those who both lucky and came p
 | Adept Angler's Rod | +6 | 4 slot | 2,800 SP |
 | Master Angler's Rod | +8 | 6 slot | 5,600 SP |
 
-**Overall Score Bonus:** Each fishing rod provides a score bonus to determine what loot you pull from the depths. This score bonus is added after any additional multiplier.
-
-**Mod. Slot:** Each fishing rod can be modified and tinkered to the fisherman's desire. To equip a [modification], you must have a slot available. Some [modification]s can take multiple slots.
 
 [modification]: #fishing-rod-modifications
 

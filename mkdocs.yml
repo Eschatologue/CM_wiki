@@ -129,7 +129,7 @@ nav:
     - Additional Mechanics:
       - The Silver Standard: gameplay/homebrew/silver-standard.md
       - Inventory System: gameplay/homebrew/inventory.md
-      - Fishing: gameplay/homebrew/fishing.md
+      - Fishing & Angling: gameplay/homebrew/fishing.md
       - Downtime:
         - gameplay/downtime/index.md
         - Carousing: gameplay/downtime/carousing.md
@@ -142,8 +142,9 @@ nav:
         - Selling Magic Item: gameplay/downtime/selling-magic-item.md
         - Training: gameplay/downtime/training.md
         - Work: gameplay/downtime/work.md
-    - Rule Glossary: glossary.md
-    - Quick Reference: quickref.md
+    - Glossaries: 
+      - Rule Glossary: glossary.md
+      - Quick Reference: quickref.md
 #    - Icconography : iconography.md
   - Character Creation:
     - Create Your Character: character-creation/create-your-character.md

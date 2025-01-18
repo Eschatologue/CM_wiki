@@ -3,7 +3,8 @@ search:
   boost: 0.25
 ---
 
-###### *"I thought I could exploit a loophole in this universe's law. Little did I know that the Equilibrium had accounted for this and had already reshaped reality against me."* <br><p align="right">– A Swordsage </p>
+*"I thought I could exploit a loophole in this universe's law. Little did I know that the Equilibrium had accounted for this and had already reshaped reality against me."* <br><p align="right">– A Swordsage </p>
+{ .quote }
 
 # Spire of Equillibrium
 

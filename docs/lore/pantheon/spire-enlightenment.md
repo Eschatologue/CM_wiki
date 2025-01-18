@@ -5,7 +5,8 @@ search:
 
 # Spire of Enlightenment
 
-###### *"If THEY come back, I'm betting we're toast—and honestly, we'd deserve it after the magical mess we've made."* <br><p align="right">– Young Gallian Scholar </p>
+*"If THEY come back, I'm betting we're toast—and honestly, we'd deserve it after the magical mess we've made."* <br><p align="right">– Young Gallian Scholar </p>
+{ .quote }
 
 ## Overview
 
