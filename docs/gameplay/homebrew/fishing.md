@@ -12,23 +12,48 @@ In the days before the devastation caused by the warp storms and the emergence o
 
 Antares' natural rivers and waters, now severely tainted by the Warp, saw most of its fish population undergo mutations, giving them grotesque features akin to the aberrations roaming the land. While many former fishermen and anglers turned to fish farming to preserve the dwindling population of untainted fish, a few individuals remained steadfast in their love for the excitement and adrenaline that only fishing could provide. 
 
-## Resources
+## Fishing Equipment
 
-This newly designed fishing mechanic is completely different from what you might remember in the previous version. Forget the old rules and refer to this version from now on.
+*A great fisherman is not just lucky but also prepared.*  
+{ .quote }
 
-**Time**{ .inl } Fishing takes time. From preparing your gear, attaching the bait and tackles, luring the rod, and of course, waiting. Each fishing attempt will take at least **1 hour**.
+To start fishing, you need the [Fishing Supplies] tool. This is a box equipped with compartments for baits, tackles, an external compartment for your fishing rod, and other essential items for fishing, regardless of its appearance. It contains the aforementioned items, all of which are necessary to begin fishing. These items are discussed in the following sections:
 
-**Equipment**{ .inl } To fish you need two things; A Fishing Rod and a Fishing supplies. A Fishing Rod is required to reel in your fish while Fishing supplies contains various items to such as bait, hook, lines etc to help said fishing.
+### Baits
 
-## Resolution
+### Tackles
 
-### Rolling Dice
+### Fishing Rods
+
+The Fishing Rods table below lists various fishing rods along with their associated costs and features. Each rod includes the following details:  
+
+**Bait Slot**{ .inl } A fishing rod can be equipped with bait to attract fish. Some baits provide flat bonuses, while others may increase the number of fish caught.  
+
+**Tackle Slot**{ .inl } A fishing rod can be equipped with specific tackles to modify its functionality.  
+
+##### Fishing Rods  
+
+| Rods | bait slot | tackle slot | cost |
+|---|:-:|:-:|--|
+| Crude Angler's Rod | 0 | 0 | - |
+| Novice Angler's Rod | 1 | 0 | 700 SP |
+| Journeymen Angler's Rod | 1 | 1 | 1,400 SP |
+| Adept Angler's Rod | 1 | 2 | 2,800 SP |
+| Master Angler's Rod | 2 | 2 | 5,600 SP |
+
+## Step by Step
+
+### 1. Finding a Body of Water
+
+Most fish live in bodies of water, so you can only fish in a location capable of supporting aquatic life. No, you can’t fish in a glass of water, a well, a puddle on the road, etc.
+
+### 2. Rolling Dice
 
 You can attempt to fish up to 3 times within the span of 1 hour. For each fishing attempt, roll five :die-d6: d6s. You may reroll dice based on the rules outlined in the Fishing Die Reroll table, as explained below:
 
 **Proficiency**{ .inl } This column specifies the proficiency required for rerolls.
 
-**Reroll Count**{ .inl } This indicates the number of rerolls available based on the corresponding proficiency.
+**Reroll Count**{ .inl } This indicates the number of rerolls available based on the corresponding proficiency. You may reroll the same die more than once. After rerolling, final results for each die must be kept.
 
 ##### Fishing Die Reroll
 
@@ -38,9 +63,7 @@ You can attempt to fish up to 3 times within the span of 1 hour. For each fishin
 | Wisdom (Survival) | + Equals to Wisdom Modifier |
 | Intelligence (Arcana) | + Equals to Intelligence Modifier |
 
-These reroll counts are **additive**. If you meet multiple proficiency prerequisites, add the reroll counts together to determine your total number of rerolls.
-
-You may reroll the same die more than once. After rerolling, final results for each die must be kept
+These reroll counts are **additive**. If you meet multiple proficiency prerequisites, add the reroll counts together to determine your total number you can reroll.
 
 ### Calculating Final Result
 
@@ -61,39 +84,6 @@ Before summing your results, check if you rolled a special result. Multiply your
     It is understandable that this can be complicated when using Dice Maiden in Discord; rerolling dice in particular can be difficult to track. An alternate solution is to use the dice roll provided by [Google](https://g.co/kgs/yktfMZF). You can easily click the dice you wish to reroll with this.  
     ~~Please don't fumble your rolls~~
 
-## Fishing Equipment
-
-A great fishermen is not just that is lucky, but those who both lucky and came prepared. The Fishing Rods table outlines some fishing equipment that you can come across in the world. These equipment can help you get better result when pulling something from the depths with the addition of the following details.
-
-**Overall Score Bonus**{ .inl } Each fishing rod provides a score bonus to determine what loot you pull from the depths. This score bonus is added *after* any additional multiplier.
-
-**Mod. Slot**{ .inl } Each fishing rod can be modified and tinkered to the fisherman's desire. To equip a [modification], you must have a slot available. Some [modification]s can take multiple slots.
-
-##### Fishing Rods
-
-| Rods | overall score bonus | mod.slot | cost |
-| --- | :-: | --: | --: |
-| Crude Angler's Rod | - | 1 slot | — |
-| Novice Angler's Rod | +2 | 2 slot | 700 SP |
-| Journeymen Angler's Rod | +4 | 3 slot | 1,400 SP |
-| Adept Angler's Rod | +6 | 4 slot | 2,800 SP |
-| Master Angler's Rod | +8 | 6 slot | 5,600 SP |
-
-
-[modification]: #fishing-rod-modifications
-
-### Fishing Supplies
-
-[Fishing Supplies] are categorized as a Tool. They include a special compartment or clip for your fishing rod, a tackle box with simple line, hooks, bait, bobbers, and lures. Regardless of their appearance, you need this tool and your fishing rod to start fishing.
-
-### Fishing Rod Modifications
-
-!!! warning "Work in Progress"
-
-Fishing rod modifications are augmentations that enhance your fishing rod to yield better results. These modifications work similarly to the Artificer Infusion mechanic, being tied to whichever fishing rod you modify. To modify your fishing rod, you must be proficient with [Fishing Supplies].
-
-You can change your fishing rod modifications as part of a **:rest-short: Short Rest** or before a **:rest-long: Long Rest**.
-
 ## Fishing Loot
 
 ### Fishing Loot Table
@@ -107,47 +97,47 @@ Below is the Fishing table for each different biome you can fish within Antares.
     | Overall Score | Loot | Sell Price |
     |:-:|---|--:|
     | 5-19 | Junk (Roll on Junk Table) | - SP |
-    | 20-21 | 2d6 Fanged Strangler | 20 SP |
-    | 22-23 | 2d6 Blast Tadpole | 20 SP |
-    | 24-25 | 1d8 Ball Snail | 40 SP |
-    | 26-27 | 1d8 Fatheaded Slurper | 50 SP |
-    | 28-29 | 2d4 Deviltailed Slapper | 60 SP |
-    | 30-31 | 1d6 Bearded Trout | 100 SP |
-    | 32-33 | 1d6 Clockwork Catfish | 110 SP |
+    | 20-21 | Fanged Strangler | 140 SP |
+    | 22-23 | Blast Tadpole | 160 SP |
+    | 24-25 | Ball Snail | 180 SP |
+    | 26-27 | Fatheaded Slurper | 200 SP |
+    | 28-29 | Deviltailed Slapper | 240 SP |
+    | 30-31 | Bearded Trout | 280 SP |
+    | 32-33 | Clockwork Catfish | 300 SP |
     | 34-35 | Blistered Tarpon | 450 SP |
-    | 36-37 | 1d4 Halberd Pike | 200 SP |
-    | 38-40 | All-seeing Salmon | 560 SP |
-    | 41-43 | 1d4 Host Eel | 250 SP |
-    | 44-46 | 1d4 Common Crab | 270 SP |
+    | 36-37 | Halberd Pike | 500 SP |
+    | 38-40 | All-seeing Salmon | 550 SP |
+    | 41-43 | Host Eel | 600 SP |
+    | 44-46 | Common Crab | 660 SP |
     | 47-49 | Decaying Blackmouth | 720 SP |
     | 50 | Uncommon Item from DM | SP |
-    | 51-53 | 1d4 Rust Eel | 340 SP |
-    | 54-56 | Cantankerous Piranha | 900 SP |
-    | 57-59 | Based Bass | 950 SP |
-    | 60-62 | Twinned Eels | 1,010 SP |
-    | 63-65 | Cortex Crab | 1,060 SP |
+    | 51-53 | Rust Eel | 800 SP |
+    | 54-56 | Cantankerous Piranha | 880 SP |
+    | 57-59 | Based Bass | 960 SP |
+    | 60-62 | Twinned Eels | 1,000 SP |
+    | 63-65 | Cortex Crab | 1,150 SP |
 
     | Overall Score | Loot | Sell Price |
     |:-:|---|--:|
-    | 66 | 1d4 Giant Mudcrab | 900 SP |
-    | 67-70 | Sallow Burbot | 1,170 SP |
-    | 71-74 | Fiddler Crab | 1,230 SP |
-    | 75-78 | Vortex Sturgeon | 1,280 SP |
+    | 66 | Giant Mudcrab | 1,200 SP |
+    | 67-70 | Sallow Burbot | 1,250 SP |
+    | 71-74 | Fiddler Crab | 1,280 SP |
+    | 75-78 | Vortex Sturgeon | 1,250 SP |
     | 79-82 | Voltaic Carp | 1,350 SP |
     | 83-86 | Dubstep Trout | 1,400 SP |
-    | 87-90 | Entangled Crab | 1,460 SP |
-    | 91-94 | Furry Catfish | 1,510 SP |
-    | 95 | Gar | 3,140 SP |
-    | 96-99 | Tusked Carp | 1,620 SP |
-    | 100 | Rare Item from DM | SP |
-    | 101-106 | Crystal Eel | 1,730 SP |
+    | 87-90 | Entangled Crab | 1,450 SP |
+    | 91-94 | Furry Catfish | 1,500 SP |
+    | 95 | Gar | 3,000 SP |
+    | 96-99 | Tusked Carp | 1,600 SP |
+    | 100 | Rare Item from DM | - SP |
+    | 101-106 | Crystal Eel | 1,700 SP |
     | 107-113 | Seizing Snailfish | 1,800 SP |
     | 114-120 | Longfin Eel | 1,850 SP |
-    | 121-124 | Blue Mackarell | 3,820 SP |
-    | 125 | Epic Item from DM | SP |
-    | 126-133 | Wagyu Trout | 3,030 SP |
-    | 134-141 | Arowana | 3,105 SP |
-    | 142-149 | Knifefish | 4,260 SP |
+    | 121-124 | Blue Mackarell | 3,800 SP |
+    | 125 | Epic Item from DM | - SP |
+    | 126-133 | Wagyu Trout | 3,000 SP |
+    | 134-141 | Arowana | 3,250 SP |
+    | 142-149 | Knifefish | 4,000 SP |
     | 150 | Legendary Item from DM | - SP |
 
     </div>
@@ -287,7 +277,7 @@ Below is the Fishing table for each different biome you can fish within Antares.
     | 101-102 | Barreleye | 7,280 SP |
     | 103-106 | Hammerhead Shark | 3,780 SP |
     | 107-110 | Moonfish | 3,910 SP |
-    | 111-116 | Crown of Bone Oar | 4,050 SP |
+    | 111-116 | Boned Oar Fish | 4,050 SP |
     | 117-122 | Umbral Puppet | 4,180 SP |
     | 123-124 | 1d2 Spider Crab | 4,320 SP |
     | 125 | Epic Item from the DM | SP |
@@ -304,8 +294,8 @@ Below is the Fishing table for each different biome you can fish within Antares.
 
 | d8 | Loot |
 |:-:|---|
-| 1 | A very angry Aboleth |
-| 2 | Nothing! |
+| 1 | Nothing |
+| 2 | A pouch containing 2d4 * 5 SP |
 | 3 | d4 (1. Seaweed, 2. Grass, 3. Pebbles, 4. Old Boot) |
 | 4 | Bundle of Sticks |
 | 5 | d4 (1. Club, 2. Sickle, 3. Dagger, 4. Handaxe/Mace) |
