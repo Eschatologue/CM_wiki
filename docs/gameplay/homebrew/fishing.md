@@ -14,14 +14,31 @@ Antares' natural rivers and waters, now severely tainted by the Warp, saw most o
 
 ## Fishing Equipment
 
-*A great fisherman is not just lucky but also prepared.*  
+*A great fisherman is not just lucky, but also prepared.*  
 { .quote }
 
 To start fishing, you need the [Fishing Supplies] tool. This is a box equipped with compartments for baits, tackles, an external compartment for your fishing rod, and other essential items for fishing, regardless of its appearance. It contains the aforementioned items, all of which are necessary to begin fishing. These items are discussed in the following sections:
 
-### Baits
+### Baits  
+
+*Don't dip yer' hand there—fish go crazy over that.*  
+{ .quote }  
+
+Baits are used to attract fish. While it’s possible to fish without bait, the likelihood of catching something other than fish increases significantly. Baits are consumed when used and can only be equipped on fishing rods with a bait slot.  
+
+The Bait table lists commonly available baits for purchase at most establishments. Special baits may exist but are subject to the DM's discretion.  
+
+| Bait | Effect | Cost |
+|---|---|--:|
+| Bait | Adds +3 bonus to Fishing Roll, *after* multiplier | 10 SP | 
+| Deluxe Bait | Adds +6 bonus to Fishing Roll, *after* multiplier | 100 SP | 
+| Exotic Bait | Adds +12 bonus to Fishing Roll, *after* multiplier | 400 SP | 
+| Master Bait | Adds +24 bonus to Fishing Roll, *after* multiplier | 1,200 SP |
+| Wild Bait | After Fishing Roll's final result is calculated, roll a d8. On 7 or 8, you get two Fish instead of one | 150 SP |
 
 ### Tackles
+
+Tackles
 
 ### Fishing Rods
 
