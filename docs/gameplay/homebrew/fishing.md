@@ -34,17 +34,17 @@ The Bait table outlines commonly available baits for purchase at most establishm
 
 | Common Bait | Effect | Cost |
 |---|---|--:|
-| Bait | Adds +3 bonus to Overall Score | 10 SP | 
-| Deluxe Bait | Adds +6 bonus to Overall Score | 100 SP | 
-| Exotic Bait | Adds +12 bonus to Overall Score | 400 SP | 
-| Master Bait | Adds +24 bonus to Overall Score | 1,200 SP |
+| *Bait* | Adds +3 bonus to Overall Score | 10 SP | 
+| *Deluxe Bait* | Adds +6 bonus to Overall Score | 100 SP | 
+| *Exotic Bait* | Adds +12 bonus to Overall Score | 400 SP | 
+| *Master Bait* | Adds +24 bonus to Overall Score | 1,200 SP |
 
 | Special Bait | Effect | Cost |
 |---|---|--:|
-| Arcane Bait | *See Fishing Appendix A* | 300 SP |
-| Gambler's Bait | *See Fishing Appendix A* | 500 SP | 
-| Target Bait | *See Fishing Appendix A* | 250 SP | 
-| Wild Bait | *See Fishing Appendix A* | 250 SP | 
+| *Arcane Bait* | *See Fishing Appendix A* | 300 SP |
+| *Gambler's Bait* | *See Fishing Appendix A* | 500 SP | 
+| *Target Bait* | *See Fishing Appendix A* | 250 SP | 
+| *Wild Bait* | *See Fishing Appendix A* | 250 SP | 
 
 </div>
 
@@ -59,10 +59,12 @@ Tackles enhance the functionality of your fishing rod. While baits improve the *
 
 | Tackle | Effects | Cost |
 |---|---|--:|
-| Spinner | You can reroll 1 extra dice when fishing | 800 SP |
-| Dressed Spinner | You can reroll 2 extra dice when fishing | 2,000 SP |
-| Adjustable Hook | When determing your loot from the Fishing Loot table, you can change your loot into one that is in the row above or below | 2,000 SP |
-| Multi-hook | When determing your loot from the Fishing Loot table, you get one more loot determined from your Overall Score minus 30 | 2,000 SP |
+| *Spinner* | You can reroll 1 extra dice when fishing | 800 SP |
+| *Dressed Spinner* | You can reroll 2 extra dice when fishing | 1,600 SP |
+| *Adjustable Hook* | When determing loot from the Fishing Loot table, you can change your loot into one that is in the one row above or below | 2,500 SP |
+| *Multi-hook* | When determing your loot from the Fishing Loot table, you get one more loot determined from your Overall Score minus 30 | 2,500 SP |
+| *Lead Float* | Change all your Fishing Dices from :die-d6: d6s into :die-d8s: d8s |
+| *Cork Float* | Change all your Fishing Dices from :die-d6: d6s into :die-d4s: d4s |
 
 ### Fishing Rods
 
@@ -75,12 +77,12 @@ The Fishing Rods table below lists various fishing rods along with their associa
 ##### Fishing Rods  
 
 | Rods | bait slot | tackle slot | cost |
-|---|:-:|:-:|--|
-| Crude Angler's Rod | 0 | 0 | - |
-| Novice Angler's Rod | 1 | 0 | 700 SP |
-| Journeymen Angler's Rod | 1 | 1 | 1,400 SP |
-| Adept Angler's Rod | 1 | 2 | 3,200 SP |
-| Master Angler's Rod | 2 | 2 | 6,800 SP |
+|---|:-:|:-:|--:|
+| *Crude Angler's Rod* | - | - | - |
+| *Novice Angler's Rod* | 1 | - | 700 SP |
+| *Journeymen Angler's Rod* | 1 | 1 | 1,400 SP |
+| *Adept Angler's Rod* | 1 | 2 | 3,200 SP |
+| *Master Angler's Rod* | 2 | 2 | 6,800 SP |
 
 ---
 
@@ -312,10 +314,10 @@ Below is the Fishing table for each different biome you can fish within Antares.
     |:-:|---|--:|
     | 80-84 | Bursting Anglerfish | 2,700 SP |
     | 85 | Loosejaw | 4,250 SP |
-    | 86 | 1d6 Volcano Snail | 1,070 SP |
+    | 86 | Volcano Snail | 3,000 SP |
     | 87-90 | Collapsed Viperfish | 3,100 SP |
-    | 91-94 | 1d6 Ruptured Vessel | 930 SP |
-    | 95-99 | 1d4 Congealed Rattail | 1,350 SP |
+    | 91-94 | Ruptured Vessel | 3,250 SP |
+    | 95-99 | Congealed Rattail | 4,350 SP |
     | 100 | Rare Item from the DM | SP |
     | 101-102 | Barreleye | 7,280 SP |
     | 103-106 | Hammerhead Shark | 3,780 SP |
@@ -327,7 +329,7 @@ Below is the Fishing table for each different biome you can fish within Antares.
     | 126-127 | Oarfish | 6,900 SP |
     | 128-136 | Medusa Octopus | 4,720 SP |
     | 137-145 | 3d6 Anchovy King | 470 SP |
-    | 146-147 | 1d4 Snailfish | 2,400 SP |
+    | 146-147 | Snailfish | 4,500 SP |
     | 148-149 | Coelacanth | 6,420 SP |
     | 150 | Legendary Item from DM | SP |
 
