@@ -12,12 +12,16 @@ In the days before the devastation caused by the warp storms and the emergence o
 
 Antares' natural rivers and waters, now severely tainted by the Warp, saw most of its fish population undergo mutations, giving them grotesque features akin to the aberrations roaming the land. While many former fishermen and anglers turned to fish farming to preserve the dwindling population of untainted fish, a few individuals remained steadfast in their love for the excitement and adrenaline that only fishing could provide. 
 
-## Fishing Equipment
+## Fishing Equipment  
 
 *A great fisherman is not just lucky, but also prepared.*  
-{ .quote }
+{ .quote }  
 
-To start fishing, you need the [Fishing Supplies] tool. This is a box equipped with compartments for baits, tackles, an external compartment for your fishing rod, and other essential items for fishing, regardless of its appearance. It contains the aforementioned items, all of which are necessary to begin fishing. These items are discussed in the following sections:
+To start fishing, you need the [Fishing Supplies] tool. This is a box equipped with compartments for baits, tackles, an external compartment for your fishing rod, and other essential items for fishing, regardless of its appearance. It contains all the necessary items to begin fishing.  
+
+For inventory management purposes, as long as you have [Fishing Supplies], all your bait, tackles, and fishing rods occupy the same inventory slot as the [Fishing Supplies]. Think of it like a quiver, but for fishing gear instead of arrows.  
+
+These items are discussed in the following sections:  
 
 ### Baits  
 
@@ -53,7 +57,7 @@ The Bait table outlines commonly available baits for purchase at most establishm
 *"A clever angler knows: the right tackle makes all the difference."*
 { .quote }
 
-Tackles enhance the functionality of your fishing rod. While baits improve the **Overall Score** or allow you to target specific fish, tackles modify the mechanics of fishing itself. Each tackle has a unique functionality, as outlined in the Tackle table
+Tackles enhance the functionality of your fishing rod. While baits improve the **Overall Score** or allow you to target specific fish, tackles modify the mechanics of fishing itself. Each tackle has a unique functionality, as outlined in the Tackles table.
 
 ##### Tackles
 
@@ -63,8 +67,8 @@ Tackles enhance the functionality of your fishing rod. While baits improve the *
 | *Dressed Spinner* | You can reroll 2 extra dice when fishing | 1,600 SP |
 | *Adjustable Hook* | When determing loot from the Fishing Loot table, you can change your loot into one that is in the one row above or below | 2,500 SP |
 | *Multi-hook* | When determing your loot from the Fishing Loot table, you get one more loot determined from your Overall Score minus 30 | 2,500 SP |
-| *Lead Float* | Change all your Fishing Dices from :die-d6: d6s into :die-d8s: d8s |
-| *Cork Float* | Change all your Fishing Dices from :die-d6: d6s into :die-d4s: d4s |
+| *Lead Float* | Change all your Fishing Dices from :die-d6: d6s into :die-d8: d8s |
+| *Foam Float* | Change all your Fishing Dices from :die-d6: d6s into :die-d4: d4s |
 
 ### Fishing Rods
 
@@ -84,56 +88,43 @@ The Fishing Rods table below lists various fishing rods along with their associa
 | *Adept Angler's Rod* | 1 | 2 | 3,200 SP |
 | *Master Angler's Rod* | 2 | 2 | 6,800 SP |
 
----
+## How to Fish
 
-## Step by Step
+### Step 1: Find a Body of Water  
 
-### 1. Finding a Body of Water
+Most fish live in bodies of water, so you can only fish in a location capable of supporting aquatic life. No, you can’t fish in a glass of water, a well, a puddle on the road, or similar places.  
 
-Most fish live in bodies of water, so you can only fish in a location capable of supporting aquatic life. No, you can’t fish in a glass of water, a well, a puddle on the road, etc.
+### Step 2: Rolling Dice  
 
-### 2. Rolling Dice
+During 1 hour of fishing, you can attempt up to 3 fishing rolls. For each attempt, roll **five :die-d6: d6s**. You may reroll dice up to a number of times equal to your Wisdom (Survival) modifier.  
 
-You can attempt to fish up to 3 times within the span of 1 hour. For each fishing attempt, roll five :die-d6: d6s. You may reroll dice based on the rules outlined in the Fishing Die Reroll table, as explained below:
+- You may reroll the same die multiple times.  
+- After all rerolls, keep the final results for each die.  
 
-**Proficiency**{ .inl } This column specifies the proficiency required for rerolls.
+### Step 3: Calculating Overall Score  
 
-**Reroll Count**{ .inl } This indicates the number of rerolls available based on the corresponding proficiency. You may reroll the same die more than once. After rerolling, final results for each die must be kept.
+Before summing your results, check if you rolled a **special result**. Add up all the dice you rolled, then multiply the total by the appropriate multiplier from the table below. The final score is **rounded up**. You can only benefit from one special result per roll.  
 
-##### Fishing Die Reroll
-
-| Proficiency | Reroll Count |
-|:--|:-:|
-| Fishing Supplies | + Equals to Proficiency Bonus |
-| Wisdom (Survival) | + Equals to Wisdom Modifier |
-| Intelligence (Arcana) | + Equals to Intelligence Modifier |
-
-These reroll counts are **additive**. If you meet multiple proficiency prerequisites, add the reroll counts together to determine your total number you can reroll.
-
-### Calculating Final Result
-
-Before summing your results, check if you rolled a special result. Multiply your sum by the corresponding modifier in the special result table. Sum all the dice you rolled, then multiply the total by the appropriate multiplier from the table. The final result is ^^rounded up^^. You can only benefit from one special result.
-
-##### Special Result Table
+##### Special Result Table  
 
 | Special Result | Multiplier | Description | Example |
 |---|:-:|---|:-:|
-| Three-of-a-kind | ×2 | Three dice of the same number. | `5 5 5 2 4` |
-| Full House | ×2.5 | Three dice of one number and two of another. | `3 3 3 5 5` |
-| Straight | ×3 | Five sequential numbers. | `5 4 3 2 1` |
-| Four-of-a-kind | ×4 | Four dice of the same number. | `2 2 2 2 4` |
-| Five-of-a-kind | ×5 | Five dice of the same number. | `6 6 6 6 6` |
+| *Three-of-a-kind* | ×2 | Three dice of the same number. | `5 5 5 2 4` |
+| *Full House* | ×2.5 | Three dice of one number and two of another. | `3 3 3 5 5` |
+| *Straight* | ×3 | Five sequential numbers. | `5 4 3 2 1` |
+| *Four-of-a-kind* | ×4 | Four dice of the same number. | `2 2 2 2 4` |
+| *Five-of-a-kind* | ×5 | Five dice of the same number. | `6 6 6 6 6` |
 
-!!! tip "Dice Maiden"
+!!! tip "Dice Maiden"  
 
-    It is understandable that this can be complicated when using Dice Maiden in Discord; rerolling dice in particular can be difficult to track. An alternate solution is to use the dice roll provided by [Google](https://g.co/kgs/yktfMZF). You can easily click the dice you wish to reroll with this.  
-    ~~Please don't fumble your rolls~~
+    Using Dice Maiden on Discord can make rerolling and tracking results challenging. As an alternative, try using [Google's Dice Roller](https://g.co/kgs/yktfMZF). This tool lets you easily select the dice you want to reroll.  
+    ~~Please don't fumble your rolls~~  
 
-## Fishing Loot
+### Step 4: Determine Loot
 
-### Fishing Loot Table
+After obtaining your final result from Step 3, compare the number to the relevant fishing table. This section includes four tables, each corresponding to a specific biome where you can fish.
 
-Below is the Fishing table for each different biome you can fish within Antares. Refer to the table after calculating your final result:
+If an effect—such as from baits or other modifiers—adds to or subtracts from your Overall Score, apply these adjustments **after Step 3** (i.e., after all multipliers have been calculated), unless the effect specifies otherwise.
 
 === "Freshwater"
 
