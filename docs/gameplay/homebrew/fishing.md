@@ -38,9 +38,9 @@ The Bait table outlines commonly available baits for purchase at most establishm
 
 | Common Bait | Effect | Cost |
 |---|---|--:|
-| *Bait* | Adds +3 bonus to Overall Score | 10 SP | 
-| *Deluxe Bait* | Adds +6 bonus to Overall Score | 100 SP | 
-| *Exotic Bait* | Adds +12 bonus to Overall Score | 400 SP | 
+| *Bait* | Adds +3 bonus to Overall Score | 50 SP | 
+| *Deluxe Bait* | Adds +6 bonus to Overall Score | 150 SP | 
+| *Exotic Bait* | Adds +12 bonus to Overall Score | 500 SP | 
 | *Master Bait* | Adds +24 bonus to Overall Score | 1,200 SP |
 
 | Special Bait | Effect | Cost |
@@ -110,7 +110,6 @@ Before summing your results, check if you rolled a **special result**. Add up al
 | Special Result | Multiplier | Description | Example |
 |---|:-:|---|:-:|
 | *Three-of-a-kind* | ×2 | Three dice of the same number. | `5 5 5 2 4` |
-| *Full House* | ×2.5 | Three dice of one number and two of another. | `3 3 3 5 5` |
 | *Straight* | ×3 | Five sequential numbers. | `5 4 3 2 1` |
 | *Four-of-a-kind* | ×4 | Four dice of the same number. | `2 2 2 2 4` |
 | *Five-of-a-kind* | ×5 | Five dice of the same number. | `6 6 6 6 6` |
@@ -132,49 +131,50 @@ If an effect—such as from baits or other modifiers—adds to or subtracts from
 
     | Overall Score | Loot | Sell Price |
     |:-:|---|--:|
-    | 5-19 | Junk (Roll on Junk Table) | - SP |
-    | 20-21 | Fanged Strangler | 140 SP |
-    | 22-23 | Blast Tadpole | 160 SP |
-    | 24-25 | Ball Snail | 180 SP |
-    | 26-27 | Fatheaded Slurper | 200 SP |
-    | 28-29 | Deviltailed Slapper | 240 SP |
-    | 30-31 | Bearded Trout | 280 SP |
-    | 32-33 | Clockwork Catfish | 300 SP |
-    | 34-35 | Blistered Tarpon | 450 SP |
-    | 36-37 | Halberd Pike | 500 SP |
-    | 38-40 | All-seeing Salmon | 550 SP |
-    | 41-43 | Host Eel | 600 SP |
-    | 44-46 | Common Crab | 660 SP |
-    | 47-49 | Decaying Blackmouth | 720 SP |
-    | 50 | Uncommon Item from DM | SP |
-    | 51-53 | Rust Eel | 800 SP |
-    | 54-56 | Cantankerous Piranha | 880 SP |
-    | 57-59 | Based Bass | 960 SP |
-    | 60-62 | Twinned Eels | 1,000 SP |
-    | 63-65 | Cortex Crab | 1,150 SP |
+    | 5-24 | Junk (Roll on Junk Table) | - SP |
+    | 25-26 | Fanged Strangler | 50 SP |
+    | 27-28 | Blast Tadpole | 50 SP |
+    | 29-30 | Ball Snail | 75 SP |
+    | 31-32 | Fatheaded Slurper | 75 SP |
+    | 33-34 | Deviltailed Slapper | 75 SP |
+    | 35-36 | Bearded Trout | 100 SP |
+    | 37-38 | Clockwork Catfish | 100 SP |
+    | 39-40 | Blistered Tarpon | 125 SP |
+    | 41-42 | Halberd Pike | 125 SP |
+    | 43-45 | All-seeing Salmon | 150 SP |
+    | 46-48 | Host Eel | 150 SP |
+    | 49-51 | Common Crab* | 225 SP |
+    | 52-54 | Decaying Blackmouth | 200 SP |
+    | 55-58 | Uncommon Treasure | - SP |
+    | 59-61 | Rust Eel | 225 SP |
+    | 62-64 | Cantankerous Piranha | 250 SP |
+    | 65-67 | Based Bass | 275 SP |
+    | 68-70 | Twinned Eels | 300 SP |
+    | 71-73 | Cortex Crab | 350 SP |
+    | 74 | Giant Mudcrab* | 475 SP |
 
     | Overall Score | Loot | Sell Price |
     |:-:|---|--:|
-    | 66 | Giant Mudcrab | 1,200 SP |
-    | 67-70 | Sallow Burbot | 1,250 SP |
-    | 71-74 | Fiddler Crab | 1,280 SP |
-    | 75-78 | Vortex Sturgeon | 1,250 SP |
-    | 79-82 | Voltaic Carp | 1,350 SP |
-    | 83-86 | Dubstep Trout | 1,400 SP |
-    | 87-90 | Entangled Crab | 1,450 SP |
-    | 91-94 | Furry Catfish | 1,500 SP |
-    | 95 | Gar | 3,000 SP |
-    | 96-99 | Tusked Carp | 1,600 SP |
-    | 100 | Rare Item from DM | - SP |
-    | 101-106 | Crystal Eel | 1,700 SP |
-    | 107-113 | Seizing Snailfish | 1,800 SP |
-    | 114-120 | Longfin Eel | 1,850 SP |
-    | 121-124 | Blue Mackarell | 3,800 SP |
-    | 125 | Epic Item from DM | - SP |
-    | 126-133 | Wagyu Trout | 3,000 SP |
-    | 134-141 | Arowana | 3,250 SP |
-    | 142-149 | Knifefish | 4,000 SP |
-    | 150 | Legendary Item from DM | - SP |
+    | 75-77 | Sallow Burbot | 425 SP |
+    | 78-80 | Fiddler Crab | 475 SP |
+    | 81-83 | Vortex Sturgeon | 525 SP |
+    | 84-87 | Voltaic Carp | 575 SP |
+    | 88-91 | Dubstep Trout | 625 SP |
+    | 92-95 | Entangled Crab | 700 SP |
+    | 96-99 | Furry Catfish | 750 SP |
+    | 100-101 | Gar* | 1,050 SP |
+    | 102-104 | Tusked Carp | 925 SP |
+    | 105-107 | Rare Treasure | - SP |
+    | 108-112 | Crystal Eel | 1,125 SP |
+    | 113-117 | Seizing Snailfish | 1,250 SP |
+    | 118-123 | Longfin Eel | 1,375 SP |
+    | 124-128 | Blue Mackarell* | 1,900 SP |
+    | 129-131 | Epic Treasure | - SP |
+    | 132-137 | Wagyu Trout | 1,850 SP |
+    | 138-143 | Arowana* | 2,550 SP |
+    | 144-149 | Sollasina* | 2,800 SP |
+    | 150 | Legend | 3,100 SP |
+    | 151+ | Legendary Treasure | - SP |
 
     </div>
 
@@ -184,49 +184,50 @@ If an effect—such as from baits or other modifiers—adds to or subtracts from
 
     | Overall Score | Loot | Sell Price |
     |:-:|---|--:|
-    | 5-19 | Junk (Roll on Junk Table) | SP |
-    | 20-21 | 2d6 Smoking Coral | 30 SP |
-    | 22-23 | 2d6 Bullet Shrimp | 60 SP |
-    | 24-25 | 1d8 Feathered Anchovies | 50 SP |
-    | 26-27 | 1d8 Calloused Seastar | 70 SP |
-    | 28-29 | 2d4 Common Crab | 160 SP |
-    | 30-32 | 1d4 Lumpy Mackerel | 190 SP |
-    | 33-34 | 1d4 Snag Squid | 220 SP |
-    | 35-37 | 1d4 Flayed Mackarel | 260 SP |
-    | 38-40 | 1d4 Radiant Squid | 280 SP |
-    | 41-44 | 1d4 Many-Eyed Mackerel | 320 SP |
-    | 45 | Uncommon Item from DM | SP |
-    | 46-48 | Malignant Pincer | 940 SP |
-    | 49-51 | Nightwing Catfish | 1,010 SP |
-    | 52 | Cod | 3,300 SP |
-    | 53-55 | Three-headed Cod | 1,170 SP |
-    | 56-58 | 1d4 Leecher Shrimp | 510 SP |
-    | 59-62 | Serpentine Mackerel | 1,330 SP |
-    | 63-67 | Blood Snapper | 1,410 SP |
-    | 68-72 | Scourging Bass | 1,480 SP |
+    | 5-24 | Junk (Roll on Junk Table) | - SP |
+    | 25-26 | Smoking Coral | 100 SP |
+    | 27-28 | Bullet Shrimp | 100 SP |
+    | 29-30 | Feathered Anchovies | 100 SP |
+    | 31-32 | Calloused Seastar | 125 SP |
+    | 33 | Sea Crab* | 175 SP |
+    | 34-35 | Lumpy Mackerel | 150 SP |
+    | 36-37 | Snag Squid | 175 SP |
+    | 38-40 | Flayed Mackarel | 200 SP |
+    | 41-43 | Uncommon Treasure** | 200 SP |
+    | 44-46 | Many-Eyed Mackerel | 225 SP |
+    | 47 | Cod* | 325 SP |
+    | 48-51 | Malignant Pincer | 275 SP |
+    | 52-55 | Nightwing Catfish | 325 SP |
+    | 56 | Tuna* | 450 SP |
+    | 57-60 | Leecher Shrimp | 400 SP |
+    | 61-64 | Serpentine Mackerel | 425 SP |
+    | 65-68 | Blood Snapper | 475 SP |
+    | 69-72 | Scourging Bass | 525 SP |
+    | 73-76 | Entwined Mullet | 575 SP |
+    | 77-80 | Glaring Sunfish | 650 SP |
 
     | Overall Score | Loot | Sell Price |
     |:-:|---|--:|
-    | 73-76 | 1d4 Entwined Mullet | 630 SP |
-    | 77-80 | Glaring Sunfish | 1,640 SP |
-    | 81-84 | 1d4 Glaring Mackarel | 700 SP |
-    | 85-88 | Ossified Searobin | 1,800 SP |
-    | 89-92 | Withered Ray | 1,890 SP |
-    | 93-96 | Enthralled Stonefish | 1,960 SP |
-    | 97-99 | Bar Tomb Hornfish | 2,040 SP |
-    | 100 | Rare Item from DM | SP |
-    | 101-104 | Mire Screecher | 2,200 SP |
-    | 105-108 | Grasping Snail | 2,270 SP |
-    | 109-113 | Voideye | 2,360 SP |
-    | 114-119 | Parhelion Jellyfish | 2,430 SP |
-    | 120-124 | Windfree Silverfish | 2,520 SP |
-    | 125 | Epic Item from DM | SP |
-    | 126-130 | Sailfish | 5,340 SP |
-    | 131-136 | Frilled Shark | 5,480 SP |
-    | 137-142 | Wyssmann Halibut | 2,830 SP |
-    | 143-147 | Twisted Shark | 2,900 SP |
-    | 148-149 | Hammerhead Shark | 5,980 SP |
-    | 150 | Legendary Item from DM | SP |
+    | 81-84 | Glaring Mackarel | 700 SP |
+    | 85-89 | Ossified Searobin | 800 SP |
+    | 90-94 | Withered Ray | 875 SP |
+    | 95-99 | Enthralled Stonefish | 950 SP |
+    | 100-104 | Bar Tomb Hornfish | 1,075 SP |
+    | 105-108 | Rare Treasure** | - SP |
+    | 109-113 | Mire Screecher | 1,300 SP |
+    | 114 | Flounder* | 1,800 SP |
+    | 115-119 | Grasping Snail | 1,600 SP |
+    | 120-124 | Voideye | 1,750 SP |
+    | 125-129 | Parhelion Jellyfish | 1,950 SP |
+    | 130-134 | Windfree Silverfish | 2,150 SP |
+    | 135 | Sailfish* | 2,975 SP |
+    | 136-140 | Epic Treasure** | - SP |
+    | 141-146 | Wyssmann Halibut | 2,900 SP |
+    | 147 | Tilapia* | 4,025 SP |
+    | 148-153 | Twisted Shark | 3,550 SP |
+    | 154-159 | Hammerhead Shark* | 4,900 SP |
+    | 160 | Crimsonfish | 5,425 SP |
+    | 161+ | Legendary Treasure | - SP |
 
     </div>
 
@@ -236,41 +237,46 @@ If an effect—such as from baits or other modifiers—adds to or subtracts from
 
     | Overall Score | Loot | Sell Price |
     |:-:|---|--:|
-    | 5-24 | Junk (Roll on Junk Table) | SP |
-    | 25-26 | 1d6 Coral Duster | 50 SP |
-    | 27-28 | 1d6 Ventsleeper | 50 SP |
-    | 29-30 | 1d4 Squeti | 80 SP |
-    | 31-33 | Thawed Icefish | 270 SP |
-    | 34-36 | Cerebral Crab | 330 SP |
-    | 37-39 | Enameled Tarpon | 400 SP |
-    | 40-42 | Fractalline Icefish | 460 SP |
-    | 43-45 | Feral Lizardfish | 540 SP |
-    | 46-49 | Hinged Wolffish | 600 SP |
-    | 50 | Uncommon Item from DM | SP |
-    | 51-54 | Astral Icefish | 730 SP |
-    | 55-58 | Icefish | 1,620 SP |
-    | 59-63 | Bulbous Toothfish | 870 SP |
-    | 64-68 | Bubbling Char | 940 SP |
-    | 69-73 | Craterous Seer | 1,000 SP |
-    | 74-78 | Icicle Pike | 1,080 SP |
-    | 79-84 | Fallen Stars | 1,140 SP |
-    | 85-88 | Wolffish | 2,420 SP |
-    | 89-93 | Toothfish | 1,270 SP |
+    | 5-29 | Junk (Roll on Junk Table) | - SP |
+    | 30-31 | Coral Duster | 50 SP |
+    | 32-33 | Ventsleeper | 75 SP |
+    | 34-35 | Squeti | 75 SP |
+    | 36-37 | Thawed Icefish | 100 SP |
+    | 38-39 | Cerebral Crab | 100 SP |
+    | 40-41 | Fractalline Icefish | 125 SP |
+    | 42-44 | Feral Lizardfish | 150 SP |
+    | 45-47 | Hinged Wolffish | 150 SP |
+    | 48-51 | Uncommon Treasure** | - SP |
+    | 52-55 | Astral Icefish | 200 SP |
+    | 56 | Icefish* | 300 SP |
+    | 57-60 | Bulbous Toothfish | 250 SP |
+    | 61-64 | Bubbling Char | 300 SP |
+    | 65-68 | Craterous Seer | 350 SP |
+    | 69-72 | Fallen Stars | 400 SP |
+    | 73-76 | Wolffish | 450 SP |
+    | 77 | Stonefish* | 625 SP |
+    | 78-81 | Toothfish | 575 SP |
+    | 82-86 | Ice Pip | 650 SP |
 
     | Overall Score | Loot | Sell Price |
     |:-:|---|--:|
-    | 94-99 | King's Wreath | 1,350 SP |
-    | 100 | Rare Item from DM | SP |
-    | 101-109 | Pale Grasper | 1,480 SP |
-    | 110-118 | Grisly Shark | 1,540 SP |
-    | 119-124 | Goblin Shark | 1,944 SP |
-    | 125 | Epic Item from DM | SP |
-    | 126-131 | Congealed Rattail | 1,750 SP |
-    | 132-137 | Knucklehead Trout | 1,810 SP |
-    | 138-143 | Lizardfish | 2,363 SP |
-    | 144-146 | King Crab | 2,925 SP |
-    | 147-149 | Sleeper Shark | 3,030 SP |
-    | 150 | Legendary Item from DM | SP |
+    | 87-91 | King's Wreath | 750 SP |
+    | 92-96 | Rare Treasure** | - SP |
+    | 97-102 | Pale Grasper | 950 SP |
+    | 103 | Tundra Cucumber* | 1,375 SP |
+    | 104-109 | Spook Fish | 1,250 SP |
+    | 110-115 | Snowpiercer | 1,425 SP |
+    | 116-121 | Sleeper's Torment | 1,625 SP |
+    | 122 | Goblin Shark* | 2,125 SP |
+    | 123-128 | Epic Treasure** | - SP |
+    | 129-135 | Congealed Rattail | 2,375 SP |
+    | 136-142 | Knucklehead Trout | 2,700 SP |
+    | 143 | Lizardfish* | 3,075 SP |
+    | 144-149 | King Crab* | 3,500 SP |
+    | 150-153 | Kerygmachela* | 5,000 SP |
+    | 154-159 | Sleeper Shark | 4,550 SP |
+    | 160 | Dunkleosteus* | 6,450 SP |
+    | 161+ | Legendary Treasure | - SP |
 
     </div>
 
@@ -280,49 +286,42 @@ If an effect—such as from baits or other modifiers—adds to or subtracts from
 
     | Overall Score | Loot | Sell Price |
     |:-:|---|--:|
-    | 5-24 | Junk (Roll on Junk Table) | SP |
-    | 25 | 2d6 Skull Shrimp | 40 SP |
-    | 26 | 2d6 Eyeless Tadpole | 40 SP |
-    | 27 | 1d8 Blood Lymph | 90 SP |
-    | 28 | 1d8 Mangled Crab | 120 SP |
-    | 29 | 2d4 Void Slapper | 140 SP |
-    | 30-31 | 1d4 Brood Squid | 330 SP |
-    | 32-33 | 1d4 Clawfin Gar | 380 SP |
-    | 34-35 | 1d4 Effigy Crab | 440 SP |
-    | 36-37 | 1d4 Razormouth Tuna | 490 SP |
-    | 38-41 | 1d4 Cursed Fangtooth | 540 SP |
-    | 42-45 | 1d4 Latching Snapper | 600 SP |
-    | 46-49 | Charred Sunfish | 1,620 SP |
-    | 50 | Uncommon Item from the DM | SP |
-    | 51-54 | Perished Loosejaw | 1,890 SP |
-    | 55-59 | Decrepit Viperfish | 2,020 SP |
-    | 60-64 | 2d6 Splintered Crab | 350 SP |
-    | 65-69 | Shattered Wreckfish | 2,290 SP |
-    | 70-74 | 1d4 Imperious Lobster | 980 SP |
-    | 75-79 | Rapt Shark | 2,560 SP |
+    | 5-30 | Junk (Roll on Junk Table) | - SP |
+    | 31-32 | Skull Shrimp | 100 SP |
+    | 33-34 | Eyeless Tadpole | 100 SP |
+    | 35-36 | Blood Lymph | 125 SP |
+    | 37-38 | Mangled Crab | 150 SP |
+    | 39-40 | Brood Squid | 175 SP |
+    | 41-43 | Clawfin Gar | 200 SP |
+    | 44-46 | Effigy Crab | 225 SP |
+    | 47-50 | Razormouth Tuna | 250 SP |
+    | 51-54 | Cursed Fangtooth | 300 SP |
+    | 55-58 | Latching Snapper | 350 SP |
+    | 59 | Rare Treasure** | - SP |
+    | 60-63 | Bifurcated Gar | 450 SP |
+    | 64-67 | Decrepit Viperfish | 525 SP |
+    | 68-72 | Fangtooth* | 750 SP |
+    | 73-77 | Shattered Wreckfish | 700 SP |
+    | 78-82 | Imperious Lobster | 800 SP |
+    | 83-87 | Bursting Anglerfish | 925 SP |
+    | 88-93 | Loosejaw* | 1,325 SP |
+    | 94-99 | Volcano Snail* | 1,525 SP |
+    | 100-105 | Collapsed Viperfish | 1,400 SP |
 
     | Overall Score | Loot | Sell Price |
     |:-:|---|--:|
-    | 80-84 | Bursting Anglerfish | 2,700 SP |
-    | 85 | Loosejaw | 4,250 SP |
-    | 86 | Volcano Snail | 3,000 SP |
-    | 87-90 | Collapsed Viperfish | 3,100 SP |
-    | 91-94 | Ruptured Vessel | 3,250 SP |
-    | 95-99 | Congealed Rattail | 4,350 SP |
-    | 100 | Rare Item from the DM | SP |
-    | 101-102 | Barreleye | 7,280 SP |
-    | 103-106 | Hammerhead Shark | 3,780 SP |
-    | 107-110 | Moonfish | 3,910 SP |
-    | 111-116 | Boned Oar Fish | 4,050 SP |
-    | 117-122 | Umbral Puppet | 4,180 SP |
-    | 123-124 | 1d2 Spider Crab | 4,320 SP |
-    | 125 | Epic Item from the DM | SP |
-    | 126-127 | Oarfish | 6,900 SP |
-    | 128-136 | Medusa Octopus | 4,720 SP |
-    | 137-145 | 3d6 Anchovy King | 470 SP |
-    | 146-147 | Snailfish | 4,500 SP |
-    | 148-149 | Coelacanth | 6,420 SP |
-    | 150 | Legendary Item from DM | SP |
+    | 106 | Epic Treasure | - SP |
+    | 107-112 | Barreleye* | 1,850 SP |
+    | 113-118 | Boned Oarfish | 2,150 SP |
+    | 119-125 | Tripod Spiderfish* | 3,075 SP |
+    | 126-132 | Umbral Puppet | 2,825 SP |
+    | 133-139 | Spider Crab* | 4,075 SP |
+    | 140-146 | Medusa Octopus | 3,750 SP |
+    | 147-154 | Shaper's Prime | 4,300 SP |
+    | 155-161 | Archon's Burden | 4,950 SP |
+    | 162-169 | Snailfish* | 7,125 SP |
+    | 170 | Coelacanth* | 8,200 SP |
+    | 171+ | Legendary Treasure | - SP |
 
     </div>
 
@@ -339,28 +338,5 @@ If an effect—such as from baits or other modifiers—adds to or subtracts from
 | 7 | A Net |
 | 8 | Re-attempt fishing |
 
-## Example: Fishing with Antagoni
-
-Let's walk through a fishing example with our beloved special character, the legendary fishermen: Antagoni.
-
-1. **Prepare to Fish**{ .inl } 
-Antagoni decides to go fishing. He spends some time preparing his gear, attaching the bait and tackle, and finding a good spot. Fishing will take at least 1 hour.
-
-2. **Roll the Dice**{ .inl } 
-Antagoni is ready to fish for 1 hour. He rolls 5d6 to determine his catch. His rolls are: `4, 6, 6, 6, 2`.
-
-3. **Check for Proficiency and Reroll**{ .inl } 
-Antagoni has Proficiency in Wisdom (Survival) with a Wisdom score modifier of +2, skil. This allows him to reroll up to 2 dice. He chooses to reroll the 2 dice showing 4 and 2. His new rolls are 6 and 3. Now his dice results are: `6, 6, 6, 6, 3`.
-
-4. **Calculate Special Results**{ .inl } 
-Antagoni checks if he has a special result. He rolled a Four-of-a-kind (four 6s), which has a multiplier of ×4.
-
-5. **Calculate Final Result**{ .inl } 
-Antagoni sums his dice results: `6 + 6 + 6 + 6 + 3 = 27`.
-
-He then multiplies the sum by the Four-of-a-kind multiplier (×4): `27 × 4 = 108`.
-
-**Determine the Catch**{ .inl } 
-Antagoni consults the fishing table to determine what he caught based on the final result of 108, for this example purpose; A magical longsword. The specifics of the catch would depend on the fishing table.
 
 [Fishing Supplies]: ../../equipment/tools/other-tools.md#fishings-supplies
