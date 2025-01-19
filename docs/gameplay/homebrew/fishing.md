@@ -2,15 +2,15 @@
 icon: material/fish
 ---
 
-!!! homebrew "This is a Homebrew Mechanic!"
-
-    You just stumbled into a Homebrew mechanic! This minigame is orginally designed by Saffy Penrose, and its system is used as a base for this D&D Fishing mechanic.
-
 # Fishing and Angling
 
 In the days before the devastation caused by the warp storms and the emergence of horrendous aberrations in the Antares wilderness, fishing was a cherished pastime. Commoners, adventurers, and even nobility took delight in casting their lines into the serene waters. However, as most civilizations withdrew behind the protective walls of citadel cities, the art of fishing slowly slipped into obscurity.
 
 Antares' natural rivers and waters, now severely tainted by the Warp, saw most of its fish population undergo mutations, giving them grotesque features akin to the aberrations roaming the land. While many former fishermen and anglers turned to fish farming to preserve the dwindling population of untainted fish, a few individuals remained steadfast in their love for the excitement and adrenaline that only fishing could provide. 
+
+!!! homebrew "This is a Homebrew Mechanic!"
+
+    You just stumbled into a Homebrew mechanic! This minigame is orginally designed by Saffy Penrose, and its system is used as a base for this D&D Fishing mechanic.
 
 ## Fishing Equipment  
 
@@ -45,12 +45,22 @@ The Bait table outlines commonly available baits for purchase at most establishm
 
 | Special Bait | Effect | Cost |
 |---|---|--:|
-| *Arcane Bait* | *See Fishing Appendix A* | 300 SP |
-| *Gambler's Bait* | *See Fishing Appendix A* | 500 SP | 
-| *Target Bait* | *See Fishing Appendix A* | 250 SP | 
-| *Wild Bait* | *See Fishing Appendix A* | 250 SP | 
+| *Arcane Bait* | *See Description Below* | 300 SP |
+| *Gambler's Bait* | *See Description Below* | 500 SP | 
+| *Target Bait* | *See Description Below* | 600 SP | 
+| *Wild Bait* | *See Description Below* | 250 SP | 
 
 </div>
+
+#### Additional Description
+
+**Arcane Bait**{ .inl } This bait gives you one additional reroll when rolling for fishing. Moreover, after calculating your Overall Score, you can select a biome—Freshwater, Saltwater, Tundra, or Abyssal—for determining your loot.
+
+**Gambler's Bait**{ .inl } This bait gives you one additional reroll when rolling for fishing. Moreover, before fishing, select a Special Result from the Special Result Table. If your roll achieves the chosen Special Result, you gain triple the usual loot. However, if you fail to achieve the chosen Special Result, you gain nothing.
+
+**Target Bait**{ .inl } This bait gives you one additional reroll when rolling for fishing. Moreover, after calculating your Overall Score, you can select loot up to two rows below your current result on the Loot Table.
+
+**Wild Bait**{ .inl } This bait gives you one additional reroll when rolling for fishing. Moreover, after calculating your Overall Score, you gain an additional loot result, equal to your Overall Score minus 30.
 
 ### Tackle
 
@@ -105,7 +115,7 @@ During 1 hour of fishing, you can attempt up to 3 fishing rolls. For each attemp
 
 Before summing your results, check if you rolled a **special result**. Add up all the dice you rolled, then multiply the total by the appropriate multiplier from the table below. The final score is **rounded up**. You can only benefit from one special result per roll.  
 
-##### Special Result Table  
+##### Special Result  
 
 | Special Result | Multiplier | Description | Example |
 |---|:-:|---|:-:|
@@ -121,9 +131,17 @@ Before summing your results, check if you rolled a **special result**. Add up al
 
 ### Step 4: Determine Loot
 
-After obtaining your final result from Step 3, compare the number to the relevant fishing table. This section includes four tables, each corresponding to a specific biome where you can fish.
+After obtaining your final result from Step 3, compare the number to the relevant fishing table. The [Fishing Loot](#loot-tables) tables includes four tables, each corresponding to a specific biome where you fish.
 
 If an effect—such as from baits or other modifiers—adds to or subtracts from your Overall Score, apply these adjustments **after Step 3** (i.e., after all multipliers have been calculated), unless the effect specifies otherwise.
+
+## Fishing Tables
+
+This section contains the tables used to determine the loot obtained from fishing. The Loot Table is used to identify your primary catch. If the Loot Table directs you to consult the Junk Table, it represents discarded or incidental items you might encounter. Additionally, the Treasure Table features rare, non-fish items that a fisherman might chance upon.
+
+### Loot Tables
+
+The following section contains Loot tables, which are used to identify your primary catch.
 
 === "Freshwater"
 
@@ -325,18 +343,69 @@ If an effect—such as from baits or other modifiers—adds to or subtracts from
 
     </div>
 
-##### Junk 
+### Fishing Junk 
 
-| d8 | Loot |
-|:-:|---|
-| 1 | Nothing |
-| 2 | A pouch containing 2d4 * 5 SP |
-| 3 | d4 (1. Seaweed, 2. Grass, 3. Pebbles, 4. Old Boot) |
-| 4 | Bundle of Sticks |
-| 5 | d4 (1. Club, 2. Sickle, 3. Dagger, 4. Handaxe/Mace) |
-| 6 | A pouch containing 2d4 * 10 SP |
-| 7 | A Net |
-| 8 | Re-attempt fishing |
+When determining result for your loot from fishing, you roll from the Fishing Junk table when the result requests for it.
+
+=== "Freshwater Junk"
+
+    | d10 | Junk Item | Description |
+    |:-:|---|---|
+    | 1 | Broken Fishing Hook | A rusted, unusable hook. |
+    | 2 | Torn Net Fragment | A piece of a net, tangled and unusable. |
+    | 3 | Driftwood | A small, waterlogged piece of wood. |
+    | 4 | Waterlogged Boot | A single, heavy, water-filled boot. |
+    | 5 | Pouch of Coins | A damp pouch containing 1d4 * 10 SP. |
+    | 6 | Old Map Fragment | A torn map showing part of a forgotten route. |
+    | 7 | Mouldy Cloth Scrap | A tattered piece of cloth, barely holding together. |
+    | 8 | Broken Bottle | A shard of green glass, sharp but worthless. |
+    | 9 | Rotten Fish Remains | A disgusting, decayed fish carcass. |
+    | 10 | Reattempt Fishing | You catch nothing usable and can attempt again. |
+
+=== "Saltwater Junk"
+
+    | d10 | Junk Item | Description |
+    |:-:|---|---|
+    | 1 | Barnacle-Encrusted Plank | A piece of wood covered in barnacles. |
+    | 2 | Old Rope Segment | A frayed piece of salty, knotted rope. |
+    | 3 | Rusted Anchor Fragment | A tiny piece of a corroded anchor. |
+    | 4 | Broken Fishing Line | A tangled mess of salty, ruined line. |
+    | 5 | Pouch of Coins | A damp pouch containing 1d6 * 10 SP. |
+    | 6 | Piece of Sea Glass | A smoothed shard of glass, attractive but useless. |
+    | 7 | Broken Crab Shell | A piece of a discarded crab carapace. |
+    | 8 | Decayed Fish Head | A severed, rotting head of a fish. |
+    | 9 | Bottle with a Note | An empty bottle containing an indecipherable note. |
+    | 10 | Reattempt Fishing | You catch nothing usable and can attempt again. |
+
+=== "Tundra Junk"
+
+    | d10 | Junk Item | Description |
+    |:-:|---|---|
+    | 1 | Frozen Twig | A brittle twig encased in frost. |
+    | 2 | Tattered Fur Scrap | A piece of damp, mouldy fur. |
+    | 3 | Broken Ice Pick | A rusted and snapped tool for ice fishing. |
+    | 4 | Snow-Covered Rock | A nondescript rock covered in frost and snow. |
+    | 5 | Pouch of Coins | A frosty pouch containing 1d4 * 10 SP. |
+    | 6 | Frostbitten Tool | An old tool with frost damage, barely functional. |
+    | 7 | Icicle Shard | A jagged piece of ice that melts quickly. |
+    | 8 | Frosted Boot | A waterlogged, frozen boot. |
+    | 9 | Shattered Fishing Spear | A splintered piece of an old fishing spear. |
+    | 10 | Reattempt Fishing | You catch nothing usable and can attempt again. |
+
+=== "Abyssal Junk"
+
+    | d10 | Junk Item | Description |
+    |:-:|---|---|
+    | 1 | Cracked Coral Piece | A dark, brittle piece of coral. |
+    | 2 | Tangled Kelp | A slimy, deep-water tangle of kelp. |
+    | 3 | Barnacle-Covered Rock | A jagged rock with strange barnacles. |
+    | 4 | Broken Lantern | A shattered, rusted lantern, long forgotten. |
+    | 5 | Pouch of Coins | A pouch with 1d8 * 10 SP, mysteriously intact. |
+    | 6 | Polished Abyssal Pearl | A small pearl that glows faintly. |
+    | 7 | Abyssal Mud Clump | A glob of sticky, pitch-black mud. |
+    | 8 | Ghostly Fishing Hook | A rusted hook that glows faintly. |
+    | 9 | Bone Fragment | A sharp piece of bone, unsettling to look at. |
+    | 10 | Reattempt Fishing | You catch nothing usable and can attempt again. |
 
 
 [Fishing Supplies]: ../../equipment/tools/other-tools.md#fishings-supplies
