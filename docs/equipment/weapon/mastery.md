@@ -161,7 +161,7 @@ When you take the **:rsc-a: Attack**{ .rsc } action, you can choose to expend 8 
 **Type:** Ranged weapon  
 **Properties:** **:weapon-prop-automatic: Automatic**
 
-When you make an **:weapon-prop-automatic: Automatic** attack using this weapon, you can add your ability modifier to the damage roll of the second attack.
+Once per turn, when you make an **:weapon-prop-automatic: Automatic** attack using this weapon, you can add your ability modifier to the damage roll of the second attack.
 
 ---
 

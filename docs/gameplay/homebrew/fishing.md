@@ -106,10 +106,9 @@ Most fish live in bodies of water, so you can only fish in a location capable of
 
 ### Step 2: Rolling Dice  
 
-During 1 hour of fishing, you can attempt up to 3 fishing rolls. For each attempt, roll **five :die-d6: d6s**. You may reroll dice up to a number of times equal to your Wisdom (Survival) modifier.  
+During 1 hour of fishing, you can fish up to 2 times. For each attempt, roll **five :die-d6: d6s**. You may reroll dice up to a number of times equal to your **Wisdom (Survival) modifier**. You may reroll the same die multiple times.  
 
-- You may reroll the same die multiple times.  
-- After all rerolls, keep the final results for each die.  
+After all rerolls, keep the final results for each die.  
 
 ### Step 3: Calculating Overall Score  
 
