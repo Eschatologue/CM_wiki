@@ -2,7 +2,7 @@
 icon: material/fish
 ---
 
-# Fishing and Angling
+# Fishing
 
 In the days before the devastation caused by the warp storms and the emergence of horrendous aberrations in the Antares wilderness, fishing was a cherished pastime. Commoners, adventurers, and even nobility took delight in casting their lines into the serene waters. However, as most civilizations withdrew behind the protective walls of citadel cities, the art of fishing slowly slipped into obscurity.
 

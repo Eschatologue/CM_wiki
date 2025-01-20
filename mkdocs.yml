@@ -129,7 +129,9 @@ nav:
     - Additional Mechanics:
       - The Silver Standard: gameplay/homebrew/silver-standard.md
       - Inventory System: gameplay/homebrew/inventory.md
-      - Fishing & Angling: gameplay/homebrew/fishing.md
+      - Fishing: 
+        - gameplay/homebrew/fishing/index.md
+        - Appendix: gameplay/homebrew/fishing/appendix.md
       - Downtime:
         - gameplay/downtime/index.md
         - Carousing: gameplay/downtime/carousing.md
