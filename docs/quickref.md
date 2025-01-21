@@ -10,8 +10,7 @@ icon: material/crown-circle
 
 # Quick Reference
 
-
-=== "Dice Rolls"
+=== "Core Mechanics"
 
     !!! dice "D20 Test"
 
@@ -23,7 +22,7 @@ icon: material/crown-circle
             
             **Roll:** **:die-d20: D20 + Ability Modifier + PB (if proficient) + other Bonuses**{ .back }
 
-            **Damage Roll**{ .inl } When an attack or attempt to harm is successful, the creature often makes a Damage Roll to determine how much damage it causes to its victim.
+            **Damage Roll**{ .inl } When an attack or attempt to harm is successful, the creature often makes a Damage Roll to determine how much damage it causes to its target.
             
             :   **Roll:** **:die-d6: Damage Die + Ability Modifier + other Bonuses**{ .back }
 
@@ -53,6 +52,27 @@ icon: material/crown-circle
 
         </div>
 
+    !!! abstract "Calculations"
+
+        <div class="grid cards" markdown>
+
+        - #### :material-shield: Armour Class (AC) { .inl }
+
+            **Base AC:** 10 + Dex modifier**{ .back }
+
+            **Light Armour: **Armour's AC + Dex modifier**{ .back }
+
+            **Medium Armour: **Armour's AC + Dex modifier (max 2)**{ .back }
+
+            **Heavy Armour: **Armour's AC**{ .back }
+
+        - #### :material-eye-plus: Passive Perception { .inl }
+
+            **Passive Percecption:** **10 + Wisdom (Perception) check bonus**{ .back }
+
+            **:d20-adv: Advantage**{ .d20 } grants **+5 bonus** and **:d20-disadv: Disadvantage**{ .d20 } grants -**5 penalty**.
+
+        </div>
 
 === "Your Turn" 
 
@@ -95,7 +115,6 @@ icon: material/crown-circle
             Move while Grappling a creature. 
 
         </div>
-
 
     !!! action "Action"
 
@@ -164,9 +183,9 @@ icon: material/crown-circle
 
             Cast a spell with a casting time of a **:rsc-b: Bonus Action**{ .rsc }.
 
-        - #### :simple-sparkfun: Use Class Feature { .inl }
+        - #### :simple-sparkfun: Use a Feature { .inl }
 
-            Activate a class feature that uses a a **:rsc-b: Bonus Action**{ .rsc }.
+            Activate a feature (e.g, Class feature, Species feature) that uses a a **:rsc-b: Bonus Action**{ .rsc }.
 
         </div>
 
@@ -192,10 +211,10 @@ icon: material/crown-circle
 
             Cast a spell with a casting time of a **:rsc-r: Reaction**{ .rsc }.
 
-        - #### :simple-sparkfun: Use Class Feature { .inl }
+        - #### :simple-sparkfun: Use a Feature { .inl }
 
-            _**Trigger:** specified by the class feature_
+            _**Trigger:** specified by the feature_
             
-            Activate a class feature that uses a a **:rsc-r: Reaction**{ .rsc }.
+            Activate a feature (e.g, Class feature, Species feature) that uses a a **:rsc-r: Reaction**{ .rsc }.
 
         </div>

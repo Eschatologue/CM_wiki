@@ -1,5 +1,7 @@
 ---
 icon: material/shield
+search:
+  boost: 1.45
 ---
 
 # Armour
