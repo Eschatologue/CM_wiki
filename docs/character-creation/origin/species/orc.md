@@ -16,7 +16,7 @@ As an Orc, you have these following traits.
 
 ### Adrenaline Rush
 
-You can take the Dash action as a  **:rsc-b: Bonus Action**{ .rsc }. When you do so, you gain a number of Temporary Hit Points equal to your Proficiency Bonus.
+You can take the **Dash**{ .rsc } action as a  **:rsc-b: Bonus Action**{ .rsc }. When you do so, you gain a number of Temporary Hit Points equal to your Proficiency Bonus.
 
 You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended use when you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
@@ -28,8 +28,8 @@ You have Darkvision with a range of 120 feet.
 
 Choose one of the following benefits-an ability from your lineage:
 
-***Relentless Endurance (Continental Orc)***{ .inl } 
+**Relentless Endurance (Continental Orc)**{ .inl }  
 When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead. Once you use this trait, you can't do so again until you finish a **:rest-long: Long Rest**.
 
-***Mystical Resilience (Oni Orc)^*CM*^***{ .inl } 
+**Mystical Resilience (Oni Orc)^*CM*^**{ .inl }  
 You have Advantage on saving throws you make to avoid or end the Charmed and Frightened condition.

@@ -32,7 +32,7 @@ Your Strength score is reduced by 2 and your Intelligence score is increased by 
 
 ### Bri'ish
 
-You know the *English* language and you gain the [Dominion's Armaments] Origin feat.
+You know the *English* language and you gain the [:option-feat-origin: Skilled Dominion's Armaments] Origin feat.
 
 ### Desperate Inspiration
 
@@ -44,10 +44,10 @@ You gain additional ways to gain Heroic Inspiration:
 
 ### Mental Resilience
 
-You have **:dmg-res: Resistance**{ .em } to :dmg-psyc: Psychic damage. You also have **:d20-adv: Advantage**{ .d20 } on saving throws you make to avoid or end the ^^Charmed^^ and ^^Frightened^^ condition.
+You have **:dmg-res: Resistance**{ .em } to **:dmg-psyc: Psychic**{ .dmg-psyc } damage. You also have **:d20-adv: Advantage**{ .d20 } on saving throws you make to avoid or end the ^^Charmed^^ and ^^Frightened^^ condition.
 
 ### British Ingenuity
 
 You gain proficiency in one skill of your choice.
 
-[Dominion's Armaments]: ../../../option/feat/feat-origin/hb.md#dominions-armaments
+[:option-feat-origin: Skilled Dominion's Armaments]: ../../../option/feat/feat-origin/hb.md#dominions-armaments

@@ -22,4 +22,4 @@ You gain proficiency in one skill of your choice.
 
 ### Versatile
 
-You gain an Origin feat of your choice. Skilled is recommended.
+You gain an [:option-feat-origin: Origin feat](../../../option/feat/feat-origin/index.md) of your choice. [:option-feat-origin: Skilled](../../../option/feat/feat-origin/phb24.md#skilled) is recommended.

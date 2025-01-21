@@ -34,9 +34,9 @@ You have Darkvision with a range of 60 feet.
 
 You gain the following benefits.
 
-**Charmed Resistance**  You have **:d20-adv: Advantage**{ .d20 } on saving throws you make to avoid or end the ^^Charmed^^ condition.
+**Charmed Resistance**{ .inl } You have **:d20-adv: Advantage**{ .d20 } on saving throws you make to avoid or end the ^^Charmed^^ condition.
 
-**Trance**  You don't need to sleep, and magic can't put you to sleep. You can finish a **:rest-long: Long Rest** in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
+**Trance**{ .inl }  You don't need to sleep, and magic can't put you to sleep. You can finish a **:rest-long: Long Rest** in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
 
 #### Keen Senses (1)
 
@@ -50,9 +50,9 @@ Choose a lineage from the Elven Lineages table to gain its level 1 benefit. At l
 
 | Lineage | Level 1 | Level 3 | Level 5 |
 |---|---|---|---|
-| Drow | The range of your Darkvision increases to 120 feet. <br>You also know the *Dancing Lights* cantrip. | *Faerie Fire* | *Darkness* |
-| High Elf | You know the *Prestidigitation* cantrip. Can :material-reload: Replace on Long Rest with another Wizard's cantrip. | *Detect Magic* | *Misty Step* |
-| Wood Elf | Your **:rsc-spd: Speed**{ .rsc } increases to 35 feet. <br>You also know the *Druidcraft* cantrip. | *Longstrider* | *Pass without Trace* |
+| Drow | The range of your Darkvision increases to 120 feet. <br>You also know the [:spell-lv0: Dancing Lights] cantrip. | [:spell-lv1: Faerie Fire] | [:spell-lv2: Darkness] |
+| High Elf | You know the [:spell-lv0: Prestidigitation] cantrip. Can :material-reload: Replace on Long Rest with another Wizard's cantrip. | [:spell-lv1: Detect Magic] | [:spell-lv2: Misty Step] |
+| Wood Elf | Your **:rsc-spd: Speed**{ .rsc } increases to 35 feet. <br>You also know the [:spell-lv0: Druidcraft] cantrip. | [:spell-lv1: Longstrider] | [:spell-lv2: Pass without Trace] |
 
 ### Human Traits
 

@@ -18,25 +18,20 @@ As a Goliath, you have these following traits.
 
 You are descended from Giants. Choose one of the following benefits-a supernatural boon from your ancestry; you can use the chosen benefit a number of times equal your Proficiency Bonus, and you regain all expended use when you finish a **:rest-long: Long Rest**:
 
-**Cloud's Jaust (Cloud Giant)**{ .inl }
+**Cloud's Jaust (Cloud Giant)**{ .inl }  
+As a **:rsc-b: Bonus Action**{ .rsc }, you magically teleport up to 30 feet to an unoccupied space you can see.
 
-:   As a **:rsc-b: Bonus Action**{ .rsc }, you magically teleport up to 30 feet to an unoccupied space you can see.
+**Fire's Burn (Fire Giant)**{ .inl }  
+When you hit a target with an attack roll and deal damage to it, you can also deal **1d10 :dmg-fire: Fire**{ .dmg-fire } damage to that target.
 
-**Fire's Burn (Fire Giant)**{ .inl }
+**Frost's Chill (Frost Giant)**{ .inl }  
+When you hit a target with an attack roll and deal damage to it, you can give that target the Prone condition.
 
-:   When you hit a target with an attack roll and deal damage to it, you can also deal **1d10 :dmg-fire: Fire**{ .dmg-fire } damage to that target.
+**Stone's Endurance (Stone Giant)**{ .inl }  
+When you take damage, you can take a **:rsc-r: Reaction**{ .rsc } to roll 1d12. Add your Constitution to the number rolled and reduce the damage by that total.
 
-**Frost's Chill (Frost Giant)**{ .inl }
-
-:   When you hit a target with an attack roll and deal damage to it, you can give that target the Prone condition.
-
-**Stone's Endurance (Stone Giant)**{ .inl }
-
-:   When you take damage, you can take a **:rsc-r: Reaction**{ .rsc } to roll 1d12. Add your Constitution to the number rolled and reduce the damage by that total.
-
-**Storm's Thunder (Storm Giant)**{ .inl }
-
-:   When you take damage from a creature within 60 feet of you, you can take a **:rsc-r: Reaction**{ .rsc } to deal 1d8 :dmg-thun: Thunder damage to that creature.
+**Storm's Thunder (Storm Giant)**{ .inl }  
+When you take damage from a creature within 60 feet of you, you can take a **:rsc-r: Reaction**{ .rsc } to deal 1d8 :dmg-thun: Thunder damage to that creature.
 
 ### Large Form
 
