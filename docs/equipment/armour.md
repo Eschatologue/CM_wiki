@@ -43,7 +43,7 @@ The Armour table lists the game's main armour. The table includes the cost and w
 | *Splint Armour* | 17 | Str 15 | **:d20-disadv: Disadvantage**{ .d20 } | 3L. | 2,000 SP |
 | *Plate Armour* | 18 | Str 15 | **:d20-disadv: Disadvantage**{ .d20 } | 3L. | 15,000 SP |
 
-##### Shield Table (Utilize Action to Don or Doff)
+##### Shield Table (Utilise Action to Don or Doff)
 
 | Shield  | Armour Class (AC) | Strength | Stealth | Weight | Cost |
 |---|:-:|:-:|:-:|:-:|--:|

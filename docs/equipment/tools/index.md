@@ -10,7 +10,7 @@ A tool helps you make specialized ability checks, craft certain items, or both. 
 
 **Ability**{ .inl } This entry lists the ability to use when making an ability check with the tool.
 
-**Utilize**{ .inl } This entry lists things you can do with the tool when you take the Utilize action. You can do one of those things each time you take the action. This entry also provides the DC for the action.
+**Utilise**{ .inl } This entry lists things you can do with the tool when you take the Utilise action. You can do one of those things each time you take the action. This entry also provides the DC for the action.
 
 **Craft**{ .inl } This entry lists what, if anything, you can craft with the tool. For crafting rules, see “Crafting Equipment” later in the chapter.
 

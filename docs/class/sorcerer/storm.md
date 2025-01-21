@@ -54,7 +54,7 @@ Whenever you deal Lightning or Thunder damage with a Sorcerer spell that require
 
 Whenever you use your Storm Within feature, you can spend 2 Sorcery Points to gain the following benefits.
 
-**Armor of Winds**{ .inl } When you choose your Tempestuous Ascent option, you gain a +2 bonus to your Armor Class and Dexterity saving throws until the start of your next turn. If your Innate Sorcery is active, the bonus is +3 instead.
+**Armour of Winds**{ .inl } When you choose your Tempestuous Ascent option, you gain a +2 bonus to your Armour Class and Dexterity saving throws until the start of your next turn. If your Innate Sorcery is active, the bonus is +3 instead.
 
 **Triboelectric**{ .inl } When you choose your Arcane Tempest option, any creature that failed its save also takes 2d6 Lightning or Thunder damage (your choice). If your Innate Sorcery is active, the damage is 3d6 instead.
 

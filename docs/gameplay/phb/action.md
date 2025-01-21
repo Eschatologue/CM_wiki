@@ -21,7 +21,7 @@ When you do something other than moving or communicating, you typically take an 
 | Ready | Prepare to take an action in response to a trigger you define. |
 | Search | Make a Wisdom (Insight, Medicine, Perception, or Survival) check. |
 | Study | Make an Intelligence (Arcana, History, Investigation, Nature, or Religion) check. |
-| Utilize | Use a nonmagical object. |
+| Utilise | Use a nonmagical object. |
 
 ## One Thing at a Time
 
@@ -252,6 +252,6 @@ The target must succeed on a Strength or Dexterity saving throw (it chooses whic
 
 **Cost:** **:rsc-a: Action**{ .rsc }
 
-You normally interact with an object while doing something else, such as when you draw a sword as part of the Attack action. When an object requires an action for its use, you take the Utilize action.
+You normally interact with an object while doing something else, such as when you draw a sword as part of the Attack action. When an object requires an action for its use, you take the Utilise action.
 
 ---

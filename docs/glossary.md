@@ -171,7 +171,7 @@ A **:rsc-b: Bonus Action**{ .rsc } is a special action that you can take on the 
 
 <!-- --8<-- [start:breaking-objects] -->
 
-Objects can be harmed by attacks and by some spells, using the rules below. If an object is exceedingly fragile, the DM may allow a creature to break it automatically with the Attack or Utilize action.
+Objects can be harmed by attacks and by some spells, using the rules below. If an object is exceedingly fragile, the DM may allow a creature to break it automatically with the Attack or Utilise action.
 
 **Armour Class**{ .inl } The Object Armour Class table suggests ACs for various substances.
 

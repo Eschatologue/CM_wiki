@@ -34,7 +34,7 @@ Masters of unlocking magic in everyday objects, Artificers are supreme inventors
     **Armour Training:** Light and Medium armour and Shields
 
     **Starting Equipment:** Choose **A** or **B**:  
-    **(A)** Studded Leather Armor, Dagger, Thieves' Tools, Tinker's Tools, Dungeoneer's Pack, and 160 SP; or  
+    **(A)** Studded Leather Armour, Dagger, Thieves' Tools, Tinker's Tools, Dungeoneer's Pack, and 160 SP; or  
     **(B)** 1.500 SP
 
 ## Becoming a Artificer...

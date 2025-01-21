@@ -58,19 +58,19 @@ icon: material/crown-circle
 
         - #### :material-shield: Armour Class (AC) { .inl }
 
-            **Base AC:** 10 + Dex modifier**{ .back }
+            **Base AC:** **10 + Dex modifier**{ .back }
 
-            **Light Armour: **Armour's AC + Dex modifier**{ .back }
+            **Light Armour:** **Armour's AC + Dex modifier**{ .back }
 
-            **Medium Armour: **Armour's AC + Dex modifier (max 2)**{ .back }
+            **Medium Armour:** **Armour's AC + Dex modifier (max 2)**{ .back }
 
-            **Heavy Armour: **Armour's AC**{ .back }
+            **Heavy Armour:** **Armour's AC**{ .back }
 
         - #### :material-eye-plus: Passive Perception { .inl }
 
             **Passive Percecption:** **10 + Wisdom (Perception) check bonus**{ .back }
 
-            **:d20-adv: Advantage**{ .d20 } grants **+5 bonus** and **:d20-disadv: Disadvantage**{ .d20 } grants -**5 penalty**.
+            **:d20-adv: Advantage**{ .d20 } grants **+5 bonus** and **:d20-disadv: Disadvantage**{ .d20 } grants **-5 penalty**.
 
         </div>
 

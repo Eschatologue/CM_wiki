@@ -11,7 +11,7 @@ Fight Magic with Magic
 
 > *Fight Magic with Magic*
 
-Known for their ruthless dedication to achieving their goals. This fraternity of arcane warriors and mage hunters use their Order's abilities to slay any who abuse magic power. While most Spellbreakers are discerning as they deliver judgment, some swear an oath to destroy any who utilize the arcane arts.
+Known for their ruthless dedication to achieving their goals. This fraternity of arcane warriors and mage hunters use their Order's abilities to slay any who abuse magic power. While most Spellbreakers are discerning as they deliver judgment, some swear an oath to destroy any who utilise the arcane arts.
 
 ### Level 3: Baleful Mark
 

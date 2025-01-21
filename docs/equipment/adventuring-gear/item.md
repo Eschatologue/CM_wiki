@@ -51,7 +51,7 @@ As a **:rsc-b: Bonus Action**{ .rsc }, you can drink a vial of Antitoxin to gain
 
 Adventuring gear, 10 sp, S.
 
-As a Utilize action, you can spill Ball Bearings from their pouch. They spread to cover a level, 10-foot-square area within 10 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 10 Dexterity saving throw or have the Prone condition. It takes 10 minutes to recover the Ball Bearings.
+As a Utilise action, you can spill Ball Bearings from their pouch. They spread to cover a level, 10-foot-square area within 10 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 10 Dexterity saving throw or have the Prone condition. It takes 10 minutes to recover the Ball Bearings.
 
 ---
 
@@ -75,7 +75,7 @@ A Bedroll sleeps one Small or Medium creature. While in a Bedroll, you automatic
 
 Adventuring gear, 1 gp
 
-When rung as a Utilize action, a Bell produces a sound that can be heard up to 60 feet away.
+When rung as a Utilise action, a Bell produces a sound that can be heard up to 60 feet away.
 
 ---
 
@@ -123,7 +123,7 @@ A Bullseye Lantern burns Oil as fuel to cast Bright Light in a 60-foot Cone and 
 
 Adventuring gear, 10 sp, S.
 
-As a Utilize action, you can spread Caltrops from their bag to cover a 5-foot-square area within 5 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 15 Dexterity saving throw or take 1 Piercing damage and have its Speed reduced to 0 until the start of its next turn. It takes 10 minutes to recover the Caltrops.
+As a Utilise action, you can spread Caltrops from their bag to cover a 5-foot-square area within 5 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 15 Dexterity saving throw or take 1 Piercing damage and have its Speed reduced to 0 until the start of its next turn. It takes 10 minutes to recover the Caltrops.
 
 ---
 
@@ -139,7 +139,7 @@ For 1 hour, a lit Candle sheds Bright Light in a 5-foot radius and Dim Light for
 
 Adventuring gear, 50 sp, M.
 
-As a Utilize action, you can wrap a Chain around an unwilling creature within 5 feet of yourself that has the Grappled, Incapacitated, or Restrained condition if you succeed on a DC 13 Strength (Athletics) check. If the creature's legs are bound, the creature has the Restrained condition until it escapes. Escaping the Chain requires the creature to make a successful DC 18 Dexterity (Acrobatics) check as an action. Bursting the Chain requires a successful DC 20 Strength (Athletics) check as an action.
+As a Utilise action, you can wrap a Chain around an unwilling creature within 5 feet of yourself that has the Grappled, Incapacitated, or Restrained condition if you succeed on a DC 13 Strength (Athletics) check. If the creature's legs are bound, the creature has the Restrained condition until it escapes. Escaping the Chain requires the creature to make a successful DC 18 Dexterity (Acrobatics) check as an action. Bursting the Chain requires a successful DC 20 Strength (Athletics) check as an action.
 
 ---
 
@@ -155,7 +155,7 @@ A Chest holds up to 12 cubic feet of contents.
 
 Adventuring gear, 250 sp, L.
 
-A Climber's Kit includes boot tips, gloves, pitons, and a harness. As a Utilize action, you can use the Climber's Kit to anchor yourself; when you do, you can't fall more than 25 feet from the anchor point, and you can't move more than 25 feet from there without undoing the anchor as a  **:rsc-b: Bonus Action**{ .rsc }.
+A Climber's Kit includes boot tips, gloves, pitons, and a harness. As a Utilise action, you can use the Climber's Kit to anchor yourself; when you do, you can't fall more than 25 feet from the anchor point, and you can't move more than 25 feet from there without undoing the anchor as a  **:rsc-b: Bonus Action**{ .rsc }.
 
 ---
 
@@ -209,7 +209,7 @@ A Glass Bottle holds up to 1½ pints.
 
 Adventuring gear, 20 sp, S.
 
-As a Utilize action, you can throw the Grappling Hook at a railing, a ledge, or another catch within 50 feet of yourself, and the hook catches on if you succeed on a DC 13 Dexterity (Acrobatics) check. If you tied a Rope to the hook, you can then climb it.
+As a Utilise action, you can throw the Grappling Hook at a railing, a ledge, or another catch within 50 feet of yourself, and the hook catches on if you succeed on a DC 13 Dexterity (Acrobatics) check. If you tied a Rope to the hook, you can then climb it.
 
 ---
 
@@ -217,7 +217,7 @@ As a Utilize action, you can throw the Grappling Hook at a railing, a ledge, or 
 
 Adventuring gear, 50 sp, S.
 
-A Healer's Kit has ten uses. As a Utilize action, you can expend one of its uses to stabilize an Unconscious creature that has 0 Hit Points without needing to make a Wisdom (Medicine) check.
+A Healer's Kit has ten uses. As a Utilise action, you can expend one of its uses to stabilize an Unconscious creature that has 0 Hit Points without needing to make a Wisdom (Medicine) check.
 
 ---
 
@@ -242,7 +242,7 @@ A Hooded Lantern burns Oil as fuel to cast Bright Light in a 30-foot radius and 
 Adventuring gear, 50 sp, XL.
 
 
-As a Utilize action, you can set a Hunting Trap, which is a sawtooth steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 Piercing damage and have its Speed reduced to 0 until the start of its next turn. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet). A creature can use its action to make a DC 13 Strength (Athletics) check, freeing itself or another creature within its reach on a success. Each failed check deals 1 Piercing damage to the trapped creature.
+As a Utilise action, you can set a Hunting Trap, which is a sawtooth steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 Piercing damage and have its Speed reduced to 0 until the start of its next turn. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet). A creature can use its action to make a DC 13 Strength (Athletics) check, freeing itself or another creature within its reach on a success. Each failed check deals 1 Piercing damage to the trapped creature.
 
 ---
 
@@ -274,7 +274,7 @@ An Iron Pot holds up to 1 gallon.
 
 Adventuring gear, 1 sp, XS.
 
-Iron Spikes come in bundles of ten. As a Utilize action, you can use a blunt object, such as a *Light Hammer*, to hammer a spike into wood, earth, or a similar material. You can do so to jam a door shut or to then tie a *Rope* or *Chain* to the Spike.
+Iron Spikes come in bundles of ten. As a Utilise action, you can use a blunt object, such as a *Light Hammer*, to hammer a spike into wood, earth, or a similar material. You can do so to jam a door shut or to then tie a *Rope* or *Chain* to the Spike.
 
 ---
 
@@ -322,7 +322,7 @@ A Magnifying Glass grants Advantage on any ability check made to appraise or ins
 
 Adventuring gear, 20 sp, M.
 
-As a Utilize action, you can use Manacles to bind an unwilling Small or Medium creature within 5 feet of yourself that has the Grappled, Incapacitated, or Restrained condition if you succeed on a DC 13 Dexterity (Sleight of Hand) check. While bound, a creature has Disadvantage on attack rolls, and the creature is Restrained if the Manacles are attached to a chain or hook that is fixed in place. Escaping the Manacles requires a successful DC 20 Dexterity (Sleight of Hand) check as an action. Bursting them requires a successful DC 25 Strength (Athletics) check as an action.
+As a Utilise action, you can use Manacles to bind an unwilling Small or Medium creature within 5 feet of yourself that has the Grappled, Incapacitated, or Restrained condition if you succeed on a DC 13 Dexterity (Sleight of Hand) check. While bound, a creature has Disadvantage on attack rolls, and the creature is Restrained if the Manacles are attached to a chain or hook that is fixed in place. Escaping the Manacles requires a successful DC 20 Dexterity (Sleight of Hand) check as an action. Bursting them requires a successful DC 25 Strength (Athletics) check as an action.
 
 Each set of Manacles comes with a key. Without the key, a creature can use *Thieves' Tools* to pick the Manacles' lock with a successful DC 15 Dexterity (Sleight of Hand) check.
 
@@ -370,9 +370,9 @@ You can douse a creature, object, or space with Oil or use it as fuel, as detail
 
 **Dousing a Creature or an Object**{ .inl } When you take the Attack action, you can replace one of your attacks with throwing an Oil flask. Target one creature or object within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or be covered in oil. If the target takes Fire damage before the oil dries (after 1 minute), the target takes an extra 5 Fire damage from burning oil.
 
-**Dousing a Space**{ .inl } You can take the Utilize action to pour an Oil flask on level ground to cover a 5-foot-square area within 5 feet of yourself. If lit, the oil burns until the end of the turn 2 rounds from when the oil was lit (or 12 seconds) and deals 5 Fire damage to any creature that enters the area or ends its turn there. A creature can take this damage only once per turn.
+**Dousing a Space**{ .inl } You can take the Utilise action to pour an Oil flask on level ground to cover a 5-foot-square area within 5 feet of yourself. If lit, the oil burns until the end of the turn 2 rounds from when the oil was lit (or 12 seconds) and deals 5 Fire damage to any creature that enters the area or ends its turn there. A creature can take this damage only once per turn.
 
-**Fuel**{ .inl } Oil serves as fuel for Lamps and Lanterns. Once lit, a flask of Oil burns for 6 hours in a Lamp or Lantern. That duration doesn't need to be consecutive; you can extinguish the burning Oil (as a Utilize action) and rekindle it again until it has burned for a total of 6 hours.
+**Fuel**{ .inl } Oil serves as fuel for Lamps and Lanterns. Once lit, a flask of Oil burns for 6 hours in a Lamp or Lantern. That duration doesn't need to be consecutive; you can extinguish the burning Oil (as a Utilise action) and rekindle it again until it has burned for a total of 6 hours.
 
 ---
 
@@ -438,7 +438,7 @@ Adventuring gear, 10 sp, S.
 
 
 
-As a Utilize action, you can tie a knot with Rope if you succeed on a DC 10 Dexterity (Sleight of Hand) check. The Rope can be burst with a successful DC 20 Strength (Athletics) check.
+As a Utilise action, you can tie a knot with Rope if you succeed on a DC 10 Dexterity (Sleight of Hand) check. The Rope can be burst with a successful DC 20 Strength (Athletics) check.
 
 You can bind an unwilling creature with the Rope only if the creature has the Grappled, Incapacitated, or Restrained condition. If the creature's legs are bound, the creature has the Restrained condition until it escapes. Escaping the Rope requires the creature to make a successful DC 15 Dexterity (Acrobatics) check as an action.
 
@@ -464,7 +464,7 @@ Working for 1 hour, you can use a Shovel to dig a hole that is 5 feet on each si
 
 Adventuring gear, 5 cp
 
-When blown as a Utilize action, a Signal Whistle produces a sound that can be heard up to 600 feet away.
+When blown as a Utilise action, a Signal Whistle produces a sound that can be heard up to 600 feet away.
 
 ---
 
@@ -480,7 +480,7 @@ Objects viewed through a Spyglass are magnified to twice their size.
 
 Adventuring gear, 1 sp
 
-String is 10 feet long. You can tie a knot in it as a Utilize action.
+String is 10 feet long. You can tie a knot in it as a Utilise action.
 
 ---
 

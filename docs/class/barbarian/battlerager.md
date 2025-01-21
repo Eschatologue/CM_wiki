@@ -4,30 +4,30 @@ status: adapted
 ---
 
 <p style="display:none">
-Assail Grappled Enemies with Spiked Armor
+Assail Grappled Enemies with Spiked Armour
 </p>
 
 # Path of the Battlerager
 
-> *Assail Grappled Enemies with Spiked Armor*
+> *Assail Grappled Enemies with Spiked Armour*
 
-Often followers of gods of war, these furious Barbarians pride themselves in very close combat. They adorn their armor with metal pins and spikes that pierce a foe upon contact. These Barbarians often fight bare handed, preferring to instead grab and wrestle with their enemies as their armor pokes bleeding holes in them.
+Often followers of gods of war, these furious Barbarians pride themselves in very close combat. They adorn their armour with metal pins and spikes that pierce a foe upon contact. These Barbarians often fight bare handed, preferring to instead grab and wrestle with their enemies as their armour pokes bleeding holes in them.
 
-### Level 3: Ravager Armor
+### Level 3: Ravager Armour
 
-You adorn your armor with crude spikes with which you can slam your enemies. You gain a set of Smith's Tools and you have proficiency with them. You can spend 1 minute using the Smith's Tools to turn a set of Light or Medium Armor into your Ravager Armor, fastening metal spikes to it. 
+You adorn your armour with crude spikes with which you can slam your enemies. You gain a set of Smith's Tools and you have proficiency with them. You can spend 1 minute using the Smith's Tools to turn a set of Light or Medium Armour into your Ravager Armour, fastening metal spikes to it. 
 
-While wearing your Ravager Armor, you gain the following benefits:
+While wearing your Ravager Armour, you gain the following benefits:
 
 **Barbed**{ .inl } You have Advantage on saving throws to avoid or end the Grappled condition.
 
-***Spiked Slam***. When you make an Unarmed Strike (Damage), you can slam into the target with your armor, dealing :dmg-prcg: Piercing damage equal to 1d6 plus your Strength modifier, instead of the normal damage for an Unarmed Strike.
+***Spiked Slam***. When you make an Unarmed Strike (Damage), you can slam into the target with your armour, dealing :dmg-prcg: Piercing damage equal to 1d6 plus your Strength modifier, instead of the normal damage for an Unarmed Strike.
 
 **Spiky Embrace**{ .inl } At the start of each of your turns while you have a creature Grappled, it takes :dmg-prcg: Piercing damage equal to your Strength modifier (minimum 1 damage).
 
 ### Level 3: Ravager's Hold
 
-Your furious grip becomes extremely tight as you press your spiked armor into your enemies. When your **:class-abl-rage: Rage**{ .em } is active, you gain the following benefits:
+Your furious grip becomes extremely tight as you press your spiked armour into your enemies. When your **:class-abl-rage: Rage**{ .em } is active, you gain the following benefits:
 
 **Tight Grip**{ .inl } You add your **:class-abl-rage: Rage**{ .em } Damage bonus to the saving throw DC of your Unarmed Strikes.
 

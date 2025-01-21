@@ -13,7 +13,7 @@ Mix Protective and Destructive Magic to Master the Battlefield
 
 A variety of arcane colleges specialize in training Wizards for war. The tradition of War Magic blends principles of Evocation and Abjuration, rather than specializing in either of those schools. It teaches techniques that empower a caster's spells, while also providing methods for wizards to bolster their own defenses.
 
-Followers of this tradition are known as War Mages. They see their magic as both a weapon and armor, a resource superior to any piece of steel. War mages act fast in battle, using their spells to seize tactical control of a situation. Their spells strike hard, while their defensive skills foil their opponents' attempts to counterattack. War Mages are also adept at turning other spellcasters' magical energy against them.
+Followers of this tradition are known as War Mages. They see their magic as both a weapon and armour, a resource superior to any piece of steel. War mages act fast in battle, using their spells to seize tactical control of a situation. Their spells strike hard, while their defensive skills foil their opponents' attempts to counterattack. War Mages are also adept at turning other spellcasters' magical energy against them.
 
 In great battles, a War Mage often works with evokers, abjurers, and other types of wizards. Evokers, in particular, sometimes tease War Mages for splitting their attention between offense and defense. A war mage's typical response: "What good is being able to throw a mighty fireball if I die before I can cast it?"
 
