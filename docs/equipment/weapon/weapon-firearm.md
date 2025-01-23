@@ -77,7 +77,7 @@ Advanced Firearms Table include rocket launchers, machine guns, and other large,
 
 In the *Crown & Misery* setting, firearms are rare weapons powered by *Cordite*, a volatile substance rendered inert near creatures attuned to the Weave. This unique interaction makes firearms largely ineffective for most Antares races, except **Londoners**, who are not inherently tied to the Weave. 
 
-Firearms require a special proficiency distinct from :prof-wp-simple: Simple or :prof-wp-martial: Martial weapons. They are unaffected by mechanics that apply to Cold weapons, such as certain enchantments or abilities. 
+Firearms require a special proficiency distinct from :prof-wp-simple: Simple or :prof-wp-martial: Martial weapons. They are unaffected by mechanics that apply to Cold Weapons, such as certain enchantments or abilities. 
 
 Most classes lack Firearm proficiency unless specifically granted by a background, species feature, or other traits. While the basic operation of firearms—*pull the trigger, it fires*—is widely understood, wielding them effectively requires suppressing one’s connection to the Weave, making them particularly challenging for magic users. Non-magical individuals are more adept at mastering these weapons.
 

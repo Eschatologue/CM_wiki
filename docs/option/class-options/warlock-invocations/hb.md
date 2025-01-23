@@ -105,7 +105,7 @@ Your bond with your Pact Weapon improves.
 
 **Enhancement I**{ .inl } Your Pact Weapon gains a +1 bonus to its attack and damage rolls. If it already has a pre-existing bonus to those rolls, only the highest instance take effect.
 
-**Ranged Pact Weapon**{ .inl } The weapon you conjure or make a bond with using Pact of the Blade can be Ranged cold weapon.
+**Ranged Pact Weapon**{ .inl } The weapon you conjure or make a bond with using Pact of the Blade can be Ranged Cold Weapon.
 
 ---
 

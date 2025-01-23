@@ -26,9 +26,9 @@ When a weapon requires its target to make a saving throw—whether through its P
 
 ### Cold Weapons
 
-A cold weapon is a weapon that does not involve fire or explosions resulting from the use of gunpowder or other explosive materials. These are the most common weapons found in this setting, and they are most useful to the average inhabitants of Antares.
+A Cold Weapon is a weapon that does not involve fire or explosions resulting from the use of gunpowder or other explosive materials. These are the most common weapons found in this setting, and they are most useful to the average inhabitants of Antares.
 
-Cold weapons can be categorized into two as per standard D&D: **Simple Weapons** and **Martial Weapons**.
+Cold Weapons can be categorized into two as per standard D&D: **Simple Weapons** and **Martial Weapons**.
 
 Main article: [Cold Weapons](weapon-cold.md)
 

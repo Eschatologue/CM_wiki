@@ -27,7 +27,7 @@ Technology in Antares varies drastically across its nations, from medieval stand
 
 ### Weapons & Warfare
 
-Cold weapons—swords, spears, shields, and bows—remain the norm in Antares, often supplemented by dreadnoughts and magical conduits like arcane fusils and wands. Firearms and explosives, though rare, are primarily used by London, where revolvers and semi-automatic pistols are more common. Explosives see wider use, but firearms are seen as more of a Londoner tool or war trophy elsewhere.
+Cold Weapons—swords, spears, shields, and bows—remain the norm in Antares, often supplemented by dreadnoughts and magical conduits like arcane fusils and wands. Firearms and explosives, though rare, are primarily used by London, where revolvers and semi-automatic pistols are more common. Explosives see wider use, but firearms are seen as more of a Londoner tool or war trophy elsewhere.
 
 ### Culture
 

@@ -32,7 +32,7 @@ Your Strength score is reduced by 2 and your Intelligence score is increased by 
 
 ### Bri'ish
 
-You know the *English* language and you gain the [:option-feat-origin: Skilled Dominion's Armaments] Origin feat.
+You know the *English* language and you gain the [:option-feat-origin: Dominion's Armaments] Origin feat.
 
 ### Desperate Inspiration
 
@@ -50,4 +50,4 @@ You have **:dmg-res: Resistance**{ .em } to **:dmg-psyc: Psychic**{ .dmg-psyc } 
 
 You gain proficiency in one skill of your choice.
 
-[:option-feat-origin: Skilled Dominion's Armaments]: ../../../option/feat/feat-origin/hb.md#dominions-armaments
+[:option-feat-origin: Dominion's Armaments]: ../../../option/feat/feat-origin/hb.md#dominions-armaments

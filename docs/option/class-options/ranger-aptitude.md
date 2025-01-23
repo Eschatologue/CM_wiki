@@ -9,7 +9,12 @@ Below are the Aptitudes available to the [Ranger]. If an Aptitude has a prerequi
 
 [Ranger]: ../../class/ranger/index.md
 
----
+## Origin Aptitude
+
+*What were you before you've taken the mantle of a Ranger?*
+{ .quote }
+
+Every Ranger has a unique origin, these aptitude belongs in Origin category.
 
 ### Bounty Hunter
 
@@ -47,6 +52,13 @@ You have cultivated a strong bond with animals and nature. Whenever you would ma
 
 ---
 
+## Explorer's Aptitude
+
+*What lies within the towering walls, and what hides beyond the wild expanse?*
+{ .quote }
+
+These aptitude belongs in Explorer category.
+
 ### Urban Tracker
 
 You are an expert at navigating the urban labyrinth as well as the wilds. You gain Proficiency in Acrobatics and Sleight of Hand. In addition, you know the Thieves' Cant language.
@@ -60,6 +72,23 @@ You have spent endless days surviving desolate wastelands. Choose one of the fol
 **Repeatable**{ .inl } You can choose this Aptitude again, choosing different damage type each time.
 
 ---
+
+### Planar Wanderer
+
+_**Prerequisite:** Level 6+ Ranger_
+
+Choose one of the following damage types: :dmg-force: Force, :dmg-necr: Necrotic, :dmg-psyc: Psychic, or :dmg-radi: Radiant. You gain **:dmg-res: Resistance**{ .em } to the chosen damage type. 
+
+**Repeatable**{ .inl } You can choose this Aptitude again, choosing different damage type each time.
+
+---
+
+## Strategist's Aptitude
+
+*Through wit and wisdom, even the wildest ranger can master the art of cunning and strategy.*
+{ .quote }
+
+These aptitudes belong in the Strategist category, focusing on tactical skill, versatility, and clever utilisation of resources.
 
 ### Cunning Technique
 
@@ -95,6 +124,13 @@ During a **:rest-short: Short Rest**, you can recover spell slots of a combined 
 
 ---
 
+## Slayer's Aptitude
+
+*One target, one focus—let no prey escape your mark.*  
+{ .quote }
+
+These aptitudes belong in the Slayer category, which enhances the Ranger's [:spell-lv1: Hunter's Mark] spell.
+
 ### Slayer I
 
 _**Prerequisite:** Level 3+ Ranger_
@@ -118,6 +154,13 @@ _**Prerequisite:** Level 14+ Ranger, [Slayer II](#slayer-ii-ambush-tactics)_
 Once per turn, when you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or Unarmed Strike, you can force the target must succeed a :d20-save: Constitution saving throw, or it has the ^^Blinded^^ and ^^Silenced^^ condition.
 
 ---
+
+## Strider's Aptitude
+
+*The path is yours to forge—no obstacle shall hinder your journey.*  
+{ .quote }
+
+These aptitudes belong in the Strider category, focusing on mobility, freedom of movement, and overcoming terrain-based hinderance.
 
 ### Strider I
 
@@ -143,6 +186,13 @@ You always under the effect of [:spell-lv4: Freedom of Movement] spell so long y
 
 ---
 
+## Seeker's Aptitude
+
+*With sharpened senses, you pierce through shadows and lies to find your mark.*
+{ .quote }
+
+These aptitudes belong in the Seeker category, refining the Ranger's perception and precision to eliminate any advantage their prey might hold.
+
 ### Enhanced Senses
 
 _**Prerequisite:** Level 6+ Ranger_
@@ -159,15 +209,12 @@ You can't have **:d20-disadv: Disadvantage**{ .d20 } on attack rolls against any
 
 ---
 
-### Planar Wanderer
+## Feral Aptitude
 
-_**Prerequisite:** Level 6+ Ranger_
+*The beast within stirs with every strike, searching for weakness and exploiting it.*  
+{ .quote }
 
-Choose one of the following damage types: :dmg-force: Force, :dmg-necr: Necrotic, :dmg-psyc: Psychic, or :dmg-radi: Radiant. You gain **:dmg-res: Resistance**{ .em } to the chosen damage type. 
-
-**Repeatable**{ .inl } You can choose this Aptitude again, choosing different damage type each time.
-
----
+These aptitudes belong in the Feral category, tapping into the primal instincts of the Ranger to exploit the vulnerabilities of their foes and strike with savage precision.
 
 ### Primal Focus
 
@@ -197,6 +244,13 @@ When you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack
 
 ---
 
+## Endurance Aptitude
+
+*Through pain and hardship, you become stronger—your resolve unbroken.*  
+{ .quote }
+
+These aptitudes belong in the Endurance category, reinforcing Ranger’s resilience and survivability.
+
 ### Survivor I
 
 _**Prerequisite:** Level 6+ Ranger_
@@ -212,6 +266,13 @@ _**Prerequisite:** Level 9+ Ranger, [Survivor](#survivor-i)_
 When you make a Death Saving Throw, you add your Wisdom modifier to the roll (minimum of +1). If the result of your roll is 20 or higher, you gain two Death Saving Throw success.
 
 ---
+
+## Surge Aptitude
+
+*In moments of peril, your body surges with unparalleled speed and strength.*  
+{ .quote }
+
+These aptitudes belong in the Surge category.
 
 ### Adrenaline I
 
@@ -229,6 +290,13 @@ When you cast [:spell-lv3: Haste] from the Adrenaline Aptidude, it does not requ
 
 ---
 
+## Apex Aptitude
+
+*At the peak of your mastery, your strikes are final, and your will is unyielding.*  
+{ .quote }
+
+These aptitudes belong in the Apex category, representing the Ranger’s ultimate power.
+
 ### Binding Blade
 
 _**Prerequisite:** Level 19+ Ranger_
@@ -242,5 +310,7 @@ You can cast [:spell-lv1: Ensnaring Strike] without expending a spell slot.
 _**Prerequisite:** Level 19+ Ranger_
 
 Whenever you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or Unarmed Strike, you can immediately end the spell and cause that attack to deal maximum damage instead of rolling. If the attack reduces the creature to 50 Hit Points or fewer, it must succeed on a Constitution saving throw against your Spell save DC or it instantly dies.
+
+---
 
 --8<-- "includes/snippets/spells2/lv0-5.md"

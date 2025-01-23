@@ -4,7 +4,7 @@ icon: weapon/pike
 
 # Cold Weapon
 
-[Cold weapons](https://en.wikipedia.org/wiki/Cold_weapon) encompasses all non-firearm melee and ranged weapons. They are the most common types of weapons you can find while adventuring, whether they are sold, given, wielded, or issued to most adventurers or armies within Antares. You can expect weapons from this category to be available at most shops or with merchants you come across during your adventure.
+[Cold Weapons](https://en.wikipedia.org/wiki/Cold_weapon) encompasses all non-firearm melee and ranged weapons. They are the most common types of weapons you can find while adventuring, whether they are sold, given, wielded, or issued to most adventurers or armies within Antares. You can expect weapons from this category to be available at most shops or with merchants you come across during your adventure.
 
 The Weapons tables in this section shows the game's main weapons. These table lists the cost and weight of each weapon, as well as the following details:
 

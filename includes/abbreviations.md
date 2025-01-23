@@ -14,7 +14,3 @@
 
 *[Advantage]: Roll two d20s, and use the <strong>higher</strong> roll.
 *[Disadvantage]: Roll two d20s, and use the <strong>lower</strong> roll.
-
-
-
-
