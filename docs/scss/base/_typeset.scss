@@ -88,7 +88,7 @@ $defaultFontSize: convert.px2rem(15px); // Base font size
 
     // H1 Specific Styles
     h1 {
-        font-size: calc(var(--default-font-size) * 2.2);
+        font-size: calc(var(--default-font-size) * 2.1);
         letter-spacing: calc(var(--default-font-size) * 0.02);
         font-weight: #{calc(var(--default-font-weight) * 1.65)}; // Ensure var(--default-font-weight) is numeric
         margin: #{convert.px2rem(9px)} 0;
@@ -96,27 +96,27 @@ $defaultFontSize: convert.px2rem(15px); // Base font size
 
     // H2 Specific Styles
     h2 {
-        font-size: calc(var(--default-font-size) * 1.75);
+        font-size: calc(var(--default-font-size) * 1.7);
         font-weight: #{calc(var(--default-font-weight) * 1.5)};
         letter-spacing: calc(var(--default-font-size) * 0.075);
-        border-bottom: #{convert.px2rem(2.5px)} solid var(--md-default-wht--025);
+        border-bottom: #{convert.px2rem(4.5px)} ridge var(--md-primary-fg-color);
         margin: #{convert.px2rem(18px)} 0 #{convert.px2rem(4px)} 0;
         padding-bottom: #{convert.px2rem(2px)};
     }
 
     // H3 Specific Styles
     h3 {
-        font-size: calc(var(--default-font-size) * 1.5);
+        font-size: calc(var(--default-font-size) * 1.45);
         letter-spacing: calc(var(--default-font-size) * 0.03);
         font-weight: 550;
         margin: #{convert.px2rem(10px)} 0;
-        border-bottom: #{convert.px2rem(2.55px)} dotted var(--md-default-wht--025);
+        border-bottom: #{convert.px2rem(2.5px)} solid var(--md-primary-fg-color);
         padding-bottom: #{convert.px2rem(4px)};
     }
 
     // H4 Specific Styles
     h4 {
-        font-size: calc(var(--default-font-size) * 1.25);
+        font-size: calc(var(--default-font-size) * 1.225);
         letter-spacing: calc(var(--default-font-size) * 0.03);
         font-weight: 550;
         margin: #{convert.px2rem(12px)} 0 #{convert.px2rem(-6px)} 0;
@@ -142,7 +142,7 @@ $defaultFontSize: convert.px2rem(15px); // Base font size
 
 // Divider Line
 .md-typeset hr {
-    border-bottom: #{convert.px2em(3px)} dashed rgba(255, 255, 255, 0.15);
+    border-bottom: #{convert.px2em(8px)} double var(--md-default-wht--0125);
     margin: #{convert.px2em(14px)} 0;
 }
 

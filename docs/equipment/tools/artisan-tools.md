@@ -6,7 +6,11 @@ icon: material/wrench
 
 Artisan's Tools are each focused on crafting items and pursuing a trade. Each of these tools requires a separate proficiency.
 
-## 2024 Player's Handbook Artisan Tools
+## PHB'24 Artisan Tools
+
+The following section list's tools from PHB'24.
+
+---
 
 ### Alchemist's Supplies
 
@@ -176,9 +180,11 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 **Utilise:** Carve a pattern in wood (DC 10)  
 **Craft:** Club, Greatclub, Quarterstaff, Ranged weapons (except Pistol, Musket, and Sling), Arcane Focus, Arrows, Bolts, Druidic Focus, Ink Pen, Needles  
 
----
-
 ## Crown & Misery Artisan's Tools
+
+The following section list's tools from PHB'24.
+
+---
 
 ### Gunsmith's Tools
 
@@ -188,6 +194,5 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 **Utilise:** Discern and fix a firearm (DC 15)  
 **Craft:** Pistol Cartridges, Rifle Cartridges, Shotgun Cartridges, [Proximity Mines](../consumeables/grenade.md#plant)
 
----
 
 --8<-- "includes/snippets/inv-notation.md"

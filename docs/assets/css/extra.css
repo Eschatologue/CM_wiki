@@ -63,29 +63,29 @@
   font-variant: small-caps !important;
 }
 .md-typeset h1 {
-  font-size: calc(var(--default-font-size) * 2.2);
+  font-size: calc(var(--default-font-size) * 2.1);
   letter-spacing: calc(var(--default-font-size) * 0.02);
   font-weight: calc(var(--default-font-weight) * 1.65);
   margin: 0.45rem 0;
 }
 .md-typeset h2 {
-  font-size: calc(var(--default-font-size) * 1.75);
+  font-size: calc(var(--default-font-size) * 1.7);
   font-weight: calc(var(--default-font-weight) * 1.5);
   letter-spacing: calc(var(--default-font-size) * 0.075);
-  border-bottom: 0.125rem solid var(--md-default-wht--025);
+  border-bottom: 0.225rem ridge var(--md-primary-fg-color);
   margin: 0.9rem 0 0.2rem 0;
   padding-bottom: 0.1rem;
 }
 .md-typeset h3 {
-  font-size: calc(var(--default-font-size) * 1.5);
+  font-size: calc(var(--default-font-size) * 1.45);
   letter-spacing: calc(var(--default-font-size) * 0.03);
   font-weight: 550;
   margin: 0.5rem 0;
-  border-bottom: 0.1275rem dotted var(--md-default-wht--025);
+  border-bottom: 0.125rem solid var(--md-primary-fg-color);
   padding-bottom: 0.2rem;
 }
 .md-typeset h4 {
-  font-size: calc(var(--default-font-size) * 1.25);
+  font-size: calc(var(--default-font-size) * 1.225);
   letter-spacing: calc(var(--default-font-size) * 0.03);
   font-weight: 550;
   margin: 0.6rem 0 -0.3rem 0;
@@ -105,7 +105,7 @@
 }
 
 .md-typeset hr {
-  border-bottom: 0.1875em dashed rgba(255, 255, 255, 0.15);
+  border-bottom: 0.5em double var(--md-default-wht--0125);
   margin: 0.875em 0;
 }
 
@@ -130,7 +130,7 @@
   text-transform: capitalize !important;
   vertical-align: bottom;
   color: var(--md-text-color);
-  border-bottom: 0.125rem solid var(--md-primary-fg-color);
+  border-bottom: 0.15rem solid var(--md-primary-fg-color);
   background-color: var(--md-mod-table-color--darkest);
   padding: 0.525em 1em;
 }
