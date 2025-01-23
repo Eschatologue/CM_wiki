@@ -2,8 +2,6 @@
 
 These Fighting Style Feature are homebrew.
 
-
-
 ### Gallian Swordplay
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
@@ -28,7 +26,7 @@ When you make an attack with a Cold Weapon that has **:weapon-prop-heavy: Heavy*
 
 You have studied combat techniques that allow you to perform Combat Manoeuvre.
 
-**Combat Manoeuvre**{ .inl } You learn two [Manoeuvre](../../class-options/fighter-manoeuvre.md) of your choice from among those available to the Battle Master archetype. If a manoeuvre forces a saving throw, the DC equals to 8 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice). Each time you gain a level you can replace a Manoeuvre you know with another Manoeuvre of your choice.
+**Combat Manoeuvre**{ .inl } You learn two [Manoeuvre](../../class-options/fighter-manoeuvre.md) of your choice from among those available to the Battle Master. If a manoeuvre forces a saving throw, the DC equals to 8 plus your Proficiency Bonus and Strength or Dexterity modifier (your choice). Each time you gain a level you can replace a Manoeuvre you know with another Manoeuvre of your choice.
 
 **Three Superiority Die**{ .inl } You gain three :die-d4: d4 Superiority Die. This die is used to fuel your manoeuvres. A Superiority Die is expended when you use it. You regain your expended Superiority Dice when you finish a **:rest-short: Short Rest** or **:rest-long: Long Rest**.
 
@@ -40,7 +38,7 @@ If you already have a pool of Superiority Dice, these dice are added to that poo
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-You specialise one weapon rather than many. Choose one Weapon that you are Proficient with to be your Signature Weapon. When you make an attack with that type of weapon, you gain the following benefit, you can change your Signature Weapon when you gain a level:
+You specialise one weapon rather than many. Choose one Weapon that you are Proficient with to be your Signature Weapon. When you make an attack with that type of weapon, you gain the following benefit, you can change your Signature Weapon when you gain a level.
 
 **Damage Die Increase**{ .inl } The weapon's damage die that is in the Original Damage Die column changes to the die in the Signature Damage Die column.
 
@@ -72,9 +70,9 @@ You specialise one weapon rather than many. Choose one Weapon that you are Profi
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*  
 
-Having the Prone condition doesn't impose **:d20-disadv: Disadvantage**{ .d20 } on your Ranged weapon attacks. Moreover, while Prone, when you hit the target within your Ranged weapon's normal range you can treat any 1 or 2 on a damage die as a 3.
+You gain a +1 bonus to attack rolls with ranged weapons, and your attacks with Ranged weapons ignore half-cover and treat three-quarter's cover as half cover.
 
-Moreover, your attack with Ranged weapon doesn't have **:d20-disadv: Disadvantage**{ .d20 } if your target has the Prone condition so long your target is within your weapon normal range.
+Moreover, having the Prone condition doesn't impose **:d20-disadv: Disadvantage**{ .d20 } on your Ranged attacks with Arbalest, Crossbows, and Firearms.
 
 ---
 

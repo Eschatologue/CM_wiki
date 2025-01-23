@@ -88,12 +88,12 @@ Martial weapons require more training to use effectively but offer greater damag
 
 | name | damage | properties | mastery | weight | cost |
 |:--|---|---|---|:-:|--:|
-| *Crossbow, Hand* | 1d6 :dmg-prcg: Piercing | Ammunition (:weapon-prop-range: Range 30/120; Bolt), Light, Loading | [Vex] | M. | 750 SP |
-| *Crossbow, Heavy* | 1d10 :dmg-prcg: Piercing | Ammunition (:weapon-prop-range: Range 100/400; Bolt), Heavy, Loading, Two-handed | [Push] | M. | 500 SP |
+| *Hand Crossbow* | 1d6 :dmg-prcg: Piercing | Ammunition (:weapon-prop-range: Range 30/120; Bolt), Light, Loading | [Vex] | M. | 750 SP |
+| *Heavy Crossbow* | 1d10 :dmg-prcg: Piercing | Ammunition (:weapon-prop-range: Range 100/400; Bolt), Heavy, Loading, Two-handed | [Push] | M. | 500 SP |
 | *Longbow* | 1d8 :dmg-prcg: Piercing | Ammunition (:weapon-prop-range: Range 150/600; Arrow), Heavy, Two-handed | [Slow] | M. | 500 SP |
-| *Arbalest* | 2d6 :dmg-prcg: Piercing | Ammunition (:weapon-prop-range: Range 180/360; Bolt), Heavy, Loading, Mounted, Two-handed, Sighted | [Brace] | XL. | 950 SP |
-| *Heavy Repeating Crossbow* | 1d8 :dmg-prcg: Piercing | Ammunition (:weapon-prop-range: Range 90/360; Bolt), Automatic, Heavy, Reload (6), Two-handed | [Tap] | M. | 700 SP |
+| *Arbalest* | 2d6 :dmg-prcg: Piercing | Ammunition (:weapon-prop-range: Range 180/360; Bolt), Heavy, Loading, Mounted, Two-handed, Sighted | [Push] | XL. | 950 SP |
 | *Compound Bow* | 1d10 :dmg-prcg: Piercing | Ammunition (:weapon-prop-range: Range 100/400; Arrow), Heavy, Two-handed | [Brace] | M. | 850 SP |
+| *Heavy Repeating Crossbow* | 1d8 :dmg-prcg: Piercing | Ammunition (:weapon-prop-range: Range 90/360; Bolt), Automatic, Heavy, Reload (6), Two-handed | [Tap] | M. | 700 SP |
 
 ### Ammunitions
 

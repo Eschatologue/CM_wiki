@@ -38,7 +38,7 @@ When you are wielding a Melee Weapon in one hand and no other Weapons, you gain 
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-When you roll damage for an attack you make with a Melee Weapon that you are holding with two hands, you can treat any 1 or 2 on a damage die as a 3. The weapon must have the :weapon-prop-two-handed: **Two-Handed** or :weapon-prop-versatile: **Versatile** property to gain this benefit.
+When you roll damage for an attack you make with a Melee Weapon that you are holding with two hands, you can treat any 1 or 2 on a damage die as a 3. The weapon must have the **:weapon-prop-two-handed: Two-Handed** or **:weapon-prop-versatile: Versatile** property to gain this benefit.
 
 ---
 
