@@ -8,8 +8,8 @@
     Basic Typesets
 --------------------------------------------------------*/
 .md-typeset {
-  --default-font-size: 0.75rem;
-  --default-font-weight: 300;
+  --default-font-size: 0.8rem;
+  --default-font-weight: 400;
   font-optical-sizing: auto;
   font-size: var(--default-font-size);
 }
@@ -19,7 +19,7 @@
   }
 }
 .md-typeset strong {
-  letter-spacing: 0.0225rem;
+  letter-spacing: 0.024rem;
   color: var(--md-gbl-text-color-strong);
 }
 .md-typeset p {
@@ -65,12 +65,12 @@
 .md-typeset h1 {
   font-size: calc(var(--default-font-size) * 2.1);
   letter-spacing: calc(var(--default-font-size) * 0.02);
-  font-weight: calc(var(--default-font-weight) * 1.65);
+  font-weight: 500;
   margin: 0.45rem 0;
 }
 .md-typeset h2 {
   font-size: calc(var(--default-font-size) * 1.7);
-  font-weight: calc(var(--default-font-weight) * 1.5);
+  font-weight: 500;
   letter-spacing: calc(var(--default-font-size) * 0.075);
   border-bottom: 0.225rem ridge var(--md-primary-fg-color);
   margin: 0.9rem 0 0.2rem 0;
@@ -177,7 +177,7 @@
   font-family: "Jost", serif;
 }
 
-.lexend, .d20 {
+.lexend {
   font-family: "Lexend", serif;
 }
 
@@ -217,7 +217,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
     Specific Typography Variants
 -------------------------------------------------------*/
 .d20 {
-  font-weight: 500 !important;
+  font-weight: 600 !important;
 }
 
 .rsc {

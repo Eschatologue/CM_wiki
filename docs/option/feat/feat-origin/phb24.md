@@ -6,16 +6,18 @@ title: PHB'24 Origin Feats
 
 These Origin feats are included in the PHB'24
 
-### Alert
+---
+
+### Alert 
 
 *Origin Feat*
 
 Always on the lookout for danger, you gain the following benefits:
 
-**Initiative Proficiency**  
+**Initiative Proficiency**{ .inl }  
 When you roll Initiative, you can add your Proficiency Bonus to the roll.
 
-**Initiative Swap**  
+**Initiative Swap**{ .inl }  
 Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat. You can't make this swap if you or the ally is Incapacitated.
 
 ---
@@ -26,13 +28,13 @@ Immediately after you roll Initiative, you can swap your Initiative with the Ini
 
 You are adept at crafting things and bargaining with merchants, granting you the following benefits:
 
-**Tool Proficiency**  
+**Tool Proficiency**{ .inl }  
 You gain Tool Proficiency with three different Artisan's Tools of your choice from the Fast Crafting table.
     
-**Discount**  
+**Discount**{ .inl }  
 Whenever you buy a nonmagical item, you receive a 20 percent discount on it.
     
-**Faster Crafting**  
+**Faster Crafting**{ .inl }  
 When you finish a **:rest-long: Long Rest**, you can craft one piece of gear from the Fast Crafting table, provided you have the Artisan's Tools associated with that item and have proficiency with those tools. The item lasts until you finish another Long Rest, at which point the item falls apart.
 
 ##### Fast Crafting
@@ -55,10 +57,10 @@ When you finish a **:rest-long: Long Rest**, you can craft one piece of gear fro
 
 You gain the following benefits.
 
-**Battle Medic**  
+**Battle Medic**{ .inl }  
 If you have a Healer's Kit, you can expend one use of it and tend to a creature within 5 feet as a Utilise action. That creature can expend one of its Hit Point Dice, and you then roll that die. The creature regains a number of Hit Points equal to the roll plus your Proficiency Bonus.
 
-**Healing Rerolls**  
+**Healing Rerolls**{ .inl }  
 Whenever you roll a die to determine the number of Hit Points you restore with a spell or with this feat's Battle Medic benefit, you can reroll the die if it rolls a 1, and you must use the new roll.
 
 ---
@@ -69,13 +71,13 @@ Whenever you roll a die to determine the number of Hit Points you restore with a
 
 You have inexplicable luck that can kick in at just the right moment, granting you the following benefits:
 
-**Luck Points**  
+**Luck Points**{ .inl }  
 You have a number of Luck Points equal to your Proficiency Bonus. You can spend the points on the benefits below, and you regain your expended Luck Points when you finish a **:rest-long: Long Rest**.
     
-Advantage 
+**Advantage**{ .inl }  
 Immediately after you roll a d20, you can spend 1 Luck Point to give yourself **:d20-adv: Advantage**{ .d20 } on the roll.
     
-**Disadvantage**  
+**Disadvantage**{ .inl }  
 When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to impose **:d20-disadv: Disadvantage**{ .d20 } on that roll.
 
 ---
@@ -86,16 +88,16 @@ When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck
 
 You gain the following benefits.
 
-**Two Cantrips**  
+**Two Cantrips**{ .inl }  
 You learn two cantrips of your choice from the Cleric, Druid, or Wizard spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat's spells (choose when you select this feat)
 
-**Level 1 Spell**  
+**Level 1 Spell**{ .inl }  
 Choose a level 1 spell from the same list you selected for this feat's cantrips. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a **:rest-long: Long Rest**. You can also cast the spell using any spell slots you have.
 
-**Spell Change**  
+**Spell Change**{ .inl }  
 Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list.
 
-**Repeatable**  
+**Repeatable**{ .inl }  
 You can take this feat more than once, but you must choose a different spell list each time.
 
 ---
@@ -106,10 +108,10 @@ You can take this feat more than once, but you must choose a different spell lis
 
 You gain the following benefits.
 
-**Instrument Training**  
+**Instrument Training**{ .inl }  
 You gain Tool Proficiency with three Musical Instruments of your choice.
 
-**Encouraging Song**  
+**Encouraging Song**{ .inl }  
 As you finish a **:rest-short: Short Rest** or a **:rest-long: Long Rest**, you can play a song on a Musical Instrument with which you have Tool Proficiency and give Heroic Inspiration to allies who hear the song. The number of allies you can affect in this way equals your Proficiency Bonus.
 
 ---
@@ -128,7 +130,7 @@ You've trained to deal particularly damaging strikes. Once per turn when you hit
 
 You gain proficiency in any combination of three skills or tools of your choice.
 
-**Repeatable**  You can take this feat more than once.
+**Repeatable**{ .inl }  You can take this feat more than once.
 
 ---
 
@@ -138,16 +140,16 @@ You gain proficiency in any combination of three skills or tools of your choice.
 
 Accustomed to brawling, you gain the following benefits:
 
-**Enhanced Unarmed Strike**  
+**Enhanced Unarmed Strike**{ .inl }  
 When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning Damage equal to 1d4 + your Strength modifier, instead of the normal damage of an Unarmed Strike.
     
-**Damage Rerolls**  
+**Damage Rerolls**{ .inl }  
 Whenever you roll a damage die for your Unarmed Strike, you can reroll the die if it rolls a 1, and you must use the new roll.
 
-**Improvised Weapon**  
+**Improvised Weapon**{ .inl }  
 You have proficiency with Improvised weapons.
 
-**Push**  
+**Push**{ .inl }  
 When you hit a creature with an Unarmed Strike as part of the Attack action on your turn, you can deal damage to the target and push it 5 feet away from you. You can use this benefit only once per turn.
 
 ---
@@ -158,6 +160,6 @@ When you hit a creature with an Unarmed Strike as part of the Attack action on y
 
 You are more resilient than others.
 
-**Hard to Kill**  
+**Hard to Kill**{ .inl }  
 Your Hit Point Maximum increases by an amount equal to twice your character level when you gain this Feat. Whenever you gain a level thereafter, your Hit Point Maximum increases by an additional 2 Hit Points.
 

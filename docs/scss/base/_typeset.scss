@@ -7,12 +7,12 @@
 
 // General Typeset Variables
 $headingFont: "Jost", sans-serif; // Font for headings
-$defaultFontSize: convert.px2rem(15px); // Base font size
+$defaultFontSize: convert.px2rem(16px); // Base font size
 
 // Main Typeset Styles
 .md-typeset {
-    --default-font-size: #{convert.px2rem(15px)};
-    --default-font-weight: 300;
+    --default-font-size: #{convert.px2rem(16px)};
+    --default-font-weight: 400;
 
     font-optical-sizing: auto;
 
@@ -90,14 +90,14 @@ $defaultFontSize: convert.px2rem(15px); // Base font size
     h1 {
         font-size: calc(var(--default-font-size) * 2.1);
         letter-spacing: calc(var(--default-font-size) * 0.02);
-        font-weight: #{calc(var(--default-font-weight) * 1.65)}; // Ensure var(--default-font-weight) is numeric
+        font-weight: 500; // Ensure var(--default-font-weight) is numeric
         margin: #{convert.px2rem(9px)} 0;
     }
 
     // H2 Specific Styles
     h2 {
         font-size: calc(var(--default-font-size) * 1.7);
-        font-weight: #{calc(var(--default-font-weight) * 1.5)};
+        font-weight: 500;
         letter-spacing: calc(var(--default-font-size) * 0.075);
         border-bottom: #{convert.px2rem(4.5px)} ridge var(--md-primary-fg-color);
         margin: #{convert.px2rem(18px)} 0 #{convert.px2rem(4px)} 0;

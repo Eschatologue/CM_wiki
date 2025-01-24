@@ -60,8 +60,8 @@
 -------------------------------------------------------*/
 .d20 {
     @extend .em;
-    @extend .lexend;
-    font-weight: 500 !important;
+//    @extend .lexend;
+    font-weight: 600 !important;
 }
 
 .rsc {
@@ -138,7 +138,6 @@ $indent: 18px;
     @extend .em;
 
     display: inline-block;
- //   font-style: italic;
     position: relative;
 
     @extend .chevron-left;
