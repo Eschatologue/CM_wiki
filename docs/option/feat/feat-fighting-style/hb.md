@@ -74,7 +74,9 @@ You specialise one weapon rather than many. Choose one Weapon that you are Profi
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-You gain a +1 bonus to damage rolls with Quarterstaffs, Spears, War Scythes, and weapons that has the **:weapon-prop-heavy: Heavy** and **:weapon-prop-reach: Reach** properties. While wielding one of these weapons, creatures provoke an Opportunity Attack from you when they *enter* or *move* within your reach with that weapon. Creature has that taken the **:rsc-a: Disengage**{ .rsc } action will not provoke this attack.
+You gain a +1 bonus to damage rolls with Quarterstaffs, Spears, War Scythes, and weapons that has the **:weapon-prop-heavy: Heavy** and **:weapon-prop-reach: Reach** properties. While wielding one of these weapons, creatures provoke an Opportunity Attack from you when they *enter* or *move* within your reach with that weapon. 
+
+Creature that takes the **:rsc-a: Disengage**{ .rsc } action will not provoke this attack.
 
 Moreover, Spears gain the **:weapon-prop-reach: Reach** property when wielded with two hands.
 
