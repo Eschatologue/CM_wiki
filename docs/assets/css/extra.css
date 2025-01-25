@@ -220,10 +220,6 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   font-weight: 600 !important;
 }
 
-.rsc {
-  font-family: "Roboto", serif;
-}
-
 .quote {
   color: var(--md-default-fg-color--light);
   font-size: calc(var(--default-font-size) * 0.85);
