@@ -449,10 +449,10 @@ You gain the following benefits.
 Increase your Dexterity or Strength score by 1, to a maximum of 20.
 
 **Pole Strike**  
-Immediately after you take the Attack action and attack with a Quarterstaff, a Spear, a War Scythe, or a weapon that has the :weapon-prop-heavy: Heavy and :weapon-prop-reach: Reach properties, you can use a **:rsc-b: Bonus Action**{ .rsc } to make a melee attack with the opposite end of the weapon. The weapon deals Bludgeoning damage, and the weapon's damage die for this attack is a d4.
+Immediately after you take the Attack action and attack with a Quarterstaff, a Spear, a War Scythe, or a weapon that has the **:weapon-prop-heavy: Heavy** and **:weapon-prop-reach: Reach** properties, you can use a **:rsc-b: Bonus Action**{ .rsc } to make a melee attack with the opposite end of the weapon. The weapon deals **:dmg-bldg: Bludgeoning**{ .dmg-phys } damage, and the weapon's damage die for this attack is a d4.
 
 **Reactive Strike**  
-While you are holding a Quarterstaff, a Spear, a War Scythe, or a weapon that has the :weapon-prop-heavy: Heavy and :weapon-prop-reach: Reach properties, you can use a **:rsc-r: Reaction**{ .rsc } to make one melee attack against a creature that enters the reach you have with that weapon.
+While you are holding a Quarterstaff, a Spear, a War Scythe, or a weapon that has the **:weapon-prop-heavy: Heavy** and **:weapon-prop-reach: Reach** properties, you can use a **:rsc-r: Reaction**{ .rsc } to make one melee attack against a creature that enters the reach you have with that weapon.
 
 ---
 

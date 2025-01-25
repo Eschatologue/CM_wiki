@@ -16,7 +16,7 @@ You only gain these benefits so long you are not wearing Heavy Armour or wieldin
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*  
 
-When you make an attack with a Cold Weapon that has **:weapon-prop-heavy: Heavy** and **:weapon-prop-two-handed: Two-handed** property as part of your Attack action and the total damage roll from your weapon is 5 or lower, you treat it as 6
+When you make an attack with a Cold Weapon that has **:weapon-prop-heavy: Heavy** property as part of your Attack action and the total damage roll from your weapon is 5 or lower, you treat it as 6
 
 ---
 
@@ -31,6 +31,8 @@ You have studied combat techniques that allow you to perform Combat Manoeuvre.
 **Three Superiority Die**{ .inl } You gain three :die-d4: d4 Superiority Die. This die is used to fuel your manoeuvres. A Superiority Die is expended when you use it. You regain your expended Superiority Dice when you finish a **:rest-short: Short Rest** or **:rest-long: Long Rest**.
 
 If you already have a pool of Superiority Dice, these dice are added to that pool. Their size matches the largest die in your pool, increasing to match if you have a feature that improves your Superiority Dice.
+
+<!--
 
 ---
 
@@ -64,6 +66,18 @@ You specialise one weapon rather than many. Choose one Weapon that you are Profi
 
 </div>
 
+-->
+
+---
+
+### Polearm Fighting
+
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
+
+You gain a +1 bonus to damage rolls with Quarterstaffs, Spears, War Scythes, and weapons that has the **:weapon-prop-heavy: Heavy** and **:weapon-prop-reach: Reach** properties. While wielding one of these weapons, creatures provoke an Opportunity Attack from you when they *enter* or *move* within your reach with that weapon. Creature has that taken the **:rsc-a: Disengage**{ .rsc } action will not provoke this attack.
+
+Moreover, Spears gain the **:weapon-prop-reach: Reach** property when wielded with two hands.
+
 ---
 
 ### Sniper
@@ -80,7 +94,7 @@ Moreover, having the Prone condition doesn't impose **:d20-disadv: Disadvantage*
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-When a creature within 10 feet of you makes an attack against a creature that you can see, you can take a **:rsc-r: Reaction**{ .rsc } to grant it **:d20-adv: Advantage**{ .d20 } on its attack roll. You must be carrying a banner, flag, or standard in your hand. A holy symbol emblazoned on a Shield also suffice.
+When a creature within 10 feet of you makes an attack against a creature that you can see, you can take a **:rsc-r: Reaction**{ .rsc } to grant it **:d20-adv: Advantage**{ .d20 } on its attack roll. You must be carrying a banner, flag, holy symbol, or standard in your hand.
 
 ---
 

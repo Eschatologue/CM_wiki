@@ -35,7 +35,6 @@ You can't take the same Fighting Style feat option more than once, even if you g
 - :option-feat-fighting: [Gallian Swordplay](hb.md#gallian-swordplay)
 - :option-feat-fighting: [Heavy Weapon Fighting](hb.md#heavy-weapon-fighting)
 - :option-feat-fighting: [Martial Adept](hb.md#martial-adept)
-- :option-feat-fighting: [Signature Weapon](hb.md#signature-weapon)
 - :option-feat-fighting: [Sniper](hb.md#sniper)
 - :option-feat-fighting: [Standard Bearer](hb.md#standard-bearer)
 - :option-feat-fighting: [Strongbow](hb.md#strongbow)
