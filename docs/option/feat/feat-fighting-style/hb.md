@@ -1,6 +1,10 @@
-# Crown & Misery Fighting Style
+---
+title: "Homebrew Fighting Style"
+---
 
-These Fighting Style Feature are homebrew.
+# Crown & Misery Fighting Styles
+
+These Fighting Style Feature are homebrew.ss
 
 ### Gallian Swordplay
 

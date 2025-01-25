@@ -4,7 +4,7 @@ icon: rsc/a
 
 # Actions
 
-When you do something other than moving or communicating, you typically take an action. They are acts taken by creatures on their turns. Actions are generally taken in order to deal damage, cast spells, make ability checks or inflict harmful conditions, but they can also be taken to heal or aid allies. The Action table lists the game’s main actions.
+When you do something other than moving or communicating, you typically take an action. They are acts taken by creatures on their turns. Actions are generally taken in order to deal damage, cast spells, make ability checks or inflict harmful conditions, but they can also be taken to heal or aid allies. The Action table lists the game’s main actions.test
 
 ##### Actions
 

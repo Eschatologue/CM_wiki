@@ -1,5 +1,5 @@
 ---
-title: Homebrew Origin Feats
+title: "Homebrew Origin Feats"
 status: homebrew
 ---
 
@@ -13,10 +13,10 @@ These Origin feats are made for Crown & Misery campaign.
 
 You have spent many days tinkering with various inventions, tool sets, and arcane forces. You gain the following benefits:
 
-**Tool Proficiency**  
+**Tool Proficiency**{ .inl }  
 You gain proficiency with Tinker's Tools. If you are already proficient, then whenever you make an ability check with Tinker's Tools you treat a d20 roll of 9 or lower as a 10.
 
-**Infusions**  
+**Infusions**{ .inl }  
 You learn one Infusion of your choice from those available to the Artificer class. At the end of each long rest, you can infuse this Infusion into one object. You can only learn an Infusion if you reach a level in a class that has this feat.
 
 ---
@@ -27,13 +27,13 @@ You learn one Infusion of your choice from those available to the Artificer clas
 
 You pride yourself on your quickness and your close study of certain clandestine activities. You gain the following benefits:
 
-**Lockpicker**  
+**Lockpicker**{ .inl }  
 You gain Proficiency with Thieves' Tools.
     
-**Plan B**  
+**Plan B**{ .inl }  
 As part of a **:rest-short: Short Rest**, you can use scavenged or acquired materials to build a temporary set of Thieves' Tools for when you lack access to a permanent one. This temporary set ceases to function after 1 hour.
     
-**Slightly Cunning Action**  
+**Slightly Cunning Action**{ .inl }  
 Choose one of the following actions: *Dash*, *Disengage*, *Hide* or *Utilise*. You can use the chosen action as a **:rsc-b: Bonus Action**{ .rsc }.
 
 ---
@@ -44,10 +44,10 @@ Choose one of the following actions: *Dash*, *Disengage*, *Hide* or *Utilise*. Y
 
 Albion's reach extends far, and with it, their influence upon you. You gain the benefits below:
 
-**Firearm Proficiency**  
+**Firearm Proficiency**{ .inl }  
 You gain proficiency with Short-Arms. If you are proficient with :prof-wp-martial: Martial weapons, you gain proficiency with all Firearms.
 
-**Bullet Crafting**  
+**Bullet Crafting**{ .inl }  
 You gain Proficiency with Gunsmith's Tools. When you finish a **:rest-short: Short Rest**, you can craft a total number of Pistol, Rifle, or Shotgun cartridges equal to four times your proficiency bonus in any combination following the Bullet Crafting table.
 
 ##### Bullet Crafting
@@ -66,10 +66,10 @@ You gain Proficiency with Gunsmith's Tools. When you finish a **:rest-short: Sho
 
 You have studied occult lore and perhaps, forbidden knowledge.
 
-**Occultist**  
+**Occultist**{ .inl }  
 You learn one Eldritch Invocation option of your choice from the Warlock class. If the invocation has a prerequisite of any kind, you can choose that invocation only if you're a Warlock who meets the prerequisite. Whenever you gain a level, you can replace the invocation with another one from the Warlock class.
 
-**Repeatable**  
+**Repeatable**{ .inl }  
 You can take this Origin feat multiple times, all other [rules](../../../class/warlock/index.md#level-1-eldritch-invocations) of choosing an Invocations still applies.
 
 ---
@@ -80,10 +80,10 @@ You can take this Origin feat multiple times, all other [rules](../../../class/w
 
 You learn how to fight in your early days.
 
-**Martial Training**  
+**Martial Training**{ .inl }  
 You gain one Fighting Style Feat of your choice from the [Fighting Style Feats](../feat-fighting-style/index.md), the one you choose must be different from one that you already have. Whenever you reach a level that grants the Ability Score Improvement feature, you can replace this feat's fighting style with another one which you don't have.
 
-**Repeatable**  
+**Repeatable**{ .inl }  
 Choose a different Fighting Style Feat each time.
 
 ---
@@ -94,10 +94,10 @@ Choose a different Fighting Style Feat each time.
 
 Your study of history rewards you with the following benefits:
 
-**History Buff**  
+**History Buff**{ .inl }  
 You gain Proficiency in the History skill. If you are already proficient in the skill, you gain Expertise instead.
     
-**An Example for Every Situation**  
+**An Example for Every Situation**{ .inl }  
 When you take the Help action to aid another creature's ability check, you can make a DC 15 Intelligence (History) check. On a success, that creature's check gains a bonus equal to your Proficiency Bonus, as you share pertinent advice and historical examples. To receive this bonus, the creature must be able to understand what you're saying.
 
 ---
@@ -128,13 +128,13 @@ You gain the benefits from the table below that correspond to your Intelligence 
 
 You have studied languages and codes, gaining the following benefits:
 
-**Polygot**  
+**Polygot**{ .inl }  
 You learn a number of additional languages of your choice equal to your Intelligence modifier. Whenever your base Intelligence modifier increases thereafter, you may learn a new language.
     
-**Linguistic Insight**  
+**Linguistic Insight**{ .inl }  
 You have **:d20-adv: Advantage**{ .d20 } on skill checks made to discern information from a language or text you don't understand.
 
-**Lip Reader**  
+**Lip Reader**{ .inl }  
 If you can see a creature's mouth while it is speaking a language you understand, you can interpret what it's saying by reading its lips.
 
 ---
@@ -145,7 +145,7 @@ If you can see a creature's mouth while it is speaking a language you understand
 
 You have knack for studying and exploiting mannerisms and thought patterns:
 
-**Gaslight**  
+**Gaslight**{ .inl }  
 You can add half your Intelligence modifier, rounded up, to Wisdom (Insight) and Charisma (Deception, Intimidation & Persuasion) checks when interacting with creatures that is able to understand you.
 
 ---
@@ -156,10 +156,10 @@ You can add half your Intelligence modifier, rounded up, to Wisdom (Insight) and
 
 While you may not be a true Sorcerer, within you dwells a small spark of arcane power. You gain the benefits below:
 
-**Sorcerers Spells**  
+**Sorcerers Spells**{ .inl }  
 You learn one Cantrip and two level 1 spells of your choice from the Sorcerer spell list, and you use Charisma as your spellcasting ability for all three Sorcerer spells.
 
-**Sorcery Points**  
+**Sorcery Points**{ .inl }  
 You gain 2 :class-phb24-sorcerer: **Sorcery Point(s)**, which you can convert to a level 1 spell slot as a **:rsc-b: Bonus Action**{ .rsc }. Should you already have Sorcery Points, these are added to your existing pool. You regain all your Sorcery Points from this feat when you finish a **:rest-long: Long Rest**.
 
 ---
@@ -170,10 +170,10 @@ You gain 2 :class-phb24-sorcerer: **Sorcery Point(s)**, which you can convert to
 
 Though you might not be a Ranger, your past experiences with them teaches you important lessons.
 
-**Ranger's Knacks**  
+**Ranger's Knacks**{ .inl }  
 You learn one Ranger's Aptitude option of your choice from the Ranger class. If the aptitude has a prerequisite of any kind, you can choose that aptitude only if you're a Ranger who meets the prerequisite. Whenever you gain a level, you can replace the invocation with another one from the Ranger class.
 
-**Repeatable**  
+**Repeatable**{ .inl }  
 You can take this Origin feat multiple times, all other [rules](../../../class/ranger/index.md#level-1-rangers-aptitude) of choosing an Aptitude still applies.
 
 ---

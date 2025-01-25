@@ -1,3 +1,7 @@
+---
+title: "PHB'24 Fighting Style"
+---
+
 # PHB'24 Fighting Style
 
 These feat are included within PHB'24.

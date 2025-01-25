@@ -4,11 +4,11 @@ icon: die/d20
 
 # D20 Tests
 
-When the outcome of an action is uncertain, the game uses a d20 roll to determine success or failure. These rolls are called **D20 Tests**, and they come in three kinds: 
+When the outcome of an action is uncertain, the game uses a d20 roll to determine success or failure. These rolls are called **D20 Tests**, and they come in three kinds:
 
-- :d20-attack: **Attack Rolls** --> rolled against the target's Armour Class (AC)
-- :d20-check: **Ability Check** --> rolled against the check's Difficulty Class (DC)
-- :d20-save: **Saving Throws** --> rolled against a Save DC. 
+- :d20-attack: **Attack Rolls:** Rolled against the target's Armour Class (AC)
+- :d20-check: **Ability Check:** Rrolled against the check's Difficulty Class (DC)
+- :d20-save: **Saving Throws:** Rolled against a Save DC. 
 
 They follow these steps:
 

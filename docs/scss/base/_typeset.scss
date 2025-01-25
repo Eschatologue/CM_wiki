@@ -19,12 +19,12 @@ $defaultFontSize: convert.px2rem(16px); // Base font size
     font-size: var(--default-font-size);
 
     @media screen and (max-width: 720px) {
-        --default-font-size: #{convert.px2rem(13px)};
+        --default-font-size: #{convert.px2rem(14px)};
     }
 
     // Strong text styles
     strong {
-        letter-spacing: $defaultFontSize * 0.03;
+        letter-spacing: calc(var(--default-font-size) * 0.05);
         color: var(--md-gbl-text-color-strong);
     }
 
@@ -72,16 +72,16 @@ $defaultFontSize: convert.px2rem(16px); // Base font size
 
     // Heading Styles
     h1,
-    h2 {
+    h2,
+    h3,
+    h4 {
         font-family: $headingFont;
         text-transform: uppercase;
-
     }
 
     h3,
     h4 {
         color: var(--md-gbl-text-color-strong);
-        font-family: $headingFont;
         text-transform: none !important;
         font-variant: small-caps !important;
     }

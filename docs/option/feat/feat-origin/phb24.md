@@ -1,5 +1,5 @@
 ---
-title: PHB'24 Origin Feats
+title: "PHB'24 Origin Feats"
 ---
 
 # PHB'24 Origin Feats
