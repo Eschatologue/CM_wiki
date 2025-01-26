@@ -69,7 +69,7 @@
 .quote {
     color: var(--md-default-fg-color--light);
     font-size: calc(var(--default-font-size) * 0.85);
-    font-weight: 350;
+    font-weight: 300;
 }
 
 .icon-head {
@@ -177,7 +177,7 @@ $damage-types: (
     radi: #FFEE58,
     force: #ff7369,
     phys: #c6c6c6,
-    heal: #69eeee
+    heal: #65cdcd
 );
 
 @each $type, $color in $damage-types {

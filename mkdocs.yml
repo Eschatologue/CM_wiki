@@ -33,7 +33,7 @@ theme:
     accent: indigo
   font:
     code: Roboto Code
-    text: PT Sans
+    text: Source Sans 3
   favicon: assets/icon.jpg
   static_templates:
     - 404.html
