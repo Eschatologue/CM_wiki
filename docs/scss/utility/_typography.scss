@@ -23,7 +23,7 @@
 -------------------------------------------------------*/
 .em {
     white-space: nowrap; /* Prevents block splitting on smaller screens, used with icons */
-    font-weight: 550 !important;
+    font-weight: 600 !important;
 
     // Disable dotted line for abbreviations
     abbr {
@@ -60,8 +60,6 @@
 -------------------------------------------------------*/
 .d20 {
     @extend .em;
-//    @extend .lexend;
-    font-weight: 600 !important;
 }
 
 .rsc {
@@ -171,14 +169,14 @@ $damage-types: (
     acid: #38da4f,
     cold: #4fc3f7,
     fire: #e1822e,
-    posn: #4eaa2d,
+    posn: #66a44f,
     thun: #9b7fcc,
     psyc: #dd73ac,
-    lgtn: #1E88E5,
+    lgtn: #3393e8,
     necr: #00BFA5,
     radi: #FFEE58,
     force: #ff7369,
-    phys: #b0bec5,
+    phys: #c6c6c6,
     heal: #69eeee
 );
 

@@ -40,8 +40,8 @@
     }
 }
 
-// .md-typeset {
-//     :is(.emojione, .twemoji, .gemoji) {
-//         vertical-align: convert.px2em(-3px);
-//     }
-// }
+.md-typeset {
+    :is(.emojione, .twemoji, .gemoji) {
+        vertical-align: convert.px2em(-3px);
+    }
+}

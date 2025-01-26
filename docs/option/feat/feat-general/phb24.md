@@ -219,7 +219,7 @@ Increase your Strength or Dexterity score by 1, to a maximum of 20.
 When you hit a creature with an Unarmed Strike as part of the Attack action on your turn, you can use both the Damage and the Grapple option. You can use this benefit only once per turn.
 
 **Attack Advantage **{ .inl }  
-You have Advantage on attack rolls against a creature Grappled by you.
+You have **:d20-adv: Advantage**{ .d20 } on attack rolls against a creature Grappled by you.
 
 **Fast Wrestler**{ .inl }  
 Your **:rsc-spd: Speed**{ .em } isn't halved when you move a creature Grappled by you if the creature is your size or smaller.
