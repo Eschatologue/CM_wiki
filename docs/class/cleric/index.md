@@ -21,7 +21,7 @@ Because their power is a divine gift, Clerics typically associate themselves wit
 
 Not every member of a temple or shrine is a Cleric. Some priests are called to a simple life of temple service, carrying out their devotion through prayer and rituals, not through magic. Many mortals claim to speak for the gods, but few can marshal the power of those gods the way a Cleric can.
 
-??? info "Core Cleric Traits"
+!!! info "Core Cleric Traits"
 
     **Primary Ability:** :ability-wis: Wisdom  
 
@@ -159,11 +159,9 @@ You gain a Cleric subclass of your choice. A subclass is a specialization that g
 
 You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Cleric levels 8, 12, and 16.
 
-### Level 5: Smite Undead
+### Level 5: Sear Undead
 
-You can cause your Turn Undead feature to smite the undying; whenever you use Turn Undead, you can roll a number of d8s equal to your Wisdom modifier (minimum of 1d8) and add the rolls together. Each Undead that fails its saving throw against that use of Turn Undead takes Radiant damage equal to the roll's total.
-
-This damage doesn't end the turn effect.
+Whenever you use Turn Undead, you can roll a number of d8s equal to your Wisdom modifier (minimum of 1d8) and add the rolls together. Each Undead that fails its saving throw against that use of Turn Undead takes Radiant damage equal to the roll's total. This damage doesn't end the turn effect.
 
 ### Level 7: Blesssed Strike
 

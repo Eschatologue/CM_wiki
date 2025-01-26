@@ -19,7 +19,7 @@ Sorcerers don't learn magic; the raw, roiling chaos of magic is part of them. Th
 
 Sorcerers are rare. Some family lines produce exactly one Sorcerer in every generation, but most of the time, the talents of sorcery appear as a fluke. People who have this magical power soon discover that the power doesn't like to stay quiet. A Sorcerer's magic wants to be wielded, and it tends to spill out in unpredictable ways if it isn't.
 
-??? info "Core Sorcerer Trait"
+!!! info "Core Sorcerer Trait"
 
     **Primary Ability:** :ability-cha: Charisma  
 

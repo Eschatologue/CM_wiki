@@ -21,7 +21,7 @@ When it comes to combat, Rogues prioritize subtle strikes over brute strength. A
 
 Some Rogues began their careers as criminals, while others used their cunning to fight crime. Whatever a Rogue's relation to the law, no common criminal or officer of the law can match the subtle brilliance of the greatest Rogues.
 
-??? info "Core Rogue Traits"
+!!! info "Core Rogue Traits"
 
     **Primary Ability:** :ability-dex: Dexterity  
 

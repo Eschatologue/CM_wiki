@@ -32,7 +32,7 @@ theme:
     primary: indigo
     accent: indigo
   font:
-    code: Roboto Code
+    code: Source Code Pro
     text: Source Sans 3
   favicon: assets/icon.jpg
   static_templates:
