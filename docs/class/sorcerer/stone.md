@@ -40,7 +40,7 @@ When you reach a Sorcerer level specified in the Metal Magic Spells table, you t
 
 ### Level 6: Extra Attack
 
-You can attack twice, instead of once, whenever you take the Attack action on your turn.
+You can attack twice, instead of once, whenever you take the **:rsc-a: Attack**{ .rsc } action on your turn.
 
 In addition, you can cast one of your Sorcerer cantrip that has the casting time of an action in place of those attack.
 
@@ -50,7 +50,7 @@ In addition, you can cast one of your Sorcerer cantrip that has the casting time
 
 As a **:rsc-b: Bonus Action**{ .rsc }, you can touch a willing creature (including yourself) and and expend Sorcery Points to grant it 1d6 Temporary Hit Points per Sorcery Point.
 
-When a creature with these Temporary Hit Points within 60 feet of you that you can see is hit by a melee attack, you can use your **:rsc-r: Reaction**{ .rsc } to teleport within 5 feet of the attacker and make a Melee attack or Unarmed Strike against it.
+When a creature with these Temporary Hit Points within 60 feet of you that you can see is hit by a melee attack, you can use your **:rsc-r: Reaction**{ .rsc } to teleport within 5 feet of the attacker and make a Melee attack or **:rsc-a: Unarmed Strike**{ .rsc } against it.
 
 ### Level 14: Mountain's Heart
 

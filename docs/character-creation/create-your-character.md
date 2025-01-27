@@ -338,7 +338,7 @@ Your class and Constitution modifier determine your Hit Point maximum at level 1
 Your class's description tells you the die type of your character's Hit Point Dice (or Hit Dice for short); write this on your character sheet. At level 1, your character has 1 Hit Die. You can spend Hit Dice during a **:rest-short: Short Rest** to recover Hit Points. Your character sheet also includes space to note how many Hit Dice you've spent.
 
 ***Initiative***{ .inl } 
-Write your Dexterity modifier in the space for Initiative on your character sheet.
+Write your Dexterity modifier in the space for **:d20-inv: Initiative**{.d20 } on your character sheet.
 
 ***Armour Class***{ .inl } 
 Without armour or a shield, your base Armour Class is ^^10 plus your Dexterity modifier^^. If your starting equipment includes armour or a Shield (or both), calculate your AC using the rules in [chapter 6](../equipment/armour.md). A class feature might give you a different way to calculate your AC.

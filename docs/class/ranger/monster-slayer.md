@@ -51,7 +51,7 @@ Whenever the target of your [:spell-lv1: Hunter's Mark] forces you to make a, ab
 
 Your [:spell-lv1: Hunter's Mark] spell improves in the following ways:
 
-**Bypass**{ .inl } Your attacks Weapon attack and Unarmed Strike against the spell's target ignores the target's **:dmg-res: Resistance**{ .em }, and :dmg-imm: Immunity is treated as **:dmg-res: Resistance**{ .em }.
+**Bypass**{ .inl } Your attacks Weapon attack and **:rsc-a: Unarmed Strike**{ .rsc } against the spell's target ignores the target's **:dmg-res: Resistance**{ .em }, and :dmg-imm: Immunity is treated as **:dmg-res: Resistance**{ .em }.
 
 **Slayer's Strike Improvement**{ .inl } The extra damage of your Slayer's Strike increases to 2d6.
 

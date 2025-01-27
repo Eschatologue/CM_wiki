@@ -10,7 +10,7 @@ Adventurers encounter many dangerous monsters and nefarious villains. In those m
 
 A typical combat encounter is a clash betweer two sides, a flurry of weapon swings, feints, parries, footwork, and spellcasting. The game organizes combat into a cycle of rounds and turns. A **Round** reoresents about 6 seconds in the game world.
 
-During a round, each participant in a battle takes a turn, The order of turns is determined at the beginning of combat when everyone rolls Initiative. Once everyone has taken a turn, the fight continues to the next round if neither side is defeated.
+During a round, each participant in a battle takes a turn, The order of turns is determined at the beginning of combat when everyone rolls **:d20-inv: Initiative**{.d20 }. Once everyone has taken a turn, the fight continues to the next round if neither side is defeated.
 
 ### Combat Step by Step
 
@@ -22,27 +22,27 @@ Combat unfolds in these steps:
 
 2. **Roll Initiative** 
 
-    Everyone involved in the combat encounter rolls Initiative determining the order of combatants' turns.
+    Everyone involved in the combat encounter rolls **:d20-inv: Initiative**{.d20 } determining the order of combatants' turns.
 
 3. **Take Turns** 
 
-    Each participant in the battle takes a turn in Initiative order. When everyone involved in the combat has had a turn, the round ends. Repeat this step until fighting stops.
+    Each participant in the battle takes a turn in **:d20-inv: Initiative**{.d20 } order. When everyone involved in the combat has had a turn, the round ends. Repeat this step until fighting stops.
 
 ### Initiative
 
 > *"Roll for Initiative!"*
 
-Initiative determines the order in which characters and creatures act during combat in Dungeons & Dragons. Intitiative is made with a :d20-check: Dexterity Ability Check. The DM rolls for monsters. For a group of indentical creatures, the DM makes a singe roll, so each member of the group has the same Initiative.
+Initiative determines the order in which characters and creatures act during combat in Dungeons & Dragons. Intitiative is made with a :d20-check: Dexterity Ability Check. The DM rolls for monsters. For a group of indentical creatures, the DM makes a singe roll, so each member of the group has the same **:d20-inv: Initiative**{.d20 }.
 
 #### Surprise
 
-If a combatant is suprised by combat starting, that combatant has **:d20-disadv: Disadvantage**{ .d20 } on their Initiative roll, this is relevant during ambushes.
+If a combatant is suprised by combat starting, that combatant has **:d20-dis: Disadvantage**{ .d20 } on their **:d20-inv: Initiative**{.d20 } roll, this is relevant during ambushes.
 
-#### Initiative Order
+#### **:d20-inv: Initiative**{.d20 } Order
 
-**Turn Order**{ .inl } The DM organizes all participants from highest to lowest initiative roll. This order dictates who acts first, second, and so on, throughout each round of combat.
+**Turn Order**{ .inl } The DM organizes all participants from highest to lowest Initiative roll. This order dictates who acts first, second, and so on, throughout each round of combat.
 
-**Tie-Breakers**{ .inl } If two or more participants have the same initiative roll, the participant with the higher Dexterity score goes first.
+**Tie-Breakers**{ .inl } If two or more participants have the same Initiative roll, the participant with the higher Dexterity score goes first.
 
 ### Your Turn
 
@@ -144,10 +144,10 @@ You can't willingly end a move in a space occupied by another creature. If you s
 
 ## Making an Attack
 
-When you take the Attack action, you make an attack. Some other actions, Bonus Actions, and Reactions also let you make an attack. Whether you strike with a Melee weapon, fire a Ranged weapon, or make an attack roll as part of a spell, an attack has the following structure:
+When you take the **:rsc-a: Attack**{ .rsc } action, you make an attack. Some other actions, Bonus Actions, and Reactions also let you make an attack. Whether you strike with a Melee weapon, fire a Ranged weapon, or make an attack roll as part of a spell, an attack has the following structure:
 
 1. **Choose a Target.** Pick a target within your attack's range: a creature, an object, or a location.
-2. **Determine Modifiers.** The DM determines whether the target has Cover (see the next section) and whether you have **:d20-adv: Advantage**{ .d20 } or **:d20-disadv: Disadvantage**{ .d20 } against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll.
+2. **Determine Modifiers.** The DM determines whether the target has Cover (see the next section) and whether you have **:d20-adv: Advantage**{ .d20 } or **:d20-dis: Disadvantage**{ .d20 } against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll.
 3. **Resolve the Attack.** Make the attack roll, as detailed earlier in this chapter. On a hit, you roll damage unless the particular attack has rules that specify otherwise. Some attacks cause special effects in addition to or instead of damage.
 
 ## Cover
@@ -166,7 +166,7 @@ A target can benefit from cover only when an attack or other effect originates o
 
 !!! tip "Unseen Attackers and Targets"
 
-    When you make an attack roll against a target you can't see, you have **:d20-disadv: Disadvantage**{ .d20 } on the roll. This is true whether you're guessing the target's location or targeting a creature you can hear but not see. If the target isn't in the location you targeted, you miss.
+    When you make an attack roll against a target you can't see, you have **:d20-dis: Disadvantage**{ .d20 } on the roll. This is true whether you're guessing the target's location or targeting a creature you can hear but not see. If the target isn't in the location you targeted, you miss.
 
     When a creature can't see you, you have **:d20-adv: Advantage**{ .d20 } on attack rolls against it.
 
@@ -180,15 +180,15 @@ When you make a ranged attack, you fire a bow, hurl an axe, or otherwise send pr
 
 You can make ranged attacks only against targets within a specified range. If a ranged attack, such as one made with a spell, has a single range, you can't attack a target beyond this range.
 
-Some ranged attacks, such as those made with a Longbow, have two ranges. The smaller number is the normal range, and the larger number is the long range. Your attack roll has **:d20-disadv: Disadvantage**{ .d20 } when your target is beyond normal range, and you can't attack a target beyond long range.
+Some ranged attacks, such as those made with a Longbow, have two ranges. The smaller number is the normal range, and the larger number is the long range. Your attack roll has **:d20-dis: Disadvantage**{ .d20 } when your target is beyond normal range, and you can't attack a target beyond long range.
 
 ### Ranged Attacks in Close Combat
 
-Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack roll with a weapon, a spell, or some other means, you have **:d20-disadv: Disadvantage**{ .d20 } on the roll if you are within 5 feet of an enemy who can see you and doesn't have the Incapacitated condition (see the rules glossary).
+Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack roll with a weapon, a spell, or some other means, you have **:d20-dis: Disadvantage**{ .d20 } on the roll if you are within 5 feet of an enemy who can see you and doesn't have the Incapacitated condition (see the rules glossary).
 
 ## Melee Attacks
 
-A melee attack allows you to attack a target within your reach. A melee attack typically uses a handheld weapon or an Unarmed Strike. Many monsters make melee attacks with claws, teeth, or other body parts. A few spells also involve melee attacks.
+A melee attack allows you to attack a target within your reach. A melee attack typically uses a handheld weapon or an **:rsc-a: Unarmed Strike**{ .rsc }. Many monsters make melee attacks with claws, teeth, or other body parts. A few spells also involve melee attacks.
 
 ### Reach
 
@@ -200,7 +200,7 @@ Combatants watch for enemies to drop their guard. If you move heedlessly past yo
 
 **Avoiding Opportunity Attack**{ .inl } You can avoid provoking an Opportunity Attack by taking the Disengage action. You also don't provoke an Opportunity Attack when you Teleport or when you are moved without using your movement, action, Bonus Action, or Reaction. For example, you don't provoke an Opportunity Attack if an explosion hurls you out of a foe's reach or if you fall past an enemy.
 
-**Making an Opportunity Attack**{ .inl } You can make an Opportunity Attack when a creature that you can see leaves your reach. To make the attack, take a **:rsc-r: Reaction**{ .rsc } to make one melee attack with a weapon or an Unarmed Strike against that creature. The attack occurs right before it leaves your reach.
+**Making an Opportunity Attack**{ .inl } You can make an Opportunity Attack when a creature that you can see leaves your reach. To make the attack, take a **:rsc-r: Reaction**{ .rsc } to make one melee attack with a weapon or an **:rsc-a: Unarmed Strike**{ .rsc } against that creature. The attack occurs right before it leaves your reach.
 
 ### Mounted Combat
 
@@ -214,9 +214,9 @@ During your move, you can mount a creature that is within 5 feet of you or dismo
 
 You can control a mount only if it has been trained to accept a rider. Domesticated horses, mules, and similar creatures have such training.
 
-The Initiative of a controlled mount changes to match yours when you mount it. It moves on your turn as you direct it, and it has only three action options during that turn: Dash, Disengage, and Dodge. A controlled mount can move and act even on the turn that you mount it.
+The **:d20-inv: Initiative**{.d20 } of a controlled mount changes to match yours when you mount it. It moves on your turn as you direct it, and it has only three action options during that turn: Dash, Disengage, and Dodge. A controlled mount can move and act even on the turn that you mount it.
 
-In contrast, an independent mount-one that lets you ride but ignores your control—retains its place in the Initiative order and moves and acts as it likes.
+In contrast, an independent mount-one that lets you ride but ignores your control—retains its place in the **:d20-inv: Initiative**{.d20 } order and moves and acts as it likes.
 
 ### Falling Off
 
@@ -230,9 +230,9 @@ A fight underwater follows these rules.
 
 ### Impeded Weapons
 
-When making a melee attack roll with a weapon underwater, a creature that lacks a Swim Speed has **:d20-disadv: Disadvantage**{ .d20 } on the attack roll unless the weapon deals Piercing damage.
+When making a melee attack roll with a weapon underwater, a creature that lacks a Swim Speed has **:d20-dis: Disadvantage**{ .d20 } on the attack roll unless the weapon deals Piercing damage.
 
-A ranged attack roll with a weapon underwater automatically misses a target beyond the weapon's normal range, and the attack roll has **:d20-disadv: Disadvantage**{ .d20 } against a target within normal range.
+A ranged attack roll with a weapon underwater automatically misses a target beyond the weapon's normal range, and the attack roll has **:d20-dis: Disadvantage**{ .d20 } against a target within normal range.
 
 ### Fire Resistance
 

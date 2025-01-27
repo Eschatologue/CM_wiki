@@ -57,7 +57,7 @@ You determine the homunculus's appearance. Some artificers prefer mechanical-loo
 
 The homunculus is friendly to you and your companions, and it obeys your commands. See this creature's game statistics in the Homunculus Servant stat block, which uses your proficiency bonus (PB) in several places.
 
-In combat, the homunculus shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a **:rsc-b: Bonus Action**{ .rsc } on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the homunculus can take any action of its choice, not just Dodge.
+In combat, the homunculus shares your Initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a **:rsc-b: Bonus Action**{ .rsc } on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the homunculus can take any action of its choice, not just Dodge.
 
 The homunculus regains 2d6 hit points if the [:spell-lv0: Mending](../../../spells/description/core/cantrip.md#mending) spell is cast on it. If you or the homunculus dies, it vanishes, leaving its heart in its space.
 
@@ -254,7 +254,7 @@ While wearing this ring, the creature can recover one expended spell slot as an 
 
 _**Prerequisite:** Level 10+, **Item:** A helmet (requires attunement)_
 
-While wearing this helmet, a creature has **:d20-adv: Advantage**{ .d20 } on Initiative rolls. In addition, the wearer is immune to the Surprised condition, provided it doesn't have the Incapacitated condition.
+While wearing this helmet, a creature has **:d20-adv: Advantage**{ .d20 } on **:d20-inv: Initiative**{.d20 } rolls. In addition, the wearer is immune to the Surprised condition, provided it doesn't have the Incapacitated condition.
 
 ---
 

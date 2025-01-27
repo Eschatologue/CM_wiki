@@ -10,10 +10,10 @@ When you do something other than moving or communicating, you typically take an 
 
 | Action | Summary |
 |---|---|
-| Attack | Attack with a weapon or an [Unarmed Strike](#unarmed-strike). |
+| Attack | Attack with a weapon or an Unarmed Strike(#unarmed-strike). |
 | Dash | For the rest of the turn, give yourself extra movement equal to your **:rsc-spd: Speed**. |
 | Disengage | Your movement doesn't provoke Opportunity Attack for the rest of the turn. |
-| Dodge | Until the start of your next turn, attack rolls against you have Disadvantage, and you make Dexterity saving throws with Advantage. You lose this benefit if you have the Incapacitated condition or if your Speed is 0. |
+| Dodge | Until the start of your next turn, attack rolls against you have **:d20-dis: Disadvantage**{ .d20 }, and you make Dexterity saving throws with Advantage. You lose this benefit if you have the Incapacitated condition or if your Speed is 0. |
 | Help | Help another creature's ability check or attack roll, or administer first aid. |
 | Hide | Make a Dexterity (Stealth) check. |
 | Influence | Make a Charisma (Deception, Intimidation, Performance, or Persuasion) or Wisdom (Animal Handling) check to alter a creature's attitude. |
@@ -110,7 +110,7 @@ If you take the **Disengage**{ .rsc } action, your movement doesn't provoke Oppo
 
 **Cost:** **:rsc-a: Action**{ .rsc }
 
-When you take the **Dodge**{ .rsc } action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has **:d20-disadv: Disadvantage**{ .d20 } if you can see the attacker, and you make **:d20-save: Dexterity saving throws** with **:d20-adv: Advantage**{ .d20 }. You lose this benefit if you have the Incapacitated condition or if your **:rsc-spd: Speed**{ .em } is 0.
+When you take the **Dodge**{ .rsc } action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has **:d20-dis: Disadvantage**{ .d20 } if you can see the attacker, and you make **:d20-save: Dexterity saving throws** with **:d20-adv: Advantage**{ .d20 }. You lose this benefit if you have the Incapacitated condition or if your **:rsc-spd: Speed**{ .em } is 0.
 
 ---
 
@@ -228,7 +228,7 @@ The Areas of Knowledge table suggests which skills are applicable when you take 
 
 Instead of using a weapon to make a melee attack, you can use a punch, kick, head-butt, or similar forceful blow. In game terms, this is an **Unarmed Strike**{ .rsc }—a melee attack that involves you using your body to damage, grapple, or shove a target within 5 feet of you.
 
-Whenever you use your Unarmed Strike, choose one of the following options for its effect.
+Whenever you use your **:rsc-a: Unarmed Strike**{ .rsc } , choose one of the following options for its effect.
 
 #### Damage
 
@@ -252,6 +252,6 @@ The target must succeed on a Strength or Dexterity saving throw (it chooses whic
 
 **Cost:** **:rsc-a: Action**{ .rsc }
 
-You normally interact with an object while doing something else, such as when you draw a sword as part of the Attack action. When an object requires an action for its use, you take the Utilise action.
+You normally interact with an object while doing something else, such as when you draw a sword as part of the **:rsc-a: Attack**{ .rsc } action. When an object requires an action for its use, you take the Utilise action.
 
 ---

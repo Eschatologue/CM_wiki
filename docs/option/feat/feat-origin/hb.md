@@ -191,7 +191,7 @@ You gain the benefits on the table below that correspond to your current Wisdom 
 | 12-13 | You gain proficiency with one musical instrument of your choice. |
 | 14-15 | You can make Wisdom (Persuasion) checks in place of Charisma (Persuasion) checks. |
 | 16-17 | You gain proficiency in either Animal Handling, Insight, Medicine, or Perception. |
-| 18-19 | You have Advantage on saving throws to end the charmed and frightened conditions. |
+| 18-19 | You have **:d20-adv: Advantage**{ .d20 } on saving throws to end the charmed and frightened conditions. |
 | 20+ | When you are forced to make a Charisma or Intelligence saving throw, you can choose to make a Wisdom saving throw instead. |
 
 ***Source:** Laserllama Compendium of Feats*

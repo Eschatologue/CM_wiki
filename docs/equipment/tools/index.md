@@ -18,7 +18,7 @@ A tool helps you make specialized ability checks, craft certain items, or both. 
 
 ## Tool Proficiency
 
-If you have proficiency with a tool, add your Proficiency Bonus to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have Advantage on the check too.
+If you have proficiency with a tool, add your Proficiency Bonus to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have **:d20-adv: Advantage**{ .d20 } on the check too.
 
 Your features might give you proficiency with a tool. A monster has proficiency with any tool in its stat block.
 

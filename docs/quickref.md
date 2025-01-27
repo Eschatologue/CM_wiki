@@ -70,7 +70,7 @@ icon: material/crown-circle
 
             **Passive Percecption:** **10 + Wisdom (Perception) check bonus**{ .back }
 
-            **:d20-adv: Advantage**{ .d20 } grants **+5 bonus** and **:d20-disadv: Disadvantage**{ .d20 } grants **-5 penalty**.
+            **:d20-adv: Advantage**{ .d20 } grants **+5 bonus** and **:d20-dis: Disadvantage**{ .d20 } grants **-5 penalty**.
 
         </div>
 
@@ -135,7 +135,7 @@ icon: material/crown-circle
         - #### **:material-arrow-expand: Dodge**{ .inl } 
 
             Focus entirely on avoiding attacks.  
-            Attack Rolls against you have **:d20-disadv: Disadvantage**{ .d20 } & you have **:d20-adv: Advantage**{ .d20 } on **:d20-save: Dex Save**
+            Attack Rolls against you have **:d20-dis: Disadvantage**{ .d20 } & you have **:d20-adv: Advantage**{ .d20 } on **:d20-save: Dex Save**
             
         - #### **:material-handshake: Help**{ .inl } 
     

@@ -76,7 +76,7 @@ If you hit a creature with this weapon, you can push the creature up to 10 feet 
 **Type:** Any  
 **Properties:** **:weapon-prop-versatile: Versatile** or No Weapon Property
 
-If you hit a creature with this weapon, that creature has **:d20-disadv: Disadvantage**{ .d20 } on its next attack roll before the start of your next turn.
+If you hit a creature with this weapon, that creature has **:d20-dis: Disadvantage**{ .d20 } on its next attack roll before the start of your next turn.
 
 ---
 

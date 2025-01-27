@@ -37,14 +37,14 @@ When you cast a Warlock spell that deals damage, you can change its damage type 
 
 ### Level 6: Clairvoyant Combatant
 
-You learn to read the attacks of minds you touch. When you form a telepathic bond with a creature using your Awakened Mind, you can force that creature to make a Wisdom saving throw against your spell save DC. On a failed save, the creature has Disadvantage on attack rolls against you, and you have Advantage on attack rolls against that
+You learn to read the attacks of minds you touch. When you form a telepathic bond with a creature using your Awakened Mind, you can force that creature to make a Wisdom saving throw against your spell save DC. On a failed save, the creature has **:d20-dis: Disadvantage**{ .d20 } on attack rolls against you, and you have **:d20-adv: Advantage**{ .d20 } on attack rolls against that
 creature for the duration of the bond.
 
 Once you use this feature, you can't use it again until you finish a **:rest-short: Short Rest** or Long Rest. You can also restore your use of it by expending a spell slot of level 2 or higher (no action required).
 
 ### Level 10: Eldritch Hex
 
-Your alien patron grants you a powerful curse. You always have the *Hex* spell prepared. When you cast Hex and choose an ability, the target also has Disadvantage on saving throws of the chosen ability for the duration of the spell.
+Your alien patron grants you a powerful curse. You always have the *Hex* spell prepared. When you cast Hex and choose an ability, the target also has **:d20-dis: Disadvantage**{ .d20 } on saving throws of the chosen ability for the duration of the spell.
 
 ### Level 10: Thought Shield
 Your thoughts can't be read by telepathy or other means unless you allow it. You also have Resistance to :dmg-psyc: Psychic damage, and whenever a creature deals :dmg-psyc: Psychic damage to you, that creature takes the same amount of damage that you do.

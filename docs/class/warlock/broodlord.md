@@ -40,7 +40,7 @@ Additionally, You have **:dmg-res: Resistance**{ .em } to :dmg-posn: Poison dama
 
 You can command your swarm to protect you in dire situations. When you are the target of an attack or subjected to a Dexterity saving throw, you can expend one use of your *Gathering Swarm* feature to give yourself the benefit of half-cover until the start of your next turn.
 
-Whenever you roll Initiative and have no uses of *Gathering Swarm* left, you regain one expended use of it.
+Whenever you roll **:d20-inv: Initiative**{.d20 } and have no uses of *Gathering Swarm* left, you regain one expended use of it.
 
 ### Level 14: Brooding Transformation
 

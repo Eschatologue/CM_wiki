@@ -18,7 +18,7 @@ Every Ranger has a unique origin, these aptitude belongs in Origin category.
 
 ### Bounty Hunter
 
-Your expertise in hunting bounties stands out. You gain proficiency in Insight and Investigation. In addition, creatures has **:d20-disadv: Disadvantage**{ .d20 } on saves to resist or end the ^^Grappled^^ or ^^Restrained^^ condition caused by you.
+Your expertise in hunting bounties stands out. You gain proficiency in Insight and Investigation. In addition, creatures has **:d20-dis: Disadvantage**{ .d20 } on saves to resist or end the ^^Grappled^^ or ^^Restrained^^ condition caused by you.
 
 ---
 
@@ -112,7 +112,7 @@ Though you wander the wilds, you still understood the intricacy of politics. Whe
 
 _**Prerequisite:** Level 3+ Ranger_
 
-You learn how to utilise divine magic. When you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or Unarmed Strike, you can change the spell's bonus damage type to :dmg-radi: Radiant or :dmg-necr: Necrotic damage (choose each time) instead of :dmg-force: Force.
+You learn how to utilise divine magic. When you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } , you can change the spell's bonus damage type to :dmg-radi: Radiant or :dmg-necr: Necrotic damage (choose each time) instead of :dmg-force: Force.
 
 ---
 
@@ -135,7 +135,7 @@ These aptitudes belong in the Slayer category, which enhances the Ranger's [:spe
 
 _**Prerequisite:** Level 3+ Ranger_
 
-When you hit a creature with a weapon attack or Unarmed Strike you can cast [:spell-lv1: Hunter's Mark] at the target as part of the attack, applying its damage bonus and other benefits (if any) to the damage roll.
+When you hit a creature with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } you can cast [:spell-lv1: Hunter's Mark] at the target as part of the attack, applying its damage bonus and other benefits (if any) to the damage roll.
 
 ---
 
@@ -143,7 +143,7 @@ When you hit a creature with a weapon attack or Unarmed Strike you can cast [:sp
 
 _**Prerequisite:** Level 6+ Ranger, [Slayer I](#slayer-i)_
 
-When you roll Initiative, you can take a **:rsc-r: Reaction**{ .rsc } to cast [:spell-lv1: Hunter's Mark].
+When you roll **:d20-inv: Initiative**{.d20 }, you can take a **:rsc-r: Reaction**{ .rsc } to cast [:spell-lv1: Hunter's Mark].
 
 ---
 
@@ -151,7 +151,7 @@ When you roll Initiative, you can take a **:rsc-r: Reaction**{ .rsc } to cast [:
 
 _**Prerequisite:** Level 14+ Ranger, [Slayer II](#slayer-ii-ambush-tactics)_
 
-Once per turn, when you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or Unarmed Strike, you can force the target must succeed a :d20-save: Constitution saving throw, or it has the ^^Blinded^^ and ^^Silenced^^ condition.
+Once per turn, when you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } , you can force the target must succeed a :d20-save: Constitution saving throw, or it has the ^^Blinded^^ and ^^Silenced^^ condition.
 
 ---
 
@@ -197,7 +197,7 @@ These aptitudes belong in the Seeker category, refining the Ranger's perception 
 
 _**Prerequisite:** Level 6+ Ranger_
 
-You can't have **:d20-disadv: Disadvantage**{ .d20 } on attack rolls against the target of your [:spell-lv1: Hunter's Mark].
+You can't have **:d20-dis: Disadvantage**{ .d20 } on attack rolls against the target of your [:spell-lv1: Hunter's Mark].
 
 ---
 
@@ -205,7 +205,7 @@ You can't have **:d20-disadv: Disadvantage**{ .d20 } on attack rolls against the
 
 _**Prerequisite:** Level 15+ Ranger, [Enhanced Senses](#enhanced-senses)_
 
-You can't have **:d20-disadv: Disadvantage**{ .d20 } on attack rolls against any target within 30 feet of you.
+You can't have **:d20-dis: Disadvantage**{ .d20 } on attack rolls against any target within 30 feet of you.
 
 ---
 
@@ -230,7 +230,7 @@ _**Prerequisite:** Level 12+ Ranger, [Primal Focus](#primal-focus)_
 
 You gain the following benefits:
 
-**Improved Critical**{ .inl } When you attack the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or Unarmed Strike, the number you need to roll to for a Critical Hit is reduced by 1. This effect can stack.
+**Improved Critical**{ .inl } When you attack the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } , the number you need to roll to for a Critical Hit is reduced by 1. This effect can stack.
 
 **Weakness Exploit**{ .inl } Each time you score a Critical Hit against a creature, the number you need roll for another Critical Hit against that creature is reduced by 1. This effect can stack for 2 instances.
 
@@ -240,7 +240,7 @@ You gain the following benefits:
 
 _**Prerequisite:** Level 15+ Ranger, [Primal Focus II](#primal-focus-ii-feral-eyes)_
 
-When you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or Unarmed Strike, you can choose to end the spell and make the attack score a Critical Hit.
+When you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } , you can choose to end the spell and make the attack score a Critical Hit.
 
 ---
 
@@ -309,7 +309,7 @@ You can cast [:spell-lv1: Ensnaring Strike] without expending a spell slot.
 
 _**Prerequisite:** Level 19+ Ranger_
 
-Whenever you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or Unarmed Strike, you can immediately end the spell and cause that attack to deal maximum damage instead of rolling. If the attack reduces the creature to 50 Hit Points or fewer, it must succeed on a Constitution saving throw against your Spell save DC or it instantly dies.
+Whenever you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } , you can immediately end the spell and cause that attack to deal maximum damage instead of rolling. If the attack reduces the creature to 50 Hit Points or fewer, it must succeed on a Constitution saving throw against your Spell save DC or it instantly dies.
 
 ---
 

@@ -133,7 +133,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 *"Anger is power - unleash it!"*
 
 - Once per turn when you roll damage for a weapon attack or spell attack, you can choose one of the die and make it roll the maximum amount possible.
-- When you force a creature to make a :d20-save: **Saving Throw** or a contested :d20-check: **Ability Check**, it make the :d20-save: **Saving Throw** or the :d20-check: **Ability Check** at a**:d20-disadv: Disadvantage**{ .d20 }.
+- When you force a creature to make a :d20-save: **Saving Throw** or a contested :d20-check: **Ability Check**, it make the :d20-save: **Saving Throw** or the :d20-check: **Ability Check** at a**:d20-dis: Disadvantage**{ .d20 }.
 - You have **:d20-adv: Advantage**{ .d20 } on Strength checks and Strength :d20-save: **Saving Throws**.
 
 ### Stalwart
@@ -158,7 +158,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 
 *“Frustration and fury, more destructive than a hundred cannons”*
 
-- You have **:d20-adv: Advantage**{ .d20 } on attack made using Strength and **:d20-disadv: Disadvantage**{ .d20 } on attack made using Dexterity.
+- You have **:d20-adv: Advantage**{ .d20 } on attack made using Strength and **:d20-dis: Disadvantage**{ .d20 } on attack made using Dexterity.
 - On each of your turn, you must make an attack to any creature that is within your reach.
 - All creatures, including your ally can provoke opportunity attack from you, and you must use your **:rsc-r: Reaction**{ .rsc } when available to make an attack.
 
@@ -167,7 +167,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 *“Fear and frailty finally claim their due”*
 
 - You receive the *frightened* condition against the last creature that damage you.
-- You are overcome with shaking, and have**:d20-disadv: Disadvantage**{ .d20 } on Dexterity :d20-save: **Saving Throw**.
+- You are overcome with shaking, and have**:d20-dis: Disadvantage**{ .d20 } on Dexterity :d20-save: **Saving Throw**.
 - You are vulnerable to Psychic damage.
 - You gain +10ft. of walking speed.
 
@@ -175,7 +175,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 
 *“There can be no hope in this hell, no hope at all.”*
 
-- You have **:d20-disadv: Disadvantage**{ .d20 } on all attack rolls and :d20-check: **Ability Checks**.
+- You have **:d20-dis: Disadvantage**{ .d20 } on all attack rolls and :d20-check: **Ability Checks**.
 - Whenever you regain Hit Point, the amount total is halved. This does not affect the progress in which **Meltdown** can be ended early.
 - You are resistant to Psychic damage.
 - Your **:rsc-spd: Speed**{ .em } is halved.
@@ -185,7 +185,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 *“Reeling, gasping, taken over the edge into madness!”*
 
 - You begins babbling and is incapable of normal speech. Spells that has the Verbal (V) component can't be cast.
-- You have **:d20-disadv: Disadvantage**{ .d20 } on Intelligence and Wisdom :d20-save: **Saving Throws**.
+- You have **:d20-dis: Disadvantage**{ .d20 } on Intelligence and Wisdom :d20-save: **Saving Throws**.
 - You can't take **:rsc-r: Reaction**{ .rsc } and must roll a :die-d10:d10 at the start of each of your turns to determine a behavior for that turn.
     
     | :die-d10:**d10** | **BEHAVIOUR** |
@@ -201,5 +201,5 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 
 - Your Armour Class is reduced by 2.
 - Any damage you received is reduced by 2.
-- You have **:d20-disadv: Disadvantage**{ .d20 } on Strength, Dexterity, and Constitution :d20-save: **Saving Throw**.
+- You have **:d20-dis: Disadvantage**{ .d20 } on Strength, Dexterity, and Constitution :d20-save: **Saving Throw**.
 - You can't willingly move away from a hostile creature.

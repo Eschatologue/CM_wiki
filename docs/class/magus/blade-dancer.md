@@ -53,7 +53,7 @@ Your Order's emphasis on fluidity and martial skill has honed your reflexes. You
 
 **Save Proficiencies**{ .inl } You gain proficiency in Dexterity saving throws 
 
-**Initiative Bonus**{ .inl } You add your Intelligence modifier to Initiative rolls.
+**Initiative Bonus**{ .inl } You add your Intelligence modifier to **:d20-inv: Initiative**{.d20 } rolls.
 
 **Improved AC**{ .inl } Your [Blade Dance] Armour Class bonus becomes +2.
 
@@ -73,7 +73,7 @@ You have become an expert of the [Blade Dance], and while you are in this trance
 
 You are always considered to be under the effects of your [Blade Dance] so long as you are not wearing heavy armour or wielding a heavy weapon.
 
-Also, when you take the Attack action while in your [Blade Dance], you make one additional attack as part of that action.
+Also, when you take the **:rsc-a: Attack**{ .rsc } action while in your [Blade Dance], you make one additional attack as part of that action.
 
 [Blade Dance]: #level-3-blade-dance
 [Spellsunder]: index.md#level-9-spellsunder

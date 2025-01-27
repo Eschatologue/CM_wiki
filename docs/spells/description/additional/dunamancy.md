@@ -48,7 +48,7 @@ This spell's damage increases by **1d4** when you reach 5th level (**2d4**), 11t
 **Components:** V, S   
 **Duration:** 8 hours
 
-You touch a willing creature. For the duration, the target can add **1d8** to its initiative rolls.
+You touch a willing creature. For the duration, the target can add **1d8** to its Initiative rolls.
 
 ---
 

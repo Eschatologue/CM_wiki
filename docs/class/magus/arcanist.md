@@ -43,7 +43,7 @@ After you cast a Magus spell that has a casting time of an Action, you can make 
 
 ### Level 15: Esoteric Sight
 
-The duration of your [Spellsight] increases to 10 minutes, it no longer requires concentration, and while it is active you gain Truesight out to a 30-foot radius and you have Advantage on any weapon attack rolls you make as part of [Spellsunder].
+The duration of your [Spellsight] increases to 10 minutes, it no longer requires concentration, and while it is active you gain Truesight out to a 30-foot radius and you have **:d20-adv: Advantage**{ .d20 } on any weapon attack rolls you make as part of [Spellsunder].
 
 ### Level 20: Grand Arcanist
 

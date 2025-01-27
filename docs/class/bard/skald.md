@@ -25,13 +25,13 @@ You gain proficiency with Martial weapons and training with Shields and Medium A
 
 You gain the following benefits:
 
-**Bardic Focus**{ .inl } When you make a weapon attack or Unarmed Strike and miss, you can expend one Bardic Inspiration Die, roll it, and add the result to the attack roll, possibly turning your miss into a hit.
+**Bardic Focus**{ .inl } When you make a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } and miss, you can expend one Bardic Inspiration Die, roll it, and add the result to the attack roll, possibly turning your miss into a hit.
 
-**Guiding Song**{ .inl } As part of the Attack action, you can expend one use of your Bardic Inspiration. You and any allies within 30 feet of you that can hear you gain a bonus equal to the number rolled on the Bardic Inspiration die. This bonus applies to the next attack roll or the next damage roll that the affected creature makes before the start of your next turn.
+**Guiding Song**{ .inl } As part of the **:rsc-a: Attack**{ .rsc } action, you can expend one use of your Bardic Inspiration. You and any allies within 30 feet of you that can hear you gain a bonus equal to the number rolled on the Bardic Inspiration die. This bonus applies to the next attack roll or the next damage roll that the affected creature makes before the start of your next turn.
 
 ### Level 6: Extra Attack
 
-You can attack twice, instead of once, whenever you take the Attack action on your turn.
+You can attack twice, instead of once, whenever you take the **:rsc-a: Attack**{ .rsc } action on your turn.
 
 In addition, you can cast one of your cantrip that has the casting time of an action in place of those attack.
 
@@ -39,7 +39,7 @@ In addition, you can cast one of your cantrip that has the casting time of an ac
 
 *Your heroic presence rallies allies to charge into battle.* 
 
-When you roll Initiative, you can expend one use of your Bardic Inspiration. You and a number of creatures of your choice equal to your Charisma modifier (minimum of 1) within 30 feet of you gain a bonus to their Initiative rolls equal to the number rolled on the Bardic Die.
+When you roll **:d20-inv: Initiative**{.d20 }, you can expend one use of your Bardic Inspiration. You and a number of creatures of your choice equal to your Charisma modifier (minimum of 1) within 30 feet of you gain a bonus to their **:d20-inv: Initiative**{.d20 } rolls equal to the number rolled on the Bardic Die.
 
 ### Level 14: Heroic Presence
 

@@ -59,7 +59,7 @@ Complications that arise while training typically involve the teacher. Every ten
 | 17 | Your instructor's old rival shows up, interrupting sessions to mock their techniques and challenge them to petty duels.* |
 | 18 | The town's bard catches wind of your training and writes a satirical song about it that quickly becomes popular. |
 | 19 | A local noble decides to observe your training... and won't stop making "helpful" suggestions.* |
-| 20 | Your instructor reveals they are, in fact, your arch-nemesis you didn't know you had. Roll initiative.* |
+| 20 | Your instructor reveals they are, in fact, your arch-nemesis you didn't know you had. Roll Initiative.* |
 
 *Might involve a [rival]
 

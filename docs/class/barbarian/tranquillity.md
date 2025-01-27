@@ -41,7 +41,7 @@ When you activate your **:class-abl-rage: Rage**{ .em }, you can choose one of t
   
 **Temporary Hit Points**{ .inl } You gain a number of Temporary Hit Points equal to one roll of your Superiority Die.
  
-**Improved Speed**{ .inl } Opportunity Attack against you have **:d20-disadv: Disadvantage**{ .d20 } and your **:rsc-spd: Speed**{ .em } is doubled for your current turn.
+**Improved Speed**{ .inl } Opportunity Attack against you have **:d20-dis: Disadvantage**{ .d20 } and your **:rsc-spd: Speed**{ .em } is doubled for your current turn.
 
 ### Level 6: Improved Superiority
 
@@ -59,6 +59,6 @@ Your seething fury is unstopable. You gain the following benefits:
 
 You gain one additional Superiority Die (Five total) and all your Superiority Die becomes :die-d10: **d10**s. Moreover, once per turn, when your **:class-abl-rage: Rage**{ .em } is active, you can roll a :die-d6: d6 in place of expending a Superiority Die.
 
-[Manoeuvre Options]: ../../option/class-options/fighter-manoeuvre.md
+[Manoeuvre Options]: ../../option/class-options/fighter-manoeuvre/index.md
 
 ###### :material-book-edit: Written by *Eschatologue*

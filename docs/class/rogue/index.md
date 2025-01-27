@@ -98,7 +98,7 @@ At Rogue level 6, you gain Expertise in two more of your skill proficiencies of 
 
 You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack roll if you have **:d20-adv: Advantage**{ .d20 } on the roll and the attack uses a :weapon-prop-finesse: Finesse or a :weapon-prop-range: Ranged weapon. The extra damage's type is the same as the weapon's type.
 
-You don't need **:d20-adv: Advantage**{ .d20 } on the attack roll if at least one of your allies is within 5 feet of the target, the ally doesn't have the ^^Incapacitated^^ condition, and you don't have **:d20-disadv: Disadvantage**{ .d20 } on the attack roll.
+You don't need **:d20-adv: Advantage**{ .d20 } on the attack roll if at least one of your allies is within 5 feet of the target, the ally doesn't have the ^^Incapacitated^^ condition, and you don't have **:d20-dis: Disadvantage**{ .d20 } on the attack roll.
 
 The extra damage increases as you gain Rogue levels, as shown in the Sneak Attack column of the Rogue Features table.
 
@@ -126,7 +126,7 @@ You gain a Rogue subclass of your choice. A subclass is a specialization that gr
 
 ### Level 3: Steady Aim
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you give yourself Advantage on your next attack roll on the current turn. You can use this feature only if you haven't moved during this turn, and after you use it, your **:rsc-spd: Speed**{ .em } is 0 until the end of the current turn.
+As a **:rsc-b: Bonus Action**{ .rsc }, you give yourself **:d20-adv: Advantage**{ .d20 } on your next attack roll on the current turn. You can use this feature only if you haven't moved during this turn, and after you use it, your **:rsc-spd: Speed**{ .em } is 0 until the end of the current turn.
 
 ### Level 4: Ability Score Improvement
 
@@ -182,7 +182,7 @@ Your cunning mind is exceptionally difficult to control. You gain proficiency in
 
 ### Level 18: Elusive
 
-You're so evasive that attackers rarely gain the upper hand against you. No attack roll can have Advantage against you unless you have the Incapacitated condition.
+You're so evasive that attackers rarely gain the upper hand against you. No attack roll can have **:d20-adv: Advantage**{ .d20 } against you unless you have the Incapacitated condition.
 
 ### Level 19: Epic Boon
 

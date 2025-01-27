@@ -18,7 +18,7 @@ An Assassin's training focuses on the grim art of death, using stealth, poison, 
 
 You are adept at getting the drop on a target, granting you the following benefits:
 
-**Initiative**{ .inl } You have **:d20-adv: Advantage**{ .d20 } on Initiative rolls.
+**Initiative**{ .inl } You have **:d20-adv: Advantage**{ .d20 } on **:d20-inv: Initiative**{.d20 } rolls.
 
 **Surprising Strikes**{ .inl } During the first round of each combat, you have **:d20-adv: Advantage**{ .d20 } on attack rolls against any creature that hasn't taken a turn. If your Sneak Attack hits any target during that round, the target takes extra damage of the weapon's type equal to your Rogue level.
 

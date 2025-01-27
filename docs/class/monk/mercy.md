@@ -14,11 +14,11 @@ Warriors of Mercy manipulate the life force of others. These monks are wandering
 
 ### Level 3: Hand of Harm
 
-Once per turn, when you hit a creature with an [Unarmed Strike] and deal damage, you can expend 1 :class-phb24-monk: **Focus Point** to deal extra Necrotic damage equal to one roll of your Martial Arts Die plus your Wisdom modifier.
+Once per turn, when you hit a creature with an **:rsc-a: Unarmed Strike**{ .rsc } and deal damage, you can expend **1 :class-phb24-monk: Focus Point(s)** to deal extra Necrotic damage equal to one roll of your Martial Arts Die plus your Wisdom modifier.
 
 ### Level 3: Hand of Healing
 
-As a MAgic action, you can expend 1 :class-phb24-monk: **Focus Point** to touch a creature and restore a number of Hit Points equal to a roll of your Martial Arts die plus your Wisdom modifier.
+As a MAgic action, you can expend **1 :class-phb24-monk: Focus Point(s)** to touch a creature and restore a number of Hit Points equal to a roll of your Martial Arts die plus your Wisdom modifier.
 
 ### Level 3: Implements of Mercy
 
@@ -34,16 +34,15 @@ Your Hand of Harm and Hand of Healing improve as detailed below:
 
 ### Level 11: Flurry of Healing and Harm
 
-When you use Flurry of Blows, you can now replace each of the [Unarmed Strike] with a use of your Hand of Healing, without spending :class-phb24-monk: **Focus Points** for the healing.
+When you use Flurry of Blows, you can now replace each of the **:rsc-a: Unarmed Strike**{ .rsc } with a use of your Hand of Healing, without spending **:class-phb24-monk: Focus Point(s)** for the healing.
 
-In addition, when you make an [Unarmed Strike] with Flurry of Blows and deal damage, you can use Hand of Harm with that strike without spending the :class-phb24-monk: **Focus Points** for Hand of Harm. You can still use Hand of Harm only once per turn.
+In addition, when you make an **:rsc-a: Unarmed Strike**{ .rsc } with Flurry of Blows and deal damage, you can use Hand of Harm with that strike without spending the **:class-phb24-monk: Focus Point(s)** for Hand of Harm. You can still use Hand of Harm only once per turn.
 
 You can use these benefits a total number of times equal to your Wisdom modifie (minimum of once). You regain all expended use when you finish a **:rest-long: Long Rest**.
 
 ### Level 17: Hand of Ultimate Mercy
 
-Your mastery of life energy opens the door to the ultimate mercy. As a **:rsc-a: Magic**{ .rsc } action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 :class-phb24-monk: **Focus Points**. The creature then returns to life, regaining a number of hit points equal to 4d10 + your Wisdom modifier. If the creature died while subject to any of the following conditions, it revives with them removed: Blinded, Deafened, Paralyzed, Poisoned, or Stunned.
+Your mastery of life energy opens the door to the ultimate mercy. As a **:rsc-a: Magic**{ .rsc } action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 **:class-phb24-monk: Focus Point(s)**. The creature then returns to life, regaining a number of hit points equal to 4d10 + your Wisdom modifier. If the creature died while subject to any of the following conditions, it revives with them removed: Blinded, Deafened, Paralyzed, Poisoned, or Stunned.
 
 Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**.
 
-[Unarmed Strike]: ../../gameplay/phb/action.md#unarmed-strike

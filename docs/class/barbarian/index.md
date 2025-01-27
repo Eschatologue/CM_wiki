@@ -93,7 +93,7 @@ While active, your **:class-abl-rage: Rage**{ .em } follows the rules below.
 
 #### Damage Resistance 
 
-You have **:dmg-res: Resistance**{ .em } to :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, and :dmg-slsh: Slashing damage.
+You have **:dmg-res: Resistance**{ .em } to **:dmg-bldg: Bludgeoning**{ .dmg-phys }, **:dmg-prcg: Piercing**{ .dmg-phys }, and **:dmg-slsh: Slashing**{ .dmg-phys } damage.
 
 #### Rage Damage 
 
@@ -165,7 +165,7 @@ You gain the [:option-feat-general: Ability Score Improvement](../../option/feat
 
 ### Level 5: Extra Attack
 
-You can attack twice instead of once whenever you take the Attack action on your turn.
+You can attack twice instead of once whenever you take the **:rsc-a: Attack**{ .rsc } action on your turn.
 
 ### Level 5: Fast Movement
 
@@ -173,7 +173,7 @@ Your **:rsc-spd: Speed**{ .em } increases by 10 feet while you aren't wearing He
 
 ### Level 7: Feral Instinct
 
-Your instincts are so honed that you have **:d20-adv: Advantage**{ .d20 } on Initiative rolls.
+Your instincts are so honed that you have **:d20-adv: Advantage**{ .d20 } on **:d20-inv: Initiative**{.d20 } rolls.
 
 ### Level 7: Instinctive Pounce
 
@@ -181,9 +181,9 @@ As part of the **:rsc-b: Bonus Action**{ .rsc } you take to enter your **:class-
 
 ### Level 9: Brutal Strike
 
-If you use Reckless Attack, you can forgo any **:d20-adv: Advantage**{ .d20 } on one :ability-str: Strength-based attack roll of your choice on your turn. The chosen attack roll mustn't have **:d20-disadv: Disadvantage**{ .d20 }. 
+If you use Reckless Attack, you can forgo any **:d20-adv: Advantage**{ .d20 } on one :ability-str: Strength-based attack roll of your choice on your turn. The chosen attack roll mustn't have **:d20-dis: Disadvantage**{ .d20 }. 
 
-If the chosen attack roll hits, the target takes an extra 1d10 damage of the same type dealt by the weapon or Unarmed Strike, and you can cause one Brutal Strike effect of your choice. You have the following effect options.
+If the chosen attack roll hits, the target takes an extra 1d10 damage of the same type dealt by the weapon or **:rsc-a: Unarmed Strike**{ .rsc } , and you can cause one Brutal Strike effect of your choice. You have the following effect options.
 
 **Forceful Blow**{ .inl } The target is pushed 15 feet straight away from you. You can then move up to half your **:rsc-spd: Speed**{ .em } straight toward the target without provoking Opportunity Attacks.
 
@@ -199,13 +199,13 @@ Each time you use this feature after the first, the DC increases by 5. When you 
 
 You have honed new ways to attack furiously. The following effects are now among your Brutal Strike options.
 
-**Staggering Blow**{ .inl } The target has **:d20-disadv: Disadvantage**{ .d20 } on the next saving throw it makes, and it can't make **:rsc-r: Opportunity Attacks**{ .rsc } until the start of your next turn.
+**Staggering Blow**{ .inl } The target has **:d20-dis: Disadvantage**{ .d20 } on the next saving throw it makes, and it can't make **:rsc-r: Opportunity Attacks**{ .rsc } until the start of your next turn.
 
 **Sundering Blow**{ .inl } Before the start of your next turn, the next attack roll made by another creature against the target gains a +5 bonus to the roll. An attack roll can gain only one Sundering Blow bonus.
 
 ### Level 15: Persistent Rage
 
-When you roll Initiative, you can regain all expended uses of **:class-abl-rage: Rage**{ .em }. After you regain uses of **:class-abl-rage: Rage**{ .em } in this way, you can't do so again until you finish a **:rest-long: Long Rest**.
+When you roll **:d20-inv: Initiative**{.d20 }, you can regain all expended uses of **:class-abl-rage: Rage**{ .em }. After you regain uses of **:class-abl-rage: Rage**{ .em } in this way, you can't do so again until you finish a **:rest-long: Long Rest**.
 
 In addition, your **:class-abl-rage: Rage**{ .em } is so fierce that it now lasts for 10 minutes without you needing to do anything to extend it from round to round. Your **:class-abl-rage: Rage**{ .em } ends early if you have the Unconscious condition (not just the Incapacitated condition) or don Heavy armour.
 

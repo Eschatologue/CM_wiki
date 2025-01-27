@@ -55,7 +55,7 @@ You gain the ability to harness extraordinary martial prowess. As a **:rsc-b: Bo
 
 **Damage Resistance**{ .inl } You have resistance to all damage.
 
-**Extra Attack**{ .inl } When you take the Attack action on your turn, you can make one additional attack as part of that action.
+**Extra Attack**{ .inl } When you take the **:rsc-a: Attack**{ .rsc } action on your turn, you can make one additional attack as part of that action.
 
 **Brutal Attacks**{ .inl } Your melee weapon attacks score a critical hit on a roll of 19 or 20 on the d20.
 

@@ -186,7 +186,7 @@ You've learned secrets from various magical traditions. Whenever you reach a Bar
 
 ### Level 18: Superior Inspiration
 
-When you roll Initiative, you regain expended uses of Bardic Inspiration until you have two if you have fewer than that.
+When you roll **:d20-inv: Initiative**{.d20 }, you regain expended uses of Bardic Inspiration until you have two if you have fewer than that.
 
 ### Level 19: Epic Boon
 

@@ -154,7 +154,7 @@ If your attack misses, the spell fails and has no effect. On a hit, the spell ta
 
 :spell-conc: **Concentration**{ .inl } If the spell requires your Concentration, you must Concentrate on it as soon as it takes effect on hit.
 
-:d20-save: **Saving Throw**{ .inl } If the spell requires a saving throw when cast, the target makes the first save at a **:d20-disadv: Disadvantage**{ .d20 } on hit. On a Critical Hit, the target automatically fails the save. Other target (if any) make this save as normal.
+:d20-save: **Saving Throw**{ .inl } If the spell requires a saving throw when cast, the target makes the first save at a **:d20-dis: Disadvantage**{ .d20 } on hit. On a Critical Hit, the target automatically fails the save. Other target (if any) make this save as normal.
 
 :d20-attack: **Attack Roll**{ .inl } If the spell requires an attack roll, it instantly take effect when you hit with a weapon attack.
 
@@ -174,7 +174,7 @@ You gain the [:option-feat-general: Ability Score Improvement](../../option/feat
 
 ### Level 5: Extra Attack
 
-You can attack twice instead of once whenever you take the Attack action on your turn.
+You can attack twice instead of once whenever you take the **:rsc-a: Attack**{ .rsc } action on your turn.
 
 You can still only make one [Spellstrike] attack per turn.
 

@@ -12,7 +12,7 @@ These adventuring items are available as part of the PHB'24.
 
 Adventuring gear, 250 sp, S.
 
-When you take the Attack action, you can replace one of your attacks with throwing a vial of Acid. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 2d6 Acid damage.
+When you take the **:rsc-a: Attack**{ .rsc } action, you can replace one of your attacks with throwing a vial of Acid. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 2d6 Acid damage.
 
 ---
 
@@ -20,7 +20,7 @@ When you take the Attack action, you can replace one of your attacks with throwi
 
 Adventuring gear, 500 sp, S.
 
-When you take the Attack action, you can replace one of your attacks with throwing a flask of Alchemist's Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 1d4 Fire damage and start burning.
+When you take the **:rsc-a: Attack**{ .rsc } action, you can replace one of your attacks with throwing a flask of Alchemist's Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 1d4 Fire damage and start burning.
 
 ---
 
@@ -43,7 +43,7 @@ Ammunition is required by a weapon that has the Ammunition property. A weapon's 
 
 Adventuring gear, 50 gp
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can drink a vial of Antitoxin to gain Advantage on saving throws to avoid or end the Poisoned condition for 1 hour.
+As a **:rsc-b: Bonus Action**{ .rsc }, you can drink a vial of Antitoxin to gain **:d20-adv: Advantage**{ .d20 } on saving throws to avoid or end the Poisoned condition for 1 hour.
 
 ---
 
@@ -83,7 +83,7 @@ When rung as a Utilise action, a Bell produces a sound that can be heard up to 6
 
 Adventuring gear, 5 sp, S.
 
-While wrapped in a blanket, you have Advantage on saving throws against extreme cold (see the Dungeon Master's Guide).
+While wrapped in a blanket, you have **:d20-adv: Advantage**{ .d20 } on saving throws against extreme cold (see the Dungeon Master's Guide).
 
 ---
 
@@ -171,7 +171,7 @@ A Component Pouch is watertight and filled with compartments that hold all the f
 
 Adventuring gear, 50 sp, S.
 
-While wearing a Costume, you have Advantage on any ability check you make to impersonate the person or type of person it represents.
+While wearing a Costume, you have **:d20-adv: Advantage**{ .d20 } on any ability check you make to impersonate the person or type of person it represents.
 
 ---
 
@@ -179,7 +179,7 @@ While wearing a Costume, you have Advantage on any ability check you make to imp
 
 Adventuring gear, 20 sp, S.
 
-Using a Crowbar gives you Advantage on Strength checks where the Crowbar's leverage can be applied.
+Using a Crowbar gives you **:d20-adv: Advantage**{ .d20 } on Strength checks where the Crowbar's leverage can be applied.
 
 ### Fine Clothes
 
@@ -225,7 +225,7 @@ A Healer's Kit has ten uses. As a Utilise action, you can expend one of its uses
 
 Adventuring gear, 250 sp, S.
 
-When you take the Attack action, you can replace one of your attacks with throwing a flask of Holy Water. Target one creature you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 2d8 Radiant damage if it is a Fiend or an Undead.
+When you take the **:rsc-a: Attack**{ .rsc } action, you can replace one of your attacks with throwing a flask of Holy Water. Target one creature you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 2d8 Radiant damage if it is a Fiend or an Undead.
 
 ---
 
@@ -314,7 +314,7 @@ A Lock comes with a key. Without the key, a creature can use *Thieves' Tools* to
 
 Adventuring gear, 100 gp
 
-A Magnifying Glass grants Advantage on any ability check made to appraise or inspect a highly detailed item. Lighting a fire with a Magnifying Glass requires light as bright as sunlight to focus, tinder to ignite, and about 5 minutes for the fire to ignite.
+A Magnifying Glass grants **:d20-adv: Advantage**{ .d20 } on any ability check made to appraise or inspect a highly detailed item. Lighting a fire with a Magnifying Glass requires light as bright as sunlight to focus, tinder to ignite, and about 5 minutes for the fire to ignite.
 
 ---
 
@@ -322,7 +322,7 @@ A Magnifying Glass grants Advantage on any ability check made to appraise or ins
 
 Adventuring gear, 20 sp, M.
 
-As a Utilise action, you can use Manacles to bind an unwilling Small or Medium creature within 5 feet of yourself that has the Grappled, Incapacitated, or Restrained condition if you succeed on a DC 13 Dexterity (Sleight of Hand) check. While bound, a creature has Disadvantage on attack rolls, and the creature is Restrained if the Manacles are attached to a chain or hook that is fixed in place. Escaping the Manacles requires a successful DC 20 Dexterity (Sleight of Hand) check as an action. Bursting them requires a successful DC 25 Strength (Athletics) check as an action.
+As a Utilise action, you can use Manacles to bind an unwilling Small or Medium creature within 5 feet of yourself that has the Grappled, Incapacitated, or Restrained condition if you succeed on a DC 13 Dexterity (Sleight of Hand) check. While bound, a creature has **:d20-dis: Disadvantage**{ .d20 } on attack rolls, and the creature is Restrained if the Manacles are attached to a chain or hook that is fixed in place. Escaping the Manacles requires a successful DC 20 Dexterity (Sleight of Hand) check as an action. Bursting them requires a successful DC 25 Strength (Athletics) check as an action.
 
 Each set of Manacles comes with a key. Without the key, a creature can use *Thieves' Tools* to pick the Manacles' lock with a successful DC 15 Dexterity (Sleight of Hand) check.
 
@@ -356,7 +356,7 @@ A handheld steel Mirror is useful for personal cosmetics but also for peeking ar
 
 Adventuring gear, 10 sp, S.
 
-When you take the Attack action, you can replace one of your attacks with throwing a Net. Target a creature you can see within 15 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or have the Restrained condition until it escapes. The target succeeds automatically if it is Huge or larger.
+When you take the **:rsc-a: Attack**{ .rsc } action, you can replace one of your attacks with throwing a Net. Target a creature you can see within 15 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or have the Restrained condition until it escapes. The target succeeds automatically if it is Huge or larger.
 
 To escape, the target or a creature within 5 feet of it must take an action to make a DC 10 Strength (Athletics) check, freeing the Restrained creature on a success. Destroying the Net (AC 10; 5 HP; Immunity to Bludgeoning, Poison, and Psychic damage) also frees the target, ending the effect.
 
@@ -368,7 +368,7 @@ Adventuring gear, 1 sp, S.
 
 You can douse a creature, object, or space with Oil or use it as fuel, as detailed below.
 
-**Dousing a Creature or an Object**{ .inl } When you take the Attack action, you can replace one of your attacks with throwing an Oil flask. Target one creature or object within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or be covered in oil. If the target takes Fire damage before the oil dries (after 1 minute), the target takes an extra 5 Fire damage from burning oil.
+**Dousing a Creature or an Object**{ .inl } When you take the **:rsc-a: Attack**{ .rsc } action, you can replace one of your attacks with throwing an Oil flask. Target one creature or object within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or be covered in oil. If the target takes Fire damage before the oil dries (after 1 minute), the target takes an extra 5 Fire damage from burning oil.
 
 **Dousing a Space**{ .inl } You can take the Utilise action to pour an Oil flask on level ground to cover a 5-foot-square area within 5 feet of yourself. If lit, the oil burns until the end of the turn 2 rounds from when the oil was lit (or 12 seconds) and deals 5 Fire damage to any creature that enters the area or ends its turn there. A creature can take this damage only once per turn.
 
@@ -396,7 +396,7 @@ One sheet of Parchment can hold about 250 handwritten words.
 
 Adventuring gear, 5 gp
 
-Perfume comes in a 4-ounce vial. For 1 hour after applying Perfume to yourself, you have Advantage on Charisma (Persuasion) checks made to influence an Indifferent Humanoid within 5 feet of yourself.
+Perfume comes in a 4-ounce vial. For 1 hour after applying Perfume to yourself, you have **:d20-adv: Advantage**{ .d20 } on Charisma (Persuasion) checks made to influence an Indifferent Humanoid within 5 feet of yourself.
 
 ---
 
@@ -404,7 +404,7 @@ Perfume comes in a 4-ounce vial. For 1 hour after applying Perfume to yourself, 
 
 Adventuring gear, 5 cp, M.
 
-A Pole is 10 feet long. You can use it to touch something up to 10 feet away. If you must make a Strength (Athletics) check as part of a High or Long Jump, you can use the Pole to vault, giving yourself Advantage on the check.
+A Pole is 10 feet long. You can use it to touch something up to 10 feet away. If you must make a Strength (Athletics) check as part of a High or Long Jump, you can use the Pole to vault, giving yourself **:d20-adv: Advantage**{ .d20 } on the check.
 
 ---
 
@@ -412,7 +412,7 @@ A Pole is 10 feet long. You can use it to touch something up to 10 feet away. If
 
 Adventuring gear, 40 sp, XXL.
 
-You can use a Portable Ram to break down doors. When doing so, you gain a +4 bonus to the Strength check. One other character can help you use the ram, giving you Advantage on this check.
+You can use a Portable Ram to break down doors. When doing so, you gain a +4 bonus to the Strength check. One other character can help you use the ram, giving you **:d20-adv: Advantage**{ .d20 } on this check.
 
 ---
 
@@ -504,7 +504,7 @@ A Tinderbox is a small container holding flint, fire steel, and tinder (usually 
 
 Adventuring gear, 1 cp, M. (Stacks to 10)
 
-A Torch burns for 1 hour, casting Bright Light in a 20-foot radius and Dim Light for an additional 20 feet. When you take the Attack action, you can attack with the Torch, using it as a Simple Melee weapon. On a hit, the target takes 1 Fire damage.
+A Torch burns for 1 hour, casting Bright Light in a 20-foot radius and Dim Light for an additional 20 feet. When you take the **:rsc-a: Attack**{ .rsc } action, you can attack with the Torch, using it as a Simple Melee weapon. On a hit, the target takes 1 Fire damage.
 
 ---
 

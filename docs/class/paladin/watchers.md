@@ -41,7 +41,7 @@ You invest your presence with the warding power of your faith. As a **:rsc-b: Bo
 
 ### Level 7: Aura of the Sentinel
 
-When you or a creature of your choice within your Aura of Protection rolls for Initiative, it adds your Charisma modifier (minimum +1) to the roll.
+When you or a creature of your choice within your Aura of Protection rolls for **:d20-inv: Initiative**{.d20 }, it adds your Charisma modifier (minimum +1) to the roll.
 
 ### Level 15: Vigilant Rebuke
 

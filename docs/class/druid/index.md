@@ -222,7 +222,7 @@ You gain an [:option-feat-boon: Epic Boon](../../option/feat/feat-boon.md) feat 
 
 The vitality of nature constantly blooms within you, granting you the following benefits.
 
-**Evergreen Wild Shape**{ .inl } Whenever you roll Initiative and have no uses of Wild Shape left, you regain one expended use of it.
+**Evergreen Wild Shape**{ .inl } Whenever you roll **:d20-inv: Initiative**{.d20 } and have no uses of Wild Shape left, you regain one expended use of it.
 
 **Nature Magician**{ .inl } You can convert uses of Wild Shape into a spell slot (no action required). Choose a number of your unexpended uses of Wild Shape and convert them into a single spell slot, with each use contributing 2 spell levels. For example, if you convert two uses of Wild Shape, you produce a level 4 spell slot. Once you use this benefit, you can't do so again until you finish a **:rest-long: Long Rest**.
 

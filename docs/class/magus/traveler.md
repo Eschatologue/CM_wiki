@@ -57,13 +57,13 @@ At level 15, you only age 1 year for every 100 years that pass, and at level 20,
 
 You can use [Temporal Shift] whenever a creature that you can see within 30 feet fails a D20 Test. It must use the new result of its d20 roll.
 
-Also, at the beginning of each round of Initiative in combat, so long as you don't have the Incapacitated or Surprised condition, you can use your **:rsc-r: Reaction**{ .rsc } to roll Initiative again, using the new result.
+Also, at the beginning of each round of **:d20-inv: Initiative**{.d20 } in combat, so long as you don't have the Incapacitated or Surprised condition, you can use your **:rsc-r: Reaction**{ .rsc } to roll **:d20-inv: Initiative**{.d20 } again, using the new result.
 
 ### Level 15: Conjure Self
 
 *You have become so adept at the manipulation of time that you can conjure versions of yourself from the future to aid you.*
 
-As a **:rsc-a: Magic**{ .rsc } action, expend a level 3+ spell slot to conjure your **Future Self**, which shares your Initiative and acts immediately after you.
+As a **:rsc-a: Magic**{ .rsc } action, expend a level 3+ spell slot to conjure your **Future Self**, which shares your **:d20-inv: Initiative**{.d20 } and acts immediately after you.
 
 Your **Future Self** has your Hit Point Maximum, Ability Scores, and all features from your Species, Class, and other sources, including independent uses of [Temporal Shift], but shares your spell slots. It aids you independently to the best of its abilities.
 

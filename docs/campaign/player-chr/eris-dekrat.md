@@ -35,7 +35,7 @@ The spell takes effect immediately in addition of the normal effects and damage 
 
 **:spell-conc: Concentration**{ .inl } If the spell requires your :spell-conc: Concentration, you must concentrate on it as soon as it takes effect on hit.
 
-**:d20-save: Saving Throw**{ .inl } If the spell requires a saving throw when cast, the target makes the first save at a **:d20-disadv: Disadvantage**{ .d20 } on hit. On a Critical Hit, the target automatically fails the save. Other target (if any) make this save as normal.
+**:d20-save: Saving Throw**{ .inl } If the spell requires a saving throw when cast, the target makes the first save at a **:d20-dis: Disadvantage**{ .d20 } on hit. On a Critical Hit, the target automatically fails the save. Other target (if any) make this save as normal.
 
 **:d20-attack: Attack Roll**{ .inl } If the spell requires an attack roll, it instantly take effect when you hit with a weapon attack.
 
@@ -96,15 +96,15 @@ You brandish your weapon when you cast spells; weapons that are listed in **Weap
 
 ### Level 3: Spellbreaker's Mark
 
-When you roll for **Initiative** or as **:rsc-b: Bonus Action**{ .rsc } on your subsequent turn, you can place a **Spellbreaker's Mark** on a creature you can see. This Mark lasts until you use this feature on another creature or the target dies. 
+When you roll for **:d20-inv: Initiative**{.d20 } or as **:rsc-b: Bonus Action**{ .rsc } on your subsequent turn, you can place a **Spellbreaker's Mark** on a creature you can see. This Mark lasts until you use this feature on another creature or the target dies. 
 
 You the following benefits against your Mark:
 
 **Spellcasting Type**{ .inl } You know your Mark spellcasting ability (Intelligence, Wisdom, or Charisma), if any, and the level of the highest level spell it can cast.
 
-**Mage Breaker**{ .inl } Your Mark has **:d20-disadv: Disadvantage**{ .d20 } on to maintain Concentration on its spells against your attacks.
+**Mage Breaker**{ .inl } Your Mark has **:d20-dis: Disadvantage**{ .d20 } on to maintain Concentration on its spells against your attacks.
 
-**New Sneak Attack**{ .inl } You can add your **:class-phb24-rogue: Sneak Attack**{ .em } damage the damage roll on your weapon attack against your Mark as long as you don't have **:d20-disadv: Disadvantage**{ .d20 } on the attack. 
+**New Sneak Attack**{ .inl } You can add your **:class-phb24-rogue: Sneak Attack**{ .em } damage the damage roll on your weapon attack against your Mark as long as you don't have **:d20-dis: Disadvantage**{ .d20 } on the attack. 
 
 You can use this feature a number of times equals to your Proficiency Bonus. You regain one of its expended uses when you finish a **:rest-short: Short Rest**{ .em }, and you regain all expended uses when you finish a **:rest-long: Long Rest**{ .em }.
 

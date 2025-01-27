@@ -16,7 +16,7 @@ Some adventuring tasks—such as noticing dangers, hitting an enemt, and targeti
 
 ### Obscured Areas
 
-An area might be Lightly or Heavily Obscured. In a Lightly Obscured area—such as an area with Dim Light, patchy fog, or moderate foliage—you have **:d20-disadv: Disadvantage**{ .d20 } on Wisdom (Perception) checks that rely on sight.
+An area might be Lightly or Heavily Obscured. In a Lightly Obscured area—such as an area with Dim Light, patchy fog, or moderate foliage—you have **:d20-dis: Disadvantage**{ .d20 } on Wisdom (Perception) checks that rely on sight.
 
 A Heavily Obscured Area—such as an area with Darkness, heavy fog, or dense foliage—is opaque. You have the Blinded condition when trying to see something there.
 

@@ -44,9 +44,9 @@ When you reach a Ranger level specified in the Hunter Spells Table, you thereaft
 
 You gain one of the following feature options of your choice. Whenever you finish a **:rest-short: Short** or **:rest-long: Long Rest**, you can replace the chosen option with the other one.
 
-**Escape the Horde**{ .inl } Opportunity Attacks have Disadvantage against you.
+**Escape the Horde**{ .inl } Opportunity Attacks have **:d20-dis: Disadvantage**{ .d20 } against you.
 
-**Multiattack Defense**{ .inl } When a creature hits you with an attack roll, that creature has Disadvantage on all other attack rolls against you this turn.
+**Multiattack Defense**{ .inl } When a creature hits you with an attack roll, that creature has **:d20-dis: Disadvantage**{ .d20 } on all other attack rolls against you this turn.
 
 ### Level 11: Superior Hunter's Prey
 

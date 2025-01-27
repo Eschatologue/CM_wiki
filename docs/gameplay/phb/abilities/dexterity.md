@@ -6,7 +6,7 @@ icon: ability/dex
 
 Dexterity is an Ability Score and a key ability of Rogues, Rangers, Monks, and other wielders of weapon with :weapon-prop-finesse: **Finesse** property.
 
-Dexterity affects your Acrobatics, Sleight of Hand, and Stealth skills, as well as your attack rolls for ranged weapons and :weapon-prop-finesse: **Finesse** weapons. It also affects your Initiative and Armour Class.
+Dexterity affects your Acrobatics, Sleight of Hand, and Stealth skills, as well as your attack rolls for ranged weapons and :weapon-prop-finesse: **Finesse** weapons. It also affects your **:d20-inv: Initiative**{.d20 } and Armour Class.
 
 ## Dexterity Checks
 

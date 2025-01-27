@@ -57,7 +57,7 @@ The number of additional **:class-phb24-artificer: Infusion** your Arcane Armame
 
 ### Level 5: Extra Attack
 
-You can attack twice, instead of once, whenever you take the Attack action on your turn.
+You can attack twice, instead of once, whenever you take the **:rsc-a: Attack**{ .rsc } action on your turn.
 
 ### Level 5: Weapon Mastery
 

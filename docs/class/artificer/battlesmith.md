@@ -45,7 +45,7 @@ Your combat training and your experiments with magic have paid off in two ways:
 
 Your tinkering has borne you a companion, a steel defender. It's friendly to you and your companions, and it obeys your commands. See its game statistics in the Steel Defender stat block. You determine the creature's appearance and whether it has two legs or four; your choice has no effect on its game statistics.
 
-**The Defender in Combat**{ .inl } In combat, the Defender shares your Initiative count, but it takes its turn immediately after yours. It can move and use its Reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a **:rsc-b: Bonus Action**{ .rsc } on your turn to command it to take another action. That action can be one in its stat block or some other action. If you have the Incapacitated condition, the Defender can take any action of its choice, not just Dodge.
+**The Defender in Combat**{ .inl } In combat, the Defender shares your **:d20-inv: Initiative**{.d20 } count, but it takes its turn immediately after yours. It can move and use its Reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a **:rsc-b: Bonus Action**{ .rsc } on your turn to command it to take another action. That action can be one in its stat block or some other action. If you have the Incapacitated condition, the Defender can take any action of its choice, not just Dodge.
 
 **Repairing or Replacing the Defender**{ .inl } If the [:spell-lv0: Mending] spell is cast on the Defender, it regains 2d6 Hit Points. If it has died within the last hour, you can use your Smith's Tools as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of level 1 or higher. The Steel Defender returns to life after 1 minute with all its Hit Points restored.
 
@@ -53,7 +53,7 @@ At the end of a **:rest-long: Long Rest**, you can create a new Steel Defender i
 
 ### Level 5: Extra Attack
 
-You can attack twice, instead of once, whenever you take the Attack action on your turn.
+You can attack twice, instead of once, whenever you take the **:rsc-a: Attack**{ .rsc } action on your turn.
 
 In addition, you can cast one of your cantrip that has the casting time of an action in place of those attack.
 
@@ -111,6 +111,6 @@ Your Arcane Jolt and Steel Defender become more powerful:
 
     #### Reactions
 
-    **Deflect Attack**{ .inl } The defender imposes **:d20-disadv: Disadvantage**{ .d20 } on the attack roll of one creature it can see that is within 5 feet of it, provided the attack roll is against a creature other than the defender.
+    **Deflect Attack**{ .inl } The defender imposes **:d20-dis: Disadvantage**{ .d20 } on the attack roll of one creature it can see that is within 5 feet of it, provided the attack roll is against a creature other than the defender.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"

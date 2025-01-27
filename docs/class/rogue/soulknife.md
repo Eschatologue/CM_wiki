@@ -39,7 +39,7 @@ The first time you use this power after each Long Rest, you don't expend the Psi
 
 ### Level 3: Psychic Blades
 
-You can manifest your psionic power as shimmering blades of psychic energy. Whenever you take the Attack action, you can manifest a psychic blade from your free hand and make the attack with that blade. The magic blade has traits in the Psychic Blades table.
+You can manifest your psionic power as shimmering blades of psychic energy. Whenever you take the **:rsc-a: Attack**{ .rsc } action, you can manifest a psychic blade from your free hand and make the attack with that blade. The magic blade has traits in the Psychic Blades table.
 
 ##### Psychic Blades
 

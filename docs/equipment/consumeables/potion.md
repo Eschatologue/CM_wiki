@@ -17,7 +17,7 @@ In Crown & Misery, where combat can be exceptionally lethal, rules regarding pot
 
 *Potion, Common, M-*
 
-When you drink this potion, you gain a Clim Speed equal to your **:rsc-spd: Speed**{ .em } for 1 hour. During this time, you have Advantage on Strength (Athletics) checks you make to climb. The potion is separated into brown, silver, and gray layers resembling bands of stone. Shaking the bottle fails to mix the colors.
+When you drink this potion, you gain a Clim Speed equal to your **:rsc-spd: Speed**{ .em } for 1 hour. During this time, you have **:d20-adv: Advantage**{ .d20 } on Strength (Athletics) checks you make to climb. The potion is separated into brown, silver, and gray layers resembling bands of stone. Shaking the bottle fails to mix the colors.
 
 ---
 
@@ -93,11 +93,11 @@ Grants Temporary Hit Points equals to 4d4 plus your Constitution modifier.
 
 ---
 
-### Potion of Advantage 
+### Potion of **:d20-adv: Advantage**{ .d20 } 
 
 *Potion, Uncommon, M-*
 
-When you drink this potion, you gain Advantage on **one** D20 Test that you make within the next hour.
+When you drink this potion, you gain **:d20-adv: Advantage**{ .d20 } on **one** D20 Test that you make within the next hour.
 
 This potion takes the form of a sparkling, golden mist that moves and pours like water.
 

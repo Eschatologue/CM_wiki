@@ -127,7 +127,7 @@ You gain the [:option-feat-general: Ability Score Improvement](../../option/feat
 
 ### Level 5: Extra Attack
 
-You can attack twice instead of once whenever you take the Attack action on your turn.
+You can attack twice instead of once whenever you take the **:rsc-a: Attack**{ .rsc } action on your turn.
 
 ### Level 5: Tactical Shift
 
@@ -145,11 +145,11 @@ When you attack with a weapon whose mastery property you can use, you can replac
 
 ### Level 11: Two Extra Attacks
 
-You can attack three times instead of once whenever you take the Attack action on your turn.
+You can attack three times instead of once whenever you take the **:rsc-a: Attack**{ .rsc } action on your turn.
 
 ### Level 13: Studied Attacks
 
-You study your opponents and learn from each attack you make. If you make an attack roll against a creature and miss, you have Advantage on your next attack roll against that creature before the end of your next turn.
+You study your opponents and learn from each attack you make. If you make an attack roll against a creature and miss, you have **:d20-adv: Advantage**{ .d20 } on your next attack roll against that creature before the end of your next turn.
 
 ### Level 19: Epic Boon
 
@@ -157,7 +157,7 @@ You gain an [:option-feat-boon: Epic Boon](../../option/feat/feat-boon.md) feat 
 
 ### Level 20: Three Extra Attacks
 
-You can attack four times instead of once whenever you take the Attack action on your turn.
+You can attack four times instead of once whenever you take the **:rsc-a: Attack**{ .rsc } action on your turn.
 
 --8<-- "includes/snippets/item-mastery.md"
 --8<-- "includes/snippets/skills.md"

@@ -46,7 +46,7 @@ An aura radiates from you in a 30-foot Emanation for the duration. While in the 
 **Components:** V   
 **Duration:** Concentration, up to 10 minutes
 
-An aura radiates from you in a 30-foot Emanation for the duration. While in the aura, you and your allies have Resistance to Poison damage and Advantage on saving throws to avoid or end effects that include the Blinded, Charmed, Deafened, Frightened, Paralyzed, Poisoned, or Stunned condition.
+An aura radiates from you in a 30-foot Emanation for the duration. While in the aura, you and your allies have Resistance to Poison damage and **:d20-adv: Advantage**{ .d20 } on saving throws to avoid or end effects that include the Blinded, Charmed, Deafened, Frightened, Paralyzed, Poisoned, or Stunned condition.
 
 > **Classes:** Cleric, Paladin
 
@@ -96,7 +96,7 @@ Alternatively, target a nonmagical plant that isn't a creature, such as a tree o
 **Components:** V, S   
 **Duration:** 1 hour
 
-One creature you can see within range makes a Wisdom saving throw. It does so with Advantage if you or your allies are fighting it. On a failed save, the target has the Charmed condition until the spell ends or until you or your allies damage it. The Charmed creature is Friendly to you. When the spell ends, the target knows it was Charmed by you.
+One creature you can see within range makes a Wisdom saving throw. It does so with **:d20-adv: Advantage**{ .d20 } if you or your allies are fighting it. On a failed save, the target has the Charmed condition until the spell ends or until you or your allies damage it. The Charmed creature is Friendly to you. When the spell ends, the target knows it was Charmed by you.
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 4.
 
@@ -134,7 +134,7 @@ Each creature in a 10-foot-radius Sphere centered on a point you choose within r
 |:-:|-----|
 | 1| The target doesn't take an action, and it uses all its movement to move. Roll 1d4 for the direction: **1**, north; **2**, east; **3**, south; or **4**, west.|
 |2-6 | The target doesn't move or take actions. |
-|7-8 | The target doesn't move, and it takes the Attack action to make one melee attack against a random creature within reach. If none are within reach, the target takes no action. |
+|7-8 | The target doesn't move, and it takes the **:rsc-a: Attack**{ .rsc } action to make one melee attack against a random creature within reach. If none are within reach, the target takes no action. |
 | 9-10 | The target chooses its behavior. |
 
 At the end of each of its turns, an affected target repeats the save, ending the spell on itself on a success.
@@ -263,7 +263,7 @@ If you cast the spell more than once before finishing a **:rest-long: Long Rest*
 **Components:** V, S   
 **Duration:** Concentration, up to 1 minute
 
-One Beast you can see within range must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The target has Advantage on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.
+One Beast you can see within range must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The target has **:d20-adv: Advantage**{ .d20 } on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.
 
 You have a telepathic link with the Charmed target while the two of you are on the same plane of existence. On your turn, you can use this link to issue commands to the target (no action required), such as "Attack that creature," "Move over there," or "Fetch that object." The target does its best to obey on its turn. If it completes an order and doesn't receive further direction from you, it acts and moves as it likes, focusing on protecting itself.
 
@@ -418,7 +418,7 @@ In addition, the target can spend 5 feet of movement to automatically escape fro
 
 You summon a giant centipede, spider, or wasp (chosen when you cast the spell). It manifests in an unoccupied space you can see within range and uses the **Giant Insect** stat block. The form you choose determines certain details in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
 
-The creature is an ally to you and your allies. In combat, the creature shares your Initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its movement to avoid danger.
+The creature is an ally to you and your allies. In combat, the creature shares your **:d20-inv: Initiative**{.d20 } count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its movement to avoid danger.
 
 ***Using a Higher-Level Spell Slot.*** Use the spell slot's level for the spell's level in the stat block.
 
@@ -649,7 +649,7 @@ A *Disintegrate* spell targeting the globe destroys it without harming anything 
 **Components:** V, S   
 **Duration:** Concentration, up to 1 minute
 
-You tap into the nightmares of a creature you can see within range and create an illusion of its deepest fears, visible only to that creature. The target makes a Wisdom saving throw. On a failed save, the target takes 4d10 Psychic damage and has Disadvantage on ability checks and attack rolls for the duration. On a successful save, the target takes half as much damage, and the spell ends.
+You tap into the nightmares of a creature you can see within range and create an illusion of its deepest fears, visible only to that creature. The target makes a Wisdom saving throw. On a failed save, the target takes 4d10 Psychic damage and has **:d20-dis: Disadvantage**{ .d20 } on ability checks and attack rolls for the duration. On a successful save, the target takes half as much damage, and the spell ends.
 
 For the duration, the target makes a Wisdom saving throw at the end of each of its turns. On a failed save, it takes the Psychic damage again. On a successful save, the spell ends.
 
@@ -739,7 +739,7 @@ When a creature moves into the spell's area for the first time on a turn or star
 
 You call forth a spirit that embodies death. The spirit manifests in an unoccupied space you can see within range and uses the **reaper spirit** stat block. The spirit disappears when it is reduced to 0 hit points or when the spell ends.
 
-The spirit is an ally to you and your companions. In combat, the spirit shares your initiative count and takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue the spirit any commands, it takes the Dodge action and uses its movement to avoid danger.
+The spirit is an ally to you and your companions. In combat, the spirit shares your Initiative count and takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue the spirit any commands, it takes the Dodge action and uses its movement to avoid danger.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, use the higher level wherever the spell's level appears in the reaper spirit stat block.
 
@@ -819,7 +819,7 @@ Creatures within 30 feet of the sphere have disadvantage on Wisdom (Perception) 
 
 You call forth an aberrant spirit. It manifests in an unoccupied space that you can see within range and uses the **Aberrant Spirit** stat block. When you cast the spell, choose Beholderkin, Mind Flayer, or Slaad. The creature resembles an Aberration of that kind, which determines certain details in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
 
-The creature is an ally to you and your allies. In combat, it shares your Initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its movement to avoid danger.
+The creature is an ally to you and your allies. In combat, it shares your **:d20-inv: Initiative**{.d20 } count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its movement to avoid danger.
 
 ***Using a Higher-Level Spell Slot.*** Use the spell slot's level for the spell's level in the stat block.
 
@@ -837,7 +837,7 @@ The creature is an ally to you and your allies. In combat, it shares your Initia
 
 You call forth the spirit of a Construct. It manifests in an unoccupied space that you can see within range and uses the **Construct Spirit** stat block. When you cast the spell, choose a material: Clay, Metal, or Stone. The creature resembles an animate statue (you determine the appearance) made of the chosen material, which determines certain details in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
 
-The creature is an ally to you and your allies. In combat, the creature shares your Initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its movement to avoid danger.
+The creature is an ally to you and your allies. In combat, the creature shares your **:d20-inv: Initiative**{.d20 } count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its movement to avoid danger.
 
 ***Using a Higher-Level Spell Slot.*** Use the spell slot's level for the spell's level in the stat block.
 
@@ -855,7 +855,7 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 You call forth an Elemental spirit. It manifests in an unoccupied space that you can see within range and uses the **Elemental Spirit** stat block. When you cast the spell, choose an element: Air, Earth, Fire, or Water. The creature resembles a bipedal form wreathed in the chosen element, which determines certain details in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
 
-The creature is an ally to you and your allies. In combat, the creature shares your Initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its movement to avoid danger.
+The creature is an ally to you and your allies. In combat, the creature shares your **:d20-inv: Initiative**{.d20 } count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its movement to avoid danger.
 
 ***Using a Higher-Level Spell Slot.*** Use the spell slot's level for the spell's level in the stat block.
 
@@ -873,7 +873,7 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 You utter foul words, summoning one demon from the chaos of the Abyss. You choose the demon's type, which must be one of challenge rating 5 or lower, such as a **shadow demon** or a **barlgura**. The demon appears in an unoccupied space you can see within range, and the demon disappears when it drops to 0 hit points or when the spell ends.
 
-Roll initiative for the demon, which has its own turns. When you summon it and on each of your turns thereafter, you can issue a verbal command to it (requiring no action on your part), telling it what it must do on its next turn. If you issue no command, it spends its turn attacking any creature within reach that has attacked it.
+Roll Initiative for the demon, which has its own turns. When you summon it and on each of your turns thereafter, you can issue a verbal command to it (requiring no action on your part), telling it what it must do on its next turn. If you issue no command, it spends its turn attacking any creature within reach that has attacked it.
 
 At the end of each of the demon's turns, it makes a Charisma saving throw. The demon has disadvantage on this saving throw if you say its true name. On a failed save, the demon continues to obey you. On a successful save, your control of the demon ends for the rest of the duration, and the demon spends its turns pursuing and attacking the nearest non-demons to the best of its ability. If you stop concentrating on the spell before it reaches its full duration, an uncontrolled demon doesn't disappear for 1d6 rounds if it still has hit points.
 

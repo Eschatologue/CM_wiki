@@ -58,7 +58,7 @@ When a creature you can see hits another creature within 5 feet of you with an a
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-When a creature you can see attacks a target other than you that is within 5 feet of you, you can take a **:rsc-r: Reaction**{ .rsc } to interpose your Shield if you're holding one. You impose **:d20-disadv: Disadvantage**{ .d20 } on the triggering attack roll and all other attack rolls against the target until the start of your next turn if you remain within 5 feet of the target.
+When a creature you can see attacks a target other than you that is within 5 feet of you, you can take a **:rsc-r: Reaction**{ .rsc } to interpose your Shield if you're holding one. You impose **:d20-dis: Disadvantage**{ .d20 } on the triggering attack roll and all other attack rolls against the target until the start of your next turn if you remain within 5 feet of the target.
 
 ---
 
@@ -82,6 +82,6 @@ When you make the extra attack of the :weapon-prop-light: **Light** weapon prope
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-When you do damage with Unarmed Strikes, it deals :dmg-bldg: Bludgeoning damage equal to :die-d6: 1d6 + your Strength modifier on a hit. If you have two free hands, the :die-d6: d6 damage die becomes a :die-d8: d8.
+When you do damage with **:rsc-a: Unarmed Strike**{ .rsc } , it deals :dmg-bldg: Bludgeoning damage equal to :die-d6: 1d6 + your Strength modifier on a hit. If you have two free hands, the :die-d6: d6 damage die becomes a :die-d8: d8.
 
 At the start of each of your turns, you can deal 1d4 :dmg-bldg: Bludgeoning damage to one creature that receive the Grappled condition from you.

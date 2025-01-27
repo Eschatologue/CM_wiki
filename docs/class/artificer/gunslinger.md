@@ -60,7 +60,7 @@ At certain Artificer levels, your Arcane Firearm gains more Upgrades: at level 5
 
 ### Level 5: Extra Attack
 
-You can attack twice, instead of once, whenever you take the Attack action on your turn.
+You can attack twice, instead of once, whenever you take the **:rsc-a: Attack**{ .rsc } action on your turn.
       
 Moreover, if you use your action to cast a spell, you can make one Arcane Firearm attack as a **:rsc-b: Bonus Action**{ .rsc } on that turn.
 
@@ -72,7 +72,7 @@ This bonus damage is 2d6 for a level 1 spell slot and it increases by 1d6 for ea
 
 ### Level 9: Quickdraw
 
-You always seem to shoot first. You can add your Intelligence modifier (minimum of +1) to your Initiative rolls. Also, if you roll Initiative and don't have the Surprised or the Incapacitated conditon, you can use a **:rsc-r: Reaction**{ .rsc } to make one attack with your Arcane Firearm.
+You always seem to shoot first. You can add your Intelligence modifier (minimum of +1) to your **:d20-inv: Initiative**{.d20 } rolls. Also, if you roll **:d20-inv: Initiative**{.d20 } and don't have the Surprised or the Incapacitated conditon, you can use a **:rsc-r: Reaction**{ .rsc } to make one attack with your Arcane Firearm.
 
 ### Level 15: Master Gunslinger
 
@@ -94,7 +94,7 @@ When one of your Upgrades requires a creature to make a saving throw, it makes i
 
     _**Prerequisite:** Level 3+ Artificer_
 
-    When you make a ranged attack with your Arcane Firearm while you have a hostile creature within 5 feet of you, you do not have Disadvantage on your attack roll.
+    When you make a ranged attack with your Arcane Firearm while you have a hostile creature within 5 feet of you, you do not have **:d20-dis: Disadvantage**{ .d20 } on your attack roll.
 
     ---
 
@@ -120,7 +120,7 @@ When one of your Upgrades requires a creature to make a saving throw, it makes i
 
     _**Prerequisite:** Level 3+ Artificer_
 
-    You modify your Arcane Firearm to be especially accurate. You ignore the **:d20-disadv: Disadvantage**{ .d20 } imposed on Arcane Firearm attacks that you make at the weapon's long range.
+    You modify your Arcane Firearm to be especially accurate. You ignore the **:d20-dis: Disadvantage**{ .d20 } imposed on Arcane Firearm attacks that you make at the weapon's long range.
 
     ---
 
@@ -174,7 +174,7 @@ When one of your Upgrades requires a creature to make a saving throw, it makes i
 
     Once per turn when you hit a target with an Arcane Firearm attack, you can force it to make a Strength saving throw. On a failed save, it has the Incapacitated condition until the start of your next turn, or until it takes damage or is forced to make a saving throw.
 
-    Large and larger creatures have Advantage on the Strength saving throw to resist the effects of this Upgrade.
+    Large and larger creatures have **:d20-adv: Advantage**{ .d20 } on the Strength saving throw to resist the effects of this Upgrade.
 
     ---
 

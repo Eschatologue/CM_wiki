@@ -37,9 +37,9 @@ The spells in Dunamancy Spells Table are added to your class spell list.
 
 As a **:rsc-a: Magic**{ .rsc } action, you can alter the weight of one object or creature you can see within 30 feet of you. The object or creature must be Large or smaller. The target's weight is halved or doubled for up to 1 minute or until your Concentration ends (as if you were Concentrating on a spell). Upon reaching level 10 in this class, you can target an object or a creature that is Huge or smaller.
 
-**Halved Weight**{ .inl } The creature's Speed increases by 10 feet, it can jump twice as far as normal, and it has Disadvantage on Strength checks and Strength saves.
+**Halved Weight**{ .inl } The creature's Speed increases by 10 feet, it can jump twice as far as normal, and it has **:d20-dis: Disadvantage**{ .d20 } on Strength checks and Strength saves.
 
-***Doubled Weight***. The creature's Speed is reduced by 10 feet, and it has Advantage on Strength checks and Strength saves.
+***Doubled Weight***. The creature's Speed is reduced by 10 feet, and it has **:d20-adv: Advantage**{ .d20 } on Strength checks and Strength saves.
 
 ### Level 6: Gravity Well
 

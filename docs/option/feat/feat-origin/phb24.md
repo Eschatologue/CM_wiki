@@ -15,10 +15,10 @@ These Origin feats are included in the PHB'24
 Always on the lookout for danger, you gain the following benefits:
 
 **Initiative Proficiency**{ .inl }  
-When you roll Initiative, you can add your Proficiency Bonus to the roll.
+When you roll **:d20-inv: Initiative**{.d20 }, you can add your Proficiency Bonus to the roll.
 
 **Initiative Swap**{ .inl }  
-Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat. You can't make this swap if you or the ally is Incapacitated.
+Immediately after you roll **:d20-inv: Initiative**{.d20 }, you can swap your **:d20-inv: Initiative**{.d20 } with the **:d20-inv: Initiative**{.d20 } of one willing ally in the same combat. You can't make this swap if you or the ally is Incapacitated.
 
 ---
 
@@ -78,7 +78,7 @@ You have a number of Luck Points equal to your Proficiency Bonus. You can spend 
 Immediately after you roll a d20, you can spend 1 Luck Point to give yourself **:d20-adv: Advantage**{ .d20 } on the roll.
     
 **Disadvantage**{ .inl }  
-When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to impose **:d20-disadv: Disadvantage**{ .d20 } on that roll.
+When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to impose **:d20-dis: Disadvantage**{ .d20 } on that roll.
 
 ---
 
@@ -141,16 +141,16 @@ You gain proficiency in any combination of three skills or tools of your choice.
 Accustomed to brawling, you gain the following benefits:
 
 **Enhanced Unarmed Strike**{ .inl }  
-When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning Damage equal to 1d4 + your Strength modifier, instead of the normal damage of an Unarmed Strike.
+When you hit with your **:rsc-a: Unarmed Strike**{ .rsc } and deal damage, you can deal Bludgeoning Damage equal to 1d4 + your Strength modifier, instead of the normal damage of an **:rsc-a: Unarmed Strike**{ .rsc }.
     
 **Damage Rerolls**{ .inl }  
-Whenever you roll a damage die for your Unarmed Strike, you can reroll the die if it rolls a 1, and you must use the new roll.
+Whenever you roll a damage die for your **:rsc-a: Unarmed Strike**{ .rsc } , you can reroll the die if it rolls a 1, and you must use the new roll.
 
 **Improvised Weapon**{ .inl }  
 You have proficiency with Improvised weapons.
 
 **Push**{ .inl }  
-When you hit a creature with an Unarmed Strike as part of the Attack action on your turn, you can deal damage to the target and push it 5 feet away from you. You can use this benefit only once per turn.
+When you hit a creature with an **:rsc-a: Unarmed Strike**{ .rsc } as part of the **:rsc-a: Attack**{ .rsc } action on your turn, you can deal damage to the target and push it 5 feet away from you. You can use this benefit only once per turn.
 
 ---
 

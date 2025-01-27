@@ -46,5 +46,5 @@ In your treasure hunting, you have learned how to maximize use of magic items, g
 
 ### Level 17: Thieves' Reflexes
 
-You are adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal Initiative and your second turn at your Initiative minus 10.
+You are adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal **:d20-inv: Initiative**{.d20 } and your second turn at your **:d20-inv: Initiative**{.d20 } minus 10.
  

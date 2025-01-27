@@ -82,7 +82,7 @@ An aura radiates from you in a 30-foot Emanation for the duration. When you crea
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-Choose any number of creatures within range. For the duration, each target has Advantage on Wisdom saving throws and Death Saving Throws and regains the maximum number of Hit Points possible from any healing.
+Choose any number of creatures within range. For the duration, each target has **:d20-adv: Advantage**{ .d20 } on Wisdom saving throws and Death Saving Throws and regains the maximum number of Hit Points possible from any healing.
 
 > **Classes:** Cleric
 
@@ -98,8 +98,8 @@ Choose any number of creatures within range. For the duration, each target has A
 
 You touch a creature, which must succeed on a Wisdom saving throw or become cursed for the duration. Until the curse ends, the target suffers one of the following effects of your choice:
 
-- Choose one ability. The target has Disadvantage on ability checks and saving throws made with that ability.
-- The target has Disadvantage on attack rolls against you.
+- Choose one ability. The target has **:d20-dis: Disadvantage**{ .d20 } on ability checks and saving throws made with that ability.
+- The target has **:d20-dis: Disadvantage**{ .d20 } on attack rolls against you.
 - In combat, the target must succeed on a Wisdom saving throw at the start of each of its turns or be forced to take the Dodge action on that turn.
 - If you deal damage to the target with an attack roll or a spell, the target takes an extra 1d8 Necrotic damage.
 
@@ -207,7 +207,7 @@ A creature that sees the sensor (such as a creature benefiting from *See Invisib
 
 You conjure nature spirits that appear as a Large pack of spectral, intangible animals in an unoccupied space you can see within range. The pack lasts for the duration, and you choose the spirits' animal form, such as wolves, serpents, or birds.
 
-You have Advantage on Strength saving throws while you're within 5 feet of the pack, and when you move on your turn, you can also move the pack up to 30 feet to an unoccupied space you can see.
+You have **:d20-adv: Advantage**{ .d20 } on Strength saving throws while you're within 5 feet of the pack, and when you move on your turn, you can also move the pack up to 30 feet to an unoccupied space you can see.
 
 Whenever the pack moves within 10 feet of a creature you can see and whenever a creature you can see enters a space within 10 feet of the pack or ends its turn there, you can force that creature to make a Dexterity saving throw. On a failed save, the creature takes 3d10 Slashing damage. A creature makes this save only once per turn.
 
@@ -451,7 +451,7 @@ You touch a willing creature. For the duration, the target gains a Fly Speed of 
 
 A willing creature you touch shape-shifts, along with everything it's wearing and carrying, into a misty cloud for the duration. The spell ends on the target if it drops to 0 Hit Points or if it takes a **:rsc-a: Magic**{ .rsc } action to end the spell on itself.
 
-While in this form, the target's only method of movement is a Fly Speed of 10 feet, and it can hover. The target can enter and occupy the space of another creature. The target has Resistance to Bludgeoning, Piercing, and Slashing damage; it has Immunity to the Prone condition; and it has Advantage on Strength, Dexterity, and Constitution saving throws. The target can pass through narrow openings, but it treats liquids as though they were solid surfaces.
+While in this form, the target's only method of movement is a Fly Speed of 10 feet, and it can hover. The target can enter and occupy the space of another creature. The target has Resistance to Bludgeoning, Piercing, and Slashing damage; it has Immunity to the Prone condition; and it has **:d20-adv: Advantage**{ .d20 } on Strength, Dexterity, and Constitution saving throws. The target can pass through narrow openings, but it treats liquids as though they were solid surfaces.
 
 The target can't talk or manipulate objects, and any objects it was carrying or holding can't be dropped, used, or otherwise interacted with. Finally, the target can't attack or cast spells.
 
@@ -499,7 +499,7 @@ When the glyph is triggered, the stored spell takes effect. If the spell has a t
 **Components:** V, S, M (a shaving of licorice root)  
 **Duration:** Concentration, up to 1 minute
 
-Choose a willing creature that you can see within range. Until the spell ends, the target's Speed is doubled, it gains a +2 bonus to Armour Class, it has Advantage on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used to take only the Attack (one attack only), Dash, Disengage, Hide, or Utilize action.
+Choose a willing creature that you can see within range. Until the spell ends, the target's Speed is doubled, it gains a +2 bonus to Armour Class, it has **:d20-adv: Advantage**{ .d20 } on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used to take only the Attack (one attack only), Dash, Disengage, Hide, or Utilize action.
 
 When the spell ends, the target is Incapacitated and has a Speed of 0 until the end of its next turn, as a wave of lethargy washes over it.
 
@@ -640,7 +640,7 @@ You create a 10-foot-radius, 20-foot-tall Cylinder of magical energy centered on
 Choose one or more of the following types of creatures: Celestials, Elementals, Fey, Fiends, or Undead. The circle affects a creature of the chosen type in the following ways:
 
 - The creature can't willingly enter the Cylinder by nonmagical means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma saving throw.
-- The creature has Disadvantage on attack rolls against targets within the Cylinder.
+- The creature has **:d20-dis: Disadvantage**{ .d20 } on attack rolls against targets within the Cylinder.
 - Targets within the Cylinder can't be possessed by or gain the Charmed or Frightened condition from the creature.
 
 Each time you cast this spell, you can cause its magic to operate in the reverse direction, preventing a creature of the specified type from leaving the Cylinder and protecting targets outside it.
@@ -855,7 +855,7 @@ Ground in the Cylinder is Difficult Terrain. When a creature enters the Cylinder
 
 You alter time around up to six creatures of your choice in a 40-foot Cube within range. Each target must succeed on a Wisdom saving throw or be affected by this spell for the duration.
 
-An affected target's Speed is halved, it takes a -2 penalty to AC and Dexterity saving throws, and it can't take Reactions. On its turns, it can take either an action or a **:rsc-b: Bonus Action**{ .rsc }, not both, and it can make only one attack if it takes the Attack action. If it casts a spell with a Somatic component, there is a 25 percent chance the spell fails as a result of the target making the spell's gestures too slowly.
+An affected target's Speed is halved, it takes a -2 penalty to AC and Dexterity saving throws, and it can't take Reactions. On its turns, it can take either an action or a **:rsc-b: Bonus Action**{ .rsc }, not both, and it can make only one attack if it takes the **:rsc-a: Attack**{ .rsc } action. If it casts a spell with a Somatic component, there is a 25 percent chance the spell fails as a result of the target making the spell's gestures too slowly.
 
 An affected target repeats the save at the end of each of its turns, ending the spell on itself on a success.
 
@@ -961,7 +961,7 @@ Each creature that starts its turn in the Sphere must succeed on a Constitution 
 
 You call forth a Fey spirit. It manifests in an unoccupied space that you can see within range and uses the **Fey Spirit** stat block. When you cast the spell, choose a mood: Fuming, Mirthful, or Tricksy. The creature resembles a Fey creature of your choice marked by the chosen mood, which determines certain details in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
 
-The creature is an ally to you and your allies. In combat, the creature shares your Initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its movement to avoid danger.
+The creature is an ally to you and your allies. In combat, the creature shares your **:d20-inv: Initiative**{.d20 } count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its movement to avoid danger.
 
 ***Using a Higher-Level Spell Slot.*** Use the spell slot's level for the spell's level in the stat block.
 
@@ -987,7 +987,7 @@ You utter foul words, summoning demons from the chaos of the Abyss. Roll on the 
 
 The DM chooses the demons, such as **manes** or **dretches**, and you choose the unoccupied spaces you can see within range where they appear. A summoned demon disappears when it drops to 0 hit points or when the spell ends.
 
-The demons are hostile to all creatures, including you. Roll initiative for the summoned demons as a group, which has its own turns. The demons pursue and attack the nearest non-demons to the best of their ability.
+The demons are hostile to all creatures, including you. Roll Initiative for the summoned demons as a group, which has its own turns. The demons pursue and attack the nearest non-demons to the best of their ability.
 
 As part of casting the spell, you can form a circle on the ground with the blood used as a material component. The circle is large enough to encompass your space. While the spell lasts, the summoned demons can't cross the circle or harm it, and they can't target anyone within it. Using the material component in this manner consumes it when the spell ends.
 
@@ -1007,7 +1007,7 @@ As part of casting the spell, you can form a circle on the ground with the blood
 
 You call forth a shadowy spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the **Shadow Spirit** stat block. When you cast the spell, choose an emotion: Fury, Despair, or Fear. The creature resembles a misshapen biped marked by the chosen emotion, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.
 
-The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
+The creature is an ally to you and your companions. In combat, the creature shares your Initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, use the higher level wherever the spell's level appears in the stat block.
 
@@ -1023,7 +1023,7 @@ The creature is an ally to you and your companions. In combat, the creature shar
 
 You call forth an Undead spirit. It manifests in an unoccupied space that you can see within range and uses the **Undead Spirit** stat block. When you cast the spell, choose the creature's form: Ghostly, Putrid, or Skeletal. The spirit resembles an Undead creature with the chosen form, which determines certain details in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
 
-The creature is an ally to you and your allies. In combat, the creature shares your Initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its movement to avoid danger.
+The creature is an ally to you and your allies. In combat, the creature shares your **:d20-inv: Initiative**{.d20 } count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its movement to avoid danger.
 
 ***Using a Higher-Level Spell Slot.*** Use the spell slot's level for the spell's level in the stat block.
 

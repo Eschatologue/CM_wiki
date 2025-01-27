@@ -35,13 +35,13 @@ In addition, you no longer need to forgo any Sneak Attack dice in order to use t
 
 ### Level 13: Ambush Master
 
-You excel at leading ambushes and acting first in a fight. You have Advantage on Initiative rolls. In addition, the following effect is now among your [Cunning Strike] options.
+You excel at leading ambushes and acting first in a fight. You have **:d20-adv: Advantage**{ .d20 } on **:d20-inv: Initiative**{.d20 } rolls. In addition, the following effect is now among your [Cunning Strike] options.
 
-**Ambush Strike (Cost: 1d6)**{ .inl } All attack rolls made against the target have Advantage until the start of your next turn. You can only use this option during the first round of a combat. 
+**Ambush Strike (Cost: 1d6)**{ .inl } All attack rolls made against the target have **:d20-adv: Advantage**{ .d20 } until the start of your next turn. You can only use this option during the first round of a combat. 
 
 ### Level 17: Sudden Strike
 
-You can strike with deadly speed. If you take the Attack action on your turn, you can make one additional attack as a  **:rsc-b: Bonus Action**{ .rsc }. This attack can benefit from your Sneak Attack even if you have already used it this turn, but you can't use your Sneak Attack against the same target more than once in a turn.
+You can strike with deadly speed. If you take the **:rsc-a: Attack**{ .rsc } action on your turn, you can make one additional attack as a  **:rsc-b: Bonus Action**{ .rsc }. This attack can benefit from your Sneak Attack even if you have already used it this turn, but you can't use your Sneak Attack against the same target more than once in a turn.
 
 
 [Uncanny Dodge]: index.md#level-5-uncanny-dodge

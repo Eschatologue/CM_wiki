@@ -96,7 +96,7 @@ You have the [:spell-lv2: Misty Step] spell always prepared. When you cast this 
 
 ### Level 17: Will of the Gods
 
-When you roll Initiative with no uses of your Channel Divinity remaining, you instantly regain one expended use. Moreover, whenever you are Concentrating on a Cleric spell and forced to make a saving throw, you gain a bonus to the saving throw equal to your Charisma modifier (minimum of +1).
+When you roll **:d20-inv: Initiative**{.d20 } with no uses of your Channel Divinity remaining, you instantly regain one expended use. Moreover, whenever you are Concentrating on a Cleric spell and forced to make a saving throw, you gain a bonus to the saving throw equal to your Charisma modifier (minimum of +1).
 
 ###### :material-book-edit: Written by *Eschatologue*
 

@@ -25,9 +25,9 @@ Your bond with the natural world gives you the following benefits:
 
 ### Level 3: Lashing Vines
 
-You know the *Thorn Whip* Cantrip and the range increases to 60 feet. When you hit a target with this cantrip, you can take a **:rsc-b: Bonus Action**{ .rsc } to make one weapon attack or Unarmed Strike against the target with Advantage.
+You know the *Thorn Whip* Cantrip and the range increases to 60 feet. When you hit a target with this cantrip, you can take a **:rsc-b: Bonus Action**{ .rsc } to make one weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } against the target with Advantage.
 
-Your reach with your Melee weapon and Unarmed Strikes increases by 5 feet when you reach Ranger level 7.
+Your reach with your Melee weapon and **:rsc-a: Unarmed Strike**{ .rsc } increases by 5 feet when you reach Ranger level 7.
 
 ### Level 3: Grove Keeper Spells
 
@@ -63,7 +63,7 @@ Once during your turn, You can command it to move up to 30 feet (No action requi
 
 **Overgrowth**{ .inl } The ground within the aura is Difficult Terrain for your enemies. When an enemy creature moves into or within the area, it takes 2d6 :dmg-prcg: Piercing damage for every 5 feet it travels.
 
-**Guardian Aura**{ .inl } While in the aura, you and your allies have Advantage on all saving throws against spells. Additionally, At the start of each of your or your allies turn, regain 2d6 Hit Points.
+**Guardian Aura**{ .inl } While in the aura, you and your allies have **:d20-adv: Advantage**{ .d20 } on all saving throws against spells. Additionally, At the start of each of your or your allies turn, regain 2d6 Hit Points.
 
 Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. You can also restore your use of it by expending a level 4 spell slot.
 

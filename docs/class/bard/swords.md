@@ -29,7 +29,7 @@ Whenever you gain a Bard level, you can replace the feat you chose with a differ
 
 ### Level 3: Blade Flourish
 
-Whenever you take the Attack action on your turn, your walking speed increases by 10 feet until the end of the turn, and if a weapon attack that you make as part of this action hits a creature, you can use one of the following Blade Flourish options of your choice. You can use only one Blade Flourish option per turn.
+Whenever you take the **:rsc-a: Attack**{ .rsc } action on your turn, your walking speed increases by 10 feet until the end of the turn, and if a weapon attack that you make as part of this action hits a creature, you can use one of the following Blade Flourish options of your choice. You can use only one Blade Flourish option per turn.
 
 **Defensive Flourish**{ .inl } You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit. The damage equals the number you roll on the Bardic Inspiration die. You also add the number rolled to your AC until the start of your next turn.
 
@@ -39,7 +39,7 @@ Whenever you take the Attack action on your turn, your walking speed increases b
 
 ### Level 6: Extra Attack
 
-You can attack twice, instead of once, whenever you take the Attack action on your turn.
+You can attack twice, instead of once, whenever you take the **:rsc-a: Attack**{ .rsc } action on your turn.
 
 ### Level 6: Weapon Mastery
 

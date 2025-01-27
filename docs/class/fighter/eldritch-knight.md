@@ -79,11 +79,11 @@ You can have up to two bonded weapons, but can summon only one at a time with yo
 
 ### Level 7: War Magic
 
-When you take the Attack action on your turn, you can replace one of the attacks with a casting of one of your Wizard cantrips that has a casting time of an action.
+When you take the **:rsc-a: Attack**{ .rsc } action on your turn, you can replace one of the attacks with a casting of one of your Wizard cantrips that has a casting time of an action.
  
 ### Level 10: Eldritch Strike
 
-You learn how to make your weapon strikes undercut a creature's ability to withstand your spells. When you hit a creature with an attack using a weapon, that creature has Disadvantage on the next saving throw it makes against a spell you cast before the end of your next turn.
+You learn how to make your weapon strikes undercut a creature's ability to withstand your spells. When you hit a creature with an attack using a weapon, that creature has **:d20-dis: Disadvantage**{ .d20 } on the next saving throw it makes against a spell you cast before the end of your next turn.
 
 ### Level 15: Arcane Charge
 
@@ -91,4 +91,4 @@ When you use your Action Surge, you can teleport up to 30 feet to an unoccupied 
 
 ### Level 18: Improved War Magic
 
-When you take the Attack action on your turn, you can replace two of the attacks with a casting of one of your Wizard spells that has a casting time of an action.
+When you take the **:rsc-a: Attack**{ .rsc } action on your turn, you can replace two of the attacks with a casting of one of your Wizard spells that has a casting time of an action.

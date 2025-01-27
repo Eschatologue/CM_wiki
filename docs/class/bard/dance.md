@@ -20,9 +20,9 @@ While you aren't wearing armour or wielding a Shield, you gain the following ben
 
 **Unarmoured Defense**{ .inl } Your base Armour Class equals 10 + your Dexterity modifier + your Charisma modifier.
 
-**Agile Strikes**{ .inl } When you expend a use of your Bardic Inspiration as part of an action, a **:rsc-b: Bonus Action**{ .rsc }, or a **:rsc-r: Reaction**{ .rsc }, you can make one Unarmed Strike as part of that action, Bonus Action, or Reaction.
+**Agile Strikes**{ .inl } When you expend a use of your Bardic Inspiration as part of an action, a **:rsc-b: Bonus Action**{ .rsc }, or a **:rsc-r: Reaction**{ .rsc }, you can make one **:rsc-a: Unarmed Strike**{ .rsc } as part of that action, Bonus Action, or Reaction.
  
-**Bardic Damage**{ .inl } You can use Dexterity instead of Strength for the attack rolls of your Unarmed Strikes. When you deal damage with an Unarmed Strike, you can deal Bludgeoning damage equal to a roll of your Bardic Inspiration die plus your Dexterity modifier. This roll doesn't expend the die.
+**Bardic Damage**{ .inl } You can use Dexterity instead of Strength for the attack rolls of your **:rsc-a: Unarmed Strike**{ .rsc }. When you deal damage with an **:rsc-a: Unarmed Strike**{ .rsc } , you can deal Bludgeoning damage equal to a roll of your Bardic Inspiration die plus your Dexterity modifier. This roll doesn't expend the die.
 
 ### Level 6: Inspiring Movement
 
@@ -32,7 +32,7 @@ None of this feature's movement provokes Opportunity Attacks.
 
 ### Level 6: Tandem Footwork
 
-When you roll Initiative, you can spend one use of your Bardic Inspiration if you don't have the Incapacitated condition. When you do so, roll your Bardic Inspiration die; you and each ally within 30 fwwr of you who can see or hear you gains a bonus to their Initiative equal to the number rolled.
+When you roll **:d20-inv: Initiative**{.d20 }, you can spend one use of your Bardic Inspiration if you don't have the Incapacitated condition. When you do so, roll your Bardic Inspiration die; you and each ally within 30 fwwr of you who can see or hear you gains a bonus to their **:d20-inv: Initiative**{.d20 } equal to the number rolled.
 
 ### Level 14: Leading Evasion
 

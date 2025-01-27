@@ -70,15 +70,15 @@ You can use an Arcane Focus as a Spellcasting Focus for the spells you prepare f
 
 ### Level 3: Sanguine Offering
 
-Once per turn, when you hit a creature with a weapon attack or an Unarmed Strike (Damage), you can expend one of your Fighter Hit Dice as part of the attack to deal an additional 1d10 :dmg-necr: Necrotic damage to the target, in addition to the normal damage of your weapon.
+Once per turn, when you hit a creature with a weapon attack or an **:rsc-a: Unarmed Strike**{ .rsc } (Damage), you can expend one of your Fighter Hit Dice as part of the attack to deal an additional 1d10 :dmg-necr: Necrotic damage to the target, in addition to the normal damage of your weapon.
 
 ### Level 7: Otherworldly Step
 
-You can use Eldritch power to slip through cracks in reality. When you use Second Wind, you can teleport up to 60 feet to an unoccupied space you can see. If you appear within 5 feet of a creature, you can make one weapon attack or an Unarmed Strike against it.
+You can use Eldritch power to slip through cracks in reality. When you use Second Wind, you can teleport up to 60 feet to an unoccupied space you can see. If you appear within 5 feet of a creature, you can make one weapon attack or an **:rsc-a: Unarmed Strike**{ .rsc } against it.
 
 ### Level 10: Enchanted Strikes
 
-The Eldritch magic within your blood seeps into your weapon strikes. When you hit a creature with a weapon attack, it has **:d20-disadv: Disadvantage**{ .d20 } on the first Saving Throw you force it to make against a Witchblade spell before the end of your next turn.
+The Eldritch magic within your blood seeps into your weapon strikes. When you hit a creature with a weapon attack, it has **:d20-dis: Disadvantage**{ .d20 } on the first Saving Throw you force it to make against a Witchblade spell before the end of your next turn.
 
 ### Level 15: Greater Offering
 

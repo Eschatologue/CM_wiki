@@ -22,7 +22,7 @@ Your Rage taps into the primal power of animals. Whenever you activate your **:c
 
 **Bear**{ .inl } While your **:class-abl-rage: Rage**{ .em } is active, you have **:dmg-res: Resistance**{ .em } to every damage type except **:dmg-force: Force**{ .dmg-force }, **:dmg-necr: Necrotic**{ .dmg-necr }, **:dmg-psyc: Psychic**{ .dmg-psyc } and **:dmg-radi: Radiant**{ .dmg-radi }.
 
-**Eagle**{ .inl } When you activate your **:class-abl-rage: Rage**{ .em }, you can take the **Disengage**{ .rsc } and **Dash**{ .rsc } actions as part of that **:rsc-b: Bonus Action**{ .rsc }, While your **:class-abl-rage: Rage**{ .em } is active, you can take a **:rsc-b: Bonus Action**{ .rsc } to take both of those actions.
+**Eagle**{ .inl } When you activate your **:class-abl-rage: Rage**{ .em }, you can take the **:rsc-a: Disengage**{ .rsc } and **:rsc-a: Dash**{ .rsc } actions as part of that **:rsc-b: Bonus Action**{ .rsc }. While your **:class-abl-rage: Rage**{ .em } is active, you can take a **:rsc-b: Bonus Action**{ .rsc } to take both of those actions.
 
 **Wolf**{ .inl } While your **:class-abl-rage: Rage**{ .em } is active, your allies have **:d20-adv: Advantage**{ .d20 } on melee attack rolls against any enemy of yours within 5 feet of you.
 
@@ -46,7 +46,7 @@ Whenever you activate your **:class-abl-rage: Rage**{ .em }, you gain one of the
 
 **Falcon**{ .inl } While your **:class-abl-rage: Rage**{ .em } is active, you have a Fly Speed equal to your Speed, provided you aren't wearing any armour.
 
-**Lion**{ .inl } While your **:class-abl-rage: Rage**{ .em } is active, any of your enemies within 5 feet of you have **:d20-disadv: Disadvantage**{ .d20 } on attack rolls against targets other than you or another Barbarian with this option active.
+**Lion**{ .inl } While your **:class-abl-rage: Rage**{ .em } is active, any of your enemies within 5 feet of you have **:d20-dis: Disadvantage**{ .d20 } on attack rolls against targets other than you or another Barbarian with this option active.
 
 **Ram**{ .inl } While your **:class-abl-rage: Rage**{ .em } is active, you can cause a Large or smaller creature to have the Prone condition when you hit it with a melee attack.
 

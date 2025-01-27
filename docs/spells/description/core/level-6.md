@@ -614,7 +614,7 @@ You can refrain from firing the globe after completing the spell's casting. If y
 
 One creature that you can see within range must make a Wisdom saving throw. On a successful save, the target dances comically until the end of its next turn, during which it must spend all its movement to dance in place.
 
-On a failed save, the target has the Charmed condition for the duration. While Charmed, the target dances comically, must use all its movement to dance in place, and has Disadvantage on Dexterity saving throws and attack rolls, and other creatures have Advantage on attack rolls against it. On each of its turns, the target can take an action to collect itself and repeat the save, ending the spell on itself on a success.
+On a failed save, the target has the Charmed condition for the duration. While Charmed, the target dances comically, must use all its movement to dance in place, and has **:d20-dis: Disadvantage**{ .d20 } on Dexterity saving throws and attack rolls, and other creatures have **:d20-adv: Advantage**{ .d20 } on attack rolls against it. On each of its turns, the target can take an action to collect itself and repeat the save, ending the spell on itself on a success.
 
 > **Classes:** Bard, Wizard
 
@@ -726,7 +726,7 @@ A creature that can see the sensor (such as one using *see invisibility* or true
 
 You call forth a fiendish spirit. It manifests in an unoccupied space that you can see within range and uses the **Fiendish Spirit** stat block. When you cast the spell, choose Demon, Devil, or Yugoloth. The creature resembles a Fiend of the chosen type, which determines certain details in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
 
-The creature is an ally to you and your allies. In combat, the creature shares your Initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its movement to avoid danger.
+The creature is an ally to you and your allies. In combat, the creature shares your **:d20-inv: Initiative**{.d20 } count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its movement to avoid danger.
 
 ***Using a Higher-Level Spell Slot.*** Use the spell slot's level for the spell's level in the stat block.
 
@@ -785,7 +785,7 @@ Uttering an incantation, you draw on the magic of the Lower Planes or Upper Plan
 - Spectral wings appear on your back, giving you a flying speed of 40 feet.
 - You have a +2 bonus to AC.
 - All your weapon attacks are magical, and when you make a weapon attack, you can use your spellcasting ability modifier, instead of Strength or Dexterity, for the attack and damage rolls.
-- You can attack twice, instead of once, when you take the Attack action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that lets you attack more than once when you take the Attack action on your turn.
+- You can attack twice, instead of once, when you take the **:rsc-a: Attack**{ .rsc } action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that lets you attack more than once when you take the **:rsc-a: Attack**{ .rsc } action on your turn.
 
 ---
 
@@ -804,7 +804,7 @@ You endow yourself with endurance and martial prowess fueled by magic. Until the
 - When you hit a target with a weapon attack, that target takes an extra 2d12 force damage.
 - You have proficiency with all armour, shields, simple weapons, and martial weapons.
 - You have proficiency in Strength and Constitution saving throws.
-- You can attack twice, instead of once, when you take the Attack action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that gives you extra attacks.
+- You can attack twice, instead of once, when you take the **:rsc-a: Attack**{ .rsc } action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that gives you extra attacks.
 
 Immediately after the spell ends, you must succeed on a DC 15 Constitution saving throw or suffer one level of exhaustion.
 

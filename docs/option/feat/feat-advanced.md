@@ -22,7 +22,7 @@ You gain a +1 bonus to your AC while you are wielding a separate melee weapon in
 While you are wielding two Melee weapons, both are treated as if they had the **:weapon-prop-light: Light** property.
 
 **Flurry**{ .inl }  
-When you make the extra off-hand attack using the **:weapon-prop-light: Light** property, you can make it as part of the Attack action, instead of as a  **:rsc-b: Bonus Action**{ .rsc }. You can still make this extra attack only once per turn.
+When you make the extra off-hand attack using the **:weapon-prop-light: Light** property, you can make it as part of the **:rsc-a: Attack**{ .rsc } action, instead of as a  **:rsc-b: Bonus Action**{ .rsc }. You can still make this extra attack only once per turn.
 
 **Quick Draw**{ .inl }  
 You can draw or stow two weapons that lack the **:weapon-prop-two-handed: Two-Handed** property when you would normally be able to draw or stow only one.
@@ -41,7 +41,7 @@ You gain the following benefits:
 You learn one of the following cantrips: *Booming Blade*, *Blade Ward*, *Green-flame Blade*, *Shocking Grasp*, *Sword Burst*, or *True Strike*.
 
 **Swift Cantrip**{ .inl }  
-When you take the Attack action, you can replace one of the attack with a cantrip that has a casting time of an Action.
+When you take the **:rsc-a: Attack**{ .rsc } action, you can replace one of the attack with a cantrip that has a casting time of an Action.
 
 ---
 

@@ -16,17 +16,17 @@ A Champion focuses on the development of martial prowess in a relentless pursuit
 
 ### Level 3: Improved Critical
 
-The number you need to roll for a Critical Hit is reduced by 1 for attack rolls with weapons or Unarmed Strike. This effect can stack.
+The number you need to roll for a Critical Hit is reduced by 1 for attack rolls with weapons or **:rsc-a: Unarmed Strike**{ .rsc }. This effect can stack.
  
 ### Level 3: Remarkable Athlete
 
-Thanks to your athleticism, you have **:d20-adv: Advantage**{ .d20 } on Initiative rolls and Strength (Athletics) checks.
+Thanks to your athleticism, you have **:d20-adv: Advantage**{ .d20 } on **:d20-inv: Initiative**{.d20 } rolls and Strength (Athletics) checks.
 
 In addition, when you make a running [Long Jump](../../glossary.md#long-jump), the distance you can cover increases by a number of feet equal to your Strength modifier.
 
 ### Level 7: Additional Fighting Style
 
-You gain another Fighting Style feat of your choice.
+You gain another [:option-feat-fighting: Fighting Style feat](../../option/feat/feat-fighting-style/index.md) of your choice.
 
 ### Level 10: Heroic Warrior
 
@@ -34,7 +34,7 @@ The thrill of battle drives you toward victory. During combat, you can give your
 
 ### Level 15: Superior Critical
 
-The number you need to roll for a Critical Hit is reduced by 1 for attack rolls with weapons or Unarmed Strike. This effect can stack.
+The number you need to roll for a Critical Hit is reduced by 1 for attack rolls with weapons or **:rsc-a: Unarmed Strike**{ .rsc }. This effect can stack.
 
 ### Level 18: Survivor
 

@@ -36,7 +36,7 @@ You learn the [:spell-lv1: Find Familiar] spell and can cast it as a **:rsc-a: M
 
 When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: **Imp**, **Pseudodragon**, **Quasit**, **Skeleton**, **Slaad Tadpole**, **Sphinx of Wonder**, **Sprite**, or **Venomous Snake** (see appendix B for the familiar's stat block).
 
-Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its Reaction.
+Additionally, when you take the **:rsc-a: Attack**{ .rsc } action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its Reaction.
 
 ---
 
@@ -174,7 +174,7 @@ When you cast [:spell-lv1: Find Familiar], you infuse the summoned familiar with
 
 **Aerial or Aquatic**{ .inl } The familiar gains either a Fly Speed or a Swim Speed (your choice) of 40 feet.
 
-**Quick Attack**{ .inl } As a **:rsc-b: Bonus Action**{ .rsc }, you can command the familiar to take the Attack action.
+**Quick Attack**{ .inl } As a **:rsc-b: Bonus Action**{ .rsc }, you can command the familiar to take the **:rsc-a: Attack**{ .rsc } action.
 
 **Necrotic or Radiant Damage**{ .inl } Whenever the familiar deals :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, or :dmg-slsh: Slashing damage, you can make it deal :dmg-necr: Necrotic or :dmg-radi: Radiant damage instead.
 
@@ -204,7 +204,7 @@ While you're in an area of Dim Light or Darkness, you can cast [:spell-lv2: Invi
 
 _**Prerequisite:** Level 5+ Warlock, [Pact of the Blade](#pact-of-the-blade)_
 
-You gain the Extra Attack feature for your Pact Weapon only. With that feature, you can attack twice with the weapon instead of once when you take the Attack action on your turn.
+You gain the Extra Attack feature for your Pact Weapon only. With that feature, you can attack twice with the weapon instead of once when you take the **:rsc-a: Attack**{ .rsc } action on your turn.
 
 ---
 

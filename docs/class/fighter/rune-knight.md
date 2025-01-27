@@ -38,7 +38,7 @@ The following Runes are available to you when you learn a Rune. If a Rune has a 
 **Frost Rune**{ .inl } This Rune's magic evokes the might of those who survive in the wintry wilderness, such as frost giants.
 
 - While wearing or carrying an object inscribed with this Rune, you have **:d20-adv: Advantage**{ .d20 } on Animal Handling checks and Intimidation checks.
-- You can invoke the Rune as a **:rsc-b: Bonus Action**{ .rsc } to increase your sturdiness. For 10 minutes, you gain a +2 bonus to all ability checks and saving throws that use Strength or Constitution, as well as to the saving throw DC of your Unarmed Strikes.
+- You can invoke the Rune as a **:rsc-b: Bonus Action**{ .rsc } to increase your sturdiness. For 10 minutes, you gain a +2 bonus to all ability checks and saving throws that use Strength or Constitution, as well as to the saving throw DC of your **:rsc-a: Unarmed Strike**{ .rsc }.
 
 **Stone Rune**{ .inl } This Rune's magic channels the judiciousness associated with stone giants.
 
@@ -53,7 +53,7 @@ The following Runes are available to you when you learn a Rune. If a Rune has a 
 **Storm Rune (Level 7 or Higher)**{ .inl } Using this rune, you can glimpse the future like a storm giant seer.
 
 - While wearing or carrying an object inscribed with this Rune, you have **:d20-adv: Advantage**{ .d20 } on Arcana checks, and you can't be Surprised as long as you don't have the Incapacitated condition.
-- You can invoke the Rune as a **:rsc-b: Bonus Action**{ .rsc } to enter a prophetic state for 1 minute or until you have the Incapacitated condition. Until the state ends, when you or another creature you can see within 60 feet of you makes an attack roll, a saving throw, or an ability check, you can use your reaction to cause the roll to have **:d20-adv: Advantage**{ .d20 } or :d20-disadv: Disdvantage.
+- You can invoke the Rune as a **:rsc-b: Bonus Action**{ .rsc } to enter a prophetic state for 1 minute or until you have the Incapacitated condition. Until the state ends, when you or another creature you can see within 60 feet of you makes an attack roll, a saving throw, or an ability check, you can use your reaction to cause the roll to have **:d20-adv: Advantage**{ .d20 } or :d20-dis: Disdvantage.
 
 ### Level 3: Giant's Might
 You have learned how to imbue yourself with the might of giants. As a **:rsc-b: Bonus Action**{ .rsc }, you magically gain the following benefits for 1 minute:

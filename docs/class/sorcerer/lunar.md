@@ -60,9 +60,9 @@ You gain greater control over the phases of your lunar magic.
 
 The power of a lunar phase saturates your being. While you are in a Lunar Embodiment phase, you also gain the following benefit associated with that phase:
 
-**Full Moon**{ .inl } You can use a **:rsc-b: Bonus Action**{ .rsc } to shed bright light in a 10 foot Emanation and dim light for an additional 10 feet, or to douse the light. In addition, you and creatures of your choice have Advantage on Intelligence (Investigation) and Wisdom (Perception) checks while within the bright light you shed.
+**Full Moon**{ .inl } You can use a **:rsc-b: Bonus Action**{ .rsc } to shed bright light in a 10 foot Emanation and dim light for an additional 10 feet, or to douse the light. In addition, you and creatures of your choice have **:d20-adv: Advantage**{ .d20 } on Intelligence (Investigation) and Wisdom (Perception) checks while within the bright light you shed.
 
-**New Moon**{ .inl } You have Advantage on Dexterity (Stealth) checks. In addition, while you are entirely in darkness, attack rolls have Disadvantage against you.
+**New Moon**{ .inl } You have **:d20-adv: Advantage**{ .d20 } on Dexterity (Stealth) checks. In addition, while you are entirely in darkness, attack rolls have **:d20-dis: Disadvantage**{ .d20 } against you.
 
 **Crescent Moon**{ .inl } You have Resistance to Necrotic and Radiant damage.
 

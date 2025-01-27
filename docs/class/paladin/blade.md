@@ -18,22 +18,6 @@ These paladins share the following tenets:
 - Level the playing field for a fair fight.
 - All warriors deserve respect, even the most bitter foes.
 
-### Level 3: Martial Focus
-
-When you take the **:rsc-a: Attack**{ .rsc } action, you can expend one use of your Channel Divinity to nullify any **:d20-disadv: Disadvantage**{ .d20 } (if any) and give yourself **:d20-adv: Advantage**{ .d20 } on all Melee weapon attack and Unarmed Strike until the start of your next turn.
-
-### Level 3: Sacred Duel
-
-As a **:rsc-b: Bonus Action**{ .rsc }, you can expend one use of your Channel Divinity to begin a Sacred Duel between you and another creature that agrees to the duel within 30 feet of you, designating you as duelists for 1 minute, or until one of you have the ^^Unconcious^^ condition.
-
-Duelists are under the following effects:
-
-**Resistance**{ .inl } Duelists have **:dmg-res: Resistance**{ .em } to all damage from creatures, except for the other Duelist. 
-
-**Limited Targeting**{ .inl } Duelists can only target each other with attacks, spells, and other features during this Sacred Duel.
-
-**Improved Critical**{ .inl } The number that Duelists needs to roll for a Critical Hit against other Duelist is reduced by 1. This effect can stack.
-
 ### Level 3: Combat Superiority
 
 You have honed your martial skill. You learn Manoeuvre that are fueled by special dice called Superiority Dice, gaining the benefits below:
@@ -42,7 +26,7 @@ You have honed your martial skill. You learn Manoeuvre that are fueled by specia
 
 You learn two different Manoeuvre of your choice from the "[Manoeuvre Options]" section of the Battle Master Archetype. Many Manoeuvre enhance an attack in some way. You can use only one Manoeuvre per attack. Each time you gain a Paladin level you can replace a Manoeuvre you know with another Manoeuvre of your choice.
 
-[Manoeuvre Options]: ../../option/class-options/fighter-manoeuvre.md
+[Manoeuvre Options]: ../../option/class-options/fighter-manoeuvre/index.md
 
 #### Superiority Dice
 
@@ -50,15 +34,27 @@ You have three Superiority Dice, which are :die-d6: d6s. A Superiority Die is ex
 
 #### Saving Throws
 
-If a Manoeuvre requires a saving throw, the DC equals 8 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice).
+If a Manoeuvre requires a saving throw, the DC equals 8 plus your Strength or Dexterity modifier (your choice) and Proficiency Bonus.
+
+### Level 3: Sacred Duel
+
+As a **:rsc-b: Bonus Action**{ .rsc }, you can expend one use of your Channel Divinity to begin a Sacred Duel. Choose one creature that you can see within 30 feet, it must succeed a **:d20-save: Wisdom saving throw**{ .d20 } or it is engaged in a Sacred Duel, designating you and the target as Duelists.
+
+Duelists are under the following effects:
+
+**Resistance**{ .inl } Duelists have **:dmg-res: Resistance**{ .em } to all damage from creatures, except for the other Duelist. 
+
+**Limited Targeting**{ .inl } Duelists has **:d20-dis: Disadvantage**{ .d20 } on attack rolls against other creatures, except for other Duelists.
+
+This Sacred Duel lasts for 1 minute, or until one Duelist have the ^^Unconcious^^ condition. Alternatively, a Duelist can choose to yield, ending the Sacred Duel early (no action required), when they do, it has the ^^Stunned^^ condition until the end of its next turn.
+
+### Level 7: Additional Fighting Style
+
+You gain another [:option-feat-fighting: Fighting Style feat](../../option/feat/feat-fighting-style/index.md) of your choice.
 
 ### Level 7: Masterful Technique
 
-Your skill with the weapons of war has grown. 
-
-**Improved Superiority**{ .inl } You gain one additional Superiority Die, and your Superiority Dice become :die-d8: d8s. You also learn two additional Manoeuvres of your choice. When you reach Paladin level 15 you gain another Superiority Die (for a total of five), and your Superiority Dice become :die-d10: d10s. You also learn two additional Manoeuvres.
-
-**Improved Mastery**{ .inl } You learn the Mastery property of two additional kinds of weapons of your choice with which you have proficiency.
+You gain one additional Superiority Die, and your Superiority Dice become :die-d8: d8s. You also learn two additional Manoeuvres of your choice. When you reach Paladin level 15 you gain another Superiority Die (for a total of five), and your Superiority Dice become :die-d10: d10s. You also learn two additional Manoeuvres.
 
 ### Level 15: Incredible Alacrity
 
@@ -66,16 +62,15 @@ You possess an unnatural level of awareness.
 
 **Blindsight**{ .inl } You have Blindsight equals to your Aura of Protection's range.
 
-**Improved Opportunity Attack**{ .inl } You have **:d20-adv: Advantage**{ .d20 } when you make an :rsc-r: Opportunity Attack. Moreover, when a creature you can see hits you with a melee attack, you can make an :rsc-r: Opportunity Attack against it.
+**Counterstrike**{ .inl } When a creature you can see hits you with a Melee attack, you can make an **:rsc-r: Opportunity Attack**{ .rsc } against it.
 
 ### Level 20: Warrior of Legend
 
-As Bonus Action, you can enter a battle trance that enhances your combat skills to legendary levels, granting the benefits below for 1 minute, until you end them (no action required). Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. You can also restore your use of it by expending a level 5 spell slot (no action required).
+As **:rsc-b: Bonus Action**{ .rsc }, you can enter a battle trance that enhances your combat skills to legendary levels, granting the benefits below for 1 minute, until you end them (no action required). Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 **Free Manoeuvre**{ .inl } Once per turn, when you use a Manoeuvre, you can roll a :die-d6: d6 and use the number rolled instead of expending a Superiority Die.
 
-**Saving Throw Advantage**{ .inl } You have **:d20-adv: Advantage**{ .d20 } on all saving throws so long you don't have the Incapacitated condition.
+**Saving Throw Advantage**{ .inl } You have **:d20-adv: Advantage**{ .d20 } on all saving throws so long you don't have the ^^Incapacitated^^ condition.
 
-**Hybrid Manoeuvre**{ .inl } You can use *two* Manoeuvre per attack instead of one normally. However, only one Manoeuvre can benefit from _**Free Manoeuvre**_ subfeature.
-
-###### :material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*
+:material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*
+{ .quote }

@@ -32,8 +32,8 @@ theme:
     primary: indigo
     accent: indigo
   font:
-    code: Source Code Pro
-    text: Source Sans 3
+    code: JetBrains Mono
+    text: Source Sans 3 ## This is good enough, don't change it again.
   favicon: assets/icon.jpg
   static_templates:
     - 404.html
@@ -203,7 +203,10 @@ nav:
         - option/class-options/warlock-invocations/index.md
         - PHB'24: option/class-options/warlock-invocations/phb24.md
         - Homebrew: option/class-options/warlock-invocations/hb.md
-      - Combat Manoeuvre: option/class-options/fighter-manoeuvre.md
+      - Combat Manoeuvre: 
+        - option/class-options/fighter-manoeuvre/index.md
+        - PHB'24: option/class-options/fighter-manoeuvre/phb24.md
+        - Homebrew: option/class-options/fighter-manoeuvre/hb.md
       - Ranger's Aptitude: option/class-options/ranger-aptitude.md
   - Equipment: 
       - Crafting Equipment: equipment/crafting.md

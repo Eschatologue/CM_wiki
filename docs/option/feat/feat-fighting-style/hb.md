@@ -20,7 +20,7 @@ You only gain these benefits so long you are not wearing Heavy Armour or wieldin
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*  
 
-When you make an attack with a Cold Weapon that has **:weapon-prop-heavy: Heavy** property as part of your Attack action and the total damage roll from your weapon is 5 or lower, you treat it as 6
+When you make an attack with a Cold Weapon that has **:weapon-prop-heavy: Heavy** property as part of your **:rsc-a: Attack**{ .rsc } action and the total damage roll from your weapon is 5 or lower, you treat it as 6
 
 ---
 
@@ -90,7 +90,7 @@ Moreover, Spears gain the **:weapon-prop-reach: Reach** property when wielded wi
 
 You gain a +1 bonus to attack rolls with ranged weapons, and your attacks with Ranged weapons ignore half-cover and treat three-quarter's cover as half cover.
 
-Moreover, having the Prone condition doesn't impose **:d20-disadv: Disadvantage**{ .d20 } on your Ranged attacks with Arbalest, Crossbows, and Firearms.
+Moreover, having the Prone condition doesn't impose **:d20-dis: Disadvantage**{ .d20 } on your Ranged attacks with Arbalest, Crossbows, and Firearms.
 
 ---
 
@@ -114,6 +114,6 @@ You can use your Strength modifier, in place of Dexterity, for attack rolls, dam
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-While wielding a single weapon with the **:weapon-prop-versatile: Versatile** property and no Shield, you gain a +1 bonus to your attack roll and damage roll with that weapon. While doing so, you can take one of the following actions as a **:rsc-b: Bonus Action**{ .rsc }: Unarmed Strike (Grapple or Shove only), or Utilise action.
+While wielding a single weapon with the **:weapon-prop-versatile: Versatile** property and no Shield, you gain a +1 bonus to your attack roll and damage roll with that weapon. While doing so, you can take one of the following actions as a **:rsc-b: Bonus Action**{ .rsc }: **:rsc-a: Unarmed Strike**{ .rsc } (Grapple or Shove only), or Utilise action.
 
 ---

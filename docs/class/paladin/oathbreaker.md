@@ -44,7 +44,7 @@ The creature can repeat the saving throw at the end of each of its turns, ending
 
 ### Level 7: Aura of Corruption
 
-Your presence weakens your enemies who dare attempt to escape your wrath. When a creature in your Aura of Protection attempts to Move away from you, you can force that creature to make a Charisma saving throw against your spell save DC. On a failed save, the creature's Speed becomes 0 and you have Advantage on the next attack you make against that creature before the end of your next turn.
+Your presence weakens your enemies who dare attempt to escape your wrath. When a creature in your Aura of Protection attempts to Move away from you, you can force that creature to make a Charisma saving throw against your spell save DC. On a failed save, the creature's Speed becomes 0 and you have **:d20-adv: Advantage**{ .d20 } on the next attack you make against that creature before the end of your next turn.
 
 ### Level 15: Unholy Resistance
 

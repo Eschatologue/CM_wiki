@@ -64,7 +64,7 @@ If the Automatic property includes a plus and a number (e.g., Automatic (+3)), t
 
 When this weapon's hits a target, it explodes and affect an area of effect on the parenthesis, originating from the target. The weapon can target a point within its range. Each creature in the area of effect centered on the point or the target must make a **:d20-save: Dexterity saving throw**{ .d20 } against your Weapon Save DC. The creature takes the weapon's damage on a failed save, or half as much damage on a successful one.
 
-Your initial target makes this **:d20-save: Saving Throw** at a **:d20-disadv: Disadvantage**{ .d20 }.
+Your initial target makes this **:d20-save: Saving Throw** at a **:d20-dis: Disadvantage**{ .d20 }.
 
 ---
 
@@ -76,7 +76,7 @@ When making an attack with a **:weapon-prop-finesse: Finesse** weapon, you use y
 
 ### :weapon-prop-heavy: Heavy { .noborder }
 
-Heavy weapon is unwieldy compared to other weapons. You have **:d20-disadv: Disadvantage**{ .d20 } on your attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13, and if it's a Ranged weapon and your Dexterity score isn't at least 13.
+Heavy weapon is unwieldy compared to other weapons. You have **:d20-dis: Disadvantage**{ .d20 } on your attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13, and if it's a Ranged weapon and your Dexterity score isn't at least 13.
 
 ---
 
@@ -102,7 +102,7 @@ This weapon is normally used while attached to a tripod, vehicle, or other braci
 
 This weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. 
 
-The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's long range. When attacking a target beyond normal range, you have **:d20-disadv: Disadvantage**{ .d20 } on the attack roll. You can't attack a target beyond the weapon's long range.
+The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's long range. When attacking a target beyond normal range, you have **:d20-dis: Disadvantage**{ .d20 } on the attack roll. You can't attack a target beyond the weapon's long range.
 
 ---
 
@@ -126,7 +126,7 @@ If you make an attack against a target that is within half this weapon's normal 
 
 ### :weapon-prop-sighted: Sighted { .noborder }
 
-This weapon has **:d20-disadv: Disadvantage**{ .d20 } on attack rolls made against targets within 20 feet and has **:d20-adv: Advantage**{ .d20 } against target that has not moved at least 15 feet for this before the start of your turn.
+This weapon has **:d20-dis: Disadvantage**{ .d20 } on attack rolls made against targets within 20 feet and has **:d20-adv: Advantage**{ .d20 } against target that has not moved at least 15 feet for this before the start of your turn.
 
 ---
  
@@ -152,7 +152,7 @@ A Versatile weapon can be used with one or two hands. A damage value in parenthe
 
 ### Automatic (Legacy)
 
-When you take the Attack action on your turn and attack with an Automatic weapon, you can make extra attacks up to the number in the parenthesis later on the same turn. That extra attack must be made with the *same weapon* provided the weapon has enough Ammunition for the attacks, and you don't add your ability modifier to the additional attack's damage rolls, unless that modifier is negative.
+When you take the  on your turn and attack with an Automatic weapon, you can make extra attacks up to the number in the parenthesis later on the same turn. That extra attack must be made with the *same weapon* provided the weapon has enough Ammunition for the attacks, and you don't add your ability modifier to the additional attack's damage rolls, unless that modifier is negative.
 
 ### Automatic (Ver 1.1)
 

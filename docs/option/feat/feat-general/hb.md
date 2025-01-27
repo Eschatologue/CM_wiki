@@ -75,7 +75,7 @@ Increase your Dexterity score by 1, to a maximum of 20.
 When you make the extra attack of the :weapon-prop-light: **Light** weapon property, you can add your Ability Modifier to the damage of the extra attack if that attack is with a Firearm that has the :weapon-prop-light: **Light** property.
     
 **Quickshot**{ .inl }  
-After you roll for Initiative, you can take a **:rsc-r: Reaction**{ .rsc } to make a single attack with a Firearm.
+After you roll for **:d20-inv: Initiative**{.d20 }, you can take a **:rsc-r: Reaction**{ .rsc } to make a single attack with a Firearm.
 
 ---
 
@@ -144,7 +144,7 @@ You are considered to be one size larger to determine your [Carrying Capacity](.
 Whenever you make a Strength-based D20 Test, you can treat a roll of 7 or lower on the d20 as an 8.
 
 **Iron Grip**{ .inl }  
-Creatures with the same size as you and smaller has **:d20-disadv: Disadvantage**{ .d20 } on the saving throw of escaping your Grapple.
+Creatures with the same size as you and smaller has **:d20-dis: Disadvantage**{ .d20 } on the saving throw of escaping your Grapple.
 
 ---
 
@@ -226,10 +226,10 @@ One-handed weapons and blades are an extension of your arm, graceful as the wind
 You increase your Dexterity by 1, up to a maximum of 20.
     
 **Dynamic Swordplay**{ .inl }  
-When you take the Attack action and attack with melee weapon that has the :weapon-prop-finesse: **Finesse** property, you can choose to deal either :dmg-slsh: **Slashing** or :dmg-prcg: **Piercing** damage.
+When you take the **:rsc-a: Attack**{ .rsc } action and attack with melee weapon that has the :weapon-prop-finesse: **Finesse** property, you can choose to deal either :dmg-slsh: **Slashing** or :dmg-prcg: **Piercing** damage.
 
 **Fleuret**{ .inl }  
-The first creature you hit on your turn has **:d20-disadv: Disadvantage**{ .d20 } on any attack against you until the start of your next turn.
+The first creature you hit on your turn has **:d20-dis: Disadvantage**{ .d20 } on any attack against you until the start of your next turn.
 
 ---
 

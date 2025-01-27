@@ -29,7 +29,7 @@ You gain the following benefits.
 Increase your Charisma score by 1, to a maximum of 20.
 
 **Impersonation**{ .inl }  
-While you're disguised as a real or fictional person, you have Advantage on Charisma (Deception or Performance) checks to convince others that you are that person.
+While you're disguised as a real or fictional person, you have **:d20-adv: Advantage**{ .d20 } on Charisma (Deception or Performance) checks to convince others that you are that person.
 
 **Mimicry**{ .inl }  
 You can mimic the sounds of other creatures, including speech. A creature that hears the mimicry must succeed on a Wisdom (Insight) check to determine the effect is faked (DC 8 plus your Charisma modifier and Proficiency Bonus).
@@ -69,7 +69,7 @@ Increase your Strength or Dexterity score by 1, to a maximum of 20.
 When you take the Dash Action, your **:rsc-spd: Speed**{ .em } increases by 10 feet for that Action.
 
 **Charge Attack**{ .inl }  
-If you move at least 10 feet in a straight line toward a target immediately before hitting it with a melee attack roll as part of the Attack action, choose one of the following effects: gain a 1d8 bonus to the attack's damage roll, or push the target up to 10 feet away if it is no more than one size larger than you. You can use this benefit only once on each of your turns.
+If you move at least 10 feet in a straight line toward a target immediately before hitting it with a melee attack roll as part of the **:rsc-a: Attack**{ .rsc } action, choose one of the following effects: gain a 1d8 bonus to the attack's damage roll, or push the target up to 10 feet away if it is no more than one size larger than you. You can use this benefit only once on each of your turns.
 
 ---
 
@@ -103,7 +103,7 @@ Increase your Dexterity score by 1, to a maximum of 20.
 You ignore the Loading property of crossbows.
 
 **Firing in Melee**{ .inl }  
-Being within 5 feet of an enemy doesn't impose **:d20-disadv: Disadvantage**{ .d20 } on your attack rolls with crossbows.
+Being within 5 feet of an enemy doesn't impose **:d20-dis: Disadvantage**{ .d20 } on your attack rolls with crossbows.
 
 **Dual Wielding**{ .inl }  
 When you make the extra attack of the :weapon-prop-light: Light property, you can add your ability modifier to the damage of the extra attack if that attack is with a crossbow that has the :weapon-prop-light: Light property and you aren't already adding that modifier to the damage.
@@ -123,7 +123,7 @@ Increase your Strength or Constitution by 1, to a maximum of 20.
 Once per turn, when you hit a creature with an attack that deals :dmg-bldg: Bludgeoning damage, you can move it 5 feet to an unoccupied space if the target is no more than one size larger than you.
 
 **Enhanced Critical**{ .inl }  
-When you score a Critical Hit that deals :dmg-bldg: Bludgeoning damage to a creature, attack rolls against that creature have Advantage until the start of your next turn.
+When you score a Critical Hit that deals :dmg-bldg: Bludgeoning damage to a creature, attack rolls against that creature have **:d20-adv: Advantage**{ .d20 } until the start of your next turn.
 
 ---
 
@@ -151,7 +151,7 @@ You gain the following benefits.
 Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
 **Enhanced Dual Wielding**{ .inl }  
-When you take the Attack action on your turn and attack with a weapon that has the **:weapon-prop-light: Light** property, you can make one extra attack as a **:rsc-b: Bonus Action**{ .rsc } later on the same turn with a different weapon, which must be a Melee weapon that lacks the **:weapon-prop-two-handed: Two-Handed** property. You don't add your ability modifier to the extra attack's damage unless that modifier is negative.
+When you take the **:rsc-a: Attack**{ .rsc } action on your turn and attack with a weapon that has the **:weapon-prop-light: Light** property, you can make one extra attack as a **:rsc-b: Bonus Action**{ .rsc } later on the same turn with a different weapon, which must be a Melee weapon that lacks the **:weapon-prop-two-handed: Two-Handed** property. You don't add your ability modifier to the extra attack's damage unless that modifier is negative.
 
 **Quick Draw**{ .inl }  
 You can draw or stow two weapons that lack the Two-Handed property when you would normally be able to draw or stow only one.
@@ -168,7 +168,7 @@ You gain the following benefits.
 Increase your Constitution score by 1, to a maximum of 20.
 
 **Defy Death**{ .inl }  
-You have Advantage on Death Saving Throws.
+You have **:d20-adv: Advantage**{ .d20 } on Death Saving Throws.
 
 **Speedy Recovery**{ .inl }  
 As a **:rsc-b: Bonus Action**{ .rsc }, you can expend one of your Hit Point Dice, roll the die, and regain a number of Hit Points equal to the roll.
@@ -216,9 +216,9 @@ You gain the following benefits.
 Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
 **Punch and Grab**{ .inl }  
-When you hit a creature with an Unarmed Strike as part of the Attack action on your turn, you can use both the Damage and the Grapple option. You can use this benefit only once per turn.
+When you hit a creature with an **:rsc-a: Unarmed Strike**{ .rsc } as part of the **:rsc-a: Attack**{ .rsc } action on your turn, you can use both the Damage and the Grapple option. You can use this benefit only once per turn.
 
-**Attack Advantage **{ .inl }  
+**Attack **:d20-adv: Advantage**{ .d20 } **{ .inl }  
 You have **:d20-adv: Advantage**{ .d20 } on attack rolls against a creature Grappled by you.
 
 **Fast Wrestler**{ .inl }  
@@ -322,7 +322,7 @@ You gain the following benefits.
 Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
 **Concentration Breaker**{ .inl }  
-When you damage a creature that is concentrating, it has **:d20-disadv: Disadvantage**{ .d20 } on the saving throw it makes to maintain **:spell-conc: Concentration**.
+When you damage a creature that is concentrating, it has **:d20-dis: Disadvantage**{ .d20 } on the saving throw it makes to maintain **:spell-conc: Concentration**.
 
 **Guarded Mind**{ .inl }  
 If you fail an Intelligence, a Wisdom, or a Charisma saving throw, you can cause yourself to succeed instead. Once you use this benefit, you can't use it again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
@@ -451,7 +451,7 @@ You gain the following benefits.
 Increase your Dexterity or Strength score by 1, to a maximum of 20.
 
 **Pole Strike**{ .inl }  
-Immediately after you take the Attack action and attack with a Quarterstaff, a Spear, a War Scythe, or a weapon that has the **:weapon-prop-heavy: Heavy** and **:weapon-prop-reach: Reach** properties, you can use a **:rsc-b: Bonus Action**{ .rsc } to make a melee attack with the opposite end of the weapon. The weapon deals **:dmg-bldg: Bludgeoning**{ .dmg-phys } damage, and the weapon's damage die for this attack is a d4.
+Immediately after you take the **:rsc-a: Attack**{ .rsc } action and attack with a Quarterstaff, a Spear, a War Scythe, or a weapon that has the **:weapon-prop-heavy: Heavy** and **:weapon-prop-reach: Reach** properties, you can use a **:rsc-b: Bonus Action**{ .rsc } to make a melee attack with the opposite end of the weapon. The weapon deals **:dmg-bldg: Bludgeoning**{ .dmg-phys } damage, and the weapon's damage die for this attack is a d4.
 
 **Reactive Strike**{ .inl }  
 While you are holding a Quarterstaff, a Spear, a War Scythe, or a weapon that has the **:weapon-prop-heavy: Heavy** and **:weapon-prop-reach: Reach** properties, you can use a **:rsc-r: Reaction**{ .rsc } to make one melee attack against a creature that enters the reach you have with that weapon.
@@ -533,10 +533,10 @@ Increase your Dexterity score by 1, to a maximum of 20.
 Your ranged attacks with weapons ignore Half Cover and Three-Quarters Cover.
 
 **Firing in Melee**{ .inl }  
-Being within 5 feet of an enemy doesn't impose **:d20-disadv: Disadvantage**{ .d20 } on your attack rolls with Ranged weapons.
+Being within 5 feet of an enemy doesn't impose **:d20-dis: Disadvantage**{ .d20 } on your attack rolls with Ranged weapons.
 
 **Long Shots**{ .inl }  
-Attacking at long range doesn't impose **:d20-disadv: Disadvantage**{ .d20 } on your attack rolls with Ranged weapons.
+Attacking at long range doesn't impose **:d20-dis: Disadvantage**{ .d20 } on your attack rolls with Ranged weapons.
 
 ---
 
@@ -550,7 +550,7 @@ You gain the following benefits.
 Increase your Strength score by 1, to a maximum of 20.
 
 **Shield Bash**{ .inl }  
-If you attack a creature within 5 feet of you as part of the Attack action and hit with a Melee weapon, you can immediately bash the target with your Shield if it's equipped, forcing the target to make a **:d20-save: Strength saving throw**{ .d20 } (DC 8 plus your Strength modifier and Proficiency Bonus). On a failed save, you either push the target 5 feet from you or cause it to have the Prone condition (your choice). You can use this benefit only once on each of your turns.
+If you attack a creature within 5 feet of you as part of the **:rsc-a: Attack**{ .rsc } action and hit with a Melee weapon, you can immediately bash the target with your Shield if it's equipped, forcing the target to make a **:d20-save: Strength saving throw**{ .d20 } (DC 8 plus your Strength modifier and Proficiency Bonus). On a failed save, you either push the target 5 feet from you or cause it to have the Prone condition (your choice). You can use this benefit only once on each of your turns.
 
 **Interpose Shield**{ .inl }  
 If you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can take a **:rsc-r: Reaction**{ .rsc } to take no damage if you succeed on the saving throw and are wielding a Shield.
@@ -624,7 +624,7 @@ Your **:rsc-spd: Speed**{ .em } increases by 10 feet.
 When you take the Dash action on your turn, Difficult Terrain doesn't cost you extra movement for the rest of that turn.
 
 **Agile Movement**{ .inl }  
-Opportunity Attacks have **:d20-disadv: Disadvantage**{ .d20 } against you.
+Opportunity Attacks have **:d20-dis: Disadvantage**{ .d20 } against you.
 
 ---
 
@@ -641,7 +641,7 @@ Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 Your attack rolls for spells ignore Half Cover and Three-Quarters Cover.
 
 **Casting in Melee**{ .inl }  
-Being within 5 feet of an enemy doesn't impose **:d20-disadv: Disadvantage**{ .d20 } on your attack rolls with spells.
+Being within 5 feet of an enemy doesn't impose **:d20-dis: Disadvantage**{ .d20 } on your attack rolls with spells.
 
 **Increased Range**{ .inl }  
 When you cast a spell that has a range of at least 10 feet and requires you to make an attack roll, you can increase the spell's range by 60 feet.

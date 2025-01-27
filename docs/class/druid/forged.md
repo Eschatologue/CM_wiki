@@ -29,7 +29,7 @@ You gain the benefit of the [Circle Forms](moon.md#level-3-circle-forms) feature
 
 **Creature Type**{ .inl } While in your Wild Shape, you're also considered a Construct in addition of the type of the creature you turn into. 
 
-**Resistance**{ .inl } You have Advantage on saves to gain and end the Poisoned condition, and you gain Resistance to Poison damage.
+**Resistance**{ .inl } You have **:d20-adv: Advantage**{ .d20 } on saves to gain and end the Poisoned condition, and you gain Resistance to Poison damage.
 
 **Machine Body**{ .inl } While transformed, you do not need to eat, drink, or breathe.
 

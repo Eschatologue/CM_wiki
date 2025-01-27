@@ -14,7 +14,7 @@ Violence is both a means and an end. You follow a path of untrammelled fury, sli
 
 ### Level 3: Frenzy
 
-If you use Reckless Attack while your **:class-abl-rage: Rage**{ .em } is active, you deal extra damage to the first target you hit on your turn with a Strength-based attack. To determine the extra damage, roll a number of d6s equal to your **:class-abl-rage: Rage**{ .em } Damage bonus, and add them together. The damage has the same type as the weapon or Unarmed Strike used for the attack.
+If you use Reckless Attack while your **:class-abl-rage: Rage**{ .em } is active, you deal extra damage to the first target you hit on your turn with a Strength-based attack. To determine the extra damage, roll a number of d6s equal to your **:class-abl-rage: Rage**{ .em } Damage bonus, and add them together. The damage has the same type as the weapon or **:rsc-a: Unarmed Strike**{ .rsc } used for the attack.
 
 ### Level 6: Mindless Rage
 
@@ -22,7 +22,7 @@ You have :dmg-imm: Immunity to the ^^Charmed^^ and ^^Frightened^^ conditions whi
 
 ### Level 10: Retaliation
 
-When you take damage from a creature that is within 5 feet of you, you can take a **:rsc-r: Reaction**{ .rsc } to make one melee attack against that creature, using a weapon or an Unarmed Strike.
+When you take damage from a creature that is within 5 feet of you, you can take a **:rsc-r: Reaction**{ .rsc } to make one melee attack against that creature, using a weapon or an **:rsc-a: Unarmed Strike**{ .rsc }.
 
 ### Level 14: Intimidating Presence
 

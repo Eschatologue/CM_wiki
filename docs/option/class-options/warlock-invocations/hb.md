@@ -33,7 +33,7 @@ This object disappears if you conjure another object with this feature or if you
 
 You can conjure a Pact Hourglass; a mystical timekeeping device in your hand at the end of a **:rest-short: Short** or **:rest-long: Long Rest**. It takes the form of a timekeeping device of your choice, and it grants you the following benefits:
 
-**Initiative Bonus**{ .inl } So long you don't have the Surprised condition, you gain bonus to your Initiative rolls equal to your spellcasting modifier (minimum of +1).
+**Initiative Bonus**{ .inl } So long you don't have the Surprised condition, you gain bonus to your **:d20-inv: Initiative**{.d20 } rolls equal to your spellcasting modifier (minimum of +1).
 
 **Rewind Time**{ .inl } When you make a D20 Test, you can choose to re-roll. You can use this feature after you roll, but before you know if you succeed. Once you use this feature to turn failure into success, you must finish a **:rest-short: Short** or **:rest-long: Long Rest** before you can use it again.
 

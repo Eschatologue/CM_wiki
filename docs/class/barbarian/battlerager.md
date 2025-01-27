@@ -19,9 +19,9 @@ You adorn your armour with crude spikes with which you can slam your enemies. Yo
 
 While wearing your Ravager Armour, you gain the following benefits:
 
-**Barbed**{ .inl } You have Advantage on saving throws to avoid or end the Grappled condition.
+**Barbed**{ .inl } You have **:d20-adv: Advantage**{ .d20 } on saving throws to avoid or end the Grappled condition.
 
-***Spiked Slam***. When you make an Unarmed Strike (Damage), you can slam into the target with your armour, dealing :dmg-prcg: Piercing damage equal to 1d6 plus your Strength modifier, instead of the normal damage for an Unarmed Strike.
+***Spiked Slam***. When you make an **:rsc-a: Unarmed Strike**{ .rsc } (Damage), you can slam into the target with your armour, dealing :dmg-prcg: Piercing damage equal to 1d6 plus your Strength modifier, instead of the normal damage for an **:rsc-a: Unarmed Strike**{ .rsc }.
 
 **Spiky Embrace**{ .inl } At the start of each of your turns while you have a creature Grappled, it takes :dmg-prcg: Piercing damage equal to your Strength modifier (minimum 1 damage).
 
@@ -35,7 +35,7 @@ Your furious grip becomes extremely tight as you press your spiked armour into y
 
 ### Level 6: Spiked Retribution
 
-When a creature hits you with a melee attack, you can use your **:rsc-r: Reaction**{ .rsc } to make an Unarmed Strike against it. This Unarmed Strike can only be used to Grapple.
+When a creature hits you with a melee attack, you can use your **:rsc-r: Reaction**{ .rsc } to make an **:rsc-a: Unarmed Strike**{ .rsc } against it. This **:rsc-a: Unarmed Strike**{ .rsc } can only be used to Grapple.
 
 ### Level 10: Death Roll
 

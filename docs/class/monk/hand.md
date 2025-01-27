@@ -34,8 +34,7 @@ When you take a **:rsc-b: Bonus Action**{ .rsc } other than Step of the Wind, yo
 
 ### Level 17: Quivering Palm
 
-You gain the ability to set up lethal vibrations in someone's body. When you hit a creature with an [Unarmed Strike], you can expend 4 :class-phb24-monk: **Focus Points** to start these imperceptible vibrations, which last for a number of days equal to your Monk level. The vibrations are harmless unless you take an action to end them. Alternatively, when you take the Attack action on your turn, you can forgo one of the attacks to end the vibrations. To end them, you and the target must be on the same plane of existence. When you end them, the target must make a Constitution saving throw, taking 10d12 Force damage on a failed save or half as much damage on a successful one.
+You gain the ability to set up lethal vibrations in someone's body. When you hit a creature with an **:rsc-a: Unarmed Strike**{ .rsc } , you can expend 4 **:class-phb24-monk: Focus Point(s)** to start these imperceptible vibrations, which last for a number of days equal to your Monk level. The vibrations are harmless unless you take an action to end them. Alternatively, when you take the **:rsc-a: Attack**{ .rsc } action on your turn, you can forgo one of the attacks to end the vibrations. To end them, you and the target must be on the same plane of existence. When you end them, the target must make a Constitution saving throw, taking  **10d12 :dmg-force: Force**{ .dmg-force } damage on a failed save or half as much damage on a successful one.
 
 You can have only one creature under the effect of this feature at a time. You can end the vibrations harmlessly (no action required).
 
-[Unarmed Strike]: ../../gameplay/phb/action.md#unarmed-strike

@@ -55,7 +55,7 @@ As an :rsc-a: Action, you can touch a willing creature and empower it with tragi
 
 **Extra Damage**{ .inl } When the creature hits a target with an attack roll, that target takes an extra 1d10 radiant damage.
 
-**Critical Hit Vulnerability**{ .inl } The number needed to roll for a Critical Hit against the creature using weapon attack or Unarmed Strike is reduced by 2.
+**Critical Hit Vulnerability**{ .inl } The number needed to roll for a Critical Hit against the creature using weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } is reduced by 2.
 
 When this effect ends, the creature immediately drops to 0 hit points and has the Unconcious condition. Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**.
 

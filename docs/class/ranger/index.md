@@ -175,7 +175,7 @@ You gain the [:option-feat-general: Ability Score Improvement](../../option/feat
 
 ### Level 5: Extra Attack
 
-You can attack twice instead of once whenever you take the Attack action on your turn.
+You can attack twice instead of once whenever you take the **:rsc-a: Attack**{ .rsc } action on your turn.
 
 ### Level 6: Roving
 

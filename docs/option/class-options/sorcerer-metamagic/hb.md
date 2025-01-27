@@ -90,7 +90,7 @@ You can use this Metamagic even if you have already used a different Metamagic o
 
 _**Cost:** 1 :class-phb24-sorcerer: Sorcery Point(s)_
 
-When you cast a spell that requires you to make a ranged spell attack while there is an enemy creature within 5 feet of you, you can spend 1 Sorcery Point to turn it into a melee spell attack instead. You have Advantage for this melee spell attack.
+When you cast a spell that requires you to make a ranged spell attack while there is an enemy creature within 5 feet of you, you can spend 1 Sorcery Point to turn it into a melee spell attack instead. You have **:d20-adv: Advantage**{ .d20 } for this melee spell attack.
 
 ---
 

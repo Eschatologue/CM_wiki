@@ -19,9 +19,9 @@ A creature has six ability scores—Strength, Dexterity, Constitution, Intellige
 
 ---
 
-## Advantage 
+## **:d20-adv: Advantage**{ .d20 } 
 
-If you have Advantage on a D20 Test, roll two d20s, and use the higher roll. A roll can't be affected by more than one Advantage , and Advantage and Disadvantage on the same roll cancel each other.
+If you have **:d20-adv: Advantage**{ .d20 } on a D20 Test, roll two d20s, and use the higher roll. A roll can't be affected by more than one **:d20-adv: Advantage**{ .d20 } , and **:d20-adv: Advantage**{ .d20 } and **:d20-dis: Disadvantage**{ .d20 } on the same roll cancel each other.
 
 ---
 
@@ -127,7 +127,7 @@ For an attack to hit, the attack result needs to be equal or greater than the nu
 
 ## Armour Training
 
-Armour training allows you to use armour of a certain category without the following drawbacks. If you wear Light, Medium, or Heavy armour and lack training with it, you have Disadvantage on any D20 Test that involves Strength or Dexterity, and you can't cast spells. If you use a *Shield* and lack training with it, you don't gain its AC bonus.
+Armour training allows you to use armour of a certain category without the following drawbacks. If you wear Light, Medium, or Heavy armour and lack training with it, you have **:d20-dis: Disadvantage**{ .d20 } on any D20 Test that involves Strength or Dexterity, and you can't cast spells. If you use a *Shield* and lack training with it, you don't gain its AC bonus.
 
 ---
 
@@ -137,11 +137,11 @@ A monster has a starting attitude toward a player character: Friendly, Hostile, 
 
 ### Friendly
 
-A Friendly creature views you favorably. You have Advantage on an ability check to influence a Friendly creature.
+A Friendly creature views you favorably. You have **:d20-adv: Advantage**{ .d20 } on an ability check to influence a Friendly creature.
 
 ### Hostile
 
-A Hostile creature views you unfavorably. You have Disadvantage on an ability check to influence a Hostile creature.
+A Hostile creature views you unfavorably. You have **:d20-dis: Disadvantage**{ .d20 } on an ability check to influence a Hostile creature.
 
 ### Indifferent 
 
@@ -377,7 +377,7 @@ An :d20-check: **Ability Check** is a D20 Test that represents using one of the 
 
 ### Attack Roll
 
-An :d20-attack: **Attack Roll** is a D20 Test that represents making an attack with a weapon, an Unarmed Strike (Damage), or a spell.
+An :d20-attack: **Attack Roll** is a D20 Test that represents making an attack with a weapon, an **:rsc-a: Unarmed Strike**{ .rsc } (Damage), or a spell.
 
 ### Saving Throw
 
@@ -488,7 +488,7 @@ An area with Dim Light is Lightly Obscured.
 
 ## Disadvantage
 
-If you have Disadvantage on a D20 Test, roll two d20s and use the lower roll. A roll can't be affected by more than one Disadvantage, and Advantage and Disadvantage on the same roll cancel each other.
+If you have **:d20-dis: Disadvantage**{ .d20 } on a D20 Test, roll two d20s and use the lower roll. A roll can't be affected by more than one **:d20-dis: Disadvantage**{ .d20 }, and **:d20-adv: Advantage**{ .d20 } and **:d20-dis: Disadvantage**{ .d20 } on the same roll cancel each other.
 
 ---
 
@@ -694,9 +694,9 @@ An improvised weapon is an object wielded as a makeshift weapon, such as broken 
 
 ## Initiative
 
-Initiative determines the order of turns during combat. Initiative is a Dexterity ability check.
+Initiative determines the order of turns during combat. **:d20-inv: Initiative**{.d20 } is a Dexterity ability check.
 
-Sometimes a DM might have combatants use their Initiative scores instead of rolling Initiative. Your Initiative score equals 10 plus your Dexterity modifier. If you have Advantage on Initiative rolls, increase your Initiative score by 5. If you have Disadvantage on those rolls, decrease that score by 5.
+Sometimes a DM might have combatants use their **:d20-inv: Initiative**{.d20 } scores instead of rolling **:d20-inv: Initiative**{.d20 }. Your **:d20-inv: Initiative**{.d20 } score equals 10 plus your Dexterity modifier. If you have **:d20-adv: Advantage**{ .d20 } on **:d20-inv: Initiative**{.d20 } rolls, increase your **:d20-inv: Initiative**{.d20 } score by 5. If you have **:d20-dis: Disadvantage**{ .d20 } on those rolls, decrease that score by 5.
 
 <!-- --8<-- [end:initiative] -->
 
@@ -732,7 +732,7 @@ The creature remains Unconscious until it regains any Hit Points or until someon
 
 ## Lightly Obscured
 
-You have Disadvantage on Wisdom (Perception) checks to see something in a Lightly Obscured space.
+You have **:d20-dis: Disadvantage**{ .d20 } on Wisdom (Perception) checks to see something in a Lightly Obscured space.
 
 ---
 
@@ -800,7 +800,7 @@ A space is occupied if a creature is in it or if it is completely filled by obje
 
 Passive Perception is a score that reflects a creature's general awareness of its surroundings. The DM uses this score when determining whether a creature notices something without consciously making a Wisdom (Perception) check.
 
-A creature's Passive Perception equals 10 plus the creature's Wisdom (Perception) check bonus. If the creature has Advantage on such checks, increase the score by S. If the creature has Disadvantage on them, decrease the score by 5. For example, a level 1 character with a Wisdom of 15 and proficiency in Perception has a Passive Perception of 14 (10 + 2 + 2). If that character has Advantage on Wisdom (Perception) checks, the score becomes 19.
+A creature's Passive Perception equals 10 plus the creature's Wisdom (Perception) check bonus. If the creature has **:d20-adv: Advantage**{ .d20 } on such checks, increase the score by S. If the creature has **:d20-dis: Disadvantage**{ .d20 } on them, decrease the score by 5. For example, a level 1 character with a Wisdom of 15 and proficiency in Perception has a Passive Perception of 14 (10 + 2 + 2). If that character has **:d20-adv: Advantage**{ .d20 } on Wisdom (Perception) checks, the score becomes 19.
 
 ---
 
@@ -1027,7 +1027,7 @@ A stat block contains the game slatistics of a monster. Each stat block includes
 
 **Alignment**{ .inl } An alignment is suggested for the monster, with the DM determining its actual alignment.
 
-**AC, Initiative, and HP**{ .inl } These entries give the monster's Armour Class, Initiative, and Hit Points, which are detailed in *chapter 1*. In parentheses after the Hit Points, the monster's Hit Point Dice are provided, along with the contribution of its Constitution, if any, to its Hit Points. Following the Initiative modifier is an Initiative score. Some creatures that are created by magic lack Hit Dice and Initiative information.
+**AC, **:d20-inv: Initiative**{.d20 }, and HP**{ .inl } These entries give the monster's Armour Class, **:d20-inv: Initiative**{.d20 }, and Hit Points, which are detailed in *chapter 1*. In parentheses after the Hit Points, the monster's Hit Point Dice are provided, along with the contribution of its Constitution, if any, to its Hit Points. Following the **:d20-inv: Initiative**{.d20 } modifier is an **:d20-inv: Initiative**{.d20 } score. Some creatures that are created by magic lack Hit Dice and **:d20-inv: Initiative**{.d20 } information.
 
 **Speed**{ .inl } Here the monster's Speed is provided, along with any special speeds.
 

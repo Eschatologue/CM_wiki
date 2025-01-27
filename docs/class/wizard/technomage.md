@@ -69,11 +69,11 @@ You can use any of the following options, expending one use of this feature per 
 
 *Your technological mastery allows you to enhance your control systems, enabling more complex operations with your drones.*
 
-**Extra Drone**{ .inl } At the end of a **:rest-long: Long Rest**, you can construct and control an additional drone. Both drones act on your turn, sharing the same Initiative count and following the same rules as your original drone. You can use the same **:rsc-b: Bonus Action**{ .rsc } to control both drones.
+**Extra Drone**{ .inl } At the end of a **:rest-long: Long Rest**, you can construct and control an additional drone. Both drones act on your turn, sharing the same **:d20-inv: Initiative**{.d20 } count and following the same rules as your original drone. You can use the same **:rsc-b: Bonus Action**{ .rsc } to control both drones.
 
 **Intercept Attack**{ .inl } When you are hit by an attack roll, you can use your **:rsc-r: Reaction**{ .rsc } to command a drone within 60 feet of you to intercept it. The drone immediately moves to an unoccupied space within 10 feet of you, and the attack is redirected to target the drone instead. You avoid all damage and effects associated with the attack.
 
-**Emulate Concentration**{ .inl } When you cast a Wizard spell that requires concentration on your turn using the ***Spellcasting Module*** subfeature, you can make the drone concentrate on it instead of you. Though the drone has **:d20-disadv: Disadvantage**{ .d20 } on the save it makes to maintain concentration and the spell duration is halved.
+**Emulate Concentration**{ .inl } When you cast a Wizard spell that requires concentration on your turn using the ***Spellcasting Module*** subfeature, you can make the drone concentrate on it instead of you. Though the drone has **:d20-dis: Disadvantage**{ .d20 } on the save it makes to maintain concentration and the spell duration is halved.
 
 !!! statblock "Drone"
 

@@ -10,23 +10,23 @@ Trace the Roots and Branches of the World
 
 > *Trace the Roots and Branches of the World*
 
-Barbarians who follow the Path of the World Tree believe that their **:class-abl-rage: Rage**{ .em } links them to the cosmic ash tree Yggdrasil. This "world tree" grows among the Outer Planes, connecting them to each other and to the many worlds of the Material Plane, and the greatest plants on every world are said to be distant descendants of mighty Yggdrasil. These Barbarians draw on their connection to the world tree as a source of vitality and as a means of travel across the multiverse.
+Barbarians who follow the Path of the World Tree believe that their Rage links them to the cosmic ash tree Yggdrasil. This "world tree" grows among the Outer Planes, connecting them to each other and to the many worlds of the Material Plane, and the greatest plants on every world are said to be distant descendants of mighty Yggdrasil. These Barbarians draw on their connection to the world tree as a source of vitality and as a means of travel across the multiverse.
 
 ### Level 3: Vitality of the Tree
 
 Your **:class-abl-rage: Rage**{ .em } taps into the lifeforce of the World Tree. You gain the following benefits: 
 
-**Vitality Surge**{ .inl } When you activate your **:class-abl-rage: Rage**{ .em }, you gain a number of Temporary Hit Points equal to your Barbarian level. 
+**Vitality Surge**{ .inl } When you activate your **:class-abl-rage: Rage**{ .em }, you gain a number of **:dmg-temp: Temporary Hit Points**{ .dmg-heal } equal to your Barbarian level. 
 
-**Life-Giving Force**{ .inl } At the start of each of your turns while your **:class-abl-rage: Rage**{ .em } is active, you can choose another creature within 10 feet of yourself to gain Temporary Hit Points. To determine the number of Temporary Hit Points, roll a number of d6s equal to your **:class-abl-rage: Rage**{ .em } Damage bonus, and add them together. If any of these Temporary Hit Points remain when your **:class-abl-rage: Rage**{ .em } ends, they vanish. 
+**Life-Giving Force**{ .inl } At the start of each of your turns while your **:class-abl-rage: Rage**{ .em } is active, you can choose another creature within 10 feet of yourself to gain **:dmg-temp: Temporary Hit Points**{ .dmg-heal }. To determine the number of **:dmg-temp: Temporary Hit Points**{ .dmg-heal }, roll a number of d6s equal to your **:class-abl-rage: Rage**{ .em } Damage bonus, and add them together. If any of these **:dmg-temp: Temporary Hit Points**{ .dmg-heal } remain when your **:class-abl-rage: Rage**{ .em } ends, they vanish. 
 
 ### Level 6: Branches of the Tree
 
-Whenever a creature you can see starts its turn within 30 feet of you while your **:class-abl-rage: Rage**{ .em } is active, you can take a **:rsc-r: Reaction**{ .rsc } to summon spectral branches of the World Tree around it. The target must succeed on a Strength saving throw (DC equal to 8 plus your Proficiency Bonus plus your Strength modifier) or be teleported to an unoccupied space you can see within 5 feet of yourself or in the nearest unoccupied space you can see. After the target teleports, you can reduce its Speed to 0 until the end of the current turn.
+Whenever a creature you can see starts its turn within 30 feet of you while your **:class-abl-rage: Rage**{ .em } is active, you can take a **:rsc-r: Reaction**{ .rsc } to summon spectral branches of the World Tree around it. The target must succeed on a **:d20-save: Strength saving throw**{ .d20 } (DC equal to 8 plus your Proficiency Bonus plus your Strength modifier) or be teleported to an unoccupied space you can see within 5 feet of yourself or in the nearest unoccupied space you can see. After the target teleports, you can reduce its Speed to 0 until the end of the current turn.
 
 ### Level 10: Battering Roots
 
-Tendrils of the World Tree extend from your Melee weapons. During your turn, while you wield a Melee weapon with the Heavy or Versatile property, your reach with that weapon increases by 10 feet. When you hit with this weapon, you can activate the Push or Topple property in addition to any other Mastery property you are using with that weapon.
+Tendrils of the World Tree extend from your Melee weapons. During your turn, while you wield a Melee weapon with the **:weapon-prop-heavy: Heavy**{ .em } or **:weapon-prop-versatile: Versatile**{ .em } property, your reach with that weapon increases by 10 feet. When you hit with this weapon, you can activate the Push or Topple property in addition to any other Mastery property you are using with that weapon.
 
 ### Level 14: Travel Along the Tree
 
