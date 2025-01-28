@@ -4,11 +4,11 @@ title: "Homebrew Fighting Style"
 
 # Crown & Misery Fighting Styles
 
-These Fighting Style Feature are homebrew.ss
+These Fighting Style Feature are homebrew.
 
 ### Gallian Swordplay
 
-*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
 While wielding a **:weapon-prop-finesse: Finesse** weapon and no other weapon, you gain a +2 bonus to your attack rolls with the weapon and +1 to your AC. 
 
@@ -18,15 +18,25 @@ You only gain these benefits so long you are not wearing Heavy Armour or wieldin
 
 ### Heavy Weapon Fighting
 
-*Fighting Style Feat (Prerequisite: Fighting Style Feature)*  
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_  
 
-When you make an attack with a Cold Weapon that has **:weapon-prop-heavy: Heavy** property as part of your **:rsc-a: Attack**{ .rsc } action and the total damage roll from your weapon is 5 or lower, you treat it as 6
+When you make an attack with a **:weapon-prop-heavy: Heavy** Cold Weapon as part of your **:rsc-a: Attack**{ .rsc } action and the total damage roll from your weapon is 5 or lower, you treat it as 6
+
+--- 
+
+### Lightweight Fighting
+
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_  
+
+While you are wielding only **:weapon-prop-light: Light** weapons, and nothing else, your **:rsc-spd: Speed**{ .rsc } increases by 10 feet. You also gain a +1 bonus to damage rolls with **:weapon-prop-light: Light** weapons.
+
+You only gain these benefits so long as you are not wearing Medium or Heavy armor, or wielding a Shield
 
 ---
 
 ### Martial Adept
 
-*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
 You have studied combat techniques that allow you to perform Combat Manoeuvre.
 
@@ -42,7 +52,7 @@ If you already have a pool of Superiority Dice, these dice are added to that poo
 
 ### Signature Weapon
 
-*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
 You specialise one weapon rather than many. Choose one Weapon that you are Proficient with to be your Signature Weapon. When you make an attack with that type of weapon, you gain the following benefit, you can change your Signature Weapon when you gain a level.
 
@@ -76,27 +86,27 @@ You specialise one weapon rather than many. Choose one Weapon that you are Profi
 
 ### Polearm Fighting
 
-*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
-You gain a +1 bonus to damage rolls with Quarterstaffs, Spears, War Scythes, and weapons that has the **:weapon-prop-heavy: Heavy** and **:weapon-prop-reach: Reach** properties. While wielding one of these weapons, creatures provoke an Opportunity Attack from you when they *enter* or *move* within your reach with that weapon. 
+You gain a +1 bonus to damage rolls with Quarterstaves, Spears, War Scythes, and weapons that has the **:weapon-prop-heavy: Heavy** and **:weapon-prop-reach: Reach** properties. While wielding one of these weapons, creatures provoke an **:rsc-r: Opportunity Attack**{ .rsc } from you when they *enter* or *move* within your reach with that weapon. 
 
-Moreover, Spears gain the **:weapon-prop-reach: Reach** property when wielded with two hands.
+Moreover, Quarterstaves, Spears, and War Scythes gains the **:weapon-prop-reach: Reach** property when wielded with two hands.
 
 ---
 
 ### Sniper
 
-*Fighting Style Feat (Prerequisite: Fighting Style Feature)*  
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_  
 
-You gain a +1 bonus to attack rolls with ranged weapons, and your attacks with Ranged weapons ignore half-cover and treat three-quarter's cover as half cover.
+You gain a +1 bonus to attack rolls with Ranged weapons, and your attacks with it ignore Half Cover and treat Three-Quarters Cover as Half Cover.
 
-Moreover, having the Prone condition doesn't impose **:d20-dis: Disadvantage**{ .d20 } on your Ranged attacks with Arbalest, Crossbows, and Firearms.
+Moreover, having the ^^Prone^^ condition doesn't impose **:d20-dis: Disadvantage**{ .d20 } on your Ranged attacks with Arbalest, Crossbows, and Firearms.
 
 ---
 
 ### Standard Bearer
 
-*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
 When a creature within 10 feet of you makes an attack against a creature that you can see, you can take a **:rsc-r: Reaction**{ .rsc } to grant it **:d20-adv: Advantage**{ .d20 } on its attack roll. You must be carrying a banner, flag, holy symbol, or standard in your hand.
 
@@ -104,7 +114,7 @@ When a creature within 10 feet of you makes an attack against a creature that yo
 
 ### Strongbow
 
-*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
 You can use your Strength modifier, in place of Dexterity, for attack rolls, damage rolls, and to meet the **:weapon-prop-heavy: Heavy** weapon property requirement with Compound Bows, Longbows, and Shortbows. You also gain a +1 to damage rolls with those weapons.
 
@@ -112,7 +122,7 @@ You can use your Strength modifier, in place of Dexterity, for attack rolls, dam
 
 ### Versatile Fighting
 
-*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
 While wielding a single weapon with the **:weapon-prop-versatile: Versatile** property and no Shield, you gain a +1 bonus to your attack roll and damage roll with that weapon. While doing so, you can take one of the following actions as a **:rsc-b: Bonus Action**{ .rsc }: **:rsc-a: Unarmed Strike**{ .rsc } (Grapple or Shove only), or Utilise action.
 
