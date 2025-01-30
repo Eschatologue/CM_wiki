@@ -33,7 +33,7 @@ The Principality of Entropy, Sustainer of Oblivion, **The Spire of Destruction**
 | Name | Forme | Description |
 |---|---|---|
 | *Collapsing Star* | Archer | Once per turn, when you hit a target with your Archer Form's **:rsc-b: Bonus Action**{ .rsc } attack, all creatures within 5 feet of the target must make a :d20-save: Dexterity saving throw. On a failed save, they take damage as if they were also hit by your Archer Form's attack. |
-| *Searing Flare* | Once per turn, when you restore Hit Points to a creature using the Chalice Form feature, each creatures within 5 feet of the target must make a **:d20-save: Constitution saving throw**. On a failed save, they take **:dmg-radi: Radiant**{ .dmg-radi } damage equals to the Chalice Form's healing roll. |
+| *Searing Flare* | Chalice | Once per turn, when you restore Hit Points to a creature using the Chalice Form feature, each creatures within 5 feet of the target must make a **:d20-save: Constitution saving throw**. On a failed save, they take **:dmg-radi: Radiant**{ .dmg-radi } damage equals to the Chalice Form's healing roll. |
 | *Accretion Disk* | Dragon | While **:spell-conc: Concentrating** on a Druid spell, you can add your Wisdom modifier to all **:dmg-radi: Radiant**{ .dmg-radi } or **:dmg-fire: Fire**{ .dmg-fire } damage rolls you make. |
 
 #### Resonance of Perseverance
