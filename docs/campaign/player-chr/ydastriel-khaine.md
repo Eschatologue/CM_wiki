@@ -28,25 +28,38 @@ You can use this enhance this your Starry Form this way a number of times equal 
 
 #### Resonance of Destruction
 
-**Collapsing Star (Archer Form)**{ .inl } Once per turn, when you hit a target with your Archer Form's **:rsc-b: Bonus Action**{ .rsc } attack, all creatures within 5 feet of the target must make a :d20-save: Dexterity saving throw. On a failed save, they take damage as if they were also hit by your Archer Form's attack.
+The Principality of Entropy, Sustainer of Oblivion, **The Spire of Destruction**; *Aaraau*, has laid THEIR gaze upon you.
 
-**Searing Flare (Chalice Form)**{ .inl } Once per turn, when you restore Hit Points to a creature using the Chalice Form feature, each creatures within 5 feet of the target must make a :d20-save: Constitution saving throw. On a failed save, they take **:dmg-radi: Radiant**{ .dmg-radi } damage equals to the Chalice Form's healing roll.
-
-**Accretion Disk (Dragon Form)**{ .inl } While :spell-conc: Concentrating on a Druid spell, you can add your Wisdom modifier to all **:dmg-radi: Radiant**{ .dmg-radi } or **:dmg-fire: Fire**{ .dmg-fire } damage rolls you make.
+| Name | Forme | Description |
+|---|---|---|
+| *Collapsing Star* | Archer | Once per turn, when you hit a target with your Archer Form's **:rsc-b: Bonus Action**{ .rsc } attack, all creatures within 5 feet of the target must make a :d20-save: Dexterity saving throw. On a failed save, they take damage as if they were also hit by your Archer Form's attack. |
+| *Searing Flare* | Once per turn, when you restore Hit Points to a creature using the Chalice Form feature, each creatures within 5 feet of the target must make a **:d20-save: Constitution saving throw**. On a failed save, they take **:dmg-radi: Radiant**{ .dmg-radi } damage equals to the Chalice Form's healing roll. |
+| *Accretion Disk* | Dragon | While **:spell-conc: Concentrating** on a Druid spell, you can add your Wisdom modifier to all **:dmg-radi: Radiant**{ .dmg-radi } or **:dmg-fire: Fire**{ .dmg-fire } damage rolls you make. |
 
 #### Resonance of Perseverance
 
-**Siege Emplacement (Archer Form)**{ .inl } Allies that start its turn within 10 feet of you, gain Temporary Hit Points equal to your Druid level until the start of its next turn. 
+The Coreflame of Bravery, Engine of Immortality, **The Spire of Perseverance**; *Etemenanki*, has laid THEIR gaze upon you.
 
-**Amber Armour (Chalice Form)**{ .inl } When you restore Hit Points to a creature using the Chalice Form feature, you and all allies within 10 feet of you gain Temporary Hit Points equal to half the Chalice Form's healing roll for 1 minute.
+| Name | Forme | Description |
+|---|---|---|
+| *Siege Emplacement* | Archer | Allies that start its turn within 10 feet of you, gain Temporary Hit Points equal to your Druid level until the start of its next turn. 
+| *Amber Armour* | Chalice | When you restore Hit Points to a creature using the Chalice Form feature, you and all allies within 10 feet of you gain Temporary Hit Points equal to half the Chalice Form's healing roll for 1 minute.
+| *Warding Aura* | Dragon | While :spell-conc: Concentrating on a Druid spell, all allies within 10 feet of you gain the benefit of Half Cover.
 
-**Warding Aura (Dragon Form)**{ .inl } While :spell-conc: Concentrating on a Druid spell, all allies within 10 feet of you gain the benefit of Half Cover.
+#### Resonance of Judgement – Locked
 
-#### Resonance of Judgement (Locked)
+The All-seeing Judge, Harbinger of Consequences, **The Spire of Judgement**; *Falcone*, has yet to crush you with its karmic wheel.
 
-**Fist of Conviction (Archer Form)**{ .inl } You gain a bonus to your AC equal to your Wisdom modifier so long you are not wearing Medium or Heavy Armour or using a Shield. Additionally, as a **:rsc-a: Magic**{ .rsc } action, you can make a melee spell attack using your Archer Form's attack. At Druid level 6, this melee spell attack confers two attacks.
+| Name | Forme | Description |
+|---|---|---|
+| *Fist of Conviction* | Archer | You gain a bonus to your AC equal to your Wisdom modifier so long you are not wearing Medium or Heavy Armour or using a Shield Additionally, as a **:rsc-a: Magic**{ .rsc } action, you can make a melee spell attack using your Archer Form's attack. <br>At Druid level 6, this melee spell attack confers two attacks. |
+| *Shape of Spite* | Chalice | Once per turn, when you restore Hit Points to a creature using the Chalice Form feature, it gains a bonus to its next D20 Test equal to your Wisdom modifier.
+| *Remnants of Judgement* | Dragon | While **:spell-conc: Concentrating** on a Druid spell, if the total damage roll of one of your attacks is lower than your Wisdom modifier, you can treat the damage as equal to your Wisdom modifier. |
 
-**Shape of Spite (Chalice Form)**{ .inl } Once per turn, when you restore Hit Points to a creature using the Chalice Form feature, it gains a bonus to its next D20 Test equal to your Wisdom modifier.
+### Resonance of Enlightenment – Locked
 
-**Remnants of Judgement (Dragon Form)**{ .inl } While :spell-conc: Concentrating on a Druid spell, if the total damage roll of one of your attacks is lower than your Wisdom modifier, you can treat the damage as equal to your Wisdom modifier.
+The Jötunn of Kalevala, Poet of Spells, **The Spire of Enlightenment**; *Antero Vipunen*, has yet seen you as worthy.
 
+### Resonance of Equillibrium – Locked
+
+The █████████, █████████ ██ ██████████████, **The S█ire of ████████████**; *█████████*. The Forbidden Fruit has yet been consumed.
