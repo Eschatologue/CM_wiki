@@ -19,7 +19,7 @@ A creature has six ability scores—Strength, Dexterity, Constitution, Intellige
 
 ---
 
-## **:d20-adv: Advantage**{ .d20 } 
+## Advantage
 
 If you have **:d20-adv: Advantage**{ .d20 } on a D20 Test, roll two d20s, and use the higher roll. A roll can't be affected by more than one **:d20-adv: Advantage**{ .d20 } , and **:d20-adv: Advantage**{ .d20 } and **:d20-dis: Disadvantage**{ .d20 } on the same roll cancel each other.
 
@@ -654,6 +654,14 @@ Hit Point Dice, or Hit Dice for short, help determine a player character's Hit P
 
 Hit Points (HP) are a measure of how difficult it is to kill or destroy a creature or an object. Damage reduces Hit Points, and healing restores them. You can't have more Hit Points than your Hit Point maximum, and you can't have less than 0.
 
+Rather than solely reflecting physical injury, HP encompasses a combination of resilience, endurance, luck, and defensive measures unique to each creature. A loss of HP does not always signify a direct wound but rather a degradation of a creature’s ability to avoid, mitigate, or endure attacks. The nature of HP depletion varies depending on the individual:
+
+- A rogue may perceive HP loss as the gradual erosion of their agility and luck, with a final strike at 0 HP representing a decisive, incapacitating blow.
+- A barbarian may experience HP loss as minor wounds or glancing strikes, only succumbing when their sheer toughness is finally overwhelmed.
+- A wizard may interpret HP as the strength of their magical defenses, with incoming attacks wearing down protective wards before inflicting true harm.
+
+When a creature reaches 0 HP, it means they have sustained a decisive blow or otherwise become unable to continue fighting. The interpretation of HP loss is flexible and can be described narratively to match the nature of the character and the encounter.
+
 ---
 
 ## Hover
@@ -690,9 +698,9 @@ An improvised weapon is an object wielded as a makeshift weapon, such as broken 
 
 ---
 
-<!-- --8<-- [start:initiative] -->
-
 ## Initiative
+
+<!-- --8<-- [start:initiative] -->
 
 Initiative determines the order of turns during combat. **:d20-inv: Initiative**{.d20 } is a Dexterity ability check.
 
