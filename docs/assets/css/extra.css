@@ -1289,15 +1289,12 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
     MKdocs Material Theme Overrides
 --------------------------------------------------------*/
 /* Tool Tips adjustment to account for site size*/
-.md-tooltip {
-  border-color: hsl(174, 42%, 51%);
-  border-radius: 0.375em;
-  border-width: 0.375em !important;
-}
-
 [role=tooltip] > .md-tooltip2__inner {
   padding: 0.45em 1.5em;
   max-width: 35em;
+  border-color: hsl(174, 42%, 51%);
+  border-radius: 0.375em;
+  border-width: 0.375em !important;
 }
 
 .md-grid {
