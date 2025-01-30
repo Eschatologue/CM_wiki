@@ -56,10 +56,12 @@ The All-seeing Judge, Harbinger of Consequences, **The Spire of Judgement**; *Fa
 | *Shape of Spite* | Chalice | Once per turn, when you restore Hit Points to a creature using the Chalice Form feature, it gains a bonus to its next D20 Test equal to your Wisdom modifier.
 | *Remnants of Judgement* | Dragon | While **:spell-conc: Concentrating** on a Druid spell, if the total damage roll of one of your attacks is lower than your Wisdom modifier, you can treat the damage as equal to your Wisdom modifier. |
 
-### Resonance of Enlightenment – Locked
+#### Resonance of Enlightenment – Locked
 
 The Jötunn of Kalevala, Poet of Spells, **The Spire of Enlightenment**; *Antero Vipunen*, has yet seen you as worthy.
 
-### Resonance of Equillibrium – Locked
+#### Resonance of Equillibrium – Locked
 
-The █████████, █████████ ██ ██████████████, **The S█ire of ████████████**; *█████████*. The Forbidden Fruit has yet been consumed.
+The █████████, █████████ ██ ██████████████, **The S█ire of ████████████**; *█████████*. *"Do not ask which creature screams in the night. Do not question who waits for you in the shadow, Ydastriel, Son of Khaine."*
+
+
