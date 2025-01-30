@@ -8,9 +8,9 @@
 [role="tooltip"] > .md-tooltip2__inner {
     padding: 0.45em 1.5em;
     max-width: 35rem;
-    font-size: 0.7rem;
-    font-weight: normal;
-    border-radius: convert.px2em(4px);
+    border-color: convert.hex3hsl(#4db6ac);
+    border-radius: convert.px2em(6px);
+    border-width: convert.px2em(6px) !important; 
 }
 
 .md-grid {
