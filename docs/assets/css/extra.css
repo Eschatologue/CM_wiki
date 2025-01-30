@@ -1292,7 +1292,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 [role=tooltip] > .md-tooltip2__inner {
   padding: 0.45em 1.5em;
   max-width: 35em;
-  border: 0.1875em solid hsl(174, 42%, 51%);
+  border: 0.125em solid hsl(174, 42%, 51%);
   border-radius: 0.375em;
   font-size: calc(var(--default-font-size) * 0.75);
 }
