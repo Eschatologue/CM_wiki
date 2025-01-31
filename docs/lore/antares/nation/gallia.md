@@ -7,67 +7,87 @@ search:
 
 # Gallia
 
-#### General Information
-
-- **Capital:** Lyon
-- **Type:** Unitary Semi-Constitutional Monarchy
-- **Demonym:** Gallian, Gaul
-- **Head of State:** Emperor/Empress of Gallia
-- **Military Strength:** Imperial Custodes, Gallian Légionnaire
-- **Currency:** Gallian Silver
-
 ## Overview
 
-The **Empire of Gallia**, also referred to as the **Gallian Empire**, is an empire located in the south-east of the Antares continent. Once the dominant power in the region, with its capital **Lyon** serving as the heart of Antares, the empire's supremacy was severely weakened by the Second Maelstorm and aa violent revolution soon after.
+*"Gallia is more than an empire; it is a legacy. A legacy written in ink, fire, and blood."*  
+— Archmage Valérien d'Alembert, Imperial Historian
+{ .quote }
 
-Despite these challenges, Gallia remains a significant centre of arcane knowledge, renowned for its magical traditions. The empire continues to influence arcane warfare and hosts Antares' most prestigious military academy, where noble-born mages and sorcerers are trained in both magic and strategy. Though no longer commanding the largest military, Gallia focuses on preserving its remaining territories and protecting its magical heritage.
+The Empire of Gallia, also known as the Gallian Empire, once stood as the beating heart of Antares. Its soaring spires, gilded halls, and arcane traditions defined an age of splendour and dominance. From the capital of Lyon, its influence spread across the continent, shaping language, magic, and culture.
+
+Yet no empire lasts forever. The Second Maelstorm shattered its supremacy, and the revolution that followed nearly tore it asunder. Though diminished, Gallia remains a bastion of magical excellence and military prowess. Its sorcerers still command the battlefield, and its academies continue to shape the next generation of war-mages. Once the rulers of Antares, the Gallians now fight to preserve what remains of their empire.
 
 ## History
 
-Gallia once exerted control over vast regions of Antares, celebrated for its powerful mages and its cultural influence. The empire's practices, collectively known as **Le système Gallien**, were highly respected across the continent, and the Gallian language has since evolved into the “common tongue” spoken throughout Antares.
+### Rise of an Empire
 
-Despite its outward success, Gallia was plagued by profound societal inequality. The aristocracy enjoyed lives of privilege, while the common people were subjected to heavy taxation and harsh living conditions. This imbalance eventually led to a revolution that nearly tore the empire apart. Although the uprising was eventually quelled, it left deep and lasting scars on Gallian society.
+*"For every spell cast, for every battle won, Gallia's power grew. No land, no king, no god could stand before us."*  
+— Chancellor Armand Leclerc, Reflections on Empire
+{ .quote }
 
-As warp storms increased in frequency and London emerged as a rival power, Gallia adopted a more pragmatic stance. It reduced the size of its military, abandoned unfortified territories, and focused its efforts on defending its core regions.
+Gallia’s ascent was built on magic and war. The empire’s famed Le système Gallien, a doctrine of governance and arcane mastery, made it the envy of Antares. Its noble houses—many tracing their lineage to the first sorcerer-kings—ensured that magic remained the dominion of the aristocracy.
 
-### Gallian Revolution
+At its height, Gallia controlled vast territories, its influence shaping everything from trade to warfare. Its language became the common tongue, spoken from the frozen north to the distant east. To speak Gallian was to be civilised—to be part of a greater world.
 
-The **Gallian Revolution** erupted as widespread frustration among the common populace reached a breaking point. Burdened by oppressive taxes and scarcity of resources, and angered by the extravagance of the nobility, a movement led by disillusioned scholars, merchants, and lower-tier mages sought to dismantle the system of noble dominance and challenge the rule of the **sorcerer-emperor**.
+Yet the grandeur masked a festering rot. The empire was gilded, but fragile. And the cracks were beginning to show.
 
-For a time, the revolutionaries gained ground, seizing key cities and rallying widespread support. However, the nobility responded with a brutal counteroffensive, employing powerful spellcasters and enlisting mercenaries to crush the uprising. After years of conflict, the revolution was ultimately suppressed.
+### The Gallian Revolution
 
-In the aftermath, while the nobility maintained its hold on power, they were forced to acknowledge the fractures within their system. Minor reforms were introduced, granting limited concessions to the commoners, including reduced taxes and marginal improvements to their rights.
+*"We gave them magic, and they gave us shackles. No more."*  
+— Camille Durand, Revolutionary Leader
+{ .quote }
 
-#### Dwindling Resources
+For centuries, the commoners bore the weight of the empire’s splendour—taxed beyond reason, their lives spent in toil while the nobility feasted. The discontent simmered beneath the surface until it could no longer be contained. Scholars, merchants, and mages of lesser birth rose in rebellion, seeking to tear down the old order.
 
-As the empire's power was increasingly stretched thin, **Empress Corsica II** initiated reforms aimed at creating a more efficient system of governance. These changes shifted power away from the traditional nobility and granted greater authority to merchants and individuals from non-noble backgrounds.
+At first, they succeeded. Cities fell, palaces burned, and the nobles who had once ruled unchallenged now found themselves hunted in the streets. But magic is not easily overthrown.
 
-However, these reforms did little to alleviate the long-standing tension between the noble class and the commoners. The Sub-Revolution, while modernising Gallia's governmental structure, was primarily a response to the empire's declining resources and was driven by the need to protect Gallia's remaining territories from external threats.
+The sorcerer-emperor and his loyalists unleashed their wrath, drowning the revolution in fire and blood. What had once been a battle for freedom became a brutal war of attrition. When the flames finally died down, the old order remained, but it was forever weakened. Concessions were made—taxes lowered, minor rights granted—but the scars of the revolution would never heal.
 
-The reforms of Empress Corsica II are believed to have been motivated by a failed assassination attempt against her, orchestrated by discontented nobles. Historical accounts suggest that the empress was initially unaware of the revolution's scale until revolutionaries breached the imperial palace. In a desperate act of self-defence, Corsica II killed several attackers with her sorcery. After discovering the plot against her, she enacted sweeping reforms to secure her position and consolidate her power.
+### The Reforms of Empress Corsica II
 
-### Imperial Council Overhaul
+*"Revolutions do not end with fire. They end when rulers learn to listen."*  
+— Empress Corsica II
+{ .quote }
 
-In the aftermath of the Sub-Revolution, **Empress Corsica II** undertook a radical reform of the imperial council, introducing a merit-based selection process for council members. Previously, these positions had been the exclusive privilege of the nobility, but under the empress's new system, individuals from any background could theoretically qualify for a seat on the council.
+Empress Corsica II inherited a broken empire. The nobility, weakened by infighting, could no longer rule as they once did. The commoners, emboldened by revolution, refused to return to their chains.
 
-This move was met with strong resistance from the aristocracy, who viewed it as an affront to their centuries-old rights. Despite the introduction of meritocratic principles, the majority of successful candidates remained from noble backgrounds, as they were more likely to have access to the education and resources required to compete. Although this reform was perceived by many as another attempt by Empress Corsica II to cement her power, it did allow for a limited degree of social mobility, enabling talented commoners to rise within the empire's ranks.
+To preserve Gallia, Corsica II enacted radical reforms. She reduced the power of the great houses, granting greater influence to merchants and scholars. The Imperial Council, once an aristocratic enclave, became a meritocratic body—at least in theory. The nobility, unwilling to relinquish their grip, ensured that wealth and influence still determined one's rise, but the illusion of change was enough to maintain order.
 
-*“She has taken leave of her senses. To allow commoners—peasants—to sit among the Empire's rulers is the height of madness.”* — Anonymous Gallian noble (found dead the following day).
+Her reforms may have saved the empire. They may also have sealed its fate.
 
-### Lothringen Rebellion
+### The Lothringen Rebellion
 
-For centuries, the region of **Lothringen** (formerly known as Lorraine) was a subject territory of the Gallian Empire. However, during the period of the revolution, the Lothringian people seized the opportunity to declare independence. 
+*"They call us rebels. We call ourselves free men."*  
+— Kaiser Wilhelm von Lothringen
+{ .quote }
 
-With Gallia preoccupied by widespread unrest and mass protests in its core territories, Lothringen faced little resistance. Minor skirmishes occurred along the borders, but Gallia lacked the resources and focus to mount a coordinated response. As a result, Lothringen successfully detached itself from the empire's rule and established itself as an independent political entity, led by its newly crowned **Kaiser**. 
+For centuries, the region of Lothringen (formerly Lorraine) had been a Gallian province, its people bound by imperial law. Yet during the revolution, as Gallia burned, Lothringen saw its chance.
 
-In the modern era, relations between Gallia and Lothringen remain shaky at best. By the time Gallia somewhat recovered its stability, Lothringen had already developed into a well-established and functioning nation. With a sophisticated military and a strategic political presence in Antares, retaking the territory has become increasingly difficult, especially as Gallia no longer had its former strength. 
+With the empire too weakened to respond, the Lothringians declared independence. Minor skirmishes flared along the borders, but Gallia had neither the strength nor the will to reclaim its lost province. By the time the empire stabilized, Lothringen had become a nation in its own right, with a crowned Kaiser and an army strong enough to deter invasion.
 
-## Government Structure
-
-Gallia is an empire led by an **emperor** or **empress**, who holds significant power but does not rule alone. A council made up of nobles and other high-ranking officials helps manage the empire. Though the emperor or empress makes the final decisions, the council handles day-to-day governance and advises on important matters.
-
-This system allows for more efficient rule, especially after the reforms introduced by **Empress Corsica II**, which opened the council to a broader group of individuals.
+Gallia still claims Lothringen as rightful imperial land, while Lothringians care little for such claims.
 
 ## Society
 
-Gallia is divided between the **nobility** and the **commoners**. The nobility enjoy great privileges, including access to education and others, while the commoners work hard and pay heavy taxes. Though recent reforms have allowed some commoners to rise in status, the divide between the two groups remains wide. Most mages and military leaders still come from noble families, as they have the resources to receive the best training. However, there is now a small chance for talented commoners to improve their lives, thanks to the merit-based reforms. 
+*"The nobility hoard knowledge, the commoners spill blood, and the empire endures. This is Gallia."*  
+— Martel Beauchamp, former revolutionary
+{ .quote }
+
+Gallia is a land of contrasts. The nobility wield power, while the common folk toil beneath them, their lives spent in service. Though Corsica II’s reforms granted limited social mobility, the divide remains vast.
+
+To be born noble is to inherit magic, education, and prestige. To be born common is to fight for every scrap of recognition.
+
+Yet for all its inequalities, Gallia remains the pinnacle of arcane knowledge. Its academies train the finest mages, its military blends strategy with spellcraft, and its culture continues to shape the continent. Even in decline, Gallia’s legacy endures.
+
+### Government Structure
+
+*"A throne is not a seat of power. It is a burden—one that must never be allowed to fall."*  
+— Chancellor Étienne Vaudrin
+{ .quote }
+
+Gallia remains an empire, ruled by an **emperor** or **empress**, but the days of absolute rule are long gone. The **Imperial Council**, once a noble-exclusive body, now allows for select common-born individuals to rise to power—though wealth and influence still dictate who truly holds sway.
+
+Corsica II’s reforms introduced meritocratic elements, but the system remains in favour of the old elite. Titles may no longer be absolute, but power still clings to those who have always held it.
+
+For now, Gallia endures. How long it can continue remains to be seen.
+

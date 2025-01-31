@@ -3,9 +3,7 @@ search:
   boost: 0.25
 ---
 
-:nation-albion:{ .xxxxl }
-
-# Albion
+<!---
 
 #### General Information
 
@@ -17,40 +15,84 @@ search:
 - **Military Strength:** Dominion's Army (Air Force & Land Fleet)
 - **Currency:** British Sovereign, Gallian Silver
 
-## Overview
+-->
 
-The **Dominion of Albion**, officially referred to as **Albion** and commonly known as **London**, is a nation located in the northwestern part of Antares, characterised by its sprawling metropolises of steel and glass, and its bleeding-edge technology. Albion is widely regarded as a bastion of industrial might and military prowess, standing as the most influential nation in Antares.
+:nation-albion:{ .xxxxl }
 
-## History
+# Albion  
 
-### Origins and Emergence
+## Overview  
 
-The precise origins of Albion remain a topic of academic debate. The sudden emergence of a powerful nation, born from a group of refugees, is often described as a historical anomaly. Historical records, particularly those kept by the elves, suggest that the first documented encounters with the Londoners occurred several decades before the fall of the Great Elven Empire. These records point to their arrival through an enigmatic structure known as the **Northern Gate**.
+*"You will find no sorcery in Albion, no incantations whispered into the wind, no divine miracles granted by the gods. We build our future with steel and toil, not superstition."*  
+— Lord Commander Elias Hargrove, addressing foreign emissaries
+{ .quote }
 
-One day, the statue guarding the gate illuminated, and its doors unexpectedly opened. The elves, anticipating a hostile force, instead found a group of humans in tattered clothing, many of them injured. These refugees introduced themselves as "British" and, despite their modest appearance, demonstrated a surprising degree of intelligence and technical expertise. In the following years, the British population grew rapidly, with their camps developing into towns, and eventually, vast cities that rivalled the grandeur of ancient dwarven settlements.
+The **Dominion of Albion**, known colloquially as **London**, stands as the pinnacle of industry and military discipline in Antares. While other nations wield magic and tradition, Albion’s strength lies in unyielding pragmatism and technological ingenuity. Towering cities of glass and iron dominate its skyline, a testament to the resilience of a people who arrived with nothing and forged an empire from the ruins of their past.  
 
-### Rising Tensions with the Elves
+## History  
 
-As Albion's presence expanded, relations with the elves deteriorated. Initially, the elves had offered sanctuary to the refugees, but their rapid growth soon raised concerns. During this period, elven politics took a sharp turn towards nationalism and fanaticism. As the Londoners lacked the arcane abilities that the elves wielded, the latter began to view their technological advancements with suspicion. 
+### Origins and Emergence  
 
-Under the pretext of reclaiming ancestral lands, elven forces began encroaching on Albion's territory. The elves demanded access to London's technological secrets, and when these demands were refused, they resorted to increasingly aggressive tactics, including the abduction and enslavement of London citizens.
+*"One day, the Northern Gate opened, and they came—haggard, wounded, desperate. We thought them beggars, vagrants. We were wrong."*  
+— Archmage Elarion Sampo, Council of Elders
+{ .quote }
 
-The expansion of Albion's urban landscape also contributed to the rising tensions. Forests that had stood for centuries were cleared to accommodate new settlements, an act initially dismissed by the elves. However, as deforestation continued, it sparked outrage among elven communities who viewed it as an assault on their sacred lands. The mounting hostilities eventually led to open warfare between the two factions.
+The origins of Albion remain an enigma even to this day. The elves, meticulous in their record-keeping, were the first to document their arrival. A monumental stone gateway—silent for untold centuries—suddenly came to life. The great statue that stood as its sentinel stirred, its hollow eyes glowing as the doors groaned open.  
 
-### The Great Split
+What emerged was no invading army, no celestial emissary, but a bedraggled mass of humans, draped in rags and bearing wounds of unknown origin. They called themselves *British*, and while their bodies bore the scars of hardship, their minds harboured knowledge beyond comprehension. Even in those early days, when they built their first ramshackle settlements in the shadow of elven spires, there was something different about them.  
 
-The ensuing conflict, later known as **The Great Split**, is widely regarded as one of the bloodiest and most consequential wars in Antares' history. The war pitted the fey magic and nature-based forces of the elves against Albion's industrial might. It marked the first time that a non-magical force successfully challenged the dominance of powers in the region.
+They did not wield magic. They had no ties to the gods. Yet their hands shaped metal into weapons unseen, their minds conjured machines that defied nature’s order. And where others took centuries to build a nation, they accomplished it within a single lifetime.  
 
-The war was characterised by brutal, large-scale battles that devastated much of the land. In a decisive and final act, Albion's forces succeeded in breaching one of the elves' most sacred sites and felling **Yggdrasil**, the tree of life. This not only crippled the elves' morale but also marked the symbolic end of their supremacy, ushering in a new era dominated by technological might.
+### Rising Tensions with the Elves  
 
-## Society
+*"We granted them shelter, and they repaid us with steel. We should have rid them out while we had the chance."*   
+— High Lord Nithenoel Vanhatalo, last ruler of the Tähdenvalta Empire  
+{ .quote }
 
-Albion has a unique and often perplexing society compared to other nations. Where many countries adopt an optimistic or inflated view of their own grandeur, Albion's worldview is starkly different. The country is steeped in a deep-rooted pessimism, born from a history of perpetual warfare.
+At first, the elves welcomed the Londoners, offering them land and protection. Yet what began as an act of benevolence soon soured into resentment. Cities rose where forests once stood. Machines churned where rivers once flowed. The British expanded ceaselessly, unconcerned with the sacred lands they claimed.  
 
-Historians from Albion note that the nation has experienced no sustained period of peace for over two centuries. This unbroken cycle of conflict has shaped a society that values discipline, duty, and the collective over individual desires. The state's authority is maintained through a strict social order, with citizen participation in governance being mandatory. From a young age, children are taught to prioritise their responsibilities to the nation, ensuring that the survival of Albion takes precedence over personal aspirations.
+And then came the demands.  
 
-### Government Structure
+The elves, wary of Albion’s growing power, sought to control it. They insisted on oversight, demanded the secrets of London’s industry be shared. When their petitions were denied, they turned to coercion—kidnappings, sabotage, even slavery.  
 
-Albion operates as a borderline stratocracy, where military and civil governance are intertwined. Citizens are not only encouraged but required to serve the government for a period, often through military service or sometimes civil roles. This fusion of military and civilian life reinforces Albion's robust sense of discipline and unity, where governance is seen as a collective duty shared by all.
+The final breaking point came when an elven warband raided an Albion outpost, seizing dozens of its people. The retaliation was swift and merciless. It was the first time Antares witnessed the full fury of Albion’s industry—and it would not be the last.  
 
-Despite its rigid structure, the Dominion of Albion is notably inclusive of all species, creeds, and backgrounds. However, this inclusiveness stems more from practical necessity than from a sense of altruism. The need for manpower, resources, and expertise from a variety of sources has driven Albion to adopt a more open policy.
+### The Great Split  
+
+*"Magic was the world’s greatest power… until the day we burned their gods to ash."*  
+— Captain Avery Harcourt, Albion Engineer Corps  
+{ .quote }
+
+The war that followed—the **Great Split**—was unlike any before it. Albion’s armies, devoid of magic, faced the full might of the elven hosts, creatures of fey and nature wielding forces beyond mortal reckoning. By all logic, Albion should have crumbled.  
+
+But war is not waged with logic. It is waged with fire and iron.  
+
+The elves fought with spells and summoned beasts. Albion answered with artillery and machines of war. The forests, once their greatest weapon, were set ablaze. Their enchanted warriors fell to bullets faster than they could weave their incantations.  
+
+And then, the unthinkable happened. The **Yggdrasil**, the heart of elven dominion, fell. Whether by bombardment or some final act of defiance, none can say for certain. What is known is this—when the sacred tree was reduced to cinders, so too was the elves' supremacy.  
+
+Their age had ended. Albion’s had begun.  
+
+## Society  
+
+*"Other nations dream of glory. We dream of survival."*   
+— Citizen’s Handbook, Albion Civil Authority
+{ .quote }
+
+Albion is a nation unlike any other. It is a society built not on dreams, but on necessity. Where others revel in stories of heroes and legends, Albion remembers only war. Its people are not bound by grand ideals but by duty—to the state, to the collective, to survival itself.  
+
+For two hundred years, Albion has known no peace. The world beyond its borders is hostile, and so Albion endures. From the moment a child can walk, they are taught discipline. They are taught that duty is not a choice, but an expectation. Albion must survive, no matter the cost.  
+
+### Government Structure  
+
+*"We do not serve kings, nor do we bow to gods. We serve Albion. That is enough."*   
+— Marshal Edric Vaughn, Ministry of Order
+{ .quote }
+
+Albion is often mistaken for a stratocracy, though its governance is more complex. Every citizen, regardless of birth or status, is bound by a period of service to the state—be it through military, civil, or industrial labour. Governance is not a privilege but a responsibility, shared among those who have earned the right to lead.  
+
+While it may appear rigid, Albion’s inclusivity is born not from virtue, but necessity. The state has no patience for petty divisions—only competence matters. Those who serve, regardless of origin, become part of Albion.  
+
+For in Albion, there are no lords, no chosen bloodlines.  
+
+There is only the Dominion.  

@@ -13,6 +13,8 @@
 
 <!--- Actions --->
 
+<!---
+
 *[Attack]: Attack with a weapon or an Unarmed Strike.
 *[Dash]: For the rest of the turn, give yourself extra movement equal to your <strong>Speed</strong>.
 *[Disengage]: Your movement doesn't provoke Opportunity Attack for the rest of the turn.
@@ -25,3 +27,5 @@
 *[Search]: Make a Wisdom (Insight, Medicine, Perception, or Survival) check.
 *[Study]: Make an Intelligence (Arcana, History, Investigation, Nature, or Religion) check.
 *[Utilise]: Use a nonmagical object, don or doff a Shield.
+
+--->

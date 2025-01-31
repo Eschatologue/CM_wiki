@@ -10,7 +10,7 @@ When you do something other than moving or communicating, you typically take an 
 
 The game uses actions to govern how much you can do at one time. **You can take only one action at a time**. This principle is most important in Combat.
 
-Actions can come up in other situations too: In a social interactions, you can try to Influence a creature or use the Search action to read the creature's body language, but you can't do both at the same time. And when you're exploring a dungeon, you can't simultaneously use the Search action to look for traps and use the Help action to aid another character who's trying to open a stuck door (with Utilise action)
+Actions can come up in other situations too: In a social interactions, you can try to **:rsc-a: Influence**{ .rsc } a creature or use the Search action to read the creature's body language, but you can't do both at the same time. And when you're exploring a dungeon, you can't simultaneously use the Search action to look for traps and use the Help action to aid another character who's trying to open a stuck door (with Utilise action)
 
 ## Resources
 
