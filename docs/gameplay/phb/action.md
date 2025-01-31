@@ -4,24 +4,7 @@ icon: rsc/a
 
 # Actions
 
-When you do something other than moving or communicating, you typically take an action. They are acts taken by creatures on their turns. Actions are generally taken in order to deal damage, cast spells, make ability checks or inflict harmful conditions, but they can also be taken to heal or aid allies. The Action table lists the game’s main actions.test
-
-##### Actions
-
-| Action | Summary |
-|---|---|
-| Attack | Attack with a weapon or an Unarmed Strike(#unarmed-strike). |
-| Dash | For the rest of the turn, give yourself extra movement equal to your **:rsc-spd: Speed**. |
-| Disengage | Your movement doesn't provoke Opportunity Attack for the rest of the turn. |
-| Dodge | Until the start of your next turn, attack rolls against you have **:d20-dis: Disadvantage**{ .d20 }, and you make Dexterity saving throws with Advantage. You lose this benefit if you have the Incapacitated condition or if your Speed is 0. |
-| Help | Help another creature's ability check or attack roll, or administer first aid. |
-| Hide | Make a Dexterity (Stealth) check. |
-| Influence | Make a Charisma (Deception, Intimidation, Performance, or Persuasion) or Wisdom (Animal Handling) check to alter a creature's attitude. |
-| Magic | Cast a spell, use a magic item, or use a magical feature. |
-| Ready | Prepare to take an action in response to a trigger you define. |
-| Search | Make a Wisdom (Insight, Medicine, Perception, or Survival) check. |
-| Study | Make an Intelligence (Arcana, History, Investigation, Nature, or Religion) check. |
-| Utilise | Use a nonmagical object. |
+When you do something other than moving or communicating, you typically take an action. They are acts taken by creatures on their turns. Actions are generally taken in order to deal damage, cast spells, make ability checks or inflict harmful conditions, but they can also be taken to heal or aid allies.
 
 ## One Thing at a Time
 

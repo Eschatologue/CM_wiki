@@ -10,7 +10,7 @@
 [role="tooltip"] > .md-tooltip2__inner {
     padding: 0.45em 1.5em;
     max-width: convert.px2em(560px);
-    border: convert.px2em(2px) solid convert.hex3hsl(#4db6ac);
+    border: convert.px2em(2.5px) solid var(--md-primary-fg-color);
     border-radius: convert.px2em(6px);
     font-size: #{calc(var(--default-font-size) * 0.75)};
 }
