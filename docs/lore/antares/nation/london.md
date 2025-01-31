@@ -24,17 +24,17 @@ search:
 ## Overview  
 
 *"You will find no sorcery in Albion, no incantations whispered into the wind, no divine miracles granted by the gods. We build our future with steel and toil, not superstition."*  
-— Lord Commander Elias Hargrove, addressing foreign emissaries
+— **Commander Elias Hargrove**, addressing foreign emissaries
 { .quote }
 
-The **Dominion of Albion**, known colloquially as **London**, stands as the pinnacle of industry and military discipline in Antares. While other nations wield magic and tradition, Albion’s strength lies in unyielding pragmatism and technological ingenuity. Towering cities of glass and iron dominate its skyline, a testament to the resilience of a people who arrived with nothing and forged an empire from the ruins of their past.  
+The **Dominion of Albion**, known colloquially as **London**, stands as the pinnacle of industry and military discipline in Antares. While other nations wield magic and tradition, Albion’s strength lies in unyielding pragmatism and technological ingenuity. Towering edifices of steel and glass dominate its skyline, while airships swarms between its crevices. Albion's industry thunders.
 
 ## History  
 
 ### Origins and Emergence  
 
 *"One day, the Northern Gate opened, and they came—haggard, wounded, desperate. We thought them beggars, vagrants. We were wrong."*  
-— Archmage Elarion Sampo, Council of Elders
+— **Archmage Elarion Sampo**, Council of Elders
 { .quote }
 
 The origins of Albion remain an enigma even to this day. The elves, meticulous in their record-keeping, were the first to document their arrival. A monumental stone gateway—silent for untold centuries—suddenly came to life. The great statue that stood as its sentinel stirred, its hollow eyes glowing as the doors groaned open.  
@@ -46,7 +46,7 @@ They did not wield magic. They had no ties to the gods. Yet their hands shaped m
 ### Rising Tensions with the Elves  
 
 *"We granted them shelter, and they repaid us with steel. We should have rid them out while we had the chance."*   
-— High Lord Nithenoel Vanhatalo, last ruler of the Tähdenvalta Empire  
+— **High Lord Nithenoel Vanhatalo**, last ruler of the Tähdenvalta Empire  
 { .quote }
 
 At first, the elves welcomed the Londoners, offering them land and protection. Yet what began as an act of benevolence soon soured into resentment. Cities rose where forests once stood. Machines churned where rivers once flowed. The British expanded ceaselessly, unconcerned with the sacred lands they claimed.  
@@ -60,7 +60,7 @@ The final breaking point came when an elven warband raided an Albion outpost, se
 ### The Great Split  
 
 *"Magic was the world’s greatest power… until the day we burned their gods to ash."*  
-— Captain Avery Harcourt, Albion Engineer Corps  
+— **Captain Avery Harcourt**, Albion Engineer Corps  
 { .quote }
 
 The war that followed—the **Great Split**—was unlike any before it. Albion’s armies, devoid of magic, faced the full might of the elven hosts, creatures of fey and nature wielding forces beyond mortal reckoning. By all logic, Albion should have crumbled.  
@@ -86,7 +86,7 @@ For two hundred years, Albion has known no peace. The world beyond its borders i
 ### Government Structure  
 
 *"We do not serve kings, nor do we bow to gods. We serve Albion. That is enough."*   
-— Marshal Edric Vaughn, Ministry of Order
+— **Marshal Edric Vaughn**, Ministry of Order
 { .quote }
 
 Albion is often mistaken for a stratocracy, though its governance is more complex. Every citizen, regardless of birth or status, is bound by a period of service to the state—be it through military, civil, or industrial labour. Governance is not a privilege but a responsibility, shared among those who have earned the right to lead.  

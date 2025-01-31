@@ -1,73 +1,96 @@
 ---
 search:
   boost: 0.25
-status: draft
 ---
 
 :nation-valinor:{ .xxxxl }
 
-# Valinor
+# Valinor  
 
-The **State of Valinor**, often referred to as **Valinor**, is a city-state located in the northernmost reaches of the Antares frozen wasteland. It serves as a beacon of warmth and vitality in a land dominated by harsh, icy conditions. Valinor is primarily populated by elves, many of whom are refugees from The Great Forest and Myrkheim, as well as political exiles seeking sanctuary from their homeland.
+## Overview  
 
-Valinor's survival in this hostile environment is made possible by the **Irminsul**, a monumental engine that generates the heat and energy required to keep the city-state alive. This marvel of engineering is crucial, as it combats the bitter cold of the wasteland's perpetual winter, ensuring the inhabitants of Valinor can endure the frozen landscape.
+*"We did not flee to Valinor to hide—we came to outlast the world that cast us aside."*  
+— Chancellor Elyndor Vael, inaugural address  
+{ .quote }
 
-In addition to the Irminsul, Valinor is famed for its scholarly pursuits. The city-state boasts vast halls of study and a well-guarded library, which has recently opened its doors to the wider world. Scholars, students, and intellectuals from across Antares brave the treacherous journey to Valinor in pursuit of knowledge, drawn by the allure of its academic riches.
+The **State of Valinor**, often referred to simply as **Valinor**, stands as a lone beacon of warmth in the frozen northern wastelands of Antares. A city-state built upon perseverance, it shelters elves who once called the verdant forests and great halls of Myrkheim home—refugees, exiles, and those who sought to escape the oppression of their past.   
 
-## History
+The lifeblood of Valinor is the **Irminsul**, a colossal engine that generates the heat and energy needed to sustain the city. Without it, the unrelenting cold of the wastelands would claim every soul within its walls. More than a mere machine, the Irminsul is a monument to the elves’ ingenuity, proof that survival lies not in harmony with nature, but in dominion over it.   
 
-### Political Turmoil and Exile
+Beyond survival, Valinor has carved out an identity as the **scholarly heart of Antares**. Once secretive, the elves have now thrown open their archives, turning their city into a sanctuary of knowledge. Scholars from distant lands brave the treacherous journey north, drawn to the promise of learning and the wisdom of a civilisation that refuses to fade.  
 
-Valinor's foundation is deeply rooted in the political upheaval that consumed the elven nations. Once admired for their rich cultural heritage, the elves' governments became increasingly authoritarian, with dissenters silenced or exiled. The oppressive regime twisted the elven identity into a tool for maintaining power, quashing opposition, and enforcing rigid ideological control across society.
+## History  
 
-Art, education, and even private life were shaped by propaganda, distorting the essence of elven culture to suit the whims of the ruling elite. Any who dared resist or speak out were branded as traitors, swiftly persecuted, and exiled.
+### Political Turmoil and Exile  
 
-### War and Resistance
+*"The forests we once called home became our cages. To leave was treason—to stay was a slow death."*  
+— Excerpt from *The Silent Exodus*  
+{ .quote }
 
-During the height of the war between the elves and Londoners, internal resistance to the conflict was growing. The war, viewed by many as unjust, silenced dissent by conscripting critics and sending them to the frontlines. Elven resistance groups, however, managed to seize a significant military asset: an abandoned Dreadnought left behind by retreating London forces.
+The foundation of Valinor is steeped in the downfall of the elven nations. The once-revered courts of the elves grew rigid, their rule descending into authoritarianism. Dissent was silenced, culture twisted into propaganda, and those who opposed the regime were exiled or executed.   
 
-Despite the language barriers and the complexity of the technology, the resistance captured London soldiers and pieced together the dreadnought's operations, transforming it into a tool of escape and survival.
+What began as a slow erosion of freedom became outright persecution. Art, academia, and personal belief were all shaped by the will of the ruling elite. Those who resisted were branded as enemies of the state. When war with Albion erupted, the voices of opposition were silenced further—many of those who spoke against the conflict were sent to die on the frontlines.  
 
-### The Escape
+### War and Resistance  
 
-Faced with the collapse of their homeland, the resistance gathered fellow elves and refugees to embark on a perilous journey to escape oppression. Using the captured Dreadnought as both transport and symbol of hope, they travelled through hostile lands, evading pursuit while struggling with internal tensions and the constant threat of betrayal.
+*"We stole the very blade meant to cut us down."*  
+— Captain Lirian Aethor, Valinor Resistance  
+{ .quote }
 
-After enduring months of peril and uncertainty, they finally reached the desolate frozen wastelands of northern Antares. The dreadnought, named **HMD Valinore**, became the foundation for their new nation.
+As the war against Albion raged, a splinter faction within elven society refused to take part. Branded as traitors, they sought to escape rather than die in a conflict they did not believe in. Their opportunity came with the discovery of an abandoned **Dreadnought**, left behind by retreating London forces. Though foreign and incomprehensible, the rebels seized it, learning its secrets through captured Albion engineers.   
 
-## Lady Grey
+With the ship under their control, they turned their eyes northward—away from their persecutors, away from war.  
 
-Shortly after the establishment of Valinor, a cataclysmic event occurred—**The Lady Grey**, a massive snowstorm that engulfed the region for 96 hours. Temperatures plummeted from -10°C to a fatal -200°C, causing catastrophic loss of life. During the storm, heat-based magic failed, leaving the **Irminsul Generator** as the only viable source of warmth. Though the generator was pushed to its limits, it narrowly avoided complete destruction.
+### The Escape  
 
-The storm forced a profound cultural shift. Where once the elves believed in the harmonious stewardship of nature, the frozen wasteland taught them that survival required dominance over their environment. The elves' long lifespans provided little protection against the harsh realities of their new home, and the lesson was clear—nature would not nurture them, and only through control and ingenuity could they hope to survive.
+The journey was perilous. Pursued by their own kin and burdened by the sheer weight of survival, the exiles endured internal conflict, betrayal, and hardship. The **HMD Valinore**, as the dreadnought came to be known, carried them through frozen tundras and desolate wastes until, at last, they reached a place where none would follow.   
 
-### Aftermath
+The north.  
 
-In the aftermath of **The Lady Grey**, Valinor rapidly transformed from a series of refugee camps into a thriving city-state. The Irminsul continued to power their society, and a surge in birth rates ensured the growth of their population.
+It was here, amidst the ice and howling winds, that they built their new home.  
 
-However, with this expansion came new challenges. As Valinor's influence and size increased, so did the complexities of governance. The political landscape, shaped by lessons from their troubled past, has become a balancing act of maintaining order while adapting to the harsh conditions of their new homeland.
+## Lady Grey  
 
-## Government Structure
+*"It came with no warning. The cold stole breath from our lungs, turned flesh to ice, and nearly brought Valinor to ruin before it had even begun."*  
+— Scholar Thaelorin Vel  
+{ .quote }
 
-Valinor, though a city of scholars, keeps its government simple and efficient. As a small city-state, it doesn't need the complex bureaucracy of larger nations. Instead, it operates through several councils—representing scholars, artisans, military leaders, etc—that work together to govern the city.
+Shortly after Valinor’s founding, a disaster struck—**Lady Grey**, a cataclysmic snowstorm that engulfed the region for 96 hours. Temperatures plummeted from -10°C to an unimaginable -200°C. Fire froze. Magic failed. And as the frost claimed lives by the hundreds, only one thing stood between Valinor and oblivion—the **Irminsul Generator**.   
 
-Major decisions are often put to a vote, allowing citizens to have a direct say in important matters. This decentralised system ensures that power is shared, maintaining a balance between leadership and the city's academic spirit, while keeping Valinor independent and stable.
+Though pushed to its absolute limit, the machine endured. When the storm finally passed, the elves emerged to find their city buried, their numbers thinned. **The lesson was clear: nature would not nurture them. Only mastery over it would ensure their survival.**  
 
-## Culture
+## Society  
 
-### The Counter
+*"We do not wait for salvation. We carve it from the ice with our own hands."*  
+— Valinor Proclamation of Founding  
+{ .quote }
 
-Due to their long lifespans, elves perceive time quite differently from shorter-lived races. While a human might consider a decade to be significant, for an elf, it is but a drop in the ocean of their existence. However, during Valinor's first colonisation attempt, this perception proved fatal. In the deadly cold of Antares' northern wastes, where a single misstep could mean death within days, the elves were forced to change their way of thinking.
+Valinor is a city built not on grandeur, but on necessity. Here, survival is not taken for granted—it is earned. The elves of Valinor have shed the passive traditions of their ancestors, replacing them with a doctrine of self-reliance, pragmatism, and control.   
 
-Their solution was a timekeeping system known as **The Counter**. Unlike traditional measures of time, The Counter does not track the passage of days or years. Instead, it counts each life lost. Every death raises The Counter by one, serving as a brutal yet effective reminder that they no longer live in the lush green forests of their past. This system reinforces the harsh reality of their new environment, where survival takes precedence over all else.
+### The Counter  
 
-Though the elves now keep traditional time like other nations, **The Counter** is often displayed alongside it. As of today, it sits at 2,682.
+In the lush forests of their past, the elves measured time in centuries. In Valinor, time is measured in lives lost.   
 
-### Land of Academics
+The **Counter** is an ever-present tally, increasing with every death. More than a mere record, it is a stark reminder that life in the north is fragile and unforgiving. While standard calendars are still used, the Counter remains the true measure of time in Valinor. As of today, it stands at **2,682**.  
 
-Of all the races across Antares, none have guarded their knowledge as fiercely as the elves. Their ancient wisdom, bound in tomes and etched into scrolls, was once a closely held secret, often taken to the grave and lost to time. However, Valinor's rise as a city of academics did not stem from a noble desire to share this hidden knowledge. It was born from necessity.
+### Land of Academics  
 
-Valinor needed a lifeline to the outside world if it was to do more than merely survive. Its remote location, engulfed in an endless winter, offered little in the way of natural resources. There were no bustling factories, no fertile land for crops, and no vibrant tourism industry—just an endless expanse of ice and snow. Trade routes passed far from Valinor, and the nation itself had little of tangible value to offer.
+*"We hoarded our knowledge for centuries, and for what? To watch it burn?"*  
+— Grand Archivist Sylwen Marathil  
+{ .quote }
 
-What the elves did possess were vast troves of books, scrolls, and records from their fallen empire—too valuable to destroy, yet useless for their immediate survival. Faced with these circumstances, the elves made a decision to send ambassadors to other nations and opened their archives to the world.
+In their exile, the elves carried with them something beyond mere survival—**knowledge**. Tomes, scrolls, and records salvaged from the ruins of their past became the foundation upon which Valinor would thrive. Where other nations wield authority and magic, Valinor wields information.   
 
-As a result, grand libraries and halls of learning were constructed, towering above all else the elves had built in the frozen wastes. These majestic structures symbolised Valinor's gamble—whether their decision to embrace academia would succeed or fail. In the end, it paid off, and Valinor emerged as the great city of knowledge it is known as today.
+It was not out of charity that they opened their archives, but necessity. Trapped in an inhospitable land with little to trade, Valinor offered its wisdom as its most valuable resource. And the world came. Scholars, mages, and thinkers from all corners of Antares braved the frozen roads, drawn to the promise of enlightenment. Grand halls of study rose from the snow, their towering spires now the most defining feature of Valinor’s skyline.   
+
+Today, Valinor is **the** centre of academia in Antares, a city where knowledge is the greatest currency. But even here, secrets remain—some books are locked away, some knowledge deemed too dangerous to share. And in the deepest vaults of Valinor’s libraries, beneath ice and stone, lie records of a world long lost… waiting to be uncovered.  
+
+## Government Structure  
+
+*"Knowledge is power. Power must be guided, not hoarded."*  
+— Scholar’s Council Doctrine  
+{ .quote }
+
+Valinor rejects the rigid hierarchies of its past. Instead, governance is shared among councils—each representing scholars, engineers, artisans, and military leaders. Decisions are reached through deliberation and vote, ensuring that no single group holds unchecked authority.   
+
+While merit and knowledge guide leadership, Valinor is no utopia. Power struggles exist, and the balancing act between governance and academic freedom remains delicate. Yet despite its challenges, Valinor endures—its people bound not by blood or conquest, but by the unyielding pursuit of survival and knowledge.  

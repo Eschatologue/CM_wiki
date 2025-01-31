@@ -1,37 +1,70 @@
 ---
 search:
   boost: 0.25
-status: draft
 ---
 
 :nation-myrkheim:{ .xxxxl }
 
 # Myrkheim
 
-The **Federal Republic of Myrkheim**, commonly known as **Myrkheim**, is a dwarf-dominated nation located in the mountainous regions of Antares. Known for its expertise in mining and craftsmanship, the dwarves have transformed their rugged terrain into formidable fortresses and industrial cities. Once fractured by internal conflicts, Myrkheim is now a major supplier of raw materials to nations across Antares, bolstered by technological partnerships with London.
+*"Stone endures where flesh withers. The mountain does not kneel."*  
+— Ancestral Proverb of Myrkheim
+{ .quote }
+
+The **Federal Republic of Myrkheim**, commonly known as **Myrkheim**, is a dwarf-dominated nation located in the mountainous regions of Antares. Known for its expertise in mining and craftsmanship, the dwarves have transformed their rugged terrain into formidable fortresses and industrial cities. Once fractured by internal conflicts, Myrkheim is now a major supplier of raw materials to nations across Antares, bolstered by technological partnerships with Albion.
 
 ## History
 
 ### Origins and Early Conflicts
 
-Myrkheim's early history was marked by constant clan warfare, as dwarves vied for control over mountain territories. These wars forged their combat prowess and resulted in centuries of social upheaval, with power struggles between vassals and lords being a common occurrence.
+*"The mountain is eternal, but those who claim it are not. Power shifts like the veins of ore beneath our feet."*  
+— Chronicler Kolskegg Herjolfsson
+{ .quote }
+
+Myrkheim's early history was marked by relentless clan warfare, as rival dwarven factions fought for dominance over the region’s resource-rich mountains. These brutal conflicts honed the dwarves into formidable warriors, but they also stunted unity, leaving Myrkheim fractured for centuries. Political landscapes shifted as vassals overthrew lords, strongholds were razed and rebuilt, and grudges were carved into history as deep as the mines themselves.
 
 ### The Second Maelstrom
 
-The **Second Maelstrom** decimated many dwarven clans, forcing the survivors to unite. This shift wasn't born from altruism but necessity, as the devastation left few to continue the endless wars. With leadership and populations shattered, the remaining dwarves banded together to survive.
+*"The Maelstrom did what no dwarf ever could—it forced us to stand together."*  
+— Lord Hrothkar Vedrfolnir
+{ .quote }
+
+The **Second Maelstrom** shattered the foundations of Myrkheim, devastating entire clans and reducing their once-mighty holds to little more than collapsed tunnels and dead cities. With their numbers dwindling and their kingdoms in ruin, the dwarves faced an existential crisis. There was no choice but to abandon old grudges and form a fragile unity in the face of annihilation.
 
 ### Seeking Elven Guidance
 
-Facing increasing threats from minor warp storms, the dwarves reluctantly turned to their ancient rivals, the elves, for aid. This period, known as the **Age of Restoration**, saw the elves help rebuild Myrkheim, but at a cultural cost. As dwarven cities were reclaimed and rebuilt, they began to reflect elven influence, leading to a slow erosion of dwarven traditions.
+*"We did not seek their wisdom. We sought survival. Do not mistake desperation for reverence."*  
+— Elder Harald Rhinedottir, on the alliance with the elves
+{ .quote }
+
+With the landscape forever scarred by the Maelstrom and warp storms threatening their remaining holds, the dwarves turned to the elves for aid. This uneasy alliance, known as the **Age of Restoration**, saw elven architects and scholars help rebuild Myrkheim’s ruined cities. Though this alliance allowed Myrkheim to recover, it came at a cultural price—elven influence seeped into dwarven traditions, architecture, and governance, weakening the very identity the dwarves had fought so long to preserve.
 
 ### The Forest Culling
 
-The infiltration of elven culture sparked discontent among the dwarven clans. Led by the Vedrfolnir, Hraesvelgr, and Rhinedottir clans, the dwarves launched the **Forest Culling**, a violent expulsion of elves from Myrkheim. This event was marked by both rebellion and brutal reprisals, ending elven dominance within their society.
+*"We gave them iron and they gave us poetry. It was never a fair trade."*  
+— Lord Hjalmar Hraesvelgr
+{ .quote }
+
+Resentment festered. As generations passed, Myrkheim found itself more elven than dwarven in many aspects of daily life. This led to a cultural uprising, spearheaded by the Vedrfolnir, Hraesvelgr, and Rhinedottir clans. Known as the **Forest Culling**, this violent purge saw elven influence systematically eradicated from Myrkheim. Elven advisors were expelled, libraries burned, and cities reshaped to reflect dwarven heritage once more. Though brutal, the Culling restored Myrkheim’s independence and reforged its national identity in iron and stone.
 
 ## Modern Era
 
-### The Dwarvish-London War
+### The Dwarvish-Albion War
 
-The **Dwarvish-London War**, also called **The Great War**, was a brief but devastating conflict between Myrkheim and London. Myrkheim, once the strongest nation in Antares, sought to assert dominance over the newly established London, attempting to turn it into a vassal state. Misjudging London's strength, the dwarves were swiftly defeated by the superior technology of London's war machine.
+*"It was a never-ending tide of Iron Walkers and Steel Elephants. We don't know, we are not ready"*  
+— Commander Vigbjord Styrkarsson, after the first battle against Albion
+{ .quote }
 
-Myrkheim suffered heavy losses, with several citadels falling into London's hands. Though they retained sovereignty, London's presence in Myrkheim became substantial, and the influx of technology that followed sparked both advancements and fears of renewed cultural erosion.
+The **Dwarvish-Albion War**, often called **The Great War**, was a conflict between Myrkheim and Albion. At the time, Myrkheim sought to subjugate Albion as a vassal state. However, they underestimated Albion's highly sophisticated army and the sheer size of its industries. What was expected to be a swift conquest turned into a brutal rout as Myrkheim’s traditional tactics involving sieges and bulwarks proved ineffective against Albion rapid advance.
+
+Dwarven cities fell, and entire legions were lost beneath Albion's metal tracks. Though Myrkheim retained its sovereignty, it was forced into an uneasy truce. Albion’s presence remained, not as conquerors, but as traders and engineers, flooding Myrkheim with foreign technology. The war had ended, but the scars it left ran deep.
+
+### Aftermath and Modern Myrkheim
+
+*"Our forges burn hotter than ever, but whose hands stoke the flames?"*  
+— Dwarven Scholar Alfdis Storolfdottir
+{ .quote }
+
+With Albion’s influence entrenched, Myrkheim stands at a crossroads. While some see the technological influx as an opportunity to reclaim lost glory, others fear another cultural erosion akin to the elven influence of old. The nation remains divided—proud and unyielding, yet forced to contend with a world that no longer bows to the old ways.
+
+For now, Myrkheim endures, as it always has, its fate as unyielding as the mountains it calls home.
