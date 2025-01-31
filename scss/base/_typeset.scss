@@ -1,0 +1,152 @@
+@use "../utility/convert";
+@import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap");
+
+/*------------------------------------------------------- 
+    Basic Typesets
+--------------------------------------------------------*/
+
+// General Typeset Variables
+$headingFont: "Jost", sans-serif; // Font for headings
+$defaultFontSize: convert.px2rem(16px); // Base font size
+
+// Main Typeset Styles
+.md-typeset {
+    --default-font-size: #{convert.px2rem(16px)};
+    --default-font-weight: 400;
+
+    font-size: var(--default-font-size);
+    font-weight: var(--default-font-weight);
+    color: var(--md-gbl-text-color);
+
+    @media screen and (max-width: 720px) {
+        --default-font-size: #{convert.px2rem(14px)};
+    }
+
+    // Strong text styles
+    strong {
+        letter-spacing: calc(var(--default-font-size) * 0.0125);
+        color: var(--md-gbl-text-color-strong);
+    }
+
+    // Paragraph styles
+    p {
+        margin: convert.px2rem(10px) 0;
+    }
+
+    // List styles (unordered and ordered)
+    ul,
+    ol {
+        margin: convert.px2rem(0px) 0;
+    }
+
+    li {
+        margin: convert.px2rem(-4px) 0;
+    }
+
+    // Definition list styles
+    dl,
+    dd {
+        margin: convert.px2rem(-2px) 0;
+    }
+
+    dd {
+        margin-left: convert.px2rem(-8px);
+    }
+
+    blockquote {
+        strong {
+            color: var(--md-default-fg-color--light) !important;
+        }
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        abbr {
+            border-bottom: none !important;
+        }
+    }
+
+    // Heading Styles
+    h1,
+    h2,
+    h3,
+    h4 {
+        font-family: $headingFont;
+        text-transform: uppercase;
+    }
+
+    h3,
+    h4 {
+        color: var(--md-gbl-text-color-strong);
+        text-transform: none !important;
+        font-variant: small-caps !important;
+    }
+
+    // H1 Specific Styles
+    h1 {
+        font-size: calc(var(--default-font-size) * 2.1);
+        letter-spacing: calc(var(--default-font-size) * 0.02);
+        font-weight: 500; // Ensure var(--default-font-weight) is numeric
+        margin: #{convert.px2rem(9px)} 0;
+    }
+
+    // H2 Specific Styles
+    h2 {
+        font-size: calc(var(--default-font-size) * 1.7);
+        font-weight: 500;
+        letter-spacing: calc(var(--default-font-size) * 0.075);
+        border-bottom: #{convert.px2rem(4.5px)} ridge var(--md-primary-fg-color);
+        margin: #{convert.px2rem(18px)} 0 #{convert.px2rem(4px)} 0;
+        padding-bottom: #{convert.px2rem(2px)};
+    }
+
+    // H3 Specific Styles
+    h3 {
+        font-size: calc(var(--default-font-size) * 1.45);
+        letter-spacing: calc(var(--default-font-size) * 0.03);
+        font-weight: 550;
+        margin: #{convert.px2rem(10px)} 0;
+        border-bottom: #{convert.px2rem(2.5px)} solid var(--md-primary-fg-color);
+        padding-bottom: #{convert.px2rem(4px)};
+    }
+
+    // H4 Specific Styles
+    h4 {
+        font-size: calc(var(--default-font-size) * 1.225);
+        letter-spacing: calc(var(--default-font-size) * 0.03);
+        font-weight: 550;
+        margin: #{convert.px2rem(12px)} 0 #{convert.px2rem(-6px)} 0;
+        padding-bottom: #{convert.px2rem(-2px)};
+    }
+
+    // H5 Specific Styles
+    h5 {
+        font-size: var(--default-font-size);
+        letter-spacing: calc(var(--default-font-size) * 0.03);
+        font-weight: 500;
+        text-transform: capitalize !important;
+        margin-bottom: #{convert.px2rem(-4px)};
+        padding-bottom: #{convert.px2rem(-4px)};
+    }
+
+    // H6 Specific Styles
+    h6 {
+        font-size: calc(var(--default-font-size) * 0.85);
+        font-weight: 350;
+    }
+}
+
+// Divider Line
+.md-typeset hr {
+    border-bottom: #{convert.px2em(8px)} double var(--md-default-wht--0125);
+    margin: #{convert.px2em(14px)} 0;
+}
+
+// Large Font Size
+.xxxxl {
+    font-size: 5.5rem;
+}

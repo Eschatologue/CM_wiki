@@ -1,0 +1,188 @@
+@use "../base/typeset";
+@use "../base/table";
+@use "../utility/convert";
+
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+
+/*-------------------------------------------------------
+    Font Styles
+-------------------------------------------------------*/
+.jost {
+    font-family: "Jost", serif;
+}
+/*-------------------------------------------------------
+    Typography
+-------------------------------------------------------*/
+.em {
+    white-space: nowrap; /* Prevents block splitting on smaller screens, used with icons */
+    font-weight: 600 !important;
+
+    // Disable dotted line for abbreviations
+    abbr {
+        border-bottom: none !important;
+    }
+}
+
+.nowrap {
+    white-space: nowrap;
+}
+
+.smallcap {
+    :is(.emojione, .twemoji, .gemoji) {
+        font-size: #{var(--default-font-size)};
+        vertical-align: convert.px2em(-3px);
+    }
+
+    font-size: #{calc(var(--default-font-size) * 1.1)};
+    font-variant: small-caps !important;
+    letter-spacing: calc(var(--default-font-size) * 0.04) !important;
+
+    table:not([class]) & {
+        font-size: #{calc(var(--table-font-size))} !important;
+
+        :is(.emojione, .twemoji, .gemoji) {
+            font-size: #{var(--table-font-size)};
+            vertical-align: convert.px2em(-3px);
+        }
+    }
+}
+
+/*-------------------------------------------------------
+    Specific Typography Variants
+-------------------------------------------------------*/
+.d20 {
+    @extend .em;
+}
+
+.rsc {
+    @extend .em;
+}
+
+.quote {
+    color: var(--md-default-fg-color--light);
+    font-size: calc(var(--default-font-size) * 0.85);
+    font-weight: 300;
+}
+
+.icon-head {
+    :is(.emojione, .twemoji, .gemoji) {
+        vertical-align: convert.px2em(-3px);
+    }
+}
+
+.back {
+    background-color: var(--md-default-blk--025);
+    padding: convert.px2em(3px) convert.px2em(6px) !important;
+    border-radius: convert.px2em(8px) !important;
+    font-weight: 400 !important;
+}
+
+/*-------------------------------------------------------
+    Borders and Alignment
+-------------------------------------------------------*/
+
+/* Used with H3 */
+.noborder {
+    border-bottom: none !important;
+    margin: 0 0 #{convert.px2rem(-10px)} 0 !important;
+}
+
+.align-center {
+    text-align: center !important;
+}
+
+.align-right {
+    text-align: right !important;
+}
+
+.back {
+    background-color: var(--md-default-blk--025);
+    padding: convert.px2em(3px) convert.px2em(6px) !important;
+    border-radius: convert.px2em(8px) !important;
+    font-weight: 400 !important;
+}
+
+/*-------------------------------------------------------
+    Indentation
+-------------------------------------------------------*/
+$indent: 18px;
+
+.indent {
+    text-indent: convert.px2em($indent);
+
+    @media screen and (max-width: 720px) {
+        text-indent: convert.px2em($indent * 0.5);
+    }
+}
+
+.idnt {
+    text-indent: convert.px2em(-$indent);
+    padding-left: convert.px2em($indent);
+}
+
+/*-------------------------------------------------------
+    Inline Styles
+-------------------------------------------------------*/
+.inl {
+    @extend .em;
+
+    display: inline-block;
+    position: relative;
+
+    @extend .chevron-left;
+    @extend .chevron-right;
+}
+
+/* Chevrons */
+.chevron-right {
+    &::after {
+        font-style: normal !important;
+        font-weight: 400 !important;
+        content: "»";
+        color: var(--md-default-fg-color--light);
+        margin-left: convert.px2em(4px);
+    }
+}
+
+.chevron-left {
+    &::before {
+        font-style: normal !important;
+        font-weight: 400 !important;
+        content: "«";
+        color: var(--md-default-fg-color--light);
+        margin-right: convert.px2em(4px);
+    }
+}
+
+/*-------------------------------------------------------
+    Damage Type Dynamic Classes
+-------------------------------------------------------*/
+$damage-types: (
+    acid: #38da4f,
+    cold: #4fc3f7,
+    fire: #e1822e,
+    posn: #66a44f,
+    thun: #9b7fcc,
+    psyc: #dd73ac,
+    lgtn: #3393e8,
+    necr: #00BFA5,
+    radi: #FFEE58,
+    force: #ff7369,
+    phys: #c6c6c6,
+    heal: #65cdcd
+);
+
+@each $type, $color in $damage-types {
+    .dmg-#{$type} {
+        color: convert.hex3hsl($color) !important;
+        white-space: nowrap;
+        font-weight: 400 !important;
+    }
+}
+
+/*-------------------------------------------------------
+    Miscellaneous
+-------------------------------------------------------*/
+.shrink-bottom {
+    margin-bottom: convert.px2em(-9px) !important;
+}

@@ -1,0 +1,69 @@
+@use "sass:color";
+@use "../utility/convert";
+
+/*------------------------------------------------------- 
+    Admonitions
+--------------------------------------------------------*/
+
+/* Revert to Legacy */
+.md-typeset .admonition,
+.md-typeset details {
+    border-width: 0;
+    border-left-width: 4px;
+    box-shadow: var(--md-shadow-z3);
+}
+
+/* Add Shadow */
+.md-typeset {
+    .admonition {
+        --default-font-size: #{convert.px2rem(14px)};
+        border-color: var(--md-admonition-icon-color--note);
+        box-shadow: var(--md-shadow-z3);
+        transition: box-shadow 250ms;
+
+        hr {
+            border-bottom: #{convert.px2em(3px)} solid rgba(255, 255, 255, 0.15);
+            padding: 0 0 !important;
+        }
+        .grid {
+            grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(320px), 1fr));
+        }
+    }
+}
+
+.md-typeset {
+    // Mixin for admonition styles
+    @mixin admonitionStyles($type, $colour) {
+        $convertedColour: convert.hex3hsl($colour);
+
+        .admonition.#{$type},
+        details.#{$type} {
+            border-color: $convertedColour;
+        }
+
+        .#{$type} {
+            > .admonition-title,
+            > summary {
+                background-color: color.adjust($convertedColour, $alpha: -0.9);
+            }
+
+            > .admonition-title::before,
+            > summary::before {
+                background-color: $convertedColour;
+                -webkit-mask-image: var(--md-icon--#{$type});
+                mask-image: var(--md-icon--#{$type});
+            }
+        }
+    }
+
+    // Infos
+    @include admonitionStyles("homebrew", #ffb624);
+    @include admonitionStyles("glossary", #4db6ac);
+    @include admonitionStyles("dice", #FF5252);
+
+    // Quick Refrences
+    @include admonitionStyles("action", #00bfa5);
+    @include admonitionStyles("bonusaction", #ffab00);
+    @include admonitionStyles("reaction", #7c4dff);
+    @include admonitionStyles("move", #ffd600);
+}
