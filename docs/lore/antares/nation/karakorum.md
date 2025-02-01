@@ -51,7 +51,7 @@ No ark has ever been lost with survivors. No answers have ever surfaced. And dea
 
 The **Murashu**, known as the *Sanctum of Sentience*, was more than an ark—it was a vault of lost and forbidden knowledge. Within its halls lay relics of the past: ancient texts, arcane records, and artifacts predating even the fall of the old gods. It was a floating archive, a sanctuary of learning, and to some, a blasphemy that should never have existed.  
 
-Its destruction did not come from the sea, nor from war, but from within. The last transmission spoke of a group known as the **Veilkeepers**, a cult devoted to the worship of the world serpent, *Jörmungandr*. The Murashu, built to withstand external threats, was unprepared for betrayal from within. One among the cultists, whether through intent or madness, allowed a powerful Warp entity to take hold. What followed was slaughter. The entity tore through the ark’s corridors, twisting metal and flesh alike, until the great vessel’s systems failed entirely.
+Its destruction did not come from the sea, nor from war, but from within. The last transmission spoke of a group known as the **Veilkeepers**. The Murashu, built to withstand external threats, was unprepared for betrayal from within. One among the cultists, whether through intent or madness, allowed a powerful Warp entity to take hold. What followed was slaughter. The entity tore through the ark’s corridors, twisting metal and flesh alike, until the great vessel’s systems failed entirely.
 
 No survivors emerged from its wreckage—only those who had never boarded the ark remained to tell its tale.
 
@@ -61,7 +61,7 @@ The Murashu was lost.
 
 The **Karakorum Alliance** is less a unified nation and more a coalition of necessity, bound by a shared fate rather than a centralised government. The **Khan**, the nominal leader of the alliance, rules from the **Urga**, the heart of what remains of Karakorum’s once-mighty fleet. However, true authority is fragmented, with each ark maintaining its own traditions, leadership, and priorities.  
 
-### Kamikaze: The Divine Wind  
+### Kamikaze: Storm of Vengeance
 
 *"The storm bows to no master."*  
 – Shogun of the Kamikaze

@@ -95,6 +95,23 @@ The target hit by the attack takes an extra **1d8** damage of the weapon's damag
 
 ---
 
+### Justa Mann's Unremarkable Pressence
+
+*Level 3 Illusion*
+
+**Casting Time:** Action   
+**Range:** Self  
+**Components:** V, S  
+**Duration:** Concentration, up to 1 minute  
+
+You surround yourself with a magical aura that makes you blend into your surroundings. While the aura persists, any actions you take appear completely ordinary to those around you. You can walk through enemy ranks, and they will perceive you as though you belong there; you can open a box, and everyone will assume you're simply taking what belongs to you.
+
+Creatures that attempt to scrutinise or question the legitimacy of your identity or actions must make a Wisdom ability check against your Spell Save DC. The spell ends if they succeed.
+
+> **Classes:** Bard, Warlock, Wizard
+
+---
+
 ### Shackles of Pain
 
 *Level 3 Necromancy*

@@ -18,34 +18,58 @@ The Crown and Misery campaign takes place in the continent of **Antares**. This 
 
 The word "Antares" originated from the brightest star in the constellation of Scorpius. It has the Bayer designation α **Scorpii**, which is Latinised to **Alpha Scorpii**. Its traditional name however, derives from the Ancient Greek **Ἀντάρης**, meaning **"rival to Ares".**
 
-## History and Era
+## History and Era  
 
-The history of Antares is largely obscured by the passage of time and recurrent catastrophic events, which have often prioritised survival over the preservation of records. Despite these challenges, key moments have been recorded, providing insight into the continent's past.
+The history of Antares is fragmented, eroded by time and reshaped by catastrophe. Recurrent upheavals have forced its people to prioritise survival over record-keeping, leaving only scattered remnants of the past. Despite this, certain key moments endure, marking the continent’s long and violent transformation.  
 
-The history of Antares is segmented by events known as "Warp Maelstorms," which mark the transitions between ages. To date, two such Maelstorms have been documented, with the possibility of earlier events that have been lost to time.
+The passage of time in Antares is measured by cataclysms known as **Warp Maelstorms**—world-shattering events that divide history into distinct ages. Two such Maelstorms have been documented, though traces of earlier upheavals suggest a cycle far older than recorded memory.  
 
-### The First Maelstorm
+### The First Maelstorm* 
 
-The **First Maelstorm** is an ancient event whose specific details are largely unknown. It is known, however, for the collapse of the civilisation known as **Eridu**, the extinction of primordial deities, and the gradual decline of the Aeginae, ancient dragons that once dominated the continent. This event is recognised as the end of the "Old World" and the beginning of a new era.
+*"The age of dragons and gods ended not with war, but with silence."*  
+– Unknown Scholar, post-Maelstorm manuscript  
+{ .quote }  
 
-### The Second Maelstorm
+The **First Maelstorm** is an event veiled in obscurity, its precise nature lost to time. What is known is that it marked the collapse of the civilisation of **Eridu**, the extinction of the primordial deities, and the decline of the **Aeginae**, the ancient leviathans who once shaped the land itself. This event heralded the end of the **Old World**, severing the past from the future and beginning a new, uncertain age.  
 
-The **Second Maelstorm**, occurring approximately 500 years after the first, is better documented. This event drastically altered the geography of Antares, leading to the destruction of many coastal regions and forcing surviving civilisations to move inland. The Maelstorm also resulted in the shattering of the moon, creating a ring around the planet, and increased the frequency of smaller warpstorms. Additionally, this era saw the emergence of the "Spires", beings of immense power that surpassed even that of the gods and Aeginae.
+### The Second Maelstorm  
 
-### The Millennium Dawn
+*"The moon broke, the tides turned against us, and the sky bled fire. We called it the end. We were wrong—it was only the beginning."*  
+– Chronicle of the Maelstorm, survivor account  
+{ .quote }  
 
-The **Millennium Dawn** began approximately 300 years after the Second Maelstorm and is marked by the fall of the Tähdenvalta Empire following the **Great Split**, a major conflict that reshaped the political landscape of Antares. This era has seen the rise of a new power, and it is within this period that current events, including the ongoing D&D campaign, are set.
+The **Second Maelstorm**, occurring roughly 500 years later, is better understood. This catastrophe reshaped Antares’ very geography—entire coastlines vanished, consumed by the sea, while new landmasses rose in their place. The heavens were likewise scarred, the moon itself fractured, leaving a luminous ring of debris encircling the planet.  
 
-## Pre-Industrial Revolution
+More than a mere calamity, this Maelstorm brought about a profound shift in power. It saw the rise of the **Spires**, beings of unfathomable might who eclipsed even the gods and the Aeginae. Their arrival altered the course of history, redefining the balance of power in a world already on the brink.  
 
-Antares stands at the edge of a transformative age, much like the Industrial Revolution in our world. The remnants of ancient magic and technology are giving way to new ideas and innovations. This period is marked by vast societal changes, as cities begin to expand, machines overtakes the flesh, and the old ways struggle to remain relevant. However, unlike our world, this transition is hindered by the forces of the Warp and the world is still scarred by past apocalypses.
+### The Millennium Dawn  
 
-While the Industrial Revolution in our world began in Britain, here it by **London** that leads the charge—already a highly industrialised nation. Despite its efforts to keep its influence in check, other nations are increasingly looking to it as an example of how to drive their own progress, sparking a continent-wide shift toward industrialisation.
+The current age, known as the **Millennium Dawn**, began 300 years after the Second Maelstorm. It was ushered in by the **Great Split**, a war that shattered the **Tähdenvalta Empire**, fracturing the continent's political landscape. The echoes of that conflict still shape the world today, as new powers rise to fill the void. It is within this era that the present struggles—and the unfolding of this campaign—take place.  
 
-## Antares Exploration
+## Pre-Industrial Revolution 
 
-Unfortunately, much of Antares remains unexplored due to the relentless catastrophes plaguing the land. The primary threat comes in the form of swarms of aberrations, which become highly aggressive during nighttime, forcing most of Antares' civilizations to wall themselves inside massive, heavily fortified urban structures called Citadel Cities. However, this strategy is becoming increasingly untenable due to the ever-harsher Warp Storms.
+*"The old world refuses to die while the new world refuses to be born."*  
+– Lothringen Scholar, *On the Age of Progress*  
+{ .quote }  
 
-## Bleak World and Glimmers of Hope
+Antares teeters on the precipice of an industrial revolution. The remnants of ancient magic and lost technology linger, but the tide of innovation surges forward, challenging the old ways. Cities expand, machines replace flesh, and the fabric of society is unraveling under the weight of progress.  
 
-Surviving in Antares is fraught with peril. The combination of internal strife, such as wars, rebellions, and civil disobedience, and external threats, including Warp Storms and aberrations, makes life exceedingly bleak. Yet, despite the overwhelming challenges, a glimmer of hope remains among the continent's denizens, driving them to endure and seek out the hidden wonders of their world.
+At the vanguard of this transformation stands **Albion**—a nation built upon which magic does not exist, built. While it seeks to moderate its influence, the mere existence of its advancements has inspired others to follow suit. The eyes of Antares turn towards Albion, seeking both guidance and power, as the age of industry begins to take root.  
+
+## Antares Exploration 
+
+The true extent of Antares remains unknown. The land is scarred by catastrophe, and its most remote regions are nigh-unreachable due to the relentless hostility of the world itself.  
+
+The greatest threat to exploration comes from the **swarms of aberrations**—eldritch horrors that grow increasingly aggressive by nightfall. To survive, most of Antares’ inhabitants have retreated into **Citadel Cities**—vast, walled bastions built to withstand the horrors beyond. But even these mighty fortresses are not impervious, and with the **Warp Storms** growing ever more severe, even the last strongholds of civilisation are under siege.  
+
+## Bleak World and Glimmers of Hope  
+
+*"The world has ended twice. And yet, we are still here."*  
+– Unknown traveller, Antares  
+{ .quote }  
+
+Life in Antares is defined by struggle. Civilisations battle not only the horrors beyond their walls, but also the fractures within—wars, rebellions, and unrest that threaten to finish what the Maelstorms began.  
+
+And yet, there is hope. Amidst the darkness, people continue to fight, to build, to seek meaning in a world that refuses to die. The past may be buried, the future uncertain, but in the present, there are those who refuse to be swallowed by despair.  
+
+Their defiance alone ensures that Antares endures.
