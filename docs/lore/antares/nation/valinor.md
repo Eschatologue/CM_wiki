@@ -10,7 +10,7 @@ search:
 ## Overview  
 
 *"We did not flee to Valinor to hide—we came to outlast the world that cast us aside."*  
-— Chancellor Elyndor Vael, inaugural address  
+— Chancellor Elyndor Laaksonen, inaugural address  
 { .quote }
 
 The **State of Valinor**, often referred to simply as **Valinor**, stands as a lone beacon of warmth in the frozen northern wastelands of Antares. A city-state built upon perseverance, it shelters elves who once called the verdant forests and great halls of Myrkheim home—refugees, exiles, and those who sought to escape the oppression of their past.   
@@ -27,19 +27,19 @@ Beyond survival, Valinor has carved out an identity as the **scholarly heart of 
 — Excerpt from *The Silent Exodus*  
 { .quote }
 
-The foundation of Valinor is steeped in the downfall of the elven nations. The once-revered courts of the elves grew rigid, their rule descending into authoritarianism. Dissent was silenced, culture twisted into propaganda, and those who opposed the regime were exiled or executed.   
+The foundation of Valinor is steeped in the downfall of Tähdenvalta. The once-revered courts of the elves grew rigid, their rule descending into authoritarianism. Dissent was silenced, culture twisted into propaganda, and those who opposed the regime were exiled or executed.   
 
-What began as a slow erosion of freedom became outright persecution. Art, academia, and personal belief were all shaped by the will of the ruling elite. Those who resisted were branded as enemies of the state. When war with Albion erupted, the voices of opposition were silenced further—many of those who spoke against the conflict were sent to die on the frontlines.  
+What began as a slow erosion of freedom became outright persecution. Art, academia, and personal belief were all shaped by the will of the rulers. Those who resisted were branded as enemies of the state. When war with Albion erupted, the voices of opposition were silenced further—many of those who spoke against the conflict were sent to die on the frontlines.  
 
 ### War and Resistance  
 
 *"We stole the very blade meant to cut us down."*  
-— Captain Lirian Aethor, Valinor Resistance  
+— Captain Aethor Keskitalo, Valinor Resistance  
 { .quote }
 
-As the war against Albion raged, a splinter faction within elven society refused to take part. Branded as traitors, they sought to escape rather than die in a conflict they did not believe in. Their opportunity came with the discovery of an abandoned **Dreadnought**, left behind by retreating London forces. Though foreign and incomprehensible, the rebels seized it, learning its secrets through captured Albion engineers.   
+As the war against Albion raged, a splinter faction within elven society refused to take part. Branded as traitors, they sought to escape rather than die in a conflict they did not believe in. Their opportunity came with the discovery of an abandoned **Dreadnought**, left behind by retreating Albion forces. Though foreign and incomprehensible, the rebels seized it, learning its secrets through captured Albion engineers.   
 
-With the ship under their control, they turned their eyes northward—away from their persecutors, away from war.  
+With the landship under their control, they turned their eyes northward—away from their persecutors, away from war.  
 
 ### The Escape  
 
@@ -49,10 +49,10 @@ The north.
 
 It was here, amidst the ice and howling winds, that they built their new home.  
 
-## Lady Grey  
+### Lady Grey  
 
 *"It came with no warning. The cold stole breath from our lungs, turned flesh to ice, and nearly brought Valinor to ruin before it had even begun."*  
-— Scholar Thaelorin Vel  
+— Scholar Thaelorin Nevalainen  
 { .quote }
 
 Shortly after Valinor’s founding, a disaster struck—**Lady Grey**, a cataclysmic snowstorm that engulfed the region for 96 hours. Temperatures plummeted from -10°C to an unimaginable -200°C. Fire froze. Magic failed. And as the frost claimed lives by the hundreds, only one thing stood between Valinor and oblivion—the **Irminsul Generator**.   
@@ -71,12 +71,12 @@ Valinor is a city built not on grandeur, but on necessity. Here, survival is not
 
 In the lush forests of their past, the elves measured time in centuries. In Valinor, time is measured in lives lost.   
 
-The **Counter** is an ever-present tally, increasing with every death. More than a mere record, it is a stark reminder that life in the north is fragile and unforgiving. While standard calendars are still used, the Counter remains the true measure of time in Valinor. As of today, it stands at **2,682**.  
+The **Counter** is an ever-present tally, increasing with every death. More than a mere record, it is a reminder that life in the north is fragile and unforgiving. While standard calendars are still used, the Counter remains the true measure of time in Valinor. As of today, it stands at **2,682**.  
 
 ### Land of Academics  
 
 *"We hoarded our knowledge for centuries, and for what? To watch it burn?"*  
-— Grand Archivist Sylwen Marathil  
+— Grand Archivist Sylwen Hannula  
 { .quote }
 
 In their exile, the elves carried with them something beyond mere survival—**knowledge**. Tomes, scrolls, and records salvaged from the ruins of their past became the foundation upon which Valinor would thrive. Where other nations wield authority and magic, Valinor wields information.   

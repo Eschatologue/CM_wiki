@@ -176,24 +176,6 @@ A continent-spanning suspended rail network. This monumental construction projec
 
 ---
 
-### Karakorum: The Majapahit
-
-*Location, Karakorum*
-
-**Karakorum: The Majapahit** was one of five great arks built by Karakorum, known as the *Emeralds of Paradise*, it is a premier tourist destination of its time. After a navigational error led it into the *Mist Veil*, it disappeared entirely, with only scattered debris occasionally washing ashore, the only survivors is those who's late to board the Arks.
-
----
-
-### Karakorum: The Murashu
-
-*Location, Karakorum*
-
-**Karakorum: The Murashu** was one of five great arks built by Karakorum, known as the *Sanctum of Sentience* for its unmatched repository of lost, forbidden, and ancient knowledge. This ark held rare artifacts, foundational texts, and extensive arcane records, preserving secrets long forgotten by the rest of Antares prior to the extinction of the entities known as "Deity". Unfortunately, it was once infiltrated by Sotterani Inquisitors, leading to its destruction and sinking.
-
-Any relic from the Murashu that is found is considered priceless, with the potential to transform entire fields of knowledge. Unfortunately, it is often inscribed in celestial script, making it very volatile to handle.
-
----
-
 ### Millennium Dawn
 
 *Era*
