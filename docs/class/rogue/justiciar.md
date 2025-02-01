@@ -21,7 +21,7 @@ You can use Channel Divinity once. You regain one expended use when you finish a
 
 **Divine Sense**{ .inl } As a **:rsc-b: Bonus Action**{ .rsc }, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the Incapacitated condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [:spell-lv5: Hallow] spell.
 
-**Shroud of Faith**{ .inl } As an :rsc-b: Bonus action, you grip your holy symbol and invoke the protection of your god. You have the ^^Invisible^^ condition for 1 minute. This effect ends early if you attack or cast a spell.
+**Shroud of Faith**{ .inl } As an **:rsc-b: Bonus Action**{ .rsc }, you grip your holy symbol and invoke the protection of your god. You have the ^^Invisible^^ condition for 1 minute. This effect ends early if you attack or cast a spell.
 
 ### Level 3: Spellcasting
 
