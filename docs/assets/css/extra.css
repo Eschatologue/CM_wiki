@@ -214,7 +214,10 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 .quote {
   color: var(--md-default-fg-color--light);
   font-size: calc(var(--default-font-size) * 0.85);
-  font-weight: 300;
+  font-weight: 400;
+}
+.quote strong {
+  color: var(--md-default-fg-color--light) !important;
 }
 
 .icon-head :is(.emojione, .twemoji, .gemoji) {
