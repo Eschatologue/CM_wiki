@@ -55,7 +55,7 @@ Your mastery of alchemy allows you to alter the explosives you make in the follo
 
 **Color**{ .inl } You alter the color of both explosive itself, the color of the explosion, and the color of the smoke it produces.
 
-**Damage Type**{ .inl } You alter the damage type of any explosive you craft to :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, :dmg-fire: Fire, :dmg-thun: Thunder, or :dmg-lgtn: Lightning.
+**Damage Type**{ .inl } You alter the damage type of any explosive you craft to :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, **:dmg-fire: Fire**{ .dmg-fire }, :dmg-thun: Thunder, or :dmg-lgtn: Lightning.
 
 ### Level 13: Sabotage
 
@@ -77,12 +77,14 @@ The following Explosives are available for a Saboteur rogue to learn. As an **:r
 
 === "Level 3+ Rogue"
 
+    ---
+
     #### Basic Bomb
 
     **Prerequisite:** Level 3+ Rogue  
     **Cost:** 1 Cordite charge(s)
 
-    On impact, forces targets within 5-foot-radius :aoe-sphere: Sphere to make a **:d20-save: DEX Save**{ .d20 }. They take :dmg-fire: Fire damage equal to your :class-phb24-rogue: Sneak Attack bonus to on a failed save, and half as much :dmg-fire: Fire damage on a success.
+    On impact, forces targets within **5-foot-radius :aoe-sphere: Sphere**{ .em } to make a **:d20-save: DEX Save**{ .d20 }. They take **:dmg-fire: Fire**{ .dmg-fire } damage equal to your **:class-phb24-rogue: Sneak Attack bonus** to on a failed save, and half as much **:dmg-fire: Fire**{ .dmg-fire } damage on a success.
 
     When you reach Rogue level 5, this explosive can benefit from your [Cunning Strike](index.md#level-5-cunning-strike) feature, provided they're used by you.
 
@@ -93,7 +95,7 @@ The following Explosives are available for a Saboteur rogue to learn. As an **:r
     **Prerequisite:** Level 3+ Rogue  
     **Cost:** 1 Cordite charge(s)
 
-    On impact, forces targets within 20-foot :aoe-cube: Cube to make a **:d20-save: DEX Save**{ .d20 }. On a failed save, creatures are covered with glitter dust, and any attack roll made against them is made with :d20-adv: Advantage.
+    On impact, forces targets within **20-foot :aoe-cube: Cube** to make a **:d20-save: DEX Save**{ .d20 }. On a failed save, creatures are covered with glitter dust, and any attack roll made against them is made with **:d20-adv: Advantage**{ .d20 }.
 
     A creature can use its Action to scrape all these reflective particles off of it, ending the effects of this Explosive.
 
@@ -104,7 +106,7 @@ The following Explosives are available for a Saboteur rogue to learn. As an **:r
     **Prerequisite:** Level 3+ Rogue  
     **Cost:** 1 Cordite charge(s)
 
-    On impact, this explosive distrupts the earth, forcing targets within 10-feet to make a **:d20-save: STR Save**{ .d20 }. On a failed save, it takes :dmg-bldg: Bludgeoning damage equal to your :class-phb24-rogue: Sneak Attack bonus and has the Prone condition. The affected area becomes Difficult Terrain for 1 minute.
+    On impact, this explosive distrupts the earth, forcing targets within 10-feet to make a **:d20-save: STR Save**{ .d20 }. On a failed save, it takes :dmg-bldg: Bludgeoning damage equal to your **:class-phb24-rogue: Sneak Attack bonus** and has the Prone condition. The affected area becomes Difficult Terrain for 1 minute.
 
     ---
 
@@ -113,7 +115,7 @@ The following Explosives are available for a Saboteur rogue to learn. As an **:r
     **Prerequisite:** Level 3+ Rogue  
     **Cost:** 1 Cordite charge(s)
 
-    On impact, a 20-foot-radius :aoe-sphere: Sphere appears. The Sphere is Heavily Obscured. It lasts for the 1 minute or until a strong wind (such as one created by *Gust of Wind* spell) disperses it.
+    On impact, a fog of **20-foot-radius :aoe-sphere: Sphere** appears. The Sphere is Heavily Obscured. It lasts for the 1 minute or until a strong wind (such as one created by *Gust of Wind* spell) disperses it.
 
     ---
 
@@ -122,20 +124,22 @@ The following Explosives are available for a Saboteur rogue to learn. As an **:r
     **Prerequisite:** Level 3+ Rogue  
     **Cost:** 1 Cordite charge(s)
 
-    On impact, a wave of thunderous force bursts forth, forcing targets within 15-foot-radius :aoe-sphere: Sphere to make **:d20-save: STR Save**{ .d20 }. On a failure, they take :dmg-thun: Thunder damage equal to your :class-phb24-rogue: Sneak Attack bonus and are pushed 10 feet away from the point of impact. On a success, they take half as much damage and are not moved.
+    On impact, a wave of thunderous force bursts forth, forcing targets within **15-foot-radius :aoe-sphere: Sphere**{ .em } to make **:d20-save: STR Save**{ .d20 }. On a failure, they take :dmg-thun: Thunder damage equal to your **:class-phb24-rogue: Sneak Attack bonus** and are pushed 10 feet away from the point of impact. On a success, they take half as much damage and are not moved.
 
     ---
 
 === "Level 5+ Rogue"
+
+    ---
 
     #### Sticky Web
 
     **Prerequisite:** Level 5+ Rogue  
     **Cost:** 2 Cordite charge(s)
 
-    On impact, sticky white coating covers a 20-foot :aoe-square: Square. Any creature that starts its turn in the square, or enters the area during its turn must succeed on a DEX Save or have the Restrained condition. Affected creature can take an Action to make Strength or DEX Save, ending the effect on success.
+    On impact, sticky white coating covers a **20-foot :aoe-square: Square**. Any creature that starts its turn in the square, or enters the area during its turn must succeed on a **:d20-save: DEX Save**{ .d20 } or have the Restrained condition. Affected creature can take an Action to STR or DEX Save, ending the effect on success.
 
-    The coating dissolves after 1 minute. If it takes any :dmg-fire: Fire damage, it instantly disolves.
+    The coating dissolves after 1 minute. If it takes any **:dmg-fire: Fire**{ .dmg-fire } damage, it instantly disolves.
 
     ---
 
@@ -144,7 +148,7 @@ The following Explosives are available for a Saboteur rogue to learn. As an **:r
     **Prerequisite:** Level 5+ Rogue  
     **Cost:** 2 Cordite charge(s)
 
-    On impact, a ball of fire rushes outwards filling a 30-foot-radius :aoe-sphere: Sphere, forcing creatures within the area to make a **:d20-save: DEX Save**{ .d20 }. On a failure, creatures take :dmg-fire: damage equal to your :class-phb24-rogue: Sneak Attack bonus or half as much on Success.
+    On impact, a ball of fire rushes outwards filling a **30-foot-radius :aoe-sphere: Sphere**, forcing creatures within the area to make a **:d20-save: DEX Save**{ .d20 }. On a failure, creatures take **:dmg-fire: Fire**{ .dmg-fire } damage equal to your **:class-phb24-rogue: Sneak Attack bonus** or half as much on Success.
 
     Any flammable objects in this area are ignited and become Burning hazard.
 
@@ -152,14 +156,16 @@ The following Explosives are available for a Saboteur rogue to learn. As an **:r
 
 === "Level 9+ Rogue"
 
+    ---
+
     #### Demon Core
 
     **Prerequisite:** Level 9+ Rogue  
     **Cost:** 3 Cordite charge(s)
 
-    On impact, dim, greenish light spreads within a 30-foot-radius :aoe-sphere: Sphere. The light spreads around corners, and it lasts for 1 minute.
+    On impact, dim, greenish light spreads within a **30-foot-radius :aoe-sphere: Sphere**. The light spreads around corners, and it lasts for 1 minute.
 
-    When a creature moves into the Sphere for the first time on a turn or starts its turn there, that creature must succeed on a **:d20-save: CON Save**{ .d20 } or take :dmg-radi: Radiant damage equal to your :class-phb24-rogue: Sneak Attack bonus, and it suffers one level of Exhaustion and emits a dim, greenish light in a 5-foot radius. This light makes it impossible for the creature to benefit from being invisible. The light and any levels of exhaustion caused by this explosive go away when the it ends.
+    When a creature moves into the Sphere for the first time on a turn or starts its turn there, that creature must succeed on a **:d20-save: CON Save**{ .d20 } or take **:dmg-radi: Radiant**{ .dmg-radi } damage equal to your **:class-phb24-rogue: Sneak Attack bonus**, and it suffers one level of Exhaustion and emits a dim, greenish light in a 5-foot radius. This light makes it impossible for the creature to benefit from being invisible. The light and any levels of exhaustion caused by this explosive go away when the it ends.
 
     ---
 
@@ -168,20 +174,22 @@ The following Explosives are available for a Saboteur rogue to learn. As an **:r
     **Prerequisite:** Level 9+ Rogue  
     **Cost:** 3 Cordite charge(s)
 
-    On impact, a cloud of putrid yellow gas spreads outward in a 20-foot-radius :aoe-sphere: Sphere. The cloud is Heavily Obscured. The cloud lingers in the air for 1 minute or until a strong wind (such as the one created by *Gust of Wind*) disperses it.
+    On impact, a cloud of putrid yellow gas spreads outward in a **20-foot-radius :aoe-sphere: Sphere**. The cloud is Heavily Obscured. The cloud lingers in the air for 1 minute or until a strong wind (such as the one created by *Gust of Wind*) disperses it.
 
-    Each creature that starts its turn in the Sphere must succeed on a **:d20-save: CON Save**{ .d20 } or have the Poisoned condition until the end of the current turn. While Poisoned in this way, the creature can't take an action or a  **:rsc-b: Bonus Action**{ .rsc }.
+    Each creature that starts its turn in the Sphere must succeed on a **:d20-save: CON Save**{ .d20 } or have the Poisoned condition until the end of the current turn. While Poisoned in this way, the creature can't take an action or a **:rsc-b: Bonus Action**{ .rsc }.
 
     ---
 
 === "Level 13+ Rogue"
+
+    ---
 
     #### Banish to Desolation
 
     **Prerequisite:** Level 13+ Rogue  
     **Cost:** 4 Cordite charge(s)
 
-    On impact, forces targets within 5-foot-radius :aoe-sphere: Sphere to make a **:d20-save: CHA Save**{ .d20 }. On failure, the targets are transported to a place called "Cibubur", you don't know the details about this location, only the name. 
+    On impact, forces targets within **5-foot-radius :aoe-sphere: Sphere**{ .em } to make a **:d20-save: CHA Save**{ .d20 }. On failure, the targets are transported to a place called "Cibubur", you don't know the details about this location, only the name. 
 
     While there, the target has the Incapacitated condition for 1 minute. When the duration ends, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied with no memories regarding the place, only leaving the mental scar.
 
@@ -192,7 +200,7 @@ The following Explosives are available for a Saboteur rogue to learn. As an **:r
     **Prerequisite:** Level 13+ Rogue  
     **Cost:** 4 Cordite charge(s)
 
-    On impact, psychic energy to erupts, forcing creature in a 20-foot-radius :aoe-sphere: Sphere to make an **:d20-save: INT Save**{ .d20 }, taking :dmg-psyc: Psychic damage equal to your :class-phb24-rogue: Sneak Attack bonus on a failed save or half as much damage on a successful one.
+    On impact, psychic energy to erupts, forcing creature in a **20-foot-radius :aoe-sphere: Sphere** to make an **:d20-save: INT Save**{ .d20 }, taking **:dmg-psyc: Psychic**{ .dmg-psyc } damage equal to your **:class-phb24-rogue: Sneak Attack bonus** on a failed save or half as much damage on a successful one.
 
     On a failed save, a target also has muddled thoughts for 1 minute. During that time, it subtracts 1d6 from all its attack rolls and ability checks, as well as any **:d20-save: CON Save**{ .d20 }s to maintain Concentration. The target makes an **:d20-save: INT Save**{ .d20 } at the end of each of its turns, ending the effect on itself on a success.
 
@@ -200,14 +208,16 @@ The following Explosives are available for a Saboteur rogue to learn. As an **:r
 
 === "Level 17+ Rogue"
 
+    ---
+
     #### Vitriolic Gas
 
     **Prerequisite:** Level 17+ Rogue  
     **Cost:** 5 Cordite charge(s)
 
-    On impact, a 20-foot-radius :aoe-sphere: Sphere of yellow-green fog appears. The fog lasts for the duration or until strong wind (such as the one created by *Gust of Wind*) disperses it, ending the effect. Its area is Heavily Obscured.
+    On impact, a **20-foot-radius :aoe-sphere: Sphere** of yellow-green fog appears. The fog lasts for the duration or until strong wind (such as the one created by *Gust of Wind*) disperses it, ending the effect. Its area is Heavily Obscured.
 
-    Each creature in the Sphere makes a **:d20-save: CON Save**{ .d20 }, taking :dmg-posn: Poison damage equal to your :class-phb24-rogue: Sneak Attack bonus on a failed save or half as much damage on a successful one. A creature must also make this save when the Sphere moves into its space and when it enters the Sphere or ends its turn there. A creature makes this save only once per turn.
+    Each creature in the Sphere makes a **:d20-save: CON Save**{ .d20 }, taking **:dmg-posn: Poison**{ .dmg-posn } damage equal to your **:class-phb24-rogue: Sneak Attack bonus** on a failed save or half as much damage on a successful one. A creature must also make this save when the Sphere moves into its space and when it enters the Sphere or ends its turn there. A creature makes this save only once per turn.
 
     The Sphere moves 10 feet away from you at the start of each of your turns.
 
