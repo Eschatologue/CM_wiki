@@ -17,18 +17,31 @@ Barbarians who draw upon their ancestral guardians embody the strength and virtu
 
 ### Level 3: Ancestral Protectors
 
-Spectral warriors appear when you enter your **:class-abl-rage: Rage**{ .em }. While your **:class-abl-rage: Rage**{ .em } is active, the first creature you hit with an attack on your turn becomes the target of the warriors, which hinder its attacks. Until the start of your next turn, that target has **:d20-dis: Disadvantage**{ .d20 } on any attack roll that isn't against you, and when the target hits a creature other than you with an attack, that creature has **:dmg-res: Resistance**{ .em } to the damage of the attack. The effect on the target ends early if your **:class-abl-rage: Rage**{ .em } ends.
+Spectral warriors appear when you enter your Rage.
+{ .quote }
+
+While your **:class-abl-rage: Rage**{ .em } is active, the first creature you hit with an attack on your turn becomes the target of the warriors, which hinder its attacks. Until the start of your next turn, that target has **:d20-dis: Disadvantage**{ .d20 } on any attack roll that isn't against you, and when the target hits a creature other than you with an attack, that creature has **:dmg-res: Resistance**{ .em } to the damage of the attack. The effect on the target ends early if your **:class-abl-rage: Rage**{ .em } ends.
 
 ### Level 6: Spirit Shield
 
-The guardian spirits that aid you can provide supernatural protection to those you defend. While your **:class-abl-rage: Rage**{ .em } is active and another creature you can see within 30 feet of you takes damage, you can use your **:rsc-r: Reaction**{ .rsc } to reduce that damage by 2d6. The damage reduction increases by an extra 1d6 at level 10 (3d6) and level 14 (4d6).
+The guardian spirits that aid you can provide supernatural protection to those you defend.
+{ .quote }
+
+While your **:class-abl-rage: Rage**{ .em } is active and another creature you can see within 30 feet of you takes damage, you can use your **:rsc-r: Reaction**{ .rsc } to reduce that damage by 2d6. The damage reduction increases by an extra 1d6 at level 10 (3d6) and level 14 (4d6).
 
 ### Level 10: Consult the Spirits
 
-You gain the ability to consult with your ancestral spirits. You can cast the [:spell-lv2: Augury](../../spells/description/core/level-2.md#augury) or [:spell-lv2: Clairvoyance](../../spells/description/core/level-3.md#clairvoyance) spell without using a spell slot or material components. :ability-wis: Wisdom is your spellcasting ability for these spells. After you cast either spell in this way, you can't do so again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
+You gain the ability to consult with your ancestral spirits.
+{ .quote }
+
+You can cast the [:spell-lv2: Augury](../../spells/description/core/level-2.md#augury) or [:spell-lv2: Clairvoyance](../../spells/description/core/level-3.md#clairvoyance) spell without using a spell slot or material components. :ability-wis: Wisdom is your spellcasting ability for these spells. After you cast either spell in this way, you can't do so again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
 ### Level 14: Vengeful Ancestors
 
-Your ancestral spirits grow powerful enough to retaliate. When you use your Spirit Shield to reduce the damage of an attack, the attacker takes the same amount of :dmg-force: Force damage.
+Your ancestral spirits grow powerful enough to retaliate.
+{ .quote }
 
-###### :material-book-arrow-up: Updated by *PerfectlyCircularSeal* 
+When you use your Spirit Shield to reduce the damage of an attack, the attacker takes the same amount of **:dmg-force: Force**{ .dmg-force } damage.
+
+:material-book-arrow-up: Updated by *PerfectlyCircularSeal* 
+{ .quote }

@@ -213,7 +213,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 -------------------------------------------------------*/
 .quote {
   color: var(--md-default-fg-color--light);
-  font-size: calc(var(--default-font-size) * 0.85);
+  font-size: calc(var(--default-font-size) * 0.9);
   font-weight: 400;
 }
 .quote strong {
