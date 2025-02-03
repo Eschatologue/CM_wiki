@@ -319,20 +319,20 @@ Your class and Constitution modifier determine your Hit Point maximum at level 1
 
 | Class | Hit Die | HP at Level 1 | HP per Level |
 |---|:-:|---|---|
-| Barbarian | D12 | 12 + :ability-cons: CON modifier | 7 + :ability-cons: CON modifier |
-| Fighter | D10 | 10 + :ability-cons: CON modifier | 6 + :ability-cons: CON modifier |
-| Paladin | D10 | 10 + :ability-cons: CON modifier | 6 + :ability-cons: CON modifier |
-| Ranger | D10 | 10 + :ability-cons: CON modifier | 6 + :ability-cons: CON modifier |
-| Artificer^*TCE*^ | D8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
-| Bard | D8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
-| Cleric | D8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
-| Druid | D8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
-| Magus^*CM/LL*^ | D8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
-| Monk | D8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
-| Rogue | D8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
-| Warlock | D8 | 8 + :ability-cons: CON modifier | 5 + :ability-cons: CON modifier |
-| Sorcerer | D6 | 6 + :ability-cons: CON modifier | 4 + :ability-cons: CON modifier |
-| Wizard | D6 | 6 + :ability-cons: CON modifier | 4 + :ability-cons: CON modifier |
+| Barbarian | D12 | 12 + :abl-cons: CON modifier | 7 + :abl-cons: CON modifier |
+| Fighter | D10 | 10 + :abl-cons: CON modifier | 6 + :abl-cons: CON modifier |
+| Paladin | D10 | 10 + :abl-cons: CON modifier | 6 + :abl-cons: CON modifier |
+| Ranger | D10 | 10 + :abl-cons: CON modifier | 6 + :abl-cons: CON modifier |
+| Artificer^*TCE*^ | D8 | 8 + :abl-cons: CON modifier | 5 + :abl-cons: CON modifier |
+| Bard | D8 | 8 + :abl-cons: CON modifier | 5 + :abl-cons: CON modifier |
+| Cleric | D8 | 8 + :abl-cons: CON modifier | 5 + :abl-cons: CON modifier |
+| Druid | D8 | 8 + :abl-cons: CON modifier | 5 + :abl-cons: CON modifier |
+| Magus^*CM/LL*^ | D8 | 8 + :abl-cons: CON modifier | 5 + :abl-cons: CON modifier |
+| Monk | D8 | 8 + :abl-cons: CON modifier | 5 + :abl-cons: CON modifier |
+| Rogue | D8 | 8 + :abl-cons: CON modifier | 5 + :abl-cons: CON modifier |
+| Warlock | D8 | 8 + :abl-cons: CON modifier | 5 + :abl-cons: CON modifier |
+| Sorcerer | D6 | 6 + :abl-cons: CON modifier | 4 + :abl-cons: CON modifier |
+| Wizard | D6 | 6 + :abl-cons: CON modifier | 4 + :abl-cons: CON modifier |
 
 ***Hit Point Dice***{ .inl } 
 Your class's description tells you the die type of your character's Hit Point Dice (or Hit Dice for short); write this on your character sheet. At level 1, your character has 1 Hit Die. You can spend Hit Dice during a **:rest-short: Short Rest** to recover Hit Points. Your character sheet also includes space to note how many Hit Dice you've spent.

@@ -16,7 +16,7 @@ When you hit a creature with an attack roll, you can expend **one** Superiority 
 
 _**Prerequisites:** Constitution 11+_
 
-You prepare yourself to take a hit. As a **:rsc-b: Bonus Action**{ .rsc }, you can expend one Superiority Die to gain **:dmg-temp: Temporary Hit Points**{ .dmg-heal } equal to your Superiority Die + your Constitution modifier. **:dmg-temp: Temporary Hit Points**{ .dmg-heal } from this Manoeuvre only last for 1 minute.
+You prepare yourself to take a hit. As a **:rsc-b: Bonus Action**{ .rsc }, you can expend one Superiority Die to gain **:trt-thp: Temporary Hit Points** equal to your Superiority Die + your Constitution modifier. **:trt-thp: Temporary Hit Points** from this Manoeuvre only last for 1 minute.
 
 ---
 
@@ -24,7 +24,7 @@ You prepare yourself to take a hit. As a **:rsc-b: Bonus Action**{ .rsc }, you c
 
 _**Prerequisites:** Wisdom (Medicine) proficiency_
 
-As a **:rsc-a: Utilise**{ .rsc } action, you touch a willing, living creature and expend Superiority Dice (up to your Proficiency Bonus). For every Superiority Die you spent, that creature regains **:dmg-heal: Hit Points**{ .dmg-heal } equal to one roll of its Hit Die + its Constitution modifier (minimum of 0).
+As a **:rsc-a: Utilise**{ .rsc } action, you touch a willing, living creature and expend Superiority Dice (up to your Proficiency Bonus). For every Superiority Die you spent, that creature regains **:dmg-heal: Hit Points** equal to one roll of its Hit Die + its Constitution modifier (minimum of 0).
 
 ---
 

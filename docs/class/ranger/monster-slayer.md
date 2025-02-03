@@ -63,6 +63,7 @@ When you see your the target of your [:spell-lv1: Hunter's Mark] attempt to cast
 
 When you use this feature and your attack hits, you can choose to instantly end [:spell-lv1: Hunter's Mark] to cause the creature to automatically fail its Wisdom saving throw.
 
-###### :material-book-arrow-up: Updated by *Eschatologue*
+:material-book-arrow-up: Updated by *Eschatologue*
+{ .author }
 
 --8<-- "includes/snippets/spells2/lv0-5.md"

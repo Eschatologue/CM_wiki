@@ -1,5 +1,5 @@
 ---
-icon: ability/cha
+icon: abl/cha
 ---
 
 # Charisma

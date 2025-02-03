@@ -304,8 +304,9 @@ nav:
         - Diviner: class/wizard/diviner.md
         - Evoker: class/wizard/evoker.md
         - Illusionist: class/wizard/illusionist.md
+        - Bladesinger: class/wizard/bladesinger.md
         - Chronurgist: class/wizard/chronurgist.md
-        - Graviturgist: class/wizard/graviturgist.md
+#        - Graviturgist: class/wizard/graviturgist.md
         - War Mage: class/wizard/war-mage.md
         - Hedge Mage: class/wizard/hedge-mage.md
         - Technomage: class/wizard/technomage.md

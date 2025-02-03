@@ -21,12 +21,12 @@ The dungeon delving, monster slaying, and other dangerous work common among adve
 
 !!! info "Core Fighter Trait"
 
-    **Primary Ability:** :ability-str: Strength or :ability-dex: Dexterity  
+    **Primary Ability:** :abl-str: Strength or :abl-dex: Dexterity  
 
     **Hit Point Die:** D10 per Fighter level  
-    **HP at Level 1:** 10 + :ability-cons: Con. modifier.  
-    **HP per Fighter Level:** 6 + :ability-cons: Con. modifier  
-    **Saving Throw Proficiencies:** :ability-str: Strength and :ability-cons: Constitution  
+    **HP at Level 1:** 10 + :abl-cons: Con. modifier.  
+    **HP per Fighter Level:** 6 + :abl-cons: Con. modifier  
+    **Saving Throw Proficiencies:** :abl-str: Strength and :abl-cons: Constitution  
 
     **Skill Proficiencies:** Choose 2: Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Persuasion, Perception, or Survival  
 
@@ -123,7 +123,7 @@ You gain a Fighter subclass of your choice. A subclass is a specialization that 
 
 ### Level 4: Ability Score Improvement
 
-You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Fighter levels 6, 8, 12, 14, and 16.
+You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#abl-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Fighter levels 6, 8, 12, 14, and 16.
 
 ### Level 5: Extra Attack
 

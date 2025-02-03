@@ -62,7 +62,7 @@ Whenever you gain a level in this class, you can replace one of the spells you k
 
 #### Spellcasting Ability
 
-:ability-cha: **Charisma** is your spellcasting ability for your Witchblade spells.
+:abl-cha: **Charisma** is your spellcasting ability for your Witchblade spells.
 
 #### Spellcasting Focus
 
@@ -82,9 +82,9 @@ The Eldritch magic within your blood seeps into your weapon strikes. When you hi
 
 ### Level 15: Greater Offering
 
-You can restore your own vitality by inflicting pain on others. When you use [Sanguine Offering](#level-3-sanguine-offering), you gain Temporary Hit Points equal to the :dmg-necr: Necrotic damage dealt to the creature.
+You can restore your own vitality by inflicting pain on others. When you use [Sanguine Offering](#level-3-sanguine-offering), you gain **:trt-thp: Temporary Hit Points** equal to the :dmg-necr: Necrotic damage dealt to the creature.
 
-Temporary Hit Points you gain from this feature last for 1 minute, or until you gain temporary hit points again.
+**:trt-thp: Temporary Hit Points** you gain from this feature last for 1 minute, or until you gain **:trt-thp: Temporary Hit Points** again.
 
 ### Level 18: Legendary Witchblade
 
@@ -94,4 +94,5 @@ Once you use this feature you must finish a **:rest-short: Short** or **:rest-lo
 
 [Warlock spell list]: ../../spells/class-specific/warlock.md
 
-###### :material-book-edit: Written by *Laserllama* :material-book-arrow-up: Adapted to PHB'24 by *Eschatologue*
+:material-book-edit: Written by *Laserllama* :material-book-arrow-up: Adapted to PHB'24 by *Eschatologue*
+{ .author }

@@ -49,4 +49,5 @@ Once per turn, while your **:class-abl-rage: Rage**{ .em } is active and you hav
 
 **Seismic Toss**{ .inl } You throw one of the Grappled creatures at a target you can see within 20 feet of you. The Grappled creature and the target make a Strength save (DC equal to 8 plus your Proficiency Bonus plus your Strength modifier). On a failed save, a creature takes 2d8 :dmg-bldg: Bludgeoning damage and has the Prone condition.
 
-###### :material-book-arrow-up: Updated by *PerfectlyCircularSeal* 
+:material-book-arrow-up: Updated by *PerfectlyCircularSeal* 
+{ .author }

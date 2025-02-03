@@ -64,4 +64,5 @@ When you choose a spell for your Mystic Arcanum, you can select a spell from the
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 
-###### :material-book-edit: Written by *Eschatologue*
+:material-book-edit: Written by *Eschatologue*
+{ .author }

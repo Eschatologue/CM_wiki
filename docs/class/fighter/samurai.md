@@ -21,7 +21,7 @@ You gain a set of Calligrapher's Tools and you have proficiency in it and two of
 
 Your intensive training in battle grants you unparalleled focus.
 
-**Precision**{ .inl } When you make an attack, you can grant yourself **:d20-adv: Advantage**{ .d20 } on all your attacks until the start of your next turn. You also gain Temporary Hit Points equal to your Wisdom modifier + half your Fighter level (minimum 1). 
+**Precision**{ .inl } When you make an attack, you can grant yourself **:d20-adv: Advantage**{ .d20 } on all your attacks until the start of your next turn. You also gain **:trt-thp: Temporary Hit Points** equal to your Wisdom modifier + half your Fighter level (minimum 1). 
    
 **Counter**{ .inl } When a creature you can see hit or misses you with a Melee attack, you can take a **:rsc-r: Reaction**{ .rsc } to make a melee weapon attack or an **:rsc-a: Unarmed Strike**{ .rsc } against the creature.
 
@@ -57,4 +57,5 @@ You can use this feature **once per Long Rest**.
 
 --8<-- "includes/snippets/skills.md"
 
-###### :material-book-arrow-up: Updated by *Eschatologue*
+:material-book-arrow-up: Updated by *Eschatologue*
+{ .author }

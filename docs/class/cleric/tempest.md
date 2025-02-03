@@ -52,4 +52,5 @@ The winds of the tempest lift your form into the air. You have a Fly speed equal
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 
-###### :material-book-arrow-up: Updated by *PerfectlyCircularSeal* 
+:material-book-arrow-up: Updated by *PerfectlyCircularSeal* 
+{ .author }

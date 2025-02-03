@@ -1,5 +1,5 @@
 ---
-icon: ability/int
+icon: abl/int
 ---
 
 # Intelligence

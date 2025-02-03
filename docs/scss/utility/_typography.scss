@@ -67,10 +67,9 @@
     }
 }
 
-.icon-head {
-    :is(.emojione, .twemoji, .gemoji) {
-        vertical-align: convert.px2em(-3px);
-    }
+.author {
+    @extend .quote;
+    @extend .align-right;
 }
 
 .back {
@@ -161,14 +160,14 @@ $indent: 18px;
     Damage Type Dynamic Classes
 -------------------------------------------------------*/
 $damage-types: (
-    acid: #38da4f,
+    acid: #7bac02,
     cold: #4fc3f7,
     fire: #e1822e,
-    posn: #66a44f,
+    posn: #33a202,
     thun: #9b7fcc,
     psyc: #dd73ac,
     lgtn: #3393e8,
-    necr: #00BFA5,
+    necr: #3faf4f,
     radi: #FFEE58,
     force: #ff7369,
     phys: #c6c6c6,

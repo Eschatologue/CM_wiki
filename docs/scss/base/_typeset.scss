@@ -69,19 +69,20 @@
     h1,
     h2,
     h3,
-    h4 {
+    h4,
+    h5 {
         font-family: var(--heading-font);
         text-transform: uppercase;
     }
 
     h3,
-    h4 {
-        color: var(--md-gbl-text-color-strong);
+    h4,
+    h5 {
         text-transform: none !important;
         font-variant: small-caps !important;
     }
 
-    // H1 Specific Styles
+    // H1
     h1 {
         font-size: calc(var(--default-font-size) * 2.1);
         letter-spacing: calc(var(--default-font-size) * 0.02);
@@ -89,7 +90,7 @@
         margin: #{convert.px2rem(9px)} 0;
     }
 
-    // H2 Specific Styles
+    // H2
     h2 {
         font-size: calc(var(--default-font-size) * 1.7);
         font-weight: 500;
@@ -99,8 +100,9 @@
         padding-bottom: #{convert.px2rem(2px)};
     }
 
-    // H3 Specific Styles
+    // H3
     h3 {
+        color: var(--md-gbl-text-color-strong);
         font-size: calc(var(--default-font-size) * 1.45);
         letter-spacing: calc(var(--default-font-size) * 0.03);
         font-weight: 550;
@@ -109,8 +111,9 @@
         padding-bottom: #{convert.px2rem(4px)};
     }
 
-    // H4 Specific Styles
+    // H4
     h4 {
+        color: var(--md-gbl-text-color-strong);
         font-size: calc(var(--default-font-size) * 1.225);
         letter-spacing: calc(var(--default-font-size) * 0.03);
         font-weight: 550;
@@ -118,17 +121,17 @@
         padding-bottom: #{convert.px2rem(-2px)};
     }
 
-    // H5 Specific Styles
+    // H5 ( Used for Table captopns
     h5 {
         font-size: var(--default-font-size);
         letter-spacing: calc(var(--default-font-size) * 0.03);
         font-weight: 500;
-        text-transform: capitalize !important;
-        margin-bottom: #{convert.px2rem(-4px)};
-        padding-bottom: #{convert.px2rem(-4px)};
+        margin-top: #{convert.px2rem(-4px)};
+        margin-bottom: #{convert.px2rem(-14px)};
+        //      padding-bottom: #{convert.px2rem(-10px)};
     }
 
-    // H6 Specific Styles
+    // H6
     h6 {
         font-size: calc(var(--default-font-size) * 0.85);
         font-weight: 350;

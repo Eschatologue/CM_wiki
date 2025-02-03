@@ -48,9 +48,9 @@ In addition, you can cast one of your Sorcerer cantrip that has the casting time
 
 *Your command of earth magic grows stronger, allowing you to harness it for your allies' protection.*
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can touch a willing creature (including yourself) and and expend Sorcery Points to grant it 1d6 Temporary Hit Points per Sorcery Point.
+As a **:rsc-b: Bonus Action**{ .rsc }, you can touch a willing creature (including yourself) and and expend Sorcery Points to grant it 1d6 **:trt-thp: Temporary Hit Points** per Sorcery Point.
 
-When a creature with these Temporary Hit Points within 60 feet of you that you can see is hit by a melee attack, you can use your **:rsc-r: Reaction**{ .rsc } to teleport within 5 feet of the attacker and make a Melee attack or **:rsc-a: Unarmed Strike**{ .rsc } against it.
+When a creature with these **:trt-thp: Temporary Hit Points** within 60 feet of you that you can see is hit by a melee attack, you can use your **:rsc-r: Reaction**{ .rsc } to teleport within 5 feet of the attacker and make a Melee attack or **:rsc-a: Unarmed Strike**{ .rsc } against it.
 
 ### Level 14: Mountain's Heart
 
@@ -66,4 +66,5 @@ When you use your Stone's Aegis to protect an ally, you can choose up to three c
 
 [^1]: *Forced Movement* occurs when a creature is moved by an external force, such as a spell or ability, without using its own movement, Actions, or Reactions. Common examples include being pushed, pulled, or moved by effects like *Thunderwave* or a Battle Master's *Pushing Attack*. Forced movement does **not** provoke Opportunity Attacks and is not limited by a creature's movement speed.
 
-###### :material-book-arrow-up: Updated by *Eschatologue*
+:material-book-arrow-up: Updated by *Eschatologue*
+{ .author }

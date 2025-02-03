@@ -25,7 +25,7 @@ You have learned ancient techniques that allow you to channel lunar magic when y
 
 **Armour Class**{ .inl } Your AC equals 13 plus your Wisdom modifier until you leave the form.
 
-**Temporary Hit Points**{ .inl } You gain a number of Temporary Hit Points equal to three times your Druid level.
+**Temporary Hit Points**{ .inl } You gain a number of **:trt-thp: Temporary Hit Points** equal to three times your Druid level.
 
 ### Level 3: Circle Spells
 

@@ -55,4 +55,5 @@ When you cast a Wizard spell of level 4 or lower and the spell misses, deals no 
 
 Starting at Wizard level 18, this ability applies to Wizard spells of level 5 or lower.
 
-###### :material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*
+:material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*
+{ .author }

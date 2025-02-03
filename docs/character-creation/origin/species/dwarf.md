@@ -11,7 +11,7 @@ On some worlds in the multiverse, the first settlements of dwarves were built in
 *PHB'24 Species*
 
 :material-human: **Creature Type:** Humanoid  
-:trait-size: **Size:** Medium (about 4-5 feet tall)  
+:trt-size: **Size:** Medium (about 4-5 feet tall)  
 :rsc-spd: **Speed:** Standard (30 feet)
 
 As a Dwarf, you have these special traits.

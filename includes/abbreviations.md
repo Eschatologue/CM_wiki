@@ -5,6 +5,8 @@
 *[Advantage]: Roll two d20s, and use the <strong>higher</strong> roll.
 *[Disadvantage]: Roll two d20s, and use the <strong>lower</strong> roll.
 
+*[Bloodied]: A creature has half of its Hit Points or fewer remaining
+
 <!--- Covers --->
 
 *[Half Cover]: +2 bonus to AC & DEX saves.

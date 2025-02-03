@@ -19,13 +19,13 @@ For a creature to perform an action, particularly in combat scenarios, it must e
 **:rsc-a: Action**{ .rsc } – **:rsc-b: Bonus Action**{ .rsc } – **:rsc-r: Reaction**{ .rsc }
 { .align-center }
 
-### **:rsc-a: Action**{ .icon-head }
+### :rsc-a: Action
 
 An **:rsc-a: Action**{ .rsc } is one of the three primary resources that a creature can expend during its turn. Actions like **Attack**{ .rsc }, **Dash**{ .rsc },  **Magic**{ .rsc }, or **Unarmed Strike**{ .rsc } typically require an **:rsc-a: Action**{ .rsc }. 
 
 You can **only** use an **:rsc-a: Action**{ .rsc } for activities that explicitly require one. If an activity requires an **:rsc-a: Action**{ .rsc }, no other resources (**:rsc-b: Bonus Action**{ .rsc } or **:rsc-r: Reaction**{ .rsc }) can be used for that activity.
 
-### **:rsc-b: Bonus Action**{ .icon-head }
+### :rsc-b: Bonus Action
 
 A **:rsc-b: Bonus Action**{ .rsc } is an additional action a creature can take during its turn, granted by certain class features, spells, or other abilities. 
 
@@ -33,7 +33,7 @@ You can only take a **:rsc-b: Bonus Action**{ .rsc } if a specific feature, spel
 
 The **:rsc-b: Bonus Action**{ .rsc } can be taken at any point during your turn unless its timing is specifically stated. If something prevents you from taking an **:rsc-a: Action**{ .rsc }, it also prevents you from taking a **:rsc-b: Bonus Action**{ .rsc }.
 
-### **:rsc-r: Reaction**{ .icon-head }
+### :rsc-r: Reaction
 
 A **:rsc-r: Reaction**{ .rsc } is a special action that occurs in response to a specific trigger, which can happen either on your turn or on another creature's turn. The most common type of **:rsc-r: Reaction**{ .rsc } is the **Opportunity Attack**{ .em }.
 

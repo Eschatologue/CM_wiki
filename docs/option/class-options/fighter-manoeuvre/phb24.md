@@ -98,7 +98,7 @@ When you hit a creature with an attack using a weapon or an **:rsc-a: Unarmed St
 
 ### Rally
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can expend **one** Superiority Die to bolster the resolve of a companion. Choose an ally of yours who can see or hear you. That creature gains Temporary Hit Points equal to the Superiority Die roll plus your Intelligence, Wisdom, or Charisma modifier (your choice).
+As a **:rsc-b: Bonus Action**{ .rsc }, you can expend **one** Superiority Die to bolster the resolve of a companion. Choose an ally of yours who can see or hear you. That creature gains **:trt-thp: Temporary Hit Points** equal to the Superiority Die roll plus your Intelligence, Wisdom, or Charisma modifier (your choice).
 
 ---
 

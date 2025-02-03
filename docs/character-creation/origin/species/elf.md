@@ -22,7 +22,7 @@ Wood elves carry the magic of primeval forests within themselves. They are known
 *PHB'24 Species*
 
 :material-human: **Creature Type:** Humanoid  
-:trait-size: **Size:** Medium (about 5-6 feet tall)  
+:trt-size: **Size:** Medium (about 5-6 feet tall)  
 :rsc-spd: **Speed:** Standard (30 feet)
 
 As an Elf, you have these special traits.

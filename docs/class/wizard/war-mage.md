@@ -37,7 +37,7 @@ You can store magical energy within yourself to later empower your damaging spel
 
 **Gaining Power Surges**{ .inl } Whenever you successfully end a spell with [:spell-lv3: Dispel Magic] or [:spell-lv3: Counterspell], you gain one Power Surge, as you steal magic from the spell you foiled. You also gain one Power Surge when you reduce a creature to 0 Hit Points with a Wizard spell that used a spell slot, but only once per casting. 
 
-**Spell Empowerment**{ .inl } Once per turn when you deal damage to a creature or object with a Wizard spell, you can spend one Power Surge to deal extra :dmg-force: Force damage to that target. The extra damage equals your Wizard level.
+**Spell Empowerment**{ .inl } Once per turn when you deal damage to a creature or object with a Wizard spell, you can spend one Power Surge to deal extra **:dmg-force: Force**{ .dmg-force } damage to that target. The extra damage equals your Wizard level.
 
 ### Level 10: Durable Magic
 
@@ -49,4 +49,5 @@ Your Arcane Deflection becomes infused with deadly magic. When you use your Arca
 
 --8<-- "includes/snippets/spells2/lv3.md"
 
-###### :material-book-arrow-up: Updated by *Spaghetti0*
+:material-book-arrow-up: Updated by *Spaghetti0*
+{ .author }

@@ -1,5 +1,5 @@
 ---
-icon: ability/cons
+icon: abl/cons
 ---
 
 # Constitution

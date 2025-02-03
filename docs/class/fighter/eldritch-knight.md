@@ -63,7 +63,7 @@ Whenever you gain a level in this class, you can replace one of the spells you k
 
 #### Spellcasting Ability
 
-:ability-int: **Intelligence** is your spellcasting ability for your Eldritch Knight spells.
+:abl-int: **Intelligence** is your spellcasting ability for your Eldritch Knight spells.
 
 #### Spellcasting Focus
 

@@ -50,13 +50,14 @@
 .md-typeset h1,
 .md-typeset h2,
 .md-typeset h3,
-.md-typeset h4 {
+.md-typeset h4,
+.md-typeset h5 {
   font-family: var(--heading-font);
   text-transform: uppercase;
 }
 .md-typeset h3,
-.md-typeset h4 {
-  color: var(--md-gbl-text-color-strong);
+.md-typeset h4,
+.md-typeset h5 {
   text-transform: none !important;
   font-variant: small-caps !important;
 }
@@ -75,6 +76,7 @@
   padding-bottom: 0.1rem;
 }
 .md-typeset h3 {
+  color: var(--md-gbl-text-color-strong);
   font-size: calc(var(--default-font-size) * 1.45);
   letter-spacing: calc(var(--default-font-size) * 0.03);
   font-weight: 550;
@@ -83,6 +85,7 @@
   padding-bottom: 0.2rem;
 }
 .md-typeset h4 {
+  color: var(--md-gbl-text-color-strong);
   font-size: calc(var(--default-font-size) * 1.225);
   letter-spacing: calc(var(--default-font-size) * 0.03);
   font-weight: 550;
@@ -93,9 +96,8 @@
   font-size: var(--default-font-size);
   letter-spacing: calc(var(--default-font-size) * 0.03);
   font-weight: 500;
-  text-transform: capitalize !important;
-  margin-bottom: -0.2rem;
-  padding-bottom: -0.2rem;
+  margin-top: -0.2rem;
+  margin-bottom: -0.7rem;
 }
 .md-typeset h6 {
   font-size: calc(var(--default-font-size) * 0.85);
@@ -210,17 +212,13 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 /*-------------------------------------------------------
     Specific Typography Variants
 -------------------------------------------------------*/
-.quote {
+.quote, .author {
   color: var(--md-default-fg-color--light);
   font-size: calc(var(--default-font-size) * 0.9);
   font-weight: 400;
 }
-.quote strong {
+.quote strong, .author strong {
   color: var(--md-default-fg-color--light) !important;
-}
-
-.icon-head :is(.emojione, .twemoji, .gemoji) {
-  vertical-align: -0.1875em;
 }
 
 .back {
@@ -243,7 +241,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   text-align: center !important;
 }
 
-.align-right {
+.align-right, .author {
   text-align: right !important;
 }
 
@@ -300,7 +298,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
     Damage Type Dynamic Classes
 -------------------------------------------------------*/
 .dmg-acid {
-  color: hsl(129, 69%, 54%) !important;
+  color: hsl(77, 98%, 34%) !important;
   white-space: nowrap;
   font-weight: 400 !important;
 }
@@ -318,7 +316,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 }
 
 .dmg-posn {
-  color: hsl(104, 35%, 48%) !important;
+  color: hsl(102, 98%, 32%) !important;
   white-space: nowrap;
   font-weight: 400 !important;
 }
@@ -342,7 +340,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 }
 
 .dmg-necr {
-  color: hsl(172, 100%, 37%) !important;
+  color: hsl(129, 47%, 47%) !important;
   white-space: nowrap;
   font-weight: 400 !important;
 }
@@ -1170,7 +1168,6 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 }
 .md-typeset .admonition.statblock table:not([class]),
 .md-typeset details.statblock table:not([class]) {
-  width: auto !important;
   white-space: nowrap !important;
   box-shadow: none !important;
 }
@@ -1201,12 +1198,8 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 }
 .md-typeset .admonition.statblock table:not([class]) td:nth-child(1),
 .md-typeset .admonition.statblock table:not([class]) td:nth-child(2),
-.md-typeset .admonition.statblock table:not([class]) td:nth-child(5),
-.md-typeset .admonition.statblock table:not([class]) td:nth-child(6),
 .md-typeset details.statblock table:not([class]) td:nth-child(1),
-.md-typeset details.statblock table:not([class]) td:nth-child(2),
-.md-typeset details.statblock table:not([class]) td:nth-child(5),
-.md-typeset details.statblock table:not([class]) td:nth-child(6) {
+.md-typeset details.statblock table:not([class]) td:nth-child(2) {
   padding-left: 0.75em !important;
   padding-right: 0.75em !important;
   background-color: var(--md-default-blk--0125) !important;
@@ -1214,26 +1207,14 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   color: var(--md-text-color);
 }
 .md-typeset .admonition.statblock table:not([class]) td:nth-child(1),
-.md-typeset .admonition.statblock table:not([class]) td:nth-child(5),
-.md-typeset details.statblock table:not([class]) td:nth-child(1),
-.md-typeset details.statblock table:not([class]) td:nth-child(5) {
+.md-typeset details.statblock table:not([class]) td:nth-child(1) {
   font-variant: small-caps;
 }
 .md-typeset .admonition.statblock table:not([class]) td:nth-child(3),
 .md-typeset .admonition.statblock table:not([class]) td:nth-child(4),
-.md-typeset .admonition.statblock table:not([class]) td:nth-child(7),
-.md-typeset .admonition.statblock table:not([class]) td:nth-child(8),
 .md-typeset details.statblock table:not([class]) td:nth-child(3),
-.md-typeset details.statblock table:not([class]) td:nth-child(4),
-.md-typeset details.statblock table:not([class]) td:nth-child(7),
-.md-typeset details.statblock table:not([class]) td:nth-child(8) {
-  background-color: var(--md-primary-bg-color-light) !important;
-}
-.md-typeset .admonition.statblock table:not([class]) th:nth-child(4),
-.md-typeset .admonition.statblock table:not([class]) td:nth-child(4),
-.md-typeset details.statblock table:not([class]) th:nth-child(4),
 .md-typeset details.statblock table:not([class]) td:nth-child(4) {
-  border-right: 8px solid var(--md-default-bg-color) !important;
+  background-color: var(--md-primary-bg-color-light) !important;
 }
 @media screen and (max-width: 720px) {
   .md-typeset .admonition.statblock table:not([class]),
@@ -1248,12 +1229,18 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   .md-typeset details.statblock table:not([class]) td {
     font-size: var(--table-font-size) !important;
   }
-  .md-typeset .admonition.statblock table:not([class]) th:nth-child(4),
-  .md-typeset .admonition.statblock table:not([class]) td:nth-child(4),
-  .md-typeset details.statblock table:not([class]) th:nth-child(4),
-  .md-typeset details.statblock table:not([class]) td:nth-child(4) {
-    border-right: 0.3rem solid var(--md-default-bg-color) !important;
-  }
+}
+.md-typeset .admonition.statblock .grid,
+.md-typeset details.statblock .grid {
+  grid-template-columns: repeat(auto-fit, minmax(4.8rem, 1fr));
+  grid-gap: 0.25em;
+}
+.md-typeset .admonition.statblock .grid.cards > :is(ul, ol) > li,
+.md-typeset .admonition.statblock .grid > .card,
+.md-typeset details.statblock .grid.cards > :is(ul, ol) > li,
+.md-typeset details.statblock .grid > .card {
+  border: 0.075rem solid var(--md-default-wht--0125);
+  padding: 0.5rem 0.8rem;
 }
 .md-typeset .statblock > .admonition-title,
 .md-typeset .statblock > summary {

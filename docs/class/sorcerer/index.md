@@ -21,13 +21,13 @@ Sorcerers are rare. Some family lines produce exactly one Sorcerer in every gene
 
 !!! info "Core Sorcerer Trait"
 
-    **Primary Ability:** :ability-cha: Charisma  
+    **Primary Ability:** :abl-cha: Charisma  
 
     **Hit Point Die:** D6 per Sorcerer level  
-    **HP at Level 1:** 6 + :ability-cons: Con. modifier.  
-    **HP per Sorcerer Level:** 4 + :ability-cons: Con. modifier  
+    **HP at Level 1:** 6 + :abl-cons: Con. modifier.  
+    **HP per Sorcerer Level:** 4 + :abl-cons: Con. modifier  
 
-    **Saving Throw Proficiencies:** :ability-cons: Constitution and :ability-cha: Charisma  
+    **Saving Throw Proficiencies:** :abl-cons: Constitution and :abl-cha: Charisma  
 
     **Skill Proficiencies:** Choose 2: Arcana, Deception, Insight, Intimidation, Persuasion, or Religion  
 
@@ -112,7 +112,7 @@ Whenever you gain a Sorcerer level, you can replace one spell on your list with 
 
 #### Spellcasting Ability
 
-:ability-cha: **Charisma** is your spellcasting ability for your Sorcerer spells.
+:abl-cha: **Charisma** is your spellcasting ability for your Sorcerer spells.
 
 #### Spellcasting Focus
 
@@ -166,7 +166,7 @@ A subclass is a specialization that grants you special features at certain Sorce
 
 ### Level 4: Ability Score Improvement
 
-You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.
+You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#abl-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.
 
 ### Level 5: Sorcerous Restoration
 

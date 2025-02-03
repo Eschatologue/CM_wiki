@@ -66,7 +66,7 @@ The radius of this explosion increases to 10 feet when you reach level 9 in this
 
 You've developed masterful command of magical chemicals, enhancing the healing and damage you create through them.
 
-**Enhanced Healing**{ .inl } Whenever you cast a spell using your Alchemist's supplies that restores Hit Points to a creature, you can add your Intelligence modifier (minimum +1) to one healing roll of the spell. You add the same bonus to the Healing roll of the Healing effect of your Experimental Elixir.
+**Enhanced Healing**{ .inl } Whenever you cast a spell using your Alchemist's supplies that restores **:ui-hp: Hit Points** to a creature, you can add your Intelligence modifier (minimum +1) to one healing roll of the spell. You add the same bonus to the Healing roll of the Healing effect of your Experimental Elixir.
 
 **Deadly Toxins**{ .inl } Whenever you use your Alchemical Grenades feature and use the Alchemical Explosion benefit, you add your Intelligence modifier to the explosion's damage. The affected creatures still take half damage on a successful saving throw.
 
@@ -74,7 +74,7 @@ You've developed masterful command of magical chemicals, enhancing the healing a
 
 You can incorporate restorative reagents into some of your works:
 
-**Fortifying Elixirs**{ .inl } Whenever a creature drinks an experimental elixir you created, the creature gains Temporary Hit Points equal to 2d6 + your Intelligence modifier (minimum of 1 Temporary Hit Point).
+**Fortifying Elixirs**{ .inl } Whenever a creature drinks an experimental elixir you created, the creature gains **:trt-thp: Temporary Hit Points** equal to 2d6 + your Intelligence modifier (minimum of **1 :trt-thp: Temporary Hit Point**).
 
 **Lesser Restoration**{ .inl } You always have the [:spell-lv2: Lesser Restoration] spell prepared, and you cast it without expending a spell slot, provided you use Alchemist's Supplies as the spellcasting focus. You can do so a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 

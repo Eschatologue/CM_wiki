@@ -23,13 +23,13 @@ Monks generally view their adventures as personal tests of their physical and me
 
 !!! info "Core Monk Trait"
 
-    **Primary Ability:** :ability-dex: Dexterity and :ability-wis: Wisdom  
+    **Primary Ability:** :abl-dex: Dexterity and :abl-wis: Wisdom  
 
     **Hit Point Die:** D8 per Monk level  
 
-    **HP at Level 1:** 8 + :ability-cons: Con. modifier  
-    **HP per Monk Level:** 5 + :ability-cons: Con. modifier  
-    **Saving Throw Proficiencies:** :ability-str: Strength and :ability-dex: Dexterity  
+    **HP at Level 1:** 8 + :abl-cons: Con. modifier  
+    **HP per Monk Level:** 5 + :abl-cons: Con. modifier  
+    **Saving Throw Proficiencies:** :abl-str: Strength and :abl-dex: Dexterity  
 
     **Skill Proficiencies:** Choose 2: Acrobatics, Athletics, History, Insight, Religion, or Stealth  
 
@@ -150,7 +150,7 @@ You gain a Monk subclass of your choice. A subclass is a specialization that gra
 
 ### Level 4: Ability Score Improvement
 
-You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Monk levels 8, 12, and 16.
+You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#abl-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Monk levels 8, 12, and 16.
 
 ### Level 4: Slow Fall
 
@@ -184,7 +184,7 @@ Your Flurry of Blows, Patient Defense, and Step of the Wind gain the following b
 
 **Flurry of Blows**{ .inl } You can expend **1 :class-phb24-monk: Focus Point(s)** to use [Flurry of Blows](#flurry-of-blows) and make three **:rsc-a: Unarmed Strike**{ .rsc } with it instead of two.
 
-**Patient Defense**{ .inl } When you expend a **:class-phb24-monk: Focus Point(s)** to use [Patient Defense](#patient-defense), you gain a number of Temporary Hit Points equal to two rolls of your Martial Arts die.
+**Patient Defense**{ .inl } When you expend a **:class-phb24-monk: Focus Point(s)** to use [Patient Defense](#patient-defense), you gain a number of **:trt-thp: Temporary Hit Points** equal to two rolls of your Martial Arts die.
 
 **Step of the Wind**{ .inl } When you expend a **:class-phb24-monk: Focus Point(s)** to use [Step of the Wind](#step-of-the-wind), you can choose a willing creature within 5 feet of yourself that is Large or smaller. You move the creature with you until the end of your turn. The creature's movement doesn't provoke Opportunity Attacks.
 

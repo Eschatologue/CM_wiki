@@ -9,14 +9,14 @@ Orcs are, on average, tall and broad. They have gray skin, ears that are sharply
 *PHB'24 Species - Crown & Misery Homebrew*
 
 :material-human: **Creature Type:** Humanoid  
-:trait-size: **Size:** Medium (about 6-7 feet tall)  
+:trt-size: **Size:** Medium (about 6-7 feet tall)  
 :rsc-spd: **Speed:** Standard (30 feet)
 
 As an Orc, you have these following traits. 
 
 ### Adrenaline Rush
 
-You can take the **Dash**{ .rsc } action as a  **:rsc-b: Bonus Action**{ .rsc }. When you do so, you gain a number of Temporary Hit Points equal to your Proficiency Bonus.
+You can take the **Dash**{ .rsc } action as a  **:rsc-b: Bonus Action**{ .rsc }. When you do so, you gain a number of **:trt-thp: Temporary Hit Points** equal to your Proficiency Bonus.
 
 You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended use when you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 

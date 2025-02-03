@@ -1,5 +1,5 @@
 ---
-icon: trait/prof
+icon: trt/prof
 ---
 
 # Proficiency

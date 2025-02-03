@@ -49,4 +49,5 @@ You have practiced new ways to use your Sneak Attack. The following effects are 
 
 Immediately after you use your Sneak Attack, you can make another attack against the same target, provided you are within 5 feet of it and no other creatures are within 5 feet of you.
 
-###### :material-book-arrow-up: Updated by *Wizards of the Coast* :material-book-arrow-up: Modified by *Eschatologue*
+:material-book-arrow-up: Updated by *Wizards of the Coast* :material-book-arrow-up: Modified by *Eschatologue*
+{ .quote }

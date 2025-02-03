@@ -23,13 +23,13 @@ But the lure of knowledge calls even the most unadventurous Wizards from the saf
 
 !!! info "Core Wizard Trait"
 
-    **Primary Ability:** :ability-INT: Intelligence  
+    **Primary Ability:** :abl-INT: Intelligence  
 
     **Hit Point Die:** D6 per Wizard level  
-    **HP at Level 1:** 6 + :ability-cons: Con. modifier.  
-    **HP per Wizard Level:** 4 + :ability-cons: Con. modifier  
+    **HP at Level 1:** 6 + :abl-cons: Con. modifier.  
+    **HP per Wizard Level:** 4 + :abl-cons: Con. modifier  
 
-    **Saving Throw Proficiencies:** :ability-int: Intelligence and :ability-wis: Wisdom  
+    **Saving Throw Proficiencies:** :abl-int: Intelligence and :abl-wis: Wisdom  
 
     **Skill Proficiencies:** Choose 2: Arcana, History, Insight, Investigation, Medicine, Nature, or Religion  
 
@@ -121,7 +121,7 @@ Whenever you finish a **:rest-long: Long Rest**, you can change your list of pre
 
 #### Spellcasting Ability
 
-:ability-int: **Intelligence** is your spellcasting ability for your Wizard spells.
+:abl-int: **Intelligence** is your spellcasting ability for your Wizard spells.
 
 #### Spellcasting Focus
 
@@ -157,7 +157,7 @@ You gain a Wizard subclass of your choice. A subclass is a specialization that g
 
 ### Level 4: Ability Score Improvement
 
-You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
+You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#abl-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
 
 ### Level 5: Memorize Spell
 

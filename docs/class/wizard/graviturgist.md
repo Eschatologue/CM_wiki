@@ -1,6 +1,8 @@
 ---
 title: "Subclass: Graviturgist (Wizard)"
 status: adapted
+search:
+    hidden: true
 ---
 
 <p style="display:none">
@@ -61,4 +63,5 @@ As a **:rsc-a: Magic**{ .rsc } action, you can emit a powerful field of gravitat
 
 Once you use this feature, you can't do so again until you finish a **:rest-long: Long Rest** or until you expend a spell slot of level 3 or higher to use it again.
 
-###### :material-book-arrow-up: Updated by *PerfectlyCircularSeal* :material-book-arrow-up: Modified by *Eschatologue*
+:material-book-arrow-up: Updated by *PerfectlyCircularSeal* :material-book-arrow-up: Modified by *Eschatologue*
+{ .author }

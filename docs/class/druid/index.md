@@ -29,12 +29,12 @@ Druids are often found guarding sacred sites or watching over regions of unspoil
 
 !!! info "Core Druid Trait"
 
-    **Primary Ability:** :ability-wis: Wisdom  
+    **Primary Ability:** :abl-wis: Wisdom  
 
     **Hit Point Die:** D8 per Druid level  
-    **HP at Level 1:** 8 + :ability-cons: Con. modifier.  
-    **HP per Druid Level:** 5 + :ability-cons: Con. modifier  
-    **Saving Throw Proficiencies:** :ability-int: Intelligence and :ability-wis: Wisdom  
+    **HP at Level 1:** 8 + :abl-cons: Con. modifier.  
+    **HP per Druid Level:** 5 + :abl-cons: Con. modifier  
+    **Saving Throw Proficiencies:** :abl-int: Intelligence and :abl-wis: Wisdom  
 
     **Skill Proficiencies:** Choose 2: Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, or Survival  
 
@@ -120,7 +120,7 @@ Whenever you finish a **:rest-long: Long Rest**, you can change your list of pre
 
 #### Spellcasting Ability
 
-:ability-wis: **Wisdom** is your Spellcasting Ability for your Druid spells.
+:abl-wis: **Wisdom** is your Spellcasting Ability for your Druid spells.
 
 #### Spellcasting Focus
 
@@ -166,7 +166,7 @@ When choosing known forms, you may look in the Monster Manual or elsewhere for e
 
 While in a form, you retain your personality, memories, and ability to speak, and the following rules apply:
 
-**Temporary Hit Points**{ .inl } When you assume a Wild Shape form, you gain a number of Temporary Hit Points equal to your Druid level.
+**Temporary Hit Points**{ .inl } When you assume a Wild Shape form, you gain a number of **:trt-thp: Temporary Hit Points** equal to your Druid level.
 
 **Game Statistics**{ .inl } Your game statistics are replaced by the Beast's stat block, but you retain your creature type; Hit Points; Hit Point Dice; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your skill and saving throw proficiencies and use your Proficiency Bonus for them, in addition to gaining the proficiencies of the creature. If a skill or saving throw modifier in the Beast's stat block is higher than yours, use the one in the stat block.
 
@@ -186,7 +186,7 @@ You gain a Druid subclass of your choice. A subclass is a specialization that gr
 
 ### Level 4: Ability Score Improvement
 
-You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.
+You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#abl-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.
 
 ### Level 5: Wild Resurgence
 

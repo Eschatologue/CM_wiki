@@ -36,7 +36,7 @@ Choose any number of willing creatures that you can see within range. Each targe
 
 A target's game statistics are replaced by the chosen Beast's statistics, but the target retains its creature type; Hit Points; Hit Point Dice; alignment; ability to communicate; and Intelligence, Wisdom, and Charisma scores. The target's actions are limited by the Beast form's anatomy, and it can't cast spells. The target's equipment melds into the new form, and the target can't use any of that equipment while in that form.
 
-The target gains a number of Temporary Hit Points equal to the Beast form's Hit Points. The transformation lasts for the duration for each target, until the target has no Temporary Hit Points, or until the target leaves the form as a  **:rsc-b: Bonus Action**{ .rsc }.
+The target gains a number of **:trt-thp: Temporary Hit Points** equal to the Beast form's Hit Points. The transformation lasts for the duration for each target, until the target has no Temporary Hit Points, or until the target leaves the form as a  **:rsc-b: Bonus Action**{ .rsc }.
 
 > **Classes:** Druid
 

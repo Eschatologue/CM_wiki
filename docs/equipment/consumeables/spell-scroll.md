@@ -1,5 +1,5 @@
 ---
-icon: ability/wis
+icon: abl/wis
 status: homebrew
 ---
 

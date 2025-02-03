@@ -42,8 +42,8 @@ The Coreflame of Bravery, Engine of Immortality, **The Spire of Perseverance**; 
 
 | Name | Forme | Description |
 |---|---|---|
-| *Siege Emplacement* | Archer | Allies that start its turn within 10 feet of you, gain Temporary Hit Points equal to your Druid level until the start of its next turn. 
-| *Amber Armour* | Chalice | When you restore Hit Points to a creature using the Chalice Form feature, you and all allies within 10 feet of you gain Temporary Hit Points equal to half the Chalice Form's healing roll for 1 minute.
+| *Siege Emplacement* | Archer | Allies that start its turn within 10 feet of you, gain **:trt-thp: Temporary Hit Points** equal to your Druid level until the start of its next turn. 
+| *Amber Armour* | Chalice | When you restore Hit Points to a creature using the Chalice Form feature, you and all allies within 10 feet of you gain **:trt-thp: Temporary Hit Points** equal to half the Chalice Form's healing roll for 1 minute.
 | *Warding Aura* | Dragon | While :spell-conc: Concentrating on a Druid spell, all allies within 10 feet of you gain the benefit of Half Cover.
 
 #### Resonance of Judgement – Locked

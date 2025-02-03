@@ -63,4 +63,5 @@ Once you use this feature, you can’t use it again until you finish a **:rest-l
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 
-###### :material-book-arrow-up: Updated by *Shades the Mothman*
+:material-book-arrow-up: Updated by *Shades the Mothman*
+{ .author }

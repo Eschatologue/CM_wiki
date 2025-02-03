@@ -88,7 +88,7 @@ Whenever you finish a **:rest-long: Long Rest**, you can replace one spell on yo
 
 #### Spellcasting Ability
 
-:ability-cha: **Charisma** is your spellcasting ability.
+:abl-cha: **Charisma** is your spellcasting ability.
 
 #### Spellcasting Focus
 

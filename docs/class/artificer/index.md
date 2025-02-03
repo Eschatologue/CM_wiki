@@ -17,13 +17,13 @@ Masters of unlocking magic in everyday objects, Artificers are supreme inventors
 
 !!! info "Core Artificer Traits"
 
-    **Primary Ability:** :ability-int: Intelligence
+    **Primary Ability:** :abl-int: Intelligence
 
     **Hit Point Die:** D8 per Artificer level  
-    **HP at Level 1:** 8 + :ability-cons: Con. modifier  
-    **HP per Artificer Level:** 5 + :ability-cons: Con. modifier
+    **HP at Level 1:** 8 + :abl-cons: Con. modifier  
+    **HP per Artificer Level:** 5 + :abl-cons: Con. modifier
 
-    **Saving Throw Proficiencies:** :ability-cons: Constitution and :ability-int: Intelligence
+    **Saving Throw Proficiencies:** :abl-cons: Constitution and :abl-int: Intelligence
 
     **Skill Proficiencies:** Choose 2: Arcana, History, Investigation, Medicine, Nature, Perception, or Sleight of Hand.
 
@@ -118,7 +118,7 @@ Whenever you finish a **:rest-long: Long Rest**, you can replace one spell on yo
 
 #### Spellcasting Ability
 
-:ability-int: **Intelligence** is your spellcasting ability for your Artificer spells.
+:abl-int: **Intelligence** is your spellcasting ability for your Artificer spells.
 
 #### Tools Required
 
@@ -188,7 +188,7 @@ You've learned how to produce exactly the tool you need: with [Thieves' Tools] o
 
 ### Level 4: Ability Score Improvement
 
-You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Artificer levels 8, 12, 16, and 19.
+You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#abl-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Artificer levels 8, 12, 16, and 19.
 
 ### Level 6: Tool Expertise
 
@@ -212,7 +212,7 @@ You've achieved a profound understanding of how to use and make magic items:
 
 You can now store a spell in an object. Whenever you finish a **:rest-long: Long Rest**, you can touch one Simple or Martial weapon or one item that you can use as a spellcasting focus, and you store a spell in it, choosing a level 1 or 2 spell from the [Artificer spell list] that requires an :rsc-a: Action to cast (you needn't have it prepared).
 
-While holding the object, a creature can take an **:rsc-a: Magic**{ .rsc } action to produce the spell's effect from it, using your spellcasting ability modifier. If the spell requires Concentration, the creature must concentrate. The spell stays in the object until it's been used a number of times equal to twice your :ability-int: Intelligence modifier (minimum of 1) or until you use this feature again to store a spell in an object.
+While holding the object, a creature can take an **:rsc-a: Magic**{ .rsc } action to produce the spell's effect from it, using your spellcasting ability modifier. If the spell requires Concentration, the creature must concentrate. The spell stays in the object until it's been used a number of times equal to twice your :abl-int: Intelligence modifier (minimum of 1) or until you use this feature again to store a spell in an object.
 
 ### Level 14: Magic Item Savant
 

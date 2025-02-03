@@ -144,7 +144,7 @@ You transform up to ten creatures of your choice that you can see within range. 
 
 Each target assumes a beast form of your choice, and you can choose the same form or different ones for each target. The new form can be any beast you have seen whose challenge rating is equal to or less than the target's (or half the target's level, if the target doesn't have a challenge rating). The target's game statistics, including mental ability scores, are replaced by the statistics of the chosen beast, but the target retains its hit points, alignment, and personality.
 
-Each target gains a number of temporary hit points equal to the hit points of its new form. These temporary hit points can't be replaced by temporary hit points from another source. A target reverts to its normal form when it has no more temporary hit points or it dies. If the spell ends before then, the creature loses all its temporary hit points and reverts to its normal form.
+Each target gains a number of **:trt-thp: Temporary Hit Points** equal to the hit points of its new form. These **:trt-thp: Temporary Hit Points** can't be replaced by **:trt-thp: Temporary Hit Points** from another source. A target reverts to its normal form when it has no more **:trt-thp: Temporary Hit Points** or it dies. If the spell ends before then, the creature loses all its **:trt-thp: Temporary Hit Points** and reverts to its normal form.
 
 The creature is limited in the actions it can perform by the nature of its new form. It can't speak, cast spells, or do anything else that requires hands or speech.
 
@@ -257,7 +257,7 @@ A stunned target can make an Intelligence saving throw at the end of each of its
 
 You shape-shift into another creature for the duration or until you take a **:rsc-a: Magic**{ .rsc } action to shape-shift into a different eligible form. The new form must be of a creature that has a Challenge Rating no higher than your level or Challenge Rating. You must have seen the sort of creature before, and it can't be a Construct or an Undead.
 
-When you shape-shift, you gain a number of Temporary Hit Points equal to the Hit Points of the form. The spell ends early if you have no Temporary Hit Points left.
+When you shape-shift, you gain a number of **:trt-thp: Temporary Hit Points** equal to the Hit Points of the form. The spell ends early if you have no **:trt-thp: Temporary Hit Points** left.
 
 Your game statistics are replaced by the stat block of the chosen form, but you retain your creature type; alignment; personality; Intelligence, Wisdom, and Charisma scores; Hit Points; Hit Point Dice; proficiencies; and ability to communicate. If you have the Spellcasting feature, you retain it too.
 
@@ -321,7 +321,7 @@ An unwilling creature can make a Wisdom saving throw, and if it succeeds, it isn
 
 ***Creature into Creature.*** If you turn a creature into another kind of creature, the new form can be any kind you choose that has a Challenge Rating equal to or less than the target's Challenge Rating or level. The target's game statistics are replaced by the stat block of the new form, but it retains its Hit Points, Hit Point Dice, alignment, and personality.
 
-The target gains a number of Temporary Hit Points equal to the Hit Points of the new form. The spell ends early on the target if it has no Temporary Hit Points left.
+The target gains a number of **:trt-thp: Temporary Hit Points** equal to the Hit Points of the new form. The spell ends early on the target if it has no **:trt-thp: Temporary Hit Points** left.
 
 The target is limited in the actions it can perform by the anatomy of its new form, and it can't speak or cast spells.
 

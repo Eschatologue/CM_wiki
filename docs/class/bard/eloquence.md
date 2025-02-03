@@ -39,4 +39,5 @@ You can use this **:rsc-r: Reaction**{ .rsc } a number of times equal to your Ch
 
 --8<-- "includes/snippets/skills.md"
 
-###### :material-book-arrow-up: Updated by *Spaghetti0* 
+:material-book-arrow-up: Updated by *Spaghetti0* 
+{ .author }

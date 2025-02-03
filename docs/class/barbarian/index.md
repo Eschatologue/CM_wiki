@@ -21,13 +21,13 @@ Barbarians often serve as protectors and leaders in their communities. They char
 
 ??? info "Core Barbarian Trait"
 
-    **Primary Ability:** :ability-str: Strength
+    **Primary Ability:** :abl-str: Strength
 
     **Hit Point Die:** D12 per Barbarian level  
-    **HP at Level 1:** 12 + :ability-cons: Con. modifier  
-    **HP per Barbarian Level:** 7 + :ability-cons: Con. modifier  
+    **HP at Level 1:** 12 + :abl-cons: Con. modifier  
+    **HP per Barbarian Level:** 7 + :abl-cons: Con. modifier  
 
-    **Saving Throw Proficiencies:** :ability-str: Strength and :ability-cons: Constitution
+    **Saving Throw Proficiencies:** :abl-str: Strength and :abl-cons: Constitution
 
     **Skill Proficiencies:** Choose 2: Animal Handling, Athletics, Intimidation, Nature, Perception, or Survival
 
@@ -121,9 +121,9 @@ Each time the **:class-abl-rage: Rage**{ .em } is extended, it lasts until the e
 
 While you aren't wearing any armour, you can choose the following option to determine your base **Armour Class**:
 
-:   **Dexterity Based**{ .inl } 10 plus your :ability-dex: Dexterity and :ability-cons: Constitution modifiers; or
+:   **Dexterity Based**{ .inl } 10 plus your :abl-dex: Dexterity and :abl-cons: Constitution modifiers; or
 
-:   **Strength Based**{ .inl } 10 plus your :ability-str: Strength and :ability-cons: Constitution modifiers.
+:   **Strength Based**{ .inl } 10 plus your :abl-str: Strength and :abl-cons: Constitution modifiers.
 
 You can use a Shield and still gain these benefit.
 
@@ -147,7 +147,7 @@ You have **:d20-adv: Advantage**{ .d20 } on :d20-save: Dexterity saving throws u
 
 ### Level 2: Reckless Attack
 
-You can throw aside all concern for defense to attack with increased ferocity. When you make your first attack roll on your turn, you can decide to attack recklessly. Doing so gives you **:d20-adv: Advantage**{ .d20 } on attack rolls using :ability-str: Strength until the start of your next turn, but attack rolls against you have **:d20-adv: Advantage**{ .d20 } during that time.
+You can throw aside all concern for defense to attack with increased ferocity. When you make your first attack roll on your turn, you can decide to attack recklessly. Doing so gives you **:d20-adv: Advantage**{ .d20 } on attack rolls using :abl-str: Strength until the start of your next turn, but attack rolls against you have **:d20-adv: Advantage**{ .d20 } during that time.
 
 ### Level 3: Barbarian Subclass
 
@@ -161,7 +161,7 @@ In addition, while your **:class-abl-rage: Rage**{ .em } is active, you can chan
 
 ### Level 4: Ability Score Improvement
 
-You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#abl-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 
 ### Level 5: Extra Attack
 
@@ -181,7 +181,7 @@ As part of the **:rsc-b: Bonus Action**{ .rsc } you take to enter your **:class-
 
 ### Level 9: Brutal Strike
 
-If you use Reckless Attack, you can forgo any **:d20-adv: Advantage**{ .d20 } on one :ability-str: Strength-based attack roll of your choice on your turn. The chosen attack roll mustn't have **:d20-dis: Disadvantage**{ .d20 }. 
+If you use Reckless Attack, you can forgo any **:d20-adv: Advantage**{ .d20 } on one :abl-str: Strength-based attack roll of your choice on your turn. The chosen attack roll mustn't have **:d20-dis: Disadvantage**{ .d20 }. 
 
 If the chosen attack roll hits, the target takes an extra 1d10 damage of the same type dealt by the weapon or **:rsc-a: Unarmed Strike**{ .rsc } , and you can cause one Brutal Strike effect of your choice. You have the following effect options.
 
@@ -223,6 +223,6 @@ You gain an [:option-feat-boon: Epic Boon](../../option/feat/feat-boon.md) feat 
 
 ### Level 20: Primal Champion
 
-You embody primal power. Your :ability-str: Strength and :ability-cons: Constitution scores increase by 4, to a maximum of 25.
+You embody primal power. Your :abl-str: Strength and :abl-cons: Constitution scores increase by 4, to a maximum of 25.
 
 --8<-- "includes/snippets/skills.md"

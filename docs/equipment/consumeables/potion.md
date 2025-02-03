@@ -89,7 +89,7 @@ When you drink this potion, you gain the following benefits for the next 8 hours
 
 *Potion, Common, M-*
 
-Grants Temporary Hit Points equals to 4d4 plus your Constitution modifier.
+Grants **:trt-thp: Temporary Hit Points** equals to 4d4 plus your Constitution modifier.
 
 ---
 

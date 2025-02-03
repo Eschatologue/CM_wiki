@@ -9,7 +9,7 @@ A tiefling chooses whether to emprace or lament their fiendish legacy. The three
 *PHB'24 Species*
 
 :material-human: **Creature Type:** Humanoid  
-:trait-size: **Size:** Medium (about 4-7 feet tall) or Small (about -4 feet tall)  
+:trt-size: **Size:** Medium (about 4-7 feet tall) or Small (about -4 feet tall)  
 :rsc-spd: **Speed:** Standard (30 feet)
 
 As a Tiefling, you have the following special traits.

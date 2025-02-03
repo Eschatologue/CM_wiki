@@ -41,4 +41,5 @@ When you use your [Deflect Attacks](index.md#level-3-deflect-attacks) feature to
 
 --8<-- "includes\snippets\spells2\lv3.md"
 
-###### :material-book-arrow-up: Updated by *Spaghetti0* & *PerfectlyCircularSeal*
+:material-book-arrow-up: Updated by *Spaghetti0* & *PerfectlyCircularSeal*
+{ .author }

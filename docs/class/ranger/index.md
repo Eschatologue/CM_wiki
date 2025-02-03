@@ -25,13 +25,13 @@ Thanks to their connection with nature, Rangers can also cast spells that harnes
 
 !!! info "Core Ranger Trait"
 
-    **Primary Ability:** :ability-str: Strength or :ability-dex: Dexterity, and :ability-wis: Wisdom  
+    **Primary Ability:** :abl-str: Strength or :abl-dex: Dexterity, and :abl-wis: Wisdom  
 
     **Hit Point Die:** D10 per Ranger level  
-    **HP at Level 1:** 8 + :ability-cons: Con. modifier.  
-    **HP per Cleric Level:** 5 + :ability-cons: Con. modifier  
+    **HP at Level 1:** 8 + :abl-cons: Con. modifier.  
+    **HP per Cleric Level:** 5 + :abl-cons: Con. modifier  
 
-    **Saving Throw Proficiencies:** :ability-str: Strength and :ability-dex: Dexterity  
+    **Saving Throw Proficiencies:** :abl-str: Strength and :abl-dex: Dexterity  
 
     **Skill Proficiencies:** Choose 3: Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, or Survival  
 
@@ -99,7 +99,7 @@ The number of times you can cast the spell without a spell slot increases when y
 
 You gain invaluable knowledge, experiences, or hard-earned lessons, which is represented by Ranger's Aptidude. You gain one aptidude of your choice. Aptidude are described in the "[Ranger's Aptitude Options](../../option/class-options/ranger-aptitude.md)" section later in this class's description.
 
-**Prerequisites**{ .inl } If an aptidude has a prerequisite, you must meet it to learn that aptidude. For example, if an aptidude requires you to be a level 5+ Ranger, you can select the aptidude once you reach Ranger level 5. If another Ranger feature gives you Aptitude, those Aptitude don't count against the number of Aptitudes you know with this feature
+**Prerequisites**{ .inl } If an aptidude has a prerequisite, you must meet it to learn that aptidude. For example, if an aptidude requires you to be a level 5+ Ranger, you can select the aptidude once you reach Ranger level 5. If another Ranger feature gives you Aptitude, those Aptitude don't count against the number of Aptitudes you know with this feature.
 
 **Replacing and Gaining Aptidudes**{ .inl } Whenever you gain a Ranger level, you can replace one of your aptidudes with another one for which you qualify. You can't replace an aptidude if it's a prerequisite for another aptidude that you have.
 
@@ -133,7 +133,7 @@ Whenever you finish a **:rest-long: Long Rest**, you can replace one spell on yo
 
 #### Spellcasting Ability
 
-:ability-wis: **Wisdom** is your spellcasting ability for your Ranger spells.
+:abl-wis: **Wisdom** is your spellcasting ability for your Ranger spells.
 
 #### Spellcasting Focus
 
@@ -171,7 +171,7 @@ You gain a Ranger subclass of your choice. The Hunter subclass is detailed after
 
 ### Level 4: Ability Score Improvement
 
-You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Ranger levels 8, 12, and 16.
+You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#abl-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Ranger levels 8, 12, and 16.
 
 ### Level 5: Extra Attack
 
@@ -189,7 +189,7 @@ Choose two of your skill proficiencies with which you lack Expertise. You gain E
 
 Primal forces now help fuel you on your journeys, granting you the following benefits.
 
-**Temporary Hit Points**{ .inl } As a **:rsc-a: Magic**{ .rsc } action, you can give yourself a number of Temporary Hit Points equal to 1d8 plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
+**Temporary Hit Points**{ .inl } As a **:rsc-a: Magic**{ .rsc } action, you can give yourself a number of **:trt-thp: Temporary Hit Points** equal to 1d8 plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 **Decrease Exhaustion**{ .inl } Whenever you finish a **:rest-short: Short Rest**, your Exhaustion level, if any, decreases by 1.
 

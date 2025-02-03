@@ -70,7 +70,7 @@ Whenever you gain a level in this class, you can replace one of the spells you k
 
 #### Spellcasting Ability
 
-:ability-wis: **Wisdom** is your spellcasting ability for your Wu Jen spells.
+:abl-wis: **Wisdom** is your spellcasting ability for your Wu Jen spells.
 
 #### Spellcasting Focus
 
@@ -97,7 +97,7 @@ When you hit your target with an attack using this feature, you can spend **1 :c
 
 You weave your martial arts with spiritual magic. When you cast a Wu Jen spell with a casting time of an Action, you can expend 2 **:class-phb24-monk: Focus Point(s)** to cast it as a **:rsc-b: Bonus Action**{ .rsc } instead. 
 
-Moreover, when you start your turn and are Concentrating on a spell that you cast on yourself (such as *Haste*), you gain Temporary Hit Points equal to twice the level of that spell.
+Moreover, when you start your turn and are Concentrating on a spell that you cast on yourself (such as *Haste*), you gain **:trt-thp: Temporary Hit Points** equal to twice the level of that spell.
 
 ### Level 15: Ancension of the Elements
 
@@ -107,7 +107,7 @@ As a **:rsc-b: Bonus Action**{ .rsc }, you can draw all five elements into yours
 
 **Rapid Strikes**{ .inl } When you attack with a Monk Weapon or **:rsc-a: Unarmed Strike**{ .rsc } , you can make two additional Monk Weapon or **:rsc-a: Unarmed Strike**{ .rsc } attacks as part of that attack action (for a total of four attacks).
 
-**Temporary Hit Points**{ .inl } Whenever you cast a Wu Jen spell you gain Temporary Hit Points equal to twice the level of the spell slot expended.
+**Temporary Hit Points**{ .inl } Whenever you cast a Wu Jen spell you gain **:trt-thp: Temporary Hit Points** equal to twice the level of the spell slot expended.
 
 **Forced Teleportation**{ .inl } Whenever you teleport with a Wu Jen feature or spell, you can touch a creature equal to you in size (or smaller) and teleport it with you (no action required). This includes grappled creatures.
 
@@ -222,6 +222,7 @@ This Wu Jen spell list includes all spells available from `PHB'24`, `TCE`, `XGE`
     | *Wall of Fire* | Evocation | Action | 120 feet | Concentration, up to 1 minute | V, S, M (a piece of charcoal) | PHB'24 |
     | *Watery Sphere* | Conjuration | Action | 90 feet | Concentration, up to 1 minute | V, S, M (a droplet of water) | XGE |
 
-###### :material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*
+:material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*
+{ .author }
 
 --8<-- "includes/snippets/spells2/lv0.md"

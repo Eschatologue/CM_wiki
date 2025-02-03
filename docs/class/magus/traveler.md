@@ -89,4 +89,5 @@ Once you use this feature you must finish a **:rest-long: Long Rest** before you
 --8<-- "includes/snippets/spells2/lv0-5.md"
 --8<-- "includes/snippets/spells2/lv9.md"
 
-###### :material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*
+:material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*
+{ .author }

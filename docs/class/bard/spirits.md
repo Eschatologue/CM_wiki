@@ -33,10 +33,10 @@ You can retain only one of these tales in mind at a time, and rolling on the Spi
 |:-:|---|
 | 1 | **Tale of the Clever Animal**  For the next 10 minutes, whenever the target makes an Intelligence, Wisdom, or Charisma check, the target can roll an extra die immediately after rolling the d20 and add the extra die's number to the check. The extra die is the same type as your Bardic Inspiration die. |
 | 2 | **Tale of the Renowned Duelist**  You make a melee spell attack against the target. On a hit, the target takes Force damage equal to two rolls of your Bardic Inspiration die + your Charisma modifier. |
-| 3 | ***Tale of the Beloved Friends***. The target and another creature of its choice it can see within 5 feet of it gains Temporary Hit Points equal to a roll of your Bardic Inspiration die plus your Charisma modifier. |
+| 3 | ***Tale of the Beloved Friends***. The target and another creature of its choice it can see within 5 feet of it gains **:trt-thp: Temporary Hit Points** equal to a roll of your Bardic Inspiration die plus your Charisma modifier. |
 | 4 | **Tale of the Runaway**  The target can immediately take a **:rsc-r: Reaction**{ .rsc } to Teleport up to 30 feet to an unoccupied space it can see. When the target Teleports, it can choose a number of creatures it can see within 30 feet of it up to your Charisma modifier (minimum of 0) to immediately take the same Reaction. |
 | 5 | **Tale of the Avenger**  For 1 minute, any creature that hits the target with a melee attack takes Force damage equal to one roll of your Bardic Inspiration die. |
-| 6 | **Tale of the Traveler**  The target gains Temporary Hit Points equal to one roll of your Bardic Inspiration die + your Bard level. While it has these Temporary Hit Points, the target's Speed increases by 10 feet and it gains a +1 bonus to its AC. |
+| 6 | **Tale of the Traveler**  The target gains **:trt-thp: Temporary Hit Points** equal to one roll of your Bardic Inspiration die + your Bard level. While it has these Temporary Hit Points, the target's Speed increases by 10 feet and it gains a +1 bonus to its AC. |
 | 7 | **Tale of the Beguiler**  The target must succeed on a Wisdom saving throw or take Psychic damage equal to two rolls of your Bardic Inspiration die, and the target has the Incapacitated condition until the end of its next turn. |
 | 8 | **Tale of the Phantom**  The target has the Invisible condition until the end of its next turn or until it hits a creature with an attack. If the target hits a creature with an attack during this invisibility, the creature it hits takes Necrotic damage equal to one roll of your Bardic Inspiration die and has the Frightened condition until the end of the frightened creature's next turn, with the attacker serving as the source of the fear. |
 | 9 | **Tale of the Brute**  Each creature of the target's choice it can see within 30 feet of it must make a Strength saving throw. On a failed save, a creature takes Thunder damage equal to three rolls of your Bardic Inspiration die and has the Prone condition. A creature that succeeds on its saving throw takes half as much damage and isn't Prone. |
@@ -62,5 +62,6 @@ Spirits provide you with supernatural insights. You can conduct an hour-long rit
 
 You now have the ability to nudge the spirits of Tales from Beyond toward certain tales. Whenever you roll on the Spirit Tales table, you can roll the die twice and choose which of the two effects to bestow. If you roll the same number on both dice, you can ignore the number and choose any effect on the table.
 
-###### :material-book-arrow-up: Updated by *Spaghetti0* 
+:material-book-arrow-up: Updated by *Spaghetti0* 
+{ .author }
 

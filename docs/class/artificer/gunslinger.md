@@ -45,16 +45,13 @@ Your groundbreaking research has led to the development of your signature Arcane
 
 **Upgrades**{ .inl } Upon creation, your Arcane Firearm gains two Upgrades of your choice from the list of Upgrades at the end of this subclass.
 
-Your Arcane Firearm has the following traits:
+##### Arcane Firearm
 
-**Weapon Category:** Simple Ranged
-{ .idnt .shrink-bottom }
-
-**Damage on a Hit:** **1d10 :dmg-force: Force**{ .dmg-force } plus ability modifier used in the attack roll
-{ .idnt .shrink-bottom }
-
-**Properties:** :weapon-prop-reload: Reload (6), :weapon-prop-range: Ranged (80/320) 
-{ .idnt } 
+| Trait | Description |
+|---|---|
+| **Weapon Category** | Simple Ranged | 
+| **Damage on a Hit** | **1d10 :dmg-force: Force**{ .dmg-force } + ability modifier used in the attack roll |
+| **Properties** | :weapon-prop-reload: Reload (6), :weapon-prop-range: Ranged (80/320) |
 
 At certain Artificer levels, your Arcane Firearm gains more Upgrades: at level 5 (3), 10 (4), and 15 (5)
 
@@ -66,13 +63,13 @@ Moreover, if you use your action to cast a spell, you can make one Arcane Firear
 
 ### Level 9: Overcharge
 
-You can imbue your Arcane Firearm's attacks with additional explosive magic. Once per turn when you hit a target with an attack from your Arcane Firearm, you can expend a spell slot to cause that attack to deal bonus Force damage to the target.
+You can imbue your Arcane Firearm's attacks with additional explosive magic. Once per turn when you hit a target with an attack from your Arcane Firearm, you can expend a spell slot to cause that attack to deal bonus **:dmg-force: Force**{ .dmg-force } damage to the target.
 
 This bonus damage is 2d6 for a level 1 spell slot and it increases by 1d6 for each spell slot level above 1.
 
 ### Level 9: Quickdraw
 
-You always seem to shoot first. You can add your Intelligence modifier (minimum of +1) to your **:d20-inv: Initiative**{.d20 } rolls. Also, if you roll **:d20-inv: Initiative**{.d20 } and don't have the Surprised or the Incapacitated conditon, you can use a **:rsc-r: Reaction**{ .rsc } to make one attack with your Arcane Firearm.
+You always seem to shoot first. You can add your Intelligence modifier (minimum of +1) to your **:d20-inv: Initiative**{.d20 } rolls. Also, if you roll **:d20-inv: Initiative**{.d20 } and don't have the ^^Surprised^^ or the ^^Incapacitated^^ conditon, you can use a **:rsc-r: Reaction**{ .rsc } to make one attack with your Arcane Firearm.
 
 ### Level 15: Master Gunslinger
 
@@ -89,6 +86,8 @@ Below are the Upgrades available to Gunslinger Artificers. If one of your Upgrad
 When one of your Upgrades requires a creature to make a saving throw, it makes its save against your Spell save DC.
 
 === "Level 3+ Artificer"
+
+    ---
 
     #### Close Shot
 
@@ -110,7 +109,7 @@ When one of your Upgrades requires a creature to make a saving throw, it makes i
 
     _**Prerequisite:** Level 3+ Artificer_
 
-    As a **:rsc-b: Bonus Action**{ .rsc }, you can touch your Arcane Firearm and expend a level 1+ spell slot and choose either :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-lgtn: Lighting, or :dmg-thun: Thunder. For the next minute, your Arcane Firearm deals additional damage of that type on hit.
+    As a **:rsc-b: Bonus Action**{ .rsc }, you can touch your Arcane Firearm and expend a level 1+ spell slot and choose either **:dmg-acid: Acid**{ .dmg-acid }, **:dmg-cold: Cold**{ .dmg-cold }, **:dmg-fire: Fire**{ .dmg-fire }, **:dmg-lgtn: Lighting**{ .dmg-lgtn }, or **:dmg-thun: Thunder**{ .dmg-thun }. For the next minute, your Arcane Firearm deals additional damage of that type on hit.
 
     The elemental damage is 1d4 for a level 1 spell slot, plus an additional 1d4 for each spell slot above level 1.
 
@@ -128,7 +127,7 @@ When one of your Upgrades requires a creature to make a saving throw, it makes i
 
     _**Prerequisite:** Level 3+ Artificer_
 
-    You increase the firepower of the Arcane Firearm. Its range increases to (100/400), its damage die increases from 1d10 to 2d6, and it gains the :weapon-prop-heavy: Heavy and :weapon-prop-two-handed: Two-handed properties.
+    You increase the firepower of the Arcane Firearm. Its range increases to (100/400), its damage die increases from 1d10 to 2d6, and it gains the **:weapon-prop-heavy: Heavy** and **:weapon-prop-two-handed: Two-handed** properties.
 
     ---
 
@@ -142,11 +141,13 @@ When one of your Upgrades requires a creature to make a saving throw, it makes i
 
 === "Level 5+ Artificer"
 
+    ---
+
     #### Blinding Rounds
 
     _**Prerequisite:** Level 5+ Artificer_
 
-    Once per turn when you hit a target with an Arcane Firearm attack, you can force it to make a Constitution saving throw. On a failure, it has the Blinded condition until the start of your next turn.
+    Once per turn when you hit a target with an Arcane Firearm attack, you can force it to make a **:d20-save: Constitution saving throw**{ .d20 }. On a failure, it has the Blinded condition until the start of your next turn.
 
     ---
 
@@ -154,7 +155,7 @@ When one of your Upgrades requires a creature to make a saving throw, it makes i
 
     _**Prerequisite:** Level 5+ Artificer_
 
-    Once per turn when you hit a target with an Arcane Firearm attack, you can force it to make a Constitution saving throw. On a failure, the target cannot take reactions, and its Speed is halved until the beginning of your next turn.
+    Once per turn when you hit a target with an Arcane Firearm attack, you can force it to make a **:d20-save: Constitution saving throw**{ .d20 }. On a failure, the target cannot take reactions, and its Speed is halved until the beginning of your next turn.
 
     ---
 
@@ -162,29 +163,33 @@ When one of your Upgrades requires a creature to make a saving throw, it makes i
 
     _**Prerequisite:** Level 5+ Artificer_
 
-    Once per turn when you hit a target with an Arcane Firearm attack, you can force all creatures within 5 feet of it to make a Dexterity saving throw. On a failed save, they take damage as if they had also been hit by your Arcane Firearm attack.
+    Once per turn when you hit a target with an Arcane Firearm attack, you can force all creatures within 5 feet of it to make a **:d20-save: Dexterity saving throw**{ .d20 }. On a failed save, they take damage as if they had also been hit by your Arcane Firearm attack.
 
     ---
 
 === "Level 9+ Artificer"
 
+    ---
+
     #### Incapacitating Rounds
 
     _**Prerequisite:** Level 9+ Artificer_
 
-    Once per turn when you hit a target with an Arcane Firearm attack, you can force it to make a Strength saving throw. On a failed save, it has the Incapacitated condition until the start of your next turn, or until it takes damage or is forced to make a saving throw.
+    Once per turn when you hit a target with an Arcane Firearm attack, you can force it to make a **:d20-save: Strength saving throw**{ .d20 }. On a failed save, it has the Incapacitated condition until the start of your next turn, or until it takes damage or is forced to make a saving throw.
 
-    Large and larger creatures have **:d20-adv: Advantage**{ .d20 } on the Strength saving throw to resist the effects of this Upgrade.
+    Large and larger creatures have **:d20-adv: Advantage**{ .d20 } on the **:d20-save: Strength saving throw**{ .d20 } to resist the effects of this Upgrade.
 
     ---
 
 === "Level 15+ Artificer"
 
+    ---
+
     #### Arcane Railgun
 
     _**Prerequisite:** Level 15+ Artificer_
 
-    Once on your turn in place of making an Arcane Firearm attack, you can force creatures in a 60-foot line originating from your Arcane Firearm to make a Dexterity saving throw. Targets take 4d6 :dmg-force: Force damage on a failed save, and half as much on a successful save.
+    Once on your turn in place of making an Arcane Firearm attack, you can force creatures in a **60-foot :aoe-line: Line** originating from your Arcane Firearm to make a **:d20-save: Dexterity saving throw**{ .d20 }. Targets take **4d6 :dmg-force: Force**{ .dmg-force } damage on a failed save, and half as much on a successful save.
 
     ---
 

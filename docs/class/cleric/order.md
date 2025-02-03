@@ -50,4 +50,5 @@ Enemies you designate for destruction wilt under the combined efforts of you and
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 
-###### :material-book-arrow-up: Updated by *Spaghetti0* 
+:material-book-arrow-up: Updated by *Spaghetti0* 
+{ .author }

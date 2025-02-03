@@ -25,7 +25,7 @@ Mechanically, your background contains six plus one aspects detailed as follow, 
 | :material-cards-diamond: ***Feat*** | Gain an [Origin Feat]. This feat represents a talent your character developed or had during their background. |
 | :material-account-star: **Skill Prof**  | Gain ^^Proficiency in 2 skills^^ of your choice |
 | :material-tools: **Tool Prof**  | Gain ^^Proficiency with 1 tool^^. This can be a: <br>- **Specific tool** ([:material-guitar-acoustic: Musical Instrument], or [:material-google-nearby: other tools]), or <br>- One from the [:material-wrench: Artisan's Tools] category.|
-| :trait-language: ***Languages*** | Your character knows ^^3 languages^^: **Common** plus two additional languages chosen or rolled from the [Standard Languages] table. |
+| :trt-language: ***Languages*** | Your character knows ^^3 languages^^: **Common** plus two additional languages chosen or rolled from the [Standard Languages] table. |
 | :weapon-spear: ***Equipment*** | Start with either an [Equipment Package] or **500 SP** to spend on equipment of your choice (e.g., weapons, tools, clothing, etc.). |
 | :material-transit-connection-variant: ***Affiliation*** ^*CM*^ | You have ^^5 points^^ to distribute between 4 **Affiliations**: **Academe, Bohemia, Establishment, Villainy**. Affiliation connects your character's **past** to their **present**. |
 

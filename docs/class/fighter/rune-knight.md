@@ -92,4 +92,5 @@ You learn how to amplify your rune-powered transformation.
 
 --8<-- "includes/snippets/skills.md"
 
-###### :material-book-arrow-up: Updated by *Spaghetti0* and *PerfectlyCircularSeal*
+:material-book-arrow-up: Updated by *Spaghetti0* and *PerfectlyCircularSeal*
+{ .author }

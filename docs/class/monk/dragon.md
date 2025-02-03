@@ -59,4 +59,5 @@ Your draconic spirit reaches its peak. You gain the following benefits:
 
 **Explosive Fury**{ .inl } When you activate your Aspect of the Wyrm, draconic fury explodes from you. Choose any number of creatures you can see in your Emanation. Each of those creatures must succeed on a Dexterity save against your Focus save DC or take **3d10** **:dmg-acid: Acid**{ .dmg-acid }, **:dmg-cold: Cold**{ .dmg-cold }, **:dmg-fire: Fire**{ .dmg-fire }, **:dmg-lgtn: Lightning**{ .dmg-lgtn }, or **:dmg-posn: Poison**{ .dmg-posn } damage (your choice).
 
-###### :material-book-arrow-up: Updated by *PerfectlyCircularSeal*
+:material-book-arrow-up: Updated by *PerfectlyCircularSeal*
+{ .author }

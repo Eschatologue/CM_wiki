@@ -20,13 +20,13 @@ With this unique discipline, they channel their spells through their weapons, fu
 
 !!! info "Core Magus Trait"
 
-    **Primary Ability:** :ability-str: Strength or :ability-dex: Dexterity, and :ability-int: Intelligence  
+    **Primary Ability:** :abl-str: Strength or :abl-dex: Dexterity, and :abl-int: Intelligence  
 
     **Hit Point Die:** D8 per Magus level  
-    **HP at Level 1:** 8 + :ability-cons: Con. modifier.  
-    **HP per Magus Level:** 5 + :ability-cons: Con. modifier  
+    **HP at Level 1:** 8 + :abl-cons: Con. modifier.  
+    **HP per Magus Level:** 5 + :abl-cons: Con. modifier  
 
-    **Saving Throw Proficiencies:** :ability-cons: Constitution and :ability-int: Intelligence  
+    **Saving Throw Proficiencies:** :abl-cons: Constitution and :abl-int: Intelligence  
 
     **Skill Proficiencies:** Choose 2: Acrobatics, Arcana, Athletics, History, Investigation, Nature, or Performance.  
 
@@ -131,7 +131,7 @@ Whenever you finish a **:rest-long: Long Rest**, you can replace one spell on yo
 
 #### Spellcasting Ability
 
-:ability-int: **Intelligence** is your spellcasting ability for your Magus spells.
+:abl-int: **Intelligence** is your spellcasting ability for your Magus spells.
 
 #### Spellcasting Focus
 
@@ -170,7 +170,7 @@ You gain a Magus subclass of your choice. A subclass is a specialization that gr
 
 ### Level 4: Ability Score Improvement
 
-You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Magus level 8, 12, and 16.
+You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#abl-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Magus level 8, 12, and 16.
 
 ### Level 5: Extra Attack
 
@@ -229,4 +229,5 @@ You gain an [:option-feat-boon: Epic Boon](../../option/feat/feat-boon.md) feat 
 
 --8<-- "includes/snippets/skills.md"
 
-###### :material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*
+:material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*
+{ .author }

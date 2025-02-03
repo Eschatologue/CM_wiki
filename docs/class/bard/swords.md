@@ -59,4 +59,5 @@ You can choose any weapon with a Mastery property that you're using and replace 
 
 Whenever you use a Blade Flourish option, you can roll a d6 and use it instead of expending a Bardic Inspiration die.
 
-###### :material-book-arrow-up: Updated by *Spaghetti0* 
+:material-book-arrow-up: Updated by *Spaghetti0* 
+{ .author }

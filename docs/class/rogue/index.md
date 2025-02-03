@@ -23,13 +23,13 @@ Some Rogues began their careers as criminals, while others used their cunning to
 
 !!! info "Core Rogue Traits"
 
-    **Primary Ability:** :ability-dex: Dexterity  
+    **Primary Ability:** :abl-dex: Dexterity  
 
     **Hit Point Die:** D8 per Rogue level  
-    **HP at Level 1:** 8 + :ability-cons: Con. modifier.  
-    **HP per Cleric Level:** 5 + :ability-cons: Con. modifier  
+    **HP at Level 1:** 8 + :abl-cons: Con. modifier.  
+    **HP per Cleric Level:** 5 + :abl-cons: Con. modifier  
 
-    **Saving Throw Proficiencies:** :ability-dex: Dexterity and :ability-int: Intelligence  
+    **Saving Throw Proficiencies:** :abl-dex: Dexterity and :abl-int: Intelligence  
 
     **Skill Proficiencies:** Choose 4: Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Persuasion, Sleight of Hand, or Stealth  
 
@@ -130,7 +130,7 @@ As a **:rsc-b: Bonus Action**{ .rsc }, you give yourself **:d20-adv: Advantage**
 
 ### Level 4: Ability Score Improvement
 
-You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Rogue levels 8, 10, 12, and 16.
+You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#abl-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Rogue levels 8, 10, 12, and 16.
 
 ### Level 5: Cunning Strike
 

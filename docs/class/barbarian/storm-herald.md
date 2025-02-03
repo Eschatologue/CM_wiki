@@ -23,7 +23,7 @@ While your **:class-abl-rage: Rage**{ .em } is active, a storm whips around you 
 
 **Sea**{ .inl } You choose one other creature you can see within the Emanation. It must make a Dexterity save. On a failure, it takes :dmg-lgtn: Lightning damage equal to 1d6 plus your Strength modifier and half as much on a successful save. This damage increases by 1d6 at level 10, level 15, and at level 20.
 
-**Tundra**{ .inl } Each creature of your choice within the Emanation gains Temporary Hit Points equal to 1d4 plus your **:class-abl-rage: Rage**{ .em } Damage bonus, which last until your **:class-abl-rage: Rage**{ .em } ends.
+**Tundra**{ .inl } Each creature of your choice within the Emanation gains **:trt-thp: Temporary Hit Points** equal to 1d4 plus your **:class-abl-rage: Rage**{ .em } Damage bonus, which last until your **:class-abl-rage: Rage**{ .em } ends.
 
 ### Level 6: Storm Soul
 
@@ -49,4 +49,5 @@ The power of your Storm Aura grows mightier, lashing out at your foes.
 
 **Tundra**{ .inl } Whenever you activate the effect of your Storm Aura, you choose one creature you can see within the Emanation. That creature must succeed on a Strength save, or has its Speed reduced to 0 until the start of your next turn.
 
-###### :material-book-arrow-up: Updated by *PerfectlyCircularSeal* 
+:material-book-arrow-up: Updated by *PerfectlyCircularSeal* 
+{ .author }

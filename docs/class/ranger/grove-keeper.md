@@ -53,7 +53,7 @@ You gian the following benefits:
 
 ### Level 11: Rooted Defense
 
-When you or a creature you can see within 30 feet is hit by an attack, you can use your **:rsc-r: Reaction**{ .rsc } to cover that creature in hard barks & thorns. The target gains Temporary Hit Points equal to half your Ranger level, and the triggering damage is allocated to the Temporary Hit Point instead.
+When you or a creature you can see within 30 feet is hit by an attack, you can use your **:rsc-r: Reaction**{ .rsc } to cover that creature in hard barks & thorns. The target gains **:trt-thp: Temporary Hit Points** equal to half your Ranger level, and the triggering damage is allocated to the Temporary Hit Point instead.
 
 ### Level 15: Consecrated Grounds
 
@@ -69,4 +69,5 @@ Once you use this feature, you can't use it again until you finish a **:rest-lon
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 
-###### :material-book-edit: Written by *Drowny*
+:material-book-edit: Written by *Drowny*
+{ .author }

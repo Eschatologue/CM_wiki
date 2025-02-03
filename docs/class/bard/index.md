@@ -24,13 +24,13 @@ Not every singer or poet in a tavern or jester in a royal court is a Bard. Harne
 
 !!! info "Core Bard Trait"
 
-    **Primary Ability:** :ability-cha: Charisma  
+    **Primary Ability:** :abl-cha: Charisma  
 
     **Hit Point Die:** D8 per Bard level  
-    **HP at Level 1:** 8 + :ability-cons: Con. modifier.  
-    **HP per Bard Level:** 5 + :ability-cons: Con. modifier  
+    **HP at Level 1:** 8 + :abl-cons: Con. modifier.  
+    **HP per Bard Level:** 5 + :abl-cons: Con. modifier  
 
-    **Saving Throw Proficiencies:** :ability-dex: Dexterity and :ability-cha: Charisma  
+    **Saving Throw Proficiencies:** :abl-dex: Dexterity and :abl-cha: Charisma  
 
     **Skill Proficiencies:** Choose any 3 [skills](../../gameplay/phb/proficiency.md#skill-list)  
 
@@ -138,7 +138,7 @@ Whenever you gain a Bard level, you can replace one spell on your list with anot
 
 #### Spellcasting Ability
 
-:ability-cha: **Charisma** is your spellcasting ability for your Bard spells.
+:abl-cha: **Charisma** is your spellcasting ability for your Bard spells.
 
 #### Spellcasting Focus
 
@@ -168,7 +168,7 @@ You gain a Bard subclass of your choice. A subclass is a specialization that gra
 
 ### Level 4: Ability Score Improvement
 
-You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Bard levels 8, 12, and 16.
+You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#abl-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Bard levels 8, 12, and 16.
 
 ### Level 5: Font of Inspiration
 

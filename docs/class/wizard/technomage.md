@@ -37,9 +37,9 @@ You craft a mechanical drone, a construct powered by your ingenuity and skill. T
 
 The drone is friendly to you and your companions. It vanishes if it is destroyed or when you die.
 
-**The Drone in Combat**{ .inl } The drone acts during your turn. It can move and use its Reaction independently, but the only action it takes is the Dodge action unless you take a **:rsc-b: Bonus Action**{ .rsc } to command it to take an action from its stat block or another action. If you have the Incapacitated condition, the drone acts on its own and its't limited to the Dodge action.
+**The Drone in Combat**{ .inl } The drone acts during your turn. It can move and use its **:rsc-r: Reaction**{ .rsc } independently, but the only action it takes is the **:rsc-a: Dodge**{ .rsc } action unless you take a **:rsc-b: Bonus Action**{ .rsc } to command it to take an action from its stat block or another action. If you have the ^^Incapacitated^^ condition, the drone acts on its own and its't limited to the **:rsc-a: Dodge**{ .rsc } action.
 
-**Restoring or Replacing the Drone**{ .inl } If the drone has been destroyed within the last hour, you can use an action to repair it, expending a level 1+ spell slot. The drone returns to life with all its Hit Points restored after 1 minute.
+**Restoring or Replacing the Drone**{ .inl } If the drone has been destroyed within the last hour, you can use an action to repair it, expending a level 1+ spell slot. The drone returns to life with all its **:trt-hp: Hit Points** restored after 1 minute.
 
 At the end of a **:rest-long: Long Rest**, you can construct a new drone, which appears in an unoccupied space within 5 feet of you. If you already have a drone from this feature, the old one is dismantled when the new one is created.
 
@@ -83,13 +83,26 @@ You can use any of the following options, expending one use of this feature per 
 
     **AC** 13 + Int. Modifier  
     **HP** 5 + 4x your Wizard level  
-    **Speed** 20 ft., Fly 60 ft.  
+    **Speed** 20 ft., Fly 60 ft. 
+    
+    <div class="grid" markdown>
 
-    | | | MOD | SAVE | | | MOD | SAVE |
-    |--:|:-:|:-:|:-:|--:|:-:|:-:|:-:|
-    | **Str** | 4 | -3 | -3 | **Int** | 15 | +2 | +2 |
-    | **Dex** | 15 | +2 | +2 | **Wis** | 10 | +0 | +0 |
-    | **Con** | 10 | +0 | +0 | **Cha** | 8 | -1 | -1 |
+    | | | MOD | SAVE |
+    |--:|:-:|:-:|:-:|
+    | **Str** | 4 | -3 | -3 |
+    | **Dex** | 15 | +2 | +2 |
+
+    | | | MOD | SAVE |
+    |--:|:-:|:-:|:-:|
+    | **Con** | 10 | +0 | +0 | 
+    | **Int** | 15 | +2 | +2 |
+
+    | | | MOD | SAVE |
+    |--:|:-:|:-:|:-:|
+    | **Wis** | 10 | +0 | +0 |
+    | **Cha** | 8 | -1 | -1 |
+
+    </div>
 
     **Senses** Darkvision 60 ft., Passive Perception 12  
     **Immunities** :dmg-posn: Poison, :dmg-psyc: Psychic; Charmed, Frightened, Exhaustion, Poisoned  
@@ -106,4 +119,5 @@ You can use any of the following options, expending one use of this feature per 
 
     **Piercing Shot**{ .inl } *Ranged Weapon Attack:* Bonus equals your spell attack modifier, range 60 ft., one target you can see. *Hit:* 1d6 plus Int. mod :dmg-prcg: Piercing damage.  
 
-###### :material-book-edit: Written by *Eschatologue*
+:material-book-edit: Written by *Eschatologue*
+{ .author }

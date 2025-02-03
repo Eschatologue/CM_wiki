@@ -1,5 +1,5 @@
 ---
-icon: ability/str
+icon: abl/str
 ---
 
 Strength is an Ability Score and the primary ability of Barbarian, Fighter, Paladin.

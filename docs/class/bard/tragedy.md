@@ -59,4 +59,5 @@ As an :rsc-a: Action, you can touch a willing creature and empower it with tragi
 
 When this effect ends, the creature immediately drops to 0 hit points and has the Unconcious condition. Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**.
 
-###### :material-book: Source from *Tal'Dorei Campaign Setting Reborn* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*
+:material-book: Source from *Tal'Dorei Campaign Setting Reborn* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*
+{ .author }

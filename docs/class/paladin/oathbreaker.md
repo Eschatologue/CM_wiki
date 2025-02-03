@@ -56,4 +56,5 @@ Your connection to the unholy grants you a shroud of gloom. As a **:rsc-b: Bonus
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 
-###### :material-book-arrow-up: Updated by *Shades the Mothman*
+:material-book-arrow-up: Updated by *Shades the Mothman*
+{ .author }

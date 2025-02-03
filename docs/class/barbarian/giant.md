@@ -56,4 +56,5 @@ The primordial power of your rage intensifies.
 --8<-- "includes/snippets/spells2/lv0.md"
 --8<-- "includes/snippets/item-property.md"
 
-###### :material-book-arrow-up: Updated by *PerfectlyCircularSeal* 
+:material-book-arrow-up: Updated by *PerfectlyCircularSeal* 
+{ .author }

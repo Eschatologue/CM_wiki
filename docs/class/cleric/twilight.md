@@ -38,7 +38,7 @@ You have Darkvision with a range of 120 feet and as a **:rsc-a: Magic**{ .rsc } 
 
 You can use your **:ui-chdiv-cleric: Channel Divinity**{ .em } to refresh your allies with soothing twilight. As a **:rsc-b: Bonus Action**{ .rsc }, you present your holy symbol, and a 30-foot Emanation of dim light appears around you. It lasts for 1 minute or until you are incapacitated or die. When you activate this feature, and as a **:rsc-b: Bonus Action**{ .rsc } while it is active, you can grant one the following benefits to one creature within the Emanation of your choice:
 
-**Fortitude**{ .inl } It gains Temporary Hit Points equal to 1d6 plus your Cleric level.
+**Fortitude**{ .inl } It gains **:trt-thp: Temporary Hit Points** equal to 1d6 plus your Cleric level.
 
 **Relief**{ .inl } You end the Charmed or Frightened condition on it.
 
@@ -58,4 +58,5 @@ While you and any creature of your choice is within your Twilight Sanctuary Eman
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 
-###### :material-book-arrow-up: Updated by *PerfectlyCircularSeal* 
+:material-book-arrow-up: Updated by *PerfectlyCircularSeal* 
+{ .author }

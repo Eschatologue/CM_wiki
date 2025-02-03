@@ -54,4 +54,5 @@ Your blessed affinity with fire and metal becomes more powerful. You have :dmg-i
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 
-###### :material-book-arrow-up: Updated by *PerfectlyCircularSeal* 
+:material-book-arrow-up: Updated by *PerfectlyCircularSeal* 
+{ .author }

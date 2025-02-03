@@ -21,13 +21,13 @@ Not every member of a temple or shrine is a Cleric. Some priests are called to a
 
 !!! info "Core Cleric Traits"
 
-    **Primary Ability:** :ability-wis: Wisdom  
+    **Primary Ability:** :abl-wis: Wisdom  
 
     **Hit Point Die:** D8 per Cleric level  
-    **HP at Level 1:** 8 + :ability-cons: Con. modifier.  
-    **HP per Cleric Level:** 5 + :ability-cons: Con. modifier  
+    **HP at Level 1:** 8 + :abl-cons: Con. modifier.  
+    **HP per Cleric Level:** 5 + :abl-cons: Con. modifier  
 
-    **Saving Throw Proficiencies:** :ability-wis: Wisdom and :ability-cha: Charisma  
+    **Saving Throw Proficiencies:** :abl-wis: Wisdom and :abl-cha: Charisma  
 
     **Skill Proficiencies:** Choose 2: History, Insight, Medicine, Persuasion, or Religion  
 
@@ -125,7 +125,7 @@ Whenever you finish a **:rest-long: Long Rest**, you can change your list of pre
 
 #### Spellcasting Ability
 
-:ability-wis: **Wisdom** is your Spellcasting Ability for your Cleric spells.
+:abl-wis: **Wisdom** is your Spellcasting Ability for your Cleric spells.
 
 #### Spellcasting Focus
 
@@ -155,7 +155,7 @@ You gain a Cleric subclass of your choice. A subclass is a specialization that g
 
 ### Level 4: Ability Score Improvement
 
-You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Cleric levels 8, 12, and 16.
+You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#abl-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Cleric levels 8, 12, and 16.
 
 ### Level 5: Sear Undead
 
@@ -185,7 +185,7 @@ The option you chose for Blessed Strikes grows more powerful.
 
 **Divine Strike**{ .inl } The extra damage of your Divine Strike increases to 2d8.
 
-**Potent Spellcasting**{ .inl } When you cast a Cleric cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of **:dmg-temp: Temporary Hit Points**{ .dmg-heal } equal to twice your Wisdom modifier.
+**Potent Spellcasting**{ .inl } When you cast a Cleric cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of **:trt-thp: Temporary Hit Points** equal to twice your Wisdom modifier.
 
 ### Level 19: Epic Boon
 

@@ -80,4 +80,5 @@ Once you use one of these benefits, you can't use that benefit again until you f
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 
-###### :material-book-arrow-up: Updated by *Spaghetti0*
+:material-book-arrow-up: Updated by *Spaghetti0*
+{ .author }

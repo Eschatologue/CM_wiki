@@ -25,13 +25,13 @@ Adventuring Paladins take their work seriously. A delve into an ancient ruin or 
 
 !!! info "Core Paladin Traits"
 
-    **Primary Ability:** :ability-str: Strength & :ability-cha: Charisma  
+    **Primary Ability:** :abl-str: Strength & :abl-cha: Charisma  
 
     **Hit Point Die:** D10 per Paladin level  
-    **HP at Level 1:** 10 + :ability-cons: Con. modifier.  
-    **HP per Paladin Level:** 6 + :ability-cons: Con. modifier  
+    **HP at Level 1:** 10 + :abl-cons: Con. modifier.  
+    **HP per Paladin Level:** 6 + :abl-cons: Con. modifier  
 
-    **Saving Throw Proficiencies:** :ability-wis: Wisdom and :ability-cha: Charisma  
+    **Saving Throw Proficiencies:** :abl-wis: Wisdom and :abl-cha: Charisma  
 
     **Skill Proficiencies:** Choose 2: Athletics, Insight, Intimidation, Medicine, Persuasion, or Religion  
 
@@ -117,7 +117,7 @@ Whenever you finish a **:rest-long: Long Rest**, you can replace one spell on yo
 
 #### Spellcasting Ability
 
-:ability-cha: **Charisma** is your spellcasting ability for your Paladin spells.
+:abl-cha: **Charisma** is your spellcasting ability for your Paladin spells.
 
 #### Spellcasting Focus
 
@@ -177,7 +177,7 @@ You gain a Paladin subclass of your choice. A subclass is a specialization that 
 
 ### Level 4: Ability Score Improvement
 
-You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16.
+You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#abl-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16.
 
 ### Level 5: Extra Attack
 

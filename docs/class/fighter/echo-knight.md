@@ -17,7 +17,7 @@ The Echo Knight is a feared frontline fighter who has mastered a rare derivative
 
 You can use a **:rsc-b: Bonus Action**{ .rsc } to magically manifest an echo of yourself in an unoccupied space you can see within 15 feet of you. It is a magical, translucent, gray image of you that lasts until it is destroyed, until you dismiss it (no action required), until you manifest another echo, or until you have the Incapacitated condition.
 
-Your echo is considered an **Object**, but uses your game statistics, except it has :material-heart: **HP** of 1 and an :material-shield: **AC** of 12 plus your :ability-cons: Constitution modifier.
+Your echo is considered an **Object**, but uses your game statistics, except it has :material-heart: **HP** of 1 and an :material-shield: **AC** of 12 plus your :abl-cons: Constitution modifier.
 
 On your turn, you can mentally command the echo to move in any direction. If your echo is ever more than 30 feet from you at the end of your turn, it is destroyed. As a **:rsc-b: Bonus Action**{ .rsc }, magically swap places with your echo at a cost of 15 feet of your movement, regardless of the distance between the two of you.
 
@@ -42,7 +42,7 @@ You can make your echo throw itself in front of an attack directed at another cr
 
 ### Level 15: Reclaim Potential
 
-You've learned to absorb the fleeting magic of your echo. When an echo of yours is destroyed by taking damage, you can gain a number of Temporary Hit Points equal to 1d8 + your Constitution modifier. You can use this feature a number of times equal to your Constitution modifier (a minimum of 1). You regain all expended uses when you finish a **:rest-long: Long Rest**.
+You've learned to absorb the fleeting magic of your echo. When an echo of yours is destroyed by taking damage, you can gain a number of **:trt-thp: Temporary Hit Points** equal to 1d8 + your Constitution modifier. You can use this feature a number of times equal to your Constitution modifier (a minimum of 1). You regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 ### Level 18: Legion of One
 
@@ -52,4 +52,5 @@ Your summoning powers have grown more potent.
 
 **Double Up**{ .inl } You can use a **:rsc-b: Bonus Action**{ .rsc } to create two echos with your Manifest Echo feature, and these echoes can co-exist. If you try to create a third echo, the previous two echoes are destroyed. Anything you can do from one echo's position can be done from the other's instead.
 
-###### :material-book-arrow-up: Updated by *PerfectlyCircularSeal* 
+:material-book-arrow-up: Updated by *PerfectlyCircularSeal* 
+{ .author }

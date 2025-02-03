@@ -39,7 +39,7 @@ When you activate your **:class-abl-rage: Rage**{ .em }, you can choose one of t
 
 **Restoration**{ .inl } You regain one of your expended Superiority Dice.
   
-**Temporary Hit Points**{ .inl } You gain a number of Temporary Hit Points equal to one roll of your Superiority Die.
+**Temporary Hit Points**{ .inl } You gain a number of **:trt-thp: Temporary Hit Points** equal to one roll of your Superiority Die.
  
 **Improved Speed**{ .inl } Opportunity Attack against you have **:d20-dis: Disadvantage**{ .d20 } and your **:rsc-spd: Speed**{ .em } is doubled for your current turn.
 
@@ -61,4 +61,5 @@ You gain one additional Superiority Die (Five total) and all your Superiority Di
 
 [Manoeuvre Options]: ../../option/class-options/fighter-manoeuvre/index.md
 
-###### :material-book-edit: Written by *Eschatologue*
+:material-book-edit: Written by *Eschatologue*
+{ .author }

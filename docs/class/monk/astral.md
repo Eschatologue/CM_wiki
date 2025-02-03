@@ -57,4 +57,5 @@ When you activate your Mantle of the Astral Self, you can expend an additional *
 
 
 
-###### :material-book-arrow-up: Updated by *PerfectlyCircularSeal*
+:material-book-arrow-up: Updated by *PerfectlyCircularSeal*
+{ .author }

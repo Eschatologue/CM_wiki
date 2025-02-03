@@ -163,7 +163,7 @@ You can invoke this level 3 Cleric subclass feature once and you must finish a *
 
 _**Prerequisite:** Level 5+ Warlock_
 
-You can cast [:spell-lv3: Fireball] centred on yourself, using a Warlock spell slot. When you do, you gain Temporary Hit Points equal to the damage you take from the spell. If you use this invocation again while you still have Temporary Hit Points from it, any damage from the spell is instead applied to your actual Hit Points.
+You can cast [:spell-lv3: Fireball] centred on yourself, using a Warlock spell slot. When you do, you gain **:trt-thp: Temporary Hit Points** equal to the damage you take from the spell. If you use this invocation again while you still have **:trt-thp: Temporary Hit Points** from it, any damage from the spell is instead applied to your actual Hit Points.
 
 ---
 

@@ -76,7 +76,7 @@ Whenever you gain a level in this class, you can replace one of the spells you k
 
 #### Spellcasting Ability
 
-:ability-cha: **Charisma** is your spellcasting ability for your Cleric spells.
+:abl-cha: **Charisma** is your spellcasting ability for your Cleric spells.
 
 #### Spellcasting Focus
 
@@ -102,7 +102,8 @@ You have the [:spell-lv2: Misty Step] spell always prepared. When you cast this 
 
 When you roll **:d20-inv: Initiative**{.d20 } with no uses of your **:ui-chdiv-cleric: Channel Divinity** remaining, you instantly regain one expended use. Moreover, whenever you are Concentrating on a Cleric spell and forced to make a saving throw, you gain a bonus to the saving throw equal to your Charisma modifier (minimum of +1).
 
-###### :material-book-edit: Written by *Eschatologue*
+:material-book-edit: Written by *Eschatologue*
+{ .author }
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 

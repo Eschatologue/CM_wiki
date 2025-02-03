@@ -52,4 +52,5 @@ You can still manifest another Accretion Disk Emanation on yourself as normal. O
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 
-###### :material-book-edit: Written by *Eschatologue*
+:material-book-edit: Written by *Eschatologue*
+{ .author }

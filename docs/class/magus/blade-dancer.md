@@ -80,4 +80,5 @@ Also, when you take the **:rsc-a: Attack**{ .rsc } action while in your [Blade D
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 
-###### :material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*
+:material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*
+{ .author }

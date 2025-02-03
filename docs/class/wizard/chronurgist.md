@@ -58,4 +58,5 @@ You can peer through possible futures and magically pull one of them into events
 
 When you use this feature, you gain one level of Exhaustion. Only by finishing a **:rest-long: Long Rest** can you remove a level of exhaustion gained in this way. 
 
-###### :material-book-arrow-up: Updated by *PerfectlyCircularSeal* :material-book-arrow-up: Modified by *Eschatologue*
+:material-book-arrow-up: Updated by *PerfectlyCircularSeal* :material-book-arrow-up: Modified by *Eschatologue*
+{ .author }

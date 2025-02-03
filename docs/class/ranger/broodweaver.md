@@ -93,4 +93,5 @@ Once you use this feature, you can't use it again until you finish a **:rest-lon
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 
-###### :material-book-edit: Written by *Eschatologue*
+:material-book-edit: Written by *Eschatologue*
+{ .author }

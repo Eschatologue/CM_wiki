@@ -68,4 +68,5 @@ The storm inside of you becomes more powerful.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 
-###### :material-book-arrow-up: Updated by *Spaghetti0* and *PerfectlyCircularSeal*
+:material-book-arrow-up: Updated by *Spaghetti0* and *PerfectlyCircularSeal*
+{ .author }

@@ -87,11 +87,24 @@ Your Arcane Jolt and Steel Defender become more powerful:
     **HP** 2 + your Int. modifier + 5x your Artificer level  
     **Speed** 40 ft.  
 
-    | | | MOD | SAVE | | | MOD | SAVE |
-    |--:|:-:|:-:|:-:|--:|:-:|:-:|:-:|
-    | **Str** | 14 | +2 | +2 | **Int** | 4 | -3 | -3 |
-    | **Dex** | 12 | +1 | +1 + PB | **Wis** | 10 | +0 | +0 |
-    | **Con** | 14 | +2 | +2 + PB | **Cha** | 6 | -2 | -2 |
+    <div class="grid" markdown>
+
+    | | | MOD | SAVE |
+    |--:|:-:|:-:|:-:|
+    | **Str** | 14 | +2 | +2 |
+    | **Dex** | 12 | +1 | +1 + PB |
+
+    | | | MOD | SAVE |
+    |--:|:-:|:-:|:-:|
+    | **Int** | 4 | -3 | -3 |
+    | **Con** | 14 | +2 | +2 + PB |
+
+    | | | MOD | SAVE |
+    |--:|:-:|:-:|:-:|
+    | **Wis** | 10 | +0 | +0 |
+    | **Cha** | 6 | -2 | -2 |
+
+    </div>
 
     **Senses** Darkvision 60 ft., Passive Perception 10 + (PB x 2)  
     **Skills** Athletics +2 plus PB, Perception +0 plus (PB x 2)  

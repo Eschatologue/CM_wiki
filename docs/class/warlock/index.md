@@ -21,13 +21,13 @@ Once a pact is made, a Warlock's thirst for knowledge and power can't be slaked 
 
 !!! info "Core Warlock Trait"
 
-    **Primary Ability:** :ability-cha: Charisma  
+    **Primary Ability:** :abl-cha: Charisma  
 
     **Hit Point Die:** D8 per Warlock level  
-    **HP at Level 1:** 8 + :ability-cons: Con. modifier.  
-    **HP per Warlock Level:** 6 + :ability-cons: Con. modifier  
+    **HP at Level 1:** 8 + :abl-cons: Con. modifier.  
+    **HP per Warlock Level:** 6 + :abl-cons: Con. modifier  
 
-    **Saving Throw Proficiencies:** :ability-wis: Wisdom and :ability-cha: Charisma  
+    **Saving Throw Proficiencies:** :abl-wis: Wisdom and :abl-cha: Charisma  
 
     **Skill Proficiencies:** Choose 2: Arcana, Deception, History, Intimidation, Investigation, Nature, or Religion  
 
@@ -125,7 +125,7 @@ Whenever you gain a Warlock level, you can replace one spell on your list with a
 
 #### Spellcasting Ability
 
-:ability-cha: **Charisma** is the spellcasting ability for your Warlock spells.
+:abl-cha: **Charisma** is the spellcasting ability for your Warlock spells.
 
 #### Spellcasting Focus
 
@@ -141,7 +141,7 @@ You gain a Warlock subclass of your choice. A subclass is a specialization that 
 
 ### Level 4: Ability Score Improvement
 
-You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
+You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#abl-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
 
 ### Level 9: Contact Patron
 

@@ -1,5 +1,5 @@
 ---
-icon: ability/dex
+icon: abl/dex
 ---
 
 # Dexterity
