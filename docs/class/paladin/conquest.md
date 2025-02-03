@@ -35,11 +35,11 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 ### Level 3: Conquering Presence
 
-When you hit a creature, you can use your Channel Divinity to channel a terrifying presence. The target of the triggering attack must succeed on a Wisdom saving throw or have the Frightened condition until the start of your next turn. You can attempt to Frighten a creature again in this way once per turn when you hit a creature with an attack for the next minute.
+When you hit a creature, you can use your **:ui-chdiv-pal: Channel Divinity** to channel a terrifying presence. The target of the triggering attack must succeed on a Wisdom saving throw or have the Frightened condition until the start of your next turn. You can attempt to Frighten a creature again in this way once per turn when you hit a creature with an attack for the next minute.
 
 ### Level 3: Guided Strike
 
-You can use your Channel Divinity to guide attacks with supernatural accuracy. When you or a creature you can see within 30 feet of you misses a target with an attack roll, you can use your Channel Divinity to grant a +10 bonus to the roll, potentially turning the miss into a hit.
+You can use your **:ui-chdiv-pal: Channel Divinity** to guide attacks with supernatural accuracy. When you or a creature you can see within 30 feet of you misses a target with an attack roll, you can use your **:ui-chdiv-pal: Channel Divinity** to grant a +10 bonus to the roll, potentially turning the miss into a hit.
 
 ### Level 7: Aura of Conquest
 

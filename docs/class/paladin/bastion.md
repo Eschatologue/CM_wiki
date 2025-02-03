@@ -23,7 +23,7 @@ These paladins share the following tenets:
 
 ### Level 3: Guardian's Mark
 
-As **:rsc-b: Bonus Action**{ .rsc }, you can expend one use of your Channel Divinity to choose a point or a creature within 60 feet, designating its surrounding as a zone of protection, choose one of the following within 60 feet:
+As **:rsc-b: Bonus Action**{ .rsc }, you can expend one use of your **:ui-chdiv-pal: Channel Divinity** to choose a point or a creature within 60 feet, designating its surrounding as a zone of protection, choose one of the following within 60 feet:
 
 - A fixed point on the ground, or
 - A creature (including yourself), which causes the zone to move with them.

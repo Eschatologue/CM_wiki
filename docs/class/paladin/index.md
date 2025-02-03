@@ -153,13 +153,15 @@ This bonus damage is 2d8 for a level 1 spell slot and it increases by 1d8 for ea
 
 ### Level 3: Channel Divinity
 
-You can channel divine energy directly from the Outer Planes, using that energy to fuel magical effects. You start with one such effect: Divine Sense, which is described below. Other Paladin features give additional Channel Divinity effect options. Each time you use this Channel Divinity, you choose which effect to create from among those you have from this class.
+You can channel divine energy directly from the Outer Planes, using that energy to fuel magical effects. You start with one such effect: **Divine Sense**, which is described below. Other Paladin features give additional **:ui-chdiv-pal: Channel Divinity** effect options. Each time you use this Channel Divinity, you choose which effect to create from among those you have from this class.
 
-You can use Channel Divinity twice. You regain one expended use when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**. You gain additional uses when you reach certain Paladin levels, as shown in the Channel Divinity column of the Paladin table.
+You can use **:ui-chdiv-pal: Channel Divinity** twice. You regain one expended use when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**. You gain additional uses when you reach certain Paladin levels, as shown in the **:ui-chdiv-pal: Channel Divinity** column of the Paladin table.
 
-If a Channel Divinity effect requires a saving throw, the DC equals the Spell Save DC from this class's Spellcasting feature.
+If a **:ui-chdiv-pal: Channel Divinity** effect requires a saving throw, the DC equals the Spell Save DC from this class's Spellcasting feature.
 
-**Divine Sense**{ .inl } As a **:rsc-b: Bonus Action**{ .rsc }, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the Incapacitated condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [:spell-lv5: Hallow] spell.
+#### :ui-chdiv-pal: Divine Sense
+
+As a **:rsc-b: Bonus Action**{ .rsc }, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the Incapacitated condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [:spell-lv5: Hallow] spell.
 
 ### Level 3: Paladin Subclass
 
@@ -197,7 +199,7 @@ If another Paladin is present, a creature can benefit from only one Aura of Prot
 
 ### Level 9: Abjure Foes
 
-As a **:rsc-a: Magic**{ .rsc } action, you can expend one use of this class's Channel Divinity to overwhelm foes with awe. As you present your Holy Symbol or weapon, you can target a number of creatures equal to your Charisma modifier (minimum of one creature) that you can see within 60 feet of yourself. Each target must succeed on a Wisdom saving throw or have the Frightened condition for 1 minute or until it takes any damage. While Frightened in this way, a target can do only one of the following on its turns: move, take an action, or take a  **:rsc-b: Bonus Action**{ .rsc }.
+As a **:rsc-a: Magic**{ .rsc } action, you can expend one use of this class's **:ui-chdiv-pal: Channel Divinity** to overwhelm foes with awe. As you present your Holy Symbol or weapon, you can target a number of creatures equal to your Charisma modifier (minimum of one creature) that you can see within 60 feet of yourself. Each target must succeed on a Wisdom saving throw or have the Frightened condition for 1 minute or until it takes any damage. While Frightened in this way, a target can do only one of the following on its turns: move, take an action, or take a  **:rsc-b: Bonus Action**{ .rsc }.
 
 ### Level 10: Aura of Courage
 

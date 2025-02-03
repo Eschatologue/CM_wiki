@@ -37,7 +37,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 ### Level 3: Watcher’s Will
 
-You invest your presence with the warding power of your faith. As a **:rsc-b: Bonus Action**{ .rsc }, you can expend a use of your Channel Divinity to choose a number of creatures you can see within 30 feet of you, up to a number equal to your Charisma modifier (minimum of one creature). For 1 minute, you and the chosen creatures have **:d20-adv: Advantage**{ .d20 } on Intelligence, Wisdom, and Charisma saving throws.
+You invest your presence with the warding power of your faith. As a **:rsc-b: Bonus Action**{ .rsc }, you can expend a use of your **:ui-chdiv-pal: Channel Divinity** to choose a number of creatures you can see within 30 feet of you, up to a number equal to your Charisma modifier (minimum of one creature). For 1 minute, you and the chosen creatures have **:d20-adv: Advantage**{ .d20 } on Intelligence, Wisdom, and Charisma saving throws.
 
 ### Level 7: Aura of the Sentinel
 

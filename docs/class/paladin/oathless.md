@@ -27,7 +27,7 @@ In most societies, the Oathless are met with distrust or outright hostility. In 
 
 *You fight without honour or respect.*
 
-When you take damage from a source you can see, you can use your Channel Divnity to take a **:rsc-r: Reaction**{ .rsc } to give yourself the Invisible condition, and move up to your Speed. You have the Invisible condition until the start of your next turn, or until you attack or force a creature to make a saving throw. 
+When you take damage from a source you can see, you can use your **:ui-chdiv-pal: Channel Divinity**  to take a **:rsc-r: Reaction**{ .rsc } to give yourself the ^^Invisible^^ condition, and move up to your **:rsc-spd: Speed**. You have the Invisible condition until the start of your next turn, or until you attack or force a creature to make a saving throw. 
 
 ### Level 3: Oathless Spells
 
@@ -53,13 +53,13 @@ Whenever you make an ability check to convince any creature to trust you or to e
                                     
 *You have no qualms securing your safety at the expense of others.*
 
-When you use Illusory Escape, you can force a creature of your choice within your Aura of Protection to make a Charisma saving throw against your Spell Save DC. On a failure, you and the creature instantly switch places, and it takes the triggering damage in your place. You then gain the normal benefits of Illusory Escape starting from the space that you reappear in.
+When you use *Illusory Escape*, you can force a creature of your choice within your *Aura of Protection* to make a Charisma saving throw against your Spell Save DC. On a failure, you and the creature instantly switch places, and it takes the triggering damage in your place. You then gain the normal benefits of Illusory Escape starting from the space that you reappear in.
 
 ### Level 15: Forceful Will
 
 *You use your presence to dominate instead of aiding others.*
   
-When you force a creature within your Aura of Protection to make a saving throw to resist the effects of an Oathless Spell or an Enchanment Spell spell, it has **:d20-dis: Disadvantage**{ .d20 } on its initial saving throw.
+When you force a creature within your *Aura of Protection* to make a saving throw to resist the effects of an Oathless Spell or an Enchanment Spell spell, it has **:d20-dis: Disadvantage**{ .d20 } on its initial saving throw.
 
 ### Level 20: No Honour
 

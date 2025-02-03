@@ -32,7 +32,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
  
 ### Level 3: Vow Of Enmity
 
-When you take the **:rsc-a: Attack**{ .rsc } action, you can expend one use of your Channel Divinity to utter a vow of enmity against a creature you can see within 30 feet of yourself. You gain **:d20-adv: Advantage**{ .d20 } on attack rolls against the creature for 1 minute.
+When you take the **:rsc-a: Attack**{ .rsc } action, you can expend one use of your **:ui-chdiv-pal: Channel Divinity** to utter a vow of enmity against a creature you can see within 30 feet of yourself. You gain **:d20-adv: Advantage**{ .d20 } on attack rolls against the creature for 1 minute.
 
 If the creature drops to 0 Hit Points before the vow ends, you can transfer the vow to a different creature within 30 feet of yourself (no action required).
 

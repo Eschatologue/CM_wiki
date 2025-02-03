@@ -34,7 +34,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 ### Level 3: Corrupting Will
 
-Your blasphemous will can corrupt and conquer the souls of others. As a **:rsc-b: Bonus Action**{ .rsc }, you can expend a use of your Channel Divinity to force a creature you can see within 30 feet of you to make a Wisdom saving throw. On a failed save, the target has the Charmed condition for 1 minute. For the duration, you can take a **:rsc-b: Bonus Action**{ .rsc } to issue one of the following commands to an affected creature.
+Your blasphemous will can corrupt and conquer the souls of others. As a **:rsc-b: Bonus Action**{ .rsc }, you can expend a use of your **:ui-chdiv-pal: Channel Divinity** to force a creature you can see within 30 feet of you to make a Wisdom saving throw. On a failed save, the target has the Charmed condition for 1 minute. For the duration, you can take a **:rsc-b: Bonus Action**{ .rsc } to issue one of the following commands to an affected creature.
 
 **Enforce**{ .inl } You can issue a one word command to the creature as if by the [:spell-lv1: Command] spell.
 

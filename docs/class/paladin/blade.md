@@ -38,7 +38,7 @@ If a Manoeuvre requires a saving throw, the DC equals 8 plus your Strength or De
 
 ### Level 3: Sacred Duel
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can expend one use of your Channel Divinity to begin a Sacred Duel. Choose one creature that you can see within 30 feet, it must succeed a **:d20-save: Wisdom saving throw**{ .d20 } or it is engaged in a Sacred Duel, designating you and the target as Duelists.
+As a **:rsc-b: Bonus Action**{ .rsc }, you can expend one use of your **:ui-chdiv-pal: Channel Divinity** to begin a Sacred Duel. Choose one creature that you can see within 30 feet, it must succeed a **:d20-save: Wisdom saving throw**{ .d20 } or it is engaged in a Sacred Duel, designating you and the target as Duelists.
 
 Duelists are under the following effects:
 
@@ -46,7 +46,7 @@ Duelists are under the following effects:
 
 **Limited Targeting**{ .inl } Duelists has **:d20-dis: Disadvantage**{ .d20 } on attack rolls against other creatures, except for other Duelists.
 
-This Sacred Duel lasts for 1 minute, or until one Duelist have the ^^Unconcious^^ condition. Alternatively, a Duelist can choose to yield, ending the Sacred Duel early (no action required), when they do, it has the ^^Stunned^^ condition until the end of its next turn.
+This *Sacred Duel* lasts for 1 minute, or until one Duelist have the ^^Unconcious^^ condition. Alternatively, a Duelist can choose to yield, ending the *Sacred Duel* early (no action required), when they do, it has the ^^Stunned^^ condition until the end of its next turn.
 
 ### Level 7: Additional Fighting Style
 
