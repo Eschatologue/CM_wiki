@@ -1,13 +1,8 @@
 @use "../utility/convert";
-@import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap");
 
 /*------------------------------------------------------- 
     Basic Typesets
 --------------------------------------------------------*/
-
-// General Typeset Variables
-$headingFont: "Jost", sans-serif; // Font for headings
-$defaultFontSize: convert.px2rem(16px); // Base font size
 
 // Main Typeset Styles
 .md-typeset {
@@ -75,7 +70,7 @@ $defaultFontSize: convert.px2rem(16px); // Base font size
     h2,
     h3,
     h4 {
-        font-family: $headingFont;
+        font-family: var(--heading-font);
         text-transform: uppercase;
     }
 

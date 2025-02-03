@@ -2,13 +2,12 @@
 @use "../base/table";
 @use "../utility/convert";
 
-@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
 
 /*-------------------------------------------------------
     Font Styles
 -------------------------------------------------------*/
 .jost {
-    font-family: "Jost", serif;
+    font-family: var(--heading-font);
 }
 /*-------------------------------------------------------
     Typography

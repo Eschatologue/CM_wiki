@@ -23,9 +23,9 @@ As a **:rsc-a: Magic**{ .rsc } action, you can choose yourself or a willing crea
 
 ### Level 3: Invoke Duplicity
 
-You can use your **:class-abl-chdiv-cleric: Channel Divinity**{ .em } to create an illusory duplicate of yourself.
+You can use your **:ui-chdiv-cleric: Channel Divinity**{ .em } to create an illusory duplicate of yourself.
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can expend one use of your **:class-abl-chdiv-cleric: Channel Divinity**{ .em } to teleport up to 30 feet to an unoccupied space you can see, and you create a perfect visual illusion of yourself in the space you left. The illusion lasts for 1 minute, but it ends early if you have the Incapacitated condition or dismiss it as a  **:rsc-b: Bonus Action**{ .rsc }.
+As a **:rsc-b: Bonus Action**{ .rsc }, you can expend one use of your **:ui-chdiv-cleric: Channel Divinity**{ .em } to teleport up to 30 feet to an unoccupied space you can see, and you create a perfect visual illusion of yourself in the space you left. The illusion lasts for 1 minute, but it ends early if you have the Incapacitated condition or dismiss it as a  **:rsc-b: Bonus Action**{ .rsc }.
 
 While the illusion persists, you gain the following benefits:
 

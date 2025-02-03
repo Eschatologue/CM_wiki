@@ -10,7 +10,7 @@
 .md-sidebar--secondary,
 .md-tabs,
 .md-header {
-    font-family: typeset.$headingFont;
+    font-family: var(--heading-font);
 }
 
 // Main Theme Colour

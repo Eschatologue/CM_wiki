@@ -34,7 +34,7 @@ You can invoke the power of law to embolden an ally to attack. If you cast a spe
 
 ### Level 3: Order's Demand
 
-You can use your **:class-abl-chdiv-cleric: Channel Divinity**{ .em } to exert an intimidating presence over others. As a **:rsc-a: Magic**{ .rsc } action, you present your holy symbol, and each creature of your choice that can see or hear you within 30 feet of you must succeed on a Wisdom saving throw or have the Charmed condition until the end of your next turn or until the charmed creature takes any damage. You can also cause any of the Charmed creatures to drop what they are holding when they fail the saving throw.
+You can use your **:ui-chdiv-cleric: Channel Divinity**{ .em } to exert an intimidating presence over others. As a **:rsc-a: Magic**{ .rsc } action, you present your holy symbol, and each creature of your choice that can see or hear you within 30 feet of you must succeed on a Wisdom saving throw or have the Charmed condition until the end of your next turn or until the charmed creature takes any damage. You can also cause any of the Charmed creatures to drop what they are holding when they fail the saving throw.
 
 ### Level 6: Embodiment of the Law
 

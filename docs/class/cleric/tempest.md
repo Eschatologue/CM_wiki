@@ -36,7 +36,7 @@ You can use this feature a number of times equal to your Wisdom modifier (a mini
 
 ### Level 3: Destructive Wrath
 
-You can use your **:class-abl-chdiv-cleric: Channel Divinity**{ .em } to wield the power of the storm with unchecked ferocity. When you roll :dmg-lgtn: Lightning or :dmg-thun: Thunder damage, you can use your **:class-abl-chdiv-cleric: Channel Divinity**{ .em } to deal maximum damage, instead of rolling.
+You can use your **:ui-chdiv-cleric: Channel Divinity**{ .em } to wield the power of the storm with unchecked ferocity. When you roll :dmg-lgtn: Lightning or :dmg-thun: Thunder damage, you can use your **:ui-chdiv-cleric: Channel Divinity**{ .em } to deal maximum damage, instead of rolling.
 
 ### Level 6: Thunderous Strike
 

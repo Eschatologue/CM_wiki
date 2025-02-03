@@ -34,7 +34,7 @@ When you cast a Cleric spell that deals damage, you can change its damage type t
 
 ### Level 3: Accretion Disk  
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can use your **:class-abl-chdiv-cleric: Channel Divinity**{ .em } to create a **15-foot :aoe-emanation: Emanation** of a swirling ring of light and spinning dust that surrounds you for 1 minute. It ends early if you dismiss it (no action required), manifest it again, or have the Incapacitated condition.  
+As a **:rsc-b: Bonus Action**{ .rsc }, you can use your **:ui-chdiv-cleric: Channel Divinity**{ .em } to create a **15-foot :aoe-emanation: Emanation** of a swirling ring of light and spinning dust that surrounds you for 1 minute. It ends early if you dismiss it (no action required), manifest it again, or have the Incapacitated condition.  
 
 When you manifest the Emanation and as a **:rsc-b: Bonus Action**{ .rsc } on your subsequent turns, you can force all creatures of your choice within this Emanation to make a :d20-save: Constitution saving throw against your Spell Save DC. On a failed save, the creatures take **:dmg-force: Force**{ .dmg-force } damage, and their Speed is halved until the end of their next turn. To determine the damage, roll a number of d4s equal to your Wisdom modifier (minimum of one die).  
 

@@ -17,11 +17,15 @@ Not all servants of the gods work in the light. Justiciars are zealous enforcers
 
 You gain the ability to channel divine energy directly from your god, and can use it to fuel magical effects. You start with two such divine effect, Divine Sense and Shroud of Faith.
 
-You can use Channel Divinity once. You regain one expended use when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**. You gain additional uses when you reach certain Rogue levels, as shown in the Channel Divinity column of the [Justiciar Spellcasting table].
+You can use **:ui-chdiv-cleric: Channel Divinity** *once*. You regain one expended use when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**. You gain additional uses when you reach certain Rogue levels, as shown in the Channel Divinity column of the [Justiciar Spellcasting table].
 
-**Divine Sense**{ .inl } As a **:rsc-b: Bonus Action**{ .rsc }, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the Incapacitated condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [:spell-lv5: Hallow] spell.
+#### :ui-chdiv-cleric: Divine Sense
 
-**Shroud of Faith**{ .inl } As an **:rsc-b: Bonus Action**{ .rsc }, you grip your holy symbol and invoke the protection of your god. You have the ^^Invisible^^ condition for 1 minute. This effect ends early if you attack or cast a spell.
+As a **:rsc-b: Bonus Action**{ .rsc }, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the Incapacitated condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [:spell-lv5: Hallow] spell.
+
+#### :ui-chdiv-cleric: Shroud of Faith
+
+As an **:rsc-b: Bonus Action**{ .rsc }, you grip your holy symbol and invoke the protection of your god. You have the ^^Invisible^^ condition for 1 minute. This effect ends early if you attack or cast a spell.
 
 ### Level 3: Spellcasting
 
@@ -84,19 +88,19 @@ You and your weapons are blessed by the heavens to smite heretics and blasphemer
 
 **Bonus Proficiency**{ .inl } You gain proficiency with the Religion skill. Whenever you would make an Intelligence (Religion) check, you can choose to make a Charisma (Religion) check instead.
 
-**Concecrated Weapons**{ .inl } As part of a **:rest-short: Short** or **:rest-long: Long Rest**, you can perform a ritual and touch a weapon that you are proficient with to Consecrate it. This Consecrated weapon becomes a Holy Symbol and can be used as a spellcasting focus for your Cleric spells. You can also add your Sneak Attack bonus to attacks with it even if it does not have the :weapon-prop-finesse: Finesse property. However, all other rules of for Sneak Attack bonus still apply. You can have only one Consecrated weapon at a time.
+**Concecrated Weapons**{ .inl } As part of a **:rest-short: Short** or **:rest-long: Long Rest**, you can perform a ritual and touch a weapon that you are proficient with to Consecrate it. This Consecrated weapon becomes a **Holy Symbol** and you can also add your Sneak Attack bonus to attacks with it even if it does not have the **:weapon-prop-finesse: Finesse** property. However, all other rules of for Sneak Attack bonus still apply. You can have only one Consecrated weapon at a time.
 
 ### Level 9: Wrathful Strikes
 
-When you hit a creature with an attack that includes Sneak Attack damage, you can expend a level 1+ spell slot to empower your strike with divine judgment. The additional damage from your Sneak Attack becomes :dmg-radi: Radiant or :dmg-necr: Necrotic damage (choose each time), and you can treat any 1 or 2 on the Sneak Attack damage roll as a 3.
+When you hit a creature with an attack that includes Sneak Attack damage, you can expend a level 1+ spell slot to empower your strike with divine judgment. The additional damage from your Sneak Attack becomes **:dmg-radi: Radiant**{ .dmg-radi } or **:dmg-necr: Necrotic**{ .dmg-necr } damage (choose each time), and you can treat any 1 or 2 on the Sneak Attack damage roll as a 3.
 
 ### Level 13: Divine Step
 
-You have the [:spell-lv2: Misty Step] spell always prepared. When you cast this spell, you can make one weapon attack or cast [:spell-lv0: True Strike] with as part of the same action of casting [:spell-lv2: Misty Step]. You have **:d20-adv: Advantage**{ .d20 } on this attack.
+You have the [:spell-lv2: Misty Step] spell always prepared. When you cast this spell, you can make one weapon attack or cast [:spell-lv0: True Strike] with as part of the same action of casting [:spell-lv2: Misty Step].
 
 ### Level 17: Will of the Gods
 
-When you roll **:d20-inv: Initiative**{.d20 } with no uses of your Channel Divinity remaining, you instantly regain one expended use. Moreover, whenever you are Concentrating on a Cleric spell and forced to make a saving throw, you gain a bonus to the saving throw equal to your Charisma modifier (minimum of +1).
+When you roll **:d20-inv: Initiative**{.d20 } with no uses of your **:ui-chdiv-cleric: Channel Divinity** remaining, you instantly regain one expended use. Moreover, whenever you are Concentrating on a Cleric spell and forced to make a saving throw, you gain a bonus to the saving throw equal to your Charisma modifier (minimum of +1).
 
 ###### :material-book-edit: Written by *Eschatologue*
 
