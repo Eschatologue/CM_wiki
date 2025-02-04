@@ -19,8 +19,8 @@ The magic of your otherworldly patron ensures you always have certain spells rea
 ##### Hexblade Spells
 
 | Warlock Level | Spells |
-|---|---|
-| 3 | [:spell-lv1: Shield], [:spell-lv1: Wrathful Smite], [:spell-lv2: Blur] |
+|:-:|---|
+| 3 | [:spell-lv1: Shield], [:spell-lv1: Wrathful Smite], [:spell-lv2: Darkness], [:spell-lv2: Blur] |
 | 5 | [:spell-lv3: Blink], [:spell-lv3: Elemental Weapon] |
 | 7 | [:spell-lv4: Phantasmal Killer], [:spell-lv4: Fire Shield] |
 | 9 | [:spell-lv5: Hold Monster], [:spell-lv5: Cone of Cold] |
@@ -62,9 +62,9 @@ Your hex grows more powerful. If the target cursed by your Hexblade’s Curse hi
 
 Your Hexblade’s Curse becomes more debilitating. When you curse a creature with your Hexblade’s Curse, you gain the following benefits:
 
-**Impending Doom**{ .inl }  The cursed target has its Speed reduced by 15 feet.
+**Impending Doom**{ .inl } The cursed target has its **:rsc-spd: Speed** reduced by 15 feet.
 
-**Relentless Curse**{ .inl } You can take a **:rsc-b: Bonus Action**{ .rsc } to teleport up to 60 feet to an unoccupied space you can see within 5 feet of the cursed target. To teleport in this way, you must be able to see the cursed target.
+**Relentless Curse**{ .inl } You can take a **:rsc-b: Bonus Action**{ .rsc } to Teleport up to **60 feet** to an unoccupied space within 5 feet of a cursed target that you can see.
 
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
