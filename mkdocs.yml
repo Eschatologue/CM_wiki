@@ -296,15 +296,16 @@ nav:
         - Celestial: class/warlock/celestial.md
         - Fiend: class/warlock/fiend.md
         - Great Old One: class/warlock/great-old-one.md
+        - Hexblade: class/warlock/hexblade.md
         - Archmage: class/warlock/archmage.md
         - Broodlord: class/warlock/broodlord.md
       - Wizard:
         - class/wizard/index.md
         - Abjurer: class/wizard/abjurer.md
+        - Bladesinger: class/wizard/bladesinger.md
         - Diviner: class/wizard/diviner.md
         - Evoker: class/wizard/evoker.md
         - Illusionist: class/wizard/illusionist.md
-        - Bladesinger: class/wizard/bladesinger.md
         - Chronurgist: class/wizard/chronurgist.md
 #        - Graviturgist: class/wizard/graviturgist.md
         - War Mage: class/wizard/war-mage.md

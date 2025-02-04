@@ -1,6 +1,5 @@
 ---
 title: "Subclass: Bladesinger (Wizard)"
-status: adapted
 ---
 
 <p style="display:none">
