@@ -58,4 +58,4 @@ While you are in Wild Shape form, you are immune to conditions such as: Charmed,
 --8<-- "includes/snippets/spells2/lv0.md"
 
 :material-book-arrow-up: Updated by *Eschatologue*
-{ .quote }
+{ .author }
