@@ -45,27 +45,29 @@ This form sheds Bright Light in a 10-foot radius and Dim Light for an additional
 
 Whenever you assume your starry form, choose which of the following constellations glimmers on your body; your choice gives you certain benefits while in the form.
 
-#### :material-paw: Archer
+#### Archer
 
 *A constellation of an archer appears on you.* 
 
-**Luminous Arrow**{ .inl } When you activate this form, and as a **:rsc-b: Bonus Action**{ .rsc } on your subsequent turns while it lasts, you can make a Ranged Spell Attack, hurling a Luminous Arrow that targets one creature within **60 feet** of you. On a hit, the attack deals **:dmg-radi: Radiant**{ .dmg-radi } damage equal to **1d8 plus your Wisdom modifier**{ .dmg-radi }.
+**Luminous Arrow**{ .inl } When you activate this form, and as a **:rsc-b: Bonus Action**{ .rsc } on your subsequent turns while it lasts, you can make a Ranged Spell Attack, hurling a Luminous Arrow that targets one creature within **60 feet** of you. On a hit, the attack deals **:dmg-radi: Radiant**{ .dmg-radi } damage equal to **1d8 plus your Wisdom modifier**.
 
-#### :material-paw: Chalice
+#### Chalice
 
 *A constellation of a life-giving goblet appears on you.* 
 
 **Chalice Healing**{ .inl } Whenever you cast a spell using a Spell Slot that restores **:trt-hp: Hit Points** to a creature, you or another creature within **30 feet** of you can regain **:trt-hp: Hit Points** equal to **1d8 plus your Wisdom modifier**.
 
-#### :material-paw: Dragon
+#### Dragon
 
 *A constellation of a wise dragon appears on you.* 
 
-**Dragon's Wisdom**{ .inl } When you make an **:d20-save: Intelligence** or a **:d20-save: Wisdom** check or a **:d20-save: Constitution saving throw** to maintain **:spell-conc: Concentration** on a spell, you can treat a roll of 9 or lower on the d20 as a 10.
+**Dragon's Wisdom**{ .inl } When you make an **:d20-check: Intelligence** or a **:d20-check: Wisdom** check or a **:d20-save: Constitution saving throw** to maintain **:spell-conc: Concentration** on a spell, you can treat a roll of 9 or lower on the d20 as a 10.
 
 ### Level 6: Cosmic Omen
 
-You learn to use your star map to divine the will of the cosmos. Whenever you finish a **:rest-long: Long Rest**, you can consult your Star Map for omens. When you do so, roll a die. Until you finish your next Long Rest, you gain access to a special Reaction based on whether you rolled an even or an odd number on the die:
+*You learn to use your star map to divine the will of the cosmos.* 
+
+Whenever you finish a **:rest-long: Long Rest**, you can consult your Star Map for omens. When you do so, roll a die. Until you finish your next Long Rest, you gain access to a special Reaction based on whether you rolled an even or an odd number on the die:
 
 **Weal (even)**{ .inl } Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a **:rsc-r: Reaction**{ .rsc } to roll 1d6 and add the number rolled to the total.
 
