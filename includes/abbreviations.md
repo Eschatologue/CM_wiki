@@ -13,6 +13,12 @@
 *[Three-Quarters Cover]: +5 bonus to AC & DEX saves.
 *[Total Cover]: Can't be targetted directly
 
+*[Bright Light]: The area is under normal illumination
+*[Dim Light]: The area is Lightly Obscured; Disadvantage on Sight-based check.
+
+*[Lightly Obscured]: Sight-based checks has Disadvantage to see something in it.
+*[Heavily Obscured]: Sight-based checks auto-fails trying to see something in it.
+
 <!--- Actions --->
 
 <!---
