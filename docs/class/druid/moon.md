@@ -19,7 +19,7 @@ Changeable as the moon, a Druid of this circle might prowl as a great cat one ni
 
 ### Level 3: Circle Forms  
 
-You have learned ancient techniques that allow you to channel lunar magic when you assume a Wild Shape form, granting you the following benefits:
+You have learned ancient techniques that allow you to channel lunar magic when you assume a **:material-paw: Wild Shape** form, granting you the following benefits:
 
 **Challenge Rating**{ .inl } The maximum Challenge Rating for the form equals your Druid level divided by 3 (round down).
 
@@ -31,7 +31,7 @@ You have learned ancient techniques that allow you to channel lunar magic when y
 
 Your connection to this circle ensures that you always have certain spells ready. When you reach a Druid level specified in the Circle of the Moon Spells table, you thereafter always have the listed spells prepared.
 
-In addition, you can cast the spells from this feature while you are in Wild Shape form.
+In addition, you can cast the spells from this feature while you are in **:material-paw: Wild Shape** form.
 
 ##### Circle of the Moon Spells
 
@@ -44,9 +44,9 @@ In addition, you can cast the spells from this feature while you are in Wild Sha
 
 ### Level 6: Improved Circle Forms
 
-While in a Wild Shape form, you gain the following benefits:
+While in a **:material-paw: Wild Shape** form, you gain the following benefits:
 
-**Lunar Radiance**{ .inl } Each of your attacks in a Wild Shape form can deal its normal damage type or Radiant damage. You make this choice each time you hit with those attacks.
+**Lunar Radiance**{ .inl } Each of your attacks in a **:material-paw: Wild Shape** form can deal its normal damage type or Radiant damage. You make this choice each time you hit with those attacks.
 
 **Increased Toughness**{ .inl } You can add your Wisdom modifier to your Constitution saving throws.
 
@@ -60,7 +60,7 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 The power of the moon suffuses you, granting you the following benefits:
  
-**Improved Lunar Radiance**{ .inl } Once per turn, you can deal an extra 2d10 Radiang damage to a targety ou hit with a Wild Shape Form's attack.
+**Improved Lunar Radiance**{ .inl } Once per turn, you can deal an extra 2d10 Radiang damage to a targety ou hit with a **:material-paw: Wild Shape** Form's attack.
 
 **Shared Moonlight**{ .inl } Whenever you use Moonlight Step, you can also teleport one willing creature. That creature must be within 10 feet of you, and you teleport it to an unoccupied space you can see within 10 feet of your destination space
 

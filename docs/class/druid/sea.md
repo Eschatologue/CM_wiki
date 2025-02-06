@@ -28,7 +28,7 @@ Your connection to this circle ensures that you always have certain spells ready
 
 ### Level 3: Wrath Of The Sea 
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can expend a use of your Wild Shape to manifest a 5-foot Emanation that takes the form of ocean spray that surrounds you for 10 minutes. It ends early if you dismiss it (no action required), manifest it again, or have the Incapacitated condition.
+As a **:rsc-b: Bonus Action**{ .rsc }, you can expend a use of your **:material-paw: Wild Shape** to manifest a 5-foot Emanation that takes the form of ocean spray that surrounds you for 10 minutes. It ends early if you dismiss it (no action required), manifest it again, or have the Incapacitated condition.
 
 When you manifest the Emanation and as a **:rsc-b: Bonus Action**{ .rsc } on your subsequent turns, you can choose another creature you can see in the Emanation. The target must suceed on a Constitution saving throw against your spell save DC or take Cold damage and, if the creature is Large or smaller, be pushed up to 15 feet away from you. To determine this damage, roll a number of d6s equal to your Wisdom modifier (minimum of one die).
 

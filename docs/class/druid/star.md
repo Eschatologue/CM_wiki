@@ -38,24 +38,30 @@ If you lose the map, you can perform a 1-hour ceremony to magically create a rep
 
 ### Level 3: Starry Form
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can expend a use of your Wild Shape feature to take on a starry form, rather than shape shifting.
+As a **:rsc-b: Bonus Action**{ .rsc }, you can expend a use of your **:material-paw: Wild Shape** feature to take on a starry form, rather than shape shifting.
 
 While in your starry form, you retain your game statistics, but your body becomes luminous; your joints glimmer like stars, and glowing lines connect them as on a star chart.  
-This form sheds Bright Light in a 10-foot radius and Dim Light for an additional 10 feet. The form lasts for 10 minutes. It ends early if you dismiss it (no action required), have the ^^Incapacitated^^ condition, or use this feature again.
+This form sheds Bright Light in a 10-foot radius and Dim Light for an additional **10 feet**. The form lasts for 10 minutes. It ends early if you dismiss it (no action required), have the ^^Incapacitated^^ condition, or use this feature again.
 
 Whenever you assume your starry form, choose which of the following constellations glimmers on your body; your choice gives you certain benefits while in the form.
 
-#### Archer
+#### :material-paw: Archer
 
-A constellation of an archer appears on you. When you activate this form, and as a **:rsc-b: Bonus Action**{ .rsc } on your subsequent turns while it lasts, you can make a ranged spell attack, hurling a luminous arrow that targets one creature within **60 feet** of you. On a hit, the attack deals **:dmg-radi: Radiant**{ .dmg-radi } damage equal to 1d8 plus your Wisdom modifier.
+*A constellation of an archer appears on you.* 
 
-#### Chalice
+**Luminous Arrow**{ .inl } When you activate this form, and as a **:rsc-b: Bonus Action**{ .rsc } on your subsequent turns while it lasts, you can make a Ranged Spell Attack, hurling a Luminous Arrow that targets one creature within **60 feet** of you. On a hit, the attack deals **:dmg-radi: Radiant**{ .dmg-radi } damage equal to **1d8 plus your Wisdom modifier**{ .dmg-radi }.
 
-A constellation of a life-giving goblet appears on you. Whenever you cast a spell using a Spell Slot that restores **:trt-hp: Hit Points** to a creature, you or another creature within **30 feet** of you can regain **:trt-hp: Hit Points** equal to 1d8 plus your Wisdom modifier.
+#### :material-paw: Chalice
 
-#### Dragon
+*A constellation of a life-giving goblet appears on you.* 
 
-A constellation of a wise dragon appears on you. When you make an **:d20-save: Intelligence** or a **:d20-save: Wisdom** check or a **:d20-save: Constitution saving throw** to maintain **:spell-conc: Concentration** on a spell, you can treat a roll of 9 or lower on the d20 as a 10.
+**Chalice Healing**{ .inl } Whenever you cast a spell using a Spell Slot that restores **:trt-hp: Hit Points** to a creature, you or another creature within **30 feet** of you can regain **:trt-hp: Hit Points** equal to **1d8 plus your Wisdom modifier**.
+
+#### :material-paw: Dragon
+
+*A constellation of a wise dragon appears on you.* 
+
+**Dragon's Wisdom**{ .inl } When you make an **:d20-save: Intelligence** or a **:d20-save: Wisdom** check or a **:d20-save: Constitution saving throw** to maintain **:spell-conc: Concentration** on a spell, you can treat a roll of 9 or lower on the d20 as a 10.
 
 ### Level 6: Cosmic Omen
 
@@ -69,7 +75,9 @@ You can use use this **:rsc-r: Reaction**{ .rsc } a number of times equal to you
 
 ### Level 10: Twinkling Constellations
 
-The constellations of your Starry Form improve. The 1d8 of the *Archer* and the *Chalice* becomes 2d8, and while the *Dragon* is active, you have a Fly Speed of 20 feet and can hover.
+The constellations of your Starry Form improve. 
+
+The 1d8 of the *Archer* and the *Chalice* becomes 2d8, and while the *Dragon* is active, you have a Fly Speed of 20 feet and can hover.
 
 Moreover, at the start of each of your turns while in your Starry Form, you can change which constellation glimmers on your body.
 
