@@ -125,7 +125,7 @@ $indent: 18px;
 /* Used in conjuction with .inl */
 .idnt2 {
     text-indent: convert.px2em(-$indent * 0.5);
-    padding-left: convert.px2em($indent);
+    padding-left: convert.px2em($indent * 1.5);
 }
 
 /*-------------------------------------------------------
