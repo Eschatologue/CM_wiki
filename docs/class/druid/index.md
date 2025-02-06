@@ -11,7 +11,7 @@ Druids channel the elemental forces of nature and share a deep kinship with anim
 
 # Druid
 
-> *Druids channel the elemental forces of nature and share a deep kinship with animals. Mastery of **:material-paw: Wild Shape** allows them to transform into beasts from all over the Realms.*
+> *Druids channel the elemental forces of nature and share a deep kinship with animals. Mastery of Wild Shape allows them to transform into beasts from all over the Realms.*
 
 Druids belong to ancient orders that call on the forces of nature. Harnessing the magic of animals, plants, weather, and the four elements, Druids can heal, transform themselves, and wield elemental destruction.
 
@@ -68,10 +68,10 @@ As a Druid, you gain the following class features when you reach the specified D
 
 ##### Druid Features
 
-| Level | PB | Features | **:material-paw: Wild Shape** | Cantrips Known | Spells Prepared | I | II | III | IV | V | VI | VII | VIII | IX |
+| Level | PB | Features | Wild Shape | Cantrips Known | Spells Prepared | I | II | III | IV | V | VI | VII | VIII | IX |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | +2 | Spellcasting, Druidic, Primal Order | — | 2 | 4 | 2 | — | — | — | — | — | — | — | — |
-| 2 | +2 | **:material-paw: Wild Shape**, Wild Companion | 2 | 2 | 5 | 3 | — | — | — | — | — | — | — | — |
+| 2 | +2 | Wild Shape, Wild Companion | 2 | 2 | 5 | 3 | — | — | — | — | — | — | — | — |
 | 3 | +2 | Druid Subclass | 2 | 2 | 6 | 4 | 2 | — | — | — | — | — | — | — |
 | 4 | +2 | Ability Score Improvement | 2 | 3 | 7 | 4 | 3 | — | — | — | — | — | — | — |
 | 5 | +3 | Wild Resurgence | 2 | 3 | 9 | 4 | 3 | 2 | — | — | — | — | — | — |
@@ -140,7 +140,7 @@ You have dedicated yourself to one of the following sacred roles of your choice.
 
 **Warden**{ .inl } Trained for battle, you gain proficiency with Martial weapons and training with Medium armour.
 
-### Level 2: **:material-paw: Wild Shape**
+### Level 2: Wild Shape
 
 The power of nature allows you to assume the form of an animal. As a **:rsc-b: Bonus Action**{ .rsc }, you shape-shift into a Beast form that you have learned for this feature (see “Known Forms” below). You stay in that form for a number of hours equal to half your Druid level or until you use **:material-paw: Wild Shape** again, have the Incapacitated condition, or die. You can also leave the form early as a  **:rsc-b: Bonus Action**{ .rsc }.
 
