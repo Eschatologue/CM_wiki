@@ -30,40 +30,40 @@ You can use this enhance this your Starry Form this way a number of times equal 
 
     The Principality of Entropy, Sustainer of Oblivion, **The Spire of Destruction**; *Aaraau*, has laid THEIR gaze upon you.
 
-    **Collapsing Star (Archer)**{ .inl }  
-    Once per turn, when you hit a target with your Archer Form's **:rsc-b: Bonus Action**{ .rsc } attack, all creatures within 5 feet of the target must make a **:d20-save: Dexterity saving throw**. On a failed save, they take damage as if they were also hit by your Archer Form's attack.  
+    **Collapsing Star (Archer)**{ .inl } Once per turn, when you hit a target with your Archer Form's **:rsc-b: Bonus Action**{ .rsc } attack, all creatures within 5 feet of the target must make a **:d20-save: Dexterity saving throw**. On a failed save, they take damage as if they were also hit by your Archer Form's attack.
+    { .idnt } 
 
-    **Searing Flare (Chalice)**{ .inl }  
-    Once per turn, when you restore **:trt-hp: Hit Points** to a creature using the Chalice Form feature, each creatures within 5 feet of the target must make a **:d20-save: Constitution saving throw**. On a failed save, they take **:dmg-radi: Radiant**{ .dmg-radi } damage equals to the Chalice Form's healing roll.
+    **Searing Flare (Chalice)**{ .inl } Once per turn, when you restore **:trt-hp: Hit Points** to a creature using the Chalice Form feature, each creatures within 5 feet of the target must make a **:d20-save: Constitution saving throw**. On a failed save, they take **:dmg-radi: Radiant**{ .dmg-radi } damage equals to the Chalice Form's healing roll.
+    { .idnt } 
 
-    **Accretion Disk(Dragon)**{ .inl }  
-    While **:spell-conc: Concentrating** on a Druid spell, whenever you deal **:dmg-radi: Radiant**{ .dmg-radi } or **:dmg-fire: Fire**{ .dmg-fire } damage, it deals extra damage equals to your Proficiency Bonus.
+    **Accretion Disk(Dragon)**{ .inl } While **:spell-conc: Concentrating** on a Druid spell, whenever you deal **:dmg-radi: Radiant**{ .dmg-radi } or **:dmg-fire: Fire**{ .dmg-fire } damage, it deals extra damage equals to your Proficiency Bonus.
+    { .idnt } 
 
 === "Resonance of Perseverance"
 
     The Coreflame of Bravery, Engine of Immortality, **The Spire of Perseverance**; *Etemenanki*, has laid THEIR gaze upon you.
 
-    **Siege Emplacement (Archer)**{ .inl }  
-    Allies that start its turn within 10 feet of you, gain **:trt-thp: Temporary Hit Points** equal to twice your Proficiency Bonus until the start of its next turn.
+    **Siege Emplacement (Archer)**{ .inl } Allies that start its turn within 10 feet of you, gain **:trt-thp: Temporary Hit Points** equal to twice your Proficiency Bonus until the start of its next turn.
+    { .idnt } 
 
-    **Amber Armour (Chalice)**{ .inl }  
-    When you restore **:trt-hp: Hit Points** to a creature using the Chalice Form feature, any **:trt-hp: Hit Points** that exceeds the target's HP becomes **:trt-thp: Temporary Hit Points**.
+    **Amber Armour (Chalice)**{ .inl } When you restore **:trt-hp: Hit Points** to a creature using the Chalice Form feature, any **:trt-hp: Hit Points** that exceeds the target's HP becomes **:trt-thp: Temporary Hit Points**.
+    { .idnt } 
 
-    **Warding Aura (Dragon)**{ .inl }  
-    While **:spell-conc: Concentrating** on a Druid spell, all allies within 10 feet of you gain the benefit of Half Cover.
+    **Warding Aura (Dragon)**{ .inl } While **:spell-conc: Concentrating** on a Druid spell, all allies within 10 feet of you gain the benefit of Half Cover.
+    { .idnt } 
 
 === "Resonance of Judgement – Locked"
 
     The All-seeing Judge, Harbinger of Consequences, **The Spire of Judgement**; *Falcone*, has yet to crush you with its karmic wheel.
 
-    **Fist of Conviction (Archer)**{ .inl }  
-    You gain a bonus to your AC equal to your Proficiency Bonus so long you are not wearing Medium or Heavy Armour or using a Shield. Additionally, as a **:rsc-a: Magic**{ .rsc } action, you can make a Melee spell attack using your Archer Form's attack. At Druid level 6, this Melee spell attack confers two attacks.
+    **Fist of Conviction (Archer)**{ .inl } You gain a bonus to your AC equal to your Proficiency Bonus so long you are not wearing Medium or Heavy Armour or using a Shield. Additionally, as a **:rsc-a: Magic**{ .rsc } action, you can make a Melee spell attack using your Archer Form's attack. At Druid level 6, this Melee spell attack confers two attacks.
+    { .idnt } 
 
-    **Chalice of Alacrity (Chalice)**{ .inl }  
-    Once per turn, when you restore **:trt-hp: Hit Points** to a creature using the Chalice Form feature, it gains a bonus to its next D20 Test equal to your Proficiency Bonus.
+    **Chalice of Alacrity (Chalice)**{ .inl } Once per turn, when you restore **:trt-hp: Hit Points** to a creature using the Chalice Form feature, it gains a bonus to its next D20 Test equal to your Proficiency Bonus.
+    { .idnt } 
 
-    **Remnants of Judgement (Dragon)**{ .inl }  
-    While **:spell-conc: Concentrating** on a Druid spell, if the total damage roll of one of your attacks is lower than your Proficiency Bonus, you can treat the damage as equal to your Proficiency Bonus.
+    **Remnants of Judgement (Dragon)**{ .inl } While **:spell-conc: Concentrating** on a Druid spell, if the total damage roll of one of your attacks is lower than your Proficiency Bonus, you can treat the damage as equal to your Proficiency Bonus.
+    { .idnt } 
 
 
 <!---
