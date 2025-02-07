@@ -1,21 +1,27 @@
 @use "../utility/convert";
 
 /*------------------------------------------------------- 
-    Basic Typesets
+    Typeset Value
 --------------------------------------------------------*/
 
-// Main Typeset Styles
 .md-typeset {
     --default-font-size: #{convert.px2rem(16px)};
     --default-font-weight: 400;
 
-    font-size: var(--default-font-size);
-    font-weight: var(--default-font-weight);
-    color: var(--md-gbl-text-color);
-
     @media screen and (max-width: 720px) {
         --default-font-size: #{convert.px2rem(14px)};
     }
+}
+
+/*------------------------------------------------------- 
+    Basic Typesets
+--------------------------------------------------------*/
+
+.md-typeset {
+
+    font-size: var(--default-font-size);
+    font-weight: var(--default-font-weight);
+    color: var(--md-gbl-text-color);
 
     // Strong text styles
     strong {
