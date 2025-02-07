@@ -1,19 +1,25 @@
 @charset "UTF-8";
 @import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap");
 /*------------------------------------------------------- 
-    Basic Typesets
+    Typeset Value
 --------------------------------------------------------*/
 .md-typeset {
   --default-font-size: 0.8rem;
   --default-font-weight: 400;
-  font-size: var(--default-font-size);
-  font-weight: var(--default-font-weight);
-  color: var(--md-gbl-text-color);
 }
 @media screen and (max-width: 720px) {
   .md-typeset {
     --default-font-size: 0.7rem;
   }
+}
+
+/*------------------------------------------------------- 
+    Basic Typesets
+--------------------------------------------------------*/
+.md-typeset {
+  font-size: var(--default-font-size);
+  font-weight: var(--default-font-weight);
+  color: var(--md-gbl-text-color);
 }
 .md-typeset strong {
   letter-spacing: calc(var(--default-font-size) * 0.0125);
@@ -255,24 +261,10 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 /*-------------------------------------------------------
     Indentation
 -------------------------------------------------------*/
-.indent {
-  text-indent: 1.5625em;
-}
-@media screen and (max-width: 720px) {
-  .indent {
-    text-indent: 0.78125em;
-  }
-}
-
-.idnt {
-  text-indent: -1.5625em;
-  padding-left: 1.5625em;
-}
-
 /* Used in conjuction with .inl */
 .idnt2 {
-  text-indent: -1.5625em;
-  padding-left: 3.125em;
+  text-indent: calc(var(--default-font-size) * -1);
+  padding-left: calc(var(--default-font-size) * 2);
 }
 
 /*-------------------------------------------------------
