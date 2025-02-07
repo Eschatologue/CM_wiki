@@ -10,10 +10,6 @@
 $defaultHue: 215;
 
 [data-md-color-scheme="slate"] {
-    --cm-def-hue: #{220};
-    --cm-def-sat: #{16%};
-    --cm-def-lgt: #{22%};
-
     --md-hue: #{$defaultHue}; // Primary hue for Slate scheme
 
 }
@@ -59,7 +55,7 @@ $defaultHue: 215;
 
         /* Background Colours */
         // --md-default-bg-color: hsla(#{$defaultHue}, 15%, 14%, 1);
-        --md-default-bg-color: convert.hex2hsl(#2e3440);
+        --md-default-bg-color: convert.hex3hsl(#2e3440);
         
         --md-default-bg-color--dark: hsla(#{$defaultHue}, 15%, 10%, 1);
         --md-default-bg-color--darker: hsla(#{$defaultHue}, 15%, 7%, 1);
