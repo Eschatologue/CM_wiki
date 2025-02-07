@@ -15,21 +15,25 @@ Each weapon has a Mastery property, which is usable only by a character who has 
 
 To give more options for martial classess, the folowing homebrew rules are implemented.
 
-### Changing Mastery properties
+### Flexible Weapon Mastery  
 
-This homebrew rule reinstates a mechanic initially introduced in *Unearthed Arcana 2023 Playtest 7*, which allowed classes with the Weapon Mastery feature to change a weapon's Mastery property to another eligible one.
+This rule reinstates a mechanic from *Unearthed Arcana 2023 Playtest 7*, allowing classes with the Weapon Mastery feature to change a weapon's Mastery property.  
 
-When you finish a **:rest-long: Long Rest**, provided you have Weapon Mastery feature, you can choose any weapon with a Mastery property that you're using and replace its Mastery property with another eligible Mastery property. For example, you could replace the Longsword's [Sap](#sap) property with the [Flex](#flex) property.
+After a **Long Rest**, you can replace the Mastery property of any weapon you are using with another eligible property. For example, you could change a Longsword’s [Sap](#sap) property to [Flex](#flex).  
 
-**Character Exclusive**{ .inl } These Mastery property changes apply only to the character that makes them and do not affect other characters. For example, if a Barbarian changes a Glaive's Graze property to Cleave, another Barbarian or any other class using the same Glaive would still use its default Graze property.
+These changes only affect the character who makes them. If a Barbarian replaces a Glaive’s Graze property with Cleave, other characters using the same Glaive still use its default Graze property.  
 
 ### More Mastery on One Weapon
 
 This homebrew rule reinstates a mechanic initially introduced in *Unearthed Arcana 2023 Playtest 5*, which allowed Fighters to benefit from multiple Mastery properties for one weapon. Now, its given to every classes that has Weapon Mastery feature.
 
-When you choose weapons for the Weapon Mastery feature, you may instead gain the ability to use more Mastery properties with the same weapon. You choose a weapon you already chose as part of Weapon Mastery and another type of eligible Mastery property. You may now benefit from that Mastery property when you make attacks with this weapon. You must choose which Mastery property applies before making an attack roll and the weapon must satisfy the Mastery property requirement.
+When selecting weapons for Weapon Mastery, you can instead assign an additional Mastery property to a weapon you already chose. Before making an attack, you decide which of that weapon’s Mastery properties to use, as long as it meets the property’s requirements.  
 
-For example, a Level 1 Barbarian may instead of using the Mastery property with Greataxe and Handaxe, choose to apply either [Cleave](#cleave) or [Graze](#graze) when making attacks with Greataxe. A Level 1 Rogue may instead of using the Mastery property with Dagger and Shortbow, choose to apply either [Nick](#nick) or [Slow](#slow) with Dagger.
+For example, a Level 1 Barbarian could choose to apply either [Cleave](#cleave) or [Graze](#graze) when attacking with a Greataxe, instead of selecting a second weapon for Weapon Mastery. Likewise, a Level 1 Rogue could choose either [Nick](#nick) or [Slow](#slow) for a Dagger.  
+
+---
+
+This keeps the intent intact while making it clearer and more concise. Let me know if you'd like any tweaks!
 
 ## PHB'24 Mastery property
 

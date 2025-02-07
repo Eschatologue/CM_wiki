@@ -129,15 +129,15 @@ You can use a Shield and still gain these benefit.
 
 ### Level 1: Weapon Mastery
 
-Your training with weapons allows you to use the mastery properties of two kinds of Simple or Martial Melee weapons of your choice, such as Greataxes and Handaxes. Whenever you finish a **:rest-long: Long Rest**, you can do one of the following:
+Your training with weapons allows you to use the mastery properties of two kinds of Simple or Martial Melee weapons of your choice, such as Greataxes and Handaxes. Whenever you finish a **:rest-long: Long Rest**, you can practice weapon drills and change one of those weapon choices.
 
-:   **Change Weapon**{ .inl } You can practice weapon drills and change *one* of those weapon choices; or
-
-:   **Replace Mastery Property**{ .inl } You can choose any weapon with a Mastery property that you're using and replace its Mastery property with another eligible Mastery property (e.g. Replace the Greataxe's Cleave property with the Graze property).
+When you reach certain Barbarian levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Barbarian Features table.
 
 --8<-- "includes/snippets/item-mastery.md"
 
-When you reach certain Barbarian levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Barbarian Features table.
+!!! tip "Weapon Mastery: Expanded"
+    
+    In Crown & Misery setting, the Weapon Mastery feature are expanded to allow more flexibility, which can be found [here](../../equipment/weapon/mastery.md).
 
 ### Level 2: Danger Sense
 

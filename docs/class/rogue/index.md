@@ -108,11 +108,13 @@ You picked up various languages in the communities where you plied your roguish 
 
 ### Level 1: Weapon Mastery
 
-Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Daggers and Shortbows. Whenever you finish a **:rest-long: Long Rest**, you can do one of the following:
+Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Daggers and Shortbows.
 
-:   **Change Weapon**{ .inl } You can practice weapon drills and change the kinds of weapons you chose; or
+Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Shortswords.
 
-:   **Replace Mastery Property**{ .inl } You can choose any weapon with a Mastery property that you're using and replace its Mastery property with another eligible Mastery property (e.g. Replace Dagger's Nick property with the Slow property.)
+!!! tip "Weapon Mastery: Expanded"
+    
+    In Crown & Misery setting, the Weapon Mastery feature are expanded to allow more flexibility, which can be found [here](../../equipment/weapon/mastery.md).
 
 --8<-- "includes/snippets/item-mastery.md"
 

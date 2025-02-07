@@ -137,8 +137,10 @@ You can use Druidic to leave hidden messages. You and others who know Druidic au
 You have dedicated yourself to one of the following sacred roles of your choice.
 
 **Magician**{ .inl } You know one extra cantrip from the Druid spell list. In addition, your mystical connection to nature gives you a bonus to your Intelligence (Arcana or Nature) checks. The bonus equals your Wisdom modifier (minimum bonus of +1).
+{ .idnt }
 
 **Warden**{ .inl } Trained for battle, you gain proficiency with Martial weapons and training with Medium armour.
+{ .idnt }
 
 ### Level 2: Wild Shape
 

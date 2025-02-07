@@ -86,13 +86,11 @@ As a Cleric, you gain the following class features when you reach the specified 
 
 You have dedicated yourself to one of the following sacred roles of your choice:
 
-#### Protector
+**Protector**{ .inl } Trained for battle, you gain Martial Weapon proficiency and Heavy Armour training.
+{ .idnt }
 
-Trained for battle, you gain Martial Weapon proficiency and Heavy Armour training.
-
-#### Thaumaturge
-
-You know one extra cantrip from the Cleric spell list (see your Spellcasting feature for information on preparing spells). In addition, your mystical connection to the divine gives you a bonus to your Intelligence (Religion) checks. The bonus equals your Wisdom modifier (minimum of +1).
+**Thaumaturge**{ .inl } You know one extra cantrip from the Cleric spell list (see your Spellcasting feature for information on preparing spells). In addition, your mystical connection to the divine gives you a bonus to your Intelligence (Religion) checks. The bonus equals your Wisdom modifier (minimum of +1).
+{ .idnt }
 
 ### Level 1: Spellcasting
 
@@ -193,9 +191,10 @@ You gain an [:option-feat-boon: Epic Boon](../../option/feat/feat-boon.md) feat 
 
 ### Level 20: Greater Divine Intervention
 
-You can call on even more powerful divine intervention. When you use your Divine Intervention feature, you can choose Wish when you select a spell. If you do so, you can't use Divine Intervention again until you finish 2d4 Long Rests.
+You can call on even more powerful divine intervention. When you use your Divine Intervention feature, you can choose [:spell-lv9: Wish] when you select a spell. If you do so, you can't use Divine Intervention again until you finish 2d4 Long Rests.
 
 --8<-- "includes/snippets/skills.md"
 
 --8<-- "includes/snippets/spells2/lv0.md"
 --8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv9.md"

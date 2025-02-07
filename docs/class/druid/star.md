@@ -47,37 +47,39 @@ Whenever you assume your starry form, choose which of the following constellatio
 
 #### Archer
 
-*A constellation of an archer appears on you.* 
+A constellation of an archer appears on you. You gain the following benefits.
 
 **Luminous Arrow**{ .inl } When you activate this form, and as a **:rsc-b: Bonus Action**{ .rsc } on your subsequent turns while it lasts, you can make a Ranged Spell Attack, hurling a Luminous Arrow that targets one creature within **60 feet** of you. On a hit, the attack deals **:dmg-radi: Radiant**{ .dmg-radi } damage equal to **1d8 plus your Wisdom modifier**.
 
 #### Chalice
 
-*A constellation of a life-giving goblet appears on you.* 
+A constellation of a life-giving goblet appears on you. You gain the following benefits.
 
 **Chalice Healing**{ .inl } Whenever you cast a spell using a Spell Slot that restores **:trt-hp: Hit Points** to a creature, you or another creature within **30 feet** of you can regain **:trt-hp: Hit Points** equal to **1d8 plus your Wisdom modifier**.
 
 #### Dragon
 
-*A constellation of a wise dragon appears on you.* 
+A constellation of a wise dragon appears on you. You gain the following benefits.
 
-**Dragon's Wisdom**{ .inl } When you make an **:d20-check: Intelligence** or a **:d20-check: Wisdom** check or a **:d20-save: Constitution saving throw** to maintain **:spell-conc: Concentration** on a spell, you can treat a roll of 9 or lower on the d20 as a 10.
+**Dragon's Wisdom**{ .inl } When you make an **:d20-check: Intelligence** or a **:d20-check: Wisdom** check or a **:d20-save: Constitution save** to maintain **:spell-conc: Concentration** on a spell, you can treat a roll of 9 or lower on the d20 as a 10.
 
 ### Level 6: Cosmic Omen
 
 *You learn to use your star map to divine the will of the cosmos.* 
 
-Whenever you finish a **:rest-long: Long Rest**, you can consult your Star Map for omens. When you do so, roll a die. Until you finish your next Long Rest, you gain access to a special Reaction based on whether you rolled an even or an odd number on the die:
+Whenever you finish a **:rest-long: Long Rest**, you can consult your Star Map for omens. When you do so, roll a die. Until you finish your next Long Rest, you gain access to a special **:rsc-r: Reaction**{ .rsc } based on whether you rolled an even or an odd number on the die:
 
-**Weal (even)**{ .inl } Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a **:rsc-r: Reaction**{ .rsc } to roll 1d6 and add the number rolled to the total.
+**:rsc-r: Weal (even)**{ .inl } Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a **:rsc-r: Reaction**{ .rsc } to roll 1d6 and add the number rolled to the total.
+{ .indt }
 
-**Woe (odd)**{ .inl } Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a **:rsc-r: Reaction**{ .rsc } to roll 1d6 and subtract the number rolled from the total.
+**:rsc-r: Woe (odd)**{ .inl } Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a **:rsc-r: Reaction**{ .rsc } to roll 1d6 and subtract the number rolled from the total.
+{ .indt }
 
 You can use use this **:rsc-r: Reaction**{ .rsc } a number of times equal to your Wisdom modifier (minimum of once),, and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 ### Level 10: Twinkling Constellations
 
-The constellations of your Starry Form improve. 
+The constellations of your Starry Form improves. 
 
 The 1d8 of the *Archer* and the *Chalice* becomes 2d8, and while the *Dragon* is active, you have a Fly Speed of 20 feet and can hover.
 

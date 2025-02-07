@@ -97,15 +97,15 @@ When you reach certain Fighter levels, you gain more uses of this feature, as sh
 
 ### Level 1: Weapon Mastery
 
-Your training with weapons allows you to use the Mastery properties of three kinds of Simple or Martial Melee weapons of your choice. Whenever you finish a **:rest-long: Long Rest**, you can do one of the following:
+Your training with weapons allows you to use the mastery properties of three kinds of Simple or Martial weapons of your choice. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
 
-:   **Change Weapon**{ .inl } You can practice weapon drills and change *one* of those weapon choices; or
-
-:   **Replace Mastery Property**{ .inl } You can choose any weapon with a Mastery property that you're using and replace its Mastery property with another eligible Mastery property (e.g. Replace Longsword's Sap property with the Push property.).
+When you reach certain Fighter levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Fighter Features table.
 
 --8<-- "includes/snippets/item-mastery.md"
 
-When you reach certain Fighter levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Fighter Features table.
+!!! tip "Weapon Mastery: Expanded"
+    
+    In Crown & Misery setting, the Weapon Mastery feature are expanded to allow more flexibility, which can be found [here](../../equipment/weapon/mastery.md).
 
 ### Level 2: Action Surge
 

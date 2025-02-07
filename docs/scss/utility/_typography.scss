@@ -109,9 +109,9 @@
 -------------------------------------------------------*/
 
 /* Used in conjuction with .inl */
-.idnt2 {
-    text-indent: calc(var(--default-font-size) * (-1));
-    padding-left: calc(var(--default-font-size) * 2);
+.indt {
+    text-indent: calc((var(--default-font-size) * 1.125 ) * (-1));
+    padding-left: calc((var(--default-font-size) * 1.125 ) * 2);
 }
 
 /*-------------------------------------------------------
@@ -151,6 +151,7 @@
 /*-------------------------------------------------------
     Damage Type Dynamic Classes
 -------------------------------------------------------*/
+
 $damage-types: (
     acid: #7bac02,
     cold: #4fc3f7,

@@ -141,15 +141,16 @@ You can use a Druidic Focus as a Spellcasting Focus for your Ranger spells.
 
 ### Level 1: Weapon Mastery
 
-Your training with weapons allows you to use the mastery properties of *two* kinds of weapons of your choice with which you have proficiency, such as Longbows and Shortswords.
+Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Longbows and Shortswords.
 
-Whenever you finish a **:rest-long: Long Rest**, you can do *one* of the following:
-
-:   **Change Weapon**{ .inl } You can practice weapon drills and change the kinds of weapons you chose; or
-
-:   **Replace Mastery Property**{ .inl } You can choose any weapon with a Mastery property that you're using and replace its Mastery property with another eligible Mastery property (e.g. Replace the Longbow's Slow property with the Vex property).
+Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Longswords.
 
 --8<-- "includes/snippets/item-mastery.md"
+
+!!! tip "Weapon Mastery: Expanded"
+    
+    In Crown & Misery setting, the Weapon Mastery feature are expanded to allow more flexibility, which can be found [here](../../equipment/weapon/mastery.md).
+
 
 ### Level 2: Deft Explorer
 
