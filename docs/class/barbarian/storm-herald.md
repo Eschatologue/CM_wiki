@@ -17,7 +17,7 @@ Storm heralds are typically elite champions who train alongside druids, rangers,
 
 ### Level 3: Storm Aura
 
-While your **:class-abl-rage: Rage**{ .em } is active, a storm whips around you in a **10 foot :aoe-emn: Emanation**.
+When you activate your **:class-abl-rage: Rage**{ .em }, a storm whips around you in a **10 foot :aoe-emn: Emanation**.
 
 As part of the **:rsc-b: Bonus Action**{ .rsc } you use to activate or maintain your **:class-abl-rage: Rage**{ .em }, you can cause one of the following effects. You choose which when you activate your **:class-abl-rage: Rage**{ .em }. 
 
@@ -25,7 +25,7 @@ If the effect requires a saving throw, the DC equals **8 plus your Proficiency B
 
 **Desert**{ .inl } All other creatures within the **:aoe-emn: Emanation** take **:dmg-fire: Fire**{ .dmg-fire } damage equal your **:class-abl-rage: Rage**{ .em } Damage bonus.
 
-**Sea**{ .inl } You choose one creature you can see within the **:aoe-emn: Emanation**. It must succeed a **:d20-save: Dexterity save** or take **1d6 + :class-abl-rage: Rage Damage :dmg-lgtn: Lightning**{ .dmg-lgtn } damage or half as much on a successful save. This damage increases by 1d6 at level 10, level 15, and at level 20.
+**Sea**{ .inl } You choose one creature you can see within the **:aoe-emn: Emanation**. It must succeed a **:d20-save: DEX save** or take **:dmg-lgtn: Lightning**{ .dmg-lgtn } damage equals to **1d6 plus :class-abl-rage: Rage Damage** bonus or half as much on a successful save. This damage increases by 1d6 at level 10, level 15, and at level 20.
 
 **Tundra**{ .inl } Each creature of your choice within the **:aoe-emn: Emanation** gains **:trt-thp: Temporary Hit Points** equal to your **:class-abl-rage: Rage**{ .em } Damage bonus, which last until your **:class-abl-rage: Rage**{ .em } ends.
 
@@ -47,11 +47,11 @@ You learn to use your mastery of the storm to protect others. Each creature of y
 
 The power of your Storm Aura grows mightier, lashing out at your foes.
 
-**Desert**{ .inl } Immediately after a creature within the Emanation hits you with an attack, you can use your **:rsc-r: Reaction**{ .rsc } to force that creature to make a Dexterity save. On a failed save, the creature takes :dmg-fire: Fire damage equal to your Barbarian level.
+**Desert**{ .inl } Immediately after a creature within the **:aoe-emn: Emanation** hits you with an attack, you can use your **:rsc-r: Reaction**{ .rsc } to force that creature to make a **:d20-save: DEX save**. On a failed save, the creature takes **:dmg-fire: Fire**{ .dmg-fire } damage equal to your Barbarian level.
 
-**Sea**{ .inl } When you hit a creature within the Emanation with an attack, you can use your **:rsc-r: Reaction**{ .rsc } to force that creature to make a Strength save. On a failed save, the creature takes an extra 2d6 :dmg-cold: Cold damage and has the Prone condition.
+**Sea**{ .inl } When you hit a creature within the **:aoe-emn: Emanation** with an attack, you can use your **:rsc-r: Reaction**{ .rsc } to force that creature to make a Strength save. On a failed save, the creature takes an extra **2d6 :dmg-cold: Cold**{ .dmg-cold } damage and has the Prone condition.
 
-**Tundra**{ .inl } Whenever you activate the effect of your Storm Aura, you choose one creature you can see within the Emanation. That creature must succeed on a Strength save, or has its Speed reduced to 0 until the start of your next turn.
+**Tundra**{ .inl } Whenever you activate the effect of your Storm Aura, you choose one creature you can see within the **:aoe-emn: Emanation**. That creature must succeed on a Strength save, or has its **:rsc-spd: Speed** reduced to 0 until the start of your next turn.
 
 :material-book-arrow-up: Updated by *PerfectlyCircularSeal* 
 { .author }

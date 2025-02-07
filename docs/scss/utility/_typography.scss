@@ -107,7 +107,7 @@
 /*-------------------------------------------------------
     Indentation
 -------------------------------------------------------*/
-$indent: 18px;
+$indent: 25px;
 
 .indent {
     text-indent: convert.px2em($indent);
@@ -124,7 +124,7 @@ $indent: 18px;
 
 /* Used in conjuction with .inl */
 .idnt2 {
-    text-indent: convert.px2em(-$indent * 2);
+    text-indent: convert.px2em(-$indent * 1.5);
     padding-left: convert.px2em($indent);
 }
 
