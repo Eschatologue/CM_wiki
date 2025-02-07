@@ -19,6 +19,8 @@
 *[Lightly Obscured]: Sight-based checks has Disadvantage to see something in it.
 *[Heavily Obscured]: Sight-based checks auto-fails trying to see something in it.
 
+*[Difficult Terrain]: Every foot of movement in that space costs double.
+
 <!--- Actions --->
 
 <!---

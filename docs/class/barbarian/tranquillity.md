@@ -15,7 +15,7 @@ For Barbarians who walk the Path of Tranquillity, **:class-abl-rage: Rage**{ .em
 
 ### Level 3: Combat Superiority
 
-You have studied martial techniques to enhance your skill in battle. You learn Manoeuvre from the Fighter's Battle Master subclass that are fueled by special dice called Superiority Dice.
+You have studied martial techniques to enhance your skill in battle. You learn Manoeuvre from the Battle Master that are fueled by special dice called Superiority Dice.
 
 #### Manoeuvre
 
@@ -51,7 +51,7 @@ You gain one additional Superiority Die (Four total) and all your Superiority Di
 
 Your seething fury is unstopable. You gain the following benefits:
 
-**Freedom of Movement**{ .inl } While your **:class-abl-rage: Rage**{ .em } is active, your Movement is unaffected by Difficult Terrain, and spells and other magical effects can neither reduce your **:rsc-spd: Speed**{ .em } nor cause you to have the Paralyzed or Restrained conditions.
+**Freedom of Movement**{ .inl } While your **:class-abl-rage: Rage**{ .em } is active, your Movement is unaffected by Difficult Terrain and Your **:rsc-spd: Speed**{ .em } can't be reduced by spells or other magical effects. You also have **:dmg-imm: Immunity** to ^^Paralyzed^^ and ^^Restrained^^ condition while your **:class-abl-rage: Rage**{ .em } is active.
 
 **More Manoeuvre**{ .inl } You learn one additional Combat Manoeuvre of your choice.
 

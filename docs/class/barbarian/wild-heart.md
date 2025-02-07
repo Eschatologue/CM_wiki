@@ -24,17 +24,19 @@ Your Rage taps into the primal power of animals. Whenever you activate your **:c
 
 **Eagle**{ .inl } When you activate your **:class-abl-rage: Rage**{ .em }, you can take the **:rsc-a: Disengage**{ .rsc } and **:rsc-a: Dash**{ .rsc } actions as part of that **:rsc-b: Bonus Action**{ .rsc }. While your **:class-abl-rage: Rage**{ .em } is active, you can take a **:rsc-b: Bonus Action**{ .rsc } to take both of those actions.
 
-**Wolf**{ .inl } While your **:class-abl-rage: Rage**{ .em } is active, your allies have **:d20-adv: Advantage**{ .d20 } on melee attack rolls against any enemy of yours within 5 feet of you.
+**Wolf**{ .inl } While your **:class-abl-rage: Rage**{ .em } is active, your allies have **:d20-adv: Advantage**{ .d20 } on Melee attack rolls against any enemy of yours within 5 feet of you.
 
 ### Level 6: Aspect of the Wilds
 
 You gain one of the following options of your choice. Whenever you finish a **:rest-long: Long Rest**, you can change your choice.
 
-**Owl**{ .inl } You have Darkvision with a range of 60 feet. If you already have Darkvision, its range increases by 60 feet.
+**Owl**{ .inl } You have **:trt-drkvs: Darkvision** with a range of 60 feet. If you already have **:trt-drkvs: Darkvision**, its range increases by 60 feet.
 
-**Panther**{ .inl } You have a **Climb Speed** equal to your **:rsc-spd: Speed**{ .em }.
+**Panther**{ .inl } You have a **Climb Speed** equal to your **:rsc-spd: Speed**.
 
-**Salmon**{ .inl } You have **Swim Speed** equal to your **:rsc-spd: Speed**{ .em }.
+**Salmon**{ .inl } You have **Swim Speed** equal to your **:rsc-spd: Speed**.
+
+**Stallion^CM^**{ .inl } Your Movement is unaffected by Difficult Terrain
 
 ### Level 10: Nature Speaker 
 
@@ -44,7 +46,7 @@ You can cast the [:spell-lv5: Commune with Nature] spell, but only as a Ritual. 
 
 Whenever you activate your **:class-abl-rage: Rage**{ .em }, you gain one of the following options of your choice.
 
-**Falcon**{ .inl } While your **:class-abl-rage: Rage**{ .em } is active, you have a Fly Speed equal to your Speed, provided you aren't wearing any armour.
+**Falcon**{ .inl } While your **:class-abl-rage: Rage**{ .em } is active, you have a **Fly Speed** equal to your **:rsc-spd: Speed**, provided you aren't wearing any armour.
 
 **Lion**{ .inl } While your **:class-abl-rage: Rage**{ .em } is active, any of your enemies within 5 feet of you have **:d20-dis: Disadvantage**{ .d20 } on attack rolls against targets other than you or another Barbarian with this option active.
 

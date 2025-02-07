@@ -101,7 +101,7 @@ The descriptions of many spells and other features specify that they have an are
 
 --8<-- "docs/glossary.md:aoe-cylinder"
 
-### :aoe-emanation:{ .lg } Emanation
+###  :aoe-emn:{ .lg } Emanation
 
 --8<-- "docs/glossary.md:aoe-emanation"
 
