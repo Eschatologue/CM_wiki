@@ -17,27 +17,25 @@ To give more options for martial classess, the folowing homebrew rules are imple
 
 ### Flexible Weapon Mastery  
 
-This rule reinstates a mechanic from *Unearthed Arcana 2023 Playtest 7*, allowing classes with the Weapon Mastery feature to change a weapon's Mastery property.  
+This rule reinstates a mechanic from *UA7 2023*, allowing classes with the Weapon Mastery feature to change a weapon's Mastery property.  
 
 After a **Long Rest**, you can replace the Mastery property of any weapon you are using with another eligible property. For example, you could change a Longsword’s [Sap](#sap) property to [Flex](#flex).  
 
-These changes only affect the character who makes them. If a Barbarian replaces a Glaive’s Graze property with Cleave, other characters using the same Glaive still use its default Graze property.  
+These changes only affect the character who makes them. If a Barbarian replaces a Glaive’s [Graze](#graze) property with [Cleave](#cleave), other characters using the same Glaive still use its default [Graze](#graze) property.  
 
 ### More Mastery on One Weapon
 
-This homebrew rule reinstates a mechanic initially introduced in *Unearthed Arcana 2023 Playtest 5*, which allowed Fighters to benefit from multiple Mastery properties for one weapon. Now, its given to every classes that has Weapon Mastery feature.
+This homebrew rule reinstates a mechanic initially introduced in *UA5 2023*, which allowed Fighters to benefit from multiple Mastery properties for one weapon. Now, its given to every classes that has Weapon Mastery feature.
 
 When selecting weapons for Weapon Mastery, you can instead assign an additional Mastery property to a weapon you already chose. Before making an attack, you decide which of that weapon’s Mastery properties to use, as long as it meets the property’s requirements.  
 
 For example, a Level 1 Barbarian could choose to apply either [Cleave](#cleave) or [Graze](#graze) when attacking with a Greataxe, instead of selecting a second weapon for Weapon Mastery. Likewise, a Level 1 Rogue could choose either [Nick](#nick) or [Slow](#slow) for a Dagger.  
 
----
-
-This keeps the intent intact while making it clearer and more concise. Let me know if you'd like any tweaks!
-
 ## PHB'24 Mastery property
 
 These Mastery property are available in the PHB'24.
+
+---
 
 ### Cleave { .noborder }
 
@@ -114,6 +112,8 @@ If you hit a creature with this weapon and deal damage to the creature, you have
 ## Homebrew Mastery property
 
 These Mastery property are homebrew.
+
+---
 
 ### Brace { .noborder }
 

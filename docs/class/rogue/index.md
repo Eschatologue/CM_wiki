@@ -114,7 +114,7 @@ Whenever you finish a Long Rest, you can change the kinds of weapons you chose. 
 
 !!! tip "Weapon Mastery: Expanded"
     
-    In Crown & Misery setting, the Weapon Mastery feature are expanded to allow more flexibility, which can be found [here](../../equipment/weapon/mastery.md).
+    In Crown & Misery setting, the Weapon Mastery feature are expanded to allow more flexibility, More details can be found in the [Weapon Mastery](../../equipment/weapon/mastery.md) section..
 
 --8<-- "includes/snippets/item-mastery.md"
 

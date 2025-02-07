@@ -137,7 +137,7 @@ When you reach certain Barbarian levels, you gain the ability to use the mastery
 
 !!! tip "Weapon Mastery: Expanded"
     
-    In Crown & Misery setting, the Weapon Mastery feature are expanded to allow more flexibility, which can be found [here](../../equipment/weapon/mastery.md).
+    In Crown & Misery setting, the Weapon Mastery feature are expanded to allow more flexibility, More details can be found in the [Weapon Mastery](../../equipment/weapon/mastery.md) section..
 
 ### Level 2: Danger Sense
 
