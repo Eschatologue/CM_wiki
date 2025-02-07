@@ -256,23 +256,23 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
     Indentation
 -------------------------------------------------------*/
 .indent {
-  text-indent: 1.125em;
+  text-indent: 1.5625em;
 }
 @media screen and (max-width: 720px) {
   .indent {
-    text-indent: 0.5625em;
+    text-indent: 0.78125em;
   }
 }
 
 .idnt {
-  text-indent: -1.125em;
-  padding-left: 1.125em;
+  text-indent: -1.5625em;
+  padding-left: 1.5625em;
 }
 
 /* Used in conjuction with .inl */
 .idnt2 {
-  text-indent: -2.25em;
-  padding-left: 1.125em;
+  text-indent: -2.34375em;
+  padding-left: 1.5625em;
 }
 
 /*-------------------------------------------------------
