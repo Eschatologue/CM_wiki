@@ -64,7 +64,7 @@ When you use your Stone's Aegis to protect an ally, you can choose up to three c
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 
-[^1]: *Forced Movement* occurs when a creature is moved by an external force, such as a spell or ability, without using its own movement, Actions, or Reactions. Common examples include being pushed, pulled, or moved by effects like *Thunderwave* or a Battle Master's *Pushing Attack*. Forced movement does **not** provoke Opportunity Attacks and is not limited by a creature's movement speed.
+[^1]: *Forced Movement* occurs when a creature is moved by an external force, such as a spell or ability, without using its own Movement, Actions, or Reactions. Common examples include being pushed, pulled, or moved by effects like *Thunderwave* or a Battle Master's *Pushing Attack*. Forced Movement does **not** provoke Opportunity Attacks and is not limited by a creature's Movement speed.
 
 :material-book-arrow-up: Updated by *Eschatologue*
 { .author }

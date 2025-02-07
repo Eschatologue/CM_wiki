@@ -10,7 +10,7 @@ Move in HARMONY with the Cosmos
 
 > *Move in HARMONY with the Cosmos*
 
-Bards of the College of Dance know that the Words of Creation can't be contained within speech or even song; they are uttered by the movements of celestial bodies and flow through the motions of even the smallest creatures. To these Bards, dance is art freed from the constraints of a single point in space and time; it is meaning unconfined by narrow definitions of words and structures of grammar. The College of Dance practices a way of being in harmony with the ever-whirling cosmos, emphasizing agility, speed, and grace.
+Bards of the College of Dance know that the Words of Creation can't be contained within speech or even song; they are uttered by the Movements of celestial bodies and flow through the motions of even the smallest creatures. To these Bards, dance is art freed from the constraints of a single point in space and time; it is meaning unconfined by narrow definitions of words and structures of grammar. The College of Dance practices a way of being in harmony with the ever-whirling cosmos, emphasizing agility, speed, and grace.
 
 ### Level 3: Dazzling Footwork
 
@@ -28,7 +28,7 @@ While you aren't wearing armour or wielding a Shield, you gain the following ben
 
 When an enemy you can see ends its turn within 5 feet of you, you can use your **:rsc-r: Reaction**{ .rsc } and expend one use of your Bardic Inspiration to move up to half your Speed. Then one ally of your choice within 30 feet of you can also move up to half their Speed using their Reaction.
 
-None of this feature's movement provokes Opportunity Attacks.
+None of this feature's Movement provokes Opportunity Attacks.
 
 ### Level 6: Tandem Footwork
 

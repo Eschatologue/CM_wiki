@@ -59,7 +59,7 @@ For the purpose of the rules, an object is a discrete inanimate item like a wind
 
 ### Time-Limited Object Interaction
 
-When time is short, such as in combat, interractions with objects are limited: one free interaction per turn. That iteraction must occur during a creature's movement or action. Any additional interaction require the Utilise action, as explained in Combat in later section.
+When time is short, such as in combat, interractions with objects are limited: one free interaction per turn. That iteraction must occur during a creature's Movement or action. Any additional interaction require the Utilise action, as explained in Combat in later section.
 
 ### Finding Hidden Objectts
 

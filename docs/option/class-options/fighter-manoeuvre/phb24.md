@@ -14,7 +14,7 @@ When you make a Dexterity (Stealth) check or an **:d20-inv: Initiative**{.d20 } 
 
 ### Bait and Switch
 
-When you're within 5 feet of a creature on your turn, you can expend **one** Superiority Die and switch places with that creature, provided you spend at least 5 feet of movement and the creature is willing and doesn't have the Incapacitated condition. This movement doesn't provoke Opportunity Attacks. Roll the Superiority Die. Until the start of your next turn, you or the other creature (your choice) gains a bonus to AC equal to the number rolled.
+When you're within 5 feet of a creature on your turn, you can expend **one** Superiority Die and switch places with that creature, provided you spend at least 5 feet of Movement and the creature is willing and doesn't have the Incapacitated condition. This Movement doesn't provoke Opportunity Attacks. Roll the Superiority Die. Until the start of your next turn, you or the other creature (your choice) gains a bonus to AC equal to the number rolled.
 
 ---
 

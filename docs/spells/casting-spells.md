@@ -140,7 +140,7 @@ A Verbal component is the chanting of esoteric words that sound like nonsense to
 
 ### Somatic (S)
 
-A Somatic component is a forceful gesticulation or an intricate set of gestures. A spellcaster must use at least one of their hands to perform these movements.
+A Somatic component is a forceful gesticulation or an intricate set of gestures. A spellcaster must use at least one of their hands to perform these Movements.
 
 ### Material (M)
 

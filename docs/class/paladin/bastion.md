@@ -28,7 +28,7 @@ As **:rsc-b: Bonus Action**{ .rsc }, you can expend one use of your **:ui-chdiv-
 - A fixed point on the ground, or
 - A creature (including yourself), which causes the zone to move with them.
 
-This protective zone lasts for 1 minute. While active, each time a creature within 15 feet of the marked point takes :rsc-a: Action, **:rsc-b: Bonus Action**{ .rsc }, :rsc-r: Reaction, or moves, you can make a Ranged weapon attack against them using a Heavy Archer weapon (if within normal range). This attack doesn't require any action and can be made up to a number of times equal to your :abl-cha: Charisma modifier (minimum of 1). You cannot take any :rsc-r: Reactions until the start of your next turn after using this attack. 
+This protective zone lasts for 1 minute. While active, each time a creature within 15 feet of the marked point takes **:rsc-a: Action**, **:rsc-b: Bonus Action**{ .rsc }, **:rsc-r: Reaction**, or **moves**, you can make a Ranged weapon attack against them using a Heavy Archer weapon (if within normal range). This attack doesn't require any action and can be made up to a number of times equal to your :abl-cha: Charisma modifier (minimum of 1). You cannot take any :rsc-r: Reactions until the start of your next turn after using this attack. 
 
 This protective zone ends early if you either if you sse up all the allowed attacks, or when you have the ^^Incapacitated^^ condition.
 
@@ -83,7 +83,7 @@ You become an unyielding bulwark, turning aside threats and protecting those wit
 
 **Protection**{ .inl } No creature can make an attack with **:d20-adv: Advantage**{ .d20 } against you or your allies that is within your Aura of Protection.
 
-[^1]: *Forced Movement* occurs when a creature is moved by an external force, such as a spell or ability, without using its own movement, Actions, or Reactions. Common examples include being pushed, pulled, or moved by effects like *Thunderwave* or a Battle Master's *Pushing Attack*. Forced movement does **not** provoke Opportunity Attacks and is not limited by a creature's movement speed.
+[^1]: *Forced Movement* occurs when a creature is moved by an external force, such as a spell or ability, without using its own Movement, Actions, or Reactions. Common examples include being pushed, pulled, or moved by effects like *Thunderwave* or a Battle Master's *Pushing Attack*. Forced Movement does **not** provoke Opportunity Attacks and is not limited by a creature's Movement speed.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 

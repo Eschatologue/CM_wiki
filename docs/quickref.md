@@ -126,11 +126,11 @@ icon: material/crown-circle
 
         - #### **:action-dash: Dash**{ .inl }
 
-            For the rest of the turn, give yourself extra movement equal to your **:rsc-spd: Speed**.
+            For the rest of the turn, give yourself extra Movement equal to your **:rsc-spd: Speed**.
 
         - #### **:material-arrange-send-to-back: Disengage**{ .inl } 
     
-            Your movement doesn't provoke Opportunity Attack for the rest of the turn.
+            Your Movement doesn't provoke Opportunity Attack for the rest of the turn.
 
         - #### **:material-arrow-expand: Dodge**{ .inl } 
 

@@ -8,7 +8,7 @@ This page contains a list of all Combat Manoeuvre that is Homebrew
 
 ### Arresting Strike
 
-When you hit a creature with an attack roll, you can expend **one** Superiority Die to attempt to hinder the target's movement. Add the Superiority Die to the attack's damage roll. The target must succeed on a **:d20-save: Dexterity saving throw** or it's **:rsc-spd: Speed**{ .rsc } is halved until the start of your next turn.
+When you hit a creature with an attack roll, you can expend **one** Superiority Die to attempt to hinder the target's Movement. Add the Superiority Die to the attack's damage roll. The target must succeed on a **:d20-save: Dexterity saving throw** or it's **:rsc-spd: Speed**{ .rsc } is halved until the start of your next turn.
 
 ---
 

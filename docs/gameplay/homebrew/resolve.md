@@ -150,7 +150,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 
 - You immediately restore Hit Points equal to 1d10 + your Character level.
 - Your gain +1 bonus to your AC and +2 to any :d20-save: **Saving Throw** you make.
-- You gain bonus of 10 ft. movement speed.
+- You gain bonus of 10 ft. Movement speed.
 
 ## Affliction
 
@@ -190,7 +190,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
     
     | :die-d10:**d10** | **BEHAVIOUR** |
     | :-: | --- |
-    | 1 | You uses all your movement to move in a random direction. To determine the direction, roll a d8 and assign a direction to each die face. You cant take an **:rsc-a: Action**{ .rsc } this turn. |
+    | 1 | You uses all your Movement to move in a random direction. To determine the direction, roll a d8 and assign a direction to each die face. You cant take an **:rsc-a: Action**{ .rsc } this turn. |
     | 2-6 | You don't move or take actions this turn. |
     | 7-8 | You uses your **:rsc-a: Action**{ .rsc } to make a melee attack against a randomly determined creature within its reach. If there is no creature within its reach, you does nothing this turn. |
     | 9-10 | You can act and move normally. |

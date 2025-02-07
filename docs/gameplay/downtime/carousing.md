@@ -6,12 +6,6 @@ hide:
 
 # Downtime Activity: Carousing
 
-!!! tip ""
-
-    *noun*
-
-    :   the activity of drinking alcohol and enjoying oneself with others in a noisy, lively way.
-
 Carousing is a default downtime activity for many characters. Between adventures, who doesn't want to relax with a few drinks and a group of friends at a tavern?
 
 ## Resources

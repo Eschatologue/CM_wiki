@@ -276,7 +276,7 @@ A character sheet is a paper or digital record that you use to track your charac
 
 ## Climbing
 
-While you're climbing, each foot of movement costs 1 extra foot 2 extra feet in difficult terrain. You ignore this extra cost if you have a Climb Speed and use it to climb. At the DM's option, climbing a slippery surface or one with few handholds might require a successful DC 15 Strength (Athletics) check.
+While you're climbing, each foot of Movement costs 1 extra foot 2 extra feet in difficult terrain. You ignore this extra cost if you have a Climb Speed and use it to climb. At the DM's option, climbing a slippery surface or one with few handholds might require a successful DC 15 Strength (Athletics) check.
 
 ---
 
@@ -319,7 +319,7 @@ Cover provides a degree of protection to a target behind it. There are three deg
 
 ## Crawling
 
-While you're crawling, each foot of movement costs 1 extra foot (2 extra feet in difficult terrain).
+While you're crawling, each foot of Movement costs 1 extra foot (2 extra feet in difficult terrain).
 
 ---
 
@@ -461,7 +461,7 @@ If you take damage at 0 HP, it counts as a failed Death Save or two failures if 
 
 ## Difficult Terrain
 
-If a space is *Difficult Terrain*, every foot of movement in that space costs 1 extra foot. For example, moving 5 feet through Difficult Terrain costs 10 feet of movement. Difficult Terrain isn't cumulative; either a space is Difficult Terrain or it isn't.
+If a space is *Difficult Terrain*, every foot of Movement in that space costs 1 extra foot. For example, moving 5 feet through Difficult Terrain costs 10 feet of Movement. Difficult Terrain isn't cumulative; either a space is Difficult Terrain or it isn't.
 
 A space is Difficult Terrain if the space contains any of the following or something similar:
 
@@ -528,9 +528,9 @@ A variety of effects allow a creature to fly. While flying, you fall if you have
 
 <!-- --8<-- [start:forced_movement] -->
 
-*Forced Movement* occurs when a creature is moved by an external force, such as a spell or ability, without using its own movement, Actions, or Reactions. Common examples include being pushed, pulled, or moved by effects like *Thunderwave* or a Battle Master's *Pushing Attack*. Forced movement does **not** provoke Opportunity Attacks and is not limited by a creature's movement speed.
+*Forced Movement* occurs when a creature is moved by an external force, such as a spell or ability, without using its own Movement, Actions, or Reactions. Common examples include being pushed, pulled, or moved by effects like *Thunderwave* or a Battle Master's *Pushing Attack*. Forced Movement does **not** provoke Opportunity Attacks and is not limited by a creature's Movement speed.
 
-If forced into hazardous terrain (e.g. pits or lava), the creature suffers any consequences. The movement usually stops if the creature hits an obstacle or reaches an edge, unless otherwise specified. Forced movement generally requires the target to end in an unoccupied space.
+If forced into hazardous terrain (e.g. pits or lava), the creature suffers any consequences. The Movement usually stops if the creature hits an obstacle or reaches an edge, unless otherwise specified. Forced Movement generally requires the target to end in an unoccupied space.
 
 <!-- --8<-- [end:forced_movement] -->
 
@@ -716,7 +716,7 @@ When you jump, you make either a Long Jump (horizontal) or a High Jump (vertical
 
 ### Long Jump
 
-When you make a Long Jump, you leap horizontally a number of feet up to your Strength score if you move at least 10 feet immediately before the jump. When you make a standing Long Jump, you can leap only half that distance. Either way, each foot you jump costs a foot of movement.
+When you make a Long Jump, you leap horizontally a number of feet up to your Strength score if you move at least 10 feet immediately before the jump. When you make a standing Long Jump, you can leap only half that distance. Either way, each foot you jump costs a foot of Movement.
 
 If you land in Difficult Terrain, you must succeed on a DC 10 Dexterity (Acrobatics) check or have the Prone condition.
 
@@ -724,7 +724,7 @@ This Long Jump rule assumes that the height of the jump doesn't matter, such as 
 
 ### High Jump
 
-When you make a High Jump, you leap into the air a number of feet equal to 3 plus your Strength modifier (minimum of 0 feet) if you move at least 10 feet on foot immediately before the jump. When you make a standing High Jump, you can jump only half that distance. Either way, each foot of the jump costs a foot of movement.
+When you make a High Jump, you leap into the air a number of feet equal to 3 plus your Strength modifier (minimum of 0 feet) if you move at least 10 feet on foot immediately before the jump. When you make a standing High Jump, you can jump only half that distance. Either way, each foot of the jump costs a foot of Movement.
 
 You can extend your arms half your height above yourself during the jump. Thus, you can reach a distance equal to the height of the jump plus 1½ times your height.
 
@@ -989,7 +989,7 @@ A creature that has a Burrow Speed can use that speed to move through sand, eart
 
 ### Climb Speed
 
-A Climb Speed can be used in place of Speed to traverse a vertical surface without expending the extra movement normally associated with climbing.
+A Climb Speed can be used in place of Speed to traverse a vertical surface without expending the extra Movement normally associated with climbing.
 
 ### Fly Speed
 
@@ -997,7 +997,7 @@ A Fly Speed can be used to travel through the air. While you have a Fly Speed, y
 
 ### Swim Speed
 
-A Swim Speed can be used to swim without expending the extra movement normally associated with swimming.
+A Swim Speed can be used to swim without expending the extra Movement normally associated with swimming.
 
 ---
 
@@ -1073,7 +1073,7 @@ A stat block contains the game slatistics of a monster. Each stat block includes
 
 ## Swimming
 
-While you're swimming, each foot of movement costs 1 extra foot (2 extra feet in difficult terrain). You ignore this extra cost if you have a Swim Speed and use it to swim. At the DM's option, moving any distance in rough water might require a successful DC 15 Strength (Athletics) check.
+While you're swimming, each foot of Movement costs 1 extra foot (2 extra feet in difficult terrain). You ignore this extra cost if you have a Swim Speed and use it to swim. At the DM's option, moving any distance in rough water might require a successful DC 15 Strength (Athletics) check.
 
 ---
 
@@ -1095,7 +1095,7 @@ A creature without telepathy can receive telepathic messages but can't initiate 
 
 ## Teleportation
 
-Teleportation is a special kind of magical transportation. If you teleport, you disappear and reappear elsewhere instantly, without moving through the intervening space. This transportation doesn't expend movement unless a rule tells you otherwise, and teleportation never provokes Opportunity Attacks.
+Teleportation is a special kind of magical transportation. If you teleport, you disappear and reappear elsewhere instantly, without moving through the intervening space. This transportation doesn't expend Movement unless a rule tells you otherwise, and teleportation never provokes Opportunity Attacks.
 
 When you teleport, all the equipment you're wearing and carrying teleports with you. If you're touching another creature when you teleport, that creature doesn't teleport with you unless the teleportation effect says otherwise.
 

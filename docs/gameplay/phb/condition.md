@@ -78,7 +78,7 @@ While you have the **Grappled** condition, you experience the following effects.
 
 **Attacks Affected**{ .inl } You have **:d20-dis: Disadvantage**{ .d20 } on attack rolls against any target other than the grappler.
 
-**Movable**{ .inl } The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
+**Movable**{ .inl } The grappler can drag or carry you when it moves, but every foot of Movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
 
 ??? info "Grappling"
 
@@ -160,7 +160,7 @@ While you have the **Poisoned** condition, you experience the following effect.
 
 While you have the **Prone** condition, you experience the following effects.
 
-**Restricted Movement**{ .inl } Your only movement options are to crawl or to spend an amount of movement equal to half your **:rsc-spd: Speed**{ .em } (round down) to right yourself and thereby end the condition. If your **:rsc-spd: Speed**{ .em } is 0, you can't right yourself.
+**Restricted Movement**{ .inl } Your only Movement options are to crawl or to spend an amount of Movement equal to half your **:rsc-spd: Speed**{ .em } (round down) to right yourself and thereby end the condition. If your **:rsc-spd: Speed**{ .em } is 0, you can't right yourself.
 
 **Attacks Affected**{ .inl } You have **:d20-dis: Disadvantage**{ .d20 } on attack rolls. An attack roll against you has **:d20-adv: Advantage**{ .d20 } if the attacker is within 5 feet of you. Otherwise, that attack roll has Disadvantage.
 

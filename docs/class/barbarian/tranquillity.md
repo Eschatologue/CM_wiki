@@ -51,7 +51,7 @@ You gain one additional Superiority Die (Four total) and all your Superiority Di
 
 Your seething fury is unstopable. You gain the following benefits:
 
-**Freedom of Movement**{ .inl } While your **:class-abl-rage: Rage**{ .em } is active, your movement is unaffected by Difficult Terrain, and spells and other magical effects can neither reduce your **:rsc-spd: Speed**{ .em } nor cause you to have the Paralyzed or Restrained conditions.
+**Freedom of Movement**{ .inl } While your **:class-abl-rage: Rage**{ .em } is active, your Movement is unaffected by Difficult Terrain, and spells and other magical effects can neither reduce your **:rsc-spd: Speed**{ .em } nor cause you to have the Paralyzed or Restrained conditions.
 
 **More Manoeuvre**{ .inl } You learn one additional Combat Manoeuvre of your choice.
 

@@ -49,7 +49,7 @@ You can unleash the aberrant truth hidden within yourself. As a **:rsc-b: Bonus 
 
 **See the Invisible**{ .inl } You can see any invisible creature within 60 feet of you, provided it isn't behind total cover. Your eyes also turn black or become writhing sensory tendrils.
 
-**Wormlike Movement**{ .inl } Your body, along with any equipment you are wearing or carrying, becomes slimy and pliable. You can move through any space as narrow as 1 inch without squeezing, and you can spend 5 feet of movement to escape from nonmagical restraints or the Grappled condition.
+**Wormlike Movement**{ .inl } Your body, along with any equipment you are wearing or carrying, becomes slimy and pliable. You can move through any space as narrow as 1 inch without squeezing, and you can spend 5 feet of Movement to escape from nonmagical restraints or the Grappled condition.
 
 ### Level 18: Warping Implosion
 

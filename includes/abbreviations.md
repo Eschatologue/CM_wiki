@@ -24,8 +24,8 @@
 <!---
 
 *[Attack]: Attack with a weapon or an Unarmed Strike.
-*[Dash]: For the rest of the turn, give yourself extra movement equal to your <strong>Speed</strong>.
-*[Disengage]: Your movement doesn't provoke Opportunity Attack for the rest of the turn.
+*[Dash]: For the rest of the turn, give yourself extra Movement equal to your <strong>Speed</strong>.
+*[Disengage]: Your Movement doesn't provoke Opportunity Attack for the rest of the turn.
 *[Dodge]: Until the start of your next turn, attack rolls against you have <strong>Disadvantage</strong>, and you make Dexterity saving throws with <strong>Advantage</strong>. You lose this benefit if you have the Incapacitated condition or if your <strong>Speed</strong> is 0.
 *[Help]: Help another creature's ability check or attack roll, or administer first aid.
 *[Hide]: Make a Dexterity (Stealth) check.

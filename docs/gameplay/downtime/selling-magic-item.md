@@ -10,7 +10,7 @@ Selling a magic item is by no means an easy task. Con artists and thieves are al
 
 ## Resources
 
-A character can find a buyer for one magic item by spending one workweek and 25 gp, which is used to spread word of the desired sale. A character must pick one item at a time to sell.
+A character can find a buyer for one magic item by spending one workweek and 250 SP, which is used to spread word of the desired sale. A character must pick one item at a time to sell.
 
 ## Resolution
 
@@ -20,11 +20,11 @@ A character who wants to sell an item must make a Charisma (Persuasion) check to
 
 | Rarity | Base Price* |
 |:---:|:---|
-| Common | 100 gp |
-| Uncommon | 400 gp |
-| Rare | 4,000 gp |
-| Very rare | 40,000 gp |
-| Legendary | 200,000 gp |
+| Common | 1,000 SP |
+| Uncommon | 4,000 SP |
+| Rare | 40,000 SP |
+| Very rare | 400,000 SP |
+| Legendary | 2,000,000 SP |
 
 *Halved for a consumable item like a potion or scroll 
 

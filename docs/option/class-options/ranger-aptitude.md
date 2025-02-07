@@ -160,7 +160,7 @@ Once per turn, when you hit the target of your [:spell-lv1: Hunter's Mark] with 
 *The path is yours to forge—no obstacle shall hinder your journey.*  
 { .quote }
 
-These aptitudes belong in the Strider category, focusing on mobility, freedom of movement, and overcoming terrain-based hinderance.
+These aptitudes belong in the Strider category, focusing on mobility, freedom of Movement, and overcoming terrain-based hinderance.
 
 ### Strider I
 

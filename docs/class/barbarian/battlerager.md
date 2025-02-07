@@ -39,7 +39,7 @@ When a creature hits you with a melee attack, you can use your **:rsc-r: Reactio
 
 ### Level 10: Death Roll
 
-While your **:class-abl-rage: Rage**{ .em } is active and you have one or more creatures Grappled, you can use your **:rsc-b: Bonus Action**{ .rsc } to perform a Death Roll. You move yourself to an unoccupied space you can see within 10 feet of you, dragging the Grappled creatures along with you. This movement doesn't provoke Opportunity Attacks. During this movement, you violently spin and slam your Grappled targets around you, dealing 2d8 :dmg-prcg: Piercing damage to each target. The damage increases by 1d8 at level 15 (3d8) and at level 20 (4d8).
+While your **:class-abl-rage: Rage**{ .em } is active and you have one or more creatures Grappled, you can use your **:rsc-b: Bonus Action**{ .rsc } to perform a Death Roll. You move yourself to an unoccupied space you can see within 10 feet of you, dragging the Grappled creatures along with you. This Movement doesn't provoke Opportunity Attacks. During this Movement, you violently spin and slam your Grappled targets around you, dealing 2d8 :dmg-prcg: Piercing damage to each target. The damage increases by 1d8 at level 15 (3d8) and at level 20 (4d8).
 
 ### Level 14: Ravager's Might
 

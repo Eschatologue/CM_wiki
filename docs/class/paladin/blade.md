@@ -38,8 +38,7 @@ If a Manoeuvre requires a saving throw, the DC equals 8 plus your Strength or De
 
 ### Level 3: Sacred Duel
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can expend one use of your **:ui-chdiv-pal: Channel Divinity** to begin a Sacred Duel. Choose one creature that you can see within 30 feet, it must succeed a **:d20-save: Wisdom saving throw**{ .d20 } or it is engaged in a Sacred Duel, designating you and the target as Duelists.
-
+As a **:rsc-b: Bonus Action**{ .rsc }, you can expend one use of your **:ui-chdiv-pal: Channel Divinity** to begin a Sacred Duel. Choose one creature that you can see within 30 feet, it must make a a **:d20-save: Wisdom saving throw**{ .d20 }. On a failed save, it is engaged in a Sacred Duel, designating you and the target as Duelists. On successful save, your use of **:ui-chdiv-pal: Channel Divinity** is not expended.
 Duelists are under the following effects:
 
 **Resistance**{ .inl } Duelists have **:dmg-res: Resistance**{ .em } to all damage from creatures, except for the other Duelist. 

@@ -75,9 +75,9 @@ Casting a spell is, therefore, not necessarily an **:rsc-a: Action**{ .rsc }. Mo
 
 **Cost:** **:rsc-a: Action**{ .rsc }
 
-When you take the **Dash**{ .rsc } action, you gain extra movement for the current turn. The increase equals your **:rsc-spd: Speed**{ .em }, after applying any modifiers. With a speed of 30 feet, for example, you can move up to 60 feet on your turn if you Dash.
+When you take the **Dash**{ .rsc } action, you gain extra Movement for the current turn. The increase equals your **:rsc-spd: Speed**{ .em }, after applying any modifiers. With a speed of 30 feet, for example, you can move up to 60 feet on your turn if you Dash.
 
-Any increase or decrease to your **:rsc-spd: Speed**{ .em } changes this additional movement by the same amount. If your **:rsc-spd: Speed**{ .em } of 30 feet is reduced to 15 feet, for instance, you can move up to 30 feet this turn if you Dash.
+Any increase or decrease to your **:rsc-spd: Speed**{ .em } changes this additional Movement by the same amount. If your **:rsc-spd: Speed**{ .em } of 30 feet is reduced to 15 feet, for instance, you can move up to 30 feet this turn if you Dash.
 
 ---
 
@@ -85,7 +85,7 @@ Any increase or decrease to your **:rsc-spd: Speed**{ .em } changes this additio
 
 **Cost:** **:rsc-a: Action**{ .rsc }
 
-If you take the **Disengage**{ .rsc } action, your movement doesn't provoke Opportunity Attacks for the rest of the turn.
+If you take the **Disengage**{ .rsc } action, your Movement doesn't provoke Opportunity Attacks for the rest of the turn.
 
 ---
 
@@ -149,7 +149,7 @@ If you cast a spell that has a casting time of 1 minute or longer, you must take
 
 In a fight, everyone is constantly watching for enemies to drop their guard. You can rarely move heedlessly past your foes without putting yourself in danger; doing so provokes an **Opportunity Attack** (also often referred to as 'Attack of Opportunity').
 
-You can make an **:rsc-r: Opportunity Attack**{ .em } when a hostile creature that you can see moves out of your reach. To make the Opportunity Attack, you use your **:rsc-r: Reaction**{ .rsc } to make one melee attack against the provoking creature. The attack interrupts the provoking creature's movement, occurring right before the creature leaves your reach.
+You can make an **:rsc-r: Opportunity Attack**{ .em } when a hostile creature that you can see moves out of your reach. To make the Opportunity Attack, you use your **:rsc-r: Reaction**{ .rsc } to make one melee attack against the provoking creature. The attack interrupts the provoking creature's Movement, occurring right before the creature leaves your reach.
 
 ---
 

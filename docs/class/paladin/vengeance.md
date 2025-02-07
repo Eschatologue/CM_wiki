@@ -38,7 +38,7 @@ If the creature drops to 0 Hit Points before the vow ends, you can transfer the 
 
 ### Level 7: Relentless Avenger
 
-Your supernatural focus helps you close off a foe's retreat. When you hit a creature with an Opportunity Attack, you can reduce the creature's Speed to 0, and you can then move up to half your **:rsc-spd: Speed**{ .em } as part of the same Reaction. This movement doesn't provoke Opportunity Attacks.
+Your supernatural focus helps you close off a foe's retreat. When you hit a creature with an Opportunity Attack, you can reduce the creature's Speed to 0, and you can then move up to half your **:rsc-spd: Speed**{ .em } as part of the same Reaction. This Movement doesn't provoke Opportunity Attacks.
 
 ### Level 15: Soul Of Vengeance
 

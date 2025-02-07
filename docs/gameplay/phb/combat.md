@@ -76,7 +76,7 @@ Combat ends when one side or the other is defeated, which can mean the creatures
 
 On your turn, tou can move a distance equal to yout Speed or less. Or you can decide not to move.
 
-Your movement can include Climbing, Crawling, Jumping, and Swimming. These different modes of movement can be combined with your regular movement, or they can constitute your entire move.
+Your Movement can include Climbing, Crawling, Jumping, and Swimming. These different modes of Movement can be combined with your regular Movement, or they can constitute your entire move.
 
 However you're moving with your Speed, you deduct the distance of each part of your move from it until it is used up or until you are done moving, whichever comes first.
 
@@ -88,7 +88,7 @@ Playing on a grid follows these rules:
 
 #### Squares
 
-On a grid, each square represents 5 feet. A character with 30 feet of movement speed can move up to 6 squares per turn.
+On a grid, each square represents 5 feet. A character with 30 feet of Movement speed can move up to 6 squares per turn.
 
 #### Speed
 
@@ -96,11 +96,11 @@ Rather than moving foot by foot, move square by square on the Grid using your **
 
 #### Entering a Square
 
-To enter a square, you must have enough movement left to pay for entering. It cost 1 square (5 feet) of movement to enter an unoccupied square that's adjacent to your space. A square of Difficult Terrain costs 2 squares to enter (10 feet). Other effects might make a square cost even more.
+To enter a square, you must have enough Movement left to pay for entering. It cost 1 square (5 feet) of Movement to enter an unoccupied square that's adjacent to your space. A square of Difficult Terrain costs 2 squares to enter (10 feet). Other effects might make a square cost even more.
 
 #### Corners
 
-Diagonal movement can't cross the corner of a wall, a large tree, or another terrain feature that fills the space.
+Diagonal Movement can't cross the corner of a wall, a large tree, or another terrain feature that fills the space.
 
 #### Ranges
 
@@ -110,11 +110,11 @@ To determine the range on a grid between two things—whether creatures or objec
 
 Combatants are often slowed down by Difficult Terrain; Low furniture, rubble, undergrowth, steep stairs, snow, and shallow bogs are examples of Difficult Terrain.
 
-Every foot of movement in Difficult Terrain costs 1 extra foot, even if multiple things in a space count as Difficult terrain
+Every foot of Movement in Difficult Terrain costs 1 extra foot, even if multiple things in a space count as Difficult terrain
 
 ### Breaking Up Your Move
 
-You can break up your move, using some of its movement before and after any action, Bonus Action, or Reaction you take on the same turn. For example, if you have a 
+You can break up your move, using some of its Movement before and after any action, Bonus Action, or Reaction you take on the same turn. For example, if you have a 
 Speed of 30 feet, you could go 10 feet, take an action, and then go 20 feet.
 
 ### Dropping Prone
@@ -198,7 +198,7 @@ A creature has a 5-foot reach and can thus attack targets within 5 feet when mak
 
 Combatants watch for enemies to drop their guard. If you move heedlessly past your foes, you put yourself in danger by provoking an Opportunity Attack.
 
-**Avoiding Opportunity Attack**{ .inl } You can avoid provoking an Opportunity Attack by taking the Disengage action. You also don't provoke an Opportunity Attack when you Teleport or when you are moved without using your movement, action, Bonus Action, or Reaction. For example, you don't provoke an Opportunity Attack if an explosion hurls you out of a foe's reach or if you fall past an enemy.
+**Avoiding Opportunity Attack**{ .inl } You can avoid provoking an Opportunity Attack by taking the Disengage action. You also don't provoke an Opportunity Attack when you Teleport or when you are moved without using your Movement, action, Bonus Action, or Reaction. For example, you don't provoke an Opportunity Attack if an explosion hurls you out of a foe's reach or if you fall past an enemy.
 
 **Making an Opportunity Attack**{ .inl } You can make an Opportunity Attack when a creature that you can see leaves your reach. To make the attack, take a **:rsc-r: Reaction**{ .rsc } to make one melee attack with a weapon or an **:rsc-a: Unarmed Strike**{ .rsc } against that creature. The attack occurs right before it leaves your reach.
 
@@ -208,7 +208,7 @@ A willing creature that is at least one size larger than a rider and that has an
 
 ### Mounting and Dismounting
 
-During your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of movement equal to half your **:rsc-spd: Speed**{ .em } (round down). For example, if your **:rsc-spd: Speed**{ .em } is 30 feet, you spend 15 feet of movement to mount a horse.
+During your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of Movement equal to half your **:rsc-spd: Speed**{ .em } (round down). For example, if your **:rsc-spd: Speed**{ .em } is 30 feet, you spend 15 feet of Movement to mount a horse.
 
 ### Controlling a Mount
 

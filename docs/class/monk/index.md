@@ -176,7 +176,7 @@ You don't benefit from this feature if you have the ^^Incapacitated^^ condition.
 
 ### Level 9: Acrobatic Movement
 
-While you aren't wearing armour or wielding a Shield, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the movement.
+While you aren't wearing armour or wielding a Shield, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the Movement.
 
 ### Level 10: Heightened Focus
 
@@ -186,7 +186,7 @@ Your Flurry of Blows, Patient Defense, and Step of the Wind gain the following b
 
 **Patient Defense**{ .inl } When you expend a **:class-phb24-monk: Focus Point(s)** to use [Patient Defense](#patient-defense), you gain a number of **:trt-thp: Temporary Hit Points** equal to two rolls of your Martial Arts die.
 
-**Step of the Wind**{ .inl } When you expend a **:class-phb24-monk: Focus Point(s)** to use [Step of the Wind](#step-of-the-wind), you can choose a willing creature within 5 feet of yourself that is Large or smaller. You move the creature with you until the end of your turn. The creature's movement doesn't provoke Opportunity Attacks.
+**Step of the Wind**{ .inl } When you expend a **:class-phb24-monk: Focus Point(s)** to use [Step of the Wind](#step-of-the-wind), you can choose a willing creature within 5 feet of yourself that is Large or smaller. You move the creature with you until the end of your turn. The creature's Movement doesn't provoke Opportunity Attacks.
 
 ### Level 10: Self-Restoration
 

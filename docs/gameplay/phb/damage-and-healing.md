@@ -55,7 +55,7 @@ Each instance of damage has a type, like Fire or Slashing as defined in the Dama
     |symbol| name |description|
     |:-:|:--|:--|
     |:dmg-acid:{ .xxl .dmg-acid }| **Acid**{ .dmg-acid } | Damage from corrosive substances that can eat through materials and flesh. Acid damage can dissolve objects and inflict severe burns. |
-    |:dmg-cold:{ .xxl .dmg-cold }| **Cold**{ .dmg-cold } | Damage from extreme cold, such as ice and freezing temperatures. Cold damage can freeze enemies, slow movements, and cause frostbite. |
+    |:dmg-cold:{ .xxl .dmg-cold }| **Cold**{ .dmg-cold } | Damage from extreme cold, such as ice and freezing temperatures. Cold damage can freeze enemies, slow Movements, and cause frostbite. |
     |:dmg-fire:{ .xxl .dmg-fire }| **Fire**{ .dmg-fire } | Damage from flames and intense heat. Fire damage can ignite objects, cause burns, and spread rapidly. |
     |:dmg-lgtn:{ .xxl .dmg-lgtn }| **Lightning**{ .dmg-lgtn } | Damage from electrical energy, such as a lightning bolt. Lightning damage can shock, paralyze, and cause severe burns. |
     |:dmg-posn:{ .xxl .dmg-posn }| **Poison**{ .dmg-posn } | Damage from toxic substances, which can also inflict various conditions. Poison damage can cause illness, weakness, and death over time. |

@@ -16,6 +16,7 @@ The Oath of the Crown is sworn to the ideals of civilization, be it the spirit o
 These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or a sovereign, and undergo their oath as part of their admission to the order's ranks.
 
 These Paladins share the following tenets:
+
 - Respect and uphold the law.
 - Stay true to those you are loyal to.
 - Have courage to face threats, even against overwhelming odds.

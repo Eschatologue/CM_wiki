@@ -14,7 +14,7 @@ The Identify spell is the fastest way to reveal an item's properties. Alternativ
 
 Sometimes a magic item carries a clue to its properties. The command word to activate a ring might be etched inside the band, or a feathered design might hint that it's a Ring of Feather Falling.
 
-Wearing or experimenting with an item can also offer hints about its properties. In the specific case of Potions, a little taste is enough to tell the taster what a potion does. Other items might require more experimentation. For example, if your character puts on a Ring of Swimming, the DM might say, “Your movement feels strangely fluid.” Perhaps you then dive into a river to see what happens. The DM would then say you swim unexpectedly well.
+Wearing or experimenting with an item can also offer hints about its properties. In the specific case of Potions, a little taste is enough to tell the taster what a potion does. Other items might require more experimentation. For example, if your character puts on a Ring of Swimming, the DM might say, “Your Movement feels strangely fluid.” Perhaps you then dive into a river to see what happens. The DM would then say you swim unexpectedly well.
 
 ## Attunement
 

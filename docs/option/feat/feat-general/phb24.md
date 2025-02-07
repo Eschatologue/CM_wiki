@@ -49,7 +49,7 @@ Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 2
 You gain a Climb Speed equal to your **:rsc-spd: Speed**{ .em }.
 
 **Hop Up**{ .inl }  
-When you are Prone, you can right yourself with only 5 feet of movement.
+When you are Prone, you can right yourself with only 5 feet of Movement.
 
 **Jumping**{ .inl }  
 You can make a running Long or High Jump after moving only 5 feet
@@ -621,7 +621,7 @@ Increase your Dexterity or Constitution score by 1, to a maximum of 20.
 Your **:rsc-spd: Speed**{ .em } increases by 10 feet.
 
 **Dash Over Difficult Terrain**{ .inl }  
-When you take the Dash action on your turn, Difficult Terrain doesn't cost you extra movement for the rest of that turn.
+When you take the Dash action on your turn, Difficult Terrain doesn't cost you extra Movement for the rest of that turn.
 
 **Agile Movement**{ .inl }  
 Opportunity Attacks have **:d20-dis: Disadvantage**{ .d20 } against you.

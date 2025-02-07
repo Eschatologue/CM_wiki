@@ -23,7 +23,7 @@ In modern times, the term has taken on a derogatory connotation, used in Gallian
 
 *Entities*
 
-The **Aeginae** are colossal leviathans, now nearly extinct, who once usurped the ancient deities that ruled Antares, only to be ironically dethroned by the Spires. These mighty beings shaped the very landscape of Antares—their tears forming seas, their movements moulding mountains, and their breath grafted the skies.
+The **Aeginae** are colossal leviathans, now nearly extinct, who once usurped the ancient deities that ruled Antares, only to be ironically dethroned by the Spires. These mighty beings shaped the very landscape of Antares—their tears forming seas, their Movements moulding mountains, and their breath grafted the skies.
 
 ---
 
