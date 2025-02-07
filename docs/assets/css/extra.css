@@ -271,8 +271,8 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 
 /* Used in conjuction with .inl */
 .idnt2 {
-  text-indent: -2.34375em;
-  padding-left: 1.5625em;
+  text-indent: -1.5625em;
+  padding-left: 3.125em;
 }
 
 /*-------------------------------------------------------
