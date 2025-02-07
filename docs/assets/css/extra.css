@@ -404,7 +404,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   --md-primary-fg-color-dark: hsla(4deg, 90%, 53%, 1);
   --md-primary-fg-color-transparent: hsla(4deg, 90%, 58%, 0.15);
   /* Background Colours */
-  --md-default-bg-color: convert.hex3hsl(#2e3440);
+  --md-default-bg-color: hsla(215, 15%, 14%, 1);
   --md-default-bg-color--dark: hsla(215, 15%, 10%, 1);
   --md-default-bg-color--darker: hsla(215, 15%, 7%, 1);
   --md-default-bg-color--darkest: hsla(215, 15%, 4%, 1);
@@ -443,7 +443,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   --md-primary-fg-color-dark: hsla(340deg, 82%, 47%, 1);
   --md-primary-fg-color-transparent: hsla(340deg, 82%, 52%, 0.15);
   /* Background Colours */
-  --md-default-bg-color: convert.hex3hsl(#2e3440);
+  --md-default-bg-color: hsla(215, 15%, 14%, 1);
   --md-default-bg-color--dark: hsla(215, 15%, 10%, 1);
   --md-default-bg-color--darker: hsla(215, 15%, 7%, 1);
   --md-default-bg-color--darkest: hsla(215, 15%, 4%, 1);
@@ -482,7 +482,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   --md-primary-fg-color-dark: hsla(291deg, 64%, 37%, 1);
   --md-primary-fg-color-transparent: hsla(291deg, 64%, 42%, 0.15);
   /* Background Colours */
-  --md-default-bg-color: convert.hex3hsl(#2e3440);
+  --md-default-bg-color: hsla(215, 15%, 14%, 1);
   --md-default-bg-color--dark: hsla(215, 15%, 10%, 1);
   --md-default-bg-color--darker: hsla(215, 15%, 7%, 1);
   --md-default-bg-color--darkest: hsla(215, 15%, 4%, 1);
@@ -521,7 +521,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   --md-primary-fg-color-dark: hsla(262deg, 52%, 42%, 1);
   --md-primary-fg-color-transparent: hsla(262deg, 52%, 47%, 0.15);
   /* Background Colours */
-  --md-default-bg-color: convert.hex3hsl(#2e3440);
+  --md-default-bg-color: hsla(215, 15%, 14%, 1);
   --md-default-bg-color--dark: hsla(215, 15%, 10%, 1);
   --md-default-bg-color--darker: hsla(215, 15%, 7%, 1);
   --md-default-bg-color--darkest: hsla(215, 15%, 4%, 1);
@@ -560,7 +560,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   --md-primary-fg-color-dark: hsla(207deg, 90%, 49%, 1);
   --md-primary-fg-color-transparent: hsla(207deg, 90%, 54%, 0.15);
   /* Background Colours */
-  --md-default-bg-color: convert.hex3hsl(#2e3440);
+  --md-default-bg-color: hsla(215, 15%, 14%, 1);
   --md-default-bg-color--dark: hsla(215, 15%, 10%, 1);
   --md-default-bg-color--darker: hsla(215, 15%, 7%, 1);
   --md-default-bg-color--darkest: hsla(215, 15%, 4%, 1);
@@ -599,7 +599,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   --md-primary-fg-color-dark: hsla(231deg, 48%, 43%, 1);
   --md-primary-fg-color-transparent: hsla(231deg, 48%, 48%, 0.15);
   /* Background Colours */
-  --md-default-bg-color: convert.hex3hsl(#2e3440);
+  --md-default-bg-color: hsla(215, 15%, 14%, 1);
   --md-default-bg-color--dark: hsla(215, 15%, 10%, 1);
   --md-default-bg-color--darker: hsla(215, 15%, 7%, 1);
   --md-default-bg-color--darkest: hsla(215, 15%, 4%, 1);
@@ -638,7 +638,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   --md-primary-fg-color-dark: hsla(199deg, 98%, 43%, 1);
   --md-primary-fg-color-transparent: hsla(199deg, 98%, 48%, 0.15);
   /* Background Colours */
-  --md-default-bg-color: convert.hex3hsl(#2e3440);
+  --md-default-bg-color: hsla(215, 15%, 14%, 1);
   --md-default-bg-color--dark: hsla(215, 15%, 10%, 1);
   --md-default-bg-color--darker: hsla(215, 15%, 7%, 1);
   --md-default-bg-color--darkest: hsla(215, 15%, 4%, 1);
@@ -677,7 +677,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   --md-primary-fg-color-dark: hsla(187deg, 100%, 37%, 1);
   --md-primary-fg-color-transparent: hsla(187deg, 100%, 42%, 0.15);
   /* Background Colours */
-  --md-default-bg-color: convert.hex3hsl(#2e3440);
+  --md-default-bg-color: hsla(215, 15%, 14%, 1);
   --md-default-bg-color--dark: hsla(215, 15%, 10%, 1);
   --md-default-bg-color--darker: hsla(215, 15%, 7%, 1);
   --md-default-bg-color--darkest: hsla(215, 15%, 4%, 1);
@@ -716,7 +716,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   --md-primary-fg-color-dark: hsla(174deg, 100%, 24%, 1);
   --md-primary-fg-color-transparent: hsla(174deg, 100%, 29%, 0.15);
   /* Background Colours */
-  --md-default-bg-color: convert.hex3hsl(#2e3440);
+  --md-default-bg-color: hsla(215, 15%, 14%, 1);
   --md-default-bg-color--dark: hsla(215, 15%, 10%, 1);
   --md-default-bg-color--darker: hsla(215, 15%, 7%, 1);
   --md-default-bg-color--darkest: hsla(215, 15%, 4%, 1);
@@ -755,7 +755,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   --md-primary-fg-color-dark: hsla(122deg, 39%, 44%, 1);
   --md-primary-fg-color-transparent: hsla(122deg, 39%, 49%, 0.15);
   /* Background Colours */
-  --md-default-bg-color: convert.hex3hsl(#2e3440);
+  --md-default-bg-color: hsla(215, 15%, 14%, 1);
   --md-default-bg-color--dark: hsla(215, 15%, 10%, 1);
   --md-default-bg-color--darker: hsla(215, 15%, 7%, 1);
   --md-default-bg-color--darkest: hsla(215, 15%, 4%, 1);
@@ -794,7 +794,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   --md-primary-fg-color-dark: hsla(88deg, 50%, 48%, 1);
   --md-primary-fg-color-transparent: hsla(88deg, 50%, 53%, 0.15);
   /* Background Colours */
-  --md-default-bg-color: convert.hex3hsl(#2e3440);
+  --md-default-bg-color: hsla(215, 15%, 14%, 1);
   --md-default-bg-color--dark: hsla(215, 15%, 10%, 1);
   --md-default-bg-color--darker: hsla(215, 15%, 7%, 1);
   --md-default-bg-color--darkest: hsla(215, 15%, 4%, 1);
@@ -833,7 +833,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   --md-primary-fg-color-dark: hsla(66deg, 70%, 49%, 1);
   --md-primary-fg-color-transparent: hsla(66deg, 70%, 54%, 0.15);
   /* Background Colours */
-  --md-default-bg-color: convert.hex3hsl(#2e3440);
+  --md-default-bg-color: hsla(215, 15%, 14%, 1);
   --md-default-bg-color--dark: hsla(215, 15%, 10%, 1);
   --md-default-bg-color--darker: hsla(215, 15%, 7%, 1);
   --md-default-bg-color--darkest: hsla(215, 15%, 4%, 1);
@@ -872,7 +872,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   --md-primary-fg-color-dark: hsla(54deg, 100%, 57%, 1);
   --md-primary-fg-color-transparent: hsla(54deg, 100%, 62%, 0.15);
   /* Background Colours */
-  --md-default-bg-color: convert.hex3hsl(#2e3440);
+  --md-default-bg-color: hsla(215, 15%, 14%, 1);
   --md-default-bg-color--dark: hsla(215, 15%, 10%, 1);
   --md-default-bg-color--darker: hsla(215, 15%, 7%, 1);
   --md-default-bg-color--darkest: hsla(215, 15%, 4%, 1);
@@ -911,7 +911,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   --md-primary-fg-color-dark: hsla(45deg, 100%, 46%, 1);
   --md-primary-fg-color-transparent: hsla(45deg, 100%, 51%, 0.15);
   /* Background Colours */
-  --md-default-bg-color: convert.hex3hsl(#2e3440);
+  --md-default-bg-color: hsla(215, 15%, 14%, 1);
   --md-default-bg-color--dark: hsla(215, 15%, 10%, 1);
   --md-default-bg-color--darker: hsla(215, 15%, 7%, 1);
   --md-default-bg-color--darkest: hsla(215, 15%, 4%, 1);
@@ -950,7 +950,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   --md-primary-fg-color-dark: hsla(36deg, 100%, 45%, 1);
   --md-primary-fg-color-transparent: hsla(36deg, 100%, 50%, 0.15);
   /* Background Colours */
-  --md-default-bg-color: convert.hex3hsl(#2e3440);
+  --md-default-bg-color: hsla(215, 15%, 14%, 1);
   --md-default-bg-color--dark: hsla(215, 15%, 10%, 1);
   --md-default-bg-color--darker: hsla(215, 15%, 7%, 1);
   --md-default-bg-color--darkest: hsla(215, 15%, 4%, 1);
@@ -989,7 +989,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   --md-primary-fg-color-dark: hsla(14deg, 100%, 52%, 1);
   --md-primary-fg-color-transparent: hsla(14deg, 100%, 57%, 0.15);
   /* Background Colours */
-  --md-default-bg-color: convert.hex3hsl(#2e3440);
+  --md-default-bg-color: hsla(215, 15%, 14%, 1);
   --md-default-bg-color--dark: hsla(215, 15%, 10%, 1);
   --md-default-bg-color--darker: hsla(215, 15%, 7%, 1);
   --md-default-bg-color--darkest: hsla(215, 15%, 4%, 1);
