@@ -28,45 +28,35 @@ Your connection to the storm ensures you always have certain spells ready; when 
 | 7 | [:spell-lv4: Storm Sphere], [:spell-lv4: Ice Storm] |
 | 9 | [:spell-lv5: Cone of Cold], [:spell-lv5: Maelstrom] |
 
-### Level 3: Storm Within
+### Level 3: Tempestuous Magic
 
-You have an arcane storm whirling through your body. Immediately before or after you cast a spell of level 1 or higher, you can cause your inner storm to manifest in one of the following ways.
+You have an arcane storm whirling through your body. Immediately before or after you cast a Sorcerer spell of level 1 or higher,.you can fly up to 10 feet without provoking **:rsc-r: Opportunity Attacks**. You safely descend at the start of your next turn. This distance is doubled if your **Innate Sorcery** is active.
 
-**Tempestuous Ascent**{ .inl } Elemental air carries you aloft. You fly up to 10 feet without provoking Opportunity Attacks. You safely descend at the start of your next turn.
+### Level 6: Heart of the Storm
 
-**Arcane Tempest**{ .inl } You whip up an arcane storm around you. Each creature within 10 feet of you must make a Strength save. On a failed save, they are pushed 10 feet away from you in a straight line.
+You are overflowing with storming energy. You gain the following benefits.
 
-If your Innate Sorcery is active, the distance you can fly or push creatures away is doubled.
+**Lightning Rod**{ .inl } You have **:dmg-res: Resistance** to **:dmg-lgtn: Lightning**{ .dmg-lgtn } and **:dmg-thun: Thunder**{ .dmg-thun } damage.
 
-### Level 6: Stormladen
+**Potent Storm**{ .inl } Whenever you deal **:dmg-lgtn: Lightning**{ .dmg-lgtn } or **:dmg-thun: Thunder**{ .dmg-thun } damage with a Sorcerer spell that requires you to make an attack roll, you can cause a small storm to erupt. Each creature within 20 feet of your target takes **:dmg-lgtn: Lightning**{ .dmg-lgtn } or **:dmg-thun: Thunder**{ .dmg-thun } equals to half of your Sorcerer level respectively.
 
-You are overflowing with storming energy.
+### Level 6: Storm Transmutation
 
-**Lightning Rod**{ .inl } You have Resistance to Lightning and Thunder damage.
+When you cast a spell that deals **:dmg-acid: Acid**{ .dmg-acid }, **:dmg-cold: Cold**{ .dmg-cold }, **:dmg-fire: Fire**{ .dmg-fire } or **:dmg-posn: Poison**{ .dmg-posn } damage, you can change that damage type to **:dmg-lgtn: Lightning**{ .dmg-lgtn } or **:dmg-thun: Thunder**{ .dmg-thun }.
 
-**Storm Transmutation**{ .inl } When you cast a spell  that deals Acid, Cold, Fire or Poison damage, you can change that damage type to Lightning or Thunder.
+### Level 14: Storm's Fury
 
-### Level 6: Arcane Conductivity
-
-Whenever you deal Lightning or Thunder damage with a Sorcerer spell that requires you to make an attack roll, you can spend 2 Sorcery Points to let your storm energy arc towards nearby targets. Choose up to two different creatures within 15 feet of the original target. Each creature must succeed on a Dexterity save or take 2d6 Lightning or Thunder damage (your choice). When your Innate Sorcery is active, you choose an additional target.
-
-### Level 14: Heart of the Storm
-
-Whenever you use your Storm Within feature, you can spend 2 Sorcery Points to gain the following benefits.
-
-**Armour of Winds**{ .inl } When you choose your Tempestuous Ascent option, you gain a +2 bonus to your Armour Class and Dexterity saving throws until the start of your next turn. If your Innate Sorcery is active, the bonus is +3 instead.
-
-**Triboelectric**{ .inl } When you choose your Arcane Tempest option, any creature that failed its save also takes 2d6 Lightning or Thunder damage (your choice). If your Innate Sorcery is active, the damage is 3d6 instead.
+When you are hit by a Melee attack, the attacker takes **:dmg-lgtn: Lightning**{ .dmg-lgtn } or **:dmg-thun: Thunder**{ .dmg-thun } damage (choose each time) equals to your **Sorcerer level**. Moreover, when you deal these damage, you can take a **:rsc-r: Reaction** to force the attacker to make a **:d20-save: Strength save** against your Spell Save DC. On a failed save, the attacker is pushed 20 feet away from you in a straight line.
 
 ### Level 18: Wind Soul
 
 The storm inside of you becomes more powerful.
 
-**One with the Storm**{ .inl } You have immunity to Lightning and Thunder damage and you have a Fly Speed of 60 feet.
+**One with the Storm**{ .inl } You have **:dmg-imm: Immunity** to **:dmg-lgtn: Lightning**{ .dmg-lgtn } and **:dmg-thun: Thunder**{ .dmg-thun } damage and you have a Fly Speed of 60 feet.
 
 **Blessing of the Tempest**{ .inl } As a **:rsc-a: Magic**{ .rsc } action, you can reduce your Fly Speed to 30 feet for 1 hour and choose a number of creatures within 30 feet of you equal to 3 + your Charisma modifier. The chosen creatures gain a Fly Speed of 30 feet for 1 hour. Once you use this feature, you can’t use it again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 
-:material-book-arrow-up: Updated by *Spaghetti0* and *PerfectlyCircularSeal*
+:material-book-arrow-up: Updated by *Eschatologue*
 { .author }
