@@ -113,7 +113,7 @@
         letter-spacing: calc(var(--default-font-size) * 0.03);
         font-weight: 550;
         margin: #{convert.px2rem(10px)} 0;
-        border-bottom: #{convert.px2rem(2.5px)} solid var(--md-primary-fg-color);
+        border-bottom: #{convert.px2rem(2.5px)} solid var(--md-default-fg-color--light);
         padding-bottom: #{convert.px2rem(4px)};
     }
 
@@ -132,8 +132,8 @@
         font-size: var(--default-font-size);
         letter-spacing: calc(var(--default-font-size) * 0.03);
         font-weight: 500;
-        margin-top: #{convert.px2rem(-4px)};
-        margin-bottom: #{convert.px2rem(-14px)};
+        margin-top: #{convert.px2rem(-3px)};
+        margin-bottom: #{convert.px2rem(-12px)};
         //      padding-bottom: #{convert.px2rem(-10px)};
     }
 
@@ -146,7 +146,7 @@
 
 // Divider Line
 .md-typeset hr {
-    border-bottom: #{convert.px2em(8px)} double var(--md-default-wht--0125);
+    border-bottom: #{convert.px2em(8px)} dashed var(--md-default-wht--0125);
     margin: #{convert.px2em(14px)} 0;
 }
 

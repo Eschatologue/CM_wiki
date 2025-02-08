@@ -14,34 +14,36 @@ The Armour table lists the game's main armour. The table includes the cost and w
 
 **Strength**{ .inl } If the table shows a Strength score in the Strength column for an armour type, that armour reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
 
-**Stealth**{ .inl } If the table shows “Disadvantage” in the Stealth column for an armour type, the wearer has **:d20-dis: Disadvantage**{ .emp } on Dexterity (Stealth) checks.
+**Stealth**{ .inl } If the table shows “Disadvantage” in the Stealth column for an armour type, the wearer has **:d20-dis: Disadvantage**{ .d20 } on Dexterity (Stealth) checks.
+
+## Armour Table
 
 ##### Light Armour Table (1 Minute to Don or Doff)
 
 | Light Armour | Armour Class (AC) | Strength | Stealth | Weight | Cost |
 |---|:-:|:-:|:-:|:-:|--:|
-| *Padded Armour* | 11 + Dex modifier | — | **:d20-dis: Disadvantage**{ .d20 } | M. | 50 SP |
-| *Leather Armour* | 11 + Dex modifier | — | — | M. | 100 SP |
-| *Studded Leather Armour* | 12 + Dex modifier | — | — | L. | 450 SP |
+| *Padded Armour* | 11 + DEX mod | — | **:d20-dis: Disadvantage** | M. | 50 SP |
+| *Leather Armour* | 11 + DEX mod | — | — | M. | 100 SP |
+| *Studded Leather Armour* | 12 + DEX mod | — | — | L. | 450 SP |
 
 ##### Medium Armour Table (5 Minutes to Don and 1 Minute to Doff)
 
 | Medium Armour | Armour Class (AC) | Strength | Stealth | Weight | Cost |
 |---|:-:|:-:|:-:|:-:|--:|
-| *Hide Armour* | 12 + Dex modifier (max 2) | — | — | L. | 100 SP |
-| *Chain Shirt* | 13 + Dex modifier (max 2) | — | — | L. | 500 SP |
-| *Scale Mail* | 14 + Dex modifier (max 2) | — | **:d20-dis: Disadvantage**{ .d20 } | XXL. | 500 SP |
-| *Breastplate* | 14 + Dex modifier (max 2) | — | — | L. | 4,000 SP |
-| *Half Plate Armour* | 15 + Dex modifier (max 2) | — | **:d20-dis: Disadvantage**{ .d20 } | XXL. | 7,500 SP |
+| *Hide Armour* | 12 + DEX mod (max 2) | — | — | L. | 100 SP |
+| *Chain Shirt* | 13 + DEX mod (max 2) | — | — | L. | 500 SP |
+| *Scale Mail* | 14 + DEX mod (max 2) | — | **:d20-dis: Disadvantage** | XXL. | 500 SP |
+| *Breastplate* | 14 + DEX mod (max 2) | — | — | L. | 4,000 SP |
+| *Half Plate Armour* | 15 + DEX mod (max 2) | — | **:d20-dis: Disadvantage** | XXL. | 7,500 SP |
 
 ##### Heavy Armour Table (10 Minutes to Don and 5 Minutes to Doff)
 
 | Heavy Armour | Armour Class (AC) | Strength | Stealth | Weight | Cost |
 |---|:-:|:-:|:-:|:-:|--:|
-| *Ring Mail* | 14 | — | **:d20-dis: Disadvantage**{ .d20 } | XXL. | 300 SP |
-| *Chain Mail* | 16 | Str 13 | **:d20-dis: Disadvantage**{ .d20 } | 3L. | 750 SP |
-| *Splint Armour* | 17 | Str 15 | **:d20-dis: Disadvantage**{ .d20 } | 3L. | 2,000 SP |
-| *Plate Armour* | 18 | Str 15 | **:d20-dis: Disadvantage**{ .d20 } | 3L. | 15,000 SP |
+| *Ring Mail* | 14 | — | **:d20-dis: Disadvantage** | XXL. | 300 SP |
+| *Chain Mail* | 16 | Str 13 | **:d20-dis: Disadvantage** | 3L. | 750 SP |
+| *Splint Armour* | 17 | Str 15 | **:d20-dis: Disadvantage** | 3L. | 2,000 SP |
+| *Plate Armour* | 18 | Str 15 | **:d20-dis: Disadvantage** | 3L. | 15,000 SP |
 
 ##### Shield Table (Utilise Action to Don or Doff)
 
@@ -49,7 +51,7 @@ The Armour table lists the game's main armour. The table includes the cost and w
 |---|:-:|:-:|:-:|:-:|--:|
 | *Buckler* | +1 | — | - | M. | 50 SP |
 | *Shield* | +2 | — | - | M. | 100 SP |
-| *Pavise* | +3 | Str 15 | **:d20-dis: Disadvantage**{ .d20 } | L. | 1,000 SP |
+| *Pavise* | +3 | Str 15 | **:d20-dis: Disadvantage** | L. | 1,000 SP |
 
 ## Armour Training
 
