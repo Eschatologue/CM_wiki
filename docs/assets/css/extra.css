@@ -389,7 +389,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 [data-md-color-scheme=slate][data-md-color-primary=red] {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 90%, 0.75);
-  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.95);
+  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.90);
   /* Code */
   --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
@@ -428,7 +428,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 [data-md-color-scheme=slate][data-md-color-primary=pink] {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 90%, 0.75);
-  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.95);
+  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.90);
   /* Code */
   --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
@@ -467,7 +467,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 [data-md-color-scheme=slate][data-md-color-primary=purple] {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 90%, 0.75);
-  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.95);
+  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.90);
   /* Code */
   --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
@@ -506,7 +506,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 [data-md-color-scheme=slate][data-md-color-primary=deep-purple] {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 90%, 0.75);
-  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.95);
+  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.90);
   /* Code */
   --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
@@ -545,7 +545,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 [data-md-color-scheme=slate][data-md-color-primary=blue] {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 90%, 0.75);
-  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.95);
+  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.90);
   /* Code */
   --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
@@ -584,7 +584,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 [data-md-color-scheme=slate][data-md-color-primary=indigo] {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 90%, 0.75);
-  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.95);
+  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.90);
   /* Code */
   --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
@@ -623,7 +623,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 [data-md-color-scheme=slate][data-md-color-primary=light-blue] {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 90%, 0.75);
-  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.95);
+  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.90);
   /* Code */
   --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
@@ -662,7 +662,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 [data-md-color-scheme=slate][data-md-color-primary=cyan] {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 90%, 0.75);
-  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.95);
+  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.90);
   /* Code */
   --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
@@ -701,7 +701,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 [data-md-color-scheme=slate][data-md-color-primary=teal] {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 90%, 0.75);
-  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.95);
+  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.90);
   /* Code */
   --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
@@ -740,7 +740,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 [data-md-color-scheme=slate][data-md-color-primary=green] {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 90%, 0.75);
-  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.95);
+  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.90);
   /* Code */
   --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
@@ -779,7 +779,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 [data-md-color-scheme=slate][data-md-color-primary=light-green] {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 90%, 0.75);
-  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.95);
+  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.90);
   /* Code */
   --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
@@ -818,7 +818,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 [data-md-color-scheme=slate][data-md-color-primary=lime] {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 90%, 0.75);
-  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.95);
+  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.90);
   /* Code */
   --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
@@ -857,7 +857,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 [data-md-color-scheme=slate][data-md-color-primary=yellow] {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 90%, 0.75);
-  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.95);
+  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.90);
   /* Code */
   --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
@@ -896,7 +896,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 [data-md-color-scheme=slate][data-md-color-primary=amber] {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 90%, 0.75);
-  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.95);
+  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.90);
   /* Code */
   --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
@@ -935,7 +935,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 [data-md-color-scheme=slate][data-md-color-primary=orange] {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 90%, 0.75);
-  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.95);
+  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.90);
   /* Code */
   --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
@@ -974,7 +974,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 [data-md-color-scheme=slate][data-md-color-primary=deep-orange] {
   /* Global Text Colour */
   --md-gbl-text-color: hsla(0, 0%, 90%, 0.75);
-  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.95);
+  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.90);
   /* Code */
   --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
