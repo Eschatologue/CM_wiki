@@ -46,7 +46,7 @@ When you cast a spell that deals **:dmg-acid: Acid**{ .dmg-acid }, **:dmg-cold: 
 
 ### Level 14: Storm's Fury
 
-When you are hit by a Melee attack, the attacker takes **:dmg-lgtn: Lightning**{ .dmg-lgtn } or **:dmg-thun: Thunder**{ .dmg-thun } damage (choose each time) equals to your **Sorcerer level**. Moreover, when you deal these damage, you can take a **:rsc-r: Reaction** to force the attacker to make a **:d20-save: Strength save** against your Spell Save DC. On a failed save, the attacker is pushed 20 feet away from you in a straight line.
+When you are hit by a Melee attack, the attacker takes **:dmg-lgtn: Lightning**{ .dmg-lgtn } or **:dmg-thun: Thunder**{ .dmg-thun } damage (choose each time) equals to your **Sorcerer level**. Moreover, when you deal these damage, you can take a **:rsc-r: Reaction** to force the attacker to make a **:d20-save: STR save** against your Spell Save DC. On a failed save, the attacker is pushed 20 feet away from you in a straight line.
 
 ### Level 18: Wind Soul
 
