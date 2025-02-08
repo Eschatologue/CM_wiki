@@ -188,7 +188,8 @@
 -------------------------------------------------------*/
 .em, .inl, .rsc, .d20 {
   white-space: nowrap; /* Prevents block splitting on smaller screens, used with icons */
-  font-weight: 600 !important;
+  font-weight: 400 !important;
+  color: var(--md-gbl-text-color-strong);
 }
 .em abbr, .inl abbr, .rsc abbr, .d20 abbr {
   border-bottom: none !important;
