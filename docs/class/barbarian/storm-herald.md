@@ -17,17 +17,17 @@ Storm heralds are typically elite champions who train alongside druids, rangers,
 
 ### Level 3: Storm Aura
 
-When you activate your **:class-abl-rage: Rage**{ .em }, a storm whips around you in a **10 foot :aoe-emn: Emanation**.
+When you activate your **:ui-rage: Rage**{ .em }, a storm whips around you in a **10 foot :aoe-emn: Emanation**.
 
-As part of the **:rsc-b: Bonus Action**{ .rsc } you use to activate or maintain your **:class-abl-rage: Rage**{ .em }, you can cause one of the following effects. You choose which when you activate your **:class-abl-rage: Rage**{ .em }. 
+As part of the **:rsc-b: Bonus Action**{ .rsc } you use to activate or maintain your **:ui-rage: Rage**{ .em }, you can cause one of the following effects. You choose which when you activate your **:ui-rage: Rage**{ .em }. 
 
 If the effect requires a saving throw, the DC equals **8 plus your Proficiency Bonus and your Strength modifier**.
 
-**Desert**{ .inl } All other creatures within the **:aoe-emn: Emanation** take **:dmg-fire: Fire**{ .dmg-fire } damage equal your **:class-abl-rage: Rage**{ .em } Damage.
+**Desert**{ .inl } All other creatures within the **:aoe-emn: Emanation** take **(:ui-rage: Rage Damage) :dmg-fire: Fire**{ .dmg-fire } damage.
 
-**Sea**{ .inl } You choose one creature you can see within the **:aoe-emn: Emanation**. It must succeed a **:d20-save: DEX save** or take **1d6 + :class-abl-rage: Rage Damage :dmg-lgtn: Lightning**{ .dmg-lgtn }(halved on success). This damage increases by 1d6 at level 10, level 15, and at level 20.
+**Sea**{ .inl } You choose one creature you can see within the **:aoe-emn: Emanation**. It must succeed a **:d20-save: Dex. save** or take **1d6 + :ui-rage: Rage Damage :dmg-lgtn: Lightning**{ .dmg-lgtn } damage (halved on success). This damage increases by 1d6 at level 10, level 15, and at level 20.
 
-**Tundra**{ .inl } Each creature of your choice within the **:aoe-emn: Emanation** gains **:trt-thp: Temporary Hit Points** equal to your **:class-abl-rage: Rage Damage**{ .em }, which last until your **:class-abl-rage: Rage**{ .em } ends.
+**Tundra**{ .inl } Each creature of your choice within the **:aoe-emn: Emanation** gains **:trt-thp: Temporary Hit Points** equal to your **:ui-rage: Rage Damage**{ .em }, which last until your **:ui-rage: Rage**{ .em } ends.
 
 ### Level 6: Storm Soul
 

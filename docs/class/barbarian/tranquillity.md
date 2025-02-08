@@ -11,7 +11,7 @@ Forge Serenity into Unstoppable Force
 
 > *Forge Serenity into Unstoppable Force*
 
-For Barbarians who walk the Path of Tranquillity, **:class-abl-rage: Rage**{ .em } is a bottomless well of calm and reason. They draw upon this power to achieve extraordinary focus in battle and they channel this clarity into devastating effects.
+For Barbarians who walk the Path of Tranquillity, **:ui-rage: Rage**{ .em } is a bottomless well of calm and reason. They draw upon this power to achieve extraordinary focus in battle and they channel this clarity into devastating effects.
 
 ### Level 3: Combat Superiority
 
@@ -31,11 +31,11 @@ If a Manoeuvre requires a saving throw, the DC equals 8 + your Proficiency Bonus
 
 ### Level 3: Dead Calm
 
-You enter a state of heightened focus when you **:class-abl-rage: Rage**{ .em }. While your **:class-abl-rage: Rage**{ .em } is active, the ^^Frightened^^ and ^^Charmed^^ conditions on you are suppressed. When your **:class-abl-rage: Rage**{ .em } ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.
+You enter a state of heightened focus when you **:ui-rage: Rage**{ .em }. While your **:ui-rage: Rage**{ .em } is active, the ^^Frightened^^ and ^^Charmed^^ conditions on you are suppressed. When your **:ui-rage: Rage**{ .em } ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.
 
 ### Level 6: Battle Focus
 
-When you activate your **:class-abl-rage: Rage**{ .em }, you can choose one of the following benefits:
+When you activate your **:ui-rage: Rage**{ .em }, you can choose one of the following benefits:
 
 **Restoration**{ .inl } You regain one of your expended Superiority Dice.
   
@@ -51,13 +51,13 @@ You gain one additional Superiority Die (Four total) and all your Superiority Di
 
 Your seething fury is unstopable. You gain the following benefits:
 
-**Freedom of Movement**{ .inl } While your **:class-abl-rage: Rage**{ .em } is active, your Movement is unaffected by Difficult Terrain and Your **:rsc-spd: Speed**{ .em } can't be reduced by spells or other magical effects. You also have **:dmg-imm: Immunity** to ^^Paralyzed^^ and ^^Restrained^^ condition while your **:class-abl-rage: Rage**{ .em } is active.
+**Freedom of Movement**{ .inl } While your **:ui-rage: Rage**{ .em } is active, your Movement is unaffected by Difficult Terrain and Your **:rsc-spd: Speed**{ .em } can't be reduced by spells or other magical effects. You also have **:dmg-imm: Immunity** to ^^Paralyzed^^ and ^^Restrained^^ condition while your **:ui-rage: Rage**{ .em } is active.
 
 **More Manoeuvre**{ .inl } You learn one additional Combat Manoeuvre of your choice.
 
 ### Level 14: Flurry of Steel
 
-You gain one additional Superiority Die (Five total) and all your Superiority Die becomes :die-d10: **d10**s. Moreover, once per turn, when your **:class-abl-rage: Rage**{ .em } is active, you can roll a :die-d6: d6 in place of expending a Superiority Die.
+You gain one additional Superiority Die (Five total) and all your Superiority Die becomes :die-d10: **d10**s. Moreover, once per turn, when your **:ui-rage: Rage**{ .em } is active, you can roll a :die-d6: d6 in place of expending a Superiority Die.
 
 [Manoeuvre Options]: ../../option/class-options/fighter-manoeuvre/index.md
 

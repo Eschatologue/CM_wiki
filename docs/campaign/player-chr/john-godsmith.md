@@ -73,7 +73,7 @@ The searing curse from Celestial is anything but a normal fire, you gain the fol
 
 You gain new way to use your Heaven's Maledict, detailed below.
 
-**Cauterising Flame: Conflagaration**{ .inl } When you use **Cauterising Flame**, conditions such as Charmed or Frightened instantly ends. Your **:class-abl-rage: Rage** is also extended this way.
+**Cauterising Flame: Conflagaration**{ .inl } When you use **Cauterising Flame**, conditions such as Charmed or Frightened instantly ends. Your **:ui-rage: Rage** is also extended this way.
 
 **Smite of Origin: Flame Blitz**{ .inl } Once per turn, immediately after you deal damage with **Smite of Origin**, you can Teleport up to 15 feet to an unoccupied space you can see. After you teleport, each creature of your choice within 5 feet of the space you appear in takes **:dmg-fire: Fire**{ .dmg-fire } damage equal to one roll of your Maledict Die (this teleport does not expend Maledict Die).
 

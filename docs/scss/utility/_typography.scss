@@ -14,7 +14,8 @@
 -------------------------------------------------------*/
 .em {
     white-space: nowrap; /* Prevents block splitting on smaller screens, used with icons */
-    font-weight: 600 !important;
+    font-weight: 400 !important;
+    color: var(--md-gbl-text-color-strong);
 
     // Disable dotted line for abbreviations
     abbr {

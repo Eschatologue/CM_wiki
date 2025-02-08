@@ -11,7 +11,7 @@ Rage Born in the Streets
 
 > *Rage Born in the Streets*
 
-While most Barbarians draw their **:class-abl-rage: Rage**{ .em } from the untamed wilderness, those who follow the Path of the Ruffian find their **:class-abl-rage: Rage**{ .em } in the shadowy underbelly of civilisation, in the slums of sprawling cities and among the forgotten corners of society. Unlike others who fight for honour or noble causes, a Ruffian battles for the thrill of it—or simply to survive another day. Whatever drives them, Ruffians share one thing in common: when trouble arises, they prefer to settle matters with their fists.
+While most Barbarians draw their **:ui-rage: Rage**{ .em } from the untamed wilderness, those who follow the Path of the Ruffian find their **:ui-rage: Rage**{ .em } in the shadowy underbelly of civilisation, in the slums of sprawling cities and among the forgotten corners of society. Unlike others who fight for honour or noble causes, a Ruffian battles for the thrill of it—or simply to survive another day. Whatever drives them, Ruffians share one thing in common: when trouble arises, they prefer to settle matters with their fists.
 
 ### Level 3: The Wrong Crowd
 
@@ -29,7 +29,7 @@ Additionally, while you aren't wearing Medium or Heavy armour, you gain the foll
 
 **Climbing Speed**{ .inl } You gain a Climbing Speed equal to your **:rsc-spd: Speed**{ .em }.
 
-**Quick Jab**{ .inl } When you activate your **:class-abl-rage: Rage**{ .em }, you can make an **:rsc-a: Unarmed Strike**{ .rsc } as part of the same **:rsc-b: Bonus Action**{ .rsc }.
+**Quick Jab**{ .inl } When you activate your **:ui-rage: Rage**{ .em }, you can make an **:rsc-a: Unarmed Strike**{ .rsc } as part of the same **:rsc-b: Bonus Action**{ .rsc }.
 
 ### Level 6: Forceful Rend
 
@@ -43,11 +43,11 @@ You can use this class feature a number of times equal to your Strength modifier
 
 ### Level 10: Crushing Strength
 
-Your expertise in hand-to-hand combat reaches new heights: your unarmed attacks are deadlier and more punishing. While your **:class-abl-rage: Rage**{ .em } is active, you gain the following benefits:
+Your expertise in hand-to-hand combat reaches new heights: your unarmed attacks are deadlier and more punishing. While your **:ui-rage: Rage**{ .em } is active, you gain the following benefits:
 
-**Backbreaker**{ .inl } At the start of each of your turns while your **:class-abl-rage: Rage**{ .em } is active, you can deal 1d6 :dmg-bldg: Bludgeoning damage to one creature that receive the ^^Grappled^^ condition from you, instead of 1d4. At Barbarial level 14, this damage die becomes 1d8.
+**Backbreaker**{ .inl } At the start of each of your turns while your **:ui-rage: Rage**{ .em } is active, you can deal 1d6 :dmg-bldg: Bludgeoning damage to one creature that receive the ^^Grappled^^ condition from you, instead of 1d4. At Barbarial level 14, this damage die becomes 1d8.
 
-**Deadly Strikes**{ .inl } While your **:class-abl-rage: Rage**{ .em } is active, when you do damage with **:rsc-a: Unarmed Strike**{ .rsc } , its damage die becomes 1d8, or 1d10 if you have two free hands. At Barbarian level 14, this damage die becomes 1d10, or 1d12 if you have two free hands.
+**Deadly Strikes**{ .inl } While your **:ui-rage: Rage**{ .em } is active, when you do damage with **:rsc-a: Unarmed Strike**{ .rsc } , its damage die becomes 1d8, or 1d10 if you have two free hands. At Barbarian level 14, this damage die becomes 1d10, or 1d12 if you have two free hands.
 
 ### Level 10: Titan's Grip
 

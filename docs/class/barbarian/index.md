@@ -13,9 +13,9 @@ The strong embrace the wild that hides inside - keen instincts, primal physicali
 
 > *The strong embrace the wild that hides inside - keen instincts, primal physicality, and most of all, an unbridled, unquenchable rage.*
 
-Barbarians are mighty warriors who are powered by primal forces of the multiverse that manifest as a **:class-abl-rage: Rage**{ .em }. More than a mere emotion—and not limited to anger—this **:class-abl-rage: Rage**{ .em } is an incarnation of a predator's ferocity, a storm's fury, and a sea's turmoil.
+Barbarians are mighty warriors who are powered by primal forces of the multiverse that manifest as a **:ui-rage: Rage**{ .em }. More than a mere emotion—and not limited to anger—this **:ui-rage: Rage**{ .em } is an incarnation of a predator's ferocity, a storm's fury, and a sea's turmoil.
 
-Some Barbarians personify their **:class-abl-rage: Rage**{ .em } as a fierce spirit or revered forebear. Others see it as a connection to the pain and anguish of the world, as an impersonal tangle of wild magic, or as an expression of their own deepest self. For every Barbarian, their **:class-abl-rage: Rage**{ .em } is a power that fuels not just battle prowess, but also uncanny reflexes and heightened senses.
+Some Barbarians personify their **:ui-rage: Rage**{ .em } as a fierce spirit or revered forebear. Others see it as a connection to the pain and anguish of the world, as an impersonal tangle of wild magic, or as an expression of their own deepest self. For every Barbarian, their **:ui-rage: Rage**{ .em } is a power that fuels not just battle prowess, but also uncanny reflexes and heightened senses.
 
 Barbarians often serve as protectors and leaders in their communities. They charge headlong into danger so those under their protection don't have to. Their courage in the face of danger makes Barbarians perfectly suited for adventure.
 
@@ -85,11 +85,11 @@ As a Barbarian, you gain the following class features when you reach the specifi
 
 ### Level 1: Rage
 
-You can imbue yourself with a primal power called **:class-abl-rage: Rage**{ .em }, a force that grants you extraordinary might and resilience. You can enter it as a **:rsc-b: Bonus Action**{ .rsc } if you aren't wearing Heavy armour.
+You can imbue yourself with a primal power called **:ui-rage: Rage**{ .em }, a force that grants you extraordinary might and resilience. You can enter it as a **:rsc-b: Bonus Action**{ .rsc } if you aren't wearing Heavy armour.
 
-You can enter your **:class-abl-rage: Rage**{ .em } the number of times shown for your Barbarian level in the Rages column of the Barbarian Features table. You regain one expended use when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**.
+You can enter your **:ui-rage: Rage**{ .em } the number of times shown for your Barbarian level in the Rages column of the Barbarian Features table. You regain one expended use when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
-While active, your **:class-abl-rage: Rage**{ .em } follows the rules below.
+While active, your **:ui-rage: Rage**{ .em } follows the rules below.
 
 #### Damage Resistance 
 
@@ -97,7 +97,7 @@ You have **:dmg-res: Resistance**{ .em } to **:dmg-bldg: Bludgeoning**{ .dmg-phy
 
 #### Rage Damage 
 
-When you make an attack using Strength—with either a weapon or an Unarmed Strike—and deal damage to the target, you gain a bonus to the damage that increases as you gain levels as a Barbarian, as shown in the **:class-abl-rage: Rage**{ .em } Damage column of the Barbarian Features table.
+When you make an attack using Strength—with either a weapon or an Unarmed Strike—and deal damage to the target, you gain a bonus to the damage that increases as you gain levels as a Barbarian, as shown in the **:ui-rage: Rage**{ .em } Damage column of the Barbarian Features table.
 
 #### Strength Advantage 
 
@@ -109,13 +109,13 @@ You can't maintain Concentration, and you can't cast spells.
 
 #### Duration 
 
-The **:class-abl-rage: Rage**{ .em } lasts until the end of your next turn, and it ends early if you don Heavy armour or have the Incapacitated condition. If your **:class-abl-rage: Rage**{ .em } is still active on your next turn, you can extend the **:class-abl-rage: Rage**{ .em } for another round by doing one of the following:
+The **:ui-rage: Rage**{ .em } lasts until the end of your next turn, and it ends early if you don Heavy armour or have the Incapacitated condition. If your **:ui-rage: Rage**{ .em } is still active on your next turn, you can extend the **:ui-rage: Rage**{ .em } for another round by doing one of the following:
 
 - Make an attack roll against an enemy.
 - Force an enemy to make a saving throw.
-- Take a **:rsc-b: Bonus Action**{ .rsc } to extend your **:class-abl-rage: Rage**{ .em }.
+- Take a **:rsc-b: Bonus Action**{ .rsc } to extend your **:ui-rage: Rage**{ .em }.
 
-Each time the **:class-abl-rage: Rage**{ .em } is extended, it lasts until the end of your next turn. You can maintain a **:class-abl-rage: Rage**{ .em } for up to 10 minutes.
+Each time the **:ui-rage: Rage**{ .em } is extended, it lasts until the end of your next turn. You can maintain a **:ui-rage: Rage**{ .em } for up to 10 minutes.
 
 ### Level 1: Unarmoured Defence
 
@@ -157,7 +157,7 @@ You gain a Barbarian subclass of your choice. A subclass is a specialization tha
 
 You gain proficiency in another skill of your choice from the skill list available to Barbarians at level 1.
 
-In addition, while your **:class-abl-rage: Rage**{ .em } is active, you can channel primal power when you attempt certain tasks; whenever you make an ability check using one of the following skills, you can make it as a Strength check even if it normally uses a different ability: Acrobatics, Intimidation, Perception, Stealth, or Survival. When you use this ability, your Strength represents primal power coursing through you, honing your agility, bearing, and senses.
+In addition, while your **:ui-rage: Rage**{ .em } is active, you can channel primal power when you attempt certain tasks; whenever you make an ability check using one of the following skills, you can make it as a Strength check even if it normally uses a different ability: Acrobatics, Intimidation, Perception, Stealth, or Survival. When you use this ability, your Strength represents primal power coursing through you, honing your agility, bearing, and senses.
 
 ### Level 4: Ability Score Improvement
 
@@ -177,7 +177,7 @@ Your instincts are so honed that you have **:d20-adv: Advantage**{ .d20 } on **:
 
 ### Level 7: Instinctive Pounce
 
-As part of the **:rsc-b: Bonus Action**{ .rsc } you take to enter your **:class-abl-rage: Rage**{ .em }, you can move up to half your **:rsc-spd: Speed**{ .em }.
+As part of the **:rsc-b: Bonus Action**{ .rsc } you take to enter your **:ui-rage: Rage**{ .em }, you can move up to half your **:rsc-spd: Speed**{ .em }.
 
 ### Level 9: Brutal Strike
 
@@ -191,7 +191,7 @@ If the chosen attack roll hits, the target takes an extra 1d10 damage of the sam
 
 ### Level 11: Relentless Rage
 
-Your **:class-abl-rage: Rage**{ .em } can keep you fighting despite grievous wounds. If you drop to 0 Hit Points while your **:class-abl-rage: Rage**{ .em } is active and don't die outright, you can make a DC 10 :d20-save: Constitution saving throw. If you succeed, your Hit Points instead change to a number equal to twice your Barbarian level.
+Your **:ui-rage: Rage**{ .em } can keep you fighting despite grievous wounds. If you drop to 0 Hit Points while your **:ui-rage: Rage**{ .em } is active and don't die outright, you can make a DC 10 :d20-save: Constitution saving throw. If you succeed, your Hit Points instead change to a number equal to twice your Barbarian level.
 
 Each time you use this feature after the first, the DC increases by 5. When you finish a **:rest-short: Short** or **:rest-long: Long Rest**, the DC resets to 10.
 
@@ -205,9 +205,9 @@ You have honed new ways to attack furiously. The following effects are now among
 
 ### Level 15: Persistent Rage
 
-When you roll **:d20-inv: Initiative**{.d20 }, you can regain all expended uses of **:class-abl-rage: Rage**{ .em }. After you regain uses of **:class-abl-rage: Rage**{ .em } in this way, you can't do so again until you finish a **:rest-long: Long Rest**.
+When you roll **:d20-inv: Initiative**{.d20 }, you can regain all expended uses of **:ui-rage: Rage**{ .em }. After you regain uses of **:ui-rage: Rage**{ .em } in this way, you can't do so again until you finish a **:rest-long: Long Rest**.
 
-In addition, your **:class-abl-rage: Rage**{ .em } is so fierce that it now lasts for 10 minutes without you needing to do anything to extend it from round to round. Your **:class-abl-rage: Rage**{ .em } ends early if you have the Unconscious condition (not just the Incapacitated condition) or don Heavy armour.
+In addition, your **:ui-rage: Rage**{ .em } is so fierce that it now lasts for 10 minutes without you needing to do anything to extend it from round to round. Your **:ui-rage: Rage**{ .em } ends early if you have the Unconscious condition (not just the Incapacitated condition) or don Heavy armour.
 
 ### Level 17: Improved Brutal Strike
 
