@@ -113,7 +113,7 @@
         letter-spacing: calc(var(--default-font-size) * 0.03);
         font-weight: 550;
         margin: #{convert.px2rem(10px)} 0;
-        border-bottom: #{convert.px2rem(2.5px)} solid var(--md-default-fg-color--light);
+        border-bottom: #{convert.px2rem(2.5px)} solid var(--md-default-wht--025);
         padding-bottom: #{convert.px2rem(4px)};
     }
 
@@ -146,7 +146,7 @@
 
 // Divider Line
 .md-typeset hr {
-    border-bottom: #{convert.px2em(8px)} dashed var(--md-default-wht--0125);
+    border-bottom: #{convert.px2em(4px)} dashed var(--md-default-wht--0125);
     margin: #{convert.px2em(14px)} 0;
 }
 
