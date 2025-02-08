@@ -33,9 +33,11 @@ For example, a Level 1 Barbarian could choose to apply either [Cleave](#cleave) 
 
 ## Mastery Properties Description
 
-The Mastery Properties are divided into two groupsL PHB'24 & Homebrew.
+The Mastery Properties are divided into two groups PHB'24 & Homebrew.
 
 ## PHB'24
+
+The following Mastery properties are lined in PHB'24
 
 ---
 
@@ -112,6 +114,8 @@ If you hit a creature with this weapon and deal damage to the creature, you have
 ---
 
 ## Homebrew
+
+The following Mastery properties are homebrew.
 
 ---
 
