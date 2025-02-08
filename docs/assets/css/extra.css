@@ -87,7 +87,7 @@
   letter-spacing: calc(var(--default-font-size) * 0.03);
   font-weight: 550;
   margin: 0.5rem 0;
-  border-bottom: 0.125rem solid var(--md-primary-fg-color);
+  border-bottom: 0.125rem solid var(--md-default-fg-color--light);
   padding-bottom: 0.2rem;
 }
 .md-typeset h4 {
@@ -102,8 +102,8 @@
   font-size: var(--default-font-size);
   letter-spacing: calc(var(--default-font-size) * 0.03);
   font-weight: 500;
-  margin-top: -0.2rem;
-  margin-bottom: -0.7rem;
+  margin-top: -0.15rem;
+  margin-bottom: -0.6rem;
 }
 .md-typeset h6 {
   font-size: calc(var(--default-font-size) * 0.85);
@@ -111,7 +111,7 @@
 }
 
 .md-typeset hr {
-  border-bottom: 0.5em double var(--md-default-wht--0125);
+  border-bottom: 0.5em dashed var(--md-default-wht--0125);
   margin: 0.875em 0;
 }
 
