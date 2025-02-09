@@ -14,7 +14,6 @@
 -------------------------------------------------------*/
 .em {
     white-space: nowrap; /* Prevents block splitting on smaller screens, used with icons */
-    font-weight: 400 !important;
     color: var(--md-gbl-text-color-strong);
 
     // Disable dotted line for abbreviations
@@ -111,8 +110,8 @@
 
 /* Used in conjuction with .inl */
 .indt {
-    text-indent: calc((var(--default-font-size) * 1.125 ) * (-1));
-    padding-left: calc((var(--default-font-size) * 1.125 ) * 2);
+    text-indent: calc((var(--default-font-size)) * (-1));
+    padding-left: calc((var(--default-font-size)) * 2);
 }
 
 /*-------------------------------------------------------

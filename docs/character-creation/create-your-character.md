@@ -87,6 +87,8 @@ The Standard Languages table lists languages that are widespread on D&D worlds. 
 
 === "PHB'24"
 
+    The following are Standard Languages found in PHB'24. 
+
     ##### Standard Languages
 
     | 1d12 | Language | Origin |

@@ -18,13 +18,13 @@
 --------------------------------------------------------*/
 
 .md-typeset {
-
     font-size: var(--default-font-size);
     font-weight: var(--default-font-weight);
     color: var(--md-gbl-text-color);
 
     // Strong text styles
     strong {
+        font-weight: 600;
         letter-spacing: calc(var(--default-font-size) * 0.0125);
         color: var(--md-gbl-text-color-strong);
     }
@@ -57,6 +57,18 @@
     blockquote {
         strong {
             color: var(--md-default-fg-color--light) !important;
+        }
+    }
+
+    a {
+        // Link Behaviour on Hover
+        &:is(:focus, :hover) {
+            transition: background-color 250ms;
+            
+            border-radius: convert.px2em(3px); /* Rounds corner */
+
+            color: var(--md-gbl-link-color); /* Prevent colour change on hover */
+            background-color: var(--md-primary-fg-color-transparent); /* Draw background on hover */
         }
     }
 

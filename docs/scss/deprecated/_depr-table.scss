@@ -1,0 +1,83 @@
+@use "./typeset";
+@use "../utility/convert";
+
+/*------------------------------------------------------- 
+    Depreated Table Style
+--------------------------------------------------------*/
+
+$paddings: 16px;
+$paddingScale: 6px;
+$th-padding: $paddingScale * 1.4;
+
+.md-typeset {
+    
+    & table:not([class]) {
+
+        --table-font-size: #{calc(var(--default-font-size) * 0.9)};
+        
+        th,
+        td {
+            padding: #{convert.px2em($paddingScale)} #{convert.px2em($paddings)};
+            min-width: #{convert.px2em(1px)};
+        }
+
+        th {
+            font-size: var(--table-font-size);
+            font-weight: bold !important;
+            text-transform: capitalize !important;
+            vertical-align: bottom;
+            color: var(--md-text-color);
+            border-bottom: #{convert.px2rem(3px)} solid var(--md-primary-fg-color);
+            
+            background-color: var(--md-mod-table-color--darkest);
+            padding: #{convert.px2em($th-padding)} #{convert.px2em($paddings)};
+        }
+
+        td {
+            font-size: calc(var(--table-font-size) * 0.9);
+            border: #{convert.px2rem(0px)} transparent !important;
+            vertical-align: middle;
+
+            b,
+            strong {
+                font-weight: calc(var(--default-font-weight, 400) * 1.8); // Fallback for default weight
+            }
+        }
+
+        // Adjust font sizes for smaller screens
+        @media screen and (max-width: 720px) {
+            th {
+                font-size: calc(var(--table-font-size) * 0.9);
+            }
+
+            td {
+                font-size: calc(var(--table-font-size) * 0.8);
+            }
+        }
+
+        // Reset hover effect
+        tr:hover {
+            background-color: inherit !important; // Ensures no change on hover
+        }
+
+        // Preserve striped rows
+        tr:nth-child(odd) {
+            background-color: transparent !important; // Adjust for striped colour
+        }
+
+        tr:nth-child(even) {
+            background-color: var(--md-mod-table-color--light) !important;
+        }
+    }
+
+    // BEM Element for tables within .md-typeset
+    &__table {
+        width: 100%;
+
+        table:not([class]) {
+            margin: #{convert.px2rem(0px)};
+            display: table;
+            border-color: transparent !important;
+        }
+    }
+}

@@ -1,5 +1,5 @@
 ---
-icon: weapon/pike
+icon: weapon/sword
 ---
 
 # Cold Weapon

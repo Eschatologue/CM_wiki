@@ -1,5 +1,6 @@
 @use "./typeset";
 @use "../utility/convert";
+@use "../palette/accent";
 
 /*------------------------------------------------------- 
     Tables
@@ -10,11 +11,13 @@ $paddingScale: 6px;
 $th-padding: $paddingScale * 1.4;
 
 .md-typeset {
-    
-    & table:not([class]) {
+    /* Table Colour */
+    --md-table-color--light: hsla(0, 0%, 100%, 0.025);
+    --md-table-color--hover: hsla(0, 0%, 100%, 0.05);
 
+    & table:not([class]) {
         --table-font-size: #{calc(var(--default-font-size) * 0.9)};
-        
+
         th,
         td {
             padding: #{convert.px2em($paddingScale)} #{convert.px2em($paddings)};
@@ -22,24 +25,39 @@ $th-padding: $paddingScale * 1.4;
         }
 
         th {
+            background-color: var(--md-default-bg-color) !important;
+            
             font-size: var(--table-font-size);
             font-weight: bold !important;
             text-transform: capitalize !important;
-            vertical-align: bottom;
+
             color: var(--md-text-color);
-            border-bottom: #{convert.px2rem(3px)} solid var(--md-primary-fg-color);
-            background-color: var(--md-mod-table-color--darkest);
+            border-bottom: #{convert.px2rem(3px)} solid var(--md-typeset-table-color);
+
             padding: #{convert.px2em($th-padding)} #{convert.px2em($paddings)};
+
+            vertical-align: bottom;
         }
 
         td {
             font-size: calc(var(--table-font-size) * 0.9);
-            border: #{convert.px2rem(0px)} transparent !important;
+            border-top: none;
+            border-bottom: #{convert.px2rem(1px)} solid var(--md-typeset-table-color);
             vertical-align: middle;
 
             b,
             strong {
                 font-weight: calc(var(--default-font-weight, 400) * 1.8); // Fallback for default weight
+            }
+        }
+
+        tbody tr {
+            transition: background-color 125ms;
+
+            // Table row on hover
+            &:hover {
+                background-color: var(--md-typeset-table-color--light);
+                box-shadow: 0 px2rem(1px) 0 var(--md-default-bg-color) inset;
             }
         }
 
@@ -54,18 +72,13 @@ $th-padding: $paddingScale * 1.4;
             }
         }
 
-        // Reset hover effect
-        tr:hover {
-            background-color: inherit !important; // Ensures no change on hover
-        }
-
         // Preserve striped rows
-        tr:nth-child(odd) {
-            background-color: transparent !important; // Adjust for striped colour
+        tr:nth-child(even) {
+            background-color: transparent; // Adjust for striped colour
         }
 
-        tr:nth-child(even) {
-            background-color: var(--md-mod-table-color--light) !important;
+        tr:nth-child(odd) {
+            background-color: var(--md-table-color--light);
         }
     }
 
@@ -74,7 +87,6 @@ $th-padding: $paddingScale * 1.4;
         width: 100%;
 
         table:not([class]) {
-            box-shadow: var(--md-shadow-z2);
             margin: #{convert.px2rem(0px)};
             display: table;
             border-color: transparent !important;

@@ -1,8 +1,6 @@
 @use "sass:color";
-
-/*------------------------------------------------------- 
-    Accent Colours
---------------------------------------------------------*/
+@use "./nord";
+@use "../utility/convert";
 
 $mod-highlight: hsl(66, 94%, 73%);
 $mod-selection: hsl(231, 25%, 25%);
@@ -26,3 +24,27 @@ $mod-deep-orange: hsl(14, 100%, 57%);
 $mod-brown: hsl(16, 25%, 38%);
 $mod-grey: hsl(0, 0%, 62%);
 $mod-blue-gray: hsl(200, 18%, 46%);
+
+// https://nordui.netlify.app/docs/core/colors
+
+$nord-dark: convert.hex2hsl(nord.$nord0);
+$nord-darker: convert.hex2hsl(#242931);
+
+$nord-snow1: convert.hex3hsl(nord.$nord4);
+$nord-snow1-pale: color.adjust($nord-snow1, $saturation: -10%, $lightness: -10%);
+
+$nord-snow2: convert.hex2hsl(nord.$nord5); 
+$nord-snow3: convert.hex2hsl(nord.$nord6);
+
+$nord-red: convert.hex3hsl(nord.$nord11);
+$nord-orange: convert.hex3hsl(nord.$nord12);
+$nord-yellow: convert.hex3hsl(nord.$nord13);
+$nord-green: convert.hex3hsl(nord.$nord14);
+$nord-pink: convert.hex3hsl(nord.$nord15);
+$nord-indigo: convert.hex3hsl(#536DFE);
+$nord-cyan: convert.hex3hsl(#4DB6AC);
+
+$nord-frost1: convert.hex3hsl(nord.$nord7);
+$nord-frost2: convert.hex3hsl(nord.$nord8);
+$nord-frost3: convert.hex3hsl(nord.$nord9);
+$nord-frost4: convert.hex3hsl(nord.$nord10);

@@ -271,7 +271,7 @@ table tr:last-child td:last-child {
 
 
 .md-top {
-    background-color: var(--md-default-bg-color--dark);
+    background-color: var(--md-default-bg-color);
 
     &:hover {
       background-color: var(--md-primary-fg-color);

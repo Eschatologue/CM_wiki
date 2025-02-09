@@ -22,6 +22,7 @@
   color: var(--md-gbl-text-color);
 }
 .md-typeset strong {
+  font-weight: 600;
   letter-spacing: calc(var(--default-font-size) * 0.0125);
   color: var(--md-gbl-text-color-strong);
 }
@@ -44,6 +45,12 @@
 }
 .md-typeset blockquote strong {
   color: var(--md-default-fg-color--light) !important;
+}
+.md-typeset a:is(:focus, :hover) {
+  transition: background-color 250ms;
+  border-radius: 0.1875em; /* Rounds corner */
+  color: var(--md-gbl-link-color); /* Prevent colour change on hover */
+  background-color: var(--md-primary-fg-color-transparent); /* Draw background on hover */
 }
 .md-typeset h1 abbr,
 .md-typeset h2 abbr,
@@ -122,6 +129,11 @@
 /*------------------------------------------------------- 
     Tables
 --------------------------------------------------------*/
+.md-typeset {
+  /* Table Colour */
+  --md-table-color--light: hsla(0, 0%, 100%, 0.025);
+  --md-table-color--hover: hsla(0, 0%, 100%, 0.05);
+}
 .md-typeset table:not([class]) {
   --table-font-size: calc(var(--default-font-size) * 0.9);
 }
@@ -131,23 +143,31 @@
   min-width: 0.0625em;
 }
 .md-typeset table:not([class]) th {
+  background-color: var(--md-default-bg-color) !important;
   font-size: var(--table-font-size);
   font-weight: bold !important;
   text-transform: capitalize !important;
-  vertical-align: bottom;
   color: var(--md-text-color);
-  border-bottom: 0.15rem solid var(--md-primary-fg-color);
-  background-color: var(--md-mod-table-color--darkest);
+  border-bottom: 0.15rem solid var(--md-typeset-table-color);
   padding: 0.525em 1em;
+  vertical-align: bottom;
 }
 .md-typeset table:not([class]) td {
   font-size: calc(var(--table-font-size) * 0.9);
-  border: 0rem transparent !important;
+  border-top: none;
+  border-bottom: 0.05rem solid var(--md-typeset-table-color);
   vertical-align: middle;
 }
 .md-typeset table:not([class]) td b,
 .md-typeset table:not([class]) td strong {
   font-weight: calc(var(--default-font-weight, 400) * 1.8);
+}
+.md-typeset table:not([class]) tbody tr {
+  transition: background-color 125ms;
+}
+.md-typeset table:not([class]) tbody tr:hover {
+  background-color: var(--md-typeset-table-color--light);
+  box-shadow: 0 px2rem(1px) 0 var(--md-default-bg-color) inset;
 }
 @media screen and (max-width: 720px) {
   .md-typeset table:not([class]) th {
@@ -157,20 +177,16 @@
     font-size: calc(var(--table-font-size) * 0.8);
   }
 }
-.md-typeset table:not([class]) tr:hover {
-  background-color: inherit !important;
+.md-typeset table:not([class]) tr:nth-child(even) {
+  background-color: transparent;
 }
 .md-typeset table:not([class]) tr:nth-child(odd) {
-  background-color: transparent !important;
-}
-.md-typeset table:not([class]) tr:nth-child(even) {
-  background-color: var(--md-mod-table-color--light) !important;
+  background-color: var(--md-table-color--light);
 }
 .md-typeset__table {
   width: 100%;
 }
 .md-typeset__table table:not([class]) {
-  box-shadow: var(--md-shadow-z2);
   margin: 0rem;
   display: table;
   border-color: transparent !important;
@@ -188,7 +204,6 @@
 -------------------------------------------------------*/
 .em, .inl, .rsc, .d20 {
   white-space: nowrap; /* Prevents block splitting on smaller screens, used with icons */
-  font-weight: 400 !important;
   color: var(--md-gbl-text-color-strong);
 }
 .em abbr, .inl abbr, .rsc abbr, .d20 abbr {
@@ -264,8 +279,8 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 -------------------------------------------------------*/
 /* Used in conjuction with .inl */
 .indt {
-  text-indent: calc(var(--default-font-size) * 1.125 * -1);
-  padding-left: calc(var(--default-font-size) * 1.125 * 2);
+  text-indent: calc((var(--default-font-size)) * -1);
+  padding-left: calc((var(--default-font-size)) * 2);
 }
 
 /*-------------------------------------------------------
@@ -377,39 +392,31 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 }
 
 /*------------------------------------------------------- 
-    Accent Colours
---------------------------------------------------------*/
-/*------------------------------------------------------- 
     Colours
 --------------------------------------------------------*/
 [data-md-color-scheme=slate] {
   --md-hue: 215;
+  --nord-h: 216;
+  --nord-s: 15%;
+  --nord-l: 16%;
 }
 
+/* Standard Material Colour */
 [data-md-color-scheme=slate][data-md-color-primary=red] {
   /* Global Text Colour */
-  --md-gbl-text-color: hsla(0, 0%, 90%, 0.75);
-  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.90);
+  --md-gbl-text-color: hsl(219, 18%, 78%);
+  --md-gbl-text-color-strong: hsl(219, 28%, 88%);
   /* Code */
   --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
-  --md-primary-fg-color: hsla(4deg, 90%, 58%, 1);
-  --md-primary-fg-color-light: hsla(4deg, 90%, 63%, 1);
-  --md-primary-fg-color-dark: hsla(4deg, 90%, 53%, 1);
-  --md-primary-fg-color-transparent: hsla(4deg, 90%, 58%, 0.15);
+  --md-primary-fg-color: hsla(354deg, 42%, 56%, 1);
+  --md-primary-fg-color-light: hsla(354deg, 42%, 66%, 1);
+  --md-primary-fg-color-dark: hsla(354deg, 42%, 41%, 1);
+  --md-primary-fg-color-transparent: hsla(354deg, 42%, 56%, 0.125);
+  /* Accemt Colour Variants */
+  --md-accent-fg-color: var(--md-primary-fg-color);
   /* Background Colours */
-  --md-default-bg-color: hsla(215, 15%, 14%, 1);
-  --md-default-bg-color--dark: hsla(215, 15%, 10%, 1);
-  --md-default-bg-color--darker: hsla(215, 15%, 7%, 1);
-  --md-default-bg-color--darkest: hsla(215, 15%, 4%, 1);
-  /* Lighter Background Variants */
-  --md-default-bg-color--light: hsla(215, 15%, 18%, 1);
-  --md-default-bg-color--lighter: hsla(215, 15%, 22%, 1);
-  --md-default-bg-color--lightest: hsla(215, 15%, 26%, 1);
-  /* Transparent Background Colour Options */
-  --md-default-bg-color--25: hsla(215, 15%, 14%, 0.25);
-  --md-default-bg-color--50: hsla(215, 15%, 14%, 0.5);
-  --md-default-bg-color--75: hsla(215, 15%, 14%, 0.75);
+  --md-default-bg-color: hsla(217deg, 15%, 17%,1); /* Main Background Colour*/
   /* Transparent White Colour */
   --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
   --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
@@ -420,35 +427,26 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
-  /* Table Colour */
-  --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
-  --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
+  --md-gbl-link-color: var(--md-primary-fg-color-light);
+  /* Typeset `a` color shades */
+  --md-typeset-a-color: var(--md-gbl-link-color);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=pink] {
   /* Global Text Colour */
-  --md-gbl-text-color: hsla(0, 0%, 90%, 0.75);
-  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.90);
+  --md-gbl-text-color: hsl(219, 18%, 78%);
+  --md-gbl-text-color-strong: hsl(219, 28%, 88%);
   /* Code */
   --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
-  --md-primary-fg-color: hsla(340deg, 82%, 52%, 1);
-  --md-primary-fg-color-light: hsla(340deg, 82%, 57%, 1);
-  --md-primary-fg-color-dark: hsla(340deg, 82%, 47%, 1);
-  --md-primary-fg-color-transparent: hsla(340deg, 82%, 52%, 0.15);
+  --md-primary-fg-color: hsla(311deg, 20%, 63%, 1);
+  --md-primary-fg-color-light: hsla(311deg, 20%, 73%, 1);
+  --md-primary-fg-color-dark: hsla(311deg, 20%, 48%, 1);
+  --md-primary-fg-color-transparent: hsla(311deg, 20%, 63%, 0.125);
+  /* Accemt Colour Variants */
+  --md-accent-fg-color: var(--md-primary-fg-color);
   /* Background Colours */
-  --md-default-bg-color: hsla(215, 15%, 14%, 1);
-  --md-default-bg-color--dark: hsla(215, 15%, 10%, 1);
-  --md-default-bg-color--darker: hsla(215, 15%, 7%, 1);
-  --md-default-bg-color--darkest: hsla(215, 15%, 4%, 1);
-  /* Lighter Background Variants */
-  --md-default-bg-color--light: hsla(215, 15%, 18%, 1);
-  --md-default-bg-color--lighter: hsla(215, 15%, 22%, 1);
-  --md-default-bg-color--lightest: hsla(215, 15%, 26%, 1);
-  /* Transparent Background Colour Options */
-  --md-default-bg-color--25: hsla(215, 15%, 14%, 0.25);
-  --md-default-bg-color--50: hsla(215, 15%, 14%, 0.5);
-  --md-default-bg-color--75: hsla(215, 15%, 14%, 0.75);
+  --md-default-bg-color: hsla(217deg, 15%, 17%,1); /* Main Background Colour*/
   /* Transparent White Colour */
   --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
   --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
@@ -459,152 +457,26 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
-  /* Table Colour */
-  --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
-  --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
-}
-
-[data-md-color-scheme=slate][data-md-color-primary=purple] {
-  /* Global Text Colour */
-  --md-gbl-text-color: hsla(0, 0%, 90%, 0.75);
-  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.90);
-  /* Code */
-  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
-  /* Primary Colour Variants */
-  --md-primary-fg-color: hsla(291deg, 64%, 42%, 1);
-  --md-primary-fg-color-light: hsla(291deg, 64%, 47%, 1);
-  --md-primary-fg-color-dark: hsla(291deg, 64%, 37%, 1);
-  --md-primary-fg-color-transparent: hsla(291deg, 64%, 42%, 0.15);
-  /* Background Colours */
-  --md-default-bg-color: hsla(215, 15%, 14%, 1);
-  --md-default-bg-color--dark: hsla(215, 15%, 10%, 1);
-  --md-default-bg-color--darker: hsla(215, 15%, 7%, 1);
-  --md-default-bg-color--darkest: hsla(215, 15%, 4%, 1);
-  /* Lighter Background Variants */
-  --md-default-bg-color--light: hsla(215, 15%, 18%, 1);
-  --md-default-bg-color--lighter: hsla(215, 15%, 22%, 1);
-  --md-default-bg-color--lightest: hsla(215, 15%, 26%, 1);
-  /* Transparent Background Colour Options */
-  --md-default-bg-color--25: hsla(215, 15%, 14%, 0.25);
-  --md-default-bg-color--50: hsla(215, 15%, 14%, 0.5);
-  --md-default-bg-color--75: hsla(215, 15%, 14%, 0.75);
-  /* Transparent White Colour */
-  --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
-  --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
-  --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
-  --md-default-blk--0125: hsla(0, 0%, 0%, 0.125);
-  --md-default-blk--025: hsla(0, 0%, 0%, 0.25);
-  --md-default-blk--050: hsla(0, 0%, 0%, 0.5);
-  /* Link and Secondary Colours */
-  --md-primary-bg-color: var(--md-default-bg-color);
-  --md-primary-bg-color-light: var(--md-default-bg-color--light);
-  /* Table Colour */
-  --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
-  --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
-}
-
-[data-md-color-scheme=slate][data-md-color-primary=deep-purple] {
-  /* Global Text Colour */
-  --md-gbl-text-color: hsla(0, 0%, 90%, 0.75);
-  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.90);
-  /* Code */
-  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
-  /* Primary Colour Variants */
-  --md-primary-fg-color: hsla(262deg, 52%, 47%, 1);
-  --md-primary-fg-color-light: hsla(262deg, 52%, 52%, 1);
-  --md-primary-fg-color-dark: hsla(262deg, 52%, 42%, 1);
-  --md-primary-fg-color-transparent: hsla(262deg, 52%, 47%, 0.15);
-  /* Background Colours */
-  --md-default-bg-color: hsla(215, 15%, 14%, 1);
-  --md-default-bg-color--dark: hsla(215, 15%, 10%, 1);
-  --md-default-bg-color--darker: hsla(215, 15%, 7%, 1);
-  --md-default-bg-color--darkest: hsla(215, 15%, 4%, 1);
-  /* Lighter Background Variants */
-  --md-default-bg-color--light: hsla(215, 15%, 18%, 1);
-  --md-default-bg-color--lighter: hsla(215, 15%, 22%, 1);
-  --md-default-bg-color--lightest: hsla(215, 15%, 26%, 1);
-  /* Transparent Background Colour Options */
-  --md-default-bg-color--25: hsla(215, 15%, 14%, 0.25);
-  --md-default-bg-color--50: hsla(215, 15%, 14%, 0.5);
-  --md-default-bg-color--75: hsla(215, 15%, 14%, 0.75);
-  /* Transparent White Colour */
-  --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
-  --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
-  --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
-  --md-default-blk--0125: hsla(0, 0%, 0%, 0.125);
-  --md-default-blk--025: hsla(0, 0%, 0%, 0.25);
-  --md-default-blk--050: hsla(0, 0%, 0%, 0.5);
-  /* Link and Secondary Colours */
-  --md-primary-bg-color: var(--md-default-bg-color);
-  --md-primary-bg-color-light: var(--md-default-bg-color--light);
-  /* Table Colour */
-  --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
-  --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
-}
-
-[data-md-color-scheme=slate][data-md-color-primary=blue] {
-  /* Global Text Colour */
-  --md-gbl-text-color: hsla(0, 0%, 90%, 0.75);
-  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.90);
-  /* Code */
-  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
-  /* Primary Colour Variants */
-  --md-primary-fg-color: hsla(207deg, 90%, 54%, 1);
-  --md-primary-fg-color-light: hsla(207deg, 90%, 59%, 1);
-  --md-primary-fg-color-dark: hsla(207deg, 90%, 49%, 1);
-  --md-primary-fg-color-transparent: hsla(207deg, 90%, 54%, 0.15);
-  /* Background Colours */
-  --md-default-bg-color: hsla(215, 15%, 14%, 1);
-  --md-default-bg-color--dark: hsla(215, 15%, 10%, 1);
-  --md-default-bg-color--darker: hsla(215, 15%, 7%, 1);
-  --md-default-bg-color--darkest: hsla(215, 15%, 4%, 1);
-  /* Lighter Background Variants */
-  --md-default-bg-color--light: hsla(215, 15%, 18%, 1);
-  --md-default-bg-color--lighter: hsla(215, 15%, 22%, 1);
-  --md-default-bg-color--lightest: hsla(215, 15%, 26%, 1);
-  /* Transparent Background Colour Options */
-  --md-default-bg-color--25: hsla(215, 15%, 14%, 0.25);
-  --md-default-bg-color--50: hsla(215, 15%, 14%, 0.5);
-  --md-default-bg-color--75: hsla(215, 15%, 14%, 0.75);
-  /* Transparent White Colour */
-  --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
-  --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
-  --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
-  --md-default-blk--0125: hsla(0, 0%, 0%, 0.125);
-  --md-default-blk--025: hsla(0, 0%, 0%, 0.25);
-  --md-default-blk--050: hsla(0, 0%, 0%, 0.5);
-  /* Link and Secondary Colours */
-  --md-primary-bg-color: var(--md-default-bg-color);
-  --md-primary-bg-color-light: var(--md-default-bg-color--light);
-  /* Table Colour */
-  --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
-  --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
+  --md-gbl-link-color: var(--md-primary-fg-color-light);
+  /* Typeset `a` color shades */
+  --md-typeset-a-color: var(--md-gbl-link-color);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=indigo] {
   /* Global Text Colour */
-  --md-gbl-text-color: hsla(0, 0%, 90%, 0.75);
-  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.90);
+  --md-gbl-text-color: hsl(219, 18%, 78%);
+  --md-gbl-text-color-strong: hsl(219, 28%, 88%);
   /* Code */
   --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
-  --md-primary-fg-color: hsla(231deg, 48%, 48%, 1);
-  --md-primary-fg-color-light: hsla(231deg, 48%, 53%, 1);
-  --md-primary-fg-color-dark: hsla(231deg, 48%, 43%, 1);
-  --md-primary-fg-color-transparent: hsla(231deg, 48%, 48%, 0.15);
+  --md-primary-fg-color: hsla(231deg, 99%, 66%, 1);
+  --md-primary-fg-color-light: hsla(231deg, 99%, 76%, 1);
+  --md-primary-fg-color-dark: hsla(231deg, 99%, 51%, 1);
+  --md-primary-fg-color-transparent: hsla(231deg, 99%, 66%, 0.125);
+  /* Accemt Colour Variants */
+  --md-accent-fg-color: var(--md-primary-fg-color);
   /* Background Colours */
-  --md-default-bg-color: hsla(215, 15%, 14%, 1);
-  --md-default-bg-color--dark: hsla(215, 15%, 10%, 1);
-  --md-default-bg-color--darker: hsla(215, 15%, 7%, 1);
-  --md-default-bg-color--darkest: hsla(215, 15%, 4%, 1);
-  /* Lighter Background Variants */
-  --md-default-bg-color--light: hsla(215, 15%, 18%, 1);
-  --md-default-bg-color--lighter: hsla(215, 15%, 22%, 1);
-  --md-default-bg-color--lightest: hsla(215, 15%, 26%, 1);
-  /* Transparent Background Colour Options */
-  --md-default-bg-color--25: hsla(215, 15%, 14%, 0.25);
-  --md-default-bg-color--50: hsla(215, 15%, 14%, 0.5);
-  --md-default-bg-color--75: hsla(215, 15%, 14%, 0.75);
+  --md-default-bg-color: hsla(217deg, 15%, 17%,1); /* Main Background Colour*/
   /* Transparent White Colour */
   --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
   --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
@@ -615,152 +487,26 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
-  /* Table Colour */
-  --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
-  --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
-}
-
-[data-md-color-scheme=slate][data-md-color-primary=light-blue] {
-  /* Global Text Colour */
-  --md-gbl-text-color: hsla(0, 0%, 90%, 0.75);
-  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.90);
-  /* Code */
-  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
-  /* Primary Colour Variants */
-  --md-primary-fg-color: hsla(199deg, 98%, 48%, 1);
-  --md-primary-fg-color-light: hsla(199deg, 98%, 53%, 1);
-  --md-primary-fg-color-dark: hsla(199deg, 98%, 43%, 1);
-  --md-primary-fg-color-transparent: hsla(199deg, 98%, 48%, 0.15);
-  /* Background Colours */
-  --md-default-bg-color: hsla(215, 15%, 14%, 1);
-  --md-default-bg-color--dark: hsla(215, 15%, 10%, 1);
-  --md-default-bg-color--darker: hsla(215, 15%, 7%, 1);
-  --md-default-bg-color--darkest: hsla(215, 15%, 4%, 1);
-  /* Lighter Background Variants */
-  --md-default-bg-color--light: hsla(215, 15%, 18%, 1);
-  --md-default-bg-color--lighter: hsla(215, 15%, 22%, 1);
-  --md-default-bg-color--lightest: hsla(215, 15%, 26%, 1);
-  /* Transparent Background Colour Options */
-  --md-default-bg-color--25: hsla(215, 15%, 14%, 0.25);
-  --md-default-bg-color--50: hsla(215, 15%, 14%, 0.5);
-  --md-default-bg-color--75: hsla(215, 15%, 14%, 0.75);
-  /* Transparent White Colour */
-  --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
-  --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
-  --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
-  --md-default-blk--0125: hsla(0, 0%, 0%, 0.125);
-  --md-default-blk--025: hsla(0, 0%, 0%, 0.25);
-  --md-default-blk--050: hsla(0, 0%, 0%, 0.5);
-  /* Link and Secondary Colours */
-  --md-primary-bg-color: var(--md-default-bg-color);
-  --md-primary-bg-color-light: var(--md-default-bg-color--light);
-  /* Table Colour */
-  --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
-  --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
-}
-
-[data-md-color-scheme=slate][data-md-color-primary=cyan] {
-  /* Global Text Colour */
-  --md-gbl-text-color: hsla(0, 0%, 90%, 0.75);
-  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.90);
-  /* Code */
-  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
-  /* Primary Colour Variants */
-  --md-primary-fg-color: hsla(187deg, 100%, 42%, 1);
-  --md-primary-fg-color-light: hsla(187deg, 100%, 47%, 1);
-  --md-primary-fg-color-dark: hsla(187deg, 100%, 37%, 1);
-  --md-primary-fg-color-transparent: hsla(187deg, 100%, 42%, 0.15);
-  /* Background Colours */
-  --md-default-bg-color: hsla(215, 15%, 14%, 1);
-  --md-default-bg-color--dark: hsla(215, 15%, 10%, 1);
-  --md-default-bg-color--darker: hsla(215, 15%, 7%, 1);
-  --md-default-bg-color--darkest: hsla(215, 15%, 4%, 1);
-  /* Lighter Background Variants */
-  --md-default-bg-color--light: hsla(215, 15%, 18%, 1);
-  --md-default-bg-color--lighter: hsla(215, 15%, 22%, 1);
-  --md-default-bg-color--lightest: hsla(215, 15%, 26%, 1);
-  /* Transparent Background Colour Options */
-  --md-default-bg-color--25: hsla(215, 15%, 14%, 0.25);
-  --md-default-bg-color--50: hsla(215, 15%, 14%, 0.5);
-  --md-default-bg-color--75: hsla(215, 15%, 14%, 0.75);
-  /* Transparent White Colour */
-  --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
-  --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
-  --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
-  --md-default-blk--0125: hsla(0, 0%, 0%, 0.125);
-  --md-default-blk--025: hsla(0, 0%, 0%, 0.25);
-  --md-default-blk--050: hsla(0, 0%, 0%, 0.5);
-  /* Link and Secondary Colours */
-  --md-primary-bg-color: var(--md-default-bg-color);
-  --md-primary-bg-color-light: var(--md-default-bg-color--light);
-  /* Table Colour */
-  --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
-  --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
-}
-
-[data-md-color-scheme=slate][data-md-color-primary=teal] {
-  /* Global Text Colour */
-  --md-gbl-text-color: hsla(0, 0%, 90%, 0.75);
-  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.90);
-  /* Code */
-  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
-  /* Primary Colour Variants */
-  --md-primary-fg-color: hsla(174deg, 100%, 29%, 1);
-  --md-primary-fg-color-light: hsla(174deg, 100%, 34%, 1);
-  --md-primary-fg-color-dark: hsla(174deg, 100%, 24%, 1);
-  --md-primary-fg-color-transparent: hsla(174deg, 100%, 29%, 0.15);
-  /* Background Colours */
-  --md-default-bg-color: hsla(215, 15%, 14%, 1);
-  --md-default-bg-color--dark: hsla(215, 15%, 10%, 1);
-  --md-default-bg-color--darker: hsla(215, 15%, 7%, 1);
-  --md-default-bg-color--darkest: hsla(215, 15%, 4%, 1);
-  /* Lighter Background Variants */
-  --md-default-bg-color--light: hsla(215, 15%, 18%, 1);
-  --md-default-bg-color--lighter: hsla(215, 15%, 22%, 1);
-  --md-default-bg-color--lightest: hsla(215, 15%, 26%, 1);
-  /* Transparent Background Colour Options */
-  --md-default-bg-color--25: hsla(215, 15%, 14%, 0.25);
-  --md-default-bg-color--50: hsla(215, 15%, 14%, 0.5);
-  --md-default-bg-color--75: hsla(215, 15%, 14%, 0.75);
-  /* Transparent White Colour */
-  --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
-  --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
-  --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
-  --md-default-blk--0125: hsla(0, 0%, 0%, 0.125);
-  --md-default-blk--025: hsla(0, 0%, 0%, 0.25);
-  --md-default-blk--050: hsla(0, 0%, 0%, 0.5);
-  /* Link and Secondary Colours */
-  --md-primary-bg-color: var(--md-default-bg-color);
-  --md-primary-bg-color-light: var(--md-default-bg-color--light);
-  /* Table Colour */
-  --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
-  --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
+  --md-gbl-link-color: var(--md-primary-fg-color-light);
+  /* Typeset `a` color shades */
+  --md-typeset-a-color: var(--md-gbl-link-color);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=green] {
   /* Global Text Colour */
-  --md-gbl-text-color: hsla(0, 0%, 90%, 0.75);
-  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.90);
+  --md-gbl-text-color: hsl(219, 18%, 78%);
+  --md-gbl-text-color-strong: hsl(219, 28%, 88%);
   /* Code */
   --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
-  --md-primary-fg-color: hsla(122deg, 39%, 49%, 1);
-  --md-primary-fg-color-light: hsla(122deg, 39%, 54%, 1);
-  --md-primary-fg-color-dark: hsla(122deg, 39%, 44%, 1);
-  --md-primary-fg-color-transparent: hsla(122deg, 39%, 49%, 0.15);
+  --md-primary-fg-color: hsla(92deg, 28%, 65%, 1);
+  --md-primary-fg-color-light: hsla(92deg, 28%, 75%, 1);
+  --md-primary-fg-color-dark: hsla(92deg, 28%, 50%, 1);
+  --md-primary-fg-color-transparent: hsla(92deg, 28%, 65%, 0.125);
+  /* Accemt Colour Variants */
+  --md-accent-fg-color: var(--md-primary-fg-color);
   /* Background Colours */
-  --md-default-bg-color: hsla(215, 15%, 14%, 1);
-  --md-default-bg-color--dark: hsla(215, 15%, 10%, 1);
-  --md-default-bg-color--darker: hsla(215, 15%, 7%, 1);
-  --md-default-bg-color--darkest: hsla(215, 15%, 4%, 1);
-  /* Lighter Background Variants */
-  --md-default-bg-color--light: hsla(215, 15%, 18%, 1);
-  --md-default-bg-color--lighter: hsla(215, 15%, 22%, 1);
-  --md-default-bg-color--lightest: hsla(215, 15%, 26%, 1);
-  /* Transparent Background Colour Options */
-  --md-default-bg-color--25: hsla(215, 15%, 14%, 0.25);
-  --md-default-bg-color--50: hsla(215, 15%, 14%, 0.5);
-  --md-default-bg-color--75: hsla(215, 15%, 14%, 0.75);
+  --md-default-bg-color: hsla(217deg, 15%, 17%,1); /* Main Background Colour*/
   /* Transparent White Colour */
   --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
   --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
@@ -771,113 +517,26 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
-  /* Table Colour */
-  --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
-  --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
-}
-
-[data-md-color-scheme=slate][data-md-color-primary=light-green] {
-  /* Global Text Colour */
-  --md-gbl-text-color: hsla(0, 0%, 90%, 0.75);
-  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.90);
-  /* Code */
-  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
-  /* Primary Colour Variants */
-  --md-primary-fg-color: hsla(88deg, 50%, 53%, 1);
-  --md-primary-fg-color-light: hsla(88deg, 50%, 58%, 1);
-  --md-primary-fg-color-dark: hsla(88deg, 50%, 48%, 1);
-  --md-primary-fg-color-transparent: hsla(88deg, 50%, 53%, 0.15);
-  /* Background Colours */
-  --md-default-bg-color: hsla(215, 15%, 14%, 1);
-  --md-default-bg-color--dark: hsla(215, 15%, 10%, 1);
-  --md-default-bg-color--darker: hsla(215, 15%, 7%, 1);
-  --md-default-bg-color--darkest: hsla(215, 15%, 4%, 1);
-  /* Lighter Background Variants */
-  --md-default-bg-color--light: hsla(215, 15%, 18%, 1);
-  --md-default-bg-color--lighter: hsla(215, 15%, 22%, 1);
-  --md-default-bg-color--lightest: hsla(215, 15%, 26%, 1);
-  /* Transparent Background Colour Options */
-  --md-default-bg-color--25: hsla(215, 15%, 14%, 0.25);
-  --md-default-bg-color--50: hsla(215, 15%, 14%, 0.5);
-  --md-default-bg-color--75: hsla(215, 15%, 14%, 0.75);
-  /* Transparent White Colour */
-  --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
-  --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
-  --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
-  --md-default-blk--0125: hsla(0, 0%, 0%, 0.125);
-  --md-default-blk--025: hsla(0, 0%, 0%, 0.25);
-  --md-default-blk--050: hsla(0, 0%, 0%, 0.5);
-  /* Link and Secondary Colours */
-  --md-primary-bg-color: var(--md-default-bg-color);
-  --md-primary-bg-color-light: var(--md-default-bg-color--light);
-  /* Table Colour */
-  --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
-  --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
-}
-
-[data-md-color-scheme=slate][data-md-color-primary=lime] {
-  /* Global Text Colour */
-  --md-gbl-text-color: hsla(0, 0%, 90%, 0.75);
-  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.90);
-  /* Code */
-  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
-  /* Primary Colour Variants */
-  --md-primary-fg-color: hsla(66deg, 70%, 54%, 1);
-  --md-primary-fg-color-light: hsla(66deg, 70%, 59%, 1);
-  --md-primary-fg-color-dark: hsla(66deg, 70%, 49%, 1);
-  --md-primary-fg-color-transparent: hsla(66deg, 70%, 54%, 0.15);
-  /* Background Colours */
-  --md-default-bg-color: hsla(215, 15%, 14%, 1);
-  --md-default-bg-color--dark: hsla(215, 15%, 10%, 1);
-  --md-default-bg-color--darker: hsla(215, 15%, 7%, 1);
-  --md-default-bg-color--darkest: hsla(215, 15%, 4%, 1);
-  /* Lighter Background Variants */
-  --md-default-bg-color--light: hsla(215, 15%, 18%, 1);
-  --md-default-bg-color--lighter: hsla(215, 15%, 22%, 1);
-  --md-default-bg-color--lightest: hsla(215, 15%, 26%, 1);
-  /* Transparent Background Colour Options */
-  --md-default-bg-color--25: hsla(215, 15%, 14%, 0.25);
-  --md-default-bg-color--50: hsla(215, 15%, 14%, 0.5);
-  --md-default-bg-color--75: hsla(215, 15%, 14%, 0.75);
-  /* Transparent White Colour */
-  --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
-  --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
-  --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
-  --md-default-blk--0125: hsla(0, 0%, 0%, 0.125);
-  --md-default-blk--025: hsla(0, 0%, 0%, 0.25);
-  --md-default-blk--050: hsla(0, 0%, 0%, 0.5);
-  /* Link and Secondary Colours */
-  --md-primary-bg-color: var(--md-default-bg-color);
-  --md-primary-bg-color-light: var(--md-default-bg-color--light);
-  /* Table Colour */
-  --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
-  --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
+  --md-gbl-link-color: var(--md-primary-fg-color-light);
+  /* Typeset `a` color shades */
+  --md-typeset-a-color: var(--md-gbl-link-color);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=yellow] {
   /* Global Text Colour */
-  --md-gbl-text-color: hsla(0, 0%, 90%, 0.75);
-  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.90);
+  --md-gbl-text-color: hsl(219, 18%, 78%);
+  --md-gbl-text-color-strong: hsl(219, 28%, 88%);
   /* Code */
   --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
-  --md-primary-fg-color: hsla(54deg, 100%, 62%, 1);
-  --md-primary-fg-color-light: hsla(54deg, 100%, 67%, 1);
-  --md-primary-fg-color-dark: hsla(54deg, 100%, 57%, 1);
-  --md-primary-fg-color-transparent: hsla(54deg, 100%, 62%, 0.15);
+  --md-primary-fg-color: hsla(40deg, 71%, 73%, 1);
+  --md-primary-fg-color-light: hsla(40deg, 71%, 83%, 1);
+  --md-primary-fg-color-dark: hsla(40deg, 71%, 58%, 1);
+  --md-primary-fg-color-transparent: hsla(40deg, 71%, 73%, 0.125);
+  /* Accemt Colour Variants */
+  --md-accent-fg-color: var(--md-primary-fg-color);
   /* Background Colours */
-  --md-default-bg-color: hsla(215, 15%, 14%, 1);
-  --md-default-bg-color--dark: hsla(215, 15%, 10%, 1);
-  --md-default-bg-color--darker: hsla(215, 15%, 7%, 1);
-  --md-default-bg-color--darkest: hsla(215, 15%, 4%, 1);
-  /* Lighter Background Variants */
-  --md-default-bg-color--light: hsla(215, 15%, 18%, 1);
-  --md-default-bg-color--lighter: hsla(215, 15%, 22%, 1);
-  --md-default-bg-color--lightest: hsla(215, 15%, 26%, 1);
-  /* Transparent Background Colour Options */
-  --md-default-bg-color--25: hsla(215, 15%, 14%, 0.25);
-  --md-default-bg-color--50: hsla(215, 15%, 14%, 0.5);
-  --md-default-bg-color--75: hsla(215, 15%, 14%, 0.75);
+  --md-default-bg-color: hsla(217deg, 15%, 17%,1); /* Main Background Colour*/
   /* Transparent White Colour */
   --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
   --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
@@ -888,74 +547,26 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
-  /* Table Colour */
-  --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
-  --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
-}
-
-[data-md-color-scheme=slate][data-md-color-primary=amber] {
-  /* Global Text Colour */
-  --md-gbl-text-color: hsla(0, 0%, 90%, 0.75);
-  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.90);
-  /* Code */
-  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
-  /* Primary Colour Variants */
-  --md-primary-fg-color: hsla(45deg, 100%, 51%, 1);
-  --md-primary-fg-color-light: hsla(45deg, 100%, 56%, 1);
-  --md-primary-fg-color-dark: hsla(45deg, 100%, 46%, 1);
-  --md-primary-fg-color-transparent: hsla(45deg, 100%, 51%, 0.15);
-  /* Background Colours */
-  --md-default-bg-color: hsla(215, 15%, 14%, 1);
-  --md-default-bg-color--dark: hsla(215, 15%, 10%, 1);
-  --md-default-bg-color--darker: hsla(215, 15%, 7%, 1);
-  --md-default-bg-color--darkest: hsla(215, 15%, 4%, 1);
-  /* Lighter Background Variants */
-  --md-default-bg-color--light: hsla(215, 15%, 18%, 1);
-  --md-default-bg-color--lighter: hsla(215, 15%, 22%, 1);
-  --md-default-bg-color--lightest: hsla(215, 15%, 26%, 1);
-  /* Transparent Background Colour Options */
-  --md-default-bg-color--25: hsla(215, 15%, 14%, 0.25);
-  --md-default-bg-color--50: hsla(215, 15%, 14%, 0.5);
-  --md-default-bg-color--75: hsla(215, 15%, 14%, 0.75);
-  /* Transparent White Colour */
-  --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
-  --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
-  --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
-  --md-default-blk--0125: hsla(0, 0%, 0%, 0.125);
-  --md-default-blk--025: hsla(0, 0%, 0%, 0.25);
-  --md-default-blk--050: hsla(0, 0%, 0%, 0.5);
-  /* Link and Secondary Colours */
-  --md-primary-bg-color: var(--md-default-bg-color);
-  --md-primary-bg-color-light: var(--md-default-bg-color--light);
-  /* Table Colour */
-  --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
-  --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
+  --md-gbl-link-color: var(--md-primary-fg-color-light);
+  /* Typeset `a` color shades */
+  --md-typeset-a-color: var(--md-gbl-link-color);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=orange] {
   /* Global Text Colour */
-  --md-gbl-text-color: hsla(0, 0%, 90%, 0.75);
-  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.90);
+  --md-gbl-text-color: hsl(219, 18%, 78%);
+  --md-gbl-text-color-strong: hsl(219, 28%, 88%);
   /* Code */
   --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
-  --md-primary-fg-color: hsla(36deg, 100%, 50%, 1);
-  --md-primary-fg-color-light: hsla(36deg, 100%, 55%, 1);
-  --md-primary-fg-color-dark: hsla(36deg, 100%, 45%, 1);
-  --md-primary-fg-color-transparent: hsla(36deg, 100%, 50%, 0.15);
+  --md-primary-fg-color: hsla(14deg, 51%, 63%, 1);
+  --md-primary-fg-color-light: hsla(14deg, 51%, 73%, 1);
+  --md-primary-fg-color-dark: hsla(14deg, 51%, 48%, 1);
+  --md-primary-fg-color-transparent: hsla(14deg, 51%, 63%, 0.125);
+  /* Accemt Colour Variants */
+  --md-accent-fg-color: var(--md-primary-fg-color);
   /* Background Colours */
-  --md-default-bg-color: hsla(215, 15%, 14%, 1);
-  --md-default-bg-color--dark: hsla(215, 15%, 10%, 1);
-  --md-default-bg-color--darker: hsla(215, 15%, 7%, 1);
-  --md-default-bg-color--darkest: hsla(215, 15%, 4%, 1);
-  /* Lighter Background Variants */
-  --md-default-bg-color--light: hsla(215, 15%, 18%, 1);
-  --md-default-bg-color--lighter: hsla(215, 15%, 22%, 1);
-  --md-default-bg-color--lightest: hsla(215, 15%, 26%, 1);
-  /* Transparent Background Colour Options */
-  --md-default-bg-color--25: hsla(215, 15%, 14%, 0.25);
-  --md-default-bg-color--50: hsla(215, 15%, 14%, 0.5);
-  --md-default-bg-color--75: hsla(215, 15%, 14%, 0.75);
+  --md-default-bg-color: hsla(217deg, 15%, 17%,1); /* Main Background Colour*/
   /* Transparent White Colour */
   --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
   --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
@@ -966,48 +577,9 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
-  /* Table Colour */
-  --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
-  --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
-}
-
-[data-md-color-scheme=slate][data-md-color-primary=deep-orange] {
-  /* Global Text Colour */
-  --md-gbl-text-color: hsla(0, 0%, 90%, 0.75);
-  --md-gbl-text-color-strong: hsla(0, 0%, 95%, 0.90);
-  /* Code */
-  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
-  /* Primary Colour Variants */
-  --md-primary-fg-color: hsla(14deg, 100%, 57%, 1);
-  --md-primary-fg-color-light: hsla(14deg, 100%, 62%, 1);
-  --md-primary-fg-color-dark: hsla(14deg, 100%, 52%, 1);
-  --md-primary-fg-color-transparent: hsla(14deg, 100%, 57%, 0.15);
-  /* Background Colours */
-  --md-default-bg-color: hsla(215, 15%, 14%, 1);
-  --md-default-bg-color--dark: hsla(215, 15%, 10%, 1);
-  --md-default-bg-color--darker: hsla(215, 15%, 7%, 1);
-  --md-default-bg-color--darkest: hsla(215, 15%, 4%, 1);
-  /* Lighter Background Variants */
-  --md-default-bg-color--light: hsla(215, 15%, 18%, 1);
-  --md-default-bg-color--lighter: hsla(215, 15%, 22%, 1);
-  --md-default-bg-color--lightest: hsla(215, 15%, 26%, 1);
-  /* Transparent Background Colour Options */
-  --md-default-bg-color--25: hsla(215, 15%, 14%, 0.25);
-  --md-default-bg-color--50: hsla(215, 15%, 14%, 0.5);
-  --md-default-bg-color--75: hsla(215, 15%, 14%, 0.75);
-  /* Transparent White Colour */
-  --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
-  --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
-  --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
-  --md-default-blk--0125: hsla(0, 0%, 0%, 0.125);
-  --md-default-blk--025: hsla(0, 0%, 0%, 0.25);
-  --md-default-blk--050: hsla(0, 0%, 0%, 0.5);
-  /* Link and Secondary Colours */
-  --md-primary-bg-color: var(--md-default-bg-color);
-  --md-primary-bg-color-light: var(--md-default-bg-color--light);
-  /* Table Colour */
-  --md-mod-table-color--darkest: hsla(0, 0%, 0%, 0.45);
-  --md-mod-table-color--light: hsla(0, 0%, 100%, 0.035);
+  --md-gbl-link-color: var(--md-primary-fg-color-light);
+  /* Typeset `a` color shades */
+  --md-typeset-a-color: var(--md-gbl-link-color);
 }
 
 /*------------------------------------------------------- 
@@ -1375,7 +947,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   color: var(--md-default-fg-color--light); /* "Search Text Colour" */
 }
 [data-md-color-scheme=slate] .md-content {
-  --md-typeset-a-color: #678df7; /* Links */
+  --md-typeset-a-color: var(--md-gbl-link-color); /* Links */
 }
 
 /*# sourceMappingURL=extra.css.map */

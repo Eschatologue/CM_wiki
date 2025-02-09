@@ -1,6 +1,7 @@
 ---
 title: "Subclass: Path of the Storm Herald (Barbarian)"
 status: adapted
+
 ---
 
 <p style="display:none">
@@ -13,31 +14,33 @@ Tap into the Roiling Storm Within
 
 Typical barbarians harbor a fury that dwells within. Their rage grants them superior strength, durability, and speed. Barbarians who follow the Path of the Storm Herald learn instead to transform their rage into a mantle of primal magic that swirls around them. When in a fury, a barbarian of this path taps into nature to create powerful, magical effects.
 
-Storm heralds are typically elite champions who train alongside druids, rangers, and others sworn to protect the natural realm. Other storm heralds hone their craft in elite lodges founded in regions wracked by storms, in the frozen reaches at the world's end, or deep in the hottest deserts.
-
 ### Level 3: Storm Aura
 
-When you activate your **:ui-rage: Rage**{ .em }, a storm whips around you in a **10 foot :aoe-emn: Emanation**.
+Whenever you activate your **:ui-rage: Rage**{ .em }, an Aura of storm whips around you in a **10 foot :aoe-emn: Emanation**. You gain one of the following options of your choice.
 
-As part of the **:rsc-b: Bonus Action**{ .rsc } you use to activate or maintain your **:ui-rage: Rage**{ .em }, you can cause one of the following effects. You choose which when you activate your **:ui-rage: Rage**{ .em }. 
+If an effect requires a Saving Throw. its **DC** is equals **8 plus Proficiency Bonus plus Constitution modifier**.
 
-If the effect requires a saving throw, the DC equals **8 plus your Proficiency Bonus and your Strength modifier**.
+**Dessert**{ .inl } When the Aura moves to a creature's space and when the creature enters the Aura or ends its turn there, it takes **(Rage Damage) :dmg-fire: Fire**{ .dmg-fire } damage. A creature can take this damage only once per turn.
+{ .indt }
 
-**Desert**{ .inl } All other creatures within the **:aoe-emn: Emanation** take **(:ui-rage: Rage Damage) :dmg-fire: Fire**{ .dmg-fire } damage.
+**Sea**{ .inl } Creatures of your choice that starts its turn within the Aura has its **:rsc-spd: Speed** halved until the start of its next turn.
+{ .indt }
 
-**Sea**{ .inl } You choose one creature you can see within the **:aoe-emn: Emanation**. It must succeed a **:d20-save: Dex. save** or take **1d6 + :ui-rage: Rage Damage :dmg-lgtn: Lightning**{ .dmg-lgtn } damage (halved on success). This damage increases by 1d6 at level 10, level 15, and at level 20.
-
-**Tundra**{ .inl } Each creature of your choice within the **:aoe-emn: Emanation** gains **:trt-thp: Temporary Hit Points** equal to your **:ui-rage: Rage Damage**{ .em }, which last until your **:ui-rage: Rage**{ .em } ends.
+**Tundra**{ .inl } Creatures of your choice that starts its turn in the Aura gains **:trt-thp: Temporary Hit Points** equals to your **Rage Damage**.
+{ .indt }
 
 ### Level 6: Storm Soul
 
-The storm grants you benefits even when your Storm Aura isn't active. Whenever you finish a **:rest-short: Short** or **:rest-long: Long Rest** choose one of the following effects, which lasts until you finish your next **:rest-short: Short** or **:rest-long: Long Rest**:
+The storm grants you benefits even when your Storm Aura isn't active. You gain one of the following options of your choice. Whenever you finish a **:rest-short: Short** or **:rest-long: Long Rest**, you can change your choice.
 
-**Desert**{ .inl } You have **:dmg-res: Resistance**{ .em } to **:dmg-fire: Fire**{ .dmg-fire } damage and you don't suffer effects caused by extreme heat, and as an action you can touch a flammable object that isn't being worn or carried by anyone else and set it on fire.
+**Dessert**{ .inl } You gain **:dmg-res: Resistance** to **:dmg-fire: Fire**{ .dmg-fire } damage. You also know the [:spell-lv0: Produce Flame] cantrip and can cast it even when **:ui-rage: Rage**{ .nowrap } is active. Constitution is your spellcasting ability.
+{ .indt }
 
-**Sea**{ .inl } You have **:dmg-res: Resistance**{ .em } to **:dmg-lgtn: Lightning**{ .dmg-lgtn } damage, you can breathe underwater, and you have a Swim Speed equal to your Speed.
+**Sea**{ .inl } You gain **:dmg-res: Resistance** to **:dmg-lgtn: Lightning**{ .dmg-lgtn } and  **:dmg-thun: Thunder**{ .dmg-thun } damage. You also gain Swim Speed equal to your **:rsc-spd: Speed** and can breathe underwater.
+{ .indt }
 
-**Tundra**{ .inl } You have **:dmg-res: Resistance**{ .em } to **:dmg-cold: Cold**{ .dmg-cold } damage and you don't suffer effects caused by extreme cold, and as an action you can touch a 5-foot Cube of water and turn it into ice, which melts after 1 minute. This action fails if a creature is in the Cube.
+**Tundra**{ .inl } You gain **:dmg-res: Resistance** to **:dmg-cold: Cold**{ .dmg-cold } damage. You also know the [:spell-lv0: Shape Water] cantrip and can cast it even when **:ui-rage: Rage**{ .nowrap } is active. Constitution is your spellcasting ability.
+{ .indt }
 
 ### Level 10: Shielding Storm
 
@@ -47,11 +50,13 @@ You learn to use your mastery of the storm to protect others. Each creature of y
 
 The power of your Storm Aura grows mightier, lashing out at your foes.
 
-**Desert**{ .inl } Immediately after a creature within the **:aoe-emn: Emanation** hits you with an attack, you can use your **:rsc-r: Reaction**{ .rsc } to force that creature to make a **:d20-save: DEX save**. On a failed save, the creature takes **(Barbarian level) :dmg-fire: Fire**{ .dmg-fire } damage.
+**Desert**{ .inl } Immediately after a creature within the *Aura* hits you with an attack, you can take a **:rsc-r: Reaction**{ .rsc } to force that creature to make a **:d20-save: DEX save**{ .d20 }. On a failed save, the creature takes **(Barbarian level) :dmg-fire: Fire**{ .dmg-fire } damage.
 
-**Sea**{ .inl } When you hit a creature within the **:aoe-emn: Emanation** with an attack, you can use your **:rsc-r: Reaction**{ .rsc } to force that creature to make a **:d20-save: Strength save**. On a failed save, the creature takes an extra **2d6 :dmg-cold: Cold**{ .dmg-cold } damage and has the ^^Prone^^ condition.
+**Sea**{ .inl } When you hit a creature within the Aura with an attack, you can use your **:rsc-r: Reaction**{ .rsc } to force that creature to make a **:d20-save: STR save**{ .d20 }. On a failed save, the creature has the ^^Prone^^ condition.
 
-**Tundra**{ .inl } Whenever you activate the effect of your Storm Aura, you choose one creature you can see within the **:aoe-emn: Emanation**. That creature must succeed on a Strength save, or has its **:rsc-spd: Speed** reduced to 0 until the start of your next turn.
+**Tundra**{ .inl } Whenever you activate the effect of your Storm Aura, you choose one creature you can see within the Aura. That creature must succeed on a **:d20-save: STR save**{ .d20 }, or has its **:rsc-spd: Speed** reduced to 0 until the start of your next turn.
 
-:material-book-arrow-up: Updated by *PerfectlyCircularSeal* 
+:material-book-arrow-up: Updated by *Eschatologue* 
 { .author }
+
+--8<-- "includes\snippets\spells2\lv0.md"
