@@ -18,37 +18,23 @@ The Underground section of Valinor has the following key points of interest. Thi
 
 ### Markets
 
-#### :material-store: General Store "Sir DIY"
+**:material-store: General Store "Sir DIY"** – Basic supplies, rations, second-hand adventuring gear.  
 
-Basic supplies, rations, second-hand adventuring gear.  
-
-#### :material-glass-mug: Apothecary & Bar "Sable & Solvent"
-
-Booze, coffee, potions, herbs, and alchemical reagents.  
+**:material-glass-mug: Apothecary & Bar "Sable & Solvent"** – Booze, coffee, potions, herbs, and alchemical reagents.  
 
 ### Taverns & Inns
 
-#### :fontawesome-solid-house-chimney-user: The Goated Inn (Tavern & Inn)
-
-Cheap rooms, rowdy patrons, goats are optional. *(20 SP/night)*  
-
-#### :fontawesome-solid-house-chimney-user: The Wanderer’s Respite (Inn)
-
-Middle-class inn, traveller-friendly. Breakfast included. *(100 SP/night)*  
+**:fontawesome-solid-house-chimney-user: The Goated Inn** – Cheap rooms, rowdy patrons, goats are optional. *(20 SP/night)*  
+ 
+**:fontawesome-solid-house-chimney-user: The Wanderer’s Respite** – Middle-class inn, traveller-friendly. Breakfast included. *(100 SP/night)*  
 
 ### Services
 
-#### :fontawesome-solid-wand-magic-sparkles: Etienne's Emporium (Item Shop)
+**:fontawesome-solid-wand-magic-sparkles: Item Shop "Etienne's Emporium"** – Magic item broker, appraisals, spellcasting supplies.  
 
-Magic item broker, appraisals, spellcasting supplies.  
+**:material-anvil: Blacksmith "Capital Punishment"** – Weapons, armour, repairs, steelworks.  
 
-#### :material-anvil: Capital Punishment (Blacksmith)
-
-Weapons, armour, repairs, steelworks.  
-
-#### :material-circular-saw: Morningwood (Carpentry & Druidic Services)
-
-Woodworking, furniture, construction, minor druidic enchantments.  
+**:material-circular-saw: Carpentry & Druidic "Morningwood"** – Woodworking, furniture, construction, minor druidic enchantments.  
 
 ### Other Notable Locations
 
@@ -60,11 +46,7 @@ A heavily fortified bunker concealed beneath the guise of a decrepit building. T
 
 --->
 
-#### Clock Tower
+**Cock Tower** – A moderately sized tower with a half-functioning observatory. You can see most of Underground Valinor from here—if only you had Darkvision...  
 
-A moderately sized tower with a half-functioning observatory. You can see most of Underground Valinor from here—if only you had Darkvision...  
-
-#### Underground Lake
-
-An old fishing spot for darkwater dwellers, now infested with aberrations.  
+**Underground Lake** – An old fishing spot for darkwater dwellers, now infested with aberrations.  
 
