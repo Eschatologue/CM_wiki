@@ -1,7 +1,6 @@
 ---
 title: "Valinor: Underground"
 icon: material/map
-status: draft
 ---
 
 # Valinor: Underground
