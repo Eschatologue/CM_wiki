@@ -30,7 +30,7 @@ Your connection to the storm ensures you always have certain spells ready; when 
 
 ### Level 3: Tempestuous Magic
 
-You have an arcane storm whirling through your body. Immediately before or after you cast a Sorcerer spell of level 1 or higher,.you can fly up to 10 feet without provoking **:rsc-r: Opportunity Attacks**. You safely descend at the start of your next turn. This distance is doubled if your **Innate Sorcery** is active.
+You have an arcane storm whirling through your body. Immediately before or after you cast a Sorcerer spell of level 1 or higher, you can fly up to 10 feet without provoking **:rsc-r: Opportunity Attacks**. You safely descend at the start of your next turn. This distance is doubled if your **Innate Sorcery** is active.
 
 ### Level 6: Heart of the Storm
 
