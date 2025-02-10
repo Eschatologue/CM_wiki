@@ -18,37 +18,35 @@ The Underground section of Valinor has the following key points of interest. Thi
 
 ### Markets
 
-#### General Store "Sir DIY"
+#### :material-store: General Store "Sir DIY"
 
 Basic supplies, rations, second-hand adventuring gear.  
 
-#### Apothecary & Bar "Sable & Solvent"
+#### :material-glass-mug: Apothecary & Bar "Sable & Solvent"
 
 Booze, coffee, potions, herbs, and alchemical reagents.  
 
 ### Taverns & Inns
 
-#### The Goated Inn (Tavern & Inn)
+#### :fontawesome-solid-house-chimney-user: The Goated Inn (Tavern & Inn)
 
 Cheap rooms, rowdy patrons, goats are optional. *(20 SP/night)*  
 
-#### The Wanderer’s Respite (Inn)
+#### :fontawesome-solid-house-chimney-user: The Wanderer’s Respite (Inn)
 
 Middle-class inn, traveller-friendly. Breakfast included. *(100 SP/night)*  
 
 ### Services
 
-#### Etienne's Emporium (Item Shop)
+#### :fontawesome-solid-wand-magic-sparkles: Etienne's Emporium (Item Shop)
 
 Magic item broker, appraisals, spellcasting supplies.  
 
-#### Capital Punishment (Blacksmith)
+#### :material-anvil: Capital Punishment (Blacksmith)
 
 Weapons, armour, repairs, steelworks.  
 
-### Crafting & Artisans
-
-#### Morningwood (Carpentry & Druidic Services)
+#### :material-circular-saw: Morningwood (Carpentry & Druidic Services)
 
 Woodworking, furniture, construction, minor druidic enchantments.  
 
