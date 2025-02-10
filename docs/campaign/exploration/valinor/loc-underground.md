@@ -38,15 +38,17 @@ The Underground section of Valinor has the following key points of interest. Thi
 
 ### Other Notable Locations
 
+**Cock Tower** – A moderately sized tower with a half-functioning observatory. You can see most of Underground Valinor from here—if only you had Darkvision...  
+
+**Underground Lake** – An fishing spot for underground dwellers, now infested with aberrations.  
+
+**Root of Irminsul** – Irminsul Generator's fuel line that extends to underground Valinor. It also has elevator that connects the surface to underground. 
+
 <!---
 
-#### Bannockburn's Initiative Inc. Safehouse
-
-A heavily fortified bunker concealed beneath the guise of a decrepit building. This covert branch office serves as a crucial hub for the corporation, stocked with essential supplies—food, medicine, and clothing—alongside weapons and specialised equipment.
+**Bannockburn's Initiative Inc. Safehouse** – A heavily fortified bunker concealed beneath the guise of a decrepit building. This covert branch office serves as a crucial hub for the corporation, stocked with essential supplies—food, medicine, and clothing—alongside weapons and specialised equipment.
 
 --->
 
-**Cock Tower** – A moderately sized tower with a half-functioning observatory. You can see most of Underground Valinor from here—if only you had Darkvision...  
 
-**Underground Lake** – An old fishing spot for darkwater dwellers, now infested with aberrations.  
 
