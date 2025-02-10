@@ -28,20 +28,45 @@ Booze, coffee, potions, herbs, and alchemical reagents.
 
 ### Taverns & Inns
 
-- **The Goated Inn (Tavern & Inn)** – Cheap rooms, rowdy patrons, goats are optional. *(20 SP/night)*  
-- **The Wanderer’s Respite (Inn)** – Middle-class inn, traveller-friendly. Breakfast included. *(100 SP/night)*  
+#### The Goated Inn (Tavern & Inn)
+
+Cheap rooms, rowdy patrons, goats are optional. *(20 SP/night)*  
+
+#### The Wanderer’s Respite (Inn)
+
+Middle-class inn, traveller-friendly. Breakfast included. *(100 SP/night)*  
 
 ### Services
 
-- **Etienne's Emporium (Item Shop)** – Magic item broker, appraisals, spellcasting supplies.  
-- **Capital Punishment (Blacksmith)** – Weapons, armour, repairs, steelworks.  
+#### Etienne's Emporium (Item Shop)
+
+Magic item broker, appraisals, spellcasting supplies.  
+
+#### Capital Punishment (Blacksmith)
+
+Weapons, armour, repairs, steelworks.  
 
 ### Crafting & Artisans
 
-- **Morningwood (Carpentry & Druidic Services)** – Woodworking, furniture, construction, minor druidic enchantments.  
+#### Morningwood (Carpentry & Druidic Services)
+
+Woodworking, furniture, construction, minor druidic enchantments.  
 
 ### Other Notable Locations
 
-- **Clock Tower** – A moderately sized tower with a half-functioning observatory. You can see most of Underground Valinor from here—if only you had Darkvision...  
-- **Underground Lake** – An old fishing spot for darkwater dwellers, now infested with aberrations.  
+<!---
+
+#### Bannockburn's Initiative Inc. Safehouse
+
+A heavily fortified bunker concealed beneath the guise of a decrepit building. This covert branch office serves as a crucial hub for the corporation, stocked with essential supplies—food, medicine, and clothing—alongside weapons and specialised equipment.
+
+--->
+
+#### Clock Tower
+
+A moderately sized tower with a half-functioning observatory. You can see most of Underground Valinor from here—if only you had Darkvision...  
+
+#### Underground Lake
+
+An old fishing spot for darkwater dwellers, now infested with aberrations.  
 
