@@ -148,7 +148,7 @@
   text-transform: capitalize !important;
   vertical-align: bottom;
   color: var(--md-text-color);
-  border-bottom: 0.15rem solid var(--md-primary-fg-color);
+  border-bottom: 0.1rem solid var(--md-primary-fg-color);
   background-color: hsla(0, 0%, 0%, 0.45);
   padding: 0.525em 1em;
 }
@@ -179,6 +179,7 @@
   width: 100%;
 }
 .md-typeset__table table:not([class]) {
+  box-shadow: var(--md-shadow-z2);
   margin: 0rem;
   display: table;
   border-color: transparent !important;
@@ -454,36 +455,6 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   --md-typeset-a-color: var(--md-gbl-link-color);
 }
 
-[data-md-color-scheme=slate][data-md-color-primary=indigo] {
-  /* Global Text Colour */
-  --md-gbl-text-color: hsl(219, 18%, 78%);
-  --md-gbl-text-color-strong: hsl(219, 28%, 88%);
-  /* Code */
-  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
-  /* Primary Colour Variants */
-  --md-primary-fg-color: hsla(231deg, 99%, 66%, 1);
-  --md-primary-fg-color-light: hsla(231deg, 99%, 76%, 1);
-  --md-primary-fg-color-dark: hsla(231deg, 99%, 51%, 1);
-  --md-primary-fg-color-transparent: hsla(231deg, 99%, 66%, 0.125);
-  /* Accemt Colour Variants */
-  --md-accent-fg-color: var(--md-primary-fg-color);
-  /* Background Colours */
-  --md-default-bg-color: hsla(217deg, 15%, 17%,1); /* Main Background Colour*/
-  /* Transparent White Colour */
-  --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
-  --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
-  --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
-  --md-default-blk--0125: hsla(0, 0%, 0%, 0.125);
-  --md-default-blk--025: hsla(0, 0%, 0%, 0.25);
-  --md-default-blk--050: hsla(0, 0%, 0%, 0.5);
-  /* Link and Secondary Colours */
-  --md-primary-bg-color: var(--md-default-bg-color);
-  --md-primary-bg-color-light: var(--md-default-bg-color--light);
-  --md-gbl-link-color: var(--md-primary-fg-color-light);
-  /* Typeset `a` color shades */
-  --md-typeset-a-color: var(--md-gbl-link-color);
-}
-
 [data-md-color-scheme=slate][data-md-color-primary=green] {
   /* Global Text Colour */
   --md-gbl-text-color: hsl(219, 18%, 78%);
@@ -555,6 +526,66 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   --md-primary-fg-color-light: hsla(14deg, 51%, 73%, 1);
   --md-primary-fg-color-dark: hsla(14deg, 51%, 48%, 1);
   --md-primary-fg-color-transparent: hsla(14deg, 51%, 63%, 0.125);
+  /* Accemt Colour Variants */
+  --md-accent-fg-color: var(--md-primary-fg-color);
+  /* Background Colours */
+  --md-default-bg-color: hsla(217deg, 15%, 17%,1); /* Main Background Colour*/
+  /* Transparent White Colour */
+  --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
+  --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
+  --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
+  --md-default-blk--0125: hsla(0, 0%, 0%, 0.125);
+  --md-default-blk--025: hsla(0, 0%, 0%, 0.25);
+  --md-default-blk--050: hsla(0, 0%, 0%, 0.5);
+  /* Link and Secondary Colours */
+  --md-primary-bg-color: var(--md-default-bg-color);
+  --md-primary-bg-color-light: var(--md-default-bg-color--light);
+  --md-gbl-link-color: var(--md-primary-fg-color-light);
+  /* Typeset `a` color shades */
+  --md-typeset-a-color: var(--md-gbl-link-color);
+}
+
+[data-md-color-scheme=slate][data-md-color-primary=indigo] {
+  /* Global Text Colour */
+  --md-gbl-text-color: hsl(219, 18%, 78%);
+  --md-gbl-text-color-strong: hsl(219, 28%, 88%);
+  /* Code */
+  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
+  /* Primary Colour Variants */
+  --md-primary-fg-color: hsla(231deg, 99%, 66%, 1);
+  --md-primary-fg-color-light: hsla(231deg, 99%, 76%, 1);
+  --md-primary-fg-color-dark: hsla(231deg, 99%, 51%, 1);
+  --md-primary-fg-color-transparent: hsla(231deg, 99%, 66%, 0.125);
+  /* Accemt Colour Variants */
+  --md-accent-fg-color: var(--md-primary-fg-color);
+  /* Background Colours */
+  --md-default-bg-color: hsla(217deg, 15%, 17%,1); /* Main Background Colour*/
+  /* Transparent White Colour */
+  --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
+  --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
+  --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
+  --md-default-blk--0125: hsla(0, 0%, 0%, 0.125);
+  --md-default-blk--025: hsla(0, 0%, 0%, 0.25);
+  --md-default-blk--050: hsla(0, 0%, 0%, 0.5);
+  /* Link and Secondary Colours */
+  --md-primary-bg-color: var(--md-default-bg-color);
+  --md-primary-bg-color-light: var(--md-default-bg-color--light);
+  --md-gbl-link-color: var(--md-primary-fg-color-light);
+  /* Typeset `a` color shades */
+  --md-typeset-a-color: var(--md-gbl-link-color);
+}
+
+[data-md-color-scheme=slate][data-md-color-primary=teal] {
+  /* Global Text Colour */
+  --md-gbl-text-color: hsl(219, 18%, 78%);
+  --md-gbl-text-color-strong: hsl(219, 28%, 88%);
+  /* Code */
+  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
+  /* Primary Colour Variants */
+  --md-primary-fg-color: hsla(174deg, 42%, 51%, 1);
+  --md-primary-fg-color-light: hsla(174deg, 42%, 61%, 1);
+  --md-primary-fg-color-dark: hsla(174deg, 42%, 36%, 1);
+  --md-primary-fg-color-transparent: hsla(174deg, 42%, 51%, 0.125);
   /* Accemt Colour Variants */
   --md-accent-fg-color: var(--md-primary-fg-color);
   /* Background Colours */
