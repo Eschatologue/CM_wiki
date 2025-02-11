@@ -50,7 +50,11 @@ $defaultHue: 215;
             "teal":
                 accent.$nord-teal
                 color.adjust(accent.$nord-teal, $lightness: 5%)
-                color.adjust(accent.$nord-teal, $lightness: -5%)
+                color.adjust(accent.$nord-teal, $lightness: -5%),
+            "frost1":
+                accent.$nord-frost1
+                color.adjust(accent.$nord-frost1, $lightness: 5%)
+                color.adjust(accent.$nord-frost1, $lightness: -5%)
         )
 {
     // Colour palette for each primary theme
@@ -67,13 +71,13 @@ $defaultHue: 215;
         --md-primary-fg-color: hsla(#{convert.hex2hsl(list.nth($colors, 1))}, 1);
         --md-primary-fg-color-light: hsla(#{convert.hex2hsl(color.adjust(list.nth($colors, 1), $lightness: 10%))}, 1);
         --md-primary-fg-color-dark: hsla(#{convert.hex2hsl(color.adjust(list.nth($colors, 1), $lightness: -15%))}, 1);
-        --md-primary-fg-color-transparent: hsla(#{convert.hex2hsl(list.nth($colors, 1))}, 0.125);
+        --md-primary-fg-color-transparent: hsla(#{convert.hex2hsl(list.nth($colors, 1))}, 0.225);
 
         /* Accemt Colour Variants */
         --md-accent-fg-color: var(--md-primary-fg-color);
 
         /* Background Colours */
-        --md-default-bg-color: hsla(#{accent.$nord-darker},1); /* Main Background Colour*/
+        --md-default-bg-color: hsla(#{accent.$nord-darker}, 1); /* Main Background Colour*/
 
         /* Transparent White Colour */
         --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);

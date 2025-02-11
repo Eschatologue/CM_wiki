@@ -28,7 +28,7 @@ $mod-blue-gray: hsl(200, 18%, 46%);
 // https://nordui.netlify.app/docs/core/colors
 
 $nord-dark: convert.hex2hsl(nord.$nord0);
-$nord-darker: convert.hex2hsl(#242931);
+$nord-darker: convert.hex2hsl(#252A32);
 
 $nord-snow1: convert.hex3hsl(nord.$nord4);
 $nord-snow1-pale: color.adjust($nord-snow1, $saturation: -10%, $lightness: -10%);
