@@ -28,9 +28,9 @@ theme:
     - pymdownx.superfences
   language: en
   palette:
-    scheme: slate
-    primary: frost1
-    accent: frost1
+    scheme: slate ## DON'T CHANGE THIS
+    primary: indigo
+    accent: indigo
   font:
     code: JetBrains Mono
     text: Source Sans 3 ## This is good enough, don't change it again.

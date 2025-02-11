@@ -1,9 +1,9 @@
 @use "../utility/convert";
+@use "../palette/accent";
 
-/*------------------------------------------------------- 
-    Typeset Value
+/*-------------------------------------------------------
+    Typeset Variables
 --------------------------------------------------------*/
-
 .md-typeset {
     --default-font-size: #{convert.px2rem(16px)};
     --default-font-weight: 400;
@@ -13,28 +13,24 @@
     }
 }
 
-/*------------------------------------------------------- 
+/*-------------------------------------------------------
     Basic Typesets
 --------------------------------------------------------*/
-
 .md-typeset {
     font-size: var(--default-font-size);
     font-weight: var(--default-font-weight);
     color: var(--md-gbl-text-color);
 
-    // Strong text styles
     strong {
         font-weight: 600;
         letter-spacing: calc(var(--default-font-size) * 0.0125);
         color: var(--md-gbl-text-color-strong);
     }
 
-    // Paragraph styles
     p {
         margin: convert.px2rem(10px) 0;
     }
 
-    // List styles (unordered and ordered)
     ul,
     ol {
         margin: convert.px2rem(0px) 0;
@@ -44,7 +40,6 @@
         margin: convert.px2rem(-4px) 0;
     }
 
-    // Definition list styles
     dl,
     dd {
         margin: convert.px2rem(-2px) 0;
@@ -54,24 +49,22 @@
         margin-left: convert.px2rem(-8px);
     }
 
-    blockquote {
-        strong {
-            color: var(--md-default-fg-color--light) !important;
-        }
+    blockquote strong {
+        color: var(--md-default-fg-color--light) !important;
     }
 
-    a {
-        // Link Behaviour on Hover
-        &:is(:focus, :hover) {
-            transition: background-color 250ms;
-            
-            border-radius: convert.px2em(3px); /* Rounds corner */
-
-            color: var(--md-gbl-link-color); /* Prevent colour change on hover */
-            background-color: var(--md-primary-fg-color-transparent); /* Draw background on hover */
-        }
+    a:is(:focus, :hover) {
+        transition: background-color 250ms;
+        border-radius: convert.px2em(3px);
+        color: var(--md-gbl-link-color);
+        background-color: var(--md-primary-fg-color--transparent);
     }
+}
 
+/*-------------------------------------------------------
+    Headings
+--------------------------------------------------------*/
+.md-typeset {
     h1,
     h2,
     h3,
@@ -83,7 +76,6 @@
         }
     }
 
-    // Heading Styles
     h1,
     h2,
     h3,
@@ -100,25 +92,22 @@
         font-variant: small-caps !important;
     }
 
-    // H1
     h1 {
         font-size: calc(var(--default-font-size) * 2.1);
         letter-spacing: calc(var(--default-font-size) * 0.02);
-        font-weight: 500; // Ensure var(--default-font-weight) is numeric
+        font-weight: 500;
         margin: #{convert.px2rem(9px)} 0;
     }
 
-    // H2
     h2 {
         font-size: calc(var(--default-font-size) * 1.7);
         font-weight: 500;
         letter-spacing: calc(var(--default-font-size) * 0.075);
         border-bottom: #{convert.px2rem(4.5px)} ridge var(--md-primary-fg-color);
-        margin: #{convert.px2rem(18px)} 0 #{convert.px2rem(4px)} 0;
+        margin: #{convert.px2rem(18px)} 0 #{convert.px2rem(4px)};
         padding-bottom: #{convert.px2rem(2px)};
     }
 
-    // H3
     h3 {
         color: var(--md-gbl-text-color-strong);
         font-size: calc(var(--default-font-size) * 1.45);
@@ -129,40 +118,37 @@
         padding-bottom: #{convert.px2rem(4px)};
     }
 
-    // H4
     h4 {
         color: var(--md-gbl-text-color-strong);
         font-size: calc(var(--default-font-size) * 1.225);
         letter-spacing: calc(var(--default-font-size) * 0.03);
         font-weight: 550;
-        margin: #{convert.px2rem(12px)} 0 #{convert.px2rem(-6px)} 0;
+        margin: #{convert.px2rem(12px)} 0 #{convert.px2rem(-6px)};
         padding-bottom: #{convert.px2rem(-2px)};
     }
 
-    // H5 ( Used for Table captopns
     h5 {
         font-size: var(--default-font-size);
         letter-spacing: calc(var(--default-font-size) * 0.03);
         font-weight: 500;
         margin-top: #{convert.px2rem(-3px)};
         margin-bottom: #{convert.px2rem(-12px)};
-        //      padding-bottom: #{convert.px2rem(-10px)};
     }
 
-    // H6
     h6 {
         font-size: calc(var(--default-font-size) * 0.85);
         font-weight: 350;
     }
 }
 
-// Divider Line
+/*-------------------------------------------------------
+    Additional Styles
+--------------------------------------------------------*/
 .md-typeset hr {
     border-bottom: #{convert.px2em(4px)} dashed var(--md-default-wht--0125);
     margin: #{convert.px2em(14px)} 0;
 }
 
-// Large Font Size
 .xxxxl {
     font-size: 5.5rem;
 }

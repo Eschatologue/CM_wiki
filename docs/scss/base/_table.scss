@@ -38,7 +38,7 @@ $th-padding: $paddingScale * 1.4;
 
         td {
             font-size: calc(var(--table-font-size) * 0.9);
-            border: #{convert.px2rem(0px)} transparent !important;
+            border: #{convert.px2rem(0px)} transparent;
             vertical-align: middle;
 
             b,
@@ -64,7 +64,7 @@ $th-padding: $paddingScale * 1.4;
         }
 
         tr:nth-child(even) {
-            background-color: hsla(0, 0%, 100%, 0.035) !important;
+            background-color: var(--md-typeset-table-color--light) !important;
         }
     }
 

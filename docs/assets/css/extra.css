@@ -1,7 +1,7 @@
 @charset "UTF-8";
 @import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap");
-/*------------------------------------------------------- 
-    Typeset Value
+/*-------------------------------------------------------
+    Typeset Variables
 --------------------------------------------------------*/
 .md-typeset {
   --default-font-size: 0.8rem;
@@ -13,7 +13,7 @@
   }
 }
 
-/*------------------------------------------------------- 
+/*-------------------------------------------------------
     Basic Typesets
 --------------------------------------------------------*/
 .md-typeset {
@@ -48,10 +48,14 @@
 }
 .md-typeset a:is(:focus, :hover) {
   transition: background-color 250ms;
-  border-radius: 0.1875em; /* Rounds corner */
-  color: var(--md-gbl-link-color); /* Prevent colour change on hover */
-  background-color: var(--md-primary-fg-color-transparent); /* Draw background on hover */
+  border-radius: 0.1875em;
+  color: var(--md-gbl-link-color);
+  background-color: var(--md-primary-fg-color--transparent);
 }
+
+/*-------------------------------------------------------
+    Headings
+--------------------------------------------------------*/
 .md-typeset h1 abbr,
 .md-typeset h2 abbr,
 .md-typeset h3 abbr,
@@ -85,7 +89,7 @@
   font-weight: 500;
   letter-spacing: calc(var(--default-font-size) * 0.075);
   border-bottom: 0.225rem ridge var(--md-primary-fg-color);
-  margin: 0.9rem 0 0.2rem 0;
+  margin: 0.9rem 0 0.2rem;
   padding-bottom: 0.1rem;
 }
 .md-typeset h3 {
@@ -102,7 +106,7 @@
   font-size: calc(var(--default-font-size) * 1.225);
   letter-spacing: calc(var(--default-font-size) * 0.03);
   font-weight: 550;
-  margin: 0.6rem 0 -0.3rem 0;
+  margin: 0.6rem 0 -0.3rem;
   padding-bottom: -0.1rem;
 }
 .md-typeset h5 {
@@ -117,6 +121,9 @@
   font-weight: 350;
 }
 
+/*-------------------------------------------------------
+    Additional Styles
+--------------------------------------------------------*/
 .md-typeset hr {
   border-bottom: 0.25em dashed var(--md-default-wht--0125);
   margin: 0.875em 0;
@@ -154,7 +161,7 @@
 }
 .md-typeset table:not([class]) td {
   font-size: calc(var(--table-font-size) * 0.9);
-  border: 0rem transparent !important;
+  border: 0rem transparent;
   vertical-align: middle;
 }
 .md-typeset table:not([class]) td b,
@@ -173,7 +180,7 @@
   background-color: transparent !important;
 }
 .md-typeset table:not([class]) tr:nth-child(even) {
-  background-color: hsla(0, 0%, 100%, 0.035) !important;
+  background-color: var(--md-typeset-table-color--light) !important;
 }
 .md-typeset__table {
   width: 100%;
@@ -286,7 +293,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 }
 
 /* Chevrons */
-.chevron-right::after, .inl::after {
+.chevron-right::after, .md-tabs__item--active .md-tabs__link::after, .inl::after {
   font-style: normal !important;
   font-weight: 400 !important;
   content: "»";
@@ -294,7 +301,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   margin-left: 0.25em;
 }
 
-.chevron-left::before, .inl::before {
+.chevron-left::before, .md-tabs__item--active .md-tabs__link::before, .inl::before {
   font-style: normal !important;
   font-weight: 400 !important;
   content: "«";
@@ -399,17 +406,17 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   /* Global Text Colour */
   --md-gbl-text-color: hsl(219, 18%, 78%);
   --md-gbl-text-color-strong: hsl(219, 28%, 88%);
-  /* Code */
-  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(354deg, 42%, 56%, 1);
-  --md-primary-fg-color-light: hsla(354deg, 42%, 66%, 1);
-  --md-primary-fg-color-dark: hsla(354deg, 42%, 41%, 1);
-  --md-primary-fg-color-transparent: hsla(354deg, 42%, 56%, 0.225);
+  --md-primary-fg-color--light: hsla(354deg, 42%, 64%, 1);
+  --md-primary-fg-color--dark: hsla(354deg, 42%, 49%, 1);
+  --md-primary-fg-color--transparent: hsla(354deg, 42%, 56%, 0.1);
+  --md-primary-fg-color--light--transparent: hsla(354deg, 42%, 64%, 0.1);
   /* Accemt Colour Variants */
   --md-accent-fg-color: var(--md-primary-fg-color);
   /* Background Colours */
-  --md-default-bg-color: hsla(217deg, 15%, 17%, 1); /* Main Background Colour*/
+  --md-default-bg-color: hsl(217, 15%, 17%); /* Main Background Colour*/
+  --md-default-bg-color-nord0: hsl(220, 16%, 22%);
   /* Transparent White Colour */
   --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
   --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
@@ -420,26 +427,28 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
-  --md-gbl-link-color: var(--md-primary-fg-color-light);
+  --md-gbl-link-color: var(--md-primary-fg-color--light);
   /* Typeset `a` color shades */
   --md-typeset-a-color: var(--md-gbl-link-color);
+  /* Code */
+  --md-code-bg-color: var(--md-default-bg-color-nord0);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=pink] {
   /* Global Text Colour */
   --md-gbl-text-color: hsl(219, 18%, 78%);
   --md-gbl-text-color-strong: hsl(219, 28%, 88%);
-  /* Code */
-  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(311deg, 20%, 63%, 1);
-  --md-primary-fg-color-light: hsla(311deg, 20%, 73%, 1);
-  --md-primary-fg-color-dark: hsla(311deg, 20%, 48%, 1);
-  --md-primary-fg-color-transparent: hsla(311deg, 20%, 63%, 0.225);
+  --md-primary-fg-color--light: hsla(311deg, 20%, 71%, 1);
+  --md-primary-fg-color--dark: hsla(311deg, 20%, 56%, 1);
+  --md-primary-fg-color--transparent: hsla(311deg, 20%, 63%, 0.1);
+  --md-primary-fg-color--light--transparent: hsla(311deg, 20%, 71%, 0.1);
   /* Accemt Colour Variants */
   --md-accent-fg-color: var(--md-primary-fg-color);
   /* Background Colours */
-  --md-default-bg-color: hsla(217deg, 15%, 17%, 1); /* Main Background Colour*/
+  --md-default-bg-color: hsl(217, 15%, 17%); /* Main Background Colour*/
+  --md-default-bg-color-nord0: hsl(220, 16%, 22%);
   /* Transparent White Colour */
   --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
   --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
@@ -450,26 +459,28 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
-  --md-gbl-link-color: var(--md-primary-fg-color-light);
+  --md-gbl-link-color: var(--md-primary-fg-color--light);
   /* Typeset `a` color shades */
   --md-typeset-a-color: var(--md-gbl-link-color);
+  /* Code */
+  --md-code-bg-color: var(--md-default-bg-color-nord0);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=green] {
   /* Global Text Colour */
   --md-gbl-text-color: hsl(219, 18%, 78%);
   --md-gbl-text-color-strong: hsl(219, 28%, 88%);
-  /* Code */
-  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(92deg, 28%, 65%, 1);
-  --md-primary-fg-color-light: hsla(92deg, 28%, 75%, 1);
-  --md-primary-fg-color-dark: hsla(92deg, 28%, 50%, 1);
-  --md-primary-fg-color-transparent: hsla(92deg, 28%, 65%, 0.225);
+  --md-primary-fg-color--light: hsla(92deg, 28%, 73%, 1);
+  --md-primary-fg-color--dark: hsla(92deg, 28%, 58%, 1);
+  --md-primary-fg-color--transparent: hsla(92deg, 28%, 65%, 0.1);
+  --md-primary-fg-color--light--transparent: hsla(92deg, 28%, 73%, 0.1);
   /* Accemt Colour Variants */
   --md-accent-fg-color: var(--md-primary-fg-color);
   /* Background Colours */
-  --md-default-bg-color: hsla(217deg, 15%, 17%, 1); /* Main Background Colour*/
+  --md-default-bg-color: hsl(217, 15%, 17%); /* Main Background Colour*/
+  --md-default-bg-color-nord0: hsl(220, 16%, 22%);
   /* Transparent White Colour */
   --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
   --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
@@ -480,26 +491,28 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
-  --md-gbl-link-color: var(--md-primary-fg-color-light);
+  --md-gbl-link-color: var(--md-primary-fg-color--light);
   /* Typeset `a` color shades */
   --md-typeset-a-color: var(--md-gbl-link-color);
+  /* Code */
+  --md-code-bg-color: var(--md-default-bg-color-nord0);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=yellow] {
   /* Global Text Colour */
   --md-gbl-text-color: hsl(219, 18%, 78%);
   --md-gbl-text-color-strong: hsl(219, 28%, 88%);
-  /* Code */
-  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(40deg, 71%, 73%, 1);
-  --md-primary-fg-color-light: hsla(40deg, 71%, 83%, 1);
-  --md-primary-fg-color-dark: hsla(40deg, 71%, 58%, 1);
-  --md-primary-fg-color-transparent: hsla(40deg, 71%, 73%, 0.225);
+  --md-primary-fg-color--light: hsla(40deg, 71%, 81%, 1);
+  --md-primary-fg-color--dark: hsla(40deg, 71%, 66%, 1);
+  --md-primary-fg-color--transparent: hsla(40deg, 71%, 73%, 0.1);
+  --md-primary-fg-color--light--transparent: hsla(40deg, 71%, 81%, 0.1);
   /* Accemt Colour Variants */
   --md-accent-fg-color: var(--md-primary-fg-color);
   /* Background Colours */
-  --md-default-bg-color: hsla(217deg, 15%, 17%, 1); /* Main Background Colour*/
+  --md-default-bg-color: hsl(217, 15%, 17%); /* Main Background Colour*/
+  --md-default-bg-color-nord0: hsl(220, 16%, 22%);
   /* Transparent White Colour */
   --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
   --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
@@ -510,26 +523,28 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
-  --md-gbl-link-color: var(--md-primary-fg-color-light);
+  --md-gbl-link-color: var(--md-primary-fg-color--light);
   /* Typeset `a` color shades */
   --md-typeset-a-color: var(--md-gbl-link-color);
+  /* Code */
+  --md-code-bg-color: var(--md-default-bg-color-nord0);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=orange] {
   /* Global Text Colour */
   --md-gbl-text-color: hsl(219, 18%, 78%);
   --md-gbl-text-color-strong: hsl(219, 28%, 88%);
-  /* Code */
-  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(14deg, 51%, 63%, 1);
-  --md-primary-fg-color-light: hsla(14deg, 51%, 73%, 1);
-  --md-primary-fg-color-dark: hsla(14deg, 51%, 48%, 1);
-  --md-primary-fg-color-transparent: hsla(14deg, 51%, 63%, 0.225);
+  --md-primary-fg-color--light: hsla(14deg, 51%, 71%, 1);
+  --md-primary-fg-color--dark: hsla(14deg, 51%, 56%, 1);
+  --md-primary-fg-color--transparent: hsla(14deg, 51%, 63%, 0.1);
+  --md-primary-fg-color--light--transparent: hsla(14deg, 51%, 71%, 0.1);
   /* Accemt Colour Variants */
   --md-accent-fg-color: var(--md-primary-fg-color);
   /* Background Colours */
-  --md-default-bg-color: hsla(217deg, 15%, 17%, 1); /* Main Background Colour*/
+  --md-default-bg-color: hsl(217, 15%, 17%); /* Main Background Colour*/
+  --md-default-bg-color-nord0: hsl(220, 16%, 22%);
   /* Transparent White Colour */
   --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
   --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
@@ -540,26 +555,28 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
-  --md-gbl-link-color: var(--md-primary-fg-color-light);
+  --md-gbl-link-color: var(--md-primary-fg-color--light);
   /* Typeset `a` color shades */
   --md-typeset-a-color: var(--md-gbl-link-color);
+  /* Code */
+  --md-code-bg-color: var(--md-default-bg-color-nord0);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=indigo] {
   /* Global Text Colour */
   --md-gbl-text-color: hsl(219, 18%, 78%);
   --md-gbl-text-color-strong: hsl(219, 28%, 88%);
-  /* Code */
-  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(231deg, 99%, 66%, 1);
-  --md-primary-fg-color-light: hsla(231deg, 99%, 76%, 1);
-  --md-primary-fg-color-dark: hsla(231deg, 99%, 51%, 1);
-  --md-primary-fg-color-transparent: hsla(231deg, 99%, 66%, 0.225);
+  --md-primary-fg-color--light: hsla(231deg, 99%, 74%, 1);
+  --md-primary-fg-color--dark: hsla(231deg, 99%, 59%, 1);
+  --md-primary-fg-color--transparent: hsla(231deg, 99%, 66%, 0.1);
+  --md-primary-fg-color--light--transparent: hsla(231deg, 99%, 74%, 0.1);
   /* Accemt Colour Variants */
   --md-accent-fg-color: var(--md-primary-fg-color);
   /* Background Colours */
-  --md-default-bg-color: hsla(217deg, 15%, 17%, 1); /* Main Background Colour*/
+  --md-default-bg-color: hsl(217, 15%, 17%); /* Main Background Colour*/
+  --md-default-bg-color-nord0: hsl(220, 16%, 22%);
   /* Transparent White Colour */
   --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
   --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
@@ -570,26 +587,28 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
-  --md-gbl-link-color: var(--md-primary-fg-color-light);
+  --md-gbl-link-color: var(--md-primary-fg-color--light);
   /* Typeset `a` color shades */
   --md-typeset-a-color: var(--md-gbl-link-color);
+  /* Code */
+  --md-code-bg-color: var(--md-default-bg-color-nord0);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=teal] {
   /* Global Text Colour */
   --md-gbl-text-color: hsl(219, 18%, 78%);
   --md-gbl-text-color-strong: hsl(219, 28%, 88%);
-  /* Code */
-  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(174deg, 42%, 51%, 1);
-  --md-primary-fg-color-light: hsla(174deg, 42%, 61%, 1);
-  --md-primary-fg-color-dark: hsla(174deg, 42%, 36%, 1);
-  --md-primary-fg-color-transparent: hsla(174deg, 42%, 51%, 0.225);
+  --md-primary-fg-color--light: hsla(174deg, 42%, 59%, 1);
+  --md-primary-fg-color--dark: hsla(174deg, 42%, 44%, 1);
+  --md-primary-fg-color--transparent: hsla(174deg, 42%, 51%, 0.1);
+  --md-primary-fg-color--light--transparent: hsla(174deg, 42%, 59%, 0.1);
   /* Accemt Colour Variants */
   --md-accent-fg-color: var(--md-primary-fg-color);
   /* Background Colours */
-  --md-default-bg-color: hsla(217deg, 15%, 17%, 1); /* Main Background Colour*/
+  --md-default-bg-color: hsl(217, 15%, 17%); /* Main Background Colour*/
+  --md-default-bg-color-nord0: hsl(220, 16%, 22%);
   /* Transparent White Colour */
   --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
   --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
@@ -600,26 +619,28 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
-  --md-gbl-link-color: var(--md-primary-fg-color-light);
+  --md-gbl-link-color: var(--md-primary-fg-color--light);
   /* Typeset `a` color shades */
   --md-typeset-a-color: var(--md-gbl-link-color);
+  /* Code */
+  --md-code-bg-color: var(--md-default-bg-color-nord0);
 }
 
 [data-md-color-scheme=slate][data-md-color-primary=frost1] {
   /* Global Text Colour */
   --md-gbl-text-color: hsl(219, 18%, 78%);
   --md-gbl-text-color-strong: hsl(219, 28%, 88%);
-  /* Code */
-  --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
   /* Primary Colour Variants */
   --md-primary-fg-color: hsla(179deg, 25%, 65%, 1);
-  --md-primary-fg-color-light: hsla(179deg, 25%, 75%, 1);
-  --md-primary-fg-color-dark: hsla(179deg, 25%, 50%, 1);
-  --md-primary-fg-color-transparent: hsla(179deg, 25%, 65%, 0.225);
+  --md-primary-fg-color--light: hsla(179deg, 25%, 73%, 1);
+  --md-primary-fg-color--dark: hsla(179deg, 25%, 58%, 1);
+  --md-primary-fg-color--transparent: hsla(179deg, 25%, 65%, 0.1);
+  --md-primary-fg-color--light--transparent: hsla(179deg, 25%, 73%, 0.1);
   /* Accemt Colour Variants */
   --md-accent-fg-color: var(--md-primary-fg-color);
   /* Background Colours */
-  --md-default-bg-color: hsla(217deg, 15%, 17%, 1); /* Main Background Colour*/
+  --md-default-bg-color: hsl(217, 15%, 17%); /* Main Background Colour*/
+  --md-default-bg-color-nord0: hsl(220, 16%, 22%);
   /* Transparent White Colour */
   --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
   --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
@@ -630,9 +651,11 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   /* Link and Secondary Colours */
   --md-primary-bg-color: var(--md-default-bg-color);
   --md-primary-bg-color-light: var(--md-default-bg-color--light);
-  --md-gbl-link-color: var(--md-primary-fg-color-light);
+  --md-gbl-link-color: var(--md-primary-fg-color--light);
   /* Typeset `a` color shades */
   --md-typeset-a-color: var(--md-gbl-link-color);
+  /* Code */
+  --md-code-bg-color: var(--md-default-bg-color-nord0);
 }
 
 /*------------------------------------------------------- 
@@ -907,9 +930,9 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 }
 
 /*------------------------------------------------------- 
-    MKdocs Material Theme Overrides
+    MKDocs Material Theme Overrides
 --------------------------------------------------------*/
-/* Tool Tips adjustment to account for site size*/
+/* Tool Tips */
 [role=tooltip] > .md-tooltip2__inner {
   padding: 0.45em 1.5em;
   max-width: 35em;
@@ -918,6 +941,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   font-size: calc(var(--default-font-size) * 0.75);
 }
 
+/* Content Grid Adjustments */
 .md-grid {
   max-width: 95%;
 }
@@ -927,7 +951,9 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   }
 }
 
-/* Content Grids */
+/*------------------------------------------------------- 
+    Content Grids 
+--------------------------------------------------------*/
 .md-typeset .grid {
   grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
   grid-gap: 0.25em;
@@ -938,17 +964,18 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   }
 }
 .md-typeset .grid.cards > :is(ul, ol) > li,
-.md-typeset .grid > .card {
+.md-typeset .grid.cards > .card {
   border: 0.075rem solid var(--md-default-wht--0125);
   padding: 0.5rem 0.8rem;
 }
 
+/* Emoji Alignment */
 .md-typeset :is(.emojione, .twemoji, .gemoji) {
   vertical-align: -0.1875em;
 }
 
 /*------------------------------------------------------- 
-    MKdocs Material Theme Edits
+    Typography 
 --------------------------------------------------------*/
 .md-sidebar--primary,
 .md-sidebar--secondary,
@@ -957,50 +984,60 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   font-family: var(--heading-font);
 }
 
-[data-md-color-scheme=slate] {
-  --md-text-color: var(--md-gbl-text-color);
-  background-color: var(--md-default-bg-color);
-}
-[data-md-color-scheme=slate] .md-header {
+/*------------------------------------------------------- 
+    Slate Scheme Overide
+--------------------------------------------------------*/
+/* Header (Title Bar) */
+.md-header {
   color: var(--md-gbl-text-color-strong);
-  background-color: var(--md-default-bg-color);
-  border-bottom: 0.125rem solid var(--md-primary-fg-color);
+  background-color: var(--md-default-bg-color-nord0);
 }
-[data-md-color-scheme=slate] .md-header[data-md-state=shadow] {
+.md-header[data-md-state=shadow] {
   box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15), 0 0 0.2rem 0.4rem rgba(0, 0, 0, 0.2);
 }
-[data-md-color-scheme=slate] .md-top {
+
+/* "Go to Top" Button */
+.md-top {
   background-color: var(--md-default-bg-color);
   box-shadow: var(--md-shadow-z2);
 }
-[data-md-color-scheme=slate] .md-top:hover {
+.md-top:hover {
   background-color: var(--md-primary-fg-color);
 }
-[data-md-color-scheme=slate] .md-tabs {
-  color: var(--md-text-color); /* Changes Text Colour */
-  background-color: var(--md-primary-fg-color-transparent); /* Changes the Top navigation bar to theme colour */
+
+/* Navigation Tabs */
+.md-tabs {
+  color: var(--md-gbl-text-color);
+  background-color: var(--md-default-bg-color-nord0);
 }
-[data-md-color-scheme=slate] .md-tabs__link--active {
-  color: var(--md-primary-fg-color);
+.md-tabs__item--active .md-tabs__link {
+  font-weight: 500;
+  color: var(--md-gbl-text-color-strong);
 }
-[data-md-color-scheme=slate] .md-tabs__link:hover {
-  color: var(--md-accent-fg-color);
+
+/* Search Bar */
+.md-search__input {
+  color: var(--md-text-color);
+  background-color: var(--md-default-bg-color--50);
+  border-radius: 0.6rem;
 }
-[data-md-color-scheme=slate] .md-search__input {
-  color: var(--md-text-color); /* Idk what this does, but changing it mess some shit  */
-  background-color: var(--md-default-bg-color--50); /* Searh Bar Background,  */
+.md-search__input:hover {
+  background-color: var(--md-default-bg-color--50);
 }
-[data-md-color-scheme=slate] .md-search__input:hover {
-  background-color: var(--md-default-bg-color--50); /* Colour when hovering */
+.md-search__input::placeholder {
+  color: var(--md-default-fg-color--light);
 }
-[data-md-color-scheme=slate] .md-search__input ~ .md-search__icon {
-  color: var(--md-text-color); /* Searh Icon Colour */
+.md-search__input ~ .md-search__icon {
+  color: var(--md-text-color);
 }
-[data-md-color-scheme=slate] .md-search__input::placeholder {
-  color: var(--md-default-fg-color--light); /* "Search Text Colour" */
+
+/* Links */
+.md-content {
+  --md-typeset-a-color: var(--md-gbl-link-color);
 }
-[data-md-color-scheme=slate] .md-content {
-  --md-typeset-a-color: var(--md-gbl-link-color); /* Links */
-}
+
+/*------------------------------------------------------- 
+    (Optional) Sidebar Navigation - Currently Commented Out
+--------------------------------------------------------*/
 
 /*# sourceMappingURL=extra.css.map */

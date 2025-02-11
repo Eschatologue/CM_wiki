@@ -5,30 +5,13 @@
 $mod-highlight: hsl(66, 94%, 73%);
 $mod-selection: hsl(231, 25%, 25%);
 
-$mod-red: hsl(4, 90%, 58%);
-$mod-pink: hsl(340, 82%, 52%);
-$mod-purple: hsl(291, 64%, 42%);
-$mod-deep-purple: hsl(262, 52%, 47%);
-$mod-indigo: hsl(231, 48%, 48%);
-$mod-blue: hsl(207, 90%, 54%);
-$mod-light-blue: hsl(199, 98%, 48%);
-$mod-cyan: hsl(187, 100%, 42%);
-$mod-teal: hsl(174, 100%, 29%);
-$mod-green: hsl(122, 39%, 49%);
-$mod-light-green: hsl(88, 50%, 53%);
-$mod-lime: hsl(66, 70%, 54%);
-$mod-yellow: hsl(54, 100%, 62%);
-$mod-amber: hsl(45, 100%, 51%);
-$mod-orange: hsl(36, 100%, 50%);
-$mod-deep-orange: hsl(14, 100%, 57%);
-$mod-brown: hsl(16, 25%, 38%);
-$mod-grey: hsl(0, 0%, 62%);
-$mod-blue-gray: hsl(200, 18%, 46%);
-
 // https://nordui.netlify.app/docs/core/colors
 
-$nord-dark: convert.hex2hsl(nord.$nord0);
-$nord-darker: convert.hex2hsl(#252A32);
+$nord-polar-1: convert.hex3hsl(#242931);
+$nord-polar0: convert.hex3hsl(nord.$nord0);
+$nord-polar1: convert.hex3hsl(nord.$nord1);
+$nord-polar2: convert.hex2hsl(nord.$nord2);
+$nord-polar3: convert.hex2hsl(nord.$nord3);
 
 $nord-snow1: convert.hex3hsl(nord.$nord4);
 $nord-snow1-pale: color.adjust($nord-snow1, $saturation: -10%, $lightness: -10%);

@@ -15,7 +15,6 @@ $defaultHue: 215;
     --nord-h: 216;
     --nord-s: 15%;
     --nord-l: 16%;
-
 }
 
 /* Standard Material Colour */
@@ -23,61 +22,36 @@ $defaultHue: 215;
 @each $name,
     $colors
         in (
-            "red":
-                accent.$nord-red
-                color.adjust(accent.$nord-red, $lightness: 5%)
-                color.adjust(accent.$nord-red, $lightness: -5%),
-            "pink":
-                accent.$nord-pink
-                color.adjust(accent.$nord-pink, $lightness: 5%)
-                color.adjust(accent.$nord-pink, $lightness: -5%),
-            "green":
-                accent.$nord-green
-                color.adjust(accent.$nord-green, $lightness: 5%)
-                color.adjust(accent.$nord-green, $lightness: -5%),
-            "yellow":
-                accent.$nord-yellow
-                color.adjust(accent.$nord-yellow, $lightness: 5%)
-                color.adjust(accent.$nord-yellow, $lightness: -5%),
-            "orange":
-                accent.$nord-orange
-                color.adjust(accent.$nord-orange, $lightness: 5%)
-                color.adjust(accent.$nord-orange, $lightness: -5%),
-            "indigo":
-                accent.$nord-indigo
-                color.adjust(accent.$nord-indigo, $lightness: 5%)
-                color.adjust(accent.$nord-indigo, $lightness: -5%),
-            "teal":
-                accent.$nord-teal
-                color.adjust(accent.$nord-teal, $lightness: 5%)
-                color.adjust(accent.$nord-teal, $lightness: -5%),
-            "frost1":
-                accent.$nord-frost1
-                color.adjust(accent.$nord-frost1, $lightness: 5%)
-                color.adjust(accent.$nord-frost1, $lightness: -5%)
+            "red": accent.$nord-red,
+            "pink": accent.$nord-pink,
+            "green": accent.$nord-green,
+            "yellow": accent.$nord-yellow,
+            "orange": accent.$nord-orange,
+            "indigo": accent.$nord-indigo,
+            "teal": accent.$nord-teal,
+            "frost1": accent.$nord-frost1
         )
 {
     // Colour palette for each primary theme
     [data-md-color-scheme="slate"][data-md-color-primary="#{$name}"] {
-
         /* Global Text Colour */
         --md-gbl-text-color: #{accent.$nord-snow1-pale};
         --md-gbl-text-color-strong: #{accent.$nord-snow1};
 
-        /* Code */
-        --md-code-fg-color-dark: hsla(200, 18%, 12%, 1);
-
         /* Primary Colour Variants */
         --md-primary-fg-color: hsla(#{convert.hex2hsl(list.nth($colors, 1))}, 1);
-        --md-primary-fg-color-light: hsla(#{convert.hex2hsl(color.adjust(list.nth($colors, 1), $lightness: 10%))}, 1);
-        --md-primary-fg-color-dark: hsla(#{convert.hex2hsl(color.adjust(list.nth($colors, 1), $lightness: -15%))}, 1);
-        --md-primary-fg-color-transparent: hsla(#{convert.hex2hsl(list.nth($colors, 1))}, 0.225);
+        --md-primary-fg-color--light: hsla(#{convert.hex2hsl(color.adjust(list.nth($colors, 1), $lightness: 7.5%))}, 1);
+        --md-primary-fg-color--dark: hsla(#{convert.hex2hsl(color.adjust(list.nth($colors, 1), $lightness: -7.5%))}, 1);
+
+        --md-primary-fg-color--transparent: hsla(#{convert.hex2hsl(list.nth($colors, 1))}, 0.1);
+        --md-primary-fg-color--light--transparent: hsla(#{convert.hex2hsl(color.adjust(list.nth($colors, 1), $lightness: 7.5%))}, 0.1);
 
         /* Accemt Colour Variants */
         --md-accent-fg-color: var(--md-primary-fg-color);
 
         /* Background Colours */
-        --md-default-bg-color: hsla(#{accent.$nord-darker}, 1); /* Main Background Colour*/
+        --md-default-bg-color: #{accent.$nord-polar-1}; /* Main Background Colour*/
+        --md-default-bg-color-nord0: #{accent.$nord-polar0};
 
         /* Transparent White Colour */
         --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
@@ -93,9 +67,12 @@ $defaultHue: 215;
         --md-primary-bg-color-light: var(--md-default-bg-color--light);
 
         // --md-gbl-link-color: #{accent.$nord-frost2};
-        --md-gbl-link-color: var(--md-primary-fg-color-light);
+        --md-gbl-link-color: var(--md-primary-fg-color--light);
 
         /* Typeset `a` color shades */
         --md-typeset-a-color: var(--md-gbl-link-color);
+
+        /* Code */
+        --md-code-bg-color: var(--md-default-bg-color-nord0);
     }
 }
