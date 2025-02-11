@@ -30,7 +30,7 @@ $th-padding: $paddingScale * 1.4;
             text-transform: capitalize !important;
             vertical-align: bottom;
             color: var(--md-text-color);
-            border-bottom: #{convert.px2rem(3px)} solid var(--md-primary-fg-color);
+            border-bottom: #{convert.px2rem(2px)} solid var(--md-primary-fg-color);
             
             background-color: hsla(0, 0%, 0%, 0.45);
             padding: #{convert.px2em($th-padding)} #{convert.px2em($paddings)};
@@ -73,6 +73,7 @@ $th-padding: $paddingScale * 1.4;
         width: 100%;
 
         table:not([class]) {
+            box-shadow: var(--md-shadow-z2);
             margin: #{convert.px2rem(0px)};
             display: table;
             border-color: transparent !important;

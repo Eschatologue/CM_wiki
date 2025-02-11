@@ -29,8 +29,8 @@ theme:
   language: en
   palette:
     scheme: slate
-    primary: indigo
-    accent: indigo
+    primary: teal
+    accent: teal
   font:
     code: JetBrains Mono
     text: Source Sans 3 ## This is good enough, don't change it again.

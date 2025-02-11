@@ -31,10 +31,6 @@ $defaultHue: 215;
                 accent.$nord-pink
                 color.adjust(accent.$nord-pink, $lightness: 5%)
                 color.adjust(accent.$nord-pink, $lightness: -5%),
-            "indigo":
-                accent.$nord-indigo
-                color.adjust(accent.$nord-indigo, $lightness: 5%)
-                color.adjust(accent.$nord-indigo, $lightness: -5%),
             "green":
                 accent.$nord-green
                 color.adjust(accent.$nord-green, $lightness: 5%)
@@ -46,7 +42,15 @@ $defaultHue: 215;
             "orange":
                 accent.$nord-orange
                 color.adjust(accent.$nord-orange, $lightness: 5%)
-                color.adjust(accent.$nord-orange, $lightness: -5%)
+                color.adjust(accent.$nord-orange, $lightness: -5%),
+            "indigo":
+                accent.$nord-indigo
+                color.adjust(accent.$nord-indigo, $lightness: 5%)
+                color.adjust(accent.$nord-indigo, $lightness: -5%),
+            "teal":
+                accent.$nord-teal
+                color.adjust(accent.$nord-teal, $lightness: 5%)
+                color.adjust(accent.$nord-teal, $lightness: -5%)
         )
 {
     // Colour palette for each primary theme
