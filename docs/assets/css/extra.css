@@ -173,7 +173,7 @@
   background-color: transparent !important;
 }
 .md-typeset table:not([class]) tr:nth-child(even) {
-  background-color: var(--md-mod-table-color--light) !important;
+  background-color: hsla(0, 0%, 100%, 0.035) !important;
 }
 .md-typeset__table {
   width: 100%;
