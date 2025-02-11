@@ -17,7 +17,7 @@ $th-padding: $paddingScale * 1.4;
 
     & table:not([class]) {
         --table-font-size: #{calc(var(--default-font-size) * 0.9)};
-
+        
         th,
         td {
             padding: #{convert.px2em($paddingScale)} #{convert.px2em($paddings)};
@@ -25,39 +25,25 @@ $th-padding: $paddingScale * 1.4;
         }
 
         th {
-            background-color: var(--md-default-bg-color) !important;
-            
             font-size: var(--table-font-size);
             font-weight: bold !important;
             text-transform: capitalize !important;
-
-            color: var(--md-text-color);
-            border-bottom: #{convert.px2rem(3px)} solid var(--md-typeset-table-color);
-
-            padding: #{convert.px2em($th-padding)} #{convert.px2em($paddings)};
-
             vertical-align: bottom;
+            color: var(--md-text-color);
+            border-bottom: #{convert.px2rem(3px)} solid var(--md-primary-fg-color);
+            
+            background-color: hsla(0, 0%, 0%, 0.45);
+            padding: #{convert.px2em($th-padding)} #{convert.px2em($paddings)};
         }
 
         td {
             font-size: calc(var(--table-font-size) * 0.9);
-            border-top: none;
-            border-bottom: #{convert.px2rem(1px)} solid var(--md-typeset-table-color);
+            border: #{convert.px2rem(0px)} transparent !important;
             vertical-align: middle;
 
             b,
             strong {
                 font-weight: calc(var(--default-font-weight, 400) * 1.8); // Fallback for default weight
-            }
-        }
-
-        tbody tr {
-            transition: background-color 125ms;
-
-            // Table row on hover
-            &:hover {
-                background-color: var(--md-typeset-table-color--light);
-                box-shadow: 0 px2rem(1px) 0 var(--md-default-bg-color) inset;
             }
         }
 
@@ -73,12 +59,12 @@ $th-padding: $paddingScale * 1.4;
         }
 
         // Preserve striped rows
-        tr:nth-child(even) {
-            background-color: transparent; // Adjust for striped colour
+        tr:nth-child(odd) {
+            background-color: transparent !important; // Adjust for striped colour
         }
 
-        tr:nth-child(odd) {
-            background-color: var(--md-table-color--light);
+        tr:nth-child(even) {
+            background-color: var(--md-mod-table-color--light) !important;
         }
     }
 
