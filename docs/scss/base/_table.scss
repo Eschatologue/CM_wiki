@@ -64,7 +64,7 @@ $th-padding: $paddingScale * 1.4;
         }
 
         tr:nth-child(even) {
-            background-color: var(--md-mod-table-color--light) !important;
+            background-color: hsla(0, 0%, 100%, 0.035) !important;
         }
     }
 
