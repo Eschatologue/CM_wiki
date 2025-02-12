@@ -121,9 +121,9 @@ Each time the **:ui-rage: Rage**{ .em } is extended, it lasts until the end of y
 
 While you aren't wearing any armour, you can choose the following option to determine your base **Armour Class**:
 
-:   **Dexterity Based**{ .inl } 10 plus your :abl-dex: Dexterity and :abl-cons: Constitution modifiers; or
+**Dexterity Based**{ .inl } 10 plus your :abl-dex: Dexterity and :abl-cons: Constitution modifiers; or
 
-:   **Strength Based**{ .inl } 10 plus your :abl-str: Strength and :abl-cons: Constitution modifiers.
+**Strength Based**{ .inl } 10 plus your :abl-str: Strength and :abl-cons: Constitution modifiers.
 
 You can use a Shield and still gain these benefit.
 

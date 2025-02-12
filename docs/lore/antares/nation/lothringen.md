@@ -9,8 +9,9 @@ search:
 
 ## Overview  
 
-*"We don’t rely on the old ways or wait for blessings from gods—we build with our hands, our minds, and our will. We shape our own future."*  
-— Wilhelm von Lothringen, Kaiser of Lothringen  
+> *"We don’t rely on the old ways or wait for blessings from gods—we build with our hands, our minds, and our will. We shape our own future."*{ .emq }  
+— Wilhelm von Lothringen, Kaiser of Lothringen
+{ .quote }
 
 The **Empire of Lothringen**, often simply called **Lothringen**, is a nation marked by its distinct culture, independent spirit, and drive for innovation. Unlike many other nations in Antares, Lothringen thrives on a mix of craftsmanship, industry, and commerce. With a rich history of arts and trade, its people have long been known for their resilience and ingenuity. The empire is an amalgamation of old-world tradition and forward-thinking progress, where innovation isn't just encouraged—it's expected.
 
@@ -20,7 +21,7 @@ Once part of Gallia, the province of Lorraine, Lothringen was always a unique en
 
 ### Gallia & Lothringen  
 
-*"Gallia did not forge an empire. It gathered the spoils of war and called it unity."*  
+> *"Gallia did not forge an empire. It gathered the spoils of war and called it unity."*{ .emq }  
 — Marquis Henri de Dorian, Gallian noble  
 { .quote }
 
@@ -28,13 +29,13 @@ The history of Lothringen has always been intertwined with Gallia, yet starkly d
 
 Despite this, Lorraine’s prosperity was tied to Gallia’s demands. The kingdom relied heavily on the resources, goods, and skilled labour that Lorraine produced. Yet the cultural rift remained. The people of Lorraine never quite fit in, often feeling like second-class citizens in their own land. 
 
-*"We gave them what they asked for, only for them to bite the hand that fed them."*  
+> *"We gave them what they asked for, only for them to bite the hand that fed them."*{ .emq }  
 — Chancellor Jean-Paul Besson, Gallian statesman  
 { .quote }
 
 ### The Road to Independence  
 
-*"To call it a 'revolution' is to undermine the treachery that took place. It was nothing more than opportunism. Dishonorable, disgusting, appalling"*  
+> *"To call it a 'revolution' is to undermine the treachery that took place. It was nothing more than opportunism. Dishonorable, disgusting, appalling"*{ .emq }  
 — Countess Marguerite de Vachon, Gallian noblewoman  
 { .quote }
 
@@ -44,7 +45,7 @@ Once the Gallian presence was gone, the region was in turmoil, but the people ha
 
 ### A New Empire  
 
-*"We built this empire with our own hands. From the ground up, we forged Lothringen."*  
+> *"We built this empire with our own hands. From the ground up, we forged Lothringen."*{ .emq }  
 — Wilhelm von Lothringen, Kaiser of Lothringen  
 { .quote }
 

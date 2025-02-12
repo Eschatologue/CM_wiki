@@ -7,7 +7,7 @@ search:
 
 # Myrkheim
 
-*"Stone endures where flesh withers. The mountain does not kneel."*  
+*"Stone endures where flesh withers. The mountain does not kneel."*{ .emq }  
 — Ancestral Proverb of Myrkheim
 { .quote }
 
@@ -17,7 +17,7 @@ The **Federal Republic of Myrkheim**, commonly known as **Myrkheim**, is a dwarf
 
 ### Origins and Early Conflicts
 
-*"The mountain is eternal, but those who claim it are not. Power shifts like the veins of ore beneath our feet."*  
+*"The mountain is eternal, but those who claim it are not. Power shifts like the veins of ore beneath our feet."*{ .emq }  
 — Chronicler Kolskegg Herjolfsson
 { .quote }
 
@@ -25,7 +25,7 @@ Myrkheim's early history was marked by relentless clan warfare, as rival dwarven
 
 ### The Second Maelstrom
 
-*"The Maelstrom did what no dwarf ever could—it forced us to stand together."*  
+*"The Maelstrom did what no dwarf ever could—it forced us to stand together."*{ .emq }  
 — Lord Hrothkar Vedrfolnir
 { .quote }
 
@@ -33,7 +33,7 @@ The **Second Maelstrom** shattered the foundations of Myrkheim, devastating enti
 
 ### Seeking Elven Guidance
 
-*"We did not seek their wisdom. We sought survival. Do not mistake desperation for reverence."*  
+*"We did not seek their wisdom. We sought survival. Do not mistake desperation for reverence."*{ .emq }  
 — Elder Harald Rhinedottir, on the alliance with the elves
 { .quote }
 
@@ -41,7 +41,7 @@ With the landscape forever scarred by the Maelstrom and warp storms threatening 
 
 ### The Forest Culling
 
-*"We gave them iron and they gave us poetry. It was never a fair trade."*  
+*"We gave them iron and they gave us poetry. It was never a fair trade."*{ .emq }  
 — Lord Hjalmar Hraesvelgr
 { .quote }
 
@@ -51,7 +51,7 @@ Resentment festered. As generations passed, Myrkheim found itself more elven tha
 
 ### The Dwarvish-Albion War
 
-*"It was a never-ending tide of Iron Walkers and Steel Elephants. We don't know, we are not ready"*  
+*"It was a never-ending tide of Iron Walkers and Steel Elephants. We don't know, we are not ready"*{ .emq }  
 — Commander Vigbjord Styrkarsson, after the first battle against Albion
 { .quote }
 
@@ -61,7 +61,7 @@ Dwarven cities fell, and entire legions were lost beneath Albion's metal tracks.
 
 ### Aftermath and Modern Myrkheim
 
-*"Our forges burn hotter than ever, but whose hands stoke the flames?"*  
+*"Our forges burn hotter than ever, but whose hands stoke the flames?"*{ .emq }  
 — Dwarven Scholar Alfdis Storolfdottir
 { .quote }
 

@@ -9,7 +9,7 @@ search:
 
 ## Overview  
 
-*"We did not flee to Valinor to hide—we came to outlast the world that cast us aside."*  
+> *"We did not flee to Valinor to hide—we came to outlast the world that cast us aside."*{ .emq }  
 — Chancellor Elyndor Laaksonen, inaugural address  
 { .quote }
 
@@ -23,7 +23,7 @@ Beyond survival, Valinor has carved out an identity as the **scholarly heart of 
 
 ### Political Turmoil and Exile  
 
-*"The forests we once called home became our cages. To leave was treason—to stay was a slow death."*  
+> *"The forests we once called home became our cages. To leave was treason—to stay was a slow death."*{ .emq }  
 — Excerpt from *The Silent Exodus*  
 { .quote }
 
@@ -33,7 +33,7 @@ What began as a slow erosion of freedom became outright persecution. Art, academ
 
 ### War and Resistance  
 
-*"We stole the very blade meant to cut us down."*  
+> *"We stole the very blade meant to cut us down."*{ .emq }  
 — Captain Aethor Keskitalo, Valinor Resistance  
 { .quote }
 
@@ -51,7 +51,7 @@ It was here, amidst the ice and howling winds, that they built their new home.
 
 ### Lady Grey  
 
-*"It came with no warning. The cold stole breath from our lungs, turned flesh to ice, and nearly brought Valinor to ruin before it had even begun."*  
+> *"It came with no warning. The cold stole breath from our lungs, turned flesh to ice, and nearly brought Valinor to ruin before it had even begun."*{ .emq }  
 — Scholar Thaelorin Nevalainen  
 { .quote }
 
@@ -61,7 +61,7 @@ Though pushed to its absolute limit, the machine endured. When the storm finally
 
 ## Society  
 
-*"We do not wait for salvation. We carve it from the ice with our own hands."*  
+> *"We do not wait for salvation. We carve it from the ice with our own hands."*{ .emq }  
 — Valinor Proclamation of Founding  
 { .quote }
 
@@ -75,7 +75,7 @@ The **Counter** is an ever-present tally, increasing with every death. More than
 
 ### Land of Academics  
 
-*"We hoarded our knowledge for centuries, and for what? To watch it burn?"*  
+> *"We hoarded our knowledge for centuries, and for what? To watch it burn?"*{ .emq }  
 — Grand Archivist Sylwen Hannula  
 { .quote }
 
@@ -87,7 +87,7 @@ Today, Valinor is **the** centre of academia in Antares, a city where knowledge 
 
 ## Government Structure  
 
-*"Knowledge is power. Power must be guided, not hoarded."*  
+> *"Knowledge is power. Power must be guided, not hoarded."*{ .emq }  
 — Scholar’s Council Doctrine  
 { .quote }
 

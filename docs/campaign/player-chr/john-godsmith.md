@@ -44,7 +44,7 @@ You regain one of your expended ^^Maledict Dice^^ when you finish a **:rest-shor
 
 #### Maledict Die Powers
 
-**Cauterising Flame**{ .inl } As a **:rsc-a: Magic**{ .rsc } action, you can roll a number of Maledict Die up to your Rage Damage Bonus and regain a number of **:ui-hp: Hit Points** equal to the result.
+**Cauterising Flame**{ .inl } As a **:rsc-a: Magic**{ .rsc } action, you can roll a number of Maledict Die up to your Rage Damage Bonus and regain a number of **:trt-hp: Hit Points** equal to the result.
 
 **Smite of Origin**{ .inl } After you hit a target with a Strength-based attack, you can roll a number of Maledict Die up to your Rage Damage bonus, and deal extra **:dmg-fire: Fire**{ .dmg-fire } damage to the target equal to the number rolled.
 
@@ -67,7 +67,7 @@ The searing curse from Celestial is anything but a normal fire, you gain the fol
 
 **Bypass Resistances**{ .inl } When you deal **:dmg-fire: Fire**{ .dmg-fire } damage from a class feature, it ignores **:dmg-res: Resistance**. 
 
-**Healing Suppresion**{ .inl } When you deal **:dmg-fire: Fire**{ .dmg-fire } damage from a class feature to a creature, it can't regain **:ui-hp: Hit Points** until the end of your next turn.
+**Healing Suppresion**{ .inl } When you deal **:dmg-fire: Fire**{ .dmg-fire } damage from a class feature to a creature, it can't regain **:trt-hp: Hit Points** until the end of your next turn.
 
 ### Level 6: Improved Maledict Powers
 

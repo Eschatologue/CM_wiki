@@ -9,7 +9,7 @@ search:
 
 ## Overview
 
-*"We do not have a home. We have a promise."*  
+> *"We do not have a home. We have a promise."*{ .emq }  
 – Elder Yurukhan, Keeper of the Grand Charter
 { .quote }
 
@@ -21,7 +21,7 @@ For centuries, Karakorum has sailed without a destination, its people holding fa
 
 ### The Birth of the Arks  
 
-*"We did not build ships. We built the last chance for our people."*  
+> *"We did not build ships. We built the last chance for our people."*{ .emq }  
 – Grand Architect Temujin, final address before departure  
 { .quote }  
  
@@ -33,7 +33,7 @@ But their architect never boarded them. The first Khan, who had united the warri
 
 ### The Vanishing of the Emerald of Paradise  
 
-*"A distress call, clear as day. And then—nothing. Just the sea, empty as a grave."*  
+> *"A distress call, clear as day. And then—nothing. Just the sea, empty as a grave."*{ .emq }  
 – Tsunoi Soshu, Navigator of the Kamikaze  
 { .quote }  
 
@@ -45,7 +45,7 @@ No ark has ever been lost with survivors. No answers have ever surfaced. And dea
 
 ### Sanctum of Sentience's Destruction
 
-*"We were archivists, not warriors. When the screaming started, we knew—we were never meant to leave."*  
+> *"We were archivists, not warriors. When the screaming started, we knew—we were never meant to leave."*{ .emq }  
 – Last transmission from the **Murashu**  
 { .quote }  
 
@@ -63,7 +63,7 @@ The **Karakorum Alliance** is less a unified nation and more a coalition of nece
 
 ### Kamikaze: Storm of Vengeance
 
-*"The storm bows to no master."*  
+> *"The storm bows to no master."*{ .emq }  
 – Shogun of the Kamikaze
 { .quote }  
 

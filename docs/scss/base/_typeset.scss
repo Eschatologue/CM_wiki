@@ -64,6 +64,7 @@
 /*-------------------------------------------------------
     Headings
 --------------------------------------------------------*/
+
 .md-typeset {
     h1,
     h2,
@@ -97,13 +98,14 @@
         letter-spacing: calc(var(--default-font-size) * 0.02);
         font-weight: 500;
         margin: #{convert.px2rem(9px)} 0;
+        margin-top: 0;
     }
 
     h2 {
         font-size: calc(var(--default-font-size) * 1.7);
         font-weight: 500;
         letter-spacing: calc(var(--default-font-size) * 0.075);
-        border-bottom: #{convert.px2rem(4.5px)} ridge var(--md-primary-fg-color);
+        border-bottom: #{convert.px2rem(2px)} solid var(--md-primary-fg-color--light);
         margin: #{convert.px2rem(18px)} 0 #{convert.px2rem(4px)};
         padding-bottom: #{convert.px2rem(2px)};
     }
@@ -144,6 +146,7 @@
 /*-------------------------------------------------------
     Additional Styles
 --------------------------------------------------------*/
+
 .md-typeset hr {
     border-bottom: #{convert.px2em(4px)} dashed var(--md-default-wht--0125);
     margin: #{convert.px2em(14px)} 0;
@@ -151,4 +154,26 @@
 
 .xxxxl {
     font-size: 5.5rem;
+}
+
+/*-------------------------------------------------------
+    Horizontal Description List
+-------------------------------------------------------*/
+
+.md-typeset dl {
+    display: grid;
+    font-size: #{calc(var(--default-font-size) * 0.9)};
+    grid-template-columns: #{calc(var(--default-font-size) * 9 * 0.875)} auto;
+    gap: convert.px2rem(10px) 0 !important; // row gap and column gap
+
+    dt,
+    dd {
+        margin: 0 !important; // Remove default margin
+        padding: 0;
+    }
+
+    // dd {
+    //     margin-left: 0 !important;
+    //     padding-left: 0 !important;
+    // }
 }

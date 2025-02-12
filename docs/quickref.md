@@ -24,7 +24,7 @@ icon: material/crown-circle
 
             **Damage Roll**{ .inl } When an attack or attempt to harm is successful, the creature often makes a Damage Roll to determine how much damage it causes to its target.
             
-            :   **Roll:** **:die-d6: Damage Die + Ability Modifier + other Bonuses**{ .back }
+            **Roll:** **:die-d6: Damage Die + Ability Modifier + other Bonuses**{ .back }
 
         </div>
 
@@ -48,7 +48,7 @@ icon: material/crown-circle
 
             **Skill Check**{ .inl } Skill checks are Ability Checks made using skills (e.g. Perception, Intimidation, History, etc)
 
-            :   **Roll:** **:die-d20: D20 + Ability Modifier + PB (if proficient) +  other Bonuses**{ .back }
+            **Roll:** **:die-d20: D20 + Ability Modifier + PB (if proficient) +  other Bonuses**{ .back }
 
         </div>
 

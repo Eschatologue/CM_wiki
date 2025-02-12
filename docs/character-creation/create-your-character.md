@@ -12,15 +12,15 @@ When creating your character, you must adhere to three core principles that appl
 
 **Team Cooperation**{ .inl } Your character must consistently work with and support the rest of the party.
 
-:   A rogue who steals from party members or sabotages plans undermines group cohesion. Instead, create a rogue who uses their skills to benefit the party, like scouting ahead, gathering intelligence, or disarming traps to ensure safe passage for the group. Another example is a bard who not only performs to inspire allies but also uses their charm and wit to negotiate and forge alliances that benefit the entire party.
+A rogue who steals from party members or sabotages plans undermines group cohesion. Instead, create a rogue who uses their skills to benefit the party, like scouting ahead, gathering intelligence, or disarming traps to ensure safe passage for the group. Another example is a bard who not only performs to inspire allies but also uses their charm and wit to negotiate and forge alliances that benefit the entire party.
 
 **Plot Engagement**{ .inl } Your character must be consistently willing to engage with the campaign's plot.
 
-:   A character who refuses to participate in the main quest or constantly separates from the group disrupts the story. Instead, design a character with personal motivations that align with the campaign's goals, such as a ranger seeking revenge on the antagonist responsible for the apocalypse or a cleric on a mission to restore order and help survivors. These motivations should naturally lead the character to be involved in key events and conflicts of the campaign.
+A character who refuses to participate in the main quest or constantly separates from the group disrupts the story. Instead, design a character with personal motivations that align with the campaign's goals, such as a ranger seeking revenge on the antagonist responsible for the apocalypse or a cleric on a mission to restore order and help survivors. These motivations should naturally lead the character to be involved in key events and conflicts of the campaign.
 
 **Setting and Tone**{ .inl } Your character must plausibly fit into the campaign's setting and align with the overall tone of the campaign.
  
-:   This setting uses a post-apocalyptic dystopian science fantasy world, characters should blend modern and fantasy elements. A traditional medieval knight would be out of place. Instead, create a knight equipped armour combining modern technology enchanted with ancient runes. Similarly, a mage might use arcane spells alongside gadgets, and a ranger could be adept at surviving in both urban ruins and wild wastelands, utilizing a mix of traditional skills and contemporary tools.
+This setting uses a post-apocalyptic dystopian science fantasy world, characters should blend modern and fantasy elements. A traditional medieval knight would be out of place. Instead, create a knight equipped armour combining modern technology enchanted with ancient runes. Similarly, a mage might use arcane spells alongside gadgets, and a ranger could be adept at surviving in both urban ruins and wild wastelands, utilizing a mix of traditional skills and contemporary tools.
 
 ## Step-by-Step Guide
 

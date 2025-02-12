@@ -426,7 +426,6 @@ nav:
       - Ydastriel Khaine: campaign/player-chr/ydastriel-khaine.md
       - Eris Decrat: campaign/player-chr/eris-dekrat.md
   - Lore:
-    - lore/index.md
     - Antares: 
       - Continent: lore/antares/continent.md
       - Nation:

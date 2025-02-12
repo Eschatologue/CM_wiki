@@ -45,13 +45,14 @@ Your groundbreaking research has led to the development of your signature Arcane
 
 **Upgrades**{ .inl } Upon creation, your Arcane Firearm gains two Upgrades of your choice from the list of Upgrades at the end of this subclass.
 
-##### Arcane Firearm
+**Weapon Category**
+:   Simple Ranged
 
-| Trait | Description |
-|---|---|
-| **Weapon Category** | Simple Ranged | 
-| **Damage on a Hit** | **1d10 :dmg-force: Force**{ .dmg-force } + ability modifier used in the attack roll |
-| **Properties** | :weapon-prop-reload: Reload (6), :weapon-prop-range: Ranged (80/320) |
+**Damage on a Hit**
+:   **1d10 :dmg-force: Force**{ .dmg-force } + ability modifier used in the attack roll
+
+**Properties**
+:   :weapon-prop-reload: Reload (6), :weapon-prop-range: Ranged (80/320)
 
 At certain Artificer levels, your Arcane Firearm gains more Upgrades: at level 5 (3), 10 (4), and 15 (5)
 

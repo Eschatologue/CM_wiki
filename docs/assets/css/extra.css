@@ -83,12 +83,13 @@
   letter-spacing: calc(var(--default-font-size) * 0.02);
   font-weight: 500;
   margin: 0.45rem 0;
+  margin-top: 0;
 }
 .md-typeset h2 {
   font-size: calc(var(--default-font-size) * 1.7);
   font-weight: 500;
   letter-spacing: calc(var(--default-font-size) * 0.075);
-  border-bottom: 0.225rem ridge var(--md-primary-fg-color);
+  border-bottom: 0.1rem solid var(--md-primary-fg-color--light);
   margin: 0.9rem 0 0.2rem;
   padding-bottom: 0.1rem;
 }
@@ -133,15 +134,29 @@
   font-size: 5.5rem;
 }
 
+/*-------------------------------------------------------
+    Horizontal Description List
+-------------------------------------------------------*/
+.md-typeset dl {
+  display: grid;
+  font-size: calc(var(--default-font-size) * 0.9);
+  grid-template-columns: calc(var(--default-font-size) * 9 * 0.875) auto;
+  gap: 0.5rem 0 !important;
+}
+.md-typeset dl dt,
+.md-typeset dl dd {
+  margin: 0 !important;
+  padding: 0;
+}
+
 /*------------------------------------------------------- 
     Tables
 --------------------------------------------------------*/
-.md-typeset {
-  /* Table Colour */
-  --md-table-color--light: hsla(0, 0%, 100%, 0.025);
-  --md-table-color--hover: hsla(0, 0%, 100%, 0.05);
-}
 .md-typeset table:not([class]) {
+  margin-bottom: -0.4rem;
+  box-shadow: var(--md-shadow-z2);
+  display: table;
+  border-color: transparent !important;
   --table-font-size: calc(var(--default-font-size) * 0.9);
 }
 .md-typeset table:not([class]) th,
@@ -156,7 +171,7 @@
   vertical-align: bottom;
   color: var(--md-text-color);
   border-bottom: 0.1rem solid var(--md-primary-fg-color);
-  background-color: hsla(0, 0%, 0%, 0.45);
+  background-color: var(--md-default-blk--050);
   padding: 0.525em 1em;
 }
 .md-typeset table:not([class]) td {
@@ -182,14 +197,11 @@
 .md-typeset table:not([class]) tr:nth-child(even) {
   background-color: var(--md-typeset-table-color--light) !important;
 }
+.md-typeset table:not([class]) tbody tr:last-of-type td {
+  border-bottom: 0.1rem solid var(--md-primary-fg-color);
+}
 .md-typeset__table {
   width: 100%;
-}
-.md-typeset__table table:not([class]) {
-  box-shadow: var(--md-shadow-z2);
-  margin: 0rem;
-  display: table;
-  border-color: transparent !important;
 }
 
 /*-------------------------------------------------------
@@ -202,15 +214,14 @@
 /*-------------------------------------------------------
     Typography
 -------------------------------------------------------*/
-.em, .inl, .rsc, .d20 {
-  white-space: nowrap; /* Prevents block splitting on smaller screens, used with icons */
+.em, .inl, .emq, .rsc, .d20 {
   color: var(--md-gbl-text-color-strong);
 }
-.em abbr, .inl abbr, .rsc abbr, .d20 abbr {
+.em abbr, .inl abbr, .emq abbr, .rsc abbr, .d20 abbr {
   border-bottom: none !important;
 }
 
-.nowrap {
+.nowrap, .dmg-heal, .dmg-phys, .dmg-force, .dmg-radi, .dmg-necr, .dmg-lgtn, .dmg-psyc, .dmg-thun, .dmg-posn, .dmg-fire, .dmg-cold, .dmg-acid, .inl, .rsc, .d20 {
   white-space: nowrap;
 }
 
@@ -234,20 +245,24 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 /*-------------------------------------------------------
     Specific Typography Variants
 -------------------------------------------------------*/
-.quote, .author {
-  color: var(--md-default-fg-color--light);
-  font-size: calc(var(--default-font-size) * 0.9);
-  font-weight: 400;
-}
-.quote strong, .author strong {
-  color: var(--md-default-fg-color--light) !important;
-}
-
 .back {
   background-color: var(--md-default-blk--025);
   padding: 0.1875em 0.375em !important;
   border-radius: 0.5em !important;
   font-weight: 400 !important;
+}
+
+.emq {
+  font-size: calc(var(--default-font-size) * 0.9);
+}
+
+.quote, .author {
+  color: var(--md-default-fg-color--light);
+  font-size: calc(var(--default-font-size) * 0.8);
+  font-weight: 400;
+}
+.quote strong, .author strong {
+  color: var(--md-default-fg-color--light) !important;
 }
 
 /*-------------------------------------------------------
@@ -279,8 +294,8 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 -------------------------------------------------------*/
 /* Used in conjuction with .inl */
 .indt {
-  text-indent: calc((var(--default-font-size)) * -1);
-  padding-left: calc((var(--default-font-size)) * 2);
+  text-indent: calc(var(--default-font-size) * 1.25 * -1);
+  padding-left: calc(var(--default-font-size) * 1.25 * 2);
 }
 
 /*-------------------------------------------------------
@@ -314,73 +329,61 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 -------------------------------------------------------*/
 .dmg-acid {
   color: hsl(77, 98%, 34%) !important;
-  white-space: nowrap;
   font-weight: 400 !important;
 }
 
 .dmg-cold {
   color: hsl(199, 91%, 64%) !important;
-  white-space: nowrap;
   font-weight: 400 !important;
 }
 
 .dmg-fire {
   color: hsl(28, 75%, 53%) !important;
-  white-space: nowrap;
   font-weight: 400 !important;
 }
 
 .dmg-posn {
   color: hsl(102, 98%, 32%) !important;
-  white-space: nowrap;
   font-weight: 400 !important;
 }
 
 .dmg-thun {
   color: hsl(262, 43%, 65%) !important;
-  white-space: nowrap;
   font-weight: 400 !important;
 }
 
 .dmg-psyc {
   color: hsl(328, 61%, 66%) !important;
-  white-space: nowrap;
   font-weight: 400 !important;
 }
 
 .dmg-lgtn {
   color: hsl(208, 80%, 55%) !important;
-  white-space: nowrap;
   font-weight: 400 !important;
 }
 
 .dmg-necr {
   color: hsl(129, 47%, 47%) !important;
-  white-space: nowrap;
   font-weight: 400 !important;
 }
 
 .dmg-radi {
   color: hsl(54, 100%, 67%) !important;
-  white-space: nowrap;
   font-weight: 400 !important;
 }
 
 .dmg-force {
   color: hsl(4, 100%, 71%) !important;
-  white-space: nowrap;
   font-weight: 400 !important;
 }
 
 .dmg-phys {
   color: hsl(0, 0%, 78%) !important;
-  white-space: nowrap;
   font-weight: 400 !important;
 }
 
 .dmg-heal {
   color: hsl(180, 51%, 60%) !important;
-  white-space: nowrap;
   font-weight: 400 !important;
 }
 
@@ -684,39 +687,37 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 /*------------------------------------------------------- 
     Admonitions
 --------------------------------------------------------*/
-/* Revert to Legacy */
 .md-typeset .admonition,
 .md-typeset details {
-  border-width: 0;
-  border-left-width: 4px;
+  border: 0 solid;
+  border-left-width: 0.25rem;
   box-shadow: var(--md-shadow-z3);
 }
-
-/* Add Shadow */
 .md-typeset .admonition {
   --default-font-size: 0.7rem;
   border-color: var(--md-admonition-icon-color--note);
-  box-shadow: var(--md-shadow-z3);
   transition: box-shadow 250ms;
+}
+.md-typeset .admonition .admonition-title {
+  color: var(--md-gbl-text-color-strong);
+  background-color: var(--md-default-blk--050);
+}
+.md-typeset .admonition .admonition-title abbr {
+  border-bottom: none !important;
 }
 .md-typeset .admonition hr {
   border-bottom: 0.1875em solid rgba(255, 255, 255, 0.15);
-  padding: 0 0 !important;
+  padding: 0 !important;
 }
 .md-typeset .admonition .grid {
   grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
 }
-
 .md-typeset .admonition.homebrew,
 .md-typeset details.homebrew {
   border-color: hsl(40, 100%, 57%);
 }
-.md-typeset .homebrew > .admonition-title,
-.md-typeset .homebrew > summary {
-  background-color: hsla(40, 100%, 57%, 0.1);
-}
-.md-typeset .homebrew > .admonition-title::before,
-.md-typeset .homebrew > summary::before {
+.md-typeset .admonition.homebrew > .admonition-title::before,
+.md-typeset .admonition.homebrew > summary::before {
   background-color: hsl(40, 100%, 57%);
   -webkit-mask-image: var(--md-icon--homebrew);
   mask-image: var(--md-icon--homebrew);
@@ -725,27 +726,19 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 .md-typeset details.glossary {
   border-color: hsl(174, 42%, 51%);
 }
-.md-typeset .glossary > .admonition-title,
-.md-typeset .glossary > summary {
-  background-color: hsla(174, 42%, 51%, 0.1);
-}
-.md-typeset .glossary > .admonition-title::before,
-.md-typeset .glossary > summary::before {
+.md-typeset .admonition.glossary > .admonition-title::before,
+.md-typeset .admonition.glossary > summary::before {
   background-color: hsl(174, 42%, 51%);
   -webkit-mask-image: var(--md-icon--glossary);
   mask-image: var(--md-icon--glossary);
 }
 .md-typeset .admonition.dice,
 .md-typeset details.dice {
-  border-color: hsl(0, 100%, 66%);
+  border-color: hsl(354, 42%, 56%);
 }
-.md-typeset .dice > .admonition-title,
-.md-typeset .dice > summary {
-  background-color: hsla(0, 100%, 66%, 0.1);
-}
-.md-typeset .dice > .admonition-title::before,
-.md-typeset .dice > summary::before {
-  background-color: hsl(0, 100%, 66%);
+.md-typeset .admonition.dice > .admonition-title::before,
+.md-typeset .admonition.dice > summary::before {
+  background-color: hsl(354, 42%, 56%);
   -webkit-mask-image: var(--md-icon--dice);
   mask-image: var(--md-icon--dice);
 }
@@ -753,12 +746,8 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 .md-typeset details.action {
   border-color: hsl(172, 100%, 37%);
 }
-.md-typeset .action > .admonition-title,
-.md-typeset .action > summary {
-  background-color: hsla(172, 100%, 37%, 0.1);
-}
-.md-typeset .action > .admonition-title::before,
-.md-typeset .action > summary::before {
+.md-typeset .admonition.action > .admonition-title::before,
+.md-typeset .admonition.action > summary::before {
   background-color: hsl(172, 100%, 37%);
   -webkit-mask-image: var(--md-icon--action);
   mask-image: var(--md-icon--action);
@@ -767,27 +756,19 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 .md-typeset details.bonusaction {
   border-color: hsl(40, 100%, 50%);
 }
-.md-typeset .bonusaction > .admonition-title,
-.md-typeset .bonusaction > summary {
-  background-color: hsla(40, 100%, 50%, 0.1);
-}
-.md-typeset .bonusaction > .admonition-title::before,
-.md-typeset .bonusaction > summary::before {
+.md-typeset .admonition.bonusaction > .admonition-title::before,
+.md-typeset .admonition.bonusaction > summary::before {
   background-color: hsl(40, 100%, 50%);
   -webkit-mask-image: var(--md-icon--bonusaction);
   mask-image: var(--md-icon--bonusaction);
 }
 .md-typeset .admonition.reaction,
 .md-typeset details.reaction {
-  border-color: hsl(256, 100%, 65%);
+  border-color: hsl(231, 99%, 66%);
 }
-.md-typeset .reaction > .admonition-title,
-.md-typeset .reaction > summary {
-  background-color: hsla(256, 100%, 65%, 0.1);
-}
-.md-typeset .reaction > .admonition-title::before,
-.md-typeset .reaction > summary::before {
-  background-color: hsl(256, 100%, 65%);
+.md-typeset .admonition.reaction > .admonition-title::before,
+.md-typeset .admonition.reaction > summary::before {
+  background-color: hsl(231, 99%, 66%);
   -webkit-mask-image: var(--md-icon--reaction);
   mask-image: var(--md-icon--reaction);
 }
@@ -795,12 +776,8 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 .md-typeset details.move {
   border-color: hsl(50, 100%, 50%);
 }
-.md-typeset .move > .admonition-title,
-.md-typeset .move > summary {
-  background-color: hsla(50, 100%, 50%, 0.1);
-}
-.md-typeset .move > .admonition-title::before,
-.md-typeset .move > summary::before {
+.md-typeset .admonition.move > .admonition-title::before,
+.md-typeset .admonition.move > summary::before {
   background-color: hsl(50, 100%, 50%);
   -webkit-mask-image: var(--md-icon--move);
   mask-image: var(--md-icon--move);

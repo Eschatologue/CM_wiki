@@ -66,7 +66,7 @@ The radius of this explosion increases to 10 feet when you reach level 9 in this
 
 You've developed masterful command of magical chemicals, enhancing the healing and damage you create through them.
 
-**Enhanced Healing**{ .inl } Whenever you cast a spell using your Alchemist's supplies that restores **:ui-hp: Hit Points** to a creature, you can add your Intelligence modifier (minimum +1) to one healing roll of the spell. You add the same bonus to the Healing roll of the Healing effect of your Experimental Elixir.
+**Enhanced Healing**{ .inl } Whenever you cast a spell using your Alchemist's supplies that restores **:trt-hp: Hit Points** to a creature, you can add your Intelligence modifier (minimum +1) to one healing roll of the spell. You add the same bonus to the Healing roll of the Healing effect of your Experimental Elixir.
 
 **Deadly Toxins**{ .inl } Whenever you use your Alchemical Grenades feature and use the Alchemical Explosion benefit, you add your Intelligence modifier to the explosion's damage. The affected creatures still take half damage on a successful saving throw.
 

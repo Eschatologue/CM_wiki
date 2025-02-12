@@ -55,15 +55,15 @@ If an effect requires a Saving Throw, it uses your Ranger's Spell Save DC.
 
 ***Seek & Destroy (Cost: Any)***
 
-:   After you hit a creature with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } , you can expend one or more *Threadling Die*, rolling them, and send the Threadlings at the target. The target takes extra :dmg-force: **Force** damage equal to the number rolled.
+After you hit a creature with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } , you can expend one or more *Threadling Die*, rolling them, and send the Threadlings at the target. The target takes extra :dmg-force: **Force** damage equal to the number rolled.
 
 ***Suspend (Cost: 1 Die)***
 
-:   After you hit a creature with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } , you can expend one *Threadling Die* and :dmg-force: **Force** the target to make a Strength saving throw. On a failed save, it has the Restrained condition and lifted 5 feet off the ground for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success.
+After you hit a creature with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } , you can expend one *Threadling Die* and :dmg-force: **Force** the target to make a Strength saving throw. On a failed save, it has the Restrained condition and lifted 5 feet off the ground for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success.
 
 ***Woven Mail (Cost: Any)***
 
-:   After you take damage, you can take a **:rsc-r: Reaction**{ .rsc } to expend one or more *Threadling Die*, roll them, and reduce the damage dealt to you equal to the numbers rolled.
+After you take damage, you can take a **:rsc-r: Reaction**{ .rsc } to expend one or more *Threadling Die*, roll them, and reduce the damage dealt to you equal to the numbers rolled.
 
 ### Level 7: Aspect of Strands
 
@@ -71,11 +71,11 @@ You gain new way to use your Threadlings, detailed below:
 
 ***Sever (Cost: 1 Die)***
 
-:   When the target of your *Hunter's Mark* makes a D20 Test, you can take a **:rsc-r: Reaction**{ .rsc } to expend one *Threadling Die*, roll it, and subtract the target's D20 Test's result with the number rolled.
+When the target of your *Hunter's Mark* makes a D20 Test, you can take a **:rsc-r: Reaction**{ .rsc } to expend one *Threadling Die*, roll it, and subtract the target's D20 Test's result with the number rolled.
 
 ***Unravel (Cost: 1 Die)***
 
-:   When you hit a creature with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } , you can expend one *Threadling Die*, roll it, and rend its defences. It must succeed on a Constitution saving throw or it takes extra :dmg-force: **Force** damage equal to the number rolled and its AC is reduced by 1 until it finishes Long Rest or until you have the Incapacitated cconditon. This effect stacks. 
+When you hit a creature with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } , you can expend one *Threadling Die*, roll it, and rend its defences. It must succeed on a Constitution saving throw or it takes extra :dmg-force: **Force** damage equal to the number rolled and its AC is reduced by 1 until it finishes Long Rest or until you have the Incapacitated cconditon. This effect stacks. 
 
 ### Level 11: Burst of Strand
 

@@ -30,14 +30,19 @@ To be channeled this way, the spell must met the following requirements:
 The spell takes effect immediately in addition of the normal effects and damage from your weapon attack, under the rules below:
 
 **:aoe-rad: Area of Effect**{ .inl } If the spell targets an area greater than a **10-foot :aoe-cube: Cube**, it takes effect as a **15-foot :aoe-cone: Cone** originating from you, which must include your target, or it is contained to only affect the target of your attack (your choice on hit). Using a ranged weapon, your spell is contained to only affect the target of your attack.
+{ .indt }
 
 **:spell-lv0: Cantrips**{ .inl } The Cantrip does not deal damage. Instead, your weapon attack deals the damage type dealt by the cantrip, and applies the cantrip's additional effects, other than damage, on hit.
+{ .indt }
 
 **:spell-conc: Concentration**{ .inl } If the spell requires your :spell-conc: Concentration, you must concentrate on it as soon as it takes effect on hit.
+{ .indt }
 
 **:d20-save: Saving Throw**{ .inl } If the spell requires a saving throw when cast, the target makes the first save at a **:d20-dis: Disadvantage**{ .d20 } on hit. On a Critical Hit, the target automatically fails the save. Other target (if any) make this save as normal.
+{ .indt }
 
 **:d20-attack: Attack Roll**{ .inl } If the spell requires an attack roll, it instantly take effect when you hit with a weapon attack.
+{ .indt }
 
 ### Level 3: Dekrat's Spells:material-trademark:
 
@@ -102,7 +107,7 @@ You the following benefits against your Mark:
 
 **Spellcasting Type**{ .inl } You know your Mark spellcasting ability (Intelligence, Wisdom, or Charisma), if any, and the level of the highest level spell it can cast.
 
-**Mage Breaker**{ .inl } Your Mark has **:d20-dis: Disadvantage**{ .d20 } on to maintain Concentration on its spells against your attacks.
+**Mage Breaker**{ .inl } Your Mark has **:d20-dis: Disadvantage**{ .d20 } on to maintain **:spell-conc: Concentration** on its spells against your attacks.
 
 **New Sneak Attack**{ .inl } You can add your **:class-phb24-rogue: Sneak Attack**{ .em } damage the damage roll on your weapon attack against your Mark as long as you don't have **:d20-dis: Disadvantage**{ .d20 } on the attack. 
 
@@ -112,11 +117,13 @@ You can use this feature a number of times equals to your Proficiency Bonus. You
 
 *With a simple raise of your eyebrow, you possess the uncanny ability to disrupt and foil a spellcaster's magic.*
 
-When a creature you can see cast a spell or attempt to Teleport while within 60 feet of you, you can do one of the following:
+When a creature you can see cast a spell or attempt to Teleport while within 60 feet of you, you can do one of the following options:
 
 **Mark Target**{ .inl } You can take a **:rsc-r: Reaction**{ .rsc } to use [Spellbreaker's Mark](#level-3-spellbreakers-mark), targeting the creature, or move already existing mark to the creature that triggered this reaction.
+{ .indt }
 
-**Thwart Magic**{ .inl } You can take a **:rsc-r: Reaction**{ .rsc } to force the target to make a :d20-save: Constitution saving throw against your Spell Save DC. On a failed save, it takes **:dmg-force: Force**{ .dmg-force } damage equals to your **:class-phb24-rogue: Sneak Attack**{ .em } damage and its spell or Teleport fails. On a successful save, the target only takes half damage.
+**Thwart Magic**{ .inl } You can take a **:rsc-r: Reaction**{ .rsc } to force the target to make a **:d20-save: CON save** against your Spell Save DC. On a failed save, it takes **(Sneak Attack) :dmg-force: Force**{ .dmg-force } damage and its spell or Teleport fails. On a successful save, the target only takes half damage.
+{ .indt }
 
 --8<-- "includes/snippets/skills.md"
 

@@ -60,7 +60,7 @@ You design your armour to be in the front line of conflict. It has the following
 
 **Thunder Gauntlets**{ .inl } Each of the armour's gauntlets has the following trait:
 
-:   **Weapon Category:** Simple Melee  
+**Weapon Category:** Simple Melee  
     **Damage on a Hit:** **1d8 :dmg-thun: Thunder (2d8 at level 15)**{ .dmg-thun } plus the ability modifier used for the attack roll
 
 **Distracting Pulse**{ .inl } When you hit a creature with a melee attack, it has **:d20-dis: Disadvantage**{ .d20 } on attack rolls against targets other than you until the start of your next turn, as the armour magically emits a distracting pulse when the creature attacks someone else.
@@ -73,7 +73,7 @@ You customize your armour for subtle undertakings. It has the following features
 
 **Lightning Launcher**{ .inl } A gemlike node appears on one of your armoured gauntlet. It has the following trait:
 
-:   **Weapon Category:** Simple Ranged  
+**Weapon Category:** Simple Ranged  
     **Damage on a Hit:** **1d6 :dmg-lgtn: Lightning (2d6 at level 15)**{ .dmg-lgtn } plus the ability modifier used for the attack roll  
     **Properties:** Ranged (90/270)
 

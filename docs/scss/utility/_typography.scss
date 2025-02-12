@@ -13,7 +13,7 @@
     Typography
 -------------------------------------------------------*/
 .em {
-    white-space: nowrap; /* Prevents block splitting on smaller screens, used with icons */
+    // white-space: nowrap; /* Prevents block splitting on smaller screens, used with icons */
     color: var(--md-gbl-text-color-strong);
 
     // Disable dotted line for abbreviations
@@ -51,25 +51,12 @@
 -------------------------------------------------------*/
 .d20 {
     @extend .em;
+    @extend .nowrap;
 }
 
 .rsc {
     @extend .em;
-}
-
-.quote {
-    color: var(--md-default-fg-color--light);
-    font-size: calc(var(--default-font-size) * 0.90);
-    font-weight: 400;
-
-    strong {
-        color: var(--md-default-fg-color--light) !important;
-    }
-}
-
-.author {
-    @extend .quote;
-    @extend .align-right;
+    @extend .nowrap;
 }
 
 .back {
@@ -77,6 +64,29 @@
     padding: convert.px2em(3px) convert.px2em(6px) !important;
     border-radius: convert.px2em(8px) !important;
     font-weight: 400 !important;
+}
+
+// Used with .quote
+.emq {
+    @extend .em;
+    font-size: calc(var(--default-font-size) * 0.9);
+}
+
+// Paired with .emq
+.quote {
+    color: var(--md-default-fg-color--light);
+    font-size: calc(var(--default-font-size) * 0.8);
+    font-weight: 400;
+
+    strong {
+        color: var(--md-default-fg-color--light) !important;
+    }
+}
+
+// Used to attribute Author of a HB
+.author {
+    @extend .quote;
+    @extend .align-right;
 }
 
 /*-------------------------------------------------------
@@ -110,8 +120,8 @@
 
 /* Used in conjuction with .inl */
 .indt {
-    text-indent: calc((var(--default-font-size)) * (-1));
-    padding-left: calc((var(--default-font-size)) * 2);
+    text-indent: calc((var(--default-font-size) * 1.25) * (-1));
+    padding-left: calc((var(--default-font-size) * 1.25) * 2);
 }
 
 /*-------------------------------------------------------
@@ -119,6 +129,7 @@
 -------------------------------------------------------*/
 .inl {
     @extend .em;
+    @extend .nowrap;
 
     font-weight: 600 !important;
     display: inline-block;
@@ -162,7 +173,7 @@ $damage-types: (
     psyc: #dd73ac,
     lgtn: #3393e8,
     necr: #3faf4f,
-    radi: #FFEE58,
+    radi: #ffee58,
     force: #ff7369,
     phys: #c6c6c6,
     heal: #65cdcd
@@ -170,8 +181,8 @@ $damage-types: (
 
 @each $type, $color in $damage-types {
     .dmg-#{$type} {
+        @extend .nowrap;
         color: convert.hex3hsl($color) !important;
-        white-space: nowrap;
         font-weight: 400 !important;
     }
 }

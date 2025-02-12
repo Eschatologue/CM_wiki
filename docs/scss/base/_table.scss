@@ -11,11 +11,15 @@ $paddingScale: 6px;
 $th-padding: $paddingScale * 1.4;
 
 .md-typeset {
-    /* Table Colour */
-    --md-table-color--light: hsla(0, 0%, 100%, 0.025);
-    --md-table-color--hover: hsla(0, 0%, 100%, 0.05);
 
     & table:not([class]) {
+
+        margin-bottom: convert.px2rem(-8px);
+
+        box-shadow: var(--md-shadow-z2);
+        display: table;
+        border-color: transparent !important;
+
         --table-font-size: #{calc(var(--default-font-size) * 0.9)};
         
         th,
@@ -32,7 +36,7 @@ $th-padding: $paddingScale * 1.4;
             color: var(--md-text-color);
             border-bottom: #{convert.px2rem(2px)} solid var(--md-primary-fg-color);
             
-            background-color: hsla(0, 0%, 0%, 0.45);
+            background-color: var(--md-default-blk--050);
             padding: #{convert.px2em($th-padding)} #{convert.px2em($paddings)};
         }
 
@@ -66,17 +70,15 @@ $th-padding: $paddingScale * 1.4;
         tr:nth-child(even) {
             background-color: var(--md-typeset-table-color--light) !important;
         }
+
+        tbody tr:last-of-type td {
+            border-bottom: #{convert.px2rem(2px)} solid var(--md-primary-fg-color);
+        }
+
     }
 
-    // BEM Element for tables within .md-typeset
     &__table {
         width: 100%;
 
-        table:not([class]) {
-            box-shadow: var(--md-shadow-z2);
-            margin: #{convert.px2rem(0px)};
-            display: table;
-            border-color: transparent !important;
-        }
     }
 }

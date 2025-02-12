@@ -9,7 +9,7 @@ search:
 
 ## Overview
 
-*"Gallia is more than an empire; it is a legacy. A legacy written in ink, fire, and blood."*  
+> *"Gallia is more than an empire; it is a legacy. A legacy written in ink, fire, and blood."*{ .emq }  
 — Archmage Valérien d'Alembert, Imperial Historian
 { .quote }
 
@@ -21,7 +21,7 @@ Yet no empire lasts forever. *The Second Maelstorm* shattered its supremacy, and
 
 ### Rise of an Empire
 
-*"For every spell cast, for every battle won, Gallia's power grew. No land, no king, no god could stand before us."*  
+> *"For every spell cast, for every battle won, Gallia's power grew. No land, no king, no god could stand before us."*{ .emq }  
 — Chancellor Armand Leclerc, Reflections on Empire
 { .quote }
 
@@ -33,7 +33,7 @@ Yet the grandeur masked a festering rot. The empire was gilded, but fragile. And
 
 ### The Gallian Revolution
 
-*"We gave them grains, and they gave us shackles. No more."*  
+> *"We gave them grains, and they gave us shackles."*{ .emq }  
 — Camille Durand, Revolutionary Leader
 { .quote }
 
@@ -43,9 +43,9 @@ At first, they succeeded. Cities fell, palaces burned, and the nobles who had on
 
 The sorcerer-emperor and his loyalists unleashed their wrath, drowning the revolution in fire and blood. What had once been a battle for freedom became a brutal war of attrition. When the flames finally died down, the old order remained, but it was forever weakened. Concessions were made—taxes lowered, minor rights granted—but the scars of the revolution would never heal.
 
-### The Reforms of Empress Corsica II
+### Empress Corsica II Reforms
 
-*"Revolutions do not end with fire. They end when rulers learn to listen."*  
+> *"Revolutions do not end with fire. They end when rulers learn to listen."*{ .emq }  
 — Empress Corsica II
 { .quote }
 
@@ -55,9 +55,9 @@ To preserve Gallia, Corsica II enacted radical reforms. She reduced the power of
 
 Her reforms may have saved the empire. They may also have sealed its fate.
 
-### The Lothringen Rebellion
+### Lothringen Rebellion
 
-*"They call us rebels. We call ourselves free men."*  
+> *"They call us rebels. We call ourselves free men."*{ .emq }  
 — Kaiser Wilhelm von Lothringen
 { .quote }
 
@@ -69,7 +69,7 @@ Gallia still claims Lothringen as rightful imperial land, while Lothringians car
 
 ## Society
 
-*"The nobility hoard knowledge, the commoners spill blood, and the empire endures. This is Gallia."*  
+> *"The nobility hoard knowledge, the commoners spill blood, and the empire endures. This is Gallia."*{ .emq }  
 — Martel Beauchamp, former revolutionary
 { .quote }
 
@@ -81,7 +81,7 @@ Yet for all its inequalities, Gallia remains the pinnacle of arcane knowledge. I
 
 ### Government Structure
 
-*"A throne is not a seat of power. It is a burden—one that must never be allowed to fall."*  
+*"A throne is not a seat of power. It is a burden—one that must never be allowed to fall."*{ .emq }  
 — Chancellor Étienne Vaudrin, Imperial Advisor
 { .quote }
 
@@ -95,7 +95,7 @@ For now, Gallia endures. How long it can continue remains to be seen.
 
 ### A Nation in Transition
 
-*"We are no longer the empire that once shaped the continent. But we are still here. Gallia Endures"*  
+> *"We are no longer the empire that once shaped the continent. But we are still here. Gallia Endures"*{ .emq }  
 — Captain Gabriel Lécuyer, Gallian Officer
 { .quote }
 

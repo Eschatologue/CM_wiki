@@ -40,7 +40,7 @@ Unlike other Paladins, you have improved training with Ranged weapons.
 
 **Heavy Archer Weapons**{ .inl } Your have special training with Heavy Archer weapons, which are Ranged or Thrown weapon that lacks the :weapon-prop-light: Light property. You gain the following benefit with Heavy Archer weapons:
 
-:   **Ranged Smites**{ .inl } When you hit a target with a ranged attack using a Heavy Archer weapon, you can apply your Divine Smite or Paladin Smite spells (such as *Searing Smite* or *Shining Smite*) to that attack. However, the damage die for these smites is reduced by one size (e.g. from a d10 to a d8). When you reach level 11 in this class, your **Radiant Strikes** feature can also be applied to ranged attacks with Heavy Archer weapons, but the damage die becomes a d6 instead of a d8.
+**Ranged Smites**{ .inl } When you hit a target with a ranged attack using a Heavy Archer weapon, you can apply your Divine Smite or Paladin Smite spells (such as *Searing Smite* or *Shining Smite*) to that attack. However, the damage die for these smites is reduced by one size (e.g. from a d10 to a d8). When you reach level 11 in this class, your **Radiant Strikes** feature can also be applied to ranged attacks with Heavy Archer weapons, but the damage die becomes a d6 instead of a d8.
 
 [Strongbow]: ../../option/feat/feat-fighting-style/hb.md#strongbow
 [Thrown Weapon Fighting]: ../../option/feat/feat-fighting-style/phb24.md#thrown-weapon-fighting

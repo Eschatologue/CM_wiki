@@ -1,38 +1,47 @@
 @use "sass:color";
 @use "../utility/convert";
+@use "../palette/accent";
 
 /*------------------------------------------------------- 
     Admonitions
 --------------------------------------------------------*/
 
-/* Revert to Legacy */
-.md-typeset .admonition,
-.md-typeset details {
-    border-width: 0;
-    border-left-width: 4px;
-    box-shadow: var(--md-shadow-z3);
-}
-
-/* Add Shadow */
 .md-typeset {
+    
+    // Revert to Legacy
+    .admonition,
+    details {
+        border: 0 solid;
+        border-left-width: convert.px2rem(5px);
+        box-shadow: var(--md-shadow-z3);
+    }
+
+    // Admonition Styles
     .admonition {
         --default-font-size: #{convert.px2rem(14px)};
         border-color: var(--md-admonition-icon-color--note);
-        box-shadow: var(--md-shadow-z3);
         transition: box-shadow 250ms;
+
+        .admonition-title {
+            color: var(--md-gbl-text-color-strong);
+            background-color: var( --md-default-blk--050);
+            abbr {
+                border-bottom: none !important;
+            }
+
+        }
 
         hr {
             border-bottom: #{convert.px2em(3px)} solid rgba(255, 255, 255, 0.15);
-            padding: 0 0 !important;
+            padding: 0 !important;
         }
+
         .grid {
-            grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(320px), 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(#{convert.px2rem(320px)}, 1fr));
         }
     }
-}
 
-.md-typeset {
-    // Mixin for admonition styles
+    // Mixin for Admonition Styles
     @mixin admonitionStyles($type, $colour) {
         $convertedColour: convert.hex3hsl($colour);
 
@@ -41,12 +50,7 @@
             border-color: $convertedColour;
         }
 
-        .#{$type} {
-            > .admonition-title,
-            > summary {
-                background-color: color.adjust($convertedColour, $alpha: -0.9);
-            }
-
+        .admonition.#{$type} {
             > .admonition-title::before,
             > summary::before {
                 background-color: $convertedColour;
@@ -56,14 +60,17 @@
         }
     }
 
-    // Infos
-    @include admonitionStyles("homebrew", #ffb624);
-    @include admonitionStyles("glossary", #4db6ac);
-    @include admonitionStyles("dice", #FF5252);
+    $admonitions: (
+        "homebrew": #ffb624,
+        "glossary": #4db6ac,
+        "dice": accent.$nord-red,
+        "action": #00bfa5,
+        "bonusaction": #ffab00,
+        "reaction": accent.$nord-indigo,
+        "move": #ffd600
+    );
 
-    // Quick Refrences
-    @include admonitionStyles("action", #00bfa5);
-    @include admonitionStyles("bonusaction", #ffab00);
-    @include admonitionStyles("reaction", #7c4dff);
-    @include admonitionStyles("move", #ffd600);
+    @each $type, $colour in $admonitions {
+        @include admonitionStyles($type, $colour);
+    }
 }

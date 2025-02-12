@@ -6,11 +6,10 @@ search:
 
 # Dwarf
 
-:   *This article is about the species' lore. For the character creation, see [Dwarf (character creation)](../../../character-creation/origin/species/dwarf.md)*
-
 The Dwarves (singular: Dwarf) are an Ancient race in Antares.
 
-> *"Tempora mutantur, nos et mutamur in illis"*
+*"Tempora mutantur, nos et mutamur in illis"*
+{ .quote }
 
 ## Overview
 
@@ -20,11 +19,13 @@ While most Dwarves are born in Myrkheim, many now live outside their homeland, w
 
 Dwarves tend to have a pragmatic outlook on life, valuing their clan relationships over national identity. Their strong sense of community and craftsmanship remains central to their culture.
 
-## Standing on the Shoulders of Giants
+## Background
+
+### Standing on the Shoulders of Giants
 
 In ancient times, Dwarves were among the most dominant races in Antares, standing alongside Elves and Humans as key powers of the world. However, in the present day, following the fall of the Tahdenvalta Empire at the hands of Albion and the revolution in Gallia, the Dwarves appear to be the last remaining dominant force. In reality, though, their influence and stability are largely supported by their alliance with Albion, with the Dwarves now standing on the figurative shoulders of this leviathan power.
 
-## Long Memory, Long Grudges
+### Long Memory, Long Grudges
 
 Dwarves typically live for around 250 years, with the oldest members having witnessed a very different world. They remember the turbulent centuries of the Age of Strife, the expulsion of the Elves, and the costly mistakes made by their leaders during the war against Albion. This extended lifespan grants them a perspective that shorter-lived races may lack. In the ever-changing world, Dwarves must be as enduring as the mountains, yet as adaptable as the rivers that flow through their lands. While tradition is highly valued, it must be tempered with the wisdom of the ages
 

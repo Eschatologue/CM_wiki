@@ -3,37 +3,50 @@ search:
   boost: 0.25
 ---
 
-<!---
-
-#### General Information
-
-- **Capital:** New London
-- **Type:** Federal Dominant-party Stratocracy
-- **Demonym:** Londoners, Londiniers, British
-- **Head of State:** Chancellor
-- **Head of Government:** High Minister
-- **Military Strength:** Dominion's Army (Air Force & Land Fleet)
-- **Currency:** British Sovereign, Gallian Silver
-
--->
-
 :nation-albion:{ .xxxxl }
 
 # Albion  
 
 ## Overview  
 
-*"You will find no sorcery in Albion, no incantations whispered into the wind, no divine miracles granted by the gods. We build our future with steel and toil, not superstition."*  
+> *"You will find no sorcery in Albion, no incantations whispered into the wind, no divine miracles granted by the gods. We build our future with blood and toil, not superstition."*{ .emq }  
 — Commander Elias Hargrove, addressing foreign emissaries
 { .quote }
 
 The **Dominion of Albion**, known colloquially as **London**, stands as the pinnacle of industry and military discipline in Antares. While other nations wield magic and tradition, Albion’s strength lies in unyielding pragmatism and technological ingenuity. Towering edifices of steel and glass dominate its skyline, while airships swarms between its crevices. Albion's industry thunders.
 
+<!--
+
+### General Information
+
+**Capital** 
+: New London
+
+**Type** 
+: Federal Dominant-party Stratocracy
+
+**Demonym** 
+: Londoners, Londiniers, British
+
+**Head of State** 
+: Chancellor
+
+**Head of Government** 
+: High Minister
+
+**Military Strength** 
+: Dominion's Army (Air Force & Land Fleet)
+
+**Currency** 
+: British Sovereign, Gallian Silver
+
+-->
+
 ## History  
 
 ### Origins and Emergence  
 
-*"One day, the Northern Gate opened, and they came—haggard, wounded, desperate. We thought them beggars, vagrants. We were wrong."*  
+> *"They came—haggard, wounded, desperate. We thought them beggars, vagrants. A mistake."*{ .emq }  
 — Archmage Elarion Sampo, Council of Elders
 { .quote }
 
@@ -45,7 +58,7 @@ They did not wield magic. They had no ties to the gods. Yet their hands shaped m
 
 ### Rising Tensions with the Elves  
 
-*"We granted them shelter, and they repaid us with steel. We should have rid them out while we had the chance."*   
+> *"We granted them shelter, and they repaid us with fire. We should have rid them out while we had the chance."*{ .emq }   
 — High Lord Nithenoel Vanhatalo, last ruler of the Tähdenvalta Empire  
 { .quote }
 
@@ -59,7 +72,7 @@ The final breaking point came when an elven warband raided an Albion outpost, se
 
 ### The Great Split  
 
-*"Magic was the world’s greatest power… until the day we burned their gods to ash."*  
+> *"Magic was their greatest power… until the day we burned their gods to ash."*{ .emq }  
 — Captain Avery Harcourt, Albion Engineer Corps  
 { .quote }
 
@@ -75,7 +88,7 @@ Their age had ended. Albion’s had begun.
 
 ## Society  
 
-*"Other nations dream of glory. We dream of survival."*   
+> *"Other nations dream of glory. We dream of survival."*{ .emq }   
 — Citizen’s Handbook, Albion Civil Authority
 { .quote }
 
@@ -85,7 +98,7 @@ For two hundred years, Albion has known no peace. The world beyond its borders i
 
 ### Government Structure  
 
-*"We do not serve kings, nor do we bow to gods. We serve Albion. That is enough."*   
+> *"We do not serve kings, nor do we bow to gods. We serve Albion. That is enough."*{ .emq }   
 — Marshal Edric Vaughn, Ministry of Order
 { .quote }
 

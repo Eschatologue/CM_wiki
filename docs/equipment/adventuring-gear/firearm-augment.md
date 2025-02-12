@@ -33,15 +33,15 @@ As the name suggests, firearm Augmentations are available only to firearms that 
 
 **Material Costs**{ .inl } The cost of an Augmentation represents its base purchase price.
 
-:   Once you have crafted or bought an Augmentation for a particular firearm category, you can reuse that same Augmentation for other firearms of the same category without additional cost.
+Once you have crafted or bought an Augmentation for a particular firearm category, you can reuse that same Augmentation for other firearms of the same category without additional cost.
 
 ### Stackable
 
 **Stacking Benefits**{ .inl }  If an Augmentation is marked as "stackable," you can apply two or more of the same Augmentation to a single firearm, and their benefits will stack.
 
-:   Keep in mind that stackable Augmentations can change the parameters of specific weapon properties, such as  :weapon-prop-reload: **Reload** or  :weapon-prop-automatic: **Automatic**, allowing those properties to function more effectively.
+Keep in mind that stackable Augmentations can change the parameters of specific weapon properties, such as  :weapon-prop-reload: **Reload** or  :weapon-prop-automatic: **Automatic**, allowing those properties to function more effectively.
 
-:   However, certain weapon properties themselves do not stack. For example, applying two of the same Augmentation that grants a weapon property like :weapon-prop-sighted: **Sighted** will not double the benefit of that specific property.
+However, certain weapon properties themselves do not stack. For example, applying two of the same Augmentation that grants a weapon property like :weapon-prop-sighted: **Sighted** will not double the benefit of that specific property.
 
 ### Augmentation Limits
 

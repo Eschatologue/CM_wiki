@@ -6,11 +6,10 @@ search:
 
 # Elf
 
-:   *This article is about the species' lore. For the character creation, see [Elf (character creation)](../../../character-creation/origin/species/elf.md)*
-
 The Elves (singular: Elf) are an Ancient race in Antares.
 
-> *"Qui totum vult, totum perdit"*
+*"Qui totum vult, totum perdit"*
+{ .quote }
 
 ## Overview
 
@@ -18,7 +17,9 @@ Elves are an umbrella term for people originating from the vast, Fey forests of 
 
 As one of the oldest races on Antares, the Elves once wielded dominance throughout the continent with their empire, Tähdenvalta. However, this supremacy ended after a war with Albion that left their homeland erased from the continent. In the aftermath, Elves faced reprisal from other races who had long endured their dominance. Now displaced and scattered, they exist as a widespread diaspora across Antares. Following the establishment of Valinor in the northern wastes, however, many Elves have begun migrating to this new homeland in hopes of rebuilding their society and culture.
 
-## Origin Myth
+## Background
+
+### Origin Myth
 
 Being the earliest race to dwell on Antares, they emerged alongside the formation of the world itself. According to ancient lore, the goddess Ilmatar shaped the skies and seas, and from these forces arose the high elves. Meanwhile, the god Väinämöinen brought forth forests and life to the once-barren lands, from which the wood elves emerged. These lands eventually become the Antares continent we knew.
 
@@ -26,7 +27,7 @@ However, a period known as the "Dissolution of Eons," or the First Maelstorm occ
 
 Those who did not partake in the war, were cast out. Exiled into the deep caverns formed by the aftermath of the First Maelstorm, these outcasts encountered a colossal leviathan known as Ouroboros. This ancient being, now called "Aeginae" granted them attunement to the underground world, allowing them to survive in the harsh and shadowy depths. From this encounter, the first Drows were born.
 
-### The Tree of Life
+#### The Tree of Life
 
 The Tree of Life was the symbol of unity between the High Elves and the Wood Elves. Its growth can be traced back to a period when the leviathan of judgment, Vorthalas, rained down apocalypse upon the lands. Prior to this, the two elven factions hated each other, but facing a greater threat, they united. Though numerous, they were nothing in the face of a raging Aeginae, so they sought knowledge left behind by their creators. 
 
@@ -34,7 +35,7 @@ After decades of searching through Antares, they discovered a vault which contai
 
 Though this artifact no longer functions, the tree somehow managed to grow to a colossal size and became the centre of the Elves' religion. This tree was named **Yggdrasil**.
 
-## Discrimination
+### Discrimination
 
 Since the fall of Tähdenvalta, what remains of the elves, scattered across Antares, have been relegated to the lowest levels of society. Ironically, the exception is Albion, the very nation that destroyed their homeland. Years of elven domination have fostered deep resentment among the races of Antares, and many are quick to invent various racial slurs against them.
 

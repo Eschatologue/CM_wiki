@@ -3,12 +3,12 @@ title: "Subclass: Bladesinger (Wizard)"
 ---
 
 <p style="display:none">
-Wield Sword and Magic in Elegant Tandem
+Wield Sword and Magic
 </p>
 
 # Bladesinger
 
-> *Wield Sword and Magic in Elegant Tandem*
+> *Wield Sword and Magic*
 
 A master of wizardry and swordplay, you combine the elegant manoeuvres of a warrior with the devastating magics of a mage.
 

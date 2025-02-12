@@ -11,6 +11,8 @@ Defend Civilization and Law from Tyranny
 
 > *Defend Civilization and Law from Tyranny*
 
+You have sworn yourself to the ideals of civilisation, serving the laws that hold society together and preserving the order they command.
+
 The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the just laws that hold society together. 
 
 These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or a sovereign, and undergo their oath as part of their admission to the order's ranks.
@@ -44,7 +46,7 @@ This effect ends on the creature after 1 minute, and ends early if you have the 
 
 ### Level 3: Turn the Tide
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can expend one use of your **:ui-chdiv-pal: Channel Divinity**  to bolster injured creatures. Each creature of your choice that can hear you within 30 feet of you regains hit points equal to 1d6 + your Charisma modifier (minimum of 1).
+As a **:rsc-b: Bonus Action**{ .rsc }, you can expend one use of your **:ui-chdiv-pal: Channel Divinity** to bolster injured creatures. Each creature of your choice that can hear you within 30 feet of you regains hit points equal to 1d6 + your Charisma modifier (minimum of 1).
 
 ### Level 7: Aura of Allegiance
 
@@ -53,7 +55,7 @@ You exude an aura that bolsters the resolve of your allies. When a creature that
 ### Level 15: Unyielding Saint
 
 You are an unstoppable force for your cause. 
-
+ 
 You have **:dmg-imm: Immunity** to the ^^Paralyzed^^ and ^^Stunned^^ conditions, you cannot unwillingly gain the ^^Prone^^ condition, and you cannot be forcefully moved against your will.
 
 ### Level 20: Exalted Champion
