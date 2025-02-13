@@ -2,7 +2,7 @@
 @use "../palette/accent";
 
 /*-------------------------------------------------------
-    Typography Settings
+    Typeset Variables
 --------------------------------------------------------*/
 .md-typeset {
     --default-font-size: #{convert.px2rem(16px)};
@@ -11,7 +11,12 @@
     @media screen and (max-width: 720px) {
         --default-font-size: #{convert.px2rem(14px)};
     }
+}
 
+/*-------------------------------------------------------
+    Basic Typesets
+--------------------------------------------------------*/
+.md-typeset {
     font-size: var(--default-font-size);
     font-weight: var(--default-font-weight);
     color: var(--md-gbl-text-color);
@@ -25,14 +30,17 @@
     p,
     ul,
     ol,
-    li,
     dl,
     dd {
-        margin: convert.px2rem(10px) 0;
+        margin: convert.px2rem(0px) 0;
+    }
+
+    li {
+        margin: convert.px2rem(-4px) 0;
     }
 
     dd {
-        margin-left: convert.px2rem(8px);
+        margin-left: convert.px2rem(-8px);
     }
 
     blockquote strong {
@@ -51,7 +59,6 @@
     Headings
 --------------------------------------------------------*/
 .md-typeset {
-
     h1,
     h2,
     h3,
@@ -69,46 +76,63 @@
     h4,
     h5 {
         font-family: var(--heading-font);
-    }
-
-    h1 {
-        font-size: calc(var(--default-font-size) * 2.1);
-        letter-spacing: calc(var(--default-font-size) * 0.02);
-        font-weight: 500;
-        margin: #{convert.px2rem(9px)} 0;
-    }
-
-    h2 {
-        font-size: calc(var(--default-font-size) * 1.7);
-        font-weight: 500;
-        letter-spacing: calc(var(--default-font-size) * 0.075);
-        border-bottom: #{convert.px2rem(2px)} solid var(--md-primary-fg-color--light);
-        margin: #{convert.px2rem(18px)} 0 #{convert.px2rem(4px)};
+        text-transform: uppercase;
     }
 
     h3,
     h4,
     h5 {
+        text-transform: none !important;
+        font-variant: small-caps !important;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        font-weight: 500;
+    }
+
+    h1 {
+        font-size: calc(var(--default-font-size) * 2.1);
+        letter-spacing: calc(var(--default-font-size) * 0.02);
+        margin: #{convert.px2rem(9px)} 0 0;
+    }
+
+    h2 {
+        font-size: calc(var(--default-font-size) * 1.7);
+        letter-spacing: calc(var(--default-font-size) * 0.075);
+        border-bottom: #{convert.px2rem(2px)} solid var(--md-primary-fg-color--light);
+        margin: #{convert.px2rem(18px)} 0 #{convert.px2rem(4px)};
+        padding-bottom: #{convert.px2rem(2px)};
+    }
+
+    h3,
+    h4 {
         color: var(--md-gbl-text-color-strong);
-        font-variant: small-caps;
+        letter-spacing: calc(var(--default-font-size) * 0.03);
+        font-weight: 550;
     }
 
     h3 {
         font-size: calc(var(--default-font-size) * 1.45);
-        font-weight: 550;
+        margin: #{convert.px2rem(10px)} 0;
         border-bottom: #{convert.px2rem(2.5px)} solid var(--md-default-wht--025);
         padding-bottom: #{convert.px2rem(4px)};
     }
 
     h4 {
         font-size: calc(var(--default-font-size) * 1.225);
-        font-weight: 550;
-        margin-bottom: #{convert.px2rem(6px)};
+        margin: #{convert.px2rem(12px)} 0 #{convert.px2rem(-6px)};
+        padding-bottom: #{convert.px2rem(-2px)};
     }
 
     h5 {
         font-size: var(--default-font-size);
-        font-weight: 500;
+        letter-spacing: calc(var(--default-font-size) * 0.03);
+        margin: #{convert.px2rem(-3px)} 0 #{convert.px2rem(-12px)};
     }
 
     h6 {
@@ -134,8 +158,8 @@
 --------------------------------------------------------*/
 .md-typeset dl {
     display: grid;
-    font-size: calc(var(--default-font-size) * 0.9);
-    grid-template-columns: calc(var(--default-font-size) * 9 * 0.875) auto;
+    font-size: #{calc(var(--default-font-size) * 0.9)};
+    grid-template-columns: #{calc(var(--default-font-size) * 9 * 0.875)} auto;
     gap: convert.px2rem(10px) 0 !important;
 
     dt,
