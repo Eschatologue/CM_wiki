@@ -1,47 +1,35 @@
 @charset "UTF-8";
 @import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap");
 /*-------------------------------------------------------
-    Typeset Variables
+    Typography Settings
 --------------------------------------------------------*/
 .md-typeset {
   --default-font-size: 0.8rem;
   --default-font-weight: 400;
+  font-size: var(--default-font-size);
+  font-weight: var(--default-font-weight);
+  color: var(--md-gbl-text-color);
 }
 @media screen and (max-width: 720px) {
   .md-typeset {
     --default-font-size: 0.7rem;
   }
 }
-
-/*-------------------------------------------------------
-    Basic Typesets
---------------------------------------------------------*/
-.md-typeset {
-  font-size: var(--default-font-size);
-  font-weight: var(--default-font-weight);
-  color: var(--md-gbl-text-color);
-}
 .md-typeset strong {
   font-weight: 600;
   letter-spacing: calc(var(--default-font-size) * 0.0125);
   color: var(--md-gbl-text-color-strong);
 }
-.md-typeset p {
-  margin: 0.5rem 0;
-}
+.md-typeset p,
 .md-typeset ul,
-.md-typeset ol {
-  margin: 0rem 0;
-}
-.md-typeset li {
-  margin: -0.2rem 0;
-}
+.md-typeset ol,
+.md-typeset li,
 .md-typeset dl,
 .md-typeset dd {
-  margin: -0.1rem 0;
+  margin: 0.5rem 0;
 }
 .md-typeset dd {
-  margin-left: -0.4rem;
+  margin-left: 0.4rem;
 }
 .md-typeset blockquote strong {
   color: var(--md-default-fg-color--light) !important;
@@ -70,20 +58,12 @@
 .md-typeset h4,
 .md-typeset h5 {
   font-family: var(--heading-font);
-  text-transform: uppercase;
-}
-.md-typeset h3,
-.md-typeset h4,
-.md-typeset h5 {
-  text-transform: none !important;
-  font-variant: small-caps !important;
 }
 .md-typeset h1 {
   font-size: calc(var(--default-font-size) * 2.1);
   letter-spacing: calc(var(--default-font-size) * 0.02);
   font-weight: 500;
   margin: 0.45rem 0;
-  margin-top: 0;
 }
 .md-typeset h2 {
   font-size: calc(var(--default-font-size) * 1.7);
@@ -91,31 +71,27 @@
   letter-spacing: calc(var(--default-font-size) * 0.075);
   border-bottom: 0.1rem solid var(--md-primary-fg-color--light);
   margin: 0.9rem 0 0.2rem;
-  padding-bottom: 0.1rem;
+}
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5 {
+  color: var(--md-gbl-text-color-strong);
+  font-variant: small-caps;
 }
 .md-typeset h3 {
-  color: var(--md-gbl-text-color-strong);
   font-size: calc(var(--default-font-size) * 1.45);
-  letter-spacing: calc(var(--default-font-size) * 0.03);
   font-weight: 550;
-  margin: 0.5rem 0;
   border-bottom: 0.125rem solid var(--md-default-wht--025);
   padding-bottom: 0.2rem;
 }
 .md-typeset h4 {
-  color: var(--md-gbl-text-color-strong);
   font-size: calc(var(--default-font-size) * 1.225);
-  letter-spacing: calc(var(--default-font-size) * 0.03);
   font-weight: 550;
-  margin: 0.6rem 0 -0.3rem;
-  padding-bottom: -0.1rem;
+  margin-bottom: 0.3rem;
 }
 .md-typeset h5 {
   font-size: var(--default-font-size);
-  letter-spacing: calc(var(--default-font-size) * 0.03);
   font-weight: 500;
-  margin-top: -0.15rem;
-  margin-bottom: -0.6rem;
 }
 .md-typeset h6 {
   font-size: calc(var(--default-font-size) * 0.85);
@@ -136,7 +112,7 @@
 
 /*-------------------------------------------------------
     Horizontal Description List
--------------------------------------------------------*/
+--------------------------------------------------------*/
 .md-typeset dl {
   display: grid;
   font-size: calc(var(--default-font-size) * 0.9);
