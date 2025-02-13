@@ -7,6 +7,7 @@ $mod-selection: hsl(231, 25%, 25%);
 
 // https://nordui.netlify.app/docs/core/colors
 
+$nord-polar0-darkest: convert.hex3hsl(#16191d);
 $nord-polar0-dark: convert.hex3hsl(#242931);
 $nord-polar0: convert.hex3hsl(nord.$nord0);
 $nord-polar1: convert.hex3hsl(nord.$nord1);

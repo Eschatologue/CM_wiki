@@ -1,6 +1,7 @@
 @use "../base/typeset";
 @use "../base/table";
 @use "../utility/convert";
+@use "../palette/accent";
 
 /*-------------------------------------------------------
     Font Styles
@@ -13,13 +14,14 @@
     Typography
 -------------------------------------------------------*/
 .em {
-    // white-space: nowrap; /* Prevents block splitting on smaller screens, used with icons */
     color: var(--md-gbl-text-color-strong);
-
-    // Disable dotted line for abbreviations
     abbr {
         border-bottom: none !important;
     }
+}
+
+.f-lg {
+    font-size: #{calc(var(--default-font-size) * 1.25)} !important;
 }
 
 .nowrap {
@@ -107,8 +109,14 @@
     text-align: right !important;
 }
 
+.hide {
+    position: absolute; 
+    left: -9999px;
+
+}
+
 .back {
-    background-color: var(--md-default-blk--025);
+    background-color: accent.$nord-polar0-darkest;
     padding: convert.px2em(3px) convert.px2em(6px) !important;
     border-radius: convert.px2em(8px) !important;
     font-weight: 400 !important;
@@ -128,15 +136,12 @@
     Inline Styles
 -------------------------------------------------------*/
 .inl {
-    @extend .em;
-    @extend .nowrap;
+    @extend .em, .nowrap, .chevron-left, .chevron-right;
 
     font-weight: 600 !important;
     display: inline-block;
     position: relative;
 
-    @extend .chevron-left;
-    @extend .chevron-right;
 }
 
 /* Chevrons */
@@ -157,6 +162,13 @@
         content: "«";
         color: var(--md-default-fg-color--light);
         margin-right: convert.px2em(4px);
+    }
+}
+
+/* Icons */
+.top-pad {
+    :is(.emojione, .twemoji, .gemoji) {
+        vertical-align: convert.px2em(-3px);
     }
 }
 

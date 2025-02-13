@@ -148,7 +148,8 @@ nav:
         - Work: gameplay/downtime/work.md
     - Glossaries: 
       - Rule Glossary: glossary.md
-      - Quick Reference: quickref.md
+      - Quick Reference: 
+        - D20 Test: quickref/core.md
 #    - Icconography : iconography.md
   - Character Creation:
     - Create Your Character: character-creation/create-your-character.md
@@ -309,7 +310,6 @@ nav:
         - Evoker: class/wizard/evoker.md
         - Illusionist: class/wizard/illusionist.md
         - Chronurgist: class/wizard/chronurgist.md
-#        - Graviturgist: class/wizard/graviturgist.md
         - War Mage: class/wizard/war-mage.md
         - Hedge Mage: class/wizard/hedge-mage.md
         - Technomage: class/wizard/technomage.md

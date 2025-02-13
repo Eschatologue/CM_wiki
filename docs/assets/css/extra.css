@@ -26,15 +26,19 @@
   letter-spacing: calc(var(--default-font-size) * 0.0125);
   color: var(--md-gbl-text-color-strong);
 }
-.md-typeset p,
+.md-typeset p {
+  margin: 0.6rem 0;
+}
 .md-typeset ul,
-.md-typeset ol,
-.md-typeset dl,
-.md-typeset dd {
+.md-typeset ol {
   margin: 0rem 0;
 }
 .md-typeset li {
   margin: -0.2rem 0;
+}
+.md-typeset dl,
+.md-typeset dd {
+  margin: -0.1rem 0;
 }
 .md-typeset dd {
   margin-left: -0.4rem;
@@ -65,8 +69,10 @@
 .md-typeset h3,
 .md-typeset h4,
 .md-typeset h5 {
+  font-weight: 500;
   font-family: var(--heading-font);
   text-transform: uppercase;
+  letter-spacing: calc(var(--default-font-size) * 0.03);
 }
 .md-typeset h3,
 .md-typeset h4,
@@ -74,51 +80,33 @@
   text-transform: none !important;
   font-variant: small-caps !important;
 }
-.md-typeset h1,
-.md-typeset h2,
-.md-typeset h3,
-.md-typeset h4,
-.md-typeset h5,
-.md-typeset h6 {
-  font-weight: 500;
-}
 .md-typeset h1 {
-  font-size: calc(var(--default-font-size) * 2.1);
-  letter-spacing: calc(var(--default-font-size) * 0.02);
-  margin: 0.45rem 0 0;
+  font-size: calc(var(--default-font-size) * 2);
+  margin: 0.4rem 0;
+  margin-top: 0;
 }
 .md-typeset h2 {
-  font-size: calc(var(--default-font-size) * 1.7);
-  letter-spacing: calc(var(--default-font-size) * 0.075);
+  font-size: calc(var(--default-font-size) * 1.75);
   border-bottom: 0.1rem solid var(--md-primary-fg-color--light);
-  margin: 0.9rem 0 0.2rem;
+  margin: 0.8rem 0 0.2rem;
   padding-bottom: 0.1rem;
 }
-.md-typeset h3,
-.md-typeset h4 {
-  color: var(--md-gbl-text-color-strong);
-  letter-spacing: calc(var(--default-font-size) * 0.03);
-  font-weight: 550;
-}
 .md-typeset h3 {
-  font-size: calc(var(--default-font-size) * 1.45);
-  margin: 0.5rem 0;
-  border-bottom: 0.125rem solid var(--md-default-wht--025);
+  color: var(--md-gbl-text-color-strong);
+  font-size: calc(var(--default-font-size) * 1.5);
+  margin: 0.6rem 0;
+  border-bottom: 0.1rem solid var(--md-default-wht--025);
   padding-bottom: 0.2rem;
 }
 .md-typeset h4 {
-  font-size: calc(var(--default-font-size) * 1.225);
-  margin: 0.6rem 0 -0.3rem;
-  padding-bottom: -0.1rem;
+  color: var(--md-gbl-text-color-strong);
+  font-size: calc(var(--default-font-size) * 1.25);
+  margin: 0.6rem 0 -0.2rem;
 }
 .md-typeset h5 {
   font-size: var(--default-font-size);
-  letter-spacing: calc(var(--default-font-size) * 0.03);
-  margin: -0.15rem 0 -0.6rem;
-}
-.md-typeset h6 {
-  font-size: calc(var(--default-font-size) * 0.85);
-  font-weight: 350;
+  margin-top: -0.2rem;
+  margin-bottom: -0.6rem;
 }
 
 /*-------------------------------------------------------
@@ -135,17 +123,22 @@
 
 /*-------------------------------------------------------
     Horizontal Description List
---------------------------------------------------------*/
+-------------------------------------------------------*/
 .md-typeset dl {
   display: grid;
-  font-size: calc(var(--default-font-size) * 0.9);
-  grid-template-columns: calc(var(--default-font-size) * 9 * 0.875) auto;
-  gap: 0.5rem 0 !important;
+  grid-template-columns: calc(var(--default-font-size) * 10 * 0.875) auto;
+  gap: 0.6rem 0.2rem !important;
 }
 .md-typeset dl dt,
 .md-typeset dl dd {
-  margin: 0 !important;
-  padding: 0;
+  margin: 0em !important;
+  padding: 0 !important;
+  align-items: center;
+}
+.md-typeset dl dt p,
+.md-typeset dl dd p {
+  margin-top: 0em !important;
+  margin-bottom: 0.375em !important;
 }
 
 /*------------------------------------------------------- 
@@ -170,7 +163,7 @@
   vertical-align: bottom;
   color: var(--md-text-color);
   border-bottom: 0.1rem solid var(--md-primary-fg-color);
-  background-color: var(--md-default-blk--050);
+  background-color: hsl(214, 14%, 10%);
   padding: 0.525em 1em;
 }
 .md-typeset table:not([class]) td {
@@ -218,6 +211,10 @@
 }
 .em abbr, .inl abbr, .emq abbr, .rsc abbr, .d20 abbr {
   border-bottom: none !important;
+}
+
+.f-lg {
+  font-size: calc(var(--default-font-size) * 1.25) !important;
 }
 
 .nowrap, .dmg-heal, .dmg-phys, .dmg-force, .dmg-radi, .dmg-necr, .dmg-lgtn, .dmg-psyc, .dmg-thun, .dmg-posn, .dmg-fire, .dmg-cold, .dmg-acid, .inl, .rsc, .d20 {
@@ -281,8 +278,13 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   text-align: right !important;
 }
 
+.hide {
+  position: absolute;
+  left: -9999px;
+}
+
 .back {
-  background-color: var(--md-default-blk--025);
+  background-color: hsl(214, 14%, 10%);
   padding: 0.1875em 0.375em !important;
   border-radius: 0.5em !important;
   font-weight: 400 !important;
@@ -321,6 +323,11 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   content: "«";
   color: var(--md-default-fg-color--light);
   margin-right: 0.25em;
+}
+
+/* Icons */
+.top-pad :is(.emojione, .twemoji, .gemoji) {
+  vertical-align: -0.1875em;
 }
 
 /*-------------------------------------------------------
@@ -689,7 +696,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 .md-typeset .admonition,
 .md-typeset details {
   border: 0 solid;
-  border-left-width: 0.25rem;
+  border-left-width: 0.2rem;
   box-shadow: var(--md-shadow-z3);
 }
 .md-typeset .admonition {
@@ -699,7 +706,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 }
 .md-typeset .admonition .admonition-title {
   color: var(--md-gbl-text-color-strong);
-  background-color: var(--md-default-blk--050);
+  background-color: hsl(214, 14%, 10%);
 }
 .md-typeset .admonition .admonition-title abbr {
   border-bottom: none !important;
@@ -908,7 +915,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 /*------------------------------------------------------- 
     MKDocs Material Theme Overrides
 --------------------------------------------------------*/
-/* Tool Tips */
+/* Tooltips */
 [role=tooltip] > .md-tooltip2__inner {
   padding: 0.45em 1.5em;
   max-width: 35em;
@@ -921,20 +928,18 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 .md-grid {
   max-width: 95%;
 }
-@media screen and (max-width: 1024px) {
+@media (max-width: 1024px) {
   .md-grid {
     max-width: 98%;
   }
 }
 
-/*------------------------------------------------------- 
-    Content Grids 
---------------------------------------------------------*/
+/* Content Grids */
 .md-typeset .grid {
   grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
-  grid-gap: 0.25em;
+  gap: 0.25em;
 }
-@media screen and (max-width: 512px) {
+@media (max-width: 512px) {
   .md-typeset .grid {
     grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
   }
@@ -945,13 +950,8 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   padding: 0.5rem 0.8rem;
 }
 
-/* Emoji Alignment */
-.md-typeset :is(.emojione, .twemoji, .gemoji) {
-  vertical-align: -0.1875em;
-}
-
-/*------------------------------------------------------- 
-    Typography 
+/*-------------------------------------------------------
+    Typography Overrides
 --------------------------------------------------------*/
 .md-sidebar--primary,
 .md-sidebar--secondary,
@@ -960,9 +960,6 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   font-family: var(--heading-font);
 }
 
-/*------------------------------------------------------- 
-    Slate Scheme Overide
---------------------------------------------------------*/
 /* Header (Title Bar) */
 .md-header {
   color: var(--md-gbl-text-color-strong);
@@ -972,6 +969,9 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15), 0 0 0.2rem 0.4rem rgba(0, 0, 0, 0.2);
 }
 
+/*-------------------------------------------------------
+    Navigation Elements
+--------------------------------------------------------*/
 /* "Go to Top" Button */
 .md-top {
   background-color: var(--md-default-bg-color);
@@ -1007,13 +1007,9 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   color: var(--md-text-color);
 }
 
-/* Links */
+/* Link */
 .md-content {
   --md-typeset-a-color: var(--md-gbl-link-color);
 }
-
-/*------------------------------------------------------- 
-    (Optional) Sidebar Navigation - Currently Commented Out
---------------------------------------------------------*/
 
 /*# sourceMappingURL=extra.css.map */

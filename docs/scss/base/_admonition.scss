@@ -12,7 +12,7 @@
     .admonition,
     details {
         border: 0 solid;
-        border-left-width: convert.px2rem(5px);
+        border-left-width: convert.px2rem(4px);
         box-shadow: var(--md-shadow-z3);
     }
 
@@ -24,7 +24,7 @@
 
         .admonition-title {
             color: var(--md-gbl-text-color-strong);
-            background-color: var( --md-default-blk--050);
+            background-color: accent.$nord-polar0-darkest;
             abbr {
                 border-bottom: none !important;
             }
