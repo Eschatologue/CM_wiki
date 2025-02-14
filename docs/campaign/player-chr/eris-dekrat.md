@@ -2,6 +2,12 @@
 title: Eris Decrat's Gimmick
 ---
 
+<p style="display:none">
+
+Eris Dekrat
+
+</p>
+
 # Dekrat's Anti-Spellcasting Measures:material-trademark:
 
 **Base Sublass:** *[Swashbuckler](../../class/rogue/swashbuckler.md)*
@@ -9,6 +15,7 @@ title: Eris Decrat's Gimmick
 > *A man born into nobility, with a legacy of great achievements, yet devoid of the qualifications, for he carries the weight of his lineage.*
 
 "Sortilege," a Gallian word used for sorcerers, are unlike wizards or others; they're given the power to weave magic as their birthright. You too are this so-called "Sortilege," but your way of weaving spells are quite different from your peers; you combine the power of spells, excessive guile, and the right amount of audacity.
+
 
 ### Level 3: Arcane Knowledge 
 

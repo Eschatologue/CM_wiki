@@ -27,7 +27,7 @@
   color: var(--md-gbl-text-color-strong);
 }
 .md-typeset p {
-  margin: 0.6rem 0;
+  margin: 0.4rem 0;
 }
 .md-typeset ul,
 .md-typeset ol {
@@ -127,12 +127,16 @@
 .md-typeset dl {
   display: grid;
   grid-template-columns: calc(var(--default-font-size) * 10 * 0.875) auto;
-  gap: 0.6rem 0.2rem !important;
+  gap: 0.6rem 0.4rem !important;
+}
+.md-typeset dl dt {
+  text-align: right;
+  padding-right: 8px;
+  border-right: 0.1rem solid var(--md-default-wht--025);
 }
 .md-typeset dl dt,
 .md-typeset dl dd {
   margin: 0em !important;
-  padding: 0 !important;
   align-items: center;
 }
 .md-typeset dl dt p,
@@ -262,20 +266,12 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 }
 
 /*-------------------------------------------------------
-    Borders and Alignment
+    Borders
 -------------------------------------------------------*/
 /* Used with H3 */
 .noborder {
   border-bottom: none !important;
   margin: 0 0 -0.5rem 0 !important;
-}
-
-.align-center {
-  text-align: center !important;
-}
-
-.align-right, .author {
-  text-align: right !important;
 }
 
 .hide {
@@ -288,6 +284,21 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   padding: 0.1875em 0.375em !important;
   border-radius: 0.5em !important;
   font-weight: 400 !important;
+}
+
+/*-------------------------------------------------------
+    Alignment
+-------------------------------------------------------*/
+.align-center {
+  text-align: center !important;
+}
+
+.align-right, .author {
+  text-align: right !important;
+}
+
+.vert-middle {
+  vertical-align: middle !important;
 }
 
 /*-------------------------------------------------------

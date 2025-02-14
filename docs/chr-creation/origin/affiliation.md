@@ -15,7 +15,6 @@ As a part of your character creation, you will start with **5 Affiliation Point(
 
 ## Using Affiliation
 
-
 ## The Four Circle
 
 Affiliations reflect your character's background, origin, and connections within the world. It influences your character's interactions, opportunities, and resources available to you throughout the campaign.

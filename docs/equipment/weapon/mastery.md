@@ -1,6 +1,8 @@
 ---
 title: Mastery properties
 icon: material/tailwind
+search:
+boost: 1.2
 ---
 
 # Mastery properties
@@ -41,91 +43,75 @@ The following Mastery properties are lined in PHB'24
 
 ---
 
-### Cleave { .hide }
+### Cleave
 
-**Cleave**{ .inl }
+**Type:** Melee Weapon  
+**Properties:** :weapon-prop-heavy: Heavy
 
-:   **Type:** Melee Weapon  
-    **Properties:** :weapon-prop-heavy: Heavy
-
-    If you hit a creature with a melee attack using this weapon, you can make an attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon's damage, but don't add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.
+If you hit a creature with a melee attack using this weapon, you can make an attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon's damage, but don't add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.
 
 ---
 
-### Graze { .hide }
+### Graze
 
-**Graze**{ .inl }
+**Type:** Melee Weapon  
+**Properties:** :weapon-prop-heavy: Heavy
 
-:   **Type:** Melee Weapon  
-    **Properties:** :weapon-prop-heavy: Heavy
-
-    If your attack roll with this weapon misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the attack roll. This damage is the same type dealt by the weapon, and the damage can't be increased in any way, other than increasing the ability modifier.
+If your attack roll with this weapon misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the attack roll. This damage is the same type dealt by the weapon, and the damage can't be increased in any way, other than increasing the ability modifier.
 
 ---
 
-### Nick { .hide }
+### Nick
 
-**Nick**{ .inl }
+**Type:** Any  
+**Properties:** :weapon-prop-light: Light
 
-:   **Type:** Any  
-    **Properties:** :weapon-prop-light: Light
-
-    When you make the [extra attack](index.md#light) of the **:weapon-prop-light: Light** property, you can make it as part of the **:rsc-a: Attack**{ .rsc } action instead of as a **:rsc-b: Bonus Action**{ .rsc }. You can make this extra attack only once per turn.
+When you make the [extra attack](index.md#light) of the **:weapon-prop-light: Light** property, you can make it as part of the **:rsc-a: Attack**{ .rsc } action instead of as a **:rsc-b: Bonus Action**{ .rsc }. You can make this extra attack only once per turn.
 
 ---
 
-### Push { .hide }
+### Push
 
-**Push**{ .inl }
+**Type:** Any  
+**Properties:** :weapon-prop-heavy: Heavy, :weapon-prop-two-handed: Two-Handed, or :weapon-prop-versatile: Versatile
 
-:   **Type:** Any  
-    **Properties:** :weapon-prop-heavy: Heavy, :weapon-prop-two-handed: Two-Handed, or :weapon-prop-versatile: Versatile
-
-    If you hit a creature with this weapon, you can push the creature up to 10 feet straight away from yourself if it is Large or smaller.
+If you hit a creature with this weapon, you can push the creature up to 10 feet straight away from yourself if it is Large or smaller.
 
 ---
 
-### Sap { .hide }
+### Sap 
 
-**Sap**{ .inl }
+**Type:** Any  
+**Properties:** :weapon-prop-versatile: Versatile or No Weapon Property
 
-:   **Type:** Any  
-    **Properties:** :weapon-prop-versatile: Versatile or No Weapon Property
-
-    If you hit a creature with this weapon, that creature has **:d20-dis: Disadvantage**{ .d20 } on its next attack roll before the start of your next turn.
+If you hit a creature with this weapon, that creature has **:d20-dis: Disadvantage**{ .d20 } on its next attack roll before the start of your next turn.
 
 ---
 
-### Slow { .hide }
+### Slow 
 
-**Slow**{ .inl }
+**Type:** Any  
+**Properties:** Any
 
-:   **Type:** Any  
-    **Properties:** Any
-
-    If you hit a creature with this weapon and deal damage to the creature, you can reduce its Speed by 10 feet until the start of your next turn. If you hit the creature more than once with this property, the Speed reduction doesn't exceed 10 feet.
+If you hit a creature with this weapon and deal damage to the creature, you can reduce its Speed by 10 feet until the start of your next turn. If you hit the creature more than once with this property, the Speed reduction doesn't exceed 10 feet.
 
 ---
 
-### Topple { .hide }
+### Topple 
 
-**Topple**{ .inl }
+**Type:** Any  
+**Properties:** :weapon-prop-heavy: Heavy, :weapon-prop-reach: Reach, or :weapon-prop-versatile: Versatile
 
-:   **Type:** Any  
-    **Properties:** :weapon-prop-heavy: Heavy, :weapon-prop-reach: Reach, or :weapon-prop-versatile: Versatile
-
-    If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw with a DC equal to 8 + your Proficiency Bonus + the ability modifier used to make the attack roll. On a failed save, the creature has the Prone condition.
+If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw with a DC equal to 8 + your Proficiency Bonus + the ability modifier used to make the attack roll. On a failed save, the creature has the Prone condition.
 
 ---
 
-### Vex { .hide }
+### Vex 
 
-**Vex**{ .inl }
+**Type:** Any  
+**Properties:** :weapon-prop-ammunition: Ammunition, :weapon-prop-finesse: Finesse, or :weapon-prop-light: Light
 
-:   **Type:** Any  
-    **Properties:** :weapon-prop-ammunition: Ammunition, :weapon-prop-finesse: Finesse, or :weapon-prop-light: Light
-
-    If you hit a creature with this weapon and deal damage to the creature, you have **:d20-adv: Advantage**{ .d20 } on your next attack roll against that creature before the end of your next turn.
+If you hit a creature with this weapon and deal damage to the creature, you have **:d20-adv: Advantage**{ .d20 } on your next attack roll against that creature before the end of your next turn.
 
 ---
 
@@ -135,69 +121,57 @@ The following Mastery properties are homebrew.
 
 ---
 
-### Brace { .hide }
+### Brace 
 
-**Brace**{ .inl }
+**Type:** Any  
+**Properties:** :weapon-prop-heavy: Heavy or :weapon-prop-versatile: Versatile
 
-:   **Type:** Any  
-    **Properties:** :weapon-prop-heavy: Heavy or :weapon-prop-versatile: Versatile
-
-    When you make an attack with this weapon, you can expend half of your total **:rsc-spd: Speed**{ .em }. On hit, you roll the weapon damage dice twice and you can use either result. If the attack misses, your **:rsc-spd: Speed**{ .em } isn't reduced. 
+When you make an attack with this weapon, you can expend half of your total **:rsc-spd: Speed**{ .em }. On hit, you roll the weapon damage dice twice and you can use either result. If the attack misses, your **:rsc-spd: Speed**{ .em } isn't reduced. 
 
 ---
 
-### Flex { .hide }
+### Flex 
 
-**Flex**{ .inl }
+**Type:** Melee weapon  
+**Properties:** :weapon-prop-versatile: Versatile
 
-:   **Type:** Melee weapon  
-    **Properties:** :weapon-prop-versatile: Versatile
-
-    When you hit a melee attack using this weapon, you deal its **:weapon-prop-versatile: Versatile** damage even if you're wielding it with one hand.
+When you hit a melee attack using this weapon, you deal its **:weapon-prop-versatile: Versatile** damage even if you're wielding it with one hand.
 
 ---
 
-### Rush { .hide }
+### Rush 
 
-**Rush**{ .inl }
+**Type:** Melee weapon  
+**Properties:** :weapon-prop-reach: Reach, :weapon-prop-versatile: Versatile; No :weapon-prop-heavy: Heavy property
 
-:   **Type:** Melee weapon  
-    **Properties:** :weapon-prop-reach: Reach, :weapon-prop-versatile: Versatile; No :weapon-prop-heavy: Heavy property
-
-    While holding the weapon, when you take the **:rsc-a: Dash**{ .rsc } action, you can choose a creature that you can see and move torwards it in a straight line without provoking Opportunity Attack, and make one Melee attack against as part of the same action. You have **:d20-adv: Advantage**{ .d20 } on this attack 
+While holding the weapon, when you take the **:rsc-a: Dash**{ .rsc } action, you can choose a creature that you can see and move torwards it in a straight line without provoking Opportunity Attack, and make one Melee attack against as part of the same action. You have **:d20-adv: Advantage**{ .d20 } on this attack 
 
 ---
 
-### Skeet { .hide }
+### Skeet 
 
-**Skeet**{ .inl }
+**Type:** Ranged weapon  
+**Properties:** Any
 
-:   **Type:** Ranged weapon  
-    **Properties:** Any
-
-    When you take the **:rsc-a: Dash**{ .rsc } or **:rsc-a: Disengage**{ .rsc } action, you can make one Ranged attack as a part of the same action.
+When you take the **:rsc-a: Dash**{ .rsc } or **:rsc-a: Disengage**{ .rsc } action, you can make one Ranged attack as a part of the same action.
 
 ---
 
-### Spray { .hide }
+### Spray 
 
-**Spray**{ .inl }
+**Type:** Ranged weapon  
+**Properties:** :weapon-prop-automatic: Automatic and :weapon-prop-reload: Reload (8+)
 
-:   **Type:** Ranged weapon  
-    **Properties:** :weapon-prop-automatic: Automatic and :weapon-prop-reload: Reload (8+)
-
-    When you take the **:rsc-a: Attack**{ .rsc } action, you can choose to expend 8 pieces of the weapon's ammunition to spray shots in a 15-foot Cube within the weapon's normal range. Each creature in that area must succeed on a Dexterity saving throw against your [Weapon Save DC](index.md#weapon-save-dc) or take the Weapon's damage. You can't make this special attack if you have less than 8 ammunition in the weapon.
+When you take the **:rsc-a: Attack**{ .rsc } action, you can choose to expend 8 pieces of the weapon's ammunition to spray shots in a 15-foot Cube within the weapon's normal range. Each creature in that area must succeed on a Dexterity saving throw against your [Weapon Save DC](index.md#weapon-save-dc) or take the Weapon's damage. You can't make this special attack if you have less than 8 ammunition in the weapon.
 
 ---
 
-### Tap { .hide }
+### Tap 
 
-**Tap**{ .inl }
+**Type:** Ranged weapon  
+**Properties:** :weapon-prop-automatic: Automatic
 
-:   **Type:** Ranged weapon  
-    **Properties:** :weapon-prop-automatic: Automatic
-
-    Once per turn, when you make an **:weapon-prop-automatic: Automatic** attack using this weapon, you can add your ability modifier to the damage roll of the second attack.
+Once per turn, when you make an **:weapon-prop-automatic: Automatic** attack using this weapon, you can add your ability modifier to the damage roll of the second attack.
 
 ---
 

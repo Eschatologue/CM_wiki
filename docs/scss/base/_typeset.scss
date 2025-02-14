@@ -28,7 +28,7 @@
     }
 
     p {
-        margin: convert.px2rem(12px) 0;
+        margin: convert.px2rem(8px) 0;
     }
 
     ul,
@@ -151,12 +151,17 @@
     display: grid;
     // font-size: #{calc(var(--default-font-size) * 0.9)};
     grid-template-columns: #{calc((var(--default-font-size) * 10) * 0.875)} auto;
-    gap: convert.px2rem(12px) convert.px2rem(4px) !important; // row gap and column gap
+    gap: convert.px2rem(12px) convert.px2rem(8px) !important; // row gap and column gap
+
+    dt {
+        text-align: right;
+        padding-right: 8px;
+        border-right: #{convert.px2rem(2px)} solid var(--md-default-wht--025);
+    }
 
     dt,
     dd {
         margin: convert.px2em(0px) !important;
-        padding: 0 !important;
         align-items: center;
         p {
             margin-top: convert.px2em(0px) !important;

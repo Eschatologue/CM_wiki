@@ -11,6 +11,8 @@ Delivers Deadly Strikes with Speed and Panache
 
 > *Delivers Deadly Strikes with Speed and Panache*
 
+You live and breathe the art of the blade, excelling in single combat thanks to your quick feet and wits
+
 As a Swashbuckler, you focus on the art of the blade, bringing speed, elegance, and charm to your combat style—topped off with an exquisite flourish of panache. You excel in single combat, and your methods make a duel look like a flamboyant performance.
 
 ### Level 3: Fancy Footwork

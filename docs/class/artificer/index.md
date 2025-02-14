@@ -188,7 +188,7 @@ You've learned how to produce exactly the tool you need: with [Thieves' Tools] o
 
 ### Level 4: Ability Score Improvement
 
-You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#abl-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Artificer levels 8, 12, 16, and 19.
+You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Artificer levels 8, 12, 16, and 19.
 
 ### Level 6: Tool Expertise
 

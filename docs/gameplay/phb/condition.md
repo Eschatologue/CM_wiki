@@ -184,8 +184,6 @@ While you have the **Silenced** condition, you experience the following effects.
 
 **No Verbal Components**{ .inl } You can't cast spell that requires Verbal component.
 
-**Resistance**{ .inl } You have :dmg-res: **Resistance** to :dmg-thun: **Thunder** damage.
-
 **Speechless**{ .inl } You can't speak.
 
 ---

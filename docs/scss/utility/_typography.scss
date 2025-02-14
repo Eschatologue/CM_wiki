@@ -87,12 +87,11 @@
 
 // Used to attribute Author of a HB
 .author {
-    @extend .quote;
-    @extend .align-right;
+    @extend .quote, .align-right;
 }
 
 /*-------------------------------------------------------
-    Borders and Alignment
+    Borders
 -------------------------------------------------------*/
 
 /* Used with H3 */
@@ -100,6 +99,22 @@
     border-bottom: none !important;
     margin: 0 0 #{convert.px2rem(-10px)} 0 !important;
 }
+
+.hide {
+    position: absolute; 
+    left: -9999px;
+}
+
+.back {
+    background-color: accent.$nord-polar0-darkest;
+    padding: convert.px2em(3px) convert.px2em(6px) !important;
+    border-radius: convert.px2em(8px) !important;
+    font-weight: 400 !important;
+}
+
+/*-------------------------------------------------------
+    Alignment
+-------------------------------------------------------*/
 
 .align-center {
     text-align: center !important;
@@ -109,17 +124,8 @@
     text-align: right !important;
 }
 
-.hide {
-    position: absolute; 
-    left: -9999px;
-
-}
-
-.back {
-    background-color: accent.$nord-polar0-darkest;
-    padding: convert.px2em(3px) convert.px2em(6px) !important;
-    border-radius: convert.px2em(8px) !important;
-    font-weight: 400 !important;
+.vert-middle {
+    vertical-align: middle !important;
 }
 
 /*-------------------------------------------------------
