@@ -62,7 +62,7 @@ You don't need to sleep, and magic can't put you to sleep. You can finish a **:r
 <!--
 ## Lore
 
---8<-- "docs/character-creation/origin/species/index.md:species-warning"
+--8<-- "docs/chr-creation/origin/species/index.md:species-warning"
 
 Once a revered race, the elves commanded respect across Antares. Yet, they fell from grace, losing their ancient forest, their ties to the tree of life; severing their lifespan to only around 400 years, and also their homeland. Now relegated to the frozen north, they strive to prevent history from repeating itself.
 

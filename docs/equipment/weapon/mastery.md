@@ -123,7 +123,7 @@ The following Mastery properties are lined in PHB'24
 **Vex**{ .inl }
 
 :   **Type:** Any  
-    **Properties:** :weapon-prop-ammunition: Ammunition, **:weapon-prop-finesse: Finesse, or :weapon-prop-light: Light
+    **Properties:** :weapon-prop-ammunition: Ammunition, :weapon-prop-finesse: Finesse, or :weapon-prop-light: Light
 
     If you hit a creature with this weapon and deal damage to the creature, you have **:d20-adv: Advantage**{ .d20 } on your next attack roll against that creature before the end of your next turn.
 
@@ -140,7 +140,7 @@ The following Mastery properties are homebrew.
 **Brace**{ .inl }
 
 :   **Type:** Any  
-    **Properties:** :weapon-prop-heavy: Heavy or **:weapon-prop-versatile: Versatile
+    **Properties:** :weapon-prop-heavy: Heavy or :weapon-prop-versatile: Versatile
 
     When you make an attack with this weapon, you can expend half of your total **:rsc-spd: Speed**{ .em }. On hit, you roll the weapon damage dice twice and you can use either result. If the attack misses, your **:rsc-spd: Speed**{ .em } isn't reduced. 
 
@@ -150,7 +150,7 @@ The following Mastery properties are homebrew.
 
 **Flex**{ .inl }
 
-:   **Type:** Any  
+:   **Type:** Melee weapon  
     **Properties:** :weapon-prop-versatile: Versatile
 
     When you hit a melee attack using this weapon, you deal its **:weapon-prop-versatile: Versatile** damage even if you're wielding it with one hand.

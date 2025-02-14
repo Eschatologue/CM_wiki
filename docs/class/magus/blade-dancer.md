@@ -9,7 +9,7 @@ Enter a Trance of Focus and Storms of Steel
 
 # Order of Blade Dancers
 
-> *Enter a Trance of Focus and Storms of Steel*
+> *Enter a Trance of Focus and Storm of Steel*
 
 The Magi known as Blade Dancers dedicate their lives to the art of the Blade Dance. This mystical trance allows the Magi to empty their mind of all emotion and distraction to become one their blade. Masters of this trance are deadly whirlwinds of arcane power and savage steel in battle.
 
@@ -29,7 +29,7 @@ So long as you are not wearing Heavy armour or wielding a weapon with :weapon-pr
 
 **Bonus to Checks**{ .inl } You add your Intelligence modifier (minimum of +1) to all Strength (Athletics) and Dexterity (Acrobatics) checks
 
-Your Blade Dance ends if you have the Incapacitated condition, if you don Heavy armour or a weapon with :weapon-prop-heavy: Heavy Property, or if you end it (no action required). 
+Your Blade Dance ends if you have the ^^Incapacitated^^ condition, if you don Heavy armour or a weapon with :weapon-prop-heavy: Heavy Property, or if you end it (no action required). 
 
 Once you enter a Blade Dance you must complete a **:rest-short: Short** or **:rest-long: Long Rest** before you can do so again. You can also restore your use of it by expending a level 1+ spell slot (no action required).
 

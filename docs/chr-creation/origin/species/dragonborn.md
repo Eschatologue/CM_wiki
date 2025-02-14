@@ -75,7 +75,7 @@ Your wings appear to be made of the same energy as your Breath Weapon. Once you 
 
 ## Lore
 
---8<-- "docs/character-creation/origin/species/index.md:species-warning"
+--8<-- "docs/chr-creation/origin/species/index.md:species-warning"
 
 Dragonborn are a proud species, valuing clan loyalty and personal prowess above all else. Their origins trace back to the ancient Aeginae progenitor, whose name has been lost to history. Aeginae sculpted the Dragonborn from its own scales, creating them as a race of executors bound to serve their creator. This bond led to a long history of fear and ostracisation from other races.
 
