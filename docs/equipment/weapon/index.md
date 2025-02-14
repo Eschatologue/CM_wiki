@@ -44,17 +44,11 @@ Main article: [Firearms](weapon-firearm.md)
 
 Many weapons have special properties related to their use, as shown in the Weapons table.
 
-### Ammunition { .hide }
+### Ammunition { .noborder }
 
----
+You can use a weapon that has the **:weapon-prop-ammunition: Ammunition** property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). 
 
-**:weapon-prop-ammunition:{ .xxl }**
-
-:   **Ammunition**  
-
-    You can use a weapon that has the **:weapon-prop-ammunition: Ammunition** property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). 
-
-    At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. Firearms and weapon with **[:weapon-prop-explosive: Explosive](#explosive)**{ .nowrap } property can't benefit from this.
+At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. Firearms and weapon with **[:weapon-prop-explosive: Explosive](#explosive)**{ .nowrap } property can't benefit from this.
 
 ---
 
