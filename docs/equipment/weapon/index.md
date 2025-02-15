@@ -19,7 +19,7 @@ Proficiency with a weapon allows you to add your Proficiency Bonus to the attack
 
 When a weapon requires its target to make a saving throw—whether through its Property, Mastery property, or other effects—the DC is as follow:
 
-**Weapon Save DC:** 8 + Ability Modifier used in the attack + Proficiency Bonus (if proficient)
+**Weapon Save DC:** `8 + Ability Modifier used in the attack + Proficiency Bonus (if proficient)`
 { .align-center }
 
 ## Weapon Categories
@@ -132,7 +132,7 @@ This weapon has **:d20-dis: Disadvantage**{ .d20 } on attack rolls made against 
  
 ### :weapon-prop-thrown: Thrown { .noborder }
 
-You can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. If the weapon has the **[:weapon-prop-finesse: Finesse](#finesse)** property, you can use your choice of your Strength or Dexterity modifier for the attack and damage rolls.
+You can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. If the weapon has the [:weapon-prop-finesse: Finesse](#finesse) property, you can use your choice of your Strength or Dexterity modifier for the attack and damage rolls.
 
 ---
 
