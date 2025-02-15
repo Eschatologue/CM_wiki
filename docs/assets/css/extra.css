@@ -132,7 +132,7 @@
 .md-typeset dl dt {
   text-align: right;
   padding-right: 8px;
-  border-right: 0.1rem solid var(--md-default-wht--025);
+  border-right: 0.15rem solid var(--md-default-wht--025);
 }
 .md-typeset dl dt,
 .md-typeset dl dd {
