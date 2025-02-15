@@ -36,8 +36,6 @@ You gain one of the following options of your choice. Whenever you finish a **:r
 
 **Salmon**{ .inl } You have **Swim Speed** equal to your **:rsc-spd: Speed**.
 
-**Stallion^CM^**{ .inl } Your Movement is unaffected by Difficult Terrain
-
 ### Level 10: Nature Speaker 
 
 You can cast the [:spell-lv5: Commune with Nature] spell, but only as a Ritual. :abl-wis: Wisdom is your spellcasting ability for them.

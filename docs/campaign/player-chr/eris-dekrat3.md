@@ -1,5 +1,7 @@
 ---
 title: Eris Decrat's Gimmick
+search:
+  exclude: true
 ---
 
 <p style="display:none">
