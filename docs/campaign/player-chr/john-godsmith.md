@@ -1,7 +1,6 @@
 ---
 title: Path of the Finality
-search:
-  exclude: true
+
 ---
 
 <p style="display:none">
