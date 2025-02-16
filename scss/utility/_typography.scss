@@ -1,0 +1,216 @@
+@use "../base/typeset";
+@use "../base/table";
+@use "../utility/convert";
+@use "../palette/accent";
+
+/*-------------------------------------------------------
+    Font Styles
+-------------------------------------------------------*/
+.jost {
+    font-family: var(--heading-font);
+}
+
+/*-------------------------------------------------------
+    Typography
+-------------------------------------------------------*/
+.em {
+    color: var(--md-gbl-text-color-strong);
+    abbr {
+        border-bottom: none !important;
+    }
+}
+
+.f-lg {
+    font-size: #{calc(var(--default-font-size) * 1.25)} !important;
+}
+
+.nowrap {
+    white-space: nowrap;
+}
+
+.smallcap {
+    :is(.emojione, .twemoji, .gemoji) {
+        font-size: #{var(--default-font-size)};
+        vertical-align: convert.px2em(-3px);
+    }
+
+    font-size: #{calc(var(--default-font-size) * 1.1)};
+    font-variant: small-caps !important;
+    letter-spacing: calc(var(--default-font-size) * 0.04) !important;
+
+    table:not([class]) & {
+        font-size: #{calc(var(--table-font-size))} !important;
+
+        :is(.emojione, .twemoji, .gemoji) {
+            font-size: #{var(--table-font-size)};
+            vertical-align: convert.px2em(-3px);
+        }
+    }
+}
+
+/*-------------------------------------------------------
+    Specific Typography Variants
+-------------------------------------------------------*/
+.d20 {
+    @extend .em;
+    @extend .nowrap;
+}
+
+.rsc {
+    @extend .em;
+    @extend .nowrap;
+}
+
+.back {
+    background-color: var(--md-default-blk--025);
+    padding: convert.px2em(3px) convert.px2em(6px) !important;
+    border-radius: convert.px2em(8px) !important;
+    font-weight: 400 !important;
+}
+
+// Used with .quote
+.emq {
+    @extend .em;
+    font-size: calc(var(--default-font-size) * 0.9);
+}
+
+// Paired with .emq
+.quote {
+    color: var(--md-default-fg-color--light);
+    font-size: calc(var(--default-font-size) * 0.8);
+    font-weight: 400;
+
+    strong {
+        color: var(--md-default-fg-color--light) !important;
+    }
+}
+
+// Used to attribute Author of a HB
+.author {
+    @extend .quote, .align-right;
+}
+
+/*-------------------------------------------------------
+    Borders
+-------------------------------------------------------*/
+
+/* Used with H3 */
+.noborder {
+    border-bottom: none !important;
+    margin: 0 0 #{convert.px2rem(-10px)} 0 !important;
+}
+
+.hide {
+    position: absolute; 
+    left: -9999px;
+}
+
+.back {
+    background-color: accent.$nord-polar0-darkest;
+    padding: convert.px2em(3px) convert.px2em(6px) !important;
+    border-radius: convert.px2em(8px) !important;
+    font-weight: 400 !important;
+}
+
+/*-------------------------------------------------------
+    Alignment
+-------------------------------------------------------*/
+
+.align-center {
+    text-align: center !important;
+}
+
+.align-right {
+    text-align: right !important;
+}
+
+.vert-middle {
+    vertical-align: middle !important;
+}
+
+/*-------------------------------------------------------
+    Indentation
+-------------------------------------------------------*/
+
+/* Used in conjuction with .inl */
+.indt {
+    text-indent: calc((var(--default-font-size) * 1.25) * (-1));
+    padding-left: calc((var(--default-font-size) * 1.25) * 2);
+}
+
+/*-------------------------------------------------------
+    Inline Styles
+-------------------------------------------------------*/
+.inl {
+    @extend .em, .nowrap, .chevron-left, .chevron-right;
+
+    font-weight: 600 !important;
+    display: inline-block;
+    position: relative;
+
+}
+
+/* Chevrons */
+.chevron-right {
+    &::after {
+        font-style: normal !important;
+        font-weight: 400 !important;
+        content: "»";
+        color: var(--md-default-fg-color--light);
+        margin-left: convert.px2em(4px);
+    }
+}
+
+.chevron-left {
+    &::before {
+        font-style: normal !important;
+        font-weight: 400 !important;
+        content: "«";
+        color: var(--md-default-fg-color--light);
+        margin-right: convert.px2em(4px);
+    }
+}
+
+/* Icons */
+.top-pad {
+    :is(.emojione, .twemoji, .gemoji) {
+        vertical-align: convert.px2em(-3px);
+    }
+}
+
+/*-------------------------------------------------------
+    Damage Type Dynamic Classes
+-------------------------------------------------------*/
+
+$damage-types: (
+    acid: #7bac02,
+    cold: #4fc3f7,
+    fire: #e1822e,
+    posn: #33a202,
+    thun: #9b7fcc,
+    psyc: #dd73ac,
+    lgtn: #3393e8,
+    necr: #3faf4f,
+    radi: #ffee58,
+    force: #ff7369,
+    phys: #c6c6c6,
+    heal: #65cdcd
+);
+
+@each $type, $color in $damage-types {
+    .dmg-#{$type} {
+        @extend .nowrap;
+        font-size: calc(var(--default-font-size) * 0.85);
+        font-family: var(--jetbrains);
+        word-spacing: convert.px2rem(-5px);
+        color: convert.hex3hsl($color) !important;
+        font-weight: 400 !important;
+    }
+}
+
+/*-------------------------------------------------------
+    Miscellaneous
+-------------------------------------------------------*/
+.shrink-bottom {
+    margin-bottom: convert.px2em(-9px) !important;
+}
