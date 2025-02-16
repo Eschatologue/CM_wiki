@@ -1,5 +1,6 @@
 @charset "UTF-8";
 @import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap");
 /*-------------------------------------------------------
     Typeset Variables
 --------------------------------------------------------*/
@@ -126,13 +127,13 @@
 -------------------------------------------------------*/
 .md-typeset dl {
   display: grid;
-  grid-template-columns: calc(var(--default-font-size) * 10 * 0.875) auto;
+  grid-template-columns: calc(var(--default-font-size) * 10 * 0.9) auto;
   gap: 0.6rem 0.4rem !important;
 }
 .md-typeset dl dt {
   text-align: right;
   padding-right: 8px;
-  border-right: 0.15rem solid var(--md-default-wht--025);
+  border-right: 0.15rem dotted var(--md-default-wht--025);
 }
 .md-typeset dl dt,
 .md-typeset dl dd {
@@ -345,61 +346,97 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
     Damage Type Dynamic Classes
 -------------------------------------------------------*/
 .dmg-acid {
+  font-size: calc(var(--default-font-size) * 0.85);
+  font-family: var(--jetbrains);
+  word-spacing: -0.25rem;
   color: hsl(77, 98%, 34%) !important;
   font-weight: 400 !important;
 }
 
 .dmg-cold {
+  font-size: calc(var(--default-font-size) * 0.85);
+  font-family: var(--jetbrains);
+  word-spacing: -0.25rem;
   color: hsl(199, 91%, 64%) !important;
   font-weight: 400 !important;
 }
 
 .dmg-fire {
+  font-size: calc(var(--default-font-size) * 0.85);
+  font-family: var(--jetbrains);
+  word-spacing: -0.25rem;
   color: hsl(28, 75%, 53%) !important;
   font-weight: 400 !important;
 }
 
 .dmg-posn {
+  font-size: calc(var(--default-font-size) * 0.85);
+  font-family: var(--jetbrains);
+  word-spacing: -0.25rem;
   color: hsl(102, 98%, 32%) !important;
   font-weight: 400 !important;
 }
 
 .dmg-thun {
+  font-size: calc(var(--default-font-size) * 0.85);
+  font-family: var(--jetbrains);
+  word-spacing: -0.25rem;
   color: hsl(262, 43%, 65%) !important;
   font-weight: 400 !important;
 }
 
 .dmg-psyc {
+  font-size: calc(var(--default-font-size) * 0.85);
+  font-family: var(--jetbrains);
+  word-spacing: -0.25rem;
   color: hsl(328, 61%, 66%) !important;
   font-weight: 400 !important;
 }
 
 .dmg-lgtn {
+  font-size: calc(var(--default-font-size) * 0.85);
+  font-family: var(--jetbrains);
+  word-spacing: -0.25rem;
   color: hsl(208, 80%, 55%) !important;
   font-weight: 400 !important;
 }
 
 .dmg-necr {
+  font-size: calc(var(--default-font-size) * 0.85);
+  font-family: var(--jetbrains);
+  word-spacing: -0.25rem;
   color: hsl(129, 47%, 47%) !important;
   font-weight: 400 !important;
 }
 
 .dmg-radi {
+  font-size: calc(var(--default-font-size) * 0.85);
+  font-family: var(--jetbrains);
+  word-spacing: -0.25rem;
   color: hsl(54, 100%, 67%) !important;
   font-weight: 400 !important;
 }
 
 .dmg-force {
+  font-size: calc(var(--default-font-size) * 0.85);
+  font-family: var(--jetbrains);
+  word-spacing: -0.25rem;
   color: hsl(4, 100%, 71%) !important;
   font-weight: 400 !important;
 }
 
 .dmg-phys {
+  font-size: calc(var(--default-font-size) * 0.85);
+  font-family: var(--jetbrains);
+  word-spacing: -0.25rem;
   color: hsl(0, 0%, 78%) !important;
   font-weight: 400 !important;
 }
 
 .dmg-heal {
+  font-size: calc(var(--default-font-size) * 0.85);
+  font-family: var(--jetbrains);
+  word-spacing: -0.25rem;
   color: hsl(180, 51%, 60%) !important;
   font-weight: 400 !important;
 }
@@ -699,6 +736,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 --------------------------------------------------------*/
 :root {
   --heading-font: "Jost", sans-serif;
+  --jetbrains: "JetBrains Mono", serif;
 }
 
 /*------------------------------------------------------- 

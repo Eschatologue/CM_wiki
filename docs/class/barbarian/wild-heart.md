@@ -21,10 +21,13 @@ You can cast the [:spell-lv2: Beast Sense] and [:spell-lv1: Speak with Animals] 
 Your Rage taps into the primal power of animals. Whenever you activate your **:ui-rage: Rage**{ .em }, you gain one of the following options of your choice.
 
 **Bear**{ .inl } While your **:ui-rage: Rage**{ .em } is active, you have **:dmg-res: Resistance**{ .em } to every damage type except **:dmg-force: Force**{ .dmg-force }, **:dmg-necr: Necrotic**{ .dmg-necr }, **:dmg-psyc: Psychic**{ .dmg-psyc } and **:dmg-radi: Radiant**{ .dmg-radi }.
+{ .indt }
 
 **Eagle**{ .inl } When you activate your **:ui-rage: Rage**{ .em }, you can take the **:rsc-a: Disengage**{ .rsc } and **:rsc-a: Dash**{ .rsc } actions as part of that **:rsc-b: Bonus Action**{ .rsc }. While your **:ui-rage: Rage**{ .em } is active, you can take a **:rsc-b: Bonus Action**{ .rsc } to take both of those actions.
+{ .indt }
 
 **Wolf**{ .inl } While your **:ui-rage: Rage**{ .em } is active, your allies have **:d20-adv: Advantage**{ .d20 } on Melee attack rolls against any enemy of yours within 5 feet of you.
+{ .indt }
 
 ### Level 6: Aspect of the Wilds
 

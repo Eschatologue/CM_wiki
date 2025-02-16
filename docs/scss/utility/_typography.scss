@@ -200,6 +200,9 @@ $damage-types: (
 @each $type, $color in $damage-types {
     .dmg-#{$type} {
         @extend .nowrap;
+        font-size: calc(var(--default-font-size) * 0.85);
+        font-family: var(--jetbrains);
+        word-spacing: convert.px2rem(-5px);
         color: convert.hex3hsl($color) !important;
         font-weight: 400 !important;
     }

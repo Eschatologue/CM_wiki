@@ -19,7 +19,9 @@ Some Barbarians personify their **:ui-rage: Rage**{ .em } as a fierce spirit or 
 
 Barbarians often serve as protectors and leaders in their communities. They charge headlong into danger so those under their protection don't have to. Their courage in the face of danger makes Barbarians perfectly suited for adventure.
 
-??? info "Core Barbarian Trait"
+#### Core Barbarian Trait { .hide }
+
+!!! info "Core Barbarian Trait"
 
     **Primary Ability:** :abl-str: Strength
 

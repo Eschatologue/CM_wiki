@@ -1,5 +1,7 @@
 ---
 title: Path of the Finality
+search:
+  exclude: true
 ---
 
 <p style="display:none">
@@ -10,7 +12,7 @@ John K. Gimmick
 
 # Path of the Finality
 
-**Base Class:** *[Barbarian](../../class/barbarian/index.md)*
+**Base Barbarian Subclass:** *[Wildheart](../../class/barbarian/wild-heart.md)*
 
 You stand as the last remnant of a lineage that has long perished—a relic from an old world, the descendants of those erased from history. As this world approaches its end, your story is just beginning. Questions beg answers, and loose ends yearn to be tied.
 
@@ -18,63 +20,65 @@ Your name, your family, and your tribe all converge at a singular point in histo
 
 > *“May your blade be swift, your judgment just, and your decisions resolute.”*
 
-### Level 3: Heaven's Maledict
+### Level 3: Smite of Origin
 
-You gain the ability to channel the lethal repercussion of speaking Celestial to your own benefit. This power is represented by your Maledict Dice, which fuel powers you have from these special features. Heaven's Maledict Dice table shows the die size and number of these dice you have when you reach certain Barbarian levels.
+*You gain the ability to channel the lethal repercussion of speaking Celestial.* 
 
-##### Heaven's Maledict Dice
+Whenever you hit a target with a Strength-based attack, you can utter a word in Celestial and deal extra **2d6 :dmg-fire: Fire**{ .dmg-fire } damage. This extra damage increases by `1d6` when you reach level 6 (`3d6`), 10 (`4d6`), 14 (`5d6`), and 20 (`6d6`). 
 
-| Barbarian Level | Die Size | Number |
-|:-:|:-:|:-:|
-| 3 | :die-d6: **D6** | 4 |
-| 6 | :die-d8: **D8** | 6 |
-| 10 | :die-d10: **D10** | 8 |
-| 14 | :die-d12: **D12** | 10 |
-| 17 | :die-d12: **D12** | 12 |
+You can use this feature a number of times equal to **twice your Proficiency Bonus**. If you use this feature again while having no uses remaining, you immediately take **:dmg-necr: Necrotic**{ .dmg-necr } damage. The damage increases each time you exceed the limit: `1d12` for the first, `2d12` for the second, and so on. This damage ignores **:dmg-res: Resistance**{ .em } and **:dmg-imm: Immunity**{ .em }.
 
-#### Maledict Die Saving Throw  
+You regain two expended use when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
-If a power requires a **:d20-save: Saving Throw**, the DC is equals 8 + your Strength or Constitution Modifier + your Proficiency Bonus. Targets still takes half damage on a successful Save.
+### Level 3: Primordial Strike
 
-#### Using Maledict Die
+*Your smites taps into the mythical power of animals that exists in legends.*
 
-Some of your powers expend the ^^Maledict Die^^, as specified in a power's description. When you use a power that uses a ^^Maledict Die^^ while you have none remaining, you take **:dmg-necr: Necrotic**{ .dmg-necr } damage equals to the roll result, you have to roll the die even if the power itself doesn't call for rolling. 
+When you use *Smite of Origin* while your **:ui-rage: Rage** is active, you can make it cause an additional effect that depends on the option you choose for your *Rage of the Wilds* feature. The effect occurs immediately after the attack's damage is dealt.
 
-You regain one of your expended ^^Maledict Dice^^ when you finish a **:rest-short: Short Rest**, and you regain all of them when you finish a **:rest-long: Long Rest**
+**Healing Smite**{ .chevron-left } <br>_Bear_
+:   Your smite cauterise wounds. One creature of your choice that you can see within 30 feet gain **:trt-hp: Hit Points** equals twice your Proficiency Bonus.
 
-#### Maledict Die Powers
+**Tailwind Smite**{ .chevron-left } <br>_Eagle_
+:   Your smite grants swiftness. Each creature of your choice that you can see within 30 feet has their **:rsc-spd: Speed** increased by 10 feet until the start of your next turn.
 
-**Cauterising Flame**{ .inl } As a **:rsc-a: Magic**{ .rsc } action, you can roll a number of Maledict Die up to your Rage Damage Bonus and regain a number of **:trt-hp: Hit Points** equal to the result.
+**Marking Smite**{ .chevron-left } <br>_Wolf_
+:   Primordial Flare surrounds the target. Until the start of your next turn, the target takes extra **(Prof. Bonus) :dmg-fire: Fire**{ .dmg-fire } damage when it is hit by an attack roll.
 
-**Smite of Origin**{ .inl } After you hit a target with a Strength-based attack, you can roll a number of Maledict Die up to your Rage Damage bonus, and deal extra **:dmg-fire: Fire**{ .dmg-fire } damage to the target equal to the number rolled.
+### Level 6: Aspect of the World
 
-**Flames of Creation**{ .inl } When you take the **:rsc-a: Attack**{ .rsc } action, you can replace one of your attack to roll a number of Maledict Die up to your Rage Damage Bonus and cause a burst of flame in a **15-foot :aoe-cone: Cone** originating from you. Each affected creature must succeed a **:d20-save: Dexterity saving throw**{ .d20 }, or take **:dmg-fire: Fire**{ .dmg-fire } damage equal to the total rolled. Flammable objects in the area that aren't being worn or carried starts **Burning**(1).
-{ .annotate }
+The following options are added to your *Aspect of the Wilds* feature.
 
-1. !!! glossary "Burning" 
+You can select one additional option from either *Aspect of the Wilds* or *Aspect of the Legends* feature when you reach level 10 (2 total), 14 (3 total), and 20 (4 total). 
 
-        --8<-- "docs/glossary.md:haz-burning"
+**The Fool**{ .inl } You gain proficiency in 3 skills of your choice.
+{ .indt }
 
-### Level 3: The Joy of Fishing
+**The Magician**{ .inl } You learn two Cleric cantrips of your choice. Strength is your spellcasting ability for them. You can cast them even while your **:ui-rage: Rage** is active.
+{ .indt }
 
-Memories from somewhere beyond *somehow* gives you Proficiency with [Fishing Supplies](../../equipment/tools/other-tools.md#fishings-supplies) if you don't already have it. Moreover, when you don't have Fishing Supplies, you can spend 1 hour and 150 SP worth of material to create one. This can be done as part of a **:rest-short: Short Rest**.
+**The Emperor**{ .inl } When you make a Intelligence (History) or Charisma (Intimidation) check, it gains bonus equals to your Strength modifier.
+{ .indt }
 
-Moreover, while fishing, you can expend a Maledict Die and add the die to the dice rolls you make to fish before any multipliers.
+**The Lovers**{ .inl } You can take the **:rsc-a: Help**{ .rsc } action as a **:rsc-b: Bonus Action**{ .rsc }. When you make a Charisma (Persuasion) check, it gains bonus equals to your Strength modifier.
+{ .indt }
 
-### Level 6: Potent Flames
+**The Chariot**{ .inl } When you take the **:rsc-a: Dash**{ .rsc } action, you gain **:trt-thp: Temporary Hit Points** equal to twice your Barbarian level until the start of your next turn.
+{ .indt }
 
-The searing curse from Celestial is anything but a normal fire, you gain the following benefits: 
+**The Strength**{ .inl } You are considered one size larger for determining your carrying capacity. You also have **:d20-adv: Advantage**{ .d20 } on Strength checks.
+{ .indt }
 
-**Bypass Resistances**{ .inl } When you deal **:dmg-fire: Fire**{ .dmg-fire } damage from a class feature, it ignores **:dmg-res: Resistance**. 
+**The Wheel of Fortune**{ .inl } When you make an ability check or saving throw, before you know the result, you can roll a `1d4`. On a 4, you can reroll that ability check or saving throw. You must use the new roll.
+{ .indt }
 
-**Healing Suppresion**{ .inl } When you deal **:dmg-fire: Fire**{ .dmg-fire } damage from a class feature to a creature, it can't regain **:trt-hp: Hit Points** until the end of your next turn.
+**The Hermit**{ .inl } When you make a Wisdom (Perception) or Wisdom (Religion) check, it gains bonus equals to your Strength modifier.
+{ .indt }
 
-### Level 6: Improved Maledict Powers
+**Justice**{ .inl } When you make a Intelligence (Investigation) or a Wisdom (Insight) check, it gains bonus equals to your Strength modifier.
+{ .indt }
 
-You gain new way to use your Heaven's Maledict, detailed below.
+**The Temperance**{ .inl } You know the [:spell-lv1: Cure Wounds] spell. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. Strength is your spellcasting ability for them. You can cast it even while your **:ui-rage: Rage** is active.
+{ .indt }
 
-**Cauterising Flame: Conflagaration**{ .inl } When you use **Cauterising Flame**, conditions such as Charmed or Frightened instantly ends. Your **:ui-rage: Rage** is also extended this way.
-
-**Smite of Origin: Flame Blitz**{ .inl } Once per turn, immediately after you deal damage with **Smite of Origin**, you can Teleport up to 15 feet to an unoccupied space you can see. After you teleport, each creature of your choice within 5 feet of the space you appear in takes **:dmg-fire: Fire**{ .dmg-fire } damage equal to one roll of your Maledict Die (this teleport does not expend Maledict Die).
-
-**Flames of Creation: Supernal Force**{ .inl } Creature that fails the saving throw of your **Flame of Creation** have the Prone condition.
+--8<-- "includes/snippets/spells2/lv1.md"
