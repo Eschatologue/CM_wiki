@@ -50,17 +50,20 @@ The following options in the Aspect of the World table are added to your *Aspect
 
 You can select one additional option from either *Aspect of the Wilds* or *Aspect of the Legends* feature when you reach level 10 (2 total), 14 (3 total), and 20 (4 total). 
 
-| Aspects | Effect |
-|---|---|
-| **The Fool** | You gain proficiency in 3 skills of your choice. |
-| **The Magician** | You learn two Cleric cantrips of your choice. Strength is your spellcasting ability for them. You can cast them even while your **:ui-rage: Rage** is active. | 
-| **The Emperor** | When you make a Intelligence (History) or Charisma (Intimidation) check, it gains bonus equals to your Strength modifier. | 
-| **The Lovers** | You can take the **:rsc-a: Help**{ .rsc } action as a **:rsc-b: Bonus Action**{ .rsc }. When you make a Charisma (Persuasion) check, it gains bonus equals to your Strength modifier. | 
-| **The Chariot** | When you take the **:rsc-a: Dash**{ .rsc } action, you gain **:trt-thp: Temporary Hit Points** equal to twice your Barbarian level until the start of your next turn. | 
-| **The Strength** | You are considered one size larger for determining your carrying capacity. You also have **:d20-adv: Advantage**{ .d20 } on Strength checks. | 
+##### Aspect of the world
+
+| # | Aspects | Effect |
+|:-:|---|---|
+| 1 | **The Fool** | You gain proficiency in 3 skills of your choice. |
+| 2 | **The Magician** | You learn two Cleric cantrips of your choice. Strength is your spellcasting ability for them. You can cast them even while your **:ui-rage: Rage** is active. | 
+| 3 | **The Emperor** | When you make a Intelligence (History) or Charisma (Intimidation) check, it gains bonus equals to your Strength modifier. | 
+| 4 | **The Lovers** | You can take the **:rsc-a: Help**{ .rsc } action as a **:rsc-b: Bonus Action**{ .rsc }. When you make a Charisma (Persuasion) check, it gains bonus equals to your Strength modifier. | 
+| 5 | **The Chariot** | When you take the **:rsc-a: Dash**{ .rsc } action, you gain **:trt-thp: Temporary Hit Points** equal to twice your Barbarian level until the start of your next turn. | 
+| 6 | **The Strength** | You are considered one size larger for determining your carrying capacity. You also have **:d20-adv: Advantage**{ .d20 } on Strength checks. | 
 | **The Wheel of Fortune** | When you make an ability check or saving throw, before you know the result, you can roll a `1d4`. On a 4, you can reroll that ability check or saving throw. You must use the new roll. | 
-| **The Hermit** | When you make a Wisdom (Perception) or Wisdom (Religion) check, it gains bonus equals to your Strength modifier. | 
-| **Justice** | When you make a Intelligence (Investigation) or a Wisdom (Insight) check, it gains bonus equals to your Strength modifier. | 
-| **The Temperance** | You know the [:spell-lv1: Cure Wounds] spell. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. Strength is your spellcasting ability for them. You can cast it even while your **:ui-rage: Rage** is active. | 
+| 7 | **The Hermit** | When you make a Wisdom (Perception) or Wisdom (Religion) check, it gains bonus equals to your Strength modifier. | 
+| 8 | **Justice** | When you make a Intelligence (Investigation) or a Wisdom (Insight) check, it gains bonus equals to your Strength modifier. | 
+| 9 | **Temperance** | You know the [:spell-lv1: Cure Wounds] spell. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. Strength is your spellcasting ability for them. You can cast it even while your **:ui-rage: Rage** is active. | 
+| 10 | **The Moon | You have Blindsight with a range of 10 feet. |
 
 --8<-- "includes/snippets/spells2/lv1.md"
