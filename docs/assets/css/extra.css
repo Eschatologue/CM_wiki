@@ -142,8 +142,8 @@
 }
 .md-typeset dl dt p,
 .md-typeset dl dd p {
-  margin-top: 0em !important;
-  margin-bottom: 0.375em !important;
+  margin-top: 0.1875em !important;
+  margin-bottom: 0.1875em !important;
 }
 
 /*------------------------------------------------------- 
