@@ -23,6 +23,8 @@ Wanderers of the wilderness, Rangers specialize in facing monsters that threaten
 
 Thanks to their connection with nature, Rangers can also cast spells that harness the primal powers of the wilderness. A Ranger's talents and magic are honed with deadly focus on the task of protecting the world from the ravages of monsters and tyrants.
 
+## Core Trait { .hide }
+
 !!! info "Core Ranger Trait"
 
     **Primary Ability:** :abl-str: Strength or :abl-dex: Dexterity, and :abl-wis: Wisdom  

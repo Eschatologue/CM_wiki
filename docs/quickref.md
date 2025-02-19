@@ -13,41 +13,42 @@ icon: material/fast-forward
 
 ---
 
-**:d20-attack:{ .lg } Attack Roll**
+**:d20-attack:{ .xl } <br>Attack Roll**
 
 :   Made to hit a target and is contested by the target's **Armour Class (AC)**.
 
-    :die-d20:{ .lg } **D20 + Ability Modifier + PB (if proficient) + other Bonuses**{ .back }
+    `D20 + Ability Modifier + PB (if proficient) + other Bonuses`
 
     ---
 
     **Damage Roll**{ .inl }  
     When an attack or attempt to harm is successful, the creature often makes a Damage Roll to determine how much damage it causes to its target.   
 
-    :die-d8:{ .lg } **Damage Die + Ability Modifier + other Bonuses**{ .back }
+    `Damage Die + Ability Modifier + other Bonuses`
+
 
 ---
 
-**:d20-save:{ .lg } Saving Throw**
+**:d20-save:{ .xl } <br>Saving Throw**
 
 :   Made to resist an effect and is contested by **Dificulty Class (DC)**
 
-    :die-d20:{ .lg } **D20 + Ability Modifier + PB (if proficient) + other Bonuses**{ .back }
+    `D20 + Ability Modifier + PB (if proficient) + other Bonuses`
 
 ---
 
-**:d20-check:{ .lg } Ability Check**
+**:d20-check:{ .xl } <br>Ability Check**
 
 :   Made to see if a creature succeed a particular task and is contested by **Dificulty Class (DC)**
 
-    :die-d20:{ .lg } **D20 + Ability Modifier + other Bonuses**{ .back }
+    `D20 + Ability Modifier + other Bonuses`
 
     ---
 
     **Skill Check**{ .inl }  
     Skill checks are Ability Checks made using skills (e.g. Perception, Intimidation, History, etc)
 
-    :die-d20:{ .lg } **D20 + Ability Modifier + PB (if proficient) + other Bonuses**{ .back }
+    `D20 + Ability Modifier + PB (if proficient) + other Bonuses`
 
 
 ---
@@ -56,21 +57,21 @@ icon: material/fast-forward
 
 ---
 
-**:material-shield:{ .lg } Armour Class**
+**:material-shield:{ .xl } <br>Armour Class**
 
-:   **Base AC:** **10 + Dex modifier**{ .back }
+:   **Base AC:** `10 + Dex modifier`
 
-    **Light Armour:** **Armour's AC + Dex modifier**{ .back }
+    **Light Armour:** `Armour's AC + Dex modifier`
 
-    **Medium Armour:** **Armour's AC + Dex modifier (max 2)**{ .back }
+    **Medium Armour:** `Armour's AC + Dex modifier (max 2)`
 
-    **Heavy Armour:** **Armour's AC**{ .back }
+    **Heavy Armour:** A`rmour's AC`
 
 ---
 
-**:material-eye-plus:{ .lg } Passive Perception**
+**:material-eye-plus:{ .xl } <br>Passive Perception**
 
-:   **10 + Wisdom (Perception) check bonus**{ .back }
+:   `10 + Wisdom (Perception) check bonus`
 
     **:d20-adv: Advantage**{ .d20 } grants **+5 bonus** and **:d20-dis: Disadvantage**{ .d20 } grants **-5 penalty**.
 

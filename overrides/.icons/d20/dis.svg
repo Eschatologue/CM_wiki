@@ -3,9 +3,8 @@
    viewBox="0 0 24 24"
    version="1.1"
    id="svg1"
-   sodipodi:docname="d20-disadv.svg"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-
+   sodipodi:docname="dis.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -751,6 +750,23 @@
        apply_with_radius="true"
        only_selected="false"
        hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect37-4-1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,1,1,0,1.0689558,0,1 @ F,0,1,1,0,1.0689558,0,1 @ F,0,0,1,0,1.0689558,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
   </defs>
   <sodipodi:namedview
      id="namedview1"
@@ -761,11 +777,11 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="7.9107572"
-     inkscape:cx="-7.4581988"
-     inkscape:cy="11.313708"
-     inkscape:window-width="1360"
-     inkscape:window-height="715"
+     inkscape:zoom="22.375"
+     inkscape:cx="2.1452514"
+     inkscape:cy="14.100559"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -773,7 +789,7 @@
      labelstyle="default" />
   <g
      id="g43"
-     transform="matrix(1.0645663,0,0,-1.0645663,-0.77479533,24.903349)"
+     transform="matrix(0.94628114,0,0,-0.94628114,0.57349351,23.022716)"
      style="stroke-width:0.93935">
     <path
        id="path36-1"

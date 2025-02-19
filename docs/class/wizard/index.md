@@ -21,6 +21,8 @@ The closest a Wizard is likely to come to an ordinary life is working as a sage 
 
 But the lure of knowledge calls even the most unadventurous Wizards from the safety of their libraries and laboratories and into crumbling ruins and lost cities. Most Wizards believe that their counterparts in ancient civilizations knew secrets of magic that have been lost to the ages, and discovering those secrets could unlock the path to a power greater than any magic available in the present age.
 
+## Core Trait { .hide }
+
 !!! info "Core Wizard Trait"
 
     **Primary Ability:** :abl-INT: Intelligence  

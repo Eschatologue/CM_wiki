@@ -22,6 +22,8 @@ Anything can inspire a new song or tale, so Bards are fascinated by almost every
 
 Not every singer or poet in a tavern or jester in a royal court is a Bard. Harnessing the Words of Creation requires hard work and some measure of natural talent that most troubadours and jongleurs lack. A Bard's life is spent wandering across the land gathering lore, telling stories, and living on the gratitude of audiences, much like any other entertainer. But Bards' depth of knowledge and mastery of magic sets them apart.
 
+## Core Trait { .hide }
+
 !!! info "Core Bard Trait"
 
     **Primary Ability:** :abl-cha: Charisma  

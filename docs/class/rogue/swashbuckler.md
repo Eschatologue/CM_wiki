@@ -35,17 +35,21 @@ Your brash confidence allows you to avoid harm. While you aren't wearing any arm
 
 You have practiced new ways to use your Sneak Attack. The following effects are now among your Cunning Strike options.
 
-**Goad (Cost: 1d6)**{ .inl } The target must succeed on a Wisdom saving throw, or until the end of its next turn, the target has **:d20-dis: Disadvantage**{ .d20 } on attack rolls against targets other than you and can't make :rsc-r: Opportunity Attacks against targets other than you.
+**Goad** <br>_Cost: `1d6`_
+:   The target must succeed on a Wisdom saving throw, or until the end of its next turn, the target has **:d20-dis: Disadvantage**{ .d20 } on attack rolls against targets other than you and can't make :rsc-r: Opportunity Attacks against targets other than you.
 
-**Awe (Cost: 3d6)**{ .inl } Each creature of your choice within 30 feet of you must succeed on a Wisdom saving throw or have the ^^Charmed^^ condition until the end of your next turn.
+**Awe** <br>_Cost: `3d6`_
+:   Each creature of your choice within 30 feet of you must succeed on a Wisdom saving throw or have the ^^Charmed^^ condition until the end of your next turn.
 
 ### Level 13: Dashing Strikes
 
 You have practiced new ways to use your Sneak Attack. The following effects are now among your Cunning Strike options.
 
-**Parrying Stance (Cost: 2d6)**{ .inl } Roll a :die-d6: d6. Until the start of your next turn, you gain a bonus to your AC equal to the number rolled.
+**Parrying Stance** <br>_Cost: `2d6`_
+:   Roll a :die-d6: d6. Until the start of your next turn, you gain a bonus to your AC equal to the number rolled.
 
-**Invigorate (Cost: 2d6)**{ .inl } Choose a creature you can see within 30 feet of yourself. Until the end of that creature's next turn, whenever it makes an attack roll or a saving throw, it can roll a d6 and add the number rolled to the attack roll or saving throw.
+**Invigorate** <br>_Cost: `2d6`_
+:   Choose a creature you can see within 30 feet of yourself. Until the end of that creature's next turn, whenever it makes an attack roll or a saving throw, it can roll a d6 and add the number rolled to the attack roll or saving throw.
 
 ### Level 17: Master Duelist
 

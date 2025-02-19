@@ -10,7 +10,7 @@
 }
 @media screen and (max-width: 720px) {
   .md-typeset {
-    --default-font-size: 0.7rem;
+    --default-font-size: 0.6rem;
   }
 }
 
@@ -127,20 +127,19 @@
 -------------------------------------------------------*/
 .md-typeset dl {
   display: grid;
-  grid-template-columns: calc(var(--default-font-size) * 10 * 0.9) auto;
+  grid-template-columns: calc(var(--default-font-size) * 8.5 * 0.9) auto;
   gap: 0.6rem 0.4rem !important;
-}
-.md-typeset dl dt {
-  text-align: right;
-  padding-right: 8px;
-  border-right: 0.15rem dotted var(--md-default-wht--025);
-}
-.md-typeset dl dt,
-.md-typeset dl dd {
-  margin: 0em !important;
   align-items: center;
 }
-.md-typeset dl dt p,
+.md-typeset dl dt {
+  align-items: start !important;
+  text-align: center;
+}
+.md-typeset dl dd {
+  border-left: 0.15rem dotted var(--md-default-wht--025);
+  padding-left: 0.5em !important;
+  margin: 0em !important;
+}
 .md-typeset dl dd p {
   margin-top: 0.1875em !important;
   margin-bottom: 0.1875em !important;
@@ -208,6 +207,12 @@
   font-family: var(--heading-font);
 }
 
+.jetbrains, .dmg-heal, .dmg-phys, .dmg-force, .dmg-radi, .dmg-necr, .dmg-lgtn, .dmg-psyc, .dmg-thun, .dmg-posn, .dmg-fire, .dmg-cold, .dmg-acid {
+  font-size: calc(var(--default-font-size) * 0.85);
+  font-family: var(--jetbrains);
+  word-spacing: -0.25rem;
+}
+
 /*-------------------------------------------------------
     Typography
 -------------------------------------------------------*/
@@ -246,6 +251,10 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 /*-------------------------------------------------------
     Specific Typography Variants
 -------------------------------------------------------*/
+.d20 :is(.emojione, .twemoji, .gemoji) {
+  vertical-align: -0.1875em;
+}
+
 .back {
   background-color: var(--md-default-blk--025);
   padding: 0.1875em 0.375em !important;
@@ -302,6 +311,10 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   vertical-align: middle !important;
 }
 
+.dt-centre dl dt {
+  text-align: ccenter;
+}
+
 /*-------------------------------------------------------
     Indentation
 -------------------------------------------------------*/
@@ -321,7 +334,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 }
 
 /* Chevrons */
-.chevron-right::after, .md-tabs__item--active .md-tabs__link::after, .inl::after {
+.chevron-right::after, .md-tabs__item--active .md-tabs__link::after, .chev-lr::after, .inl::after {
   font-style: normal !important;
   font-weight: 400 !important;
   content: "»";
@@ -329,7 +342,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   margin-left: 0.25em;
 }
 
-.chevron-left::before, .md-tabs__item--active .md-tabs__link::before, .inl::before {
+.chevron-left::before, .md-tabs__item--active .md-tabs__link::before, .chev-lr::before, .inl::before {
   font-style: normal !important;
   font-weight: 400 !important;
   content: "«";
@@ -346,97 +359,61 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
     Damage Type Dynamic Classes
 -------------------------------------------------------*/
 .dmg-acid {
-  font-size: calc(var(--default-font-size) * 0.85);
-  font-family: var(--jetbrains);
-  word-spacing: -0.25rem;
   color: hsl(77, 98%, 34%) !important;
   font-weight: 400 !important;
 }
 
 .dmg-cold {
-  font-size: calc(var(--default-font-size) * 0.85);
-  font-family: var(--jetbrains);
-  word-spacing: -0.25rem;
   color: hsl(199, 91%, 64%) !important;
   font-weight: 400 !important;
 }
 
 .dmg-fire {
-  font-size: calc(var(--default-font-size) * 0.85);
-  font-family: var(--jetbrains);
-  word-spacing: -0.25rem;
   color: hsl(28, 75%, 53%) !important;
   font-weight: 400 !important;
 }
 
 .dmg-posn {
-  font-size: calc(var(--default-font-size) * 0.85);
-  font-family: var(--jetbrains);
-  word-spacing: -0.25rem;
   color: hsl(102, 98%, 32%) !important;
   font-weight: 400 !important;
 }
 
 .dmg-thun {
-  font-size: calc(var(--default-font-size) * 0.85);
-  font-family: var(--jetbrains);
-  word-spacing: -0.25rem;
   color: hsl(262, 43%, 65%) !important;
   font-weight: 400 !important;
 }
 
 .dmg-psyc {
-  font-size: calc(var(--default-font-size) * 0.85);
-  font-family: var(--jetbrains);
-  word-spacing: -0.25rem;
   color: hsl(328, 61%, 66%) !important;
   font-weight: 400 !important;
 }
 
 .dmg-lgtn {
-  font-size: calc(var(--default-font-size) * 0.85);
-  font-family: var(--jetbrains);
-  word-spacing: -0.25rem;
   color: hsl(208, 80%, 55%) !important;
   font-weight: 400 !important;
 }
 
 .dmg-necr {
-  font-size: calc(var(--default-font-size) * 0.85);
-  font-family: var(--jetbrains);
-  word-spacing: -0.25rem;
   color: hsl(129, 47%, 47%) !important;
   font-weight: 400 !important;
 }
 
 .dmg-radi {
-  font-size: calc(var(--default-font-size) * 0.85);
-  font-family: var(--jetbrains);
-  word-spacing: -0.25rem;
   color: hsl(54, 100%, 67%) !important;
   font-weight: 400 !important;
 }
 
 .dmg-force {
-  font-size: calc(var(--default-font-size) * 0.85);
-  font-family: var(--jetbrains);
-  word-spacing: -0.25rem;
   color: hsl(4, 100%, 71%) !important;
   font-weight: 400 !important;
 }
 
 .dmg-phys {
-  font-size: calc(var(--default-font-size) * 0.85);
-  font-family: var(--jetbrains);
-  word-spacing: -0.25rem;
   color: hsl(0, 0%, 78%) !important;
   font-weight: 400 !important;
 }
 
 .dmg-heal {
-  font-size: calc(var(--default-font-size) * 0.85);
-  font-family: var(--jetbrains);
-  word-spacing: -0.25rem;
   color: hsl(180, 51%, 60%) !important;
   font-weight: 400 !important;
 }
@@ -1059,6 +1036,9 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 /* Link */
 .md-content {
   --md-typeset-a-color: var(--md-gbl-link-color);
+}
+.md-content :is(.emojione, .twemoji, .gemoji) {
+  vertical-align: -0.1875em;
 }
 
 /*# sourceMappingURL=extra.css.map */

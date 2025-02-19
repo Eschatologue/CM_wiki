@@ -75,7 +75,7 @@ If you don't want to resist the effect, you can choose to fail the save without 
 
 ### Ability Modifier
 
-Saving throws are named for the ability modifiers they use: a **:d20-save: Constitution saving throw**, a **:d20-save: Wisdom saving throw**, and so on. Different sacing throws are used to ressit different kinds of effects, as shown on the Saving Throw Examples table.
+Saving throws are named for the ability modifiers they use: a **:d20-save: Constitution saving throw**{ .d20 }, a **:d20-save: Wisdom saving throw**{ .d20 }, and so on. Different sacing throws are used to ressit different kinds of effects, as shown on the Saving Throw Examples table.
 
 ##### Saving Throw Examples
 
@@ -143,7 +143,7 @@ If you roll a 20 on the d20 (called a "natural 20) for an Attack Roll, the attac
 
 If you roll a 1 on the d20 (called a "natural 1) for an attack roll, the attack misses regardless of any modifiers or the target's AC
 
-## **:d20-adv: Advantage**{ .d20 } & Disadvantage
+## Advantage & Disadvantage
 
 A number of situations and conditions give creatures **:d20-adv: Advantage**{ .d20 } or **:d20-dis: Disadvantage**{ .d20 } on d20 rolls.
 

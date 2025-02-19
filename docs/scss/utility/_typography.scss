@@ -10,6 +10,12 @@
     font-family: var(--heading-font);
 }
 
+.jetbrains {
+    font-size: calc(var(--default-font-size) * 0.85);
+    font-family: var(--jetbrains);
+    word-spacing: convert.px2rem(-5px);
+}
+
 /*-------------------------------------------------------
     Typography
 -------------------------------------------------------*/
@@ -52,8 +58,10 @@
     Specific Typography Variants
 -------------------------------------------------------*/
 .d20 {
-    @extend .em;
-    @extend .nowrap;
+    @extend .em, .nowrap;
+    :is(.emojione, .twemoji, .gemoji) {
+        vertical-align: convert.px2em(-3px);
+    }
 }
 
 .rsc {
@@ -128,6 +136,15 @@
     vertical-align: middle !important;
 }
 
+
+.dt-centre {
+    dl {
+        dt {
+            text-align: ccenter;
+        }
+    }
+}
+
 /*-------------------------------------------------------
     Indentation
 -------------------------------------------------------*/
@@ -142,7 +159,7 @@
     Inline Styles
 -------------------------------------------------------*/
 .inl {
-    @extend .em, .nowrap, .chevron-left, .chevron-right;
+    @extend .em, .nowrap, .chev-lr;
 
     font-weight: 600 !important;
     display: inline-block;
@@ -169,6 +186,10 @@
         color: var(--md-default-fg-color--light);
         margin-right: convert.px2em(4px);
     }
+}
+
+.chev-lr {
+    @extend .chevron-left, .chevron-right;
 }
 
 /* Icons */
@@ -199,10 +220,7 @@ $damage-types: (
 
 @each $type, $color in $damage-types {
     .dmg-#{$type} {
-        @extend .nowrap;
-        font-size: calc(var(--default-font-size) * 0.85);
-        font-family: var(--jetbrains);
-        word-spacing: convert.px2rem(-5px);
+        @extend .nowrap, .jetbrains;
         color: convert.hex3hsl($color) !important;
         font-weight: 400 !important;
     }

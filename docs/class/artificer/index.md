@@ -15,6 +15,8 @@ A Magical Crafter and an Inventor of Wonders
 
 Masters of unlocking magic in everyday objects, Artificers are supreme inventors. They see magic as a complex system waiting to be decoded and controlled. Artificers use tools to channel arcane power, crafting magical objects. To cast a spell, an Artificer could use alchemist's supplies to create a potent elixir, calligrapher's supplies to inscribe a sigil of power on an ally's armour, or tinker's tools to craft a temporary charm. The magic of Artificers is tied to their tools and their talents.
 
+## Core Trait { .hide }
+
 !!! info "Core Artificer Traits"
 
     **Primary Ability:** :abl-int: Intelligence

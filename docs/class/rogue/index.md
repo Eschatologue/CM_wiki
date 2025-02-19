@@ -21,6 +21,8 @@ When it comes to combat, Rogues prioritize subtle strikes over brute strength. A
 
 Some Rogues began their careers as criminals, while others used their cunning to fight crime. Whatever a Rogue's relation to the law, no common criminal or officer of the law can match the subtle brilliance of the greatest Rogues.
 
+## Core Trait { .hide }
+
 !!! info "Core Rogue Traits"
 
     **Primary Ability:** :abl-dex: Dexterity  
@@ -140,14 +142,14 @@ You've developed cunning ways to use your Sneak Attack. When you deal Sneak Atta
 
 If a Cunning Strike effect requires a saving throw, the DC equals 8 plus your Dexterity modifier and Proficiency Bonus.
 
-**Poison (Cost: `1d6`)**{ .inl } 
-You add a toxin to your strike, forcing the target to make a **:d20-save: Constitution saving throw**{ .d20 }. On a failed save, the target has the Poisoned condition for 1 minute. At the end of each of its turns, the Poisoned target repeats the save, ending the effect on itself on a success. To use this effect, you must have a Poisoner's Kit on your person.
+**Poison** <br>_Cost: `1d6`_
+:   You add a toxin to your strike, forcing the target to make a **:d20-save: Constitution saving throw**{ .d20 }. On a failed save, the target has the Poisoned condition for 1 minute. At the end of each of its turns, the Poisoned target repeats the save, ending the effect on itself on a success. To use this effect, you must have a Poisoner's Kit on your person.
 
-**Trip (Cost: `1d6`)**{ .inl } 
-If the target is Large or smaller, it must succeed on a **:d20-save: Dexterity saving throw**{ .d20 } or have the Prone condition.
+**Trip** <br>_Cost: `1d6`_
+:   If the target is Large or smaller, it must succeed on a **:d20-save: Dexterity saving throw**{ .d20 } or have the Prone condition.
 
-**Withdraw (Cost: `1d6`)**{ .inl } 
-Immediately after the attack, you move up to half your **:rsc-spd: Speed**{ .em } without provoking Opportunity Attacks.
+**Withdraw** <br>_Cost: `1d6`_
+:   Immediately after the attack, you move up to half your **:rsc-spd: Speed**{ .em } without provoking Opportunity Attacks.
 
 ### Level 5: Uncanny Dodge
 
@@ -169,14 +171,14 @@ You can use up to two Cunning Strike effects when you deal Sneak Attack damage, 
 
 You've practiced new ways to use your Sneak Attack deviously. The following effects are now among your Cunning Strike options.
 
-**Daze (Cost: `2d6`)**{ .inl } 
-The target must succeed on a Constitution saving throw, or on its next turn, it can do only one of the following: move or take an action or a **:rsc-b: Bonus Action**{ .rsc }.
+**Daze** <br>_Cost: `2d6`_
+:   The target must succeed on a Constitution saving throw, or on its next turn, it can do only one of the following: move or take an action or a **:rsc-b: Bonus Action**{ .rsc }.
 
-**Knock Out (Cost: `6d6`)**{ .inl } 
-The target must succeed on a Constitution saving throw, or it has the ^^Unconscious^^ condition for 1 minute or until it takes any damage. The Unconscious target repeats the save at the end of each of its turns, ending the effect on itself on a success.
+**Knock Out** <br>_Cost: `6d6`_
+:   The target must succeed on a Constitution saving throw, or it has the ^^Unconscious^^ condition for 1 minute or until it takes any damage. The Unconscious target repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
-**Obscure (Cost: `3d6`)**{ .inl } 
-The target must succeed on a Dexterity saving throw, or it has the Blinded condition until the end of its next turn.
+**Obscure** <br>_Cost: `3d6`_
+:   The target must succeed on a Dexterity saving throw, or it has the Blinded condition until the end of its next turn.
 
 ### Level 15: Slippery Mind
 

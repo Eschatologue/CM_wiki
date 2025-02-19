@@ -23,6 +23,8 @@ Almost by definition, the life of a Paladin is an adventuring life, for every Pa
 
 Adventuring Paladins take their work seriously. A delve into an ancient ruin or a dusty crypt can be a quest driven by a higher purpose than the acquisition of treasure. Malign forces lurk in dungeons, and even the smallest victory against them can tilt the cosmic balance away from oblivion.
 
+## Core Trait { .hide }
+
 !!! info "Core Paladin Traits"
 
     **Primary Ability:** :abl-str: Strength & :abl-cha: Charisma  

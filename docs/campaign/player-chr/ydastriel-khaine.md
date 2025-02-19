@@ -30,39 +30,39 @@ You can use this feature **twice**. You regain one expended use when you finish 
 
     You eyes blazes in white flare and your being pulses with power of a star. The Destruction Resonance grants you the following benefit for your Starry Form Constellations.
 
-    **Collapsing Star**{ .chevron-left } <br>_Archer_
+    **Collapsing Star** <br>_Archer_
     :   Once per turn, when you hit a target with your Archer Form's **:rsc-b: Bonus Action**{ .rsc } attack, each creatures within 5 feet of the target takes **(Prof. bonus) :dmg-radi: Radiant**{ .dmg-radi } damage.
 
-    **Searing Flare**{ .chevron-left } <br>_Chalice_
+    **Searing Flare** <br>_Chalice_
     :   Once per turn, when you restore **:trt-hp: Hit Points** to a creature using the Chalice Form feature, each creatures within 5 feet of the target takes **(Prof. bonus) :dmg-radi: Radiant**{ .dmg-radi } damage.
 
-    **Accretion Disk**{ .chevron-left } <br>_Dragon_ 
+    **Accretion Disk** <br>_Dragon_ 
     :   While **:spell-conc: Concentrating** on a Druid spell, whenever you deal **:dmg-radi: Radiant**{ .dmg-radi } or **:dmg-fire: Fire**{ .dmg-fire } damage, it deals extra damage equals to your Proficiency Bonus.
     
 === "Resonance of Perseverance"
 
     Your resolves hardens like amber and your heart pumps liquid adamantine. The Perseverance Resonance grants you the following benefit for your Starry Form Constellations.
 
-    **Siege Emplacement**{ .chevron-left } <br>_Archer_
+    **Siege Emplacement** <br>_Archer_
     :   Allies that start its turn within 10 feet of you, gain **:trt-thp: Temporary Hit Points** equal to twice your Proficiency Bonus until the start of its next turn.
 
-    **Amber Armour**{ .chevron-left } <br>_Chalice_
+    **Amber Armour** <br>_Chalice_
     :   When you restore **:trt-hp: Hit Points** to a creature using the Chalice Form feature, any **:trt-hp: Hit Points** that exceeds the target's HP becomes **:trt-thp: Temporary Hit Points**.
     
-    **Warding Aura**{ .chevron-left } <br>_Dragon_
+    **Warding Aura** <br>_Dragon_
     :   While **:spell-conc: Concentrating** on a Druid spell, all allies within 10 feet of you gain the benefit of Half Cover.
     
 === "Resonance of Judgement – Locked"
 
     You are filled with an insatiable thirst to condemn the guilty. The Judgement Resonance grants you the following benefit for your Starry Form Constellations.
 
-    **Fist of Conviction**{ .chevron-left } <br>_Archer_
+    **Fist of Conviction** <br>_Archer_
     :   You gain a bonus to your AC equal to your Proficiency Bonus so long you are not wearing Medium or Heavy Armour or using a Shield. Additionally, as a **:rsc-a: Magic**{ .rsc } action, you can make a Melee spell attack using your Archer Form's attack. <br>At Druid level 6, this Melee spell attack confers two attacks. 
 
-    **Forgotten Vessel**{ .chevron-left } <br>_Chalice_
+    **Forgotten Vessel** <br>_Chalice_
     :   Once per turn, when you restore **:trt-hp: Hit Points** to a creature using the Chalice Form feature, it gains a bonus to its next D20 Test equal to your Proficiency Bonus.
 
-    **Judgement's Overture**{ .chevron-left } <br>_Dragon_
+    **Judgement's Overture** <br>_Dragon_
     :   While **:spell-conc: Concentrating** on a Druid spell, if the total damage roll of one of your attacks is lower than your Proficiency Bonus, you can treat the damage as equal to your Proficiency Bonus.
 
 

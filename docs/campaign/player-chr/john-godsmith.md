@@ -35,13 +35,13 @@ You regain two expended use when you finish a **:rest-short: Short Rest**, and y
 
 When you use *Smite of Origin* while your **:ui-rage: Rage** is active, you can make it cause an additional effect that depends on the option you choose for your *Rage of the Wilds* feature. The effect occurs immediately after the attack's damage is dealt.
 
-**Healing Smite**{ .chevron-left } <br>_Bear_
+**Healing Smite** <br>_Bear_
 :   Your smite cauterise wounds. One creature of your choice that you can see within 30 feet gain **:trt-hp: Hit Points** equals twice your Proficiency Bonus.
 
-**Tailwind Smite**{ .chevron-left } <br>_Eagle_
+**Tailwind Smite** <br>_Eagle_
 :   Your smite grants swiftness. Each creature of your choice that you can see within 30 feet has their **:rsc-spd: Speed** increased by 10 feet until the start of your next turn.
 
-**Marking Smite**{ .chevron-left } <br>_Wolf_
+**Marking Smite** <br>_Wolf_
 :   Primordial Flare surrounds the target. Until the start of your next turn, the target takes extra **(Prof. Bonus) :dmg-fire: Fire**{ .dmg-fire } damage when it is hit by an attack roll.
 
 ### Level 6: Aspect of the World
@@ -60,10 +60,9 @@ You can select one additional option from either *Aspect of the Wilds* or *Aspec
 | 4 | **The Lovers** | You can take the **:rsc-a: Help**{ .rsc } action as a **:rsc-b: Bonus Action**{ .rsc }. When you make a Charisma (Persuasion) check, it gains bonus equals to your Strength modifier. | 
 | 5 | **The Chariot** | When you take the **:rsc-a: Dash**{ .rsc } action, you gain **:trt-thp: Temporary Hit Points** equal to twice your Barbarian level until the start of your next turn. | 
 | 6 | **The Strength** | You are considered one size larger for determining your carrying capacity. You also have **:d20-adv: Advantage**{ .d20 } on Strength checks. | 
-| **The Wheel of Fortune** | When you make an ability check or saving throw, before you know the result, you can roll a `1d4`. On a 4, you can reroll that ability check or saving throw. You must use the new roll. | 
-| 7 | **The Hermit** | When you make a Wisdom (Perception) or Wisdom (Religion) check, it gains bonus equals to your Strength modifier. | 
-| 8 | **Justice** | When you make a Intelligence (Investigation) or a Wisdom (Insight) check, it gains bonus equals to your Strength modifier. | 
-| 9 | **Temperance** | You know the [:spell-lv1: Cure Wounds] spell. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. Strength is your spellcasting ability for it. You can cast it even while your **:ui-rage: Rage** is active. | 
+| 7 | **The Wheel of Fortune** | When you make an ability check or saving throw, before you know the result, you can roll a `1d4`. On a 4, you can reroll that ability check or saving throw. You must use the new roll. | 
+| 8 | **The Hermit** | When you make a Wisdom (Perception) or Wisdom (Religion) check, it gains bonus equals to your Strength modifier. | 
+| 9 | **Justice** | When you make a Intelligence (Investigation) or a Wisdom (Insight) check, it gains bonus equals to your Strength modifier. | 
 | 10 | **The Moon** | You have Blindsight with a range of 10 feet. |
 
 --8<-- "includes/snippets/spells2/lv1.md"

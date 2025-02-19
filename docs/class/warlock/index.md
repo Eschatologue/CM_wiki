@@ -19,6 +19,8 @@ Warlocks view their patrons as resources, as means to the end of achieving magic
 
 Once a pact is made, a Warlock's thirst for knowledge and power can't be slaked with mere study. Most Warlocks spend their days pursuing greater power and deeper knowledge, which typically means some kind of adventure.
 
+## Core Trait { .hide }
+
 !!! info "Core Warlock Trait"
 
     **Primary Ability:** :abl-cha: Charisma  

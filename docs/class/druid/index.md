@@ -27,6 +27,8 @@ Druids are also concerned with the delicate ecological balance that sustains pla
 
 Druids are often found guarding sacred sites or watching over regions of unspoiled nature. But when a significant danger arises, threatening nature's balance or the lands they protect, Druids take a more active role as adventurers who combat the threat.
 
+## Core Trait { .hide }
+
 !!! info "Core Druid Trait"
 
     **Primary Ability:** :abl-wis: Wisdom  

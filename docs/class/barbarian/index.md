@@ -21,6 +21,8 @@ Barbarians often serve as protectors and leaders in their communities. They char
 
 #### Core Barbarian Trait { .hide }
 
+## Core Trait { .hide }
+
 !!! info "Core Barbarian Trait"
 
     **Primary Ability:** :abl-str: Strength

@@ -19,6 +19,8 @@ Fighters learn the basics of all combat styles. Every Fighter can swing an axe, 
 
 The dungeon delving, monster slaying, and other dangerous work common among adventurers is second nature for a Fighter. There are great risks but also great rewards: gold, magic weaponry, and glory.
 
+## Core Trait { .hide }
+
 !!! info "Core Fighter Trait"
 
     **Primary Ability:** :abl-str: Strength or :abl-dex: Dexterity  

@@ -114,6 +114,9 @@
 /* Link */
 .md-content {
     --md-typeset-a-color: var(--md-gbl-link-color);
+    :is(.emojione, .twemoji, .gemoji) {
+        vertical-align: convert.px2em(-3px);
+    }
 }
 
 // .md-nav {

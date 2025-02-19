@@ -19,6 +19,8 @@ Because their power is a divine gift, Clerics typically associate themselves wit
 
 Not every member of a temple or shrine is a Cleric. Some priests are called to a simple life of temple service, carrying out their devotion through prayer and rituals, not through magic. Many mortals claim to speak for the gods, but few can marshal the power of those gods the way a Cleric can.
 
+## Core Trait { .hide }
+
 !!! info "Core Cleric Traits"
 
     **Primary Ability:** :abl-wis: Wisdom  

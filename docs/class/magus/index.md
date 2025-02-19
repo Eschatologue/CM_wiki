@@ -18,6 +18,8 @@ Feared and respected by many, those who wield both blade and spell are collectiv
 
 With this unique discipline, they channel their spells through their weapons, fusing magic with every strike. Their heightened senses can detect the weave of arcane energy in the world around them, and they can even sever spells from the air before they even manifest. 
 
+## Core Trait { .hide }
+
 !!! info "Core Magus Trait"
 
     **Primary Ability:** :abl-str: Strength or :abl-dex: Dexterity, and :abl-int: Intelligence  

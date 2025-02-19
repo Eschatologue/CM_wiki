@@ -21,6 +21,8 @@ Many Monks find that a structured life of ascetic withdrawal from the mundane wo
 
 Monks generally view their adventures as personal tests of their physical and mental development. They are driven by a desire to accomplish a greater mission than merely slaying monsters and plundering treasure; they strive to hone themselves into living weapons.
 
+## Core Trait { .hide }
+
 !!! info "Core Monk Trait"
 
     **Primary Ability:** :abl-dex: Dexterity and :abl-wis: Wisdom  
