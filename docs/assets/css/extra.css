@@ -10,7 +10,7 @@
 }
 @media screen and (max-width: 720px) {
   .md-typeset {
-    --default-font-size: 0.6rem;
+    --default-font-size: 0.65rem;
   }
 }
 
