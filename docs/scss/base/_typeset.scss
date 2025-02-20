@@ -149,24 +149,28 @@
 
 .md-typeset dl {
     display: grid;
-    // font-size: #{calc(var(--default-font-size) * 0.9)};
     grid-template-columns: #{calc((var(--default-font-size) * 8.5) * 0.9)} auto;
-    gap: convert.px2rem(12px) convert.px2rem(8px) !important; // row gap and column gap
-    
+    gap: convert.px2rem(12px) convert.px2rem(8px);
+
     align-items: center;
 
     dt {
         align-items: start !important;
-        text-align: center;
+        text-align: right;
     }
 
     dd {
         border-left: #{convert.px2rem(3px)} dotted var(--md-default-wht--025);
-        padding-left: convert.px2em(8px) !important;;
-        margin: convert.px2em(0px) !important;
+        padding-left: convert.px2rem(8px);
+        margin: 0;
+        
         p {
-            margin-top: convert.px2em(3px) !important;
-            margin-bottom: convert.px2em(3px) !important;
+            margin: convert.px2rem(3px) 0;
         }
+    }
+
+    // Center-aligned style when using `{:.center-style}`
+    &.center-style dt {
+        text-align: center;
     }
 }
