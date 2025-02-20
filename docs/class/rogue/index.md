@@ -7,41 +7,54 @@ title: "Class: Rogue"
 With stealth, skill, and uncanny reflexes, rogues' versatility lets them get the upper hand in almost any situation.
 </p>
 
-:class-rogue:{ .xxxxl }
+# **:class-rogue:**{ .x6l }<br> **Rogue**{ .chev-lr} { .align-center } 
 
-# The Rogue
+"*With stealth, skill, and uncanny reflexes, rogues' versatility lets them get the upper hand in almost any situation.*"
+{ .quote .align-center }
 
-> *With stealth, skill, and uncanny reflexes, rogues' versatility lets them get the upper hand in almost any situation.*
+§
+{ .quote .align-center }
 
-Rogues rely on cunning, stealth, and their foes' vulnerabilities to get the upper hand in any situation. They have a knack for finding the solution to just about any problem, demonstrating a versatility that is the cornerstone of any successful adventuring party.
+Rogues rely on cunning, stealth, and their foes' vulnerabilities to get the upper hand in any situation. They have a knack for finding the solution to just about any problem. A few even learn magical tricks to supplement their other abilities. Many Rogues focus on stealth and deception, while others refine skills that help them in a dungeon environment, such as climbing, finding and disarming traps, and opening locks.
+{  .align-center }
 
-Rogues devote as much effort to mastering the use of a variety of skills as they do to perfecting their combat abilities, giving them broad capabilities that few other characters can match. Many Rogues focus on stealth and deception, while others refine skills that help them in a dungeon environment, such as climbing, finding and disarming traps, and opening locks.
-
-When it comes to combat, Rogues prioritize subtle strikes over brute strength. A Rogue would rather make one precise strike than wear an opponent down with a barrage of blows. Rogues have an almost supernatural knack for avoiding danger, and a few learn magical tricks to supplement their other abilities.
+In combat, Rogues prioritize subtle strikes over brute strength. They would rather make one precise strike than wear an opponent down with a barrage of blows.
+{  .align-center }
 
 Some Rogues began their careers as criminals, while others used their cunning to fight crime. Whatever a Rogue's relation to the law, no common criminal or officer of the law can match the subtle brilliance of the greatest Rogues.
+{  .align-center }
 
-## Core Trait { .hide }
+---
 
-!!! info "Core Rogue Traits"
+## Core Trait
 
-    **Primary Ability:** :abl-dex: Dexterity  
+You have the following Core Traits
 
-    **Hit Point Die:** D8 per Rogue level  
-    **HP at Level 1:** 8 + :abl-cons: Con. modifier.  
-    **HP per Cleric Level:** 5 + :abl-cons: Con. modifier  
+**Primary Ability** 
+:   :abl-dex: Dexterity  
 
-    **Saving Throw Proficiencies:** :abl-dex: Dexterity and :abl-int: Intelligence  
+**Hit Point Die** 
+:   :die-d8: D8 per Rogue level  
+    **HP at Level 1:** **8 + :abl-cons: Con. modifier**{ .calc }  
+    **HP per Cleric Level:** **5 + :abl-cons: Con. modifier**{ .calc }
 
-    **Skill Proficiencies:** Choose 4: Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Persuasion, Sleight of Hand, or Stealth  
+**Saving Throw Proficiencies** 
+:   :abl-dex: Dexterity and :abl-int: Intelligence  
 
-    **Weapon Proficiencies:** Simple weapons and Martial weapons that have the :weapon-prop-finesse: ^^Finesse^^ or :weapon-prop-light: ^^Light^^ property  
+**Skill Proficiencies** 
+:   Choose 4: Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Persuasion, Sleight of Hand, or Stealth  
 
-    **Tool Proficiencies:** Thieves' Tools  
+**Weapon Proficiencies** 
+:   Simple weapons and Martial weapons that have the :weapon-prop-finesse: ^^Finesse^^ or :weapon-prop-light: ^^Light^^ property  
 
-    **Armour Training:** Light armour  
-    
-    **Starting Equipment:** Choose **A** or **B**:  
+**Tool Proficiencies** 
+:   Thieves' Tools  
+
+**Armour Training** 
+:   Light armour  
+
+**Starting Equipment** 
+:   Choose **A** or **B**:  
     **(A)** Leather Armour, 2 Daggers, Shortsword, Shortbow, 20 Arrows, Quiver, Thieves' Tools, Burglar's Pack, and 80 SP; or  
     **(B)** 1.000 SP  
 

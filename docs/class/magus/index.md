@@ -8,35 +8,48 @@ status: homebrew
 To face a Magus, is to experience the flurry of both spells and blades.
 </p>
 
-:class-magus:{ .xxxxl }
+# **:class-magus:**{ .x6l }<br> **Magus**{ .chev-lr} { .align-center }
 
-# Magus
+"*To face a Magus, is to experience the flurry of both spells and blades.*"
+{ .quote .align-center }
 
-> *To face a Magus, is to experience the flurry of both spells and blades.*
+§
+{ .quote .align-center }
 
 Feared and respected by many, those who wield both blade and spell are collectively known as Magi. Rather than commit their lives solely to the study of arcane lore or the perfection of martial prowess, the Magi walk a path between the two. They may never unleash the cataclysmic power of an archmage nor rival the raw skill of a seasoned swordmaster, but a Magus commands the art of blending magic with steel, forging a deadly and elegant form of arcane combat known only to their Order.
+{ .align-center }
 
-With this unique discipline, they channel their spells through their weapons, fusing magic with every strike. Their heightened senses can detect the weave of arcane energy in the world around them, and they can even sever spells from the air before they even manifest. 
+With this unique discipline, they channel their spells through their weapons, fusing magic with every strike. Their heightened senses can detect the weave of arcane energy in the world around them, and they can even sever spells from the air before they even manifest.
+{ .align-center }
 
-## Core Trait { .hide }
+---
 
-!!! info "Core Magus Trait"
+## Core Trait
 
-    **Primary Ability:** :abl-str: Strength or :abl-dex: Dexterity, and :abl-int: Intelligence  
+As a Magus, you have the following trait
 
-    **Hit Point Die:** D8 per Magus level  
-    **HP at Level 1:** 8 + :abl-cons: Con. modifier.  
-    **HP per Magus Level:** 5 + :abl-cons: Con. modifier  
+**Primary Ability** 
+:   :abl-str: Strength or :abl-dex: Dexterity, and :abl-int: Intelligence  
 
-    **Saving Throw Proficiencies:** :abl-cons: Constitution and :abl-int: Intelligence  
+**Hit Point Die** 
+:   :die-d8: D8 per Magus level  
+    **HP at Level 1:** **8 + :abl-cons: Con. modifier**{ .calc }  
+    **HP per Magus Level:** **5 + :abl-cons: Con. modifier**{ .calc }
 
-    **Skill Proficiencies:** Choose 2: Acrobatics, Arcana, Athletics, History, Investigation, Nature, or Performance.  
+**Saving Throw Proficiencies** 
+:   :abl-cons: Constitution and :abl-int: Intelligence  
 
-    **Weapon Proficiencies:** Simple and Martial weapons  
+**Skill Proficiencies** 
+:   Choose 2: Acrobatics, Arcana, Athletics, History, Investigation, Nature, or Performance.  
 
-    **Armour Training:** Light and Medium armour and Shields
+**Weapon Proficiencies** 
+:   Simple and Martial weapons  
 
-    **Starting Equipment:** Choose A or B:  
+**Armour Training** 
+:   Light and Medium armour and Shields
+
+**Starting Equipment** 
+:   Choose A or B:  
     **(A)** Studded Leather Armour, Scimitar, Light Crossbow, 20 Bolts, Bolt Case, Arcane Focus, Dungeoneer's Pack, and 70 SP; or  
     **(B)** 1.000 SP
 

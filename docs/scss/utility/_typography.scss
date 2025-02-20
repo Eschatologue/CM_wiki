@@ -11,7 +11,7 @@
 }
 
 .jetbrains {
-    font-size: calc(var(--default-font-size) * 0.85);
+    font-size: calc(var(--default-font-size) * 0.8);
     font-family: var(--jetbrains);
     word-spacing: convert.px2rem(-5px);
 
@@ -74,10 +74,14 @@
 }
 
 .back {
-    background-color: var(--md-default-blk--025);
-    padding: convert.px2em(3px) convert.px2em(6px) !important;
-    border-radius: convert.px2em(8px) !important;
+    background-color: var(--md-code-bg-color);
+    padding: convert.px2em(1px) convert.px2em(4px);
+    border-radius: convert.px2em(6px);
     font-weight: 400 !important;
+}
+
+.calc {
+    @extend .back, .jetbrains;
 }
 
 // Used with .quote
@@ -89,7 +93,7 @@
 // Paired with .emq
 .quote {
     color: var(--md-default-fg-color--light);
-    font-size: calc(var(--default-font-size) * 0.8);
+    font-size: calc(var(--default-font-size) * 0.9);
     font-weight: 400;
 
     strong {
@@ -115,13 +119,6 @@
 .hide {
     position: absolute; 
     left: -9999px;
-}
-
-.back {
-    background-color: accent.$nord-polar0-darkest;
-    padding: convert.px2em(3px) convert.px2em(6px) !important;
-    border-radius: convert.px2em(8px) !important;
-    font-weight: 400 !important;
 }
 
 /*-------------------------------------------------------
@@ -201,6 +198,22 @@
     :is(.emojione, .twemoji, .gemoji) {
         vertical-align: convert.px2em(-3px);
     }
+}
+
+/*-------------------------------------------------------
+    Text Sizes
+-------------------------------------------------------*/
+
+.x4l {
+    font-size: calc(var(--default-font-size) * 4);
+}
+
+.x5l {
+    font-size: calc(var(--default-font-size) * 5);
+}
+
+.x6l {
+    font-size: calc(var(--default-font-size) * 6);
 }
 
 /*-------------------------------------------------------

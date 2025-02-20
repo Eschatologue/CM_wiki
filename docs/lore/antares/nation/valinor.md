@@ -3,7 +3,7 @@ search:
   boost: 0.25
 ---
 
-:nation-valinor:{ .xxxxl }
+:nation-valinor:{ .x6l }
 
 # Valinor  
 

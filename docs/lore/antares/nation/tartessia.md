@@ -4,6 +4,6 @@ search:
 status: draft
 ---
 
-:nation-tartessia:{ .xxxxl }
+:nation-tartessia:{ .x6l }
 
 # Tartessia

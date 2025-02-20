@@ -3,7 +3,7 @@ search:
   boost: 0.25
 ---
 
-:nation-lothringen:{ .xxxxl }
+:nation-lothringen:{ .x6l }
 
 # Lothringen  
 

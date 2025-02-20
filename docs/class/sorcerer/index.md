@@ -7,40 +7,53 @@ title: "Class: Sorcerer"
 Sorcerers are natural spellcasters, drawing on inherent magic from a gift or bloodline.
 </p>
 
-:class-sorcerer:{ .xxxxl }
+# **:class-sorcerer:**{ .x6l }<br> **Sorcerer**{ .chev-lr} { .align-center }
 
-# Sorcerer
+"*Sorcerers are natural spellcasters, drawing on inherent magic from a gift or bloodline.*"
+{ .quote .align-center }
 
-> *Sorcerers are natural spellcasters, drawing on inherent magic from a gift or bloodline.*
+§
+{ .quote .align-center }
 
 Sorcerers wield innate magic that is stamped into their being. Some Sorcerers can't name the origin of their power, while others trace it to strange events in their personal or family history. The touch of a dragon, the blessing of a dryad at a baby's birth, or the strike of lightning from a clear sky might spark a Sorcerer's gift. So too might the gift of a deity, exposure to the strange magic of another plane of existence, or a glimpse into the inner workings of reality. Whatever the origin, the result is an indelible mark on the mortal Sorcerer, a churning magic that can even be passed down through generations. 
+{ .align-center }
 
 Sorcerers don't learn magic; the raw, roiling chaos of magic is part of them. The essential art of a Sorcerer is learning to harness and channel that innate magic, allowing the Sorcerer to discover new and staggering ways to unleash their power. As Sorcerers master their innate magic, they grow more attuned to its origin, developing distinct powers that reflect the source of that magic.
+{ .align-center }
 
 Sorcerers are rare. Some family lines produce exactly one Sorcerer in every generation, but most of the time, the talents of sorcery appear as a fluke. People who have this magical power soon discover that the power doesn't like to stay quiet. A Sorcerer's magic wants to be wielded, and it tends to spill out in unpredictable ways if it isn't.
+{ .align-center }
 
-## Core Trait { .hide }
+---
 
-!!! info "Core Sorcerer Trait"
+## Core Trait
 
-    **Primary Ability:** :abl-cha: Charisma  
+You have the following Core Traits
 
-    **Hit Point Die:** D6 per Sorcerer level  
-    **HP at Level 1:** 6 + :abl-cons: Con. modifier.  
-    **HP per Sorcerer Level:** 4 + :abl-cons: Con. modifier  
+**Primary Ability** 
+:   :abl-cha: Charisma  
 
-    **Saving Throw Proficiencies:** :abl-cons: Constitution and :abl-cha: Charisma  
+**Hit Point Die** 
+:   :die-d6: D6 per Sorcerer level  
+    **HP at Level 1:** **6 + :abl-cons: Con. modifier**{ .calc }    
+    **HP per Sorcerer Level:** **4 + :abl-cons: Con. modifier**{ .calc }  
 
-    **Skill Proficiencies:** Choose 2: Arcana, Deception, Insight, Intimidation, Persuasion, or Religion  
+**Saving Throw Proficiencies** 
+:   :abl-cons: Constitution and :abl-cha: Charisma  
 
-    **Weapon Proficiencies:** Simple weapons  
+**Skill Proficiencies** 
+:   Choose 2: Arcana, Deception, Insight, Intimidation, Persuasion, or Religion  
 
-    **Armour Training:** None  
+**Weapon Proficiencies** 
+:   Simple weapons  
 
-    **Starting Equipment:** Choose A or B:  
+**Armour Training** 
+:   None  
+
+**Starting Equipment** 
+:   Choose A or B:  
     **(A)** Spear, 2 Daggers, Arcane Focus (crystal), Dungeoneer's Pack, and 280 SP; or  
     **(B)** 500 SP
-
 
 ## Becoming a Sorcerer...
 
@@ -85,7 +98,6 @@ As a Sorcerer, you gain the following class features when you reach the specifie
 | 18 | +6 | Subclass feature | 18 | 6 | 20 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
 | 19 | +6 | Epic Boon | 19 | 6 | 21 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20 | +6 | Arcane Apotheosis | 20 | 6 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
-
 
 ### Level 1: Spellcasting
 

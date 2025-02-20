@@ -7,45 +7,56 @@ title: "Class: Bard"
 Bards know music is more than idle fancy - it is power. Through study and adventure, these travelling troubadours master song, speech, and the magic within.
 </p>
 
-:class-bard:{ .xxxxl }
+# **:class-bard:**{ .x6l }<br> **Bard**{ .chev-lr} { .align-center }
 
-# Bard
+"*Bards know music is more than idle fancy - it is power. Through study and adventure, these travelling troubadours master song, speech, and the magic within.*"
+{ .align-center .quote }
 
-> *Bards know music is more than idle fancy - it is power. Through study and adventure, these travelling troubadours master song, speech, and the magic within.*
+§
+{ .quote .align-center }
 
-Invoking magic through music, dance, and verse, Bards are expert at inspiring others, soothing hurts, disheartening foes, and creating illusions.
-Bards believe that the creators of the multiverse spoke and signed it into existence and that remnants of those Words of Creation still resound and glimmer on every plane of existence. The magic of Bards is an attempt to harness those words—which transcend any language—and direct them to create new wonders.
+Invoking magic through music, dance, and verse, Bards are expert at inspiring others, soothing hurts, disheartening foes, and creating illusions. Bards believe the multiverse was spoken into existence and that remnants of its Words of Creation still resound and glimmer on every plane of existence. Bardic magic attempts to harness those words, which transcend any language.
+{ .align-center }
  
-Because the Words of Creation resonate throughout the cosmos, different Bards choose different approaches to their magic. Some Bards practice their arts in temples or monasteries, drawing on the power of the Outer Planes to channel divine magic. Others listen to bird song and the music of the wind, associate with Druid circles, and wield primal magic. Still others immerse themselves in the study of magical lore, collecting scraps of mystic knowledge wherever their journeys take them as they master the secrets of arcane magic. Ultimately, though, these various paths converge as the most accomplished Bards learn to access almost the entire breadth of magical potential.
+Anything can inspire a new song or tale, so Bards are fascinated by almost everything. They become masters of many things, including performing music, working magic, and making jests.
+{ .align-center }
 
-Anything can inspire a new song or tale, so Bards are fascinated by almost everything. They have a wide-ranging knowledge of many subjects and develop an aptitude to do almost anything well. Bards become masters of many things, including performing music, working magic, and making jests.
+A Bard's life is spent traveling, gathering lore, telling stories, and living on the gratitude of audiences, much like any other entertainer. But Bards' depth of knowledge and mastery of magic sets them apart.
+{ .align-center }
 
-Not every singer or poet in a tavern or jester in a royal court is a Bard. Harnessing the Words of Creation requires hard work and some measure of natural talent that most troubadours and jongleurs lack. A Bard's life is spent wandering across the land gathering lore, telling stories, and living on the gratitude of audiences, much like any other entertainer. But Bards' depth of knowledge and mastery of magic sets them apart.
+---
 
-## Core Trait { .hide }
+## Core Trait
 
-!!! info "Core Bard Trait"
+As a Bard, you have the following traits
 
-    **Primary Ability:** :abl-cha: Charisma  
+**Primary Ability**
+:   :abl-cha: Charisma  
 
-    **Hit Point Die:** D8 per Bard level  
-    **HP at Level 1:** 8 + :abl-cons: Con. modifier.  
-    **HP per Bard Level:** 5 + :abl-cons: Con. modifier  
+**Hit Point Die**
+:   :die-d8: D8 per Bard level  
+    **HP at Level 1:** **8 + :abl-cons: Con. modifier**{ .calc }  
+    **HP per Bard Level:** **5 + :abl-cons: Con. modifier**{ .calc }  
 
-    **Saving Throw Proficiencies:** :abl-dex: Dexterity and :abl-cha: Charisma  
+**Saving Throw Proficiencies**
+:   :abl-dex: Dexterity and :abl-cha: Charisma  
 
-    **Skill Proficiencies:** Choose any 3 [skills](../../gameplay/phb/proficiency.md#skill-list)  
+**Skill Proficiencies**
+:   Choose any 3 [skills](../../gameplay/phb/proficiency.md#skill-list)  
 
-    **Weapon Proficiencies:** Simple weapons  
+**Weapon Proficiencies**
+:    Simple weapons  
 
-    **Tool Proficiencies:** Choose 3 [Musical Instruments](../../equipment/tools/other-tools.md#musical-instrument)  
+**Tool Proficiencies**
+:    Choose 3 [Musical Instruments](../../equipment/tools/other-tools.md#musical-instrument)  
 
-    **Armour Training:** Light armour  
+**Armour Training**
+:    Light armour  
 
-    **Starting Equipment:** Choose **A** or **B**:  
+**Starting Equipment**
+:   Choose **A** or **B**:  
     **(A)** Leather Armour, 2 Daggers, Musical Instrument of your choice, Entertainer's Pack, and 190 SP; or  
-    **(B)** 900 SP  
-
+    **(B)** 900 SP    
 
 ## Becoming a Bard...
 

@@ -3,7 +3,7 @@ search:
   boost: 0.25
 ---
 
-:nation-kamikaze:{ .xxxxl } :nation-tianming:{ .xxxxl } :nation-urga:{ .xxxxl }
+:nation-kamikaze:{ .x6l } :nation-tianming:{ .x6l } :nation-urga:{ .x6l }
 
 # Karakorum  
 

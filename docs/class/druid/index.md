@@ -7,48 +7,56 @@ title: "Class: Druid"
 Druids channel the elemental forces of nature and share a deep kinship with animals. Mastery of **:material-paw: Wild Shape** allows them to transform into beasts from all over the Realms.
 </p>
 
-:class-druid:{ .xxxxl }
+# **:class-druid:**{ .x6l }<br> **Druid**{ .chev-lr} { .align-center }
 
-# Druid
+"*Druids channel the elemental forces of nature and share a deep kinship with animals. Mastery of Wild Shape allows them to transform into beasts from all over the Realms.*"
+{ .align-center .quote }
 
-> *Druids channel the elemental forces of nature and share a deep kinship with animals. Mastery of Wild Shape allows them to transform into beasts from all over the Realms.*
+§
+{ .quote .align-center }
 
-Druids belong to ancient orders that call on the forces of nature. Harnessing the magic of animals, plants, weather, and the four elements, Druids can heal, transform themselves, and wield elemental destruction.
+Druids belong to ancient orders that call on the forces of nature. Harnessing the magic of animals, plants, and the four elements, Druids heal, transform into animals, and wield elemental destruction.
+{ .align-center }
 
-Revering nature above all, individual Druids gain their magic from a nature deity, from nature itself, or both, and they typically unite with other Druids in performing rites to mark the passage of the seasons and other natural cycles. The ancient druidic traditions are sometimes called the Old Faith, in contrast to the worship of gods in temples and shrines.
+Revering nature above all, individual Druids gain their magic from nature, a nature deity, or both, and they typically unite with other Druids to perform rites that mark the passage of the seasons and other natural cycles.
+{ .align-center }
 
-Druids master primal magic, which is oriented toward nature and animals—the power of tooth and claw, of sun and moon, of fire and storm.
+Druids are concerned with the delicate ecological balance that sustains plant and animal life and with the need for people to live in harmony with nature. Druids often guard sacred sites or watch over regions of unspoiled nature, but when a significant danger arises, Druids take a more active role as adventurers who combat the threat.
+{ .align-center }
 
-Druids also gain the ability to take on animal forms, and some Druids focus on this practice, even to the point where they feel more natural in an animal form.
+---
 
-For Druids, nature exists in a precarious balance. The four elements that make up a world—air, earth, fire, and water—must remain in equilibrium. If one element were to gain power over the others, the world could be destroyed, drawn into one of the elemental planes and broken apart into its component elements. Thus, Druids oppose cults of Elemental Evil and others who promote one element to the exclusion of others.
+## Core Trait 
 
-Druids are also concerned with the delicate ecological balance that sustains plant and animal life and with the need for people to live in harmony with nature, not in opposition to it.
+As a Druid, you have the following traits.
 
-Druids are often found guarding sacred sites or watching over regions of unspoiled nature. But when a significant danger arises, threatening nature's balance or the lands they protect, Druids take a more active role as adventurers who combat the threat.
+**Primary Ability** 
+:   :abl-wis: Wisdom  
 
-## Core Trait { .hide }
+**Hit Point Die** 
+:   :die-d8: D8 per Druid level  
+    **HP at Level 1:** **8 + :abl-cons: Con. modifier**{ .calc }  
+    **HP per Druid Level:** **5 + :abl-cons: Con. modifier**{ .calc }
 
-!!! info "Core Druid Trait"
+**Saving Throw Proficiencies** 
+:   :abl-int: Intelligence and :abl-wis: Wisdom  
 
-    **Primary Ability:** :abl-wis: Wisdom  
+**Skill Proficiencies** 
+:   Choose 2: Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, or Survival  
 
-    **Hit Point Die:** D8 per Druid level  
-    **HP at Level 1:** 8 + :abl-cons: Con. modifier.  
-    **HP per Druid Level:** 5 + :abl-cons: Con. modifier  
-    **Saving Throw Proficiencies:** :abl-int: Intelligence and :abl-wis: Wisdom  
+**Weapon Proficiencies** 
+:   Simple weapons  
 
-    **Skill Proficiencies:** Choose 2: Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, or Survival  
+**Tool Proficiencies** 
+:   Herbalism Kit  
 
-    **Weapon Proficiencies:** Simple weapons  
+**Armour Training** 
+:   Light armour and Shields  
 
-    **Tool Proficiencies:** Herbalism Kit  
-
-    **Armour Training:** Light armour and Shields  
-
-    **Starting Equipment:** Choose A or B:  
-    **(A)** Leather Armour, Shield, Sickle, Druidic Focus (Quarterstaff), Explorer's Pack, Herbalism Kit, and 90 SP; or  
-    **(B)** 500 SP 
+**Starting Equipment** 
+:   Choose A or B:  
+**(A)** Leather Armour, Shield, Sickle, Druidic Focus (Quarterstaff), Explorer's Pack, Herbalism Kit, and 90 SP; or  
+**(B)** 500 SP 
 
 ## Becoming a Druid...
 
@@ -226,7 +234,7 @@ You gain an [:option-feat-boon: Epic Boon](../../option/feat/feat-boon.md) feat 
 
 The vitality of nature constantly blooms within you, granting you the following benefits.
 
-**Evergreen **:material-paw: Wild Shape****{ .inl } Whenever you roll **:d20-inv: Initiative**{.d20 } and have no uses of **:material-paw: Wild Shape** left, you regain one expended use of it.
+**Evergreen Wild Shape**{ .inl } Whenever you roll **:d20-inv: Initiative**{.d20 } and have no uses of **:material-paw: Wild Shape** left, you regain one expended use of it.
 
 **Nature Magician**{ .inl } You can convert uses of **:material-paw: Wild Shape** into a spell slot (no action required). Choose a number of your unexpended uses of **:material-paw: Wild Shape** and convert them into a single spell slot, with each use contributing 2 spell levels. For example, if you convert two uses of **:material-paw: Wild Shape**, you produce a level 4 spell slot. Once you use this benefit, you can't do so again until you finish a **:rest-long: Long Rest**.
 

@@ -7,39 +7,54 @@ title: "Class: Wizard"
 Wizards master the arcane by specialising in individual schools of magic, combining ancient spells with modern research.
 </p>
 
-:class-wizard:{ .xxxxl }
+# **:class-wizard:**{ .x6l }<br> **Wizard**{ .chev-lr} { .align-center }
 
-# Wizard
+"*Wizards master the arcane by specialising in individual schools of magic, combining ancient spells with modern research.*"
+{ .quote .align-center }
 
-> *Wizards master the arcane by specialising in individual schools of magic, combining ancient spells with modern research.* 
+§
+{ .quote .align-center }
 
 Wizards are defined by their exhaustive study of magic's inner workings. They cast spells of explosive fire, arcing lightning, subtle deception, and spectacular transformations. Their magic conjures monsters from other planes of existence, glimpses the future, or forms protective barriers. Their mightiest spells change one substance into another, call meteors from the sky, or open portals to other worlds.
+{ .align-center }
 
 Most Wizards share a scholarly approach to magic. They examine the theoretical underpinnings of magic, particularly the categorization of spells into schools of magic. Renowned Wizards such as Bigby, Tasha, Mordenkainen, and Yolande have built on their studies to invent iconic spells now used across the multiverse.
+{ .align-center }
 
 The closest a Wizard is likely to come to an ordinary life is working as a sage or lecturer. Other Wizards sell their services as advisers, serve in military forces, or pursue lives of crime or domination.
+{ .align-center }
 
 But the lure of knowledge calls even the most unadventurous Wizards from the safety of their libraries and laboratories and into crumbling ruins and lost cities. Most Wizards believe that their counterparts in ancient civilizations knew secrets of magic that have been lost to the ages, and discovering those secrets could unlock the path to a power greater than any magic available in the present age.
+{ .align-center }
 
-## Core Trait { .hide }
+---
 
-!!! info "Core Wizard Trait"
+## Core Trait
 
-    **Primary Ability:** :abl-INT: Intelligence  
+You have the following Core Traits
 
-    **Hit Point Die:** D6 per Wizard level  
-    **HP at Level 1:** 6 + :abl-cons: Con. modifier.  
-    **HP per Wizard Level:** 4 + :abl-cons: Con. modifier  
+**Primary Ability** 
+:   :abl-int: Intelligence  
 
-    **Saving Throw Proficiencies:** :abl-int: Intelligence and :abl-wis: Wisdom  
+**Hit Point Die** 
+:   :die-d6: D6 per Wizard level  
+    **HP at Level 1:** **6 + :abl-cons: Con. modifier**{ .calc }  
+    **HP per Wizard Level:** **4 + :abl-cons: Con. modifier**{ .calc }  
 
-    **Skill Proficiencies:** Choose 2: Arcana, History, Insight, Investigation, Medicine, Nature, or Religion  
+**Saving Throw Proficiencies** 
+:   :abl-int: Intelligence and :abl-wis: Wisdom  
 
-    **Weapon Proficiencies:** Simple weapons  
-    
-    **Armour Training:** None  
+**Skill Proficiencies** 
+:   Choose 2: Arcana, History, Insight, Investigation, Medicine, Nature, or Religion  
 
-    **Starting Equipment:** Choose A or B:  
+**Weapon Proficiencies** 
+:   Simple weapons  
+
+**Armour Training** 
+:   None  
+
+**Starting Equipment** 
+:   Choose A or B:  
     **(A)** 2 Daggers, Arcane Focus (Quarterstaff), Robe, Spellbook, Scholar's Pack, and 50 SP; or  
     **(B)** 550 SP 
 

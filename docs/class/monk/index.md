@@ -7,43 +7,59 @@ title: "Class: Monk"
 Some reach enlightenment by languid meditation - others do so in the heat of battle. Monks manipulate ki to empower their own strikes and debilitate their foes.
 </p>
 
-:class-monk:{ .xxxxl }
+# **:class-monk:**{ .x6l }<br> **Monk**{ .chev-lr} { .align-center }
 
-# Monk
+"*Some reach enlightenment by languid meditation - others do so in the heat of battle. Monks manipulate ki to empower their own strikes and debilitate their foes.*"
+{ .quote .align-center }
 
-> *Some reach enlightenment by languid meditation - others do so in the heat of battle. Monks manipulate ki to empower their own strikes and debilitate their foes.*
+§
+{ .quote .align-center }
 
 Monks use rigorous combat training and mental discipline to align themselves with the multiverse and tap into internal reservoirs of power. Different Monks conceptualize this power in various ways: as breath, energy, life force, essence, or self, for example. Whether channeled as a striking display of martial prowess or as a subtler focus of defense and speed, this power infuses all that a Monk does.
+{ .align-center }
 
 Monks harness and focus their internal power to create extraordinary, even supernatural, effects. They channel uncanny speed and strength into their attacks, with or without the use of weapons. In a Monk's hands, even the most basic weapons can become sophisticated implements of combat mastery. A Monk's mightiest attacks can stun their opponents.
+{ .align-center }
 
 Many Monks find that a structured life of ascetic withdrawal from the mundane world helps them cultivate the physical and mental discipline they need to harness their power. Other Monks believe that immersing themselves in the vibrant confusion of life helps to fuel their determination and discipline.
+{ .align-center }
 
 Monks generally view their adventures as personal tests of their physical and mental development. They are driven by a desire to accomplish a greater mission than merely slaying monsters and plundering treasure; they strive to hone themselves into living weapons.
+{ .align-center }
 
-## Core Trait { .hide }
+---
 
-!!! info "Core Monk Trait"
+## Core Trait
 
-    **Primary Ability:** :abl-dex: Dexterity and :abl-wis: Wisdom  
+You have the following Core Traits
 
-    **Hit Point Die:** D8 per Monk level  
+**Primary Ability** 
+:   :abl-dex: Dexterity and :abl-wis: Wisdom  
 
-    **HP at Level 1:** 8 + :abl-cons: Con. modifier  
-    **HP per Monk Level:** 5 + :abl-cons: Con. modifier  
-    **Saving Throw Proficiencies:** :abl-str: Strength and :abl-dex: Dexterity  
+**Hit Point Die** 
+:   :die-d8: D8 per Monk level  
+    **HP at Level 1:** **8 + :abl-cons: Con. modifier**{ .calc }   
+    **HP per Monk Level:** **5 + :abl-cons: Con. modifier**{ .calc }
 
-    **Skill Proficiencies:** Choose 2: Acrobatics, Athletics, History, Insight, Religion, or Stealth  
+**Saving Throw Proficiencies** 
+:   :abl-str: Strength and :abl-dex: Dexterity  
 
-    **Weapon Proficiencies:** Simple weapons and Martial weapons that have the **:weapon-prop-light: Light** property  
+**Skill Proficiencies** 
+:   Choose 2: Acrobatics, Athletics, History, Insight, Religion, or Stealth  
 
-    **Tool Proficiencies:** Choose one type of Artisan's Tools or Musical Instrument (see chapter 6)  
+**Weapon Proficiencies** 
+:   Simple weapons and Martial weapons that have the **:weapon-prop-light: Light** property  
 
-    **Armour Training:** None  
+**Tool Proficiencies** 
+:   Choose one type of Artisan's Tools or Musical Instrument (see chapter 6)  
 
-    **Starting Equipment:** Choose A or B:  
-    **(A)** Spear, 5 Daggers, Artisan's Tools or Musical Instrument chosen for the tool proficiency above, Explorer's Pack, and 110 SP; or  
-    **(B)** 500 SP
+**Armour Training** 
+:   None  
+
+**Starting Equipment** 
+:   Choose A or B:  
+**(A)** Spear, 5 Daggers, Artisan's Tools or Musical Instrument chosen for the tool proficiency above, Explorer's Pack, and 110 SP; or  
+**(B)** 500 SP
 
 ## Becoming a Monk...
 
@@ -110,13 +126,13 @@ While you aren't wearing armour or wielding a Shield, your base Armour Class equ
 
 ### Level 2: Monk's Focus
 
-Your focus and martial training allow you to harness a well of extraordinary energy within yourself. This energy is represented by **:class-phb24-monk: Focus Point(s)**s. Your Monk level determines the number of points you have, as shown in the **:class-phb24-monk: Focus Point(s)**s column of the Monk Features table.
+Your focus and martial training allow you to harness a well of extraordinary energy within yourself. This energy is represented by **:class-phb24-monk: Focus Point(s)**. Your Monk level determines the number of points you have, as shown in the **:class-phb24-monk: Focus Point(s)** column of the Monk Features table.
 
 You can expend these points to enhance or fuel certain Monk features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind, each of which is detailed below.
 
 When you expend a **:class-phb24-monk: Focus Point(s)**, it is unavailable until you finish a **:rest-short: Short** or **:rest-long: Long Rest**, at the end of which you regain all your expended points.
 
-Some features that use **:class-phb24-monk: Focus Point(s)**s require your target to make a saving throw. The save DC equals 8 plus your Wisdom modifier and Proficiency Bonus.
+Some features that use **:class-phb24-monk: Focus Point(s)** require your target to make a saving throw. The save DC equals 8 plus your Wisdom modifier and Proficiency Bonus.
 
 #### Flurry of Blows 
 
@@ -136,7 +152,7 @@ Your **:rsc-spd: Speed**{ .em } increases by 10 feet while you aren't wearing ar
 
 ### Level 2: Uncanny Metabolism
 
-When you roll **:d20-inv: Initiative**{.d20 }, you can regain all expended **:class-phb24-monk: Focus Point(s)**s. When you do so, roll your Martial Arts die, and regain a number of Hit Points equal to your Monk level plus the number rolled.
+When you roll **:d20-inv: Initiative**{.d20 }, you can regain all expended **:class-phb24-monk: Focus Point(s)**. When you do so, roll your Martial Arts die, and regain a number of Hit Points equal to your Monk level plus the number rolled.
 
 Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**.
 

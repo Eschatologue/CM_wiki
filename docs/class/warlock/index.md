@@ -7,37 +7,51 @@ title: "Class: Warlock"
 Bound by a pact to an all-powerful patron, warlocks trade their loyalty for supernatural abilities and unique magic.
 </p>
 
-:class-warlock:{ .xxxxl }
+# **:class-warlock:**{ .x6l }<br> **Warlock**{ .chev-lr} { .align-center }
 
-# Warlock
+"*Bound by a pact to an all-powerful patron, warlocks trade their loyalty for supernatural abilities and unique magic.*"
+{ .quote .align-center }
 
-> *Bound by a pact to an all-powerful patron, warlocks trade their loyalty for supernatural abilities and unique magic.*
+§
+{ .quote .align-center }
 
 Warlocks quest for knowledge that lies hidden in the fabric of the multiverse. They often begin their search for magical power by delving into tomes of forbidden lore, dabbling in invocations meant to attract the power of extraplanar beings, or seeking places of power where the influence of these beings can be felt. In no time, each Warlock is drawn into a binding pact with a powerful patron. Drawing on the ancient knowledge of beings such as angels, archfey, demons, devils, hags, and alien entities of the Far Realm, Warlocks piece together arcane secrets to bolster their own power.
+{ .align-center }
 
 Warlocks view their patrons as resources, as means to the end of achieving magical power. Some Warlocks respect, revere, or even love their patrons; some serve their patrons grudgingly; and some seek to undermine their patrons even as they wield the power their patrons have given them.
+{ .align-center }
 
 Once a pact is made, a Warlock's thirst for knowledge and power can't be slaked with mere study. Most Warlocks spend their days pursuing greater power and deeper knowledge, which typically means some kind of adventure.
+{ .align-center }
 
-## Core Trait { .hide }
+---
 
-!!! info "Core Warlock Trait"
+## Core Trait
 
-    **Primary Ability:** :abl-cha: Charisma  
+You have the following Core Traits
 
-    **Hit Point Die:** D8 per Warlock level  
-    **HP at Level 1:** 8 + :abl-cons: Con. modifier.  
-    **HP per Warlock Level:** 6 + :abl-cons: Con. modifier  
+**Primary Ability** 
+:   :abl-cha: Charisma  
 
-    **Saving Throw Proficiencies:** :abl-wis: Wisdom and :abl-cha: Charisma  
+**Hit Point Die** 
+:   :die-d8: D8 per Warlock level  
+    **HP at Level 1:** **8 + :abl-cons: Con. modifier**{ .calc }  
+    **HP per Warlock Level:** **6 + :abl-cons: Con. modifier**{ .calc }  
 
-    **Skill Proficiencies:** Choose 2: Arcana, Deception, History, Intimidation, Investigation, Nature, or Religion  
+**Saving Throw Proficiencies** 
+:   :abl-wis: Wisdom and :abl-cha: Charisma  
 
-    **Weapon Proficiencies:** Simple weapons  
+**Skill Proficiencies** 
+:   Choose 2: Arcana, Deception, History, Intimidation, Investigation, Nature, or Religion  
 
-    **Armour Training:** Light armour  
+**Weapon Proficiencies** 
+:   Simple weapons  
 
-    **Starting Equipment:** Choose A or B:  
+**Armour Training** 
+:   Light armour  
+
+**Starting Equipment** 
+:   Choose A or B:  
     **(A)** Leather Armour, Sickle, 2 Daggers, Arcane Focus (orb), Book (occult lore), Scholar's Pack, and 15 GP; or  
     **(B)** 100 GP  
 

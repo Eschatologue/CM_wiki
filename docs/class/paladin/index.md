@@ -7,41 +7,51 @@ title: "Class: Paladin"
 A promise made so deeply that it becomes divine in itself flows through a paladin, burning bright enough to inspire allies and smite foes
 </p>
 
-:class-paladin:{ .xxxxl }
+# **:class-paladin:**{ .x6l }<br> **Paladin**{ .chev-lr} { .align-center }
 
-# Paladin
+"*A promise made so deeply that it becomes divine in itself flows through a paladin, burning bright enough to inspire allies and smite foes.*"
+{ .quote .align-center }
 
-> *A promise made so deeply that it becomes divine in itself flows through a paladin, burning bright enough to inspire allies and smite foes.*
+§
+{ .quote .align-center }
 
-Paladins are united by their oaths to stand against the forces of annihilation and corruption. Whether sworn before a god's altar, in a sacred glade before nature spirits and fey beings, or in a moment of desperation and grief with the dead as the only witnesses, a Paladin's oath is a powerful bond. It is a source of power that turns a devout warrior into a blessed champion.
+Paladins are united by their oaths to stand against the forces of annihilation and corruption. Whether sworn before a god's altar, in a sacred glade before nature spirits, or in a moment of desperation and grief with the dead as the only witnesses, a Paladin's oath is a powerful bond. It is a source of power that turns a devout warrior into a blessed champion.
+{ .align-center }
 
-A Paladin swears to stand against corrupting influences and to hunt the forces of ruin wherever they lurk. Different Paladins focus on various aspects of these causes, but all are bound by the oaths that grant them power to do their sacred work.
+Paladins train to learn the skills of combat, mastering a variety of weapons and armor. Even so, their martial skills are secondary to the magical power they wield: power to heal the injured, smite their foes, and protect the helpless and those who fight at their side.
+{ .align-center }
 
-Paladins train to learn the skills of combat, mastering a variety of weapons and armour. Even so, their martial skills are secondary to the magical power they wield—power to heal the sick and injured, to smite their foes, and to protect the helpless and those who fight at their side.
+Almost by definition, the life of a Paladin is an adventuring life, for every Paladin lives on the front lines of the cosmic struggle against annihilation. Fighters are rare enough among the ranks of a world's armies, but even fewer people can claim the calling of a Paladin. When they do receive the call, these blessed folk turn from their former occupations and take up arms and magic.
+{ .align-center }
 
-Almost by definition, the life of a Paladin is an adventuring life, for every Paladin lives on the front lines of the cosmic struggle against annihilation. Fighters are rare enough among the ranks of a world's armies, but even fewer people can claim the calling of a Paladin. When they do receive the call, these blessed folk turn from their former occupations and take up arms and magic. Sometimes their oaths lead them into the service of the crown as leaders of elite groups of knights, but even then, their loyalty is first to their sacred oaths, not to crown and country.
+---
 
-Adventuring Paladins take their work seriously. A delve into an ancient ruin or a dusty crypt can be a quest driven by a higher purpose than the acquisition of treasure. Malign forces lurk in dungeons, and even the smallest victory against them can tilt the cosmic balance away from oblivion.
+## Core Trait
 
-## Core Trait { .hide }
+You have the following Core Traits
 
-!!! info "Core Paladin Traits"
+**Primary Ability** 
+:   :abl-str: Strength & :abl-cha: Charisma  
 
-    **Primary Ability:** :abl-str: Strength & :abl-cha: Charisma  
+**Hit Point Die** 
+:   :die-d10: D10 per Paladin level  
+    **HP at Level 1:** **10 + :abl-cons: Con. modifier**{ .calc }  
+    **HP per Paladin Level:** **6 + :abl-cons: Con. modifier**{ .calc }  
 
-    **Hit Point Die:** D10 per Paladin level  
-    **HP at Level 1:** 10 + :abl-cons: Con. modifier.  
-    **HP per Paladin Level:** 6 + :abl-cons: Con. modifier  
+**Saving Throw Proficiencies** 
+:   :abl-wis: Wisdom and :abl-cha: Charisma  
 
-    **Saving Throw Proficiencies:** :abl-wis: Wisdom and :abl-cha: Charisma  
+**Skill Proficiencies** 
+:   Choose 2: Athletics, Insight, Intimidation, Medicine, Persuasion, or Religion  
 
-    **Skill Proficiencies:** Choose 2: Athletics, Insight, Intimidation, Medicine, Persuasion, or Religion  
+**Weapon Proficiencies** 
+:   Simple weapons and Martial weapons  
 
-    **Weapon Proficiencies:** Simple weapons and Martial weapons  
+**Armour Training** 
+:   Light, Medium, and Heavy armour and Shields  
 
-    **Armour Training:** Light, Medium, and Heavy armour and Shields  
-
-    **Starting Equipment:** Choose A or B:  
+**Starting Equipment** 
+:   Choose A or B:  
     **(A)** Chain Mail, Shield, Longsword, 6 Javelins, Holy Symbol, Priest's Pack, and 90 SP, or  
     **(B)** 1.500 SP
 

@@ -7,39 +7,51 @@ title: "Class: Fighter"
 Fighters have mastered the art of combat, wielding weapons with unmatched skill and wearing armour like a second skin.
 </p>
 
-:class-fighter:{ .xxxxl }
+# **:class-fighter:**{ .x6l }<br> **Fighter**{ .chev-lr} { .align-center }
 
-# Fighter
+"*Fighters have mastered the art of combat, wielding weapons with unmatched skill and wearing armour like a second skin.*"
+{ .quote .align-center }
 
-> *Fighters have mastered the art of combat, wielding weapons with unmatched skill and wearing armour like a second skin.*
+§
+{ .quote .align-center }
 
-Fighters rule many battlefields. Questing knights, royal champions, elite soldiers, and hardened mercenaries—as Fighters, they all share an unparalleled prowess with weapons and armour. And they are well acquainted with death, both meting it out and staring it defiantly in the face.
+Fighters rule many battlefields. Questing knights, royal champions, elite soldiers, and hardened mercenaries—as Fighters, they all share an unparalleled prowess with weapons and armor. And they are well acquainted with death, both meting it out and defying it.
+{ .align-center }
 
-Fighters learn the basics of all combat styles. Every Fighter can swing an axe, fence with a rapier, wield a longsword or a greatsword, and use a bow. Fighters master various weapon techniques, allowing them to get the best use from a wide variety of weapons, and a well equipped Fighter always has the right tool at hand for any combat situation. Likewise, a Fighter is adept with shields and every form of armour. Beyond that basic degree of familiarity, each Fighter specializes in certain styles of combat. Some concentrate on archery, some on fighting with two weapons at once, and some on augmenting their martial skills with magic. This combination of broad general ability and extensive specialization makes Fighters superior combatants everywhere.
+Fighters master various weapon techniques, and a well-equipped Fighter always has the right tool at hand for any combat situation. Likewise, a Fighter is adept with every form of armor. Beyond that basic degree of familiarity, each Fighter specializes in certain styles of combat. Some concentrate on archery, some on fighting with two weapons at once, and some on augmenting their martial skills with magic. This combination of broad ability and extensive specialization makes Fighters superior combatants.
+{ .align-center }
 
-The dungeon delving, monster slaying, and other dangerous work common among adventurers is second nature for a Fighter. There are great risks but also great rewards: gold, magic weaponry, and glory.
+---
 
-## Core Trait { .hide }
+## Core Trait
 
-!!! info "Core Fighter Trait"
+As a Fighter, you have the following traits
 
-    **Primary Ability:** :abl-str: Strength or :abl-dex: Dexterity  
+**Primary Ability** 
+:   :abl-str: Strength or :abl-dex: Dexterity  
 
-    **Hit Point Die:** D10 per Fighter level  
-    **HP at Level 1:** 10 + :abl-cons: Con. modifier.  
-    **HP per Fighter Level:** 6 + :abl-cons: Con. modifier  
-    **Saving Throw Proficiencies:** :abl-str: Strength and :abl-cons: Constitution  
+**Hit Point Die** 
+:   :die-d10: D10 per Fighter level  
+    **HP at Level 1:** **10 + :abl-cons: Con. modifier**{ .calc }  
+    **HP per Fighter Level:** **6 + :abl-cons: Con. modifier**{ .calc }  
 
-    **Skill Proficiencies:** Choose 2: Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Persuasion, Perception, or Survival  
+**Saving Throw Proficiencies** 
+:   :abl-str: Strength and :abl-cons: Constitution  
 
-    **Weapon Proficiencies:** Simple and Martial weapons  
+**Skill Proficiencies** 
+:   Choose 2: Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Persuasion, Perception, or Survival  
 
-    **Armour Training:** Light, Medium, and Heavy armour and Shields  
+**Weapon Proficiencies** 
+:   Simple and Martial weapons  
 
-    **Starting Equipment:** Choose A, B, or C:  
+**Armour Training** 
+:   Light, Medium, and Heavy armour and Shields  
+
+**Starting Equipment** 
+:   Choose A, B, or C:  
     **(A)** Chain Mail, Greatsword, Flail, 8 Javelins, Dungeoneer's Pack, and 40 SP;  
     **(B)** Studded Leather Armour, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Dungeoneer's Pack, and 110 SP; or  
-    **(C)** 1.550 SP |
+    **(C)** 1.550 SP
 
 ## Becoming a Fighter...
 

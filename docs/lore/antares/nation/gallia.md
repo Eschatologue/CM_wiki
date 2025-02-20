@@ -3,7 +3,7 @@ search:
   boost: 0.25
 ---
 
-:nation-gallia:{ .xxxxl }
+:nation-gallia:{ .x6l }
 
 # Gallia
 

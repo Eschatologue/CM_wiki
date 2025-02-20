@@ -7,39 +7,53 @@ title: "Class: Cleric"
 Clerics are representatives of the gods they worship, wielding potent divine magic for good or ill
 </p>
 
-:class-cleric:{ .xxxxl }
+# **:class-cleric:**{ .x6l }<br> **Cleric**{ .chev-lr} { .align-center }
 
-# Cleric
+"*Clerics are representatives of the gods they worship, wielding potent divine magic for good or ill*"
+{ .quote .align-center }
 
-> *Clerics are representatives of the gods they worship, wielding potent divine magic for good or ill*
+§
+{ .quote .align-center }
 
 Clerics draw power from the realms of the gods and harness it to work miracles. Blessed by a deity, a pantheon, or another immortal entity, a Cleric can reach out to the divine magic of the Outer Planes—where gods dwell—and channel it to bolster people and battle foes.
+{ .align-center }
 
 Because their power is a divine gift, Clerics typically associate themselves with temples dedicated to the deity or other immortal force that unlocked their magic. Harnessing divine magic doesn't rely on specific training, yet Clerics might learn prayers and rites that help them draw on power from the Outer Planes.
+{ .align-center }
 
 Not every member of a temple or shrine is a Cleric. Some priests are called to a simple life of temple service, carrying out their devotion through prayer and rituals, not through magic. Many mortals claim to speak for the gods, but few can marshal the power of those gods the way a Cleric can.
+{ .align-center }
 
-## Core Trait { .hide }
+---
 
-!!! info "Core Cleric Traits"
+## Core Trait 
 
-    **Primary Ability:** :abl-wis: Wisdom  
+As a Cleric, you have the following traits.
 
-    **Hit Point Die:** D8 per Cleric level  
-    **HP at Level 1:** 8 + :abl-cons: Con. modifier.  
-    **HP per Cleric Level:** 5 + :abl-cons: Con. modifier  
+**Primary Ability** 
+:   :abl-wis: Wisdom  
 
-    **Saving Throw Proficiencies:** :abl-wis: Wisdom and :abl-cha: Charisma  
+**Hit Point Die** 
+:   :die-d8: D8 per Cleric level  
+    **HP at Level 1:** **8 + :abl-cons: Con. modifier**{ .calc }  
+    **HP per Cleric Level:** **5 + :abl-cons: Con. modifier**{ .calc }  
 
-    **Skill Proficiencies:** Choose 2: History, Insight, Medicine, Persuasion, or Religion  
+**Saving Throw Proficiencies** 
+:   :abl-wis: Wisdom and :abl-cha: Charisma  
 
-    **Weapon Proficiencies:** Simple weapons  
+**Skill Proficiencies** 
+:   Choose 2: History, Insight, Medicine, Persuasion, or Religion  
 
-    **Armour Training:** Light and Medium armour and Shields  
+**Weapon Proficiencies** 
+:   Simple weapons  
 
-    **Starting Equipment:** Choose **A** or **B**:  
+**Armour Training** 
+:   Light and Medium armour and Shields  
+
+**Starting Equipment** 
+:   Choose **A** or **B**:  
     **(A)** Chain Shirt, Shield, Mace, Holy Symbol, Priest's Pack, and 70 SP; or  
-    **(B)** 1.100 SP |
+    **(B)** 1.100 SP
 
 ## Becoming a Cleric...
 

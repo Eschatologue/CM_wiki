@@ -3,7 +3,7 @@ search:
   boost: 0.25
 ---
 
-:nation-albion:{ .xxxxl }
+:nation-albion:{ .x6l }
 
 # Albion  
 

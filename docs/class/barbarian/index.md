@@ -7,39 +7,51 @@ title: "Class: Barbarian"
 The strong embrace the wild that hides inside - keen instincts, primal physicality, and most of all, an unbridled, unquenchable rage.
 </p>
 
-:class-barbarian:{ .xxxxl }
+# **:class-barbarian:**{ .x6l }<br> **Barbarian**{ .chev-lr} { .align-center }
 
-# Barbarian
+"*The strong embrace the wild that hides inside - keen instincts, primal physicality, and most of all, an unbridled, unquenchable rage.*"
+{ .quote .align-center }
 
-> *The strong embrace the wild that hides inside - keen instincts, primal physicality, and most of all, an unbridled, unquenchable rage.*
+§
+{ .quote .align-center }
 
-Barbarians are mighty warriors who are powered by primal forces of the multiverse that manifest as a **:ui-rage: Rage**{ .em }. More than a mere emotion—and not limited to anger—this **:ui-rage: Rage**{ .em } is an incarnation of a predator's ferocity, a storm's fury, and a sea's turmoil.
+Barbarians are mighty warriors who are powered by primal forces of the multiverse that manifest as a Rage. More than a mere emotion—and not limited to anger—this Rage is an incarnation of a predator's ferocity, a storm's fury, and a sea's turmoil.
+{ .align-center }
 
-Some Barbarians personify their **:ui-rage: Rage**{ .em } as a fierce spirit or revered forebear. Others see it as a connection to the pain and anguish of the world, as an impersonal tangle of wild magic, or as an expression of their own deepest self. For every Barbarian, their **:ui-rage: Rage**{ .em } is a power that fuels not just battle prowess, but also uncanny reflexes and heightened senses.
+Some Barbarians personify their Rage as a fierce spirit or revered forebear. Others see it as a connection to the pain and anguish of the world, as an impersonal tangle of wild magic, or as an expression of their own deepest self. For every Barbarian, their Rage is a power that fuels not just battle prowess, but also uncanny reflexes and heightened senses.
+{ .align-center }
 
 Barbarians often serve as protectors and leaders in their communities. They charge headlong into danger so those under their protection don't have to. Their courage in the face of danger makes Barbarians perfectly suited for adventure.
+{ .align-center }
 
-#### Core Barbarian Trait { .hide }
+---
 
-## Core Trait { .hide }
+## Core Trait
 
-!!! info "Core Barbarian Trait"
+As a Barbarian, you have the following traits
 
-    **Primary Ability:** :abl-str: Strength
+**Primary Ability** 
+:   :abl-str: Strength
 
-    **Hit Point Die:** D12 per Barbarian level  
-    **HP at Level 1:** 12 + :abl-cons: Con. modifier  
-    **HP per Barbarian Level:** 7 + :abl-cons: Con. modifier  
+**Hit Point Die** 
+:   :die-d12: D12 per Barbarian level  
+    **HP at Level 1:** **12 + :abl-cons: Con. modifier**{ .calc }  
+    **HP per Barbarian Level:** **7 + :abl-cons: Con. modifier**{ .calc }  
 
-    **Saving Throw Proficiencies:** :abl-str: Strength and :abl-cons: Constitution
+**Saving Throw Proficiencies** 
+:   :abl-str: Strength and :abl-cons: Constitution
 
-    **Skill Proficiencies:** Choose 2: Animal Handling, Athletics, Intimidation, Nature, Perception, or Survival
+**Skill Proficiencies** 
+:   Choose 2: Animal Handling, Athletics, Intimidation, Nature, Perception, or Survival
 
-    **Weapon Proficiencies:** Simple and Martial weapons
+**Weapon Proficiencies** 
+:   Simple and Martial weapons
 
-    **Armour Training:** Light and Medium armour and Shields
+**Armour Training** 
+:   Light and Medium armour and Shields
 
-    **Starting Equipment:** Choose **A** or **B**:  
+**Starting Equipment** 
+:   Choose **A** or **B**:  
     **(A)** Greataxe, 4 Handaxes, Explorer's Pack, and 150 SP; or  
     **(B)** 750 SP  
 

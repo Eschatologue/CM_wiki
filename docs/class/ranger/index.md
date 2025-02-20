@@ -1,47 +1,58 @@
 ---
 icon: class/ranger
 title: "Class: Ranger"
+status: homebrew
 ---
-
-!!! homebrew "Not Official"
-
-    This version of Ranger is a modified version of the 2024 PHB. Some changes are made to buff ranger's to be more appealing as a class.
 
 <p style="display:none">
 Rangers are unrivalled scouts and trackers, honing a deep connection with nature in order to hunt their favoured prey
 </p>
 
-:class-ranger:{ .xxxxl }
+# **:class-ranger:**{ .x6l }<br> **Ranger**{ .chev-lr} { .align-center }
 
-# Ranger
+"*Rangers are unrivalled scouts and trackers, honing a deep connection with nature in order to hunt their favoured prey.*"
+{ .quote .align-center }
 
-> *Rangers are unrivalled scouts and trackers, honing a deep connection with nature in order to hunt their favoured prey.*
+§
+{ .quote .align-center }
 
 Far from the bustle of cities, amid the trees of trackless forests and across wide plains, Rangers keep their unending watch.
+{ .align-center }
 
 Wanderers of the wilderness, Rangers specialize in facing monsters that threaten the world. Rangers learn to track their quarry as a predator does, moving stealthily through the wilds and hiding themselves in brush and rubble.
+{ .align-center }
 
 Thanks to their connection with nature, Rangers can also cast spells that harness the primal powers of the wilderness. A Ranger's talents and magic are honed with deadly focus on the task of protecting the world from the ravages of monsters and tyrants.
+{ .align-center }
 
-## Core Trait { .hide }
+---
 
-!!! info "Core Ranger Trait"
+## Core Trait
 
-    **Primary Ability:** :abl-str: Strength or :abl-dex: Dexterity, and :abl-wis: Wisdom  
+You have the following Core Traits
 
-    **Hit Point Die:** D10 per Ranger level  
-    **HP at Level 1:** 8 + :abl-cons: Con. modifier.  
-    **HP per Cleric Level:** 5 + :abl-cons: Con. modifier  
+**Primary Ability** 
+:   :abl-str: Strength or :abl-dex: Dexterity, and :abl-wis: Wisdom  
 
-    **Saving Throw Proficiencies:** :abl-str: Strength and :abl-dex: Dexterity  
+**Hit Point Die** 
+:   :die-d10: D10 per Ranger level  
+    **HP at Level 1:** **8 + :abl-cons: Con. modifier**{ .calc }  
+    **HP per Cleric Level:** **5 + :abl-cons: Con. modifier**{ .calc }
 
-    **Skill Proficiencies:** Choose 3: Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, or Survival  
+**Saving Throw Proficiencies** 
+:   :abl-str: Strength and :abl-dex: Dexterity  
 
-    **Weapon Proficiencies:** Simple and Martial weapons  
+**Skill Proficiencies** 
+:   Choose 3: Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, or Survival  
 
-    **Armour Training:** Light and Medium armour and Shields  
+**Weapon Proficiencies** 
+:   Simple and Martial weapons  
 
-    **Starting Equipment** Choose A or B:  
+**Armour Training** 
+:   Light and Medium armour and Shields  
+
+**Starting Equipment**
+:   Choose A or B:  
     **(A)** Studded Leather Armour, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Druidic Focus (sprig of mistletoe), Explorer's Pack, and 70 SP; or  
     **(B)** 1,500 SP
 

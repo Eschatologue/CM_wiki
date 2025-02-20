@@ -4,6 +4,6 @@ search:
 status: draft
 ---
 
-:nation-soterrano:{ .xxxxl }
+:nation-soterrano:{ .x6l }
 
 # Soterrano

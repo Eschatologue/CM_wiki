@@ -47,7 +47,7 @@ Moreover, whenever you are subjected you to a spell or magical effect that allow
 
 ### Level 11: Spellbane
 
-You are an unparalleled hunter of mages. Whenever you hit a creature with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } (Damage), you can expend a level 1+ spell slot to deal bonus :dmg-force: Force damage to your target equal to 1d8 per level of the spell slot you expended. 
+You are an unparalleled hunter of mages. Whenever you hit a creature with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } (Damage), you can expend a level 1+ spell slot to deal bonus :dmg-force: Force damage to your target equal to 1:die-d8: D8 per level of the spell slot you expended. 
 
 Moreover, when you cast [:spell-lv3: Dispel Magic] or [:spell-lv3: Counterspell], it gains the following effects.
 

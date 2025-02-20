@@ -3,7 +3,7 @@ search:
   boost: 0.25
 ---
 
-:nation-myrkheim:{ .xxxxl }
+:nation-myrkheim:{ .x6l }
 
 # Myrkheim
 

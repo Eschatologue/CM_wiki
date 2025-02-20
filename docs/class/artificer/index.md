@@ -7,35 +7,48 @@ title: "Class: Artificer"
 A Magical Crafter and an Inventor of Wonders
 </p>
 
-:class-artificer:{ .xxxxl }
+# **:class-artificer:**{ .x6l }<br> **Artificer**{ .chev-lr} { .align-center }
 
-# Artificer
+"*A Magical Crafter and an Inventor of Wonders*"
+{ .align-center .quote }
 
-> *A Magical Crafter and an Inventor of Wonders*
+§
+{ .quote .align-center }
 
 Masters of unlocking magic in everyday objects, Artificers are supreme inventors. They see magic as a complex system waiting to be decoded and controlled. Artificers use tools to channel arcane power, crafting magical objects. To cast a spell, an Artificer could use alchemist's supplies to create a potent elixir, calligrapher's supplies to inscribe a sigil of power on an ally's armour, or tinker's tools to craft a temporary charm. The magic of Artificers is tied to their tools and their talents.
+{ .align-center }
 
-## Core Trait { .hide }
+---
 
-!!! info "Core Artificer Traits"
+## Core Trait 
 
-    **Primary Ability:** :abl-int: Intelligence
+As an Artificer, you have the following traits
 
-    **Hit Point Die:** D8 per Artificer level  
-    **HP at Level 1:** 8 + :abl-cons: Con. modifier  
-    **HP per Artificer Level:** 5 + :abl-cons: Con. modifier
+**Primary Ability** 
+:   :abl-int: Intelligence
 
-    **Saving Throw Proficiencies:** :abl-cons: Constitution and :abl-int: Intelligence
+**Hit Point Die** 
+:   :die-d8: D8 per Artificer level  
+    **HP at Level 1:** **8 + :abl-cons: Con. modifier**{ .calc }  
+    **HP per Artificer Level:** **5 + :abl-cons: Con. modifier**{ .calc }
 
-    **Skill Proficiencies:** Choose 2: Arcana, History, Investigation, Medicine, Nature, Perception, or Sleight of Hand.
+**Saving Throw Proficiencies** 
+:   :abl-cons: Constitution and :abl-int: Intelligence
 
-    **Weapon Proficiencies:** Simple weapons
+**Skill Proficiencies** 
+:   Choose 2: Arcana, History, Investigation, Medicine, Nature, Perception, or Sleight of Hand.
 
-    **Tool Proficiencies:** Thieves' Tools, Tinker's Tools and choose 1 type of Artisan's Tools.
+**Weapon Proficiencies** 
+:   Simple weapons
 
-    **Armour Training:** Light and Medium armour and Shields
+**Tool Proficiencies** 
+:   Thieves' Tools, Tinker's Tools and choose 1 type of Artisan's Tools.
 
-    **Starting Equipment:** Choose **A** or **B**:  
+**Armour Training** 
+:   Light and Medium armour and Shields
+
+**Starting Equipment** 
+:   Choose **A** or **B**:  
     **(A)** Studded Leather Armour, Dagger, Thieves' Tools, Tinker's Tools, Dungeoneer's Pack, and 160 SP; or  
     **(B)** 1.500 SP
 
