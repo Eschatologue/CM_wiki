@@ -11,7 +11,7 @@ Forge Serenity into Unstoppable Force
 
 > *Forge Serenity into Unstoppable Force*
 
-For Barbarians who walk the Path of Tranquillity, **:ui-rage: Rage**{ .em } is a bottomless well of calm and reason. They draw upon this power to achieve extraordinary focus in battle and they channel this clarity into devastating effects.
+For Barbarians who walk the Path of Tranquillity, Rage is a bottomless well of calm and reason. They draw upon this power to achieve extraordinary focus in battle and they channel this clarity into devastating effects.
 
 ### Level 3: Combat Superiority
 

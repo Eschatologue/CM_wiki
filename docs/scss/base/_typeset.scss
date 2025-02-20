@@ -9,7 +9,7 @@
     --default-font-weight: 400;
 
     @media screen and (max-width: 720px) {
-        --default-font-size: #{convert.px2rem(12px)};
+        --default-font-size: #{convert.px2rem(13px)};
     }
 }
 

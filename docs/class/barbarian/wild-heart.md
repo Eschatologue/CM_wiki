@@ -10,7 +10,7 @@ Walk in Community with the Animal World
 
 > *Walk in Community with the Animal World*
 
-Barbarians who follow the Path of the Wild Heart view themselves as kin to animals. These Barbarians learn magical means to communicate with animals, and their **:ui-rage: Rage**{ .em } heightens their connection to animals as it fills them with supernatural might.
+Barbarians who follow the Path of the Wild Heart view themselves as kin to animals. These Barbarians learn magical means to communicate with animals, and their Rage heightens their connection to animals as it fills them with supernatural might.
 
 ### Level 3: Animal Speaker
 

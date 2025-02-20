@@ -25,7 +25,7 @@ The number you need to roll for a Critical Hit against Aberration, Celestial, El
 
 Your ability to conjure spatial anomalies is improved, detailed below.
 
-**Teleportation**{ .inl } When you deal damage to a target with your Fighting Spirit, you can force the target to make a **:d20-save: CHA save**{ .d20 } (DC `8 + Wisdom modifier + Proficiency Bonus`). On a failed save, you Teleport the target up to 10 feet to an unoccupied space you can see.
+**Teleportation**{ .inl } When you deal damage to a target with your Fighting Spirit, you can force the target to make a **:d20-save: CHA save**{ .d20 } (`DC = 8 + Wisdom modifier + Proficiency Bonus`). On a failed save, you Teleport the target up to 10 feet to an unoccupied space you can see.
 { .indt }
 
 **Spatial Jump**{ .inl } As a **:rsc-b: Bonus Action**{ .rsc }, you can bend space arround you and Teleport up to 30 feet to an unoccupied space you can see. You can't do so again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**, unless you spend 1 use of your Fighting Spirit.
