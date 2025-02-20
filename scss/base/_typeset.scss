@@ -1,0 +1,166 @@
+@use '../utility/convert';
+@use '../palette/accent';
+
+/*-------------------------------------------------------
+    Typeset Variables
+--------------------------------------------------------*/
+.md-typeset {
+    --default-font-size: #{convert.px2rem(16px)};
+    --default-font-weight: 400;
+
+    @media screen and (max-width: 720px) {
+        --default-font-size: #{convert.px2rem(13px)};
+    }
+}
+
+/*-------------------------------------------------------
+    Basic Typesets
+--------------------------------------------------------*/
+.md-typeset {
+    font-size: var(--default-font-size);
+    font-weight: var(--default-font-weight);
+    color: var(--md-gbl-text-color);
+
+    strong {
+        font-weight: 600;
+        letter-spacing: calc(var(--default-font-size) * 0.0125);
+        color: var(--md-gbl-text-color-strong);
+    }
+
+    p {
+        margin: convert.px2rem(8px) 0;
+    }
+
+    ul,
+    ol {
+        margin: convert.px2rem(0px) 0;
+    }
+
+    li {
+        margin: convert.px2rem(-4px) 0;
+    }
+
+    dl,
+    dd {
+        margin: convert.px2rem(-2px) 0;
+    }
+
+    dd {
+        margin-left: convert.px2rem(-8px);
+    }
+
+    blockquote strong {
+        color: var(--md-default-fg-color--light) !important;
+    }
+
+    a:is(:focus, :hover) {
+        transition: background-color 250ms;
+        border-radius: convert.px2em(3px);
+        color: var(--md-gbl-link-color);
+        background-color: var(--md-primary-fg-color--transparent);
+    }
+}
+
+/*-------------------------------------------------------
+    Headings
+--------------------------------------------------------*/
+
+.md-typeset {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        abbr {
+            border-bottom: none !important;
+        }
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5 {
+        font-weight: 500;
+        font-family: var(--heading-font);
+        text-transform: uppercase;
+        letter-spacing: calc(var(--default-font-size) * 0.03);
+    }
+
+    h3,
+    h4,
+    h5 {
+        text-transform: none !important;
+        font-variant: small-caps !important;
+    }
+
+    h1 {
+        font-size: calc(var(--default-font-size) * 2);
+        margin: #{convert.px2rem(8px)} 0;
+        margin-top: 0;
+    }
+
+    h2 {
+        font-size: calc(var(--default-font-size) * 1.75);
+        border-bottom: #{convert.px2rem(2px)} solid var(--md-primary-fg-color--light);
+        margin: #{convert.px2rem(16px)} 0 #{convert.px2rem(4px)};
+        padding-bottom: #{convert.px2rem(2px)};
+    }
+
+    h3 {
+        color: var(--md-gbl-text-color-strong);
+        font-size: calc(var(--default-font-size) * 1.5);
+        margin: #{convert.px2rem(12px)} 0;
+        border-bottom: #{convert.px2rem(2px)} solid var(--md-default-wht--025);
+        padding-bottom: #{convert.px2rem(4px)};
+    }
+
+    h4 {
+        color: var(--md-gbl-text-color-strong);
+        font-size: calc(var(--default-font-size) * 1.25);
+        margin: #{convert.px2rem(12px)} 0 #{convert.px2rem(-4px)};
+    }
+
+    h5 {
+        font-size: var(--default-font-size);
+        margin-top: #{convert.px2rem(-4px)};
+        margin-bottom: #{convert.px2rem(-12px)};
+    }
+}
+
+/*-------------------------------------------------------
+    Additional Styles
+--------------------------------------------------------*/
+
+.md-typeset hr {
+    border-bottom: #{convert.px2em(4px)} dashed var(--md-default-wht--0125);
+    margin: #{convert.px2em(14px)} 0;
+}
+
+/*-------------------------------------------------------
+    Horizontal Description List
+-------------------------------------------------------*/
+
+.md-typeset dl {
+    font-size: calc(var(--default-font-size) * 0.9);
+    display: grid;
+    grid-template-columns: #{calc((var(--default-font-size) * 8) * 0.875)} auto;
+    gap: convert.px2rem(12px) convert.px2rem(8px) !important; // row gap and column gap
+    align-items: center;
+
+    dt {
+        text-align: right;
+    }
+
+    dd {
+        border-left: #{convert.px2rem(4px)} solid var(--md-code-bg-color);
+        border-radius: convert.px2rem(4px);
+        padding-left: convert.px2rem(8px);
+        margin: convert.px2em(0px) !important;
+        p {
+            margin-top: convert.px2em(3px) !important;
+            margin-bottom: convert.px2em(3px) !important;
+        }
+    }
+}
