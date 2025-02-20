@@ -128,21 +128,23 @@
 .md-typeset dl {
   display: grid;
   grid-template-columns: calc(var(--default-font-size) * 8.5 * 0.9) auto;
-  gap: 0.6rem 0.4rem !important;
+  gap: 0.6rem 0.4rem;
   align-items: center;
 }
 .md-typeset dl dt {
   align-items: start !important;
-  text-align: center;
+  text-align: right;
 }
 .md-typeset dl dd {
   border-left: 0.15rem dotted var(--md-default-wht--025);
-  padding-left: 0.5em !important;
-  margin: 0em !important;
+  padding-left: 0.4rem;
+  margin: 0;
 }
 .md-typeset dl dd p {
-  margin-top: 0.1875em !important;
-  margin-bottom: 0.1875em !important;
+  margin: 0.15rem 0;
+}
+.md-typeset dl.center-style dt {
+  text-align: center;
 }
 
 /*------------------------------------------------------- 
