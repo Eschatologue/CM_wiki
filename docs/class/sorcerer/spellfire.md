@@ -3,12 +3,12 @@ title: "Subclass: Spellfire (Sorcerer)"
 ---
 
 <p style="display:none">
-Unleash Pure, Unfiltered, Arcane Power
+Radiate Raw Magic Potential
 </p>
 
-# Arcane Soul
+# Spellfire Sorcery
 
-> *Unleash Pure, Unfiltered, Arcane Power*
+> *Radiate Raw Magic Potential*
 
 Your sorcerous power are drawn from an innate connection with the Weave, the very foundation of magic itself. Where a wizard would tap into the Weave through precise incanatation and careful study, you are the one with it, shaping it through sheer instinct and willpower.
 
