@@ -15,8 +15,6 @@ You are skilled in stealth and surviving far from the streets of a city, allowin
 
 Ambusher, spy, bounty hunter — these are just a few of the roles that Scouts assume as they range the world.
 
-> Written by Spaghetti0
-
 ### Level 3: Skirmisher
 
 You are difficult to pin down during a fight. When a creature Moves into a space within 5 feet of you or ends its turn there, you can use your **:rsc-r: Reaction**{ .rsc } to Move up to half your Speed. This Movement doesn't provoke :rsc-r: Opportunity Attacks.

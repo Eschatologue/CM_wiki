@@ -27,9 +27,7 @@ You have honed your skills in one to one battles with brash confidence.
 
 **Dueling**{ .inl } You also gain an additional way to use your Sneak Attack; you don't need **:d20-adv: Advantage**{ .d20 } on the attack roll to use your Sneak Attack against a creature if you are within 5 feet of it, no other creatures are within 5 feet of you, and you don't have **:d20-dis: Disadvantage**{ .d20 } on the attack roll. All the other rules for Sneak Attack still apply to you. 
 
-### Level 3: Suave Defence
-
-Your brash confidence allows you to avoid harm. While you aren't wearing any armour or wielding a Shield, your base Armour Class equals 10 plus your Dexterity and Charisma modifiers.
+**Suave Defence**{ .inl } While you aren't wearing any armour or wielding a Shield, your base Armour Class equals to 10 plus :abl-dex: Dexterity and :abl-cha: Charisma modifiers.
 
 ### Level 9: Panache
 
