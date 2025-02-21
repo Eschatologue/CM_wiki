@@ -35,7 +35,7 @@ Your [:spell-lv1: Hunter's Mark] spell improves in the following ways:
 
 **Slayer's Strike**{ .inl } Once per turn when you deal the extra damage of your Hunter's Mark, the damage increases by 1d6.
 
-**Hunter's Sense**{ .inl } When you mark a creature, you immediately learn whether it has any damage :dmg-imm: Immunities, **:dmg-res: Resistance**{ .em }s, or :dmg-vul: Vulnerabilities and what they are. If the creature is hidden from Divination magic, you sense that it has no damage :dmg-imm: Immunities, **:dmg-res: Resistance**{ .em }s, or :dmg-vul: Vulnerabilities.
+**Hunter's Sense**{ .inl } When you mark a creature, you immediately learn whether it has any damage **:dmg-imm: Immunity**, **:dmg-res: Resistance**, or **:dmg-vul: Vulnerability** and what they are. If the creature is hidden from Divination magic, you sense that it has none of the aforementioned.
 
 ### Level 3: Slayer's Cunning
 
@@ -45,13 +45,13 @@ You are always prepared to hunt. You gain the [:class-phb24-ranger: Slayer I](..
 
 *You gain extra resilience against your prey's assaults on your mind and body.*
 
-Whenever the target of your [:spell-lv1: Hunter's Mark] forces you to make a, ability check or saving throw, you gain a bonus to your roll equal to 1d6. This bonus increases when you reach level 13 (d8) and level 20 (d10).
+Whenever the target of your [:spell-lv1: Hunter's Mark] forces you to make an ability check or saving throw, you gain a bonus to the roll equals to your Wisdom modifier.
 
 ### Level 11: Slayer's Prey Improvement
 
 Your [:spell-lv1: Hunter's Mark] spell improves in the following ways:
 
-**Bypass**{ .inl } Your attacks Weapon attack and **:rsc-a: Unarmed Strike**{ .rsc } against the spell's target ignores the target's **:dmg-res: Resistance**{ .em }, and :dmg-imm: Immunity is treated as **:dmg-res: Resistance**{ .em }.
+**Bypass**{ .inl } Your attacks Weapon attack and **:rsc-a: Unarmed Strike**{ .rsc } against the spell's target ignores the target's **:dmg-res: Resistance**, and **:dmg-imm: Immunity** is treated as **:dmg-res: Resistance**.
 
 **Slayer's Strike Improvement**{ .inl } The extra damage of your Slayer's Strike increases to 2d6.
 
@@ -59,9 +59,9 @@ Your [:spell-lv1: Hunter's Mark] spell improves in the following ways:
 
 *You gain the ability to counterattack when your prey tries to sabotage you.*
 
-When you see your the target of your [:spell-lv1: Hunter's Mark] attempt to cast a spell, teleport, or use another supernatural or magical ability from its stat block, you can make a single weapon attack against it as a reaction. On hit, the spell's target must succeed on a Wisdom saving throw against your Spell Save DC, or its spell, teleport, or other ability is thwarted and fails to take effect.
+When you see your the target of your [:spell-lv1: Hunter's Mark] attempt to cast a spell, teleport, or use another supernatural or magical ability from its stat block, you can make a single weapon attack against it as a **:rsc-r: Reaction**{ .rsc }. On hit, the spell's target must succeed on a **:d20-save: Wis. save**{ .rsc } against your Spell Save DC, or its spell, teleport, or other ability is thwarted and fails to take effect.
 
-When you use this feature and your attack hits, you can choose to instantly end [:spell-lv1: Hunter's Mark] to cause the creature to automatically fail its Wisdom saving throw.
+When you use this feature and your attack hits, you can choose to instantly end [:spell-lv1: Hunter's Mark] to cause the creature to automatically fail its **:d20-save: Wis. save**{ .rsc }.
 
 :material-book-arrow-up: Updated by *Eschatologue*
 { .author }

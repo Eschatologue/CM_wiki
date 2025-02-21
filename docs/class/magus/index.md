@@ -175,7 +175,7 @@ If your attack *misses*, the spell *fails* and has no effect. On a hit, the spel
 **:spell-conc: Concentration**{ .inl } If the spell requires your Concentration, you must Concentrate on it as soon as it takes effect on hit.
 { .indt }
 
-**:d20-save: Saving Throw**{ .inl } If the spell requires a ** :d20-save: Saving Throw** when cast, the target makes the first save at a **:d20-dis: Disadvantage**{ .d20 } on hit. On a Critical Hit, the target automatically fails the save. Other target (if any) make this save as normal.
+**:d20-save: Saving Throw**{ .inl } If the spell requires a **:d20-save: Saving Throw**{ .d20 } when cast, the target makes the first save at a **:d20-dis: Disadvantage**{ .d20 } on hit. On a Critical Hit, the target automatically fails the save. Other target (if any) make this save as normal.
 { .indt }
 
 **:d20-attack: Attack Roll**{ .inl } If the spell requires an attack roll, it instantly take effect when you hit with a weapon attack.
