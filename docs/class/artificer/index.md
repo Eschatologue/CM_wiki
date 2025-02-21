@@ -22,7 +22,7 @@ Masters of unlocking magic in everyday objects, Artificers are supreme inventors
 
 ## Core Trait 
 
-As an Artificer, you have the following traits
+This class has the following Core Traits.
 
 **Primary Ability** 
 :   :abl-int: Intelligence

@@ -22,6 +22,9 @@ Feared and respected by many, those who wield both blade and spell are collectiv
 With this unique discipline, they channel their spells through their weapons, fusing magic with every strike. Their heightened senses can detect the weave of arcane energy in the world around them, and they can even sever spells from the air before they even manifest.
 { .align-center }
 
+:material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*
+{ .quote .align-center }
+
 ---
 
 ## Core Trait
@@ -103,7 +106,7 @@ You learn the signature enchantment of the Magi, marking you as a member of thei
 Objects in your **Arcane Armoury** gain the following benefits:
 
 - They count as Magical Weapons, Shields, or sets of Armour.
-- You can use your Intelligence, in place of Dexterity, when calculating Armour Class in this Light and Medium armour, so long as you do not already add it to your Armour Class.
+- You can use your Intelligence, in place of Dexterity, when calculating Armour Class in this Light and Medium armour, so long as you do not already add it to your Armour Class (e.g, Half Plate Armor ACs would be `15 + INT modifier` instead of `15 + DEX modifier`)
 - As a **:rsc-b: Bonus Action**{ .rsc }, you can shunt or summon any number of objects of your choice from within your Arcane Armoury, instantly equipping, donning, or doffing those items.
 
 Your Arcane Armoury can hold a total number of objects equal to 1 + your Intelligence modifier (a minimum of 1) at one time, but one of those objects must always be a weapon. If you perform this ritual on another object while the Armoury is at its maximum, one object of your choice is removed.
@@ -114,7 +117,7 @@ Your Arcane Armoury can hold a total number of objects equal to 1 + your Intelli
 
 ### Level 1: Fighting Style
 
-You gain a Fighting Style feat of your choice (see chapter 5 for feats). Instead of choosing one of those feats, you can choose the option below.
+You gain a [Fighting Style](../../option/feat/feat-fighting-style/index.md) feat of your choice. Instead of choosing one of those feats, you can choose the option below.
 
 **Arcane Warrior**{ .inl } You learn two Wizard cantrips of your choice (see the Wizard class's section for a list of Wizard spells). The chosen cantrips count as Magus spells for you, and Intelligence is your spellcasting ability for them. Whenever you gain a Magus level, you can replace one of these cantrips with another Wizard cantrip.
 
@@ -158,12 +161,12 @@ You can also use an Arcane Focus as a spellcasting focus.
 
 You learn to channel your spells through weapons. Once per turn, when you make an attack with a melee weapon from your Arcane Armoury, you can cast a Magus spell by expending a spell slot. The spell must meet the following criteria:
 
-- The Magus spell must have a casting time of an Action.
-- The Magus spell must require a single spell attack roll, force its target to make a saving throw, or affect a total number of hit points worth of creatures (like [:spell-lv1: Sleep]).
+- The Magus spell must have a casting time of an **:rsc-a: Action**{ .rsc }.
+- The Magus spell must require a single spell **:d20-attack: Attack Roll**{ .d20 }, force its target to make a **:d20-save: Saving Throw**{ .d20 }, or affect a total number of **:trt-hp: Hit Points**{ .nowrap } worth of creatures (like [:spell-lv1: Sleep]).
 
-If your attack misses, the spell fails and has no effect. On a hit, the spell takes effect immediately after the normal effects and damage of your weapon attack, using the rules below:
+If your attack *misses*, the spell *fails* and has no effect. On a hit, the spell takes effect immediately after the normal effects and damage of your weapon attack, using the rules below:
 
-**:aoe-rad: Area of Effect**{ .inl } If the spell targets an area greater than a 10-foot Cube, it takes effect as a 15-foot :aoe-cone: Cone originating from you, which must include your target, or it is contained to only affect the target of your attack (your choice on hit).
+**:aoe-rad: Area of Effect**{ .inl } If the spell targets an area greater than a **10-foot :aoe-cube: Cube**{ .calc }, it takes effect as a **15-foot :aoe-cone: Cone**{ .calc } originating from you, which must include your target, or it is contained to only affect the target of your attack (your choice on hit).
 { .indt }
 
 **:spell-lv0: Cantrips**{ .inl } The Cantrip does not deal damage. Instead, your weapon attack deals the damage type dealt by the cantrip, and applies the cantrip's additional effects, other than damage, on hit.
@@ -172,7 +175,7 @@ If your attack misses, the spell fails and has no effect. On a hit, the spell ta
 **:spell-conc: Concentration**{ .inl } If the spell requires your Concentration, you must Concentrate on it as soon as it takes effect on hit.
 { .indt }
 
-**:d20-save: Saving Throw**{ .inl } If the spell requires a saving throw when cast, the target makes the first save at a **:d20-dis: Disadvantage**{ .d20 } on hit. On a Critical Hit, the target automatically fails the save. Other target (if any) make this save as normal.
+**:d20-save: Saving Throw**{ .inl } If the spell requires a ** :d20-save: Saving Throw** when cast, the target makes the first save at a **:d20-dis: Disadvantage**{ .d20 } on hit. On a Critical Hit, the target automatically fails the save. Other target (if any) make this save as normal.
 { .indt }
 
 **:d20-attack: Attack Roll**{ .inl } If the spell requires an attack roll, it instantly take effect when you hit with a weapon attack.

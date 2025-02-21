@@ -36,7 +36,7 @@ You have the following Core Traits
 **Hit Point Die** 
 :   :die-d8: D8 per Rogue level  
     **HP at Level 1:** **8 + :abl-cons: Con. modifier**{ .calc }  
-    **HP per Cleric Level:** **5 + :abl-cons: Con. modifier**{ .calc }
+    **HP per Ranger Level:** **5 + :abl-cons: Con. modifier**{ .calc }
 
 **Saving Throw Proficiencies** 
 :   :abl-dex: Dexterity and :abl-int: Intelligence  

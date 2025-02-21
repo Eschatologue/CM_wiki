@@ -28,7 +28,7 @@ Not every member of a temple or shrine is a Cleric. Some priests are called to a
 
 ## Core Trait 
 
-As a Cleric, you have the following traits.
+This class has the following Core Traits.
 
 **Primary Ability** 
 :   :abl-wis: Wisdom  
@@ -58,6 +58,8 @@ As a Cleric, you have the following traits.
 ## Becoming a Cleric...
 
 ### As a Level 1 Cleric
+
+As a Level 1 Cleric you gain the following:
 
 - Gain all the traits in the Core Cleric Traits table.
 - Gain the Cleric's level 1 features, which are listed in the Cleric Features table.

@@ -26,9 +26,9 @@ A Bard's life is spent traveling, gathering lore, telling stories, and living on
 
 ---
 
-## Core Trait
+## Core Trait 
 
-As a Bard, you have the following traits
+This class has the following Core Traits.
 
 **Primary Ability**
 :   :abl-cha: Charisma  
@@ -61,6 +61,8 @@ As a Bard, you have the following traits
 ## Becoming a Bard...
 
 ### As a Level 1 Bard
+
+As a Level 1 Bard you gain the following:
 
 - Gain all the traits in the Core Bard Traits table.
 - Gain the Bard's level 1 features, which are listed in the Bard Features table.

@@ -26,9 +26,9 @@ Barbarians often serve as protectors and leaders in their communities. They char
 
 ---
 
-## Core Trait
+## Core Trait 
 
-As a Barbarian, you have the following traits
+This class has the following Core Traits.
 
 **Primary Ability** 
 :   :abl-str: Strength

@@ -55,12 +55,14 @@ As a Druid, you have the following traits.
 
 **Starting Equipment** 
 :   Choose A or B:  
-**(A)** Leather Armour, Shield, Sickle, Druidic Focus (Quarterstaff), Explorer's Pack, Herbalism Kit, and 90 SP; or  
-**(B)** 500 SP 
+    **(A)** Leather Armour, Shield, Sickle, Druidic Focus (Quarterstaff), Explorer's Pack, Herbalism Kit, and 90 SP; or  
+    **(B)** 500 SP 
 
 ## Becoming a Druid...
 
 ### As a Level 1 Druid
+
+As a Level 1 Druid you gain the following:
 
 - Gain all the traits in the Core Druid Traits table.
 - Gain the Druid's level 1 features, which are listed in the Druid Features table.
