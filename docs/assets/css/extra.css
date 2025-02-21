@@ -27,6 +27,9 @@
   letter-spacing: calc(var(--default-font-size) * 0.0125);
   color: var(--md-gbl-text-color-strong);
 }
+.md-typeset strong abbr {
+  border-bottom: none !important;
+}
 .md-typeset p {
   margin: 0.4rem 0;
 }
