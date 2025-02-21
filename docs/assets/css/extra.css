@@ -51,8 +51,10 @@
   color: var(--md-default-fg-color--light) !important;
 }
 .md-typeset a:is(:focus, :hover) {
-  transition: background-color 250ms;
+  transition: background-color 250ms, padding 100ms ease;
   border-radius: 0.1875em;
+  box-decoration-break: clone;
+  padding: 0 0.1875em;
   color: var(--md-gbl-link-color);
   background-color: var(--md-primary-fg-color--transparent);
 }
@@ -262,6 +264,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 
 .back, .calc {
   background-color: var(--md-code-bg-color);
+  box-decoration-break: clone;
   padding: 0.0625em 0.25em;
   border-radius: 0.375em;
   font-weight: 400 !important;
@@ -387,7 +390,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 }
 
 .dmg-posn {
-  color: hsl(102, 98%, 32%) !important;
+  color: hsl(102, 100%, 36%) !important;
   font-weight: 400 !important;
 }
 
@@ -422,7 +425,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 }
 
 .dmg-phys {
-  color: hsl(0, 0%, 78%) !important;
+  color: hsl(219, 28%, 88%) !important;
   font-weight: 400 !important;
 }
 
@@ -975,18 +978,26 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 
 /* Content Grids */
 .md-typeset .grid {
-  grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
   gap: 0.25em;
 }
-@media (max-width: 512px) {
-  .md-typeset .grid {
-    grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
-  }
+.md-typeset .grid.cards {
+  grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
 }
 .md-typeset .grid.cards > :is(ul, ol) > li,
 .md-typeset .grid.cards > .card {
-  border: 0.075rem solid var(--md-default-wht--0125);
-  padding: 0.5rem 0.8rem;
+  border: 0.1rem solid var(--md-default-fg-color--lightest) !important;
+  border-left: 0.2rem solid var(--md-default-fg-color--lightest) !important;
+  padding: 0.2rem 0.6rem;
+}
+@media (max-width: 920px) {
+  .md-typeset .grid.cards {
+    grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr));
+  }
+}
+@media (max-width: 720px) {
+  .md-typeset .grid.cards {
+    grid-template-columns: repeat(auto-fit, minmax(7.5rem, 1fr));
+  }
 }
 
 /*-------------------------------------------------------

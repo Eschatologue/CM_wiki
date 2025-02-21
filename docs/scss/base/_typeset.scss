@@ -57,8 +57,12 @@
     }
 
     a:is(:focus, :hover) {
-        transition: background-color 250ms;
+        transition: 
+            background-color 250ms,
+            padding 100ms ease; 
         border-radius: convert.px2em(3px);
+        box-decoration-break: clone;
+        padding: 0 convert.px2em(3px);
         color: var(--md-gbl-link-color);
         background-color: var(--md-primary-fg-color--transparent);
     }

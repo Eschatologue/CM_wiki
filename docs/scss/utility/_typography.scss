@@ -79,6 +79,7 @@
 
 .back {
     background-color: var(--md-code-bg-color);
+    box-decoration-break: clone;
     padding: convert.px2em(1px) convert.px2em(4px);
     border-radius: convert.px2em(6px);
     font-weight: 400 !important;
@@ -228,14 +229,14 @@ $damage-types: (
     acid: #7bac02,
     cold: #4fc3f7,
     fire: #e1822e,
-    posn: #33a202,
+    posn: #37b700,
     thun: #9b7fcc,
     psyc: #dd73ac,
     lgtn: #3393e8,
     necr: #3faf4f,
     radi: #ffee58,
     force: #ff7369,
-    phys: #c6c6c6,
+    phys: #d8dee9,
     heal: #65cdcd
 );
 

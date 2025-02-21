@@ -28,19 +28,28 @@
 // Ref: https://github.com/squidfunk/mkdocs-material/blob/master/src/templates/assets/stylesheets/main/modifiers/_grid.scss#L28
 
 .md-typeset .grid {
-    grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(280px), 1fr));
+    // grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(280px), 1fr));
     gap: convert.px2em(4px);
 
-    @media (max-width: 512px) {
-        grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(320px), 1fr));
-    }
+    // @media (max-width: 512px) {
+    //     grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(320px), 1fr));
+    // }
 
     &.cards {
+        grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(260px), 1fr));
         > :is(ul, ol) > li,
         > .card {
-            border: convert.px2rem(1.5px) solid var(--md-default-wht--0125);
-            padding: convert.px2rem(10px) convert.px2rem(16px);
+            border: convert.px2rem(2px) solid var(--md-default-fg-color--lightest) !important;
+            border-left: convert.px2rem(4px) solid var(--md-default-fg-color--lightest) !important;
+            padding: convert.px2rem(4px) convert.px2rem(12px);
         }
+        @media (max-width: 920px) {
+            grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(220px), 1fr));
+        }
+        @media (max-width: 720px) {
+            grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(150px), 1fr));
+        }
+
     }
 }
 
