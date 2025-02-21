@@ -25,6 +25,9 @@
         font-weight: 600;
         letter-spacing: calc(var(--default-font-size) * 0.0125);
         color: var(--md-gbl-text-color-strong);
+        abbr {
+            border-bottom: none !important;
+        }
     }
 
     p {

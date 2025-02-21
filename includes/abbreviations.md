@@ -18,6 +18,13 @@
 
 *[Difficult Terrain]: Every foot of movement in that space costs double.
 
+*[STR Save]: Strength saving throw
+*[DEX Save]: Dexterity saving throw
+*[CON Save]: Constitution saving throw
+*[WIS Save]: Wisdom saving throw
+*[INT Save]: Intelligence saving throw
+*[CHA Save]: Charisma saving throw
+
 <!--- Actions --->
 
 <!---

@@ -51,7 +51,7 @@ Whenever the target of your [:spell-lv1: Hunter's Mark] forces you to make an ab
 
 Your [:spell-lv1: Hunter's Mark] spell improves in the following ways:
 
-**Bypass**{ .inl } Your attacks Weapon attack and **:rsc-a: Unarmed Strike**{ .rsc } against the spell's target ignores the target's **:dmg-res: Resistance**, and **:dmg-imm: Immunity** is treated as **:dmg-res: Resistance**.
+**Bypass**{ .inl } Your Weapon attack and **:rsc-a: Unarmed Strike**{ .rsc } against the spell's target ignores the target's **:dmg-res: Resistance**, and **:dmg-imm: Immunity** is treated as **:dmg-res: Resistance**.
 
 **Slayer's Strike Improvement**{ .inl } The extra damage of your Slayer's Strike increases to 2d6.
 
@@ -59,9 +59,9 @@ Your [:spell-lv1: Hunter's Mark] spell improves in the following ways:
 
 *You gain the ability to counterattack when your prey tries to sabotage you.*
 
-When you see your the target of your [:spell-lv1: Hunter's Mark] attempt to cast a spell, teleport, or use another supernatural or magical ability from its stat block, you can make a single weapon attack against it as a **:rsc-r: Reaction**{ .rsc }. On hit, the spell's target must succeed on a **:d20-save: Wis. save**{ .rsc } against your Spell Save DC, or its spell, teleport, or other ability is thwarted and fails to take effect.
+When you see your the target of your [:spell-lv1: Hunter's Mark] attempt to cast a spell, teleport, or use another supernatural or magical ability from its stat block, you can make a single weapon attack against it as a **:rsc-r: Reaction**{ .rsc }. On hit, the spell's target must succeed on a **:d20-save: WIS Save**{ .rsc } against your Spell Save DC, or its spell, teleport, or other ability is thwarted and fails to take effect.
 
-When you use this feature and your attack hits, you can choose to instantly end [:spell-lv1: Hunter's Mark] to cause the creature to automatically fail its **:d20-save: Wis. save**{ .rsc }.
+When you use this feature and your attack hits, you can choose to instantly end [:spell-lv1: Hunter's Mark] to cause the creature to automatically fail its **:d20-save: WIS save**{ .rsc }.
 
 :material-book-arrow-up: Updated by *Eschatologue*
 { .author }
