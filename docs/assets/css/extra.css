@@ -210,7 +210,7 @@
 .jetbrains, .dmg-heal, .dmg-phys, .dmg-force, .dmg-radi, .dmg-necr, .dmg-lgtn, .dmg-psyc, .dmg-thun, .dmg-posn, .dmg-fire, .dmg-cold, .dmg-acid, .calc {
   font-size: calc(var(--default-font-size) * 0.8);
   font-family: var(--jetbrains);
-  word-spacing: -0.3rem;
+  word-spacing: -0.2rem;
 }
 
 /*-------------------------------------------------------
@@ -229,6 +229,11 @@
 
 .nowrap, .dmg-heal, .dmg-phys, .dmg-force, .dmg-radi, .dmg-necr, .dmg-lgtn, .dmg-psyc, .dmg-thun, .dmg-posn, .dmg-fire, .dmg-cold, .dmg-acid, .inl, .rsc, .d20 {
   white-space: nowrap;
+}
+@media screen and (max-width: 720px) {
+  .nowrap, .dmg-heal, .dmg-phys, .dmg-force, .dmg-radi, .dmg-necr, .dmg-lgtn, .dmg-psyc, .dmg-thun, .dmg-posn, .dmg-fire, .dmg-cold, .dmg-acid, .inl, .rsc, .d20 {
+    white-space: normal;
+  }
 }
 
 .smallcap {
