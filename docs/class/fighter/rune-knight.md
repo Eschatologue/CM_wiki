@@ -19,13 +19,11 @@ You can use magic runes to enhance your gear.
 
 **Inscription Equipment**{ .inl } You gain a set of Smith's Tools and you have proficiency with it. You also learn to speak, read and write Giant. 
 
-**Learning Runes**{ .inl } You learn two Runes of your choice, from among the Runes described below, and each time you gain a level in this class, you can replace one Rune you know with a different one from this feature. You learn an additional Rune when you reach certain levels in this class: level 7 (3 runes), level 10 (4 runes) and level 15 (5 runes).
+**Learning Runes**{ .inl } You learn two Runes of your choice, from among the Runes described below, and each time you gain a level in this class, you can replace one Rune you know with a different one from this feature. You learn an additional Rune when you reach certain levels in this class: level 7 (3 runes), level 10 (4 runes), level 15 (5 runes), and level 18 (6 runes).
 
 **Inscribing Runes**{ .inl } Whenever you finish a **:rest-long: Long Rest**, you can touch a number of objects equal to the number of Runes you know, and you inscribe a different Rune onto each of the objects. To be eligible, an object must be a Weapon, a suit of Armour, a Shield, a piece of jewelry, or something else you can wear or hold in a hand. Your Rune remains on an object until you finish a **:rest-long: Long Rest**, and an object can bear only one of your Runes at a time.
 
 **Rune Charge**( .inl ) You have a number of Rune Charge(s) up to your Constitution modifier. Rune Charge(s) is expended whenever you use it to **Invoke** a rune's effect or other class feature. You regain one expended use when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**.
-
-**Invoke**{ .inl } A Rune can be invoked for an effect detailed in its description.
 
 The following Runes are available to you when you learn a Rune. If a Rune has a level requirement, you must be at least that level in this class to learn the Rune. If a Rune requires a saving throw, your Rune Magic save DC equals `8 plus your Proficiency Bonus plus your Constitution modifier`.
 
@@ -57,7 +55,7 @@ The following Runes are available to you when you learn a Rune. If a Rune has a 
 :    This Rune's magic bestows a resilience reminiscent of a hill giant. While wearing or carrying an object that bears this Rune, you have **:d20-adv: Advantage**{ .d20 } on saves against having the Poisoned condition, and you have **:dmg-res: Resistance** against **:dmg-posn: Poison**{ .dmg-posn } damage.
 
     **Invoke**<br>_1 Rune Charge(s)_
-    :   You can invoke the Rune as a **:rsc-b: Bonus Action**{ .rsc }, gaining **:dmg-res: Resistance** to **:dmg-bldg: Bludgeoning**{ .dmg-pyhs }, **:dmg-prcg: Piercing**{ .dmg-pyhs }, and **:dmg-slsh: Slashing**{ .dmg-pyhs } damage for 1 minute.
+    :   You can invoke the Rune as a **:rsc-b: Bonus Action**{ .rsc }, gaining **:dmg-res: Resistance** to **:dmg-bldg: Bludgeoning**{ .dmg-phys }, **:dmg-prcg: Piercing**{ .dmg-phys }, and **:dmg-slsh: Slashing**{ .dmg-phys } damage for 1 minute.
 
 **Storm Rune** <br>_Level 7+_
 :   Using this rune, you can glimpse the future like a storm giant seer. While wearing or carrying an object inscribed with this Rune, you have **:d20-adv: Advantage**{ .d20 } on Arcana checks, and you can't be Surprised as long as you don't have the Incapacitated condition.
@@ -73,33 +71,25 @@ You have learned how to imbue yourself with the might of giants. As a **:rsc-b: 
 
 **Giant's Strength**{ .inl } You have **:d20-adv: Advantage**{ .d20 } on Strength checks and Strength saving throws.
 
-**Gigantic Force**{ .inl } Once per turn, when you make an attack you deal an extra 1d6 damage to a target on a hit.
+**Gigantic Force**{ .inl } Once per turn, when you make an attack you deal an extra 1d6 damage to a target on a hit. The damage increases by 1d6 when you reach level 10 (2d6) and 17 (3d6).
 
 You can use this once per **:rest-long: Long Rest**. When you have no uses of this feature left, you can expend one us of your Second Wind to use Giant's Might again.
 
 ### Level 7: Runic Shield
 
-You learn to invoke your rune magic to protect your allies. When another creature you can see within 60 feet of you is hit by an attack, you can use your **:rsc-r: Reaction**{ .rsc } to force the attacker to reroll the d20 and use the new roll. You can use this feature a number of times equal to your Constitution modifier (minimum of 1), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
+You learn to invoke your rune magic to protect your allies. When a creature you can see within 30 feet of you is hit by an attack, you can use your **:rsc-r: Reaction**{ .rsc } to expend **1 Rune Charge(s)** to add your Constitution modifier (minimum of +1) to the creature's AC against that attack.
 
-### Level 10: Great Stature
+### Level 10: Unyielding Fortitude
 
-The magic of your runes permanently alters you.
+Your body has been fortified by the elder magic you wield. You have **:d20-adv: Advantage**{ .d20 } on saves to resist Forced Movement and conditions such as ^^Poisoned^^, ^^Stunned^^, and ^^Prone^^.
 
-**Growth**{ .inl } When you gain this feature, roll 3d4. You grow a number of inches in height equal to the roll.
+### Level 15: Elder Insight
 
-**Colossal Force**{ .inl } The extra damage you deal with your Giant's Might feature increases to 1d10.
-
-### Level 15: Master of Runes
-
-You can invoke each Rune you know from your Rune Carver feature twice, rather than once, and you regain all expended uses when you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
+When you roll for Initiative while you have no Rune Charge(s) remaining, you regain 1 charge.
 
 ### Level 18: Runic Juggernaut
 
-You learn how to amplify your rune-powered transformation.
-
-**Titanic Force**{ .inl } The extra damage you deal with the Giant's Might feature increases to 2d6.
-
-**Titan Sized**{ .inl } When you use Giant's Might, your size can increase to Huge. When you do, your reach increases by 5 feet for the
+You learn how to amplify your rune-powered transformation. When you use Giant's Might, your can increase your size to Huge. When you do, your reach increases by 5 feet for the duration.
 
 --8<-- "includes/snippets/skills.md"
 
