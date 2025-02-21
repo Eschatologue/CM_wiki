@@ -13,7 +13,7 @@
 .jetbrains {
     font-size: calc(var(--default-font-size) * 0.8);
     font-family: var(--jetbrains);
-    word-spacing: convert.px2rem(-6px);
+    word-spacing: convert.px2rem(-4px);
 
     // @media screen and (max-width: 720px) {
     //     font-size: calc(var(--table-font-size) * 0.85);
@@ -36,6 +36,10 @@
 
 .nowrap {
     white-space: nowrap;
+
+    @media screen and (max-width: 720px) {
+        white-space: normal;
+    }
 }
 
 .smallcap {

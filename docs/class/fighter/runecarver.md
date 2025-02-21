@@ -1,5 +1,5 @@
 ---
-title: "Subclass: Rune Knight (Fighter)"
+title: "Subclass: Runecarver (Fighter)"
 status: adapted
 ---
 
@@ -7,13 +7,15 @@ status: adapted
 Channel the Runic Magic of Giants
 </p>
 
-# Rune Knight
+# Runecarver
 
-> *Channel the Runic Magic of Giants*
+> *Wield the Primordial Might of the Jötnar*
 
-Rune Knights enhance their martial prowess using the supernatural power of runes, an ancient practice that originated with giants. Rune cutters can be found among any family of giants, and you likely learned your methods first or second hand from such a mystical artisan. Whether you found the giant's work carved into a hill or cave, learned of the runes from a sage, or met the giant in person, you studied the giant's craft and learned how to apply magic runes to empower your equipment.
+Runecarvers channel the ancient magic of the jötnar, the primordial titans who shaped the world before mortals walked it. Their runes are more than mere symbols—they are the echoes of creation itself, remnants of a time when giants and gods clashed for dominion over the realms.
 
-### Level 3: Rune Carver
+You may have uncovered these sigils in the ruins of a forgotten age, inherited them from a wandering jötunn, or had them seared into your soul through an ancient pact. However you came by this knowledge, you now carve these runes into your weapons, armor, and flesh, wielding the primal forces of the world as the giants once did.
+
+### Level 3: Runecarving
 
 You can use magic runes to enhance your gear.
 
@@ -23,7 +25,7 @@ You can use magic runes to enhance your gear.
 
 **Inscribing Runes**{ .inl } Whenever you finish a **:rest-long: Long Rest**, you can touch a number of objects equal to the number of Runes you know, and you inscribe a different Rune onto each of the objects. To be eligible, an object must be a Weapon, a suit of Armour, a Shield, a piece of jewelry, or something else you can wear or hold in a hand. Your Rune remains on an object until you finish a **:rest-long: Long Rest**, and an object can bear only one of your Runes at a time.
 
-**Rune Charge**( .inl ) You have a number of Rune Charge(s) up to your Constitution modifier. Rune Charge(s) is expended whenever you use it to **Invoke** a rune's effect or other class feature. You regain one expended use when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**.
+**Rune Charge**{ .inl } You have a number of Rune Charge(s) up to your Constitution modifier. Rune Charge(s) is expended whenever you use it to **Invoke** a rune's effect or other class feature. You regain one expended use when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 The following Runes are available to you when you learn a Rune. If a Rune has a level requirement, you must be at least that level in this class to learn the Rune. If a Rune requires a saving throw, your Rune Magic save DC equals `8 plus your Proficiency Bonus plus your Constitution modifier`.
 
@@ -63,35 +65,35 @@ The following Runes are available to you when you learn a Rune. If a Rune has a 
     **Invoke**<br>_1 Rune Charge(s)_
     :   You can invoke the Rune as a **:rsc-b: Bonus Action**{ .rsc } to enter a prophetic state for 1 minute or until you have the ^^Incapacitated^^ condition. Until the state ends, when you or another creature you can see within 60 feet of you makes an attack roll, a saving throw, or an ability check, you can use your **:rsc-r: Reaction**{ .rsc } to cause the roll to have **:d20-adv: Advantage**{ .d20 } or **:d20-dis: Disdvantage**{ .d20 }.
 
-### Level 3: Giant's Might
+### Level 3: Jötunn’s Might
 
 You have learned how to imbue yourself with the might of giants. As a **:rsc-b: Bonus Action**{ .rsc }, you magically gain the following benefits for 1 minute:
 
-**Giant Sized**{ .inl } If you are smaller than Large, you become Large, along with anything you are wearing. If you lack the room to become Large, your size doesn't change.
+**Titan’s Form**{ .inl } If you are smaller than Large, you become Large, along with anything you are wearing. If you lack the room to become Large, your size doesn't change.
 
-**Giant's Strength**{ .inl } You have **:d20-adv: Advantage**{ .d20 } on Strength checks and Strength saving throws.
+**Jötunn’s Strength**{ .inl } You have **:d20-adv: Advantage**{ .d20 } on Strength checks and Strength saving throws.
 
-**Gigantic Force**{ .inl } Once per turn, when you make an attack you deal an extra 1d6 damage to a target on a hit. The damage increases by 1d6 when you reach level 10 (2d6) and 17 (3d6).
+**Runebound Strikes**{ .inl } Once per turn, when you make an attack you deal an extra 1d6 damage to a target on a hit. The damage increases by 1d6 when you reach level 10 (2d6) and 17 (3d6).
 
 You can use this once per **:rest-long: Long Rest**. When you have no uses of this feature left, you can expend one us of your Second Wind to use Giant's Might again.
 
-### Level 7: Runic Shield
+### Level 7: Runeshield
 
-You learn to invoke your rune magic to protect your allies. When a creature you can see within 30 feet of you is hit by an attack, you can use your **:rsc-r: Reaction**{ .rsc } to expend **1 Rune Charge(s)** to add your Constitution modifier (minimum of +1) to the creature's AC against that attack.
+By invoking the protective sigils of the jötnar, you can shield your allies from harm. When a creature you can see within 30 feet of you is hit by an attack, you can use your **:rsc-r: Reaction**{ .rsc } to expend **1 Rune Charge(s)** to add your Constitution modifier (minimum of +1) to the creature's AC against that attack.
 
 ### Level 10: Unyielding Fortitude
 
-Your body has been fortified by the elder magic you wield. You have **:d20-adv: Advantage**{ .d20 } on saves to resist Forced Movement and conditions such as ^^Poisoned^^, ^^Stunned^^, and ^^Prone^^.
+The runes etched into your body fortify your flesh and spirit. You have **:d20-adv: Advantage**{ .d20 } on saves to resist Forced Movement and conditions such as ^^Poisoned^^, ^^Stunned^^, and ^^Prone^^.
 
 ### Level 15: Elder Insight
 
-When you roll for Initiative while you have no Rune Charge(s) remaining, you regain 1 charge.
+The ancient knowledge of the jötnar flows through you, guiding you in battle. When you roll for Initiative while you have no Rune Charge(s) remaining, you regain 1 charge.
 
-### Level 18: Runic Juggernaut
+### Level 18: Runic Colossus
 
-You learn how to amplify your rune-powered transformation. When you use Giant's Might, your can increase your size to Huge. When you do, your reach increases by 5 feet for the duration.
+You have mastered the might of the jötnar, allowing your body to channel their full power. When you use [Jötunn’s Might](#level-3-jötunns-might), your can increase your size to Huge. When you do, your reach increases by 5 feet for the duration.
 
 --8<-- "includes/snippets/skills.md"
 
-:material-book-arrow-up: Updated by *Spaghetti0* and *PerfectlyCircularSeal*
+:material-book-arrow-up: Updated by *Eschatologue*
 { .author }
