@@ -266,7 +266,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   background-color: var(--md-code-bg-color);
   box-decoration-break: clone;
   padding: 0.0625em 0.25em;
-  border-radius: 0.375em;
+  border-radius: 0.1875em;
   font-weight: 400 !important;
 }
 
