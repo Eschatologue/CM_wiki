@@ -50,8 +50,10 @@
 .md-typeset blockquote strong {
   color: var(--md-default-fg-color--light) !important;
 }
-.md-typeset a:is(:focus, :hover) {
+.md-typeset a {
   transition: background-color 250ms, padding 100ms ease;
+}
+.md-typeset a:is(:focus, :hover) {
   border-radius: 0.1875em;
   box-decoration-break: clone;
   padding: 0 0.1875em;
