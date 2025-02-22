@@ -56,15 +56,17 @@
         color: var(--md-default-fg-color--light) !important;
     }
 
-    a:is(:focus, :hover) {
+    a {
         transition: 
-            background-color 250ms,
-            padding 100ms ease; 
-        border-radius: convert.px2em(3px);
-        box-decoration-break: clone;
-        padding: 0 convert.px2em(3px);
-        color: var(--md-gbl-link-color);
-        background-color: var(--md-primary-fg-color--transparent);
+                background-color 250ms,
+                padding 100ms ease; 
+        &:is(:focus, :hover) {
+            border-radius: convert.px2em(3px);
+            box-decoration-break: clone;
+            padding: 0 convert.px2em(3px);
+            color: var(--md-gbl-link-color);
+            background-color: var(--md-primary-fg-color--transparent);
+        }
     }
 }
 
