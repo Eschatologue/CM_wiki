@@ -9,7 +9,7 @@ In *Crown & Misery*, **Affiliation** represents your character’s ties to one o
 
 ## Affiliation Points
 
-At character creation, you have **5 Affiliation Points**, which you may distribute among the four groups as you choose.  
+At character creation, you have **5 Affiliation Points**, which you may distribute among the [four groups](#the-four-circle) as you choose.  
 
 Each point represents your level of influence within that group. A character with **Academe 3**, **Bohemia 2**, **Establishment 0**, **Villainy 0** is well-connected in academic and artistic circles but has no standing among nobles or criminals. A character with **Villainy 5** is deeply entrenched in the criminal underworld but lacks connections elsewhere.
 
@@ -19,7 +19,7 @@ Your Affiliation determines:
 - **What privileges you have access to.**  
 - **How different factions perceive you.**  
 
-The DM will determine **when and how** Affiliation Points are spent or regained, based on your roleplaying choices and in-game actions.  
+The DM will determine **when and how** Affiliation Points are spent or regained.  
 
 ### Common Uses of Affiliation 
 
@@ -48,7 +48,7 @@ Examples of actions that restore Affiliation include:
 
 Each Affiliation represents a distinct societal group with its own **values, power structures, and expectations**.
 
-### :material-book-multiple:{ .lg } Academe
+### :material-book-multiple:{ .xl } <br>Academe
 
 *Your associates among scholars, mages, and scientists*
 { .quote }
@@ -69,7 +69,7 @@ The Academe consists of scholars, scientists, mages, and intellectuals who seek 
 - Knowledge is often **hoarded, sold, or controlled**, meaning access may come with **strings attached**.  
 - Political and religious forces may seek to **suppress certain discoveries**, making some knowledge dangerous to pursue.  
 
-### :material-glass-wine:{ .lg } Bohemia
+### :material-glass-wine:{ .xl } <br>Bohemia
 
 *Your associates among artists, dreamers, and revolutionaries*
 { .quote }
@@ -90,7 +90,7 @@ Bohemia is the domain of artists, poets, musicians, spiritual leaders, and visio
 - Art and faith are powerful tools for **inciting rebellion**, making some Bohemians dangerous to ruling powers.  
 - Creativity is often undervalued, meaning many artists **struggle financially** despite their fame.  
 
-### :material-crown:{ .lg } Establishment
+### :material-crown:{ .xl } <br>Establishment
 
 *Your associates among the authorities, bureaucrats, the moneyed, and the aristocracy.*
 { .quote }
@@ -111,9 +111,9 @@ The Establishment consists of those who wield power in **politics, military, and
 - Corruption is rampant, and debts to the powerful **can be difficult to repay**.  
 - Those who defy the Establishment risk **exile, imprisonment, or assassination**.  
 
-### :material-domino-mask:{ .lg } Vilainy
+### :material-domino-mask:{ .xl } <br>Vilainy
 
-*Your associations among thieves, outcasts, and pirates*
+*Your associates among thieves, outcasts, and pirates*
 { .quote }
 
 Villainy represents those who operate **outside the bounds of law and morality**. This includes criminals, rebels, assassins, and black-market traders. Some seek **profit**, others seek **revenge**, and a few simply have **nowhere else to turn**.  
